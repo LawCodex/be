@@ -1,0 +1,2518 @@
+---
+title: "Loi relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire"
+identifier: "1994025189"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/15/1994025189/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1994-04-15
+published: 1994-07-29
+entry_into_force: 1997-03-14
+last_amended: 2026-01-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/15/1994025189/justel"
+department: "Santé Publique et Environnement - Emploi et Travail"
+justel_notes:
+  - "articles modifiés avec effet à une date indéterminée par L 2019-04-05/27 , art. 2-4; En vigueur : indéterminée "
+  - "Consultation des versions antérieures à partir du 07-09-1995 et mise à jour au 19-01-2026"
+retrieved: 2026-10-11
+---
+
+# 15 AVRIL 1994. - Loi relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire
+
+## CHAPITRE I. - Dispositions générales.
+
+##### Art. 1
+
+Pour l'application de la présente loi, et de ses mesures d'exécution, il y a lieu d'entendre par :
+
+\- rayonnements ionisants : rayonnements composés de photos ou de particules capables de déterminer la formation d'ions directement ou indirectement;
+
+\- substance radioactive : toute substance [<sup>5</sup> ou toute matière]<sup>5</sup> contenant un ou plusieurs radionucléides dont l'activité ou la concentration ne peut être négligée pour des raisons de radioprotection;
+
+\- autorités compétentes : (les autorités désignées en vertu de la présente loi et de ses arrêtés d'exécution); &lt;L 2003-04-02/38, art. 2, 009; En vigueur : 01-06-2003&gt;
+
+\- règlement général : [<sup>4</sup> règlement général : l'arrêté royal du 20 juillet 2001 portant règlement général de la protection de la population, des travailleurs et de l'environnement contre le danger des rayonnements ionisants;]<sup>4</sup>
+
+\- [<sup>6</sup> organisme de contrôle physique : organisme, qui, en vertu de l'article 29bis, est agréé pour effectuer des missions du service de contrôle physique;";]<sup>6</sup>
+
+\- service de contrôle physique : [<sup>6</sup> le service qui, en vertu de l'article 28, est en charge du contrôle physique;]<sup>6</sup>
+
+\- l'Agence : l'établissement public créé par la présente loi pour le contrôle nucléaire;
+
+[<sup>6</sup> - pratique : activité humaine susceptible d'accroître l'exposition de certains individus aux rayonnements ionisants provenant d'une source artificielle ou d'une source naturelle de rayonnement lorsque des radionucléides naturels sont traités en raison de leurs propriétés radioactives, fissiles ou fertiles, sauf dans le cas d'une exposition d'urgence;]<sup>6</sup>
+
+[<sup>6</sup> - contrôle physique: l'ensemble des mesures, exécutées sous la responsabilité du détenteur de l'autorisation, dans le but de vérifier que la population, les travailleurs et l'environnement sont protégés de manière effective contre le danger des rayonnements ionisants, et que les risques associés sont gérés de manière effective à l'exception :
+
+a) des mesures relatives à la surveillance de la santé des personnes professionnellement exposées aux rayonnements ionisants;
+
+b) des mesures relatives à la surveillance de l'exposition médicale des personnes;
+
+c) des mesures de protection physique;
+
+d) des mesures de sécurité des substances radioactives;]<sup>6</sup>
+
+[<sup>6</sup> - surveillance de la santé des travailleurs : la surveillance de l'ensemble des mesures garantissant la santé des travailleurs, prises en application de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail et prises sous la responsabilité d'un médecin agréé en vertu de la présente loi;]<sup>6</sup>
+
+[<sup>6</sup> - détenteur d'autorisation: détenteur d'une autorisation délivrée en vertu de l'article 16 ou d'un agrément délivré en vertu de l'article 4;]<sup>6</sup>
+
+(- matières nucléaires : les produits fissiles spéciaux et les matières brutes suivantes :
+
+a) les produits fissiles spéciaux sont le plutonium 239, l'uranium 233, l'uranium enrichi en uranium 235 ou 233; tout produit contenant un ou plusieurs des isotopes ci-dessus.
+
+L'uranium enrichi en uranium 235 ou 233 est de l'uranium qui contient soit de l'uranium 235 soit de l'uranium 233, soit ces deux isotopes en quantité telle que le rapport entre la somme de ces deux isotopes et l'isotope 238 est supérieur au rapport entre l'isotope 235 et l'isotope 238 dans l'uranium naturel;
+
+b) les matières brutes sont l'uranium contenant le mélange d'isotopes qui se trouve dans la nature, et l'uranium appauvri en uranium 235; le thorium; toutes les matières mentionnées ci-dessus sous forme de métal, d'alliage, de composés chimiques ou de concentrés;
+
+\- transport nucléaire national : le transport de matières nucléaires conditionnées en vue d'un envoi par tout moyen de transport lorsque celui-ci se déroule exclusivement à l'intérieur du territoire belge;
+
+\- transport nucléaire international : le transport de matières nucléaires conditionnées en vue d'un envoi par tout moyen de transport lorsqu'il doit franchir les frontières du territoire au départ d'une installation de l'expéditeur située dans l'Etat d'origine jusqu'à son arrivée dans une installation du destinataire sur le territoire de l'Etat de destination finale;
+
+\- mesures de protection physique : toute mesure administrative, organisationnelle et technique [<sup>10</sup> , y compris relative à la protection des documents nucléaires,]<sup>10</sup> qui a pour objectif de protéger les matières nucléaires en cours de production, d'utilisation, d'entreposage ou de transport contre les risques de détention illicite et de vol comme de protéger les matières nucléaires en cours de production, d'utilisation, d'entreposage ainsi que les installations nucléaires et les transports nucléaires nationaux et internationaux contre les risques de sabotage [<sup>10</sup> ...]<sup>10</sup>;
+
+[<sup>5</sup> - mesures de sécurité pour les substances radioactives: toute mesure administrative, organisationnelle et technique [<sup>10</sup> , y compris relative à la protection des documents de sécurité radiologique,]<sup>10</sup> qui a pour objectif:
+
+a) de protéger les substances radioactives autres que les matières nucléaires, en cours de production, d'utilisation, d'entreposage ou de transport contre les risques de détention illicite et de vol;
+
+b) de protéger contre les risques de sabotage ou de toute utilisation malveillante:
+
+1\) les substances radioactives autres que les matières nucléaires et qui sont en cours de production, d'utilisation ou d'entreposage;
+
+2\) les établissements où ces substances sont produites, fabriquées, détenues ou utilisées ainsi que leur transport;]<sup>5</sup>
+
+[<sup>5</sup> - mesures de sécurité pour les appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives: toute mesure administrative, organisationnelle et technique [<sup>10</sup> , y compris relative à la protection des documents de sécurité radiologique,]<sup>10</sup> qui a pour objectif:
+
+a) de protéger les dits appareils ou installations contre les risques de détention illicite et de vol;
+
+b) de protéger contre les risques de sabotage ou de toute utilisation malveillante:
+
+1\) lesdits appareils ou installations, ainsi que le transport de ces appareils ou installations;
+
+2\) les établissements et lieux où se trouvent ces appareils et installations;]<sup>5</sup>
+
+\- sabotage : [<sup>5</sup> tout acte délibéré:
+
+a) qui est dirigé contre:
+
+1\) des matières nucléaires en cours de production, d'utilisation, d'entreposage ou de transport;
+
+2\) des installations nucléaires;
+
+3\) des transports nucléaires nationaux ou internationaux;
+
+4\) des substances radioactives autres que les matières nucléaires et qui sont en cours de production, d'utilisation, d'entreposage ou de transport;
+
+5\) des établissements ou parties d'établissements, où des substances radioactives sont produites, fabriquées, détenues ou utilisées;
+
+6\) des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives;
+
+7\) le transport des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives;
+
+8\) des établissements, parties d'établissement et lieux où se trouvent des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives;
+
+et
+
+b) qui pourrait mettre directement ou indirectement en danger la santé et la sécurité du personnel, de la population et de l'environnement par une exposition aux radiations ou l'émission de substances radioactives]<sup>5</sup>;
+
+\- [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>3</sup> - réacteur de puissance : un réacteur nucléaire, conçu à des fins [<sup>13</sup> de production énergétique, en ce y compris électrique,]<sup>13</sup>, qui est ou a été autorisé en tant qu'établissement de classe I en application de la réglementation relative à la protection contre les rayonnements ionisants et pour lequel aucune autorisation de démantèlement n'a encore été délivrée.]<sup>3</sup>
+
+[<sup>4</sup> - personne professionnellement exposée : chaque personne physique soumise, dans le cadre de ses activités professionnelles, à une exposition aux rayonnements ionisants susceptible d'entraîner le dépassement de l'une des limites de dose fixées pour les personnes du public;
+
+\- personne soumise à la surveillance dosimétrique : chaque personne physique qui exécute des activités de quelque nature que ce soit lors desquelles elle est soumise à une exposition aux rayonnements ionisants susceptible d'entraîner le dépassement de l'une des limites de dose fixées pour les personnes du public;
+
+\- exploitant : toute personne physique ou morale qui assume la responsabilité de l'établissement devant faire l'objet d'une autorisation ou d'une déclaration conformément aux dispositions découlant de l'article 17;
+
+\- entreprise extérieure : toute personne physique ou morale appelée à exécuter des activités de quelque nature que ce soit dans un établissement devant faire l'objet d'une autorisation ou d'une déclaration conformément aux dispositions découlant de l'article 17, au cours desquelles l'une des limites de dose fixées pour les personnes du public pourraient être dépassées, à l'exception de l'exploitant de cet établissement et des membres de son personnel;
+
+\- médecin agréé : le conseiller en prévention-médecin du travail travaillant dans un service interne ou externe pour la prévention et la protection au travail, compétent dans le domaine de la médecine du travail conformément aux dispositions de la loi du 4 août 1996 relative au bien-être des travailleurs dans la cadre de l'exécution de leur travail et à ses arrêtés d'exécution et qui, en outre, est agréé conformément aux mesures d'exécution prises en vertu des articles 3 et 19;
+
+\- travailleur extérieur : toute personne soumise à la surveillance dosimétrique qui exécute chez un exploitant une mission comportant un risque d'exposition, qu'elle soit employée à titre temporaire ou permanent par une entreprise extérieure, ou qu'elle preste ses services en qualité de travailleur indépendant;
+
+\- mission comportant un risque d'exposition : l'activité de quelque nature que ce soit prestée par un travailleur extérieur chez un exploitant au cours de laquelle l'une des limites de dose fixées pour les personnes du public pourrait être dépassée;
+
+\- registre d'exposition : le système d'enregistrement centralisé des données dosimétriques des personnes soumises à la surveillance dosimétrique, visé à l'article 25/2;
+
+\- passeport radiologique : le document individuel établi pour les travailleurs extérieurs permettant d'assurer leur surveillance dosimétrique pendant les missions comportant un risque d'exposition qu'ils exécutent à l'étranger;
+
+\- professionnel des soins de santé : [<sup>9</sup> le responsable du traitement qui gère les données concernant la santé visées dans la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel et désigné au sein de l'Agence;]<sup>9</sup>
+
+\- consultant en sécurité de l'information et protection de la vie privée : le consultant visé à l'article 4, § 5, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la Sécurité sociale et désigné au sein de l'Agence;
+
+\- responsable du traitement : [<sup>9</sup> la personne visée dans la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, en l'occurrence l'Agence;]<sup>9</sup>
+
+\- unité d'implantation : le lieu d'activité, géographiquement identifiable par une adresse, où s'exerce au moins une activité de l'entreprise ou à partir duquel elle est exercée;
+
+\- travailleur : le travailleur visé à l'article 2, § 1er, alinéas 1er et 2, 1°, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;
+
+\- employeur : l'employeur visé à l'article 2, § 1er, alinéas 1er et 2, 2°, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;
+
+\- surveillance dosimétrique : la surveillance dosimétrique telle que visée à l'article 30.6 du Règlement général;
+
+\- sources authentiques : le Registre national créé par la loi du 8 août 1983 organisant un Registre national des personnes physiques, la Banque-Carrefour des entreprises créée par la loi du 16 janvier 2003 portant création d'une Banque-Carrefour des Entreprises, modernisation du registre de commerce, création de guichets-entreprises agréés et portant diverses dispositions, et les Registres de la Banque-Carrefour de la Sécurité sociale (Registre bis et Registre des radiés) créés par la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la Sécurité sociale;
+
+\- données anonymes : les données qui ne peuvent être mises en relation avec une personne identifiée ou identifiable et qui ne sont, en conséquence, pas des données à caractère personnel;]<sup>4</sup>
+
+[<sup>12</sup> - la loi NIS2: la loi du 26 avril 2024 établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique;]<sup>12</sup>
+
+[<sup>8</sup> - 'délégué à la protection des données' : le délégué désigné par l'Agence en application de l'article 37.1. a) du règlement 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE;]<sup>8</sup>
+
+[<sup>9</sup> - "loi du 23 mars 2020": la loi du 23 mars 2020 visant à flouter les images d'établissements nucléaires et sensibles et à limiter la prise ou la diffusion de photographies aériennes de ces établissements dans l'intérêt de la sécurité publique;]<sup>9</sup>
+
+[<sup>11</sup> - " mesures de cybersécurité nucléaire :
+
+les mesures relatives à la sécurité des réseaux et des systèmes d'information des installations nucléaires et des établissements où des substances radioactives sont produites, fabriquées, détenues ou utilisées, ou où se trouvent des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives, à des fins de cybersécurité nucléaire;
+
+\- cybersécurité nucléaire :
+
+la sécurité des réseaux et systèmes d'information des installations nucléaires et des établissements où des substances radioactives sont produites, fabriquées, détenues ou utilisées, ou où se trouvent des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives;
+
+\- réseau et système d'information :
+
+1\. un réseau de communications électroniques au sens de l'article 2, 3°, de la loi du 13 juin 2005 relative aux communications électroniques;
+
+2\. un dispositif ou un ensemble de dispositifs interconnectés ou apparentés, de manière permanente ou temporaire, dont un ou plusieurs éléments assurent, en exécution d'un programme, un traitement automatisé de données numériques, en ce compris les composants numériques, électroniques ou mécaniques de ce dispositif permettant notamment l'automatisation d'un processus opérationnel, le contrôle à distance, ou l'obtention de données de fonctionnement en temps réel;
+
+3\. ou les données numériques stockées, traitées, récupérées ou transmises par les éléments visés aux points 1 et 2 en vue de leur fonctionnement, leur utilisation, leur protection et leur maintenance.
+
+\- sécurité des réseaux et des systèmes d'information :
+
+la capacité des réseaux et des systèmes d'information de résister, à un niveau de fiabilité donné, à des actions qui compromettent la disponibilité, l'authenticité, l'intégrité ou la confidentialité de données stockées, transmises ou faisant l'objet d'un traitement, et des services connexes que ces réseaux et systèmes d'information offrent ou rendent accessibles;
+
+\- cyber-incident :
+
+tout événement ayant un impact négatif réel sur la sécurité des réseaux et des systèmes d'information;
+
+\- cyber-risques :
+
+toute circonstance ou tout événement raisonnablement identifiable ayant une incidence négative potentielle sur la sécurité des réseaux et des systèmes d'information.]<sup>11</sup>
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 2, 017; En vigueur : 01-10-2011&gt;
+
+(2)&lt;L 2014-03-19/26, art. 2, 021; En vigueur : 16-06-2014&gt;
+
+(3)&lt;L 2014-05-15/59, art. 2, 022; En vigueur : 01-01-2015&gt;
+
+(4)&lt;L 2014-01-26/17, art. 2, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+(5)&lt;L 2017-12-13/15, art. 2, 026; En vigueur : 08-01-2018&gt;
+
+(6)&lt;L 2017-05-07/07, art. 2, 025; En vigueur : 31-12-2018&gt;
+
+(7)&lt;L 2019-04-07/15, art. 85, 029; En vigueur : 03-05-2019&gt;
+
+(8)&lt;L 2019-04-22/22, art. 2, 031; En vigueur : 31-05-2019&gt;
+
+(9)&lt;L 2021-12-19/08, art. 2, 034; En vigueur : 28-01-2022&gt;
+
+(10)&lt;L 2024-02-07/13, art. 2, 039; En vigueur : 29-02-2024&gt;
+
+(11)&lt;L 2019-04-05/27, art. 2, 041; En vigueur : 05-09-2024&gt;
+
+(12)&lt;L 2024-04-26/19, art. 76, 042; En vigueur : 18-10-2024&gt;
+
+(13)&lt;L 2025-05-17/01, art. 13, 044; En vigueur : 05-06-2025&gt;
+
+##### Art. 1bis
+
+&lt;Inséré par L 2003-04-02/38, art. 3; En vigueur : 01-06-2003&gt; Pour l'application de la présente loi, et de ses arrêtés d'exécution, il y a lieu d'entendre, pour ce qui concerne les mesures de protection physique, [<sup>2</sup> les mesures de sécurité pour les substances radioactives, ainsi que les mesures de sécurité pour les appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives,]<sup>2</sup> par :
+
+\- installation nucléaire : toute installation où sont produites, utilisées ou entreposées des matières nucléaires.
+
+[<sup>1</sup> - Catégorisation : attribution d'un degré de protection physique aux matières nucléaires, aux documents nucléaires et aux zones de sécurité.
+
+\- Echelon de sécurité : degré de protection physique attaché aux matières nucléaires, aux zones de sécurité et aux documents nucléaires.
+
+\- Document nucléaire : toute information enregistrée, quels qu'en en soient la forme, le traitement, la nature juridique ou les caractéristiques physiques, à laquelle un échelon de sécurité est attribué et relative aux matières nucléaires en cours de production, d'utilisation, d'entreposage ou de transport ou aux mesures de protection physique mises en place pour protéger les matières et installations nucléaires ainsi que les transports de matières nucléaires à l'exception :
+
+a) des documents qui doivent accompagner les transports de matières nucléaires nationaux ou internationaux en vertu de la réglementation en vigueur;
+
+b) des documents classifiés conformément à la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité;
+
+c) des documents intervenant dans le cadre des mesures de protection physique et qui contiennent des données personnelles autres que le nom, le prénom d'une personne, l'indication de son niveau d'habilitation de sécurité ou l'indication des matières nucléaires catégorisées, des zones de sécurité et des documents nucléaires auxquels elle a accès en vertu de la présente loi.
+
+\- Zone de sécurité : tout endroit d'une installation nucléaire ou d'une entreprise de transport nucléaire - en ce compris les véhicules de transport nucléaire - auquel est attribué un échelon de sécurité ou, où se trouvent :
+
+a) des matières nucléaires auxquelles un échelon de sécurité est attribué;
+
+ou
+
+b) des documents nucléaires;
+
+ou
+
+c) des équipements, des systèmes, des dispositifs ou tout autre élément dont le sabotage pourrait conduire directement ou indirectement à des conséquences radiologiques dépassant les normes radiologiques internationalement reconnues pour les travailleurs, la population ou l'environnement;]<sup>1</sup>
+
+[<sup>2</sup> - Document de sécurité radiologique:
+
+toute information enregistrée, quels qu'en en soient la forme, le traitement, la nature juridique ou les caractéristiques physiques, qui est relative aux mesures de sécurité des substances radioactives, visées à l'article 17quater ou aux mesures de sécurité des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives, visées à l'article 17quinquies, à condition que l'accès non autorisé à cette information, sa divulgation ou son utilisation inappropriée permette ou facilite une atteinte malveillante, criminelle ou terroriste, aux personnes, aux biens ou à l'environnement en raison du risque d'exposition aux radiations ionisantes ou d'émission de substances radioactives et à l'exception:
+
+a) des documents classifiés conformément à la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité;
+
+b) des documents nucléaires, tels que définis au quatrième tiret;
+
+c) des documents intervenant dans le cadre des mesures de sécurité prévues aux articles 17quater ou 17quinquies et qui contiennent des données personnelles autres que le nom, le prénom d'une personne ou l'indication de ses autorisations d'accès en vertu de la présente loi ou de la loi du 11 décembre 1998 précitée.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 3, 017; En vigueur : 01-10-2011&gt;
+
+(2)&lt;L 2024-02-07/13, art. 3, 039; En vigueur : 29-02-2024&gt;
+
+##### Art. 2
+
+Il est constitué un établissement public doté de la personnalité juridique, dénommé " Agence fédérale de Contrôle nucléaire ", en abrégé A.F.C.N.
+
+Son siège est établi dans l'arrondissement administratif de Bruxelles-Capitale.
+
+Sans préjudice des dispositions des articles 32 à 34 de la présente loi, l'Agence est soumise à la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public.
+
+A l'article 1er de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public sont insérés dans la catégorie C, à leur place dans l'ordre alphabétique, les mots " Agence fédérale de Contrôle nucléaire ".
+
+##### Art. 2bis
+
+&lt;Inséré par L 2003-04-02/38, art. 4; En vigueur : 01-06-2003&gt; La loi du 11 avril 1994 relative à la publicité de l'administration n'est pas applicable aux matières nucléaires [<sup>1</sup> ni aux documents nucléaires]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 4, 017; En vigueur : 01-10-2011&gt;
+
+##### Art. 2ter
+
+[<sup>1</sup> Le gouvernement approuve, sur proposition de l'Agence, une déclaration de politique nationale relative à la sûreté nucléaire, la sécurité nucléaire et la radioprotection, basée au moins sur les principes généraux suivants :
+
+\- le principe de justification et la priorité à la sûreté et la sécurité nucléaire;
+
+\- l'amélioration continue dans un cadre international;
+
+\- une communication transparente;
+
+\- la gestion sûre des déchets radioactifs;
+
+\- la défense en profondeur;
+
+\- la vision à long terme.
+
+Le gouvernement transmet à la Chambre des représentants la déclaration visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-07/07, art. 3, 025; En vigueur : 01-04-2018&gt;
+
+## CHAPITRE II. - Autorités compétentes.
+
+##### Art. 3
+
+(Note : Entrée en vigueur fixée le 02-11-1997, en ce qui concerne l'exportation, par AR 1997-10-02/36, art. 1) Le Roi, à l'exclusion de l'autorité communale, peut prendre des mesures afin de protéger les travailleurs, la santé publique ou l'environnement.
+
+Ces mesures sont relatives aux conditions liées à l'importation, à l'exportation, à la production, à la fabrication, à la possession, (au transport,) au transit, à la mise en vente, à la vente, à la renonciation/abandon à titre onéreux ou gratuit, à la répartition et à l'utilisation à but commercial, industriel, scientifique, médical ou autres d'appareils, d'installations ou de substances capables d'émettre des rayonnements ionisants. Ces conditions liées aux activités susmentionnées peuvent également se rapporter aux accessoires d'appareils et d'installations et au logiciel qui sert à assurer la sécurité et le fonctionnement de ces appareils et installations. &lt;L 2003-04-02/38, art. 5, 009; En vigueur : 01-06-2003&gt;
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministre, les conditions, les restrictions et les modalités suivant lesquelles l'Agence remplit les missions déterminées aux articles 19 et 20.
+
+Il peut également réglementer l'évacuation de substances radioactives.
+
+Le Roi peut déterminer les modalités suivant lesquelles les autorités communales sont informées.
+
+##### Art. 4
+
+Sans préjudice des dispositions de l'article 8 le transport des appareils et substances visés à l'article 3 ne peut être effectué que par des personnes agréées à cet effet par l'Agence. Le Roi règle, après avoir pris l'avis de l'Agence, les modalités de l'agrément.
+
+##### Art. 5
+
+L'autorité compétente peut, à tout moment suspendre et annuler les décisions d'administrations décentralisées qui ont un effect direct ou indirect sur le transport de substances radioactives ou d'appareils contenant de telles substances.
+
+##### Art. 6
+
+Le Roi, à l'exclusion de l'autorité communale est autorisé, lorsqu'un événement imprévu met en péril la santé de la population et l'environnement, à prendre à l'égard des producteurs, fabricants, détenteurs, transporteurs ou utilisateurs d'appareils ou substances capables d'émettre des rayonnements ionisants, toutes mesures imposées par les circonstances et destinées à la sauvegarde de la population ou de l'environnement.
+
+Le Roi, à l'exclusion de l'autorité communale, est également autorisé à prescrire dans les mêmes circonstances et aux mêmes fins toutes mesures propres à écarter les dangers pouvant résulter de la contamination accidentelle de lieux, de matières ou de produits quelconques par des substances radioactives.
+
+##### Art. 7
+
+Le Roi désigne les personnes chargées de la surveillance du respect de la présente loi et de ses arrêtés d'exécution pour ce qui concerne [<sup>1</sup> la surveillance de la santé des travailleurs]<sup>1</sup> et les conditions d'hygiène du travail.
+
+----------
+
+(1)&lt;L 2014-01-26/17, art. 3, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 8
+
+Le Roi désigne les personnes charges des missions visées aux articles 7 et 14 :
+
+1\. (Sur le domaine militaire, étant entendu que l'Agence est chargée de surveiller et de contrôler le respect de la présente loi et de ses arrêtés d'exécution aux endroits où des personnes n'appartenant ni à la défense nationale ni à des forces armées étrangères sont présentes d'une façon habituelle); &lt;L 2003-04-02/38, art. 6, 009; En vigueur : 01-06-2003&gt;
+
+2\. en tous autres lieux qu'Il détermine, où sont produits, fabriqués, détenus ou utilisés des appareils ou substances capables d'émettre des rayonnements ionisants et destinés aux besoins des forces armées;
+
+3\. à l'occasion de transport que le ministre de la Défense nationale ordonne ou autorise d'appareils et substances précités.
+
+##### Art. 9
+
+[<sup>1</sup> § 1er. Sans préjudice des attributions des officiers de police judiciaire visées à l'article 8 du Code d'instruction criminelle, les membres du personnel statutaires et contractuels de l'Agence désignés par le Roi à cet effet surveillent le respect des règlements de l'Union européenne qui relèvent des compétences de l'Agence, des dispositions de la présente loi, de ses arrêtés d'exécution, ainsi que le respect des conditions reprises dans les autorisations, les permissions ou agréments en exécution de ces dispositions, et sont chargés de l'accompagnement conformément à l'article 10, alinéa 2, de la loi du 20 juillet 1978 établissant des dispositions propres à permettre à l'Agence internationale de l'Energie atomique d'effectuer des activités d'inspection et de vérification sur le territoire belge, en exécution de l'Accord international du 5 avril 1973 pris en application des §§ 1er et 4 de l'article III du Traité du 1er juillet 1968 sur la non-prolifération des armes nucléaires [<sup>2</sup> et à l'article 12, § 5, de la loi du 1er juin 2005 relative à l'application du Protocole additionnel du 22 septembre 1998 à l'Accord international du 5 avril 1993 pris en application de l'article III, paragraphes 1er et 4, du Traité du 1er juillet 1968 sur la non- prolifération des armes nucléaires]<sup>2</sup>.
+
+§ 2. Les membres du personnel désignés conformément au § 1er sont nommés "inspecteurs nucléaires".
+
+§ 3. Les membres du personnel désignés conformément au § 1er prêtent serment, préalablement à l'exercice de leurs fonctions et dans les termes prévus à l'article 2 du décret du 20 juillet 1831 concernant le serment à la mise en vigueur de la monarchie constitutionnelle représentative, entre les mains du ministre qui exerce la tutelle sur l'Agence ou de son délégué.
+
+§ 4. Les inspecteurs nucléaires peuvent exercer leurs attributions sur l'ensemble du territoire belge, mais uniquement en vue de contrôler l'exécution des dispositions de la présente loi et de ses arrêtés d'exécution, ainsi que le respect des conditions reprises dans les autorisations, les permissions ou agréments en exécution de ces dispositions, de la loi du 20 juillet 1978 établissant des dispositions propres à permettre à l'Agence internationale de l'Energie atomique d'effectuer des activités d'inspection et de vérification sur le territoire belge, en exécution de l'Accord international du 5 avril 1973 pris en application des §§ 1er et 4 de l'article III du Traité du 1er juillet 1968 sur la non-prolifération des armes nucléaires, de la loi du 1er juin 2005 relative à l'application du Protocole additionnel du 22 septembre 1998 à l'Accord international du 5 avril 1973 pris en application de l'article III, paragraphes 1er et 4, du Traité du 1er juillet 1968 sur la non-prolifération des armes nucléaires et des articles 477 à 477sexies et 488bis [<sup>2</sup> à 488quinquies]<sup>2</sup> du Code pénal.
+
+§ 5.[<sup>3</sup> § 5. Une liste nominative actualisée des membres du personnel désignés conformément au paragraphe 1er est publiée sur le site web de l'Agence ]<sup>1</sup>-]<sup>3</sup>.
+
+[<sup>1</sup> § 6. Les attributions conférées conformément au paragraphe 1er peuvent être retirées par le Roi]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 3, 021; En vigueur : 16-06-2014&gt;
+
+(2)&lt;L 2017-12-13/15, art. 3, 026; En vigueur : 08-01-2018&gt;
+
+(3)&lt;L 2025-02-21/12, art. 3, 043; En vigueur : 01-06-2025&gt;
+
+##### Art. 9bis
+
+[<sup>1</sup> § 1er. Par dérogation à la possibilité d'appliquer l'article 29 du Code d'instruction criminelle, les membres du personnel visés à l'article 9 ont le droit de donner des avertissements et de fixer au contrevenant un délai pour se mettre en règle.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Lorsque le jour de l'échéance du délai pour se mettre en règle est un samedi, un dimanche ou un jour férié légal, il est reporté au jour ouvrable qui suit.
+
+§ 2. Les membres du personnel visés à l'article 9 peuvent constater par des procès-verbaux faisant foi jusqu'à preuve du contraire les infractions à la présente loi, à ses arrêtés d'exécution, ainsi qu'aux conditions reprises dans les autorisations, les permissions ou agréments en exécution de ces dispositions, pour autant qu'une copie en soit transmise à l'auteur présumé de l'infraction dans un délai de soixante jours prenant cours le lendemain du jour de la constatation de l'infraction. En cas de non-respect de ce délai, le procès-verbal vaut à titre indicatif.
+
+§ 3. Lors de l'établissement des procès-verbaux, les constatations matérielles faites par eux peuvent être utilisées, avec leur force probante, par d'autres inspecteurs nucléaires, par d'autres services d'inspection ou par les membres du personnel statutaires ou contractuels chargés de la surveillance du respect d'autres législations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-19/26, art. 4, 021; En vigueur : 16-06-2014&gt;
+
+(2)&lt;L 2023-11-23/32, art. 2, 038; En vigueur : 30-12-2023&gt;
+
+##### Art. 10
+
+[<sup>1</sup> § 1er. Les membres du personnel, visés à l'article 9, munis des pièces justificatives de leur fonction, disposent des compétences de contrôle suivantes dans l'exercice de leur mission, tant dans le cadre de la compétence de traitement administratif, que dans le cadre de la constatation d'infractions par procès-verbal :
+
+1° ils disposent, à tout moment et sans avertissement préalable, d'un libre accès aux moyens de transport, aux usines, aux lieux de stockage, aux hôpitaux et, de manière plus générale, à tous les établissements où sont produits, fabriqués, détenus ou utilisés des appareils ou substances capables d'émettre des rayonnements ionisants, ainsi qu'à tous les endroits pour lesquels ils peuvent avoir un motif raisonnable de présumer que peuvent être trouvés des appareils ou substances précités, soumis aux dispositions des législations dont ils exercent la surveillance, ou des preuves de l'existence d'une infraction. Toutefois, ils n'ont accès aux locaux habités ou aux autres espaces et lieux effectivement aménagés comme habitation et utilisés comme telle qu'avec l'autorisation préalable du juge d'instruction. Une autorisation de visite domiciliaire pour l'accès aux espaces habités peut être obtenue après 21 heures et avant 5 heures, moyennant une demande spécialement motivée adressée au juge d'instruction;
+
+2° ils peuvent faire procéder à l'examen ou à l'analyse de substances ou d'un échantillon. Les frais sont à charge de l'exploitant ou du détenteur des substances en application de l'article 31, § 3;
+
+3° ils peuvent, sans préjudice de l'application de l'article 47bis du Code d'instruction criminelle et de l'article 2bis, § 2, de la loi du 20 juillet 1990 relative à la détention préventive, interroger soit seuls, soit en présence de témoins, l'exploitant ou le chef d'entreprise, ses préposés ou mandataires, les travailleurs, y compris les travailleurs externes, ainsi que toutes les personnes dont ils estiment l'audition nécessaire, sur tout fait dont la connaissance est utile à l'exercice de la surveillance. Selon le cas, l'audition est consignée dans un rapport d'inspection ou dans un procès-verbal d'audition;
+
+4° ils peuvent prendre l'identité des personnes qui se trouvent sur les lieux soumis à leur contrôle et dont ils peuvent raisonnablement présumer qu'elles sont des exploitants, des chefs d'entreprise, des préposés ou mandataires, des travailleurs, y compris des travailleurs externes, ainsi que de toutes les personnes dont ils estiment l'audition nécessaire pour l'exercice de la surveillance. A cet effet, ils peuvent exiger de ces personnes la présentation de documents officiels d'identification. Ils peuvent en outre identifier ces personnes à l'aide de documents non officiels que celles-ci leur soumettent spontanément lorsque ces personnes ne sont pas en mesure de présenter des documents officiels d'identification ou lorsque les membres du personnel visés à l'article 9 doutent de leur authenticité ou de l'identité de ces personnes;
+
+5° ils peuvent se faire communiquer sur place tous les renseignements ou se faire produire, sur réquisition et sans déplacement, tous livres, registres, documents, disques, bandes magnétiques ou tout autre support d'information qu'ils jugent utiles à leurs recherches et en prendre des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies ou se faire fournir ceux-ci sans frais, ou même saisir n'importe quel support d'information précité contre récépissé. Le support original des informations doit être conservé à l'Agence jusqu'à ce qu'un jugement ou un arrêt ayant acquis force de chose jugée ait été prononcé, jusqu'à ce que le dossier ait été classé sans suite ou jusqu'à ce que l'amende administrative, imposée conformément aux articles 53 à 62, ait été payée;
+
+6° ils peuvent rechercher et examiner tous les supports d'information utiles à leurs recherches qui se trouvent dans les établissements ou autres lieux qui sont soumis à leur contrôle;
+
+7° ils peuvent faire des constatations en faisant des photos, des impressions et des prises de vue par film ou par vidéo, à l'exclusion des constatations sous forme d'observations au sens de l'article 47sexies et suivants du Code d'instruction criminelle ou d'écoutes téléphoniques au sens de l'article 90ter et suivants du Code d'instruction criminelle.
+
+Ils peuvent également utiliser des images provenant de tiers, pour autant que ces personnes aient fait ou obtenu ces images de façon légitime.
+
+Les constatations faites par les membres du personnel visés à l'article 9 au moyen des images qu'ils ont réalisées doivent comporter les données suivantes :
+
+\- l'identité de l'inspecteur nucléaire;
+
+\- la disposition en vertu de laquelle l'inspecteur nucléaire est compétent pour agir;
+
+\- le lieu et la date de l'infraction;
+
+\- l'identité de l'auteur présumé et des personnes concernées;
+
+\- la disposition violée;
+
+\- un exposé succinct des faits en rapport avec les infractions commises;
+
+\- le jour, la date, l'heure et la description exacte du lieu où les images ont été réalisées;
+
+\- l'identification complète de l'équipement technique ayant permis de réaliser les images;
+
+\- une description de ce qui est visible sur les images en question, ainsi que le lien avec l'infraction constatée;
+
+\- lorsqu'il s'agit d'une prise de vues d'un détail, une indication sur l'image permettant de déterminer l'échelle;
+
+\- lorsqu'il y a plusieurs reproductions ou plusieurs supports, une numérotation de ces reproductions ou de ces supports.
+
+Le support originel des images est conservé à l'Agence jusqu'à ce qu'un jugement ou un arrêt ayant acquis force de chose jugée ait été prononcé, jusqu'au classement sans suite du dossier ou jusqu'au paiement de l'amende administrative imposée en vertu des articles 53 à 62;
+
+8° ils peuvent demander ou rechercher et examiner directement, sans frais et sur simple requête tous les supports d'information utiles auprès du service qui exerce le contrôle physique au sein de l'établissement qui fait l'objet des recherches, auprès du service qui surveille ce contrôle ou auprès des entités visées à l'article 14bis, ainsi qu'auprès des vendeurs, fournisseurs, fabricants et importateurs de sources des rayonnements ionisants et auprès des experts qui exécutent des travaux dans les établissements;
+
+9° ils peuvent ordonner que les documents dont l'affichage est prévu par les législations dont ils exercent la surveillance, soient et restent effectivement affichés dans un délai qu'ils déterminent ou sans délai.
+
+§ 2. La saisie de dossiers médicaux ne peut être ordonnée que par le juge d'instruction.
+
+§ 3. Les membres du personnel visés à l'article 9 peuvent, en cas d'obstruction aux attributions visées au § 1er, dresser un procès-verbal pour obstacle à la surveillance.
+
+Ils peuvent requérir l'assistance des services de police, fédérale ou locale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 5, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 10bis
+
+[<sup>1</sup> § 1er. Les membres du personnel visés à l'article 9 garantissent le caractère confidentiel des données confidentielles ou des secrets d'entreprise dont ils prennent connaissance dans l'exercice de leur mission et s'assurent que ces données ne seront utilisées que dans l'exercice de leur mission de surveillance.
+
+Les renseignements concernant des données médicales à caractère personnel ne peuvent être communiqués ou utilisés que dans le respect du secret médical.
+
+Lorsque les supports d'information visés à l'article 10, § 1er, 5°, 6° et 7°, contiennent des données personnelles qui concernent la santé, l'accès à ces supports d'information, ainsi que le traitement et l'enregistrement des renseignements qu'ils contiennent, se fait par des membres du personnel visés à l'article 9 qui disposent d'un diplôme légal de docteur en médecine.
+
+§ 2. Les membres du personnel visés à l'article 9 communiquent les renseignements utiles recueillis lors de leur enquête aux membres du personnel chargés du contrôle d'autres législations.
+
+Le Roi détermine par un arrêté délibéré en Conseil des Ministres et sur proposition du ministre de l'Intérieur et des ministres responsables des services d'inspections visés à l'alinéa 1er, les modalités de l'échange d'informations.
+
+Toutefois, les renseignements recueillis à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire ne peuvent être communiqués qu'avec l'autorisation de celle-ci et les actes, pièces, registres, documents ou renseignements relatifs aux procédures judiciaires ne peuvent être communiqués que moyennant l'autorisation expresse du procureur général.
+
+§ 3. Tous les services de l'Etat qui dépendent du gouvernement fédéral [<sup>2</sup> ou qui sont amenés à rendre des avis au gouvernement fédéral, à l'un de ses membres ou aux chambres législatives fédérales]<sup>2</sup> doivent, et les autres services de l'Etat, y compris les parquets et les greffes des cours et tribunaux, des communautés, des régions, des provinces, des agglomérations, des fédérations de communes, des communes, des associations dont elles font partie, des institutions publiques qui en dépendent, peuvent fournir aux inspecteurs nucléaires et, à leur demande, tous les renseignements, ainsi que leur produire, pour en prendre connaissance, tous les livres, registres, documents, disques, bandes magnétiques ou n'importe quel autre support d'information et leur en fournir des extraits, des duplicata, des impressions, des listages, des copies ou photocopies que les inspecteurs nucléaires estiment utiles à la surveillance de la loi et de ses arrêtés d'exécution dont ils sont chargés.
+
+Tous les services précités, à l'exception des services des communautés et des régions, sont tenus de fournir sans frais ces renseignements, extraits, duplicata, impressions, listages, copies ou photocopies.
+
+Toutefois, les constatations, actes, pièces, registres, documents ou renseignements recueillis avant ou à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire compétente ne peuvent être communiqués qu'avec l'autorisation expresse de celle-ci.
+
+Un accord de coopération conclu entre l'Etat, les communautés et les régions, en application de l'article 92bis, § 1er, de la loi spéciale du 8 août 1980 de réformes institutionnelles, règle la communication des renseignements par les services des communautés et des régions, ainsi les autres formes d'assistance réciproque et de collaboration.
+
+§ 4. Toute décision sur l'action publique du chef d'infraction aux législations dont ils exercent la surveillance sera portée, à leur demande, à la connaissance des membres du personnel visés à l'article 9 qui ont dressé procès-verbal.
+
+La communication de cette décision aux membres du personnel visés à l'article 9 est faite à la diligence, selon le cas, de l'organe du ministère public qui l'a prise, du greffier du tribunal de première instance ou de la cour d'appel qui l'a prononcée.
+
+§ 5. Le ministère public près les cours et tribunaux qui est saisi d'une affaire pénale dont l'examen fait apparaître des indices sérieux d'infraction à la loi et à ses arrêtés d'exécution, peut en informer le directeur général de l'Agence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-19/26, art. 6, 021; En vigueur : 16-06-2014&gt;
+
+(2)&lt;L 2024-04-26/44, art. 8, 040; En vigueur : 15-06-2024&gt;
+
+##### Art. 10ter
+
+[<sup>1</sup> Les membres du personnel visés à l'article 9 ne peuvent avoir un intérêt quelconque, direct ou indirect, dans les entreprises ou institutions qu'ils sont chargés de contrôler, susceptible de compromettre leur objectivité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-19/26, art. 7, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 10quater
+
+[<sup>1</sup> § 1er. A la suite de la constatation d'une infraction à la loi ou à ses arrêtés d'exécution ou du non-respect des conditions reprises dans les autorisations, permissions et agréments délivrés en exécution de ces dispositions, les membres du personnel visés à l'article 9 peuvent imposer des mesures administratives à l'exploitant ou au chef d'entreprise [<sup>3</sup> ou à d'autres personnes physiques]<sup>3</sup>.
+
+§ 2. Les mesures administratives peuvent prendre la forme :
+
+1° d'un ordre à l'exploitant ou au chef d'entreprise [<sup>3</sup> ou à d'autres personnes physiques]<sup>3</sup> de prendre des mesures en vue de mettre fin à l'infraction, de réparer entièrement ou partiellement ses conséquences ou d'en prévenir la répétition;
+
+2° d'un ordre à l'exploitant ou au chef d'entreprise [<sup>3</sup> ou à d'autres personnes physiques]<sup>3</sup> de cesser les activités, les travaux ou l'utilisation d'affaires, de réparer entièrement ou partiellement leurs conséquences ou d'en prévenir la répétition;
+
+3° d'un acte effectif posé par les membres du personnel visés à l'article 9, aux frais de l'exploitant ou du chef d'entreprise [<sup>3</sup> ou à d'autres personnes physiques]<sup>3</sup>, en vue de mettre fin à l'infraction, de réparer entièrement ou partiellement leurs conséquences ou d'en prévenir la répétition;
+
+4° d'une combinaison des mesures visées aux points 1°, 2° et 3°;
+
+Dans les cas visés au § 2, 1° et 2°, la décision d'imposer une mesure administrative est assortie d'un délai de mise en oeuvre.
+
+Dans les cas visés au § 2, 1° et 2°, les conditions à remplir en vue de la levée de la mesure administrative sont, le cas échéant, décrites dans la décision d'imposer la mesure administrative.
+
+§ 3. Les mesures administratives peuvent entre autres impliquer :
+
+1° l'arrêt ou l'exécution de travaux, d'actes ou d'activités;
+
+2° l'interdiction d'utilisation ou l'apposition de scellés sur des bâtiments, installations, machines, appareils, moyens de transport, colis et substances radioactives;
+
+3° la fermeture entière ou partielle d'un établissement;
+
+4° l'enlèvement d'objets, machines, appareils, colis et substances radioactives;
+
+5° le stockage d'objets, machines, appareils, colis et substances radioactives en un endroit adéquat.
+
+§ 4. Pour l'exécution des mesures administratives visées au § 2, 3°, les membres du personnel visés à l'article 9 peuvent utiliser les compétences de contrôle décrites à [<sup>2</sup> l'article 10, § 1er]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-19/26, art. 8, 021; En vigueur : 16-06-2014&gt;
+
+(2)&lt;L 2017-12-13/15, art. 4, 026; En vigueur : 08-01-2018&gt;
+
+(3)&lt;L 2021-12-19/08, art. 6, 034; En vigueur : 28-01-2022&gt;
+
+##### Art. 10quinquies
+
+[<sup>1</sup> § 1er. Les mesures administratives sont imposées par voie écrite. La décision imposant une mesure administrative est notifiée à l'exploitant ou au chef d'entreprise [<sup>2</sup> ou aux personnes physiques visées à l'article 10quater, § 1er]<sup>2</sup> soit par lettre recommandée avec accusé de réception, soit par remise contre récépissé.
+
+La décision mentionne au moins :
+
+1° la(les) disposition(s) qui n'a(ont) pas été respectée(s);
+
+2° un aperçu des constatations relatives à l'infraction;
+
+3° l'identité des membres du personnel visés à l'article 9;
+
+4° une description des mesures administratives imposées et leur délai de mise en oeuvre;
+
+5° le cas échéant, les conditions auxquelles la mesure administrative décrite à l'article 10quater, § 2, 1° et 2°, s'éteint;
+
+6° la possibilité d'introduire auprès du ministre dont relève l'Agence un recours contre la décision imposant une mesure administrative, ainsi que les formes et le délai à respecter.
+
+Sauf dans des cas d'urgence, les mesures administratives sont imposées après avoir entendu l'exploitant ou le chef d'entreprise [<sup>2</sup> ou les personnes physiques visées à l'alinéa 1er"]<sup>2</sup>.
+
+§ 2. Les mesures administratives visées à l'article 10quater, § 2, 1° et 2°, peuvent être levées d'office ou à la demande de l'exploitant ou du chef d'entreprise [<sup>2</sup> ou des personnes physiques visées à l'article 10quater, § 1er]<sup>2</sup>, lorsque les conditions décrites dans la décision sont remplies ou en cas de circonstances exceptionnelles ou lorsque la situation évolue.
+
+§ 3. L'exploitant ou le chef d'entreprise [<sup>2</sup> ou la personne physique]<sup>2</sup> à qui une mesure administrative visée à l'article 10quater, § 2, 1° ou 2°, est imposée peut demander la levée de cette mesure administrative au membre du personnel visé à l'article 9 qui a imposé la mesure.
+
+Le membre du personnel visé à l'article 9 qui a imposé la mesure statue dans un délai de quinze jours suivant la notification de la demande introduite soit par lettre recommandée avec accusé de réception, soit par remise contre récépissé.
+
+La décision est communiquée à l'exploitant ou au chef d'entreprise [<sup>2</sup> ou à la personne physique visée à l'alinéa 1er]<sup>2</sup> dans un délai de dix jours prenant cours le lendemain du jour où la décision a été prise.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-19/26, art. 9, 021; En vigueur : 16-06-2014&gt;
+
+(2)&lt;L 2021-12-19/08, art. 7, 034; En vigueur : 28-01-2022&gt;
+
+##### Art. 10sexies
+
+[<sup>1</sup> § 1er. Les mesures administratives visées à l'article 10quater, § 2, 1° et 2°, peuvent être assorties d'une astreinte administrative dans le cas où l'ordre de cessation ou de régularisation n'est pas exécuté ou pas pleinement exécuté.
+
+La décision imposant une mesure administrative visée à l'article 10quater, § 2, 1° et 2°, détermine le niveau du montant de l'astreinte et les modalités.
+
+§ 2. L'astreinte peut être fixée soit à une somme unique, soit à une somme déterminée par unité de temps ou par contravention. Dans ces deux derniers cas, un montant au-delà duquel la condamnation aux astreintes cessera ses effets peut également être déterminé.
+
+§ 3. L'astreinte peut être levée, son cours peut être suspendu durant un délai déterminé ou le montant de l'astreinte peut être réduit à la demande de l'exploitant ou du chef d'entreprise [<sup>2</sup> ou de la personne physique visée à l'article 10quater, § 1er]<sup>2</sup>, si celui-ci [<sup>2</sup> ou celle-ci]<sup>2</sup> est dans l'impossibilité définitive ou temporaire, totale ou partielle de satisfaire à ses obligations.
+
+La levée de la mesure administrative entraîne automatiquement la levée de l'astreinte administrative.
+
+§ 4. L'astreinte est exigible de plein droit à l'expiration du délai d'exécution de l'ordre de cessation ou de régularisation.
+
+L'astreinte se prescrit par l'expiration d'un délai de six mois à partir de la date où elle est encourue.
+
+Les astreintes administratives sont perçues et recouvrées conformément à l'article 30bis, §§ 4 et 5, au profit de l'Agence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-19/26, art. 10, 021; En vigueur : 16-06-2014&gt;
+
+(2)&lt;L 2021-12-19/08, art. 8, 034; En vigueur : 28-01-2022&gt;
+
+##### Art. 10septies
+
+[<sup>1</sup> § 1er. Les membres du personnel visés à l'article 9 peuvent prendre ou imposer toutes les mesures adéquates, y compris d'ordre organisationnel, qu'ils estiment nécessaires pour la santé et la sécurité des travailleurs et de la population et pour la protection de l'environnement au niveau des radiations ionisantes, tant en vue de prévenir les dangers, qu'en vue de combattre ou d'éliminer les défectuosités ou les nuisances qu'ils constatent et qu'ils considèrent comme un danger.
+
+§ 2. Les mesures de sécurité sont imposées par écrit. La décision imposant une mesure de sécurité est notifié à la personne responsable soit par lettre recommandée avec accusé de réception, soit par remise contre récépissé.
+
+La décision mentionne au moins :
+
+1° une description du danger pour la santé et la sécurité des travailleurs, de la population et de l'environnement;
+
+2° une description de la mesure de sécurité et de l'éventuel délai de mise en oeuvre;
+
+3° la possibilité d'introduire auprès du ministre dont relève l'Agence un recours contre la décision imposant une mesure de sécurité, ainsi que les formes et le délai à respecter.
+
+Lorsqu'une intervention immédiate est requise, une mesure de sécurité peut également être imposée oralement à la personne responsable. Si la personne responsable n'est pas présente, un avis écrit est apposé sur place à un endroit visible. La mesure de sécurité imposée oralement doit être confirmée par écrit dans les cinq jours.
+
+§ 3. Si la personne responsable ne met pas ou ne peut pas mettre en oeuvre les mesures de sécurité imposées, les membres du personnel visés à l'article 9 peuvent ordonner, aux frais de la personne responsable, l'évacuation des substances radioactives qui en font l'objet, ainsi que leur gestion en tant que déchets radioactifs.
+
+Le Roi fixe par arrêté délibéré en Conseil des Ministres les modalités suivant lesquelles les frais résultant de l'exécution de la décision visée dans l'alinéa 1er sont couverts.
+
+§ 4. Les mesures de sécurité peuvent être levées d'office ou à la demande de l'intéressé si le danger en question a été évité, combattu ou éliminé.
+
+L'intéressé à qui une mesure de sécurité a été imposée peut demander la levée de cette mesure à l'inspecteur nucléaire qui a imposé la mesure.
+
+Le membre du personnel visé à l'article 9 qui a imposé la mesure statue dans un délai de quinze jours suivant la notification de la demande introduite soit par lettre recommandée avec accusé de réception, soit par remise contre récépissé.
+
+La décision est communiquée à l'intéressé dans un délai de dix jours prenant cours le jour suivant l'adoption de la décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-19/26, art. 11, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 11
+
+[<sup>1</sup> § 1er. La personne responsable peut introduire un recours auprès du ministre dont relève l'Agence contre la décision imposant une mesure administrative assortie, le cas échéant, d'une astreinte administrative, contre la décision refusant la levée d'une mesure administrative, contre la décision imposant une mesure de sécurité et contre la décision refusant la levée d'une mesure de sécurité.
+
+§ 2. Sous peine d'irrecevabilité, le recours est introduit dans un délai de quinze jours calendrier à compter de la notification de la décision faisant l'objet du recours. Le recours est introduit par lettre recommandée et adressé au ministre dont relève l'Agence.
+
+§ 3. Le recours ne suspend pas l'exécution de la décision contestée.
+
+§ 4. Il est statué dans un délai de maximum trois mois après l'introduction du recours. Si le ministre n'a pas pris de décision dans un délai de maximum trois mois suivant l'introduction du recours, le recours est réputé fondé. Dans ce cas, les mesures faisant l'objet du recours sont levées de plein droit.
+
+§ 5. Le Roi détermine par un arrêté délibéré en Conseil des Ministres et sur proposition du ministre de l'Intérieur les règles de procédure applicables au recours visé dans la présente disposition.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 12, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 12
+
+(Abrogé) &lt;L 2008-12-22/32, art. 270, 016; En vigueur : 01-01-2009&gt;
+
+##### Art. 13
+
+&lt;Abrogé par L 2011-03-30/11, art. 17, 2°, 017; En vigueur : 01-10-2012&gt;
+
+## CHAPITRE III. - Des missions de l'Agence.
+
+### Section 1re. - [<sup>1</sup> Description générale de la mission]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 4, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 14
+
+[<sup>2</sup> Sans préjudice des dispositions du Chapitre IIIter et des articles 7 et 8]<sup>2</sup>, l'Agence fédérale de Contrôle nucléaire est chargée du contrôle et de la surveillance. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2017-12-13/15, art. 5, 026; En vigueur : 08-01-2018&gt;
+
+(2)&lt;L 2018-12-06/36, art. 3, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 14bis
+
+&lt;Inséré par L 2008-12-22/33, art. 235; En vigueur : 01-01-2008&gt; L'Agence peut accomplir tous les actes et activités qui contribuent directement ou indirectement à la réalisation des missions visées dans la présente loi. L'Agence peut également, seule ou conjointement avec des autres, créer des entités juridiques ayant pour objet exclusif la contribution à la réalisation de ses missions et y participer. L'Agence peut, en outre, participer à des entités juridiques ayant pour objet exclusif la contribution à la réalisation des missions de l'Agence.
+
+##### Art. 14ter
+
+[<sup>1</sup> § 1er L'Agence peut, par décision de son conseil d'administration, déléguer en tout ou en partie sa fonction de surveillance [<sup>2</sup> et les activités qui s'inscrivent dans le cadre d'une concertation préalable au sens de l'article 16/1"]<sup>2</sup> à une entité qu'elle a créée à cet effet conformément à l'article 14bis. Le Roi détermine, par arrêté délibéré en Conseil des ministres :
+
+1° les missions de surveillance [<sup>2</sup> ou les activités en rapport avec une concertation préalable]<sup>2</sup> qui peuvent être déléguées à cette entité;
+
+2° les modalités de rémunération des prestations effectuées par l'entité;
+
+3° les modalités de la surveillance par l'Agence sur l'exercice des missions de l'entité.
+
+§ 2. Le personnel de l'entité qui est chargé de la surveillance du contrôle physique chez les détenteurs d'autorisations doit posséder un agrément d'expert en contrôle physique qui est accordé par l'Agence conformément à l'article 30.
+
+L'agrément accordé à l'expert lui donne le libre accès aux installations pour lesquelles des missions de surveillance ont été déléguées à l'entité par l'Agence.
+
+§ 3. Plus de la moitié des membres du conseil d'administration de l'entité se compose de membres du conseil d'administration de l'Agence. Ils sont désignés en raison de leur mandat de membre du conseil d'administration de l'Agence et représentent l'Agence. S'il est mis fin à leur mandat de membre du conseil d'administration de l'Agence, il est aussi mis fin à leur mandat de membre du conseil d'administration de l'entité. Ils continuent néanmoins à exercer ce mandat jusqu'à ce que leur remplacement soit réglé par le conseil d'administration de l'Agence.
+
+§ 4. Pour la durée de son mandat, le directeur général de l'Agence est de droit membre du conseil d'administration de l'entité.
+
+Le directeur général peut assister, avec voix consultative aux réunions du comité de direction de l'entité.
+
+Le directeur-général dispose d'un délai de huit jours ouvrables pour former un recours contre toute décision du comité de direction de l'entité qu'il estime contraire à la loi, aux statuts ou à l'intérêt général. Le recours est introduit auprès du conseil d'administration de l'entité et est suspensif. Ce délai court à partir du jour de la réunion au cours de laquelle la décision a été prise, pour autant que le directeur-général y ait été régulièrement convoqué et, dans le cas contraire, à partir du jour où il en a eu connaissance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-07/07, art. 4, 025; En vigueur : 31-12-2018&gt;
+
+(2)&lt;L 2025-02-21/12, art. 3, 043; En vigueur : 01-06-2025&gt;
+
+##### Art. 14quater
+
+[<sup>1</sup> Sans préjudice de la loi du 20 juillet 1978 établissant les dispositions propres à permettre à l'Agence Internationale de l'Energie atomique d'effectuer des activités d'inspection et de vérification sur le territoire belge, en exécution de l'Accord international du 5 avril 1973 pris en application des § § 1er et 4 de l'article III du Traité du 1er juillet 1968 sur la non-prolifération des armes nucléaires et de la loi du 1er juin 2005 relative à l'application du Protocole additionnel du 22 septembre 1998 à l'Accord international du 5 avril 1993 pris en application de l'article III, paragraphes 1er et 4, du Traité du 1er juillet 1968 sur la non-prolifération des armes nucléaires, l'Agence, dans le contexte des obligations qui incombent à la Belgique en vertu du contrôle de sécurité établi par le chapitre VII du Traité instituant la Communauté européenne de l'Energie atomique et en vertu des garanties au sens de l'article III, paragraphes 1er et 4, du Traité du 1er juillet 1968 susmentionné, est chargée:
+
+1° de s'accorder avec la Communauté européenne de l'Energie atomique et l'Agence Internationale de l'Energie Atomique sur les modalités pratiques liées à la mise en oeuvre sur le territoire belge du régime international de garanties;
+
+2° d'assurer l'accompagnement des inspecteurs internationaux conformément à l'article 10 alinéa 2 de la loi du 20 juillet 1978 susmentionnée et de l'article 12, § 5, de la loi du 1er juin 2005 susmentionnée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-13/15, art. 6, 026; En vigueur : 08-01-2018&gt;
+
+##### Art. 15
+
+[<sup>1</sup> D'une manière générale, la mission de l'Agence comprend les investigations utiles à la définition de toutes les conditions d'exploitation des établissements où sont mis en oeuvre des rayonnements ionisants et à l'étude de la sécurité et de la sûreté des établissements où sont utilisées ou détenues [<sup>2</sup> des matières nucléaires ou des substances radioactives]<sup>2</sup>.]<sup>1</sup>
+
+Elle comprend également la surveillance, les contrôles et les inspections qui en découlent, la radioprotection, la formation et l'information, les contacts avec les autorités et les organismes nationaux concernés et des interventions en cas d'urgence. L'Agence prête son concours technique au ministre qui a les Affaires étrangères dans ses attributions.
+
+(Sans préjudice de l'article 8 de cette loi, l'Agence est également chargée du contrôle des mesures de protection physique [<sup>2</sup> , des mesures de sécurité pour les substances radioactives autres que les matières nucléaires arrêtées en vertu de l'article 17quater et des mesures de sécurité des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives arrêtées en vertu de l'article 17quinquies]<sup>2</sup>. [<sup>3</sup> Sans préjudice des articles 15bis et 15ter, l'Agence est également chargée du contrôle des mesures de cybersécurité nucléaire.]<sup>3</sup>) &lt;L 2003-04-02/38, art. 11, 009; En vigueur : indéterminée &gt;
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 5, 017; En vigueur : 18-04-2011&gt;
+
+(2)&lt;L 2017-12-13/15, art. 7, 026; En vigueur : 08-01-2018&gt;
+
+(3)&lt;L 2019-04-05/27, art. 3, 041; En vigueur : 05-09-2024&gt;
+
+##### Art. 15bis
+
+[<sup>1</sup> Conformément à [<sup>3</sup> l'article 33 de la loi du 19 décembre 2025 relative à la résilience des entités critiques]<sup>3</sup> et à ses arrêtés d'exécution, l'Agence est chargée de contrôler l'application des dispositions de ladite loi aux éléments d'une installation nucléaire destinée à la production industrielle d'électricité, qui servent au transport de l'électricité et qui ont été [<sup>3</sup> désignés comme entité critique en vertu de la loi du 19 décembre 2025 relative à la résilience des entités critiques]<sup>3</sup>.
+
+Les modalités du contrôle sont réglées par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-07-01/08, art. 30, 018; En vigueur : 15-07-2011&gt;
+
+(2)&lt;L 2018-07-15/08, art. 61, 027; En vigueur : 05-10-2018&gt;
+
+(3)&lt;L 2025-12-19/94, art. 63, 045; En vigueur : 19-01-2026&gt;
+
+##### Art. 15ter
+
+[<sup>1</sup> L'Agence est désignée comme service d'inspection sectoriel, au sens de la loi NIS2, pour le secteur de l'énergie, en ce qui concerne les mesures supplémentaires de gestion des risques en matière de cybersécurité applicables aux éléments d'une installation nucléaire destinée à la production industrielle d'électricité et qui servent au transport de l'électricité.
+
+Le Roi fixe les modalités pratiques des inspections, après avis de l'Agence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-26/19, art. 77, 042; En vigueur : 18-10-2024&gt;
+
+### Section 1rebis. [<sup>1</sup> - Compétence en matière de règles générales et de critères d'acceptation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-12-02/29, art. 2, 035; En vigueur : 01-05-2022&gt;
+
+##### Art. 15quater
+
+[<sup>1</sup> L'Agence rend un avis à l'Organisme national des Déchets radioactifs et des Matières fissiles enrichies (ONDRAF) sur la proposition de règles générales établies conformément à l'article 179, § 2, 4° et 8°, de la loi du 8 août 1980 concernant les propositions budgétaires pour 1979-1980, dans un délai de soixante jours calendrier à compter du jour suivant la réception de la proposition.
+
+L'avis de l'Agence est contraignant pour ce qui concerne la vérification de la conformité entre les règles générales et les dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-12-02/29, art. 3, 035; En vigueur : 01-05-2022&gt;
+
+##### Art. 15quinquies
+
+[<sup>1</sup> L'Agence examine, sur le plan formel, la correspondance entre les critères d'acceptation et:
+
+1° les règles générales visées à l'article 15quater;
+
+2° les autorisations de création et d'exploitation délivrées en vertu de l'article 16.".
+
+L'Agence notifie par écrit les divergences à l'ONDRAF,qui retravaille sa proposition dans un délai de nonante jours calendrier suivant cette notification.
+
+La proposition retravaillée est soumise à nouveau à l'Agence pour avis. L'Agence dispose d'un délai de trente jours calendrier pour donner un nouvel avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-12-02/29, art. 4, 035; En vigueur : 01-05-2022&gt;
+
+##### Art. 15sexies
+
+[<sup>1</sup> Si l'Agence constate, dans le cadre de l'exercice des compétences qui lui sont dévolues, que les déchets radioactifs qu'un exploitant produit, fabrique, possède et/ou dont il est responsable ne sont pas conformes aux critères d'acceptation visés à l'article 179, § 2, 4° et 8°, de la loi du 8 août 1980 concernant les propositions budgétaires pour 1979-1980, l'Agence en informe l'ONDRAF sans délai.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-12-02/29, art. 5, 035; En vigueur : 01-05-2022&gt;
+
+### Section 1reter. [<sup>1</sup> Floutage des images d'établissements nucléaires et sensibles ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-02-21/12, art. 4, 043; En vigueur : 01-06-2025&gt;
+
+##### Art. 15septies
+
+[<sup>1</sup> Lorsqu'il est demandé au ministre qui a l'Intérieur dans ses attributions d'accorder son autorisation en vertu de l'article 3, alinéa 1er, de la loi du 23 mars 2020, il sollicite au préalable l'avis de l'Agence. L'Agence est en outre compétente pour fournir un avis au ministre qui a l'Intérieur dans ses attributions sur le retrait, l'abrogation, la modification, la prolongation ou la suspension de l'autorisation visée à l'article 3, alinéa 1er, de la loi du 23 mars 2020 précitée.
+
+L'avis peut notamment porter sur le champ d'application, les conditions et la durée de l'autorisation, et il n'est pas contraignant.
+
+L'Agence peut consulter à cette fin d'autres instances belges, des autorités étrangères ou internationales ou d'autres experts.
+
+Sur proposition de l'Agence, le Roi détermine les modalités pratiques selon lesquelles l'autorisation visée à l'alinéa 1er doit être demandée, ainsi que les modalités selon lesquelles l'avis doit être fourni.
+
+Sans préjudice des attributions des officiers de police judiciaire visées à l'article 8 du Code d'instruction criminelle, l'Agence est désignée comme le service d'inspection qui est chargé de contrôler l'application des dispositions de l'article 3, alinéa 1er, de la loi du 23 mars 2020.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-12-19/08, art. 9, 034; En vigueur : 28-01-2022&gt;
+
+### Section 2 - [<sup>1</sup> Compétence en matière d'autorisation des établissements]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 5, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 16
+
+§ 1. [<sup>2</sup> Le]<sup>2</sup>Roi accorde ou refuse l'autorisation de création et d'exploitation qui précède la création de tout établissement dans lequel sont présents des substances ou des appareils capables d'émettre des rayonnements ionisants. &lt;L 2003-01-31/38, art. 5, 008; En vigueur : 10-03-2003&gt;
+
+L'Agence examine les demandes d'obtention de l'autorisation visée à l'alinéa 1er. L'Agence recueille, à ce sujet, l'avis du Conseil scientifique dont il est question à l'article 37.
+
+L'autorisation détermine entre autres les règles relatives aux révisions périodiques de la sécurité des installations et le moment de la réception visée au § 2.
+
+Le Roi fixe les conditions auxquelles l'autorisation visée à l'alinéa 1er est accordée. Il peut modifier ces conditions pendant toute la durée d'existence de l'établissement, en ce compris son démantèlement.
+
+§ 2. L'exploitation d'un établissement visé au § 1er ne peut débuter avant que le Roi ait confirmé l'autorisation de cet établissement en constatant que les conditions de l'autorisation sont respectées. Cette confirmation est précédée d'un rapport de réception favorable établi par l'Agence. [<sup>1</sup> Les substances radioactives faisant l'objet de l'autorisation peuvent être introduites dans l'installation avant la réception dans le seul cas où cette introduction est indispensable pour établir le rapport de réception. Il en est fait mention dans le rapport de réception. Le Roi peut régler les modalités en la matière.]<sup>1</sup>
+
+§ 3. L'Agence contrôle le respect des conditions imposées par l'autorisation de création et d'exploitation.
+
+Le Roi peut suspendre ou retirer l'autorisation sur avis de l'Agence.
+
+----------
+
+(1)&lt;L 2018-12-06/36, art. 4, 028; En vigueur : 16-01-2019&gt;
+
+(2)&lt;L 2025-05-17/01, art. 14, 044; En vigueur : 05-06-2025&gt;
+
+##### Art. 16/1
+
+[<sup>1</sup> § 1er. Pour préparer une demande d'autorisation visée à l'article 16, § 1er, le demandeur peut solliciter l'organisation d'une concertation préalable avec l'Agence.
+
+La concertation préalable permet de discuter avec le demandeur des éventuels ajustements qu'il est jugé utile ou nécessaire d'apporter au projet et, le cas échéant, de l'harmonisation de la procédure entre l'Agence et les autres autorités concernées.
+
+De sa propre initiative ou à la demande du demandeur, l'Agence peut impliquer des parties prenantes tierces dans la concertation préalable.
+
+Le Roi peut déterminer les modalités de la concertation préalable et en restreindre le champ d'application.
+
+§ 2. Le Roi fixe les indemnités dont doit s'acquitter le demandeur pour couvrir les frais des examens nécessaires et les coûts administratifs découlant de la concertation préalable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 5, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 17
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les modalités d'application de l'article 16. II classe les établissements visés à l'article 16, § 1er, en fonction du risque qu'ils présentent. Il ne peut déléguer l'octroi de l'autorisation pour les établissements dont la classe correspond au risque le plus élevé.
+
+### Section 3. - [<sup>1</sup> Compétence en matière de protection physique des matières nucléaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 6, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 17bis
+
+&lt;Inséré par L 2003-04-02/38, art. 12; En vigueur : indéterminée &gt; Sur proposition de l'Agence :
+
+\- le Roi arrête les mesures de protection physique qui doivent être prises en ce qui concerne l'aménagement, la garde et la surveillance des lieux et des véhicules renfermant des matières nucléaires;
+
+\- [<sup>1</sup> le Roi détermine le niveau minimum de protection pour chacune des catégories de matières nucléaires telles qu'elles sont définies par l'article 17ter;]<sup>1</sup>
+
+[<sup>2</sup> - le Roi arrête la procédure d'agrément de protection physique des installations nucléaires, des entreprises de transport de matières nucléaires et des transports nucléaires;]<sup>2</sup>
+
+\- le Roi arrête les mesures de protection physique qui doivent être prises en vue de protéger les technologies nucléaires développées par des institutions nucléaires belges.
+
+[<sup>2</sup> L'Agence peut subordonner les agréments visés à l'alinéa 1er à des conditions. L'Agence peut en tout temps modifier ou compléter, d'initiative et de manière motivée, ces agréments et les conditions qui leur sont imposées, si:
+
+a) ces modifications ou compléments visent à assurer le respect des exigences prévues par ou en vertu de la loi et en relation avec la protection physique;
+
+b) ces modifications ou compléments sont manifestement appropriés, proportionnés et équitables.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 6, 017; En vigueur : 01-10-2012&gt;
+
+(2)&lt;L 2017-12-13/15, art. 8, 026; En vigueur : 08-01-2018&gt;
+
+##### Art. 17ter
+
+[<sup>1</sup> § 1er Les matières nucléaires sont réparties en trois catégories : I, II et III, conformément au tableau figurant en annexe de la présente loi. Les catégories de matières nucléaires sont définies sur la base de leur type, de leur teneur en isotopes fissiles, de leur quantité et de l'intensité de leur rayonnement.
+
+§ 2. A chaque catégorie de matières nucléaires correspond un niveau de catégorisation : l'échelon de sécurité. Il y a trois échelons de sécurité : " CONFIDENTIEL - NUC "; " SECRET - NUC "; " TRÔS SECRET - NUC ".
+
+L'échelon de sécurité " CONFIDENTIEL - NUC " est attribué lorsque l'utilisation inappropriée des matières nucléaires peut porter atteinte aux personnes, aux biens ou à l'environnement ou lorsqu'elles peuvent constituer un risque de prolifération nucléaire ou lorsqu' il existe un risque que ces matières soient attractives dans la perspective de l'exécution d'actions criminelles ou terroristes.
+
+L'échelon de sécurité " SECRET - NUC " est attribué lorsque l'utilisation inappropriée des matières nucléaires peut porter gravement atteinte aux personnes, aux biens ou à l'environnement ou lorsqu'elles peuvent constituer un risque important de prolifération nucléaire ou lorsqu'il existe un risque important que ces matières soient attractives dans la perspective de l'exécution d'actions criminelles ou terroristes.
+
+L'échelon de sécurité " TRÔS SECRET - NUC " est attribué lorsque l'utilisation inappropriée des matières nucléaires peut porter très gravement atteinte aux personnes, aux biens ou à l'environnement ou lorsqu'elles peuvent constituer un risque très important de prolifération nucléaire ou lorsqu' il existe un risque très important que ces matières soient attractives dans la perspective de l'exécution d'actions criminelles ou terroristes.
+
+§ 3. L'échelon de sécurité " SECRET - NUC " est attribué aux matières nucléaires des catégories I et II.
+
+L'échelon de sécurité " CONFIDENTIEL - NUC " est attribué aux matières nucléaires de la catégorie III.
+
+Le directeur général de l'Agence ou son délégué, le responsable du département qui a la sécurité dans ses compétences peut, dans des circonstances de risque exceptionnelles ou lorsque cet échelon de sécurité est exigé par l'état fournisseur des matières nucléaires, attribuer à des matières nucléaires de la catégorie I l'échelon de sécurité " TRÔS SECRET - NUC ".
+
+§ 4. Le Roi arrête les mesures de catégorisation des zones de sécurité de l'installation nucléaire ou de l'entreprise de transport nucléaire en tenant compte de l'échelon de sécurité attribué aux matières nucléaires qu'elles contiennent, du risque radiologique que leur destruction totale ou partielle pourrait entraîner ou de leur rôle dans le cadre des mesures de protection physique de l'installation nucléaire ou de l'entreprise de transport nucléaire.
+
+§ 5. Le Roi arrête les mesures de catégorisation des documents nucléaires en tenant compte de l'échelon de sécurité attribué aux matières nucléaires qu'ils concernent ou de l'importance des informations qu'ils contiennent au regard de la non-prolifération nucléaire, du risque radiologique ou de la protection physique des matières, installations ou transports nucléaires.
+
+§ 6. le Roi arrête les règles de décatégorisation des matières nucléaires catégorisées, des zones de sécurité et des documents nucléaires en tenant compte de la diminution des risques d'atteinte aux personnes, aux biens ou à l'environnement, de prolifération nucléaire ou d'attractivité pour des actions criminelles ou terroristes, tels que mentionnés aux §§ 2, 4 et 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 8, 017; En vigueur : 01-10-2011&gt;
+
+### Section 3bis. [<sup>1</sup> - Compétence en matière de sécurité des substances radioactives autres que les matières nucléaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-13/15, art. 9, 026; En vigueur : 08-01-2018&gt;
+
+##### Art. 17quater
+
+[<sup>1</sup> Sur proposition de l'Agence:
+
+1° le Roi répartit en catégories les substances radioactives, autres que les matières nucléaires, en fonction de leur activité et du risque qu'elles présentent;
+
+2° le Roi détermine le niveau de sécurité des substances radioactives, autres que les matières nucléaires, pour chacune de ces catégories;
+
+3° le Roi détermine les mesures de sécurité pour les substances radioactives, autres que les matières nucléaires, qui doivent être prises en ce qui concerne l'aménagement, la garde et la surveillance des lieux où se trouvent les substances des catégories correspondant au risque le plus élevé, ainsi qu' en ce qui concerne leur transport. [<sup>2</sup> Il détermine les mesures de sécurité des substances radioactives qui sont relatives aux documents de sécurité radiologique en tenant compte de l'importance du risque qu'ils présentent. Il détermine quelles informations constituent toujours des documents de sécurité radiologique]<sup>2</sup>;
+
+4° le Roi détermine la procédure d'agrément des mesures de sécurité pour les substances radioactives, autres que les matières nucléaires, qui doivent être prises en ce qui concerne l'aménagement, la garde et la surveillance des lieux où se trouvent les substances des catégories correspondant au risque le plus élevé, ainsi qu' en ce qui concerne leur transport;
+
+5° le Roi peut déterminer les exigences de formation qui doivent améliorer les connaissances en matière de sécurité destinées à se prémunir contre les dangers des rayonnements ionisants.
+
+L'Agence détermine les principes des mesures de gestion prudente pour les catégories de substances radioactives, autres que les matières nucléaires, correspondant au risque le moins élevé.
+
+L'Agence peut subordonner les agréments visés à l'alinéa 1er, 4°, à des conditions. L'Agence peut en tout temps modifier ou compléter, d'initiative et de manière motivée, ces agréments et les conditions qui leur sont imposées, si:
+
+a) ces modifications ou compléments visent à assurer le respect des exigences prévues par ou en vertu de la loi et en relation avec la sécurité pour les substances radioactives, autres que les matières nucléaires;
+
+b) ces modifications ou compléments sont manifestement appropriés, proportionnés et équitables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-13/15, art. 9, 026; En vigueur : 08-01-2018&gt;
+
+(2)&lt;L 2024-02-07/13, art. 4, 039; En vigueur : 29-02-2024&gt;
+
+### Section 3ter. [<sup>1</sup> - Compétence en matière de sécurité des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-13/15, art. 10, 026; En vigueur : 08-01-2018&gt;
+
+##### Art. 17quinquies
+
+[<sup>1</sup> Sur proposition de l'Agence:
+
+1° le Roi détermine les mesures de sécurité des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives. [<sup>2</sup> Il détermine les mesures qui sont relatives aux documents de sécurité radiologique en tenant compte de l'importance du risque qu'ils présentent. Il détermine quelles informations constituent toujours des documents de sécurité radiologique]<sup>2</sup>;
+
+2° le Roi détermine la procédure d'agrément des mesures de sécurité des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives.
+
+L'Agence peut subordonner les agréments visés à l'alinéa 1er, 2°, à des conditions. L'Agence peut en tout temps modifier ou compléter, d'initiative et de manière motivée, ces agréments et les conditions qui leur sont imposées, si:
+
+a) ces modifications ou compléments visent à assurer le respect des exigences prévues par ou en vertu de la loi et en relation avec la sécurité des appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives;
+
+b) ces modifications ou compléments sont manifestement appropriés, proportionnés et équitables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-13/15, art. 10, 026; En vigueur : 08-01-2018&gt;
+
+(2)&lt;L 2024-02-07/13, art. 5, 039; En vigueur : 29-02-2024&gt;
+
+### Section 3quater. [<sup>1</sup> - Compétence en matière de cybersécurité nucléaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-05/27, art. 4, 041; En vigueur : 05-09-2024&gt;
+
+##### Art. 17sexies
+
+[<sup>1</sup> § 1er. Sur proposition de l'Agence, et après avis des autorités désignées par le Roi :
+
+1° le Roi répartit en catégories, en fonction du cyber-risque qu'ils présentent, les réseaux et systèmes d'information des installations et des établissements que vise la cybersécurité nucléaire telle que définie à l'article 1er, dans la mesure où ces réseaux et systèmes d'information, pour ces installations ou ces établissements, permettent directement ou indirectement, assurent ou appuient la gestion, le contrôle ou la sécurisation des matières nucléaires, des substances radioactives ou des appareils et installations émettant des rayonnements ionisants ne provenant pas de substances radioactives;
+
+2° le Roi détermine le niveau de sécurité des réseaux et systèmes d'information visés au 1°;
+
+3° le Roi détermine les mesures de cybersécurité nucléaire nécessaires et proportionnées pour gérer les cyber-risques des catégories des réseaux et systèmes d'information visés au 1° correspondant aux cyber-risques les plus élevés, compte tenu de l'état des connaissances, et pour prévenir les cyber-incidents pouvant les affecter ou en limiter l'impact, sans préjudice de l'application du régime international de garanties. Ces mesures règlent notamment la notification à l'Agence ainsi qu' aux autorités désignées par le Roi, des cyber-incidents ayant un impact significatif que l'exploitant d'une installation ou d'un établissement visé par ces mesures doit effectuer;
+
+4° le Roi règle l'échange entre l'Agence et les autorités désignées par Lui des données qu'elles possèdent sur les cyber-risques et sur les cyber-incidents auxquels l'exploitant est ou peut être confronté;
+
+5° le Roi détermine la procédure d'agrément des mesures de cybersécurité nucléaire visées au 3°.
+
+§ 2.- L'Agence détermine, après avis des autorités désignées par le Roi, les principes des mesures de cybersécurité nucléaire de gestion prudente pour les catégories des réseaux et systèmes d'information visés au paragraphe 1er, 1°, correspondant au cyber-risque le moins élevé.
+
+§ 3.- L'Agence peut subordonner les agréments visés au paragraphe 1er, 5°, à des conditions. L'Agence peut en tout temps modifier ou compléter, d'initiative et de manière motivée, ces agréments et les conditions qui leur sont imposées, si ces modifications ou compléments visent à assurer le respect des exigences prévues par ou en vertu de la loi et en relation avec la cybersécurité nucléaire et si ces modifications ou compléments sont manifestement appropriés, proportionnés et équitables.
+
+§ 4.- L'Agence est chargée, pour les réseaux et systèmes d'information visés au paragraphe 1er, 1°:
+
+1° d'informer les exploitants des installations et des établissements visés au paragraphe 1er, 1°, des cyber-risques dont elle a connaissance et qui sont en lien avec leurs réseaux et systèmes d'information, ou les services connexes;
+
+2° de réaliser, en présence de cyber-risques ou de cyber-incidents ou de tout élément donnant à penser qu'ils existent, des analyses et des enquêtes techniques bénéficiant aux missions visées au 1°, en dehors de l'instruction ou de devoirs prescrits par l'autorité judiciaire visant à identifier les personnes ou organisations qui sont responsables de ces cyber-risques ou cyber incidents, ou qui y contribuent ou y ont contribué de quelque manière que ce soit;
+
+3° d'informer et de sensibiliser les utilisateurs de ces réseaux et systèmes d'information.
+
+A cette fin, l'Agence recourt à la collaboration, à l'avis et à l'expérience des autorités désignées par le Roi.
+
+Le Roi peut déterminer les modalités de l'application du présent paragraphe sur proposition de l'Agence, qui sollicite l'avis des autorités qu'il désigne.
+
+§ 5.- Le présent article s'applique sans préjudice des articles 15bis, 15ter, 17bis, 17quater et 17quinquies de la présente loi et de l'article 4, § 4, de la loi du 7 avril 2019 établissant un cadre pour la sécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique et sans préjudice de l'application du régime international de garanties.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-05/27, art. 4, 041; En vigueur : 05-09-2024&gt;
+
+### Section 4. - [<sup>1</sup> Compétence en matière de transport de substances radioactives]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 7, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 18
+
+L'Agence instruit les dossiers en matière de transport de substances radioactives. Elle contrôle le respect des conditions particulières imposées par les actes d'autorisation ou d'agrément délivrés par les autorités compétentes.
+
+### Section 5. [<sup>1</sup> - Compétence en matière de surveillance des matières nucléaires, des substances radioactives et des documents ou données qui s'y rapportent]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-07/13, art. 6, 039; En vigueur : 29-02-2024&gt;
+
+##### Art. 18bis
+
+&lt;Inséré par L 2003-04-02/38, art. 14; En vigueur : 01-06-2003&gt; § 1er. Toute personne qui entrepose, utilise ou transporte des matières nucléaires ne peut, sans l'autorisation de l'Agence, les remettre à des personnes autres que celles qui ont la qualité pour les recevoir, en raison de leurs fonctions.
+
+§ 2. Chaque personne [<sup>2</sup> en possession de documents nucléaires conformément à la loi et à la réglementation]<sup>2</sup> ne peut, sans l'autorisation de l'Agence, les remettre à des personnes autres que celles qui ont la qualité pour les recevoir, en raison de leurs fonctions.
+
+[<sup>2</sup> § 3. Sans préjudice du paragraphe 2 et pour autant que de besoin, un document nucléaire ou un ensemble de documents nucléaires peut être traité, géré ou conservé dans un pays tiers, par une personne physique ou morale de droit public ou de droit privé relevant de la juridiction de ce pays, si les autorités compétentes de ce pays ont convenu avec le directeur général de l'Agence fédérale de Contrôle nucléaire des arrangements ad hoc qui l'autorisent.
+
+Ces arrangements précisent comment ce document nucléaire ou cet ensemble de documents nucléaires est protégé et comment est assuré le contrôle du respect de ces mesures de protection; ils tiennent compte pour ce faire des caractéristiques du document nucléaire ou de l'ensemble de documents nucléaires, ainsi que des spécificités, des nécessités et des circonstances de son traitement, de sa gestion ou de sa conservation.
+
+Le ministre qui exerce la tutelle sur l'Agence donne son accord au directeur général pour entreprendre la négociation des arrangements ad hoc envisagés avec les autorités compétentes du pays concerné. Pour convenir de ces arrangements, le directeur général tient compte des risques relatifs à la non-prolifération et à la sécurité nucléaires au regard de la politique générale de la Belgique.
+
+L'autorisation relative à un ensemble de documents nucléaires peut porter le cas échéant sur une série de documents nucléaires prévus ou prévisibles à condition que leurs caractéristiques ou que les spécificités, les nécessités et les circonstances de leur traitement, de leur gestion ou de leur conservation soient identiques ou largement similaires à celles déjà couvertes par les arrangements ad hoc.
+
+Sur proposition de l'Agence, le Roi, en tenant compte des risques relatifs à la non-prolifération et à la sécurité nucléaires:
+
+1° fixera les critères permettant de déterminer avec les autorités compétentes de quels pays de tels arrangements peuvent être convenus;
+
+2° pourra, après consultation de l'autorité compétente pour la préparation de la politique belge de sécurité et la politique internationale applicable à la Belgique relatives aux vérifications de sécurité, fixer la liste des pays avec les autorités compétentes desquels de tels arrangements ad hoc peuvent être convenus;
+
+3° pourra préciser quelles personnes physiques ou morales étrangères ou quelles catégories de personnes physiques ou morales étrangères sont concernées;
+
+4° pourra déterminer le type d'informations à protéger, le niveau de protection et les modalités de contrôle que les arrangements doivent prévoir ou permettre.
+
+§ 4. Toute personne qui entrepose, utilise ou transporte des substances radioactives ne peut, sans l'autorisation de l'Agence, les remettre à des personnes autres que celles qui ont la qualité pour les recevoir, en raison de leurs fonctions.
+
+§ 5. Chaque personne en possession de documents de sécurité radiologique conformément à la loi et à la réglementation ne peut, sans l'autorisation de l'Agence, les remettre à des personnes autres que celles qui ont la qualité pour les recevoir, en raison de leurs fonctions.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 9, 017; En vigueur : 01-10-2012&gt;
+
+(2)&lt;L 2024-02-07/13, art. 7, 039; En vigueur : 29-02-2024&gt;
+
+##### Art. 18ter
+
+&lt;Abrogé par L 2011-03-30/11, art. 17, 2°, 017; En vigueur : 01-10-2011&gt;
+
+### Section 6. - [<sup>1</sup> Compétence en matière d'applications médicales, surveillance des établissements et denrées alimentaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 9, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 19
+
+[<sup>4</sup> Dans les conditions et les limites, et selon les modalités fixées à l'article 3:
+
+1° l'Agence assure le contrôle des équipements radiologiques médicaux et des équipements radiologiques utilisés en médecine vétérinaire;
+
+2° l'Agence instruit les demandes d'agrément et accorde les agréments aux radiopharmaciens, aux médecins chargés de la surveillance de la santé des travailleurs professionnellement exposés aux rayonnements ionisants, aux experts en radiophysique médicale ainsi qu'aux services de dosimétrie. Elle contrôle le respect des conditions particulières qu'elle peut imposer dans les agréments;
+
+3° l'Agence instruit les demandes d'autorisation et accorde les autorisations d'utilisation des appareils et des sources émettant des rayonnements ionisants en médecine humaine, médecine dentaire et médecine vétérinaire. Elle contrôle le respect des conditions particulières qu'elle peut imposer dans les autorisations;
+
+4° l'Agence instruit les demandes d'autorisation et accorde les autorisations de mise à disposition de produits radioactifs destinés à un usage in vivo ou in vitro en médecine humaine ou vétérinaire, ainsi que les autorisations d'utilisation de produits radioactifs dans un essai clinique ou dans un examen clinique. Elle contrôle le respect des conditions particulières qu'elle peut imposer dans les autorisations;
+
+5° [<sup>5</sup> l'Agence vérifie si les programmes de formation des personnes habilitées en médecine humaine et des assistants en radiophysique médicale satisfont aux critères fixés par le Roi;]<sup>5</sup>
+
+6° le Roi peut interdire certains types d'actes qui peuvent donner lieu à une exposition aux rayonnements ionisants de personnes, après avis sur la justification des actes du Conseil supérieur de la Santé ou du Conseil supérieur pour la Prévention et la Protection au Travail, selon le cas;
+
+7° le Roi peut adopter pour utilisation généralisée certains types d'actes nouveaux ou existants qui peuvent donner lieu à une exposition aux rayonnements ionisants de personnes, après avis du Conseil supérieur de la Santé ou du Conseil supérieur pour la Prévention et la Protection au Travail, selon le cas.]<sup>4</sup>
+
+[<sup>1</sup> L'Agence communique au ministre qui a la Santé publique dans ses attributions une copie des agréments et autorisations visés à l'alinéa 1er.]<sup>1</sup>
+
+[<sup>4</sup> L'Agence peut établir des règlements:
+
+1° définissant les critères qui déterminent les nombres d'heures pour lesquels les initiatives de formation continue peuvent être prises en compte en vue de la prolongation des agréments visés à l'alinéa 1er, 2°; et des autorisations visées à l'alinéa 1er, 3°:
+
+2° déterminant les modalités et la fréquence des audits cliniques à réaliser dans les installations radiologiques médicales qu'elle désigne;
+
+3° définissant les critères d'acceptabilité pour tout type d'équipement radiologique médical et pour tout type d'équipement radiologique utilisé en médecine vétérinaire, ou relatifs à leur approbation;
+
+4° déterminant les modalités d'enregistrement des données relatives aux études périodiques de dose au patient, et les modalités de l'utilisation et du traitement des données;
+
+5° imposant, en matière de justification d'actes des contraintes de dose pour toute source, pratique ou tâche déterminée par le Roi, ainsi que des niveaux de dose ou des niveaux dérivés;
+
+6° définissant, en matière de justification d'actes, le modèle et les modalités de l'étude de justification relative à tout nouveau type d'actes.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 13, 021; En vigueur : 16-06-2014&gt;
+
+(2)&lt;L 2014-01-26/17, art. 10, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+(3)&lt;L 2017-05-07/07, art. 5, 025; En vigueur : 31-12-2018&gt;
+
+(4)&lt;L 2018-04-19/24, art. 3, 032; En vigueur : 01-03-2020&gt;
+
+(5)&lt;L 2021-12-19/08, art. 10, 034; En vigueur : 28-01-2022&gt;
+
+##### Art. 20
+
+Dans les conditions et les limites et selon les modalités fixées à l'article 3, l'Agence instruit les dossiers de demande et accorde les autorisations d'utilisation des rayonnements ionisants à des fins de stérilisation des appareils médicaux et de traitement de denrées alimentaires. Elle contrôle le respect des conditions particulières imposées par les actes d'autorisation.
+
+(Le contrôle du traitement des denrées alimentaires se fait conjointement avec l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.) &lt;AR 2001-02-22/33, art. 24, 006; En vigueur : 01-01-2003&gt;
+
+### Section 7. - [<sup>1</sup> Compétence en matière de surveillance du territoire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 11, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 21
+
+L'Agence assure la surveillance et le contrôle de la radioactivité du territoire dans son ensemble, aussi bien dans les conditions normales qu'en cas d'urgence. Dans des conditions normales, cette mission comprend la détermination régulière de la radioactivité de l'air, des eaux, du sol et de la chaîne alimentaire ainsi que l'évaluation et la surveillance des doses de rayonnements ionisants reçues par la population.
+
+A cet effet, l'Agence peut s'assurer le concours d'organismes publics et privés compétents.
+
+### Section 8 - [<sup>1</sup> Compétence en matière de plan d'urgence]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 12, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 22
+
+L'Agence assure une mission d'assistance technique à l'élaboration des plans d'urgence que le ministre de l'Intérieur arrête. Elle organise une cellule d'intervention pour les cas d'urgence.
+
+### Section 9. - [<sup>1</sup> Compétence en matière de documentation, de recherche et de développement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 13, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 23
+
+L'Agence est chargée de constituer une documentation scientifique et technique dans le domaine de la sécurité nucléaire. L'Agence peut se faire communiquer tout document, sur quelque support que ce soit, par les sociétés ou organismes dont elle assure le contrôle.
+
+Elle stimule et coordonne les travaux de recherche et de développement. Elle établit des relations privilégiées avec les organismes publics opérant dans le domaine nucléaire, avec les milieux de la recherche scientifique ainsi qu'avec les instances internationales concernées.
+
+### Section 10. - [<sup>1</sup> Droit d'initiative en matière de proposition de mesures]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 14, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 24
+
+L'Agence fait des propositions aux ministres dont elle relève au sujet des mesures que le Roi impose en vertu de la présente loi.
+
+##### Art. 24bis
+
+[<sup>1</sup> Le Roi peut déterminer les cas dans lesquels l'Agence doit établir des règlements d'une portée technique et non-politique pour la mise en oeuvre des arrêtés pris en exécution de la présente loi. Ces règlements sont publiés au Moniteur belge.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-07/07, art. 6, 025; En vigueur : 30-10-2017&gt;
+
+### Section 11. [<sup>1</sup> Compétence en matière de vérification de la formation, de l'information et de la protection des travailleurs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 15, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+#### Sous-section 1re. - [<sup>1</sup> Compétence générale en matière de vérification de la formation, de l'information et de la protection des travailleurs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 16, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 25
+
+Dans les limites de ses compétences, l'Agence contrôle le respect par les exploitants de leurs obligations en matière de formation, d'information et de protection des travailleurs.
+
+#### Sous-section 2. - [<sup>1</sup> Compétence en matière de surveillance dosimétrique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 17, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 25/1
+
+[<sup>1</sup> Dans le cadre de la surveillance dosimétrique, cette sous-section vise à :
+
+1° transférer à l 'Agence fédérale de Contrôle nucléaire les missions concernant la surveillance dosimétrique initialement confiées au Service public fédéral Emploi, Travail et Concertation sociale;
+
+2° accorder au Roi la compétence nécessaire pour régler les modalités en vertu desquelles l'Agence assurera la surveillance dosimétrique;
+
+3° offrir une protection optimale aux personnes soumises à la surveillance dosimétrique, notamment au moyen de l'enregistrement de données se rapportant à la surveillance dosimétrique, la surveillance de la santé, l'information et la formation des personnes concernées;
+
+4° accorder au Roi la compétence nécessaire afin de régler les modalités relatives au fonctionnement et à l'usage du registre d' exposition;
+
+5° régler le transfert à l'Agence fédérale de Contrôle nucléaire, des données concernant la surveillance dosimétrique des travailleurs exposés ou susceptibles d'être exposés professionnellement à un risque résultant des rayonnements ionisants dont dispose le Service public fédéral Emploi, Travail et Concertation sociale au moment du transfert des missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 18, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 25/2
+
+[<sup>1</sup> § 1. L'Agence est chargée de la mise en place et de la gestion d'un registre d'exposition.
+
+Le Roi fixe les conditions, les restrictions et les modalités suivant lesquelles l'Agence remplit cette mission.
+
+§ 2. Le Roi fixe la forme du registre d'exposition visé au § 1er, alinéa 1er, et détermine également les conditions et les modalités concernant sa mise en place, son utilisation et son fonctionnement. Il fixe en particulier les règles relatives aux obligations des parties concernées par le fonctionnement et l'utilisation du registre d'exposition. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 19, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 25/3
+
+[<sup>1</sup> Le registre d'exposition visé à l'article 25/2, § 1er, alinéa 1er, s'applique :
+
+1° aux travailleurs employés au sein d'un établissement devant faire l'objet d'une autorisation ou d'une déclaration conformément aux dispositions découlant de l'article 17 et situé en Belgique;
+
+2° aux travailleurs employés par une unité d'implantation belge d'une entreprise extérieure et qui exécutent des missions comportant un risque d'exposition en Belgique ou à l'étranger;
+
+3° aux travailleurs indépendants responsables d'un établissement devant faire l'objet d'une autorisation ou d'une déclaration conformément aux dispositions découlant de l'article 17 et situé en Belgique et qui sont considérés comme personnes soumises à la surveillance dosimétrique;
+
+4° aux travailleurs extérieurs indépendants, assujettis à la sécurité sociale belge et exécutant en Belgique ou à l'étranger, des missions comportant un risque d'exposition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 20, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 25/4
+
+[<sup>1</sup> Les données du registre d'exposition visé à l'article 25/2, § 1er, alinéa 1er, proviennent :
+
+1° des sources authentiques;
+
+2° des services de contrôle physique;
+
+3° des services de dosimétrie;
+
+4° des exploitants;
+
+5° des entreprises extérieures;
+
+6° des médecins agréés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 21, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 25/5
+
+[<sup>1</sup> Les données figurant dans le registre d'exposition sont conservées jusqu'à cinquante ans après les activités professionnelles ayant impliqué une exposition aux rayonnements ionisants et jusqu'à trente ans après le décès de la personne soumise à la surveillance dosimétrique.
+
+[<sup>2</sup> Les données figurant dans le registre d'exposition peuvent être utilisées à des fins de statistiques.]<sup>2</sup>
+
+Après l'expiration des délais visés à l'alinéa 1er, les données contenues dans le registre d'exposition continuent à être conservées sous la forme de données anonymes, en vue de leur traitement ultérieur comme le prévoient les mesures d'exécution prises en application de l'article 4 de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel et en vue d'études statistiques et/ou stratégiques en matière de maladies professionnelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 22, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+(2)&lt;L 2019-04-22/22, art. 3, 031; En vigueur : 31-05-2019&gt;
+
+##### Art. 25/6
+
+[<sup>1</sup> Le registre d'exposition visé à l'article 25/2, § 1er, alinéa 1er, contient les données suivantes :
+
+1° pour chaque personne soumise à la surveillance dosimétrique, chaque entreprise extérieure et chaque exploitant, le registre d'exposition contient les données pertinentes relatives à l'identité, au domicile ou, le cas échéant, à l'unité d'implantation, [<sup>2</sup> ...]<sup>2</sup> et au rôle linguistique de la personne morale ou physique concernée;
+
+2° pour chaque entreprise extérieure et chaque exploitant, le registre d'exposition contient :
+
+a) les coordonnées de la (des) personne(s) de contact;
+
+b) s'il s'agit d'exploitants, leur(s) secteur(s) d'activités suivant la liste d'options définie par le Roi;
+
+c) le(s) service(s) de contrôle physique désigné(s), si d'application;
+
+d) le(s) médecin(s) agréé(s) ou le(s) service(s) externe(s) de prévention et de protection au travail;
+
+e) le(s) service(s) de dosimétrie désigné(s), si d'application;
+
+3° pour chaque personne soumise à la surveillance dosimétrique, le registre contient les données en rapport avec sa relation de travail avec l'exploitant et/ou l'entreprise extérieure telles que définies par le Roi, lesquelles sont nécessaires pour garantir une surveillance dosimétrique adéquate;
+
+4° pour chaque dose d'une personne soumise à la surveillance dosimétrique, le registre d'exposition contient les données dosimétriques ainsi que les données relatives déterminées par le Roi qui permettent d'évaluer la dose reçue et qui sont indispensables pour garantir une surveillance dosimétrique adéquate;
+
+5° pour chaque examen médical dans le cadre de la surveillance de la santé visée par l'arrêté royal du 28 mai 2003 relatif à la surveillance de la santé des travailleurs, le registre d'exposition contient l'information déterminée par le Roi, qui permet de juger de l'aptitude médicale de la personne soumise à la surveillance dosimétrique à exécuter les activités professionnelles concernées;
+
+6° pour chaque formation générale suivie dans le domaine de la radioprotection telle que visée par le Roi, ainsi que pour chaque formation en radioprotection spécifique à un poste de travail ou une tâche, le registre d'exposition contient l'information considérée par le Roi comme indispensable pour juger de la connaissance en matière de radioprotection qui est nécessaire pour exécuter les activités professionnelles concernées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 23, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+(2)&lt;L 2019-04-22/22, art. 4, 031; En vigueur : 31-05-2019&gt;
+
+##### Art. 25/7
+
+[<sup>1</sup> Bénéficient d'un accès au registre d'exposition visé à l'article 25/2, § 1er, alinéa 1er :
+
+1° les membres du personnel désignés par les services publics chargés de surveiller le respect des règles concernant la surveillance de la santé visées dans les mesures d'exécution prises en application de l'article 4, § 1er, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, des personnes soumises à la surveillance dosimétrique;
+
+2° l'Agence [<sup>3</sup> et sa filiale Bel V]<sup>3</sup>;
+
+3° le professionnel des soins de santé désigné par [<sup>3</sup> l'Agence]<sup>3</sup>;
+
+4° le [<sup>2</sup> délégué à la protection des données]<sup>2</sup> désigné par l'Agence;
+
+5° les exploitants établis en Belgique en ce qui concerne :
+
+a) les données de base visées à l'article 25/6, 1° et 2° qui les concernent;
+
+b) les données visées à l'article 25/6 qui concernent leurs propres travailleurs;
+
+c) les données visées à l'article 25/6 qui concernent les travailleurs extérieurs qui exécutent une mission comportant un risque d'exposition dans leur établissement devant faire l'objet d'une autorisation ou d'une déclaration conformément aux dispositions découlant de l'article 17 [<sup>3</sup> ...]<sup>3</sup>;
+
+d) les données de base visées à l'article 25/6, 1° et 2°, de l'entreprise extérieure qui occupe des travailleurs extérieurs dans leur propre établissement devant faire l'objet d'une autorisation ou d'une déclaration conformément aux dispositions découlant de l'article 17;
+
+6° les entreprises extérieures qui emploient des personnes soumises à la surveillance dosimétrique, en ce qui concerne :
+
+a) les données de base visées à l'article 25/6, points 1° et 2° qui les concernent;
+
+b) les données visées à l'article 25/6 qui concernent leurs travailleurs;
+
+7° [<sup>3</sup> les experts agréés dépendant directement des exploitants et ceux au sein des organismes agréés désignés par les exploitants, en ce qui concerne les données visées à l'article 25/6 des personnes soumises à la surveillance dosimétrique actives chez ces exploitants en tant que propres travailleurs de ces exploitants ou en tant que travailleurs extérieurs;]<sup>3</sup>
+
+8° [<sup>3</sup> les conseillers en prévention compétents dans le domaine de la médecine du travail conformément aux dispositions de la loi du 4 août 1996 relative au bien-être des travailleurs dans le cadre de l'exécution de leur travail:
+
+a) dépendant directement des exploitants ou des services externes de prévention et de protection au travail désignés par les exploitants, en ce qui concerne les données visées à l'article 25/6 des personnes soumises à la surveillance dosimétrique actives chez ces exploitants en tant que propres travailleurs de ces exploitants ou en tant que travailleurs extérieurs;
+
+b) dépendant directement des entreprises extérieures ou des services externes de prévention et de protection au travail désignés par les entreprises extérieures, en ce qui concerne les données visées à l'article 25/6 des personnes soumises à la surveillance dosimétrique employées par ces entreprises extérieures;]<sup>3</sup>
+
+9° les services de dosimétrie agréés en ce qui concerne les données visées à l'article 25/6, 4°, qu'ils fournissent;
+
+10° les personnes soumises à la surveillance dosimétrique en ce qui concerne les données visées à l'article 25/6 qui les concernent;
+
+11° [<sup>3</sup> L'Agence fédérale des risques professionnels]<sup>3</sup> en ce qui concerne les données à caractère personnel visées à l'article 25/6, 1° à 5°. [<sup>3</sup> ...]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>3</sup> Le Roi peut étendre l'accès au registre à d'autres catégories d'utilisateurs pour autant qu'ils doivent nécessairement disposer de ces données pour l'exécution de leur mission. Il détermine également les règles pour l'introduction et la consultation des données ainsi que les droits et les obligations des utilisateurs.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 24, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+(2)&lt;L 2019-04-22/22, art. 5, 031; En vigueur : 31-05-2019&gt;
+
+(3)&lt;L 2023-11-23/32, art. 3, 038; En vigueur : 30-12-2023&gt;
+
+##### Art. 25/8
+
+[<sup>1</sup> L'Agence est également chargée d'établir et de délivrer les passeports radiologiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 25, 023; En vigueur : 29-08-2020&gt;
+
+##### Art. 25/9
+
+[<sup>1</sup> § 1er. Préalablement à l'exécution d'une mission comportant un risque d'exposition à l'étranger, un travailleur extérieur employé dans une unité d'implantation belge d'une entreprise extérieure est doté d'un passeport radiologique.
+
+§ 2. Conformément aux modalités déterminées par le Roi, l'entreprise extérieure conclut une convention avec l'exploitant concerné afin de garantir au travailleur extérieur une protection équivalente à celle dont bénéficient les travailleurs de l'exploitant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 26, 023; En vigueur : 29-08-2020&gt;
+
+##### Art. 25/10
+
+[<sup>1</sup> Le passeport radiologique contient, d'une part, des données provenant du registre d'exposition et, d'autre part, des données dosimétriques concernant les doses qui ont été reçues lors de l'exécution de missions comportant un risque d'exposition à l'étranger.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 27, 023; En vigueur : 29-08-2020&gt;
+
+##### Art. 25/11
+
+[<sup>1</sup> Le Roi fixe les conditions, les restrictions et les modalités suivant lesquelles l'Agence remplit la mission visée à l'article 25/8.
+
+Il détermine la forme et le contenu, ainsi que le mode d'actualisation du passeport radiologique.
+
+Il fixe également les règles à respecter concernant le fonctionnement et l'utilisation du passeport radiologique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 28, 023; En vigueur : 29-08-2020&gt;
+
+##### Art. 25/12
+
+[<sup>1</sup> L'application de la présente sous-section et de ses arrêtés d'exécution ne porte pas atteinte à l'application [<sup>2</sup> , la réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel]<sup>2</sup>, ni aux dispositions légales et réglementaires relatives à l'exercice de la médecine.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-26/17, art. 29, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+(2)&lt;L 2019-04-22/22, art. 6, 031; En vigueur : 31-05-2019&gt;
+
+##### Art. 25/13
+
+[<sup>1</sup> Le Service public fédéral Emploi, Travail et Concertation sociale et l'Agence concluent un accord de coopération concernant l'échange des données nécessaires à l'exécution de leurs missions de contrôle et de surveillance respectives dans le cadre de la surveillance dosimétrique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 30, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 25/14
+
+[<sup>1</sup> Les arrêtés royaux pris en exécution de la présente section sont soumis au préalable à la Commission de la protection de la vie privée pour avis et le Conseil supérieur pour la Prévention et la Protection au Travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 31, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 25/15
+
+[<sup>1</sup> L'Agence fait annuellement rapport au Conseil supérieur pour la Prévention et la Protection au Travail au sujet des activités et constats relatifs à la surveillance dosimétrique comme décrit dans la présente sous-section. Ce rapport est joint au rapport annuel sur le fonctionnement de l'Agence prévu à l'article 26, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 32, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+### Section 12 - [<sup>1</sup> Compétence en matière de diffusion de l'information]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 33, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 26
+
+L'Agence est chargée de diffuser une information neutre et objective dans le domaine nucléaire. Elle organise la circulation de l'information technique en matière de sécurité nucléaire et de radioprotection. Elle collabore, à l'initiative du ministre de l'Intérieur, à l'information relative aux plans d'urgence que ce dernier élabore.
+
+Elle dresse un rapport annuel sur son fonctionnement, qu'elle transmet à ses autorités de tutelle, à l'attention des Chambres législatives.
+
+### Section 13 [<sup>1</sup> Compétence en matière d'arbitrage]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-26/17, art. 34, 023; En vigueur : 01-04-2017 (AR 2017-03-06/03, art. 1) &gt;
+
+##### Art. 27
+
+Par dérogation à l'article 1676 du Code judiciaire, il est de la compétence de l'Agence de soumettre tout différent par convention à l'arbitrage.
+
+## Chapitre IIIbis. [<sup>1</sup> L'organisation du service de radiophysique médicale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-04-19/24, art. 4, 032; En vigueur : 01-03-2020&gt;
+
+##### Art. 27bis
+
+[<sup>1</sup> § 1er. Le détenteur d'autorisation d'un établissement comprenant des installations radiologiques médicales est tenu de créer un service de radiophysique médicale chargé de l'organisation de la radiophysique médicale au sein de l'établissement et de l'identification des ressources nécessaires pour satisfaire aux exigences réglementaires définies par le Roi, et aux objectifs poursuivis par l'établissement dans le domaine de la radiophysique médicale.
+
+§ 2. Sauf s'ils disposent d'un appareil de tomodensitométrie ou d'un appareil de radiologie interventionnelle, les établissements de classe III sont exemptés de l'obligation visée au paragraphe 1er.
+
+Le Roi peut, par un arrêté délibéré en Conseil des ministres, exempter d'autres types d'établissements de l'obligation visée au paragraphe 1er.
+
+§ 3. Le Roi détermine les conditions et règles selon lesquelles plusieurs détenteurs d'autorisation peuvent être autorisés à créer un service de radiophysique médicale commun, moyennant approbation préalable de l'Agence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-04-19/24, art. 5, 032; En vigueur : 01-03-2020&gt;
+
+##### Art. 27ter
+
+[<sup>1</sup> § 1er L'organisation et les ressources du service de radiophysique médicale dépendent des domaines d'activité spécifiques, des équipements techniques et de leur complexité, du nombre de traitements et d'examens et de leur complexité, des activités relatives à la sécurité des patients, à la qualité et à la gestion des risques et, le cas échéant, des activités d'enseignement et de recherche déployées au sein de l'établissement. L'Agence surveille ceci.
+
+§ 2. Le Roi détermine:
+
+\- les règles concernant les missions, le fonctionnement, l'organisation et la composition du service de radiophysique médicale, ainsi que les qualifications et les formations requises de ceux qui en font partie;
+
+\- les règles concernant les moyens dont le service de radiophysique médicale doit disposer pour exécuter sa mission;
+
+\- les conditions auxquelles la personne qui exerce la fonction de chef du service de radiophysique médicale doit satisfaire, ainsi que:
+
+1° les mesures de protection particulières qui lui sont d'application en vue de préserver son indépendance vis-à-vis du détenteur d'autorisation dans le cadre de l'exercice de sa fonction;
+
+2° les modalités selon lesquelles il peut être mis fin à sa fonction.
+
+§ 3. Le Roi détermine la nature des missions de radiophysique médicale qui requièrent l'intervention d'un expert agréé en radiophysique médicale en vertu de l'article 19.
+
+§ 4. Dans les cas et selon les modalités déterminés par le Roi, le chef du service de radiophysique médicale peut faire appel à un expert externe agréé en radiophysique médicale pour l'exécution de tout ou partie des missions visées au paragraphe 3.
+
+§ 5. L'Agence surveille la manière dont le service de radiophysique médicale exécute sa mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-04-19/24, art. 6, 032; En vigueur : 01-03-2020&gt;
+
+## Chapitre IIIter. [<sup>1</sup> - Evaluation des incidences sur l'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 27/3
+
+[<sup>1</sup> Pour l'application du présent chapitre, on entend par:
+
+\- projet:
+
+a) l'exécution d'ouvrages de construction ou la construction d'autres installations ou ouvrages;
+
+b) d'autres interventions dans le milieu naturel ou le paysage;
+
+\- autorisation: la décision de l'autorité compétente qui ouvre le droit du maître d'ouvrage de réaliser le projet;
+
+\- maître d'ouvrage: soit l'auteur d'une demande d'autorisation concernant un projet privé, soit l'autorité publique qui prend l'initiative d'un projet;
+
+\- évaluation des incidences sur l'environnement: un processus constitué de:
+
+a) l'élaboration, par le maître d'ouvrage, d'un rapport d'évaluation des incidences sur l'environnement;
+
+b) la réalisation de consultations telles que visées à l'article 27/5, §§ 6 à 8 et à l'article 27/6, § 5;
+
+c) l'examen des informations présentées dans le rapport d'évaluation des incidences sur l'environnement et, le cas échéant, des informations complémentaires fournies par la personne visée à l'article 27/9, § 1er, ou le maître d'ouvrage, conformément à l'article 27/9, § 4, ainsi que de toute information pertinente reçue dans le cadre des consultations visées à l'article 27/5, § § 6 à 8, et à l'article 27/6, § 5;
+
+d) la conclusion motivée sur les incidences notables du projet sur l'environnement, tenant compte des résultats de l'examen visé au c) et, s'il y a lieu, de son propre examen complémentaire visé à l'article 27/9, § 4, et
+
+e) l'intégration, dans l'autorisation, de la conclusion motivée visée au point d).
+
+\- public concerné: toute personne physique ou morale qui est touchée ou qui risque d'être touchée par la procédure décisionnelle en matière d'environnement, ou qui a un intérêt à faire valoir dans ce cadre;
+
+\- rapport d'évaluation des incidences sur l'environnement: un document dans lequel les conséquences directes et indirectes attendues pour l'homme et l'environnement d'un projet envisagé et des alternatives à prendre raisonnablement en compte sont analysées et évaluées sur le plan des rayonnements ionisants, et qui indique de quelle façon les incidences notables sur l'environnement peuvent être évitées, limitées, remédiées ou compensées;
+
+\- avis de cadrage: un avis sur le champ d'application et le niveau de détail des informations environnementales qui doivent être présentées par le maître d'ouvrage dans le rapport d'évaluation des incidences sur l'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 27/4
+
+[<sup>1</sup> § 1er. Les projets susceptibles d'avoir des incidences notables sur l'environnement, notamment en raison de leur nature, de leur ampleur ou de leur localisation, sont soumis, avant l'octroi d'une autorisation et sous la surveillance de l'Agence, à une évaluation des incidences des rayonnements ionisants sur l'environnement.
+
+L'évaluation des incidences sur l'environnement identifie, décrit et évalue au cas par cas les incidences des rayonnements ionisants sur les facteurs suivants:
+
+a) la population et la santé humaine;
+
+b) la biodiversité, en accordant une attention particulière aux espèces et aux habitats protégés par la réglementation européenne;
+
+c) les terres, le sol, l'eau, l'air et le climat;
+
+d) les biens matériels, le patrimoine culturel et le paysage;
+
+e) l'interaction entre les facteurs visés aux points a) à d).
+
+Cette évaluation porte également sur les incidences qui résultent de la vulnérabilité du projet à des risques pertinents d'accidents majeurs et/ou de catastrophes.
+
+§ 2. Le Roi détermine les projets qui doivent faire l'objet d'un rapport d'évaluation des incidences sur l'environnement et les projets qui nécessitent l'établissement d'une note de screening. La note de screening est établie sur base d'un modèle de formulaire établi par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 27/5
+
+[<sup>1</sup> § 1er. Pour un projet désigné par le Roi comme devant faire l'objet d'un rapport d'évaluation des incidences sur l'environnement, en vertu de l'article 27/4, § 2, le maître d'ouvrage joint à sa demande d'autorisation, sous peine d'incomplétude:
+
+\- soit un projet de rapport d'évaluation des incidences sur l'environnement, si la procédure visée au § 8 est appliquée;
+
+\- soit un rapport d'évaluation des incidences sur l'environnement déjà approuvé par l'Agence, si le demandeur a recours à l'option visée à l'article 27/6, § 1er.
+
+Le cas échéant, le maître d'ouvrage dispose d'un délai de 30 jours à partir de la date à laquelle il lui est signifié que sa demande est incomplète pour compléter sa demande, à défaut de quoi la demande est déclarée irrecevable.
+
+§ 2. Pour chaque projet désigné par le Roi comme devant faire l'objet d'une note de screening, en vertu de l'article 27/4, § 2, le maître d'ouvrage joint une note de screening à sa demande d'autorisation, sous peine d'incomplétude de sa demande d'autorisation.
+
+Le cas échéant, le maître d'ouvrage dispose d'un délai de 30 jours pour compléter sa demande, à défaut de quoi la demande est déclarée irrecevable.
+
+§ 3. Le rapport d'évaluation des incidences sur l'environnement est établi à l'initiative et aux frais du maître d'ouvrage, selon les modalités fixées par le Roi, et comporte au moins les informations déterminées par le Roi.
+
+§ 4. Si le maître d'ouvrage le demande, l'Agence rend un avis de cadrage préalablement à l'établissement du rapport d'évaluation des incidences sur l'environnement. La demande du maître d'ouvrage mentionne au moins les caractéristiques spécifiques du projet et les incidences attendues de celui-ci sur l'environnement.
+
+§ 5. Le Roi fixe les modalités du contenu de l'avis de cadrage et de son impact sur la suite de la procédure.
+
+§ 6. Si l'Agence estime que, du fait des rayonnements ionisants, un projet est susceptible d'avoir des incidences notables sur l'homme ou l'environnement dans d'autres Etats membres de l'Union européenne, et/ou dans des parties contractantes de la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, signée à Espoo le 25 février 1991, et/ou dans d'autres régions, ainsi que dans les cas où les autorités compétentes de ces Etats membres, parties contractantes et/ou régions en font la demande, l'Agence fournit, selon le cas, les informations suivantes aux autorités compétentes de ces Etats membres, parties contractantes et/ou régions:
+
+a) une copie de la demande motivée visée au § 4;
+
+b) le projet de rapport d'évaluation des incidences sur l'environnement visé au § 8 et à l'article 27/6, § 1er.
+
+En tout cas, ces informations comportent les renseignements sur la nature du projet pour lequel l'autorisation est sollicitée.
+
+L'Agence mentionne toujours le délai dont disposent les autorités compétentes pour signifier leurs objections et commentaires à l'Agence. Ce délai est d'au moins trente jours calendrier suivant la réception de la copie de la demande. Si l'Agence ne reçoit pas d'objection et/ou de commentaire des autorités concernées dans le délai qu'elle leur a accordé, elle peut passer outre à la condition de participation du public.
+
+L'Agence tient compte des résultats de cette participation du public lorsqu'elle évalue le projet de rapport d'évaluation des incidences sur l'environnement, conformément au § 9 et à l'article 27/6, § 2.
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, les modalités selon lesquelles les autorités compétentes des Etats membres, des parties contractantes et/ou des régions visées à l'alinéa 1er, signifient leurs objections et commentaires sur le rapport d'évaluation des incidences sur l'environnement approuvé ou en projet, et sur le projet envisagé, ainsi que les modalités de la concertation.
+
+§ 7. L'Agence demande aux autorités et instances concernées de rendre un avis sur le contenu du projet de rapport d'évaluation des incidences sur l'environnement dans le cadre de l'avis de cadrage visé au § 4, et dans le cadre de l'enquête publique visée au § 8 et à l'article 27/6, § 1er.
+
+L'Agence tient compte des résultats de cette consultation lorsqu'elle évalue le projet de rapport d'évaluation des incidences sur l'environnement, conformément au § 9 et à l'article 27/6, § 2.
+
+Le Roi dresse la liste des autorités et instances à consulter, et fixe les règles de procédure relatives à cette consultation.
+
+§ 8. Le maître d'ouvrage dépose, le cas échéant, sa demande d'autorisation, en ce compris un projet de rapport d'évaluation des incidences sur l'environnement, auprès de l'Agence en vue de son traitement. Le Roi fixe les modalités de ce dépôt.
+
+L'Agence soumet la demande d'autorisation, en ce compris le projet de rapport d'évaluation des incidences sur l'environnement, à une enquête publique. Au cours de cette enquête publique, le public concerné peut formuler par écrit ses objections et commentaires.
+
+Sans préjudice de l'application de l'article 2bis, les informations visées au § 1er sont mises à disposition du public dans le cadre de l'enquête publique. Il est en outre précisé au public si la procédure visée au § 6 est d'application ou non.
+
+Le Roi fixe les modalités relatives à l'organisation de l'enquête publique.
+
+§ 9. L'Agence notifie sa décision d'approuver ou de refuser le projet de rapport d'évaluation des incidences sur l'environnement dans un délai de 60 jours, à compter de la réception des résultats de l'enquête publique:
+
+a) au maître d'ouvrage, par signification;
+
+b) aux autorités et instances concernées visées au § 7;
+
+c) le cas échéant, aux autorités compétentes visées au § 6;
+
+d) à l'autorité qui statuera sur la demande d'autorisation pour le projet.
+
+L'Agence refuse le projet de rapport d'évaluation des incidences sur l'environnement si la consultation visée aux §§ 6 et 7, ou les commentaires et objections formulés lors de l'enquête publique appellent une modification essentielle du projet de rapport d'évaluation des incidences sur l'environnement.
+
+Si l'Agence refuse le rapport d'évaluation des incidences sur l'environnement, la procédure d'autorisation prend fin de plein droit.
+
+Le délai visé à l'alinéa 1er peut être une seule fois prolongé de 60 jours au plus par l'Agence, si des circonstances exceptionnelles l'exigent, par exemple du fait de la nature, de la complexité, du lieu ou de l'ampleur du projet. L'Agence informe le maître d'ouvrage de la prolongation et lui signifie le délai supplémentaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 27/6
+
+[<sup>1</sup> § 1er. Par dérogation aux dispositions de l'article 27/5, § 8, le maître d'ouvrage peut, préalablement à sa demande d'autorisation, demander qu'une enquête publique soit organisée sur le projet de rapport d'évaluation des incidences sur l'environnement. Cette enquête publique peut uniquement être demandée si la demande d'autorisation concerne un projet désigné par le Roi comme un établissement de classe 1 soumis à autorisation.
+
+Si le maître d'ouvrage entend appliquer cette option, il dépose auprès de l'Agence le projet de rapport d'évaluation des incidences sur l'environnement en vue de son approbation. Les modalités de ce dépôt sont fixées par le Roi.
+
+L'Agence soumet ce projet de rapport d'évaluation des incidences sur l'environnement à une enquête publique avant de l'évaluer, conformément au § 2. Au cours de l'enquête publique, le public concerné peut formuler par écrit ses objections et commentaires.
+
+Sans préjudice de l'application de l'article 2bis, les informations visées à l'article 27/5, § 1er, sont mises à disposition du public dans le cadre de l'enquête publique. Il est en outre précisé au public si la procédure visée à l'article 27/5, § 6, est d'application ou non.
+
+Le Roi fixe les modalités relatives à l'organisation de l'enquête publique.
+
+§ 2. L'Agence notifie sa décision d'approuver ou de refuser le projet de rapport d'évaluation des incidences sur l'environnement dans un délai de 60 jours, à compter de la réception des résultats de l'enquête publique:
+
+a) au maître d'ouvrage, par signification;
+
+b) aux autorités et instances concernées visées à l'article 27/5, § 7;
+
+c) le cas échéant, aux autorités compétentes visées à l'article 27/5, § 6;
+
+L'Agence refuse le projet de rapport d'évaluation des incidences sur l'environnement si la consultation visée à l'article 27/5, § § 6 et 7, ou les commentaires et objections formulés lors de l'enquête publique appellent une modification essentielle du projet de rapport d'évaluation des incidences sur l'environnement.
+
+Le délai visé à l'alinéa 1er peut être une seule fois prolongé de 60 jours au plus par l'Agence, si des circonstances exceptionnelles l'exigent, par exemple du fait de la nature, de la complexité, du lieu ou de l'ampleur du projet. L'Agence informe le maître d'ouvrage de la prolongation et lui signifie le délai supplémentaire.
+
+§ 3. Le Roi fixe les modalités selon lesquelles les autorités compétentes des Etats membres, parties contractantes et/ou régions visées à l'article 27/5, § 6, peuvent signifier leurs objections et commentaires sur le rapport d'évaluation des incidences sur l'environnement approuvé et sur le projet envisagé, ainsi que les modalités de la concertation.
+
+§ 4. A partir de la signification de la décision d'approuver le projet de rapport d'évaluation des incidences sur l'environnement visée au § 2, et sans préjudice de l'article 2bis, le rapport d'évaluation des incidences sur l'environnement et la décision de l'approuver sont ouverts à la consultation auprès de l'Agence.
+
+§ 5. Dans le cadre de la procédure d'autorisation, l'Agence veille à l'organisation d'une enquête publique sur la demande d'autorisation. L'enquête publique porte en tout cas sur le rapport d'évaluation des incidences sur l'environnement approuvé visé au § 1er, et/ou sur la note de screening visée à l'article 27/4, § 2.
+
+Au cours de l'enquête publique, le public concerné peut formuler par écrit ses objections et commentaires. Ces objections et commentaires ne peuvent toutefois pas porter sur la délimitation du contenu, le contenu ou le détail d'un rapport d'évaluation des incidences sur l'environnement déjà définitivement approuvé, pour autant qu'une enquête publique ait été organisée en vertu du § 1er.
+
+Dans le cadre de l'enquête publique, et sans préjudice de l'application de l'article 2bis, les informations visées à l'article 27/5, § 1er, sont mises à dispositions du public. Il est en outre précisé au public si la procédure visée à l'article 27/5, § 6, est d'application ou non.
+
+Si l'article 27/5, § 6, s'applique, les autorités et instances qui y sont visées sont informées de cette enquête publique.
+
+Le Roi fixe les modalités relatives à l'organisation de l'enquête publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 27/7
+
+[<sup>1</sup> § 1er. L'autorité compétente pour l'octroi des autorisations tient compte, de manière motivée, des résultats de l'évaluation des incidences sur l'environnement, des informations complémentaires visées à l'article 27/9, § 4, et des résultats de la consultation et de(s) l'enquête(s) publique(s) prévue(s) au présent chapitre. Dans le cadre de la procédure d'autorisation, l'autorité compétente recueille en tout cas l'avis des autorités et instances concernées visées à l'article 27/5, § 7.
+
+§ 2. Dans le cadre de la procédure d'autorisation, les autorités et instances concernées visées à l'article 27/5, § 7, émettent un avis sur la demande d'autorisation dans son intégralité, en ce compris sur le rapport d'évaluation des incidences sur l'environnement. Elles émettent leur avis dans un délai qui ne peut être inférieur à la durée de l'enquête publique. Lorsqu'aucun avis n'est remis dans ce délai, on peut passer outre à la condition de consultation.
+
+Le Roi fixe les modalités de la consultation visée à l'alinéa 1er.
+
+§ 3. L'autorisation mentionne, le cas échéant, les mesures de suivi à prendre en compte.
+
+Le Roi fixe les modalités de suivi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 27/8
+
+[<sup>1</sup> § 1er. Dans des cas exceptionnels et sur demande motivée du maître d'ouvrage, l'Agence peut exempter un projet spécifique des dispositions relatives à l'évaluation des incidences sur l'environnement, lorsque l'application desdites dispositions aurait un impact négatif sur la finalité du projet, pour autant que les objectifs de l'évaluation des incidences sur l'environnement soient atteints. Dans ce cas, l'Agence:
+
+a) examine si une autre forme d'évaluation conviendrait;
+
+b) met à la disposition du public, sans préjudice de l'article 2bis, les informations obtenues dans le cadre d'autres formes d'évaluation visées au point a), et les informations relatives à la décision d'accorder une exemption et les raisons pour lesquelles elle a été accordée.
+
+Le Roi fixe le contenu de la demande motivée visée à l'alinéa 1er.
+
+§ 2. Dans les cas autres que ceux visés au § 1er, l'Agence peut, à la demande motivée du maître d'ouvrage, exempter un projet ou une partie de projet des dispositions relatives à l'évaluation des incidences sur l'environnement, à condition que ce projet ou ces parties de projet aient pour seul objet la réponse à des situations d'urgence à caractère civil ou la défense, et que l'Agence estime que l'application de ces dispositions relatives à l'évaluation des incidences sur l'environnement pourrait porter préjudice à l'objectif du projet.
+
+Le Roi fixe le contenu de la demande motivée visée à l'alinéa 1er.
+
+§ 3. L'exemption visée aux §§ 1 et 2 est accordée pour une durée limitée. Elle devient caduque lorsque le projet n'est pas démarré endéans le délai. Ce délai ne peut en tout cas pas excéder quatre années.
+
+§ 4. L'Agence peut en outre assortir les exemptions visées au présent article de conditions. La décision d'accorder une exemption est publiée, ouverte à la consultation auprès de l'Agence et notifiée au maître d'ouvrage.
+
+Le maître d'ouvrage qui obtient une exemption visée au présent article joint la décision d'accorder une exemption à sa demande d'autorisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 27/9
+
+[<sup>1</sup> § 1. Le rapport d'évaluation des incidences sur l'environnement est établi par les personnes agréées à cet effet par l'Agence.
+
+§ 2. Le Roi fixe les critères d'agrément.
+
+[<sup>2</sup> Le Roi détermine]<sup>2</sup> sur avis de l'Agence, la procédure d'octroi et de retrait de ces agréments, ainsi que les règles visant à garantir l'objectivité des personnes agréées lors de l'accomplissement de leurs tâches. Les personnes agréées ne peuvent avoir aucun intérêt dans le projet envisagé ou ses alternatives, ni être directement impliquées dans l'exécution ultérieure du projet. Elles exercent leur mission en toute indépendance.
+
+Tout agrément est octroyé pour une durée de 5 ans, chaque fois renouvelable d'une durée maximale de 5 ans.
+
+§ 3. Lors de l'établissement du rapport d'évaluation des incidences sur l'environnement, les personnes visées au § 1er se concertent avec l'Agence.
+
+§ 4. L'Agence peut demander aux personnes visées au § 1er et au maître d'ouvrage des informations complémentaires qui sont directement utiles à l'élaboration de la conclusion motivée sur les incidences notables potentielles du projet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+(2)&lt;L 2025-02-21/12, art. 6, 043; En vigueur : 01-06-2025&gt;
+
+##### Art. 27/10
+
+[<sup>1</sup> § 1. Le Roi établit les règles relatives à la procédure, au contenu, aux conditions et à la forme auxquels doivent se conformer le rapport d'évaluation des incidences sur l'environnement et l'évaluation des incidences visés au présent chapitre.
+
+§ 2. Le Roi fixe les indemnités dont doit s'acquitter le maître d'ouvrage pour couvrir les frais des recherches prévues au présent chapitre et les coûts administratifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-06/36, art. 6, 028; En vigueur : 16-01-2019&gt;
+
+##### Art. 27/11
+
+[<sup>1</sup> L'Agence réceptionne les dossiers concernant les projets d'un Etat membre de l'Union européenne ou d'une partie contractante à la Convention sur l'évaluation de l'impact sur l'environnement au niveau radiologique dans un contexte transfrontière signée à Espoo le 25 février 1991 qui sont susceptibles d'avoir des incidences transfrontalières notables au niveau radiologique pour la Belgique.
+
+L'Agence publie sur son site web les dossiers visés à l'alinéa 1er lorsque ceux-ci sont susceptibles d'impacter la sûreté nucléaire, la sécurité nucléaire et la radioprotection. Le public concerné a la possibilité de formuler d'éventuelles remarques sur ces dossiers en utilisant les données de contact de l'Etat membre visé à l'alinéa 1er, qui sont également renseignées sur le site web.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-11-23/32, art. 4, 038; En vigueur : 30-12-2023&gt;
+
+## CHAPITRE IV. [<sup>1</sup> - L'organisation du contrôle physique]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-05-07/07, art. 7, 025; En vigueur : 31-12-2018&gt;
+
+##### Art. 28
+
+[<sup>1</sup> § 1er. Le détenteur d'autorisation est responsable, en toutes circonstances, d'assurer la protection des travailleurs, de la population et de l'environnement contre les risques ou les inconvénients sanitaires qui pourraient découler de l'exercice de sa pratique. Cette responsabilité ne peut être déléguée.
+
+§ 2. Chaque détenteur d'autorisation est tenu de charger un service du contrôle physique pour la pratique dont il est responsable.
+
+Les missions attribuées au service de contrôle physique ne préjudicient en rien à l'autorité et aux responsabilités du détenteur d'autorisation.
+
+§ 3. Le Roi détermine les conditions et règles selon lesquelles plusieurs détenteurs d'autorisation peuvent être autorisés à créer un service de contrôle physique commun.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-05-07/07, art. 8, 025; En vigueur : 31-12-2018&gt;
+
+##### Art. 29
+
+[<sup>1</sup> § 1er. Le Roi détermine :
+
+\- les règles concernant les missions, le fonctionnement, l'organisation et la composition du service de contrôle physique ainsi que les qualifications et les formations requises de ceux qui en font partie;
+
+\- les règles concernant les ressources minimales dont le service de contrôle physique doit disposer;
+
+\- les conditions auxquelles la personne qui exerce la fonction de chef du service de contrôle physique doit satisfaire, ainsi que :
+
+1° les mesures de protection particulières qui lui sont d'application en vue de préserver son indépendance vis-à-vis de l'employeur et des travailleurs dans le cadre de l'exercice de sa fonction;
+
+2° les modalités par lesquelles il peut être mis fin à sa fonction.
+
+§ 2. Le Roi détermine la nature des missions de contrôle physique qui requièrent l'intervention d'un expert agréé en vertu de l'article 30.
+
+§ 3. Pour certaines pratiques présentant un risque limité en matière de sécurité que le Roi détermine, le détenteur d'autorisation peut confier, sous sa responsabilité, l'exécution des missions de contrôle physique visées au § 2 à un expert d'un organisme de contrôle physique agréé à cet effet en vertu de l'article 29bis.
+
+§ 4. Le détenteur de l'autorisation assure la coordination entre le service de contrôle physique et le service interne pour la prévention et la protection au travail, créé en vertu de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail. Le chef du service de contrôle physique coordonne son intervention avec le conseiller en prévention compétent et le médecin du travail agréé du détenteur de l'autorisation. Le Roi peut fixer des mesures visant à promouvoir la collaboration entre tous les intéressés.
+
+§ 5. L'Agence surveille la manière dont le service de contrôle physique exécute sa mission. Elle approuve les décisions du service de contrôle physique dans les cas qui sont déterminés par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-05-07/07, art. 9, 025; En vigueur : 31-12-2018&gt;
+
+##### Art. 29bis
+
+[<sup>1</sup> § 1er . Les organismes de contrôle physique sont agréés par l'Agence. Tout premier agrément est accordé pour une durée de six ans maximum. Il peut être prolongé pour des périodes n'excédant pas six ans. L'agrément peut être limité à certaines pratiques.
+
+L'agrément peut être suspendu, abrogé ou retiré par l'Agence.
+
+§ 2. Le Roi fixe les conditions et les règles complémentaires par lesquelles l'agrément visé au paragraphe 1er est accordé, suspendu, abrogé ou retiré.
+
+Le Roi fixe les obligations et incompatibilités auxquelles doit satisfaire l'organisme de contrôle physique, ainsi que son fonctionnement.
+
+§ 3. L'Agence surveille le fonctionnement des organismes de contrôle physique. Le Roi détermine les modalités de cette surveillance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-07/07, art. 10, 025; En vigueur : 31-12-2018&gt;
+
+##### Art. 30
+
+[<sup>1</sup> § 1er. L'expert en contrôle physique est agréé par l'Agence. Tout premier agrément est accordé pour une durée de six ans maximum. Il peut être prolongé pour des périodes n'excédant pas six ans. L'agrément peut être limité à certaines pratiques.
+
+L'agrément peut être suspendu, abrogé ou retiré par l'Agence.
+
+§ 2. Le Roi fixe les conditions et les règles complémentaires par lesquelles l'agrément visé au paragraphe 1er est accordé, suspendu, abrogé ou retiré.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-05-07/07, art. 11, 025; En vigueur : 31-12-2018&gt;
+
+## CHAPITRE V. - Des ressources, du budget et des comptes.
+
+##### Art. 30bis
+
+&lt;Inséré par L 2007-05-15/41, art. 3; En vigueur : 01-09-2001&gt; § 1er. Les montants des taxes annuelles perçues au profit de l'Agence et à charge des détenteurs des autorisations et agréments sont fixés comme suit :
+
+(Tableau non repris pour motifs techniques. Voir M.B. 08-06-2007, p. 31207-31208).
+
+§ 2. Ces taxes sont dues par chaque établissement autorisé le 1er janvier de l'année budgétaire, pour chaque pratique faisant l'objet d'une autorisation au 1er janvier de l'année budgétaire et dont la durée de validité est un an ou plus, ainsi que pour chaque personne ou établissement agréé au 1er janvier de cette année et dont la durée de validité est un an ou plus.
+
+§ 3. Au cours du premier trimestre de chaque année budgétaire, l'Agence envoie à chaque redevable un ordre de paiement indiquant le montant de la taxe à payer. Le montant de la taxe annuelle à payer doit être payé au numéro de compte de l'Agence renseigné sur l'ordre de paiement dans les deux mois suivant la date de réception.
+
+Les taxes qui n'ont pas été payées dans le délai visé au premier alinéa sont majorées d'office de 25 %. Les redevables reçoivent à cet effet une mise en demeure de l'Agence.
+
+Les taxes qui n'ont pas été payées dans les quatre mois suivant la réception de l'ordre de payement visé au premier alinéa sont majorées d'office de 50 %. Les redevables reçoivent à cet effet une deuxième mise en demeure de l'Agence.
+
+§ 4. Les taxes dues en vertu de la présente loi peuvent être récupérées par voie de contrainte. Les contraintes sont signifiées par exploit d'huissier.
+
+§ 5. Le Roi désigne les personnes chargées d'envoyer, de décerner et de rendre exécutoire les contraintes.
+
+##### Art. 30bis/1
+
+&lt;inséré par L 2008-12-22/32, art. 271; En vigueur : 01-01-2009&gt; § 1er. Les montants des taxes annuelles perçues au profit de l'Agence et à charge des détenteurs d'autorisations et d'agréments et des personnes enregistrées sont fixés comme suit :
+
+<table><tr><td>Description de</td><td>Année</td><td>Année</td><td>Année</td><td>Année</td><td>Année</td><td>Année</td></tr><tr><td>l`établissement</td><td>2009</td><td>2010</td><td>2011</td><td>2012</td><td>2013</td><td>à partir de 2014</td></tr><tr><td>autorisé, de</td><td> </td><td> </td><td> </td><td> </td><td>[<sup><font>1</font></sup> ...]<sup><font>1</font></sup></td><td>[<sup><font>1</font></sup> ...]<sup><font>1</font></sup></td></tr><tr><td>l`activité</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>autorisée ou</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>enregistrée ou des</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>personnes ou</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>services agréés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Réacteurs nucléaires</td><td>2 561</td><td>2 612</td><td>2 664</td><td>2 717</td><td> </td><td> </td></tr><tr><td>destinés a la</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>production d`énergie</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>électrique, par</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>mégawatt de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>puissance installée</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Réacteurs nucléaires</td><td>5 000</td><td>5 100</td><td>5 202</td><td>5 306</td><td> </td><td> </td></tr><tr><td>destinés à la</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>recherche dont la</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>puissance thermique</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>ne dépasse pas</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>5 mégawatt</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Etablissements de</td><td>25 605</td><td>26 117</td><td>26 640</td><td>27 172</td><td> </td><td> </td></tr><tr><td>classe 1, autres</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>que les réacteurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>nucléaires destinés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>à la production</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>d`énergie</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>électrique et à</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>la recherche</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Réacteurs nucléaires</td><td>25 605</td><td>26 117</td><td>26 640</td><td>27 172</td><td> </td><td> </td></tr><tr><td>destinés à la</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>recherche dont la</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>puissance thermique</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>dépasse 5 mégawatt</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Demantèlement des</td><td>300 000</td><td>306 000</td><td>312 120</td><td>318 362</td><td> </td><td> </td></tr><tr><td>réacteurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>nucléaires destinés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>à la production</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>d`énergie</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>électrique</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Démantèlement des</td><td>12 803</td><td>13 059</td><td>13 320</td><td>13 586</td><td> </td><td> </td></tr><tr><td>réacteurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>nucléaires destinés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>à la recherche dont</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>la puissance</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>thermique dépasse</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>5 mégawatt</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Démantèlement des</td><td>12 803</td><td>13 059</td><td>13 320</td><td>13 586</td><td> </td><td> </td></tr><tr><td>établissements de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>classe 1, autres</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>que les réacteurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>nucléaires destinés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>à la production</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>d`énergie</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>électrique et à</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>la recherche</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Démantèlement des</td><td>2 500</td><td>2 550</td><td>2 601</td><td>2 653</td><td> </td><td> </td></tr><tr><td>réacteurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>nucléaires destinés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>à la recherche dont</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>la puissance</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>thermique ne</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>dépasse pas</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>5 mégawatt</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Etablissements pour</td><td>10 000</td><td>10 200</td><td>10 404</td><td>10 612</td><td> </td><td> </td></tr><tr><td>l`extraction et le</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>conditionnement</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>d`isotopes du</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>combustible usé,</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>qui ne relèvent pas</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>de la classe 1</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Demantèlement</td><td>5 000</td><td>5 100</td><td>5 202</td><td>5 306</td><td> </td><td> </td></tr><tr><td>d`établissements</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>pour l`extraction</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>et le</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>conditionnement</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>d`isotopes du</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>combustible usé,</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>qui ne relèvent</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>pas de la classe 1</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Etablissements dotés</td><td>5 000</td><td>5 100</td><td>5 202</td><td>5 306</td><td> </td><td> </td></tr><tr><td>d`un ou plusieurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>accélérateurs de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>particules, à</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>l`exception des</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>accélérateurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>destinés au</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>traitement direct</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>de patients</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Démantèlement</td><td>2 500</td><td>2 550</td><td>2 601</td><td>2 653</td><td> </td><td> </td></tr><tr><td>d`établissements</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>dotés d`un ou</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>plusieurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>accélérateurs de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>particules, aà</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>l`exception des</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>accélérateurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>destinés au</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>traitement direct</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>de patients</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Etablissement dont</td><td>5 000</td><td>5 100</td><td>5 202</td><td>5 306</td><td> </td><td> </td></tr><tr><td>l`activité</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>autorisée est</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>supérieure à</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>1 000 TBq</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Demantèlement d`un</td><td>2 500</td><td>2 550</td><td>2 601</td><td>2 653</td><td> </td><td> </td></tr><tr><td>établissement dont</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>l`activité</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>autorisée est</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>supérieure à</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>1 000 TBq</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Etablissement de</td><td>1 600</td><td>1 632</td><td>1 665</td><td>1 698</td><td> </td><td> </td></tr><tr><td>classe 2 composé</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>d`un ou plusieurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>accélérateurs de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>particules destinés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>au traitement</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>direct de patients</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Etablissements de</td><td>1 600</td><td>1 632</td><td>1 665</td><td>1 698</td><td> </td><td> </td></tr><tr><td>classe 2 autres</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>que ceux composés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>d`un ou plusieurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>accélérateurs de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>particules destinés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>au traitement</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>direct de patient</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Etablissements de</td><td>94</td><td>96</td><td>98</td><td>100</td><td> </td><td> </td></tr><tr><td>classe 3 composés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>d`un ou plusieurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>appareils à</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>rayonnement X</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Etablissements de</td><td>189</td><td>193</td><td>196</td><td>200</td><td> </td><td> </td></tr><tr><td>classe 3 autre que</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>les établissements</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>dotés d`un ou</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>plusieurs appareils</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>à rayonnement X</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Activités</td><td>604</td><td>653</td><td>666</td><td>679</td><td> </td><td> </td></tr><tr><td>professionnelles</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>mettant en jeu des</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>sources naturelles</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>de rayonnement et</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>autorisées par</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>l`Agence</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Utilisation, en</td><td>200</td><td>204</td><td>208</td><td>212</td><td> </td><td> </td></tr><tr><td>dehors d`un</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>établissement</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>autorisé, de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>sources de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>rayonnements</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>ionisants qui ne</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>contiennent pas de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>substances</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>radioactives</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Importateurs</td><td>480</td><td>490</td><td>499</td><td>509</td><td> </td><td> </td></tr><tr><td>enregistrés qui</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>importent</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>uniquement des</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>substances</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>radioactives</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>destinées a</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>leur propre usage</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Importateurs</td><td>960</td><td>979</td><td>999</td><td>1 019</td><td> </td><td> </td></tr><tr><td>enregistrés qui</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>importent des</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>substances</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>radioactives</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>destinéees à etre</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>redistribuées</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Transporteurs de</td><td>1 920</td><td>1 959</td><td>1 998</td><td>2 038</td><td> </td><td> </td></tr><tr><td>substances</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>radioactives,</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>détenteurs d`une</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>ou plusieurs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>autorisations</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>générales de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>transport (à</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>l`exception du</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>transport</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>spécifique de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>paratonnerres</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>démantelés)</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Transporteurs de</td><td>1 280</td><td>1 306</td><td>1 332</td><td>1 359</td><td> </td><td> </td></tr><tr><td>substances</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>radioactives, pour</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>toute autorisation</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>spéciale de</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>transport</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Détenteurs d`une</td><td>3 201</td><td>3 265</td><td>3 330</td><td>3 397</td><td> </td><td> </td></tr><tr><td>autorisation</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>pour la</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>commercialisation</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>de produits</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>radioactifs</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>destinés à un usage</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>in vivo ou a la</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>thérapie en</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>médecine humaine ou</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>vétérinaire</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Détenteurs d`une</td><td>1 067</td><td>1 088</td><td>1 110</td><td>1 132</td><td> </td><td> </td></tr><tr><td>autorisation</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>pour la</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>commercialisation</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>de produits</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>radioactifs destinés</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>à un usage in</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>vitro en médecine</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>humaine ou</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>vétérinaire</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>Véhicules et navires</td><td>32 007</td><td>32 647</td><td>33 300</td><td>33 966</td><td> </td><td> </td></tr><tr><td>à propulsion</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>nucléaire</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="7">(<font>1</font>)&lt;Supprimée par L <a>2012-03-29/08</a>, art. 33, 019; En vigueur : 01-04-2012&gt; </td></tr></table>
+
+§ 2. Les taxes visées au § 1er [<sup>3</sup> et à l'article 30bis/2]<sup>3</sup> sont dues par chaque établissement autorisé le 1er janvier de l'année budgétaire, pour chaque pratique faisant l'objet d'une autorisation au 1er janvier de l'année budgétaire et dont la durée de validité est un an ou plus, ainsi que pour chaque personne ou établissement agréé ou enregistré au 1er janvier de cette année pour un an ou plus.
+
+§ 3. Les montants des taxes annuelles perçues au profit de l'Agence et à charge de l'Organisme national des déchets radioactifs et des matières fissiles enrichies (ONDRAF) sont fixés comme suit :
+
+<table><tr><td>Organisme</td><td>Projet</td><td>Année</td><td>Année</td><td>Année</td></tr><tr><td> </td><td> </td><td>2009</td><td>2010</td><td>2011</td></tr><tr><td>ONDRAF</td><td>Dépôt définitif</td><td>1 150 000</td><td>1 173 000</td><td>1 196 460</td></tr><tr><td> </td><td>des déchets de</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>catégorie A</td><td> </td><td> </td><td> </td></tr><tr><td>ONDRAF</td><td>Programme de recherche</td><td>1 020 000</td><td>1 040 400</td><td>1 061 208</td></tr><tr><td> </td><td>et de développement en</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>vue de la mise en depot</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>des déchets de</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>categories B et C</td><td> </td><td> </td><td></td></tr></table>
+
+<table><tr><td>Organisme</td><td>Projet</td><td>Annee</td><td>Année</td><td>Montant</td></tr><tr><td> </td><td> </td><td>2012</td><td>2013</td><td>d`application</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td>a partir de</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td>l`année</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td>d`imposition</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td>2014</td></tr><tr><td>ONDRAF</td><td>Depot definitif</td><td>1 220 389</td><td>1 244 797</td><td>1 269 693</td></tr><tr><td> </td><td>des déchets de</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>categorie A</td><td> </td><td> </td><td> </td></tr><tr><td>ONDRAF</td><td>Programme de recherche</td><td>1 082 432</td><td>1 104 081</td><td>1 126 162</td></tr><tr><td> </td><td>et de développement en</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>vue de la mise en dépôt</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>des déchets de</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td>catégories B et C</td><td> </td><td> </td><td></td></tr></table>
+
+Ces montants sont affectés aux prestations de services que l'Agence doit réaliser [<sup>1</sup> relatifs aux projets visés à l'alinéa 1er]<sup>1</sup> par l'ONDRAF.
+
+Dès que l'ONDRAF ou son délégué reçoit une autorisation, la taxe visée au présent paragraphe pour le projet en question cesse d'être due. Elles font l'objet d'un dégrèvement partiel et d'une restitution d'office pro rata temporis pour la partie de l'année budgétaire qui n'est pas encore écoulée au moment de l'octroi de l'autorisation.
+
+[<sup>6</sup> A partir de 2023, les montants exprimés en euro qui sont fixés à l'alinéa 1er sont indexés chaque année de 3 % pendant une période de cinq ans.
+
+Dès que l'autorisation est délivrée dans le cadre des projets visés dans le présent paragraphe, la taxe annuelle est due comme le prévoit l'article 30bis/4.
+
+L'année au cours de laquelle l'autorisation est délivrée, la taxe annuelle due en vertu de l'article 30bis/4 pour les projets visés au présent paragraphe est à acquitter pro rata temporis pour la partie de l'année budgétaire qui n'est pas encore écoulée au moment de l'octroi de l'autorisation.]<sup>6</sup>
+
+[<sup>2</sup> § 3bis. Les montants des taxes annuelles perçues au profit de l'Agence et à charge du Centre d'Etude de l'Energie nucléaire, sans préjudice des montants dont cet exploitant est redevable conformément au § 1er et aux articles 30bis/2 et 30bis/3, sont fixés comme suit :
+
+<table><tr><td>Instelling</td><td>Project</td><td>Jaar 2013</td><td>Jaar 2014</td><td>Jaar 2015</td></tr><tr><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Etablissement</td><td>Projet</td><td>Année 2013</td><td>Année 2014</td><td>Année 2015</td></tr><tr><td>Studiecentrum voor Kernenergie</td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>-</td><td>Myrrha</td><td>704 975</td><td>719 075</td><td>733 456</td></tr><tr><td>Centre d`Etude de l`Energie nucléaire</td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+Ces montants sont affectés aux prestations de service que doit fournir l'Agence en faveur du Centre d'Etude de l'Energie nucléaire dans le cadre du projet Myrrha visé à l'alinéa 1er.
+
+Dès que le Roi confirme, conformément à l'article 16, § 2, l'autorisation qui a été délivrée au Centre d'Etude de l'Energie nucléaire ou à son délégué pour l'établissement qui fait l'objet de ce projet, la taxe visée au présent paragraphe pour le projet en question cesse d'être due. Le Centre d'Etude de l'Energie nucléaire ou son délégué fait l'objet d'un dégrèvement partiel et d'une restitution d'office pro rata temporis pour la partie de l'année budgétaire qui n'est pas encore écoulée au moment de l'entrée en vigueur de la confirmation.]<sup>2</sup>
+
+§ 4. [<sup>5</sup> Pour couvrir en tout ou en partie les frais d'administration, de fonctionnement, d'étude et d'investissement résultant du plan d'urgence nucléaire et radiologique pour le territoire belge, il est fixé au profit de l'Etat une taxe annuelle à charge des exploitants des réacteurs de puissance, dont le montant est fixé comme suit pour l'exercice budgétaire 2017 :
+
+<table><tr><td colspan="2">Réacteur de puissance </td><td colspan="2">Vermogensreactor</td></tr><tr><td>Doel 1 </td><td>302 109,48 € </td><td>Doel 1 </td><td>302 109,48 €</td></tr><tr><td>Doel 2 </td><td>302 109,48 € </td><td>Doel 2 </td><td>302 109,48 €</td></tr><tr><td>Doel 3 </td><td>701 898,70 € </td><td>Doel 3 </td><td>701 898,70 €</td></tr><tr><td>Doel 4 </td><td>724 923,21 € </td><td>Doel 4 </td><td>724 923,21 €</td></tr><tr><td>Tihange 1 </td><td>671 199,35 € </td><td>Tihange 1 </td><td>671 199,35 €</td></tr><tr><td>Tihange 2 </td><td>703 294,12 € </td><td>Tihange 2 </td><td>703 294,12 €</td></tr><tr><td>Tihange 3 </td><td>729 667,65 € </td><td>Tihange 3 </td><td>729 667,65 €</td></tr></table>
+
+A partir de l'exercice budgétaire 2018, le montant de la taxe à charge des exploitants des réacteurs de puissance est revu automatiquement, chaque année, dans le courant du mois de mai, sur la base des fluctuations de l'indice de santé suivant la formule :
+
+Taxe année X = [Taxe de l'année budgétaire 2017 x indice de santé janvier X]/indice de base.
+
+L'indice de base est l'indice de santé qui était applicable au mois de janvier 2017 et le nouvel indice est l'indice de santé qui était applicable au cours du mois de janvier précédant la révision du montant de la taxe.
+
+La taxe est due à partir de l'exercice budgétaire 2017 et est prélevée une fois par an, dans le courant du mois de mai.
+
+Cette taxe cesse d'être due pour un réacteur nucléaire destiné à la production d'énergie électrique pour lequel un permis de démantèlement a été délivré.
+
+Il est fixé au profit de l'Etat une taxe annuelle à charge des exploitants des réacteurs nucléaires destinés à la production d'énergie électrique pour lesquels un permis de démantèlement a été délivré, jusqu'à l'achèvement du démantèlement des réacteurs concernés.
+
+Le montant de cette taxe est égal à celui de la taxe prévue à l'alinéa 1er sur les réacteurs de puissance. La même formule d'indexation est également d'application.
+
+La taxe prévue à l'alinéa 6 est due à partir de l'année suivant la délivrance du permis de démantèlement.
+
+Le prélèvement est établi en fonction de la situation durant l'année précédente.
+
+Ces taxes au profit de l'Etat sont versées au Fonds des risques d'accidents nucléaires du Service public fédéral Intérieur.]<sup>5</sup>
+
+§ 5. Au cours du premier trimestre de chaque année budgétaire, l'Agence envoie à chaque redevable visé aux §§ 1er et 3 une demande de paiement. La demande de paiement indique le montant de la taxe à payer. Le montant de la taxe annuelle à payer doit être payé au numéro de compte de l'Agence renseigné sur la demande de paiement.
+
+Pour les taxes qui n'ont pas été payées avant la fin du mois suivant le mois de l'envoi de la demande de paiement, une mise en demeure est envoyée par l'Agence sous pli recommandé. Si le redevable ne donne pas suite à cette mise en demeure dans une période de 14 jours calendrier suivant la réception, la taxe est d'office majorée de 25 %.
+
+Pour la taxe visée au § 4, le Service public fédéral Intérieur envoie une demande de paiement au redevable. La demande de paiement mentionne le montant de la taxe à payer. Le montant de la taxe à payer annuellement doit être versé sur le numéro de compte renseigné sur la demande de paiement.
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 9, 017; En vigueur : 18-04-2011&gt;
+
+(2)&lt;L 2012-03-29/08, art. 33, 019; En vigueur : 01-04-2012&gt;
+
+(3)&lt;L 2014-05-15/59, art. 3,1°, 022; En vigueur : 01-04-2012&gt;
+
+(4)&lt;L 2014-05-15/59, art. 3,2°, 022; En vigueur : 28-07-2014&gt;
+
+(5)&lt;L 2017-04-07/01, art. 2, 024; En vigueur : 12-04-2017&gt;
+
+(6)&lt;L 2022-12-05/05, art. 2, 036; En vigueur : 24-12-2022&gt;
+
+##### Art. 30bis/2
+
+[<sup>1</sup> Les montants des taxes annuelles perçues au profit de l'Agence et à charge des détenteurs des autorisations et agréments et des personnes enregistrées sont fixés comme suit :
+
+<table><tr><td>Description de l'établissement autorisé, de l'activité autorisée ou enregistrée ou des personnes ou services agréés</td><td>Année 2013</td><td>Année 2014</td><td>Année 2015</td><td>[<sup><font>1</font></sup> Année 2016]<sup><font>1</font></sup></td></tr><tr><td colspan="6">REACTEURS</td></tr><tr><td>Réacteurs nucléaires destinés à la production d'énergie électrique, par mégawatt de puissance installée</td><td>3.109</td><td>3.172</td><td>-</td><td>-</td></tr><tr><td>Réacteur de puissance Doel 1</td><td>-</td><td>-</td><td>1.636. 934</td><td>1.669.673</td></tr><tr><td>Réacteur de puissance Doel 2</td><td>-</td><td>-</td><td>1.636. 934</td><td>1.669.673</td></tr><tr><td>Réacteur de puissance Doel 3</td><td>-</td><td>-</td><td>3.273. 868</td><td>3.339.346</td></tr><tr><td>Réacteur de puissance Doel 4</td><td>-</td><td>-</td><td>3.273. 868</td><td>3.339.346</td></tr><tr><td>Réacteur de puissance Tihange 1</td><td>-</td><td>-</td><td>3.273. 868</td><td>3.339.346</td></tr><tr><td>Réacteur de puissance Tihange 2</td><td>-</td><td>-</td><td>3.273. 868</td><td>3.339.346</td></tr><tr><td>Réacteur de puissance Tihange 3</td><td>-</td><td>-</td><td>3.273. 868</td><td>3.339.346</td></tr><tr><td>Réacteurs nucléaires destinés à la recherche dont la puissance thermique ne dépasse pas 5 mégawatt</td><td>6.072</td><td>6.193</td><td>6.471</td><td>6.600</td></tr><tr><td>Réacteurs nucléaires destinés à la recherche dont la puissance thermique dépasse 5 mégawatt</td><td>31.094</td><td>31.716</td><td>33.139</td><td>33.801</td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la production d'énergie électrique</td><td>364.304</td><td>371.590</td><td>388.256</td><td>396.022</td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la recherche dont la puissance thermique dépasse 5 mégawatt</td><td>15.547</td><td>15.858</td><td>16.569</td><td>16.901</td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la recherche dont la puissance thermique ne dépasse pas 5 mégawatt</td><td>3.036</td><td>3.097</td><td>3.236</td><td>3.301</td></tr><tr><td colspan="6">ETABLISSEMENTS DE CLASSE I</td></tr><tr><td>Etablissements de classe I, autres que les réacteurs nucléaires destinés à la production d'énergie électrique et à la recherche</td><td>31.094</td><td>31.716</td><td>33.139</td><td>33.801</td></tr><tr><td>Démantèlement des établissements de classe I, autres que les réacteurs nucléaires destinés à la production d'énergie électrique et à la recherche</td><td>15.547</td><td>15.858</td><td>16.569</td><td>16.901</td></tr><tr><td colspan="6">ETABLISSEMENTS DE CLASSE II</td></tr><tr><td>Etablissements de classe II où des substances radioactives sont produites à partir de substances fissiles irradiées, et où elles sont conditionnées pour la vente</td><td>11.361</td><td>11.588</td><td>12.108</td><td>12.350</td></tr><tr><td>Démantèlement d'établissements de classe II où des substances radioactives sont produites à partir de substances fissiles irradiées, et où elles sont conditionnées pour la vente</td><td>5.680</td><td>5.794</td><td>6.054</td><td>6.175</td></tr><tr><td>Etablissements de classe II où se trouvent un ou plusieurs accélérateurs de particules utilisés pour la recherche ou pour la production de radionucléides (à l'exception des microscopes électroniques) ainsi que les établissements où ces accélérateurs de particules sont produits et/ou testés</td><td>5.680</td><td>5.794</td><td>6.054</td><td>6.175</td></tr><tr><td>Etablissements de classe II dotés d'un ou plusieurs accélérateurs de particules destinés au traitement direct des patients</td><td>1.818</td><td>1.855</td><td>1.938</td><td>1.977</td></tr><tr><td>Autres établissements de classe II dotés d'un ou plusieurs accélérateurs de particules</td><td>5.680</td><td>5.794</td><td>6.054</td><td>6.175</td></tr><tr><td>Démantèlement d'établissements de classe II dotés d'un ou plusieurs accélérateurs de parti cules</td><td>2.840</td><td>2.897</td><td>3.027</td><td>3.087</td></tr><tr><td>Etablissements de classe II où se trouvent des installations d'irradiation avec une source dont l'activité est égale ou supérieure à 100 TBq, à l'exception des unités d'irradiation pour le traitement des patients et à l'exception des sources qui restent dans leur blindage en toutes circonstances</td><td>5.680</td><td>5.794</td><td>6.054</td><td>6.175</td></tr><tr><td>Etablissements de classe II où des substances radioactives sont conditionnées pour la vente en quantités industrielles</td><td>5.680</td><td>5.794</td><td>6.054</td><td>6.175</td></tr><tr><td>Etablissements de classe II autres que ceux déjà repris dans le présent tableau</td><td>1.818</td><td>1.855</td><td>1.938</td><td>1.977</td></tr><tr><td colspan="6">ETABLISSEMENTS DE CLASSE III</td></tr><tr><td>Etablissements de classe III composés d'un ou plusieurs appareils à rayonnement X</td><td>107</td><td>109</td><td>114</td><td>116</td></tr><tr><td>Etablissements de classe III autres que les établissements dotés d'un ou plusieurs appareils à rayonnement X</td><td>214</td><td>218</td><td>228</td><td>232</td></tr><tr><td colspan="6">INSTALLATIONS MOBILES</td></tr><tr><td>Véhicules et navires à propulsion nucléaire</td><td>36.363</td><td>37.090</td><td>38.754</td><td>39.529</td></tr><tr><td>Les installations mobiles et les activités temporaires ou occasionnelles, à l'exception des appareils mobiles exclusivement utilisés dans le cadre de la médecine humaine ou vétérinaire qui émettent des rayons X dont la tension de crête nominale ne dépasse pas 200 kV</td><td>227</td><td>232</td><td>242</td><td>247</td></tr><tr><td>Les appareils mobiles exclusivement utilisés dans le cadre de la médecine humaine ou vétérinaire qui émettent des rayons X dont la tension de crête nominale ne dépasse pas 200 kV</td><td>227</td><td>232</td><td>242</td><td>247</td></tr><tr><td colspan="6">ACTIVITES</td></tr><tr><td>Activités professionnelles mettant en jeu des sources naturelles de rayonnement et autorisées par l'Agence</td><td>727</td><td>742</td><td>775</td><td>791</td></tr><tr><td>Importateurs enregistrés qui importent uniquement des substances radioactives destinées à leur propre usage</td><td>545</td><td>556</td><td>581</td><td>593</td></tr><tr><td>Importateurs enregistrés qui importent des substances radioactives destinées à être redistribuées</td><td>1.091</td><td>1.113</td><td>1.163</td><td>1.186</td></tr><tr><td>Transporteurs de substances radioactives, détenteurs d'une ou plusieurs autorisations générales de transport (à l'exception du transport spécifique de paratonnerres démantelés)</td><td>2.182</td><td>2.225</td><td>2.325</td><td>2.371</td></tr><tr><td>Transporteurs de substances radioactives, pour toute autorisation spéciale de transport</td><td>1.455</td><td>1.484</td><td>1.551</td><td>1.582</td></tr><tr><td>Détenteurs d'une autorisation pour la commercialisation de produits radioactifs destinés à un usage in vivo ou à la thérapie en médecine humaine ou vétérinaire</td><td>3.636</td><td>3.709</td><td>3.875</td><td>3.953</td></tr><tr><td>Détenteurs d'une autorisation pour la commercialisation de produits radioactifs destinés à un usage in vitro en médecine humaine ou vétérinaire</td><td>1.212</td><td>1.236</td><td>1.291</td><td>1.317</td></tr><tr><td colspan="5">(<font>1</font>)&lt;L <a>2017-12-13/15</a>, art. 11, 026; En vigueur : 08-01-2018&gt; </td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-05-15/59, art. 4, 022; En vigueur : 01-01-2015&gt;
+
+##### Art. 30bis/3
+
+[<sup>1</sup> § 1er. Une taxe supplémentaire au profit de l'Agence est prélevée pour l'année budgétaire 2012 à charge des détenteurs d'autorisations et d'agréments. Les montants de cette taxe supplémentaire sont fixés comme suit :
+
+<table><tr><td>Omschrijving van de vergunde inrichting, de vergunde<br>   of geregistreerde activiteit of de erkende persoon of diensten</td><td> </td></tr><tr><td>-</td><td>Jaar/Année 2012</td></tr><tr><td>Description de l'établissement autorisé, de l'activité<br>   autorisée ou enregistrée ou des personnes ou services agréés</td><td> </td></tr><tr><td colspan="2">REACTOREN/REACTEURS</td></tr><tr><td>Kernreactoren voor elektriciteitsproductie, per megawatt geïnstalleerd vermogen</td><td> </td></tr><tr><td>- </td><td>331</td></tr><tr><td>Réacteurs nucléaires destinés à la production d'énergie électrique, par mégawatt de puissance installée</td><td> </td></tr><tr><td>Kernreactoren voor onderzoek met een thermisch vermogen van maximaal 5 megawatt</td><td> </td></tr><tr><td>- </td><td>647</td></tr><tr><td>Réacteurs nucléaires destinés à la recherche dont la puissance thermique ne dépasse pas 5 mégawatt</td><td> </td></tr><tr><td>Kernreactoren voor onderzoek met een thermisch vermogen groter dan 5 megawatt</td><td> </td></tr><tr><td>- </td><td>3 312</td></tr><tr><td>Réacteurs nucléaires destinés à la recherche dont la puissance thermique dépasse 5 mégawatt</td><td> </td></tr><tr><td>Ontmanteling van kernreactoren voor elektriciteitsproductie</td><td> </td></tr><tr><td>- </td><td>38 798</td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la production d'énergie électrique</td><td> </td></tr><tr><td>Ontmanteling van kernreactoren voor onderzoek met een thermisch vermogen groter dan 5 megawatt</td><td> </td></tr><tr><td>- </td><td>1 656</td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la recherche dont la puissance thermique dépasse 5 mégawatt</td><td> </td></tr><tr><td>Ontmanteling van kernreactoren voor onderzoek met een thermisch vermogen van maximaal 5 megawatt</td><td> </td></tr><tr><td>- </td><td>323</td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la recherche dont la puissance thermique ne dépasse pas 5 mégawatt</td><td> </td></tr><tr><td colspan="2">INRICHTINGEN VAN KLASSE I/ETABLISSEMENTS DE CLASSE I</td></tr><tr><td>Inrichtingen van klasse I, andere dan kernreactoren voor elektriciteitsproductie en onderzoeksreactoren</td><td> </td></tr><tr><td>- </td><td>3 312</td></tr><tr><td>Etablissements de classe I, autres que les réacteurs nucléaires destinés à la production d'énergie électrique et à la recherche</td><td> </td></tr><tr><td>Ontmanteling van inrichtingen van klasse I, andere dan kernreactoren voor elektriciteitsproductie en onderzoeksreactoren</td><td> </td></tr><tr><td>- </td><td>1 656</td></tr><tr><td>Démantèlement des établissements de classe I, autres que les réacteurs nucléaires destinés à la production d'énergie électrique et à la recherche</td><td></td></tr></table>
+
+§ 2. Les taxes supplémentaires visées au § 1er sont dues par chaque établissement autorisé le 1er avril de l'année budgétaire 2012, pour chaque pratique faisant l'objet d'une autorisation au 1er avril 2012 et dont la durée de validité court encore au moins jusqu'au 31 décembre 2012, ainsi que pour chaque personne ou établissement agréé ou enregistré au 1er avril 2012 pour une période qui court encore au moins jusqu'au 31 décembre 2012.
+
+§ 3. Une taxe complémentaire au profit de l'Agence est prélevée pour l'année budgétaire 2012 à charge du Centre d'Etude de l'Energie nucléaire. Le montant de cette taxe complémentaire qui est prélevée est, sans préjudice des montants dont cet exploitant est redevable conformément à l'article 30bis/1, 30bis/2 ou 30bis/3, § 1er, fixé comme suit :
+
+<table><tr><td>Instelling</td><td>Project</td><td>Jaar 2012</td></tr><tr><td>-</td><td>-</td><td>-</td></tr><tr><td>Etablissement</td><td>Projet</td><td>Année 2012</td></tr><tr><td>Studiecentrum voor Kernenergie</td><td> </td><td> </td></tr><tr><td>- </td><td>Myrrha</td><td>691 152</td></tr><tr><td>Centre d'Etude de l'Energie nucléaire</td><td> </td><td></td></tr></table>
+
+Ces montants sont affectés aux prestations de service que doit fournir l'Agence durant l'année budgétaire 2012 dans le cadre du projet Myrrha visé à l'alinéa 1er en faveur du Centre d'Etude de l'Energie nucléaire.
+
+Dès que le Roi confirme, conformément à l'article 16, § 2, l'autorisation qui a été délivrée au Centre d'Etude de l'Energie nucléaire ou à son délégué pour l'établissement qui fait l'objet de ce projet, la taxe visée au présent paragraphe pour le projet en question cesse d'être due. Le Centre d'Etude de l'Energie nucléaire ou son délégué fait l'objet d'un dégrèvement partiel et d'une restitution d'office pro rata temporis, pour la partie de l'année budgétaire qui n'est pas encore écoulée au moment de l'entrée en vigueur de la confirmation.
+
+§ 4. Au cours du deuxième trimestre de l'année budgétaire 2012, l'Agence renvoie aux redevables visés aux §§ 1er et 3 une demande de paiement. La demande de paiement indique le montant de la taxe à payer. Le montant de la taxe à payer doit être payé au numéro de compte de l'Agence mentionné sur la demande de paiement.
+
+Pour les taxes qui n'ont pas été payées avant la fin du mois suivant le mois de l'envoi de la demande de paiement, une mise en demeure est envoyée par l'Agence sous pli recommandé. S'il n'est pas donné suite à cette mise en demeure dans une période de 14 jours calendrier suivant la réception, la taxe est d'office majorée de 25 %.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-29/08, art. 35, 019; En vigueur : 01-04-2012&gt;
+
+##### Art. 30bis/4
+
+[<sup>1</sup> Les montants des taxes annuelles perçues au profit de l'Agence et à charge des détenteurs des autorisations et agréments et des personnes enregistrées sont fixés comme suit:
+
+<table><tr><td>Description de l'établissement autorisé, de l'activité autorisée, enregistrée ou agréée, ou des personnes ou services agréés<br>  </td><td>Montant d'application à partir de l'année d'imposition 2017</td></tr><tr><td>Réacteur de puissance Doel 1<br>  </td><td>1 669 673</td></tr><tr><td>Réacteur de puissance Doel 2<br>  </td><td>1 669 673</td></tr><tr><td>Réacteur de puissance Doel 3<br>  </td><td>3 339 346</td></tr><tr><td>Réacteur de puissance Doel 4<br>  </td><td>3 339 346</td></tr><tr><td>Réacteur de puissance Tihange 1<br>  </td><td>3 339 346</td></tr><tr><td>Réacteur de puissance Tihange 2<br>  </td><td>3 339 346</td></tr><tr><td>Réacteur de puissance Tihange 3<br>  </td><td>3 339 346</td></tr><tr><td>Réacteurs nucléaires destinés à la recherche dont la puissance thermique ne dépasse pas 5 mégawatt</td><td>6 600</td></tr><tr><td>Réacteurs nucléaires destinés à la recherche dont la puissance thermique dépasse 5 mégawatt</td><td>33 801</td></tr><tr><td>[<sup><font>2</font></sup> Installations de mise en dépôt définitif en surface des déchets radioactifs en exploitation</td><td>800.000]<sup><font>2</font></sup></td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la production d'énergie électrique</td><td>396 022</td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la recherche dont la puissance thermique dépasse 5 mégawatt</td><td>16 901</td></tr><tr><td>Démantèlement des réacteurs nucléaires destinés à la recherche dont la puissance thermique ne dépasse pas 5 mégawatt</td><td>3 301</td></tr><tr><td>[<sup><font>2</font></sup> Etablissements de classe I, autres que les réacteurs nucléaires destinés à la production d'énergie électrique ou à la recherche et les installations de mise en dépôt définitif en surface des déchets radioactifs en exploitation</td><td>33 801]<sup><font>2</font></sup></td></tr><tr><td>Démantèlement des établissements de classe I, autres que les réacteurs nucléaires destinés à la production d'énergie électrique et à la recherche</td><td>16 901</td></tr><tr><td>Etablissements de classe II où des substances radioactives sont produites à partir de substances fissiles irradiées, et où elles sont conditionnées pour la vente</td><td>12 350</td></tr><tr><td>Démantèlement d'établissements de classe II où des substances radioactives sont produites à partir de substances fissiles irradiées, et où elles sont conditionnées pour la vente</td><td>6 175</td></tr><tr><td>Etablissements de classe II où se trouvent un ou plusieurs accélérateurs de particules utilisés pour la recherche ou pour la production de radionucléides (à l'exception des microscopes électroniques) ainsi que les établissements où ces accélérateurs sont produits et/ ou testés</td><td>6 175</td></tr><tr><td>Etablissements de classe II dotés d'un ou plusieurs accélérateurs de particules destinés au traitement direct des patients</td><td>1 977</td></tr><tr><td>Autres établissements de classe II dotés d'un ou plusieurs accélérateurs de particules</td><td>6 175</td></tr><tr><td>Démantèlement d'établissements de classe II dotés d'un ou plusieurs accélérateurs de particules</td><td>3 087</td></tr><tr><td>Etablissements de classe II où se trouvent des installations d'irradiation avec une source dont l'activité est égale ou supérieure à 100 TBq, à l'exception des unités d'irradiation pour le traitement des patients et à l'exception des sources qui restent dans leur blindage en toutes circonstances</td><td>6 175</td></tr><tr><td>Etablissements de classe II où des substances radioactives sont conditionnées pour la vente en quantités industrielles</td><td>6 175</td></tr><tr><td>Etablissements de classe II autres que ceux déjà repris dans le présent tableau</td><td>1 977</td></tr><tr><td>Etablissements de classe III composés d'un ou plusieurs appareils à rayonnement X</td><td>116</td></tr><tr><td>Etablissements de classe III autres que les établissements dotés d'un ou plusieurs appareils à rayonnement X</td><td>232</td></tr><tr><td>Véhicules et navires à propulsion nucléaire</td><td>39 529</td></tr><tr><td>Les installations mobiles et les activités temporaires ou occasionnelles, à l'exception des appareils mobiles exclusivement utilisés dans le cadre de la médecine humaine ou vétérinaire qui émettent des rayons X dont la tension de crête nominale ne dépasse pas 200 kV<br>  </td><td>247</td></tr><tr><td>Les appareils mobiles exclusivement utilisés dans le cadre de la médecine humaine ou vétérinaire qui émettent des rayons X dont la tension de crête nominale ne dépasse pas 200 kV.<br>  </td><td>247</td></tr><tr><td>Activités professionnelles mettant en jeu des sources naturelles de rayonnement et autorisées par l'Agence</td><td>791</td></tr><tr><td>Importateurs enregistrés qui importent uniquement des substances radioactives destinées à leur propre usage</td><td>593</td></tr><tr><td>Importateurs enregistrés qui importent des substances radioactives destinées à être redistribuées</td><td>1 186</td></tr><tr><td>Transporteurs de substances radioactives, détenteurs d'une ou plusieurs autorisations générales de transport (à l'exception du transport spécifique de paratonnerres démantelés)</td><td>2 371</td></tr><tr><td>Transporteurs de substances radioactives, pour toute autorisation spéciale de transport</td><td>1 582</td></tr><tr><td>Transporteur UN Groupe 1- route<br>  </td><td>655</td></tr><tr><td>Transporteur UN Groupe 1 - non route</td><td>655</td></tr><tr><td>Transporteur UN groupe 1 - route - avec sous-traitants</td><td>1 435</td></tr><tr><td>Transporteur UN groupe 1 - non route - avec sous-traitants</td><td>1 435</td></tr><tr><td>Transporteur UN Groupe 2 - route</td><td>4 395</td></tr><tr><td>Transporteur UN groupe 2 - non route</td><td>2 135</td></tr><tr><td>Transporteur UN Groupe 2 - route avec sous-traitants</td><td>7 405</td></tr><tr><td>Transporteur UN Groupe 2 - non route avec sous-traitants</td><td>3 990</td></tr><tr><td>Transporteur UN Groupe 3 - route</td><td>12 220</td></tr><tr><td>Transporteur UN groupe 3 - non route</td><td>4 410</td></tr><tr><td>Transporteur UN Groupe 3 - route - avec sous-traitants<br>  </td><td>17 252</td></tr><tr><td>Transporteur UN Groupe 3 - non route - avec sous-traitants<br>  </td><td>6 615</td></tr><tr><td>Transporteur UN Groupe 4 - route<br>  </td><td>13 212</td></tr><tr><td>Transporteur UN groupe 4 - non route<br>  </td><td>5 215</td></tr><tr><td>Transporteur UN Groupe 4 - route avec sous-traitants<br>  </td><td>17 777</td></tr><tr><td>Transporteur UN Groupe 4 - non route avec sous-traitants<br>  </td><td>6 615</td></tr><tr><td>Exploitant d'un site d'interruption<br>  </td><td>11 027</td></tr><tr><td>Manutentionnaire aéroport<br>  </td><td>2 345</td></tr><tr><td>Exploitant de quai portuaire<br>  </td><td>2 345</td></tr><tr><td>Détenteurs d'autorisations de transport pour lesquelles la validité de l'autorisation ou des autorisations est supérieure à un an<br>  </td><td>2 450</td></tr><tr><td>[<sup><font>1</font></sup> Détenteurs d'une autorisation pour la mise à disposition de produits radioactifs destinés à un usage in vivo ou à la thérapie en médecine humaine ou vétérinaire]<sup><font>1</font></sup></td><td>3 953</td></tr><tr><td>[<sup><font>1</font></sup> Détenteurs d'une autorisation pour la mise à disposition de produits radioactifs destinés à un usage in vitro en médecine humaine ou vétérinaire]<sup><font>1</font></sup></td><td>1 317</td></tr><tr><td>[<sup><font>3</font></sup> Description de l'établissement autorisé, de l'activité autorisée, enregistrée ou agréée, ou des personnes ou services agréés</td><td>Montant d'application à partir de l'année d'imposition 2027 [EUR]</td></tr><tr><td>Autre réacteur de puissance destiné à la production d'énergie, par mégawatt de puissance thermique nominale fixée dans l'autorisation</td><td>1681]<sup><font>3</font></sup></td></tr><tr><td colspan="2">(<font>1</font>)&lt;L <a>2021-12-19/08</a>, art. 11, 034; En vigueur : 28-01-2022&gt;</td></tr><tr><td colspan="2">(<font>2</font>)&lt;L <a>2022-12-05/05</a>, art. 3, 036; En vigueur : 24-12-2022&gt;</td></tr><tr><td colspan="2">(<font>3</font>)&lt;L <a>2025-05-17/01</a>, art. 15, 044; En vigueur : 05-06-2025&gt; </td></tr></table>
+
+A compter de 2018, les montants exprimés en euro fixés à l'alinéa 1er sont indexés annuellement de 2 % pendant une période de cinq ans.
+
+[<sup>2</sup> A partir de 2023, les montants exprimés en euro qui sont fixés à l'alinéa 1er sont indexés chaque année de 6 % pendant une période de cinq ans.]<sup>2</sup>
+
+L'Agence publie chaque année au Moniteur belge un avis contenant les montants indexés des taxes annuelles pour l'année d'imposition en cours.
+
+L'Agence évalue l'index forfaitaire au terme de la période de cinq ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-13/15, art. 12, 026; En vigueur : 08-01-2018&gt;
+
+(2)&lt;L 2022-12-05/05, art. 3, 036; En vigueur : 24-12-2022&gt;
+
+##### Art. 30bis/5
+
+[<sup>1</sup> Les taxes visées à l'article 30bis/4 sont dues par chaque établissement autorisé le 1er janvier de l'année budgétaire, pour chaque pratique faisant l'objet d'une autorisation au 1er janvier de l'année budgétaire et dont la durée de validité est un an ou plus, ainsi que pour chaque personne ou établissement agréé au 1er janvier de cette année et dont la durée de validité est un an ou plus. Au cours du premier trimestre de chaque année budgétaire, l'Agence envoie une demande de paiement à chaque redevable visé à l'article 30bis/4. La demande de paiement indique le montant de la taxe à payer. Le montant de la taxe annuelle à payer doit être payé au numéro de compte de l'Agence renseigné sur la demande de paiement. Pour les taxes qui n'ont pas été payées avant la fin du mois suivant le mois de l'envoi de la demande de paiement, une mise en demeure est envoyée par l'Agence par lettre recommandée. S'il n'est pas donné suite à cette mise en demeure dans un délai de 14 jours calendrier suivant la réception, la taxe est d'office majorée de 25 %.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-12-19/08, art. 12, 034; En vigueur : 28-01-2022&gt;
+
+##### Art. 30ter
+
+&lt;Inséré par L 2007-05-15/41, art. 4; En vigueur : 01-09-2001&gt; § 1er. Pour les années 2001 à 2006, les ordres de paiement adressés par l'Agence et le Fonds des risques d'accidents nucléaires au cours de cette période à chaque redevable sur base de l'arrêté royal du 24 août 2001 fixant le montant et le mode de paiement des redevances perçues en application de la réglementation relative aux rayonnements ionisants sont présumés être des ordres de paiement au sens de la présente loi.
+
+§ 2. Une exemption de taxe visée dans la présente loi est accordée aux redevables qui ont payé une redevance annuelle pour les années 2001 à 2006 sur base de l'arrêté royal du 24 août 2001 fixant le montant et le mode de paiement des redevances perçues en application de la réglementation relative aux rayonnements ionisants.
+
+##### Art. 30quater
+
+&lt;inséré par L 2008-12-22/32, art. 272; En vigueur : 01-01-2009&gt; Le Roi peut définir, par arrêté delibéré en Conseil des Ministres, que des redevances sont perçues :
+
+1° au profit de l'Agence au moment de l'introduction d'une notification, d'une demande d'autorisation, de permission, d'agrément ou d'enregistrement et à charge du demandeur ou du declarant;
+
+2° au profit de sociétés, associations, partenariats ou autres entités juridiques dotés ou non de la personnalité civile créés par l'Agence ou agissant sous son contrôle et sa responsabilité, pour couvrir les frais résultant de l'exécution des missions de contrôle visées à l'article 15.
+
+##### Art. 30quinquies
+
+&lt;inséré par L 2008-12-22/32, art. 273; En vigueur : 01-01-2009&gt; [<sup>1</sup> Les taxes, les taxes complémentaires, les taxes supplémentaires et les rétributions ]<sup>1</sup> dues en vertu de la présente loi peuvent être récupérées par le Directeur général de l'Agence par voie de contrainte. Les contraintes sont signifiées par exploit d'huissier de justice.
+
+La contrainte comporte un commandement de payer dans les trente jours calendrier, à peine d'exécution par voie de saisie, ainsi qu'une justification des montants dus et une copie du titre exécutoire.
+
+Le redevable et le contribuable peut faire opposition à la contrainte devant le tribunal de première instance de Bruxelles.
+
+L'opposition est motivée à peine de nullité; elle est formée au moyen d'une citation à l'Agence fédérale de Controle nucléaire par exploit d'huissier dans les trente jours calendrier de la signification de la contrainte.
+
+L'opposition ne suspend pas l'exécution de la contrainte.
+
+Les frais de signification de la contrainte de même que les frais de l'exécution ou des mesures conservatoires sont a charge du débiteur, sauf si l'opposition est déclarée recevable et fondée, auquel cas ces frais sont à charge de l'Agence. Les frais de signification sont déterminés suivant les règles établies pour les actes accomplis par les huissiers de justice en matière civile et commerciale.
+
+----------
+
+(1)&lt;L 2012-03-29/08, art. 36, 019; En vigueur : 01-04-2012&gt;
+
+##### Art. 31
+
+&lt;L 2008-12-22/32, art. 274, 016; En vigueur : 01-01-2009&gt; § 1er. L'Agence est financee par :
+
+1° [<sup>1</sup> les taxes, les taxes complémentaires et les taxes supplémentaires visées aux articles 30bis, 30bis/1, 30bis/2, 30bis/3 [<sup>2</sup> , 30bis/4]<sup>2</sup> et 30ter;]<sup>1</sup>
+
+2° [<sup>4</sup> les redevances visées à l'article 30quater, 1°, et les redevances visées dans la loi du 20 novembre 2022 relatif à la gestion des sols contaminés par des substances radioactives ;]<sup>4</sup>
+
+3° [<sup>4</sup> les amendes administratives visées aux articles 53 à 64 et au chapitre 7, section 3 de la loi du 20 novembre 2022 relatif à la gestion des sols contaminés par des substances radioactives;]<sup>4</sup>
+
+4° les indemnités, ajoutées aux indemnités payées par des personnes physiques ou morales visées à l'article 30quater, pour les prestations particulières supplémentaires imposées par l'exercice de sa mission visée au § 3;
+
+5° des donations et legs;
+
+6° des dotations;
+
+[<sup>3</sup> 7° les indemnités visées à l'article 16/1, § 2; 8° les indemnités visées à l'article 27/10, § 2.]<sup>3</sup>
+
+Le produit des redevances perçues en application de l'article 3bis de la loi du 29 mars 1958 relative à la protection de la population contre les dangers résultant des radiations ionisantes, attribué aux services compétents dans le domaine nucléaire qui sont rattachés au Ministère de l'Emploi et du Travail et au Ministère des Affaires sociales, de la Santé publique et de l'Environnement, est transféré sur le compte de l'Agence selon un calendrier qui est établi en accord avec le Ministre du Budget et le Ministre de tutelle de l'Agence.
+
+Les moyens qui sont inscrits au budget de ces services dans le courant de l'année budgétaire sont inscrits au budget de l'Agence.
+
+Sans préjudice des dispositions de l'article 45, § 1er, l'Agence reprend tous les biens, droits et obligations acquis ou contractés par l'Etat moyennant des moyens financiers acquis en vertu de l'article 3bis, § 1er, 1°, de la loi précitée du 29 mars 1958. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les modalités de transfert de la propriété des possessions de ces services. Les archives des services fédéraux et provinciaux dont les compétences sont transférées à l'Agence conformément, soit aux articles 14 et 51, soit à l'article 16, reviennent à l'Agence.
+
+§ 2. L'ensemble des coûts et des investissements liés aux activités de l'Agence est mis à charge des sociétés, institutions ou personnes au bénéfice desquelles elle effectue des prestations, dans les limites fixées [<sup>1</sup> les articles 30bis, 30bis/1, 30bis/2, 30bis/3, [<sup>2</sup> 30bis/4,]<sup>2</sup> 30ter, 30quater et 31, §§ 3 et 4]<sup>1</sup>.
+
+§ 3. Le cas échéant, l'Agence ajoute aux redevances payées par des personnes physiques ou morales visées à l'article 30quater les coûts de certaines prestations particulières supplémentaires imposées par l'exercice de sa mission.
+
+Après avis du Conseil d'Administration de l'Agence, le Roi fixe, par arrêté délibéré en Conseil des ministres, le tarif horaire des prestations particulières supplémentaires effectuées par ou pour le compte de l'Agence.
+
+§ 4. Si l'Agence effectue ou fait effectuer des interventions dans le cadre de la préservation de terrains, sols ou bâtiments contre une pollution radiologique ou dans le cadre d'une exposition de longue durée de personnes aux rayonnements ionisants des suites de situations d'urgence radiologique, de l'exercice d'activités et/ou pratiques professionnelles ou autres, l'Agence répercute les frais de ces interventions sur les entreprises qui ont causé la pollution radiologique ou l'exposition de longue durée.
+
+Après avis du Conseil d'Administration de l'Agence, le Roi fixe, par arrêté délibéré en Conseil des Ministres, le tarif horaire des interventions visées à l'alinéa 1er.
+
+[<sup>5</sup> § 4/1. Le Roi détermine, par arrêté délibéré en Conseil des ministres, les modalités de paiement de la dotation à charge du budget général des dépenses.]<sup>5</sup>
+
+§ 5. L'Agence doit respecter son équilibre financier.
+
+----------
+
+(1)&lt;L 2012-03-29/08, art. 37, 019; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2017-12-13/15, art. 13, 026; En vigueur : 08-01-2018&gt;
+
+(3)&lt;L 2018-12-06/36, art. 7, 028; En vigueur : 16-01-2019&gt;
+
+(4)&lt;L 2022-11-20/07, art. 41, 037; En vigueur : 03-02-2023&gt;
+
+(5)&lt;L 2025-02-21/12, art. 6, 043; En vigueur : 01-06-2025&gt;
+
+##### Art. 32
+
+La comptabilité de l'Agence est organisée selon les méthodes commerciales. Elle respecte les règles fixées par la loi du 17 juillet 1975 relative à la comptabilité et aux comptes annuels des entreprises et par les arrêtés d'exécution de cette loi.
+
+Le conseil d'administration de l'Agence désigne un réviseur choisi parmi les membres de l'Institut des réviseurs d'entreprises.
+
+##### Art. 33
+
+Le réviseur adresse aux ministres dont relève l'Agence et au conseil d'administration de cette dernière un rapport sur la situation active et passive ainsi que sur les résultats de l'exploitation, au moins une fois l'an, à l'occasion de la confection du bilan et du compte de profits et pertes ou du compte annuel. Il leur signale sans délai toute négligence, toute irrégularité et en général toute situation susceptible de compromettre l'équilibre financier de l'Agence.
+
+##### Art. 34
+
+[<sup>1</sup> Chaque année, le conseil d'administration de l'Agence arrête le budget de l'exercice suivant et approuve les comptes de l'exercice écoulé. Par dérogation à la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, les comptes arrêtés par l'Agence sont transmis au ministre dont elle relève et au ministre du Budget. Ce dernier les transmet à la Cour des comptes en vue de leur contrôle.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-12-19/08, art. 13, 034; En vigueur : 28-01-2022&gt;
+
+## CHAPITRE VI. - De l'administration de l'Agence.
+
+##### Art. 35
+
+L'Agence est administrée par un Conseil d'administration composé d'un président et de treize membres, qui ont tous voix délibérative et sont désignés par le Roi par arrêté délibéré en Conseil des Ministres, sur la proposition des ministres ayant l'Agence dans leurs attributions. Cette désignation est faite sur la base de leurs qualités scientifiques ou professionnelles particulières, mentionnées dans l'arrêté de désignation, dans le domaine de la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants.
+
+Le conseil d'administration comprend un nombre égal de membres d'expression française et de membres d'expression néerlandaise. En cas de partage des voix, la voix du président ou de son remplaçant est prépondérante.
+
+(Le Roi peut, par arrêté délibéré en Conseil des ministres, préciser des règles plus détaillées relatives à la composition et au fonctionnement des organes d'administration et d'avis de l'Agence.) &lt;L 1999-01-15/30, art. 3, 004; En vigueur : indéterminée &gt;
+
+[<sup>1</sup> Le président et les membres du conseil d'administration représentent l'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 10, 017; En vigueur : 01-01-2005&gt;
+
+##### Art. 36
+
+Le président et les membres du conseil d'administration sont désignés par le Roi pour un terme de six ans. Leur mandat est renouvelable selon les règles prévues pour la nomination. Le mandat prend fin de plein droit lorsque le titulaire atteint l'âge de [<sup>1</sup> 70 ans]<sup>1</sup>.
+
+Par dérogation à l'alinéa 1er, le mandat de la moitié des membres faisant partie du premier conseil d'administration prend fin après un terme de trois ans.
+
+Les administrateurs de l'Agence peuvent être révoqués par arrêté royal délibérée en Conseil des Ministres, sur avis conforme et motivé du conseil d'administration adopté à la majorité des deux tiers des voix exprimées.
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 11, 017; En vigueur : 18-04-2011&gt;
+
+##### Art. 37
+
+Il est créé un Conseil scientifique dont la mission sera de conseiller l'Agence quant à sa politique de contrôle et plus particulièrement de donner, conformément à ce qui est dit à l'article 16, un avis préalable aux autorisations à délivrer pour des nouvelles installations nucléaires ou lors du renouvellement d'autorisations. La composition et les pouvoirs du Conseil scientifique regroupant des personnalités de grande compétence en matière nucléaire et de sécurité sont déterminés par le Roi.
+
+Le conseil d'administration assure la concertation entre l'Agence et les milieux intéressés et en particulier les exploitations des installations nucléaires.
+
+##### Art. 38
+
+[<sup>1</sup> Sans préjudice des autres limitations par ou en vertu d'une loi, l'exercice du mandat de président ou d'administrateur auprès de l'Agence, ou auprès de tout organisme ou entité auquel l'Agence fait appel sur la base [<sup>2</sup> des articles 14ter et 29bis]<sup>2</sup>, est incompatible avec le mandat ou les fonctions de :]<sup>1</sup>
+
+1° membre du Parlement européen;
+
+2° membre de la Chambre des représentants ou du Sénat;
+
+3° membre du gouvernement fédéral;
+
+4° (membre d'un Parlement ou d'un gouvernement de communauté ou de région); &lt;L 2006-03-27/35, art. 27, 013; En vigueur : 21-04-2006&gt;
+
+5° gouverneur d'une province ou membre de la députation permanente d'un conseil provincial:
+
+6° membre du collège des bourgmestre et échevins ou président du centre public d'aide sociale;
+
+7° membre du personnel de l'Agence ou d'une personne ou d'un organisme soumis au contrôle de l'Agence, soit directement, soit indirectement par l'intermédiaire d'organisme agréé à l'exception des membres du personnel des universités et des écoles supérieures qui n'ont pas d'intérêt direct aux missions de l'Agence;
+
+[<sup>1</sup> 8° président ou membre du conseil d'administration auprès de tout établissement soumis au contrôle de l'Agence, à l'exception des universités et des écoles supérieures qui n'ont pas d'intérêt direct aux missions de l'Agence, ainsi qu'à l'exception de toute entité juridique spécialement créée par l'Agence sur la base [<sup>2</sup> des articles 14ter et 29bis]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>1</sup> Un membre du personnel de l'Agence ne peut être membre du conseil d'administration d'un organisme soumis au contrôle de l'Agence.]<sup>1</sup>
+
+Ces incompatibilités subsistent jusqu'à la fin de l'année qui suit la fin du mandat ou de la fonction.
+
+Lorsqu'un administrateur contrevient aux dispositions ci-dessus, il est tenu de se démettre des mandats ou fonctions en question. S'il ne le fait pas, il est réputé s'être démis de plein droit de son mandat auprès de l'Agence.
+
+[<sup>3</sup> La qualité de membre du Conseil scientifique est inconciliable avec les mandats et qualités suivants au sein de l'Agence ou des entités que l'Agence a créées:
+
+1° le mandat de directeur général;
+
+2° la qualité de membre du conseil d'administration;
+
+3° la qualité de membre du personnel.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-12-21/22, art. 131, 020; En vigueur : 10-01-2014&gt;
+
+(2)&lt;L 2017-05-07/07, art. 12, 025; En vigueur : 31-12-2018&gt;
+
+(3)&lt;L 2025-02-21/12, art. 7, 043; En vigueur : 01-06-2025&gt;
+
+##### Art. 39
+
+Le conseil d'administration représente l'Agence dans les procédures judiciaires.
+
+Le conseil d'administration peut, sous sa responsabilité, deléguer une partie de ses pouvoirs au directeur général. Les délégations de pouvoir ne peuvent être données qu'en vertu de délibérations spéciales du conseil d'administration, lequel détermine l'objet et l'étendue de chacun des pouvoirs ainsi octroyés. Le président et le directeur général représentent conjointement l'Agence dans les actes authentiques et [<sup>1</sup> sous signature privée]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2019-04-13/28, art. 50, 033; En vigueur : 01-11-2020&gt;
+
+##### Art. 40
+
+Le Roi détermine le montant des indemnités qui peuvent être allouées aux membres du conseil d'administration. Il fixe le montant des indemnités pour frais de parcours et de séjour.
+
+##### Art. 41
+
+La gestion journalière de l'Agence, sa représentation en ce qui concerne sa gestion et l'exécution des décisions du conseil d'administration sont confiées au directeur général désigné pour un terme renouvelable de six ans par le Roi, par arrêté délibéré en Conseil des Ministres. Il ne peut être révoqué que par arrêté royal délibéré en Conseil des ministres sur avis conforme et motivé de deux tiers des membres du conseil d'administration.
+
+Le président et le directeur général sont de rôle linguistique différent.
+
+Les droits et les obligations mutuels du directeur général et de l'Agence sont réglés dans un contrat de travail établi conformément à la loi du 3 juillet 1978 relative aux contrats de travail. Lors de la négociation de cette convention, l'Agence est représentée par le conseil d'administration.
+
+Le directeur général qui, au moment de sa nomination, se trouve lié statutairement à l'Etat ou à toute autre personne morale de droit public qui dépend de l'Etat, est mis de plein droit à disposition conformément aux modalités du statut concerné pour l'ensemble de la durée de son mandat. Pendant cette période, il conserve ses droits à la promotion et à l'avancement de traitement.
+
+Si le directeur général, au moment de sa nomination, est lié contractuellement à l'Etat ou à toute autre personne morale de droit public qui dépend de l'Etat, l'accord concerné est suspendu de plein droit pour toute la durée de son mandat. Pendant cette période, il conserve ses droits à la promotion et à l'avancement de traitement.
+
+##### Art. 42
+
+L'Agence est soumise à la législation relative aux marchés publics de travaux, de fournitures et de services.
+
+##### Art. 43
+
+L'Agence est organisée de manière telle que la fonction de réglementation et la fonction de surveillance s'exercent indépendamment l'une de l'autre.
+
+##### Art. 44
+
+Sans préjudice des dispositions de l'article 46, le personnel de l'Agence est engagé dans les liens d'un contrat de travail, établi conformément à la loi du 3 juillet 1978 relative aux contrats de travail, et ce par dérogation à l'article 8, § 2 et § 3, de l'arrêté royal n° 56 du 16 juillet 1982 relatif au recrutement dans certains services publics.
+
+Sur la présentation du directeur général et avec l'approbation des ministres qui ont l'Agence dans leurs attributions, le conseil d'administration fixe :
+
+1° le cadre du personnel;
+
+2° le régime de recrutement, le régime de carrière, le régime pécuniaire et le régime social du personnel;
+
+[<sup>1</sup> 3° une prime complémentaire éventuelle pour les membres du personnel statutaire mis à la disposition de l'Agence en vertu de l'article 46bis.]<sup>1</sup>
+
+Les conditions de travail auxquelles est soumis le personnel sont au moins équivalentes à celles prévues par la loi du 20 février 1990 relative aux agents des administrations et de certains organismes d'intérêt public.
+
+L'Agence doit assurer en permance la formation des membres de son personnel au niveau international, en fonction des missions qui leur sont confiées.
+
+(Alinéa 5 abrogé) &lt;L 1997-12-12/32, art. 13, 003; En vigueur : 28-12-1997&gt;
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 14, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 45
+
+&lt;L 1997-12-12/32, art. 14, 003; En vigueur : 28-12-1997&gt; § 1. Les membres du personnel statutaires et contractuels du Ministère de l'Emploi et du Travail, du Ministère des Affaires sociales, de la Santé publique et de l'Environnement, du Ministère de l'Intérieur, du Ministère des Affaires étrangères, du Ministère des Affaires économiques, et du Ministère de la Justice, attachés aux services compétents dans le secteur nucléaire, [<sup>2</sup> ainsi que les membres du personnel scientifique de Sciensano]<sup>2</sup>, ayant des missions dans le secteur nucléaire, peuvent être transférés à l'Agence, après sélection par son Conseil d'administration. Ce transfert s'effectue, au moins, avec maintien de leurs conditions de travail.
+
+[<sup>1</sup> Les membres du personnel transférés revêtus de la qualité d'officier de police judiciaire perdent d'office cette qualité lors de leur transfert à l'Agence.]<sup>1</sup>
+
+§ 2. Le Roi règle, par arrêté délibéré en Conseil des Ministres, les modalités relatives au transfert vers l'Agence des membres du personnel des organismes d'intérêt public chargés des tâches dans le secteur nucléaire.
+
+§ 3. L'Agence peut modifier le statut pécuniaire et administratif des membres du personnel transférés, afin d'harmoniser les divers statuts applicables au personnel de l'Agence, conformément aux dispositions de l'article 44.
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 15, 021; En vigueur : 16-06-2014&gt;
+
+(2)&lt;L 2018-02-25/02, art. 65, 030; En vigueur : 01-04-2018&gt;
+
+##### Art. 46
+
+&lt;Abrogé par L 2014-03-19/26, art. 16, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 46bis
+
+&lt;Inséré par L 1999-05-03/31, art. 42; En vigueur : 01-01-1998&gt; § 1er. Par dérogation aux articles 45, § 1er, et 46, les membres du personnel statutaire des services publics mentionnés à l'article 45, § 1er, qui ont été sélectionnés par le Conseil d'administration, après un appel au Moniteur belge, sont mis à la disposition de l'Agence.
+
+§ 2. Les membres du personnel mis à la disposition visés au § 1er, demeurent soumis au statut administratif, au statut pecuniaire et au regime de pension en vigueur dans leur service d'origine. Ils conservent dans leur service d'origine leurs droits à la promotion.
+
+§ 3. La période de mise à la disposition de l'Agence est assimilée à une période d'activité de service.
+
+§ 4. Les membres du personnel mis à disposition sont soumis à l'autorité du directeur général de l'Agence.
+
+§ 5. [<sup>1</sup> Les membres du personnel du Service public fédéral Justice mis à disposition et revêtus de la qualité d'officier de police judiciaire conservent cette qualité jusqu'au 1er janvier 2015 au plus tard.
+
+Par dérogation à l'article 9, les membres du personnel des autres services publics visés à l'article 45, § 1er, peuvent, au cours de leur mise à disposition, être revêtus de la qualité d'officier de police judiciaire par le Roi. Ils conservent cette qualité jusqu'au 1er janvier 2015 au plus tard.
+
+Pour la perte de la qualité d'officier de police judiciaire, le Roi peut fixer une date antérieure à celle mentionnée aux alinéas 1er et 2.]<sup>1</sup>
+
+§ 6. Pendant sa mise à la disposition, l'emploi délaissé par le membre du personnel statutaire ne peut être attribué de quelque manière que ce soit.
+
+§ 7. La rémunération du membre du personnel mis à disposition est celle à laquelle il a droit dans son service d'origine, y compris les allocations et indemnités éventuelles. Elle est payée par l'Agence. A cet effet, le service d'origine communique toute information utile à l'Agence.
+
+Toutefois, le service d'origine peut poursuivre le paiement de la rémunération du membre du personnel mis à disposition. Dans ce cas, il réclame le remboursement des montants liquidés par la voie d'un relevé trimestriel de demande de remboursement.
+
+L'Agence rembourse la charge budgétaire totale. Les cotisations patronales de sécurité sociale, les allocations familiales, le pécule de vacances et l'allocation de fin d'année sont en tout cas compris dans la charge budgétaire totale.
+
+§ 8. Le membre du personnel mis à disposition peut demander qu'il soit mis fin à sa mise a disposition, moyennant un préavis d'un mois.
+
+Moyennant un préavis de trois mois, le Conseil d'administration de l'Agence peut mettre fin à la mise à disposition. Il en avise le service d'origine du membre du personnel mis à disposition.
+
+§ 9. Lorsqu'il est mis fin à la mise à disposition, le membre du personnel se remet à la disposition du Ministre ou de l'autorité dont il relève. Si, sans motif valable, il refuse ou néglige de le faire, il est, après dix jours d'absence, considéré comme démissionnaire.
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 17, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 47
+
+[<sup>1</sup> § 1er. L'Agence et son personnel utilisent les données portées à leur connaissance aux seuls fins requises pour l'exercice des missions de l'Agence.
+
+Ils prennent les mesures nécessaires pour assurer le caractère confidentiel de ces données, sous réserve de l'obligation de rendre témoignage en justice et de communiquer ces données en application d'une disposition législative ou réglementaire, d'une norme ou d'une décision de droit international ou européen ou d'une décision juridictionnelle ou d'une sentence arbitrale définitive.
+
+§ 2. L'Agence peut communiquer des informations confidentielles relatives aux réacteurs nucléaires destinés à la production d'énergie électrique à la Commission de régulation de l'électricité et du gaz, à la Commission des provisions nucléaires, à l'Organisme National des Déchets Radioactifs et des Matières Fissiles Enrichies et à Hedera, à condition que la communication de ces informations ne porte pas préjudice aux missions de l'Agence et ait fait l'objet d'une demande écrite et motivée, que ces informations soient destinées à l'accomplissement des missions des autorités précitées et que l'autorité qui les reçoit assure au moins le même niveau de confidentialité que celui exigé de l'Agence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-26/44, art. 9, 040; En vigueur : 15-06-2024&gt;
+
+##### Art. 48
+
+L'Agence [<sup>1</sup> est soumise au contrôle]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup> (du ministre qui a l'Intérieur dans ses attributions). &lt;AR 1995-08-07/43, art. 2, § 2, 002; En vigueur : 23-06-1995&gt;
+
+Le contrôle [<sup>1</sup> ...]<sup>1</sup> [<sup>1</sup> visé]<sup>1</sup> à l'alinéa précédent s'exerce à l'intervention d'un seul commissaire du gouvernement, nommé par le Roi par un arrêté déliberé en Conseil des Ministres. Ce commissaire exerce également les fonctions de délégué du ministre des Finances telles qu'elles sont prévues au § 4 de l'article 9 de la loi du 16 mars 1954 relative au contôle de certains organismes d'intérêt public.
+
+----------
+
+(1)&lt;L 2017-12-13/15, art. 15, 026; En vigueur : 08-01-2018&gt;
+
+## CHAPITRE VII. - Sanctions. &lt;Le chapitre VII, comprenant les articles 49, 49bis et 50 est remplacé par un nouveau chapitre VII, comprenant les nouveaux articles 49 à 64, par L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt;
+
+### Section Ire. - Disposition générale.&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt;
+
+##### Art. 49
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Les infractions à la présente loi ou à ses arrêtés d'exécution peuvent faire l'objet soit de sanctions pénales, soit de sanctions administratives.
+
+### Section II. - Sanctions pénales. &lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt;
+
+##### Art. 50
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Les infractions aux dispositions de la présente loi ou à ses arrêtés d'exécution sont punies d'une amende de 1 000 euros à 1 000 000 euros et d'un emprisonnement de trois mois a deux ans ou de l'une de ces peines seulement.
+
+Seront punis des mêmes peines ceux qui auront porté entrave à l'exercice de la mission des personnes visées à l'article 9 ou qui leur auront refusé leur concours.
+
+##### Art. 51
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Si les infractions visées à l'article 50 sont commises en temps de guerre, elles sont punies d'une amende de 2 000 euros à 2 000 000 euros et de la réclusion de cinq à dix ans, ou de l'une de ces peines seulement.
+
+##### Art. 52
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Toutes les dispositions du livre 1er du Code pénal, sans exception du chapitre VII et de l'article 85, sont applicables aux infractions prévues par la présente loi ou par ses arrêtés d'exécution.
+
+### Section III. - Amendes administratives. &lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt;
+
+#### Sous-section Ire. - Procédure administrative. &lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt;
+
+##### Art. 53
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; § 1er. Lors de la constatation d'infractions à la présente loi ou a ses arrêtés d'exécution, une amende administrative de 500 euros à 100 000 euros par infraction peut être infligée à l'auteur de l'infraction.
+
+§ 2. En outre, les frais d'expertise en rapport avec les infractions visées au § 1er sont mis à charge de l'auteur de l'infraction.
+
+§ 3. Les personnes physiques ou morales sont civilement responsables du paiement des amendes administratives et des frais auxquels leurs organes, leurs administrateurs, les membres de leur personnel dirigeant et d'exécution, leurs préposés et leurs mandataires sont condamnés.
+
+##### Art. 54
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Les faits sanctionnés par l'article 49 sont constatés dans un procès-verbal par [<sup>1</sup> les membres du personnel visés à l'article 9]<sup>1</sup>.
+
+L'original du procès-verbal est envoyé au procureur du Roi.
+
+Une copie du procès-verbal est dans le même temps envoyée à la personne désignée à l'article 56.
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 18, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 55
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Le procureur du Roi dispose d'un délai de six mois à compter du jour de la réception du procès-verbal pour informer la personne visée à l'article 56 que des poursuites pénales ont été engagées.
+
+La personne visée à l'article 56 ne peut infliger d'amende administrative sur la base de l'article 53 avant l'échéance du délai de six mois, sauf communication préalable par le procureur du Roi que celui-ci ne souhaite pas réserver de suite au fait.
+
+Dans le cas où le procureur du Roi omet de notifier sa décision dans le délai fixé ou renonce à intenter des poursuites pénales, la personne visée à l'article 56 peut décider d'entamer la procédure administrative.
+
+##### Art. 56
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; L'amende administrative est imposée par la personne désignée par le Roi.
+
+Le Roi détermine les règles de procédure, en ce compris l'exercice des droits de la défense.
+
+##### Art. 57
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; § 1er. La décision d'imposer une amende administrative est motivée. Elle mentionne également le montant de l'amende administrative et les dispositions de l'article 58, alinéa 3.
+
+§ 2. L'amende administrative est proportionnelle à la gravité des faits qui la motivent, et en fonction de l'éventuelle récidive.
+
+§ 3. La personne visée à l'article 56 peut, s'il existe des circonstances atténuantes, infliger une amende administrative inférieure au montant minimal visé a l'article 53, sans que l'amende puisse être inferieure à 80 % du minimum du montant visé à l'article précité.
+
+§ 4. Le concours de plusieurs infractions peut donner lieu à une amende administrative unique proportionnelle à la gravité de l'ensemble des faits.
+
+##### Art. 58
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; La décision est notifiée par lettre recommandée à la poste à l'auteur de l'infraction ainsi qu'à la personne physique ou morale civilement responsable du paiement de l'amende administrative.
+
+La décision est également notifiée au procureur du Roi.
+
+Une invitation à acquitter l'amende dans le délai et selon les modalités fixés par le Roi est jointe.
+
+##### Art. 59
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; L'auteur de l'infraction ou la personne physique ou morale civilement responsable du paiement de l'amende administrative qui conteste la décision de la personne visée à l'article 56 peut interjeter appel par voie de requête auprès du tribunal compétent dans un délai d'un mois à compter de la notification de la décision, à peine de dechéance.
+
+En cas de recours contre la décision de la personne désignée par le Roi, le tribunal competent peut, s'il existe des circonstances atténuantes, diminuer le montant d'une amende administrative infligée sous le montant minimal visé à l'article 53, sans que l'amende puisse être inférieure à 80 % du minimum du montant visé à l'article précité.
+
+Ce recours suspend l'exécution de la décision.
+
+##### Art. 60
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Lorsque l'auteur de l'infraction ou la personne civilement responsable reste en défaut de payer l'amende administrative dans le délai imparti et que la possibilité d'appel fixée à l'article 59 est épuisée, la décision d'infliger une amende administrative a force exécutoire et la personne visée à l'article 56 peut lancer une contrainte selon les modalités fixées par le Roi.
+
+##### Art. 61
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; La personne visée à l'article 56 ne peut imposer d'amende administrative à l'échéance d'un délai d'un an, à compter du jour où le fait est constaté.
+
+Le paiement selon la procédure administrative éteint également la possibilité d'engager des poursuites pénales pour les faits visés.
+
+#### Sous-section II. - Procédure administrative simplifiée. &lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt;
+
+##### Art. 62
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; § 1er. Lors de la constatation d'une ou plusieurs des infractions déterminées par le Roi, il peut, si le fait n'a pas causé de dommage a autrui et moyennant l'accord de l'auteur de l'infraction, être perçu une amende administrative, d'un montant de 125 euros à 500 euros par infraction, selon la procédure simplifiée.
+
+Le paiement de l'amende administrative dans le délai déterminé par le Roi marque l'accord de l'auteur de l'infraction sur l'application de la procédure simplifiee.
+
+Le montant de l'amende relatif à chaque infraction déterminée par le Roi ainsi que les modalités de perception sont fixés par le Roi.
+
+La procédure simplifiée peut être proposée par [<sup>1</sup> les membres du personnel visés à l'article 9]<sup>1</sup>.
+
+§ 2. Les personnes physiques ou morales sont civilement responsables du paiement des amendes administratives proposées selon la procédure simplifiée à leurs organes, leurs administrateurs, leurs membres du personnel dirigeant et d'exécution, leurs préposés et mandataires.
+
+----------
+
+(1)&lt;L 2014-03-19/26, art. 19, 021; En vigueur : 16-06-2014&gt;
+
+##### Art. 63
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Le paiement selon la procédure simplifiée éteint la possibilité d'infliger à l'auteur de l'infraction une amende administrative pour les faits visés sur la base de la procédure administrative fixée aux articles 53 à 61.
+
+##### Art. 64
+
+&lt;L 2005-07-20/41, art. 13, 012; En vigueur : 03-02-2008&gt; Le paiement selon la procédure simplifiée éteint également la possibilité d'engager des poursuites pénales pour les faits visés.
+
+## CHAPITRE VIII. - Dispositions finales.
+
+##### Art. 65
+
+(ancien art. 51) &lt;L 2005-07-20/41, art. 14, 012; En vigueur : 03-02-2008&gt; L'article 10 alinéa 2 de la loi du 20 juillet 1978 établissant des dispositions propres à permettre à l'Agence internationale de l'énergie atomique d'effectuer des activités d'inspection et de vérification sur le territoire belge en exécution de l'Accord international du 5 avril 1973 pris en exécution des §§ 1er et 4 de l'article III du Traité du 1er juillet 1968 sur la non-prolifération des armes nucléaire est remplacé par les dispositions suivantes :
+
+" Des agents de l'Agence fédérale de Contrôle nucléaire, créée par la loi du 15 avril 1994, revêtus de la qualité d'officier de police judiciaire, ont le droit d'accompagner les inspecteurs pendant les activités d'inspection visées dans la présente loi. "
+
+##### Art. 66
+
+(ancien art. 52) &lt;L 2005-07-20/41, art. 14, 012; En vigueur : 03-02-2008&gt; La loi du 29 mars 1958 relative à la protection de la population contre les dangers resultant des radiations ionisantes, modifiée par les lois des 29 mai 1963, 3 décembre 1969, 14 juillet 1983, 22 décembre 1989 et 26 juin 1992 est abrogée.
+
+Les arrêtés royaux pris en vertu de la loi précitee restent d'application tant qu'ils n'ont pas été modifiés ou abrogés en vertu de la presente loi.
+
+##### Art. 67
+
+[<sup>1</sup> Les organismes agréés pour une durée indéterminée en vertu de la loi du 29 mars 1958 relative à la protection de la population contre les dangers résultant des radiations ionisantes perdent de plein droit leur agrément.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-05-07/07, art. 13, 025; En vigueur : 01-01-2021&gt;
+
+##### Art. 68
+
+(ancien art. 53) &lt;L 2005-07-20/41, art. 14, 012; En vigueur : 03-02-2008&gt; Le Roi peut modifier les dispositions légales existantes pour les adapter aux dispositions de la présente loi.
+
+##### Art. 69
+
+(ancien art. 54) &lt;L 2005-07-20/41, art. 14, 012; En vigueur : 03-02-2008&gt; Le Roi détermine, par un arrêté délibéré en Conseil des Ministres, la date de l'entrée en vigueur des dispositions de la présente loi.
+
+(NOTE 1 : les articles 3 et 49 entrent en vigueur le 02-11-1997 en ce qui concerne l'exportation; AR 1997-10-02/36, art. 1.) (Pour les autres matières, ils entrent en vigueur le 01-09-2001; AR 2001-07-20/44, art. 1.)
+
+(NOTE 1bis : l'article 3 produit ses effets à partir du 1er septembre 2001, pour autant qu'il concerne l'exportation par AR 2010-02-08/04, art. 1)
+
+(NOTE 2 : Entrée en vigueur des articles 12, 32 à 34, 39, 41, 43 à 47) fixée le 01-01-1998 par AR 1998-03-13/38, art. 1)
+
+(NOTE 3 : les articles 4 à 11, 13 à 30, 31, alinéas 1er et 3 à 7, modifiés par la loi du 15 janvier 1999, 37 et 50 à 53, entrent en vigueur le 01-09-2001; AR 2001-07-20/44, art. 1.)
+
+(NOTE 4 : l'article 35, alinéa 3, produit ses effets le 14-06-1999; AR 2001-07-20/44, art. 1.)
+
+## ANNEXE.
+
+##### Art. N
+
+[<sup>1</sup> Annexe. TABLEAU : CATEGORIES DE MATIERES NUCLEAIRES
+
+<table><tr><td colspan="3">Matière</td><td colspan="3">Catégorie</td></tr><tr><td> </td><td> </td><td> </td><td>I</td><td>II</td><td>III (c)</td></tr><tr><td>1.</td><td>Plutonium (a)</td><td>Non irradié (b)</td><td>2 kg ou plus</td><td>Moins de 2 kg, mais plus de 500 g</td><td>500 g ou moins, mais plus de 15 g</td></tr><tr><td>2.</td><td>Uranium 235.</td><td>Non irradié (b)</td><td> </td><td> </td><td><br>  </td></tr><tr><td> </td><td> </td><td>- uranium enrichi à 20 % ou plus en 235U</td><td>5 kg ou plus</td><td>Moins de 5 kg mais plus de 1 kg</td><td>1 kg ou moins mais plus de 15 g<br>  </td></tr><tr><td> </td><td> </td><td>- uranium enrichi à 10 % ou plus, mais à moins de 20 %, en 235U</td><td>-</td><td>10 kg ou plus</td><td>Moins de 10 kg mais plus de 1 kg<br>  </td></tr><tr><td> </td><td> </td><td>- uranium enrichi à moins de 10 % en 235U</td><td>-</td><td>-</td><td>10 kg ou plus<br>  </td></tr><tr><td>3.</td><td>Uranium 233.</td><td>Non irradié (b)</td><td>2 kg ou plus.</td><td>Moins de 2 kg, mais plus de 500 g.</td><td>500 g ou moins, mais plus de 15 g.<br>  </td></tr><tr><td>4.</td><td>Combustible irradié.</td><td> </td><td> </td><td>Uranium appauvri ou naturel, thorium ou combustible faiblement enrichi (teneur en matières fissiles inférieure à 10 %) (d à f)</td><td></td></tr></table>
+
+a) Tout le plutonium sauf s'il a une concentration isotopique dépassant 80 % en plutonium 238.
+
+b) Matières non irradiées dans un réacteur ou matières irradiées dans un réacteur mais ayant une intensité de rayonnement égale ou inférieure à 1 Gy/h à un mètre de distance sans écran.
+
+c) Les quantités qui n'entrent pas dans la catégorie III et l'uranium naturel, l'uranium appauvri et le thorium doivent être protégés conformément à des pratiques de gestion prudente.
+
+d) Les autres combustibles qui en vertu de leur teneur originelle en matières fissiles sont classés dans la catégorie I ou dans la catégorie II avant irradiation peuvent entrer dans la catégorie directement inférieure si l'intensité du rayonnement du combustible dépasse 1 Gy/h à un mètre de distance sans écran.
+
+e) Le combustible irradié, présent en petites quantités, peut être inclus dans la catégorie III tant pour le transport que pour l'utilisation et l'entreposage si, il est estimé contenir moins de 2 kilos de plutonium ou moins de 5 kilos d'uranium hautement enrichi et si l'intensité de rayonnement dépasse 1 Gy/h à un mètre de distance sans écran.
+
+f) Sans préjudice de l'exception prévue en e), les combustibles qui en vertu de leur teneur originelle en matières fissiles sont classées dans la catégorie II ou dans la catégorie III avant irradiation entrent, après irradiation, dans la catégorie II si ils sont en cours de transport national ou international et si l'intensité du rayonnement du combustible dépasse 1 Gy/h à un mètre de distance sans écran. Ils entrent dans la catégorie III si, ils sont en cours d'utilisation ou d'entreposage et si l'intensité du rayonnement du combustible dépasse 1 Gy/h à un mètre de distance sans écran.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-03-30/11, art. 12, 017; En vigueur : 01-10-2012&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revetue du sceau de l'Etat et publiee par le Moniteur belge.
+
+Donné à Bruxelles, le 15 avril 1994.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi et du Travail,
+
+Mme M. SMET
+
+Le Ministre de l'Intégration sociale, de la Santé publique et de l'Environnement,
+
+J. SANTKIN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. WATHELET

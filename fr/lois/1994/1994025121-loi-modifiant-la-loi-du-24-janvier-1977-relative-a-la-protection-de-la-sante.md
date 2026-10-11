@@ -1,0 +1,70 @@
+---
+title: "Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits."
+identifier: "1994025121"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1994/02/09/1994025121/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1994-02-09
+published: 1994-05-26
+entry_into_force: 1994-06-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1994/02/09/1994025121/justel"
+department: "Santé Publique et Environnement"
+retrieved: 2026-10-11
+---
+
+# 9 FEVRIER 1994. - Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+L'alinéa 1er de l'article 10 de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits est remplacé par les dispositions suivantes :
+
+" Le Roi peut imposer une redevance, dont Il détermine le montant et les modalités de perception, pour toutes les demandes introduites en application de la présente loi, ainsi que pour toutes pièces justificatives à délivrer en application de cette foi.
+
+Le Roi peut également, par arrêté délibéré en Conseil des ministres, imposer une redevance, dont Il détermine le montant et les modalités de perception, pour les contrôles et inspections visés à l'article 11. "
+
+## Art. 2
+
+L'article 11 de la même loi, modifié par la loi du 22 mars 1989, est complété par les dispositions suivantes :
+
+1° au § 1er, un nouvel alinéa est ajouté, rédigé comme suit :
+
+" Ils peuvent procéder au contrôle des transports et des moyens de transports ";
+
+2° le § 2 est remplacé par les dispositions suivantes :
+
+" § 2. Ils constatent les infractions aux lois et arrêtés sur la matière dans les procès-verbaux faisant foi jusqu'à preuve du contraire.
+
+Ils peuvent procéder à l'audition de toute personne responsable de l'entreprise inspectée et des personnes travaillant pour le compte de cette entreprise ainsi que de toute autre personne pour laquelle il est constaté une infraction à la présente loi ou à un de ses arrêtés d'exécution.
+
+Une copie du procès-verbal est transmise au contrevenant dans les dix jours de la constatation de l'infraction. ";
+
+3° un nouveau paragraphe est ajouté, rédigé comme suit :
+
+" § 4. Le Roi peut fixer d'autres modalités de contrôle et d'inspection, afin de satisfaire aux obligations résultant des traités internationaux et des actes internationaux pris en vertu de ceux-ci. "
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 9 février 1994.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intégration sociale, de la Santé publique et de l'Environnement,
+
+J. SANTKIN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. WATHELET

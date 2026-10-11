@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/03/05/1998015090/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # 5 MARS 1997. - Loi portant assentiment à l'Accord additionnel, signé à Bruxelles le 13 mars 1991, modifiant la Convention entre le Royaume de Belgique et la République de Finlande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 18 mai 1976.

@@ -1,0 +1,646 @@
+---
+title: "Loi protégeant le titre de psychologue."
+identifier: "1994018040"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1993/11/08/1994018040/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1993-11-08
+published: 1994-05-31
+entry_into_force: 1994-06-10
+last_amended: 2024-06-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1993/11/08/1994018040/justel"
+department: "Classes Moyennes"
+justel_note: "Consultation des versions antérieures à partir du 20-02-1997 et mise à jour au 03-06-2024"
+retrieved: 2026-10-11
+---
+
+# 8 NOVEMBRE 1993. - Loi protégeant le titre de psychologue.
+
+## CHAPITRE I. - Titre professionnel.
+
+#### Art. 1
+
+Nul ne peut porter le titre de psychologue s'il ne remplit les conditions suivantes :
+
+1° être porteur :
+
+a) d'un diplôme de licencié ou docteur en psychologie délivré par une université belge, ou d'un diplôme étranger déclaré équivalent à ce diplôme par l'autorité compétente;
+
+b) ou d'un des diplômes mentionnés ci-après, délivré par une université belge, ou d'un diplôme étranger déclaré équivalent à un de ces diplômes par l'autorité compétente :
+
+\- licentiaat of doctor in de beroepsoriëntering en selectie;
+
+\- licentiaat of doctor in de psychologische wetenschappen;
+
+\- licentiaat of doctor in de toegepaste psychologie;
+
+\- licentiaat of doctor in de psychologische en pedagogische wetenschappen - richting ontwikkelingspsychologie;
+
+\- licentiaat of doctor in de psychologische en pedagogische wetenschappen - richting industriële psychologie;
+
+\- licentiaat of doctor in de psychologische en pedagogische wetenschappen - richting ontwikkelings- en klinische psychologie;
+
+\- licentiaat of doctor in de psychologische en pedagogische wetenschappen - richting bedrijfspsychologie;
+
+\- licentiaat of doctor in de psychologische en pedagogische wetenschappen - richting theoretische en experimentele psychologie;
+
+\- licentiaat of doctor in de ontwikkelingspsychologie;
+
+\- licentiaat of doctor in de klinische psychologie;
+
+\- licencié ou docteur en orientation et sélection professionnelles;
+
+\- licencié ou docteur en sciences psychologiques;
+
+\- licencié ou docteur en psychologie appliquée;
+
+\- licencié ou docteur en sciences psychologiques et pédagogiques - orientation psychologie génétique;
+
+\- licencié ou docteur en sciences psychologiques et pédagogiques - orientation psychologie industrielle;
+
+\- licencié ou docteur en sciences psychologiques et pédagogiques avec l'une des attestations suivantes :
+
+\- psychologie clinique;
+
+\- psychologie sociale et socio-psychologie;
+
+\- psychologie industrielle;
+
+\- psychologie clinique et curative;
+
+\- licencié ou docteur en sciences psychopédagogiques - orientation psychologie;
+
+c) ou d'un diplôme de licencié ou docteur délivré avant le 1er janvier 1960 par une université belge et enseigner la psychologie à une université belge en tant que membre du personnel académique;
+
+d) ou d'un diplôme non universitaire de conseiller d'orientation professionnelle, visé à l'arrêté royal du 22 octobre 1936 et obtenu avant le 13 janvier 1947;
+
+e) ou d'un diplôme de licencié en sciences psycho-pédagogiques - orientation guidance et counseling, délivré par l'Université de l'Etat de Mons avant la publication de la présente loi;
+
+f) ou d'un diplôme de licencié ou docteur en sciences psychologiques et pédagogiques, ou d'un diplôme de licencié ou docteur en sciences psychopédagogiques, obtenu avant la publication de la présente loi;
+
+g) [<sup>1</sup> un titre de formation visé au Titre III, Chapitre Ier, de la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE, ci-après dénommée "la loi du 12 février 2008 relative aux qualifications professionnelles", délivré par un autre Etat membre et répondant aux conditions fixées dans ce chapitre, ou un titre de formation assimilé à un tel titre en application de l'article 2, § 3, de la loi du 12 février 2008 relative aux qualifications professionnelles.
+
+Les ressortissants d'un Etat membre qui ont acquis un titre de formation visé au présent point sont soumis à l'ensemble des conditions et bénéficient de l'ensemble des droits prévus dans la loi du 12 février 2008 relative aux qualifications professionnelles sans préjudice des dispositions prévues par ou en vertu de la présente loi.
+
+On entend par Etat membre, au sens de la présente loi, l'Etat membre tel que visé dans l'article 2, § 1er, l), de la loi du 12 février 2008 relative aux qualifications professionnelles.]<sup>1</sup>
+
+[<sup>2</sup> Le Roi peut, par arrêté délibéré en Conseil des ministres, ajouter à la liste des diplômes visés aux a) à f), des diplômes reconnus comparables après avis de l'Assemblée des Représentants visée à l'article 4, ou délivrés par des institutions d'enseignement ou de formation organisées, reconnues ou subventionnées par les autorités compétentes, après avis de l'Assemblée des Représentants et de la Communauté française, de la Communauté flamande ou de la Communauté germanophone. Il peut également, par arrêté délibéré en Conseil des ministres, modifier la liste et les dénominations des diplômes ou retirer des diplômes de la liste sur la base d'un avis de la Communauté française, de la Communauté flamande ou de la Communauté germanophone.]<sup>2</sup>
+
+2° être inscrit sur la liste visée à l'article 2.
+
+----------
+
+(1)&lt;L 2017-07-21/32, art. 11, 008; En vigueur : 11-08-2017&gt;
+
+(2)&lt;L 2024-05-16/16, art. 2, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 2
+
+§ 1. La Commission des psychologues visée à l'article 3 tient une liste des personnes qui remplissent les conditions visées à l'article 1er, 1°, et qui désirent porter le titre de psychologue.
+
+[<sup>3</sup> La liste visée à l'alinéa 1er est subdivisée en quatre sections :
+
+1\) la section de la psychologie clinique ;
+
+2\) la section de la psychologie scolaire et éducative ;
+
+3\) la section de la psychologie du travail et des organisations ;
+
+4\) et la section de la psychologie de la recherche.
+
+Les personnes visées à l'alinéa 1er sont chacune reprises dans l'une de ces quatre sections.
+
+Pour être inscrit dans l'une des quatre sections, le demandeur déclare sur l'honneur exercer cette activité de manière principale.
+
+L'appartenance à une section peut être modifiée sur la base d'une déclaration sur l'honneur des personnes visées à l'alinéa 1er et/ou suite à une vérification opérée par la Commission des psychologues, hormis lors de l'année des élections des membres de l'Assemblée des Représentants visées à l'article 4. Dans le cadre de sa vérification, la Commission des psychologues peut solliciter auprès de l'intéressé tous les documents qu'elle estime nécessaire.]<sup>3</sup>
+
+[<sup>3</sup> § 1er/1. Les données à caractère personnel de la liste visée au paragraphe 1er qui sont publiées sur le site Internet de la Commission des psychologues sont les suivantes :
+
+1° les nom et prénom de la personne inscrite ;
+
+2° les données de contact ;
+
+3° le numéro d'inscription à la liste.
+
+L'ensemble des données publiées sur la liste visée au paragraphe 1er sont des données liées au port du titre de psychologue. Le Roi peut, le cas échéant, établir et compléter la liste des données reprises sur la liste en application du présent article et qui sont limitées à ce qui est strictement nécessaire pour les objectifs de cette liste.]<sup>3</sup>
+
+§ 2. [<sup>2</sup> Les personnes visées au § 1er envoient à la Commission des psychologues une copie du diplôme visé à l'article 1, 1°, a) à f) ou du titre de formation visé à l'article 1er, 1°, g).]<sup>2</sup>
+
+§ 3. Les personnes qui sont inscrites sur la liste peuvent en être rayées à tout moment de leur propre initiative.
+
+(§ 4. Les détenteurs d'un diplôme visé à l'article 1er, 1°, g, de la présente loi ont le droit de faire usage de leur titre de formation licite de l'Etat d'origine ou de provenance et éventuellement de son abréviation, dans la langue de cet Etat. Dans ce cas, ce titre doit être suivi des nom et lieu de l'établissement ou du jury qui l'a délivré.) &lt;AR 1997-01-24/32, art. 3, 002; En vigueur : 02-03-1997&gt;
+
+----------
+
+(1)&lt;L 2009-12-22/07, art. 14, 005; En vigueur : 28-12-2009&gt;
+
+(2)&lt;L 2017-07-21/32, art. 12, 008; En vigueur : 11-08-2017&gt;
+
+(3)&lt;L 2024-05-16/16, art. 3, 009; En vigueur : 13-06-2024&gt;
+
+## CHAPITRE II. - Commission des psychologues.
+
+### Section 1re. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-16/16, art. 4, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 3
+
+[<sup>1</sup> § 1er. La Commission des psychologues est un organisme indépendant. Elle dispose de la personnalité juridique. Son siège est établi dans l'arrondissement administratif de Bruxelles-Capitale.
+
+Les organes qui composent la Commission des psychologues sont :
+
+1° l'Assemblée des Représentants ;
+
+2° le Bureau ;
+
+3° le Conseil disciplinaire ;
+
+4° le Conseil d'appel.
+
+§ 2. Le Roi arrête sur proposition ou avis de l'Assemblée des Représentants le règlement d'ordre intérieur.
+
+§ 3. Les membres des organes de la Commission des psychologues, de même que les assesseurs juridiques visés à l'article 8/2, § 2, ont une obligation de discrétion et de confidentialité pour toutes les données à caractère personnel dont ils ont connaissance dans l'exercice de leur fonction.
+
+§ 4. Les frais de fonctionnement de la Commission des psychologues sont supportés suivant les règles arrêtées par le Roi.
+
+§ 5. Le Roi fixe les différents montants des jetons de présence et des indemnités alloués aux membres des organes de la Commission des psychologues.
+
+Les membres reçoivent un remboursement de leurs frais de déplacement effectivement exposés en exécution de leur mandat pour le compte de l'organe concerné, conformément aux tarifs de remboursement applicables aux fonctionnaires fédéraux.
+
+Les membres ne peuvent recevoir de la Commission des psychologues d'autres indemnités ou jetons de présence que ceux prévus par ou en vertu de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/16, art. 5, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 3/1
+
+[<sup>1</sup> La Commission des psychologues est le responsable du traitement visé dans le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, dénommé ci-après "le règlement général sur la protection des données".
+
+La Commission des psychologues désigne un délégué à la protection des données chargé de la fonction et des missions visées dans le règlement général sur la protection des données.
+
+Dans le cadre de ses missions, et en particulier celle d'identifier et de contacter les personnes inscrites sur la liste visée à l'article 2, § 1er, et d'assurer la régularité des élections en vérifiant la qualité d'électeur et de candidat, la Commission des psychologues peut notamment faire usage du numéro d'identification du registre national ou du numéro d'identification dans la Banque-Carrefour de la sécurité sociale ou, à titre subsidiaire, collecter les nom, prénom, date de naissance, adresse professionnelle, domicile et données de contact de celles-ci.
+
+Seuls le nom, le prénom, l'adresse professionnelle, les données de contact professionnelles et le numéro d'inscription à la liste peuvent être publiés en vue d'identifier une personne inscrite à la Commission des psychologues.
+
+Les données à caractère personnel traitées par la Commission des psychologues peuvent être conservées au maximum dix ans après l'omission de la personne inscrite, sauf si ces données sont liées à la gestion d'un contentieux en cours, et pour autant que ces données soient strictement nécessaires à la gestion de ce contentieux et durant le temps strictement nécessaire à la gestion de ce contentieux.
+
+Le Roi peut déterminer des délais spécifiques de conservation de données sur la base de la finalité et du type de données visées, sans que ces délais ne puissent dépasser le délai maximum visé à l'alinéa 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-16/16, art. 6, 009; En vigueur : 13-06-2024&gt;
+
+### Section 2. [<sup>1</sup> L'Assemblée des Représentants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-16/16, art. 7, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 4
+
+[<sup>1</sup> § 1er. L'Assemblée des Représentants est composée de douze membres élus au scrutin secret, par et parmi les personnes inscrites sur la liste visée à l'article 2, § 1er.
+
+Parmi les douze membres élus, six membres appartiennent au groupe linguistique néerlandais et six membres appartiennent au groupe linguistique français et allemand. Le groupe linguistique néerlandais est composé des membres du rôle linguistique néerlandais, et le groupe linguistique français et allemand est composé des membres des rôles linguistiques français et allemand. Le rôle linguistique des membres est déterminé par la langue reprise dans leur demande d'inscription à la liste visée à l'article 2, § 1er.
+
+L'Assemblée des Représentants compte au moins un membre germanophone si au moins un candidat de langue allemande éligible s'est présenté aux élections. Ce membre germanophone appartient au rôle linguistique allemand mais est compté parmi les six membres du groupe linguistique français et allemand. Ce candidat déclare sur l'honneur et établit par tous modes de preuve qu'il est germanophone.
+
+Si plusieurs candidats de langue allemande sont éligibles, celui qui a le plus de voix est d'office élu.
+
+Au sein de chaque groupe linguistique, sont élus :
+
+a) trois membres appartenant au secteur clinique ;
+
+b) un membre appartenant au secteur scolaire et éducatif ;
+
+c) un membre appartenant au secteur du travail et des organisations ;
+
+d) un membre appartenant au secteur de la recherche.
+
+Les personnes qui se portent candidates aux élections pour le secteur clinique, pour le secteur scolaire et éducatif, pour le secteur du travail et des organisations, ou pour le secteur de la recherche, démontrent par tous modes de preuve qu'elles disposent d'une expérience d'au minimum trois ans dans le secteur concerné à la date de leur candidature. Cette expérience est vérifiée conjointement par le Bureau et le commissaire du gouvernement.
+
+Les membres ne peuvent être élus que par des psychologues inscrits sur la liste visée à l'article 2, § 1er, et repris dans la même section qu'eux.
+
+Au moins un membre suppléant est élu pour chacun des membres effectifs visés à l'alinéa 1er, suivant les mêmes conditions que celles prévues pour l'élection de ce membre effectif. Un membre suppléant peut remplacer n'importe quel membre effectif, autre qu'un membre du Bureau, pour autant qu'il remplisse les mêmes conditions que ce dernier. Les suppléants sont convoqués dans l'ordre décroissant du nombre de voix qu'ils ont obtenu aux élections.
+
+Le vote est obligatoire. Les psychologues peuvent donner à un autre psychologue inscrit dans la même section de la liste visée à l'article 2, § 1er, procuration par écrit pour voter en leur lieu et place aux élections. Chaque psychologue ne peut être porteur que de deux procurations au maximum.
+
+La non-participation au scrutin, sans motif légitime, est punissable de l'avertissement ou de la suspension.
+
+§ 2. Le Roi fixe la date et les modalités des élections des membres de l'Assemblée des Représentants, ainsi que les conditions de leur éligibilité.
+
+§ 3. L'Assemblée des Représentants élit au vote secret en son sein un président, un vice-président, un trésorier et un secrétaire. L'un d'eux au moins appartient au secteur scolaire et éducatif, au secteur du travail et des organisations ou au secteur de la recherche. Le président et le vice-président appartiennent à un groupe linguistique différent. Il en est de même pour le trésorier et le secrétaire.
+
+L'Assemblée des Représentants est représentée par son président et, en cas d'empêchement du président, par son vice-président.
+
+§ 4. Les membres de l'Assemblée des Représentants ont un mandat de quatre ans. Ils n'exercent pas plus de deux mandats. Le mandat prend cours au 1er janvier suivant la date de l'élection.
+
+Le mandat des membres prend fin de plein droit dès qu'ils ne sont plus inscrits sur la liste visée à l'article 2, § 1er. Lorsqu'il s'agit du mandat d'un membre effectif, ce mandat est poursuivi par un membre suppléant jusqu'au terme du mandat du membre effectif remplacé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/16, art. 8, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 5
+
+[<sup>1</sup> § 1er. L'Assemblée des Représentants prend toutes les mesures nécessaires à la réalisation de sa mission.
+
+Elle a pour mission :
+
+1° de statuer sur les demandes d'inscription sur la liste visée à l'article 2, § 1er, ainsi que dans l'une des quatre sections visées à l'article 2, § 1er, alinéa 2 ;
+
+2° de publier sur son site internet la liste visée à l'article 2, § 1er, en droit de porter le titre de psychologue, ainsi que la section dans laquelle ils sont repris ;
+
+3° d'informer les praticiens et les utilisateurs au sujet des dispositions d'intérêt général en lien avec les missions de la Commission des psychologues ;
+
+4° d'assister les ministres compétents par la voie d'avis, émis d'initiative ou sur demande, au sujet de toutes les matières ayant trait au titre de psychologue ;
+
+5° de veiller à ce que les personnes inscrites sur la liste visée à l'article 2, § 1er, à l'exception des personnes exerçant la psychologie clinique et des personnes exerçant des professions de support en soins de la santé mentale telles que visées à l'article 68/2/2 de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, poursuivent une formation permanente dont les modalités sont déterminées par le Roi.
+
+§ 2. Le contrôle de l'accomplissement des missions de l'Assemblée des Représentants est exercé par un commissaire du gouvernement, ou par son suppléant, qui participe aux réunions de celle-ci avec voix consultative.
+
+Le Roi nomme un commissaire du gouvernement et un commissaire du gouvernement suppléant, sur proposition du ministre ayant les Classes moyennes dans ses attributions, parmi les fonctionnaires de niveau A du Service public fédéral Economie, P.M.E., Classes moyennes et Energie.
+
+Le Roi détermine le montant de l'indemnité de fonction du commissaire du gouvernement et de son suppléant. Cette indemnité de fonction est à charge de la Commission des psychologues.
+
+Le commissaire du gouvernement dispose d'un délai de quinze jours ouvrables pour introduire son recours auprès du ministre ayant les Classes moyennes dans ses attributions contre toute décision de l'Assemblée des Représentants qui est contraire aux lois et règlements ou au budget de la Commission des psychologues, ou qui ne fait pas partie des missions de l'Assemblée des Représentants, ou qui est de nature à compromettre la solvabilité de la Commission des psychologues. Ce délai commence à courir le jour de la notification du procès-verbal de la réunion au commissaire du gouvernement. Le recours est suspensif. Si le ministre ayant les Classes moyennes dans ses attributions n'a pas prononcé l'annulation dans un délai de quinze jours ouvrables suivant la réception du recours, la décision de l'Assemblée des Représentants devient définitive.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/16, art. 9, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 6
+
+[<sup>1</sup> § 1er. L'Assemblée des Représentants se réunit au moins six fois par an à la demande du président et du vice-président, de trois de ses membres ou du commissaire du gouvernement.
+
+L'Assemblée des Représentants délibère valablement lorsque le président ou le vice-président, ainsi qu'au moins six autres membres sont présents. Les décisions sont prises à la majorité des voix. En cas de parité, la voix du président ou, en son absence, du vice-président, est prépondérante. Si le quorum de présence n'est pas atteint, les membres sont de nouveau convoqués au moins huit jours plus tard pour une nouvelle réunion. Lors de cette seconde réunion, il peut être valablement délibéré indépendamment du nombre de membres présents.
+
+Les délibérations de l'Assemblée des Représentants ne sont pas publiques.
+
+§ 2. L'Assemblée des Représentants assure la publication du procès-verbal de la réunion sur le site internet de la Commission des psychologues. Ce procès-verbal n'indique pas l'identité des personnes physiques ou morales.
+
+§ 3. Au plus tard le 1er septembre de chaque année, l'Assemblée des Représentants soumet à l'approbation du ministre ayant les Classes moyennes dans ses attributions un projet de budget portant sur l'exercice suivant. Ce projet contient une proposition du montant de la cotisation des membres de la Commission des psychologues.
+
+Le ministre ayant les Classes moyennes dans ses attributions dispose d'un délai de trente jours après la réception du projet afin de l'approuver ou de formuler ses remarques à l'Assemblée des Représentants. A défaut d'une décision au terme de ce délai, le projet de budget est considéré comme approuvé. L'Assemblée des Représentants dispose d'un délai de trente jours ouvrables après réception des remarques formulées par le ministre ayant les Classes moyennes dans ses attributions pour adapter le projet de budget.
+
+Si aucun projet de budget n'est soumis à l'approbation du ministre ayant les Classes moyennes dans ses attributions au 1er septembre, ou si l'Assemblée des Représentants ne donne pas suite aux remarques du ministre, ce dernier fixe le budget.
+
+L'Assemblée des Représentants joint au projet de budget qu'elle adresse au ministre ayant les Classes moyennes dans ses attributions une proposition de nomination de deux commissaires, l'un d'expression néerlandaise et l'autre d'expression française. Les commissaires sont nommés pour une période d'un an, et leur mandat est renouvelable deux fois. Ils sont chargés du contrôle de la conformité de l'imputation des recettes et des dépenses par rapport au projet de budget approuvé. Ils sont membres de la Commission des psychologues mais ils ne peuvent pas être membres de l'Assemblée des Représentants, du Conseil disciplinaire ou du Conseil d'appel, ni être chargés d'une mission par un quelconque organe de la Commission des psychologues.
+
+Lors de l'examen trimestriel des comptes par l'Assemblée des Représentants visé à l'article 8, § 2, les commissaires déposent un rapport concernant l'examen qu'ils ont fait des comptes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/16, art. 10, 009; En vigueur : 13-06-2024&gt;
+
+### Section 3. [<sup>1</sup> Le Bureau]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-16/16, art. 11, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 7
+
+[<sup>1</sup> § 1er. Le Bureau est composé du président, du vice-président, du trésorier et du secrétaire de l'Assemblée des Représentants. En cas d'empêchement du président, le vice-président assume ses fonctions.
+
+Le Bureau est chargé de la gestion journalière de la Commission des psychologues et, notamment, de la conduite des affaires courantes, de la surveillance de la gestion financière, de la préparation des réunions de l'Assemblée des représentants, de l'engagement et de la gestion du personnel, et toutes autres missions confiées par l'Assemblée des Représentants en vertu de l'article 5, à l'exception toutefois des attributions expressément confiées à l'Assemblée des Représentants par ou en vertu de la présente loi.
+
+Le Bureau fait rapport sur l'exécution de ses missions lors de chaque réunion de l'Assemblée des Représentants.
+
+§ 2. Le Bureau délibère valablement lorsque la majorité de ses membres sont présents et en présence d'au moins un membre de chaque groupe linguistique. Les décisions sont prises à l'unanimité.
+
+Le Bureau tient au moins dix réunions par an.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/16, art. 12, 009; En vigueur : 13-06-2024&gt;
+
+### Section 4. [<sup>1</sup> Dispositions communes à l'Assemblée des Représentants et au Bureau]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-16/16, art. 13, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 8
+
+[<sup>1</sup> § 1er. Le président dirige les activités de l'Assemblée des Représentants et du Bureau. Tous les documents émanant de ces organes et tous ceux relatifs à la gestion journalière sont signés par le président ou, en son absence, par le vice-président.
+
+§ 2. Le trésorier est dépositaire de tous les biens meubles de la Commission des psychologues. Il assure la recette des cotisations et de toutes sommes dues à la Commission des psychologues et il en délivre quittance. Il établit les projets de comptes annuels ainsi que le projet de budget. A la fin de chaque trimestre, il présente à l'Assemblée des Représentants un aperçu de la situation financière, accompagné d'un état d'exécution du budget. Le trésorier exécute ses missions sous la responsabilité du Bureau.
+
+Le trésorier est chargé du contrôle de la situation financière et des comptes annuels. Il transmet au plus tard pour le 15 février de chaque année un rapport de contrôle à l'Assemblée des Représentants ainsi qu'au ministre ayant les Classes moyennes dans ses attributions.
+
+§ 3. Les membres du personnel ou des experts peuvent être invités à assister aux réunions de l'Assemblée des Représentants et du Bureau.
+
+Ils ne peuvent pas prendre part à la prise des décisions et n'ont pas de droit de vote.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/16, art. 14, 009; En vigueur : 13-06-2024&gt;
+
+### Section 5. [<sup>1</sup> Les organes disciplinaires]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/16, art. 15, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 8/1
+
+[<sup>1</sup> Les personnes inscrites sur la liste visée à l'article 2, § 1er, sont soumises à des règles déontologiques établies par le Roi par arrêté délibéré en Conseil des ministres après avis de [<sup>2</sup> l'Assemblée des Représentants]<sup>2</sup>.
+
+Le Roi peut toutefois par arrêté délibéré en Conseil des ministres, à tout moment et sans recueillir l'avis de [<sup>2</sup> l'Assemblée des Représentants]<sup>2</sup>, modifier les règles de déontologie dans le but d'assurer la transposition en droit interne des directives relatives à la reconnaissance mutuelle des diplômes et des formations professionnelles, parmi lesquelles la Directive 2005/36/CE du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, et les directives favorisant la libre circulation des biens et services, parmi lesquelles la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/61, art. 3, 006; En vigueur : 01-05-2014&gt;
+
+(2)&lt;L 2024-05-16/16, art. 16, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 8/2
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Un Conseil disciplinaire est instauré, qui a pour mission de veiller au respect des règles déontologiques et de statuer en matière disciplinaire à l'égard des personnes inscrites sur la liste visée à l'article 2, § 1er. Les décisions sont notifiées par lettre recommandée à la personne concernée.
+
+Le Conseil disciplinaire est composé d'une chambre néerlandophone et d'une chambre francophone.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Pour chaque chambre du Conseil disciplinaire, le ministre ayant les Classes moyennes dans ses attributions nomme pour six ans, parmi les avocats inscrits depuis au moins dix ans sur le tableau d'un ordre des avocats, un assesseur juridique et un ou plusieurs assesseurs juridiques suppléants, dont les missions d'assistance juridique, d'instruction et de formulation de recommandations, ainsi que les modalités d'exercice de ces missions, sont fixées par le Roi, sans préjudice de la loi du 22 août 2002 relative aux droits du patient et de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé.
+
+Nul ne peut exercer plus de deux mandats consécutifs d'assesseur juridique.
+
+Sans préjudice des missions qui leur sont attribuées par ou en vertu de la présente loi, il est interdit aux assesseurs juridiques et à leurs suppléants, sous peine d'être démis d'office de leurs fonctions par le ministre ayant les Classes moyennes dans ses attributions :
+
+a) de plaider devant le Conseil disciplinaire et le Conseil d'appel de la Commission des psychologues et de conseiller des personnes inscrites sur la liste visée à l'article 2, § 1er, dans des dossiers traités par ces Conseils ou susceptibles de l'être ;
+
+b) de conseiller une personne et de plaider en faveur de celle-ci dans le cadre d'un litige avec la Commission des psychologues ;
+
+c) de conseiller et de plaider en faveur de la Com-mission des psychologues ;
+
+d) de conseiller ou de plaider en faveur des membres effectifs ou suppléants du Conseil disciplinaire et du Conseil d'appel.
+
+§ 3. L'assesseur juridique détermine si les faits et comportements des personnes inscrites sur la liste visée à l'article 2, § 1er, sont susceptibles de constituer des manquements déontologiques.
+
+L'assesseur juridique peut agir à son initiative, sur demande du Bureau ou suite aux plaintes qui lui parviennent.
+
+Les demandes du Bureau et les plaintes peuvent concerner des individus ou des groupes de personnes.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 2, 007; En vigueur : 01-05-2014&gt;
+
+(2)&lt;L 2024-05-16/16, art. 17, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 8/3
+
+[<sup>1</sup> La compétence des chambres du Conseil disciplinaire est déterminée par le lieu où la personne poursuivie a son principal établissement.
+
+Si ce lieu est situé dans la région bilingue de Bruxelles-Capitale, cette compétence dépendra de la langue choisie par la personne poursuivie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 3, 007; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/4
+
+[<sup>1</sup> Un Conseil d'appel est instauré, qui se prononce sur le recours formé par la personne sanctionnée en application de l'article 8/2.
+
+Le délai pour interjeter appel est d'un mois à partir de la réception de la notification de la décision du Conseil disciplinaire, visée à l'article 8/2.
+
+Le Conseil d'appel est composé d'une chambre néerlandophone et d'une chambre francophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 4, 007; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/5
+
+[<sup>1</sup> Les chambres du Conseil d'appel se prononcent sur les recours introduits contre les décisions prises par la chambre du Conseil disciplinaire de leur langue.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 5, 007; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/6
+
+[<sup>1</sup> Le Conseil disciplinaire et le Conseil d'appel peuvent infliger les sanctions disciplinaires suivantes :
+
+\- l'avertissement;
+
+\- la suspension;
+
+\- la radiation.
+
+La suspension entraine l'interdiction de porter le titre de psychologue pour une durée maximale de 24 mois qui est fixée par le Conseil disciplinaire.
+
+La radiation entraine l'interdiction de porter le titre de psychologue.
+
+Une demande de réhabilitation peut être introduite auprès du Conseil disciplinaire au plus tôt cinq ans après le prononcé de la radiation. Elle ne peut être accueillie que si des circonstances exceptionnelles la justifient.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 6, 007; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/7
+
+[<sup>1</sup> Le Roi détermine :
+
+1° le nombre de membres effectifs et suppléants des Conseils visés aux articles 8/2 et 8/4;
+
+2° les conditions de leur éligibilité;
+
+3° les règles de leur élection;
+
+4° leurs indemnités;
+
+5° les règles de fonctionnement desdits Conseils.
+
+Les frais de fonctionnement des Conseils visés aux articles 8/2 et 8/4 sont supportés suivant les règles arrêtées par le Roi. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 7, 007; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/8
+
+[<sup>1</sup> Les Chambres visées aux articles 8/2 et 8/4 sont présidées par un magistrat effectif ou honoraire ou par un avocat qui est inscrit depuis au moins cinq ans au tableau de l'Ordre du Barreau flamand ou l'Ordre des Barreaux francophones et germanophones. Leur voix est prépondérante en cas de parité des voix.
+
+Un président effectif et un président suppléant sont nommés par le Roi pour une durée de six ans. Le Roi détermine leurs indemnités.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 8, 007; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/9
+
+[<sup>1</sup> Les fonctions de membre du Conseil disciplinaire visé à l'article 8/2, de membre du Conseil d'appel visé à l'article 8/4 et de membre [<sup>2</sup> de l'un des organes]<sup>2</sup> de la Commission des psychologues visée au chapitre II sont incompatibles entre elles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 9, 007; En vigueur : 01-05-2014&gt;
+
+(2)&lt;L 2024-05-16/16, art. 18, 009; En vigueur : 13-06-2024&gt;
+
+#### Art. 8/10
+
+[<sup>1</sup> Les articles 828, 830, 831 et 833 du Code judiciaire relatifs à la récusation sont applicables par analogie aux membres du Conseil disciplinaire et du Conseil d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/61, art. 4, 006; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/11
+
+[<sup>1</sup> Les sentences du Conseil disciplinaire et du Conseil d'appel sont prononcées en séance publique.
+
+Les audiences du Conseil disciplinaire et du Conseil d'appel sont publiques, sauf dans les cas visés à l'article 148 de la Constitution ou si la protection de la vie privée ou le secret professionnel s'oppose à cette publicité ou lorsque la personne convoquée renonce, de son plein gré et sans équivoque, à cette publicité.
+
+Les délibérations sont secrètes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/61, art. 5, 006; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/12
+
+[<sup>1</sup> Un pourvoi en cassation peut être introduit par l'intéressé contre les sentences du Conseil d'appel pour contravention à la loi ou pour violation des formes soit substantielles, soit prescrites à peine de nullité.
+
+Il est loisible au procureur général près de la Cour de Cassation de se pourvoir devant cette Cour dans l'intérêt de la loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/62, art. 10, 007; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/13
+
+[<sup>1</sup> Le pourvoi en cassation visé à l'article 8/12 est suspensif de la sentence attaquée.
+
+En cas de cassation, la cause est renvoyée devant le Conseil d'appel autrement composé. Celui-ci se conforme à la décision de la Cour de Cassation sur les points de droit jugés par elle.
+
+La procédure du pourvoi en cassation est réglée comme en matière civile.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/61, art. 6, 006; En vigueur : 01-05-2014&gt;
+
+#### Art. 8/14
+
+[<sup>1</sup> Si le principal établissement de la personne poursuivie est situé dans la région de langue allemande, cette dernière a le choix entre la Chambre francophone ou la Chambre néerlandophone.
+
+Les règles de fonctionnement des conseils prévoient une représentation de la région de langue allemande
+
+La personne qui ne possède pas une connaissance suffisante de la langue de la procédure utilisée par la chambre du Conseil disciplinaire ou Conseil d'appel devant laquelle elle est citée à comparaître peut se faire assister à l'audience par un interprète de son choix.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-21/61, art. 7, 006; En vigueur : 01-05-2014&gt;
+
+## CHAPITRE III. - Dispositions pénales.
+
+#### Art. 9
+
+Celui qui ne remplit pas la condition visée à l'article 1er, 1°, et qui porte néanmoins le titre de psychologue ou qui fait usage d'un signe distinctif de nature à induire en erreur quant au droit de porter ce titre, est puni d'une amende de 200 à 1 000 francs.
+
+#### Art. 10
+
+Celui qui remplit la condition visée à l'article 1er, 1°, et qui continue à porter le titre de psychologue après le 31 décembre de la deuxième année suivant l'année de la publication de la présente loi, sans être inscrit sur la liste visée à l'article 2, § 1er, est puni d'une amende de 100 à 500 francs.
+
+#### Art. 11
+
+Le livre premier du Code pénal, y compris le chapitre VII et l'article 85, est applicable aux délits visés aux articles 9, 10 et 19.
+
+## CHAPITRE IV. - Dispositions transitoires.
+
+#### Art. 12
+
+Sont également autorisées à porter le titre de psychologue les personnes qui, avant l'entrée en vigueur de la présente loi, ont obtenu un diplôme dans une faculté ou un institut de psychologie et de pédagogie d'une université belge, dont l'équivalence avec les diplômes visés à l'article 1er, 1°, a) et b), est reconnue par le ministre des Classes moyennes, après avis de la Commission, compte tenu de la formation complémentaire qui, le cas échéant, a été suivie dans ces mêmes institutions, même après la publication de la présente loi.
+
+#### Art. 13
+
+§ 1. Les personnes visées à l'article précédent adressent sous pli recommandé à la poste une requête circonstanciée au ministre des Classes moyennes avant le 31 décembre de la deuxième année suivant l'année de la publication de la présente loi.
+
+§ 2. Le ministre prend sa décision dans les trois mois de la réception de la requête, après avis de la Commission.
+
+Le requérant est entendu, à sa demande, par la Commission.
+
+La décision est notifiée sous pli recommandé à la poste.
+
+En cas de décision positive, le requérant est inscrit sur la liste visée à l'article 2, § 1er.
+
+#### Art. 14
+
+§ 1. Sont également autorisées à porter le titre de psychologue, avec tous les droits qui y sont attachés, les personnes qui font l'objet d'une décision favorable de la Commission de reconnaissance instituée par l'article 15 et rendue conformément à l'article 16, ou d'une décision favorable du ministre des Classes moyennes, rendue conformément à l'article 17.
+
+Les personnes visées à l'alinéa précédent doivent, à la date d'entrée en vigueur de la présente loi, avoir obtenu un diplôme en psychologie dans un enseignement supérieur non universitaire organisé, reconnu ou subventionné par l'Etat ou la Communauté, et avoir exercé des activités professionnelles en relation avec la psychologie pendant au moins trois ans ou quatre ans, selon le diplôme qu'elles ont obtenu.
+
+§ 2. Les personnes visées au § 1er doivent adresser requête au ministre des Classes moyennes dans les douze mois qui suivent l'entrée en vigueur de la présente loi.
+
+La requête dont être accompagnée des documents suivants :
+
+\- la copie certifiée conforme du diplôme obtenu en psychologie ou d'une attestation émanant de l'établissement qui a délivré le diplôme;
+
+\- une attestation selon laquelle le requérant a exercé des activités en relation avec la psychologie pendant au moins trois ans si le diplôme a été obtenu au terme d'un enseignement de type A1 dispensé en cours du jour et pendant au moins quatre ans si le diplôme a été obtenu au terme d'un enseignement de promotion sociale de type B1 dispensé en cours du soir.
+
+Le ministre des Classes moyennes accuse réception de la requête. L'accusé de réception vaut autorisation provisoire de porter le titre de psychologue jusqu'à la notification de la décision de la Commission de reconnaissance ou du ministre des Classes moyennes, rendue conformément aux articles 16 ou 17.
+
+Sans préjudice à l'application de l'alinéa précédant, les personnes visées au § 1er sont autorisées à porter provisoirement le titre de psychologue durant la période de douze mois visée à l'alinéa 1er.
+
+#### Art. 15
+
+§ 1. Une Commission de reconnaissance est instituée auprès du ministre des Classes moyennes dans les deux mois qui suivent l'entrée en vigueur de la présente loi, qui a pour mission d'examiner les requêtes adressées au ministre par les personnes visées à l'article 14.
+
+§ 2. La Commission de reconnaissance est présidée par un magistrat autre que le président de la Commission des psychologues prévue à l'article 3 de la présente loi.
+
+La Commission de reconnaissance est composée d'une chambre d'expression française et d'une chambre d'expression néerlandaise.
+
+Chaque chambre est composée pour moitié de fonctionnaire du Ministère des Classes moyennes non-porteurs d'un diplôme visé à l'article 1er de la présente loi, et pour moitié, paritairement, de délégués issus de la fédération nationale belge des psychologues et des unions et associations professionnelles regroupant les diplômes de l'enseignement supérieur non universitaire en psychologie.
+
+#### Art. 16
+
+La Commission de reconnaissance se prononce par décision motivée dans les six mois de l'introduction de la requête visée à l'article 14.
+
+Le requérant peut demander à être entendu, éventuellement assisté d'un conseil.
+
+La Commission de reconnaissance notifie sa décision au requérant, sous pli recommandé à la poste avec accusé de réception.
+
+L'absence de décision dans le délai fixé à l'alinéa 1er vaut reconnaissance du titre de psychologue au requérant.
+
+#### Art. 17
+
+Le requérant dont la candidature a été refusée par la Commission de reconnaissance peut, dans les quarante-cinq jours de la réception de la notification de la décision, introduire un recours auprès du ministre des Classes moyennes. Le ministre accuse réception du recours.
+
+Le ministre statue par décision motivée dans les six mois qui suivent l'introduction du recours. Sa décision est notifiée au requérant sous pli recommandé à la poste avec accusé de réception.
+
+L'absence de décision dans le délai fixé à l'alinéa 2 vaut reconnaissance du titre de psychologue au requérant.
+
+#### Art. 18
+
+Lorsque le requérant a fait l'objet d'une décision favorable de la Commission de reconnaissance ou du ministre des Classes moyennes, ou lorsqu'aucune décision n'est intervenue dans les délais fixés aux articles 16, alinéa 4, ou 17, alinéa 4, le requérant adresse à la Commission des psychologues visée à l'article 3 de la présente loi, sous pli recommandé à la poste, copie de la décision rendue ou de l'accusé de réception de la requête ou du recours.
+
+La Commission des psychologues procède sans délai à l'inscription du requérant sur la liste visée à l'article 2 de la présente loi.
+
+#### Art. 19
+
+§ 1. L'article 9 n'est pas applicable aux personnes visées aux articles 12 et 14.
+
+§ 2. Celui auquel l'article 12 est applicable et qui porte encore le titre de psychologue après le 30 juin de la huitième année suivant l'année de la publication de la présente loi sans être inscrit sur la liste visée à l'article 2, § 1er, est puni d'une amende de 100 à 500 francs.
+
+#### Art. 20
+
+&lt;inséré par L 2004-07-09/30, art. 252; En vigueur : 25-07-2004&gt; Le Roi peut modifier les dispositions de la présente loi et les arrêtés pris en son exécution en vue d'assurer la transposition en droit interne de la Directive 89/48/EEG du Conseil du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans.
+
+## CHAPITRE V. [<sup>1</sup> - Disposition finale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-21/32, art. 13, 008; En vigueur : 11-08-2017&gt;
+
+#### Art. 21
+
+[<sup>1</sup> Le Roi peut abroger, modifier, compléter ou remplacer les dispositions de la présente loi et les arrêtés pris en son exécution en vue d'assurer la transposition en droit interne de la directive relative à la reconnaissance des qualifications professionnelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-21/32, art. 14, 008; En vigueur : 11-08-2017&gt;

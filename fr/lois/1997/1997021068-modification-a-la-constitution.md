@@ -1,0 +1,62 @@
+---
+title: "Modification à la Constitution."
+identifier: "1997021068"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/28/1997021068/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1997-02-28
+published: 1997-03-01
+entry_into_force: 1997-03-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/28/1997021068/justel"
+department: "Intérieur"
+retrieved: 2026-10-12
+---
+
+# 28 FEVRIER 1997. - Modification à la Constitution.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté dans les conditions prescrites par l'article 195 de la Constitution, et Nous sanctionnons en ce qui suit:
+
+## Art. 1
+
+Article unique. L'article 59 de la Constitution est remplacé par la disposition suivante:
+
+"Art. 59. Sauf le cas de flagrant délit, aucun membre de l'une ou de l'autre Chambre ne peut, pendant la durée de la session, en matière répressive, être renvoyé ou cité directement devant une cour ou un tribunal, ni être arrêté, qu'avec l'autorisation de la Chambre dont il fait partie.
+
+Sauf le cas de flagrant délit, les mesures contraignantes requérant l'intervention d'un juge ne peuvent être ordonnées à l'égard d'un membre de l'une ou de l'autre Chambre, pendant la durée de la session, en matière répressive, que par le premier président de la cour d'appel sur demande du juge compétent. Cette décision est communiquée au président de la Chambre concernée.
+
+Toute perquisition ou saisie effectuée en vertu de l'alinéa précédent ne peut l'être qu'en présence du président de la Chambre concernée ou d'un membre désigné par lui.
+
+Pendant la durée de la session, seuls les officiers du ministère public et les agents compétents peuvent intenter des poursuites en matière répressive à l'égard d'un membre de l'une ou de l'autre Chambre.
+
+Le membre concerné de l'une ou de l'autre Chambre peut, à tous les stades de l'instruction, demander, pendant la durée de la session et en matière répressive, à la Chambre dont il fait partie de suspendre les poursuites. La Chambre concernée doit se prononcer à cet effet à la majorité des deux tiers des votes exprimés.
+
+La détention d'un membre de l'une ou de l'autre Chambre ou sa poursuite devant une cour ou un tribunal est suspendue pendant la session si la Chambre dont il fait partie le requiert."
+
+Promulguons la présente dispositions, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 28 février 1997.
+
+ALBERT
+
+Par le Roi:
+
+Le Premier Ministre,
+
+J.-L. DEHAENE
+
+Le Ministre de l'Intérieur,
+
+J. VANDE LANOTTE
+
+Scellé du sceau de l'Etat:
+
+Le Ministre de la Justice,
+
+S. DECLERCK

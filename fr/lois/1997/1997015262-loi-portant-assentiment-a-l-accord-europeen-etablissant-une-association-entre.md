@@ -12,7 +12,7 @@ entry_into_force: 1998-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/13/1997015262/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # 13 AVRIL 1997. - Loi portant assentiment à l'Accord européen établissant une association entre les Communautés européennes et leurs Etats-membres, d'une part, et la République d'Estonie, d'autre part, annexes I à X, protocoles 1 à 5, et Acte final, faits à Luxembourg le 12 juin 1995.

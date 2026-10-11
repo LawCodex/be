@@ -1,0 +1,541 @@
+---
+title: "Loi relative aux droits pécuniaires des militaires."
+identifier: "1994007164"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1994/05/20/1994007164/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1994-05-20
+published: 1994-06-21
+last_amended: 2025-12-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1994/05/20/1994007164/justel"
+department: "Défense Nationale"
+justel_notes:
+  - "Art. 9bis, § 1 et art. 10 sont modifiés avec effet à une date indéterminée par <L 2006-03-05/57 , art. 6 et 7, 010; En vigueur : indéterminée >"
+  - "divers art. modifiés par L 2007-02-28/35 , art. 225 à 228, 011; En vigueur : 31-12-2013 (voir art. 272)"
+  - "L'article 225 à 228 de la L 28/02/2007 qui prévoyait à l'origine des modifications de la L 20/05/1994 a été remplacé, avant son entrée en vigueur, par l'article 314 à 326 de la loi du 31 juillet 2013 ( 2013-07-31/04 ) modifiant la loi du 28 février 2007 fixant le statut des militaires du cadre actif des Forces armées et modifiant certaines dispositions relatives au statut du personnel militaire. Ces articles remplacent les articles 225 à 228 de la L 28/02/2007 par une nouvelle disposition qui modifient les articles 1, 3, 4, 5, 9bis, 10, 10bis, 10ter, 11, 13ter, 13quater et 14 de la loi du 20/05/1994. Cela étant, la volonté d'abroger cette dernière loi que le législateur avait initialement exprimée. En d'autres mots, les articles 225 à 228 de la L 28/02/2007, tel que ces articles existaient avant leur remplacement par la loi précitée du 31/07/2013, n'entreront jamais en vigueur."
+  - "Consultation des versions antérieures à partir du 15-08-1997 et mise à jour au 29-12-2025"
+retrieved: 2026-10-11
+---
+
+# 20 MAI 1994. - Loi relative aux droits pécuniaires des militaires.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Des bénéficiaires.
+
+### Art. 1
+
+[<sup>1</sup> La présente loi est applicable aux militaires du cadre actif visés à l'article 2, alinéa 1er, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, et du cadre de réserve visé à l'article 2 de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées, ci-après dénommés "les militaires".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 314, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+## CHAPITRE II. - Du droit au traitement.
+
+### Art. 2
+
+§ 1. Le militaire est rémunéré par un traitement.
+
+(Le Roi fixe les échelles de traitement dans les limites ci-après :
+
+1° les officiers généraux :
+
+montant minimum : le montant minimum des échelles de traitement applicables aux fonctions de management et d'encadrement des services publics fédéraux;
+
+montant maximum : le montant maximum des échelles de traitement applicable aux fonction de management et d'encadrement des services publics fédéraux;
+
+2° les autres officiers :
+
+montant minimum : le montant minimum des échelles de traitement applicable au personnel des services publics fédéraux de niveau B;
+
+Montant maximum : le montant maximum des échelles de traitement applicable au personnel des services publics fédéraux de niveau A;
+
+3° les sous-officiers :
+
+montant minimum : le montant minimum des échelles de traitement applicable au personnel des services publics fédéraux de niveau C;
+
+montant maximum : le montant maximum des échelles de traitement applicable au personnel des services publics fédéraux de niveau B;
+
+4° les volontaires, à l'exception de ceux visés à l'article 17 :
+
+montant minimum : le montant minimum des échelles de traitement applicable au personnel des services publics fédéraux de niveau D;
+
+montant maximum : le montant maximum des échelles de traitement applicable au personnel des services publics fédéraux de niveau D.) &lt;L 2003-03-27/49, art. 122, 006; En vigueur : 14-07-2003&gt;
+
+§ 2. (abrogé) &lt;L 2003-03-27/49, art. 122, 006; En vigueur : 14-07-2003&gt;
+
+§ 3. Les traitements des militaire sont liés au régime de mobilité applicable aux traitements du personnel des ministères. Ils sont liés à l'indice-pivot 138,01.
+
+### Art. 3
+
+§ 1. Le militaire a droit à son traitement lorsqu'il est en " service actif ".
+
+[<sup>1</sup> [<sup>2</sup> Le militaire du cadre de réserve qui effectue une période de formation, un rappel ou une prestation complémentaire visée à l'article 38 de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées et qui bénéficie d'une pension de retraite militaire, a droit à un traitement égal à la différence entre d'une part le traitement auquel il pourrait prétendre comme militaire du cadre actif, et d'autre part le montant de sa pension.
+
+En dérogation à l'alinéa 1er, le militaire du cadre de réserve qui effectue une période de formation, un rappel ou une prestation complémentaire visée à l'article 38 de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées et lorsqu'il est agent statutaire dont, en vertu de son statut, la rémunération n'est pas suspendue, ou n'est suspendue qu'après un certain temps, par la personne morale de droit public ou par l'établissement d'enseignement libre subventionné, qui est son employeur, a droit à un complément de traitement égal à la différence entre, d'une part le traitement de militaire auquel il peut prétendre, et d'autre part le traitement auquel il peut prétendre en tant qu'agent statutaire, à condition que le traitement de militaire soit supérieur.
+
+En matière de pensions, le traitement visé à l'alinéa 2 et le complément de traitement visé à l'alinéa 3 sont soumis à la retenue obligatoire visée à l'article 60 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions.]<sup>2</sup>]<sup>1</sup>
+
+§ 1bis. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Le militaire en " non-activité " à la suite d'un retrait temporaire d'emploi pour motif de santé :
+
+1° conserve le droit à la totalité de son traitement, lorsque l'affection qui a justifié le retrait temporaire d'emploi a été contractée à l'occasion du service;
+
+2° conserve le droit à 75 p.c. de son traitement, lorsque l'affection qui a justifié le retrait temporaire d'emploi n'a pas été contractée à l'occasion du service.
+
+§ 3. Le militaire en " non-activité " suite à un retrait temporaire d'emploi par mesure disciplinaire, a droit à 75 p.c. du dernier traitement.
+
+(§ 3bis. Le militaire en non-activité à la suite d'un retrait temporaire d'emploi par interruption de carrière n'a pas droit au traitement. (Toutefois, il perçoit une allocation d'interruption aux taux et aux conditions fixés pour le personnel des services publics fédéraux.) ) &lt;L 2000-05-25/32, art. 38, 003; En vigueur : 20-08-1997&gt; &lt;L 2003-03-27/49, art. 123, 006; En vigueur : 14-07-2003&gt;
+
+(La loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public, est applicable à l'allocation d'interruption.) &lt;L 2000-05-25/32, art. 38, 003; En vigueur : 20-08-1997&gt;
+
+(L'allocation d'interruption est payée par l'Office national de l'Emploi, sauf lorsqu'il exerce une activité professionnelle, conformément aux dispositions de l'article 19 de la loi du 14 janvier 1975 portant le règlement de discipline des forces armées. Toutefois, lorsque l'activité professionnelle est une activité indépendante, l'allocation d'interruption reste payée par l'Office national de l'Emploi pendant les douze premiers mois de l'exercice de cette activité.) &lt;L 2006-03-05/57, art. 5, 010; En vigueur : 15-04-2006&gt;
+
+[<sup>1</sup> Le militaire en congé pour soins palliatifs n'a pas droit au traitement. Toutefois, il perçoit une allocation d'interruption aux taux et aux conditions fixées pour le personnel des services publics fédéraux.]<sup>1</sup>
+
+§ 3ter. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. [<sup>1</sup> Le militaire qui subit une peine privative de liberté, à laquelle il a été condamné par une juridiction belge ou par une juridiction étrangère si la décision est reconnue en Belgique, perçoit 50 pour cent du dernier traitement, sans que le montant puisse être inférieur au montant du revenu d'intégration visé à l'article 14 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.]<sup>1</sup>
+
+Par dérogation à l'alinéa précédent :
+
+1° (le militaire qui exécute sa peine [<sup>1</sup> sous le mode d'exécution de la détention limitée, de la libération conditionnelle]<sup>1</sup> ou de la surveillance électronique, conserve ses droits au traitement entier;) &lt;L 2003-03-27/49, art. 123, 006; En vigueur : 14-07-2003&gt;
+
+2° le traitement entier reste acquis pour la période de détention préventive, qui a été suivie d'abord de la suspension du prononcé de la condamnation et ensuite de la révocation de la suspension précitée.
+
+§ 5. (Perçoit, sans que le montant puisse être inférieur au [<sup>1</sup> montant du revenu d'intégration visé à l'article 14 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale]<sup>1</sup>, et sous réserve de liquidation ultérieure définitive de ses droits :) &lt;L 2003-03-27/49, art. 123, 006; En vigueur : 14-07-2003&gt;
+
+1° 75 p.c. du traitement, le militaire suspendu par mesure d'ordre;
+
+2° 50 p.c. du traitement, le militaire détenu préventivement;
+
+3° 75 p.c. du traitement, le militaire séparé de l'armée.
+
+Dans le cas visé à l'alinéa 1er, 3°, le traitement est versé au profit du conjoint non séparé de corps ou, à défaut, au profit des membres de la famille qui sont fiscalement à charge du militaire.
+
+[<sup>1</sup> Lorsqu'il est mis fin à la suspension par mesure d'ordre d'un militaire au cours d'une procédure pénale engagée à son encontre ou d'une procédure pouvant donner lieu à une mesure statutaire, entamée pour les mêmes faits, le militaire concerné ne peut prétendre à la liquidation de la quote-part du traitement non perçu sur la base de l'alinéa 1er, 1°, qu'à partir du moment où le jugement, l'arrêt ou la mesure statutaire n'est plus susceptible de recours. Cette liquidation n'est pas due pour la période de suspension par mesure d'ordre qui est convertie en une période de non-activité.]<sup>1</sup>
+
+Les sommes liquidées sur la base [<sup>1</sup> des alinéas 1er à 3]<sup>1</sup> ne sont pas sujettes à répétition.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 316, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2018-06-19/03, art. 2, 019; En vigueur : 01-01-2018&gt;
+
+### Art. 4
+
+[<sup>1</sup> § 1er. Le traitement du candidat militaire "en période de formation scolaire" est réduit d'un montant correspondant à un coefficient fixé par le Roi. Ce coefficient ne peut être supérieur à 0,5.
+
+Par candidat militaire "en période de formation scolaire", on entend :
+
+1° le candidat officier qui suit les cours de l'Ecole royale militaire, d'un institut supérieur industriel, de l'école supérieure de navigation, d'une université en vue de l'obtention du diplôme de médecine, de vétérinaire, de dentiste ou de pharmacien, ou de tout autre établissement déterminé par le Roi, qui dispense un enseignement permettant l'accès au niveau A;
+
+2° le candidat sous-officier du niveau B qui suit les cours d'un établissement de l'enseignement supérieur en vue de l'obtention d'un bachelier.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 317, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 16, 018; En vigueur : 02-01-2017&gt;
+
+### Art. 5
+
+§ 1. Le militaire, qui est prisonnier ou interné de guerre, ou prisonnier ou interné, ou pris en otage, ou porté disparu au cours d'une mission effectuée en sous-position d'" engagement opérationnel " [<sup>2</sup> , " d'appui militaire "]<sup>2</sup> ou d'" assistance ", conserve le droit à la totalité du traitement.
+
+Toutefois, par arrêté pris sur la proposition du Ministre [<sup>1</sup> de la Défense]<sup>1</sup>, le Roi peut réduire ou supprimer le traitement pour tout ou partie de la période de captivité ou d'internement ou de prise d'otage ou de disparition, lorsque les faits qui sont à l'origine de la capture ou la conduite de l'intéressé pendant la captivité ou l'internement, la prise d'otage ou la disparition sont incompatibles avec son état militaire. Le militaire sera informé de la proposition motivée du Ministre [<sup>1</sup> de la Défense]<sup>1</sup> et aura la faculté de faire valoir ses moyens de défense avant que l'arrêté royal soit pris.
+
+§ 2. Dans les cas visés au § 1er, le traitement est versé au profit du conjoint non séparé de corps ou, à défaut, au profit des membres de la famille qui sont fiscalement à charge du militaire.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 318, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2014-05-15/44, art. 5, 016; En vigueur : 01-01-2014&gt;
+
+## CHAPITRE III. - De la rétribution garantie.
+
+### Art. 6
+
+§ 1. Le militaire perçoit une rétribution minimum garantie.
+
+[<sup>1</sup> Toutefois, la rétribution minimum garantie n'est pas d'application au candidat militaire "en période de formation scolaire" visé à l'article 4, § 1er.]<sup>1</sup>
+
+§ 2. Pour l'application du présent chapitre, il faut entendre par " rétribution ", le traitement de base augmenté des allocations mentionnées ci-après :
+
+1° l'allocation de foyer ou de résidence;
+
+2° l'allocation de logement ou la valeur du logement fourni gratuitement par l'Etat en Belgique;
+
+3° l'allocation accordée aux militaires ayant reçu l'instruction de parachutiste.
+
+§ 3. N'interviennent pas dans la détermination de la " rétribution " :
+
+1° les indemnités et allocations qui couvrent des charges réelles;
+
+2° les allocations familiales et leurs suppléments mensuels.
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 17, 018; En vigueur : 02-01-2017&gt;
+
+### Art. 7
+
+La rétribution annuelle du militaire ayant atteint l'âge de 21 ans n'est, pour des prestations complètes, jamais inférieure :
+
+\- à (13.234,20 EUR), si, en matière de sécurité sociale, l'intéressé est soumis au régime d'assurance obligatoire contre la maladie et l'invalidité, secteur des soins de santé; &lt;L 2002-08-02/45, art. 147, 005; En vigueur : 29-08-2002&gt;
+
+\- (12.478,10 EUR), dans les autres cas. &lt;L 2002-08-02/45, art. 147, 005; En vigueur : 29-08-2002&gt;
+
+(Le Roi adapte les montants prévus à l'alinéa 1er, conformément aux programmations intersectorielles applicables à l'ensemble de la Fonction publique.) &lt;L 2003-03-27/49, art. 124, 006; En vigueur : 14-07-2003&gt;
+
+### Art. 8
+
+La différence entre la rétribution annuelle visée à l'article 7 et celle qui reviendrait normalement au militaire, lui est octroyée sous la forme d'un supplément de traitement et incorporée à son traitement.
+
+Le supplément de traitement visé à l'alinéa premier est réduit éventuellement dans la même mesure que le traitement du mois auquel il se rapporte.
+
+## CHAPITRE IV. - (Des allocations, des indemnités, des primes, des avantages de toute nature et des avantages sociaux.) &lt;L 2003-03-27/49, art. 125; En vigueur : 14-07-2003&gt;
+
+### Art. 9
+
+Le régime des allocations et des indemnités au militaire en " service actif " en période de guerre est fixé par le Roi.
+
+### Art. 9bis
+
+&lt;Inséré par L 2003-03-27/49, art. 126; En vigueur : 14-07-2003&gt; § 1er. Outre le traitement, le militaire en service actif en période de paix perçoit, dans les sous-positions " en service intensif ", " en assistance " [<sup>1</sup> , "en appui militaire"]<sup>1</sup> et " en engagement opérationnel ", une allocation dont le montant journalier correspond à une fraction du traitement annuel brut dont le dénominateur est le nombre 1 850 et dont le numérateur est fixé par le Roi.
+
+§ 2. Des qualifications particulières, ainsi que l'accomplissement de prestations particulières, qui ne peuvent pas être considérées comme normales et inhérentes à la fonction de militaire, peuvent également donner lieu à l'octroi d'une allocation.
+
+Par prestations particulières, on entend :
+
+1° les prestations qui sont effectuées en dehors du régime normal des prestations de service;
+
+2° les prestations qui sont étrangères à la fonction normale du militaire concerné;
+
+3° les prestations qui, quoique liées à la fonction du militaire concerné, revêtent un caractère particulièrement exigeant.
+
+Une allocation pour des qualifications particulières, ne peut être octroyée que sur la base de diplômes, de certificats, ou de brevets accordés par le ministre de la Défense ou par le chef de la Défense.
+
+Le Roi détermine les montants et règle l'octroi des avantages visés à l'alinéa 1er.
+
+Toutefois, il peut charger le Ministre de la Défense de fixer les mesures complémentaires nécessaires à l'exécution de la réglementation arrêtée par Lui.
+
+§ 3. Des allocations sur la base de qualifications, dont l'octroi ou le maintien dépendent en outre de l'exécution d'un nombre minimal de prestations spécifiques au cours d'une période définie, peuvent être maintenues par l'autorité désignée par le Roi et suivant les modalités qu'Il détermine, lorsque l'intéressé n'a pas pu effectuer en temps voulu les prestations requises du fait de raisons de service justifiées, ou par suite d'une inaptitude physique temporaire à exécuter les prestations requises attribuable à l'exécution du service militaire. &lt;L 2003-03-27/49, art. 126, 006; En vigueur : 14-07-2003&gt;
+
+[<sup>1</sup> § 4. Le Roi peut créer une allocation visant à accorder au militaire les mêmes avantages que ceux accordés au personnel des services publics fédéraux. Il en détermine, le cas échéant forfaitairement le montant et en règle l'octroi.
+
+Le Roi peut accorder, éventuellement pour une durée limitée, une allocation ou un complément de traitement visant à compenser une perte éventuelle de revenus ou de perspectives de revenus, due à une modification de droits pécuniaires existants. Il en détermine, le cas échéant forfaitairement, le montant et en règle l'octroi.
+
+Toutefois, Il peut charger le Ministre de la Défense de fixer les mesures complémentaires nécessaires à l'exécution de la réglementation arrêtée par Lui.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 319, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### Art. 10
+
+&lt;L 2001-03-22/36, art. 155, 004; En vigueur : 17-04-2001&gt; (alinéa abrogé) &lt;L 2003-03-27/49, art. 127, 006; En vigueur : 14-07-2003&gt;
+
+Lorsqu'il est dans la sous-position " assistance " [<sup>1</sup> , "appui militaire", ou "engagement opérationnel"]<sup>1</sup>, le militaire en " service actif " perçoit, en outre, une indemnité forfaitaire journalière dont le montant est identique pour toutes les catégories du personnel militaire et est fixé par le Roi. Ce montant est multiplié par un coefficient fixé par le Roi en fonction des formes d'engagement, déterminées en application de l'article 3 de la loi du 20 mai 1994 relative à la mise en oeuvre des forces armées, à la mise en condition, ainsi qu'aux périodes et positions dans lesquelles le militaire peut se trouver, ce coefficient ne pouvant être supérieur à 7.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 320, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### Art. 10bis
+
+&lt;Inséré par L 2003-03-27/49, art. 128; En vigueur : 14-07-2003&gt; § 1er. Une indemnité est [<sup>2</sup> ...]<sup>2</sup> octroyée au militaire astreint à supporter des charges réelles qui ne peuvent être considérées comme normales et inhérentes à la fonction de militaire.
+
+Lorsque la situation qui donne lieu à l'octroi d'une indemnité est susceptible de se reproduire, le montant peut être établi forfaitairement.
+
+§ 2. Le Roi détermine les montants et règle l'octroi des avantages visés au § 1er.
+
+Toutefois, il peut charger le Ministre de la Défense de fixer les mesures complémentaires nécessaires à l'exécution de la réglementation arrêtée par Lui.
+
+§ 3. Le militaire obtient à sa demande une avance sur indemnités, dans les cas suivants :
+
+1° à l'occasion d'un déplacement de service;
+
+2° lors du départ vers l'étranger afin d'y effectuer une période de service;
+
+3° lors du retour de l'étranger au terme d'une période de service;
+
+4° lors du retour de l'étranger pour des motifs urgents et graves;
+
+5° pour des frais liés à l'enseignement des enfants, qui découlent de l'affectation du militaire.
+
+(6° à l'occasion d'un changement de domicile ou de résidence consécutif au transfert du lieu habituel de travail ou à une circonstance déterminée par le Roi.) &lt;L 2005-07-20/41, art. 38, 008; En vigueur : 08-08-2005&gt;
+
+Le Ministre de la Défense règle les modalités selon lesquelles le militaire peut obtenir cette avance, ainsi que sa valeur.
+
+[<sup>1</sup> 7° pour le militaire qui effectue un engagement volontaire militaire, qui perçoit une solde, visé à l'article 50, alinéa 2, de la loi du 10 janvier 2010 instituant l'engagement volontaire militaire et modifiant diverses lois applicables au personnel militaire, pour les frais encourus dans le cadre de la prise en charge par l'Etat des frais de déplacement en transports publics entre son domicile et son lieu habituel de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-01-10/15, art. 6, 013; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2013-07-31/04, art. 321, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### Art. 10ter
+
+&lt;Inséré par L 2003-03-27/49, art. 129; En vigueur : 14-07-2003&gt; § 1er. Le Roi peut, selon les modalités qu'Il fixe, autoriser le Ministre de la Défense à rembourser des frais exceptionnels encourus par le militaire lors d'un déplacement de service, lors d'une période de service à l'étranger, et lors d'une mutation.
+
+§ 2. Il peut également autoriser le Ministre de la Défense, de manière révocable et sous ses propres responsabilité et surveillance, à transférer la compétence visée au § 1er aux autorités militaires et civiles que le Roi détermine, et à concurrence d'un montant qu'Il fixe.
+
+Les autorités militaires et civiles visées à l'alinéa 1er, doivent être revêtues de la compétence :
+
+1° soit de chef de corps d'une unité militaire;
+
+2° soit de chef de section ou de division au sein d'une direction générale ou d'un département d'état-major;
+
+3° soit de sous-chef d'état-major ou de directeur général;
+
+4° soit de chef de la défense [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. Par frais exceptionnels, on entend les frais inéluctables que le militaire encourt lors de l'exécution de sa mission, pour lesquels il n'existe aucun régime d'indemnisation spécifique, et qui ont [<sup>2</sup> notamment]<sup>2</sup> trait :
+
+1° soit au logement pendant une période de service à l'étranger;
+
+2° soit à l'enseignement des enfants à l'occasion d'une période de service à l'étranger;
+
+3° soit au logement ou au transport pendant un déplacement de service;
+
+4° soit à un rappel d'urgence imposé par des motifs familiaux ou sociaux graves;
+
+5° soit à des missions de représentation;
+
+[<sup>2</sup> 6° soit à des frais (para)médicaux et pharmaceutiques personnels.]<sup>2</sup>
+
+§ 4. [<sup>2</sup> Le montant que le Roi fixe en application du paragraphe 2, alinéa 1er, ne peut pas être supérieur à 1500 euros, hormis dans le cas spécifique des frais exceptionnels pour:
+
+1° l'enseignement des enfants pendant une période de service à l'étranger, où il ne peut pas être supérieur à 4000 euros;
+
+2° les frais (para)médicaux et pharmaceutiques personnels, où il ne peut pas être supérieur à 30.000 euros par mémoire justificatif.]<sup>2</sup>
+
+Les montants visés à l'alinéa 1er sont liés au régime de mobilité applicable aux traitements du personnel des ministères. Ils sont liés à l'indice-pivot 138,01.
+
+[<sup>2</sup> § 5. Dans le cadre d'une période de service permanent à l'étranger, telle que définie à l'article 2, 4°, de l'arrêté royal du 15 janvier 1962 fixant le régime d'indemnisation applicable aux militaires accomplissant des déplacements de service à l'extérieur du royaume, le Roi peut autoriser le ministre de la Défense, en ce qui concerne le conjoint et les enfants à charge, tels que définis à l'article 2, 2° et 3°, de l'arrêté royal du 15 janvier 1962 précité, à prendre en charge les coûts destinés à soutenir des mesures visant la reconversion professionnelle par le biais notamment de guidance, de conseils, d'informations fournies par des services spécialisés en la matière ainsi que le suivi de formation.
+
+Le Roi peut autoriser le ministre de la Défense à prendre les mesures d'exécution en la matière.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 322, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 19, 020; En vigueur : 08-01-2026&gt;
+
+### Art. 11
+
+§ 1. Le militaire perçoit une allocation de foyer ou de résidence, un pécule de vacances et une allocation de fin d'année aux taux et conditions fixés pour le personnel [<sup>2</sup> des services publics fédéraux]<sup>2</sup>.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. (abrogé) &lt;L 2003-03-27/49, art. 130, 006; En vigueur : 14-07-2003&gt;
+
+(§ 4. En outre, le Roi peut, dans le cadre de restructurations des forces armées ou en cas de problèmes conjoncturels de personnel :
+
+1° accorder des indemnités de reclassement ou de départ à des militaires qui, à leur demande, quittent prématurément les forces armées;
+
+2° accorder des primes de recrutement à des candidats-militaires soit à la fin de la période de formation initiale, soit à un moment qu'Il fixe;
+
+[<sup>1</sup> 3° accorder des allocations visant à promouvoir la rétention de certains militaires au sein des Forces armées.]<sup>1</sup>
+
+Concernant les indemnités visées à l'alinéa 1er, 1°, le Roi peut fixer :
+
+1° le montant et les modalités d'octroi de l'indemnité;
+
+2° par catégorie de personnel, les conditions auxquelles les militaires doivent répondre, afin d'être pris en compte pour l'octroi de ces indemnités;
+
+3° par catégorie de personnel, le nombre maximal de militaires qui peuvent en bénéficier;
+
+4° les modalités éventuelles de remboursement, si le militaire ne satisfait plus aux conditions fixées.
+
+Concernant les primes de recrutement visées à l'alinéa 1er, 2°, le Roi peut fixer :
+
+1° le montant et les modalités d'octroi de la prime;
+
+2° les catégories de personnel qui peuvent être prises en compte pour l'octroi de la prime;
+
+3° la durée minimale pendant laquelle le bénéficiaire doit rester en service actif;
+
+4° les modalités de remboursement, si l'intéressé quitte ou doit quitter les forces armées avant l'expiration de cette période pour des raisons autres que :
+
+a) parce qu'il ne répond plus aux exigences médicales requises et ne peut, pour cette raison, poursuivre sa formation;
+
+b) la mise à la pension pour cause d'inaptitude physique définitive à tout service militaire.) &lt;L 2001-03-22/36, art. 156, 004; En vigueur : 17-04-2001&gt;
+
+[<sup>1</sup> Concernant les allocations de rétention visées à l'alinéa 1er, 3°, le Roi fixe :
+
+1° le montant et les modalités d'octroi des allocations;
+
+2° par catégorie de personnel, les conditions auxquelles les militaires doivent répondre afin d'être pris en compte pour l'octroi de ces allocations;
+
+3° par catégorie de personnel, le nombre maximal de militaires qui peuvent en bénéficier;
+
+4° les modalités éventuelles de remboursement si le militaire ne satisfait plus aux conditions fixées.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 323, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 20, 020; En vigueur : 08-01-2026&gt;
+
+### Art. 11bis
+
+&lt;Inséré par L 2003-03-27/49, art. 131; En vigueur : 14-07-2003&gt; Le Roi peut en outre créer le droit à des avantages de toute nature et à des avantages sociaux.
+
+Toutefois, Il peut charger le Ministre de la Défense de fixer les mesures complémentaires nécessaires à l'exécution de la réglementation arrêtée par Lui.
+
+### Art. 12
+
+Le Roi peut lier les montants des allocations et indemnités visées (au présent chapitre) au régime de mobilité applicable aux traitements du personnel des ministères. &lt;L 2003-03-27/49, art. 132, 006; En vigueur : 14-07-2003&gt;
+
+## CHAPITRE V. - [<sup>1</sup> Régimes particuliers.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-01-10/15, art. 7, 013; En vigueur : 01-09-2010&gt;
+
+### Art. 13
+
+Le personnel prestant des services dans le cadre de la coopération technique militaire bénéficie des garanties et avantages pécuniaires accordés aux techniciens et experts agréés au titre de la coopération technique.
+
+Le Roi détermine le mode d'application de ces garanties et avantages pécuniaires aux militaires.
+
+### Art. 13bis
+
+[<sup>1</sup> Perçoivent par journée de service actif, une solde dont les taux et les modalités d'octroi sont fixés par le Roi :
+
+1° l'élève non militaire en formation dans une école ou en période de formation scolaire, qui sert à la faveur d'un engagement ou rengagement;
+
+2° le militaire qui effectue un engagement volontaire militaire, pendant la période qui débute le jour où il souscrit un engagement et qui se termine le dernier jour [<sup>2</sup> de la septième semaine calendrier qui suit la semaine au cours de laquelle]<sup>2</sup> il a souscrit cet engagement.
+
+Le montant journalier de la solde ne peut pas être supérieur à [<sup>2</sup> 5 euros pour la solde visée à l'alinéa 1er, 1°, et à 10 euros pour la solde visée à l'alinéa 1er, 2° ]<sup>2</sup>. Le Roi peut lier ce montant au régime de mobilité applicable aux traitements du personnel des services publics fédéraux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-01-10/15, art. 8, 013; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2014-05-15/67, art. 4, 017; En vigueur : 01-08-2014&gt;
+
+### Art. 13ter
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Le militaire qui est détaché en application de l'article 44 de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, n'est plus rémunéré par la Défense pendant la période de mise à la disposition ou de la mission officielle. Pendant cette période, le militaire bénéficie en principe des avantages pécuniaires octroyés par l'organisme auprès duquel il est détaché.]<sup>2</sup>
+
+Toutefois, le Roi, ou l'autorité qu'Il désigne, peut, dans des cas particuliers, pour sauvegarder les droits pécuniaires du militaire, déroger au principe visé à l'alinéa 1er et maintenir au profit de l'intéressé le droit aux avantages pécuniaires militaires qu'Il détermine.
+
+Le militaire signe cette décision pour prise de connaissance.
+
+§ 2. Le militaire qui, dans le cadre de l'exécution d'une mission non visée au § 1er, perçoit des indemnités tant de la Défense que d'un autre organisme, est tenu de reverser à la Défense mensuellement, à terme échu, selon le cas :
+
+1° soit un montant équivalent au montant des indemnités octroyées par cet organisme, si ces indemnités sont inférieures aux indemnités octroyées par la Défense;
+
+2° soit un montant équivalent au montant des indemnités octroyées par la Défense, si ces indemnités sont inférieures ou égales aux indemnités octroyées par cet organisme.
+
+Le militaire doit, avant le début de la mission, être informé sur ses droits et obligations, visés à l'alinéa 1er. Le militaire peut en outre autoriser la Défense à retenir directement sur ses indemnités les sommes qu'il doit reverser à la Défense en application de l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-12-29/01, art. 6, 014; En vigueur : 31-12-2010&gt;
+
+(2)&lt;L 2013-07-31/04, art. 324, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### Art. 13quater
+
+[<sup>1</sup> Le militaire qui est soumis au régime de travail des veilleurs de nuit ou du travail en équipe, et qui, au 31 décembre de l'année fixée par l'autorité que le Roi désigne, compte plus de 200 heures prestées en trop qui n'ont pu être récupérées en temps, perçoit pour chaque heure au-delà de la norme de 200 heures, une allocation dont le montant est fixé à 1/1850 du traitement annuel brut qui a servi de base au calcul de la rémunération due pour le mois précédent la date fixée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 325, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+## CHAPITRE VI. - Du paiement.
+
+### Art. 14
+
+Les paiements effectués en vertu de la présente loi ou des arrêtés pris en vue de son exécution se font sur un compte ouvert au nom du militaire ou des bénéficiaires.
+
+Le Ministre [<sup>1</sup> de la Défense]<sup>1</sup> peut autoriser certains paiements de la main à la main.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 326, 015; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### Art. 14bis
+
+&lt;Inséré par L 2001-03-22/36, art. 157, 004; En vigueur : 17-04-2001&gt; Les militaires, qui se trouvent dans les conditions déterminées par le Roi, peuvent obtenir une avance sur traitement.
+
+(alinéa abrogé) &lt;L 2003-03-27/49, art. 133, 006; En vigueur : 14-07-2003&gt;
+
+## CHAPITRE VII. - Dispositions finales.
+
+### Art. 15
+
+Les arrêtés royaux, créant le droit à un avantage pécuniaire quelconque en faveur des militaires, qui sont en vigueur le jour de l'entrée en vigueur de la présente loi, sont censés être pris en exécution de cette loi.
+
+### Art. 16
+
+Pour les militaires au sens de la présente loi, la loi du 19 décembre 1980 relative aux droits pécuniaires des militaires, modifiée par la loi du 21 décembre 1990, est abrogée.
+
+### Art. 16bis
+
+&lt;Inséré par L 2003-03-27/49, art. 134; En vigueur : 14-07-2003&gt; Le chapitre IV de la présente loi est également applicable aux miliciens, ainsi qu'aux personnes n'appartenant pas à l'armée et dont la présence est requise auprès des militaires.
+
+## CHAPITRE VIII. - Dispositions transitoires.
+
+### Art. 17
+
+Le Ministre de la Défense [<sup>1</sup> ...]<sup>1</sup> organise un examen de passage au niveau 3 pour les volontaires et candidats-volontaires déjà en service lors de l'entrée en vigueur de la présente disposition ou entrant en service avant l'entrée en vigueur de l'article 2, § 1er.
+
+(Le Roi fixe les échelles de traitement des volontaires et des candidats volontaires, qui n'ont pas réussi l'examen de passage au niveau 3, dans les limites fixées ci-après : montant minimum : 12.112,78 euros montant maximum : 17.798,86 euros.) &lt;L 2003-03-27/49, art. 135, 006; En vigueur : 14-07-2003&gt;
+
+Les dispositions de l'article 2, §§ 2 et 3, sont applicables à ces échelles de traitement.
+
+Les dispositions des alinéas précédents ne sont pas applicables aux volontaires qui effectuent un rappel ou des prestations volontaires. Ils bénéficient des échelles de traitement des volontaires de niveau 3.
+
+----------
+
+(1)&lt;L 2025-12-08/07, art. 21, 020; En vigueur : 08-01-2026&gt;
+
+### Art. 18
+
+&lt;Abrogé par L 2010-01-10/15, art. 9, 013; En vigueur : 01-09-2010&gt;
+
+### Art. 19
+
+Le Roi détermine la date d'entrée en vigueur de chacune des dispositions de la présente loi, à l'exception de :
+
+1° l'article 3, § 5, 3°, qui entre en vigueur le 1er janvier 1993;
+
+2° l'article 17, alinéa 1er, qui entre en vigueur le jour de la publication de la présente loi au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 20 mai 1994.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Défense nationale,
+
+L. DELCROIX
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. WATHELET
