@@ -1,0 +1,82 @@
+---
+title: "Loi modifiant la loi du 20 juillet 1990 relative à la détention préventive en vue de créer un droit à l'information pour les victimes"
+identifier: "2023041066"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/02/2023041066/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2023-03-02
+published: 2023-04-14
+entry_into_force: 2024-04-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/02/2023041066/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 2 MARS 2023. - Loi modifiant la loi du 20 juillet 1990 relative à la détention préventive en vue de créer un droit à l'information pour les victimes
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1e
+
+r
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans le titre Ier de la loi du 20 juillet 1990 relative à la détention préventive, il est inséré un chapitre XI rédigé comme suit:
+
+"Chapitre XI. De l'information des victimes".
+
+## Art. 3
+
+Dans le chapitre XI, inséré par l'article 2, il est inséré un article 38ter rédigé comme suit:
+
+"Art. 38ter. La personne lésée ou partie civile constituée peut être informée du déroulement de la détention préventive du suspect d'un crime ou d'un délit menaçant ou portant atteinte à son intégrité physique et/ou psychique ou à celle d'un tiers qu'elle représente.
+
+L'information communiquée porte sur les éléments suivants:
+
+1° la délivrance ou la mainlevée d'un mandat d'arrêt;
+
+2° l'exécution de la détention préventive sous surveillance électronique;
+
+3° la décision de mise en liberté;
+
+4° les conditions imposées dans l'intérêt de la personne lésée ou partie civile constituée ainsi que l'imposition de nouvelles conditions, leur suppression partielle ou totale ou leur modification conformément à l'article 36 en cas de décision de libération sous condition ou sous caution et de décision de mise en liberté sous conditions.
+
+Sauf si cette notification entraîne un risque identifié de préjudice pour le suspect, le greffier informe la personne lésée ou la partie civile constituée, selon les règles fixées par le Roi, le plus rapidement possible et, au plus tard, dans les vingt-quatre heures par le moyen de communication le plus approprié.
+
+La notification, selon des modalités à définir par le Roi, est réalisée auprès de la personne lésée ou de la partie civile constituée.
+
+La personne lésée ou la partie civile constituée peut également solliciter que l'information soit communiquée en copie à son conseil ou aux services compétents des communautés. Dans cette dernière hypothèse, le Roi fixe la manière dont le greffier communique les informations aux services communautaires et aux services de police si nécessaire.".
+
+## Art. 4
+
+La présente loi entre en vigueur le premier jour du douzième mois prenant cours le jour après sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 2 mars 2023.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

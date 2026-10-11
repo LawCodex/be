@@ -1,0 +1,72 @@
+---
+title: "Loi modifiant la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants en vue de permettre aux Belges résidant à l'étranger de soutenir une pétition"
+identifier: "2022043186"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/16/2022043186/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2022-11-16
+published: 2023-02-17
+entry_into_force: 2023-02-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/16/2022043186/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 16 NOVEMBRE 2022. - Loi modifiant la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants en vue de permettre aux Belges résidant à l'étranger de soutenir une pétition
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants, il est inséré un article 4/1 rédigé comme suit:
+
+"Art. 4/1. Toute personne physique belge inscrite dans les registres de la population tenus dans les postes consulaires de carrière belges à l'étranger âgée de 16 ans accomplis peut soutenir une pétition adressée à la Chambre des représentants.
+
+Pour l'application de l'article 4, alinéa 1er, 1°, les personnes visées à l'alinéa 1er sont rattachées à la commune où elles sont inscrites dans le registre des électeurs et, à défaut, dans l'une des communes suivantes:
+
+1° la commune belge dans laquelle la personne a un jour été inscrite dans les registres de la population;
+
+2° à défaut, la commune belge du lieu de sa naissance;
+
+3° à défaut, la commune belge dans laquelle le père ou la mère de la personne est inscrit ou a été inscrit en dernier lieu dans les registres de la population;
+
+4° à défaut, la commune belge dans laquelle le mari, l'épouse, le précédent mari, la précédente épouse ou la/le partenaire dans une cohabitation enregistrée est inscrit(e) ou a été inscrit(e) dans les registres de la population;
+
+5° à défaut, la commune belge dans laquelle un parent jusqu'au troisième degré est inscrit ou a été inscrit en dernier lieu dans les registres de la population ou la commune belge dans laquelle un ascendant est né, est inscrit ou a été inscrit dans les registres de la population;
+
+6° à défaut, la commune de Bruxelles.".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 16 novembre 2022.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre du Renouveau démocratique,
+
+D. CLARINVAL
+
+La Ministre du Renouveau démocratique,
+
+A. VERLINDEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

@@ -1,0 +1,116 @@
+---
+title: "Loi portant des mesures en matière de négociation salariale pour la période 2023-2024"
+identifier: "2023031091"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/24/2023031091/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2023-05-24
+published: 2023-05-31
+entry_into_force: 2023-05-01
+last_amended: 2024-04-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/24/2023031091/justel"
+department: "Sécurité sociale"
+justel_note: "Consultation des versions antérieures à partir du 31-05-2023 et mise à jour au 19-04-2024"
+retrieved: 2026-10-11
+---
+
+# 24 MAI 2023. - Loi portant des mesures en matière de négociation salariale pour la période 2023-2024
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition introductive
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - La prime pouvoir d'achat
+
+### Art. 2
+
+Dans l'article 38, § 3unvicies, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, inséré par la loi du 18 juillet 2021, un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2:
+
+"Une cotisation spéciale de 16,5 % est due par l'employeur sur le montant de la prime pouvoir d'achat visée à l'article 19quinquies, § 5, de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.".
+
+### Art. 3
+
+Dans l'article 183 de la loi du 30 décembre 2009 portant des dispositions diverses, modifié par les lois des 20 juillet 2015, 31 juillet 2020 et 18 juillet 2021, les mots "le chèque consommation et la prime corona" sont remplacés par les mots "le chèque consommation, la prime corona et la prime pouvoir d'achat".
+
+### Art. 4
+
+L'article 185/1 de la même loi, inséré par la loi du 18 juillet 2021, est complété par un alinéa, rédigé comme suit:
+
+"Les primes pouvoir d'achat sur support papier visées à l'article 19quinquies de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, ne peuvent être mises à disposition que par les éditeurs agréés pour émettre la prime pouvoir d'achat sous forme électronique et qui mettent cette prime pouvoir d'achat à disposition sous forme électronique.".
+
+### Art. 5
+
+Dans l'article 61 de la loi du 18 juillet 2021 portant des mesures de soutien temporaires en raison de la pandémie du COVID-19, les mots "par les articles 60 et 61" sont remplacés par les mots "par les articles 59 et 60".
+
+## CHAPITRE 3. - Régime fiscal de la prime pouvoir d'achat
+
+### Art. 6
+
+La prime pouvoir d'achat qui est attribuée en application de l'article 19quinquies, § 5, de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, est exonérée d'impôt sur les revenus à concurrence d'un montant de 750 euros.
+
+[<sup>1</sup> La prime précitée répond aussi aux conditions pour l'exonération d'impôt sur les revenus, lorsque la décision d'octroyer la prime est prise et le droit à la prime est établi sur la base d'une convention collective ou individuelle conclue au plus tard le 31 décembre 2023, mais que la prime n'est mise à la disposition du travailleur qu'au cours de janvier, février ou mars 2024 par son expéditeur.]<sup>1</sup>
+
+Le travailleur peut introduire, dans les trois mois suivant l'échéance de la prime pouvoir d'achat, une demande unique auprès de l'éditeur pour réactiver la prime. La prime pouvoir d'achat réactivée a une durée de validité de trois mois. Dans ce cas, les conditions pour l'exonération d'impôts sur les revenus de la prime pouvoir d'achat restent remplies.
+
+Le montant mentionné à l'alinéa 1er, n'est pas indexé conformément à l'article 178 du Code des impôts sur les revenus 1992.
+
+----------
+
+(1)&lt;L 2024-03-29/20, art. 9, 002; En vigueur : 01-01-2024&gt;
+
+### Art. 7
+
+La prime pouvoir d'achat visée à l'article 6 ainsi que la cotisation spéciale due sur le montant de cette prime en application de l'article 38, § 3unvicies, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, constituent des frais professionnels conformément à l'article 49 du Code des impôts sur les revenus 1992.
+
+## CHAPITRE 4. - Modification de la loi du 26 juillet 1996 relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité
+
+### Art. 8
+
+L'article 10 de la loi du 26 juillet 1996 relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité, modifié en dernier lieu par l'arrêté royal n° 45 du 26 juin 2020 est complété par un 8° rédigé comme suit:
+
+"8° la prime pouvoir d'achat unique visée dans l'article 19quinquies, § 5, de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;".
+
+## CHAPITRE 5. - Disposition finale
+
+### Art. 9
+
+La présente loi entre en vigueur le 1er mai 2023.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 24 mai 2023.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de l'Economie et du Travail,
+
+P.Y. DERMAGNE,
+
+Le Ministre des Finances,
+
+V. VAN PETEGHEM
+
+Le Ministre des Affaires sociales,
+
+F. VANDENBROUCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

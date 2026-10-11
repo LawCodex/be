@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant la loi-programme (i) du 27 decembre 2006"
+identifier: "2023030720"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/14/2023030720/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2023-03-14
+published: 2023-03-31
+entry_into_force: 2023-04-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/14/2023030720/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 14 MARS 2023. - Loi modifiant la loi-programme (i) du 27 decembre 2006
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## TITRE 1er. - Disposition introductive
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## TITRE 2. - Modification de la loi-programme (I) du 27 décembre 2006
+
+### Section unique. - Financement des organisations de patients
+
+#### Art. 2
+
+A l'article 245 de la loi-programme (I) du 27 décembre 2006, remplacé par la loi du 19 mars 2013 et modifié par les lois des 10 avril 2014, 17 juillet 2015, 15 avril 2018 et 18 mai 2022, les modifications suivantes sont apportées :
+
+1° dans le § 1er, alinéa 2, le nombre "513.412,35" est remplacé par le nombre "763.412,35" ;
+
+2° le paragraphe 4 est remplacé par ce qui suit :
+
+" § 4. Les subventions sont destinées aux frais de personnel et de fonctionnement que les associations bénéficiaires ont engagés pour le développement et le soutien à des initiatives en rapport avec les compétences fédérales, pour l'encouragement de la connaissance en matière de santé, pour fournir les informations accessibles, pour faire remonter les besoins des patients, pour permettre de confronter les politiques fédérales à l'analyse du patient, rapporter l'expérience et la satisfaction des patients sur les politiques fédérales, pour favoriser le lien entre les administrations fédérales et les patients, pour permettre à des associations de patients spécifiques de participer aux politiques fédérales via les associations bénéficiaires ainsi que pour le soutien de leur missions de représentation structurelle ou par projet, qui relèvent de la compétence fédérale." ;
+
+3° dans le § 8, alinéa 1er, les mots ", augmentés en 2023," sont insérés entre les mots "fixés pour l'année 2015" et les mots "sont adaptés au 1er janvier de chaque année ".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 14 mars 2023.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Santé Publique,
+
+F. VANDENBROUCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE
