@@ -1,0 +1,43 @@
+---
+title: "Loi portant approbation de la Convention pour le règlement des différends aux investissements entre Etats et ressortissants d'autres Etats, Washington 18 mars 1965."
+identifier: "1970071710"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/17/1970071710/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1970-07-17
+published: 1970-09-24
+entry_into_force: 1970-07-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/17/1970071710/justel"
+retrieved: 2026-10-12
+---
+
+# 17 JUILLET 1970. - Loi portant approbation de la Convention pour le règlement des différends aux investissements entre Etats et ressortissants d'autres Etats, Washington 18 mars 1965.
+
+## Art. 1
+
+La Convention pour le règlement des différends relatifs aux investissements entre Etats et ressortissants d'autres Etats, faite à Washington le 18 mars 1965, sortira son plein et entier effet.
+
+## Art. 2
+
+La Convention visée à l'article 1 est applicable, à l'Etat, aux collectivités publiques et aux organismes dépendant de lui.
+
+## Art. 3
+
+Le Ministre des Affaires étrangères est chargé de vérifier l'authenticité des documents produits en vue de l'exécution en Belgique des sentences formant litre exécutoire, rendues en vertu de la Convention visée à l'article 1, et qui, aux termes de cette Convention, sont susceptibles d'exécution forcée.
+
+Le Ministre peut déléguer ses pouvoirs à un fonctionnaire désigné à cette fin.
+
+Les documents authentiqués sont transmis, à l'intervention du Ministre de la Justice, au greffier en chef de la Cour d'appel de Bruxelles, qui appose la formule exécutoire.
+
+## Art. 4
+
+L'article 280 de l'arrêté royal n° 64 du 30 novembre 1939 contenant le Code des droits d'enregistrement, d'hypothèque et de greffe, modifié par l'article 19 de la loi du 13 août 1947, est complété par le texte suivant :
+
+" 7° les expéditions ou copies délivrées par le greffe de la Cour d'appel de Bruxelles, en vue de la reconnaissance et de l'exécution en Belgique des sentences arbitrales rendues en vertu de la Convention pour le règlement des différends relatifs aux investissements entre Etats et ressortissants d'autres Etats, faite à Washington le 18 mars 1965. "
+
+## Art. 5
+
+Le Roi est autorisé à prendre toutes les mesures complémentaires nécessaires à la reconnaissance et à l'exécution en Belgique des sentences arbitrales rendues en vertu de la Convention visée à l'article 1 de la présente loi.
