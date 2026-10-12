@@ -1,0 +1,147 @@
+---
+title: "Décret implémentant la Mosa Ballet School et instituant un dispositif expérimental de formation artistique en danse au premier degré commun et aux deuxième et troisième degrés de l'enseignement secondaire général de transition"
+identifier: "2022015412"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/07/2022015412/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2022-07-07
+published: 2022-08-19
+entry_into_force: 2022-08-29
+last_amended: 2024-09-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/07/2022015412/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 19-08-2022 et mise à jour au 24-09-2024"
+retrieved: 2026-10-12
+---
+
+# 7 JUILLET 2022. - Décret implémentant la Mosa Ballet School et instituant un dispositif expérimental de formation artistique en danse au premier degré commun et aux deuxième et troisième degrés de l'enseignement secondaire général de transition
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## TITRE Ier. - DISPOSITIONS INTRODUCTIVES
+
+### Art. 1er
+
+- Sans préjudice d'autres initiatives qui pourraient voir le jour, il est créé un partenariat entre l'Athénée royal Charles Rogier et l'école de danse Mosa Ballet School.
+
+Ce partenariat institue un enseignement expérimental au premier degré commun et aux deuxième et troisième degrés de l'enseignement secondaire général de transition.
+
+Les modalités opérationnelles de ce partenariat sont établies par convention conclue entre le Pouvoir organisateur Wallonie-Bruxelles Enseignement et l'école de danse Mosa Ballet School.
+
+### Art. 2
+
+La formation instaurée par ce partenariat est organisée sur les six années d'études de l'enseignement secondaire général. Elle consiste en une formation commune, telle que visée pour le premier degré de l'enseignement secondaire à l'article 8 du décret du 30 juin 2006 relatif à l'organisation pédagogique du premier degré de l'enseignement secondaire et, pour les deuxième et troisième degrés de l'enseignement secondaire, à l'article 5 de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire et en une formation artistique en danse telle que définie par le présent décret.
+
+L'enseignement expérimental institué par ce partenariat débute le premier jour de l'année scolaire 2022-2023. Il fait l'objet d'une évaluation tous les deux ans, dont la première a lieu au début de l'année scolaire 2024-2025, sur base des évaluations des deux années scolaires précédentes. Cette évaluation est réalisée par le Service général de l'Inspection. Cette expérimentation s'inscrit dans les missions du Service général de l'Inspection visées dans le décret du 10 janvier 2019 relatif au Service général de l'Inspection.
+
+Sur proposition du Service général de l'Inspection, le Gouvernement détermine les modalités objectives et raisonnables de l'évaluation visée à l'alinéa 2. Celle-ci visera notamment le respect des dispositions du présent décret, le niveau des études des élèves concernés, la mise en oeuvre du dispositif pédagogique et éducatif du projet, en ce compris les aspects de complémentarité avec les acteurs de formation en danse au sein de l'enseignement artistique organisé en Fédération-Wallonie-Bruxelles.
+
+Une évaluation plus générale est organisée par le même service la septième année de manière à mettre un terme à l'expérience ou à la prolonger et, le cas échéant, identifier les critères et modalités objectifs et raisonnables permettant d'établir un cadre destiné à favoriser l'émergence de nouveaux partenariats similaires.
+
+## TITRE II. - DISPOSITIONS RELATIVES A L'ATHENEE ROYAL CHARLES ROGIER
+
+### Art. 3
+
+Les cours de la formation commune sont dispensés par l'Athénée royal Charles Rogier, sis à 13 Rue des Clarisses, 4000 Liège.
+
+### Art. 4
+
+Les élèves qui suivent la formation instaurée par ce partenariat doivent avoir été régulièrement inscrits à l'Athénée royal Charles Rogier conformément aux dispositions légales et réglementaires applicables.
+
+Il faut entendre par élève régulièrement inscrit l'élève qui, répondant aux conditions d'admission, est inscrit pour l'ensemble des cours d'une forme d'enseignement, d'une section et d'une orientation d'études déterminées.
+
+### Art. 5
+
+§ 1er. Les cours dispensés au sein de l'Athénée royal Charles Rogier sont donnés en français.
+
+La grille horaire est organisée dans le respect des dispositions prévues à l'article 8 du décret du 30 juin 2006 relatif à l'organisation pédagogique du premier degré de l'enseignement secondaire, et à l'article 4ter, § 2 et § 3 de la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire.
+
+Le volume horaire hebdomadaire de la grille-horaire d'un élève se compose de la manière suivante :
+
+1\) au premier degré, il varie entre 30 et 32 périodes de cours par semaine.
+
+Les périodes d'activités complémentaires et les périodes du cours d'éducation physique peuvent être remplacées par des périodes de cours de danse dispensées par la Mosa Ballet School.
+
+2\) aux deuxième et troisième degrés de l'enseignement général, le volume horaire hebdomadaire d'une grille-horaire est de 28 à 32 périodes maximum.
+
+Une ou plusieurs options de base simple(s) et les périodes du cours d'éducation physique de la formation commune peuvent être remplacées par un nombre équivalent de périodes de cours de danse dispensées par la Mosa Ballet School.
+
+§ 2. Pendant la période d'évaluation visée à l'article 2, alinéa 4 du présent décret, l'Athénée royal Charles Rogier transmet chaque année, en début d'année scolaire, une proposition de grille-horaire pour les élèves concernés par le partenariat au Ministre en charge de l'Education afin que celui-ci vérifie l'adéquation du programme de formation commune avec les socles de compétences et les attendus des référentiels du Tronc commun.
+
+## TITRE III. - DISPOSITIONS RELATIVES A LA MOSA BALLET SCHOOL
+
+### Art. 6
+
+La formation artistique est dispensée par l'école de danse Mosa Ballet School, sise à 12/16 Place Saint-Paul, 4000 Liège.
+
+### Art. 7
+
+La Mosa Ballet School établit, pour la formation artistique en danse, un descriptif de formation détaillant les objectifs d'éducation et de formation artistique.
+
+### Art. 8
+
+La formation artistique se compose de cours de danse.
+
+Elle peut impliquer l'usage de l'anglais.
+
+Le temps consacré aux cours de danse est de 14 à 25 périodes de 60 minutes.
+
+### Art. 9
+
+La répartition des cours de la formation commune, dispensés par l'Athénée royal Charles Rogier, et des cours de danse, dispensés par la Mosa Ballet School, dans l'horaire hebdomadaire des élèves concernés, est convenue dans la convention visée à l'article 1er, alinéa 3 du présent décret.
+
+Les cours de danse rendus nécessaires à l'accomplissement de la formation artistique qui excédent le volume de la grille horaire sont dispensés par la Mosa Ballet School en dehors du temps scolaire.
+
+## TITRE IV. - DE LA FREQUENTATION SCOLAIRE
+
+### Art. 10
+
+La fréquentation scolaire est obligatoire au sein de l'Athénée royal Charles Rogier et de la Mosa Ballet School dans les mêmes conditions que celles reprises [<sup>1</sup> en vertu de l'article 1.7.1-8 du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/96, art. 58, 002; En vigueur : 25-08-2025&gt;
+
+## TITRE V. - DE LA SANCTION DES ETUDES
+
+### Art. 11
+
+Le chapitre III du Titre II de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire s'applique aux élèves qui suivent la formation instaurée par ce partenariat.
+
+## TITRE VI. - DISPOSITION FINALE
+
+### Art. 12
+
+Le présent décret entre en vigueur le premier jour de l'année scolaire 2022-2023.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 juillet 2022.
+
+Le Ministre-Président,
+
+P.-Y. JEHOLET
+
+Le Vice-Président et Ministre du Budget, de la Fonction publique, de l'Egalité des chances
+
+et de la tutelle sur Wallonie-Bruxelles Enseignement,
+
+F. DAERDEN
+
+La Vice-Présidente et Ministre de l'Enfance, de la Santé, de la Culture, des Médias et des Droits des Femmes,
+
+B. LINARD
+
+La Ministre de l'Enseignement supérieur, de l'Enseignement de la Promotion sociale, des Hôpitaux universitaires, de l'Aide à la jeunesse, des Maisons de Justice, de la Jeunesse, des Sports et de la Promotion de Bruxelles,
+
+V. GLATIGNY
+
+La Ministre de l'Education,
+
+C. DESIR

@@ -1,0 +1,73 @@
+---
+title: "Décret modifiant le décret du 17 juillet 2003 relatif au développement de l'action d'éducation permanente dans le champ de la vie associative"
+identifier: "2020042339"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/09/2020042339/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2020-07-09
+published: 2020-07-22
+entry_into_force: 2020-08-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/09/2020042339/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 9 JUILLET 2020. - Décret modifiant le décret du 17 juillet 2003 relatif au développement de l'action d'éducation permanente dans le champ de la vie associative
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## Art. 1er
+
+A l'article 26 du décret du 17 juillet 2003 relatif au développement de l'action d'éducation permanente dans le champ de la vie associative, les modifications suivantes sont apportées :
+
+1° Dans le paragraphe 1er, première phrase, les mots " ou triennale " sont insérés entre les mots " quinquennale " et " dans ".
+
+2° Le paragraphe 1er, point 9°, a), est complété par les mots " ou triennale ".
+
+3° Les alinéas 1er et 2 du paragraphe 2 sont remplacés par ce qui suit :
+
+" § 2. L'association reconnue à durée indéterminée ou déterminée qui souhaite obtenir un changement d'axe ou de catégorie de forfait introduit sa demande lors du dépôt du rapport général d'évaluation.
+
+Par dérogation à l'alinéa 1er et l'alinéa 4, 1° et 9°, l'association reconnue à durée indéterminée ou déterminée qui souhaite obtenir une diminution de catégorie de forfait peut introduire sa demande à tout moment. Dans ce cas, la décision prend effet à la date fixée par le gouvernement après concertation avec l'association concernée.
+
+Dans le cas où l'association envisage de demander une modification d'un axe de sa reconnaissance au profit d'un autre, celle-ci introduit sa demande selon les modalités prévues par le Gouvernement. ".
+
+## Art. 2
+
+Dans le même décret, il est inséré un article 39/4 rédigé comme suit :
+
+" Art. 39/4. Par dérogation à l'article 19, § 1er, alinéa 1er, l'association dont la période quinquennale de subvention se termine en 2019, 2020 ou 2021 dépose son rapport général d'évaluation lors de la dernière année de la période quinquennale. Ce rapport porte, au choix de l'association, sur les quatre premières années de la période quinquennale en cours ou sur les trois premières années de la période quinquennale en intégrant les données quantitatives et qualitatives portant sur les deux dernières années du précédant quinquennat. "
+
+## Art. 3
+
+Les articles 1 et 2 produisent leurs effets le 1er janvier 2019.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Donné à Bruxelles, le 9 juillet 2020.
+
+Le Ministre-Président,
+
+P.-Y. JEHOLET
+
+Le Vice-Président et Ministre du Budget, de la Fonction publique, de l'Egalité des chances et de la tutelle sur Wallonie-Bruxelles Enseignement,
+
+F. DAERDEN
+
+La Vice-Présidente et Ministre de l'Enfance, de la Santé, de la Culture, des Médias et des Droits des Femmes,
+
+B. LINARD
+
+La Ministre de l'Enseignement supérieur, de l'Enseignement de la Promotion sociale, des Hôpitaux universitaires, de l'Aide à la jeunesse, des Maisons de Justice, de la Jeunesse, des Sports et de la Promotion de Bruxelles,
+
+V. GLATIGNY
+
+La Ministre de l'Education,
+
+C. DESIR
