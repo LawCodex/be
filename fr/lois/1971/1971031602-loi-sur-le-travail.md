@@ -1,0 +1,1470 @@
+---
+title: "Loi sur le travail."
+identifier: "1971031602"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1971/03/16/1971031602/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1971-03-16
+published: 1971-03-30
+entry_into_force: 1971-04-09
+last_amended: 2026-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1971/03/16/1971031602/justel"
+department: "Emploi et Travail"
+justel_note: "Consultation des versions antérieures à partir du 24-01-1985 et mise à jour au 01-06-2026"
+retrieved: 2026-10-12
+---
+
+# 16 MARS 1971. - Loi sur le travail.
+
+## CHAPITRE Ier. - Champ d'application.
+
+##### Art. 1
+
+La présente loi s'applique aux travailleurs et aux employeurs.
+
+Pour l'application de la présente loi sont assimilés:
+
+1° aux travailleurs: les personnes qui, autrement qu'en vertu d'un contrat de louage de travail, fournissent des prestations de travail sous l'autorité d'une autre personne [<sup>1</sup> , à l'exception des personnes qui fournissent ces prestations au sens du chapitre 1er et 2 du titre 2 de la loi du 18 juillet 2018 relative à la relance économique et au renforcement de la cohésion sociale, dans la mesure où les conditions imposées par l'article 26 de la loi précitée sont remplies, ou aux personnes qui fournissent des prestations en vue d'obtenir l'indemnité conformément à l'article 90, alinéa 1er, 1° bis, du Code des impôts sur les revenus 1992]<sup>1</sup> [<sup>2</sup> , à l'exception des personnes qui fournissent des prestations au sens de la loi du 24 décembre 2020 relative au travail associatif, dans la mesure où les conditions imposées par l'article 42 de la loi précitée sont remplies]<sup>2</sup>;
+
+2° aux employeurs: les personnes qui occupent les personnes visées au 1°;
+
+3° à une branche d'activité: les groupes d'employeurs et de personnes assimilées aux employeurs qui, en dehors d'un secteur de l'économie, exercent des activités identiques ou connexes;
+
+4° à une entreprise: les établissements d'employeurs ou de personnes assimilées aux employeurs qui exercent une activité en dehors d'un secteur de l'économie.
+
+----------
+
+(1)&lt;L 2018-07-18/03, art. 33, 040; En vigueur : 20-02-2018&gt;
+
+(2)&lt;L 2020-12-24/08, art. 49, 044; En vigueur : 01-01-2021&gt;
+
+##### Art. 2
+
+&lt;L 1992-08-05/42, art. 6, 008; En vigueur : 01-02-1993&gt; Pour l'application de la présente loi, on entend par " jeunes travailleurs " : des travailleurs mineurs qui sont âgés de 15 ans ou plus et qui ne sont plus soumis à l'obligation scolaire à temps plein.
+
+Le Roi peut toutefois, s'il y a lieu dans les conditions qu'Il détermine, rendre les dispositions de la présente loi qui concernent les jeunes travailleurs applicables aux travailleurs dont l'âge est compris entre 18 et 21 ans.
+
+##### Art. 3
+
+§ 1. Les dispositions du chapitre III, (sections 1 et 2 et 4 à 7), ne sont pas applicables: &lt;L 1998-12-04/31, art. 2, 1°, 019; En vigueur : 27-12-1998&gt;
+
+1° aux personnes occupés par l'Etat, les provinces, les communes, les établissements publics qui en dépendent et les organismes d'intérêt public, sauf si elles sont occupées par des établissements exerçant une activité industrielle ou commerciale ou par des établissements dispensant des soins de santé, de prophylaxie ou d'hygiène;
+
+2° (Abrogé) &lt;L 1996-12-06/30, art. 5, 016; En vigueur : 1997-03-01&gt;;
+
+3° aux personnes occupées dans une entreprise familiale ou ne travaillent habituellement que des parents, des alliés ou des pupilles, sous l'autorité exclusive du père, de la mère ou du tuteur;
+
+4° (...) &lt;L 2005-07-20/41, art. 93, 025; En vigueur : 01-10-2005&gt;
+
+5° au personnel navigant des entreprises de pêche (...); &lt;L 2006-07-20/39, art. 249, 026; En vigueur : 07-08-2006&gt;
+
+6° (...) &lt;L 2002-08-02/45, art. 92, 022 En vigueur : 29-08-2002&gt;
+
+§ 2. Les dispositions du chapitre III, section 1, qui concernent le repos du dimanche, ne sont pas applicables, en outre:
+
+1° au personnel navigant occupé à des travaux de transport par eau, à l'exception des travailleurs liés par un contrat d'engagement pour le service des bâtiments de navigation intérieure;
+
+2° aux travailleurs occupés dans les établissements d'enseignement.
+
+§ 3. Les dispositions du chapitre III, (section 2 et 4 à 7), ne sont pas applicables, en outre: &lt;L 1998-12-04/31, art. 2, 2°, 019; En vigueur : 27-12-1998&gt;
+
+1° aux travailleurs désignés par le Roi comme investis d'un poste de direction ou de confiance;
+
+2° aux travailleurs liés par un contrat de travail domestique;
+
+3° aux représentants de commerce.
+
+##### Art. 3bis
+
+&lt;inséré par L 1996-12-06/30, art. 6, En vigueur : 1997-03-01&gt; Les dispositions du chapitre III, (sections I et II et IV à VII), ne sont pas applicables aux travailleurs à domicile.
+
+Le Roi peut, sur proposition de l'organe paritaire compétent, et dans les conditions et modalités qu'Il détermine, rendre les dispositions visées à l'alinéa premier applicables en tout ou en partie aux travailleurs à domicile. &lt;L 1998-12-04/31, art. 3, 019; En vigueur : 27-12-1998&gt;
+
+A défaut de la proposition visée à l'alinéa 2 et après avis du Conseil national du Travail, le Roi peut, dans les conditions et modalités qu'Il détermine, rendre les dispositions visées à l'alinéa premier applicables en tout ou en partie aux travailleurs à domicile.
+
+##### Art. 3ter
+
+&lt;L 2002-08-02/45, art. 93, 022 En vigueur : 29-08-2002&gt; Les dispositions du chapitre III, sections Ire et II et IV à VII ne sont pas applicables aux médecins, médecins vétérinaires, dentistes, aux médecins spécialistes en formation et aux étudiants stagiaires qui se préparent à l'exercice des professions de médecin, de médecin vétérinaire et de dentiste.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-12-12/05, art. 12, 031; En vigueur : 01-02-2011&gt;
+
+##### Art. 3quater
+
+&lt;Inséré par L 2006-07-20/39, art. 250; En vigueur : 07-08-2006&gt; Les dispositions du chapitre III, sections 1re et 2 et 4 à 7 ne sont pas applicables au personnel navigant occupé à des travaux de transport par air.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, et dans les conditions et modalités qu'Il détermine, rendre les dispositions visées à l'alinéa 1er applicables en tout ou en partie au personnel navigant occupé à des travaux de transport par air. Le Roi peut également introduire des dispositions spécifiques pour cette catégorie de travailleurs.
+
+##### Art. 4
+
+Le Roi peut, sur proposition des commissions paritaires compétentes et après avis du Conseil national du Travail, rendre les dispositions visées à l'article 3 applicables en tout ou en partie, s'il y a lieu, dans les conditions qu'Il détermine aux travailleurs mentionnés dans cet article ou soustraire à leur application les travailleurs auxquels elles s'appliquent.
+
+Lorsque le Conseil national du Travail s'acquitte de la mission impartie aux commissions paritaires par l'alinéa 1er, il ne délibère valablement que si la moitié des membres représentant les employeurs et la moitié des membres représentant les travailleurs sont présents. Seuls les représentants des employeurs et les représentants des travailleurs ont voix délibérative. De plus, la proposition doit être adoptée à l'unanimité des voix.
+
+##### Art. 5
+
+La nullité de l'engagement ne peut être opposée:
+
+1° aux jeunes travailleurs;
+
+2° aux travailleurs autres que les jeunes travailleurs, lorsque le travail est effectué:
+
+a) en vertu d'un engagement frappé de nullité du chef d'infraction aux dispositions ayant pour objet la réglementation des relations du travail;
+
+b) dans les salles de jeu;
+
+[<sup>1</sup> 3° aux travailleurs qui se prostituent.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-02-21/06, art. 6, 045; En vigueur : 31-03-2022&gt;
+
+## CHAPITRE II. - Interdiction de travailler.
+
+### Section 1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; - Travail des enfants.
+
+#### Sous-section 1. - Définitions.
+
+##### Art. 6
+
+&lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Pour l'application de la présente loi, on entend par :
+
+" enfants " : des mineurs âgés de moins de 15 ans ou qui sont encore soumis à l'obligation scolaire à temps plein.
+
+#### Sous-section 2. - Interdiction du travail des enfants.
+
+##### Art. 7.1
+
+1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Il est interdit de faire ou de laisser travailler des enfants ou de leur faire ou laisser exercer une activité sortant du cadre de leur éducation ou de leur formation.
+
+2\. Il est interdit en tout cas de faire ou laisser exercer par des enfants une activité qui peut avoir une influence désavantageuse sur le développement de l'enfant sur le plan pédagogique, intellectuel ou social, mettre en danger son intégrité physique, psychique ou morale ou qui est préjudiciable à tout aspect de son bien-être.
+
+#### Sous-section 3. - Dérogation individuelle.
+
+##### Art. 7.2
+
+1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Des dérogations individuelles à l'interdiction de faire ou de laisser exercer des activités par des enfants, peuvent uniquement être accordées pour permettre la participation d'enfants :
+
+1.1. comme acteur, figurant, chanteur, musicien ou danseur à des manifestations de caractère culturel, scientifique, éducatif ou artistique, comme entre autres :
+
+a) théâtre, opéra, opérette, ballet ou cirque;
+
+b) concours de danse, de musique ou de chant ou tout autre concours ou activité de scène;
+
+1.2. comme acteur, figurant, chanteur, musicien ou modèle à des prises de vue ou des enregistrements du son ou pour des émissions directes pour la radio ou la télévision, à des fins publicitaires ou non;
+
+1.3. comme figurant ou modèle à des sessions de photos, à des fins publicitaires ou non;
+
+1.4. comme modèle ou figurant à des défilés de mode et présentation de collections de vêtements.
+
+2\. Le Roi peut, par arrêté délibéré en Conseil des Ministres, limiter ou étendre l'énumération des cas dans lesquels des dérogations individuelles peuvent être accordées.
+
+##### Art. 7.3
+
+1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Les dérogations individuelles visées à l'article 7.2 peuvent uniquement être accordées à condition que :
+
+1.1. la personne qui demande la dérogation individuelle s'engage à veiller à ce que l'exercice de l'activité visée par l'article 7.2 pour laquelle la dérogation est demandée, n'ait pas d'influence désavantageuse sur le développement de l'enfant sur le plan pédagogique, intellectuel et social, ne mette pas en danger son intégrité physique, psychique et morale et ne soit pas préjudiciable à un aspect quelconque de son bien-être;
+
+1.2. le père, la mère ou le tuteur donnent préalablement leur accord par écrit en vue de l'exercice de cette activité;
+
+1.3. le demandeur visé au 1.1 s'engage à respecter les conditions générales supplémentaires que le Roi peut déterminer pour l'exercice de cette activité;
+
+1.4. le demandeur visé au 1.1 s'engage à respecter les conditions spécifiques supplémentaires qui peuvent être fixées dans la dérogation individuelle pour l'exercice de cette activité.
+
+2\. Ces dérogations individuelles ne sont accordées que pour une durée et pour une activité déterminées.
+
+##### Art. 7.4
+
+1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Dans les limites fixées par la présente section, le Roi détermine les conditions et modalités pour exercer les activités pour lesquelles une dérogation individuelle visée à l'article 7.2 peut être accordée, entre autres concernant l'heure de début et de fin, la durée et la fréquence de ces activités, ainsi que celles concernant les temps de repos.
+
+2\. Pour les activités d'un enfant jusque et y compris 6 ans, les dérogations individuelles ne sont accordées que lorsque ces activités sont exercées entre 8 et 19 heures.
+
+3\. Pour les activités d'un enfant de 7 jusque et y compris 11 ans, les dérogations individuelles ne sont accordées que lorsque ces activités sont exercées entre 8 et 22 heures.
+
+4\. Pour les activités d'un enfant de 12 à 15 ans ou qui est encore soumis à l'obligation scolaire à temps plein, les dérogations individuelles ne sont accordées que lorsque ces activités sont exercées entre 8 et 23 heures.
+
+##### Art. 7.5
+
+&lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Le Roi détermine les modalités de la procédure à suivre pour obtenir la dérogation individuelle visée à l'article 7.2.
+
+Il désigne les fonctionnaires qui peuvent accorder ces dérogations individuelles.
+
+##### Art. 7.6
+
+&lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Une dérogation individuelle ne peut être accordée que lorsqu'une demande écrite a été introduite à cette fin.
+
+La demande d'obtention d'une dérogation individuelle ne peut être introduite que par une personne physique qui a son domicile en Belgique et qui a la responsabilité de l'organisation d'une activité dans le cadre de laquelle l'enfant exercera une activité visée à l'article 7.2.
+
+##### Art. 7.7
+
+1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Une dérogation individuelle ne peut être accordée qu'après que la demande écrite ait été soumise à une enquête.
+
+2\. La dérogation individuelle n'est accordée que par écrit.
+
+3\. Il est créé, auprès du Ministère de l'Emploi et du Travail, un Conseil consultatif relatif au travail des enfants.
+
+Le Roi détermine la composition et le fonctionnement de ce Conseil.
+
+4\. Le Conseil consultatif relatif au travail des enfants a pour mission :
+
+4.1. de donner des avis ou de faire au Ministre de l'Emploi et du Travail et aux fonctionnaires compétents des propositions concernant les problèmes généraux du travail des enfants, soit d'initiative, soit à leur demande et sous forme de rapports exprimant les différents points de vue exposés en son sein;
+
+4.2. de fournir un avis au fonctionnaire compétent, à la demande de celui-ci, lors de l'examen de la demande et le suivi du respect de la dérogation individuelle accordée;
+
+4.3. de réunir la documentation relative au travail des enfants;
+
+4.4. de coordonner, d'assurer le suivi et de procéder à l'évaluation de la recherche dans le domaine du travail des enfants;
+
+4.5. d'établir un rapport annuel sur ces activités et sur l'application de la législation sur le travail des enfants. Ce rapport annuel doit être envoyé au Ministre de l'Emploi et du Travail et au Conseil national du Travail.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, étendre les missions de ce Conseil consultatif.
+
+5\. Lors de l'examen de la demande et le suivi du respect de la dérogation individuelle accordée, le fonctionnaire compétent peut se faire assister par un ou plusieurs experts ou par le Conseil consultatif relatif au travail des enfants.
+
+##### Art. 7.8
+
+1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Le fonctionnaire compétent fixe, dans la dérogation individuelle, des conditions spécifiques supplémentaires pour l'exécution des activités visées à l'article 7.2.
+
+2\. Ces conditions spécifiques supplémentaires portent entre autres sur :
+
+2.1. l'ensemble des conditions concernant l'heure de début et de fin, la durée et la fréquence des activités pour lesquelles une dérogation individuelle peut être accordée, y compris les préparations et les temps d'attente et de repos, ainsi que concernant les temps de déplacement;
+
+2.2. l'accompagnement et l'accueil de l'enfant pendant ces activités, y compris les préparations, les temps d'attente et de repos, ainsi que pendant les temps de déplacement;
+
+2.3. l'absence scolaire; une dérogation individuelle ne peut être accordée que si une telle absence est indispensable pour pouvoir exercer l'activité en question et après que l'avis du chef de l'établissement scolaire concerné ait été recueilli à ce sujet;
+
+2.4. l'obligation de soumettre l'enfant à un examen d'experts ou de prévoir un accompagnement par un expert, notamment quand la possibilité de créer ce qu'on appelle un enfant-vedette est réelle;
+
+2.5. la conclusion des assurances nécessaires;
+
+2.6. les mesures que le demandeur doit prendre pour éviter que l'exercice de l'activité pour laquelle la dérogation individuelle est accordée, n'ait une influence désavantageuse sur le développement de l'enfant sur le plan pédagogique, intellectuel et social, ne mette en danger son intégrité physique, psychique et morale ou ne soit préjudiciable à un aspect quelconque de son bien-être;
+
+2.7. la constatation du fait que l'enfant consent ou non à exercer l'activité, les opinions de l'enfant étant dûment prises en considération eu égard à son âge et à son degré de maturité.
+
+##### Art. 7.9
+
+&lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Il est interdit de faire ou laisser exercer par l'enfant une activité visée à l'article 7.2 avant que le demandeur ait obtenu du fonctionnaire compétent une dérogation individuelle écrite.
+
+La réponse du fonctionnaire compétent devra être remise endéans un délai d'un mois maximum à dater de la date de l'introduction de la demande conforme.
+
+##### Art. 7.10
+
+&lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; La dérogation individuelle écrite que le demandeur a reçue du fonctionnaire compétent, doit être produite par le demandeur ou la personne qu'il a désignée à cet effet, au moment et au lieu où l'enfant exerce l'activité, aux officiers de police judiciaire ou aux fonctionnaires visés à l'article 49, à leur demande.
+
+##### Art. 7.11
+
+&lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Il est interdit de faire des propositions, d'accomplir des actes juridiques ou de faire de la publicité, comme intermédiaire ou médiateur, que ce soit contre rémunération ou à titre gratuit, afin de promouvoir ou d'aider à réaliser des activités visées à l'article 7.2, pour lesquelles une dérogation individuelle n'est pas demandée.
+
+#### Sous-section 4. - Rémunération.
+
+##### Art. 7.12
+
+1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Est assimilée à la rémunération :
+
+1.1. l'argent ou les avantages évaluables en argent auxquels l'enfant a droit ou que l'enfant reçoit conformément aux dispositions de l'article 7.13.1 en raison de l'exécution d'une activité visée à l'article 7.2 pour laquelle une dérogation individuelle a été accordée;
+
+1.2. l'argent ou les avantages évaluables en argent que l'enfant, son père, sa mère ou son tuteur reçoivent en violation des dispositions de l'article 7.13.1 en raison de l'exécution d'une activité visée à l'article 7.2 pour laquelle une dérogation individuelle a été accordée;
+
+1.3. l'argent ou les avantages évaluables en argent auxquels l'enfant a droit ou que l'enfant, son père, sa mère ou son tuteur reçoivent en raison de l'exécution du travail par l'enfant, interdit sur base de l'article 7.1, ou en raison de l'exécution d'une activité par l'enfant pour laquelle aucune dérogation individuelle, visée à l'article 7.2, n'a été accordée.
+
+2\. Sans préjudice des dispositions des articles 7.13 et 7.14, la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs est applicable à la rémunération de l'enfant visée au 1.
+
+##### Art. 7.13
+
+1. &lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; La rémunération en espèces de l'enfant, visée à l'article 7.12 doit être virée par le demandeur de la dérogation individuelle visé à l'article 7.6, à un compte d'épargne individualisé, ouvert au nom de l'enfant auprès d'une institution financière. Les intérêts sont capitalisés. Tout autre mode de paiement est nul.
+
+2\. Cette rémunération doit être payée au plus tard le quatrième jour ouvrable du mois qui suit le mois dans lequel l'activité a été exécutée par l'enfant.
+
+3\. Il ne peut être disposé de ce compte d'épargne individualisé, tant en principal qu'en intérêts, par une autre personne que le titulaire.
+
+Sans préjudice des dispositions de la loi du 30 avril 1958 étendant la capacité du mineur à certains dépôts d'épargne, le Roi peut déterminer les cas, les conditions et les modalités selon lesquelles le père, la mère ou le tuteur peuvent débiter ce compte individualisé, seulement dans l'intérêt de l'enfant.
+
+##### Art. 7.14
+
+&lt;L 1992-08-05/42, art. 1, 008; En vigueur : 01-02-1993&gt; Hormis la rémunération en argent ou les avantages évaluables en argent, visés à l'article 7.12, seuls les cadeaux usuels, s'ils sont adaptés à l'âge, au développement et à la formation de l'enfant, peuvent être donnés à l'occasion de l'exécution de l'activité par l'enfant.
+
+#### Sous-section 5. [<sup>1</sup> Les travaux légers par un mineur âgé de 15 ans qui est encore soumis à l'obligation scolaire à temps plein]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-12-18/06, art. 122, 049; En vigueur : 09-01-2026&gt;
+
+##### Art. 7.15.
+
+[<sup>1</sup> Par dérogation à l'article 7.1.1, les mineurs âgés de 15 ans qui sont encore soumis à l'obligation scolaire à temps plein peuvent effectuer des travaux légers. Le Roi détermine les travaux qui doivent être considérés comme tels.
+
+Lorsqu'en application du présent article, un travail est effectué par des mineurs âgés de 15 ans qui sont encore soumis à l'obligation scolaire à temps plein, les conditions de travail et d'emploi suivantes doivent être respectées :
+
+1° le temps de travail est limité à 2 heures par jour d'enseignement et à 12 heures par semaine pour les travaux effectués durant la période scolaire et en dehors des heures d'enseignement scolaire; en aucun cas, le temps journalier de travail ne peut excéder 8 heures.
+
+Durant une période d'inactivité scolaire d'une semaine au moins, il est permis de travailler huit heures par jour et quarante heures par semaine.
+
+Lorsque le mineur concerné est employé par plusieurs employeurs, les jours de travail et les heures de travail effectués sont additionnés ;
+
+2° il est interdit de faire effectuer des heures supplémentaires au mineur concerné ;
+
+3° il est interdit de faire effectuer au mineur concerné un travail entre 20 heures et 6 heures ;
+
+4° le mineur concerné ne peut pas travailler sans interruption pendant plus de quatre heures et demie. Lorsque le temps de travail par jour excède quatre heures et demie, il est accordé une demi-heure de repos. Si ce temps excède six heures, le repos est d'une heure, une demi-heure devant être prise en une fois ;
+
+5° l'intervalle entre la fin et la reprise du travail doit comporter au minimum quatorze heures consécutives de repos ;
+
+6° il est interdit de laisser travailler le mineur concerné les dimanches ou les jours fériés ;
+
+7° outre le repos du dimanche, le mineur concerné doit se voir octroyer un jour de repos supplémentaire qui suit ou précède immédiatement le dimanche.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-12-18/06, art. 122, 049; En vigueur : 09-01-2026&gt;
+
+### Section 2. \_ Interdiction d'effectuer un travail déterminé.
+
+##### Art. 8
+
+[<sup>1</sup> Les jeunes travailleurs ne peuvent effectuer des travaux souterrains dans les mines, minières et carrières.]<sup>1</sup>
+
+Le Roi peut interdire aux jeunes travailleurs l'exécution de travaux souterrains autres que ceux qui sont exécutés dans les mines, minières et carrières ou la subordonner à l'observation de certaines mesures de protection.
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 115, 029; En vigueur : 20-05-2010&gt;
+
+##### Art. 9
+
+Les jeunes travailleurs ne peuvent effectuer des travaux dépassant leurs forces, menacant leur santé ou compromettant leur moralité. Le Roi peut déterminer les travaux qui doivent, en tout cas, être considérés comme tels.
+
+##### Art. 10
+
+Le Roi peut interdire [<sup>1</sup> ...]<sup>1</sup> aux jeunes travailleurs l'exécution de travaux dangereux ou insalubres ou la subordonner à l'observation de certaines mesures de protection.
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 116, 029; En vigueur : 20-05-2010&gt;
+
+##### Art. 10bis
+
+&lt;L 24-02-1978, art. 12&gt; Les personnes n'ayant pas atteint la limite d'âge fixée par ou en exécution de l'article 6 de la loi du 24 février 1978 relative au contrat de travail du sportif rémunéré, ne peuvent être occupées en vertu d'un contrat de travail du sportif rémunéré.
+
+## CHAPITRE III. \_ Temps de travail et de repos.
+
+### Section 1. \_ Repos du dimanche.
+
+##### Art. 11
+
+Il est interdit d'occuper des travailleurs le dimanche.
+
+##### Art. 12
+
+Les activités suivantes peuvent être exercées le dimanche, pour autant que l'exploitation normale de l'entreprise ne permette pas de les exercer un autre jour de la semaine :
+
+1° la surveillance des locaux affectés à l'entreprise;
+
+2° les travaux de nettoyage, de réparation et de conservation pour autant qu'ils soient nécessaires à la continuation régulière de l'exploitation, ainsi que les travaux autres que ceux de la production, nécessaires à la reprise de l'exploitation le jour suivant;
+
+3° les travaux entrepris en vue de faire face à un accident survenu ou imminent;
+
+4° les travaux urgents à effectuer aux machines ou au matériel et les travaux commandés par une nécessité imprévue;
+
+5° les travaux nécessaires pour empêcher la détérioration des matières premières ou des produits.
+
+Les activités visées à l'alinéa 1er peuvent être exercées tant par les travailleurs occupés dans l'entreprise que par d'autres travailleurs.
+
+Les dispositions du présent article ne portent pas préjudice à celles des articles 76 et 77 des lois sur les mines, minières et carrières, coordonnées par arrêté royal du 15 septembre 1919.
+
+##### Art. 13
+
+Les travailleurs peuvent être occupés le dimanche dans les entreprises ou pour l'exécution des travaux désignés par le Roi.
+
+##### Art. 14
+
+§ 1er. Dans les magasins de détail autres que ceux où le travail du dimanche a été autorisé en exécution de l'article 13, les travailleurs peuvent être occupés au travail le dimanche de 8 heures du matin à midi.
+
+Toutefois, le Roi peut dans des communes déterminées :
+
+1° interdire cette occupation au travail le dimanche ou en limiter la durée;
+
+2° autoriser cette occupation au travail le dimanche pour une durée de six semaines au plus par an, à d'autres heures ou pendant un plus grand nombre d'heures que ce qui est prévu à l'alinéa 1er, lorsque des circonstances particulières l'exigent.
+
+§ 2. [<sup>1</sup> Dans les stations balnéaires et climatiques ainsi que dans les centres touristiques, les travailleurs peuvent être occupés au travail le dimanche dans les magasins de détail et dans les salons de coiffure, à condition que l'occupation du dimanche en application du présent paragraphe soit limitée à 39 dimanches par année civile pour chaque travailleur individuel.
+
+Le Roi détermine ce qu'il faut entendre par stations balnéaires, stations climatiques et centres touristiques, y compris les conditions et la procédure de reconnaissance des stations balnéaires, des stations climatiques et des centres touristiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-10-11/19, art. 2, 041; En vigueur : 10-11-2018&gt;
+
+##### Art. 15
+
+Le Roi peut permettre que les travailleurs soient occupés pendant douze dimanches par an, sans qu'il puisse en aucun cas être fait usage de cette faculté plus de quatre semaines consécutives :
+
+1° dans les industries qui s'exercent seulement pendant une partie de l'année ou qui sont exploitées d'une manière plus intense en certaines saisons;
+
+2° dans les industries qui s'exercent en plein air et dans lesquelles le travail peut être entravé par les intempéries.
+
+L'employeur qui fait travailler le dimanche en application de l'alinéa 1er, en avertit dans les vingt-quatre heures, le fonctionnaire désigné par le Roi.
+
+##### Art. 16
+
+Les travailleurs qui travaillent le dimanche en application des articles 12, 13, 14 et 15, ont droit à un repos compensatoire au cours des six jours qui suivent ce dimanche.
+
+Le repos doit être d'une journée entière si le travail du dimanche a duré plus de quatre heures et d'une demi-journée au moins, s'il n'a pas excédé quatre heures; dans ce dernier cas, le repos compensatoire doit être accordé avant ou après 13 heures et, ce jour-là, la durée du travail ne peut excéder cinq heures.
+
+Le Roi peut prescrire un autre régime de repos compensatoire. Il ne peut toutefois modifier la durée du repos compensatoire prévue par l'alinéa 2, si ce n'est pour la fixer à la durée réelle du travail effectué le dimanche.
+
+##### Art. 17
+
+&lt;L 1987-03-17/33, art. 19, 005; En vigueur : 01-07-1987&gt; Les travailleurs qui effectuent le travail en équipes successives peuvent être occupés le dimanche à condition que leur travail soit interrompu une fois par semaine pendant vingt-quatre heures consécutives dont dix-huit au moins coïncident avec le dimanche.
+
+##### Art. 18
+
+Le régime des temps de repos est fixé par voie de règlement :
+
+1° pour les entreprises exploitées par l'Etat;
+
+2° pour les entreprises de chemins de fer et de chemins de fer vicinaux; ces règlements requièrent l'approbation du Ministre qui a les Communications dans ses attributions.
+
+### Section 2. - Durée du travail.
+
+##### Art. 19
+
+La durée du travail des travailleurs ne peut excéder huit heures par jour ni 40 heures par semaine.
+
+On entend par durée du travail le temps pendant lequel le personnel est à la disposition de l'employeur.
+
+A la demande de la Commission paritaire compétente, le Roi peut déterminer le temps pendant lequel le personnel est à la disposition de l'employeur, en ce qui concerne :
+
+1° les entreprises de transport;
+
+2° les travailleurs occupés à des travaux de transport;
+
+3° les travailleurs occupés à des travaux essentiellement intermittents.
+
+En ce qui concerne les travailleurs des entreprises de navigation maritime et des entreprises de batellerie, le Roi peut déterminer, sur proposition de la Commission paritaire compétente, les modalités d'application des dispositions prévues au premier alinéa.
+
+La durée du travail des travailleurs occupés dans les mines, minières et carrières comprend le temps normalement nécessaire pour descendre ou monter au lieu de travail et pour en remonter ou en redescendre.
+
+##### Art. 19bis
+
+&lt;L 1985-01-22/30, art. 145, 002&gt; Le temps consacré par le jeune travailleur encore soumis à l'obligation scolaire à temps partiel visée à l'article 1er, § 1er, de la loi du 29 juin 1983 concernant l'obligation scolaire, à suivre un enseignement à horaire réduit ou une formation reconnue comme répondant aux exigences de l'obligation scolaire, est compté comme temps de travail.
+
+##### Art. 20
+
+§ 1er. La limite quotidienne de la durée du travail peut être portée à neuf heures lorsque le régime de travail comporte par semaine un demi-jour, un jour ou plus d'un jour de repos, autre que le dimanche.
+
+§ 2. Elle peut être portée à dix heures pour les travailleurs qui, en raison de l'éloignement du lieu de travail, ne peuvent pas rejoindre chaque jour leur domicile ou lieu de résidence.
+
+On entend par travailleurs qui ne peuvent rejoindre chaque jour leur domicile ou lieu de résidence, ceux qui doivent s'en absenter pendant plus de quatorze heures.
+
+Le calcul des heures d'absences est établi à partir du domicile ou lieu de résidence sur la base des horaires des moyens de transport en commun dont le travailleur peut disposer.
+
+Le Roi peut modifier la limite quotidienne prévue au premier alinéa du présent paragraphe. Il peut aussi étendre le régime qui y est prévu à tous les travailleurs d'un chantier ou d'un atelier, lorsque la majorité des travailleurs qui y sont occupés, ne peuvent rejoindre chaque jour leur domicile ou lieu de résidence.
+
+##### Art. 20bis
+
+&lt;L 1985-01-22/30, art. 76, 002&gt; (§ 1. [<sup>1</sup> Les limites fixées à l'article 19 peuvent être dépassées via le règlement de travail ou via une convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires.]<sup>1</sup>
+
+Le règlement de travail et, le cas échéant, la convention collective de travail indiquent au moins :
+
+1° [<sup>1</sup> La durée hebdomadaire moyenne de travail ainsi que le nombre d'heures de travail à prester sur la période de référence dont la durée est d'une année civile, à moins qu'il ne soit fixé une autre période de douze mois. Il ne peut être dérogé à cette période de référence d'une année civile ou à une autre période fixée de douze mois successifs, ni par règlement de travail, ni par convention collective de travail;]<sup>1</sup>
+
+2° le nombre d'heures qui pourront être prestées en decà ou au-delà de la limite journalière de travail fixée dans l'horaire mentionné dans le règlement de travail, sans que les heures prestées en moins ou en plus puissent excéder deux heures et sans que la durée journalière de travail puisse excéder neuf heures;
+
+3° le nombre d'heures qui pourront être prestées en decà ou au-delà de la limite hebdomadaire de travail fixée dans l'horaire mentionné dans le règlement de travail, sans que les heures prestées en plus ou en moins puissent excéder cinq heures et sans que la durée hebdomadaire de travail puisse excéder quarante-cinq heures.
+
+Les nouveaux horaires qui résultent de l'application de l'alinéa 1 doivent faire l'objet d'une adaptation du règlement de travail conformément aux principes prévus à l'alinéa 2 selon les dispositions de l'article 6, 1°, de la loi du 8 avril 1965 instituant les règlements de travail.) &lt;L 1994-12-21/31, art. 78, 011; En vigueur : 02-01-1995&gt;
+
+§ 2. Les jours de repos prévus par la loi du 4 janvier 1974 relative aux jours fériés et les périodes de suspension de l'exécution du contrat de travail prévues par la loi du 3 juillet 1978 relative aux contrats de travail, comptent comme temps de travail pour le calcul de la durée du travail à respecter sur l'année.
+
+§ 3. Il ne sera pas tenu compte, dans le calcul de la durée annuelle du travail, des dépassements des limites fixées par l'article 19 résultant de l'application de l'article 26, § 1er, 1° et 2°.
+
+(§ 4. Le nombre d'heures de travail à prester sur l'année peut être dépassé à concurrence de 65 heures par année civile en cas d'application des articles 25 et 26, § 1er, 3°.
+
+Ce dépassement ne peut être autorisé que par une convention collective de travail conclue au sein de la commission paritaire lorsqu'il n'est pas possible de procéder à des engagements complémentaires.) &lt;L 1993-06-10/32, art. 10, 009; En vigueur : 10-07-1993&gt;
+
+----------
+
+(1)&lt;L 2017-03-05/03, art. 2, 038; En vigueur : 01-02-2017&gt;
+
+##### Art. 20bis/1.
+
+[<sup>1</sup> § 1er. Le règlement de travail, peut autoriser que la limite quotidienne de la durée du travail d'un travailleur à temps plein soit portée à 9 heures et demie s'il effectue ses prestations normales à temps plein durant quatre jours par semaine. Si les prestations normales à temps plein sont organisées de manière à ce que la durée hebdomadaire effective du travail dépasse 38 heures avec un maximum de 40 heures, seule une convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires peut autoriser que la limite quotidienne susmentionnée soit portée à un nombre d'heures égal à la durée hebdomadaire effective du travail divisée par quatre pour le travailleur qui effectue ses prestations normales à temps plein durant quatre jours par semaine.
+
+La dérogation à la limite quotidienne de la durée du travail visée à l'alinéa 1er ne peut être appliquée qu'après la demande écrite préalable du travailleur et après la conclusion de la convention visée à l'alinéa 4. La demande porte sur une période de maximum six mois et est renouvelable.
+
+La demande du travailleur visée à l'alinéa 2, ou une copie de celle-ci, doit, durant la période sur laquelle elle porte, se trouver à l'endroit où le règlement de travail peut être consulté en application de l'article 15 de la loi du 8 avril 1965 instituant les règlements de travail. Elle doit ensuite être conservée par l'employeur durant une période de cinq ans à compter de la fin de la période sur laquelle elle porte.
+
+Après accord de l'employeur, une convention conclue entre l'employeur et le travailleur détermine le début et la fin de la journée de travail, le moment et la durée des intervalles de repos et les jours d'interruption régulière du travail qui sont applicables pendant le régime de travail visé par le présent article. La convention mentionne également les dates de début et de fin de la période durant laquelle le régime de travail visé par le présent article est applicable, sans dépasser la période maximale de six mois visée à l'alinéa 2. Cette convention est conclue par écrit, au plus tard au moment où le travailleur commence à travailler dans le cadre du régime de travail introduit sur la base du présent article.
+
+Une copie de la convention visée à l'alinéa 4 est transmise au travailleur. Lorsque le Comité pour la prévention et la protection au travail ou, à défaut de celui-ci, la délégation syndicale, en fait la demande, une copie de cette convention leur est également remis.
+
+La convention visée à l'alinéa 4, ou une copie de celle-ci, doit, durant la période sur laquelle elle porte, se trouver à l'endroit où le règlement de travail peut être consulté en application de l'article 15 de la loi du 8 avril 1965 précitée. Elle doit ensuite être conservée durant une période de cinq ans à compter de la date de fin qui y est indiquée.
+
+L'employeur qui refuse de donner suite à la demande visée à l'alinéa 2, doit motiver ce refus par écrit et le communiquer au travailleur endéans le mois.
+
+§ 2. La demande du travailleur visée au § 1er, alinéa 2, ne peut donner lieu à un traitement défavorable de la part de l'employeur.
+
+L'employeur ne peut faire un acte tendant à mettre fin unilatéralement à la relation de travail du travailleur qui introduit une demande visée au § 1er, alinéa 2, sauf pour des motifs étrangers à la demande.
+
+§ 3. Le travailleur qui, en application du présent article, effectue ses prestations normales à temps plein durant quatre jours par semaine ne peut effectuer des heures supplémentaires volontaires au sens de l'article 25bis de cette même loi, les autres jours de la semaine.
+
+§ 4. Par dérogation aux articles 11 et 12 de la loi du 8 avril 1965 précitée, les dispositions de la convention collective de travail conclue en vue de l'introduction d'un régime de travail visé au présent article, qui modifient le règlement de travail, sont insérées dans le règlement de travail à partir de l'enregistrement de cette convention collective de travail au greffe de la Direction générale des Relations collectives de travail du Service public fédéral Emploi, Travail et Concertation Sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-10-03/06, art. 5, 047; En vigueur : 20-11-2022&gt;
+
+##### Art. 20ter
+
+[<sup>1</sup> § 1er. Une convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, ou le règlement de travail peut autoriser l'instauration d'un horaire flottant permettant le dépassement des limites fixées à l'article 19.
+
+L'horaire flottant comporte des périodes fixes pendant lesquelles le travailleur doit obligatoirement être présent et à la disposition de l'employeur au sens de l'article 19 et des périodes variables dans lesquelles le travailleur choisit lui-même le début et la fin de sa journée de travail et de ses pauses, sans préjudice de l'organisation de travail effective.
+
+§ 2. La convention collective de travail ou, le cas échéant, le règlement de travail indiquent au moins :
+
+1° la durée hebdomadaire moyenne de travail à respecter sur la période de référence, dont la durée est fixée à trois mois calendrier sauf si la convention collective de travail ou le règlement de travail fixent une autre durée qui ne peut toutefois excéder un an;
+
+2° l'horaire de présence obligatoire du travailleur dans l'entreprise, ci-après appelé plage fixe;
+
+3° l'horaire des périodes variables, ci-après appelées plages mobiles, pendant lesquelles le travailleur choisit lui-même son heure d'arrivée, de départ et ses pauses. La durée journalière de travail ne peut excéder neuf heures;
+
+4° le nombre d'heures qui pourront être prestées en deçà ou au-delà de la limite hebdomadaire moyenne de travail fixée dans l'entreprise, sans que la durée hebdomadaire de travail ne puisse excéder 45 heures;
+
+5° le nombre d'heures prestées en moins ou en plus par rapport à la durée hebdomadaire moyenne et qui, à la fin de la période de référence, pourront faire l'objet d'un report, sans que ce nombre puisse être supérieur à douze heures.
+
+Les douze heures prévues au 5° peuvent être augmentées par convention collective de travail.
+
+§ 3. Les jours de repos prévus par la loi du 4 janvier 1974 relative aux jours fériés et les périodes de suspension de l'exécution du contrat de travail prévues par la loi du 3 juillet 1978 relative aux contrats de travail, comptent comme temps de travail pour le calcul de la durée du travail à respecter sur la période de référence; ces jours sont assimilés en tenant compte de la durée journalière moyenne de travail renseignée dans le règlement de travail;
+
+§ 4. Les limites fixées au § 2, 3° et 4°, peuvent être dépassées en cas d'application des articles 25, 25bis et 26.
+
+Si, à la fin de la période de référence, le travailleur a presté plus d'heures ou moins d'heures que la durée hebdomadaire moyenne de travail en raison de la survenance d'un cas de force majeure qui l'empêche de travailler pendant une partie de la période de référence, la récupération de ces heures pourra se faire dans les trois mois qui suivent la fin de la période de référence.
+
+§ 5. En cas d'application d'un horaire flottant l'employeur prévoit un système de suivi du temps qui pour chaque travailleur concerné comprend les mentions suivantes :
+
+\- l'identité du travailleur;
+
+\- par jour, la durée de ses prestations de travail;
+
+\- et lorsqu'il s'agit d'un travailleur à temps partiel à horaire fixe, le début et la fin de ses prestations ainsi que ses pauses.
+
+Le système de suivi du temps conserve ces données pendant la période de référence en cours et doit pouvoir être consulté par chaque travailleur occupé sur la base d'un horaire flottant, ainsi que par le fonctionnaire désigné par le Roi.
+
+Les données consignées par le système de suivi du temps de travail doivent être conservées durant une période de cinq ans après la fin du jour auquel se rapportent les données.
+
+L'employeur doit veiller à ce que le travailleur, dans la période de référence visée au § 2, 1°, puisse prendre connaissance du nombre précis d'heures qu'il a prestées sur la base d'un horaire flottant, en plus ou en moins par rapport à la durée hebdomadaire moyenne de l'horaire flottant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-05/03, art. 68, 038; En vigueur : 01-02-2017&gt;
+
+##### Art. 20quater.
+
+[<sup>1</sup> § 1er. Le règlement de travail, peut prévoir qu'à la demande préalable et écrite du travailleur à temps plein et après la conclusion de la convention, visée à l'alinéa 2, 2°, selon les prescriptions prévues par le paragraphe 5, il est possible d'appliquer un régime hebdomadaire alterné qui dépasse les limites fixées à l'article 19. La demande concerne une période de six mois au maximum et est renouvelable.
+
+Pour l'application du présent article, on entend par:
+
+1° régime hebdomadaire alterné: un régime de travail organisé selon un cycle qui s'étend sur une période de deux semaines consécutives pendant laquelle les prestations de la première semaine sont compensées par les prestations de la seconde semaine, afin de respecter en moyenne la durée hebdomadaire normale de travail. Par dérogation, pendant le 3ème trimestre de l'année, le cycle peut s'étendre sur une période de quatre semaines consécutives pendant laquelle la durée hebdomadaire normale de travail doit être respectée en moyenne;
+
+2° cycle: la succession d'horaires journaliers de travail dans un ordre fixe déterminé dans une convention écrite entre l'employeur et le travailleur et dont les prestations s'inscrivent dans le cadre fixé dans le règlement de travail pour l'application du régime hebdomadaire alterné;
+
+3° semaine: une période de sept jours consécutifs, qui ne va pas nécessairement du lundi au dimanche inclus.
+
+§ 2. Par dérogation au paragraphe 1er, alinéa 2, 1°, et suite à un évènement imprévu dans le chef du travailleur les parties peuvent convenir que le cycle s'étendra sur une période de quatre semaines consécutives. Dans ce cas, la durée hebdomadaire normale de travail doit être respectée en moyenne endéans ce cycle de quatre semaines. Cette dérogation doit faire l'objet d'une demande écrite et motivée du travailleur qui indique l'évènement imprévu dans son chef et d'une convention écrite entre l'employeur et le travailleur qui est annexé à la convention visée au paragraphe 1er, alinéa 2, 2°. Cette convention précise le cycle convenu étalé sur une période de quatre semaines consécutives, ainsi que la période pendant laquelle elle s'applique et doit être conclue au plus tard au moment où le travailleur commence à travailler dans le cadre de cette dérogation.
+
+§ 3. Le règlement de travail indique au moins les éléments suivants:
+
+1° la durée hebdomadaire moyenne de travail à respecter dans le cycle;
+
+2° les jours de la semaine pendant lesquels des prestations de travail peuvent être fixées;
+
+3° la plage journalière dans laquelle des prestations de travail peuvent être fixées:
+
+4° la durée du travail journalière minimale et maximale, sans que la durée journalière de travail puisse excéder neuf heures;
+
+5° la durée du travail hebdomadaire minimale et maximale, sans que la durée de travail puisse excéder 45 heures par semaine.
+
+§ 4. L'employeur qui refuse de donner suite à la demande du travailleur, visée au paragraphe 1er, alinéa 1er, doit motiver ce refus par écrit et le communiquer au travailleur endéans le mois.
+
+§ 5. Si l'employeur accède à la demande du travailleur, la convention écrite visée au paragraphe 1er, alinéa 2, 2°, est conclue au plus tard au moment où le travailleur commence à travailler dans le cadre du cycle convenu dans le cadre du régime hebdomadaire alterné. Cette convention précise également les dates de début et de fin de la période pendant laquelle le régime hebdomadaire alterné est appliqué, sans dépasser la durée maximale de six mois visée au paragraphe 1er, alinéa 1er.
+
+En outre, en cas d'application d'un régime hebdomadaire alterné, il doit pouvoir être déterminé à tout moment quand commence le cycle.
+
+Le travailleur a le droit de mettre anticipativement fin au régime hebdomadaire alterné afin de revenir à son régime de travail d'origine, moyennant notification à l'employeur deux semaines avant le début d'un nouveau cycle.
+
+§ 6. La demande du travailleur, visée au paragraphe 1er, alinéa 1er, ou une copie de celle-ci, est tenue à l'endroit où le règlement du travail peut être consulté, en application de l'article 15 de la loi du 8 avril 1965 précitée, durant la période sur laquelle elle porte. Ensuite, elle doit être conservée par l'employeur durant une période de cinq ans à compter de la fin de la période sur laquelle elle porte.
+
+Une copie de la convention, visée au paragraphe 1er, alinéa 2, 2°, est transmise au travailleur. Lorsque le Comité pour la prévention et la protection au travail ou, à défaut de celui-ci, la délégation syndicale, en fait la demande, une copie de cette convention leur est également remis.
+
+La convention, visée au paragraphe 1er, alinéa 2, 2°, ou une copie de celle-ci, doit, durant la période sur laquelle elle porte, se trouver à l'endroit où le règlement de travail peut être consulté en application de l'article 15 de la loi du 8 avril 1965 précitée. Elle doit ensuite être conservée durant une période de cinq ans à compter de la date de fin qui y est mentionnée.
+
+Lorsque les parties ont convenu d'appliquer un régime hebdomadaire adapté, visé au paragraphe 2, la convention visée au paragraphe 2 ou une copie de celle-ci doit se trouver à l'endroit où le règlement de travail peut être consulté en application de l'article 15 de la loi du 8 avril 1965 précitée durant toute la période où elle est applicable. Il doit ensuite être conservé pendant une période d'un an à dater du jour où les horaires qu'il contient cessent d'être en vigueur.
+
+§ 7. Les jours de repos prévus par la loi du 4 janvier 1974 relative aux jours fériés et les périodes de suspension de l'exécution du contrat de travail prévues par la loi du 3 juillet 1978 relative aux contrats de travail, comptent comme temps de travail pour le calcul de la durée hebdomadaire moyenne de travail à respecter durant le cycle.
+
+§ 8. Les limites fixées au paragraphe 3, 4° et 5°, peuvent être dépassées en cas d'application des articles 25, 25bis et 26.
+
+L'application de l'article 25bis n'est autorisée que pendant les semaines où un dépassement de la durée hebdomadaire normale du travail est prévu en application de cet article.
+
+§ 9. La demande du travailleur visée au paragraphe 1er, alinéa 1er ne peut donner lieu à un traitement défavorable de la part de l'employeur.
+
+L'employeur ne peut prendre aucune mesure tendant à mettre fin unilatéralement à la relation de travail du travailleur qui fait une demande visée au paragraphe 1er, alinéa 1er, sauf pour des motifs étrangers à cette demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-10-03/06, art. 6, 047; En vigueur : 20-11-2022&gt;
+
+##### Art. 21
+
+&lt;L 1989-12-22/31, art. 189, 006; En vigueur : 09-01-1990&gt; La durée de chaque période de travail ne peut être inférieure à trois heures. Cette durée peut être modifiée par le Roi ou par une convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires.
+
+Sans préjudice des dispositions de l'alinéa 1er, le Roi peut soumettre à certaines conditions la répartition des prestations d'une même journée en plusieurs périodes de travail.
+
+##### Art. 22
+
+&lt;ARN225 07-12-1983, art. 1er&gt; Les limites fixées (aux articles 19 et 20 , et en vertu de l'article 20bis) peuvent être dépassées : &lt;L 1985-01-22/30, art. 77, 002&gt;
+
+1° lorsque le travail est effectué par équipes successives;
+
+2° pour l'exécution de travaux qui ne peuvent être interrompus en raison de leur nature;
+
+3° pour l'exécution des travaux d'inventaire et de bilan, à condition que ces limites ne soient pas dépassées pendant plus de sept jours par travailleur et par année civile.
+
+##### Art. 23
+
+&lt;ARN225 07-12-1983, art. 2&gt; Le Roi peut autoriser le dépassement des limites fixées (aux articles 19 et 20, et en vertu de l'article 20bis) dans les branches d'activité, les catégories d'entreprises ou les branches d'entreprises où ces limites ne peuvent être appliquées. &lt;L 1985-01-22/30, art. 78, 002&gt;
+
+##### Art. 24
+
+(§ 1er. Le Roi peut autoriser le dépassement des limites fixées (aux articles 19 et 20 , et en vertu de l'article 20bis): &lt;L 1985-01-22/30, art. 79, 002&gt;
+
+1° pour les travailleurs occupés à des travaux préparatoires ou complémentaires qui doivent nécessairement être effectués en dehors du temps assigné au travail général de production; le Roi détermine ce qu'il faut entendre par travaux préparatoires ou complémentaires;
+
+2° pour les travailleurs occupés à des travaux de transport, de chargement et de déchargement.) &lt;ARN225 07-12-1983, art. 3&gt;
+
+§ 2. Le Roi peut fixer des limites supérieures à celles fixées (aux articles 19 et 20 , et en vertu de l'article 20bis) à l'égard des travailleurs qui sont occupés dans des branches d'activités dans lesquelles : &lt;L 1985-01-22/30, art. 79, 002&gt;
+
+1° le temps nécessaire à l'exécution du travail ne peut, en raison de sa nature même, être déterminé d'une manière précise;
+
+2° les matières mises en oeuvre sont susceptibles d'altération très rapide.
+
+##### Art. 25
+
+&lt;ARN225 07-12-1983, art. 4&gt; En vue de faire face à un surcroit extraordinaire de travail, les limites fixées par ou en vertu des dispositions de la présente section peuvent être dépassées en vertu d'une autorisation accordée par le fonctionnaire désigné par le Roi, moyennant l'accord de la délégation syndicale de l'entreprise, s'il en existe une.
+
+##### Art. 25bis
+
+[<sup>1</sup> § 1er. A l'initiative du travailleur et avec son accord les limites fixées par ou en vertu de la présente section peuvent être dépassées de maximum [<sup>2</sup> 360 heures]<sup>2</sup> par année civile. Ce dépassement n'est possible que dans la mesure où l'employeur souhaite faire prester ces heures.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. [<sup>2</sup> L'accord du travailleur est constaté de manière explicite, préalable et écrite, et pour une durée déterminée d'un an. L'accord est chaque fois tacitement renouvelé pour une nouvelle période d'un an. L'accord peut être résilié à tout moment, par écrit, par chacune des parties, moyennant le respect d'un délai de préavis d'un mois qui prend cours le jour suivant le préavis.
+
+L'employeur ne peut pas obliger le travailleur à accepter un tel accord, ni le soumettre à un traitement défavorable en raison de son refus d'accepter un tel accord]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 3. La rémunération supplémentaire déterminée à l'article 29, § 1er, ne s'applique pas sur 240 heures des 360 heures visées au paragraphe 1er.
+
+§ 4. Cet article ne s'applique pas aux travailleurs qui réduisent leurs prestations de travail en application du chapitre IV, section 5, de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales.
+
+Un travailleur à temps partiel, en dehors du cadre du chapitre IV, section 5, de la loi de redressement du 22 janvier 1985 précitée, peut faire application du présent article uniquement dans le cadre d'un surcroît temporaire du travail et à condition de travailler depuis au moins trois ans, sur la base d'un contrat de travail à temps partiel tel que visé à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+L'alinéa 2 n'est pas d'application pour les travailleurs à temps partiel qui étaient liés à la date de publication au Moniteur Belge de la loi du 18 mai 2026 portant modifications relatives au régime des heures supplémentaires volontaires et du Code pénal social, avec l'employeur concerné, par un accord tel que visé dans le présent article.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-05/03, art. 4, 038; En vigueur : 01-02-2017&gt;
+
+(2)&lt;L 2026-05-18/09, art. 2, 051; En vigueur : 01-04-2026&gt;
+
+##### Art. 26
+
+&lt;ARN225 07-12-1983, art. 5&gt; § 1er. Les limites fixées par ou en vertu des dispositions de la présente section peuvent être dépassées par les travailleurs de l'entreprise pour l'exécution :
+
+1° de travaux entrepris en vue de faire face à un accident survenu ou imminent;
+
+2° de travaux urgents à effectuer aux machines ou au matériel, pour autant que l'exécution en dehors des heures de travail soit indispensable pour éviter une entrave sérieuse à la marche normale de l'exploitation.
+
+3° de travaux commandés par une nécessité imprévue moyennant l'accord préalable de la délégation syndicale de l'entreprise, ou en cas d'impossibilité de demander cet accord, son information ultérieure, et dans les deux cas l'information du fonctionnaire désigné par le Roi.
+
+§ 2. Les limites fixées par ou en vertu des dispositions de la présente section peuvent être dépassées pour l'exécution pour le compte de tiers :
+
+1° de travaux entrepris en vue de faire face à un accident survenu ou imminent;
+
+2° de travaux urgents à effectuer aux machines ou au matériel.
+
+§ 3. Les dispositions du présent article ne portent pas préjudice à celles des articles 76 et 77 des lois sur les mines, minières et carrières, coordonnées par arrêté royal du 15 septembre 1919.
+
+##### Art. 26bis
+
+&lt;ARN225 07-12-1983, art. 6&gt; (§ 1. Les dépassements visés aux articles 22, 1° et 2°, 23, 24, 25 et 26, § 1, 3°, et § 2, ne sont autorisés qu'à condition que, pendant une période d'un trimestre, il ne soit pas travaillé en moyenne plus de 40 heures par semaine.
+
+Cette disposition est aussi applicable aux dépassements commis en infraction aux dispositions de la présente loi ou à d'autres dispositions légales.
+
+La période de référence d'un trimestre peut être prolongée à un an maximum :
+
+\- par le Roi;
+
+\- par convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires;
+
+\- ou, à défaut, par le règlement de travail (....) &lt;L 1996-07-26/32, art. 38, 015; En vigueur : indéterminée )
+
+(Elle ne peut toutefois être prolongée que par le Roi ou par convention collective de travail rendue obligatoire par le Roi lorsqu'elle s'applique à des travailleurs de nuit. Pour l'application du présent alinéa, il faut entendre par travailleur de nuit, celui occupé habituellement dans un régime de travail visé à l'article 38, § 4.) &lt;L 1998-12-04/31, art. 5, 1°, 019; En vigueur : 27-12-1998&gt;
+
+En cas d'application de la dérogation prévue à l'article 20bis, la période visée à l'alinéa 1 est, pour l'application des articles 25 et 26, la même que celle fixée par la convention collective de travail ou le règlement de travail.
+
+Il ne sera pas tenu compte dans le calcul de cette moyenne des dépassements des limites fixées par les articles 19 et 20 qui résultent de l'application [<sup>2</sup> des articles 25bis et]<sup>2</sup> 26, § 1, 1° et 2°.
+
+Les jours de repos prévus par la loi du 4 janvier 1974 relative aux jours fériés, ainsi que par ou en vertu d'une convention collective de travail, les périodes de suspension de l'exécution du contrat de travail prévues par la loi du 3 juillet 1978 relative aux contrats de travail et les jours de repos accordés en application de l'article 29, § 4, de la présente loi comptent comme temps de travail pour le calcul de la durée moyenne de travail visée à l'alinéa 1.
+
+[<sup>1</sup> Alinéa 8 abrogé.]<sup>1</sup>
+
+On entend par trimestre, au sens du présent article, la période couverte par les paies dont le jour de clôture se situe dans le même trimestre civil.) &lt;L 1994-12-21/31, art. 79, 011; En vigueur : 02-01-1995&gt;
+
+[<sup>1</sup> § 1erbis. [<sup>2</sup> A aucun moment dans le courant de la période de référence visée au paragraphe 1er, la durée totale du travail presté ne peut dépasser de 143 heures la durée moyenne de travail autorisée sur la même période de référence, multipliée par le nombre de semaines ou de fractions de semaine déjà écoulées dans cette période de référence.
+
+Une convention collective de travail rendue obligatoire par le Roi peut augmenter cette limite de 143 heures.
+
+[<sup>3</sup> ...]<sup>3</sup>.]<sup>2</sup>]<sup>1</sup>
+
+§ 2. Les dépassements visés à l'article 22, 3°, ne sont autorisés qu'à condition que des repos compensatoires correspondant aux dépassements de la limite hebdomadaire de travail fixée à l'article 19 soient octroyés dans les treize semaines qui suivent ces dépassements.
+
+§ 2bis. [<sup>1</sup> A la demande du travailleur, 91 heures par année civile, prestées en vertu de l'article 25 ou de l'article 26, § 1er, 3°, ne seront pas comptées dans le calcul de la moyenne prévue au paragraphe 1er et ne seront pas prises en compte pour le respect de la limite prévue au paragraphe 1erbis.
+
+Cette demande du travailleur doit être formulée avant l'échéance de la période de paie au cours de laquelle ces prestations ont été effectuées.
+
+Ces 91 heures peuvent être portées à 130 heures ou à 143 heures selon les procédures fixées par le Roi. Dans le cadre de ces procédures, le Roi peut autoriser de déroger aux articles 11 et 12 de la loi du 8 avril 1965 instituant les règlements de travail. Dans l'application de ces procédures, une attention particulière sera accordée à l'emploi, à la santé et à la sécurité des travailleurs et à la qualité du travail.]<sup>1</sup>
+
+§ 3. (En cas d'application des articles 25 et 26, § 2, et pour autant qu'il ne soit pas fait usage simultanément de la dérogation visée à l'article 20bis, la moyenne sur la période prévue au § 1er peut être dépassée à concurrence de 65 heures ou d'un nombre d'heures supérieur fixé par le Roi, à condition que des repos compensatoires soient octroyés dans les trois mois ou une période plus longue fixée par le Roi, qui suit la période visée au § 1er, au cours de laquelle ce dépassement s'est produit). &lt;L 1985-01-22/30, art. 80, 002&gt;
+
+[<sup>1</sup> Dans le cas où un maximum supérieur à 65 heures a été fixé en vertu de l'alinéa précédent, le Roi peut augmenter la limite fixée au paragraphe 1erbis.]<sup>1</sup>
+
+Le repos compensatoire doit être octroyé à raison d'un jour complet de repos par dépassement atteignant la durée journalière de travail fixée à l'article 19. Il doit coïncider avec un jour durant lequel le travailleur aurait normalement travaillé s'il n'avait pas bénéficié d'un repos compensatoire en application du présent article et compte comme temps de travail pour le calcul de la moyenne visée au § 1er.
+
+Dans les cas où il ne peut être octroyé dans la période visée à l'alinéa 1er, (en raison des dispositions de l'alinéa 3), le repos compensatoire est octroyé dans les trois mois qui suivent la fin de la période pendant laquelle le repos compensatoire n'a pu être octroyé. Toutefois, si la durée de cette dernière période dépasse six mois, le repos compensatoire n'est plus octroyé. &lt;L 2005-07-03/46, art. 16, 024; En vigueur : 19-07-2005&gt;
+
+----------
+
+(1)&lt;L 2013-08-17/26, art. 3, 035; En vigueur : 01-10-2013 (voir AR 2013-09-11/02, art. 8). Dispositions transitoires : art. 4 &gt;
+
+(2)&lt;L 2017-03-05/03, art. 5, 038; En vigueur : 01-02-2017&gt;
+
+(3)&lt;L 2026-05-18/09, art. 3, 051; En vigueur : 01-04-2026&gt;
+
+##### Art. 26ter
+
+(abrogé) &lt;L 1996-07-26/32, art. 39, 015; En vigueur : indéterminée &gt;
+
+##### Art. 27
+
+&lt;L 1998-12-04/31, art. 6, 019; En vigueur : 27-12-1998&gt; § 1er. Sauf dans les cas prévus aux articles 22, 2°, et 26, § 1er, 1° et 2°, et § 2, la durée du travail ne peut excéder onze heures par jour ni cinquante heures par semaine, même en cas d'(application) cumulée de plusieurs dispositions. &lt;Err., M.B. 1999-01-26, p. 2081&gt;
+
+§ 2. Lorsqu'il est travaillé en application de l'article 22, 2°, la durée de travail est toutefois limitée à douze heures par jour et à cinquante heures par semaine. La durée hebdomadaire de travail peut être portée à cinquante-six heures si la durée journalière de travail n'excède pas huit heures. Ces limites journalières et hebdomadaires peuvent être dépassées en cas d'application de l'article 26, § 1er, 1° et 2°, et § 2.
+
+§ 3. Le Roi peut autoriser le dépassement de la limite de cinquante heures prévue aux §§ 1er et 2 dans les branches d'activité, les catégories d'entreprises ou les branches d'entreprises où cette limite ne peut être appliquée, sauf lorsque le travailleur est occupé dans le cadre d'un régime de travail visé à l'article 38, § 4.
+
+§ 4. Les dérogations prévues aux articles 22, 1° et 2°, 23 et 24, ne sont pas applicables aux travailleurs de nuit lorsque leur travail comporte des risques particuliers ou des tensions physiques ou mentales importantes. Pour l'application du présent alinéa, il faut entendre par travailleur de nuit, celui occupé habituellement dans un régime de travail visé à l'article 38, § 4.
+
+Ces risques particuliers ou des tensions physiques ou mentales importantes sont définis par convention collective de travail rendue obligatoire par le Roi ou, à défaut d'une telle convention collective de travail, par le Roi. Cette convention collective de travail, ou à défaut le Roi, peut déclarer certaines de ces dérogations applicables, en tout ou en partie, aux (travailleurs) de nuit visés à l'alinéa 1er. &lt;Err., M.B. 1999-01-26, p. 2081&gt;
+
+[<sup>1</sup> § 5. L'application des dérogations autorisées par cette loi ne porte pas préjudice aux dispositions de la directive 2003/88/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant certains aspects de l'aménagement du temps de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-05/03, art. 6, 038; En vigueur : 01-02-2017&gt;
+
+##### Art. 28
+
+§ 1er. Les limites maxima de la durée du travail fixées par les dispositions de la présente section ou en vertu de celles-ci peuvent être réduites en vertu d'une convention collective de travail rendue obligatoire.
+
+§ 2. Dans les entreprises ou les branches d'activité où des travaux insalubres, dangereux ou pénibles sont exécutés, le Roi peut, s'il y a lieu, réduire progressivement la durée du travail à (moins de 40 heures par semaine), dans certaines conditions ou pour certaines catégories de travailleurs. &lt;L 20-07-1978, art. 1&gt;
+
+§ 3. Les diminutions de la durée du travail résultant de l'application de la présente loi ne peuvent entraîner en aucun cas une diminution de la rémunération.
+
+(§ 4. Pour l'application des articles 26 bis et 29 il faut tenir compte de la durée du travail fixée par la convention collective de travail applicable à l'entreprise (conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires) même si elle n'a pas été rendue obligatoire par arrêté royal.) &lt;L 1985-01-22/30, art. 82, 002&gt; &lt;ARN225 07-12-1983, art. 8&gt;
+
+##### Art. 29
+
+&lt;ARN225 07-12-1983, art. 9&gt; § 1er. Le travail supplémentaire est rémunéré à un montant qui dépasse de 50 p.c. au moins celui de la rémunération ordinaire. Cette majoration est portée à 100 p.c. lorsque le travail supplémentaire est effectué un dimanche ou pendant les jours de repos accordés en vertu de la législation sur les jours fériés.
+
+§ 2. (Est à considérer comme travail supplémentaire, pour l'application du présent article, tout travail effectué au-delà de 9 heures par jour ou de 40 heures par semaine, ou des limites inférieures fixées conformément à l'article 28.
+
+Par dérogation à l'alinéa 1er, n'est pas considéré comme travail supplémentaire le travail effectué dans le respect des conditions et des limites applicables à un régime de travail visé aux articles 20, [<sup>2</sup> 20bis, 20bis/1, 20ter, 20quater,]<sup>2</sup> 22, 1° et 2°, et 23.) &lt;L 1985-01-22/30, art. 83, 002&gt;
+
+(§ 3. Le Roi peut assimiler à du travail supplémentaire certaines prestations des travailleurs à temps partiel qui n'atteignent pas les limites fixées au paragraphe précédent.) &lt;L 1989-12-22/31, art. 183, 006; En vigueur : 09-01-1990&gt;
+
+(§ 4. Une convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires peut autoriser le remplacement du sursalaire dû en application du § 1er par un repos compensatoire complémentaire.
+
+Dans le cadre d'une telle convention, toute heure supplémentaire donnant lieu au paiement d'un sursalaire à un taux de 50 % ouvre le droit à un repos d'au moins une demi-heure et toute heure donnant lieu au paiement d'un sursalaire à 100 % ouvre le droit à un repos d'au moins une heure.) &lt;L 1993-06-10/32, art. 12, 009; En vigueur : 10-07-1993&gt;
+
+----------
+
+(1)&lt;L 2017-03-05/03, art. 69, 038; En vigueur : 01-02-2017&gt;
+
+(2)&lt;L 2022-10-03/06, art. 9, 047; En vigueur : 20-11-2022&gt;
+
+### Section 3. \_ Régime des temps de travail des jeunes travailleurs.
+
+##### Art. 30
+
+Pour l'application de la présente section, il faut entendre par :
+
+1° jours fériés : les jours fériés fixés en application de la législation sur les jours fériés payés;
+
+2° travail supplémentaire : le travail effectué au-delà du nombre d'heures de travail fixé par l'article 31, ou en vertu de celui-ci, ainsi que le travail qui est considéré comme travail supplémentaire conformément à l'article 29, § 2, que le jeune travailleur tombe ou non sous l'application de la section II.
+
+(3° durée du travail : le temps pendant lequel le jeune travailleur est à la disposition d'un employeur ou de plusieurs employeurs.) &lt;L 1995-03-21/32, art. 6, 012; En vigueur : 01-05-1995&gt;
+
+##### Art. 31
+
+&lt;L 1995-03-21/32, art. 7, 012; En vigueur : 01-05-1995&gt; La durée du travail des jeunes travailleurs ne peut excéder huit heures par jour ni quarante heures par semaine. Le Roi peut, sur l'avis unanime de l'organe paritaire visé à l'article 47, fixer une limite journalière et hebdomadaire supérieure jusqu'à un maximum de dix heures par jour et cinquante heures par semaine en cas d'application de l'article 26.
+
+##### Art. 32
+
+§ 1er. (Outre le repos du dimanche, les jeunes travailleurs doivent se voir octroyer un jour de repos supplémentaire qui suit ou précède immédiatement le dimanche.
+
+Les jeunes travailleurs ne peuvent travailler le dimanche, le jour de repos supplémentaire ou un jour férié ni effectuer un travail supplémentaire que dans les cas prévus respectivement par les articles 12, 3° et 4°, et 26.) &lt;L 1995-03-21/32, art. 8, 012; En vigueur : 01-05-1995&gt;
+
+L'employeur qui fait travailler en application du présent paragraphe, en avertit par écrit, dans les trois jours, le fonctionnaire désigné par le Roi.
+
+§ 2. En outre, le Roi peut, dans les limites fixées par la section 1 et la législation sur les jours fériés payés, ou en vertu de celles-ci, autoriser s'il y a lieu dans les conditions qu'Il détermine, qu'il soit travaillé le dimanche ou un jour férié dans certaines branches d'activité, entreprises ou professions, en vue de l'exécution de certains travaux ou pour certaines catégories de jeunes travailleurs.
+
+§ 3. En aucun cas, les jeunes travailleurs ne peuvent travailler plus d'un dimanche sur deux, sauf autorisation préalable du fonctionnaire visé au § 1er, alinéa 2.
+
+##### Art. 33
+
+§ 1er. Les jeunes travailleurs qui effectuent du travail supplémentaire ont droit à un repos compensatoire dont la durée est égale à celle du travail supplémentaire qu'ils ont effectué. Le repos compensatoire est imputé sur la durée du travail.
+
+Sauf dérogation accordée par le fonctionnaire visé à l'article 32, § 1er, alinéa 2, le repos compensatoire est pris en une fois avant la fin de la semaine qui suit celle au cours de laquelle le travail supplémentaire a été effectué.
+
+§ 2. (Lorsque les jeunes travailleurs sont occupés le dimanche ou le jour de repos supplémentaire, le repos hebdomadaire ne peut être inférieur à trente-six heures consécutives.
+
+Les jeunes travailleurs qui travaillent le dimanche, le jour de repos supplémentaire ou un jour férié ont droit à un repos compensatoire, conformément aux dispositions, respectivement de l'article 16 de la présente loi pour le repos du dimanche et des articles 11 et 12 de la loi du 4 janvier 1974 concernant les jours fériés.) &lt;L 1995-03-21/32, art. 9, 012; En vigueur : 01-05-1995&gt;
+
+##### Art. 34
+
+Les jeunes travailleurs ne peuvent travailler sans interruption pendant plus de quatre heures et demie.
+
+Lorsque le temps de travail par jour excède quatre heures et demie, il est accordé une demi-heure de repos. Si ce temps excède six heures, le repos est d'une heure, une demi-heure devant être prise en une fois.
+
+Le Roi peut établir des régimes particuliers en ce qui concerne les repos prescrits, sans réduire la durée de ceux-ci. Il peut néanmoins avec l'accord de la commission paritaire compétente, ramener le temps de repos d'une heure à une demi-heure lorsque des motifs d'ordre technique le commandent, notamment en cas de travail par équipes successives.
+
+##### Art. 34bis
+
+&lt;Inséré par L 1997-02-17/47, art. 4; En vigueur : 08-04-1998&gt; § 1er. Les jeunes travailleurs ne peuvent exécuter un travail de nuit.
+
+Les jeunes travailleurs de plus de seize ans peuvent toutefois être occupés jusqu'à 23 heures dans les cas visés à l'article 26. L'employeur qui fait application de cette dérogation en avertit par écrit, dans les trois jours, le fonctionnaire désigné par le Roi.
+
+Toutefois, le Roi peut, s'il y a lieu et dans les conditions qu'Il détermine, autoriser qu'il soit travaillé la nuit dans certaines branches d'activité, entreprises ou professions en vue de l'exécution de certains travaux ou pour certaines catégories de jeunes travailleurs.
+
+Le Roi ne peut exercer ce pouvoir que pour les jeunes travailleurs de plus de 16 ans, sauf s'il s'agit d'une activité visée au chapitre II, section première, sous-section 3.
+
+§ 2. Par travail de nuit, il faut entendre le travail exécuté entre 20 heures et 6 heures.
+
+Pour les jeunes travailleurs de plus de seize ans, ces limites sont fixées à 22 heures et 6 heures ou à 23 heures et 7 heures pour l'exécution :
+
+1° de travaux dont l'exécution ne peut, en raison de leur nature, être interrompue;
+
+2° de travaux organisés en équipes successives.
+
+§ 3. En ce qui concerne les jeunes travailleurs et en cas d'application du § 1er, alinéa 3, le travail de nuit reste interdit entre minuit et quatre heures.
+
+##### Art. 34ter
+
+&lt;Inséré par L 1997-02-17/47, art. 5; En vigueur : 08-04-1998&gt; L'intervalle entre la cessation et la reprise du travail doit être de douze heures de repos consécutives au moins.
+
+### Section 4. - &lt;L 1997-02-17/47, art. 2, 017; En vigueur : 08-04-1998&gt; Travail de nuit.
+
+#### Sous-section 1re. [<sup>1</sup> Définition du travail de nuit]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-18/10, art. 11, 050; En vigueur : 01-06-2026&gt;
+
+##### Art. 35
+
+[<sup>1</sup> § 1er. Par travail de nuit, on entend le travail exécuté entre 20 heures et 6 heures.
+
+§ 2. Par dérogation au paragraphe 1er, on entend par travail de nuit, pour les entreprises du secteur de la distribution et les secteurs connexes, y compris le commerce électronique, le travail exécuté entre 23 heures et 6 heures. Pour les nouveaux travailleurs qui entrent en service à partir du 1er juin 2026 chez un employeur dans le secteur de la distribution ou dans les secteurs connexes, y compris le commerce électronique, les primes et avantages liés aux heures entre 20 heures et 6 heures, prévus par des dispositions conventionnelles ou réglementaires ou par le règlement de travail, ne s'appliquent qu'aux seules prestations de travail effectuées entre 23 heures et 6 heures. Il peut être dérogé à ce qui précède par des dispositions conventionnelles ou réglementaires ou par le règlement de travail, pour autant que cette dérogation entre en vigueur après le 1er juin 2026.
+
+§ 3. Le montant de la prime pour les prestations de travail effectuées entre 23 heures et 6 heures dans le secteur de la distribution et les secteurs connexes, y compris le commerce électronique, s'élève au minimum au montant de l'indemnité financière horaire tel que déterminé à l'article 2, § 1er, de la convention collective de travail n° 49 du 21 mai 1991 relative à la garantie d'une indemnité financière spécifique aux travailleurs occupés dans le cadre d'un travail en équipes comportant des prestations de nuit ou dans d'autres formes de travail comportant des prestations de nuit.
+
+§ 4. Pour les travailleurs qui sont entrés en service avant le 1er juin 2026 auprès d'un employeur du secteur de la distribution ou des secteurs connexes, y compris le commerce électronique, les primes et avantages pour les prestations de travail effectuées entre 20 heures et 6 heures, tels qu'ils sont fixés par les dispositions conventionnelles ou réglementaires ou par le règlement de travail en vigueur au 1er juin 2026, restent intégralement d'application. L'employeur du secteur de la distribution ou des secteurs connexes, y compris le commerce électronique, qui a l'intention, pour des raisons économiques, de modifier ces primes et avantages existants, saisit la commission paritaire afin que celle-ci puisse examiner les modifications envisagées au regard des accords sectoriels et formuler des recommandations pour soutenir la concertation sociale au niveau de l'entreprise.
+
+§ 5. Pour l'application du présent article, on entend par:
+
+1° travailleurs qui entrent en service à partir du 1er juin 2026: les personnes qui sont occupées par l'employeur visé au paragraphe 2 sur la base d'une relation de travail dont l'exécution débute à partir du 1er juin 2026. Les travailleurs qui ont été occupés par cet employeur durant une partie ou la totalité de la période du 1er juin 2025 au 31 mai 2026 en tant que travailleur ou travailleur intérimaire sur base d'une autre relation de travail ne sont cependant pas considérés comme travailleurs qui entrent en service à partir du 1er juin 2026;
+
+2° secteur de la distribution et les secteurs connexes, y compris le commerce électronique:
+
+a) les entreprises qui, cumulativement:
+
+1° relèvent, selon le cas, de la compétence de:
+
+\- la commission paritaire auxiliaire pour ouvriers;
+
+\- la commission paritaire du commerce alimentaire;
+
+\- la sous-commission paritaire pour le commerce du bois;
+
+\- la commission paritaire pour le commerce de combustibles;
+
+\- la sous-commission paritaire pour le transport routier et la logistique pour compte de tiers;
+
+\- la sous-commission paritaire des électriciens: installation et distribution;
+
+\- la sous-commission paritaire pour le commerce du métal;
+
+\- la commission paritaire auxiliaire pour employés;
+
+\- la commission paritaire du commerce de détail indépendant;
+
+\- la commission paritaire pour les employés du commerce de détail alimentaire;
+
+\- la sous-commission paritaire pour les moyennes entreprises d'alimentation;
+
+\- la commission paritaire pour les employés du commerce international, du transport et de la logistique;
+
+\- la commission paritaire des grandes entreprises de vente au détail;
+
+\- la commission paritaire des grands magasins, et qui
+
+2° effectuent, selon le cas, une des activités suivantes:
+
+\- le commerce de détail.
+
+Par commerce de détail, on entend: produire ou acheter et revendre de manière habituelle des marchandises en nom propre et pour compte propre à des consommateurs, à des particuliers et, sauf en ce qui concerne les marchands de journaux, les nightshops et les magasins dans les stations-services, à condition que cela se fasse entièrement ou partiellement en ligne;
+
+\- le commerce de gros.
+
+Par commerce de gros, on entend: acheter et vendre des marchandises, soit à des commerçants qui vont revendre à leur tour ces marchandises, soit à des utilisateurs professionnels, c'est-à-dire à des personnes physiques ou morales qui vont utiliser ces marchandises dans le cadre de leur profession, pour le fonctionnement de leur activité;
+
+\- les activités logistiques pour le compte de tiers.
+
+Par activités logistiques on entend: réception, stockage, pesage, conditionnement, étiquetage, préparation de commandes, gestion des stocks ou expédition de matières premières, biens ou produits aux différents stades de leur cycle économique, sans que ne soit produit de nouvelles matières premières, biens ou produits semi-finis ou finis;
+
+\- le commerce électronique.
+
+Par commerce électronique, on entend: le commerce relevant du commerce de détail et de gros et qui s'effectue via internet;
+
+b) bpost.
+
+§ 6. A partir du 1er avril 2027 mais au plus tard le 30 septembre 2027, le Conseil Central de l'Economie et le Conseil national du Travail fournissent d'initiative au ministre de l'Emploi un rapport d'évaluation concernant la définition du secteur de la distribution et les secteurs connexes, y compris le commerce électronique, visée au paragraphe 5, 2°. Après avoir reçu un tel rapport d'évaluation, le Roi peut, par arrêté délibéré en Conseil des ministres, modifier cette définition.
+
+Sans préjudice de l'alinéa 1er, et à partir du 1er octobre 2027, le Roi peut, par arrêté délibéré en Conseil des ministres, également modifier la définition du secteur de la distribution et les secteurs connexes, y compris le commerce électronique, visée au paragraphe 5, 2°, après avoir pris l'avis du Conseil Central de l'Economie et du Conseil national du Travail. Le Conseil Central de l'Economie et le Conseil national du Travail font parvenir leur avis dans les deux mois de la demande qui leur en est faite, à défaut de quoi il sera passé outre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-18/10, art. 12, 050; En vigueur : 01-06-2026&gt;
+
+#### Sous-section 2. [<sup>1</sup> Régime de travail comportant des prestations entre 20 heures et 6 heures mais ne constituant pas un régime de travail comportant des prestations de nuit au sens de l'article 38, § 4]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-18/10, art. 13, 050; En vigueur : 01-06-2026&gt;
+
+##### Art. 36
+
+[<sup>1</sup> En cas de régime de travail comportant des prestations entre 20 heures et 6 heures mais ne constituant pas un régime de travail comportant des prestations de nuit au sens de l'article 38, ces prestations et l'horaire de travail sont établis en recourant aux règles prévues aux articles 11 et 12 de la loi du 8 avril 1965 instituant les règlements de travail.
+
+Si un régime de travail visé à l'alinéa 1er est introduit et que le fonctionnaire, lors de sa tentative de conciliation visée à l'article 11, alinéa 6, et à l'article 12, alinéa 7, de la loi du 8 avril 1965 instituant les règlements de travail, constate qu'il s'agit d'un régime de travail légal, il en informe l'employeur et, le cas échéant, le président du conseil d'entreprise. Le règlement de travail entre alors en vigueur le huitième jour suivant cette notification.
+
+Sans préjudice des alinéas 1er et 2, le travail entre 20 heures et 6 heures qui ne constitue pas un régime de travail comportant des prestations de nuit au sens de l'article 38 peut être introduit dans l'entreprise, pour la réalisation de tous les services logistiques et de soutien liés au commerce électronique de biens meubles, et ce par la conclusion d'une convention collective de travail au sens de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires. Par dérogation aux articles 11 et 12 de la loi précitée du 8 avril 1965, les dispositions de cette convention collective de travail, qui modifient le règlement de travail, sont insérées dans le règlement de travail dès le dépôt de cette convention collective de travail au greffe de la Direction générale des Relations collectives de travail du SPF Emploi, Travail et Concertation sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-18/10, art. 14, 050; En vigueur : 01-06-2026&gt;
+
+##### Art. 37
+
+&lt;Abrogé par L 2026-05-18/10, art. 15, 050; En vigueur : 01-06-2026&gt;
+
+#### Sous-section 3. - &lt;L 1997-02-17/47, art. 2, 017; En vigueur : 08-04-1997&gt; Introduction d'un régime de travail comportant des prestations de nuit.
+
+##### Art. 38
+
+§ 1.[<sup>2</sup> Un régime de travail comportant des prestations de nuit est introduit soit par une convention collective de travail au sens de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, conclue entre l'employeur et toutes les organisations qui sont représentées dans la délégation syndicale dans l'entreprise, soit selon les règles prévues aux articles 11 et 12 de la loi du 8 avril 1965 instituant les règlements de travail.
+
+Par dérogation aux articles 11 et 12 de la loi du 8 avril 1965 instituant les règlements de travail, les dispositions de la convention collective de travail visée à l'alinéa 1er et qui modifient le règlement de travail sont introduites dans ce règlement de travail dès le dépôt de cette convention collective de travail au greffe de la Direction générale Relations Collectives de travail du Service public fédéral Emploi, Travail et Concertation sociale.
+
+§ 2. Par dérogation au paragraphe 1er, pour les entreprises du secteur de la distribution et les secteurs connexes, y compris le commerce électronique, visées à l'article 35, paragraphe 2, un régime de travail comportant des prestations de nuit est introduit soit par la conclusion d'une convention collective de travail au sens de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, soit selon les dispositions des articles 11 et 12 de la loi du 8 avril 1965 instituant les règlements de travail.
+
+Par dérogation aux articles 11 et 12 de la loi du 8 avril 1965 précitée, les dispositions de la convention collective de travail visée à l'alinéa 1er et qui modifient le règlement de travail sont introduites dans ce règlement de travail dès le dépôt de cette convention collective de travail au greffe de la Direction générale Relations Collectives de travail du Service public fédéral Emploi, Travail et Concertation sociale.
+
+Si un régime de travail comportant des prestations de nuit, conformément à l'alinéa 1er, est introduit selon les dispositions des articles 11 et 12 de loi du 8 avril 1965 précitée, et que le fonctionnaire, lors de sa tentative de conciliation visée à l'article 11, alinéa 6, et à l'article 12, alinéa 7, constate qu'il s'agit d'un régime de travail légal, il en informe l'employeur et, le cas échéant, le président du conseil d'entreprise. Le règlement de travail entre alors en vigueur le huitième jour suivant cette notification.
+
+Dans les entreprises qui ne relèvent pas du secteur de la distribution et des secteurs connexes, y compris le commerce électronique, un régime de travail comportant des prestations de nuit peut être introduit dans l'entreprise, pour la réalisation de tous les services logistiques et de soutien liés au commerce électronique par la conclusion d'une convention collective de travail au sens de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires. Par dérogation aux articles 11 et 12 de la loi précitée du 8 avril 1965, les dispositions de cette convention collective de travail, qui modifient le règlement de travail, sont insérées dans le règlement de travail dès le dépôt de ladite convention collective de travail au greffe de la Direction générale des Relations collectives de travail du SPF Emploi, Travail et Concertation sociale]<sup>2</sup>.
+
+§ 3. Avant d'entamer les procédures prévues aux §§ 1er et 2, l'employeur est tenu de consulter les représentants des travailleurs sur les adaptations nécessaires des conditions de travail des travailleurs occupés dans les régimes de travail vises au § 4.
+
+Le Roi précise sur quelles matières au minimum doivent porter ces consultations.
+
+Ces consultations se font au sein du conseil d'entreprise, ou à son défaut avec la délégation syndicale. Elles ont lieu avec le personnel à défaut du conseil d'entreprise et de délégation syndicale.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. Le Roi détermine ce qu'il faut entendre par régime de travail comportant des prestations de nuit.
+
+§ 5. Un régime de travail comportant des prestations de nuit, introduit, conformément aux [<sup>2</sup> dispositions des paragraphes 1er et 2]<sup>2</sup> ne peut être appliqué que si l'employeur respecte les dispositions des conventions collectives de travail, conclues au sein du Conseil national du Travail, relatives aux mesures d'encadrement du travail en équipes comportant des prestations de nuit ainsi que d'autres formes de travail comportant des prestations de nuit et des conventions collectives de travail conclues en vertu de ces conventions.
+
+§ 6. Le Roi peut fixer une autre procédure pour les employeurs qui ne relevent pas du champ d'application de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires. Cette procédure permet de modifier les mentions reprises dans le règlement de travail si ces employeurs sont soumis aux dispositions de la loi du 8 avril 1965 instituant les règlements de travail.
+
+Il peut également fixer, pour les employeurs qui ne relèvent pas du champ d'application de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, des conditions équivalentes à celles prévues par les dispositions des conventions collectives de travail conclues au sein du Conseil national du Travail relatives aux mesures d'encadrement du travail en équipes comportant des prestations de nuit ainsi que d'autres formes de travail comportant des prestations de nuit.
+
+----------
+
+(1)&lt;L 2017-12-25/01, art. 55, 039; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2026-05-18/10, art. 16, 050; En vigueur : 01-06-2026&gt;
+
+### Section V. - &lt;Inséré par L 1997-02-17/47, art. 3; En vigueur : 08-04-1998&gt; Respect des horaires de travail.
+
+##### Art. 38bis
+
+&lt;Inséré par L 1997-02-17/47, art. 3, 017; En vigueur : 08-04-1998&gt; Il est interdit de faire ou de laisser travailler en dehors du temps de travail fixé dans le règlement de travail ou dans l'avis prévu à l'article 14, 1°, de la loi du 8 avril 1965 instituant les règlements de travail en cas d'application de l'article 25 de la présente loi [<sup>3</sup> ou dans la convention visée à l'article 20quater, de la présente loi]<sup>3</sup> [<sup>2</sup> ou en dehors des plages fixes et mobiles en cas d'application de l'article 20ter]<sup>2</sup>.
+
+L'alinéa 1er n'est pas applicable :
+
+1° en cas de travaux entrepris pour faire face à un accident survenu ou imminent;
+
+2° en cas de travaux urgents à effectuer aux machines ou au matériel à condition que l'exécution en dehors des heures normales de travail soit indispensable;
+
+3° en cas de travaux commandés par une nécessité imprévue, pour autant que la procédure prévue à l'article 26, § 1er, 3°, soit respectee;
+
+4° pour des travaux d'inventaires et de bilans, à condition qu'il ne soit pas travaillé pendant plus de sept jours par travailleur et par année civile;
+
+5° dans les entreprises de réparation et d'entretien de navires;
+
+6° pour l'exécution de travaux de transport, de chargement et de dechargement;
+
+7° en cas d'application de la dérogation prévue à l'article 24, § 2, de la présente loi;
+
+[<sup>1</sup> 8° en cas de dépassement des limites de la durée du travail en application de l'article 25bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-05/03, art. 7, 038; En vigueur : 01-02-2017&gt;
+
+(2)&lt;L 2017-03-05/03, art. 70, 038; En vigueur : 01-02-2017&gt;
+
+(3)&lt;L 2022-10-03/06, art. 7, 047; En vigueur : 20-11-2022&gt;
+
+### Section VI. - &lt;Insérée par L 1997-02-17/47, art. 6; En vigueur : 08-04-1998&gt; Intervalles de repos.
+
+##### Art. 38ter
+
+&lt;Inséré par L 1997-02-17/47, art. 6; En vigueur : 08-04-1997&gt; § 1er. Les travailleurs qui entrent dans le champ d'application du chapitre III, section II, (...) ont droit, au cours de chaque période de vingt-quatre heures, entre la cessation et la reprise du travail, à une période minimale de repos de onze heures consécutives. &lt;L 1998-12-04/31, art. 8, 1°, 019; En vigueur : 27-12-1998&gt;
+
+§ 2. Il peut être derogé au droit prévu au § 1er :
+
+1° dans les cas prévus à l'article 26;
+
+2° pour les activités caractérisées par des périodes de travail fractionnées;
+
+3° lorsque le travail est organisé en continu ou en équipes successives, uniquement en cas de changement d'équipe; il est toutefois interdit d'occuper un travailleur dans deux équipes successives;
+
+4° dans les cas prévus par une convention collective de travail rendue obligatoire par arrêté royal.
+
+(§ 3. La durée de l'intervalle de repos accordé en vertu du § 1er s'ajoute au repos dominical visé à l'article 11 ou au repos compensatoire visé à l'article 16 de sorte que le travailleur bénéficie d'une interruption de travail de trente-cinq heures consécutives.
+
+Il peut être dérogé à la prescription de l'alinéa 1er dans les cas prévus au § 2.
+
+Par dérogation à l'alinéa 1er, les travailleurs occupés à des travaux de transport peuvent bénéficier soit d'une interruption de travail conformément à l'alinéa 1er, soit d'une interruption de travail de septante heures consécutives durant une période de deux semaines. Cette periode de deux semaines peut être prolongée par une convention collective de travail rendue obligatoire par le Roi, à condition que l'interruption de travail soit prolongée dans la même mesure.) &lt;L 1998-12-04/31, art. 8, 2°, 019; En vigueur : 27-12-1998&gt;
+
+### Section 7. - (Pauses). &lt;Inséré par L 1998-12-04/31, art. 9; En vigueur : 27-12-1998&gt;
+
+##### Art. 38quater
+
+&lt;Inséré par L 1998-12-04/31, art. 9; En vigueur : 27-12-1998&gt; § 1er. Les travailleurs ne peuvent travailler sans interruption pendant plus de six heures.
+
+Les dispositions du présent article ne portent pas préjudice à l'application de l'article 34.
+
+§ 2. Lorsque le temps de travail depasse six heures, le travailleur se voit accorder une pause. La durée et les modalités d'octroi de cette pause sont fixées par convention collective de travail conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires ou par le Roi pour les employeurs qui ne relèvent pas du champ d'application de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires.
+
+§ 3. A défaut de convention collective de travail conclue en application du § 2 ou d'arrêté royal, le travailleur se voit accorder au moins un quart d'heure de pause au plus tard au moment où la durée des prestations atteint 6 heures.
+
+§ 4. Il peut être dérogé aux obligations imposées par les dispositions du présent article en cas de travaux entrepris pour faire face à un accident survenu ou imminent.
+
+## CHAPITRE IV. - Protection de la maternité.
+
+##### Art. 39
+
+&lt;L 2004-07-09/30, art. 289, 023; En vigueur : 01-07-2004; voir aussi L 2004-07-09/30, art. 290&gt; A la demande de la travailleuse, l'employeur est tenu de lui donner congé au plus tôt à partir de la sixième semaine qui précède la date présumée de l'accouchement ou de la huitième semaine avant cette date, lorsqu'une naissance multiple est prévue. La travailleuse lui remet, au plus tard sept semaines avant la date présumée de l'accouchement ou neuf semaines avant cette date lorsqu'une naissance multiple est prévue, un certificat médical attestant cette date. Si l'accouchement n'a lieu qu'après la date prévue par le médecin, le congé est prolongé jusqu'à la date réelle de l'accouchement.
+
+[<sup>1</sup> La travailleuse ne peut effectuer aucun travail à partir du septième jour qui précède la date présumée de l'accouchement jusqu'à la fin d'une période de neuf semaines qui prend cours le jour de l'accouchement. La période de neuf semaines commence à courir le jour après le jour de l'accouchement lorsque la travailleuse a entamé le travail le jour de l'accouchement.]<sup>1</sup> [<sup>5</sup> Lorsque la travailleuse accouche d'un enfant sans vie, l'interruption de travail est octroyée pour autant que la grossesse ait duré un minimum de cent-quatre-vingts jours à dater de la conception.]<sup>5</sup>
+
+L'interruption de travail est prolongée, à sa demande, au-delà de la neuvième semaine, pour une période d'une durée égale à la durée de la période pendant laquelle elle a continué à travailler à partir de la sixième semaine précédant la date exacte de l'accouchement ou de la huitième semaine lorsqu'une naissance multiple est prévue. Cette période est, en cas de naissance prématurée, réduite du nombre de jours pendant lesquels elle a travaillé au cours de la période de sept jours qui précèdent l'accouchement. [<sup>4</sup> Le Roi peut déterminer les périodes qui peuvent être assimilées à des périodes de travail pour la prolongation de l'interruption de travail.]<sup>4</sup> (Lorsque la travailleuse peut prolonger l'interruption de travail après la neuvième semaine d'au moins deux semaines, les deux dernières semaines de la période de repos postnatal peuvent être converties à sa demande en jours de congé de repos postnatal. L'employeur est alors tenu de convertir, en fonction du nombre de jours prévus à l'horaire de travail de la travailleuse, cette période en jours de congé de repos postnatal. La travailleuse doit prendre ces jours de congé de repos postnatal, selon un planning fixé par elle-même, dans les huit semaines à dater de la fin de la période ininterrompue de congé de repos postnatal. Le Roi peut determiner les modalités selon lesquelles la travailleuse avertit l'employeur de la conversion et de ce planning et peut élaborer d'autres modalites de conversion.) &lt;L 2008-12-22/32, art. 129, 027; En vigueur : 01-04-2009; voir également l'art. 132&gt;
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+En cas de naissance multiple, à la demande de la travailleuse la période d'interruption de travail après la neuvième semaine, éventuellement prolongée conformément aux dispositions (dans les alinéas 3 et 4), est prolongée d'une période (maximale) de deux semaines. &lt;L 2006-07-20/39, art. 271, 2°, 026; En vigueur : 01-09-2006&gt;
+
+Dans le cas où, après les sept premiers jours à compter de sa naissance, le nouveau-né doit rester dans l'établissement hospitalier, le congé de repos postnatal peut, à la demande de la travailleuse, être prolongé d'une durée égale à la période pendant laquelle son enfant est resté hospitalisé après les sept premiers jours. La durée de cette prolongation ne peut depasser vingt-quatre semaines. A cet effet, la travailleuse remet à son employeur :
+
+a) à la fin de la période de repos postnatal, une attestation de l'établissement hospitalier certifiant que le nouveau-né est resté hospitalisé après les sept premiers jours à dater de sa naissance et mentionnant la durée de l'hospitalisation;
+
+b) le cas échéant, à la fin de la période de prolongation qui résulte des dispositions prévues dans cet alinéa, une nouvelle attestation de l'établissement hospitalier certifiant que le nouveau-né n'a pas encore quitté l'établissement hospitalier et mentionnant la durée de l'hospitalisation.
+
+[<sup>2</sup> [<sup>4</sup> Le Roi détermine la durée ainsi que les conditions et les modalités suivant lesquelles, lors du décès ou de l'hospitalisation de la mère, la suspension de l'exécution du contrat de travail ou les absences visées au présent article sont converties en un congé pour le travailleur qui est [<sup>7</sup> le père ou la coparente]<sup>7</sup> ou qui satisfait aux conditions prévues par l'article 30, § 2, [<sup>7</sup> alinéas 1 à 7]<sup>7</sup>, de la loi du 3 juillet 1978 relative aux contrats de travail. Le Roi peut assimiler au travailleur qui est [<sup>7</sup> le père ou la coparente]<sup>7</sup>, un autre travailleur en cas de conversion du congé de maternité.]<sup>4</sup> ]<sup>2</sup>
+
+[<sup>3</sup> [<sup>4</sup> A partir du moment où le travailleur informe son employeur de la conversion du congé de maternité, le travailleur ne peut être licencié par l'employeur jusqu'à l'expiration d'un délai d'un mois prenant cours à la fin du congé, sauf pour des motifs étrangers à ce congé.]<sup>4</sup>
+
+La charge de la preuve de ces motifs incombe à l'employeur. [<sup>7</sup> A la demande du travailleur, l'employeur l'informe par écrit de ces motifs.]<sup>7</sup>
+
+Si le motif invoqué à l'appui du licenciement ne répond pas aux prescriptions de l'alinéa 8, ou à défaut de motif, l'employeur payera au travailleur une indemnité forfaitaire égale à la rémunération brute de six mois, sans préjudice des indemnités dues au travailleur en cas de rupture du contrat de travail.
+
+Le Roi détermine les cas dans lesquels l'indemnité visée à l'alinéa précédent n'est pas due.]<sup>3</sup>
+
+[<sup>7</sup> Pour l'application des alinéas 7 à 10, est assimilé à un licenciement par l'employeur pendant la période de protection, tel que visé à l'alinéa 7, tout acte de l'employeur postérieur à cette période qui vise à mettre unilatéralement fin à la relation de travail et pour lequel des mesures préparatoires ont été prises durant cette période. Par la prise de mesures préparatoires, on entend aussi la prise de la décision de licencier.]<sup>7</sup>
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 53, 028; En vigueur : 01-03-2009&gt;
+
+(2)&lt;L 2011-04-13/09, art. 4, 032; En vigueur : 20-05-2011&gt;
+
+(3)&lt;L 2011-06-11/16, art. 2, 033; En vigueur : 30-07-2011&gt;
+
+(4)&lt;L 2014-04-25/77, art. 12, 036; En vigueur : 16-06-2014&gt;
+
+(5)&lt;L 2018-12-19/31, art. 2, 042; En vigueur : 31-03-2019&gt;
+
+(6)&lt;L 2020-06-12/06, art. 3, 043; En vigueur : 01-03-2020&gt;
+
+(7)&lt;L 2022-10-07/08, art. 3, 046; En vigueur : 10-11-2022&gt;
+
+##### Art. 39bis
+
+&lt;inséré par L 1995-04-03/44, art. 1, 014; En vigueur : 10-05-1995&gt; La travailleuse enceinte, qui a averti l'employeur de son état de grossesse, a le droit de s'absenter du travail, avec maintien de sa rémunération normale, le temps nécessaire pour se rendre aux examens médicaux prénataux qui ne peuvent avoir lieu en dehors des heures de travail. Pour bénéficier de sa remunération, la travailleuse doit préalablement avertir l'employeur de son absence.
+
+Si une convention collective de travail ou le règlement de travail le prescrit ou, à défaut d'une telle prescription, si l'employeur l'y invite, la travailleuse produit à ce dernier un certificat médical justifiant son absence.
+
+##### Art. 40
+
+(Sauf pour des motifs étrangers à l'état physique résultant de la grossesse ou de l'accouchement, l'employeur qui occupe une travailleuse enceinte ne peut faire un acte tendant à mettre fin unilatéralement à la relation de travail à partir du moment où il a été informé de l'état de grossesse jusqu'à l'expiration d'un délai d'un mois prenant cours à la fin du congé postnatal, en ce inclus la période de huit semaines durant laquelle la travailleuse doit prendre, le cas échéant, ses jours de congé de repos postnatal.) &lt;L 2008-12-22/32, art. 130, 027; En vigueur : 01-04-2009; voir également l'art. 132&gt;
+
+La charge de la preuve de ces motifs incombe à l'employeur. (A la demande de la travailleuse, l'employeur lui en donne connaissance par écrit.) &lt;L 1995-04-03/44, art. 2, 014; En vigueur : 10-05-1995&gt;
+
+(Si le motif invoqué à l'appui du licenciement ne répond pas aux prescriptions de l'alinéa 1er, ou à défaut de motif, l'employeur payera à la travailleuse une indemnité forfaitaire égale à la rémunération brute de six mois, sans préjudice des indemnités dues à la travailleuse en cas de rupture du contrat de travail.) &lt;L 1995-04-03/45, art. 1, 013; En vigueur : 20-05-1995&gt;
+
+[<sup>1</sup> Pour l'application du présent article, est assimilé à un licenciement par l'employeur pendant la période de protection, tel que visé à l'alinéa 1er, tout acte de l'employeur à l'issue de cette période qui tend à mettre unilatéralement fin à la relation de travail et pour lequel des mesures préparatoires ont été prises durant cette période. Par la prise de mesures préparatoires, on entend également le fait de prendre la décision de licencier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-10-07/08, art. 4, 046; En vigueur : 10-11-2022&gt;
+
+##### Art. 40bis.
+
+[<sup>1</sup> § 1er. Lorsque la travailleuse dont l'employeur est informé de la grossesse ou de l'accouchement, voit son contrat de travail pour l'exécution d'un travail temporaire ou sa relation de travail à durée déterminée non renouvelé, ce non-renouvellement est présumé être lié à la grossesse ou à l'accouchement.
+
+A la demande de la travailleuse, l'employeur lui donne connaissance par écrit des motifs du non-renouvellement. L'employeur doit prouver que le non-renouvellement du contrat de travail ou de la relation de travail en question est étranger à la grossesse ou à l'accouchement.
+
+Si le motif invoqué à l'appui du non-renouvellement du contrat de travail ou de la relation de travail en question n'est pas étranger à la grossesse ou à l'accouchement, ou à défaut de motif, l'employeur payera à la travailleuse une indemnité forfaitaire égale à la rémunération brute de trois mois.
+
+§ 2. Lorsque le travailleur qui a informé son employeur de la conversion du congé de maternité visée à l'article 39, alinéa 6, voit son contrat de travail pour l'exécution d'un travail temporaire ou sa relation de travail à durée déterminée non renouvelé, ce non-renouvellement est présumé être lié à la prise du congé de maternité converti.
+
+A la demande du travailleur, l'employeur lui donne connaissance par écrit des motifs du non-renouvellement. L'employeur doit prouver que le non-renouvellement du contrat de travail ou de la relation de travail en question est étranger à la prise du congé de maternité converti.
+
+Si le motif invoqué à l'appui du non-renouvellement du contrat de travail ou de la relation de travail en question n'est pas étranger à la prise du congé de maternité converti, ou à défaut de motif, l'employeur payera au travailleur une indemnité forfaitaire égale à la rémunération brute de trois mois.
+
+§ 3. Pour l'application du présent article, l'utilisateur d'un travailleur intérimaire est considéré comme l'employeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-10-07/08, art. 5, 046; En vigueur : 10-11-2022&gt;
+
+##### Art. 41
+
+&lt;L 1995-04-03/44, art. 3, 014; En vigueur : 15-05-1995&gt; Pour toute activité susceptible de présenter un risque spécifique d'exposition aux agents, procédés ou conditions de travail, notamment ceux dont la liste est fixée par le Roi, la nature, le degré et la durée, de cette exposition sont évalués par l'employeur afin d'apprécier tout risque pour la sécurité ou pour la santé, ainsi que toute répercussion sur la grossesse ou l'allaitement de la travailleuse ou la santé de l'enfant et afin de déterminer les mesures générales à prendre.
+
+Les services auxquels, en application de la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, sont confiées des missions en matière de sécurité et sante au travail, sont associés à l'évaluation visée à l'alinéa 1er.
+
+Le Roi fixe les conditions et les modalités selon lesquelles a lieu l'évaluation visée au présent article.
+
+##### Art. 41bis
+
+&lt;inséré par L 1995-04-03/44, art. 4, 014; En vigueur : 15-05-1995&gt; Les dispositions des articles 42, 43 et 44 s'appliquent aux travailleuses enceintes, dès qu'elles ont informé leur employeur de leur état.
+
+Les dispositions des articles 42, 43, 43bis et 44 s'appliquent aux travailleuses allaitantes, dès qu'elles ont informé leur employeur de leur état.
+
+##### Art. 42
+
+&lt;L 1995-04-03/44, art. 5, 014; En vigueur : 15-05-1995&gt; § 1er. Lorsqu'un risque a été constaté en application de l'article 41, l'employeur prend une des mesures suivantes compte tenu du résultat de l'évaluation et adaptée au cas de la travailleuse concernée afin que l'exposition de la travailleuse à ce risque soit évitée :
+
+1° un aménagement provisoire des conditions de travail ou du temps de travail à risque de la travailleuse concernée ;
+
+2° si un aménagement des conditions de travail ou du temps de travail à risque n'est pas techniquement ou objectivement possible ou ne peut être raisonnablement exigé pour des motifs dûment justifiés, l'employeur fait en sorte que la travailleuse concernée puisse effectuer un autre travail compatible avec son état ;
+
+3° si un changement de poste de travail n'est pas techniquement ou objectivement possible ou ne peut être raisonnablement exigé pour des motifs dûment justifiés, l'execution du contrat de travail de la travailleuse concernée est suspendue ou la personne dont la situation juridique est réglée unilatéralement par l'autorité est dispensée du travail.
+
+Pour les risques auxquels toute exposition doit être interdite et dont la liste est fixée par le Roi, l'employeur doit appliquer immédiatement une des mesures visées à l'alinéa 1er.
+
+Une des mesures visées à l'alinéa 1er est également appliquée lorsque la travailleuse invoque une maladie ou un danger en rapport avec son état, susceptible d'être attribué à son travail, si le médecin du travail à qui elle s'adresse constate un risque visé par le présent article.
+
+Dès que la période pendant laquelle s'applique une des mesures prévues à l'alinéa 1er prend fin, la travailleuse doit être occupée à nouveau dans les mêmes conditions qu'auparavant, sans préjudice des dispositions de l'article 43bis.
+
+§ 2. Les mesures visées au § 1er sont proposées par le médecin du travail ou par un autre médecin pour les entreprises qui ne doivent pas faire appel à un médecin du travail. Les frais sont à charge de l'employeur.
+
+§ 3. Le Roi détermine les conditions et les modalités relatives à l'application des mesures visées par le présent article.
+
+Il détermine également les conditions et les modalités selon lesquelles la travailleuse peut contester la déclaration d'inaptitude du médecin.
+
+##### Art. 43
+
+&lt;L 1995-04-03/44, art. 6, 014; En vigueur : 15-05-1995&gt; § 1er. Les travailleuses ne peuvent être tenues d'accomplir un travail de nuit :
+
+1° pendant une période de huit semaines avant la date présumée de l'accouchement ;
+
+2° sur présentation d'un certificat médical qui en atteste la nécessité pour la sécurité ou la santé de la travailleuse ou la santé de l'enfant :
+
+a) pendant d'autres périodes se situant au cours de la grossesse ;
+
+b) pendant une période de quatre semaines au maximum qui suit immédiatement la fin du congé visé à l'article 39, alinéa 2.
+
+Dans les cas visés à l'alinéa 1er, l'employeur prend une des mesures suivantes :
+
+1° un transfert à un travail de jour ;
+
+2° lorsqu'un transfert à un travail de jour n'est pas techniquement ou objectivement possible ou ne peut être raisonnablement exigé pour des motifs dûment justifiés, l'exécution du contrat de travail de la travailleuse concernée est suspendue ou la personne dont la situation juridique est réglée unilatéralement par l'autorité est dispensée du travail.
+
+Par dérogation à l'alinéa 2, 2°, le congé visé à l'article 39, alinéa 1er, est néanmoins octroye à la travailleuse à partir de la septième semaine avant la date présumée de l'accouchement.
+
+Dès que la période pendant laquelle s'applique une des mesures visées par le présent paragraphe prend fin, la travailleuse doit être occupée à nouveau dans les mêmes conditions qu'auparavant, sans préjudice des dispositions de l'article 43bis.
+
+Pour l'application du présent paragraphe on entend par travail de nuit, le travail qui est principalement effectué entre 20 et 6 heures.
+
+Le Roi détermine les conditions et modalités concernant l'application du présent paragraphe.
+
+§ 2. Les dispositions du § 1er ne portent pas préjudice à l'application de garanties équivalentes ou plus sévères, prévues par une convention collective de travail rendue obligatoire par le Roi.
+
+##### Art. 43bis
+
+&lt;insére par L 1995-04-03/44, art. 7, 014; En vigueur : 15-05-1995&gt; Les travailleuses accouchées qui ont fait l'objet d'une des mesures visées aux articles 42 ou 43 doivent aussitôt que possible et au plus tard dans les huit jours de la reprise du travail, être soumises à un examen médical.
+
+A l'occasion de cet examen médical, le médecin peut proposer qu'une des mesures visées aux articles 42 ou 43 soit appliquée, lorsqu'il constate qu'il existe toujours un risque pour la sécurité ou la santé de la travailleuse concernée.
+
+Le Roi fixe les conditions et les modalités concernant l'application du présent article.
+
+##### Art. 44
+
+Les femmes enceintes ne peuvent effectuer du travail supplémentaire au sens de l'article 29, § 2.
+
+Le Roi peut rendre les dispositions du chapitre III, section 2, qui concernent la durée du travail, applicables aux travailleuses enceintes ne tombant pas sous l'application de ces dispositions.
+
+##### Art. 45
+
+(abrogé) &lt;L 1995-04-03/44, art. 8, 014; En vigueur : 15-05-1995&gt;
+
+## CHAPITRE IVbis. [<sup>1</sup> - Protection de la travailleuse et du travailleur ayant recours à un traitement de l'infertilité ou à une procréation médicalement assistée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-24/09, art. 2, 048; En vigueur : 28-04-2024&gt;
+
+##### Art. 45/1.
+
+[<sup>1</sup> Sauf pour des motifs étrangers aux absences du travailleur ou de la travailleuse pour effectuer un traitement contre l'infertilité, ou une procréation médicalement assistée telle que définie à l'article 2 de la loi du 6 juillet 2007 relative à la procréation médicalement assistée et à la destination des embryons surnuméraires et des gamètes, l'employeur qui occupe une travailleuse ou un travailleur qui a recours à un traitement de l'infertilité ou à une procréation médicalement assistée, ne peut poser un acte tendant à mettre fin unilatéralement à la relation de travail à partir du moment où il en a été informé par un certificat médical, jusqu'à l'expiration d'un délai de deux mois.
+
+La charge de la preuve de ces motifs incombe à l'employeur. A la demande de la travailleuse ou du travailleur, l'employeur lui en donne connaissance par écrit.
+
+Si le motif invoqué à l'appui du licenciement ne répond pas aux prescriptions de l'alinéa 1er, ou à défaut de motif, l'employeur payera à la travailleuse ou au travailleur une indemnité forfaitaire égale à la rémunération brute de six mois, sans préjudice des indemnités dues à la travailleuse ou au travailleur en cas de rupture du contrat de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-24/09, art. 2, 048; En vigueur : 28-04-2024&gt;
+
+## CHAPITRE V. \_ Dispositions générales.
+
+### Section 1. \_ Suspension de l'application de la loi.
+
+##### Art. 46
+
+Le Roi peut suspendre, en tout ou en partie, l'application des dispositions du chapitre III, section 2, qui concernent la durée du travail, ainsi que celles de l'article 37:
+
+1° en cas de guerre ou en cas d'événements présentant un danger pour la sécurité nationale;
+
+2° pour des motifs économiques d'ordre national, sur avis conforme du Conseil national du Travail.
+
+### Section 2. \_ Consultation.
+
+##### Art. 47
+
+Pour exercer les attributions qui Lui sont conférées par la présente loi, à l'exception de celles qui sont prévues à l'article 46, le Roi prend l'avis de la commission paritaire compétente. Cet avis peut toutefois être donné par le Conseil national du Travail lorsque le règlement relève de la compétence de plusieurs commissions paritaires. A défaut de telles commissions, l'avis est donné par le Conseil national du Travail.
+
+(Par dérogation à l'alinéa 1er, le Roi prend les mesures visées aux articles 41 à 43bis après avoir demandé l'avis du Conseil supérieur de sécurité, d'hygiène et d'embellissement des lieux de travail.) &lt;L 1995-04-03/44, art. 9, 014; En vigueur : 15-05-1995&gt;
+
+L'organe consulté fait parvenir son avis dans les deux mois de la demande qui lui en est faite, à défaut de quoi il sera passé outre.
+
+### Section 3. \_ Surveillance.
+
+##### Art. 48
+
+Les employeurs, à l'exclusion des personnes visées à l'article 1er, alinéa 2, 2°, doivent se conformer aux dispositions des arrêtés pris en exécution de la loi du 26 janvier 1951 relative à la simplification des documents dont la tenue est imposée par la législation sociale.
+
+Le Roi peut rendre applicables, en tout ou en partie, les dispositions de la loi du 26 janvier 1951 précitée et de ses arrêtés d'exécution aux personnes visées à l'article 1er, alinéa 2, 2°.
+
+##### Art. 49
+
+[<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 [<sup>2</sup> et 43 à 49]<sup>2</sup> du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 54, 030; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2016-02-29/09, art. 79, 037; En vigueur : 01-05-2016&gt;
+
+##### Art. 50
+
+(abrogé) &lt;L 1989-12-22/31, art. 210, 006; En vigueur : 09-01-1990&gt;
+
+##### Art. 51
+
+(abrogé) &lt;L 1989-12-22/31, art. 210, 006; En vigueur : 09-01-1990&gt;
+
+##### Art. 52
+
+(abrogé) &lt;L 1989-12-22/31, art. 210, 006; En vigueur : 09-01-1990&gt;
+
+### Section 4. \_ Dispositions pénales.
+
+##### Art. 53
+
+&lt;Abrogé par L 2010-06-06/06, art. 109,23°,a, 035; En vigueur : 01-07-2011&gt;
+
+##### Art. 53bis
+
+&lt;Abrogé par L 2010-06-06/06, art. 109,23°,b, 035; En vigueur : 01-07-2011&gt;
+
+##### Art. 54
+
+&lt;Abrogé par L 2010-06-06/06, art. 109,23°,b, 035; En vigueur : 01-07-2011&gt;
+
+##### Art. 55
+
+(abrogé) &lt;L 1992-08-05/42, art. 5, 008; En vigueur : 01-02-1993&gt;
+
+##### Art. 56
+
+&lt;Abrogé par L 2010-06-06/06, art. 109,23°,c, 035; En vigueur : 01-07-2011&gt;
+
+##### Art. 57
+
+&lt;Abrogé par L 2010-06-06/06, art. 109,23°,c, 035; En vigueur : 01-07-2011&gt;
+
+##### Art. 58
+
+&lt;Abrogé par L 2010-06-06/06, art. 109,23°,d, 035; En vigueur : 01-07-2011&gt;
+
+##### Art. 59
+
+&lt;Abrogé par L 2010-06-06/06, art. 109,23°,e, 035; En vigueur : 01-07-2011&gt;
+
+## CHAPITRE VI. \_ Dispositions finales.
+
+##### Art. 60
+
+&lt;disposition modificative&gt;
+
+##### Art. 61
+
+&lt;disposition modificative&gt;
+
+##### Art. 62
+
+Jusqu'à l'entrée en vigueur des dispositions du Code judiciaire relatives au tribunaux de police, le pouvoir attribué au juge du tribunal de police par l'article 50, 1°, est exercé par le juge de paix.
+
+##### Art. 63
+
+Le Roi peut modifier les dispositions légales existantes afin de mettre leur texte en concordance avec les dispositions de la présente loi.
+
+##### Art. 64
+
+Sont abrogés:
+
+1° les lois sur le travail des enfants, coordonnées le 28 février 1919 et modifiées par les lois des 14 juin 1921, 15 juillet 1957 et par les arrêtés royaux des 16 février 1952, 15 janvier 1954 et par arrêté royal n° 40 du 24 octobre 1967;
+
+2° la loi du 9 juillet 1936 instituant la semaine des quarante heures dans les industries ou secteurs d'industrie ou le travail est effectué dans des conditions insalubres, dangereuses ou pénibles, modifiée par l'arrêté royal du 15 janvier 1954 et par la loi du 15 juillet 1964;
+
+3° la loi du 6 juillet 1964 sur le repos du dimanche, modifiée par la loi du 28 juin 1966;
+
+4° la loi du 15 juillet 1964 sur la durée du travail dans les secteurs public et privé de l'économie nationale, modifiée par la loi du 5 décembre 1968;
+
+5° l'arrête royal n° 40 du 24 octobre 1967 sur le travail des femmes.
+
+##### Art. 65
+
+Les arrêtés pris en exécution des lois et les arrêtés abrogés par l'article 64 restent en vigueur jusqu'à leur abrogation expresse ou jusqu'a l'expiration de leur durée de validité.
+
+Toutefois, les arrêtés pris en exécution des lois sur le travail des enfants coordonnées le 28 février 1919 et abrogés par l'article 64, 1°, cessent en tout cas de produire leurs effets un an après le dernier jour du mois au cours duquel la présente loi est publiee.
+
+##### Art. 66
+
+Aussi longtemps que le Roi n'a pas pris d'arrêté en exécution de l'article 13, les travailleurs peuvent être occupés le dimanche dans les entreprises et établissements suivants ou pour l'execution des travaux ci-après:
+
+1° les hôtels, motels, terrains de camping, restaurants, entreprises de restauration, traiteurs, salons de consommation et débits de boissons;
+
+2° les entreprises de spectacles et jeux publics;
+
+3° les entreprises de journaux;
+
+4° les agences d'information et les agences de voyage;
+
+5° les entreprises de réparation et d'entretien de navires;
+
+6° les entreprises vendant au détail des carburants et des huiles pour les vehicules automobiles, mais uniquement en ce qui concerne les travailleurs occupés à la vente;
+
+7° les entreprises exploitant des emplacements de parcage pour véhicules automobiles;
+
+8° les entreprises de production, de transformation ou de transport de gaz, d'électricité, de vapeur ou d'énergie nucléaire et les entreprises de distribution d'eau;
+
+9° les établissements et services dispensant des soins de santé, de prophylaxie ou d'hygiène;
+
+10° les travaux agricoles urgents ou indispensables;
+
+11° les industries dans lesquelles le travail, en raison de sa nature, ne souffre ni interruption ni retard;
+
+12° les entreprises de transport par terre et par air, ainsi que les entreprises de pêche;
+
+13° les pharmacies, drogueries et magasins d'appareils médicaux ou chirurgicaux;
+
+14° les entreprises de photographie, uniquement en ce qui concerne les opérateurs filmeurs photographiant les particuliers sur la voie publique;
+
+15° les entreprises de l'industrie cinématographique assurant le journal d'actualités en ce qui concerne les travailleurs chargés des travaux inhérents à la presse filmée;
+
+16° les entreprises de production de films pour le cinéma et la télévision, en ce qui concerne le personnel ouvrier chargé des travaux d'éclairage, de machinerie, de construction et de démontage du décor;
+
+17° les entreprises de distribution de radiodiffusion et de télévision;
+
+18° les entreprises alimentaires dont les produits sont destinés à être livrés immédiatement à la consommation;
+
+19° les entreprises ayant pour objet la vente au détail des comestibles ou denrées alimentaires;
+
+20° les débits de tabacs et les magasins de fleurs naturelles;
+
+21° les établissements de bains publics;
+
+22° [<sup>1</sup> les entreprises de location de moyens de locomotion;]<sup>1</sup>
+
+23° les bureaux de placement;
+
+24° les entreprises qui s'occupent des opérations de change dans les gares de chemins de fer, dans les aérogares et dans les gares maritimes;
+
+25° les travaux de dépannage de véhicules à moteur et d'appareils automatiques de distribution;
+
+26° la participation à des manifestations de tout genre, notamment aux salons, aux expositions, aux musées, aux foires commerciales, industrielles et agricoles, aux marchés, aux braderies, aux corteges et manifestations sportives;
+
+27° les travaux de chargement, de déchargement et de déhalage, dans les ports, débarcadères et stations;
+
+28° les travaux des garde-chasse et de garde-pêche;
+
+29° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-07-30/01, art. 21, 034; En vigueur : 11-08-2013&gt;
