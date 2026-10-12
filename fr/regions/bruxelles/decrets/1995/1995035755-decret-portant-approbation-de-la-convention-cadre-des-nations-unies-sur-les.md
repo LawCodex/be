@@ -1,0 +1,61 @@
+---
+title: "Décret portant approbation de la convention-cadre des Nations Unies sur les changements climatiques et des annexes I et II, signées à New York le 9 mai 1992. (TRADUCTION)"
+identifier: "1995035755"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035755/justel"
+type: decree
+justel_type: "DECRET (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1995-04-19
+published: 1995-07-07
+entry_into_force: 1995-07-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035755/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 19 AVRIL 1995. - Décret portant approbation de la convention-cadre des Nations Unies sur les changements climatiques et des annexes I et II, signées à New York le 9 mai 1992. (TRADUCTION)
+
+Le Conseil flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. La convention-cadre des Nations Unies sur les changements climatiques et les annexes I et II, signées à New York le 9 mai 1992, sortiront leur plein et entier effet, en ce qui concerne la Communauté flamande et la Région flamande.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 19 avril 1995.
+
+Le Ministre-Président du Gouvernement flamand, Ministre flamand de l'Economie, des P.M.E., de la Politique scientifique, de l'Energie et des Relations extérieures,
+
+L. VAN DEN BRANDE
+
+Le Vice-Ministre-Président du Gouvernement flamand, Ministre flamand de l'Environnement et du Logement,
+
+N. DE BATSELIER
+
+Le Ministre flamand des Travaux publics, de l'Aménagement du Territoire et des Affaires intérieures,
+
+Th. KELCHTERMANS
+
+Le Ministre flamand de la Culture et des Affaires bruxelloises,
+
+H. WECKX
+
+Le Ministre flamand de l'Enseignement et de la Fonction publique,
+
+L. VAN DEN BOSSCHE
+
+Le Ministre flamand des Communications, du Commerce extérieur et des Réformes institutionnelles,
+
+J. SAUWENS
+
+Le Ministre flamand des Finances et du Budget, des Etablissements de santé, de l'Aide sociale et de la Famille,
+
+Mme W. DEMEESTER-DE MEYER
+
+Le Ministre flamand de l'Emploi et des Affaires sociales,
+
+L. PEETERS

@@ -1,0 +1,81 @@
+---
+title: "Décret contenant le deuxième ajustement du budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1996."
+identifier: "1997029041"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997029041/justel"
+type: decree
+justel_type: "DECRET (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 1996-12-20
+published: 1997-04-17
+entry_into_force: 1997-04-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997029041/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 20 DECEMBRE 1996. - Décret contenant le deuxième ajustement du budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1996.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. Les moyens prévus au budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1996 sont ajustés comme suit :
+
+Evaluation Supplement Reduction Evaluation
+
+1er ajustement 2e ajustement
+
+Recettes 218 472,1 71,0 - 376,4 218 166,7
+
+courantes
+
+(Titre I)
+
+Recettes en 5 627,1 - - 5 627,1
+
+capital
+
+(Titre II)
+
+Produits 9 607,6 - - 9 607,6
+
+d'emprunts
+
+d'une duree
+
+superieure a
+
+1 an
+
+(Titre III)
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 20 décembre 1996.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+W. ANCION
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE
+
+## ANNEXE.
+
+## Art. N
+
+Deuxième ajustement du budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1996.
+
+(Annexe non reprise pour des raisons techniques. Voir M.B. 17-04-1997, p. 9020 - 9025).
