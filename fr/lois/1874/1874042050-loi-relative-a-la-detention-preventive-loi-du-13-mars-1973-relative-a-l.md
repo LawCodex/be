@@ -3,7 +3,7 @@ title: "Loi relative à la détention préventive - [Loi du 13 mars 1973 relativ
 identifier: "1874042050"
 eli: "https://www.ejustice.just.fgov.be/eli/loi/1874/04/20/1874042050/justel"
 type: act
-justel_type: "LOI DETENTION PREVENTIVE"
+justel_type: "LOI"
 jurisdiction: be
 language: fr
 date: 1874-04-20
@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1874/04/20/1874042050/justel"
 justel_notes:
   - "Consultation des versions antérieures à partir du 18-07-1989 et mise à jour au 14-08-1990"
   - "voir L 1973-03-13/30 créée en 1990 sur base de la présente loi de 1874 pour les modifications ultérieures"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # 20 AVRIL 1874. - Loi relative à la détention préventive - [Loi du 13 mars 1973 relative à l'indemnité en cas de détention préventive inopérante.] (LDP 1990-07-20/35, art. 48, En vigueur : 01-12-1990)

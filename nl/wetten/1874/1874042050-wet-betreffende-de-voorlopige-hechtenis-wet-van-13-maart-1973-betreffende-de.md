@@ -3,7 +3,7 @@ title: "Wet betreffende de voorlopige hechtenis - [Wet van 13 maart 1973 betreff
 identifier: "1874042050"
 eli: "https://www.ejustice.just.fgov.be/eli/wet/1874/04/20/1874042050/justel"
 type: act
-justel_type: "LOI DETENTION PREVENTIVE"
+justel_type: "LOI"
 jurisdiction: be
 language: nl
 date: 1874-04-20
@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1874/04/20/1874042050/justel"
 justel_notes:
   - "raadpleging van vroegere versies vanaf 18-07-1989 en tekstbijwerking tot 14-08-1990"
   - "Zie W 1973-03-13/30 gebaseerd op deze huidige wet van 1874, voor de volgende wijzigingen"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # 20 APRIL 1874. - Wet betreffende de voorlopige hechtenis - [Wet van 13 maart 1973 betreffende de vergoeding voor onwerkzame voorlopige hechtenis.] (WVH 1990-07-20/35, art. 48, 002; Inwerkingtreding : 01-12-1990)

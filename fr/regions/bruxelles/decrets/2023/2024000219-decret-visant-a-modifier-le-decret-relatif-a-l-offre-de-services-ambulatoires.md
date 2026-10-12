@@ -1,0 +1,51 @@
+---
+title: "Décret visant à modifier le décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé afin de leur permettre de fournir les médicaments nécessaires à leur mission de réduction des risques"
+identifier: "2024000219"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/15/2024000219/justel"
+type: decree
+justel_type: "DECRET (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2023-06-15
+published: 2024-01-11
+entry_into_force: 2024-01-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/15/2024000219/justel"
+department: "Commission communautaire française"
+retrieved: 2026-10-12
+---
+
+# 15 JUIN 2023. - Décret visant à modifier le décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé afin de leur permettre de fournir les médicaments nécessaires à leur mission de réduction des risques
+
+L'Assemblée de la Commission communautaire française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle, en vertu de l'article 138 de la Constitution, une matière visée à l'article 128 de celle-ci.
+
+## Art. 2
+
+A l'article 7, 4° du décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé, les points d), e) et f) sont ajoutés :
+
+" d) les services agréés pour réaliser les activités visées au point b) ont l'obligation d'offrir à leur public et dans la mesure des moyens disponibles, des médicaments et dispositifs médicaux qui concourent à diminuer les dommages de santé publique liés à certaines consommations particulièrement risquées. Pour ce faire, les acteurs agréés menant des activités de réduction des risques, telles que définies dans le décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé, doivent pouvoir : acheter ce matériel et médicaments directement auprès des fournisseurs ; les stocker; les diffuser auprès des services en assurant l'accès aux usagers;
+
+e) les services agréés pour réaliser les activités visées au point b) ont l'autorisation de commanditer la confection de kits de matériel stérile et de dispositifs médicaux auprès de pharmaciens, de distributeurs, commerçants en gros, importateurs et fabricants agréés par le ministre fédéral de la Santé publique ;
+
+f) la liste des médicaments et dispositifs médicaux visés au point d) nécessaire à la mission de réduction des risques est établie par le Collège de la Commission communautaire française".
+
+## Art. 3
+
+A l'article 37bis, § 3, un point 8° est ajouté :
+
+" 8. offrir les médicaments et dispositifs médicaux qui concourent à diminuer les dommages de santé publique liés à certaines consommations particulièrement risquées. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 juin 2023.
+
+La Ministre-Présidente du Collège, en charge de la Promotion de la Santé, des Familles, du Budget et de la Fonction publique
+
+B. TRACHTE

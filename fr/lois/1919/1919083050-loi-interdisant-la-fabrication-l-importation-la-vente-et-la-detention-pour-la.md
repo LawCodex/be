@@ -1,0 +1,58 @@
+---
+title: "Loi interdisant la fabrication, l'importation, la vente et la détention pour la mise en vente des allumettes contenant du phosphore blanc"
+identifier: "1919083050"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1919/08/30/1919083050/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1919-08-30
+published: 1919-09-14
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1919/08/30/1919083050/justel"
+justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 10-03-2026"
+retrieved: 2026-10-12
+---
+
+# 30 AOUT 1919. - Loi interdisant la fabrication, l'importation, la vente et la détention pour la mise en vente des allumettes contenant du phosphore blanc
+
+## Art. 1
+
+Il est interdit, sous peine d'une [<sup>1</sup> une peine de niveau 1]<sup>1</sup>, de fabriquer, de vendre et de détenir pour les vendre, des allumettes contenant du phosphore blanc.
+
+Seront saisis, confisqués et détruits les produits faisant l'objet de cette interdiction et les instruments ayant servi à les fabriquer.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 72, 004; En vigueur : 01-09-2026&gt;
+
+## Art. 2
+
+&lt;L 1989-12-22/31, art. 219, 002; En vigueur : 09-01-1990&gt; Sans préjudice des attributions des officiers de police judiciaire, les fonctionnaires désignés par le Roi surveillent le respect de la présente loi et de ses arrêtés d'exécution.
+
+[<sup>1</sup> Ces fonctionnaires exercent cette surveillance conformément aux dispositions du Code pénal social.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 26, 003; En vigueur : 01-07-2011&gt;
+
+## Art. 3
+
+L'importation des allumettes contenant du phosphore blanc est prohibée.
+
+En cas de déclaration régulière, la marchandise sera saisie et confisquée. L'importation sans déclaration ou sous une dénomination inexacte, ainsi que la circulation irrégulière dans le rayon des douanes, sont constatées et punies conformément aux dispositions (des articles 231, 249 à 253 et 263 à 284 de la loi générale sur les douanes et accises). &lt;L 6 juillet 1978, art. 2, § 5.&gt;
+
+Dans tous les cas les produits confisqués seront détruits.
+
+## Art. 4
+
+Les délégués du Gouvernement ont le droit de procéder, s'il y a lieu, à des prises d'échantillons dans les conditions qui seront déterminées par arrêté royal.
+
+## Art. 5
+
+Le gouvernement est autorisé à adhérer à la convention internationale sur l'interdiction de l'emploi du phosphore blanc dans l'industrie des allumettes, signée à Berne le 26 septembre 1906
+
+## Art. 6
+
+La présente loi sera exécutoire six mois après la date de la publication au Moniteur; toutefois, l'interdiction relative à la vente et à la détention pour la mise en vente des allumettes au phosphore blanc n'entrera en vigueur qu'un an après la même date

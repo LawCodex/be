@@ -1,0 +1,53 @@
+---
+title: "Loi relevant le droit de timbre établi sur les permis de port d'armes de chasse et de chasse au lévrier et instituant un permis de tenderie aux oiseaux ainsi qu'une taxe sur les établissements de canardières."
+identifier: "1922073050"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1922/07/30/1922073050/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1922-07-30
+published: 1922-07-31
+entry_into_force: 1922-08-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1922/07/30/1922073050/justel"
+retrieved: 2026-10-12
+---
+
+# 30 JUILLET 1922. - Loi relevant le droit de timbre établi sur les permis de port d'armes de chasse et de chasse au lévrier et instituant un permis de tenderie aux oiseaux ainsi qu'une taxe sur les établissements de canardières.
+
+## Art. 1
+
+(Abrogé implicitement) &lt;AR 29-09-1938, art. 184&gt; &lt;Voir note sous TITRE&gt;
+
+## Art. 2
+
+Les porteurs d'un permis de port d'armes de chasse belge peuvent obtenir pour leurs invités n'habitant pas le royaume, des licences de chasse valables pour cinq jours consécutifs, ( ) et mentionnant expressément, avec le nom du titulaire, les dates et les lieux où il en sera fait usage. (Implicitement modifié, AR 29-09-1938, art. 185)
+
+Un arrêté royal réglera le mode, la forme et les conditions de leur délivrance.
+
+Toute contravention à ces règles est punie d'une amende de 100 francs. &lt;Voir note sous TITRE&gt;
+
+## Art. 3
+
+&lt;Disposition modificative&gt; &lt;Voir note sous TITRE&gt;
+
+## Art. 4
+
+Le Gouvernement instituera, par un règlement d'administration générale pris en exécution de l'article 31 de la loi sur la chasse, un permis de tenderie aux oiseaux au moyen de filets et un permis de tenderie aux grives à l'aide de lacets.
+
+Ces permis, valables pour l'année au cours de laquelle ils sont délivrés, (sont frappés d'un droit de timbre au profit de l'Etat, ...) (Implicitement modifié, AR 29-09-1938, art. 186)
+
+Le règlement d'administration générale fixera le mode, la forme et les conditions de délivrance des permis.
+
+Le permis de tenderie au filet est personnel.
+
+Les infractions aux dispositions du présent article seront punies d'une amende de 50 francs.
+
+Il n'est rien modifié aux taxes existantes établies par certaines provinces et communes. &lt;Voir note sous TITRE&gt;
+
+## Art. 5
+
+Il est institué une taxe annuelle de 1,000 francs sur les établissements de canardières à filet, prévus par l'article 9 de la loi du 28 février 1882. (Alinéa 1 implicitement abrogé) &lt;AR 29-09-1938, art. 187&gt;
+
+Cette taxe, qui est due par le propriétaire, est payable en une fois, au bureau du receveur de l'enregistrement et des domaines du ressort dans lequel se trouve la canardière, avant la date d'ouverture de ces établissements, qui sera fixée par les arrêtés annuels d'ouverture de la chasse au gibier d'eau. (Alinéa 2 implicitement abrogé) &lt;AR 29-09-1938, art. 187&gt; &lt;Voir note sous TITRE&gt;

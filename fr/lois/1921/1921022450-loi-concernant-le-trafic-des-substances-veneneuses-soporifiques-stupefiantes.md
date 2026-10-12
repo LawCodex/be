@@ -1,0 +1,477 @@
+---
+title: "[Loi concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes.] <intitulé modifié par L 2003-05-03/46 , art. 2, 007; En vigueur : 02-06-2003>"
+identifier: "1921022450"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1921/02/24/1921022450/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1921-02-24
+published: 1921-03-06
+entry_into_force: 1921-03-16
+last_amended: 2026-03-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1921/02/24/1921022450/justel"
+justel_note: "Consultation des versions antérieures à partir du 21-10-1994 et mise à jour au 26-03-2026"
+retrieved: 2026-10-12
+---
+
+# 24 FEVRIER 1921. - [Loi concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes.] &lt;intitulé modifié par L 2003-05-03/46 , art. 2, 007; En vigueur : 02-06-2003&gt;
+
+## Art. 1
+
+&lt;L 2003-05-03/46, art. 3, 007; En vigueur : 02-06-2003&gt; [<sup>3</sup> § 1er.]<sup>3</sup> Le Roi peut [<sup>2</sup> ...]<sup>2</sup> réglementer et surveiller, dans l'intérêt de l'hygiène et de la santé publique, l'importation, l'exportation, le transit, la fabrication, la conservation, c'est-à-dire le stockage dans les conditions requises, l'étiquetage, le transport, la détention, le courtage, la vente et l'offre en vente, [<sup>4</sup> la prescription,]<sup>4</sup> la délivrance et l'acquisition, à titre onéreux ou à titre gratuit, des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques ainsi que la culture des plantes dont ces substances peuvent être extraites.
+
+Le Roi [<sup>2</sup> ...]<sup>2</sup> a les mêmes pouvoirs en ce qui concerne les substances psychotropes, autres que des substances stupéfiantes et soporifiques, susceptibles d'engendrer une dépendance.
+
+Le Roi peut [<sup>2</sup> ...]<sup>2</sup> exercer également les mêmes pouvoirs en ce qui concerne des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes.
+
+(De plus, en vue de la détection des problèmes liés aux médicaments, le Roi peut, par arrêté délibéré en Conseil des ministres, fixer des règles en matière de collecte et de traitement des données à caractère personnel relatives à la santé des patients. Ces règles prévoient des garanties relatives au consentement du patient, à l'information du patient, à la transmission limitée et au délai maximale de conservation de ces données conformément à la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.) &lt;L 2008-12-22/33, art. 105, 013; En vigueur : 08-01-2009&gt;
+
+[<sup>1</sup> Le Roi peut prévoir des mesures de surveillance plus strictes que celles requises par la Convention sur les substances psychotropes et des annexes, faite à Vienne le 21 février 1971 et confirmée par la loi du 25 juin 1992 portant assentiment à la Convention sur les substances psychotropes et des Annexes, faite à Vienne le 21 février 1971 et ce en application de l'article 23 de cette convention.]<sup>1</sup>
+
+[<sup>3</sup> Le Roi peut, par arrêté délibéré en Conseil des Ministres, déterminer les conditions et autres mesures sous lesquelles des informations anonymes relatives à la composition et à l'usage des substances visées par la présente loi sont communiquées aux autorités qu'Il désigne par les laboratoires et experts, même lorsqu'ils agissent dans le cadre d'une information ou d'une instruction pénale.]<sup>3</sup>
+
+[<sup>3</sup> § 2. le Roi peut, par arrêté délibéré en Conseil des Ministres, après avoir obtenu l'avis [<sup>5</sup> de Sciensano]<sup>5</sup>, soumettre aux règles et au contrôle visés au § 1er, des substances sur la base d'une classification générique.
+
+La classification générique visée dans le précédent alinéa est arrêtée par le Roi, entre autres sur la base des connaissances internationales, des recommandations et directives de l'Observatoire européen des drogues et des toxicomanies de l'Union européenne et de l'Organe international de contrôle des stupéfiants des Nations unies.]<sup>3</sup>
+
+[<sup>6</sup> § 3. L'AFMPS traite des données à caractère personnel nécessaires pour:
+
+1° octroyer des autorisations, agréments ou des certificats, conformément à la présente loi et à ses arrêtés d'exécution;
+
+2° assurer la surveillance de la présente loi et de ses arrêtés d'exécution.
+
+Le traitement visé à l'alinéa 1er est réalisé conformément aux dispositions du Chapitre IV/3, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2009-12-23/03, art. 21, 014; En vigueur : 08-01-2010&gt;
+
+(2)&lt;L 2013-03-19/03, art. 83, 015; En vigueur : 08-04-2013&gt;
+
+(3)&lt;L 2014-02-07/21, art. 2, 016; En vigueur : 20-03-2014&gt;
+
+(4)&lt;L 2018-10-30/06, art. 37, 019; En vigueur : 26-11-2018&gt;
+
+(5)&lt;L 2018-02-25/02, art. 63, 020; En vigueur : 01-04-2018&gt;
+
+(6)&lt;L 2024-04-09/29, art. 2, 028; En vigueur : 27-05-2024&gt;
+
+## Art. 1bis
+
+&lt;L 1974-07-22/01, art. 34&gt; (Le Roi [<sup>1</sup> ...]<sup>1</sup>) est autorisé à imposer que les emballages des substances visées à l'article 1er portent les mentions relatives aux modalités de leur destruction, neutralisation et élimination. &lt;L 2003-05-03/46, art. 4, 007; En vigueur : 02-06-2003&gt;
+
+Il est autorisé à déterminer les conditions dans lesquelles doit se faire cette destruction, neutralisation et élimination.
+
+----------
+
+(1)&lt;L 2013-03-19/03, art. 84, 015; En vigueur : 08-04-2013&gt;
+
+## Art. 1ter
+
+[<sup>1</sup> Les infractions aux dispositions qui, dans les arrêtés royaux pris en exécution de la présente loi, concernent l'étiquetage, ainsi qu'aux règles édictées en exécution de l'article 1erbis, sont punies d'une peine de niveau 1.
+
+Lorsque l'infraction est commise avec une intention frauduleuse, l'infraction est punie d'une peine de niveau 2. Par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende s'élève à 40.000 euros au plus.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 2, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 2
+
+[<sup>1</sup> Les infractions délibérées aux dispositions qui, dans les arrêtés royaux pris en exécution de la présente loi, concernent les substances toxiques, désinfectantes ou antiseptiques sont punies :
+
+1° d'une peine de niveau 1 quand ces infractions concernent la conservation et la délivrance de ces substances ;
+
+2° d'une peine de niveau 3 quand ces infractions concernent l'importation, l'exportation, la fabrication, le transport, la détention, la vente, l'offre en vente et l'acquisition à titre onéreux ou à titre gratuit. Par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 800.000 euros au plus.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 3, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 2bis
+
+[<sup>1</sup> § 1er. Les infractions délibérées aux dispositions qui, dans les arrêtés royaux pris en exécution de la présente loi, concernent les substances soporifiques, stupéfiantes et les autres substances psychotropes susceptibles d'engendrer une dépendance et dont la liste est arrêtée par le Roi ainsi que la culture des plantes dont peuvent être extraites ces substances, sont punies en fonction des distinctions visées à l'alinéa 2 et des catégories établies par le Roi par arrêté délibéré en Conseil des ministres, d'une peine de niveau 3.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, établir des distinctions entre les substances énumérées dans la liste visée à l'alinéa 1er.
+
+§ 2. Lors du choix de la peine ou de la mesure et de la sévérité de celle-ci pour les infractions visées au paragraphe 1er, le juge prend en considération le fait que :
+
+a) elles ont été commises à l'égard d'un mineur âgé de seize ans accomplis ;
+
+b) l'usage des substances spécifiées au paragraphe 1er, qui a été fait à la suite des infractions, a causé à autrui, une atteinte à l'intégrité du troisième degré telle que visée à l'article 79, 17°, du Code pénal.
+
+§ 3. Les infractions visées au paragraphe 1er, alinéa 1er, sont punies d'une peine de niveau 4 :
+
+a) si elles ont été commises à l'égard d'un enfant âgé de plus de douze ans accomplis et de moins de seize ans accomplis ;
+
+b) si l'usage qui a été fait des substances visées au paragraphe 1 à la suite des infractions, a causé la mort.
+
+§ 4. Les infractions visées au paragraphe 1er, alinéa 1er, sont punies d'une peine de niveau 5 :
+
+a) si elles ont été commises à l'égard d'un enfant âgé de moins de douze ans accomplis ;
+
+b) si elles constituent des actes de participation à l'activité principale ou accessoire d'une association ou d'une organisation criminelle telle que visée à l'article 406 du Code pénal.
+
+§ 5. Les infractions visées au paragraphe 1er, alinéa 1er, sont punies d'une peine de niveau 6 si elles constituent des actes de participation en qualité de dirigeant à l'activité principale ou accessoire d'une association ou d'une organisation criminelle visée à l'article 406 du Code pénal.
+
+§ 6. Par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 800.000 euros au plus pour les infractions visées par cet article.
+
+§ 7. Sont punis des peines prévues au présent article, et selon les distinctions qui y sont faites, ceux qui, à titre onéreux ou gratuit, posent délibérément des actes préparatoires en vue de la fabrication, la vente, la livraison ou la fourniture illicite d'une substance visée au paragraphe 1er, ou en vue de la culture des plantes dont peuvent être extraites ces substances.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 4, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 2ter
+
+[<sup>1</sup> Le Roi peut, par arrêté délibéré en Conseil des ministres, en fonction des distinctions et des catégories qu'Il établit conformément à l'article 2bis, § 1er, alinéa 1er, définir les infractions qui, en dérogation des peines visées à l'article 2bis, sont punies :
+
+1° d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende pour une première infraction est de 200 euros, et par dérogation à l'article 60 du Code pénal, de maximum 400 euros en cas de récidive dans l'année qui suit la première condamnation et de maximum 800 euros en cas de nouvelle récidive dans l'année qui suit la deuxième condamnation ;
+
+2° d'une peine de niveau 2. Par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende s'élève à 800.000 euros au plus.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 5, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 2quater
+
+&lt;inséré par L 2003-05-03/46, art. 8; En vigueur : 02-06-2003&gt; Les infractions aux dispositions du (Règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues et du Règlement (CE) n° 111/2005 du Conseil du 22 décembre 2004 fixant des règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers) et des règlements en portant application ainsi que les infractions aux dispositions de la présente loi et des arrêtés pris en exécution de celle-ci concernent les substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes, sont punies : &lt;L 2006-12-13/35, art. 88, 012; En vigueur : 01-01-2007&gt;
+
+1° conformément aux articles 231, 249 à 253 et 263 à 284 de la loi générale sur les douanes et accises du 18 juillet 1977, quand l'infraction ou la tentative d'infraction est commise lors du placement de marchandises sous un régime douanier ou de leur réexportation hors du territoire douanier de la Communauté, au sens de l'article 4, 15, du Code des douanes communautaire, établi par le règlement (CEE) n° 2913/92 du Conseil du 12 octobre 1992. Il faut entendre par tentative d'infraction l'expédition, le transport ou la détention de substances dans le but manifeste de les placer sous régime douanier ou de les réexporter hors du territoire douanier de la Communauté;
+
+2° [<sup>2</sup> d'une peine de niveau 1]<sup>2</sup> quand ces infractions concernent l'étiquetage et les règles édictées en exécution de l'article 1erbis ;
+
+3° [<sup>2</sup> d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 40.000 euros]<sup>2</sup> quand l'infraction concerne le fait de ne pas remplir ou tenir les documents ou registres, le faire de façon incomplète ou incorrecte, ne pas les conserver suffisamment longtemps et accepter des documents qui sont remplis de façon incomplète ou incorrecte, autres que des documents douaniers;
+
+4° [<sup>2</sup> d'une peine de niveau 3 où, par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 80.000 euros au plus]<sup>2</sup> quand l'infraction concerne :
+
+\- l'accomplissement d'activités de fabrication, d'utilisation, d'entreposage, de courtage, de mise sur le marché, de commerce, d'importation, d'exportation ou de mise en transit sans en voir obtenu l'agrément ou l'autorisation ou sans avoir fait de notification ou avoir pratiqué ces activités sans qu'elles soient visées dans l'autorisation ou l'agrément ou pour lesquelles il n'a pas été fait de notification, à l'exception des infractions visées au 1°;
+
+\- (la vente ou l'expédition sans en avoir adéquatement averti le Ministre qui a la Santé publique dans ses attributions, dans les cas déterminés par le Roi. - Le Roi fixe la façon selon laquelle cet avertissement doit se faire.) &lt;L 2006-12-13/35, art. 88, 012; En vigueur : 01-01-2007&gt;
+
+\- la mise à la disposition de substances à des personnes autres que celles auxquelles cette mise à disposition est permise.
+
+[<sup>1</sup> 5° [<sup>2</sup> d'une peine de niveau 4 si l'infraction visée au 4° constitue un acte de participation à l'activité principale ou accessoire d'une association ou d'une organisation criminelle telle que visée à l'article 406 du Code pénal. Par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 800.000 euros au plus ;]<sup>2</sup>
+
+6° [<sup>2</sup> d'une peine de niveau 5 si l'infraction visée au 4° constitue un acte de participation en qualité de dirigeant à l'activité principale ou accessoire d'une association ou d'une organisation criminelle telle que visée à l'article 406 du Code pénal. Par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 800.000 euros au plus.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>1</sup> Sont punis des peines prévues à l'alinéa 1er, 4° à 6°, et selon les distinctions qui y sont faites, ceux qui, à titre onéreux ou gratuit, posent des actes préparatoires en vue de commettre une infraction visée par les mêmes dispositions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-02-07/21, art. 4, 016; En vigueur : 20-03-2014&gt;
+
+(2)&lt;L 2026-03-16/13, art. 6, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 3
+
+§ 1. (...) &lt;L 2003-05-03/46, art. 9, 007; En vigueur : 02-06-2003&gt;
+
+(§ 2.) Seront punis des peines prévues à l'article 2bis et selon les distinctions qui y sont faites, ceux qui [<sup>2</sup> délibérément]<sup>2</sup> auront facilité à autrui l'usage à titre onéreux ou à titre gratuit des substances spécifiées à l'article 2bis, § 1, soit en procurant à cet effet un local, soit par tout autre moyen, ou qui auront [<sup>2</sup> délibérément]<sup>2</sup> incité à cet usage. &lt;L 2002-08-22/48, art. 2, 005; En vigueur : 11-10-2002&gt;
+
+(Ne sont pas soumises à l'application de l'alinéa précédent, l'offre en vente, la vente au détail et la délivrance, même à titre gratuit, visées à l'article 4, § 2, 6°, de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales.) &lt;L 1998-11-17/39, art. 2, 003; En vigueur : 23-12-1998&gt;
+
+[<sup>1</sup> Ne sont également pas soumis à l'application de l'alinéa premier, ceux qui, dans des espaces de consommation à moindre risque reconnus par le pouvoir public ou le pouvoir local compétent, facilitent l'usage à autrui de substances visées à l'article 2bis, § 1er dans un but de prophylaxie contre les maladies contagieuses ou plus généralement de réduction des risques sanitaires ou sécuritaires liés à cet usage.]<sup>1</sup>
+
+(§ 3.) Seront punis des peines prévues à l'article 2bis et selon les distinctions qui y sont faites, les praticiens de l'art de guérir, de l'art vétérinaire ou d'une profession paramédicale qui auront [<sup>2</sup> délibérément]<sup>2</sup> abusivement prescrit, administré ou délivré des médicaments contenant des substances soporifiques, stupéfiantes ou psychotropes de nature à créer, entretenir ou aggraver une dépendance. &lt;L 2002-08-22/48, art. 2, 005; En vigueur : 11-10-2002&gt;
+
+(§ 4. Ne peuvent être sanctionnés, en vertu du paragraphe précédent, les traitements de substitution dispensés par un praticien de l'art de guérir.
+
+On entend par traitement de substitution tout traitement consistant à prescrire, administrer ou délivrer à un patient toxicomane des substances stupéfiantes sous forme médicamenteuse, visant, dans le cadre d'une thérapie, à améliorer sa santé et sa qualité de vie, et à obtenir si possible le sevrage du patient.
+
+La liste des substances stupéfiantes et psychotropes sous forme médicamenteuse autorisées pour le traitement de substitution est déterminée par le Roi sur proposition du Ministre qui à la Santé publique dans ses attributions.
+
+Sur proposition du Ministre qui a la Santé publique dans ses attributions, le Roi détermine, par arrêté royal délibéré en Conseil des Ministres, les conditions relatives à :
+
+1° la délivrance et l'administration du médicament;
+
+2° l'enregistrement du traitement par le Ministère des Affaires sociales, de la Santé publique et de l'Environnement moyennant le respect de la réglementation relative à la protection de la vie privée.
+
+Pour les substances médicamenteuses qu'Il détermine, le Roi prévoit, sur proposition du Ministre qui a la Santé publique dans ses attributions et par arrêté délibéré en Conseil des Ministres, des conditions concernant :
+
+1° le nombre de patients pouvant être pris en charge, par médecin;
+
+2° l'accompagnement du traitement et la formation continue du médecin;
+
+3° la relation que le médecin prescripteur établit avec un centre spécialisé ou avec un réseau de soins.) &lt;L 2002-08-22/48, art. 2, 005; En vigueur : 11-10-2002&gt;
+
+----------
+
+(1)&lt;L 2023-03-21/03, art. 2, 024; En vigueur : 01-09-2023&gt;
+
+(2)&lt;L 2026-03-16/13, art. 7, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 4
+
+&lt;L 09-07-1975, art. 4&gt; § 1. [<sup>6</sup> ...]<sup>6</sup>
+
+§ 2. [<sup>6</sup> Si un auteur ou un participant à une infraction visée par la présente loi exerce une branche de l'art de guérir, l'art vétérinaire ou une profession paramédicale, le juge peut lui interdire temporairement ou définitivement l'exercice de cet art ou de cette profession. L'article 48, alinéas 3 et 4, du Code pénal s'applique à cette interdiction.]<sup>6</sup>
+
+§ 3. [<sup>6</sup> En condamnant du chef d'une des infractions visées aux articles 2, 2°, 2bis, 2quater et 3, le juge peut ordonner la fermeture de l'établissement où les infractions ont été commises, par dérogation à l'article 59 du Code pénal. Il peut en outre, interdire à titre temporaire ou définitif, au condamné l'exploitation, soit par lui-même, soit par une personne interposée, de tels établissements, l'article 48, alinéas 3 et 4, du Code pénal étant d'application. Il peut également ordonner la publication de la décision de condamnation conformément à l'article 58 du Code pénal.]<sup>6</sup>
+
+[<sup>2</sup> § 3bis. [<sup>3</sup> En condamnant du chef d'une des infractions visées aux articles 2, 2°, 2bis, 2quater et 3, le juge pourra prononcer l'interdiction temporaire d'entrer [<sup>5</sup> dans les ports belges ou les installations portuaires]<sup>5</sup> tels que définis à l'article 2.5.2.3, 4° et 5° du Code belge de la Navigation, et d'exercer des activités professionnelles dans ces ports ou installations portuaires ainsi que dans les secteurs de services pour ces ports ou installations portuaires.]<sup>3</sup>
+
+Le juge détermine le délai de l'interdiction, qui ne peut excéder vingt ans et le motive explicitement dans le jugement. [<sup>6</sup> L'article 48, alinéas 3 et 4, du Code pénal s'applique mutatis mutandis.]<sup>6</sup>
+
+[<sup>6</sup> ...]<sup>6</sup>]<sup>2</sup>
+
+§ 4. [<sup>6</sup> ...]<sup>6</sup>
+
+(§ 4bis. Lorsque le condamné n'est ni propriétaire ni exploitant [<sup>6</sup> de l'établissement visé]<sup>6</sup> au § 3, la fermeture ne peut être ordonnée que si la gravité des circonstances concrètes l'exige, et ce, pour un délai maximum de deux ans [<sup>6</sup> ...]<sup>6</sup> après citation en intervention du propriétaire ou de l'exploitant susmentionnés, sur requête du ministère public.) &lt;L 1998-11-17/39, art. 3, 003; En vigueur : 23-12-1998&gt;
+
+(§ 4ter. La citation devant le Tribunal correctionnel en vertu du § 4bis, est transcrite à la conservation des hypothèques de la situation des biens, à la diligence de l'huissier auteur de l'exploit.
+
+La citation doit contenir la désignation cadastrale de l'immeuble, objet de l'infraction et en identifier le propriétaire dans la forme et sous la sanction prévues à l'article 12 de la loi du 10 octobre 1913.
+
+Toute décision rendue en la cause est mentionnée en marge de la transcription de la citation selon la procédure prévue par l'article 84 de la loi hypothécaire.) &lt;L 1998-11-17/39, art. 3, 003; En vigueur : 23-12-1998&gt;
+
+§ 5. Toute infraction [<sup>2</sup> aux interdictions ou à la fermeture prononcées en vertu des §§ 2, 3, 3bis et 4bis]<sup>2</sup>, sera punie [<sup>6</sup> conformément à l'article 686 du Code pénal]<sup>6</sup>. &lt;L 1998-11-17/39, art. 3, 003; En vigueur : 23-12-1998&gt; &lt;L 2003-05-03/46, art. 10, 007; En vigueur : 02-06-2003&gt;
+
+§ 6. [<sup>6</sup> Sans préjudice de l'application des articles 53 et 54 du Code pénal, le juge peut ordonner la confiscation des véhicules, appareils, instruments ou choses qui ont servi ou ont été destinés à commettre les infractions visées aux articles 2, 2°, 2bis, 2quater et 3 ou qui en ont fait l'objet, même s'ils ne sont pas la propriété du condamné. Tout tiers prétendant droit sur la chose confisquée peut faire valoir ce droit dans un délai et suivant les modalités déterminées par le Roi.]<sup>6</sup>
+
+[<sup>4</sup> Les immeubles ayant servi ou étant destinés à commettre les infractions décrites aux articles 2, 2°, 2bis, 2quater et 3 peuvent être confisqués, même s'ils ne sont pas la propriété du condamné, sans préjudice des droits que peuvent faire valoir des tiers de bonne foi.]<sup>4</sup>
+
+[<sup>1</sup> § 7. Les substances illégales, ainsi que les matières premières et le matériel utilisé ou destiné à la production illégale des substances visées par la présente loi, y compris la culture de plantes d'où ces substances peuvent être extraites, peuvent immédiatement être détruits ou définitivement mis hors d'usage suivant une décision du Ministère public, en dépit de la poursuite de l'enquête, dans la mesure où leur conservation n'est pas nécessaire à la manifestation de la vérité. Dans le cadre d'une instruction judiciaire, cette mesure ne peut être ordonnée qu'après accord du juge d'instruction compétent.
+
+En toute hypothèse, les choses visées à l'alinéa 1er doivent être détruites lorsque la décision de la juridiction compétente qui en ordonne la confiscation est devenue définitive.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-02-07/21, art. 5, 016; En vigueur : 20-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 16, 021; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2022-10-13/10, art. 25, 023; En vigueur : 01-01-2023&gt;
+
+(4)&lt;L 2024-01-18/06, art. 44, 026; En vigueur : 05-02-2024&gt;
+
+(5)&lt;L 2024-05-16/55, art. 5, 029; En vigueur : 01-06-2024&gt;
+
+(6)&lt;L 2026-03-16/13, art. 8, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 5
+
+&lt;Abrogé par L 2026-03-16/13, art. 9, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 6
+
+[<sup>1</sup> Sont exemptés des peines de niveau 1, 2 ou 3 visées aux articles 2bis, 2quater et 3, ceux des coupables qui, avant toute poursuite, ont révélé à l'autorité l'identité des auteurs des infractions visées par ces articles ou, si ceux-ci ne sont pas connus, l'existence de ces infractions.
+
+Dans les mêmes cas, les peines de niveau 5 ou 4 visées aux mêmes articles, sont remplacées par une peine de niveau 2.
+
+Les peines de niveau 3 visées aux articles 2bis, 2quater et 3 sont remplacées par une peine de niveau 2 pour les coupables qui, après le commencement des poursuites, ont révélé aux autorités l'identité des auteurs restés inconnus. Dans les mêmes cas, une peine de niveau 2 est réduite à une peine de niveau 1. Dans les mêmes cas, une peine de niveau 1 peut être remplacée par une peine accessoire prévue pour l'infraction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 10, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 6bis
+
+&lt;L 2004-07-09/30, art. 89, 010; En vigueur : 25-07-2004&gt; Les officiers de police judiciaire et les fonctionnaires ou agents désignés à cette fin par le Roi, peuvent visiter les officines, magasins, boutiques et lieux quelconques affectés à la vente ou à la délivrance des substances visées dans la présente loi, pendant les heures où ils sont ouverts au public.
+
+Ils peuvent aussi visiter, pendant les mêmes heures, les dépôts annexés aux locaux et lieux visés à l'alinéa précédent, même lorsque ces dépôts ne sont pas ouverts au public.
+
+Ils peuvent, à toute heure, visiter les locaux qui servent à la fabrication, à la préparation, à la conservation ou à l'entreposage de ces substances.
+
+Ils sont investis des mêmes pouvoirs à l'égard des locaux où il est fait usage, en présence de mineurs d'âge, des substances visées à l'article 2bis, § 1er.
+
+## Art. 6/3
+
+[<sup>1</sup> Sans préjudice des dispositions de l'article 7, § 3, alinéa 3, les infractions aux dispositions de la présente loi et à celles prises en vertu de celle-ci, seront constatées par des procès-verbaux faisant foi jusqu'à preuve du contraire. Une copie du procès-verbal sera transmise aux contrevenants.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-10-30/06, art. 38, 019; En vigueur : 26-11-2018&gt;
+
+## Art. 7
+
+&lt;L 09-07-1975, art. 7&gt; (§ 1er. Sans préjudice des compétences des officiers de police judiciaire, [<sup>1</sup> les membres du personnel statutaire, ou les membres du personnel contractuel à durée indéterminée assermentés de l'Administration générale des Douanes et Accises]<sup>1</sup> et les membres du personnel statutaire, ou, à défaut, les membres du personnel engagés dans les liens d'un contrat de travail à durée indéterminée (de l'Agence fédérale des médicaments et des produits de santé), désignés à cet effet par le Roi, exercent la surveillance de l'application de la présente loi et de ses arrêtés d'exécution et du [<sup>1</sup> règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues, règlement (CE) n° 111/2005 du Conseil du 22 décembre 2004 fixant des règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers]<sup>1</sup> et des règlements en portant application. &lt;L 2006-12-27/32, art. 239, 011; En vigueur : 01-01-2007&gt;
+
+Les membres du personnel contractuel visés à l'alinéa premier prêtent serment, préalablement à l'exercice de leurs fonctions, entre les mains du ministre ou de son délégué.) &lt;L 2003-12-22/42, art. 268, 008; En vigueur : 10-01-2004&gt;
+
+(§ 2. Sans préjudice des compétences des officiers de police judiciaire les membres du personnel statutaire ou contractuel visés au § 1er, munis de pièces justificatives de leurs fonctions, peuvent dans l'exercice de leur mission :
+
+1° (Visiter, entre 5 heures du matin et 9 heures du soir, sans avertissement préalable,) tous les lieux où les substances visées dans la présente loi sont vendues, délivrées à titre onéreux ou non, fabriquées, préparées, conservées ou entreposées, ou autres lieux soumis à leur contrôle (...) même si ceux-ci ne sont pas accessibles au public (...). &lt;L 2004-07-09/30, art. 90, 010; En vigueur : 25-07-2004&gt;
+
+Toutefois, en dehors de ces heures, ils ne peuvent (visiter) les lieux visés à l'alinéa 1er, qu'avec l'autorisation préalable du (président du tribunal de première instance). &lt;L 2004-07-09/30, art. 90, 010; En vigueur : 25-07-2004&gt;
+
+(Alinéa 3 abrogé) &lt;L 2004-07-09/30, art. 90, 010; En vigueur : 25-07-2004&gt;
+
+(Alinéa 4 abrogé) &lt;L 2004-07-09/30, art. 90, 010; En vigueur : 25-07-2004&gt;
+
+2° Procéder à tout examen, contrôle, audition et recueillir toutes informations qu'ils estiment nécessaires pour s'assurer que les dispositions des législations dont ils exercent la surveillance, sont effectivement observées et notamment :
+
+a) interroger toute personne dont ils estiment l'audition nécessaire, sur tout fait dont la connaissance est utile à l'exercice de la surveillance;
+
+b) prendre l'identité de toute personne dont ils estiment l'audition nécessaire pour l'exercice de la surveillance; à cet effet, exiger des personnes la présentation de documents officiels d'identification ou rechercher l'identité de ces personnes par d'autres moyens, y compris en faisant des photos et des prises de vues par film et vidéo;
+
+c) se faire produire, sans déplacement, pour en prendre connaissance, tous livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information contenant des données dont l'établissement, la tenue ou la conservation sont prescrits par les législations dont ils exercent la surveillance et en prendre des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies, ou se faire fournir ceux-ci sans frais, ou même saisir n'importe quels supports d'information visés par le présent littera contre récépissé,
+
+d) se faire produire, sans déplacement, pour en prendre connaissance, tous livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information qu'ils jugent nécessaires à l'accomplissement de leur mission et en prendre des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies ou se faire fournir ceux-ci sans frais, ou même saisir n'importe quels supports d'information visés par le présent littera contre récépissé,
+
+e) saisir contre récépissé ou mettre sous scellés tous les biens mobiliers autres que ceux visés dans les litteras c et d, en ce compris les biens mobiliers qui sont immeubles par incorporation ou par destination, que le contrevenant en soit propriétaire ou pas, qui sont soumis à leur contrôle ou par lesquels des infractions aux législations dont ils exercent la surveillance peuvent être constatées lorsque cela est nécessaire à l'établissement de la preuve de ces infractions ou lorsque cela peut permettre de déceler [<sup>2</sup> d'autres auteurs ou participants]<sup>2</sup> de l'infraction ou lorsque le danger existe qu'avec ces biens, les infractions persistent ou que de nouvelles infractions soient commises ou encore quand les objets semblent former les choses ou les avantages patrimoniaux visés [<sup>2</sup> à l'article 53, § 2, alinéa 1er,]<sup>2</sup> du Code Pénal;
+
+f) faire des constatations en faisant des photos et des prises de vues par film ou vidéo;) &lt;L 2003-12-22/42, art. 268, 008; En vigueur : 10-01-2004&gt;
+
+(§ 3. Les membres du personnel statutaire et contractuel visés au § 1er, ont le droit de donner des avertissements, de fixer au contrevenant un délai pour se mettre en règle et dresser des procès-verbaux.
+
+(La compétence qui permet de donner un avertissement est aussi limitée aux infractions liées aux substances vénéneuses, soporifiques, désinfectantes et antiseptiques.) &lt;L 2004-04-12/39, art. 3, 009; En vigueur : 23-05-2004&gt;
+
+Ces procès-verbaux font foi jusqu'à preuve du contraire. Une copie de ceux-ci est portée à la connaissance du contrevenant endéans un délai de vingt jours, qui prend cours le lendemain du jour de la constatation de l'infraction. Lorsque le jour d'échéance qui est compris dans ce délai est un samedi, un dimanche ou un jour férié il est déplacé au jour ouvrable suivant.
+
+Pour l'application du délai déterminé à l'alinéa précédent, l'avertissement donné au contrevenant ou la fixation d'un délai pour se mettre en règle n'emportent pas la constatation de l'infraction.
+
+Lors de l'établissement des procès-verbaux les constatations matérielles faites par eux peuvent être utilisées, avec leur force probante, par les autres membres du personnel statutaires ou contractuels du même service, des autres services d'inspection ou par les membres du personnel statutaires ou contractuels chargés de la surveillance du respect d'autres législations.
+
+Les membres du personnel statutaire et contractuel visés au § 1er, dans l'exercice de leur fonction, peuvent requérir l'assistance de la force publique.) &lt;L 2003-12-22/42, art. 268, 008; En vigueur : 10-01-2004&gt;
+
+§ 4. Le Roi règle le mode et les conditions de la prise d'échantillons, ainsi que l'organisation et le fonctionnement des laboratoires reconnus pour leur analyse.
+
+(§ 5. Le présent article ne s'applique pas aux contrôles effectués en application de la loi du 4 février 2000 relative à la création de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.) &lt;AR 2001-02-22/33, art. 10, 004; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2023-07-11/12, art. 3, 025; En vigueur : 08-09-2023&gt;
+
+(2)&lt;L 2026-03-16/13, art. 11, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 7bis
+
+&lt;Inséré par L 2003-12-22/42, art. 269; En vigueur : 10-01-2004&gt; Les membres du personnel statutaires ou contractuels visés à l'article 7, § 1er, doivent prendre les mesures nécessaires afin de respecter le caractère confidentiel des données à caractère personnel dont ils ont pris connaissance dans l'exercice de leur mission et assurer que ces données soient utilisées exclusivement pour l'exercice de leur mission de surveillance.
+
+§ 2. Lorsqu'ils l'estiment nécessaire, les membres du personnel statutaire ou contractuel visés à l'article 7, § 1er, communiquent les renseignements recueillis lors de leur enquête à tous les fonctionnaires chargés de la surveillance d'autres législations, dans la mesure où ces renseignements peuvent intéresser ces derniers dans l'exercice de la surveillance dont ils sont chargés.
+
+Il y a obligation de communiquer ces renseignements lorsque les autres membres du personnel visés à l'alinéa précédent les demandent.
+
+Toutefois, les renseignements recueillis à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire ne peuvent être communiqués qu'avec l'autorisation de celle-ci.
+
+Les renseignements concernant des données médicales à caractère personnel ne peuvent être communiqués ou utilisés que dans le respect du secret médical.
+
+§ 3. Tous les services de l'Etat, y compris les parquets et les greffes des cours et de toutes les juridictions, des communautés, des régions, des provinces, des agglomérations, des fédérations de communes, des communes, des associations dont elles font partie, des institutions publiques qui en dépendent, ainsi que de toutes les institutions publiques qui en dépendent, sont tenus, vis-à-vis des membres du personnel statutaires ou contractuels visés à l'article 7, § 1er, et à leur demande, de leur fournir tous renseignements [<sup>1</sup> dont ils disposent]<sup>1</sup>, ainsi que de leur produire, pour en prendre connaissance, tous [<sup>1</sup> actes, pièces]<sup>1</sup>, livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information et de leur en fournir des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies que ces derniers estiment utiles à la surveillance du respect des législations dont ils sont chargés.
+
+Tous les services précités, à l'exception des services des communautés et des régions, sont tenus de fournir sans frais ces renseignements, extraits, duplicata, impressions, listages, copies ou photocopies.
+
+Toutefois, les actes, pièces, registres, documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués sans l'autorisation expresse du procureur général ou de l'auditeur général.
+
+§ 4. Les membres du personnel statutaire ou contractuel visés à l'article 7, § 1er, ne peuvent avoir un intérêt quelconque, direct ou indirect, dans les entreprises ou institutions qu'ils sont chargés de contrôler.
+
+----------
+
+(1)&lt;L 2014-05-05/09, art. 25, 017; En vigueur : 18-07-2014&gt;
+
+## Art. 8
+
+[<sup>1</sup> § 1er. Sont punis d'une peine de niveau 1, ceux qui, délibérément refusent ou s'opposent aux visites des officiers et fonctionnaires ou les membres du personnel contractuel ou statutaire visés à l'article 7, § 1er, à leurs inspections ou à la prise d'échantillons concernant les substances visées à l'article 2.
+
+§ 2. Sont punis d'une peine de niveau 3, ceux qui refusent ou s'opposent délibérément aux visites, inspections ou à la prise d'échantillons auxquelles il est procédé par les mêmes agents et les membres du personnel contractuel ou statutaire, lorsque celles-ci concernent les substances visées à l'article 2bis ou à l'article 2quater. Par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 800.000 euros au plus.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 12, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 9
+
+&lt;Abrogé par L 2026-03-16/13, art. 13, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 9bis
+
+[<sup>1</sup> Sans préjudice des compétences des instances judiciaires et sans préjudice des articles 134ter et quater de la Nouvelle Loi communale, le bourgmestre peut, après concertation préalable avec les autorités judiciaires et si cela est nécessaire pour le maintien de l'ordre public, fermer un établissement accessible au public en cas d'indices sérieux que des activités illégales ont lieu, lesquelles se rapportent à la culture, la fabrication, la vente, la livraison ou la facilitation de la consommation de substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques, d'objets ou de substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes. Cela n'est possible qu'après avoir entendu le responsable dans ses moyens de défense.
+
+La mesure cesse immédiatement d'avoir effet si elle n'est pas confirmée par le collège des bourgmestre et échevins ou le collège communal à sa plus prochaine réunion.
+
+La mesure de fermeture a une durée maximale de six mois, renouvelable deux fois. La décision de renouvellement de la mesure cesse immédiatement d'avoir effet si elle n'est pas confirmée par le collège des bourgmestre et échevins ou le collège communal à sa plus prochaine réunion.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-01-15/07, art. 44, 027; En vigueur : 17-02-2024&gt;
+
+## Art. 9ter
+
+&lt;Inséré par L 2006-07-20/39, art. 38; En vigueur : 07-08-2006&gt; La personne qui est trouvée manifestement sous l'influence de produits soporifiques ou psychotropes dans un lieu accessible au public peut être arrêtée administrativement, si sa présence provoque désordre, scandale ou danger soit pour autrui, soit pour elle-même, sous la responsabilité d'un officier de la police administrative, pour une durée maximale de six heures. Elle reçoit, si sa situation l'exige, les soins médicaux nécessaires.
+
+Les autorités judiciaires en sont avisées.
+
+Au moment de la libération de cette personne, la police l'informe des possibilités d'aide bénévole et lui communique, si possible, les adresses nécessaires et les points de contact.
+
+## Art. 10
+
+&lt;Inséré par L 1994-07-14/57, art. 6; En vigueur : 31-10-1994&gt; § 1. Le roi peut, par arrêté délibéré en Conseil des Ministres, prendre dans le cadre du champ d'application de la présente loi, toutes mesures nécessaires à l'exécution des traités et des actes internationaux pris en vertu de ceux-ci. Il peut, à cette fin, compléter, abroger ou modifier les dispositions de la présente loi.
+
+§ 2. En cas de transgression des dispositions prises en vertu des traités et actes internationaux visés au § 1er, et non érigée en infraction par la présente loi, celle-ci sera sanctionnée [<sup>1</sup> d'une peine de niveau 3. Par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 80.000 euros au plus]<sup>1</sup>. &lt;L 2003-05-03/46, art. 15, 007; En vigueur : 02-06-2003&gt;
+
+Le Roi, par arrêté délibéré en Conseil des Ministres, précise dans les limites prévues à l'alinéa précédent, les infractions et les peines applicables à chacune de celles-ci.
+
+§ 3. Les arrêtés royaux pris en vertu du présent article sont abrogés, lorsqu'ils n'ont pas été ratifiés par les Chambres législatives dans les deux années qui suivent celle de leur publication au Moniteur belge.
+
+(§ 4. Le présent article ne s'applique pas aux matières relevant de la compétence de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.) &lt;AR 2001-02-22/33, art. 10, 004; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 14, 031; En vigueur : 01-09-2026&gt;
+
+## Art. 11
+
+&lt;inséré par L 2003-05-03/46, art. 16; En vigueur : 02-06-2003&gt;
+
+(NOTE : par son arrêt n° 158/2004 du 20-10-2004 (M.B. 28-10-2004, p. 74050), la Cour d'Arbitrage a annulé cet article, en maintenant les effets de la disposition annulée jusqu'au 28-10-2004)
+
+§ 1er. 1 Par dérogation à larticle 40 de la loi sur la fonction de police du 5 août 1992, en cas de constatation de détention, par un majeur, dune quantité de cannabis à des fins dusage personnel, qui nest pas accompagné de nuisances publiques ou dusage problématique, il ne sera procédé quà un enregistrement policier.
+
+§ 2. On entend par usage problématique: un usage qui saccompagne dun degré de dépendance qui ne permet plus à lutilisateur de contrôler son usage, et qui sexprime par des symptômes psychiques ou physiques.
+
+§ 3. On entend par nuisances publiques: les nuisances publiques visées à larticle 135, § 2, 7°, de la nouvelle loi communale. Conformément à larticle 3.5.g de la Convention de 1988 contre le trafic illicite de stupéfiants et de substances psychotropes, est considérée comme une nuisance publique, la détention de cannabis commise dans une institution pénitentiaire, dans un établissement scolaire ou dans les locaux dun service social, ainsi que dans leur voisinage immédiat ou dans dautres lieux fréquentés par des mineurs dâge à des fins scolaires, sportives ou sociales.
+
+## Art. 12
+
+[<sup>1</sup> § 1er. En cas d'infraction aux dispositions de la présente loi ou de ses arrêtés d'exécution, constatées par un membre du personnel statutaire ou contractuel de l'Agence fédérale des médicaments et des produits de santé tel que visé à l'article 7, paragraphe 1er, le fonctionnaire-juriste désigné par l'Administrateur général de l'Agence fédérale des médicaments et des produits de santé (ci-après dénommée l'AFMPS), peut fixer une somme dont le paiement volontaire par le contrevenant éteint l'action publique.
+
+La proposition de transaction, visée à l'alinéa 1er, ne peut pas être proposée pour [<sup>2</sup> des infractions visées à l'article 2bis, §§ 2 à 6, à l'article 2quater, 4° à 6°, et à l'article 3]<sup>2</sup>.
+
+La proposition de transaction est envoyée à l'auteur de l'infraction dans les trois mois à partir de la date du procès-verbal.
+
+En cas de paiement de la transaction dans le mois de sa réception, le fonctionnaire-juriste en informe le procureur du Roi et lui transmet l'original du procès-verbal et une copie de la proposition de la transaction.
+
+Le paiement de la transaction éteint l'action publique, sauf si le procureur du Roi notifie à l'auteur de l'infraction, dans un délai de deux mois de la date à laquelle l'information du paiement lui a été adressée, qu'il entend exercer cette action.
+
+Si l'action publique est introduite après paiement de la transaction et entraîne la condamnation de l'intéressé, le montant de la transaction est alors imputé sur les frais de justice dus à l'Etat et sur l'amende prononcée. L'excédent éventuel est restitué. En cas d'acquittement, le montant de la transaction est restitué.
+
+En cas de condamnation conditionnelle, le montant de la transaction est restitué après déduction des frais de justice.
+
+En cas de non-paiement de la transaction dans le mois de sa réception, le fonctionnaire-juriste en informe le procureur du Roi et lui transmet l'original du procès-verbal et une copie de la proposition de la transaction.
+
+Si le fonctionnaire-juriste ne fait pas de proposition de transaction, il transmet l'original du procès-verbal au procureur du Roi dans un délai de trois mois à partir de la date du procès-verbal. Le procureur du Roi peut retourner l'original du procès-verbal au fonctionnaire-juriste afin qu'il propose une transaction à l'auteur présumé de l'infraction. Cette proposition de transaction peut être envoyée à l'auteur de l'infraction dans les trois mois de la réception du renvoi. Les dispositions du présent paragraphe s'appliquent à la proposition de transaction visée au présent paragraphe.
+
+§ 2. [<sup>2</sup> Le montant dont le paiement éteint l'action publique ne peut être inférieur à 200 euros.]<sup>2</sup>
+
+Le montant maximum de le montant dont le paiement éteint l'action publique est égal au montant maximum de l'amende fixée pour l'infraction à la disposition légale concernée.
+
+En cas de concours de différentes infractions, les montants, dont le paiement éteint l'action publique, peuvent être additionnés sans que le montant total ne puisse dépasser le double du montant maximal de l'amende dont est punie l'infraction entraînant l'amende la plus élevée.
+
+En cas de récidive endéans un délai de trois ans après paiement de la somme qui éteint l'action publique, fixée suit à l' infraction de la présente loi et de ses arrêtés d'exécution, la somme du montant maximal peut être doublée.
+
+Le montant de la proposition de transaction est majoré des décimes additionnels qui sont d'application aux amendes prévues par le Code pénal et éventuellement majoré des frais de l'expertise.
+
+Une proposition de transaction peut être proposée aussi bien à une personne morale qu'à une personne physique. Le montant de la proposition de transaction est établi sur la base de l'amende fixée pour l'infraction sans tenir compte de l'éventuelle peine d'emprisonnement.
+
+Les modalités de paiement sont déterminées par le Roi.
+
+§ 3. Les sommes résultant des transactions sont versées au compte de l'AFMPS à son profit.
+
+§ 4. L'employeur est civilement responsable du paiement de la transaction proposée à son préposé.
+
+§ 5. La personne à qui le paiement de la transaction est proposé, peut, sur demande auprès du fonctionnaire-juriste, prendre connaissance du dossier concernant l'infraction à sa charge. Cette personne peut faire parvenir par écrit ses remarques ou moyens de défenses à l'AFMPS qui, en cas de non-paiement de la transaction, les transmettra au procureur du Roi avec le procès-verbal qui constate l'infraction.
+
+§ 6. La faculté de proposer à l'auteur de l'infraction une transaction dont le paiement éteint l'action publique ne peut pas être exercée lorsque le tribunal est déjà saisi ou lorsque le juge d'instruction est requis d'instruire.
+
+§ 7. Le présent article n'est pas applicable aux infractions prévues en application de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence Fédérale pour la sécurité de la chaîne alimentaire et modifiant diverses dispositions légales.
+
+§ 8. Un rapport annuel des résultats d'activités visées au paragraphe 1er sera établi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-05-18/08, art. 2, 022; En vigueur : 09-06-2022&gt;
+
+(2)&lt;L 2026-03-16/13, art. 15, 031; En vigueur : 01-09-2026&gt;

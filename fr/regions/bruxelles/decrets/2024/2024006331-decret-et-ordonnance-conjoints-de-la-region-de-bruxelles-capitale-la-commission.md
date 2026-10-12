@@ -1,0 +1,73 @@
+---
+title: "Décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française modifiant les articles 25, 27, et 28 des décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française du 16 mai 2019 relatifs à la publicité de l'administration dans les institutions bruxelloises"
+identifier: "2024006331"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024006331/justel"
+type: decree
+justel_type: "DECRET (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2024-05-16
+published: 2024-07-16
+entry_into_force: 2024-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024006331/justel"
+department: "Commission communautaire française"
+retrieved: 2026-10-12
+---
+
+# 16 MAI 2024. - Décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française modifiant les articles 25, 27, et 28 des décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française du 16 mai 2019 relatifs à la publicité de l'administration dans les institutions bruxelloises
+
+L'Assemblée de la Commission communautaire française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Les présents décret et ordonnance conjoints règlent une matière visée aux articles 39, 135 et 135bis de la Constitution, ainsi qu'aux articles 127 et 128 de la Constitution en vertu de l'article 138 de celle-ci.
+
+## Art. 2
+
+A l'article 25 des décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française du 16 mai 2019 relatifs à la publicité de l'administration dans les institutions bruxelloises, les modifications suivantes sont apportées:
+
+1° le paragraphe 1er est complété par un point 1° bis rédigé comme suit :
+
+" 1° bis : les rejets de demandes de réutilisation, visées au chapitre Il, article 9 ; " ;
+
+2° l'article est complété par un paragraphe 3 rédigé comme suit :
+
+" § 3. - La Commission ou son président rendent un avis sur tout projet pouvant avoir une influence sur les compétences ou le fonctionnement de la Commission.
+
+L'avis est communiqué dans un délai de trente jours à partir de la date de réception du dossier de demande d'avis complet. ".
+
+## Art. 3
+
+A l'article 27 des mêmes décret et ordonnance conjoints, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1er, l'alinéa 3 est remplacé par ce qui suit : " Les délais visés à l'alinéa 1er sont interrompus par l'introduction d'une réclamation devant le médiateur bruxellois. Un nouveau délai de trente jours ou de cinq jours commence à courir :
+
+a) soit à dater de la réception par le demandeur de la notification du médiateur l'informant de la fin de son intervention ;
+
+b) soit à l'expiration d'un délai de quatre mois à compter de l'introduction de la réclamation, si la notification visée au a) n'est pas intervenue plus tôt. " ;
+
+2° dans le paragraphe 3, les mots " la demande de réutilisation, " sont insérés entre le mot " rejetant " et les mots " la demande d'accès visée au chapitre Ill ", et les mots " de réutilisation, " sont insérés entre les mots " une copie de la demande " et les mots " d'accès ou de rectification ".
+
+## Art. 4
+
+A l'article 28, § 1er, des mêmes décret et ordonnance conjoints, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 2, les mots " , la réutilisation " sont insérés entre les mots " l'accès " et le mot " ou " ;
+
+2° dans l'alinéa 4, les mots " ou de réutilisation " sont insérés à la suite des mots " demande d'accès ".
+
+## Art. 5
+
+Les présents décret et ordonnance conjoints entrent en vigueur le 1er juin 2024.
+
+---
+
+Bruxelles, le 16 mai 2024.
+
+La Ministre-Présidente du Collège,
+
+en charge de la Promotion de la Santé, des Familles, du Budget et de la Fonction publique,
+
+B. TRACHTE

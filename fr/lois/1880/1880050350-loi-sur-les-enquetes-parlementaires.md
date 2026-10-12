@@ -1,0 +1,180 @@
+---
+title: "Loi sur les enquêtes parlementaires."
+identifier: "1880050350"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1880/05/03/1880050350/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1880-05-03
+published: 1880-05-05
+entry_into_force: 1880-05-15
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1880/05/03/1880050350/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 26-02-2010 et mise à jour au 10-03-2026"
+retrieved: 2026-10-12
+---
+
+# 3 MAI 1880. - Loi sur les enquêtes parlementaires.
+
+## Art. 1
+
+&lt;L 1996-06-30/34, art. 2, En vigueur : 1996-07-26&gt; [<sup>1</sup> La Chambre des représentants exerce]<sup>1</sup> le droit d'enquête conféré par l'article 56 de la Constitution, conformément aux dispositions suivantes.
+
+Les enquêtes menées par [<sup>1</sup> la Chambre des représentants]<sup>1</sup> ne se substituent pas à celles du pouvoir judiciaire, avec lesquelles elles peuvent entrer en concours, sans toutefois en entraver le déroulement.
+
+----------
+
+(1)&lt;L 2014-01-06/62, art. 2, 003; En vigueur : 25-05-2014&gt;
+
+## Art. 2
+
+[<sup>1</sup> La]<sup>1</sup> Chambre, (dans le cadre de la mission qu'elle définit,) exerce ce droit par elle-même ou par une commission formée dans son sein. &lt;L 1996-06-30/34, art. 3, ED 1996-07-26&gt;
+
+----------
+
+(1)&lt;L 2014-01-06/62, art. 3, 003; En vigueur : 25-05-2014&gt;
+
+## Art. 3
+
+&lt;L 1996-06-30/34, art. 4, En vigueur : 1996-07-26&gt; La commission est constituée et elle délibère conformément aux règles établies par la Chambre.
+
+Tout membre de la Chambre a le droit d'assister à l'enquête de la commission, à moins que la Chambre ou la commission ne décident le contraire.
+
+Les réunions de la commission sont publiques. La commission peut cependant à tout moment décider le contraire.
+
+Les membres de la Chambre sont tenus au secret en ce qui concerne les informations recueillies à l'occasion des réunions non publiques de la commission. Toute violation de ce secret sera sanctionnée conformément au règlement de la Chambre [<sup>1</sup> ...]<sup>1</sup>.
+
+La commission peut lever l'obligation de secret sauf si elle s'est expressément engagée à le préserver.
+
+[<sup>2</sup> Le secret expire soit cinquante ans après la publication du rapport visé à l'article 13, alinéa 1er, première phrase, soit, à défaut de rapport, cinquante ans après la fin du mandat de la commission, soit dans le délai supérieur à cinquante ans déterminé éventuellement par la Chambre conformément à l'article 13, alinéa 1er, troisième phrase.
+
+Avant l'expiration du délai déterminé conformément à l'alinéa 6, un juge peut demander par écrit adressé à la Chambre la levée de l'obligation de secret pour répondre aux besoins de son instruction. Cette demande ne peut s'appliquer qu'au témoignage d'une personne décédée. Saisie d'une telle demande, la Chambre peut constituer une commission telle que visée à l'article 2, régie par la présente loi. Cette commission statue sur la levée éventuelle de l'obligation de secret pour les pièces que la commission détermine ainsi que sur les conditions contraignantes qui régiraient cette levée.
+
+Avant l'expiration du délai déterminé conformément à l'alinéa 6, la Chambre peut, de sa propre initiative ou à la demande d'un tiers adressée par écrit à la Chambre, constituer une commission telle que visée à l'article 2, régie par la présente loi. Cette commission statuera sur une éventuelle prolongation de ce délai pour les pièces que la commission détermine. Dans le cas d'une telle prolongation, le secret expire au plus tard cent ans après la publication du rapport visé à l'article 13, alinéa 1er, première phrase, ou, à défaut de rapport, cent ans après la fin du mandat de la commission.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/62, art. 4, 003; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2025-11-16/02, art. 2, 004; En vigueur : 24-01-2026&gt;
+
+## Art. 4
+
+&lt;L 1996-06-30/34, art. 5, En vigueur : 1996-07-26&gt; § 1. La Chambre ou la commission, ainsi que leurs présidents pour autant que ceux-ci y soient habilités, peuvent prendre toutes les mesures d'instruction prévues par le Code d'instruction criminelle.
+
+§ 2. Pour l'accomplissement de devoirs d'instruction qui devront être déterminés préalablement, la Chambre ou la commission peuvent adresser une requête au premier président de la cour d'appel, qui désigne un ou plusieurs conseillers à la cour d'appel ou un ou plusieurs juges du tribunal de première instance du ressort dans lequel les devoirs d'instruction doivent être accomplis.
+
+Pour l'accomplissement de ces devoirs d'instruction, le magistrat désigné est placé sous la direction du président de la commission. Il établit un rapport écrit consignant les résultats de son instruction.
+
+Le magistrat désigné peut agir en dehors de son ressort et étendre son instruction à l'ensemble du Royaume.
+
+§ 3. La commission peut également, conformément à la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements, charger les Comités permanents P et R d'effectuer les enquêtes nécessaires.
+
+§ 4. Lorsque les mesures d'instruction comportent une limitation de la liberté d'aller ou de venir, une saisie de matériels, une perquisition ou l'écoute, la prise de connaissance et l'enregistrement de communications et de télécommunications privées, l'intervention du magistrat désigné conformément au § 2 est obligatoire.
+
+Les articles 35 à 39 et 90ter à 90novies du Code d'instruction criminelle relatifs à la saisie de biens matériels et à l'écoute, à la prise de connaissance et à l'enregistrement de communications et de télécommunications privées sont applicables par le magistrat visé à l'alinéa précédent.
+
+§ 5. Lorsque des renseignements doivent être demandés en matière criminelle, correctionnelle, policière et disciplinaire, la commission adresse au procureur général près la cour d'appel ou à l'auditeur général près la Cour militaire une demande écrite en vue de se faire délivrer une copie des devoirs d'instruction et des actes de procédure dont elle estime avoir besoin.
+
+Si, par décision motivée, ce magistrat estime ne pas pouvoir accéder à cette demande, la Chambre, la commission ou leurs présidents peuvent introduire un recours auprès d'un collège constitué du premier président de la Cour de cassation, du président de la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup> et du premier président du Conseil d'Etat. Ce collège siège à huis clos et règle la procédure. Il peut entendre, dans les délais les plus brefs, le président de la commission et le magistrat concerné. Il tranche le conflit de manière définitive et par décision motivée rendue en séance publique, en tenant compte des intérêts en présence et, en particulier, du respect des droits de la défense.
+
+§ 6. Lorsque des renseignements doivent être demandés en matière administrative, la commission adresse une demande écrite au ministre ou au secrétaire d'Etat compétent, qui y donne suite immédiatement.
+
+----------
+
+(1)&lt;L 2010-02-21/02, art. 2, 002; En vigueur : 08-03-2010&gt;
+
+## Art. 5
+
+Les citations sont faites par le ministère d'huissier (de justice) à la requête, selon le cas, du président de la Chambre, du président de la commission ou du magistrat commis; le délai sera de deux jours au moins, sauf le cas d'urgence. &lt;L 05-07-1963, art. 48, §4, MB 27-07-1963&gt;
+
+## Art. 6
+
+Le président de la Chambre, ou le président de la commission, a la police de la séance.
+
+Il l'exerce dans les limites des pouvoirs attribués aux présidents des cours et tribunaux.
+
+## Art. 7
+
+Les outrages et les violences envers les membres de la Chambre qui procèdent ou assistent à l'enquête sont punis conformément [<sup>1</sup> aux articles 102, 116, 124, 202 et 247]<sup>1</sup> du Code pénal concernant les outrages et les violences envers les membres des Chambres législatives.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 62, 005; En vigueur : 01-09-2026&gt;
+
+## Art. 8
+
+&lt;L 1996-06-30/34, art. 6, En vigueur : 1996-07-26&gt; Toute personne autre qu'un membre de la Chambre qui, à un titre quelconque, assiste ou participe aux réunions non publiques de la commission, est tenue, préalablement, de prêter le serment de respecter le secret des travaux. Toute violation de ce secret sera punie conformément aux dispositions de l'[<sup>1</sup> article 352]<sup>1</sup> du Code pénal.
+
+Les témoins, les interprètes et les experts sont soumis devant la Chambre, la commission ou le magistrat commis, aux mêmes obligations que devant le juge d'instruction.
+
+Tout un chacun peut être appelé comme témoin. La convocation se fait par écrit et, au besoin, par citation.
+
+Avant d'être entendus, les témoins sont tenus de présenter l'invitation ou la convocation à témoigner, il en est fait mention dans le procès-verbal. Avant son audition, le témoin décline ses nom, prénoms, profession, lieu et date de naissance et domicile.
+
+Les témoins et les experts prêtent ensuite le serment de dire toute la vérité et rien que la vérité.
+
+Les experts confirment leurs rapports verbaux ou écrits par le serment suivant : " Je jure avoir accompli ma mission en honneur et conscience, avec exactitude et probité ".
+
+Le procès-verbal des témoignages est signé, soit immédiatement, soit au plus tard quinze jours à dater de la fin de l'audition par le président et par le témoin, après que lecture lui en a été faite et qu'il a déclaré persister en ses déclarations. Aucun interligne ne pourra être fait, les ratures et renvois seront approuvés et paraphés par le président et le témoin.
+
+Si le témoin refuse de signer ses dépositions, il en sera fait mention au procès-verbal.
+
+Toute personne citée pour être entendue en témoignage sera tenue de comparaître et de satisfaire à la citation sous peine [<sup>1</sup> une peine de niveau 1. Par dérogation à l'article 36 du Code pénal, l'amende s'élève à 80.000 euros au plus]<sup>1</sup>. [<sup>1</sup> ...]<sup>1</sup>.
+
+Sans préjudice de l'invocation du secret professionnel visé à l'[<sup>1</sup> article 352]<sup>1</sup> du Code pénal, tout témoin qui, en faisant une déclaration conforme à la vérité, pourrait s'exposer à des poursuites pénales, peut refuser de témoigner.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 63, 005; En vigueur : 01-09-2026&gt;
+
+## Art. 9
+
+Le coupable de faux témoignage, l'interprète et l'expert coupables de fausses déclarations, le coupable de subornation de témoins, d'experts ou d'interprètes seront punis d'un emprisonnement de deux mois à trois ans et privés de l'exercice du droit de vote et d'éligibilité pendant cinq ans au moins et dix ans au plus.
+
+Lorsque le faux témoin, l'expert ou l'interprète aura reçu de l'argent, une récompense quelconque ou des promesses, il sera condamné de plus à une amende de 50 à 3 000 francs.
+
+La même peine sera appliquée au suborneur, sans préjudice des autres peines.
+
+Le faux témoignage est consommé lorsque le témoin, ayant fait sa déposition, a déclaré y persister.
+
+Si le témoin est appelé pour être entendu de nouveau, le faux témoignage n'est consommé que par la dernière déclaration du témoin qu'il persiste dans sa déposition.
+
+## Art. 10
+
+(Les procès-verbaux constatant des indices ou des présomptions d'infractions seront transmis au procureur général près la cour d'appel pour y être donné telle suite que de doit.)
+
+(...) &lt;L 1996-06-30/34, art. 7, En vigueur : 1996-07-26&gt;
+
+## Art. 11
+
+Les indemnités dues aux personnes dont le concours a été requis dans l'enquête sont réglées conformément au tarif des frais en matière civile.
+
+## Art. 12
+
+&lt;L 1996-06-30/34, art. 8, En vigueur : 1996-07-26&gt; En conformité avec son règlement, la Chambre met sans délai à la disposition de la commission les moyens indispensables à l'accomplissement de sa mission.
+
+## Art. 13
+
+(La commission consigne la relation de ses travaux dans un rapport public. Elle acte ses conclusions et formule, le cas échéant, ses observations quant aux responsabilités que l'enquête révèle, et ses propositions sur une modification de la législation.) [<sup>2</sup> Si l'enquête devait en faire apparaître la nécessité, une commission peut proposer à la Chambre, qui décide, de fixer un délai d'expiration du secret visé à l'article 3 supérieur à cinquante ans après la publication du rapport ou, à défaut de rapport, après la fin du mandat de la commission, sans que ce délai ne puisse jamais excéder cent ans.]<sup>2</sup> &lt;L 1996-06-30/34, art. 9, En vigueur : 1996-07-26&gt;
+
+Les pouvoirs de la commission cessent en cas de dissolution de la Chambre [<sup>1</sup> ...]<sup>1</sup>.
+
+Ils sont suspendus par la clôture de la session, à moins que le Chambre n'en décide autrement.
+
+----------
+
+(1)&lt;L 2014-01-06/62, art. 5, 003; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2025-11-16/02, art. 3, 004; En vigueur : 24-01-2026&gt;
+
+## Art. 14..
+
+[<sup>1</sup> Les articles 3, alinéas 6 à 8, et 13, alinéa 1er, troisième phrase, ont pour finalité d'atteindre un équilibre entre la protection du droit au respect de la vie privée, le droit à l'information, l'efficacité de l'enquête parlementaire et la possibilité de collaborer à une instruction judiciaire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-16/02, art. 4, 004; En vigueur : 24-01-2026&gt;

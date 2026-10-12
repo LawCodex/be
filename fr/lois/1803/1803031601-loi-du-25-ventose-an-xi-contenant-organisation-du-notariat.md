@@ -1,0 +1,2555 @@
+---
+title: "Loi du 25 ventôse an XI contenant organisation du notariat."
+identifier: "1803031601"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1803/03/16/1803031601/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1803-03-16
+published: 1803-03-16
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1803/03/16/1803031601/justel"
+justel_notes:
+  - "art.18quinquies modifié avec effet à une date indéterminée par L 2020-04-30/03 , art. 16, 026; En vigueur : indéterminée "
+  - "art. 9 et 10 modifié jusqu'au 03-06-2020 par L 2020-04-30/03 , art. 10-11, 026; En vigueur : 04-05-2020"
+  - "Consultation des versions antérieures à partir du 07-09-2006 et mise à jour au 10-03-2026"
+retrieved: 2026-10-12
+---
+
+# 16 MARS 1803. - Loi du 25 ventôse an XI contenant organisation du notariat.
+
+## TITRE Ier. - Des aires et des actes notariés.
+
+### Section Ire. - Des fonctions, ressort et devoirs des notaires.
+
+##### Art. 1
+
+Les notaires sont les fonctionnaires publics établis pour recevoir tous les actes et contrats auxquels les parties doivent ou veulent faire donner le caractère d'authenticité attaché aux actes de l'autorité publique, et pour en assurer la date, en conserver le dépôt, en délivrer des grosses et expéditions.
+
+(Sous réserve des droits de l'autorité publique, ils ont seuls qualité pour procéder aux ventes publiques d'immeubles, de rentes et de créances hypothécaires. Ces ventes ne peuvent se faire qu'au plus offrant et dernier enchérisseur.) &lt;L 16-04-1927, art. 1er, MB 27-04-1927&gt;
+
+[<sup>1</sup> Le notaire informe toujours entièrement chaque partie des droits, des obligations et des charges découlant des actes juridiques dans lesquels il intervient et conseille les parties en toute impartialité.
+
+Sous réserve des droits de l'autorité publique et sauf disposition légale contraire, le notaire a la compétence pour la certification de données et documents dématérialisés, en particulier sur le plan de l'origine des données et documents, et pour en délivrer des copies ou extraits certifiés, sous forme dématérialisée ou non, qui attestent la conformité avec la donnée ou le document original. Le notaire est également compétent pour certifier, sous forme dématérialisée ou non, l'identité et la signature électronique ou manuscrite des personnes. Les certifications visées au présent alinéa ne nécessitent pas un acte authentique et ne sont pas soumises aux dispositions légales et réglementaires relatives aux actes notariés.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/19, art. 110, 025; En vigueur : 29-06-2019&gt;
+
+##### Art. 1bis
+
+[<sup>1</sup> § 1er. La fonction de notaire peut être exercée comme notaire-titulaire conformément à l'article 45, comme notaire adjoint conformément aux articles 49bis et 49ter ou comme notaire associé avec un notaire-titulaire conformément à l'article 52, § 2.
+
+Le notaire titulaire et les notaires associés exercent leur fonction en tant qu'indépendant. Le notaire adjoint l'exerce en tant que salarié.
+
+§ 2. Sauf en cas de dérogation ou précision expresse, les dispositions de la présente loi qui s'appliquent aux notaires, s'appliquent tant aux notaires-titulaires qu'aux notaires associés et notaires adjoints.
+
+L'alinéa 1er s'applique par analogie aux dispositions qui sont prescrites par ou en vertu d'autres textes législatifs et qui concernent la compétence et les missions des notaires et toutes les dispositions réglementaires relatives à l'exercice de la fonction de notaire, y compris la déontologie et la discipline notariale.
+
+En dérogation à l'alinéa 1er, les dispositions du Titre II ne s'appliquent au notaire adjoint que pour autant que cela soit expressément prévu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-22/06, art. 2, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 2
+
+&lt;L 1999-05-04/03, art. 2, En vigueur : 01-01-2000&gt; Les notaires sont désignés jusqu'à l'âge de [<sup>1</sup> septante]<sup>1</sup> ans.
+
+Un an avant d'atteindre cette limite d'âge, [<sup>2</sup> les notaires-titulaires]<sup>2</sup> sont considérés comme démissionnaires pour que la procédure visant à leur remplacement puisse être engagée.
+
+Un notaire qui donne sa démission plus tôt est considéré comme démissionnaire à partir de l'acceptation de sa démission. Ce [<sup>2</sup> notaire-titulaire]<sup>2</sup> démissionnaire peut, s'il y est autorisé, exercer sa fonction jusqu'à la prestation de serment de son successeur ou jusqu'à la notification de l'arrêté royal portant suppression de sa résidence.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 163, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2022-11-22/06, art. 3, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 3
+
+Ils sont tenus de prêter leur ministère lorsqu'ils en sont requis.
+
+##### Art. 4
+
+Chaque notaire devra [<sup>1</sup> avoir son étude]<sup>1</sup> dans [<sup>1</sup> la résidence]<sup>1</sup> qui lui sera [<sup>1</sup> fixée]<sup>1</sup> par (le Roi). En cas de contravention, le notaire sera considéré comme démissionnaire; en conséquence, le (...) Ministre de la Justice, après avoir pris l'avis du tribunal, pourra proposer (au Roi) le remplacement. &lt;L 09-04-1980, art. 1er, § 1er, 1°, MB 06-05-1980&gt;
+
+[<sup>2</sup> La résidence du notaire correspond à la commune. Lorsque le territoire de la commune est réparti sur plusieurs cantons judiciaires, la résidence du notaire est la partie de la commune située dans un canton judiciaire déterminé. En cas de fusion ou de changement de communes, la résidence du notaire devient la commune fusionnée ou nouvelle, le cas échéant limitée à un canton judiciaire déterminé.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 164, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2022-11-22/06, art. 5, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 5
+
+&lt;L 1999-05-04/03, art. 3, En vigueur : 01-01-2000, à l'exception du § 1er, En vigueur : 01-11-1999 (AR 26-10-1999, art 1, MB 30-10-1999)&gt; § 1er. Les notaires exercent leurs fonctions dans l'étendue de l'arrondissement judiciaire de leur résidence. Toutefois, ceux qui ont leur résidence [<sup>1</sup> dans les cantons de [<sup>2</sup> Limbourg]<sup>2</sup>, de [<sup>3</sup> Spa]<sup>3</sup>, [<sup>2</sup> dans le premier canton de Verviers]<sup>2</sup> et dans le deuxième canton de Verviers]<sup>1</sup> [<sup>1</sup> ou dans l'arrondissement judiciaire d'Eupen]<sup>1</sup> exercent leurs fonctions [<sup>1</sup> dans les limites territoriales ci-mentionnées]<sup>1</sup>.
+
+[<sup>4</sup> Dans les cas où la loi permet la comparution par voie de vidéoconférence en vue d'un acte sous forme dématérialisée, les parties comparaissent virtuellement dans le ressort du notaire instrumentant.]<sup>4</sup>
+
+§ 2. Les notaires peuvent néanmoins recevoir des actes hors de leur ressort dans les cas où les parties ne peuvent comparaître qu'en personne et qu'elles déclarent dans l'acte qu'elles sont physiquement [<sup>4</sup> ou juridiquement]<sup>4</sup> incapables de se rendre à l'étude du notaire instrumentant.
+
+----------
+
+(1)&lt;L 2013-12-01/01, art. 125, 010; En vigueur : indéterminée et au plus tard le 01-04-2014, voir L 2014-05-08/02, art. 119, 014; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2017-12-25/08, art. 2, 1°, 3°, 021; En vigueur : 01-06-2018&gt;
+
+(3)&lt;L 2017-12-25/08, art. 2, 021; En vigueur : indéterminée et au plus tard le 01-01-2020&gt;
+
+(4)&lt;L 2022-11-22/06, art. 6, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 6
+
+&lt;AR213 1935-12-13/30, art. 1er&gt; Le notaire ne peut :
+
+1° (instrumenter hors de son ressort, sauf dans les cas visés à l'article 5, § 2;) &lt;L 1999-05-04/03, art. 4, A), En vigueur : 01-01-2000&gt;
+
+2° (avoir une étude ou [<sup>1</sup> une antenne]<sup>1</sup> hors de sa résidence, sauf dans le cas prévu à l'article [<sup>1</sup> 52, § 1er et § 1er/1]<sup>1</sup>;) &lt;L 1999-05-04/03, art. 4, B), En vigueur : 01-01-2000&gt;
+
+3° Se servir de prête-nom pour les actes qu'il ne peut faire directement;
+
+4° Laisser intervenir ses clercs dans les actes qu'il reçoit, sauf en qualité de porte-fort d'une personne déterminée ou du chef d'un mandat écrit, général ou spécial;
+
+5° Se constituer garant ou caution, à quelque titre que ce soit, des prêts qu'il est chargé de constater;
+
+6° Exercer, par lui-même ou par personne interposée, un commerce;
+
+7° Etre, par lui-même ou par personne interposée, gérant, administrateur délégué ou liquidateur d'une [<sup>2</sup> entreprise industrielle ou commerciale]<sup>2</sup>;
+
+8° (être, lui-même ou par personne interposée, administrateur d'une [<sup>2</sup> entreprise industrielle ou commerciale]<sup>2</sup>, à moins qu'il n'y soit autorisé par le ministre de la Justice;) &lt;L 1999-05-04/03, art. 4, C), En vigueur : 01-01-2000&gt;
+
+9° Placer à son profit, soit en nom personnel, soit par personne interposée, des fonds reçus en dépôt;
+
+10° Faire signer des billets ou des reconnaissances, en laissant en blanc le nom du créancier;
+
+[<sup>2</sup> 11° recevoir un acte sans être provisionné.]<sup>2</sup>
+
+Les prohibitions prévues aux numéros 7 et 8 ne sont pas applicables aux mandats exercés dans des sociétés ou organismes d'ordre professionnel.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 165, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2022-11-22/06, art. 7, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 7
+
+&lt;L 09-04-1980, art. 1er, § 1er, 2°, MB 06-05-1980&gt; Outre les incompatibilités prévues par le Code judiciaire, les lois relatives au Conseil d'Etat, coordonnées le 12 janvier 1973 et par les lois particulières, la charge de notaire est incompatible avec les fonctions de receveur des contributions directes ou indirectes et avec celles de commissaire de police.
+
+### Section II. - Des actes, de leur forme; des minutes, grosses, expéditions et répertoires.
+
+##### Art. 8
+
+&lt;AR213 1935-12-13/30, art. 1er&gt; Les notaires ne peuvent recevoir des actes dans lesquels eux-mêmes [<sup>2</sup> ou un autre notaire de l'étude]<sup>2</sup>, [<sup>2</sup> le conjoint ou cohabitant légal ou les parents ou alliés]<sup>2</sup>, en ligne directe à tous les degrés, et (en ligne collatérale jusqu'au [<sup>1</sup> deuxième]<sup>1</sup> degré inclusivement), [<sup>2</sup> d'un de ces notaires]<sup>2</sup> sont parties, ou qui contiennent quelque disposition en [<sup>2</sup> faveur de ceux-ci]<sup>2</sup>. &lt;L 01-03-1950, art. 2, MB 15-03-1950&gt; &lt;L 1999-05-04/03, art. 5, En vigueur : 01-01-2000&gt;
+
+La disposition qui précède ne s'applique pas aux procès-verbaux des assemblées générales d'actionnaires ou d'obligataires d'une société [<sup>2</sup> dotée de la responsabilité limitée]<sup>2</sup>, à moins que [<sup>2</sup> la personne visée à l'alinéa 1er]<sup>2</sup> ne soit membre du bureau, administrateur, [<sup>2</sup> ...]<sup>2</sup> commissaire ou liquidateur de la société. &lt;L 01-03-1950, art. 2, MB 15-03-1950&gt;
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 166, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2022-11-22/06, art. 8, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 9
+
+[<sup>1</sup> § 1er. Les actes sont reçus par un ou plusieurs notaires. Hormis les cas où la désignation du notaire est prévue par voie de justice, chaque partie a le libre choix d'un notaire.
+
+Lorsqu'il constate l'existence d'intérêts contradictoires ou d'engagements disproportionnés, le notaire attire l'attention des parties et les avise qu'il est loisible à chacune d'elles de désigner un autre notaire ou de se faire assister par un conseil. Le notaire en fait mention dans l'acte notarié.
+
+§ 2. Deux notaires, mariés ou cohabitant légalement ensemble, parents ou alliés au degré prohibé par l'article 8, ou exerçant la fonction de notaire au sein de la même étude, ne peuvent recevoir ensemble les actes prévus par l'article 10, alinéa 1er.
+
+Lorsqu'un acte est reçu par plusieurs notaires, il doit mentionner le nom du notaire au sein de l'étude duquel est tenu le répertoire auquel sa minute est inscrite.
+
+§ 3. [<sup>2</sup> Un acte peut également être reçu à distance devant deux notaires ou plus, auquel cas les parties ou leur représentant ou mandataire et les autres personnes intervenantes comparaissent physiquement devant le notaire de leur choix et assistent à la réception de l'acte par voie de vidéoconférence, après accord de tous les intéressés. Dans ce cas, l'acte peut être reçu sous forme dématérialisée conformément à l'article 18quinquies, § 2, 2° à 5°, quel que soit l'objet de l'acte. Les parties comparantes et personnes intervenantes qui ne remplissent pas les exigences de l'article 18quinquies, § 2, 2°, ou qui, si l'acte est reçu sur support papier, ne sont pas présentes auprès du détenteur de la minute, sont représentées par procuration lors de la signature de l'acte.
+
+L'acte peut également être reçu sous forme dématérialisée conformément aux dispositions visées à l'alinéa 1er par un notaire instrumentant seul, pour autant que les parties ou leur représentant ou mandataire et les autres personnes intervenantes comparaissent physiquement devant ce notaire.
+
+Les alinéas 1 et 2 ne s'appliquent pas à la réception de testaments en la forme authentique ou internationale, à leur révocation ou à des institutions contractuelles par acte séparé, qui doivent être reçus sur support papier.]<sup>2</sup>
+
+§ 4. Les mandats de justice dont un notaire de l'étude est investi peuvent être exécutés de plein droit et sans désignation nouvelle, par les autres notaires de l'étude.
+
+Lorsque le notaire commis quitte l'étude, les mandats de justice dont il était investi sont exécutés pour la suite par les autres notaires de l'étude, sauf si le notaire qui quitte l'étude continue sa fonction et ses mandats de justice dans la même résidence sans interruption de sa nomination ou affectation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 9, 034; En vigueur : 01-01-2023&gt;
+
+(2)&lt;L 2024-03-28/60, art. 1, 036; En vigueur : 08-04-2024&gt;
+
+##### Art. 10
+
+[<sup>1</sup> L'acte doit être reçu par deux notaires lorsque l'une ou l'autre des parties ne peut ou ne sait signer, est aveugle ou sourde-muette.
+
+Le testament international est reçu par un ou plusieurs notaires avec l'assistance de deux témoins.
+
+Les témoins doivent être âgés de dix-huit ans accomplis et savoir signer.
+
+Ne peuvent être témoins, ni le notaire qui exerce la fonction de notaire au sein de la même étude que le notaire instrumentant, ni le conjoint, le cohabitant légal, les parents et alliés au degré prohibé par l'article 8, les clercs et les membres du personnel, soit d'un de ces notaires, soit d'une des parties. Les conjoints ou les cohabitants légaux ne peuvent être témoins dans un même acte.
+
+Ne peuvent en outre être pris pour témoins d'un testament international, ni les légataires à quelque titre que ce soit, ni leur conjoint ou cohabitant légal, ni leurs parents ou alliés au degré prohibé par l'article 8, ni les membres de leur personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 10, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 11
+
+&lt;L 2007-03-01/37, art. 4, 003; En vigueur : 24-03-2007&gt; Le nom, les prénoms, le lieu et la date de naissance ainsi que le domicile des parties qui signent l'acte doivent être connues du notaire ou lui être établis par des documents d'identité probants à viser à l'acte ou lui être attestés dans l'acte par deux personnes connues de lui, ayant les qualités requises pour être témoins instrumentaires.
+
+##### Art. 12
+
+&lt;L 1999-05-04/03, art. 9, En vigueur : 01-01-2000&gt; [<sup>2</sup> Tous les actes doivent énoncer les nom, prénom [<sup>5</sup> ...]<sup>5</sup> et lieu de résidence du notaire qui les reçoit. [<sup>5</sup> ...]<sup>5</sup> Les parties sont désignées dans l'acte par leur nom, suivis de leurs prénoms, lieu et date de naissance et domicile. Les parties qui disposent d'un numéro du registre national ou auxquelles un numéro d'identification du registre bis a été attribué en application de l'article 4, § 2, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, sont en outre désignées avec ce numéro, sauf si l'acte est reçu en dehors de l'étude du notaire et que le numéro n'est pas disponible sur la pièce d'identité qui est présentée. En cas de certification établie sur la base de la carte d'identité, il suffit de mentionner les deux premiers prénoms au lieu de reprendre tous les prénoms. Les prénoms sont mentionnés dans l'ordre où ils figurent dans le document qui a servi à l'identification.]<sup>2</sup> [<sup>4</sup> Pour les comparants qui interviennent uniquement comme représentant ou mandataire, ou qui ne font que prêter assistance, seuls doivent être mentionnés les noms, prénoms et domicile. Lorsque le [<sup>5</sup> représentant ou]<sup>5</sup> mandataire est un collaborateur d'une étude notariale, désigné en cette qualité, la mention du domicile du [<sup>5</sup> représentant ou]<sup>5</sup> mandataire peut être remplacée par une élection de domicile au siège de l'étude notariale.]<sup>4</sup> [<sup>6</sup> Lorsqu'un mandataire judicaire agit en exécution de son mandat, la mention du domicile peut être remplacée par l'adresse de son étude ou cabinet.]<sup>6</sup>
+
+Les actes énoncent également les noms, prénoms usuels et domicile des témoins prévus aux articles 10 et 11, ainsi que le lieu et la date où les actes sont passés. [<sup>4</sup> Pour les actes qui sont reçus en forme dématérialisée, la date de l'acte est la date contenue dans la signature électronique du notaire et le lieu de l'acte est le lieu où celui-ci est signé par ce notaire.]<sup>4</sup>
+
+([<sup>4</sup> Les]<sup>4</sup> sommes faisant l'objet d'une obligation de paiement sont écrites en toutes lettres). Les procurations des contractants sont annexées à la minute [<sup>5</sup> , au plus tard avant le dépôt de l`acte dans la Banque des actes notariés visée à l'article 18]<sup>5</sup>. La procuration ne doit pas être annexée à la minute si le notaire instrumentant conserve la minute de ladite procuration [<sup>5</sup> s'il a déjà annexé le brevet ou une expédition de celle-ci à un acte de son ministère ou si la minute dématérialisée ou la copie dématérialisée de la procuration est reprise dans la Banque des actes notariés]<sup>5</sup>. &lt;L 2007-03-01/37, art. 5, 2°, 003; En vigueur : 24-03-2007&gt;
+
+L'acte est commenté. Les mentions visées à l'alinéa premier et au deuxième alinéa sont toujours lues intégralement, de même que les modifications apportées au projet d'acte communiqué préalablement.
+
+L'acte est toujours lu intégralement, dans les cas visés à l'article 10, de même que dans les cas où la communication préalable du projet d'acte aux parties et aux personnes intervenantes n'a pas eu lieu en temps utile.
+
+Le projet d'acte est, sauf déclaration contraire d'une partie, censé avoir été [<sup>3</sup> communiqué]<sup>3</sup> en temps utile, lorsque les parties l'ont reçu au moins cinq jours ouvrables avant la passation de l'acte.
+
+A la fin de l'acte, il est fait mention du commentaire de l'acte, de la date à laquelle les parties ont, le cas échéant, pris préalablement connaissance du projet de l'acte, et de la lecture partielle ou intégrale de l'acte.
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 18, 007; En vigueur : 29-05-2009&gt;
+
+(2)&lt;L 2013-12-21/26, art. 38, 011; En vigueur : 10-01-2014&gt;
+
+(3)&lt;L 2017-07-06/24, art. 169, 018; En vigueur : 03-08-2017&gt;
+
+(4)&lt;L 2021-07-12/01, art. 25, 030; En vigueur : 25-07-2021&gt;
+
+(5)&lt;L 2022-11-22/06, art. 11, 034; En vigueur : 01-01-2023&gt;
+
+(6)&lt;L 2026-02-08/04, art. 2, 038; En vigueur : 26-02-2026&gt;
+
+##### Art. 13
+
+&lt;L 10-07-1951, art. unique, MB 22-07-1951&gt; [<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Les actes notariés sont établis d'une manière indélébile, lisiblement, sans abréviations, blancs, lacunes ni intervalles, sans préjudice des articles 971 à 998 et 1001 du Code civil relatifs aux testaments; chaque feuillet simple ou double d'un acte comportant plusieurs feuillets portera la mention de sa numérotation. Cette mention sera paraphée ou signée par tous les signataires de l'acte, à moins que le feuillet ne porte déjà leur paraphe ou signature; le tout, sous la responsabilité du notaire, et à peine d'une amende de 2,50 euros contre lui.]<sup>1</sup>
+
+[<sup>1</sup> Le Roi prescrit, par arrêté délibéré en Conseil des ministres, les mesures nécessaires afin de garantir l'inaltérabilité, la confidentialité et la conservation des actes notariés [<sup>2</sup> , et peut fixer des modalités complémentaires pour l'établissement des actes qui peuvent être reçus sous forme dématérialisée]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 2. A l'exception de la constitution d'une fondation par voie de testament, les actes authentiques de constitution [<sup>3</sup> ou modification]<sup>3</sup> de personnes morales peuvent être reçus sous forme dématérialisée [<sup>3</sup> , à distance ou non]<sup>3</sup>. Les dispositions de l'[<sup>3</sup> article 18quinquies, § 2, 1° à 6°]<sup>3</sup>, s'appliquent à ces actes et le Roi peut fixer des modalités d'établissement et de conservation complémentaires.
+
+[<sup>3</sup> ...]<sup>3</sup> La plateforme électronique qui est mise à disposition à cette fin est gérée par la Fédération Royale du Notariat belge.
+
+Les parties à un acte [<sup>3</sup> visé à l'alinéa 1er]<sup>3</sup> qui ont la qualité de citoyen d'un Etat membre de l'UE, peuvent en outre employer tout autre moyen d'identification électronique qui est, soit, délivré dans le cadre d'un schéma d'identification électronique approuvé par la Belgique, soit, délivré dans un autre Etat membre et reconnu aux fins de l'authentification transfrontière conformément à l'article 6 du Règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, pour autant que ce moyen d'identification permet un niveau d'identification et d'authentication équivalent répondant aux moyens d'identification mentionnés à l'article 18quinquies, § 2, 2°. Dans ce cas, il signent l'acte au biais d'une signature électronique qualifiée générée à travers la plateforme électronique visée à l'alinéa 2. Le présent alinéa s'applique également aux procurations sous forme dématérialisée octroyées par les mêmes personnes en vue de la signature [<sup>3</sup> d'un acte visé à l'alinéa 1er]<sup>3</sup>, lorsque celles-ci prennent la forme authentique.
+
+Dans les cas visés aux alinéas 2 et 3, le notaire peut exiger la comparution physique d'une partie:
+
+1° lorsqu'il existe des motifs de soupçonner une falsification d'identité;
+
+2° lorsque cela est nécessaire pour contrôler le respect des règles relatives à la capacité juridique de la partie ou à son pouvoir de représentation de la personne morale pour le compte de laquelle elle agit.
+
+§ 3. Lorsqu'une minute dématérialisée est complétée avec des mentions ultérieures au pied ou dans la marge, des adjonctions ou des annexions ultérieures, ces compléments sont effectués sous la forme d'un ajout séparé de la mention ou du document sous le numéro NABAN de l'acte dans la Banque des actes notariés. Si l'ajout concerne le numéro de répertoire de l'acte, son ajout comme métadonnée de l'acte suffit.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 19,1°,2°, 007; En vigueur : 01-01-2017&gt;
+
+(2)&lt;L 2021-07-12/01, art. 26, 030; En vigueur : 01-08-2021&gt;
+
+(3)&lt;L 2022-11-22/06, art. 12, 034; En vigueur : 26-06-2023&gt;
+
+##### Art. 14
+
+(Les actes seront signés par les parties, les témoins et le notaire. Mention de la signature est faite à la fin de l'acte.) &lt;L 16-12-1922, art. unique, MB 22-12-1922&gt;
+
+Quant aux parties qui ne savent ou ne peuvent signer, le notaire doit faire mention, à la fin de l'acte, de leurs déclarations à cet égard.
+
+##### Art. 15
+
+Les renvois et apostilles ne pourront, sauf l'exception ci-après, être inscrits qu'en marge; ils seront signés ou paraphés, tant par les notaires que par les autres signataires, à peine de nullité des renvois et apostilles. Si la longueur du renvoi exige qu'il soit transporté à la fin de l'acte, il devra non seulement être signé ou paraphé comme les renvois écrits en marge, mais encore expressément approuvé par les parties, à peine de nullité du renvoi.
+
+##### Art. 16
+
+Il n'y aura ni surcharge, ni interligne, ni addition dans le corps de l'acte; et les mots surchargés, interlignés ou ajoutés, seront nuls. Les mots qui devront être rayés le seront de manière que le nombre puisse en être constaté à la marge de leur page correspondante, ou à la fin de l'acte, et approuvé de la même manière que les renvois écrits en marge; le tout à peine d'une amende de [<sup>1</sup> 1,25 euro]<sup>1</sup> contre le notaire, ainsi que de tous dommages-intérêts, même de destitution en cas de fraude. (NOTE : lire 1,25 euros selon art. 3 L 2000-06-26/42)
+
+[<sup>1</sup> Au plus tard avant la transcription [<sup>3</sup> hypothécaire]<sup>3</sup> ou, s'il s'agit d'un acte qui n'est pas soumis à cette formalité de transcription, avant son enregistrement, le notaire instrumentant peut, sous sa responsabilité, apporter au pied de la minute des corrections ou ajouts pour rectifier une erreur ou omission matérielle, sans porter atteinte à la portée de la convention. Chaque expédition ultérieure de l'acte mentionne ces corrections ou ajouts.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-12-21/26, art. 80, 011; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2022-11-22/06, art. 13, 034; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2023-12-22/05, art. 3, 035; En vigueur : 08-01-2024&gt;
+
+##### Art. 17
+
+&lt;Abrogé par L 2022-11-22/06, art. 14, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 18
+
+[<sup>2</sup> § 1er. Une copie dématérialisée de tous les actes qui sont reçus conformément aux dispositions de l'article 13, [<sup>3</sup> § 1er,]<sup>3</sup> alinéa 1er, est conservée dans une Banque des actes notariés gérée par la Fédération Royale du Notariat belge. La copie dématérialisée doit être déposée et enregistrée dans la Banque des actes notariés dans le délai prescrit pour la présentation à l'enregistrement, conformément à l'article 32 du Code des droits d'enregistrement, d'hypothèque et de greffe de l'acte. Cette copie a la même valeur probante que la première expédition de la minute sur support papier.
+
+Cette disposition ne vaut pas pour les testaments, les révocations de testament et les institutions contractuelles par acte séparé.
+
+Au moins une fois par an, il est procédé, pour le compte de la Chambre nationale des notaires, à un audit de la Banque des actes notariés, ayant trait, entre autres, au respect des exigences légales, à son intégrité et à ses aspects techniques. La Chambre nationale des notaires fait rapport au ministre de la Justice au sujet des résultats de l'audit et les suites que le gestionnaire de la Banque des actes notariés y donne.
+
+§ 2. Le Roi détermine, par arrêté délibéré en Conseil des ministres, sur avis de la Commission de la protection de la vie privée, créée par la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel, et après avis de la Fédération Royale du Notariat belge, dans le respect de l'article 23 et de [<sup>4</sup> l'article 352]<sup>4</sup> du Code pénal, la manière dont et les conditions sous lesquelles la Banque des actes notariés sera créée, gérée et organisée, l'accès à celle-ci, ainsi que les modalités d'établissement et de conservation des copies dématérialisées.
+
+----------
+
+(1)&lt;Rétabli par L 2013-12-21/26, art. 81, 011; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2019-05-05/19, art. 111, 025; En vigueur : 29-06-2019&gt;
+
+(3)&lt;L 2021-07-12/01, art. 27, 030; En vigueur : 01-08-2021&gt;
+
+(4)&lt;L 2026-03-03/04, art. 2, 039; En vigueur : 01-09-2026&gt;
+
+##### Art. 18bis
+
+[<sup>1</sup> Les testaments, les révocations de testament et les institutions contractuelles par acte séparé, reçus dans la forme authentique, feront uniquement l'objet d'une inscription dans la Banque des actes notariés dans les quinze jours suivant la réception de l'acte, sans qu'une copie dématérialisée ne soit déposée.
+
+Une copie dématérialisée des actes mentionnés à l'alinéa 1er sera déposée à la Banque des actes notariés gérée par la Fédération Royale du Notariat belge lors de la présentation à l'enregistrement de l'acte.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/19, art. 112, 025; En vigueur : 01-01-2020&gt;
+
+##### Art. 18ter
+
+[<sup>1</sup> Sont en outre déposés et conservés dans la Banque des actes notariés :
+
+1° toutes les données et documents qui doivent être présentées à ou déposés auprès d'une instance publique par le notaire avec une expédition d'un acte notarié sur lequel elles se rapportent;
+
+2° la relation de l'enregistrement et, le cas échéant, les messages séparés comparables relatifs aux droits d'enregistrement régionaux des actes déposés dans la Banque des actes notariés conformément aux articles 18 et 18bis;
+
+3° les cas échéant, la relation ou la preuve de l'accomplissement d'une formalité hypothécaire des actes déposés dans la Banque des actes notariés conformément à l'article 18;
+
+4° les mentions ultérieures et les adjonctions ou annexions ultérieures aux actes déposés dans la Banque des actes notariés conformément aux articles 18 et 18bis.
+
+Le Roi détermine, après avoir pris l'avis du ministre des Finances, les modalités du dépôt, de la conservation et de l'accès aux données et documents prévues à l'alinéa précédent.
+
+La Banque des actes notariés aura la valeur de source authentique pour les données et documents visés à l'alinéa 1er.
+
+Les plans qui, par annexion ou dépôt, font partie des actes à déposer dans la Banque des actes notariés conformément aux articles 18, 18bis et 18ter, ne doivent pas être repris dans cette Banque des actes notariés à condition que, dans une déclaration dans le corps ou signée au pied de l'acte, les parties ou en leur nom le notaire instrumentant:
+
+1° certifient qu'ils sont repris dans la base de données des plans de délimitation de l'Administration générale de la Documentation patrimoniale, sans avoir été modifiés depuis lors;
+
+2° en mentionnent la référence dans cette base de données.]<sup>1</sup>
+
+[<sup>2</sup> Pour les actes reçus sous forme dématérialisée, la mention de la référence visée à l'alinéa 4 vaut comme annexion ou dépôt dans les cas où ceux-ci sont requis.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/19, art. 113, 025; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2022-11-22/06, art. 15, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 18quater
+
+[<sup>1</sup> Pour le financement de la création et du maintien de la Banque des actes notariés, tel que prévue à l'article 18, une redevance, dont le montant et les modalités de paiement sont fixés par le Roi par arrêté délibéré en Conseil des ministres, est imputée à l'occasion du dépôt.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/19, art. 114, 025; En vigueur : 01-01-2020&gt;
+
+##### Art. 18quinquies
+
+[<sup>1</sup> § 1er. Par dérogation aux articles 9, § 3, [<sup>2</sup> 13, § 1er, et 20]<sup>2</sup>, les procurations, y compris les mandats de protection visés à l'article 490 du Code civil, qui doivent être reçues en la forme authentique en vertu de la loi, peuvent être reçues [<sup>2</sup> sous forme dématérialisée, à distance ou non, conformément]<sup>2</sup> aux dispositions qui suivent.
+
+§ 2. Les dispositions suivantes s'appliquent à ces procurations authentiques sous forme dématérialisée :
+
+1° les parties comparaissent devant le notaire [<sup>2</sup> , physiquement et/ou]<sup>2</sup> par le biais d'une vidéoconférence, lors de laquelle les prescriptions de l'article 1er, alinéa 3, et de la présente section sont respectées, sous réserve de ce qui est mentionné au paragraphe 1er;
+
+2° les parties s'identifient et signent électroniquement l'acte au moyen d'une carte d'identité électronique visée à l'article 6 de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour, ou d'un ID digital itsme; l'utilisation du numéro de registre national est permis à cette fin. Le Roi peut, sur avis de la Fédération royale du notariat belge, reconnaître un ou plusieurs moyens alternatifs qui permettent un niveau d'identification et d'authentication équivalent répondant aux exigences prescrites par les articles 3, points 11 et 12, et 26 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE;
+
+3° le notaire signe l'acte reçu sous forme dématérialisée au moyen d'une carte d'identité électronique visée à l'article 6 de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour [<sup>3</sup> ou de toute autre signature électronique qualifiée autorisée conformément au 2°]<sup>3</sup>;
+
+4° les prescriptions des articles 18 et 18ter et de l'arrêté royal du 18 mars 2020 portant l'introduction de la Banque des actes notariés, pris en exécution de ces dispositions, s'appliquent par analogie à la minute de cet acte reçu sous forme dématérialisée;
+
+5° le notaire n'est pas tenu de conserver la minute de cet acte reçu sous forme dématérialisée après qu'il a reçu la confirmation du dépôt de l'acte dans la Banque des actes notariés; la Banque des actes notariés a valeur de source authentique pour les actes sous forme dématérialisée qui y sont enregistrés;
+
+6° pour l'application de ces dispositions, il est sans importance que certaines ou toutes les parties concernées par l'acte se trouvent physiquement en dehors du ressort du notaire;
+
+7° la procuration peut désigner comme mandataire un collaborateur de l'étude notariale qui sera chargée de la réception de l'acte auquel la procuration est destinée.
+
+§ 3. Les procurations qui peuvent être établies sous seing privé en vertu de la loi et qui sont destinées à être utilisées pour la représentation dans un acte authentique peuvent être fournies sous forme électronique si elles sont signées électroniquement conformément aux prescriptions en vigueur à cet égard.
+
+En vue de l'annexion de ces procurations à l'acte authentique conformément à l'article 12, alinéa 3, le notaire établira, sur papier, une copie certifiée conforme de cette procuration signée par voie électronique, conformément à l'article 1er, alinéa 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2020-04-30/03, art. 6, 026; En vigueur : 04-05-2020&gt;
+
+(2)&lt;L 2021-07-12/01, art. 28, 030; En vigueur : 01-08-2021&gt;
+
+(3)&lt;L 2022-11-22/06, art. 16, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 18sexies
+
+[<sup>1</sup> En cas d'identification des parties à l'acte et du notaire instrumentant à travers un moyen d'identification électronique, dans les cas où la loi autorise l'acte sous forme dématérialisée, ainsi qu'en cas de certification de l'identité conformément à l'article 1er, alinéa 4, l'utilisation de leur numéro national est autorisée par le notaire instrumentant et, en sa qualité de gestionnaire de la plateforme employée à cette fin, par la Fédération royale du notariat belge.
+
+Si le moyen d'identification électronique, qui doit répondre aux exigences prescrites par l'article 1 du règlement d'exécution (UE) 2015/1502 de la Commission du 8 septembre 2015 fixant les spécifications techniques et procédures minimales relatives aux niveaux de garantie des moyens d'identification électronique visés à l'article 8, alinéa 3, du Règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, ne comprend pas de photo, le notaire et la Fédération royale du notariat belge sont également autorisés à collecter la photo dans le Registre national en vue d'une identification correcte conformément aux articles 1er, alinéa 4, et 11 [<sup>2</sup> , ainsi que, le cas échéant, dans les registres officiels des autres pays pour autant que la législation de ces pays l'autorise]<sup>2</sup>.
+
+Les données visées aux alinéas 1er et 2, sont conservées jusqu'à vingt ans après l'identification des parties par le notaire et sont ensuite effacées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2020-12-20/02, art. 21, 029; En vigueur : 24-12-2020&gt;
+
+(2)&lt;L 2021-07-12/01, art. 29, 030; En vigueur : 01-08-2021&gt;
+
+##### Art. 19
+
+Tous actes notariés feront foi en justice et seront exécutoires dans toute l'étendue (du Royaume). [<sup>1</sup> La force exécutoire s'étend à tous les engagements qui sont contractés dans l'acte.]<sup>1</sup> &lt;L 09-04-1980, art. 1er, § 1er, 6°, MB 06-05-1980&gt;
+
+Néanmoins, en cas de plainte en faux principal, l'exécution de l'acte argué de faux sera suspendue par (l'arrêt de la chambre des mises en accusation renvoyant devant la cour d'assises ou, en cas de correctionnalisant, la décision de la juridiction qui renvoie devant le tribunal correctionnel); en cas d'inscription de faux faite incidemment, les tribunaux pourront, suivant la gravité des circonstances, suspendre provisoirement l'exécution de l'acte. &lt;L 09-04-1980, art. 1er, § 1er, 7°, MB 06-05-1980&gt;
+
+(Lorsque dans un acte notarié, il est fait référence à un acte passé antérieurement, les deux actes sont exécutoires conjointement, à condition qu'ils répondent [<sup>1</sup> à l'article 12 et à condition que l'acte le plus récent contienne en outre la déclaration expresse, inconditionnelle et spécifique des parties]<sup>1</sup> selon laquelle elles confirment que les deux actes forment un tout, pour [<sup>1</sup> être exécutoire ensemble]<sup>1</sup>.) &lt;L 1999-05-04/03, art. 10, En vigueur : 01-01-2000&gt;
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 170, 018; En vigueur : 03-08-2017&gt;
+
+##### Art. 20
+
+Les notaires seront tenus de garder minute de tous les actes qu'ils recevront.
+
+Ne sont néanmoins compris dans la présente disposition, les certificats de vie, procurations, actes de notoriété, quittances de fermages, de loyers, de salaires, arrérages de pensions et rentes, et autres actes simples qui, d'après les lois, peuvent être délivrés en brevet.
+
+Art. 20. (DROIT FUTUR)
+
+Les notaires seront tenus de garder minute de tous les actes qu'ils recevront.
+
+[<sup>1</sup> Le notaire n'est pas tenu de conserver la minute d'un acte reçu sous forme dématérialisée après qu'il a reçu la confirmation du dépôt de l'acte dans la Banque des actes notariés visée à l'article 18. La Banque des actes notariés a la valeur de source authentique pour les actes qui y sont enregistrés.]<sup>1</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 21, 007; En vigueur : indéterminée &gt;
+
+(2)&lt;L 2013-12-21/26, art. 82, 011; En vigueur : 01-04-2014&gt;
+
+##### Art. 21
+
+[<sup>1</sup> Le droit de délivrer des grosses et des expéditions n'appartiendra qu'au notaire détenteur de la minute; et, néanmoins, tout notaire pourra délivrer copie d'un acte qui lui aura été déposé pour minute.
+
+Lorsque plus d'un notaire exerce la fonction au sein de la même étude, chacun d'eux a, par dérogation à l'alinéa 1er, le droit de délivrer des grosses et expéditions des actes reçus par les autres notaires de l'étude ou détenus par eux.
+
+Pour les actes notariés sous forme dématérialisée enregistrés dans la Banque des actes notariés, des expéditions et des grosses ne peuvent être délivrées que par les notaires qui exercent leur fonction au sein de l'étude où est détenu le répertoire prescrit par l'article 29 dans lequel ces actes sont inscrits.
+
+Sans préjudice des alinéas 1er à 3, chaque notaire est toujours compétent pour certifier la conformité de copies de documents sous signature privée, que ceux-ci ont été établis en l'étude ou non.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 17, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 22
+
+&lt;AR246 22-02-1936, art. 2, MB 29-02-1936&gt; Les notaires ne pourront se dessaisir d'aucune minute si ce n'est dans les cas prévus par la loi ou en vertu d'un jugement.
+
+En cas de dessaisissement, la minute sera préalablement photographiée et une copie photographique, après vérification par le président du tribunal de première instance de l'arrondissement, qui en dressera procès-verbal, sera substituée à [<sup>1</sup> d`une minute papier dont la copie dématérialisée n'est pas reprise dans la Banque des actes notariés visée à l'article 18, celle-ci]<sup>1</sup> dont elle tiendra lieu jusqu'à sa réintégration; le notaire pourra en délivrer grosse ou expédition, en faisant mention du procès-verbal qui aura été dressé. [<sup>1</sup> Cette formalité n'est pas requise lorsqu'une copie dématérialisée de la minute est reprise dans la Banque des actes notariés, laquelle peut servir de base à la délivrance de grosses ou expéditions. Dans ce cas, le procès-verbal du président du tribunal fera uniquement état de la remise de la minute.]<sup>1</sup>
+
+[<sup>1</sup> En cas de dessaisissement d`une minute sous forme dématérialisée, la décision judiciaire à cette fin est signifiée à la Fédération Royale du Notariat belge, en tant que gestionnaire de la Banque des actes notariés, avec notification au notaire. L'accès à la minute dématérialisée prend la forme d'un droit de consultation temporaire du juge ou de l'expert qu'il désigne dans la Banque des actes notariés et de la vérification des mesures prises pour garantir l'inaltérabilité et la force probante de l'acte.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 18, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 23
+
+Les notaires ne pourront également, sans l'ordonnance du président du tribunal de première instance, délivrer expédition ni donner connaissance des actes à d'autres qu'aux personnes intéressées en nom direct, héritiers ou ayants droit, à peine des dommages-intérêts, d'une amende de 100 francs, et d'être, en cas de récidive, suspendus de leurs fonctions pendant trois mois; sauf néanmoins l'exécution des lois et règlements sur le droit d'enregistrement, et de celles relatives aux actes qui doivent être publiés dans les tribunaux. (NOTE : lire 2,50 euros selon art. 3 L 2000-06-26/42)
+
+##### Art. 24
+
+En cas de compulsoire, le procès-verbal sera dressé par le notaire dépositaire de l'acte, à moins que le tribunal qui l'ordonne ne commette un de ses membres, ou tout autre juge ou tout autre notaire.
+
+##### Art. 25
+
+Les grosses seules seront délivrées en forme exécutoire; elles seront intitulées et terminées dans les mêmes termes que les jugements des tribunaux.
+
+(L'expédition ou la grosse d'un acte dans lequel il est fait référence à un acte passé antérieurement, doit s'assortir d'une copie de cet acte.) &lt;L 1999-05-04/03, art. 11, En vigueur : 01-01-2000&gt;
+
+(Les expéditions ou les grosses peuvent porter [<sup>1</sup> une signature électronique qualifiée au sens de l'article 3.12. du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE]<sup>1</sup>. Dans ce cas, l'empreinte du cachet visé à l'article 27 n'est pas requise.
+
+Sauf disposition expresse contraire contenue dans une autre loi, l'expédition revêtue de la signature visée à l'alinéa 3 ne doit pas s'assortir des pièces jointes à la minute, à condition que soit précisé au bas de cette expédition les pièces jointes à la minute. En pareil cas, l'expédition ou la grosse ne doit pas s'assortir de la copie visée à l'alinéa 2.) &lt;L 2004-12-27/30, art. 272, En vigueur : 10-01-2005&gt;
+
+----------
+
+(1)&lt;L 2018-09-20/14, art. 17, 022; En vigueur : 20-10-2018&gt;
+
+##### Art. 26
+
+Il doit être fait mention, sur la minute, de la délivrance d'une première grosse, faite à chacune des parties intéressées: il ne peut lui en être délivré d'autre, à peine de destitution, sans une ordonnance du président du tribunal de première instance, laquelle demeurera jointe à la minute.
+
+[<sup>2</sup> La délivrance d'une grosse sur support électronique conformément à l'article 25, alinéa 3, prend la forme d'une inscription et d'un dépôt dans un registre central des grosses, qui est géré par la Fédération Royale du Notariat belge. Il est également fait mention des grosses délivrées sur papier dans ce registre sous forme d'une inscription. La finalité de ce registre consiste à permettre la délivrance de grosses établies sous format électronique aux personnes visées à l'article 23, intéressées au lancement d'une procédure d'exécution forcée, et à permettre l'adoption de mesures adéquates pour se prémunir contre le risque d'exécution forcée multiple de la même créance.
+
+L'accès au registre central des grosses est ouvert aux notaires dans l'exercice de leur fonction, aux personnes visées à l'article 23 et aux huissiers de justice chargés de l'exécution forcée de l'acte. Les modalités, le mode et les conditions de création, de gestion, d'organisation et de consultation du registre sont fixées par le Roi. A cette fin le Roi pourra notamment fixer quelles données d'identification des personnes précitées autorisées à accéder, ainsi que du notaire instrumentant ou de l'huissier de justice mandaté, doivent être conservées avec l'inscription de la grosse. Il déterminera en outre quelles données relatives à l'acte ou à la grosse doivent être conservées en tant que critères de recherches et pour permettre au huissier de justice d'apprécier si la grosse peut encore être exécutée.
+
+Le délai de conservation des grosses et inscriptions par le registre central des grosses, correspond au délai de conservation des actes eux-mêmes, tel que prévu à l'article 62, alinéa 1er.]<sup>2</sup>
+
+(2)&lt;L 2022-11-22/06, art. 19, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 27
+
+Chaque notaire sera tenu d'avoir un cachet ou sceau particulier, portant [<sup>1</sup> son nom, la mention "Notaire" et sa résidence]<sup>1</sup>, et, d'après un modèle uniforme, (les armes du Royaume). &lt;L 09-04-1980, art. 1er, § 1er, 8°, MB 06-05-1980&gt;
+
+Les grosses et expéditions des actes porteront l'empreinte de ce cachet.
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 20, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 28
+
+(Les actes notariés seront légalisés lorsque cette formalité est exigée pour valoir hors du territoire du Royaume.) &lt;L 10-07-1951, art. unique, MB 22-07-1951&gt;
+
+[<sup>1</sup> La légalisation sera faite par le ministre des Affaires étrangères.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 95, 013; En vigueur : 24-05-2014&gt;
+
+##### Art. 29
+
+Les notaires tiendront répertoire de tous les actes qu'ils recevront.
+
+(Toutefois, lorsque l'acte est reçu par plusieurs notaires, seul celui qui en conserve la minute [<sup>2</sup> ...]<sup>2</sup>.) &lt;L 1999-05-04/03, art. 12, En vigueur : 01-01-2000&gt;
+
+Art. 29. (DROIT FUTUR)
+
+Les notaires tiendront répertoire de tous les actes qu'ils recevront. [<sup>1</sup> Il tient ce répertoire, soit sur support papier, soit sous la forme dématérialisée déterminée par la Chambre nationale des notaires dans un règlement approuvé par le Roi.]<sup>1</sup>
+
+(Toutefois, lorsque l'acte est reçu par plusieurs notaires, seul celui qui en conserve la minute [<sup>2</sup> ...]<sup>2</sup> .) &lt;L 1999-05-04/03, art. 12, En vigueur : 01-01-2000&gt;
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 24, 007; En vigueur : indéterminée &gt;
+
+(2)&lt;L 2013-12-21/26, art. 83, 011; En vigueur : 01-04-2014&gt;
+
+##### Art. 30
+
+&lt;Abrogé par AR64 1939-11-30/33, art. 290&gt;
+
+## TITRE II. - (Organisation de la fonction notariale) &lt;L 1999-05-04/03, art. 13, 1°, En vigueur : 01-01-2000&gt;
+
+### Section Ire. - [<sup>1</sup> Nombre, placement, comptabilité et assurance des notaires]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 130, 013; En vigueur : 24-05-2014&gt;
+
+##### Art. 31
+
+[<sup>1</sup> Le nombre des notaires et leur placement dans un arrondissement, ainsi que leur résidence, sont déterminés par le Roi de manière à ce qu'il n'y ait pas plus d'un notaire par 9 000 habitants.
+
+La réduction du nombre des places résultant de l'alinéa 1er se fait au fur et à mesure des vacances; la place qui devient vacante dans un arrondissement où le nombre est supérieur ne peut toutefois être supprimée que sur avis conformes et motivés de la chambre de discipline et du président du tribunal de première instance. Ces avis doivent chaque fois être demandés quand une place devient vacante et être rendus dans un délai d'un mois qui suit la demande.
+
+Le nombre de places occupées par arrondissement judiciaire ne peut jamais être inférieur au nombre de places fixé en application de l'alinéa 1er moins une.
+
+Les notaires [<sup>4</sup> ...]<sup>4</sup> non titulaires, ne sont pas compris dans le nombre des notaires fixé en application des alinéas 1er et 2.
+
+Pour la fixation du nombre de notaires, les cantons de [<sup>2</sup> Limbourg]<sup>2</sup>, [<sup>3</sup> Spa]<sup>3</sup>, [<sup>2</sup> le premier canton de Verviers]<sup>2</sup> et le deuxième canton de Verviers et l'arrondissement judiciaire d'Eupen sont considérés comme ne formant qu'un arrondissement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-12-01/01, art. 126, 010; En vigueur : indéterminée et au plus tard le 01-04-2014&gt;
+
+(2)&lt;L 2017-12-25/08, art. 3, 1°, 3°, 021; En vigueur : 01-06-2018&gt;
+
+(3)&lt;L 2017-12-25/08, art. 3, 2°, 021; En vigueur : indéterminée et au plus tard le 01-01-2020&gt;
+
+(4)&lt;L 2022-11-22/06, art. 21, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 32
+
+Les suppressions ou réductions de places ne seront effectuées que par mort, démission ou destitution.
+
+(Les arrêtés supprimant ou réduisant des places sont publiés par extrait au Moniteur belge.
+
+En cas de création d'une place ou s'il y a lieu à nomination d'un notaire titulaire, ou dès qu'un notaire est considéré comme démissionnaire conformément à l'article 2, ainsi qu'en cas de décès ou de destitution d'un notaire, la vacance est publiée au Moniteur belge.) &lt;L 1999-05-04/03, art. 15, En vigueur : 01-01-2000&gt;
+
+##### Art. 33
+
+&lt;AR213, 1935-12-13/30, art. 2&gt; Tout notaire doit tenir une comptabilité destinée à constater les recettes et les dépenses de toute nature, effectuées par lui, soit à l'occasion d'un acte ou d'une opération de son ministère, soit pour le compte de clients ou de mandants.
+
+(Dans le cas où des notaires exercent leur [<sup>3</sup> fonction]<sup>3</sup> au sein d'une société [<sup>3</sup> professionnelle notariale]<sup>3</sup>, une seule comptabilité est tenue au nom de la société.) &lt;L 1999-05-04/03, art. 16, 1°, En vigueur : 01-01-2000&gt;
+
+[<sup>3</sup> Dans le cas où des notaires exercent leur fonction comme notaire adjoint d'un notaire-titulaire, personne physique, une seule comptabilité est tenue au nom du notaire-titulaire.]<sup>3</sup>
+
+[<sup>1</sup> Les livres comptables doivent être conservés jusqu'à l'expiration de la dixième année suivant la date de leur clôture.]<sup>1</sup>
+
+Cette comptabilité doit permettre à tout moment la constatation immédiate de la situation de l'étude.
+
+[<sup>2</sup> Afin d'être en mesure de constater à tout moment et immédiatement la situation de l'étude, la Chambre nationale des notaires récolte les informations comptables visées à l'alinéa 1er, par voie électronique, de manière permanente et sans limitation dans le temps. Ces données sont conservées jusqu'à l'expiration de la dixième année suivant la date à laquelle elles ont été récoltées.
+
+Les données ainsi récoltées sont traitées par la Chambre nationale des notaires qui s'assure du respect par le notaire de ses obligations comptables. Dans le cadre de ce contrôle, la Chambre nationale des notaires peut adopter toutes les mesures qui s'imposent à des fins préventives ou coercitives, sans préjudice de la compétence de la chambre des notaires.
+
+La Chambre nationale des notaires peut accorder à la chambre des notaires concernée, un droit d'accès aux données nécessaires et un droit de traitement de ces données, afin que celle-ci puisse exercer sa mission légale.
+
+La Chambre nationale des notaires conserve les informations relatives à l'accès aux données durant dix ans à dater de cet accès.
+
+[<sup>3</sup> ...]<sup>3</sup>]<sup>2</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le contrôle de la comptabilité est organisé par un arrêté royal.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 171,1° et 3°, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2017-07-06/24, art. 171,2°, 018; En vigueur : 01-01-2020&gt;
+
+(3)&lt;L 2022-11-22/06, art. 22, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 34
+
+[<sup>1</sup> § 1er. Tout notaire établit une distinction entre ses fonds propres et les fonds de tiers.
+
+Les fonds reçus par les notaires dans l'exercice de leur profession au profit de clients ou de tiers sont versés sur un ou plusieurs comptes ouverts à leur nom ou au nom de leur société de notaires avec mention de leur ou sa qualité. Ce ou ces comptes sont ouverts conformément aux règles à fixer par la Chambre nationale des notaires.
+
+Le notaire manie les fonds de clients ou de tiers par l'intermédiaire de ce compte. Il demande toujours aux clients et aux tiers de payer exclusivement sur ce compte.
+
+Ce compte est géré exclusivement par le notaire, sans préjudice des règles complémentaires concernant le maniement de fonds de clients ou de tiers fixées par la Chambre nationale des notaires.
+
+[<sup>3</sup> Lorsqu'un ou plusieurs notaires adjoints exercent la fonction au sein de l'étude, ils font usage, pour l'application du présent article, des comptes ouverts au nom du notaire-titulaire ou, dans le cas d'une société professionnelle notariale, au nom de la société professionnelle notariale.]<sup>3</sup>
+
+§ 2. Les comptes visés au § 1er comprennent les comptes de tiers et les comptes rubriqués.
+
+Le compte de tiers est un compte global sur lequel sont reçus ou gérés des fonds qui doivent être transférés à des clients ou à des tiers.
+
+Le compte rubriqué est un compte individualisé ouvert dans le cadre d'un dossier déterminé ou pour un client déterminé.
+
+§ 3. Le compte de tiers et le compte rubriqué sont des comptes qui sont ouverts auprès d'une institution agréée par la Banque nationale de Belgique sur la base de la loi du [<sup>2</sup> 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des établissements de bourse]<sup>2</sup> ou auprès de la Caisse des dépôts et consignations et, qui répondent au moins aux conditions suivantes :
+
+1° le compte de tiers et le compte rubriqué ne peuvent jamais être en débit;
+
+2° aucun crédit, sous quelque forme que ce soit, ne peut être consenti sur un compte de tiers ou sur un compte rubriqué; ceux-ci ne peuvent jamais servir de sûreté;
+
+3° toute compensation, fusion, ou stipulation d'unicité de compte entre le compte de tiers, le compte rubriqué et d'autres comptes en banque est exclue; aucune convention de netting ne peut s'appliquer à ces comptes.
+
+La Chambre nationale des notaires peut fixer des règles complémentaires concernant le maniement de fonds de clients ou de tiers.
+
+§ 4. Sauf circonstances exceptionnelles, le notaire transfère au destinataire, dans les plus brefs délais, les fonds reçus sur son compte de tiers.
+
+Si, pour des motifs fondés, le notaire ne peut transférer les fonds au destinataire dans le délai prévu par le règlement de la Chambre nationale des notaires et, au plus tard, dans les [<sup>2</sup> quatre]<sup>2</sup> mois de leur réception, il les verse sur un compte rubriqué.
+
+Sans préjudice de l'application de règles juridiques impératives, l'alinéa 2 n'est pas d'application lorsque le total des fonds reçus soit pour le compte d'une même personne, soit à l'occasion d'une même opération, soit par dossier, n'excède pas [<sup>2</sup> 10 000]<sup>2</sup> euros. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 5. Le notaire verse à la Caisse des dépôts et consignations l'intégralité des sommes, quel qu'en soit le montant, qui n'ont pas été réclamées par l'ayant droit ou ne lui ont pas été versées dans les deux ans [<sup>2</sup> à dater du jour où plus aucun acte ou plus aucune convention ne doivent être rédigés dans le dossier]<sup>2</sup> dans le cadre duquel elles ont été reçues par le notaire. Le délai est suspendu tant que ces sommes font l'objet d'une procédure judiciaire.
+
+Ces dépôts sont immatriculés au nom de l'ayant droit qui est désigné par le notaire. La Caisse des dépôts et consignations les tient à la disposition de l'ayant droit jusqu'à l'expiration du délai visé à l'article 25 de l'arrêté royal n° 150 du 18 mars 1935 coordonnant les lois relatives à l'organisation et au fonctionnement de la Caisse des dépôts et consignations et y apportant des modifications en vertu de la loi du 31 juillet 1934.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-11-22/13, art. 2, 009; En vigueur : 01-06-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 172, 018; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2022-11-22/06, art. 23, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 34bis
+
+&lt;Inséré par AR213 1935-12-13/30, art. 12&gt; Les titres et valeurs au porteur confiés au notaire, à l'occasion d'un acte ou d'une opération de son ministère, sont dans les trois mois déposés à découvert, pour le compte de la personne propriétaire des titres, sous une rubrique spéciale, dans un établissement public ou privé, conformément aux dispositions arrêtées par le Roi.
+
+##### Art. 34ter
+
+[<sup>1</sup> Tout notaire qui exerce sa fonction en dehors d'une société notariale est tenu de faire couvrir sa responsabilité civile par un contrat d'assurance, approuvé par la Chambre nationale des notaires, qui doit garantir au moins le montant de cinq millions d'euros.]<sup>1</sup>
+
+[<sup>2</sup> L'alinéa 1er ne s'applique pas au notaire adjoint dont l'activité professionnelle est assurée par l'assurance responsabilité civile du notaire auquel il est adjoint.]<sup>2</sup>
+
+----------
+
+(1)&lt;Rétabli par L 2014-04-25/23, art. 131, 013; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2022-11-22/06, art. 24, 034; En vigueur : 01-01-2023&gt;
+
+### Section II. - Conditions pour être admis et mode de nomination au notariat.
+
+##### Art. 35
+
+&lt;L 1999-05-04/03, art. 19, En vigueur : 01-01-2000&gt; § 1er. Chaque année, le Roi nomme un certain nombre de candidats-notaires.
+
+§ 2. Après avoir recueilli l'avis de chaque commission de nomination pour le notariat [<sup>5</sup> et de la Chambre nationale des notaires]<sup>5</sup>, le Roi arrête chaque année le nombre, par rôle linguistique, de candidats-notaires à nommer. Ce nombre est fixé par le Roi en fonction du nombre des notaires titulaires à nommer, du nombre des notaires suppléants désignés, du nombre de lauréats des sessions précédentes qui ne sont pas encore associés [<sup>5</sup> , désignés ou nommés ainsi qu'en fonction du besoin en associés et en notaires adjoints]<sup>5</sup>. Le nombre total ne peut [<sup>5</sup> être inférieur à]<sup>5</sup> [<sup>5</sup> 120]<sup>5</sup>. Le rôle linguistique est déterminé par la langue du diplôme de licencié [<sup>5</sup> ou master]<sup>5</sup> en notariat [<sup>3</sup> ou, dans le cas visé à l'article 35bis, par le choix d'un rôle linguistique dans le cadre de l'introduction du dossier]<sup>3</sup>.
+
+L'arrêté royal visé à l'alinéa 1er ainsi qu'un appel aux candidats sont publiés chaque année au Moniteur belge.
+
+§ 3. Pour pouvoir être nommé candidat-notaire, l'intéressé doit :
+
+1° [<sup>2</sup> être Belge ou ressortissant d'un Etat membre de l'Union européenne]<sup>2</sup> et jouir des droits civils et politiques;
+
+2° être porteur du certificat de stage prévu à l'article 36, § 4 [<sup>3</sup> ou du certificat d'aptitude prévu à l'article 35bis]<sup>3</sup>;
+
+3° figurer à la liste définitive visée à l'article 39, § 5, quatrième alinéa.
+
+§ 4. Pour pouvoir exercer la fonction de notaire, le candidat-notaire doit, soit être nommé notaire titulaire conformément à l'article 45, soit s'associer avec un notaire titulaire conformément à l'article 52, § 2 [<sup>5</sup> , soit être désigné comme notaire adjoint conformément à l'article 49ter]<sup>5</sup>.
+
+[<sup>4</sup> La nomination ou désignation comme notaire met fin de plein droit à toute autre nomination ou désignation comme notaire.]<sup>4</sup>
+
+[<sup>5</sup> § 5. Le notaire qui a été nommé avant l'entrée en vigueur de la présente section peut demander au Roi l'autorisation de bénéficier du statut de candidat-notaire, à condition qu'il ait obtenu la démission honorable de sa fonction.
+
+L'arrêté royal portant autorisation entre en vigueur le jour de sa publication au Moniteur belge.
+
+Le notaire qui, en vertu de l'alinéa 2, bénéficie du statut de candidat-notaire, n'est pas pris en compte pour fixer le nombre de candidats-notaires à nommer conformément au paragraphe 2.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2009-10-23/08, art. 2, 006; En vigueur : 26-11-2009&gt;
+
+(2)&lt;L 2011-11-14/12, art. 2, 008; En vigueur : 20-02-2012&gt;
+
+(3)&lt;L 2017-07-06/24, art. 173, 018; En vigueur : 03-08-2017&gt;
+
+(4)&lt;L 2020-07-31/03, art. 74, 027; En vigueur : 17-08-2020&gt;
+
+(5)&lt;L 2022-11-22/06, art. 25, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 35bis
+
+[<sup>1</sup> § 1er. Pour obtenir le certificat d'aptitude, l'intéressé doit préalablement choisir le rôle linguistique sur lequel il veut être inscrit et introduire un dossier auprès du ministre de la Justice prouvant que l'intéressé :
+
+1° a accompli avec succès un cycle d'études postsecondaires d'une durée minimale de trois ans à temps plein ou d'une durée équivalente à temps partiel dans une université ou dans un établissement d'enseignement supérieur ou dans un autre établissement d'un niveau de formation équivalent et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études, qui porte sur le droit, et qui peut produire les diplômes, certificats ou autres titres permettant l'exercice de la fonction de notaire dans l'Etat membre concerné;
+
+2° soit, a été nommé notaire par une décision officielle des pouvoirs publics d'un autre Etat membre, y travaille en qualité de notaire, dispose du sceau notarial octroyé par cet Etat et n'a pas été suspendu de sa fonction de notaire, soit, dispose de la preuve, délivrée par l'autorité de nomination d'un autre Etat membre, que les diplômes, certificats ou autres titres soumis conformément au 1° lui ouvrent dans cet Etat membre l'accès à la nomination dans la fonction de notaire par une décision officielle des pouvoirs publics qui l'autorise en outre à disposer du sceau notarial octroyé par cet Etat membre.
+
+Après vérification et confirmation du caractère complet des documents et pièces justificatives, le dossier est transmis par le ministre de la Justice à la commission de nomination pour le notariat du rôle linguistique choisi par l'intéressé.
+
+§ 2. Après avoir pris connaissance du dossier, la commission de nomination concernée peut, si elle l'estime nécessaire, imposer un test d'aptitude comme mesure de compensation afin de vérifier la connaissance du droit national, qui est justifié par le fait que les circonstances dans lesquelles la fonction est ou peut être exercée dans l'Etat membre concerné ne sont pas identiques ou équivalentes à celles de la Belgique, et que cette différence explique la nécessité d'une formation spécifique qui porte sur des matières substantiellement différentes de celles couvertes par la formation dont l'intéressé fait état.
+
+Après vérification et validation des documents et preuves et, le cas échéant, après l'accomplissement du test d'aptitude visé à l'alinéa 1er, le certificat d'aptitude est délivré par la commission de nomination concernée.
+
+§ 3. Le règlement d'ordre intérieur visé à l'article 38, § 11, peut fixer les modalités complémentaires de la procédure prévue au § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 174, 018; En vigueur : 03-08-2017&gt;
+
+##### Art. 36
+
+&lt;L 1999-05-04/03, art. 21, En vigueur : 01-01-2000&gt; § 1er. [<sup>2</sup> Pour obtenir un certificat de stage, l'intéressé doit accomplir à titre d'activité principale un stage d'au moins trois années entières dans une ou plusieurs études notariales, pendant au moins 30 heures par semaine et être en possession du rapport final sur le stage, conformément à l'article 37, § 5, alinéa 5.]<sup>2</sup>
+
+Sans préjudice des dispositions de l'alinéa qui précède, le stage peut également être accompli pour une durée maximale d'une année :
+
+1° dans une ou plusieurs études notariales situées à l'étranger;
+
+2° [<sup>1</sup> dans un bureau de l'Administration Sécurité juridique]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>;
+
+4° en qualité d'assistant auprès d'une faculté de droit d'une université;
+
+5° au barreau;
+
+[<sup>2</sup> 6° dans une fonction juridique dans une institution ou organisation notariale.]<sup>2</sup>
+
+§ 2. Le temps de stage ne commence à compter qu'à partir du moment où l'intéressé a obtenu le diplôme de licencié [<sup>2</sup> ou master en notariat et est inscrit au tableau de stage de la Chambre nationale des notaires. La deuxième condition ne s'applique pas dans le cas du § 1er, alinéa 2]<sup>2</sup>.
+
+La Chambre nationale des notaires peut accorder une dérogation en ce qui concerne le début de la période de stage, si l'intéressé a exercé pendant cinq ans au moins, à titre d'activité [<sup>2</sup> ...]<sup>2</sup> principale, une fonction juridique dans une ou plusieurs études notariales [<sup>2</sup> et a, soit obtenu le diplôme, comme mentionné au § 2, alinéa 1er, après la période susvisée de cinq ans, soit a obtenu le diplôme, comme mentionné au § 2, alinéa 1er, pendant la période susvisée de cinq ans et s'est inscrit au tableau de stage de la Chambre nationale des notaires dans le mois suivant l'obtention de ce diplôme. Si la personne concernée ne s'est pas inscrite dans ce mois, un stage d'au moins un an doit encore être suivi à partir de l'inscription au tableau de stage]<sup>2</sup>.
+
+§ 3. [<sup>2</sup> Le stage doit être accompli endéans une période de cinq ans et peut être interrompu pour une durée maximale de deux années.]<sup>2</sup>
+
+§ 4. La justification du temps de stage résulte des attestations établies [<sup>2</sup> et signée]<sup>2</sup> par le(s) maître(s) de stage.
+
+[<sup>2</sup> Ces attestations sont transmises au stagiaire. Le stagiaire en transmet une copie à la Chambre nationale des notaires.]<sup>2</sup>
+
+Après réception des attestations de stage et vérification de leur conformité aux conditions fixées par cet article, la Chambre nationale des notaires délivre un certificat de stage au stagiaire.
+
+[<sup>2</sup> Le stage prend fin par l'obtention du certificat de stage.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-07-11/07, art. 123, 020; En vigueur : 30-07-2018&gt;
+
+(2)&lt;L 2022-11-22/06, art. 26, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 37
+
+[<sup>1</sup> § 1er. Il est institué dans chaque compagnie des notaires une commission de stage qui suit les maîtres de stage ainsi que les stagiaires qui exercent à titre d'activité principale une fonction juridique dans une étude notariale belge afin d'obtenir un certificat de stage et qui effectuent leur stage dans la province concernée.
+
+La commission de stage suit la progression du stage et le réoriente le cas échéant sur la base des critères suivants:
+
+1° le programme de stage rédigé par la Chambre nationale des notaires;
+
+2° la perception par le stagiaire du fonctionnement d'une étude notariale;
+
+3° l'aptitude du stagiaire à la fonction.
+
+La commission de stage entend les stagiaires au moins une fois par an et chaque fois qu'ils changent de maître de stage, ainsi qu'à la fin de la période de stage.
+
+Les détenteurs d'un certificat de stage peuvent également demander à être entendus une fois par an.
+
+§ 2. La commission de stage est composée au minimum de six membres qui sont désignés par la chambre des notaires pour un terme de trois ans renouvelable une seule fois.
+
+La commission de stage désigne parmi ses membres, pour la durée qu'elle détermine, un président.
+
+§ 3. La commission de stage désigne pour chaque stagiaire un coach, qui doit être un notaire, un notaire honoraire ou un candidat-notaire, qui agit en tant que personne de confiance et exerce une fonction de passerelle entre le maître de stage, le stagiaire et la commission de stage.
+
+§ 4. Un mandat au sein d'une commission de stage ou la fonction de coach est incompatible avec:
+
+\- un mandat au sein d'une commission de nomination pour le notariat;
+
+\- un mandat au sein d'un comité d'avis.
+
+§ 5. Lors des auditions, la commission de stage examine la progression du stage après qu'au moins deux membres aient entendu séparément, d'abord le maître de stage et, ensuite, le stagiaire.
+
+Un membre de la commission de stage s'abstient dans les cas suivants:
+
+1° si le membre se trouve par rapport au stagiaire dans un lien de parenté ou d'alliance visé à l'article 8;
+
+2° si le membre a ou a eu la qualité d'employeur de l'intéressé, ou si le stagiaire a collaboré effectivement avec lui.
+
+La commission de stage rédige après chaque audition pour chaque stagiaire un rapport de suivi du stage.
+
+Le rapport de suivi du stage est transmis au stagiaire ainsi qu'au maître de stage et au coach dans le mois de l'audition. Les observations éventuelles doivent être transmises à la commission de stage et aux destinataires du rapport dans le mois de l'envoi du rapport.
+
+La commission de stage établit un rapport final sur le stage. Le rapport final ainsi que les observations éventuelles [<sup>2</sup> sont adressés par envoi recommandé au stagiaire]<sup>2</sup>. Un exemplaire du rapport final, accompagné des observations éventuelles, est [<sup>2</sup> transmis à sa demande au comité d'avis, qui en tient compte lorsqu'il rend un avis]<sup>2</sup>. La commission de nomination pour le notariat peut demander communication du rapport à l'occasion de l'examen d'une candidature pour la fonction de notaire.
+
+§ 6. Lorsqu'un stagiaire poursuit son stage dans une étude notariale située dans une autre province, son dossier de stage est transmis à la commission de stage de cette province.
+
+§ 7. Les membres des commissions de stage, des chambres des notaires et leurs préposés, qui ont pris connaissance du contenu du dossier, ainsi que le coach sont tenus au secret. L'[<sup>3</sup> article 352]<sup>3</sup> du Code pénal leur est applicable.
+
+§ 8. La Chambre nationale des notaires fixe les règles relatives à la composition, au fonctionnement et à l'organisation des commissions de stage.
+
+Tous les frais de fonctionnement des commissions de stage, en ce compris les indemnités perçues par leurs membres, sont à charge des compagnies.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 202, 024; En vigueur : 10-01-2019&gt;
+
+(2)&lt;L 2022-11-22/06, art. 27, 034; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2026-03-03/04, art. 3, 039; En vigueur : 01-09-2026&gt;
+
+##### Art. 38
+
+&lt;Rétabli par L 1999-05-04/03, art. 22, En vigueur : 01-10-1999&gt; § 1er. Il est institué une commission de nomination de langue néerlandaise et une commission de nomination de langue française pour le notariat.
+
+§ 2. Chaque commission compte huit membres effectifs et huit membres suppléants, tous de nationalité belge. La commission de nomination de langue néerlandaise est compétente pour :
+
+1° le classement des candidats les plus aptes à une nomination de candidat-notaire, dont la langue du diplôme de licencié [<sup>5</sup> ou master]<sup>5</sup> en notariat est le néerlandais [<sup>3</sup> ou qui ont opté pour une inscription au rôle linguistique néerlandais conformément à l'article 35bis]<sup>3</sup>;
+
+2° le classement des candidats à une nomination de notaire titulaire dont la résidence est située dans les provinces d'Anvers, de Limbourg, de Flandre occidentale, de Flandre orientale et de Brabant flamand;
+
+3° [<sup>3</sup> la délivrance du certificat d'aptitude visé à l'article 35bis]<sup>3</sup>.
+
+La commission de nomination de langue française est compétente pour :
+
+1° le classement des candidats les plus aptes à une nomination de candidat-notaire, dont la langue du diplôme de licencié [<sup>5</sup> ou master]<sup>5</sup> en notariat est le français [<sup>3</sup> ou qui ont opté pour une inscription au rôle linguistique français conformément à l'article 35bis]<sup>3</sup>;
+
+2° le classement des candidats à une nomination de notaire titulaire dont la résidence est située dans les arrondissements judiciaires qui font partie des provinces de Hainaut, de Liège, de Luxembourg, de Namur et du Brabant wallon;
+
+3° [<sup>3</sup> la délivrance du certificat d'aptitude visé à l'article 35bis]<sup>3</sup>.
+
+§ 3. La commission de nomination de langue néerlandaise et la commission de nomination de langue française forment ensemble les commissions de nomination réunies. Les commissions de nomination réunies sont compétentes pour :
+
+1° le classement des candidats à une nomination de notaire titulaire dont la résidence est située dans un des cantons des justices de paix bilingues de l'arrondissement judiciaire de Bruxelles, visés à l'article 43, § 12, alinéa 2, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire;
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+3° l'établissement du programme du concours, visé à l'article 39, § 2;
+
+4° formuler des avis et des propositions concernant le fonctionnement général du notariat.
+
+§ 4. Chaque commission de nomination est composée comme suit :
+
+1° trois notaires [<sup>2</sup> ou deux notaires et un notaire honoraire,]<sup>2</sup> issus de trois compagnies différentes dont un est nommé [<sup>5</sup> comme titulaire depuis moins de cinq ans au moment du début de son mandat]<sup>5</sup>;
+
+2° un notaire [<sup>5</sup> ...]<sup>5</sup> non titulaire;
+
+3° un magistrat en fonction choisi parmi les magistrats du siège des cours et tribunaux et les magistrats du ministère public;
+
+4° un chargé de cours ou un professeur de droit d'une faculté de droit d'une université belge qui n'est pas notaire, candidat-notaire ou notaire associé;
+
+5° deux [<sup>5</sup> membres non-notaires]<sup>5</sup> ayant une expérience professionnelle utile pour la mission.
+
+Il est désigné pour chaque membre un suppléant qui répond aux mêmes conditions.
+
+§ 5. Pendant la durée de leur mandat, les candidats à un mandat au sein de la commission de nomination ne peuvent être atteints par la limite d'âge fixée pour l'exercice de la fonction de notaire.
+
+Les membres effectifs, notaires [<sup>2</sup> ou notaires honoraires]<sup>2</sup>, des commissions de nomination et leurs suppléants sont désignés par les membres de l'assemblée générale de la Chambre nationale des notaires qui appartiennent respectivement au rôle linguistique néerlandais ou français.
+
+(Les autres membres effectifs et leurs suppléants sont désignés [<sup>1</sup> par la Chambre des représentants]<sup>1</sup> à la majorité des deux tiers des votes émis.) &lt;L 1999-05-04/04, art. 2, En vigueur : 01-10-1999 (AR 24-09-1999, art. 1er, MB 01-10-1999)&gt;
+
+Chaque membre est désigné pour faire partie de l'une ou de l'autre commission de nomination, selon son rôle linguistique. Le rôle linguistique est déterminé pour les notaires [<sup>2</sup> ou notaires honoraires]<sup>2</sup> par la langue de leur diplôme de licencié [<sup>5</sup> ou master]<sup>5</sup> en notariat; (pour les chargés de cours et les professeurs, par la langue de la communauté compétente en matière d'enseignement pour l'université à laquelle ils sont nommés. Si ces chargés de cours et professeurs sont nommés dans des universités relevant de communautés différentes, la langue considérée est celle de la communauté dans laquelle ils exercent leur charge principale). Au moins un membre de la commission de nomination de langue française ou un suppléant doit justifier de la connaissance de l'allemand, conformément aux articles 43, § 13, alinéa 2, et 43quinquies de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire. &lt;L 2004-07-16/32, art. 2, En vigueur : 30-07-2004&gt;
+
+§ 6. Un mandat au sein d'une commission de nomination est incompatible avec :
+
+1° un mandat dans la Chambre nationale des notaires, dans une chambre des notaires, dans une commission [<sup>5</sup> de stage]<sup>5</sup> visée à l'article 37 ou dans un comité d'avis visé à l'article 38bis;
+
+2° la qualité de procureur du Roi;
+
+3° un mandat au Conseil supérieur de la Justice ou au Conseil consultatif de la magistrature;
+
+4° un mandat politique conféré par élection.
+
+Le mandat expire de plein droit :
+
+1° au cas où survient une incompatibilité visée à l'alinéa premier;
+
+2° lorsqu'un membre perd la qualité requise pour siéger dans une commission de nomination;
+
+3° lorsqu'un membre se porte candidat pour une nomination de notaire ou de candidat-notaire.
+
+§ 7. [<sup>2</sup> Les membres des commissions de nomination siègent pour une durée de quatre ans, les mandats de la moitié des membres effectifs et de la moitié des membres suppléants étant renouvelés tous les deux ans; [<sup>4</sup> ...]<sup>4</sup>]<sup>2</sup>. [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>4</sup> Les membres entrent en fonction le 1er juillet de l'année du renouvellement des mandats.
+
+[<sup>5</sup> La composition des commissions de nomination est publiée au Moniteur belge. Cette publication vaut installation.
+
+Les membres sortants continuent à siéger jusqu'à l'expiration de leur mandat et, dans tous les cas, jusqu'à la publication visée à l'alinéa 3.]<sup>5</sup>
+
+Un membre sortant n'est pas directement rééligible. Nul ne peut exercer plus de deux mandats au sein de la commission de nomination.]<sup>4</sup>
+
+Tout membre peut, à sa demande, être déchargé de son mandat par le président de la commission de nomination.
+
+La succession du membre effectif déchargé de son mandat est assurée de plein droit par son suppléant, qui achève le mandat. Le président demande que soit désigné un nouveau suppléant qui achève le mandat du membre suppléant qui, soit est devenu membre effectif, soit a été déchargé de son mandat.
+
+§ 8. Chaque commission de nomination choisit, à la majorité ordinaire, parmi ses membres effectifs, pour une durée de deux ans renouvelable une seule fois, un président et un vice-président qui, le cas échéant, remplace le président, ainsi qu'un secrétaire. Le président et le vice-président ne peuvent être tous deux notaires [<sup>2</sup> , notaire associé ou notaire honoraire]<sup>2</sup>.
+
+La présidence des commissions de nomination réunies est exercée pour une durée de deux ans alternativement par les présidents respectifs des commissions de nomination.[<sup>5</sup> ...]<sup>5</sup>
+
+§ 9. Pour délibérer et prendre des décisions valablement, la majorité des membres de la commission de nomination doit être présente. En cas d'absence ou d'empêchement d'un membre effectif, son suppléant le remplace. Les décisions sont prises à la majorité ordinaire des voix. En cas de parité, la voix du président de la commission de nomination ou du vice-président qui le remplace, est prépondérante.
+
+Pour délibérer et prendre des décisions valablement dans les commissions de nomination réunies, la majorité des membres de chaque commission de nomination doit être présente. La décision est prise à la majorité ordinaire des voix. En cas de parité, la voix du président des commissions de nomination réunies est prépondérante.
+
+§ 10. Il est interdit aux membres d'une commission de nomination de participer à une délibération ou à une décision dans laquelle ils ont intérêt personnel ou direct, ou :
+
+1° si un membre se trouve dans un lien de parenté visé à l'article 8 avec un candidat;
+
+2° si un membre a donné un avis sur un candidat pour la nomination dont il s'agit ou s'il a été membre d'une instance appelée à rendre un avis visée à l'article 39, § 3;
+
+3° si un membre a ou a eu la qualité d'employeur d'un candidat ou s'il exerce ou a exercé une autorité sur celui-ci sur le plan professionnel.
+
+§ 11. Les modalités de fonctionnement des commissions de nomination (...) sont (déterminées) par le Roi. Les commissions de nomination peuvent établir un règlement d'ordre intérieur qui doit être approuvé par le Roi. &lt;L 2007-05-23/35, art. 6, 004; En vigueur : 30-06-2007&gt;
+
+[<sup>2</sup> § 11/1. Les commissions de nomination disposent d'un secrétariat restreint, dont le cadre du personnel est fixé par la Chambre des représentants, sur la proposition des commissions de nomination.
+
+Pour le recrutement de leur personnel, elles peuvent faire appel aux institutions parlementaires, aux autres institutions bénéficiant d'une dotation et aux institutions publiques, avec lesquelles elles peuvent conclure un accord de coopération. Une indemnité de détachement supplémentaire peut éventuellement être octroyée.]<sup>2</sup>
+
+(§ 12. Une dotation est inscrite au budget général des dépenses de l'Etat pour financer le fonctionnement des commissions de nomination. Assistée par la Cour des comptes, la Chambre des représentants examine les propositions budgétaires détaillées des commissions de nomination, elle les approuve et contrôle l'exécution de leur budget, elle examine et approuve en outre les comptes détaillés.
+
+Pour leur budget et leurs comptes, les commissions de nomination utilisent un schéma budgétaire et des comptes comparable à celui qui est utilisé par la Chambre des représentants.) &lt;L 2007-05-23/35, art. 6, 004; En vigueur : 30-06-2007&gt;
+
+----------
+
+(1)&lt;L 2014-01-06/63, art. 20, 012; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2016-04-27/08, art. 2, 016; En vigueur : 21-05-2016&gt;
+
+(3)&lt;L 2017-07-06/24, art. 175, 018; En vigueur : 03-08-2017&gt;
+
+(4)&lt;L 2018-11-23/06, art. 2, 023; En vigueur : 16-12-2018&gt;
+
+(5)&lt;L 2022-11-22/06, art. 28, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 38bis
+
+&lt;Inséré par L 1999-05-04/03, art. 22, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Il est institué par province un comité d'avis des notaires, chargé d'émettre des avis destinés aux commissions de nomination.
+
+Pour l'application de la présente loi, le territoire des cantons des justices de paix bilingues de l'arrondissement judiciaire de Bruxelles, visés à l'article 43, § 12, alinéa 2, de la loi du 15 juin 1935 sur l'emploi des langues en matière judiciaire, est considéré comme une onzième province.
+
+Chaque comité d'avis est composé comme suit :
+
+1° de quatre notaires; si la compagnie couvre plusieurs arrondissements judiciaires [<sup>1</sup> , le comité d'avis comprend au moins un membre par]<sup>1</sup> arrondissement;
+
+2° d'un candidat-notaire figurant au tableau.
+
+Les membres notaires sont désignés par les chambres des notaires concernées. Au moins l'un d'eux doit être membre de la chambre.
+
+Deux notaires appartenant au rôle linguistique français et deux notaires appartenant au rôle linguistique néerlandais doivent être membres du comité d'avis de Bruxelles-Capitale.
+
+Les membres candidats-notaires sont désignés par le ministre de la Justice sur présentation par une association représentative des licenciés en notariat. Le Roi décide de la représentativité de cette association notamment en se basant sur le nombre de ses membres.
+
+Le membre candidat-notaire du comité d'avis pour Bruxelles-Capitale appartient alternativement au rôle linguistique français et au rôle linguistique néerlandais.
+
+Pour chaque membre, un suppléant est désigné de la même manière.
+
+Les membres d'un comité d'avis siègent pour une durée d'un an; leur mandat est renouvelable au maximum trois fois.
+
+Il est interdit aux membres d'un comité d'avis de participer à une délibération ou à une décision dans laquelle ils ont un intérêt personnel ou direct, ou :
+
+1° si un membre se trouve dans un lien de parenté visé à l'article 8, avec le candidat;
+
+2° si un membre a ou a eu la qualité d'employeur du candidat ou s'il exerce ou a exercé une autorité sur celui-ci sur le plan professionnel.
+
+Le fonctionnement des comités d'avis est déterminé par la Chambre nationale des notaires.
+
+Le Roi fixe des normes uniformes auxquelles doivent répondre les avis qui doivent avoir trait à la capacité et à l'aptitude du candidat.
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 29, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 39
+
+&lt;Rétabli par L 1999-05-04/03, art. 22, En vigueur : 01-01-2000&gt; § 1er. Le porteur d'un certificat de stage visé à l'article 36, § 4 [<sup>2</sup> ou d'un certificat d'aptitude visé à l'article 35bis]<sup>2</sup>, qui souhaite devenir candidat-notaire doit, à peine de déchéance, poser sa candidature par lettre recommandée à la poste adressée au ministre de la Justice dans un délai d'un mois à dater de la publication au Moniteur belge de [<sup>4</sup> l'appel aux candidats]<sup>4</sup> visé à l'article 35, § 2, alinéa 2.
+
+Pour être recevable, chaque candidature à une nomination de candidat-notaire doit contenir les annexes déterminées par le Roi.
+
+§ 2. Chaque candidat qui répond aux conditions de l'article 5, § 3, 1° et 2°, est renvoyé selon son rôle linguistique à l'une ou l'autre commission de nomination visée à l'article 38, § 1er.
+
+Chaque commission de nomination doit évaluer la connaissance, la maturité et les aptitudes pratiques des candidats, requises pour l'exercice de la fonction notariale, et classer les candidats les plus aptes en fonction de leurs capacités et de leurs aptitudes. Le classement est établi sur la base d'un concours qui comporte une épreuve écrite et une épreuve orale et sur la base d'un examen des avis. Seuls les candidats ayant obtenu au moins 60 % des points à l'épreuve écrite [<sup>4</sup> en total et au moins 60 % des points pour les trois parties générales comme prévues à l'alinéa 4,]<sup>4</sup> sont admis à l'épreuve orale. L'épreuve orale a lieu avant que les membres de la commission de nomination aient pu prendre connaissance des avis. Le candidat doit avoir obtenu au moins 50 % des points à l'épreuve orale.
+
+La partie écrite et la partie orale entrent en compte dans une même proportion pour le résultat final du concours.
+
+Le programme [<sup>4</sup> et le règlement des épreuves écrites et orales sont établis]<sup>4</sup> par les commissions de nomination réunies. [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>4</sup> Le programme de l'épreuve écrite se compose de quatre parties équivalentes, y compris une partie dans une matière choisie par le candidat parmi le droit des personnes morales, le droit familial et droit patrimonial de la famille ou le droit immobilier. Le candidat précise son choix lors de sa demande de participation au concours.
+
+Deux des quatre parties sont communes pour le concours organisé par les commissions de nomination de langue française et de langue néerlandaise.
+
+Le programme et le règlement sont approuvés par le ministre de la Justice, après avis de la Chambre nationale des notaires, par arrêté ministériel publié au Moniteur belge.]<sup>4</sup>
+
+§ 3. Dans les septante-cinq jours à dater de la publication au Moniteur belge de [<sup>4</sup> l'appel aux candidats]<sup>4</sup> visé à l'article 35, § 2, alinéa 2, la commission de nomination convoque les candidats admis à l'épreuve orale. Simultanément, la commission de nomination demande au ministre de la Justice de recueillir des avis écrits et motivés au sujet de ces candidats auprès :
+
+1° du procureur du Roi de l'arrondissement dans lequel le candidat est domicilié, en vue de vérifier s'il a encouru des condamnations ou s'il fait l'objet d'une enquête pénale [<sup>1</sup> dans cet arrondissement ou ailleurs dans le Royaume]<sup>1</sup>;
+
+2° du comité d'avis des notaires de la province dans laquelle le candidat exerce ou a exercé en dernier lieu son activité professionnelle dans le notariat.
+
+Les instances qui ont été appelées à rendre un avis, doivent transmettre, dans les [<sup>4</sup> trente]<sup>4</sup> jours de la demande, cet avis [<sup>3</sup> ...]<sup>3</sup> au ministre de la Justice. Le comité d'avis envoie simultanément une copie de son avis, par lettre recommandée à la poste, au candidat concerné.
+
+§ 4. Dans les [<sup>4</sup> dix]<sup>4</sup> jours de l'envoi de la copie, le candidat peut transmettre par lettre recommandée à la poste, ses observations concernant cet avis, simultanément à l'instance qui a rendu l'avis et au ministre de la Justice.
+
+§ 5. Dans les soixante jours qui suivent l'appel aux candidats pour l'épreuve orale, la commission de nomination établit un classement provisoire des candidats les plus aptes sur la base des résultats obtenus aux épreuves écrite et orale.
+
+Le ministre de la Justice envoie les avis requis au président de la commission de nomination après que celle-ci lui ait transmis le classement provisoire.
+
+La commission de nomination peut décider de réentendre l'intéressé qui a adressé ses observations, en application du § 4.
+
+Après examen des avis, la commission de nomination établit un classement définitif des candidats et envoie la liste des candidats classés en vue de la nomination au ministre de la Justice ainsi qu'un procès-verbal motivé signé par le président et par le secrétaire de la commission de nomination concernée. La commission de nomination y joint également les dossiers des candidats classés. [<sup>4</sup> Simultanément, le président de la commission de nomination envoie une copie de la liste aux candidats classés.]<sup>4</sup> Le nombre de candidats classés ne peut dépasser le nombre de places de candidats-notaires à pourvoir, tel que repris dans l'arrêté royal qui a été publié au Moniteur belge, conformément à l'article 35, § 2, avec l'appel aux candidats pour le concours dont il s'agit.
+
+§ 6. Dans le mois de la transmission de la liste définitive des candidats classés, le Roi nomme ceux-ci candidats-notaires. Ces nominations sont publiées au Moniteur belge.
+
+§ 7. L'aspirant qui n'est pas nommé candidat-notaire peut poser à nouveau sa candidature les années suivantes.
+
+§ 8. Chaque candidat peut, sur demande écrite adressée à la commission de nomination, obtenir dans les huit jours copie uniquement de la partie du procès-verbal qui le concerne et de celle qui concerne les candidats nommés.
+
+----------
+
+(1)&lt;L 2015-07-17/59, art. 2, 015; En vigueur : 06-09-2015&gt;
+
+(2)&lt;L 2017-07-06/24, art. 176, 018; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2021-11-28/01, art. 2, 031; En vigueur : 10-12-2021&gt;
+
+(4)&lt;L 2022-11-22/06, art. 30, 034; En vigueur : 01-09-2023&gt;
+
+##### Art. 40
+
+&lt;Rétabli par L 1999-05-04/03, art. 22, En vigueur : 01-01-2000&gt; Les candidats-notaires sont inscrits au tableau visé à l'article 77. Le candidat-notaire qui figure sur ce tableau est soumis à l'autorité des organes professionnels des notaires.
+
+##### Art. 41
+
+&lt;Rétabli par L 1999-05-04/03, art. 22, En vigueur : 01-01-2000&gt; § 1er. Lorsqu'un candidat-notaire n'exerce plus son activité professionnelle principale dans une étude notariale depuis au moins six mois, la chambre des notaires procède à l'omission de son inscription au tableau visé à l'article 77. Le candidat-notaire peut néanmoins, pour des motifs sérieux, demander le maintien de son inscription au tableau. Le candidat-notaire est entendu.
+
+La décision de la chambre des notaires est motivée et notifiée dans le mois au candidat-notaire. Ce dernier peut, dans un délai d'un mois à dater de la notification, introduire un recours contre cette décision auprès de la Chambre nationale des notaires, par lettre recommandée à la poste.
+
+Le comité de direction visé à l'article 92, § 1er, entend le candidat-notaire et rend sa décision dans les deux mois à dater de l'introduction du recours. La décision motivée est notifiée dans le plus bref délai au candidat-notaire et à la chambre concernée.
+
+§ 2. Le candidat-notaire qui a mis fin à son activité professionnelle principale dans une étude notariale peut demander à la chambre des notaires l'omission de son inscription au tableau.
+
+§ 3. Un candidat-notaire qui, en application du § 1er ou du § 2, a été omis du tableau peut à tout moment demander sa réinscription à la chambre des notaires du ressort où il exerce à nouveau son activité professionnelle principale dans une étude notariale. Un recours contre le refus de réinscription peut être introduit auprès de la Chambre nationale des notaires suivant les règles prévues au § 1er.
+
+[<sup>1</sup> § 4. Le candidat-notaire qui n'est pas inscrit au tableau ne peut pas utiliser le titre de candidat-notaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 31, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 42
+
+&lt;Abrogé par L 1999-05-04/03, art. 23, En vigueur : 01-01-2000&gt;
+
+##### Art. 43
+
+&lt;Rétabli par L 1999-05-04/03, art. 24, En vigueur : 01-01-2000&gt; § 1er. Pour être nommé notaire, l'intéressé doit avoir été nommé candidat-notaire. [<sup>1</sup> Le candidat-notaire nommé en vertu de sa participation au concours organisé par les commissions de nomination pour le notariat après avoir obtenu le certificat d'aptitude visé à l'article 35bis, remplit la condition de l'article 43, § 10, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire sur la base du rôle linguistique de la commission de nomination qui l'a classé après ce concours. Il n'est pas exempté de respecter les conditions imposées par l'article 43, §§ 10 à 13 de ladite loi.]<sup>1</sup> Le candidat-notaire qui postule pour une résidence vacante doit, à peine de déchéance, poser sa candidature par lettre recommandée à la poste auprès du ministre de la Justice dans un délai d'un mois à dater de la publication au Moniteur belge de l'avis visé à l'article 32, alinéa 3. A cette lettre doivent être jointes les annexes déterminées par le Roi.
+
+§ 2. Avant qu'il soit procédé à la nomination, le ministre de la Justice demande dans les quarante-cinq jours à dater de la publication au Moniteur belge de l'avis visé à l'article 32, alinéa 3, l'avis motivé écrit sur les candidats :
+
+1° au procureur du Roi de l'arrondissement dans lequel le candidat est domicilié, en vue de vérifier s'il a encouru des condamnations ou s'il fait l'objet d'une enquête pénale;
+
+2° au comité d'avis des notaires de la province dans laquelle le candidat exerce ou a exercé en dernier lieu son activité professionnelle dans le notariat.
+
+Les instances qui ont été appelées à rendre un avis doivent transmettre, dans les nonante jours à dater de ladite publication au Moniteur belge, ces avis [<sup>2</sup> ...]<sup>2</sup> au ministre de la Justice, ainsi qu'une copie, par lettre recommandée à la poste, aux candidats concernés. Une copie de la preuve de cet envoi recommandé est envoyée au ministre de la Justice.
+
+Dans un délai de cent jours à dater de ladite publication au Moniteur belge ou au plus tard dans un délai de quinze jours à dater de la notification de l'avis, les candidats peuvent transmettre, par lettre recommandée à la poste, leurs observations à l'instance qui a rendu l'avis et au ministre de la Justice.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 177, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2021-11-28/01, art. 3, 031; En vigueur : 10-12-2021&gt;
+
+##### Art. 44
+
+&lt;Rétabli par L 1999-05-04/03, art. 24, En vigueur : 01-01-2000&gt; § 1er. Le ministre de la Justice transmet à la commission de nomination compétente, au plus tard dans les trente jours à compter de l'expiration du délai visé à l'article 43, § 2, alinéa 3, un dossier de nomination pour chaque candidat. Ce dossier de nomination comprend :
+
+1° la candidature et ses annexes visées à l'article 43, § 1er;
+
+2° les avis écrits.
+
+§ 2. La commission de nomination entend les candidats et établit ensuite une liste des trois candidats les plus aptes. Si la commission de nomination est amenée à rendre un avis sur moins de trois candidats, la liste se limite au seul ou aux deux seuls candidats.
+
+Le classement est établi sur la base de critères relatifs à la capacité et à l'aptitude des candidats pour l'exercice de la fonction de notaire.
+
+[<sup>2</sup> Sauf cas de force majeure, le candidat doit être présent à l'audition à laquelle il a été invité par lettre recommandée envoyée au moins une semaine à l'avance.]<sup>2</sup>
+
+§ 3. Le classement fait l'objet d'un procès-verbal motivé qui est signé par le président et le secrétaire de la commission de nomination. Si un candidat est classé premier à l'unanimité des voix, il en est fait mention.
+
+Dans les trente jours à compter de l'expiration du délai visé au § 1er, le président de la commission de nomination envoie la liste des candidats classés et le procès-verbal au ministre de la Justice et une copie de la liste aux candidats classés. Le Roi nomme le notaire sur proposition du ministre de la Justice [<sup>1</sup> parmi les candidats classés par la commission de nomination]<sup>1</sup>.
+
+Tout candidat qui n'a pas été nommé peut, sur demande écrite adressée à la commission de nomination consulter et obtenir copie uniquement de la partie du procès-verbal qui le concerne et de celle qui concerne le candidat nommé.
+
+§ 4. Les membres d'une commission de nomination sont tenus au secret. L'[<sup>3</sup> article 352]<sup>3</sup> du Code pénal leur est applicable.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 178, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2022-11-22/06, art. 32, 034; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2026-03-03/04, art. 4, 039; En vigueur : 01-09-2026&gt;
+
+##### Art. 45
+
+Les [<sup>1</sup> notaires-titulaires]<sup>1</sup> seront nommés par (le Roi,) et obtiendront de lui une commission qui énoncera le lieu fixe de la résidence. &lt;L 09-04-1980, art. 1er, § 1er, 11°, MB 06-05-1980&gt;
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 33, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 46
+
+Les commissions de notaire seront, (...) adressées au tribunal de première instance dans le ressort duquel le pourvu aura sa résidence. &lt;L 09-04-1980, art. 1er, § 1er, 12°, MB 06-05-1980&gt;
+
+##### Art. 47
+
+Dans les deux mois de sa nomination, et à peine de déchéance, le pourvu sera tenu de prêter, à l'audience du tribunal auquel la commission aura été adressée, le serment que la loi exige de tout fonctionnaire public, ainsi que celui de remplir ses fonctions avec exactitude et probité.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Il sera tenu de faire enregistrer le procès-verbal de prestation de serment au greffe du tribunal de première instance de sa résidence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 179, 018; En vigueur : 03-08-2017&gt;
+
+##### Art. 48
+
+Il n'aura le droit d'exercer qu'à compter du jour où il aura prêté serment.
+
+##### Art. 49
+
+[<sup>1</sup> Avant d'entrer en fonction, le notaire devra déposer au greffe du tribunal de première instance de sa résidence, ses signature et paraphe.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 180, 018; En vigueur : 03-08-2017&gt;
+
+### Section IIbis. [<sup>1</sup> - Le notaire adjoint]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 34, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 49bis
+
+[<sup>1</sup> § 1er. Un candidat-notaire désigné par le ministre de la Justice en qualité de notaire adjoint conformément à l'article 49ter, § 3, alinéa 2, exerce sa fonction avec le statut de salarié sur base d'un contrat de travail avec un autre notaire, personne physique, ou avec une société professionnelle notariale.
+
+§ 2. Le notaire adjoint ne peut exercer sa fonction qu'au sein d'une seule étude. Le nombre de notaires adjoints par étude ne peut dépasser le nombre de notaires titulaires de l'étude plus un.
+
+Outre les incompatibilités légales et déontologiques, il ne peut exercer aucune fonction dans une autre étude notariale, sauf en qualité de suppléant.
+
+§ 3. Sauf disposition légale contraire, le notaire adjoint a les mêmes compétences, les mêmes droits et les mêmes devoirs que les autres notaires de l'étude dans laquelle il est désigné.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 35, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 49ter
+
+[<sup>1</sup> § 1er. Au sens de la présente loi, il y a lieu d'entendre, par résidence du notaire adjoint:
+
+\- en cas d'exercice de la fonction en qualité d'adjoint d'un notaire exerçant sa fonction en personne physique, la résidence de ce dernier;
+
+\- en cas d'exercice de la fonction en qualité d'adjoint d'une société professionnelle notariale, le siège de ladite société.
+
+Les actes reçus par le notaire adjoint sont inscrits dans le répertoire du notaire titulaire ou, en cas d'association, le répertoire ouvert au nom de la société professionnelle notariale.
+
+§ 2. Le contrat de travail et ses modifications ultérieures sont établis par écrit, sous condition suspensive de l'approbation par la chambre des notaires de la résidence du notaire-titulaire ou, en cas d'association, du siège de la société professionnelle notariale.
+
+La chambre des notaires examine la légalité relative à l'exercice de la fonction notariale des contrats proposés ainsi que leur compatibilité avec les règles de la déontologie. Les notaires et candidats-notaires concernés peuvent interjeter appel d'une décision négative de la chambre des notaires auprès de la Chambre nationale des notaires, comformément à la procédure prévue à l'article 94bis.
+
+Les contrats conclus à titre définitif ou même exécutés de manière tacite, sans l'approbation de la chambre des notaires, peuvent être déclarés nuls et entraîner une peine disciplinaire.
+
+Le contrat de travail précise les conditions de sa rémunération, qui doivent être équitables et proportionnelles, sans que cette partie de la convention ne doive être soumise à la chambre des notaires compétente.
+
+En aucun cas le contrat de travail ne peut porter atteinte aux règles déontologiques de la fonction de notaire. Le notaire adjoint décide lui-même en toute indépendance si un acte ou une mission dont il est chargé est contraire aux règles légales ou déontologiques.
+
+§ 3. La requête de désignation d'un notaire adjoint en vue de l'exercice de la profession est adressée au ministre de la Justice, conjointement par le ou les notaires de l'étude et le candidat à la désignation. A cette requête sont jointes la preuve de l'inscription du candidat au tableau tenu par une chambre des notaires et de l'approbation par la chambre des notaires du contrat visé au paragraphe 2.
+
+Dans la mesure où les conditions prévues par la loi sont respectées, le ministre de la Justice approuve la requête et désigne le candidat-notaire au sein de l'étude concernée en qualité de notaire adjoint. Cette désignation est publiée par un avis au Moniteur belge.
+
+Avant d'entrer en fonction, le notaire adjoint désigné se conforme aux dispositions des articles 47, 48 et 49, sauf s'il a déjà accompli ces formalités dans l'arrondissement.
+
+§ 4. Le notaire adjoint travaille sous la supervision et la responsabilité du notaire titulaire ou des notaires associés. Le notaire titulaire de l'étude ou, en cas de société professionnelle notariale, la personne morale est responsable du fait de l'activité professionnelle exercée pour son compte par le notaire adjoint, sans préjudice des dispositions de l'article 18 de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+Les compétences liées à la fonction du notaire adjoint sont suspendues pendant la période où il n'y a pas de notaire titulaire, associé ou suppléant actif dans l'étude.
+
+§ 5. En cas de démission ou de cessation de fonction de la personne concernée en tant que notaire adjoint, cette démission ou cessation fait l'objet d'un avis publié au Moniteur belge par le ministre de la Justice. En vue de cette publication, le notaire titulaire ou, en cas d'association, tous les associés doivent conjointement en aviser la chambre des notaires compétente. La chambre des notaires en informe sans délai le ministre de la Justice.
+
+La reprise de la fonction nécessite une nouvelle désignation.
+
+§ 6. Les avis publiés au Moniteur belge conformément aux paragraphes 3 et 5 mentionnent la date à compter de laquelle la désignation ou la fin de la désignation comme notaire adjoint sortira ses effets. A défaut de mention d'une date d'effet, elle sortira ses effets de plein droit au dixième jour après la date de publication.
+
+La désignation comme notaire adjoint ne peut toutefois sortir ses effets qu'après que la personne concernée ait rempli les obligations des articles 47, 48 et 49 conformément au § 3, alinéa 3 du présent article, si cette date est postérieure à la date visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 36, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 49quater
+
+&lt;Abrogé par L 2016-04-27/08, art. 3, 016; En vigueur : 21-05-2016&gt;
+
+### Section III. - [<sup>1</sup> L'exercice de la fonction notariale en société]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 132, 013; En vigueur : 24-05-2014&gt;
+
+##### Art. 50
+
+[<sup>1</sup> § 1er. Un notaire peut, seul ou en association, exercer son activité en société.
+
+Cette société doit adopter la forme d'une société [<sup>5</sup> à responsabilité limitée]<sup>5</sup> à responsabilité limitée ou d'une société coopérative à responsabilité limitée.
+
+Le notaire reste, néanmoins, personnellement titulaire de la fonction de notaire.
+
+Les notaires ne peuvent exercer leur fonction, en tout ou en partie, en dehors de la société notariale, sauf lorsqu'ils agissent en qualité de suppléant. [<sup>5</sup> Ils ne peuvent faire partie que d'une seule société notariale.]<sup>5</sup>
+
+§ 2. Des associations peuvent être formées entre :
+
+1° des notaires dont la résidence est située dans le même arrondissement judiciaire [<sup>2</sup> et qui sont membres d'une même compagnie; les notaires qui ont leur résidence dans les cantons de [<sup>3</sup> Limbourg]<sup>3</sup>, de [<sup>4</sup> Spa]<sup>4</sup>, [<sup>3</sup> dans le premier canton de Verviers]<sup>3</sup> et dans le deuxième canton de Verviers peuvent également s'associer soit avec des notaires dont la résidence est située dans l'arrondissement judiciaire d'Eupen, soit avec des notaires dont la résidence est située dans l'arrondissement judiciaire de Liège]<sup>2</sup>;
+
+2° des candidats-notaires figurant au tableau tenu par une chambre des notaires, à condition que l'association comprenne au moins un notaire-titulaire;
+
+3° des sociétés dont les parts appartiennent aux personnes citées sous 1° et 2° et dont le cadre est fixé par la chambre nationale des notaires, étant compris qu'une même personne ne peut participer en même temps à l'association à travers cette société et comme personne physique.
+
+§ 3. La société notariale a pour seul objet [<sup>5</sup> ...]<sup>5</sup> l'exercice, sous forme d'association ou non, de la fonction de notaire. Elle ne peut posséder d'autres biens que ceux qui sont prévus à l'article 55, § 1er [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. La responsabilité des associés est limitée à leur apport.
+
+La responsabilité de la société notariale est limitée à un montant de cinq millions d'euros. Le notaire reste responsable solidairement avec la société pour les responsabilités qui résultent d'une infraction commise par le notaire avec une intention frauduleuse ou à dessein de nuire, sans préjudice du recours de la société contre le notaire.
+
+La société notariale est tenue de faire couvrir sa responsabilité civile par un contrat d'assurance, approuvé par la Chambre nationale des notaires, qui doit garantir le maximum prévu à l'alinéa 2.
+
+§ 5. [<sup>5</sup> L'acte de constitution et les statuts de la société notariale, et, le cas échéant, le pacte d'actionnariat, le règlement d'ordre intérieur ou tout autre document portant sur le fonctionnement de la société notariale, ainsi que leurs modifications, y compris, le cas échéant, le contrat de désassociation, sont adoptés sous condition suspensive de l'approbation par la chambre des notaires du siège de cette société.]<sup>5</sup>
+
+La chambre des notaires examine la légalité des actes proposés ainsi que leur compatibilité avec les règles de la déontologie. Les intéressés peuvent interjeter appel d'une décision négative de la chambre des notaires auprès de la Chambre nationale des notaires.
+
+Les conventions conclues à titre définitif ou même exécutées de manière tacite, sans l'approbation de la chambre des notaires, peuvent être déclarées nulles et entraîner une peine [<sup>5</sup> disciplinaire]<sup>5</sup>.]<sup>1</sup>
+
+[<sup>5</sup> § 6. Une société notariale peut uniquement émettre des actions, obligations ou droits de souscription. Ils sont obligatoirement nominatifs. Il n'est pas possible de créer des classes d'actions.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 133, 013; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 181, 018; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2017-12-25/08, art. 4, 1°, 3°, 021; En vigueur : 01-06-2018&gt;
+
+(4)&lt;L 2017-12-25/08, art. 4, 2°, 021; En vigueur : indéterminée et au plus tard le 01-01-2020&gt;
+
+(5)&lt;L 2022-11-22/06, art. 37, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 51
+
+&lt;Rétabli par L 1999-05-04/03, art. 28, En vigueur : 01-01-2000&gt; § 1er. [<sup>3</sup> L'acte constitutif de la société notariale]<sup>3</sup> contient les statuts et règle, entre autres, les éléments composant l'avoir social, les droits que chaque associé y acquiert et sa quote-part dans les revenus, les modalités et conditions du retrait d'un associé, les droits et devoirs des anciens associés. [<sup>3</sup> L'acte constitutif de la société notariale]<sup>3</sup> règle en particulier les modalités suivant lesquelles le notaire associé non titulaire est, le cas échéant, indemnisé lorsqu'il cesse ses fonctions [<sup>2</sup> ...]<sup>2</sup>, ainsi que la désignation du notaire titulaire qui sera dépositaire du répertoire visé au § 6.
+
+Est notaire titulaire celui dont le lieu fixe de la résidence est énoncé dans la commission obtenue du Roi conformément à l'article 45.
+
+§ 2. Le nom de la société est toujours suivi de la mention : " notaires associés " [<sup>1</sup> ou "société notariale"]<sup>1</sup>. [<sup>1</sup> ...]<sup>1</sup>
+
+Le siège de la société est établi à la résidence du ou de l'un des notaires titulaires.
+
+§ 3. [<sup>1</sup> a) Peuvent seuls être [<sup>3</sup> ...]<sup>3</sup> administrateurs de la société notariale un ou plusieurs notaires qui exercent leur fonction dans cette société notariale et/ou une ou plusieurs sociétés [<sup>2</sup> dont le seul détenteur de parts est un notaire qui exerce sa fonction dans la société notariale, et qui est désigné comme représentant permanent pour l'exercice de ce mandat]<sup>2</sup>.
+
+b) A moins que la société ne soit dissoute ou son objet ne soit modifié, les parts dans la société ne peuvent être cédées entre vifs ou transmises à cause de mort, qu'à un associé, au notaire nommé par le Roi comme successeur d'un associé ou à un nouvel associé. Le consentement des autres associés est toutefois requis pour la cession ou la transmission des parts à un associé ou à un nouvel associé.
+
+A défaut de consentement, les associés sont tenus de reprendre eux-mêmes les parts de leur ancien associé moyennant le paiement de l'indemnité prévue à l'article 55, § 3, b) [<sup>3</sup> , à moins que les statuts ne prévoient une faculté de reprise à charge du patrimoine social]<sup>3</sup>.]<sup>1</sup>
+
+§ 4. [<sup>3</sup> Chaque notaire]<sup>3</sup> [<sup>1</sup> de la société notariale]<sup>1</sup> dispose d'une voix. L'unanimité est requise pour toute modification [<sup>3</sup> de l'acte constitutif]<sup>3</sup>.
+
+§ 5. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 6. [<sup>1</sup> En cas d'association, les actes sont inscrits dans un seul répertoire ouvert au nom de la société notariale. Ce répertoire est détenu, avec les actes qui y sont inscrits, [<sup>2</sup> au siège de la société,]<sup>2</sup> par le notaire titulaire désigné dans [<sup>3</sup> l'acte]<sup>3</sup> constitutif de la société.
+
+A défaut d'accord, les minutes [<sup>3</sup> , les répertoires et les archives des actes reçus pendant l'association]<sup>3</sup> reviennent au notaire de la société notariale qui a été nommé en dernier comme notaire-titulaire [<sup>3</sup> ...]<sup>3</sup>.
+
+Au cas où le notaire titulaire visé au premier alinéa cesse d'être associé, ou en cas de dissolution de la société, ces actes et répertoires sont transmis aussi rapidement que possible à un autre notaire titulaire de la société, conformément aux alinéas précédents, ou, à défaut, au notaire titulaire nouvellement nommé. Cette transmission est immédiatement portée à la connaissance du procureur du Roi.
+
+En cas de dissolution de la société, sa comptabilité est confiée au notaire titulaire désigné dans [<sup>3</sup> l'acte constitutif de la société et, en cas de silence de l'acte constitutif, au notaire-titulaire visé à l'alinéa 2]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>3</sup> Sans préjudice des alinéas 1er à 4, les notaires qui ont fait partie de la société notariale ou qui avaient la qualité d'associé au moment de sa dissolution conservent un droit d'accès aux minutes qu`ils ont reçues et aux répertoires, archives et comptabilité de la société notariale dans le cadre de la sauvegarde de leurs droits de la défense dans une procédure.]<sup>3</sup>
+
+§ 7. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 134, 013; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 182, 018; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2022-11-22/06, art. 38, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 52
+
+&lt;L 1999-05-04/03, art. 29, En vigueur : 01-01-2000&gt; § 1er. [<sup>2</sup> Le notaire qui désire exercer sa profession avec un ou plusieurs notaires de résidence différente doit maintenir une antenne au lieu de sa résidence, à l'exception de ce qui est prévu au paragraphe 1er/1.
+
+Le notaire peut, par dérogation à l'article 4, pour la durée de l'association, avoir son étude dans chaque antenne de l'association.
+
+Dans chaque antenne, le service notarial doit être organisé à part entière. Cela implique que le notaire ou au moins un collaborateur juridique qualifié soit présent dans l'antenne, qui doit être ouverte au moins seize heures par semaine, réparties sur quatre jours. La Chambre nationale des notaires établit les règles générales de ce service.]<sup>2</sup>
+
+[<sup>2</sup> § 1er/1. Des notaires de résidence différente dans une même commune et sur le territoire d'un même canton judiciaire, qui désirent exercer leur profession en association, doivent déplacer leur étude à la résidence de l'un d'entre eux pour la durée de cette association.
+
+§ 1er/2. En aucun cas, une association ne peut comprendre plus de douze notaires. Ces notaires ne peuvent être issus de plus de cinq résidences.]<sup>2</sup> [<sup>3</sup> Les notaires adjoints ne sont pas pris en compte pour la fixation de ce quota.]<sup>3</sup>
+
+§ 2. La requête d'association avec un candidat-notaire en vue de l'exercice de la profession est adressée au ministre de la Justice, conjointement par le ou les notaires et le candidat-notaire. A cette requête est joint [<sup>3</sup> l'acte constitutif]<sup>3</sup> visé à l'article [<sup>1</sup> 50, § 5]<sup>1</sup> , et approuvé par la chambre des notaires.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Dans la mesure où les conditions prévues par la loi sont respectées, le ministre de la Justice approuve l'association et affecte le candidat-notaire au sein de l'association professionnelle concernée en qualité de notaire associé. Cette affectation est publiée par un avis au Moniteur belge.
+
+Avant d'entrer en fonction, le candidat-notaire se conforme aux dispositions des articles 47, 48 et 49 à moins qu'il n'exerce déjà la fonction notariale dans l'arrondissement ou s'il a déjà accompli ces formalités dans l'arrondissement.
+
+Tant qu'il reste associé au sein de la société dans laquelle il a été affecté, le candidat-notaire a les mêmes pouvoirs, les mêmes droits et les mêmes devoirs que le notaire titulaire.
+
+Tant qu'il reste associé, le notaire titulaire ne peut faire état de sa qualité de titulaire.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>2</sup> La société peut être dissoute par décision unanime des associés.]<sup>2</sup>
+
+[<sup>2</sup> § 4. La communication relative à la création ou l'extension d'une association entre notaires titulaires est adressée conjointement par les notaires au ministre de la Justice, qui procède à la publication de cette association par un avis au Moniteur belge. A cette communication est joint [<sup>3</sup> l'acte constitutif]<sup>3</sup> approuvé par la chambre des notaires, visé à l'article 50, § 5.
+
+La fin de l'affectation comme notaire associé dans une société professionnelle, le retrait d'un associé ou la fin d'une association, fait l'objet d'un avis publié au Moniteur belge par le ministre de la Justice. En vue de cette publication, tous les associés doivent conjointement en aviser la chambre des notaires de la province où l'association a son siège. La chambre des notaires en informe sans délai le ministre de la Justice.
+
+§ 5. Les avis publiés au Moniteur belge conformément au paragraphe [<sup>3</sup> 2, alinéa 2 et au paragraphe]<sup>3</sup> 4 mentionnent la date à compter de laquelle la création ou l'extension de l'association, la fin de l'affectation comme notaire associé, le retrait d'un associé ou la fin de l'association sortira ses effets. A défaut de mention d'une date d'effet, cela se fera de plein droit au dixième jour après la date de publication.
+
+Lorsque, dans le cas d'une affectation comme notaire associé, le candidat-notaire doit encore se conformer aux articles 47, 48 et 49 en vertu du paragraphe 2, alinéa 4, la création ou l'extension de l'association ne prendra effet qu'au jour où ces obligations ont été remplies si cette date est postérieure à la date visé à l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 135, 013; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 183, 018; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2022-11-22/06, art. 39, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 53
+
+&lt;L 1999-05-04/03, art. 30, En vigueur : 01-01-2000&gt; § 1er. [<sup>2</sup> Un ou plusieurs associés peuvent par dérogation aux articles 2:60 à 2:67 du Code des sociétés et des associations, demander en justice, pour de justes motifs, qu'un associé cède ses parts au(x) demandeur(s) ou à la société.]<sup>2</sup>
+
+L'action est introduite par citation et portée devant le [<sup>2</sup> tribunal de l'entreprise du siège de la société]<sup>2</sup>. Le tribunal sollicite l'avis de la chambre des notaires.
+
+[<sup>2</sup> Le tribunal peut condamner le défendeur à céder ses parts au(x) demandeur(s) ou, si demandé, à la société, dans le délai qu'il détermine à partir de la signification du jugement, et le(s) demandeur(s), ou, le cas échéant, la société, à reprendre les parts moyennant payement de l'indemnité qu'il fixe. Lorsqu'il fixe le prix de reprise ou la part de retrait, le juge est tenu par les dispositions contractuelles ou statutaires relatives à la fixation de la valeur des titres et de la part de retrait, pour autant que ces dispositions se rapportent spécifiquement à l'hypothèse d'une exclusion judiciaire ou conventionnelle, et à défaut, par les dispositions de l'article 55. En tous les cas, le juge peut se substituer à toute partie ou à tout tiers désigné par les statuts ou les conventions pour fixer le prix, en tenant compte des règles d'évaluation fixées par ces statuts ou conventions et, à défaut, par l'article 55.]<sup>2</sup>
+
+[<sup>2</sup> Le juge peut ordonner le transfert de propriété contre le paiement d'un prix provisoire en attendant la fixation du prix définitif.
+
+Le juge peut imposer aux demandeurs de libérer ou de faire libérer les défendeurs des sûretés réelles et personnelles octroyées en faveur de la société, ou de leur fournir à cet effet une contre-garantie adéquate, par le biais de la société ou non. La décision du juge tient lieu de titre pour la réalisation de toutes les formalités liées au transfert.
+
+Lorsque la reprise a lieu par plusieurs demandeurs, ils sont tenus solidairement au paiement du prix. Lorsque la reprise a lieu par la société à charge du patrimoine social, les actions reprises sont annulées. Les dispositions de l'article 5:145 du Code des sociétés et des associations ne sont, le cas échéant, pas applicables à cette reprise par la société, et la distribution de la part de retrait n'est possible que moyennant le respect des dispositions des articles 5:142 et 5:143 du Code des sociétés et des associations, le cas échéant 6:115 et 6:116 du Code des sociétés et des associations. Si la société ne dispose pas de suffisamment de montants pouvant être distribués pour rembourser la part de retrait, les demandeurs, sont tenus solidairement au paiement du solde.
+
+Les modifications statutaires qui découlent de l'exclusion sont établies, avant la fin de chaque exercice, par un acte authentique reçu à la demande de l'organe d'administration.]<sup>2</sup>
+
+La décision du tribunal est exécutoire par provision, nonobstant opposition ou appel.
+
+[<sup>2</sup> L'article 5:69 du Code des sociétés et des associations n'est pas applicable à la société notariale.]<sup>2</sup>
+
+§ 2. Le décès, l'acceptation de la démission ou la destitution d'un notaire titulaire ne met pas fin à la société.
+
+La place est vacante. Les candidats à cette place reçoivent une copie [<sup>2</sup> des pièces visées à l'article 50, § 5]<sup>2</sup>. Le notaire nouvellement nommé est associé de plein droit.
+
+L'acceptation de la démission ou la destitution d'un notaire titulaire entraîne de plein droit la perte de sa qualité d'associé. L'exercice des droits liés à ses parts est suspendu.
+
+Le notaire associé non titulaire continue d'exercer la fonction notariale. S'il n'est pas nommé titulaire, il exerce la fonction en association avec le nouveau titulaire, dès que celui-ci a prêté serment.
+
+[<sup>1</sup> Dans le cas où, dans les deux ans suivant le jour où la place devient vacante, aucun nouveau titulaire n'a été nommé et n'a prêté serment, il est mis fin de plein droit à la désignation du ou des notaire(s) associé(s) non titulaire(s) après l'expiration de ce délai. La fin de cette désignation est publiée par un avis au Moniteur belge. Le paiement de l'indemnité qui lui (leur) revient conformément aux dispositions du contrat de société est suspendu jusqu'à la prestation de serment du nouveau notaire titulaire ou la suppression de la résidence.
+
+Sauf en cas de suppression de la résidence, la désignation d'un notaire suppléant sera demandée à la requête de la chambre des notaires compétente, selon la procédure prévue à l'article 64.]<sup>1</sup>
+
+§ 3. Le décès, l'acceptation de la démission ou la destitution d'un notaire associé non titulaire ne met pas fin à la société.
+
+L'acceptation de sa démission ou sa destitution entraîne de plein droit la perte de sa qualité d'associé. L'exercice des droits liés à ses parts est suspendu.
+
+Les parts représentatives de son apport d'industrie sont annulées.
+
+Il n'exerce plus la fonction notariale. Sauf en cas de destitution, il reprend le titre de candidat-notaire.
+
+§ 4. a) [<sup>1</sup> ...]<sup>1</sup>
+
+b) A la demande d'un ou de plusieurs associés, du procureur du Roi ou de la chambre des notaires concernée, le [<sup>2</sup> tribunal de l'entreprise du siège de la société]<sup>2</sup> peut prononcer la dissolution de la société pour des motifs fondés ou si l'intérêt public l'exige.
+
+Le tribunal sollicite, selon le cas, l'avis de la chambre des notaires ou du procureur du Roi, ou de ces deux instances.
+
+Au lieu de prononcer la dissolution de la société, le tribunal peut, le cas échéant, ordonner l'exclusion d'un ou de plusieurs associés.
+
+Dans tous les cas, le tribunal règle les indemnités auxquelles certains associés sont tenus ou peuvent prétendre [<sup>2</sup> et observe les mêmes principes énoncés au paragraphe 1er]<sup>2</sup>.
+
+En cas de dissolution judiciaire, le notaire titulaire continue d'exercer la fonction, mais à titre individuel, sauf si le tribunal a prononcé sa destitution.
+
+c) La société est dissoute de plein droit en cas d'exclusion de l'associé qui est seul titulaire ou en cas de suppression de la résidence du seul titulaire.
+
+d) [<sup>1</sup> ...]<sup>1</sup>
+
+e) Le cas échéant, le greffier informe le ministre de la Justice de la dissolution judiciaire ou de l'exclusion [<sup>1</sup> ...]<sup>1</sup>. Dans tous les cas de dissolution d'une association ou d'exclusion, le ministre de la Justice en donne avis par extrait publié au Moniteur belge.
+
+[<sup>1</sup> Les extraits publiés au Moniteur belge conformément au présent paragraphe mentionnent la date à compter de laquelle la dissolution judiciaire de l'association ou l'exclusion sortira ses effets. A défaut de mention d'une date d'effet, cela se fera de plein droit au dixième jour après la date de publication.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 184, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2022-11-22/06, art. 40, 034; En vigueur : 01-01-2023&gt;
+
+### Section IV. - (De la transmission des minutes et autres éléments de l'étude notariale). &lt;L 1999-05-04/03, art. 31, En vigueur : 01-01-2000&gt;
+
+##### Art. 54
+
+&lt;L 1999-05-04/03, art. 32, En vigueur : 01-01-2000&gt; Les minutes et répertoires, les grosses et expéditions ainsi que les testaments olographes et autres dépôts de confiance d'un notaire remplacé, sont remis sans indemnité, par lui ou par ses héritiers, au notaire nommé en remplacement, dans le mois à compter de sa prestation de serment.
+
+Le notaire nommé en remplacement est chargé de plein droit des missions judiciaires de son prédécesseur, sans préjudice du droit du tribunal de désigner un autre notaire à la demande d'une partie concernée ou du procureur du Roi.
+
+Pour autant que les pièces visées à l'alinéa premier aient été rédigées ou confiées pendant l'association, pareille remise est faite par le notaire associé qui viendrait à cesser ses fonctions pour quelque motif que ce soit ou par ses héritiers, au notaire titulaire désigné conformément à l'article [<sup>1</sup> 51, § 6]<sup>1</sup> , dans le mois de la cessation des fonctions ou du décès.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 136, 013; En vigueur : 24-05-2014&gt;
+
+##### Art. 55
+
+&lt;L 1999-05-04/03, art. 32, En vigueur : 01-01-2000&gt; § 1er. a) Doivent être remis au notaire nommé en remplacement dans le délai prévu à l'article 54, alinéa premier, moyennant indemnité, tous [<sup>2</sup> actifs mobiliers matériels et immatériels]<sup>2</sup> liés à l'organisation de l'étude ainsi que les honoraires dus pour les expéditions et les honoraires d'exécution. Est exclu de la remise le passif qui n'est pas issu des contrats d'emploi, et ne résulte ni de baux, ni de contrats de fourniture en cours.
+
+b) Lorsque les [<sup>2</sup> actifs]<sup>2</sup> faisant l'objet de la remise prévue au littera a) figurent dans le patrimoine [<sup>1</sup> d'une société pluripersonnelle visée à l'article 50, § 2]<sup>1</sup> , cette remise intervient sous forme de cession des parts de la société. Préalablement à cette cession, les associés retirent leurs réserves et apurent le passif exclu de la remise, comme prévu au littera a). Le cédant reste responsable de l'apurement total de ce passif vis-a-vis du cessionnaire.
+
+[<sup>2</sup> Si le patrimoine de la société comprend un immeuble affecté en tout ou en partie à l'étude notariale ou des droits réels sur ce bien, le cessionnaire a le choix, soit, de conserver l'immeuble ou les droits réels sur celui-ci dans la société, le cas échéant avec les crédits y afférents accordés à la société, soit, de faire céder l'immeuble ou les droits réels aux associés restants avant la cession des actions, avec les dettes y afférentes.
+
+Pour chaque option une valorisation séparée des actions à céder est établie.
+
+Le cessionnaire doit faire ce choix dans les soixante jours après la publication de sa nomination au Moniteur belge.]<sup>2</sup>
+
+§ 2. En outre, le notaire associé non titulaire qui cesse ses fonctions, ou ses héritiers, doit céder dans le délai prévu à l'article 54, premier alinéa, moyennant indemnité, tous ses droits dans les éléments meubles corporels et incorporels dépendant de l'étude. Cette remise intervient sous forme de cession de ses parts dans la société, sauf si ces parts ont été attribuées en rémunération d'un apport en industrie et en tenant compte des dispositions de l'article [<sup>1</sup> 51, § 3, b)]<sup>1</sup> .
+
+§ 3. a) Le montant de l'indemnité prévue au § 1er, a), est égal à deux fois et demie le revenu moyen, indexé et éventuellement corrigé, des cinq dernières années de l'étude.
+
+b) En cas d'association, le montant de l'indemnité est égal à deux fois et demie la quote-part du notaire associé dans le revenu de l'étude visé sous a), telle que cette quote-part est fixée par le contrat de société.
+
+c) Le Roi établit les règles de calcul et d'indexation du revenu moyen de l'étude visé sous a) et b), ainsi que les critères de correction éventuelle à la baisse pour des raisons économiques ou d'équité, entre autres lorsque la remise intervient sous forme de cession de parts, comme prévu au § 1er, b). Le montant de l'indemnité de reprise est détermine dans un rapport établi par un réviseur d'entreprise ou par un expert-comptable externe, désigné par la Chambre nationale des notaires. Ce réviseur ou expert-comptable ne peut avoir exercé précédemment aucun mandat dans l'étude concernée des notaires. Le réviseur ou l'expert-comptable désigné décrit tous les éléments de l'étude notariale à reprendre.
+
+d) Le ministre de la Justice fixe les modalités de la communication aux candidats-notaires du montant de l'indemnité visée sous a). Cette communication a lieu en tous cas, vingt et un jours au moins avant l'expiration du délai prévu à l'article 43, § 1er.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 137, 013; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 185, 018; En vigueur : 03-08-2017&gt;
+
+##### Art. 56
+
+&lt;L 1999-05-04/03, art. 32, En vigueur : 01-01-2000&gt; Lorsqu'une place de notaire est supprimée, son titulaire ou les héritiers de ce dernier sont tenus de remettre, dans un délai de deux mois à dater de la publication au Moniteur belge de la suppression, les pièces visées à l'article 54, alinéa premier, à un notaire ayant sa résidence dans le même arrondissement, après avoir recueilli l'avis de la chambre des notaires.
+
+##### Art. 57
+
+Le (procureur du Roi) est chargé de veiller à ce que les remises ordonnées par les articles précédents soient effectuées; et, dans le cas de suppression de la place, si le titulaire ou ses héritiers n'ont pas fait choix, dans les délais prescrits, du notaire a qui les minutes et répertoires devront être remis, (ainsi que lorsque la désignation prévue à l'article 51, § 6, deuxième alinéa, n'a pas été effectuée,) le (procureur du Roi) indiquera celui qui en demeurera dépositaire. &lt;L 09-04-1980, art. 1er, § 1er, 15°, MB 06-05-1980&gt;
+
+Le titulaire ou ses héritiers, en retard de satisfaire aux dispositions (des articles 54 et 56), seront condamnés à 100 francs d'amende par chaque mois de retard, à compter du jour de la sommation qui leur aura été faite d'effectuer la remise. &lt;L 1999-05-04/03, art. 33, En vigueur : 01-01-2000&gt; (NOTE : lire 2,50 euros selon art. 3 L 2000-06-26/42)
+
+##### Art. 58
+
+Dans tous les cas, il sera dressé un état sommaire des minutes remises; et le notaire qui les recevra s'en chargera au pied de cet état, dont un double sera remis à la (chambre des notaires). &lt;L 1999-05-04/03, art. 34, En vigueur : 01-01-2000&gt;
+
+##### Art. 59
+
+&lt;Abrogé par L 1999-05-04/03, art. 35, En vigueur : 01-01-2000&gt;
+
+##### Art. 60
+
+Tous les dépôts de minutes, sous la dénomination de chambres de contrats, bureaux de tabellionnage, et autres, sont maintenus à la garde de leurs possesseurs actuels. Les grosses et expéditions ne pourront en être délivrées que par un notaire de la résidence des dépôts, ou, à défaut, par un notaire de la résidence la plus voisine.
+
+Néanmoins, si lesdits dépôts de minutes ont été remis au greffe d'un tribunal, les grosses et expéditions pourront, dans ce cas seulement, être délivrées par le greffier.
+
+##### Art. 61
+
+(...) après le décès du notaire ou autre possesseur de minutes, les minutes et répertoires seront mis sous les scellés par le juge de paix de la résidence, (à moins qu'un) autre notaire en ait été provisoirement chargé par ordonnance du (juge de paix) de la résidence. &lt;L 1999-05-04/03, art. 36, En vigueur : 01-01-2000&gt;
+
+##### Art. 62
+
+&lt;L 1999-05-04/03, art. 37, En vigueur : 01-01-2000&gt; Les détenteurs de minutes, tables et répertoires d'actes notariés datant de cinquante ans au moins, peuvent les déposer aux archives du Royaume dans la province ou l'arrondissement administratif où se trouve leur ressort. Ces documents doivent obligatoirement être déposés s'ils datent de plus de septante-cinq ans, sauf dispense accordée par l'archiviste général du Royaume sur demande motivée.
+
+Ces documents peuvent être librement consultés après cent ans, sauf autorisation antérieure donnée par le ministre de la Justice ou son délégué.
+
+Les minutes, tables et répertoires d'actes notariés déposés aux archives du Royaume sont placés sous le contrôle de l'archiviste général du Royaume.
+
+Lors du dépôt, il est dressé, en deux exemplaires, signés par le notaire déposant et l'archiviste général du Royaume, un inventaire des minutes déposées. Un de ces exemplaires est remis au notaire à titre de récépissé.
+
+### Section V. - (De la suppléance). &lt;Inséré par L 1999-05-04/03, art. 38, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt;
+
+##### Art. 63
+
+&lt;Inséré par L 1999-05-04/03, art. 38, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Lorsqu'un notaire ou un notaire associé est empêché temporairement de remplir ses fonctions ou lorsqu'une place est vacante, les fonctions de notaire peuvent être assurées par un suppléant.
+
+##### Art. 64
+
+&lt;Inséré par L 1999-05-04/03, art. 38, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; § 1er. Le suppléant est choisi parmi les [<sup>1</sup> candidats-notaires, les notaires et les notaires honoraires]<sup>1</sup>.
+
+§ 2. Sur requête unilatérale signée par le notaire et par le candidat à la suppléance, le président du tribunal de première instance de l'arrondissement dans lequel le notaire a sa résidence, désigne le suppléant. Cette désignation est valable pour la durée déterminée par le président, après avoir sollicité les avis du procureur du Roi et de la chambre des notaires, sans que cette durée puisse toutefois dépasser deux ans. Cette période peut être renouvelée, par décision expressément motivée et sans que la durée totale de la désignation puisse dépasser quatre années.
+
+Avant le dépôt de la requête en désignation, le notaire soumet à l'approbation de la chambre des notaires le texte de la convention à intervenir avec le candidat à la suppléance quant à la répartition des profits et des charges de l'exercice de la profession. La chambre des notaires peut subordonner son approbation à certaines modifications.
+
+§ 3. A défaut d'une requête telle que visée au § 2, ainsi qu'en cas de vacance, le président du tribunal de première instance de l'arrondissement dans lequel le notaire a sa résidence, peut désigner un suppléant à la requête du procureur du Roi ou de la chambre des notaires. Selon le cas, l'avis du procureur du Roi ou de la chambre des notaires est requis.
+
+Dans ces cas, le président du tribunal de première instance fixe la rémunération du suppléant, après avoir sollicité l'avis de la chambre des notaires.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 186, 018; En vigueur : 03-08-2017&gt;
+
+##### Art. 65
+
+&lt;Inséré par L 1999-05-04/03, art. 38, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; § 1. Avant d'exercer ses fonctions, le suppléant se conforme aux dispositions des articles 42, 48 et 49, à moins qu'il soit déjà notaire en fonction dans l'arrondissement ou qu'il ait déjà accompli ces formalités dans l'arrondissement.
+
+§ 2. Le suppléant porte le titre de notaire suppléant. Dans les actes qu'il reçoit, il doit faire mention de ce titre, de l'ordonnance ou du jugement qui le désigne ainsi que des nom, prénom usuel et résidence du notaire qu'il remplace.
+
+Il est soumis aux prohibitions prévues aux articles 8, 9 et 10, tant dans le chef du notaire suppléé que dans son propre chef.
+
+Il inscrit ses actes au répertoire du notaire suppléé, et continue son protocole et sa comptabilité. Il a le droit de délivrer des grosses et des expéditions des actes reçus par le notaire suppléé ou détenus par lui. Il utilise le sceau du notaire suppléé.
+
+§ 3. Les comptes et avoirs dont le notaire suppléé avait la gestion par le fait de l'exercice de sa profession sont administrés de plein droit par le suppléant.
+
+Les mandats de justice dont le notaire suppléé était investi sont exécutés de plein droit et sans désignation nouvelle, par le suppléant.
+
+Le président du tribunal peut néanmoins, à la requête de la partie la plus diligente et s'il existe des motifs sérieux, désigner un autre notaire pour continuer l'exercice d'un mandat de justice ou administrer un compte ou un avoir déterminé.
+
+Le suppléant est responsable vis-à-vis des tiers des fautes professionnelles qu'il commet. Pendant la durée de la suppléance, le notaire suppléé ne peut plus exercer ses fonctions.
+
+##### Art. 66
+
+&lt;Inséré L 1999-05-04/03, art. 38, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Le suppléant est soumis à toutes les obligations de la fonction notariale.
+
+##### Art. 67
+
+&lt;Inséré L 1999-05-04/03, art. 38, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; La suppléance prend fin par l'échéance du terme ou par une ordonnance du président du tribunal de première instance, à la requête du suppléant ou du notaire suppléé, du procureur du Roi ou de la chambre des notaires.
+
+S'il s'agit d'une requête, celle-ci doit être signée par le demandeur.
+
+L'ordonnance est signifiée à la requête du demandeur au suppléant dont les fonctions prennent alors fin de plein droit.
+
+En cas d'acceptation de la démission, de décès, suspension, suspension préventive ou destitution du notaire suppléé, le suppléant reste en fonction jusqu'à la prestation de serment du successeur, la fin de la suspension ou de la suspension préventive, la suppression de la place ou l'ordonnance du président du tribunal mettant fin à la suppléance.
+
+## TITRE III. - (Organisation professionnelle). &lt;L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt;
+
+### Section Ire. - (Des compagnies des notaires). &lt;Inséré par L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt;
+
+##### Art. 68
+
+&lt;L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Il est créé au chef-lieu de chaque province une compagnie des notaires. Les membres de la compagnie sont :
+
+1° les notaires qui ont leur résidence dans la province, sont associés avec [<sup>1</sup> ou adjoints à]<sup>1</sup> un notaire dont la résidence est établie dans la province ou désignés suppléants d'un notaire dont la résidence est établie dans la province;
+
+2° les candidats-notaires inscrits au tableau de la compagnie.
+
+La compagnie des notaires est une institution publique.
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 41, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 69
+
+&lt;L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; L'assemblée générale de la compagnie des notaires a pour attributions :
+
+1° d'élire parmi ses membres une chambre des notaires;
+
+2° d'établir les règles relatives à la pratique notariale. Dans l'exercice de cette compétence, les compagnies ne peuvent porter préjudice à celle de la Chambre nationale des notaires. Les décisions n'acquièrent force obligatoire qu'après approbation par le Roi, qui peut toujours y apporter des modifications;
+
+3° d'établir son règlement d'ordre intérieur;
+
+4° de fixer chaque année le budget et d'approuver les comptes qui lui sont soumis par la chambre des notaires;
+
+5° d'établir chaque année la cotisation [<sup>1</sup> et les rétributions]<sup>1</sup> à charge des membres de la compagnie et de la répartir entre eux;
+
+6° d'élire les représentants de la compagnie à la Chambre nationale des notaires et leurs suppléants, conformément à l'article 92, § 2.
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 42, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 70
+
+&lt;Inséré par L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Les assemblées générales de la compagnie se tiennent dans un local approprié, situé dans le ressort de la compagnie.
+
+Chaque année, il y a de droit deux assemblées générales, l'une en mai et l'autre en novembre. Il peut y avoir des assemblées extraordinaires quand la chambre des notaires le juge opportun, ou sur la demande motivée adressée à la chambre des notaires par le cinquième au moins des membres de la compagnie.
+
+Les assemblées générales sont convoquées par lettre missive contenant l'ordre du jour, signée par le président ou par le secrétaire de la chambre des notaires, et expédiée quinze jours au moins avant la réunion.
+
+##### Art. 71
+
+&lt;Inséré par L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Le président et le secrétaire de la chambre des notaires exercent les mêmes fonctions à l'assemblée générale.
+
+##### Art. 72
+
+&lt;Inséré par L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Tous les membres de l'assemblée générale de chaque compagnie disposent d'une voix délibérative.
+
+##### Art. 73
+
+&lt;Inséré par L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Il ne peut être pris de décision en assemblée générale que si au moins les deux tiers des membres sont présents et si plus de la moitié desdits membres présents exprime un vote favorable.
+
+Si ce quorum de présence n'est pas atteint, une deuxième assemblée générale sera réunie après un délai de quinze jours au moins et pourra prendre des décisions quel que soit le nombre des membres présents.
+
+Nonobstant les dispositions de l'alinéa qui précède, les règles visées à l'article 69, 2°, ne peuvent être adoptées que si la moitié des membres exprime, au scrutin secret, un vote favorable.
+
+Ces règles sont portées à la connaissance des membres de la compagnie par lettre circulaire dans le mois qui suit leur approbation par le Roi et deviennent de ce fait obligatoires.
+
+##### Art. 74
+
+&lt;Inséré par L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Le rôle de la cotisation annuelle visée à l'article 69, 5°, est, s'il y a lieu à recouvrement forcé, rendu exécutoire par le président du tribunal de première instance du chef-lieu de la province, après avoir sollicité l'avis du procureur du Roi.
+
+Tout membre de la compagnie concerné peut interjeter appel d'un recouvrement forcé auprès de la cour d'appel du ressort.
+
+##### Art. 75
+
+&lt;Inséré par L 1999-05-04/03, art. 39, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; L'assemblée générale du mois de novembre fixe le budget de la compagnie pour l'année civile qui suit, ainsi que la cotisation à charge de ses membres.
+
+L'assemblée générale du mois de mai examine et approuve les comptes de la compagnie pour l'année civile précédente. Elle procède à l'élection des membres de la chambre des notaires visés à l'article 78 et, s'il échet, à l'élection des représentants de la compagnie à la Chambre nationale des notaires et de leurs suppléants.
+
+### Section II. - (Des chambres des notaires). &lt;Inséré par L 1999-05-04/03, art. 40, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt;
+
+#### Sous-section Ire. - (Attributions). &lt;Inséré par L 1999-05-04/03, art. 40, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt;
+
+##### Art. 76
+
+&lt;Inséré par L 1999-05-04/03, art. 40, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Outre celles qui lui sont confiées par les autres dispositions de la présente loi, la chambre des notaires a pour attributions :
+
+(1° de maintenir la discipline entre les membres de la compagnie [<sup>1</sup> ...]<sup>1</sup>;) &lt;L 1999-05-04/04, art. 3, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt;
+
+2° de requérir, le cas échéant, la mesure conservatoire prévue à l'article 112, § 2;
+
+3° de prévenir ou concilier tous différends d'ordre professionnel entre membres de la compagnie et notamment ceux qui portent sur des communications, remises, dépôts et rétention de pièces, fonds et autres objets, sur des questions de garde des minutes, de concours ou d'intervention dans les actes et opérations de leur profession, de droit aux honoraires et de partage de ceux-ci. En cas de non conciliation et sur requête de l'un des membres en cause, d'entendre les intéressés et de rendre un avis, sauf en ce qui concerne les droits civils;
+
+4° de prévenir ou concilier toutes plaintes et réclamations de la part de tiers contre des membres de la compagnie, dans le cadre de l'exercice de leur profession;
+
+5° d'assurer le contrôle de la comptabilité des notaires, sans préjudice du droit de regard du procureur du Roi sur leur comptabilité;
+
+6° de donner, comme tiers, son avis sur les difficultés concernant le règlement des honoraires et les diligences de ses membres;
+
+7° de recevoir en dépôt les états des minutes dépendant des places de notaires supprimées; de déterminer les modalités de la remise aux notaires intéressés de tous éléments meubles corporels et incorporels dépendant d'une place supprimée;
+
+8° de représenter la compagnie en ce qui concerne les droits et les intérêts communs de ses membres à l'égard de tout pouvoir et institution, tant en justice que dans tous actes publics et privés;
+
+9° d'assurer l'administration de la compagnie et de gérer son patrimoine;
+
+10° d'exécuter les décisions de l'assemblée générale de la compagnie et de l'informer de l'exercice de ses attributions.
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 43,a, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 76bis
+
+[<sup>1</sup> § 1er. Les compagnies des notaires jouissent d'une hypothèque légale afin de garantir la récupération de toutes sommes déjà versées ou encore à verser en raison de la situation financière d'une étude notariale dont l'aptitude à rembourser les sommes d'argent, titres et valeurs revenant à des clients est gravement compromise.
+
+Cette hypothèque est inscrite, au nom et pour le compte de la compagnie des notaires ou pour le compte de tiers, sur tous les biens et les droits, visés à l'article 1560 du Code judiciaire, appartenant au notaire et aux sociétés visées à l'article 50.
+
+§ 2. Le montant pour lequel l'inscription hypothécaire est prise est préalablement déterminé par la chambre des notaires dont dépend le notaire concerné sur la base d'un rapport circonstancié de la commission de contrôle de la comptabilité visée à l'article 9 de l'arrêté royal du 10 janvier 2002 relatif à la gestion des sommes, titres et valeurs au porteur reçus par un notaire et au contrôle de la comptabilité des notaires. Ce rapport établit le montant vraisemblable des sommes qui pourraient justifier une éventuelle intervention financière en faveur des clients de l'étude.
+
+§ 3. L'hypothèque légale est prise et radiée par décision de la chambre des notaires dont dépend le notaire concerné; elle prend rang depuis la date de son inscription et ne préjudicie pas aux privilèges et hypothèques antérieurs.
+
+§ 4. Sur requête de la chambre des notaires précitée, l'hypothèque légale est fixée dans un acte authentique en vue de l'inscription conformément aux articles 82 à 84 de la Loi hypothécaire. La chambre des notaires est représentée dans cet acte conformément à l'article 85.
+
+§ 5. L'inscription de l'hypothèque légale est rayée ou réduite en vertu d'un acte authentique dans lequel le notaire instrumentant confirme unilatéralement que la chambre des notaires qui a pris l'hypothèque a donné son accord à cette radiation ou réduction; toutes les inscriptions qui figurent dans l'acte soumis sont rayées ou diminuées d'office.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 187, 018; En vigueur : 03-08-2017&gt;
+
+##### Art. 77
+
+&lt;Inséré par L 1999-05-04/03, art. 40, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; La chambre des notaires tient à jour un tableau pour chacune des catégories de membres de la compagnie visés à l'article 68.
+
+Chaque modification du tableau est communiquée dans les quinze jours à la Chambre nationale des notaires. Celle-ci en avise le ministre de la Justice [<sup>1</sup> immédiatement]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 188, 018; En vigueur : 03-08-2017&gt;
+
+#### Sous-section 2. - (Organisation - Représentation). &lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt;
+
+##### Art. 78
+
+&lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; Les membres de la compagnie élisent, au scrutin secret, parmi les membres qui exercent depuis au moins dix ans la fonction de notaire, le président de la chambre des notaires, et parmi l'ensemble des membres de la compagnie, les autres membres de la chambre des notaires.
+
+Le nombre des membres d'une chambre [<sup>1</sup> ...]<sup>1</sup>, est fixé à [<sup>1</sup> six]<sup>1</sup> lorsque le nombre des notaires titulaires du ressort ne dépasse pas cinquante, à neuf lorsque ce nombre dépasse cinquante mais non cent cinquante, à douze au-delà de cent cinquante.
+
+[<sup>1</sup> Les membres de la chambre des notaires sont renouvelés chaque année pour un tiers.
+
+Le président est membre de la chambre des notaires mais n'est pas comptabilisé dans le nombre de membres pour l'application du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 44, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 79
+
+&lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; § 1er. Le président est élu à la majorité absolue des suffrages émis par tous les membres présents de la compagnie [<sup>1</sup> ...]<sup>1</sup>. Si après trois tours de scrutin, aucun candidat n'a obtenu la majorité requise, un quatrième tour de scrutin décisif est organisé entre les deux candidats ayant obtenu le plus grand nombre de voix au troisième tour. Le candidat qui obtient le plus grand nombre de voix lors de ce quatrième tour de scrutin est élu. En cas de partage des voix, le candidat le plus jeune est élu.
+
+[<sup>1</sup> Les autres membres de la chambre des notaires sont élus après que le président ait été élu.]<sup>1</sup>
+
+§ 2. La chambre des notaires doit compter au moins un membre issu de chaque arrondissement judiciaire de la compagnie.
+
+Pour chaque tour de scrutin, [<sup>1</sup> le bulletin de vote comporte]<sup>1</sup> les noms des membres éligibles de la compagnie. [<sup>1</sup> Ceux-ci]<sup>1</sup> sont présentés par ordre alphabétique. Pour voter valablement, [<sup>1</sup> l'électeur]<sup>1</sup> doit émettre, à chaque tour de scrutin, autant de suffrages qu'il y a de mandats à conférer.
+
+Sont élus, sans préjudice du premier alinéa, les candidats qui lors d'un premier scrutin ont obtenu la majorité absolue des suffrages émis. [<sup>1</sup> Si un nombre supérieur de candidats au nombre de mandats à pourvoir obtient cette majorité, les candidats ayant obtenu le plus de voix sont élus.]<sup>1</sup>
+
+Si, lors d'un premier tour de scrutin, la majorité absolue n'a pas été obtenue pour tous les mandats à conférer, [<sup>1</sup> ou en cas de parité des suffrages,]<sup>1</sup> il est procédé a un deuxième tour de scrutin suivant les mêmes règles, pour les mandats restant à conférer.
+
+Si, après le deuxième tour de scrutin, tous les mandats n'ont pas encore été conférés, il est procédé a un troisième tour de scrutin. Pour ce scrutin de ballotage ne sont retenus, en tenant compte du premier alinéa, que les candidats non élus, qui ont obtenu le plus de voix lors du deuxième scrutin. Le nombre de ces candidats est limité au double du nombre de mandats restant à conférer. [<sup>1</sup> Lors de ce troisième tour de scrutin, les candidats qui ont obtenu le plus de voix sont élus et en cas de parité de suffrages, le plus jeune est élu.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 45, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 80
+
+[<sup>1</sup> Tous les mandats au sein de la chambre des notaires prennent cours le 1er juillet qui suit l'élection.
+
+Le mandat de président est de un an et est renouvelable deux fois.
+
+Le mandat de membre de la chambre est de trois ans, mais peut être précédé ou suivi par un ou plusieurs mandats de président.
+
+Un membre de la chambre des notaires qui n'est plus en mesure d'exercer sa fonction ou n'est plus autorisé à l'exercer, que ce soit de manière temporaire ou non, ou qui devient président de la chambre des notaires ou qui n'est plus inscrit au tableau visé à l'article 77, est remplacé lors de la même assemblée générale, lors de l'assemblée générale suivante ou lors d'une assemblée générale spéciale si la chambre des notaires en décide ainsi.
+
+Un membre de la chambre des notaires qui a été élu pour remplacer un autre membre durant son mandat achève le mandat de son prédécesseur.
+
+En ce qui concerne les mandats visés à l'alinéa 5, il est tenu une élection séparée par mandat.
+
+Tout membre sortant est rééligible à partir du début du onzième mois qui suit la fin de son mandat précédent.
+
+Cette disposition ne vaut pas en cas d'application de l'alinéa 4 si la durée restante du mandat du prédécesseur est de moins de six mois. Dans ce cas, le membre de la chambre des notaires qui a été élu comme remplaçant est immédiatement rééligible.
+
+Aucun membre de la chambre des notaires ne peut y siéger plus de six années sans interruption. Dans le cas visé à l'alinéa 8, ce délai est de six ans et demi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 46, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 81
+
+&lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; Dans les quinze jours de l'assemblée générale de la compagnie tenue au mois de mai, les membres de la chambre des notaires élisent en leur sein, [<sup>1</sup> deux syndics, un rapporteur, un secrétaire et un trésorier. Ils peuvent élire un vice-président parmi eux.]<sup>1</sup>
+
+Lorsque le nombre des membres de la chambre des notaires est de neuf ou de douze, elle peut élire en son sein [<sup>1</sup> un troisième syndic et un second rapporteur. Ces fonctions]<sup>1</sup> particulières sont renouvelées chaque année. La réélection est autorisée.
+
+[<sup>1</sup> La Chambre nationale des notaires fait publier chaque année, et dans l'intervalle si nécessaire, la composition de la chambre des notaires au Moniteur belge.
+
+A cette fin, la chambre des notaires adresse cette composition à la Chambre nationale des notaires dans les quinze jours suivant l'élection visée aux alinéas précédents.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 47, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 82
+
+&lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; Les fonctions au sein de la chambre des notaires sont exercées comme suit :
+
+1° Le président convoque la chambre des notaires. Il dirige les débats et a voix prépondérante en cas de parité de suffrages. Il maintient l'ordre dans la chambre des notaires.
+
+[<sup>1</sup> 1° /1 Le vice-président remplace le président lorsque celui-ci est temporairement empêché ou absent.]<sup>1</sup>
+
+2° Le syndic est partie poursuivante contre les membres de la compagnie mis en cause. Il est entendu préalablement à toute délibération de la chambre des notaires qui est tenue de délibérer et décider sur tous ses réquisitoires. Il a, comme le président, le droit de la convoquer. Il poursuit l'exécution de ses décisions et agit, pour la chambre des notaires, dans tous les cas et conformément à ce qu'elle a décidé.
+
+3° Le rapporteur recueille les renseignements sur les faits mis à charge des membres de la compagnie et en fait rapport à la chambre des notaires. [<sup>1</sup> ...]<sup>1</sup>
+
+4° Le secrétaire rédige les décisions, garde les archives et délivre les expéditions.
+
+5° Le trésorier veille aux recettes et aux dépenses autorisées par la chambre des notaires. Il en rend compte à la chambre des notaires à la fin de chaque trimestre.
+
+En cas d'absence ou d'empêchement d'un [<sup>1</sup> syndic, d'un rapporteur, du secrétaire ou du trésorier]<sup>1</sup>, un suppléant lui est désigné parmi les autres membres de la chambre des notaires, par le président ou, [<sup>1</sup> le cas échéant le vice-président, ou lorsque tous deux sont absents ou empêchés]<sup>1</sup>, par la majorité des membres présents. [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Néanmoins, les fonctions de président, de syndic et de rapporteur sont toujours exercées par trois personnes différentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 48,1°, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 82 DROIT FUTUR
+
+&lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; Les fonctions au sein de la chambre des notaires sont exercées comme suit :
+
+1° Le président convoque la chambre des notaires. Il dirige les débats et a voix prépondérante en cas de parité de suffrages. Il maintient l'ordre dans la chambre des notaires.
+
+[<sup>1</sup> 1° /1 Le vice-président remplace le président lorsque celui-ci est temporairement empêché ou absent.]<sup>1</sup>
+
+2° Le syndic est partie poursuivante contre les membres de la compagnie mis en cause. [<sup>2</sup> Il mène une enquête sur les faits et fait rapport à ce sujet à la chambre des notaires.]<sup>2</sup> Il est entendu préalablement à toute délibération de la chambre des notaires qui est tenue de délibérer et décider sur tous ses réquisitoires. Il a, comme le président, le droit de la convoquer. Il poursuit l'exécution de ses décisions et agit, pour la chambre des notaires, dans tous les cas et conformément à ce qu'elle a décidé.
+
+3° Le rapporteur recueille les renseignements sur les [<sup>2</sup> affaires sur lesquelles la chambre doit rendre un avis]<sup>2</sup> et en fait rapport à la chambre des notaires. [<sup>1</sup> ...]<sup>1</sup>
+
+4° Le secrétaire rédige les décisions, garde les archives et délivre les expéditions.
+
+5° Le trésorier veille aux recettes et aux dépenses autorisées par la chambre des notaires. Il en rend compte à la chambre des notaires à la fin de chaque trimestre.
+
+En cas d'absence ou d'empêchement d'un [<sup>1</sup> syndic, d'un rapporteur, du secrétaire ou du trésorier]<sup>1</sup>, un suppléant lui est désigné parmi les autres membres de la chambre des notaires, par le président ou, [<sup>1</sup> le cas échéant le vice-président, ou lorsque tous deux sont absents ou empêchés]<sup>1</sup>, par la majorité des membres présents. [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Néanmoins, les fonctions de président, de syndic et de rapporteur sont toujours exercées par trois personnes différentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 48,1°, 034; En vigueur : 01-01-2023&gt;
+
+(2)&lt;L 2022-11-22/06, art. 48,2°, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 83
+
+&lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; La chambre des notaires se réunit au moins une fois par mois de l'année judiciaire, après convocation par lettre missive contenant l'ordre du jour, signée du président ou du secrétaire, et expédiée huit jours au moins avant la réunion.
+
+Une réunion extraordinaire est convoquée selon les mêmes modalités lorsque le président ou le syndic le jugent utile ou à la requête motivée de deux autres membres ou à la requête du président du tribunal de première instance ou du procureur du Roi.
+
+##### Art. 84
+
+&lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; La chambre des notaires ne peut valablement délibérer et décider que lorsque deux tiers au moins de ses membres sont présents.
+
+Tout membre de la chambre des notaires a voix délibérative. Néanmoins, lorsqu'il s'agit d'affaires où un membre de la chambre est [<sup>1</sup> concerné]<sup>1</sup>, il doit se retirer pour la durée de la délibération et lors [<sup>1</sup> de la décision]<sup>1</sup>.
+
+Les délibérations sont prises à la majorité simple des voix.
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 49, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 85
+
+&lt;Inséré par L 1999-05-04/04, art. 4, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; La chambre des notaires est représentée vis-à-vis des tiers, en justice et dans les actes publics ou privés, par son président et son secrétaire agissant conjointement, sans avoir à justifier d'une décision préalable, ou par un seul d'entre eux sur délégation spéciale.
+
+#### Sous-section 3. - (Procédure en matière d'avis). &lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt;
+
+##### Art. 86
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; En cas de différends entre membres de la compagnie qui sont portés devant la chambre des notaires, les membres concernés sont soit invités par le secrétaire au moyen d'une lettre missive, en vue d'un règlement amiable, soit convoqués directement par le syndic par lettre recommandée à la poste.
+
+Un membre convoqué a le droit de récuser un membre de la chambre des notaires, conformément aux règles établies à l'article 101.
+
+##### Art. 87
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Le rapporteur recueille tous les renseignements utiles et la chambre des notaires prend sa décision à la majorité simple, après l'avoir entendu. Le rapporteur et le syndic ne participent ni à la délibération, ni au vote.
+
+##### Art. 88
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; La décision est motivée, consignée au registre et signée par le président et le secrétaire. Elle mentionne le nom des membres présents.
+
+La décision n'est pas opposable aux personnes qui n'ont pas été parties à la procédure d'avis.
+
+Dans les huit jours, l'avis est communiqué aux intéressés, au moyen d'une lettre missive, signée par le secrétaire.
+
+##### Art. 89
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Lorsqu'un avis est demandé à la chambre des notaires autrement que dans les circonstances prévues à l'article 86, il est procédé comme prévu aux articles 87 et 88.
+
+### Section III. - (De la Chambre nationale des notaires). &lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt;
+
+##### Art. 90
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; La Chambre nationale des notaires est une institution publique ayant son siège à Bruxelles.
+
+[<sup>1</sup> La Chambre nationale des notaires exerce, dans les limites de ses compétences telles que définies à l'article 91, une autorité sur les chambres des notaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 50, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 91
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Outre celles qui lui sont confiées par les autres dispositions de la présente loi, la Chambre nationale des notaires a pour attributions :
+
+1° d'établir les règles générales de la déontologie et de définir un cadre réglementaire général pour l'exercice des compétences des compagnies des notaires, visées à l'article 69, 2° et 5°, et des compétences des chambres des notaires, visées à l'article 76, 3° et 5°;
+
+2° de prendre toutes mesures propres à faire face, dans les limites et conditions qu'elle détermine, aux obligations résultant de la responsabilité professionnelle des notaires;
+
+3° d'adresser aux chambres des notaires les recommandations nécessaires ou utiles au respect de la discipline;
+
+4° de concilier tous différends prévus à l'article 76, 3°, entre membres de compagnies différentes; en cas de non conciliation et sur requête de l'un des membres en cause, d'entendre les intéressés et de rendre un avis, sauf en ce qui concerne les droits civils;
+
+5° d'établir les règles générales relatives :
+
+\- à la prestation du stage;
+
+\- au mode [<sup>1</sup> , à la tenue et au contrôle]<sup>1</sup> de la comptabilité;
+
+[<sup>1</sup> - à l'estimation d'une étude notariale;]<sup>1</sup>
+
+[<sup>2</sup> - en matière de formation permanente des notaires, candidats-notaires et stagiaires;]<sup>2</sup>
+
+[<sup>4</sup> - aux contrats conclus entre un notaire-titulaire ou une société professionnelle notariale d'une part, et un notaire adjoint d'autre part, relatifs à l'exercice de la fonction, en ce compris les règles applicables pour le règlement des litiges qui en découlent et des règles applicables en cas de démission d'un notaire adjoint;]<sup>4</sup>
+
+6° d'approuver chaque année ses comptes et budget et de fixer chaque année la participation de chaque compagnie des notaires à ses frais de fonctionnement [<sup>4</sup> et les rétributions]<sup>4</sup>;
+
+7° de déterminer, en appel, les modalités de la remise aux notaires intéressés de tous les éléments meubles corporels et incorporels dépendant d'une place supprimée;
+
+8° d'émettre, d'initiative ou sur demande, à destination de toutes autorités publiques ou personnes privées, tous avis sur toutes questions d'ordre général relatives à l'exercice de la profession notariale;
+
+9° de représenter, dans les limites de ses attributions, tous les membres des compagnies des notaires du Royaume à l'égard de tout pouvoir et institution;
+
+10° d'agir en justice, en tant que demanderesse ou défenderesse, en toute matière intéressant la profession notariale dans son ensemble;
+
+11° d'établir son règlement d'ordre intérieur [<sup>1</sup> ainsi que celui du Fonds notarial visé à l'article 117]<sup>1</sup>.
+
+[<sup>3</sup> 12° d'établir une liste électronique des candidats-notaires, notaires titulaires, associés [<sup>4</sup> , adjoints]<sup>4</sup> et suppléants et de veiller à sa mise à jour permanente. Sauf preuve contraire, en cas de discordance, les mentions de cette liste l'emportent sur toute autre mention. Cette liste est publique, sauf en ce qui concerne les candidats-notaires. Les données de cette liste sont conservées conformément à la durée de conservation des actes authentiques prévue par l'article 62 et conformément à la limite d'âge pour devenir notaire visée à l'article 2. Les données qui figurent dans cette liste sont déterminées par arrêté royal soumis à l'avis de [<sup>4</sup> l'Autorité de protection des données]<sup>4</sup>;]<sup>3</sup>
+
+[<sup>3</sup> Afin d'identifier les candidats-notaires, les notaires titulaires, associés [<sup>4</sup> , adjoints]<sup>4</sup> et suppléants pour l'application de l'alinéa 1er, 12°, la Chambre nationale des notaires est autorisée :
+
+a) à utiliser [<sup>4</sup> leur numéro]<sup>4</sup> du Registre national [<sup>4</sup> ...]<sup>4</sup> et à accéder aux informations visées à l'article 3, alinéa 1er, 1°, 2°, 6°, et alinéa 2, de la loi du 8 août 1983 organisant un registre national des personnes physiques;
+
+b) à accéder aux informations nom et prénoms, lieu et date de naissance et date de décès de la Banque-carrefour de la sécurité sociale.
+
+Le numéro du Registre national, le lieu et la date de naissance, le lieu et la date de décès des personnes physiques visées à l'alinéa précédent ne peuvent être communiqués au public;]<sup>3</sup>
+
+[<sup>4</sup> 13° de désigner ou le cas échéant établir le canal numérique pour les notifications en matière disciplinaire.
+
+Ce canal numérique est accessible aux personnes définies à l'article 555/3, alinéa 1 et 2 du Code judiciaire, à la chambre des notaires, à l'auditorat de la Chambre nationale des notaires, au ministère public, au Conseil de discipline tel que défini à l'article 456 du Code judiciaire, à la Cour d'appel et à la Cour de cassation. La durée de conservation des données enregistrées est de dix ans dans le chef du gestionnaire du canal numérique. La durée de conservation est prolongée, si nécessaire, jusqu'à ce que tous les recours de toute procédure disciplinaire en cours à laquelle les données se rapportent aient été épuisés.
+
+Le canal numérique doit au moins remplir les conditions de l'arrêté royal du 16 juin 2016 portant création de la communication électronique conformément à l'article 32ter du Code judiciaire, en ce qui concerne les modalités, le mode et les conditions de création, la gestion, l'organisation et la consultation.]<sup>4</sup>
+
+Pour être obligatoires, les règles visées au premier alinéa, 1° [<sup>4</sup> , 5° et 13°]<sup>4</sup> et les mesures visées au premier alinéa, 2°, doivent être approuvées par le Roi. Il peut, le cas échéant, y apporter des modifications.
+
+[<sup>4</sup> Les règles et mesures établies par la Chambre nationale des notaires ne comportent pas d'obligations ou règles qui ne sont pas strictement nécessaires pour réaliser l'objectif d'intérêt général qui est poursuivi, à savoir la promotion du bon exercice de la fonction notariale et de la pratique notariale, dans l'intérêt de la légalité, de la sécurité juridique et d'une bonne administration de la justice.]<sup>4</sup>
+
+Si la Chambre nationale des notaires reste en défaut d'établir les règles ou mesures visées au [<sup>3</sup> quatrième]<sup>3</sup> alinéa, le Roi est habilité à en prendre lui-même l'initiative.
+
+[<sup>2</sup> Sans préjudice de l'alinéa 1er, 5°, quatrième tiret, le Roi fixe les règles en matière de formation permanente des notaires, candidats-notaires et stagiaires en ce qu'elles s'appliquent aux tiers.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 189,i-189,iv, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2018-12-21/09, art. 203, 024; En vigueur : 10-01-2019&gt;
+
+(3)&lt;L 2017-07-06/24, art. 189,v-189,vii, 018; En vigueur : 18-01-2019&gt;
+
+(4)&lt;L 2022-11-22/06, art. 51, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 92
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; § 1er. Les organes de la Chambre nationale des notaires sont :
+
+1° l'assemblée générale;
+
+2° le comité de direction.
+
+§ 2. L'assemblée générale de la Chambre nationale des notaires est composée des représentants des compagnies ou, en leur absence, de leurs suppléants. Ils sont élus par l'assemblée générale de la compagnie, parmi ses membres exerçant la fonction notariale depuis [<sup>1</sup> cinq]<sup>1</sup> ans au moins.
+
+Par tranche entamée de trente notaires, chaque compagnie a droit à un représentant.
+
+La durée du mandat de représentant et de suppléant, est de cinq ans, (non prorogeable). Les représentants et suppléants sont renouvelés chaque année, par cinquième, toute fraction étant négligée. &lt;L 2003-12-22/42, art. 398, 1°, En vigueur : 10-01-2004&gt;
+
+Un représentant ou suppléant élu en remplacement d'un représentant ou d'un suppléant en cours de mandat, achève le mandat de son prédécesseur mais n'est pas immédiatement rééligible.
+
+[<sup>1</sup> Le président de la chambre des notaires est de plein droit membre effectif de l'assemblée générale. Le secrétaire de la chambre des notaires est de plein droit membre suppléant de l'assemblée générale.]<sup>1</sup>
+
+L'assemblée générale de la Chambre nationale des notaires prend ses décisions à la majorité des deux tiers des suffrages émis.
+
+§ 3. (Le comité de direction de la Chambre nationale est composé de huit membres, élus au sein de l'assemblée générale parmi ses membres effectifs, pour un terme de trois ans sans que ce terme puisse dépasser la durée du mandat visé au § 2, alinéa 3. Le comité de direction est renouvelé partiellement chaque année. Tous les trois ans, un président et un vice-président sont élus au scrutin secret [<sup>1</sup> , parmi les membres exerçant la fonction notariale depuis dix ans au moins]<sup>1</sup>. Chaque année les autres membres sont renouvelés, par deux. Dans les quinze jours de l'assemblée générale qui a procédé a l'élection, les membres du comité de direction élisent en leur sein un secrétaire, un trésorier, deux rapporteurs et deux conseillers.
+
+Le président et le vice-président, le secrétaire et le trésorier et chacun des deux rapporteurs et des deux conseillers, doivent appartenir à des groupes linguistiques différents. Le comité de direction ne peut valablement délibérer et décider que lorsque la majorité au moins de ses membres est présente.) &lt;L 2003-12-22/42, art. 398, 2°, En vigueur : 10-01-2004&gt;
+
+Les membres du comité de direction sont issus des cinq ressorts des cours d'appel; au moins trois membres du comité de direction ont leur résidence dans un arrondissement judiciaire n'abritant pas le siège d'une cour d'appel.
+
+§ 4. Le comité de direction est compétent pour la préparation des tâches de la Chambre nationale des notaires et pour l'exécution des tâches qui lui ont été confiées par la Chambre nationale des notaires.
+
+[<sup>1</sup> La Chambre nationale]<sup>1</sup> des notaires est représentée par le président ou par le membre du comité de direction qu'il délègue à cette fin.
+
+Le comité de direction exécute les décisions de l'assemblée générale et l'informe de l'exercice de ses tâches.
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 52, 034; En vigueur : 01-01-2023&gt;
+
+### Section IV. - (Des annulations et des recours). &lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt;
+
+##### Art. 93
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Les décisions prises par une compagnie conformément à l'article 69, 2°, sont communiquées, dans le mois de leur date, à la Chambre nationale des notaires.
+
+La Chambre nationale des notaires peut annuler ces décisions dans les trois mois de leur communication; le délai d'annulation est suspensif. Elles ne sont soumises au Roi qu'après expiration de ce délai.
+
+Les décisions postérieures prises par la Chambre nationale des notaires et qui ne révoquent pas d'une manière expresse des règlements antérieurs pris par les compagnies, n'annulent dans ceux-ci que les décisions qui sont incompatibles avec les décisions nouvelles ou qui y sont contraires.
+
+##### Art. 94
+
+&lt;Inséré par L 1999-05-04/03, art. 41, En vigueur : 01-11-1999 (AR 26-10-1999, art. 1er, MB 30-10-1999)&gt; Les décisions des compagnies, qui établissent toute cotisation, répartition ou participation aux frais sont adressées dans le mois à la Chambre nationale des notaires.
+
+##### Art. 94bis
+
+[<sup>1</sup> L'appel d'une décision négative de la chambre des notaires, prévu à l'article 49ter, § 2, alinéa 2 et 50, § 5, alinéa 2 est interjeté par envoi recommandé adressé au président de la Chambre nationale dans un délai d'un mois à compter de la notification par la chambre des notaires.
+
+Le comité de direction visé à l'article 92, § 1er, entend les notaires et candidat-notaires concernés, ainsi que la chambre concernée, et rend sa décision dans les trois mois à dater de l'introduction de l'appel. La décision motivée est notifiée dans les plus brefs délais aux notaires, aux candidat-notaires et à la chambre concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-22/06, art. 53, 034; En vigueur : 01-01-2024&gt;
+
+## TITRE IV. [<sup>1</sup> - De la discipline, des mesures conservatoires et d'appui]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 190, 018; En vigueur : 03-08-2017&gt;
+
+### Section Ire. [<sup>1</sup> - Des mesures conservatoires et d'appui imposées par la chambre des notaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 54, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 95
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> Tout membre d'une compagnie des notaires qui manque à ses obligations comptables peut faire l'objet de mesures conservatoires et d'appui.]<sup>1</sup>
+
+[<sup>2</sup> Les mesures conservatoires sont des mesures, imposées par la chambre des notaires, qui ont pour but, dans le cadre des obligations comptables du notaire, de préserver les intérêts financiers de ses clients.
+
+Les mesures d'appui sont des mesures, imposées par la chambre des notaires, qui ont pour but d'apporter un appui au notaire dans le cadre de ses obligations comptables.
+
+Des mesures conservatoires et d'appui peuvent également être imposées chaque fois que le fonctionnement d'une étude est perturbé au point que les intérêts des clients sont compromis.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 192, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2022-11-22/06, art. 55, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 96
+
+&lt;Abrogé par L 2022-11-22/06, art. 56, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 97
+
+&lt;Abrogé par L 2022-11-22/06, art. 57, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 97bis
+
+&lt;Abrogé par L 2022-11-22/06, art. 58, 034; En vigueur : 01-01-2024&gt;
+
+### Section II. [<sup>1</sup> - Organes compétents pour les poursuites dans des affaires disciplinaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 59, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 97ter
+
+[<sup>1</sup> Il existe deux organes compétents pour la poursuite en matière disciplinaire, l'auditorat établi auprès de la Chambre nationale des notaires et la chambre des notaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-22/06, art. 60, 034; En vigueur : 18-10-2023&gt;
+
+##### Art. 97quater
+
+[<sup>1</sup> § 1. Un auditorat est créé au sein de la Chambre nationale des notaires, composé d'une section néerlandophone et une section francophone, de trois membres chacune. Ils portent le titre d'auditeur.
+
+L'assemblée générale de la Chambre élit les auditeurs, sur proposition du comité de direction, pour un terme de trois ans. Le mandat est immédiatement renouvelable une fois.
+
+Les notaires qui exercent leur fonction depuis au moins cinq ans et les notaires honoraires peuvent être désignés comme auditeurs.
+
+Un mandat dans l'auditorat est incompatible avec:
+
+\- un mandat au comité de direction de la Chambre nationale des notaires ou à une chambre des notaires;
+
+\- la qualité d'assesseur visée à l'article 555/5bis, § 2, du Code judiciaire.
+
+Le mandat prend fin à l'expiration du terme ou en cas d'incompatibilité visée à l'alinéa 8.
+
+§ 2. La section néerlandophone est compétente pour l'enquête disciplinaire et pour les procédures à l'encontre des notaires ayant leur résidence dans la région de langue néerlandaise et des notaires ayant leur résidence dans la Région de Bruxelles-Capitale qui sont inscrits au rôle linguistique néerlandais.
+
+[<sup>2</sup> Elle est également compétente pour l'enquête disciplinaire et pour les procédures contre les candidats-notaires inscrits dans la région de langue néerlandaise au tableau visé à l'article 77 ou inscrit dans la Région de Bruxelles-Capitale au rôle linguistique néerlandais et les notaires honoraires ayant leur dernière résidence dans la région de langue néerlandaise ou qui sont inscrits au rôle linguistique néerlandais dans la Région de Bruxelles-Capitale.]<sup>2</sup>
+
+La section francophone est compétente pour l'enquête disciplinaire et pour les procédures à l'encontre des notaires ayant leur résidence dans la région de langue française et dans la région de langue allemande et des notaires ayant leur résidence dans la Région de Bruxelles-Capitale qui sont inscrits au rôle linguistique français.
+
+[<sup>2</sup> Elle est également compétente pour l'enquête disciplinaire et pour les procédures contre les candidats-notaires inscrits dans la région de langue française au tableau comme prévu à l'article 77 ou inscrit dans la Région de Bruxelles-Capitale au rôle linguistique français et les notaires honoraires ayant leur dernière résidence dans la région de langue française ou qui sont inscrits au rôle linguistique français dans la Région de Bruxelles-Capitale.]<sup>2</sup>
+
+§ 3. La Chambre nationale des notaires assure le secrétariat qui assiste l'auditorat établi auprès de la Chambre nationale des notaires. Ce secrétariat conserve les archives de l'auditorat.
+
+Les frais de fonctionnement de l'auditorat et du secrétariat sont pris en charge par la Chambre nationale des notaires.
+
+§ 4. L'assemblée générale de la Chambre nationale des notaires fixe le règlement d'ordre intérieur de l'auditorat établi auprès de la Chambre nationale des notaires, qui régit la présentation des candidats appelés à être nommés comme auditeurs et le fonctionnement et l'organisation de l'auditorat, ainsi que les modalités de désignation de l'auditeur pour chaque dossier. Pour être obligatoire, ce règlement d'ordre intérieur doit être approuvé par le Roi. Il peut, le cas échéant, y apporter des modifications.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-22/06, art. 61, 034; En vigueur : 18-10-2023&gt;
+
+(2)&lt;L 2024-03-28/60, art. 47, 036; En vigueur : 08-04-2024&gt;
+
+##### Art. 98
+
+[<sup>1</sup> § 1er. L'auditorat prend connaissance des affaires disciplinaires par l'intermédiaire de la chambre des notaires.
+
+L'auditorat est compétent pour l'enquête disciplinaire, pour constituer le dossier de poursuite et l'introduire auprès du conseil de discipline visé à l'article 555/5bis du Code judiciaire en vue de la condamnation à une peine disciplinaire.
+
+L'auditorat est également compétent pour classer un dossier disciplinaire sans suite ou proposer une transaction de 125 euros à 5000 euros mettant un terme aux poursuites.
+
+§ 2. La chambre des notaires connaît des affaires disciplinaires à l'intervention du syndic, soit d'office, soit sur plainte d'un tiers ou d'un membre d'une compagnie des notaires, soit sur les dénonciations écrites du procureur du Roi qui peut faire ces dénonciations également par voie numérique.
+
+La chambre des notaires est compétente pour décider d'engager des poursuites disciplinaires.
+
+La chambre des notaires est également compétente pour classer un dossier disciplinaire sans suite ou proposer une transaction amiable de 125 euros à 5000 euros mettant un terme aux poursuites, sous réserve de la décision de l'auditorat, comme prévue à l'article 100, § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 62, 034; En vigueur : 01-01-2024&gt;
+
+### Section IIbis. [<sup>1</sup> - Procédure liée aux poursuites dans des affaires disciplinaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-22/06, art. 63, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 98bis
+
+[<sup>1</sup> Pour ce qui concerne la procédure liée aux poursuites dans des affaires disciplinaires, la notion de jour ouvrable désigne tous les jours autres que le samedi, le dimanche et les jours fériés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-22/06, art. 64, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 99
+
+&lt;Inséré par L 1999-05-04/04, art. 5, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; Le membre de la compagnie mis en cause en est informé par le syndic [<sup>1</sup> dans un délai d'un mois après avoir pris connaissance des faits, de la plainte ou de la dénonciation. Cette notification indicative de l'objet, est signée par le syndic et]<sup>1</sup> indique le lieu et les heures où le membre peut prendre connaissance du dossier concernant le fait pour lequel il est mis en cause.
+
+Le membre concerné peut communiquer sa réaction par écrit ou oralement [<sup>1</sup> dans un délai d'un mois]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 65, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 100
+
+[<sup>1</sup> § 1er. Le syndic examine les faits et établit un rapport dans un délai de trois mois après avoir pris connaissance des faits, de la plainte ou de la dénonciation. Il peut proposer de poursuivre le membre concerné ou de ne réserver aucune suite à la plainte. Le syndic communique son rapport au secrétaire de la chambre des notaires.
+
+La chambre des notaires décide de poursuivre, de classer le dossier sans suite ou de proposer une transaction. La chambre des notaire motive sa décision.
+
+La transaction ne peut être perçue tant que l'auditorat établi auprès de la Chambre nationale des notaires n'a pas pris de décision dans le dossier.
+
+Le syndic communique à l'auditorat une copie de la décision motivée et du dossier dans un délai de quinze jours ouvrables suivant la décision de la chambre des notaires et informe le membre concerné en même temps de la décision.
+
+§ 2. L'auditorat prend connaissance de la décision de la chambre des notaires et du dossier disciplinaire.
+
+Lorsque la chambre des notaires a décidé de poursuivre, elle procède comformément à l'article 102, alinéa 1. L'auditorat ne peut pas modifier la décision de la chambre des notaires de poursuivre.
+
+Lorsque la chambre des notaires a décidé de classer sans suite, l'auditorat peut confirmer la décision de la chambre des notaires ou décider de poursuivre ou de proposer une transaction.
+
+Lorsque la chambre des notaires a décidé de proposer une transaction, l'auditorat peut confirmer la décision de la chambre des notaires ou décider de poursuivre.
+
+En cas de décision de classer sans suite, l'auditorat informe le tiers ou le membre qui a introduit la plainte et le membre concerné dans un délai de quinze jours ouvrables.
+
+En cas de décision de poursuivre, l'auditorat informe le membre concerné dans un délai de quinze jours ouvrables.
+
+En cas de décision de transaction, l'auditorat la propose au membre concerné dans un délai de quinze jours ouvrables. Après acceptation dans le mois par le membre concerné de la transaction et après paiement, [<sup>2</sup> les poursuites se terminent]<sup>2</sup>.
+
+L'auditorat informe le syndic de chaque décision dans un délai de quinze jours ouvrables.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 66, 034; En vigueur : 01-01-2024&gt;
+
+(2)&lt;L 2026-02-08/04, art. 3, 038; En vigueur : 26-02-2026&gt;
+
+##### Art. 101
+
+[<sup>1</sup> § 1er. Un dossier qui a été introduit sur dénonciation du procureur du Roi ne peut être classé sans suite.
+
+§ 2. Une transaction n'est pas possible si la procédure a été initiée suite à une plainte d'un tiers ou une dénonciation du procureur du Roi. Une transaction ne peut être accordée que deux fois dans une période de cinq ans.
+
+§ 3. La transaction est perçue au profit du Trésor.
+
+§ 4. En vue du recouvrement du montant de la transaction par l'administration générale de la perception et du recouvrement du Service public fédéral Finances, la Chambre nationale des notaires fournit à la chambre des notaires et à l'auditorat établi auprès de la Chambre nationale des notaires le numéro d'identification du registre national des candidats-notaires, notaires titulaires, notaires associés et adjoints, notaires suppléants et notaires honoraires et les données visées à l'article 3, alinéa 1er, 1° et alinéa 2 de la loi du 8 août 1983 organisant un registre national des personnes physiques.
+
+§ 5. L'auditorat établi auprès de la Chambre nationale des notaires et la chambre des notaires utilisent le numéro d'identification du registre national exclusivement pour identifier avec précision la personne concernée au sein de son dossier disciplinaire pendant la durée strictement nécessaire à cet effet et pour être communiqué à l'administration concernée.
+
+§ 6. L'auditorat établi auprès de la Chambre nationale des notaires tient un registre des transactions qui doit obligatoirement être consulté par la chambre des notaires et par l'auditorat chaque fois qu'un dossier lui est soumis.
+
+La tenue du registre des transactions est nécessaire afin de vérifier si une transaction peut être proposée sans contrevenir à la limitation légale du nombre maximal de transactions précisée au paragraphe 2.
+
+Outre l'auditorat, les membres et les membres du personnel de la chambre des notaires ont accès au registre des transactions pour autant que cet accès soit nécessaire à l'accomplissement de leur mission.
+
+§ 7. La Chambre nationale des notaires, au sein de laquelle l'auditorat est constitué, est gestionnaire du registre des transactions.
+
+§ 8. Le registre des transactions contient les données suivantes:
+
+\- nom, prénom et numéro d'identification professionel unique du membre concerné;
+
+\- la date de la proposition de transaction;
+
+\- l'organe qui a proposé la transaction;
+
+\- la date de l'acceptation de la transaction;
+
+\- la date de paiement de la transaction.
+
+§ 9. Les données sont conservées pendant une période de cinq ans à compter de la date de paiement de la transaction en vue de la vérification des dispositions au paragraphe 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 67, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 102
+
+[<sup>1</sup> Lorsque la chambre des notaires décide de poursuivre, elle détermine l'action et désigne le syndic qui introduira la procédure disciplinaire devant le conseil de discipline visé à l'article 427 du Code judiciaire. Il peut se faire assister par l'auditorat établi auprès de la Chambre nationale des notaires.
+
+Lorsque l'auditorat décide de poursuivre, il détermine l'action et désigne l'auditeur qui introduira la procédure disciplinaire devant le conseil de discipline. Il peut se faire assister par le syndic.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 68, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 103
+
+[<sup>1</sup> Lorsque le syndic a engagé la poursuite, il informe l'auditorat établi auprès de la Chambre nationale des notaires de la décision du conseil de discipline.
+
+Lorsque l'auditorat a engagé la poursuite, il informe le syndic de la décision du conseil de discipline.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 69, 034; En vigueur : 01-01-2024&gt;
+
+### Section IIter. [<sup>1</sup> - Conséquences de la peine disciplinaire en ce qui concerne la suppléance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-22/06, art. 70, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 104
+
+[<sup>1</sup> Si en cas de suspension d'un notaire, un suppléant est désigné, celui-ci a droit au remboursement des frais qu'il a exposés et à la rémunération fixée par le président de la chambre de discipline après avoir sollicité l'avis de la chambre des notaires, le tout à charge du notaire suppléé. Les honoraires des actes reçus pendant la suspension sont affectés à la rémunération du suppléant et du personnel de l'étude et au paiement des frais généraux. Le surplus éventuel est versé au suppléant ou aux notaires qui ont instrumenté à la place du notaire suppléé. Le déficit éventuel est supporté par le notaire suppléé.
+
+En cas de destitution d'un notaire, le suppléant a droit aux honoraires des actes reçus pendant la suppléance, à charge pour lui de supporter la rémunération du personnel de l'étude et le paiement des frais généraux. Le déficit éventuel est supporté par le notaire suppléé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 71, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 105
+
+&lt;Abrogé par L 2022-11-22/06, art. 72, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 106
+
+&lt;Abrogé par L 2022-11-22/06, art. 73, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 107
+
+&lt;Abrogé par L 2022-11-22/06, art. 74, 034; En vigueur : 01-01-2024&gt;
+
+### Section III.
+
+&lt;Abrogé par L 2022-11-22/06, art. 75, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 108
+
+&lt;Abrogé par L 2022-11-22/06, art. 75, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 109
+
+&lt;Abrogé par L 2022-11-22/06, art. 75, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 110
+
+&lt;Abrogé par L 2022-11-22/06, art. 75, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 111
+
+&lt;Abrogé par L 2022-11-22/06, art. 75, 034; En vigueur : 01-01-2023&gt;
+
+### Section IV.
+
+&lt;Abrogé par L 2022-11-22/06, art. 76, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 112
+
+&lt;Abrogé par L 2022-11-22/06, art. 76, 034; En vigueur : 01-01-2024&gt;
+
+##### Art. 113
+
+&lt;Abrogé par L 2022-11-22/06, art. 76, 034; En vigueur : 01-01-2024&gt;
+
+## TITRE V. - (Dispositions générales). &lt;Inséré par L 1999-05-04/03, art. 43, En vigueur : 01-11-1999 (AR 26-11-1999, art. 1er, MB 30-10-1999)&gt;
+
+##### Art. 114
+
+&lt;Inséré par L 1999-05-04/03, art. 44, En vigueur : 01-11-1999&gt; Tout acte établi contrairement aux dispositions des articles 6, 3° et 4°, 8, 9, § 2, alinéa 1er, 10, 12, alinéa 2, 14, 20 et 51, § 7, est nul s'il n'a pas été signé par toutes les parties. Lorsque l'acte sera revêtu de la signature de toutes les parties contractantes, il ne vaudra que comme écrit [<sup>1</sup> sous signature privée]<sup>1</sup> sans préjudice des dommages-intérêts qui devront être payés dans les deux cas, s'il y a lieu, par le notaire qui n'a pas respecté les dispositions précitées.
+
+----------
+
+(1)&lt;L 2019-04-13/28, art. 46, 028; En vigueur : 01-11-2020&gt;
+
+##### Art. 115
+
+&lt;Inséré par L 1999-05-04/03, art. 44, En vigueur : 01-11-1999 (AR 26-10-1999, art. 2, MB 30-10-1999)&gt; Les délais visés dans la présente loi sont calculés conformément aux articles 52, 53 et 54 du Code judiciaire.
+
+##### Art. 116
+
+&lt;Inséré par L 1999-05-04/03, art. 44, En vigueur : 01-11-1999&gt; Le Roi détermine les règles de l'organisation et du fonctionnement de la Chambre nationale des notaires.
+
+##### Art. 117
+
+&lt;Inséré par L 1999-05-04/03, art. 44, En vigueur : 01-11-1999&gt; § 1er. Un fonds, dénommé ci-après " fonds notarial ", est crée auprès de la Chambre nationale des notaires sous la forme d'une personne morale distincte. Le Roi organise le contrôle de ce fonds et peut nommer à cette fin un ou plusieurs commissaires du gouvernement.
+
+[<sup>4</sup> Le fonds notarial est un fonds de solidarité au sein du notariat qui soutient les notaires dans le cadre de leurs missions sociales et sociétales, de la façon déterminée aux paragraphes 3 à 5.]<sup>4</sup>
+
+§ 2. Lors de la conclusion d'un [<sup>2</sup> acte d'achat relatif à une seule habitation familiale pour laquelle une prime en matière de droits d'enregistrement s'applique]<sup>2</sup>, une diminution de (250 EUR) sur les honoraires du notaire est accordée aux personnes qui, pour réaliser cette acquisition, recourent au financement pour au moins 50 % de la valeur, par un crédit hypothécaire ou une ouverture de crédit pour lesquels ils peuvent bénéficier d'une réduction de moitié des honoraires du notaire pour la passation de cet acte en vertu [<sup>2</sup> d'une disposition légale]<sup>2</sup>. &lt;AR 2000-07-20/58, art. 6, En vigueur : 01-01-2002&gt;
+
+§ 3. Le notaire qui doit accorder la réduction de ses honoraires prévue au § 2 récupéré ce montant auprès du fonds notarial.
+
+[<sup>1</sup> Le notaire peut récupérer auprès du Fonds notarial un montant de [<sup>5</sup> 200 euros, hors tva]<sup>5</sup> pour tout acte contenant une ou plusieurs déclarations de renonciation à succession conformément à l'article [<sup>3</sup> 4.44, alinéa 1er, du Code civil, qu'il a reçu gratuitement en application de l'alinéa 3]<sup>3</sup> du même article pour autant que l'acte ne contienne pas d'autres actes juridiques, déclarations ou constatations donnant lieu à honoraire ou salaire.]<sup>1</sup> [<sup>2</sup> Le Fonds notarial peut également, moyennant approbation par le ministre de la Justice, consacrer les moyens dont il dispose à d'autres fins sociales utiles ou à des projets issus du monde notarial.]<sup>2</sup>
+
+[<sup>5</sup> Le montant visé à l'alinéa 2 est adapté de plein droit chaque année au 1er janvier à l'indice des prix à la consommation selon la formule suivante: montant de base multiplié par le nouvel indice et divisé par l'indice de départ. Le nouvel indice est l'indice des prix à la consommation du mois de septembre qui précède chaque adaptation visée ci-dessus. La première indexation a lieu au 1er janvier 2025 et l'indice de départ est l'indice des prix à la consommation du mois de janvier 2023.]<sup>5</sup>
+
+[<sup>4</sup> Le notaire reçoit du fonds notarial un remboursement pour chaque acte d'achat relatif à une habitation familiale unique, dont la base pour le calcul de l'honoraire se situe entre 60.000 et 325.000 euros et pour lequel le barème Jbis ou Kbis tel que fixé par l'article 17, points 81 et 82, de l'annexe à l'arrêté royal du 16 décembre 1950 portant le tarif des honoraires des notaires s'applique.
+
+Ce montant est déterminé comme suit:
+
+[<sup>5</sup> jusqu'à 60.000 euros inclus: 50 euros;]<sup>5</sup>
+
+à partir de 60.000 euros à 75.000 euros inclus: 75 euros;
+
+à partir de 75.000 euros à 100.000 euros inclus: 100 euros inclus;
+
+à partir de 100.000 euros à 125.000 euros inclus: 125 euros;
+
+à partir de 125.000 euros à 150.000 euros inclus: 150 euros;
+
+à partir de 150.000 euros à 200.000 euros inclus: 175 euros;
+
+à partir de 200.000 euros à 275.000 euros inclus: 200 euros;
+
+à partir de 275.000 euros à 300.000 euros inclus: 150 euros;
+
+à partir de 300.000 euros à 325.000 euros inclus: 75 euros.]<sup>4</sup>
+
+§ 4. [<sup>4</sup> Le fonds notarial est alimenté par une contribution annuelle de tous les notaires titulaires qui exercent leur activité notariale en personne physique et de chaque société professionnelle notariale de 0,25 % du chiffre d'affaires moyen des trois derniers exercices de l'étude ou des études dans le cas d'une association entre notaires titulaires, le cas échéant réduit prorata temporis à la période d'une année civile, si les exercices concernés sont plus longs ou plus courts qu'une année civile.
+
+En cas de création d'une place, conformément à l'article 32, alinéa 3, la contribution est calculée sur les exercices disponibles de l'étude, tant que ceux-ci sont inférieurs à trois.
+
+En cas de retrait d'un notaire titulaire d'une association ou de fin d'une association, la contribution est calculée sur une part égale de chaque notaire titulaire dans le chiffre d'affaires de l'association, complétée, le cas échéant, par le chiffre d'affaires des études, si l'association existe depuis moins de trois ans.
+
+Le chiffre d'affaires est composé des produits figurant sous les postes 70 à 75 de la classe 7 du plan comptable minimum normalisé pour les notaires, dont le modèle est joint en annexe au règlement de la Chambre nationale des notaires pour l'organisation de la comptabilité notariale du 9 octobre 2001 [<sup>5</sup> , diminués des contributions prévues au paragraphe 5]<sup>5</sup>.
+
+Si la Chambre nationale des notaires constate que le fonds notarial ne dispose pas de moyens pour pouvoir faire face aux créances durant plus d'une année, la Chambre nationale des notaires peut demander au ministre de la Justice d'augmenter temporairement le pourcentage de la contribution visé à l'alinéa 1er, à un maximum de 0,75 %.
+
+Si elle constate que le fonds notarial dispose de moyens lui permettant de faire face aux créances pendant plus d'une année, la Chambre nationale des notaires peut demander au ministre de la Justice de réduire temporairement le pourcentage de la contribution. Le ministre de la Justice veille à ce qu'il soit mis fin à la réduction en temps utile pour éviter que le fonds notarial présente un solde négatif.]<sup>4</sup>
+
+[<sup>4</sup> § 5. Le fonds notarial est également alimenté par une contribution pour chaque acte d'achat d'un bien immobilier, dont la base pour le calcul de l'honoraire est supérieure à 374.999 euros.
+
+Cette contribution est calculée comme suit:
+
+\- Pour chaque acte d'achat d'un bien immobilier pour lequel le barème Jbis tel que fixé par l'article 17, point 81 de l'annexe à l'arrêté royal du 16 décembre 1950 portant le tarif des honoraires des notaires s'applique:
+
+\- lorsque la base pour le calcul de l'honoraire est inférieure ou égale à 500.000 euros: (base - 250.095) \* 0,243 % - 309,15 + 100
+
+\- lorsque la base pour le calcul de l'honoraire est supérieure à 500.000 euros: (base - 500.000) \* 0,143 % + 249.905 \* 0,243 % - 309,15 + 100
+
+\- Pour chaque acte d'achat d'un bien immobilier pour lequel le barème J tel que fixé par l'article 17, point 81 de l'annexe à l'arrêté royal du 16 décembre 1950 portant le tarif des honoraires des notaires s'applique: (base - 250.095) \* 0,143 % - 5,75
+
+\- Pour chaque acte d'achat d'un bien immobilier pour lequel le barème Kbis tel que fixé par l'article 17, point 82 de l'annexe à l'arrêté royal du 16 décembre 1950 portant le tarif des honoraires des notaires s'applique:
+
+\- lorsque la base pour le calcul de l'honoraire est inférieure ou égale à 500.000 euros: (base - 250.095) \* 0,386 % - 637,46 + 400
+
+\- lorsque la base pour le calcul de l'honoraire est supérieure à 500.000 euros: (base - 500.000) \* 0,086 % + 249.905 \* 0,386 % - 637,46 + 400
+
+\- Pour chaque acte d'achat d'un bien immobilier pour lequel le barème K tel que fixé par l'article 17, point 82 de l'annexe à l'arrêté royal du 16 décembre 1950 portant le tarif des honoraires des notaires s'applique: (base - 250.095) \* 0,136 % - 29,51.
+
+§ 6. Le fonds notarial est le responsable du traitement des données au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) pour les données que le fonds notarial récolte et utilise pour accomplir ses missions.
+
+Le fonds notarial récolte auprès de la Chambre nationale des notaires les données suivantes et les traite:
+
+1° les données d'identification et de contact du notaire, parmi lesquelles le numéro d'identification sous lequel le notaire est connu auprès de la Chambre nationale des notaires conformément à l'article 91, alinéa 1er, 12° ;
+
+2° le numéro d'entreprise, le numéro de compte en banque et la référence sous laquelle l'étude notariale est connue auprès de la Chambre nationale des notaires, conformément à l'article 91, alinéa 1er, 12° ;
+
+3° le chiffre d'affaires moyen des trois derniers exercices de l'étude;
+
+Le fonds notarial récolte auprès des notaires les données suivantes et les traite:
+
+1° pour les actes d'achat d'un bien immobilier:
+
+\- la date, le numéro NABAN tel que défini à l'article 5 de l'arrêté royal du 18 mars 2020 portant l'introduction de la Banque des actes notariés et le numéro de répertoire tel que défini à l'article 177, alinéa 1er, 1° du Code des droits d'enregistrement, d'hypothèque et de greffe de l'acte;
+
+\- la base sur laquelle l'honoraire est calculé;
+
+\- la mention du barème appliqué comme prévu à l'arrêté royal du 16 décembre 1950 portant le tarif des honoraires des notaires;
+
+\- le cas échéant la mention selon laquelle une diminution d'honoraire comme prévu au paragraphe 2 a été appliquée;
+
+2° pour les actes d'achat d'un bien immobilier pour lesquels une diminution d'honoraire comme prévu au paragraphe 2 a été appliquée, les données supplémentaires suivantes:
+
+\- le prix d'achat;
+
+\- la date, le numéro de répertoire et, le cas échéant, le numéro NABAN de l'acte de financement comme prévu au paragraphe 2;
+
+\- le cas échéant, le nom du notaire instrumentant si celui-ci n'est pas le même que pour l'acte d'achat;
+
+\- le montant du financement;
+
+\- le nom de l'institution financière;
+
+3° pour les actes de renonciation à succession conformément à l'article 784, alinéa 1er, de l'ancien Code civil, que le notaire a reçu gratuitement en application de l'alinéa 3 du même article:
+
+\- la date, le numéro NABAN et le numéro de répertoire de l'acte;
+
+\- le nom, les prénoms et le numéro d'identification du défunt;
+
+\- la mention selon laquelle l'acte a été reçu gratuitement.
+
+Les données prévues à l'alinéa 2, 1° et 2°, sont traitées pour pouvoir identifier de manière suffisante les notaires et les études notariales et pour pouvoir effectuer les remboursements éventuels.
+
+Les données prévues à l'alinéa 2, 3° et à l'alinéa 3, 1° à 3°, sont traitées pour calculer les éventuelles contributions visées aux paragraphes 4 et 5 et les éventuelles indemnités visées au paragraphe 3 et exercer les contrôles nécessaires par rapport aux conditions qui y sont liées.
+
+Les données prévues à l'alinéa 3, 1° et 2° sont traitées afin de pouvoir soumettre au ministre de la Justice la demande visée au paragraphe 4, alinéas 5 et 6, en vue de maintenir l'équilibre financier du fonds notarial qui dépend de l'évolution du marché immobilier.
+
+Les données collectées par le fonds notarial au sujet des interventions financières et des contributions, sont conservées pendant dix ans en vue de ses obligations comptables et du contrôle visé au paragraphe 1er, alinéa 1er.
+
+Les autres données sont conservées pendant la période nécessaire pour permettre au fonds notarial de procéder aux vérifications que l'exercice de ses missions requiert et d'effectuer l'analyse en vue de la demande au ministre de la Justice, visée au paragraphe 4, alinéas 5 et 6.
+
+En cas de contentieux, les données pertinentes sont conservées pendant le temps nécessaire à la gestion du contentieux y relatif.
+
+§ 7. En vue de la demande des remboursements visée au paragraphe 3 et de la perception des contributions visée aux paragraphes 4 et 5, le notaire doit transmettre les données nécessaires telle que détaillées ci-dessus via la plateforme électronique indiquée à cet effet par le fonds notarial.
+
+Les données énumérées au paragraphe 6, alinéa 2, 3°, seront fournies par la Chambre nationale des notaires. La Chambre nationale des notaires récolte ces données dans le cadre de l'article 33 et les transmettra, afin que le fonds notarial puisse accomplir ses missions.
+
+Le fonds notarial transmettra les données suivantes à la Fédération Royale du Notariat belge, qui agira comme receveur des données, selon un mode sécurisé choisi par le fonds notarial:
+
+\- le numéro NABAN des actes visés au paragraphe 6, alinéa 3, 1° et 2° ;
+
+\- la base pour le calcul de l'honoraire pour les actes visés au paragraphe 6, alinéa 3, 1° ;
+
+\- le prix d'achat pour les actes visés au paragraphe 6, alinéa 3, 2°.
+
+Ces données seront uniquement utilisées par la Fédération Royale du Notariat belge pour assurer la qualité des données immobilières utilisées par les notaires, le cas échéant, dans le cadre de leurs missions légales et utilisées par la Fédération Royale du Notariat belge pour établir des statistiques sur le marché immobilier belge afin d'informer le public et les notaires.
+
+Ces données sont détruites une fois que l'objectif décrit ci-dessus a été atteint.
+
+§ 8. Les remboursements visés au paragraphe 3 et la perception des contributions visées aux paragraphes 4 et 5 font l'objet d'un décompte trimestriel sur base de tous les actes pour lesquels les données ont été transmises durant cette période comme visé à l'article 18, § 1, alinéa 1er, majoré d'un quatrième de la contribution due annuellement.
+
+Une compensation a lieu entre le montant des contributions qui sont dues et le montant des remboursements à effectuer par le fonds notarial.
+
+En cas de changement du notaire titulaire qui exerce son activité en personne physique ou en cas de changement de la société professionnelle notariale de l'étude, un décompte est établi à la date du changement. Ce décompte prend en considération, pour ce qui concerne les contributions visées au paragraphe 5 et les remboursements visés au paragraphe 3, la date de l'acte et, pour ce qui concerne la contribution visée au paragraphe 4, prorata temporis la période qui précède le changement.
+
+En cas d'association ou de fin d'association ou de retrait d'un associé notaire titulaire, un décompte est établi à la date du changement. Ce décompte prend en compte, pour ce qui concerne les contributions visées au paragraphe 5 et les remboursements visés au paragraphe 3, la date de l'acte et, pour ce qui concerne la contribution visée au paragraphe 4, prorata temporis la période qui précède le changement.
+
+Le décompte pour le notaire nouvellement nommé qui exerce son activité en personne physique ou au sein d'une société professionnelle notariale unipersonnelle concerne la période à partir de l'entrée en vigueur de sa nomination pour les contributions visées au paragraphe 5 et les remboursements visés au paragraphe 3. Pour la première année de sa nomination, il ne paie pas de contribution visée au paragraphe 4 et pour la deuxième année il paie la moitié de cette contribution.
+
+Le décompte pour une autre société professionnelle notariale nouvellement créée porte sur la période restante du trimestre concerné.
+
+Si le décompte présente un solde négatif, le notaire ou la société professionnelle notariale doit verser la contribution demandée sur le compte du fonds notarial, tel que mentionné dans l'invitation à payer, au plus tard le dernier jour du mois suivant le décompte. Le fonds notarial n'envoie pas d'autre document justificatif.
+
+Si le décompte présente un solde positif, le fonds notarial rembourse ce solde endéans la même période au notaire ou à la société professionnelle notariale.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 121, 018; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2017-07-06/24, art. 194, 018; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2022-01-19/18, art. 50, 033; En vigueur : 01-07-2022&gt;
+
+(4)&lt;L 2022-11-22/06, art. 77, 034; En vigueur : 01-01-2023&gt;
+
+(5)&lt;L 2024-03-28/60, art. 48, 036; En vigueur : 08-04-2024&gt;
+
+##### Art. 117bis
+
+[<sup>1</sup> § 1er. Ceux dont les sommes comme mentionnées à l'article 117, § 8 sont dues peuvent par écrit y faire opposition auprès du comité de direction de la Chambre nationale des notaires.
+
+L'opposition doit être motivée et, à peine de déchéance, être introduite avant l'expiration d'un délai de deux mois à compter du délai visé à l'article 117, § 8.
+
+Le comité de direction de la Chambre nationale des notaires statue sur l'opposition par une décision motivée.
+
+La notification de cette décision se fait par écrit.
+
+§ 2. Les sommes mentionnées à l'article 117, § 8, peuvent être recouvrées par voie de contrainte:
+
+1° en cas de non-paiement dans le délai visé à l'article 117, § 8, au plus tôt un mois après l'envoi par recommandé d'une mise en demeure par le comité de direction de la Chambre nationale des notaires;
+
+2° et, s'il a été fait opposition dans les délais impartis comme prévu au paragraphe 1er, alinéa 1er: au plus tôt un mois après envoi de la décision du comité de direction de la Chambre nationale des notaires visée au paragraphe 1er, alinéa 3.
+
+§ 3. La sommation déclarée exécutoire par le comité de direction de la Chambre nationale des notaires vaut titre exécutoire.
+
+La sommation est signifiée par exploit d'huissier de justice et contient un ordre de payer dans les vingt-quatre heures suivant notification, sous peine d'exécution par saisie.
+
+§ 4. Le débiteur de la contribution peut introduire un recours contre cette sommation devant le tribunal de première instance qui siège au siège de la cour d'appel dans le ressort duquel est situé la résidence ou le siège du débiteur concerné. Le recours est introduit au moyen d'une requête contradictoire visée au titre Vbis du livre II de la quatrième partie du Code judiciaire.
+
+Le recours suspend l'exécution de la sommation. Cette suspension prend fin à la date où la décision sur le recours passe en force de chose jugée.
+
+§ 5. Il y a prescription du recouvrement des contributions et des intérêts après deux ans à compter de l'expiration des délais visés à l'article 117, § 8.
+
+Il y a prescription de plein droit de la demande de remboursement de toute contribution indûment perçue, après deux ans à compter du paiement.
+
+§ 6. Tous les délais repris sous le présent article sont calculés conformément aux articles 48 à 57 du Code judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-22/06, art. 78, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 118
+
+[<sup>1</sup> [<sup>3</sup> Seulement dans le cadre d'un dossier relatif à une succession ouverte]<sup>3</sup>, le notaire peut, par sollicitation spécifique et motivée et demander des informations au Point de contact central [<sup>2</sup> tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès du fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-01/01, art. 128, 017; En vigueur : 14-07-2016&gt;
+
+(2)&lt;L 2018-07-08/03, art. 22, 019; En vigueur : 26-07-2018&gt;
+
+(3)&lt;L 2024-05-15/03, art. 33, 037; En vigueur : 07-06-2024&gt;
+
+##### Art. 119
+
+[<sup>1</sup> § 1er. [<sup>2</sup> La Chambre nationale des notaires est le gestionnaire et le responsable du traitement des données au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) pour les fichiers visés aux articles 33, 91, 12° et 100, § 6. La Fédération Royale du Notariat belge est dans le même sens le gestionnaire et le responsable du traitement des données pour les fichiers visés aux articles 18 et 26.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> La Fédération Royale du Notariat belge]<sup>2</sup> désigne un délégué à la protection des données [<sup>2</sup> conformément aux articles 38 et 39 du Règlement général sur la protection des données]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> § 3. Les responsables du traitement indiqués au paragraphe 1er et à l'article 117, § 6, veillent à ce que seuls leurs préposés dont la fonction le requiert disposent d'un accès aux fichiers visés aux articles 18, 26, 33, 91, 12°, 100 et 117. Ils tiennent à jour en permanence une liste de ces personnes. Ces personnes sont tenus de respecter le caractère confidentiel des données dans ces fichiers.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 195, 018; En vigueur : 18-01-2019&gt;
+
+(2)&lt;L 2022-11-22/06, art. 79, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 120
+
+[<sup>1</sup> L'article 458 du Code pénal s'applique aux notaires et aux personnes dont ils répondent professionnellement.
+
+Il s'applique également à tout organe légal et règlementaire du notariat, ainsi qu'aux membres de leurs organes, aux membres de leur personnel et, dans le cadre de leur mission, à leurs préposés externes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 80, 034; En vigueur : 01-01-2023&gt;
+
+##### Art. 121
+
+[<sup>1</sup> Toutes les décisions d'un organe légal et règlementaire du notariat peuvent être prises par écrit [<sup>2</sup> ...]<sup>2</sup>.
+
+Toutes les réunions d'un organe légal ou règlementaire du notariat peuvent être tenues au moyen de toute technique de télécommunication permettant une délibération collective, telles que les conférences téléphoniques ou vidéo. Il est dérogé aux règles de localisation des réunions des organes.
+
+Les convocations, les envois et les consultations de rapports et de documents par voie électronique sont autorisées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2020-04-30/03, art. 8, 026; En vigueur : 04-05-2020&gt;
+
+(2)&lt;L 2024-03-28/60, art. 5, 036; En vigueur : 08-04-2024&gt;
