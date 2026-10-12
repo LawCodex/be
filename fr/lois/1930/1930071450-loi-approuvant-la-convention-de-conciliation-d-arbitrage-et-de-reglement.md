@@ -1,0 +1,53 @@
+---
+title: "Loi approuvant la Convention de conciliation, d'arbitrage et de règlement, judiciaire, conclue le 23 avril 1929 entre la Belgique et la Republique Tchécoslovaque."
+identifier: "1930071450"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1930/07/14/1930071450/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1930-07-14
+published: 1930-12-05
+entry_into_force: 1930-11-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1930/07/14/1930071450/justel"
+retrieved: 2026-10-12
+---
+
+# 14 JUILLET 1930. - Loi approuvant la Convention de conciliation, d'arbitrage et de règlement, judiciaire, conclue le 23 avril 1929 entre la Belgique et la Republique Tchécoslovaque.
+
+ALBERT, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit:
+
+## Art. 1
+
+Article unique. Est approuvée la Convention de conciliation, d'arbitrage de règlement judiciaire signée à Prague, le 23 avril 1929, entre la Belgique et la République Tchécoslovaque.
+
+Promulguons la présente loi, ordonnances qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur.
+
+Donné à Bruxelles, le 14 juillet 1930.
+
+ALBERT
+
+Par le Roi:
+
+Le Ministre des Affaires étrangères,
+
+PAUL HYMANS
+
+Vu et scellé du sceau de l'Etat:
+
+Le Ministre de la Justice,
+
+P.-E. JANSON.
+
+## ANNEXE.
+
+## Art. N
+
+Convention de conciliation, d'arbitrage et de règlement judiciaire, conclue le 23 avril 1929 entre le Royaume de Belgique et la République Tchécoslovaque.
+
+(Pour la convention, voir %%1929-04-23/30%%).

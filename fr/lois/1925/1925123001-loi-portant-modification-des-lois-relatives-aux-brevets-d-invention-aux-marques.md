@@ -1,0 +1,56 @@
+---
+title: "Loi portant modification des lois relatives aux brevets d'invention, aux marques de fabrique et de commerce, aux dessins et modèles industriels et à la propriété industrielle en général."
+identifier: "1925123001"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1925/12/30/1925123001/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1925-12-30
+published: 1926-01-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1925/12/30/1925123001/justel"
+retrieved: 2026-10-12
+---
+
+# 30 DECEMBRE 1925. - Loi portant modification des lois relatives aux brevets d'invention, aux marques de fabrique et de commerce, aux dessins et modèles industriels et à la propriété industrielle en général.
+
+## Art. 1
+
+&lt;disposition modificative&gt;
+
+## Art. 2
+
+&lt;disposition modificative&gt;
+
+## Art. 3
+
+Pour les brevets déposés depuis le 10 janvier 1920, les annuités échues antérieurement à la date de la mise en vigueur de la présente loi qui n'auraient pas fait l'objet d'un avertissement comme le prescrivait l'article 22 de la loi du 24 mai 1854, tel qu'il a été modifié par la loi du 27 mars 1857, pourront être payées valablement pendant un délai de six mois à partir de cette date.
+
+A l'expiration du terme ainsi fixé, la déchéance sera acquise, sans avertissement, en cas de non paiement.
+
+## Art. 4
+
+&lt;disposition modificative&gt;
+
+## Art. 5
+
+L'indemnité à acquitter lors du dépôt de dessins et modèles industriels, fixée à 1 franc par année s'il s'agit d'un droit à usage exclusif pendant une, trois ou cinq années, et à 10 francs pour l'usage perpétuel, par l'article 3 de l'arrêté royal du 10 décembre 1884 pris en exécution des lois du 18 mars 1806 (art. 18) et 7 février 1859 (art. 50), est remplacée par une taxe perçue au profit de l'Etat.
+
+Le montant de celle-ci est fixé à 5 francs par année si le déposant déclare qu'il entend se réserver l'usage exclusif pendant une, trois ou cinq années et à 50 francs s'il entend se réserver ce droit pour l'usage perpétuel.
+
+Si le dépôt contient plusieurs dessins ou modèles industriels, la taxe sera majorée d'un cinquième par chaque unité supplémentaire.
+
+## Art. 6
+
+Le Roi pourra prescrire la perception d'une taxe supplémentaire toutes les fois qu'en matière de brevets, de marques de fabrique et de commerce, de dessins et modèles industriels et de propriété industrielle en général, des prestations spéciales sont fournies par l'administration (...) &lt;ARN 85 1939-11-17, art. 5&gt;
+
+Le taux des taxes supplémentaires établies en vertu du présent article ne pourra excéder (5 000 francs) &lt;L 1985-07-15, art. 3&gt;
+
+## Art. 7
+
+Un arrêté royal réglera le mode de perception des taxes à percevoir par application des dispositions qui précèdent et indiquera éventuellement les fonctionnaires de l'enregistrement et des domaines en mains desquels elles doivent être versées.
+
+## Art. 8
+
+&lt;disposition transitoire&gt;

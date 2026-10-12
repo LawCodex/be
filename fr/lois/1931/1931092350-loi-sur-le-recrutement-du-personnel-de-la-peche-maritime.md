@@ -1,0 +1,133 @@
+---
+title: "Loi sur le recrutement du personnel de la pêche maritime."
+identifier: "1931092350"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1931/09/23/1931092350/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1931-09-23
+published: 1931-09-25
+entry_into_force: 1931-10-01
+last_amended: 2024-04-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1931/09/23/1931092350/justel"
+justel_note: "Consultation des versions antérieures à partir du 10-10-1990 et mise à jour au 30-04-2024"
+retrieved: 2026-10-12
+---
+
+# 23 SEPTEMBRE 1931. - Loi sur le recrutement du personnel de la pêche maritime.
+
+## Art. 1
+
+Tout bâtiment qui pratique la pêche en mer, et dont l'équipage comporte au moins trois hommes adultes, est tenu d'enrôler un (mousse). &lt;L 1990-08-13/47, art. 3, 002; En vigueur : 20-10-1990&gt;
+
+Lorsqu'il s'agit de bâtiments de pêche dont l'équipage comporte au moins neuf adultes, ils sont tenus d'enrôler deux (mousses). &lt;L 1990-08-13/47, art. 3, 002; En vigueur : 20-10-1990&gt;
+
+## Art. 2
+
+&lt;L 1995-03-21/32, art. 14, 004; En vigueur : 01-05-1995&gt; Pour l'application de la présente loi, on entend par mousse, le mineur qui a quinze ans ou plus et qui n'est plus soumis à l'obligation scolaire à temps plein.
+
+L'enrôlement doit se faire parmi les mineurs âgés de quinze ans ou plus qui ont fréquenté les cours complets d'une école professionnelle de pêche, qui ont quitté celle-ci depuis moins d'une année et désirent s'enrôler en qualité d'apprenti mousse ou de matelot léger.
+
+A défaut de mineurs remplissant les conditions fixées à l'alinéa précédent, l'enrôlement devra se faire parmi les mineurs qui satisfont aux conditions d'âge fixées au premier alinéa.
+
+En vue de leur enrôlement dans les conditions prévues par la présente loi, les mineurs, visés dans le présent article se font inscrire (au service chargé du contrôle de la navigation) le plus proche de leur domicile. &lt;L 1999-05-03/30, art. 50, 006; En vigueur : 01-04-1999&gt;
+
+## Art. 3
+
+&lt;L 1990-08-13/47, art. 1, 002; En vigueur : 20-10-1990&gt; § 1er. Un Fonds des mousses est institué auprès du Ministère de l'Agriculture. Le Fonds a pour but de favoriser l'enrôlement de mousses à bord des bateaux de pêche belges, en leur accordant une rémunération et en intervenant dans les frais et charges résultant de leur enrôlement.
+
+§ 2. Le Fonds est alimenté par :
+
+1° les cotisations annuelles du Ministère de l'Agriculture;
+
+2° d'autres subventions des pouvoirs publics;
+
+3° les cotisations obligatoires à charge des armateurs des bateaux de pêche belges;
+
+4° le produit des avoirs du Fonds et les éventuelles contributions volontaires.
+
+Les cotisations obligatoires à charge des armateurs sont établies par le Roi après avis motivé du Conseil du Fonds et sont calculées sur base de la somme réalisée en brut des produits de la pêche apportés par les bateaux de pêche belges dans les ports belges et étrangers. Ces cotisations doivent couvrir au moins cinquante pourcent des dépenses du Fonds pour l'octroi d'une rémunération aux mousses et pour les charges.
+
+§ 3. Le Roi détermine l'organisation et le fonctionnement du Fonds ainsi que le contrôle des comptes.
+
+Il détermine les conditions auxquelles les mousses doivent satisfaire pour pouvoir bénéficier d'une rémunération à charge du Fonds. A cette occasion, il peut être dérogé à l'âge maximum fixé par l'article 2, alinéa premier, de la présente loi, modifié par l'article 13, § 1er, de la loi du 29 juin 1983 concernant l'obligation scolaire.
+
+Il peut autoriser le Conseil à engager, à titre contractuel, au maximum trois personnes pour assurer le secrétariat du Fonds.
+
+§ 4. Les arrêtés pris en exécution
+
+du présent article sont proposés par le Ministre qui a l'agriculture dans ses attributions.
+
+§ 5. [<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
+
+§ 6. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 30, 007; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2010-06-06/06, art. 109, 2°, 007; En vigueur : 01-07-2011&gt;
+
+## Art. 3_REGION_FLAMANDE.
+
+&lt;L 1990-08-13/47, art. 1, 002; En vigueur : 20-10-1990&gt; § 1er. Un Fonds des mousses est institué auprès du Ministère de l'Agriculture. Le Fonds a pour but de favoriser l'enrôlement de mousses à bord des bateaux de pêche belges, en leur accordant une rémunération et en intervenant dans les frais et charges résultant de leur enrôlement.
+
+§ 2. Le Fonds est alimenté par :
+
+1° les cotisations annuelles du Ministère de l'Agriculture;
+
+2° d'autres subventions des pouvoirs publics;
+
+3° les cotisations obligatoires à charge des armateurs des bateaux de pêche belges;
+
+4° le produit des avoirs du Fonds et les éventuelles contributions volontaires.
+
+Les cotisations obligatoires à charge des armateurs sont établies par le Roi après avis motivé du Conseil du Fonds et sont calculées sur base de la somme réalisée en brut des produits de la pêche apportés par les bateaux de pêche belges dans les ports belges et étrangers. Ces cotisations doivent couvrir au moins cinquante pourcent des dépenses du Fonds pour l'octroi d'une rémunération aux mousses et pour les charges.
+
+§ 3. Le Roi détermine l'organisation et le fonctionnement du Fonds ainsi que le contrôle des comptes.
+
+Il détermine les conditions auxquelles les mousses doivent satisfaire pour pouvoir bénéficier d'une rémunération à charge du Fonds. A cette occasion, il peut être dérogé à l'âge maximum fixé par l'article 2, alinéa premier, de la présente loi, modifié par l'article 13, § 1er, de la loi du 29 juin 1983 concernant l'obligation scolaire.
+
+Il peut autoriser le Conseil à engager, à titre contractuel, au maximum trois personnes pour assurer le secrétariat du Fonds.
+
+§ 4. Les arrêtés pris en exécution
+
+du présent article sont proposés par le [<sup>3</sup> ministre flamand qui a la pêche maritime dans ses attributions]<sup>3</sup>.
+
+§ 5. [<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
+
+§ 6. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 30, 007; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2010-06-06/06, art. 109, 2°, 007; En vigueur : 01-07-2011&gt;
+
+(3)&lt;DCFL 2024-03-29/37, art. 2, 009; En vigueur : 01-01-2024&gt;
+
+## Art. 4
+
+(Les agents chargés du contrôle de la navigation qui sont désignés à cet effet refusent) l'enrôlement, prescrit par l'article 6 de l'arrêté royal du 10 septembre 1929, au patron-pêcheur des bâtiments de pêche dont l'équipage, en ce qui concerne la composition, ne répond pas aux conditions stipulées par l'article 1er. &lt;L 1999-05-03/30, art. 51, 006; En vigueur : 01-04-1999&gt;
+
+## Art. 5
+
+(Abrogé) &lt;L 1990-08-13/47, art. 2, 002; En vigueur : 20-10-1990&gt;
+
+## Art. 6
+
+Les trois premiers mois de l'apprentissage sont considérés comme un temps d'essai, pendant lequel le contrat d'engagement (du mousse) peut être rompu pour des raisons plausibles; celles-ci sont laissées à l'appréciation (des agents chargés du contrôle de la navigation qui sont désignés à cet effet), sauf recours des parties intéressées au président du conseil d'enquête maritime. &lt;L 1990-08-13/47, art. 3, 002; En vigueur : 20-10-1990&gt; &lt;L 1999-05-03/30, art. 52, 006; En vigueur : 01-04-1999&gt;
+
+## Art. 7
+
+(Les agents chargés du contrôle de la navigation qui sont désignés à cet effet) sont chargés de veiller à l'observation de la présente loi et d'en assurer l'application. Ils peuvent accorder les dispenses d'enrôlement (des mousses) pour cause de pénurie ou pour des raisons d'ordre moral. Celles-ci peuvent éventuellement être déférées par les parties à l'appréciation du président du conseil d'enquête maritime. &lt;L 1990-08-13/47, art. 3, 002; En vigueur : 20-10-1990&gt; &lt;L 1999-05-03/30, art. 53, 006; En vigueur : 01-04-1999&gt;
+
+## Art. 8
+
+La présente loi entrera en vigueur le 1er octobre 1931.
