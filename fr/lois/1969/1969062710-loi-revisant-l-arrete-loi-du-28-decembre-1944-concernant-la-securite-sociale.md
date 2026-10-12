@@ -1,0 +1,2217 @@
+---
+title: "Loi révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs"
+identifier: "1969062710"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1969/06/27/1969062710/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1969-06-27
+published: 1969-07-25
+entry_into_force: 1970-01-01
+last_amended: 2026-07-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1969/06/27/1969062710/justel"
+justel_notes:
+  - "art. 30bis modifié avec effet à une date indéterminée par L 2022-12-26/01 , art. 49, 088; En vigueur : indéterminée "
+  - "Consultation des versions antérieures à partir du 24-01-1985 et mise à jour au 02-07-2026"
+retrieved: 2026-10-12
+---
+
+# 27 JUIN 1969. - Loi révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs
+
+## CHAPITRE I. - [<sup>1</sup> Définitions et champ d'application]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2016-07-10/03, art. 2, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 1
+
+§ 1er. La présente loi est applicable aux travailleurs et aux employeurs liés par un contrat de louage de travail.
+
+Pour l'application de la présente loi sont assimilés :
+
+1° aux travailleurs :
+
+a) les apprentis;
+
+b) les personnes auxquelles le Roi étend cette application en exécution de l'article 2, § 1er, 1°;
+
+2° aux employeurs :
+
+a) les personnes qui occupent au travail des apprentis;
+
+b) les personnes désignées par le Roi en exécution de l'article 2, § 1er, 1°.
+
+[<sup>1</sup> Le Roi détermine ce qu'il faut entendre par apprentis.]<sup>1</sup>
+
+[<sup>2</sup> Pour l'application de la présente loi, il y a lieu d'entendre par "administrations provinciales et locales", :
+
+\- les provinces;
+
+\- les institutions publiques qui dépendent des provinces;
+
+\- les communes;
+
+\- les institutions publiques qui dépendent des communes;
+
+\- les associations de communes;
+
+\- les CPAS;
+
+\- les associations de CPAS;
+
+\- les institutions publiques qui dépendent des CPAS;
+
+\- les agglomérations et les fédérations de communes;
+
+\- les institutions publiques qui dépendent des agglomérations et des fédérations de communes;
+
+\- les zones de police locales instituées sur la base de la loi du 7 décembre 1998 portant organisation d'un service de police intégrée, structuré à deux niveaux;
+
+\- les zones de secours instituées sur la base de la loi du 15 mai 2007 relative à la sécurité civile;
+
+\- la Commission communautaire française et la Commission communautaire flamande [<sup>5</sup> , à l'exception de leurs assemblées visées à l'article 60 de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises]<sup>5</sup>;
+
+\- les organismes économiques régionaux visés aux chapitres II et III de la loi-cadre du 15 juillet 1970 portant organisation de la planification et de la décentralisation économique modifiée par le décret du 25 mai 1983 du Conseil régional wallon, l'ordonnance du 20 mai 1999 de la Région de Bruxelles-Capitale et le décret du Conseil flamand du 27 juin 1985;
+
+\- "Bruxelles-Propreté, Agence régionale pour la Propreté";
+
+\- le "Service d'Incendie et d'Aide médicale urgente de la Région de Bruxelles-Capitale";
+
+\- les associations de plusieurs organismes susmentionnés;
+
+\- l'asbl "Vlaamse Operastichting" pour les membres du personnel qui étaient nommés à titre définitif à l'Intercommunale "Opera voor Vlaanderen" et qui sont repris avec maintien de leur statut.
+
+Pour l'application de la présente loi, il y a lieu d'entendre par :
+
+\- le "Comité de gestion" : le Comité de gestion visé à l'article 4ter, § 1er, de la loi du 25 avril 1963 sur la gestion des organismes d'intérêt public de sécurité sociale et de prévoyance sociale, tel que modifié par l'article 38;
+
+\- le "Comité de gestion de la sécurité sociale" le Comité de gestion visé à l'article 4ter, § 2 de la loi précitée du 25 avril 1963.]<sup>2</sup>
+
+§ 2. La présente loi n'est pas applicable aux personnes assujetties aux régimes de sécurité sociale:
+
+1° (abrogé) &lt;L 2002-12-24/31, art. 149, 020; En vigueur : 01-01-2003&gt;
+
+2° des marins de la marine marchande.
+
+§ 3. (Cette loi ne s'applique pas davantage aux institutions hospitalières créées par des personnes privées ou appartenant au secteur public, aux services d'orientation scolaire ou professionnelle, centre psycho-médico-sociaux et services de surveillance médicale scolaire, ainsi qu'aux médecins qui y sont occupés, si ces médecins sont également soumis à l'application du statut sociale des travailleurs indépendants (et si des cotisations complètes sont dues à ce régime en vertu de l'article 12, § 1er, de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants) pour raison d'exercice de la médecine en dehors de ces institutions, services et centres, à moins que ceux-ci ne leur octroient exclusivement qu'une rémunération fixe.) &lt;L 05-01-1976, art. 106&gt; &lt;L 1989-12-22/31, art. 4, 005; En vigueur : 09-01-1990&gt;
+
+[<sup>4</sup> § 4. La présente loi ne s'applique pas non plus aux personnes relevant de l'application de la loi du 24 décembre 2020 relative au travail associatif, dans la mesure où les conditions imposées par l'article 42 de la loi précitée sont remplies.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2014-05-15/02, art. 24, 056; En vigueur : 01-07-2015&gt;
+
+(2)&lt;L 2016-07-10/03, art. 3, 062; En vigueur : 01-01-2017&gt;
+
+(3)&lt;L 2018-07-18/03, art. 29, 070; En vigueur : 20-02-2018&gt;
+
+(4)&lt;L 2020-12-24/08, art. 45, 078; En vigueur : 01-01-2021&gt;
+
+(5)&lt;L 2021-12-09/08, art. 2, 079; En vigueur : 27-12-2021&gt;
+
+##### Art. 1bis
+
+[<sup>1</sup> § 1er. La présente loi est également applicable aux personnes qui disposent ou ont déjà disposé par le passé d'une attestation du travail des arts et qui, ne pouvant être liées par un contrat de travail parce que l'élément d'"autorité", essentiel à l'existence dudit contrat au sens des articles 2, 3 et 120 de la loi du 3 juillet 1978 relative aux contrats de travail, est inexistant, exercent, contre paiement d'une rémunération et pour le compte d'une personne physique ou morale, des activités telles que visées à l'article 7, § 4, de la loi du xxx portant création de la Commission du travail des arts et améliorant la protection sociale des travailleurs des arts.
+
+Dans ce cas, le donneur d'ordre est assimilé à l'employeur et doit assumer les obligations visées aux articles 21 et suivants, ainsi que l'obligation de fournir une rémunération égale ou supérieure au salaire auquel un employé aurait eu droit pour une même fonction chez le même donneur d'ordre, et en tout cas au moins égale au revenu mensuel minimum moyen garanti tel que déterminé dans la convention collective de travail n° 43.
+
+§ 2. Le travailleur des arts ne fera usage de la présente disposition que s'il opte volontairement pour son application dans ses relations professionnelles avec un donneur d'ordre.
+
+§ 3. La présente disposition n'est pas applicable lorsque la personne exerce l'activité à l'occasion d'évènements de son cercle de famille.
+
+§ 4. Le premier paragraphe n'est pas applicable aux personnes qui exercent les activités dans le cadre de la personne morale dont elles sont le mandataire au sens de l'article 3, § 1er, quatrième alinéa et cinquième alinéa, de l'arrêté royal no 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants.
+
+§ 5. Le Roi détermine, par arrêté délibéré en Conseil des ministres et après avis du Conseil national du Travail, les conditions dans lesquelles le § 1er n'est pas applicable aux personnes qui exercent des activités telles que visées à l'article 7, § 4, de la loi du xxx portant création de la Commission du travail des arts et améliorant la protection sociale des travailleurs des arts, à l'exclusion des activités artistiques-techniques et artistiques de soutien, pour lesquelles elles ne bénéficient que d'indemnités de défraiement prévues dans le même arrêté.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-12-16/09, art. 18, 091; En vigueur : 01-01-2024&gt;
+
+##### Art. 1ter
+
+[<sup>1</sup> La présente loi est également applicable aux travailleurs exerçant un flexi-job [<sup>2</sup> et aux employeurs [<sup>3</sup> visés à l'article 2 de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale]<sup>3</sup>]<sup>2</sup> qui sont liés par un contrat de travail flexi-job.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-11-16/05, art. 13, 059; En vigueur : 01-12-2015&gt;
+
+(2)&lt;L 2017-12-25/01, art. 40, 067; En vigueur : 01-01-2018&gt;
+
+(3)&lt;L 2026-06-28/03, art. 2, 093; En vigueur : 01-07-2026&gt;
+
+##### Art. 1quater.
+
+[<sup>1</sup> § 1er. Les titulaires d'une licence de "coureur élite avec contrat", délivrée par la Royale Ligue Vélocipédique Belge, sont réputés se trouver dans les liens d'un contrat de travail d'employé en ce qui concerne l'application de la présente loi.
+
+§ 2. La Royale Ligue Vélocipédique Belge est réputée, pour l'application de la présente loi, être l'employeur des personnes visées au présent article.
+
+La Royale Ligue Vélocipédique Belge subordonne la délivrance d'une licence à la délivrance d'une garantie par des tiers à concurrence de la cotisation que doit payer la Royale Ligue Vélocipédique Belge en tant qu'employeur, majorée des frais de gestion.
+
+Les charges résultant, pour l'employeur, de l'application de la présente loi ne peuvent incomber directement ni indirectement aux travailleurs salariés, notamment par l'élévation du prix de la licence.
+
+§ 3. Pour le calcul des cotisations dues à l'Office national de sécurité sociale, toutes les journées comprises dans la période de validité de la licence sont considérées comme journées de travail, à l'exception de celles qui sont comprises dans les périodes couvertes par les indemnités versées en application de l'assurance obligatoire contre la maladie et l'invalidité ou par des indemnités octroyées, du chef d'incapacité de travail temporaire, en vertu de la législation sur les accidents du travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-12-27/01, art. 131, 080; En vigueur : 01-01-2022&gt;
+
+##### Art. 2
+
+§ 1er. Le Roi peut, par arrêté délibéré en Conseil des Ministres et après avis du Conseil national du travail:
+
+1° étendre, dans les conditions qu'il détermine, l'application de la présente loi aux personnes qui, sans être liées par un contrat de louage de travail, fournissent contre rémunération des prestations du travail sous l'autorité d'une autre personne ou qui exécutent un travail selon des modalités similaires à celles d'un contrat de louage de travail; dans ces cas, le Roi désigne la personne qui est considérée comme employeur;
+
+2° limiter, pour certaines catégories de travailleurs qu'il détermine, l'application de la présente loi à un ou plusieurs des régimes énumérés à l'article 5;
+
+3° prévoir, pour certaines catégories de travailleurs qu'Il détermine, des modalités spéciales d'application dérogeant à certaines des dispositions de la présente loi [<sup>1</sup> , dans ce cas Il peut aussi prévoir, pour les employeurs et les utilisateurs des travailleurs précités des modalités spéciales d'application dérogeant à certaines des dispositions de la présente loi]<sup>1</sup> ;
+
+4° soustraire, dans les conditions qu'Il détermine, à l'application de la présente loi des catégories de travailleurs occupés à un travail qui constitue dans leur chef un emploi accessoire ou qui est essentiellement de courte durée ainsi que les employeurs du chef de l'occupation de ces travailleurs.
+
+§ 2. Lorsque le Roi fait usage d'un des pouvoirs attribués par le § 1er, 1° et 2°, Il entend par le même arrêté le champ d'application de ceux des régimes prévus à l'article 5 dont Il entend faire bénéficier les nouveaux assujettis.
+
+----------
+
+(1)&lt;L 2013-11-11/01, art. 2, 048; En vigueur : 01-10-2013&gt;
+
+##### Art. 2/1
+
+&lt;Abrogé par L 2023-11-08/01, art. 2, 089; En vigueur : 01-07-2023&gt;
+
+##### Art. 2/2
+
+[<sup>1</sup> L'application de la loi est étendue aux personnes qui effectuent des activités qui ressortent du champ d'application de la commission paritaire pour le nettoyage, sauf si celles-ci peuvent démontrer qu'elles ne travaillent pas habituellement et principalement pour un seul cocontractant et qu'elles exécutent lesdites activités à l'aide de leur propre matériel et facturent pour leur propre compte.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/01, art. 30, 064; En vigueur : 08-01-2017&gt;
+
+##### Art. 2/3
+
+[<sup>1</sup> L'application de la loi est étendue aux personnes qui sont engagées sous contrat de travail intérimaire à durée indéterminée au sens de l'article 8ter de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, les périodes d'intermissions visées au paragraphe 3 de l'article 8ter précité étant assimilées à des périodes d'activité pour la détermination des droits dans l'ensemble des régimes de la sécurité sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-09-30/01, art. 41, 066; En vigueur : 16-10-2017&gt;
+
+##### Art. 2/4
+
+[<sup>1</sup> L'application de la loi est étendue aux travailleurs occasionnels occupés chez un employeur ressortissant à la Commission paritaire des pompes funèbres.
+
+Au sens du présent article, sont considérés comme travailleurs occasionnels : les travailleurs qui sont engagés occasionnellement dans le secteur des pompes funèbres suite à un décès et qui sont liés par un contrat à durée déterminée ou pour un travail clairement circonscrit. Cela concerne exclusivement les travailleurs qui :
+
+\- effectuent des tâches telles que le transfert de documents, effectuent le transfert de corps, font des toilettes mortuaires, installent une chapelle ardente, accueillent à la maison funéraire et aident au service du café;
+
+\- portent la dépouille ou l'urne avec les cendres du défunt et les placent dans le véhicule de transfert et/ou la voiture de cérémonie; peuvent également accompagner les proches et/ou conduire et tenir propre le véhicule de transfert et/ou la voiture de cérémonie;
+
+[<sup>2</sup> - préparent des imprimés nécrologiques pour l'envoi: pliage, mise sous couverture;
+
+\- effectuent des petits travaux de cimetière, tels que la pose ou l'enlèvement d'accessoires;
+
+\- effectuent des petits travaux d'entretien non réguliers dans et sur les bâtiments en fonction des visites et des cérémonies.]<sup>2</sup>
+
+Pour ces travailleurs, un enregistrement du temps de travail est obligatoire en indiquant l'heure du début et de la fin des prestations dans la dimona.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/49, art. 49, 072; En vigueur : 01-04-2019&gt;
+
+(2)&lt;L 2022-12-26/01, art. 50, 088; En vigueur : 01-01-2023&gt;
+
+##### Art. 3
+
+Sans préjudice des dispositions [<sup>1</sup> des règlements européens ou conventions internationales portant, entre autres, sur la sécurité sociale et par lesquelles la Belgique est liée]<sup>1</sup> et de l'article 13, alinéa 2, de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer, la présente loi s'applique aux travailleurs occupés en Belgique au service d'un employeur établi en Belgique ou attachés à un siége d'exploitation établi en Belgique.
+
+----------
+
+(1)&lt;L 2022-12-05/06, art. 4, 087; En vigueur : 01-01-2021&gt;
+
+##### Art. 3bis
+
+&lt;Inséré par AR 2001-06-10/58, art. 1; En vigueur : 01-01-2003&gt; Pour l'application de la présente loi et de ses arrêtés d'exécution, les définitions des données relatives au temps de travail sont celles déterminées par l'arrêté royal du 10 juin 2001 portant définition uniforme de notions relatives au temps de travail à l'usage de la sécurité sociale, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
+
+##### Art. 4
+
+Les employeurs ne peuvent, en vue d'écarter l'application de la présente loi, se prévaloir de la nullité du contrat conclu avec le travailleur.
+
+[<sup>1</sup> Les institutions de sécurité sociale et les tiers au contrat de travail ne peuvent, en vue d'écarter l'application de la présente loi, se prévaloir de la nullité du contrat d'un travailleur qui se prostitue.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-02-21/06, art. 5, 082; En vigueur : 31-03-2022&gt;
+
+## CHAPITRE II. - L'Office national de sécurité sociale.
+
+### Section 1. - [<sup>1</sup> Missions]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2016-07-10/03, art. 4, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 5
+
+&lt;AR 1997-08-08/42, art. 5, 013; En vigueur : 01-07-1997&gt; L'Office national de Sécurité sociale, institué par l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, est chargé :
+
+1° de percevoir les cotisations des employeurs et des travailleurs en vue de contribuer au financement des régimes suivants :
+
+a) les indemnités dues en exécution de l'assurance obligatoire soins de santé et indemnités;
+
+b) les allocations de chômage;
+
+c) les pensions de retraite et de survie;
+
+d) les allocations du chef d'accidents de travail et de maladies professionnelles;
+
+e) les prestations de santé dues en exécution de l'assurance obligatoire soins de santé et indemnités;
+
+f) [<sup>1</sup> ...]<sup>1</sup>;
+
+g) les allocations de vacances annuelles;
+
+(h) les pensions d'invalidité au profit des ouvriers mineurs et assimilés.) &lt;L 2002-12-24/31, art. 150, 020; En vigueur : 01-01-2003&gt;
+
+2° d'assurer la Gestion globale ainsi que de promouvoir la transparence et l'efficacité du financement de celle-ci.
+
+Dans l'exercice de cette tâche, l'Office est désigné comme " l'ONSS-Gestion globale ".
+
+Pour ce faire, il veille entre autres, sous la surveillance du Comité de gestion de la sécurité sociale, à :
+
+a) effectuer la répartition des recettes globalisées, visées à l'article 22, § 2, a) de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, sur base des besoins de trésorerie à financer tels que visés à l'article 24, § 1er de la loi du 29 juin 1981 susmentionnée;
+
+b) soumettre au Gouvernement, en vue de l'élaboration du budget et du contrôle budgétaire, un rapport sur l'évolution des dépenses et des recettes dans une perspective pluriannuelle, les options politiques prioritaires et la façon dont un équilibre financier durable de l'ensemble des régimes peut être assuré;
+
+c) suivre l'évolution de l'ensemble des recettes et dépenses sur la base des données transmises par les institutions publiques de sécurité sociale concernées;
+
+d) mettre en oeuvre une gestion de trésorerie commune et la gestion des avoirs disponibles qui appartiennent à la Gestion globale.
+
+(3° mettre à disposition de l'autorité et du public des données statistiques issues du traitement de ses bases de données et ce, dans le respect des législations concernant la protection des données personnelles ou relatives aux entreprises; sur proposition du Comité de gestion de l'Office, le ministre qui a la tutelle sur l'Office arrête la liste desdites données; sur proposition du Comité de gestion de l'Office, le ministre qui a la tutelle sur l'Office détermine :
+
+a) les cas dans lesquels la mise à disposition de ces données a lieu à titre gratuit;
+
+b) les cas dans lesquels la mise à disposition de ces données a lieu à prix coûtant; il fixe, sur proposition du Comité de gestion de l'Office, soit le tarif applicable soit les éléments permettant de déterminer le prix coûtant de la mise à disposition des données sollicitées;
+
+c) les cas dans lesquels le Comité de gestion de l'Office peut décider d'une réduction totale ou partielle du prix coûtant pour des mises à disposition des données visées sous b).) &lt;L 2004-07-09/30, art. 117, 023; En vigueur : 25-07-2004&gt;
+
+(4° de financer la création de mandats de recherche dans le secteur de la recherche fondamentale, conformément à l'article 189 de la loi-programme(I) du 27 décembre 2006.) &lt;L 2006-12-27/30, art. 190, 030; En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/77, art. 48, 055; En vigueur : 01-01-2015&gt;
+
+##### Art. 5/1
+
+[<sup>1</sup> L'Office national de sécurité sociale est également chargé de percevoir et recouvrer les cotisations, retenues, contributions ou autres recettes visées ci-après :
+
+1° la contribution visée à l'article 12, § 2, de la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit;
+
+2° le pourcentage de la masse salariale visé à l'article 10, alinéa 2, de la loi du 6 juillet 1971 relative à la création de bpost et à certains services postaux;
+
+3° la retenue visée à l'article 39quater de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, à l'exception des membres du personnel des zones de police locale et des gouverneurs de province, des bourgmestres, des échevins et des présidents des Centres publics d'aide sociale.
+
+4° la contribution personnelle visée à l'article 60 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pension;
+
+5° la cotisation patronale visée à l'article 176, § 4, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques;
+
+6° la somme visée aux articles 18 et 20 de la loi du 10 avril 1995 relative à la redistribution du travail dans le secteur public;
+
+7° la cotisation patronale visée à l'article 9, § 1er, alinéa 1er et § 2, de la loi du 11 décembre 2003 concernant la prise par l'Etat belge des obligations de pension légales de société anonyme de droit public Proximus vis-à-vis de son personnel statutaire;
+
+8° la cotisation personnelle visée à l'article 5, alinéa 1er et 2, de la loi du 4 mars 2004 accordant des avantages complémentaires en matière de pension de retraite aux personnes désignées pour exercer une fonction de management ou d'encadrement dans un service public;
+
+9° la cotisation patronale visée à l'article 7 de l'arrêté royal du 22 décembre 2004 de reprise des obligations légales de pension de Brussels International Airport Company;
+
+10 ° les cotisations visées aux articles 55 et 56, §§ 1 et 2, de la loi-programme du 11 juillet 2005;
+
+11° les cotisations et retenues visées à l'article 5 de l'arrêté royal du 28 décembre 2005 relatif à la reprise des obligations de pension de la SNCB Holding par l'Etat belge;
+
+12° les cotisations visées à l'article 55, alinéa 3, de la loi du 24 octobre 2011 assurant un financement pérenne des pensions des membres du personnel nommé à titre définitif des administrations provinciales et locales et des zones de police locale et modifiant la loi du 6 mai 2002 portant création du fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale et contenant diverses dispositions modificatives.]<sup>1</sup>
+
+[<sup>2</sup> Dans ce cas, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de perception et de recouvrement doivent être les mêmes que ceux prévus dans la présente loi.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 5, 062; En vigueur : 01-01-2016&gt;
+
+(2)&lt;L 2016-12-25/48, art. 2, 063; En vigueur : 01-01-2016&gt;
+
+##### Art. 5/2
+
+[<sup>1</sup> § 1er. L'Office national de sécurité sociale est également chargé de la perception et du recouvrement des recettes visées à l'article 10, 1), 2) et 13) et à l'article 13, 1), tirets 3 et 4, de la loi du 24 octobre 2011 assurant un financement pérenne des pensions des membres du personnel nommé à titre définitif des administrations provinciales et locales et des zones de police locale et modifiant la loi du 6 mai 2002 portant création du fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale et contenant diverses dispositions modificatives.
+
+§ 2. L'Office national de sécurité sociale est également chargé de la retenue visée à l'article 39quater de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, pour les gouverneurs de province, les bourgmestres, les échevins et les présidents des Centres publics d'aide sociale.
+
+§ 3. L'Office Nationale de Sécurité sociale est également chargé de percevoir la cotisation visée à l'article 4 de la loi du 1er septembre 1980 relative à l'octroi et au paiement d'une prime syndicale à certains membres du personnel du secteur public.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Pour l'application du présent article, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de perception et de recouvrement doivent être les mêmes que ceux prévus dans la présente loi.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 6, 062; En vigueur : 01-01-2017&gt;
+
+(2)&lt;L 2016-12-25/48, art. 3, 063; En vigueur : 01-01-2017&gt;
+
+##### Art. 5/3
+
+[<sup>1</sup> L'Office national de sécurité sociale est également chargé de percevoir les cotisations prévues par la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer et par ses arrêtés d'exécution [<sup>2</sup> , suivant les règles qui y sont précisées]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 7, 062; En vigueur : 01-01-2017&gt;
+
+(2)&lt;L 2016-12-25/48, art. 4, 063; En vigueur : 01-01-2016&gt;
+
+##### Art. 5/4 DROIT FUTUR.
+
+[<sup>1</sup> L'Office national de sécurité sociale est également chargé de la perception et du recouvrement des cotisations visées à l'article 8 de l'arrêté royal du 27 juillet 1971 déterminant pour les journalistes professionnels les règles spéciales pour l'ouverture du droit à la pension et les modalités spéciales d'application de l'arrêté royal n° 50 du 24 octobre 1967, relatif à la pension de retraite et de survie des travailleurs salariés, de la loi du 20 juillet 1990 instaurant un âge flexible de la retraite pour les travailleurs salariés et adaptant les pensions des travailleurs salariés à l'évolution du bien-être général et de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
+
+Pour l'application du présent article, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de perception et de recouvrement doivent être les mêmes que ceux prévus dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-02-28/04, art. 13, 081; En vigueur : indéterminée &gt;
+
+##### Art. 6
+
+[<sup>1</sup> § 1er.]<sup>1</sup> L'Office national de sécurité sociale peut également être chargé de la perception et du recouvrement des cotisations établies en application de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence.
+
+Dans ce cas, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de calcul, de perception de recouvrement doivent être les mêmes que ceux prévus dans la présente loi.
+
+[<sup>1</sup> § 2. L'Office national de sécurité sociale peut par convention assurer la perception de cotisations non visées au § 1er et aux articles 5, 5/1, 5/2 et 5/3.
+
+Dans ce cas, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de calcul, de perception et de recouvrement sont les mêmes que ceux prévus dans la présente loi.
+
+§ 3. L'Office national de sécurité sociale est chargé de percevoir la cotisation due par les administrations affiliées au "Service social collectif des administrations provinciales et locales visé à l'article 23 de la loi du 18 mars 2016 portant modification de la dénomination de l'Office national des Pensions en Service fédéral des Pensions, portant intégration des attributions et du personnel du Service des Pensions du Secteur public, des missions "Pensions" des secteurs locaux et provinciaux de l'Office des régimes particuliers de sécurité sociale et de HR Rail et portant reprise du Service social collectif de l'Office des régimes particuliers de sécurité sociale.".
+
+Dans ce cas, tant pour les cotisations que pour les majorations de cotisations et les intérêts de retard, les modes de calcul, de perception et de recouvrement sont les mêmes que ceux prévus dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-07-10/03, art. 8, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 6bis
+
+&lt;L 1998-02-22/43, art. 60, 014; En vigueur : 13-03-1998&gt; § 1er. L'Office national de sécurité sociale est chargé de la perception et du recouvrement des cotisations établies conformément à l'arrêté-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers mineurs et assimilés.
+
+§ 2. Pour l'exécution de cette mission, une cellule administrative, comprenant du personnel du Fonds national de retraite des ouvriers mineurs, est constituée.
+
+Cette cellule dispose d'un cadre organique et linguistique distinct de celui de l'Office.
+
+§ 3. Sur proposition du Ministre qui a les Affaires sociales dans ses attributions, le Roi peut, par arrêté royal délibéré en Conseil des Ministres, dissoudre cette cellule et intégrer les emplois prévus dans son cadre spécial au cadre organique de l'Office national de sécurité sociale.
+
+##### Art. 7
+
+§ 1er. Par dérogation (...) à l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande, le Roi peut, par arrêté délibéré en Conseil des Ministres et après l'avis du Conseil national du travail, charger l'Office national de sécurité sociale d'effectuer la perception et le recouvrement des cotisations, majorations de cotisations et des intérêts de retard, prévus par ces arrêtés-lois. &lt;L 1996-04-29/32, art. 132, 011; En vigueur : 01-01-1999&gt;
+
+§ 2. Dans ce cas, le Roi détermine les conditions techniques et administratives dans lesquelles l'Office national de sécurité sociale accomplit la mission qui lui est ainsi confiée, ces conditions pouvant déroger aux dispositions de ces arrêtés-lois, sauf en ce qui cOncerne les taux de cotisations qui y sont prévus ainsi que la base de calcul des cotisations.
+
+##### Art. 8
+
+&lt;Abrogé par L 2016-05-16/01, art. 3, 061; En vigueur : 01-01-2016&gt;
+
+### Section 1bis. [<sup>1</sup> Missions en matière de sécurité sociale d'outre-mer et autres missions spécifiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 9, 062; En vigueur : 01-01-2017&gt;
+
+#### Sous-section 1re. [<sup>1</sup> Sécurité sociale d'outre-mer]<sup>1</sup>{
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 10, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 8/1
+
+[<sup>1</sup> L'Office national de sécurité sociale est chargé de l'exécution des dispositions :
+
+1° de la loi du 16 juin 1960 plaçant sous le contrôle et la garantie de l'Etat belge les organismes gérant la sécurité sociale des employés du Congo belge et du Ruanda-Urundi, et portant garantie par l'Etat belge des prestations sociales assurées en faveur de ceux-ci;
+
+2° de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer;
+
+3° des arrêtés d'exécution des lois visées sous 1° et 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 11, 062; En vigueur : 01-01-2017&gt;
+
+#### Sous-section 2 [<sup>1</sup> Interventions payées par l'Office national de sécurité sociale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 12, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 8/2
+
+&lt;Abrogé par L 2017-09-30/01, art. 35, 066; En vigueur : 01-07-2018&gt;
+
+##### Art. 8/3
+
+&lt;Abrogé par L 2016-12-25/48, art. 5, 063; En vigueur : 01-01-2017&gt;
+
+##### Art. 8/4
+
+&lt;Abrogé par L 2016-12-25/48, art. 5, 063; En vigueur : 01-01-2017&gt;
+
+#### Sous-section 3. - [<sup>1</sup> Maribel social et fiscal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 14, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 8/5
+
+[<sup>1</sup> L'Office national de sécurité sociale est chargé de l'exécution du financement et du contrôle des emplois supplémentaires dans le cadre du Maribel social et du Maribel fiscal qui relèvent de la compétence du comité de gestion visé à l'article 35, § 5, C, 2°, a), alinéa 2 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 15, 062; En vigueur : 01-01-2017&gt;
+
+#### Sous-section 4 - [<sup>1</sup> Exécution d'accords sociaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 16, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 8/6
+
+[<sup>1</sup> L'Office national de sécurité sociale est chargé de l'exécution de certaines mesures des accords sociaux pour les secteurs fédéraux de la santé qui relèvent de la compétence du comité de gestion visé à l'article 35, § 5, C, 2°, a), alinéa 2, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.
+
+Il s'agit :
+
+\- du financement et du contrôle des emplois supplémentaires dans le cadre de la mesure de congé supplémentaire;
+
+\- du contrôle des emplois supplémentaires dans le cadre de l'accord social 2011;
+
+\- de l'intervention financière accordée aux hôpitaux dans le cadre de la mesure de statutarisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 17, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 8/7
+
+[<sup>1</sup> L'Office national de sécurité sociale peut être chargé par le Roi de l'exécution des mesures prévues par d'autres accords sociaux que ceux visés à l'article 8/6.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 17, 062; En vigueur : 01-01-2017&gt;
+
+### Section 1ter. [<sup>1</sup> - Missions pour les marins.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-17/17, art. 18, 068; En vigueur : 01-01-2018&gt;
+
+##### Art. 8/8
+
+[<sup>1</sup> L'Office national de sécurité sociale est chargé des missions prévues aux articles 1 et 1bis de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande et est responsable en particulier pour :
+
+a) la perception et la répartition des cotisations en matière de sécurité sociale pour le secteur de la marine marchande, prévue par l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande;
+
+b) la gestion du régime de la capitalisation individuelle des marins de la marine marchande, prévue par la loi du 28 mai 1971 réalisant l'unification et l'harmonisation des régimes de capitalisation institués dans le cadre des lois relatives à l'assurance en vue de la vieillesse et du décès prématuré.
+
+Tant pour les cotisations que pour les majorations et les intérêts, les façons de calcul, de perception, du recouvrement, d'exonération et de prescription sont les mêmes que celles prévues par la présente loi et ses arrêtés d'exécution.
+
+Pour l'application de cette loi et de ses arrêtés d'exécution, l'armateur, visé à l'article 2, § 1er, 2°, de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande, est considéré comme l'employeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-17/17, art. 19, 068; En vigueur : 01-01-2018&gt;
+
+### Section 2. - Organisation.
+
+##### Art. 9
+
+L'Office national de sécurité sociale est un établissement public, doté de la personnalité civile. Il est placé sous la garantie de l'Etat.
+
+Son organisation et son fonctionnement sont réglés par le Roi.
+
+##### Art. 10
+
+La gestion journalière de l'Office national de sécurité sociale est assumée par un administrateur général, assisté d'un administrateur général adjoint.
+
+##### Art. 11
+
+L'Office national de sécurité sociale peut transiger et compromettre.
+
+##### Art. 12
+
+[<sup>1</sup> § 1er. L'Office national de sécurité sociale communique dans le mois à tout tiers qui lui en adresse la demande par lettre et qui justifie d'un intérêt légitime, le montant de sa créance à charge d'un employeur nommément désigné. Le Roi définit ce que l'on entend par dettes sociales en fonction de la base légale invoquée pour obtenir pareille communication ou de l'intérêt légitime.
+
+§ 2. Lorsqu'un donneur d'ordre ou un entrepreneur est susceptible de voir sa responsabilité solidaire engagée sur base d'une disposition de la présente loi ou de ses arrêtés d'exécution, l'Office précité met des banques de données à disposition dudit donneur d'ordre ou entrepreneur permettant à celui-ci de vérifier s'il est dans l'obligation de faire des retenues sur les factures présentées par son cocontractant. Pour chaque type de responsabilité solidaire le Roi peut fixer un montant à partir duquel la facture qui lui est présentée doit être accompagnée d'une attestation établissant le montant de sa dette telle que définie par le Roi afin de limiter la retenue applicable au montant de cette dette. L'attestation tient compte de la dette au jour à laquelle elle est établie. Le Roi détermine la durée de validité de l'attestation.
+
+§ 3. Pour l'application du paragraphe 2, on entend par dettes sociales l'ensemble des sommes dont un employeur est redevable à l'Office national de Sécurité sociale. Le Roi en établit la liste. Cette liste peut différer selon les spécificités applicables à chaque type de responsabilité solidaire ou en fonction du type de la communication.
+
+En dehors des cas déterminés par le Roi, tenant compte des bases légales ou de l'intérêt légitime spécifiques, les dettes pour lesquelles le débiteur auprès de l'Office national de Sécurité sociale ou auprès d'un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence a obtenu des délais de paiement [<sup>2</sup> ans recours à une procédure judiciaire ou à la contrainte,]<sup>2</sup> ou par une décision judiciaire coulée en force de chose jugée et fait preuve d'un respect strict des délais imposés, ne sont pas prises en considération pour déterminer s'il existe ou non des dettes.
+
+Les banques de données ont force probante pour l'application des lois dont le Roi établit la liste. Dans des cas particuliers, elles peuvent renvoyer à l'Office précité qui délivre une attestation papier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-03-29/08, art. 59, 044; En vigueur : 01-07-2012&gt;
+
+(2)&lt;L 2016-12-01/22, art. 2, 065; En vigueur : 01-01-2017&gt;
+
+##### Art. 13
+
+L'Office national de sécurité sociale peut créer un service mécanographique et le mettre à la disposition des organismes visés à l'article 19. Il peut également s'associer avec lesdits organismes en vue de sa création. Les charges du fonctionnement de ce service seront réparties entre ces différents organismes.
+
+Cet Office peut également confier l'exécution de travaux mécanographiques à un établissement privé, à condition qu'il dispose auprès cet établissement d'un représentant permanent, chargé de la surveillance régulière des travaux effectués pour son compte. Le Comité de gestion dudit Office désigne, parmi les fonctionnaires dirigeants de celui-ci et avec l'approbation du Ministre qui a la Prévoyance sociale dans ses attributions ce représentant permanent. (...) &lt;L 1996-04-29/32, art. 133, 011; En vigueur : 01-01-1999&gt;
+
+## CHAPITRE III. - Cotisations de sécurité sociale.
+
+### Section 1. - Calcul des cotisations.
+
+##### Art. 14
+
+§ 1er. Les cotisations de sécurité sociale sont calculées sur base de la rémunération des travailleurs. Toutefois, le Roi peut, par arrêté délibéré en Conseil des Ministres, élargir ou restreindre la notion ainsi déterminée.
+
+§ 2. La notion de rémunération est déterminée par l'article 2 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs. Toutefois, le Roi peut, par arrêtés délibéré en Conseil des Ministres, élargir ou restreindre la notion ainsi déterminée.
+
+§ 3. (Les avantages visés au chapitre II de la loi du 21 décembre 2007 relative à l'exécution de l'accord interprofessionnel 2007-2008 ainsi qu'au Titre XIII, Chapitre unique " Mise en place d'un système d'avantages non récurrents liés aux résultats pour les entreprises publiques autonomes " de la loi du 24 juillet 2008 portant des dispositions diverses (I) sont exclus de la notion de rémunération à concurrence du montant déterminé à l'article 38, § 3novies, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.) &lt;L 2008-07-24/35, art. 166, 037; En vigueur : 01-01-2008&gt;
+
+[<sup>2</sup> § 3bis. Le flexisalaire visé à [<sup>3</sup> l'article 3, 2°]<sup>3</sup>, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale, le flexipécule de vacances visé à l'article 3, 6°, de la même loi et les rémunérations nettes pour les heures supplémentaires dans le secteur de l'horeca, telles que définies à l'article 3, 5°, de la même loi, sont exclues de la notion de rémunération.]<sup>2</sup>
+
+[<sup>4</sup> § 3ter. Les montants octroyés en tant qu'allocation de mobilité conformément aux dispositions de la loi du 30 mars 2018 concernant l'instauration d'une allocation de mobilité sont exclus de la notion de rémunération.]<sup>4</sup>
+
+[<sup>5</sup> § 3quater. Le solde du budget mobilité mis à disposition du travailleur conformément à l'article 8, § 3, de la loi du 17 mars 2019 concernant l'instauration d'un budget mobilité est exclu de la notion de rémunération.]<sup>5</sup>
+
+[<sup>1</sup> § 4. En cas de contestation quant au caractère réel des frais à charge de l'employeur, l'employeur doit démontrer la réalité de ces frais au moyen de documents probants ou, quand cela n'est pas possible, par tous autres moyens de preuve admis par le droit commun, sauf le serment.
+
+En l'absence d'éléments probants fournis par l'employeur, l'Office national de sécurité sociale peut, sur proposition des services d'inspection compétents qui ont auditionné l'employeur, effectuer d'office une déclaration supplémentaire, compte tenu de toutes les informations utiles dont il dispose.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-23/04, art. 64, 039; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2015-11-16/05, art. 14, 059; En vigueur : 01-12-2015&gt;
+
+(3)&lt;L 2015-12-26/03, art. 94, 060; En vigueur : 01-12-2015&gt;
+
+(4)&lt;L 2018-03-30/32, art. 19, 069; En vigueur : 01-01-2018&gt;
+
+(5)&lt;L 2019-03-17/05, art. 19, 073; En vigueur : 01-03-2019&gt;
+
+##### Art. 15
+
+(Les cotisations sont calculées, selon les distinctions établies à l'article 17, sur la totalité ou sur une partie de la rémunération. Dans ce dernier cas, les limites, à concurrence desquelles la rémunération est prise en considération, sont fixées à 16.375 francs, 27.075 et (34.500) francs par mois. Ces montants ainsi que les limites résultant de l'application du coefficient de réévaluation visé à l'article 17, peuvent, selon les nécessités économiques et après avis du Conseil national du travail, être modifiés par le Roi par arrêté délibéré en Conseil des Ministres.) &lt;L 24-12-1974, art. 1er&gt; &lt;L 8-08-1980, art. 124, §1&gt;
+
+Le Roi peut déterminer d'autres limites lorsque la rémunération porte sur une période de travail qui ne coïncide pas avec le mois, sans que toutefois la débition des cotisation puisse porter, par année civile, sur un montant supérieur à la somme des limites mensuelles de cette année.
+
+##### Art. 16
+
+&lt;AR 2001-12-11/42, art. 2, 019; En vigueur : 01-01-2002&gt; Les limites sont liées aux fluctuations de l'indice des prix à la consommation. Elles sont liées à l'indice-pivot 103,14 (base 1996 = 100).
+
+Elles varient en fonction d'indices-pivots appartenant à une série dont le premier est 103,14 et dont chacun des suivants est obtenu en multipliant le précédent par 1,02. Pour le calcul de chacun des indices-pivots, les fractions de centième de point sont arrondies au centième supérieur ou négligées, selon qu'elles atteignent ou non 50 p.c. d'un centième.
+
+Chaque fois que la moyenne des indices des prix à la consommation de deux mois consécutifs atteint l'un des indices-pivots ou est ramenée à l'un d'eux, les limites rattachées à l'indice-pivot 103,14 sont calculées à nouveau en les affectant du coefficient 1,02n, n représentant le rang de l'indice-pivot atteint. A cet effet, chacun des indices-pivots est désigné par un n° de suite indiquant son rang, le n° 1 désignant l'indice-pivot qui suit l'indice 103,14. Pour le calcul du coefficient 1,02n, les fractions de dix-millième d'unité sont arrondies au dix-millième supérieur ou négligées, selon qu'elles atteignent ou non 50 p.c. d'un dix-millième.
+
+L'augmentation ou la diminution est appliquée à partir du trimestre civil qui suit la fin de la période de deux mois consécutifs pendant laquelle l'indice moyen atteint le chiffre qui justifie une modification.
+
+Lorsque les limites augmentées ou diminuées une ou plusieurs fois ne sont pas divisibles par 25, elles sont arrondies suivant les modalités fixées par le Roi.
+
+##### Art. 17
+
+Le taux des cotisations et les limites à concurrence desquelles la rémunération du travailleur est prise en considération pour le calcul sont fixés comme suit:
+
+§ 1er. Quant à la cotisation du travailleur:
+
+1° s'il s'agit d'un travailleur manuel:
+
+a) (5,75 p.c. du montant de sa rémunération, destinés au régime de pension de retraite et de survie des travailleurs salariés; ce taux est porté à 6 p.c. à partir du 1er juillet 1970.) &lt;L 23-12-1969, art. 2, 1° &gt;
+
+b) (1,10 p.c. du montant de sa rémunération limitée à (34.500) F par mois, destiné au régime d'assurance obligatoire contre la maladie et l'invalidité (secteur des indemnités). Cette limite de (34.500) F est, à partir du (1er janvier 1980), affectée au 1er janvier de chaque année d'un coefficient de réévaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres;) &lt;L 16-07-1974, art. 1, 1° &gt; &lt;L 08-08-1980, art. 124&gt;
+
+c)(1,20 p.c. du montant de sa rémunération limitée à (34.500) francs par mois, destiné au régime relatif à l'emploi et au chômage. Cette limite de (34.500) francs est, à partir du (1er janvier 1981), affectée au 1er janvier de chaque année, d'un coefficient de réévaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres ) &lt;L 24-12-1974, art. 2, 2°&gt; &lt;AR 24-12-1980, art. 1, 1° et 3°&gt;
+
+d) (1,80 p.c. du montant de sa rémunération destiné au régime d'assurance obligatoire contre la maladie et l'invalidité (secteur des soins de santé)).&lt;L 20-12-1974, art. 51, 1°&gt;
+
+2° s'il s'agit d'un travailleur intellectuel:
+
+a) (5,75 p.c. du montant de sa rémunération limitée à (34.500) francs par mois, destiné au régime des pensions de retraite et de survie des travailleurs. &lt;AR 24-12-1980, art. 1, 2° et 3°&gt;
+
+Ce taux est porté à 6 p.c. à partir du 1er juillet 1975. Cette limite de (34.500) francs est, à partir du (1er janvier 1981), affectée au 1er janvier de chaque année, d'un coefficient de réévaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres) &lt;L 24-12-1974, art. 2, 3°&gt; &lt;AR 24-12-1980, art. 1, 2° et 3°&gt;
+
+b) (0,70 p.c. du montant de sa rémunération limitée à (34.500) F par mois, destiné au régime d'assurance obligatoire contre la maladie et l'invalidité ( secteur des indemnités). Cette limite de (34.500) F est, à partir du (1er janvier 1980), affectée au 1er janvier de chaque année d'un coefficient de réévaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres). &lt;L 16-07-1974, art. 1, 2°&gt; &lt;L 08-08-1980, art. 124&gt;
+
+c) (1,20 p.c. du montant de sa rémunération, limitée à (34.500) francs par mois, destiné au régime relatif à l'emploi et au chômage. Cette limite de (34.500) francs est, à partir du (1er janvier 1981), affectée au 1er janvier de chaque année, d'un coefficient de réévaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres) &lt;L 24-12-1974, art. 2, 5°&gt; &lt;AR 24-12-1980, art. 1&gt;
+
+d) (1,80 p.c. du montant de sa rémunération destiné au régime d'assurance obligatoire contre la maladie et l'invalidité (secteur des soins de santé) ) &lt;L 20-12-1974, art. 51, 2°&gt;
+
+§2. Quant à la cotisation de l'employeur:
+
+1° Pour l'occupation d'un travailleur manuel:
+
+a (7,50 p.c. du montant de sa rémunération, destinés au régime de pension de retraite et de survie des travailleurs salariés, ce taux est porté à 8 p.c. à partir du 1er juillet 1970) &lt;L 23-12-1969, art. 4, 1°&gt;
+
+b (1,80 p.c. du montant de sa rémunération limitée à (34.500) F par mois destiné au régime d'assurance obligatoire contre la maladie et l'invalidité (secteur des indemnités). Cette limite de (34.500) F est à partir du (1er janvier 1980), affectée au 1er janvier de chaque année d'un coefficient de réevaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres.) &lt;L 16-07-1974, art. 1, 3°&gt; &lt;L 08-08-1980, art. 124&gt;
+
+c (1,70 p.c. du montant de sa rémunération, limitée à (34.500) F par mois, destiné au régime relatif à l'emploi et au chômage. Cette limite de (34.500) F est à partir du (1er janvier 1981), affectée de chaque année d'un coefficient de réevaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres.) &lt;L 24-12-1974, art. 2, 7°&gt; &lt;AR 24-12-1980, art. 1, 1° et 3°&gt;
+
+d (3,75 p.c. du montant de sa rémunération destiné au régime d'assurance obligatoire contre la maladie et l'invalidité (secteur des indemnités)) &lt;L 23-12-1978, art. 51, 3°&gt;
+
+e (7,75 p.c. du montant de sa rémunération destinés au régime des allocations familiales pour travailleurs salariés;) (...) &lt;L 05-01-1976, art. 107, 1°&gt; &lt;ARN131 30-12-1982, art. 11&gt;
+
+f (14,75) p.c.du montant de sa rémunération, destiné au régime des vacances annuelles des travailleurs. &lt;AR 09-03-1977, art. 1&gt;
+
+2° pour l'occupation d'un travailleur intellectuel:
+
+a) (8 p.c. du montant de sa rémunération limitée à (34.500) F par mois, destiné au régime des pensions de retraite et de survie des travailleurs. Cette limite de (34.500) francs est à partir de du (1er janvier 1981), affectée au 1er janvier de chaque année, d'un coefficient de réévaluation; fixé par le Roi par arrêté délibéré en Conseil des Ministres) &lt;L 24-12-1974, art. 2, 9°&gt; &lt;AR 24-12-1980, art. 1, 2° et 3°&gt;
+
+b) (1,80 p.c. du montant de sa rémunération limitée à (34.500) F par mois, destiné au régime d'assurance obligatoire contre la maladie et l'invalidité (secteur des indemnités). Cette limite de (34.500) F est, à partir du (1er janvier (1980) affectée au 1er janvier, de chaque année d'un coefficient de réévaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres) &lt;L 16-07-1974, art. 1, 5°&gt; &lt;L 08-08-1980, art. 124&gt;
+
+c) (1,70 p.c. du montant de sa rémunération, limitée à (34.500) F par mois, destiné au régime relatif à l'emploi et au chômage. Cette limite de (34.500) F est à partir du (1er janvier 1981) affectée au 1er janvier de chaque année d'un coefficient de reevaluation fixé par le Roi par arrêté délibéré en Conseil des Ministres) &lt;L 24-12-1974, art. 2, 11°&gt; &lt;AR 24-12-1980, art. 1, 1° et 3°&gt;
+
+d) (3,75 p.c. du montant de sa rémunération, destiné au régime d'assurance obligatoire contre la maladie et l'invalidité (secteur des soins de santé)) &lt;L 20-12-1974, art. 51, 4°&gt;
+
+e) (7,72 p.c. du montant de sa rémunération destinés au régime des allocations familiales pour travailleurs salariés;) (...) &lt;L 05-01-1976, art. 107, 2°&gt; &lt;ARN131 30-12-1982, art. 11&gt;
+
+La cotisation de l'employeur est calculé e sur l'ensemble des rémunérations payées pour chacune des catégories de travailleurs.
+
+§3. Pour la perception des cotisations dues pour les travailleurs manuels et destinés au régime de pension de retraite et de survie le Roi peut, au plus tôt à partir du 1er janvier 1974, fixer une limite de rémunérations qui est égale à celle en vigueur à ce moment pour les travailleurs intellectuels. Cette limite peut être adaptée annuellement par le Roi en tenant compte de l'évolution des rémunérations réelles.
+
+§4.(Le Roi peut, par arrêté délibéré en Conseil des Ministres et après avis du Conseil national du travail, unifier les limites de 16.375 F et 27.075 F, fixées aux articles 15 et 17, en portant la premìere de ces limites au montant de la deuxième.
+
+Lorsque le Roi fait usage de ce pouvoir, il peut par le même arrêté réduire le taux des cotisations dans le calcul desquelles intervient la limite ainsi majorée.) &lt;L 24-12-1974, art. 2, 13°&gt;
+
+(§ 5. Le Roi peut, par arrêté délibéré en Conseil des ministres, dispenser les employeurs des secteurs qui occupent des travailleurs occasionnels au sens des arrêtés pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, soumis à l'ensemble des régimes visés à l'article 21, § 1er, de la loi du 29 juin 1981 et pour les catégories de travailleurs qu'Il détermine, du versement total ou partiel d'une ou plusieurs cotisations visées au § 2, 1°, de cet article.) &lt;L 2007-04-27/35, art. 43, 031; En vigueur : 01-04-2007&gt;
+
+##### Art. 18
+
+Pour la détermination du montant des cotisations, les fractions de franc qui n'atteignent pas cinquante centimes sont négligées.
+
+Les fractions de franc atteignant ou dépassant cinquante centimes sont comptées pour un franc.
+
+L'arrondissement au franc supérieur ou inférieur se fait sur le total du montant à verser.
+
+### Section 2. - Répartition.
+
+##### Art. 19
+
+[<sup>1</sup> L'Office national de sécurité sociale transfère au Service fédéral des Pensions, après perception des frais d'administration [<sup>2</sup> ...]<sup>2</sup> les cotisations perçues en application de l'article 5/2, § 1er. Le Service fédéral des Pensions transfère aux institutions de prévoyance les fonds qui sont destinés au paiement des pensions à charge du Fonds de pension solidarisé des administrations provinciales et locales et qui sont gérées par celles-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-07-10/03, art. 18, 062; En vigueur : 01-01-2017&gt;
+
+(2)&lt;L 2016-12-25/48, art. 6, 063; En vigueur : 01-01-2017&gt;
+
+##### Art. 20
+
+&lt;Abrogé par L 2016-12-25/48, art. 7, 063; En vigueur : 01-01-2017&gt;
+
+## CHAPITRE IV. - Perception et recouvrement des cotisations.
+
+### Section Ier. - Déclaration et paiement.
+
+##### Art. 21
+
+&lt;L 2003-02-24/35, art. 5, 021; En vigueur : 01-01-2003&gt; Tout employeur assujetti est tenu de se faire immatriculer à l'Office national de sécurité sociale et de faire parvenir à ce dernier une déclaration justificative du montant des cotisations dues.
+
+Cette déclaration est faite au moyen d'un procédé électronique approuvé par l'Office.
+
+La déclaration, dûment signée et complétée par les renseignements demandés, doit parvenir à l'Office dans le délai fixé par arrêté royal.
+
+##### Art. 21/1.
+
+[<sup>1</sup> Les employeurs qui occupent des travailleurs flexi-jobs, visés à l'article 3,3° de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale doivent déclarer auprès de l'Office national de sécurité sociale, le flexisalaire et les données concernant les prestations, visés à l'article 3, 2°, de la même loi, au moyen d'un procédé électronique approuvé par l'Office, dans un délai déterminé par le Roi.
+
+Les données visées au paragraphe 1er sont les mêmes données que celles communiquées en vertu de l'article 21 de la présente loi pour les travailleurs flexi-job visés à l'article 3,3° de la loi du 16 novembre 2015.
+
+Les données devront être transmises par l'employeur au plus tard le 5e jour qui suit le calcul des salaires et l'établissement des fiches de salaire afin de permettre à l'Office national de sécurité sociale d'informer les travailleurs en temps utile du dépassement éventuel du plafond fiscal visé à l'article 38, § 1er, alinéa 1er, 29°, du Code des impôts sur les revenus 1992.
+
+Les données sont traitées par l'Office national de sécurité sociale et sont accessibles aux mêmes personnes que les données visées à l'article 21 de la présente loi.
+
+Les données sont conservées durant la même période que les données visées à l'article 21 de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-22/06, art. 189, 090; En vigueur : 01-01-2024&gt;
+
+##### Art. 21/2 DROIT FUTUR.
+
+[<sup>1</sup> Sans préjudice de la déclaration trimestrielle prévue à l'article 21, tout employeur peut, à partir du 1er janvier 2027, en tout état de cause au moins une fois par mois et au plus tard le quatorzième jour civil suivant le mois auquel le transfert des données se rapporte, transmettre les données salariales et de prestations prévues par la loi nécessaires à l'application de la sécurité sociale à l'Office national de sécurité sociale au moyen d'un procédé électronique approuvé par l'Office.
+
+A partir du 1er janvier 2028, le transfert des données visé à l'alinéa 1er, est obligatoire pour tous les employeurs.
+
+Le Roi peut également fixer les conditions et les modalités relatives au transfert des données visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/01, art. 115, 094; En vigueur : 01-01-2027&gt;
+
+##### Art. 21/3.
+
+[<sup>1</sup> L'agrégation, au niveau de la personne physique, des données salariales et de prestations obtenues de l'employeur et nécessaires à l'application de la sécurité sociale, est effectuée par l'Office national de sécurité sociale.
+
+L'agrégation des données, au niveau de la personne physique, avec des données autres que celles visées à l'alinéa 1er qui sont nécessaires à l'application de la sécurité sociale, est effectuée conjointement par les institutions publiques de sécurité sociale qui, conformément à la répartition fonctionnelle visée à l'article 9 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, sont chargées de la conservation des données concernées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/01, art. 116, 094; En vigueur : 11-06-2026&gt;
+
+##### Art. 21bis
+
+&lt;Inséré par L 1999-01-25/32, art. 63; En vigueur : 16-02-1999&gt; L'employeur qui perd cette qualité parce qu'il cesse, pendant au moins un trimestre civil, d'occuper du personnel assujetti doit en informer l'Office national de Sécurité sociale dans les délais fixés par le Roi.
+
+##### Art. 22
+
+En l'absence de déclaration (trimestrielle) ou en cas de déclaration incomplète ou inexacte, l'Office national de sécurité sociale établit d'office le montant des cotisations dues, soit sur base de tous éléments déjà en sa possession, soit après avoir recueilli auprès de l'employeur, (ou du curateur) qui est tenu de les lui fournir, tous les renseignements qu'il juge utiles à cette fin. &lt;L 2008-12-22/32, art. 70 et 92, 1°, 038; En vigueur : 01-01-2009&gt;
+
+[<sup>3</sup> En cas de condamnation sur base de l'article 107/1/1 du Code pénal social, le montant correspondant à l'avantage retiré visé à l'article 107/1/1 précité est perçu conformément aux dispositions de la présente loi.]<sup>3</sup>
+
+Le montant de la créance établie est notifié à l'employeur (ou au curateur) par lettre recommandée. &lt;L 2008-12-22/32, art. 92, 2°, 038; En vigueur : 01-01-2009&gt;
+
+(L'Office national peut aussi faire établir d'office la déclaration requise, par les fonctionnaires visés à l'article 31, aux frais de l'employeur ou de son mandataire en défaut (ou aux frais du curateur en défaut). &lt;L 2008-12-22/32, art. 92, 3°, 038; En vigueur : 01-01-2009&gt;
+
+L'Office peut également faire établir d'office, par les fonctionnaires visés à l'article 31 ou par les services intérieurs de l'Office, aux frais de l'employeur ou de son mandataire en défaut ( ou aux frais du curateur en défaut), les rectifications de déclarations inexactes ou incomplètes. &lt;L 2008-12-22/32, art. 92, 4°, 038; En vigueur : 01-01-2009&gt;
+
+Le Roi peut déterminer la procédure préalable à suivre par l'Office avant d'appliquer la sanction prévue aux alinéas 3 et 4. Il détermine également le mode de calcul des frais visés aux alinéas précédents.) &lt;L 2004-12-27/30, art. 4, 024; En vigueur : 01-01-2005&gt;
+
+(Les frais d'établissement de la déclaration à charge du curateur constituent une dette de la masse.) &lt;L 2008-12-22/32, art. 92, 5°, 038; En vigueur : 01-01-2009&gt;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-07-10/03, art. 19, 062; En vigueur : 01-01-2017&gt;
+
+(2)&lt;L 2022-02-28/04, art. 24, 081; En vigueur : 01-01-2022&gt;
+
+(3)&lt;L 2026-05-30/01, art. 135, 094; En vigueur : 01-07-2026&gt;
+
+##### Art. 22bis
+
+&lt;L 04-08-1978, art. 60&gt; Lorsque aucune donnée sur les rémunérations n'est connue, l'Office national précité se basera sur les rémunérations minimum fixées pour chaque branche d'industrie ou catégorie de travailleurs par voie de convention collective de travail.
+
+(Lorsqu'il est impossible de déterminer le montant des cotisations dont l'employeur est débiteur, que ce soit en totalité ou individuellement par travailleur, celui-ci est établi globalement par l'Office national de sécurité sociale sur base de tous les renseignements recueillis par les fonctionnaires et agents chargés de la surveillance de l'exécution de la présente loi et de ses arrêtés d'exécution et ce même lorsque l'identité ou le nombre exact des travailleurs occupés n'est pas connu.
+
+Le montant de la créance ainsi établie est notifié à l'employeur par lettre recommandée.
+
+Le Roi détermine l'affectation des sommes percues globalement.) &lt;L 1989-07-06/30, art. 19, 003; En vigueur : 01-04-1990&gt;
+
+##### Art. 22ter
+
+[<sup>1</sup> A défaut d'inscription dans les documents visés aux articles 160, 162, 163 et 165 de la loi-programme du 22 décembre 1989 ou d'utilisation des appareils visés à l'article 164 de la même loi, les travailleurs à temps partiel sont présumés, sauf preuve du contraire, avoir effectué leurs prestations dans le cadre d'un contrat de travail en qualité de travailleur à temps plein.
+
+A défaut de publicité des horaires de travail à temps partiel visée aux articles 157 à 159 de la même loi, les travailleurs à temps partiel sont présumés, sauf preuve du contraire, avoir effectué leurs prestations dans le cadre d'un contrat de travail en qualité de travailleur à temps plein.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-03-29/08, art. 79, 044; En vigueur : 16-04-2012&gt;
+
+##### Art. 22quater
+
+&lt;inséré par L 2008-12-22/32, art. 71; En vigueur : 01-01-2009&gt; [<sup>1</sup> Lorsqu'un contrôleur, un inspecteur social ou un officier de police judiciaire]<sup>1</sup> constate qu'un employeur a omis d'effectuer la déclaration immédiate de l'emploi visée à l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, pour un travailleur déterminé, il en informe l'Office national de Sécurité sociale, suivant les modalités déterminées par l'Office.
+
+Sur cette base, l'Office national de sécurité sociale établit d'office, sous forme d'une rectification, le montant d'une cotisation de solidarité calculée sur une base forfaitaire égale au triple des cotisations de base, sur le revenu minimum mensuel moyen visé par l'article 3, alinéa 1er, de la convention collective de travail n° 43 du 2 mai 1988 portant modification et coordination des conventions collectives de travail n° 21 du 15 mai 1975 et n° 23 du 25 juillet 1975 relatives à la garantie d'un revenu minimum mensuel moyen.
+
+Le montant ainsi calculé ne peut être inférieur à 2 500 euros. Le montant en question est rattaché à l'indice santé du mois de septembre 2008 (111,15).
+
+Par dérogation à l'alinéa 2, l'employeur qui invoque l'impossibilité matérielle d'effectuer des prestations de travail à temps plein, doit fournir les éléments permettant d'établir la réalité des prestations du travailleur. Le montant de la cotisation de solidarité est alors réduit à due proportion.
+
+Le montant de la cotisation de solidarité est diminué des cotisations dues pour les prestations effectivement déclarées pour le travailleur concerné.
+
+Ce montant est à imputer sur le trimestre durant lequel les prestations du travailleur ont été constatées.
+
+Le montant de la créance ainsi établie est notifié à l'employeur par lettre recommandée.
+
+----------
+
+(1)&lt;L 2009-12-23/04, art. 63, 039; En vigueur : 01-01-2010&gt;
+
+##### Art. 23
+
+§ 1er. La cotisation du travailleur est retenue à chaque paie par l'employeur.
+
+Celui-ci est débiteur envers l'Office national de sécurité sociale de cette cotisation comme de la sienne propre.
+
+§ 2. L'employeur doit, dans les délais fixés par le Roi, transmettre ces cotisations trimestriellement audit Office, sous réserve de ce qui est prévu au § 3. (Le Roi peut, de la manière qu'Il détermine, imposer aux employeurs ou à certaines catégories d'employeurs l'obligation de verser, avant l'échéance trimestrielle, à titre de provision, une partie des cotisations dues. Les modalités de calcul de l'avance peuvent différer selon la catégorie à laquelle les employeurs appartiennent ou selon leur activité.) &lt;L 1989-07-06/30, art. 20, 003; En vigueur : 01-04-1990&gt;
+
+§ 3. (Une part de (8,75) p.c. comprise dans la cotisation de 14,75 p.c. visée au littéra f du 1° du § 2 de l'article 17, n'est versée qu'annuellement à la date fixée par le Roi. &lt;AR 09-03-1977, art. 23&gt;
+
+Toutefois, le Roi peut inscrire le versement trimestriel de tout ou partie de cette part:
+
+a) pour l'ensemble des employeurs après avis du Conseil National du travail;
+
+b) pour les secteurs d'activité déterminés sur proposition des commissions paritaires intéressées.) &lt;L 26-03-1970, art. 23&gt;
+
+##### Art. 24
+
+Le mode de paiement à utiliser par les employeurs pour l'exécution de leur obligations à l'égard de l'Office national de sécurité sociale est déterminé par arrêté royal.
+
+##### Art. 25
+
+En l'absence d'imputation faite par écrit, au moment du paiement, par le débiteur de plusieurs dettes, le paiement est imputé sur la dette la plus ancienne. L'employeur ne peut en aucun cas affecter son paiement à un régime déterminé.
+
+##### Art. 26
+
+L'employeur ne peut récupérer à charge du travailleur le montant de la cotisation de celui-ci, dont il aurait omis d'effectuer la retenue en temps utile.
+
+L'employeur est tenu de réparer le préjudice subi par le travailleur à la suite de l'omission ou du retard dans le transfert des cotisations.
+
+##### Art. 27
+
+[<sup>1</sup> § 1er. Les secrétariats sociaux agréés sont des prestataires de services sociaux, tels que visés à l'article 31ter, § 2, 1°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés et qui, en vertu d'un agrément, perçoivent les cotisations sociales de leurs employeurs affiliés en vue de leur versement aux institutions chargées de la perception des cotisations de sécurité sociale.
+
+§ 2. Le Roi fixe les conditions dans lesquelles le Ministre qui a les Affaires sociales dans ses attributions peut agréer des secrétariats sociaux d'employeurs appelés à accomplir en qualité de mandataires de leurs affiliés les formalités prescrites par le présente loi. Il détermine leurs droits et obligations.
+
+Le Roi peut, par un arrêté délibéré en Conseil des Ministres, accorder aux catégories d'employeurs qu'Il détermine une intervention financière dans les frais d'affiliation à un secrétariat social agréé, dont Il fixe le montant, les conditions et les règles spécifiques d'octroi.
+
+Les réviseurs d'entreprise des secrétariats sociaux font rapport par écrit au Ministre qui a les Affaires sociales dans ses attributions et à l'Office national de Sécurité sociale endéans les soixante jours de l'approbation statutaire du rapport annuel, sur l'accomplissement de leur mission et plus particulièrement à propos du plan comptable fixé par le Roi.
+
+L'usage de la dénomination " secrétariat social " est exclusivement réservé aux mandataires qui, conformément aux dispositions fixées par le Roi, sont agréés comme secrétariat social.
+
+L'agréation confère au secrétariat social le droit exclusif de percevoir les cotisations dues par les employeurs affiliés, et ce uniquement de manière scripturale, et de les verser à l'Office national de Sécurité sociale.
+
+A défaut de cette agréation spécifique, il est interdit à un prestataire de services sociaux, tel que visé à l'article 31ter, § 2, 1°, de la loi précitée du 29 juin 1981 de procéder à la perception de cotisations.
+
+§ 3. L'agréation comme secrétariat social peut être retirée par le Ministre qui a les Affaires sociales dans ses attributions, sur la base d'un rapport [<sup>3</sup> ...]<sup>3</sup> et de l'Inspection de l'Office national de Sécurité sociale et après avis du Comité de gestion de l'Office précité qui entend les responsables du secrétariat social. Ceux-ci peuvent aussi faire valoir leurs moyens par écrit.
+
+La décision de retrait peut, entre autres, être basée sur les éléments suivants :
+
+1° le fait que, sciemment, le secrétariat social enfreint la législation sociale ou aide à l'enfreindre;
+
+2° le constat que le nombre des employeurs affiliés ou des travailleurs qu'ils occupent au cours d'une période ininterrompue de quatre trimestres est inférieur aux minima fixés par le Roi dans les conditions d'agréation;
+
+3° un manquement de qualité manifeste et persistant qui apparaît des résultats du baromètre de qualité, tel que visé à l'article 27bis.
+
+Le rapport de l'inspection visé dans le premier alinéa comprend entre autres un avis motivé [<sup>3</sup> du service mentionné]<sup>3</sup> au sujet du retrait de l'agréation.]<sup>1</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 51, 040; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2016-07-10/03, art. 20, 062; En vigueur : 01-01-2017&gt;
+
+(3)&lt;L 2017-09-30/01, art. 14, 066; En vigueur : 01-07-2017&gt;
+
+(4)&lt;L 2022-02-28/04, art. 25, 081; En vigueur : 01-01-2022&gt;
+
+##### Art. 27bis
+
+[<sup>1</sup> Le Roi peut, sur avis du Comité de gestion de l'Office précité, élaborer, par un arrêté délibéré en Conseil des Ministres, un baromètre de qualité pour les secrétariats sociaux agréés. Celui-ci constitue un instrument destiné à améliorer la qualité du traitement des données et l'échange des données avec les institutions de sécurité sociale, nécessaires à la bonne gestion de la sécurité sociale, et doit permettre aux secrétariats sociaux agréés de disposer d'un outil leur permettant d'évaluer objectivement leurs performances dans les différents domaines qui font l'objet des contrôles partiels composant le baromètre et les aider à améliorer celles-ci pour autant que de besoin.
+
+Dans le but d'objectiver le fonctionnement correct des secrétariats sociaux agréés, le baromètre se compose des types de contrôles partiels suivants :
+
+\- contrôles silencieux
+
+\- contrôles techniques
+
+\- contrôles financiers
+
+\- contrôles par le système d'anomalies prioritaires présentes dans la DmfA
+
+\- contrôles par le système d'anomalies non-prioritaires présentes dans la DmfA
+
+\- contrôles croisés.
+
+Le Roi peut, par un arrêté délibéré en Conseil des Ministres, déterminer le contenu concret des contrôles partiels. L'élaboration technique des contrôles est définie par les institutions compétentes pour la perception des cotisations.
+
+Le Roi définit, par un arrêté délibéré en Conseil des Ministres, une procédure suivant laquelle les résultats sont communiqués au secrétariat social et au Comité de gestion de l'Office précité et détermine les suites qui doivent y être données.
+
+Le Roi peut, par un arrêté délibéré en Conseil des Ministres, également appliquer totalement ou partiellement le baromètre aux prestataires de services sociaux, tels que visés à l'article 31ter, § 2, 1°, de la loi précitée du 29 juin 1981, à l'exception du contrôle partiel 3° contrôles financiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 52, 040; En vigueur : 20-02-2017 (AR 2017-02-02/12, art. 10)&gt;
+
+### Section 2. - Sanctions civiles.
+
+##### Art. 28
+
+&lt;L 2005-12-27/30, art. 81, 026; En vigueur : 09-01-2006&gt; § 1er. L'employeur qui ne verse pas les cotisations dans les délais fixés par le Roi est redevable envers l'organisme percepteur des cotisations de sécurité sociale d'une majoration de cotisation et (d'un intérêt de retard fixé à 7 p.c. dont les conditions d'application sont fixées par arrêté royal). &lt;L 2008-06-08/30, art. 43, 1°, 035; En vigueur : 01-01-2009&gt;
+
+La majoration de cotisation ne peut toutefois être supérieure à 10 p.c. des cotisations dues (...). &lt;L 2008-06-08/30, art. 43, 2°, 035; En vigueur : 01-01-2009&gt;
+
+§ 2. L'employeur qui ne verse pas les provisions de cotisations dans les délais fixés par le Roi est redevable envers l'organisme percepteur des cotisations de sécurité sociale d'une indemnité forfaitaire dont le montant et les conditions d'application sont fixés par arrêté royal.
+
+§ 3. Le Roi détermine également les conditions dans lesquelles l'organisme percepteur des cotisations de sécurité sociale peut accorder à l'employeur l'exonération ou la réduction de l'indemnité forfaitaire, de la majoration des cotisations et des intérêts de retard, pour autant que l'employeur ne se trouve pas dans une des situations décrites à l'article 38, § 3octies, alinéa 1er, de la loi précitée du 29 juin 1981.
+
+[<sup>1</sup> Le recours contre cette décision de l'organisme percepteur des cotisations de sécurité sociale concernant l'exonération ou la réduction doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-07-20/13, art. 3, 058; En vigueur : 01-09-2015; voir aussi L 2015-07-20/13, art. 9&gt;
+
+##### Art. 29
+
+&lt;L 2005-12-27/30, art. 82, 026; En vigueur : 09-01-2006&gt; L'employeur (ou le curateur) qui ne fait pas parvenir la déclaration visée à l'article 21 dans les délais réglementaires, ou qui fait parvenir une déclaration incomplète ou inexacte, est redevable à l'organisme percepteur des cotisations de sécurité sociale d'une indemnité dont le montant et les conditions d'application sont fixés par arrêté royal. &lt;L 2008-12-22/32, art. 93, 1°, 038; En vigueur : 01-01-2009&gt;
+
+Le Roi détermine également les conditions dans lesquelles l'organisme percepteur des cotisations de sécurité sociale peut accorder à l'employeur (ou le curateur) l'exonération ou la réduction de l'indemnité forfaitaire visée à l'alinéa 1er, pour autant que l'employeur (ou le curateur) ne se trouve pas dans une des situations décrites à l'article 38, § 3octies, alinéa 1er, de la loi précitée du 29 juin 1981. &lt;L 2008-12-22/32, art. 93, 2°, 038; En vigueur : 01-01-2009&gt;
+
+[<sup>1</sup> Le recours contre cette décision d'exonération ou la réduction de l'organisme percepteur des cotisations de sécurité sociale doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-07-20/13, art. 4, 058; En vigueur : 01-09-2015; voir aussi L 2015-07-20/13, art. 9&gt;
+
+##### Art. 29 DROIT FUTUR.
+
+&lt;L 2005-12-27/30, art. 82, 026; En vigueur : 09-01-2006&gt; L'employeur (ou le curateur) qui ne fait pas parvenir la déclaration visée [<sup>2</sup> aux articles 21, 21/1 et 21/2]<sup>2</sup> dans les délais réglementaires, ou qui fait parvenir une déclaration incomplète ou inexacte, est redevable à l'organisme percepteur des cotisations de sécurité sociale d'une indemnité dont le montant et les conditions d'application sont fixés par arrêté royal. &lt;L 2008-12-22/32, art. 93, 1°, 038; En vigueur : 01-01-2009&gt;
+
+Le Roi détermine également les conditions dans lesquelles l'organisme percepteur des cotisations de sécurité sociale peut accorder à l'employeur (ou le curateur) l'exonération ou la réduction de l'indemnité forfaitaire visée à l'alinéa 1er, pour autant que l'employeur (ou le curateur) ne se trouve pas dans une des situations décrites à l'article 38, § 3octies, alinéa 1er, de la loi précitée du 29 juin 1981. &lt;L 2008-12-22/32, art. 93, 2°, 038; En vigueur : 01-01-2009&gt;
+
+[<sup>1</sup> Le recours contre cette décision d'exonération ou la réduction de l'organisme percepteur des cotisations de sécurité sociale doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-07-20/13, art. 4, 058; En vigueur : 01-09-2015; voir aussi L 2015-07-20/13, art. 9&gt;
+
+(2)&lt;L 2026-05-30/01, art. 117, 094; En vigueur : 01-01-2028&gt;
+
+##### Art. 29bis
+
+&lt;Abrogé par L 2015-07-20/13, art. 5, 058; En vigueur : 01-09-2015&gt;
+
+##### Art. 30
+
+&lt;L 1999-01-25/32, art. 66, 016; En vigueur : 16-02-1999&gt; Indépendamment de l'indemnité forfaitaire prévue à l'article 28, § 1erbis, de l'indemnité forfaitaire prévue [<sup>1</sup> à l'article 29]<sup>1</sup>, ainsi que des majorations de cotisations et intérêts de retard prévus à l'article 28, § 1er, alinéa 1er, les mandataires des employeurs qui ne remplissent pas les obligations qui leur incombent en lieu et place de leurs mandants ou qui ne se conforment pas aux dispositions des arrêtés pris en exécution de la présente loi, sont redevables envers l'Office national de Sécurité sociale d'une indemnité forfaitaire dont le montant et les conditions d'application sont fixés par arrêté royal.
+
+(Le Roi détermine également les conditions dans lesquelles l'Office national de sécurité sociale peut accorder au mandataire de l'employeur l'exonération ou la réduction de l'indemnité forfaitaire visée à l'alinéa 1er.) &lt;L 2003-12-22/42, art. 243, 022; En vigueur : 01-01-2004&gt;
+
+[<sup>1</sup> Le recours contre cette décision de l'Office national de Sécurité sociale concernant l'exonération ou la réduction doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-07-20/13, art. 6, 058; En vigueur : 01-09-2015; voir aussi L 2015-07-20/13, art. 9&gt;
+
+##### Art. 30 DROIT FUTUR.
+
+&lt;L 1999-01-25/32, art. 66, 016; En vigueur : 16-02-1999&gt; Indépendamment de l'indemnité forfaitaire prévue [<sup>2</sup> à l'article 28, § 2]<sup>2</sup>, de l'indemnité forfaitaire prévue [<sup>1</sup> à l'article 29]<sup>1</sup>, ainsi que des majorations de cotisations et intérêts de retard prévus à l'article 28, § 1er, alinéa 1er, les mandataires des employeurs qui ne remplissent pas les obligations qui leur incombent en lieu et place de leurs mandants ou qui ne se conforment pas aux dispositions des arrêtés pris en exécution de la présente loi, sont redevables envers l'Office national de Sécurité sociale d'une indemnité forfaitaire dont le montant et les conditions d'application sont fixés par arrêté royal.
+
+(Le Roi détermine également les conditions dans lesquelles l'Office national de sécurité sociale peut accorder au mandataire de l'employeur l'exonération ou la réduction de l'indemnité forfaitaire visée à l'alinéa 1er.) &lt;L 2003-12-22/42, art. 243, 022; En vigueur : 01-01-2004&gt;
+
+[<sup>1</sup> Le recours contre cette décision de l'Office national de Sécurité sociale concernant l'exonération ou la réduction doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-07-20/13, art. 6, 058; En vigueur : 01-09-2015; voir aussi L 2015-07-20/13, art. 9&gt;
+
+(2)&lt;L 2026-05-30/01, art. 118, 094; En vigueur : 01-01-2027&gt;
+
+### Section 2bis. - &lt;L 04-08-1978, art. 61&gt; Paiement par un responsable solidaire.
+
+##### Art. 30bis
+
+&lt;L 2007-04-27/35, art. 55, 031; En vigueur : 01-01-2008&gt; § 1er. Pour l'application du présent article, il faut entendre par :
+
+1° [<sup>7</sup> travaux :
+
+a) les activités visées à l'article 20, § 2, de l'arrêté royal n° 1 du 29 décembre 1992 relatif aux mesures tendant à assurer le paiement de la taxe sur la [<sup>11</sup> valeur ajoutée et la livraison du béton prêt à l'emploi visée à l'article 1er, a, alinéa 4, vingt-huitième tiret, de l'arrêté royal du 4 mars 1975 instituant la Commission paritaire de la construction et fixant sa dénomination et sa compétence et en fixant le nombre de membres, à l'exclusion des activités suivantes :
+
+1\) culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses;
+
+2\) culture du riz;
+
+3\) culture de légumes, de melons, de racines et de tubercules;
+
+4\) culture de la canne à sucre;
+
+5\) culture du tabac;
+
+6\) culture de plantes à fibres;
+
+7\) culture de fleurs;
+
+8\) autres cultures non permanentes;
+
+9\) culture de la vigne;
+
+10\) culture de fruits tropicaux et subtropicaux;
+
+11\) culture d'agrumes;
+
+12\) culture de fruits à pépins et à noyau;
+
+13\) culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque;
+
+14\) culture de fruits oléagineux;
+
+15\) culture de plantes destinées à la production de boissons;
+
+16\) culture de plantes à épices, aromatiques, médicinales et pharmaceutiques;
+
+17\) autres cultures permanentes;
+
+18\) exploitation de pépinières, sauf pépinières forestières;
+
+19\) autre reproduction de plantes;
+
+20\) activités de soutien aux cultures;
+
+21\) préparation des terres;
+
+22\) création de cultures;
+
+23\) pulvérisation des récoltes, y compris par voie aérienne;
+
+24\) taille des arbres fruitiers et des vignes;
+
+25\) transplantation du riz et démariage des betteraves;
+
+26\) location de machines et d'équipements agricoles avec opérateur;
+
+27\) lutte contre les animaux nuisibles (y compris les lapins) en relation avec l'agriculture;
+
+28\) exploitation de systèmes d'irrigation pour l'agriculture;
+
+29\) sylviculture et autres activités forestières;
+
+30\) exploitation forestière;
+
+31\) récolte de produits forestiers non ligneux poussant à l'état sauvage;
+
+32\) services de soutien à l'exploitation forestière;
+
+33\) services d'aménagement paysager;]<sup>11</sup>
+
+b) en outre, pour l'application des §§ 7 à 9, les autres travaux qui doivent faire l'objet d'une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;]<sup>7</sup>
+
+2° [<sup>9</sup> donneur d'ordre]<sup>9</sup> : quiconque donne ordre d'exécuter ou de faire exécuter des travaux pour un prix;
+
+3° entrepreneur :
+
+\- quiconque s'engage, pour un prix, à exécuter ou à faire exécuter des travaux pour un [<sup>9</sup> donneur d'ordre]<sup>9</sup>;
+
+\- chaque sous-traitant par rapport aux sous-traitants suivants;
+
+4° sous-traitant : quiconque s'engage, soit directement, soit indirectement, à quelque stade que ce soit, à exécuter ou à faire exécuter pour un prix, le travail ou une partie du travail confié à l'entrepreneur ou à mettre des travailleurs à disposition à cet effet;
+
+5° [<sup>4</sup> ...]<sup>4</sup>
+
+§ 2. [<sup>4</sup> ...]<sup>4</sup>
+
+§ 3. Le [<sup>9</sup> donneur d'ordre]<sup>9</sup> qui, pour les travaux visés au § 1er, fait appel à un entrepreneur qui a des dettes sociales au moment de la conclusion de la convention, est solidairement responsable du paiement des dettes sociales de son cocontractant.
+
+L'entrepreneur qui, pour les travaux visés au § 1er, fait appel à un sous-traitant qui a des dettes sociales au moment de la conclusion de la convention, est solidairement responsable du paiement des dettes sociales de son cocontractant.
+
+Les articles 1200 à 1216 du Code civil sont applicables à la responsabilité solidaire visée aux alinéas précédents.
+
+La responsabilité solidaire est limitée au prix total des travaux, non compris la taxe sur la valeur ajoutée, concédés à l'entrepreneur, ou au sous-traitant.
+
+L'entrepreneur [<sup>8</sup> ou le donneur d'ordre]<sup>8</sup> sans personnel qui voit sa responsabilité solidaire engagée en application des §§ 3 et 4 est assimile à un employeur débiteur et est renseigné comme tel dans la banque de données accessible au public visée au § 4, alinéa 6, s'il ne s'acquitte pas des sommes réclamées dans les trente jours de l'envoi d'une mise en demeure recommandée.
+
+L'entrepreneur [<sup>8</sup> ou le donneur d'ordre]<sup>8</sup> identifié à l'Office national de sécurité sociale en qualité d'employeur qui n'a pas de dettes sociales propres et qui voit sa responsabilité solidaire engagée en application des §§ 3 et 4 est renseigné comme débiteur dans la banque de données accessible au public visée au § 4, alinéa 6, s'il ne s'acquitte pas des sommes réclamées dans les trente jours de l'envoi d'une mise en demeure recommandée.
+
+On entend par dettes sociales propres, [<sup>9</sup> les sommes]<sup>9</sup> qu'un employeur est susceptible de devoir à l'Office national de sécurité sociale [<sup>9</sup> ou à un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence]<sup>9</sup> en sa qualité d'employeur. [<sup>11</sup> Est considéré comme étant débiteur auprès de l'Office national de sécurité sociale, l'employeur qui n'a pas transmis à l'Office national de sécurité sociale toutes les déclarations requises jusque et y compris celles relatives à l'avant-dernier trimestre écoulé. Est considéré comme étant débiteur auprès du Fonds de sécurité d'existence, l'employeur pour lequel toutes les données des travailleurs jusque et y compris l'avant dernier trimestre écoulé ne sont pas à disposition du Fonds de sécurité d'existence.]<sup>11</sup> Le Roi en établit la liste. [<sup>9</sup> Il peut déterminer un montant en cotisations, majorations, indemnités forfaitaires, intérêts de retard ou frais judiciaires en deçà duquel l'employeur n'est pas considéré comme débiteur. De même, Il précise quelles sont les données qui doivent être en possession de l'Office national de Sécurité sociale et/ou du Fonds de sécurité d'existence pour apprécier l'existence de la dette en question.]<sup>9</sup>
+
+Sont aussi considérées comme dettes sociales, les sommes réclamées au titre de la responsabilité solidaire dans les situations visées aux alinéas 5 et 6.
+
+[<sup>10</sup> ...]<sup>10</sup>
+
+La responsabilité solidaire visée au présent paragraphe s'étend également aux dettes sociales des associés d'une société momentanée, d'une société interne ou d'une société de droit commun, qui agit comme entrepreneur ou sous-traitant.
+
+La responsabilité solidaire visée au présent paragraphe s'applique également aux dettes sociales de l'entrepreneur ou du sous-traitant qui prennent naissance en cours d'exécution de la convention.
+
+La responsabilité solidaire dans le chef du [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou de l'entrepreneur visée au présent paragraphe est limitée à 65 p.c. lorsque la responsabilité solidaire visée [<sup>12</sup> à l'article 54, § 4, du Code du recouvrement amiable et forcé des créances fiscales et non fiscales]<sup>12</sup> a été appliquée dans le chef du même [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou entrepreneur.
+
+[<sup>11</sup> § 3/1. Pour l'application du paragraphe 3, alinéa 7, est considéré comme n'étant pas débiteur auprès de l'Office national de sécurité sociale, l'employeur qui :
+
+\- a transmis à l'Office précité toutes les déclarations requises jusque et y compris celles relatives à l'avant-dernier trimestre écoulé;
+
+\- n'est pas redevable de plus de 2500,00 EUR en cotisations, majorations, indemnités forfaitaires, intérêts de retard ou frais judiciaires;
+
+\- par dérogation au tiret qui précède, pour l'employeur ressortissant à la commission paritaire de la construction, avoir payé les provisions visées à l'article 34bis de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+Est considéré, pour l'application de cette même disposition, comme n'étant pas débiteur auprès d'un Fonds de sécurité d'existence, l'employeur :
+
+\- qui ressortit à la commission paritaire de la construction (CP 124);
+
+\- pour lequel toutes les données relatives aux rémunérations brutes des travailleurs jusque et y compris l'avant dernier trimestre écoulé sont à disposition de l'Office patronal d'organisation et de contrôle des régimes de sécurité d'existence (OPOC) soit du fait même que ces données sont à disposition via la Banque-carrefour de la sécurité sociale après qu'elles aient été transmises par l'employeur à l'O.N.S.S. via sa déclaration multifonctionnelle et validées par celui-ci, soit du fait que l'employeur, non soumis à la déclaration multifonctionnelle, ait transmis à l'OPOC les déclarations exigées;
+
+\- qui n'est pas redevable de plus de 70,00 EUR de cotisations dues dans le régime des timbres fidélité et intempéries.]<sup>11</sup>
+
+[<sup>5</sup> [<sup>11</sup> § 3/2.]<sup>11</sup> Lorsque le paiement des sommes réclamées auprès d'un sous-traitant en application de la responsabilité solidaire visée au § 3, alinéa 1er et 2, n'a pas ou pas totalement été effectué, [<sup>8</sup> le donneur d'ordre,]<sup>8</sup> l'entrepreneur visé au § 7, alinéa 1er, ainsi que chaque sous-traitant intervenant sont solidairement responsables de celui-ci.
+
+La responsabilité solidaire s'exerce d'abord dans le chef de l'entrepreneur qui a fait appel au sous-traitant qui n'a pas ou pas totalement payé les sommes exigées de lui en application du § 3, alinéas 1er et 2.
+
+Elle s'exerce ensuite successivement, à l'égard des entrepreneurs intervenant à un stade précédent [<sup>8</sup> et en dernier lieu à l'égard du donneur d'ordre]<sup>8</sup>, lorsque l'entrepreneur visé à l'alinéa précédent s'est abstenu d'acquitter les sommes qui lui sont réclamées, dans les trente jours [<sup>6</sup> de l'envoi d'une mise en demeure recommandée]<sup>6</sup>.]<sup>5</sup>
+
+§ 4. Le [<sup>9</sup> donneur d'ordre]<sup>9</sup> qui effectue le paiement de tout ou partie du prix des travaux visés au § 1er, à un entrepreneur qui, au moment du paiement, a des dettes sociales, est tenu, lors du paiement, de retenir et de verser 35 p.c. du montant dont il est redevable, non compris la taxe sur la valeur ajoutée, à l'Office national précité, selon les modalités déterminées par le Roi.
+
+L'entrepreneur qui effectue le paiement de tout ou partie du prix des travaux visés au § 1er, à un sous-traitant qui, au moment du paiement, a des dettes sociales, est tenu, lors du paiement, de retenir et de verser 35 p.c. du montant dont il est redevable, non compris la taxe sur la valeur ajoutée, à l'Office national précité, selon les modalités déterminées par le Roi.
+
+Le cas échéant, les retenues et versements visés au présent paragraphe sont limités au montant des dettes de l'entrepreneur ou sous-traitant au moment du paiement.
+
+Lorsque la retenue et le versement visés au présent paragraphe ont été effectués correctement lors de chaque paiement de tout ou partie du prix des travaux à un entrepreneur ou un sous-traitant qui, au moment du paiement, a des dettes sociales, la responsabilité solidaire visée au § 3 n'est pas appliquée.
+
+Lorsque la retenue et le versement visés au présent paragraphe n'ont pas été effectués correctement lors de chaque paiement de tout ou partie du prix des travaux à un entrepreneur ou un sous-traitant qui, au moment du paiement, a des dettes sociales, les montants éventuellement versés sont déduits, lors de l'application de la responsabilité solidaire visée au § 3, du montant pour lequel le [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou l'entrepreneur est rendu responsable.
+
+Lorsque le [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou l'entrepreneur constate, à l'aide de la banque de données accessible au public, qui est créée par l'Office national de sécurité sociale et qui a force probante pour l'application des §§ 3 et 4, qu'il est dans l'obligation de faire des retenues sur les factures présentées par son cocontractant, et que le montant de la facture qui lui est présentée est supérieur ou égal à 7 143,00 euros, il invite son cocontractant à lui produire une attestation établissant le montant de sa dette en cotisations, majorations de cotisations, sanctions civiles, intérêts de retard et frais judiciaires. L'attestation en question tient compte de la dette à la date du jour à laquelle elle est établie. Le Roi détermine la durée de validité de ladite attestation. Si son cocontractant affirme que les dettes sont supérieures aux retenues à effectuer ou ne lui produit pas l'attestation en question dans le mois de la demande, le [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou l'entrepreneur retient et verse à l'Office national précité 35 p.c. du montant de la facture.
+
+Le Roi peut adapter le montant de 7 143 euros visé à l'alinéa précédent.
+
+Lorsque l'entrepreneur est un employeur non établi en Belgique, qui n'a pas de dettes sociales en Belgique et dont tous les travailleurs sont en possession d'un certificat de détachement valable, les retenues, visées au présent paragraphe, ne s'appliquent pas au paiement qui lui est dû.
+
+Le Roi détermine le contenu et les conditions et modalités d'envoi des renseignements que doivent fournir les personnes visées au présent paragraphe à l'Office national précité.
+
+Le Roi fixe les modalités selon lesquelles l'Office national précité répartit les montants versés en application des alinéas 1er et 2, afin de payer à l'Office national ou à un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence, les cotisations, les majorations de cotisations, les sanctions civiles, les intérêts de retard et les frais judiciaires dus par le cocontractant à quelque stade que ce soit.
+
+Le Roi détermine le délai dans lequel ce montant peut être imputé, ainsi que les modalités de remboursement ou d'affectation du solde éventuel.
+
+Le Roi détermine le délai dans lequel le cocontractant récupère le montant versé dans la mesure où les versements dépasseraient le montant des dettes.
+
+§ 5. [<sup>9</sup> Le]<sup>9</sup> [<sup>9</sup> donneur d'ordre]<sup>9</sup> qui n'a pas effectué le versement visé au § 4, alinéa 1er, est redevable à l'Office national précité, outre le montant à verser, d'une majoration égale au montant à payer.
+
+[<sup>9</sup> L']<sup>9</sup> entrepreneur qui n'a pas effectué le versement visé au § 4, alinéa 2, est redevable à l'Office national précité, outre le montant à verser, d'une majoration égale au montant à payer.
+
+[<sup>13</sup> Le donneur d'ordre visé au premier alinéa ou l'entrepreneur visé au deuxième alinéa peut faire part de ses moyens de défense dans les trente jours de la notification de la décision.
+
+L'Office national de sécurité sociale peut, sur la base des éléments du dossier, accorder une réduction jusqu'à 20 pourcent du montant originel de la majoration appliquée.
+
+L'Office national de sécurité sociale peut accorder une exonération totale de la majoration en cas de force majeure ou lorsque le donneur d'ordre et l'entrepreneur ou l'entrepreneur et le sous-traitant n'a pas de dettes sociales au moment de l'application de la majoration.
+
+Le recours contre la décision de l'Office national de sécurité sociale doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>13</sup>
+
+§ 6. Les associés d'une société momentanée, d'une société interne ou d'une société de droit commun sont solidairement responsables entre eux pour le paiement des sommes dont la société momentanée, la société interne ou la société de droit commun est redevable en exécution de cet article.
+
+§ 7. Avant de commencer les travaux, l'entrepreneur, à qui le [<sup>9</sup> donneur d'ordre]<sup>9</sup> a fait appel, doit communiquer, selon les modalités à fixer par le Roi, à l'Office national précité toutes les informations exactes nécessaires destinées à en évaluer la nature et l'importance ainsi qu'à en identifier le [<sup>9</sup> donneur d'ordre]<sup>9</sup> et, le cas échéant, les sous-traitants, à quelque stade que ce soit. Si au cours de l'exécution des travaux d'autres sous-traitants interviennent, cet entrepreneur doit, au préalable, en avertir l'Office national précité.
+
+A cette fin, chaque sous-traitant, qui fait à son tour appel à un autre sous-traitant, doit préalablement en avertir, par écrit, l'entrepreneur et lui fournir les informations exactes necessaires destinées à l'Office national précité telles que définies par le Roi.
+
+[<sup>1</sup> L'entrepreneur informe l'Office national précité de la date de début et de fin des travaux. Le Roi définit ce que l'on entend par date de début et de fin des travaux.]<sup>1</sup>
+
+De même, lorsque l'intervention d'un sous-traitant, qui avait été déclarée à l'Office national précité, est annulée, l'entrepreneur en informe l'Office national précité [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>7</sup> Pour l'application du présent paragraphe, est assimilé à l'entrepreneur :
+
+a) tout entrepreneur qui est son propre [<sup>9</sup> donneur d'ordre]<sup>9</sup>, c'est-à-dire qui effectue ou fait effectuer pour son propre compte des travaux visés au § 1er, 1°, a), afin d'aliéner ensuite en tout ou en partie ce bien immobilier;
+
+b) tout entrepreneur [<sup>14</sup> à l'exception de l'Etat, des établissements d'utilité public fédéraux, des Régions, des Communautés, des provinces, des communes, et des institutions publiques de sécurité sociale et d'autres personnes morales de droit public qui n'exercent aucune activité économique,]<sup>14</sup> qui effectue pour son propre compte des travaux visés au § 1er, 1°, a) [<sup>14</sup> , à l'exception des activités de nettoyage et/ou d'entretien au sens de l'article 1er, § 1er, alinéa 6, de l'arrêté royal du 9 février 1971 instituant certaines commissions paritaires et fixant leur dénomination et leur compétence, qui constituent aussi un travail immobilier au sens de l'article 19, § 2, 2°, troisième alinéa, du Code de la taxe sur la valeur ajoutée]<sup>14</sup>;
+
+c) pour les travaux visés au § 1er, 1°, b), la personne qui doit faire une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi précitée du 4 août 1996.]<sup>7</sup>
+
+L'Office national précité met une copie électronique des déclarations reçues à la disposition du service compétent du Service public fédéral des Finances.
+
+Ces déclarations sont mises à la disposition des services d'inspection visés à l'[<sup>2</sup> article 16, 1°, du Code pénal social]<sup>2</sup>, qui le demandent.
+
+§ 8. L'entrepreneur ou celui qui y est assimilé qui ne se conforme pas aux obligations du § 7, alinéa 1er, est redevable à l'Office national précité d'une somme équivalente à 5 p.c. du montant total des travaux, non compris la taxe sur la valeur ajoutée, qui n'ont pas été déclarés à l'Office national. La somme qui est réclamée à l'entrepreneur est diminuée à concurrence du montant qui a été payé effectivement à l'Office national par le sous-traitant en application de la disposition de l'alinéa suivant.
+
+Le sous-traitant qui ne se conforme pas aux dispositions du § 7, alinéa 2, est redevable à l'Office national d'une somme égale à 5 p.c. du montant total des travaux, non compris la taxe sur la valeur ajoutée, qu'il a confiés à son ou à ses sous-traitants.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 9. [<sup>7</sup> Le Roi peut limiter l'application des §§ 7 et 8 aux travaux dont le montant total dépasse une limite qu'Il détermine et pour lesquels il n'a pas été fait appel à un sous-traitant.
+
+De même le Roi peut limiter l'application des §§ 7 et 8 aux travaux dont le montant total dépasse une limite qu'Il détermine et pour lesquels il a été fait appel à un seul sous-traitant.
+
+Les limitations visées aux alinéas 1er et 2 ne sont pas d'application pour les travaux visés au § 1er, 1°, b), qui doivent faire l'objet d'une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi précitée du 4 août 1996.
+
+Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 peut être réduite ou l'exonération du paiement de la somme peut être accordée.]<sup>7</sup> [<sup>9</sup> Le recours contre la décision concernant la réduction ou l'exonération doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>9</sup>
+
+§ 10. Le présent article n'est pas applicable au [<sup>9</sup> donneur d'ordre]<sup>9</sup>-personne physique qui fait exécuter des travaux visés au § 1er, à des fins strictement privées.
+
+§ 11. Le présent article reste applicable en cas de faillite ou de tout autre concours de créanciers de même qu'en cas de cession, saisie-arrêt, nantissement, dation en paiement ou d'action directe visée à l'article 1798 du Code Civil [<sup>3</sup> ...]<sup>3</sup>.
+
+----------
+
+(1)&lt;L 2009-12-23/04, art. 67, 039; En vigueur : 01-04-2014, voir AR 2014-02-11/05, art. 18, L1&gt;
+
+(2)&lt;L 2010-06-06/06, art. 51, 041; En vigueur : 01-07-2011&gt;
+
+(3)&lt;L 2013-05-27/15, art. 47, 047; En vigueur : 01-08-2013&gt;
+
+(4)&lt;L 2011-11-07/02, art. 19, 043; En vigueur : 01-09-2012&gt;
+
+(5)&lt;L 2012-03-29/08, art. 61, 044; En vigueur : 16-04-2012&gt;
+
+(6)&lt;L 2012-12-27/06, art. 38, 046; En vigueur : 10-01-2013&gt;
+
+(7)&lt;L 2013-12-08/07, art. 2, 049; En vigueur : 01-01-2014&gt;
+
+(8)&lt;L 2015-08-10/03, art. 18, 057; En vigueur : 28-08-2015&gt;
+
+(9)&lt;L 2015-07-20/13, art. 7, 058; En vigueur : 01-09-2015; voir aussi L 2015-07-20/13, art. 9&gt;
+
+(10)&lt;L 2016-12-01/22, art. 3, 065; En vigueur : 01-01-2017&gt;
+
+(11)&lt;L 2018-12-21/49, art. 45, 072; En vigueur : 01-04-2019&gt;
+
+(12)&lt;L 2019-04-13/09, art. 125, 075; En vigueur : 01-01-2020&gt;
+
+(13)&lt;L 2022-02-28/04, art. 20, 081; En vigueur : 12-11-2020&gt;
+
+(14)&lt;L 2024-05-15/19, art. 205, 092; En vigueur : 01-04-2022&gt;
+
+##### Art. 30bis DROIT FUTUR.
+
+&lt;L 2007-04-27/35, art. 55, 031; En vigueur : 01-01-2008&gt; § 1er. Pour l'application du présent article, il faut entendre par :
+
+1° [<sup>7</sup> travaux :
+
+a) les activités visées à l'article 20, § 2, de l'arrêté royal n° 1 du 29 décembre 1992 relatif aux mesures tendant à assurer le paiement de la taxe sur la [<sup>11</sup> valeur ajoutée et la livraison du béton prêt à l'emploi visée à l'article 1er, a, alinéa 4, vingt-huitième tiret, de l'arrêté royal du 4 mars 1975 instituant la Commission paritaire de la construction et fixant sa dénomination et sa compétence et en fixant le nombre de membres, à l'exclusion des activités suivantes :
+
+1\) culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses;
+
+2\) culture du riz;
+
+3\) culture de légumes, de melons, de racines et de tubercules;
+
+4\) culture de la canne à sucre;
+
+5\) culture du tabac;
+
+6\) culture de plantes à fibres;
+
+7\) culture de fleurs;
+
+8\) autres cultures non permanentes;
+
+9\) culture de la vigne;
+
+10\) culture de fruits tropicaux et subtropicaux;
+
+11\) culture d'agrumes;
+
+12\) culture de fruits à pépins et à noyau;
+
+13\) culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque;
+
+14\) culture de fruits oléagineux;
+
+15\) culture de plantes destinées à la production de boissons;
+
+16\) culture de plantes à épices, aromatiques, médicinales et pharmaceutiques;
+
+17\) autres cultures permanentes;
+
+18\) exploitation de pépinières, sauf pépinières forestières;
+
+19\) autre reproduction de plantes;
+
+20\) activités de soutien aux cultures;
+
+21\) préparation des terres;
+
+22\) création de cultures;
+
+23\) pulvérisation des récoltes, y compris par voie aérienne;
+
+24\) taille des arbres fruitiers et des vignes;
+
+25\) transplantation du riz et démariage des betteraves;
+
+26\) location de machines et d'équipements agricoles avec opérateur;
+
+27\) lutte contre les animaux nuisibles (y compris les lapins) en relation avec l'agriculture;
+
+28\) exploitation de systèmes d'irrigation pour l'agriculture;
+
+29\) sylviculture et autres activités forestières;
+
+30\) exploitation forestière;
+
+31\) récolte de produits forestiers non ligneux poussant à l'état sauvage;
+
+32\) services de soutien à l'exploitation forestière;
+
+33\) services d'aménagement paysager;]<sup>11</sup>
+
+b) en outre, pour l'application des §§ 7 à 9, les autres travaux qui doivent faire l'objet d'une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;]<sup>7</sup>
+
+2° [<sup>9</sup> donneur d'ordre]<sup>9</sup> : quiconque donne ordre d'exécuter ou de faire exécuter des travaux pour un prix;
+
+3° entrepreneur :
+
+\- quiconque s'engage, pour un prix, à exécuter ou à faire exécuter des travaux pour un [<sup>9</sup> donneur d'ordre]<sup>9</sup>;
+
+\- chaque sous-traitant par rapport aux sous-traitants suivants;
+
+4° sous-traitant : quiconque s'engage, soit directement, soit indirectement, à quelque stade que ce soit, à exécuter ou à faire exécuter pour un prix, le travail ou une partie du travail confié à l'entrepreneur ou à mettre des travailleurs à disposition à cet effet;
+
+5° [<sup>4</sup> ...]<sup>4</sup>
+
+§ 2. [<sup>4</sup> ...]<sup>4</sup>
+
+§ 3. Le [<sup>9</sup> donneur d'ordre]<sup>9</sup> qui, pour les travaux visés au § 1er, fait appel à un entrepreneur qui a des dettes sociales au moment de la conclusion de la convention, est solidairement responsable du paiement des dettes sociales de son cocontractant.
+
+L'entrepreneur qui, pour les travaux visés au § 1er, fait appel à un sous-traitant qui a des dettes sociales au moment de la conclusion de la convention, est solidairement responsable du paiement des dettes sociales de son cocontractant.
+
+Les articles 1200 à 1216 du Code civil sont applicables à la responsabilité solidaire visée aux alinéas précédents.
+
+La responsabilité solidaire est limitée au prix total des travaux, non compris la taxe sur la valeur ajoutée, concédés à l'entrepreneur, ou au sous-traitant.
+
+L'entrepreneur [<sup>8</sup> ou le donneur d'ordre]<sup>8</sup> sans personnel qui voit sa responsabilité solidaire engagée en application des §§ 3 et 4 est assimile à un employeur débiteur et est renseigné comme tel dans la banque de données accessible au public visée au § 4, alinéa 6, s'il ne s'acquitte pas des sommes réclamées dans les trente jours de l'envoi d'une mise en demeure recommandée.
+
+L'entrepreneur [<sup>8</sup> ou le donneur d'ordre]<sup>8</sup> identifié à l'Office national de sécurité sociale en qualité d'employeur qui n'a pas de dettes sociales propres et qui voit sa responsabilité solidaire engagée en application des §§ 3 et 4 est renseigné comme débiteur dans la banque de données accessible au public visée au § 4, alinéa 6, s'il ne s'acquitte pas des sommes réclamées dans les trente jours de l'envoi d'une mise en demeure recommandée.
+
+On entend par dettes sociales propres, [<sup>9</sup> les sommes]<sup>9</sup> qu'un employeur est susceptible de devoir à l'Office national de sécurité sociale [<sup>9</sup> ou à un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence]<sup>9</sup> en sa qualité d'employeur. [<sup>11</sup> Est considéré comme étant débiteur auprès de l'Office national de sécurité sociale, l'employeur qui n'a pas transmis à l'Office national de sécurité sociale toutes les déclarations requises jusque et y compris celles relatives à l'avant-dernier trimestre écoulé. Est considéré comme étant débiteur auprès du Fonds de sécurité d'existence, l'employeur pour lequel toutes les données des travailleurs jusque et y compris l'avant dernier trimestre écoulé ne sont pas à disposition du Fonds de sécurité d'existence.]<sup>11</sup> Le Roi en établit la liste. [<sup>9</sup> Il peut déterminer un montant en cotisations, majorations, indemnités forfaitaires, intérêts de retard ou frais judiciaires en deçà duquel l'employeur n'est pas considéré comme débiteur. De même, Il précise quelles sont les données qui doivent être en possession de l'Office national de Sécurité sociale et/ou du Fonds de sécurité d'existence pour apprécier l'existence de la dette en question.]<sup>9</sup>
+
+Sont aussi considérées comme dettes sociales, les sommes réclamées au titre de la responsabilité solidaire dans les situations visées aux alinéas 5 et 6.
+
+[<sup>10</sup> ...]<sup>10</sup>
+
+La responsabilité solidaire visée au présent paragraphe s'étend également aux dettes sociales des associés d'une société momentanée, d'une société interne ou d'une société de droit commun, qui agit comme entrepreneur ou sous-traitant.
+
+La responsabilité solidaire visée au présent paragraphe s'applique également aux dettes sociales de l'entrepreneur ou du sous-traitant qui prennent naissance en cours d'exécution de la convention.
+
+La responsabilité solidaire dans le chef du [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou de l'entrepreneur visée au présent paragraphe est limitée à 65 p.c. lorsque la responsabilité solidaire visée [<sup>12</sup> à l'article 54, § 4, du Code du recouvrement amiable et forcé des créances fiscales et non fiscales]<sup>12</sup> a été appliquée dans le chef du même [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou entrepreneur.
+
+[<sup>11</sup> § 3/1. Pour l'application du paragraphe 3, alinéa 7, est considéré comme n'étant pas débiteur auprès de l'Office national de sécurité sociale, l'employeur qui :
+
+\- a transmis à l'Office précité toutes les déclarations requises jusque et y compris celles relatives à l'avant-dernier trimestre écoulé;
+
+\- n'est pas redevable de plus de 2500,00 EUR en cotisations, majorations, indemnités forfaitaires, intérêts de retard ou frais judiciaires;
+
+\- par dérogation au tiret qui précède, pour l'employeur ressortissant à la commission paritaire de la construction, avoir payé les provisions visées à l'article 34bis de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+Est considéré, pour l'application de cette même disposition, comme n'étant pas débiteur auprès d'un Fonds de sécurité d'existence, l'employeur :
+
+\- qui ressortit à la commission paritaire de la construction (CP 124);
+
+\- pour lequel toutes les données relatives aux rémunérations brutes des travailleurs jusque et y compris l'avant dernier trimestre écoulé sont à disposition de l'Office patronal d'organisation et de contrôle des régimes de sécurité d'existence (OPOC) soit du fait même que ces données sont à disposition via la Banque-carrefour de la sécurité sociale après qu'elles aient été transmises par l'employeur à l'O.N.S.S. via sa déclaration multifonctionnelle et validées par celui-ci, soit du fait que l'employeur, non soumis à la déclaration multifonctionnelle, ait transmis à l'OPOC les déclarations exigées;
+
+\- qui n'est pas redevable de plus de 70,00 EUR de cotisations dues dans le régime des timbres fidélité et intempéries.]<sup>11</sup>
+
+[<sup>5</sup> [<sup>11</sup> § 3/2.]<sup>11</sup> Lorsque le paiement des sommes réclamées auprès d'un sous-traitant en application de la responsabilité solidaire visée au § 3, alinéa 1er et 2, n'a pas ou pas totalement été effectué, [<sup>8</sup> le donneur d'ordre,]<sup>8</sup> l'entrepreneur visé au § 7, alinéa 1er, ainsi que chaque sous-traitant intervenant sont solidairement responsables de celui-ci.
+
+La responsabilité solidaire s'exerce d'abord dans le chef de l'entrepreneur qui a fait appel au sous-traitant qui n'a pas ou pas totalement payé les sommes exigées de lui en application du § 3, alinéas 1er et 2.
+
+Elle s'exerce ensuite successivement, à l'égard des entrepreneurs intervenant à un stade précédent [<sup>8</sup> et en dernier lieu à l'égard du donneur d'ordre]<sup>8</sup>, lorsque l'entrepreneur visé à l'alinéa précédent s'est abstenu d'acquitter les sommes qui lui sont réclamées, dans les trente jours [<sup>6</sup> de l'envoi d'une mise en demeure recommandée]<sup>6</sup>.]<sup>5</sup>
+
+§ 4. Le [<sup>9</sup> donneur d'ordre]<sup>9</sup> qui effectue le paiement de tout ou partie du prix des travaux visés au § 1er, à un entrepreneur qui, au moment du paiement, a des dettes sociales, est tenu, lors du paiement, de retenir et de verser 35 p.c. du montant dont il est redevable, non compris la taxe sur la valeur ajoutée, à l'Office national précité, selon les modalités déterminées par le Roi.
+
+L'entrepreneur qui effectue le paiement de tout ou partie du prix des travaux visés au § 1er, à un sous-traitant qui, au moment du paiement, a des dettes sociales, est tenu, lors du paiement, de retenir et de verser 35 p.c. du montant dont il est redevable, non compris la taxe sur la valeur ajoutée, à l'Office national précité, selon les modalités déterminées par le Roi.
+
+Le cas échéant, les retenues et versements visés au présent paragraphe sont limités au montant des dettes de l'entrepreneur ou sous-traitant au moment du paiement.
+
+Lorsque la retenue et le versement visés au présent paragraphe ont été effectués correctement lors de chaque paiement de tout ou partie du prix des travaux à un entrepreneur ou un sous-traitant qui, au moment du paiement, a des dettes sociales, la responsabilité solidaire visée au § 3 n'est pas appliquée.
+
+Lorsque la retenue et le versement visés au présent paragraphe n'ont pas été effectués correctement lors de chaque paiement de tout ou partie du prix des travaux à un entrepreneur ou un sous-traitant qui, au moment du paiement, a des dettes sociales, les montants éventuellement versés sont déduits, lors de l'application de la responsabilité solidaire visée au § 3, du montant pour lequel le [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou l'entrepreneur est rendu responsable.
+
+Lorsque le [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou l'entrepreneur constate, à l'aide de la banque de données accessible au public, qui est créée par l'Office national de sécurité sociale et qui a force probante pour l'application des §§ 3 et 4, qu'il est dans l'obligation de faire des retenues sur les factures présentées par son cocontractant, et que le montant de la facture qui lui est présentée est supérieur ou égal à 7 143,00 euros, il invite son cocontractant à lui produire une attestation établissant le montant de sa dette en cotisations, majorations de cotisations, sanctions civiles, intérêts de retard et frais judiciaires. L'attestation en question tient compte de la dette à la date du jour à laquelle elle est établie. Le Roi détermine la durée de validité de ladite attestation. Si son cocontractant affirme que les dettes sont supérieures aux retenues à effectuer ou ne lui produit pas l'attestation en question dans le mois de la demande, le [<sup>9</sup> donneur d'ordre]<sup>9</sup> ou l'entrepreneur retient et verse à l'Office national précité 35 p.c. du montant de la facture.
+
+Le Roi peut adapter le montant de 7 143 euros visé à l'alinéa précédent.
+
+Lorsque l'entrepreneur est un employeur non établi en Belgique, qui n'a pas de dettes sociales en Belgique et dont tous les travailleurs sont en possession d'un certificat de détachement valable, les retenues, visées au présent paragraphe, ne s'appliquent pas au paiement qui lui est dû.
+
+Le Roi détermine le contenu et les conditions et modalités d'envoi des renseignements que doivent fournir les personnes visées au présent paragraphe à l'Office national précité.
+
+Le Roi fixe les modalités selon lesquelles l'Office national précité répartit les montants versés en application des alinéas 1er et 2, afin de payer à l'Office national ou à un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence, les cotisations, les majorations de cotisations, les sanctions civiles, les intérêts de retard et les frais judiciaires dus par le cocontractant à quelque stade que ce soit.
+
+Le Roi détermine le délai dans lequel ce montant peut être imputé, ainsi que les modalités de remboursement ou d'affectation du solde éventuel.
+
+Le Roi détermine le délai dans lequel le cocontractant récupère le montant versé dans la mesure où les versements dépasseraient le montant des dettes.
+
+§ 5. [<sup>9</sup> Le]<sup>9</sup> [<sup>9</sup> donneur d'ordre]<sup>9</sup> qui n'a pas effectué le versement visé au § 4, alinéa 1er, est redevable à l'Office national précité, outre le montant à verser, d'une majoration égale au montant à payer.
+
+[<sup>9</sup> L']<sup>9</sup> entrepreneur qui n'a pas effectué le versement visé au § 4, alinéa 2, est redevable à l'Office national précité, outre le montant à verser, d'une majoration égale au montant à payer.
+
+[<sup>13</sup> Le donneur d'ordre visé au premier alinéa ou l'entrepreneur visé au deuxième alinéa peut faire part de ses moyens de défense dans les trente jours de la notification de la décision.
+
+L'Office national de sécurité sociale peut, sur la base des éléments du dossier, accorder une réduction jusqu'à 20 pourcent du montant originel de la majoration appliquée.
+
+L'Office national de sécurité sociale peut accorder une exonération totale de la majoration en cas de force majeure ou lorsque le donneur d'ordre et l'entrepreneur ou l'entrepreneur et le sous-traitant n'a pas de dettes sociales au moment de l'application de la majoration.
+
+Le recours contre la décision de l'Office national de sécurité sociale doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>13</sup>
+
+§ 6. Les associés d'une société momentanée, d'une société interne ou d'une société de droit commun sont solidairement responsables entre eux pour le paiement des sommes dont la société momentanée, la société interne ou la société de droit commun est redevable en exécution de cet article.
+
+§ 7. Avant de commencer les travaux, l'entrepreneur, à qui le [<sup>9</sup> donneur d'ordre]<sup>9</sup> a fait appel, doit communiquer, selon les modalités à fixer par le Roi, à l'Office national précité toutes les informations exactes nécessaires destinées à en évaluer la nature et l'importance ainsi qu'à en identifier le [<sup>9</sup> donneur d'ordre]<sup>9</sup> et, le cas échéant, les sous-traitants, à quelque stade que ce soit. Si au cours de l'exécution des travaux d'autres sous-traitants interviennent, cet entrepreneur doit, au préalable, en avertir l'Office national précité.
+
+A cette fin, chaque sous-traitant, qui fait à son tour appel à un autre sous-traitant, doit préalablement en avertir, par écrit, l'entrepreneur et lui fournir les informations exactes necessaires destinées à l'Office national précité telles que définies par le Roi.
+
+[<sup>1</sup> L'entrepreneur informe l'Office national précité de la date de début et de fin des travaux. Le Roi définit ce que l'on entend par date de début et de fin des travaux.]<sup>1</sup>
+
+De même, lorsque l'intervention d'un sous-traitant, qui avait été déclarée à l'Office national précité, est annulée, l'entrepreneur en informe l'Office national précité [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>7</sup> Pour l'application du présent paragraphe, est assimilé à l'entrepreneur :
+
+a) tout entrepreneur qui est son propre [<sup>9</sup> donneur d'ordre]<sup>9</sup>, c'est-à-dire qui effectue ou fait effectuer pour son propre compte des travaux visés au § 1er, 1°, a), afin d'aliéner ensuite en tout ou en partie ce bien immobilier;
+
+b) tout entrepreneur qui effectue pour son propre compte des travaux visés au § 1er, 1°, a);
+
+c) pour les travaux visés au § 1er, 1°, b), la personne qui doit faire une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi précitée du 4 août 1996.]<sup>7</sup>
+
+L'Office national précité met une copie électronique des déclarations reçues à la disposition du service compétent du Service public fédéral des Finances.
+
+Ces déclarations sont mises à la disposition des services d'inspection visés à l'[<sup>2</sup> article 16, 1°, du Code pénal social]<sup>2</sup>, qui le demandent.
+
+§ 8. L'entrepreneur ou celui qui y est assimilé qui ne se conforme pas aux obligations du § 7, alinéa 1er, est redevable à l'Office national précité d'une somme équivalente à 5 p.c. du montant total des travaux, non compris la taxe sur la valeur ajoutée, qui n'ont pas été déclarés à l'Office national. La somme qui est réclamée à l'entrepreneur est diminuée à concurrence du montant qui a été payé effectivement à l'Office national par le sous-traitant en application de la disposition de l'alinéa suivant.
+
+Le sous-traitant qui ne se conforme pas aux dispositions du § 7, alinéa 2, est redevable à l'Office national d'une somme égale à 5 p.c. du montant total des travaux, non compris la taxe sur la valeur ajoutée, qu'il a confiés à son ou à ses sous-traitants.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 9. [<sup>7</sup> Le Roi peut limiter l'application des §§ 7 et 8 aux travaux dont le montant total dépasse une limite qu'Il détermine et pour lesquels il n'a pas été fait appel à un sous-traitant. [<sup>14</sup> La limitation éventuelle de l'application du § 7, ne s'applique pas aux activités d'entretien et/ou de nettoyage.]<sup>14</sup>
+
+De même le Roi peut limiter l'application des §§ 7 et 8 aux travaux dont le montant total dépasse une limite qu'Il détermine et pour lesquels il a été fait appel à un seul sous-traitant. [<sup>14</sup> La limitation éventuelle de l'application du § 7, ne s'applique pas aux activités d'entretien et/ou de nettoyage.]<sup>14</sup>
+
+Les limitations visées aux alinéas 1er et 2 ne sont pas d'application pour les travaux visés au § 1er, 1°, b), qui doivent faire l'objet d'une déclaration préalable en vue de protéger la sécurité et la santé des travailleurs en vertu de la loi précitée du 4 août 1996.
+
+Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 peut être réduite ou l'exonération du paiement de la somme peut être accordée.]<sup>7</sup> [<sup>9</sup> Le recours contre la décision concernant la réduction ou l'exonération doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>9</sup>
+
+§ 10. Le présent article n'est pas applicable au [<sup>9</sup> donneur d'ordre]<sup>9</sup>-personne physique qui fait exécuter des travaux visés au § 1er, à des fins strictement privées.
+
+§ 11. Le présent article reste applicable en cas de faillite ou de tout autre concours de créanciers de même qu'en cas de cession, saisie-arrêt, nantissement, dation en paiement ou d'action directe visée à l'article 1798 du Code Civil [<sup>3</sup> ...]<sup>3</sup>.
+
+----------
+
+(1)&lt;L 2009-12-23/04, art. 67, 039; En vigueur : 01-04-2014, voir AR 2014-02-11/05, art. 18, L1&gt;
+
+(2)&lt;L 2010-06-06/06, art. 51, 041; En vigueur : 01-07-2011&gt;
+
+(3)&lt;L 2013-05-27/15, art. 47, 047; En vigueur : 01-08-2013&gt;
+
+(4)&lt;L 2011-11-07/02, art. 19, 043; En vigueur : 01-09-2012&gt;
+
+(5)&lt;L 2012-03-29/08, art. 61, 044; En vigueur : 16-04-2012&gt;
+
+(6)&lt;L 2012-12-27/06, art. 38, 046; En vigueur : 10-01-2013&gt;
+
+(7)&lt;L 2013-12-08/07, art. 2, 049; En vigueur : 01-01-2014&gt;
+
+(8)&lt;L 2015-08-10/03, art. 18, 057; En vigueur : 28-08-2015&gt;
+
+(9)&lt;L 2015-07-20/13, art. 7, 058; En vigueur : 01-09-2015; voir aussi L 2015-07-20/13, art. 9&gt;
+
+(10)&lt;L 2016-12-01/22, art. 3, 065; En vigueur : 01-01-2017&gt;
+
+(11)&lt;L 2018-12-21/49, art. 45, 072; En vigueur : 01-04-2019&gt;
+
+(12)&lt;L 2019-04-13/09, art. 125, 075; En vigueur : 01-01-2020&gt;
+
+(13)&lt;L 2022-02-28/04, art. 20, 081; En vigueur : 12-11-2020&gt;
+
+(14)&lt;L 2022-12-26/01, art. 49, 088; En vigueur : indéterminée &gt;
+
+##### Art. 30ter
+
+[<sup>1</sup> § 1er. Pour l'application du présent article, on entend par :
+
+1° activités : les travaux ou services définis par le Roi après avis unanime des commissions ou sous-commissions paritaires compétentes. Cet avis peut toutefois être donné par le Conseil national du Travail lorsque les activités relèvent de la compétence de plusieurs commissions paritaires. A défaut d'une commission ou sous-commission paritaire compétente ou effective, cet avis est donné par le Conseil national du travail. L'organe consulté communique son avis dans les deux mois après que le ministre compétent lui en a fait la demande. A défaut d'un avis unanime, le Roi précise les travaux ou les services par arrêté délibéré en Conseil des Ministres.
+
+2° donneur d'ordre : quiconque donne ordre d'exécuter ou de faire exécuter des activités pour un prix;
+
+[<sup>4</sup> Le Roi peut, après avis unanime des commissions ou sous-commissions paritaires compétentes, assimiler l'entrepreneur au donneur d'ordre. Dans ce cas, cet entrepreneur prend en charge tous les droits et obligations du donneur d'ordre visés au présent article.]<sup>4</sup>
+
+3° entrepreneur :
+
+\- quiconque s'engage, pour un prix, à exécuter ou à faire exécuter des activités pour un donneur d'ordre;
+
+\- chaque sous-traitant par rapport aux sous-traitants suivants;
+
+[<sup>4</sup> - lorsque le Roi a eu recours à la délégation qui lui est conférée au 2°, l'entrepreneur qui a été assimilé au donneur d'ordre;]<sup>4</sup>
+
+4° sous-traitant : quiconque s'engage, soit directement, soit indirectement, à quelque stade que ce soit, à exécuter ou à faire exécuter pour un prix, une activité ou une partie d'une activité confiée à l'entrepreneur ou à mettre des travailleurs à disposition à cet effet.
+
+§ 2. Le donneur d'ordre qui, pour les activités visées au § 1er, 1°, fait appel à un entrepreneur qui a des dettes sociales au moment de la conclusion de la convention, est solidairement responsable du paiement des dettes sociales de son cocontractant.
+
+L'entrepreneur qui, pour les activités visées au § 1er, 1°, fait appel à un sous-traitant qui a des dettes sociales au moment de la conclusion de la convention, est solidairement responsable du paiement des dettes sociales de son cocontractant.
+
+Les articles 1200 à 1216 du Code civil sont applicables à la responsabilité solidaire visée aux alinéas précédents.
+
+La responsabilité solidaire est limitée au prix total des activités, non compris la taxe sur la valeur ajoutée, concédées à l'entrepreneur, ou au sous-traitant.
+
+L'entrepreneur sans personnel qui voit sa responsabilité solidaire engagée en application des §§ 2 et 3 est assimilé à un employeur débiteur et est renseigné comme tel dans les banques de données visées à l'article 12 de la présente loi, s'il ne s'acquitte pas des sommes réclamées dans les trente jours de l'envoi d'une mise en demeure recommandée.
+
+L'entrepreneur identifié à l'Office national de Sécurité sociale en qualité d'employeur qui n'a pas de dettes sociales propres et qui voit sa responsabilité solidaire engagée en application des §§ 2 et 3 est renseigné comme débiteur dans les banques de données visées à l'article 12 de la présente loi, s'il ne s'acquitte pas des sommes réclamées dans les trente jours de l'envoi d'une mise en demeure recommandée.
+
+On entend par dettes sociales propres, [<sup>3</sup> les sommes]<sup>3</sup> qu'un employeur est susceptible de devoir à l'Office national de Sécurité sociale ou à un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence en sa qualité d'employeur. [<sup>5</sup> Est considéré comme étant débiteur auprès de l'Office national de sécurité sociale, l'employeur qui n'a pas transmis à l'Office national de sécurité sociale toutes les déclarations requises jusque et y compris celles relatives à l'avant-dernier trimestre écoulé. Est considéré comme étant débiteur auprès du Fonds de sécurité d'existence, l'employeur pour lequel toutes les données des travailleurs jusque et y compris l'avant dernier trimestre écoulé ne sont pas à disposition du Fonds de sécurité d'existence.]<sup>5</sup> Le Roi en établit la liste. [<sup>3</sup> Il peut déterminer un montant en cotisations, majorations, indemnités forfaitaires, intérêts de retard ou frais judiciaires en deçà duquel l'employeur n'est pas considéré comme débiteur. De même, Il précise quelles sont les données qui doivent être en possession de l'Office national de Sécurité sociale et/ou du Fonds de sécurité d'existence pour apprécier l'existence de la dette en question.]<sup>3</sup>
+
+Sont aussi considérées comme dettes sociales, les sommes réclamées au titre de la responsabilité solidaire dans les situations visées aux alinéas 5 et 6.
+
+La responsabilité solidaire visée au présent paragraphe s'étend également aux dettes sociales des associés d'une société momentanée, d'une société interne ou d'une société de droit commun, qui agit comme entrepreneur ou sous-traitant.
+
+La responsabilité solidaire visée au présent paragraphe s'applique également aux dettes sociales de l'entrepreneur ou du sous-traitant qui prennent naissance en cours d'exécution de la convention.
+
+La responsabilité solidaire dans le chef du [<sup>3</sup> donneur d'ordre]<sup>3</sup> ou de l'entrepreneur visée au présent paragraphe est limitée à 65 p.c. lorsque la responsabilité solidaire visée [<sup>6</sup> à l'article 54, § 4, du Code du recouvrement amiable et forcé des créances fiscales et non fiscales]<sup>6</sup> a été appliquée dans le chef du même [<sup>3</sup> donneur d'ordre]<sup>3</sup> ou entrepreneur.
+
+§ 3. Lorsque le paiement des sommes réclamées auprès d'un sous-traitant en application de la responsabilité solidaire visée au § 2, alinéas 1er et 2, n'a pas ou pas totalement été effectué, l'entrepreneur visé au § 7, alinéa 1er, ainsi que chaque sous-traitant intervenant sont solidairement responsables de celui-ci.
+
+La responsabilité solidaire, s'exerce d'abord dans le chef de l'entrepreneur qui a fait appel au sous-traitant qui n'a pas ou pas totalement payé les sommes exigé de lui en application du § 2, alinéas 1er et 2.
+
+Elle s'exerce ensuite successivement à l'égard des entrepreneurs intervenant à un stade précédent, lorsque l'entrepreneur visé à l'alinéa précédent, s'est abstenu d'acquitter les sommes qui lui sont réclamées, dans les trente jours [<sup>2</sup> de l'envoi d'une mise en demeure recommandée ]<sup>2</sup>.
+
+[<sup>5</sup> § 3/1. Pour l'application du paragraphe 2, alinéa 7, est considéré comme n'étant pas débiteur auprès de l'Office national de sécurité sociale, l'employeur qui :
+
+\- a transmis à l'Office précité toutes les déclarations requises jusque et y compris celles relatives à l'avant-dernier trimestre écoulé;
+
+\- n'est pas redevable de plus de 2500,00 EUR en cotisations, majorations, indemnités forfaitaires, intérêts de retard ou frais judiciaires;
+
+Pour l'application de cette même disposition, n'est pas considéré, comme débiteur auprès d'un Fonds de sécurité d'existence, l'employeur :
+
+\- qui ressortit à la commission paritaire pour les services de gardiennages et/ou de surveillance (CP 317) qu'il soit ou non autorisé à fonctionner par le Ministère de l'Intérieur;
+
+\- pour lequel toutes les données relatives aux rémunérations brutes des travailleurs jusque et y compris l'avant-dernier trimestre écoulé sont à disposition du Fonds du fait même que ces données sont à disposition via la Banque-carrefour de la sécurité sociale après qu'elles aient été transmises par l'employeur à l'ONSS via sa déclaration multifonctionnelle (DmfA) et validées par celui-ci;
+
+\- n'est pas redevable de plus de 900,00 EUR de cotisations audit Fonds.]<sup>5</sup>
+
+§ 4. Le donneur d'ordre qui effectue le paiement de tout ou partie du prix des activités visées au § 1er, 1°, à un entrepreneur qui, au moment du paiement, a des dettes sociales, est tenu, lors du paiement, de retenir et de verser 35 p.c. du montant dont il est redevable, non compris la taxe sur la valeur ajoutée, à l'Office national précité, selon les modalités déterminées par le Roi.
+
+L'entrepreneur qui effectue le paiement de tout ou partie du prix des activités visées au § 1er, 1°, à un sous-traitant qui, au moment du paiement, a des dettes sociales, est tenu, lors du paiement, de retenir et de verser 35 p.c. du montant dont il est redevable, non compris la taxe sur la valeur ajoutée, à l'Office national précité, selon les modalités déterminées par le Roi.
+
+Le cas échéant, les retenues et versements visés au présent paragraphe sont limités au montant des dettes de l'entrepreneur ou sous-traitant au moment du paiement.
+
+Lorsque la retenue et le versement visés au présent paragraphe ont été effectués correctement lors de chaque paiement de tout ou partie du prix des activités à un entrepreneur ou un sous-traitant qui, au moment du paiement, a des dettes sociales, la responsabilité solidaire visée au § 2 n'est pas appliquée.
+
+Lorsque la retenue et le versement visés au présent paragraphe n'ont pas été effectués correctement lors de chaque paiement de tout ou partie du prix des travaux à un entrepreneur ou un sous-traitant qui, au moment du paiement, a des dettes sociales, les montants éventuellement versés sont déduits, lors de l'application de la responsabilité solidaire visée au § 2, du montant pour lequel le [<sup>3</sup> donneur d'ordre]<sup>3</sup> ou l'entrepreneur est rendu responsable.
+
+Lorsque le [<sup>3</sup> donneur d'ordre]<sup>3</sup> ou l'entrepreneur constate, à l'aide des banques de données visées à l'article 12 de la présente loi, qu'il est dans l'obligation de faire des retenues sur les factures présentées par son cocontractant, et que le montant de la facture qui lui est présentée est supérieur ou égal à 7 143,00 euros, il invite son cocontractant à lui produire une attestation établissant le montant de sa dette en cotisations, majorations de cotisations, sanctions civiles, intérêts de retard et frais judiciaires. L'attestation en question tient compte de la dette à la date du jour à laquelle elle est établie. Le Roi détermine la durée de validité de ladite attestation. Si son cocontractant affirme que les dettes sont supérieures aux retenues à effectuer ou ne lui produit pas l'attestation en question dans le mois de la demande, le [<sup>3</sup> donneur d'ordre]<sup>3</sup> ou l'entrepreneur retient et verse à l'Office national précité 35 p.c. du montant de la facture.
+
+Le Roi peut adapter le montant de 7.143 euros visé à l'alinéa précédent.
+
+Lorsque l'entrepreneur est un employeur non établi en Belgique, qui n'a pas de dettes sociales en Belgique et dont tous les travailleurs sont en possession d'un certificat de détachement valable, les retenues visées au présent paragraphe, ne s'appliquent pas au paiement qui lui est dû.
+
+Le Roi détermine le contenu et les conditions et modalités d'envoi des renseignements que doivent fournir les personnes visées au présent paragraphe à l'Office national précité.
+
+Le Roi fixe les modalités selon lesquelles l'Office national précité répartit les montants versés en application des alinéas 1er et 2, afin de payer à l'Office national ou à un Fonds de sécurité d'existence au sens de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence, tant en ce qui concerne les cotisations que les frais judiciaires, majorations de cotisations, indemnités forfaitaires et intérêts de retard.
+
+Le Roi détermine le délai dans lequel ce montant peut être imputé, ainsi que les modalités de remboursement ou d'affectation du solde éventuel.
+
+Le Roi détermine le délai dans lequel le cocontractant récupère le montant versé dans la mesure où les versements dépasseraient le montant des dettes.
+
+§ 5. Le donneur d'ordre qui n'a pas effectué le versement visé au § 4, alinéa 1er, est redevable à l'Office national précité, outre le montant à verser, d'une majoration égale au montant à payer.
+
+L'entrepreneur qui n'a pas effectué le versement visé au § 4, alinéa 2, est redevable à l'Office national précité, outre le montant à verser, d'une majoration égale au montant à payer.
+
+En cas d'application de la responsabilité solidaire visée au paragraphe 2, les sommes réclamées au titre de ladite responsabilité solidaire et des majorations ne peuvent excéder le montant de la dette du cocontractant pour lequel la responsabilité solidaire a été engagée.
+
+[<sup>7</sup> Le donneur d'ordre visé au premier alinéa ou l'entrepreneur visé au deuxième alinéa peut faire part de ses moyens de défense dans les trente jours de la notification de la décision.
+
+L'Office national de sécurité sociale peut sur la base des éléments du dossier accorder une réduction jusqu'à 20 pourcent du montant originel de la majorations appliquée.
+
+L'Office national de sécurité sociale peut accorder une exonération totale des majorations en cas de force majeure ou lorsque le donneur d'ordre et l'entrepreneur ou l'entrepreneur et le sous-traitant n'a pas de dettes sociales au moment de l'application de la majoration.
+
+Le recours contre la décision de l'Office national de sécurité sociale doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>7</sup>
+
+§ 6. Les associés d'une société momentanée, d'une société interne ou d'une société de droit commun sont solidairement responsables entre eux pour le paiement des sommes dont la société momentanée, la société interne ou la société de droit commun est redevable en exécution de cet article.
+
+§ 7. Dans les secteurs et pour les activités déterminées par le Roi, l'entrepreneur à qui le donneur d'ordre a fait appel doit, avant de commencer les activités, communiquer, selon les modalités à fixer par le Roi, à l'Office national précité toutes les informations exactes nécessaires destinées à en évaluer la nature et l'importance ainsi qu'à en identifier le donneur d'ordre et, le cas échéant, les sous-traitants, à quelque stade que ce soit. Si, au cours de l'exécution des activités, d'autres sous-traitants interviennent, cet entrepreneur doit en avertir l'Office national précité au préalable. [<sup>4</sup> Lorsque le Roi a fait usage de la délégation visée au § 1er, 2°, l'obligation de déclaration incombe à l'entrepreneur assimilé au donneur d'ordre.]<sup>4</sup>
+
+A cette fin, chaque sous-traitant, qui fait à son tour appel à un autre sous-traitant, doit préalablement en avertir, par écrit, l'entrepreneur et lui fournir les informations exactes nécessaires destinées à l'Office national précité, telles que définies par le Roi.
+
+L'Office national précité met une copie électronique des déclarations reçues à la disposition du service compétent du Service public fédéral Finances.
+
+Ces déclarations sont mises à la disposition des services d'inspection visés à l'article 16, 1°, du Code pénal social, qui le demandent.
+
+§ 8. L'entrepreneur ou celui qui y est assimilé qui ne se conforme pas aux obligations du § 7, alinéa 1er, est redevable à l'Office national précité d'une somme équivalente à 5 p.c. du montant total des activités, non compris la taxe sur la valeur ajoutée, qui n'ont pas été déclarées à l'Office national. La somme qui est réclamée à l'entrepreneur est diminuée à concurrence du montant qui a été payé effectivement à l'Office national par le sous-traitant en application de la disposition de l'alinéa 2.
+
+Le sous-traitant qui ne se conforme pas aux dispositions du § 7, alinéa 2, est redevable à l'Office national d'une somme égale à 5 p.c. du montant total des activités, non compris la taxe sur la valeur ajoutée, qu'il a confiés à son ou à ses sous-traitant(s).
+
+§ 9. Le Roi peut limiter l'application des §§ 7 et 8 aux activités dont le montant total dépasse une limite qu'Il détermine et pour lesquelles il n'a pas été fait appel à un sous-traitant.
+
+Le Roi peut déterminer sous quelles conditions la somme due en vertu du § 8 peut être réduite ou exonérée. [<sup>3</sup> Le recours contre la décision concernant la réduction ou l'exonération doit, à peine de déchéance, être introduit dans les trois mois de la notification de la décision.]<sup>3</sup>
+
+§ 10. Le présent article ne s'applique pas au donneur d'ordre-personne physique qui fait exécuter des activités visées au § 1er, à des fins strictement privées.
+
+§ 11. Le présent article reste applicable en cas de faillite ou de tout autre concours de créanciers de même qu'en cas de cession, saisie-arrêt, nantissement, dation en paiement ou d'action directe visée à l'article 1798 du Code Civil ou de procédure en réorganisation judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Rétabli par L 2012-03-29/08, art. 62, 044; En vigueur : 16-04-2012&gt;
+
+(2)&lt;L 2012-12-27/06, art. 39, 046; En vigueur : 10-01-2013&gt;
+
+(3)&lt;L 2015-07-20/13, art. 8, 058; En vigueur : 01-09-2015; voir aussi L 2015-07-20/13, art. 9&gt;
+
+(4)&lt;L 2015-11-16/05, art. 39, 059; En vigueur : 01-07-2015&gt;
+
+(5)&lt;L 2018-12-21/49, art. 46, 072; En vigueur : 01-04-2019&gt;
+
+(6)&lt;L 2019-04-13/09, art. 126, 075; En vigueur : 01-01-2020&gt;
+
+(7)&lt;L 2022-02-28/04, art. 21, 081; En vigueur : 12-11-2020&gt;
+
+##### Art. 30quater
+
+&lt;L 1990-12-29/30, art. 14, 006; En vigueur : indéterminée &gt; § 1. Sans préjudice des obligations imposées par cette loi a tout employeur, la personne qui, en vue d'échapper à l'assujettissement à la sécurité sociale des travailleurs salariés, a adhéré à tort en qualité d'associé actif d'une société coopérative au statut social des travailleurs indépendants, institué par l'arrêté royal n° 38 du 27 juillet 1967, est solidairement responsable du paiement de la part personnelle dans les cotisations de sécurité sociale augmentée des majorations et des intérêts qui ont trait aux activités exercées par elle durant l'adhésion au statut social précité des travailleurs indépendants.
+
+§ 2. Le Roi peut exclure certaines catégories de personnes du champ d'application du § 1er.
+
+§ 3. Le Roi détermine la date d'entree en vigueur de la présente disposition.
+
+### Section 3. - Surveillance.
+
+##### Art. 31
+
+[<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 52, 041; En vigueur : 01-07-2011&gt;
+
+##### Art. 32
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 21°, 041; En vigueur : 01-07-2011&gt;
+
+##### Art. 32bis
+
+(abrogé) &lt;L 1989-12-22/31, art. 233, 005; En vigueur : 09-01-1990&gt;
+
+##### Art. 33
+
+(abrogé) &lt;L 1989-12-22/31, art. 233, 005; En vigueur : 09-01-1990&gt;
+
+##### Art. 34
+
+(abrogé) &lt;L 1989-12-22/31, art. 233, 005; En vigueur : 09-01-1990&gt;
+
+### Section 4. - Sanctions pénales.
+
+##### Art. 35
+
+[<sup>2</sup> abrogé]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 53, 040; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2010-06-06/06, art. 109, 21°, 041; En vigueur : 01-07-2011&gt;
+
+##### Art. 36
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 21°, 041; En vigueur : 01-07-2011&gt;
+
+##### Art. 37
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 21°, 041; En vigueur : 01-07-2011&gt;
+
+##### Art. 38
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 21°, 041; En vigueur : 01-07-2011&gt;
+
+##### Art. 39
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 21°, 041; En vigueur : 01-07-2011&gt;
+
+### Section 5. - Recouvrement.
+
+##### Art. 40
+
+[<sup>1</sup> § 1er. L'Office national de sécurité sociale procède au recouvrement des sommes qui lui sont dues par voie de contrainte, sans préjudice de son droit de citer devant le juge.
+
+[<sup>3</sup> Avant de procéder au recouvrement judiciaire ou au recouvrement par voie de contrainte, l' Office national de sécurité sociale envoie au débiteur une dernière mise en demeure reprenant une justification comptable des sommes sur lesquelles portera ledit recouvrement, par lettre recommandée ou au moyen d'une technique électronique visée à l'article 4/2 de la loi du 24 février 2003 concernant la modernisation de la gestion de la sécurité sociale et concernant la communication électronique entre des entreprises et l'autorité fédérale.
+
+Cette mise en demeure doit mentionner, à peine de nullité, qu'à défaut pour le débiteur de contester les sommes dues ou de solliciter et d'obtenir des termes et délais de paiement, par envoi recommandé, dans le mois à compter de la date de la notification de la mise en demeure, l'Office pourra procéder au recouvrement de ces sommes par la voie d'une contrainte.
+
+La mise en demeure doit énoncer les possibilités dont dispose le débiteur pour contester la créance ainsi que les modalités de contestation. La mise en demeure doit également énoncer la possibilité de demander des termes et délais de paiement.
+
+L'octroi de termes et délais par l'Office national de sécurité sociale suspend la délivrance d'une éventuelle contrainte ainsi que le recouvrement par voie judiciaire pour autant que les termes et délais octroyés soient strictement respectés.]<sup>3</sup>
+
+§ 2. Les cotisations, majorations de cotisations, intérêts de retard, les indemnités forfaitaires y compris les majorations et sommes visées aux articles 30bis et 30ter [<sup>3</sup> , qui n'ont pas fait l'objet de contestation,]<sup>3</sup> peuvent être recouvrés par voie de contrainte à partir du moment où est rendu exécutoire le rôle spécial auquel ils sont mentionnés.
+
+Un rôle rendu exécutoire vaut titre exécutoire en vue du recouvrement.
+
+Les rôles sont rendus exécutoires par l'administrateur général, l'administrateur général adjoint ou un membre du personnel délégué à cette fin par le Comité de gestion.
+
+§ 3. La contrainte de l'Office national de sécurité sociale est décernée par l'administrateur général, l'administrateur général adjoint ou un membre du personnel délégué à cette fin par le Comité de gestion.
+
+§ 4. La contrainte est signifiée au débiteur par exploit d'huissier de justice. La signification contient un commandement de payer dans les 24 heures, à peine d'exécution par voie de saisie, de même qu'une justification comptable des sommes exigées ainsi que copie de l'exécutoire.
+
+§ 5. Le débiteur peut former opposition à la contrainte devant le tribunal du travail de son domicile ou siège social.
+
+L'opposition est motivée à peine de nullité; elle est formée [<sup>3</sup> soit au moyen d'une citation à l'Office national de sécurité sociale par exploit d'huissier, soit au moyen d'une requête contradictoire et ce, dans un délai d'un mois à partir de la signification de la contrainte]<sup>3</sup>. Les dispositions du chapitre VIII, première partie, du Code judiciaire sont applicables à ce délai, y compris les prorogations prévues à l'article 50, alinéa 2, et l'article 55 de ce Code.
+
+L'exercice de l'opposition à la contrainte suspend l'exécution de la contrainte, ainsi que la prescription des créances contenues dans la contrainte, jusqu'à ce qu'il ait été statué sur son bien-fondé. Les saisies déjà pratiquées antérieurement conservent leur caractère conservatoire.
+
+§ 6. L'Office national de sécurité sociale peut faire pratiquer la saisie conservatoire et exécuter la contrainte en usant des voies d'exécution prévues à la partie V du Code judiciaire.
+
+Les paiements partiels effectués en suite de la signification d'une contrainte ne font pas obstacle à la continuation des poursuites.
+
+§ 7. Les frais de signification de la contrainte de même que les frais de l'exécution ou des mesures conservatoires sont à charge du débiteur.
+
+Ils sont déterminés suivant les règles établies pour les actes accomplis par les huissiers de justice en matière civile et commerciale.
+
+§ 8. Le recouvrement administratif et judiciaire des cotisations, majorations de cotisations, intérêts de retard, frais judiciaires, indemnités forfaitaires y compris les majorations et sommes visées aux articles 30bis et 30ter, est une mission de service public qui peut être déléguée par l'Office national de sécurité sociale à un concessionnaire. Cette mission inclut tous les actes préparatoires et d'exécution nécessaires au recouvrement administratif et judiciaire des créances impayées dont l'Office national de sécurité sociale assure le recouvrement, tels que notamment la répartition des demandes d'intervention auprès des huissiers de justice compétents, la gestion administrative et financière des huissiers de justice, la transmission électronique à ces derniers des données personnelles des débiteurs, des jugements, contraintes et autres titres exécutoires à signifier et à exécuter, le suivi et le rapportage de leur signification et exécution forcée ainsi que la gestion administrative de leurs éventuelles contestations amiables ou judiciaires.
+
+La communication des données personnelles des débiteurs de l'Office national de sécurité sociale au concessionnaire et aux huissiers de justice et leur traitement, dans le cadre de la mission de service public visée à l'alinéa 1er, ont pour seule finalité le recouvrement des créances impayées dont l'Office national de sécurité sociale assure le recouvrement.
+
+Les données personnelles qui peuvent être traitées conformément à l'alinéa 2 sont les données personnelles nécessaires au recouvrement des créances impayées dont l'Office national de sécurité sociale assure le recouvrement, dont celles mentionnées sur les titres exécutoires. Il s'agit des données telles que, entre autres :
+
+\- nom, prénoms, numéro de registre national, date de naissance, lieu de naissance, sexe, état civil, régime matrimonial, profession, composition familiale, coordonnées de contact (mail, téléphone,...), adresse du domicile et de la résidence, numéro de compte bancaire du débiteur ou d'un tiers saisi, revendiquant, héritier ou co-propriétaire, co-saisi, mandataire, associé;
+
+\- les titres exécutoires obtenus par l'ONSS;
+
+\- les actes d'huissiers de justice;
+
+\- les biens mobiliers ou immobiliers, corporels ou incorporels saisissables répertoriés par l'huissier de justice;
+
+\- les données devant être contenues dans les actes d'huissiers, telles que prévues par le Code judiciaire;
+
+\- le montant et la nature des dettes sociales;
+
+\- les informations échangées en vue d'assurer l'exécution des titres exécutoires;
+
+\- l'extrait du fichier des avis de saisie;
+
+\- l'état des procédures judiciaires relatives aux saisies en cours.
+
+Les données en question sont traitées dans le respect des principes visés [<sup>2</sup> dans la règlementation en matière de traitement de données à caractère personnel]<sup>2</sup>.
+
+L'Office national de sécurité sociale est le responsable du traitement de ces données personnelles. Il est autorisé à communiquer ces données personnelles au concessionnaire et aux huissiers de justice, en vue de leur traitement dans le respect des finalités légales déterminées à l'alinéa 3.
+
+Le concessionnaire ne peut les conserver que le temps nécessaire pour mener à terme la procédure de recouvrement, c'est-à-dire jusqu'au paiement de la dette ou la déclaration d'irrécouvrabilité et à la clôture de l'intervention de l'huissier de justice dans la procédure en question.]<sup>1</sup>
+
+(NOTE : par son arrêt n° 49/2019 du 04-04-2019 (M.B. 10-05-2019, p. 45369), la Cour constitutionnelle a annulé l'article 40, § 5, alinéa 2, tel qu'il a été remplacé par l'article 4 de la loi précitée du 1er décembre 2016, en ce qu'il ne permet pas que l'opposition à contrainte soit formée par voie de requête contradictoire et en ce qu'il prévoit que cette opposition doit être formée dans les quinze jours à partir de la signification de la contrainte;)
+
+----------
+
+(1)&lt;L 2016-12-01/22, art. 4, 065; En vigueur : 01-01-2017&gt; (NOTE : par son arrêt n° 49/2019 du 04-04-2019 (M.B. 10-05-2019, p. 45369), la Cour constitutionnelle a annulé le présent article, tel qu'il a été remplacé par l'article 4 de la loi du 1er décembre 2016 « modifiant la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et abrogeant le chapitre III, section 3, de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, en ce qui concerne le recouvrement par voie de contrainte par l'Office national de sécurité sociale et modifiant la loi du 24 février 2003 concernant la modernisation de la gestion de la sécurité sociale et concernant la communication électronique entre des entreprises et l'autorité fédérale », en ce qu'il ne prévoit pas une procédure préalable à la délivrance de la contrainte qui contienne les garanties énumérées en B.20.2;)
+
+(2)&lt;L 2018-12-21/49, art. 52, 072; En vigueur : 01-10-2018&gt;
+
+(3)&lt;L 2019-05-26/09, art. 8, 074; En vigueur : 17-06-2019&gt;
+
+##### Art. 40bis
+
+&lt;Inséré par L 2005-07-03/46, art. 43; En vigueur : indéterminée &gt; L'Office peut octroyer amiablement des termes et délais à ses débiteurs, selon les conditions et modalités déterminées par le Roi après avis du Comite de gestion, avant de citer devant le juge ou de procéder par voie de contrainte.
+
+##### Art. 40ter
+
+&lt;inséré par L 2006-07-20/38, art. 60; En vigueur : 01-07-2006&gt; L'organisme de perception des cotisations de sécurité sociale peut, sur simple demande, réclamer les données des clients et des tiers, ainsi que les sommes en souffrance dont ces clients et tiers sont encore redevables, aux employeurs qui ont des dettes envers lui et ce, à partir du moment où l'employeur n'a pas payé les cotisations sociales relatives à deux trimestres exigibles au cours de la période des douze mois écoulés et qu'il ne bénéficie pas pour celles-ci d'un règlement amiable d'apurement suivi scrupuleusement.
+
+Le Roi fixe des règles spécifiques au sujet du contenu de la communication, de la nature et du contenu des informations à communiquer et des pièces a produire, ainsi que les délais dans lesquels la communication et la production des pièces doivent avoir lieu. Le Roi peut également fixer les modalités de transmission de la communication.
+
+Si les conditions fixées par le Roi ne sont pas respectées ou si les données transmises s'averent inexactes, l'organisme de perception peut rendre le ou les dirigeants de la société la personne morale visée à l'article 17, § 3, de la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales sans but lucratif et les fondations, qui est ou sont en charge de la gestion journalière de la société ou de la personne morale, personnellement et solidairement responsables des cotisations sociales, majorations, intérêts de retard et de l'indemnité forfaitaire visée à l' (article 54ter) de l'arrêté royal du 28 novembre 1969 pris en exécution de la présente loi. &lt;L 2006-12-27/32, art. 90, 029; En vigueur : 01-01-2007&gt;
+
+Cette responsabilité personnelle et solidaire peut être étendue aux autres dirigeants de la société ou de la personne morale lorsqu'une faute ayant contribué au manquement visé à l'alinéa précédent est établie dans leur chef.
+
+L'organisme de perception intente l'action en responsabilité personnelle et solidaire des dirigeants visée aux alinéas précédents devant le tribunal compétent.
+
+Pour le recouvrement de ces sommes dues, l'organisme de perception peut faire usage des modalités de recouvrement telles que prevues à l'article 40.
+
+##### Art. 40quater
+
+[<sup>1</sup> A défaut de paiement dans le délai fixé, les cotisations, les majorations de cotisations, les intérêts de retard, les indemnités forfaitaires et les cotisations à la suite de régularisation, dues à l'Office, peuvent être prélevés d'office, selon les modalités fixées par le Roi, du compte des administrations provinciales et locales affiliées ouvert auprès des institutions suivantes : BELFIUS, BNP PARIBAS FORTIS, bpost et la Banque Nationale de Belgique, successivement dans l'ordre précité.
+
+L'arrêté royal n° 286 du 31 mars 1984 portant des mesures en vue d'améliorer la perception des cotisations de sécurité sociale et de solidarité est également d'application en ce qui concerne les montants dus à l'Office.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 21, 062; En vigueur : 01-01-2017&gt;
+
+### Section 6. - (Privilèges et droits des organismes percepteurs de cotisations de sécurité sociale en matière de recouvrement) &lt;L 2005-07-03/46, art. 45, 025; En vigueur : 23-02-2007&gt;
+
+##### Art. 41
+
+&lt;Disposition modificative.&gt;
+
+##### Art. 41bis
+
+[<sup>1</sup> Au sens de la présente section, on entend par organisme percepteur de cotisations de sécurité sociale: l'Office national de sécurité sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-02-28/04, art. 26, 081; En vigueur : 01-01-2022&gt;
+
+##### Art. 41ter
+
+&lt;Inséré par L 2005-07-03/46, art. 47; En vigueur : 23-02-2007&gt; § 1er. Toute créance généralement quelconque de l'organisme percepteur de cotisations de sécurité sociale ayant fait l'objet d'un titre exécutoire ou (pouvant donner lieu) à saisie conservatoire ou qui a fait l'objet d'une ordonnance autorisant la saisie conservatoire est garantie par une hypothèque légale sur tous les biens (situés en Belgique dont le débiteur (, ou le solidairement responsable en application des articles 265, 409 et 530 du Code des sociétes) est propriétaire ou nu propriétaire ainsi qu'à l'égard des biens sur lesquels il dispose d'un droit d'usufruit, d'emphytéose ou de superficie) et qui en sont susceptibles. &lt;L 2005-12-27/31, art. 141, 027; En vigueur : 09-01-2006&gt; &lt;L 2006-07-20/39, art. 145, 2°, 028; En vigueur : 01-08-2006&gt; &lt;L 2006-12-27/32, art. 92, 029; En vigueur : 01-03-2007&gt;
+
+§ 2. L'hypothèque légale ne préjudicie pas aux privilèges et hypothèques antérieurs; elle ne prend rang qu'à partir de son inscription.
+
+§ 3. L'hypothèque légale est inscrite à la requête de l'organisme percepteur de cotisations de sécurité sociale.
+
+L'article [<sup>1</sup> XX.113 du Code de droit économique]<sup>1</sup> n'est pas applicable à l'hypothèque légale concernant les créances visées au § 1er, et qui sont antérieures au jugement déclaratif de faillite.
+
+§ 4. L'inscription a lieu sur présentation du titre y donnant droit conformément au § 1er et dans le respect de l'article 89 de la loi hypothécaire du 16 décembre 1851.
+
+§ 5. L'organisme percepteur de cotisations de sécurite sociale donne mainlevée dans la forme administrative, sans être tenu, vis-à-vis du conservateur des hypothèques, de fournir la justification du paiement des sommes dues.
+
+§ 6. Si avant d'avoir acquitté les sommes garanties par l'hypothèque légale, les débiteurs désirent en affranchir tout ou une partie des biens grevés, ils en font la demande à l'organisme percepteur de cotisations de sécurité sociale. Cette demande sera admise si l'organisme a déjà ou s'il lui est donné sûreté suffisante pour le montant de ce qui lui est dû.
+
+§ 7. Les frais de formalités hypothécaires relatives à l'hypothèque légale sont à charge du débiteur.
+
+----------
+
+(1)&lt;AR 2022-04-18/12, art. 11, 083; En vigueur : 11-06-2022&gt;
+
+##### Art. 41quater
+
+&lt;L 2006-12-27/32, art. 93, 029; En vigueur : 01-03-2007 mais voir précisions à l'art. 94 de la L 2006-12-27/32, tel que modifié&gt; § 1er. Les notaires requis de dresser un acte ayant pour objet l'aliénation ou l'affectation hypothécaire d'un immeuble, d'un navire ou d'un bateau dont, à la passation de l'acte, un employeur, personne physique ou morale, assujetti à un organisme percepteur des cotisations de sécurité sociale, ou l'ayant été, ou celui qui a été tenu pour solidairement responsable en application des articles 265, 409 et 530 du Code des sociétés, est propriétaire ou nu-propriétaire ou à l'égard desquels il dispose d'un droit d'usufruit, d'emphytéose ou de superficie, sont personnellement responsables du paiement des créances des organismes percepteurs de cotisations de sécurité sociale pouvant donner lieu à inscription hypothécaire, s'ils n'en avisent pas les organismes percepteurs de cotisations de sécurité sociale :
+
+1° au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la sécurité sociale;
+
+2° par tout autre moyen permettant de signer l'avis et de conférer date certaine à son envoi, lorsque l'envoi ne peut être effectué conformément au 1°.
+
+Si l'acte visé n'est pas passé dans les trois mois à compter de l'expédition de l'avis, celui-ci sera considéré comme non avenu.
+
+§ 2. Si l'intérêt de l'organisme percepteur des cotisations l'exige, il notifie au notaire avant l'expiration du douzième jour ouvrable qui suit la date d'expédition de l'avis prévu au § 1er et au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la sécurité sociale, le montant des créances pouvant donner lieu à inscription de l'hypothèque légale sur les biens faisant l'objet de l'acte.
+
+Lorsque l'envoi de la notification ne peut être effectué au moyen d'une procédure utilisant les techniques de l'informatique, les organismes percepteurs de cotisations de sécurité sociale procèdent à la notification par tout autre moyen conférant date certaine à l'envoi et permettant de la signer.
+
+§ 3. (Lorsque l'acte visé au § 1er est passé, la notification visée au § 2 emporte saisie-arrêt entre les mains du notaire sur les sommes et valeurs qu'il détient en vertu de l'acte pour le compte ou au profit du débiteur de l'organisme percepteur de cotisations de sécurité sociale et vaut opposition sur le prix au sens de l'article 1642 du Code judiciaire dans les cas où le notaire est tenu de répartir ces sommes et valeurs conformément aux articles 1639 à 1654 du Code judiciaire.
+
+Sans préjudice des droits des tiers, lorsque l'acte visé au § 1er est passé, le notaire est tenu, sous réserve de l'application des articles 1639 à 1654 du Code judiciaire, de verser entre les mains de l'organisme percepteur de cotisations de securité sociale, au plus tard le huitième jour ouvrable qui suit la passation de l'acte, les sommes et valeurs qu'il détient en vertu de l'acte pour le compte ou au profit du débiteur de l'organisme percepteur, à concurrence du montant des créances qui lui a été notifié en exécution du § 2.
+
+En outre, si les sommes et valeurs ainsi soumises à saisie-arret sont inférieures à l'ensemble des sommes dues aux créanciers inscrits et aux créanciers opposants, le notaire doit, sous peine d'être personnellement responsable de l'excédent, en informer les organismes percepteurs des cotisations, au plus tard le premier jour ouvrable qui suit la passation de l'acte :
+
+1° au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la sécurité sociale;
+
+2° par tout autre moyen permettant de signer l'information et de conférer date certaine à son envoi, lorsque l'envoi ne peut être effectué conformément au 1°.
+
+Sans préjudice des droits des tiers, la transcription ou l'inscription de l'acte n'est pas opposable aux organismes percepteurs de cotisations de sécurité sociale, si l'inscription de l'hypotheque légale a lieu dans les huit jours ouvrables qui suivent l'envoi de l'information prévue à l'alinéa précédent.
+
+Sont inoperantes au regard des créances des organismes percepteurs de cotisations de sécurité sociale notifiées en exécution du § 2, toutes les créances non inscrites pour lesquelles saisie ou opposition n'est pratiquée qu'après l'expiration du délai prévu à l'alinéa 2 du présent paragraphe.) &lt;L 2008-06-08/31, art. 34, 036; En vigueur : 26-06-2008&gt;
+
+§ 4. Les inscriptions prises après le délai prévu au § 3, alinéa 3, ou pour sûreté de créances qui n'ont pas été notifiées, conformément au § 2, ne sont pas opposables au créancier hypothecaire, ni à l'acquéreur qui pourra en requérir la mainlevée.
+
+§ 5. La responsabilité encourue par le notaire, en vertu des §§ 1er et 3, ne peut excéder, suivant le cas, la valeur du bien aliené ou le montant de l'inscription hypothécaire, déduction faite des sommes et valeurs saisies-arrêtées entre ses mains.
+
+§ 6. Les §§ 1er à 5 sont applicables à toute personne habilitée à donner l'authenticité aux actes vises au § 1er.
+
+§ 7. Les fonctionnaires publics ou les officiers ministériels charges de vendre publiquement des meubles dont la valeur atteint au moins 250 euros, sont personnellement responsables du paiement des sommes dues au moment de la vente aux organismes percepteurs des cotisations de sécurité sociale par l'employeur, personne physique ou morale, ou le solidairement responsable en application des articles 265, 409 et 530 du Code des sociétés, concerné par la saisie, s'ils n'en avisent pas les organismes percepteurs de cotisations de sécurité sociale, au plus tard dans les deux jours ouvrables qui suivent la vente :
+
+1° au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la sécurité sociale;
+
+2° par tout autre moyen permettant de signer l'avis et de conférer date certaine à son envoi, lorsque l'envoi ne peut être effectué conformément au 1°.
+
+Les fonctionnaires publics ou les officiers ministériels chargés de procéder à la distribution par contribution des deniers saisis-arrêtés, au sens de l'article 1627 du Code judiciaire, sont personnellement responsables du paiement des sommes dues à l'organisme percepteur des cotisations par le débiteur, ou le solidairement responsable, au moment de la distribution par contribution, si, avant d'y procéder, ils n'en avisent pas les organismes percepteurs de cotisations de sécurité sociale :
+
+1° au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la sécurité sociale;
+
+2° par tout autre moyen permettant de signer l'avis et de conférer date certaine à son envoi, lorsque l'envoi ne peut être effectué conformément au 1°.
+
+La notification du montant des sommes dues faite par l'organisme percepteur des cotisations, au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la sécurité sociale, au plus tard avant l'expiration du douzième jour ouvrable qui suit la date d'expédition de l'avis prévu aux alinéas précédents, emporte saisie-arrêt entre les mains des fonctionnaires publics ou officiers ministériels mentionnés à l'alinéa 1er.
+
+Lorsque l'envoi de la notification ne peut être effectuée au moyen d'une procédure utilisant les techniques de l'informatique, les organismes percepteurs de cotisations de sécurité sociale procèdent à la notification par tout autre moyen conférant date certaine à son envoi et permettant de la signer.
+
+Les dispositions prévues au présent paragraphe sont applicables aux fonctionnaires publics ou officiers ministériels chargés de vendre des meubles, conformément aux articles 1526bis et suivants du Code judiciaire.
+
+§ 8. Dans les cas où l'avis visé au §§ 1er et 7 est envoyé au moyen d'une procédure utilisant les techniques de l'informatique, la date d'envoi dudit avis s'entend de la date de l'accusé de réception communiqué par la Banque-Carrefour de la sécurité sociale, après réception par celle-ci de l'accusé de réception émanant de l'organisme percepteur des cotisations de sécurite sociale.
+
+Dans les cas où les informations visées au § 3 et les notifications visées aux §§ 2 et 7 sont envoyées au moyen d'une procédure utilisant les techniques de l'informatique, la date de ces informations et notifications est celle de leur envoi.
+
+§ 9. Les renseignements que contiennent les avis, informations et notifications sont identiques qu'ils soient transmis au moyen d'une procédure utilisant les techniques de l'informatique ou par tout autre moyen conférant date certaine à l'envoi et permettant de les signer.
+
+Lorsqu'ils sont envoyés par tout autre moyen conferant date certaine à l'envoi et permettant de les signer, ces avis et informations sont établis conformément aux modèles arrêtés par le ministre des Affaires sociales ou son delégué.
+
+Lors de l'envoi des avis, informations et notifications mentionnes ci-dessus, adressés à ou émanant de l'organisme percepteur, les personnes concernées sont identifiées au moyen du numéro d'identification visé à l'article 5 de la loi du 16 janvier 2003 portant création d'une Banque-Carrefour des Entreprises, modernisation du registre de commerce, création de guichets-entreprises agréés et portant diverses dispositions, ainsi que du numéro d'identification visé a l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la sécurité sociale.
+
+§ 10. Lorsque l'avis visé aux §§ 1er et 7 n'est pas introduit par une procédure utilisant les techniques de l'informatique, les informations et notifications consécutives à cet avis ne peuvent être envoyées selon cette procédure mais exclusivement par tout autre moyen conférant date certaine à leur envoi et permettant de les signer.
+
+Lorsque la notification visée aux §§ 2 et 7 n'est pas introduite par une procédure utilisant les techniques de l'informatique, les informations consécutives à cette notification ne peuvent être envoyées selon cette procédure mais exclusivement par tout autre moyen conférant date certaine à son envoi et permettant de la signer.
+
+Lorsque l'usage d'un autre moyen est mis en oeuvre, l'avis, l'information ou la notification envoyé par cet autre moyen prévaut sur l'envoi éventuel du même avis, de la même information ou de la même notification par une procédure utilisant les techniques de l'informatique dès lors que la date de l'envoi informatique diffère de la date de l'envoi par tout autre moyen tel que visé à l'alinéa précédent.
+
+§ 11. L'origine et l'intégrité du contenu des avis, informations et notifications vises aux §§ 1er, 2, 3 et 7 en cas d'envoi au moyen d'une procédure utilisant les techniques de l'informatique doivent être assurées au moyen des techniques de protection adaptées.
+
+§ 12. [<sup>1</sup> Pour que les notifications visées aux paragraphes 2 et 7 emportent valablement saisie-arrêt lorsqu'elles sont envoyées par une procédure utilisant les techniques de l'informatique, elles doivent être revêtues:
+
+\- d'une signature électronique avancée au sens de l'article 3.11. du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, ou
+
+\- d'une signature électronique qualifiée au sens de l'article 3.12. de ce règlement, ou du cachet électronique qualifié d'une institution au sens de l'article 3.27. de ce règlement.]<sup>1</sup>
+
+Quelle que soit la technique appliquée, il est garanti que seules les personnes habilitées ont accès aux moyens avec lesquels la signature est créée.
+
+Les procédures suivies doivent par ailleurs permettre à la personne physique responsable de l'envoi d'être identifiée correctement, ainsi que d'identifier correctement le moment de l'envoi.
+
+Ces données doivent être conservées par l'expéditeur pendant une période de dix ans et, en cas de litige, elles doivent être produites dans un délai raisonnable.
+
+----------
+
+(1)&lt;L 2018-09-20/14, art. 18, 071; En vigueur : 20-10-2018&gt;
+
+##### Art. 41quinquies
+
+&lt;Inséré par L 2005-07-03/46, art. 49; En vigueur : 23-02-2007&gt; § 1er. La cession, en propriété ou en usufruit, d'un ensemble de biens, composés entre autres d'éléments qui permettent de retenir la clientèle, affectés à l'exercice d'une profession libérale, charge ou office, ou d'une exploitation industrielle, commerciale ou agricole ainsi que la constitution d'un usufruit sur les mêmes biens n'est opposable a l'organisme percepteur de cotisations de sécurité sociale qu'à l'expiration du mois qui suit celui au cours duquel une (copie certifiée conforme ou une copie certifiée complète, exacte et véritable par toutes les parties contractantes) de l'acte translatif ou constitutif a été notifiée à cet organisme. &lt;L 2005-12-27/31, art. 143, 027; En vigueur : 09-01-2006&gt;
+
+§ 2. Le cessionnaire est solidairement responsable du paiement des cotisations de sécurité sociale, majorations de cotisations et intérêts de retard dus par le cédant à l'expiration du délai visé au § 1er, à concurrence du montant déjà payé ou attribué par lui ou d'un montant correspondant à la valeur nominale des actions ou parts attribuées en contrepartie de la cession, avant l'expiration dudit délai.
+
+§ 3. Les §§ 1er et 2 ne sont pas applicables si le cédant joint à l'acte de cession un certificat établi exclusivement à cette fin par les organismes percepteurs de cotisations de sécurité sociale dans les trente jours qui précèdent la notification de la convention.
+
+La délivrance de ce certificat est subordonnée a l'introduction par le cédant d'une demande en double exemplaire auprès de l'organisme percepteur des cotisations de sécurité sociale.
+
+Le certificat sera refusé par l'organisme percepteur des cotisations de sécurité sociale, si, à la date de la demande, il a été établi à charge du cédant une dette qui constitue une dette liquide et certaine vis-à-vis de l'organisme ou si la demande est introduite après l'annonce ou au cours d'un contrôle par un inspecteur social.
+
+Le certificat est soit délivré soit refusé dans un délai de trente jours à partir de l'introduction de la demande du cédant.
+
+§ 4. Ne sont pas soumises aux dispositions du présent article les cessions réalisées par un curateur, [<sup>1</sup> un mandataire judiciaire]<sup>1</sup> ou dans le cadre d'une opération de fusion, de scission, d'apport d'une universalité de biens ou d'une branche d'activité réalisée conformément aux dispositions du Code des sociétés.
+
+§ 5. La demande et le certificat visés au présent article sont établis conformément aux modèles arrêtés par le ministre qui a les Affaires sociales dans ses compétences.
+
+----------
+
+(1)&lt;L 2013-05-27/15, art. 48, 047; En vigueur : 01-08-2013&gt;
+
+##### Art. 41sexies
+
+[<sup>1</sup> § 1er. Les notaires requis de dresser un acte ou un certificat d'hérédité visé à l'article [<sup>3</sup> 4.59, § 4, alinéa 3,]<sup>3</sup> du Code civil, sont personnellement responsables du paiement des dettes dont la débition est susceptible d'être notifiée conformément au paragraphe 5, qui sont dues par le de cujus, ses héritiers et légataires dont l'identité est mentionnée dans l'acte ou le certificat, ou les bénéficiaires d'une institution contractuelle consentie par le de cujus, s'ils n'en avisent pas par avis les organismes percepteurs de cotisations de sécurité sociale :
+
+1° au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la Sécurité sociale;
+
+2° par tout autre moyen permettant de signer l'avis et de conférer date certaine à son envoi, lorsque l'envoi ne peut être effectué conformément au 1°.
+
+S'agissant de dettes dans le chef du de cujus, la responsabilité visée à l'alinéa 1er est limitée à la valeur de la succession.
+
+S'agissant de dettes dans le chef d'ayants droit, la responsabilité visée à l'alinéa 1er est limitée à la valeur des avoirs qui échoient à l'ayant droit dont l'identité est mentionnée dans l'acte ou le certificat et à propos duquel la responsabilité du notaire est engagée.
+
+§ 2. Si l'acte ou le certificat dont question n'est pas dressé dans les trois mois à compter de l'expédition de l'avis, celui-ci sera considéré comme non avenu.
+
+§ 3. Lorsque l'avis est communiqué conformément au paragraphe 1er, 1°, on entend par date d'envoi de l'avis, la date de l'accusé de réception communiqué par la Banque-carrefour de la Sécurité sociale après réception par celle-ci de l'accusé de réception émanant de l'organisme percepteur des cotisations de sécurité sociale.
+
+§ 4. L'avis mentionne l'identité du de cujus, de ses héritiers ou légataires, ainsi que du bénéficiaire éventuel d'une institution contractuelle.
+
+Les personnes concernées sont identifiées au moyen du numéro d'identification visé à l'article 5 de la loi du 16 janvier 2003 portant création d'une Banque-carrefour des Entreprises, modernisation du registre de commerce, création de guichets-entreprises agréés et portant diverses dispositions ainsi que du numéro d'identification visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale.
+
+§ 5. Avant l'expiration du 12e jour ouvrable qui suit la date d'expédition de l'avis visé au paragraphe 1er, l'organisme percepteur des cotisations de sécurité sociale peut notifier au notaire ayant expédié l'avis et au moyen d'une procédure utilisant les techniques de l'informatique, via la Banque-Carrefour de la Sécurité sociale, l'existence dans le chef du de cujus ou d'une ou plusieurs autres personnes mentionnées dans l'avis d'une dette à l'égard de l'organisme percepteur des cotisations de sécurité sociale, ainsi que le montant de la dette susvisée, dans le chef de chaque débiteur.
+
+Les dettes qui sont susceptibles d'être notifiées en application de l'alinéa 1er sont :
+
+\- toutes les créances en principal et accessoires de l'organisme percepteur des cotisations de sécurité sociale qui sont couvertes par un titre;
+
+\- toutes les créances en principal et accessoires qui résultent des déclarations faites à l'organisme percepteur des cotisations de sécurité sociale en application de l'article 21.
+
+Lorsque la notification ne peut être envoyée au moyen d'une procédure utilisant les techniques de l'informatique, les organismes percepteurs de cotisations de sécurité sociale procèdent à la notification par tout autre moyen conférant date certaine à l'envoi et permettant de le signer.
+
+Dans les cas où la notification est envoyée au moyen d'une procédure utilisant les techniques de l'informatique, la date de la notification est celle de son envoi.
+
+§ 6. Dans le certificat d'hérédité ou au pied de l'expédition [<sup>3</sup> ou de l'extrait]<sup>3</sup> de l'acte d'hérédité délivrée, il est fait mention soit de l'absence de notification de dettes en vertu du paragraphe 5, tant dans le chef du de cujus que dans le chef d'une ou plusieurs personnes mentionnées dans l'avis et destinataires du certificat [<sup>3</sup> , de l'expédition ou de l'extrait]<sup>3</sup>, soit du paiement des dettes notifiées en vertu du paragraphe 5, le cas échéant à intervenir au moyen des fonds détenus auprès du débiteur.
+
+Le cas échéant, la mention du paiement intervenu ou à intervenir est ajoutée ou complétée au pied du certificat par le fonctionnaire désigné par le Roi.
+
+Le notaire qui délivre un certificat d'hérédité [<sup>3</sup> , une expédition ou un extrait]<sup>3</sup> de l'acte d'hérédité portant des mentions inexactes relatives à l'absence de notification ou au paiement des dettes dont l'existence a été notifiée en application du paragraphe 5, encourt la même responsabilité que celui qui contrevient à l'obligation visée au paragraphe 1er. Cette responsabilité est toutefois limitée au montant non recouvré du fait de ces inexactitudes.
+
+§ 7. Sous peine d'être personnellement responsable du paiement des dettes telles que notifiées en application du paragraphe 5, celui qui libère des avoirs d'un défunt conformément à l'article [<sup>3</sup> 4.59, § 4, alinéa 3,]<sup>3</sup> du Code civil ne peut le faire de manière libératoire qu'à condition qu'il résulte clairement du certificat ou de l'acte d'hérédité qu'aucune notification au sens du paragraphe 5 n'a été faite.
+
+Par dérogation à l'alinéa 1er, la libération des avoirs du défunt conformément à l'article [<sup>3</sup> 4.59, § 4, alinéa 3,]<sup>3</sup> du Code civil peut se faire de manière libératoire à l'héritier, au légataire ou au bénéficiaire d'une institution contractuelle consentie par le de cujus qui présente un certificat [<sup>3</sup> , une expédition ou un extrait]<sup>3</sup> de l'acte d'hérédité mentionnant :
+
+1° que toutes les dettes éventuellement notifiées conformément au paragraphe 5 au nom du défunt et au nom de cet héritier, légataire ou bénéficiaire d'une institution contractuelle ont été payées;
+
+2° ou que la libération des avoirs peut avoir lieu au profit de cet héritier, légataire ou bénéficiaire d'une institution contractuelle, après paiement de ses dettes notifiées, au moyen des fonds détenus auprès du débiteur.
+
+La responsabilité visée à l'alinéa 1er est limitée à la valeur des avoirs libérés au profit des débiteurs mentionnés dans la notification visée au paragraphe 5.
+
+§ 8. Les renseignements que contiennent l'avis et la notification sont identiques qu'ils soient transmis au moyen d'une procédure utilisant les techniques de l'informatique ou par tout autre moyen conférant date certaine à l'envoi et permettant de les signer.
+
+§ 9. Lorsqu'il est envoyé par tout autre moyen conférant date certaine à l'envoi et permettant de le signer, l'avis est établi conformément au modèle arrêté par le Ministre des Affaires sociales ou son délégué.
+
+§ 10. Lorsque l'avis visé au paragraphe 1er n'est pas introduit par une procédure utilisant les techniques de l'informatique, la notification consécutive à cet avis et visée au paragraphe 5 ne peut pas être envoyée selon cette procédure mais exclusivement par tout autre moyen conférant une date certaine à leur envoi et permettant de la signer.
+
+§ 11. Lorsque l'usage d'un autre moyen est mis en oeuvre, l'avis ou la notification envoyé par cet autre moyen prévaut sur l'envoi éventuel du même avis ou de la même notification par une procédure utilisant les techniques de l'informatique dès lors que la date de l'envoi informatique diffère de la date de l'envoi par tout autre moyen.
+
+§ 12. L'origine et l'intégrité du contenu des avis et notifications visés aux paragraphes 1er et 5 en cas d'envoi au moyen d'une procédure utilisant les techniques de l'informatique doivent être assurées au moyen des techniques de protection adaptées.
+
+§ 13. Pour que la notification visée au paragraphe 5 soit valable lorsqu'elle est envoyée au moyen d'une procédure utilisant les techniques de l'informatique, elle doit être revêtue d'une signature électronique, implémentée selon l'une des techniques visées à l'article 41quater, § 12, de la présente loi.
+
+Quelle que soit la technique appliquée, il est garanti que seules les personnes habilitées ont accès aux moyens avec lesquels la signature est créée.
+
+Les procédures suivies doivent par ailleurs permettre à la personne physique responsable de l'envoi d'être identifiée correctement, ainsi que d'identifier correctement le moment de l'envoi.
+
+Ces données doivent être conservées par l'expéditeur pendant une période de 10 ans et, en cas de litige, elles doivent être produites dans un délai raisonnable.
+
+§ 14. Les paragraphes 1er à 13 sont applicables à toute personne ou service habilité à établir [<sup>3</sup> un acte ou]<sup>3</sup> un certificat d'hérédité visé à l'article [<sup>3</sup> 4.59, § 4, alinéa 3,]<sup>3</sup> du Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 35, 045; En vigueur : 01-07-2012&gt;
+
+(2)&lt;L 2022-01-19/18, art. 45, 085; En vigueur : 01-07-2022&gt;
+
+(3)&lt;L 2022-07-30/03, art. 61, 086; En vigueur : 01-11-2022&gt;
+
+### Section 7. - Prescription.
+
+##### Art. 42
+
+(Les créances de l'Office national de sécurite sociale à charge des employeurs assujettis à la présente loi et des personnes visées [<sup>2</sup> aux articles 30bis et 30ter]<sup>2</sup>, se prescrivent par trois ans à partir de la date d'exigibilité des créances visées. Par dérogation à ce qui précède, le délai de prescription est porté à [<sup>9</sup> dix]<sup>9</sup> ans, si les créances de l'Office précite font suite à des régularisations d'office à la suite de la constatation, dans le chef de l'employeur, de manoeuvres frauduleuses ou de déclarations fausses ou sciemment incomplètes.
+
+Les actions intentées contre l'Office national de sécurité sociale en répétition de cotisations indues se prescrivent par trois ans à partir de la date du paiement.) &lt;L 2008-12-22/32, art. 74, 1°, 038; En vigueur : 01-01-2009&gt;
+
+(Les créances des organismes percepteurs des cotisations de sécurité sociale à charge des employeurs qui occupent des travailleurs payés par le service central des dépenses fixes, institue par l'arrêté royal du 13 mars 1952 organisant [<sup>8</sup> le Service public fédéral Stratégie et Appui, en ce qui concerne ses missions prévues à l'article 2, alinéa 1er, 10°, de l'arrêté royal du 22 février 2017 portant création du Service public fédéral Stratégie et Appui]<sup>8</sup> [<sup>3</sup> ou par P&O Shared Service Center, institué par l'arrêté royal du 25 avril 2014 portant création de la direction générale P&O Shared Service Center au sein du Service public fédéral Personnel et Organisation]<sup>3</sup>, se prescrivent par 7 ans.) &lt;L 2005-12-27/30, art. 93, 1°, 026; En vigueur : 09-01-2006&gt;
+
+(En cas d'assujettissement frauduleux à la sécurité sociale des travailleurs salariés, l'Office précité dispose d'un délai de [<sup>9</sup> dix]<sup>9</sup> ans à compter du premier jour du trimestre qui suit celui au cours duquel l'infraction a eu lieu pour procéder à l'annulation de ces assujettissements frauduleux ou à l'assujettissement d'office auprès de l'employeur réel. Conformément à l'alinéa 2, la restitution éventuelle de cotisations porte au maximum sur une période de trois ans.) &lt;L 2008-12-22/32, art. 74, 2°, 038; En vigueur : 01-01-2009&gt;
+
+(L'action intentée contre l'Office national de Sécurité sociale par un travailleur en reconnaissance de son droit subjectif à l'égard de l'Office précité doit, à peine de déchéance, être introduite dans les trois mois de la notification par l'Office précité de la décision d'assujettissement ou de refus d'assujettissement. Les cotisations qui se rattachent à la reconnaissance de ce droit subjectif doivent être déclarées et payées au plus tard le dernier jour du mois qui suit le trimestre au cours duquel ces cotisations sont dues si elles couvrent une période à venir, ou dans le mois qui suit celui au cours duquel le droit subjectif du travailleur a été reconnu par une décision coulée en force de chose jugée, si elles couvrent une période totalement ou partiellement écoulée.) &lt;L 2008-06-08/30, art. 32, 035; En vigueur : 01-07-2008&gt;
+
+[<sup>6</sup> Les créances de l'Office national de sécurité sociale concernant les interventions visées à l' article 8/2 versées indûment, se prescrivent par cinq ans prenant cours le jour du paiement. Les actions contre l'Office en vue du paiement des interventions dues précitées se prescrivent par cinq ans prenant cours le jour de leur exigibilité.]<sup>6</sup>
+
+(La prescription des actions visées aux (alinéas 1er à 3) est (interrompue) : &lt;L 2002-12-24/31, art. 111, 016; En vigueur : 16-02-1999&gt; &lt;L 2005-12-27/30, art. 93, 3°, 026; En vigueur : 09-01-2006&gt;
+
+1° de la manière prévue par l'article 2244 et suivants du Code civil;
+
+2° [<sup>1</sup> par une lettre recommandée adressée par l'Office national de Sécurité sociale à l'employeur ou aux personnes visées [<sup>7</sup> aux articles 30bis et 30ter]<sup>7</sup> et par une lettre recommandée adressée par l'employeur ou les personnes visées [<sup>7</sup> aux articles 30bis et 30ter]<sup>7</sup> à l'Office précité;]<sup>1</sup>
+
+3° par la signification de la contrainte visée à l'article 40.) &lt;L 1999-01-25/32, art. 36, 016; En vigueur : 16-02-1999&gt;
+
+[<sup>2</sup> 4° par l'introduction ou l'exercice de l'action publique, ainsi que par les actes de poursuite ou d'instruction.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 56, 040; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2012-03-29/08, art. 83, 044; En vigueur : 06-04-2012&gt;
+
+(3)&lt;L 2015-07-20/13, art. 10, 058; En vigueur : indéterminée ; entrera en vigueur le jour de l'entrée en vigueur de l'arrêté royal du 25 avril 2014 portant création de la direction générale P&O Shared Service Center au sein du Service public fédéral Personnel et Organisation&gt;
+
+(4)&lt;L 2016-05-16/01, art. 8, 061; En vigueur : 01-01-2016&gt;
+
+(5)&lt;L 2016-07-10/03, art. 22, 062; En vigueur : 01-01-2017&gt;
+
+(6)&lt;L 2016-12-25/48, art. 8, 063; En vigueur : 01-01-2016&gt;
+
+(7)&lt;L 2016-12-25/48, art. 9, 063; En vigueur : 01-01-2017&gt;
+
+(8)&lt;L 2017-09-30/01, art. 39, 066; En vigueur : 01-03-2017&gt;
+
+(9)&lt;L 2022-12-26/01, art. 51, 088; En vigueur : 01-01-2023&gt;
+
+## CHAPITRE V. - Dispositions générale.
+
+##### Art. 43
+
+Lorsqu'une rémunération est payée à un travailleur à l'intervention d'un tiers, le Roi peut édicter des règles particulières dérogatoires aux articles 15 et 23, §§ 1er et 2. Il peut également considérer ce tiers comme employeur pour la réception et le recouvrement des cotisations dues.
+
+## CHAPITRE Vbis. - [<sup>1</sup> Dispositions diverses budgétaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 23, 062; En vigueur : 01-01-2017&gt;
+
+### Section 1re. - [<sup>1</sup> Missions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 24, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 43/1
+
+[<sup>1</sup> Les autres ressources de l'Office national de sécurité sociale sont constituées par toutes les autres recettes liées à ses missions et à sa gestion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 25, 062; En vigueur : 01-01-2017&gt;
+
+### Section 2. - [<sup>1</sup> Missions en matière de sécurité sociale d'outre-mer et autres missions spécifiques visées à la section 1bis du chapitre II.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 26, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 43/2
+
+[<sup>1</sup> Les Fonds de l'ORPSS mentionnés ci-après sont transformés en fonds de l'Office national de sécurité sociale :
+
+1\) le fonds Maribel social visé à l'article 35 § 5, C), 2 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés;
+
+2\) les fonds visés à l'article 5 de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer;
+
+Les fonds mentionnés ci-avant conservent leur destination. Leur actif au 31 décembre 2016, qui est transféré à l'Office national de sécurité sociale, ne pourra être utilisé à d'autres fins que celles auxquelles ils étaient destinés le 31 décembre 2016.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 27, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 43/3
+
+[<sup>1</sup> L'Office national de sécurité sociale reçoit annuellement les subventions suivantes :
+
+1\) les subventions visées aux articles 10 à 14 de la loi du 6 mai 2002 portant création du Fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale;
+
+2\) la subvention visée à l'article 154, § 2, de la loi du 22 février 1998 portant des dispositions sociales;
+
+3\) la prise en charge visée à l'article 58 de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-10/03, art. 28, 062; En vigueur : 01-01-2017&gt;
+
+## CHAPITRE VI. - Dispositions diverses.
+
+##### Art. 44
+
+§ 1er. Les prestations fournies en tout ou en partie à l'aide des ressources de l'Office national de sécurité sociale [<sup>2</sup> ...]<sup>2</sup> sont soumises aux dispositions suivantes: &lt;AR 1989-10-11/32, art. 1, 004; En vigueur : 01-01-1986&gt;
+
+1° quel que soit le régime matrimonial, la travailleuse mariée dispose des prestations qui lui sont dues, comme de son salaire, ainsi qu'il est prévu par les lois relatives aux contrats de louage de travail;
+
+2° les prestations dues à un travailleur mineur d'âge lui sont remises valablement, sauf opposition du père, de la mere ou du tuteur;
+
+3° lorsque le conjoint du titulaire des prestations se plaint de ce qu'il les dilapide, [<sup>1</sup> le tribunal de la famille]<sup>1</sup> peut décider qu'elles seront versées au plaignant;
+
+4° lorsque le titulaire est veuf, divorcé ou séparé de corps, [<sup>1</sup> le tribunal de la famille]<sup>1</sup> peut, sur réquisition d'un tiers, décider que les prestations prévues au bénéfice de ses enfants seront versées à la personne physique ou morale qui en a la garde.
+
+§ 2. Jusqu'au jour de l'entrée en vigueur des dispositions de l'article 1410 du Code judiciaire, ces prestations sont incessibles et insaisissables, sauf le cas de récupération par l'organisme payeur, du montant des paiements indus.
+
+§ 3. Les dispositions du présent article ne visent pas les prestations prévues par les lois relatives aux regimes visés aux 2°, 3°, 5°, de l'article 5, qui sont régis par les dispositions desdites lois.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 265, 054; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2016-07-10/03, art. 29, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 45
+
+Tout employeur qui accorde volontairement à son personnel des avantages d'ordre social complémentaire de ceux qui résultent de la présente loi doit les accorder sans distinction à tous les travailleurs de son entreprise appartenant à une même catégorie.
+
+Dans les entreprises qui occupent plus de vingt travailleurs, ces avantages doivent être accordés suivant un règlement établi avec le concours de représentants du personnel qui seront designés selon une procédure fixée par arrêté royal.
+
+[<sup>1</sup> Cet article n'est pas d'application aux pensions complémentaires telles que visées à l'article 3, § 1er, 1°, de la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale.]<sup>1</sup>
+
+[<sup>2</sup> Cet article n'est pas applicable à l'allocation de mobilité octroyée conformément aux dispositions de la loi du 30 mars 2018 concernant l'instauration d'une allocation de mobilité.]<sup>2</sup>
+
+[<sup>3</sup> Cet article n'est pas applicable au budget mobilité octroyé conformément aux dispositions de la loi du 17 mars 2019 concernant l'instauration d'un budget mobilité.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2014-05-05/01, art. 23, 053; En vigueur : 19-05-2014&gt;
+
+(2)&lt;L 2018-03-30/32, art. 20, 069; En vigueur : 01-01-2018&gt;
+
+(3)&lt;L 2019-03-17/05, art. 20, 073; En vigueur : 01-03-2019&gt;
+
+##### Art. 46
+
+L'Office national de sécurité sociale, [<sup>1</sup> ...]<sup>1</sup>, l'Institut national d'assurance maladie-invalidité et l'Office national de l'emploi sont assimilés à l'Etat pour l'application des lois sur les impôts directs. Ils sont exempts de tous impôts ou taxes au profit des provinces et des communes. &lt;L 1989-12-22/31, art. 8, 005; En vigueur : 01-01-1990&gt;
+
+----------
+
+(1)&lt;L 2016-07-10/03, art. 30, 062; En vigueur : 01-01-2017&gt;
+
+##### Art. 47
+
+&lt;Disposition modificative&gt;
+
+##### Art. 48
+
+&lt;Disposition modificative.&gt;
+
+##### Art. 49
+
+Le Roi peut modifier les dispositions légales existantes afin de les mettre en concordance avec les dispositions de la présente loi et de ses arrêtés d'exécution.
+
+## CHAPITRE VII. - Dispositions transitoires et finales.
+
+##### Art. 50
+
+&lt;Disposition abrogatoire.&gt;
+
+##### Art. 51
+
+Jusqu'au jour de l'entrée en vigueur des dispositions du Code judiciaire qui ont trait à l'organisation et à la compétence des tribunaux du travail, les contestations entre l'Office national de sécurite sociale et les employeurs assujettis sont de la compétence du juge de paix, quel que soit le montant de la demande.
+
+##### Art. 52
+
+Les dispositions de la présente loi entreront en vigueur aux dates qui seront fixées par le Roi.
+
+Toutefois, les dispositions de l'article 3, § 4, 4e, 5e et 6e alinéas, et de l'article 4, premier alinéa, A, 5°, a, b, c, de l'arrêté-loi du 28 décembre 1944, (...) resteront applicables aussi longtemps que le Roi n'aura pas prescrit le versement trimestriel de la totalité de la cotisation destinée au régime des vacances annuelles des travailleurs. &lt;L 26-03-1970, art. 38, 3°&gt;
+
+(Dès que ce versement trimestriel aura été prescrit, l'article 65 des lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 28 juin 1971, sera en outre abrogé ). &lt;L 28-03-1975, art. 7&gt;
