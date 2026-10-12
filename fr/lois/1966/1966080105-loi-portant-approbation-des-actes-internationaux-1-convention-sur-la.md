@@ -1,0 +1,21 @@
+---
+title: "Loi portant approbation des actes internationaux : 1. Convention sur la responsabiblité civile dans le domaine de l'énergie nucléaire, faite à Paris, le 29 juillet 1960; 2. Convention complémentaire et annexe, faites à Bruxelles, le 31 juillet 1963; 3. Protocole additionnel à la Convention de Paris, fait à Paris, le 28 juillet 1964; Protocole additionnel à la Convention complémentaire de Bruxelles, fait à Paris, le 28 janvier 1964."
+identifier: "1966080105"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1966/08/01/1966080105/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1966-08-01
+published: 1966-08-23
+entry_into_force: 1966-09-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1966/08/01/1966080105/justel"
+retrieved: 2026-10-12
+---
+
+# 1er AOUT 1966. - Loi portant approbation des actes internationaux : 1. Convention sur la responsabiblité civile dans le domaine de l'énergie nucléaire, faite à Paris, le 29 juillet 1960; 2. Convention complémentaire et annexe, faites à Bruxelles, le 31 juillet 1963; 3. Protocole additionnel à la Convention de Paris, fait à Paris, le 28 juillet 1964; Protocole additionnel à la Convention complémentaire de Bruxelles, fait à Paris, le 28 janvier 1964.
+
+## Art. 1
+
+Article unique. Les actes internationaux suivants :1. Convention sur la responsabilité civile dans le domaine de l'énergie nucléaire, faite à Paris, le 29 juillet 1960; &lt;voir CN : 1960-07-29/30&gt;2. Convention complémentaire et annexe, faites à Bruxelles, le 31 janvier 1963; &lt;voir CN : 1963-01-31/30&gt;3. Protocole additionnel à la Convention de Paris, fait à Paris, le 28 janvier 1964;4. Protocole additionnel à la Convention complémentaire de Bruxelles, fait à Paris, le 28 janvier 1964,sortiront leur plein et entier effet.

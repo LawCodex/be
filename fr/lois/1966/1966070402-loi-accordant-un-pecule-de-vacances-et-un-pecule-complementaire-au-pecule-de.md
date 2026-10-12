@@ -1,0 +1,67 @@
+---
+title: "Loi accordant un pécule de vacances [et un pécule complémentaire au pécule de vacances] aux pensionnés des services publics. <Intitulé modifié par L 1999-12-24/36, art. 105, En vigueur : 01-01-2000>"
+identifier: "1966070402"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1966/07/04/1966070402/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1966-07-04
+published: 1966-07-28
+entry_into_force: 1966-01-01
+last_amended: 2013-12-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1966/07/04/1966070402/justel"
+justel_note: "Consultation des versions antérieures à partir du 20-10-2004 et mise à jour au 16-12-2013"
+retrieved: 2026-10-12
+---
+
+# 4 JUILLET 1966. - Loi accordant un pécule de vacances [et un pécule complémentaire au pécule de vacances] aux pensionnés des services publics. &lt;Intitulé modifié par L 1999-12-24/36, art. 105, En vigueur : 01-01-2000&gt;
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+Un pécule de vacances est accordé, sous certaines conditions, aux bénéficiaires d'une pension de retraite ou d'une pension de survie relevant d'un régime de pension du secteur public et tombant à charge :
+
+a) du Trésor public ou de la Caisse des ouvriers de l'Etat;
+
+b) des provinces, des communes (des agglomérations de communes, des fédérations des communes, des commissions de la culture,) des associations de communes ou des organismes subordonnés aux provinces ou aux communes; &lt;L 04-06-1976, art. 5&gt;
+
+c) des organismes auxquels s'applique l'arrêté royal n° 117 du 27 février 1935 établissant le statut des pensions du personnel des établissements publics autonomes et des régies instituées par l'Etat;
+
+d) des organismes auxquels a été rendue applicable la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit;
+
+e) [<sup>2</sup> ...]<sup>2</sup> des autres organismes publics ou d'intérêt public visés par la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, telle qu'elle a été modifiée par les lois subséquentes, et dont le personnel est soumis à un régime particulier de pension établi par ou en vertu d'une loi; &lt;AR 2004-10-18/32, art. 15, 002 ; En vigueur : 01-01-2005&gt;
+
+f) des fonds de pensions de survie gérés par les mêmes pouvoirs publics ou organismes publics ou d'intérêt public.
+
+(g) du Fonds des pensions de la police intégrée.) &lt;L 2002-05-06/31, art. 22, En vigueur : 01-04-2001&gt;
+
+[<sup>1</sup> h) du Fonds de pension solidarisé de l'ONSSAPL.]<sup>1</sup>
+
+Bénéficient également du pécule de vacances les titulaires d'une pension de retraite ou de survie allouée en exécution des décrets relatifs aux pensions coloniales ou des lois relatives au personnel d'Afrique coordonnées le 21 mai 1964.
+
+----------
+
+(1)&lt;L 2011-10-24/01, art. 42, 004; En vigueur : 01-01-2012&gt;
+
+(2)&lt;AR 2013-12-11/02, art. 28, 005; En vigueur : 01-01-2014&gt;
+
+## Art. 2
+
+&lt;L 1999-12-24/36, art. 106; En vigueur : 01-01-2000&gt; Un pécule complémentaire au pécule de vacances est accordé, sous certaines conditions, aux personnes visés à l'article 1 qui, au 1er mai de l'année pour laquelle le pécule complémentaire est dû :
+
+1° bénéficient effectivement d'un supplément accordé en application des article 120 ou 122 de la loi du 26 juin 1992 portant des dispositions sociales et diverses;
+
+2° bénéficient effectivement d'un supplément accordé en application de l'article 121 de la même loi, à condition :
+
+a) d'avoir atteint l'âge de 60 ans à cette date;
+
+b) que le minimum soit établi (sur la base d'un traitement moyen égal ou porté au montant prévu à l'article 121, § 3 de la même loi).
+
+Le présent article n'est pas applicable aux personnes qui bénéficient du minimum égal à 40 pc de la rétribution garantie prévu à l'article 127 de la même loi. &lt;L 2007-04-25/52, art. 5, 003; En vigueur : 01-04-2004&gt;
+
+## Art. 3
+
+&lt;L 1999-12-24/36, art. 106; En vigueur : 01-01-2000&gt; Le Roi détermine les montants, les conditions d'octroi et les modalités de paiement du pécule de vacances et du pécule complémentaire au pécule de vacances, ainsi que les pouvoirs ou organismes qui en supportent la charge.
