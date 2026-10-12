@@ -1,0 +1,71 @@
+---
+title: "Décret modifiant l'article 74 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre."
+identifier: "2001029281"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029281/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2001-07-12
+published: 2001-07-20
+entry_into_force: 2001-05-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029281/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 12 JUILLET 2001. - Décret modifiant l'article 74 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'article 74 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre est remplacé par la disposition suivante :
+
+" Article 74. § 1er. Le Gouvernement reconnaît comme organes de représentation et de coordination :
+
+1° Un organe représentant les pouvoirs publics subventionnés organisant des écoles fondamentales, primaires et maternelles ordinaires ou spéciales et des écoles secondaires spéciales;
+
+2° Un organe représentant les pouvoirs publics subventionnés organisant des écoles secondaires;
+
+3° Un organe représentant les pouvoirs organisateurs d'enseignement libre subventionné de caractère confessionnel;
+
+4° Un organe représentant les pouvoirs organisateurs d'enseignement libre subventionné de caractère non confessionnel.
+
+§ 2. En dérogation à l'article 5 de la loi du 29 mai 1959 modifiant certaines dispositions de l'enseignement, et ce jusqu'au 31 décembre 2002, les organes de représentation et de coordination visés à l'article 1er de l'arrêté du Gouvernement de la Communauté française du 16 juin 1998 portant reconnaissance des organes de représentation et de coordination des pouvoirs organisateurs de l'enseignement, sont seuls habilités à exercer la concertation prévue à l'article 5 de la loi du 29 mai 1959.
+
+§ 3. A partir du 1er janvier 2003, un décret déterminera la concertation à mettre en oeuvre avec les pouvoirs organisateurs en matière d'enseignement, sur la base notamment des organes de représentation et de coordination des pouvoirs organisateurs précités qui devront apporter la preuve de leur fonctionnement démocratique. Cette preuve sera apportée selon les modalités et les critères déterminés par ledit décret. ".
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 12 juillet 2001.
+
+Le Ministre-Président, chargé des Relations internationales,
+
+H. HASQUIN
+
+Le Ministre de la Culture, du Budget, de la Fonction publique, de la Jeunesse et des Sports,
+
+R. DEMOTTE
+
+Le Ministre de l'Enfance, chargé de l'Enseignement fondamental, de l'accueil et des missions confiées à l'O.N.E.,
+
+J.-M. NOLLET
+
+Le Ministre de l'Enseignement secondaire et de l'Enseignement spécial,
+
+P. HAZETTE
+
+La Ministre de l'Enseignement supérieur, de l'Enseignement de promotion sociale et de la Recherche scientifique,
+
+Mme F. DUPUIS
+
+Le Ministre des Arts et des Lettres et de l'Audiovisuel,
+
+R. MILLER
+
+La Ministre de l'Aide à la Jeunesse et de la Santé,
+
+Mme N. MARECHAL.

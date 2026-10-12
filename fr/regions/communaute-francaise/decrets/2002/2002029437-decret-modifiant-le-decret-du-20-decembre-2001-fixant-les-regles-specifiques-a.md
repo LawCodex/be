@@ -1,0 +1,65 @@
+---
+title: "Décret modifiant le décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en écoles supérieures des arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants)."
+identifier: "2002029437"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002029437/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2002-07-11
+published: 2002-09-04
+entry_into_force: 2002-09-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002029437/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 11 JUILLET 2002. - Décret modifiant le décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en écoles supérieures des arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants).
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+A l'article 101 du décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants), les mots " , dans le courant du mois de mars, " sont supprimés.
+
+## Art. 2
+
+A l'article 226 du même décret, les mots " , au plus tard le 1er mai, " sont supprimés.
+
+## Art. 3
+
+A l'article 356, du même décret, les mots " , au plus tard le 1er mai, " sont supprimés.
+
+## Art. 4
+
+L'article 62, 6° du décret du 20 décembre 2001 fixant les règles spécifiques à l'enseignement supérieur artistique organisé en Ecoles supérieures des arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants) est modifié comme suit : les mots " le Gouvernement met en place une commission de reconnaissance de cette expérience utile et en fixe la composition. Le Gouvernement détermine les règles suivant lesquelles cette expérience utile est reconnue. " sont remplacés par les mots " le Gouvernement peut, après avis d'une commission qu'il crée, dont il fixe la composition et le fonctionnement, reconnaître cette expérience utile ".
+
+## Art. 5
+
+L'article 499 du décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants) est modifié comme suit :
+
+les mots " Il ne s'applique pas aux Ecoles supérieures des arts. " sont remplacés par les mots " Le chapitre 1er ne s'applique pas aux Ecoles supérieures des arts ".
+
+## Art. 6
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Fait à Bruxelles, le 11 juillet 2002.
+
+Le Ministre-Président, chargé des Relations internationales, H. HASQUIN
+
+Le Ministre de la Culture, du Budget, de la Fonction publique, de la Jeunesse et des Sports, R. DEMOTTE
+
+Le Ministre de l'Enfance, chargé de l'Enseignement fondamental, de l'Accueil et des Missions confiées à l'O.N.E., J.-M. NOLLET
+
+Le Ministre de l'Enseignement secondaire et de l'Enseignement spécial, P. HAZETTE
+
+La Ministre de l'Enseignement supérieur, de l'Enseignement de promotion sociale et de la Recherche scientifique, Mme F. DUPUIS
+
+Le Ministre des Arts et des Lettres et de l'Audiovisuel, R. MILLER
+
+La Ministre de l'Aide à la Jeunesse et de la Santé, Mme N. MARECHAL.

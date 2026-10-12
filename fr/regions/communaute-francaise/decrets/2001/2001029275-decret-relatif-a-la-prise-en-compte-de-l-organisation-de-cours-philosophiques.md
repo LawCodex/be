@@ -1,0 +1,113 @@
+---
+title: "Décret relatif à la prise en compte de l'organisation de cours philosophiques dans les enseignements officiel et libre non confessionnel subventionnés"
+identifier: "2001029275"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029275/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2001-07-12
+published: 2001-07-20
+entry_into_force: 2002-01-01
+last_amended: 2015-02-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029275/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 20-07-2001 et mise à jour au 05-02-2015"
+retrieved: 2026-10-12
+---
+
+# 12 JUILLET 2001. - Décret relatif à la prise en compte de l'organisation de cours philosophiques dans les enseignements officiel et libre non confessionnel subventionnés
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement sanctionnons ce qui suit :
+
+## Art. 1
+
+Sans préjudice des limites budgétaires prévues à l'article 2, le montant des subventions de fonctionnement allouées par élève aux établissements d'enseignement officiel et libre non confessionnel subventionnés est augmenté d'un montant forfaitaire par élève équivalent à 10,7 % des montants versés en application de l'article 2 du décret du 12 juillet 2001 visant à améliorer les conditions matérielles des établissements d'enseignement fondamental et secondaire.
+
+La présente disposition n'est pas applicable aux établissements d'enseignement maternel.
+
+## Art. 2
+
+Le montant forfaitaire global alloué en application de l'article 1er aux établissements d'enseignement officiel et libre non confessionnel subventionnés s'élève à :
+
+\- 183 441,21 EUR en 2003;
+
+\- 651 959,97 EUR en 2004;
+
+\- 2 342 593,81 EUR en 2005;
+
+\- 2 892 917,43 EUR en 2006;
+
+\- 4 201 795,24 EUR en 2007;
+
+\- 4 504 225,35 EUR en 2008;
+
+\- 5 290 047,82 EUR en 2009;
+
+[<sup>1</sup> - 6.336.858,58 euro en 2010;
+
+\- 6.336.858,58 euro en 2011;
+
+\- 6.860.263,95 euro en 2012;
+
+[<sup>2</sup> -6.860.263,95 en 2013;
+
+[<sup>3</sup> 6.860.263,95 euros en 2014;
+
+[<sup>4</sup> - Pour l'année 2015: 6.860.263,95 ;
+
+\- pour l'année 2016: 7.023.523,64 ;
+
+\- pour l'année 2017: 7.186.783,32 ;
+
+à partir de l'année 2018: 7.350.043,01 .]<sup>4</sup>]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-12-17/57, art. 13, 002; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DCFR 2013-07-17/33, art. 14, 003; En vigueur : 01-01-2013&gt;
+
+(3)&lt;DCFR 2013-12-18/18, art. 12, 004; En vigueur : 01-01-2014&gt;
+
+(4)&lt;DCFR 2014-12-18/21, art. 14, 005; En vigueur : 01-01-2015&gt;
+
+## Art. 3
+
+Le présent décret entre en vigueur le 1er janvier 2002.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 12 juillet 2001.
+
+Le Ministre-Président, chargé des relations internationales,
+
+H. HASQUIN
+
+Le Ministre de la Culture, du Budget, de la Fonction publique, de la Jeunesse et des Sports,
+
+R. DEMOTTE
+
+Le Ministre de l'Enfance, chargé de l'enseignement fondamental, de l'accueil et des missions confises à l'O.N.E.,
+
+J.-M. NOLLET
+
+Le Ministre de l'Enseignement secondaire et de l'Enseignement spécial,
+
+P. HAZETTE
+
+La Ministre de l'Enseignement supérieur, de l'Enseignement de promotion sociale et de la Recherche scientifique,
+
+Mme F. DUPUIS
+
+Le Ministre des Arts et des Lettres et de l'Audiovisuel,
+
+R. MILLER
+
+La Ministre de l'Aide à la Jeunesse et de la Santé,
+
+Mme N. MARECHAL

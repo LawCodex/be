@@ -1,0 +1,883 @@
+---
+title: "[Décret relatif à l'Office de la Naissance et de l'Enfance] <DCFR 2024-04-18/31 , art. 1, 015; En vigueur : 16-07-2024>"
+identifier: "2002029383"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002029383/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2002-07-17
+published: 2002-08-02
+entry_into_force: 2002-08-01
+last_amended: 2024-06-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002029383/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 02-08-2002 et mise à jour au 21-06-2024"
+retrieved: 2026-10-12
+---
+
+# 17 JUILLET 2002. - [Décret relatif à l'Office de la Naissance et de l'Enfance] &lt;DCFR 2024-04-18/31 , art. 1, 015; En vigueur : 16-07-2024&gt;
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Création.
+
+#### Art. 1
+
+Il est institué, sous la dénomination " Office de la Naissance et de l'Enfance ", en abrégé " ONE ", un [<sup>1</sup> organisme administratif public]<sup>1</sup> doté de la personnalité juridique, ci-après dénommé : " l'Office ".
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 2, 015; En vigueur : 16-07-2024&gt;
+
+## CHAPITRE II. - Missions.
+
+#### Art. 2
+
+§ 1. L'Office a pour missions de service public :
+
+1° l'accompagnement de l'enfant dans et en relation avec son milieu familial et son environnement social, dite " Accompagnement ";
+
+2° l'accueil de l'enfant en dehors du milieu familial, dite " Accueil ".
+
+La mission de service public visée à l'alinéa 1, 1°, se décline en missions opérationnelles comme suit :
+
+1° l'organisation de consultations prénatales;
+
+2° l'organisation de consultations pour enfants;
+
+3° l'organisation de l'accompagnement à domicile;
+
+4° le suivi des équipes SOS-Enfants conventionnées avec l'Office;
+
+[<sup>2</sup> 5° la gestion des services de promotion de santé à l'école;]<sup>2</sup>
+
+[<sup>4</sup> 6° la gestion des services d'accompagnement périnatal des familles.]<sup>4</sup>
+
+[<sup>5</sup> La mission de service public visée à l'alinéa 1er, 2°, se décline en missions opérationnelles découlant d'autres dispositions légales spécifiques portant sur l'organisation et le fonctionnement des institutions, structures et services suivants :
+
+1° les milieux d'accueil de la petite enfance ;
+
+2° les opérateurs de l'accueil extra-scolaire;
+
+3° les centres de vacances ;
+
+4° les écoles de devoirs.]<sup>5</sup>
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+§ 2. L'Office a pour missions transversales :
+
+1° le soutien à la parentalité;
+
+2° la promotion de la santé et l'éducation à celle-ci;
+
+3° la promotion de la formation continue des acteurs des politiques de l'enfance;
+
+4° l'accompagnement et l'évaluation du travail des acteurs locaux;
+
+5° l'information des parents et des futurs parents;
+
+6° la réalisation [<sup>4</sup> ...]<sup>4</sup> de recherches et la constitution d'une documentation dans toutes les disciplines en lien avec ses missions de services publics, le recueil et le traitement des données médico-sociales à caractère personnel relatives à la santé des mères ou des futures mères, des parents et des enfants [<sup>4</sup> , à des fins statistiques et d'analyse pour soutenir l'évaluation, la gestion et le pilotage des missions attribuées à l'Office, le cas échéant en collaboration avec des organismes externes]<sup>4</sup>;
+
+7° l'analyse de la situation, de l'évolution des besoins et des expériences innovantes et, le cas échéant, la formulation de propositions d'initiatives nouvelles;
+
+[<sup>3</sup> 8° les programmes de médecines préventives.]<sup>3</sup>
+
+[<sup>7</sup> Le Gouvernement arrête les programmes de médecine préventive relatifs aux dépistages néonatals des anomalies congénitales et de la surdité et aux vaccinations.]<sup>7</sup>
+
+§ 3. L'Office déclinera ses missions en visant l'efficience et en respectant les principes d'actions suivants :
+
+1° l'universalité, la non-discrimination et l'accessibilité pour tous;
+
+2° la qualité des services offerts;
+
+3° la bientraitance;
+
+4° la participation des acteurs;
+
+5° l'action en partenariats.
+
+[<sup>8</sup> § 4. Quiconque concourt à la mise en oeuvre du présent décret veille à ce que chaque enfant soit traité dans le respect de sa personne et de son individualité et ne soit soumis à aucune forme de violence physique ou psychique. Ceci vise l'ensemble des violences physiques, psychiques ou verbales, en ce compris celles exercées avec une visée éducative sur un enfant visant à corriger certains comportements ou à le punir.]<sup>8</sup>
+
+----------
+
+(1)&lt;DCFR 2009-03-26/35, art. 1, 006; En vigueur : 06-08-2009&gt;
+
+(2)&lt;DCFR 2014-12-04/16, art. 1, 007; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2014-12-04/16, art. 2, 007; En vigueur : 01-01-2015&gt;
+
+(4)&lt;DCFR 2018-11-14/10, art. 1, 008; En vigueur : 18-12-2018&gt;
+
+(5)&lt;DCFR 2019-02-21/08, art. 11, 009; En vigueur : 01-09-2019&gt;
+
+(6)&lt;DCFR 2019-02-21/08, art. 12, 009; En vigueur : 01-09-2019&gt;
+
+(7)&lt;DCFR 2021-12-15/13, art. 69, 012; En vigueur : 01-01-2022&gt;
+
+(8)&lt;DCFR 2023-10-05/23, art. 14, 013; En vigueur : 02-02-2024&gt;
+
+#### Art. 3
+
+[<sup>2</sup> Après avis de l'Office et tenant compte notamment des principes définis à l'article 2, § 3, le Gouvernement arrête les normes permettant l'agrément :
+
+1° d'institutions et services contribuant à la réalisation des missions d'accueil et d'accompagnement, ainsi que de missions transversales visées à l'article 2, § 2, 1°, 2° et 8° ;
+
+2° d'organismes de formation du secteur de l'enfance contribuant à la réalisation de la mission transversale visés à l'article 2, § 2, 3° ;
+
+3° d'organisations de coordination du secteur de l'enfance contribuant à la réalisation de la mission d'accueil, de la mission d'accompagnement ou d'une ou plusieurs missions transversales visées à l'article 2, § 2, 4° à 7°.]<sup>2</sup>
+
+Après avis de l'Office, le Gouvernement peut arrêter les conditions et modalités suivant lesquelles l'agrément par l'Office ouvre le droit à l'octroi de subventions.
+
+Les avis de l'Office prévus aux alinéas 1 et 2 sont donnés d'initiative ou à la demande du Gouvernement. Lorsque le Gouvernement sollicite ces avis, ceux-ci sont rendus endéans le mois. A défaut d'avis de l'Office dans le délai visé à l'alinéa 3, le Gouvernement peut arrêter les conditions et les modalités prévues aux alinéas 1 et 2.
+
+----------
+
+(1)&lt;DCFR 2018-11-14/10, art. 2, 008; En vigueur : 18-12-2018&gt;
+
+(2)&lt;DCFR 2024-04-18/31, art. 3, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 4
+
+L'Office peut, dans les limites fixées par le présent décret et conformément au contrat de gestion visé à l'article 26 et à son règlement organique visé à l'article 14, exercer toutes les activités et faire toutes les opérations, de quelque nature que ce soit, qui se rapportent, en tout ou en partie, à l'accomplissement de ses missions visées à l'article 2 ou qui contribuent à en assurer ou à en faciliter la réalisation.
+
+#### Art. 5
+
+L'Office a pour ressources :
+
+1° les subventions allouées par la Communauté française et par d'autres pouvoirs publics;
+
+2° le produit de la prestation de services ou de la vente de matériel éducatif et d'autres fournitures;
+
+3° le produit de la mise en location ou de la concession du droit d'usage d'un élément du patrimoine de l'Office;
+
+4° tout ou partie des contributions des parents ou des tiers dans le coût des services subventionnés par l'Office. Le Gouvernement arrête les montants de ces contributions et la partie de ces montants revenant à l'Office. Le Gouvernement établit une redistribution des contributions entre les services subventionnés par l'Office suivant les modalités qu'il détermine. Les modalités de perception des contributions sont déterminées par l'Office et soumises à l'approbation du Gouvernement;
+
+5° les récupérations de paiements indus effectués au cours d'un exercice antérieur;
+
+6° les produits financiers des placements de fonds;
+
+7° le produit des souscriptions organisées par l'Office;
+
+8° les dons et legs à l'Office;
+
+9° le patrimoine issu de l'OEuvre nationale de l'enfance;
+
+10° le produit des emprunts contractés par l'Office.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2007-10-19/49, art. 25, 005; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2018-11-14/10, art. 3, 008; En vigueur : 18-12-2018&gt;
+
+(3)&lt;DCFR 2024-04-18/33, art. 33, 014; En vigueur : 21-06-2024&gt;
+
+#### Art. 6
+
+[<sup>1</sup> § 1er. Toute personne étrangère au milieu familial de vie de l'enfant qui organise l'accueil d'enfants de moins de douze ans doit en faire la déclaration préalable à l'Office et la renouveler tous les trois ans selon les modalités qu'il fixe.
+
+Sont dispensés de l'obligation de déclaration visée à l'alinéa précédent :
+
+1° les pouvoirs organisateurs des institutions, structures et services visés à l'article 2, § 1er, alinéa 3 ;
+
+2° les pouvoirs organisateurs de catégories de services ou institutions repris sur une liste arrêtée par le Gouvernement.
+
+§ 2. Les pouvoirs organisateurs des institutions, structures et services visés à l'article 2 § 1er alinéa 3 sont tenus de se conformer à un code de qualité de l'accueil arrêté par le Gouvernement après avis de l'Office.
+
+L'avis de l'Office est rendu selon les modalités fixées à l'article 3, alinéa 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-02-21/08, art. 13, 009; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE III. - Organisation.
+
+### Section 1. [<sup>1</sup> - Du Conseil d'administration et du Bureau exécutif ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 4, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 7
+
+§ 1. L'Office est géré par un Conseil d'Administration composé [<sup>3</sup> de treize administrateurs publics et, s'il échet, d'observateurs désignés dans le respect de l'article 4, paragraphes 1er, alinéas 1er, 2 et 4, 2, 4 et 5, et de l'article 5 du décret du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française]<sup>3</sup>.
+
+[<sup>3</sup> Les administrateurs publics sont nommés par le Gouvernement parmi les candidats et candidates ayant répondu à un appel public publié au Moniteur belge et sur le site de l'Office.]<sup>3</sup>
+
+[<sup>3</sup> Le Président du Conseil consultatif de l'enfance ou la Présidente du Conseil consultatif de l'enfance est invité au Conseil d'administration. Le Président ou la Présidente du Conseil scientifique, le Coordinateur ou la Coordinatrice de l'Observatoire de l'Enfance, de la Jeunesse et de l'Aide à la Jeunesse et le Président ou la Présidente du Comité de programmation sont invités au Conseil d'administration lorsqu'une proposition ou un avis de leur organe est inscrit à l'ordre du jour.]<sup>3</sup>
+
+§ 2. [<sup>3</sup> Les administrateurs publics et, s'il échet, les observateurs sont désignés dans les trois mois qui suivent la prestation de serment des membres du Gouvernement faisant suite au renouvellement du Parlement.]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Le Conseil d'Administration est composé de maximum deux tiers de membres du même sexe.
+
+Un tiers du Conseil d'Administration au plus a la qualité de membre du personnel ou de responsable d'un service ou d'une institution visé à l'article 2, un tiers du Conseil d'Administration au plus a la qualité de mandataire politique élu(e) ou nommé(e).
+
+----------
+
+(1)&lt;DCFR 2009-03-26/35, art. 2, 1°, 006; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2009-03-26/35, art. 2, 2°, 006; En vigueur : indéterminée &gt;
+
+(3)&lt;DCFR 2024-04-18/31, art. 5, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 8
+
+Le Conseil d'Administration se réunit au moins dix fois par an.
+
+#### Art. 9
+
+&lt;Abrogé par DCFR 2024-04-18/31, art. 6, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 10
+
+Le Gouvernement nomme parmi les Administratrices et les Administrateurs visés à l'article 7, § 1, alinéa 2, [<sup>1</sup> un Président ou une Présidente et un Vice-président ou une Vice-présidente]<sup>1</sup> qui appartiennent à des groupes politiques démocratiques différents.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 7, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 11
+
+[<sup>1</sup> Le Bureau exécutif est constitué conformément à l'article 4, § 3, du décret du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française.
+
+Le Bureau exécutif exerce les missions qui lui sont déléguées par le Conseil d'administration, définies par le règlement organique visé à l'article 14. Il adopte l'ordre du jour des séances du Conseil d'administration.]<sup>1</sup>
+
+En cas d'urgence, le [<sup>2</sup> Bureau exécutif]<sup>2</sup> est autorisé à réunir les membres du Conseil d'Administration visés à l'article 7, § 1, alinéa 1, afin de prendre toute décision utile. L'urgence est dûment motivée lors de la séance du Conseil d'Administration qui suit la réunion convoquée en urgence par le [<sup>2</sup> Bureau exécutif]<sup>2</sup>.
+
+Les commissaires du Gouvernement assistent aux réunions convoquées en urgence en vertu de l'alinéa 3.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 8, 015; En vigueur : 16-07-2024&gt;
+
+(2)&lt;DCFR 2024-04-18/31, art. 9, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 12
+
+Le Conseil de la Communauté française auditionne les membres du [<sup>1</sup> Bureau exécutif]<sup>1</sup> dans les trois mois qui suivent leur nomination.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 9, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 13
+
+§ 1. L'Office transmet au Gouvernement, au plus tard le 1er septembre, un rapport annuel des activités de l'année précédente.
+
+§ 2. Sur la base de ce rapport, le Gouvernement invite les membres du Conseil d'Administration à une réunion d'évaluation de l'action de l'Office.
+
+Le Gouvernement transmet le rapport au Conseil de la Communauté française dans le mois de sa prise d'acte.
+
+§ 3. Sur la base notamment du rapport, le [<sup>1</sup> Bureau exécutif]<sup>1</sup> rend collégialement et annuellement compte de son action au Conseil de la Communauté française.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 9, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 14
+
+Le Conseil d'Administration établit un règlement organique qui détermine le mode selon lequel il exerce ses attributions.
+
+[<sup>1</sup> Le règlement organique fixe les limites et les formes dans lesquelles le Conseil peut déléguer certaines de ses attributions à son Président ou sa Présidente, à son vice-Président ou sa vice-Présidente, au Bureau exécutif, à l'Administrateur général ou l'Administratrice générale et aux comités locaux.]<sup>1</sup>
+
+Toutefois, le Conseil d'Administration ne peut déléguer :
+
+1° la définition de la politique générale de l'Office;
+
+2° l'approbation du contrat de gestion;
+
+3° l'approbation du budget et des comptes annuels;
+
+4° l'approbation des avis sollicités par le Gouvernement;
+
+5° l'approbation des avis rendus d'initiative au Gouvernement;
+
+6° toute programmation d'ouvertures de places d'accueil;
+
+7° la nomination des membres des comités [<sup>1</sup> locaux]<sup>1</sup>.
+
+Ce règlement est soumis, préalablement, à l'approbation du Gouvernement, accompagné d'un rapport des commissaires du Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 10, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 15
+
+[<sup>1</sup> Le secrétariat du Conseil d'Administration est assuré, sous la responsabilité de l'Administrateur(trice) général(e), par le (la) Directeur(trice) général(e) adjoint(e) Expert(e).
+
+Le secrétariat du Conseil d'Administration est notamment chargé de :
+
+1° préparer le projet d'ordre du jour;
+
+2° superviser la préparation des notes à traiter en séance;
+
+3° sans préjudice de l'article 23, alinéa 1er, veiller au suivi, par l'Administration, avec autorité sur celle-ci, des décisions prises.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-03-26/35, art. 5, 006; En vigueur : 06-08-2009&gt;
+
+#### Art. 16
+
+Le siège de l'Office est fixé par le Gouvernement.
+
+### Section 2. - Formation des Administrateurs et des Administratrices.
+
+#### Art. 17
+
+Dans l'année qui suit la désignation des Administratrices et Administrateurs, des cycles de formation relatifs à l'évolution du statut et de la fonction d'administrateur public au regard des évolutions législatives, sociales, réglementaires et de gestion en la matière est organisé par l'Office.
+
+Le Conseil d'Administration adopte et transmet annuellement au Gouvernement un rapport d'information sur les formations suivies par les Administrateurs(trices).
+
+### Section 3. [<sup>1</sup> - Des comités locaux]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 11, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 18
+
+[<sup>1</sup> L'ONE peut confier certaines missions à des comités locaux composés de représentants des institutions et services contribuant à la réalisation des missions d'accueil et d'accompagnement, ainsi que des missions transversales visées à l'article 2, § 2, 1°, 2° et 8°, établis dans le ressort du comité local. Le règlement organique définit ces missions et les conditions de leur exercice.
+
+Sur avis du Conseil d'administration et du Conseil consultatif de l'enfance, le Gouvernement arrête la composition de ces comités locaux, ainsi que leur nombre et leur ressort géographique.
+
+Les membres des comités locaux s'engagent à respecter la charte de l'administrateur public visée par le chapitre III du Titre II du décret du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, de sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française qu'il signe lors de son installation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 12, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 19
+
+Les comités [<sup>1</sup> locaux]<sup>1</sup> établissent leur règlement soumis à l'approbation du Conseil d'Administration. La même procédure est appliquée pour toute modification de règlement des Comités subrégionaux. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 13, 015; En vigueur : 16-07-2024&gt;
+
+### Section 4. - Conseil scientifique.
+
+#### Art. 20
+
+§ 1. Il est créé un Conseil scientifique.
+
+Le Conseil scientifique est composé de maximum dix-huit membres, nommés par le Conseil d'Administration de l'Office après un appel public organisé par celui-ci. Le Conseil d'Administration statue, conformément aux règles définies dans son règlement organique, sur chacune des nominations à la majorité des deux tiers des voix exprimées.
+
+En outre, les écoles de santé publique de la Communauté française sont représentées chacune par un membre au sein du Conseil scientifique. Un tiers au moins, deux tiers au plus, des membres du Conseil scientifique sont constitués de médecins. Ceux-ci, issus notamment des milieux universitaires, sont choisis en raison de leurs compétences en matière d'accompagnement.
+
+Les membres du Conseil scientifique sont nommés en fonction de la complémentarité de leurs compétences dans les matières de l'enfance, particulièrement en lien avec les missions du Conseil visées à l'article 21.
+
+§ 2. Le Conseil scientifique établit son règlement d'ordre intérieur soumis à l'approbation du Conseil d'Administration.
+
+§ 3. Le Conseil scientifique élit en son sein un(e) président(e) et trois vice-président(e)s.
+
+#### Art. 21
+
+Le Conseil scientifique a pour missions :
+
+1° d'étudier les questions soumises par le Conseil d'Administration et d'effectuer les recherches qu'il lui confie;
+
+2° de faire au Conseil d'Administration toutes propositions qu'il juge utiles à l'organisation psycho-médico-sociale des projets et services en matière d'accompagnement;
+
+3° d'étudier l'adaptation de la mission d'accompagnement [<sup>1</sup> et de la mission d'accueil]<sup>1</sup> aux progrès scientifiques et à l'évolution de la société.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 14, 015; En vigueur : 16-07-2024&gt;
+
+### Section 5. - Le Conseil d'avis.
+
+### Section 5. DROIT\_FUTUR. [<sup>1</sup> - Le Conseil consultatif de l'enfance]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 15, 015; En vigueur : 01-01-2027&gt;
+
+#### Art. 22
+
+Il est créé un Conseil d'avis composé, selon les dispositions arrêtées par le Gouvernement, de :
+
+1° représentant(e)s des travailleurs;
+
+2° représentant(e)s des employeurs;
+
+3° représentant(e)s d'organisations représentatives des femmes ou des familles [<sup>2</sup> parmi celles reconnues dans le cadre du décret du 17 juillet 2003 relatif au soutien de l'action associative dans le champ de l'Education permanente]<sup>2</sup>;
+
+4° représentant(e)s d'organisations, à l'exclusion des organisations reprises sous 1°, 2°, 3° et 5° oeuvrant dans le secteur de l'enfance [<sup>1</sup> et de la jeunesse]<sup>1</sup>;
+
+5° représentant(e)s d'organisations actives dans la formation, la recherche ou l'information dans le secteur de l'enfance, à l'exclusion des organisations reprises sous 1°, 2°, 3° et 4°, ayant bénéficié d'un subside à charge des crédits inscrits au budget de la Communauté française ou de l'Office de la Naissance et de l'Enfance;
+
+6° représentant(e)s des observatoires de l'enfance, dont un(e) issu(e) de l'Observatoire de l'enfance, de la jeunesse et de l'aide à la jeunesse institué par l'arrêté du Gouvernement de la Communauté française du 8 juin 1998 relatif à l'Observatoire de l'enfance, de la jeunesse et de l'aide à la jeunesse et un(e) issu(e) de l'Observatoire de l'enfant institué par l'arrêté du Collège de la Commission communautaire française du 24 juillet 1991 portant création de l'Observatoire de l'enfant et fixant les modalités de fonctionnement de l'Observatoire de l'enfant;
+
+7° [<sup>1</sup> un(e) représentant(e) des services de promotion de la santé proposé par la Commission de la promotion de la santé;]<sup>1</sup>
+
+8° représentant(e)s des comités subrégionaux.
+
+[<sup>1</sup> Le Gouvernement désigne les membres du Conseil d'avis conformément à l'alinéa 1er pour une durée de cinq ans. Il désigne pour chaque membre effectif un membre suppléant, selon la même procédure que pour les membres effectifs Il désigne un(e) Président(e) et deux Vice-président(e)s, sur avis du Conseil d'avis, parmi les membres effectifs du Conseil d'avis, au plus tard dans les 3 mois suivant la nomination des membres des comités subrégionaux visés à l'article 18 et au plus tard dans les 9 mois de la nomination des membres du Conseil d'administration visé à l'article 7.]<sup>1</sup>
+
+Le ou la président(e) et les vice-président(e)s sont issu(e)s de trois catégories différentes parmi les catégories 1° à 8° visées à l'alinéa 1.
+
+Une seule de ces personnes peut provenir des catégories 1° ou 2° visées à l'alinéa 1.
+
+Le Gouvernement approuve le règlement d'ordre intérieur du Conseil d'avis sur proposition de celui-ci.
+
+Ce Conseil a pour mission de donner un avis sur toute question en rapport avec les missions de l'Office telle que définies au Chapitre II.
+
+Les avis sont donnés d'initiative ou à la demande du Gouvernement ou à celle du Conseil d'Administration. Les avis sont transmis par l'entremise du Conseil d'Administration.
+
+----------
+
+(1)&lt;DCFR 2018-11-14/10, art. 4, 008; En vigueur : 18-12-2018&gt;
+
+(2)&lt;DCFR 2021-03-11/22, art. 12, 010; En vigueur : 02-04-2021&gt;
+
+#### Art. 22 DROIT FUTUR
+
+Il est créé un [<sup>3</sup> Conseil consultatif de l'enfance]<sup>3</sup> composé, selon les dispositions arrêtées par le Gouvernement [<sup>3</sup> qui s'assure de la représentativité de ses membres]<sup>3</sup>, de :
+
+1° [<sup>3</sup> représentants et représentantes]<sup>3</sup> des travailleurs;
+
+2° [<sup>3</sup> représentants et représentantes]<sup>3</sup> des employeurs;
+
+[<sup>3</sup> 3° représentants ou représentantes des parents et des familles ;
+
+4° représentants ou représentantes des organisations de coordination du secteur de l'enfance agréées en vertu de l'article 3, alinéa 1er, 3° ;
+
+4/1° représentants ou représentantes des centres de ressources relatifs à la lutte contre la pauvreté et pour la réduction des inégalités sociales visés à l'article 12 du décret du 3 mai 2019 relatif à la lutte contre la pauvreté et à la réduction des inégalités ;
+
+5° représentants ou représentantes des organismes de formation du secteur de l'enfance, agréées en vertu de l'article 3, alinéa 1er, 2° ;
+
+6° représentant ou représentante de l'Observatoire de l'Enfance, de la Jeunesse et de l'Aide à la jeunesse visé par le décret du 12 mai 2004 portant création de l'Observatoire de l'Enfance, de la Jeunesse et de l'Aide à la jeunesse;]<sup>3</sup>
+
+7° [<sup>1</sup> un(e) [<sup>3</sup> représentant et représentante]<sup>3</sup> des services de promotion de la santé proposé par la Commission de la promotion de la santé;]<sup>1</sup>
+
+8° [<sup>3</sup> représentants et représentantes]<sup>3</sup> des comités [<sup>3</sup> locaux]<sup>3</sup>.
+
+[<sup>1</sup> Le Gouvernement désigne les membres du Conseil d'avis conformément à l'alinéa 1er pour une durée de cinq ans. Il désigne pour chaque membre effectif un membre suppléant, selon la même procédure que pour les membres effectifs Il désigne [<sup>3</sup> un président ou une présidente et un vice-président ou une vice-présidente]<sup>3</sup>, sur avis du Conseil d'avis, parmi les membres effectifs du Conseil d'avis, au plus tard dans les 3 mois suivant la nomination des membres des comités [<sup>3</sup> locaux]<sup>3</sup> visés à l'article 18 et au plus tard dans les 9 mois de la nomination des membres du Conseil d'administration visé à l'article 7.]<sup>1</sup> [<sup>3</sup> Il veille à la parité entre les secteurs public et privé dans la désignation des membres visés à l'alinéa 1er, 1°. Les membres effectifs et suppléants signent une charte dont le modèle est fixé par l'ONE.]<sup>3</sup>
+
+[<sup>3</sup> le président ou la présidente et le vice-président ou la vice-présidence sont issues]<sup>3</sup> de trois catégories différentes parmi les catégories 1° à 8° visées à l'alinéa 1.
+
+Une seule de ces personnes peut provenir des catégories 1° ou 2° visées à l'alinéa 1.
+
+Le Gouvernement approuve le règlement d'ordre intérieur du [<sup>3</sup> Conseil consultatif de l'enfance]<sup>3</sup> sur proposition de celui-ci.
+
+Ce Conseil a pour mission de donner un avis sur toute question en rapport avec les missions de l'Office telle que définies au Chapitre II.
+
+Les avis sont donnés d'initiative ou à la demande du Gouvernement ou à celle du Conseil d'Administration. Les avis sont transmis par l'entremise du Conseil d'Administration. [<sup>3</sup> Si le Gouvernement ou le Conseil d'administration sollicite un avis dans un contexte d'urgence motivée, le Conseil consultatif de l'enfance peut être convoqué dans un délai restreint selon les modalités prévues par son règlement d'ordre intérieur.]<sup>3</sup>
+
+[<sup>3</sup> Pour l'élaboration de ses avis, le Conseil consultatif de l'enfance veille à tenir compte de la parole des enfants. A cet effet, il met en place des processus participatifs qui les impliquent directement.
+
+Un représentant ou une représentante du ou de la Ministre ayant l'Enfance dans ses attributions assiste sans voix délibérative aux réunions du Conseil consultatif de l'Enfance.
+
+Lorsque le Gouvernement délibère sur un projet sur lequel le Conseil consultatif de l'enfance a remis avis, il l'informe des suites réservées à son avis et, le cas échéant, des raisons pour lesquelles il n'a pas été suivi.
+
+L'Office assure le secrétariat du Conseil consultatif de l'enfance. Il lui transmet les ordres du jour des réunions du Conseil d'administration, ainsi qu'à la demande du président du Conseil consultatif de l'enfance, les documents relatifs aux points qui ne portent pas sur des recrutements, des marchés publics, des recours et des autres questions que le Président ou la Présidente du Conseil d'administration jugerait confidentielles.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-14/10, art. 4, 008; En vigueur : 18-12-2018&gt;
+
+(2)&lt;DCFR 2021-03-11/22, art. 12, 010; En vigueur : 02-04-2021&gt;
+
+(3)&lt;DCFR 2024-04-18/31, art. 16, 015; En vigueur : 01-01-2027&gt;
+
+### section 6. - [<sup>1</sup> Le Comité de programmation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-03-26/35, art. 4, 006; En vigueur : 01-01-2015&gt;
+
+#### Art. 22/1
+
+[<sup>1</sup> Il est créé un Comité de programmation composé, selon les dispositions arrêtées par le Gouvernement, de :
+
+[<sup>2</sup> 1° cinq représentants ou représentantes des organisations interprofessionnelles représentatives des travailleurs ;
+
+2° cinq représentants ou représentantes des organisations intersectorielles représentatives des employeurs ;
+
+3° cinq représentants ou représentantes des parents et des familles visées à l'article 22, alinéa 1er, 3° ".
+
+[<sup>2</sup> Le Présidente ou la Présidente du Conseil consultatif de l'enfance, son représentant ou sa représentante, l'Administrateur général ou l'Administratrice générale, son représentant ou sa représentante, les commissaires du Gouvernement, un représentant ou une représentante de la Région wallonne, un représentant ou une représentante de la Région de Bruxelles-Capitale, un représentant ou une représentante de la Commission communautaire française sont invités au Comité de programmation, sans voix délibérative.]<sup>2</sup>
+
+Les membres du Comité de programmation visés à l'alinéa 1er sont nommés par le Gouvernement sur proposition des organisations visées à l'alinéa 1er. Leur mandat expire en même temps que le mandat des membres du Conseil d'Administration.
+
+Le Gouvernement nomme également, pour chaque membre effectif visé à l'alinéa 1er, un membre suppléant, aux mêmes conditions que les membres effectifs. Le membre suppléant ne siège qu'en l'absence du membre effectif.
+
+Le Comité de programmation est composé de maximum deux tiers de membres du même sexe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-03-26/35, art. 6, 006; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2024-04-18/31, art. 17, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 22/2
+
+[<sup>1</sup> Tous les deux ans et demi, le Comité de programmation désigne parmi ses membres ayant voix délibérative un(e) président(e) et deux vice-président(e)s. Le (la) président(e) et les deux vice-président(e)s sont issus de chacune des trois catégories visées à l'article 22/1, alinéa 1er.
+
+Chacune des trois catégories de membres visées à l'article 22/1, alinéa 1er assume à tour de rôle la présidence du Comité de programmation pour une période de deux ans et demi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-03-26/35, art. 7, 006; En vigueur : 01-01-2015&gt;
+
+#### Art. 22/3
+
+[<sup>1</sup> Le Comité de programmation est chargé de :
+
+1° Formuler, à la demande du Conseil d'administration, lorsque le principe d'une programmation pour les milieux d'accueil collectif est décidé, une proposition de critères de programmation en matière d'accueil;
+
+2° Formuler, à la demande du Conseil d'administration, lorsque le principe d'une programmation pour les milieux d'accueil collectif est décidé, des avis sur une proposition de critères de programmation en matière d'accueil formulée par l'Office sur la base de l'article 22/5, § 3;
+
+3° Formuler, d'initiative ou à la demande du Conseil d'administration ou du Gouvernement, des avis à l'intention du Conseil d'administration sur la politique d'accueil.
+
+Par programmation au sens de la présente disposition, il y a lieu d'entendre un appel public à candidatures destiné aux milieux d'accueil collectif en vue de déterminer les services ou institutions qui pourront, le cas échéant, bénéficier, en application de critères de programmation déterminés, d'un agrément et/ou d'un subventionnement. La procédure d'organisation de programmations et les critères de programmation sont fixés dans le contrat de gestion prévu aux articles 26 et 27.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-03-26/35, art. 8, 006; En vigueur : 01-01-2015&gt;
+
+#### Art. 22/4
+
+[<sup>1</sup> L'Office ne peut formuler au Gouvernement une proposition de contrat de gestion ou une modification du contrat de gestion pour y insérer des critères de programmation que s'il a demandé préalablement au Comité de programmation une proposition conformément à l'article 22/3, 1° ou un avis conformément à l'article 22/3, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-03-26/35, art. 9, 006; En vigueur : 01-01-2015&gt;
+
+#### Art. 22/5
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Pour délibérer valablement, la majorité des membres ayant voix délibérative dont au moins deux membres dans chacune des catégories visées à l'article 22/1, alinéa 1er, doit être présente aux réunions du Comité de programmation.
+
+Les propositions et avis du Comité de programmation sont pris à la majorité des deux tiers des membres présents ainsi qu'à la majorité des membres présents dans chacune des catégories de membres visées à l'article 22/1, alinéa 1er.]<sup>2</sup>
+
+Les propositions et avis du Comité de programmation sont transmis au Conseil d'administration ou par l'entremise de ce dernier au Gouvernement.
+
+Les propositions et avis du Comité de programmation, tels que visés à l'article 22/3, 1° et 2°, sont rendus dans un délai de quarante-cinq jours à dater de la réception de la demande de proposition adressée au (à la) président(e) du Comité de programmation. Passé ce délai, le Conseil d'administration prend attitude.
+
+Les avis du Comité de programmation, tels que visés à l'article 22/3, 3°, sont rendus dans un délai de quarante-cinq jours à dater de la réception de la demande d'avis adressée au (à la) président(e) du Comité de programmation.
+
+Le Comité de programmation adopte, pour le surplus, un règlement d'ordre intérieur qu'il soumet à l'approbation du Gouvernement.
+
+§ 2. Le Conseil d'administration statue sur la proposition du Comité de programmation visée à l'article 22/3, 1° ou suite à l'avis rendu en vertu de l'article 22/3, 2°, dans un délai maximum de quarante-cinq jours à dater de la réception de la proposition ou de l'avis par le (la) président(e) du Conseil d'administration. Passé ce délai, le Conseil d'administration est tenu d'adopter la proposition ou de suivre l'avis.
+
+Si les deux tiers des membres présents du Conseil d'administration sont en désaccord avec la proposition ou l'avis, le Conseil d'administration motive son désaccord et une nouvelle proposition ou un nouvel avis est demandé au Comité de programmation. Celui-ci transmet sa nouvelle proposition ou un nouvel avis au Conseil d'administration dans un délai de vingt jours à dater de la réception de la demande par le (la) président(e) du Comité de programmation.
+
+Le Conseil d'administration statue sur cette nouvelle proposition ou suite au nouvel avis.
+
+§ 3. Une procédure d'urgence peut être invoquée à titre exceptionnel par le Conseil d'administration. Le recours à cette procédure doit être dûment motivé. Dans ce cas, l'Office transmet une proposition au Comité de programmation qui doit rendre son avis dans un délai de 15 jours à dater de sa réception par le (la) président(e) du Comité de programmation. Passé ce délai, l'avis est réputé favorable. Le Conseil d'administration statue sur cet avis.
+
+§ 4. Les critères de programmation, une fois adoptés par l'Office, font l'objet d'une proposition de contrat de gestion ou de modification du contrat de gestion, transmise au Gouvernement, accompagnée de la proposition du Comité de programmation ou de l'avis que celui-ci a remis sur la proposition de l'Office.
+
+Si ces critères de programmation sont modifiés lors des négociations entre le Gouvernement et le Conseil d'administration, ceux-ci ne doivent pas faire l'objet d'un nouvel avis du Comité de programmation, sauf si le Gouvernement le demande.
+
+Les critères de programmation, une fois adoptés par l'Office et par le Gouvernement, sont transmis, pour information, au Comité de programmation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-03-26/35, art. 10, 006; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2018-11-14/10, art. 5, 008; En vigueur : 18-12-2018&gt;
+
+### Section 7. [<sup>1</sup> - De la Commission de concertation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/31, art. 18, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 22/6
+
+[<sup>1</sup> Il est institué une Commission de concertation, composée paritairement de membres représentant d'une part les travailleuses et travailleurs du secteur de l'enfance et d'autre part les employeurs de ce secteur, désignés selon les modalités arrêtées par le Gouvernement, garantissant la parité entre le secteur public et le secteur privé pour la représentation des travailleuses et travailleurs. L'Administrateur général ou l'Administratrice générale de l'Office, ou son délégué ou sa déléguée, ainsi qu'un représentant ou une représentante du Ministre ou de la Ministre ayant l'Enfance dans ses compétences siègent avec voix consultative. Les représentants des ministres régionaux des pouvoirs locaux peuvent être invités à participer aux travaux de la Commission.
+
+La présidence de la Commission est assurée par le représentant ou la représentante de la Ministre ayant l'Enfance dans ses compétences. L'Office assure le secrétariat des travaux.
+
+La Commission de concertation peut remettre un avis sur toute question relative aux conditions de travail dans les milieux d'accueil, les opérateurs de l'accueil temps libre, les services de promotion de la santé à l'école et les équipes SOS-Enfants. Le Gouvernement sollicite son avis préalablement à toute modification des normes décrétales ou réglementaires affectant l'autorisation ou le subventionnement des institutions, structures et services visés à l'article 2, § 1er, alinéas 2, 4° et 5°, et 3, ainsi qu'avant la modification et la conclusion du contrat de gestion visé aux articles 26 et 27. Dans les six mois suivant la prestation de serment de ses membres, le Gouvernement sollicite un avis de cette Commission relatif aux mesures sociales prioritaires dans le secteur de l'enfance.
+
+Le Gouvernement arrête le règlement d'ordre intérieur de la Commission de concertation, sur proposition de celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/31, art. 19, 015; En vigueur : 16-07-2024&gt;
+
+### Section 8 DROIT FUTUR. [<sup>1</sup> - Du Conseil de recours]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 20, 015; En vigueur : 01-01-2027&gt;
+
+#### Art. 22/7 DROIT FUTUR
+
+[<sup>1</sup> Les personnes destinataires d'une décision de retrait, de refus ou de suspension d'une autorisation, d'un agrément, d'une reconnaissance ou d'un subventionnement octroyé par l'Office peuvent introduire un recours contre cette décision auprès du Conseil de recours instituée au sein de l'Office.
+
+Sous peine d'irrecevabilité, ce recours est motivé et introduit par courrier recommandé adressé au président du Conseil de recours, envoyé dans les quarante-cinq jours qui suivent la notification de la décision visée. Le requérant a le droit d'être auditionné par le Conseil de recours.
+
+Le Conseil de recours statue dans les soixante jours suivant la réception de la plainte, et notifie sa décision motivée au requérant par courrier recommandé. Sauf si l'intérêt de l'enfant requiert son exécution immédiate, la décision contestée est suspendue durant ce délai.
+
+Les délais visés au présent article sont suspendus durant les périodes de vacances et les jours de congé visés à l'article 1.9.1-1, § 2, alinéa 1er, et § 3, alinéa 2, du Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+Le Gouvernement détermine la procédure devant le Conseil de recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/31, art. 20, 015; En vigueur : 01-01-2027&gt;
+
+#### Art. 22/8 DROIT FUTUR
+
+[<sup>1</sup> Le Conseil de recours est composé d'un magistrat, qui en exerce la présidence, de deux membres du Conseil d'administration et de deux membres du Conseil consultatif de l'enfance, proposés par ces derniers.
+
+En cas d'indisponibilité de plus de deux mois du magistrat président et de son suppléant, la présidence est assurée par le Président ou la Présidente du Conseil d'administration de l'Office siégeant indépendamment des deux autres membres du Conseil d'administration.
+
+Le Gouvernement nomme les membres effectifs et suppléants du Conseil de recours pour un mandat renouvelable de cinq ans.
+
+Les membres visés à l'alinéa premier bénéficient :
+
+1° d'un jeton de présence dont le montant est défini par le Gouvernement et ne peut dépasser le plafond défini pour les administrateurs publics à l'article 10 du décret du 5 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, aux sociétés de bâtiments scolaires, et des sociétés de gestion patrimoniale qui dépendent de la Communauté française ;
+
+2° du remboursement des frais de parcours en transports en commun éventuellement encourus pour leur participation, dans les formes et conditions fixées par l'arrêté royal du 18 janvier 1965 portant réglementation générale en matière de frais de parcours.
+
+L'Office assure le support administratif et logistique du Conseil de recours. A cette fin, un agent de niveau 1 titulaire d'un grade relevant du domaine des sciences juridiques visé à l'article 83, § 1er, 7°, du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études ou d'un grade équivalent est désigné en qualité de secrétaire du Conseil de recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/31, art. 20, 015; En vigueur : 01-01-2027&gt;
+
+## CHAPITRE IV. - Gestion.
+
+### Section 1. - Généralités.
+
+#### Art. 23
+
+Les services de l'Office sont dirigés sous l'autorité du Conseil d'Administration par un(e) Administrateur(trice) général(e) désigné(e) par le Gouvernement après avis du Conseil d'avis visé à l'article 22 et du Conseil d'Administration sur les candidatures.
+
+[<sup>1</sup> Sur proposition du Conseil d'administration, prise à la majorité des deux tiers, le Gouvernement désigne, par arrêté délibéré, un(e) Directeur(trice) général(e) adjoint(e) expert(e) de rang 15 chargé d'apporter son expertise à l'Administrateur(trice) général(e) dans le cadre de sa direction visée à l'alinéa 1er.
+
+L'Administrateur(trice) général(e) peut déléguer, sous son autorité, tout ou partie de ses attributions au (à la) Directeur(trice) général(e) adjoint(e) expert(e).]<sup>1</sup>
+
+L'Administrateur(trice) général(e) participe avec voix consultative aux réunions du Conseil d'Administration et du [<sup>2</sup> Bureau exécutif]<sup>2</sup>.
+
+L'Administrateur(trice) général(e) ou, en son absence, la personne désignée par l'Administrateur(trice) général(e) à cet effet, représente l'Office dans les actes judiciaires et extra-judiciaires.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/35, art. 11, 006; En vigueur : 06-08-2009&gt;
+
+(2)&lt;DCFR 2024-04-18/31, art. 9, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 23 DROIT FUTUR
+
+Les services de l'Office sont dirigés sous l'autorité du Conseil d'Administration par un(e) Administrateur(trice) général(e) désigné(e) par le Gouvernement après avis du [<sup>3</sup> Conseil consultatif de l'enfance]<sup>3</sup> visé à l'article 22 et du Conseil d'Administration sur les candidatures.
+
+[<sup>1</sup> Sur proposition du Conseil d'administration, prise à la majorité des deux tiers, le Gouvernement désigne, par arrêté délibéré, un(e) Directeur(trice) général(e) adjoint(e) expert(e) de rang 15 chargé d'apporter son expertise à l'Administrateur(trice) général(e) dans le cadre de sa direction visée à l'alinéa 1er.
+
+L'Administrateur(trice) général(e) peut déléguer, sous son autorité, tout ou partie de ses attributions au (à la) Directeur(trice) général(e) adjoint(e) expert(e).]<sup>1</sup>
+
+L'Administrateur(trice) général(e) participe avec voix consultative aux réunions du Conseil d'Administration et du [<sup>2</sup> Bureau exécutif]<sup>2</sup>.
+
+L'Administrateur(trice) général(e) ou, en son absence, la personne désignée par l'Administrateur(trice) général(e) à cet effet, représente l'Office dans les actes judiciaires et extra-judiciaires.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/35, art. 11, 006; En vigueur : 06-08-2009&gt;
+
+(2)&lt;DCFR 2024-04-18/31, art. 9, 015; En vigueur : 16-07-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/31, art. 21, 015; En vigueur : 01-01-2027&gt;
+
+#### Art. 24
+
+§ 1. Les statuts de l'Administrateur(trice) général(e) et sa rémunération sont fixés par le Gouvernement.
+
+§ 2. Le Gouvernement arrête [<sup>2</sup> ...]<sup>2</sup> le statut, les rémunérations et les indemnités du personnel.
+
+[<sup>2</sup> Dans les trois mois qui suivent la conclusion du contrat de gestion visé à l'article 26, le Conseil d'administration établit, après concertation au sein du comité de concertation de base, un plan de personnel qu'il soumet à l'approbation du Gouvernement. Ce plan définit les orientations en matière de recrutement et de promotion sur la base des moyens disponibles et des objectifs définis dans le contrat de gestion.]<sup>2</sup>
+
+([<sup>1</sup> Sans préjudice des §§ 1er et 2/1.,]<sup>1</sup> [<sup>1</sup> le]<sup>1</sup> personnel est recruté, nommé, promu ou désigné conformément aux dispositions arrêtées par le Gouvernement.) &lt;DCFR 2003-02-27/63, art. 10, 002; En vigueur : 11-07-2003&gt;
+
+[<sup>1</sup> § 2/1. le (la) Directeur(trice) général(e) adjoint(e) expert(e) jouit du statut pécuniaire et du régime des pensions des agents de même rang des services du Gouvernement de la Communauté française et dispose des mêmes moyens logistiques que l'Administrateur(trice) général(e).
+
+Le (la) Directeur(trice) général(e) adjoint(e) B expert(e) remplit les conditions générales d'admissibilité à un emploi public visées à l'article 1er, § 3 de l'arrêté royal du 22 décembre 2000 fixant les principes généraux du statut administratif et pécuniaire des agents de l'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-03-26/35, art. 12, 006; En vigueur : 06-08-2009&gt;
+
+(2)&lt;DCFR 2024-04-18/31, art. 22, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 25
+
+La gestion financière de l'Office est assurée conformément aux dispositions de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public et les arrêtés d'exécution de ladite loi.
+
+Le Gouvernement approuve le plan comptable, les règles d'évaluation et d'amortissement de l'Office.
+
+Le bénéfice net est le solde du compte de résultats défini par le plan comptable, après dotation aux amortissements et provisions autorisées par le Gouvernement.
+
+Sous réserve d'approbation par le Gouvernement, le Conseil d'Administration affecte le bénéfice net de l'exercice :
+
+1° aux réserves spéciales à concurrence des revenus des fonds ayant reçu une affectation particulière par une donation, un legs ou une fondation;
+
+2° à l'apurement des déficits antérieurs;
+
+3° au report à l'exercice suivant.
+
+Le Gouvernement peut instituer au sein de l'Office un Fonds financé conformément aux dispositions qu'il arrête et permettant l'octroi de subventions affectées.
+
+### Section 2. - Du contrat de gestion.
+
+#### Art. 26
+
+§ 1. L'Office exerce ses missions selon les orientations et modalités définies dans un contrat de gestion conclu entre son Conseil d'Administration [<sup>4</sup> ...]<sup>4</sup> et le Gouvernement.
+
+Lors de la négociation et de la conclusion du contrat de gestion, la Communauté française est représentée par le Gouvernement.
+
+[<sup>4</sup> Dans les douze mois suivant son entrée en fonction selon les dispositions de l'article 23, l'Administrateur général ou l'Administratrice générale transmet au Gouvernement une proposition de contrat de gestion adoptée par le Conseil d'administration à la majorité des deux tiers, après concertation avec le comité de concertation de base quant aux aspects ayant un impact sur l'organisation des services de l'Office.]<sup>4</sup>
+
+Par dérogation à l'alinéa 3, le premier contrat de gestion de l'Office est négocié à l'initiative du Gouvernement sur la base d'une proposition rédigée par ce dernier.
+
+A défaut d'accord entre le Gouvernement et l'Office au terme du contrat de gestion, ce dernier continue à produire ses effets de plein droit jusqu'à l'entrée en vigueur d'un nouveau contrat de gestion ou du dispositif prévu à l'alinéa suivant. Cette prorogation est publiée au Moniteur belge par le Gouvernement.
+
+A défaut d'accord entre le Gouvernement et l'Office dans les six mois qui suivent la transmission de la proposition de contrat de gestion, le Gouvernement arrête seul les orientations et modalités selon lesquelles l'Office exerce ses missions.
+
+§ 2. Le contrat de gestion est conclu pour une durée [<sup>1</sup> de cinq ans]<sup>1</sup> [<sup>2</sup> se terminant un an et demi après le renouvellement du Parlement de la Communauté française]<sup>2</sup>. Il peut être adapté en cours d'exécution de commun accord selon les modalités prévues au § 1, alinéas 1 et 2.
+
+§ 3. Le contrat de gestion [<sup>4</sup> est structuré en objectifs stratégiques et opérationnels visant l'exécution des missions de l'Office dans une perspective de qualité. Le contrat de gestion définit les moyens budgétaires et humains permettant la réalisation de ces objectifs, ainsi que les échéances et les indicateurs permettant leur évaluation. Pour le surplus, il]<sup>4</sup> règle notamment les matières suivantes :
+
+1° [<sup>4</sup> ...]<sup>4</sup>
+
+2° [<sup>4</sup> ...]<sup>4</sup>
+
+3° [<sup>4</sup> ...]<sup>4</sup>
+
+4° [<sup>4</sup> ...]<sup>4</sup>
+
+5° la fixation, le calcul et les modalités de paiement des subventions éventuelles à charge du budget général des dépenses de la Communauté française que la Communauté française décide d'affecter à la couverture des charges qui découlent pour l'Office de ses missions, compte tenu des coûts et recettes propres à ces tâches et des conditions d'exploitation imposées par ou en vertu de la loi, ou par le contrat de gestion et, pour ce qui concerne le coût du personnel, de la prise en compte de l'indexation des salaires et de la dérive barémique;
+
+6° les objectifs relatifs à la structure financière de l'Office;
+
+7° le cas échéant, les règles relatives à la répartition des bénéfices nets;
+
+8° la fixation d'un montant, pour ce qui concerne les opérations immobilières soumises à l'autorisation préalable du Gouvernement et, le cas échéant, la fixation d'un délai à l'expiration duquel l'autorisation est supposée être accordée;
+
+9° les cas dans lesquels le Gouvernement obtient la mise à disposition des services de l'Office et la forme de celle-ci;
+
+10° les sanctions en cas de non-respect par l'Office de ses tâches, de ses engagements ou de ses objectifs résultant du contrat de gestion;
+
+11° les conditions de sa révision notamment en raison de cas fortuits ou de cas de force majeure.
+
+[<sup>4</sup> A compter de six mois après sa signature et, ensuite, tous les trois mois, le contrat de gestion fait l'objet d'un rapport de réalisation élaboré par l'Administrateur général ou l'Administratrice générale, communiqué au Conseil d'administration.]<sup>4</sup>
+
+§ 4. Toute clause résolutoire expresse dans le contrat de gestion est réputée non écrite.
+
+L'article 1184 du Code civil n'est pas applicable au contrat de gestion. La partie envers laquelle une obligation dans le contrat de gestion n'est pas exécutée ne peut poursuivre que l'exécution de l'obligation, et, le cas échéant, demander des dommages-intérêts sans préjudice de l'application de toute sanction spéciale prévue dans le contrat de gestion.
+
+§ 5. Sans préjudice de l'article 5, les obligations financières générales éventuelles de la Communauté à l'égard de l'entreprise sont limitées à celles qui résultent des dispositions du contrat de gestion.
+
+§ 6. [<sup>3</sup> Dix mois avant l'échéance du contrat de gestion, le Gouvernement sollicite l'avis du Parlement de la Communauté française sur les éléments constitutifs du prochain contrat de gestion tels que proposés dans une note d'intention détaillée, précisant l'étendue des missions et des services que l'Office devrait être amené à mettre en oeuvre dans le cadre de son prochain contrat de gestion.
+
+Le Parlement procède à une large consultation publique sur l'importance de la mission de l'Office et sa concrétisation au cours du nouveau contrat de gestion.
+
+Dans les 4 mois, le Parlement transmet au Gouvernement les conclusions de sa consultation et les publie sur le site internet du Parlement. A l'expiration de ce délai, le Gouvernement finalise le nouveau contrat de gestion avec l'office en tenant compte de ces recommandations.]<sup>3</sup>
+
+§ 7. Le contrat de gestion est transmis au Conseil de la Communauté française et publié au Moniteur belge.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/35, art. 13, 006; En vigueur : 06-08-2009&gt;
+
+(2)&lt;DCFR 2018-11-14/10, art. 6, 008; En vigueur : 18-12-2018&gt;
+
+(3)&lt;DCFR 2021-10-14/20, art. 1, 011; En vigueur : 05-12-2021&gt;
+
+(4)&lt;DCFR 2024-04-18/31, art. 23, 015; En vigueur : 16-07-2024&gt;
+
+#### Art. 27
+
+L'exécution du contrat de gestion est évaluée au moins tous les deux ans.
+
+Le Gouvernement peut demander à l'Office de faire procéder à une évaluation externe de l'exécution du contrat de gestion.
+
+[<sup>1</sup> L'exécution du contrat de gestion est évaluée au moins tous les deux ans. Une présentation de cette évaluation est présentée au Parlement de la Communauté française.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-10-14/20, art. 2, 011; En vigueur : 05-12-2021&gt;
+
+## CHAPITRE V. - Dispositions transitoires, abrogatoires et finales.
+
+#### Art. 28
+
+A l'article 1, B, de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, les mots " Office de la Naissance et de l'Enfance (ONE) " sont insérés à leur place dans l'ordre alphabétique.
+
+#### Art. 29
+
+L'Office reprendra, en ce qui concerne la Communauté française, les droits et obligations de l'OEuvre nationale de l'Enfance lors de la dissolution de celle-ci.
+
+#### Art. 30
+
+Le Gouvernement de la Communauté française affecte à l'Office de la Naissance et de l'Enfance, avec effet au 1er février 1987, les membres du personnel de l'Oeuvre nationale de l'enfance transférés à la Communauté française aux termes de l'arrêté royal du 28 janvier 1987 transférant les membres du personnel de l'OEuvre nationale. Les personnes ainsi affectées acquièrent la qualité de membre du personnel de l'Office de la Naissance et de l'Enfance dans le respect des dispositions fixées par l'arrêté royal du 17 novembre 1986 réglant le transfert du personnel de l'OEuvre nationale de l'enfance aux Communautés. L'Office de la Naissance et de l'Enfance est tenu au respect des droits que l'arrêté royal du 17 novembre 1986 précité prévoit en faveur de ce personnel.
+
+#### Art. 31
+
+Par dérogation à l'article 9, § 1, alinéa 1, les Administratrices et les Administrateurs sont nommés, pour la première fois en application du présent décret, pour le 31 octobre 2002 au plus tard.
+
+Les Administratrices et les Administrateurs en exercice à l'entrée en vigueur du présent décret sont démis d'office le jour de l'entrée en vigueur de la nomination des Administratrices et des Administrateurs visés à l'alinéa premier.
+
+#### Art. 31/1
+
+[<sup>1</sup> Le contrat de gestion 2013-2018 est prolongé d'une durée de deux années et continue à produire ses effets de plein droit pendant cette durée.
+
+Pendant cette prolongation, le contrat de gestion avec l'Office sera adapté pour répondre à l'évolution, aux problématiques et aux défis de l'Office.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-11-14/10, art. 7, 008; En vigueur : 18-12-2018&gt;
+
+#### Art. 32
+
+Le décret du 30 mars 1983 portant création de l'Office de la Naissance et de l'Enfance est abrogé à l'exception de l'article 20, § 2, alinéa 1, qui est abrogé le jour de l'entrée en vigueur du décret relatif à la transparence, à l'autonomie et au contrôle des organismes d'intérêt public et des entreprises publiques qui dépendent de la Communauté française.
+
+#### Art. 33
+
+Le présent décret entre en vigueur le 1er août 2002 à l'exception de l'article 18 qui produit ses effets le 1er juin 2004 et de l'article 9, § 2, 5°, qui entre en vigueur à la date de l'entrée en vigueur du décret relatif à la transparence, à l'autonomie et au contrôle des organismes d'intérêt public et des entreprises publiques qui dépendent de la Communauté française.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 17 juillet 2002.
+
+Le Ministre-Président, chargé des Relations internationales,
+
+H. HASQUIN
+
+Le Ministre de la Culture, du Budget, de la Fonction publique, de la Jeunesse et des Sports,
+
+R. DEMOTTE
+
+Le Ministre de l'Enfance, chargé de l'Enseignement fondamental, de l'Accueil et des Missions confiées à l'ONE,
+
+J.-M. NOLLET
+
+Le Ministre de l'Enseignement secondaire et de l'Enseignement spécial,
+
+P. HAZETTE
+
+La Ministre de l'Enseignement supérieur, de l'Enseignement de promotion sociale et de la Recherche scientifique,
+
+Mme F. DUPUIS
+
+Le Ministre des Arts et des Lettres et de l'Audiovisuel,
+
+R. MILLER
+
+La Ministre de l'Aide à la Jeunesse et de la Santé,
+
+Mme N. MARECHAL
