@@ -1,0 +1,2365 @@
+---
+title: "Loi sur la conservation de la nature - Région Wallonne"
+identifier: "1973A71207"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1973/07/12/1973A71207/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1973-07-12
+published: 1973-09-11
+entry_into_force: 1973-09-21
+last_amended: 2026-03-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1973/07/12/1973A71207/justel"
+justel_notes:
+  - "cette version séparée de la Loi sur la conservation de la nature, telle qu'elle est valable pour la Région wallonne, a été créée à l'occasion de sa modification par le DRW 2001-06-28/38 , publié le 05-07-2001. Pour les versions antérieures, voir archives de la version fédérale L 1973-07-12/30 ."
+  - "Consultation des versions antérieures à partir du 22-01-2002 et mise à jour au 23-03-2026"
+retrieved: 2026-10-12
+---
+
+# 12 JUILLET 1973. - Loi sur la conservation de la nature - Région Wallonne
+
+## CHAPITRE I. \_ Dispositions générales.
+
+##### Art. 1
+
+La présente loi tend à sauvegarder le caractère, la diversité et l'intégrité de l'environnement naturel par des mesures de protection de la flore et de la faune, de leurs communautés et de leurs habitats, ainsi que du sol, du sous-sol, des eaux et de l'air.
+
+La présente loi ne vise pas à réglementer l'exploitation agricole et forestière.
+
+##### Art. 1bis
+
+[<sup>1</sup> Au sens de la présente loi, on entend par :
+
+1° conservation : ensemble de mesures requises pour maintenir ou rétablir les habitats naturels et les populations d'espèces de faune et de flore sauvages dans un état favorable au sens des points 6° et 10°;
+
+2° habitats naturels : les zones terrestres ou aquatiques dont les caractéristiques géographiques et abiotiques et dont les possibilités de colonisation naturelle permettent la présence ou la reproduction de populations d'espèces de faune ou de flore sauvages. Les habitats sont dits naturels, que leur existence soit ou non due à une intervention humaine;
+
+3° types d'habitats naturels d'intérêt communautaire : types d'habitats naturels qui, sur le territoire européen des Etats membres des Communautés européennes :
+
+a. soit sont en danger de disparition dans leur aire de répartition naturelle;
+
+b. soit ont une aire de répartition naturelle réduite par suite de leur régression ou en raison de leur aire intrinsèquement restreinte;
+
+c. soit constituent des exemples remarquables de caractéristiques propres à l'une ou à plusieurs des cinq régions biogéographiques suivantes : alpine, atlantique, continentale, macaronésienne et méditerranéenne.
+
+Ces types d'habitats naturels figurent à l'annexe VIII;
+
+4° types d'habitats naturels prioritaires : types d'habitats naturels indiqués par un astérisque (\*) à l'annexe VIII;
+
+5° état de conservation d'un habitat naturel : l'effet de l'ensemble des influences agissant sur un habitat naturel ainsi que sur les populations des espèces typiques qu'il abrite, qui peuvent affecter à long terme sa répartition naturelle, sa structure et ses fonctions ainsi que la survie à long terme des populations de ses espèces typiques sur le territoire européen des Etats membres des Communautés européennes [<sup>2</sup> où le traité s'applique sur le territoire de la Region wallonne ou sur l'aire de répartition naturelle de cet habitat]<sup>2</sup>;
+
+6° état de conservation favorable d'un habitat naturel : état acquis lorsque l'ensemble des conditions suivantes sont réunies :
+
+a. l'aire de répartition naturelle de l'habitat ainsi que les superficies qu'il couvre au sein de cette aire sont stables ou en extension;
+
+b. la structure et les fonctions spécifiques nécessaires au maintien de l'habitat naturel à long terme existent et sont susceptibles de perdurer dans un avenir prévisible;
+
+c. l'état de conservation des espèces qui sont typiques à l'habitat naturel est favorable au sens du point 10°;
+
+7° espèces d'intérêt communautaire : espèces qui, sur le territoire européen des Etats membres des Communautés européennes, sont :
+
+a. soit en danger, excepté celles dont l'aire de répartition naturelle s'étend de manière marginale sur ce territoire et qui ne sont ni en danger ni vulnérables dans l'aire du paléarctique occidental;
+
+b. soit vulnérables, c'est-à-dire dont le passage dans la catégorie des espèces en danger est jugé probable dans un avenir proche en cas de persistance des facteurs qui sont cause de la menace;
+
+c. soit rares, c'est-à-dire dont les populations sont de petite taille et qui, bien qu'elles ne soient pas actuellement en danger ou vulnérables, risquent de le devenir. Ces espèces sont localisées dans des aires géographiques restreintes ou éparpillées sur une plus vaste superficie;
+
+d. soit endémiques et requièrent une attention particulière en raison de la spécificité de leur habitat et/ou des incidences potentielles de leur exploitation sur leur état de conservation.
+
+Ces espèces figurent à une ou plusieurs des annexes suivantes : annexe II, point a., annexe IV, annexe VI, point a., annexe IX;
+
+8° espèces prioritaires : espèces indiquées par un astérisque (\*) aux annexes I, IX et XI;
+
+9° état de conservation d'une espèce : l'effet de l'ensemble des influences qui, agissant sur celle-ci peuvent affecter à long terme la répartition et l'importance de ses populations sur le territoire européen des Etats membres des Communautés européennes [<sup>3</sup> où le traité s'applique ou le territoire de la Région wallonne, ou l'aire de répartition naturelle de cette espèce]<sup>3</sup>;
+
+10° état de conservation favorable d'une espèce : état acquis lorsque l'ensemble des conditions suivantes sont réunies :
+
+a. les données relatives à la dynamique des populations de l'espèce en question indiquent que cette espèce continue et est susceptible de continuer à long terme à constituer un élément viable des habitats naturels auxquels elle appartient;
+
+b. l'aire de répartition naturelle de l'espèce ne diminue pas ni ne risque de diminuer dans un avenir prévisible;
+
+c. il existe et il continuera probablement d'exister un habitat naturel suffisamment étendu pour que les populations qu'il abrite s'y maintiennent à long terme, cet habitat étant maintenu ou rétabli dans un état favorable de conservation;
+
+11° spécimen : tout animal ou toute plante d'origine sauvage, vivant ou mort, appartenant à une des espèces figurant aux annexes I, II, III, IV, VI et VII, toute partie ou tout produit obtenu à partir de celui-ci ou de celle-ci, ainsi que toute autre marchandise dans le cas où il ressort du document justificatif, de l'emballage ou d'une étiquette ou de toutes autres circonstances qu'il s'agit de parties ou produits de ces espèces;
+
+12° site : aire géographiquement définie dont la surface est clairement délimitée;
+
+13° site d'importance communautaire : site qui figure sur la liste des sites d'importance communautaire et qui, dans la ou les régions biogéographiques auxquelles il appartient, contribue de manière significative à maintenir ou à rétablir un type d'habitat naturel de l'annexe VIII ou une population d'une espèce de l'annexe IX dans un état de conservation favorable et peut aussi contribuer de manière significative à la cohérence du réseau Natura 2000, et/ou contribue de manière significative au maintien de la diversité biologique dans la ou les régions biogéographiques concernées.
+
+Pour les espèces animales qui occupent de vastes territoires, les sites d'importance communautaire correspondent aux lieux, au sein de l'aire de répartition naturelle de ces espèces, qui présentent les éléments physiques ou biologiques essentiels à leur vie ou reproduction;
+
+14° liste des sites d'importance communautaire : liste arrêtée par la Commission des Communautés européennes en vertu de l'article 4, § 2, alinéa 3, de la directive 92/43/C.E.E.;
+
+15° zone spéciale de conservation : site d'importance communautaire désigné par les Etats membres des Communautés européennes par un acte réglementaire, administratif et/ou contractuel où sont appliquées les mesures de conservation nécessaires au maintien ou au rétablissement, dans un état de conservation favorable, des habitats naturels et/ou des populations des espèces pour lesquels le site est désigné. En Région wallonne, les zones spéciales de conservation correspondent aux sites Natura 2000 retenus comme sites d'importance communautaire et pour lesquels le régime de gestion active est mis en place;
+
+16° zone de protection spéciale : site, désigné par les Etats membres des Communautés européennes, qui contribue à la conservation des espèces d'oiseaux repris en annexe I de la directive [<sup>6</sup> 2009/147/CE]<sup>6</sup> ainsi qu'aux espèces migratrices, non visées à l'annexe I de la directive [<sup>6</sup> 2009/147/CE]<sup>6</sup>, dont la venue est régulière et compte tenu des besoins de conservation en ce qui concerne leurs aires de reproduction, de mue et d'hivernage ainsi que les zones relais dans leurs aires de migration. En Région wallonne, les zones de protection spéciale correspondent aux sites Natura 2000 désignés en fonction des critères prévus à l'article 25, § 2, alinéa 1er;
+
+17° réseau Natura 2000 : réseau européen cohérent composé de l'ensemble des zones spéciales de conservation et des zones de protection spéciale désignées par les Etats membres des Communautés européennes;
+
+18° site Natura 2000 : site désigné par la Région wallonne conformément à l'article 26, §§ 1er et 2, en fonction des critères prévus à l'article 25, § 1er, alinéa 1er, ou des critères prévus à l'article 25, § 2, alinéa 1er, et bénéficiant du régime de conservation tel qu'organisé par ou en vertu de la section 3 du chapitre III;
+
+[<sup>5</sup> 18°bis. site candidat au réseau Natura 2000 : site qui a été sélectionné et proposé à la Commission européenne par le Gouvernement wallon en vertu de l'article 25, § 1er, ou a été sélectionné par le Gouvernement wallon en vue de sa désignation en vertu de l'article 25, § 2, et qui a fait l'objet d'une publication au Moniteur belge avant le 31 mars 2011 mais qui n'a pas encore été désigné en vertu de ces dispositions;]<sup>5</sup>
+
+19° régime préventif d'un site Natura 2000 : ensemble des mesures, mises en place par ou en vertu des articles 28 et 29, pour prévenir la détérioration des habitats naturels, la perturbation significative des espèces [<sup>5</sup> pour lesquels]<sup>5</sup> le site a été désigné, ou toute autre atteinte significative au site;
+
+[<sup>5</sup> 19°bis régime de protection primaire : ensemble des mesures visant à prévenir la détérioration des habitats naturels, la perturbation significative des espèces pour lesquels le site a été sélectionné, ou toute autre atteinte significative au site, applicables aux sites candidats au réseau Natura 2000 en vertu de l'article 28bis ;]<sup>5</sup>
+
+20° régime de gestion active d'un site Natura 2000 : ensemble des mesures mises en place pour maintenir ou rétablir, dans un état de conservation favorable, les types d'habitats naturels et les espèces [<sup>5</sup> pour lesquels]<sup>5</sup> le site a été désigné;
+
+21° régime de conservation d'un site Natura 2000 : cumul du régime préventif et du régime de gestion active du site;
+
+[<sup>5</sup> 21°bis. objectifs de conservation : objectifs écologiques concrets fixés à l'échelle du territoire de la Région wallonne et à l'échelle des sites Natura 2000, pour chaque type d'habitat naturel et pour chaque type d'espèce pour lesquels des sites doivent être désignés, en vue d'assurer leur maintien ou, le cas échéant, leur rétablissement dans un état de conservation favorable;]<sup>5</sup>
+
+22° commune concernée : commune sur le territoire de laquelle s'étend tout ou partie d'un site Natura 2000;
+
+23° commission de conservation : commission créée en vertu de l'article 30;
+
+24° commission de conservation concernée : commission de conservation dont relève un site Natura 2000;
+
+25° propriétaire concerné : tout titulaire d'un droit de propriété sur un bien immobilier présent dans un site Natura 2000;
+
+26° occupant concerné : tout titulaire d'un droit d'usufruit, d'emphytéose, de superficie, d'usage, d'habitation, de concession, d'un bail à date certaine ou d'un bail à ferme relatif à un bien immobilier présent dans un site Natura 2000;
+
+27° plan : décision qui fixe par des dispositions à valeur réglementaire l'affectation et les modes d'utilisation de parties déterminées du territoire wallon, y compris :
+
+[<sup>7</sup> a) les plans de secteur et les normes des guides d'urbanisme élaborés en vertu du Code du développement territorial;]<sup>7</sup>
+
+c. la classification des terrils en vertu du décret du 9 mai 1985 concernant la valorisation des terrils;
+
+d. la programmation des travaux effectués par les wateringues en vertu de la loi organique du 5 juillet 1956;
+
+e. la planification prévue par la législation relative au remembrement des biens ruraux;
+
+28° permis : autorisation individuelle accordée en vertu de la législation applicable en Région wallonne pour une activité, une exploitation, une construction ou un ouvrage, y compris :
+
+a. les autorisations accordées en vertu du titre Ier du règlement général pour la protection du travail approuvé par l'arrêté du Régent du 11 février 1946;
+
+b. les autorisations accordées en vertu [<sup>8</sup> des dispositions du titre V de la partie II du Livre II du Code de l'Environnement constituant le Code de l'Eau]<sup>8</sup>;
+
+c. les permis de valorisation des terrils délivrés en vertu du décret du 9 mai 1985 concernant la valorisation des terrils;
+
+d. les autorisations accordées en vertu du décret du 7 octobre 1985 sur la protection des eaux de surface contre la pollution;
+
+e. les permis de recherche et les concessions de mines prévus par le décret du 7 juillet 1988 sur les mines;
+
+f. les permis d'extraction délivrés en vertu du décret du 27 octobre 1988 sur les carrières;
+
+g. les autorisations accordées en vertu du décret du 30 avril 1990 sur la protection et l'exploitation des eaux souterraines et des eaux potabilisables;
+
+h. les autorisations accordées en vertu du décret du 27 juin 1996 relatif aux déchets;
+
+i. les permis accordés en vertu du décret du 11 mars 1999 relatif au permis d'environnement;
+
+j. [<sup>7</sup> les permis d'urbanisme et les permis d'urbanisation accordés en vertu du Code du développement territorial;]<sup>7</sup>
+
+29° directive 92/43/C.E.E. : directive 92/43/C.E.E. du Conseil des Communautés européennes, du 21 mai 1992, concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages;
+
+30° [<sup>5</sup> Directive 2009/147/CE : la Directive 2009/147/CE du Parlement européen et du Conseil du 30 novembre 2009 concernant la conservation des oiseaux sauvages;]<sup>5</sup>
+
+31° Convention de Berne : convention relative à la conservation de la vie sauvage et du milieu naturel de l'Europe adoptée à Berne le 19 septembre 1979.]<sup>1</sup>
+
+[<sup>4</sup> 32° unité de gestion : périmètre, d'un seul tenant ou non, situé à l'intérieur d'un site Natura 2000 qui requiert des mesures de conservation globalement homogènes, et qui est délimité en fonction de critères écologiques, techniques et/ou socio-économiques.]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 1, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2007-11-22/44, art. 4, 004; En vigueur : 29-12-2007&gt;
+
+(3)&lt;DRW 2007-11-22/44, art. 5, 004; En vigueur : 29-12-2007&gt;
+
+(4)&lt;DRW 2008-05-22/39, art. 1, 006; En vigueur : 27-06-2008&gt;
+
+(5)&lt;DRW 2010-12-22/30, art. 1, 012; En vigueur : 13-01-2011&gt;
+
+(6)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+(7)&lt;DRW 2016-07-20/46, art. 63, 024; En vigueur : 01-06-2017&gt;
+
+(8)&lt;DRW 2018-10-04/13, art. 1, 028; En vigueur : 15-12-2018&gt;
+
+##### Art. 1bis_REGION_WALLONNE
+
+[<sup>1</sup> Au sens de la présente loi, on entend par :
+
+1° conservation : ensemble de mesures requises pour maintenir ou rétablir les habitats naturels et les populations d'espèces de faune et de flore sauvages dans un état favorable au sens des points 6° et 10°;
+
+2° habitats naturels : les zones terrestres ou aquatiques dont les caractéristiques géographiques et abiotiques et dont les possibilités de colonisation naturelle permettent la présence ou la reproduction de populations d'espèces de faune ou de flore sauvages. Les habitats sont dits naturels, que leur existence soit ou non due à une intervention humaine;
+
+3° types d'habitats naturels d'intérêt communautaire : types d'habitats naturels qui, sur le territoire européen des Etats membres [<sup>10</sup> de l'Union européenne]<sup>10</sup> :
+
+a. soit sont en danger de disparition dans leur aire de répartition naturelle;
+
+b. soit ont une aire de répartition naturelle réduite par suite de leur régression ou en raison de leur aire intrinsèquement restreinte;
+
+c. soit constituent des exemples remarquables de caractéristiques propres à l'une ou à plusieurs des cinq régions biogéographiques suivantes : alpine, atlantique, continentale, macaronésienne et méditerranéenne.
+
+Ces types d'habitats naturels figurent à l'annexe VIII;
+
+4° types d'habitats naturels prioritaires : types d'habitats naturels indiqués par un astérisque (\*) à l'annexe VIII;
+
+5° état de conservation d'un habitat naturel : l'effet de l'ensemble des influences agissant sur un habitat naturel ainsi que sur les populations des espèces typiques qu'il abrite, qui peuvent affecter à long terme sa répartition naturelle, sa structure et ses fonctions ainsi que la survie à long terme des populations de ses espèces typiques sur le territoire européen des Etats membres [<sup>10</sup> de l'Union européenne]<sup>10</sup> [<sup>2</sup> où le traité s'applique sur le territoire de la Region wallonne ou sur l'aire de répartition naturelle de cet habitat]<sup>2</sup>;
+
+6° état de conservation favorable d'un habitat naturel : état acquis lorsque l'ensemble des conditions suivantes sont réunies :
+
+a. l'aire de répartition naturelle de l'habitat ainsi que les superficies qu'il couvre au sein de cette aire sont stables ou en extension;
+
+b. la structure et les fonctions spécifiques nécessaires au maintien de l'habitat naturel à long terme existent et sont susceptibles de perdurer dans un avenir prévisible;
+
+c. l'état de conservation des espèces qui sont typiques à l'habitat naturel est favorable au sens du point 10°;
+
+7° espèces d'intérêt communautaire : espèces qui, sur le territoire européen des Etats membres [<sup>10</sup> de l'Union européenne]<sup>10</sup>, sont :
+
+a. soit en danger, excepté celles dont l'aire de répartition naturelle s'étend de manière marginale sur ce territoire et qui ne sont ni en danger ni vulnérables dans l'aire du paléarctique occidental;
+
+b. soit vulnérables, c'est-à-dire dont le passage dans la catégorie des espèces en danger est jugé probable dans un avenir proche en cas de persistance des facteurs qui sont cause de la menace;
+
+c. soit rares, c'est-à-dire dont les populations sont de petite taille et qui, bien qu'elles ne soient pas actuellement en danger ou vulnérables, risquent de le devenir. Ces espèces sont localisées dans des aires géographiques restreintes ou éparpillées sur une plus vaste superficie;
+
+d. soit endémiques et requièrent une attention particulière en raison de la spécificité de leur habitat et/ou des incidences potentielles de leur exploitation sur leur état de conservation.
+
+Ces espèces figurent à une ou plusieurs des annexes suivantes : annexe II, point a., annexe IV, annexe VI, point a., annexe IX;
+
+8° espèces prioritaires : espèces indiquées par un astérisque (\*) aux annexes I, IX et XI;
+
+9° état de conservation d'une espèce : l'effet de l'ensemble des influences qui, agissant sur celle-ci peuvent affecter à long terme la répartition et l'importance de ses populations sur le territoire européen des Etats membres [<sup>10</sup> de l'Union européenne]<sup>10</sup> [<sup>3</sup> où le traité s'applique ou le territoire de la Région wallonne, ou l'aire de répartition naturelle de cette espèce]<sup>3</sup>;
+
+10° état de conservation favorable d'une espèce : état acquis lorsque l'ensemble des conditions suivantes sont réunies :
+
+a. les données relatives à la dynamique des populations de l'espèce en question indiquent que cette espèce continue et est susceptible de continuer à long terme à constituer un élément viable des habitats naturels auxquels elle appartient;
+
+b. l'aire de répartition naturelle de l'espèce ne diminue pas ni ne risque de diminuer dans un avenir prévisible;
+
+c. il existe et il continuera probablement d'exister un habitat naturel suffisamment étendu pour que les populations qu'il abrite s'y maintiennent à long terme, cet habitat étant maintenu ou rétabli dans un état favorable de conservation;
+
+11° spécimen : tout animal ou toute plante d'origine sauvage, vivant ou mort, appartenant à une des espèces figurant aux annexes I, II, III, IV, VI et VII, toute partie ou tout produit obtenu à partir de celui-ci ou de celle-ci, ainsi que toute autre marchandise dans le cas où il ressort du document justificatif, de l'emballage ou d'une étiquette ou de toutes autres circonstances qu'il s'agit de parties ou produits de ces espèces;
+
+12° site : aire géographiquement définie dont la surface est clairement délimitée;
+
+13° site d'importance communautaire : site qui figure sur la liste des sites d'importance communautaire et qui, dans la ou les régions biogéographiques auxquelles il appartient, contribue de manière significative à maintenir ou à rétablir un type d'habitat naturel de l'annexe VIII ou une population d'une espèce de l'annexe IX dans un état de conservation favorable et peut aussi contribuer de manière significative à la cohérence du réseau Natura 2000, et/ou contribue de manière significative au maintien de la diversité biologique dans la ou les régions biogéographiques concernées.
+
+Pour les espèces animales qui occupent de vastes territoires, les sites d'importance communautaire correspondent aux lieux, au sein de l'aire de répartition naturelle de ces espèces, qui présentent les éléments physiques ou biologiques essentiels à leur vie ou reproduction;
+
+14° liste des sites d'importance communautaire : liste arrêtée par la Commission [<sup>10</sup> européenne]<sup>10</sup> en vertu de l'article 4, § 2, alinéa 3, de la directive 92/43/C.E.E.;
+
+15° zone spéciale de conservation : site d'importance communautaire désigné par les Etats membres [<sup>10</sup> de l'Union européenne]<sup>10</sup> par un acte réglementaire, administratif et/ou contractuel où sont appliquées les mesures de conservation nécessaires au maintien ou au rétablissement, dans un état de conservation favorable, des habitats naturels et/ou des populations des espèces pour lesquels le site est désigné. En Région wallonne, les zones spéciales de conservation correspondent aux sites Natura 2000 retenus comme sites d'importance communautaire et pour lesquels le régime de gestion active est mis en place;
+
+16° zone de protection spéciale : site, désigné par les Etats membres [<sup>10</sup> de l'Union européenne]<sup>10</sup>, qui contribue à la conservation des espèces d'oiseaux repris en annexe I de la directive [<sup>6</sup> 2009/147/CE]<sup>6</sup> ainsi qu'aux espèces migratrices, non visées à l'annexe I de la directive [<sup>6</sup> 2009/147/CE]<sup>6</sup>, dont la venue est régulière et compte tenu des besoins de conservation en ce qui concerne leurs aires de reproduction, de mue et d'hivernage ainsi que les zones relais dans leurs aires de migration. En Région wallonne, les zones de protection spéciale correspondent aux sites Natura 2000 désignés en fonction des critères prévus à l'article 25, § 2, alinéa 1er;
+
+17° réseau Natura 2000 : réseau européen cohérent composé de l'ensemble des zones spéciales de conservation et des zones de protection spéciale désignées par les Etats membres [<sup>10</sup> de l'Union européenne]<sup>10</sup>;
+
+18° site Natura 2000 : site désigné par la Région wallonne conformément à l'article 26, §§ 1er et 2, en fonction des critères prévus à l'article 25, § 1er, alinéa 1er, ou des critères prévus à l'article 25, § 2, alinéa 1er, et bénéficiant du régime de conservation tel qu'organisé par ou en vertu de la section 3 du chapitre III;
+
+[<sup>5</sup> 18°bis. site candidat au réseau Natura 2000 : site qui a été sélectionné et proposé à la Commission européenne par le Gouvernement wallon en vertu de l'article 25, § 1er, ou a été sélectionné par le Gouvernement wallon en vue de sa désignation en vertu de l'article 25, § 2, et qui a fait l'objet d'une publication au Moniteur belge avant le 31 mars 2011 mais qui n'a pas encore été désigné en vertu de ces dispositions;]<sup>5</sup>
+
+19° régime préventif d'un site Natura 2000 : ensemble des mesures, mises en place par ou en vertu des articles 28 et 29, pour prévenir la détérioration des habitats naturels, la perturbation significative des espèces [<sup>5</sup> pour lesquels]<sup>5</sup> le site a été désigné, ou toute autre atteinte significative au site;
+
+[<sup>5</sup> 19°bis régime de protection primaire : ensemble des mesures visant à prévenir la détérioration des habitats naturels, la perturbation significative des espèces pour lesquels le site a été sélectionné, ou toute autre atteinte significative au site, applicables aux sites candidats au réseau Natura 2000 en vertu de l'article 28bis ;]<sup>5</sup>
+
+20° régime de gestion active d'un site Natura 2000 : ensemble des mesures mises en place pour maintenir ou rétablir, dans un état de conservation favorable, les types d'habitats naturels et les espèces [<sup>5</sup> pour lesquels]<sup>5</sup> le site a été désigné;
+
+21° régime de conservation d'un site Natura 2000 : cumul du régime préventif et du régime de gestion active du site;
+
+[<sup>5</sup> 21°bis. objectifs de conservation : objectifs écologiques concrets fixés à l'échelle du territoire de la Région wallonne et à l'échelle des sites Natura 2000, pour chaque type d'habitat naturel et pour chaque type d'espèce pour lesquels des sites doivent être désignés, en vue d'assurer leur maintien ou, le cas échéant, leur rétablissement dans un état de conservation favorable;]<sup>5</sup>
+
+22° commune concernée : commune sur le territoire de laquelle s'étend tout ou partie d'un site Natura 2000;
+
+23° commission de conservation : commission créée en vertu de l'article 30;
+
+24° commission de conservation concernée : commission de conservation dont relève un site Natura 2000;
+
+25° propriétaire concerné : tout titulaire d'un droit de propriété sur un bien immobilier présent dans un site Natura 2000;
+
+26° occupant concerné : tout titulaire d'un droit d'usufruit, d'emphytéose, de superficie, d'usage, d'habitation, de concession, d'un bail à date certaine ou d'un bail à ferme relatif à un bien immobilier présent dans un site Natura 2000;
+
+27° plan : décision qui fixe par des dispositions à valeur réglementaire l'affectation et les modes d'utilisation de parties déterminées du territoire wallon, y compris :
+
+[<sup>7</sup> a) les plans de secteur et les normes des guides d'urbanisme élaborés en vertu du Code du développement territorial;]<sup>7</sup>
+
+c. la classification des terrils en vertu du décret du 9 mai 1985 concernant la valorisation des terrils;
+
+d. la programmation des travaux effectués par les wateringues en vertu de la loi organique du 5 juillet 1956;
+
+e. [<sup>10</sup> la planification en matière d'aménagement foncier de biens ruraux prévue par le Code wallon de l'Agriculture, titre XI, chapitre III]<sup>10</sup>;
+
+28° permis : autorisation individuelle accordée en vertu de la législation applicable en Région wallonne pour une activité, une exploitation, une construction ou un ouvrage, y compris :
+
+a. les autorisations accordées en vertu du titre Ier du règlement général pour la protection du travail approuvé par l'arrêté du Régent du 11 février 1946;
+
+b. les autorisations accordées en vertu [<sup>8</sup> des dispositions du titre V de la partie II du Livre II du Code de l'Environnement constituant le Code de l'Eau]<sup>8</sup>;
+
+[<sup>9</sup> ...]<sup>9</sup>
+
+d. les autorisations accordées en vertu du décret du 7 octobre 1985 sur la protection des eaux de surface contre la pollution;
+
+[<sup>9</sup> ...]<sup>9</sup>
+
+f. les permis d'extraction délivrés en vertu du décret du 27 octobre 1988 sur les carrières;
+
+g. les autorisations accordées en vertu du décret du 30 avril 1990 sur la protection et l'exploitation des eaux souterraines et des eaux potabilisables;
+
+h. les autorisations accordées en vertu du décret du 27 juin 1996 relatif aux déchets;
+
+i. les permis accordés en vertu du décret du 11 mars 1999 relatif au permis d'environnement;
+
+j. [<sup>7</sup> les permis d'urbanisme et les permis d'urbanisation accordés en vertu du Code du développement territorial;]<sup>7</sup>
+
+29° directive 92/43/C.E.E. : directive 92/43/C.E.E. du Conseil des Communautés européennes, du 21 mai 1992, concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages;
+
+30° [<sup>5</sup> Directive 2009/147/CE : la Directive 2009/147/CE du Parlement européen et du Conseil du 30 novembre 2009 concernant la conservation des oiseaux sauvages;]<sup>5</sup>
+
+31° Convention de Berne : convention relative à la conservation de la vie sauvage et du milieu naturel de l'Europe adoptée à Berne le 19 septembre 1979.]<sup>1</sup>
+
+[<sup>4</sup> 32° unité de gestion : périmètre, d'un seul tenant ou non, situé à l'intérieur d'un site Natura 2000 qui requiert des mesures de conservation globalement homogènes, et qui est délimité en fonction de critères écologiques, techniques et/ou socio-économiques.]<sup>4</sup>
+
+[<sup>10</sup> 33° le ministre : le ministre qui a la Conservation de la nature dans ses attributions ;]<sup>10</sup>
+
+[<sup>10</sup> 34° l'administration : un service de la Direction générale en charge de l'environnement du Service public de Wallonie.]<sup>10</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 1, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2007-11-22/44, art. 4, 004; En vigueur : 29-12-2007&gt;
+
+(3)&lt;DRW 2007-11-22/44, art. 5, 004; En vigueur : 29-12-2007&gt;
+
+(4)&lt;DRW 2008-05-22/39, art. 1, 006; En vigueur : 27-06-2008&gt;
+
+(5)&lt;DRW 2010-12-22/30, art. 1, 012; En vigueur : 13-01-2011&gt;
+
+(6)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+(7)&lt;DRW 2016-07-20/46, art. 63, 024; En vigueur : 01-06-2017&gt;
+
+(8)&lt;DRW 2018-10-04/13, art. 1, 028; En vigueur : 15-12-2018&gt;
+
+(9)&lt;DRW 2024-03-14/32, art. 4, 032; En vigueur : 01-07-2024&gt;
+
+(10)&lt;DRW 2026-02-26/13, art. 1, 034; En vigueur : 02-04-2026&gt;
+
+## CHAPITRE II. - [<sup>1</sup> Protection des espèces animales et végétales]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+### Section 1. - [<sup>1</sup> Protection des espèces animales]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+#### Sous-section 1. - [<sup>1</sup> Protection des oiseaux]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 2
+
+[<sup>1</sup> § 1er. Sous réserve du paragraphe 3, sont intégralement protégés tous les oiseaux, normaux ou mutants, vivants, morts ou naturalisés, appartenant à une des espèces vivant naturellement à l'état sauvage sur le territoire européen, notamment celles visées à l'annexe I, y compris leurs sous-espèces, races ou variétés, quelle que soit leur origine géographique, ainsi que les oiseaux hybridés avec un individu de ces espèces.
+
+§ 2. Cette protection implique l'interdiction :
+
+1° de piéger, de capturer ou de mettre à mort les oiseaux, quelle que soit la méthode employée;
+
+2° de perturber intentionnellement les oiseaux, notamment durant la période de reproduction et de dépendance, pour autant que la perturbation ait un effet significatif eu égard aux objectifs de la présente sous-section;
+
+3° de détruire, d'endommager ou de perturber intentionnellement, d'enlever ou de ramasser leurs oeufs ou nids, de tirer dans les nids;
+
+4° de détenir, de céder, d'offrir en vente, de demander à l'achat, de vendre, d'acheter, de livrer, de transporter, même en transit, d'offrir au transport, les oiseaux, ou leurs oeufs, couvées ou plumes ou toute partie de l'oiseau ou produit facilement identifiable obtenus à partir de l'oiseau ou tout produit dont l'emballage ou la publicité annonce contenir des spécimens appartenant à l'une des espèces protégées, à l'exception de celles de ces opérations qui sont constitutives d'une importation, d'une exportation ou d'un transit d'oiseau non indigène.
+
+§ 3. Les interdictions visées au paragraphe 2 ne s'appliquent pas :
+
+1° aux oiseaux de basse-cour considérés comme animaux domestiques agricoles, c'est-à-dire détenus habituellement comme animal de rente ou de rapport pour la production de viande, d'oeufs, de plumes ou de peaux;
+
+2° aux races de pigeons domestiques;
+
+3° aux mutants et hybrides de Serinus canarius avec une espèce non protégée;
+
+4° aux espèces d'oiseaux classés comme gibiers par l'article 1erbis de la loi du 28 février 1882 sur la chasse.
+
+§ 4. Par dérogation à l'article 2, § 2, 4°, le Gouvernement arrête les conditions d'élevage d'oiseaux en vue de garantir la protection des oiseaux sauvages.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+#### Sous-section 2. - [<sup>1</sup> Protection des autres groupes d'espèces animales]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 2bis
+
+[<sup>1</sup> § 1er. Sont intégralement protégées toutes les espèces de mammifères, amphibiens, reptiles, poissons et invertébrés :
+
+1° strictement protégées en vertu de l'annexe IV, point a., de la directive 92/43/C.E.E. et de l'annexe II de la Convention de Berne, dont la liste est reprise en annexe II, point a.;
+
+2° menacées en Wallonie, dont la liste est reprise en annexe II, point b.
+
+§ 2. Cette protection implique l'interdiction :
+
+1° de capturer et de mettre à mort intentionnellement des spécimens de ces espèces dans la nature;
+
+2° de perturber intentionnellement ces espèces, notamment durant les périodes de reproduction, de dépendance, d'hibernation et de migration;
+
+3° de détruire ou de ramasser intentionnellement dans la nature ou de détenir des oeufs de ces espèces;
+
+4° de détériorer ou de détruire les sites de reproduction, les aires de repos ou tout habitat naturel où vivent ces espèces à un des stades de leur cycle biologique;
+
+5° de naturaliser, de collectionner ou de vendre les spécimens qui seraient trouvés blessés, malades ou morts;
+
+6° de détenir, transporter, échanger, vendre ou acheter, offrir aux fins de vente ou d'échange, céder à titre gratuit les spécimens de ces espèces prélevés dans la nature, y compris les animaux naturalisés, à l'exception de ceux qui auraient été prélevés légalement avant la date d'entrée en vigueur de la présente disposition ainsi qu'à l'exception de celles de ces opérations qui sont constitutives d'une importation, d'une exportation ou d'un transit d'espèces animales non indigènes et de leurs dépouilles;
+
+7° d'exposer dans des lieux publics les spécimens.
+
+Les interdictions visées aux points 1°, 2°, 5°, 6° et 7° de l'alinéa précédent s'appliquent à tous les stades de la vie des espèces animales visées par le présent article, y compris les oeufs, nids ou parties de ceux-ci ou des spécimens.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 2ter
+
+[<sup>1</sup> Les interdictions visées à l'article 2bis, § 2, 1°, 2° et 3°, s'appliquent aux espèces figurant à l'annexe III, à l'exception de la détention temporaire d'amphibiens ou de leurs oeufs à des fins pédagogiques ou scientifiques [<sup>2</sup> et sans préjudice de l'article 2septies]<sup>2</sup>.
+
+La détention, l'achat, l'échange, la vente ou la mise en vente des espèces de l'annexe III sont également interdits, ainsi que la perturbation ou la destruction des sites de reproduction des mammifères.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2026-02-26/13, art. 2, 034; En vigueur : 02-04-2026&gt;
+
+#### Sous-section 3. [<sup>1</sup> Règles spécifiques en matière de détention, de capture, de déplacement ou de mise à mort d'individus]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-02-26/13, art. 2, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 2quater
+
+[<sup>1</sup> Toute personne responsable de la capture accidentelle ou de la mise à mort accidentelle de spécimens d'une des espèces strictement protégées en vertu de l'article 2bis est tenue de le déclarer au service de l'administration régionale désigné par le Gouvernement.
+
+Le Gouvernement arrête, le cas échéant, les modalités de la déclaration.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 2quinquies
+
+§ 1.[<sup>1</sup> Pour la capture, le prélèvement ou la mise à mort des espèces de faune sauvage énumérées à l'annexe IV et dans les cas où, conformément à la section 4, des dérogations sont appliquées pour le prélèvement, la capture ou la mise à mort des espèces énumérées aux annexes II et III, tous les moyens non sélectifs susceptibles d'entraîner localement la disparition ou de troubler gravement la tranquillité des populations d'une espèce sont interdits et en particulier :
+
+1° l'utilisation des moyens de capture et de mise à mort énumérés à l'annexe V, point a.;
+
+2° toute forme de capture et de mise à mort à partir des moyens de transport mentionnés à l'annexe V, point b.]<sup>1</sup>
+
+[<sup>2</sup> § 2. En ce qui concerne la capture ou la mise à mort d'oiseaux autorisées en application de la présente loi, il est interdit de recourir à tout moyen, installation ou méthode de capture ou de mise à mort massive ou non sélective ou qui peut entraîner localement la disparition d'une espèce, et en particulier à ceux énumérés à l'annexe Vbis, point a.
+
+En outre, toute poursuite d'oiseaux à partir des modes de transport et dans les conditions mentionnées à l'annexe Vbis, point b, est interdite.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2026-02-26/13, art. 4, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 2sexies
+
+[<sup>1</sup> Par dérogation [<sup>3</sup> aux articles 2 et 2bis]<sup>3</sup>, sont autorisés en tout temps :
+
+1° le déplacement à brève distance d'espèces, nids ou oeufs menacés d'un danger vital immédiat à condition qu'ils soient déposés dans un milieu similaire proche de celui où ils ont été trouvés;
+
+2° le transport d'une espèce blessée ou abandonnée vers un centre de revalidation pour les espèces animales vivant à l'état sauvage.]<sup>1</sup>
+
+[<sup>2</sup> Le Gouvernement fixe les règles [<sup>3</sup> d'agrément, de fonctionnement et de subventionnement ainsi que les obligations]<sup>3</sup> des centres de revalidation pour les espèces animales vivant à l'état sauvage. Les frais qui peuvent être admis dans le cadre des subventions octroyées sont les frais liés aux soins et au séjour des animaux, ainsi que les frais d'investissement et de fonctionnement des centres.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 182, 026; En vigueur : 18-10-2018&gt;
+
+(3)&lt;DRW 2026-02-26/13, art. 5, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 2septies
+
+[<sup>1</sup> § 1er. Ne constitue pas une capture ou une détention interdite au sens de l'article 2bis, § 2, l'immobilisation temporaire et sans déplacement d'un spécimen d'espèce protégée pendant le temps nécessaire à son identification dans un but de recherche ou d'enseignement ou pour la réalisation de suivis ou d'inventaires biologiques, pour autant qu'elle ne mette pas en danger la vie ou l'intégrité du spécimen et à la condition que ces opérations fassent au préalable l'objet d'une notification.
+
+§ 2. Le Gouvernement arrête les formes, le contenu, le délai et la procédure de cette notification.
+
+La notification peut être effectuée annuellement et peut concerner différentes espèces et différents sites.
+
+§ 3. Les demandeurs transmettent annuellement un rapport sur les résultats de leurs recherches.
+
+Le Gouvernement arrête les modalités de cette transmission.
+
+§ 4. Lorsque les opérations visées au paragraphe 1er sont susceptibles de présenter un risque pour la vie ou l'intégrité du spécimen, des conditions de mise en oeuvre sont imposées au demandeur pour prévenir ce risque. Le Gouvernement arrête les modalités de cette imposition.
+
+Lorsqu'aucune condition de mise en oeuvre ne permet de prévenir la survenance d'un risque pour la vie ou l'intégrité du spécimen, l'autorité désignée par le Gouvernement impose l'application du régime visé aux articles 5 et 5bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-02-26/13, art. 6, 034; En vigueur : 02-04-2026&gt;
+
+### Section 2. - [<sup>1</sup> Protection des espèces végétales]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 3
+
+[<sup>1</sup> § 1er. Sont intégralement protégées, à tous les stades de leur cycle biologique, les espèces végétales :
+
+1° strictement protégées en vertu de l'annexe IV, point b., de la directive 92/43/C.E.E. et de l'annexe I de la Convention de Berne, dont la liste est reprise en annexe VI, point a.;
+
+2° menacées en Wallonie, dont la liste est reprise en annexe VI, point b.
+
+§ 2. Cette protection implique l'interdiction de :
+
+1° cueillir, ramasser, couper, déraciner ou détruire intentionnellement des spécimens de ces espèces dans la nature;
+
+2° détenir, transporter, échanger, vendre ou acheter, céder à titre gratuit, offrir en vente ou aux fins d'échange des spécimens de ces espèces prélevés dans la nature, à l'exception de ceux qui auraient été prélevés légalement avant la date d'entrée en vigueur de la présente disposition ainsi qu'à l'exception de celles de ces opérations qui sont constitutives d'une importation, d'une exportation ou d'un transit d'espèces végétales non indigènes;
+
+3° détériorer ou détruire intentionnellement les habitats naturels dans lesquels la présence de ces espèces est établie.
+
+§ 3. Les interdictions visées au paragraphe 2 ne s'appliquent pas :
+
+1° aux opérations de gestion ou d'entretien du site en vue du maintien des espèces et habitats qu'il abrite dans un état de conservation favorable;
+
+2° aux opérations de fauchage, de pâturage, de récolte ou de gestion forestière dans la mesure où ces opérations assurent le maintien dans un état de conservation favorable des populations des espèces concernées.]<sup>1</sup>
+
+[<sup>2</sup> 3° aux prélèvements d'une partie aérienne de plante justifiés par un motif de recherche ou d'enseignement ou par la réalisation de suivis ou d'inventaires biologiques.]<sup>2</sup>
+
+[<sup>2</sup> § 4. Dans le cas prévu au paragraphe 3, 3°, les opérations menées sont notifiées au préalable.
+
+Le Gouvernement arrête les formes, le contenu, le délai et la procédure de cette notification.
+
+La notification peut être effectuée annuellement et peut concerner différentes espèces et différents sites.
+
+Les demandeurs transmettent annuellement un rapport sur les résultats de leurs recherches. Le Gouvernement arrête les modalités de cette transmission.
+
+Lorsque les opérations visées au paragraphe 3, 3°, sont susceptibles d'entraîner un risque de destruction du spécimen, des conditions de mise en oeuvre sont imposées au demandeur.
+
+Le Gouvernement arrête les modalités de cette imposition.
+
+Lorsqu'aucune condition de mise en oeuvre ne permet de prévenir le risque de destruction du spécimen, l'autorité désignée par le Gouvernement impose l'application du régime visé aux articles 5 et 5bis.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2026-02-26/13, art. 7, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 3bis
+
+[<sup>1</sup> Les parties aériennes des spécimens appartenant aux espèces végétales figurant à l'annexe VII peuvent être cueillies, ramassées, coupées, détenues, transportées ou échangées en petite quantité.
+
+Sont toutefois interdits :
+
+1° la vente, la mise en vente ou l'achat de spécimens appartenant à ces espèces [<sup>2</sup> prélevées dans la nature]<sup>2</sup>;
+
+2° la destruction intentionnelle des spécimens appartenant à ces espèces ou des habitats naturels dans lesquels elles sont présentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2026-02-26/13, art. 8, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 3ter
+
+[<sup>1</sup> § 1er. Afin d'améliorer l'effectivité du régime de protection des espèces visé aux articles 2, 2bis, 2ter, 3 et 3bis, le Gouvernement est habilité à :
+
+1° prendre des mesures de protection complémentaires aux régimes de protection de ces espèces ;
+
+2° soumettre à notification préalable auprès d'une autorité désignée par le Gouvernement des actes, travaux, activités, ouvrages ou installations dont la mise en oeuvre est susceptible de requérir une dérogation en application de l'article 5 ;
+
+3° sans préjudice de la réglementation sanitaire européenne et fédérale applicable et sans préjudice des dispositions relatives aux espèces exotiques envahissantes, prendre les mesures sanitaires nécessaires pour prévenir, contenir ou réduire l'effet d'organismes ou d'agents pathogènes susceptibles d'affecter l'état de conservation des espèces protégées concernées.
+
+Sur la base d'une appréciation scientifique, l'autorité compétente pour recevoir la notification visée à l'alinéa 1er, 2°, peut :
+
+1° déterminer les mesures d'évitement ou, le cas échéant, d'atténuation dont le respect exonère de l'obligation d'obtenir une dérogation ;
+
+2° à défaut, imposer le dépôt d'une demande de dérogation conformément à l'article 5bis.
+
+§ 2. Le Gouvernement fixe les modalités d'application du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-02-26/13, art. 9, 034; En vigueur : 02-04-2026&gt;
+
+### Section 3. - [<sup>1</sup> Surveillance des populations d'espèces animales et végétales]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 4
+
+[<sup>1</sup> § 1er. Le Gouvernement arrête les modalités de récolte et d'analyse des données biologiques sur les populations wallonnes des espèces animales et végétales sauvages et des habitats naturels visés par la présente loi, afin d'assurer la surveillance de leur état de conservation.
+
+§ 2. Sur la base des données récoltées en vertu du paragraphe 1er, le Gouvernement prend les mesures nécessaires pour limiter le prélèvement et l'exploitation des espèces animales et végétales figurant aux annexes IV et VII, afin de garantir leur maintien dans un état de conservation favorable.
+
+Ces mesures peuvent comporter, notamment :
+
+1° des prescriptions concernant l'accès à certains sites;
+
+2° l'interdiction temporaire ou locale de prélèvement de spécimens dans la nature et de l'exploitation de certaines populations;
+
+3° la réglementation des périodes et/ou des modes de prélèvement de spécimens;
+
+4° l'application, lors du prélèvement de spécimens, de règles halieutiques respectueuses de la conservation de ces populations;
+
+5° l'instauration d'un système d'autorisations de prélèvement de spécimens ou de quotas;
+
+6° la réglementation de l'achat, de la vente, de la mise en vente, de la détention ou du transport en vue de la vente de spécimens;
+
+7° l'élevage en captivité d'espèces animales ainsi que la propagation artificielle d'espèces végétales, dans des conditions strictement contrôlées, en vue de réduire le prélèvement de spécimens dans la nature;
+
+8° l'évaluation de l'effet des mesures adoptées.
+
+Les mesures visées à l'alinéa précédent sont soumises à la surveillance prévue au paragraphe 1.
+
+§ 3. Sur la base des données récoltées en vertu de l'article 2quater, le service de l'administration régionale désigné par le Gouvernement vérifie que les captures et mises à mort accidentelles d'espèces animales protégées n'ont pas une incidence négative importante sur ces espèces et propose, si nécessaire, des mesures de conservation destinées à limiter l'incidence négative des captures et mises à mort accidentelles.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Pour permettre à la fois la récolte des données biologiques et la protection des espèces animales et végétales et des habitats naturels protégés lorsqu'ils sont localisés, le service de l'administration désigné par le Gouvernement est autorisé à prendre contact avec les propriétaires ou occupants concernés, pour les informer d'un passage, ou pour leur fournir d'initiative des informations utiles sur le régime de protection applicable ou sur les mesures favorables ou défavorables aux espèces et habitats observés. A cette fin, ce service peut consulter le SIGeC, le registre national ou les données du cadastre permettant d'identifier lesdits propriétaires et occupants.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 183, 026; En vigueur : 18-10-2018&gt;
+
+### Section 4. - [<sup>1</sup> Dérogations aux mesures de protection des espèces animales et végétales]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 5
+
+[<sup>1</sup> § 1er. [<sup>4</sup> Le Gouvernement peut délivrer des dérogations aux mesures de protection des espèces animales et végétales aux conditions prévues par le présent article.
+
+Sauf décision contraire du Gouvernement, la dérogation accordée est individuelle et personnelle.
+
+L'exécution de la dérogation est placée sous la responsabilité de son titulaire qui peut mandater un tiers pour la mettre en oeuvre. Dans ce cas, le tiers est en possession d'une copie de la dérogation et de son mandat pendant toute la durée de l'exécution de la dérogation. Le Gouvernement peut fixer les conditions de ce mandat.
+
+Le titulaire de la dérogation peut la céder. Le Gouvernement arrête les conditions et les modalités de cette cession.
+
+Le cédant et le cessionnaire procèdent à une notification conjointe de la cession à l'autorité compétente pour délivrer les dérogations.
+
+Le cessionnaire confirme par écrit, à cette occasion, avoir pris connaissance de la dérogation et des conditions qui l'assortissent à la date de la cession.
+
+Le cessionnaire devient responsable de la bonne exécution et de la mise en oeuvre de la dérogation ainsi que du respect des conditions qui l'assortissent à la date de la cession.
+
+Aussi longtemps que la notification de la cession n'a pas eu lieu, le cédant demeure responsable du non-respect de la dérogation et de ses conséquences.
+
+La dérogation peut être accordée pour une période déterminée.]<sup>4</sup>.
+
+[<sup>4</sup> § 1erbis. Le Gouvernement peut, dans le respect du principe de proportionnalité et des paragraphes 2 ou 3, modifier la dérogation avant la fin de sa validité :
+
+1° lorsqu'au regard de l'évolution des connaissances scientifiques la mise en oeuvre d'une dérogation s'avère susceptible d'entrainer la dégradation de l'état de conservation d'une ou plusieurs des espèces visées ;
+
+2° lorsqu'il s'avère que le dispositif d'une dérogation doit être modifié, de manière non significative, pour l'un des motifs visés aux paragraphes 2 ou 3.
+
+La modification de la dérogation produit ses effets pour la partie de la dérogation qui n'a pas encore été exécutée.
+
+Avant de prendre une décision sur la base de la présente disposition, et sauf urgence spécialement motivée, l'autorité compétente donne au titulaire de la dérogation la possibilité de faire valoir, dans des délais raisonnables, ses observations, oralement ou par écrit.
+
+Le Gouvernement arrête la procédure de modification de la dérogation.]<sup>4</sup>
+
+§ 2. Pour les espèces d'oiseaux, la dérogation ne peut être accordée qu'à condition qu'il n'existe pas d'autre solution satisfaisante et que la dérogation ne mette pas en danger la population d'oiseaux concernée. Dans ce cas, une dérogation peut uniquement être accordée pour un des motifs suivants :
+
+1° dans l'intérêt de la santé et de la sécurité publiques;
+
+2° dans l'intérêt de la sécurité aérienne;
+
+3° pour prévenir les dommages importants aux cultures, au bétail, aux forêts, aux pêcheries et aux eaux;
+
+4° pour la protection d'espèces animales ou végétales sauvages;
+
+5° pour des fins de recherche et d'enseignement, de repeuplement, de réintroduction ainsi que pour l'élevage se rapportant à ces actions;
+
+6° pour permettre, dans des conditions strictement contrôlées et de manière sélective, la capture, la détention ou toute autre exploitation judicieuse de certains oiseaux en petites quantités.
+
+§ 3. Pour les mammifères, amphibiens, reptiles, poissons et invertébrés sauvages, ainsi que pour les espèces végétales sauvages, la dérogation ne peut être accordée qu'à condition qu'il n'existe pas d'autre solution satisfaisante et que la dérogation ne nuise pas au maintien dans un état de conservation favorable des populations des espèces concernées dans leur aire de répartition naturelle. Dans ce cas, une dérogation peut uniquement être accordée pour un des motifs suivants :
+
+1° dans l'intérêt de la protection des espèces animales et végétales sauvages et de la conservation des habitats naturels;
+
+2° pour prévenir des dommages importants notamment aux cultures, à l'élevage, aux forêts, aux pêcheries, aux eaux ou à d'autres formes de propriétés;
+
+3° dans l'intérêt de la santé et de la sécurité publiques, ou pour d'autres raisons impératives d'intérêt public majeur, y compris de nature sociale ou économique, et pour des motifs qui comporteraient des conséquences bénéfiques primordiales pour l'environnement;
+
+4° à des fins de recherche et d'éducation, de repeuplement et de réintroduction de ces espèces et pour des opérations de reproduction nécessaires à ces fins, y compris la propagation artificielle des plantes;
+
+5° pour permettre, dans des conditions strictement contrôlées, d'une manière sélective et dans une mesure limitée, la prise ou la détention d'un nombre limité et spécifié par le Gouvernement de certains spécimens des espèces reprises en annexe II, point a.]<sup>1</sup>
+
+Art 5. (à portée nationale)
+
+[<sup>2</sup> [<sup>3</sup> § 1er.]<sup>3</sup> Sans préjudice des dispositions des législations sur la chasse, sur la police sanitaire des animaux domestiques et sur la protection des végétaux et sans préjudice des obligations résultant de conventions internationales, le Roi peut prendre des mesures en vue de :
+
+1° réglementer, suspendre ou interdire l'importation, l'exportation ainsi que le transit des espèces végétales non indigènes ainsi que des espèces animales non indigènes et de leurs dépouilles;
+
+2° de soumettre l'importation, l'exportation ainsi que le transit des espèces végétales non indigènes ainsi que des espèces animales non indigènes et de leurs dépouilles à une homologation, une autorisation, un enregistrement ou une notification préalables, ainsi que de fixer les conditions dans lesquelles les autorisations ou enregistrements peuvent être accordés, suspendus et retirés;
+
+3° de réglementer la mise en liberté des espèces animales non indigènes et leur introduction dans les parcs à gibier.]<sup>2</sup>
+
+[<sup>3</sup> § 2. Le Roi fixe, par arrêté délibéré en Conseil des ministres, la procédure et les conditions pour autoriser, suspendre ou retirer à titre temporaire ou définitif un permis d'importation, d'exportation ou de transit d'espèces exotiques envahissantes préoccupantes pour l'Union conformément à l'article 8 du Règlement (UE) n° 1143/2014 du Parlement européen et du Conseil du 22 octobre 2014 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;L 2012-07-12/37, art. 2, 018; En vigueur : 22-09-2012&gt;
+
+(3)&lt;L 2015-12-16/06, art. 23, 021; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DRW 2026-02-26/13, art. 10, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 5bis
+
+[<sup>1</sup> § 1er. La demande de dérogation est introduite auprès du service de l'administration [<sup>3</sup> ...]<sup>3</sup> désigné par le Gouvernement.
+
+Le Gouvernement arrête la forme [<sup>3</sup> , le contenu et les modalités]<sup>3</sup> de la demande.
+
+La demande indique, notamment :
+
+1° l'identité du [<sup>3</sup> du ou des demandeurs]<sup>3</sup>;
+
+2° les espèces et le nombre de spécimens pour lesquels la dérogation est sollicitée. [<sup>3</sup> S'il n'est pas possible d'indiquer un nombre précis de spécimens pour une raison objective, il est admis que le nombre de spécimens pour lesquels la dérogation est sollicitée soit une estimation ;]<sup>3</sup>
+
+3° les motifs de la demande de dérogation et l'action visée par la demande;
+
+[<sup>3</sup> 4° le cas échéant, les atteintes aux espèces concernées et à leurs habitats visés par la demande ;]<sup>3</sup>
+
+5° les dates et lieux où la dérogation doit s'exercer;
+
+6° les moyens, installations ou méthodes employés pour la mise en oeuvre de la dérogation;
+
+[<sup>3</sup> 7° les éléments objectifs qui permettent de démontrer qu'il n'existe pas d'autre solution satisfaisante.]<sup>3</sup>
+
+§ 2. L'autorisation de dérogation indique, notamment :
+
+[<sup>3</sup> 1° le ou les destinataires de l'autorisation ;
+
+2° la ou les espèces et le nombre maximal de spécimens par espèce pour un territoire donné qui font l'objet de la dérogation. Le nombre maximal peut être une estimation s'il n'est pas possible d'indiquer un nombre précis de spécimens pour une raison objective ;
+
+3° les actions autorisées sur les espèces concernées et, le cas échéant, les moyens, installations ou méthodes de capture ou de mise à mort autorisés ;
+
+4° les dates, la durée, les périodes et le territoire pour lesquels la dérogation est octroyée ;
+
+5° le cas échéant, les conditions à respecter lors de la mise en oeuvre de la dérogation ;
+
+6° les contrôles qui seront opérés.]<sup>3</sup>
+
+§ 3. [<sup>3</sup> Le Gouvernement arrête les conditions et les modalités d'octroi de la dérogation.]<sup>3</sup>]<sup>1</sup>
+
+[<sup>3</sup> § 4. Le bénéficiaire d'une dérogation transmet au Gouvernement un rapport périodique sur la mise en oeuvre de la dérogation.
+
+Le non-respect de l'alinéa 1er entraîne, le cas échéant, la suspension ou le retrait de la dérogation ou le refus de l'octroi d'une nouvelle dérogation selon les modalités que le Gouvernement arrête.
+
+Le Gouvernement arrête la forme, la périodicité et le contenu du rapport et les modalités de son dépôt.
+
+§ 5. Le demandeur peut introduire un recours administratif contre la décision ou l'absence de décision visée au paragraphe 2 et la décision de modification visée à l'article 5, § 1erbis.
+
+Le Gouvernement détermine les délais, les conditions et les modalités d'introduction, de traitement de ce recours ainsi que l'autorité appelée à statuer sur ce recours.
+
+§ 6. Sans préjudice des cas prévus à l'article 5, § 1erbis, une dérogation peut être modifiée sur demande de son titulaire aux conditions matérielles et procédurales prévues par la présente section.]<sup>3</sup>
+
+Art. 5bis. (à portée nationale)
+
+[<sup>2</sup> Le Roi peut établir par un arrêté délibéré en Conseil des Ministres un Conseil consultatif fédéral qui donne son avis sur toute question concernant l'importation, l'exportation ainsi que le transit des espèces végétales non indigènes ainsi que des espèces animales non indigènes et de leurs dépouilles.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;L 2012-07-12/37, art. 3, 018; En vigueur : 22-09-2012&gt;
+
+(3)&lt;DRW 2026-02-26/13, art. 11, 034; En vigueur : 02-04-2026&gt;
+
+### Section 5. - [<sup>1</sup> Introduction d'espèces non indigènes et réintroduction d'espèces indigènes]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 5ter
+
+[<sup>1</sup> [<sup>3</sup> § 1er. Sous réserve du paragraphe 2, sont interdites :
+
+1° l'introduction dans la nature, au sens du décret du 2 mai 2019 relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes, ou dans les parcs à gibier de souches non indigènes d'espèces animales et végétales indigènes à l'exclusion des souches des espèces qui font l'objet d'une exploitation sylvicole ou agricole;
+
+2° la réintroduction dans la nature d'espèces animales et végétales indigènes.
+
+§ 2. Le Gouvernement arrête les conditions et les modalités d'octroi d'une autorisation d'introduction dans la nature de souches non indigènes d'espèces indigènes ou de réintroduction d'espèces indigènes.]<sup>3</sup>]<sup>1</sup>
+
+Art. 5ter. (à portée nationale)
+
+[<sup>2</sup> § 1er. L'Etat peut conclure des accords sectoriels relatifs à l'importation, l'exportation et le transit d'espèces animales ou végétales non indigènes envahissantes avec des entreprises qui participent à la dispersion de ces espèces ou des organisations regroupant de telles entreprises.
+
+Les organisations visées au premier alinéa doivent démontrer qu'elles :
+
+1° sont représentatives des entreprises qui appartiennent au même secteur; et
+
+2° disposent de la compétence statutaire requise pour conclure un tel accord ou sont mandatées par, au moins, les trois quarts de leurs membres pour conclure avec l'Etat un accord sectoriel qui les liera conformément au § 4, 1°.
+
+§ 2. Dans la mesure où une entreprise ou une organisation remplit les conditions définies au § 1er et moyennant l'accord de l'Etat, elle peut adhérer à un accord sectoriel existant.
+
+§ 3. Un accord sectoriel ne peut ni remplacer la législation ou la réglementation en vigueur, ni y déroger dans le sens de dispositions moins sévères.
+
+§ 4. Les accords sectoriels doivent être conformes aux conditions minimales suivantes :
+
+1° un accord sectoriel lie les parties, dès qu'il a été signé par toutes les parties concernées.
+
+En fonction de ses dispositions, l'accord sectoriel lie, également, tous les membres de l'organisation ou un groupe de membres décrit de manière générale.
+
+L'accord sectoriel lie, de plein droit, les entreprises qui adhèrent à l'organisation après la signature de l'accord et qui font partie, le cas échéant, du groupe de membres décrit de manière générale dans un accord sectoriel.
+
+Les membres de l'organisation liée par l'accord sectoriel ne peuvent se soustraire aux obligations qui en découlent, en quittant l'organisation;
+
+2° un accord sectoriel est conclu pour une durée déterminée qui ne peut, en aucun cas, être supérieure à dix ans. Toute durée plus longue est ramenée, de plein droit, à dix ans.
+
+Un accord sectoriel ne peut être renouvelé tacitement. L'Etat et une ou plusieurs organisations affiliées peuvent prolonger l'accord sectoriel sans modification;
+
+3° il peut être mis un terme à un accord sectoriel :
+
+a) à l'échéance de la durée de validité;
+
+b) par résiliation par l'une des parties; sauf disposition contraire dans l'accord, le délai de préavis est de six mois;
+
+c) par une convention entre les parties.
+
+§ 5. Les dispositions du présent article sont d'ordre public. Elles sont applicables aux accords sectoriels qui seront conclus après l'entrée en vigueur de la loi du 12 juillet 2012 modifiant la loi du 12 juillet 1973 sur la conservation de la nature.
+
+§ 6. Tout accord sectoriel conclu en exécution de la présente loi, ainsi que toute modification, reconduction ou résiliation de ou adhésion à un accord sectoriel conclue en exécution de la présente loi doivent être publiées au Moniteur belge. Tel est aussi le cas lorsqu'il est mis fin, anticipativement, à l'accord sectoriel par convention entre les parties.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 2, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;L 2012-07-12/37, art. 4, 018; En vigueur : 22-09-2012&gt;
+
+(3)&lt;DRW 2019-05-02/87, art. 30, 030; En vigueur : 05-12-2022&gt;
+
+## CHAPITRE III. \_ Protection des milieux naturels.
+
+##### Art. 6
+
+(NOTE : Les alinéas 1 et 2 cessent d'être applicables aux parcs naturels créés en vertu de DRW 1985-07-16/36, art. 23, § 2)
+
+Dans le but de sauvegarder les territoires présentant un intérêt pour la protection de la flore et de la faune, des milieux écologiques et de l'environnement naturel, ces territoires peuvent être érigés soit en réserves naturelles, intégrales ou dirigées, soit en réserves forestières, soit en parcs naturels; les réserves naturelles peuvent être soit domaniales, soit agréées.
+
+[<sup>1</sup> Le Gouvernement demande l'avis du collège communal sur tout projet de création de réserve naturelle ou forestière sur son territoire. Le collège communal rend son avis dans les soixante jours de la réception de la demande d'avis. A défaut, l'avis est réputé favorable.]<sup>1</sup>
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup> peut, dans certains milieux naturels, prendre des mesures de protection dans le but de conserver les espèces de la flore et de la faune, pour les besoins de la recherche scientifique, de l'enseignement ou de l'éducation populaire.
+
+Des biens immobiliers peuvent être acquis par voie d'expropriation pour cause d'utilité publique en vue de la réalisation des objectifs visés aux alinéas premier et trois.
+
+[Les effets juridiques de la mise en réserve s'appliquent provisoirement aux terrains pour lesquels [<sup>1</sup> le Gouvernement]<sup>1</sup> a notifié au propriétaire son intention d'y ériger une réserve naturelle, ainsi qu'à ceux pour lesquels le propriétaire a introduit une demande d'agrément.
+
+Ces effets s'appliquent pendant une période de 12 mois à dater du jour de la notification ou de la demande d'agrément.
+
+Ils prennent automatiquement fin en cas de décision du [<sup>1</sup> Gouvernement]<sup>1</sup> de ne pas créer la réserve naturelle domaniale projetée ou de refuser l'agrément demandé.] &lt;DRW 1989-09-07/33, art. unique; En vigueur : 27-10-1989&gt;
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 12, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 6bis
+
+[<sup>1</sup> § 1er. Dans le but de contribuer à la sauvegarde et à la cohérence du réseau Natura 2000, les territoires de la Région wallonne présentant un intérêt pour la diversité biologique [<sup>3</sup> de l'Union européenne]<sup>3</sup> sont érigés en sites Natura 2000.
+
+Les sites Natura 2000 sont désignés selon les critères et la procédure décrite à la section 3. Ils bénéficient du régime de conservation tel que prévu par ou en vertu de ladite section.
+
+§ 2. Des biens immobiliers peuvent être acquis par voie d'expropriation pour cause d'utilité publique en vue de la réalisation des objectifs de la section 3.
+
+§ 3. [<sup>2</sup> Une réserve naturelle ou forestière sélectionnée comme site candidat au réseau Natura 2000 ou désignée comme site Natura 2000 en tout ou en partie bénéficie du régime de protection primaire ou du régime de conservation tel que prévu par ou en vertu de la section 3 pour la partie désignée comme site Natura 2000.]<sup>2</sup>
+
+Un site [<sup>2</sup> sélectionné comme site candidat au réseau Natura 2000 ou désigné comme site Natura 2000]<sup>2</sup> dont tout ou partie est mis sous statut de réserve naturelle ou forestière continue à bénéficier du régime de conservation tel que prévu par ou en vertu de la section 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 3, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 2, 012; En vigueur : 13-01-2011&gt;
+
+(3)&lt;DRW 2026-02-26/13, art. 13, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 6ter
+
+[<sup>1</sup> En cas d'incompatibilité entre le régime de conservation d'un site Natura 2000 [<sup>2</sup> ou le régime de protection primaire d'un site candidat au réseau Natura 2000]<sup>2</sup> et d'autres régimes prévus par ou en vertu de la présente loi, le site concerné bénéficie du régime le plus approprié pour son maintien ou son rétablissement dans un état de conservation favorable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 4, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 3, 012; En vigueur : 13-01-2011&gt;
+
+### Section 1ère. \_ Des réserves naturelles.
+
+##### Art. 7
+
+La réserve naturelle intégrale constitue une aire protégée créé dans le but d'y laisser les phénomènes naturels évoluer selon leurs lois.
+
+##### Art. 8
+
+La réserve naturelle dirigée constitue une aire protégée qu'une gestion appropriée tend à maintenir dans son état. A cette fin, des mesures peuvent être prises en vue de conserver, de contrôler ou de réintroduire des espèces végétales ou animales, de maintenir certains faciés du tapis végétal ou de restaurer des milieux altérés.
+
+##### Art. 9
+
+La réserve naturelle domaniale est une aire protégée, érigée par le [<sup>1</sup> Gouvernement]<sup>1</sup>, sur la proposition du Ministre de l'Agriculture, sur des terrains appartenant à l'état, pris en location par lui ou mis à sa disposition à cette fin.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 14, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 10
+
+La réserve naturelle agréée est une aire protégée, gérée par une personne physique ou morale autre que l'Etat et reconnue par le [<sup>1</sup> Gouvernement]<sup>1</sup>, à la demande du propriétaire des terrains et avec l'accord de leur occupant.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 15, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 11
+
+Dans les réserves naturelles, il est interdit :
+
+\_ de tuer, de chasser ou de piéger de n'importe quelle manière les animaux, de déranger ou de détruire leurs jeunes, leurs oeufs, leurs nids ou leurs terriers;
+
+\_ d'enlever, couper, déraciner ou mutiler des arbres et des arbustes, de détruire ou d'endommager le tapis végétal;
+
+\_ de procéder à des fouilles, sondages, terrassements, exploitations de matériaux, d'effectuer tous travaux susceptibles de modifier le sol, l'aspect du terrain, les sources et le système hydrographique, d'établir des conduites aériennes ou souterraines, de construire des bâtiments ou des abris et de placer des panneaux et des affiches publicitaires;
+
+\_ d'allumer des feux et de déposer des immondices.
+
+[<sup>2</sup> - d'effectuer un survol avec un drone.]<sup>2</sup>
+
+[<sup>3</sup> Ces interdictions ne s'appliquent pas aux opérations de surveillance, de gestion ou d'éradication des espèces non indigènes envahissantes.]<sup>3</sup>
+
+[<sup>1</sup> Le Gouvernement peut lever certaines interdictions prévues au présent article conformément à l'article 41 de la loi.]<sup>1</sup>
+
+[<sup>4</sup> Le Gouvernement]<sup>4</sup> prend les mesures nécessaires à la réalisation des objectifs définis à l'article 6.
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 5, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2019-02-14/04, art. 1, 029; En vigueur : 15-03-2019&gt;
+
+(3)&lt;DRW 2019-05-02/87, art. 31, 030; En vigueur : 26-10-2019&gt;
+
+(4)&lt;DRW 2026-02-26/13, art. 16, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 12
+
+Le Ministre [<sup>1</sup> ...]<sup>1</sup> établit les règlements relatifs à la circulation dans les réserves naturelles en dehors des routes et chemins ouverts à la circulation publique.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 17, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 13
+
+Le Ministre [<sup>1</sup> ...]<sup>1</sup> établit les règlements de surveillance et de police des réserves naturelles.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 18, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 14
+
+Pour chacune des réserves naturelles domaniales, le Ministre [<sup>3</sup> ...]<sup>3</sup> établit un plan particulier de gestion et un plan des chemins nécessaires à cette gestion. [<sup>1</sup> Le plan particulier de gestion est adopté simultanément à la création de la réserve, conformément à l'article 9.]<sup>1</sup>
+
+[<sup>2</sup> Le plan particulier de gestion est soumis aux modalités de participation du public en matière d'environnement prévues par le Code de l'Environnement.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 6, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2007-05-31/46, art. 36, 003; En vigueur : 08-03-2008&gt;
+
+(3)&lt;DRW 2026-02-26/13, art. 19, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 15
+
+Pour chacune des réserves naturelles domaniales, le Ministre [<sup>1</sup> ...]<sup>1</sup> désigne l'ingénieur des eaux et forêts chargé de la gestion.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 20, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 16
+
+Le Ministre [<sup>3</sup> ...]<sup>3</sup> désigne, pour chaque réserve naturelle domaniale ou groupe de réserves naturelles domaniales, une commission consultative présidée par un membre du [<sup>2</sup> pôle "Ruralité", section "Nature", visé à l'article 2/6, §§ 1er, 2 et 3, du décret du 6 novembre 2008 portant rationalisation de la fonction consultative]<sup>2</sup>, nommé parmi les candidats présentés sur une liste double par ce [<sup>2</sup> pôle "Ruralité", section "Nature"]<sup>2</sup>. [<sup>1</sup> Cette commission assiste l'agent de l'administration régionale visé à l'article 15 et lui remet son avis sur tous les problèmes qu'il lui soumet et sur les questions qu'elle estime utiles à sa gestion.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 7, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+(3)&lt;DRW 2026-02-26/13, art. 21, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 17
+
+[<sup>1</sup> L'agent de l'administration régionale visé à l'article 15 peut prendre, pour les motifs visés à l'article 41, § 2, des mesures d'urgence qui dérogent aux dispositions des sections 1re et 2 du présent chapitre et aux mesures prises pour son exécution. Dans ce cas, il en informe sans délai la commission consultative concernée et fait rapport au Gouvernement. De son côté, le président de cette commission fait rapport au [<sup>2</sup> pôle "Ruralité", section "Nature"]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 8, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+##### Art. 18
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup> détermine les conditions de surveillance, de protection et de gestion auxquelles les réserves naturelles doivent satisfaire pour être agréées.
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup> fixe les mesures de contrôle et désigne les fonctionnaires chargés de veiller au respect des conditions visées à l'alinéa 1er.
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup> retire l'agrément s'il apparaît que le responsable, de la réserve naturelle agréée omet en dépit d'une mise en demeure donnée par le fonctionnaire désigné en vertu de l'alinéa 2, de se mettre en règle à l'égard des conditions de surveillance, de protection et de gestion visées à l'alinéa 1er.
+
+L'agrément d'une réserve naturelle est donné pour une durée d'au moins dix ans. Il est renouvelable à chaque échéance pour une durée de dix ans.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 22, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 19
+
+Le [<sup>2</sup> Gouvernement]<sup>2</sup> fixe les formes de la demande, de l'octroi, du renouvellement et du retrait de l'agrément. [<sup>1</sup> Toute demande d'agrément de réserve naturelle est accompagnée d'un plan de gestion dont le Gouvernement détermine le contenu. Ledit plan est considéré comme adopté par l'arrêté portant agrément de la réserve.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 9, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2026-02-26/13, art. 23, 034; En vigueur : 02-04-2026&gt;
+
+### Section 2. \_ Des réserves forestières.
+
+##### Art. 20
+
+La réserve forestière est une forêt ou partie de celle-ci protégée conformément à la présente loi dans le but de sauvegarder des faciès caractéristiques ou remarquables des peuplements d'essences indigènes et d'y assurer l'intégrité du sol et du milieu.
+
+##### Art. 21
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup> peut, sur la proposition du Ministre de l'Agriculture, ériger en réserve forestière, les forêts ou parties de forêts appartenant à l'Etat. De même, il peut ériger en réserve forestière, avec l'accord de leur propriétaire, les forêts ou parties de forêts n'appartenant pas à l'Etat.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 24, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 22
+
+&lt;Abrogé par DRW 2008-07-15/44, art. 121, 008; En vigueur : 14-09-2009&gt;
+
+##### Art. 23
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup>, en vue de la protection visée à l'article 20, arrête le règlement de gestion applicable aux réserves forestières.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 25, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 24
+
+Avec l'accord du propriétaire et de l'occupant, le Ministre [<sup>1</sup> ...]<sup>1</sup> peut prendre des règlements de surveillance et de police des réserves forestières érigées sur la propriété de personnes privées.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 26, 034; En vigueur : 02-04-2026&gt;
+
+### Section 3. - [<sup>1</sup> Des sites natura 2000.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 10, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. 25
+
+[<sup>1</sup> § 1er. En vue d'assurer le maintien ou, le cas échéant, le rétablissement dans un état de conservation favorable des types d'habitats naturels figurant à l'annexe VIII et [<sup>3</sup> ...]<sup>3</sup> des populations des espèces figurant à l'annexe IX [<sup>3</sup> ...]<sup>3</sup>, et sur la base des critères établis à l'annexe X et des informations scientifiques pertinentes, le Gouvernement propose à la Commission [<sup>4</sup> européenne]<sup>4</sup> une liste de sites susceptibles d'être identifiés comme sites d'importance communautaire, conformément à l'article 4, § 1er, de la directive 92/43/C.E.E.
+
+[<sup>3</sup> Ces sites candidats au réseau Natura 2000]<sup>3</sup> sont désignés comme " sites Natura 2000 " conformément à l'article 26, §§ 1er et 2. Les sites Natura 2000 bénéficient du régime préventif dès leur désignation, qu'ils soient ou non retenus comme sites d'importance communautaire, et jusqu'à leur déclassement éventuel suite à la procédure prévue aux paragraphes 4 et 5.
+
+Les sites Natura 2000 retenus comme sites d'importance communautaire bénéficient du régime de gestion active le plus rapidement possible à partir de l'établissement de la liste des sites d'importance communautaire et dans un délai maximal de trois ans. Ce régime est mis en place dans un ordre de priorité établi en fonction de l'importance des sites pour le maintien ou le rétablissement, dans un état de conservation favorable, d'un type d'habitat naturel de l'annexe VIII ou des populations d'une espèce de l'annexe IX et pour la cohérence du réseau Natura 2000, ainsi qu'en fonction des menaces de dégradation ou de destruction qui pesent sur eux.
+
+Les sites Natura 2000 qui ne sont pas retenus comme sites d'importance communautaire mais qui sont maintenus comme sites Natura 2000 à l'issue de la procédure prévue au paragraphe 4 peuvent bénéficier du régime de gestion active dans le cas où ce régime contribue à leur état de conservation favorable.
+
+Les sites faisant l'objet de la procédure de concertation prévue à l'article 5 de la directive 92/43/C.E.E. bénéficient de la protection prévue à l'article 28, alinéa 1er, pendant la période de concertation. Les sites retenus comme sites d'importance communautaire à l'issue de ladite procédure de concertation sont désignés comme " sites Natura 2000 " conformément à l'article 26, §§ 1er et 2, le plus rapidement possible et dans un délai maximal d'un an. Les sites sont désignés dans un ordre de priorité établi en fonction de l'importance des sites pour le maintien ou le rétablissement, dans un état de conservation favorable, d'un type d'habitat naturel de l'annexe VIII ou des populations d'une espèce de l'annexe IX et pour la cohérence du réseau Natura 2000, ainsi qu'en fonction des menaces de dégradation ou de destruction qui pèsent sur eux. Ces sites bénéficient du régime préventif dès leur désignation. Le régime de gestion active est mis en place pour ces sites le plus rapidement possible et dans un délai maximal de deux ans à partir de la désignation.
+
+§ 2. Le Gouvernement désigne comme " sites Natura 2000 " conformément à l'article 26, §§ 1er et 2, et dans un délai maximal d'un an à partir de l'entrée en vigueur de la présente disposition, les territoires les plus appropriés en nombre et en superficie au regard des besoins de conservation des oiseaux que l'on rencontre sur le territoire de la Région wallonne, figurant à l'annexe XI, ainsi qu'au regard des besoins de protection des oiseaux migrateurs dont la venue est régulière en Région wallonne, figurant également à l'annexe XI, en ce qui concerne leurs aires de reproduction, de mue et d'hivernage et les zones de relais dans leur aire de migration.
+
+Les sites Natura 2000 ainsi désignés bénéficient du régime préventif dès leur désignation. Le régime de gestion active est mis en place pour ces sites le plus rapidement possible et dans un délai maximal de deux ans à partir de la désignation.
+
+§ 3. Le Gouvernement peut désigner un périmètre d'incitation autour d'un ou de plusieurs sites Natura 2000, en vue de favoriser le régime de gestion active de ces sites.
+
+La désignation du périmètre d'incitation est effectuée par arrêté du Gouvernement sur l'avis de la commission de conservation concernée. [<sup>2</sup> Elle est soumise aux modalités de participation du public en matière d'environnement prévues par le Code de l'Environnement.]<sup>2</sup>
+
+L'arrêté indique les mesures à prendre dans le périmètre en vue de contribuer au maintien ou au rétablissement du site ou des sites concernés dans un état de conservation favorable.
+
+§ 4. Dans les six mois de l'établissement de la liste des sites d'importance communautaire, le Gouvernement statue, sur l'avis de la ou des commissions de conservation concernées, sur le maintien ou non comme sites Natura 2000 des sites qui ne sont pas retenus comme sites d'importance communautaire.
+
+Les sites qui ne sont pas maintenus comme sites Natura 2000 sont déclassés par un arrêté du Gouvernement.
+
+[<sup>2</sup> L'arrêté de déclassement est soumis aux modalités de participation du public en matière d'environnement prévues par le Code de l'Environnement.]<sup>2</sup>
+
+[<sup>2</sup> alinéa 4 abrogé]<sup>2</sup>
+
+§ 5. Le déclassement total ou partiel d'un site Natura 2000 retenu comme site d'importance communautaire peut avoir lieu à l'issue de l'évaluation périodique du réseau Natura 2000 par la Commission [<sup>4</sup> européenne]<sup>4</sup> en vertu de l'article 9 de la directive 92/43/C.E.E., et si l'évolution naturelle du site le justifie.
+
+Le déclassement est effectue par un arrête du Gouvernement après avis de la commission de conservation concernée.]<sup>1</sup>
+
+[<sup>2</sup> L'arrêté de déclassement est soumis aux modalités de participation du public en matière d'environnement prévues par le Code de l'Environnement.]<sup>2</sup>
+
+[<sup>2</sup> alinéa 4 abrogé]<sup>2</sup>
+
+[<sup>2</sup> § 6. ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 10, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2007-05-31/46, art. 38, 003; En vigueur : 08-03-2008&gt;
+
+(3)&lt;DRW 2010-12-22/30, art. 4, 012; En vigueur : 13-01-2011&gt;
+
+(4)&lt;DRW 2026-02-26/13, art. 27, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 25bis
+
+[<sup>1</sup> § 1er. Le Gouvernement fixe, à l'échelle de la Région wallonne, des objectifs de conservation pour chaque type d'habitat naturel et pour chaque type d'espèce pour lesquels des sites doivent être désignés.
+
+Les objectifs de conservation sont déterminés sur la base de l'état de conservation, à l'échelle de la Région wallonne, des types d'habitats naturels et des espèces pour lesquels des sites doivent être désignés et ont pour objet de maintenir ou, le cas échéant, de rétablir les types d'habitats naturels et les espèces pour lesquels des sites doivent être désignés dans un état de conservation favorable.
+
+Ces objectifs de conservation ont valeur indicative.
+
+§ 2. Sur la base des objectifs de conservation visés au § 1er, le Gouvernement fixe des objectifs de conservation applicables à l'échelle des sites Natura 2000.
+
+Ces objectifs de conservation ont valeur réglementaire. Ils s'interprètent au regard des données visées à l'article 26, § 1er, alinéa 2, 2° et 3°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-12-22/30, art. 5, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. 25ter
+
+[<sup>1</sup> Le Gouvernement peut déterminer des objectifs de conservation spécifiques à un ou plusieurs sites Natura 2000. Ces objectifs précisent ou complètent les objectifs de conservation visés à l'article 25bis, § 2.
+
+Les objectifs de conservation spécifiques du site sont établis sur base des objectifs de conservation visés à l'article 25bis, §§ 1er et 2, au regard des exigences économiques, sociales et culturelles, des particularités locales du site, ainsi que de ses potentialités biologiques de restauration.
+
+Les objectifs de conservation spécifiques ainsi que ses potentialités biologiques de restauration figurent dans l'arrêté de désignation du site Natura 2000.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-12-22/30, art. 6, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. 25quater
+
+[<sup>1</sup> Sans préjudice de l'article 4, le Gouvernement met en oeuvre un système de suivi de l'état de conservation, à l'échelle de la Région wallonne, de chaque type d'habitat naturel et de chaque type d'espèce pour lesquels des sites doivent être désignés.
+
+Le système de suivi prévoit une évaluation périodique de l'état de conservation des habitats naturels et des espèces pour lesquels des sites doivent être désignés.
+
+L'évaluation de l'état de conservation s'effectue au regard des critères visés à l'article 1erbis, 6° et 10°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-12-22/30, art. 7, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. 26
+
+[<sup>1</sup> § 1er. [<sup>5</sup> Les sites Natura 2000 sont désignés par le Gouvernement.
+
+L'arrêté de désignation indique :
+
+1° le nom propre du site;
+
+2° les types d'habitats naturels d'intérêt communautaire que le site abrite et pour lesquels le site est désigné, ainsi que leur surface et leur état de conservation tel qu'estimés à l'échelle du site au moment de sa sélection, en précisant, le cas échéant, les habitats naturels prioritaires présents dans le site et les unités de gestion qui les abritent;
+
+3° les espèces d'intérêt communautaire que le site abrite et pour lesquelles le site est désigné, ainsi que leur population et leur état de conservation tel qu'estimés à l'échelle du site au moment de sa sélection, en précisant, le cas échéant, les espèces prioritaires présentes dans le site et les unités de gestion qui les abritent;
+
+4° la synthèse des critères scientifiques ayant conduit à la sélection du site;
+
+5° la localisation géographique exacte du périmètre du site reportée sur une ou plusieurs cartes établies au moins au 1/10 000e et publiées au 1/25 000e et complétée, le cas échéant, par des prescriptions littérales visant à préciser ce périmètre;
+
+6° les unités de gestion, délimitées sur le site en vue d'assurer la réalisation des objectifs de conservation du site, leur localisation géographique, complétée, le cas échéant, par des prescriptions littérales visant à préciser leurs périmètres, ainsi que la localisation des principaux types d'habitats naturels que le site abrite reportée sur une ou plusieurs cartes établies au moins au 1/10 000e et publiées au 1/25 000e;
+
+7° la liste des numéros des parcelles cadastrales comprises dans le site, en mentionnant, le cas échéant, le pourcentage de la parcelle incluse dans celui-ci;
+
+8° le cas échéant, en exécution de l'article 25ter, les objectifs de conservation spécifiques du site;
+
+9° le cas échéant, en exécution de l'article 28, § 3, les interdictions spécifiques applicables dans ou en dehors du site ainsi que toute autre mesure préventive particulière spécifique à prendre dans ou en dehors du site pour éviter la détérioration des habitats naturels et les perturbations significatives touchant les espèces pour lesquels le site a été désigné;
+
+10° le cas échéant, les potentialités biologiques de restauration, par type d'habitat naturel et par type d'espèce pour lequel le site a été désigné;
+
+11° compte tenu des exigences économiques, sociales et culturelles ainsi que des particularités locales, les moyens proposés pour atteindre les objectifs de conservation fixés par le Gouvernement en vertu de l'article 25ter, y compris :
+
+a) l'élaboration d'un ou plusieurs contrats de gestion active conformément à l'article 27 ou de toute autre forme de contrat conclu par la Région avec des propriétaires ou occupants intéressés en vertu de la présente loi ou d'une autre législation;
+
+b) la réforme des mesures de gestion des sites dont la Région assure directement ou indirectement la gestion;
+
+c) la mise du site sous statut de réserve naturelle ou forestière conformément aux sections 1re et 2;
+
+d) l'adoption par le Gouvernement de mesures particulières de gestion active;
+
+[<sup>6</sup> e) tout ou partie des actions prévues dans un programme d'actions sur les rivières par une approche intégrée et sectorisée;]<sup>6</sup>
+
+12° la commune concernée;
+
+13° la commission de conservation concernée.
+
+Les prescriptions visées aux points 5° à 9° ont valeur réglementaire. Les prescriptions littérales visées aux points 5° et 6° l'emportent sur les prescriptions graphiques visées aux points 5° et 6°.
+
+Le Gouvernement peut, après l'avis de la commission de conservation concernée, revoir les prescriptions visées aux points 6°, 8°, 9° et 11° en fonction de l'état de conservation du site, de l'évolution de l'environnement, de l'évolution des connaissances scientifiques ou des techniques de gestion. L'arrêté de révision est soumis aux formalités de publicité du § 2 et, le cas échéant, à la procédure de concertation prévue au § 3.]<sup>5</sup>
+
+§ 2. [<sup>2</sup> L'arrêté de désignation est soumis aux modalités de participation du public en matière d'environnement prévues par le Livre Ier du Code de l'Environnement.]<sup>2</sup>
+
+§ 3. [<sup>2</sup> Dans le mois de la publication au Moniteur belge de l'arrêté de désignation en vertu de la procédure de publicité des décisions prévue par le Livre Ier du Code de l'Environnement]<sup>2</sup>, le Gouvernement organise, pour chaque site Natura 2000, une concertation avec les propriétaires et occupants concernés.
+
+Les modalités de la concertation sont arrêtées par le Gouvernement.
+
+La concertation a pour objet d'identifier, parmi les moyens proposés par l'arrêté de désignation conformément [<sup>5</sup> à l'article 26, § 1er, alinéa 2, 11°]<sup>5</sup>, et compte tenu des exigences économiques, sociales, culturelles ainsi que des particularités locales, les moyens appropriés à mettre en oeuvre dans le site pour atteindre [<sup>5</sup> les objectifs de conservation du site]<sup>5</sup>.
+
+[<sup>4</sup> Le Gouvernement peut conclure, le cas échéant indépendamment de la procédure de concertation visée aux alinéas précédents, toute forme de convention avec les personnes physiques ou morales qu'il désigne pour favoriser la mise en oeuvre du régime de gestion active d'un site Natura 2000 ou de toute autre mesure susceptible de contribuer à la cohérence du réseau Natura 2000. Le Gouvernement peut fixer les modalités d'élaboration et de révision, la durée et le contenu des conventions ainsi que les modalités de contrôle et de sanction de leur inexécution, sans préjudice des dispositions visées à l'article 31.]<sup>4</sup>
+
+§ 4. A défaut d'accord sur les moyens à mettre en oeuvre dans le site pour atteindre [<sup>5</sup> les objectifs de conservation du site]<sup>5</sup>, ou en cas d'inexécution des mesures de gestion active par un ou plusieurs propriétaires ou occupants concernés, ou s'il est mis fin au contrat de gestion active conformément à l'article 27, § 3, alinéa 2, ou dans toute autre circonstance susceptible de mettre en péril l'état de conservation favorable du site, le Gouvernement prend, après l'avis de la commission de conservation concernée, les mesures appropriées pour atteindre [<sup>5</sup> les objectifs de conservation du site]<sup>5</sup>.
+
+Les modalites de constatation du défaut d'accord ou de l'inexécution des mesures de gestion active sont arrêtées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 10, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2007-05-31/46, art. 39, 003; En vigueur : 08-03-2008&gt;
+
+(3)&lt;DRW 2008-05-22/39, art. 2, 006; En vigueur : 27-06-2008&gt;
+
+(4)&lt;DRW 2009-04-30/12, art. 2, 010; En vigueur : 29-05-2009&gt;
+
+(5)&lt;DRW 2010-12-22/30, art. 8, 012; En vigueur : 13-01-2011&gt;
+
+(6)&lt;DRW 2018-10-04/13, art. 2, 028; En vigueur : 15-12-2018&gt;
+
+##### Art. 27
+
+[<sup>1</sup> § 1er. Si le contrat de gestion active a été retenu comme un moyen approprié pour atteindre [<sup>3</sup> les objectifs de conservation du site]<sup>3</sup>, le Gouvernement conclut, après avis de la commission de conservation concernée, [<sup>2</sup> un ou plusieurs contrats de gestion active avec les propriétaires et occupants qui le souhaitent]<sup>2</sup>.
+
+Le Gouvernement arrête les modalités d'élaboration et le contenu du contrat de gestion active après avis du Conseil supérieur de la conservation de la nature. [<sup>2</sup> Il peut établir plusieurs types de contrats de gestion active en fonction du type de mesures de gestion à prendre sur le site et compte tenu des exigences économiques, sociales et culturelles et des particularités locales.]<sup>2</sup>
+
+Le contrat prévoit, notamment :
+
+1° les endroits, les périodes et la nature des travaux à effectuer pour atteindre [<sup>3</sup> les objectifs de conservation du site]<sup>3</sup>;
+
+2° la répartition des travaux entre les propriétaires et occupants concernés;
+
+3° une estimation des dépenses nécessaires pour la réalisation des travaux.
+
+§ 2. Le plan de gestion ou autres mesures de gestion existant pour une réserve naturelle ou forestière désignée en tout ou en partie comme site Natura 2000 peuvent constituer le contrat de gestion active si et dans la mesure où ils contribuent à l'état de conservation favorable du site concerné.
+
+§ 3. [<sup>2</sup> Chaque contrat de gestion active est réputé conclu pour une durée minimale de neuf ans.
+
+A son échéance, le contrat est prorogé pour la même durée et aux mêmes conditions, sauf à l'égard des propriétaires et occupants signataires du contrat qui s'opposent à cette prorogation au moins six mois à l'avance.]<sup>2</sup>
+
+§ 4. A l'initiative du Gouvernement, d'un tiers des membres de la commission de conservation concernée ou à la demande motivée du propriétaire ou de l'occupant, chaque contrat de gestion active peut être revu en fonction de l'évolution des connaissances scientifiques, des techniques de gestion, de l'état de conservation du site.
+
+Toute demande de révision du contrat de gestion est soumis à l'avis de la commission de conservation.]<sup>1</sup>
+
+[<sup>3</sup> Cette révision a lieu d'office si les objectifs de conservation du site sont revus par le Gouvernement en exécution de l'article 26, § 1er, alinéa 4.]<sup>3</sup>
+
+[<sup>2</sup> alinéa 4 abrogé]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 10, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2008-05-22/39, art. 3, 006; En vigueur : 27-06-2008&gt;
+
+(3)&lt;DRW 2010-12-22/30, art. 9, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. 28
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Dans les sites Natura 2000, [<sup>2</sup> sans préjudice des prérogatives du bourgmestre en vertu de l'article 135, § 2, de la Nouvelle loi communale,]<sup>2</sup> il est interdit de détériorer les habitats naturels et de perturber les espèces [<sup>3</sup> pour lesquels]<sup>3</sup> les sites ont été désignés, pour autant que ces perturbations soient susceptibles d'avoir un effet significatif eu égard aux objectifs de la présente section.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Les interdictions générales applicables dans ou, le cas échéant, en dehors des sites Natura 2000 ainsi que toutes autres mesures préventives générales à prendre dans ou, le cas échéant, en dehors des sites pour éviter la détérioration des habitats naturels et les perturbations significatives touchant les espèces pour lesquels le site a été désigné, sont arrêtées par le Gouvernement.]<sup>2</sup>
+
+[<sup>2</sup> § 3.]<sup>2</sup> [<sup>3</sup> Le Gouvernement établit et définit les types d'unité de gestion susceptibles d'être délimitées au sein d'un site Natura 2000, le cas échéant en surimpression à d'autres types d'unité de gestion, en vue d'atteindre les objectifs visés à l'article 25, § 1er, alinéa 1er et § 2, alinéa 1er et arrête les interdictions particulières et les autres mesures préventives particulières qui sont applicables à chaque type d'unité de gestion.
+
+Conformément à l'article 26, § 1er, alinéa 2, 9°, il peut, le cas échéant, prévoir dans l'arrêté de désignation des interdictions spécifiques applicables dans ou en dehors de chaque site ainsi que toute autre mesure préventive spécifique à prendre dans ou en dehors du site pour éviter la détérioration des habitats naturels et les perturbations significatives touchant les espèces pour lesquels le site a été désigné. Ces interdictions et mesures spécifiques précisent ou complètent les interdictions et mesures générales et particulières.]<sup>3</sup>
+
+[<sup>2</sup> § 4. Il ne peut être dérogé aux interdictions générales [<sup>3</sup> , particulières ou spécifiques applicables en vertu du §§ 2 ou 3]<sup>3</sup> qu'à titre exceptionnel, sur la base d'une dérogation délivrée par l'inspecteur général de la Division de la nature et des forêts.
+
+Le directeur de centre de la Division de la nature et des forêts territorialement concerné est compétent pour délivrer une autorisation pour la réalisation d'un projet ou l'exercice d'une activité soumis par le Gouvernement à autorisation en vertu des §§ 2 ou 3.
+
+Le Gouvernement peut également prévoir la soumission d'actes, travaux ou activités à un régime de notification préalable, moyennant la possibilité pour l'autorité compétente pour recevoir la notification de soumettre l'activité notifiée à conditions ou à autorisation.
+
+Le Gouvernement fixe la procédure et les modalités d'octroi des dérogations et des autorisations, ainsi que la procédure et les modalités de la notification.
+
+§ 5. Le demandeur peut introduire, auprès du Ministre [<sup>4</sup> ...]<sup>4</sup>, un recours motivé contre la décision d'octroi ou la décision, explicite ou implicite, de refus d'une dérogation ou d'une autorisation en vertu du présent article.
+
+Le Gouvernement fixe la procédure et les modalités du recours.
+
+§ 6. Sans préjudice du § 1er, l'interdiction ou la soumission à autorisation d'actes, travaux, installations et activités en vertu des §§ 2 ou 3 n'est pas applicable :
+
+\- aux actes, travaux, installations et activités soumis à permis en vertu d'une autre législation en vigueur;
+
+\- aux actes, travaux, installations et activités directement liés ou nécessaires à la mise en oeuvre du régime de gestion active du site pour autant qu'ils ne compromettent pas la réalisation [<sup>3</sup> des objectifs de conservation du site]<sup>3</sup>.]<sup>2</sup>
+
+[<sup>3</sup> § 7. Le présent article s'applique sans préjudice de l'article 29, § 2.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 10, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2008-05-22/39, art. 4, 006; En vigueur : 27-06-2008&gt;
+
+(3)&lt;DRW 2010-12-22/30, art. 10, 012; En vigueur : 13-01-2011&gt;
+
+(4)&lt;DRW 2026-02-26/13, art. 28, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 28bis
+
+[<sup>1</sup> Au titre de régime de protection primaire, les dispositions de l'article 28, §§ 1er, 2, 4, 5, 6 et 7, et l'article 29, § 2, sont applicables aux sites candidats au réseau Natura 2000, sauf dans les parcelles bâties qui sont localisées en tout ou en partie dans leur périmètre.
+
+Le Gouvernement peut modifier le champ d'application et le contenu des interdictions générales et des mesures préventives générales visées à l'alinéa 1er dans le cadre du régime de protection primaire s'il s'avère impossible ou exagérément difficile de les appliquer sans modification aux sites visés à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-12-22/30, art. 11, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. 29
+
+[<sup>1</sup> § 1er. En cas d'incompatibilité entre les prescriptions à valeur réglementaire de l'arrêté de désignation d'un site Natura 2000 et les prescriptions à valeur réglementaire d'un ou plusieurs plans en vigueur au moment de la publication de l'arrêté de désignation, le Gouvernement organise une concertation entre les services concernés de l'administration régionale.
+
+Le cas échéant, les modalités de la concertation sont réglées par le Gouvernement.
+
+La proposition de mesures, adoptée à l'issue de la concertation et destinée à garantir l'intégrité du site, est transmise à la commission de conservation concernée pour avis. Si ladite commission estime que les mesures proposées ne suffisent pas pour garantir l'intégrite du site, le ou les plans concernés sont soumis à la procédure prévue au paragraphe 2.
+
+Le ou les plans concernés sont également soumis à la procédure prévue au paragraphe 2 si la commission de conservation concernée ne se prononce pas dans les deux mois de la notification de la proposition de mesures ou si aucune proposition de mesures n'est parvenue à ladite commission dans les six mois du début de la concertation.
+
+§ 2. Tout plan ou projet soumis à permis, qui, au regard [<sup>2</sup> des prescriptions à valeur réglementaire de l'arrêté de désignation et des objectifs de conservation du site,]<sup>2</sup> est non directement lie ou nécessaire à la gestion du site mais est susceptible d'affecter ce site de manière significative, individuellement ou en conjugaison avec d'autres plans et projets, est soumis à l'évaluation des incidences prévue par la législation organisant l'évaluation des incidences sur l'environnement dans la Région wallonne, eu égard aux objectifs de conservation du site et selon les modalités fixées par le Gouvernement.
+
+Le Gouvernement détermine les modalités d'application du présent paragraphe.
+
+L'autorité compétente ne marque son accord sur le plan ou le projet qu'après s'être assurée qu'il ne porte pas atteinte à l'intégrité du site concerné.
+
+Si, en dépit de conclusions négatives de l'évaluation des incidences et en absence de solutions alternatives, le plan ou le projet doit néanmoins être autorisé pour des raisons impératives d'intérêt public majeur, y compris de nature sociale ou économique, l'autorite compétente prend toute mesure compensatoire nécessaire pour assurer que la cohérence globale du réseau Natura 2000 est protégée et informe la Commission [<sup>3</sup> européenne]<sup>3</sup> des mesures compensatoires adoptées.
+
+Lorsque le site concerné abrite un type d'habitat naturel prioritaire et/ou une espèce prioritaire, seules peuvent être invoquées des considérations liées à la sante de l'homme et à la sécurité publique ou à des conséquences bénéfiques primordiales pour l'environnement ou, après avis de la Commission [<sup>3</sup> européenne]<sup>3</sup>, à d'autres raisons impératives d'intérêt public majeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 10, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 12, 012; En vigueur : 13-01-2011&gt;
+
+(3)&lt;DRW 2026-02-26/13, art. 29, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 30
+
+[<sup>1</sup> § 1er. Il y a autant de commissions de conservation que de directions des services extérieurs de la Division de la nature et des forêts de la Direction générale des ressources naturelles et de l'environnement du Ministère de la Région.
+
+Chaque site Natura 2000 relève d'une commission.
+
+§ 2. Sans préjudice des attributions d'autres organes en matière de conservation de la nature en Région wallonne, les commissions de conservation ont pour mission de surveiller l'état de conservation des sites Natura 2000, afin d'assurer leur maintien ou leur rétablissement, dans un état de conservation favorable, en tenant particulièrement compte des types d'habitats naturels prioritaires et des espèces prioritaires et en prenant en considération les exigences économiques, sociales et culturelles ainsi que les particularités locales.
+
+Les commissions s'acquittent de leur mission selon les modalités fixées par les articles 25, §§ 3, 4 et 5, 26, §§ 1er et 4, 27, § 4, et 29, §§ 1er et 2.
+
+Les commissions sont en outre compétentes pour émettre un avis sur toute question relative a la conservation des sites Natura 2000, à la demande du Gouvernement ou de leur propre initiative.
+
+Les avis requis par ou en vertu de la présente section sont rendus dans les deux mois de la notification de la demande. Si la commission consultée ne notifie pas son avis au Gouvernement dans ce délai, et sauf dans le cas prévu à l'article 29, § 1er, alinéa 4, le Gouvernement statue eu égard aux objectifs de la présente section.
+
+Chaque commission adresse un rapport annuel de ses activités au Gouvernement.
+
+§ 3. Outre le président désigné par le Gouvernement, chaque commission de conservation est composée comme suit :
+
+1° [<sup>2</sup> quatre agents de l'administration régionale, dont un appartenant au service compétent pour la conservation de la nature, un appartenant au service compétent pour l'aménagement du territoire, un appartenant au service compétent pour l'agriculture et un appartenant au service compétent pour l'eau;]<sup>2</sup>
+
+2° un membre proposé par le [<sup>4</sup> pôle "Ruralité", section "Nature"]<sup>4</sup>;
+
+3° un membre proposé par [<sup>5</sup> l'Union des Villes et Communes de Wallonie]<sup>5</sup>;
+
+4° deux représentants proposés par des associations ayant pour objet social la conservation de la nature;
+
+5° deux représentants proposés par les associations représentatives des propriétaires et occupants du ou des sites concernés;
+
+6° deux représentants proposés par les associations professionnelles ayant pour objet social la défense d'activités agricoles, cynégétiques, piscicoles ou de sylviculture exercées dans le ou les sites concernés.
+
+Le président ainsi que les membres visés aux points 4° à 6° sont nommés par le Gouvernement pour une période de quatre ans, suite à une procédure qu'il arrête. Leur mandat est renouvelable.
+
+[<sup>3</sup> A titre exceptionnel, le Gouvernement peut prolonger la durée de la nomination des membres visés à l'alinéa 2 d'une période maximale d'un an.]<sup>3</sup>
+
+Il y a pour chaque membre effectif un membre suppléant. L'alinéa précédent est applicable aux membres suppléants.
+
+[<sup>2</sup> Les membres de l'administration n'ont pas voix délibérative.]<sup>2</sup>
+
+§ 4. Le Gouvernement arrête le règlement d'ordre intérieur des commissions de conservation. Ce règlement contient notamment des dispositions concernant :
+
+1° les modalités de convocation;
+
+2° les modalités de délibération;
+
+3° la périodicité des réunions.]<sup>1</sup>
+
+[<sup>3</sup> § 5. Le Gouvernement arrête les conditions de remboursement des frais de parcours et de séjour des membres des Commissions de conservation des sites Natura 2000.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 10, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2008-05-22/39, art. 5, 006; En vigueur : 27-06-2008&gt;
+
+(3)&lt;DRW 2014-03-27/08, art. 1, 017; En vigueur : 20-04-2014&gt;
+
+(4)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+(5)&lt;DRW 2017-02-16/37, art. 67, 025; En vigueur : 04-07-2017&gt;
+
+##### Art. 31
+
+[<sup>1</sup> Le Gouvernement favorise la mise en oeuvre du régime de gestion active [<sup>2</sup> et peut favoriser l'adoption de toute mesure susceptible de contribuer à la cohérence du réseau Natura 2000]<sup>2</sup> par :
+
+1° l'octroi, [<sup>2</sup> ...]<sup>2</sup> au bénéfice des personnes physiques et morales qu'il désigne, de subventions pour assurer l'exécution d'un contrat de gestion active [<sup>2</sup> ou de toute autre forme de convention ou d'engagement]<sup>2</sup>, lorsqu'un tel contrat [<sup>2</sup> une telle convention ou un tel engagement]<sup>2</sup> est conclu, ainsi que pour assurer la mise en oeuvre des mesures visées à l'article 25, § 3, alinéa 3;
+
+2° la majoration des taux de son intervention dans les dépenses couvertes par les subsides qu'il octroie en vertu de l'article 37, lorsque les territoires concernés sont situés dans un site Natura 2000 ou dans un périmètre d'incitation.
+
+Les subventions visées par la présente disposition ne peuvent être cumulées avec d'autres subventions ayant pour objet de favoriser le régime de gestion active des sites Natura 2000, en vertu, notamment, des législations ou réglementations relatives aux forêts ou à l'agriculture [<sup>2</sup> si elles ont pour effet de rétribuer, au total, plus d'une fois un même engagement de la part de son bénéficiaire. Le Gouvernement peut fixer des règles de cumul plus strictes]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> Le Gouvernement peut octroyer, au bénéfice des personnes physiques et morales qu'il désigne, des indemnités pour compenser tout ou partie des pertes de revenus induites par la mise en oeuvre du régime préventif [<sup>3</sup> et du régime de protection primaire visé à l'article 28bis]<sup>3</sup>.
+
+Dans les limites budgétaires, le Gouvernement peut fixer le montant et les conditions d'octroi des subventions et indemnités visées aux alinéas précédents, les modalités de paiement, les modalités de contrôle et de sanction en cas de non-respect des conditions d'octroi ainsi qu'une procédure de recours des bénéficiaires contre les décisions d'octroi et/ou de refus.]<sup>2</sup>
+
+[<sup>4</sup> Le Gouvernement peut prévoir que le paiement des indemnités prévues aux alinéas 1er et 3, est réalisé par l'organisme payeur visé à l'article D.3, 25°, du Code wallon de l'Agriculture, selon les modalités prévues par ce Code.]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 10, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2009-04-30/12, art. 3, 010; En vigueur : 29-05-2009&gt;
+
+(3)&lt;DRW 2010-12-22/30, art. 13, 012; En vigueur : 13-01-2011&gt;
+
+(4)&lt;DRW 2018-07-17/04, art. 184, 026; En vigueur : 18-10-2018&gt;
+
+### Section 4. - &lt;Insérée par DRW 2001-06-28/38, art. 1; En vigueur : 15-07-2001&gt; De la connaissance du patrimoine naturel.
+
+##### Art. 31bis
+
+&lt;Inséré par DRW 2001-06-28/38, art. 1; En vigueur : 15-07-2001&gt;
+
+§ 1. Pour des raisons de conservation de la nature, [<sup>1</sup> le Gouvernement]<sup>1</sup> peut, aux conditions qu'il détermine, allouer des subventions aux personnes de droit privé en vue de favoriser la connaissance des fonctions économique, sociale et éducative, protectrice, écologique et scientifique du patrimoine naturel.
+
+[<sup>1</sup> § 2. Le Gouvernement peut établir un programme quinquennal de recherche sur la biodiversité et la gestion durable du patrimoine naturel qui détermine notamment les thématiques prioritaires de recherche, les critères d'évaluation des projets, les modalités de suivi, ainsi que les modalités de financement des recherches scientifiques pertinentes pour la réalisation des objectifs de la présente loi.
+
+Le programme visé à l'alinéa 1er a valeur indicative. Il est publié sur le portail de la biodiversité en Région wallonne. Il reste en vigueur tant qu'il n'est pas remplacé ou révisé.
+
+En vue de réaliser le programme visé au paragraphe 1er, le Gouvernement peut conclure des conventions annuelles ou pluriannuelles de recherche avec une ou plusieurs universités ou organismes de recherche, le cas échéant en partenariat avec des acteurs publics et privés de la problématique étudiée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 30, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 31bis/1_REGION_WALLONNE
+
+[<sup>1</sup> Dans le cadre de la procédure d'octroi de permis, la planification, la construction et l'exploitation d'installations d'énergie renouvelable visée à l'article 2, 1°, du décret du 29 avril 2024 relatif à l'accélération du déploiement des énergies renouvelables, le raccordement de ces installations au réseau, le réseau connexe proprement dit et les actifs de stockage sont présumés relever de l'intérêt public majeur et de l'intérêt de la santé et de la sécurité publiques lors de la mise en balance des intérêts juridiques dans les cas individuels aux fins des articles 5, § 2, 1°, § 3, 3°, et 29, § 2, alinéa 4.
+
+Dans des circonstances spécifiques dûment justifiées, le Gouvernement peut restreindre l'application du présent article à certaines parties du territoire, à certains types de technologie ou à des projets présentant certaines caractéristiques techniques conformément aux priorités définies dans le Plan Air Climat Energie visé dans le décret du 16 novembre 2023 Neutralité Carbone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré parDRW 2024-04-29/22, art. 22, 033; En vigueur : 01-07-2024&gt;
+
+##### Art. 31bis/2_REGION_WALLONNE
+
+[<sup>1</sup> . Lorsque de nouvelles mesures d'atténuation visant à prévenir autant que possible la mise à mort ou la perturbation d'espèces protégées en vertu des articles 2, 2bis, 3 et 29, ou toute autre incidence sur l'environnement, n'ont pas été largement testées en ce qui concerne leur efficacité, l'autorité compétente peut autoriser son utilisation pour un ou plusieurs projets pilotes pour une période limitée, à condition que l'efficacité de ces mesures d'atténuation soit étroitement contrôlée et que des mesures appropriées soient prises immédiatement si elles s'avèrent inefficaces. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-29/22, art. 23, 033; En vigueur : 01-07-2024&gt;
+
+##### Art. 31bis/3_REGION_WALLONNE
+
+[<sup>1</sup> Lorsqu'un projet d'énergie renouvelable visée à l'article 2, 1°, du décret du 29 avril 2024 relatif à l'accélération du déploiement des énergies renouvelables comporte les mesures d'atténuation nécessaires, toute mise à mort ou perturbation visée aux articles 2 et 2bis n'est pas considérée comme intentionnelle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-29/22, art. 24, 033; En vigueur : 01-07-2024&gt;
+
+##### Art. 31bis/4_REGION_WALLONNE
+
+[<sup>1</sup> Sans préjudice de l'article D.65/2, § 4, du Livre Ier du Code de l'Environnement, par dérogation à l'article 29, § 2, tout projet soumis à permis pour une installation d'énergie renouvelable visée à l'article 2, 1°, du décret du 29 avril 2024 relatif à l'accélération du déploiement des énergies renouvelables, les nouvelles demandes pour des installations d'énergie renouvelable visée à l'article 2, 1°, du décret du 29 avril 2024 relatif à l'accélération du déploiement des énergies renouvelables, y compris les installations qui combinent différents types de technologie en matière d'énergie renouvelable visée à l'article 2, 1°, du décret du 29 avril 2024 relatif à l'accélération du déploiement des énergies renouvelables et le rééquipement de centrales électriques utilisant des sources d'énergie renouvelable visée à l'article 2, 1°, du décret du 29 avril 2024 relatif à l'accélération du déploiement des énergies renouvelables, situé dans une zone d'accélération d'énergies renouvelables désignée en vertu du décret du 29 avril 2024 relatif à l'accélération du déploiement des énergies renouvelables ne fait pas l'objet d'une évaluation des incidences sur les sites Natura 2000, pour autant que le projet respecte les règles établies en application de l'article 4, § 2, b), du décret du 29 avril 2024 relatif à l'accélération du déploiement des énergies renouvelables ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-29/22, art. 25, 033; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE IV. [<sup>1</sup> - Du pôle " Ruralité ", section " Nature "]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 31, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 32
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 32, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 33
+
+(NOTE : Cet article cesse d'être applicable aux parcs naturels créés en vertu de DRW 1985-07-16/36, art. 23, § 2)
+
+§ 1. [<sup>1</sup> Le [<sup>2</sup> pôle "Ruralité", section "Nature"]<sup>2</sup> a pour mission de donner son avis sur toute question que lui soumet le Gouvernement concernant la conservation de la nature et notamment, la protection de la flore et de la faune, la création, la conservation et la gestion des réserves naturelles domaniales, des réserves forestières et des sites Natura 2000, l'octroi et le retrait de l'agrément des réserves et des sites Natura 2000, la création et la gestion des parcs naturels.]<sup>1</sup>
+
+[<sup>2</sup> Le Pôle "Ruralité", section "Nature" émet]<sup>2</sup> un avis au Ministre [<sup>3</sup> ...]<sup>3</sup> relatif aux matières définies à l'alinéa 1er sur les propositions qui lui sont soumises par cinq de ses membres au moins.
+
+Le Ministre [<sup>3</sup> ...]<sup>3</sup> est tenu de demander l'avis du [<sup>2</sup> Pôle "Ruralité", section "Nature"]<sup>2</sup> sur les mesures envisagées aux articles 2, 3, 4, 5, 6, alinéa 2, 11, 12, 13, 14, 18, 21, 22, 23, 24, 36, 37, 38, 39 et 41 lorsque ces mesures sont d'intérêt commun ou concernent la région bruxelloise. [<sup>3</sup> Ne sont pas concernées les notifications prévues par l'article 3, § 4, l'article 41, § 6, et l'article 42, alinéa 2, ainsi que les demandes de modification de dérogation prévues à l'article 5, § 1erbis, alinéa 1er, 2°.]<sup>3</sup>
+
+[<sup>1</sup> Le Gouvernement est tenu de demander l'avis du [<sup>2</sup> pôle "Ruralité", section "Nature"]<sup>2</sup> sur les mesures envisagées aux articles [<sup>3</sup> 3ter,]<sup>3</sup> 5, § 1er, 5ter, § 2, 6, alinéa 2, 11, alinéa 2, 12, 13, 14, 18, 21, 22, 23, 24, [<sup>3</sup> 31bis, § 2,]<sup>3</sup> 36, 37, 38, 39 et 41, § 1er.]<sup>1</sup>
+
+[<sup>3</sup> Outre la consultation prévue à l'alinéa 4, le Gouvernement demande l'avis des sections " Forêt et Filière Bois ", " Chasse " et " Pêche " et " Agriculture " du pôle " Ruralité " sur le projet de programme quinquennal visé à l'article 31bis, § 2.]<sup>3</sup>
+
+Lorsqu'une mesure de protection vise toutefois un animal gibier ou un prédateur du gibier, l'avis du [<sup>2</sup> Pôle "Ruralité", section "Chasse"]<sup>2</sup> doit en outre être demandé par le Ministre de l'Agriculture.
+
+Pour les mesures prévues aux articles 21, 22, 23, 24, 27, 28 et 36 l'avis du [<sup>2</sup> Pôle "Ruralité", section "Forêt et Filière bois"]<sup>2</sup> doit être demandé par le Ministre de l'Agriculture.
+
+Pour les mesures prévues aux articles 27 et 28, l'avis du [<sup>2</sup> Pôle "Ruralité", section "Agriculture, Agroalimentaire et Alimentation"]<sup>2</sup> doit être demandé par le Ministre de l'Agriculture.
+
+Les projets de création de réserves ou de parcs naturels doivent être soumis au Conseil économique régional compétent. Si l'avis de ce Conseil n'est pas communiqué dans les 60 jours de la demande du Ministre de l'Agriculture, il est réputé favorable.
+
+[<sup>3</sup> § 2. Par dérogation au paragraphe 1er, alinéas 3 et 4, pour les demandes de dérogations aux mesures de protection des espèces animales et végétales, le Gouvernement peut prévoir, pour les espèces dont l'état de conservation est favorable, que l'avis du pôle " Ruralité ", section " Nature " porte collectivement sur plusieurs demandes.
+
+§ 3. Par dérogation au paragraphe 1er, alinéas 3 et 4, et au paragraphe 2, la consultation du pôle " Ruralité ", section " Nature ", est facultative si l'octroi de la dérogation repose sur des recommandations établies par le pôle " Ruralité ", section " Nature ", dans le cas de demandes de dérogations aux mesures de protection des espèces animales et végétales qui portent sur l'un des éléments suivants :
+
+1° une espèce ou un groupe d'espèces dont l'état de conservation est favorable ;
+
+2° des actes et méthodes qui n'ont pas d'effet significatif sur l'état de conservation de l'espèce ou du groupe d'espèces concerné.
+
+Le Gouvernement établit un suivi annuel des dérogations délivrées conformément à l'alinéa 1er ainsi qu'un suivi périodique de l'état de conservation des espèces concernées. Si le Gouvernement entend s'écarter des recommandations visées à l'alinéa 1er, il consulte le pôle " Ruralité ", section " Nature ".]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 11, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+(3)&lt;DRW 2026-02-26/13, art. 33, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 34
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 34, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 35
+
+Le Conseil supérieur de la conservation de la nature sera aidé dans sa mission par un Institut de la conservation de la nature qui sera créé par le Roi, par arrêté délibéré en conseil des Ministres.
+
+Cet Institut aura pour mission de promouvoir l'étude et la recherche dans les matières qui concernent la conservation de la nature et la protection de l'environnement.
+
+## CHAPITRE V. \_ Protection des forêts et de l'espace rural.
+
+##### Art. 36
+
+Pour des raisons de conservation de la nature et sur avis motivé du [<sup>2</sup> pôle "Ruralité", section "Nature"]<sup>2</sup>, le Roi peut prendre des mesures, assorties de subventions, aux conditions qu'il fixe, en vue de favoriser dans les forêts publiques et privées :
+
+\- la restauration des peuplements dégradés;
+
+\- le maintien des bois feuillus;
+
+\- la réintroduction de feuillus dans les bois de conifères;
+
+\- l'ouverture des forêts au public.
+
+[<sup>1</sup> - l'adoption de toute autre mesure favorable à la biodiversité en forêt.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-05-22/39, art. 6, 006; En vigueur : 27-06-2008&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+##### Art. 37
+
+Pour des raisons de conservation de la nature et sur avis motivé du [<sup>2</sup> pôle "Ruralité", section "Nature"]<sup>2</sup>, le Roi peut prendre des mesures, assorties de subventions, aux conditions qu'Il fixe, en vue de favoriser dans l'espace rural notamment :
+
+\- le boisement ou le reboisement des terres marginales ou abandonnées par l'agriculture;
+
+\- la maintien ou la restauration des vallées herbeuses dans les massifs forestiers ou les campagnes;
+
+\- la protection des bois ou autres végétations dans les sites rocheux, les escarpements, les talus et les versants;
+
+\- la protection des végétations riveraines et des zones tourbeuses;
+
+\- la conservation et la gestion des réserves naturelles agréées;
+
+\- la protection des berges des cours d'eau alimentés par une source rhéocrène, de la source jusqu'au point d'origine du cours d'eau;
+
+\- le maintien et la plantation de haies et de boqueteaux;
+
+\- la conservation et la gestion des réserves forestières établies en dehors du domaine de l'Etat.
+
+[<sup>1</sup> - l'adoption de toute autre mesure favorable à la biodiversité en milieu rural.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-05-22/39, art. 7, 006; En vigueur : 27-06-2008&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+##### Art. 38
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup> peut interdire ou réglementer l'emploi de substances toxiques ou d'autres produits dangereux pour la vie sauvage ou pour l'intégrité biologique du sol et de l'eau.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 35, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 39
+
+&lt;abrogé par DRW 1985-10-07/32, art. 70; En vigueur : 20-01-1986&gt;)
+
+## CHAPITRE VI. \_ Mesures générales.
+
+##### Art. 40
+
+Il est interdit de planter ou de replanter des résineux ou de laisser se développer leurs semis à moins de six mètres des berges de tout cours d'eau.
+
+Les arbres plantés ou qu'on a laissé se développer en infraction à l'alinéa 1er du présent article doivent être enlevés dans le délai d'un an de la constatation par procès-verbal de leur présence.
+
+On entend par cours d'eau les cours d'eau non navigables tels qu'ils sont définis par la loi du 28 décembre 1967 et les voies d'eau navigables qui sont classées comme telles par le Gouvernement.
+
+##### Art. 41
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Le Gouvernement peut délivrer des dérogations aux mesures de protection des réserves naturelles et forestières visées aux sections 1re et 2 du chapitre III octroyées aux conditions prévues par le présent article. Il arrête les conditions et les modalités d'octroi des dérogations.]<sup>2</sup>
+
+Sauf décision contraire du Gouvernement, la dérogation accordée est individuelle, personnelle et incessible.
+
+Pour une réserve naturelle ou forestière désignée en tout ou en partie comme site Natura 2000, seules les dérogations autorisées par ou en vertu de la section 3 du chapitre III s'appliquent, pour la partie désignée comme site Natura 2000.
+
+§ 2. La dérogation ne peut être accordée qu'à condition qu'il n'existe pas d'autre solution satisfaisante et que la dérogation ne nuise pas au maintien dans un état de conservation favorable des milieux concernés et pour un des motifs suivants :
+
+1° dans l'intérêt de la santé et de la sécurité publiques;
+
+2° dans l'intérêt de la protection de la faune et de la flore sauvages et de la conservation des habitats naturels;
+
+3° à des fins de recherche et d'éducation;
+
+4° pour des raisons d'utilité régionale ou locale ou pour d'autres raisons d'intérêt public.
+
+§ 3. La demande de dérogation est introduite auprès du service de l'administration [<sup>2</sup> ...]<sup>2</sup> désigné par le Gouvernement et indique, notamment :
+
+1° l'identité du demandeur;
+
+2° la réserve ou partie de réserve pour laquelle la dérogation est demandée ainsi que la superficie concernée par la demande;
+
+3° les motifs de la demande de dérogation et l'action visée par la demande;
+
+4° la période pour laquelle la dérogation est sollicitée;
+
+5° les moyens, installations ou méthodes employés pour la mise en oeuvre de la dérogation.
+
+§ 4. L'autorisation de dérogation indique, notamment :
+
+1° le destinataire de l'autorisation;
+
+2° la réserve ou partie de réserve pour laquelle la dérogation est autorisée;
+
+3° les actions autorisées;
+
+4° la durée de validité de l'autorisation.]<sup>1</sup>
+
+[<sup>2</sup> § 5. Un recours administratif est ouvert au demandeur à l'encontre de la décision prise en vertu du présent article.
+
+Le Gouvernement détermine les délais, les conditions et les modalités d'introduction et de traitement de ce recours ainsi que l'autorité appelée à statuer sur ce recours.
+
+§ 6. Lorsqu'une opération réalisée en réserve naturelle doit faire l'objet d'une notification en vertu des articles 2septies et 3, § 4, la procédure prévue à ces articles est d'application. La notification mentionne les réserves naturelles concernées par les opérations.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2001-12-06/56, art. 12, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2026-02-26/13, art. 36, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 42
+
+[<sup>1</sup> Lorsqu'un même acte implique l'octroi de plusieurs dérogations ou autorisations prévues en vertu de la présente loi, le Gouvernement peut prévoir le contenu des demandes uniques ainsi que les conditions et les modalités d'octroi d'une dérogation unique, y compris sur recours, pour autant que les conditions matérielles et procédurales applicables à chacune des dérogations soient respectées.
+
+Lorsqu'une même opération est soumise à plusieurs notifications en vertu de la présente loi ou de ses arrêtés d'exécution, le Gouvernement peut prévoir les modalités et le contenu d'une notification unique, pour autant que les conditions matérielles et procédurales applicables à chacune des notifications soient respectées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 37, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 43
+
+Chaque fois qu'à l'intérieur d'une réserve naturelle ou forestière à créer ou existante se trouve une nappe aquifère exploitée ou susceptible d'être exploitée pour l'approvisionnement public en eau potable, la réserve n'est érigée ou les mesures de protection ne sont prises qu'après consultation du Ministre de la Santé publique.
+
+## CHAPITRE VII.
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 38, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 44
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 38, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 44bis
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 38, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 45
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 38, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 45bis
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 38, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 46
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 38, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 47
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 38, 034; En vigueur : 02-04-2026&gt;
+
+## CHAPITRE VIII.
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 39, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 48
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 40, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 49
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 41, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 50
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 39, 034; En vigueur : 02-04-2026&gt;
+
+## CHAPITRE IX. [<sup>1</sup> Dispositions complémentaires]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 42, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 51
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 43, 034; En vigueur : 02-04-2026&gt;
+
+### Section 1. [<sup>1</sup> - Pôle "Ruralité", section "Nature"]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+##### Art. 52
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 44, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 53
+
+&lt;Abrogé par DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+##### Art. 54
+
+&lt;DRW 1984-04-11/32, art. 1&gt;
+
+Pour l'examen de problèmes propres à chacune des réserves naturelles domaniales ou à un groupe de ces réserves, le [<sup>1</sup> pôle "Ruralité", section "Nature"]<sup>1</sup> peut se faire assister par la Commission consultative compétente et lui demander de lui faire rapport sur toute question qu'il lui soumet.
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+##### Art. 55
+
+&lt;DRW 1984-04-11/32, art. 1&gt;
+
+[<sup>1</sup> Le Gouvernement]<sup>1</sup> peut créer un Institut wallon pour la Conservation de la nature, ayant pour mission de développer l'étude et la recherche dans les matières qui concernent la conservation de la nature y compris leurs incidences sur l'environnement. Cet institut jouira de la personnalité juridique.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 45, 034; En vigueur : 02-04-2026&gt;
+
+### Section II. \_ Dispositions particulières. &lt;DRW 1984-04-11/32, art. 1&gt;
+
+##### Art. 56
+
+&lt;DRW 1984-04-11/32, art. 1&gt;
+
+§ 1er. Il est interdit de planter ou de replanter des résineux, ou de laisser se développer leurs semis à moins de six mètres des berges de tout cours d'eau, en ce compris les sources.
+
+Les berges des voies artificielles d'écoulement qui ne sont pas classées comme cours d'eau navigables ou non navigables, ne sont pas concernées par le présent paragraphe.
+
+§ 2. Il est interdit de maintenir des résineux à moins de six mètres des berges des cours d'eau classés.
+
+Les berges de voies artificielles d'écoulement qui ne sont pas classées comme cours d'eau navigables ou non navigables, ne sont pas concernées par le présent paragraphe.
+
+La présente disposition n'est pas applicable aux plantations effectuées avant le 22 septembre 1968.
+
+§ 3. Il est interdit de planter ou de laisser se développer les semis des résineux autres que l'if (taxus baccata) et le genévrier (juniperus communis), [<sup>2</sup> dans les zones mentionnées par les projets de plans de secteur ou par les plans de secteur comme zones naturelles ou dans les réserves naturelles]<sup>2</sup>.
+
+Toutefois, [<sup>2</sup> le Gouvernement]<sup>2</sup> peut, après avis du [<sup>1</sup> pôle "Ruralité", section "Nature"]<sup>1</sup>, définir des zones où temporairement, le présent paragraphe ne sera pas d'application.
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+(2)&lt;DRW 2026-02-26/13, art. 46, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 57
+
+&lt;DRW 1984-04-11/32, art. 1&gt;
+
+Les arbres plantés ou qu'on a laissé se développer en infraction à l'article 56 doivent être enlevés dans le délai d'un an de la constatation de leur présence par procès-verbal.
+
+##### Art. 58
+
+&lt;DRW 1984-04-11/32, art. 1&gt;
+
+Il est interdit de creuser des nouveaux fossés de drainage dans [<sup>1</sup> les zones mentionnées par les projets de plans et plans de secteur comme zones naturelles ou dans les réserves naturelles]<sup>1</sup>.
+
+Toutefois, [<sup>1</sup> le Gouvernement]<sup>1</sup> peut établir de règles dérogeant au premier alinéa, dans les cas qu'il définit; il doit établir la procédure d'octroi de dérogations par l'autorité qu'il détermine.
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 47, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 58bis
+
+[<sup>1</sup> l est interdit de faire circuler un véhicule qui n'est pas destiné à la navigation ou d'en organiser la circulation :
+
+1° sur les berges, les digues et dans le lit mineur des cours d'eau;
+
+2° dans les passages à gué lorsqu'il s'agit d'un véhicule destiné à l'exploitation forestière, à des travaux hydrauliques, de restauration hydromorphologique ou de construction ou à des activités sportives ou de loisirs motorisés ou à toutes autres activités listées par le Gouvernement compte tenu des impacts potentiellement significatifs que celles-ci peuvent avoir sur la qualité biologique ou hydromorphologique des cours d'eau.
+
+Le Gouvernement peut déroger à l'interdiction prévue à l'alinéa 1er, aux conditions et selon la procédure qu'il fixe.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-10-04/13, art. 3, 028; En vigueur : 15-12-2018&gt;
+
+##### Art. 58ter
+
+[<sup>1</sup> Le Gouvernement peut interdire, soumettre à conditions ou à notification la navigation de plaisance ainsi que la circulation, la traversée et l'accès du public et des animaux de monte, de charge ou de trait aux cours d'eau. Il peut notamment les limiter à certaines périodes de l'année ou les subordonner à l'existence d'une hauteur d'eau minimum dans les cours d'eau ou parties de cours d'eau qu'il désigne.
+
+Le Gouvernement peut prévoir des dérogations au régime prévu à l'alinéa 1er. Il fixe la procédure et les modalités d'octroi des dérogations ainsi que la procédure et les modalités des notifications.
+
+Le Gouvernement peut désigner, avec l'accord des propriétaires des lieux, les endroits auxquels ont lieu l'embarquement, le débarquement et l'accostage des embarcations de plaisance, ainsi que le départ et l'arrivée des plongeurs. Il fixe la procédure de désignation de ces endroits. Il peut également fixer le régime applicable aux conditions d'aménagement et d'utilisation de ces lieux.
+
+L'on entend par plongeur, toute personne équipée d'un quelconque matériel de plongée et qui se trouve en dehors d'un lieu de baignade.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-24/09, art. 81, 031; En vigueur : 31-12-2021&gt;
+
+##### Art. 58quater
+
+&lt;Inséré par DRW 1994-04-21/41, art. 3; En vigueur : 07-06-1994&gt;
+
+Les articles 58bis et 58ter ne s'appliquent pas aux cours d'eau navigables sauf à l'Amblève, à l'Eau d'Heure, à la Lesse, à l'Ourthe, à la Semois et à la Haine.
+
+##### Art. 58quinquies
+
+&lt;Inséré par DRW 1995-04-06/84, art. 1; En vigueur : 20-06-1995&gt;
+
+Les conseils communaux peuvent [<sup>2</sup> ...]<sup>2</sup> prendre pour tout ou partie du territoire communal des règlements ou ordonnances plus stricts que les dispositions supérieures relatives à la protection des espèces végétales ou animales non gibiers.
+
+[<sup>4</sup> Les règlements et ordonnances pris en exécution de l'alinéa 1er sont soumis à la tenue d'une enquête publique, en application du Livre 1er, Partie III, Titre III, du Code de l'Environnement, lorsque leur champ d'application se limite à un ou plusieurs périmètres déterminés du territoire communal.
+
+Dans l'hypothèse visée à l'alinéa 2, l'administration communale notifie par écrit et individuellement au propriétaire du terrain ou des terrains repris dans ces périmètres un avis relatif à la tenue de l'enquête publique.
+
+La notification est adressée aux propriétaires sur la base de la matrice cadastrale disponible au moment du début de l'enquête.
+
+Le propriétaire est chargé de communiquer l'information aux occupants.
+
+En cas de copropriété, la notification est faite séparément à chaque copropriétaire.]<sup>4</sup>
+
+[<sup>4</sup> La commune transmet au Ministre les règlements et les ordonnances ainsi que les résultats de l'enquête publique.]<sup>4</sup>. Celui-ci dispose d'un délai de nonante jours pour statuer, sur avis du [<sup>1</sup> pôle "Ruralité", section "Nature"]<sup>1</sup>. A défaut de décision, les règlements ou ordonnances sont réputés approuvés.
+
+Ces règlements ou ordonnances sont publiés conformément à la loi communale avant d'entrer en vigueur. [<sup>3</sup> Les infractions à ces règlements et ces ordonnances sont recherchées, constatées et sanctionnées conformément à la Partie VIII de la partie décrétale du Livre Ier du Code de l'Environnement.]<sup>3</sup>.
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 50, 025; En vigueur : 04-07-2017&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 186, 026; En vigueur : 18-10-2018&gt;
+
+(3)&lt;DRW 2021-11-24/09, art. 82, 031; En vigueur : 31-12-2021&gt;
+
+(4)&lt;DRW 2026-02-26/13, art. 48, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 58sexies
+
+[<sup>1</sup> § 1er. Une indemnisation peut être octroyée aux conditions prévues par le présent article pour les dommages causés à des cultures, récoltes, animaux, bois ou forêts, digues et berges d'étangs de pisciculture, par certaines espèces animales protégées.
+
+Sauf exception prévue par le Gouvernement à l'égard de certaines espèces qui présentent un état de conservation défavorable, l'indemnisation est destinée aux personnes physiques ou morales qui exercent en Région wallonne l'activité d'exploitant agricole, horticole ou forestier ou de pisciculteur.
+
+L'indemnisation couvre les dommages matériels, directs et certains.
+
+Par dérogation à l'alinéa 3, le Gouvernement peut définir certains dommages indirects dont l'indemnisation peut être demandée.
+
+§ 2. Sans préjudice de l'indemnisation prévue au paragraphe 1er, une subvention pour la mise en place d'aménagements destinés à prévenir les dommages causés à des cultures, récoltes, animaux, bois ou forêts, digues et berges d'étangs de pisciculture, par certaines espèces protégées peut être octroyée aux conditions prévues par le présent article.
+
+Sauf exception prévue par le Gouvernement à l'égard de certaines espèces qui présentent un état de conservation défavorable, la subvention est destinée aux personnes physiques ou morales qui exercent en Région wallonne l'activité d'exploitant agricole, horticole ou forestier ou de pisciculteur.
+
+§ 3. Les indemnisations et les subventions sont octroyées sur la base d'une expertise destinée à déterminer le dommage et son imputabilité, évaluer le montant de l'indemnisation et, le cas échéant, les moyens de prévention appropriés.
+
+§ 4. Les indemnisations et les subventions sont octroyées dans la limite des crédits budgétaires disponibles.
+
+A cet effet, un montant est inscrit annuellement au budget général des dépenses de la Région wallonne.
+
+§ 5. Pour l'application du présent article, le Gouvernement :
+
+1° désigne parmi les espèces protégées visées aux articles 2 à 2ter, les espèces qui peuvent être concernées par une demande d'indemnisation ou de subvention ;
+
+2° détermine les conditions d'admissibilité des personnes visées au paragraphe 1er, alinéa 2, et au paragraphe 2, alinéa 2 ;
+
+3° précise, en fonction des espèces visées au 1°, les dommages qui peuvent faire l'objet d'une indemnisation et les moyens de prévention qui peuvent bénéficier d'une subvention ;
+
+4° précise le montant, le seuil ou le taux de l'indemnisation ou de la subvention et les conditions de recevabilité et d'octroi ;
+
+5° précise les conditions de l'expertise à mettre en place pour évaluer l'indemnisation et pour évaluer les moyens de prévention appropriés dans le cadre d'une subvention ;
+
+6° limite par demandeur et par type d'espèce protégée le montant minimal et maximal de l'indemnisation et de la subvention ;
+
+7° précise les modalités d'introduction et de traitement des demandes d'indemnisation et de subvention ;
+
+8° précise les modalités de contrôle du respect des conditions de la subvention ;
+
+9° organise un recours administratif auprès du Ministre contre les décisions prises dans le cadre des demandes d'indemnisation et de subvention.
+
+§ 6. Aucune indemnisation ou subvention n'est accordée :
+
+1° lorsque le demandeur a été définitivement condamné dans les cinq ans qui précédent la demande pour une infraction à la présente loi ou à ses arrêtés d'exécution ainsi qu'aux règles applicables en Région wallonne en matière de chasse, de pêche ou de forêts ;
+
+2° pour la partie du dommage couverte par une assurance ;
+
+3° lorsque tout ou partie du dommage est dû au fait personnel du demandeur ;
+
+4° lorsque le bien concerné est érigé ou maintenu en situation infractionnelle ;
+
+5° lorsque la victime du dommage sollicite également la réparation sur la base des articles du Livre 6 du Code civil, ou de tout autre fondement susceptible de conduire à une indemnisation judiciaire, à charge de la Région wallonne.
+
+Le Gouvernement fixe les modalités de récupération de l'indemnisation ou de la subvention accordée lorsque le demandeur sollicite une réparation fondée sur base des dispositions du Livre 6 du Code civil postérieurement à l'octroi de l'indemnisation ou de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 49, 034; En vigueur : 02-04-2026&gt;
+
+### Section IIbis. [<sup>1</sup> Le Fonds de protection de la Biodiversité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 188, 026; En vigueur : 01-01-2019; même modification par DRW 2018-07-17/06, art. 1, 027; En vigueur : 01-01-2018&gt;
+
+##### Art. 58septies
+
+[<sup>1</sup> En application de l'article 4, § 1er, alinéa 2, du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes, il est institué, au sein du budget des recettes et du budget général des dépenses de la Région, un " Fonds de protection de la Biodiversité " ci-après dénommé le " Fonds ".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 189, 026; En vigueur : 01-01-2019; même modification par DRW 2018-07-17/06, art. 41, 027; En vigueur : 01-01-2018&gt;
+
+##### Art. 58octies
+
+[<sup>1</sup> Le Fonds a pour objet de :
+
+1° percevoir les recettes de compensations financières accordées en complément, ou en substitut, de compensations naturelles sur le terrain résultant de projets ayant un ou des impacts négatifs sur la biodiversité;
+
+2° soutenir financièrement une compensation en matière de biodiversité sur les milieux ou espèces affectés par un projet impliquant lesdites compensations;
+
+3° soutenir financièrement un projet d'amélioration ou de restauration d'habitats et de milieux propices à biodiversité dans un milieu donné, sur le territoire de la Région wallonne. ";
+
+4° financer les projets de recherche relatifs aux 1°, 2° et 3° ci-avant.
+
+Les compensations financières en matière de biodiversité visées au à l'alinéa 1er, 1°, sont définies par le Gouvernement en tenant compte :
+
+1° de l'impact sur la faune, la flore et leurs habitats;
+
+2° des espèces et des habitats concernés;
+
+3° de la zone biogéographique concernée;
+
+4° le cas échéant, des mesures compensatoires prises en vertu de l'article 29, § 5;
+
+5° de tous critères définis par le Gouvernement.
+
+Les moyens du fonds sont affectés au financement ou préfinancement des dépenses relatives à la mise en place de mesures destinées à compenser les impacts négatifs sur la biodiversité des projets et en tenant compte des espèces et habitats impactés négativement pas lesdits projets ou tout autre projet que le Gouvernement détermine comme impactant la biodiversité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 190, 026; En vigueur : 01-01-2019&gt;
+
+##### Art. 58nonies
+
+[<sup>1</sup> Un Conseil du Fonds, ci-après dénommé dans la présente section " le Conseil " dont le fonctionnement est fixé par le Gouvernement, remet des avis sur les modalités de gestion du fonds.
+
+Le Gouvernement détermine les points sur lesquels portent les avis et ceux à qui ils sont remis.
+
+Un rapport annuel, reprenant l'inventaire des sources de financement, l'affectation et les modalités de réalisation, est transmis au Gouvernement et au Parlement.
+
+Le Gouvernement détermine les informations de l'administration que le Conseil peut obtenir dans le but de poursuivre sa mission, ainsi que les modalités de transmission de celles-ci.
+
+Le Gouvernement peut déterminer les modalités de publication des avis et du rapport du Conseil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 191, 026; En vigueur : 01-01-2019; même modification par DRW 2018-07-17/06, art. 41, 027; En vigueur : 01-01-2018&gt;
+
+##### Art. 58decies
+
+[<sup>1</sup> Le Conseil se compose :
+
+1° d'un ou plusieurs membres de l'Administration d'un rang supérieur ou égal au rang A3 et compétent dans la matière de la conservation de la nature;
+
+2° d'un ou plusieurs agents membres du service de l'Administration qui gère la conservation de la nature;
+
+3° d'un représentant de l'Inspection des finances de la Région wallonne;
+
+4° d'un ou plusieurs représentants du pôle " ruralité ", Section Nature ".
+
+Le Conseil est présidé par une personne appartenant à la catégorie visée à l'alinéa 1er, 1°.
+
+Après concertation avec le pôle " ruralité ", le Gouvernement désigne les membres visés à l'alinéa 1er, 4°, ainsi que, pour chacun, un suppléant qui peut le remplacer en son absence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 192, 026; En vigueur : 01-01-2019&gt;
+
+##### Art. 58undecies
+
+[<sup>1</sup> La durée du mandat de ces membres et de leur suppléant est de quatre ans.
+
+Les mandats sont renouvelables. En cas de vacance avant l'expiration d'un mandat, un nouveau membre ou suppléant est désigné pour terminer le mandat de son prédécesseur.
+
+Le Conseil émet valablement un avis lorsque la moitié des membres au moins est présente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 193, 026; En vigueur : 01-01-2019; même modification par DRW 2018-07-17/06, art. 41, 027; En vigueur : 01-01-2018&gt;
+
+##### Art. 58duodecies
+
+[<sup>1</sup> Sont attribués au fonds les compensations environnementales par équivalent résultant de projet impactant la biodiversité payées par un demandeur pour assurer un niveau analogue au maintien de la biodiversité. Les compensations en nature d'une part et les compensations environnementales par équivalent visées à l'alinéa 1er d'autre part sont définies par le Gouvernement.
+
+Les moyens du fonds sont affectés au financement ou préfinancement des dépenses relatives à la politique en matière de protection, d'amélioration et de restauration de la Nature.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 194, 026; En vigueur : 01-01-2019; même modification par DRW 2018-07-17/06, art. 41, 027; En vigueur : 01-01-2018&gt;
+
+##### Art. 58terdecies
+
+[<sup>1</sup> Les dépenses peuvent porter sur des indemnités, des subventions ou des prestations, en ce compris les coûts de personnel, de fonctionnement, d'investissement et autres frais liés à des actions ou missions décidées dans le cadre du fonds et exécutées par du personnel spécifique ou des tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 195, 026; En vigueur : 01-01-2019; même modification par DRW 2018-07-17/06, art. 41, 027; En vigueur : 01-01-2018&gt;
+
+### Section III. \_ Dispositions pénales et judiciaires. &lt;DRW 1984-04-11/32, art. 1&gt;
+
+##### Art. 59
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 007; En vigueur : 06-02-2009&gt;
+
+##### Art. 60
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 007; En vigueur : 06-02-2009&gt;
+
+##### Art. 61
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 007; En vigueur : 06-02-2009&gt;
+
+##### Art. 62
+
+&lt;Abrogé par DRW 2008-06-05/36, art. 16, 007; En vigueur : 06-02-2009&gt;
+
+##### Art. 63
+
+[<sup>1</sup> Commet une infraction de troisième catégorie au sens de la Partie VIII de la partie décrétale du Livre Ier du Code de l'Environnement celui qui viole les dispositions des articles de la présente loi ou de ses arrêtés d'exécution.
+
+Commet une infraction de deuxième catégorie au sens de la Partie VIII de la partie décrétale du Livre Ier du Code de l'Environnement celui qui :
+
+1° reste en défaut de payer la mesure compensatoire prise en exécution de l'article 58duodecies ;
+
+2° commet une infraction visée à l'alinéa 1er lorsqu'un des éléments suivants est rencontré :
+
+\- l'infraction a été commise à l'encontre d'une espèce protégée alors que la présence de ladite espèce avait préalablement été notifiée à l'auteur de l'infraction et que le comportement infractionnel est contraire aux recommandations reprises dans la notification ;
+
+\- l'infraction a été commise dans un but de lucre à l'encontre d'une espèce protégée ;
+
+\- l'infraction a été commise en bande ou en réunion.
+
+Commet une infraction de quatrième catégorie celui qui contrevient à un règlement ou à une ordonnance pris en exécution de l'article 58quinquies.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-24/09, art. 83, 031; En vigueur : 01-07-2022&gt;
+
+### Section IV. [<sup>1</sup> Autres dispositions complémentaires]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-02-26/13, art. 50, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 64
+
+&lt;Abrogé par DRW 2026-02-26/13, art. 51, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. 65
+
+&lt;DRW 1984-04-11/32, art. 1&gt;
+
+1° Aux articles 9 et 21, les mots "sur la proposition du Ministre de l'Agriculture" sont supprimes.
+
+2° Aux articles 15, 16 et 17, les mots "l'ingénieur des Eaux et Forêts" sont remplacés par "l'agent de l'administration régionale".
+
+3° A l'article 43, les mots "du Ministre de la Santé publique" sont remplacées par les mots "du service de l'administration régionale désigné à cette fin par l'Exécutif."
+
+##### Art. 66
+
+&lt;DRW 1984-04-11/32, art. 1&gt;
+
+1° Aux articles 9, 10, 21, 22 et 37, il y a lieu d'entendre par "Etat", la Région Wallonne.
+
+2° En ce qui concerne les réserves naturelles et forestières domaniales de l'Etat qui n'ont pas encore été transférées à la Région en application de la loi spéciale du 8 août 1980 de réformes institutionnelles, le régime prévu par la présente loi pour les réserves domaniales appartenant à la Région est également applicable à ces réserves avant leur transfert a la Région.
+
+##### Art. 67
+
+[<sup>1</sup> Le Gouvernement est habilité à modifier les annexes Ire, IIa, IV, V, VIa, VII, VIII, IX et XI pour les adapter aux modifications apportées aux annexes correspondantes des Directives 2009/147/CEE et 92/43/CEE et de la Convention de Berne.
+
+Le Gouvernement est habilité à modifier les annexes IIb, III, IV, VIb et VII lorsque l'évolution de l'état de conservation des espèces présentes en Région wallonne le justifie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. 68
+
+[<sup>1</sup> Le Gouvernement peut procéder à la coordination ou à la codification à droit constant et à la mise en concordance des dispositions de la présente loi et de ses arrêtés d'exécution, y compris :
+
+1° la renumérotation des articles de nature législative et réglementaire ;
+
+2° l'établissement d'une nouvelle structure du texte, le cas échéant qui intègre une partie décrétale et une partie réglementaire ;
+
+3° l'actualisation formelle des termes et dénominations utilisés dans la loi ;
+
+4° la suppression des dispositions législatives qui n'ont plus d'objet du fait de l'évolution de la répartition des compétences ;
+
+5° à l'adaptation des références faites aux articles de la présente loi ou de ses arrêtés d'exécution dans d'autres réglementations de compétence régionale ;
+
+6° l'adoption d'un nouvel intitulé pour le texte résultant de la coordination.
+
+La coordination ou la codification entrera en vigueur à la date de sa confirmation par le décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-02-26/13, art. 52, 034; En vigueur : 02-04-2026&gt;
+
+### ANNEXES.
+
+##### Art. N1
+
+[<sup>1</sup> Annexe I. La présente annexe reprend une liste d'oiseaux européens protégés en vertu de l'annexe I de la directive [<sup>2</sup> 2009/147/CE]<sup>2</sup>.
+
+Le Gouvernement est habilité à modifier l'annexe suite à l'adaptation au progrès technique et scientifique prévue à l'article 15 de la directive [<sup>2</sup> 2009/147/CE]<sup>2</sup>]<sup>1</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. N2
+
+[<sup>1</sup> Annexe II. La présente annexe reprend les espèces de mammifères, amphibiens, reptiles, poissons et invertébrés :
+
+a. strictement protégées et figurant à l'annexe IV, a., de la directive 92/43/C.E.E. et/ou à l'annexe II de la Convention de Berne. Les espèces wallonnes y sont indiquées par un astérisque (\*);
+
+b. menacées en Région wallonne.]<sup>1</sup>
+
+[<sup>2</sup> alinéa supprimé]<sup>2</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+(NOTE : Annexes modifiées par :
+
+\- DRW 2014-03-27/08, art. 2, 017; En vigueur : 20-04-2014
+
+\- DRW 2014-03-27/08, art. 3, 017; En vigueur : 20-04-2014)
+
+##### Art. N3
+
+[<sup>1</sup> Annexe III. La présente annexe reprend les espèces wallonnes de mammifères, amphibiens, reptiles, poissons et invertébrés partiellement protégées.]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. N4
+
+[<sup>1</sup> Annexe IV. La présente annexe reprend les espèces de mammifères, amphibiens, reptiles, poissons et invertébrés dont le prélèvement peut être limité. Il s'agit soit d'espèces reprises en annexe V de la directive 92/43/C.E.E. et/ou en annexe III de la Convention de Berne, soit d'espèces dont le statut en Région wallonne justifie d'éventuelles limitations de prélèvements.]<sup>1</sup>
+
+[<sup>2</sup> alinéa supprimé]<sup>2</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. N5
+
+[<sup>1</sup> Annexe V. La présente annexe reprend les moyens de capture et de mise à mort interdits figurant a l'annexe VI de la directive 92/43/C.E.E. :
+
+1\. moyens de capture et de mise à mort non sélectifs;
+
+2\. moyens de transport.
+
+Le Gouvernement est habilité à modifier l'annexe suite à l'adaptation au progrès technique et scientifique prévue à l'article 19 de la directive 92/43/C.E.E.]<sup>1</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. N5bis
+
+[<sup>1</sup> - Moyens, installations ou méthodes de capture, de mise à mort, ou de poursuites dont l'usage est interdit
+
+La présente annexe reprend les moyens, installations ou méthodes de capture, de mise à mort, ou de poursuites figurant à l'annexe IV de la directive 2009/147/CE dont l'usage est interdit :
+
+1° les moyens dont l'utilisation est interdite pour la capture et la mise à mort des oiseaux :
+
+a) collets, gluaux, hameçons, oiseaux vivants utilisés comme appelants aveuglés ou mutilés, enregistreurs, appareils électrocutants ;
+
+b) sources lumineuses artificielles, miroirs, dispositifs pour éclairer les cibles, dispositifs de visée comportant un convertisseur d'image ou un amplificateur d'image électronique pour tir de nuit ;
+
+c) explosifs ;
+
+d) filets, pièges-trappes, appâts empoisonnés ou tranquillisants ;
+
+e) armes semi-automatiques ou automatiques dont le chargeur peut contenir plus de deux cartouches ;
+
+2° les véhicules dont l'utilisation est interdite pour la poursuite des oiseaux :
+
+a) avions et aéronefs télépilotés ;
+
+b) véhicules automobiles ;
+
+c) bateaux propulsés à une vitesse supérieure à 5 kilomètres par heure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-02-26/13, art. 53, 034; En vigueur : 02-04-2026&gt;
+
+##### Art. N6
+
+[<sup>1</sup> Annexe VI. La présente annexe reprend les espèces végétales : a. strictement protégées et figurant à l'annexe IV, b., de la directive 92/43/C.E.E. et/ou à l'annexe I de la Convention de Berne. Les espèces wallonnes y sont indiquées par un astérisque (\*);
+
+b. menacées en Région wallonne.
+
+Le Gouvernement est habilité à modifier le point a. de l'annexe suite à l'adaptation au progrès technique et scientifique prévue à l'article 19 de la directive 92/43/C.E.E. et le point b. de l'annexe suite à l'évolution de l'état de conservation des espèces wallonnes.]<sup>1</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(NOTE : Annexes modifiées par :
+
+\- DRW 2014-03-27/08, art. 4, 017; En vigueur : 20-04-2014)
+
+##### Art. N7
+
+[<sup>1</sup> Annexe VII. La présente annexe reprend les espèces végétales wallonnes partiellement protégées(interdiction de commerce et de destruction intentionnelle) ainsi que les espèces végétales qui doivent faire l'objet de limitations de prélèvement en vertu de l'annexe V de la directive 92/43/C.E.E. et/ou de l'annexe III de la Convention de Berne.]<sup>1</sup>
+
+[<sup>2</sup> alinéa supprimé]<sup>2</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+##### Art. N8
+
+[<sup>1</sup> Annexe VIII. La présente annexe reprend les habitats naturels visés à l'annexe I de la directive92/43/C.E.E. Les habitats naturels prioritaires sont indiqués par un astérisque (\*).]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+(NOTE : Annexe modifiée par :
+
+\- DRW 2014-03-27/08, art. 5, 017; En vigueur : 20-04-2014)
+
+##### Art. N9
+
+[<sup>1</sup> Annexe IX. La présente annexe reprend les espèces visées à l'annexe II de la directive 92/43/C.E.E. Les espèces prioritaires sont indiquées par un astérisque (\*).]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+(NOTE : annexe modifiée par :
+
+\- DRW 2014-03-27/08, art. 6, 017; En vigueur : 20-04-2014)
+
+##### Art. N10
+
+[<sup>1</sup> Annexe X. La presente annexe reprend les critères de sélection (étape 1) visés à l'annexe III de la directive 92/43/C.E.E. et concernant les sites susceptibles d'être identifiés comme sites d'importance communautaire et désignés comme zones spéciales de conservation.]<sup>1</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+##### Art. N11
+
+[<sup>1</sup> La présente annexe reprend les espèces visées à l'annexe I de la directive [<sup>2</sup> 2009/147/CE]<sup>2</sup> que l'on rencontre sur le territoire de la Région wallonne, ainsi que les espèces migratrices dont la venue est régulière en Région wallonne.]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+(Annexes non reprises pour motifs techniques. Voir M.B. 22-01-2002, p. 2030-2070.)
+
+----------
+
+(1)&lt;Inséré par DRW 2001-12-06/56, art. 15, 002; En vigueur : 22-01-2002&gt;
+
+(2)&lt;DRW 2010-12-22/30, art. 15, 012; En vigueur : 13-01-2011&gt;
+
+(NOTE : annexe modifiée par :
+
+\- DRW 2014-03-27/08, art. 7, 017; En vigueur : 20-04-2014)
