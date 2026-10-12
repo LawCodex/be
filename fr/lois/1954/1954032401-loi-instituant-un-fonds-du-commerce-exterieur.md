@@ -1,0 +1,51 @@
+---
+title: "Loi instituant un fonds du commerce extérieur."
+identifier: "1954032401"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1954/03/24/1954032401/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1954-03-24
+published: 1954-03-25
+entry_into_force: 1954-03-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1954/03/24/1954032401/justel"
+retrieved: 2026-10-12
+---
+
+# 24 MARS 1954. - Loi instituant un fonds du commerce extérieur.
+
+## Art. 1
+
+(Il est crée à l'Office belge du Commerce extérieur un fonds dénomme "Fonds du Commerce extérieur", destiné à aider des institutions publiques, des groupements professionnels ou des entreprises privées belges dans leurs efforts d'expansion commerciale à l'étranger) &lt;ARN117 23-12-1982, art. 1, MB 29 décembre 1982&gt; .
+
+## Art. 2
+
+(Il est créé une Commission du Fonds du Commerce extérieur.
+
+La Commission est composée d'un président, d'un rapporteur, de représentants des services publics et de représentants du secteur privé. Le Ministre qui a le Commerce extérieur dans ses attributions nomme les membres effectifs de la Commission. Il nomme en outre les suppléants du président, du rapporteur et des représentants des services publics.
+
+L'Office belge du Commerce extérieur est chargé de toutes les activités nécessaires au fonctionnement du Fonds, ainsi que de sa comptabilité) &lt;ARN117 23-12-1982, art. 1, MB 29 décembre 1982&gt; .
+
+(L'Office belge du Commerce extérieur peut confier le recouvrement des créances du Fonds du commerce extérieur à l'Administration de la Taxe sur la valeur ajoutée, de l'Enregistrement et des Domaines. Celle-ci agit par voie de contrainte conformément à l'article 3 de la loi domaniale du 22 décembre 1949.) &lt;ARN527 31-03-1987, MB 16 avril 1987&gt;
+
+## Art. 3
+
+Le Roi détermine les conditions et les modalités de l'octroi de subsides, de prêts ou de garanties à titre onéreux ou gratuit.
+
+(Le Ministre qui a le Commerce extérieur dans ses attributions se prononce sur les demandes, chaque demande est préalablement soumise à l'examen de la Commission instituée à l'article 2, qui émet un avis motivé). &lt;ARN117 23-12-1982, art. 3, MB 29 décembre 1982&gt;
+
+## Art. 4
+
+Le Fonds du Commerce extérieur aura pour ressources une première dotation fixée à 50.000.000 de francs, des redevances ou intérêts qui pourraient être exiges des personnes physiques ou morales en rémunération des prestations qui leur auraient été fournies en exécution de l'article premier, ainsi que des dons et subsides.
+
+## Art. 5
+
+Par dérogation aux règles régissant la comptabilité de l'Etat, les recettes et les dépenses du Fonds sont portées au budget pour Ordre.
+
+Un règlement spécial, relatif à la gestion du Fonds, est établi par le Roi. Ce règlement peut déroger aux lois et arrêtés régissant la comptabilité de l'Etat en ce qui concerne l'engagement, la liquidation, le paiement et la justification des dépenses.
+
+## Art. 6
+
+La présente loi entre en vigueur le four de sa publication au Moniteur belge.
