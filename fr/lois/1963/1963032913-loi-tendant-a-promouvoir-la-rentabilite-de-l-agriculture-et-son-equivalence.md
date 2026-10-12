@@ -1,0 +1,61 @@
+---
+title: "Loi tendant à promouvoir la rentabilité de l'agriculture et son équivalence avec les autres secteurs de l'économie. (NOTE 1 : Abrogé pour l'Autorité flamande par DCFL 2007-07-06/37 , art. 13, 003; En vigueur : 12-10-2008>"
+identifier: "1963032913"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1963/03/29/1963032913/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1963-03-29
+published: 1963-04-09
+entry_into_force: 1963-04-19
+last_amended: 2007-07-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1963/03/29/1963032913/justel"
+justel_note: "Consultation des versions antérieures à partir du 17-09-1999 et mise à jour au 20-07-2007"
+retrieved: 2026-10-12
+---
+
+# 29 MARS 1963. - Loi tendant à promouvoir la rentabilité de l'agriculture et son équivalence avec les autres secteurs de l'économie. (NOTE 1 : Abrogé pour l'Autorité flamande par DCFL 2007-07-06/37 , art. 13, 003; En vigueur : 12-10-2008&gt;
+
+## Art. 1
+
+&lt;L 1999-05-25/73, art. 2, 002; En vigueur : 27-09-1999&gt; En vue de rechercher l'amélioration de la situation économique et sociale de l'agriculture et de promouvoir sa rentabilité en lui donnant une position équivalente à celle des autres secteurs de l'économie nationale, le ministre qui a l'agriculture dans ses attributions rédige chaque année, avant le 1er octobre, un rapport sur l'évolution de l'économie agricole et horticole.
+
+## Art. 2
+
+&lt;L 1999-05-25/73, art. 3, 002; En vigueur : 27-09-1999&gt; Ce rapport fera apparaître la situation globale de l'agriculture et de l'horticulture par rapport au revenu national et aux autres secteurs de l'activité économique de la dernière année civile.
+
+Il contiendra notamment :
+
+a) toutes les indications utiles sur l'évolution des prix des moyens de production et des prix des denrées agricoles aux stades de production et de consommation;
+
+b) une étude relative à l'évolution de la rentabilité par types d'exploitation et éventuellement par régions agricoles concernées par chaque type;
+
+c) une situation de la structure générale des exploitations et des terres exploitées;
+
+d) un inventaire général des capitaux investis dans l'agriculture et l'horticulture et dans les différents types d'exploitation avec tous les éléments permettant d'évaluer les résultats financiers de celles-ci;
+
+e) tous. autres éléments ou renseignements utiles à la recherche du but poursuivi par la loi.
+
+Il sera complété par les analyses disponibles de la situation des filières des secteurs agricoles importants.
+
+## Art. 3
+
+&lt;L 1999-05-25/73, art. 4, 002; En vigueur : 27-09-1999&gt; Le rapport, complété des analyses des filières, ainsi que l'avis du Conseil fédéral de l'Agriculture sont déposés à la Chambre des représentants.
+
+Le ministre qui a l'agriculture dans ses attributions énumère dans le rapport ou dans la Note de Politique générale du ministère des Classes moyennes et de l'Agriculture pour l'année budgétaire suivante les mesures et les moyens matériels et financiers à prévoir pour contribuer dans la limite de sa compétence à la rentabilité économique et à la promotion sociale de l'agriculture et de l'horticulture afin de réaliser la parité avec les autres secteurs de l'économie.
+
+## Art. 4
+
+Sans préjudice des dispositions qui précèdent, le Ministre de l'Agriculture soumettra aux Chambres législatives dans un délai de six mois, à dater de l'entrée en vigueur de la présente loi, un plan d'investissement tendant notamment:
+
+1° à l'amélioration de l'infrastructure de l'agriculture et de l'horticulture;
+
+2° à l'amélioration de la gestion individuelle des exploitations;
+
+3° à la promotion de la production de produits de qualité.
+
+Pour la réalisation de ces objectifs, des crédits d'engagement ainsi que des crédits de paiement correspondants seront inscrits annuellement à partir de l'exercice 1964 au budget du Ministre de l'Agriculture.
+
+Le Ministre de l'Agriculture consignera dans le rapport, prévu à l'article 1er, les données permettant de suivre l'exécution technique et financière du plan d'investissement.
