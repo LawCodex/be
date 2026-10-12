@@ -1,0 +1,101 @@
+---
+title: "Loi organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants. (Cette loi cesse d'être applicable aux dépenses , réglées par la loi du 1er mars 1977. (CN:1977-03-01/02))."
+identifier: "1971080201"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1971/08/02/1971080201/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1971-08-02
+published: 1971-08-20
+entry_into_force: 1971-08-30
+last_amended: 2025-07-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1971/08/02/1971080201/justel"
+justel_note: "Consultation des versions antérieures à partir du 18-01-1983 et mise à jour au 29-07-2025"
+retrieved: 2026-10-12
+---
+
+# 2 AOUT 1971. - Loi organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants. (Cette loi cesse d'être applicable aux dépenses , réglées par la loi du 1er mars 1977. (CN:1977-03-01/02)).
+
+## Art. 1
+
+Les dispositions de la présente loi sont applicables:
+
+1\. Aux traitements, salaires, pensions, allocations et subventions à charge du trésor public, aux prestations sociales de la sécurité sociale, aux prestations relevant du statut social des travailleurs indépendants et aux autres prestations sociales dont la liste est arrêtée par le Roi, dans la mesure où ces dépenses sont liées, en vertu d'une disposition légale ou réglementaire, aux fluctuations de l'indice général des prix de détail du Royaume ou de l'indice général des prix à la consommation;
+
+2\. Aux limites des rémunérations à prendre en considération pour le calcul des cotisations de sécurité sociale des travailleurs, des ouvriers mineurs et assimilés, et des marins de la marine marchande;
+
+3\. A la liste Civile et à la dotation de S.A.R. le Prince Albert, liées à l'indice des prix de détail par la loi du 26 janvier 1965.
+
+## Art. 1bis
+
+&lt;Inséré par AR 1993-12-24/34, art. 18; En vigueur : 10-01-1994&gt; A partir du 1er janvier 1994, les prestations sociales de la sécurité sociale, les prestations relevant du statut social des travailleurs indépendants et les autres prestations sociales visées à l'article 1er sont liées à l'indice des prix calculé et nommé à cet effet.
+
+Les prestations ne pourront, à partir du 1er janvier 1994, être adaptées pour la première fois que lorsque l'indice visé à l'alinéa précédent, atteint ou dépasse, selon le cas, l'indice des prix à la consommation qui était en vigueur avant le 1er janvier 1994 et ce, en application des dispositions légales.
+
+## Art. 2
+
+Pour l'application de la présente loi, il faut entendre par " indices-pivots ", les nombres appartenant à une série dont le premier est 114,20 et dont chacun des suivants est obtenu en multipliant le précédent par 1,02.
+
+Pour le calcul des indices-pivots, les fractions de centième de point sont arrondies au centième supérieur ou négligées, selon qu'elles atteignent ou non 50 p.c. d'un centième.
+
+## Art. 3
+
+§ 1er. Sont rattachées à l'indice-pivot 114,20 les dépenses , prestations et limites des rémunérations visées à l'article 1er, telles qu'elles étaient établies au 1er janvier 1971 sur base de la réglementation qui leur était applicable à cette date.
+
+§ 2. Les dépenses qui se liquident par année sont préalablement majorées de 2,5 p.c. des sommes rattachées à l'indice 110 des prix de détail du Royaume.
+
+## Art. 4
+
+(§ 1er. Pour l'application de la présente loi, est considérée comme indice des prix à la consommation d'un mois déterminé la moyenne arithmétique des indices de ce mois et des trois mois précédents.
+
+Chaque fois que l'indice des prix à la consommation, calculé conformément à l'alinéa 1er, atteint l'un des indices-pivots ou est ramené à l'un d'eux, les dépenses, prestations et limites des rémunérations, rattachées à l'indice-pivot 114,20, sont calculées à nouveau en les affectant du coefficient 1,02n, n représentant le rang de l'indice-pivot atteint.
+
+A cet effet, chacun des indices-pivots est désigné par un numéro de suite indiquant son rang, le n° 1 désignant l'indice-pivot qui suit l'indice 114,20.
+
+Pour le calcul du coefficient 1,02n, les fractions de dix millièmes d'unité sont arrondies aux dix millièmes supérieur ou négligées, selon qu'elles atteignent ou non 50 % d'un dix millième.) &lt;L 2001-01-02/30, art. 24, 003; En vigueur : 03-01-2001&gt;
+
+§ 2. Lorsque les limites visées à l'article 1er, 2°, augmentées ou diminuées une ou plusieurs fois, ne sont pas divisibles par 25, elles sont arrondies suivant les modalités fixées par le Roi.
+
+## Art. 5
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, rattacher l'ensemble des éléments visés à l'article premier, tels qu'ils sont établis à une date déterminée, à l'indice-pivot y applicable à la même date.
+
+A partir de cette date, l'article 4 est appliqué en remplaçant, dans les alinéas 1 et 2 du § 1er, l'indice-pivot 114,20 par l'indice-pivot auquel les éléments visés à l'alinéa premier du présent article sont rattachés à nouveau.
+
+En ce qui concerne les dépenses qui se liquident par année ou par trimestre, le Roi peut au préalable adapter celles-ci dans la mesure nécessaire pour les mettre au niveau correspondant à l'indice-pivot applicable à la date visée à l'alinéa premier.
+
+## Art. 6
+
+&lt;L 2001-01-02/30, art. 25, 003; En vigueur : 03-01-2001&gt; L'augmentation ou la diminution est appliquée :
+
+1° pour les dépenses qui se liquident par année, à partir de l'année civile qui suit le mois dont l'indice des prix à la consommation atteint l'indice-pivot qui justifie une modification;
+
+2° pour les dépenses qui se liquident par trimestre et pour les limites visées à l'article 1er, 2°, à partir du trimestre civil qui suit le mois dont l'indice atteint le chiffre qui justifie une modification;
+
+3° [<sup>1</sup> dans les autres cas, à partir du troisième mois qui suit le mois dont l'indice atteint le chiffre qui justifie une modification.]<sup>1</sup>
+
+(...) &lt;Alinéa 2 abrogé par L 2001-07-19/38, art. 5, 004; En vigueur : 01-05-2001&gt;
+
+[<sup>1</sup> L'alinéa 1er, 3°, qui, en vertu d'une référence à la présente loi, s'applique aux conventions collectives de travail, visées à l'article 5 de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, conclues avant le 1er juillet 2025, reste d'application dans sa version antérieure au 1er juillet 2025 tant que ces conventions collectives de travail n'y dérogent pas explicitement.
+
+L'alinéa 1er, 3°, reste d'application dans sa version antérieure au 1er juillet 2025 pour les secteurs publics fédéraux de la santé tant qu'il n'y est pas explicitement dérogé.
+
+Par "secteurs publics fédéraux de la santé" visés à l'alinéa 3, il faut entendre les établissements publics qui sont soumis à la loi coordonnée du 10 juillet 2008 sur les hôpitaux et autres établissements de soins, à l'exception des hôpitaux catégoriels, des maisons de soins psychiatriques et des initiatives d'habitation protégée. Sont également inclus les services de soins infirmiers à domicile publics et les maisons médicales publiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-07-18/06, art. 85, 005; En vigueur : 01-07-2025&gt;
+
+## Art. 7
+
+§ 1er. Le Roi peut modifier la rédaction des dispositions légales en vue de les mettre en concordance avec les dispositions de la présente loi.
+
+§ 2. Le Roi peut, en respectant les modalités spécifiques desdites dispositions adapter, en fonction de la présente loi, les dispositions concernant les obligations des travailleurs indépendants , imposées par ou en vertu de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, qui renvoient à l'indice des prix de détail ou à l'indice des prix à la consommation.
+
+## Art. 8
+
+§ 1er. L'article 16 de la loi du 27 juin 1969 revisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs est abrogé.
+
+§ 2. La loi du 12 avril 1960 unifiant les divers régimes de liaison à l'index des prix de détail est abrogée.

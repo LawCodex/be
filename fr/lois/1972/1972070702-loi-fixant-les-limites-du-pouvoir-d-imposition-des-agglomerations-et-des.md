@@ -1,0 +1,63 @@
+---
+title: "Loi fixant les limites du pouvoir d'imposition des agglomérations et des fédérations de communes."
+identifier: "1972070702"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1972/07/07/1972070702/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1972-07-07
+published: 1972-07-26
+entry_into_force: 1973-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1972/07/07/1972070702/justel"
+retrieved: 2026-10-12
+---
+
+# 7 JUILLET 1972. - Loi fixant les limites du pouvoir d'imposition des agglomérations et des fédérations de communes.
+
+## Art. 1
+
+L'agglomération et la fédération de communes peuvent établir, à exclusion des communes qui les composent, des taxes se rapportant aux attributions qui leur sont effectivement transférées par application de l'article 4 de la loi du 26 juillet 1971 organisant les agglomérations et les fédérations de communes.
+
+## Art. 2
+
+L'agglomération et la fédération de communes peuvent établir des centimes additionnels aux taxes provinciales suivantes :
+
+1° taxe sur la force motrice;
+
+2° taxe sur le personnel occupé;
+
+3° taxe sur les chiens;
+
+4° taxe sur les débits de boissons fermentées ou spiritueuses;
+
+5° taxe sur les débits de tabac;
+
+6° taxe sur les bateaux, les canots, les cyclomoteurs, les motocyclettes et les bicyclettes.
+
+## Art. 3
+
+&lt;L 19-07-1979, art 47, MB 22-08-1979&gt; (L'agglomération peut établir des centimes additionnels au précompte immobilier, à concurrence de cent cinq centimes au maximum.)
+
+## Art. 4
+
+L'article 48, § 1er, 5°, de la loi du 26 juillet 1971 est abrogé.
+
+## Art. 5
+
+&lt;Dispositions modificatives du code des impôts sur les revenus&gt;
+
+## Art. 6
+
+&lt;Dispositions modificatives du code des taxes assimilées aux impôts sur les revenus&gt;
+
+## Art. 7
+
+&lt;Disposition modificative de la loi du 26 juillet 1971 organisant les agglomérations et fédérations de communes&gt;
+
+## Art. 8
+
+Sans préjudice de leur pouvoir d'établir immédiatement des redevances, les agglomérations et les fédérations de communes ne peuvent établir leurs taxes pour la première fois qu'à partir du 1er janvier qui suit la date de la première installation de leurs conseils.
+
+Les articles 5 et 6 de la présente loi sont toutefois applicables à partir du 1er janvier 1973.
