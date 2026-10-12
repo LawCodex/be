@@ -1,0 +1,51 @@
+---
+title: "Decreet houdende instemming met de regeling tussen de Noord-Atlantische Verdragsorganisatie en het Koninkrijk België betreffende de rechtspositie van tijdelijk personeel dat wordt aangeworven door en tewerkgesteld in een orgaan van de NAVO dat op het grondgebied van het Koninkrijk België gevestigd is, gedaan te Brussel op 7 februari 2022"
+identifier: "2024001098"
+eli: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/18/2024001098/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: nl
+date: 2024-01-18
+published: 2024-02-21
+entry_into_force: 2024-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/18/2024001098/justel"
+department: "Franse Gemeenschap"
+retrieved: 2026-10-12
+---
+
+# 18 JANUARI 2024. - Decreet houdende instemming met de regeling tussen de Noord-Atlantische Verdragsorganisatie en het Koninkrijk België betreffende de rechtspositie van tijdelijk personeel dat wordt aangeworven door en tewerkgesteld in een orgaan van de NAVO dat op het grondgebied van het Koninkrijk België gevestigd is, gedaan te Brussel op 7 februari 2022
+
+Het Parlement van de Franse Gemeenschap heeft aangenomen en Wij, Regering, bekrachtigen hetgeen volgt :
+
+## Art. 1
+
+Enig artikel. De regeling tussen de Noord-Atlantische Verdragsorganisatie en het Koninkrijk België betreffende de rechtspositie van tijdelijk personeel dat wordt aangeworven door en tewerkgesteld in een orgaan van de NAVO dat op het grondgebied van het Koninkrijk België gevestigd is, gedaan te Brussel op 7 februari 2022, zal volkomen gevolg hebben.
+
+---
+
+Kondigen dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Brussel, 18 januari 2024.
+
+De Minister-President, belast met Internationale Betrekkingen, Sport en Onderwijs voor sociale promotie,
+
+P.-Y. JEHOLET
+
+De Vicepresident en Minister van Begroting, Ambtenarenzaken, Gelijke kansen en het toezicht op Wallonie-Bruxelles Enseignement,
+
+F. DAERDEN
+
+De Vicepresidente en Minister van Kind, Gezondheid, Cultuur, Media en Vrouwenrechten,
+
+B. LINARD
+
+De Minister van Hoger Onderwijs, Wetenschappelijk Onderzoek, Universitaire ziekenhuizen, Hulpverlening aan de Jeugd, Justitiehuizen, Jeugd en Promotie van Brussel,
+
+F. BERTIEAUX
+
+De Minister van Onderwijs,
+
+C. DESIR

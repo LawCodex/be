@@ -1,0 +1,245 @@
+---
+title: "Décret portant approbation du compte général de la communauté française pour l'année 2021"
+identifier: "2022034602"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/01/2022034602/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2022-12-01
+published: 2023-01-30
+entry_into_force: 2023-02-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/01/2022034602/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 1 DECEMBRE 2022. - Décret portant approbation du compte général de la communauté française pour l'année 2021
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## TITRE Ier. - COMPTE D'EXECUTION DU BUDGET
+
+### CHAPITRE 1. - Définitions
+
+##### Art. 1er
+
+Pour l'application du présent décret, on entend par :
+
+1° décret du 20 décembre 2011 : le décret du 20 décembre 2011 portant organisation du budget et de la comptabilité des Services du Gouvernement de la Communauté française ;
+
+2° décrets contenant le budget des dépenses 2021 : le décret du 9 décembre 2020 contenant le budget des dépenses de la Communauté française pour l'année Budgétaire 2021 et le décret du 14 juillet 2021 contenant l'ajustement du budget des dépenses de la Communauté française pour l'année budgétaire 2021 ;
+
+3° décrets contenant le budget des recettes 2021 : le décret du 9 décembre 2020 contenant le budget des recettes de la Communauté française pour l'année Budgétaire 2021 et le décret du 14 juillet 2021 contenant l'ajustement du budget des recettes de la Communauté française pour l'année budgétaire 2021.
+
+### CHAPITRE 2. - Engagements effectués en exécution du budget
+
+#### Section 1. - Engagements effectués à charge des crédits d'engagement
+
+##### Art. 2
+
+Les crédits d'engagement alloués par les décrets contenant le budget des dépenses 2021 s'élèvent à 12.167.178.000 euros. Ce montant est complété par un montant de 37.388.185,78 euros qui couvre les dépassements autorisés en application de l'article 7 du décret du 9 décembre 2020 contenant le budget des dépenses de la Communauté française pour l'année 2021.
+
+##### Art. 3
+
+Les engagements de dépenses imputés à charge des crédits visés à l'article 2 du présent décret s'élèvent à 12.052.809.101,37 euros. Ce montant inclut les dépassements autorisés en application de l'article 7 du décret du 9 décembre 2020 contenant le budget des dépenses de la Communauté française pour l'année 2021, qui s'élèvent à 37.388.185,78 euros.
+
+##### Art. 4
+
+Les crédits d'engagement disponibles à la fin de l'année budgétaire s'élèvent à 114.368.898,63 euros. Conformément aux dispositions de l'article 28, § 1er, du décret du 20 décembre 2011, ce montant est annulé.
+
+#### Section 2. - Engagements effectués à charge des moyens en engagement sur les Fonds budgétaires
+
+##### Art. 5
+
+Les moyens en engagement sur les fonds budgétaires estimés par les décrets contenant le budget des dépenses 2021 s'élèvent à 97.110.000,00 euros.
+
+##### Art. 6
+
+Les moyens en engagement disponibles sur les fonds budgétaires pour l'année 2021 s'élèvent à 93.247.584,93 euros, vu :
+
+1° les recettes réellement perçues par les Fonds budgétaires pendant l'année 2021 d'un montant de 70.866.275,28 euros ;
+
+2° le solde reporté en engagement au 1er janvier 2021 d'un montant de 20.590.941,95 euros ;
+
+3° les annulations de visas s'élevant à 1.790.367,70 euros.
+
+##### Art. 7
+
+Les engagements de dépenses à charge des moyens en engagement sur les fonds budgétaires pour l'année budgétaire 2021 s'élèvent à 71.938.152,91 euros.
+
+##### Art. 8
+
+Vu les montants visés aux articles 6 et 7 du présent décret, les moyens en engagement disponibles à la fin de l'année budgétaire 2021 s'élèvent à 21.309.432,02 euros.
+
+Ce solde est reporté à l'année budgétaire suivante.
+
+L'état des dépenses sur les fonds budgétaires de moyens en engagements est synthétisé dans le tableau II annexé.
+
+### CHAPITRE 3. - Recettes et dépenses effectuées en exécution du budget
+
+#### Section 1. - Fixation des recettes
+
+##### Art. 9
+
+Les prévisions de recettes en faveur de la Communauté française inscrites dans les décrets contenant le budget des recettes pour l'année 2021 s'élèvent à 10.623.365.000,00 euros.
+
+##### Art. 10
+
+Les recettes imputées en droits constatés en 2021 s'élèvent à 10.677.323.575,24 euros.
+
+#### Section 2. - Dépenses effectuées à charge des crédits de liquidation
+
+##### Art. 11
+
+Les crédits de liquidation alloués par les décrets contenant le budget des dépenses pour l'année 2021 s'élèvent à 12.062.235.000,00 euros. Ce montant est complété par un montant de 37.170.855,21 euros qui couvre les dépassements autorisés en application de l'article 7 du décret du 9 décembre 2020 contenant le budget des dépenses de la Communauté française pour l'année 2021.
+
+##### Art. 12
+
+Les dépenses imputées à charge des crédits de liquidation visés à l'article 11 s'élèvent à 11.912.362.465,28 euros. Ce montant inclut les dépassements autorisés en application de l'article 7 du décret du 9 décembre 2020 contenant le budget des dépenses de la Communauté française pour l'année 2021, qui s'élèvent à 37.170.855,21 euros.
+
+##### Art. 13
+
+Les crédits de liquidation disponibles à la fin de l'année budgétaire s'élèvent à 187.043.389,93 euros. Conformément aux dispositions de l'article 28, § 1er, du décret du 20 décembre 2011, ce montant est annulé.
+
+#### Section 3. - Solde budgétaire pour l'année 2021
+
+##### Art. 14
+
+Le solde budgétaire pour l'année 2021, établi conformément à l'article 29 § 4 du décret du 20 décembre 2011, s'élève à -1.235.038.890,04 euros.
+
+Ce montant est obtenu en effectuant la différence entre :
+
+1° un montant de 10.677.323.575,24 euros de recettes imputées en 2021 en droits constatés ;
+
+2° un montant de 11.912.362.465,28 euros de dépenses en liquidation.
+
+### CHAPITRE 4. - Recettes et dépenses relatives aux fonds budgétaires
+
+#### Section 1. - Fixation des recettes affectées
+
+##### Art. 15
+
+Les recettes affectées aux Fonds budgétaires estimées par les décrets contenant le budget des recettes 2021 s'élèvent à 101.775.000,00 euros.
+
+##### Art. 16
+
+Les recettes imputées en droits constatés sur les Fonds budgétaires en 2021 s'élèvent 73.522.148,69 euros.
+
+#### Section 2. - Fixation des moyens en liquidation sur les fonds budgétaires
+
+##### Art. 17
+
+Les moyens de liquidation disponibles sur les fonds budgétaires pour l'année 2021 s'élèvent à 117.499.856,05 euros, vu :
+
+1° les recettes réellement perçues par les Fonds budgétaires pendant l'année 2021 d'un montant de 70.947.866,83 euros ;
+
+2° le solde reporté en liquidation au 1er janvier 2021 d'un montant de 46.551.989,22 euros ;
+
+#### Section 3. - Liquidations effectuées à charge des moyens en liquidation des Fonds budgétaires
+
+##### Art. 18
+
+Les liquidations imputées à charge de moyens de liquidation sur les fonds budgétaires en 2021 s'élèvent à 65.013.266,54 euros.
+
+##### Art. 19
+
+Vu les montants visés aux articles 17 et 18 du présent décret, les moyens en liquidation disponibles à la fin de l'année budgétaire 2021 s'élèvent à 52.486.589,51 euros.
+
+Ce solde sera reporté à l'année budgétaire suivante.
+
+L'état des dépenses sur les fonds budgétaires de moyens en liquidation est synthétisé dans le tableau II annexé.
+
+##### Art. 20
+
+Le solde des fonds budgétaires s'élève à 8.508.882,15 euros.
+
+Ce montant est obtenu en effectuant la différence entre :
+
+1° un montant de 73.522.148,69 euros de recettes affectées imputées en droits constatés ;
+
+2° un montant de 65.013.266,54 euros de dépenses en liquidation.
+
+### CHAPITRE 5. - Recettes et dépenses en exécution de la section particulière du budget
+
+##### Art. 21
+
+Les recettes et les dépenses prévues par la section particulière dans les décrets contenant le budget des dépenses et des recettes pour l'année 2021 s'élèvent à :
+
+1° Recettes : 3.684.486.000,00 euros
+
+2° Dépenses : 3.684.486.000,00 euros.
+
+##### Art. 22
+
+Les recettes ont été imputées à concurrence de 3.686.978.095,00 euros.
+
+Les dépenses ont été effectuées à concurrence de 3.686.978.095,00 euros.
+
+Solde de la section particulière : 0 euro.
+
+### CHAPITRE 6. - Résultat global
+
+##### Art. 23
+
+Compte tenu des articles 14, 20 et 22 du présent décret, le résultat global du budget 2021 se présente comme suit :
+
+1° Crédits ordinaires : -1.235.038.890,04 euros
+
+2° Fonds budgétaires : 8.508.882,15 euros
+
+3° Section particulière : 0 euro
+
+4° Total : -1.226.530.007,89 euros.
+
+Le détail des opérations sous-jacentes aux montants renseignés dans le présent article est présenté dans le tableau I annexé.
+
+## TITRE 2. . - COMPTE ANNUEL
+
+##### Art. 24
+
+Le compte annuel est composé d'un bilan, d'un compte de résultat, d'un compte de récapitulation des opérations budgétaires et de la situation des flux de trésorerie, conformément à l'article 42, 1° de décret 20 décembre 2011 portant organisation du budget et de la comptabilité des Services du Gouvernement de la Communauté française.
+
+Le compte général, incluant le compte d'exécution du budget et le compte annuel, est annexé au présent décret ainsi que le Cahier d'observations et la certification établis par la Cour des comptes.
+
+## TITRE 3. . - SERVICES ADMINISTRATIFS A COMPTABILITE AUTONOME
+
+##### Art. 25
+
+Les comptes des Services administratifs à comptabilité autonome jusqu'à l'exercice 2021 sont approuvés.
+
+## ANNEXE.
+
+##### Art. N
+
+(Image non reprise pour des raisons techniques, voir M.B. du 30-01-2023, p. 13941)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 1er décembre 2022.
+
+Le Ministre-Président,
+
+P.-Y. JEHOLET
+
+Le Vice-Président et Ministre du Budget, de la Fonction publique,
+
+de l'Egalité des chances et de la tutelle sur Wallonie-Bruxelles Enseignement,
+
+F. DAERDEN
+
+La Vice-Présidente et Ministre de l'Enfance, de la Santé, de la Culture, des Médias et des Droits des Femmes,
+
+B. LINARD
+
+La Ministre de l'Enseignement supérieur, de l'Enseignement de la Promotion sociale, des Hôpitaux universitaires, de l'Aide à la jeunesse, des Maisons de Justice, de la Jeunesse, des Sports et de la Promotion de Bruxelles,
+
+V. GLATIGNY
+
+La Ministre de l'Education,
+
+C. DESIR
