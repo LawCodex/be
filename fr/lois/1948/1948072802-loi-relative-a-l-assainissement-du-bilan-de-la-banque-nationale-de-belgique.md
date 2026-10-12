@@ -1,0 +1,43 @@
+---
+title: "Loi relative à l'assainissement du bilan de la Banque Nationale de Belgique."
+identifier: "1948072802"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1948/07/28/1948072802/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1948-07-28
+published: 1948-07-29
+entry_into_force: 1948-07-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1948/07/28/1948072802/justel"
+retrieved: 2026-10-12
+---
+
+# 28 JUILLET 1948. - Loi relative à l'assainissement du bilan de la Banque Nationale de Belgique.
+
+## Art. 1
+
+Après l'accord de l'assemblée générale des actionnaires de la Banque Nationale de Belgique sur l'augmentation du capital de la Banque, prévue par la loi, modifiant le statut organique et sur l'abandon à l'Etat des bénéfices de la Banque afférents à la période de guerre, l'Etat sera subrogé à la Banque Nationale dans la créance de celle-ci sur la Banque d'Emission à Bruxelles.
+
+## Art. 2
+
+L'Etat affectera à l'amortissement de la susdite créance le produit de l'emprunt de l'assainissement monétaire émis en vertu de la loi du 14 octobre 1945 relative aux avoirs monétaires bloqués et temporairement indisponibles.
+
+## Art. 3
+
+La dette de l'Etat vis-à-vis de la Banque Nationale, en ce compris le bon du Trésor de 500 millions de francs visé par la convention du 17 octobre 1930, ratifiée par la loi du 27 décembre 1930 et par la Convention du 4 avril 1935, approuvée par l'arrêté royal du 16 avril 1935, et le certificat de trésorerie 3 1/2 p.c. de 550 millions de francs ayant fait l'objet de la convention du 27 juillet 1932, conclue conformément à la loi du 19 juillet 1932, est aménagée comme suit :
+
+a) La somme de fr. 10,493,184,884.77 figurant, en exécution de l'article 8 de l'arrêté-loi du 1er mai 1944, au compte indisponible de réévaluation de l'encaisse-or de la Banque Nationale est affectée à l'amortissement partiel de la créance de celle-ci sur l'Etat;
+
+b) A concurrence de 35 milliards de francs, la dette de l'Etat vis-à-vis de la Banque Nationale est transformée en dette consolidée.
+
+De ce montant, (1 milliard de francs) seront remboursés au moyen de la part annuelle de l'Etat dans les bénéfices de la Banque Nationale; &lt;L 19-06-1959, art. 3&gt;
+
+(Le solde de 34 milliards de francs est converti en certificats de trésorerie ou obligations, librement négociables, portant intérêts aux conditions du marché et remboursables à leur échéance. La durée et le taux d'intérêt de ces certificats et obligations sont déterminés dans une convention à conclure entre le Ministre des Finances et la Banque Nationale de Belgique. Pour compenser les dépenses supplementaires découlant pour l'Etat de cette conversion, la Banque paie à l'Etat annuellement un montant de 986 millions de francs et l'allocation forfaitaire de l'Etat à la Banque pour dédommagement partiel des frais d'entretien de la circulation fiduciaire est supprimé. Pour l'année 1991, cette compensation est calculée prorata temporis.) &lt;L 1991-01-02/52, art. 22, 1°, 002; En vigueur : 29-01-1991&gt;
+
+c) (Abrogé) &lt;L 1991-01-02/52, art. 22, 2°, 002; En vigueur : 29-01-1991&gt;
+
+## Art. 4
+
+L'arrêté-loi du 10 mai 1940 relatif aux avances de la Banque Nationale à l'Etat est abrogé.
