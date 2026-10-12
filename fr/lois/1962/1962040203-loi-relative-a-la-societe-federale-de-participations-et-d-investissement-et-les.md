@@ -1,0 +1,613 @@
+---
+title: "[Loi relative à la Société fédérale de Participations et d'Investissement et les sociétés régionales d'investissement]<Intitulé remplacé par L 2006-08-26/30 , art. 6, 009; En vigueur : 01-11-2006>"
+identifier: "1962040203"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1962/04/02/1962040203/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1962-04-02
+published: 1962-04-18
+entry_into_force: 1962-04-28
+last_amended: 2024-01-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1962/04/02/1962040203/justel"
+justel_note: "Consultation des versions antérieures à partir du 05-01-1989 et mise à jour au 15-01-2024"
+retrieved: 2026-10-12
+---
+
+# 2 AVRIL 1962. - [Loi relative à la Société fédérale de Participations et d'Investissement et les sociétés régionales d'investissement]&lt;Intitulé remplacé par L 2006-08-26/30 , art. 6, 009; En vigueur : 01-11-2006&gt;
+
+## CHAPITRE I. - La (Société fédérale de Participations et d'Investissement ("SFPI")). &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;&gt;
+
+### Section Ière. -Généralités. &lt;inséré par AR 2006-09-28/34, art. 1; En vigueur : 06-10-2006&gt;
+
+#### Art. 1
+
+§ 1. (alinéa abrogé) &lt;AR 1994-07-20/32, art. 5, 006; En vigueur : indéterminée &gt;
+
+Les institutions financières d'intérêt public habilitées par le Roi peuvent prendre des participations dans le capital de la (SFPI), le cas échéant par dérogation à leur organique ou à leurs statuts. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+(L'ensemble des participations de l'Etat et des institutions financières d'intérêt public doit représenter au minimum 75 % du capital. Les titres représentatifs de ces participations ne sont cessibles qu'á l'Etat ou à des institutions financières visées à l'alinéa 2.) &lt;AR450 29-08-1986, art.1&gt;
+
+§ 2. (La (SFPI) est placée sous le contrôle du Ministre des Finances et du Ministre des Affaires économique. Ceux-ci peuvent s'opposer à l'exécution de toute mesure qui serait contraire soit aux lois et arrêtés [<sup>2</sup> , aux statuts ou au contrat de gestion]<sup>2</sup>, soit aux objectifs prioritaires de la politique financière de l'Etat. [<sup>4</sup> Ce contrôle est exercé à l'intervention de deux commissaires du gouvernement]<sup>4</sup>. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+[<sup>4</sup> L'un des commissaires est proposé par le ministre des Finances, l'autre est proposé par le ministre des Affaires économiques. Ils sont nommés par le Roi.]<sup>4</sup>
+
+[<sup>4</sup> Les commissaires du gouvernement ont]<sup>4</sup> le droit de prendre connaissance de toutes les décisions de l'assemblée générale, du conseil d'administration et, le cas échéant, de l'organe chargé de la gestion journalière, de procéder à toutes les vérifications nécessaires et de se faire produire tous les renseignements et documents utiles à cet effet.
+
+[<sup>4</sup> Chaque commissaire du gouvernement assiste, quand il le juge utile, aux réunions du conseil d'administration, l'ordre du jour de ces réunions leur étant préalablement communiqué. Chaque commissaire du gouvernement y a voix consultative.]<sup>4</sup>
+
+[<sup>4</sup> Chaque commissaire du gouvernement suspend et dénonce conjointement au ministre des Finances et au ministre des Affaires économiques toute décision du conseil d'administration qui serait contraire, soit aux lois et arrêtés, aux statuts ou au contrat de gestion, soit aux objectifs prioritaires de la politique financière de l'Etat. A cet effet, chaque commissaire du gouvernement dispose d'un délai de quatre jours francs; ce délai court à partir du jour de la réunion à laquelle la décision a été prise, pour autant que les commissaires du gouvernement y aient été régulièrement convoqués et, dans le cas contraire, à partir du jour où ils en ont reçu connaissance.]<sup>4</sup>
+
+Si le Ministre des Finances et le Ministre des Affaires économiques n'ont pas conjointement statué dans les huit jours de la suspension, la décision peut être exécutée.
+
+Toutefois, si le conseil d'administration a invoqué l'urgence, [<sup>4</sup> chaque commissaire du gouvernement]<sup>4</sup> dispose d'un délai de deux jours francs pour saisir les Ministres des Finances et des Affaires économiques. Le délai prévu à l'alinéa 6 est, en ce cas, réduit à deux jours francs.
+
+La rémunération [<sup>4</sup> des commissaires du gouvernement]<sup>4</sup> est [<sup>4</sup> fixée conjointement par le ministre des Finances et le ministre des Affaires économiques]<sup>4</sup> et payée par l'Etat. Elle est supportée par la société.
+
+[<sup>4</sup> Dans le respect des règles qui régissent les marchés publics, les ministres des Finances et des Affaires économiques, chacun en ce qui concerne le commissaire du gouvernement qu'il a proposé, désignent, en cas de besoin, les experts chargés d'assister les commissaires du gouvernement. La rémunération des experts est payée par l'Etat et supportée par la société.]<sup>4</sup>
+
+§ 3. (La (SFPI) est une société anonyme régie par [<sup>1</sup> le [<sup>3</sup> Code des sociétés et des associations]<sup>3</sup>]<sup>1</sup> dans la mesure où il n'y est pas dérogé par la présente loi ni, en raison de la nature spéciale de la société, par ses statuts.) &lt;AR 1994-07-20/32, art. 5, 006; En vigueur : indéterminée &gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+§ 4. (Les status de la (SFPI) et leurs modifications sont arrêtés par l'assemblée générale. Le projet de délibération de celle-ci est communiqué [<sup>5</sup> aux commissaires du gouvernement visés au § 2]<sup>5</sup>, quinze jours au moins avant la convocation de l'assemblée. Les dispositions statutaires dérogeant [<sup>3</sup> au Code des sociétés et des associations]<sup>3</sup> n'entrent en vigueur qu'après approbation par le Roi. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+L'assemblée générale conforme les statuts à la loi dans le délai que celle-ci détermine. A défaut, ils sont modifiés par arrêté royal délibéré en Conseil des Ministres.) &lt;AR 1994-07-20/32, art. 5, 006; En vigueur : indéterminée &gt;
+
+----------
+
+(1)&lt;L 2013-06-17/06, art. 120, 011; En vigueur : 08-07-2013&gt;
+
+(2)&lt;L 2017-12-05/04, art. 2, 013; En vigueur : 28-12-2017&gt;
+
+(3)&lt;L 2020-04-28/06, art. 218, 015; En vigueur : 06-05-2020&gt;
+
+(4)&lt;L 2021-06-27/09, art. 330, 016; En vigueur : 19-07-2021&gt;
+
+(5)&lt;L 2021-06-27/09, art. 331, 016; En vigueur : 19-07-2021&gt;
+
+#### Art. 2
+
+&lt;L 30-03-1976, art. 2&gt; § 1. (La (Société fédérale de Participations et d'Investissement) a pour objet d'une part de favoriser, dans l'intérêt de l'économie belge, et compte tenu de la politique industrielle de l'Etat, la création, la réorganisation, ou l'extension d'entreprises privées ayant la forme de [<sup>2</sup> sociétés anonymes, de sociétés européennes, de sociétés à responsabilité limitée ou de sociétés coopératives]<sup>2</sup>.) &lt;L 04-08-1978, art. 98&gt; &lt;L 15-07-1985, art. 15&gt; &lt;AR 1994-06-16/31, art. 2, 006; En vigueur : indéterminée &gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+En vue de la réalisation de cet objet, la (Société fédérale de Participations et d'Investissement) peut notamment : &lt;AR 1994-06-16/31, art. 2, 006; En vigueur : indéterminée &gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+1° faire partie d'associations, groupes, syndicats d'études ou de recherches, constitués en vue de la création ou de la réorganisation d'entreprises;
+
+2° apporter une partie du capital [<sup>2</sup> ou des capitaux propres]<sup>2</sup> lors de la constitution d'une société, prendre part à une augmentation de capital [<sup>2</sup> ou des capitaux propres]<sup>2</sup> ou exercer les droits de souscription [<sup>2</sup> préférentielle]<sup>2</sup>;
+
+3° acquérir, d'une autre manière, une participation [<sup>2</sup> ...]<sup>2</sup>;
+
+4° [<sup>2</sup> souscrire ou acquérir des parts bénéficiaires, des certificats se rapportant à des actions, parts bénéficiaires, obligations convertibles ou droits de souscription, des obligations convertibles et des droits de souscription et, plus généralement, tous titres donnant directement ou indirectement accès au capital ou aux capitaux propres et tous titres donnant droit à de tels titres, en ce compris la conclusion de toute convention d'option;]<sup>2</sup>
+
+5° accomplir les opérations se rapportant aux interventions précitées [<sup>2</sup> en ce compris notamment l'octroi de toutes avances aux entreprises dans lesquelles elle détient une participation]<sup>2</sup> ou répondant à la protection de ses intérêts patrimoniaux.
+
+(§ 2. D'autre part, la (Société fédérale de Participations et d'Investissement) et également ses filiales spécialisées, existantes ou à créer &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+1\. en matière de restructuration et assistance à la gestion d'entreprises,
+
+2\. en matière d'énergie,
+
+3\. en matière d'investissement international,
+
+4\. ainsi qu'en chaque matière, sur proposition de la (Société fédérale de Participations et d'Investissement) et après approbation par arrêté royal délibéré en Conseil des Ministres, &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+et les filiales spécialisées créées en application du paragraphe 3 ci-après, ont pour objet de promouvoir l'initiative économique publique. Elles peuvent, à cette fin, procéder ou participer à la création d'entreprises [<sup>2</sup> ...]<sup>2</sup>, prendre des participations et intérêts dans de telles entreprises et participer à leur gestion.
+
+En vue de la réalisation de cet objet, la (Société fédérale de Participations et d'Investissement) et ses filiales spécialisées peuvent, par voie d'apports, de cessions de participations, de fusions, de scissions ou autrement, prendre tous intérêts dans des associations, syndicats et sociétés et faire toutes opérations financières et immobilières, engager toutes entreprises et faire toutes opérations se rapportant directement ou indirectement à cet objet ou de nature à en favoriser la réalisation. Elles peuvent notamment acheter, vendre, louer et gérer tous biens immobiliers et mobiliers.) &lt;L 04.08.1978, art. 98&gt; &lt;AR 1994-06-16/31, art. 2, 006; En vigueur : indéterminée &gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+(§ 3. La (Société fédérale de Participations et d'Investissement) et ses filiales spécialisées ont en outre pour objet de contribuer à la mise en oeuvre de la politique industrielle de l'Etat [<sup>1</sup> et à la résolution d'institutions financières]<sup>1</sup>. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Elles sont tenues d'accomplir toutes missions qui leur sont confiées par des lois spéciales ou par des arrêtés royaux délibérés en Conseil des Ministres.
+
+L'Etat procure à la (Société fédérale de Participations et d'Investissement) et à ses filiales spécialisées les ressources financières nécessaires à l'accomplissement de ces missions et à la couverture des charges qui en découlent pour elles. Les opérations exécutées par la (Société fédérale de Participations et d'Investissement) et ses filiales spécialisées en application de ces missions sont présentées de façon distincte dans les comptes. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+En vue de la réalisation de cet objet la (Société fédérale de Participations et d'Investissement) et ses filiales spécialisées disposent des techniques financières mentionnées aux §§ 1er et 2 du présent article.) &lt;L 04-08-1978, art. 98&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+(§ 3bis. Le gouvernement fédéral peut, dans toute matière relevant de sa compétence, solliciter l'avis de la Société fédérale de Participations et d'Investissement et ses filiales spécialisées, dans le cadre de leurs missions légales, sur les projets potentiels de constitution de personnes morales, de la réforme ou de la participation dans celles-ci par l'Etat, par une entreprise publique fédérale ou par une institution publique fédérale.
+
+Cet avis est donné à la demande des ministres de tutelle. Il est d'ordre financier, économique et juridique.) &lt;L 2006-08-26/30, art. 9, 009; En vigueur : 01-11-2006&gt;
+
+(§ 4. La (Société fédérale de Participations et d'Investissement) et ses filiales spécialisées [<sup>2</sup> interviennent à titre d'actionnaire actif et maintiennent un dialogue stratégique avec les entreprises dans lesquelles elles détiennent une participation ou investissent]<sup>2</sup> en vertu des §§ 2 et 3 du présent article. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Quant aux opérations et interventions décidées en vertu du § 1er, le principe de la gestion active et de la représentation sera appliqué conformément aux conventions que les parties concernées concluront à cet égard) &lt;L 04-08-1978, art. 98&gt; &lt;AR 1994-06-16/31, art. 2, 006; En vigueur : indéterminée &gt;
+
+§ 5. La (Société fédérale de Participations et d'Investissement) peut recourir aux services de tiers et les charger de toute mission utile à la réalisation de son objet. &lt;AR 1994-06-16/31, art. 2, 006; En vigueur : indéterminée &gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Elle n'est pas soumise aux règles relatives aux marchés publics de travaux, de fournitures et de services.
+
+----------
+
+(1)&lt;L 2014-04-25/09, art. 8, 012; En vigueur : 07-05-2014&gt;
+
+(2)&lt;L 2020-04-28/06, art. 219, 015; En vigueur : 06-05-2020&gt;
+
+#### Art. 2bis
+
+&lt;L 04-08-1978 art. 98 § 5&gt; Les décisions de réalisation des missions de la (Société fédérale de Participations et d'Investissement) et de ses filiales spécialisées sont prises par les Conseils d'Administration respectifs. Lorsqu'il s'agit des missions prévues à l'article 2, § 1 ou § 2, ces décisions indiquent si elles sont prises en application de l'un ou de l'autre des paragraphes précités. Lorsqu'il s'agit de missions prévues à l'article 2, § 3, les Conseils d'Administration sont uniquement chargés de l'exécution ou de la mise en oeuvre des lois spéciales ou des décisions ministérielles. &lt;AR 1994-06-16/31, art. 2, 006; En vigueur : indéterminée &gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+#### Art. 2ter
+
+&lt;L 04-08-1978 art. 99 § 1&gt; Les filiales spécialisées de la (Société fédérale de Participations et d'Investissement) jouiront d'une large autonomie de gestion par rapport à la (Société fédérale de Participations et d'Investissement). (...) &lt;AR 1994-06-16/31, art. 2, 006; En vigueur : indéterminée &gt; &lt;AR 1994-07-20/32, art. 6, 006; En vigueur : indéterminée &gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Les filiales spécialisées de la (Société fédérale de Participations et d'Investissement) seront constituées dans la forme des sociétés anonymes. Pour tout ce qui n'est pas explicitement réglé par ou en vertu de la présente loi, les prescriptions relatives aux sociétés [<sup>1</sup> anonymes]<sup>1</sup> sont applicables aux filiales spécialisées existantes ou à créer [<sup>1</sup> ...]<sup>1</sup>. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Les statuts, la composition du Conseil d'administration, les pouvoirs des Commissaires du Gouvernement et le cas échéant, la composition et les compétences du Comité de Direction, de la filiale de la (Société fédérale de Participations et d'Investissement) spécialisée en matière de restructuration et assistance à la gestion d'entreprises et en matière d'énergie, ainsi que des filiales spécialisées créées en application du § 3 de l'article 2, font l'objet d'une décision des Ministres et Secrétaires d'Etat concernés. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Les frais de fonctionnement de la filiale spécialisées en matière de restructuration et assistance à la gestion d'entreprise font l'objet d'un budget établi annuellement. Les modalités de financement des frais fixes et des frais variables, ainsi que les préfinancements qui pourraient être requis, seront définis dans un protocole établi entre la filiale et les Ministres et Secrétaires d'Etat concernés.
+
+En ce qui concerne les filiales spécialisées autres que celles dont il est question dans le précédent alinéa, la totalité ou une quote-part des frais de fonctionnement pourra être mise à charge des budgets respectifs des départements ministériels concernés après décision des Ministres des Finances et des Affaires économiques délibérée en Conseil des Ministres ou dans un comité fondé en son sein. S'il s'agit d'une quote-part, celle-ci couvrira les coûts afférents au renforcement du personnel à recruter sous contrat d'emploi qui pourrait s'avérer nécessaire, ainsi que les mises de fonds requises pour le financement des opérations faites en vertu des paragraphes 2 et 3 de l'article 2.
+
+----------
+
+(1)&lt;L 2020-04-28/06, art. 220, 015; En vigueur : 06-05-2020&gt;
+
+#### Art. 2quater
+
+(abrogé) &lt;AR 1994-06-16/31, art. 6, 006; En vigueur : indéterminée &gt;
+
+#### Art. 2quinquies
+
+&lt;L 04-08-1978, art. 99&gt; Dans tous les cas d'intervention de la (Société fédérale de Participations et d'Investissement) et de ses filiales spécialisées quel que soit le paragraphe en cause de l'article 2, un double objectif sera poursuivi par les personnes en charge de la surveillance et de la gestion desdites interventions :&lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+a) l'intérêt de l'économie belge par la mise en oeuvre du Plan et l'application de la politique industrielle de l'Etat d'une part, et
+
+b) l'application des règles de bonne gestion industrielle, financière et commerciale ainsi que l'obtention d'une rentabilité normale d'autre part.
+
+#### Art. 2sexies
+
+[<sup>1</sup> § 1er. Les règles et conditions spéciales selon lesquelles la Société fédérale de Participations et d'Investissement exerce les missions qui lui sont confiées par la présente loi, sont arrêtées dans un contrat de gestion conclu entre l'Etat et la Société fédérale de Participations et d'Investissement.
+
+§ 2. Toute clause résolutoire expresse dans le contrat de gestion est réputée non écrite.
+
+[<sup>2</sup> Les articles 5.90 à 5.96 du Code Civil ne sont]<sup>2</sup> pas applicable au contrat de gestion. La partie envers laquelle une obligation dans le contrat de gestion n'est pas exécutée, ne peut poursuivre que l'exécution de l'obligation, et, le cas échéant, demander des dommages-intérêts, sans préjudice de l'application de toute sanction spéciale prévue dans le contrat de gestion.
+
+Le contrat de gestion ne constitue pas un acte ou règlement visé à l'article 14 des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973. Toutes ses clauses sont réputées contractuelles. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-05/04, art. 3, 013; En vigueur : 28-12-2017&gt;
+
+(2)&lt;L 2022-04-28/25, art. 30, 017; En vigueur : 01-01-2023&gt;
+
+#### Art. 2septies
+
+[<sup>1</sup> § 1er. Lors de la négociation et de la conclusion du contrat de gestion, l'Etat est représenté par les ministres compétents pour la Société fédérale de Participations et d'Investissement.
+
+Lors de la négociation du contrat de gestion, la Société fédérale de Participations et d'Investissement est représentée par le président du conseil d'administration et l'administrateur délégué. Le contrat de gestion est soumis à l'approbation du conseil d'administration statuant à la majorité absolue des voix exprimées.
+
+Le contrat de gestion n'entre en vigueur qu'après son approbation par le Roi, par arrêté délibéré en Conseil des ministres, et à la date fixée par cet arrêté.
+
+§ 2. Le contrat de gestion est conclu pour une durée de trois ans au moins et de cinq ans au plus.
+
+Au plus tard six mois avant l'expiration d'un contrat de gestion, l'administrateur délégué soumet aux ministres compétents pour la Société fédérale de Participations et d'Investissement un projet de nouveau contrat de gestion.
+
+Si, à l'expiration d'un contrat de gestion, un nouveau contrat de gestion n'est pas entré en vigueur, le contrat est prorogé de plein droit jusqu'à l'entrée en vigueur d'un nouveau contrat de gestion. Cette prorogation est publiée au Moniteur belge par les ministres compétents pour la Société fédérale de Participations et d'Investissement.
+
+Si, un an après la prorogation visée à l'alinéa 3, un nouveau contrat de gestion n'est pas entré en vigueur, le Roi peut, par arrêté délibéré en Conseil des ministres, fixer des règles provisoires concernant les matières visées à l'article 2sexies. Ces règles provisoires valent comme nouveau contrat de gestion et sont d'application jusqu'à l'entrée en vigueur d'un nouveau contrat de gestion, conclu conformément au paragraphe 1er.
+
+Les arrêtés portant approbation d'un contrat de gestion, ou de son adaptation, ainsi que les arrêtés fixant des règles provisoires sont publiés au Moniteur belge. Les dispositions du contrat de gestion ou, le cas échéant, des règles provisoires, sont publiées en annexe de l'arrêté royal, à l'exception de celles qui contiennent des secrets industriels ou commerciaux.
+
+§ 3. Le contrat de gestion est présenté à la Chambre des représentants. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-05/04, art. 4, 013; En vigueur : 28-12-2017&gt;
+
+#### Art. 3
+
+&lt;L 04-08-1978, art. 100&gt; § 1. La (Société fédérale de Participations et d'Investissement) et toutes ses filiales spécialisées existantes ou à créer peuvent émettre des obligations d'une durée minimum de cinq ans et contracter des emprunts. Hormis la Société Belge d'Investissement International, ces émissions et emprunts sont subordonnés à l'autorisation du Ministre des Finances, qui en approuve les conditions. Hormis la Société Belge d'Investissement International le montant de ces émissions et emprunts ne peut dépasser le montant du capital et des réserves, sauf dérogation autorisée par arrêté royal délibéré en Conseil des Ministres. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+§ 2. Le Roi est autorisé à accorder la garantie de l'Etat envers les tiers aux conditions qu'il détermine, à l'intérêt et à l'amortissement des obligations à émettre par la (Société fédérale de Participations et d'Investissement) ou par ses filiales spécialisées et aux emprunts à contracter par ces sociétés. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Dans le cas où le produit des opérations ne permettrait pas le remboursement des obligations ou emprunts ainsi que le remboursement intégral des paiements y afférents, l'Etat fournit à la (Société fédérale de Participations et d'Investissement) ou ses filiales spécialisées les sommes nécessaires pour parfaire la différence. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Les décaissements que l'Etat serait obligé de faire en vertu de sa garantie lui seront remboursés en principal, majorés des intérêts au même taux que celui des obligations et emprunts garantis. Les remboursements dûs par la (Société fédérale de Participations et d'Investissement) ou ses filiales spécialisées seront faits par voie de prélèvement sur le bénéfice net de l'exercice suivant et, s'il échet, des exercices ultérieurs. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+### Section II. - Administration de la Société fédérale de Participations et d'Investissement. &lt;inséré par AR 2006-09-28/34, art. 2; En vigueur : 06-10-2006&gt;
+
+#### Art. 3bis
+
+&lt;AR 2006-09-28/34, art. 3, 010; En vigueur : 06-10-2006&gt; § 1er. La société est administrée par un conseil d'administration composé de 12 membres au moins.
+
+Ils sont nommés pour un terme renouvelable de six ans maximum selon les modalités prévues aux §§ 2 à 4. Lors de la première nomination du conseil d'administration, la moitié des membres de chacune des catégories visées aux §§ 2 à 4 sont cependant nommés pour une période de 3 ans.
+
+Les membres exercent un maximum de trois mandats d'administrateur dans d'autres sociétés. Un tiers au moins des membres exerce au maximum un mandat d'administrateur dans une autre société.
+
+Un tiers au moins des membres doit appartenir à l'autre sexe.
+
+Le conseil d'administration comprend autant de membres d'expression française que de membres d'expression néerlandaise.
+
+§ 2. L'assemblée générale nomme deux administrateurs indépendants sur proposition motivée d'un jury constitué par le Roi, qui est composé de personnalités éminentes issues de la communauté des affaires ou académique. Le Roi détermine le mode de fonctionnement du jury.
+
+[<sup>2</sup> Outre leur expérience pertinente en matière de gestion, ces administrateurs doivent être indépendants au sens de l'article 7:87 du Code des sociétés et des associations et, pendant une période de six ans précédant leur nomination, ne pas avoir exercé de mandat rémunéré pour l'Etat fédéral, les Communautés, les Régions ou les provinces ou pour un organisme dépendant des autorités susmentionnées.]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. les actionnaires autres que l'Etat nomment conjointement un certain nombre d'administrateurs, proportionnellement au nombre de voix liées à leurs actions.
+
+Ils peuvent être révoqués par l'assemblée générale.
+
+§ 4. Les autres membres du conseil d'administration sont nommés par le Roi, par arrêté royal délibéré en Conseil des Ministres, en fonction de la complémentarité de leurs compétences particulières en matière d'analyse financière et comptable, en matière juridique ou en matière économique ou en fonction de leur expertise en matière d'investissements internationaux.
+
+Ils peuvent être révoqués par arrêté royal délibéré en Conseil des Ministres.
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 6. En cas de vacance d'un poste d'administrateur, les administrateurs restés en fonction peuvent y pourvoir provisoirement, jusqu'à ce qu'une nouvelle nomination ait lieu.
+
+Le nouveau membre nommé achève le mandat de son prédécesseur.
+
+§ 7. Un président, deux vice-présidents et un administrateur délégué sont nommés parmi les membres du conseil d'administration par un arrêté royal délibéré en Conseil des Ministres.
+
+Le président et l'administrateur délégué sont d'expression linguistique différente.
+
+Les deux vice-présidents sont d'expression linguistique différente.
+
+§ 8. Le président, les vice-présidents et les membres du conseil d'administration perçoivent une rémunération fixe ou des jetons de présence dont le montant est arrêté par l'assemblée générale.
+
+§ 9. La rémunération de l'administrateur délégué et des membres du comité exécutif est fixée par le conseil d'administration sur proposition du comité de rémunération.
+
+Si cette rémunération comporte un élément variable, l'assiette ne peut comprendre des éléments ayant le caractère de charge d'exploitation.
+
+L'administrateur délégué et les membres du comité exécutif bénéficient d'un régime de pension de retraite et de survie arrêté par le conseil d'administration sur proposition du comité de rémunération.
+
+§ 10. Le conseil d'administration se réunit comme prévu aux statuts et au moins six fois par an.
+
+Il détermine la politique générale de la société et adopte le programme financier de l'exercice.
+
+Il détient tous les pouvoirs qui ne sont pas réservés à l'assemblée générale. Il délègue à l'administrateur délégué, assisté par le comité exécutif, la gestion journalière de la société.
+
+Les statuts déterminent, au regard des principes de bonne gouvernance, l'étendue de la gestion journalière, les règles essentielles du management de la société et le rôle des comités.
+
+§ 11. L'administrateur délégué fait régulièrement rapport au conseil d'administration.
+
+Il consulte le président, dans un stade précoce, en matière d'initiatives stratégiques et l'informe en permanence sur les progrès réalisés.
+
+§ 12. Le président est chargé, dans le respect des principes de gouvernance d'entreprise, d'assurer un rôle de conseil à l'égard de l'administrateur délégué. Pour remplir ce rôle, il peut être chargé par le conseil d'administration de la fonction spéciale d'études et recherches d'investissements et de soutien dans la définition et la mise en oeuvre de missions nouvelles confiées à la société. Cette responsabilité spécifique se distingue nettement de la gestion journalière.
+
+§ 13. En cas de partage des voix, le président a voix prépondérante.
+
+§ 14. Sauf délibération spéciale du conseil d'administration, la représentation de la société vis-à-vis des tiers comme la représentation en justice sont assurées conjointement par l'administrateur délégué et le Président ou par deux administrateurs.
+
+§ 15. Le conseil d'administration crée un comité stratégique, dont le rôle est d'assister et de conseiller le conseil d'administration dans les matières de politique et de stratégie générales de la société, ainsi que sur des questions importantes relatives au développement stratégique de la société.
+
+Le comité stratégique comprend le président, les deux vice-présidents et l'administrateur délégué.
+
+§ 16. Le conseil d'administration crée un comité exécutif, chargé d'assister l'administrateur délégué dans l'exercice de la gestion journalière de la société. Le comité exécutif fait régulièrement rapport de cette gestion au conseil d'administration.
+
+Le comité exécutif comprend l'administrateur délégué et au maximum trois membres, désignés par le conseil d'administration pour un terme de six ans, renouvelable, et qui peuvent être révoqués par le conseil d'administration.
+
+Le président est invité à assister aux réunions du comité exécutif.
+
+§ 17. Le conseil d'administration instaure un comité d'audit et un comité de rémunérations, ainsi que tout autre comité qu'il jugera nécessaire.
+
+Le comité d'audit est composé de [<sup>3</sup> quatre]<sup>3</sup> membres, dont au moins un administrateur indépendant, nommés par le conseil d'administration en fonction de leur compétence et de leur expérience en matière financière. Dans l'attente de la nomination des administrateurs indépendants, le comité d'audit pourra valablement exercer ses compétences sans limitation dès la nomination des autres membres.
+
+Il a pour mission d'assister le conseil d'administration en analysant les informations financières, notamment les comptes annuels, le rapport annuel et les rapports intermédiaires. En outre, le comité d'audit exécute les tâches qui lui sont confiées par le conseil d'administration ou les statuts.
+
+Le comité des rémunérations est composé de quatre membres, dont au moins un administrateur indépendant, nommés par le conseil d'administration en son sein. Il choisit un président en son sein. Dans l'attente de la nomination des administrateurs indépendants, le comité des rémunérations pourra valablement exercer ses compétences sans limitation dès la nomination des autres membres.
+
+Le comité des rémunérations transmet une proposition de décision, selon le cas, au conseil d'administration ou à l'assemblée générale, pour toute décision relative aux avantages pécuniaires, directs ou immédiats, indirects ou reportés, liés directement à la fonction ou alloués aux membres des organes de gestion. Il rédige en outre chaque année un rapport sur les rémunérations, qui sera inséré dans le rapport de gestion.
+
+§ 18. Les administrateurs indépendants remettent chaque année un rapport sur l'exercice de leur mandat. Ce rapport sera repris intégralement dans le rapport annuel de la Société fédérale de Participations et d'Investissements.
+
+----------
+
+(1)&lt;L 2013-06-17/06, art. 121, 011; En vigueur : 08-07-2013&gt;
+
+(2)&lt;L 2020-04-28/06, art. 221, 015; En vigueur : 06-05-2020&gt;
+
+(3)&lt;L 2023-12-20/08, art. 2, 018; En vigueur : 25-01-2024&gt;
+
+### Section III. - Incompatibilités. &lt;inséré par AR 2006-09-28/34, art. 4; En vigueur : 06-10-2006&gt;
+
+#### Art. 3ter
+
+&lt;AR 2006-09-28/34, art. 5, 010; En vigueur : 06-10-2006&gt; &lt;AR 1994-07-20/32, art. 7, 006; En vigueur : indéterminée &gt; Les membres des Chambres législatives, du Parlement européen, des Parlements des Communautés et des Régions, les personnes qui ont la qualité de ministre ou de secrétaire d'Etat ou de membre d'un gouvernement de Communauté ou de Région, de député permanent, de bourgmestre, d'échevin ou de président d'un centre public d'aide sociale d'une commune de plus de 30 000 habitants ne peuvent faire partie du conseil d'administration ni être désignés administrateur délégué de la Société fédérale de Participations et d'Investissement.
+
+Le mandat, au sein du conseil d'administration ou en qualité d'administrateur délégué de la Société fédérale de Participations et d'Investissement, des personnes élues ou nommées aux fonctions visées à l'alinéa 1er cesse de plein droit lors de la prestation de serment ou de l'exercice de ces fonctions.
+
+§ 2. Sans préjudice de l'article [<sup>1</sup> 7:96 du Code des sociétés et des associations]<sup>1</sup>, si un administrateur a, directement ou indirectement, un intérêt opposé ou susceptible de le devenir, de quelque nature qu'il soit, à un projet d'opération ou de décision relevant du conseil d'administration, il ne peut assister aux délibérations du conseil d'administration ni prendre part au vote sur ce projet.
+
+§ 3. Sauf lorsque la société agit en mission déléguée, l'administrateur délégué ne peut exercer simultanément et pendant une période de trois années après la fin de son mandat, aucune activité rémunérée au service d'une entreprise à laquelle la société a cédé des actifs ou dont elle acquiert des actifs, ou d'une société liée à une telle entreprise.
+
+----------
+
+(1)&lt;L 2020-04-28/06, art. 5, 015; En vigueur : 06-05-2020&gt;
+
+#### Art. 3quater
+
+(Abrogé) &lt;L 04-08-1978, art. 110&gt;
+
+### Section IV. - Actions représentatives du capital de sociétés anonymes détenues par la Société fédérale de Participations et d'Investissement. &lt;inséré par AR 2006-09-28/34, art. 6; En vigueur : 06-10-2006&gt;
+
+#### Art. 3quinquies
+
+&lt;L 22-01-1985, art. 171&gt; Une société anonyme [<sup>2</sup> ou une société à responsabilité limitée]<sup>2</sup> peut acquérir, par voie d'achat, ses propres actions ou parts bénéficiaires, en possession de la (Société fédérale d'investissement), d'une filiale spécialisée de celle-ci (, du Fonds pour la Restructuration des Secteurs nationaux en Région wallonne, du Fonds voor de Herstruturering van de Nationale sectoren in het Vlaamse Gewest, de la Société régionale d'investissement de la Région bruxelloise) ou d'une société dans laquelle la (Société fédérale de Participations et d'Investissement) ou une filiale spécialisée détient une participation qui représente au moins 50 p.c. du capital [<sup>2</sup> ou des capitaux propres]<sup>2</sup>, ci-après collectivement dénommée " la société venderesse " aux conditions suivantes : &lt;L 1988-12-30/31, art. 207, 002; En vigueur : 1989-01-15&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+1° (l'assemblée générale, statuant aux conditions de quorum et de majorité [<sup>2</sup> requises pour la modification des statuts]<sup>2</sup>, a accordé l'autorisation, a fixé les modalités et les conditions des acquisitions, étant entendu que la société venderesse ne peut exercer son droit de vote sur cette acquisition;) &lt;L 1988-12-30/31, art. 207, 002; En vigueur : 1989-01-15&gt;
+
+(NOTE : Pour la communauté flamande sont dans le 1° les mots " aux conditions de quorum et de majorité prévues à l'article 52bis, § 1er, deuxième alinéa et l'article 70bis des lois coordonnées sur les sociétés commerciales " remplacés par les mots : " aux conditions prévues par l'article 52bis, § 1er, premier et deuxième alinéa des lois coordonnées sur les sociétés commerciales ". &lt;DCFL 1992-12-18/30, art. 9, 005; En vigueur : 29-12-1992&gt;)
+
+2° les sommes affectées à l'acquisition sont susceptibles d'être distribuées aux actionnaires;
+
+3° l'opération ne porte que sur des actions entièrement libérées;
+
+4° les actions ou parts bénéficiaires sont en possession de la société venderesse pour les avoir souscrites à l'occasion de leur émission.
+
+Les actions et parts bénéficiaires acquises en application de l'alinéa 1er sont nulles de plein droit. Le conseil d'administration détruit les titres nuls en vertu de la présente disposition et en dépose la liste au greffe du tribunal de commerce.
+
+(NOTE : Pour la communauté flamande le 4° est abrogé. &lt;DCFL 1992-12-18/30, art. 9, 005; En vigueur : 29-12-1992&gt;)
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-06-17/06, art. 122, 011; En vigueur : 08-07-2013&gt;
+
+(2)&lt;L 2020-04-28/06, art. 223, 015; En vigueur : 06-05-2020&gt;
+
+#### Art. 3sexies
+
+&lt;L 04-08-1978, art. 102&gt; § 1. [<sup>2</sup> ...]<sup>2</sup> la (Société fédérale de Participations et d'Investissement) et chacune de ses filiales spécialisées peuvent lorsqu'elles agissent en vertu du § 2 ou du § 3 de l'article 2 constituer seule une société anonyme [<sup>2</sup> ou une société à responsabilité limitée]<sup>2</sup> et souscrire en qualité de fondateur la totalité des actions de cette société. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Elles peuvent, de même, dans les mêmes cas, par voie de souscription ou d'acquisition détenir la totalité des actions d'une société anonyme [<sup>2</sup> ou d'une société à responsabilité limitée]<sup>2</sup> existante [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup> La (Société fédérale de Participations et d'Investissement) et chacune de ses filiales spécialisées peuvent, lorsqu'elles agissent en vertu du § 2 ou 3 de l'article 2 créer une société anonyme [<sup>2</sup> ou une société à responsabilité limitée]<sup>2</sup> avec une ou plusieurs autres personnes physiques ou morales de droit privé ou public. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+----------
+
+(1)&lt;L 2013-06-17/06, art. 123, 011; En vigueur : 08-07-2013&gt;
+
+(2)&lt;L 2020-04-28/06, art. 224, 015; En vigueur : 06-05-2020&gt;
+
+#### Art. 3septies
+
+(abrogé) &lt;AR 1994-07-20/32, art. 8, 006; En vigueur : indéterminée &gt;
+
+#### Art. 3octies
+
+&lt;L 04-08-1978, art. 102&gt; § 1. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. Les sociétés dans le capital [<sup>2</sup> , les capitaux propres]<sup>2</sup> ou le fonds social desquelles la (Société fédérale de Participations et d'Investissement) et les filiales spécialisées détiennent en vertu de l'article 2, § 2 ou § 3, une participation de [<sup>1</sup> 2.500.000 euros]<sup>1</sup> au moins sont tenues d'avoir un commissaire-réviseur au moins, dont la désignation et les fonctions sont soumises aux articles [<sup>2</sup> 3:58 et suivants du Code des sociétés et des associations]<sup>2</sup>. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+----------
+
+(1)&lt;L 2013-06-17/06, art. 124, 011; En vigueur : 08-07-2013&gt;
+
+(2)&lt;L 2020-04-28/06, art. 225, 015; En vigueur : 06-05-2020&gt;
+
+## CHAPITRE II. - (abrogé) &lt;L 04-08-1978, art. 103&gt;
+
+#### Art. 4
+
+&lt;L 04-08-1978, art. 103&gt; § 1. Les comités ministériels des affaires régionales créent, afin d'assurer la mise en oeuvre de projets industriels, une société régionale d'investissement par région.
+
+Pour la définition de la notion de région, il est référé à l'article 1er de la loi du 1er août 1974 créant des institutions régionales à titre préparatoire à l'application de l'article 107quater de la Constitution, telle qu'elle a été modifiée par la loi du 19 juillet 1977.
+
+Les sociétés régionales d'investissement poursuivent sur le plan régional le même objet social que la (Société fédérale de Participations et d'Investissement). &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+§ 2. Les sociétés régionales d'investissement sont des sociétés d'intérêt public, constituées sous la forme des sociétés anonymes.
+
+Les parts des sociétés régionales d'investissement sont nominatives.
+
+Les articles 57 à 59, ainsi que l'article 69 des lois coordonnées sur les sociétés commerciales relatifs au cautionnement des administrateurs et des commissaires, ne sont pas d'application.
+
+Les dispositions des lois coordonnées sur les sociétés commerciales relatives aux quorum de présence et de vote des assemblées s'appliqueront aux sociétés régionales d'investissement susmentionnées à l'exception de l'article 76 desdites lois coordonnées.
+
+Pour tout ce qui n'est pas explicitement réglé par ou en vertu de la présente loi, les prescriptions relatives aux sociétés commerciales sont applicables aux sociétés régionales d'investissement dont les actes sont réputés commerciaux.
+
+§ 3. Les comités ministériels des affaires régionales décideront quels organes et/ou personnes feront partie de l'assemblée générale des actionnaires des sociétés régionales d'investissement.
+
+Les statuts, les modifications aux statuts, le mode de composition des conseils d'administration respectifs qui, à l'exclusion de toutes autres personnes, doivent être composés de représentants du secteur public, seront approuvés par arrêté royal délibéré en Comité ministériel des Affaires régionales; les incompatibilités seront approuvées par arrêté royal délibéré en Conseil des Ministres.
+
+Les personnes chargées de la gestion journalière et de la direction des sociétés régionales d'investissement précitées seront sélectionnées, à l'exclusion de tout autre critère, sur base de leur compétence.
+
+§ 4. Le capital des sociétés régionales d'investissement précitées est à charge des budgets régionaux respectifs.
+
+§ 5. Les dispositions suivantes concernant la (Société fédérale de Participations et d'Investissement) et ses filiales spécialisées sont également d'application aux sociétés régionales d'investissement précitées : &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+(NOTE : Pour la communauté flamande, sont insérés entre les mots " aux sociétés régionales d'investissement précitées " et le premier tiret, les mots " et leurs filiales spécialisées ". &lt;DCFL 1992-12-18/30, art. 13, 005; En vigueur : 29-12-1992&gt;)
+
+\- l'article 2, §§ 1er et 2, en ce qui concerne les missions qui y sont visées;
+
+\- l'article 2, § 3, étant entendu que les missions dont il est question dans cette disposition, seront confiées aux sociétés régionales d'investissement par des lois spéciales ou par le Ministre ou les Secrétaires d'Etat compétents, sur décision du Comité ministériel des Affaires régionales;
+
+\- l'article 2, §§ 4 et 5;
+
+\- l'article 2bis;
+
+\- l'article 2quinquies;
+
+\- l'article 3; (NOTE : Pour la communauté flamande, la phrase précédente est remplacée par " l'article 3, § 2 ". &lt;DCFL 1992-12-18/30, art. 13, 005; En vigueur : 29-12-1992&gt;)
+
+\- l'article (3quinquies, 3sexies, 3septies et 3octies;) &lt;L 24-01-1985, art.172&gt;(NOTE : Pour la Communauté flamande, la phrase précédente est remplacée par " l'article 3quinquies, 3sexies, §§ 1 et 2, 1° et 3septies ". &lt;DCFL 1992-12-18/30, art. 13, 005; En vigueur : 29-12-1992&gt;)
+
+\- l'article 11; (NOTE : Pour la Communauté flamande, la phrase précédente est remplacée par la disposition suivante : les articles 7, 9, 11 et 17 &lt;DCFL 1990-12-21/33, art. 105, 004; En vigueur : 08-01-1991&gt;)
+
+\- (NOTE : Pour la communauté flamande, un renvoi à l'article 10 est ajouté sous le huitième tiret. &lt;DCFL 1992-12-18/30, art. 13, 005; En vigueur : 29-12-1992&gt;)
+
+\- l'article 14 de la loi du 30 mars 1976.
+
+#### Art. 5
+
+(abrogé) &lt;L 04-08-1978, art. 103&gt;
+
+#### Art. 6
+
+(abrogé) &lt;L 04-08-1978, art. 103&gt;
+
+## CHAPITRE III. - (abrogé) &lt;L 04-08-1978, art. 103&gt;
+
+#### Art. 7
+
+&lt;L 30-12-1970, art. 34&gt; (Durant la période pendant laquelle elle détient, par application de l'article 2, § 1, une participation dans une société), la (SFPI) ou la S.R.I. (...) peut exiger tout renseignement de cette société. &lt;L 30-03-1976, art. 6&gt; &lt;L 04-08-1978, art. 103&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+Elle peut prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et géneralement de toutes les écritures de cette société.
+
+Les engagements que la (SFPI) entendrait stipuler de la société, en ce compris des règles de gestion, sont soumis à la décision (des organes de gestion, du conseil d'administration ou de l'assemblée générale de cette dernière, en conformité avec les statuts de la société). &lt;L 30-12-1970, art. 34&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+#### Art. 8
+
+(Abrogé) &lt;L 04-08-1978, art. 105&gt;
+
+#### Art. 9
+
+Sans préjudice des obligations qui leur sont imposées par la loi ou par les règlements et hors les cas où ils sont appelés à rendre témoignage en justice, le président, les administrateurs, les commissaires et le personnel de la (SFPI) ou des S.R.I. (...) ne peuvent se livrer à aucune divulgation des renseignements ou des faits dont ils ont eu connaissance en raison de leurs fonctions en ce qui concerne les sociétés dans lesquelles la (Société fédérale de Participations et d'Investissement) détient des participations, par application de l'article 2, § 1. &lt;L 04-08-1978, art. 103&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+#### Art. 10
+
+Le directeur général de l'Administration de l'Enregistrement et des Domaines ou son délégué a qualité pour conférer l'authenticité à tous actes relatifs à l'organisation ainsi qu'à l'administration interne de la (SFPI) ou des S.R.I. (...). &lt;L 04-08-1978, art. 103&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+#### Art. 11
+
+&lt;L 04-08-1978, art. 106&gt; § 1. La (Société fédérale de Participations et d'Investissement) ainsi que ses filiales spécialisées pourront bénéficier d'une garantie de l'Etat portant sur les risques inhérents à la création ou au lancement d'une activité nouvelle industrielle, commerciale ou financière, lorsque ces risques découlent de la création d'une nouvelle entreprise ou de la reconversion, la restructuration, la diversification ou l'expansion d'une entreprise existante. &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+§ 2. Les opérations pouvant bénéficier de la garantie de l'Etat dont question au précédent paragraphe doivent être faites en vertu du paragraphe 2 ou 3 de l'article 2 et doivent en outre comporter des risques importants aux plans technologique, commercial ou financier.
+
+§ 3. Les Ministres des Finances et des Affaires économiques décideront cas par cas de l'étendue et des modalités de la garantie de l'Etat dont question au premier paragraphe du présent article. Toutefois, cette garantie, qui est en tout cas limitée au principal, ne pourra excéder 80 p.c. du montant du risque à couvrir et les dépenses qui en découlent seront imputées selon le cas, soit au budget national, soit aux budgets régionaux. Une convention sera établie dans chaque cas entre les deux Ministres précités et les sociétés en question.
+
+#### Art. 12
+
+&lt;disposition modificative de l'art. 34 de l'AR 185 1935-07-09/30&gt;
+
+#### Art. 13
+
+(abrogé) &lt;L 30-03-1976, art. 10&gt;
+
+#### Art. 14
+
+L'article 76 des lois coordonnées sur les sociétés commerciales n'est pas applicable au droit de vote attaché aux actions représentatives du capital [<sup>1</sup> ...]<sup>1</sup> et des S.R.I. (...) (...). &lt;L 04-08-1978, art. 103&gt; &lt;L 30-03-1976, art. 11&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+----------
+
+(1)&lt;L 2013-06-17/06, art. 125, 011; En vigueur : 08-07-2013&gt;
+
+#### Art. 15
+
+(Abrogé) &lt;AR250 31-12-1983, art.3&gt;
+
+## CHAPITRE IV. - (Abrogé) &lt;L 04-08-1978, art. 103&gt;
+
+#### Art. 16
+
+(Abrogé) &lt;L 22-02-1961, art.18 § 1&gt;
+
+#### Art. 17
+
+§ 1. Sont punis des peines prévues à l' [<sup>1</sup> article 7:232 du Code des sociétés et des associations]<sup>1</sup> ceux qui contreviennent aux dispositions de l'article 7, ceux qui refusent de donner les renseignements qu'ils sont tenus de fournir en vertu de cet article, ceux qui donnent sciemment des renseignements inexacts ou incomplets ou ceux qui ne respectent pas les engagements contractés à l'égard de la (SFPI) ou des S.R.I. (...) &lt;L 04-08-1978, art. 103&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+§ 2. Toute infraction à l'article 9 est punie des peines prévues par l'article 458 du Code pénal. Toutes les dispositions du livre 1er du Code pénal y compris le chapitre VII et l'article 85, sont applicables à ces infractions.
+
+----------
+
+(1)&lt;L 2020-04-28/06, art. 226, 015; En vigueur : 06-05-2020&gt;
+
+#### Art. 18
+
+Chaque année, le Ministre des Affaires économiques et de l'Energie et le Ministre des Finances déposent sur le bureau des Chambres législatives un rapport sur l'application de la présente loi.
+
+#### Art. 19
+
+La dissolution de la (Société fédérale de Participations et d'Investissement) ou d'une société régionale d'investissement (...) ne peut être prononcée qu'en vertu d'une loi qui réglera le mode et les conditions de la liquidation. &lt;L 04-08-1978, art. 103&gt; &lt;L 2006-08-26/30, art. 7, 009; En vigueur : 01-11-2006&gt;
+
+## CHAPITRE V. Dispositions propres à la Region wallonne. &lt;inséré par DRW 1989-12-07/37, art. 1, 003; En vigueur : 1990-02-23&gt;
+
+#### Art. 20
+
+&lt;inséré par DRW 1989-12-07/37, art. 1, 003; En vigueur : 1990-02-23&gt; L'article 4 de la loi du 2 avril 1962, constituant une société nationale d'investissement et des sociétés régionales d'investissement, cesse d'être applicable à la Région wallonne, sauf en ce qu'il accorde à la Société régionale d'Investissement de Wallonie le bénéfice de l'article 2, § 5, alinéa 2, de cette loi.
+
+#### Art. 21
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 22
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 23
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 24
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 25
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 26
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 27
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 28
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 29
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 30
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 31
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 32
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 33
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 34
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 35
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 36
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 37
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 38
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 39
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 40
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+#### Art. 41
+
+&lt;Abrogé par DRW 2022-10-19/01, art. 26,2°, 019; En vigueur : 09-01-2023&gt;
+
+## ANNEXE.
+
+#### Art. N
+
+Annexe : Statuts. &lt;voir CN : 1962-04-02/32&gt;
