@@ -1,0 +1,819 @@
+---
+title: "[Loi relative à la prise en charge des secours accordés par les [centres publics d'aide sociale].] <L 9-7-1971, art. 1> <L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993>"
+identifier: "1965040210"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/02/1965040210/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1965-04-02
+published: 1965-05-06
+entry_into_force: 1965-05-16
+last_amended: 2024-09-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/02/1965040210/justel"
+justel_note: "Consultation des versions antérieures à partir du 25-01-1984 et mise à jour au 09-09-2024"
+retrieved: 2026-10-12
+---
+
+# 2 AVRIL 1965. - [Loi relative à la prise en charge des secours accordés par les [centres publics d'aide sociale].] &lt;L 9-7-1971, art. 1&gt; &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+## CHAPITRE PREMIER. \_ Dispositions générales.
+
+### Art. 1
+
+&lt;L 9-7-1971, art. 2&gt; Pour l'application de la présente loi, il faut entendre par:
+
+1° "(centre public d'aide sociale secourant)": (le centre public d'aide sociale) de la commune sur le territoire de laquelle se trouve une personne qui a besoin d'assistance, dont (ce centre public d'aide sociale) a reconnu l'état d'indigence et à qui (il) fournit des secours dont (il) apprécie la nature et, s'il y a lieu, le montant;
+
+2° "(centre public d'aide sociale) du domicile de secours": (le centre public d'aide sociale) de la commune dans le registre de population de laquelle l'intéressé est inscrit, à titre de résidence principale, au moment ou, en qualité d'indigent ou non, il est traité, avec ou sans hospitalisation, dans un établissement de soins; &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+(Le centre public d'aide sociale) du domicile de secours d'un enfant légitime, légitimé ou naturel reconnu est celle de sa mère, même après le décès de celle-ci, jusqu'à ce qu'il ait acquis un autre domicile de secours; &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+3° "établissement de soins": tout établissement ou section d'établissement dans lequel se font, avec ou sans hospitalisation, le diagnostic ou le traitement d'un état pathologique.
+
+Ne sont pas considérés comme des établissements de soins pour l'application de la présente loi, ((...) les initiatives d'habitation protégée pour patients psychiatriques), les établissements médico-pédagogiques, les établissements pour sourds-muets, aveugles ou estropiés atteints d'une infirmité grave ou incurable, les homes pour enfants et les maisons de repos pour personnes âgées, (tout comme les résidences-services et les complexes résidentiels proposant des services, pour autant que ces établissements aient été agréés en tant que tels par l'autorité compétente). &lt;L 1997-05-20/45, art. 2, 011; En vigueur : 01-01-1997&gt; &lt;L 2006-06-02/45, art. 2, 024; En vigueur : 01-07-2006&gt;
+
+### Art. 2
+
+&lt;L 9-7-1971, art. 3&gt; § 1er. Par dérogation à l'article 1er, 1°, (le centre public d'aide sociale) de la commune dans le registre de population ou des étrangers (ou le registre d'attente) de laquelle l'intéressé était inscrit à titre de résidence principale au moment de son admission dans un établissement ou chez une personne privée mentionnés ci-après, est compétente pour accorder les secours nécessaires, si l'assistance est requise: &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt; &lt;L 1994-05-24/39, art. 12, 1°, 010; En vigueur : 01-02-1995&gt;
+
+1° lors de l'admission ou pendant le séjour d'une personne:
+
+soit dans un (hôpital psychiatrique); &lt;L 1997-05-20/45, art. 3, 011; En vigueur : 01-01-1997&gt;
+
+soit dans un établissement agréé pour handicapés;
+
+soit, s'il s'agit d'un mineur d'âge, dans un établissement pour enfants ou chez une personne privée qui l'héberge à titre onéreux;
+
+soit dans une maison de repos agréée pour personnes âgées (soit dans une résidence-service ou un complexe résidentiel proposant des services, pour autant que ces établissements aient été agréés en tant que tels par l'autorité compétente); &lt;L 1997-05-20/45, art. 3, 011; En vigueur : 01-01-1997&gt;
+
+soit dans un établissement, de quelque nature que ce soit, ou cette personne réside obligatoirement en exécution d'une décision judiciaire ou administrative;
+
+(soit dans d'autres établissements déterminés par le Roi;) &lt;ARN244 1983-12-31/57, art. 19, 002&gt;
+
+(soit dans un établissement ou une institution agréé par l'autorité compétente, pour accueillir des personnes en détresse et leur assurer temporairement le logement et la guidance;
+
+soit dans une maison de repos et de soins agréée.) &lt;AR 1984-08-10/30, art. 1er, 003&gt;
+
+(soit dans un établissement de soins, par suite d'accident ou de maladie ayant nécessité des soins de santé immédiats, à moins que le centre public d'aide sociale de la commune sur le territoire de laquelle se trouvait l'intéressé en dehors de la voie publique ou d'un lieu public au moment de son transport vers cet établissement, ait conclu une convention d'hospitalisation avec lui). &lt;AR 1985-06-20, art. 1, 004&gt; (NOTE : L'AR 1985-06-20 a été annulé par un arrêt du Conseil d'Etat du 27 mai 1987)
+
+2° en vue du transfert d'une personne d'un établissement de soins vers un autre établissement ou personne visés au 1° ci-dessus.
+
+§ 2. Par dérogation au même article 1er, 1°, (le centre public d'aide sociale secourant) de l'enfant nouveau-né est (le centre public d'aide sociale) de la commune dans le registre de population ou des étrangers (ou le registre d'attente) de laquelle sa mère est inscrite à titre de résidence principale au moment de la naissance. &lt;L 1994-05-24/39, art. 12, 1°, 010; En vigueur : 01-02-1995&gt;
+
+En l'absence d'une telle inscription, les secours sont accordés par (le centre public d'aide sociale) du lieu de naissance. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+Les secours visés par le présent paragraphe sont ceux nécessités pendant les séjours successifs et non interrompus de l'enfant à la maternité, dans des établissements de soins et dans des établissements ou chez des personnes visés au § 1er.
+
+§ 3. (Le même centre public d'aide sociale demeure compétent) pour accorder les secours lorsqu'une personne est admise successivement et sans interruption par plusieurs établissements ou personnes visés au § 1er du présent article, ou lorsque, pendant son séjour dans un de ces établissements ou chez une de ces personnes, elle doit subir un traitement dans un établissement de soins. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+(§ 4. Le centre public d'aide sociale de la commune où l'intéressé était inscrit à titre de résidence principale dans le registre de population ou des étrangers (ou le registre d'attente) au moment de son admission dans un établissement de quelque nature que ce soit, où cette personne réside obligatoirement en exécution d'une décision judiciaire ou administrative, et, à défaut d'inscription à titre de résidence principale, le centre de la commune ou se trouve l'intéressé est compétent pour accorder les secours nécessaires si l'aide sociale est requise au moment de la sortie de cet établissement.) &lt;L 1993-01-12/34, art. 16, 009; En vigueur : 01-03-1993&gt; &lt;L 1994-05-24/39, art. 12, 1°, 010; En vigueur : 01-02-1995&gt;
+
+(§ 5. [Par dérogation à l'article 1er, 1°, est compétent pour accorder l'aide sociale à un candidat réfugié ou à une personne bénéficiant de la protection temporaire dans le cadre d'afflux massif de personnes déplacées, le centre public d'action sociale :
+
+a) de la commune où il est inscrit au registre d'attente, [<sup>1</sup> pour autant que cette inscription ne soit pas celle de l'adresse de l'Office des Etrangers ou du Commissariat général aux Réfugiés et aux Apatrides,]<sup>1</sup>
+
+ou
+
+b) de la commune ou il est inscrit au registre de la population ou au registre des étrangers.
+
+Lorsque plusieurs communes sont mentionnées dans l'inscription d'un candidat réfugie ou d'une personne bénéficiant de la protection temporaire dans le cadre d'afflux massif de personnes déplacées, le centre public d'action sociale de la commune désignée en lieu obligatoire d'inscription est compétent pour lui accorder l'aide sociale.] &lt;L 1994-05-24/39, art. 12, 2°, 010; En vigueur : 01-02-1995&gt; &lt;L 1999-05-07/39, art. 4, 015; En vigueur : 18-04-1999&gt; &lt;L 2004-07-09/30, art. 103, En vigueur : 25-07-2004&gt;
+
+[Nonobstant le maintien de la désignation d'un lieu obligatoire d'inscription, cette compétence territoriale prend fin lorsque :
+
+\- soit la procédure d'asile se termine par l'expiration du délai de recours contre une décision du Commissariat général aux réfugiés et aux apatrides ou de la Commission permanente de recours des réfugiés ou par l'arrêt de rejet du recours en annulation porté devant le Conseil d'Etat contre une décision du Commissariat général aux réfugiés et aux apatrides ou de la Commission permanente de recours des réfugiés;
+
+\- soit lorsqu'il est mis fin à la protection temporaire des personnes déplacées.] &lt;L 2004-07-09/30, art. 103, En vigueur : 25-07-2004&gt;
+
+(Lorsqu'un aide médicale est nécessaire pour des raisons urgentes pour les étrangers visés aux alinéas précédents, le centre public d'aide social de la commune où l'intéressé se trouve peut se substituer au centre compétent et aux frais de celui-ci. Il est tenu d'en donner avis dans les cinq jours au centre auquel il s'est substitue.) &lt;L 2002-08-02/45, art. 188, 020; En vigueur : 29-08-2002&gt;
+
+(§ 6. Par dérogation à l'article 1, 1°, le centre public d'aide sociale secourant de la personne qui poursuit des études au sens de l'article 11, § 2, a, de la loi du 26 mai 2002 instituant le droit à l'intégration sociale est le centre public d'aide sociale de la commune où l'étudiant est, au moment de la demande, inscrit à titre de résidence principale dans le registre de population ou des étrangers.
+
+Ce centre public d'aide sociale demeure compétent pour toute la durée ininterrompue des études.) &lt;L 2002-05-26/47, art. 52, 019; En vigueur : 01-10-2002&gt;
+
+(§ 7. Par dérogation à l'article 1er, 1°, est compétent pour attribuer une aide sociale à un sans-abri qui ne réside pas dans un établissement visé au § 1er, le centre public d'aide sociale de la commune où l'intéressé a sa résidence de fait.
+
+Le C.P.A.S. doit signaler immédiatement à la direction d'administration de l'aide sociale toute attribution d'aide sociale à un sans-abri.) &lt;L 2002-12-24/31, art. 379, 021; En vigueur : 10-01-2003&gt;
+
+(§ 8. Par dérogation à l'article 1er, 1°, le centre public d'action sociale de la commune où se trouve le logement pour lequel l'intéressé sollicite la garantie locative est compétent pour lui accorder cette aide lors de sa sortie d'une structure d'accueil au sens de l'article 2, 10°, de la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers.) &lt;L 2008-12-22/33, art. 6, 026; En vigueur : 08-01-2009&gt;
+
+[<sup>2</sup> § 9. Lorsqu'un centre public d'action sociale prend une décision concernant l'aide médicale et pharmaceutique conformément à l'article 9ter, il est compétent pour accorder les secours nécessaires durant la période de validité de cette décision.
+
+Lorsque l'hospitalisation de l'intéressé dépasse la période de validité de cette décision, ce centre public d'action sociale demeure compétent pour toute la durée ininterrompue de son hospitalisation.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-12-29/01, art. 164, 029; En vigueur : 10-01-2011&gt;
+
+(2)&lt;L 2018-03-29/60, art. 2, 037; En vigueur : 11-04-2020&gt;
+
+### Art. 3
+
+&lt;L 9-7-1971, art. 4&gt; Lorsque des secours sont sollicités dans les cas prévus à l'article 2, §§ 1er et 2, (le centre public d'aide sociale) de la commune ou l'intéressé se trouve, en avise dans les cinq jours (le centre public d'aide sociale qui est compétent) conformément audit article pour accorder les secours. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+(Il) peut se substituer au (centre public d'aide sociale compétent) et aux frais de (celui-ci), soit lorsqu'aucune décision motivée de ce (centre public d'aide sociale) ne lui est parvenue dans le délai de dix jours à compter de l'envoi de l'avis, soit lorsque des secours s'imposent d'urgence. Elle est tenue d'en donner avis dans les cinq jours au (centre public d'aide sociale auquel il s'est substitué.) &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+### Art. 4
+
+&lt;L 9-7-1971, art. 5&gt; Sans préjudice des dispositions relatives au Fonds spécial d'assistance et au Fonds de soins médico-socio-pédagogiques pour handicapés, les frais résultant du traitement d'un indigent, avec ou sans hospitalisation, dans un établissement de soins sont à la charge:
+
+1° (du centre public d'aide sociale) du domicile de secours; &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+2° de l'Etat, lorsqu'il s'agit d'un indigent n'ayant pas acquis de domicile de secours.
+
+### Art. 5
+
+&lt;L 9-7-1971, art. 6&gt; (§ 1.) Sans préjudice des dispositions de l'article 4, sont à la charge de l'Etat les frais de l'assistance accordée:
+
+1° à un indigent belge, rapatrié à l'intervention du Gouvernement, par la commission d'assistance publique du lieu de remise; &lt;L 1994-05-24/39, art. 13, 1°, 010; En vigueur : 01-02-1995&gt;
+
+2° à un indigent, qui ne possède pas la nationalité belge, et ce jusqu'au jour de son inscription au registre de population;
+
+3° à un enfant âgé de moins de dix-huit ans qui, selon le cas: est né de père et mère inconnus; enfant naturel non reconnu par l'un ni l'autre de ses parents; de nationalité belge, abandonné au moment de sa naissance et dont la mère n'était pas inscrite au registre de population.
+
+(§ 2. Par dérogation au § 1er, 2°, l'Etat prend en charge 50 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, en espèces ou en nature, à l'étranger qui [<sup>1</sup> a introduit une demande d'asile conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers]<sup>1</sup> , lorsque cette personne ne réside pas : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+a) sur le territoire de la commune [<sup>1</sup> qui lui a été désignée comme lieu obligatoire d'inscription]<sup>1</sup>
+
+ni
+
+b) sur le territoire de la commune au registre des étrangers de laquelle cette personne est inscrite.
+
+L'alinéa précédent n'est pas applicable si le centre public d'aide sociale ou la commune fait la preuve qu'il ou elle a proposé sur son territoire, un logement public ou privé décent et adapté aux moyens du candidat-réfugié (ou la personne visée à l'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers). &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(La preuve de l'offre d'un logement est établie sur base de la copie du rapport social accompagné des preuves tangibles de l'offre, par le C.P.A.S., d'un logement décent et adapté, et du refus de celle-ci par l'intéressé.) &lt;L 2002-12-24/31, art. 380, 021; En vigueur : 10-01-2003&gt;
+
+Si plusieurs communes, voisines ou très proches, comprenant ensemble un maximum de vingt cinq mille habitants, ou les centres publics d'aide sociale de ces communes, collaborent par convention pour organiser l'offre de logement aux candidats-réfugiés (ou les personnes visées à l'article 54, § 1, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers), le logement offert à un de ces candidats (ou personnes) sur le territoire d'une de ces communes est censé être offert sur le territoire de la commune collaborante ou de la commune dont le centre public d'aide sociale collabore, déterminé comme indiqué à l'alinéa 1er, a, ou visées à l'alinéa 1er, b, pour autant que : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+1° chacune des communes et chacun des centres publics d'aide sociales concernés ne soient parties qu'à une seule de ces conventions de collaboration, et que
+
+2° si une commune et le centre public d'aide sociale de cette commune participent à une telle collaboration, ils soient parties à une seule et même convention.
+
+(La disposition de l'alinéa 1er reste applicable jusqu'à ce que le candidat est reconnu réfugié ou jusqu'à ce que le candidat ou la personne bénéficie de l'aide sociale en application de l'article 57, § 2, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale.) &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(§ 2bis. Par dérogation au § 1er, 2°, l'Etat prend en charge 0 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, octroyée en espèces ou en nature aux étrangers qui se sont déclarés réfugiés ou qui ont demandé à être reconnus en tant que tels, lorsque l'absence de mesures suffisantes prises par le C.P.A.S. en vue de favoriser l'accueil de ces étrangers sur le territoire de sa commune, a pour conséquence d'inciter ceux-ci à s'installer sur le territoire d'une autre commune.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les modalités permettant d'évaluer quand il y a absence de mesures suffisantes d'accueil de ces étrangers et les preuves admissibles pour réfuter l'absence de mesures suffisantes.) &lt;L 2002-12-24/31, art. 381, 021; En vigueur : 10-01-2003&gt;
+
+[<sup>2</sup> § 2ter. [<sup>3</sup> Entre le 4 mars 2022 et le [<sup>4</sup> 30 septembre 2023]<sup>4</sup>, une subvention complémentaire du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit pour la première fois, l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. Cette subvention complémentaire s'élève à 35 % du montant de l'aide sociale financière subventionné pour les quatre premiers mois de l'octroi de l'aide sociale financière. A partir du cinquième mois de l'octroi de l'aide sociale financière, la subvention complémentaire s'élève à 25 % du montant de l'aide sociale financière subventionné.]<sup>3</sup>
+
+[<sup>4</sup> à partir du 1er octobre 2023, une subvention complémentaire de 10 % du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers lorsqu'il existe un projet individualisé d'intégration sociale au sens de l'article 2 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.]<sup>4</sup>
+
+§ 3. (Lorsqu'il est fait application du § 2, alinéa 1er, ou § 2 bis du présent article, l'Etat répartit un montant équivalent à la différence entre les remboursements effectués en vertu de ces dispositions et les remboursements qui auraient dû être effectués si, par hypothèse, le § 1er, 2°, avait été applicable, entre les centres publics d'aide sociale des communes sous le nom desquelles le ministre compétent ou son représentant ne peut pas inscrire de candidats supplémentaires dans le registre d'attente, en vertu des critères de répartition harmonieuse visés à l'article 54, § 1er, alinéa 3,2°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
+
+Le Roi fixe les modalités de cette répartition.) &lt;L 1999-12-24/36, art. 123, 016; En vigueur : 10-01-2000&gt;
+
+§ 4 (Une subvention est due au centre public d'aide sociale lorsque celui-ci intervient financièrement, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, dans les frais liés à l'insertion professionnelle d'une personne de nationalité étrangère, inscrite au registre des étrangers, qui en raison de sa nationalité, n'a pas droit à l'intégration sociale et qui a droit à une aide sociale financière, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale. La subvention est égale au montant de l'intervention financière.) &lt;L 2003-12-22/42, art. 485, 022; En vigueur : 10-01-2004&gt;
+
+§ 4bis. Une subvention est due au centre et est égale au montant du revenu d'intégration visé à l'article 14, § 1er, 4°, de la loi du 26 mai 2002 concernant le droit à l'intégration sociale, lorsque ce dernier agit en qualité d'employeur en application de l'article 60, § 7, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale pour une personne visée au § 4.
+
+La subvention reste due au centre public d'aide sociale jusqu'au terme du contrat de travail, même si la situation familiale ou financière du travailleur concerne se modifie pendant la durée du contrat de travail ou s'il s'établit dans un autre commune.
+
+Le Roi fixe le montant de la subvention en cas d'occupation à temps partiel, ainsi que les conditions d'octroi de cette subvention.
+
+Il peut également porter le montant de la subvention à un montant supérieur et en fixer les conditions pour des initiatives spécifiques d'insertion sociale.
+
+§ 4ter. Une subvention est due au centre public d'aide sociale lorsque celui-ci conclut pour une personne visée au § 4, une convention en matière d'emploi avec une entreprise privée en application de l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
+
+Cette subvention doit entièrement être consacrée a l'encadrement ou à la formation dans l'entreprise ou au sein du centre de la personne visée au § 4.
+
+Le Roi fixe, par arrêté délibéré en Conseil des Ministres, le montant de la subvention visée à l'alinéa 1er, de même que les conditions, la durée et les modalités selon lesquelles cette subvention est accordée.
+
+§ 4quater. Le Roi peut, par arrêté délibéré en Conseil des Ministres, déterminer certaines catégories de personnes de nationalité étrangère, pour lesquelles la subvention, visée aux §§ 4 à 4ter , est due au centre public d'aide sociale lorsqu'une mise au travail des intéressés s'effectue dans les mêmes conditions que celles fixées aux dites §§ 4 à 4ter.) &lt;L 2002-08-02/45, art. 189, 020; En vigueur : 01-10-2002&gt;
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 31, 028; En vigueur : 20-05-2010&gt;
+
+(2)&lt;L 2016-11-21/15, art. 2, 033; En vigueur : 01-01-2016&gt;
+
+(3)&lt;L 2022-05-18/18, art. 2, 038; En vigueur : 04-03-2022&gt;
+
+(4)&lt;L 2023-07-04/01, art. 6, 039; En vigueur : 21-07-2023&gt;
+
+### Art. 5_REGION_WALLONNE
+
+&lt;L 9-7-1971, art. 6&gt; (§ 1.) Sans préjudice des dispositions de l'article 4, sont à la charge de l'Etat les frais de l'assistance accordée:
+
+1° à un indigent belge, rapatrié à l'intervention du Gouvernement, par la commission d'assistance publique du lieu de remise; &lt;L 1994-05-24/39, art. 13, 1°, 010; En vigueur : 01-02-1995&gt;
+
+2° à un indigent, qui ne possède pas la nationalité belge, et ce jusqu'au jour de son inscription au registre de population;
+
+3° à un enfant âgé de moins de dix-huit ans qui, selon le cas: est né de père et mère inconnus; enfant naturel non reconnu par l'un ni l'autre de ses parents; de nationalité belge, abandonné au moment de sa naissance et dont la mère n'était pas inscrite au registre de population.
+
+(§ 2. Par dérogation au § 1er, 2°, l'Etat prend en charge 50 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, en espèces ou en nature, à l'étranger qui [<sup>1</sup> a introduit une demande d'asile conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers]<sup>1</sup> , lorsque cette personne ne réside pas : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+a) sur le territoire de la commune [<sup>1</sup> qui lui a été désignée comme lieu obligatoire d'inscription]<sup>1</sup>
+
+ni
+
+b) sur le territoire de la commune au registre des étrangers de laquelle cette personne est inscrite.
+
+L'alinéa précédent n'est pas applicable si le centre public d'aide sociale ou la commune fait la preuve qu'il ou elle a proposé sur son territoire, un logement public ou privé décent et adapté aux moyens du candidat-réfugié (ou la personne visée à l'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers). &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(La preuve de l'offre d'un logement est établie sur base de la copie du rapport social accompagné des preuves tangibles de l'offre, par le C.P.A.S., d'un logement décent et adapté, et du refus de celle-ci par l'intéressé.) &lt;L 2002-12-24/31, art. 380, 021; En vigueur : 10-01-2003&gt;
+
+Si plusieurs communes, voisines ou très proches, comprenant ensemble un maximum de vingt cinq mille habitants, ou les centres publics d'aide sociale de ces communes, collaborent par convention pour organiser l'offre de logement aux candidats-réfugiés (ou les personnes visées à l'article 54, § 1, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers), le logement offert à un de ces candidats (ou personnes) sur le territoire d'une de ces communes est censé être offert sur le territoire de la commune collaborante ou de la commune dont le centre public d'aide sociale collabore, déterminé comme indiqué à l'alinéa 1er, a, ou visées à l'alinéa 1er, b, pour autant que : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+1° chacune des communes et chacun des centres publics d'aide sociales concernés ne soient parties qu'à une seule de ces conventions de collaboration, et que
+
+2° si une commune et le centre public d'aide sociale de cette commune participent à une telle collaboration, ils soient parties à une seule et même convention.
+
+(La disposition de l'alinéa 1er reste applicable jusqu'à ce que le candidat est reconnu réfugié ou jusqu'à ce que le candidat ou la personne bénéficie de l'aide sociale en application de l'article 57, § 2, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale.) &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(§ 2bis. Par dérogation au § 1er, 2°, l'Etat prend en charge 0 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, octroyée en espèces ou en nature aux étrangers qui se sont déclarés réfugiés ou qui ont demandé à être reconnus en tant que tels, lorsque l'absence de mesures suffisantes prises par le C.P.A.S. en vue de favoriser l'accueil de ces étrangers sur le territoire de sa commune, a pour conséquence d'inciter ceux-ci à s'installer sur le territoire d'une autre commune.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les modalités permettant d'évaluer quand il y a absence de mesures suffisantes d'accueil de ces étrangers et les preuves admissibles pour réfuter l'absence de mesures suffisantes.) &lt;L 2002-12-24/31, art. 381, 021; En vigueur : 10-01-2003&gt;
+
+[<sup>2</sup> § 2ter. [<sup>3</sup> Entre le 4 mars 2022 et le [<sup>4</sup> 30 septembre 2023]<sup>4</sup>, une subvention complémentaire du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit pour la première fois, l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. Cette subvention complémentaire s'élève à 35 % du montant de l'aide sociale financière subventionné pour les quatre premiers mois de l'octroi de l'aide sociale financière. A partir du cinquième mois de l'octroi de l'aide sociale financière, la subvention complémentaire s'élève à 25 % du montant de l'aide sociale financière subventionné.]<sup>3</sup>
+
+[<sup>4</sup> à partir du 1er octobre 2023, une subvention complémentaire de 10 % du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers lorsqu'il existe un projet individualisé d'intégration sociale au sens de l'article 2 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.]<sup>4</sup>
+
+§ 3. (Lorsqu'il est fait application du § 2, alinéa 1er, ou § 2 bis du présent article, l'Etat répartit un montant équivalent à la différence entre les remboursements effectués en vertu de ces dispositions et les remboursements qui auraient dû être effectués si, par hypothèse, le § 1er, 2°, avait été applicable, entre les centres publics d'aide sociale des communes sous le nom desquelles le ministre compétent ou son représentant ne peut pas inscrire de candidats supplémentaires dans le registre d'attente, en vertu des critères de répartition harmonieuse visés à l'article 54, § 1er, alinéa 3,2°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
+
+Le Roi fixe les modalités de cette répartition.) &lt;L 1999-12-24/36, art. 123, 016; En vigueur : 10-01-2000&gt;
+
+§ 4 (Une subvention est due au centre public d'aide sociale lorsque celui-ci intervient financièrement, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, dans les frais liés à l'insertion professionnelle d'une personne de nationalité étrangère, inscrite au registre des étrangers, qui en raison de sa nationalité, n'a pas droit à l'intégration sociale et qui a droit à une aide sociale financière, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale. La subvention est égale au montant de l'intervention financière.) &lt;L 2003-12-22/42, art. 485, 022; En vigueur : 10-01-2004&gt;
+
+§ 4bis. [<sup>5</sup> Une subvention forfaitaire de 2 433 euros par mois pour une occupation à temps plein est due au centre lorsqu'il agit en qualité d'employeur en application de l'article 60, § 7, de la loi du 8 juillet 1976 organique des centres publics d'action sociale pour une personne visée au paragraphe 4.
+
+Par dérogation à l'alinéa 1er, dans les limites des crédits budgétaires et selon les modalités que le Gouvernement détermine, une subvention forfaitaire majorée de 2 935 euros par mois pour une occupation à temps plein est octroyée pour la mise à disposition du travailleur auprès d'initiatives d'économie sociale. L'utilisateur ne complète pas la subvention en versant une contrepartie financière au centre.
+
+La mise à disposition visée à l'alinéa 2 se fait au sein des activités pour lesquelles l'initiative d'économie sociale est agréée.
+
+Le centre ne rétrocède pas la subvention visée aux alinéas 1er et 2 tout ou en partie à l'utilisateur.
+
+La subvention visée aux alinéas 1er et 2 est forfaitaire, ce qui signifie qu'elle est destinée au payement :
+
+1° du coût relatif à l'engagement du travailleur;
+
+2° des frais d'accompagnement par le centre;
+
+3° des frais d'encadrement et de formation si le travailleur est occupé par le centre.
+
+En cas de mise à disposition, les frais d'encadrement et de formation sont à charge de l'utilisateur.
+
+En application de l'alinéa 5, le Gouvernement définit les dépenses admises en justification de la subvention.
+
+En cas de mise à disposition, l'utilisateur complète la subvention visée à l'alinéa 1er par une contrepartie financière qu'il verse au centre et dont le montant est de :
+
+1° dix à vingt pour cent du montant de la subvention visée à l'alinéa 1er lorsque la mise à disposition se fait chez un utilisateur du secteur non marchand;
+
+2° trente à quarante pour cent du montant de la subvention visée à l'alinéa 1er lorsque la mise à disposition se fait chez un utilisateur du secteur marchand.
+
+Le Gouvernement peut modifier les fourchettes visées à l'alinéa 7, 1° et 2°.
+
+Le montant de la contrepartie financière est précisé dans la convention visée à l'article 60, § 7, alinéa 5, de la loi du 8 juillet 1976 organique des centres publics d'action sociale.
+
+La durée d'octroi de la subvention visée à l'alinéa 1er et 2 ne dépasse pas :
+
+1° la durée nécessaire pour l'obtention du bénéfice complet d'allocations sociales;
+
+2° six mois lorsque le contrat de travail porte sur un régime de travail à temps partiel qui ne permet pas l'obtention du bénéficie complet des allocations visées à l'alinéa 10, 1°.
+
+La subvention est due au centre jusqu'au terme des périodes visées à l'alinéa 10, 1° et 2°, même si la situation familiale ou financière de l'ayant droit mis au travail est modifiée pendant la durée du contrat de travail ou s'il s'établit dans une autre commune. Le régime de travail n'est pas inférieur à un mi-temps.
+
+Par dérogation à l'alinéa 13, le régime de travail peut être inférieur à un mi-temps si le contrat de travail complète un autre contrat de travail à temps partiel et permet au travailleur l'obtention du bénéfice complet d'allocations sociales.
+
+Le Gouvernement définit les conditions d'octroi des subventions visées aux alinéas 1er et 2.
+
+Le Gouvernement précise les limites d'octroi des subventions visées à l'alinéa 2]<sup>5</sup>.
+
+§ 4ter. [<sup>5</sup> Une subvention forfaitaire de 2 433 euros par mois pour une occupation à temps plein est due au centre lorsqu'il conclut pour un bénéficiaire visé au paragraphe 4 une convention en matière d'emploi en application de l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'action sociale.
+
+Par dérogation à l'alinéa 1er, dans les limites des crédits budgétaires et selon les modalités que le Gouvernement détermine, une subvention forfaitaire majorée de 2 935 euros par mois pour une occupation à temps plein est octroyée pour la mise à l'emploi du travailleur auprès d'initiatives d'économie sociale.
+
+La mise à l'emploi visée à l'alinéa 2 se fait au sein des activités pour lesquelles l'initiative d'économie sociale est agréée.
+
+La subvention forfaitaire visée à l'alinéa 1er est destinée au payement :
+
+1° du coût relatif à l'engagement du travailleur;
+
+2° des frais d'accompagnement par le centre;
+
+3° des frais d'encadrement; 4° des frais de formation.
+
+Le centre rétrocède à l'employeur article 61, sans qu'il ne puisse être supérieur au coût de la rémunération du travailleur, un montant correspondant :
+
+1° au montant de la subvention duquel est déduit un montant égal à dix à vingt pour cent du montant de la subvention visée à l'alinéa 1er, lorsque la mise à l'emploi se fait au sein du secteur non marchand;
+
+2° au montant de la subvention duquel est déduit un montant égal à trente à quarante pour cent du montant de la subvention visée à l'alinéa 1er lorsque la mise à l'emploi se fait au sein du secteur marchand;
+
+3° au montant de le subvention visée à l'alinéa 2 lorsque la mise à l'emploi se fait au sein d'une initiative d'économie sociale.
+
+Le Gouvernement peut modifier les montants visés à l'alinéa 5, 1° et 2°.
+
+Le montant de la rétrocession est précisé dans la convention visée à l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'action sociale.
+
+En application de l'alinéa 1er, le Gouvernement définit les dépenses admises en justification de la subvention ainsi que les modalités de rétrocession de la subvention à l'employeur article 61.
+
+La durée d'octroi de la subvention visée à l'alinéa 1er ne dépasse pas :
+
+1° la durée nécessaire pour l'obtention du bénéfice complet d'allocations sociales;
+
+2° six mois lorsque le contrat de travail porte sur un régime de travail à temps partiel qui ne permet pas l'obtention du bénéficie complet des allocations visées à l'alinéa 9, 1°.
+
+La subvention est due au centre jusqu'au terme des périodes visées à l'alinéa 9, 1° et 2°, même si la situation familiale ou financière du travailleur est modifiée pendant la durée du contrat de travail ou s'il s'établit dans une autre commune.
+
+L'engagement prend la forme d'un contrat de travail tel que visé par la loi du 3 juillet 1978 relative aux contrats de travail. Le régime de travail n'est pas inférieur à un mi-temps.
+
+Par dérogation à l'alinéa 12, le régime de travail peut être inférieur à un mi-temps si le contrat de travail complète un autre contrat de travail à temps partiel et permet au travailleur l'obtention du bénéfice complet d'allocations sociales.
+
+Le Gouvernement définit les conditions d'octroi de la subvention visée à l'alinéa 1er]<sup>5</sup>.
+
+§ 4quater. Le Roi peut, par arrêté délibéré en Conseil des Ministres, déterminer certaines catégories de personnes de nationalité étrangère, pour lesquelles la subvention, visée aux §§ 4 à 4ter , est due au centre public d'aide sociale lorsqu'une mise au travail des intéressés s'effectue dans les mêmes conditions que celles fixées aux dites §§ 4 à 4ter.) &lt;L 2002-08-02/45, art. 189, 020; En vigueur : 01-10-2002&gt;
+
+[<sup>5</sup> § 4quinquies. La surveillance et le contrôle de l'article 5, § § 4bis et 4ter sont exercés conformément aux dispositions prévues par ou en vertu de l'article 14 du décret du 29 avril 2024relatif à l'octroi de subventions aux centres publics d'action sociale dans le cadre de la mise à l'emploi des bénéficiaires du droit à l'intégration sociale ou de l'aide sociale équivalente.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 31, 028; En vigueur : 20-05-2010&gt;
+
+(2)&lt;L 2016-11-21/15, art. 2, 033; En vigueur : 01-01-2016&gt;
+
+(3)&lt;L 2022-05-18/18, art. 2, 038; En vigueur : 04-03-2022&gt;
+
+(4)&lt;L 2023-07-04/01, art. 6, 039; En vigueur : 21-07-2023&gt;
+
+(5)&lt;DRW 2024-04-29/21, art. 16, 041; En vigueur : 01-01-2025&gt;
+
+### Art. 5_REGION_DE_BRUXELLES-CAPITALE
+
+&lt;L 9-7-1971, art. 6&gt; (§ 1.) Sans préjudice des dispositions de l'article 4, sont à la charge de l'Etat les frais de l'assistance accordée:
+
+1° à un indigent belge, rapatrié à l'intervention du Gouvernement, par la commission d'assistance publique du lieu de remise; &lt;L 1994-05-24/39, art. 13, 1°, 010; En vigueur : 01-02-1995&gt;
+
+2° à un indigent, qui ne possède pas la nationalité belge, et ce jusqu'au jour de son inscription au registre de population;
+
+3° à un enfant âgé de moins de dix-huit ans qui, selon le cas: est né de père et mère inconnus; enfant naturel non reconnu par l'un ni l'autre de ses parents; de nationalité belge, abandonné au moment de sa naissance et dont la mère n'était pas inscrite au registre de population.
+
+(§ 2. Par dérogation au § 1er, 2°, l'Etat prend en charge 50 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, en espèces ou en nature, à l'étranger qui [<sup>1</sup> a introduit une demande d'asile conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers]<sup>1</sup> , lorsque cette personne ne réside pas : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+a) sur le territoire de la commune [<sup>1</sup> qui lui a été désignée comme lieu obligatoire d'inscription]<sup>1</sup>
+
+ni
+
+b) sur le territoire de la commune au registre des étrangers de laquelle cette personne est inscrite.
+
+L'alinéa précédent n'est pas applicable si le centre public d'aide sociale ou la commune fait la preuve qu'il ou elle a proposé sur son territoire, un logement public ou privé décent et adapté aux moyens du candidat-réfugié (ou la personne visée à l'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers). &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(La preuve de l'offre d'un logement est établie sur base de la copie du rapport social accompagné des preuves tangibles de l'offre, par le C.P.A.S., d'un logement décent et adapté, et du refus de celle-ci par l'intéressé.) &lt;L 2002-12-24/31, art. 380, 021; En vigueur : 10-01-2003&gt;
+
+Si plusieurs communes, voisines ou très proches, comprenant ensemble un maximum de vingt cinq mille habitants, ou les centres publics d'aide sociale de ces communes, collaborent par convention pour organiser l'offre de logement aux candidats-réfugiés (ou les personnes visées à l'article 54, § 1, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers), le logement offert à un de ces candidats (ou personnes) sur le territoire d'une de ces communes est censé être offert sur le territoire de la commune collaborante ou de la commune dont le centre public d'aide sociale collabore, déterminé comme indiqué à l'alinéa 1er, a, ou visées à l'alinéa 1er, b, pour autant que : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+1° chacune des communes et chacun des centres publics d'aide sociales concernés ne soient parties qu'à une seule de ces conventions de collaboration, et que
+
+2° si une commune et le centre public d'aide sociale de cette commune participent à une telle collaboration, ils soient parties à une seule et même convention.
+
+(La disposition de l'alinéa 1er reste applicable jusqu'à ce que le candidat est reconnu réfugié ou jusqu'à ce que le candidat ou la personne bénéficie de l'aide sociale en application de l'article 57, § 2, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale.) &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(§ 2bis. Par dérogation au § 1er, 2°, l'Etat prend en charge 0 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, octroyée en espèces ou en nature aux étrangers qui se sont déclarés réfugiés ou qui ont demandé à être reconnus en tant que tels, lorsque l'absence de mesures suffisantes prises par le C.P.A.S. en vue de favoriser l'accueil de ces étrangers sur le territoire de sa commune, a pour conséquence d'inciter ceux-ci à s'installer sur le territoire d'une autre commune.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les modalités permettant d'évaluer quand il y a absence de mesures suffisantes d'accueil de ces étrangers et les preuves admissibles pour réfuter l'absence de mesures suffisantes.) &lt;L 2002-12-24/31, art. 381, 021; En vigueur : 10-01-2003&gt;
+
+[<sup>2</sup> § 2ter. [<sup>5</sup> Entre le 4 mars 2022 et le [<sup>6</sup> 30 septembre 2023]<sup>6</sup>, une subvention complémentaire du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit pour la première fois, l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. Cette subvention complémentaire s'élève à 35 % du montant de l'aide sociale financière subventionné pour les quatre premiers mois de l'octroi de l'aide sociale financière. A partir du cinquième mois de l'octroi de l'aide sociale financière, la subvention complémentaire s'élève à 25 % du montant de l'aide sociale financière subventionné.]<sup>5</sup>
+
+[<sup>6</sup> à partir du 1er octobre 2023, une subvention complémentaire de 10 % du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers lorsqu'il existe un projet individualisé d'intégration sociale au sens de l'article 2 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.]<sup>6</sup>
+
+§ 3. (Lorsqu'il est fait application du § 2, alinéa 1er, ou § 2 bis du présent article, l'Etat répartit un montant équivalent à la différence entre les remboursements effectués en vertu de ces dispositions et les remboursements qui auraient dû être effectués si, par hypothèse, le § 1er, 2°, avait été applicable, entre les centres publics d'aide sociale des communes sous le nom desquelles le ministre compétent ou son représentant ne peut pas inscrire de candidats supplémentaires dans le registre d'attente, en vertu des critères de répartition harmonieuse visés à l'article 54, § 1er, alinéa 3,2°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
+
+Le Roi fixe les modalités de cette répartition.) &lt;L 1999-12-24/36, art. 123, 016; En vigueur : 10-01-2000&gt;
+
+§ 4 (Une subvention est due au centre public d'aide sociale lorsque celui-ci intervient financièrement, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, dans les frais liés à l'insertion professionnelle d'une personne de nationalité étrangère, inscrite au registre des étrangers, qui en raison de sa nationalité, n'a pas droit à l'intégration sociale et qui a droit à une aide sociale financière, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale. La subvention est égale au montant de l'intervention financière.) &lt;L 2003-12-22/42, art. 485, 022; En vigueur : 10-01-2004&gt;
+
+§ 4bis. [<sup>4</sup> Une subvention est due au centre et est égale au montant du revenu d'intégration visé à l'article 14, § er, 3°, de la loi du 26 mai 2002 concernant le droit à l'intégration sociale, lorsque ce dernier agit en qualité d'employeur en application de l'article 60, § 7, alinéa 2, de la loi organique du 8 juillet 1976 des centres publics d'action sociale pour une personne visée au § 4.
+
+La subvention reste due au centre public d'action sociale jusqu'au terme du contrat de travail, même si la situation familiale ou financière du travailleur concerné se modifie pendant la durée du contrat de travail ou s'il s'établit dans une autre commune.
+
+Le Gouvernement de la Région de Bruxelles-Capitale fixe le montant ainsi que les conditions d'octroi de la subvention en cas d'occupation à temps partiel.
+
+Il peut majorer la subvention pour certains utilisateurs, notamment pour les entreprises sociales d'insertion ainsi que pour certaines catégories d'ayants droit déterminés par le Gouvernement de la Région de Bruxelles-Capitale.]<sup>4</sup>
+
+§ 4ter. [<sup>4</sup> Une subvention est due au centre lorsqu'il prévoit des frais spécifiques de formation dans le cadre de l'emploi visé à l'article 60, § 7, alinéa 2, de la loi organique du 8 juillet 1976 des centres publics d'action sociale.
+
+Le Gouvernement de la Région de Bruxelles-Capitale fixe le montant et les modalités d'octroi de cette subvention.]<sup>4</sup>
+
+§ 4quater. Le Roi peut, par arrêté délibéré en Conseil des Ministres, déterminer certaines catégories de personnes de nationalité étrangère, pour lesquelles la subvention, visée aux §§ 4 à 4ter , est due au centre public d'aide sociale lorsqu'une mise au travail des intéressés s'effectue dans les mêmes conditions que celles fixées aux dites §§ 4 à 4ter.) &lt;L 2002-08-02/45, art. 189, 020; En vigueur : 01-10-2002&gt;
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 31, 028; En vigueur : 20-05-2010&gt;
+
+(2)&lt;L 2016-11-21/15, art. 2, 033; En vigueur : 01-01-2016&gt;
+
+(3)&lt;ORD 2017-06-23/24, art. 7, 035; En vigueur : 01-10-2017&gt;
+
+(4)&lt;ORD 2019-03-28/04, art. 6, 036; En vigueur : 01-01-2020&gt;
+
+(5)&lt;L 2022-05-18/18, art. 2, 038; En vigueur : 04-03-2022&gt;
+
+(6)&lt;L 2023-07-04/01, art. 6, 039; En vigueur : 21-07-2023&gt;
+
+### Art. 5_REGION_FLAMANDE
+
+&lt;L 9-7-1971, art. 6&gt; (§ 1.) Sans préjudice des dispositions de l'article 4, sont à la charge de l'Etat les frais de l'assistance accordée:
+
+1° à un indigent belge, rapatrié à l'intervention du Gouvernement, par la commission d'assistance publique du lieu de remise; &lt;L 1994-05-24/39, art. 13, 1°, 010; En vigueur : 01-02-1995&gt;
+
+2° à un indigent, qui ne possède pas la nationalité belge, et ce jusqu'au jour de son inscription au registre de population;
+
+3° à un enfant âgé de moins de dix-huit ans qui, selon le cas: est né de père et mère inconnus; enfant naturel non reconnu par l'un ni l'autre de ses parents; de nationalité belge, abandonné au moment de sa naissance et dont la mère n'était pas inscrite au registre de population.
+
+(§ 2. Par dérogation au § 1er, 2°, l'Etat prend en charge 50 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, en espèces ou en nature, à l'étranger qui [<sup>1</sup> a introduit une demande d'asile conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers]<sup>1</sup> , lorsque cette personne ne réside pas : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+a) sur le territoire de la commune [<sup>1</sup> qui lui a été désignée comme lieu obligatoire d'inscription]<sup>1</sup>
+
+ni
+
+b) sur le territoire de la commune au registre des étrangers de laquelle cette personne est inscrite.
+
+L'alinéa précédent n'est pas applicable si le centre public d'aide sociale ou la commune fait la preuve qu'il ou elle a proposé sur son territoire, un logement public ou privé décent et adapté aux moyens du candidat-réfugié (ou la personne visée à l'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers). &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(La preuve de l'offre d'un logement est établie sur base de la copie du rapport social accompagné des preuves tangibles de l'offre, par le C.P.A.S., d'un logement décent et adapté, et du refus de celle-ci par l'intéressé.) &lt;L 2002-12-24/31, art. 380, 021; En vigueur : 10-01-2003&gt;
+
+Si plusieurs communes, voisines ou très proches, comprenant ensemble un maximum de vingt cinq mille habitants, ou les centres publics d'aide sociale de ces communes, collaborent par convention pour organiser l'offre de logement aux candidats-réfugiés (ou les personnes visées à l'article 54, § 1, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers), le logement offert à un de ces candidats (ou personnes) sur le territoire d'une de ces communes est censé être offert sur le territoire de la commune collaborante ou de la commune dont le centre public d'aide sociale collabore, déterminé comme indiqué à l'alinéa 1er, a, ou visées à l'alinéa 1er, b, pour autant que : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+1° chacune des communes et chacun des centres publics d'aide sociales concernés ne soient parties qu'à une seule de ces conventions de collaboration, et que
+
+2° si une commune et le centre public d'aide sociale de cette commune participent à une telle collaboration, ils soient parties à une seule et même convention.
+
+(La disposition de l'alinéa 1er reste applicable jusqu'à ce que le candidat est reconnu réfugié ou jusqu'à ce que le candidat ou la personne bénéficie de l'aide sociale en application de l'article 57, § 2, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale.) &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(§ 2bis. Par dérogation au § 1er, 2°, l'Etat prend en charge 0 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, octroyée en espèces ou en nature aux étrangers qui se sont déclarés réfugiés ou qui ont demandé à être reconnus en tant que tels, lorsque l'absence de mesures suffisantes prises par le C.P.A.S. en vue de favoriser l'accueil de ces étrangers sur le territoire de sa commune, a pour conséquence d'inciter ceux-ci à s'installer sur le territoire d'une autre commune.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les modalités permettant d'évaluer quand il y a absence de mesures suffisantes d'accueil de ces étrangers et les preuves admissibles pour réfuter l'absence de mesures suffisantes.) &lt;L 2002-12-24/31, art. 381, 021; En vigueur : 10-01-2003&gt;
+
+[<sup>2</sup> § 2ter. [<sup>4</sup> Entre le 4 mars 2022 et le [<sup>5</sup> 30 septembre 2023]<sup>5</sup>, une subvention complémentaire du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit pour la première fois, l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. Cette subvention complémentaire s'élève à 35 % du montant de l'aide sociale financière subventionné pour les quatre premiers mois de l'octroi de l'aide sociale financière. A partir du cinquième mois de l'octroi de l'aide sociale financière, la subvention complémentaire s'élève à 25 % du montant de l'aide sociale financière subventionné.]<sup>4</sup>
+
+[<sup>5</sup> à partir du 1er octobre 2023, une subvention complémentaire de 10 % du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers lorsqu'il existe un projet individualisé d'intégration sociale au sens de l'article 2 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.]<sup>5</sup>
+
+§ 3. (Lorsqu'il est fait application du § 2, alinéa 1er, ou § 2 bis du présent article, l'Etat répartit un montant équivalent à la différence entre les remboursements effectués en vertu de ces dispositions et les remboursements qui auraient dû être effectués si, par hypothèse, le § 1er, 2°, avait été applicable, entre les centres publics d'aide sociale des communes sous le nom desquelles le ministre compétent ou son représentant ne peut pas inscrire de candidats supplémentaires dans le registre d'attente, en vertu des critères de répartition harmonieuse visés à l'article 54, § 1er, alinéa 3,2°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
+
+Le Roi fixe les modalités de cette répartition.) &lt;L 1999-12-24/36, art. 123, 016; En vigueur : 10-01-2000&gt;
+
+§ 4 (Une subvention est due au centre public d'aide sociale lorsque celui-ci intervient financièrement, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, dans les frais liés à l'insertion professionnelle d'une personne de nationalité étrangère, inscrite au registre des étrangers, qui en raison de sa nationalité, n'a pas droit à l'intégration sociale et qui a droit à une aide sociale financière, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale. La subvention est égale au montant de l'intervention financière.) &lt;L 2003-12-22/42, art. 485, 022; En vigueur : 10-01-2004&gt;
+
+[<sup>3</sup> § 4bis. Le centre public d'action sociale reçoit une subvention égale au montant du revenu d'intégration sociale, visé à l'article 14, § 1er, alinéa 1er, 3°, de la loi du 26 mai 2002 concernant le droit à l'intégration sociale, si le centre précité agit en qualité d'employeur par application de l'article 60, § 7, de la loi organique du 8 juillet 1976 des centres publics d'action sociale, au profit d'une personne telle que visée au paragraphe 4 qui est employée à temps plein.
+
+La subvention n'excède pas le salaire brut de la personne employée, sans que la subvention puisse dépasser le revenu mensuel moyen minimum garanti.
+
+La subvention reste due au centre public d'action sociale jusqu'au terme du contrat de travail, même si la situation familiale ou financière du travailleur concerné se modifie pendant la durée du contrat de travail ou s'il s'établit dans une autre commune.
+
+Le Gouvernement flamand peut fixer le montant de la subvention en cas d'un emploi à temps partiel, les conditions d'octroi de cette subvention, et également augmenter le montant de la subvention et en fixer les conditions pour des initiatives spécifiques d'insertion sociale. ]<sup>3</sup>
+
+§ 4ter. Une subvention est due au centre public d'aide sociale lorsque celui-ci conclut pour une personne visée au § 4, une convention en matière d'emploi avec une entreprise privée en application de l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
+
+Cette subvention doit entièrement être consacrée a l'encadrement ou à la formation dans l'entreprise ou au sein du centre de la personne visée au § 4.
+
+Le Roi fixe, par arrêté délibéré en Conseil des Ministres, le montant de la subvention visée à l'alinéa 1er, de même que les conditions, la durée et les modalités selon lesquelles cette subvention est accordée.
+
+§ 4quater. Le Roi peut, par arrêté délibéré en Conseil des Ministres, déterminer certaines catégories de personnes de nationalité étrangère, pour lesquelles la subvention, visée aux §§ 4 à 4ter , est due au centre public d'aide sociale lorsqu'une mise au travail des intéressés s'effectue dans les mêmes conditions que celles fixées aux dites §§ 4 à 4ter.) &lt;L 2002-08-02/45, art. 189, 020; En vigueur : 01-10-2002&gt;
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 31, 028; En vigueur : 20-05-2010&gt;
+
+(2)&lt;L 2016-11-21/15, art. 2, 033; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DCFL 2016-12-09/06, art. 10, 034; En vigueur : 01-01-2017&gt;
+
+(4)&lt;L 2022-05-18/18, art. 2, 038; En vigueur : 04-03-2022&gt;
+
+(5)&lt;L 2023-07-04/01, art. 6, 039; En vigueur : 21-07-2023&gt;
+
+### Art. 5_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 9-7-1971, art. 6&gt; (§ 1.) Sans préjudice des dispositions de l'article 4, sont à la charge de l'Etat les frais de l'assistance accordée:
+
+1° à un indigent belge, rapatrié à l'intervention du Gouvernement, par la commission d'assistance publique du lieu de remise; &lt;L 1994-05-24/39, art. 13, 1°, 010; En vigueur : 01-02-1995&gt;
+
+2° à un indigent, qui ne possède pas la nationalité belge, et ce jusqu'au jour de son inscription au registre de population;
+
+3° à un enfant âgé de moins de dix-huit ans qui, selon le cas: est né de père et mère inconnus; enfant naturel non reconnu par l'un ni l'autre de ses parents; de nationalité belge, abandonné au moment de sa naissance et dont la mère n'était pas inscrite au registre de population.
+
+(§ 2. Par dérogation au § 1er, 2°, l'Etat prend en charge 50 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, en espèces ou en nature, à l'étranger qui [<sup>1</sup> a introduit une demande d'asile conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers]<sup>1</sup> , lorsque cette personne ne réside pas : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+a) sur le territoire de la commune [<sup>1</sup> qui lui a été désignée comme lieu obligatoire d'inscription]<sup>1</sup>
+
+ni
+
+b) sur le territoire de la commune au registre des étrangers de laquelle cette personne est inscrite.
+
+L'alinéa précédent n'est pas applicable si le centre public d'aide sociale ou la commune fait la preuve qu'il ou elle a proposé sur son territoire, un logement public ou privé décent et adapté aux moyens du candidat-réfugié (ou la personne visée à l'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers). &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(La preuve de l'offre d'un logement est établie sur base de la copie du rapport social accompagné des preuves tangibles de l'offre, par le C.P.A.S., d'un logement décent et adapté, et du refus de celle-ci par l'intéressé.) &lt;L 2002-12-24/31, art. 380, 021; En vigueur : 10-01-2003&gt;
+
+Si plusieurs communes, voisines ou très proches, comprenant ensemble un maximum de vingt cinq mille habitants, ou les centres publics d'aide sociale de ces communes, collaborent par convention pour organiser l'offre de logement aux candidats-réfugiés (ou les personnes visées à l'article 54, § 1, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers), le logement offert à un de ces candidats (ou personnes) sur le territoire d'une de ces communes est censé être offert sur le territoire de la commune collaborante ou de la commune dont le centre public d'aide sociale collabore, déterminé comme indiqué à l'alinéa 1er, a, ou visées à l'alinéa 1er, b, pour autant que : &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+1° chacune des communes et chacun des centres publics d'aide sociales concernés ne soient parties qu'à une seule de ces conventions de collaboration, et que
+
+2° si une commune et le centre public d'aide sociale de cette commune participent à une telle collaboration, ils soient parties à une seule et même convention.
+
+(La disposition de l'alinéa 1er reste applicable jusqu'à ce que le candidat est reconnu réfugié ou jusqu'à ce que le candidat ou la personne bénéficie de l'aide sociale en application de l'article 57, § 2, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale.) &lt;L 1999-05-07/39, art. 5, 015; En vigueur : 18-04-1999&gt;
+
+(§ 2bis. Par dérogation au § 1er, 2°, l'Etat prend en charge 0 % de l'aide sociale accordée dans les limites fixées en vertu de l'article 11, § 2, octroyée en espèces ou en nature aux étrangers qui se sont déclarés réfugiés ou qui ont demandé à être reconnus en tant que tels, lorsque l'absence de mesures suffisantes prises par le C.P.A.S. en vue de favoriser l'accueil de ces étrangers sur le territoire de sa commune, a pour conséquence d'inciter ceux-ci à s'installer sur le territoire d'une autre commune.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les modalités permettant d'évaluer quand il y a absence de mesures suffisantes d'accueil de ces étrangers et les preuves admissibles pour réfuter l'absence de mesures suffisantes.) &lt;L 2002-12-24/31, art. 381, 021; En vigueur : 10-01-2003&gt;
+
+[<sup>3</sup> § 2ter. [<sup>4</sup> Entre le 4 mars 2022 et le [<sup>5</sup> 30 septembre 2023]<sup>5</sup>, une subvention complémentaire du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit pour la première fois, l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. Cette subvention complémentaire s'élève à 35 % du montant de l'aide sociale financière subventionné pour les quatre premiers mois de l'octroi de l'aide sociale financière. A partir du cinquième mois de l'octroi de l'aide sociale financière, la subvention complémentaire s'élève à 25 % du montant de l'aide sociale financière subventionné.]<sup>4</sup>
+
+[<sup>5</sup> à partir du 1er octobre 2023, une subvention complémentaire de 10 % du montant des frais de l'aide sociale financière pris en charge par l'Etat conformément à l'article 11, § 2, est due au centre public d'action sociale pour chaque personne qui perçoit l'aide sociale financière en qualité de bénéficiaire de la protection temporaire au sens du titre II, chapitre IIbis (articles 57/29 à 57/36) de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers lorsqu'il existe un projet individualisé d'intégration sociale au sens de l'article 2 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.]<sup>5</sup>
+
+§ 3. (Lorsqu'il est fait application du § 2, alinéa 1er, ou § 2 bis du présent article, l'Etat répartit un montant équivalent à la différence entre les remboursements effectués en vertu de ces dispositions et les remboursements qui auraient dû être effectués si, par hypothèse, le § 1er, 2°, avait été applicable, entre les centres publics d'aide sociale des communes sous le nom desquelles le ministre compétent ou son représentant ne peut pas inscrire de candidats supplémentaires dans le registre d'attente, en vertu des critères de répartition harmonieuse visés à l'article 54, § 1er, alinéa 3,2°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
+
+Le Roi fixe les modalités de cette répartition.) &lt;L 1999-12-24/36, art. 123, 016; En vigueur : 10-01-2000&gt;
+
+§ 4 (Une subvention est due au centre public d'aide sociale lorsque celui-ci intervient financièrement, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, dans les frais liés à l'insertion professionnelle d'une personne de nationalité étrangère, inscrite au registre des étrangers, qui en raison de sa nationalité, n'a pas droit à l'intégration sociale et qui a droit à une aide sociale financière, en application de l'article 57quater de la loi du 8 juillet 1976 organique des centres publics d'aide sociale. La subvention est égale au montant de l'intervention financière.) &lt;L 2003-12-22/42, art. 485, 022; En vigueur : 10-01-2004&gt;
+
+§ 4bis. Une subvention est due au centre et est égale au montant du revenu d'intégration visé à l'article 14, § 1er, 4°, de la loi du 26 mai 2002 concernant le droit à l'intégration sociale, lorsque ce dernier agit en qualité d'employeur en application de l'article 60, § 7, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale pour une personne visée au § 4.
+
+La subvention reste due au centre public d'aide sociale jusqu'au terme du contrat de travail, même si la situation familiale ou financière du travailleur concerne se modifie pendant la durée du contrat de travail ou s'il s'établit dans un autre commune.
+
+[<sup>2</sup> Le Gouvernement]<sup>2</sup> fixe le montant de la subvention en cas d'occupation à temps partiel, ainsi que les conditions d'octroi de cette subvention.
+
+Il peut également porter le montant de la subvention à un montant supérieur et en fixer les conditions pour des initiatives spécifiques d'insertion sociale.
+
+§ 4ter. Une subvention est due au centre public d'aide sociale lorsque celui-ci conclut pour une personne visée au § 4, une convention en matière d'emploi avec une entreprise privée en application de l'article 61 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
+
+Cette subvention doit entièrement être consacrée a l'encadrement ou à la formation dans l'entreprise ou au sein du centre de la personne visée au § 4.
+
+[<sup>2</sup> Le Gouvernement fixe]<sup>2</sup> le montant de la subvention visée à l'alinéa 1er, de même que les conditions, la durée et les modalités selon lesquelles cette subvention est accordée.
+
+§ 4quater. Le Roi peut, par arrêté délibéré en Conseil des Ministres, déterminer certaines catégories de personnes de nationalité étrangère, pour lesquelles la subvention, visée aux §§ 4 à 4ter , est due au centre public d'aide sociale lorsqu'une mise au travail des intéressés s'effectue dans les mêmes conditions que celles fixées aux dites §§ 4 à 4ter.) &lt;L 2002-08-02/45, art. 189, 020; En vigueur : 01-10-2002&gt;
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 31, 028; En vigueur : 20-05-2010&gt;
+
+(2)&lt;DCG 2016-04-25/10, art. 16, 031; En vigueur : 01-01-2016&gt;
+
+(3)&lt;L 2016-11-21/15, art. 2, 033; En vigueur : 01-01-2016&gt;
+
+(4)&lt;L 2022-05-18/18, art. 2, 038; En vigueur : 04-03-2022&gt;
+
+(5)&lt;L 2023-07-04/01, art. 6, 039; En vigueur : 21-07-2023&gt;
+
+### Art. 5bis
+
+(Abrogé implicitement) &lt;L 1994-05-24/39, art. 14, 010; En vigueur : 01-02-1995&gt;
+
+### Art. 6
+
+&lt;L 9-7-1971, art. 7&gt; Est inopérant pour l'acquisition d'un nouveau domicile de secours le séjour, en qualité d'indigent ou non, soit dans un établissement de soins, soit dans un établissement ou chez une personne privée visés à l'article 2, § 1er, de la présente loi.
+
+### Art. 7
+
+Lorsque (le centre public d'aide sociale) ne dispose pas de revenus suffisants pour couvrir les dépenses résultant de l'accomplissement de sa mission et sans préjudice de l'application des dispositions légales relatives à la couverture des déficits des (centres publics d'aide sociale), la commune lui accorde les subventions nécessaires. La commune inscrit annuellement ces subventions à son budget. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+### Art. 8
+
+Sans préjudice de l'application de conventions internationales particulières, les indigents étrangers peuvent être rapatriés à la diligence du Ministre qui a l'assistance publique dans ses attributions.
+
+Les frais de rapatriement sont à la charge du budget du ministère dont relève l'assistance publique.
+
+Ce budget peut également prendre en charge les frais d'assistance des Belges secourus à l'étranger dont le rapatriement est demandé par l'autorité étrangère.
+
+## CHAPITRE II. \_ Recouvrement et remboursement des frais d'assistance.
+
+### Art. 9
+
+&lt;L 9-7-1971, art. 8&gt; § 1er. (Le centre public d'aide sociale) qui, conformément à l'article 4 ou à l'article 5, est en droit de recouvrir des frais d'assistance, est (tenu) de donner avis de l'octroi des secours dans un délai de quarante-cinq jours, selon le cas: &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+1° soit (au centre public d'aide sociale) de la commune où la personne secourue a ou est présumée avoir son domicile de secours; &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+2° soit au Ministre qui a l'assistance publique dans ses attributions.
+
+(L'avis au ministre est communiqué par voie électronique selon les modalités fixées par le Roi.) &lt;L 2006-12-27/32, art. 83, 025; En vigueur : 01-04-2007, sauf pour la régularisation des données transférées dans le cadre du remboursement par l'Etat et afférentes à la période antérieure au 1er janvier 2005&gt;
+
+[<sup>1</sup> L'avis au centre public d'aide sociale est communiqué par courrier ou par voie électronique via l'eBox tel que prévu par la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'eBox.]<sup>1</sup>
+
+§ 2. Le délai prévu au § 1er prend cours à dater du jour ou (le centre public d'aide sociale) qui doit donner avis, a connaissance du domicile de secours. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+§ 3. A défaut d'avoir donné l'avis conformément aux dispositions du présent article, (le centre public d'aide sociale) est (déchu) du droit de recouvrer les dépenses afférentes à la période antérieure au quarante-cinquième jour précédant l'envoi de l'avis. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+----------
+
+(1)&lt;L 2024-02-29/13, art. 12, 040; En vigueur : 21-04-2024&gt;
+
+### Art. 9bis
+
+[<sup>1</sup> Lorsque les frais sont à charge de l'Etat conformément aux articles 4 ou 5, une enquête sociale constate l'existence et l'étendue du besoin d'aide.
+
+Le Roi peut déterminer les éléments de l'enquête sociale qui seront soumis au contrôle organisé par le ministre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-27/01, art. 31, 030; En vigueur : 10-01-2013&gt;
+
+### Art. 9ter
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Les articles 9 et 10]<sup>2</sup> ne sont pas d'application lorsque le centre public d'action sociale prend une décision concernant l'aide médicale et pharmaceutique, avec ou sans hospitalisation, dans un établissement de soins, octroyée aux personnes indigentes, ne bénéficiant pas d'une assurance maladie couvrant les risques en Belgique et ne pouvant pas être assurées sur la base de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, et de l'arrêté royal du 3 juillet 1996 portant exécution de celle-ci.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres étendre le champ d'application du présent article :
+
+\- aux personnes indigentes bénéficiant d'une assurance maladie couvrant les risques en Belgique ou assurées sur la base de la loi précitée, ou pouvant l'être;
+
+\- à l'aide médicale et pharmaceutique octroyée par des dispensateurs de soins hors d'établissement de soins visés à l'article 2, n), de la loi précitée.
+
+§ 2. La décision visée au paragraphe 1er ne peut pas porter sur les aides octroyées au cours d'une période qui a débuté plus de [<sup>3</sup> soixante jours]<sup>3</sup> avant cette décision.
+
+§ 3. Lorsque le centre public d'action sociale prend une décision visée au paragraphe 1er, il l'introduit dans la base de données déterminée à cet effet selon les modalités fixées par le ministre et au plus tard lors de la communication à l'intéressé de la décision du centre.
+
+§ 4. A défaut d'avoir introduit la décision conformément au paragraphe 3, le centre public d'action sociale prend en charge ces frais dans les limites de l'article 11, § 1er, à partir du neuvième jour à compter de la date de décision jusqu'au moment où il introduit cette décision dans la base de données.
+
+§ 5. [<sup>4</sup> Dans le cas visé au paragraphe 1er, la Caisse auxiliaire d'assurance maladie-invalidité est chargée, au nom et pour le compte de l'Etat:
+
+a) de communiquer des informations au sujet du tarif du remboursement de l'aide octroyée aux catégories de dispensateurs de soins pour lesquels le Roi a élargi le champ d'application du paragraphe 1er, à condition que ces informations puissent être communiquées;
+
+b) d'effectuer les contrôles déterminés par le Roi concernant l'aide visée au paragraphe 1er;
+
+c) d'effectuer le remboursement des frais de l'aide visée au paragraphe 1er;
+
+d) de prendre les mesures déterminées par le Roi en cas de manquements administratifs dans le chef des dispensateurs de soins et en cas de paiements indus aux dispensateurs de soins. Ces mesures impliquent le non-paiement des frais de l'aide visée au paragraphe 1er ou la récupération des paiements indus.
+
+Dans le cadre de ces contrôles, la fonction de médecin-contrôle est créée au sein de la Caisse auxiliaire d'assurance maladie-invalidité.
+
+Le Roi détermine les règles et les modalités relatives aux missions précitées de la Caisse auxiliaire d'assurance maladie-invalidité et le statut administratif, fonctionnel et pécuniaire du médecin-contrôle.]<sup>4</sup>]<sup>1</sup>
+
+[<sup>5</sup> § 6. Une avance sera versée à la Caisse auxiliaire d'assurance maladie-invalidité.
+
+Chaque mois, sur la base d'un état mensuel électronique, l'Etat rembourse à la Caisse auxiliaire d'assurance maladie-invalidité les montants versés.
+
+Sur proposition du Comité de l'assurance de l'Institut national d'assurance maladie-invalidé, le Service public fédéral de Programmation Intégration sociale, Lutte contre la Pauvreté, Economie sociale et Politique des Grandes Villes fixe les instructions de facturation sur support électronique applicables à la facturation de l'aide visée au paragraphe 1er.]<sup>5</sup>
+
+[<sup>6</sup> § 7. Le ministre peut infliger une sanction financière au centre public d'action sociale:
+
+\- si la personne à laquelle l'aide visée au paragraphe 1er a été octroyée, pouvait être affiliée à un organisme assureur;
+
+\- si l'enquête sociale n'a pas été effectuée conformément à l'article 9bis.
+
+La sanction financière ne peut pas être plus élevée que le montant des frais qui ont été remboursés par la Caisse auxiliaire d'assurance maladie-invalidité au nom et pour le compte de l'Etat, à la suite de la décision visée au paragraphe 1er.
+
+La décision d'infliger la sanction financière est notifiée par envoi recommandé au centre public d'action sociale. Une invitation à acquitter la sanction financière dans un délai de soixante jours est jointe.]<sup>6</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-27/01, art. 32, 030; En vigueur : 01-10-2013, voir AR 2013-11-19/02, art. 1&gt;
+
+(2)&lt;L 2018-03-29/60, art. 3, 037; En vigueur : 11-04-2020&gt;
+
+(3)&lt;L 2018-03-29/60, art. 4, 037; En vigueur : 11-04-2020&gt;
+
+(4)&lt;L 2018-03-29/60, art. 5, 037; En vigueur : 11-04-2020&gt;
+
+(5)&lt;L 2018-03-29/60, art. 6, 037; En vigueur : 11-04-2020&gt;
+
+(6)&lt;L 2018-03-29/60, art. 7, 037; En vigueur : 11-04-2020&gt;
+
+### Art. 10
+
+&lt;L 9-7-1971, art. 9&gt; [<sup>1</sup> § 1er.]<sup>1</sup> Dans un délai de quarante jours à partir de l'envoi de l'avis, (le centre public d'aide sociale) ou le Ministre sont tenus de faire connaître à la commission qui les a avisés, leur décision motivée quant à la prise en charge des secours. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+A défaut de répondre dans ce délai, ils sont censés accepter cette charge.
+
+[<sup>1</sup> § 2. En cas d'absence d'enquête sociale telle que prévue à l'article 9bis, le ministre récupère, auprès du centre public d'action sociale, les frais pris en charge par l'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-12-27/01, art. 33, 030; En vigueur : 10-01-2013&gt;
+
+### Art. 11
+
+&lt;L 9-7-1971, art. 10&gt; § 1er. Les frais visés à l'article 4 ne sont remboursables qu'à concurrence:
+
+1° du prix moyen de la journée d'entretien en chambre commune déterminé en fonction de la loi du 23 décembre 1963 sur les hôpitaux;
+
+2° (du prix qui est remboursé par l'assurance maladie-invalidité des autres prestations de santé.
+
+Toutefois, lorsqu'il s'agit de frais de traitement occasionnés dans le cadre d'une hospitalisation ou lorsqu'il s'agit de frais de traitement exposés pour des personnes qui disposent de ressources inférieures au montant du revenu d'intégration, ceux-ci sont remboursables à concurrence du prix qui sert de base au remboursement par l'assurance maladie-invalidité;) &lt;L 2005-12-27/30, art. 26, 023; En vigueur : 09-01-2006&gt;
+
+3° du prix fixé par le Ministre qui a l'assistance publique dans ses attributions, pour le transport du patient à l'établissement de soins ou le transfert vers un autre établissement de soins.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Les frais à charge de l'Etat en vertu de l'article 5 ne sont remboursables que dans les limites fixées par le Ministre qui a l'assistance publique dans ses attributions [<sup>2</sup> ...]<sup>2</sup>.
+
+(§ 2Bis. Les frais à charge de l'Etat en vertu de l'(article 5, § 4) ne sont remboursables qu'à concurrence de la moitié des montants correspondants du minimum de moyens d'existence, fixés à l'article 2 de la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence.) &lt;L 1991-07-20/31, art. 46, 007; En vigueur : 01-01-1992&gt; &lt;L 1994-05-24/39, art. 15, 010; En vigueur : 01-02-1995&gt;
+
+§ 3. Les frais visés à l'article 3, alinéa 2, sont remboursés à concurrence des dépenses réelles faites par (le centre public d'aide sociale qui s'est substitué au centre public d'aide sociale compétent). &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+----------
+
+(1)&lt;L 2012-12-27/01, art. 34, 030; En vigueur : 10-01-2013&gt;
+
+(2)&lt;L 2012-12-27/01, art. 35, 030; En vigueur : 10-01-2013&gt;
+
+### Art. 11bis
+
+&lt;Inséré par L 1994-05-24/39, art. 16; En vigueur : 01-02-1995&gt; Les frais d'assistance sociale qu'un centre public d'aide sociale est condamné à payer à un candidat réfugié (ou une personne visée à l'article 64, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers) en vertu d'une décision de justice, pour la période antérieure à cette décision, ne sont pas remboursés par l'Etat sauf dans les catégories de cas déterminés par le Ministre qui a l'intégration sociale dans ses attributions, moyennant l'avis préalable du Conseil supérieur de l'aide sociale compétent au niveau fédéral. &lt;L 1999-05-07/39,art. 6, 015; En vigueur : 18-04-1999&gt;
+
+### Art. 12
+
+&lt;L 9-7-1971, art. 11&gt; [<sup>1</sup> A l'exclusion des frais prévus à l'article 9ter, les frais recouvrables sont]<sup>1</sup> payables sur présentation d'un état de débours envoyé, selon le cas, au Ministre qui a l'assistance publique dans ses attributions, (au centre public d'aide sociale) du domicile de secours ou (au centre public d'aide sociale compétent) visé à l'article 2. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+Sous peine de forclusion, cet état doit être envoyé, soit sous pli recommandé, [<sup>2</sup> soit par voie électronique via l'eBox tel que prévu par la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'eBox,]<sup>2</sup> soit contre accusé de réception, dans le délai de douze mois à compter de la fin du trimestre au cours duquel les débours ont été faits.
+
+(Par dérogation à l'alinéa précédent, l'envoi de l'état des débours au ministre est effectué par voie électronique selon les modalités fixées par le Roi.) &lt;L 2006-12-27/32, art. 84, 025; En vigueur : 01-04-2007, sauf pour la régularisation des données transférées dans le cadre du remboursement par l'Etat et afférentes à la période antérieure au 1er janvier 2005&gt;
+
+(Des avances à valoir sur les frais de l'aide médicale et de l'aide matérielle qui sont octroyés à des étrangers et dont la charge est supportée par l'Etat en vertu de l'article 4, 2°, (ou de l'article 5, § 1, 2° et § 4, alinéa 2), peuvent être accordées dans les conditions et selon les modalités fixés par le Roi.) &lt;L 1986-12-15/31, art. 1, 005&gt; &lt;W 2000-08-12/62, art. 206, 017; En vigueur : 01-09-2000&gt;
+
+----------
+
+(1)&lt;L 2012-12-27/01, art. 36, 030; En vigueur : 01-10-2013, voir AR 2013-11-19/02, art. 1&gt;
+
+(2)&lt;L 2024-02-29/13, art. 13, 040; En vigueur : 21-04-2024&gt;
+
+### Art. 13
+
+&lt;L 9-7-1971, art. 12&gt; A défaut de paiement dans les trois mois de la présentation de l'état de débours, l'intérêt légal est dû sur les sommes à rembourser, à dater de la présentation.
+
+### Art. 13bis
+
+&lt;L 1987-03-17/31, art. unique, 006; En vigueur : 17-04-1987&gt; Par dérogation aux dispositions de l'article 18 de la loi du 15 mai 1846 sur la comptabilité de l'Etat, les sommes dues par l'Etat aux centres publics d'aide sociale en vertu de la présente loi en raison des aides accordées et ayant fait l'objet d'états de frais introduits au cours des années 1984, 1985 et 1986 sont payables à concurrence de 80 % sur simple présentation des états de débours certifiés conformes. Le solde éventuel sera liquidé après vérification par sondage.
+
+### Art. 14
+
+Les frais d'assistance remboursés indûment par l'Etat ou par (un centre public d'aide sociale)peuvent être réclamés (au centre public d'aide sociale) à laquelle ils incombaient, dans le délai de six mois à dater du jour ou il a été constaté que le paiement n'était pas dû. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+### Art. 15
+
+Les difficultés et contestations relatives à la détermination de la résidence sont tranchées par le Ministre de l'Intérieur en vertu des dispositions de l'alinéa 2 de l'article 23 de l'arrêté royal du 1er avril 1960.
+
+Les autres différends auxquels donne lieu l'application des articles précédents sont tranchés par la députation permanente lorsqu'ils surgissent entre (centres publics d'aide sociale) d'une même province. Un recours auprès du Conseil d'Etat est ouvert aux (centres publics d'aide sociale) dans les trente jours de la notification. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+Les différends autres que ceux visés au premier alinéa du présent article, auxquels sont partie l'Etat (...) ou des (centres publics d'aide sociale) de provinces différentes, sont tranchés par le Conseil d'Etat, après avis des députations permanentes des provinces auxquelles appartiennent les (centres publics d'aide sociale intéressés). &lt;L 9-7-1971, art. 13&gt; &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+(Sans préjudice de la prise en charge définitive des frais de l'aide sociale, lorsque deux ou plusieurs C.P.A.S. estiment ne pas être compétent territorialement pour examiner une demande d'aide, le ministre qui a l'intégration sociale dans ses attributions détermine, dans un délai de cinq jours ouvrables, le centre qui doit intervenir à titre provisoire.
+
+Le Roi détermine les modalités d'application de cette disposition.) &lt;L 2002-12-24/31, art. 382, 021; En vigueur : 10-01-2003&gt;
+
+### Art. 16
+
+&lt;L 9-7-1971, art. 14&gt; Lorsque la personne secourue vient à disposer de ressources acquises en vertu de droits qu'elle possédait pendant la période ou les secours lui ont été accordés, les frais d'assistance peuvent être récupérés à sa charge.
+
+Par dérogation à l'article 1410 du Code judiciaire, (le centre public d'aide sociale) qui consent une avance sur une pension ou sur une autre allocation sociale, est (subrogé) de plein droit jusqu'à concurrence du montant de cette avance, dans les droits aux arriérés auxquels la personne secourue peut prétendre. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+### Art. 17
+
+Le remboursement des frais d'assistance exposés par (un centre public d'aide sociale) en exécution de sa mission légale en faveur de personnes indigentes ou non est poursuivi, en vertu d'un droit propre, soit à charge des personnes secourues ou de ceux qui leur doivent des aliments, soit à charge de ceux qui sont responsables de la blessure ou de la maladie qui a rendu l'assistance nécessaire. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+Lorsque la blessure ou la maladie sont la suite d'une infraction, l'action peut être exercée en même temps et devant les mêmes juges que l'action publique. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+### Art. 18
+
+L'action en recouvrement des frais d'assistance introduite en vertu de la présente loi est prescrite un an après la date de l'envoi de l'état de débours. (Cette prescription peut être interrompue par une sommation faite soit par lettre recommandée à la poste, soit contre accusé de réception.) &lt;L 9-7-1971, art. 16&gt;
+
+L'action en remboursement prévue aux articles 16 et 17 se prescrit conformément à l'article 2277 du Code civil.
+
+L'action prévue à l'article 17, alinéa 2, se prescrit conformément au chapitre IV de la loi du 17 avril 1878, contenant le titre préliminaire du Code de procédure pénale.
+
+## CHAPITRE III. \_ Sanctions.
+
+### Art. 19
+
+§ 1er. Lorsqu'un membre ou un agent (d'un centre public d'aide sociale) a, directement ou indirectement, soit par des promesses, menaces, abus d'autorité ou de pouvoir, soit par inertie ou autrement, engagé ou contraint un indigent à quitter le territoire d'une commune, ou à y rester ou encore à s'installer dans une commune, le Ministre qui a l'assistance publique dans ses attributions, peut décider de mettre à charge de (ce centre public d'aide sociale) les frais déboursés par (le centre public d'aide sociale secourant) sans que cette charge puisse excéder le montant des secours accordés pendant un an. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+§ 2. La même mesure peut être prise contre (le centre public d'aide sociale) d'une commune, lorsque les faits visés au § 1er ont été commis par le bourgmestre, un membre du conseil communal ou un agent de cette commune. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+(§ 3. Lorsqu'un centre public d'aide sociale s'est déclaré indûment incompétent à intervenir et est condamné, par décision judiciaire coulée en force de chose jugée, à accorder une aide, le ministre qui a l'Intégration sociale dans ses attributions peut, sur la base de cette décision judiciaire et un rapport de son service d'inspection d'où il appert que le centre public d'aide sociale a agi de façon systématique dans ce type de conflit de compétence, par décision motivée, après avoir entendu le CPAS concerné, refuser de rembourser les frais ou décider de diminuer le remboursement. Cette sanction ne peut être appliquée si la décision du CPAS est conforme à la décision d'une autorité de tutelle. Cette sanction prend cours à la date de la demande d'aide et se termine au plus tard trois ans après la date de la décision judiciaire.) &lt;L 1998-03-03/37, art. 3, 013; En vigueur : 10-04-1998&gt;
+
+(§ 4.) Un recours contre la décision du Ministre est ouvert auprès du Conseil d'Etat dans les trente jours de la notification de la décision. &lt;L 1998-03-03/37, art. 3, 013; En vigueur : 10-04-1998&gt;
+
+### Art. 20
+
+§ 1er. Est puni d'un emprisonnement de huit jours à six mois et d'une amende de vingt-six francs à mille francs ou d'une de ces peines seulement, celui qui, dans une intention frauduleuse ou à dessein de nuire, a donné des indications inexactes relatives à la détermination ( ((du centre public d'aide sociale compétent)) et) du domicile de secours ou à la fixation des débours recouvrables dont il est question dans la présente loi. &lt;L. 9-7-1971, art. 18&gt; &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+§ 2. En cas de récidive, les peines prévues au présent article sont portées au double.
+
+§ 3. Les dispositions du livre Ier du Code pénal, sans exception du chapitre VII et de l'article 85 sont applicables aux infractions prévues par la présente loi.
+
+### Art. 20bis_REGION_FLAMANDE
+
+[<sup>1</sup> La surveillance et le contrôle de l'exécution de l'article 5, § 4 à § 4ter, de la présente loi et des arrêtés d'exécution des dispositions précitées sont exécutés conformément au décret du 30 avril 2004 relatif au contrôle des lois sociales.]<sup>1</sup>
+
+----------
+
+(1)&lt;inséré par DCFL 2016-03-04/12, art. 18, 032; En vigueur : 01-01-2016 (AGF 2016-06-10/03, art. 36)&gt;
+
+### Art. 21
+
+(abrogé) &lt;L 9-7-1971, art. 19&gt;
+
+### Art. 22
+
+La loi du 27 novembre 1891 sur l'assistance publique, modifiée par la loi du 19 mai 1898, par la loi du 29 décembre 1926, par l'arrêté du Régent du 23 août 1948, par la loi du 27 juin 1956 et par la loi du 23 juin 1960, est abrogée.
+
+## CHAPITRE IV. \_ Dispositions transitoires.
+
+### Art. 23
+
+Les frais d'assistance à des personnes déterminées qui, au moment de l'entrée en vigueur de la présente loi, sont supportés par (le centre public d'aide sociale) du domicile de secours ou par l'Etat, en application de l'article 2 de la loi du 27 novembre 1891, continueront à être supportés par (ce centre public d'aide sociale) ou par l'Etat. &lt;L 1993-01-12/34, art. 11, 009; En vigueur : 01-03-1993&gt;
+
+Les frais d'entretien et de traitement dans les établissements de soins sont fixés conformément au tarif prévu à l'article 11 de la présente loi.
+
+Les frais d'entretien dans les homes pour vieillards ainsi que dans les homes et autres établissements pour enfants sont fixés conformément au tarif arrêté périodiquement par le Ministre qui a l'assistance publique dans ses attributions.
+
+### Art. 24
+
+Les actions introduites avant la mise en vigueur de la présente loi sont poursuivies de la manière et suivant la procédure prévues par la loi du 27 novembre 1891 sur l'assistance publique.

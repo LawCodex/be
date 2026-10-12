@@ -1,0 +1,3317 @@
+---
+title: "[Loi relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait]. (Intitulé remplacé par L 2006-06-13/40 , art. 2, 023; En vigueur : 16-10-2006)"
+identifier: "1965040806"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/08/1965040806/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1965-04-08
+published: 1965-04-15
+entry_into_force: 1966-09-01
+last_amended: 2026-09-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/08/1965040806/justel"
+justel_notes:
+  - "Pour la conversion en euro voir L 2000-06-26/42 "
+  - "Consultation des versions antérieures à partir du 30-01-1990 et mise à jour au 14-09-2026"
+retrieved: 2026-10-12
+---
+
+# 8 AVRIL 1965. - [Loi relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait]. (Intitulé remplacé par L 2006-06-13/40 , art. 2, 023; En vigueur : 16-10-2006)
+
+## Titre préliminaire: Principes de l'administration de la justice des mineurs &lt;Inséré par L 2006-06-13/40, art. 3; En vigueur : 16-10-2006&gt;
+
+Les principes suivants sont reconnus et applicables à l'administration de la justice des mineurs :
+
+1° la prévention de la délinquance est essentielle pour protéger la société à long terme et exige que les autorités compétentes s'attaquent aux causes sous-jacentes de la délinquance des mineurs et qu'elles élaborent un cadre d'action multidisciplinaire;
+
+2° tout acte d'administration de la justice des mineurs est, dans la mesure du possible, assuré par des intervenants, fonctionnaires et magistrats qui ont reçu une formation spécifique et continue en matière de droit de la jeunesse;
+
+3° l'administration de la justice des mineurs poursuit les objectifs d'éducation, de responsabilisation et de réinsertion sociale ainsi que de protection de la société;
+
+4° les mineurs ne peuvent, en aucun cas, être assimilés aux majeurs quant à leur degré de responsabilité et aux conséquences de leurs actes. Toutefois, les mineurs ayant commis un fait qualifié infraction doivent être amenés à prendre conscience des conséquences de leurs actes;
+
+5° les mineurs jouissent dans le cadre de la présente loi, à titre propre, de droits et libertés, au nombre desquels figurent ceux qui sont énoncés dans la Constitution et la Convention internationale relative aux droits de l'enfant, et notamment le droit de se faire entendre au cours du processus conduisant à des décisions qui les touchent et de prendre part à ce processus, ces droits et libertés devant être assortis de garanties spéciales :
+
+a) les jeunes ont le droit, chaque fois que la loi est susceptible de porter atteinte à certains de leurs droits et libertés, d'être informés du contenu de ces droits et libertés;
+
+b) les père et mère assument l'entretien, l'éducation et la surveillance de leurs enfants. Par conséquent, les jeunes ne peuvent être entièrement ou partiellement soustraits à l'autorité parentale que dans les cas où des mesures tendant au maintien de cette autorité sont contre-indiquées;
+
+c) la situation des mineurs ayant commis un fait qualifié infraction requiert surveillance, éducation, discipline et encadrement. Toutefois, l'état de dépendance où ils se trouvent, leur degré de développement et de maturité créent dans leur chef des besoins spéciaux qui exigent écoute, conseils et assistance;
+
+d) toute intervention comportant une mesure éducative vise à encourager le jeune à intégrer les normes de la vie sociale;
+
+e) dans le cadre de la prise en charge des mineurs ayant commis un fait qualifié infraction, il est fait recours, lorsque cela est possible, aux mesures, prévues par la loi, de substitution aux procédures judiciaires, et ce, en restant cependant attentif à l'impératif de protection sociale;
+
+f) dans le cadre de la loi, le droit des jeunes à la liberté ne peut souffrir que d'un minimum d'entraves commandées par la protection de la société, compte tenu des besoins des jeunes, des intérêts de leur famille et du droit des victimes.
+
+## Titre préliminaire :REGION\_FLAMANDE.
+
+Principes de l'administration de la justice des mineurs &lt;Inséré par L 2006-06-13/40, art. 3; En vigueur : 16-10-2006&gt;
+
+Les principes suivants sont reconnus et applicables à l'administration de la justice des mineurs :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° tout acte d'administration de la justice des mineurs est, dans la mesure du possible, assuré par des intervenants, fonctionnaires et magistrats qui ont reçu une formation spécifique et continue en matière de droit de la jeunesse;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° les mineurs jouissent dans le cadre de la présente loi, à titre propre, de droits et libertés, au nombre desquels figurent ceux qui sont énoncés dans la Constitution et la Convention internationale relative aux droits de l'enfant, et notamment le droit de se faire entendre au cours du processus conduisant à des décisions qui les touchent et de prendre part à ce processus, ces droits et libertés devant être assortis de garanties spéciales :
+
+a) [<sup>1</sup> ...]<sup>1</sup>
+
+b) les père et mère assument l'entretien, l'éducation et la surveillance de leurs enfants. Par conséquent, les jeunes ne peuvent être entièrement ou partiellement soustraits à l'autorité parentale que dans les cas où des mesures tendant au maintien de cette autorité sont contre-indiquées;
+
+c) [<sup>1</sup> ...]<sup>1</sup>
+
+d) [<sup>1</sup> ...]<sup>1</sup>
+
+e) [<sup>1</sup> ...]<sup>1</sup>
+
+f) [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 45, 038; En vigueur : 01-09-2019&gt;
+
+## TITRE I. - Protection sociale.
+
+##### Art. 1
+
+Il est institué au chef-lieu de chaque arrondissement judiciaire un comité de protection de la jeunesse.
+
+Le Roi peut, lorsque l'intérêt de la jeunesse le requiert, créer dans un même arrondissement judiciaire deux ou plusieurs comités de protection de la jeunesse, compte tenu du chiffre de la population et des nécessités, régionales ou linguistiques.
+
+##### Art. 1_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 1_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 1_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 1, 005; En vigueur : 24-12-1991&gt;
+
+##### Art. 1_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32, 1°&gt;
+
+##### Art. 2
+
+Le comité de protection de la jeunesse est chargé d'intervenir, lorsque la santé, la sécurité ou la moralité d'un mineur est mise en danger soit en raison du milieu où il est élevé, soit par les activités auxquelles il se livre, ou lorsque les conditions de son éducation sont compromises par le comportement des personnes qui en ont la garde.
+
+Il peut, dans ce cas, faire exercer, dans l'intérêt du mineur, une action sociale préventive pour autant que son aide ait été sollicitée ou acceptée par les personnes investies à l'égard du mineur de la puissance paternelle ou qui en assument la garde, en droit ou en fait.
+
+Le comité de protection de la jeunesse a, en outre, pour mission :
+
+1° d'apporter son concours aux autorités compétentes dans les cas et de la manière déterminés par la loi;
+
+2° de signaler aux autorités compétentes les faits de nature à exercer une influence défavorable sur la santé physique ou morale de la jeunesse;
+
+3° de promouvoir, d'orienter et de coordonner sur le plan local ou régional, toutes les initiatives en faveur de la protection de la jeunesse.
+
+##### Art. 2_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 2_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 2_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 1, 005; En vigueur : 24-12-1991&gt;
+
+##### Art. 2_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 3
+
+Le comité de protection de la jeunesse se compose de douze à vingt-quatre membres nommés pour un terme renouvelable (cinq ans) par le Ministre de la Justice parmi le représentants de services, d'institutions ou d'organisations s'occupant activement de la jeunesse, de la protection de la jeunesse et de la famille. &lt;L 09-05-1972, art. 1er&gt;
+
+Un tiers de ces membres sont nommés sur proposition du Ministre ayant l'éducation nationale dans ses attributions; un tiers, sur proposition du Ministre ayant la santé publique et la famille dans ses attributions.
+
+Au maximum trois personnes connues pour leur compétence ou leurs mérites en matière de protection de la jeunesse peuvent être cooptées par le comité même à une majorité des deux tiers et pour une durée de (cinq ans). &lt;L 09-05-1972, art. 1er&gt;
+
+Le Ministre de la Justice nomme parmi les membres du comité un président et deux vice-présidents.
+
+Le Roi règle le fonctionnement du comité et fixe les indemnités allouées à ses membres. Il peut créer au sein du comité des sections dont Il fixe la composition compte tenu des dispositions ci-dessus.
+
+##### Art. 3_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 3_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 3_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 1, 005; En vigueur : 24-12-1991&gt;
+
+##### Art. 3_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 4
+
+Il est institué un conseil national de protection de la jeunesse.
+
+Ce conseil se compose de vingt et un à vingt-quatre membres nommés pour un terme renouvelable de cinq ans par le Ministre de la Justice selon les règles observées pour la composition des comités de protection de la jeunesse.
+
+Le Ministre de la Justice nomme parmi les membres du conseil un président et deux vice-présidents.
+
+Le Ministre de la Justice et les Ministres qui ont respectivement l'éducation nationale et la santé publique et la famille dans leurs attributions, sont représentés au sein du conseil chacun par un assesseur ou son suppléant ayant voix consultative.
+
+Le directeur général de l'office de la protection de la jeunesse assume les fonctions de secrétaire général du conseil.
+
+Le conseil national de protection de la jeunesse a pour mission :
+
+1° d'animer l'action des comités de protection de la jeunesse, de donner en la matière des avis au Ministre de la Justice et de lui faire des propositions;
+
+2° de donner son avis aux Ministres ayant le droit de présenter des candidats pour la composition du conseil, au sujet de toute question relative à la protection sociale de la jeunesse, et ce, à la demande desdits Ministres ou de sa propre initiative;
+
+3° de faire annuellement rapport sur le développement et les besoins de la protection sociale de la jeunesse.
+
+Le Roi règle le fonctionnement du conseil et du bureau permanent qui est constitué dans son sein. Il fixe les indemnités allouées à leurs membres.
+
+##### Art. 4_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 4_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 4_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 1, 005; En vigueur : 24-12-1991&gt;
+
+##### Art. 4_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 5
+
+Le Ministre de la Justice organise et met à la disposition des comités de protection de la jeunesse :
+
+1° un secrétariat administratif chargé de préparer les délibérations du comité et d'en assurer l'exécution;
+
+2° une section du service social prévu à l'article 64.
+
+En outre, le Ministre de la Justice met à la disposition des comités, par arrondissement judiciaire ou par province :
+
+1° un centre médico-psychologique;
+
+2° un centre de premier accueil pour l'hébergement des mineurs.
+
+A cet effet, il peut passer convention avec des organismes publics ou privés, ainsi qu'avec des particuliers.
+
+Là ou il n'aurait pu conclure de conventions permettant d'assurer, dans les centres existants, les examens indispensables, le Ministre de la Justice prend les mesures en vue d'organiser les consultations nécessaires.
+
+##### Art. 5_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 5_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 5_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 1, 005; En vigueur : 24-12-1991&gt;
+
+##### Art. 5_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 6
+
+Les frais de fonctionnement du conseil national de protection de la jeunesse et des comités de protection de la jeunesse sont à charge du budget du Ministère de la Justice.
+
+Il en est de même des dépenses résultant des mesures prises par les comités qui ne sont pas couvertes par une institution publique ou privée.
+
+Le Roi détermine les conditions dans lesquelles les comités peuvent engager ces dépenses.
+
+La part contributive des mineurs et des personnes qui leur doivent des aliments est fixée par les comités, sous réserve du droit pour les intéressés de former recours par voie de requête adressée au tribunal de la jeunesse.
+
+##### Art. 6_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 6_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 6_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 1, 005; En vigueur : 24-12-1991&gt;
+
+##### Art. 6_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32, 3°, annulé par ACA 30/06/1988 dans la mesure où il abroge l'art. 6, al. 4&gt;
+
+(NOTE : Pour la Communauté flamande, à l'art. 6, le mot " comités " est remplacé par les mots " bureau d'assistance spéciale à la jeunesse " &lt;DCFL 1990-03-28/34, art. 23, 1°, 003; En vigueur : 01-05-1990&gt;)
+
+(NOTA : L'alinéa quatre de l'article 6 est abrogé &lt;DCFL 2008-03-07/38, art. 68; En vigueur : 02-03-2009&gt;
+
+## TITRE II. - Protection judiciaire.
+
+### CHAPITRE I. - Des tribunaux de la jeunesse et des chambres de la jeunesse des cours d'appel.
+
+##### Art. 7
+
+[<sup>1</sup> Le tribunal de la jeunesse peut statuer sur toutes les mesures en matière d'autorité parentale visées au livre Ier, titre IX, du Code civil, pourvu qu'il y ait une connexité entre celles-ci et les mesures de protection de la jeunesse qui ont été ordonnées.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-19/08, art. 20, 035; En vigueur : 01-09-2017&gt;
+
+##### Art. 7/1
+
+[<sup>1</sup> Les mesures prononcées par le tribunal de la famille en matière d'autorité parentale sont suspendues si elles sont incompatibles avec les mesures de protection de la jeunesse ordonnées, et ce, jusqu'à ce que la mesure de protection de la jeunesse prenne fin ou jusqu'à ce que le tribunal de la jeunesse en décide autrement.
+
+Après la fin de la mesure de protection de la jeunesse, les mesures ordonnées conformément à l'article 7 restent d'application, ou, le cas échéant, les mesures suspendues entrent de nouveau en vigueur, jusqu'à ce que les parties en conviennent autrement ou jusqu'à ce que le tribunal de la famille en décide autrement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-19/08, art. 21, 035; En vigueur : 01-09-2017&gt;
+
+##### Art. 8
+
+[<sup>1</sup> En ce qui concerne les affaires entrant dans le cadre de la présente loi, le tribunal de la jeunesse ne statue, à peine de nullité, qu'après avoir entendu le ministère public en son avis ou en ses réquisitions.]<sup>1</sup>
+
+[<sup>2</sup> Toutefois, si la cause porte uniquement sur le montant des intérêts civils, l'avis du ministère public n'est pas requis.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 240, 029; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2015-10-19/01, art. 88, 030; En vigueur : 01-11-2015&gt;
+
+##### Art. 9
+
+Un ou plusieurs juges d'instruction désignés par le président du tribunal de première instance sont spécialement chargés des affaires qui sont de la compétence du tribunal de la jeunesse.
+
+##### Art. 10
+
+&lt;Rétabli par L 2006-06-13/40, art. 4, 023; En vigueur : 16-10-2006&gt; Toute décision, qu'il s'agisse d'une mesure provisoire ou d'une mesure sur le fond, prise par le juge de la jeunesse ou le tribunal de la jeunesse, en première instance ou en degré d'appel, est, par les soins du greffier, transmise le jour même de la décision par simple copie à l'avocat du mineur.
+
+##### Art. 10_REGION_FLAMANDE
+
+&lt;Rétabli par L 2006-06-13/40, art. 4, 023; En vigueur : 16-10-2006&gt; Toute décision, qu'il s'agisse [<sup>1</sup> d'une mesure ou d'une sanction]<sup>1</sup>, prise par le juge de la jeunesse ou le tribunal de la jeunesse, en première instance ou en degré d'appel, est, par les soins du greffier, transmise le jour même de la décision par simple copie à l'avocat du mineur.
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 46, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 11
+
+&lt;Abrogé par L 2013-07-30/23, art. 241, 029; En vigueur : 01-09-2014&gt;
+
+### CHAPITRE II. - Dispositions de droit civil relatives aux mineurs.
+
+##### Art. 12
+
+&lt;Disposition modificative de l'art. 108 du CC&gt;
+
+##### Art. 13
+
+&lt;Disposition modificative des art. 148 et 160bis du CC&gt;
+
+##### Art. 14
+
+&lt;Disposition modificative des art. 236, 239, 264, 267 et 268 du CC&gt;
+
+##### Art. 15
+
+&lt;Disposition modificative des art. 280, 283 et 284 du CC&gt;
+
+##### Art. 16
+
+&lt;Disposition modificative de l'art. 302 du CC&gt;
+
+##### Art. 17
+
+&lt;Disposition modificative des art. 307 et 311bis du CC&gt;
+
+##### Art. 18
+
+&lt;Disposition modificative des art. 355, 356 et 360 du CC&gt;
+
+##### Art. 19
+
+&lt;Disposition modificative des art. 373, 374, 384 et 386 du CC&gt;
+
+##### Art. 20
+
+&lt;Disposition modificative des art. 389 et 407 du CC&gt;
+
+##### Art. 21
+
+&lt;Disposition modificative des art. 477, 478, 479 et 485 du CC&gt;
+
+##### Art. 22
+
+&lt;Disposition modificative de l'art. 883 du CPC&gt;
+
+##### Art. 23
+
+&lt;Disposition modificative de L 1925-03-10/01, art. 79&gt;
+
+##### Art. 24
+
+&lt;Disposition modificative de CCOM, art. 4 et 5&gt;
+
+##### Art. 25
+
+&lt;Disposition modificative de L 1900-03-10/01, art. 34, art. 35 et art. 36&gt;
+
+##### Art. 26
+
+(Disposition modificative de L 1928-06-05/01, art. 102)
+
+##### Art. 27
+
+(Disposition modificative de AL 1944-12-28/01, art. 8, AL 1945-01-10/01, art. 5 et AL 1945-02-07/01, art. 8)
+
+##### Art. 28
+
+(Disposition modificative de L 14-12-1932, art. 5 et art. 18)
+
+### CHAPITRE III. - Des mesures de protection des mineurs.
+
+#### Section I. - Des mesures à l'égard des parents.
+
+##### Art. 29
+
+Lorsque des enfants donnant droit aux prestations familiales ou autres allocations sociales sont élevés dans des conditions d'alimentation, de logement et d'hygiène manifestement et habituellement défectueuses et lorsque le montant des allocations n'est pas employé dans l'intérêt des enfants, le tribunal de la jeunesse peut, sur réquisition du ministère public, désigner une personne chargée de percevoir le montant de ces allocations et de l'affecter aux besoins exclusifs des enfants et aux dépenses du foyer qui les concernent.
+
+Le Comité de protection de la jeunesse peut être désigné à ces fins.
+
+Lorsque la décision est passée en force de chose jugée, le greffier du tribunal de la jeunesse la signifie en copie, par lettre recommandée à la poste, à l'organisme chargé de la liquidation des allocations, qui ne peut dès lors se libérer valablement que par versement à la personne ou au comité de protection de la jeunesse désigné à cette fin.
+
+##### Art. 29_REGION_DE_BRUXELLES-CAPITALE
+
+Lorsque des enfants donnant droit aux prestations familiales ou autres allocations sociales sont élevés dans des conditions d'alimentation, de logement et d'hygiène manifestement et habituellement défectueuses et lorsque le montant des allocations n'est pas employé dans l'intérêt des enfants, le tribunal de la jeunesse peut, sur réquisition du ministère public, désigner une personne chargée de percevoir le montant de ces allocations et de l'affecter aux besoins exclusifs des enfants et aux dépenses du foyer qui les concernent.
+
+(alinéa 2 abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+Lorsque la décision est passée en force de chose jugée, le greffier du tribunal de la jeunesse la signifie en copie, par lettre recommandée à la poste, à l'organisme chargé de la liquidation des allocations, qui ne peut dès lors se libérer valablement que par versement à la personne (désignée) à cette fin. &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 29_COMMUNAUTE_GERMANOPHONE
+
+Lorsque des enfants donnant droit aux prestations familiales ou autres allocations sociales sont élevés dans des conditions d'alimentation, de logement et d'hygiène manifestement et habituellement défectueuses et lorsque le montant des allocations n'est pas employé dans l'intérêt des enfants, le tribunal de la jeunesse peut, sur réquisition du ministère public, désigner une personne chargée de percevoir le montant de ces allocations et de l'affecter aux besoins exclusifs des enfants et aux dépenses du foyer qui les concernent.
+
+Le (service de l'aide judiciaire à la jeunesse) peut être désigné à ces fins. &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+Lorsque la décision est passée en force de chose jugée, le greffier du tribunal de la jeunesse la signifie en copie, par lettre recommandée à la poste, à l'organisme chargé de la liquidation des allocations, qui ne peut dès lors se libérer valablement que par versement à la personne ou au (service de l'aide judiciaire à la jeunesse) désigné à cette fin. &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 29_COMMUNAUTE_FRANCAISE
+
+Lorsque des enfants donnant droit aux prestations familiales ou autres allocations sociales sont élevés dans des conditions d'alimentation, de logement et d'hygiène manifestement et habituellement défectueuses et lorsque le montant des allocations n'est pas employé dans l'intérêt des enfants, le tribunal de la jeunesse peut, sur réquisition du ministère public, désigner une personne chargée de percevoir le montant de ces allocations et de l'affecter aux besoins exclusifs des enfants et aux dépenses du foyer qui les concernent.
+
+(Alinéa 2 abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 2, 1°, 005; En vigueur : 24-12-1991&gt;
+
+Lorsque la décision est passée en force de chose jugée, le greffier du tribunal de la jeunesse la signifie en copie, par lettre recommandée à la poste, à l'organisme chargé de la liquidation des allocations, qui ne peut dès lors se libérer valablement que par versement à la personne (...) (désignée) à cette fin. &lt;DCFR 1991-03-04/36, art. 62, § 2, 2°, 005; En vigueur : 24-12-1991&gt;
+
+##### Art. 29_REGION_FLAMANDE
+
+Lorsque des enfants donnant droit aux prestations familiales ou autres allocations sociales sont élevés dans des conditions d'alimentation, de logement et d'hygiène manifestement et habituellement défectueuses et lorsque le montant des allocations n'est pas employé dans l'intérêt des enfants, le tribunal de la jeunesse peut, sur réquisition du ministère public, désigner une personne chargée de percevoir le montant de ces allocations et de l'affecter aux besoins exclusifs des enfants et aux dépenses du foyer qui les concernent.
+
+(Le Service social de la Communauté flamande près du Tribunal de la jeunesse) peut être désigné à ces fins. &lt;DCFL 1985-06-27/35, art. 33, 1°&gt;
+
+Lorsque la décision est passée en force de chose jugée, le greffier du tribunal de la jeunesse la signifie en copie, par lettre recommandée à la poste, à l'organisme chargé de la liquidation des allocations, qui ne peut dès lors se libérer valablement que par versement à la personne ou au (Service social de la Communauté flamande près du Tribunal de la jeunesse) désigné à cette fin. &lt;DCFL 1985-06-27/35, art. 33, 1°&gt;
+
+##### Art. 29bis
+
+&lt;Inséré par L 2006-06-13/40, art. 5; En vigueur : 02-04-2007&gt; (Lorsque le tribunal de la jeunesse a déclaré établi un fait qualifié infraction pour lequel un mineur était poursuivi, il peut, sur réquisition du ministère public ou d'office, ordonner aux personnes qui exercent l'autorité parentale sur ce mineur d'accomplir un stage parental, s'ils manifestent un désintérêt caractérisé à l'égard du comportement délinquant de ce dernier, et que ce désintérêt contribue aux problèmes du mineur.) Ce stage parental peut uniquement être ordonné en tant que mesure complémentaire à une mesure imposée au mineur par le juge de la jeunesse s'il peut être bénéfique pour le mineur délinquant lui-même. &lt;L 2006-12-27/33, art. 87, 024; En vigueur : 01-01-2007&gt;
+
+##### Art. 29bis_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 125, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 29bis_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 47, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 29bis_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 30
+
+Lorsque la santé, la sécurité, la moralité ou les conditions d'éducation d'un mineur sont compromises, le tribunal de la jeunesse peut, sur réquisition du ministère public, ordonner une mesure d'assistance éducative à l'égard des personnes qui en ont la garde.
+
+##### Art. 30_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 30_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 30_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 3, 005; En vigueur : 07-12-1994&gt;
+
+##### Art. 30_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1990-03-28/34, art. 22, 1°, 003; En vigueur : 27-09-1994&gt;
+
+##### Art. 31
+
+L'assistance éducative assure aux personnes qui ont la garde du mineur l'aide du comité de protection de la jeunesse ou d'un délégué à la protection de la jeunesse.
+
+Cette mesure peut, en outre, selon les circonstances, comporter pour ces mêmes personnes l'une ou plusieurs des obligations suivantes :
+
+1° soumettre le mineur à la surveillance du comité de protection de la jeunesse ou d'un délégué à la protection de la jeunesse;
+
+2° le soumettre aux directives pédagogiques ou médicales d'un centre d'orientation éducative ou d'hygiène mentale;
+
+3° lui faire fréquenter régulièrement un établissement d'enseignement ordinaire ou spécial;
+
+4° exceptionnellement le placer chez une personne digne de confiance ou dans un établissement approprié, en vue de son hébergement, de son traitement, de son éducation, de son instruction ou de sa formation professionnelle.
+
+Le comité de protection de la jeunesse ou le délégué à la protection de la jeunesse chargé de l'assistance éducative, veille à l'accomplissement de ces obligations sous le contrôle du tribunal de la jeunesse.
+
+L'assistance éducative peut être ordonnée indépendamment de toute procédure à l'égard du mineur.
+
+##### Art. 31_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 31_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 31_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 3, 005; En vigueur : 07-12-1994&gt;
+
+##### Art. 31_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1990-03-28/34, art. 22, 1°, 003; En vigueur : 27-09-1994&gt;
+
+##### Art. 32
+
+Peut être déchu de (l'autorité parentale), en tout ou en partie, à l'égard de tous ses enfants, de l'un ou de plusieurs d'entre eux : &lt;L 31-03-1987, art. 105&gt;
+
+1° le père ou la mère qui est condamné à une peine [<sup>1</sup> ...]<sup>1</sup> du chef de tous faits commis sur la personne ou à l'aide d'un de ses enfants ou descendants;
+
+2° le père ou la mère qui, par mauvais traitements, abus d'autorité, inconduite notoire ou négligence grave, met en péril la santé, la sécurité ou la moralité de son enfant.
+
+Il en est de même pour le père ou la mère qui épouse une personne déchue de (l'autorité parentale). &lt;L 31-03-1987, art. 105&gt;
+
+La déchéance est prononcée par le tribunal de la jeunesse sur réquisition du ministère public.
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 17, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 33
+
+La déchéance totale porte sur tous les droits qui découlent de (l'autorité parentale). &lt;L 31-03-1987, art. 105&gt;
+
+(Toutefois, elle ne porte sur le droit de consentir à l'adoption de l'enfant que si le jugement le stipule expressément.) &lt;L 2003-04-24/32, art. 8, 017; En vigueur : 01-09-2005&gt;
+
+Elle comprend pour celui qui en est frappé, à l'égard de l'enfant qu'elle concerne et des descendants de celui-ci :
+
+1° l'exclusion du droit de garde et d'éducation;
+
+2° l'incapacité de les représenter, de consentir à leurs actes et d'administrer leurs biens;
+
+3° l'exclusion du droit, de jouissance prévu à l'article 384 du Code civil;
+
+4° l'exclusion du droit de réclamer des aliments;
+
+5° l'exclusion du droit de recueillir tout ou partie de leur succession par application [<sup>1</sup> des dispositions du livre 4, titre 1er, sous-titre 4 "Dévolution légale" du Code civil]<sup>1</sup>.
+
+(En outre, la déchéance totale entraîne l'incapacité générale d'être tuteur, tuteur officieux, subrogé tuteur ou curateur.) &lt;L 2001-04-29/39, art. 74, 013; En vigueur : 01-08-2001&gt;
+
+La déchéance partielle porte sur les droits que le tribunal détermine.
+
+----------
+
+(1)&lt;L 2022-07-30/03, art. 69, 041; En vigueur : 18-08-2022&gt;
+
+##### Art. 34
+
+En prononçant la déchéance totale ou partielle de (l'autorité parentale), le tribunal de la jeunesse désigne la personne qui, sous son contrôle, exercera les droits mentionnés à l'article 33, 1° et 2°, dont les parents ou l'un d'entre eux sont déchus et remplira les obligations qui y sont corrélatives, ou confie le mineur au comité de protection de la jeunesse, lequel désigne une personne qui exercera ces droits après que sa désignation aura été homologuée par ce tribunal, sur réquisition du ministère public. &lt;L 31-03-1987, art. 105&gt;
+
+Le père et la mère sont préalablement entendus ou appelés.
+
+Si un seul des parents a encouru la déchéance, le tribunal de la jeunesse désigne, pour le remplacer, le parent non déchu, lorsque l'intérêt du mineur ne s'y oppose pas.
+
+##### Art. 34_REGION_DE_BRUXELLES-CAPITALE
+
+En prononçant la déchéance totale ou partielle de (l'autorité parentale), le tribunal de la jeunesse désigne la personne qui, sous son contrôle, exercera les droits mentionnés à l'article 33, 1° et 2°, dont les parents ou l'un d'entre eux sont déchus et remplira les obligations qui y sont corrélatives, ou confie le mineur (aux institutions concernées), lequel désigne une personne qui exercera ces droits après que sa désignation aura été homologuée par ce tribunal, sur réquisition du ministère public. &lt;L 31-03-1987, art. 105&gt; &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+Le père et la mère sont préalablement entendus ou appelés.
+
+Si un seul des parents a encouru la déchéance, le tribunal de la jeunesse désigne, pour le remplacer, le parent non déchu, lorsque l'intérêt du mineur ne s'y oppose pas.
+
+##### Art. 34_COMMUNAUTE_GERMANOPHONE
+
+En prononçant la déchéance totale ou partielle de (l'autorité parentale), le tribunal de la jeunesse désigne la personne qui, sous son contrôle, exercera les droits mentionnés à l'article 33, 1° et 2°, dont les parents ou l'un d'entre eux sont déchus et remplira les obligations qui y sont corrélatives, ou confie le mineur au (service de l'aide judiciaire à la jeunesse), lequel désigne une personne qui exercera ces droits après que sa désignation aura été homologuée par ce tribunal, sur réquisition du ministère public. &lt;L 31-03-1987, art. 105&gt; &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+Le père et la mère sont préalablement entendus ou appelés.
+
+Si un seul des parents a encouru la déchéance, le tribunal de la jeunesse désigne, pour le remplacer, le parent non déchu, lorsque l'intérêt du mineur ne s'y oppose pas.
+
+##### Art. 34_COMMUNAUTE_FRANCAISE
+
+En prononçant la déchéance totale ou partielle de (l'autorité parentale), le tribunal de la jeunesse désigne la personne qui, sous son contrôle, exercera les droits mentionnés à l'article 33, 1° et 2°, dont les parents ou l'un d'entre eux sont déchus et remplira les obligations qui y sont corrélatives, ou confie le mineur (au conseiller de l'aide à la jeunesse), lequel désigne une personne qui exercera ces droits après que sa désignation aura été homologuée par ce tribunal, sur réquisition du ministère public. &lt;L 31-03-1987, art. 105&gt; &lt;DCFR 1991-03-04/36, art. 62, § 4, 005; En vigueur : 24-12-1991&gt;
+
+Le père et la mère sont préalablement entendus ou appelés.
+
+Si un seul des parents a encouru la déchéance, le tribunal de la jeunesse désigne, pour le remplacer, le parent non déchu, lorsque l'intérêt du mineur ne s'y oppose pas.
+
+##### Art. 34_REGION_FLAMANDE
+
+En prononçant la déchéance totale ou partielle de (l'autorité parentale), le tribunal de la jeunesse désigne la personne qui, sous son contrôle, exercera les droits mentionnés à l'article 33, 1° et 2°, dont les parents ou l'un d'entre eux sont déchus et remplira les obligations qui y sont corrélatives, ou confie le mineur (au Service social de la Communauté flamande près du Tribunal de la jeunesse), lequel désigne une personne qui exercera ces droits après que sa désignation aura été homologuée par ce tribunal, sur réquisition du ministère public. &lt;L 31-03-1987, art. 105&gt; &lt;DCFL 1985-06-27/35, art. 33&gt;
+
+Le père et la mère sont préalablement entendus ou appelés.
+
+Si un seul des parents a encouru la déchéance, le tribunal de la jeunesse désigne, pour le remplacer, le parent non déchu, lorsque l'intérêt du mineur ne s'y oppose pas.
+
+##### Art. 35
+
+Sans préjudice des règles fixées par le Code civil en matière de consentement au mariage, (à l'adoption et à (l'adoption plénière)), la personne désignée par application de l'article 34 exerce les droits dont elle est investie en se conformant, le cas échéant, aux dispositions des articles 373 et 374 du Code civil. Elle veille à ce que les revenus du mineur soient employés à l'entretien et à l'éducation de celui-ci. &lt;L 21-03-1969, art. 5.A.1&gt; &lt;L 2001-04-29/39, art. 75, 013; En vigueur : 01-08-2001&gt;
+
+Dans tous les cas, la gestion des biens du mineur est régie par les dispositions du Code civil relatives (au fonctionnement de la tutelle et aux comptes de la tutelle). &lt;L 2001-04-29/39, art. 75, 013; En vigueur : 01-08-2001&gt;
+
+Le parent non déchu n'a le droit de jouissance légale des biens du mineur que s'il est investi des pouvoirs prévus à l'article 34.
+
+#### Section II. - Des mesures à l'égard des mineurs.
+
+##### Art. 36
+
+Le tribunal de la jeunesse connaît :
+
+1° des plaintes formées par les personnes investies de la puissance paternelle ou qui assument la garde en droit ou en fait d'un mineur de moins de dix-huit ans qui, par son inconduite ou son indiscipline, donne de graves sujets de mécontentement;
+
+2° des réquisitions du ministère public relatives aux mineurs dont la santé, la sécurité ou la moralité sont mises en danger, soit en raison, du milieu où ils sont élevés, soit par les activités auxquelles ils se livrent, ou dont les conditions d'éducation sont compromises par le comportement des personnes qui en ont la garde;
+
+3° des réquisitions du ministère public relatives à des mineurs âgés de moins de dix-huit ans accomplis trouvés mendiant ou vagabondant ou se livrant habituellement à la mendicité ou au vagabondage;
+
+4° (des réquisitions du ministère public à l'égard des personnes poursuivies du chef d'un fait qualifié infraction, commis avant l'âge de dix-huit ans accomplis.) &lt;L 1992-12-24/30, art. 1, 006; En vigueur : 10-01-1993&gt;
+
+5° [<sup>1</sup> du recours introduit par requête écrite et gratuite contre la décision d'imposer ou de ne pas imposer une amende administrative de la loi du 24 juin 2013 relative aux sanctions administratives communales, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;]<sup>1</sup>
+
+(6° du recours introduit par requête écrite et gratuite contre la décision d'imposer une sanction administrative visée à l'article 24, alinéa 2, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;) &lt;L 2004-05-07/65, art. 2, 019; En vigueur : 05-07-2004&gt;
+
+[<sup>2</sup> 7° du recours introduit par requête gratuite contre la décision d'imposer une sanction administrative visée aux articles 29 et 30 de la loi sur la police des chemins de fer, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.]<sup>2</sup>
+
+(alinéa 2 abrogé) &lt;L 2003-04-10/60, art. 47; 016; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2013-07-19/64, art. 2, 028; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-04-27/18, art. 52,§1, 036; En vigueur : 01-11-2018&gt;
+
+##### Art. 36_REGION_WALLONNE
+
+Le tribunal de la jeunesse connaît :
+
+1° des plaintes formées par les personnes investies de la puissance paternelle ou qui assument la garde en droit ou en fait d'un mineur de moins de dix-huit ans qui, par son inconduite ou son indiscipline, donne de graves sujets de mécontentement;
+
+2° des réquisitions du ministère public relatives aux mineurs dont la santé, la sécurité ou la moralité sont mises en danger, soit en raison, du milieu où ils sont élevés, soit par les activités auxquelles ils se livrent, ou dont les conditions d'éducation sont compromises par le comportement des personnes qui en ont la garde;
+
+3° des réquisitions du ministère public relatives à des mineurs âgés de moins de dix-huit ans accomplis trouvés mendiant ou vagabondant ou se livrant habituellement à la mendicité ou au vagabondage;
+
+4° (des réquisitions du ministère public à l'égard des personnes poursuivies du chef d'un fait qualifié infraction, commis avant l'âge de dix-huit ans accomplis.) &lt;L 1992-12-24/30, art. 1, 006; En vigueur : 10-01-1993&gt;
+
+5° [<sup>1</sup> du recours introduit par requête écrite et gratuite contre la décision d'imposer ou de ne pas imposer une amende administrative de la loi du 24 juin 2013 relative aux sanctions administratives communales, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;]<sup>1</sup>
+
+(6° du recours introduit par requête écrite et gratuite contre la décision d'imposer une sanction administrative visée à l'article 24, alinéa 2, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;) &lt;L 2004-05-07/65, art. 2, 019; En vigueur : 05-07-2004&gt;
+
+[<sup>2</sup> 7° du recours introduit par requête gratuite contre la décision d'imposer une sanction administrative visée aux articles 29 et 30 de la loi sur la police des chemins de fer, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.]<sup>2</sup>
+
+[<sup>3</sup> 7° des recours introduits en vertu de l'article 29, § 1er, alinéa 3 du décret du 4 avril 2019 relatif aux amendes administratives en matière de sécurité routière.]<sup>3</sup>
+
+(alinéa 2 abrogé) &lt;L 2003-04-10/60, art. 47; 016; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2013-07-19/64, art. 2, 028; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-04-27/18, art. 52,§1, 036; En vigueur : 01-11-2018&gt;
+
+(3)&lt;DRW 2019-04-04/76, art. 54, 040; En vigueur : 30-04-2023&gt;
+
+##### Art. 36_REGION_DE_BRUXELLES-CAPITALE
+
+Le tribunal de la jeunesse connaît :
+
+1° (abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+2° (abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+3° (abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+4° (des réquisitions du ministère public à l'égard des personnes poursuivies du chef d'un fait qualifié infraction, commis avant l'âge de dix-huit ans accomplis.) &lt;L 1992-12-24/30, art. 1, 006; En vigueur : 10-01-1993&gt;
+
+5° [<sup>1</sup> du recours introduit par requête écrite et gratuite contre la décision d'imposer ou de ne pas imposer une amende administrative de la loi du 24 juin 2013 relative aux sanctions administratives communales, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;]<sup>1</sup>
+
+(6° du recours introduit par requête écrite et gratuite contre la décision d'imposer une sanction administrative visée à l'article 24, alinéa 2, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.) &lt;L 2004-05-07/65, art. 2, 019; En vigueur : 05-07-2004&gt;
+
+[<sup>2</sup> 7° du recours introduit par requête gratuite contre la décision d'imposer une sanction administrative visée aux articles 29 et 30 de la loi sur la police des chemins de fer, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.]<sup>2</sup>
+
+(alinéa 2 abrogé) &lt;L 2003-04-10/60, art. 47; 016; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2013-07-19/64, art. 2, 028; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-04-27/18, art. 52,§1, 036; En vigueur : 01-11-2018&gt;
+
+##### Art. 36_COMMUNAUTE_GERMANOPHONE
+
+Le tribunal de la jeunesse connaît :
+
+1° (...) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+2° (...) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+3° (...) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° [<sup>1</sup> du recours introduit par requête écrite et gratuite contre la décision d'imposer ou de ne pas imposer une amende administrative de la loi du 24 juin 2013 relative aux sanctions administratives communales, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;]<sup>1</sup>
+
+(6° du recours introduit par requête écrite et gratuite contre la décision d'imposer une sanction administrative visée à l'article 24, alinéa 2, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.) &lt;L 2004-05-07/65, art. 2, 019; En vigueur : 05-07-2004&gt;
+
+[<sup>2</sup> 7° du recours introduit par requête gratuite contre la décision d'imposer une sanction administrative visée aux articles 29 et 30 de la loi sur la police des chemins de fer, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.]<sup>2</sup>
+
+(alinéa 2 abrogé) &lt;L 2003-04-10/60, art. 47; 016; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2013-07-19/64, art. 2, 028; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-04-27/18, art. 52,§1, 036; En vigueur : 01-11-2018&gt;
+
+(3)&lt;DCG 2023-11-13/20, art. 126, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 36_REGION_FLAMANDE
+
+Le tribunal de la jeunesse connaît :
+
+1° (...) &lt;DCFL 1990-03-28/34, art. 22, 2°, 003; En vigueur : 27-09-1994&gt;
+
+2° (...) &lt;DCFL 1990-03-28/34, art. 22, 2°, 003; En vigueur : 27-09-1994&gt;
+
+3° (...) &lt;DCFL 1990-03-28/34, art. 22, 2°, 003; En vigueur : 27-09-1994&gt;
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° [<sup>1</sup> du recours introduit par requête écrite et gratuite contre la décision d'imposer ou de ne pas imposer une amende administrative de la loi du 24 juin 2013 relative aux sanctions administratives communales, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;]<sup>1</sup>
+
+(6° du recours introduit par requête écrite et gratuite contre la décision d'imposer une sanction administrative visée à l'article 24, alinéa 2, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;) &lt;L 2004-05-07/65, art. 2, 019; En vigueur : 05-07-2004&gt;
+
+[<sup>2</sup> 7° du recours introduit par requête gratuite contre la décision d'imposer une sanction administrative visée aux articles 29 et 30 de la loi sur la police des chemins de fer, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.]<sup>2</sup>
+
+(alinéa 2 abrogé) &lt;L 2003-04-10/60, art. 47; 016; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2013-07-19/64, art. 2, 028; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-04-27/18, art. 52,§1, 036; En vigueur : 01-11-2018&gt;
+
+(3)&lt;DCFL 2019-02-15/20, art. 48, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 36_COMMUNAUTE_FRANCAISE
+
+Le tribunal de la jeunesse connaît :
+
+1° (...) &lt;DCFR 1991-03-04/36, art. 62, § 5, 005; En vigueur : 07-12-1994&gt;
+
+2° (...) &lt;DCFR 1991-03-04/36, art. 62, § 5, 005; En vigueur : 07-12-1994&gt;
+
+3° (...) &lt;DCFR 1991-03-04/36, art. 62, § 5, 005; En vigueur : 07-12-1994&gt;
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° [<sup>1</sup> du recours introduit par requête écrite et gratuite contre la décision d'imposer ou de ne pas imposer une amende administrative de la loi du 24 juin 2013 relative aux sanctions administratives communales, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits;]<sup>1</sup>
+
+(6° du recours introduit par requête écrite et gratuite contre la décision d'imposer une sanction administrative visée à l'article 24, alinéa 2, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.) &lt;L 2004-05-07/65, art. 2, 019; En vigueur : 05-07-2004&gt;
+
+[<sup>2</sup> 7° du recours introduit par requête gratuite contre la décision d'imposer une sanction administrative visée aux articles 29 et 30 de la loi sur la police des chemins de fer, à l'égard des mineurs ayant atteint l'âge de quatorze ans accomplis au moment des faits.]<sup>2</sup>
+
+(alinéa 2 abrogé) &lt;L 2003-04-10/60, art. 47; 016; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2013-07-19/64, art. 2, 028; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-04-27/18, art. 52,§1, 036; En vigueur : 01-11-2018&gt;
+
+(3)&lt;DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 36bis
+
+&lt;Inséré par L 09-05-1972, art. 2&gt; Par dérogation à l'article 36, 4°, et sauf en cas de connexité avec des poursuites du chef d'infractions autres que celles prévues ci-dessous, les juridictions compétentes en vertu du droit commun, connaissent des réquisitions du ministère public à l'égard des (personnes de plus de seize ans et de moins de dix-huit ans) au moment des faits, poursuivis du chef d'infraction : &lt;L 1994-02-02/33, art. 1 a), 007; En vigueur : 27-09-1994&gt;
+
+1° aux dispositions des lois et règlements sur la police du roulage;
+
+2° aux articles 418, 419 et 420 du Code pénal, pour autant qu'elle soit connexe à une infraction aux lois et règlements visés au 1°;
+
+3° (à la loi du 21 novembre 1989) relative à l'assurance obligatoire de la responsabilité civile en matière de véhicule automoteurs. &lt;L 1994-02-02/33, art. 1, b), 007; En vigueur : 27-09-1994&gt;
+
+(...). (Si les débats devant ces juridictions) font apparaître qu'une mesure de garde, de préservation ou d'éducation serait plus adéquate en la cause, ces juridictions peuvent par décision motivée se dessaisir et renvoyer l'affaire au ministère public aux fins de réquisitions devant le tribunal de la jeunesse, s'il y a lieu. &lt;L 1994-02-02/33, art. 1, c) et d), 007; En vigueur : 27-09-1994&gt;
+
+La loi relative à la détention préventive n'est pas applicable aux (personnes visés) par le présent article, sauf s'il y a délit de fuite. &lt;L 1994-02-02/33, art. 1, e), 007; En vigueur : 27-09-1994&gt;
+
+##### Art. 36bis_COMMUNAUTE_GERMANOPHONE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+La loi relative à la détention préventive n'est pas applicable aux (personnes visées) [<sup>1</sup> à l'article 63 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>, sauf s'il y a délit de fuite. &lt;L 1994-02-02/33, art. 1, e), 007; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 127, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 36bis_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+La loi relative à la détention préventive n'est pas applicable aux (personnes visés) par l' [<sup>1</sup> ...]<sup>1</sup> article [<sup>2</sup> 5]<sup>2</sup> [<sup>1</sup> du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup>, sauf s'il y a délit de fuite. &lt;L 1994-02-02/33, art. 1, e), 007; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 49, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/18, art. 2, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 36bis_COMMUNAUTE_FRANCAISE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+La loi relative à la détention préventive n'est pas applicable aux (personnes visés) par le présent article, sauf s'il y a délit de fuite. &lt;L 1994-02-02/33, art. 1, e), 007; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 37
+
+&lt;L 1994-02-02/33, art. 2, 007; En vigueur : 27-09-1994&gt; § 1. Le tribunal de la jeunesse peut ordonner à l'égard des personnes qui lui sont déférées, des mesures de garde, de préservation et d'éducation.
+
+(Pour rendre la décision prévue à l'alinéa 1er, le tribunal de la jeunesse prend en compte les facteurs suivants :
+
+1° la personnalité et le degré de maturité de l'intéressé;
+
+2° son cadre de vie;
+
+3° la gravité des faits, les circonstances dans lesquelles ils ont été commis, les dommages et les conséquences pour la victime;
+
+4° les mesures antérieures prises à l'égard de l'intéressé et son comportement durant l'exécution de celles- ci;
+
+5° la sécurité de l'intéressé;
+
+6° la sécurité publique.
+
+La disponibilité des moyens de traitement, des programmes d'éducation ou de toutes autres ressources envisagées et le bénéfice qu'en retirerait l'intéressé sont également pris en compte.) &lt;L 2006-06-13/40, art. 7, 1°, 023; En vigueur : 16-10-2006&gt;
+
+§ 2. (Il peut, le cas échéant, de façon cumulative :
+
+1° réprimander les intéressés et, sauf en ce qui concerne ceux qui ont atteint l'âge de dix-huit ans, les laisser ou les rendre aux personnes qui en assurent l'hébergement, en enjoignant à ces dernières, le cas échéant, de mieux les surveiller ou les éduquer à l'avenir;
+
+2° les soumettre à la surveillance du service social compétent;
+
+3° les soumettre à un accompagnement éducatif intensif et à un encadrement individualisé d'un éducateur référent dépendant du service désigné par les communautés ou d'une personne physique répondant aux conditions fixées par les communautés;
+
+4° leur imposer d'effectuer une prestation éducative et d'intérêt général en rapport avec leur âge et leurs capacités, à raison de 150 heures au plus, organisée par l'intermédiaire d'un service désigné par les communautés ou par une personne physique répondant aux conditions fixées par les communautés;
+
+5° leur imposer de suivre un traitement ambulatoire auprès d'un service psychologique ou psychiatrique, d'éducation sexuelle ou d'un service compétent dans le domaine de l'alcoolisme ou de la toxicomanie; le juge de la jeunesse peut accepter que le traitement soit entamé ou continué chez un médecin psychiatre, un psychologue ou un thérapeute qui lui sera proposé par la personne qui lui est déférée, ou par ses représentants légaux;
+
+6° les confier à une personne morale proposant l'encadrement de la réalisation d'une prestation positive consistant soit en une formation soit en la participation d'une activité organisée;
+
+7° les confier à une personne digne de confiance selon les modalités fixées par les communautés ou les placer dans un établissement approprié selon les modalités fixées par les communautés, en vue de leur hébergement, de leur traitement, de leur éducation, de leur instruction ou de leur formation professionnelle;
+
+8° les confier à une institution communautaire publique de protection de la jeunesse, dans le respect des critères de placement visés au § 2quater. En ce qui concerne les personnes visées à l'article 36, 4°, et sans préjudice des dispositions de l'article 60, la décision précise la durée de la mesure et si elle prescrit un régime éducatif fermé organisé par les autorités compétentes en vertu des articles 128 et 135 de la Constitution et de l'article 5, § 1er, II, 6°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, modifiée par la loi du 8 août 1988. Le juge ou le service social compétent rend visite à la personne confiée à une institution communautaire publique de protection de la jeunesse en régime fermé, si le placement excède quinze jours. (En cas de placement dans un régime éducatif fermé, la procédure en matière de sortie de l'établissement visées à l'article 52quater, alinéas 3 à 6, 9 et 10 s'applique); &lt;L 2006-12-27/33, art. 92, 024; En vigueur : 01-03-2007&gt;
+
+9° les placer dans un service hospitalier;
+
+10° décider le placement résidentiel dans un service compétent en matière d'alcoolisme, de toxicomanie ou de toute autre dépendance, si un rapport médical circonstancié, datant de moins d'un mois, atteste que l'intégrité physique ou psychique de l'intéressé ne peut être protégée d'une autre manière;
+
+11° décider le placement résidentiel de l'intéressé soit dans une section ouverte, soit dans une section fermée d'un service pédopsychiatrique, s'il est établi dans un rapport indépendant pédopsychiatrique, datant de moins d'un mois et établi selon les standards minimums déterminés par le Roi, qu'il souffre d'un trouble mental qui affecte gravement sa faculté de jugement ou sa capacité à contrôler ses actes. Le placement dans une section fermée d'un service pédopsychiatrique n'est possible qu'en application de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux, conformément à l'article 43.
+
+Seules les mesures visées à l'alinéa 1er, 1°, 2° et 3°, peuvent être ordonnées à l'égard des personnes de moins de douze ans (déférées du chef d'un fait qualifié infraction). En l'absence de mesures appropriées, le tribunal renvoie l'affaire au parquet qui peut à son tour la renvoyer aux services compétents des communautés. &lt;L 2006-12-27/33, art. 88, 024; En vigueur : 01-01-2007&gt;
+
+La préférence doit être donnée en premier lieu à une offre restauratrice, visée aux articles 37bis à 37quinquies. Avant qu'une mesure visée à l'alinéa 1er, 1° à 5° soit imposée, la faisabilité d'un projet proposé par la personne concernée, visé au § 2ter doit être considérée. Les mesures visées à l'alinéa 1er, 1° à 5° sont privilégiées par rapport à une mesure de placement. Enfin, le placement en régime ouvert est privilégié par rapport au placement en régime fermé;
+
+S'il prononce une mesure de placement en institution communautaire publique de protection de la jeunesse en régime ouvert ou fermé, le tribunal en précise la durée maximale, qui ne pourra être prorogée que pour des raisons exceptionnelles liées à la mauvaise conduite persistante de l'intéressé et à son comportement dangereux pour lui même ou pour autrui.
+
+Le tribunal peut assortir la mesure de placement d'un sursis pour une durée de 6 mois à compter de la date du jugement, pour autant que l'intéressé s'engage à effectuer une prestation éducative et d'intérêt général à raison de 150 heures au plus.
+
+Si le tribunal prononce, en application du § 2quater, alinéa 1er, 4°, ou alinéa 2, 5°, une mesure de placement en institution communautaire publique de protection de la jeunesse, il en précise la durée, qui est de six mois au plus et ne peut être prolongée.
+
+Si le tribunal impose une autre mesure, il en précise la durée maximale, à l'exception des mesures visées à l'alinéa 1er, 1°.) &lt;L 2006-06-13/40, art. 7, 2°, 023; En vigueur : 16-10-2006; voir aussi art. 65 qui donne l'entrée en vigueur de l'art. 7 fixée le 16-10-2006 par AR 2006-09-28/31, art. 3 à l'exception du point 2°, en tant qu'il fait référence au § 2, alinéa 1er, 3°, 5°, 6°, 9°, 10° et 11° de l'article 37 de la loi, à l'alinéa 2 du § 2, de l'article 37 de la loi et à la 1re phrase de l'alinéa 3 du § 2 de l'article 37 de la loi, rédigée comme suit : " La préférence doit être donnée en premier lieu à une offre restauratrice, visée aux articles 37bis à 37quinquies, En vigueur : indéterminée et au plus tard le 01-01-2011&gt;
+
+(NOTE : l'article 7 point 2° de la loi du 13 juin 2006 (2006-06-13/40), tel que modifié par la loi du 27 décembre 2006 portant des dispositions diverses (2006-12-27/33) et en tant qu'il fait référence à l'article 37, § 2, alinéa 2, et à l'article 37, § 2, alinéa 3, première phrase, rédigée comme suit " La préférence doit être donnée en premier lieu à une offre restauratrice, visée aux articles 37bis à 37quinquies." de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, entre en vigueur le 02-04-2007 par AR 2007-02-25/38, art. 9)
+
+(§ 2bis. A l'égard des personnes de plus de douze ans le tribunal peut subordonner le maintien des personnes qui lui sont déférées dans leur milieu de vie à une ou plusieurs des conditions suivantes dont il peut confier le contrôle du respect au service social compétent :
+
+1° fréquenter régulièrement un établissement scolaire d'enseignement ordinaire ou spécial;
+
+2° accomplir une prestation éducative et d'intérêt général, en rapport avec leur âge et leurs capacités, à raison de 150 heures au plus, sous la surveillance d'un service désigné par les communautés ou d'une personne physique répondant aux conditions fixées par les communautés;
+
+3° accomplir, à raison de 150 heures au plus un travail rémunéré en vue de l'indemnisation de la victime, si l'intéressé est âgé de seize ans au moins;
+
+4° suivre les directives pédagogiques ou médicales d'un centre d'orientation éducative ou de santé mentale;
+
+5° participer à un ou plusieurs modules de formation ou de sensibilisation aux conséquences des actes accomplis et de leur impact sur les éventuelles victimes;
+
+6° participer à une ou plusieurs activités sportives, sociales ou culturelles encadrées;
+
+7° ne pas fréquenter certaines personnes ou certains lieux déterminés qui ont un rapport avec le fait qualifié infraction qui a été commis;
+
+8° ne pas exercer une ou plusieurs activités déterminées au regard des circonstances de l'espèce;
+
+9° le respect d'une interdiction de sortir;
+
+10° respecter d'autres conditions ou interdictions ponctuelles que le tribunal détermine.
+
+Le juge ou le tribunal peut confier le contrôle de l'exécution des conditions visées à l'alinéa 1er, 7° et 9° à un service de police. S'il y procède, le service social compétent sera régulièrement informé par le juge des résultats de ce contrôle.) &lt;L 2006-06-13/40, art. 7, 3°, 023; En vigueur : 16-10-2006&gt;
+
+(§ 2ter. Les personnes visées à l'article 36, 4°, peuvent proposer au tribunal un projet écrit portant, notamment, sur l'un ou plusieurs des engagements suivants :
+
+1° formuler des excuses écrites ou orales;
+
+2° réparer elles-mêmes et en nature les dommages causés, si ceux-ci sont limités;
+
+3° participer à une offre restauratrice visée aux articles 37bis à 37quinquies;
+
+4° participer à un programme de réinsertion scolaire;
+
+5° participer à des activités précises dans le cadre d'un projet d'apprentissage et de formation, à raison de 45 heures de prestation au plus;
+
+6° suivre un traitement ambulatoire auprès d'un service psychologique ou psychiatrique, d'éducation sexuelle ou d'un service compétent dans le domaine de l'alcoolisme ou de la toxicomanie;
+
+7° se présenter auprès des services d'aide à la jeunesse organisés par les instances communautaires compétentes.
+
+Ce projet est remis au plus tard le jour de l'audience. Le tribunal apprécie l'opportunité du projet qui lui est soumis et, s'il l'approuve, confie le contrôle de son exécution au service social compétent.
+
+Dans un délai de trois mois à dater de l'approbation du projet, le service social compétent adresse au tribunal un rapport succinct portant sur le respect des engagements du jeune. Si le projet n'a pas été exécuté ou a été exécuté de manière insuffisante, le tribunal peut ordonner une autre mesure lors d'une audience ultérieure.) &lt;L 2006-06-13/40, art.7, 4°, 023; En vigueur : 16-10-2006; voir aussi art. 65 qui donne l' En vigueur : entrée en vigueur de l'art. 7 fixée le 16-10-2006 par AR 2006-09-28/31, art. 3 à l'exception du point 4°, en tant qu'il fait référence à l'article 37, § 2ter, alinéa 1er, 3°, de la loi, rédigé comme suit : " participer à une offre restauratrice visée aux articles 37bis à 37quinquies; ED indéterminée et au plus tard le 01-01-2013&gt;
+
+(NOTE : entrée en vigueur de l'art. 7, point 4° de la loi du 13 juin 2006 (2006-06-13/40) - en tant qu'il fait référence à l'article 37, § 2ter, 1er alinéa, 3°, de la loi du 8 avril 1965 &lt;L 1965-04-08/03&gt; - fixée au 02-04-2007, par AR 2007-02-25/38, art. 10)
+
+(§ 2quater. Le tribunal ne peut ordonner la mesure de placement en institution communautaire publique de protection de la jeunesse visée au § 2, alinéa 1er, 8°, en régime éducatif ouvert, qu'à l'égard des personnes qui ont douze ans ou plus et qui :
+
+1° soit, ont commis un fait qualifié infraction qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner, au sens du Code pénal ou des lois particulières, une peine d'emprisonnement correctionnel principal de trois ans ou une peine plus lourde;
+
+2° soit ont commis un fait qualifié coups et blessures;
+
+3° soit ont précédemment fait l'objet d'un jugement définitif ordonnant une mesure de placement au sein d'une institution communautaire publique de protection de la jeunesse à régime éducatif ouvert ou fermé et ont commis un nouveau fait qualifié infraction;
+
+4° soit (font l'objet) d'une révision de la mesure, conformément à l'article 60, pour le motif que la ou les mesures imposées précédemment n'ont pas été respectées par elles, auquel cas le placement peut être imposé pour une période de six mois au plus qui ne peut être prolongée. Au terme de cette période, d'autres mesures peuvent uniquement être imposées après une révision par le tribunal; &lt;L 2006-12-27/33, art. 93, 024; En vigueur : 07-01-2007&gt;
+
+5° soit font l'objet d'une révision telle que visée à l'article 60 et sont placées en institution communautaire publique de protection de la jeunesse à régime éducatif fermé au moment de cette révision.
+
+Le tribunal ne peut ordonner la mesure de placement en institution communautaire publique de protection de la jeunesse visée au § 2, alinéa 1er, 8°, en régime éducatif fermé, qu'à l'égard des personnes qui ont quatorze ans ou plus et qui :
+
+1° soit ont commis un fait qualifié infraction qui, s'il avait été commis par un majeur, aurait été de nature à entraîner, au sens du Code pénal ou des lois particulières, une peine de réclusion de cinq ans à dix ans ou une peine plus lourde;
+
+2° soit ont commis un fait qualifié attentat à la pudeur avec violence, ou une association de malfaiteurs ayant pour but de commettre des crimes, ou menace contre les personnes telle que visée à l'article 327 du Code pénal;
+
+3° soit ont précédemment fait l'objet d'un jugement définitif ordonnant une mesure de placement au sein d'une institution communautaire publique de protection de la jeunesse à régime éducatif ouvert ou fermé, et qui ont commis un nouveau fait qualifié infraction qui soit est qualifié coups et blessures, soit, s'il avait été commis par un majeur, aurait été de nature à entraîner, au sens du Code pénal ou des lois particulières, une peine d'emprisonnement correctionnel principal de trois ans ou une peine plus lourde;
+
+4° soit ont commis avec préméditation un fait qualifié coups et blessures qui a entraîné une maladie ou une incapacité de travail soit une maladie paraissant incurable, soit la perte complète de l'utilisation d'un organe, soit une mutilation grave, soit ont causé des dégâts à des bâtiments ou des machines à vapeur, commis en association ou en bande et avec violence, par voies de fait ou menaces, soit ont commis une rébellion avec arme et avec violence;
+
+5° soit (font l'objet) d'une révision de la mesure, conformément à l'article 60, pour le motif que la ou les mesures imposées précédemment n'ont pas été respectées par elles, auquel cas le placement peut être imposé pour une période de six mois au plus qui ne peut être prolongée. Au terme de cette période, d'autres mesures peuvent uniquement être imposées après une révision par le tribunal. &lt;L 2006-12-27/33, art. 93, 024; En vigueur : 07-01-2007&gt;
+
+Sans préjudice des conditions énumérées à l'alinéa 2, le tribunal peut ordonner la mesure de placement en institution communautaire publique de protection de la jeunesse visée au § 2, alinéa 1er, 8°, en régime éducatif fermé, à l'égard d'une personne âgée de douze à quatorze ans, qui a gravement porté atteinte à la vie ou à la santé d'une personne et dont le comportement est particulièrement dangereux.) &lt;L 2006-06-13/40, art.7, 5°, 023; En vigueur : 16-10-2006&gt;
+
+(§ 2quinquies. Lorsqu'il ordonne une des mesures visées aux §§ 2, 2bis et 2ter, le tribunal motive sa décision au regard des critères visés au § 1er et des circonstances de l'espèce.
+
+S'il ordonne une des mesures visées au § 2, alinéa 1er, 6° à 11°, une combinaison de plusieurs des mesures visées au § 2, une combinaison d'une ou de plusieurs de ces mesures avec une ou plusieurs conditions visées au § 2bis ou une mesure de placement en institution communautaire publique de protection de la jeunesse en régime éducatif fermé, le tribunal doit spécialement motiver ce choix au regard des priorités visées au § 2, alinéa 3.) &lt;L 2006-06-13/40, art.7, 6°, 023; En vigueur : 16-10-2006&gt;
+
+§ 3. Les mesures prévues au (§ 2, 2° à 11°), sont suspendues lorsque l'intéressé se trouve sous les armes. Elles prennent fin lorsque l'intéressé atteint dix-huit ans. &lt;L 2006-06-13/40, art.7, 7°, a, 023; En vigueur : 16-10-2006&gt;
+
+Toutefois, à l'égard des personnes visées à l'article 36, 4°, (et sans préjudice du § 2, alinéa 4, et de l'article 60) : &lt;L 2006-06-13/40, art.7, 7°, b, 023; En vigueur : 16-10-2006&gt;
+
+1° à la requête de l'intéressé (ou, en cas de mauvaise conduite persistante ou de comportement dangereux de l'intéressé, sur réquisition du ministère public), une prolongation de ces mesures peut être ordonnée, par jugement, pour une durée déterminée ne dépassant pas le jour où l'intéressé atteindra l'âge de vingt ans. Le tribunal est saisi de la requête ou de la réquisition dans les trois mois précédant le jour de la majorité de l'intéressé; &lt;L 2006-06-13/40, art.7, 7°, c, 023; En vigueur : 16-10-2006&gt;
+
+2° ces mesures pourront être ordonnées par jugement pour une durée déterminée ne dépassant pas le jour où l'intéressé atteindra (vingt-trois ans), lorsqu'il s'agit de personnes qui ont commis un fait qualifié infraction après l'âge de (seize ans). &lt;L 2006-06-13/40, art.7, 7°, d, 023; En vigueur : indéterminée et au plus tard le 01-01-2013; voir aussi art. 65 qui donne l' En vigueur : entrée en vigueur de l'art. 7 fixée le 16-10-2006 par AR 2006-09-28/31, art. 3 à l'exception du point 7°, d)&gt;
+
+(A l'égard des personnes visées au § 2, alinéa 1er, 11°, le placement résidentiel doit se poursuivre jusqu'à la fin du traitement, pour autant que ce traitement le nécessite.) &lt;L 2006-06-13/40, art.7, 7°, g, 023; En vigueur : 16-10-2006&gt;
+
+En cas d'appel contre ces jugements, la chambre de la jeunesse de la cour d'appel statue d'urgence. L'appel n'est pas suspensif. Les jugements et arrêts prononcés en application de cet article ne sont pas susceptibles d'opposition.
+
+§ 4. La mesure de réprimande prévue au § 2, 1°, est applicable aux personnes qui ont commis un fait qualifié infraction avant l'âge de dix-huit ans, même si elles ont dépassé cet âge au moment du jugement.
+
+Les personnes visées à l'alinéa précédent qui ont atteint l'âge de dix-huit ans au moment du jugement, sont assimilées aux mineurs pour l'application des dispositions du chapitre IV du présent titre, ainsi que de l'article (433bis du Code pénal). &lt;L 2005-08-10/62, art. 9, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 37_REGION_FLAMANDE
+
+&lt;Abrogé par DCFL 2019-02-15/20, art. 85, 038; En vigueur : 01-09-2022&gt;
+
+##### Art. 37_COMMUNAUTE_GERMANOPHONE
+
+§ 1. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2.
+
+§ 2bis. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2ter. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2quater. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2quinquies. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+(A l'égard des personnes visées au § 2, alinéa 1er, 11°, le placement résidentiel doit se poursuivre jusqu'à la fin du traitement, pour autant que ce traitement le nécessite.) &lt;L 2006-06-13/40, art.7, 7°, g, 023; En vigueur : 16-10-2006&gt;
+
+En cas d'appel contre ces jugements, la chambre de la jeunesse de la cour d'appel statue d'urgence. L'appel n'est pas suspensif. Les jugements et arrêts prononcés en application de cet article ne sont pas susceptibles d'opposition.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 12, 033; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2023-11-13/20, art. 128, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 37_COMMUNAUTE_FRANCAISE
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+En cas d'appel contre ces jugements, la chambre de la jeunesse de la cour d'appel statue d'urgence. L'appel n'est pas suspensif. Les jugements et arrêts prononcés en application de cet article ne sont pas susceptibles d'opposition.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(2)&lt;DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 37_REGION_DE_BRUXELLES-CAPITALE
+
+&lt;L 1994-02-02/33, art. 2, 007; En vigueur : 27-09-1994&gt; § 1. Le tribunal de la jeunesse peut ordonner à l'égard des personnes qui lui sont déférées, des mesures de garde, de préservation et d'éducation.
+
+(Pour rendre la décision prévue à l'alinéa 1er, le tribunal de la jeunesse prend en compte les facteurs suivants :
+
+1° la personnalité et le degré de maturité de l'intéressé;
+
+2° son cadre de vie;
+
+3° la gravité des faits, les circonstances dans lesquelles ils ont été commis, les dommages et les conséquences pour la victime;
+
+4° les mesures antérieures prises à l'égard de l'intéressé et son comportement durant l'exécution de celles- ci;
+
+5° la sécurité de l'intéressé;
+
+6° la sécurité publique.
+
+La disponibilité des moyens de traitement, des programmes d'éducation ou de toutes autres ressources envisagées et le bénéfice qu'en retirerait l'intéressé sont également pris en compte.) &lt;L 2006-06-13/40, art. 7, 1°, 023; En vigueur : 16-10-2006&gt;
+
+§ 2. (Il peut, le cas échéant, de façon cumulative :
+
+1° réprimander les intéressés et, sauf en ce qui concerne ceux qui ont atteint l'âge de dix-huit ans, les laisser ou les rendre aux personnes qui en assurent l'hébergement, en enjoignant à ces dernières, le cas échéant, de mieux les surveiller ou les éduquer à l'avenir;
+
+2° les soumettre à la surveillance du service social compétent;
+
+3° les soumettre à un accompagnement éducatif intensif et à un encadrement individualisé d'un éducateur référent dépendant du service désigné par les communautés ou d'une personne physique répondant aux conditions fixées par les communautés;
+
+4° leur imposer d'effectuer une prestation éducative et d'intérêt général en rapport avec leur âge et leurs capacités, à raison de 150 heures au plus, organisée par l'intermédiaire d'un service désigné par les communautés ou par une personne physique répondant aux conditions fixées par les communautés;
+
+5° leur imposer de suivre un traitement ambulatoire auprès d'un service psychologique ou psychiatrique, d'éducation sexuelle ou d'un service compétent dans le domaine de l'alcoolisme ou de la toxicomanie; le juge de la jeunesse peut accepter que le traitement soit entamé ou continué chez un médecin psychiatre, un psychologue ou un thérapeute qui lui sera proposé par la personne qui lui est déférée, ou par ses représentants légaux;
+
+6° les confier à une personne morale proposant l'encadrement de la réalisation d'une prestation positive consistant soit en une formation soit en la participation d'une activité organisée;
+
+7° les confier à une personne digne de confiance selon les modalités fixées par les communautés ou les placer dans un établissement approprié selon les modalités fixées par les communautés, en vue de leur hébergement, de leur traitement, de leur éducation, de leur instruction ou de leur formation professionnelle;
+
+8° les confier à une institution communautaire publique de protection de la jeunesse, dans le respect des critères de placement visés au § 2quater. En ce qui concerne les personnes visées à l'article 36, 4°, et sans préjudice des dispositions de l'article 60, la décision précise la durée de la mesure et si elle prescrit un régime éducatif fermé organisé par les autorités compétentes en vertu des articles 128 et 135 de la Constitution et de l'article 5, § 1er, II, 6°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, modifiée par la loi du 8 août 1988. Le juge ou le service social compétent rend visite à la personne confiée à une institution communautaire publique de protection de la jeunesse en régime fermé, si le placement excède quinze jours. (En cas de placement dans un régime éducatif fermé, la procédure en matière de sortie de l'établissement visées à l'article 52quater, alinéas 3 à 6, 9 et 10 s'applique); &lt;L 2006-12-27/33, art. 92, 024; En vigueur : 01-03-2007&gt;
+
+9° les placer dans un service hospitalier;
+
+10° décider le placement résidentiel dans un service compétent en matière d'alcoolisme, de toxicomanie ou de toute autre dépendance, si un rapport médical circonstancié, datant de moins d'un mois, atteste que l'intégrité physique ou psychique de l'intéressé ne peut être protégée d'une autre manière;
+
+11° décider le placement résidentiel de l'intéressé soit dans une section ouverte, soit dans une section fermée d'un service pédopsychiatrique, s'il est établi dans un rapport indépendant pédopsychiatrique, datant de moins d'un mois et établi selon les standards minimums déterminés par le Roi, qu'il souffre d'un trouble mental qui affecte gravement sa faculté de jugement ou sa capacité à contrôler ses actes. Le placement dans une section fermée d'un service pédopsychiatrique n'est possible qu'en application de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux, conformément à l'article 43.
+
+Seules les mesures visées à l'alinéa 1er, 1°, 2° et 3°, peuvent être ordonnées à l'égard des personnes de moins de douze ans (déférées du chef d'un fait qualifié infraction). En l'absence de mesures appropriées, le tribunal renvoie l'affaire au parquet qui peut à son tour la renvoyer aux services compétents des communautés. &lt;L 2006-12-27/33, art. 88, 024; En vigueur : 01-01-2007&gt;
+
+La préférence doit être donnée en premier lieu à une offre restauratrice, visée aux articles 37bis à 37quinquies. Avant qu'une mesure visée à l'alinéa 1er, 1° à 5° soit imposée, la faisabilité d'un projet proposé par la personne concernée, visé au § 2ter doit être considérée. Les mesures visées à l'alinéa 1er, 1° à 5° sont privilégiées par rapport à une mesure de placement. Enfin, le placement en régime ouvert est privilégié par rapport au placement en régime fermé;
+
+S'il prononce une mesure de placement en institution communautaire publique de protection de la jeunesse en régime ouvert ou fermé, le tribunal en précise la durée maximale, qui ne pourra être prorogée que pour des raisons exceptionnelles liées à la mauvaise conduite persistante de l'intéressé et à son comportement dangereux pour lui même ou pour autrui.
+
+Le tribunal peut assortir la mesure de placement d'un sursis pour une durée de 6 mois à compter de la date du jugement, pour autant que l'intéressé s'engage à effectuer une prestation éducative et d'intérêt général à raison de 150 heures au plus.
+
+Si le tribunal prononce, en application du § 2quater, alinéa 1er, 4°, ou alinéa 2, 5°, une mesure de placement en institution communautaire publique de protection de la jeunesse, il en précise la durée, qui est de six mois au plus et ne peut être prolongée.
+
+Si le tribunal impose une autre mesure, il en précise la durée maximale, à l'exception des mesures visées à l'alinéa 1er, 1°.) &lt;L 2006-06-13/40, art. 7, 2°, 023; En vigueur : 16-10-2006; voir aussi art. 65 qui donne l'entrée en vigueur de l'art. 7 fixée le 16-10-2006 par AR 2006-09-28/31, art. 3 à l'exception du point 2°, en tant qu'il fait référence au § 2, alinéa 1er, 3°, 5°, 6°, 9°, 10° et 11° de l'article 37 de la loi, à l'alinéa 2 du § 2, de l'article 37 de la loi et à la 1re phrase de l'alinéa 3 du § 2 de l'article 37 de la loi, rédigée comme suit : " La préférence doit être donnée en premier lieu à une offre restauratrice, visée aux articles 37bis à 37quinquies, En vigueur : indéterminée et au plus tard le 01-01-2011&gt;
+
+(NOTE : l'article 7 point 2° de la loi du 13 juin 2006 (2006-06-13/40), tel que modifié par la loi du 27 décembre 2006 portant des dispositions diverses (2006-12-27/33) et en tant qu'il fait référence à l'article 37, § 2, alinéa 2, et à l'article 37, § 2, alinéa 3, première phrase, rédigée comme suit " La préférence doit être donnée en premier lieu à une offre restauratrice, visée aux articles 37bis à 37quinquies." de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, entre en vigueur le 02-04-2007 par AR 2007-02-25/38, art. 9)
+
+(§ 2bis. A l'égard des personnes de plus de douze ans le tribunal peut subordonner le maintien des personnes qui lui sont déférées dans leur milieu de vie à une ou plusieurs des conditions suivantes dont il peut confier le contrôle du respect au service social compétent :
+
+1° fréquenter régulièrement un établissement scolaire d'enseignement ordinaire ou spécial;
+
+2° accomplir une prestation éducative et d'intérêt général, en rapport avec leur âge et leurs capacités, à raison de 150 heures au plus, sous la surveillance d'un service désigné par les communautés ou d'une personne physique répondant aux conditions fixées par les communautés;
+
+3° accomplir, à raison de 150 heures au plus un travail rémunéré en vue de l'indemnisation de la victime, si l'intéressé est âgé de seize ans au moins;
+
+4° suivre les directives pédagogiques ou médicales d'un centre d'orientation éducative ou de santé mentale;
+
+5° participer à un ou plusieurs modules de formation ou de sensibilisation aux conséquences des actes accomplis et de leur impact sur les éventuelles victimes;
+
+6° participer à une ou plusieurs activités sportives, sociales ou culturelles encadrées;
+
+7° ne pas fréquenter certaines personnes ou certains lieux déterminés qui ont un rapport avec le fait qualifié infraction qui a été commis;
+
+8° ne pas exercer une ou plusieurs activités déterminées au regard des circonstances de l'espèce;
+
+9° le respect d'une interdiction de sortir;
+
+10° respecter d'autres conditions ou interdictions ponctuelles que le tribunal détermine.
+
+Le juge ou le tribunal peut confier le contrôle de l'exécution des conditions visées à l'alinéa 1er, 7° et 9° à un service de police. S'il y procède, le service social compétent sera régulièrement informé par le juge des résultats de ce contrôle.) &lt;L 2006-06-13/40, art. 7, 3°, 023; En vigueur : 16-10-2006&gt;
+
+(§ 2ter. Les personnes visées à l'article 36, 4°, peuvent proposer au tribunal un projet écrit portant, notamment, sur l'un ou plusieurs des engagements suivants :
+
+1° formuler des excuses écrites ou orales;
+
+2° réparer elles-mêmes et en nature les dommages causés, si ceux-ci sont limités;
+
+3° participer à une offre restauratrice visée aux articles 37bis à 37quinquies;
+
+4° participer à un programme de réinsertion scolaire;
+
+5° participer à des activités précises dans le cadre d'un projet d'apprentissage et de formation, à raison de 45 heures de prestation au plus;
+
+6° suivre un traitement ambulatoire auprès d'un service psychologique ou psychiatrique, d'éducation sexuelle ou d'un service compétent dans le domaine de l'alcoolisme ou de la toxicomanie;
+
+7° se présenter auprès des services d'aide à la jeunesse organisés par les instances communautaires compétentes.
+
+Ce projet est remis au plus tard le jour de l'audience. Le tribunal apprécie l'opportunité du projet qui lui est soumis et, s'il l'approuve, confie le contrôle de son exécution au service social compétent.
+
+Dans un délai de trois mois à dater de l'approbation du projet, le service social compétent adresse au tribunal un rapport succinct portant sur le respect des engagements du jeune. Si le projet n'a pas été exécuté ou a été exécuté de manière insuffisante, le tribunal peut ordonner une autre mesure lors d'une audience ultérieure.) &lt;L 2006-06-13/40, art.7, 4°, 023; En vigueur : 16-10-2006; voir aussi art. 65 qui donne l' En vigueur : entrée en vigueur de l'art. 7 fixée le 16-10-2006 par AR 2006-09-28/31, art. 3 à l'exception du point 4°, en tant qu'il fait référence à l'article 37, § 2ter, alinéa 1er, 3°, de la loi, rédigé comme suit : " participer à une offre restauratrice visée aux articles 37bis à 37quinquies; ED indéterminée et au plus tard le 01-01-2013&gt;
+
+(NOTE : entrée en vigueur de l'art. 7, point 4° de la loi du 13 juin 2006 (2006-06-13/40) - en tant qu'il fait référence à l'article 37, § 2ter, 1er alinéa, 3°, de la loi du 8 avril 1965 &lt;L 1965-04-08/03&gt; - fixée au 02-04-2007, par AR 2007-02-25/38, art. 10)
+
+(§ 2quater. Le tribunal ne peut ordonner la mesure de placement en institution communautaire publique de protection de la jeunesse visée au § 2, alinéa 1er, 8°, en régime éducatif ouvert, qu'à l'égard des personnes qui ont douze ans ou plus et qui :
+
+1° soit, ont commis un fait qualifié infraction qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner, au sens du Code pénal ou des lois particulières, une peine d'emprisonnement correctionnel principal de trois ans ou une peine plus lourde;
+
+2° soit ont commis un fait qualifié coups et blessures;
+
+3° soit ont précédemment fait l'objet d'un jugement définitif ordonnant une mesure de placement au sein d'une institution communautaire publique de protection de la jeunesse à régime éducatif ouvert ou fermé et ont commis un nouveau fait qualifié infraction;
+
+4° soit (font l'objet) d'une révision de la mesure, conformément à l'article 60, pour le motif que la ou les mesures imposées précédemment n'ont pas été respectées par elles, auquel cas le placement peut être imposé pour une période de six mois au plus qui ne peut être prolongée. Au terme de cette période, d'autres mesures peuvent uniquement être imposées après une révision par le tribunal; &lt;L 2006-12-27/33, art. 93, 024; En vigueur : 07-01-2007&gt;
+
+5° soit font l'objet d'une révision telle que visée à l'article 60 et sont placées en institution communautaire publique de protection de la jeunesse à régime éducatif fermé au moment de cette révision.
+
+Le tribunal ne peut ordonner la mesure de placement en institution communautaire publique de protection de la jeunesse visée au § 2, alinéa 1er, 8°, en régime éducatif fermé, qu'à l'égard des personnes qui ont quatorze ans ou plus et qui :
+
+1° soit ont commis un fait qualifié infraction qui, s'il avait été commis par un majeur, aurait été de nature à entraîner, au sens du Code pénal ou des lois particulières, une peine de réclusion de cinq ans à dix ans ou une peine plus lourde;
+
+2° soit ont commis un fait qualifié attentat à la pudeur avec violence, ou une association de malfaiteurs ayant pour but de commettre des crimes, ou menace contre les personnes telle que visée à l'article 327 du Code pénal;
+
+3° soit ont précédemment fait l'objet d'un jugement définitif ordonnant une mesure de placement au sein d'une institution communautaire publique de protection de la jeunesse à régime éducatif ouvert ou fermé, et qui ont commis un nouveau fait qualifié infraction qui soit est qualifié coups et blessures, soit, s'il avait été commis par un majeur, aurait été de nature à entraîner, au sens du Code pénal ou des lois particulières, une peine d'emprisonnement correctionnel principal de trois ans ou une peine plus lourde;
+
+4° soit ont commis avec préméditation un fait qualifié coups et blessures qui a entraîné une maladie ou une incapacité de travail soit une maladie paraissant incurable, soit la perte complète de l'utilisation d'un organe, soit une mutilation grave, soit ont causé des dégâts à des bâtiments ou des machines à vapeur, commis en association ou en bande et avec violence, par voies de fait ou menaces, soit ont commis une rébellion avec arme et avec violence;
+
+5° soit (font l'objet) d'une révision de la mesure, conformément à l'article 60, pour le motif que la ou les mesures imposées précédemment n'ont pas été respectées par elles, auquel cas le placement peut être imposé pour une période de six mois au plus qui ne peut être prolongée. Au terme de cette période, d'autres mesures peuvent uniquement être imposées après une révision par le tribunal. &lt;L 2006-12-27/33, art. 93, 024; En vigueur : 07-01-2007&gt;
+
+Sans préjudice des conditions énumérées à l'alinéa 2, le tribunal peut ordonner la mesure de placement en institution communautaire publique de protection de la jeunesse visée au § 2, alinéa 1er, 8°, en régime éducatif fermé, à l'égard d'une personne âgée de douze à quatorze ans, qui a gravement porté atteinte à la vie ou à la santé d'une personne et dont le comportement est particulièrement dangereux.) &lt;L 2006-06-13/40, art.7, 5°, 023; En vigueur : 16-10-2006&gt;
+
+(§ 2quinquies. Lorsqu'il ordonne une des mesures visées aux §§ 2, 2bis et 2ter, le tribunal motive sa décision au regard des critères visés au § 1er et des circonstances de l'espèce.
+
+S'il ordonne une des mesures visées au § 2, alinéa 1er, 6° à 11°, une combinaison de plusieurs des mesures visées au § 2, une combinaison d'une ou de plusieurs de ces mesures avec une ou plusieurs conditions visées au § 2bis ou une mesure de placement en institution communautaire publique de protection de la jeunesse en régime éducatif fermé, le tribunal doit spécialement motiver ce choix au regard des priorités visées au § 2, alinéa 3.) &lt;L 2006-06-13/40, art.7, 6°, 023; En vigueur : 16-10-2006&gt;
+
+§ 3. Les mesures prévues au (§ 2, 2° à 11°), sont suspendues lorsque l'intéressé se trouve sous les armes. Elles prennent fin lorsque l'intéressé atteint dix-huit ans. &lt;L 2006-06-13/40, art.7, 7°, a, 023; En vigueur : 16-10-2006&gt;
+
+Toutefois, à l'égard des personnes visées à l'article 36, 4°, (et sans préjudice du § 2, alinéa 4, et de l'article 60) : &lt;L 2006-06-13/40, art.7, 7°, b, 023; En vigueur : 16-10-2006&gt;
+
+1° à la requête de l'intéressé (ou, en cas de mauvaise conduite persistante ou de comportement dangereux de l'intéressé, sur réquisition du ministère public), une prolongation de ces mesures peut être ordonnée, par jugement, pour une durée déterminée ne dépassant pas le jour où l'intéressé atteindra l'âge de vingt ans. Le tribunal est saisi de la requête ou de la réquisition dans les trois mois précédant le jour de la majorité de l'intéressé; &lt;L 2006-06-13/40, art.7, 7°, c, 023; En vigueur : 16-10-2006&gt;
+
+2° ces mesures pourront être ordonnées par jugement pour une durée déterminée ne dépassant pas le jour où l'intéressé atteindra vingt ans, lorsqu'il s'agit de personnes qui ont commis un fait qualifié infraction après l'âge de ([<sup>1</sup> seize ans]<sup>1</sup>). &lt;L 2006-06-13/40, art.7, 7°, d, 023; En vigueur : indéterminée et au plus tard le 01-01-2013; voir aussi art. 65 qui donne l' En vigueur : entrée en vigueur de l'art. 7 fixée le 16-10-2006 par AR 2006-09-28/31, art. 3 à l'exception du point 7°, d)&gt;
+
+(A l'égard des personnes visées au § 2, alinéa 1er, 11°, le placement résidentiel doit se poursuivre jusqu'à la fin du traitement, pour autant que ce traitement le nécessite.) &lt;L 2006-06-13/40, art.7, 7°, g, 023; En vigueur : 16-10-2006&gt;
+
+En cas d'appel contre ces jugements, la chambre de la jeunesse de la cour d'appel statue d'urgence. L'appel n'est pas suspensif. Les jugements et arrêts prononcés en application de cet article ne sont pas susceptibles d'opposition.
+
+§ 4. La mesure de réprimande prévue au § 2, 1°, est applicable aux personnes qui ont commis un fait qualifié infraction avant l'âge de dix-huit ans, même si elles ont dépassé cet âge au moment du jugement.
+
+Les personnes visées à l'alinéa précédent qui ont atteint l'âge de dix-huit ans au moment du jugement, sont assimilées aux mineurs pour l'application des dispositions du chapitre IV du présent titre, ainsi que de l'article (433bis du Code pénal). &lt;L 2005-08-10/62, art. 9, 021 ; En vigueur : 02-09-2005&gt;
+
+----------
+
+(1)&lt;ORD 2015-12-18/56, art. 2, 031; En vigueur : 31-12-2015&gt;
+
+##### Art. 37bis
+
+&lt;inséré par L 2006-05-15/35, art. 2; En vigueur : 02-04-2007&gt; § 1er. Le juge ou le tribunal peut faire une offre restauratrice de médiation et de concertation restauratrice en groupe si les conditions suivantes sont remplies :
+
+1° il existe des indices sérieux de culpabilité;
+
+2° la personne qui est présumée avoir commis un fait qualifié infraction déclare ne pas nier être concernée par le fait qualifié infraction;
+
+3° une victime est identifiée.
+
+Une offre restauratrice ne peut être mise en oeuvre que si les personnes qui y participent y adhèrent de manière expresse et sans réserve, et ce, tout au long de la médiation ou de la concertation restauratrice en groupe.
+
+§ 2. La médiation permet à la personne qui est présumée avoir commis un fait qualifié infraction, aux personnes qui exercent l'autorité parentale à son égard, aux personnes qui en ont la garde en droit ou en fait ainsi qu'à la victime, d'envisager ensemble, et avec l'aide d'un médiateur neutre, les possibilités de rencontrer les conséquences notamment relationnelles et matérielles d'un fait qualifié infraction.
+
+Le juge ou le tribunal propose, par écrit, aux personnes visées au premier alinéa de participer à une médiation.
+
+§ 3. La concertation restauratrice en groupe permet à la personne qui est présumée avoir commis un fait qualifié infraction, à la victime, à leur entourage social, ainsi qu'à toutes personnes utiles, d'envisager, en groupe et avec l'aide d'un médiateur neutre, des solutions concertées sur la manière de résoudre le conflit résultant du fait qualifié infraction, notamment en tenant compte des conséquences relationnelles et matérielles résultant du fait qualifié infraction.
+
+Le juge ou le tribunal propose une concertation restauratrice en groupe à la personne qui lui est déférée et qui est présumée avoir commis un fait qualifié infraction, aux personnes qui exercent l'autorité parentale à son égard et aux personnes qui en ont la garde en droit ou en fait.
+
+La ou les victimes sont informées par écrit.
+
+§ 4. Le juge ou le tribunal informe les personnes visées au § 2, alinéa 1er, et au § 3, alinéa 2, qu'elles peuvent :
+
+1° être conseillées par leur avocat avant d'accepter l'offre restauratrice;
+
+2° se faire assister d'un avocat des le moment où l'accord auquel aboutissent les personnes visées aux § 2, alinéa 1er, et § 3, alinéa 2, est fixé.
+
+(NOTE : par son arrêt n° 50/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19886-19893), la Cour Constitutionnelle a annulé l'article 37bis, § 1, 1° et 2°)
+
+##### Art. 37bis_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 129, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 37bis_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 51, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 37bis_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 37ter
+
+&lt;inséré par L 2006-05-15/35, art. 3; En vigueur : 02-04-2007&gt; § 1er. Le juge ou le tribunal fait parvenir une copie de sa décision au service de médiation ou au service de concertation restauratrice en groupe, reconnu par les autorités compétentes, organisé par les communautés ou répondant aux conditions fixées par celles-ci. Ce service est chargé de mettre en oeuvre l'offre restauratrice.
+
+§ 2. Si les personnes visées à l'article 37bis, § 2, alinéa 1er, et § 3, alinéa 2, ne prennent pas contact, dans les huit jours ouvrables à partir de la proposition du tribunal, avec le service de médiation ou le service de concertation restauratrice en groupe, ce service prend contact avec les personnes citées pour leur faire une offre restauratrice.
+
+§ 3. Le service de concertation restauratrice en groupe contacte, en concertation avec les personnes visées à l'article 37bis, § 3, alinéa 2, les personnes de leur entourage social et toutes autres personnes utiles.
+
+Le service de médiation peut, moyennant l'accord des personnes visées à l'article 37bis, § 2, alinéa 1er, impliquer d'autres personnes ayant un intérêt direct à la médiation.
+
+##### Art. 37ter_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 130, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 37ter_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 51, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 37ter_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 37quater
+
+&lt;inséré par L 2006-05-15/35, art. 4; En vigueur : 02-04-2007&gt; § 1er. Si la médiation ou la concertation restauratrice en groupe mène à un accord, l'accord, signé par la personne qui est présumée avoir commis un fait qualifié infraction, par les personnes qui exercent l'autorité parentale à son égard ainsi que par la victime, est joint au dossier judiciaire.
+
+En cas de concertation restauratrice en groupe, une déclaration d'intention de la personne qui est présumée avoir commis un fait qualifié infraction est également insérée. Elle y explique les démarches concrètes qu'elle entreprendra en vue de restaurer les dommages relationnels et matériels et les dommages subis par la communauté et d'empêcher d'autres faits dans le futur.
+
+L'accord obtenu doit être homologué par le juge ou le tribunal. Celui-ci ne peut modifier son contenu. Le juge ou le tribunal ne peut refuser l'homologation que si l'accord est contraire à l'ordre public.
+
+§ 2. Si l'offre restauratrice n'aboutit pas à un accord, les autorités judiciaires ou les personnes concernées par l'offre restauratrice ne peuvent utiliser ni la reconnaissance de la matérialité du fait qualifié infraction par la personne présumée d'avoir commis un fait qualifié infraction, ni le déroulement ou le résultat de l'offre restauratrice en défaveur du jeune.
+
+Le service de médiation ou de concertation restauratrice en groupe établit un rapport succinct sur le déroulement de l'offre restauratrice en groupe et sur son résultat. Ce rapport est soumis à l'avis des personnes visées à l'article 37bis, § 2, alinéa 1er et § 3, alinéa 2. Il est joint au dossier de la procédure.
+
+§ 3. Les documents établis et les communications faites dans le cadre d'une intervention du service de médiation ou de concertation restauratrice en groupe sont confidentiels, à l'exception de ce que les parties consentent à porter à la connaissance des autorités judiciaires. Ils ne peuvent être utilisés dans une procédure pénale, civile, administrative ou arbitrale ou dans toute autre procédure visant à résoudre des conflits et ne sont pas admissibles comme preuve, même comme aveu extrajudiciaire.
+
+##### Art. 37quater_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 131, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 37quater_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 51, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 37quater_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 37quinquies
+
+&lt;inséré par L 2006-05-15/35, art. 5; En vigueur : 02-04-2007&gt; § 1er. Le service de médiation ou le service de concertation restauratrice en groupe établit un rapport succinct sur l'exécution de l'accord et l'adresse au juge ou au tribunal ainsi qu'au service social compétent.
+
+§ 2. Si l'exécution de l'accord selon les modalités prévues intervient avant le prononcé du jugement, le tribunal doit tenir compte de cet accord et de son exécution.
+
+§ 3. Si l'exécution de l'accord selon les modalités prévues intervient après le prononcé du jugement, le tribunal peut être saisi sur la base de l'article 60 en vue d'alléger la ou les mesures définitives ordonnées à l'encontre de la personne ayant commis un fait qualifié infraction.
+
+##### Art. 37quinquies_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 2, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 37quinquies_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 51, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 37quinquies_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 38
+
+(Abrogé) &lt;L 2006-05-15/35, art. 6, 022; En vigueur : 01-10-2007&gt;
+
+##### Art. 38bis
+
+(anc. 37bis) &lt;Rétabli par L 2004-05-07/65, art. 3, 019; En vigueur : 05-07-2004&gt; Les mineurs peuvent faire l'objet d'une sanction administrative visée à : &lt;L 2006-05-15/35, art. 2, 022 ; En vigueur : 02-04-2007&gt; &lt;L 2006-12-27/32, art. 376, 1°, 002; En vigueur : 28-12-2006&gt;
+
+1° [<sup>1</sup> l'article 4, § 1er, 1°, de la loi du 24 juin 2013 relative aux sanctions administratives communales, si le mineur a atteint l'âge de quatorze ans accomplis au moment des faits;]<sup>1</sup>
+
+2° l'article 24, alinéa 2, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, si le mineur a atteint l'âge de quatorze ans accomplis au moment des faits;
+
+[<sup>2</sup> 3° les articles 29 et 30 de la loi sur la police des chemins de fer, si le mineur a atteint l'âge de quatorze ans accomplis au moment des faits.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-19/64, art. 3, 028; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-04-27/18, art. 52,§2, 036; En vigueur : 01-11-2018&gt;
+
+##### Art. 39
+
+Si la mesure prise en vertu de l'article 37 et inopérante en raison de la mauvaise conduite persistante ou du comportement dangereux du mineur, le tribunal de la jeunesse peut décider que le mineur sera mis à la disposition du Gouvernement jusqu'à sa majorité.
+
+(La présente disposition n'est pas applicable aux personnes qui ont commis un fait qualifie infraction.) &lt;L 1994-02-02/33, art. 4, 007; En vigueur : 27-09-1994&gt;
+
+##### Art. 39_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 39_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 133, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 39_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 52, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 39_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 40
+
+(Abrogé) &lt;L 1990-01-19/30, art. 48, 002; En vigueur : 01-05-1990&gt;
+
+##### Art. 41
+
+Lorsque le mineur est mis à la disposition du Gouvernement en vertu des articles 39 ou 40, le Ministre de la Justice décide de le soumettre à l'une des mesures prévues à l'article 37, (§ 2, 2°, 7° et 8° et § 2bis), ou de le faire détenir, s'il a plus de seize ans, dans un établissement pénitentiaire où il sera soumis à un régime spécial. &lt;L 2006-06-13/40, art.8, 023; En vigueur : 16-10-2006&gt;
+
+(La présente disposition n'est pas applicable aux personnes qui ont commis un fait qualifié infraction.) &lt;L 1994-02-02/33, art. 5, 007; En vigueur : 27-09-1994&gt;
+
+##### Art. 41_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 41_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 134, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 41_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 53, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 41_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 42
+
+Le mineur qui a fait l'objet d'une des mesures prévues à l'article (37, § 2, alinéa 1er, 6° à 11°), en dehors des cas prévus à l'article 41, est soumis jusqu'à sa majorité à la surveillance du tribunal de la jeunesse. &lt;L 2006-05-15/35, art. 7, 022 ; En vigueur : 16-10-2006&gt;
+
+Le tribunal de la jeunesse désigne pour assurer cette surveillance (le service social compétent). &lt;L 1994-02-02/33, art. 6, 007; En vigueur : 27-09-1994&gt;
+
+##### Art. 42_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 135, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 42_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 54, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 42_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 43
+
+&lt;L 2006-06-13/40, art.9, 023; En vigueur : 16-10-2006&gt; A l'égard des personnes visées à l'article 36, 4°, le juge ou le tribunal de la jeunesse applique les dispositions de la présente loi, sans préjudice de l'application de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux.
+
+En cas d'application de la loi du 26 juin 1990 précitée aux personnes renvoyées initialement devant le tribunal de la jeunesse sur la base de l'article 36, 4°, la décision du médecin-chef de service de lever la mesure, prise conformément à l'article 12, 3°, ou 19, de la loi du 26 juin 1990 n'est exécutée qu'après un délai de cinq jours ouvrables à compter du jour où le tribunal de la jeunesse en est informé. Dans ce délai, et sans pouvoir le prolonger, le tribunal statue sur toute autre mesure visée à l'article 37, qu'il juge utile.
+
+##### Art. 43_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 2006-06-13/40, art.9, 023; En vigueur : 16-10-2006&gt; A l'égard des personnes visées à l'[<sup>1</sup> article 63 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>, le juge ou le tribunal de la jeunesse applique les dispositions [<sup>1</sup> du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>, sans préjudice de l'application de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux.
+
+En cas d'application de la loi du 26 juin 1990 précitée aux personnes renvoyées initialement devant le tribunal de la jeunesse sur la base de l'[<sup>1</sup> article 63 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>, la décision du médecin-chef de service de lever la mesure, prise conformément à l'article 12, 3°, ou 19, de la loi du 26 juin 1990 n'est exécutée qu'après un délai de cinq jours ouvrables à compter du jour où le tribunal de la jeunesse en est informé. Dans ce délai, et sans pouvoir le prolonger, le tribunal statue sur toute autre mesure visée à l'[<sup>1</sup> article 73, § 3, alinéa 1er, du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>, qu'il juge utile.
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 136, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 43_REGION_FLAMANDE
+
+&lt;L 2006-06-13/40, art.9, 023; En vigueur : 16-10-2006&gt; A l'égard des personnes visées à [<sup>1</sup> l'article 14 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup>, le juge ou le tribunal de la jeunesse applique les dispositions [<sup>1</sup> du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup>, sans préjudice de l'application de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux.
+
+En cas d'application de la loi du 26 juin 1990 précitée aux personnes renvoyées initialement devant le tribunal de la jeunesse sur la base de [<sup>1</sup> l'article 14 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup>, la décision du médecin-chef de service de lever la mesure, prise conformément à l'article 12, 3°, ou 19, de la loi du 26 juin 1990 n'est exécutée qu'après un délai de cinq jours ouvrables à compter du jour où le tribunal de la jeunesse en est informé. Dans ce délai, et sans pouvoir le prolonger, le tribunal statue sur toute autre [<sup>1</sup> sanction visée à l'article 29, § 2, alinéa 1er du décret précité du 15 février 2019]<sup>1</sup>, qu'il juge utile.
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 55, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 43_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 43bis
+
+(abrogé) &lt;L 2006-12-27/32, art. 375, 026; En vigueur : 28-12-2006&gt;
+
+### CHAPITRE IV. - De la compétence territoriale et de la procédure.
+
+##### Art. 44
+
+[<sup>1</sup> § 1er. La compétence territoriale du tribunal de la jeunesse est déterminée par la résidence des personnes qui exercent l'autorité parentale ou, en cas d'exercice conjoint par des personnes séparées, par la résidence de celle chez qui le jeune réside habituellement.
+
+§ 2. Lorsque celles-ci n'ont pas de résidence en Belgique ou lorsque leur résidence est inconnue ou incertaine, le tribunal de la jeunesse compétent est celui du lieu où l'intéressé a commis le fait qualifié infraction, du lieu où il est trouvé ou du lieu où la personne ou l'établissement auquel il a été confié par les instances compétentes a sa résidence ou son siège.
+
+§ 3. Lorsque le tribunal de la jeunesse est saisi après que le jeune a atteint l'âge de dix-huit ans, le tribunal de la jeunesse compétent est celui du lieu de la résidence du jeune, ou, si celle-ci est inconnue ou incertaine, du lieu où le fait qualifié infraction a été commis.
+
+§ 4. Néanmoins le tribunal de la jeunesse compétent est celui de la résidence du requérant en cas d'application de l'article 18, alinéa 5.
+
+§ 5. Si les personnes visées au § 1er changent de résidence alors que le jeune fait l'objet d'une mesure de garde, de préservation ou d'éducation, elles doivent, sous peine d'amende d'un à vingt-cinq euros, en donner avis sans délai au tribunal de la jeunesse compétent.
+
+§ 6. Le changement de résidence entraîne le dessaisissement de ce tribunal au profit du tribunal de la jeunesse de l'arrondissement où est située la nouvelle résidence sauf si le juge de la jeunesse, le ministère public ou les parents demandent le maintien de la saisine du tribunal de la jeunesse déjà saisi. Le dossier est transmis par le greffier du tribunal dessaisi au tribunal saisi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 242, 029; En vigueur : 01-09-2014&gt;
+
+##### Art. 44_COMMUNAUTE_GERMANOPHONE
+
+[<sup>1</sup> § 1er. La compétence territoriale du tribunal de la jeunesse est déterminée par la résidence des personnes qui exercent l'autorité parentale ou, en cas d'exercice conjoint par des personnes séparées, par la résidence de celle chez qui le jeune réside habituellement.
+
+§ 2. Lorsque celles-ci n'ont pas de résidence en Belgique ou lorsque leur résidence est inconnue ou incertaine, le tribunal de la jeunesse compétent est celui du lieu où l'intéressé a commis [<sup>2</sup> le fait de délinquance juvénile]<sup>2</sup>, du lieu où il est trouvé ou du lieu où la personne ou l'établissement auquel il a été confié par les instances compétentes a sa résidence ou son siège.
+
+§ 3. Lorsque le tribunal de la jeunesse est saisi après que le jeune a atteint l'âge de dix-huit ans, le tribunal de la jeunesse compétent est celui du lieu de la résidence du jeune, ou, si celle-ci est inconnue ou incertaine, du lieu où [<sup>2</sup> le fait de délinquance juvénile]<sup>2</sup> a été commis.
+
+§ 4. Néanmoins le tribunal de la jeunesse compétent est celui de la résidence du requérant en cas d'application de l'article 18, alinéa 5.
+
+§ 5. Si les personnes visées au § 1er changent de résidence alors que le jeune fait l'objet d'une mesure de garde, de préservation ou d'éducation, elles doivent, sous peine d'amende d'un à vingt-cinq euros, en donner avis sans délai au tribunal de la jeunesse compétent.
+
+§ 6. Le changement de résidence entraîne le dessaisissement de ce tribunal au profit du tribunal de la jeunesse de l'arrondissement où est située la nouvelle résidence sauf si le juge de la jeunesse, le ministère public ou les parents demandent le maintien de la saisine du tribunal de la jeunesse déjà saisi. Le dossier est transmis par le greffier du tribunal dessaisi au tribunal saisi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 242, 029; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCG 2023-11-13/20, art. 137, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 44_REGION_FLAMANDE
+
+[<sup>1</sup> § 1er. La compétence territoriale du tribunal de la jeunesse est déterminée par la résidence des personnes qui exercent l'autorité parentale ou, en cas d'exercice conjoint par des personnes séparées, par la résidence de celle chez qui le jeune réside habituellement.
+
+§ 2. Lorsque celles-ci n'ont pas de résidence en Belgique ou lorsque leur résidence est inconnue ou incertaine, le tribunal de la jeunesse compétent est celui du lieu où l'intéressé a commis le [<sup>2</sup> délit de mineur]<sup>2</sup>, du lieu où il est trouvé ou du lieu où la personne ou l'établissement auquel il a été confié par les instances compétentes a sa résidence ou son siège.
+
+§ 3. Lorsque le tribunal de la jeunesse est saisi après que le jeune a atteint l'âge de dix-huit ans, le tribunal de la jeunesse compétent est celui du lieu de la résidence du jeune, ou, si celle-ci est inconnue ou incertaine, du lieu où le [<sup>3</sup> délit de mineur]<sup>3</sup> a été commis.
+
+§ 4. Néanmoins le tribunal de la jeunesse compétent est celui de la résidence du requérant en cas d'application de l'article 18, alinéa 5.
+
+§ 5. Si les personnes visées au § 1er changent de résidence alors que le jeune fait l'objet d'une [<sup>2</sup> mesure et d'une sanction]<sup>2</sup>, elles doivent, sous peine d'amende d'un à vingt-cinq euros, en donner avis sans délai au tribunal de la jeunesse compétent.
+
+§ 6. Le changement de résidence entraîne le dessaisissement de ce tribunal au profit du tribunal de la jeunesse de l'arrondissement où est située la nouvelle résidence sauf si le juge de la jeunesse, le ministère public ou les parents demandent le maintien de la saisine du tribunal de la jeunesse déjà saisi. Le dossier est transmis par le greffier du tribunal dessaisi au tribunal saisi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 242, 029; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2019-02-15/20, art. 56, 038; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2022-07-15/18, art. 3, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 45
+
+Le tribunal de la jeunesse est saisi :
+
+1\. [<sup>2</sup> d'office, à la demande du ministère public, des parents ou, le cas échéant, des accueillants familiaux s'il s'agit d'une matière visée à l'article 7.]<sup>2</sup>
+
+2\. dans les matières prévues au titre II, chapitre III :
+
+a) par la réquisition du ministère public ou l'ordonnance de renvoi prévue à l'article 49, alinéa 3, en vue de procéder aux investigations prévues à l'article 50 et d'ordonner, s'il échet, les mesures provisoires de garde prévues (à l'article 52); &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt;
+
+b) par la comparution volontaire à la suite d'un avertissement motivé donné par le ministère public ou la citation à la requête du ministère public, en vue de statuer au fond, (ou en vue du dessaisissement prévu à l'article ((57bis) les parties entendues en leurs moyens. &lt;L 1994-02-02/33, art. 8, 4°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-05-15/35, art. 8, 1, 022; En vigueur : 01-10-2007&gt;
+
+(c) par la requête visée aux articles 37, § 3, 1°, (47, alinéa 3,) et 60, les parties étant convoquées, dans ce cas, par pli judiciaire adressé suivant les formes prévues à l'article 46, § 1er, du Code judiciaire.) &lt;L 1994-02-02/33, art. 8, 5°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-05-15/35, art. 8, 2, 022; En vigueur : 01-01-2011&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 243, 029; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-03-19/08, art. 22, 035; En vigueur : 01-09-2017&gt;
+
+##### Art. 45_REGION_FLAMANDE
+
+Le tribunal de la jeunesse est saisi :
+
+1\. [<sup>2</sup> d'office, à la demande du ministère public, des parents ou, le cas échéant, des accueillants familiaux s'il s'agit d'une matière visée à l'article 7.]<sup>2</sup>
+
+2\. dans les matières prévues au titre II, chapitre III :
+
+a) par la réquisition du ministère public ou l'ordonnance de renvoi prévue à l'article 49, alinéa 3, en vue de procéder aux investigations prévues à l'article 50 et d'ordonner, s'il échet, [<sup>3</sup> les mesures déterminées à l'article 20, § 2, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>3</sup>; &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt;
+
+b) par la comparution volontaire à la suite d'un avertissement motivé donné par le ministère public ou la citation à la requête du ministère public, en vue de statuer au fond, (ou en vue du dessaisissement prévu à l'article ((57bis) les parties entendues en leurs moyens. &lt;L 1994-02-02/33, art. 8, 4°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-05-15/35, art. 8, 1, 022; En vigueur : 01-10-2007&gt;
+
+(c) par la requête visée aux articles [<sup>3</sup> ...]<sup>3</sup> (47, alinéa 3,) et 60, les parties étant convoquées, dans ce cas, par pli judiciaire adressé suivant les formes prévues à l'article 46, § 1er, du Code judiciaire.) &lt;L 1994-02-02/33, art. 8, 5°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-05-15/35, art. 8, 2, 022; En vigueur : 01-01-2011&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 243, 029; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-03-19/08, art. 22, 035; En vigueur : 01-09-2017&gt;
+
+(3)&lt;DCFL 2022-07-15/18, art. 4, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 45bis
+
+&lt;Inséré par L 2006-06-13/40, art. 11; En vigueur : 02-04-2007&gt; (Lorsque les personnes qui exercent l'autorité parentale sur le mineur qui déclare ne pas nier avoir commis un fait qualifié infraction manifestent un désintérêt caractérisé à l'égard du comportement délinquant de ce dernier, et que ce désintérêt, qui contribue aux problèmes du mineur, le procureur du Roi peut leur proposer d'accomplir un stage parental.) Ce stage parental peut uniquement être proposé s'il peut être bénéfique pour le mineur délinquant lui-même. &lt;L 2006-12-27/33, art. 89, 025; En vigueur : 01-01-2007&gt;
+
+##### Art. 45bis_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 138, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 45bis_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 57, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 45bis_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 45ter
+
+&lt;Inséré par L 2006-06-13/40, art. 12; En vigueur : 16-10-2006&gt; A l'égard des personnes visées à l'article 36, 4°, le procureur du Roi peut adresser à l'auteur présumé du fait qualifié infraction une lettre d'avertissement dans laquelle il indique qu'il a pris connaissance des faits, qu'il estime ces faits établis à charge du mineur et qu'il a décidé de classer le dossier sans suite.
+
+Une copie de la lettre d'avertissement est transmise aux père et mère, au tuteur du mineur ou aux personnes qui en ont la garde en droit ou en fait.
+
+Le procureur du Roi peut toutefois convoquer l'auteur présumé du fait qualifié infraction et ses représentants légaux et leur notifier un rappel à la loi et les risques qu'ils courent.
+
+##### Art. 45ter_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 139, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 45ter_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 57, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 45ter_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 45quater
+
+&lt;Inséré par L 2006-06-13/40, art. 13; En vigueur : O2-04-2007&gt; § 1er. Le procureur du Roi informe par écrit la personne soupçonnée d'avoir commis un fait qualifié infraction, les personnes qui exercent l'autorité parentale à son égard, les personnes qui en ont la garde en droit ou en fait et la victime, qu'elles peuvent participer à une médiation et qu'elles ont, dans ce cadre, la possibilité de s'adresser à un service de médiation, organisé par les communautés ou répondant aux conditions fixées par celles-ci, qu'il désigne.
+
+Le procureur du Roi peut faire une telle proposition lorsque les conditions suivantes sont remplies :
+
+1° il existe des indices sérieux de culpabilité;
+
+(NOTE : par son arrêt n° 50/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19886-19893), la Cour Constitutionnelle a annulé l'article 45quater, § 1, deuxième alinéa, 1° et 2°)
+
+2° l'intéressé déclare ne pas nier le fait qualifié infraction;
+
+(NOTE : par son arrêt n° 50/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19886-19893), la Cour Constitutionnelle a annulé l'article 45quater, § 1, deuxième alinéa, 1° et 2°)
+
+3° une victime est identifiée.
+
+La décision du procureur du Roi d'orienter ou non un dossier vers la procédure de médiation doit être écrite et motivée sauf s'il souhaite classer l'affaire sans suite.
+
+Hormis les cas visés à l'article 49, alinéa 2, l'absence d'une telle motivation entraîne l'irrégularité de la saisine du tribunal de la jeunesse.
+
+Lorsqu'une proposition de médiation est faite, le procureur du Roi informe les personnes concernées qu'elles ont le droit de :
+
+1° solliciter les conseils d'un avocat avant de participer à la médiation;
+
+2° se faire assister par un avocat au moment où l'accord auquel aboutissent les personnes concernées est fixé.
+
+Le procureur du Roi adresse une copie des propositions écrites au service de médiation désigné. Si, dans les huit jours de la réception de la proposition écrite du procureur du Roi, les personnes concernées n'ont fait aucune démarche envers le service de médiation, celui-ci prend contact avec elles.
+
+Une médiation ne peut avoir lieu que si les personnes qui y participent y adhèrent de manière expresse et sans réserve, et ce, tout au long de la médiation.
+
+§ 2. Dans les deux mois de sa désignation par le procureur du Roi, le service de médiation établit un rapport succinct relatif à l'état d'avancement de la médiation.
+
+L'accord auquel auront abouti les personnes concernées par la médiation est signé par la personne qui est (soupçonnée d') avoir commis un fait qualifié infraction, par les personnes qui exercent l'autorité parentale à son égard, ainsi que par la victime, et doit être approuvé par le procureur du Roi. Celui-ci ne peut en modifier le contenu. Il ne peut refuser d'approuver un accord que s'il est contraire à l'ordre public. &lt;L 2006-12-27/33, art. 90, 025; En vigueur : 07-01-2007&gt;
+
+§ 3. Le service de médiation établit un rapport sur l'exécution de l'accord et l'adresse au procureur du Roi. Ce rapport est joint au dossier de la procédure.
+
+Lorsque (la personne visée à l'article 36, 4°,) a exécuté l'accord de médiation selon les modalités prévues, le procureur du Roi en dresse procès-verbal et en tient compte lorsqu'il décide de classer sans suite ou non l'affaire. Dans ce cas, un classement sans suite a pour effet l'extinction de l'action publique. &lt;L 2006-12-27/33, art. 91, 025; En vigueur : 07-01-2007&gt;
+
+Une copie du procès-verbal est remise à l'auteur du fait qualifie infraction, aux personnes qui exercent l'autorité parentale à son égard, à la victime ainsi qu'au service de médiation. Au cas où cette remise n'a pu avoir lieu, la copie du procès-verbal est notifiée par pli judiciaire.
+
+§ 4. Si la médiation ne donne aucun résultat, ni la reconnaissance de la matérialité des faits par le jeune, ni le déroulement ou le résultat de la médiation ne peuvent être utilisés, par les autorités judiciaires ou toute autre personne, au préjudice du jeune.
+
+Les documents établis et les communications faites dans le cadre d'une intervention du service de médiation sont confidentiels, à l'exception de ce que les parties consentent à porter à la connaissance des autorités judiciaires. Ils ne peuvent être utilisés dans une procédure pénale, civile, administrative ou arbitrale ou dans toute autre procédure visant à résoudre des conflits et ne sont pas admissibles comme preuve, même comme aveu extrajudiciaire.
+
+##### Art. 45quater_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 140, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 45quater_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 57, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 45quater_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 46
+
+La citation à la requête du ministère public ou l'avertissement donné par lui doit, à peine de nullité, être adressé aux parents, (parents d'accueil,) tuteurs ou personnes qui ont la garde du mineur et au mineur lui-même si l'action tend à faire révoquer son émancipation ou à faire prendre ou modifier à son égard, une des mesures prévues au titre II, chapitre III, section II, et qu'il est âgé de douze ans au moins. &lt;L 2006-05-15/35, art. 9, 022 ; En vigueur : 16-10-2006&gt;
+
+(Si une personne visée à l'article 36, 4°, a atteint l'âge de dix-huit ans au moment où l'action est intentée, la citation ou l'avertissement visé à l'alinéa précédent est adressé à cette personne qui a fait l'objet de la mesure et aux personnes qui en étaient civilement responsables du fait de sa minorité.
+
+Sans préjudice de l'article 184, alinéa 3, du Code d'instruction criminelle, il y aura au moins un délai de dix jours, sans augmentation en raison de la distance, entre la citation et la comparution, à peine de nullité du jugement qui sera prononcé par défaut par le tribunal à l'égard de la partie citée.) &lt;L 1994-02-02/33, art. 9, 007; En vigueur : 27-09-1994&gt;
+
+##### Art. 46_REGION_FLAMANDE
+
+La citation à la requête du ministère public ou l'avertissement donné par lui doit, à peine de nullité, être adressé aux parents, (parents d'accueil,) tuteurs ou personnes qui ont la garde du mineur et au mineur lui-même si l'action tend à faire révoquer son émancipation ou à faire prendre ou modifier à son égard, une des mesures prévues au titre II, chapitre III, section II, et qu'il est âgé de douze ans au moins. &lt;L 2006-05-15/35, art. 9, 022 ; En vigueur : 16-10-2006&gt;
+
+(Si une personne visée à l'[<sup>1</sup> article 14 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup>, a atteint l'âge de dix-huit ans au moment où l'action est intentée, la citation ou l'avertissement visé à l'alinéa précédent est adressé à cette personne qui a fait l'objet de la mesure et aux personnes qui en étaient civilement responsables du fait de sa minorité.
+
+Sans préjudice de l'article 184, alinéa 3, du Code d'instruction criminelle, il y aura au moins un délai de dix jours, sans augmentation en raison de la distance, entre la citation et la comparution, à peine de nullité du jugement qui sera prononcé par défaut par le tribunal à l'égard de la partie citée.) &lt;L 1994-02-02/33, art. 9, 007; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCFL 2022-07-15/18, art. 5, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 46bis
+
+&lt;L 1999-04-27/31, art. 2; En vigueur : 12-06-1999&gt; La citation à la requête du procureur du Roi visée à l'article 45, 2, b), peut être faite, à l'égard de la personne visée à l'article 36, 4° qui est amenée ou se présente devant le procureur du Roi, ainsi qu'à l'égard de toute autre personne visée à l'article 46 qui se présente devant lui, par la notification d'une convocation à comparaître devant le tribunal de la jeunesse dans un délai qui ne peut être inférieur à celui prévu à l'article 46, alinéa 3, ni supérieur à deux mois et la remise d'une copie du procès-verbal mentionnant cette notification.
+
+La convocation indique les faits sur lesquels l'action est fondée, ainsi que les lieu, jour et heure de l'audience.
+
+##### Art. 46bis_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 1999-04-27/31, art. 2; En vigueur : 12-06-1999&gt; La citation à la requête du procureur du Roi visée à l'article 45, 2, b), peut être faite, à l'égard de la personne visée à l'[<sup>1</sup> article 63 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup> qui est amenée ou se présente devant le procureur du Roi, ainsi qu'à l'égard de toute autre personne visée à l'article 46 qui se présente devant lui, par la notification d'une convocation à comparaître devant le tribunal de la jeunesse dans un délai qui ne peut être inférieur à celui prévu à l'article 46, alinéa 3, ni supérieur à deux mois et la remise d'une copie du procès-verbal mentionnant cette notification.
+
+La convocation indique les faits sur lesquels l'action est fondée, ainsi que les lieu, jour et heure de l'audience.
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 141, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 46bis_REGION_FLAMANDE
+
+&lt;L 1999-04-27/31, art. 2; En vigueur : 12-06-1999&gt; La citation à la requête du procureur du Roi visée à l'article 45, 2, b), peut être faite, à l'égard de la personne visée à [<sup>1</sup> l'article 14 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile,]<sup>1</sup> qui est amenée ou se présente devant le procureur du Roi, ainsi qu'à l'égard de toute autre personne visée à l'article 46 qui se présente devant lui, par la notification d'une convocation à comparaître devant le tribunal de la jeunesse dans un délai qui ne peut être inférieur à celui prévu à l'article 46, alinéa 3, ni supérieur à deux mois et la remise d'une copie du procès-verbal mentionnant cette notification.
+
+La convocation indique les faits sur lesquels l'action est fondée, ainsi que les lieu, jour et heure de l'audience.
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 58, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 47
+
+La constitution de partie civile par voie de citation directe devant le tribunal de la jeunesse n'est pas autorisée.
+
+A l'égard des mineurs relevant du tribunal de la jeunesse, les administrations publiques ne peuvent, exercer les poursuites qui leur appartiennent, qu'en formant plainte entre les mains du procureur du Roi qui seul peut saisir le tribunal de la jeunesse.
+
+(L'extinction de l'action publique à l'égard de la personne visée à l'article 36, 4, à la suite de la mise en oeuvre d'une médiation visée à l'article 45quater, ne préjudicie pas aux droits des victimes et des personnes subrogées dans leurs droits d'obtenir une indemnisation, à condition que la victime n'ait pas participé à la médiation ou qu'elle ait participé à une médiation dont l'accord mentionne explicitement qu'il n'a pas été remédié entièrement aux conséquences matérielles du fait qualifié infraction. A leur égard, la faute de l'auteur du fait qualifié infraction est présumée irréfragablement.) &lt;L 2006-05-15/35, art. 10; En vigueur : 02-04-2007&gt;
+
+##### Art. 47_COMMUNAUTE_GERMANOPHONE
+
+La constitution de partie civile par voie de citation directe devant le tribunal de la jeunesse n'est pas autorisée.
+
+A l'égard des mineurs relevant du tribunal de la jeunesse, les administrations publiques ne peuvent, exercer les poursuites qui leur appartiennent, qu'en formant plainte entre les mains du procureur du Roi qui seul peut saisir le tribunal de la jeunesse.
+
+(L'extinction de l'action publique à l'égard de la personne visée à l'[<sup>1</sup> article 63 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>, à la suite de la mise en oeuvre d'une médiation visée à l'[<sup>1</sup> article 57 du décret précité]<sup>1</sup>, ne préjudicie pas aux droits des victimes et des personnes subrogées dans leurs droits d'obtenir une indemnisation, à condition que la victime n'ait pas participé à la médiation ou qu'elle ait participé à une médiation dont l'accord mentionne explicitement qu'il n'a pas été remédié entièrement aux conséquences matérielles du fait qualifié infraction. A leur égard, la faute de l'auteur du fait qualifié infraction est présumée irréfragablement.) &lt;L 2006-05-15/35, art. 10; En vigueur : 02-04-2007&gt;
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 142, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 47_REGION_FLAMANDE
+
+La constitution de partie civile par voie de citation directe devant le tribunal de la jeunesse n'est pas autorisée.
+
+A l'égard des mineurs relevant du tribunal de la jeunesse, les administrations publiques ne peuvent, exercer les poursuites qui leur appartiennent, qu'en formant plainte entre les mains du procureur du Roi qui seul peut saisir le tribunal de la jeunesse.
+
+(L'extinction de l'action publique à l'égard de la personne visée à [<sup>1</sup> l'article 14 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup>, à la suite de la mise en oeuvre d'une médiation visée à [<sup>1</sup> l'article 12 du décret précité]<sup>1</sup>, ne préjudicie pas aux droits des victimes et des personnes subrogées dans leurs droits d'obtenir une indemnisation, à condition que la victime n'ait pas participé à la médiation ou qu'elle ait participé à une médiation dont l'accord mentionne explicitement qu'il n'a pas été remédié entièrement aux conséquences matérielles du [<sup>2</sup> délit de mineur]<sup>2</sup>. A leur égard, la faute de l'auteur du [<sup>2</sup> délit de mineur]<sup>2</sup> est présumée irréfragablement.) &lt;L 2006-05-15/35, art. 10; En vigueur : 02-04-2007&gt;
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 59, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/18, art. 6, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 48
+
+&lt;L 1994-02-02/33, art. 10, 007; En vigueur : 27-09-1994&gt; § 1. Dans les procédures visées au titre II, chapitre II, section 1er, chaque parent ou personne ayant la garde d'un jeune fait l'objet d'une procédure distincte.
+
+Ces procédures ne peuvent être jointes à d'autres procédures que pendant la procédure préparatoire. Les pièces contenant des informations relatives à chacun des parents ou personnes ayant la garde de l'intéressé doivent être séparées des autres pièces de la procédure. Elles ne peuvent être communiquées aux autres parties.
+
+Pendant la durée de la procédure préparatoire, le ministère public peut refuser la communication de ces pièces aux parties, s'il juge que cette communication serait de nature à nuire aux intérêts des personnes concernées.
+
+§ 2. Dans les procédures visées au titre II, chapitre III, section 2, lorsque le fait qu'aurait commis la personne de moins de dix-huit ans et connexe à une infraction qu'auraient commise une ou plusieurs personnes non justiciables du tribunal de la jeunesse, les poursuites sont disjointes dès que la disjonction peut avoir lieu sans nuire à l'information ou à l'instruction.
+
+Les poursuites peuvent être jointes si le tribunal de la jeunesse s'est dessaisi (conformément à l'article 57bis). &lt;L 2006-12-27/33, art. 94, 025; En vigueur : 01-10-2007&gt;
+
+##### Art. 48_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 1994-02-02/33, art. 10, 007; En vigueur : 27-09-1994&gt; § 1. Dans les procédures visées au titre II, chapitre II, section 1er, chaque parent ou personne ayant la garde d'un jeune fait l'objet d'une procédure distincte.
+
+Ces procédures ne peuvent être jointes à d'autres procédures que pendant la procédure préparatoire. Les pièces contenant des informations relatives à chacun des parents ou personnes ayant la garde de l'intéressé doivent être séparées des autres pièces de la procédure. Elles ne peuvent être communiquées aux autres parties.
+
+Pendant la durée de la procédure préparatoire, le ministère public peut refuser la communication de ces pièces aux parties, s'il juge que cette communication serait de nature à nuire aux intérêts des personnes concernées.
+
+§ 2. Dans les procédures visées au titre II, chapitre III, section 2, lorsque le fait qu'aurait commis la personne de moins de dix-huit ans et connexe à une infraction qu'auraient commise une ou plusieurs personnes non justiciables du tribunal de la jeunesse, les poursuites sont disjointes dès que la disjonction peut avoir lieu sans nuire à l'information ou à l'instruction.
+
+Les poursuites peuvent être jointes si le tribunal de la jeunesse s'est dessaisi (conformément à l'[<sup>1</sup> article 84 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>). &lt;L 2006-12-27/33, art. 94, 025; En vigueur : 01-10-2007&gt;
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 143, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 48_REGION_FLAMANDE
+
+&lt;L 1994-02-02/33, art. 10, 007; En vigueur : 27-09-1994&gt; § 1. Dans les procédures visées au titre II, chapitre II, section 1er, chaque parent ou personne ayant la garde d'un jeune fait l'objet d'une procédure distincte.
+
+Ces procédures ne peuvent être jointes à d'autres procédures que pendant la procédure préparatoire. Les pièces contenant des informations relatives à chacun des parents ou personnes ayant la garde de l'intéressé doivent être séparées des autres pièces de la procédure. Elles ne peuvent être communiquées aux autres parties.
+
+Pendant la durée de la procédure préparatoire, le ministère public peut refuser la communication de ces pièces aux parties, s'il juge que cette communication serait de nature à nuire aux intérêts des personnes concernées.
+
+§ 2. Dans les procédures visées au titre II, chapitre III, section 2, lorsque le fait qu'aurait commis la personne de moins de dix-huit ans et connexe à une infraction qu'auraient commise une ou plusieurs personnes non justiciables du tribunal de la jeunesse, les poursuites sont disjointes dès que la disjonction peut avoir lieu sans nuire à l'information ou à l'instruction.
+
+Les poursuites peuvent être jointes si le tribunal de la jeunesse s'est dessaisi (conformément à [<sup>3</sup> l'article 38 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>3</sup>). &lt;L 2006-12-27/33, art. 94, 025; En vigueur : 01-10-2007&gt;
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 60, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-09-24/03, art. 3, 039; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2022-07-15/18, art. 7, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 48bis
+
+&lt;inséré par L 2006-05-15/35, art. 11 ; En vigueur : 16-10-2006&gt; § 1er. Lorsqu'un mineur est privé de sa liberté suite à son arrestation ou a été mis en liberté contre la promesse de comparaître ou la signature d'un engagement, le fonctionnaire de police responsable de sa privation de liberté doit, dans les meilleurs délais, donner ou faire donner au père et mère du mineur, à son tuteur ou aux personnes qui en ont la garde en droit ou en fait, une information orale ou écrite de l'arrestation, de ses motifs et du lieu dans lequel le mineur est retenu. Si le mineur est marié, l'avis doit être donné à son conjoint plutôt qu'aux personnes susvisées.
+
+§ 2. Au cas où l'avis n'a pas été donné conformément au présent article et aucune des personnes auxquelles il aurait pu être donné ne s'est présentée au tribunal de la jeunesse saisi de l'affaire, celui-ci peut soit ajourner l'affaire et ordonner qu'un avis soit donné à la personne qu'il désigne, soit traiter l'affaire s'il estime qu'un tel avis n'est pas indispensable. Dans ce cas, il mentionne, dans son jugement, les raisons qui motivent sa décision.
+
+##### Art. 49
+
+Le juge d'instruction n'est saisi par réquisition du ministère public ou ne se saisit d'office en cas de [<sup>1</sup> flagrance]<sup>1</sup> que dans des circonstances exceptionnelles et en cas de nécessité absolue.
+
+(S'il y a urgence, le juge d'instruction peut prendre à l'égard de la personne (ayant commis avant l'âge de dix-huit ans un fait qualifié infraction, même si la réquisition du ministère public est postérieure à la date à laquelle cette personne a atteint l'âge de dix-huit ans,) une des mesures de garde visées (à l'article 52), sans préjudice à en donner avis simultanément et par écrit au tribunal de la jeunesse, qui exerce dès lors ses attributions et statue dans les deux jours ouvrables, conformément aux articles 52ter et 52quater.) (L'intéressé a droit à l'assistance d'un avocat, lors de toute comparution devant le juge d'instruction. Cet avocat est désigné, le cas échéant, conformément à l'article 54bis. Le juge d'instruction peut néanmoins avoir un entretien particulier avec l'intéressé.) &lt;L 1994-02-02/33, art. 11, 1°, 007; En vigueur : 27-09-1994&gt; &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt; &lt;L 2003-01-06/32, art. 2, 014; En vigueur : 02-03-2003&gt; &lt;L 2006-06-13/40, art. 15, 023; En vigueur : 16-10-2006&gt;
+
+L'instruction terminée, le juge d'instruction rend, sur la réquisition du ministère public, une ordonnance de non-lieu ou une ordonnance de renvoi devant le tribunal de la jeunesse.
+
+(Cette ordonnance est prononcée après un débat contradictoire et après que la personne de moins de dix-huit ans, les père et mère et les parties civiles aient pu prendre connaissance du dossier relatif aux faits, déposé au greffe 48 heures au moins avant les débats.) &lt;L 1994-02-02/33, art. 11, 2°, 007; En vigueur : 27-09-1994&gt;
+
+(L'alinéa 3 ne fait pas obstacle à ce que le ministère public saisisse le tribunal de la jeunesse d'une réquisition tenant au dessaisissement prévu (à l'article 57bis). Le tribunal statue en l'état de la procédure.) &lt;L 1994-02-02/33, art. 11, 3°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-06-13/40, art. 14, 023; En vigueur : 01-10-2007&gt;
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 18, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 49_COMMUNAUTE_GERMANOPHONE
+
+Le juge d'instruction n'est saisi par réquisition du ministère public ou ne se saisit d'office en cas de [<sup>2</sup> flagrance]<sup>2</sup> que dans des circonstances exceptionnelles et en cas de nécessité absolue.
+
+(S'il y a urgence, le juge d'instruction peut prendre à l'égard de la personne (ayant commis avant l'âge de dix-huit ans un fait qualifié infraction, même si la réquisition du ministère public est postérieure à la date à laquelle cette personne a atteint l'âge de dix-huit ans,) [<sup>1</sup> ordonner les mesures visées à l'article 70, § 3, alinéa 1er, du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse,]<sup>1</sup>, sans préjudice à en donner avis simultanément et par écrit au tribunal de la jeunesse, qui exerce dès lors ses attributions et statue dans les deux jours ouvrables, conformément aux articles 52ter et 52quater.) (L'intéressé a droit à l'assistance d'un avocat, lors de toute comparution devant le juge d'instruction. Cet avocat est désigné, le cas échéant, conformément à l'article 54bis. Le juge d'instruction peut néanmoins avoir un entretien particulier avec l'intéressé.) &lt;L 1994-02-02/33, art. 11, 1°, 007; En vigueur : 27-09-1994&gt; &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt; &lt;L 2003-01-06/32, art. 2, 014; En vigueur : 02-03-2003&gt; &lt;L 2006-06-13/40, art. 15, 023; En vigueur : 16-10-2006&gt;
+
+L'instruction terminée, le juge d'instruction rend, sur la réquisition du ministère public, une ordonnance de non-lieu ou une ordonnance de renvoi devant le tribunal de la jeunesse.
+
+(Cette ordonnance est prononcée après un débat contradictoire et après que la personne de moins de dix-huit ans, les père et mère et les parties civiles aient pu prendre connaissance du dossier relatif aux faits, déposé au greffe 48 heures au moins avant les débats.) &lt;L 1994-02-02/33, art. 11, 2°, 007; En vigueur : 27-09-1994&gt;
+
+(L'alinéa 3 ne fait pas obstacle à ce que le ministère public saisisse le tribunal de la jeunesse d'une réquisition tenant au dessaisissement prévu (à l'[<sup>1</sup> l'article 84 du décret précité]<sup>1</sup>). Le tribunal statue en l'état de la procédure.) &lt;L 1994-02-02/33, art. 11, 3°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-06-13/40, art. 14, 023; En vigueur : 01-10-2007&gt;
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 144, 046; En vigueur : 01-01-2024&gt;
+
+(2)&lt;L 2026-03-30/01, art. 18, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 49_REGION_FLAMANDE
+
+Le juge d'instruction n'est saisi par réquisition du ministère public ou ne se saisit d'office en cas de [<sup>4</sup> flagrance]<sup>4</sup> que dans des circonstances exceptionnelles et en cas de nécessité absolue.
+
+(S'il y a urgence, le juge d'instruction peut prendre à l'égard de la personne (ayant commis avant l'âge de dix-huit ans un [<sup>1</sup> délit de mineur]<sup>1</sup>, même si la réquisition du ministère public est postérieure à la date à laquelle cette personne a atteint l'âge de dix-huit ans,) une des [<sup>1</sup> mesures visées à l'article 20, § 2, alinéa 1er du décret du 15 février 2019 sur le droit en matière de délinquance juvénile,]<sup>1</sup>, sans préjudice à en donner avis simultanément et par écrit au tribunal de la jeunesse, qui exerce dès lors ses attributions et statue dans les deux jours ouvrables, conformément [<sup>3</sup> à l'article 52ter de la présente loi et à l'article 26 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>3</sup>.) (L'intéressé a droit à l'assistance d'un avocat, lors de toute comparution devant le juge d'instruction. Cet avocat est désigné, le cas échéant, conformément à l'article 54bis. Le juge d'instruction peut néanmoins avoir un entretien particulier avec l'intéressé.) &lt;L 1994-02-02/33, art. 11, 1°, 007; En vigueur : 27-09-1994&gt; &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt; &lt;L 2003-01-06/32, art. 2, 014; En vigueur : 02-03-2003&gt; &lt;L 2006-06-13/40, art. 15, 023; En vigueur : 16-10-2006&gt;
+
+L'instruction terminée, le juge d'instruction rend, sur la réquisition du ministère public, une ordonnance de non-lieu ou une ordonnance de renvoi devant le tribunal de la jeunesse.
+
+(Cette ordonnance est prononcée après un débat contradictoire et après que la personne de moins de dix-huit ans, les père et mère et les parties civiles aient pu prendre connaissance du dossier relatif aux faits, déposé au greffe 48 heures au moins avant les débats.) &lt;L 1994-02-02/33, art. 11, 2°, 007; En vigueur : 27-09-1994&gt;
+
+(L'alinéa 3 ne fait pas obstacle à ce que le ministère public saisisse le tribunal de la jeunesse d'une réquisition tenant au dessaisissement prévu (à [<sup>3</sup> l'article 38 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>3</sup>). Le tribunal statue en l'état de la procédure.) &lt;L 1994-02-02/33, art. 11, 3°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-06-13/40, art. 14, 023; En vigueur : 01-10-2007&gt;
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 61, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-09-24/03, art. 4, 039; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2022-07-15/18, art. 8, 042; En vigueur : 01-03-2023&gt;
+
+(4)&lt;L 2026-03-30/01, art. 18, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 49_COMMUNAUTE_FRANCAISE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup> (L'intéressé a droit à l'assistance d'un avocat, lors de toute comparution devant le juge d'instruction. Cet avocat est désigné, le cas échéant, conformément à l'article 54bis. Le juge d'instruction peut néanmoins avoir un entretien particulier avec l'intéressé.) &lt;L 1994-02-02/33, art. 11, 1°, 007; En vigueur : 27-09-1994&gt; &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt; &lt;L 2003-01-06/32, art. 2, 014; En vigueur : 02-03-2003&gt; &lt;L 2006-06-13/40, art. 15, 023; En vigueur : 16-10-2006&gt;
+
+L'instruction terminée, le juge d'instruction rend, sur la réquisition du ministère public, une ordonnance de non-lieu ou une ordonnance de renvoi devant le tribunal de la jeunesse.
+
+(Cette ordonnance est prononcée après un débat contradictoire et après que la personne de moins de dix-huit ans, les père et mère et les parties civiles aient pu prendre connaissance du dossier relatif aux faits, déposé au greffe 48 heures au moins avant les débats.) &lt;L 1994-02-02/33, art. 11, 2°, 007; En vigueur : 27-09-1994&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 50
+
+&lt;L 1994-02-02/33, art. 12, 007; En vigueur : 27-09-1994&gt; (...) Le tribunal de la jeunesse effectue toutes diligences et fait procéder à toutes investigations utiles pour connaître la personnalité de l'intéressé, le milieu où il est élevé, déterminer son intérêt et les moyens appropriés à son éducation ou à son traitement. &lt;L 2006-05-15/35, art. 12, 022; En vigueur : 01-10-2007&gt;
+
+Il peut faire procéder à une étude sociale par l'intermédiaire du service social compétent et soumettre l'intéressé à un examen médico-psychologique, lorsque le dossier qui lui est soumis, ne lui paraît pas suffisant.
+
+Lorsque le tribunal de la jeunesse fait procéder à une étude sociale, il ne peut, sauf en cas d'extrême urgence, prendre ou modifier sa décision, qu'après avoir pris connaissance de l'avis du service social compétent, à moins que cet avis ne lui parvienne pas dans le délai qu'il a fixé et qui ne peut dépasser septante-cinq jours.
+
+(Alinéa 4 abrogé) &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 01-10-2007&gt;
+
+§ 2. (...) &lt;L 2006-05-15/35, art. 12, 022; En vigueur : 01-10-2007&gt;
+
+##### Art. 50_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 145, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 50_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 51
+
+(§ 1er. Dès qu'il est saisi d'un fait qualifié infraction, le tribunal informe les personnes qui exercent l'autorité parentale à l'égard de l'intéressé et, le cas échéant, les personnes qui en ont la garde en droit ou en fait, (...), en vue de leur permettre d'être présents.) &lt;L 2006-06-13/40, art. 16, 1°, 023; En vigueur : 16-10-2006&gt; &lt;L 2006-12-27/33, art. 95°, 025; En vigueur : 01-01-2007&gt;
+
+(§ 2.) (Le tribunal de la jeunesse, une fois saisi, peut en tout temps convoquer l'intéressé, les parents, tuteurs, personnes qui en ont la garde, ainsi que toute autre personne, sans préjudice de l'[<sup>1</sup> article 352]<sup>1</sup> du Code pénal, de l'article 156 du Code d'instruction criminelle et de l'article 931 du Code judiciaire.) &lt;L 1994-02-02/33, art. 13, 1°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-06-13/40, art. 16, 1°, 023; En vigueur : 16-10-2006&gt;
+
+Dans les matières prévues (aux articles 145, 148, 302, 353-10, 354-2), 373, 374, (375, 376, 377, 379), et 477 du Code civil, les père et mère et éventuellement la personne à qui la garde de l'enfant a été confiée, sont convoqués devant le tribunal par le greffier. Dans les matières prévues aux articles 485 du Code civil, (...), (43, 45, 46 et 46bis de la loi du 3 juillet 1978 sur les contrats de travail, modifiée par la loi du 30 mars 1981), le requérant, les père, mère ou tuteur et le mineur sont convoqués devant le tribunal par le greffier; une copie conforme de la demande est jointe à la convocation adressée à celui ou ceux d'entre eux qui n'ont pas présenté requête. &lt;L 21-03-1969, art. 5.A.6&gt; &lt;L 1994-02-02/33, art. 13, 2°, 3°, 4° et 5°, 007; En vigueur : 27-09-1994&gt; &lt;L 2003-04-24/32, art. 11, 017; En vigueur : 01-09-2005&gt;
+
+(Dans les autres matières, si, sur l'invitation à comparaître, l'intéressé ou les personnes investies de l'autorité parentale à l'égard du mineur ne comparaissent pas et que ces personnes ne peuvent justifier leur non-comparution, elles peuvent être condamnées, par le tribunal de la jeunesse, à une [<sup>1</sup> peine de niveau 1]<sup>1</sup>.) &lt;L 2006-06-13/40, art. 16, 2°, 023; En vigueur : 16-10-2006&gt;
+
+(Les personnes visées à l'alinéa 3 qui ont été condamnées à [<sup>1</sup> une peine de niveau 1]<sup>1</sup> et qui, sur une seconde invitation à comparaître, produisent devant le juge de la jeunesse ou le tribunal de la jeunesse des excuses légitimes, peuvent, sur avis du ministère public, être déchargées de [<sup>1</sup> la peine]<sup>1</sup>.) &lt;L 2006-06-13/40, art. 16, 3°, 023; En vigueur : 16-10-2006&gt;
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé dans l'article 51, § 2, alinéa 3, tel qu'il a été modifié par la loi du 13 juin 2006, les mots " l'intéressé ou ")
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 19, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 51_COMMUNAUTE_GERMANOPHONE
+
+(§ 1er. Dès qu'il est saisi d'un [<sup>1</sup> fait de délinquance juvénile]<sup>1</sup>, le tribunal informe les personnes qui exercent l'autorité parentale à l'égard de l'intéressé et, le cas échéant, les personnes qui en ont la garde en droit ou en fait, (...), en vue de leur permettre d'être présents.) &lt;L 2006-06-13/40, art. 16, 1°, 023; En vigueur : 16-10-2006&gt; &lt;L 2006-12-27/33, art. 95°, 025; En vigueur : 01-01-2007&gt;
+
+(§ 2.) (Le tribunal de la jeunesse, une fois saisi, peut en tout temps convoquer l'intéressé, les parents, tuteurs, personnes qui en ont la garde, ainsi que toute autre personne, sans préjudice de l'[<sup>2</sup> article 352]<sup>2</sup> du Code pénal, de l'article 156 du Code d'instruction criminelle et de l'article 931 du Code judiciaire.) &lt;L 1994-02-02/33, art. 13, 1°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-06-13/40, art. 16, 1°, 023; En vigueur : 16-10-2006&gt;
+
+Dans les matières prévues (aux articles 145, 148, 302, 353-10, 354-2), 373, 374, (375, 376, 377, 379), et 477 du Code civil, les père et mère et éventuellement la personne à qui la garde de l'enfant a été confiée, sont convoqués devant le tribunal par le greffier. Dans les matières prévues aux articles 485 du Code civil, (...), (43, 45, 46 et 46bis de la loi du 3 juillet 1978 sur les contrats de travail, modifiée par la loi du 30 mars 1981), le requérant, les père, mère ou tuteur et le mineur sont convoqués devant le tribunal par le greffier; une copie conforme de la demande est jointe à la convocation adressée à celui ou ceux d'entre eux qui n'ont pas présenté requête. &lt;L 21-03-1969, art. 5.A.6&gt; &lt;L 1994-02-02/33, art. 13, 2°, 3°, 4° et 5°, 007; En vigueur : 27-09-1994&gt; &lt;L 2003-04-24/32, art. 11, 017; En vigueur : 01-09-2005&gt;
+
+(Dans les autres matières, si, sur l'invitation à comparaître, l'intéressé ou les personnes investies de l'autorité parentale à l'égard du mineur ne comparaissent pas et que ces personnes ne peuvent justifier leur non-comparution, elles peuvent être condamnées, par le tribunal de la jeunesse, à une [<sup>2</sup> peine de niveau 1]<sup>2</sup>.) &lt;L 2006-06-13/40, art. 16, 2°, 023; En vigueur : 16-10-2006&gt;
+
+(Les personnes visées à l'alinéa 3 qui ont été condamnées à [<sup>2</sup> une peine de niveau 1]<sup>2</sup> et qui, sur une seconde invitation à comparaître, produisent devant le juge de la jeunesse ou le tribunal de la jeunesse des excuses légitimes, peuvent, sur avis du ministère public, être déchargées de [<sup>2</sup> la peine]<sup>2</sup>.) &lt;L 2006-06-13/40, art. 16, 3°, 023; En vigueur : 16-10-2006&gt;
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé dans l'article 51, § 2, alinéa 3, tel qu'il a été modifié par la loi du 13 juin 2006, les mots " l'intéressé ou ")
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 146, 046; En vigueur : 01-01-2024&gt;
+
+(2)&lt;L 2026-03-30/01, art. 19, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 51_REGION_FLAMANDE
+
+(§ 1er. Dès qu'il est saisi d'un [<sup>1</sup> délit de mineur]<sup>1</sup>, le tribunal informe les personnes qui exercent l'autorité parentale à l'égard de l'intéressé et, le cas échéant, les personnes qui en ont la garde en droit ou en fait, (...), en vue de leur permettre d'être présents.) &lt;L 2006-06-13/40, art. 16, 1°, 023; En vigueur : 16-10-2006&gt; &lt;L 2006-12-27/33, art. 95°, 025; En vigueur : 01-01-2007&gt;
+
+(§ 2.) (Le tribunal de la jeunesse, une fois saisi, peut en tout temps convoquer l'intéressé, les parents, tuteurs, personnes qui en ont la garde, ainsi que toute autre personne, sans préjudice de l'[<sup>2</sup> article 352]<sup>2</sup> du Code pénal, de l'article 156 du Code d'instruction criminelle et de l'article 931 du Code judiciaire.) &lt;L 1994-02-02/33, art. 13, 1°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-06-13/40, art. 16, 1°, 023; En vigueur : 16-10-2006&gt;
+
+Dans les matières prévues (aux articles 145, 148, 302, 353-10, 354-2), 373, 374, (375, 376, 377, 379), et 477 du Code civil, les père et mère et éventuellement la personne à qui la garde de l'enfant a été confiée, sont convoqués devant le tribunal par le greffier. Dans les matières prévues aux articles 485 du Code civil, (...), (43, 45, 46 et 46bis de la loi du 3 juillet 1978 sur les contrats de travail, modifiée par la loi du 30 mars 1981), le requérant, les père, mère ou tuteur et le mineur sont convoqués devant le tribunal par le greffier; une copie conforme de la demande est jointe à la convocation adressée à celui ou ceux d'entre eux qui n'ont pas présenté requête. &lt;L 21-03-1969, art. 5.A.6&gt; &lt;L 1994-02-02/33, art. 13, 2°, 3°, 4° et 5°, 007; En vigueur : 27-09-1994&gt; &lt;L 2003-04-24/32, art. 11, 017; En vigueur : 01-09-2005&gt;
+
+(Dans les autres matières, si, sur l'invitation à comparaître, l'intéressé ou les personnes investies de l'autorité parentale à l'égard du mineur ne comparaissent pas et que ces personnes ne peuvent justifier leur non-comparution, elles peuvent être condamnées, par le tribunal de la jeunesse, à une [<sup>2</sup> peine de niveau 1]<sup>2</sup>.) &lt;L 2006-06-13/40, art. 16, 2°, 023; En vigueur : 16-10-2006&gt;
+
+(Les personnes visées à l'alinéa 3 qui ont été condamnées à [<sup>2</sup> une peine de niveau 1]<sup>2</sup> et qui, sur une seconde invitation à comparaître, produisent devant le juge de la jeunesse ou le tribunal de la jeunesse des excuses légitimes, peuvent, sur avis du ministère public, être déchargées de [<sup>2</sup> la peine]<sup>2</sup>.) &lt;L 2006-06-13/40, art. 16, 3°, 023; En vigueur : 16-10-2006&gt;
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé dans l'article 51, § 2, alinéa 3, tel qu'il a été modifié par la loi du 13 juin 2006, les mots " l'intéressé ou ")
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 62, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;L 2026-03-30/01, art. 19, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 52
+
+Pendant la durée d'une procédure tendant à l'application d'une des mesures prévues au titre II, chapitre III, le tribunal de la jeunesse prend provisoirement à l'égard (de la personne visée à l'article 36, 4°,) les mesures de garde nécessaires. &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt;
+
+(Il peut soit le laisser dans son milieu de vie et le soumettre, le cas échéant, à la surveillance prévue à l'article 37, § 2, alinéa 1er, 2°, ou à une condition énumérée à l'article 37, § 2bis, excepté 2° et 3°, soit prendre provisoirement une des mesures prévues à l'article 37, § 2, alinéa 1er, 7° à 11°, le cas échéant de façon cumulative.
+
+La mesure prévue à l'article 37, § 2, alinéa 1er, 9°, est prise en vue d'établir un bilan médico-psychologique.
+
+Afin de permettre la réalisation des mesures d'investigations visées à l'article 50, le tribunal peut assortir la mesure de garde provisoire consistant à laisser l'intéressé dans son milieu et à le soumettre à la surveillance prévue à l'article 37, § 2, alinéa 1er, 2°, de la condition d'accomplir une prestation d'intérêt général en rapport avec son âge et ses capacités. La prestation d'intérêt général ordonnée en application du présent article ne peut dépasser 30 heures.
+
+Afin de prendre la décision visée à l'alinéa 2, le tribunal de la jeunesse tient compte des facteurs visés à l'article 37, § 1er, alinéa 2. La disponibilité des moyens de traitement, des programmes d'éducation ou de toutes autres ressources envisagées et le bénéfice qu'en retirerait l'intéressé sont également pris en considération.
+
+Ces mesures provisoires ne peuvent être prises que pour une durée aussi brève que possible, lorsqu'il existe suffisamment d'indices sérieux de culpabilité et que la finalité de la mesure provisoire ne peut être atteinte d'une autre manière.
+
+Aucune mesure provisoire ne peut être prise en vue d'exercer une sanction immédiate ou toute autre forme de contrainte.) &lt;L 2006-06-13/40, art. 17, 1°, 023; En vigueur : 16-10-2006&gt;
+
+(Lorsque le tribunal de la jeunesse prend provisoirement une des mesures prévues à l'article (37, § 2, alinéa premier, 8°), à l'égard d'une personne ayant commis un fait qualifié infraction, il peut, pour les nécessités de l'information ou de l'instruction et pour un délai renouvelable de (trois jours civils) au plus, interdire au jeune par décision motivée de communiquer librement avec les personnes nommément désignées, autres que son avocat. &lt;L 2006-06-13/40, art. 17, 2°, 023; En vigueur : 16-10-2006&gt;
+
+(Lorsque le tribunal de la jeunesse est saisi du cas d'une personne ayant commis avant l'âge de dix-huit ans un fait qualifié infraction, il peut, même si la réquisition du ministère public est postérieure à la date à laquelle cette personne a atteint l'âge de dix-huit ans, ordonner ou maintenir des mesures provisoires jusqu'à que l'intéressé ait atteint l'âge de vingt ans.) &lt;L 2003-01-06/32, art. 3, 014; En vigueur : 02-03-2003&gt;
+
+(Les dispositions du présent article ne sont pas applicables aux enfants de personnes dont la déchéance de l'autorité parentale est poursuivie.) &lt;L 1994-06-30/44, art. 1, 008; En vigueur : 27-09-1994&gt;
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé dans l'article 52, alinéa 6, les mots " il existe suffisamment d'indices sérieux de culpabilité et que ")
+
+##### Art. 52_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 147, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 52_REGION_FLAMANDE
+
+&lt;Abrogé par DCFL 2019-02-15/20, art. 86, 038; En vigueur : 01-09-2022&gt;
+
+##### Art. 52_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 52bis
+
+&lt;Inséré par L 1994-02-02/33, art. 15; En vigueur : 27-09-1994&gt; Hors les cas visés à l'(article 52quater, alinéas 7 et 8), la durée de la procédure préparatoire est limitée à six mois à partir de la réquisition prévue à l'article 45.2.a), jusqu'à la communication du dossier au ministère public après clôture des investigations. Le ministère public dispose alors d'un délai de deux mois pour citer l'intéressé à comparaître devant le tribunal de la jeunesse. &lt;L 2006-12-27/33, art. 96, 025; En vigueur : 01-03-2007&gt;
+
+Le délai de six mois est suspendu entre l'acte d'appel et l'arrêt.
+
+##### Art. 52bis_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 148, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 52bis_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 64, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52bis_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 52ter
+
+&lt;Inséré par L 1994-02-02/33, art. 16; En vigueur : 27-09-1994&gt; Dans les cas prévus à l'article 52, le jeune ayant atteint l'âge de douze ans doit être entendu personnellement par le juge de la jeunesse avant toute mesures, sauf s'il n'a pu être trouvé, si son état de santé s'y oppose ou s'il refuse de comparaître.
+
+L'intéressé a droit à l'assistance d'un avocat, lors de toute comparution devant le tribunal de la jeunesse. Cet avocat est désigné, le cas échéant, conformément à l'article 54bis. Hors les cas ou le tribunal de la jeunesse est saisi conformément à l'article 45.2.b) ou c), le juge de la jeunesse peut néanmoins avoir un entretien particulier avec l'intéressé.
+
+L'ordonnance contient un résumé des éléments touchant à sa personnalité ou à son milieu, qui justifient la décision et, le cas échéant, un résumé des faits reprochés. Elle mentionne également l'audition ou les raisons pour lesquelles l'intéressé n'a pu être entendu.
+
+Une copie de l'ordonnance est remise à l'intéressé après son audition, de même qu'à (...) ses père et mère, tuteurs ou personnes qui ont la garde de l'intéressé si ceux-ci sont présents à l'audience. Au cas où cette remise n'a pu avoir lieu, la décision est notifiée par pli judiciaire (La copie de l'ordonnance indique les voies de recours ouvertes contre celle-ci ainsi que les formes et délais à respecter). Le délai d'appel court à partir de la remise de la copie ou à partir du jour où l'intéresse a eu connaissance de la notification par pli judiciaire. &lt;L 2006-05-15/35, art. 13, 022 ; En vigueur : 16-10-2006&gt; &lt;L 2006-06-13/40, art. 18, 023; En vigueur : 16-10-2006&gt; &lt;L 2006-12-27/33, art. 97, 025; En vigueur : 01-01-2007&gt;
+
+Les mesures visées à l'article 52 ne sont pas susceptibles d'opposition.
+
+En cas d'appel, la chambre de la jeunesse de la cour d'appel statue dans les deux mois au plus tard à compter de l'acte d'appel.
+
+##### Art. 52ter_COMMUNAUTE_GERMANOPHONE
+
+&lt;Inséré par L 1994-02-02/33, art. 16; En vigueur : 27-09-1994&gt; Dans les cas prévus à l'article 52, le jeune ayant atteint l'âge de douze ans doit être entendu personnellement par le juge de la jeunesse avant toute mesures, sauf s'il n'a pu être trouvé, si son état de santé s'y oppose ou s'il refuse de comparaître.
+
+L'intéressé a droit à l'assistance d'un avocat, lors de toute comparution devant le tribunal de la jeunesse. Cet avocat est désigné, le cas échéant, conformément à l'article 54bis. Hors les cas ou le tribunal de la jeunesse est saisi conformément à l'article 45.2.b) ou c), le juge de la jeunesse peut néanmoins avoir un entretien particulier avec l'intéressé.
+
+L'ordonnance contient un résumé des éléments touchant à sa personnalité ou à son milieu, qui justifient la décision et, le cas échéant, un résumé des faits reprochés. Elle mentionne également l'audition ou les raisons pour lesquelles l'intéressé n'a pu être entendu.
+
+Une copie de l'ordonnance est remise à l'intéressé après son audition, de même qu'à (...) ses père et mère, tuteurs ou personnes qui ont la garde de l'intéressé si ceux-ci sont présents à l'audience. Au cas où cette remise n'a pu avoir lieu, la décision est notifiée par pli judiciaire (La copie de l'ordonnance indique les voies de recours ouvertes contre celle-ci ainsi que les formes et délais à respecter). Le délai d'appel court à partir de la remise de la copie ou à partir du jour où l'intéresse a eu connaissance de la notification par pli judiciaire. &lt;L 2006-05-15/35, art. 13, 022 ; En vigueur : 16-10-2006&gt; &lt;L 2006-06-13/40, art. 18, 023; En vigueur : 16-10-2006&gt; &lt;L 2006-12-27/33, art. 97, 025; En vigueur : 01-01-2007&gt;
+
+Les mesures visées à l'[<sup>1</sup> article 70, § 3, alinéa 1er du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup> ne sont pas susceptibles d'opposition.
+
+En cas d'appel, la chambre de la jeunesse de la cour d'appel statue dans les deux mois au plus tard à compter de l'acte d'appel.
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 149, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 52ter_REGION_FLAMANDE
+
+[<sup>2</sup> [<sup>3</sup> ...]<sup>3</sup> Pour autant que d'application à la procédure visée à l'article 63ter, alinéa 1er, a), un mineur ayant atteint l'âge de 12 ans doit être entendu à titre personnel avant toute mesure prise par le juge de la jeunesse, à moins qu'il ne puisse être localisé, que son état de santé ne le permette ou qu'il refuse de comparaître.
+
+L'intéressé a droit à l'assistance d'un avocat chaque fois qu'il comparaît devant le tribunal de la jeunesse. Cet avocat sera, le cas échéant, désigné conformément à l'article 54bis. Toutefois, sauf dans les cas où l'affaire est pendante devant le tribunal de la jeunesse conformément à l'article 45, 2, b) ou c), le juge de la jeunesse peut procéder à un entretien séparé avec l'intéressé.
+
+L'ordonnance comporte un résumé des éléments relatifs à sa personnalité ou à son entourage qui la justifient et, le cas échéant, un résumé des faits reprochés. Elle mentionne également le fait que l'intéressé a été entendu ou les raisons pour lesquelles cet entretien n'a pas eu lieu.]<sup>2</sup>
+
+Une copie de l'ordonnance est remise à l'intéressé après son audition, de même qu'à (...) ses père et mère, tuteurs ou personnes qui ont la garde de l'intéressé si ceux-ci sont présents à l'audience. Au cas où cette remise n'a pu avoir lieu, la décision est notifiée par pli judiciaire (La copie de l'ordonnance indique les voies de recours ouvertes contre celle-ci ainsi que les formes et délais à respecter). Le délai d'appel court à partir de la remise de la copie ou à partir du jour où l'intéresse a eu connaissance de la notification par pli judiciaire. &lt;L 2006-05-15/35, art. 13, 022 ; En vigueur : 16-10-2006&gt; &lt;L 2006-06-13/40, art. 18, 023; En vigueur : 16-10-2006&gt; &lt;L 2006-12-27/33, art. 97, 025; En vigueur : 01-01-2007&gt;
+
+Les mesures visées à [<sup>1</sup> l'article 20, § 2, alinéa 1er, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup> [<sup>3</sup> ...]<sup>3</sup> ne sont pas susceptibles d'opposition.
+
+En cas d'appel, la chambre de la jeunesse de la cour d'appel statue dans les deux mois au plus tard à compter de l'acte d'appel.
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 65, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-09-24/03, art. 5, 039; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2022-07-15/18, art. 9, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 52quater
+
+&lt;Inséré par L 1994-02-02/33, art. 17; En vigueur : 27-09-1994&gt; En ce qui concerne les personnes visées à l'article 36, 4°, le juge ou le tribunal de la jeunesse, selon le cas, peut, dans les cas visés aux articles 52, 52bis et 52ter, ordonner une mesure de garde pour une période de trois mois au plus, en régime éducatif fermé, organisé par les instances compétentes.
+
+(Cette décision ne peut être prise que si les conditions suivantes sont réunies :
+
+1° il existe des indices sérieux de culpabilité;
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé dans l'article 52quater, alinéa 2, 1°, les mots " il existe des indices sérieux de culpabilité ")
+
+2° l'intéressé a un comportement dangereux pour lui-même ou pour autrui;
+
+3° il existe de sérieuses raisons de craindre que l'intéressé, s'il était remis en liberté, commette de nouveaux crimes ou délits, se soustraie à l'action de la justice, tente de faire disparaître des preuves ou entre en collusion avec des tiers.) &lt;L 2006-06-13/40, art. 19, 023; En vigueur : 16-10-2006&gt;
+
+(En outre, les sorties de l'intéressé de l'établissement sont soumises aux conditions suivantes :
+
+1° les sorties de l'établissement pour des comparutions judiciaires des besoins médicaux ou pour assister aux funérailles en Belgique en cas de décès d'un membre de la famille jusqu'au deuxième degré inclus, ne nécessitent pas une autorisation du juge de la jeunesse ou du tribunal de la jeunesse. Par contre, l'établissement informe le juge de la jeunesse ou le tribunal de la jeunesse préalablement par voie de télécopie de toute sortie dans ce sens. Le Roi peut par arrêté royal délibéré en Conseil des ministres élargir cette règle à d'autres types de sorties;
+
+2° les types de sorties décrites dans le projet pédagogique que l'institution communautaire publique de protection de la jeunesse communique au juge de la jeunesse ou au tribunal de la jeunesse avec mention des types d'encadrement par type de sorties, peuvent être interdites par le juge de la jeunesse ou le tribunal de la jeunesse par décision motivée pour une ou plusieurs des raisons décrites à l'alinéa 4. L'interdiction peut également ne porter que sur certains types d'activités et peut être liée à un encadrement insuffisant;
+
+3° les sorties dans le cadre d'activités ne faisant pas explicitement partie du projet pédagogique de l'institution communautaire publique de protection de la jeunesse font l'objet d'une demande au cas par cas auprès du juge de la jeunesse ou du tribunal de la jeunesse en précisant le type d'encadrement prévu. La demande est faite au plus tard cinq jours ouvrables avant le début de l'activité. Le juge de la jeunesse ou le tribunal de la jeunesse se prononce dans un délai de quatre jours ouvrables. Copie de la demande est sans délai communiquée au ministère public par le greffe.
+
+La décision du juge ou du tribunal de la jeunesse est notifiée par voie de télécopie à l'institution communautaire publique de protection de la jeunesse. Copie de la décision est communiquée dans les 24 heures au ministère public par le greffe. En cas d'interdiction de sortir de l'établissement, le juge ou le tribunal de la jeunesse mentionne les motifs de cette interdiction qui sont basés sur une ou plusieurs des raisons suivantes :
+
+1° l'intéressé a un comportement dangereux pour lui-même ou pour autrui;
+
+2° il existe de sérieuses raisons de craindre que l'intéressé, s'il était remis en liberté, commette de nouveaux crimes ou délits, se soustraie à l'action de la justice, tente de faire disparaître des preuves ou entre en collusion avec des tiers;
+
+3° l'intérêt d'une victime ou de son entourage nécessite cette interdiction. Le juge de la jeunesse ou tribunal de la jeunesse peut demander au service d'accueil aux victimes de rédiger une fiche victimes.
+
+L'appel du ministère public contre une sortie mentionné à l'alinéa 3, 2° ou 3° est suspensif durant les quinze jours qui suivent l'acte d'appel. L'appel contre une sortie mentionnée à l'alinéa 3, 2°, doit être interjeté dans un délai de quarante-huit heures, qui court à compter de la communication de la décision du juge de la jeunesse ou du tribunal de la jeunesse de confier le jeune à une institution communautaire publique de protection de la jeunesse, en régime éducatif fermé. Le ministère public en informe sans délai l'institution communautaire publique de protection de la jeunesse concernée.
+
+Le juge de la jeunesse ou le tribunal de la jeunesse peut, en tout temps, soit d'office, soit à la demande du ministère public, modifier la décision mentionnée à l'alinéa 3, 2° et 3°). &lt;L 2006-12-27/33, art. 97, 025; En vigueur : 01-03-2007&gt;
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé les alinéas 3 à 6 de l'article 52quater)
+
+Ces mesures ne sont renouvelables qu'une seule fois et après communication du rapport médico-psychologique rédigé par l'établissement, l'intéressé et son conseil étant préalablement entendus.
+
+Les mesures précitées peuvent néanmoins être prolongées de mois en mois par décision motivée du juge ou du tribunal de la jeunesse selon le cas. La décision devra être justifiée par des circonstances graves et exceptionnelles se rattachant aux exigences de la sécurité publique ou propres à la personnalité de l'intéressé, et qui nécessitent le maintien de ces mesures. L'intéressé, son conseil et le directeur de l'établissement seront préalablement entendus.
+
+L'appel contre les ordonnances ou jugements prévus aux alinéas précédents doit être interjeté dans un délai de quarante-huit heures qui court à l'égard du ministère public à compter de la communication de l'ordonnance ou du jugement et à l'égard des autres parties en cause à compter de l'accomplissement des formalités prévues à l'article 52ter, alinéa 4. Le recours peut être formé par déclaration au directeur de l'établissement ou à la personne qu'il délègue. Le directeur inscrit les recours dans un registre coté et paraphé. Il en avise immédiatement le greffe du tribunal compétent et lui adresse un extrait du registre par lettre recommandée.
+
+La chambre de la jeunesse de la cour d'appel instruit la cause et se prononce dans les quinze jours ouvrables à compter de l'acte d'appel. Passe ce délai, la mesure cesse d'être d'application. Le délai est suspendu pendant la durée de la remise accordée à la demande de la défense.
+
+(Le délai de citation devant la Cour est de trois jours.) &lt;L 1994-06-30/45, art. 1, 009; En vigueur : 27-09-1994&gt;
+
+##### Art. 52quater_COMMUNAUTE_GERMANOPHONE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+L'appel du ministère public contre une sortie mentionné à l'alinéa 3, 2° ou 3° est suspensif durant les quinze jours qui suivent l'acte d'appel. L'appel contre une sortie mentionnée à l'alinéa 3, 2°, doit être interjeté dans un délai de quarante-huit heures, qui court à compter de la communication de la décision du juge de la jeunesse ou du tribunal de la jeunesse de confier le jeune à une institution communautaire publique de protection de la jeunesse, en régime éducatif fermé. Le ministère public en informe sans délai l'institution communautaire publique de protection de la jeunesse concernée.
+
+Le juge de la jeunesse ou le tribunal de la jeunesse peut, en tout temps, soit d'office, soit à la demande du ministère public, modifier la décision mentionnée à l'alinéa 3, 2° et 3°). &lt;L 2006-12-27/33, art. 97, 025; En vigueur : 01-03-2007&gt;
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé les alinéas 3 à 6 de l'article 52quater)
+
+Ces mesures ne sont renouvelables qu'une seule fois et après communication du rapport médico-psychologique rédigé par l'établissement, l'intéressé et son conseil étant préalablement entendus.
+
+Les mesures précitées peuvent néanmoins être prolongées de mois en mois par décision motivée du juge ou du tribunal de la jeunesse selon le cas. La décision devra être justifiée par des circonstances graves et exceptionnelles se rattachant aux exigences de la sécurité publique ou propres à la personnalité de l'intéressé, et qui nécessitent le maintien de ces mesures. L'intéressé, son conseil et le directeur de l'établissement seront préalablement entendus.
+
+L'appel contre les ordonnances ou jugements prévus aux alinéas précédents doit être interjeté dans un délai de quarante-huit heures qui court à l'égard du ministère public à compter de la communication de l'ordonnance ou du jugement et à l'égard des autres parties en cause à compter de l'accomplissement des formalités prévues à l'article 52ter, alinéa 4. Le recours peut être formé par déclaration au directeur de l'établissement ou à la personne qu'il délègue. Le directeur inscrit les recours dans un registre coté et paraphé. Il en avise immédiatement le greffe du tribunal compétent et lui adresse un extrait du registre par lettre recommandée.
+
+La chambre de la jeunesse de la cour d'appel instruit la cause et se prononce dans les quinze jours ouvrables à compter de l'acte d'appel. Passe ce délai, la mesure cesse d'être d'application. Le délai est suspendu pendant la durée de la remise accordée à la demande de la défense.
+
+(Le délai de citation devant la Cour est de trois jours.) &lt;L 1994-06-30/45, art. 1, 009; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 150, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 52quater_REGION_FLAMANDE
+
+&lt;Abrogé par DCFL 2022-07-15/18, art. 10, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 52quater_COMMUNAUTE_FRANCAISE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+L'appel contre les ordonnances ou jugements prévus aux alinéas précédents doit être interjeté dans un délai de quarante-huit heures qui court à l'égard du ministère public à compter de la communication de l'ordonnance ou du jugement et à l'égard des autres parties en cause à compter de l'accomplissement des formalités prévues à l'article 52ter, alinéa 4. Le recours peut être formé par déclaration au directeur de l'établissement ou à la personne qu'il délègue. Le directeur inscrit les recours dans un registre coté et paraphé. Il en avise immédiatement le greffe du tribunal compétent et lui adresse un extrait du registre par lettre recommandée.
+
+La chambre de la jeunesse de la cour d'appel instruit la cause et se prononce dans les quinze jours ouvrables à compter de l'acte d'appel. [<sup>1</sup> ...]<sup>1</sup>. Le délai est suspendu pendant la durée de la remise accordée à la demande de la défense.
+
+(Le délai de citation devant la Cour est de trois jours.) &lt;L 1994-06-30/45, art. 1, 009; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 52quinquies
+
+&lt;Inséré par L 2006-06-13/40, art. 20; En vigueur : O2-04-2007&gt; (NOTE : entrée en vigueur des art. 20 fixée au 02-04-2007, par AR 2007-02-25/38, art. 4 et 5) Durant une procédure visant l'application d'une des mesures visées au titre II, chapitre III, le juge de la jeunesse ou le tribunal de la jeunesse peut proposer une médiation conformément aux modalités prévues aux articles 37bis à 37quinquies.
+
+##### Art. 52quinquies_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 151, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 52quinquies_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 67, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 52quinquies_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 53
+
+(NOTE : abrogé à l'égard des mineurs qui sont poursuivis en raison d'un fait qualifié infraction, par &lt;L 1999-05-04/39, art. 2, 012; En vigueur : 01-01-2002&gt;) S'il est matériellement impossible de trouver un particulier ou une institution en mesure de recueillir le mineur sur-le-champ et qu'ainsi les mesures prévues à l'article 52 ne puissent être exécutées, le mineur peut être gardé provisoirement dans une maison d'arrêt pour un terme qui ne peut dépasser quinze jours.
+
+(La mesure prévue à l'alinéa 1er n'est applicable qu'à l'égard des personnes qui sont soupçonnées d'avoir commis un fait punissable d'une peine d'emprisonnement correctionnel principal d'un an ou d'une peine plus grave aux termes du Code pénal ou des lois complémentaires et pour autant qu'elles aient atteint l'âge de quatorze ans au moins au moment des faits.
+
+En cas d'appel, les dispositions de l'article 52quater, alinéas 6 et 7, sont applicables, sauf que le délai dans lequel la décision d'appel doit intervenir est ramené à cinq jours ouvrables à compter de l'acte d'appel. (Le délai de citation devant la Cour est d'un jour.) &lt;L 1994-06-30/45, art. 2, 009; En vigueur : 27-09-1994&gt;
+
+La mesure de garde visée à l'alinéa premier ne peut être ordonnée qu'une seule fois par le juge de la jeunesse au cours de la même procédure, sauf la possibilité du tribunal de la jeunesse d'ordonner d'autres mesures provisoires.
+
+Cet article est applicable aux personnes visées à l'article 37, § 3, 2°.) &lt;L 1994-02-02/33, art. 18, 007; En vigueur : 27-09-1994&gt;
+
+Le mineur gardé dans une maison d'arrêt est isolé des adultes qui y sont détenus.
+
+##### Art. 53_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé pour autant qu'il ne concerne pas des jeunes qui ont commis un fait qualifié infraction) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 53_COMMUNAUTE_FRANCAISE
+
+(Abrogé en ce qui concerne les mineurs en danger, ceux qui sont l'objet de plainte en correction parentale et ceux qui sont trouvés mendiants ou vagabonds, en ce compris les enfants de personnes dont la déchéance de l'autorité parentale est poursuivi.) &lt;DCFR 1991-03-04/36, art. 62, § 9, 005; En vigueur : 07-12-1994&gt;
+
+(NOTE : Par son arrêté n° 4/93 du 21 janvier 1993 (M.B. 04-02-1993, p. 2260) la Cour d'arbitrage annule les mots " en ce compris les enfants de personnes dont la déchéance de l'autorité parentale est poursuivie)
+
+##### Art. 53_REGION_FLAMANDE
+
+(Abrogé sauf à l'égard des mineurs poursuivis du chef d'un fait qualifié d'infraction) &lt;DCFL 1990-03-28/34, art. 22, 5°, 003; En vigueur : indéterminée &gt;
+
+##### Art. 53bis
+
+(abrogé) &lt;L 2006-12-27/32, art. 375, 026; En vigueur : 28-12-2006&gt;
+
+##### Art. 54
+
+(Sauf dans les cas prévus au titre II, chapitre III, (...) où elles doivent comparaître en personne, les parties peuvent se faire représenter par un avocat.) &lt;L 1994-02-02/33, art. 20, 007; En vigueur : 27-09-1994&gt; &lt;L 2003-04-24/32, art. 12, 017; En vigueur : 01-09-2005&gt;
+
+Le tribunal de la jeunesse peut, en tout temps, ordonner la comparution personnelle des parties. Il peut, de même, convoquer toutes les personnes qui ont la garde du mineur.
+
+##### Art. 54_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 67, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 54bis
+
+&lt;Inséré par L 1994-02-02/33, art. 21; En vigueur : 27-09-1994&gt; § 1. Lorsqu'une personne de moins de dix-huit ans est partie à la cause et qu'elle n'a pas d'avocat, il lui en est désigné un d'office.
+
+Lorsque le tribunal de la jeunesse est saisi en application de l'article 45.2.a) ou b), ou de l'article 63ter, a) ou c), le ministère public en avise immédiatement le bâtonnier de l'ordre des avocats. Cet avis est, selon le cas, envoyé en même temps que la réquisition la citation ou l'avertissement motivé. Le bâtonnier ou le bureau de consultation et de défense procède à la désignation au plus tard dans les deux jours ouvrables à compter de cet avis.
+
+§ 2. Le ministère public adresse au tribunal de la jeunesse saisi, copie de l'avis informant le bâtonnier de la saisine.
+
+§ 3. Le bâtonnier ou le bureau de consultation et de défense veille, lorsqu'il y a contradiction d'intérêts, à ce que l'intéressé soit assisté par un avocat autre que celui auquel auraient fait appel ses père et mère, tuteurs, ou personnes qui en ont la garde ou qui sont investies d'un droit d'action.
+
+##### Art. 55
+
+&lt;L 1994-02-02/33, art. 22, 007; En vigueur : 27-09-1994&gt; Lorsqu'une affaire visée au titre II, chapitre III, est portée devant le tribunal de la jeunesse, les parties et leur avocat sont informés du dépôt au greffe du dossier dont ils peuvent prendre connaissance à partir de la notification de la citation.
+
+Les parties et leur avocat peuvent également prendre connaissance du dossier lorsque le ministère public requiert une mesure visée aux articles 52 et 53, ainsi que durant le délai d'appel des ordonnances imposant de telles mesures.
+
+Toutefois, les pièces concernant la personnalité de l'intéressé et le milieu où il vit ne peuvent être communiquées ni à l'intéressé ni à la partie civile. Le dossier complet, y compris ces pièces, doit être mis à la disposition de l'avocat de l'intéressé lorsque ce dernier est partie au procès.
+
+##### Art. 56
+
+(Dans les affaires visées au titre II, chapitre III, section première, les mineurs intéressés ne sont pas considérés comme parties au débat, sauf lorsque sont prises à leur égard des mesures prévues à l'article 52.) &lt;L 1994-02-02/33, art. 23, 007; En vigueur : 27-09-1994&gt;
+
+Dans les affaires visées au titre II, chapitre III, section II, le cas de chaque mineur est examiné séparément en l'absence de tout autre mineur, sauf pendant le temps nécessaire à d'éventuelles confrontations.
+
+##### Art. 56_COMMUNAUTE_GERMANOPHONE
+
+(Dans les affaires visées au titre II, chapitre III, section première, les mineurs intéressés ne sont pas considérés comme parties au débat, sauf lorsque [<sup>1</sup> sont ordonnées des mesures visées à l'article 70, § 3, alinéa 1er, du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>.) &lt;L 1994-02-02/33, art. 23, 007; En vigueur : 27-09-1994&gt;
+
+Dans les affaires visées au titre II, chapitre III, section II, le cas de chaque mineur est examiné séparément en l'absence de tout autre mineur, sauf pendant le temps nécessaire à d'éventuelles confrontations.
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 152, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 56_REGION_FLAMANDE
+
+(Dans les affaires visées au titre II, chapitre III, section première, les mineurs intéressés ne sont pas considérés comme parties au débat, sauf lorsque sont prises à leur égard des mesures prévues à [<sup>1</sup> l'article 20, § 2, alinéa 1er, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup>.) &lt;L 1994-02-02/33, art. 23, 007; En vigueur : 27-09-1994&gt;
+
+Dans les affaires visées au titre II, chapitre III, section II, le cas de chaque mineur est examiné séparément en l'absence de tout autre mineur, sauf pendant le temps nécessaire à d'éventuelles confrontations.
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 68, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 56bis
+
+&lt;Abrogé par L 2013-07-30/23, art. 244, 029; En vigueur : 01-09-2014&gt;
+
+##### Art. 57
+
+Le tribunal de la jeunesse peut à tout moment, au cours des débats, se retirer en chambre du conseil pour entendre, sur la personnalité (de la personne visée à l'article 36, 4°,), les experts et les témoins, les parents, tuteurs ou personnes qui ont la garde (de la personne visée à l'article 36, 4°,). &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt;
+
+(La personne visée à l'article 36, 4°,) n'assiste pas aux débats en chambre du conseil. Le tribunal peut cependant le faire appeler s'il l'estime opportun.
+
+Les débats en chambre du conseil ne peuvent avoir lieu qu'en présence de l'avocat (de la personne visée à l'article 36, 4°). &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt;
+
+##### Art. 57bis
+
+&lt;Inséré par L 2006-06-13/40, art. 21; En vigueur : indéterminée et au plus tard : 01-01-2014&gt; § 1er. Si la personne déférée au tribunal de la jeunesse en raison d'un fait qualifié infraction était âgée de seize ans ou plus au moment de ce fait et que le tribunal de la jeunesse estime inadéquate une mesure de garde, de préservation ou d'éducation, il peut, par décision motivée, se dessaisir et renvoyer l'affaire au ministère public aux fins de poursuite devant, soit, si la personne concernée est soupçonnée d'avoir commis un délit ou crime correctionnalisable, une chambre spécifique au sein du tribunal de la jeunesse qui applique le droit pénal commun et la procédure pénale commune, s'il y a lieu, [<sup>1</sup> soit, si la personne concernée est soupçonnée d'avoir commis un crime non correctionnalisable, une cour d'assises composée conformément aux dispositions de l'article 119, alinéa 2, du Code Judiciaire, s'il y a lieu]<sup>1</sup>. Le tribunal de la jeunesse ne peut toutefois se dessaisir que si en outre une des conditions suivantes est remplie :
+
+\- la personne concernée a déjà fait l'objet d'une ou de plusieurs mesures visées à l'article 37, § 2, § 2bis ou § 2ter ou d'une offre restauratrice telle que visée aux articles 37bis à 37quinquies;
+
+\- il s'agit d'un fait visé aux articles 373, 375, 393 à 397, 400, 401, 417ter, 417quater, 471 à 475 du Code pénal ou de la tentative de commettre un fait visé aux articles 393 à 397 du Code pénal.
+
+La motivation porte sur la personnalité de la personne concernée et de son entourage et sur le degré de maturité de la personne concernée.
+
+La présente disposition peut être appliquée même lorsque l'intéressé a atteint l'âge de dix-huit ans au moment du jugement. Il est dans ce cas assimilé à un mineur pour l'application du présent chapitre.
+
+§ 2. Sans préjudice de l'article 36bis, le tribunal de la jeunesse ne peut se dessaisir d'une affaire en application du présent article qu'après avoir fait procéder à l'étude sociale et à l'examen médico-psychologique prévus à l'article 50, alinéa 2.
+
+L'examen médico-psychologique a pour but d'évaluer la situation en fonction de la personnalité de la personne concernée et de son entourage, ainsi que du degré de maturité de la personne concernée. La nature, la fréquence et la gravité des faits qui lui sont reprochés, sont prises en considération dans la mesure où elles sont pertinentes pour l'évaluation de sa personnalité. Le Roi fixe les modalités selon lesquelles l'examen médico-psychologique doit avoir lieu.
+
+Toutefois,
+
+1° le tribunal de la jeunesse peut se dessaisir d'une affaire sans disposer du rapport de l'examen médico-psychologique, lorsqu'il constate que l'intéressé se soustrait à cet examen ou refuse de s'y soumettre;
+
+2° le tribunal de la jeunesse peut se dessaisir d'une affaire sans devoir faire procéder à une étude sociale et sans devoir demander un examen médico-psychologique, lorsqu'une mesure a déjà été prise par jugement à l'égard d'une personne de moins de dix-huit ans en raison d'un ou plusieurs faits visés aux articles 323, 373 à 378, 392 à 394, 401 et 468 à 476 du Code pénal, commis après l'âge de seize ans, et que cette personne est à nouveau poursuivie pour un ou plusieurs de ces faits commis postérieurement à la première condamnation. Les pièces de la procédure antérieure sont jointes à celles de la nouvelle procédure;
+
+3° le tribunal de la jeunesse statue dans les mêmes conditions sur la demande de dessaisissement à l'égard d'une personne de moins de dix-huit ans qui a commis un fait qualifié crime punissable d'une peine supérieure à la réclusion de vingt ans, commis après l'age de seize ans et qui n'est poursuivi qu'après qu'il ait atteint l'âge de dix-huit ans.
+
+§ 3. Le tribunal de la jeunesse ne peut se dessaisir d'une affaire que dans le respect de la procédure suivante.
+
+Dès le dépôt au greffe de l'étude sociale et de l'examen médico-psychologique, le juge de la jeunesse communique, dans les trois jours ouvrables, le dossier au procureur du Roi. Lorsqu'en application du § 2, alinéa 3, 1°, un examen médico-psychologique n'est pas requis, le tribunal communique le dossier au procureur du Roi dans les trois jours ouvrables du dépôt au greffe de l'étude sociale. Lorsqu'en application du § 2, alinéa 3, 2° et 3°, le tribunal peut statuer sans devoir faire procéder à une étude sociale et sans devoir demander un examen médico-psychologique, il communique le dossier sans délai au procureur du Roi.
+
+Celui-ci cite les personnes visées à l'article 46 dans les trente jours de la réception du dossier en vue de la plus prochaine audience utile. La citation doit mentionner qu'un dessaisissement est requis. Le tribunal statue sur le dessaisissement dans les trente jours ouvrables de l'audience publique.
+
+En cas d'appel, le procureur général dispose d'un délai de vingt jours ouvrables à dater de la fin du délai d'appel pour citer devant la chambre de la jeunesse de la cour d'appel. Cette chambre statue sur le dessaisissement dans les quinze jours ouvrables de l'audience.
+
+§ 4. A dater de la citation en dessaisissement, l'intéressé confié à une institution visée à l'article 37, § 2, alinéa 1er, 8°, en régime éducatif fermé peut être transféré à la section éducation d'un centre fédéral fermé pour mineurs ayant commis un fait qualifié infraction. Ce transfert ne peut avoir lieu que sur décision du juge de la jeunesse, cette décision étant spécialement motivée quant aux circonstances particulières.
+
+Les jugements qui ordonnent le placement visé à l'alinéa 1er sont susceptibles d'appel selon la procédure visée à l'article 52quater, alinéas 6, 7 et 8.
+
+Le tribunal de la jeunesse qui n'ordonne pas le dessaisissement met immédiatement fin au placement dans le centre fédéral fermé pour mineurs ayant commis un fait qualifié infraction et prend à l'égard de l'intéressé toute autre mesure qu'il juge utile.
+
+§ 5. Toute personne qui a fait l'objet d'une décision de dessaisissement prononcée en application du présent article devient, à compter du jour où cette décision est devenue définitive, justiciable de la juridiction ordinaire pour les poursuites relatives aux faits commis après le jour de la citation de dessaisissement.
+
+§ 6. A la suite d'une décision de dessaisissement ordonnée en application de la présente disposition, le tribunal de la jeunesse ou, le cas échéant, la chambre de la jeunesse de la cour d'appel, transmet sans délai au ministère public l'intégralité du dossier de la personne concernée en vue de le joindre, en cas de poursuite, au dossier répressif.
+
+(NOTE : entrée en vigueur de l'art. 57bis, §§ 1, 2, 3, 5 et 6 fixée au 01-10-2007 par AR 2007-02-25/38, art. 7)
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé l'article 57bis, § 1er, en ce qu'il dispose que « si la personne concernée est soupçonnée d'avoir commis un crime non correctionnalisable », l'affaire est renvoyée au ministère public aux fins de poursuite devant la juridiction compétente en vertu du droit commun)
+
+----------
+
+(1)&lt;L 2009-07-31/12, art. 3, 027; En vigueur : 28-08-2009&gt;
+
+##### Art. 57bis_COMMUNAUTE_FRANCAISE
+
+§ 1. [<sup>2</sup> ...]<sup>2</sup> [<sup>3</sup> ...]<sup>3</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. Le tribunal de la jeunesse ne peut se dessaisir d'une affaire que dans le respect de la procédure suivante.
+
+Dès le dépôt au greffe de l'étude sociale et de l'examen médico-psychologique, le juge de la jeunesse communique, dans les trois jours ouvrables, le dossier au procureur du Roi. Lorsqu'en application du § 2, alinéa 3, 1°, un examen médico-psychologique n'est pas requis, le tribunal communique le dossier au procureur du Roi dans les trois jours ouvrables du dépôt au greffe de l'étude sociale. Lorsqu'en application du § 2, alinéa 3, 2° et 3°, le tribunal peut statuer sans devoir faire procéder à une étude sociale et sans devoir demander un examen médico-psychologique, il communique le dossier sans délai au procureur du Roi.
+
+Celui-ci cite les personnes visées à l'article 46 dans les trente jours de la réception du dossier en vue de la plus prochaine audience utile. La citation doit mentionner qu'un dessaisissement est requis. Le tribunal statue sur le dessaisissement dans les trente jours ouvrables de l'audience publique.
+
+En cas d'appel, le procureur général dispose d'un délai de vingt jours ouvrables à dater de la fin du délai d'appel pour citer devant la chambre de la jeunesse de la cour d'appel. Cette chambre statue sur le dessaisissement dans les quinze jours ouvrables de l'audience.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 6. A la suite d'une décision de dessaisissement ordonnée en application de la présente disposition, le tribunal de la jeunesse ou, le cas échéant, la chambre de la jeunesse de la cour d'appel, transmet sans délai au ministère public l'intégralité du dossier de la personne concernée en vue de le joindre, en cas de poursuite, au dossier répressif.
+
+(NOTE : entrée en vigueur de l'art. 57bis, §§ 1, 2, 3, 5 et 6 fixée au 01-10-2007 par AR 2007-02-25/38, art. 7)
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé l'article 57bis, § 1er, en ce qu'il dispose que « si la personne concernée est soupçonnée d'avoir commis un crime non correctionnalisable », l'affaire est renvoyée au ministère public aux fins de poursuite devant la juridiction compétente en vertu du droit commun)
+
+----------
+
+(1)&lt;L 2009-07-31/12, art. 3, 027; En vigueur : 28-08-2009&gt;
+
+(2)&lt;DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFR 2026-09-04/04, art. 6, 048; En vigueur : 01-09-2026&gt;
+
+##### Art. 57bis_REGION_FLAMANDE
+
+&lt;Inséré par L 2006-06-13/40, art. 21; En vigueur : indéterminée et au plus tard : 01-01-2014&gt; § 1er. [<sup>5</sup> ...]<sup>5</sup>
+
+§ 2. [<sup>5</sup> ...]<sup>5</sup>
+
+§ 3. Le tribunal de la jeunesse ne peut se dessaisir d'une affaire que dans le respect de la procédure suivante.
+
+Dès le dépôt au greffe de l'étude sociale et de l'examen médico-psychologique, le juge de la jeunesse communique, dans les trois jours ouvrables, le dossier au procureur du Roi. Lorsqu'en application [<sup>5</sup> de l'article 38, § 3, alinéa 3, 1°, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>5</sup>, un examen médico-psychologique n'est pas requis, le tribunal communique le dossier au procureur du Roi dans les trois jours ouvrables du dépôt au greffe de l'étude sociale. Lorsqu'en application [<sup>5</sup> de l'article 38, § 3, alinéa 3, 2° et 3°, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>5</sup>, le tribunal peut statuer sans devoir faire procéder à une étude sociale et sans devoir demander un examen médico-psychologique, il communique le dossier sans délai au procureur du Roi.
+
+Celui-ci cite les personnes visées à l'article 46 dans les trente jours de la réception du dossier en vue de la plus prochaine audience utile. La citation doit mentionner qu'un dessaisissement est requis. Le tribunal statue sur le dessaisissement dans les trente jours ouvrables de l'audience publique.
+
+En cas d'appel, le procureur général dispose d'un délai de vingt jours ouvrables à dater de la fin du délai d'appel pour citer devant la chambre de la jeunesse de la cour d'appel. Cette chambre statue sur le dessaisissement dans les quinze jours ouvrables de l'audience.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 5. Toute personne qui a fait l'objet d'une décision de dessaisissement prononcée en application [<sup>5</sup> de l'article 38 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>5</sup> devient, à compter du jour où cette décision est devenue définitive, justiciable de la juridiction ordinaire pour les poursuites relatives aux faits commis après le jour de la citation de dessaisissement.
+
+§ 6. A la suite d'une décision de dessaisissement ordonnée en application de [<sup>5</sup> l'article 38 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>5</sup>, le tribunal de la jeunesse ou, le cas échéant, la chambre de la jeunesse de la cour d'appel, transmet sans délai au ministère public l'intégralité du dossier de la personne concernée en vue de le joindre, en cas de poursuite, au dossier répressif.
+
+[<sup>4</sup> § 7. [<sup>5</sup> ...]<sup>5</sup>]<sup>4</sup>
+
+(NOTE : entrée en vigueur de l'art. 57bis, §§ 1, 2, 3, 5 et 6 fixée au 01-10-2007 par AR 2007-02-25/38, art. 7)
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé l'article 57bis, § 1er, en ce qu'il dispose que « si la personne concernée est soupçonnée d'avoir commis un crime non correctionnalisable », l'affaire est renvoyée au ministère public aux fins de poursuite devant la juridiction compétente en vertu du droit commun)
+
+----------
+
+(1)&lt;L 2009-07-31/12, art. 3, 027; En vigueur : 28-08-2009&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 67, 034; En vigueur : 29-08-2016&gt;
+
+(3)&lt;DCFL 2019-02-15/20, art. 69, 038; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2019-09-24/03, art. 7, 039; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2022-07-15/18, art. 11, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 57bis_COMMUNAUTE_GERMANOPHONE
+
+§ 1. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. Le tribunal de la jeunesse ne peut se dessaisir d'une affaire que dans le respect de la procédure suivante.
+
+Dès le dépôt au greffe de l'étude sociale et de l'examen médico-psychologique, le juge de la jeunesse communique, dans les trois jours ouvrables, le dossier au procureur du Roi. Lorsqu'en application du § 2, alinéa 3, 1°, un examen médico-psychologique n'est pas requis, le tribunal communique le dossier au procureur du Roi dans les trois jours ouvrables du dépôt au greffe de l'étude sociale. Lorsqu'en application du § 2, alinéa 3, 2° et 3°, le tribunal peut statuer sans devoir faire procéder à une étude sociale et sans devoir demander un examen médico-psychologique, il communique le dossier sans délai au procureur du Roi.
+
+Celui-ci cite les personnes visées à l'article 46 dans les trente jours de la réception du dossier en vue de la plus prochaine audience utile. La citation doit mentionner qu'un dessaisissement est requis. Le tribunal statue sur le dessaisissement dans les trente jours ouvrables de l'audience publique.
+
+En cas d'appel, le procureur général dispose d'un délai de vingt jours ouvrables à dater de la fin du délai d'appel pour citer devant la chambre de la jeunesse de la cour d'appel. Cette chambre statue sur le dessaisissement dans les quinze jours ouvrables de l'audience.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 5. Toute personne qui a fait l'objet d'une décision de dessaisissement prononcée en application [<sup>3</sup> de l'article 84 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>3</sup> devient, à compter du jour où cette décision est devenue définitive, justiciable de la juridiction ordinaire pour les poursuites relatives aux faits commis après le jour de la citation de dessaisissement.
+
+§ 6. A la suite d'une décision de dessaisissement ordonnée en application de la présente disposition, le tribunal de la jeunesse ou, le cas échéant, la chambre de la jeunesse de la cour d'appel, transmet sans délai au ministère public l'intégralité du dossier de la personne concernée en vue de le joindre, en cas de poursuite, au dossier répressif.
+
+(NOTE : entrée en vigueur de l'art. 57bis, §§ 1, 2, 3, 5 et 6 fixée au 01-10-2007 par AR 2007-02-25/38, art. 7)
+
+(NOTE : par son arrêt n° 49/2008 du 13-03-2008 (M.B. 14-04-2008, p. 19854-19863), la Cour Constitutionnelle a annulé l'article 57bis, § 1er, en ce qu'il dispose que « si la personne concernée est soupçonnée d'avoir commis un crime non correctionnalisable », l'affaire est renvoyée au ministère public aux fins de poursuite devant la juridiction compétente en vertu du droit commun)
+
+----------
+
+(1)&lt;L 2009-07-31/12, art. 3, 027; En vigueur : 28-08-2009&gt;
+
+(2)&lt;DCG 2016-02-22/24, art. 13, 033; En vigueur : 14-04-2016&gt;
+
+(3)&lt;DCG 2023-11-13/20, art. 153, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 58
+
+Les décisions du tribunal de la jeunesse rendues dans les matières prévues au titre II, chapitres III et IV, sont, dans les délais légaux, susceptibles d'appel de la part du ministère public et d'opposition et d'appel de la part de toutes autres parties en cause (sans préjudice des dispositions des articles 52, (52quater, alinéa 9), et 53, alinéa 3). &lt;L 1994-02-02/33, art. 25, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-12-27/33, art. 99, 025; En vigueur : 01-03-2007&gt;
+
+Les jugements rendus dans les matières prévues au titre II, chapitre II, ne sont pas susceptibles d'opposition. L'appel est formé par voie de requête déposée au greffe de la cour d'appel (...); (...). Le greffier de la chambre de la jeunesse convoque devant celle-ci les parties qui avaient été convoquées devant le tribunal de la jeunesse; il joint aux convocations destinées aux autres parties que le requérant, une copie conforme de la requête. &lt;L 15-07-1970, art. 50&gt; &lt;L 1998-05-18/43, art. 2, 010; En vigueur : 25-07-1998&gt;
+
+Le ministère des avoués à la cour n'est pas requis.
+
+Le tribunal de la jeunesse peut ordonner l'exécution provisoire de ses décisions, sauf quant aux dépens.
+
+##### Art. 58_COMMUNAUTE_GERMANOPHONE
+
+Les décisions du tribunal de la jeunesse rendues dans les matières prévues au titre II, chapitres III et IV, sont, dans les délais légaux, susceptibles d'appel de la part du ministère public et d'opposition et d'appel de la part de toutes autres parties en cause (sans préjudice des dispositions [<sup>1</sup> des articles 69, 70 et 71 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse et des articles]<sup>1</sup>, (52quater, alinéa 9), et 53, alinéa 3 [<sup>1</sup> de la présente loi]<sup>1</sup>). &lt;L 1994-02-02/33, art. 25, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-12-27/33, art. 99, 025; En vigueur : 01-03-2007&gt;
+
+Les jugements rendus dans les matières prévues au titre II, chapitre II, ne sont pas susceptibles d'opposition. L'appel est formé par voie de requête déposée au greffe de la cour d'appel (...); (...). Le greffier de la chambre de la jeunesse convoque devant celle-ci les parties qui avaient été convoquées devant le tribunal de la jeunesse; il joint aux convocations destinées aux autres parties que le requérant, une copie conforme de la requête. &lt;L 15-07-1970, art. 50&gt; &lt;L 1998-05-18/43, art. 2, 010; En vigueur : 25-07-1998&gt;
+
+Le ministère des avoués à la cour n'est pas requis.
+
+Le tribunal de la jeunesse peut ordonner l'exécution provisoire de ses décisions, sauf quant aux dépens.
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 154, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 58_REGION_FLAMANDE
+
+Les décisions du tribunal de la jeunesse rendues dans les matières prévues au titre II, chapitres III et IV, sont, dans les délais légaux, susceptibles d'appel de la part du ministère public et d'opposition et d'appel de la part de toutes autres parties en cause [<sup>2</sup> avec maintien de l'application de l'article 52ter, alinéa 5, et avec maintien de l'application des alinéas 4 à 7]<sup>2</sup>. &lt;L 1994-02-02/33, art. 25, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-12-27/33, art. 99, 025; En vigueur : 01-03-2007&gt;
+
+Les jugements rendus dans les matières prévues au titre II, chapitre II, ne sont pas susceptibles d'opposition. L'appel est formé par voie de requête déposée au greffe de la cour d'appel (...); (...). Le greffier de la chambre de la jeunesse convoque devant celle-ci les parties qui avaient été convoquées devant le tribunal de la jeunesse; il joint aux convocations destinées aux autres parties que le requérant, une copie conforme de la requête. &lt;L 15-07-1970, art. 50&gt; &lt;L 1998-05-18/43, art. 2, 010; En vigueur : 25-07-1998&gt;
+
+Le ministère des avoués à la cour n'est pas requis.
+
+[<sup>2</sup> L'appel contre une mesure ou une sanction imposant une orientation en milieu fermé en application de l'article 20, § 2, alinéa 1er, 4°, ou de l'article 29, § 2, alinéa 1er, 6°, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile, est interjeté dans un délai de quarante-huit heures. Ce délai court à l'égard du ministère public à compter de la communication de l'ordonnance et à l'égard des autres parties en cause à compter de l'accomplissement des formalités visées à l'article 52ter, alinéa 4. L'appel peut être interjeté par une déclaration au directeur de l'établissement ou à la personne désignée à cet effet par le directeur. Le directeur inscrit les recours dans un registre numéroté et paraphé, il en avise immédiatement le greffe du tribunal compétent et lui adresse un extrait du registre par lettre recommandée.
+
+La chambre de la jeunesse de la cour d'appel instruit la cause et se prononce dans les quinze jours ouvrables à compter de l'acte d'appel. Passé ce délai, la mesure cesse d'être d'application. Le délai est suspendu pendant la durée de la remise qui est accordée à la demande de la défense.
+
+Le délai de citation devant la cour d'appel est de trois jours.
+
+L'appel contre une mesure ou une prolongation d'une mesure par laquelle un mineur est confié à une division d'un service de psychiatrie juvénile d'un hôpital psychiatrique, en application de l'article 20, § 2, alinéa 1er, 3° /1, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile, ou à une division au sein d'une institution communautaire pour un encadrement en milieu fermé, en application de l'article 20, § 2, alinéa 1er, 5°, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile, est interjeté dans un délai de quarante-huit heures. La procédure et les délais visés aux alinéas 4, 5 et 6 s'appliquent par analogie.]<sup>2</sup>
+
+Le tribunal de la jeunesse peut ordonner l'exécution provisoire de ses décisions, sauf quant aux dépens.
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 70, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/18, art. 12, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 59
+
+Le juge saisi de l'appel peut prendre les mesures provisoires prévues (à l'article 52). &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt;
+
+Les mesures provisoires prises antérieurement par le tribunal de la jeunesse sont maintenues tant qu'elles n'ont pas été modifiées par la juridiction d'appel.
+
+##### Art. 59_COMMUNAUTE_GERMANOPHONE
+
+Le juge saisi de l'appel peut prendre les mesures provisoires prévues (à l'[<sup>1</sup> article 70, § 3, alinéa 1er, du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>). &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt;
+
+Les mesures provisoires prises antérieurement par le tribunal de la jeunesse sont maintenues tant qu'elles n'ont pas été modifiées par la juridiction d'appel.
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 155, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 59_REGION_FLAMANDE
+
+Le juge saisi de l'appel peut prendre les mesures [<sup>1</sup> ...]<sup>1</sup> prévues (à [<sup>1</sup> l'article 20, § 2, alinéa 1er, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup>). &lt;L 1999-05-04/39, art. 3, 012; En vigueur : 01-01-2002&gt;
+
+Les mesures [<sup>1</sup> ...]<sup>1</sup> prises antérieurement par le tribunal de la jeunesse sont maintenues tant qu'elles n'ont pas été modifiées par la juridiction d'appel.
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 71, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 59_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 60
+
+Le tribunal de la jeunesse peut, en tout temps, soit d'office, soit à la demande du ministère public, (ou à la demande des instances compétent visées (à l'article 37, § 2, alinéa 1er, 7° à 11°)) rapporter ou modifier les mesures prises tant à l'égard des père, mère ou personne, (...), et agir dans les limites de la présente loi au mieux des intérêts (de la personne visée à l'article 36, 4°). &lt;L 1994-02-02/33, art. 26, 1°, et 2°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt; &lt;L 2006-06-13/40, art. 22, 1°, 023; En vigueur : 16-10-2006&gt;
+
+Le tribunal de la jeunesse peut être saisi aux mêmes fins par requête des père, mère, tuteurs ou personnes qui ont la garde (de la personne visée à l'article 36, 4°,) ainsi que (de la personne visée à l'article 36, 4°,) qui fait l'objet de la mesure, après l'expiration d'un délai d'un an à compter du jour où la décision ordonnant la mesure est devenue définitive. Si cette requête est rejetée, elle ne peut être renouvelée avant l'expiration d'un an depuis la date à laquelle la décision de rejet est devenue définitive. (Dans les cas prévus à l'article 37quinquies, § 3, le premier délai d'attente d'un an ne s'applique pas.) &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt; &lt;L 2006-06-13/40, art. 22, 2°, 023; En vigueur : O2-04-2007&gt;
+
+(Le mineur et ses père, mère, tuteurs ou personnes qui ont la garde en droit ou en fait du mineur peuvent demander, par requête motivée, la révision de la mesure provisoire visée à l'article 52quater après un délai d'un mois à dater du jour où la décision est devenue définitive. (Le greffe adresse sans délai une copie de la requête au ministère public). Le juge entend le jeune et ses représentants légaux (, ainsi que le ministère public si ce dernier en formule la demande). Le requérant ne peut introduire une nouvelle requête portant sur le même objet avant l'expiration d'un délai d'un mois à dater de la dernière décision de rejet de sa demande.) &lt;L 2006-06-13/40, art. 22, 3°, 023; En vigueur : 16-10-2006&gt; &lt;L 2006-12-27/33, art. 100, 025; En vigueur : 01-01-2007&gt;
+
+(Toute mesure visée (à l'article 37, § 2, alinéa 1er, à l'exception des 1° et 8°), prise par jugement, doit être réexaminée en vue d'être confirmée, rapportée ou modifiée avant l'expiration du délai d'un an à compter du jour où la décision est devenue définitive. Cette procédure est introduite par le ministère public selon les formes prévues à l'article 45, 2 b) et c).
+
+(La mesure visée à l'article 37, § 2, alinéa 1er, 8°, prise par jugement, doit, sans préjudice de l'article 37, § 2, alinéa 4, être réexaminée en vue d'être confirmée, rapportée ou modifiée avant l'expiration du délai de six mois à compter du jour où la décision est devenue définitive. Cette procédure est introduite dans les formes prévues à l'alinéa 4.) &lt;L 2006-06-13/40, art. 22, 5°, 023; En vigueur : 16-10-2006&gt;
+
+Les autorités compétentes visées (à l'article 37, § 2, alinéa 1er, 8°, 10° et 11°), transmettent trimestriellement au tribunal de la jeunesse un rapport d'évaluation relatif à la personne ayant fait l'objet d'une mesure de garde sous un régime éducatif fermé.) &lt;L 1994-02-02/33, art. 26, 3°, 007; En vigueur : 27-09-1994&gt; &lt;L 2006-06-13/40, art. 22, 6°, 023; En vigueur : 16-10-2006&gt;
+
+##### Art. 60_COMMUNAUTE_GERMANOPHONE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup> (Le greffe adresse sans délai une copie de la requête au ministère public). [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup> Cette procédure est introduite par le ministère public selon les formes prévues à l'article 45, 2 b) et c).
+
+Cette procédure est introduite dans les formes prévues à l'alinéa 4. &lt;L 2006-06-13/40, art. 22, 5°, 023; En vigueur : 16-10-2006&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+(Abrogé pour autant qu'il ne concerne pas des jeunes qui ont commis un fait qualifié infraction) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 156, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 60_REGION_FLAMANDE
+
+[<sup>1</sup> Le tribunal de la jeunesse peut en tout temps, d'office ou à la demande du ministère public, révoquer ou modifier les mesures prises à l'égard du père, de la mère ou de ceux qui ont la garde du mineur, et agir dans l'intérêt du mineur dans les limites de la présente loi.
+
+La ou les personnes visées au § 1er, à l'égard desquelles la mesure a été prise, peuvent saisir par requête le tribunal de la jeunesse à cette fin, après l'expiration d'un délai d'un an à compter de la date à laquelle la décision ordonnant la mesure est devenue définitive. Si la requête est rejetée, elle ne peut être renouvelée avant l'expiration d'un délai d'un an à compter de la date à laquelle la décision de rejet est devenue définitive.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 72, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 60_COMMUNAUTE_FRANCAISE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>(Le greffe adresse sans délai une copie de la requête au ministère public). [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>. Cette procédure est introduite par le ministère public selon les formes prévues à l'article 45, 2 b) et c).
+
+[<sup>1</sup> ...]<sup>1</sup> Cette procédure est introduite dans les formes prévues à l'alinéa 4.) &lt;L 2006-06-13/40, art. 22, 5°, 023; En vigueur : 16-10-2006&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 61
+
+Dans le cas où le fait qualifié infraction est établi, le tribunal de la jeunesse condamne (La personne visée à l'article 36,4°) aux frais et, s'il y a lieu, aux restitutions. La confiscation spéciale peut être prononcée. &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt; &lt;L 2006-12-27/32, art. 377, 002; En vigueur : 28-12-2006&gt;
+
+Dans le même cas, le tribunal de la jeunesse saisi de l'action civile statue sur cette action (ou en reporte l'examen à une date ultérieure). Il statue en même temps sur les dépens. &lt;L 2006-06-13/40, art. 23, A, 023; En vigueur : 16-10-2006&gt;
+
+Les personnes responsables soit en vertu [<sup>1</sup> des articles 6.12, 6.13 et 6.14]<sup>1</sup> du Code civil, soit en vertu d'une loi spéciale, sont citées et tenues solidairement avec (La personne visée à l'article 36, 4°), des frais, des restitutions et des dommages-intérêts. &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt; &lt;L 2006-12-27/32, art. 377, 002; En vigueur : 28-12-2006&gt;
+
+(La victime peut se désister de toute action qui découle du fait qualifié infraction, notamment lorsque l'auteur ou les auteurs au profit duquel ou desquels la victime se désiste, collaborent ou collabore à une offre restauratrice.
+
+La victime mentionne explicitement dans l'accord auquel aboutit l'approche restauratrice, le ou les auteurs qui a ou ont collaboré à une offre restauratrice, auxquels s'applique le désistement d'action visé au quatrième alinéa.
+
+Le désistement d'action tel que visé à l'alinéa 4 implique automatiquement que ce désistement vaut également à l'égard de toutes les personnes qui soit en vertu [<sup>1</sup> des articles 6.12, 6.13 et 6.14]<sup>1</sup> du Code civil, soit en vertu d'une loi spéciale sont responsables du dommage causé par le ou les auteurs au profit duquel ou desquels la victime se désiste.) &lt;L 2006-06-13/40, art. 23, B, 023; En vigueur : 16-10-2006&gt;
+
+----------
+
+(1)&lt;L 2024-02-07/18, art. 21, 044; En vigueur : 01-01-2025&gt;
+
+##### Art. 61_COMMUNAUTE_GERMANOPHONE
+
+Dans le cas où le [<sup>2</sup> fait de délinquance juvénile]<sup>2</sup> est établi, le tribunal de la jeunesse condamne (La personne visée à l'article 36,4°) aux frais et, s'il y a lieu, aux restitutions. La confiscation spéciale peut être prononcée. &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt; &lt;L 2006-12-27/32, art. 377, 002; En vigueur : 28-12-2006&gt;
+
+Dans le même cas, le tribunal de la jeunesse saisi de l'action civile statue sur cette action (ou en reporte l'examen à une date ultérieure). Il statue en même temps sur les dépens. &lt;L 2006-06-13/40, art. 23, A, 023; En vigueur : 16-10-2006&gt;
+
+Les personnes responsables soit en vertu [<sup>1</sup> des articles 6.12, 6.13 et 6.14]<sup>1</sup> du Code civil, soit en vertu d'une loi spéciale, sont citées et tenues solidairement avec (La personne visée à l'article 36, 4°), des frais, des restitutions et des dommages-intérêts. &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt; &lt;L 2006-12-27/32, art. 377, 002; En vigueur : 28-12-2006&gt;
+
+(La victime peut se désister de toute action qui découle du [<sup>2</sup> fait de délinquance juvénile]<sup>2</sup>, notamment lorsque l'auteur ou les auteurs au profit duquel ou desquels la victime se désiste, collaborent ou collabore à une offre restauratrice.
+
+La victime mentionne explicitement dans l'accord auquel aboutit l'approche restauratrice, le ou les auteurs qui a ou ont collaboré à une offre restauratrice, auxquels s'applique le désistement d'action visé au quatrième alinéa.
+
+Le désistement d'action tel que visé à l'alinéa 4 implique automatiquement que ce désistement vaut également à l'égard de toutes les personnes qui soit en vertu [<sup>1</sup> des articles 6.12, 6.13 et 6.14]<sup>1</sup> du Code civil, soit en vertu d'une loi spéciale sont responsables du dommage causé par le ou les auteurs au profit duquel ou desquels la victime se désiste.) &lt;L 2006-06-13/40, art. 23, B, 023; En vigueur : 16-10-2006&gt;
+
+----------
+
+(1)&lt;L 2024-02-07/18, art. 21, 044; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DCG 2023-11-13/20, art. 157, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 61_REGION_FLAMANDE
+
+Dans le cas où le [<sup>1</sup> délit de mineur]<sup>1</sup> est établi, le tribunal de la jeunesse condamne (La personne visée à l'article 36,4°) aux frais et, s'il y a lieu, aux restitutions. La confiscation spéciale peut être prononcée. &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt; &lt;L 2006-12-27/32, art. 377, 002; En vigueur : 28-12-2006&gt;
+
+Dans le même cas, le tribunal de la jeunesse saisi de l'action civile statue sur cette action (ou en reporte l'examen à une date ultérieure). Il statue en même temps sur les dépens. &lt;L 2006-06-13/40, art. 23, A, 023; En vigueur : 16-10-2006&gt;
+
+Les personnes responsables soit en vertu [<sup>2</sup> des articles 6.12, 6.13 et 6.14]<sup>2</sup> du Code civil, soit en vertu d'une loi spéciale, sont citées et tenues solidairement avec (La personne visée à l'article 36, 4°), des frais, des restitutions et des dommages-intérêts. &lt;L 2006-05-15/35, art. 15, 022; En vigueur : 02-04-2007&gt; &lt;L 2006-12-27/32, art. 377, 002; En vigueur : 28-12-2006&gt;
+
+(La victime peut se désister de toute action qui découle du [<sup>1</sup> délit de mineur]<sup>1</sup>, notamment lorsque l'auteur ou les auteurs au profit duquel ou desquels la victime se désiste, collaborent ou collabore à une offre restauratrice.
+
+La victime mentionne explicitement dans l'accord auquel aboutit l'approche restauratrice, le ou les auteurs qui a ou ont collaboré à une offre restauratrice, auxquels s'applique le désistement d'action visé au quatrième alinéa.
+
+Le désistement d'action tel que visé à l'alinéa 4 implique automatiquement que ce désistement vaut également à l'égard de toutes les personnes qui soit en vertu [<sup>2</sup> des articles 6.12, 6.13 et 6.14]<sup>2</sup> du Code civil, soit en vertu d'une loi spéciale sont responsables du dommage causé par le ou les auteurs au profit duquel ou desquels la victime se désiste.) &lt;L 2006-06-13/40, art. 23, B, 023; En vigueur : 16-10-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 73, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;L 2024-02-07/18, art. 21, 044; En vigueur : 01-01-2025&gt;
+
+##### Art. 61bis
+
+&lt;inséré par L 2006-05-15/35, art. 14 ; En vigueur : 16-10-2006&gt; Une copie des jugements et arrêts rendus en audience publique est transmise directement, lors du prononcé de ces décisions, au jeune de douze ans ou plus et à ses père et mère, tuteurs ou personnes qui ont la garde en droit ou en fait de l'intéressé, s'ils sont présents à l'audience. Au cas où cette remise n'a pu avoir lieu, la décision est notifiée par pli judiciaire.
+
+La copie des jugements et arrêts indique les voies de recours ouvertes contre ceux-ci ainsi que les formes et délais à respecter.
+
+##### Art. 62
+
+(NOTE : La Cour d'arbitrage par son arrêt n° 122/98 du 3 décembre 1998 à dit pour droit que cet article viole les articles 10 et 11 de la Constitution, en ce que, dans les procédures visées à l'article 36, 2°, de la loi précitée , les parents d'accueil ne sont pas appelés à la cause et leur intervention n'est pas admise. M.B. 20-01-1999, p. 1632-1635) &lt;L 1994-02-02/33, art. 27, 007; En vigueur : 27-09-1994&gt; Sauf dérogation, les dispositions légales en matière de procédure civile s'appliquent aux procédures visées au titre II, chapitre II, ainsi qu'aux articles 63bis, § 2, et 63ter, alinéa 1er, b), et les dispositions légales concernant les poursuites en matière correctionnelle, aux procédures visées au titre II, chapitre III, et à l'article 63ter, alinéa 1er, a) et c).
+
+##### Art. 62bis
+
+&lt;Inséré par L 1994-02-02/33, art. 28; En vigueur : 27-09-1994&gt; Dans les cas où les dispositions prises en vertu [<sup>1</sup> des articles 128, 130 et 135]<sup>1</sup> de la Constitution et de l'article 5, § 1er, II, 6°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, prévoient que l'exécution d'une mesure du tribunal de la jeunesse n'appartient pas au ministère public, une expédition de la décision est adressée à l'autorité administrative qui en est chargée.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 245, 029; En vigueur : 01-09-2014&gt;
+
+##### Art. 62bis_REGION_FLAMANDE
+
+&lt;Inséré par L 1994-02-02/33, art. 28; En vigueur : 27-09-1994&gt; Dans les cas où les dispositions prises en vertu [<sup>1</sup> des articles 128, 130 et 135]<sup>1</sup> de la Constitution et de l'article 5, § 1er, II, 6°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, prévoient que l'exécution d'une [<sup>2</sup> mesure et une sanction]<sup>2</sup> du tribunal de la jeunesse n'appartient pas au ministère public, une expédition de la décision est adressée à l'autorité administrative qui en est chargée.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 245, 029; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2019-02-15/20, art. 74, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 63
+
+Les déchéances de la (autorité parentale) et les mesures prononcées par application (des articles 37 et 39) à l'égard des mineurs déférés au tribunal de la jeunesse sur base de l'article 36, 1°, 3° et 4°, sont mentionnées au casier judiciaire des intéressés. &lt;L 1994-02-02/33, art. 29, 1° et 2°, 007; En vigueur : 27-09-1994&gt;
+
+Ces déchéances et ces mesures ne peuvent jamais être portées à la connaissance des particuliers.
+
+Elles peuvent être portées à la connaissance des autorités judiciaires.
+
+Elles peuvent également être portées à la connaissance des autorités administratives, des notaires et des huissiers de justice, dans les cas où ces renseignements leur sont indispensables pour l'application d'une disposition légale ou réglementaire. Cette communication se fait sous le contrôle des autorités judiciaires, suivant la procédure qui sera déterminée par le Roi.
+
+Les mentions inscrites au casier judiciaire d'un mineur, par application de la présente loi, peuvent être rayées par décision du tribunal de la jeunesse, sur requête de celui qui en a fait l'objet, lorsque cinq ans se sont écoulés à partir du moment où ces mesures ont pris fin.
+
+La déchéance de la (autorité parentale) est rayée d'office lorsqu'il y a été mis fin par la réintégration. &lt;L 1994-02-02/33, art. 29, 1°, 007; En vigueur : 27-09-1994&gt;
+
+##### Art. 63_REGION_DE_BRUXELLES-CAPITALE
+
+Les déchéances de la (autorité parentale) et les mesures prononcées par application (des articles 37 et 39) à l'égard des mineurs déférés au tribunal de la jeunesse sur base de l'article 36, (...) 4°, sont mentionnées au casier judiciaire des intéressés. &lt;L 1994-02-02/33, art. 29, 1° et 2°, 007; En vigueur : 27-09-1994&gt; &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+Ces déchéances et ces mesures ne peuvent jamais être portées à la connaissance des particuliers.
+
+Elles peuvent être portées à la connaissance des autorités judiciaires.
+
+Elles peuvent également être portées à la connaissance des autorités administratives, des notaires et des huissiers de justice, dans les cas où ces renseignements leur sont indispensables pour l'application d'une disposition légale ou réglementaire. Cette communication se fait sous le contrôle des autorités judiciaires, suivant la procédure qui sera déterminée par le Roi.
+
+Les mentions inscrites au casier judiciaire d'un mineur, par application de la présente loi, peuvent être rayées par décision du tribunal de la jeunesse, sur requête de celui qui en a fait l'objet, lorsque cinq ans se sont écoulés à partir du moment où ces mesures ont pris fin.
+
+La déchéance de la (autorité parentale) est rayée d'office lorsqu'il y a été mis fin par la réintégration. &lt;L 1994-02-02/33, art. 29, 1°, 007; En vigueur : 27-09-1994&gt;
+
+##### Art. 63_COMMUNAUTE_GERMANOPHONE
+
+Les déchéances de la (autorité parentale) et les mesures prononcées par application ([<sup>1</sup> de l'article 73, § 3, alinéa 1er, du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>) à l'égard des mineurs déférés au tribunal de la jeunesse sur base de [<sup>1</sup> l'article 63 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>, sont mentionnées au casier judiciaire des intéressés. &lt;L 1994-02-02/33, art. 29, 1° et 2°, 007; En vigueur : 27-09-1994&gt; &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+Ces déchéances et ces mesures ne peuvent jamais être portées à la connaissance des particuliers.
+
+Elles peuvent être portées à la connaissance des autorités judiciaires.
+
+Elles peuvent également être portées à la connaissance des autorités administratives, des notaires et des huissiers de justice, dans les cas où ces renseignements leur sont indispensables pour l'application d'une disposition légale ou réglementaire. Cette communication se fait sous le contrôle des autorités judiciaires, suivant la procédure qui sera déterminée par le Roi.
+
+Les mentions inscrites au casier judiciaire d'un mineur, par application de la présente loi, peuvent être rayées par décision du tribunal de la jeunesse, sur requête de celui qui en a fait l'objet, lorsque cinq ans se sont écoulés à partir du moment où ces mesures ont pris fin.
+
+La déchéance de la (autorité parentale) est rayée d'office lorsqu'il y a été mis fin par la réintégration. &lt;L 1994-02-02/33, art. 29, 1°, 007; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 159, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 63_COMMUNAUTE_FRANCAISE
+
+Les déchéances de la (autorité parentale) et les mesures prononcées [<sup>1</sup> par application de l'article 108 du décret du 18 janvier 2018 portant le code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse]<sup>1</sup> à l'égard des mineurs déférés au tribunal de la jeunesse [<sup>1</sup> sur base de l'article 56, alinéa 1er, du même décret]<sup>1</sup>, sont mentionnées au casier judiciaire des intéressés. &lt;L 1994-02-02/33, art. 29, 1° et 2°, 007; En vigueur : 27-09-1994&gt; &lt;DCFR 1991-03-04/36, art. 62, § 10, 005; En vigueur : 07-12-1994&gt;
+
+Ces déchéances et ces mesures ne peuvent jamais être portées à la connaissance des particuliers.
+
+Elles peuvent être portées à la connaissance des autorités judiciaires.
+
+Elles peuvent également être portées à la connaissance des autorités administratives, des notaires et des huissiers de justice, dans les cas où ces renseignements leur sont indispensables pour l'application d'une disposition légale ou réglementaire. Cette communication se fait sous le contrôle des autorités judiciaires, suivant la procédure qui sera déterminée par le Roi.
+
+Les mentions inscrites au casier judiciaire d'un mineur, par application de la présente loi, peuvent être rayées par décision du tribunal de la jeunesse, sur requête de celui qui en a fait l'objet, lorsque cinq ans se sont écoulés à partir du moment où ces mesures ont pris fin.
+
+La déchéance de la (autorité parentale) est rayée d'office lorsqu'il y a été mis fin par la réintégration. &lt;L 1994-02-02/33, art. 29, 1°, 007; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 34, 045; En vigueur : 01-01-2018&gt;
+
+##### Art. 63_REGION_FLAMANDE
+
+Les déchéances de la (autorité parentale) et les [<sup>1</sup> sanctions]<sup>1</sup> prononcées par application [<sup>1</sup> de l'article 29, § 2, du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>1</sup> à l'égard des mineurs déférés au tribunal de la jeunesse sur base de l'article 36, 1°, 3° et 4°, sont mentionnées au casier judiciaire des intéressés. &lt;L 1994-02-02/33, art. 29, 1° et 2°, 007; En vigueur : 27-09-1994&gt;
+
+Ces déchéances et ces [<sup>1</sup> sanctions]<sup>1</sup> ne peuvent jamais être portées à la connaissance des particuliers.
+
+Elles peuvent être portées à la connaissance des autorités judiciaires.
+
+Elles peuvent également être portées à la connaissance des autorités administratives, des notaires et des huissiers de justice, dans les cas où ces renseignements leur sont indispensables pour l'application d'une disposition légale ou réglementaire. Cette communication se fait sous le contrôle des autorités judiciaires, suivant la procédure qui sera déterminée par le Roi.
+
+Les mentions inscrites au casier judiciaire d'un mineur, par application de la présente loi, peuvent être rayées par décision du tribunal de la jeunesse, sur requête de celui qui en a fait l'objet, lorsque cinq ans se sont écoulés à partir du moment où ces [<sup>1</sup> sanctions]<sup>1</sup> ont pris fin.
+
+La déchéance de la (autorité parentale) est rayée d'office lorsqu'il y a été mis fin par la réintégration. &lt;L 1994-02-02/33, art. 29, 1°, 007; En vigueur : 27-09-1994&gt;
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 75, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 63bis
+
+&lt;Inséré par L 1994-02-02/33, art. 30; En vigueur : 27-09-1994&gt; § 1. Les règles de procédure visées au présent chapitre s'appliquent, à l'exception des articles 45.2. et 46, aux dispositions en matière de protection judiciaire prises par les instances compétentes en vertu [<sup>1</sup> des articles 128, 130 et 135 ]<sup>1</sup> de la Constitution et de l'article 5, § 1er, II, 6°, de la loi spéciale du 8 août 1980 de réformes institutionnelles.
+
+§ 2. Toutefois, lorsque la demande tend à voir homologuer la modification d'une décision prise par le tribunal de la jeunesse, la procédure est la suivante :
+
+a) la demande est adressée par requête de l'autorité administrative compétente au greffe de la juridiction qui a rendu la décision;
+
+b) elle est communiquée immédiatement avec le dossier de la procédure au ministère public, pour avis;
+
+c) dans les trois jours ouvrables à compter du dépôt de la requête, le juge de la jeunesse rend une ordonnance sur avis du ministère public. Cette ordonnance est prise sans convocation des parties. Elle est notifiée aux parties et n'est pas susceptible d'opposition. Le refus d'homologation est susceptible d'appel.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 246, 029; En vigueur : 01-09-2014&gt;
+
+##### Art. 63ter
+
+&lt;Inséré par L 1994-02-02/33, art. 31; En vigueur : 27-09-1994&gt; Dans les procédures judiciaires visées à l'article 63bis, le tribunal de la jeunesse est saisi :
+
+a) par la réquisition du ministère public en vue d'ordonner ou d'autoriser les mesures prévues par ces organes :
+
+\- soit dans le cadre de mesures provisoires avant de statuer au fond,
+
+\- soit dans les cas d'urgence;
+
+b) par requête déposée au greffe du tribunal de la jeunesse par la partie intéressée, afin qu'il soit statué sur une contestation relative à une mesure décidée par les instances compétentes, visées à l'article 37, § 2;
+
+c) dans les autres cas, par la comparution volontaire à la suite d'un avertissement motivé donné par le ministère public ou par citation, à la requête du ministère public en vue de statuer au fond, après avoir entendu les parties en leurs moyens.
+
+Dans les cas visés au b), les parties sont convoquées par le greffier à comparaître à l'audience fixée par le juge. La convocation précise l'objet de la demande. Le greffier transmet copie de la requête au ministère public.
+
+Dans les cas visés au c), la citation ou l'avertissement doivent, à peine de nullité, être adressés aux parents, tuteurs ou personnes qui ont la garde du jeune et à lui-même, s'il est âgé de douze ans au moins, ainsi que, le cas échéant, aux autres personnes investies d'un droit d'action.
+
+##### Art. 63ter_COMMUNAUTE_GERMANOPHONE
+
+&lt;Inséré par L 1994-02-02/33, art. 31; En vigueur : 27-09-1994&gt; Dans les procédures judiciaires visées à l'article 63bis, le tribunal de la jeunesse est saisi :
+
+a) par la réquisition du ministère public en vue d'ordonner ou d'autoriser les mesures prévues par ces organes :
+
+\- soit dans le cadre de mesures provisoires avant de statuer au fond,
+
+\- soit dans les cas d'urgence;
+
+b) par requête déposée au greffe du tribunal de la jeunesse par la partie intéressée, afin qu'il soit statué sur une contestation relative à une mesure décidée par les instances compétentes, visées à [<sup>1</sup> l'article 73, § 3, alinéa 1er du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse]<sup>1</sup>;
+
+c) dans les autres cas, par la comparution volontaire à la suite d'un avertissement motivé donné par le ministère public ou par citation, à la requête du ministère public en vue de statuer au fond, après avoir entendu les parties en leurs moyens.
+
+Dans les cas visés au b), les parties sont convoquées par le greffier à comparaître à l'audience fixée par le juge. La convocation précise l'objet de la demande. Le greffier transmet copie de la requête au ministère public.
+
+Dans les cas visés au c), la citation ou l'avertissement doivent, à peine de nullité, être adressés aux parents, tuteurs ou personnes qui ont la garde du jeune et à lui-même, s'il est âgé de douze ans au moins, ainsi que, le cas échéant, aux autres personnes investies d'un droit d'action.
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 159, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 63ter_REGION_FLAMANDE
+
+&lt;Inséré par L 1994-02-02/33, art. 31; En vigueur : 27-09-1994&gt; Dans les procédures judiciaires visées à l'article 63bis, le tribunal de la jeunesse est saisi :
+
+a) par la réquisition du ministère public en vue d'ordonner ou d'autoriser les mesures [<sup>2</sup> ...]<sup>2</sup> prévues par ces organes :
+
+\- soit dans le cadre de mesures [<sup>1</sup> ...]<sup>1</sup> avant de statuer au fond,
+
+\- soit dans les cas d'urgence;
+
+b) par requête déposée au greffe du tribunal de la jeunesse par la partie intéressée, afin qu'il soit statué sur une contestation relative à une mesure décidée par les instances compétentes [<sup>2</sup> ...]<sup>2</sup>;
+
+c) dans les autres cas, par la comparution volontaire à la suite d'un avertissement motivé donné par le ministère public ou par citation, à la requête du ministère public en vue de statuer au fond, après avoir entendu les parties en leurs moyens.
+
+Dans les cas visés au b), les parties sont convoquées par le greffier à comparaître à l'audience fixée par le juge. La convocation précise l'objet de la demande. Le greffier transmet copie de la requête au ministère public.
+
+Dans les cas visés au c), la citation ou l'avertissement doivent, à peine de nullité, être adressés aux parents, tuteurs ou personnes qui ont la garde du jeune et à lui-même, s'il est âgé de douze ans au moins, ainsi que, le cas échéant, aux autres personnes investies d'un droit d'action.
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 76, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/18, art. 13, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 63quater
+
+&lt;Inséré par L 1994-02-02/33, art. 32; En vigueur : 27-09-1994&gt; Les articles 52bis, 52ter et (52quater, alinéas 9 et 10), sont mutatis mutandis applicables à toutes les mesures prises suite aux réquisitions visées à l'article 63ter, alinéa 1er, a). &lt;L 2006-12-27/33, art. 101, 025; En vigueur : 01-03-2007&gt;
+
+##### Art. 63quater_COMMUNAUTE_GERMANOPHONE
+
+&lt;Inséré par L 1994-02-02/33, art. 32; En vigueur : 27-09-1994&gt; [<sup>1</sup> les articles 69, 70 et 71 du décret du 13 novembre 2023 relatif à l'aide à la jeunesse et à la protection de la jeunesse et des articles]<sup>1</sup>, 52ter et (52quater, alinéas 9 et 10 [<sup>1</sup> de la présente loi]<sup>1</sup>), sont mutatis mutandis applicables à toutes les mesures prises suite aux réquisitions visées à l'article 63ter, alinéa 1er, a). &lt;L 2006-12-27/33, art. 101, 025; En vigueur : 01-03-2007&gt;
+
+----------
+
+(1)&lt;DCG 2023-11-13/20, art. 160, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 63quater_REGION_FLAMANDE
+
+[<sup>1</sup> [<sup>2</sup> L'article 52ter s'applique]<sup>2</sup> mutatis mutandis aux mesures prises suite aux réquisitions visées à l'article 63ter, alinéa 1er, a).]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-09-24/03, art. 8, 039; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/18, art. 14, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 63quinquies
+
+&lt;Inséré par L 1994-02-02/33, art. 33; En vigueur : 27-09-1994&gt; Si, dans le cadre des procédures judiciaires visées à l'article 63bis, les mesures prévues le sont pour une durée déterminée, la procédure en prolongation desdites mesures se fait suivant les mêmes formes que celles qui sont prescrites pour la décision initiale.
+
+##### Art. 63sexies
+
+[<sup>1</sup> Par dérogation à l'article 560, § 1er, du Code d'instruction criminelle, cette disposition s'applique également à l'audience de cabinet du juge de la jeunesse.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 29, 043; En vigueur : 01-09-2024&gt;
+
+## TITRE III. - Dispositions générales.
+
+##### Art. 64
+
+Il est créé dans chaque arrondissement judiciaire un service social de protection de la jeunesse composé de délégué permanents.
+
+Ce service comporte deux sections :
+
+a) une section dont les délégués sont mis à la disposition des comités de protection de la jeunesse;
+
+b) une section dont les délégués sont mis à la disposition des autorités judiciaires chargées de l'application de la présente loi.
+
+(Les délégués permanents à la protection de la jeunesse sont nommés par le Ministre de la Justice parmi les porteurs d'un diplôme d'auxiliaire social ou d'un diplôme justifiant de connaissances pédagogiques ou sociales suffisantes et dans l'ordre de leur classement au concours de recrutement.
+
+Le Roi fixe le règlement organique et le cadre des délégués permanents à la protection de la jeunesse ainsi que la hiérarchie de leurs fonctions. Il détermine les diplômes faisant foi de connaissances pédagogiques ou sociales suffisantes et règle les modalités du concours de recrutement qui est organise par le Ministre de la Justice.) &lt;L 25-06-1969, art. 1er&gt;
+
+Les délégués permanents à la protection de la jeunesse sont soumis au statut des agents de l'Etat et placés administrativement sous l'autorité du Ministre de la Justice.
+
+Ils effectuent sous la responsabilité et la direction des autorités chargées de la protection de la jeunesse à la disposition desquelles ils sont mis, les missions qui leur sont ordonnées par celles-ci.
+
+Des délégués bénévoles peuvent être adjoints à chacune des sections du service social de protection de la jeunesse par les autorités à la disposition desquelles elles sont mises. En matière d'indemnité pour frais de route et de séjour, ils sont assimilés aux délégués permanents à la protection de la jeunesse.
+
+##### Art. 64_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 64_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 64_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 11, 005; En vigueur : 24-12-1991&gt;
+
+##### Art. 64_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 65
+
+(Abrogé) &lt;L 02-12-1982, art. 1er&gt;
+
+##### Art. 66
+
+Toute personne physique ou morale, toute oeuvre ou tout établissement s'offrant à recueillir collectivement et de façon habituelle des mineurs en vertu de la présente loi, doit avoir été agréé à cette fin par le Ministre de la Justice.
+
+Le Roi arrête, par catégorie d'établissements, les conditions, générales d'agréation, après avoir pris l'avis de la commission prévue à l'article 67; ces conditions peuvent concerner :
+
+a) le personnel des services d'éducation, de formation professionnelle et d'administration;
+
+b) les bâtiments et installations;
+
+c) les soins, l'enseignement, la formation morale et professionnelle ainsi que le régime éducatif des mineurs, sans préjudice de l'application de l'article 6 de la loi du 29 mai 1959 modifiant la législation relative à l'enseignement gardien, primaire, moyen, normal, technique et artistique.
+
+##### Art. 66_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 66_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 66_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 14-05-1987, art. 7&gt;
+
+##### Art. 66_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 67
+
+Le Ministre de la Justice statue sur les demandes d'agréation par décision motivée, après avoir pris l'avis d'une commission présidée par un juge d'appel de la jeunesse et comprenant, en outre, deux juges de la jeunesse, un fonctionnaire du Ministère de la Justice, un fonctionnaire du Ministère ayant l'éducation nationale dans ses attributions, un fonctionnaire du Ministère ayant la santé publique et la famille dans ses attributions ainsi qu'un représentant de l'Oeuvre Nationale de l'Enfance et quatre personnes représentant les établissements qui hébergent habituellement des mineurs en vertu de la présente loi.
+
+Les membres de la commission sont désignés par le Ministre de la Justice après avis de ses collègues intéressés.
+
+Le Ministre de la Justice nomme les membres représentant les établissements qui hébergent habituellement des mineurs, parmi un nombre triple de candidats présentés par les fédérations d'établissements les plus représentatives.
+
+Il règle les modalités de ces présentations.
+
+Il règle les modalités de fonctionnement de cette commission.
+
+Chaque dossier d'agréation contient, outre les renseignements administratifs, un rapport d'un juge au tribunal de la jeunesse et du procureur du Roi de l'arrondissement où le requérant est établi.
+
+##### Art. 67_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 67_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 67_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 14-05-1987, art. 7&gt;
+
+##### Art. 67_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 68
+
+Lorsqu'il est constaté que la personne physique ou morale, l'oeuvre ou l'établissement, ne satisfait plus aux conditions d'agréation, le Ministre de la Justice peut le mettre en demeure de se conformer à ces conditions dans un délai de huit jours à six mois selon le cas, faute de quoi, après consultation de la commission prévue à l'article 67, il peut, par décision motivée, retirer l'agréation.
+
+##### Art. 68_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 68_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 68_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 14-05-1987, art. 7&gt;
+
+##### Art. 68_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 69
+
+Le Ministre de la Justice reçoit notification :
+
+a) de toute décision prise en vertu du titre premier de la présente loi lorsqu'elle entraîne des dépenses à charge du budget du Ministère de la Justice;
+
+b) de toute décision prise en vertu du titre II, chapitre III et IV, de la présente loi.
+
+Il fait inspecter les placements, ainsi que les établissements visés à l'article 66, par les fonctionnaires qu'il délègue à cet effet.
+
+##### Art. 69_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 69_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 161, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 69_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1990-03-28/34, art. 22, 6°, 003; En vigueur : 01-05-1990&gt;
+
+##### Art. 69_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 70
+
+Le Roi fixe annuellement le prix de la journée d'entretien dans les établissements d'observation et d'éducation surveillée de l'Etat.
+
+Le Roi, après avoir pris l'avis de la commission instituée par l'article 67, fixe le montant des subsides journaliers d'entretien et d'éducation auxquels peuvent prétendre les établissements autres que ceux visés à l'alinéa 1er ou les particuliers, pour les placements effectues en vertu du titre I et du titre II, chapitres III et IV, de la présente loi.
+
+Les subsides journaliers d'entretien et d'éducation constituent un forfait couvrant les dépenses courantes.
+
+Des subsides destinés au paiement des frais spéciaux peuvent être alloues dans les conditions déterminées par le Roi.
+
+Tous les subsides servent exclusivement à payer les dépenses d'entretien, d'éducation et de traitement du mineur pour lequel ils sont alloués. Ils ne sont payés qu'à la personne physique ou morale qui élève effectivement le mineur. L'avance en est faite par l'Etat.
+
+##### Art. 70_REGION_DE_BRUXELLES-CAPITALE
+
+(Abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 70_COMMUNAUTE_GERMANOPHONE
+
+(Abroge) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 70_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 13, 005; En vigueur : 07-12-1994&gt;
+
+##### Art. 70_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 71
+
+Le tribunal de la jeunesse fixe, après enquête sur la solvabilité des intéressés, la part contributive des mineurs et des personnes qui leur doivent des aliments, dans les frais d'entretien, d'éducation et de traitement résultant des mesures prises conformément aux dispositions du titre II, chapitres III et IV, de la présente loi. Les débiteurs d'aliments qui ne sont pas à la cause, y sont appelés.
+
+Le tribunal de la jeunesse statue de même sur les recours introduits en vertu de l'article 6, dernier alinéa.
+
+Ces décisions sont susceptibles d'appel et de révision.
+
+La violation des obligations imposées par ces décisions est punis conformément aux dispositions de l'article 391bis du Code pénal.
+
+Le recouvrement des frais mis à charge des intéressés est poursuivi à l'intervention de l'administration de l'enregistrement et de domaines, conformément aux dispositions de l'article 3 de la loi domaniale du 22 décembre 1949. L'action se prescrit par cinq ans conformément aux dispositions de l'article 2277 du Code civil.
+
+##### Art. 71_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 71_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995&gt;
+
+##### Art. 71_COMMUNAUTE_FRANCAISE
+
+(Abrogé) &lt;DCFR 1991-03-04/36, art. 62, § 14, 005; En vigueur : 07-12-1994&gt;
+
+##### Art. 71_REGION_FLAMANDE
+
+(...). Les débiteurs d'aliments qui ne sont pas à la cause, y sont appelés. &lt;DCFL 1990-03-28/34, art. 22, 7°, 003; En vigueur : 01-05-1990&gt;
+
+Le tribunal de la jeunesse statue de même sur les recours introduits en vertu de l'article 6, dernier alinéa.
+
+(NOTE : l'alinéa 2 a été abrogé par DCFL 1985-06-27/35, art. 32, 7°, annulé par ACA 30-06-1988)
+
+Ces décisions sont susceptibles d'appel et de révision.
+
+La violation des obligations imposées par ces décisions est punis conformément aux dispositions de l'article 391bis du Code pénal.
+
+Le recouvrement des frais mis à charge des intéressés est poursuivi à l'intervention de l'administration de l'enregistrement et de domaines, conformément aux dispositions de l'article 3 de la loi domaniale du 22 décembre 1949. L'action se prescrit par cinq ans conformément aux dispositions de l'article 2277 du Code civil.
+
+##### Art. 72
+
+L'affectation des rémunérations allouées au mineur placé en application du titre Ier ou du titre II, chapitre III ou chapitre IV, de la présente loi est réglée, selon le cas, par le comité de protection de la jeunesse, par le tribunal de la jeunesse ou par le Ministre de la Justice.
+
+Pendant la minorité de l'intéressé les sommes provenant de ces rémunérations et qui auraient été inscrites à un livret de la Caisse Générale d'Epargne et de Retraite, ne peuvent être retirées sans l'autorisation expresse de l'autorité à l'initiative de laquelle le livret d'épargne a été ouvert.
+
+Elles peuvent être retirées par l'intéressé lorsqu'il a atteint l'âge de vingt et un ans. Toutefois, le tribunal de la jeunesse peut, à la demande du ministère public ou des représentants légaux du mineur, décider que ce retrait ne pourra avoir lieu sans l'autorisation expresse du tribunal avant que l'intéressé ait atteint l'âge de vingt-cinq ans. Pareille demande ne peut être introduite que pendant la minorité de l'intéressé.
+
+##### Art. 72_REGION_DE_BRUXELLES-CAPITALE
+
+L'affectation des rémunérations allouées au mineur placé en application du titre Ier ou du titre II, chapitre III ou chapitre IV, de la présente loi est réglée, selon le cas (...), par le tribunal de la jeunesse ou par le Ministre de la Justice. &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+Pendant la minorité de l'intéressé les sommes provenant de ces rémunérations et qui auraient été inscrites à un livret de la Caisse Générale d'Epargne et de Retraite, ne peuvent être retirées sans l'autorisation expresse de l'autorité à l'initiative de laquelle le livret d'épargne a été ouvert.
+
+Elles peuvent être retirées par l'intéressé lorsqu'il a atteint l'âge de vingt et un ans. Toutefois, le tribunal de la jeunesse peut, à la demande du ministère public ou des représentants légaux du mineur, décider que ce retrait ne pourra avoir lieu sans l'autorisation expresse du tribunal avant que l'intéressé ait atteint l'âge de vingt-cinq ans. Pareille demande ne peut être introduite que pendant la minorité de l'intéressé.
+
+##### Art. 72_COMMUNAUTE_GERMANOPHONE
+
+(Abrogé) &lt;DCG 1995-03-20/34, art. 43, En vigueur : 01-05-1995
+
+##### Art. 72_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1990-03-28/34, art. 22, 8°, 003; En vigueur : 01-05-1990&gt;
+
+##### Art. 72_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 73
+
+(Abrogé) &lt;L 27-06-1969, art. 50&gt;
+
+##### Art. 74
+
+Le comité de protection de la jeunesse fait visiter régulièrement par un de ses délégués, tout mineur placé à son intervention.
+
+Le juge de la jeunesse fait au moins deux fois l'an visite à tout mineur qu'il a placé en vertu d'une des mesures prévues à l'article 37, 3° et 4°. Il peut commettre à cet effet un délégué à la protection de la jeunesse.
+
+A l'occasion des visites au mineur dont le placement a été notifié en vertu de l'article 69, un rapport sur la situation de l'intéressé est adressé au Ministre de la Justice.
+
+##### Art. 74_REGION_DE_BRUXELLES-CAPITALE
+
+&lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt; Le juge de la jeunesse fait au moins deux fois l'an visite à tout mineur qu'il a placé en vertu d'une des mesures prévues à l'article 37, 3° et 4°.
+
+##### Art. 74_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 162, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 74_REGION_FLAMANDE
+
+(Alinéa 1er abrogé) &lt;DCFL 1990-03-28/34, art. 22, 9°, 003; En vigueur : 01-05-1990&gt;
+
+Le juge de la jeunesse fait au moins deux fois l'an visite à tout mineur qu'il a placé en vertu d'une des mesures prévues à l'article 37, 3° et 4°. (...). &lt;DCFL 1990-03-28/34, art. 22, 9°, 003; En vigueur : 01-05-1990&gt;
+
+(Alinéa 3 abrogé) &lt;DCFL 1990-03-28/34, art. 22, 9°, 003; En vigueur : 01-05-1990&gt;
+
+##### Art. 74_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 75
+
+&lt;L 1999-003-10/42, art. 2, 011; En vigueur : 30-04-1999&gt; S'ils ne sont pas accompagnés par un parent, leur tuteur ou une personne qui en a la garde, les mineurs n'ayant pas atteint l'âge de quatorze ans accomplis ne peuvent assister aux audiences des cours et tribunaux que pour l'instruction et le jugement des poursuites dirigées contre eux, ou lorsqu'ils ont à comparaître en personne ou à déposer comme témoins, et seulement pendant le temps où leur présence est nécessaire.
+
+Le président peut interdire à tout moment la présence de mineurs à l'audience, notamment en raison du caractère particulier de l'affaire ou des circonstances dans lesquelles l'audience se déroule.
+
+##### Art. 76
+
+Les autorités judiciaires et administratives ainsi que les personnes physiques ou morales, les oeuvres, institutions ou établissements chargés d'apporter leur concours aux mesures prises en exécution de la présente loi, doivent respecter les convictions religieuses et philosophiques et la langue des familles auxquelles les mineurs appartiennent.
+
+##### Art. 76_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1990-03-28/34, art. 22, 10°, 003; En vigueur : 01-05-1990&gt;
+
+##### Art. 77
+
+Toute personne qui, à quelque titre que ce soit, apporte son concours à l'application de la présente loi est, de ce fait, dépositaire des secrets qui lui sont confiés dans l'exercice de sa mission et qui se rapportent à celle-ci.
+
+[<sup>1</sup> L'article 352]<sup>1</sup> du Code pénal lui est applicable.
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 20, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 78
+
+Hormis les cas où il existerait une contre-indication médicale, les mineurs placés en vertu des dispositions du titre II, chapitres III et IV, de la présente loi peuvent être soumis à des vaccinations et inoculations préventives, dont le nombre, l'espèce et les modalités d'application sont fixés par le Roi.
+
+##### Art. 78_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 163, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 78_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1990-03-28/34, art. 22, 10°, 003; En vigueur : 01-05-1990&gt;
+
+##### Art. 78_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 79
+
+Toute personne ou tout établissement, à l'exclusion des internats scolaires et des pensions assimilées, s'offrant à héberger collectivement et de façon habituelle, hors de la résidence de leurs parents en ligne directe ou collatérale ou de leur représentant légal, des mineurs non protégés par la présente loi ou par d'autres dispositions légales, doit préalablement en faire la déclaration au comité de protection de la jeunesse de son arrondissement.
+
+Lorsqu'une condamnation pénale, prononcée à charge d'une personne ou d'un membre du personnel d'un établissement, visés à l'alinéa précédent, ou une enquête faisant suite à une plainte relative aux conditions d'hébergement ou d'éducation des mineurs fait apparaître que leur santé, leur sécurité ou leur moralité est mise en danger, le tribunal de la jeunesse peut, à la demande du ministère public, les intéressés entendus, soumettre, pendant un laps de temps qu'il détermine, la maison ou l'établissement à des visites périodiques et, dans les cas graves, en ordonner la fermeture.
+
+##### Art. 79_REGION_DE_BRUXELLES-CAPITALE
+
+(alinéa 1er abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+Lorsqu'une condamnation pénale, prononcée à charge d'une personne ou d'un membre du personnel d'un établissement, visés à l'alinéa précédent, ou une enquête faisant suite à une plainte relative aux conditions d'hébergement ou d'éducation des mineurs fait apparaître que leur santé, leur sécurité ou leur moralité est mise en danger, le tribunal de la jeunesse peut, à la demande du ministère public, les intéressés entendus, soumettre, pendant un laps de temps qu'il détermine, la maison ou l'établissement à des visites périodiques et, dans les cas graves, en ordonner la fermeture.
+
+##### Art. 79_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 164, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 79_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1990-03-28/34, art. 22, 10°, 003; En vigueur : 01-05-1990&gt;
+
+##### Art. 79_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+## TITRE IV. - Dispositions pénales.
+
+##### Art. 80
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+(NOTE : L'article 80 est modifie par &lt;L 2006-06-13/40, art. 24, 023; En vigueur : indéterminée et au plus tard le 01-01-2016, voir L 20132-12-21/17, art. 2&gt; comme suit : Dans l'article 80, alinéa 2, de la même loi, les mots " 37, 38, 39, 40 et 43 " sont remplacés par les mots " 37, 37bis, 38, 39, 43, 45ter, 45quater et 57bis ".)
+
+##### Art. 81
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 82
+
+(Abrogé) &lt;L 2005-08-10/61, art. 43, 020; En vigueur : 12-09-2005&gt;
+
+##### Art. 83
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 84
+
+&lt;Abrogé par L 2026-03-30/01, art. 21, 047; En vigueur : 01-09-2026&gt;
+
+##### Art. 84_REGION_FLAMANDE
+
+Dans tous les cas où le mineur (...) a commis [<sup>1</sup> un délit de mineur]<sup>1</sup> et quelle que soit la mesure prise à son égard, si le fait a été facilité par un défaut de surveillance, la personne qui a la garde du mineur peut être condamné à un emprisonnement d'un à sept jours et à une amende d'un à vingt-cinq francs ou à une de ces peines seulement, sans préjudice des dispositions du Code pénal et des lois spéciales concernant la participation. &lt;L 1990-01-19/30, art. 51, 002; En vigueur : 01-05-1990&gt;
+
+----------
+
+(1)&lt;DCFL 2022-07-15/18, art. 15, 042; En vigueur : 01-03-2023&gt;
+
+##### Art. 85
+
+&lt;Rétabli par L 2006-06-13/40, art. 25, 023; En vigueur : O2-04-2007&gt; Le tribunal de la jeunesse peut condamner à un emprisonnement d'un à sept jours et à une amende d'un euro à vingt-cinq euros ou à une de ces peines seulement, les personnes investies de l'autorité parentale à l'égard du mineur ayant commis un fait qualifié infraction qui manifestent un désintérêt caractérisé à l'égard de la délinquance de ce dernier et qui refusent d'accomplir le stage parental visé à l'article 29bis, ou qui ne collaborent pas à son exécution.
+
+##### Art. 85_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2023-11-13/20, art. 165, 046; En vigueur : 01-01-2024&gt;
+
+##### Art. 85_REGION_FLAMANDE
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-02-15/20, art. 78, 038; En vigueur : 01-09-2019&gt;
+
+##### Art. 85_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+##### Art. 86
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 87
+
+&lt;Disposition modificative de l'art. 372bis du CPC&gt;
+
+##### Art. 88
+
+&lt;Disposition modificative de l'art. 377 du CP&gt;
+
+" Dans le cas prévu à l'article 372bis, l'emprisonnement sera d'un an au moins. ".
+
+##### Art. 89
+
+&lt;L 2006-06-13/40, art. 26, 023; En vigueur : 02-04-2007&gt; Toutes les dispositions du Livre premier du Code pénal, sans exception du chapitre VII et de l'article 85, sont applicables aux infractions prévues aux articles (71 et 85). &lt;L 2006-12-27/33, art. 102, 025; En vigueur : 01-01-2007&gt;
+
+##### Art. 89_COMMUNAUTE_FRANCAISE
+
+&lt;Abrogé par DCFR 2018-01-18/32, art. 184, 037; En vigueur : 01-01-2019&gt;
+
+## TITRE V. - Dispositions abrogatoires, modificatives et transitoires.
+
+##### Art. 90
+
+Sont abrogés :
+
+1° la loi du 15 mai 1912 sur la protection de l'enfance, modifiée par la loi du 2 juillet 1930, par l'arrêté royal du 14 août 1933, par l'arrêté royal n° 301 du 30 mars 1936, et par les lois des 21 août 1948, 24 décembre 1948, 20 mai 1949, 31 juillet 1952 et 30 avril 1958, à l'exception des articles 48 à 61;
+
+2° les articles 378, alinéa 2, et 382, alinéa 2, du Code pénal;
+
+3° l'article 4, alinéa 2, de la loi du 28 mai 1888 relative à la protection des enfants employés dans les professions ambulantes.
+
+##### Art. 91
+
+§ 1. &lt;Disposition modificative de l'art. 348 du CC&gt;
+
+§ 2. &lt;Disposition modificative de CP, art. 369bis&gt;
+
+§ 3. (Disposition modificative de L 18-06-1869, art. 225 et 226)
+
+§ 4. &lt;Disposition modificative de L 05-09-1919, art. 13&gt;
+
+§ 5. &lt;Disposition modificative de L 10-03-1925, art. 83&gt;
+
+§ 6. &lt;Disposition modificative de CELECT, art. 7&gt;
+
+§ 7. &lt;Disposition modificative de AR 22-12-1938, art. 123bis&gt;
+
+§ 8. &lt;Disposition modificative de L 19-12-1939, art. 70&gt;
+
+§ 9. &lt;Disposition modificative de L 31-12-1949, art. 55&gt;
+
+§ 10. &lt;Disposition modificative de L 20-08-1957, art. 5, 6, 9, 10, 11 et 12&gt;
+
+§ 11. &lt;Disposition modificative de L 15-07-1960, art. 7 et 9&gt;
+
+§ 12. &lt;Disposition modificative de L 20-07-1964, art. 25&gt;
+
+##### Art. 92
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 93
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 94
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 95
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 96
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 97
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 98
+
+Les délégués permanents à la protection de l'enfance sont maintenus en fonction et prennent le titre de " délégué permanent à la protection de la jeunesse ".
+
+Ils sont dorénavant soumis au statut des agents de l'Etat et conservent le bénéfice de l'ancienneté acquise.
+
+##### Art. 98_REGION_DE_BRUXELLES-CAPITALE
+
+(abrogé) &lt;ORD 2004-04-09/43, art. 16, 018; En vigueur : 01-10-2009&gt;
+
+##### Art. 98_REGION_FLAMANDE
+
+(Abrogé) &lt;DCFL 1985-06-27/35, art. 32&gt;
+
+##### Art. 99
+
+(Abrogé) &lt;L 2005-08-10/62, art. 12, 021 ; En vigueur : 02-09-2005&gt;
+
+##### Art. 100
+
+Le Roi fixe le jour d'entrée en vigueur de tout ou partie des dispositions de la présente loi.
+
+##### Art. 100bis
+
+&lt;Rétabli par L 2006-06-13/40, art. 27, 027; En vigueur : 16-10-2006&gt; Pour les affaires en cours au moment de l'entrée en vigueur de la (loi du 13 juin 2006 modifiant la législation relative à la protection de la jeunesse et à la prise en charge des mineurs ayant commis un fait qualifié infraction) et la loi du 15 mai 2006 modifiant la loi du 8 avril 1965, relative à la protection de la jeunesse, le Code d'instruction criminelle, le Code pénal, le Code civil, la nouvelle loi communale et la loi du 24 avril 2003 réformant l'adoption, les délais prévus dans ces lois courent à partir du lendemain de leur entrée en vigueur. " &lt;Erratum, M.B. 25.08.2006, p. 42367&gt;

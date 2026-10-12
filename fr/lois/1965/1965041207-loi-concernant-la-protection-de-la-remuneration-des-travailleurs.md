@@ -1,0 +1,1429 @@
+---
+title: "Loi concernant la protection de la rémunération des travailleurs."
+identifier: "1965041207"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/12/1965041207/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1965-04-12
+published: 1965-04-30
+entry_into_force: 1965-08-01
+last_amended: 2026-04-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/12/1965041207/justel"
+justel_note: "Consultation des versions antérieures à partir du 24-01-1985 et mise à jour au 14-04-2026"
+retrieved: 2026-10-12
+---
+
+# 12 AVRIL 1965. - Loi concernant la protection de la rémunération des travailleurs.
+
+## CHAPITRE Ier. - Champ d'application
+
+#### Art. 1
+
+La présente loi s'applique aux travailleurs et aux employeurs.
+
+Pour l'application de la présente loi sont assimilés:
+
+1° aux travailleurs: les apprentis, ainsi que les personnes qui, autrement qu'en vertu d'un contrat de louage de travail, fournissent contre rémunération des prestations de travail sous l'autorité d'une autre personne:
+
+2° aux employeurs: les personnes qui occupent les personnes visées au 1°.
+
+Les personnes rémunérées totalement ou partiellement au pourboire ou service sont présumées, sauf preuve contraire, être des travailleurs aux termes du présent article.
+
+La présente loi ne porte pas atteinte aux réglementations particulières plus favorables, qui sont ou seront édictées par ou en vertu d'une autre loi à l'égard de certaines catégories de travailleurs.
+
+#### Art. 1bis
+
+&lt;Inséré par L 1999-04-07/32, art. 23; En vigueur : 01-01-2000&gt; La présente loi n'est pas applicable aux travailleurs engagés dans le cadre d'un contrat de travail ALE [<sup>1</sup> , ni aux personnes qui fournissent des prestations au sens du chapitre 1er et 2 du titre 2 de la loi du 18 juillet 2018 relative à la relance économique et au renforcement de la cohésion sociale, dans la mesure où les conditions imposées par l'article 26 de la loi précitée sont remplies, ou aux personnes qui fournissent des prestations en vue d'obtenir l'indemnité conformément à l'article 90, alinéa 1er, 1° bis, du Code des impôts sur les revenus 1992]<sup>1</sup> [<sup>2</sup> , ni aux personnes qui fournissent des prestations au sens de la loi du 24 décembre 2020 relative au travail associatif, dans la mesure où les conditions imposées par l'article 42 de la loi précitée sont remplies]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2018-07-18/03, art. 31, 030; En vigueur : 20-02-2018&gt;
+
+(2)&lt;L 2020-12-24/08, art. 47, 032; En vigueur : 01-01-2021&gt;
+
+#### Art. 2
+
+La présente loi entend par "rémunération":
+
+1° le salaire en espèces auquel le travailleur a droit à charge de l'employeur en raison de son engagement;
+
+2° le pourboire ou service auquel le travailleur a droit en raison de son engagement ou en vertu de l'usage;
+
+3° les avantages évaluables en argent auxquels le travailleur a droit à charge de l'employeur en raison de son engagement.
+
+Le Roi peut, sur proposition du Conseil national du Travail, étendre la notion de "rémunération" telle qu'elle est définie à l'alinéa premier.
+
+(Toutefois, ne sont pas à considérer comme rémunération, pour l'application de la présente loi :
+
+1° les indemnités payées directement ou indirectement par l'employeur :
+
+a) comme pécule de vacances;
+
+b) qui doivent être considérées comme un complément aux indemnités dues par suite d'un accident du travail ou d'une maladie professionnelle;
+
+c) qui doivent être considérées comme un complément aux avantages accordés pour les diverses branches de la sécurité sociale;
+
+2° les paiements en espèces ou en actions ou parts aux travailleurs, conformément à l'application de la loi du 22 mai 2001 [<sup>1</sup> relative à la participation des travailleurs au capital des sociétés et à l'établissement d'une prime bénéficiaire pour les travailleurs]<sup>1</sup>.) &lt;L 2001-05-22/33, art. 32, 010; En vigueur : 29-12-2001, étant entendu que le premier bénéfice distribuable est celui de l'exercice comptable qui se clôture au plus tôt le 31 décembre 2001&gt;
+
+(En dérogation à l'alinéa précédent, 1°, c), le Roi peut, toutefois, après avis du Conseil national du Travail, selon les modalités et les conditions déterminées par arrêté délibéré en Conseil des ministres, considérer comme de la rémunération, les indemnités, payées directement ou indirectement par l'employeur, comme complément à toutes ou à certaines allocations de sécurité sociale.
+
+Pour l'application de l'alinéa précédent, le Roi peut faire une distinction, notamment selon :
+
+\- que les indemnités complémentaires sont accordées sur la base d'une convention collective de travail conclue au sein du Conseil national du Travail, d'une convention collective de travail conclue au sein d'une commission paritaire ou sous-commission paritaire d'application à toutes les entreprise qui ressortissent sous le champ d'application de la commission paritaire ou la sous-commission paritaire, d'une convention collective de travail conclue au sein d'une commission paritaire ou sous-commission paritaire qui n'est pas d'application à toutes les entreprise qui ressortissent au champ d'application de la commission paritaire ou la sous-commission paritaire, d'une convention collective de travail conclue au sein de l'entreprise, sur base d'un accord individuel entre l'employeur et le travailleur ou sur base d'un engagement unilatéral de la part de l'employeur;
+
+\- l'âge du travailleur au moment du premier octroi de l'indemnité complémentaire (et la période durant laquelle l'indemnité complémentaire est accordée, en tenant notamment compte du fait de la continuation ou non du paiement jusqu' à la prise de la pension ou de la prépension); &lt;L 2005-12-23/30, art. 50, 017; En vigueur : 01-04-2006&gt;
+
+\- le niveau du montant de l'indemnité complémentaire, en tenant compte de l'avantage maximal dont pourrait bénéficier le travailleur sans qu'il soit nécessaire que les conditions pour pouvoir bénéficier de cet avantage maximal soient réellement remplies;
+
+\- la date du régime visé sous a), sur lequel l'indemnité complémentaire est basée;
+
+\- la date du premier octroi de l'indemnité complémentaire au travailleur;
+
+\- que le régime visé sous a) sur lequel l'indemnité complémentaire est basée, stipule expressément ou pas que l'indemnité complémentaire continue à être payée en cas de reprise de travail du travailleur chez un autre employeur que celui qui est tenu de payer directement ou indirectement l'indemnité complémentaire;
+
+\- que le travailleur a repris, dans le mois considéré, le travail chez un autre employeur que celui qui est tenu de payer directement ou indirectement l'indemnité complémentaire.) &lt;L 2004-12-27/30, art. 146, 015; En vigueur : 01-04-2006; disposition modificative abrogée par L 2006-12-27/32, art. 146&gt;
+
+----------
+
+(1)&lt;L 2018-12-14/02, art. 10, 031; En vigueur : 01-01-2018&gt;
+
+## CHAPITRE II. \_ Protection de la rémunération
+
+#### Art. 3
+
+Il est interdit à l'employeur de restreindre, de quelque manière que ce soit, la liberté du travailleur de disposer de sa rémunération à son gré.
+
+#### Art. 3bis
+
+&lt;Inséré par L 2002-06-26/55, art. 81; En vigueur : 01-07-2005&gt; Le travailleur a droit au paiement par l'employeur de la rémunération qui lui est due. Ce droit au paiement de la rémunération porte sur la rémunération, avant imputation des retenues visées à l'article 23.
+
+#### Art. 4
+
+La rémunération en espèces doit être payée en monnaie ayant cours légal en Belgique, lorsque le travailleur y exerce son activité.
+
+Lorsque cette activité est exercée à l'étranger, la rémunération en espèces doit être payée, selon la demande du travailleur, en totalité ou en partie soit en monnaie ayant cours légal en Belgique, soit en monnaie ayant cours légal dans le pays ou le travailleur exerce son activité.
+
+L'employeur doit veiller à faire étendre à la rémunération du travailleur, la garantie de change qu'il obtient pour sa commande ou son adjudication.
+
+#### Art. 5
+
+&lt;L 1985-06-27/32, art. 1, 003&gt; § 1er. [<sup>2</sup> Le paiement de la rémunération s'effectue en monnaie scripturale. La rémunération peut néanmoins être payée de la main à la main pour autant que cette modalité soit prévue par voie de convention collective de travail conclue au sein d'un organe paritaire ou par un accord implicite ou un usage dans le secteur.]<sup>2</sup>
+
+[<sup>3</sup> Le Roi fixe la procédure et les modalités de formalisation et de publicité d'un accord ou d'un usage relatif au paiement de la rémunération de la main à la main dans le secteur.]<sup>3</sup>
+
+(Si le paiement de la rémunération se fait de la main à la main, l'employeur doit soumettre à la signature du travailleur une quittance de ce paiement.) &lt;L 1992-06-26/30, art. 110, 007; En vigueur : 10-07-1992&gt;
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> § 4/1. Lorsque le travailleur est un ressortissant d'un pays tiers en séjour illégal visé par la loi du 11 février 2013 prévoyant des sanctions et des mesures à l'encontre des employeurs de ressortissants de pays tiers en séjour illégal et que son adresse postale et les données relatives à son compte bancaire ou de chèques postaux sont inconnues de l'employeur, ce dernier verse la rémunération qu'il n'a pas encore payée, au compte de chèques postaux de la Caisse des Dépôts et Consignations par virement]<sup>1</sup>
+
+La taxe postale ou bancaire ne peut être déduite de la rémunération.
+
+§ 5. En cas de paiement en monnaie scripturale, le Roi détermine les modes de paiement autorisés ainsi que le moment à partir duquel la rémunération est censée être payée au travailleur.
+
+§ 6. Lorsque la rémunération des travailleurs ou le compte bancaire ou de chèques postaux ou est versée leur rémunération fait l'objet d'une saisie ou d'une cession, le paiement de la partie non cessible ni saisissable de la rémunération s'effectue (à la demande du travailleur) de la main à la main, par [<sup>4</sup> chèque circulaire]<sup>4</sup> ou par un autre mode de paiement déterminé par le Roi. &lt;L 2005-12-27/31, art. 8, 016; En vigueur : 01-01-2007&gt;
+
+Le Roi détermine, après avoir pris l'avis du Conseil national du Travail, la procédure par laquelle l'employeur est informé de la cession ou de la saisie du compte du travailleur.
+
+----------
+
+(1)&lt;L 2013-02-11/13, art. 11, 023; En vigueur : 04-03-2013&gt;
+
+(2)&lt;L 2015-08-23/23, art. 2, 025; En vigueur : 01-10-2016; voir aussi les dispositions transitoires, art. 4&gt;
+
+(3)&lt;L 2015-08-23/23, art. 2, 025; En vigueur : 01-10-2015&gt;
+
+(4)&lt;L 2026-04-02/04, art. 9, 037; En vigueur : 01-01-2026&gt;
+
+#### Art. 6
+
+§ 1er. Une partie de la rémunération peut être payée en nature lorsque ce mode de paiement est de pratique courante ou souhaitable en raison de la nature de l'industrie ou de la profession en cause.
+
+Cette partie est évaluée par écrit et portée à la connaissance du travailleur, lors de l'engagement de celui-ci.
+
+Elle ne peut excéder un cinquième de la rémunération totale brute.
+
+Elle ne peut dépasser deux cinquièmes lorsque l'employeur met à la disposition du travailleur une maison ou un appartement.
+
+Elle ne peut excéder la moitié lorsqu'il s'agit des travailleurs suivants, complètement logés et nourris chez l'employeur:
+
+1° les travailleurs domestiques;
+
+2° les concierges;
+
+3° les apprentis ou les stagiaires.
+
+§ 2. Peuvent seuls être fournis à titre de rémunération en nature:
+
+1° le logement;
+
+2° le gaz, l'électricité, l'eau, le chauffage et les combustibles;
+
+3° la jouissance d'un terrain;
+
+4° la nourriture consommée sur les lieux de travail;
+
+5° les outils, le costume de service ou de travail ainsi que leur entretien, pour autant qu'aucune disposition légale ou règlementaire n'en impose la fourniture ou l'entretien à l'employeur;
+
+6° les matières ou matériaux nécessaires au travail et dont le travailleur a la charge aux termes de son engagement ou selon l'usage.
+
+La rémunération en nature ne peut comprendre des spiritueux ni des produits nuisibles à la santé du travailleur et de sa famille.
+
+§ 3. L'employeur ne peut poursuivre un but de lucre à l'occasion du paiement en nature.
+
+Doivent être évalués au prix de revient, qui ne peut en aucun cas excéder le prix commercial normal, les avantages mentionnés au § 2, 2°, 5° en 6°.
+
+Doivent être évalués forfaitairement aux montants fixés pour le calcul des cotisations de sécurité sociale, la nourriture ainsi que le logement autre que celui visé au § 1er, alinéa 4. Dans ce cas, la fourniture de l'électricité, du chauffage et de l'eau est comprise dans l'évaluation forfaitaire.
+
+Sauf pour la nourriture et le logement visés à l'alinéa précédent, la preuve que les dispositions de ce paragraphe ont été respectées incombe à l'employeur.
+
+§ 4. Sur la proposition de la commission paritaire compétente, (...) ou du Conseil national du travail, le Roi peut déroger aux dispositions du § 1er, alinéas 3, 4 et 5 et du § 2, alinéa 1er, pour certaines catégories de travailleurs ou en raison d'usagers qui sont constants dans certaines professions. &lt;AR 1-3-1971, art. 16, 1°.&gt;
+
+#### Art. 7
+
+L'employeur et ses préposés ne peuvent intenter une action en paiement contre le travailleur qu'en raison de fournitures faites ou de services prestés:
+
+1° conformément aux dispositions suivantes de la loi du 15 mai 1956 sur les économats:
+
+a) article 1er, b), pour les travailleurs des services publics;
+
+b) article 3, alinéa 2, pour les autres travailleurs;
+
+2° pour le commerce exercé par le travailleur.
+
+#### Art. 8
+
+Jusqu'à preuve du contraire, les fournitures faites et les services prestés dans le cadre de l'article 7 au travailleur par le conjoint ou les enfants de l'employeur ou de ses préposés ou par toute personne habitant avec l'employeur, ses préposés ou ses sous-traitants, sont présumés avoir été faits ou prestés par l'employeur lui-même ou ses préposés.
+
+De même sont présumés avoir été faits ou prestés au travailleur, les fournitures faites et les services prestés à son conjoint et à ses enfants ainsi qu'aux personnes habitant avec lui.
+
+#### Art. 9
+
+La rémunération doit être payée à intervalles réguliers et au moins deux fois par mois, à seize jours d'intervalle au plus, sauf en ce qui concerne:
+
+1° la rémunération des employés, qui doit être payée au moins tous les mois;
+
+2° les commissions dues aux représentants de commerce, payées selon les dispositions de la législation fixant le statut des représentants de commerce;
+
+3° les commissions dues aux travailleurs autres que les représentants de commerce, qui doivent être payées au moins tous les trois mois;
+
+4° les participations aux bénéfices et autres prestations similaires qui sont réglées conformément à l'accord des parties, au règlement d'atelier ou à tout autre règlement en vigueur.
+
+Lorsque le paiement est fait par avance, celui-ci doit correspondre approximativement à ce qui est dû en rémunération nette.
+
+Dans le cas ou la rémunération doit être payée au moins deux fois par mois, l'un des paiements doit constituer un règlement définitif de la rémunération du mois.
+
+Toutefois, pour les travailleurs payés à la façon, à la pièce ou à l'entreprise, un règlement partiel ou définitif est effectué au moins tous les mois.
+
+(Il peut être dérogé aux dispositions de l'alinéa 1er par voie de décision de la commission paritaire compétente rendue obligatoire par le Roi.) &lt;AR 1-3-1971, art. 16, 2°.&gt;
+
+(Sans préjudice des dispositions des alinéas 1er et 3, la rémunération doit être payée aux époques et dans les délais déterminés par une convention collective de travail.
+
+A défaut de convention collective de travail, la rémunération doit être payée aux époques et dans les délais fixés par le règlement de travail ou par tout autre règlement en vigueur; les dispositions de ces règlements ne peuvent fixer la date du paiement de la rémunération au-delà du septième jour ouvrable qui suit la période de travail pour laquelle le paiement est prévu.
+
+A défaut de convention collective de travail ou de dispositions contenues dans le règlement de travail ou dans tout autre règlement en vigueur, la rémunération doit être payée au plus tard le quatrième jour ouvrable qui suit la période de travail pour laquelle le paiement est prévu.) &lt;L 1985-06-27/32, art. 2, 003&gt;
+
+#### Art. 9bis
+
+&lt;ARN225 07-12-1983, art. 13&gt; § 1er. En cas d'application de l'article 26bis de la loi du 16 mars 1971 sur le travail, la rémunération normale de toute heure de travail prestée au-delà de la limite de 40 heures ou d'une limite inférieure fixée par convention collective de travail doit être payée en même temps et être établie de la même manière que la rémunération due pour la période de paie au cours de laquelle le repos compensatoire a été octroyé.
+
+Lorsque le repos compensatoire n'est pas octroyé en raison de la disposition de l'article 26bis, § 3, alinéa 4, de la même loi, la rémunération restant due est payée à la fin du délai de six mois prévu par cet alinéa et doit être établie de la même manière que la rémunération qui aurait été due à ce moment.
+
+Lorsque le repos compensatoire n'a pu être octroyé avant la fin du délai de préavis, ou avant la fin d'un contrat à durée déterminée, ou par un travail nettement défini, ou lorsqu'il a été mis fin à un contrat à durée indéterminée sans préavis, la rémunération restant due doit être payée conformément à l'article 11 et être établie de la même manière que la rémunération qui est ou aurait été due au moment de la fin du contrat de travail.
+
+§ 2. En cas de prestation d'heures supplémentaires donnant droit à un sursalaire conformément à l'article 29 de la même loi, le sursalaire doit être payé selon les règles fixées à l'article 9 de la présente loi.
+
+#### Art. 9ter
+
+&lt;L 1985-01-22/30,art. 85, 002&gt; En cas d'application de l'article 20bis de la loi du 16 mars 1971 sur le travail, le travailleur a droit, à chaque période de paie, au paiement de sa rémunération normale afférente à la durée hebdomadaire moyenne de travail fixée par la convention collective de travail.
+
+Si, à la date où le contrat de travail prend fin, ou à la fin de la période fixée par la convention collective de travail, le travailleur a presté moins que la durée moyenne de travail conventionnelle, la rémunération payée lui reste acquise et ne peut être imputée sur la rémunération restant due.
+
+Si, au contraire, il a presté plus d'heures, la rémunération afférente aux heures de travail prestées en plus lui est due.
+
+#### Art. 9quater
+
+&lt;L 1985-01-22/30, art. 84, §1, 002&gt; En cas d'application d'un régime de travail fondé sur l'article (20, § 2, 20bis et 26bis de la loi du 16 mars 1971 sur le travail) (et par l'article 11bis, alinéa 3, de la loi du 3 juillet 1978 relative aux contrats de travail), le travailleur doit être informé (, soit sous format papier, soit sous format électronique,) de l'état de ses prestations par rapport à la durée journalière et hebdomadaire de travail qu'il est tenu de prester. &lt;L 1985-01-22/30, art. 84, § 2, 002&gt; &lt;L 1989-12-22/31, art. 184, 004; En vigueur : 09-01-1990&gt; &lt;L 2007-06-03/81, art. 21, 019; En vigueur : 02-08-2007&gt;
+
+(Le Roi détermine les modalités d'application du présent article). &lt;L 1985-01-22/30, art. 84, § 3, 002&gt;
+
+#### Art. 9quinquies
+
+(inséré par L 1989-12-22/31, art. 185) Les dispositions de l'article 9ter s'appliquent également au travailleur à temps partiel occupé selon un régime d'horaire variable prévu à l'article 11bis, alinéa 3, de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+Les dispositions de l'alinéa précédent ne visent que le paiement de la rémunération normale afférente à la durée du travail convenue dans le contrat de travail.
+
+#### Art. 9sexies
+
+[<sup>1</sup> En cas d'application de l'article 20ter de la loi du 16 mars 1971, le travailleur a droit, à chaque période de paie, au paiement de la rémunération normale afférente à la durée hebdomadaire moyenne de travail fixée par la convention collective de travail ou le règlement de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-05/03, art. 72, 028; En vigueur : 01-02-2017&gt;
+
+#### Art. 10
+
+&lt;L 2002-06-26/55, art. 82, 011; En vigueur : 01-07-20005&gt; La rémunération porte intérêt de plein droit à dater de son exigibilité.
+
+Cet intérêt est calculé sur la rémunération, avant l'imputation des retenues visées à l'article 23.
+
+#### Art. 11
+
+Lorsque l'engagement prend fin, la rémunération restant due doit être payée sans délai et au plus tard à la première paie qui suit la date de la fin de l'engagement, sans préjudice, pour les représentants de commerce, des dispositions de la législation fixant leur statut.
+
+En pareil cas, lorsque le travailleur le demande, le paiement de la rémunération restant due devra se faire à l'intervention de (LA POSTE) ou d'une banque. &lt;L 1991-03-21/30, art. 130, 005; En vigueur : 01-10-1992&gt;
+
+La taxe postale ou bancaire ne peut être déduite de la rémunération.
+
+#### Art. 12
+
+La quittance pour solde de tout compte délivrée par le travailleur au moment ou l'engagement prend fin, n'implique aucune renonciation à ses droits.
+
+Elle ne vaut que pour accusé de réception.
+
+#### Art. 13
+
+La rémunération doit être payée de manière que le travailleur ne soit pas obligé de se déplacer pendant un jour d'inactivité habituelle.
+
+#### Art. 14
+
+Le paiement de la main à la main doit, sauf accord des parties, se faire au lieu du travail ou à proximité de celui-ci.
+
+Sauf pour les travailleurs qui y sont occupés, le paiement ne peut en aucun cas être effectué:
+
+1° dans une cantine, un local ou sont débités des boissons, des comestibles ou des marchandises quelconques;
+
+2° dans des lieux de divertissement;
+
+3° dans des locaux attenant aux endroits spécifiés sous 1° et 2° ou dans des dépendances de ceux-ci.
+
+#### Art. 15
+
+Un décompte est remis (soit sous format papier, soit sous format électronique) au travailleur lors de chaque règlement définitif. &lt;L 2007-06-03/81, art. 22, 019; En vigueur : 02-08-2007&gt;
+
+[<sup>1</sup> Le Roi peut déterminer les données que le décompte doit contenir, et la manière de subdiviser ces données en différentes rubriques.]<sup>1</sup>
+
+Dans les six mois suivant l'entrée en vigueur de la présente loi, les commissions paritaires détermineront les renseignements que ce document doit contenir.
+
+Ces décisions des commissions paritaires peuvent être rendues obligatoires par le Roi (...). &lt;AR 1-3-1971, art. 16, 3°.&gt;
+
+En cas de carence des commissions paritaires ou en l'absence de commission paritaire, le Roi prend les mesures visées à l' [<sup>1</sup> alinéa 3]<sup>1</sup>, après avis du Conseil national du travail.
+
+----------
+
+(1)&lt;L 2009-03-27/37, art. 52, 020; En vigueur : 17-04-2009&gt;
+
+#### Art. 15bis
+
+[<sup>1</sup> § 1er. Pour l'application du présent article, on entend par :
+
+1° employeurs : les employeurs, au sens de l'article 1er, dont l'entreprise exerce réellement, dans un pays autre que la Belgique, des activités substantielles, c'est-à-dire des activités autres que celles relevant uniquement de la gestion interne ou administrative, au sens de l'article 2, 3°, de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci, et qui occupent sur le territoire belge un ou plusieurs travailleurs au sens du 2° du présent paragraphe;
+
+2° travailleurs : les travailleurs au sens de l'article 1er qui accomplissent temporairement une prestation de travail en Belgique et qui, soit travaillent habituellement sur le territoire d'un ou plusieurs pays autres que la Belgique, soit ont été engagés dans un pays autre que la Belgique;
+
+§ 2. Les employeurs sont dispensés, durant une période déterminée par le Roi, d'établir le décompte visé à l'article 15 pour autant que, durant la période d'occupation visée au paragraphe 1er, 1°, du présent article, ils fournissent aux fonctionnaires désignés par le Roi, à leur demande :
+
+1° une copie des documents relatifs à la rémunération prévus par la législation du pays où est établi l'employeur et qui sont équivalents au décompte visé à l'article 15 et/ou;
+
+2° par dérogation à l'article 36 du Code pénal social, une traduction, soit dans une des langues nationales, soit en anglais, des documents visés au 1°.
+
+Ils peuvent être dispensés par le Roi, dans les conditions qu'Il détermine, en tenant compte de la durée limitée de leurs activités en Belgique ou de la nature particulière de ces activités de l'obligation de fournir les documents visés à l'alinéa 1er, 1° et 2°.
+
+§ 3. Au terme de la période d'occupation visée au paragraphe 1er, 1°, les employeurs sont tenus, durant une période d'un an, de fournir aux fonctionnaires désignés par le Roi, à leur demande, les documents visés au paragraphe 2.
+
+§ 4. Lorsque les employeurs qui y sont tenus, ne fournissent pas les documents visés au paragraphe 2, conformément à ce même paragraphe et au paragraphe 3, alors que la demande en a été faite, ils sont tenus d'établir et de tenir le décompte visé à l'article 15.]<sup>1</sup>
+
+§ 5. Au terme de la période déterminée par le Roi en vertu du § 2, les employeurs doivent établir le décompte visé à l'article 15 conformément à ce même article.
+
+[<sup>1</sup> § 6. Les documents visés au paragraphe 2, 1° et 2°, et au paragraphe 3 peuvent être fournis sur support papier ou en format électronique.]<sup>1</sup>
+
+[<sup>2</sup> § 7. Le présent article n'est pas applicable aux employeurs occupant un ou plusieurs conducteurs dans le cadre d'activités dans le domaine du transport routier définies à l'article 2, 5°, de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-12-11/03, art. 11, 027; En vigueur : 30-12-2016&gt;
+
+(2)&lt;L 2022-06-19/01, art. 18, 034; En vigueur : 11-07-2022&gt;
+
+#### Art. 15ter.
+
+[<sup>1</sup> § 1er. Pour l'application du présent article, on entend par :
+
+1° employeurs occupant des conducteurs dans le cadre d'activités dans le domaine du transport routier : les employeurs au sens de l'article 1er, dont l'entreprise exerce réellement, dans un pays autre que la Belgique, des activités substantielles, et qui, au sens de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci, occupent sur le territoire belge un ou plusieurs conducteurs, dans le cadre d'activités dans le domaine du transport routier définies à l'article 2, 5°, de la loi précitée du 5 mars 2002;
+
+2° conducteurs : les travailleurs au sens de l'article 1er qui accomplissent temporairement une prestation de travail en Belgique et qui, soit travaillent habituellement sur le territoire d'un ou plusieurs pays autres que la Belgique, soit ont été engagés dans un pays autre que la Belgique;
+
+3° activités substantielles : activités exercées par une entreprise et qui sont autres que celles relevant uniquement de la gestion interne ou administrative, au sens de l'article 2, 3°, de la loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique et le respect de celles-ci.
+
+§ 2. Les employeurs occupant des conducteurs dans le cadre d'activités dans le domaine du transport routier sont dispensés d'établir le décompte visé à l'article 15.
+
+§ 3. Les employeurs occupant des conducteurs dans le cadre d'activités dans le domaine du transport routier sont tenus de fournir, après la période de détachement, à la demande expresse des fonctionnaires désignés par le Roi, et ce au plus tard huit semaines après la date de pareille demande, une copie des documents relatifs à la rémunération prévus par la législation du pays où est établi l'employeur et qui sont équivalents au décompte visé à l'article 15. Tant la demande de documents par les fonctionnaires précités que la transmission à ceux-ci desdits documents par l'employeur doivent se faire via l'interface publique connectée au système d'information du marché intérieur " IMI " au sens du règlement (UE) n° 1024/2012. Les fonctionnaires précités ont accès aux données communiquées via cette interface publique connectée. Le Service public fédéral Emploi, Travail et Concertation sociale est responsable du traitement pour ce qui concerne son propre traitement de données engendré par cet accès.
+
+Lorsque l'employeur établi dans un autre Etat membre de l'Union européenne ou au Royaume-Uni ne fournit pas, dans le délai prévu, les documents susmentionnés ou lorsque les fonctionnaires désignés par le Roi ne peuvent pas demander lesdits documents car l'employeur n'a pas créé de compte d'utilisateur dans l'interface publique connectée au système d'information du marché intérieur " IMI " au sens du règlement (UE) n° 1024/2012, les fonctionnaires précités peuvent demander, via le système d'information du marché intérieur " IMI " précité, l'assistance des autorités compétentes de l'Etat dans lequel ledit employeur est établi.
+
+Par dérogation à l'alinéa 1er, lorsque l'employeur est établi dans un Etat qui n'est pas membre de l'Union européenne et qui n'est pas le Royaume-Uni, tant la demande de documents par les fonctionnaires désignés par le Roi que la transmission à ceux-ci desdits documents par l'employeur sont effectués par courrier postal ou par courriel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-06-19/01, art. 19, 034; En vigueur : 11-07-2022&gt;
+
+#### Art. 16
+
+Même en vertu d'une procuration ou d'un mandat verbal ou écrit, général ou spécial rémunéré ou gratuit, il est interdit:
+
+1° à l'employeur, à son conjoint, à ses enfants ou aux personnes habitant avec lui, comme à ses préposés, de remettre la rémunération du travailleur:
+
+a) à l'exploitant, au tenancier, au gérant ou au concessionnaire d'une cantine, d'un local ou sont débités des boissons, des comestibles ou des marchandises quelconques, ou d'un lieu de divertissement;
+
+b) au conjoint, aux enfants ou aux personnes habitant avec lui ou aux préposés des personnes visées au a);
+
+c) à toute personne habitant avec une des personnes énumérées au a);
+
+2° aux personnes visées au 1°, a), b) et c), de percevoir la rémunération du travailleur.
+
+#### Art. 17
+
+Il est interdit à toute personne, même si elle agit en vertu d'une procuration ou d'un mandat verbal ou écrit, général ou spécial:
+
+1° de faire habituellement et même gratuitement au travailleur l'avance de fonds et de percevoir ensuite de l'employeur ou de la part de celui-ci la rémunération de ce travailleur;
+
+2° de percevoir habituellement la rémunération de ce travailleur moyennant rétribution.
+
+#### Art. 18
+
+(.....) Il est interdit à l'employeur d'imposer au travailleur entièrement ou partiellement rémunéré au pourboire ou service, lors de son embauchage, pendant son engagement ou à la fin de celui-ci, des versements sur le pourboire ou service remis à son intention, sous la dénomination quelconque de frais ou tout autre et pour quelque objet que ce soit, d'effectuer sur ceux-ci des retenues autres que celles qui sont autorisées par la loi, ou de subordonner l'engagement ou la continuation de celui-ci à un quelconque versement. &lt;AR 1-3-1971, art. 16, 4° et 5°.&gt;
+
+§ 2. (.....) &lt;AR 1-3-1971, art. 16, 5°.&gt;
+
+## CHAPITRE III. \_ Mesurage du travail.
+
+#### Art. 19
+
+&lt;L 16-6-1970, art. 32, § 7, 1°&gt; Lorsqu'il est fait usage, pour mesurer le travail des travailleurs en vue de déterminer leur rémunération, d'unités de longueur, de surface, de capacité ou de volume, il est interdit de se servir d'unités autres que celles qui sont établies par ou en vertu de la loi sur les unités, étalons et instruments de mesure.
+
+Conformément aux dispositions de la loi précitée et à celles qui sont prises pour son exécution, les instruments de mesure dont il est fait usage sont vérifiés et sont pourvus de marques ou de signes ou sont accompagnés de certificats attestant cette vérification.
+
+#### Art. 20
+
+&lt;L 16-6-1970, art. 32, § 7, 2°&gt; En vue de la détermination de la rémunération des travailleurs, le Roi peut, après avis du Conseil national du travail:
+
+a) interdire, dans des industries déterminées, l'emploi d'unités de mesure qui ne feraient pas partie du système légal d'unités de mesure;
+
+b) prescrire la vérification d'instruments de mesure autres que ceux qui sont mentionnés à l'article 19 et l'apposition de marques ou signes ou la délivrance de certificats attestant cette vérification;
+
+c) imposer, pour des industries déterminées, l'emploi d'instruments de mesure spéciaux.
+
+Le mode de vérification des instruments visés par l'alinéa 1er, b et c, ainsi que les conditions auxquelles ils devront satisfaire, sont fixés par le Roi.
+
+#### Art. 21
+
+&lt;L 16-6-1970, art. 32, § 7, 3°&gt; Les opérations visées aux articles 19 et 20 sont effectuées par les personnes chargées de l'exécution de la loi sur les unités, étalons et instruments de mesure.
+
+#### Art. 22
+
+Nonobstant toute convention contraire, le travailleur a le droit de contrôler les mesurages, pesées ou autres opérations quelconques qui ont pour but de déterminer la quantité ou la qualité de l'ouvrage fourni et de fixer ainsi le montant de la rémunération.
+
+## CHAPITRE IV. - Retenues sur les rémunérations
+
+#### Art. 23
+
+Peuvent seuls être imputés sur la rémunération du travailleur:
+
+1° les retenues effectuées en application de la législation fiscale, de la législation relative à la sécurité sociale et en application des conventions particulières ou collectives concernant les avantages complémentaires de sécurité sociale:
+
+2° les amendes infligées en vertu du règlement d'atelier;
+
+(3° les indemnités et dédommagements, dûs en exécution de l'article 18 de la loi du 3 juillet 1978 relative aux contrats de travail et de l'article 24 de la loi du 1er avril 1936 sur les contrats d'engagement pour le service des bâtiments de navigation intérieure et de l'article 5 de la loi du 10 février 2003 relative à la responsabilité des et pour les membres du personnel au service des personnes publiques.) &lt;L 2003-02-10/34, art. 7, 012; En vigueur : 09-03-2003&gt;
+
+4° les avances en argent faites par l'employeur;
+
+5° le cautionnement destiné à garantir l'exécution des obligations du travailleur;
+
+[<sup>1</sup> 6° la rémunération payée en trop au travailleur occupé en application d'un horaire flottant visé à l'article 20ter de la loi du 16 mars 1971 sur le travail qui n'a pas récupéré à temps les heures prestées en moins par rapport à la durée hebdomadaire moyenne de travail à la fin de la période de référence ou lorsque le contrat de travail prend fin.]<sup>1</sup>
+
+[<sup>2</sup> Le Roi peut, sur proposition de la commission paritaire compétente, autoriser qu'une participation du travailleur pour la fourniture des sortes d'avantages tels que ceux limitativement énumérés à l'article 6 soit retenue sur la rémunération. Dans ce cas et, conformément à la proposition de la commission paritaire compétente, Il détermine le mode de valorisation de l'avantage et de la participation concernés.
+
+Sont exclus de l'application de l'alinéa précédent, les travailleurs saisonniers ressortissants d'un Etat tiers, dans le sens de l'article 3, b), de la directive 2014/36/CE du Parlement européen et du Conseil du 26 février 2014 établissant les conditions d'entrée et de séjour des ressortissants de pays tiers aux fins d'un emploi en tant que travailleur saisonnier, qui payent un loyer pour un logement mis à disposition par l'employeur ou par son intermédiaire au sens de l'article 20, alinéa 2, a), de la même directive.]<sup>2</sup>
+
+Le total des retenues [<sup>3</sup> visées aux alinéas précédents]<sup>3</sup> ne peut dépasser le cinquième de la rémunération en espèces due à chaque paie, déduction faite des retenues effectuées en vertu de la législation fiscale, de la législation relative à la sécurité sociale et en vertu des conventions particulières ou collectives concernant les avantages complémentaires de sécurité sociale.
+
+Toutefois, cette limitation n'est pas applicable lorsque le travailleur a agi par dol ou a mis volontairement fin à son engagement avant la liquidation des indemnités et dommages et intérêts visés à l'alinéa 1er, 3°.
+
+----------
+
+(1)&lt;L 2017-03-05/03, art. 73, 028; En vigueur : 01-02-2017&gt;
+
+(2)&lt;L 2018-01-15/02, art. 6, 029; En vigueur : 15-02-2018&gt;
+
+(3)&lt;L 2018-01-15/02, art. 7, 029; En vigueur : 15-02-2018&gt;
+
+## CHAPITRE V. - (.....) &lt;L 10-10-1967/1, art. 2, art. 35, 31°&gt;.
+
+#### Art. 24
+
+(.....) &lt;L 10-10-1967/1, art. 2, art. 35, 31°&gt;.
+
+#### Art. 25
+
+(.....) &lt;L 10-10-1967/1, art. 2, art. 35, 31°&gt;.
+
+#### Art. 26
+
+(.....) &lt;L 10-10-1967/1, art. 2, art. 35, 31°&gt;.
+
+## CHAPITRE VI. - Procédure relative à la cession de la rémunération
+
+#### Art. 27
+
+La cession de la rémunération doit être faite par un acte distinct de celui qui contient l'obligation principale dont elle garantit l'exécution.
+
+Cet acte est établi en autant d'exemplaires qu'il y a de parties ayant un intérêt distinct.
+
+(Dans les cas d'application de la loi du 12 juin 1991 relative au crédit à la consommation, l'acte doit reproduire les dispositions des articles 28 à 32.) &lt;L 1991-06-12/30, art. 113, 006; En vigueur : indéterminée &gt;
+
+Les dispositions du présent article sont prescrites à peine de nullité.
+
+#### Art. 28
+
+A défaut d'opposition du cédant faite conformément à l'article 29, la cession sortit ses effets après que le cessionnaire;
+
+1° aura notifié au cédant son intention d'exécuter la cession;
+
+2° aura envoyé au débiteur cédé [<sup>1</sup> une confirmation que la notification visée au 1° a été envoyée]<sup>1</sup>;
+
+3° aura envoyé au débiteur cédé, après l'expiration du délai d'opposition, [<sup>1</sup> sa décision de procéder à l'exécution de la cession]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2016-03-07/08, art. 2, 026; En vigueur : 31-03-2016&gt;
+
+#### Art. 28bis
+
+&lt;Inséré par AR 2004-12-27/41, art. 6; En vigueur : 30-01-2007&gt; La notification visée à l'article 28, 1°, contient, à peine de nullité, le formulaire de déclaration d'enfant à charge dont le modèle est arrêté par la Ministre de la Justice.
+
+#### Art. 29
+
+Dans les dix jours de l'envoi de la notification, visée à l'article 28, 1°, le cédant peut s'opposer à l'intention d'exécution à condition d'en aviser le débiteur cédé.
+
+(...) &lt;L 2006-07-20/39, art. 21, 018; En vigueur : 30-01-2007; voir aussi L 2006-07-20/39, art. 29&gt;
+
+Dans les cinq jours de l'envoi de la lettre du cédant le débiteur cédé en avisera le cessionnaire.
+
+En cas d'opposition, le débiteur cédé ne peut effectuer aucune retenue sur la rémunération en vue de l'exécution de la cession tant que celle-ci n'aura pas été validée conformément à l'article 31.
+
+#### Art. 30
+
+[<sup>1</sup> § 1er. A peine de nullité, les notifications visées aux articles 28, 1°, et 29 se font par envoi recommandé ou par exploit d'huissier de justice dont les frais restent à charge de celui qui les a exposés.
+
+A peine de nullité, les notifications visées à l'article 28, 2° et 3°, se font par envoi recommandé, par exploit de huissier de justice ou au moyen d'une procédure utilisant une technique de l'informatique dont les frais restent à charge de celui qui les a exposés. Quelle que soit la méthode de transmission des notifications, celles-ci contiennent les mêmes informations.
+
+§ 2. Pour qu'une technique de l'informatique puisse être utilisée, un accord préalable entre l'expéditeur et le destinataire des notifications est nécessaire.
+
+Lorsqu'une institution publique de sécurité sociale agit en qualité de débiteur cédé et qu'une technique de l'informatique est utilisée, l'échange de données à caractère personnel entre l'expéditeur et le destinataire est soumis à l'autorisation préalable du comité sectoriel de la sécurité sociale et de la santé, qui veille à ce que l'origine et l'intégrité des données à caractère personnel ainsi échangées soient établies avec les garanties suffisantes en matière de protection de la vie privée et de sécurité de l'information.
+
+Lorsque d'autres institutions publiques ou entreprises du secteur privé agissent en qualité de débiteurs cédés, les modalités spécifiques de "la procédure utilisant une technique de l'informatique" sont préalablement fixées par le Roi, [<sup>2</sup> après avis de l'Autorité de protection des données, conformément à l'article 36, paragraphe 4, du Règlement (EU) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE et à la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel]<sup>2</sup>, et la technique de l'informatique utilisée doit garantir l'origine et l'intégrité de la notification au moyen de techniques de sécurité adéquates. Cette technique doit également garantir l'identification de la personne physique responsable de l'envoi. Elle doit enfin permettre la détermination de la date et de l'heure de l'envoi et garantir la bonne fin de l'envoi par un accusé de réception.
+
+La "procédure utilisant une technique de l'informatique" ne peut entrer en vigueur que lorsque :
+
+\- soit l'autorisation nécessaire du comité sectoriel de sécurité sociale et de la santé a été obtenue en ce qui concerne les institutions publiques de sécurité sociale agissant en qualité de débiteurs cédés;
+
+\- soit l'arrêté royal susvisé est entré en vigueur, [<sup>2</sup> après avis de l'Autorité de protection des données, conformément à l'article 36, paragraphe 4, du Règlement (EU) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE et à la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel]<sup>2</sup>, en ce qui concerne d'autres institutions publiques ou entreprises du secteur privé agissant en qualité de débiteurs cédés.
+
+§ 3. Dans le seul but d'exécuter les dispositions visées au présent article, le débiteur cédant est identifié par le numéro d'identification du Registre national ou, à défaut, le numéro d'identification de la Banque Carrefour de la Sécurité Sociale visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque Carrefour de la Sécurité Sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-03-07/08, art. 3, 026; En vigueur : 31-03-2016&gt;
+
+(2)&lt;L 2022-12-26/33, art. 5, 035; En vigueur : 25-02-2023&gt;
+
+#### Art. 31
+
+En cas d'opposition, le cessionnaire convoque le cédant par lettre recommandée adressée par huissier, devant le juge de paix du canton du domicile du cédant aux fins d'entendre valider la cession.
+
+Le juge de paix statue en dernier ressort quel que soit le montant de la cession. En cas de validation la cession peut être exécutée par le débiteur cédé sur simple notification qui lui est faite par le greffier dans les cinq jours à partir du jugement.
+
+#### Art. 31bis
+
+&lt;L 2006-07-20/39, art. 22, 018; En vigueur : 30-01-2007; voir aussi L 2006-07-20/39, art. 29&gt; § 1er. Le cédant qui peut prétendre à la majoration de ses revenus incessibles en application de l'article 1409, § 1er, alinéa 4, ou de l'article 1409, § 1erbis, alinéa 4, du Code judiciaire, en fait la déclaration, remise contre récépissé respectivement au débiteur cédé et, en copie, au cessionnaire ou adressée à ceux-ci par lettre recommandée, en utilisant le formulaire dont le modèle est arrêté par le ministre de la Justice.
+
+§ 2. La déclaration porte effet dès le mois suivant sa réception par le tiers pour autant que celui-ci dispose d'un délai de dix jours ouvrables avant la date habituelle du paiement, que la qualité d'enfant à charge soit établie conformément au formulaire et à un des modes de preuves prévus à l'article 1409quater du Code judiciaire, et que le cédant déclare sur l'honneur que l'enfant ne dispose pas de revenus d'un montant supérieur à celui déterminé par le Roi ou que ses revenus ont fait l'objet d'une déclaration fiscale commune.
+
+§ 3. Toute contestation est soumise par le cessionnaire ou le cédant au juge de paix par simple déclaration écrite déposée ou adressée au greffe. Le cessionnaire et le cédant sont convoqués par pli judiciaire à l'audience fixée devant le juge.
+
+Le débiteur cédé est informé, par pli judiciaire, de l'incident avec obligation pour lui, dès l'échéance suivante de paiement, sauf en cas d'opposition du cédant sur la base de l'article 29, alinéa 3, de rendre indisponible entre ses mains le montant de la majoration appliquée et donnant lieu à contestation.
+
+Sans préjudice d'un accord entre le cédant et le cessionnaire, cet effet d'indisponibilité se prolonge jusqu'à la notification de la décision sur la contestation.
+
+Le juge statue toutes affaires cessantes. Sa décision n'est susceptible ni d'opposition, ni d'appel. Elle est immédiatement notifiée par pli judiciaire au cessionnaire, au cédant et au débiteur cédé.
+
+Si la majoration n'a pas été appliquée par le débiteur cédé, la décision qui reconnaît la qualité d'enfant à charge porte effet dès le mois suivant sa réception par celui-ci pour autant qu'il dispose d'un délai de dix jours ouvrables avant la date habituelle du paiement.
+
+Si la majoration a été appliquée par le débiteur cédé et rendue indisponible entre ses mains conformément à l'alinéa 2, le montant de la majoration rendu indisponible est versé selon le cas au cédant ou au cessionnaire.
+
+En cas de procédure de recouvrement à laquelle sont associés dès l'origine ou en cours de procédure plusieurs créanciers, la décision est réputée contradictoire à l'égard de tous les créanciers.
+
+§ 4. En cas de changement de circonstances, la majoration pour enfant à charge est adaptée conformément au paragraphes 2 et 3.
+
+Si le cédant a bénéficié fautivement et indûment de la majoration, les montants qui y correspondent sont, sur la base d'une décision rendue conformément au paragraphe 3 du présent article, réintégrés, sans aucune limitation, dans la quotité cessible, sans préjudice de la mise en oeuvre de toute autre mesure de recouvrement.
+
+#### Art. 32
+
+Lorsque l'engagement du cédant prend fin avant que le prélèvement de la somme cédée n'atteigne le montant de la cession validée par le juge de paix, le débiteur cédé transmet au cessionnaire la notification visée à l'article 31, alinéa 2, en indiquant le total des sommes prélevées.
+
+La validation conserve ses effets et la cession peut être exécutée par tout nouvel employeur à concurrence du montant initial de la cession, diminué des sommes déjà prélevées, pour autant que le cessionnaire informe le nouvel employeur, par lettre recommandée à la poste, de la décision de validation du juge de paix et du relevé des sommes déjà prélevées.
+
+#### Art. 33
+
+Lorsque l'engagement du cédant prend fin avant que le prélèvement des sommes cédées n'atteigne le montant de la cession ou lorsque le montant de la cession est atteint, le débiteur cédé transmet au cédant un relevé des sommes prélevées périodiquement sur la rémunération et de leur montant total.
+
+#### Art. 34
+
+&lt;L 2006-07-20/39, art. 23, 018; En vigueur : 30-01-2007; voir aussi L 2006-07-20/39, art. 29&gt; Sans préjudice de l'alinéa 2 et de l'article 34bis, le présent chapitre n'est pas applicable lorsque la cession de rémunération est constatée par un acte authentique.
+
+A peine de nullité procédurale de la cession, l'acte authentique mentionne que le cédant a été informé par le notaire du mécanisme de majoration pour enfant à charge et reconnaît avoir reçu de ce dernier le formulaire de déclaration d'enfant à charge dont le modèle est arrêté par le ministre de la Justice.
+
+#### Art. 34bis
+
+&lt;L 2006-07-20/39, art. 24; En vigueur : 30-01-2007; voir aussi L 2006-07-20/39, art. 29&gt; § 1er. Le cédant qui peut prétendre à la majoration de ses revenus incessibles en application de l'article 1409, § 1er, alinéa 4 ou de l'article 1409, § 1erbis, alinéa 4, du Code judiciaire en fait la déclaration, remise contre récépissé respectivement au débiteur cédé et, en copie, au cessionnaire ou adressée à ceux-ci par lettre recommandée, en utilisant le formulaire dont le modèle est arrêté par le ministre de la Justice.
+
+§ 2. La déclaration porte effet dès le mois suivant sa réception par le tiers pour autant que celui-ci dispose d'un délai de dix jours ouvrables avant la date habituelle du paiement, que la qualité d'enfant à charge soit établie conformément au formulaire et à un des modes de preuves prévus à l'article 1409quater du Code judiciaire, et que le cédant déclare sur l'honneur que l'enfant ne dispose pas de revenus d'un montant supérieur à celui déterminé par le Roi ou que ses revenus ont fait l'objet d'une déclaration fiscale commune.
+
+§ 3. Toute contestation est soumise par le cessionnaire ou le cédant au juge des saisies par simple déclaration écrite déposée ou adressée au greffe. Le cessionnaire et le cédant sont convoqués par pli judiciaire à l'audience fixée devant le juge.
+
+Le débiteur cédé est informé, par pli judiciaire, de l'incident avec obligation pour lui, dès l'échéance suivante de paiement de rendre indisponible entre ses mains le montant de la majoration appliquée et donnant lieu à contestation.
+
+Sans préjudice d'un accord entre le cédant et le cessionnaire, cet effet d'indisponibilité se prolonge jusqu'à la notification de la décision sur la contestation.
+
+Le juge statue toutes affaires cessantes. Sa décision n'est susceptible ni d'opposition, ni d'appel. Elle est immédiatement notifiée par pli judiciaire au cessionnaire, au cédant et au débiteur cédé.
+
+Si la majoration n'a pas été appliquée par le débiteur cédé, la décision qui reconnaît la qualité d'enfant à charge porte effet dès le mois suivant sa réception par celui-ci pour autant qu'il dispose d'un délai de dix jours ouvrables avant la date habituelle du paiement.
+
+Si la majoration a été appliquée par le débiteur cédé et rendue indisponible entre ses mains conformément à l'alinéa 2, le montant de la majoration rendu indisponible est versé selon le cas au cédant ou au cessionnaire.
+
+En cas de procédure de recouvrement à laquelle sont associés dès l'origine ou en cours de procédure plusieurs créanciers, la décision est réputée contradictoire à l'égard de tous les créanciers.
+
+§ 4. En cas de changement de circonstances, la majoration pour enfant à charge est adaptée conformément aux paragraphes 2 et 3 du présent article.
+
+Si le cédant a bénéficié fautivement et indûment de la majoration, les montants qui y correspondent sont, sur la base d'une décision rendue conformément au paragraphe 3, réintégrés, sans aucune limitation, dans la quotité cessible, sans préjudice de la mise en oeuvre de toute autre mesure de recouvrement.
+
+#### Art. 35
+
+Les dispositions des chapitres V et VI sont applicables aux prestations prévues à l'article 2, dernier alinéa, 1°.
+
+Les dispositions de l'article 8 de l'arrêté-loi du 28 décembre 1944, concernant la sécurité sociale des travailleurs, sont applicables aux prestations prévues à l'article 2, dernier alinéa 2° et 3°.
+
+## CHAPITRE VI/1. [<sup>1</sup> - Responsabilité solidaire pour le paiement de la rémunération]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-29/08, art. 66, 022; En vigueur : 16-04-2012&gt;
+
+### Section 1. - [<sup>1</sup> Régime général]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-02-11/13, art. 20, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/1
+
+[<sup>1</sup> § 1er. Pour l'application [<sup>2</sup> de la présente section]<sup>2</sup>, on entend par :
+
+1° activités : les travaux ou les services définis par le Roi après avis unanime des commissions ou sous-commissions paritaires compétentes. A défaut d'une commission ou sous-commission paritaire compétente ou effective, cet avis est donné par le Conseil national du travail. L'organe consulté communique son avis dans les deux mois après que le ministre compétent lui en a fait la demande. A défaut d'un avis unanime, le Roi précise les travaux ou les services par arrêté délibéré en Conseil des Ministres;
+
+2° donneur d'ordre : quiconque donne ordre d'exécuter ou de faire exécuter des activités pour un prix;
+
+3° entrepreneur :
+
+\- quiconque s'engage à exécuter ou à faire exécuter, pour un prix, des activités pour un donneur d'ordre;
+
+\- chaque sous-traitant par rapport au sous-traitant succédant immédiatement après lui;
+
+4° sous-traitant : quiconque s'engage, soit directement, soit indirectement, à quelque stade que ce soit, à exécuter ou à faire exécuter pour un prix, une activité ou une partie d'une activité confiée à l'entrepreneur;
+
+5° inspection : les fonctionnaires désignés pour exercer le contrôle du respect de la présente loi;
+
+6° employeur concerné : l'entrepreneur ou le sous-traitant concerné par la notification écrite au sens de l'article 49/1 du Code pénal social;
+
+7° travailleurs concernés : les travailleurs occupés par l'employeur concerné visé au 6° ;
+
+8° rémunération due : la rémunération devenue exigible dès le début de la période de responsabilité solidaire telle que définie dans l'article 35/3, § 4, à l'exception des indemnités auxquelles le travailleur a droit à la suite de la rupture du contrat de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-29/08, art. 67, 022; En vigueur : 16-04-2012&gt;
+
+(2)&lt;L 2013-02-11/13, art. 17, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/2
+
+[<sup>1</sup> § 1er. Les donneurs d'ordre, les entrepreneurs et les sous-traitants qui, pour les activités définies à l'article 35/1, § 1er, 1°, font appel à un ou plusieurs entrepreneurs ou sous-traitants et qui, conformément à l'article 49/1 du Code pénal social, sont informés par écrit par l'inspection de ce que leurs entrepreneurs ou les sous-traitants succédant à ceux-ci manquent gravement à leur obligation de payer dans les délais, à leurs travailleurs, la rémunération à laquelle ceux-ci ont droit, sont, dans la mesure et durant la période définie à l'article 35/3, solidairement responsables du paiement de la rémunération aux travailleurs.
+
+§ 2. Sans pouvoir déroger aux dispositions [<sup>2</sup> de la présente section]<sup>2</sup>, le Roi peut déterminer, pour les secteurs concernés, à quoi doivent satisfaire les accords contractuels entre les donneurs d'ordres, les entrepreneurs et les sous-traitants qui règlent dans leurs rapports juridiques entre eux, les conséquences de la réception de la notification mentionnée au paragraphe 1er. L'arrêté royal précité est pris sur avis unanime des commissions ou sous-commissions paritaires compétentes ou à défaut de commission ou sous-commission compétente ou effective, du Conseil national du travail. A défaut d'avis unanime, l'arrêté précité doit être délibéré en Conseil des Ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-29/08, art. 68, 022; En vigueur : 16-04-2012&gt;
+
+(2)&lt;L 2013-02-11/13, art. 18, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/3
+
+[<sup>1</sup> § 1er. La responsabilité solidaire visée à l'article 35/2 implique que le responsable solidaire est tenu de procéder sans délai au paiement, aux travailleurs concernés, de la rémunération définie au § 2, lorsqu'il y est sommé, par lettre recommandée, soit par un des travailleurs concernés, soit par l'inspection.
+
+§ 2. Lorsque le responsable solidaire est sommé directement par un des travailleurs concernés, la responsabilité solidaire concerne toujours la partie non encore payée de la rémunération due.
+
+Si le responsable solidaire prouve que le temps de travail que le travailleur concerné a consacré dans le cadre des activités qu'il fait effectuer, soit directement, soit par le biais d'entrepreneurs ou de sous-traitants intermédiaires, se limite à un nombre d'heures bien déterminé, la responsabilité solidaire ne concerne que la partie impayée de la rémunération due correspondant aux prestations en question.
+
+Si le responsable solidaire prouve que le travailleur concerné n'a pas fourni de prestations dans le cadre des activités qu'il fait effectuer, soit directement, soit par le biais d'entrepreneurs ou de sous-traitants intermédiaires, il n'est pas solidairement responsable du paiement de la rémunération du travailleur concerné.
+
+§ 3. Lorsque le responsable solidaire est sommé de payer la rémunération par l'inspection, la responsabilité solidaire ne concerne que la partie impayée de la rémunération due correspondant aux prestations fournies dans le cadre des activités qu'il fait effectuer, soit directement, soit par le biais d'entrepreneurs ou de sous-traitants intermédiaires.
+
+S'il ne peut toutefois pas être déterminé quelles prestations ont été fournies par les travailleurs concernés dans le cadre des travaux que le responsable solidaire fait effectuer, soit directement, soit par le biais d'entrepreneurs ou de sous-traitants intermédiaires, la responsabilité solidaire concerne le paiement d'un pourcentage d'un salaire minimum fixé par le Roi à chaque travailleur concerné figurant sur une liste transmise par l'inspection en même temps que la sommation visée au § 1er. Ce pourcentage correspond à la part que représentent, dans le chiffre d'affaires de l'employeur concerné, pendant une période de référence déterminée par le Roi, les activités effectuées par l'employeur concerné dans le cadre du marché que le responsable solidaire fait réaliser, soit directement, soit par le biais d'entrepreneurs ou de sous-traitants intermédiaires.
+
+§ 4. La période pendant laquelle la responsabilité solidaire est d'application est déterminée par l'inspection dans la notification visée à l'article 35/2 de la présente loi. Cette période prend cours après l'expiration d'un délai de 14 jours ouvrables après la notification et ne peut excéder un an.
+
+§ 5. Les articles 1200 à 1216 du Code civil s'appliquent à la responsabilité solidaire visée dans les paragraphes précédents.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-29/08, art. 69, 022; En vigueur : 16-04-2012&gt;
+
+#### Art. 35/4
+
+[<sup>1</sup> L'employeur concerné informe tous les travailleurs concernés de la notification effectuée par l'inspection conformément à l'article 49/1 du Code pénal social, en affichant à chaque endroit où il occupe les travailleurs une copie de cette notification.
+
+Les personnes auxquelles la notification visées à l'alinéa 1er est adressée, sont tenues d'afficher une copie de la notification reçue à l'endroit de la réalisation des activités qu'elles font effectuer, soit directement, soit par le biais d'entrepreneurs ou de sous-traitants intermédiaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-29/08, art. 70, 022; En vigueur : 16-04-2012&gt;
+
+#### Art. 35/5
+
+[<sup>1</sup> [<sup>2</sup> La présente section]<sup>2</sup> ne s'applique pas au donneur d'ordre - personne physique qui fait effectuer les activités visées à l'article 35/1 à des fins exclusivement privées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-29/08, art. 71, 022; En vigueur : 16-04-2012&gt;
+
+(2)&lt;L 2013-02-11/13, art. 19, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/6
+
+[<sup>1</sup> Pour l'application des articles 3 à 6, 13 à 16, 18 et 23 de la présente loi, le responsable solidaire, pour autant que et dans la mesure où il a été sommé conformément aux dispositions de l'article 35/3, § 1er, de payer la rémunération, est assimilé à l'employeur. A partir du cinquième jour ouvrable de l'envoi de la sommation, les intérêts visés à l'article 10 de la présente loi sont dus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-29/08, art. 72, 022; En vigueur : 16-04-2012&gt;
+
+### Section 1re/1 [<sup>1</sup> - Régime particulier portant exclusivement sur la responsabilité solidaire du contractant direct en cas d'activités dans le domaine de la construction]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-11/03, art. 12, 027; En vigueur : 30-12-2016&gt;
+
+#### Art. 35/6/1
+
+[<sup>1</sup> Pour l'application de la présente section, on entend par :
+
+1° activités dans le domaine de la construction : les travaux ou services mentionnés :
+
+\- dans l'arrêté royal qui détermine la compétence de la Commission paritaire de la construction;
+
+\- dans l'arrêté royal qui détermine la compétence, respectivement, de la Commission paritaire des constructions métallique, mécanique et électrique, de la Commission paritaire pour le nettoyage, de la Commission paritaire de l'ameublement et de l'industrie transformatrice du bois et de la Sous-commission paritaire des électriciens : installation et distribution, et qui sont également considérés comme des travaux immobiliers au sens de l'article 20, paragraphe 2, de l'arrêté royal n° 1 du 29 décembre 1992 relatifs aux mesures tendant à assurer le paiement de la taxe sur la valeur ajoutée;
+
+2° contractant direct : le donneur d'ordres, l'entrepreneur et l'entrepreneur intermédiaire, solidairement responsables dans les limites et conditions prévues à la présente section;
+
+3° donneur d'ordres : quiconque donne à un entrepreneur ordre d'exécuter ou de faire exécuter des activités dans le domaine de la construction pour un prix;
+
+4° entrepreneur : quiconque s'engage directement envers un donneur d'ordres à exécuter ou à faire exécuter, pour un prix, des activités dans le domaine de la construction au bénéfice de ce donneur d'ordres;
+
+5° entrepreneur intermédiaire : chaque sous-traitant par rapport au sous-traitant succédant immédiatement après lui;
+
+6° sous-traitant : quiconque s'engage directement, à quelque stade que ce soit, envers, selon le cas, l'entrepreneur ou l'entrepreneur intermédiaire, à exécuter ou à faire exécuter pour un prix des activités dans le domaine de la construction confiées audit entrepreneur ou entrepreneur intermédiaire;
+
+7° inspection : les fonctionnaires désignés pour exercer le contrôle du respect de la présente loi;
+
+8° employeur signalé : l'entrepreneur employeur ou le sous-traitant employeur concernés par la notification écrite visée à l'article 49/3 du Code pénal social;
+
+9° rémunération due : la rémunération due au travailleur, mais qui n'a pas encore été payée, ni par son employeur, ni par celui qui est tenu de la payer pour le compte de cet employeur, à l'exception des indemnités auxquelles le travailleur a droit à la suite de la rupture de son contrat de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-11/03, art. 13, 027; En vigueur : 30-12-2016&gt;
+
+#### Art. 35/6/2
+
+[<sup>1</sup> Par dérogation à la section 1re, la responsabilité solidaire du contractant direct, en cas d'activités dans le domaine de la construction, visée à l'article 35/6/3, est régie exclusivement par la présente section.
+
+Les articles 1200 à 1216 du Code civil sont d'application à la responsabilité solidaire visée par la présente section.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-11/03, art. 14, 027; En vigueur : 30-12-2016&gt;
+
+#### Art. 35/6/3
+
+[<sup>1</sup> § 1er. Le donneur d'ordres qui, pour des activités dans le domaine de la construction, fait appel à un entrepreneur, est solidairement responsable du paiement de la rémunération due au travailleur occupé par cet entrepreneur et correspondant aux prestations de travail effectuées par ledit travailleur au bénéfice de ce donneur d'ordres.
+
+Par dérogation à l'alinéa 1er, le donneur d'ordres n'est pas solidairement responsable s'il est en possession d'une déclaration écrite, signée par lui et par son entrepreneur, dans laquelle :
+
+\- ledit donneur d'ordres communique à son entrepreneur les coordonnées du site internet du Service public fédéral Emploi, Travail et Concertation sociale dans lequel sont reprises les informations relatives à la rémunération due, et;
+
+\- l'entrepreneur dudit donneur d'ordres certifie qu'il paie et payera la rémunération due aux travailleurs de cet entrepreneur.
+
+Par dérogation à l'alinéa 2, le donneur d'ordres qui, pour des activités dans le domaine de la construction, fait appel à un entrepreneur, est solidairement responsable du paiement de la rémunération due au travailleur occupé par cet entrepreneur et correspondant aux prestations de travail qui bénéficient à ce donneur d'ordres et qui sont effectuées par ledit travailleur à partir de l'expiration d'un délai de 14 jours ouvrables prenant cours au moment où ce donneur d'ordres a connaissance du fait que son entrepreneur ne paie pas tout ou partie de la rémunération due aux travailleurs de ce même entrepreneur. Une telle connaissance est prouvée, entre autres, quand le donneur d'ordres est informé par l'inspection conformément à l'article 49/3 du Code pénal social.
+
+Le présent paragraphe ne s'applique pas au donneur d'ordres qui est une personne physique et qui fait effectuer des activités dans le domaine de la construction à des fins exclusivement privées.
+
+§ 2. L'entrepreneur, en l'absence de chaîne de sous-traitants, ou l'entrepreneur intermédiaire, en cas d'existence d'une telle chaîne, qui, pour les activités dans le domaine de la construction, font appel à un sous-traitant, sont solidairement responsables du paiement de la rémunération due au travailleur occupé par ce sous-traitant et correspondant aux prestations de travail effectuées par ledit travailleur au bénéfice, selon le cas, de cet entrepreneur ou de cet entrepreneur intermédiaire.
+
+Par dérogation à l'alinéa 1er, l'entrepreneur et l'entrepreneur intermédiaire ne sont pas solidairement responsables s'ils sont en possession d'une déclaration écrite, signée par eux et par leur sous-traitant, dans laquelle :
+
+\- selon le cas, ledit entrepreneur et ledit entrepreneur intermédiaire communiquent à leur sous-traitant les coordonnées du site internet du Service public fédéral Emploi, Travail et Concertation sociale dans lequel sont reprises les informations relatives à la rémunération due, et;
+
+\- le sous-traitant dudit entrepreneur ou dudit entrepreneur intermédiaire certifie qu'il paie et payera la rémunération due à ses travailleurs.
+
+Par dérogation à l'alinéa 2, l'entrepreneur, en l'absence de chaîne de sous-traitants, et l'entrepreneur intermédiaire, en cas d'existence d'une telle chaîne, qui, pour les activités dans le domaine de la construction, font appel à un sous-traitant, sont solidairement responsables du paiement de la rémunération due au travailleur occupé par ce sous-traitant et correspondant aux prestations de travail qui bénéficient, selon le cas, à cet entrepreneur ou à cet entrepreneur intermédiaire et qui sont effectuées par ledit travailleur à partir de l'expiration d'un délai de 14 jours ouvrables prenant cours au moment où ils ont connaissance du fait que leur sous-traitant ne paie pas tout ou partie de la rémunération due à ce même travailleur. Une telle connaissance est prouvée, entre autres, quand l'entrepreneur et l'entrepreneur intermédiaire sont informés par l'inspection conformément à l'article 49/3 du Code pénal social.
+
+§ 3. Pour l'application des articles 3 à 6, 10, 13 à 16, 18 et 23, les responsables solidaires visés au présent article sont assimilés à l'employeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-11/03, art. 15, 027; En vigueur : 30-12-2016&gt;
+
+#### Art. 35/6/4
+
+[<sup>1</sup> L'employeur signalé affiche une copie de la notification écrite visée à l'article 49/3 du Code pénal social, au lieu visé par ledit article 49/3.
+
+Les responsables solidaires visés aux articles 35/6/1 à 35/6/3 affichent au lieu visé à l'article 49/3 du même Code une copie de la notification reçue si l'employeur signalé n'a pas effectué l'affichage visé l'alinéa 1er du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-11/03, art. 16, 027; En vigueur : 30-12-2016&gt;
+
+#### Art. 35/6/5
+
+[<sup>1</sup> Les organisations suivantes peuvent ester en justice dans les litiges auxquels l'application de la présente section peut donner lieu pour la défense des droits des travailleurs, avec l'approbation de ces derniers :
+
+1° les organisations représentatives des travailleurs et les organisations représentatives des employeurs visées à l'article 3 de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires;
+
+2° les organisations syndicales représentatives visées à la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités;
+
+3° les organisations syndicales représentatives au sein de l'organe de concertation syndicale désigné pour les administrations, services ou institutions pour lesquels la loi du 19 décembre 1974 réglant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités n'est pas d'application;
+
+L'action de ces organisations ne porte pas atteinte au droit des travailleurs d'agir personnellement, de se joindre à l'action ou d'intervenir à la cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-11/03, art. 17, 027; En vigueur : 30-12-2016&gt;
+
+### Section 1re/2. [<sup>1</sup> - Régime particulier portant exclusivement sur la responsabilité solidaire en cas d'activités dans le secteur du déménagement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 149, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/6/6.
+
+[<sup>1</sup> § 1er. Pour l'application de la présente section, on entend par:
+
+1° activités dans le secteur du déménagement: les activités définies à l'article 4/2, alinéas 1er, 2 et 3, de l'arrêté royal du 22 janvier 2010 instituant des Sous-commissions paritaires du transport et de la logistique et fixant leur dénomination et leur compétence ainsi que les activités exercées dans le cadre des activités précitées avec des appareils de levage ou de manutention de toute nature;
+
+2° donneur d'ordre: quiconque donne à un entrepreneur ordre d'exécuter ou de faire exécuter des activités pour un prix;
+
+3° entrepreneur: quiconque s'engage directement envers un donneur d'ordres à exécuter ou à faire exécuter, pour un prix, des activités au bénéfice de ce donneur d'ordre;
+
+4° entrepreneur intermédiaire: chaque sous-traitant par rapport au sous-traitant succédant immédiatement après lui;
+
+5° sous-traitant: quiconque s'engage directement, à quelque stade que ce soit, envers, selon le cas, l'entrepreneur ou l'entrepreneur intermédiaire, à exécuter ou à faire exécuter pour un prix des activités confiées audit entrepreneur ou entrepreneur intermédiaire;
+
+6° employeur signalé: l'entrepreneur employeur ou le sous-traitant employeur concernés par la notification écrite visée à l'article 49/4 du Code pénal social;
+
+7° rémunération due: la rémunération due au travailleur, mais qui n'a pas encore été payée, ni par son employeur, ni par celui qui est tenu de la payer pour le compte de cet employeur, à l'exception des indemnités auxquelles le travailleur a droit à la suite de la rupture de son contrat de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 150, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/6/7.
+
+[<sup>1</sup> Par dérogation à la section 1re, la responsabilité solidaire en cas d'activités dans le secteur du déménagement, est régie exclusivement par la présente section.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 151, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/6/8.
+
+[<sup>1</sup> § 1er. Le donneur d'ordre qui, pour des activités dans le secteur du déménagement, fait directement ou indirectement appel à un entrepreneur ou à un sous-traitant dont les données d'identification ont été introduites, avant le début de l'exécution de telles activités, dans la banque de données visée à l'article 35/15 est solidairement responsable du paiement de la rémunération due au travailleur occupé par cet entrepreneur ou ce sous-traitant et qui correspond à toutes les prestations de travail effectuées par ledit travailleur au bénéfice de ce responsable solidaire depuis le début des activités précitées.
+
+Dans le cas visé à l'alinéa précédent où les données d'identification de l'entrepreneur qui a conclu directement avec le donneur d'ordre ont été introduites avant le début de l'exécution de telles activités, dans la banque de données visée à l'article 35/15, le donneur d'ordre est obligé d'effectuer des retenues sur les montants des factures impayées existantes et des factures futures à recevoir de son entrepreneur direct et qui concernent les travaux ou services fournis après le début de l'exécution de telles activités et ce à concurrence:
+
+\- de 65 pourcent du montant de la facture s'il n'y a pas d'obligation de retenue à la source, dans le chef dudit sous-traitant, pour les dettes sociales au sens de l'article 30quinquies de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, ou
+
+\- de 50 pourcent du montant de la facture s'il y a une obligation de retenue à la source, dans le chef dudit sous-traitant, pour les dettes sociales au sens de l'article 30quinquies de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+Le donneur d'ordre doit verser les sommes retenues au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises au sens de l'article 27 de la loi du 26 juin 2022 relative aux fermetures d'entreprises.
+
+Le Roi détermine les modalités selon lesquelles les sommes visées à l'alinéa 3 sont versées au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises.
+
+Le Roi détermine le délai dans lequel les montants retenus en application de l'alinéa 2 sont imputés sur le montant de la rémunération due aux travailleurs concernés ainsi que le délai et les modalités de remboursement du solde éventuel au donneur d'ordre dans la mesure où les versements dépasseraient le montant de cette rémunération due.
+
+Le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises informe sans délai l'entrepreneur visé à l'alinéa 2 du versement des sommes effectué au(x) travailleur(s) de ce dernier.
+
+En cas de versement par le donneur d'ordre de sommes au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, ledit Fonds verse aux travailleurs concernés les sommes qui leur sont dues. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+Si le donneur d'ordre a versé des sommes au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, mais que l'entrepreneur a payé tout ou partie de la rémunération due à ses travailleurs avant que le Fonds n'ait versé aux travailleurs les sommes visées à l'alinéa précédent, le Fonds reverse au donneur d'ordre un montant égal au montant de la rémunération versée par l'entrepreneur à ses travailleurs. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+§ 2. Le donneur d'ordre qui, pour des activités dans le secteur du déménagement, fait directement ou indirectement appel à un entrepreneur ou à un sous-traitant, dont les données d'identification ont été introduites, après le début de l'exécution par cet entrepreneur ou ce sous-traitant des activités précitées, dans la banque de données visée à l'article 35/15, est solidairement responsable du paiement de la rémunération due au travailleur occupé par cet entrepreneur ou ce sous-traitant et qui correspond aux prestations de travail effectuées par ledit travailleur au bénéfice de ce responsable solidaire depuis la date de la notification visée à l'article 49/4 du Code pénal social.
+
+Dans le cas visé à l'alinéa précédent lorsque les données d'identification de l'entrepreneur qui a conclu directement avec le donneur d'ordre ont été introduites après le début de l'exécution des activités concernées, dans la banque de données visée à l'article 35/15, le donneur d'ordre est obligé d'effectuer des retenues sur les montants des factures impayées existantes et des factures futures à recevoir de son entrepreneur direct et qui concernent les travaux ou services fournis après le début de l'exécution de telles activités et de verser les montants retenus au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, comme prévu au § 1er.
+
+En cas de versement par le donneur d'ordre de sommes au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, ledit Fonds verse aux travailleurs concernés les sommes qui leur sont dues. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+Le Roi détermine les modalités selon lesquelles les montants retenus en application de l'alinéa 2 sont versés au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises.
+
+Le Roi détermine le délai dans lequel les sommes retenues en application de l'alinéa 2 sont imputées sur le montant de la rémunération due aux travailleurs concernés ainsi que le délai et les modalités de remboursement du solde éventuel au donneur d'ordre, dans la mesure où les versements dépasseraient le montant de cette rémunération due.
+
+Le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises informe sans délai l'entrepreneur visé à l'alinéa 2 du versement des sommes effectué au(x) travailleur(s) de ce dernier.
+
+Si le donneur d'ordre a versé des sommes au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, mais que l'entrepreneur a payé tout ou partie de la rémunération due à ses travailleurs avant que le Fonds n'ait versé aux travailleurs les sommes visées à l'alinéa 3, le Fonds reverse au donneur d'ordre un montant égal au montant de la rémunération versée par l'entrepreneur à ses travailleurs. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+§ 3. L'entrepreneur et l'entrepreneur intermédiaire qui, pour des activités dans le secteur du déménagement, font directement ou indirectement appel à un sous-traitant dont les données d'identification ont été introduites, avant le début de l'exécution de telles activités, dans la banque de données visée à l'article 35/15 sont solidairement responsables du paiement de la rémunération due au travailleur occupé par ce sous-traitant et qui correspond à toutes les prestations de travail effectuées par ledit travailleur au bénéfice de ces responsables solidaires depuis le début des activités précitées.
+
+Dans le cas visé à l'alinéa précédent lorsque les données d'identification du sous-traitant qui a conclu directement avec l'entrepreneur ou l'entrepreneur intermédiaire ont été introduites avant le début de l'exécution de telles activités, dans la banque de données visée à l'article 35/15, l'entrepreneur et l'entrepreneur intermédiaire sont obligés d'effectuer des retenues sur les montants des factures impayées existantes et des factures futures à recevoir de leur sous-traitant direct et qui concernent les travaux ou services fournis après le début de l'exécution de telles activités et ce à concurrence:
+
+\- de 65 pourcent du montant de la facture s'il n'y a pas d'obligation de retenue à la source, dans le chef dudit sous-traitant, pour les dettes sociales au sens de l'article 30quinquies de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, ou
+
+\- de 50 pourcent du montant de la facture s'il y a une obligation de retenue à la source, dans le chef dudit sous-traitant, pour les dettes sociales au sens de l'article 30quinquies de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+L'entrepreneur et l'entrepreneur intermédiaire doivent verser les sommes retenues au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises au sens de l'article 27 de la loi du 26 juin 2022 relative aux fermetures d'entreprises. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+Le Roi détermine les modalités selon lesquelles les montants retenus en application de l'alinéa 2 sont versés au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises.
+
+Le Roi détermine le délai dans lequel les montants retenus en application de l'alinéa 2 sont imputés sur le montant de la rémunération due aux travailleurs concernés ainsi que le délai et les modalités de remboursement du solde éventuel à l'entrepreneur ou à l'entrepreneur intermédiaire, dans la mesure où les versements dépasseraient le montant de cette rémunération due.
+
+En cas de versement par l'entrepreneur et/ou l'entrepreneur intermédiaire de sommes au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, ledit Fonds verse aux travailleurs concernés les sommes qui leur sont dues. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+Le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises informe sans délai le sous-traitant visé à l'alinéa 2 du versement de sommes effectué au(x) travailleur(s) de ce dernier.
+
+Si l'entrepreneur et l'entrepreneur intermédiaire ont versé des sommes au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, mais que le sous-traitant a payé tout ou partie de la rémunération due à ses travailleurs avant que le Fonds n'ait versé aux travailleurs les sommes visées à l'alinéa 6, le Fonds reverse à l'entrepreneur et/ou à l'entrepreneur intermédiaire un montant égal au montant de la rémunération versée par le sous-traitant à ses travailleurs. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+§ 4. L'entrepreneur et l'entrepreneur intermédiaire qui, pour des activités dans le secteur du déménagement, font directement ou indirectement appel à un sous-traitant, dont les données d'identification ont été introduites, après le début de l'exécution par ce sous-traitant des activités précitées, dans la banque de données visée à l'article 35/15, sont solidairement responsables du paiement de la rémunération due au travailleur occupé par ce sous-traitant direct ou indirect et qui correspond aux prestations de travail effectuées par ledit travailleur au bénéfice de ces responsables solidaires depuis la date de la notification visée à l'article 49/4 du Code pénal social.
+
+Dans le cas visé à l'alinéa précédent où les données d'identification du sous-traitant direct ont été introduites après le début de l'exécution des activités concernées, dans la banque de données visée à l'article 35/15, l'entrepreneur et l'entrepreneur intermédiaire sont obligés d'effectuer des retenues sur les montants des factures impayées existantes et des factures futures à recevoir de leur sous-traitant direct et qui concernent les travaux ou services fournis après le début de l'exécution de telles activités et de verser les montants retenus au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, comme prévu au § 3.
+
+En cas de versement par l'entrepreneur et/ou l'entrepreneur intermédiaire de sommes au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, ledit Fonds verse aux travailleurs concernés les sommes qui leur sont dues. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+Le Roi détermine les modalités selon lesquelles les montants retenus en application de l'alinéa 2 sont versés au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises.
+
+Le Roi détermine le délai dans lequel les montants retenus en application de l'alinéa 2 sont imputés sur le montant de la rémunération due aux travailleurs concernés ainsi que le délai et les modalités de remboursement du solde éventuel à l'entrepreneur ou à l'entrepreneur intermédiaire, dans la mesure où les versements dépasseraient le montant de cette rémunération due.
+
+Le Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises informe sans délai le sous-traitant visé à l'alinéa 2 du versement de sommes effectué au(x) travailleur(s) de ce dernier.
+
+Si l'entrepreneur et l'entrepreneur intermédiaire ont versé des sommes au Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises, mais que le sous-traitant a payé tout ou partie de la rémunération due à ses travailleurs avant que le Fonds n'ait versé aux travailleurs les sommes visées à l'alinéa précédent, le Fonds reverse à l'entrepreneur et/ou à l'entrepreneur intermédiaire un montant égal au montant de la rémunération versée par le sous-traitant à ses travailleurs. Le Roi peut prévoir des modalités spécifiques en ce qui concerne ce versement.
+
+§ 5. Pour l'application des articles 3 à 6, 10, 13 à 15, 16, 18 et 23 de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, les responsables solidaires visés au présent article sont assimilés à l'employeur.
+
+§ 6. Les articles 5.160 à 5.165 du Code civil s'appliquent à la responsabilité solidaire visée dans les paragraphes précédents.
+
+§ 7. La présente section ne s'applique pas au donneur d'ordre qui est une personne physique et qui fait effectuer des activités dans le secteur du déménagement, à des fins exclusivement privées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 152, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/6/9.
+
+[<sup>1</sup> § 1er. L'entrepreneur qui s'est engagé contractuellement à exécuter des activités dans le secteur du déménagement et dont, avant le début d'exécution de telles activités, les données d'identification ont été introduites dans la banque de données visées à l'article 35/15, informe son donneur d'ordre, par écrit ou par voie électronique, avant le début de l'exécution des activités précitées, d'une telle introduction de ses données d'identification.
+
+L'entrepreneur qui a communiqué l'information mentionnée à l'alinéa 1er à son donneur d'ordre lui fait contresigner un accusé de réception confirmant la communication d'une telle information par écrit.
+
+§ 2. En l'absence de chaîne préexistante de sous-traitants, l'entrepreneur, qui fait directement appel à un sous-traitant en vue de faire exécuter des activités dans le secteur du déménagement, que cet entrepreneur s'était lui-même directement engagé à exécuter au bénéfice du donneur d'ordre, doit consulter la banque de données visée à l'article 35/15 aux fins de vérifier, avant le début de l'exécution des activités précitées, si les données d'identification d'un tel sous-traitant figurent ou non dans pareille banque de données.
+
+Dans le cas où, au moment de la consultation visée à l'alinéa 1er, l'entrepreneur constate que les données d'identification de son sous-traitant direct figurent dans la banque de données visée à l'article 35/15, cet entrepreneur informe, par écrit ou par voie électronique, sans délai et avant le début de l'exécution des activités précitées, le donneur d'ordre concerné de pareille constatation et de ce que sa responsabilité solidaire est susceptible d'être engagée conformément à l'article 35/6/8 et lui communique les données d'identifications dudit sous-traitant direct.
+
+En cas d'existence d'une chaîne de sous-traitants, chaque entrepreneur et entrepreneur intermédiaire intervenant dans la chaîne précitée et qui fait directement appel à un sous-traitant en vue de faire exécuter des activités dans le secteur du déménagement, doit consulter la banque de données visée à l'article 35/15 aux fins de vérifier, avant le début de l'exécution des activités précitées, si les données d'identification de son sous-traitant direct figurent ou non dans pareille banque de données.
+
+Dans le cas où, au moment de la consultation visée à l'alinéa 3 et selon le cas, l'entrepreneur ou l'entrepreneur intermédiaire constatent que les données d'identification du sous-traitant direct précité figurent dans la banque de données visée à l'article 35/15, l'entrepreneur ou l'entrepreneur intermédiaire informent, chacun pour ce qui les concerne, par écrit ou par voie électronique, avant le début de l'exécution des activités précitées, le donneur d'ordre, l'entrepreneur et, selon le cas, tout entrepreneur intermédiaire intervenant avant eux dans ladite chaîne de sous-traitance de pareille constatation et de ce que la responsabilité solidaire de ces derniers est susceptible d'être engagée conformément à l'article 35/6/8 et leur communiquent les données d'identifications dudit sous-traitant direct.
+
+Aux fins de pouvoir identifier les personnes à qui transmettre l'information visée, selon le cas, aux alinéas 2 et 4, l'entrepreneur ou l'entrepreneur intermédiaire qui sont soumis à l'obligation d'information au sens de l'article 30quinquies, § 8, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, consultent la banque de données établie conformément à l'article 30quinquies précité.
+
+§ 3. Les données d'identification de l'entrepreneur visé au paragraphe 1er et du sous-traitant direct visé au paragraphe 2 sont les suivantes:
+
+\- lorsqu'il s'agit d'une entité enregistrée auprès de la Banque-Carrefour des Entreprises, son numéro d'entreprise;
+
+\- lorsqu'il s'agit d'une entreprise étrangère qui n'est pas enregistrée auprès de la Banque-Carrefour des Entreprises, le numéro d'identification du pays d'origine ou, à défaut, le nom de l'entreprise, sa forme juridique et son adresse.
+
+L'entrepreneur et l'entrepreneur intermédiaire qui ont communiqué par écrit l'information mentionnée au paragraphe 2, selon le cas, au donneur d'ordre, à l'entrepreneur ou à l'entrepreneur intermédiaire intervenant directement avant eux, leur font contresigner un accusé de réception confirmant la communication d'une telle information par écrit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 153, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/6/10.
+
+[<sup>1</sup> § 1er. L'entrepreneur, dont les données d'identification ont été introduites dans la banque de données visée à l'article 35/15, communique sans délai, par écrit ou par voie électronique, aux inspecteurs sociaux de la Direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale, pour chaque convention d'entreprise conclue à partir de la date d'introduction desdites données d'identification dans la banque de données et en vertu de laquelle ledit entrepreneur accomplit des activités dans le secteur du déménagement:
+
+\- soit:
+
+1° la date de début des activités précitées, et
+
+2° une liste comprenant les données d'identification du donneur d'ordre au bénéfice de qui sont effectuées de telles activités;
+
+\- soit le numéro d'identification de la déclaration faite en application de l'article 30quinquies, § 8, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+Le sous-traitant, dont les données d'identification ont été introduites dans la banque de données visée à l'article 35/15, communique sans délai, par écrit ou par voie électronique, aux inspecteurs sociaux de la Direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale, pour chaque convention d'entreprise conclue après la date d'introduction desdites données d'identification dans la banque de données et en vertu de laquelle ledit sous-traitant accomplit, des activités dans le secteur du déménagement:
+
+\- soit:
+
+1° la date de début des activités précitées, et
+
+2° une liste comprenant les données d'identification du donneur d'ordre et de l'entrepreneur concernés par l'exécution de telles activités, ainsi que, le cas échéant, de tout autre entrepreneur intermédiaire intervenant éventuellement avant ledit sous-traitant dans la chaîne de sous-traitance en vue de l'exécution de ces mêmes activités;
+
+\- soit le numéro d'identification de la déclaration faite en application de l'article 30quinquies, § 8, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+§ 2. Les données d'identification des contractants à mentionner dans la liste visée au paragraphe 1er, alinéas 1er et 2, sont les suivantes:
+
+\- lorsqu'il s'agit d'une entité enregistrée auprès de la Banque-Carrefour des Entreprises, son numéro d'entreprise;
+
+\- lorsqu'il s'agit d'une entreprise étrangère qui n'est pas enregistrée auprès de la Banque-Carrefour des Entreprises, le numéro d'identification du pays d'origine ou, à défaut, le nom de l'entreprise, sa forme juridique et son adresse.
+
+§ 3. Le Service public Fédéral Emploi, Travail et Concertation sociale est responsable du traitement des données transmises aux inspecteurs sociaux de la Direction générale Contrôle des Lois sociales conformément au paragraphe 1er.
+
+La transmission des données visées au paragraphe 1er vise à permettre aux inspecteurs sociaux visés à l'alinéa 1er, d'identifier les responsables solidaires visés à l'article 35/6/8 à qui ils doivent transmettre la notification visée à l'article 49/4 du Code pénal social.
+
+Les données visées à l'alinéa 1er sont conservées par le Service public fédéral Emploi, Travail et Concertation sociale aussi longtemps que les données d'identification, selon le cas, de l'entrepreneur visé au paragraphe 1er, alinéa 1er, ou du sous-traitant visé au paragraphe 1er, alinéa 2, sont mentionnées dans la banque de données visée à l'article 35/15 sans toutefois qu'une telle conservation ne puisse excéder une durée de cinq ans à compter de leur introduction dans la même banque de données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 154, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/6/11.
+
+[<sup>1</sup> § 1er. Le donneur d'ordre qui fait appel à un entrepreneur, en vue de faire exécuter des activités dans le secteur du déménagement, communique sans délai à cet entrepreneur par écrit ou par voie électronique, ses propres données d'identification.
+
+L'entrepreneur, qui fait appel à un sous-traitant direct en vue de faire exécuter des activités dans le secteur du déménagement et que cet entrepreneur s'était lui-même engagé à exécuter au bénéfice d'un donneur d'ordre, communique sans délai à ce sous-traitant direct, par écrit ou par voie électronique, ses propres données d'identification et celles de ce donneur d'ordre.
+
+L'entrepreneur intermédiaire, qui intervient lui-même en tant que sous-traitant direct de l'entrepreneur et qui fait directement appel à un sous-traitant en vue de faire exécuter les activités visées à l'alinéa 2 communique sans délai à ce sous-traitant direct, par écrit ou par voie électronique, ses propres données d'identification ainsi que celles du donneur d'ordre et de l'entrepreneur.
+
+Chaque sous-traitant intervenant dans la chaîne de sous-traitance après l'entrepreneur intermédiaire visé à l'alinéa 3 et qui fait directement appel à un sous-traitant en vue de faire exécuter les activités visées à l'alinéa 2 communique sans délai à ce sous-traitant direct, par écrit ou par voie électronique, ses propres données d'identification ainsi que celles du donneur d'ordre, de l'entrepreneur et, le cas échéant, de tout autre sous-traitant intervenant avant lui dans la chaine de sous-traitance.
+
+Le donneur d'ordre, l'entrepreneur, l'entrepreneur intermédiaire et le sous-traitant qui, conformément aux alinéas 1er à 4, communiquent par écrit, selon le cas, à leur entrepreneur ou à leur sous-traitant direct les données d'identification visées, selon le cas, par ces mêmes alinéas, font contresigner par cet entrepreneur ou ce sous-traitant direct un accusé de réception confirmant une telle communication audit entrepreneur ou sous-traitant direct.
+
+Les données d'identification visées aux alinéas 1er à 5 sont les suivantes:
+
+\- lorsqu'il s'agit d'une entité enregistrée auprès de la Banque-Carrefour des Entreprises, son numéro d'entreprise;
+
+\- lorsqu'il s'agit d'une entreprise étrangère qui n'est pas enregistrée auprès de la Banque-Carrefour des Entreprises, le numéro d'identification du pays d'origine ou, à défaut, le nom de l'entreprise, sa forme juridique et son adresse;
+
+§ 2. Si l'entrepreneur, l'entrepreneur intermédiaire ou les sous-traitants qui se sont engagés contractuellement à exécuter des activités dans le secteur du déménagement satisfont à leur obligation de déclaration de travaux visée à l'article 30quinquies, § 8, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, celle-ci remplace les obligations visées au paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 155, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/6/12.
+
+[<sup>1</sup> L'employeur signalé affiche une copie de la notification écrite visée à l'article 49/4 du Code pénal social, au lieu ou aux lieux visés par ledit article 49/4, deuxième alinéa, 4°.
+
+Les responsables solidaires visés à l'article 35/6/8 affichent au(x) même(s) lieu(x) une copie de la notification reçue si l'employeur signalé n'a pas effectué l'affichage visé l'alinéa 1er du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 156, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/6/13.
+
+[<sup>1</sup> Les organisations suivantes peuvent ester en justice dans les litiges auxquels l'application de la présente section peut donner lieu pour la défense des droits des travailleurs, avec l'approbation de ces derniers:
+
+1° les organisations représentatives des travailleurs et les organisations représentatives des employeurs visées à l'article 3 de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires;
+
+2° les organisations syndicales représentatives visées à la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités;
+
+3° les organisations syndicales représentatives au sein de l'organe de concertation syndicale désigné pour les administrations, services ou institutions pour lesquels la loi du 19 décembre 1974 réglant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités n'est pas d'application.
+
+L'action de ces organisations ne porte pas atteinte au droit des travailleurs d'agir personnellement, de se joindre à l'action ou d'intervenir à la cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 157, 036; En vigueur : 01-07-2025&gt;
+
+### Section 2. - [<sup>1</sup> Régime particulier en cas d'occupation d'un ressortissant d'un pays tiers en séjour illégal]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-02-11/13, art. 20, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/7
+
+[<sup>1</sup> Pour l'application de la présente section, on entend par :
+
+1° ressortissant d'un pays tiers : toute personne qui n'est ni un citoyen de l'Union au sens de l'article 17, § 1, du Traité instituant la Communauté européenne, ni une personne jouissant du droit communautaire à la libre circulation, telle que définie à l'article 2, point 5, du Code frontières Schengen;
+
+2° séjour illégal : la présence sur le territoire d'un étranger qui ne remplit pas ou ne remplit plus les conditions d'accès au territoire ou de séjour;
+
+3° donneur d'ordre : toute personne physique ou morale qui donne ordre, pour un prix, d'exécuter ou de faire exécuter des activités;
+
+4° entrepreneur : toute personne physique ou morale qui s'engage à exécuter ou à faire exécuter, pour un prix, des activités pour un donneur d'ordre;
+
+5° entrepreneur principal : l'entrepreneur qui, en cas d'existence d'une chaîne de sous-traitants, n'est pas un entrepreneur intermédiaire;
+
+6° entrepreneur intermédiaire : chaque sous-traitant par rapport aux sous-traitants suivants;
+
+7° sous-traitant : toute personne physique ou morale qui s'engage soit directement, soit indirectement, à quelque stade que ce soit, à exécuter ou à faire exécute pour un prix une activité ou une partie d'activité confiée à l'entrepreneur;
+
+8° inspection : les inspecteurs sociaux visés à l'article 17 du Code pénal social;
+
+9° employeur signalé : l'entrepreneur employeur ou le sous-traitant employeur, concerné par la notification écrite visée à l'article 49/2 du Code pénal social;
+
+10° rémunération encore due : la rémunération qui est due au ressortissant d'un pays tiers en séjour illégal par son employeur mais qui n'a pas encore été payée par cet employeur, à l'exception des indemnités auxquelles ce ressortissant d'un pays tiers en séjour illégal a droit en raison de la rupture du contrat de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-02-11/13, art. 21, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/8
+
+[<sup>1</sup> Par dérogation aux sections 1re, 1re/1 et 1re/2 du présent chapitre, la responsabilité solidaire en cas d'occupation d'un ressortissant d'un pays tiers en séjour illégal en Belgique est régie par la présente section.
+
+Les articles 5.160 à 5.165 du Code civil sont d'application à la responsabilité solidaire visée par la présente section.
+
+Pour l'application des articles 3 à 6, 10, 13 à 15, 16, 18 et 23 de la présente loi, le responsable solidaire est assimilé à l'employeur.
+
+La taxe postale ou bancaire ne peut être déduite de la rémunération encore due par le responsable solidaire au sens de la présente section.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/19, art. 158, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/9
+
+[<sup>1</sup> L'entrepreneur, en l'absence de chaîne de sous-traitants, ou l'entrepreneur intermédiaire, en cas d'existence d'une telle chaîne, sont solidairement responsables du paiement de la rémunération encore due par leur sous-traitant direct.
+
+Par dérogation à l'alinéa 1er, l'entrepreneur et l'entrepreneur intermédiaire ne sont pas solidairement responsables s'ils sont en possession d'une déclaration écrite dans laquelle leur sous-traitant direct certifie qu'il n'occupe pas et n'occupera pas de ressortissant d'un pays tiers en séjour illégal.
+
+Par dérogation à l'alinéa 2, l'entrepreneur et l'entrepreneur intermédiaire sont solidairement responsables à partir du moment où ils ont connaissance du fait que leur sous-traitant direct occupe un ou plusieurs ressortissants d'un pays tiers en séjour illégal. La preuve de cette connaissance peut être la notification visée à l'article 49/2 du Code pénal social.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-02-11/13, art. 23, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/10
+
+[<sup>1</sup> En cas d'existence d'une chaîne de sous-traitants, l'entrepreneur principal et l'entrepreneur intermédiaire, qui ont connaissance du fait que leur sous-traitant indirect occupe un ou plusieurs ressortissants d'un pays tiers en séjour illégal, sont solidairement responsables du paiement de la rémunération encore due par ce sous-traitant indirect et qui concerne les prestations de travail effectuées à leur bénéfice à partir d'une telle connaissance. La preuve de cette connaissance peut être la notification visée à l'article 49/2 du Code pénal social.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-02-11/13, art. 24, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/11
+
+[<sup>1</sup> § 1er. Le donneur d'ordre qui a connaissance du fait que son entrepreneur occupe un ou plusieurs ressortissants d'un pays tiers en séjour illégal, en l'absence d'une relation de sous-traitance, est solidairement responsable du paiement de la rémunération encore due par son entrepreneur en ce qui concerne les prestations de travail effectuées, à partir d'une telle connaissance dans le cadre du contrat qu'il a conclu avec cet entrepreneur. La preuve de cette connaissance peut être la notification visée à l'article 49/2 du Code pénal social.
+
+Le donneur d'ordre qui a connaissance du fait que le sous-traitant intervenant directement ou indirectement après son entrepreneur occupe un ou plusieurs ressortissants d'un pays tiers en séjour illégal, est, en cas d'existence d'une relation de sous-traitance, solidairement responsable du paiement de la rémunération encore due par ce sous-traitant en ce qui concerne les prestations de travail effectuées, à son bénéfice, à partir d'une telle connaissance. La preuve de cette connaissance peut être la notification visée à l'article 49/2 du Code pénal social.
+
+§ 2. Le paragraphe 1er ne s'applique pas au donneur d'ordre personne physique qui fait effectuer des activités à des fins exclusivement privées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-02-11/13, art. 25, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/12
+
+[<sup>1</sup> L'employeur signalé affiche une copie de la notification écrite visée à l'article 49/2 du Code pénal social, au lieu visé à l'article 49/2, alinéa 4, 3°.
+
+Le responsable solidaire visé par les articles 35/9 à 35/11 affiche au lieu visé à l'article 49/2, alinéa 4, 3°, du même Code une copie de la notification reçue si l'employeur signalé n'a pas effectué l'affichage visé au même alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-02-11/13, art. 26, 023; En vigueur : 04-03-2013&gt;
+
+#### Art. 35/13
+
+[<sup>1</sup> Peuvent ester en justice dans les litiges auxquels l'application de la présente section peut donner lieu pour la défense des droits d'un ressortissant de pays tiers en séjour illégal en Belgique qui y est ou qui y était occupé :
+
+1° les organisations représentatives des travailleurs et les organisations représentatives des employeurs visées à l'article 3 de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires;
+
+2° les organisations représentatives visées par la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités;
+
+3° les organisations syndicales représentatives au sein de l'organe de concertation syndicale désigné pour les administrations, services ou institutions pour lesquels la loi du 19 décembre 1974 réglant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités n'est pas d'application;
+
+4° le [<sup>2</sup> Centre interfédéral pour l'égalité des chances et la lutte contre le racisme et les discriminations]<sup>2</sup> , ainsi que tout établissement d'utilité publique et toute association déterminés par le Roi visés par ou en vertu de l'article 8, alinéa 1er, 4°, de la loi du 11 février 2013 prévoyant des sanctions et des mesures à l'encontre des employeurs de ressortissants de pays tiers en séjour illégal.
+
+L'action de ces organisations, établissements d'utilité publique et associations ne porte pas atteinte au droit du ressortissant d'un pays tiers en séjour illégal d'agir personnellement, de se joindre à l'action ou d'intervenir à la cause.
+
+Les organisations, établissements d'utilité publique et associations visées à l'alinéa 1er peuvent agir sans autorisation quelconque du ressortissant d'un pays tiers en séjour illégal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-02-11/13, art. 27, 023; En vigueur : 04-03-2013&gt;
+
+(2)&lt;L 2013-08-17/43, art. 10, 024; En vigueur : 15-03-2014&gt;
+
+### Section 3. [<sup>1</sup> - Banque de données en vue de contrôler les dettes salariales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 159, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/14.
+
+[<sup>1</sup> Pour l'application de la présente section, on entend par:
+
+1° activités dans le secteur du déménagement: les activités définies à l'article 4/2, alinéas 1er, 2 et 3, de l'arrêté royal du 22 janvier 2010 instituant des Sous-commissions paritaires du transport et de la logistique et fixant leur dénomination et leur compétence ainsi que les activités exercées dans le cadre des activités précitées avec des appareils de levage ou de manutention de toute nature;
+
+2° donneur d'ordre: quiconque donne à un entrepreneur ordre d'exécuter ou de faire exécuter des activités pour un prix;
+
+3° entrepreneur: quiconque s'engage directement envers un donneur d'ordre à exécuter ou à faire exécuter, pour un prix, des activités au bénéfice de ce donneur d'ordre;
+
+4° entrepreneur intermédiaire: chaque sous-traitant par rapport au sous-traitant succédant immédiatement après lui;
+
+5° sous-traitant: quiconque s'engage directement, à quelque stade que ce soit, envers, selon le cas, l'entrepreneur ou l'entrepreneur intermédiaire, à exécuter ou à faire exécuter pour un prix des activités confiées audit entrepreneur ou entrepreneur intermédiaire;
+
+6° rémunération due: la rémunération au sens de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs due au travailleur, mais qui n'a pas encore été payée, ni par son employeur, ni par celui qui est tenu de la payer pour le compte de cet employeur, à l'exception des indemnités auxquelles le travailleur a droit à la suite de la rupture de son contrat de travail;
+
+7° Banque de données dettes salariales: la base de données créée au sein du Service public Fédéral Emploi, Travail et Concertation sociale pour permettre aux donneurs d'ordre, aux entrepreneurs et aux entrepreneurs intermédiaires dans une chaîne de sous-traitance de vérifier si les entrepreneurs et les sous-traitants auxquels ils font appel pour effectuer des activités dans le secteur du déménagement, respectent leur obligation de payer à temps à leurs travailleurs les rémunérations auxquelles ils ont droit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 160, 036; En vigueur : 01-07-2025&gt;
+
+#### Art. 35/15.
+
+[<sup>1</sup> § 1er. Une banque de données dettes salariales est créée par le Service public fédéral Emploi, Travail et Concertation sociale auprès de la Direction Générale Contrôle des lois sociales.
+
+§ 2. La banque de données dettes salariales mentionne:
+
+\- les données d'identification des entreprises effectuant des activités des activités dans le secteur du déménagement et pour lesquelles une ou plusieurs infractions récentes concernant le non-paiement de la rémunération due ont été constatées lors d'une enquête, dans le chef de ces entreprises, par les inspecteurs sociaux de la Direction générale Contrôle des lois sociales au moyen d'un procès-verbal constatant une infraction, visé à l'article 64 du Code pénal social, et
+
+\- le cas échéant, en cas de recours introduit contre une décision judiciaire condamnant l'entreprise ou contre une décision infligeant une amende administrative à l'entreprise, à la suite du procès-verbal visé au premier tiret, l'existence d'un tel recours.
+
+Les données d'identification visées à l'alinéa 1er sont les suivantes:
+
+\- lorsqu'il s'agit d'une entité enregistrée auprès de la Banque-Carrefour des Entreprises, son numéro d'entreprise;
+
+\- lorsqu'il s'agit d'une entreprise étrangère qui n'est pas enregistrée auprès de la Banque-Carrefour des Entreprises, le numéro d'identification du pays d'origine ou, à défaut, le nom de l'entreprise, sa forme juridique et son adresse.
+
+Le Roi détermine ce qu'il faut entendre par infraction récente au sens du présent paragraphe sans toutefois qu'une telle infraction puisse concerner des faits antérieurs à la date d'entrée en vigueur de la présente section.
+
+L'enregistrement des données visées à l'alinéa 1er a pour finalité, d'une part, de permettre l'application correcte de la responsabilité solidaire et des retenues sur factures visées à l'article 35/6/8 et d'autre part, la consultation visée au paragraphe 3 du présent article.
+
+§ 3. La banque de données dettes salariales est seulement consultable par les personnes morales ou physiques qui font effectuer ou envisagent de faire effectuer par un contractant des activités dans le secteur du déménagement ou qui, du fait de l'intervention d'un sous-traitant aux fins d'exécution des activités précitées et qui n'est pas leur contractant direct, sont susceptibles de voir engagée leur responsabilité solidaire au sens de l'article 35/6/8. Une telle consultation vise à informer les personnes morales ou physiques précitées d'une part, de ce que l'entreprise mentionnée dans la banque de données dettes salariales, avec qui elles ont conclu ou envisagent de conclure une convention d'entreprise en vue de l'exécution de pareilles activités ou qui intervient en tant que sous-traitant indirect aux fins d'exécution des mêmes activités, ne respecte pas les conditions de rémunération applicables en Belgique et, d'autre part, du risque, pour ces mêmes personnes morales ou physiques, de voir leur responsabilité solidaire au sens de l'article 35/6/8 engagée en raison de pareille mention.
+
+Le Roi peut prévoir des conditions spécifiques auxquelles est soumise la consultation de la banque de données dettes salariales.
+
+Chaque entreprise consultant la banque de données dettes salariales est responsable du traitement qu'elle effectue à chaque consultation dans cette banque de données dettes salariales. Elle doit pouvoir justifier cette consultation qui concerne une autre entreprise dans le respect de la législation relative à la protection des données et pour les finalités mentionnées à l'alinéa 1er.
+
+L'utilisation de cette banque de données dettes salariales est subordonnée au respect de la politique d'utilisation de la banque de données dettes salariales.
+
+A des fins probatoires, l'entreprise consultant la banque de données dettes salariales se voit attribuer un login. Ces données de connexion sont enregistrées dans ladite banque de données dettes salariales et y sont conservées pendant une durée de cinq ans à compter de leur introduction.
+
+Par dérogation à l'alinéa 1er, la banque de données dettes salariales n'est pas consultable par la personne physique qui fait effectuer ou envisage de faire effectuer des activités dans le secteur du déménagement à des fins exclusivement privées.
+
+§ 4. Les données d'identification, visées au paragraphe 2, sont introduites dans la banque de données dettes salariales par les inspecteurs sociaux de la Direction générale Contrôle des lois sociales conformément aux modalités déterminées par le Roi.
+
+Sans préjudice de la suppression effectuée par les inspecteurs sociaux de la Direction générale Contrôle des lois sociales conformément au paragraphe 7 et au regard des finalités visées au paragraphe 3, les données d'identification visées au même paragraphe 2 sont conservées dans la banque de données dettes salariales pendant une durée maximale de cinq ans à compter de leur introduction.
+
+§ 5. L'entreprise, dont les données d'identification figurent dans la banque de données dettes salariales visée au paragraphe 2, en est informée par écrit par les inspecteurs sociaux de la Direction générale Contrôle des lois sociales.
+
+§ 6. L'entreprise, dont les données d'identification visées au paragraphe 2 ont été introduites dans la banque de données dettes salariales et qui, en tant qu'entrepreneur au sens de la présente loi, accomplit des activités dans le secteur du déménagement, informe ses travailleurs de pareille introduction et communique sans délai à ces derniers, par écrit ou par voie électronique, une liste comprenant les données d'identification du donneur d'ordre au bénéfice de qui sont effectuées de telles activités.
+
+L'entreprise, dont les données d'identification visées au paragraphe 2 ont été introduites dans la banque de données dettes salariales et qui accomplit, en tant que sous-traitant direct ou indirect, des activités dans le secteur du déménagement, informe ses travailleurs de pareille introduction et communique sans délai à ces derniers, par écrit ou par voie électronique, une liste comprenant les données d'identification du donneur d'ordres et de l'entrepreneur concernés par l'exécution de telles activités, ainsi que, le cas échéant, de tout autre sous-traitant intervenant éventuellement avant elle dans la chaîne de sous-traitance en vue de l'exécution de ces mêmes activités.
+
+Les données d'identification des contractants à mentionner dans la liste visée aux alinéas 1er et 2, sont les suivantes:
+
+\- si lesdits contractants sont des personnes morales, leur dénomination et l'adresse de leur siège statutaire;
+
+\- si lesdits contractants sont des personnes physiques, leur nom et prénom et leur adresse physique.
+
+L'entreprise visée aux alinéas 1er et 2 fait contresigner par ses travailleurs un accusé de réception confirmant la communication de la liste mentionnée dans ces mêmes alinéas.
+
+§ 7. A la demande d'une entreprise visée au paragraphe 2, les inspecteurs sociaux de la Direction générale Contrôle des lois sociales procèdent à la suppression, dans la banque de données dettes salariales visée par le présent article, des données d'identification la concernant, dans les hypothèses et selon les modalités suivantes:
+
+\- ladite entreprise fournit aux inspecteurs sociaux de la Direction générale Contrôle des lois sociales la preuve du paiement de la rémunération due dans un délai de 10 jours suivant la date d'introduction des données d'identification dans la banque de données dettes salariales mais au plus tard avant le vingtième jour du mois en cours. En pareil cas, les inspecteurs sociaux de la Direction générale Contrôle des lois sociales procèdent à la suppression des données d'identification dans la banque de données dettes salariales le premier jour du mois suivant celui où la preuve de paiement précitée a été fournie par l'entreprise;
+
+\- ladite entreprise fournit aux inspecteurs sociaux de la Direction générale Contrôle des lois sociales la preuve du paiement de la rémunération due après le délai mentionné au premier tiret ou à partir du vingtième jour du mois en cours. En pareil cas, les inspecteurs sociaux de la Direction générale Contrôle des lois sociales procèdent à la suppression des données d'identification dans la banque de données dettes salariales le premier jour du deuxième mois suivant celui où la preuve de paiement précitée a été fournie par l'entreprise.
+
+Le Roi détermine les modalités de communication de la demande visée à l'alinéa 1er.
+
+A la demande d'une entreprise visée au paragraphe 2, les inspecteurs sociaux de la Direction générale Contrôle des lois sociales procèdent à la rectification, dans la banque de données dettes salariales visée par le présent article, des données d'identification la concernant, dans les conditions et selon les modalités déterminées par le Roi.
+
+§ 8. Le Service public fédéral Emploi, Travail et Concertation sociale est responsable du traitement pour ce qui concerne la gestion de la banque de données dettes salariales. La gestion de la banque de données dettes salariales implique la collecte, l'enregistrement, la diffusion, la rectification, l'archivage et la suppression des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/19, art. 161, 036; En vigueur : 01-07-2025&gt;
+
+## CHAPITRE VII. - Surveillance.
+
+#### Art. 36
+
+Les employeurs, à l'exclusion des personnes visées à l'article 1er, alinéa 2, 2°, doivent se conformer aux dispositions des arrêtés pris en exécution de (l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux). &lt;L 1998-02-13/32, art. 59, 009; En vigueur : 01-03-1998&gt;
+
+Le Roi peut rendre applicables en tout ou en partie, les dispositions de (l'arrêté royal n° 5 du 23 octobre 1978 précité) et de ses arrêtés d'exécution aux personnes visées à l'article 1er, alinéa 2, 2°. &lt;L 1998-02-13/32, art. 59, 009; En vigueur : 01-03-1998&gt;
+
+#### Art. 37
+
+[<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 47, 021; En vigueur : 01-07-2011&gt;
+
+#### Art. 38
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 021; En vigueur : 01-07-2011&gt;
+
+#### Art. 39
+
+(abrogé) &lt;L 1989-12-22/31, art. 205, 004; En vigueur : 09-01-1990&gt;
+
+#### Art. 40
+
+(abrogé) &lt;L 1989-12-22/31, art. 205, 004; En vigueur : 09-01-1990&gt;
+
+#### Art. 41
+
+Seront saisis par les vérificateurs des poids et mesures et seront confisqués et détruits, les faux poids, fausses mesures et faux appareils quelconques de pesage ou de mesurage, ainsi que les poids, mesures et appareils non conformes à la présente loi.
+
+Seront saisis par les agents de vérification ou de surveillance et restitués après jugement, les instruments qui ne présenteraient d'autres irrégularités que d'être dépourvus des empreintes de la vérification.
+
+## CHAPITRE VIII. - Dispositions pénales
+
+#### Art. 42
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 021; En vigueur : 01-07-2011&gt;
+
+#### Art. 43
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 021; En vigueur : 01-07-2011&gt;
+
+#### Art. 44
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 021; En vigueur : 01-07-2011&gt;
+
+#### Art. 45
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 021; En vigueur : 01-07-2011&gt;
+
+#### Art. 46
+
+[<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 109, 021; En vigueur : 01-07-2011&gt;
+
+## CHAPITRE IX. \_ Dispositions générales.
+
+#### Art. 47
+
+La nullité du contrat ne peut être opposée aux droits à la rémunération qui découlent de prestations de travail:
+
+1° en vertu d'un contrat frappé de nullité du chef d'infraction aux dispositions ayant pour objet la réglementation des relations du travail;
+
+2° dans des salles de jeu;
+
+[<sup>1</sup> 3° d'un travailleur qui se prostitue.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-02-21/06, art. 3, 033; En vigueur : 31-03-2022&gt;
+
+#### Art. 47bis
+
+[<sup>1</sup> La rémunération est considérée comme n'étant pas payée lorsqu'elle l'a été en violation des dispositions des articles 4 à 6, 11, alinéas 2 et 3, 13, 14, 16 et 17 et des arrêtés pris en exécution de ces dispositions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 10, 021; En vigueur : 01-07-2011&gt;
+
+#### Art. 47ter
+
+[<sup>1</sup> (Contenu de l'ancien art. 47bis.) &lt;L 16-3-1971, art. 61&gt; Conformément à l'article 119 du Traité instituant la Communauté économique européenne, approuvé par la loi du 2 décembre 1957, tout travailleur peut intenter auprès de la juridiction compétente, une action tendant à faire appliquer le principe de l'égalité des rémunérations entre travailleurs masculins et travailleurs féminins.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-06-06/06, art. 10, 021; En vigueur : 01-07-2011&gt;
+
+#### Art. 48
+
+La disposition de l'article 3 de la présente loi ne porte pas préjudice aux dispositions de l'article 6 de la loi du 27 novembre 1891 pour la répression du vagabondage et de la mendicité.
+
+#### Art. 49
+
+&lt;disposition modificative&gt;.
+
+#### Art. 50
+
+&lt;disposition modificative&gt;.
+
+#### Art. 51
+
+&lt;disposition modificative&gt;.
+
+#### Art. 52
+
+&lt;disposition modificative&gt;.
+
+#### Art. 53
+
+Le Roi peut modifier les dispositions légales existantes afin de mettre leur texte en concordance avec les dispositions de la présente loi.
+
+#### Art. 54
+
+Sont abrogés:
+
+1° la loi du 16 août 1887 portant réglementation du paiement de la rémunération des travailleurs engagés dans les liens d'un contrat de louage de travail,modifiée par les lois des 17 juin 1896,7 juillet 1936 et 22 mars 1940,par l'arrêté-loi du 20 septembre 1945,par la loi du 22 juin 1953 et par l'arrêté royal du 13 octobre 1953;
+
+2° &lt;Disposition abrogatoire.&gt;
+
+3° la loi du 11 avril 1896 prise en exécution de la loi du 16 août 1887 portant réglementation du paiement des salaires des ouvriers;
+
+4° &lt;Disposition abrogatoire.&gt;
+
+5° la loi du 30 juillet 1901 réglementant la mesurage du travail des ouvriers,modifiée par l'arrêté royal du 15 janvier 1954;
+
+6° la loi du 21 ventôse an IX.
+
+#### Art. 55
+
+(.....) &lt;L 21-11-1969/8, art. 70.&gt;
+
+#### Art. 56
+
+La présente loi entre en vigueur le premier jour du quatrième mois qui suit celui au cours duquel elle a été publiée au Moniteur belge.
+
+Toutefois, les dispositions des chapitres V et VI ne sont pas applicables aux cessions ayant date certaine avant la publication de la présente loi.
