@@ -1,0 +1,95 @@
+---
+title: "Décret relatif aux seuils d'âge dans l'enseignement universitaire"
+identifier: "2013029084"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/20/2013029084/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2012-12-20
+published: 2013-02-01
+entry_into_force: 2012-09-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/20/2013029084/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 20 DECEMBRE 2012. - Décret relatif aux seuils d'âge dans l'enseignement universitaire
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+L'article 1er de l'arrêté royal du 21 avril 1965 portant statut pécuniaire du personnel scientifique de l'Etat, tel que remplacé par l'arrêté royal du 30 juillet 1976, est complété par l'alinéa suivant :
+
+" L'alinéa précédent ne s'applique pas à l'agent entré en fonction postérieurement au 31 août 2009 ou qui, en fonction antérieurement, n'a pas atteint l'âge de 24 ans à cette même date. ".
+
+## Art. 2
+
+L'article 5 du même arrêté royal est complété par l'alinéa suivant :
+
+" L'alinéa précédent ne s'applique pas à l'agent entré en fonction postérieurement au 31 août 2009 ou qui, en fonction antérieurement, n'a pas atteint l'âge de 24 ans à cette même date. " .
+
+## Art. 3
+
+A l'article 7 du même arrêté royal, tel que modifié en dernier lieu par l'arrêté du Gouvernement de la Communauté française du 25 mai 1995, l'alinéa 1er est complété par les points suivants :
+
+" 4° l'ancienneté scientifique, telle que visée sous 1°, que l'agent a acquise avant l'âge de 24 ans pour autant que celui-ci soit entré en fonction postérieurement au 31 août 2009 ou qui, en fonction antérieurement, n'a pas atteint l'âge de 24 ans à cette même date;
+
+5° les services effectifs visés sous 2° et 3° que l'agent a prestés avant l'âge de 24 ans pour autant que celui-ci soit entré en fonction postérieurement au 31 août 2009 ou qui, en fonction antérieurement, n'a pas atteint l'âge de 24 ans à cette même date. ".
+
+## Art. 4
+
+L'article 7 de l'arrêté royal du 5 novembre 1971 fixant le statut pécuniaire du personnel de direction et attaché, du personnel administratif, personnel adjoint à la recherche, personnel de gestion, puéricultrices, surveillants des travaux et dessinateurs, du personnel paramédical et du personnel spécialisé des universités et faculté universitaire de la Communauté française est complété par l'alinéa suivant :
+
+" L'alinéa précédent ne s'applique pas à l'agent entré en fonction postérieurement au 31 août 2009 ou qui, en fonction antérieurement, n'a pas atteint le seuil d'âge de son échelle à cette même date. ".
+
+## Art. 5
+
+L'article 9 du même arrêté royal est complété par l'alinéa suivant :
+
+" L'alinéa précédent ne s'applique pas à l'agent entré en fonction postérieurement au 31 août 2009 ou qui, en fonction antérieurement, n'a pas atteint le seuil d'âge de son échelle à cette même date. ".
+
+## Art. 6
+
+L'article 13 du même arrêté royal est complété par l'alinéa suivant :
+
+" Sont admissibles les services effectifs repris aux alinéas 1 et 3, accomplis avant les seuils d'âge visés à l'alinéa 1er, prestés par l'agent entré en fonction postérieurement au 31 août 2009 ou qui, en fonction antérieurement, n'a pas atteint le seuil d'âge de son échelle à cette même date. " .
+
+## Art. 7
+
+Le présent décret produit ses effets le 1er septembre 2012.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 20 décembre 2012.
+
+Le Ministre-Président du Gouvernement de la Communauté française,
+
+R. DEMOTTE
+
+Le Vice-Président et Ministre de l'Enfance, de la Recherche et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Vice-Président et Ministre du Budget, des Finances et des Sports,
+
+A. ANTOINE
+
+Le Vice-Président et Ministre de l'Enseignement supérieur,
+
+J.-Cl. MARCOURT
+
+La Ministre de la Jeunesse,
+
+Mme E. HUYTEBROECK
+
+La Ministre de la Culture, de l'Audiovisuel, de la Santé et de l'Egalité des chances,
+
+Mme F. LAANAN
+
+La Ministre de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M.-D. SIMONET

@@ -1,0 +1,2811 @@
+---
+title: "Décret relatif au soutien au cinéma et à la création audiovisuelle"
+identifier: "2011029587"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/10/2011029587/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2011-11-10
+published: 2011-12-09
+entry_into_force: 2012-01-01
+last_amended: 2026-02-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/10/2011029587/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 09-12-2011 et mise à jour au 20-02-2026"
+retrieved: 2026-10-12
+---
+
+# 10 NOVEMBRE 2011. - Décret relatif au soutien au cinéma et à la création audiovisuelle
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## 1\. - TITRE Ier. - GENERALITES
+
+### 1.1. - CHAPITRE Ier. - Définitions
+
+###### Art. 1er
+
+[<sup>1</sup> Pour l'application du présent décret, il faut entendre par :
+
+1° Animation : oeuvre audiovisuelle qui répond cumulativement aux conditions suivantes :
+
+\- être une création de l'imagination même si elle vise à retransmettre une réalité;
+
+\- être une oeuvre mise en scène dont la production fait appel à un story-board, y compris pour des parties de tournages laissant une place à l'improvisation;
+
+\- intégrer principalement dans son processus de fabrication la technique de prise de vues image par image, tout en visant à créer le mouvement. Les procédés usuels sont : le dessin animé, la manipulation d'objet 2D, l'animation en volume, l'image de synthèse (2D, 3D);
+
+2° Court-métrage : fiction ou animation dont la destination est en priorité la diffusion dans le circuit des salles de cinéma et dont la durée est inférieure ou égale à soixante minutes;
+
+3° Distributeur d'oeuvres audiovisuelles : toute personne morale qui répond cumulativement aux critères suivants :
+
+\- dont l'objet social relève en ordre principal du secteur audiovisuel et qui emploie du personnel administratif ou artistique dans le respect de la législation sociale applicable;
+
+\- disposer des droits nécessaires à la distribution d'une oeuvre audiovisuelle sur le territoire considéré;
+
+\- assurer la distribution de l'oeuvre audiovisuelle sur ce territoire;
+
+\- payer les coûts de distribution afférents;
+
+4° Distributeur de services télévisuels : la personne morale qui met à disposition du public un ou des services télévisuels de quelque manière que ce soit et notamment par voie hertzienne terrestre, par satellite ou par le biais d'un réseau de télédistribution. L'offre de services peut comprendre des services édités par la personne elle-même et des services édités par des tiers avec lesquels elle établit des relations contractuelles. Est également considérée comme distributeur de services, toute personne morale qui constitue une offre de services en établissant des relations contractuelles avec d'autres distributeurs;
+
+5° Documentaire de création : oeuvre audiovisuelle qui répond cumulativement aux critères suivants :
+
+\- être une création visant à présenter un élément du réel, en dehors de son traitement qui peut relever de l'animation;
+
+\- avoir un point de vue d'auteur caractérisé par une réflexion approfondie, une maturation du sujet traité, une recherche et une écriture;
+
+\- permettre l'acquisition de connaissances;
+
+\- traiter du sujet en se démarquant nettement d'un programme à vocation strictement informative;
+
+\- avoir un potentiel d'intérêt durable et autre qu'à titre d'archive;
+
+6° Editeur de services télévisuels : la personne physique ou morale qui assume la responsabilité éditoriale du choix du contenu du service télévisuel et qui détermine la manière dont il est organisé.
+
+7° Exploitant de salle(s) de cinéma : la personne morale et disposant d'une exploitation commerciale à écran unique ou à écrans multiples sur un même site et sous une même enseigne, à l'exclusion des salles polyvalentes, des ciné-clubs et des centres culturels. Sont également considérées comme une seule salle de cinéma les exploitations à écran unique ou écrans multiples situées dans des sites différents d'une même ville et qui appartiennent à la même société commerciale d'exploitation ou dont la programmation des salles est assurée par la même organisation.
+
+8° Fiction : oeuvre audiovisuelle qui répond cumulativement aux critères suivants :
+
+\- être une création de l'imagination même si elle vise à retransmettre une réalité;
+
+\- être une oeuvre mise en scène dont la production fait appel à un scénario, y compris pour des tournages laissant une place à l'improvisation et dont la réalisation repose sur la prestation d'artistes-interprètes pour l'essentiel de sa durée;
+
+9° Film d'école : oeuvre audiovisuelle réalisée par un ou plusieurs étudiants inscrits dans une école d'enseignement supérieur artistique ou d'enseignement technique de l'image, de plein exercice;
+
+10° Film Lab : oeuvre audiovisuelle qui, par sa forme ou son contenu, propose une approche incluant le renouvellement ou l'élargissement de l'expression cinématographique et audiovisuelle et qui s'écarte des schémas narratifs traditionnels pour aboutir à une oeuvre hors normes, individuelle ou artisanale;
+
+11° Long métrage : fiction ou animation dont la destination est en priorité la diffusion dans le circuit des salles de cinéma et dont la durée est supérieure à soixante minutes;
+
+12° OEuvre audiovisuelle : un ensemble d'images animées, combinées ou non à du son, à l'exception des catégories suivantes :
+
+\- le programme télévisuel de plateaux, y compris celui qui présente des séquences documentaires ou de fiction;
+
+\- le programme télévisuel de divertissement, y compris celui qui comporte des éléments de scénario, une mise en scène ou un montage ou qui présente une certaine forme de réalité;
+
+\- le programme télévisuel visant à reproduire de manière fictive des programmes de plateaux;
+
+\- le reportage d'actualité;
+
+\- le magazine d'information;
+
+\- la captation simple, sans modification de la scénographie ni montage d'un spectacle vivant dès lors que ce spectacle existe indépendamment du programme télévisuel.
+
+13° OEuvre audiovisuelle d'art et essai : l'oeuvre audiovisuelle qui répond à au moins un des critères suivants :
+
+\- traduire le point de vue d'un auteur envisageant le cinéma comme discipline artistique et privilégiant dans sa démarche d'écriture et de réalisation la fidélité à sa conception de l'oeuvre;
+
+\- présenter un caractère de recherche ou de nouveauté dans le domaine audiovisuel;
+
+\- être récente et avoir concilié les exigences de la critique et la faveur du public et pouvoir être considérée comme apportant une contribution notable pour la création d'oeuvres audiovisuelles.
+
+[<sup>4</sup> 13° /1 OEuvre audiovisuelle d'initiative belge francophone : l'oeuvre audiovisuelle qui répond à la grille de critères culturels, artistiques et techniques déterminée par le Gouvernement selon le type d'oeuvre audiovisuelle. Un programme de courts métrages est considéré comme d'initiative belge francophone si la totalité des courts métrages qui le composent répondent à la condition visée à la première phrase ;]<sup>4</sup>
+
+14° Organisateur de festival de cinéma : la personne morale et programmant des oeuvres audiovisuelles lors d'un événement limité dans le temps et l'espace. La manifestation est caractérisée par l'ampleur du panel d'oeuvres programmées et a pour objectif majeur la diffusion des oeuvres tant auprès du grand public qu'auprès d'un public professionnel, national ou international, dans un souci de développement et de promotion du cinéma en tant que discipline artistique;
+
+15° Participation : apport de tout ou partie de la rémunération d'une partie prenante à l'oeuvre audiovisuelle à son financement;
+
+16° Producteur d'oeuvres audiovisuelles : la personne morale qui répond cumulativement aux critères suivants :
+
+\- dont l'objet social relève en ordre principal du secteur audiovisuel, et qui emploie du personnel administratif ou artistique dans le respect de la législation sociale applicable;
+
+\- rassembler les moyens financiers, le personnel et tous les éléments nécessaires à la réalisation d'une oeuvre audiovisuelle;
+
+\- disposer d'une personnalité juridique distincte de celle d'un éditeur de services;
+
+\- ne pas disposer d'une manière directe ou indirecte de plus de quinze pour cent du capital d'un éditeur de services;
+
+\- ne pas retirer plus de nonante pour cent de son chiffre d'affaires, durant une période de trois ans, de la vente de productions à un même éditeur de services;
+
+\- dont le capital n'est pas détenu directement ou indirectement pour plus de quinze pour cent par un éditeur de services;
+
+\- dont le capital n'est pas détenu pour plus de quinze pour cent par une société qui détient directement ou indirectement plus de quinze pour cent du capital d'un éditeur de services;
+
+[<sup>4</sup> 16° /1 Programme de courts métrages : l'oeuvre audiovisuelle constituée d'un assemblage de courts métrages, avec ou sans transition, d'une durée totale supérieure à soixante minutes. Par dérogation, est également considérée comme un programme de courts métrages l'oeuvre audiovisuelle constituée d'un assemblage de courts métrages, avec ou sans transition, d'une durée totale supérieure à trente minutes et spécifiquement destinée aux enfants de moins de dix ans. ]<sup>4</sup>
+
+17° Série télévisuelle : fiction, animation ou documentaire de création de plusieurs épisodes dont la destination est en priorité la diffusion par un éditeur de services télévisuels;
+
+18° Service télévisuel : un service relevant de la responsabilité éditoriale d'un éditeur de services télévisuels dont l'objet principal est la communication au public de programmes télévisuels par des réseaux de communications électroniques dans le but d'informer, de divertir et d'éduquer ou d'assurer une communication commerciale;
+
+19° Téléfilm : fiction ou animation dont la destination est en priorité la diffusion par un éditeur de services télévisuels,
+
+20° Valorisation : tout apport en matériel et en industrie d'une partie prenante à l'oeuvre audiovisuelle à son financement;]<sup>1</sup>
+
+[<sup>2</sup> 21° Commission d'avis : la Commission du Cinéma;]<sup>2</sup>
+
+[<sup>3</sup> 22° Objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique: les objectifs visés à l'article 1.4.5-2 du Code de l'enseignement fondamental et de l'enseignement secondaire, ainsi que les stratégies, les objectifs, le programme et le calendrier définis dans le plan d'actions visé à l'article 1.4.5-13 du même Code.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 1, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 1, 011; En vigueur : 17-06-2024&gt;
+
+### 1.2. - CHAPITRE II. - Dispositions communes
+
+###### Art. 2
+
+§ 1er. Les aides visées au présent décret sont octroyées dans les limites des crédits budgétaires disponibles de la Communauté française.
+
+§ 2. Le bénéficiaire de l'aide s'engage à utiliser l'aide octroyée conformément aux lois et réglementations applicables, notamment en matière de droits d'auteur et droits voisins ainsi que de droit social et fiscal.
+
+§ 3. En cas d'infraction à la législation visée au § 2, la Communauté française demande la restitution de tout ou partie de l'aide.
+
+###### Art. 3
+
+§ 1er. Ne donnent pas lieu à l'octroi d'une aide au sens du présent décret :
+
+1° les oeuvres audiovisuelles ayant un but publicitaire, scientifique, d'actualité ou didactique à l'exception des oeuvres didactiques à portée artistique ou littéraire;
+
+2° les oeuvres audiovisuelles à caractère pornographique, raciste, celles qui font l'apologie de la violence et celles qui incitent à des violations des droits de l'homme;
+
+3° les oeuvres audiovisuelles commandées par les pouvoirs publics;
+
+4° les oeuvres audiovisuelles d'entreprise.
+
+§ 2. Sans préjudice des dispositions particulières qui y sont relatives, le subventionnement ne pourra pas intervenir au bénéfice des personnes morales ou physiques qui appartiennent à un organisme ou une association dont il est établi par une décision de justice coulée en force de chose jugée qu'ils ne respectent pas les principes de la démocratie tels qu'énoncés par la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, par la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie et par la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation des génocides commis par le régime national-socialiste pendant la seconde guerre mondiale ou toute autre forme de génocide.
+
+###### Art. 4
+
+Le Gouvernement arrête les procédures d'octroi et de liquidation des aides octroyées en application du présent décret.
+
+La liquidation des aides ne pourra se faire qu'au profit de bénéficiaires dont la résidence principale, le siège social ou l'agence permanente est située en région de langue française ou dans la région bilingue de Bruxelles-Capitale.
+
+###### Art. 4/1
+
+[<sup>1</sup> Les aides visées par le présent décret sont soumises au Règlement de la Commission Européenne n° 651/2014 du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, notamment l'article 54.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 2, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 4/2.
+
+[<sup>1</sup> Lorsqu'ils s'adressent à un public scolaire, les projets et activités soutenus en vertu du présent décret se développent en conformité avec les objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+###### Art. 4/3.
+
+[<sup>1</sup> Les actions et activités ainsi que les oeuvres soutenues dans le cadre du présent décret sont, dans la mesure du possible, développées ou créées en langue française et/ou dans une langue régionale endogène reconnue par le décret du 24 décembre 1990 relatif aux langues régionales endogènes de la Communauté française ; si tel n'est pas le cas, elles sont alors accessibles en français (par traduction, sous-titrage, etc.). ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 2, 011; En vigueur : 17-06-2024&gt;
+
+### 2\. -TITRE II. - CENTRE DU CINEMA ET DE L'AUDIOVISUEL
+
+###### Art. 5
+
+[<sup>1</sup> Le Centre du Cinéma et de l'Audiovisuel constitue un Service administratif à Comptabilité autonome au sens de l'article 2, 5° du décret du 20 décembre 2011 portant organisation du budget et de la comptabilité des Services du Gouvernement de la Communauté française.]<sup>1</sup>
+
+Ce service est placé sous l'autorité directe du Ministre qui a [<sup>2</sup> le cinéma]<sup>2</sup> dans ses compétences.
+
+Le Gouvernement fixe le fonctionnement, la gestion financière, budgétaire et comptable du Centre du Cinéma et de l'Audiovisuel.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 2, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 3, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 6
+
+Le Centre du Cinéma et de l'Audiovisuel dispose des ressources suivantes:
+
+1° la dotation annuelle de la Communauté française;
+
+2° la contribution des éditeurs et distributeurs de services télévisuels;
+
+3° les recettes liées à son action;
+
+4° les libéralités faites en sa faveur.
+
+## 3\. - TITRE III. - INSTANCES D'AVIS
+
+###### Art. 7
+
+&lt;Abrogé par DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+## 4\. - TITRE IV. - AIDES A LA CREATION D'OEUVRES AUDIOVISUELLES
+
+### 4.1. - CHAPITRE Ier. - Dispositions générales
+
+###### Art. 8
+
+Après avis de [<sup>3</sup> la Commission d'avis]<sup>3</sup>, le Gouvernement peut octroyer des aides à la création. Ces aides à la création ont pour objet l'écriture, le développement [<sup>5</sup> ...]<sup>5</sup>et la production d'oeuvres audiovisuelles.
+
+Elles se répartissent comme suit :
+
+\- aides à l'écriture qui visent à soutenir l'écriture du scénario de l'oeuvre audiovisuelle;
+
+\- aides au développement qui visent à soutenir l'étape de préparation de l'oeuvre audiovisuelle en amont de sa production [<sup>2</sup> (réécriture, travaux de recherche, préparation du financement, repérages, élaboration d'une stratégie de promotion et de distribution)]<sup>2</sup>;
+
+[<sup>4</sup>[<sup>5</sup> ...]<sup>5</sup>;]<sup>4</sup>
+
+\- aides à la production avant le début des prises de vues qui visent à soutenir la production de l'oeuvre audiovisuelle en tant que telle;
+
+\- aides à la production après le début des prises de vues qui visent à soutenir des activités nécessaires à l'achèvement de l'oeuvre audiovisuelle. Ces aides ne sont accordées qu'aux oeuvres audiovisuelles n'ayant pas bénéficié auparavant d'une aide à la production avant le début des prises de vues [<sup>1</sup> et dont les prises de vues sont terminées]<sup>1</sup> .
+
+Il est requis que les aides à la création soient destinées à la création d'oeuvres audiovisuelles répondant à la définition d'oeuvres d'art et essai visée à l'[<sup>2</sup> article 1er, 13°]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 3, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 4, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(4)&lt;DCFR 2020-07-17/13, art. 3, 005; En vigueur : 28-07-2020&gt;
+
+(5)&lt;DCFR 2023-03-16/01, art. 1, 010; En vigueur : 01-04-2023&gt;
+
+###### Art. 9
+
+Les aides à la création sont octroyées aux oeuvres coproduites [<sup>1</sup> conformément aux règles]<sup>1</sup> de la Convention européenne de coproduction cinématographique, [<sup>1</sup> ou]<sup>1</sup> d'un accord international bilatéral de coproduction d'oeuvres audiovisuelles qui engage la Communauté française.
+
+Si l'oeuvre audiovisuelle n'est pas coproduite dans le cadre [<sup>1</sup> ...]<sup>1</sup> de la Convention européenne de coproduction cinématographique, [<sup>1</sup> ou]<sup>1</sup> d'un accord international bilatéral de coproduction d'oeuvres audiovisuelles qui engage la Communauté française, elle doit remplir au moins trois des critères suivants :
+
+1° le scénario place l'action essentiellement en Belgique, dans un autre Etat membre de l'Espace économique européen ou dans un Etat membre de l'Association européenne de libre-échange;
+
+2° un des personnages principaux au moins a un lien avec la culture belge ou la langue française;
+
+3° le scénario original est essentiellement rédigé en langue française;
+
+4° le scénario est une adaptation d'une oeuvre littéraire originale belge;
+
+5° l'oeuvre audiovisuelle a pour thème principal l'art ou plusieurs artistes;
+
+6° l'oeuvre audiovisuelle porte essentiellement sur des personnages ou des événements historiques;
+
+7° l'oeuvre audiovisuelle aborde principalement des thèmes de société portant sur des aspects actuels, culturels, sociaux ou politiques;
+
+8° l'oeuvre audiovisuelle contribue à valoriser le patrimoine audiovisuel belge ou européen.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 4, 002; En vigueur : 21-08-2013&gt;
+
+###### Art. 10
+
+[<sup>1</sup> Les films d'école répondant à la définition de l'article 1er, 9° ]<sup>1</sup> ne peuvent pas bénéficier d'une aide à la création.
+
+----------
+
+(1)&lt;DCFR 2023-03-16/01, art. 2, 010; En vigueur : 01-04-2023&gt;
+
+###### Art. 11
+
+Le Gouvernement arrête :
+
+1° le formulaire de demande d'aide qui inclut la liste des documents à fournir à l'introduction d'une demande, notamment la note d'intention de l'auteur et du producteur, le traitement ou le scénario, les fiches techniques détaillant les aspects artistiques, techniques et financiers du projet, [<sup>4</sup> la fiche diversité pour les demandes d'aides au développement et à la production des oeuvres audiovisuelles d'initiative belge francophone, la fiche durabilité pour les demandes d'aides à l'écriture, au développement et à la production des oeuvres audiovisuelles d'initiative belge francophone,]<sup>4</sup> le devis et le plan de financement accompagné du guide technique relatif à leur présentation, ainsi qu'un plan de promotion et de diffusion;
+
+2° la liste des documents à produire en fonction du type d'aide sollicité concernant:
+
+a) le respect des droits relatifs à l'oeuvre à produire;
+
+b) le respect des obligations contractuelles relatives aux engagements antérieurs du demandeur vis-à-vis de la Communauté française;
+
+c) l'attestation d'un financement minimum des oeuvres audiovisuelles prévu conformément au présent décret;
+
+3° le support final de production des oeuvres audiovisuelles bénéficiant d'une aide à la création, en fonction du type d'oeuvre audiovisuelle;
+
+4° [<sup>1</sup> les conditions et modalités de la procédure d'agrément visée à l'article 22/1 selon qu'il s'agit de l'agrément provisoire ou de l'agrément définitif ;]<sup>1</sup>
+
+5° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>1</sup> 6° le nombre maximum de dépôts de demandes d'aides devant [<sup>2</sup> la Commission d'avis]<sup>2</sup> pour un même projet et un même type d'aide.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 5, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2023-03-16/01, art. 3, 010; En vigueur : 01-04-2023&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 3, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 12
+
+L'aide octroyée, cumulée avec les autres aides publiques, ne peut être supérieure à cinquante pour cent du budget de l'oeuvre audiovisuelle.
+
+L'alinéa 1er ne s'applique pas aux oeuvres audiovisuelles considérées comme difficiles.
+
+Il faut entendre par oeuvres audiovisuelles difficiles les oeuvres audiovisuelles ayant peu de perspectives commerciales sur le marché national et international, notamment :
+
+1° les courts métrages;
+
+2° les premières et deuxièmes oeuvres audiovisuelles d'un réalisateur;
+
+3° les oeuvres audiovisuelles d'art et essai;
+
+4° les [<sup>1</sup> films lab]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 6, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 13
+
+Le montant des aides octroyées à une oeuvre audiovisuelle sur la base du présent titre doit être intégralement dépensé en Belgique et majoritairement en région de langue française ou en région bilingue de Bruxelles-capitale.
+
+L'obligation visée à l'alinéa 1er est limitée à un montant de quatre-vingt pour cent du budget de l'oeuvre audiovisuelle.
+
+###### Art. 14
+
+Si les services du Gouvernement estiment qu'un dossier émane d'un demandeur qui n'a pas respecté ses engagements antérieurs, notamment en matière de remise des décomptes d'exploitation et de remboursement des avances sur recettes des oeuvres ayant obtenu une aide sur la base du présent décret, ils en avertissent immédiatement le demandeur qui dispose d'un délai de huit jours pour apporter ses commentaires ou compléments d'information.
+
+Si, après avoir pris connaissance de la réponse du demandeur, les services du Gouvernement estiment que les engagements antérieurs n'ont pas été respectés, ils proposent au Ministre ayant [<sup>1</sup> le cinéma]<sup>1</sup> dans ses attributions de déclarer la demande irrecevable.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 3, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 14/1
+
+[<sup>1</sup> L'aide est octroyée à la personne physique ou morale qui en fait la demande. Par dérogation à l'alinéa 1er :
+
+\- le bénéficiaire de l'aide peut, après avis de la Commission d'avis et moyennant l'accord préalable du Ministre ayant le cinéma dans ses attributions, céder la totalité ou une partie du montant de l'aide octroyée à une autre personne physique ou morale qui répond aux conditions requises pour pouvoir déposer une demande d'aide ;
+
+\- la demande d'aide à l'écriture introduite par une personne morale peut préciser que l'aide sera octroyée à l'auteur de l'oeuvre audiovisuelle pour laquelle l'aide est demandée ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 4, 011; En vigueur : 17-06-2024&gt;
+
+### 4.2. - CHAPITRE II. - Aides à l'écriture
+
+###### Art. 15
+
+[<sup>2</sup> Après avis de [<sup>3</sup> la Commission d'avis]<sup>3</sup>, le Gouvernement peut octroyer des aides à l'écriture d'un long métrage, d'un documentaire de création, d'un téléfilm ou d'une série télévisuelle d'animation ou documentaire.]<sup>2</sup>
+
+La nature de l'aide à l'écriture est une subvention et/ou une prise en charge d'un encadrement par un professionnel dont [<sup>1</sup> les montants minimum et maximum]<sup>1</sup> et les modalités d'octroi sont arrêtés par le Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 6, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 7, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+###### Art. 16
+
+[<sup>1</sup> Pour pouvoir bénéficier d'une aide à l'écriture, la demande doit être introduite :
+
+\- pour les aides à l'écriture d'un long métrage [<sup>4</sup> , documentaire de création,]<sup>4</sup> et d'un téléfilm d'animation : par un producteur d'oeuvres audiovisuelles [<sup>2</sup> , qui n'est en aucune manière lié à l'auteur du projet qui fait l'objet de la demande]<sup>2</sup> ou par une personne physique de nationalité belge ou ressortissant d'un Etat membre de l'Espace économique européen qui répond aux conditions déterminées par le Gouvernement. Les ressortissants d'un Etat non membre de l'Espace économique européen et les apatrides ayant la qualité de résident en Belgique [<sup>3</sup> peuvent être assimilés]<sup>3</sup> aux ressortissants d'un Etat membre de l'Espace économique européen;
+
+\- pour les aides à l'écriture d'une série télévisuelle d'animation ou documentaire : par un producteur d'oeuvres audiovisuelles;
+
+\- pour les aides à l'écriture d'un documentaire de création :
+
+a) pour les premiers et deuxièmes documentaires de création : par un producteur d'oeuvres audiovisuelles;
+
+b) pour les troisièmes documentaires de création ou suivants : par un producteur d'oeuvres audiovisuelles ou par une personne physique de nationalité belge ou ressortissant d'un Etat membre de l'Espace économique européen qui répond aux conditions déterminées par le Gouvernement. Les ressortissants d'un Etat non membre de l'Espace économique européen et les apatrides ayant la qualité de résident en Belgique [<sup>3</sup> peuvent être assimilés]<sup>3</sup> aux ressortissants d'un Etat membre de l'Espace économique européen.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 8, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2020-07-17/13, art. 4, 005; En vigueur : 28-07-2020&gt;
+
+(3)&lt;DCFR 2021-07-14/20, art. 1, 006; En vigueur : 01-09-2021&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 5, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 17
+
+[<sup>1</sup> la Commission d'avis]<sup>1</sup> émet un avis motivé sur l'opportunité et la nature de l'aide, conformément au présent chapitre. A cette fin, elle s'appuie sur les critères d'évaluation suivants :
+
+1° le contenu culturel et la qualité artistique du projet;
+
+2° le potentiel de développement du projet sous la forme d'une oeuvre audiovisuelle;
+
+3° l'intérêt culturel du projet pour la Communauté française.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+### 4.3. - CHAPITRE III. - Aides au développement
+
+###### Art. 18
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Après avis de la Commission d'avis, le Gouvernement peut octroyer des aides au développement d'un long métrage ou d'un documentaire de création [<sup>3</sup> selon que l'oeuvre répond ou non à la définition d'oeuvre audiovisuelle d'initiative belge francophone de l'article 1er, 13° /1. ]<sup>3</sup> ]<sup>2</sup>.
+
+§ 2. La nature de l'aide au développement artistique, [<sup>2</sup> ...]<sup>2</sup> de l'aide au développement est une subvention destinée à couvrir les dépenses éligibles dont la liste est arrêtée par le Gouvernement selon le type d'aide au développement.
+
+§ 3. Le Gouvernement arrête les montants minimum et maximum pouvant être octroyés à l'oeuvre audiovisuelle visée à l'alinéa premier suivant le type d'oeuvre audiovisuelle et selon qu'il s'agit d'une première, deuxième ou troisième ou suivante oeuvre audiovisuelle ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2020-07-17/13, art. 5, 005; En vigueur : 28-07-2020&gt;
+
+(2)&lt;DCFR 2023-03-16/01, art. 4, 010; En vigueur : 01-04-2023&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 6, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 19
+
+[<sup>1</sup> § 1er. Pour pouvoir bénéficier d'une aide au développement [<sup>2</sup> ...]<sup>2</sup> d'un long métrage:
+
+1° la demande d'aide doit être introduite par un producteur d'oeuvres audiovisuelles constitué sous la forme d'une société énumérée à l'article 1:5, § 2 du Code des sociétés et des Associations;
+
+2° le producteur doit s'engager à apporter au minimum trente pour cent du montant de l'aide octroyée dont au minimum quinze pour cent d'apport en numéraire, hors participations et valorisations.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. Pour pouvoir bénéficier d'une aide au développement d'un documentaire de création:
+
+1° la demande d'aide doit être introduite par un producteur d'oeuvres audiovisuelles;
+
+2° le producteur doit s'engager à apporter au minimum trente pour cent du montant de l'aide octroyée dont au minimum quinze pour cent d'apport en numéraire, hors participations et valorisations ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2020-07-17/13, art. 6, 005; En vigueur : 28-07-2020&gt;
+
+(2)&lt;DCFR 2023-03-16/01, art. 5, 010; En vigueur : 01-04-2023&gt;
+
+###### Art. 20
+
+[<sup>1</sup> la Commission d'avis]<sup>1</sup> émet un avis motivé sur l'opportunité de l'aide, conformément au présent chapitre. A cette fin, elle s'appuie sur les critères d'évaluation suivants :
+
+1° le contenu culturel et la qualité artistique du projet;
+
+2° l'intérêt culturel du projet pour la Communauté française;
+
+3° la pertinence du dossier, en ce compris le budget et le plan de financement de l'oeuvre audiovisuelle.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+###### Art. 21
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 11, 003; En vigueur : 13-04-2017&gt;
+
+### 4.4. - CHAPITRE IV. - Aides à la production
+
+###### Art. 22
+
+[<sup>1</sup> § 1er. Après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup>, le Gouvernement peut octroyer des aides à la production d'une oeuvre audiovisuelle soit avant le début des prises de vues, soit après le début des prises de vues [<sup>3</sup> selon que l'oeuvre répond ou non à la définition d'oeuvre audiovisuelle d'initiative belge francophone de l'article 1er, 13° /1. ]<sup>3</sup>.
+
+§ 2. Les aides à la production attribuées avant le début des prises de vues peuvent être octroyées aux longs métrages, aux courts-métrages, aux documentaires de création, aux films lab, aux téléfilms et aux séries télévisuelles.
+
+Les aides à la production attribuées après le début des prises de vues ne peuvent être octroyées qu'aux longs métrages, aux courts-métrages, aux documentaires de création et aux films lab.
+
+§ 3. La nature des aides à la production est une avance sur recettes, à l'exception des aides destinées aux films lab dont la nature est une subvention.
+
+§ 4. Le Gouvernement arrête les montants minimum et maximum pouvant être octroyés à l'oeuvre audiovisuelle visée au paragraphe 1er selon qu'il s'agit d'une première, deuxième ou suivante oeuvre audiovisuelle.
+
+§ 5. Le montant de l'aide à la production ne peut excéder cinquante pour cent du budget global du documentaire de création.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 12, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 6, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 22/1
+
+[<sup>1</sup> Les aides à la production [<sup>3</sup> , à l'exception de celles qui sont octroyées aux films Lab, ]<sup>3</sup> sont soumises à une procédure d'agrément ayant pour objet de vérifier la viabilité technique et financière du projet d'oeuvre audiovisuelle et la conformité des données du dossier d'agrément par rapport au dossier soumis à [<sup>2</sup> la Commission d'avis]<sup>2</sup>.
+
+La procédure d'agrément se déroule en deux phases : l'agrément provisoire et l'agrément définitif.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 13, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 7, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 23
+
+Le Gouvernement arrête les conditions et modalités de remboursement de l'avance sur recettes octroyée sur la base du présent chapitre.
+
+###### Art. 24
+
+[<sup>1</sup> Pour pouvoir bénéficier d'une aide à la production, il faut respecter les critères de recevabilité suivants :
+
+1° la demande d'aide à la production doit être introduite par :
+
+\- un producteur d'oeuvres audiovisuelles qui est constitué sous la forme d'une société commerciale énumérée [<sup>5</sup> à l'article 1 :5, § 2, du Code des sociétés et des associations]<sup>5</sup> pour les longs métrages, les séries télévisuelles et les téléfilms;
+
+\- un producteur d'oeuvres audiovisuelles ou par une personne physique de nationalité belge ou ressortissant d'un Etat membre de l'Espace économique européen pour les films lab. Les ressortissants d'un Etat non membre de l'Espace économique européen et les apatrides ayant la qualité de résident en Belgique [<sup>4</sup> peuvent être assimilés]<sup>4</sup> aux ressortissants d'un Etat membre de l'Espace économique européen;
+
+\- un producteur d'oeuvres audiovisuelles pour les courts-métrages et les documentaires de création;
+
+2° le demandeur doit s'engager à respecter le support final de production arrêté par le Gouvernement selon le type d'oeuvre audiovisuelle;
+
+3° a) pour les aides à la production attribuées avant le début des prises de vues et pour les aides à la production attribuées après le début des prises de vues aux courts-métrages de fiction, un seuil de financement doit être acquis préalablement au dépôt de la demande d'aide. Le Gouvernement arrête ledit seuil selon :
+
+\- le type d'oeuvre audiovisuelle;
+
+\- [<sup>7</sup> le caractère d'initiative belge francophone ou non de l'oeuvre audiovisuelle pour laquelle l'aide est demandée]<sup>7</sup>;
+
+\- le budget de l'oeuvre audiovisuelle;
+
+\- que le dossier est examiné pour la première, deuxième ou troisième fois par [<sup>2</sup> la Commission d'avis]<sup>2</sup>.
+
+b) pour les aides à la production attribuées après le début des prises de vues, l'oeuvre audiovisuelle ne peut pas avoir bénéficié antérieurement d'une aide à la production avant le début des prises de vues.]<sup>1</sup>
+
+[<sup>3</sup> 4° [<sup>6</sup> ...]<sup>6</sup>.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 14, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2020-07-17/13, art. 7, 005; En vigueur : 28-07-2020&gt;
+
+(4)&lt;DCFR 2021-07-14/20, art. 1, 006; En vigueur : 01-09-2021&gt;
+
+(5)&lt;DCFR 2021-07-14/20, art. 2, 006; En vigueur : 01-09-2021&gt;
+
+(6)&lt;DCFR 2023-03-16/01, art. 6, 010; En vigueur : 01-04-2023&gt;
+
+(7)&lt;DCFR 2024-04-18/30, art. 8, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 25
+
+[<sup>2</sup> [<sup>3</sup> § 1er]<sup>3</sup> la Commission d'avis]<sup>2</sup> émet un avis motivé sur l'opportunité et le montant de l'aide conformément au présent chapitre. A cette fin, elle s'appuie sur les critères d'évaluation suivants :
+
+1° [<sup>1</sup> les critères culturels, artistiques et techniques du projet;]<sup>1</sup>
+
+2° l'intérêt culturel du projet pour la Communauté française;
+
+3° l'adéquation entre le montant de l'aide demandée et le projet artistique;
+
+4° la pertinence du dossier, en ce compris le budget et le plan de financement de l'oeuvre audiovisuelle.
+
+[<sup>3</sup> § 2.[<sup>4</sup> ...]<sup>4</sup>.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 10, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2020-07-17/13, art. 8, 005; En vigueur : 28-07-2020&gt;
+
+(4)&lt;DCFR 2023-03-16/01, art. 7, 010; En vigueur : 01-04-2023&gt;
+
+###### Art. 26
+
+[<sup>1</sup> En cas de constatation d'une modification substantielle apportée au projet d'oeuvre audiovisuelle dans le cadre de la procédure d'agrément, le Gouvernement peut, après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup>, retirer ou confirmer l'aide initialement allouée.
+
+Le Gouvernement arrête :
+
+\- les cas de modifications substantielles;
+
+\- les modalités de saisine de [<sup>2</sup> la Commission d'avis]<sup>2</sup> et sa composition;
+
+\- les délais de remise d'avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 15, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+###### Art. 27
+
+&lt;Abrogé par DCFR 2023-03-16/01, art. 8, 010; En vigueur : 01-04-2023&gt;
+
+### CHAPITRE IV/1. [<sup>1</sup> Octroi de bonus ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 9, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 27/1.
+
+[<sup>1</sup> Art. 27/1. § 1er. Le Gouvernement octroie un bonus durabilité au producteur d'une oeuvre audiovisuelle d'initiative belge francophone ayant obtenu une aide à la production visée par le présent titre s'il dispose d'un label ou d'une certification de durabilité.
+
+§ 2. Le Gouvernement détermine :
+
+\- le montant du bonus ;
+
+\- les conditions d'octroi du bonus ;
+
+\- les modalités d'octroi du bonus. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 10, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 27/2.
+
+[<sup>1</sup> § 1er. Le Gouvernement octroie un bonus égalité au producteur d'une oeuvre audiovisuelle d'initiative belge francophone ayant obtenu une aide à la production visée par le chapitre IV du présent titre si une attention est apportée à l'égalité entre les femmes et les hommes au sein des équipes.
+
+§ 2. Le Gouvernement détermine :
+
+\- le montant du bonus,
+
+\- les conditions d'octroi du bonus
+
+\- les modalités d'octroi du bonus. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 10, 011; En vigueur : 17-06-2024&gt;
+
+## 5\. - TITRE V [<sup>1</sup> - Aides a la promotion]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+### 5.1. - CHAPITRE Ier. - Dispositions générales
+
+###### Art. 28
+
+[<sup>1</sup> § 1er. Sur la base des conditions d'octroi définies aux chapitres II à IV, le Gouvernement peut octroyer des aides à la promotion d'oeuvres audiovisuelles répondant à la définition d'oeuvres d'art et essai au sens de l'article 1er, 13°.
+
+§ 2. La nature des aides à la promotion est une subvention.
+
+§ 3. [<sup>2</sup> Il existe quatre types d'aides à la promotion :
+
+1° les aides anticipées à la promotion ;
+
+2° les aides à la promotion en festivals ;
+
+3° les aides à l'organisation d'événements en salles ;
+
+4° les aides à la promotion pour la sortie en salles. ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 11, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 29
+
+[<sup>1</sup> Pour pouvoir bénéficier des aides octroyées conformément au présent titre, l'oeuvre audiovisuelle doit remplir les conditions suivantes :
+
+1° soit s'être vu octroyer une aide à la production telle que visée au chapitre IV du titre IV;
+
+2° soit avoir sa version originale en langue française, sauf dérogation [<sup>2</sup> ...]<sup>2</sup> du Gouvernement, sur la base des critères suivants :
+
+a) l'intérêt culturel du projet pour la Communauté française;
+
+b) les spécificités du scénario.
+
+3° disposer d'un numéro d'immatriculation ISAN.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 12, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 30
+
+[<sup>1</sup> Le Gouvernement arrête :
+
+1° le montant maximum pouvant être octroyé pour chaque aide à la promotion en fonction des éléments suivants :
+
+a) le type d'oeuvre audiovisuelle;
+
+b) [<sup>2</sup> le caractère d'initiative belge francophone ou non de l'oeuvre audiovisuelle pour laquelle l'aide est demandée ]<sup>2</sup>
+
+c) la qualité du demandeur pour les aides à la promotion sorties en salles.
+
+2° les mentions de la Communauté française sur tout document de promotion des oeuvres audiovisuelles soutenues;
+
+3° les modalités de liquidation de l'aide;
+
+4° [<sup>3</sup> les conditions dans lesquelles une aide anticipée à la promotion est octroyée et le montant de cette aide ]<sup>3</sup>;
+
+5° le délai d'introduction de la demande d'aide;
+
+6° la liste des lieux de diffusion reconnus;
+
+7° les conditions et modalités de reconnaissance des distributeurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 8, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 13, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 30/1
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+###### Art. 31
+
+[<sup>1</sup> Pour une même oeuvre audiovisuelle, les aides visées au chapitre III ne peuvent être cumulées avec les aides visées au chapitre IV.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+### CHAPITRE I/1. [<sup>1</sup> Aides anticipées à la promotion ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 14, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 31/1.
+
+[<sup>1</sup> § 1er. L'aide anticipée à la promotion vise à soutenir la création d'outils de promotion et la mise en place d'une stratégie de promotion de l'oeuvre audiovisuelle.
+
+§ 2. L'aide anticipée à la promotion peut être octroyée aux courts métrages et aux documentaires de création. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 15, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 31/2.
+
+[<sup>1</sup> La demande d'aide anticipée à la promotion est introduite par le producteur de l'oeuvre audiovisuelle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 15, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 31/3.
+
+[<sup>1</sup> Pour pouvoir bénéficier de l'aide visée au présent chapitre, le court métrage et le documentaire de création doit avoir bénéficié d'une aide à la production telle que visée au chapitre IV du titre IV. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 15, 011; En vigueur : 17-06-2024&gt;
+
+### 5.2. - CHAPITRE II. [<sup>1</sup> - Aides à la promotion en festivals]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+###### Art. 32
+
+[<sup>1</sup> § 1er. L'aide à la promotion en festivals vise à soutenir la promotion d'une oeuvre audiovisuelle [<sup>2</sup> ...]<sup>2</sup> et son rayonnement à l'international.
+
+§ 2. [<sup>2</sup> L'aide à la promotion en festivals peut être octroyée aux oeuvres audiovisuelles d'initiative belge francophone suivantes : courts métrages, longs métrages, documentaires de création, Films Lab et séries télévisuelles]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 16, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 16, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 33
+
+[<sup>1</sup> La demande d'aide à la promotion en festivals est introduite par le producteur de l'oeuvre audiovisuelle.
+
+[<sup>2</sup> Par dérogation à l'alinéa premier, la demande d'aide à la promotion en festivals peut être introduite par son réalisateur en cas d'absence de producteur ou si la demande est relative à un film d'école]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 17, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 34
+
+[<sup>1</sup> § 1er. Pour pouvoir bénéficier de l'aide à la promotion en festivals, les conditions suivantes doivent être remplies :
+
+1° l'oeuvre audiovisuelle a été sélectionnée dans le cadre d'un festival repris dans la liste arrêtée par le Gouvernement;
+
+2° la demande d'aide comporte,[<sup>3</sup> ...]<sup>3</sup> les éléments suivants :
+
+a) la preuve de la sélection officielle de l'oeuvre audiovisuelle en festivals dans le cadre d'un festival faisant partie de la liste visée au 1° ;
+
+b) un plan de promotion;
+
+c) un budget de promotion;
+
+d) la date du premier jour de tournage;
+
+e) [<sup>2</sup> si l'oeuvre audiovisuelle n'a pas obtenu une aide à la création telle que visée au titre IV ; la grille de critères culturels, artistiques et techniques, complétée]<sup>2</sup>;
+
+f) [<sup>4</sup> un lien de visionnage de l'oeuvre audiovisuelle]<sup>4</sup>.
+
+§ 2. Outre les conditions visées au paragraphe premier, pour pouvoir bénéficier de l'aide à la promotion en festivals, la série télévisuelle doit avoir obtenu une aide à la production [<sup>2</sup> telle que visée dans la réglementation relative aux services de médias audiovisuels ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 18, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 19, 011; En vigueur : 17-06-2024&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 20, 011; En vigueur : 17-06-2024&gt;
+
+### CHAPITRE III. [<sup>1</sup> - Aides à l'organisation d'événements en salles]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+###### Art. 35
+
+[<sup>1</sup> § 1er. L'aide à l'organisation d'événements en salles vise à soutenir la promotion et la diffusion d'une oeuvre audiovisuelle [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. [<sup>2</sup> L'aide à l'organisation d'événements en salles peut être octroyée aux oeuvres audiovisuelles d'initiative belge francophone suivantes : longs métrages, documentaires de création d'une durée supérieure à quarante minutes, Films Lab d'une durée supérieure à quarante minutes et programmes de courts métrages ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 21, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 36
+
+[<sup>1</sup> La demande d'aide à l'organisation d'événements en salles est introduite soit par le producteur de l'oeuvre audiovisuelle soit par le distributeur ou la structure de diffusion de l'oeuvre audiovisuelle ayant obtenu une aide telle que visée au titre VI ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 22, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 37
+
+[<sup>1</sup> § 1er. Pour pouvoir bénéficier d'une aide à l'organisation d'événements en salles, les conditions suivantes doivent être remplies :
+
+1° l'oeuvre audiovisuelle a obtenu une aide à la production telle que visée au chapitre IV du titre IV [<sup>4</sup> ou une aide à la promotion en festivals telle que visée au chapitre II du titre V. Pour une demande portant sur un programme de courts métrages, la totalité des courts métrages qui composent le programme doivent respecter l'obligation visée à la première phrase. ]<sup>4</sup>;
+
+2° l'oeuvre audiovisuelle est diffusée, pendant une durée maximale de [<sup>4</sup> dix ]<sup>4</sup> mois, sur un nombre minimum de séances publiques événementielles dans un nombre minimum [<sup>4</sup> salles de cinéma et/ou]<sup>4</sup> de lieux de diffusion reconnus situés sur le territoire de la région de langue française et de la région bilingue de Bruxelles-Capitale. Le Gouvernement arrête lesdits nombres;
+
+3° [<sup>4</sup> la première séance publique événementielle a lieu au plus tard deux mois après la diffusion en clair de l'oeuvre audiovisuelle sur service télévisuel d'un service de médias audiovisuel belge francophone. Pour une demande portant sur un programme de courts métrages, au minimum deux courts métrages doivent respecter l'obligation de diffusion télévisuelle visée à la première phrase ]<sup>4</sup>;
+
+4° la demande d'aide comporte,[<sup>2</sup> ...]<sup>2</sup> les éléments suivants :
+
+a) un descriptif des séances publiques événementielles envisagées;
+
+b) un plan de promotion;
+
+c) un budget de promotion;
+
+d) la date du premier jour de tournage;
+
+e) [<sup>4</sup> si l'oeuvre audiovisuelle n'a pas obtenu une aide à la création telle que visée au titre IV, la grille de critères culturels, artistiques et techniques complétée]<sup>4</sup>;
+
+f) [<sup>3</sup> un lien de visionnage de l'oeuvre audiovisuelle]<sup>3</sup>.
+
+§ 2. [<sup>4</sup> On entend par séance publique événementielle, une séance faisant l'objet d'un événement promotionnel tel que débat, concert, exposition ou tout autre événement similaire, et organisée dans une salle de cinéma et/ou un lieu de diffusion reconnu, sauf dérogation octroyée par le Gouvernement en fonction de la thématique du film et de la pertinence des démarches de diffusion, à l'exclusion des séances organisées dans le cadre d'un festival ayant obtenu une subvention sur la base de la section III du chapitre II du titre IV. Le Gouvernement détermine le nombre de séances qui sont éligibles dans les festivals et peut déléguer au Ministre ayant la culture dans ses attributions l'octroi des dérogations visées à l'alinéa précédent]<sup>4</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 19, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 20, 011; En vigueur : 17-06-2024&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 23, 011; En vigueur : 17-06-2024&gt;
+
+### CHAPITRE IV. [<sup>1</sup> - Aides à la promotion pour la sortie en salles [<sup>2</sup> de cinéma ]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 24, 011; En vigueur : 17-06-2024&gt;
+
+#### Section 1re. [<sup>1</sup> - Généralités]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+###### Art. 38
+
+[<sup>1</sup> § 1er. L'aide à la promotion pour la sortie en salles de cinéma vise à soutenir la promotion d'une oeuvre audiovisuelle [<sup>2</sup> ...]<sup>2</sup> dans les salles de cinéma en Belgique.
+
+§ 2. Il existe deux types d'aides à la promotion pour la sortie en salles de cinéma :
+
+1° l'aide à la promotion pour la sortie en salles de cinéma pour les oeuvres audiovisuelles à potentiel classique, ci-après dénommée " aides à la promotion salles potentiel classique ";
+
+2° l'aide à la promotion pour la sortie en salles de cinéma pour les oeuvres audiovisuelles à potentiel élevé ci-après dénommée " aides à la promotion salles potentiel élevé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 25, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 39
+
+[<sup>1</sup> § 1er. La demande d'aide à la promotion pour la sortie en salles est introduite par le distributeur reconnu de l'oeuvre audiovisuelle.
+
+§ 2. Par dérogation au paragraphe 1er, en l'absence de distributeur reconnu, l'aide à la promotion pour la sortie en salles peut être introduite par le producteur de l'oeuvre audiovisuelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+###### Art. 40
+
+[<sup>1</sup> Pour une même oeuvre audiovisuelle, les aides à la promotion visées au présent chapitre ne peuvent pas être cumulées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+#### Section 2. [<sup>1</sup> - L'aide à la promotion salles potentiel classique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+###### Art. 41
+
+[<sup>1</sup> L'aide à la promotion salles potentiel classique peut être octroyée aux longs métrages, aux documentaires de création d'une durée supérieure à soixante minutes, aux Films Lab d'une durée supérieure à soixante minutes et aux courts-métrages insérés [<sup>2</sup> dans un programme de courts métrages]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 26, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 42
+
+[<sup>1</sup> Pour pouvoir bénéficier de l'aide à la promotion salles potentiel classique, les conditions suivantes doivent être remplies :
+
+[<sup>4</sup> 1° l'oeuvre audiovisuelle :
+
+\- soit, répond à la définition d'oeuvre audiovisuelle d'initiative belge francophone de l'article 1er, 13° /1 ;
+
+\- soit, a obtenu une aide à la production telle que visée au chapitre IV du titre IV;]<sup>4</sup>
+
+[<sup>4</sup> 1°/1 ]<sup>4</sup> l'oeuvre audiovisuelle est diffusée, pendant une période consécutive de six mois, dans un nombre minimum de séances dans des salles de cinéma ou lieux de diffusion reconnus situés sur le territoire belge dont un nombre minimum de séances dans des salles de cinéma et lieux de diffusion reconnus situés sur le territoire de la région de langue française. En ce qui concerne les séances dans des salles de cinémas et lieux de diffusion reconnus situés sur le territoire de la région de langue néerlandaise, un nombre maximum de séances peut être comptabilisé dans le nombre total de séances visé à la première phrase.
+
+Le gouvernement arrête lesdits nombres;
+
+2° la demande d'aide comporte, [<sup>2</sup> ...]<sup>2</sup> les éléments suivants :
+
+a) le plan de promotion de l'oeuvre audiovisuelle;
+
+b) la liste prévisionnelle des lieux dans lesquels l'oeuvre audiovisuelle sera projetée;
+
+c) la date de sortie de l'oeuvre audiovisuelle;
+
+d) le budget de promotion de l'oeuvre audiovisuelle;
+
+e) la date du premier jour de tournage;
+
+f) la grille de critères culturels, artistiques et techniques, telle que déterminée par le Gouvernement en fonction du type d'oeuvre audiovisuelle, complétée;
+
+g) [<sup>3</sup> un lien de visionnage de l'oeuvre audiovisuelle]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 19, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 20, 011; En vigueur : 17-06-2024&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 27, 011; En vigueur : 17-06-2024&gt;
+
+#### Section 3. [<sup>1</sup> - L'aide à la promotion salles potentiel élevé]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+###### Art. 43
+
+[<sup>1</sup> L'aide à la promotion salles potentiel élevé peut être octroyée aux longs métrages et aux documentaires de création d'une durée supérieure à soixante minutes et aux Films Lab d'une durée supérieure à soixante minutes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+###### Art. 44
+
+[<sup>1</sup> Pour pouvoir bénéficier de l'aide à la promotion salles potentiel élevé, les conditions suivantes doivent être remplies :
+
+[<sup>4</sup> L'oeuvre audiovisuelle répond à la définition d'oeuvre audiovisuelle d'initiative belge francophone de l'article 1er, 13° /1;]<sup>4</sup>
+
+[<sup>4</sup> 1°/1]<sup>4</sup> l'oeuvre audiovisuelle est diffusée, en première semaine d'exploitation, dans un nombre minimum de séances publiques payantes dans des salles de cinéma situées sur le territoire de la région de langue française et de la région bilingue de Bruxelles-capitale. Le Gouvernement arrête ledit nombre. [<sup>4</sup> En ce qui concerne les séances dans les salles de cinéma et lieux de diffusion reconnus situés sur le territoire de la région de langue néerlandaise, un nombre maximum de séances peut être comptabilisé dans le nombre total de séances visé à la première phrase.]<sup>4</sup>
+
+2° le distributeur s'engage à participer financièrement à hauteur du montant de l'aide à la promotion demandé;
+
+3° la demande d'aide comporte, [<sup>2</sup> ...]<sup>2</sup> les éléments suivants :
+
+a) le plan de promotion de l'oeuvre audiovisuelle;
+
+b) la liste prévisionnelle des salles de cinéma dans lesquelles l'oeuvre audiovisuelle sera projetée;
+
+c) la date de sortie de l'oeuvre audiovisuelle;
+
+d) le nombre de séances en première semaine d'exploitation;
+
+e) le budget de promotion de l'oeuvre audiovisuelle;
+
+f) la date du premier jour de tournage;
+
+g) la grille de critères culturels, artistiques et techniques, [<sup>4</sup> ...]<sup>4</sup>complétée;
+
+h) l'engagement du distributeur d'apporter la participation financière visée au 2° ;
+
+i) [<sup>3</sup> un lien de visionnage de l'oeuvre audiovisuelle]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 17, 003; En vigueur : 01-07-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 19, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 20, 011; En vigueur : 17-06-2024&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 28, 011; En vigueur : 17-06-2024&gt;
+
+## TITRE V/I. [<sup>1</sup> Primes au succès d'oeuvres audiovisuelles]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> Dispositions générales ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+###### Art. 45
+
+[<sup>1</sup> § 1er. Le Gouvernement peut octroyer des primes au succès aux auteurs-réalisateurs, scénaristes, producteurs et distributeurs d'oeuvres audiovisuelles.
+
+Les personnes physiques bénéficiaires de primes doivent être de nationalité belge ou ressortissant d'un Etat membre de l'Espace économique européen. Les ressortissants d'un Etat non-membre de l'Espace économique européen ainsi que les apatrides ayant la qualité de résident en Belgique peuvent être assimilés aux ressortissants d'un Etat membre de l'Espace économique européen.
+
+§ 2. La nature des primes au succès octroyées aux producteurs et distributeurs est une subvention destinée à couvrir les dépenses éligibles liées à la création ou la distribution de l'oeuvre audiovisuelle pour laquelle la prime est demandée ou de toute autre nouvelle oeuvre audiovisuelle répondant aux conditions de l'article 46, 1° à 4°.
+
+La liste de dépenses éligibles visée à l'alinéa premier est arrêtée par le Gouvernement [<sup>2</sup> selon que les dépenses éligibles portent sur l'oeuvre audiovisuelle pour laquelle la prime est demandée ou sur une nouvelle oeuvre audiovisuelle répondant aux conditions de l'article 46, 1° à 4°]<sup>2</sup>.
+
+§ 3. La nature des primes au succès octroyées aux auteurs, auteurs-réalisateurs et scénaristes est une subvention dispensée de justification de son utilisation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2021-12-15/13, art. 33, 008; En vigueur : 01-01-2022&gt;
+
+### CHAPITRE II [<sup>1</sup> Des conditions de recevabilité ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+###### Art. 46
+
+[<sup>1</sup> Pour être éligible au bénéfice des primes au succès, l'oeuvre audiovisuelle pour laquelle l'aide est sollicitée, doit remplir cumulativement les conditions suivantes :
+
+1° être une oeuvre audiovisuelle de long métrage, une oeuvre audiovisuelle de court métrage, un documentaire de création, un programme de courts métrages [<sup>2</sup> ...]<sup>2</sup> ;
+
+2° être une oeuvre audiovisuelle d'art et essai ;
+
+3° a) soit avoir été coproduite conformément aux règles de la Convention européenne de coproduction cinématographique ou d'un accord international bilatéral de coproduction d'oeuvres audiovisuelles qui engage la Communauté française ;
+
+b) soit, si elle n'a pas été coproduite dans le cadre de la Convention européenne de coproduction cinématographique ou d'un accord international bilatéral de coproduction d'oeuvres audiovisuelles qui engage la Communauté française, l'oeuvre audiovisuelle doit remplir au moins trois des critères repris à l'article 9, alinéa 2 ;
+
+4° [<sup>2</sup> répondre à la définition d'oeuvre audiovisuelle d'initiative belge francophone de l'article 1er, 13° /1 ]<sup>2</sup>;
+
+5° disposer d'un numéro d'immatriculation ISAN. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 29, 011; En vigueur : 17-06-2024&gt;
+
+### CHAPITRE III [<sup>1</sup> Des conditions d'octroi ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+###### Art. 47
+
+[<sup>1</sup> § 1er. Pour pouvoir bénéficier d'une prime au succès, l'oeuvre audiovisuelle pour laquelle la prime est demandée doit :
+
+1° soit avoir été visionnée par un nombre minimum de spectateurs payants dans une salle de cinéma ou un centre culturel situés [<sup>3</sup> sur le territoire de la Belgique ]<sup>3</sup>. Seules les entrées payantes dans les centres culturels utilisant un bordereau officiel identique à celui utilisé par les salles de cinémas seront comptabilisées. [<sup>2</sup> Pour l'application du présent alinéa, les achats et locations payants à l'acte de l'oeuvre audiovisuelle sur un service télévisuel non-linéaire diffusé sur le territoire de la région de langue française ou de la région bilingue de Bruxelles-Capitale sont assimilés à des entrées en salles de cinéma]<sup>2</sup> ;
+
+2° soit avoir été sélectionnée dans un nombre minimum de festivals appartenant à la liste arrêtée par le Gouvernement et dans le respect des critères établis par cette liste concernant le type de sélection éligible;
+
+3° soit avoir été vendue pour un montant cumulé minimum à la minute de programme auprès d'éditeurs de services linéaires et/ou auprès d'éditeurs de services non linéaires pour une mise à disposition par abonnement [<sup>5</sup> dont au minimum une vente auprès d'un éditeur de services linéaires ou non-linéaires n'ayant ni son siège social ni siège d'exploitation en Belgique]<sup>5</sup>.
+
+[<sup>4</sup> ...]<sup>4</sup>.
+
+Pour l'application du présent paragraphe, l'on entend par :
+
+\- services télévisuels linéaires, les services définis à l'article 1.3-1, alinéa 1er, 55°, du décret du 4 février 2021 relatif aux services de médias audiovisuels et aux services de partage de vidéos ;
+
+\- services télévisuels non-linéaires, les services définis à l'article 1.3-1, alinéa 1er, 56° et 57°, du décret du 4 février 2021 relatif aux services de médias audiovisuels et aux services de partage de vidéos.
+
+§ 2. Pour une même oeuvre audiovisuelle, les primes au succès visées au paragraphe 1er, 1° à 3°, peuvent être cumulées.
+
+§ 3. Le Gouvernement arrête les nombres minimum visés au paragraphe 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2021-12-15/13, art. 34, 008; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCFR 2023-03-16/01, art. 9, 010; En vigueur : 01-04-2023&gt;
+
+(4)&lt;DCFR 2023-03-16/01, art. 10, 010; En vigueur : 01-04-2023&gt;
+
+(5)&lt;DCFR 2026-02-12/02, art. 3, 012; En vigueur : 12-02-2026&gt;
+
+### CHAPITRE IV [<sup>1</sup> Des conditions d'octroi ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+###### Art. 48
+
+[<sup>1</sup> Le Gouvernement détermine :
+
+1° le montant de la prime au succès visée au présent titre selon :
+
+\- le nombre minimum de spectateurs en salles de cinémas ;
+
+\- le nombre minimum de sélection en festivals ;
+
+\- le montant minimum de vente par minute ;
+
+2° le montant maximum de la prime au succès pour une même oeuvre audiovisuelle, selon le type d'oeuvre audiovisuelle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+###### Art. 49
+
+§ 1. [<sup>1</sup> Le montant de la prime au succès [<sup>2</sup> octroyée pour une même oeuvre audiovisuelle]<sup>2</sup> ne peut dépasser le coût de l'oeuvre audiovisuelle concernée et, en cas de coproduction, le montant de l'apport belge francophone, déduction faite de toutes les aides publiques octroyées pour la production de l'oeuvre audiovisuelle. ]<sup>1</sup>
+
+[<sup>2</sup> Pour le calcul du plafond visé à l'alinéa premier pour une prime au succès relative à un court métrage, il est tenu compte de tous les montants des primes au succès octroyées pour ce court métrage que ce soit dans le cadre d'une demande individuelle ou d'une demande concernant un programme dans lequel ce court métrage est intégré.]<sup>2</sup>
+
+[<sup>2</sup> § 2. Le Gouvernement détermine le pourcentage de participations et valorisations par rapport au coût global de l'oeuvre audiovisuelle pouvant être acceptées pour la demande de la prime au succès.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2026-02-12/02, art. 4, 012; En vigueur : 12-02-2026&gt;
+
+### CHAPITRE V [<sup>1</sup> De la répartition de la prime au succès ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+###### Art. 50
+
+§ 1. [<sup>1</sup> Le montant de la prime au succès visée au présent titre est réparti comme suit :
+
+1° pour les oeuvres audiovisuelles de long métrage, les documentaires de création [<sup>2</sup> ...]<sup>2</sup>:
+
+\- soixante pour cent pour le producteur de l'oeuvre audiovisuelle ;
+
+\- vingt-cinq pour cent pour le distributeur de l'oeuvre audiovisuelle ;
+
+\- [<sup>3</sup> sept virgule cinq pour cent pour le scénariste de l'oeuvre audiovisuelle et sept virgule cinq pour cent pour l'auteur-réalisateur de l'oeuvre audiovisuelle]<sup>3</sup> ;
+
+2° pour les oeuvres audiovisuelles de court métrage et les documentaires de création d'une durée inférieure ou égale à soixante minutes :
+
+\- quatre-vingt pour cent pour le producteur de l'oeuvre audiovisuelle ;
+
+\- dix pour cent pour le scénariste de l'oeuvre audiovisuelle ;
+
+\- dix pour cent pour l'auteur-réalisateur de l'oeuvre audiovisuelle ; ]<sup>1</sup>
+
+[<sup>3</sup> § 2. Lorsque plusieurs personnes exercent une fonction donnant droit à la prime au succès conformément au paragraphe premier, le montant de la prime est réparti de manière équivalente entre ces personnes.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 30, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2026-02-12/02, art. 5, 012; En vigueur : 12-02-2026&gt;
+
+### CHAPITRE VI [<sup>1</sup> CHAPITRE VI.- De l'introduction de la demande ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+###### Art. 51
+
+[<sup>1</sup> § 1er. La demande de prime au succès est introduite par le producteur de l'oeuvre audiovisuelle au plus tôt lorsque l'une des conditions visées à l'article 47, § 1er, est remplie et au plus tard trois ans après la survenance du premier des événements suivants pour lequel il demande une prime au succès :
+
+1° la première diffusion de l'oeuvre audiovisuelle dans une salle de cinéma ou un centre culturel visé à l'article 47, § 1er, 1°, situés sur le territoire de la région de langue française ou de la région bilingue de Bruxelles-Capitale ou la première diffusion de l'oeuvre audiovisuelle sur un service télévisuel non-linéaire visé à l'article 47, § 1er, 1° ;
+
+2° la première sélection de l'oeuvre audiovisuelle dans un festival visée à l'article 47, § 1er, 2° ;
+
+3° la première vente de l'oeuvre audiovisuelle à un éditeur de services télévisuels linéaire ou non linéaire visé à l'article 47, § 1er, 3°.
+
+§ 2. Par dérogation au paragraphe 1er, la demande de prime au succès d'un programme de courts métrages est introduite par le producteur désigné par l'ensemble des producteurs de courts métrages composant le programme [<sup>3</sup> , ou par le distributeur ]<sup>3</sup>.
+
+§ 3. Les entrées en salles, [<sup>2</sup> achats et locations payants à l'acte]<sup>2</sup>, sélections en festivals et ventes effectuées avant l'événement déclencheur de l'aide visé au paragraphe 1er ainsi que celles effectuées après l'introduction de la demande ne sont pas comptabilisées pour le calcul du montant de la prime au succès.
+
+§ 4. Les modalités d'introduction de la demande sont déterminées par le Gouvernement. ".
+
+Disposition transitoire ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 3, 006; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2021-12-15/13, art. 35, 008; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCFR 2023-03-16/01, art. 11, 010; En vigueur : 01-04-2023&gt;
+
+###### Art. 52
+
+Les demandes de prime au réinvestissement [<sup>1</sup> visée au présent chapitre]<sup>1</sup> doivent être introduites selon les modalités arrêtées par le Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 21, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 53
+
+[<sup>1</sup> Sur la base des conditions d'octroi définies au présent chapitre, le Gouvernement octroie des primes au réinvestissement aux courts-métrages et aux documentaires de création d'une durée inférieure ou égale à soixante minutes.
+
+La nature de ces primes au réinvestissement est une subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 27, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 54
+
+La demande de prime au réinvestissement [<sup>1</sup> visée au présent chapitre]<sup>1</sup> est introduite par le producteur d'oeuvres audiovisuelles.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 28, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 55
+
+§ 1er. Pour pouvoir bénéficier d'une prime au réinvestissement [<sup>2</sup> visée au présent chapitre]<sup>2</sup>, il faut respecter les critères de recevabilité suivants :
+
+1° être un producteur d'oeuvres audiovisuelles ou une personne physique de nationalité belge ou ressortissant d'un Etat membre de l'Espace économique européen ayant [<sup>3</sup> la qualité de scénariste ou d'auteur-réalisateur]<sup>3</sup>. Les ressortissants d'un Etat non membre de l'Espace économique européen, ayant la qualité de résident en Belgique, sont assimilés aux ressortissants d'un Etat membre de l'Espace économique européen;
+
+2° [<sup>1</sup> Avoir introduit, au plus tard trente jours avant le début des prises de vues, une déclaration de mise en chantier relative à l'oeuvre audiovisuelle pour laquelle la prime est demandée.
+
+La déclaration de mise en chantier mentionne le genre [<sup>3</sup> de l'oeuvre audiovisuelle]<sup>3</sup>, son métrage présumé, son scénario, son devis ainsi que le début des prises de vues. Cette déclaration n'est pas requise pour les oeuvres audiovisuelles soutenues dans le cadre du chapitre IV du titre IV;]<sup>1</sup>
+
+3° l'oeuvre audiovisuelle doit répondre à au moins deux des trois critères suivants :
+
+a) avoir été diffusée dans un nombre minimum de salles différentes avec un nombre minimum de spectateurs;
+
+b) avoir été vendue pour un montant minimum auprès d'éditeurs de services dont la couverture est au moins nationale [<sup>3</sup> ou avoir été visionnée par un nombre minimum de téléspectateurs]<sup>3</sup>;
+
+c) avoir été sélectionnée dans un nombre minimum de festivals [<sup>1</sup> selon les conditions déterminées]<sup>1</sup> par le Gouvernement.
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° [<sup>3</sup> diffuser l'oeuvre audiovisuelle avec les génériques de début et fin, dans une version conforme à la copie zéro;]<sup>3</sup>
+
+6° les diffusions effectuées plus de trois ans après la première diffusion publique de l'oeuvre audiovisuelle cessent de donner lieu à l'attribution de primes au réinvestissement.
+
+§ 2. Le Gouvernement arrête les conditions d'application des critères visés au tertio du § 1er.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 30, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 28, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2017-02-23/17, art. 29, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 56
+
+[<sup>1</sup> Par année, ne peuvent donner lieu à l'octroi d'une prime au réinvestissement visée au présent chapitre :
+
+1° plus de deux épisodes d'une même série de courts-métrages ou de documentaires de création d'une durée inférieure ou égale à soixante minutes;
+
+2° plus de deux courts-métrages ou documentaires de création d'une durée inférieure ou égale à soixante minutes d'un même réalisateur;
+
+3° plus de cinq courts-métrages ou documentaires de création d'une durée inférieure ou égale à soixante minutes d'un même producteur d'oeuvres audiovisuelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 30, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 57
+
+Le montant de la prime au réinvestissement [<sup>1</sup> visée au présent chapitre]<sup>1</sup> est obtenu en répartissant l'enveloppe budgétaire de manière égale entre [<sup>2</sup> les oeuvres audiovisuelles]<sup>2</sup> remplissant les conditions visées aux articles 55 et 56, sans toutefois dépasser le montant maximum visé à l'article 30, 1°.
+
+La prime au réinvestissement [<sup>1</sup> visée au présent chapitre]<sup>1</sup> ne peut dépasser le coût de l'oeuvre audiovisuelle aidée et, en cas de coproduction, le montant de l'apport belge, déduction faite de l'ensemble des aides publiques octroyées pour la production de l'oeuvre audiovisuelle.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 28, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 31, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 58
+
+La prime au réinvestissement [<sup>1</sup> visée au présent chapitre]<sup>1</sup> est répartie comme suit:
+
+\- Quatre-vingt pour cent pour le producteur [<sup>2</sup> de l'oeuvre audiovisuelle]<sup>2</sup>;
+
+\- Dix pour cent pour [<sup>2</sup> l'auteur-réalisateur]<sup>2</sup> [<sup>2</sup> de l'oeuvre audiovisuelle]<sup>2</sup>;
+
+\- Dix pour cent pour le scénariste [<sup>2</sup> de l'oeuvre audiovisuelle]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 28, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 32, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 59
+
+Les parts de la prime au réinvestissement [<sup>3</sup> visée au présent chapitre]<sup>3</sup> sont octroyées :
+
+\- [<sup>2</sup> soit sous forme de remboursement servant à couvrir les dépenses audiovisuelles éligibles déterminées par le Gouvernement selon le type de bénéficiaire;]<sup>2</sup>
+
+\- Soit sous forme d'un droit de tirage à exercer en réinvestissement sur la création d'une nouvelle oeuvre audiovisuelle [<sup>1</sup> d'art et essai telle que visée à l'[<sup>2</sup> article 1er, 13°]<sup>2</sup> qui remplit les conditions de l'article 44/2]<sup>1</sup>. Ce réinvestissement doit se faire dans les trois ans suivant l'octroi de l'aide.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 31, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 33, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2017-02-23/17, art. 28, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 60
+
+Les demandes de prime au réinvestissement [<sup>1</sup> visée au présent chapitre]<sup>1</sup> doivent être introduites selon les modalités arrêtées par le Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 28, 003; En vigueur : 13-04-2017&gt;
+
+## 6\. - TITRE VI. - AIDES AUX OPERATEURS AUDIOVISUELS
+
+### 6.1. - CHAPITRE Ier. - Aides aux ateliers d'accueil, de production audiovisuelle et d'écoles
+
+#### 6.1.1. - Section Ire. - Généralités.
+
+###### Art. 61
+
+Après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup>, le Gouvernement peut octroyer une aide aux ateliers visés à l'article 62.
+
+La nature des aides aux ateliers est une subvention [<sup>3</sup> ...]<sup>3</sup> d'une durée de deux ans ou de quatre ans]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 34, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 31, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 62
+
+Les ateliers ont pour objectif de soutenir la création d'oeuvres audiovisuelles provenant d'auteurs, réalisateurs et producteurs résidant en Communauté française.
+
+Il existe trois types d'ateliers :
+
+1° les ateliers d'accueil ont pour mission principale d'accompagner le travail de création et de production des oeuvres audiovisuelles professionnelles. Ils ont également pour mission de soutenir ces oeuvres par la coproduction et d'en assurer la promotion et la diffusion tant en Belgique qu'à l'étranger;
+
+2° les ateliers de production ont pour mission principale de réaliser, produire et/ou coproduire des oeuvres audiovisuelles. Ils ont également pour mission d'en assurer la promotion et la diffusion. Ces ateliers travaillent dans une perspective de sensibilisation du public ou de valorisation du patrimoine culturel;
+
+3° les ateliers d'écoles ont pour objectif de permettre la réalisation des oeuvres audiovisuelles des étudiants inscrits au sein des écoles, notamment les travaux de fins d'études. Ces ateliers sont associés à une ou plusieurs écoles d'enseignement supérieur artistique [<sup>1</sup> ou d'enseignement technique de l'image]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 32, 002; En vigueur : 21-08-2013&gt;
+
+###### Art. 63
+
+Le Gouvernement arrête, par type d'atelier, les montants minimum et maximum des aides pouvant être octroyées aux ateliers.
+
+#### 6.1.2. - Section II. - Conditions d'octroi
+
+###### Art. 64
+
+Pour pouvoir bénéficier d'une [<sup>3</sup> subvention]<sup>3</sup> [<sup>1</sup> d'une durée de deux ans]<sup>1</sup>, l'atelier doit remplir les critères de recevabilité suivants :
+
+1° être une personne morale;
+
+2° définir son activité principale selon les types d'ateliers visés à l'article 62;
+
+3° justifier, durant les trois années qui précèdent la demande, d'une période d'activité professionnelle régulière dans le secteur de l'audiovisuel;
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° par ses activités, s'engager en faveur de la diversité culturelle;
+
+6° pour les ateliers visés à l'article 62, 1° et 62, 2°, privilégier les premières oeuvres, ainsi qu'un accès et une participation large du public;
+
+7° valoriser la pluralité des expressions;
+
+8° promouvoir la recherche et l'expérimentation sur les plans technique et esthétique, valoriser l'originalité et l'authenticité des sujets, valoriser les choix créatifs dans l'écriture et dans la réalisation;
+
+9° valoriser et développer le patrimoine culturel de la Communauté française;
+
+10° développer l'ensemble des activités visées aux points 5° à 7° sur le territoire relevant de la région de langue française et de la région bilingue de Bruxelles-Capitale et veiller à développer celles-ci à un niveau belge et international.
+
+[<sup>2</sup> Sauf exception liée à la nature particulière des activités développées, le bénéfice d'une [<sup>3</sup> subvention]<sup>3</sup> emporte pour l'opérateur bénéficiaire l'obligation de contribuer aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 35, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 65
+
+Pour pouvoir bénéficier [<sup>2</sup> d'une convention durée de quatre ans]<sup>2</sup>, outre les conditions visées à l'article 64, 1° à 10°, les ateliers doivent avoir bénéficié d'une [<sup>3</sup> subvention]<sup>3</sup> pendant [<sup>1</sup> les deux années précédant l'introduction de la demande]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 33, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 36, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+#### 6.1.3. - Section III. - Procédure d'octroi
+
+###### Art. 66
+
+§ 1er. [<sup>6</sup> § 1er. La demande d'aide comporte les éléments suivants :
+
+1\. le montant demandé et sa motivation ;
+
+2\. le choix motivé de solliciter une subvention de deux ou quatre ans ;
+
+3\. une description du projet d'activités pour lequel l'aide est sollicitée ;
+
+4\. la façon dont le projet d'activités pour lequel l'aide est sollicitée contribue aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique ou, au contraire, pourquoi l'opérateur estime devoir être exempté de cette obligation au regard de la nature particulière de ses activités ;
+
+5\. pour la durée du subventionnement :
+
+a. le volume des activités ;
+
+b. le plan financier du projet ;
+
+c. la description du ou des publics visés ;
+
+6\. les bilans et comptes de résultat de l'exercice précédent, établis conformément aux lois et règlements comptables en vigueur ;
+
+7\. si l'opérateur développe plusieurs secteurs d'activités : la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre ;
+
+8\. sur demande des services du Gouvernement, les rapports d'activité des deux années précédentes]<sup>6</sup>.]<sup>3</sup>
+
+§ 2. [<sup>3</sup> Le Gouvernement détermine :
+
+\- l'année pour laquelle une demande d'aide peut être déposée, selon qu'il s'agit d'une [<sup>5</sup> subvention]<sup>5</sup> d'une durée de deux ans ou de quatre ans;
+
+\- la date limite de dépôt de demande d'aide.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 34, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 37, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2017-02-23/17, art. 38, 003; En vigueur : 13-04-2017&gt;
+
+(4)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(5)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+(6)&lt;DCFR 2024-04-18/30, art. 33, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 67
+
+§ 1er. [<sup>3</sup> la Commission d'avis]<sup>3</sup> émet un avis motivé sur l'opportunité d'octroyer une aide, sur sa nature et sur le montant de celle-ci. A cette fin, elle prend en considération la spécificité de l'atelier et s'appuie sur les critères d'évaluation suivants :
+
+1° la [<sup>1</sup> cohérence des éléments constitutifs de la demande d'aide]<sup>1</sup> transmis conformément à l'article 66 § 1er;
+
+2° la qualité artistique et culturelle du projet;
+
+3° sa capacité de rayonnement sur le territoire de la région de langue française et de la région bilingue de Bruxelles-Capitale, au plan belge ou international;
+
+4° l'adéquation entre le montant de l'aide demandée et le projet artistique;
+
+[<sup>4</sup> 5° l'adéquation du projet au regard des objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>4</sup>
+
+[<sup>3</sup> la Commission d'avis]<sup>3</sup> prend également en considération la mise en valeur des oeuvres des auteurs et réalisateurs de la Communauté française ou l'utilisation de formes ou expressions les plus nouvelles du domaine concerné.
+
+§ 2. Sur la base des éléments et critères visés aux articles 66 et 67 § 1er, [<sup>3</sup> la Commission d'avis]<sup>3</sup> peut [<sup>2</sup> proposer de]<sup>2</sup> requalifier une demande portant sur l'obtention [<sup>2</sup> d'une [<sup>5</sup> subvention]<sup>5</sup> d'une durée de quatre ans en [<sup>5</sup> subvention]<sup>5</sup> d'une durée de deux ans]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 40, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 41, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(4)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(5)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+#### 6.1.4. - Section IV. - Contenu
+
+###### Art. 68
+
+[<sup>1</sup> L'arrêté de subvention contient au minimum les éléments suivants :
+
+1° le montant de la subvention et ses modalités de liquidation ;
+
+2° les missions et les objectifs dévolus à l'opérateur en fonction de ses activités spécifiques ;
+
+3° le délai dans lequel l'opérateur transmet ses justificatifs et les sanctions en l'absence de remise dans le délai imparti ;
+
+4° les engagements d'équilibre financier de l'opérateur et les modalités de contrôle financier exercé par la Communauté française ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 34, 011; En vigueur : 17-06-2024&gt;
+
+#### 6.1.5. - Section V. - Evaluation
+
+###### Art. 69
+
+A l'issue de chaque exercice, l'atelier communique à l'administration un rapport d'activités comprenant au minimum les éléments suivants :
+
+1° un rapport moral;
+
+2° les bilans et comptes de l'exercice écoulé, établis conformément aux lois et règlements comptables en vigueur [<sup>1</sup> . Si l'opérateur développe plusieurs [<sup>2</sup> secteurs]<sup>2</sup> d'activités, il doit également fournir la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre]<sup>1</sup> ;
+
+3° le respect des missions et objectifs [<sup>3</sup> inscrits dans la [<sup>4</sup> l'arrêté de subvention ]<sup>4</sup>]<sup>3</sup>;
+
+4° [<sup>5</sup> ...]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 34, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 37, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2017-02-23/17, art. 43, 003; En vigueur : 13-04-2017&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 35, 011; En vigueur : 17-06-2024&gt;
+
+(5)&lt;DCFR 2024-04-18/30, art. 36, 011; En vigueur : 17-06-2024&gt;
+
+#### 6.1.6. - Section VI.
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 44, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 70
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 44, 003; En vigueur : 13-04-2017&gt;
+
+#### 6.1.7. Section VII.
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 45, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 71
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 45, 003; En vigueur : 13-04-2017&gt;
+
+#### Section VIII. [<sup>1</sup> Subventions d'investissement en équipement ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 37, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 71/1
+
+[<sup>1</sup> . § 1er. Dans les limites des crédits inscrits au budget de la Communauté française, les ateliers d'accueil, de production audiovisuelle et d'école ayant obtenu une subvention sur la base de l'article 61, reçoivent, annuellement, une subvention d'investissement en équipement afin d'accomplir leur mission de service public visée à l'article 62.
+
+§ 2. Le budget disponible est réparti de manière égalitaire entre les ateliers visés au paragraphe 1er ainsi que les structures d'accueil pour la création radiophonique agréées conformément à la réglementation sur les services de médias audiovisuels.
+
+§ 3. Le Gouvernement détermine :
+
+\- le type d'équipement pouvant faire l'objet d'acquisition ;
+
+\- les modalités d'octroi et de liquidation de la subvention. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/30, art. 38, 011; En vigueur : 17-06-2024&gt;
+
+### 6.2. - CHAPITRE II. [<sup>1</sup> Aides aux distributeurs et aux structures de diffusion d'oeuvres audiovisuelles ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 39, 011; En vigueur : 17-06-2024&gt;
+
+#### 6.2.1. - Section Ire. - Dispositions communes
+
+###### Art. 72
+
+Le Gouvernement arrête le ou les montants minimum et maximum pouvant être octroyés, pour chaque aide aux structures de promotion et de diffusion d'oeuvres audiovisuelles visée au présent chapitre.
+
+[<sup>1</sup> Le Gouvernement détermine :
+
+\- l'année pour laquelle une demande d'aide peut être déposée selon qu'il s'agit d'une demande portant sur une [<sup>2</sup> subvention]<sup>2</sup> d'une durée de deux ans ou de quatre ans;
+
+\- la date limite de dépôt de la demande d'aide.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 46, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+#### 6.2.2. - Section II. - Aides aux distributeurs d'oeuvres audiovisuelles
+
+##### 6.2.2.1. - Sous-section 1re. - Généralités
+
+###### Art. 73
+
+Après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup>, le Gouvernement peut octroyer une aide aux distributeurs d'oeuvres audiovisuelles. [<sup>4</sup> ...]<sup>4</sup>
+
+La nature de l'aide est une subvention [<sup>1</sup> [<sup>3</sup> ...]<sup>3</sup> d'une durée de deux ans ou de quatre ans]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 47, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 31, 011; En vigueur : 17-06-2024&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 40, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.2.2. - Sous-section 2. - Conditions d'octroi.
+
+###### Art. 74
+
+Pour pouvoir bénéficier d'une [<sup>1</sup> [<sup>2</sup> subvention]<sup>2</sup> d'une durée de deux ans]<sup>1</sup>, le distributeur d'oeuvres audiovisuelles doit remplir les critères de recevabilité suivants :
+
+1° être une personne morale;
+
+2° par ses activités, s'engager en faveur de la diversité culturelle;
+
+3° avoir pour objectif principal la diffusion et la promotion du cinéma en général, dans une démarche de valorisation de la pluralité des expressions, et plus particulièrement des oeuvres audiovisuelles d'art et essai [<sup>3</sup> d'initiative belge francophone ]<sup>3</sup>;
+
+4° avoir distribué l'année précédant la demande au minimum cinq longs métrages [<sup>3</sup> en première sortie]<sup>3</sup> en première sortie dans les salles de cinéma belges;
+
+5° avoir distribué l'année précédant la demande un minimum de cinquante pour cent d'oeuvres audiovisuelles d'art et essai;
+
+[<sup>1</sup> 6° ne pas bénéficier d'une aide au titre de structure de diffusion d'oeuvres audiovisuelles et/ou ne pas avoir déposé de demande de soutien à ce titre l'année en cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 48, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 41, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 74/1
+
+[<sup>1</sup> Pour pouvoir bénéficier d'une convention d'une durée de quatre ans, outre les conditions visées à l'article 74, 1° à 5°, le distributeur d'oeuvres audiovisuelles doit avoir bénéficié d'une [<sup>2</sup> subvention]<sup>2</sup> pendant les deux années précédant l'année pour laquelle l'aide est demandée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 49, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 75
+
+[<sup>1</sup> La demande d'aide comporte les éléments suivants :
+
+1\. le montant demandé et sa motivation ;
+
+2\. le choix motivé de solliciter une subvention de deux ou quatre ans ;
+
+3\. une description du projet d'activités pour lequel l'aide est sollicitée ;
+
+4\. pour la durée du subventionnement :
+
+a. le volume des activités ;
+
+b. le plan de promotion ;
+
+c. le plan financier ;
+
+d. le volume d'emploi ;
+
+e. la politique d'accès au public ;
+
+f. les partenariats ;
+
+5\. les bilans et comptes de résultat de l'exercice précédent, établis conformément aux lois et règlements comptables en vigueur ;
+
+6\. si l'opérateur développe plusieurs secteurs d'activités : la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre ;
+
+7\. sur demande des services du Gouvernement, les rapports d'activité des deux années précédentes ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 42, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.2.3. - Sous-section 3. - Procédure d'octroi
+
+###### Art. 76
+
+[<sup>1</sup> § 1er. [<sup>2</sup> la Commission d'avis]<sup>2</sup> émet un avis motivé sur l'opportunité d'octroyer une aide et sur son montant. A cette fin, elle apprécie, sur la base des documents prévus à l'article 75, les critères d'évaluation suivants :
+
+1° la pertinence du projet présenté compte tenu des objectifs de l'aide, à savoir favoriser la distribution d'oeuvres audiovisuelles d'art et essai, et plus particulièrement des oeuvres d'initiative belge francophone dans les salles de cinéma situées sur le territoire de la région de langue française et sur le territoire de la région bilingue de Bruxelles-Capitale;
+
+2° l'intérêt culturel du projet pour la Communauté française;
+
+3° la qualité du projet, évaluée notamment sur base des activités de distribution d'oeuvres audiovisuelles menées les années précédant la demande;
+
+4° le volume d'activités;
+
+5° la spécificité du projet en termes de ligne éditoriale, d'actions menées et de relations avec la presse;
+
+6° l'adéquation entre le montant de l'aide demandé et le projet.
+
+§ 2. Sur la base des éléments et critères visés aux articles 75 et 76 § 1er, [<sup>2</sup> la Commission d'avis]<sup>2</sup> peut proposer de requalifier une demande de [<sup>3</sup> subvention]<sup>3</sup> pour une durée de quatre ans en demande de [<sup>3</sup> subvention]<sup>3</sup> pour une durée de deux ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 51, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### Sous-section 3bis. [<sup>1</sup> - Contenu]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 52, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 76/1
+
+[<sup>1</sup> L'arrêté de subvention contient au minimum les éléments suivants :
+
+1° le montant de la subvention et ses modalités de liquidation ;
+
+2° les missions et les objectifs dévolus à l'opérateur en fonction de ses activités spécifiques ;
+
+3° le délai dans lequel l'opérateur transmet ses justificatifs et les sanctions en l'absence de remise dans le délai imparti ;
+
+4° les engagements d'équilibre financier de l'opérateur et les modalités de contrôle financier exercé par la Communauté française ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 34, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.2.4. - Sous-section 4. - Evaluation
+
+###### Art. 77
+
+A l'issue de chaque exercice, le distributeur d'oeuvres audiovisuelles transmet un rapport d'activités comprenant au minimum les éléments suivants :
+
+1° un rapport moral;
+
+2° [<sup>3</sup> les bilans et comptes de l'exercice écoulé, établis conformément aux lois et règlements comptables en vigueur. Si l'opérateur développe plusieurs secteurs d'activités, il doit également fournir la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre]<sup>3</sup>;
+
+3° le respect des missions et objectifs [<sup>1</sup> inscrits dans la [<sup>32</sup>subvention]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 54, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 35, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 43, 011; En vigueur : 17-06-2024&gt;
+
+#### Section II bis. [<sup>1</sup> - Aides aux structures de diffusion d'oeuvres audiovisuelles]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 55, 003; En vigueur : 13-04-2017&gt;
+
+##### Sous-section 1. [<sup>1</sup> - Généralités]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 56, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 77/1
+
+[<sup>1</sup> Après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup>, le Gouvernement peut octroyer une aide aux structures de diffusion d'oeuvres audiovisuelles.
+
+La nature de l'aide est une subvention [<sup>3</sup> ...]<sup>3</sup> d'une durée de deux ans ou de quatre ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 57, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 31, 011; En vigueur : 17-06-2024&gt;
+
+##### Sous-section 2. [<sup>1</sup> - Conditions d'octroi]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 58, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 77/2
+
+[<sup>1</sup> Pour pouvoir bénéficier d'une [<sup>3</sup> subvention ]<sup>3</sup> d'une durée de deux ans, la structure de diffusion d'oeuvres audiovisuelles doit remplir les critères de recevabilité suivants :
+
+1° être une personne morale;
+
+2° par ses activités, s'engager en faveur de la diversité culturelle;
+
+3° avoir pour objectif principal la diffusion et la promotion du cinéma en général, dans une démarche de valorisation de la pluralité des expressions, et plus particulièrement des oeuvres audiovisuelles d'art et essai belges d'initiative belge francophone;
+
+4° par ses activités et les moyens dont elle dispose, favoriser auprès d'un large public la diffusion d'oeuvres audiovisuelles d'art et essai et plus particulièrement d'oeuvres audiovisuelles d'initiative belge francophone dans plus particulièrement d'oeuvres audiovisuelles d'initiatives belge francophone dans des lieux de projection situés sur le territoire de la région de langue française ou sur le territoire de la région bilingue de Bruxelles-Capitale;
+
+5° ne pas bénéficier d'une aide au titre de distributeur d'oeuvres audiovisuelles et/ou ne pas avoir déposé de demande de soutien à ce titre l'année en cours.]<sup>1</sup>
+
+[<sup>2</sup> Sauf exception liée à la nature particulière des activités développées, le bénéfice d'une [<sup>3</sup> subvention]<sup>3</sup> emporte pour l'opérateur bénéficiaire l'obligation de contribuer aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 59, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 77/3
+
+[<sup>1</sup> Pour pouvoir bénéficier d'une [<sup>2</sup> subvention]<sup>2</sup> d'une durée de quatre ans, outre les conditions visées à l'article 77/2, 1° à 4°, la structure de diffusion d'oeuvres audiovisuelles doit avoir bénéficié d'une [<sup>2</sup> subvention]<sup>2</sup> pendant les deux années précédant l'année pour laquelle l'aide est demandée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 60, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 77/4
+
+[<sup>1</sup> La demande d'aide comporte les éléments suivants :
+
+1\. le montant demandé et sa motivation ;
+
+2\. le choix motivé de solliciter une subvention de deux ou quatre ans ;
+
+3\. une description du projet d'activités pour lequel l'aide est sollicitée ;
+
+4\. la façon dont le projet d'activités pour lequel l'aide est sollicitée contribue aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique ou, au contraire, pourquoi l'opérateur estime devoir être exempté de cette obligation au regard de la nature particulière de ses activités ;
+
+5\. pour la durée du subventionnement :
+
+a. le volume des activités ;
+
+b. le plan de promotion ;
+
+c. le plan financier ;
+
+d. le volume d'emploi ;
+
+e. la description du ou des publics visés ;
+
+f. la politique d'accès au public ;
+
+g. les partenariats ;
+
+6\. les bilans et comptes de résultat de l'exercice précédent, établis conformément aux lois et règlements comptables en vigueur ;
+
+7\. si l'opérateur développe plusieurs secteurs d'activités : la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre ;
+
+8\. sur demande des services du Gouvernement, les rapports d'activité des deux années précédentes ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 44, 011; En vigueur : 17-06-2024&gt;
+
+##### Sous-section 3. [<sup>1</sup> - Procédure d'octroi]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 62, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 77/5
+
+[<sup>1</sup> § 1er. [<sup>2</sup> la Commission d'avis]<sup>2</sup> émet un avis motivé sur l'opportunité d'octroyer une aide et sur son montant. A cette fin, elle apprécie, sur la base des documents prévus à l'article 77/4, les critères d'évaluation suivants :
+
+1° la pertinence du projet présenté compte tenu des objectifs de l'aide, à savoir favoriser la diffusion d'oeuvres audiovisuelles d'initiative belge francophone dans les lieux de projection situés en Belgique et plus particulièrement sur le territoire de la région de langue française ou sur le territoire de la région bilingue de Bruxelles-Capitale;
+
+2° l'intérêt culturel du projet pour la Communauté française;
+
+3° la qualité du projet et sa plus-value pour la promotion et la diffusion du cinéma en Belgique;
+
+4° l'adéquation entre le montant de l'aide demandé et le projet;
+
+[<sup>3</sup> 5° l'adéquation du projet au regard des objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>3</sup>
+
+§ 2. Sur la base des éléments et critères visés aux articles 77/4 et 77/5, § 1er, [<sup>2</sup> la Commission d'avis]<sup>2</sup> peut proposer de requalifier une demande de convention pour une durée de quatre ans en demande de convention pour une durée de deux ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 63, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+##### Sous-section 4. [<sup>1</sup> - Contenu]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 64, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 77/6
+
+[<sup>1</sup> L'arrêté de subvention contient au minimum les éléments suivants :
+
+1° le montant de la subvention et ses modalités de liquidation ;
+
+2° les missions et les objectifs dévolus à l'opérateur en fonction de ses activités spécifiques ;
+
+3° le délai dans lequel l'opérateur transmet ses justificatifs et les sanctions en l'absence de remise dans le délai imparti ;
+
+4° les engagements d'équilibre financier de l'opérateur et les modalités de contrôle financier exercé par la Communauté française ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 34, 011; En vigueur : 17-06-2024&gt;
+
+##### Sous-section 5. [<sup>1</sup> - Evaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 66, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 77/7
+
+[<sup>1</sup> A l'issue de chaque exercice, la structure de diffusion d'oeuvres audiovisuelles transmet un rapport d'activités comprenant au minimum les éléments suivants :
+
+1° un rapport moral;
+
+2° les bilans et comptes de l'exercice écoulé, établis conformément aux lois et règlements comptables en vigueur. Si l'opérateur développe plusieurs secteurs d'activités, il doit également fournir la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre;
+
+3° le respect des missions et objectifs inscrits dans la [<sup>2</sup> subvention ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 67, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DFG 2024-04-18/30, art. 35, 011; En vigueur :: 17-06-2024&gt;
+
+#### 6.2.3. - Section III. - Aides aux festivals de cinéma
+
+##### 6.2.3.1. - Sous-section 1re. - Généralités
+
+###### Art. 78
+
+Après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup>, le Gouvernement peut octroyer une aide aux organisateurs de festivals de cinéma.
+
+La nature des aides aux organisateurs de festivals de cinéma est une subvention [<sup>2</sup> ...]<sup>2</sup> d'une durée de quatre ans ou de deux ans]<sup>1</sup>.
+
+[<sup>3</sup> Par dérogation à l'alinéa 2, les festivals qui ne sont organisés qu'une année sur deux, ne pourront bénéficier de la subvention que l'année au cours de laquelle le festival a lieu.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 68, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2024-04-18/30, art. 31, 011; En vigueur : 17-06-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 46, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.3.2. - Sous-section 2. - Conditions d'octroi
+
+###### Art. 79
+
+Pour pouvoir bénéficier d'une [<sup>3</sup> subvention]<sup>3</sup> [<sup>1</sup> d'une durée de deux ans]<sup>1</sup>, l'organisateur de festival doit remplir les critères de recevabilité suivants :
+
+1° être une personne morale;
+
+2° par ses activités, s'engager en faveur de la diversité culturelle;
+
+3° avoir pour objectif principal via l'organisation de festival, la diffusion et la promotion du cinéma, dans une démarche de valorisation de la pluralité des expressions, et plus particulièrement des oeuvres audiovisuelles d'art et essai [<sup>2</sup> d'initiative belge francophone]<sup>2</sup> ou émanant de cinématographies peu diffusées en Communauté française;
+
+4° privilégier un accès et une participation large du public.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 69, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 70, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 80
+
+Pour pouvoir bénéficier [<sup>2</sup> d'une [<sup>5</sup> subvention]<sup>5</sup> durée de quatre ans]<sup>2</sup>, outre les conditions prévues par l'article 79, l'organisateur de festival doit également :
+
+1° développer ou accueillir des activités en rapport avec le milieu professionnel audiovisuel et/ou développer ou accueillir des actions d'éducation permanente et d'éducation et de sensibilisation au cinéma;
+
+2° avoir bénéficié d'une [<sup>5</sup> subvention]<sup>5</sup> pendant [<sup>1</sup> les [<sup>3</sup> deux]<sup>3</sup> années]<sup>1</sup> consécutives [<sup>1</sup> précédant l'introduction de la demande]<sup>1</sup>.
+
+[<sup>4</sup> Sauf exception liée à la nature particulière des activités développées, le bénéfice d'une [<sup>5</sup> subvention]<sup>5</sup> d'une durée de quatre ans emporte pour l'opérateur bénéficiaire l'obligation de contribuer aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 38, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 36, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2017-02-23/17, art. 71, 003; En vigueur : 13-04-2017&gt;
+
+(4)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(5)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.3.3. - Sous-section 3. - Procédure d'octroi
+
+###### Art. 81
+
+[<sup>1</sup> § 1er. La demande d'aide comporte les éléments suivants :
+
+1\. le montant demandé et sa motivation ;
+
+2\. le choix motivé de solliciter une subvention de deux ou quatre ans ;
+
+3\. une description du projet d'activités pour lequel l'aide est sollicitée ;
+
+4\. la façon dont le projet d'activités pour lequel l'aide est sollicitée contribue aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique ou, au contraire, pourquoi l'opérateur estime devoir être exempté de cette obligation au regard de la nature particulière de ses activités ;
+
+5\. pour la durée du subventionnement :
+
+a. le volume des activités ;
+
+b. le plan de promotion ;
+
+c. le plan financier ;
+
+d. le volume d'emploi ;
+
+e. la politique des prix et d'accès au public ;
+
+f. la description du ou des publics visés ;
+
+g. les partenariats ;
+
+6\. les bilans et comptes de résultat de l'exercice précédent, établis conformément aux lois et règlements comptables en vigueur ;
+
+7\. si l'opérateur développe plusieurs secteurs d'activités : la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre ;
+
+8\. sur demande des services du Gouvernement, les rapports d'activité des deux années précédentes.
+
+§ 2. Le Gouvernement détermine :
+
+\- l'année pour laquelle une demande d'aide peut être déposée, selon qu'il s'agit d'une subvention d'une durée de deux ans ou de quatre ans ;
+
+\- la date limite de dépôt de demande d'aide ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 45, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 82
+
+§ 1er. [<sup>3</sup> la Commission d'avis]<sup>3</sup> émet un avis motivé sur l'opportunité d'octroyer une aide et sur le montant de celle-ci. A cette fin, elle prend en considération la spécificité du festival et s'appuie sur les critères d'évaluation suivants :
+
+1° [<sup>2</sup> la cohérence des éléments constitutifs de la demande]<sup>2</sup> transmis conformément à l'article 81, § 1er;
+
+2° l'intérêt culturel du projet pour la Communauté française;
+
+3° la qualité du projet et sa plus-value pour le développement et la promotion du cinéma en Communauté française;
+
+4° sa capacité de rayonnement;
+
+5° l'adéquation entre le montant de l'aide demandée et le projet culturel;
+
+[<sup>4</sup> 6° l'adéquation du projet au regard des objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>4</sup>
+
+§ 2. Sur la base des éléments et critères visés aux articles 81 et 82, § 1er, [<sup>3</sup> la Commission d'avis]<sup>3</sup> peut [<sup>1</sup> proposer de]<sup>1</sup> requalifier une demande portant sur l'obtention [<sup>1</sup> d'une [<sup>5</sup> subvention]<sup>5</sup> d'une durée de quatre ans en [<sup>5</sup> subvention]<sup>5</sup> d'une durée de deux ans]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 41, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 73, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(4)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(5)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.3.4. - Sous-section 4. - Contenu
+
+###### Art. 83
+
+[<sup>1</sup> L'arrêté de subvention contient au minimum les éléments suivants :
+
+1° le montant de la subvention et ses modalités de liquidation ;
+
+2° les missions et les objectifs dévolus à l'opérateur en fonction de ses activités spécifiques ;
+
+3° le délai dans lequel l'opérateur transmet ses justificatifs et les sanctions en l'absence de remise dans le délai imparti ;
+
+4° les engagements d'équilibre financier de l'opérateur et les modalités de contrôle financier exercé par la Communauté française ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 34, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.3.5. - Sous-section 5. - Evaluation
+
+###### Art. 84
+
+A l'issue de chaque exercice, l'organisateur de festival transmet un rapport d'activités comprenant au minimum les éléments suivants :
+
+1° un rapport moral;
+
+2° les bilans et comptes de l'exercice écoulé, établis conformément aux lois et règlements comptables en vigueur [<sup>1</sup> . Si l'opérateur développe plusieurs [<sup>2</sup> secteurs]<sup>2</sup> d'activités, il doit également fournir la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre]<sup>1</sup> ;
+
+3° le respect des missions et objectifs [<sup>3</sup> inscrits dans la [<sup>4</sup> l'arrêté de subvention ]<sup>4</sup>]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 34, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 37, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2017-02-23/17, art. 75, 003; En vigueur : 13-04-2017&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 35, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.3.6. - Sous-section 6.
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 76, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 85
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 76, 003; En vigueur : 13-04-2017&gt;
+
+##### 6.2.3.7. - Sous-section 7.
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 77, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 86
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 77, 003; En vigueur : 13-04-2017&gt;
+
+#### 6.2.4. - Section IV. - Aides aux exploitants de salles de cinéma.
+
+##### 6.2.4.1. - Sous-section 1re. - Généralités.
+
+###### Art. 87
+
+Après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup>, le Gouvernement peut octroyer une aide aux exploitants de salles de cinéma.
+
+La nature des aides aux exploitants de salles de cinéma est une subvention prenant la forme [<sup>1</sup> d'une [<sup>3</sup> subvention]<sup>3</sup> d'une durée de quatre ans ou d'une durée de deux ans]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 78, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.4.2. - Sous-section 2. - Conditions d'octroi.
+
+###### Art. 88
+
+Pour pouvoir bénéficier d'une [<sup>2</sup> [<sup>4</sup> subvention]<sup>4</sup> d'une durée de deux ans]<sup>2</sup>, l'exploitant de salles de cinéma remplit les critères de recevabilité suivants :
+
+1° être une personne morale;
+
+2° assurer la diffusion et la promotion du cinéma d'art et essai en général dans l'objectif de favoriser la diversité culturelle. Le Gouvernement arrête la proportion minimale d'oeuvres audiovisuelles d'art et essai programmées;
+
+3° avoir pour objectif principal la diffusion et la promotion du cinéma, dans une démarche de valorisation de la pluralité des expressions, et plus particulièrement des oeuvres audiovisuelles d'art et essai [<sup>1</sup> d'initiative belge francophone]<sup>1</sup> ou émanant de cinématographies peu diffusées en Communauté française;
+
+4° privilégier un accès et une participation large du public;
+
+5° développer des actions d'éducation permanente, et d'éducation et de sensibilisation au cinéma.
+
+[<sup>3</sup> Le bénéfice d'une [<sup>4</sup> subvention]<sup>4</sup> emporte pour l'opérateur bénéficiaire l'obligation de contribuer aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 70, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 79, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 89
+
+Pour pouvoir bénéficier [<sup>2</sup> d'une [<sup>3</sup> subvention]<sup>3</sup> durée de quatre ans]<sup>2</sup>, outre les conditions visées à l'article 88, l'exploitant de salles de cinéma doit avoir bénéficié d'une [<sup>3</sup> subvention]<sup>3</sup> pendant [<sup>1</sup> les deux années précédant l'introduction de la demande]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 33, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 36, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.4.3. - Sous-section 3. - Procédure d'octroi.
+
+###### Art. 90
+
+[<sup>1</sup> § 1er. La demande d'aide comporte les éléments suivants :
+
+1\. le montant demandé et sa motivation ;
+
+2\. le choix motivé de solliciter une subvention de deux ou quatre ans ;
+
+3\. une description du projet d'activités pour lequel l'aide est sollicitée ;
+
+4\. la façon dont le projet d'activités pour lequel l'aide est sollicitée contribue aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique ou, au contraire, pourquoi l'opérateur estime devoir être exempté de cette obligation au regard de la nature particulière de ses activités ;
+
+5\. pour la durée du subventionnement :
+
+a. le volume des activités ;
+
+b. le plan de promotion ;
+
+c. le plan financier ;
+
+d. le volume d'emploi ;
+
+e. la politique des prix et d'accès au public ;
+
+f. la description du ou des publics visés ;
+
+g. les partenariats ;
+
+6\. les bilans et comptes de résultat de l'exercice précédent, établis conformément aux lois et règlements comptables en vigueur ;
+
+7\. si l'opérateur développe plusieurs secteurs d'activités : la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre ;
+
+8\. sur demande des services du Gouvernement, les rapports d'activité des deux années précédentes.
+
+§ 2. Le Gouvernement détermine :
+
+\- l'année pour laquelle une demande d'aide peut être déposée, selon qu'il s'agit d'une subvention d'une durée de deux ans o.u de quatre ans ;
+
+\- la date limite de dépôt de demande d'aide ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 45, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 91
+
+§ 1er. [<sup>3</sup> la Commission d'avis]<sup>3</sup> émet un avis motivé sur l'opportunité d'octroyer une aide et sur le montant de celle-ci. A cette fin, elle prend en considération la spécificité du demandeur et s'appuie sur les critères d'évaluation suivants :
+
+1° la [<sup>2</sup> cohérence des éléments constitutifs de la demande transmis conformément]<sup>2</sup> à l'article 90, § 1er;
+
+2° l'intérêt culturel du projet pour la Communauté française;
+
+3° les actions vers le public;
+
+4° la qualité du projet et sa plus-value pour le développement et la promotion du cinéma en Communauté française;
+
+5° sa capacité de rayonnement sur le territoire de la région de langue française et de la région bilingue de Bruxelles-Capitale;
+
+6° l'adéquation entre le montant de l'aide demandée et le projet culturel.
+
+[<sup>4</sup> 7° l'adéquation du projet au regard des objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>4</sup>
+
+§ 2. Sur la base des éléments et critères repris aux articles 90 et 91, § 1er, [<sup>3</sup> la Commission d'avis]<sup>3</sup> peut [<sup>1</sup> proposer de]<sup>1</sup> requalifier une demande portant sur l'obtention [<sup>1</sup> d'une [<sup>5</sup> subvention ]<sup>5</sup> d'une durée de quatre ans en [<sup>5</sup> subvention]<sup>5</sup> d'une durée de deux ans]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 41, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 81, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(4)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(5)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.4.4. - Sous-section 4. - Contenu
+
+###### Art. 92
+
+[<sup>1</sup> L'arrêté de subvention contient au minimum les éléments suivants :
+
+1° le montant de la subvention et ses modalités de liquidation ;
+
+2° les missions et les objectifs dévolus à l'opérateur en fonction de ses activités spécifiques ;
+
+3° le délai dans lequel l'opérateur transmet ses justificatifs et les sanctions en l'absence de remise dans le délai imparti ;
+
+4° les engagements d'équilibre financier de l'opérateur et les modalités de contrôle financier exercé par la Communauté française ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 34, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.4.5. - Sous-section 5. - Evaluation
+
+###### Art. 93
+
+A l'issue de chaque exercice, l'exploitant de salles de cinéma transmet un rapport d'activités comprenant au minimum les éléments suivants :
+
+1° un rapport moral;
+
+2° les bilans et comptes de l'exercice écoulé, établis conformément aux lois et règlements comptables en vigueur [<sup>1</sup> . Si l'opérateur développe plusieurs [<sup>2</sup> secteurs]<sup>2</sup> d'activités, il doit également fournir la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre]<sup>1</sup> ;
+
+3° le respect des missions et objectifs [<sup>3</sup> inscrits dans la [<sup>4</sup> l'arrêté de subvention ]<sup>4</sup>]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 34, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 37, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2017-02-23/17, art. 83, 003; En vigueur : 13-04-2017&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 35, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.4.6. - Sous-section 6.
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 84, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 94
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 84, 003; En vigueur : 13-04-2017&gt;
+
+##### 6.2.4.7. - Sous-section 7.
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 85, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 95
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 85, 003; En vigueur : 13-04-2017&gt;
+
+#### 6.2.5. - Section V. - Aides aux [<sup>1</sup> plateformes]<sup>1</sup> de diffusion numérique
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 86, 003; En vigueur : 13-04-2017&gt;
+
+##### 6.2.5.1. - Sous-section 1re. - Généralités
+
+###### Art. 96
+
+Après avis de [<sup>3</sup> la Commission d'avis]<sup>3</sup>, le Gouvernement peut octroyer des aides à des [<sup>1</sup> plateformes]<sup>1</sup> de diffusion numérique d'oeuvres audiovisuelles autre que la diffusion en salles de cinéma.
+
+La nature des aides aux [<sup>1</sup> plateformes]<sup>1</sup> de diffusion numérique est une subvention prenant la forme d'une [<sup>4</sup> subvention]<sup>4</sup> [<sup>2</sup> d'une durée de deux ans ou de quatre ans]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 86, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 87, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.5.2. - Sous-section 2. - Conditions d'octroi.
+
+###### Art. 97
+
+[<sup>1</sup> § 1er. Pour pouvoir bénéficier d'une convention d'une durée de deux ans, la plateforme de diffusion numérique remplit les critères de recevabilité suivants :
+
+1° être une personne morale
+
+2° avoir pour objet social principal la diffusion et la promotion des oeuvres audiovisuelles dans une démarche de valorisation de la pluralité des expressions et plus particulièrement des oeuvres audiovisuelles d'art et essai d'initiative belge francophone ou émanant de cinématographies peu diffusées en Communauté française.
+
+[<sup>2</sup> Sauf exception liée à la nature particulière des activités développées, le bénéfice d'une [<sup>3</sup> subvention]<sup>3</sup> emporte pour l'opérateur bénéficiaire l'obligation de contribuer aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>2</sup>
+
+§ 2. Pour pouvoir bénéficier d'une [<sup>3</sup> subvention]<sup>3</sup> d'une durée de quatre ans, outre les conditions visées au § 1er, la plateforme de diffusion numérique doit avoir bénéficié d'une [<sup>3</sup> subvention]<sup>3</sup> pendant les deux années précédant l'introduction de la demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 88, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.5.3. - Sous-section 3. - Procédure d'octroi.
+
+###### Art. 98
+
+[<sup>1</sup> § 1er. La demande d'aide comporte les éléments suivants :
+
+1\. le montant demandé et sa motivation ;
+
+2\. le choix motivé de solliciter une subvention de deux ou quatre ans ;
+
+3\. une description du projet d'activités pour lequel l'aide est sollicitée ;
+
+4\. la façon dont le projet d'activités pour lequel l'aide est sollicitée contribue aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique ou, au contraire, pourquoi l'opérateur estime devoir être exempté de cette obligation au regard de la nature particulière de ses activités ;
+
+5\. pour la durée du subventionnement :
+
+a. le volume des activités ;
+
+b. le plan de promotion ;
+
+c. le plan financier ;
+
+d. le volume d'emploi ;
+
+e. la politique des prix et d'accès au public ;
+
+f. la description du ou des publics visés ;
+
+g. les partenariats ;
+
+6\. les bilans et comptes de résultat de l'exercice précédent, établis conformément aux lois et règlements comptables en vigueur ;
+
+7\. si l'opérateur développe plusieurs secteurs d'activités : la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre ;
+
+8\. sur demande des services du Gouvernement, les rapports d'activité des deux années précédentes.
+
+§ 2. Le Gouvernement détermine :
+
+\- l'année pour laquelle une demande d'aide peut être déposée, selon qu'il s'agit d'une subvention d'une durée de deux ans ou de quatre ans ;
+
+\- la date limite de dépôt de demande d'aide ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 45, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 99
+
+[<sup>2</sup> la Commission d'avis]<sup>2</sup> émet un avis motivé sur l'opportunité de conclure une [<sup>4</sup> subvention]<sup>4</sup>, sur la durée et le montant de celle-ci. A cette fin, elle prend en considération la spécificité du demandeur et s'appuie sur les critères d'évaluation suivants :
+
+1° la [<sup>1</sup> cohérence des éléments constitutifs de la demande]<sup>1</sup> transmis conformément à l'article 98, § 1er;
+
+2° l'intérêt culturel du projet pour la Communauté française;
+
+3° la qualité du projet et sa plus-value pour le développement et la promotion des oeuvres audiovisuelles en Communauté française;
+
+4° le public visé et la capacité de rayonnement en Communauté française ou au plan international;
+
+5° l'adéquation entre le montant de l'aide demandée et le projet culturel;
+
+[<sup>3</sup> 6° l'adéquation du projet au regard des objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-23/17, art. 90, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2022-10-13/24, art. 36, 009; En vigueur : 29-12-2022&gt;
+
+(4)&lt;DCFR 2024-04-18/30, art. 32, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.5.4. - Sous-section 4. - Contenu
+
+###### Art. 100
+
+[<sup>1</sup> L'arrêté de subvention contient au minimum les éléments suivants :
+
+1° le montant de la subvention et ses modalités de liquidation ;
+
+2° les missions et les objectifs dévolus à l'opérateur en fonction de ses activités spécifiques ;
+
+3° le délai dans lequel l'opérateur transmet ses justificatifs et les sanctions en l'absence de remise dans le délai imparti ;
+
+4° les engagements d'équilibre financier de l'opérateur et les modalités de contrôle financier exercé par la Communauté française ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/30, art. 34, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.5.5. - Sous-section 5. - Evaluation
+
+###### Art. 101
+
+A l'issue de chaque exercice, la [<sup>3</sup> plateforme]<sup>3</sup> de diffusion numérique transmet un rapport d'activités comprenant au minimum les éléments suivants :
+
+1° un rapport moral;
+
+2° les bilans et comptes de l'exercice écoulé, établis conformément aux lois et règlements comptables en vigueur [<sup>1</sup> . Si l'opérateur développe plusieurs [<sup>2</sup> secteurs]<sup>2</sup> d'activités, il doit également fournir la liste des recettes et des dépenses relatives aux activités visées par le présent chapitre]<sup>1</sup> ;
+
+3° le respect des missions et objectifs [<sup>4</sup> inscrits dans la [<sup>5</sup> l'arrêté de subvention ]<sup>5</sup>]<sup>4</sup>.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 34, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2017-02-23/17, art. 37, 003; En vigueur : 13-04-2017&gt;
+
+(3)&lt;DCFR 2017-02-23/17, art. 86, 003; En vigueur : 13-04-2017&gt;
+
+(4)&lt;DCFR 2017-02-23/17, art. 92, 003; En vigueur : 13-04-2017&gt;
+
+(5)&lt;DCFR 2024-04-18/30, art. 35, 011; En vigueur : 17-06-2024&gt;
+
+##### 6.2.5.6. - Sous-section 6.
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 93, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 102
+
+&lt;Abrogé par DCFR 2017-02-23/17, art. 93, 003; En vigueur : 13-04-2017&gt;
+
+### CHAPITRE III. [<sup>1</sup> - aide à la transition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 94, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 102/1
+
+[<sup>1</sup> Si, après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup>, le Gouvernement refuse d'octroyer une aide à un opérateur qui bénéficiait, l'année précédent la demande, [<sup>3</sup> d'une subvention]<sup>3</sup> d'une durée de quatre ans, il peut lui octroyer, sous réserve des limites des crédits budgétaires disponibles visées à l'article 2, § 1er, une aide exceptionnelle destinée à assurer une transition durant l'année qui suit la [<sup>3</sup> la fin du subventionnement]<sup>3</sup>.
+
+Le Gouvernement détermine le montant et les modalités d'octroi de cette subvention.
+
+Cet article est applicable aux opérateurs audiovisuels dont le contrat-programme arrive à échéance le 31 décembre 2016 ou le 31 décembre 2017.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 95, 003; En vigueur : 13-04-2017&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 112, 004; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2024-04-18/30, art. 47, 011; En vigueur : 17-06-2024&gt;
+
+## 7\. - TITRE VII. - AIDES A LA FORMATION
+
+###### Art. 103
+
+[<sup>1</sup> § 1er. Le Gouvernement octroie des aides visant à faciliter la participation des professionnels du secteur audiovisuel à des formations nationales et internationales dans le domaine audiovisuel et la participation des non-professionnels à des formations nationales dans le domaine audiovisuel.
+
+Par professionnel du secteur audiovisuel, l'on entend toute personne détentrice d'un diplôme de l'enseignement supérieur artistique dans le domaine audiovisuel ou ayant une expérience professionnelle significative dans ce domaine.
+
+§ 2. La nature de l'aide à la formation est une subvention destinée à couvrir exclusivement les frais d'inscription du participant à la formation ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-03-16/01, art. 12, 010; En vigueur : 01-04-2023&gt;
+
+###### Art. 104
+
+La demande d'aide doit être introduite par un producteur d'oeuvres audiovisuelles ou par une personne physique de nationalité belge ou ressortissant d'un Etat membre de l'Espace économique européen. Les ressortissants d'un Etat non membre de l'Espace économique européen et les apatrides ayant la qualité de résident en Belgique[<sup>1</sup> peuvent être assimilés]<sup>1</sup> aux ressortissants d'un Etat membre de l'Espace économique européen.
+
+----------
+
+(1)&lt;DCFR 2021-07-14/20, art. 1, 006; En vigueur : 01-09-2021&gt;
+
+###### Art. 105
+
+[<sup>1</sup> Pour pouvoir bénéficier d'une aide à la formation :
+
+1° la formation souhaitée doit être incluse dans une liste arrêtée par le Gouvernement selon que la formation s'adresse à des professionnels ou à des non-professionnels.
+
+Par dérogation, si une demande d'aide porte sur une formation destinée à des non-professionnels qui ne figure pas dans la liste arrêtée par le Gouvernement, la/le Ministre ayant la culture dans ses attributions pourra la rendre éligible, sur la base des éléments suivants :
+
+\- le caractère sérieux de la formation ;
+
+\- la qualité des CV des formateurs en terme d'expertise audiovisuelle ;
+
+\- les matières abordées au cours de la formation ;
+
+2° la demande d'aide doit être introduite avant la date à laquelle la formation se déroule ;
+
+3° la demande d'aide doit concerner la part des frais d'inscription qui n'est pas prise en charge par un autre organisme ;
+
+4° pour les formations destinées à des non-professionnels, le demandeur doit être âgé de minimum dix-huit ans et maximum quarante ans au moment de l'introduction de la demande et démontrer un intérêt et une motivation à s'intégrer dans le milieu professionnel de l'audiovisuel avec pour objectif d'en faire à terme un métier ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-03-16/01, art. 13, 010; En vigueur : 01-04-2023&gt;
+
+###### Art. 106
+
+Le Gouvernement arrête le ou les montants minimum et maximum pouvant être octroyés pour les aides à la formation.
+
+[<sup>1</sup> Le montant de l'aide octroyée par le Gouvernement ne peut excéder :
+
+\- cinquante pour cent des frais d'inscription à la formation pour les professionnels ;
+
+\- septante-cinq pour cent des frais d'inscription à la formation pour les non-professionnels]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-03-16/01, art. 14, 010; En vigueur : 01-04-2023&gt;
+
+###### Art. 107
+
+L'aide est octroyée automatiquement selon l'ordre de réception des demandes éligibles, jusqu'à liquidation de l'enveloppe budgétaire annuelle.
+
+###### Art. 108
+
+A l'issue de la formation, le bénéficiaire présente [<sup>1</sup> , au plus tard trois mois après la fin de la formation,]<sup>1</sup> un rapport relatif à la formation à laquelle il a participé [<sup>2</sup> , récapitulant son avis sur le contenu de la formation, la qualité des formateurs du matériel didactique et l'intérêt de la formation pour l'avancement de son projet personnel.
+
+Le Gouvernement détermine le modèle de rapport à remettre par le bénéficiaire. ]<sup>2</sup>.
+
+Le Gouvernement détermine le modèle de rapport à remettre par le bénéficiaire.
+
+----------
+
+(1)&lt;DCFR 2013-07-17/37, art. 43, 002; En vigueur : 21-08-2013&gt;
+
+(2)&lt;DCFR 2023-03-16/01, art. 15, 010; En vigueur : 01-04-2023&gt;
+
+## TITRE VII/1.
+
+&lt;Abrogé par DCFR 2024-04-18/30, art. 48, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 108/1
+
+&lt;Abrogé par DCFR 2024-04-18/30, art. 48, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 108/2
+
+&lt;Abrogé par DCFR 2024-04-18/30, art. 48, 011; En vigueur : 17-06-2024&gt;
+
+## 8\. - TITRE VIII. - DISPOSITIONS MODIFICATIVES, TRANSITOIRES, ABROGATOIRES ET FINALES
+
+### 8.1. - CHAPITRE Ier. - Dispositions modificatives
+
+###### Art. 109
+
+&lt;Abrogé par DCFR 2024-04-18/30, art. 49, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 110
+
+&lt;Abrogé par DCFR 2024-04-18/30, art. 49, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 111
+
+&lt;Abrogé par DCFR 2024-04-18/30, art. 49, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 112
+
+&lt;Abrogé par DCFR 2024-04-18/30, art. 49, 011; En vigueur : 17-06-2024&gt;
+
+###### Art. 113
+
+Dans l'article 1er, 11°, du décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française, les mots "l'arrêté de l'Exécutif du 26 juillet 1990 relatif à l'agrément et au subventionnement des ateliers de production et d'accueil en matière de films et de vidéogrammes" sont remplacés par les mots "le Chapitre Ier du titre VI du décret du 10 novembre 2011 relatif au soutien au cinéma et à la création audiovisuelle à l'exception des ateliers d'école visés à l'article 62, 3° ".
+
+###### Art. 114
+
+Dans l'article 28 du même décret, le mot "reconnu" est remplacé par le mot "subventionné".
+
+### 8.2. - CHAPITRE II. - Dispositions transitoires, abrogatoires et finales
+
+###### Art. 115
+
+Aussi longtemps que l'article 5 n'a pas fait l'objet de dispositions d'application spécifiques, le Centre du Cinéma et de l'Audiovisuel continue à bénéficier des dispositions de l'arrêté du Gouvernement de la Communauté française du 12 avril 1995 relatif à la gestion budgétaire, financière et comptable du "Centre du Cinéma et de l'Audiovisuel".
+
+###### Art. 116
+
+Sans préjudice de l'article 121, 1°, la liquidation des subventions à la diffusion relatives aux recettes 2011 en application des articles 23 à 26 de l'arrêté royal du 22 juin 1967 tendant à promouvoir la culture cinématographique d'expression française sera effectuée en 2012.
+
+###### Art. 117
+
+Sans préjudice de l'article 121, 2°, les ateliers conservent le bénéfice des subventions octroyées en application de l'arrêté de l'Exécutif de la Communauté française du 26 juillet 1990, précité, pour l'année 2012, en ce compris la liquidation de la seconde tranche de subvention en 2013.
+
+###### Art. 118
+
+Les opérateurs visés au chapitre II du titre VI qui ont conclu, avant la date d'entrée en vigueur du présent décret, une convention avec le Gouvernement de la Communauté française ou, pour ce qui concerne les organisateurs de festivals qui ne sont pas conventionnés mais ont obtenu des subventions pendant une période ininterrompue de trois ans précédant l'entrée en vigueur du décret, en conservent le bénéfice jusqu'à la conclusion d'un contrat-programme en application du présent décret et au plus tard jusqu'à l'échéance de ladite convention ou jusque fin 2012 pour ce qui concerne les organisateurs de festivals subventionnés.
+
+###### Art. 118/1
+
+[<sup>1</sup> § 1er. Les conventions et les contrats-programmes conclus dans le cadre du titre VI prennent fin le 31 décembre 2017 en vue de permettre l'établissement d'un échéancier commun. Toutes les nouvelles conventions à conclure dans le cadre du titre VI débuteront le 1er janvier 2018 et arriveront à échéance le 31 décembre 2019 pour les conventions de deux ans et le 31 décembre 2021 pour les conventions de quatre ans.
+
+§ 2. Les demandes de conventions pour la période 2018-2021 doivent être déposées pour le 10 mai 2017.
+
+§ 3. Les opérateurs dont la convention ou le contrat-programme a pris fin anticipativement en application du § 1er et qui n'obtiennent pas le renouvellement pour la période 2018-2021 bénéficient d'une aide au projet durant la ou les années qui restai(en)t à courir de leur convention ou de leur contrat-programme pour autant qu'ils ne soient pas dans une situation qui aurait justifié une suspension, modification ou résiliation de la convention ou du contrat-programme]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 99, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 118/2
+
+[<sup>1</sup> Les distributeurs d'oeuvres audiovisuelles visés à la section II du chapitre II du titre VI, qui ont bénéficié d'une subvention pour l'année 2016, en conservent le bénéfice, aux mêmes conditions, pour l'année 2017.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-23/17, art. 100, 003; En vigueur : 13-04-2017&gt;
+
+###### Art. 119
+
+La Commission de Sélection de films culturels créée par l'article 11 de l'arrêté royal du 22 juin 1967 tendant à promouvoir la culture cinématographique d'expression française continue à fonctionner jusqu'à la constitution de la Commission d'aide aux oeuvres audiovisuelles créée en application du présent décret.
+
+La Commission de Sélection de films visée à l'alinéa 1er remet les avis visés aux chapitres Ier à IV du titre IV.
+
+###### Art. 120
+
+Le Comité de concertation du Cinéma et de l'Audiovisuel créé par l'arrêté du Gouvernement de la Communauté française du 9 juillet 1996 portant création du Comité de concertation du Centre du Cinéma et de l'Audiovisuel continue à fonctionner tant qu'il n'est pas remplacé par le Comité de concertation du Cinéma et de l'Audiovisuel créé en application du présent décret.
+
+###### Art. 121
+
+Sont abrogés :
+
+1° l'arrêté royal du 22 juin 1967 tendant à promouvoir la culture cinématographique d'expression française tel que modifié par les arrêtés royaux des 17 février 1976, 4 avril 1995, 25 mars 1996, 21 décembre 1998, 5 mai 1999 et 18 décembre 2001 à l'exception du chapitre III qui est abrogé à une date déterminée par le Gouvernement et au plus tard le 1er janvier 2013;
+
+2° l'arrêté de l'Exécutif de la Communauté française du 26 juillet 1990 relatif à l'agrément et au subventionnement des ateliers de production et d'accueil en matière de films et de vidéogrammes;
+
+3° à une date déterminée par le Gouvernement et au plus tard le 1er janvier 2013, l'arrêté du Gouvernement de la Communauté française du 9 juillet 1996 portant création du Comité de concertation du Cinéma et de l'Audiovisuel tel que modifié par les arrêtés des 18 septembre 1996, 21 mai 1997 et 20 mars 2003;
+
+4° le chapitre Ier du décret du 22 décembre 1994 portant diverses mesures en matière d'audiovisuel et d'enseignement.
+
+###### Art. 122
+
+Le présent décret entre en vigueur le 1er janvier 2012 à l'exception de l'article 112 qui entre en vigueur lors de la publication au Moniteur belge.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 10 novembre 2011.
+
+Le Ministre-Président du Gouvernement de la Communauté française,
+
+R. DEMOTTE
+
+Le Vice-Président et Ministre de l'Enfance, de la Recherche et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Vice-Président et Ministre du Budget, des Finances et des Sports,
+
+A. ANTOINE
+
+Le Vice-Président et Ministre de l'Enseignement supérieur,
+
+J.-Cl. MARCOURT
+
+La Ministre de la Jeunesse,
+
+Mme E. HUYTEBROECK
+
+La Ministre de la Culture, de l'Audiovisuel, de la Santé et de l'Egalité des chances,
+
+Mme F. LAANAN
+
+La Ministre de l'Enseignement obligatoire et de Promotion sociale
+
+Mme M.-D. SIMONET

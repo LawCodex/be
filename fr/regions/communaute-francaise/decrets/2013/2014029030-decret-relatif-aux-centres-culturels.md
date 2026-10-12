@@ -1,0 +1,1501 @@
+---
+title: "Décret relatif aux Centres culturels"
+identifier: "2014029030"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/21/2014029030/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2013-11-21
+published: 2014-01-29
+entry_into_force: 2014-02-08
+last_amended: 2026-01-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/21/2014029030/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 29-01-2014 et mise à jour au 09-01-2026"
+retrieved: 2026-10-12
+---
+
+# 21 NOVEMBRE 2013. - Décret relatif aux Centres culturels
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales
+
+### Section Ire. - Définitions
+
+##### Art. 1er
+
+Au sens du présent décret, on entend par :
+
+1° Association de droit privé : une association sans but lucratif ou une association de fait;
+
+2° Association sans but lucratif : l'association sans but lucratif au sens de la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales sans but lucratif et les fondations;
+
+3° Collectivité publique associée : la collectivité publique qui participe à l'organisation, au fonctionnement et au financement d'un centre culturel, à savoir :
+
+a) une commune de la région de langue française ou de la région bilingue de Bruxelles-Capitale;
+
+b) une province de la région de langue française;
+
+c) la Commission communautaire française;
+
+4° [<sup>1</sup> Commission d'avis : la Commission de l'Action culturelle et territoriale ;]<sup>1</sup>
+
+5° Culture : les valeurs, les croyances, les convictions, les langues, les savoirs et les arts, les traditions, institutions et modes de vie par lesquels une personne ou un groupe exprime son humanité ainsi que les significations qu'il donne à son existence et à son développement;
+
+6° Démocratie culturelle : la participation active des populations à la culture, à travers des pratiques collectives d'expression, de recherche et de création culturelles conduites par des individus librement associés, dans une perspective d'égalité, d'émancipation et de transformation sociale et politique;
+
+7° Démocratisation culturelle : l'élargissement et la diversification des publics, le développement de l'égalité dans l'accès aux oeuvres et la facilitation de cet accès;
+
+8° Développement culturel : l'accroissement et l'intensification de l'exercice du droit à la culture par les populations d'un territoire et la réduction des inégalités dans l'exercice du droit à la culture;
+
+9° Droit à la culture : au sein des Droits humains, l'ensemble des droits culturels tant en termes de créances que de libertés, individuelles et collectives, comprenant notamment :
+
+a) la liberté artistique, entendue comme la liberté de s'exprimer de manière créative, de diffuser ses créations et de les promouvoir;
+
+b) le droit au maintien, au développement et à la promotion des patrimoines et des cultures;
+
+c) l'accès à la culture et à l'information en matière culturelle, entendu comme l'accès notamment économique, physique, géographique, temporel, symbolique ou intellectuel;
+
+d) la participation à la culture, entendue comme la participation active à la vie culturelle et aux pratiques culturelles;
+
+e) la liberté de choix de ses appartenances et référents culturels;
+
+f) le droit de participer à l'élaboration et à la mise en oeuvre des politiques et programmes, et à la prise de décisions particulières en matière culturelle;
+
+10° Education permanente : la démarche visant l'analyse critique de la société, la stimulation d'initiatives démocratiques et collectives, le développement de la citoyenneté active et l'exercice des droits sociaux, culturels, environnementaux et économiques, dans une perspective d'émancipation individuelle et collective des publics, en privilégiant la participation active des publics visés et l'expression culturelle;
+
+11° Fonction culturelle : l'obligation pour un pouvoir public, le cas échéant déléguée par lui à un ou plusieurs opérateurs culturels, de mettre en oeuvre un ensemble de moyens afin de permettre l'exercice individuel et collectif du droit à la culture, notamment par l'encouragement de la création et de la créativité, la vie associative, l'animation culturelle, la participation culturelle, la diffusion, l'information, l'éducation et l'enseignement, l'alphabétisation, la conservation, la médiation culturelle;
+
+12° Gouvernement : le Gouvernement de la Communauté française;
+
+13° Médiation culturelle : l'ensemble des initiatives et démarches visant à faciliter l'accès à la culture, la rencontre des créateurs, l'appropriation des oeuvres et la participation à la vie culturelle par tous les individus et les groupes;
+
+14° Ministre : le Ministre ayant les centres culturels dans ses attributions;
+
+15° Opération culturelle : un ensemble cohérent d'activités culturelles mises en oeuvre par un centre culturel et articulant différentes fonctions culturelles;
+
+16° Représentant d'une association de droit privé : toute personne désignée par une association de droit privé pour la représenter, étant entendu qu'un mandataire public ne peut pas être désigné comme représentant d'une association de droit privé durant l'exercice de son mandat;
+
+17° Représentant d'une personne de droit public : tout mandataire public, quel que soit le titre auquel il siège, ou toute personne désignée par un pouvoir public pour le représenter;
+
+[<sup>2</sup> 18° Objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique: les objectifs visés à l'article 1.4.5-2 du Code de l'enseignement fondamental et de l'enseignement secondaire, ainsi que les stratégies, les objectifs, le programme et le calendrier définis dans le plan d'actions visé à l'article 1.4.5-13 du même Code.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2022-10-13/24, art. 37, 007; En vigueur : 29-12-2022&gt;
+
+### Section II. - Principes généraux
+
+##### Art. 2
+
+Le présent décret a pour objet le développement et le soutien de l'action des centres culturels afin de contribuer à l'exercice du droit à la culture des populations, dans une perspective d'égalité et d'émancipation.
+
+L'action des centres culturels :
+
+1° augmente la capacité d'analyse, de débat, d'imagination et d'action des populations d'un territoire, notamment en recourant à des démarches participatives;
+
+2° cherche à associer les opérateurs culturels d'un territoire à la conception et à la conduite d'un projet d'action culturelle de moyen et long termes;
+
+3° s'inscrit dans des réseaux de coopération territoriaux ou sectoriels.
+
+L'action des centres culturels contribue à l'exercice du droit à la culture et plus largement, à l'exercice de l'ensemble des droits culturels par tous et pour tous dans le respect de l'ensemble des droits humains.
+
+L'action des centres culturels favorise le plaisir des populations de la découverte culturelle par les pratiques qu'ils déploient.
+
+[<sup>1</sup> L'action des centres culturels contribue aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-10-13/24, art. 37, 007; En vigueur : 29-12-2022&gt;
+
+##### Art. 3
+
+Le Gouvernement peut reconnaître l'action culturelle et octroyer une subvention, dans les limites des crédits budgétaires, au centre culturel qui remplit les conditions et respecte les procédures établies en vertu du présent décret.
+
+##### Art. 4
+
+Un centre culturel est un lieu de réflexion, de mobilisation et d'action culturelle par, pour et avec les populations, les acteurs institutionnels et les acteurs associatifs d'un territoire.
+
+L'action qu'il propose permet, avec celle d'autres opérateurs culturels, l'exercice du droit à la culture par tout individu.
+
+##### Art. 5
+
+Les populations participent activement à la définition, la gestion et l'évaluation de l'action culturelle mise en oeuvre par le centre culturel notamment au moyen des mécanismes de concertation visés aux chapitres 4 et 5 et par l'action des organes de gestion et du conseil d'orientation visée au chapitre 10.
+
+##### Art. 6
+
+Sans préjudice des dispositions visées au chapitre 5, le centre culturel peut obtenir la reconnaissance de son action culturelle et l'octroi d'un subventionnement pour autant qu'il dispose du statut d'association sans but lucratif et que son assemblée générale soit composée d'une chambre publique et d'une chambre privée conformément à l'article 85.
+
+##### Art. 7
+
+L'assemblée générale et le conseil d'administration du centre culturel respectent la loi du 16 juillet 1973 garantissant la protection des tendances idéologiques et philosophiques.
+
+##### Art. 8
+
+&lt;Abrogé par DCFR 2024-03-21/64, art. 1, 008; En vigueur : 21-03-2024&gt;
+
+## CHAPITRE II. - Champ de l'action culturelle
+
+### Section Ire. - Action culturelle générale
+
+##### Art. 9
+
+Le centre culturel exerce une action culturelle générale.
+
+L'action culturelle générale vise le développement culturel d'un territoire, dans une démarche d'éducation permanente et une perspective de démocratisation culturelle, de démocratie culturelle et de médiation culturelle.
+
+Le centre culturel décrit l'action culturelle générale qu'il entend mener dans un projet d'action culturelle conformément aux dispositions inscrites au chapitre 4.
+
+##### Art. 10
+
+Outre l'action culturelle générale, le centre culturel peut exercer, de manière cumulative le cas échéant, une action culturelle intensifiée, une ou plusieurs actions culturelles spécialisées ou une action culturelle spécialisée de diffusion des arts de la scène.
+
+### Section II. - Action culturelle intensifiée
+
+##### Art. 11
+
+Outre une action culturelle générale, un centre culturel peut exercer, seul ou conjointement avec un ou plusieurs autres centres culturels, une action culturelle intensifiée.
+
+L'action culturelle est intensifiée notamment par l'ampleur du projet d'action culturelle, l'approfondissement de la participation des populations ou la diversification et la consolidation des actions et des partenariats avec les opérateurs culturels sur un territoire de projet.
+
+Le centre culturel décrit l'action culturelle intensifiée qu'il entend mener dans le projet d'action culturelle visé à l'article 9, alinéa 3, en y indiquant la manière dont l'intensification est réalisée, conformément aux dispositions du chapitre 4.
+
+### Section III. - Action culturelle spécialisée
+
+##### Art. 12
+
+Outre une action culturelle générale, un centre culturel peut exercer une ou plusieurs actions culturelles spécialisées.
+
+La ou les actions culturelles spécialisées portent sur le développement d'une fonction culturelle ou d'une démarche artistique ou socioculturelle.
+
+La ou les actions culturelles spécialisées peuvent être proposées en coopération avec :
+
+1° Un ou plusieurs centres culturels;
+
+2° Un ou plusieurs opérateurs culturels relevant des secteurs de l'architecture, des arts de la scène, des arts plastiques, des arts visuels, du cinéma, de l'éducation permanente, de l'enseignement, de la jeunesse, de la lecture publique, des lettres, du livre, du patrimoine culturel ou de tout domaine culturel ou éducatif;
+
+3° Un ou plusieurs opérateurs actifs dans le développement local ou régional, notamment dans les domaines de l'action sociale, de l'aménagement du territoire, du développement rural ou urbain, de l'environnement, du patrimoine ou du tourisme;
+
+4° Un ou plusieurs opérateurs assimilables aux 1°, 2° ou 3°, dont le siège social n'est pas situé en région de langue française ou en région bilingue de Bruxelles-Capitale;
+
+[<sup>1</sup> 5° des établissements d'enseignement organisés ou subventionnés par la Communauté française.]<sup>1</sup>
+
+Le centre culturel décrit la ou les actions culturelles spécialisées qu'il entend mener dans le projet d'action culturelle visé à l'article 9, alinéa 3, en y indiquant la manière dont la spécialisation est réalisée, conformément aux dispositions du chapitre 4.
+
+----------
+
+(1)&lt;DCFR 2022-10-13/24, art. 37, 007; En vigueur : 29-12-2022&gt;
+
+### Section IV. - Action culturelle spécialisée de diffusion des arts de la scène
+
+##### Art. 13
+
+Outre une action culturelle générale, un centre culturel peut exercer une action culturelle spécialisée de diffusion des arts de la scène.
+
+L'action culturelle spécialisée de diffusion des arts de la scène vise la diffusion de la création professionnelle dans le secteur des arts de la scène et la circulation des oeuvres entre les centres culturels dont l'action culturelle est reconnue.
+
+Le centre culturel décrit l'action culturelle spécialisée de diffusion des arts de la scène qu'il entend mener dans le projet d'action culturelle visé à l'article 9, alinéa 3, en y indiquant la manière dont la diffusion des arts de la scène est réalisée, conformément aux dispositions du chapitre 4.
+
+## CHAPITRE III. - Territoire de référence de l'action culturelle
+
+### Section Ire. - Territoire d'implantation
+
+##### Art. 14
+
+Le territoire d'implantation d'un centre culturel est le territoire sur lequel le centre culturel exerce son action culturelle générale.
+
+Le territoire d'implantation visé à l'alinéa 1er couvre le territoire d'une ou plusieurs communes.
+
+##### Art. 15
+
+Afin de déterminer son territoire d'implantation, le centre culturel qui entend solliciter la reconnaissance d'une action culturelle générale lance, le cas échéant, préalablement à l'introduction de sa demande, un appel à manifestation d'intérêt auprès de la ou des communes limitrophes ou avoisinantes à la commune sur le territoire de laquelle il se situe et qui ne font pas partie du territoire d'implantation d'un centre culturel dont l'action culturelle est reconnue.
+
+En cas de manifestation d'intérêt d'une ou plusieurs communes et moyennant leur accord, le territoire d'implantation du centre culturel qui entend solliciter la reconnaissance d'une action culturelle générale peut s'étendre au territoire de cette ou de ces communes.
+
+##### Art. 16
+
+Le territoire d'implantation d'un centre culturel, dont l'action culturelle générale est reconnue, peut être étendu au territoire de communes limitrophes ou avoisinantes moyennant leur accord.
+
+##### Art. 17
+
+La ou les communes qui composent le territoire d'implantation d'un centre culturel sont de plein droit des collectivités publiques associées.
+
+### Section II. - Territoire de projet
+
+##### Art. 18
+
+Le territoire de projet est un territoire sur lequel un centre culturel exerce, le cas échéant, une action culturelle intensifiée, une action culturelle spécialisée ou une action culturelle spécialisée de diffusion des arts de la scène.
+
+Le territoire de projet d'un centre culturel inclut au moins le territoire d'implantation de ce centre culturel.
+
+## CHAPITRE IV. - Projet d'action culturelle
+
+##### Art. 19
+
+§ 1er. Le centre culturel qui entend solliciter la reconnaissance de son action culturelle met en oeuvre une démarche qui permet de :
+
+1° faire émerger, au moyen d'un processus participatif, les enjeux prioritaires de société au départ d'une analyse partagée du territoire d'implantation ainsi que de l'autoévaluation d'actions culturelles antérieures;
+
+2° élaborer et mettre en oeuvre au départ de ces enjeux, pour une durée de cinq années, un projet d'action culturelle couvrant le territoire d'implantation et portant, le cas échéant, sur le ou les territoires de projet;
+
+3° développer les concertations et les partenariats utiles avec les opérateurs culturels [<sup>1</sup> et les écoles]<sup>1</sup>, ainsi que les actions interdisciplinaires et intersectorielles;
+
+4° définir les opérations culturelles permettant la mise en oeuvre concrète du projet d'action culturelle;
+
+5° rencontrer et renforcer les fonctions culturelles;
+
+6° organiser un processus d'autoévaluation afin de piloter le projet d'action culturelle, de rendre compte des résultats et impacts obtenus, d'interroger le sens des actions culturelles et d'alimenter l'analyse partagée visée au 1°.
+
+§ 2. [<sup>2</sup> la direction ]<sup>2</sup>du centre culturel ou la personne qu'[<sup>2</sup> elle]<sup>2</sup> désigne rédige un rapport portant sur l'analyse partagée visée au paragraphe 1 er, 1° et 6°, le cas échéant avec l'appui de l'équipe professionnelle visée aux articles 95 et 96.
+
+§ 3. Le centre culturel qui met en oeuvre l'analyse partagée visée au paragraphe 1er, 1° et 6°, veille à :
+
+1° lancer un appel public de participation à l'analyse partagée selon les formes les plus appropriées qu'il identifie et, au moins, auprès des opérateurs culturels actifs sur le territoire de référence reconnus par la Communauté française;
+
+2° déterminer les personnes morales et physiques invitées à participer à l'analyse partagée en prenant en considération les manifestations d'intérêt exprimées suite à l'appel public visé au 1°.
+
+Le conseil d'administration du centre culturel prend acte de l'analyse partagée.
+
+Lorsqu'une personne physique ou morale contribuant à améliorer l'exercice effectif du droit à la culture n'a pas eu connaissance de l'appel public de participation visé à l'alinéa 1er, 1°, ou lorsqu'elle estime être évincée injustement du processus d'analyse partagée, elle peut saisir le conseil d'administration du centre culturel, avant qu'il ne prenne acte de l'analyse partagée, afin de présenter ses arguments indiquant l'utilité et la pertinence de sa participation. Le conseil d'administration peut imposer la participation de la personne dont question au processus ou, si celui-ci est achevé, procéder à son audition afin d'insérer, le cas échéant, des amendements à l'analyse partagée qui lui est soumise.
+
+----------
+
+(1)&lt;DCFR 2022-10-13/24, art. 37, 007; En vigueur : 29-12-2022&gt;
+
+(2)&lt;DCFR 2024-03-21/64, art. 2, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 20
+
+L'action culturelle vise à permettre aux populations l'exercice effectif du droit à la culture, avec une attention particulière à la réduction des inégalités dans l'exercice de ce droit.
+
+Afin de permettre l'exercice du droit à la culture visé à l'alinéa 1er, le projet d'action culturelle précise l'impact visé sur :
+
+1° la liberté de création et d'expression;
+
+2° l'accès économique, physique, géographique, temporel, symbolique ou intellectuel à des oeuvres et à des pratiques diversifiées et de qualité;
+
+3° le renforcement de l'exercice d'une citoyenneté responsable, active, critique et solidaire;
+
+4° l'accroissement des capacités d'expression et de créativité des citoyens, seuls ou en groupe, dans la perspective de leur émancipation individuelle et collective;
+
+5° le maintien, le développement et la promotion des patrimoines et des cultures, y compris dans leur phase d'émergence;
+
+6° le décloisonnement des pratiques culturelles entre catégories sociales, champs d'action et groupes culturels;
+
+[<sup>1</sup> 7° les objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-10-13/24, art. 37, 007; En vigueur : 29-12-2022&gt;
+
+##### Art. 21
+
+§ 1er. Le projet d'action culturelle comprend :
+
+1° La présentation des enjeux ayant émergé de l'analyse partagée et de l'autoévaluation telles que visées à l'article 19;
+
+2° L'expression de ces enjeux en objectifs à atteindre;
+
+3° L'échelonnement de l'action culturelle générale à court, moyen et long terme, de façon à rencontrer ces objectifs;
+
+4° La contribution éventuelle d'une action culturelle intensifiée, d'une ou plusieurs actions culturelles spécialisées, d'une action culturelle spécialisée de diffusion des arts de la scène, ou d'une ou plusieurs coopérations entre centres culturels à la réalisation de ces objectifs;
+
+5° Le descriptif des partenariats noués, précisant l'objet sur lequel ils portent;
+
+6° Le descriptif général de la répartition des ressources disponibles;
+
+7° La description des démarches, procédures et méthodes envisagées pour permettre l'autoévaluation du projet d'action culturelle et le développement de l'analyse partagée.
+
+§ 2. Le conseil d'administration du centre culturel valide le projet d'action culturelle.
+
+Lorsqu'une personne physique ou morale contribuant à améliorer l'exercice effectif du droit à la culture estime que le projet d'action culturelle lui cause un préjudice, notamment d'ordre financier, elle peut saisir [<sup>1</sup> la Commission d'avis]<sup>1</sup>, avant qu'elle n'examine le projet d'action culturelle conformément à l'article 33, afin de présenter ses arguments démontrant le préjudice subi.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+##### Art. 22
+
+Le projet d'action culturelle privilégie les coopérations avec et entre les collectivités publiques associées, les autres collectivités publiques, les personnes physiques et les personnes morales, contribuant à améliorer l'exercice effectif du droit à la culture.
+
+## CHAPITRE V. - Reconnaissance de l'action culturelle
+
+### Section Ire. - Opportunité de la reconnaissance
+
+##### Art. 23
+
+§ 1er. Le centre culturel qui entend solliciter l'octroi d'une reconnaissance de son action culturelle adresse aux services du Gouvernement une demande de principe.
+
+§ 2. La demande de principe comprend :
+
+1° Une note d'intention contenant des hypothèses relatives au développement culturel du territoire prenant comme point de départ une ébauche de l'analyse partagée visée à l'article 19;
+
+2° Une esquisse de projet d'action culturelle;
+
+3° Le résultat de l'appel à manifestation d'intérêt tel que défini à l'article 15.
+
+§ 3. Les services du Gouvernement analysent la demande visée au paragraphe 2. Ils formulent, dans un délai de nonante jours à dater de l'introduction de la demande, un avis sur l'opportunité de permettre au centre culturel d'introduire une demande d'octroi de reconnaissance de son action culturelle.
+
+L'avis des services du Gouvernement est communiqué à [<sup>1</sup> la Commission d'avis]<sup>1</sup>.
+
+[<sup>1</sup> la Commission d'avis]<sup>1</sup> formule, dans un délai de soixante jours à dater de la réception de l'avis des services du Gouvernement, un avis sur l'opportunité de permettre au centre culturel d'introduire une demande d'octroi de reconnaissance de son action culturelle.
+
+§ 4. Les avis visés au paragraphe 3 sont communiqués au Gouvernement.
+
+Le Gouvernement informe le centre culturel, dans un délai de soixante jours à dater de la réception des avis visés au paragraphe 3, de sa décision motivée d'accepter ou de refuser la possibilité de solliciter la reconnaissance de son action culturelle.
+
+A défaut de décision dans le délai visé à l'alinéa 2, la décision est réputée positive.
+
+§ 5. Le Gouvernement arrête la procédure d'introduction de la demande de principe ainsi que la procédure de recours à l'encontre d'une décision négative de solliciter une demande de reconnaissance de l'action culturelle [<sup>2</sup> dans le respect des principes fixés par l'article 96, § 1er, du décret du 28 mars 2019 sur la nouvelle gouvernance culturelle]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2023-07-06/19, art. 73, 009; En vigueur : 27-11-2023&gt;
+
+### Section II. - Octroi de la reconnaissance
+
+##### Art. 24
+
+Le centre culturel dont la demande de principe visée à l'article 23 a fait l'objet d'une décision positive du Gouvernement peut adresser une demande de reconnaissance d'une action culturelle générale au Gouvernement.
+
+La demande de reconnaissance de l'action culturelle générale comporte au minimum les documents et renseignements ci-après :
+
+1° les statuts du centre culturel;
+
+2° la composition de l'assemblée générale, du conseil d'administration, du conseil d'orientation et, le cas échéant, de tout autre organe de gestion du centre culturel;
+
+3° l'adresse du siège social du centre culturel;
+
+4° l'identification sociale et financière du centre culturel;
+
+5° la ou les communes composant son territoire d'implantation et, le cas échéant, le territoire de projet sur lequel le centre culturel entend développer une action culturelle intensifiée, une action culturelle spécialisée ou une action culturelle spécialisée de diffusion des arts de la scène;
+
+6° la description de la procédure et de la méthode de l'analyse partagée visée à l'article 19;
+
+7° le projet d'action culturelle élaboré conformément au chapitre 4;
+
+8° la description des contributions financières ou sous forme de services au centre culturel par la ou les collectivités publiques associées;
+
+9° la description des infrastructures mises à la disposition du centre culturel par la ou les collectivités publiques associées et leurs modalités d'usage;
+
+10° la description des moyens et ressources mis à la disposition du centre culturel par les personnes physiques ou morales de droit privé;
+
+11° un plan financier couvrant la durée de la reconnaissance sollicitée.
+
+[<sup>1</sup> Par dérogation aux alinéas précédents, aucune demande de reconnaissance de l'action culturelle générale ne peut être introduite du 16 décembre 2025 au 16 décembre 2026.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-12-17/08, art. 71, 010; En vigueur : 16-12-2025&gt;
+
+##### Art. 25
+
+Le Gouvernement peut octroyer, dans la limite des crédits budgétaires disponibles, la reconnaissance d'une action culturelle générale pour autant que le centre culturel remplisse les conditions suivantes :
+
+1° être une association sans but lucratif;
+
+2° exercer ses activités sur le territoire d'une ou de plusieurs communes situées en région de langue française ou en région bilingue de Bruxelles-Capitale;
+
+3° présenter un projet d'action culturelle élaboré conformément aux dispositions du chapitre 4;
+
+4° exercer ses activités depuis une année au moins au moment de l'introduction de la demande;
+
+5° avoir des organes de gestion et d'avis conformes aux dispositions du chapitre 10;
+
+6° [<sup>1</sup> disposer d'un équivalent temps plein affecté à la direction, ou s'engager à en disposer dans les six mois de la reconnaissance. ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 3, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 26
+
+Lors de la demande de reconnaissance de l'action culturelle générale, le centre culturel peut solliciter, seul ou conjointement avec un ou plusieurs autres centres culturels, la reconnaissance d'une action culturelle intensifiée.
+
+Le Gouvernement arrête les modalités d'introduction de la demande de reconnaissance d'une action culturelle intensifiée.
+
+[<sup>1</sup> Aucune demande de reconnaissance de l'action culturelle intensifiée ne peut être introduite du 16 décembre 2025 au 16 décembre 2026. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-12-17/08, art. 72, 010; En vigueur : 16-12-2025&gt;
+
+##### Art. 27
+
+Le Gouvernement peut octroyer, dans la limite des crédits budgétaires disponibles, la reconnaissance d'une action culturelle intensifiée à un nombre déterminé de centres culturels ou groupements de centres culturels sur le territoire de la région de langue française et de la région bilingue de Bruxelles-Capitale.
+
+Le Gouvernement peut procéder :
+
+1° à la reconnaissance de l'action culturelle intensifiée de deux centres culturels ou groupements de centres culturels dans la région bilingue de Bruxelles-Capitale et dans chaque province de la région de langue française;
+
+2° à la reconnaissance de l'action culturelle intensifiée d'un centre culturel ou groupement de centres culturels supplémentaire dans la région bilingue de Bruxelles-Capitale et dans chaque province de la région de langue française par tranche de quatre cent mille habitants;
+
+3° à la reconnaissance de l'action culturelle intensifiée d'un ou plusieurs centres culturels supplémentaires s'il estime la demande de reconnaissance justifiée.
+
+Le Gouvernement arrête les dispositions relatives au traitement et à l'analyse des demandes de reconnaissance d'une action culturelle intensifiée.
+
+##### Art. 28
+
+Le Gouvernement peut octroyer, dans la limite des crédits budgétaires disponibles, la reconnaissance d'une action culturelle intensifiée pour autant que le centre culturel ou le groupement de centres culturels remplisse les conditions cumulatives suivantes :
+
+1° respecter les conditions visées à l'article 25;
+
+2° décrire l'action culturelle intensifiée qu'il entend mener dans le projet d'action culturelle visé à l'article 9, alinéa 3, en y indiquant la manière dont l'intensification est réalisée;
+
+3° démontrer une intensification du projet d'action culturelle en termes d'ampleur du projet, d'approfondissement de la participation des populations, d'ancrage, de partenariats avec des opérateurs culturels ou de rayonnement de l'action culturelle sur un territoire de projet;
+
+4° développer un argumentaire d'opportunité de l'intensification du projet d'action culturelle, notamment en termes de développement culturel.
+
+##### Art. 29
+
+Lors de la demande de reconnaissance de l'action culturelle générale, le centre culturel peut solliciter la reconnaissance d'une ou plusieurs actions culturelles spécialisées.
+
+Le Gouvernement arrête les modalités d'introduction de la demande de reconnaissance d'une action culturelle spécialisée.
+
+[<sup>1</sup> Par dérogation aux alinéas précédents, aucune demande de reconnaissance de l'action culturelle spécialisée ne peut être introduite du 16 décembre 2025 au 16 décembre 2026. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-12-17/08, art. 73, 010; En vigueur : 16-12-2025&gt;
+
+##### Art. 30
+
+Le Gouvernement peut octroyer, dans la limite des crédits budgétaires disponibles, la reconnaissance d'une ou de plusieurs actions culturelles spécialisées pour autant que le centre culturel ou le groupement de centres culturels remplisse les conditions cumulatives suivantes :
+
+1° respecter les conditions visées à l'article 25;
+
+2° décrire la ou les actions culturelles spécialisées qu'il entend mener dans le projet d'action culturelle visé à l'article 9, alinéa 3, en y indiquant la manière dont la spécialisation est réalisée;
+
+3° décrire les objectifs généraux et les objectifs opérationnels relatifs aux actions culturelles spécialisées;
+
+4° préciser l'intérêt du développement des actions culturelles spécialisées, notamment la plus-value apportée au projet d'action culturelle;
+
+5° indiquer l'articulation entre l'action culturelle générale et l'action culturelle spécialisée;
+
+6° garantir la pérennité de l'action culturelle spécialisée;
+
+7° rédiger un argumentaire d'opportunité de l'action culturelle spécialisée en termes de développement de la politique sectorielle y relative et de développement culturel sur le territoire d'implantation, le territoire de projet ou sur un territoire plus large, et justifiée par l'analyse partagée visée à l'article 19, en associant les opérateurs culturels des secteurs concernés, actifs sur le territoire de référence et reconnus par la Communauté française;
+
+8° décrire les relations ou collaborations envisagées ou développées avec des opérateurs sectoriels.
+
+##### Art. 31
+
+Lors de la demande de reconnaissance de l'action culturelle générale, le centre culturel peut solliciter la reconnaissance d'une action culturelle spécialisée de diffusion des arts de la scène.
+
+Le Gouvernement arrête les modalités d'introduction de la demande de reconnaissance d'une action culturelle spécialisée de diffusion des arts de la scène.
+
+[<sup>1</sup> Par dérogation aux alinéas précédents, aucune demande de reconnaissance de l'action culturelle spécialisée de diffusion des arts de la scène ne peut être introduite du 16 décembre 2025 au 16 décembre 2026. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-12-17/08, art. 74, 010; En vigueur : 16-12-2025&gt;
+
+##### Art. 32
+
+§ 1er. Le Gouvernement peut octroyer, dans la limite des crédits budgétaires disponibles, la reconnaissance d'une action culturelle spécialisée de diffusion des arts de la scène, pour autant que le centre culturel remplisse les conditions cumulatives suivantes :
+
+1° respecter les conditions visées aux articles 25 et 30;
+
+2° décrire l'action culturelle spécialisée de diffusion des arts de la scène qu'il entend mener dans le cadre du projet d'action culturelle visé à l'article 9, alinéa 3, en y indiquant la manière dont la spécialisation de diffusion sera réalisée;
+
+3° disposer au moment de l'introduction de la demande de reconnaissance :
+
+a) des infrastructures permettant d'accueillir un public et des spectacles de différentes configurations dans des conditions techniques et scéniques professionnelles;
+
+b) du personnel chargé de la programmation dans les disciplines des arts de la scène;
+
+c) d'un encadrement technique professionnel;
+
+4° participer aux réseaux et concertations :
+
+a) au niveau local, avec les autres centres culturels dont l'action culturelle est reconnue ou non, et avec les lieux de diffusion reconnus ou non;
+
+b) avec les opérateurs de diffusion, les coordinations et les organisations professionnelles des disciplines des arts de la scène;
+
+c) avec les structures de création reconnues;
+
+5° développer, seul ou en collaboration avec un ou plusieurs centres culturels dont l'action culturelle est reconnue ou avec les opérateurs reconnus, un programme de diffusion de spectacles professionnels valorisant l'ensemble des domaines d'expression artistique définis par le décret du 13 juillet 1994 relatif au théâtre pour l'enfance et la jeunesse et par le décret cadre du 10 avril 2003 relatif à la reconnaissance et au subventionnement du secteur professionnel des arts de la scène;
+
+6° justifier d'un volume minimal de programmation de spectacles ou d'artistes par saison culturelle;
+
+7° inclure dans sa programmation de saison des spectacles ou des artistes bénéficiant d'un soutien de la Communauté française;
+
+8° accueillir en résidence dans ses locaux, de manière ponctuelle ou permanente, des spectacles en création ou des étapes de travail d'artistes qui bénéficient d'une aide à la création ou d'une aide structurelle, ou d'artistes soutenus par des structures de création reconnues;
+
+9° offrir un appui aux centres culturels dont l'action culturelle est reconnue, dans le cadre de programmations concertées par la voie, notamment, de la conclusion d'une convention dans le cadre du travail en réseau visé aux 4° et 5°.
+
+§ 2. Le Gouvernement arrête les dispositions relatives aux critères visés au paragraphe 1er.
+
+Les critères visés à l'alinéa 1 er comprennent, notamment en ce qui concerne le paragraphe 1er, 3°, a), la capacité de la salle, les dimensions du plateau et l'équipement technique disponible et, en ce qui concerne le paragraphe 1er, 5°, une majorité de spectacles ou d'artistes, toutes disciplines confondues, soutenus par la Communauté française en application du décret du 13 juillet 1994 relatif au théâtre pour l'enfance et la jeunesse ou du décret cadre du 10 avril 2003 relatif à la reconnaissance et au subventionnement du secteur professionnel des arts de la scène.
+
+##### Art. 33
+
+§ 1er. La demande de reconnaissance de l'action culturelle est introduite auprès des services du Gouvernement.
+
+Les services du Gouvernement examinent la recevabilité de la demande dans un délai de quarante-cinq jours à dater de sa réception.
+
+Si le dossier est incomplet, les services du Gouvernement avertissent le centre culturel afin qu'il communique les pièces manquantes. Le centre culturel dispose d'un délai de trente jours à dater de la réception de la demande pour communiquer les pièces manquantes.
+
+Si le centre culturel ne communique pas les pièces manquantes dans le délai visé à l'alinéa 3, la demande est considérée irrecevable de plein droit.
+
+§ 2. Le Gouvernement sollicite pour avis de la ou des demandes de reconnaissance recevables :
+
+1° si le centre culturel est situé dans la région de langue française, le collège provincial de la province concernée ou, le cas échéant, les collèges provinciaux des provinces concernées;
+
+2° si le centre culturel est situé dans la région bilingue de Bruxelles-Capitale, le collège de la Commission communautaire française;
+
+3° [<sup>2</sup> la Commission d'avis]<sup>2</sup>;
+
+4° le cas échéant, [<sup>3</sup> la commission d'avis sectorielle compétente]<sup>3</sup> pour une ou plusieurs actions culturelles spécialisées;
+
+5° le cas échéant, [<sup>1</sup> la Commission des Arts vivants]<sup>1</sup> pour une action culturelle spécialisée de diffusion des arts de la scène.
+
+Le Gouvernement arrête les modalités selon lesquelles les avis visés à l'alinéa 1er sont sollicités et formulés.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+##### Art. 34
+
+§ 1er. Si le centre culturel exerce son activité dans la région de langue française, les services du Gouvernement transmettent le dossier complet de la demande de reconnaissance, incluant le projet d'action culturelle, au collège provincial de la province concernée ou, le cas échéant, aux collèges provinciaux des provinces concernées.
+
+Le ou les collèges provinciaux remettent leur avis dans un délai de soixante jours à dater de la réception de la demande d'avis.
+
+A défaut d'avis dans ce délai, il est passé outre.
+
+§ 2. Si le centre culturel exerce son activité dans la région bilingue de Bruxelles-Capitale, les services du Gouvernement transmettent le dossier complet de la demande de reconnaissance, incluant le projet d'action culturelle, au Collège de la Commission communautaire française.
+
+Le Collège de la Commission communautaire française remet son avis dans un délai de soixante jours à dater de la réception de la demande d'avis.
+
+A défaut d'avis dans ce délai, il est passé outre.
+
+##### Art. 35
+
+Les services du Gouvernement transmettent le dossier complet de la demande de reconnaissance, leur avis et l'avis du ou des collèges provinciaux ou l'avis du Collège de la Commission communautaire française à [<sup>1</sup> la Commission d'avis]<sup>1</sup>.
+
+[<sup>1</sup> la Commission d'avis]<sup>1</sup> remet son avis dans un délai de soixante jours à dater de la réception de la demande d'avis.
+
+A défaut d'avis dans ce délai, il est passé outre.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+##### Art. 36
+
+Si le centre culturel sollicite la reconnaissance d'une action culturelle spécialisée, les services du Gouvernement transmettent le dossier complet de la demande de reconnaissance, [<sup>4</sup> leur avis et ]<sup>4</sup>, l'avis du ou des collèges provinciaux ou du Collège de la Commission communautaire française [<sup>4</sup> ...]<sup>4</sup>, à [<sup>2</sup> la commission d'avis sectorielle compétente]<sup>2</sup> pour analyser l'action culturelle spécialisée. [<sup>3</sup> Lorsque la spécialisation porte sur la mise en oeuvre des objectifs, stratégies et priorité du parcours d'éducation culturelle et artistique, l'avis de la commission sectorielle est remplacé par un avis du Conseil de l'éducation culturelle et artistique.]<sup>3</sup>
+
+[<sup>2</sup> la commission d'avis sectorielle compétente]<sup>2</sup> remet son avis [<sup>4</sup> parallèlement à la Commission d'avis]<sup>4</sup> dans un délai de soixante jours à dater de la réception de la demande d'avis.
+
+A défaut d'avis dans ce délai, il est passé outre.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2022-10-13/24, art. 37, 007; En vigueur : 29-12-2022&gt;
+
+(4)&lt;DCFR 2024-03-21/64, art. 4, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 37
+
+Si le centre culturel sollicite la reconnaissance d'une action culturelle spécialisée de diffusion des arts de la scène, les services du Gouvernement transmettent le dossier complet de la demande de reconnaissance, [<sup>4</sup> leur avis et ]<sup>4</sup> l'avis du ou des collèges provinciaux ou du Collège de la Commission communautaire française [<sup>4</sup> et l'avis de la Commission d'avis,]<sup>4</sup>, [<sup>1</sup> à la Commission des Arts vivants]<sup>1</sup> pour analyser l'action culturelle spécialisée de diffusion des arts de la scène.
+
+[<sup>3</sup> la commission d'avis sectorielle compétente]<sup>3</sup> remet son avis [<sup>4</sup> parallèlement à la Commission d'avis ]<sup>4</sup> dans un délai de soixante jours à dater de la réception de la demande d'avis.
+
+A défaut d'avis dans ce délai, il est passé outre.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(4)&lt;DCFR 2024-03-21/64, art. 5, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 38
+
+Les avis visés aux articles 33 à 37 sont transmis au Gouvernement.
+
+Le Gouvernement dispose d'un délai de [<sup>1</sup> soixante ]<sup>1</sup> jours à dater de la réception des avis pour adopter sa décision.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 6, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 39
+
+La reconnaissance de toute action culturelle est accordée pour une période de cinq ans.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, la reconnaissance en cours au 1er janvier 2026 est prolongée aux mêmes conditions pour une durée de deux ans à compter de la date d'échéance de la reconnaissance. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-12-17/08, art. 75, 010; En vigueur : 01-01-2026&gt;
+
+##### Art. 40
+
+La reconnaissance accordée par le Gouvernement produit ses effets le 1er janvier de l'année qui suit celle de la décision.
+
+##### Art. 41
+
+Sur proposition de [<sup>1</sup> la Commission d'avis]<sup>1</sup>, le Gouvernement peut imposer une période probatoire d'une durée [<sup>2</sup> de deux ans]<sup>2</sup> au centre culturel dont l'action culturelle est reconnue, lorsqu'il ne remplit pas l'ensemble des conditions de reconnaissance.
+
+Le Gouvernement arrête les modalités d'application de la période probatoire visée à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2024-03-21/64, art. 7, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 42
+
+En cas de refus de reconnaissance d'une action culturelle générale, une nouvelle demande de reconnaissance peut être introduite par le centre culturel l'année qui suit celle de la notification du refus.
+
+En cas de refus de reconnaissance d'une action culturelle intensifiée, d'une action culturelle spécialisée ou d'une action culturelle spécialisée de diffusion des arts de la scène, une nouvelle demande de reconnaissance peut être introduite par le centre culturel concomitamment à la demande de reconduction de la reconnaissance de l'action culturelle générale.
+
+##### Art. 43
+
+Le Gouvernement détermine la procédure d'octroi de la reconnaissance de l'action culturelle et la procédure de recours à l'encontre d'une décision de refus de reconnaissance d'une action culturelle [<sup>1</sup> dans le respect des principes fixés par l'article 96, § 1er, du décret du 28 mars 2019 sur la nouvelle gouvernance culturelle]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-06/19, art. 73, 009; En vigueur : 27-11-2023&gt;
+
+### Section III. - Reconduction de la reconnaissance
+
+##### Art. 44
+
+Au plus tard [<sup>1</sup> 15 décembre]<sup>1</sup> de l'année précédant le terme de la période de cinq ans visée à l'article 39, le centre culturel peut solliciter la reconduction de la reconnaissance de l'action culturelle.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er et pour autant que le centre culturel soit concerné par l'article 39, alinéa 2 du présent décret, aucune demande de reconduction de la reconnaissance de l'action culturelle ne peut être sollicitée entre le 16 décembre 2025 et le 16 décembre 2026.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 8, 008; En vigueur : 21-03-2024&gt;
+
+(2)&lt;DCFR 2025-12-17/08, art. 76, 010; En vigueur : 16-12-2025&gt;
+
+##### Art. 45
+
+Lorsque, à l'échéance de sa reconnaissance, un centre culturel en sollicite la reconduction, le Gouvernement l'accorde pour autant que le centre culturel satisfasse aux procédures d'évaluation visées au chapitre 9, établisse un projet d'action culturelle tel que visé au chapitre 4 et qu'il satisfasse aux conditions visées au présent chapitre, section 2.
+
+##### Art. 46
+
+Le Gouvernement détermine la procédure de reconduction de la reconnaissance de l'action culturelle.
+
+### Section IV. - Retrait de la reconnaissance
+
+##### Art. 47
+
+Si le centre culturel ne respecte pas les dispositions du présent décret ou si sa gestion financière fait état de graves lacunes vérifiées, le Gouvernement met en demeure le centre culturel d'adopter les mesures nécessaires afin d'y remédier.
+
+Le centre culturel dispose d'un délai de nonante jours à dater de la réception de la mise en demeure afin d'adopter les mesures nécessaires.
+
+Si, au terme du délai visé à l'alinéa 2, les lacunes visées à l'alinéa 1er persistent, le Gouvernement sollicite un avis de [<sup>1</sup> la Commission d'avis]<sup>1</sup>.
+
+La Commission remet son avis dans un délai de soixante jours à dater de la réception de la demande d'avis.
+
+Le Gouvernement peut, moyennant un préavis de six mois et sans porter préjudice au respect des obligations de l'employeur découlant de la législation du travail, procéder au retrait de la reconnaissance d'une action culturelle générale ou, le cas échéant, d'une action culturelle intensifiée, d'une ou plusieurs actions culturelles spécialisées ou d'une action culturelle spécialisée de diffusion des arts de la scène.
+
+Le retrait de la reconnaissance de l'action culturelle générale entraîne le retrait de la reconnaissance de toute autre action culturelle du centre culturel.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+##### Art. 48
+
+Le Gouvernement détermine la procédure de retrait de la reconnaissance d'une action culturelle et la procédure de recours à l'encontre d'une décision de retrait de reconnaissance d'une action culturelle [<sup>1</sup> dans le respect des principes fixés par l'article 96, § 1er, du décret du 28 mars 2019 sur la nouvelle gouvernance culturelle]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-06/19, art. 73, 009; En vigueur : 27-11-2023&gt;
+
+## CHAPITRE VI. - Coopération entre centres culturels
+
+##### Art. 49
+
+Les centres culturels qui sollicitent la reconnaissance de leur action culturelle ou dont l'action culturelle est reconnue peuvent solliciter la reconnaissance d'une coopération entre au moins trois d'entre eux.
+
+Les centres culturels visés à l'alinéa 1er élaborent et mettent en oeuvre un projet de coopération.
+
+[<sup>1</sup> Par dérogation aux alinéas précédents, aucune demande de reconnaissance de coopération ne peut être introduite du 16 décembre 2025 au 16 décembre 2026. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-12-17/08, art. 77, 010; En vigueur : 16-12-2025&gt;
+
+##### Art. 50
+
+Le projet de coopération visé à l'article 49 peut porter sur le partage ou la mutualisation efficiente de ressources matérielles, humaines, financières, logistiques ou techniques entre les centres culturels au sein du territoire composé par leurs territoires d'implantation respectifs et, le cas échéant, leurs territoires de projet, complémentairement.
+
+Le projet de coopération peut s'accompagner de la création d'organes de gestion ou d'avis communs.
+
+##### Art. 51
+
+Le projet de coopération visé à l'article 49 peut porter sur la construction d'un projet commun d'action culturelle entre plusieurs centres culturels.
+
+Le projet commun d'action culturelle est complémentaire au projet d'action culturelle de chaque centre culturel.
+
+Les centres culturels partenaires peuvent, le cas échéant, coopérer de manière différenciée au projet commun d'action culturelle et développer de manière concertée et complémentaire des fonctions culturelles spécifiques, des spécificités artistiques, thématiques, organisationnelles ou relatives à des publics particuliers.
+
+##### Art. 52
+
+Le projet de coopération visé à l'article 51 démontre un approfondissement de l'exercice du droit à la culture au minimum sur les territoires d'implantation des centres culturels partenaires.
+
+##### Art. 53
+
+Les projets de coopération visés aux articles 50 et 51 peuvent être cumulés par un même centre culturel.
+
+##### Art. 54
+
+Les centres culturels qui établissent entre eux un projet de coopération visé à l'article 49 désignent un centre culturel porteur de la coopération.
+
+##### Art. 55
+
+Le centre culturel porteur de la coopération dépose, en accord avec les centres culturels partenaires, le projet de coopération en vue de la reconnaissance de la coopération.
+
+##### Art. 56
+
+Le projet de coopération comprend une description de la contribution spécifique de chaque centre culturel partenaire, la répartition des éventuelles subventions dont il est l'objet et une convention déterminant les engagements des parties contractantes.
+
+## CHAPITRE VII. - Subventionnement
+
+### Section Ire. - Dispositions générales
+
+##### Art. 57
+
+Dans les limites des crédits disponibles, le centre culturel dont l'action culturelle est reconnue reçoit de la Communauté française, pour la durée de la reconnaissance, une subvention annuelle.
+
+Le Gouvernement arrête les modalités de liquidation de la subvention.
+
+##### Art. 58
+
+Le centre culturel dont l'action culturelle est reconnue bénéficie de subventions à l'emploi conformément au décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française, dont la subvention visée à l'article 16 dudit décret pour [<sup>1</sup>un équivalent temps plein à affecter à la direction ]<sup>1</sup> du centre culturel.
+
+[<sup>1</sup> La subvention à l'emploi pour le poste de direction est en partie incluse, à concurrence de maximum 14.808 euros, dans la subvention de fonctionnement prévue à l'article 66. Ce montant est lié à l'indice santé applicable au 1er janvier 2023 et est indexé annuellement en suivant l'évolution de cet indice. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 9, 008; En vigueur : 01-01-2024&gt;
+
+##### Art. 59
+
+Le centre culturel dont l'action culturelle est reconnue peut solliciter, outre la subvention visée à l'article 57, une ou plusieurs aides ponctuelles relevant des secteurs de l'architecture, des arts de la scène, des arts plastiques, des arts visuels, du cinéma, de l'éducation permanente, de l'enseignement, de la jeunesse, de la lecture publique, des lettres, du livre, du patrimoine culturel ou de tout autre domaine culturel ou éducatif.
+
+Le centre culturel dont l'action culturelle est reconnue peut bénéficier, aux conditions arrêtées par le Gouvernement, d'interventions dans les dépenses occasionnées par les opérations culturelles exceptionnelles qu'il inscrit annuellement à son programme.
+
+##### Art. 60
+
+Sur la proposition de [<sup>1</sup> la Commission d'avis]<sup>1</sup>, des subventions exceptionnelles dont le montant total ne peut dépasser 15 % de la subvention annuelle visée à l'article 57, peuvent être accordées pour couvrir les frais résultant de circonstances particulières ne mettant pas en cause la gestion des responsables de l'institution.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+##### Art. 61
+
+Le centre culturel dont l'action culturelle est reconnue peut solliciter une subvention extraordinaire d'équipement ou d'aménagement afin de couvrir des investissements d'acquisition des biens mobiliers nécessaires à la réalisation du projet d'action culturelle.
+
+Le Gouvernement arrête le pourcentage et les plafonds à concurrence desquels les investissements consentis sont couverts par la subvention.
+
+Lors de la reconnaissance de son action culturelle, le centre culturel peut solliciter une subvention de premier établissement dont le montant est arrêté par le Gouvernement.
+
+##### Art. 62
+
+Avant le 30 juin de chaque année, le centre culturel dont l'action culturelle est reconnue communique aux services du Gouvernement un rapport sur ses activités, le bilan et le compte de résultat de l'exercice social écoulé arrêté au 31 décembre ainsi qu'un budget et un projet d'activités pour l'exercice en cours.
+
+Le bilan et le compte de résultat doivent être certifiés conformes au plan comptable normalisé des opérateurs culturels subventionnés et être approuvés par l'assemblée générale.
+
+Le centre culturel dont l'action culturelle est reconnue conserve pendant dix ans tout document justificatif de l'utilisation des subventions.
+
+Il les présente aux services du Gouvernement sur simple demande ou lors de toute inspection effectuée sur place.
+
+##### Art. 63
+
+En cas de manquement grave et avéré, le Gouvernement peut suspendre totalement ou partiellement l'octroi d'une ou plusieurs subventions.
+
+Le Gouvernement arrête les conditions et la procédure de la suspension visée à l'alinéa 1er.
+
+##### Art. 64
+
+Si le Gouvernement accorde au centre culturel une période probatoire visée à l'article 41, les dispositions visées aux articles 57 à 61 ne sont pas applicables.
+
+Le Gouvernement peut toutefois octroyer au centre culturel, durant la période probatoire, une aide spécifique forfaitaire qu'il détermine.
+
+[<sup>1</sup> L'aide visée à l'alinéa 2 ne peut être supérieure :
+
+1° à la subvention prévue à l'article 66 pour l'action culturelle générale, s'il s'agit d'une première reconnaissance ;
+
+2° à la subvention accordée lors de l'année qui précède la reconduction, s'il s'agit d'une reconduction de reconnaissance]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 10, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 65
+
+Les montants visés aux articles 66, alinéa 1er, 67, 68, alinéa 1er, 70, alinéa 1er, et 71, alinéa 1er, sont adaptés annuellement selon l'évolution de l'indice santé.
+
+### Section II. - Action culturelle générale
+
+##### Art. 66
+
+Après avis de [<sup>1</sup> la Commission d'avis]<sup>1</sup>, le Gouvernement octroie au centre culturel dont l'action culturelle générale est reconnue une subvention d'un montant de 100.000 euros, dans les limites des crédits budgétaires disponibles.
+
+La subvention visée à l'alinéa 1er est accordée pour autant que la contribution globale de la ou des collectivités publiques associées soit au moins équivalente.
+
+La subvention couvrant l'action culturelle générale est adaptée annuellement sur la base de l'indice 01.01.2016 = 100 en fonction de l'indice santé.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+##### Art. 67
+
+Le Gouvernement peut octroyer à un centre culturel dont le territoire d'implantation couvre plus d'une commune un complément à la subvention visée à l'article 66 d'un montant maximal de 25.000 euros par commune supplémentaire, dans les limites des crédits budgétaires disponibles.
+
+La subvention complémentaire visée à l'alinéa 1er est accordée à due concurrence d'une subvention complémentaire globale octroyée par la ou les collectivités publiques associées.
+
+### Section III. - Action culturelle intensifiée
+
+##### Art. 68
+
+Après avis de [<sup>1</sup> la Commission d'avis]<sup>1</sup>, le Gouvernement octroie au centre culturel dont l'action culturelle intensifiée est reconnue une subvention complémentaire d'un montant maximal de 400.000 euros, dans les limites des crédits budgétaires disponibles.
+
+La subvention complémentaire visée à l'alinéa 1er est accordée à due concurrence d'une subvention complémentaire globale octroyée par la ou les collectivités publiques associées.
+
+La subvention couvrant l'action culturelle intensifiée est adaptée annuellement sur la base de l'indice 01.01.2016 = 100 en fonction de l'indice santé.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+### Section IV. - Action culturelle spécialisée
+
+##### Art. 69
+
+Après avis de [<sup>1</sup> la Commission d'avis]<sup>1</sup> et de [<sup>2</sup> la commission d'avis sectorielle compétente]<sup>2</sup>, le Gouvernement octroie au centre culturel dont l'action culturelle spécialisée est reconnue une subvention complémentaire dont il arrête le montant. [<sup>3</sup> Lorsque la spécialisation porte sur la mise en oeuvre des objectifs, stratégies et priorité du parcours d'éducation culturelle et artistique, l'avis de la commission sectorielle est remplacé par un avis du Conseil de l'éducation culturelle et artistique.]<sup>3</sup>
+
+[<sup>4</sup> En cas de divergence entre, d'une part, l'avis de la Commission d'avis, et d'autre part, l'avis de la commission d'avis sectorielle compétente ou du Conseil de l'éducation culturelle et artistique]<sup>4</sup>, le Gouvernement motive l'octroi et le montant de la subvention complémentaire.
+
+La subvention couvrant l'action culturelle spécialisée est adaptée annuellement sur la base de l'indice 01.01.2016 = 100 en fonction de l'indice santé.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2022-10-13/24, art. 37, 007; En vigueur : 29-12-2022&gt;
+
+### Section V. - Action culturelle spécialisée de diffusion des arts de la scène
+
+##### Art. 70
+
+Après avis de [<sup>2</sup> la Commission d'avis]<sup>2</sup> et [<sup>1</sup> de la Commission des Arts vivants]<sup>1</sup>, le Gouvernement octroie au centre culturel dont l'action culturelle spécialisée de diffusion des arts de la scène est reconnue une subvention complémentaire d'un montant maximal de 400.000 euros.
+
+En cas d'avis divergents émanant de [<sup>2</sup> la Commission d'avis]<sup>2</sup> et [<sup>1</sup> de la Commission des Arts vivants]<sup>1</sup>, le Gouvernement motive l'octroi et le montant de la subvention complémentaire.
+
+La subvention complémentaire visée à l'alinéa 1er est accordée à due concurrence d'une subvention complémentaire globale octroyée par la ou les collectivités publiques associées.
+
+La subvention couvrant l'action culturelle spécialisée de diffusion des arts de la scène est adaptée annuellement sur la base de l'indice 01.01.2016 = 100 en fonction de l'indice santé.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+### Section VI. - Coopération entre centres culturels
+
+##### Art. 71
+
+Après avis de [<sup>1</sup> la Commission d'avis]<sup>1</sup> et, le cas échéant, de [<sup>2</sup> la commission d'avis sectorielle compétente]<sup>2</sup>, le Gouvernement peut octroyer au centre culturel dont l'action culturelle est reconnue, désigné comme centre culturel porteur d'une coopération conformément à l'article 54, une subvention complémentaire dont il arrête le montant, destinée au projet de coopération.
+
+La subvention couvrant le projet de coopération est adaptée annuellement sur la base de l'indice 01.01.2016 = 100 en fonction de l'indice santé.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+### Section VII. - Contributions des collectivités publiques associées
+
+##### Art. 72
+
+§ 1er. La ou les collectivités publiques associées à un centre culturel apportent conjointement une contribution financière et sous forme de services dont l'importance et les modalités d'usage sont précisées dans le contrat-programme visé au chapitre 8.
+
+§ 2. La ou les contributions financières visées au paragraphe 1er peuvent consister en une subvention ou en la prise en charge, par la ou les collectivités publiques associées, de dépenses au bénéfice du centre culturel dont l'action culturelle est reconnue.
+
+La ou les contributions financières visées au paragraphe 1er sont au moins équivalentes à la subvention apportée par la Communauté française en application de l'article 66.
+
+Lorsque le territoire d'implantation du centre culturel couvre plus d'une commune, la contribution minimale octroyée conjointement par les collectivités publiques associées au centre culturel est, le cas échéant, au moins équivalente à la subvention complémentaire apportée par la Communauté française en application de l'article 67.
+
+§ 3. Le cas échéant, la ou les contributions visées au paragraphe 1er sont au moins équivalentes à la subvention apportée par la Communauté française en application des articles 68 et 70.
+
+Si la ou les contributions visées à l'alinéa 1er ne sont pas équivalentes à la ou aux subventions apportées par la Communauté française en application des articles 68 et 70, la ou les subventions de la Communauté française sont réduites à due concurrence.
+
+§ 4. Le Gouvernement arrête les modalités applicables pour la prise en compte des contributions financières et sous forme de services, apportées par les collectivités publiques associées.
+
+##### Art. 73
+
+La ou les collectivités publiques associées peuvent octroyer au centre culturel dont l'action culturelle spécialisée est reconnue une contribution financière ou sous forme de services complémentaires.
+
+##### Art. 74
+
+Afin d'assurer la mise en oeuvre de son projet d'action culturelle, soit le centre culturel dont l'action culturelle est reconnue est chargé de la gestion des équipements et infrastructures qui lui sont confiés par la ou les collectivités publiques associées, soit il est associé directement à leur gestion.
+
+Lorsque, sur le territoire d'implantation considéré, une ou plusieurs infrastructures culturelles communales ou provinciales ont perçu, pour leur construction, leur rénovation ou leur aménagement, une subvention de la Communauté française notamment en vertu du décret du 17 juillet 2002 relatif à l'octroi de subventions aux collectivités locales pour les projets d'infrastructures culturelles, la commune ou la province concernée permet au centre culturel dont l'action culturelle est reconnue de les utiliser.
+
+Les modalités d'utilisation de ces infrastructures et équipements figurent dans le contrat-programme tels que visé au chapitre 8.
+
+Lorsqu'une collectivité publique associée introduit une demande de subvention auprès du Gouvernement en vue de la construction, de la rénovation ou de l'aménagement d'une infrastructure culturelle établie sur le territoire d'implantation d'un centre culturel dont l'action culturelle est reconnue, notamment en vertu du décret du 17 juillet 2002 relatif à l'octroi de subventions aux collectivités locales pour les projets d'infrastructures culturelles, la collectivité publique associée accompagne cette demande d'un engagement à respecter les obligations inscrites à l'alinéa 2.
+
+##### Art. 75
+
+La ou les collectivités publiques associées adaptent annuellement les contributions financières visées aux articles 72 et 73 sur la base de l'indice 01.01.2016 = 100 en fonction de l'indice santé.
+
+##### Art. 76
+
+[<sup>1</sup> §1. § 1er. Si la ou les collectivité(s) publique(s) associée(s) se voit(ent) contrainte(s) de modifier la nature ou le montant de ses (leurs) contributions financières ou sous forme de services, elle(s) en informe(nt) préalablement le centre culturel et les services du Gouvernement et sollicite(nt) la convocation d'une réunion de concertation au sens de l'article 84. ]<sup>1</sup>
+
+[<sup>1</sup> §2. ]<sup>1</sup> Si [<sup>1</sup> les services du Gouvernement constatent que]<sup>1</sup> la ou les collectivités publiques associées octroient conjointement un montant inférieur au montant fixé dans le contrat-programme en application des articles 72 et 73, le Gouvernement en informe la ou les collectivités publiques associées, dans un délai de soixante jours suivant la prise de connaissance.
+
+La ou les collectivités publiques associées disposent d'un délai de nonante jours pour procéder à une rectification du montant de la subvention octroyée au centre culturel.
+
+Lorsque la ou les collectivités publiques associées décident de rectifier le montant de la subvention, elles en informent le Gouvernement dans un délai de vingt jours.
+
+Si la ou les collectivités publiques associées ne rectifient pas le montant de la subvention conformément aux dispositions visées aux alinéas 2 et 3, le Gouvernement réduit, à due concurrence, la subvention qu'il accorde au centre culturel dont l'action culturelle est reconnue.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 11, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 77
+
+Si, à l'issue de la procédure visée à l'article 76, le montant octroyé par la ou les collectivités publiques associées est inférieur d'au moins vingt-cinq pourcents aux contributions inscrites dans le contrat-programme en exécution des articles 72 et 73, le Gouvernement procède au retrait de la reconnaissance du centre culturel.
+
+##### Art. 78
+
+Si, à l'issue de la procédure visée à l'article 76, le montant octroyé par la ou les collectivités publiques associées est inférieur aux contributions inscrites dans le contrat-programme en exécution des articles 72 et 73 pour la deuxième année consécutive, le Gouvernement procède au retrait de la reconnaissance du centre culturel.
+
+## CHAPITRE VIII. - Conventionnement
+
+##### Art. 79
+
+§ 1er. Le Gouvernement conclut un contrat-programme avec le centre culturel dont l'action culturelle est reconnue, la ou les provinces sur le territoire desquelles s'étend le territoire d'implantation et, au moins, la commune sur le territoire de laquelle le siège social du centre culturel est établi.
+
+Le contrat-programme visé à l'alinéa 1er est conclu pour une période de cinq ans prenant cours le 1er janvier de l'année qui suit celle de la décision de reconnaissance de l'action culturelle.
+
+Le contrat-programme contient au moins les éléments suivants :
+
+1° le projet d'action culturelle;
+
+2° le projet de gestion financière du centre culturel pour la durée du contrat-programme;
+
+3° le montant des subventions visées au chapitre 7, octroyées par la Communauté française dans les limites des crédits budgétaires;
+
+4° au sein du montant visé au 3°, le montant faisant l'objet d'une contribution à due concurrence, à apporter par la ou les collectivités publiques associées;
+
+5° les contributions, sous forme de subventions et sous forme de services, apportées par la ou les collectivités publiques associées;
+
+6° les modalités d'usage des infrastructures culturelles mises à la disposition du centre culturel par la ou les collectivités publiques associées.
+
+[<sup>2</sup> 7° les modalités de concertation entre les services du Gouvernement et les collectivités publiques associées. ]<sup>2</sup>
+
+Après avis de la [<sup>1</sup> Chambre de concertation de l'Action culturelle et territoriale]<sup>1</sup>, le Gouvernement établit un modèle-type de contrat-programme et arrête la procédure.
+
+§ 2. Pendant la durée du contrat-programme, le centre culturel peut porter le titre de " centre culturel conventionné " ou " centre culturel conventionné par la Fédération Wallonie-Bruxelles ".
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2024-03-21/64, art. 12, 008; En vigueur : 21-03-2024&gt;
+
+## CHAPITRE IX. - Evaluation
+
+##### Art. 80
+
+Le centre culturel adresse aux services du Gouvernement une invitation aux réunions de l'assemblée générale, du conseil d'administration et du conseil d'orientation et les rapports relatifs à leur activité.
+
+##### Art. 81
+
+Avant le [<sup>1</sup> 15 décembre]<sup>1</sup> de la quatrième année du contrat-programme, le centre culturel adresse un rapport général d'autoévaluation [<sup>1</sup> , conjointement à sa demande de reconduction de reconnaissance visée à l'article 44, ]<sup>1</sup> aux services du Gouvernement, en tenant compte de l'analyse partagée visée à l'article 19.
+
+Le rapport général d'autoévaluation comprend deux parties :
+
+1° un exposé relatif aux résultats et impacts de l'action culturelle du centre culturel, une évaluation de la pertinence et de l'efficacité en référence à la progression de l'exercice effectif à titre individuel ou collectif du droit à la culture par les populations du territoire d'implantation ou de projet au regard des objectifs inscrits dans le contrat-programme en cours;
+
+2° les lignes directrices du projet d'action culturelle pour la période couverte par un éventuel nouveau contrat-programme.
+
+Les dispositions de la section 3 du chapitre 5 sont applicables en cas de demande de reconduction de la reconnaissance.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 13, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 82
+
+[<sup>2</sup> Lorsque la demande de reconduction de reconnaissance est déclarée recevable conformément à l'article 33, § 1er ]<sup>2</sup>, les services du Gouvernement organisent une réunion de concertation portant sur le contenu du rapport.
+
+1° [<sup>2</sup> au moins trois représentants du centre culturel, dont :
+
+a) la direction ;
+
+b) un membre du conseil d'administration issu de la chambre privée ;
+
+c) un membre effectif du conseil d'orientatio]<sup>2</sup>;
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2024-03-21/64, art. 14, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 83
+
+&lt;Abrogé par DCFR 2024-03-21/64, art. 15, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 84
+
+Une réunion de concertation, telle que visée à l'article 82, peut être convoquée à tout moment par les services du Gouvernement, d'initiative ou à la demande de l'une des parties.
+
+## CHAPITRE X. - Organes de gestion et d'avis
+
+### Section Ire. - Organes de gestion
+
+#### Sous-section Ire. - Assemblée générale
+
+##### Art. 85
+
+§ 1er. L'assemblée générale du centre culturel comprend une chambre publique et une chambre privée.
+
+§ 2. La chambre publique ne peut rassembler plus de la moitié des membres de l'assemblée générale.
+
+La chambre publique se compose de :
+
+1° au minimum un représentant par commune du territoire d'implantation du centre culturel, désigné par le ou les conseils communaux;
+
+2° si le centre culturel est situé en région de langue française, deux représentants désignés par le ou les conseils provinciaux du territoire d'implantation du centre culturel;
+
+3° si le centre culturel est situé en région bilingue de Bruxelles-Capitale, deux représentants désignés par l'Assemblée de la Commission communautaire française.
+
+§ 3. La chambre privée se compose de :
+
+1° personnes morales ou physiques bénéficiant d'une reconnaissance, d'un agrément, d'une convention ou d'un contrat-programme conclu avec la Communauté française;
+
+2° associations sans but lucratif et fondations au sens de la loi du 27 juin 1921 sur les associations sans but lucratif, des associations internationales sans but lucratif et des fondations, qui exercent une activité principalement culturelle sur le territoire d'implantation;
+
+3° le cas échéant, personnes morales ou physiques exerçant une activité particulièrement liée au but du centre culturel, y compris des représentants d'associations de fait;
+
+4° le cas échéant, personnes morales ou physiques soutenant le but du centre culturel.
+
+Les personnes morales ou physiques visées à l'alinéa 1er font partie de la chambre privée pour autant qu'elles aient introduit, auprès [<sup>1</sup> de la présidence]<sup>1</sup> du centre culturel, une candidature motivée et que leur candidature ait recueilli une majorité de votes favorables émis par le conseil d'administration et l'assemblée générale.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 15, 008; En vigueur : 21-03-2024&gt;
+
+#### Sous-section II. - Conseil d'administration
+
+##### Art. 86
+
+Le conseil d'administration est composé de douze membres au moins dont la moitié est désignée parmi les membres de la chambre publique, en application de la loi du 16 juillet 1973 garantissant la protection des tendances idéologiques et philosophiques.
+
+Les statuts du centre culturel prévoient les modalités de désignation des administrateurs dans le respect de la parité entre les deux chambres de l'assemblée générale.
+
+#### Sous-section III. - Comité de gestion
+
+##### Art. 87
+
+Le conseil d'administration peut désigner en son sein des membres formant le comité de gestion, chargé d'assister [<sup>1</sup> la direction]<sup>1</sup> dans la gestion journalière.
+
+[<sup>1</sup> Le comité de gestion est composé d'un nombre égal de membres issus de la chambre privée et de membres issus de la chambre publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 16, 008; En vigueur : 21-03-2024&gt;
+
+### Section II. - Conseil d'orientation
+
+##### Art. 88
+
+[<sup>1</sup> Le centre culturel dispose d'un conseil d'orientation, composé :
+
+1° de membres effectifs, désignés par le conseil d'administration sur proposition du personnel d'animation ;
+
+2° de la direction et du personnel d'animation du centre culturel, qui en sont membres consultatifs de droit ;
+
+3° éventuellement, de membres consultatifs complémentaires désignés par le conseil d'administration en son sein.
+
+Les membres effectifs sont issus du tissu social, associatif, économique, culturel. Ils ne peuvent pas être simultanément membre de l'équipe professionnelle ou du conseil d'administration du centre culturel.
+
+Le nombre de membres consultatifs ne peut jamais être supérieur au nombre de membres effectifs ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 17, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 89
+
+[<sup>1</sup> Un membre du conseil d'orientation siège avec voix consultative au conseil d'administration et à l'assemblée générale du centre culturel.
+
+Il est désigné par le conseil d'orientation, parmi ses membres effectifs, en fonction de l'ordre du jour de la réunion à laquelle il est amené à participer ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 18, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 90
+
+Le conseil d'orientation procède à l'autoévaluation continue du projet d'action culturelle. Il contribue notamment au rapport général d'autoévaluation visé aux articles 81 et 82 et participe à l'analyse partagée visée à l'article 19.
+
+Le conseil d'orientation remet d'initiative ou à la demande du conseil d'administration des avis sur le projet d'action culturelle et sur le développement culturel à moyen et long terme du territoire d'implantation ou, le cas échéant, du territoire de projet en prenant en considération l'analyse partagée visée à l'article 19.
+
+### Section III. - Observateur du Gouvernement
+
+##### Art. 91
+
+Le Gouvernement peut désigner un observateur auprès du centre culturel dont l'action culturelle est reconnue, d'initiative ou à la demande des services du Gouvernement, d'une collectivité publique associée ou d'un organe visé aux sections 1ère et 2. L'observateur désigné par le Gouvernement est invité à toute réunion de l'assemblée générale et du conseil d'administration.
+
+Le Gouvernement arrête les conditions d'exercice de la mission confiée à l'observateur visé à l'alinéa 1er.
+
+## CHAPITRE XI. - Personnel
+
+### Section Ire. - Direction
+
+##### Art. 92
+
+§ 1er. [<sup>1</sup> La direction du centre culturel est exercée :
+
+1° soit, par une seule personne sous contrat de travail à temps plein ;
+
+2° soit, conjointement par plusieurs personnes sous contrat de travail à temps plein ou à temps partiel, à condition que leur temps de travail cumulé représente au moins un équivalent temps plein]<sup>1</sup>.
+
+Le centre culturel dispose d'un délai de six mois à dater de la notification de la reconnaissance de son action culturelle pour conclure [<sup>1</sup> le ou les contrat(s) visé(s)]<sup>1</sup> à l'alinéa 1er.
+
+§ 2. Le conseil d'administration établit en collaboration avec les services du Gouvernement le profil de fonction [<sup>1</sup> de la direction]<sup>1</sup> ainsi que la procédure de sélection et de publicité pour le recrutement.
+
+Le profil de fonction tient compte notamment de l'importance du centre culturel, du volume d'activités, de l'infrastructure, de la taille de l'équipe professionnelle, des conventions collectives de travail d'application pour le secteur et, s'il existe, du projet d'action culturelle.
+
+Le Gouvernement arrête les modalités d'adoption du profil de fonction et de publication.
+
+§ 3. Le conseil d'administration du centre culturel constitue un jury composé de :
+
+1° représentants désignés par le conseil d'administration du centre culturel en veillant au respect du pluralisme et à la représentation des différents types de collectivités publiques associées;
+
+2° [<sup>1</sup> experts, issus notamment de la direction d'autres centres culturels, d'organisations représentatives au sens de l'article 97 ou de porteurs d'un projet de coopération entre centres culturels]<sup>1</sup>;
+
+3° un représentant des services du Gouvernement.
+
+§ 4. [<sup>1</sup> Les candidats à la fonction de direction sont invités ]<sup>1</sup> à communiquer au jury une lettre de motivation et un projet d'animation et de gestion du centre culturel.
+
+§ 5. Le jury examine les lettres de motivation et les projets d'animation et de gestion des candidatures valablement reçues.
+
+§ 6. Le jury soumet les candidats à la fonction de [<sup>1</sup> direction ]<sup>1</sup> à un examen écrit.
+
+Le jury établit un classement des candidats à l'issue de l'examen écrit et motive ce classement.
+
+§ 7. Le jury procède à l'audition des cinq candidats les mieux classés ou, si le nombre de candidats est inférieur à six, de l'ensemble des candidats.
+
+§ 8. Le jury établit un classement général à l'issue de l'examen écrit et de l'audition et motive ce classement.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 19, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 93
+
+Le conseil d'administration désigne [<sup>1</sup> la direction ]<sup>1</sup> du centre culturel en prenant en considération le classement motivé établi par le jury visé à l'article 92.
+
+Il désigne [<sup>1</sup> le ou les premier(s) classé(s) ]<sup>1</sup> au poste de [<sup>1</sup> direction]<sup>1</sup> du centre culturel. Il lui est toutefois possible de désigner un candidat moins bien classé pour autant qu'il explicite la motivation qui l'y conduise et les critères qu'il prend en compte pour s'écarter du classement établi par le jury.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 20, 008; En vigueur : 21-03-2024&gt;
+
+##### Art. 94
+
+[<sup>1</sup> La direction ]<sup>1</sup> est responsable de la gestion culturelle et administrative et de toute responsabilité lui confiée par le conseil d'administration.
+
+[<sup>1</sup> La direction ]<sup>1</sup> assume la fonction de délégué à la gestion journalière et est chargé de l'application journalière des décisions du conseil d'administration.
+
+[<sup>1</sup> La direction ]<sup>1</sup> siège avec voix consultative à l'assemblée générale, au conseil d'administration, au conseil d'orientation et, s'il existe, au comité de gestion.
+
+Le conseil d'administration procède à une évaluation quinquennale du projet d'animation et de gestion [<sup>1</sup> de La direction ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 21, 008; En vigueur : 21-03-2024&gt;
+
+### Section II. - Equipe professionnelle
+
+##### Art. 95
+
+Le centre culturel dispose d'une équipe professionnelle chargée de gérer le centre culturel et de mettre en oeuvre son projet d'action culturelle et possédant les compétences spécifiques nécessaires à cette fin.
+
+##### Art. 96
+
+L'équipe professionnelle peut être constituée de :
+
+1° personnel d'animation;
+
+2° personnel administratif;
+
+3° personnel technique;
+
+4° personnel d'accueil.
+
+Le membre du personnel lié par un contrat d'emploi avec le centre culturel est affecté exclusivement à l'action culturelle générale et, le cas échéant, à l'action culturelle intensifiée, la ou les actions culturelles spécialisées ou l'action culturelle spécialisée de diffusion des arts de la scène.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 22, 008; En vigueur : 21-03-2024&gt;
+
+## CHAPITRE XII. - Organisations représentatives
+
+##### Art. 97
+
+L'association sans but lucratif dont l'assemblée générale est composée de représentants ou professionnels issus d'au moins la moitié de centres culturels dont l'action culturelle est reconnue, et qui met en oeuvre une action fédérative est dénommée organisation représentative.
+
+L'action fédérative intègre des fonctions de mise en réseau, de services, de représentation, de recherche et de développement, de mobilisation, d'information et de formation.
+
+Les centres culturels participent à la définition, à la gestion et à l'évaluation de l'action fédérative.
+
+##### Art. 98
+
+[<sup>2</sup> §1.]<sup>2</sup> Après avis de [<sup>1</sup> la Commission d'avis]<sup>1</sup>, le Gouvernement peut reconnaître l'action fédérative visée à l'article 97 et octroyer à l'organisation représentative une subvention dans les limites des crédits budgétaires.
+
+Les modalités de liquidation de la subvention sont arrêtées par le Gouvernement.
+
+La subvention couvrant l'action fédérative est adaptée annuellement sur la base de l'indice 01.01.2016 = 100 en fonction de l'indice santé.
+
+[<sup>2</sup> § 2. L'organisation représentative dont l'action fédérative est reconnue bénéficie d'une subvention à l'emploi conformément au décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française, dont la subvention visée à l'article 16 dudit décret pour un équivalent temps plein à affecter à la direction.
+
+La subvention à l'emploi pour le poste de direction est en partie incluse, à concurrence de maximum 14.808 euros, dans la subvention de fonctionnement prévue au paragraphe 1er. Ce montant est lié à l'indice santé applicable au 1er janvier 2023 et est indexé annuellement en suivant l'évolution de cet indice. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2024-03-21/64, art. 23, 008; En vigueur : 01-01-2024&gt;
+
+##### Art. 99
+
+La ou les organisations représentatives élaborent et mettent en oeuvre un projet d'action fédérative couvrant l'ensemble du territoire des régions de langue française et bilingue de Bruxelles-Capitale. Le projet comprend tout ou partie des fonctions énumérées à l'article 97, alinéa 2.
+
+##### Art. 100
+
+§ 1er. L'organisation représentative adresse une demande de reconnaissance de son action fédérative au Gouvernement.
+
+La demande de reconnaissance de l'action fédérative comporte au minimum :
+
+1° les statuts de l'organisation représentative;
+
+2° la composition de l'assemblée générale et du conseil d'administration de l'organisation représentative;
+
+3° l'adresse du siège social de l'organisation représentative;
+
+4° l'identification sociale et financière de l'organisation représentative;
+
+5° le projet d'action fédérative;
+
+6° un plan financier couvrant la durée de la reconnaissance sollicitée.
+
+§ 2. Les services du Gouvernement transmettent pour avis à [<sup>1</sup> la Commission d'avis]<sup>1</sup> la demande de reconnaissance de l'action fédérative.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 113, 006; En vigueur : 10-05-2019&gt;
+
+##### Art. 101
+
+La reconnaissance de l'action fédérative est accordée pour une période de cinq ans.
+
+Le Gouvernement arrête la procédure d'octroi et de reconduction de la reconnaissance de l'action fédérative.
+
+##### Art. 102
+
+Les articles 59 à 63 s'appliquent aux organisations représentatives dont l'action fédérative est reconnue.
+
+##### Art. 103
+
+Le Gouvernement conclut un contrat-programme avec la ou les organisations représentatives dont l'action fédérative est reconnue.
+
+Le contrat-programme visé à l'alinéa 1er est conclu pour une période de cinq ans prenant cours le 1er janvier de l'année qui suit celle de la décision de reconnaissance de l'action fédérative.
+
+Le contrat-programme contient au moins les éléments suivants :
+
+1° les objectifs généraux et les axes opérationnels du projet d'action fédérative;
+
+2° un cahier des charges des actions qui seront mises en oeuvre;
+
+3° un plan financier pour la durée du contrat-programme;
+
+4° le cas échéant, les modalités de concertation et de coopération prévues avec la ou les autres organisations représentatives pour la mise en oeuvre du projet d'action fédérative;
+
+5° le montant de la subvention annuelle octroyée par la Communauté française dans les limites des crédits budgétaires.
+
+Le Gouvernement peut conclure un contrat-programme commun entre la Communauté française et plusieurs organisations représentatives.
+
+##### Art. 104
+
+En application de l'article 103, alinéa 3, 4°, les organisations représentatives dont l'action fédérative est reconnue concluent entre elles une convention déterminant les engagements réciproques des parties contractantes et fixant les modalités de concertation et de coopération destinées à garantir la cohérence et complémentarité des actions développées dans les régions de langue française et bilingue de Bruxelles-Capitale.
+
+La convention visée à l'alinéa 1er prévoit, outre les éléments visés à l'article 103, la contribution particulière de chacune des organisations signataires à la réalisation de l'action fédérative ainsi que la répartition des subventions y relatives.
+
+## CHAPITRE XIII. - Dispositions transitoires, modificatives et finales
+
+### Section Ire. - Dispositions transitoires
+
+##### Art. 105
+
+Le présent décret entre en vigueur le 1er janvier 2014.
+
+##### Art. 106
+
+§ 1er. Le centre culturel reconnu sur base du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels est réputé disposer d'une décision positive du Gouvernement quant à l'opportunité de la reconnaissance de son action culturelle générale.
+
+L'article 23 ne lui est pas applicable, sauf s'il en émet la demande.
+
+§ 2. Le centre culturel reconnu sur base du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels dispose d'une période de cinq années à dater de l'entrée en vigueur du présent décret pour introduire une demande de reconnaissance de l'action culturelle en application du présent décret. [<sup>2</sup> A partir du 1er septembre 2015, les dispositions du présent décret leur sont applicables.]<sup>2</sup>
+
+Au cours de la période visée à l'alinéa 1er, le centre culturel conserve les subventions inscrites dans le contrat-programme qu'il a conclu en application du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels.
+
+Si, dans le délai de cinq années visé à l'alinéa 1er, le centre culturel introduit une demande de reconnaissance de l'action culturelle jugée recevable en application de l'article 33, le centre culturel conserve les subventions inscrites dans le contrat-programme qu'il a conclu en application du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels jusqu'au 1 er janvier de l'année qui suit la décision du Gouvernement en application de l'article 38 [<sup>2</sup> sauf dérogation du Gouvernement en vue d'une application en 2017 du subventionnement prévu au chapitre VII suite à des décisions du gouvernement prises en 2017]<sup>2</sup>.
+
+Préalablement à l'introduction de la demande de reconnaissance de son action culturelle conformément à la procédure visée à l'article 33, le centre culturel reconnu sur base du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels adresse un rapport général d'autoévaluation aux services du Gouvernement, conformément à la procédure visée aux articles 81 à 83.
+
+Les articles 82 et 83 sont applicables à la demande de reconnaissance visée aux alinéas 1er et 4.
+
+§ 3. Au cours des cinq années suivant l'entrée en vigueur du présent décret, seuls les centres culturels reconnus comme centres culturels régionaux et les centres culturels locaux reconnus dans la catégorie 1 en vertu du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels peuvent solliciter la reconnaissance d'une action culturelle intensifiée.
+
+[<sup>1</sup> § 4. Par dérogation au § 2, alinéas 2 et 3, du présent article, les subventions inscrites dans le contrat programme sont réduites à concurrence de 1 % [<sup>3</sup> [<sup>4</sup> pour les années civiles 2015 à 2017]<sup>4</sup>]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-12-18/21, art. 50, 002; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2015-07-14/05, art. 13, 003; En vigueur : 14-08-2015&gt;
+
+(3)&lt;DCFR 2015-12-10/18, art. 28, 004; En vigueur : 06-02-2016&gt;
+
+(4)&lt;DCFR 2016-12-14/17, art. 16, 005; En vigueur : 01-01-2017&gt;
+
+##### Art. 107
+
+Au cours des cinq années suivant l'entrée en vigueur du présent décret, les centres culturels reconnus dans les catégories 2, 3 et 4 en application du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels peuvent solliciter la reconnaissance de l'action culturelle générale en application du présent décret et l'octroi des subventions visés aux articles 66 et 67, à condition que les contributions de la ou des collectivités publiques associées soient au moins équivalentes.
+
+##### Art. 108
+
+Au cours des cinq années suivant l'entrée en vigueur du présent décret, les centres culturels reconnus dans les catégories 2, 3 et 4 en application du décret du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels peuvent solliciter, compte tenu de la contribution de la ou des collectivités publiques associées, une subvention inférieure au montant visé à l'article 66 ou une progression pluriannuelle de la subvention en vue d'atteindre le montant visé à l'article 66 identique à la progression pluriannuelle de la contribution de la ou des collectivités publiques associées.
+
+##### Art. 109
+
+Les centres culturels reconnus dans les catégories 2, 3 et 4 en application du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels ne peuvent introduire une demande de reconnaissance d'une action culturelle intensifiée, d'une ou plusieurs actions culturelles spécialisées ou d'une action culturelle spécialisée de diffusion des arts de la scène et, le cas échéant, solliciter les subventions y afférentes qu'après évaluation positive d'un premier contrat-programme conclu en application du présent décret.
+
+Par dérogation à l'alinéa 1er, le centre culturel qui dispose, au moment du dépôt de la demande de reconnaissance, d'une convention ou d'un contrat-programme relevant de l'architecture, des arts de la scène, des arts plastiques, des arts visuels, du cinéma, de l'éducation permanente, de l'enseignement, de la jeunesse, de la lecture publique, des lettres, du livre ou du patrimoine culturel peut solliciter la reconnaissance d'une action culturelle spécialisée relative à cette convention ou ce contrat-programme et l'octroi d'une subvention y afférente.
+
+##### Art. 110
+
+Au cours des cinq années suivant l'entrée en vigueur du présent décret, le centre culturel non reconnu en application du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels qui sollicite la reconnaissance d'une action culturelle ne peut pas introduire une demande de reconnaissance d'une action culturelle intensifiée, d'une ou plusieurs actions culturelles spécialisées ou d'une action culturelle spécialisée de diffusion des arts de la scène et ne peut pas, le cas échéant, solliciter les subventions y afférentes.
+
+Par dérogation à l'alinéa 1er, le centre culturel qui dispose, au moment du dépôt de la demande de reconnaissance, d'une convention ou d'un contrat-programme relevant de l'architecture, des arts de la scène, des arts plastiques, des arts visuels, du cinéma, de l'éducation permanente, de l'enseignement, de la jeunesse, de la lecture publique, des lettres, du livre ou du patrimoine culturel peut solliciter la reconnaissance d'une action culturelle spécialisée relative à cette convention ou ce contrat-programme et l'octroi d'une subvention y afférente.
+
+### Section II. - Dispositions modificatives
+
+##### Art. 111
+
+A l'article 12, alinéa 2, 7°, du décret du 30 avril 2009 relatif au développement des pratiques de lecture organisé par le réseau public de la lecture et les bibliothèques publiques les mots " du conseil culturel du Centre culturel, tel que défini à l'article 6, 5° du décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subventionnement des centres culturels " sont remplacés par " du conseil d'orientation visé aux articles 88 à 90 du décret du 21 novembre 2013 relatif aux centres culturels ".
+
+##### Art. 112
+
+A l'article 1er du décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française, le 5° est remplacé par :
+
+" 5° " Centre culturel " : le secteur d'activités réglementé par le décret du 21 novembre 2013 relatif aux centres culturels ".
+
+### Section III. - Dispositions finales
+
+##### Art. 113
+
+Le décret du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels est abrogé.
+
+##### Art. 114
+
+[<sup>1</sup> § 1er. Les services du Gouvernement établissent un rapport annuel d'exécution du présent décret, intégrant notamment :
+
+1° une analyse relative à l'octroi, la reconduction et le retrait de reconnaissance d'actions culturelles ;
+
+2° une analyse des flux budgétaires liés que l'octroi, la reconduction et le retrait de reconnaissance d'actions culturelles impliquent ;
+
+3° une analyse particulière des crédits affectés aux centres culturels au titre d'action culturelle spécialisée.
+
+§ 2. Le présent décret sera évalué au plus tard au cours de l'année 2027 et ensuite tous les cinq ans. Le Gouvernement arrête les modalités de cette évaluation.
+
+Le Conseil supérieur de la Culture, la Chambre de concertation de l'Action culturelle et territoriale et l'Observatoire des politiques culturelles sont associés à l'évaluation visée à l'alinéa 1er.
+
+L'évaluation visée à l'alinéa 1er est présentée au Gouvernement et ensuite transmise au Parlement ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-21/64, art. 24, 008; En vigueur : 21-03-2024&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 21 novembre 2013.
+
+Le Ministre-Président du Gouvernement de la Communauté française,
+
+R. DEMOTTE
+
+Le Vice-Président et Ministre de l'Enfance, de la Recherche et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Vice-Président et Ministre du Budget, des Finances et des Sports,
+
+A. ANTOINE
+
+Le Vice-Président et Ministre de l'Enseignement supérieur,
+
+J.-Cl. MARCOURT
+
+La Ministre de la Jeunesse,
+
+Mme E. HUYTEBROECK
+
+La Ministre de la Culture, de l'Audiovisuel, de la Santé et de l'Egalité des chances,
+
+Mme F. LAANAN
+
+La Ministre de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M.-M. SCHYNS

@@ -1,0 +1,1059 @@
+---
+title: "[ Décret relatif au développement des pratiques de lecture et à l'organisation du Réseau de la Lecture publique] <DCFR 2023-10-19/16 , art. 1, 013; En vigueur : 05-02-2024>"
+identifier: "2009029690"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029690/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2009-04-30
+published: 2009-11-05
+entry_into_force: 2010-01-01
+last_amended: 2026-01-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029690/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 05-11-2009 et mise à jour au 09-01-2026"
+retrieved: 2026-10-12
+---
+
+# 30 AVRIL 2009. - [ Décret relatif au développement des pratiques de lecture et à l'organisation du Réseau de la Lecture publique] &lt;DCFR 2023-10-19/16 , art. 1, 013; En vigueur : 05-02-2024&gt;
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Des dispositions générales
+
+### Section Ire. - Objet
+
+##### Art. 1er
+
+[<sup>1</sup> § 1er. Le présent décret a pour objectif le développement des pratiques de lecture des populations de la Communauté française, dans une perspective d'éducation permanente, d'émancipation culturelle et sociale et de développement des libertés et droits culturels.
+
+Les actions développées sont mises en oeuvre de manière à favoriser l'accès au savoir et à la culture par la mise à disposition de ressources documentaires et culturelles sur tous supports, matériels et immatériels, et à permettre leurs utilisations multiples par le plus grand nombre.
+
+§ 2. A cet effet, le présent décret organise la reconnaissance et le subventionnement d'un réseau intégré d'opérateurs qui ont pour objectif :
+
+1° de rassembler des ressources documentaires et culturelles dans les différentes disciplines de la connaissance et de la culture ;
+
+2° de mettre ces ressources à disposition de la population ;
+
+3° de développer et de favoriser des actions de médiation entre ces ressources et la population, visant l'intégration des pratiques individuelles de lecture dans des pratiques collectives qui permettent tant le plaisir que la communication et favorisent la créativité, la citoyenneté et la participation à la vie culturelle ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 2, 013; En vigueur : 05-02-2024&gt;
+
+### Section II. - Définitions
+
+##### Art. 2
+
+[<sup>1</sup> Au sens du présent décret, il faut entendre par :
+
+1° " Pratiques de lecture " : toutes formes de lecture d'informations ou d'oeuvres culturelles, quel qu'en soit le support, permettant des pratiques d'échanges avec autrui afin de reconstruire le sens d'un contenu ;
+
+2° " Ressources documentaires et culturelles " : ensemble des supports physiques et numériques contenant des informations ou des oeuvres culturelles et permettant des pratiques de lecture ; sont notamment visées les livres fictionnels et non fictionnels, les revues, magazines et journaux, les documents d'archives, les supports audiovisuels et les jeux ;
+
+3° " Collection " : ensemble rassemblé et ordonné de ressources documentaires et culturelles ;
+
+4° " Lecture publique " : service public fonctionnel assuré par les opérateurs du Réseau de la Lecture publique et leurs partenaires, dont l'objet est de contribuer aux objectifs visés à l'article 1er ;
+
+5° " Réseau de la Lecture publique " : ensemble structuré et cohérent d'opérateurs reconnus en vertu du présent décret pour assurer le service public visé sous 4° ;
+
+6° " Education permanente " : toute démarche visant l'analyse critique de la société, la stimulation d'initiatives démocratiques et collectives, le développement de la citoyenneté active et l'exercice des droits sociaux, culturels, environnementaux et économiques dans une perspective d'émancipation individuelle et collective des publics en privilégiant la participation active des publics visés et l'expression culturelle ;
+
+7° " Opérateur direct " : opérateur du Réseau de la Lecture publique qui propose des services directement à la population; il peut être composé d'une ou plusieurs bibliothèques gérées par un ou plusieurs pouvoirs organisateurs ;
+
+8° " Opérateur d'appui " : opérateur du Réseau de la Lecture publique qui propose des services à destination d'opérateurs directs et itinérants, afin de les aider à rencontrer leurs missions, ou de pouvoirs organisateurs qui souhaitent obtenir une reconnaissance en vertu du présent décret ;
+
+9° " Opérateur itinérant " : opérateur du Réseau de la Lecture publique qui propose des services itinérants à destination de la population d'un territoire donné, soit directement, soit par l'intermédiaire d'opérateurs directs ou de pouvoirs organisateurs partenaires ;
+
+10° " PointCulture " : opérateur spécialisé dans les ressources documentaires et culturelles audiovisuelles, constitué sous la forme d'une association sans but lucratif enregistré au registre des personnes morales sous le numéro d'entreprise 0408.336.247 ;
+
+11° " Fédération professionnelle reconnue " : organisation reconnue en vertu de l'article 92 du décret du 28 mars 2019 sur la nouvelle gouvernance culturelle pour représenter tout ou partie des opérateurs ou professionnels du Réseau de la Lecture publique ;
+
+12° " Pouvoir organisateur " : personne morale qui assure, seule ou collectivement, la gestion d'une ou plusieurs bibliothèques ou d'un ou plusieurs services d'appui. Cette personne morale peut être :
+
+a) une commune de la région de langue française ou de la région bilingue de Bruxelles-Capitale;
+
+b) une province de la région de langue française;
+
+c) la Commission communautaire française;
+
+d) la Communauté française ;
+
+e) une association sans but lucratif dotée de la personnalité juridique ou une fondation, établie en région de langue française ou de la région bilingue de Bruxelles-Capitale ;
+
+13° " Bibliothèque " : service d'accès à des ressources documentaires et culturelles, ainsi qu'aux actions de médiation qui s'y rapportent, à destination d'une population ou d'opérateurs du Réseau de la Lecture publique ;
+
+14° " Bibliothèque locale " : opérateur direct composé d'une ou plusieurs infrastructures permanentes permettant à la population d'une commune, ou d'un ensemble cohérent de communes géographiquement proches, d'accéder à des ressources documentaires et culturelles ainsi qu'aux actions de médiation qui s'y rapportent ;
+
+15° " Bibliothèque spéciale " : opérateur direct composé d'une ou plusieurs infrastructures permanentes qui exerce ses activités au profit de personnes relevant des compétences de la Communauté française. La bibliothèque spéciale permet l'accès à des ressources documentaires et culturelles, ainsi qu'aux actions de médiation qui s'y rapportent, à des personnes empêchées de bénéficier des services d'un autre opérateur du Réseau de lecture publique en raison d'un handicap, d'un empêchement physique ou qui peuvent être qualifiées de bénéficiaire tel que défini à l'article 3 du Traité visant à faciliter l'accès des aveugles, des déficients visuels et des personnes ayant d'autres difficultés de lecture des textes imprimés aux oeuvres publiées, fait à Marrakech le 27 juin 2013 ;
+
+16° " dispositifs spécifiques " : services spécifiques de Lecture publique pouvant faire l'objet de subventions complémentaires en vertu de l'article 18, § 1er, al. 2, 1° ;
+
+17° " établissement carcéral " : les maisons d'arrêt, les maisons de peine, les établissements de défense sociale, les maisons de détention et les maisons de transition ;
+
+18° " médiathèque " : dispositif spécifique visé sous 16° dont les collections sont exclusivement composées de supports audiovisuels, en ce compris des jeux vidéos ;
+
+19° " ludothèque " : dispositif spécifique visé sous 16° dont les collections sont exclusivement composées de jeux et jouets, à l'exclusion des jeux vidéos ;
+
+20° " Normes bibliothéconomiques " : ensemble de règles selon lesquelles les opérateurs du Réseau de la Lecture publique traitent et organisent les documents qu'ils mettent à disposition du public et qui, par leur cohérence et leur uniformisation, permettent notamment de procéder entre les composants du Réseau de la Lecture publique à des échanges de données comparables, des échanges informatiques, des échanges de documents, des interfaces entre catalogues et des consultations à distance ;
+
+21° " Catalogue collectif " : base de données informatisée à interrogation unique reprenant la production catalographique de plusieurs opérateurs et qui permet la localisation des livres, périodiques et documents catalogués ;
+
+22° " Collection encyclopédique " : collection organisée de manière à garantir en permanence une diversification des de ressources documentaires et culturelles qui assure la représentation de toutes les classes de la classification décimale universelle (C.D.U.) ou de la classification Dewey ;
+
+23° " Capacités langagières " : capacités de compréhension à l'audition, capacités d'expression orale, capacités de lecture et capacités de produire des écrits ;
+
+24° " Objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique " : les objectifs visés à l'article 1.4.5-2 du Code de l'enseignement fondamental et de l'enseignement secondaire, ainsi que les stratégies, les objectifs, le programme et le calendrier définis dans le plan d'actions visé à l'article 1.4.5-13 du même Code ;
+
+25° " Libertés et droits culturels " : les libertés et droits culturels consacrés notamment par l'article 27 de la Déclaration universelle des droits de l'homme, l'article 15 du Pacte international relatif aux droits économiques, sociaux et culturels, les articles 13, 22 et 25 de la Charte des droits fondamentaux de l'Union européenne, de l'article 31 de la Convention de New York relative aux droits de l'enfant, l'article 23 de la Constitution et la Déclaration de Fribourg sur les Droits culturels, adoptée le 7 mai 2007 ;
+
+26° " Chambre de concertation " : la Chambre de concertation de l'Action culturelle et territoriale ;
+
+27° " Commission d'avis " : la Commission de l'Action culturelle et territoriale ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 3, 013; En vigueur : 05-02-2024&gt;
+
+## CHAPITRE II. [<sup>1</sup> Du Réseau de la Lecture publique ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 4, 013; En vigueur : 05-02-2024&gt;
+
+### Section Ire. [<sup>1</sup> - Des opérateurs du Réseau de la Lecture publique ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 5, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 3
+
+[<sup>1</sup> . Les opérateurs reconnus en vertu du présent décret forment collectivement le Réseau de la Lecture publique.
+
+Ce réseau est composé :
+
+1° d'opérateurs directs ;
+
+2° d'opérateurs d'appui ;
+
+3° d'opérateurs itinérants ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 6, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 4
+
+Les opérateurs directs sont constitués soit en bibliothèque locale,[<sup>1</sup> ...]<sup>1</sup> soit en bibliothèque spéciale.
+
+Lorsque plusieurs pouvoirs organisateurs organisent l'activité d'une bibliothèque locale qui s'exerce sur un même territoire, ils constituent ensemble un opérateur direct. Les modalités de collaboration [<sup>1</sup> ...]<sup>1</sup> des pouvoirs organisateurs sont fixées dans une convention conclue entre eux dans le respect du présent décret. Le Gouvernement précise les éléments qui, au minimum, doivent y figurer [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 7, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 5
+
+[<sup>1</sup> § 1er. Les missions d'appui sont exercées :
+
+1° par les services du Gouvernement, agissant à l'échelle de la Communauté française et au bénéfice de tous les opérateurs du Réseau de la Lecture publique ;
+
+2° par PointCulture, opérateur spécialisé dans les ressources documentaires et culturelles audiovisuelles agissant à l'échelle de la Communauté française et au bénéfice de tous les opérateurs culturels, notamment ceux du Réseau de la Lecture publique ;
+
+3° par des opérateurs d'appui agissant à l'échelle d'une province ou de la Région de Bruxelles-Capitale et au bénéfice de tous les opérateurs du Réseau de la Lecture publique de leur territoire.
+
+§ 2. Il n'existe qu'un seul opérateur d'appui au sens du § 1er, 3°, par province ou dans la Région de Bruxelles-Capitale.
+
+A défaut d'opérateur reconnu à cet effet, le rôle d'opérateur à l'échelle d'une province ou de la Région de Bruxelles-Capitale peut être assuré par les services du Gouvernement sur le territoire concerné.
+
+§ 3. Les services du Gouvernement, Point Culture et les opérateurs d'appui établissent entre eux des partenariats par convention pour permettre la réalisation des actions utiles au fonctionnement intégré du Réseau de la Lecture publique, notamment par la mise en commun de moyens ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 8, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Les missions des opérateurs itinérants s'exercent à l'échelle d'une province ou de la Région de Bruxelles-Capitale.
+
+Un seul opérateur itinérant peut être reconnu par province ou dans la Région de Bruxelles-Capitale.
+
+Les modalités de collaboration entre l'opérateur itinérant et les opérateurs directs, les opérateurs d'appui ou les pouvoirs organisateurs partenaires sont fixées dans une convention conclue entre eux dans le respect du présent décret. Le Gouvernement précise les éléments qui, au minimum, doivent y figurer ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 9, 013; En vigueur : 05-02-2024&gt;
+
+### Section II. - Des critères d'organisation des opérateurs entre eux et de fonctionnement au sein du [<sup>1</sup> Réseau de la Lecture publique]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 10, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 7
+
+§ 1er. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Réseau de la Lecture publique]<sup>1</sup>crée tout partenariat utile avec des institutions internationales qui peuvent renforcer son action ou intégrer la réalisation de ses missions dans un cadre international.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 11, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 8
+
+§ 1er. Le Gouvernement arrête les critères d'organisation et de fonctionnement du [<sup>1</sup> Réseau de la Lecture publique ]<sup>1</sup> dans le respect des principes suivants :
+
+1° la mise en commun de pratiques et l'échange de résultats;
+
+2° l'utilisation de normes, dont les normes bibliothéconomiques, et de règles permettant l'échange de données;
+
+3° [<sup>1</sup> le partage de la constitution et de la gestion des ressources documentaires, en ce compris les catalogues ]<sup>1</sup>;
+
+4° la mise en commun des ressources de médiation et d'animation;
+
+5° la nécessaire collaboration réciproque entre les opérateurs directs [<sup>1</sup> , les opérateurs itinérants ]<sup>1</sup> et les opérateurs d'appui.
+
+§ 2. Le Gouvernement charge ses services de l'organisation du fonctionnement du Réseau public de la Lecture et de la mise en commun des ressources.
+
+A cet effet, ceux-ci organisent la mise en relation régulière des opérateurs d'appui, la création de plates formes entre eux et la mise en commun de plans quinquennaux de développement portés par les opérateurs du [<sup>1</sup> Réseau de la Lecture publique ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 12, 013; En vigueur : 05-02-2024&gt;
+
+### Section III. - De l'élaboration d'un plan quinquennal de développement
+
+##### Art. 9
+
+En vue de la réalisation des missions définies à l'article 1er, les opérateurs du [<sup>1</sup> Réseau de la Lecture publique ]<sup>1</sup>intègrent l'ensemble de leur action dans le cadre d'un plan quinquennal de développement.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 13, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 10
+
+§ 1er. Le plan quinquennal de développement des opérateurs directs visés à l'article 4 [<sup>2</sup> et des opérateurs itinérants visés à l'article 6 ]<sup>2</sup> prévoit au minimum :
+
+1° Une description des objectifs généraux d'action que l'opérateur se fixe à court, moyen et long terme en fonction des problématiques définies après l'analyse des réalités [<sup>2</sup> ...]<sup>2</sup> du territoire concerné;
+
+2° une description des objectifs pour une période de cinq ans reprenant :
+
+\- les réalisations que l'opérateur veut mettre en oeuvre;
+
+\- les niveaux d'activité qu'il cherche à atteindre;
+
+\- le mode d'actualisation du plan au cours de son déroulement;
+
+3° une définition de la population visée;
+
+4° une définition des changements envisagés en termes de progression des pratiques de lecture de la population visée;
+
+5° une définition des programmes de médiation que l'opérateur souhaite mettre en oeuvre pour que les populations visées accèdent aux ressources documentaires et culturelles et comprenant particulièrement :
+
+\- une définition des moyens pédagogiques et des programmes d'animation visant l'utilisation et le développement des capacités langagières liées à l'écrit;
+
+\- les programmes permettant à la population et aux acteurs associatifs de mener, avec le soutien du personnel adéquat, des recherches documentaires et de réaliser des analyses critiques de documents et de sources disponibles, dans une perspective d'acquisition de connaissances, de production documentaire ou de production culturelle;
+
+\- le développement de toute action visant à lutter contre l'illettrisme;
+
+[<sup>1</sup> - les programmes contribuant aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique; si aucun programme de médiation à destination du public scolaire n'est prévu, l'opérateur en motive les raisons dans sa demande de reconnaissance;]<sup>1</sup>
+
+[<sup>2</sup> - le développement de toute action visant à renforcer l'inclusion numérique des populations. ]<sup>2</sup>
+
+6° les moyens affectés, dont :
+
+\- l'organisation, à destination de la population, de services d'offre de ressources documentaires ayant trait à la connaissance et à la culture;
+
+\- le matériel permettant l'accès aux ressources numériques;
+
+\- les ressources pédagogiques nécessaires au plan quinquennal de développement;
+
+\- les ressources humaines, financières, d'infrastructures, documentaires rassemblées à cette fin;
+
+7° la définition de la méthodologie de l'action et sa planification dans le temps;
+
+8° l'objet et la méthodologie de l'[<sup>2</sup> auto-évaluation]<sup>2</sup> qui accompagne le plan quinquennal telle que définie aux articles 14 et 15.
+
+[<sup>2</sup> 9° Le cas échéant, la manière dont le dispositif spécifique exercé se distingue de l'action générale de l'opérateur et s'articule avec celle-ci.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Dans un souci de cohérence de la politique culturelle menée sur un territoire déterminé, les opérateurs directs intervenant sur ce territoire, intègrent leurs plans de développement respectifs dans un seul plan quinquennal de développement et ce, quel que soit le nombre d'opérateurs directs y intervenant. Ce plan de développement dépasse, en terme d'objectifs d'action et de moyens mis en oeuvre, la simple addition des programmes d'action respectifs des opérateurs directs]<sup>2</sup>.
+
+§ 3. En outre, le plan implique une concertation de différents organismes reconnus dans le cadre des politiques culturelles de la Communauté française sur les enjeux de la politique culturelle communale ou supra communale du territoire où l'action est développée. Il prend aussi en considération les actions d'organismes reconnus ou actifs dans le cadre de dispositions légales et réglementaires relatives à l'insertion sociale, à l'alphabétisation et à la formation continuée.
+
+[<sup>2</sup> L'élaboration et la mise en oeuvre du plan implique également une concertation avec les écoles du territoire où l'action est développée. Lorsque des actions sont menées avec des écoles, elles se développent en conformité avec les objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.]<sup>2</sup>
+
+Des conventions de partenariat peuvent être conclues avec les organismes visés à aux alinéas 1er et 2. Le contenu et les modalités de celles-ci font partie du plan quinquennal de développement.
+
+§ 4. Lorsque plusieurs bibliothèques organisées par des pouvoirs organisateurs différents constituent un [<sup>2</sup> opérateur direct]<sup>2</sup>, la convention déterminant les relations entre les objectifs de leur action et les moyens qui y sont dévolus fait partie intégrante du plan quinquennal de développement du territoire concerné.
+
+----------
+
+(1)&lt;DCFR 2022-10-13/24, art. 35, 011; En vigueur : 29-12-2022&gt;
+
+(2)&lt;DCFR 2023-10-19/16, art. 14, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 11
+
+[<sup>1</sup> Art. 11. § 1er. Le plan quinquennal de développement des opérateurs d'appui, prévoit au minimum :
+
+1° une description des objectifs généraux d'action que l'opérateur d'appui se fixe à court, moyen et long terme en fonction des problématiques définies après l'analyse des réalités du Réseau de la Lecture publique sur le territoire concerné ;
+
+2° une description des objectifs pour une période de cinq ans reprenant :
+
+a) les réalisations que l'opérateur veut mettre en oeuvre, notamment en termes :
+
+\- de développement, d'entretien et de maintenance de bases de données, dont les catalogues collectifs ;
+
+\- de garantie d'accès à ces bases de données ;
+
+\- de mise en réseau avec des catalogues collectifs développés en dehors du Réseau de la Lecture publique ;
+
+\- de mise en commun des ressources documentaires et culturelles selon des procédures partagées, que ce soit en vue de leur diffusion ou de leur conservation ;
+
+\- de création de partenariats sur base des compétences des différents opérateurs directs du territoire ;
+
+\- de soutien aux plans quinquennaux de développement des opérateurs directs du territoire et de promotion des objectifs et actions qu'ils concernent ;
+
+\- d'organisation commune de la production de tous autres services qui facilitent l'action des opérateurs du Réseau de la Lecture publique en termes de moyens, de pédagogie d'action, de médiation et d'évaluation des résultats de l'action ;
+
+b) le mode d'actualisation du plan au cours de son déroulement ;
+
+3° une définition des partenariats mis en oeuvre, notamment avec les opérateurs visés ci-dessous :
+
+\- les opérateurs directs et itinérants du territoire ;
+
+\- les opérateurs reconnus dans le cadre d'une autre politique culturelle de la Communauté française ;
+
+\- les opérateurs organisés, reconnus ou soutenus dans le cadre des politiques publiques relatives à l'insertion sociale, à l'alphabétisation et à la formation continuée ;
+
+\- les référents scolaires, en vue d'aider les opérateurs directs et itinérants à contribuer aux objectifs, stratégies et priorités du parcours d'éducation culturelle et artistique.
+
+4° une définition des changements envisagés en termes de progression des services offerts par les opérateurs directs du territoire concerné, en ce compris la stratégie envisagée pour accompagner, soutenir et former ces opérateurs dans l'appréhension de la dimension numérique de leur action ;
+
+5° les moyens affectés, dont :
+
+\- les ressources humaines, financières, documentaires et d'infrastructures, rassemblées à cette fin ;
+
+\- les ressources pédagogiques nécessaires au plan quinquennal de développement ;
+
+\- les ressources numériques nécessaires à la réalisation du plan quinquennal de développement et la manière dont celles-ci s'articulent aux autres services du Réseau de la Lecture publique ;
+
+6° la définition de la méthodologie de l'action et sa planification dans le temps ;
+
+7° l'objet et la méthodologie de l'auto-évaluation qui accompagne le plan quinquennal de développement telle que définie aux articles 14 et 15.
+
+§ 2. Lorsque les services du Gouvernement assurent le rôle d'opérateur d'appui en vertu de l'article 5, § 2, alinéa 2, ils établissent un projet de plan quinquennal de développement conforme aux dispositions du présent article.
+
+Ce plan est approuvé par le Gouvernement après avis de la Commission ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 15, 013; En vigueur : 05-02-2024&gt;
+
+## CHAPITRE III. - De la reconnaissance des opérateurs du [<sup>1</sup> Réseau de la Lecture publique]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 16, 013; En vigueur : 05-02-2024&gt;
+
+### Section Ire. - Des conditions de reconnaissance
+
+##### Art. 12
+
+Dans la limite des crédits budgétaires disponibles, le Gouvernement peut reconnaître les opérateurs qui en font la demande et qui répondent aux conditions visées ci-après.
+
+Pour être reconnus et garder le bénéfice de la reconnaissance, les opérateurs du [<sup>3</sup> Réseau de la Lecture publique]<sup>3</sup> doivent satisfaire aux conditions générales suivantes :
+
+1° Elaborer, selon les formes arrêtées par le Gouvernement, un plan quinquennal de développement conforme aux objectifs décrits à l'article 1er;
+
+2° Pendant une année, avant l'introduction de la demande de reconnaissance, avoir poursuivi des activités conformes à celles exigées par le décret pour l'obtention d'une reconnaissance;
+
+3° Disposer en permanence et en nombre suffisant du personnel qualifié nécessaire à l'accomplissement du plan quinquennal de développement qu'ils mènent sur un territoire d'intervention au bénéfice de la population à desservir ou dans le cadre de leurs missions d'appui;
+
+4° Disposer de locaux, d'infrastructures, d'équipements qui permettent la réalisation du plan quinquennal de développement;
+
+5° Disposer de matériels et de mobiliers divers leur permettant de réaliser les activités de manière efficiente;
+
+6° Disposer de collections[<sup>3</sup> ...]<sup>3</sup> sous divers supports matériels ou immatériels destinés à l'emprunt, à la consultation ou à tous autres usages, tenus à jour par des accroissements et des élagages réguliers. En outre ces collections [<sup>3</sup> ...]<sup>3</sup>doivent être :
+
+\- quantitativement et qualitativement [<sup>3</sup> significatives]<sup>3</sup> eu égard à la population à desservir;
+
+\- [<sup>3</sup> représentatives]<sup>3</sup> des besoins socioculturels contemporains inhérents au caractère public de l'institution;
+
+7° organiser en son sein un conseil de développement de la lecture dont la composition, variable en fonction des divers types d'opérateurs du [<sup>3</sup> Réseau de la Lecture publique]<sup>3</sup> est fixée par le Gouvernement. En conformité avec l'objectif du présent décret le conseil de développement de la lecture prévoit les synergies nécessaires avec d'autres opérateurs. Ce conseil peut notamment émaner [<sup>1</sup> du conseil d'orientation visé aux articles 88 à 90 du décret du 21 novembre 2013 relatif aux centres culturels]<sup>1</sup> , couvrant le même territoire que l'opérateur concerné;
+
+8° participer au processus d'évaluation du [<sup>3</sup> Réseau de la Lecture publique]<sup>3</sup> tel que défini au chapitre VI;
+
+9° transmettrtoutes les informations utiles aux services [<sup>3</sup> du Gouvernement]<sup>3</sup> notamment afin de leur permettre de réaliser les avis nécessaires dans les procédures de reconnaissance, de retrait de reconnaissance, de retrait des subventions, d'évaluation et de contrôle.
+
+[<sup>2</sup> 10° veiller à ce que les enfants participants à leurs activités soient traités dans le respect de leur personne et de leur individualité et ne soient soumis à aucune forme de violence physique ou psychique. ]<sup>2</sup>
+
+Le Gouvernement détermine les modalités pratiques de la présente disposition.
+
+[<sup>3</sup> Lorsque les crédits budgétaires disponibles sont insuffisants pour reconnaitre l'ensemble des opérateurs répondant aux conditions du présent article, les priorités sont définies comme suit :
+
+1° la priorité est d'abord donnée au maintien, hors demande de progression, des reconnaissances faisant l'objet d'une évaluation positive ;
+
+2° la priorité est ensuite donnée au financement des augmentations de subventions, calculées conformément à l'article 18, §§ 2 et 3 ;
+
+3° la priorité est ensuite donnée aux nouvelles demandes de reconnaissances, hors dispositifs spécifiques, en tenant compte des critères suivants :
+
+a) les provinces les moins soutenues par la Communauté française sont prioritaires ; pour l'application du présent critère, il y a lieu :
+
+\- de considérer l'arrondissement administratif de Bruxelles-Capitale comme une province ;
+
+\- d'avoir égard au financement par habitant accordé, au sein de la province concernée, par la Communauté française dans le cadre des politiques culturelles, tel qu'il ressort des statistiques produites par les services du Gouvernement ;
+
+b) au sein d'une même province ou de la Région de Bruxelles-Capitale, les territoires non couverts par un centre culturel reconnu par la Communauté française sont prioritaires ;
+
+c) lorsque l'application des points a) et b) aboutit à une égalité, la priorité est donnée aux communes dont les communes limitrophes ne sont pas couvertes par un opérateur direct reconnu comme bibliothèque locale ;
+
+d) lorsque l'application des points a), b) et c) aboutit à une égalité, la priorité est donnée aux communes entourées du plus petit nombre d'opérateurs directs reconnus comme bibliothèques locales ;
+
+e) lorsque l'application des points a), b), c) et d) aboutit à une égalité, la priorité est donnée aux communes les plus éloignées d'un opérateur direct reconnu comme bibliothèque locale ;
+
+f) lorsque l'application des points a), b), c), d) et e) aboutit à une égalité, la priorité est donnée aux opérateurs qui font déjà partie d'un catalogue collectif ;
+
+4° il est enfin statué sur la reconnaissance de nouveaux dispositifs spécifiques en application de l'article 18, § 5 à 7. ]<sup>3</sup>
+
+[<sup>4</sup> Par dérogation à l'alinéa 1er, aucune demande de reconnaissance ne peut être introduite du 1er janvier 2026 au 31 décembre 2027. ]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2013-11-21/19, art. 111, 003; En vigueur : 08-02-2014&gt;
+
+(2)&lt;DCFR 2023-10-05/23, art. 30, 012; En vigueur : 02-02-2024&gt;
+
+(3)&lt;DCFR 2023-10-19/16, art. 17, 013; En vigueur : 05-02-2024&gt;
+
+(4)&lt;DCFR 2025-12-17/08, art. 78, 014; En vigueur : 01-01-2026&gt;
+
+### Section II. - De la procédure de reconnaissance
+
+##### Art. 13
+
+Le Gouvernement arrête la procédure de reconnaissance dans le respect des principes suivants :
+
+1° [<sup>3</sup> l'opérateur introduit une demande de reconnaissance auprès des services du Gouvernement selon les modalités déterminées ; Lorsque l'opérateur d'appui et l'opérateur itinérant d'un même territoire sont organisés par un même pouvoir organisateur, ce dernier peut déposer un dossier unique de reconnaissance ]<sup>3</sup>;
+
+2° Le Gouvernement requiert l'avis [<sup>1</sup> de la Commission d'avis]<sup>1</sup> [<sup>3</sup> et des services qu'il désigne ]<sup>3</sup> pour l'examen de cette demande. Lorsque l'avis du Conseil des Bibliothèques publiques n'intervient pas dans le délai prescrit par le Gouvernement, cet avis est considéré comme positif;
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+Le Gouvernement assure, par la voie de ses services, la publication annuelle d'un rapport relatif aux demandes de reconnaissance, aux dates d'introduction de celles-ci, aux avis remis et aux décisions prises.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2023-10-19/16, art. 18, 013; En vigueur : 05-02-2024&gt;
+
+### Section III. - Du maintien de la reconnaissance
+
+#### Sous-section Ier. - De l'évaluation du plan quinquennal
+
+##### Art. 14
+
+§ 1er.[<sup>6</sup> Les opérateurs du Réseau de la Lecture publique mènent, tout au long de l'exécution de leur plan quinquennal de développement, un processus d'auto-évaluation continu permettant d'accompagner les changements prévus, d'orienter les décisions de gestion et d'apprécier les résultats et impacts obtenus. Ce processus mène à l'établissement, à l'issue de la quatrième année du plan, d'un rapport général d'auto-évaluation]<sup>6</sup>.
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>5</sup> [<sup>7</sup> Par dérogation à l'alinéa 1er, l'évaluation du plan quinquennal des opérateurs du Réseau de la Lecture publique dont la reconnaissance est en cours au 1er janvier 2026 est reportée, aux mêmes conditions, de deux ans à compter de la date d'évaluation initialement prévue. ]<sup>7</sup>]<sup>5</sup>
+
+[<sup>6</sup> Par dérogation aux alinéas précédents, lorsque l'opérateur d'appui et l'opérateur itinérant d'un même territoire sont organisés par un même pouvoir organisateur, mais sont reconnus selon des temporalités différentes, l'établissement du rapport général d'auto-évaluation d'un des deux opérateurs peut, moyennant demande motivée, être décalé pour coïncider avec celui de l'autre opérateur.]<sup>6</sup>
+
+§ 2. [<sup>6</sup> ...]<sup>6</sup>
+
+§ 3. [<sup>6</sup> Les services du Gouvernement accompagnent et vérifient, selon les modalités arrêtées par le Gouvernement, le processus d'auto-évaluation des opérateurs du Réseau de la Lecture publique]<sup>6</sup>.
+
+----------
+
+(1)&lt;DCFR 2014-12-18/21, art. 37, 004; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2016-12-14/17, art. 18, 007; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFR 2017-12-20/17, art. 2, 008; En vigueur : 01-01-2018&gt;
+
+(4)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(5)&lt;DCFR 2021-07-14/23, art. 17, 010; En vigueur : 01-01-2021&gt;
+
+(6)&lt;DCFR 2023-10-19/16, art. 19, 013; En vigueur : 05-02-2024&gt;
+
+(7)&lt;DCFR 2025-12-17/08, art. 79, 014; En vigueur : 01-01-2026&gt;
+
+##### Art. 15
+
+[<sup>9</sup> §1.Le Gouvernement arrête la procédure d'évaluation de la reconnaissance dans le respect des principes suivants :
+
+1° l'opérateur adresse aux services du Gouvernement un rapport général d'auto-évaluation établi conformément à l'article 14, ainsi qu'un projet de plan de développement pour la période quinquennale suivante ;
+
+2° l'opportunité du maintien de la reconnaissance et le contenu du plan quinquennal de développement font l'objet d'un avis des services du Gouvernement et de la Commission;
+
+3° après réception des avis, le Gouvernement se prononce sur le maintien de la reconnaissance et formule ses remarques éventuelles concernant le projet de plan quinquennal de développement ;
+
+4° en cas de décision de retrait prise en exécution du présent article, la reconnaissance prend fin à l'issue de la période quinquennale faisant l'objet de l'évaluation]<sup>9</sup>.
+
+[<sup>9</sup> ...]<sup>9</sup>
+
+[<sup>8</sup> Par dérogation à [<sup>9</sup> à l'alinéa 1er]<sup>9</sup>, pour les opérateurs du [<sup>9</sup> Réseau de la Lecture publique ]<sup>9</sup> dont la reconnaissance a pris effet au 1er janvier 2014 et a été maintenue au 1er janvier 2022, la seconde décision sur le maintien de la reconnaissance intervient au terme de la période quinquennale prolongée d'un an.]<sup>8</sup>
+
+[<sup>10</sup> Par dérogation à l'alinéa 1er, pour les opérateurs du Réseau de la Lecture publique dont la reconnaissance est en cours au 1er janvier 2026, la décision sur la reconnaissance est prolongée aux mêmes conditions pour une durée de deux ans à compter de sa date d'échéance. ]<sup>10</sup>
+
+[<sup>9</sup> § 2. Lorsque les services du Gouvernement assurent le rôle d'opérateur d'appui en vertu de l'article 5, § 2, alinéa 2, ils adressent à la Commission d'avis un rapport général d'auto-évaluation en même temps que le projet de plan quinquennal de développement établi conformément à l'article 11.]<sup>9</sup>
+
+----------
+
+(1)&lt;DCFR 2014-12-18/21, art. 38, 004; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2016-12-14/17, art. 19, 007; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFR 2017-12-20/17, art. 3, 008; En vigueur : 01-01-2018&gt;
+
+(4)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(5)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(6)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(7)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(8)&lt;DCFR 2021-07-14/23, art. 18, 010; En vigueur : 01-01-2021&gt;
+
+(9)&lt;DCFR 2023-10-19/16, art. 20, 013; En vigueur : 05-02-2024&gt;
+
+(10)&lt;DCFR 2025-12-17/08, art. 80, 014; En vigueur : 01-01-2026&gt;
+
+#### Sous-section II. - Du contrôle
+
+##### Art. 16
+
+§ 1er. Aux fins de contrôler le respect des dispositions du décret par les opérateurs, ceux-ci adressent chaque année aux services du Gouvernement un rapport d'activité ainsi qu'un rapport comptable constitués des comptes de résultats ainsi que, pour [<sup>2</sup> personnes morales de droit privé ]<sup>2</sup>, des comptes de bilan.
+
+Dès lors que l'opérateur comporte plusieurs pouvoirs organisateurs, le rapport comptable fournit les comptes de chaque pouvoir organisateur et un compte de résultats regroupant les comptes des différents pouvoirs organisateurs.
+
+§ 2. [<sup>2</sup> Le Gouvernement arrête la procédure de contrôle dans le respect des principes suivants :
+
+1° au terme de chaque année civile, les services du Gouvernement contrôlent l'utilisation des subventions octroyées à l'opérateur et le respect par ce dernier des conditions de reconnaissance ;
+
+2° s'il apparait que l'opérateur ne respecte pas les dispositions du présent décret, il est fait application :
+
+a) soit de la procédure prévue à l'article 15, § 1er, si ce constat intervient lors de l'évaluation quinquennale de la reconnaissance ;
+
+b) soit de la procédure prévue au chapitre V, si ce constat intervient à un autre moment]<sup>2</sup>.
+
+§ 3.[<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2023-10-19/16, art. 21, 013; En vigueur : 05-02-2024&gt;
+
+## CHAPITRE IV. - Des conditions du subventionnement
+
+##### Art. 17
+
+§ 1er. La Communauté française, les provinces, la Commission communautaire française et les communes apportent une aide financière aux opérateurs reconnus du [<sup>1</sup> opérateurs du Réseau de la Lecture publique]<sup>1</sup>.
+
+§ 2. Pour assurer que l'opérateur puisse mettre à disposition de la population les ressources documentaires nécessaires à la réalisation du plan quinquennal de développement, l'intervention des communes ou associations de communes [<sup>1</sup> couvre]<sup>1</sup> au minimum la charge de l'accroissement annuel des ressources documentaires sur supports matériels tel que défini au plan quinquennal de développement que ce soit pour elles-mêmes ou pour les pouvoirs organisateurs de droit privé, que ce soit par voie de subside de transfert ou par l'achat direct de celles-ci.
+
+§ 3. Les provinces et la Commission communautaire française participent aux frais de fonctionnement des opérateurs sur base d'une subvention proportionnelle au nombre de permanents subventionnés par la Communauté française. Lorsque plusieurs pouvoirs organisateurs constituent un opérateur, le montant est réparti entre eux selon la convention incluse dans le plan quinquennal de développement.
+
+§ 4. En cas d'opérateur direct constitué de plusieurs bibliothèques gérées par des pouvoirs organisateurs différents delles-mêmes, les communes et associations de communes peuvent apporter aux bibliothèques organisées par ces autres pouvoirs organisateurs, une aide financière ou technique déterminée conventionnellement avec les pouvoirs organisateurs des bibliothèques constituant l'opérateur.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 22, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 18
+
+[<sup>1</sup> § 1er. Le Gouvernement octroie à tout opérateur reconnu en vertu du présent décret, selon les modalités qu'il détermine :
+
+1° des subventions forfaitaires au titre d'intervention dans la rémunération des emplois permanents affectés par les pouvoirs organisateurs exclusivement aux activités de l'opérateur reconnu ;
+
+2° des subventions forfaitaires de fonctionnement et d'activités, liées à la réalisation du plan quinquennal.
+
+Le Gouvernement peut également octroyer aux opérateurs reconnus, selon les modalités qu'il détermine :
+
+1° des subventions forfaitaires complémentaires liées à la réalisation des dispositifs spécifiques suivants :
+
+a) gestion d'une collection encyclopédique ;
+
+b) gestion d'une médiathèque locale ;
+
+c) gestion d'une ludothèque locale ;
+
+d) développement des pratiques de lecture en milieu carcéral ;
+
+2° des subventions ponctuelles d'équipement et d'aménagement ;
+
+3° des subventions ponctuelles d'aide à la numérisation du Réseau de la Lecture publique ;
+
+4° des subventions pour des projets d'infrastructures réalisés par des collectivités locales, aux conditions prévues par le décret du 17 juillet 2002 relatif à l'octroi de subventions aux collectivités locales pour des projets d'infrastructures culturelles.
+
+§ 2. Les subventions accordées au titre d'intervention dans la rémunération des emplois permanents sont calculées conformément au présent paragraphe :
+
+1° pour les opérateurs directs reconnus comme bibliothèques locales, le nombre de permanents subventionnables est établi comme suit :
+
+<table><tr><td>Nombre d'habitants </td><td>Nombre de permanents </td></tr><tr><td>moins de 15.000 </td><td>1,5 </td></tr><tr><td>de 15.000 à moins de 25.000 </td><td>3 </td></tr><tr><td>de 25.000 à moins de 35.000 </td><td>5 </td></tr><tr><td>de 35.000 à moins de 50.000 </td><td>6 </td></tr><tr><td>de 50.000 à moins de 80.000 </td><td>10 </td></tr><tr><td>de 80.000 à moins de 110.000 </td><td>13 </td></tr><tr><td>de 110.000 à moins de 140.000 </td><td>16 </td></tr><tr><td>de 140.000 à moins de 170.000 </td><td>19 </td></tr><tr><td>170.000 et plus </td><td>25</td></tr></table>
+
+2° pour les opérateurs directs reconnus comme bibliothèques spéciales, le nombre de permanents subventionnables est fixé à 4 ;
+
+3° pour les opérateurs d'appui visés à l'article 5, § 1er, 3°, le nombre de permanents subventionnables est établi comme suit :
+
+<table><tr><td>Nombre d'habitants </td><td>Nombre de permanents </td></tr><tr><td>moins de 750 000 </td><td>4 </td></tr><tr><td>de 750.000 à moins de 1.000.000 </td><td>8 </td></tr><tr><td>1.000.000 et plus </td><td>10 </td></tr><tr><td>Nombre d'opérateurs directs et itinérants </td><td>Permanents supplémentaires </td></tr><tr><td>de 19 à 39 </td><td>+1 </td></tr><tr><td>de 40 à 49 </td><td>+2 </td></tr><tr><td>de 50 à 59 </td><td>+3 </td></tr><tr><td>de 60 à 69 </td><td>+4 </td></tr><tr><td>de 70 à 79 </td><td>+5 </td></tr><tr><td>80 et plus </td><td>+6</td></tr></table>
+
+4° pour les opérateurs itinérants, le nombre de permanents subventionnables est établi comme suit :
+
+<table><tr><td>Territoire de compétence </td><td>Nombre de permanents </td></tr><tr><td>de 500 à 3.700 km2 </td><td>2 </td></tr><tr><td>de 3.700 à 4.400 km2 </td><td>4 </td></tr><tr><td>plus de 4.400 km2 </td><td>6 </td></tr><tr><td>Nombre d'habitants </td><td>Permanents supplémentaires </td></tr><tr><td>de 200.000 à 500.000 </td><td>+2 </td></tr><tr><td>de 500.000 à moins de 1.000.000 </td><td>+4 </td></tr><tr><td>1.00.0 et plus </td><td>+6</td></tr></table>
+
+Pour l'application du présent paragraphe, il est tenu compte des personnes inscrites dans les registres de population du territoire couvert au jour de l'introduction de la demande de reconnaissance ou du rapport général d'auto-évaluation.
+
+Par dérogation, l'opérateur concerné peut demander un nombre de permanent inférieur à celui auquel il a droit. Ce choix est valable pour toute la durée du plan quinquennal de développement.
+
+Le montant accordé par permanent est fixé :
+
+1° pour les opérateurs ou les pouvoirs organisateurs établis sous la forme d'une personne morale de droit privé, par le décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française ;
+
+2° pour les opérateurs ou pouvoirs organisateurs établis sous la forme d'une personne morale de droit public, par le Gouvernement.
+
+§ 3. Pour déterminer le montant des subventions forfaitaires de fonctionnement et d'activités, le Gouvernement répartit les opérateurs en catégories dans le respect des principes définis au présent paragraphe :
+
+1° les opérateurs directs sont répartis en quatre catégories en fonction :
+
+a) des actions développées par l'opérateur pour favoriser :
+
+\- le développement des pratiques de lecture et des capacités langagières ;
+
+\- l'organisation de la documentation (aménagement des locaux, conditions de présentation, modalités de renouvellement, intégration dans le Réseau de la Lecture publique) ;
+
+\- l'accès à la recherche documentaire (modalités physiques ou virtuelles d'accès, horaires, information et conseil, outils de recherches individuels et collectifs mis à disposition, intégration dans le Réseau de la Lecture publique)
+
+b) de l'offre de ressources documentaires et culturelles, en termes :
+
+\- de qualité, de variété, de quantité et de renouvellement des collections ;
+
+\- d'adaptation à la population et au plan quinquennal de développement ;
+
+c) de l'intégration du plan quinquennal de développement dans les politiques culturelles locales (accueil, cogestion de projets et production en partenariat) ;
+
+d) des modalités d'auto-évaluation (type d'évaluation, acteurs impliqués et qualité des outils construits) ;
+
+2° les opérateurs d'appui visés à l'article 5, § 1er, 3°, sont répartis en quatre catégories en fonction :
+
+a) des actions développées pour organiser la coopération entre opérateurs directs (qualité, quantité, envergure et effets escomptés)
+
+b) du degré de mutualisation des services (qualité, quantité, nombre de participants et résultats visés)
+
+3° les opérateurs itinérants sont répartis en deux catégories en fonction des critères visés sous 1°.
+
+§ 4. Dans chaque province et dans la Région de Bruxelles-Capitale, des subventions complémentaires au titre d'intervention dans la rémunération des emplois permanents peuvent être accordées aux opérateurs directs qui souhaitent assurer la conservation d'une collection encyclopédique disponible pour les opérateurs directs et les usagers d'un territoire plus large que celui visé par leur reconnaissance.
+
+Le nombre de permanents subventionnables est réparti de la manière suivante :
+
+<table><tr><td>Territoire </td><td>Nombre de permanents </td></tr><tr><td>Province de Brabant wallon </td><td>7 </td></tr><tr><td>Région de Bruxelles-Capitale </td><td>33 </td></tr><tr><td>Province de Hainaut </td><td>35 </td></tr><tr><td>Province de Liège </td><td>29 </td></tr><tr><td>Province de Luxembourg </td><td>4 </td></tr><tr><td>Province de Namur </td><td>11</td></tr></table>
+
+Les opérateurs bénéficiaires, et le nombre de permanents qui leur sont accordés, sont déterminés sur proposition de l'opérateur d'appui de la province ou la région concernée.
+
+Le montant accordé par permanent est fixé conformément au paragraphe 2.
+
+§ 5. Pour pouvoir bénéficier de subventions complémentaires liées à la gestion d'une médiathèque locale, l'opérateur demandeur doit satisfaire aux conditions particulières suivantes :
+
+1° être reconnu comme opérateur direct ou itinérant de catégorie 2 au minimum ;
+
+2° ne pas bénéficier de subventions complémentaires pour un autre dispositif spécifique visé au paragraphe 1er, alinéa 2, 1°, c) ou d) ;
+
+3° inclure la gestion de la médiathèque locale dans son plan quinquennal de développement, et en faire une priorité à part entière ;
+
+4° développer une stratégie de développement des pratiques de lecture et des capacités langagières propre au dispositif concerné et cohérente au regard de son plan d'action, de son territoire d'action et de la population visée ; cette stratégie précise notamment :
+
+a) la politique d'accroissement et de renouvellement des collections ;
+
+b) la politique de référencement et de développement des catalogues ;
+
+c) la politique d'accessibilité, en ce compris la politique tarifaire ;
+
+d) la politique de médiation ;
+
+e) les modalités de partenariats avec PointCulture ;
+
+5° disposer de ressources propres suffisantes en termes :
+
+a) de collections de médias audios, audiovisuels ou numériques ;
+
+b) de budget, d'espace et de personnel formé affecté à la gestion du dispositif ;
+
+Le Gouvernement précise les exigences minimales requises pour répondre aux conditions de l'alinéa 1er.
+
+§ 6. Pour pouvoir bénéficier de subventions complémentaires liées à la gestion d'une ludothèque locale, l'opérateur demandeur doit satisfaire aux conditions particulières suivantes :
+
+1° être reconnu comme opérateur direct ou itinérant de catégorie 2 au minimum ;
+
+2° ne pas bénéficier de subventions complémentaires pour un autre dispositif spécifique visé au paragraphe 1er, alinéa 2, 1°, b) ou d) ;
+
+3° inclure la gestion de la ludothèque locale dans son plan quinquennal de développement, et en faire une priorité à part entière ;
+
+4° développer une stratégie de développement des pratiques de lecture et des capacités langagières propre au dispositif concerné et cohérente au regard de son plan d'action, de son territoire d'action et de la population visée ; cette stratégie précise notamment :
+
+a) la politique d'accroissement et de renouvellement des collections ;
+
+b) la politique de référencement et de développement des catalogues ;
+
+c) la politique d'accessibilité, en ce compris la politique tarifaire ;
+
+d) la politique de médiation ;
+
+5° disposer de ressources propres suffisantes en termes :
+
+a) de collections de jeux ;
+
+b) de budget, d'espace et de personnel formé affecté à la gestion du dispositif ;
+
+Le Gouvernement précise les exigences minimales requises pour répondre aux conditions de l'alinéa 1er.
+
+§ 7. Pour pouvoir bénéficier de subventions complémentaires pour le développement des pratiques de lecture en milieu carcéral, l'opérateur demandeur doit satisfaire aux conditions particulières suivantes :
+
+1° être reconnu comme opérateur direct ou itinérant de catégorie 2 au minimum ;
+
+2° ne pas bénéficier de subventions complémentaires pour un autre dispositif spécifique visé au paragraphe 1er, alinéa 2, 1°, b) ou c) ;
+
+3° avoir conclu un protocole de collaboration avec un ou plusieurs établissements carcéraux établis sur son territoire ou sur un territoire proche dépourvu d'un opérateur direct ou itinérant reconnu ;
+
+4° développer une stratégie de développement des pratiques de lecture et des capacités langagières propre au dispositif concerné et cohérente au regard de son plan d'action, de son territoire d'action et de la population visée ; cette stratégie précise notamment :
+
+a) la politique d'accroissement et de renouvellement des collections ;
+
+b) la politique de référencement et de développement des catalogues ;
+
+c) la politique d'accessibilité ;
+
+d) la politique de médiation ;
+
+5° disposer de ressources propres suffisantes en termes de budget, d'espace et de personnel formé affecté à la gestion du dispositif ;
+
+Le Gouvernement précise les exigences minimales requises pour répondre aux conditions de l'alinéa 1er.
+
+§ 8. Le Gouvernement détermine les conditions que doivent respecter la note de motivation et la note d'intention prévue dans le décret du 17 juillet 2002 relatif à l'octroi de subventions aux collectivités locales pour des projets d'infrastructures culturelles et son arrêté d'application, afin que le programme complet des installations soit conforme avec le présent décret]<sup>1</sup>.
+
+[<sup>2</sup> § 9. Par dérogation aux paragraphes 1 à 8 et sans préjudice de la procédure d'évaluation visée aux articles 15 et 22 à 26, aucune modification du subventionnement des opérateurs reconnus ne peut intervenir du 1er janvier 2026 au 31 décembre 2028. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 23, 013; En vigueur : 05-02-2024&gt;
+
+(2)&lt;DCFR 2025-12-17/08, art. 81, 014; En vigueur : 01-01-2026&gt;
+
+##### Art. 18/1
+
+[<sup>1</sup> Pour l'exercice de ses missions d'appui, le Gouvernement octroie à PointCulture :
+
+1° une subvention annuelle à l'emploi accordée en vertu de l'article 5 du décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française ;
+
+2° une subvention annuelle de fonctionnement et d'activités.
+
+L'octroi des subventions visées à l'alinéa 1er est conditionné à la conclusion d'un contrat-programme entre l'opérateur et la Communauté française. Ce contrat est conclu pour une durée de cinq ans et précise :
+
+1° la période couverte par le contrat ;
+
+2° le plan de développement quinquennal de l'opérateur, contenant les éléments visés à l'article 11 ; le projet développé doit être :
+
+a) conforme aux objectifs définis à l'article 1er ;
+
+b) b spécifique à l'opérateur, et cohérent au regard de son expertise et de ses ressources documentaires et culturelles audiovisuelles ;
+
+c) non-redondant vis-à-vis de projets de même nature développés par d'autres acteurs culturels, subventionnés ou non par la Communauté française ;
+
+d) complémentaires par rapport aux activités des autres opérateurs culturels reconnus ou subventionnés par la Communauté française ;
+
+3° les modalités d'octroi des subventions et, en particulier:
+
+a) les montants accordés annuellement;
+
+b) les modalités de liquidation;
+
+c) les modalités d'indexation;
+
+4° les modalités d'évaluation du projet et, en particulier:
+
+a) une description du processus d'auto-évaluation, conforme à l'article 14 ;
+
+b) le contenu et les modalités de remise du rapport général d'auto-évaluation;
+
+5° les engagements de l'opérateur en termes :
+
+a) d'équilibre financier;
+
+b) de bonne gouvernance;
+
+c) de respect des usagers;
+
+6° les modalités de contrôle financier exercé par la Communauté française, en ce compris les modalités d'établissement d'un plan d'assainissement s'il y a lieu;
+
+7° les modalités d'accompagnement par les services du Gouvernement;
+
+8° les modalités de suspension, modification, résiliation et renouvellement du contrat. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-10-19/16, art. 24, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 19
+
+§ 1er. Dans la limite des crédits budgétaires disponibles, les [<sup>1</sup> fédérations professionnelles reconnues]<sup>1</sup> peuvent bénéficier d'une subvention au titre d'intervention dans la rémunération d'un permanent en vertu du décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française et d'une subvention forfaitaire de fonctionnement et d'activités.
+
+§ 2. [<sup>1</sup> Les fédérations professionnelles reconnues]<sup>1</sup> exercent leurs activités au profit de leurs membres qui sont soit des professionnels oeuvrant dans des composants fonctionnels du [<sup>2</sup> Réseau de la Lecture publique ]<sup>2</sup>, soit des pouvoirs organisateurs du [<sup>2</sup> Réseau de la Lecture publique]<sup>2</sup>.
+
+[<sup>1</sup> Les Fédérations professionnelles reconnues]<sup>1</sup> doivent poursuivre l'objectif de promouvoir les compétences et les capacités spécifiques des composants du Réseau public de la Lecture et du personnel qualifié affecté aux missions remplies par les opérateurs du Réseau public de la Lecture reconnus dans le cadre du décret par l'utilisation des moyens suivants :
+
+1° en suscitant leur information, leur formation, leur documentation;
+
+2° en intégrant les parcours de formation du personnel aux différentes missions contemporaines reconnues pour développer les pratiques de lecture auprès de groupes variés de la population de la Communauté française;
+
+3° en assurant l'information de leurs membres relativement aux objectifs du présent décret;
+
+4° en créant les passerelles utiles entre les pratiques de leurs membres et celles des autres professions du secteur culturel ou du secteur documentaire.
+
+§ 3. Pour bénéficier des subventions reprises au § 1er, [<sup>1</sup> les fédérations professionnelles reconnues]<sup>1</sup> introduisent auprès des Services du Gouvernement une demande de contrat-programme couvrant une période de cinq ans, établi sur base des objectifs d'action et de programmation prévus par le présent décret.
+
+§ 4. Le Gouvernement détermine les conditions d'exécution des missions des [<sup>1</sup> fédérations professionnelles reconnues]<sup>1</sup> dans le respect des objectifs visés à l'article 1er.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2023-10-19/16, art. 25, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 20
+
+[<sup>1</sup> Les montants arrêtés en vertu des articles 18, 18/1 et 19 sont indexés au 1er janvier de chaque année en suivant l'évolution de l'indice santé. Le Gouvernement précise la formule d'indexation applicable.
+
+Par dérogation, les subventions calculées conformément au décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française ou au décret du 17 juillet 2002 relatif à l'octroi de subventions aux collectivités locales pour des projets d'infrastructures culturelles sont indexées conformément aux modalités prévues par lesdits décrets ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 26, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 21
+
+Les subventions sont octroyées pour une année civile.
+
+A dater du 1er janvier de chaque année et pour autant que le budget général des dépenses ait été préalablement adopté, le Gouvernement liquide les subventions visées en deux tranches :
+
+1° La première tranche équivalente à 85 % est liquidée pour le 31 mars de la même année au plus tard;
+
+2° Après vérification du dossier justificatif de l'année précédente, la seconde tranche, soit 15 %, est [<sup>4</sup> liquidée]<sup>4</sup> pour le 15 décembre de la même année.
+
+Le Gouvernement fournit [<sup>4</sup> à l'opérateur]<sup>4</sup> un décompte des subventions octroyées lors la liquidation de chaque tranche.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2014-12-18/21, art. 41, 004; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2015-12-10/18, art. 23, 006; En vigueur : 06-02-2016&gt;
+
+(3)&lt;DCFR 2016-12-14/17, art. 20, 007; En vigueur : 01-01-2017&gt;
+
+(4)&lt;DCFR 2023-10-19/16, art. 27, 013; En vigueur : 05-02-2024&gt;
+
+## CHAPITRE V. - Du retrait des subventions et de la reconnaissance
+
+##### Art. 22
+
+Sans préjudice des dispositions particulières qui y sont relatives, la reconnaissance et le subventionnement ne peuvent intervenir au bénéfice de personnes morales qui appartiennent à un organisme ou à une association dont il est établi par une décision de justice coulée en force de chose jugée qu'ils ne respectent pas les principes démocratiques énoncés dans le respect des libertés fondamentales garanties par les Conventions internationales et la Constitution mais aussi des normes en vigueur garantissant l'égalité et la non discrimination.
+
+##### Art. 23
+
+[<sup>1</sup> Les opérateurs du Réseau de la Lecture publique qui ne respectent pas les conditions du présent décret peuvent se voir retirer leurs subventions ou leur reconnaissance ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 28, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 24
+
+Le Gouvernement arrête la procédure de retrait des subventions ou de retrait de reconnaissance et prévoit les modalités de liquidations éventuelles des subventions dans le respect des principes suivants :
+
+1° [<sup>4</sup> Lorsque qu'ils constatent qu'un opérateur du Réseau de la Lecture publique. ]<sup>4</sup> ne respecte plus le décret, les services du Gouvernement adressent, par courrier recommandé, une mise en demeure à l'opérateur reprenant les griefs qui lui sont reprochés. La mise en demeure précise s'il est envisagé un retrait de reconnaissance ou un retrait des subventions en vue de permettre à l'opérateur de rencontrer à nouveau le prescrit du décret. L'opérateur est averti formellement de la possibilité qu'il a de faire valoir ses observations par écrit;
+
+2° L'opérateur est averti qu'il dispose d'un délai de trente jours pour faire valoir ses observations par écrit. Il peut demander d'être entendu par [<sup>3</sup> la Commission d'avis]<sup>3</sup>.
+
+3° Dès réception des observations de l'opérateur ou, en l'absence d'observations, dès l'expiration du délai prévu au 2°, les services du Gouvernement rendent un avis dans un délai de vingt jours et proposent le maintien, le retrait de la reconnaissance ou le retrait des subventions.
+
+A défaut d'avis rendu par les services du Gouvernement endéans le délai prévu à l'alinéa 1er, il est réputé favorable au maintien de la reconnaissance.
+
+4° Les services du Gouvernement transmettent leur avis et leur proposition visés au 3° [<sup>2</sup> à la Commission d'avis]<sup>2</sup>. [<sup>3</sup> La Commission d'avis]<sup>3</sup> remet un avis dans un délai de trente jours. En l'absence d'avis dans ce délai, l'avis [<sup>1</sup> de la Commission d'avis]<sup>1</sup> est réputé favorable à la proposition des services du Gouvernement.
+
+5° Les services du Gouvernement transmettent les avis visés aux points 3° et 4° et leur proposition au Gouvernement dans un délai de dix jours.
+
+6° le Gouvernement prend sa décision dans un délai de trente jours à dater de la réception des avis visés au point 5° ou, en l'absence d'avis, à dater de l'expiration des délais prévus aux points 3° et 4°.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(3)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(4)&lt;DCFR 2023-10-19/16, art. 29, 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 25
+
+En cas de retrait des subventions, le Gouvernement détermine la durée de ce retrait et le délai accordé à l'opérateur pour se conformer au décret.
+
+##### Art. 26
+
+En cas de retrait de reconnaissance, l'opérateur ne bénéficie plus des subventions à l'exception des subventions visées [<sup>1</sup> à l'article 18, §§ 2 et 4 ]<sup>1</sup>afin de permettre le paiement des montants découlant de la fin des contrats de travail conclus en application de la loi du 3 juillet 1978 relative au contrat de travail, et ce pour une durée de six mois maximum à dater du retrait de la reconnaissance.
+
+La Communauté française ne liquide ces subventions que pour autant qu'il soit apporté la preuve, par l'opérateur, qu'elles sont consacrées au paiement des préavis ou de toutes autres charges dues au travailleur en vertu de la réglementation sociale en vigueur et non contestables.
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 30, 013; En vigueur : 05-02-2024&gt;
+
+## CHAPITRE VI. [<sup>1</sup> De l'évaluation du Réseau de la Lecture publique ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 31 013; En vigueur : 05-02-2024&gt;
+
+##### Art. 27
+
+§ 1er. [<sup>2</sup> Les services du Gouvernement évaluent chaque année le fonctionnement global du Réseau de la Lecture publique. Les conclusions de cette évaluation sont déposées auprès de la Chambre de concertation]<sup>2</sup>.
+
+§ 2. L'évaluation des missions remplies [<sup>2</sup> " par le Réseau de la Lecture publique]<sup>2</sup> se réalise notamment sur base de l'analyse des actions définies et réalisées par tous les plans quinquennaux de développement visés aux articles 10 et 11 et de leur évaluation telle que prévue aux articles 14 et suivants.
+
+Le Gouvernement définit les données nécessaires à l'évaluation des missions [<sup>2</sup> du Réseau de la Lecture publique]<sup>2</sup> ainsi que les modalités de leur communication aux services du Gouvernement. Il assure également la publication de l'évaluation.
+
+----------
+
+(1)&lt;DCFR 2019-03-28/16, art. 109, 009; En vigueur : 10-05-2019&gt;
+
+(2)&lt;DCFR 2023-10-19/16, art. 32, 013; En vigueur : 05-02-2024&gt;
+
+## CHAPITRE VII. - De la constitution d'une base de données
+
+##### Art. 28
+
+&lt;Abrogé par DCFR 2023-10-19/16, art. 33, 013; En vigueur : 05-02-2024&gt;
+
+## CHAPITRE VIII. - De l'évaluation du décret
+
+##### Art. 29
+
+§ 1er. Le Gouvernement procède à une évaluation du présent décret et de son application au plus tard dans les six ans à dater de son entrée en vigueur et ensuite tous les cinq ans. Il confie cette mission à ses services.
+
+Les modalités de cette évaluation sont arrêtées par le Gouvernement.
+
+§ 2. Cette évaluation est communiquée au Parlement de la Communauté française dans un délai de six mois à dater de l'expiration du délai visé au paragraphe 1er.
+
+§ 3. Le Gouvernement assure la publication de cette évaluation.
+
+## CHAPITRE IX. - Dispositions finales
+
+### Section Ire. - Dispositions modificatives
+
+##### Art. 30
+
+A l'article 1er, 9° du décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française, les termes " par le décret du 28 février 1978 organisant le Service public de la Lecture en ce qu'il vise les associations et fondations de droit privé reconnues comme bibliothèques publiques et par l'arrêté du Gouvernement du 14 mars 1995 relatif à l'organisation du Service public de la Lecture en ce qu'il vise les filiales et dépôts " sont remplacés par les termes " par le décret du 30 avril 2009 relatif au développement des pratiques de lecture organisé par le Réseau public de la Lecture en ce qu'il vise les associations et fondations de droit privé intégrées comme pouvoirs organisateurs dans un opérateur reconnu du Service public de la Lecture et ses arrêtés d'application ".
+
+##### Art. 31
+
+A l'article 25 du décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française, sont apportées les modifications suivantes :
+
+1° à l'alinéa 1er, les termes " Dans le secteur de la lecture publique, pour les réseaux constitués de bibliothèques de droit public et de droit privé " sont remplacés par les termes " Dans le secteur du Service public de la Lecture, pour les opérateurs qui rassemblent des pouvoirs organisateurs de droit public et de droit privé ";
+
+2° l'alinéa 2 est abrogé,
+
+3° à l'alinéa 3, les termes " Pour les Fédérations de bibliothèques reconnues par application de l'arrêté du Gouvernement de la Communauté française du 24 décembre 1997 relatif aux associations professionnelles de bibliothécaires et de bibliothèques " sont remplacés par les termes " pour les organisations représentatives de bibliothécaires et bibliothèques, agréées comme organisations représentatives des utilisateurs en vertu du décret du 10 avril 2003 modifié par le décret du 20 juillet 2005 relatif au fonctionnement des instances d'avis oeuvrant dans le secteur culturel... ".
+
+##### Art. 32
+
+Les articles 29, 30 et 31 du décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française sont supprimés.
+
+##### Art. 33
+
+A l'article 39 de l'arrêté du Gouvernement de la Communauté française du 23 juin 2006 instituant les missions, la composition et les aspects essentiels de fonctionnement d'instances d'avis tombant dans le champ d'application du décret du 10 avril 2003 relatif au fonctionnement des instances d'avis oeuvrant dans le secteur culturel, sont apportées les modifications suivantes :
+
+1° au point 1°, les termes " directeur d'une bibliothèque publique centrale " sont remplacés par les termes " dirigeant d'un opérateur d'appui ";
+
+2° le point 2° est supprimé;
+
+3° au point 3° : le terme " trois " est remplacé par le terme " quatre ".
+
+### Section II. - Dispositions transitoires
+
+##### Art. 34
+
+&lt;Abrogé par DCFR 2023-10-19/16, art. 34, 013; En vigueur : 05-02-2024&gt;
+
+### Section III. - Dispositions abrogatoires
+
+##### Art. 35
+
+Sont abrogés :
+
+1° Le décret du 28 février 1978 organisant le Service public de la Lecture;
+
+2° L'arrêté du Gouvernement du 14 mars 1995 relatif à l'organisation du Service public de la Lecture;
+
+3° L'arrêté du Gouvernement de la Communauté française du 1er décembre 1997 relatif aux bibliothèques reconnues ou agréées par la Communauté française;
+
+4° L'arrêté du Gouvernement de la Communauté française du 24 décembre 1997 relatif aux associations professionnelles de bibliothèques et de bibliothécaires.
+
+## CHAPITRE X. - Entrée en Vigueur
+
+##### Art. 36
+
+Le présent décret entre en vigueur le 1er janvier 2010.
+
+[<sup>1</sup> Par dérogation, les paragraphes 5 à 7 de l'article 18 entrent en vigueur à la date fixée par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-10-19/16, art. 35, 013; En vigueur : 05-02-2024&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 30 avril 2009.
+
+Le Ministre-Président du Gouvernement de la Communauté française,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget, des Finances, de la Fonction publique et des Sports,
+
+M. DAERDEN
+
+Le Ministre de l'Enseignement obligatoire,
+
+Ch. DUPONT
+
+La Ministre de la Culture et de l'Audiovisuel,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK
+
+Le Ministre de la Jeunesse et de l'Enseignement de Promotion sociale,
+
+M. TARABELLA

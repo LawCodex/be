@@ -1,0 +1,63 @@
+---
+title: "Décret portant assentiment au Protocole entre le Royaume de Belgique et la République d'Autriche, et le Protocole additionnel, faits à Bruxelles le 10 septembre 2009, modifiant la Convention entre le Royaume de Belgique et la République d'Autriche en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971"
+identifier: "2015029309"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/25/2015029309/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2015-06-25
+published: 2015-07-08
+entry_into_force: 2015-07-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/25/2015029309/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 25 JUIN 2015. - Décret portant assentiment au Protocole entre le Royaume de Belgique et la République d'Autriche, et le Protocole additionnel, faits à Bruxelles le 10 septembre 2009, modifiant la Convention entre le Royaume de Belgique et la République d'Autriche en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## Art. 1
+
+Article unique. Sortiront leur plein et entier effet :
+
+1° la Convention entre le Royaume de Belgique et la République d'Autriche en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971, telle que modifiée par le Protocole, fait à Bruxelles le 10 septembre 2009 ;
+
+2° le Protocole et le Protocole additionnel entre le Royaume de Belgique et la République d'Autriche, faits à Bruxelles le 10 septembre 2009, modifiant la Convention entre le Royaume de Belgique et la République d'Autriche en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971 ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 juin 2015.
+
+Le Ministre-Président,
+
+Rudy DEMOTTE
+
+La Vice-Présidente et Ministre de l'Education, de la Culture et de l'Enfance,
+
+Joëlle MILQUET
+
+Le Vice-Président, Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+Jean-Claude MARCOURT
+
+Le Ministre l'Aide à la Jeunesse, des Maisons de justice et de la Promotion de Bruxelles,
+
+Rachid MADRANE
+
+Le Ministre des Sports,
+
+René COLLIN
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+André FLAHAUT
+
+La Ministre de l'Enseignement de Promotion sociale, de la Jeunesse, des Droits des femmes et de l'Egalité des chances,
+
+Isabelle SIMONIS

@@ -1,0 +1,67 @@
+---
+title: "Décret modifiant l'article 79/17 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, en vue de rencontrer l'arrêt n° 4/2011 de la Cour constitutionnelle du 13 janvier 2011"
+identifier: "2012029034"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/20/2012029034/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2011-12-20
+published: 2012-02-24
+entry_into_force: 2012-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/20/2012029034/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 20 DECEMBRE 2011. - Décret modifiant l'article 79/17 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, en vue de rencontrer l'arrêt n° 4/2011 de la Cour constitutionnelle du 13 janvier 2011
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Dans l'article 79/17, § 1er, alinéa 2, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, le 3°, inséré par le décret du 18 mars 2010, est remplacé par ce qui suit :
+
+" 3° l'établissement d'enseignement secondaire choisi se situe dans un rayon de 4 km de l'école primaire ou fondamentale d'origine. La valeur minimale 1 est attribuée lorsque le critère n'est pas rencontré ou lorsque ce critère est rencontré et que l'école visée au 1° et l'établissement visé au 2° sont les premiers plus proches au sens du 1° et du 2°. Dans les autres cas où ce critère est rencontré :
+
+a) la valeur minimale 1 est augmentée de 0,054; 0,108; 0,162, 0,216 ou de 0,27 selon que la valeur attribuée au critère visé au 1° vaut 1,81; 1,61; 1,41; 1,21 ou 1;
+
+b) la valeur obtenue au point a) est augmentée de 0,054; 0,108; 0,162; 0,216 ou de 0,27 selon que la valeur attribuée au critère visé au 2° vaut 1,79; 1,59; 1,39; 1,19 ou 1. "
+
+## Art. 2
+
+Cet article entre en vigueur au 1er janvier 2012.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 20 décembre 2011.
+
+Le Ministre-Président du Gouvernement de la Communauté française,
+
+R. DEMOTTE
+
+Le Vice-Président et Ministre de l'Enfance, de la Recherche et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Vice-Président et Ministre du Budget, des Finances et des Sports,
+
+A. ANTOINE
+
+Le Vice-Président et Ministre de l'Enseignement supérieur,
+
+J.-Cl. MARCOURT
+
+La Ministre de la Jeunesse,
+
+Mme E. HUYTEBROECK
+
+La Ministre de la Culture, de l'Audiovisuel, de la Santé et de l'Egalité des chances,
+
+Mme F. LAANAN
+
+La Ministre de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M.-D. SIMONET

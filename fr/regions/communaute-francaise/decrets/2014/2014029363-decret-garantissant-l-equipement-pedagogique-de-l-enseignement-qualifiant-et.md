@@ -1,0 +1,939 @@
+---
+title: "Décret garantissant l'équipement pédagogique de l'enseignement qualifiant et fixant l'organisation des centres de technologies avancées"
+identifier: "2014029363"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029363/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2014-04-11
+published: 2014-08-14
+entry_into_force: 2014-01-01
+last_amended: 2026-08-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029363/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 14-08-2014 et mise à jour au 10-08-2026"
+retrieved: 2026-10-12
+---
+
+# 11 AVRIL 2014. - Décret garantissant l'équipement pédagogique de l'enseignement qualifiant et fixant l'organisation des centres de technologies avancées
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Champ d'application
+
+### Art. 1
+
+Le présent décret s'applique aux [<sup>2</sup> écoles ]<sup>2</sup> d'enseignement secondaire ordinaire [<sup>3</sup> et spécialisé de forme 4 ]<sup>3</sup> de plein exercice et [<sup>3</sup> ...]<sup>3</sup> en alternance, organisant des options de l'enseignement technique de qualification ou professionnel,[<sup>3</sup> en 4e, 5e, 6e et 7e années, ainsi qu'au quatrième degré, organisées ou subventionnées]<sup>3</sup> par la Communauté française. Il s'applique également aux [<sup>2</sup> écoles ]<sup>2</sup> d'enseignement secondaire [<sup>3</sup> ...]<sup>3</sup> organisant [<sup>3</sup> des formations en alternance visées à l'article 2bis, § 1er, 2° du décret du 3 juillet 1991 organisant l'enseignement en alternance ou]<sup>3</sup> la 3ème phase de l'enseignement secondaire spécialisé de forme 3, de plein exercice et en alternance. Pour ce qui est de l'accès aux CTA, il concerne également le 3ème degré de l'enseignement technique de la section de transition de l'enseignement secondaire [<sup>3</sup> ainsi que, dans l'enseignement ordinaire, les élèves du dernier cycle de l'enseignement fondamental et des trois premières années de l'enseignement secondaire, et dans l'enseignement spécialisé, les élèves âgés d'au moins 10 ans scolarisés dans l'enseignement fondamental, les élèves de la deuxième phase de l'enseignement secondaire de forme 3 et les élèves des trois premières années de l'enseignement secondaire de forme 4]<sup>3</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2020-12-09/15, art. 62, 003; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFR 2024-04-18/32, art. 1, 007; En vigueur : 26-08-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/32, art. 3, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 2
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Dans le cadre du présent décret, il faut entendre par :
+
+1° " Enseignement secondaire qualifiant " :
+
+\- [<sup>1</sup> la 4e année [<sup>2</sup> du parcours d'enseignement qualifiant (PEQ)]<sup>2</sup>,]<sup>1</sup> le 3e degré et le 4ème degré de la section de qualification de l'enseignement secondaire ordinaire, de plein exercice et en alternance;
+
+\- [<sup>1</sup> la 4e année [<sup>2</sup> du parcours d'enseignement qualifiant (PEQ)]<sup>2</sup> et]<sup>1</sup> le 3e degré de la section de qualification de l'enseignement secondaire spécialisé de forme 4, de plein exercice et en alternance;
+
+\- la 3e phase de l'enseignement secondaire spécialisé de forme 3, de plein exercice et en alternance;
+
+2° " Equipement pédagogique " : le matériel amortissable nécessaire à l'acquisition des acquis d'apprentissage définis par les profils de certification ou, à défaut, par les profils de formation;
+
+3° " Centre de technologies avancées " en abrégé " CTA " : une infrastructure mettant des équipements de pointe à disposition des élèves et des enseignants, quels que soient le réseau et le caractère d'enseignement, ainsi que des apprentis [<sup>3</sup> et des demandeurs d'emploi ]<sup>3</sup>, en vue de développer des formations qualifiantes. Cette offre de formation qualifiante doit être complémentaire, au niveau géographique et sectoriel, à l'offre de formation des Centres de formation régionaux;
+
+4° " Centre de référence professionnelle (CDR) " : conformément au Pacte social pour l'Emploi des Bruxellois, conclu le 11 juin 2002, et à la décision du Gouvernement de la Région de Bruxelles-Capitale du 7 avril 2011 approuvant le protocole d'accord-cadre visant à la création de Centres de référence professionnelle, un centre de référence professionnelle est un lieu d'interface entre les acteurs de l'emploi, de la formation et les secteurs professionnels prioritaires dans l'économie bruxelloise. Les objectifs des Centres de références sont la mise à disposition d'infrastructures et de matériels pour les opérateurs de formations, la veille sur les métiers afin d'anticiper les changements du marché du travail, la promotion des métiers et des qualifications, l'organisation de formations pour les chercheurs d'emploi et les travailleurs conjointement avec les opérateurs de formation;
+
+5° " Centre de compétence (CDC) " : une structure partenariale reconnue par le Gouvernement wallon, dans le cadre d'un ou plusieurs secteurs professionnels, ayant pour mission l'information et la sensibilisation aux métiers et aux technologies, la veille, la formation et l'analyse des besoins en formation, ouverte aux usagers tels que ciblés dans le dossier de reconnaissance en application de l'article 1erbis, 7°, du décret du 6 mai 1999 relatif à l'Office wallon de la formation professionnelle et de l'emploi;
+
+6° " SFMQ " : le Service francophone des Métiers et des Qualifications tel que défini par [<sup>3</sup> le décret du 10 décembre 2015 portant assentiment à l'Accord de coopération entre la Communauté française, la Région wallonne et la Commission communautaire française concernant le service francophone des métiers et des qualifications, en abrégé " SFMQ]<sup>3</sup> ";
+
+7° " CCPQ " : la Commission communautaire des professions et des qualifications visées à l'article 7 du décret du 27 octobre1 994 organisant la concertation pour l'enseignement secondaire;
+
+8° " Bassins enseignement qualifiant-formation-emploi ", les bassins créés par l'accord de coopération du 20 mars 2014 entre la Communauté française et la Région wallonne et la Commission communautaire française, relatif à la mise en oeuvre des bassins Enseignement qualifiant - Formation - Emploi;
+
+9° [<sup>3</sup> Parcours d'enseignement qualifiant " (PEQ) : le parcours défini à l'article 2, 4° du décret du 20 juillet 2022 relatif au parcours d'enseignement qualifiant (PEQ).]<sup>3</sup>;
+
+10° " Commissions de suivi opérationnel ", les commissions créées par l'accord de coopération du 20 mars 2014 entre la Région wallonne et la Communauté française relatif à l'équipement mis à disposition dans le cadre de la refondation de l'enseignement qualifiant et à la collaboration entre les Centres de Technologies Avancées et les Centres de Compétence et par l'accord de coopération entre la Région de Bruxelles Capitale, la Communauté française et la Commission Communautaire française relatif à l'équipement mis à disposition dans le cadre de la revalorisation de l'enseignement qualifiant et à la collaboration entre les Centres de technologies avancées et les Centres de référence professionnelle;
+
+11° " Cadastre des équipements pédagogiques ", le cadastre créé par l'accord de coopération du 20 mars 2014 entre la Région wallonne et la Communauté française relatif à l'équipement mis à disposition dans le cadre de la refondation de l'enseignement qualifiant et à la collaboration entre les Centres de Technologies Avancées et les Centres de Compétence et par l'accord de coopération entre la Région de Bruxelles Capitale, la Communauté française et la Commission Communautaire française relatif à l'équipement mis à disposition dans le cadre de la revalorisation de l'enseignement qualifiant et à la collaboration entre les Centres de technologies avancées et les Centres de référence professionnelle.
+
+[<sup>1</sup> 12° " Secteur ": les secteurs d'enseignement tels que définis dans l'article 13, § 1er, de l'arrêté de l'Exécutif de la Communauté française du 31 août 1992 exécutant le décret du 29 juillet 1992 portant organisation de l'enseignement secondaire de plein exercice.]<sup>1</sup>
+
+[<sup>4</sup> 13° " Profil de certification " : document défini à l'article 1.3.1-1, 47°, du Code de l'enseignement fondamental et de l'enseignement secondaire ;
+
+14° " Profil de formation " : profil défini à l'article 1.3.1-1, 48°, du Code de l'enseignement fondamental et de l'enseignement secondaire ;
+
+15° " Conseils de zone " : conseils définis à l'article 2 de l'arrêté de l'Exécutif de la Communauté française du 15 mars 1993 fixant les obligations de concertation entre écoles dans l'enseignement secondaire ;
+
+16° " Fonds sectoriels " : fonds de sécurité d'existence institués en application de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence ]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2020-12-09/15, art. 63, 003; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFR 2024-01-18/27, art. 82, 006; En vigueur : 21-02-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/32, art. 4, 007; En vigueur : 26-08-2024&gt;
+
+(4)&lt;DCFR 2024-04-18/32, art. 5, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 3
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Le présent décret a pour objet de :
+
+1° permettre la modernisation de l'équipement pédagogique dans les [<sup>1</sup> écoles ]<sup>1</sup> d'enseignement qualifiant [<sup>2</sup> ...]<sup>2</sup>;
+
+2° permettre [<sup>2</sup> le bon fonctionnement des CTA et la modernisation des équipements mis à leur disposition]<sup>2</sup>en vue d'y développer des formations qualifiantes;
+
+3° [<sup>2</sup> définir le processus de labellisation des CTA ]<sup>2</sup>;
+
+[<sup>3</sup> 4° mettre en place des projets spécifiques apportant une plus-value aux formations dispensées au sein de l'enseignement secondaire qualifiant;
+
+5° assurer la subvention annuelle d'une association sans but lucratif dédiée à la récupération et la redistribution d'équipements, ainsi que le respect des règles y afférentes.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/32, art. 1, 007; En vigueur : 26-08-2024&gt;
+
+(2)&lt;DCFR 2024-04-18/32, art. 6, 007; En vigueur : 26-08-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/32, art. 7, 007; En vigueur : 26-08-2024&gt;
+
+## TITRE 2 [<sup>1</sup> Modernisation de l'équipement pédagogique dans les écoles d'enseignement secondaire qualifiant ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 8, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 4
+
+[<sup>5</sup> ...]<sup>5</sup>
+
+§ 1er. Le Gouvernement [<sup>5</sup> octroie chaque année une dotation ou subvention aux pouvoirs organisateurs des écoles d'enseignement secondaire qualifiant destinée]<sup>5</sup> à l'acquisition du matériel pédagogique indispensable pour la mise en oeuvre des profils de certification ou, à défaut, des profils de formation. [<sup>1</sup> Ces montants sont octroyés dans le respect de l'article 61 du décret du 20 décembre 2011 portant organisation du budget et de la comptabilité des Services du Gouvernement de la Communauté française.]<sup>1</sup>
+
+[<sup>5</sup> ...]<sup>5</sup>
+
+[<sup>5</sup> § 2. Cette dotation ou subvention est octroyée à la suite d'un appel à projets annuel.
+
+§ 3. Les pouvoirs organisateurs des écoles qui introduisent des projets sont tenus de :
+
+1° mener une politique de formation en cours de carrière des professeurs de l'enseignement qualifiant visant à permettre à ces professeurs d'utiliser adéquatement les équipements sélectionnés par le Gouvernement;
+
+2° appliquer les profils de certification ou, à défaut, les profils de formation, en ce compris les profils d'équipement et d'évaluation repris dans chaque profil de certification;
+
+3° respecter les obligations et les délais fixés par le Gouvernement concernant la justification de l'utilisation des dotations ou subventions octroyées. ]<sup>5</sup>
+
+[<sup>5</sup> § 4. Pour être éligibles dans le cadre de l'appel à projets annuel, les projets doivent répondre aux critères cumulatifs suivants :
+
+1° ils doivent être introduits par le pouvoir organisateur d'une école d'enseignement secondaire ordinaire ou spécialisé de forme 4, organisée ou subventionnée par la Communauté française, organisant des options de l'enseignement technique de qualification ou professionnel, de plein exercice et/ou en alternance, en 4e, 5e, 6e et 7e années ou au quatrième degré et/ou organisant des formations en alternance visées à l'article 2bis, § 1er, 2°, du décret du 3 juillet 1991 organisant l'enseignement en alternance ou par le pouvoir organisateur d'une école d'enseignement secondaire spécialisé, organisée ou subventionnée par la Communauté française, organisant la 3ème phase de l'enseignement secondaire spécialisé de forme 3, de plein exercice et/ou en alternance;
+
+2° ils doivent viser l'acquisition de matériel pédagogique durable nécessaire à la qualification des élèves. Sont systématiquement exclues de l'appel à projets les demandes de mobilier de bureau.
+
+§ 5. Lors de la sélection, toute demande d'équipement est cotée. Un point est attribué à chacun des critères suivants :
+
+1° la demande d'équipement concerne une école d'enseignement spécialisé de formes 3 et/ou 4 ;
+
+2° la demande d'équipement a reçu un avis prioritaire du Conseil de zone de l'enseignement non-confessionnel ou du Conseil de zone de l'enseignement confessionnel de la zone concernée ;
+
+3° la demande d'équipement a reçu un avis prioritaire du fonds sectoriel concerné ;
+
+4° la demande d'équipement a reçu un avis prioritaire du Bassin enseignement qualifiant-formation-emploi concerné.
+
+Les [<sup>5</sup> demandes d'équipement ayant obtenu 5, 4 ou 3 points]<sup>5</sup> sont automatiquement reprises dans la proposition de sélection soumise au Comité de pilotage visé à l'article 10. Les autres demandes d'équipement doivent être examinées au regard des critères définis au paragraphe 6.
+
+Si le montant cumulé des [<sup>5</sup> demandes d'équipement ayant obtenu 5, 4 ou 3 points]<sup>5</sup> excède le montant alloué à l'appel à projets annuel et qu'une sélection doit être opérée parmi celles-ci, les demandes répondant à un ou plusieurs des critères de sélection listés au paragraphe 6 sont retenues de manière prioritaire;
+
+[<sup>5</sup> 5° la demande d'équipement concerne une option de base groupée créée à la suite d'un appel d'offres lancé par le Gouvernement, tel que prévu à l'article 15, § 2, du décret du 22 juin 2023 relatif à la gouvernance de l'offre d'options de base groupées dans l'enseignement secondaire qualifiant de plein exercice et en alternance.]<sup>5</sup>
+
+§ 6. Outre les priorités énoncées au paragraphe précédent, la sélection des projets est basée sur les critères suivants :
+
+1° le caractère technologiquement avancé de l'équipement demandé ;
+
+2° le respect des normes environnementales et de sécurité ;
+
+3° l'innovation en matière d'environnement et de pédagogie ;
+
+4° la nature des équipements et des montants attribués les années précédentes ;
+
+5° la garantie de bonnes conditions d'apprentissage, quels que soient les options et secteurs concernés ;
+
+6° le soutien aux options en déploiement ayant des besoins importants en nouveaux équipements ou aux options dont la fréquentation est en forte progression ;
+
+7° l'amélioration des conditions de sécurité et d'hygiène ;
+
+8° le taux d'utilisation de l'équipement.
+
+Tout projet répondant à au moins un de ces critères de sélection est repris dans la proposition de sélection soumise au Comité de pilotage visé à l'article 10.
+
+Si le montant cumulé des projets répondant à au moins un de ces critères de sélection excède le montant alloué à l'appel à projets annuel et qu'une sélection doit être opérée, les projets répondant à un ou plusieurs des trois premiers critères de sélection listés ci-dessus sont retenus de manière prioritaire. Dans le cas où le montant cumulé de ces projets continue à excéder le montant alloué à l'appel à projets annuel, les projets répondant à au moins deux des trois premiers critères de sélection se voient accorder une priorité.
+
+§ 7. Le Gouvernement intervient financièrement dans l'achat de ces équipements, à concurrence de 80 %, les 20 % restants étant à charge du pouvoir organisateur de l'école bénéficiaire.
+
+Les modalités de liquidation de la dotation ou subvention sont définies par le Gouvernement. Pour chaque appel à projets, le Gouvernement fixe notamment la date à laquelle le dossier justificatif doit être transmis.
+
+Si le dossier justificatif ne peut être transmis dans les délais en raison de circonstances objectives indépendantes de la volonté du pouvoir organisateur de l'école bénéficiaire, celui-ci introduit, au moins 30 jours avant l'échéance, une demande de prolongation du délai. En aucun cas, la prolongation octroyée ne peut excéder les 365 jours. En cas de refus de la prolongation sollicitée, la première tranche de la dotation ou subvention octroyée doit faire l'objet d'un remboursement.
+
+En cas de non-transmission dans les délais du dossier justificatif, trois rappels sont adressés au pouvoir organisateur. En cas de non-transmission du dossier justificatif 10 jours ouvrables après le troisième rappel, la première tranche de la dotation ou subvention octroyée doit faire l'objet d'un remboursement.]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFR 2020-12-09/15, art. 64, 003; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFR 2022-07-20/39, art. 51, 004; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2021-06-17/28, art. 50, 005; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFR 2024-04-18/32, art. 8, 007; En vigueur : 26-08-2024&gt;
+
+(5)&lt;DCFR 2024-04-18/32, art. 10, 007; En vigueur : 01-01-2025&gt;
+
+(6)&lt;DCFR 2025-07-16/13, art. 1, 009; En vigueur : 25-08-2025&gt;
+
+### Art. 4/1
+
+[<sup>1</sup> - La procédure de sélection des équipements pédagogiques des écoles d'enseignement secondaire qualifiant suit les étapes suivantes :
+
+1° appel à projets auprès des pouvoirs organisateurs des écoles d'enseignement qualifiant ;
+
+2° réception et traitement administratif des candidatures par la Direction générale de l'Enseignement obligatoire ;
+
+3° demande d'avis adressée aux instances suivantes :
+
+a) Conseil de zone de l'enseignement non-confessionnel et Conseil de zone de l'enseignement confessionnel sur l'importance des équipements demandés pour la mise en oeuvre des profils de certification ou, à défaut, des profils de formation de l'option de base groupée concernée en tenant compte, le cas échéant, des équipements partageables à disposition dans la zone concernée et/ou les zones avoisinantes ;
+
+b) Bassins enseignement qualifiant-formation-emploi sur la cohérence entre les projets introduits et le développement des politiques croisées en matière de formation professionnelle, d'enseignement qualifiant, d'emploi et d'insertion de la zone concernée ;
+
+c) Fonds sectoriels sur l'adéquation entre les équipements souhaités et les compétences techniques et technologiques à acquérir pour s'insérer sur le marché du travail ;
+
+4° proposition de sélection par les Commissions de suivi opérationnel sur base des critères d'éligibilité et de priorité définis aux paragraphes 4 et 5 et, le cas échéant, sur base des critères de sélection listés au paragraphe 6 de l'article 4, dans le respect des enveloppes allouées au pouvoir organisateur de l'enseignement organisé par la Communauté française et à chaque fédération de pouvoirs organisateurs, celles-ci étant calculées pour chaque région au prorata de leur population scolaire certifiée dans l'enseignement secondaire qualifiant au 15 janvier de l'année civile concernée ;
+
+5° avis motivés du Comité de pilotage visé à l'article 10 ;
+
+6° décision du Gouvernement de la Communauté française sur base des propositions des Commissions de suivi opérationnel et des avis motivés remis par le Comité de pilotage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 11, 007; En vigueur : 01-01-2025&gt;
+
+### Art. 4/2
+
+[<sup>1</sup> - § 1er. Les pouvoirs organisateurs des écoles bénéficiaires sont tenus, pour l'achat des équipements sélectionnés par le Gouvernement, de respecter les règles de passation des marchés publics.
+
+En cas de manquement aux règles de passation des marchés publics, ils sont tenus de rembourser la part du montant alloué pour laquelle une ou plusieurs irrégularités ont été constatées, sauf si d'autres modalités de remboursement sont arrêtées par le Gouvernement.
+
+§ 2. Toute école bénéficiaire, dont le pouvoir organisateur ne justifie pas lors de deux appels à projets sur trois, au minimum 80% de la dotation ou subvention octroyée, est exclue de l'appel à projets lancé après la notification d'exclusion au pouvoir organisateur. Si une récidive est constatée au cours d'un des deux appels à projets lancés après la période d'exclusion, est notifiée au pouvoir organisateur une exclusion portant sur deux appels à projets.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 11, 007; En vigueur : 01-01-2025&gt;
+
+### Art. 4/3
+
+[<sup>1</sup> - Des contrôles portant sur les équipements acquis dans le cadre de l'appel à projets peuvent être organisés par le Gouvernement au sein des écoles bénéficiaires endéans les dix ans à partir du versement du solde de la dotation ou subvention. Ils ont pour but de vérifier que ces équipements sont bien présents au sein de l'école bénéficiaire et utilisés conformément aux modalités prévues par le Gouvernement.
+
+Toute irrégularité constatée est notifiée au pouvoir organisateur de l'école. Celui-ci a un délai de 30 jours ouvrables pour répondre et porter à la connaissance du Gouvernement les éléments objectifs qui permettent de justifier l'irrégularité constatée. En l'absence de réponse du pouvoir organisateur ou si la justification est insuffisante, l'équipement visé fait l'objet d'une demande de remboursement total. Le pouvoir organisateur a un délai de 30 jours ouvrables pour contester la décision auprès du Comité de pilotage visé à l'article 10.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 11, 007; En vigueur : 01-01-2025&gt;
+
+### Art. 4/4
+
+[<sup>1</sup> - Une évaluation des appels à projets relatifs à la modernisation de l'équipement pédagogique dans les écoles d'enseignement secondaire qualifiant est réalisée tous les trois ans par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 11, 007; En vigueur : 01-01-2025&gt;
+
+## TITRE 3 [<sup>1</sup> Gestion du processus de labellisation des CTA ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 12, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 5
+
+[<sup>1</sup> § 1er. Le Gouvernement peut labelliser, si cela s'avère opportun, un ou des CTA supplémentaires, sans que ceux-ci ne puissent prétendre à un financement de leurs équipements présents au moment de la labellisation.
+
+Cette labellisation se fait sur base d'un appel à projets lancé par le Gouvernement, conformément à la procédure de sélection définie au paragraphe 2 et au cahier des charges approuvé préalablement par le Gouvernement.
+
+§ 2. La procédure de sélection se déroule de la manière suivante :
+
+1° approbation du cahier des charges par le Gouvernement ;
+
+2° appel à projets auprès des pouvoirs organisateurs des écoles d'enseignement qualifiant ;
+
+3° réception des candidatures par le Gouvernement et vérification des critères d'éligibilité suivants :
+
+a) l'implantation du projet tient compte de la localisation des CDC, des CDR/Pôle Formation Emploi (PFE) et des CTA existants ainsi que des infrastructures de formation qualifiante développés dans les mêmes secteurs afin d'assurer une couverture géographique maximale de l'offre de formation qualifiant ;
+
+b) le projet s'inscrit dans la mise en oeuvre d'une offre de formation harmonisée, en relation d'une part avec les pénuries d'emploi constatées par le FOREM ou ACTIRIS, les besoins socio-économiques constatés au sein de la zone concernée et/ou des zones avoisinantes et d'autre part avec les besoins en équipement constatés au travers du cadastre des équipements pédagogiques ;
+
+4° demande d'avis adressée aux instances suivantes :
+
+a) Conseil de zone de l'enseignement non-confessionnel et au Conseil de zone de l'enseignement confessionnel sur l'adéquation des projets introduits avec les profils de certification ou, à défaut, les profils de formation des options de base groupées concernées en tenant compte, le cas échéant, des équipements partageables à disposition dans la zone concernée et/ou les zones avoisinantes ;
+
+b) Bassins enseignement qualifiant-formation-emploi sur la cohérence entre les projets introduits et le développement des politiques croisées en matière de formation professionnelle, d'enseignement qualifiant, d'emploi et d'insertion de la zone concernée ;
+
+c) Fonds sectoriels sur le niveau d'adéquation entre les projets introduits et les compétences techniques et technologiques à acquérir pour s'insérer sur le marché du travail ;
+
+5° visite des locaux et examen des équipements mis à disposition ;
+
+6° avis motivé des services du Gouvernement en charge du dispositif en tenant compte des critères de priorité suivants :
+
+a) une priorité est accordée aux projets de CTA dont les collaborations avec d'autres écoles d'enseignement secondaire sont formalisées ;
+
+b) une priorité est accordée aux projets de CTA dont les collaborations avec des CDC et/ou des CDR/Pôle Formation Emploi (PFE) et/ou d'autres CTA sont formalisées ;
+
+c) une priorité est accordée aux projets de CTA pour lesquels aucun CDC ou aucun CDR/Pôle Formation Emploi (PFE) ou aucun CTA n'existe ;
+
+d) une priorité est accordée aux projets de CTA dans les secteurs où des métiers prioritaires ont été identifiés par les Bassins enseignement qualifiant-formation-emploi ;
+
+e) une priorité est accordée aux projets de CTA ayant reçu un avis favorable de la part du ou des Fonds sectoriels concernés et du Bassin enseignement qualifiant-formation-emploi concerné sur la pertinence sectorielle et géographique des acquisitions ;
+
+f) une priorité est enfin accordée aux projets de CTA ayant reçu un avis favorable du Conseil de zone de l'enseignement non confessionnel et du Conseil de zone de l'enseignement confessionnel de la zone de concertation concernée ;
+
+7° proposition de sélection par les Commissions de suivi opérationnel sur base du cahier des charges, des critères d'éligibilité et de priorité définis ci-dessus, du rapport de visite et de l'avis des services du Gouvernement ;
+
+8° avis motivé du Comité de pilotage visé à l'article 10 ;
+
+9° décision de labellisation du Gouvernement sur base des propositions des Commissions de suivi opérationnel et des avis motivés remis par le Comité de pilotage.
+
+§ 3. Les pouvoirs organisateurs ayant déposé un projet sont informés par écrit dans le mois de la décision du Gouvernement.
+
+Tout pouvoir organisateur sélectionné a un délai de 24 mois pour mettre en oeuvre son projet et procéder à l'inauguration du CTA. Le label n'est effectif qu'à partir de la date d'inauguration.
+
+Lorsqu'un pouvoir organisateur sélectionné n'est pas en mesure d'inaugurer le CTA dans les délais, il en informe par écrit le Gouvernement. Si les motifs invoqués sont jugés insuffisants, le pouvoir organisateur doit alors renoncer à la labellisation de son projet ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/32, art. 13, 007; En vigueur : 26-08-2024&gt;
+
+## TITRE 4 [<sup>1</sup> Missions des CTA ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 14, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 5/1
+
+[<sup>1</sup> Les CTA labellisés ont pour mission :
+
+1° d'accueillir sans discrimination les publics-cibles définis à l'article 5/2 ;
+
+2° d'améliorer la qualité des formations qualifiantes en mettant à disposition des publics-cibles des équipements pédagogiques de qualité ;
+
+3° de proposer une offre de formation à haute valeur ajoutée complémentaire à celle dispensée au sein des écoles d'enseignement secondaire qualifiant ;
+
+4° de proposer une offre de formation complémentaire à celle des CDC et des CDR/Pôle Formation Emploi (PFE), tant au niveau thématique que pédagogique ou géographique ;
+
+5° de proposer une offre de formation complémentaire à celle des opérateurs de formation professionnelle continue ;
+
+6° de développer des formations en adéquation avec les profils de certification ou de formation concernés ;
+
+7° de développer ou d'adapter des formations pour répondre aux besoins spécifiques ou aux difficultés particulières de certains apprenants ;
+
+8° de développer des activités de découverte des métiers techniques et technologiques à destination, dans l'enseignement ordinaire, des élèves du dernier cycle de l'enseignement fondamental et des trois premières années de l'enseignement secondaire, et dans l'enseignement spécialisé, des élèves âgés d'au moins 10 ans scolarisés dans l'enseignement fondamental et des élèves de la deuxième phase de l'enseignement secondaire de forme 3 ;
+
+9° de maintenir une veille métier performante en dialoguant de manière régulière avec les organismes de formation régionaux, les secteurs professionnels et les entreprises. <sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 14, 007; En vigueur : 26-08-2024&gt;
+
+## TITRE 5 [<sup>1</sup> Publics-cibles ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 14, 007; En vigueur : 26-08-2024&gt;
+
+## Art. 5/2. [<sup>1</sup> Les CTA accueillent sans discrimination :
+
+1° les élèves et les enseignants des écoles de l'enseignement secondaire qualifiant ;
+
+2° les élèves et les enseignants du 3e degré de l'enseignement technique de la section de transition de l'enseignement secondaire ordinaire ;
+
+3° dans l'enseignement ordinaire, les élèves du dernier cycle de l'enseignement fondamental et des trois premières années de l'enseignement secondaire, et dans l'enseignement spécialisé, les élèves âgés d'au moins 10 ans scolarisés dans l'enseignement fondamental, les élèves de la deuxième phase de l'enseignement secondaire de forme 3 et les élèves des trois premières années de l'enseignement secondaire de forme 4 ;
+
+4° les étudiants et les enseignants de l'enseignement de promotion sociale ;
+
+5° les étudiants et les enseignants de l'enseignement supérieur;
+
+6° les demandeurs d'emploi, par l'intermédiaire du FOREM et de Bruxelles Formation ;
+
+7° les apprenants et les formateurs de l'IFAPME, de l'AViQ et de l'EFP ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 14, 007; En vigueur : 26-08-2024&gt;
+
+## TITRE 6 [<sup>1</sup> Fonctionnement des CTA ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 15, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6
+
+[<sup>1</sup> - § 1er. Chaque CTA est placé sous la direction du directeur de l'école dans laquelle il se situe.
+
+§ 2. La gestion quotidienne du CTA est assurée par le coordonnateur CTA, tel que défini dans le décret du 11 juillet 2018 instituant un statut pour les coordonnateurs de Centres de technologies avancées.
+
+§ 3. Les formations sont dispensées par un formateur CTA, à l'exception des cas où l'utilisateur préfère recourir aux services d'un autre formateur désigné par ses soins. A cet effet, la Communauté française alloue au moins un équivalent temps plein à chacun des CTA labellisés, selon les modalités définies par le Gouvernement. Cet équivalent temps plein peut être fractionné au maximum en deux.
+
+[<sup>2</sup> A dater de la rentrée scolaire 2023-2024, la Communauté française octroie quinze chargés de mission en qualité de formateurs CTA.
+
+Cette charge de mission accordée en application de l'article 6 du décret du 24 juin 1996 portant réglementation des missions, des congés pour mission et des mises en disponibilité pour mission spéciale dans l'enseignement organisé ou subventionné par la Communauté française peut être exercée à raison d'un temps plein ou à raison d'une demi-charge selon les modalités fixées par le Gouvernement.]<sup>2</sup>
+
+En fonction des moyens disponibles, des mi-temps complémentaires peuvent être alloués aux CTA, selon les modalités définies par le Gouvernement.
+
+En matière de frais de déplacement domicile-CTA, les formateurs CTA ressortissent du décret du 17 juillet 2003 relatif à une intervention dans les frais de transport en commun public et/ou dans l'utilisation de la bicyclette des membres du personnel ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/32, art. 16, 007; En vigueur : 26-08-2024&gt;
+
+(2)&lt;DCFR 2025-07-16/13, art. 70, 009; En vigueur : 25-08-2025&gt;
+
+### Art. 6/1
+
+[<sup>1</sup> § 1er. Chaque CTA est doté d'un Comité d'accompagnement dont il fixe lui-même la composition. Celui-ci se réunit au moins deux fois par an.
+
+§ 2. Le directeur de l'école responsable du CTA préside le Comité d'accompagnement.
+
+Le coordonnateur du CTA en assure le secrétariat.
+
+§ 3. Le Comité d'accompagnement doit comprendre :
+
+1° au minimum 3 personnes issues du monde de l'entreprise ;
+
+2° au minimum 3 personnes issues du monde de l'enseignement. La représentation du monde de l'enseignement doit être obligatoirement ouverte au pouvoir organisateur de l'enseignement organisé par la Communauté française et aux différentes fédérations de pouvoirs organisateurs ;
+
+3° un représentant des services du Gouvernement en charge du dispositif ;
+
+4° un représentant du Ministre en charge de l'enseignement obligatoire ;
+
+5° un représentant du Service général de l'Inspection;
+
+6° un représentant du pouvoir organisateur du CTA ;
+
+7° un représentant de la formation professionnelle ;
+
+8° au moins un représentant du ou des CDC et/ou du ou des CDR/ Pôle Formation Emploi (PFE) actif(s) dans le(s) même(s) secteur(s).
+
+Les membres visés aux points 1° à 6°, ainsi que le président visé au paragraphe 2, ont voix délibérative. Les membres visés aux points 7° et 8° ont voix consultative.
+
+Le chargé de mission, visé à l'alinéa 2, paragraphe 3 de l'article 6/5, responsable de l'acquisition des équipements mis à disposition du CTA est systématiquement invité.
+
+§ 4. Le Comité d'accompagnement a pour mission :
+
+1° d'adopter le règlement d'ordre intérieur du CTA, visé au paragraphe 2 de l'article 6/6, en veillant à ce que celui-ci respecte le modèle défini par le Gouvernement et soit adapté aux spécificités du CTA ;
+
+2° de veiller au respect des missions définies à l'article 5/1 et de mettre en place toutes les mesures nécessaires à leur respect ;
+
+3° d'assurer un suivi des fréquentations du CTA, d'évaluer les actions réalisées afin d'atteindre l'objectif de fréquentation général visé au paragraphe 2 de l'article 6/2 et les objectifs de fréquentation spécifiques, ainsi que de mettre en place, le cas échéant, toutes mesures jugées nécessaires pour atteindre ces objectifs ou maintenir la fréquentation du centre ;
+
+4° de fixer les objectifs de fréquentation spécifiques à atteindre annuellement, dans le strict respect des balises fixées au paragraphe 3 de l'article 6/2 ;
+
+5° d'analyser et d'approuver le rapport annuel d'activité visé au paragraphe 3 de l'article 6/6 ;
+
+6° d'analyser et d'approuver le plan d'investissement pluriannuel relatif aux équipements mis à disposition par le Gouvernement, en tenant compte des éventuels travaux nécessaires à la mise en service de ces équipements ;
+
+7° de se prononcer sur le programme de formation proposé par le CTA et d'émettre des propositions en vue d'élaborer de nouvelles formations ;
+
+8° de se prononcer sur la gestion financière du CTA et sur les dépenses envisagées ;
+
+9° de veiller à la collaboration entre le CTA et le(s) CDC et/ou CDR/Pôle Formation Emploi (PFE) associé(s) en matière de formation, de veille sur les métiers, d'actions de sensibilisation, etc. ;
+
+10° de tout mettre en oeuvre pour anticiper ou résoudre tout problème nuisant au bon fonctionnement du CTA qui ne relève pas de la gestion quotidienne du centre.
+
+§ 5. Chaque Comité d'accompagnement se dote d'un règlement d'ordre intérieur conforme aux modalités prévues par le Gouvernement et le transmet à celui-ci endéans le mois après son approbation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/2
+
+[<sup>1</sup> - § 1er. Le Gouvernement fixe à :
+
+1° 140 jours le nombre minimum annuel de jours de formation organisés par le CTA ;
+
+2° 20% du nombre total de jours de formation organisés par le CTA peut au maximum être réservé aux utilisateurs internes du CTA (élèves et enseignants de l'école au sein duquel se situe le CTA) et pris en compte dans le calcul de la dotation ou subvention pour frais de consommables visée au paragraphe 2 de l'article 6/9 ;
+
+3° 80% du nombre total de jours de formation organisés par le CTA doit au minimum être réservé aux utilisateurs extérieurs du CTA.
+
+Les CTA adaptent l'organisation des formations en rentabilisant au maximum les plages horaires afin d'y intégrer l'offre de formation à destination des étudiants de l'enseignement supérieur et de promotion sociale, ainsi que des autres publics.
+
+§ 2. Le Gouvernement définit un objectif de fréquentation général pour chaque CTA sur base du nombre minimum annuel de jours de formation fixé au paragraphe 1er, du nombre de mi-temps de formateur octroyés au CTA, de sa capacité d'accueil et des publics potentiels.
+
+Cet objectif est révisé tous les 5 ans sur base de l'évaluation du dispositif visée à l'article 6/3, sauf si un changement objectivable de nature à remettre en question l'objectif fixé intervient pendant cette période.
+
+§ 3. Des balises relatives à l'accueil des différents publics sont fixées :
+
+1° 75 % de l'ensemble des heures de formation réservées aux publics visés aux points 1°, 2° et 3° de l'article 5/2, dont au moins 5 % à destination des publics visés au point 3° du même article ;
+
+2° 15 % de l'ensemble des heures de formation réservées au public visé au point 6° de l'article 5/2 ;
+
+3° 10 % de l'ensemble des heures de formation réservées aux publics visés aux points 4°, 5° et 7° de l'article 5/2.
+
+Chaque Comité d'accompagnement visé à l'article 6/1 fixe les objectifs spécifiques de fréquentation à atteindre annuellement, dans le strict respect des balises et en veillant à garantir une diversité des publics formés. Ceux-ci doivent être communiqués au Gouvernement dans le mois qui suit la décision.
+
+§ 4. Les CTA ont un délai de trois ans à partir de la fixation des objectifs pour atteindre ceux-ci.
+
+En cas de manquement, il est procédé à une analyse de la situation par les services du Gouvernement, avec l'appui, le cas échéant, du Service général de l'Inspection, qui émettent des recommandations à l'attention du Gouvernement. Si de nouveaux objectifs doivent être définis, le Gouvernement les fixe.
+
+Une convention d'atteinte d'objectifs, établie par les services du Gouvernement et spécifiant notamment les mesures à prendre par le CTA, est signée par le pouvoir organisateur de l'école accueillant le CTA et approuvée par le Gouvernement. Les objectifs sont à atteindre endéans les deux ans après signature de la convention.
+
+En cas de non-respect des dispositions figurant dans la convention ou de non atteinte des objectifs fixés, une analyse approfondie de la situation du CTA est effectuée par les services du Gouvernement, avec l'appui, le cas échéant, du Service général de l'Inspection. Sur base des conclusions de cette analyse, le Gouvernement décide soit de la signature d'une nouvelle convention pour deux années, assortie de la possibilité de diminuer de 20% les dotations ou subventions pour frais de consommables, visées au paragraphe 2 de l'article 6/9, soit du retrait du label CTA, conformément à la procédure prévue à l'article 6/4. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 1, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/3
+
+[<sup>1</sup> - § 1er. Le Gouvernement procède tous les cinq ans à une évaluation du dispositif CTA.
+
+§ 2. L'évaluation du dispositif CTA, quantitative et qualitative, a pour objectif d'analyser les fréquentations effectives et potentielles des CTA, mais aussi les mesures prises par ceux-ci pour promouvoir leurs activités et dynamiser leurs relations avec les différents partenaires, en ce compris les organismes de formation régionaux, la mise en place de nouvelles formations, la plus-value apportée par les formations suivies en CTA et l'adéquation des formations organisées par les CTA avec les besoins du marché de l'emploi.
+
+Afin de favoriser l'échange, la synergie et la cohérence entre les différentes parties prenantes liées au dispositif CTA, le Gouvernement prend avis auprès des Bassins enseignement-formation-emploi, ainsi que des représentants du monde de l'entreprise et du secteur de l'enseignement, sur les points qui relèvent de la compétence de chaque instance.
+
+§ 3. Un Comité de suivi est instauré.
+
+Il a pour mission de veiller à l'évaluation du dispositif et à la fixation d'indicateurs, de formuler des recommandations d'amélioration, d'adresser celles-ci au Gouvernement et de veiller à l'application des mesures retenues.
+
+Ce Comité de suivi est présidé par le Ministre en charge de l'enseignement obligatoire ou son représentant et est composé a minima de représentants du Ministre-Président, du Ministre en charge de l'enseignement supérieur et du Ministre en charge de l'enseignement de promotion sociale et des services du Gouvernement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/4
+
+[<sup>1</sup> § 1er. Le Gouvernement peut retirer son label à un CTA en cas de manquement grave ou répété à ses obligations, ainsi qu'en cas de refus par le pouvoir organisateur de l'école accueillant le CTA de signer la convention d'atteinte d'objectifs visée à l'alinéa 3 du paragraphe 4 de l'article 6/2.
+
+§ 2. Le retrait du label est lié soit à la procédure d'évaluation systématique du dispositif CTA décrite à l'article 6/3 soit au constat d'un manquement grave.
+
+§ 3. Le Gouvernement décide des conséquences de la perte du label tant au niveau des équipements mis à disposition du CTA qu'au niveau des investissements financiers consentis.
+
+§ 4. La procédure de retrait de label, qu'elle résulte de la procédure d'évaluation systématique ou du constat d'un manquement grave, est la suivante :
+
+1° le pouvoir organisateur de l'école accueillant le CTA est informé des faits reprochés par les services du Gouvernement. Il a 60 jours pour formuler une réponse ;
+
+2° Le dossier est transmis au Comité de pilotage visé à l'article 10 pour avis. Celui-ci peut entendre, s'il le souhaite, les différentes parties prenantes au dossier. Il adresse ses recommandations au Gouvernement ;
+
+3° le Gouvernement prend sa décision sur base du dossier administratif, de la réponse du pouvoir organisateur et de l'avis du Comité de pilotage ;
+
+4° le pouvoir organisateur de l'école accueillant le CTA est averti par courrier recommandé de la décision du Gouvernement dans les 30 jours qui suivent celle-ci et, en cas de décision de retrait du label, des conséquences de cette décision. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/5
+
+[<sup>1</sup> - § 1er. La Communauté française met à disposition des CTA des équipements dans le cadre de leurs missions.
+
+Ces équipements restent la propriété de la Communauté française et sont mis à disposition des CTA labellisés par le biais d'une convention de mise à disposition signée par le représentant du pouvoir organisateur de l'école accueillant le CTA et le Gouvernement.
+
+§ 2. Ces équipements sont acquis sur base d'un plan d'investissement pluriannuel de six années réalisé en concertation entre CTA d'un même secteur.
+
+Le Gouvernement décide des acquisitions à réaliser annuellement en se basant sur la proposition de sélection annuelle élaborée par la Commission de suivi et de sélection visée à l'article 9 sur base des plans d'investissement pluriannuels de chaque CTA, des objectifs pédagogiques poursuivis, des besoins urgents, de l'avancée d'éventuels travaux d'aménagement et des réunions de concertation entre CTA.
+
+§ 3. L'acquisition de ces équipements est réalisée par le Gouvernement.
+
+Le Gouvernement désigne trois équivalents temps plein à cet effet. Ils assurent également le bon fonctionnement et l'animation du dispositif CTA. Ils sont aussi associés aux initiatives visant à articuler les réseaux des CDC, des CDR/Pôle Formation Emploi (PFE) et des CTA. Les chargés de mission désignés peuvent également être amenés à gérer la mise en place de projets spécifiques apportant une plus-value aux formations dispensées au sein de l'enseignement secondaire qualifiant et visés à l'article 6/12.
+
+§ 4. Les équipements mis à disposition des CTA sont assurés par la Communauté française.
+
+§ 5. La Communauté française rembourse, dans le respect des crédits disponibles, les frais liés à la maintenance préventive ou curative effectuée sur les équipements mis à disposition des CTA. Ce remboursement se fait sur base d'une déclaration de créance et des pièces justificatives y afférentes.
+
+Les demandes éligibles sont remboursées au fur et à mesure, en respectant l'ordre d'introduction, et ce, jusqu'à épuisement du budget visé au paragraphe 5 de l'article 7.
+
+§ 6. Si des équipements, dont la Communauté française est propriétaire, mis à disposition des CTA, ne sont plus utilisés ou réparables, ceux-ci doivent faire l'objet d'un signalement conformément à la procédure de déclassement définie par le Gouvernement.
+
+Par dérogation aux articles 42, 44 et 45 de l'arrêté du Gouvernement de la Communauté française du 13 décembre 2012 portant diverses mesures relatives à l'exécution du budget et aux comptabilités budgétaire et générale, le Ministre en charge de l'enseignement obligatoire ou son délégué peut autoriser les équipements pédagogiques mis à disposition des CTA par la Communauté française et restant la propriété de celle-ci à être cédés, une fois désaffectés, à titre onéreux dans le cadre d'un marché public d'acquisition de nouveaux équipements à destination des CTA, sous la forme d'un rabais, ou à titre gratuit à l'association sans but lucratif visée à l'article 8 ou à être recyclés. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/6
+
+[<sup>1</sup> § 1er. Chaque CTA transmet un planning prévisionnel d'occupation au Comité d'accompagnement, défini à l'article 6/1, et au Gouvernement deux fois par an (le 1er février et le 1er octobre).
+
+§ 2. Chaque CTA se dote d'un règlement d'ordre intérieur sur base d'un modèle fixé par le Gouvernement.
+
+§ 3. Le CTA envoie au Gouvernement un rapport d'activité annuel pour le 30 avril de chaque année.
+
+Ce rapport contient une partie quantitative reprenant l'ensemble des chiffres de fréquentation de l'année écoulée tant au niveau global qu'au niveau de chaque public-cible, chiffres validés préalablement par les services du Gouvernement, et une partie qualitative. Cette dernière doit notamment expliquer les causes de la hausse, de la baisse ou de la non fréquentation des publics-cibles, les démarches entreprises pour faire venir les publics potentiels, les nouvelles formations développées, les moyens de communication utilisés, les actions de promotion, les partenariats mis en place, les initiatives prises pour promouvoir les métiers techniques et technologiques, l'égalité hommes-femmes, l'égalité des chances pour tous, le développement durable et la préservation de l'environnement, ainsi que les difficultés rencontrées, les réussites, les risques, les opportunités et les points d'amélioration.
+
+§ 4. Les coordonnateurs et formateurs CTA rédigent un journalier reprenant les activités réalisées. Celui-ci est mis à disposition des services du Gouvernement.
+
+§ 5. Le Gouvernement peut sanctionner d'une diminution de minimum 5% et de maximum 15% de la dotation ou subvention pour frais de fonctionnement, visée à l'article 6/10, la non-transmission dans les délais d'un ou de l'ensemble des documents mentionnés aux paragraphes 1er et 3 durant trois années consécutives. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/7
+
+[<sup>1</sup> § 1er. Les CTA doivent assurer la promotion des formations qu'ils organisent auprès de leurs différents publics-cibles.
+
+La mise en oeuvre d'une information et d'une promotion active du CTA vers ses publics potentiels est une condition de base au financement des frais de fonctionnement et de consommables. La transmission au Gouvernement, pour le 30 avril, des supports de promotion réalisés au cours de l'année écoulée doit en attester.
+
+§ 2. Les opérateurs de formation professionnelle continue sont chargés d'assurer la promotion de ce dispositif auprès des enseignants de l'enseignement secondaire qualifiant. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/8
+
+[<sup>1</sup> - § 1er. Les CTA proposent une offre de formation complémentaire à celle dispensée au sein de l'enseignement, ainsi qu'au sein des CDC et CDR/Pôle Formation Emploi (PFE). Cette offre de formation doit être approuvée une fois par an par le Comité d'accompagnement du CTA visé à l'article 6/1.
+
+§ 2. Les écoles adaptent l'organisation des cours pour y intégrer l'offre de formation proposée par les CTA de telle manière que les temps de formation des élèves soient valorisés dans le cadre de leurs apprentissages.
+
+§ 3. Chaque CTA établit un programme de découverte d'un ou plusieurs métier(s) à destination, dans l'enseignement ordinaire, des élèves du dernier cycle de l'enseignement fondamental et des trois premières années de l'enseignement secondaire, et dans l'enseignement spécialisé, des élèves âgés d'au moins 10 ans scolarisés dans l'enseignement fondamental, des élèves de la deuxième phase de l'enseignement secondaire de forme 3 et des élèves des trois premières années de l'enseignement secondaire de forme 4.
+
+Ce programme, d'une durée minimum d'une demi-journée, comprend, dans la mesure du possible, des activités dans lesquelles les élèves sont acteurs.
+
+§ 4. L'accueil des différents publics se réalise sur base de conventions bilatérales entre, d'une part, le pouvoir organisateur de l'école accueillant le CTA ou son délégué et, d'autre part, l'utilisateur (pouvoir organisateur de l'école ou de l'établissement, IFAPME/EFP, FOREM, Bruxelles Formation, CDC, CDR/Pôle Formation Emploi (PFE), etc.). Les conventions peuvent être étendues à d'autres intervenants si nécessaire.
+
+Ces conventions bilatérales, dont les services du Gouvernement fixe le modèle, prévoient les engagements respectifs des deux parties en matière de modalités d'accès aux équipements et de programme de formation spécifique.
+
+§ 5. Les formations sont dispensées soit par le formateur CTA soit par un formateur désigné par l'utilisateur. Quel que soit le choix de l'utilisateur, celui-ci doit être mentionné dans la convention bilatérale.
+
+Dans le cas où la formation est dispensée par le formateur du CTA, au moins un accompagnateur, désigné par l'utilisateur, doit être présent en CTA avec chaque groupe d'apprenants. Cet ou ces accompagnateurs sont les seuls habilités à gérer la discipline et secondent le formateur CTA lors de la formation. De plus, au moins un accompagnateur doit avoir préalablement suivi une formation correspondant au matériel mis à disposition par le CTA. Cette formation peut être suivie soit dans le CTA où est organisée la formation, soit dans un CDC, soit dans un CDR/Pôle Formation Emploi (PFE), soit dans un autre CTA. Dans les trois derniers cas, la personne doit attester de cette formation au plus tard le premier de jour de la formation des apprenants.
+
+Dans le cas où la formation est dispensée par le formateur désigné par l'utilisateur, celui-ci doit avoir reçu préalablement une formation adéquate eu égard au matériel mis à disposition par le CTA et doit pouvoir en attester au plus tard le premier jour de la formation des apprenants. Il peut suivre cette formation dans un CDC, un CDR/Pôle Formation Emploi (PFE), dans le CTA concerné ou dans un autre CTA. Le formateur CTA peut seconder le formateur désigné par l'utilisateur. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/9
+
+[<sup>1</sup> 1er. Les coûts liés aux formations organisées en CTA sont de trois types :
+
+1° les frais de déplacement des apprenants et de l'/des accompagnateur(s) ou enseignant(s) vers les CTA, et les frais d'hébergement éventuels. L'organisation et la gestion du transport et de l'hébergement des apprenants et du/des accompagnateur(s) ou enseignant(s) sont de la responsabilité de l'utilisateur ;
+
+2° les frais de fonctionnement annuels du CTA. Par frais de fonctionnement, il faut entendre les frais relatifs à la consommation d'eau, de gaz, d'électricité et au chauffage ; à la téléphonie et à la connexion Internet ; aux photocopies ; au nettoyage des locaux ; à l'évacuation des déchets normaux et/ou dangereux ; aux alarmes et à leur entretien ; à l'achat de fournitures diverses nécessaires au bon fonctionnement du CTA (hors achat de consommables) ; à la promotion du CTA ;
+
+3° les frais de consommables. Par frais de consommables, il faut entendre les dépenses liées à l'achat de matières premières et de matériel non-récupérable indispensables à l'organisation des formations.
+
+§ 2. Sont pris en charge par la Communauté française, selon les modalités définies par le Gouvernement et dans le respect des crédits disponibles, les frais de déplacement, d'hébergement et de consommables liés aux formations organisées à destination :
+
+1° des élèves et des enseignants de l'enseignement secondaire qualifiant ;
+
+2° des élèves et des enseignants du 3e degré de l'enseignement technique de la section de transition de l'enseignement secondaire ordinaire ;
+
+3° dans l'enseignement ordinaire, des élèves du dernier cycle de l'enseignement fondamental et des trois premières années de l'enseignement secondaire, et dans l'enseignement spécialisé, des élèves âgés d'au moins 10 ans scolarisés dans l'enseignement fondamental et des élèves de la deuxième phase de l'enseignement secondaire de forme 3.
+
+Concernant les publics visés au point 3°, le remboursement des frais de déplacement ne peut dépasser la limite annuelle fixée par le Gouvernement.
+
+§ 3. Sont pris en charge par la Communauté française, selon les modalités définies par le Gouvernement et dans le respect des crédits disponibles, les frais de consommables liés aux formations organisées à destination des étudiants et des enseignants de l'enseignement supérieur et de l'enseignement de promotion sociale. La prise en charge de ces frais ne peut dépasser la limite annuelle fixée par le Gouvernement.
+
+§ 4. Les consommables utilisés lors de la formation des autres publics font l'objet d'une facturation basée sur les montants alloués aux CTA pour les frais de consommables de l'année précédente.
+
+Par dérogation à l'alinéa précédent, le Gouvernement peut dispenser un utilisateur du paiement des coûts de formation si une convention multilatérale entre, au minimum, le Gouvernement, l'utilisateur et le pouvoir organisateur du CTA précise d'autres modalités de financement. Les conventions signées avant le 1er janvier 2024 doivent faire l'objet d'une nouvelle demande. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/11
+
+[<sup>1</sup> § 1er. Le dispositif CTA est coordonné par le Gouvernement.
+
+Pour assurer ses missions de coordination, le Gouvernement est assisté par la Direction générale de l'enseignement obligatoire.
+
+§ 2. La coordination du dispositif CTA consiste notamment en :
+
+1° l'analyse des projets de labellisation ;
+
+2° la promotion du dispositif auprès des écoles d'enseignement qualifiant en concertation, le cas échéant, avec les organismes de formation professionnelle continue ;
+
+3° l'exécution des décisions du Gouvernement relatives au dispositif ;
+
+4° l'élaboration d'indicateurs et d'outils statistiques permettant la vérification et le contrôle de l'accès aux équipements mis à disposition ;
+
+5° l'évaluation de la mise en oeuvre des actions ;
+
+6° la gestion administrative et financière du dispositif ;
+
+7° la formulation de toute recommandation visant à améliorer le fonctionnement du dispositif. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 17, 007; En vigueur : 26-08-2024&gt;
+
+## TITRE 7 [<sup>1</sup> Projets spécifiques apportant une plus-value aux formations dispensées au sein de l'enseignement secondaire qualifiant ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 18, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 6/12
+
+[<sup>1</sup> § 1er. Des projets relevant d'une collaboration entre l'enseignement et le monde de l'entreprise et ayant pour objectif de donner une plus-value à la formation des élèves des options concernées peuvent être mis en place à la demande soit du Gouvernement soit d'un secteur professionnel.
+
+Ces projets font l'objet d'une convention entre le Gouvernement et le secteur professionnel concerné dans le respect des missions prioritaires de l'enseignement, ainsi que des statuts et des textes réglementaires qui s'appliquent aux travailleurs. Cette convention explique l'objectif poursuivi par le projet, les publics visés et les moyens apportés par les deux parties.
+
+§ 2. Chaque projet fait l'objet d'un rapport d'activité annuel à adresser au Gouvernement au plus tard le 5 juillet de l'année suivante.
+
+Ce rapport doit expliquer l'avancement du projet et les actions qui doivent encore être mises en place pour atteindre les objectifs fixés. Les actions de promotion et les dépenses effectuées dans le cadre du projet doivent obligatoirement être explicitées.
+
+§ 3. Un Comité d'accompagnement est instauré. Il se compose d'un représentant du Ministre en charge de l'enseignement obligatoire, qui en assure la présidence, d'un représentant de la Direction générale de l'enseignement obligatoire, du responsable du projet, qui en assure le secrétariat, d'un représentant du secteur professionnel concerné et d'un représentant du Service général de l'Inspection. D'autres personnes peuvent être invitées en raison de leur expertise.
+
+Le Comité d'accompagnement examine le rapport d'activité annuel, les dépenses et soumet, le cas échéant, au Gouvernement des recommandations en vue de la bonne conduite et de l'amélioration du projet. Il se réunit donc au moins une fois par an.
+
+§ 4. Chaque projet est coordonné par le Gouvernement.
+
+Afin de remplir ces missions, le Gouvernement peut allouer des moyens humains complémentaires aux services du Gouvernement en charge du projet.
+
+§ 5. Les CTA peuvent participer de manière active aux projets visés au paragraphe 1er.
+
+Dans ce cadre, les CTA sont autorisés à recevoir des équipements sans que ceux-ci ne figurent dans le plan d'investissement pluriannuel visé au paragraphe 2 de l'article 6/5.
+
+§ 6. Le Gouvernement procède tous les trois ans à une évaluation des projets spécifiques et adapte ceux-ci, le cas échéant. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 18, 007; En vigueur : 26-08-2024&gt;
+
+## TITRE 8 [<sup>1</sup> Financement ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 19, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 7
+
+[<sup>1</sup> § 1er. Pour remplir les objectifs visés aux points 1°, 2° et 5° de l'article 3, un montant minimum annuel de 5.205.000 euros est [<sup>2</sup> prévu selon la répartition suivante]<sup>2</sup> :
+
+1° 4.000.000 euros pour le financement de matériel pédagogique durable nécessaire à la qualification des élèves dans les écoles ;
+
+2° 1.000.000 euros pour l'acquisition d'équipements mis à disposition des CTA et repris dans le plan d'investissement pluriannuel des CTA concernés ;
+
+3° 205.000 euros pour le subventionnement d'une association sans but lucratif dédiée la récupération et à la redistribution d'équipements visée à l'article 8.
+
+Le Gouvernement peut modifier la répartition des montants entre les points 1° et 2° en fonction de la proposition de sélection des équipements pour les CTA élaborée par la Commission de suivi et de sélection visée à l'article 9 et entre les points 1° et 3° en fonction du budget initial de l'association définie à l'article 8 pour l'année considérée.
+
+§ 2. Le montant défini au point 1° du paragraphe 1er est réparti, pour chaque région, entre le pouvoir organisateur de l'enseignement organisé par la Communauté française et les fédérations de pouvoirs organisateurs au prorata de leur population scolaire respective dans l'enseignement secondaire qualifiant au 15 janvier de l'année civile concernée.
+
+§ 3 Dans le cadre de l'appel à projets annuel pour l'acquisition des équipements visé à l'article 4, la dotation ou la subvention non justifiée pour tout ou partie peut être réaffectée par les services du Gouvernement, sur base d'une proposition des Commissions de suivi opérationnel, à des projets sélectionnés au cours du même appel à projets pour autant que le montant des équipements acquis dépasse le montant initialement prévu. Si une sélection doit être opérée entre ces projets, celle-ci est effectuée sur base des critères de priorité et de sélection visés aux paragraphes 5 et 6 de l'article 4.
+
+§ 4. Un montant minimum annuel de 1.245.000 euros est [<sup>2</sup> prévu]<sup>2</sup> pour la prise en charge des frais d'assurance liés aux équipements mis à disposition des CTA, de la dotation et subvention pour frais de fonctionnement, de la dotation et subvention pour frais de consommables et du remboursement des frais de déplacement et d'hébergement.
+
+§ 5. En sus des montants visés aux paragraphes 1er et 4, un montant minimum annuel de 250.000 euros est dédié à la maintenance des équipements des CTA acquis par la Communauté française.
+
+En fonction de la consommation des moyens budgétaires prévus pour la maintenance des équipements au 15 septembre, des montants complémentaires peuvent être affectés à la prise en charge des frais définis au paragraphe 4.
+
+§ 6. En sus des montants visés aux paragraphes 1er, 4 et 5, un budget annuel est octroyé au fonctionnement des projets définis au paragraphe 1er de l'article 6/12. ".
+
+§ 7. En sus des montants visés aux paragraphes 1er, 4, 5 et 6, une subvention annuelle est allouée à l'association sans but lucratif TechnoCampus. Ce montant est destiné à couvrir une partie des frais liés à l'organisation de formations à destination des élèves et des enseignants de l'enseignement secondaire qualifiant, ainsi que des étudiants et enseignants de l'enseignement de promotion sociale et de l'enseignement supérieur. Le Gouvernement fixe le montant de la subvention et précise les conditions d'utilisation et de liquidation de celle-ci.
+
+Le Gouvernement procède tous les trois ans à une évaluation des activités subventionnées ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/32, art. 2, 007; En vigueur : 26-08-2024&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 43, 010; En vigueur : 24-08-2026&gt;
+
+## TITRE 9 [<sup>1</sup> Association sans but lucratif dédiée à la récupération et à la redistribution d'équipements ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 21, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 8
+
+Répartition de matériels récupérés
+
+Afin de rencontrer au mieux les objectifs visés à l'article 3 du présent décret, le Gouvernement subventionne une association sans but lucratif dont l'assemblée générale est composée par les représentants [<sup>3</sup> du pouvoir organisateur de l'enseignement organisé par la Communauté française et des fédérations de pouvoirs organisateurs ]<sup>3</sup>, issus pour moitié de l'enseignement non confessionnel et pour l'autre moitié de l'enseignement confessionnel, désignés par le Gouvernement de la Communauté française sur proposition du Conseil général de concertation pour l'enseignement secondaire et d'un représentant du Ministre de l'enseignement obligatoire et de promotion sociale.
+
+Elle a pour objet de prospecter les entreprises, les CDC, les CDR et les Centres de formation régionaux, les Universités, les Centres de recherche agréés, les Hautes écoles et les administrations publiques susceptibles de céder du matériel aux [<sup>2</sup> écoles ]<sup>2</sup> d'enseignement qualifiant et de promotion sociale, de leur faire connaître les besoins en matériel de ces [<sup>2</sup> écoles ]<sup>2</sup> et de répartir équitablement le matériel entre les [<sup>2</sup> écoles ]<sup>2</sup> des différents réseaux.[<sup>1</sup> Cette ASBL peut également acquérir des équipements neufs à destination des [<sup>2</sup> écoles ]<sup>2</sup> d'enseignement qualifiant et de promotion sociale. ]<sup>1</sup>
+
+La proposition de répartition tient compte des priorités établies par la Commission de suivi opérationnel [<sup>3</sup> ...]<sup>3</sup>.
+
+Cette proposition se base sur les résultats du cadastre des équipements pédagogiques.
+
+L'association retenue par le Gouvernement adressera à celui-ci un rapport d'activités annuel.
+
+[<sup>3</sup> Le Gouvernement procède tous les trois ans à une évaluation des activités de l'association.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2016-07-13/03, art. 25, 002; En vigueur : 04-08-2016&gt;
+
+(2)&lt;DCFR 2024-04-18/32, art. 1, 007; En vigueur : 26-08-2024&gt;
+
+(3)&lt;DCFR 2024-04-18/32, art. 22, 007; En vigueur : 26-08-2024&gt;
+
+## [-1 TITRE 10 ]-1 [<sup>1</sup> Commission de suivi et de sélection ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 23, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 9
+
+[<sup>1</sup> § 1er. Le Gouvernement met en place une Commission de suivi et de sélection chargée de :
+
+1° se prononcer sur les équipements sélectionnés pour les CTA ;
+
+2° prendre connaissance de l'évaluation des appels à projets relatifs à la modernisation de l'équipement pédagogique dans les écoles d'enseignement secondaire qualifiant visée à l'article 4/4 et de l'évaluation du dispositif CTA visée à l'article 6/3 et formuler, le cas échéant, des recommandations d'amélioration ;
+
+3° proposer une répartition des moyens non justifiés dans le cadre des appels à projets relatifs à la modernisation de l'équipement pédagogique dans les écoles d'enseignement secondaire qualifiant.
+
+§ 2. La Commission de suivi et de sélection est composée :
+
+1° d'un représentant du Ministre en charge de l'Enseignement obligatoire qui en assure la présidence ;
+
+2° d'un représentant du pouvoir organisateur de l'enseignement organisé par la Communauté française et de chaque fédération de pouvoirs organisateurs ;
+
+3° deux représentants de la Direction générale de l'Enseignement obligatoire dont le Directeur général de l'Enseignement obligatoire ou son représentant ;
+
+4° d'un représentant du Service général de l'Inspection.
+
+Les services du Gouvernement en charge du dispositif assurent le secrétariat.
+
+La Commission de suivi et de sélection prend ses décisions par consensus ]<sup>1</sup>.
+
+§ 3. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/32, art. 23, 007; En vigueur : 26-08-2024&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 35, 008; En vigueur : 28-08-2023&gt;
+
+(3)&lt;DCFR 2025-07-16/13, art. 71, 009; En vigueur : 25-08-2025&gt;
+
+## TITRE 11 [<sup>1</sup> Comité de pilotage ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 23, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 10
+
+[<sup>1</sup> - § 1er. Le Gouvernement instaure un Comité de pilotage chargé de :
+
+1° se prononcer sur la proposition de sélection des projets CTA à labelliser et sur la proposition de sélection de projets introduits dans le cadre de l'appel à projets annuel visé à l'article 4 ;
+
+2° se prononcer sur le rapport d'activité annuel du dispositif CTA ;
+
+3° se prononcer, en cas de contestation, sur les demandes de remboursement faisant suite à la constatation d'une irrégularité lors des contrôles des équipements acquis dans le cadre de l'appel à projets ;
+
+4° formuler un avis sur les projets de retrait de label CTA à l'attention du Gouvernement ;
+
+5° prendre connaissance de l'évaluation des appels à projets relatifs à la modernisation de l'équipement pédagogique dans les écoles d'enseignement secondaire qualifiant visée à l'article 4/4 et de l'évaluation du dispositif CTA visée à l'article 6/3, formuler des recommandations d'amélioration en s'appuyant notamment sur les recommandations formulées par la Commission de suivi et de sélection, les adresser au Gouvernement et veiller à l'application des mesures retenues.
+
+§ 2 Le Comité de pilotage est composé :
+
+1° d'un représentant du Ministre en charge de l'Enseignement obligatoire qui en assure la présidence ;
+
+2° d'un représentant du Ministre-président ;
+
+3° d'un représentant du Ministre en charge de l'enseignement de promotion sociale;
+
+4° d'un représentant du Ministre en charge de l'enseignement supérieur ;
+
+5° de trois membres désignés par les organisations syndicales représentatives des membres du personnel de l'enseignement organisé ou subventionné par la Communauté française ;
+
+6° du Directeur général de l'enseignement obligatoire ou son représentant;
+
+7° d'un représentant du FOREM ;
+
+8° d'un représentant d'ACTIRIS ;
+
+9° d'un représentant de Bruxelles-Formation.
+
+Les membres visés aux points 1° à 6° ont voix délibérative. Les membres visés aux points 7° à 9° ont voix consultative.
+
+Les services du Gouvernement en charge du dispositif assurent le secrétariat.
+
+Le Comité de pilotage prend ses décisions à la majorité des membres présents ayant voix délibérative ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/32, art. 23, 007; En vigueur : 26-08-2024&gt;
+
+## TITRE 12 [<sup>1</sup> Dispositions finales ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/32, art. 24, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 11
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le décret du 26 avril 2007 garantissant l'équipement pédagogique de l'enseignement qualifiant est abrogé.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/32, art. 25, 007; En vigueur : 26-08-2024&gt;
+
+### Art. 12
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le présent décret entre en vigueur le 1er janvier 2014.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/32, art. 3, 007; En vigueur : 26-08-2024&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 11 avril 2014.
+
+Le Ministre-Président du Gouvernement de la Communauté française,
+
+R. DEMOTTE
+
+Le Vice-Président et Ministre de l'Enfance, de la Recherche et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Vice-Président et Ministre du Budget, des Finances et des Sports,
+
+A. ANTOINE
+
+Le Vice-Président et Ministre de l'Enseignement supérieur,
+
+J.-Cl. MARCOURT
+
+La Ministre de la Jeunesse,
+
+Mme E. HUYTEBROECK
+
+La Ministre de la Culture, de l'Audiovisuel, de la Santé et de l'Egalité des chances,
+
+Mme F. LAANAN
+
+La Ministre de l'Enseignement obligatoire et de Promotion sociale
+
+Mme M.-M. SCHYNS
