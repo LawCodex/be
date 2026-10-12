@@ -1,0 +1,33 @@
+---
+title: "Loi instaurant un pécule de vacances en faveur de certaines catégories de personnes."
+identifier: "1976062301"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1976/06/23/1976062301/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1976-06-23
+published: 1976-07-09
+entry_into_force: 1976-07-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1976/06/23/1976062301/justel"
+retrieved: 2026-10-12
+---
+
+# 23 JUIN 1976. - Loi instaurant un pécule de vacances en faveur de certaines catégories de personnes.
+
+## Art. 1
+
+Article unique. Les personnes qui, dans le cadre du régime général de la sécurité sociale, ont droit aux prestations prévues par:
+
+\- la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité,
+
+\- la loi du 27 juin 1969 relative à l'octroi d'allocations aux handicapés,
+
+\- la loi du 1er avril 1969 instituant un revenu garanti aux personnes âgées,
+
+\- la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence,
+
+peuvent bénéficier d'un pécule de vacances.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, étendre le champ d'application de la présente loi à d'autres catégories de bénéficiaires de prestations sociales qu'Il désigne. Il détermine en outre le montant, les conditions d'octroi, la périodicité du paiement et la date d'entrée en vigueur.

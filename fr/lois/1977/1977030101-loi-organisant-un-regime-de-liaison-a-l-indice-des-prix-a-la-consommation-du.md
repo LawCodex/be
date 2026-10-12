@@ -1,0 +1,137 @@
+---
+title: "Loi organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public."
+identifier: "1977030101"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1977/03/01/1977030101/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1977-03-01
+published: 1977-03-12
+entry_into_force: 1977-03-22
+last_amended: 2025-07-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1977/03/01/1977030101/justel"
+justel_note: "Consultation des versions antérieures à partir du 31-12-1993 et mise à jour au 29-07-2025"
+retrieved: 2026-10-12
+---
+
+# 1 MARS 1977. - Loi organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public.
+
+## Art. 1
+
+§ 1er. Dans la mesure où les dépenses énumérées ci-dessous sont liées, en vertu d'une disposition légale ou réglementaire, aux fluctuations de l'indice général des prix de détail du Royaume ou de l'indice général des prix à la consommation du royaume, et sans préjudice d'autre dispositions légales qui assimilent certaines subventions-traitements aux réménurations qui sont payées aux agents de l'Etat, les dispositions de la présent loi sont applicables :
+
+a) aux prestations à charge du trésor public énumérées ci-dessous, dans la mesure où elles concernent les membres ou anciens membres du personnel des services du secteur public, les anciens membres du personnel de carrière des cadres d'Afrique ainsi qu'aux ministres, secrétaires d'Etat, ministres ou anciens ministres des cultes, anciens avoués et aux ayants droit des catégories précitées :
+
+1\) traitements et salaires,
+
+2\) pensions de retraite et de survie et allocations de survie,
+
+3\) rentes pour la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles,
+
+4\) pensions coloniales d'invalidité et rentes coloniales de survie,
+
+5\) allocations à l'exception de celles qui couvrent les prestations sociales de la sécurité sociale,
+
+6\) subventions et indemnités,
+
+b) \_
+
+1\) aux pensions, rentes et allocations de guerre,
+
+2\) aux pensions de réparation allouées aux militaires invalides du temps de paix et à leurs ayants-droit,
+
+c) aux limites des rémunérations à prendre en considération pour le calcul ou l'octroi de certaines des dépenses énumérées ci-dessus.
+
+§ 2. Le régime institué par la présente loi peut être rendu applicable par le Roi à d'autres services du secteur public qu'il détermine et notamment:
+
+1\. aux organismes d'intérêt public,
+
+2\. aux provinces,
+
+3\. aux communes,
+
+4\. aux associations de communes et établissements subordonnés aux provinces et aux communes ainsi qu'aux agglomérations et fédérations de communes.
+
+## Art. 1er/1.
+
+[<sup>1</sup> Pour l'application de la présente loi, il faut entendre par "salaire minimum légal": le traitement ou salaire minimum établi par ou en vertu de la loi, à l'exclusion des salaires minimaux fixés par des conventions collectives rendues obligatoires conformément au chapitre II, section V, de la loi du 5 décembre 1968 sur les conventions collectives et les commissions paritaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-18/15, art. 2, 005; En vigueur : 16-06-2024&gt;
+
+## Art. 2
+
+Pour l'application de la présente loi, il faut entendre par "indices-pivots", les nombres appartenant à une série dont le premier est 114,20 et dont chacun des suivants est obtenu en multipliant le précédent par 1,02.
+
+Pour le calcul de chacun des indices-pivots, les fractions de centième de point sont arrondies au centième supérieur ou négligées, selon qu'elles atteignent ou non 50 % d'un centième.
+
+## Art. 3
+
+§ 1er. Sont rattachées à l'indice-pivot 114,20 les dépenses et limites des rémunérations visées à l'article 1er, telles qu'elles étaient établies au 1er janvier 1971 sur base de la réglementation qui leur était applicable à cette date.
+
+§ 2. Les dépenses qui se liquident par année sont préalablement majorées de 2,5 % des sommes rattachées à l'indice 110 des prix de détail du Royaume.
+
+## Art. 4
+
+(Chaque fois que l'indice des prix à la consommation calculé conformément à l'alinéa 2 atteint l'un des indices-pivots ou est ramené à l'un d'eux, les dépenses et limites des rémunérations rattachées à l'indice-pivot 114,20 sont calculées à nouveau en les affectant du coefficient 1,02n, n représentant le rang de l'indice-pivot atteint.
+
+Pour l'application de l'alinéa 1er, est considérée comme indice des prix à la consommation d'un mois déterminé la moyenne arithmétique des indices de ce mois et des trois mois précédents.) &lt;ARN178 1982-12-30/49,art. 1&gt;
+
+A cet effet, chacun des indices-pivots est désigné par un numéro de suite indiquant son rang, le n° 1 désignant l'indice-pivot qui suit l'indice 114,20.
+
+Pour le calcul du coefficient 1,02n, les fractions de dix-millième d'unité sont arrondies aux dix-millième supérieur ou négligées, selon qu'elles atteignent ou non 50 % d'un dix-millième.
+
+(A partir du 1er janvier 1994, seul l'indice calculé et nommé à cet effet est pris en considération pour l'application du présent article.) &lt;AR 1993-12-24/34, art. 18, 002; En vigueur : 10-01-1994&gt;
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, les éventuelles diminutions ne sont pas appliquées aux salaires minimaux légaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-18/15, art. 3, 005; En vigueur : 16-06-2024&gt;
+
+## Art. 5
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres rattacher l'ensemble des éléments visés à l'article premier, tels qu'ils sont établis à une date déterminée, à l'indice-pivot y applicable à la même date.
+
+A partir de cette date, l'article 4 est appliqué en remplacant, dans les alinéas 1 et 2 du § 1er, l'indice-pivot 114,20 par l'indice-pivot auquel les éléments visés à l'alinéa premier du présent article sont rattachés à nouveau.
+
+En ce qui concerne les dépenses qui se liquident par année ou par trimestre, le Roi peut au préalable adapter celles-ci dans la mesure nécessaire pour les mettre au niveau correspondant à l'indice-pivot applicable à la date visée à l'alinéa premier.
+
+## Art. 6
+
+[<sup>1</sup> Sous réserve de l'article 4, alinéa 6,]<sup>1</sup> l'augmentation ou la diminution est appliquée:
+
+1° Pour les dépenses qui se liquident par année, à partir de l'année civile qui suit le mois dont l'indice des prix à la consommation atteint l'indice-pivot qui justifie une modification et pour la première fois à partir de l'année civile qui suit la date de la publication de la présente loi au Moniteur belge.
+
+2° Pour les dépenses qui se liquident par trimestre à partir du trimestre civil qui suit le mois dont l'indice atteint le chiffre qui justifie une modification et pour la première fois à partir du trimestre civil qui suit la date de la publication de la présente loi au Moniteur belge;
+
+3° [<sup>2</sup> dans les autres cas, à partir du troisième mois qui suit le mois dont l'indice atteint le chiffre qui justifie une modification.]<sup>2</sup>
+
+(...) &lt;Alinéa 2 abrogé par L 2001-07-19/38, art. 6, 004; En vigueur : 01-05-2001&gt;
+
+[<sup>2</sup> L'alinéa 1er, 3°, qui, en vertu d'une référence à la présente loi, s'applique aux conventions collectives de travail, visées à l'article 5 de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, conclues avant le 1er juillet 2025, reste d'application dans sa version antérieure au 1er juillet 2025 tant que ces conventions collectives de travail n'y dérogent pas explicitement.
+
+L'alinéa 1er, 3°, reste d'application dans sa version antérieure au 1er juillet 2025 pour les secteurs publics fédéraux de la santé tant qu'il n'y est pas explicitement dérogé.
+
+Par "secteurs publics fédéraux de la santé" visés à l'alinéa 3, il faut entendre les établissements publics qui sont soumis à la loi coordonnée du 10 juillet 2008 sur les hôpitaux et autres établissements de soins, à l'exception des hôpitaux catégoriels, des maisons de soins psychiatriques et des initiatives d'habitation protégée. Sont également inclus les services de soins infirmiers à domicile publics et les maisons médicales publiques.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2024-05-18/15, art. 4, 005; En vigueur : 16-06-2024&gt;
+
+(2)&lt;L 2025-07-18/06, art. 86, 006; En vigueur : 01-07-2025&gt;
+
+## Art. 7
+
+&lt;ARN178 1982-12-30/49,art. 2&gt; Les services du secteur public qui, le 1er janvier 1976, paient les dépenses énumérées à l'article 1er, § 1er, selon un régime qui s'écarte des dispositions de la loi du 2 août 1971, organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites des rémunérations à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants, peuvent maintenir ce régime pour autant que les dépenses concernées soient liées aux fluctuations de l'indice général des prix à la consommation du Royaume, selon les modalités prévues à l'article 4.
+
+## Art. 8
+
+La loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants, cesse d'être applicable aux dépenses régies par la présente loi.
+
+## Art. 9
+
+Le Roi peut modifier et abroger les dispositions légales existantes pour le mettre en concordance avec les dispositions de la présente loi.

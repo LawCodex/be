@@ -1,0 +1,183 @@
+---
+title: "Loi sur la répression du travail frauduleux à caractère commercial ou artisanal"
+identifier: "1976070601"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/06/1976070601/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1976-07-06
+published: 1976-07-20
+entry_into_force: 1976-07-30
+last_amended: 2024-03-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/06/1976070601/justel"
+justel_note: "Consultation des versions antérieures à partir du 22-05-2019 et mise à jour au 21-03-2024"
+retrieved: 2026-10-12
+---
+
+# 6 JUILLET 1976. - Loi sur la répression du travail frauduleux à caractère commercial ou artisanal
+
+## Art. 1
+
+Il est interdit de se livrer à un travail frauduleux et d'avoir recours aux services d'un travailleur frauduleux.
+
+## Art. 2
+
+§ 1. Pour l'application de la présente loi, il faut entendre par travail frauduleux tout travail pouvant faire l'objet d'une profession relevant de l'artisanat, du commerce ou de l'industrie, effectué en dehors de tout lien de subordination, par une personne physique ou morale qui, soit n'est pas immatriculée [<sup>1</sup> à la Banque-Carrefour des Entreprises visée à l'article I.2, 1°, du Code de droit économique]<sup>1</sup>, soit viole les prescrits légaux en matière d'autorisation, d'assujettissement ou d'immatriculation, relatifs à l'exercice de cette profession pour autant que ce travail, soit par son importance et son caractère technique, soit par sa fréquence, soit par l'usage d'un matériel ou d'un outillage, présente un caractère professionnel spécifique.
+
+Sont toujours autorisés les travaux de sauvetage et autres travaux urgents qui doivent être exécutés sans retard afin d'éviter des accidents imminents.
+
+§ 2. Est toujours réputé travail frauduleux, le travail effectué par une personne physique ou morale qui ne satisfait pas aux conditions fixées au § 1, lorsque :
+
+a) le travail est presté suite au recours à la publicité visant à la prospection de la clientèle;
+
+b) le travail qui, par les conditions particulièrement avantageuses de prix auxquelles il est offert, par l'annonce de la non-application de la T.V.A. ou autres arguments similaires, est révélateur de son caractère frauduleux.
+
+§ 3. Ne tombent pas sous l'application de la présente loi :
+
+a) tous travaux à usage personnel effectués dans le cadre familial pour des parents ou alliés jusqu'au deuxième degré;
+
+b) les travaux qu'une personne physique fait exercer par son conjoint ou par des parents ou alliés jusqu'au quatrième degré inclusivement, pour autant que ces travaux concernent la construction, la transformation ou l'assainissement d'habitations sociales ou de logements y assimilés;
+
+c) les travaux accomplis par des organisations socio-culturelles reconnues par le Roi, pour autant que ces travaux rentrent dans le cadre de l'objet de ces organisations.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 79, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 3
+
+Sans préjudice des attributions des officiers de police judiciaire, sont chargés de surveiller l'application de la présente loi et sont compétents pour en rechercher et en constater les infractions par des procès-verbaux qui font foi jusqu'à preuve du contraire :
+
+a) [<sup>1</sup> les agents de la Direction générale de l'Inspection économique du Service public fédéral Economie, P.M.E., Classes moyennes et Energie;]<sup>1</sup>
+
+b) les inspecteurs et contrôleurs de l'Administration de la réglementation et des affaires sociales du Ministre des Classes moyennes, désignés en vertu de l'article 16 de la loi du 15 décembre 1970 sur l'exercice des activités professionnelles dans les petites et moyennes entreprises du commerce et de l'artisanat;
+
+c) les agents de l'Administration des contributions directes et de l'Administration de la taxe sur la valeur ajoutée, de l'enregistrement et des domaines;
+
+d) tous autres fonctionnaires et agents désignés par le Roi.
+
+Ils peuvent se communiquer les renseignements recueillis dans l'exercice de leur mission.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 80, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 4
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Les agents de l'autorité visés à l'article 3 peuvent, dans l'exercice de leurs fonctions :
+
+1° pénétrer librement, à toute heure du jour ou de la nuit, sans avertissement préalable, dans tous les bâtiments, ateliers, établissements, locaux ou autres lieux où sont effectués ou sont présumés être effectués des travaux réputés frauduleux au sens de la présente loi; toutefois, ils ne peuvent pénétrer dans les bâtiments ou les locaux habités que de cinq heures du matin à neuf heures du soir et uniquement avec l'autorisation du juge de police;
+
+2° faire toutes les constatations utiles et recueillir toutes les informations qu'ils estiment nécessaires pour l'accomplissement de leur mission, notamment interroger, seules ou ensemble, les personnes suspectées de se livrer à un travail frauduleux ou d'avoir recours à de pareils services ou toutes autres personnes et se faire produire sans déplacement tous livres, registres et documents, en prendre connaissance ou en faire établir des copies ou des extraits, ou même les saisir contre récépissé;
+
+3° requérir l'assistance de la police communale et de la gendarmerie.
+
+[<sup>1</sup> § 2. Par dérogation au paragraphe 1er, la recherche et la constatation des infractions visées par la présente loi sont effectuées par les agents visés à l'article 3, alinéa 1er, a), conformément aux dispositions visées au livre XV, titre 1er, chapitre 1er, du Code de droit économique, en vertu desquelles, pour la compétence visée à l'article XV.3, alinéa 1er, 1°, du Code de droit économique, ils peuvent à tout moment pénétrer ou accéder aux lieux visés à l'article XV.3, alinéa 1er, 1°, du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 81, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 4/1.
+
+[<sup>1</sup> Lorsqu'ils constatent une infraction à la présente loi ou à ses arrêtés d'exécution, les agents visés à l'article 3, a), peuvent adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte, conformément à l'article XV.31 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-02/28, art. 41, 002; En vigueur : 01-06-2019&gt;
+
+## Art. 4/2.
+
+[<sup>1</sup> Les agents commissionnés par le ministre ayant l'Economie dans ses attributions peuvent proposer une transaction au contrevenant, conformément à l'article XV.61 du Code de droit économique.
+
+Les tarifs ainsi que les modalités de paiement et de perception de cette transaction sont arrêtés par le Roi.
+
+La somme visée à l'alinéa 1er ne peut être supérieure au maximum de l'amende pénale pouvant être infligée pour l'infraction constatée, augmentée des décimes additionnels.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-02/28, art. 42, 002; En vigueur : 01-06-2019&gt;
+
+## Art. 4/3.
+
+[<sup>1</sup> Les infractions à la présente loi ou à ses arrêtés d'exécution peuvent faire l'objet de:
+
+1° l'application de la procédure de transaction telle que visée à l'article 4/2;
+
+2° une poursuite administrative en application de la procédure visée au titre 1/2 du livre XV du Code de droit économique;
+
+3° une poursuite pénale.
+
+La poursuite se fait conformément au titre 1/1 du livre XV du Code de droit économique, à l'exception de l'article XV.60/1, § 2, si les infractions à la présente loi ont été recherchées et constatées par les agents visés à l'article 3, alinéa 1er, b), c) ou d).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 82, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 4/4.
+
+[<sup>1</sup> Le ministère public notifie aux agents compétents visés à l'article XV.60/4 du Code de droit économique sa décision d'intenter ou non les poursuites pénales ou de proposer ou non une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle.
+
+Lorsque le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle, ou si le ministère public n'a pas pris de décision dans un délai de trois mois à compter du jour de la réception du procès-verbal consignant l'infraction, les agents compétents visés à l'article XV.60/4 du Code de droit économique décident s'il y a lieu d'entamer la procédure d'amende administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 83, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 4/5.
+
+[<sup>1</sup> Si le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle, il envoie une copie des pièces de procédure de l'enquête complémentaire aux agents compétents visés à l'article XV.60/4 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 84, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 5
+
+[<sup>1</sup> Est puni soit d'un emprisonnement de huit jours à un mois et d'une amende pénale de 26 à 500 euros ou d'une de ces peines seulement, soit d'une amende administrative de 26 à 500 euros, celui qui se sera livré à un travail frauduleux ou aura eu recours aux services d'un travailleur frauduleux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 85, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 6
+
+[<sup>1</sup> Est puni soit d'un emprisonnement de huit jours à un mois et d'une amende pénale de 100 à 1.000 euros ou d'une de ces peines seulement, soit d'une amende administrative de 100 à 1.000 euros, celui qui met obstacle à la surveillance organisée en vertu de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 86, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 7
+
+En cas de récidive dans les cinq ans qui suivent une condamnation antérieure pour infractions à la présente loi, la peine peut être portée au double du maximum.
+
+## Art. 7/1.
+
+[<sup>1</sup> Les dispositions du titre 2, chapitre 1/1, du livre XV du Code de droit économique sont applicables aux amendes administratives visées par la présente loi.
+
+Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales sont également applicables aux amendes administratives visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 87, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 7/2.
+
+[<sup>1</sup> Les articles XV.71, XV.72, XV.73 et XV.74 du Code de droit économique sont applicables aux infractions pénales à la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 88, 003; En vigueur : 31-03-2024&gt;
+
+## Art. 8
+
+Par dérogation à l'article 100 du Code pénal, le chapitre VII et l'article 85 de ce code sont d'application aux infractions prévues par la présente loi.
+
+## Art. 9
+
+Le ministère public, peut sur le vu des procès verbaux dressés en vertu de l'article 3, ordonner la saisie des objets mobiliers fabriqués ou réparés et des machines, outillages, matériaux et véhicules qui ont servi à commettre l'infraction ou ont été utilisés à cette occasion.
+
+La saisie est levée de plein droit par le jugement mettant fin aux poursuites lorsqu'il est passé en force de chose jugée ou, le cas échéant, par l'ordonnance de non-lieu ou le classement sans suite.

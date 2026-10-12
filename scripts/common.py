@@ -22,7 +22,9 @@ _lock = threading.Lock()
 _last = [0.0]
 # Justel sits behind a BigIP that answers 429 (Retry-After: 10) above roughly 0.6 request/s
 # per client: keep a global minimum spacing between request starts (seconds).
-MIN_INTERVAL = float(os.environ.get("JUSTEL_INTERVAL", "1.8"))
+MIN_INTERVAL = float(os.environ.get("JUSTEL_INTERVAL", "2.0"))
+COOLDOWN = 900  # seconds to pause when 429s keep coming
+_recent429: list[float] = []
 
 
 def session() -> requests.Session:
@@ -59,8 +61,15 @@ def http(method: str, url: str, data=None, params=None, tries: int = 6, check=No
                 err = f"unexpected page ({len(txt)} bytes)"
             elif r.status_code == 429:
                 pause = int(r.headers.get("Retry-After", "10") or 10) + 20
+                now = time.monotonic()
                 with _lock:  # make every thread back off
-                    _last[0] = max(_last[0], time.monotonic() + pause)
+                    _recent429[:] = [t for t in _recent429 if now - t < 600] + [now]
+                    if len(_recent429) >= 5:
+                        # sustained throttling: the BigIP recovers after a longer pause
+                        pause = COOLDOWN
+                        _recent429.clear()
+                        print(f"cooldown {COOLDOWN}s", file=sys.stderr, flush=True)
+                    _last[0] = max(_last[0], now + pause)
                 err = "HTTP 429"
             else:
                 err = f"HTTP {r.status_code}"
