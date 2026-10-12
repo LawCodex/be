@@ -1,0 +1,55 @@
+---
+title: "Loi du 5 décembre 1974 relative au [paiement d'un droit] d'inscription [sur la liste des candidats ainsi qu']aux examens et concours organisés par le Secrétariat permanent au recrutement <L 1981-07-02/01, art. 80, En vigueur : 08-07-1981>."
+identifier: "1974120509"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1974/12/05/1974120509/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1974-12-05
+published: 1974-12-13
+entry_into_force: 1974-12-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1974/12/05/1974120509/justel"
+retrieved: 2026-10-12
+---
+
+# 5 DECEMBRE 1974. - Loi du 5 décembre 1974 relative au [paiement d'un droit] d'inscription [sur la liste des candidats ainsi qu']aux examens et concours organisés par le Secrétariat permanent au recrutement &lt;L 1981-07-02/01, art. 80, En vigueur : 08-07-1981&gt;.
+
+BAUDOUIN, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+Le Roi peut subordonner à un droit d'inscription (l'inscription sur les listes des candidats), la participation aux examens et concours qu'organise le Secrétaire permanent au recrutement ou l'autorité à laquelle il donne délégation à cette fin. Il détermine le montant et les modalités de paiement de ce droit. &lt;L 1981-07-02/01, art. 80, En vigueur : 08-07-1981&gt;
+
+## Art. 2
+
+La loi du 29 mars 1953 relative aux examens et concours organisés par les administrations de l'Etat est abrogée.
+
+## Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge. Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 5 décembre 1974.
+
+BAUDOUIN
+
+Par le Roi :
+
+Le Premier Ministre,
+
+L. TINDEMANS
+
+Le Secrétaire d'Etat à la Fonction publique,
+
+L. D'HAESELEER
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+H. VANDEPOORTEN

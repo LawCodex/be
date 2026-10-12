@@ -1,0 +1,28 @@
+---
+title: "LOI portant approbation des actes internationaux suivants : 1. Traité sur la non-prolifération des armes nucléaires, fait à Londres, Moscou et Washington le 1er juillet 1968; 2. Accord entre le Royaume de Belgique, le Royaume de Danemark, la République fédérale d'Allemagne, l'Irlande, la République italienne, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas, la Communauté européenne de l'Energie atomique et l'Agence internationale de l'Energie atomiques en application des paragraphes 1 et 4 de l'article III du Traité sur la non-prolifération des armes nucléaires, signé à Bruxelles le 5 avril 1973"
+identifier: "1975031451"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1975/03/14/1975031451/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1975-03-14
+published: 1975-11-20
+entry_into_force: 1975-11-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1975/03/14/1975031451/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
+retrieved: 2026-10-12
+---
+
+# 14 MARS 1975. - LOI portant approbation des actes internationaux suivants : 1. Traité sur la non-prolifération des armes nucléaires, fait à Londres, Moscou et Washington le 1er juillet 1968; 2. Accord entre le Royaume de Belgique, le Royaume de Danemark, la République fédérale d'Allemagne, l'Irlande, la République italienne, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas, la Communauté européenne de l'Energie atomique et l'Agence internationale de l'Energie atomiques en application des paragraphes 1 et 4 de l'article III du Traité sur la non-prolifération des armes nucléaires, signé à Bruxelles le 5 avril 1973
+
+## Art. 1
+
+Article unique. Les actes internationaux suivants :
+
+1\. Traité sur la non-prolifération des armes nucléaires, fait à Londres, Moscou et Washington le 1er juillet 1968;
+
+2\. Accord entre le Royaume de Belgique, le Royaume de Danemark, la République Fédérale d'Allemagne, l'Irlande, la République Italienne, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas, la Communauté européenne de l'Energie atomique et l'Agence internationale de l'Energie atomique en application des paragraphes 1 et 4 de l'article III du Traité sur la non-prolifération des armes nucléaires, signé à Bruxelles le 5 avril 1973,
+
+sortiront leur plein et entier effet.
