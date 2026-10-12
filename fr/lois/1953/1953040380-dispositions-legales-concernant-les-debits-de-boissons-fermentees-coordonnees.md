@@ -1,0 +1,1077 @@
+---
+title: "DISPOSITIONS LEGALES concernant les débits de boissons fermentées, coordonnées le 3 avril 1953. (NOTE 1 : le taux d'imposition des taxes prévues au chapitre III, comprenant les articles 8 à 25ter, au chapitre IV, comprenant l'article 26, et au chapitre V, comprenant l'article 27, est fixé à zéro euro pour la Région de Bruxelles-Capitale ; voir ORD 2002-01-10/45, art. 2 ; En vigueur : 01-01-2002) (NOTE 2 : le taux d'imposition des taxes prévues au chapitre III, comprenant les articles 8 à 25ter, au chapitre IV, comprenant l'article 26, et au chapitre V, comprenant l'article 27, est fixé à zéro euro pour la Région wallonne ; voir DRW 2006-11-23/31 , art. 1, En vigueur : 29-11-2006) (NOTE 3 : loi modifiée avec effet à une date indéterminée <L 2007-04-25/38 , art. 5 à 8, 010; En vigueur : indéterminée >) (NOTE 4: en ce qui concerne les modifications apportées par DRW 2009-12-10/27 ; voir dispositions transitoires : art. 103, alinéas 2 à 5)"
+identifier: "1953040380"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1953/04/03/1953040380/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1953-04-03
+published: 1953-04-04
+entry_into_force: 1953-04-14
+last_amended: 2016-05-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1953/04/03/1953040380/justel"
+justel_note: "Consultation des versions antérieures à partir du 31-05-2001 et mise à jour au 06-05-2016"
+retrieved: 2026-10-12
+---
+
+# 3 AVRIL 1953. - DISPOSITIONS LEGALES concernant les débits de boissons fermentées, coordonnées le 3 avril 1953. (NOTE 1 : le taux d'imposition des taxes prévues au chapitre III, comprenant les articles 8 à 25ter, au chapitre IV, comprenant l'article 26, et au chapitre V, comprenant l'article 27, est fixé à zéro euro pour la Région de Bruxelles-Capitale ; voir ORD 2002-01-10/45, art. 2 ; En vigueur : 01-01-2002) (NOTE 2 : le taux d'imposition des taxes prévues au chapitre III, comprenant les articles 8 à 25ter, au chapitre IV, comprenant l'article 26, et au chapitre V, comprenant l'article 27, est fixé à zéro euro pour la Région wallonne ; voir DRW 2006-11-23/31 , art. 1, En vigueur : 29-11-2006) (NOTE 3 : loi modifiée avec effet à une date indéterminée &lt;L 2007-04-25/38 , art. 5 à 8, 010; En vigueur : indéterminée &gt;) (NOTE 4: en ce qui concerne les modifications apportées par DRW 2009-12-10/27 ; voir dispositions transitoires : art. 103, alinéas 2 à 5)
+
+## CHAPITRE I. - Personnes déchues du droit de tenir un débit de boissons.
+
+### Art. 1
+
+&lt;L 06-07-1967, art. 1&gt; (Sous réserve de l'article 634, alinéa 1er, du Code d'instruction criminelle, ne peuvent être,) débitants de boissons fermentées à consommer sur place, au sens des présentes lois coordonnées, soit par eux-mêmes, soit par personnes interposée : &lt;L 2005-07-20/32, art. 14, 008; En vigueur : 07-08-2005&gt;
+
+1° ceux qui n'ont pas acquitté la totalité de leurs taxes d'ouverture ou taxes quinquennales sur les débits de boissons fermentées, établies conformément aux dispositions des présentes lois coordonnées.
+
+Cette déchéance est levée à partir du paiement de ces impositions, une nouvelle taxe d'ouverture étant due pour les débits rouverts après avoir été fermés pendant un an au moins;
+
+2° ceux qui ont été condamnés à une peine criminelle;
+
+3° ceux qui ont été condamnés pour une des infractions prévues aux chapitres IV, V, VI et VII du titre VII du livre II du Code pénal;
+
+4° ceux qui ont été condamnés pour recel;
+
+5° ceux qui ont été condamnés soit pour tenue d'une maison de jeux, soit pour acceptation illicite de paris sur courses de chevaux, soit pour tenue d'une agence de paris autres que sur courses de chevaux;
+
+6° ceux qui ont été condamnés trois fois pour avoir débité des boissons spiritueuses;
+
+7° ceux qui tombent sous le coup de l'article 4 de la loi du 10 juin 1947, concernant les accises et les douanes;
+
+8° ceux qui tiennent ou ont tenu une maison de débauche ou un établissement de prostitution clandestine; la déchéance est encourue dès que le fait de tenir une telle maison ou un tel établissement est établi par une décision du collège des bourgmestre et échevins prise avant le 24 septembre 1948 ou par une décision judiciaire;
+
+9° ceux qui exploitent leur débit dans un immeuble où est installé un bureau de placement, d'affrètement ou d'embauchage, sauf si ce bureau n'a d'autre voie d'accès au débit que la voie publique;
+
+10° les incapables, (...). &lt;L 2001-04-29/39, art. 84, 002; En vigueur : 01-08-2001&gt;
+
+Cette interdiction n'est pas applicable si le débit est en fait exploité par un représentant de la personne incapable.
+
+### Art. 2
+
+&lt;L 06-07-1967, art. 2&gt; § 1. (Sous réserve de l'article 634, alinéa 1er, du Code d'instruction criminelle, ne peuvent participer,) d'une manière quelconque, à l'exploitation d'un débit de boissons fermentées à consommer sur place : &lt;L 2005-07-20/32, art. 15, 008; En vigueur : 07-08-2005&gt;
+
+1° à titre de gérants ou préposés, au sens des présentes lois coordonnées, ceux qui se trouvent dans l'un des cas prévus à l'article 1er, 1° à 10°;
+
+2° à tout autre titre, ceux qui se trouvent dans l'un des cas prévus à l'article 1er, 2° à 9°;
+
+On entend par gérant ou préposé, la personne qui tient un débit dont le débitant est commettant au sens de l'article 21 ou 22.
+
+§ 2. Aussi longtemps que des personnes frappées d'exclusion en vertu du § 1er participent à l'exploitation d'un débit de boissons fermentées à consommer sur place, le débitant lui-même est déchu du droit de tenir ledit débit.
+
+### Art. 3
+
+&lt;L 06-07-1967, art. 3&gt; Les personnes morales ne peuvent être débitant de boissons fermentées à consommer sur place au sens des présentes lois coordonnées, ni participer à l'exploitation d'un débit de ces boissons :
+
+1° lorsqu'elles se trouvent dans l'un des cas prévus à l'article 1er, 1° et 9°;
+
+2° lorsqu'un de leurs organes ou de leurs représentants se trouvant dans l'un des cas prévus à l'article 1er, 2° à 10°, est chargé d'accomplir les obligations légales imposées par les présentes lois coordonnées ou intervient d'une manière quelconque dans l'exploitation d'un débit de boissons fermentées à consommer sur place.
+
+### Art. 4
+
+§ 1. Les dispositions de l'article 1er, 2°, 3° et 8°, ne sont pas applicables aux débitants établis avant le 14 décembre 1912, à raison des condamnations qu'ils auraient encourues ou des établissements qu'ils auraient tenus antérieurement à cette date.
+
+§ 2. Les dispositions de l'article 1er, 4° et 6° ne sont pas applicables aux débitants établis avant le 11 septembre 1919, à raison des condamnations qu'ils auraient encourues du chef de poursuites entamées avant cette même date.
+
+§ 3. Les dispositions de l'article 1er, 5°, ne sont pas applicables aux condamnations prononcées antérieurement au 1er janvier 1925 pour tenue d'une maison de jeux ou d'une agence de paris. Elles ne sont pas non plus applicables aux débitants établis avant le 2 avril 1953, à raison des condamnations qu'ils auraient encourues du chef de poursuites entamées avant cette dernière date pour acceptation illicite de paris sur courses de chevaux.
+
+§ 4. Les condamnations conditionnelles pour un des faits énumérés à l'article 1er, 2° à 5°, n'entraînent l'interdiction prévue aux articles 1er et 2, que si elles sont rendues définitives par une condamnation nouvelle pour crime ou délit encourue pendant le temps de l'épreuve.
+
+§ 5. Les condamnations visées à l'article 1er, 3° et 4°, n'entraînent l'interdiction prévue aux articles 1er et 2, que si les intéressés ont été condamnés à une amende supérieure à (50 EUR) ou à une peine d'emprisonnement prononcée autrement qu'à titre subsidiaire. &lt;L 2002-06-26/47, art. 5, 007; En vigueur : 01-01-2002&gt;
+
+## CHAPITRE II.
+
+&lt;Abrogé par L 2007-04-25/38, art. 5, 013; En vigueur : 20-05-2024&gt;
+
+### Art. 5
+
+&lt;Abrogé par L 2007-04-25/38, art. 5, 013; En vigueur : 20-05-2024&gt;
+
+### Art. 6
+
+&lt;Abrogé par L 2007-04-25/38, art. 5, 013; En vigueur : 20-05-2024&gt;
+
+### Art. 7
+
+&lt;Abrogé par L 2007-04-25/38, art. 5, 013; En vigueur : 20-05-2024&gt;
+
+## CHAPITRE III. - Taxe d'ouverture des débits de boissons fermentées.
+
+### Art. 8
+
+Il est établi une taxe d'ouverture des débits de boissons fermentées.
+
+### Art. 9
+
+&lt;L 06-07-1967, art. 5&gt; § 1. La taxe d'ouverture est due par tout nouveau débitant. Sans préjudice à l'article 15, elle est fixée à trois fois le montant de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, à l'exclusion des locaux ou parties de locaux nettement séparées servant uniquement à l'habitation ou à d'autres usages, sans que la taxe puisse être inférieure à :
+
+3 000 francs dans les hameaux, communes ou agglomérations n'ayant pas plus de 5 000 habitants;
+
+4 000 francs dans les communes ou agglomérations ayant plus de 5 000 jusqu'à 15 000 habitants;
+
+5 000 francs dans les communes ou agglomérations ayant plus de 15 000 jusqu'à 30 000 habitants;
+
+7 500 francs dans les communes ou agglomérations ayant plus de 30 000 jusqu'à 60 000 habitants;
+
+10 000 francs dans les communes ou agglomérations de plus de, 60 000 habitants.
+
+§ 2. On entend par " locaux affectés au débit ", tout endroit, même s'il est situé en plein air, où un débitant vend, offre ou laisse consommer des boissons fermentées, ainsi que les locaux et les caves servant de lieu de dépôt de ces boissons.
+
+§ 3. La taxe est fixée uniformément à :
+
+1° 5 000 francs pour les débits ambulants;
+
+2° 200 francs par journée d'exploitation pour les débits occasionnels.
+
+La taxe fixée au 2°, couvre l'exploitation pendant une période ininterrompue de vingt-quatre heures à compter de l'ouverture du débit. Elle est due en entier pour chaque journée commencée.
+
+(NOTE : Article 9 valable pour la Communauté flamande :
+
+Art. 9. &lt;L 06-07-1967, art. 5&gt; § 1. La taxe d'ouverture est due par tout nouveau débitant. Sans préjudice à l'article 15, elle est fixée à trois fois le montant de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, à l'exclusion des locaux ou parties de locaux nettement séparées servant uniquement à l'habitation ou à d'autres usages, sans que la taxe puisse être inférieure à :
+
+(74,00 EUR) dans les hameaux, communes ou agglomérations n'ayant pas plus de 5 000 habitants; &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+(99,00 EUR) dans les communes ou agglomérations ayant plus de 5 000 jusqu'à 15 000 habitants; &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+(123,00 EUR) dans les communes ou agglomérations ayant plus de 15 000 jusqu'à 30 000 habitants; &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+(185,00 EUR) dans les communes ou agglomérations ayant plus de 30 000 jusqu'à 60 000 habitants; &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+(247,00 EUR) dans les communes ou agglomérations de plus de, 60 000 habitants. &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+§ 2. On entend par " locaux affectés au débit ", tout endroit, même s'il est situé en plein air, où un débitant vend, offre ou laisse consommer des boissons fermentées, ainsi que les locaux et les caves servant de lieu de dépôt de ces boissons.
+
+§ 3. La taxe est fixée uniformément à :
+
+1° (123,00 EUR) pour les débits ambulants; &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+2° (4,90 EUR) par journée d'exploitation pour les débits occasionnels. &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+La taxe fixée au 2°, couvre l'exploitation pendant une période ininterrompue de vingt-quatre heures à compter de l'ouverture du débit. Elle est due en entier pour chaque journée commencée.)
+
+(NOTE : Article 9 valable pour la Région wallonne :
+
+Art. 9. L 06-07-1967, art. 5&gt; § 1. La taxe d'ouverture est due par tout nouveau débitant. Sans préjudice à l'article 15, elle est fixée à trois fois le montant de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, à l'exclusion des locaux ou parties de locaux nettement séparées servant uniquement à l'habitation ou à d'autres usages, sans que la taxe puisse être inférieure à :
+
+(74,00 EUR) dans les hameaux, communes ou agglomérations n'ayant pas plus de 5 000 habitants; &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+(99,00 EUR) dans les communes ou agglomérations ayant plus de 5 000 jusqu'à 15 000 habitants; &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+(123,00 EUR) dans les communes ou agglomérations ayant plus de 15 000 jusqu'à 30 000 habitants; &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+(185,00 EUR) dans les communes ou agglomérations ayant plus de 30 000 jusqu'à 60 000 habitants; &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+(247,00 EUR) dans les communes ou agglomérations de plus de, 60 000 habitants. &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+§ 2. On entend par " locaux affectés au débit ", tout endroit, même s'il est situé en plein air, où un débitant vend, offre ou laisse consommer des boissons fermentées, ainsi que les locaux et les caves servant de lieu de dépôt de ces boissons.
+
+§ 3. La taxe est fixée uniformément à :
+
+1° (123,00 EUR) pour les débits ambulants; &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+2° (4,90 EUR) par journée d'exploitation pour les débits occasionnels. &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+La taxe fixée au 2°, couvre l'exploitation pendant une période ininterrompue de vingt-quatre heures à compter de l'ouverture du débit. Elle est due en entier pour chaque journée commencée.)
+
+(NOTE : Article 9 valable pour la Région de Bruxelles-Capitale :
+
+Art. 9. &lt;L 06-07-1967, art. 5&gt; § 1. La taxe d'ouverture est due par tout nouveau débitant. Sans préjudice à l'article 15, elle est fixée à trois fois le montant de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, à l'exclusion des locaux ou parties de locaux nettement séparées servant uniquement à l'habitation ou à d'autres usages, sans que la taxe puisse être inférieure à :
+
+(74,00 EUR) dans les hameaux, communes ou agglomérations n'ayant pas plus de 5 000 habitants; &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+(99,00 EUR) dans les communes ou agglomérations ayant plus de 5 000 jusqu'à 15 000 habitants; &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+(123,00 EUR) dans les communes ou agglomérations ayant plus de 15 000 jusqu'à 30 000 habitants; &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+(185,00 EUR) dans les communes ou agglomérations ayant plus de 30 000 jusqu'à 60 000 habitants; &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+(247,00 EUR) dans les communes ou agglomérations de plus de, 60 000 habitants. &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+§ 2. On entend par " locaux affectés au débit ", tout endroit, même s'il est situé en plein air, où un débitant vend, offre ou laisse consommer des boissons fermentées, ainsi que les locaux et les caves servant de lieu de dépôt de ces boissons.
+
+§ 3. La taxe est fixée uniformément à :
+
+1° (123,00 EUR) pour les débits ambulants; &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+2° (4,90 EUR) par journée d'exploitation pour les débits occasionnels. &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+La taxe fixée au 2°, couvre l'exploitation pendant une période ininterrompue de vingt-quatre heures à compter de l'ouverture du débit. Elle est due en entier pour chaque journée commencée.)
+
+### Art. 10
+
+La valeur locative réelle est celle qui résulte de baux, quittances de loyer ou autres documents reconnus sincères et normaux.
+
+### Art. 11
+
+Par valeur locative présumée, il faut entendre le rendement locatif possible - loyer et autres avantages - des débits non loués ou loués anormalement, ainsi que des débits dont les locaux ne constituent qu'une partie seulement de l'immeuble pris en location par le débitant.
+
+(La valeur locative présumée des locaux affectés au débit est établie par comparaison avec la valeur locative réelle d'autres débits de situation et de rendement locatif analogues ou par ventilation de la valeur locative réelle de l'immeuble ou de la partie d'immeuble pris en location par le débitant. Cette valeur locative présumée est fixée par le [<sup>2</sup> conseiller]<sup>2</sup> du ressort qui consulte, au préalable, un indicateur-expert désigné par l'administration communale.) &lt;L 06-07-1967, art. 6&gt;
+
+Art. 11. (Région wallonne)
+
+Par valeur locative présumée, il faut entendre le rendement locatif possible - loyer et autres avantages - des débits non loués ou loués anormalement, ainsi que des débits dont les locaux ne constituent qu'une partie seulement de l'immeuble pris en location par le débitant.
+
+(La valeur locative présumée des locaux affectés au débit est établie par comparaison avec la valeur locative réelle d'autres débits de situation et de rendement locatif analogues ou par ventilation de la valeur locative réelle de l'immeuble ou de la partie d'immeuble pris en location par le débitant. Cette valeur locative présumée est fixée par [<sup>1</sup> le fonctionnaire désigné par le Gouvernement wallon]<sup>1</sup> qui consulte, au préalable, un indicateur-expert désigné par l'administration communale.) &lt;L 06-07-1967, art. 6&gt;
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 90, 011; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2016-04-27/04, art. 107, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 12
+
+La population à considérer pour l'application de l'article 9 est celle constatée par le dernier recensement décennal publié avant l'année d'exigibilité de la taxe.
+
+### Art. 13
+
+Le Roi détermine les communes ou parties de communes qui constituent une agglomération pour l'application de l'article 9.
+
+### Art. 14
+
+Le Ministre des Finances désigne les hameaux où la taxe de 3 000 francs est applicable.
+
+(NOTE : Article 14 valable pour la Communauté flamande :
+
+Art. 14. Le Ministre des Finances désigne les hameaux où la taxe de (74,00 EUR) est applicable. &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;)
+
+(NOTE : Article 14 valable pour la Région wallonne :
+
+Art. 14. Le Ministre des Finances désigne les hameaux où la taxe de (74,00 EUR) est applicable. &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;)
+
+(NOTE : Article 14 valable pour la Région de Bruxelles-Capitale :
+
+Art. 14. Le Ministre des Finances désigne les hameaux où la taxe de (74,00 EUR) est applicable. &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;)
+
+### Art. 15
+
+&lt;L 06-07-1967, art. 7&gt; La taxe visée à l'article 9, § 1er, est réduite au tiers lorsque le nouveau débitant tombe sous l'application de l'article 19, 2° ou 3° et que le dernier exploitant du débit existant qu'il reprend déclare, par écrit, renoncer à ce prévaloir des dispositions de l'article 20, § 1er, 4°, ou est décédé.
+
+### Art. 16
+
+&lt;L 06-07-1967, art. 8&gt; § 1. Un supplément de taxe est dû en cas d'agrandissement des locaux affectés au débit.
+
+§ 2. Par " agrandissement " il y a lieu d'entendre toute modification - y compris l'adjonction de nouveaux locaux, tels qu'ils sont définis à l'article 9, § 2 - de nature à augmenter la superficie totale affectée au débit.
+
+§ 3. Le supplément est calculé en fonction de la majoration de valeur locative annuelle résultant de l'agrandissement, cette majoration étant fixée par le [<sup>2</sup> conseiller]<sup>2</sup> conformément aux règles indiquées à l'article 11.
+
+Toutefois, aucun supplément n'est dû si, compte tenu de la majoration visée à l'alinéa 1er, la valeur locative annuelle des locaux est encore inférieure au tiers du minimum de la taxe dans la commune considérée.
+
+§ 4. Pour les débits ne tombant pas sous l'application de la taxe quinquennale instaurée par l'article 26, le supplément s'élève à trois fois la majoration de valeur locative annuelle.
+
+§ 5. Pour les débits donnant lieu à la perception de la taxe quinquennale instaurée par l'article 26, le supplément est calculé :
+
+1° lorsque l'agrandissement se situe au cours de la période de quinze ans couverte par la taxe d'ouverture, de la manière prévue au § 4, mais au prorata du nombre de mois entiers restant à courir entre le moment de l'agrandissement et celui où la période de quinze ans viendra à expiration;
+
+2° lorsque l'agrandissement se situe après la période visée au 1°, à raison de la moitié de la majoration de valeur locative annuelle et au prorata du nombre de mois entiers restant à courir entre le moment de l'agrandissement et celui où sera due la prochaine taxe quinquennale.
+
+Art. 16. (Région wallonne)
+
+&lt;L 06-07-1967, art. 8&gt; § 1. Un supplément de taxe est dû en cas d'agrandissement des locaux affectés au débit.
+
+§ 2. Par " agrandissement " il y a lieu d'entendre toute modification - y compris l'adjonction de nouveaux locaux, tels qu'ils sont définis à l'article 9, § 2 - de nature à augmenter la superficie totale affectée au débit.
+
+§ 3. Le supplément est calculé en fonction de la majoration de valeur locative annuelle résultant de l'agrandissement, cette majoration étant fixée par [<sup>1</sup> le fonctionnaire désigné par le Gouvernement wallon]<sup>1</sup> conformément aux règles indiquées à l'article 11.
+
+Toutefois, aucun supplément n'est dû si, compte tenu de la majoration visée à l'alinéa 1er, la valeur locative annuelle des locaux est encore inférieure au tiers du minimum de la taxe dans la commune considérée.
+
+§ 4. Pour les débits ne tombant pas sous l'application de la taxe quinquennale instaurée par l'article 26, le supplément s'élève à trois fois la majoration de valeur locative annuelle.
+
+§ 5. Pour les débits donnant lieu à la perception de la taxe quinquennale instaurée par l'article 26, le supplément est calculé :
+
+1° lorsque l'agrandissement se situe au cours de la période de quinze ans couverte par la taxe d'ouverture, de la manière prévue au § 4, mais au prorata du nombre de mois entiers restant à courir entre le moment de l'agrandissement et celui où la période de quinze ans viendra à expiration;
+
+2° lorsque l'agrandissement se situe après la période visée au 1°, à raison de la moitié de la majoration de valeur locative annuelle et au prorata du nombre de mois entiers restant à courir entre le moment de l'agrandissement et celui où sera due la prochaine taxe quinquennale.
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 91, 011; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2016-04-27/04, art. 108, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 17
+
+&lt;L 06-07-1967, art. 9&gt; § 1. Est considéré comme débitant, quiconque vend, ne fût-ce qu'une fois, des boissons fermentées à consommer sur place.
+
+Est assimilé au fait de vendre, le fait d'offrir ou de laisser consommer semblables boissons dans un endroit accessible au public. Sont assimilés aux endroits accessibles au public, les locaux où les membres d'une association ou d'un groupement se réunissent uniquement ou principalement, en vue de consommer des boissons spiritueuses ou fermentées ou de se livrer à des jeux de hasard.
+
+§ 2. Toutefois, ne sont pas considérés comme débits de boissons :
+
+1° les hôtels, les maisons de pension, les restaurants et autres établissements analogues, pour autant que des boissons fermentées n'y soient pas servies sans repas;
+
+2° les cercles privés proprement dits, c'est-à-dire ceux dont l'accès est réglementé et qui ne sont ni constitués ni fréquentés uniquement ou principalement en vue de consommer des boissons spiritueuses ou fermentées ou de se livrer à des jeux de hasard;
+
+3° les maisons de pension exclusivement accessibles aux seuls pensionnaires;
+
+4° les mess et cantines de l'armée, de la gendarmerie et des autres services publics, ainsi que des établissements d'enseignement;
+
+5° les cantines et les restaurants d'usines, d'ateliers, de banques et d'autres établissements, pour autant que ces cantines et restaurants ne soient accessibles qu'aux seuls membres du personnel pendant les heures où celui-ci peut interrompre son travail;
+
+6° les auberges de jeunesse et les maisons de jeunes dont l'accès est réservé aux seuls affiliés.
+
+On entend par repas, pour l'application du 1°, les plats chauds ou froids, les sandwiches, petits pains et tartines, à l'exclusion des pâtisseries, des biscuits et des morceaux de fromage ou de charcuterie servis éventuellement avec des boissons fermentées.
+
+### Art. 18
+
+&lt;L 06-07-1967, art. 10&gt; § 1. On entend par débits ambulants ceux qui sont tenus dans des barques, bateaux, voitures de chemin de fer ou autres, dans les loges foraines, échoppes, tentes ou autres installations transportées habituellement de localité en localité.
+
+Sont soumis à la taxe fixée pour les débits ambulants, les appareils à sous qui distribuent automatiquement des boissons fermentées, à moins que ces appareils ne soient exploités, pour le compte d'un débitant de boissons fermentées régulièrement établi, dans un local déclaré comme étant affecté au débit de boissons de l'espèce.
+
+§ 2. On entend par débits occasionnels ceux qui sont préalablement déclarés comme tels et qui, à l'occasion d'événements passagers de toute nature, sont tenus au maximum dix fois par an - chaque fois pendant une période ne dépassant pas quinze jours consécutifs - par un des cercles, sociétés ou associations particulières visés à l'article 22 ne pouvant justifier, pour l'exploitation de ces débits, du paiement de la taxe d'ouverture fixée par l'article 9, § 1er ou § 3, 1°.
+
+Les débits tenus dans les expositions et les foires commerciales sont également réputés occasionnels. Toutefois, ces débits peuvent être exploités par toute personne et pendant toute la durée de la foire ou de l'exposition.
+
+### Art. 19
+
+&lt;L 06-07-1967, art. 11&gt; Est considéré comme nouveau débitant :
+
+1° celui qui commence l'exploitation d'un débit ailleurs que dans un débit existant sauf les cas visés à l'article 20, § 1er, 4° b et c;
+
+2° celui qui, ne pouvant se prévaloir des dispositions de l'article 20, § 1er, reprend un débit existant;
+
+3° celui dont le débit est continué en exemption de la taxe d'ouverture dans l'un des cas prévus à l'article 20, § 1er, 1° à 3°, et qui reprend un autre débit existant.
+
+On entend par débit existant, le débit régulièrement déclaré qui est en exploitation ou dont les locaux sont fermés depuis moins d'un an sans avoir reçu une autre destination et sans avoir fait l'objet d'un transfert dans les conditions prévues à l'article 20, § 1er, 4°, b ou c.
+
+### Art. 20
+
+&lt;L 06-07-1967, art. 12&gt; § 1. N'est pas considéré comme nouveau débitant :
+
+1° celui qui continue, dans le même local, le débit tenu par son conjoint;
+
+2° celui qui continue, dans le même local, le débit tenu soit par son père, sa mère ou autre ascendant, soit par son descendant;
+
+3° celui qui, ayant fait partie d'une société de fait, au profit de laquelle le débit était exploité, continue ce débit, dans le même local pour son compte personnel;
+
+4° sous réserve des dispositions des §§ 2 et 3, celui qui, étant débitant ou ayant cessé de l'être depuis moins d'un an, transporte son débit :
+
+a) dans un local qui est à considérer comme débit existant au sens de l'article 19, alinéa 2;
+
+b) dans un local qui n'est pas à considérer comme débit existant au sens de l'article 19, alinéa 2, si ce local est affecté à usage de débit par le propriétaire, l'emphytéote ou l'usufruitier de l'immeuble ou était installé un débit supprimé, pour autant que l'ouverture se fasse dans l'année de cette suppression;
+
+c) dans un local qui n'est pas à considérer comme débit existant au sens de l'article 19, alinéa 2, s'il quitte un débit installé dans un immeuble acquis ou exproprié pour cause d'utilité publique et dont il n'est pas propriétaire, emphytéote ou usufruitier;
+
+5° celui auquel un brasseur ou un marchand de boissons cède sa brasserie ou son fonds de commerce avec les débits qui en dépendent, ou la société à laquelle il est fait apport d'une brasserie ou du fonds de commerce d'un marchand de boissons avec les débits qui en dépendent.
+
+§ 2. Lorsque dans les cas visés au § 1er, 4° la taxe d'ouverture afférente au débit repris ou ouvert en remplacement du débit qu'on y transporte est supérieure à celle afférente à ce dernier débit, un supplément de taxe d'ouverture égal au montant de la taxe différence entre ces deux taxes est exigible.
+
+Toutefois, dans l'éventualité prévue à l'article 26, § 3, 2°, le supplément est calculé :
+
+1° lorsque la réouverture se situe au cours de la période de quinze ans couverte par la taxe d'ouverture : de la manière prévue au premier alinéa, mais au prorata du nombre de mois entiers restant à courir entre le moment de cette réouverture et celui où la période de quinze ans viendra à expiration;
+
+2° lorsque la réouverture se situe après la période visée au 1° : à raison d'un sixième de la différence entre la taxe d'ouverture du débit repris et celle afférente au débit transporté, mais au prorata du nombre de mois entiers restant à courir entre le moment de cette réouverture et celui ou sera due la prochaine taxe quinquennale.
+
+Le supplément visé à l'alinéa 1er lorsqu'il s'agit d'un cas d'application du § 1er, 4°, a de même que le supplément visé à l'alinéa 2, 1°, sont réduits au tiers si le dernier exploitant du débit repris déclare, par écrit, renoncer à se prévaloir du § 1er, 4°, ou est décédé.
+
+§ 3. Pour établir la différence de taxe d'ouverture donnant lieu à la perception du supplément visé au § 2, il est tenu compte :
+
+1° en ce qui concerne le débit fermé, supprimé ou exproprié et le débit repris dans le cas du § 1er, 4°, a : soit de la valeur locative - y compris la majoration résultant d'un agrandissement éventuel - qui en dernier lieu, a servi de base à la perception de la taxe d'ouverture ou de la taxe quinquennale instaurée par l'article 26, soit du minimum de la taxe d'ouverture applicable en vertu de l'article 9, § 1er;
+
+2° en ce qui concerne le local ouvert dans les cas du § 1er, 4°, b et c : soit de la valeur locative fixée par le [<sup>2</sup> conseiller]<sup>2</sup> conformément à l'article 11, soit du minimum de la taxe d'ouverture applicable en vertu de l'article 9, § 1er.
+
+§ 4. Dans l'éventualité où, à la suite de circonstances indépendantes de la volonté de l'intéressé, un débitant se trouvant dans les conditions prévues au § 1er, 4°, b ou c, n'a pu transporter son débit dans le délai d'un an à compter de la date de la cessation de l'exploitation, [<sup>2</sup> l'administrateur général des douanes et accises]<sup>2</sup> peut décider que ce délai soit prolongé pour le temps strictement nécessaire.
+
+Art. 20. (Région wallonne)
+
+&lt;L 06-07-1967, art. 12&gt; § 1. N'est pas considéré comme nouveau débitant :
+
+1° celui qui continue, dans le même local, le débit tenu par son conjoint;
+
+2° celui qui continue, dans le même local, le débit tenu soit par son père, sa mère ou autre ascendant, soit par son descendant;
+
+3° celui qui, ayant fait partie d'une société de fait, au profit de laquelle le débit était exploité, continue ce débit, dans le même local pour son compte personnel;
+
+4° sous réserve des dispositions des §§ 2 et 3, celui qui, étant débitant ou ayant cessé de l'être depuis moins d'un an, transporte son débit :
+
+a) dans un local qui est à considérer comme débit existant au sens de l'article 19, alinéa 2;
+
+b) dans un local qui n'est pas à considérer comme débit existant au sens de l'article 19, alinéa 2, si ce local est affecté à usage de débit par le propriétaire, l'emphytéote ou l'usufruitier de l'immeuble ou était installé un débit supprimé, pour autant que l'ouverture se fasse dans l'année de cette suppression;
+
+c) dans un local qui n'est pas à considérer comme débit existant au sens de l'article 19, alinéa 2, s'il quitte un débit installé dans un immeuble acquis ou exproprié pour cause d'utilité publique et dont il n'est pas propriétaire, emphytéote ou usufruitier;
+
+5° celui auquel un brasseur ou un marchand de boissons cède sa brasserie ou son fonds de commerce avec les débits qui en dépendent, ou la société à laquelle il est fait apport d'une brasserie ou du fonds de commerce d'un marchand de boissons avec les débits qui en dépendent.
+
+§ 2. Lorsque dans les cas visés au § 1er, 4° la taxe d'ouverture afférente au débit repris ou ouvert en remplacement du débit qu'on y transporte est supérieure à celle afférente à ce dernier débit, un supplément de taxe d'ouverture égal au montant de la taxe différence entre ces deux taxes est exigible.
+
+Toutefois, dans l'éventualité prévue à l'article 26, § 3, 2°, le supplément est calculé :
+
+1° lorsque la réouverture se situe au cours de la période de quinze ans couverte par la taxe d'ouverture : de la manière prévue au premier alinéa, mais au prorata du nombre de mois entiers restant à courir entre le moment de cette réouverture et celui où la période de quinze ans viendra à expiration;
+
+2° lorsque la réouverture se situe après la période visée au 1° : à raison d'un sixième de la différence entre la taxe d'ouverture du débit repris et celle afférente au débit transporté, mais au prorata du nombre de mois entiers restant à courir entre le moment de cette réouverture et celui ou sera due la prochaine taxe quinquennale.
+
+Le supplément visé à l'alinéa 1er lorsqu'il s'agit d'un cas d'application du § 1er, 4°, a de même que le supplément visé à l'alinéa 2, 1°, sont réduits au tiers si le dernier exploitant du débit repris déclare, par écrit, renoncer à se prévaloir du § 1er, 4°, ou est décédé.
+
+§ 3. Pour établir la différence de taxe d'ouverture donnant lieu à la perception du supplément visé au § 2, il est tenu compte :
+
+1° en ce qui concerne le débit fermé, supprimé ou exproprié et le débit repris dans le cas du § 1er, 4°, a : soit de la valeur locative - y compris la majoration résultant d'un agrandissement éventuel - qui en dernier lieu, a servi de base à la perception de la taxe d'ouverture ou de la taxe quinquennale instaurée par l'article 26, soit du minimum de la taxe d'ouverture applicable en vertu de l'article 9, § 1er;
+
+2° en ce qui concerne le local ouvert dans les cas du § 1er, 4°, b et c : soit de la valeur locative fixée par [<sup>1</sup> le fonctionnaire désigné par le Gouvernement wallon]<sup>1</sup> conformément à l'article 11, soit du minimum de la taxe d'ouverture applicable en vertu de l'article 9, § 1er.
+
+§ 4. Dans l'éventualité où, à la suite de circonstances indépendantes de la volonté de l'intéressé, un débitant se trouvant dans les conditions prévues au § 1er, 4°, b ou c, n'a pu transporter son débit dans le délai d'un an à compter de la date de la cessation de l'exploitation, [<sup>1</sup> le fonctionnaire désigné par le Gouvernement wallon]<sup>1</sup> peut décider que ce délai soit prolongé pour le temps strictement nécessaire.
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 92, 011; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2016-04-27/04, art. 109, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 21
+
+&lt;L 06-07-1967, art. 13&gt; § 1. Lorsqu'un débit est tenu pour compte d'un tiers par un gérant ou préposé, le commettant est seul considéré comme débitant pour l'application de la taxe.
+
+§ 2. Sous réserve des dispositions de l'article 22, est seul considéré comme commettant, celui qui prouve ou à charge de qui il est prouvé qu'un débit de boissons fermentées est exploité pour son compte par un gérant ou préposé dont il rémunère les services d'une manière quelconque.
+
+### Art. 22
+
+&lt;L 06-07-1967, art. 14&gt; § 1. Sont également considérés comme commettants, pour autant qu'ils revendiquent cette qualité par écrit dans un document qui est contresigné par le gérant ou préposé :
+
+1° les cercles, sociétés ou associations particulières, relativement aux débits établis dans des locaux dont ils sont propriétaires, emphytéotes, usufruitiers ou principaux locataires;
+
+2° les brasseurs ou marchands de boissons, relativement aux débits tenus par d'autres personnes dans des locaux dont ils sont propriétaires, emphytéotes, usufruitiers ou principaux locataires et où sont vendues des boissons de leur fabrication ou faisant l'objet de leur commerce.
+
+Les cercles, sociétés ou associations particulières mentionnées au 1°, ne comprennent ni les sociétés commerciales, ni les sociétés de fait à but lucratif.
+
+§ 2. Les dispositions du présent article ne sont pas applicables lorsqu'il s'agit de l'exploitation d'un débit ambulant ou d'un débit occasionnel.
+
+### Art. 23
+
+&lt;L 06-07-1967, art. 15&gt; § 1. Quinze jours au moins avant de commencer son exploitation, le nouveau débitant est tenu de remettre [<sup>1</sup> à l'agent ayant au moins un titre d'attaché désigné par l'administrateur général des douanes et accises]<sup>1</sup> du ressort une déclaration indiquant avec précision la situation des locaux affectés au débit et la valeur locative réelle ou présumée de l'ensemble de ces locaux.
+
+Cette déclaration est accompagnée d'un plan - daté et signé par le déclarant - des locaux servant de débit et, selon le cas :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° d'un certificat de moralité délivré par [<sup>2</sup> l'administration communale compétente,]<sup>2</sup> qui atteste que le débitant et les personnes habitant avec lui qui pourraient participer à l'exploitation du débit, ne se trouvent pas, le premier dans l'un des cas d'exclusion prévus par l'article 1er, 2° à 10°, les seconds, dans l'un des cas d'exclusion prévus par l'article 1er, 2° à 9°.
+
+[<sup>2</sup> Le plan n'est pas requis s'il s'agit d'un débit ambulant ou d'un débit occasionnel.]<sup>2</sup>
+
+§ 2. Si le débitant est commettant au sens de l'article 21 ou 22, la déclaration doit indiquer, outre les mentions prévues au § 1er, les nom et prénoms du gérant ou préposé. Elle doit être accompagnée des documents prévus au § 1er, le certificat prévu au 2° dudit paragraphe étant remplacé par :
+
+1° un certificat attestant que le commettant ne se trouve pas dans l'un des cas d'exclusion prévus par l'article 1er, 2° à 10°;
+
+2° un certificat portant, en ce qui concerne le gérant ou préposé et les personnes habitant avec lui l'attestation prévue au § 1er, 2°.
+
+§ 3. Si le débitant est une personne morale :
+
+1° en cas d'exploitation sans l'intervention d'un gérant ou préposé, le certificat prévu au § 1er, 2°, est à produire au nom de la personne physique ou des personnes physiques chargées de l'exploitation effective du débit;
+
+2° en cas d'exploitation par l'intermédiaire d'un gérant ou préposé, le certificat prévu au § 2, 1° est à produire au nom de l'organe ou des organes de la société ou de l'association, chargés d'accomplir les obligations légales relatives au débit.
+
+§ 4. Si le débitant est une association de fait, la déclaration prévue au § 1er, doit indiquer, en outre, les nom et prénoms des personnes physiques et la dénomination sociale des personnes morales faisant partie de cette association. Les certificats de moralité sont à produire par chacune de ces personnes conformément aux §§ 1er à 3.
+
+§ 5. Si la personne déclarée comme gérant ou préposé est une personne morale, la déclaration visée au § 1er doit indiquer outre la dénomination sociale, les nom et prénoms de la personne ou des personnes physiques chargées de l'exploitation effective du débit. Dans ce cas, le certificat prescrit par le § 2, 2°, est à produire au nom de ces personnes physiques.
+
+Art. 23.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 93, 011; En vigueur : 01-01-2010&gt;
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 110, 012; En vigueur : 16-05-2016&gt;
+
+(2)&lt;L 2007-04-25/38, art. 6, 013; En vigueur : 20-05-2024&gt;
+
+### Art. 24
+
+&lt;L 06-07-1967, art. 16&gt; § 1. Le débitant qui se trouve dans l'un des cas prévus par l'article 20, § 1er, 1° à 3° et 5° est tenu d'en faire la déclaration dans les quinze jours [<sup>1</sup> à l'agent ayant au moins un titre d'attaché désigné par l'administrateur général des douanes et accises]<sup>1</sup> du ressort.
+
+Cette déclaration doit être accompagnée du ou des certificats de moralité dont il est question à l'article 23.
+
+§ 2. Le débitant qui se trouve dans l'un des cas prévus par l'article 20, § 1er, 4° est tenu d'en faire la déclaration [<sup>1</sup> à l'agent ayant au moins un titre d'attaché désigné par l'administrateur général des douanes et accises]<sup>1</sup> du ressort avant la mise en exploitation du débit.
+
+Cette déclaration doit contenir tous les renseignements permettant l'application éventuelle de l'article 20, §§ 2 et 3, en indiquant, notamment, dans les cas visés au § 1er, 4°, b et c de cet article, la valeur locative réelle ou présumée du nouveau local. Elle doit, en outre, être accompagnée :
+
+1° en cas d'application de l'article 20, § 1er, 4°, a : d'un nouveau plan du débit repris;
+
+2° en cas d'application de l'article 20, § 1er, 4°, b et c : d'un plan du nouveau local et du certificat visé à l'article 23, § 1er, 1°.
+
+§ 3. Le débitant qui procède à l'agrandissement des locaux affectés à son débit doit en faire la déclaration [<sup>1</sup> à l'agent ayant au moins un titre d'attaché désigné par l'administrateur général des douanes et accises]<sup>1</sup> du ressort dans les quinze jours suivant la fin des travaux ou, si l'agrandissement consiste en l'adjonction de nouveaux locaux, avant la mise en usage de ces locaux.
+
+Cette déclaration, qui indique avec précision la nouvelle situation des locaux affectés au débit et mentionne en outre la majoration de valeur locative résultant de l'agrandissement, est accompagnée d'un nouveau plan des locaux affectés au débit et du certificat visé à l'article 23, § 1er, 1°.
+
+Art. 24.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 93, 011; En vigueur : 01-01-2010&gt;
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 111, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 25
+
+&lt;L 06-07-1967, art. 17&gt; En cas de changement du gérant ou préposé ou, dans les éventualités visées à l'article 23, §§ 3, 1°, et 5, de la personne ou des personnes chargées de l'exploitation effective du débit, le débitant est tenu d'en faire la déclaration [<sup>1</sup> à l'agent ayant au moins un titre d'attaché désigné par l'administrateur général des douanes et accises]<sup>1</sup> du ressort avant le jour de l'entrée en fonction du nouveau tenancier.
+
+Cette déclaration est accompagnée d'un certificat de l'autorité communale portant, en ce qui concerne le nouveau tenancier et les personnes habitant avec lui, l'attestation prévue à l'article 23, § 1er, 2°.
+
+Art. 25.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 93, 011; En vigueur : 01-01-2010&gt;
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 112, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 25bis
+
+&lt;L 06-07-1967, art. 18&gt; § 1. Le débitant qui cesse l'exploitation de son débit doit, dans les quinze jours, en faire la déclaration [<sup>1</sup> à l'agent ayant au moins un titre d'attaché désigné par l'administrateur général des douanes et accises]<sup>1</sup> du ressort.
+
+§ 2. Lorsque le débitant est un commettant au sens de l'article 22, la déclaration visée au § 1er n'est recevable que si elle est contresignée par le gérant ou préposé, à moins que celui-ci n'ait cessé d'occuper les locaux du débit.
+
+Art. 25bis. (Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 93, 011; En vigueur : 01-01-2010&gt;
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 113, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 25ter
+
+&lt;L 06-07-1967, art. 19&gt; Les déclarations visées aux articles 23, 24, 25 et 25bis sont établies sur des formulaires conformes aux modèles déposes dans les offices de perception des accises.
+
+Art. 25ter. (Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 93, 011; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE IV. - Taxe quinquennale due pour certains débits de boissons fermentées.
+
+### Art. 26
+
+&lt;L 06-07-1967, art. 20&gt; § 1. A l'expiration d'un délai de quinze ans à compter du 1er janvier de l'année de l'ouverture ou de la reprise du débit, les commettants visés à l'article 22 et les débitants dotés de la personnalité juridique doivent acquitter tous les cinq ans une taxe égale à la moitié de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, sans que cette taxe puisse être inférieure au sixième des montants fixés à l'article 9, § 1er.
+
+Nonobstant toute convention contraire, cette taxe restera à charge des commettants.
+
+§ 2. Pour les débits ambulants exploités par une personne morale, la taxe quinquennale est forfaitairement fixée à (19,00 EUR) par débit. &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+§ 3. N'est pas considérée comme " reprise " pour l'application du présent article :
+
+1° la continuation d'un débit en exemption de la taxe d'ouverture par application de l'article 20, § 1er, 1° à 3° et 5°;
+
+2° la réouverture en exemption de la taxe d'ouverture par application de l'article 20, § 1er, 4°, a, d'un débit fermé depuis moins d'un an dont le dernier exploitant tombait sous l'application de la taxe quinquennale.
+
+Dans le cas visé par le 1°, le commettant ou la personne morale qui continue le débit assume en matière de taxe quinquennale, les obligations qui reposaient sur le débitant précédent.
+
+Il en est de même en ce qui concerne le commettant ou la personne morale qui procède à la réouverture du débit dans le cas visé par le 2°. Toutefois, si le débit est fermé à la date de l'exigibilité de la taxe quinquennale, cette taxe ne viendra à échéance que le 1er janvier de l'année suivant la remise en exploitation et, ensuite, tous les cinq ans à partir de cette date postposée.
+
+§ 4. La valeur locative annuelle réelle ou présumée à prendre en considération pour la perception de la taxe quinquennale visée au § 1er est celle qui, lors de l'exigibilité de la taxe, est à retenir pour les locaux qui, à ce moment, sont affectés au débit au sens de l'article 9, § 2.
+
+Lorsqu'il s'agit d'une valeur locative présumée, cette valeur est fixée par le [<sup>2</sup> conseiller]<sup>2</sup> conformément à l'article 11.
+
+Art. 26. (Communauté flamande)
+
+&lt;L 06-07-1967, art. 20&gt; § 1. A l'expiration d'un délai de quinze ans à compter du 1er janvier de l'année de l'ouverture ou de la reprise du débit, les commettants visés à l'article 22 et les débitants dotés de la personnalité juridique doivent acquitter tous les cinq ans une taxe égale à la moitié de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, sans que cette taxe puisse être inférieure au sixième des montants fixés a l'article 9, § 1er.
+
+Nonobstant toute convention contraire, cette taxe restera à charge des commettants.
+
+§ 2. Pour les débits ambulants exploités par une personne morale, la taxe quinquennale est forfaitairement fixée à (19,00 EUR) par débit. &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+§ 3. N'est pas considérée comme " reprise " pour l'application du présent article :
+
+1° la continuation d'un débit en exemption de la taxe d'ouverture par application de l'article 20, § 1er, 1° à 3° et 5°;
+
+2° la réouverture en exemption de la taxe d'ouverture par application de l'article 20, § 1er, 4°, a, d'un débit fermé depuis moins d'un an dont le dernier exploitant tombait sous l'application de la taxe quinquennale.
+
+Dans le cas visé par le 1°, le commettant ou la personne morale qui continue le débit assume en matière de taxe quinquennale, les obligations qui reposaient sur le débitant précédent.
+
+Il en est de même en ce qui concerne le commettant ou la personne morale qui procède à la réouverture du débit dans le cas visé par le 2°. Toutefois, si le débit est fermé à la date de l'exigibilité de la taxe quinquennale, cette taxe ne viendra à échéance que le 1er janvier de l'année suivant la remise en exploitation et, ensuite, tous les cinq ans à partir de cette date postposée.
+
+§ 4. La valeur locative annuelle réelle ou présumée à prendre en considération pour la perception de la taxe quinquennale visée au § 1er est celle qui, lors de l'exigibilité de la taxe, est à retenir pour les locaux qui, à ce moment, sont affectés au débit au sens de l'article 9, § 2.
+
+Lorsqu'il s'agit d'une valeur locative présumée, cette valeur est fixée par le contrôleur des accises conformément à l'article 11.
+
+Art. 26. (Région wallonne)
+
+&lt;L 06-07-1967, art. 20&gt; § 1. A l'expiration d'un délai de quinze ans à compter du 1er janvier de l'année de l'ouverture ou de la reprise du débit, les commettants visés à l'article 22 et les débitants dotes de la personnalité juridique doivent acquitter tous les cinq ans une taxe égale à la moitié de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, sans que cette taxe puisse être inférieure au sixième des montants fixés à l'article 9, § 1er.
+
+Nonobstant toute convention contraire, cette taxe restera à charge des commettants.
+
+§ 2. Pour les débits ambulants exploités par une personne morale, la taxe quinquennale est forfaitairement fixée à (19,00 EUR) par débit. &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+§ 3. N'est pas considérée comme " reprise " pour l'application du présent article :
+
+1° la continuation d'un débit en exemption de la taxe d'ouverture par application de l'article 20, § 1er, 1° à 3° et 5°;
+
+2° la réouverture en exemption de la taxe d'ouverture par application de l'article 20, § 1er, 4°, a, d'un débit fermé depuis moins d'un an dont le dernier exploitant tombait sous l'application de la taxe quinquennale.
+
+Dans le cas visé par le 1°, le commettant ou la personne morale qui continue le débit assume en matière de taxe quinquennale, les obligations qui reposaient sur le débitant précédent.
+
+Il en est de même en ce qui concerne le commettant ou la personne morale qui procède à la réouverture du débit dans le cas visé par le 2°. Toutefois, si le débit est fermé à la date de l'exigibilité de la taxe quinquennale, cette taxe ne viendra à échéance que le 1er janvier de l'année suivant la remise en exploitation et, ensuite, tous les cinq ans à partir de cette date postposée.
+
+§ 4. La valeur locative annuelle réelle ou présumée à prendre en considération pour la perception de la taxe quinquennale visée au § 1er est celle qui, lors de l'exigibilité de la taxe, est à retenir pour les locaux qui, à ce moment, sont affectés au débit au sens de l'article 9, § 2.
+
+Lorsqu'il s'agit d'une valeur locative présumée, cette valeur est fixée par [<sup>1</sup> le fonctionnaire désigné par le Gouvernement wallon]<sup>1</sup> conformément à l'article 11.
+
+Art. 26. (Région de Bruxelles-Capitale)
+
+&lt;L 06-07-1967, art. 20&gt; § 1. A l'expiration d'un délai de quinze ans à compter du 1er janvier de l'année de l'ouverture ou de la reprise du débit, les commettants visés à l'article 22 et les débitants dotés de la personnalité juridique doivent acquitter tous les cinq ans une taxe égale à la moitié de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, sans que cette taxe puisse être inférieure au sixième des montants fixés à l'article 9, § 1er.
+
+Nonobstant toute convention contraire, cette taxe restera à charge des commettants.
+
+§ 2. Pour les débits ambulants exploités par une personne morale, la taxe quinquennale est forfaitairement fixée à 800 francs par débit.
+
+§ 3. N'est pas considérée comme " reprise " pour l'application du présent article :
+
+1° la continuation d'un débit en exemption de la taxe d'ouverture par application de l'article 20, § 1er, 1° à 3° et 5°;
+
+2° la réouverture en exemption de la taxe d'ouverture par application de l'article 20, § 1er, 4°, a, d'un débit fermé depuis moins d'un an dont le dernier exploitant tombait sous l'application de la taxe quinquennale.
+
+Dans le cas visé par le 1°, le commettant ou la personne morale qui continue le débit assume en matière de taxe quinquennale, les obligations qui reposaient sur le débitant précédent.
+
+Il en est de même en ce qui concerne le commettant ou la personne morale qui procède à la réouverture du débit dans le cas visé par le 2°. Toutefois, si le débit est fermé à la date de l'exigibilité de la taxe quinquennale, cette taxe ne viendra à échéance que le 1er janvier de l'année suivant la remise en exploitation et, ensuite, tous les cinq ans à partir de cette date postposée.
+
+§ 4. La valeur locative annuelle réelle ou présumée à prendre en considération pour la perception de la taxe quinquennale visée au § 1er est celle qui, lors de l'exigibilité de la taxe, est à retenir pour les locaux qui, à ce moment, sont affectés au débit au sens de l'article 9, § 2.
+
+Lorsqu'il s'agit d'une valeur locative présumée, cette valeur est fixée par le contrôleur des accises conformément à l'article 11.)
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 94, 011; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2016-04-27/04, art. 114, 012; En vigueur : 16-05-2016&gt;
+
+## CHAPITRE V. - Taxe annuelle due par les détaillants de boissons spiritueuses.
+
+### Art. 27
+
+&lt;L 06-07-1967, art. 21&gt; § 1. Tous ceux qui vendent ou livrent, à titre principal ou accessoire, des boissons spiritueuses par quantités de six litres ou moins, sont assujettis à une taxe annuelle égale au cinquième de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, sans que cette taxe puisse être inférieure au quinzième des montants fixés à l'article 9, § 1er.
+
+§ 2. Pour les débits ambulants, la taxe annuelle est forfaitairement fixée à 300 francs.
+
+§ 3. Ceux qui exploitent un débit occasionnel pour la vente ou la livraison de boissons spiritueuses par quantités de six litres ou moins, doivent acquitter de ce chef - pour tenir lieu de taxe annuelle - une taxe dont le montant est forfaitairement fixé à 15 francs par journée d'exploitation.
+
+§ 4. Sous les réserves ci-après, les dispositions des articles 1er, 7°, 2, 3, 9 à 14, 16, 18 à 21 et 23 à 25 sont applicables aux redevables de la taxe prévue par le présent article;
+
+1° la valeur locative servant de base à la perception de la taxe annuelle visée au § 1er est celle des locaux affectés ou déclarés comme étant affectés à la vente ou à la livraison proprement dite, ainsi que des magasins et autres lieux de dépôt des boissons spiritueuses vendues ou livrées par quantités de six litres ou moins; si ces locaux, magasins et autres lieux de dépôt sont affectés en même temps à un autre commerce que le débit de boissons spiritueuses par quantités de six litres ou moins, la valeur locative est calculée proportionnellement au rapport existant entre, d'une part, le produit approximatif dudit débit, et, d'autre part, le produit total des ventes;
+
+2° la valeur locative visée par le 1° est susceptible d'être revue d'année en année, notamment en cas d'agrandissement; toutefois, cette révision ne donne pas lieu à la perception d'un supplément pour la partie de l'année restant à courir;
+
+3° une nouvelle taxe annuelle n'est pas due par celui qui transfère son débit dans le courant d'une année, ce transfert ne devant par ailleurs pas donner lieu à la perception d'un supplément;
+
+4° le certificat de moralité que le débitant de boissons spiritueuses produit, tant pour lui-même que pour son gérant ou préposé éventuel, doit attester uniquement que l'intéressé ne tombe pas sous l'application de l'article 4 de la loi du 10 juin 1947 concernant les accises et les douanes.
+
+Art. 27. (Communauté flamande)
+
+&lt;L 06-07-1967, art. 21&gt; § 1. Tous ceux qui vendent ou livrent, à titre principal ou accessoire, des boissons spiritueuses par quantités de six litres ou moins, sont assujettis à une taxe annuelle égale au cinquième de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, sans que cette taxe puisse être inférieure au quinzième des montants fixés à l'article 9, § 1er.
+
+§ 2. Pour les débits ambulants, la taxe annuelle est forfaitairement fixée à (7,00 EUR). &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+§ 3. Ceux qui exploitent un débit occasionnel pour la vente ou la livraison de boissons spiritueuses par quantités de six litres ou moins, doivent acquitter de ce chef - pour tenir lieu de taxe annuelle - une taxe dont le montant est forfaitairement fixé à (0,35 EUR) par journée d'exploitation. &lt;DCFL 2001-07-06/50, art. 48, 004; En vigueur : 01-01-2002&gt;
+
+§ 4. Sous les réserves ci-après, les dispositions des articles 1er, 7°, 2, 3, 9 à 14, 16, 18 à 21 et 23 à 25 sont applicables aux redevables de la taxe prévue par le présent article;
+
+1° la valeur locative servant de base à la perception de la taxe annuelle visée au § 1er est celle des locaux affectés ou déclarés comme étant affectés à la vente ou à la livraison proprement dite, ainsi que des magasins et autres lieux de dépôt des boissons spiritueuses vendues ou livrées par quantités de six litres ou moins; si ces locaux, magasins et autres lieux de dépôt sont affectés en même temps à un autre commerce que le débit de boissons spiritueuses par quantités de six litres ou moins, la valeur locative est calculée proportionnellement au rapport existant entre, d'une part, le produit approximatif dudit débit, et, d'autre part, le produit total des ventes;
+
+2° la valeur locative visée par le 1° est susceptible d'être revue d'année en année, notamment en cas d'agrandissement; toutefois, cette révision ne donne pas lieu à la perception d'un supplément pour la partie de l'année restant à courir;
+
+3° une nouvelle taxe annuelle n'est pas due par celui qui transfère son débit dans le courant d'une année, ce transfert ne devant par ailleurs pas donner lieu à la perception d'un supplément;
+
+4° le certificat de moralité que le débitant de boissons spiritueuses produit, tant pour lui-même que pour son gérant ou préposé éventuel, doit attester uniquement que l'intéressé ne tombe pas sous l'application de l'article 4 de la loi du 10 juin 1947 concernant les accises et les douanes.
+
+Art. 27. (Région wallonne)
+
+&lt;L 06-07-1967, art. 21&gt; § 1. Tous ceux qui vendent ou livrent, à titre principal ou accessoire, des boissons spiritueuses par quantités de six litres ou moins, sont assujettis à une taxe annuelle égale au cinquième de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, sans que cette taxe puisse être inférieure au quinzième des montants fixés à l'article 9, § 1er.
+
+§ 2. Pour les débits ambulants, la taxe annuelle est forfaitairement fixée à (7,00 EUR). &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+§ 3. Ceux qui exploitent un débit occasionnel pour la vente ou la livraison de boissons spiritueuses par quantités de six litres ou moins, doivent acquitter de ce chef - pour tenir lieu de taxe annuelle - une taxe dont le montant est forfaitairement fixé à (0,35 EUR) par journée d'exploitation. &lt;ARW 2001-12-20/78, art. 4, 005; En vigueur : 01-01-2002&gt;
+
+§ 4. Sous les réserves ci-après, les dispositions des articles 1er, 7°, 2, 3, 9 à 14, 16, 18 à 21 [<sup>1</sup> ...]<sup>1</sup> sont applicables aux redevables de la taxe prévue par le présent article;
+
+1° la valeur locative servant de base à la perception de la taxe annuelle visée au § 1er est celle des locaux affectés ou déclarés comme étant affectés à la vente ou à la livraison proprement dite, ainsi que des magasins et autres lieux de dépôt des boissons spiritueuses vendues ou livrées par quantités de six litres ou moins; si ces locaux, magasins et autres lieux de dépôt sont affectés en même temps à un autre commerce que le débit de boissons spiritueuses par quantités de six litres ou moins, la valeur locative est calculée proportionnellement au rapport existant entre, d'une part, le produit approximatif dudit débit, et, d'autre part, le produit total des ventes;
+
+2° la valeur locative visée par le 1° est susceptible d'être revue d'année en année, notamment en cas d'agrandissement; toutefois, cette révision ne donne pas lieu à la perception d'un supplément pour la partie de l'année restant à courir;
+
+3° une nouvelle taxe annuelle n'est pas due par celui qui transfère son débit dans le courant d'une année, ce transfert ne devant par ailleurs pas donner lieu à la perception d'un supplément;
+
+4° [<sup>1</sup> ...]<sup>1</sup>.
+
+Art. 27. (Région de Bruxelles-Capitale)
+
+&lt;L 06-07-1967, art. 21&gt; § 1. Tous ceux qui vendent ou livrent, à titre principal ou accessoire, des boissons spiritueuses par quantités de six litres ou moins, sont assujettis à une taxe annuelle égale au cinquieme de la valeur locative annuelle réelle ou présumée des locaux affectés au débit, sans que cette taxe puisse être inférieure au quinzième des montants fixés à l'article 9, § 1er.
+
+§ 2. Pour les débits ambulants, la taxe annuelle est forfaitairement fixée à (7,00 EUR). &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+§ 3. Ceux qui exploitent un débit occasionnel pour la vente ou la livraison de boissons spiritueuses par quantités de six litres ou moins, doivent acquitter de ce chef - pour tenir lieu de taxe annuelle - une taxe dont le montant est forfaitairement fixé à (0,35 EUR) par journée d'exploitation. &lt;ARR 2001-12-13/57, art. 18, 006; En vigueur : 01-01-2002&gt;
+
+§ 4. Sous les réserves ci-après, les dispositions des articles 1er, 7°, 2, 3, 9 à 14, 16, 18 à 21 et 23 à 25 sont applicables aux redevables de la taxe prévue par le présent article;
+
+1° la valeur locative servant de base à la perception de la taxe annuelle visée au § 1er est celle des locaux affectés ou déclarés comme étant affectés à la vente ou à la livraison proprement dite, ainsi que des magasins et autres lieux de dépôt des boissons spiritueuses vendues ou livrées par quantités de six litres ou moins; si ces locaux, magasins et autres lieux de dépôt sont affectés en même temps à un autre commerce que le débit de boissons spiritueuses par quantités de six litres ou moins, la valeur locative est calculée proportionnellement au rapport existant entre, d'une part, le produit approximatif dudit débit, et, d'autre part, le produit total des ventes;
+
+2° la valeur locative visée par le 1° est susceptible d'être revue d'année en année, notamment en cas d'agrandissement; toutefois, cette révision ne donne pas lieu à la perception d'un supplément pour la partie de l'année restant à courir;
+
+3° une nouvelle taxe annuelle n'est pas due par celui qui transfère son débit dans le courant d'une année, ce transfert ne devant par ailleurs pas donner lieu à la perception d'un supplément;
+
+4° le certificat de moralité que le débitant de boissons spiritueuses produit, tant pour lui-même que pour son gérant ou préposé éventuel, doit attester uniquement que l'intéressé ne tombe pas sous l'application de l'article 4 de la loi du 10 juin 1947 concernant les accises et les douanes.
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 95, 011; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE Vbis. &lt;Inséré par DCFL 2001-12-07/45, art. 2; En vigueur : 01-01-2002&gt; - Dispositions propres à la Région flamande.
+
+### Art. 27bis
+
+&lt;Inséré par DCFL 2001-12-07/45, art. 2; En vigueur : 01-01-2002&gt; Pour les taxes visées au chapitre III, consistant en les articles 8 à 25ter, chapitre IV, consistant en l'article 26 et le chapitre V, consistant en l'article 27, les taux d'imposition sont réduits à zéro pour ce qui concerne la Région flamande.
+
+## CHAPITRE VI. - Paiement des taxes.
+
+### Art. 28
+
+La taxe d'ouverture est payée en une fois au moment de la déclaration.
+
+### Art. 29
+
+Le débit de boissons fermentées ne peut être ouvert qu'après avis [<sup>1</sup> de l'agent ayant au moins un titre d'attaché désigné par l'administrateur général des douanes et accises]<sup>1</sup> que les conditions prescrites par la loi et les arrêtés royaux pris en exécution de celles-ci sont réunies.
+
+Cet avis doit être remis dans les huit jours de la déclaration.
+
+A défaut d'autorisation d'ouverture, la somme payée est restituée.
+
+Art. 29.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 96, 011; En vigueur : 01-01-2010&gt;
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 115, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 30
+
+&lt;L 06-07-1967, art. 22&gt; Les taxes visées aux articles 26 et 27 doivent être acquittées au cours de la seconde quinzaine du mois de janvier qui détermine le début de la période pour laquelle elles sont dues.
+
+Cependant, la première taxe annuelle due par les redevables visés à l'article 27 doit être acquittée lors de la déclaration. Cette taxe est entièrement due pour l'année au cours de laquelle le débit est ouvert.
+
+### Art. 31
+
+Le supplément de taxe dû ensuite de l'expertise prévue à l'article 11 est payable dans les dix jours de la notification de cette expertise.
+
+La réclamation contre l'évaluation ne suspend pas l'exigibilité du supplément.
+
+### Art. 32
+
+En cas de retard dans le paiement, les sommes dues à titre de taxes sont majorées d'un intérêt calculé au taux et d'après les règles applicables en matière de droits d'entrée et d'accises.
+
+Art. 32.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 97, 011; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE VII. - Réclamations.
+
+### Art. 33
+
+Toute réclamation relative aux taxes visées par les présentes lois coordonnées doit être adressée par écrit au [<sup>2</sup> conseiller général désigné par l'administrateur général des douanes et accises]<sup>2</sup>, qui statue. Elle doit, à peine de déchéance, parvenir dans les trois mois de la date d'exigibilité de la taxe, et lorsqu'elle est relative au montant de la valeur locative, le redevable doit y indiquer la valeur locative qu'il estime devoir servir de base à la perception de la taxe. La décision du directeur, laquelle peut, le cas échéant, aggraver la situation du redevable, est envoyée à celui-ci par pli recommandé à la poste.
+
+Art. 33. (Région wallonne)
+
+[<sup>1</sup> Toute réclamation relative aux taxes visées par les présentes lois coordonnées doit être adressée par écrit au fonctionnaire désigné par le Gouvernement wallon, conformément aux articles 25 et 26 du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes.
+
+Lorsqu'elle est relative au montant de la valeur locative, le redevable doit y indiquer la valeur locative qu'il estime devoir servir de base à la perception de la taxe.
+
+La décision du fonctionnaire désigné par le Gouvernement wallon, laquelle peut, le cas échéant, aggraver la situation du redevable, est envoyée à celui-ci par pli recommandé à la poste.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 98, 011; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2016-04-27/04, art. 116, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 34
+
+§ 1. Un collège d'experts est appelé à se prononcer en cas de litige sur le montant de la valeur locative des immeubles ou parties d'immeubles affectes à l'exploitation d'un débit de boissons. Ce collège est constitué dans toutes les localités où existe un bureau des accises. Il est composé de deux experts désignés, l'un par le recevable de la taxe, l'autre par le [<sup>2</sup> conseiller]<sup>2</sup>.
+
+§ 2. Dans l'éventualité où le requérant n'accepte pas la décision du [<sup>2</sup> conseiller général désigné par l'administrateur général des douanes et accises]<sup>2</sup>, il doit, à peine de forclusion, le signifier à ce fonctionnaire par lettre recommandée à la poste au plus tard le dixième jour ouvrable à compter de la date de la décision; il doit en même temps demander l'expertise de l'immeuble ou de la partie d'immeuble qu'il affecte à l'exploitation de son débit de boissons, et désigner l'expert en immeubles qu'il a choisi. De son côté, le contrôleur compétent désigne un expert en immeubles.
+
+A défaut, par le requérant, de désigner son expert dans le délai prescrit, sa réclamation est considérée comme non avenue.
+
+Si les experts ne se mettent pas d'accord sur la fixation de la valeur qui doit servir de base au calcul de la taxe d'ouverture, le litige est soumis à un tiers-arbitre, choisi parmi les experts en immeubles et désigné par le président du tribunal de première instance sur la requête du [<sup>2</sup> conseiller]<sup>2</sup>.
+
+Le tiers-arbitre entend les experts avant de rendre sa décision.
+
+(§ 3. Les experts et le tiers-arbitre sont choisis en tenant compte des articles 828, 829, 830, et 966 du Code judiciaire. Ils doivent être domicilies dans le ressort du tribunal de première instance ou est situé l'immeuble ou la partie d'immeuble à expertiser.) &lt;L 10-10-1967, art. 3 et art. 55&gt;
+
+(§ 4. Avant d'entrer en fonctions, les experts et le tiers-arbitre prêtent devant le président du tribunal visé au §3 le serment suivant :
+
+" Je jure de me prononcer sur les affaires qui me seront soumises en toute conscience, sans acception de personne et d'après les dispositions de la loi, et de garder le secret sur toutes les constatations se rattachant aux litiges. "
+
+Le serment est valable pour toutes les expertises effectuées dans les douze mois de sa prestation.) &lt;L 06-07-1967, art. 24&gt;
+
+(§ 5. Les experts et éventuellement le tiers-arbitre intervenant en matière d'évaluation d'immeubles ou de parties d'immeubles affectés à l'exploitation d'un débit de boissons ont droit à une rémunération dont le Roi fixe le montant, ainsi que le cas échéant, aux frais de déplacement calcules conformément au tarif civil.
+
+Les frais d'évaluation, y compris les frais de déplacement, sont à charge :
+
+1° du redevable, si la valeur locative établie par l'expertise est égale ou supérieure à celle fixée par le [<sup>2</sup> conseiller]<sup>2</sup>;
+
+2° du Trésor, si la valeur locative établie par l'expertise ne dépasse pas celle indiquée par le redevable;
+
+3° des deux parties intéressées qui en supportent chacune la moitié, si la valeur locative établie par l'expertise se situe entre celle indiquée par le redevable et celle fixée par le contrôleur.) &lt;L 06-07-1967, art. 24&gt;
+
+§ 6. Les experts doivent rendre leur décision dans les trente jours à compter de la date de la signification faite conformément au § 2.
+
+En cas de désaccord entre les experts, le tiers-arbitre désigné rend sa décision dans les soixante jours à compter de la même date.
+
+Art. 34. (Région wallonne)
+
+§ 1. [<sup>1</sup> Un collège d'experts est appelé à se prononcer en cas de litige sur le montant de la valeur locative des immeubles ou parties d'immeubles affectés à l'exploitation d'un débit de boissons. Ce collège est composé de deux experts désignés, l'un par le redevable de la taxe, l'autre par le fonctionnaire désigné par le Gouvernement wallon.]<sup>1</sup>
+
+§ 2. Dans l'éventualité où le requérant n'accepte pas [<sup>1</sup> la décision du fonctionnaire visé à l'article 33]<sup>1</sup>, il doit, à peine de forclusion, le signifier à ce fonctionnaire par lettre recommandée à la poste au plus tard le dixième jour ouvrable à compter de la date de la décision; il doit en même temps demander l'expertise de l'immeuble ou de la partie d'immeuble qu'il affecte à l'exploitation de son débit de boissons, et désigner l'expert en immeubles qu'il a choisi. De son côté, [<sup>1</sup> le fonctionnaire désigné par le Gouvernement wallon]<sup>1</sup> désigne un expert en immeubles.
+
+A défaut, par le requérant, de désigner son expert dans le délai prescrit, sa réclamation est considérée comme non avenue.
+
+Si les experts ne se mettent pas d'accord sur la fixation de la valeur qui doit servir de base au calcul de la taxe d'ouverture, le litige est soumis à un tiers-arbitre, choisi parmi les experts en immeubles et désigné par le président du tribunal de première instance sur la requête [<sup>1</sup> du fonctionnaire désigné par le Gouvernement wallon ]<sup>1</sup>.
+
+Le tiers-arbitre entend les experts avant de rendre sa décision.
+
+(§ 3. Les experts et le tiers-arbitre sont choisis en tenant compte des articles 828, 829, 830, et 966 du Code judiciaire. Ils doivent être domicilies dans le ressort du tribunal de première instance ou est situé l'immeuble ou la partie d'immeuble à expertiser.) &lt;L 10-10-1967, art. 3 et art. 55&gt;
+
+(§ 4. Avant d'entrer en fonctions, les experts et le tiers-arbitre prêtent devant le président du tribunal visé au §3 le serment suivant :
+
+" Je jure de me prononcer sur les affaires qui me seront soumises en toute conscience, sans acception de personne et d'après les dispositions de la loi, et de garder le secret sur toutes les constatations se rattachant aux litiges. "
+
+Le serment est valable pour toutes les expertises effectuées dans les douze mois de sa prestation.) &lt;L 06-07-1967, art. 24&gt;
+
+(§ 5. Les experts et éventuellement le tiers-arbitre intervenant en matière d'évaluation d'immeubles ou de parties d'immeubles affectés à l'exploitation d'un débit de boissons ont droit à une rémunération [<sup>1</sup> dont le Gouvernement wallon fixe le montant]<sup>1</sup>, ainsi que le cas échéant, aux frais de déplacement calcules conformément au tarif civil.
+
+Les frais d'évaluation, y compris les frais de déplacement, sont à charge :
+
+1° du redevable, si la valeur locative établie par l'expertise est égale ou supérieure à celle fixée par [<sup>1</sup> le fonctionnaire désigné par le Gouvernement wallon]<sup>1</sup>;
+
+2° [<sup>1</sup> du Trésor régional]<sup>1</sup>, si la valeur locative établie par l'expertise ne dépasse pas celle indiquée par le redevable;
+
+3° des deux parties intéressées qui en supportent chacune la moitié, si la valeur locative établie par l'expertise se situe entre celle indiquée par le redevable et celle fixée [<sup>1</sup> par le fonctionnaire désigné par le Gouvernement wallon]<sup>1</sup>.) &lt;L 06-07-1967, art. 24&gt;
+
+§ 6. Les experts doivent rendre leur décision dans les trente jours à compter de la date de la signification faite conformément au § 2.
+
+En cas de désaccord entre les experts, le tiers-arbitre désigné rend sa décision dans les soixante jours à compter de la même date.
+
+[<sup>1</sup> § 7. Dans l'éventualité où le requérant n'accepte pas la décision des experts ou du tiers arbitre visée au § 6, le redevable peut introduire un recours judiciaire contre cette décision devant la juridiction civile.
+
+Il est introduit par requête contradictoire ou par citation dirigées contre la Région en la personne du Ministre-Président.
+
+Les articles 1385decies et 1385undecies du Code judiciaire sont applicables à ce recours judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 99, 011; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2016-04-27/04, art. 117, 012; En vigueur : 16-05-2016&gt;
+
+## CHAPITRE VIII. - Pénalités.
+
+### Art. 35
+
+&lt;L 06-07-1967, art. 25&gt; § 1. Tout acte, omission ou manoeuvre ayant pour résultat ou pour but d'échapper totalement ou partiellement aux taxes fixées par les présentes lois coordonnées, est puni d'une amende égale au double de la taxe en jeu, sans préjudice du paiement de cette taxe.
+
+§ 2. Tombent notamment sous l'application du § 1er :
+
+1° l'exploitation d'un débit de boissons fermentées ou spiritueuses, sans avoir remis [<sup>1</sup> à l'agent ayant au moins un titre d'attaché désigné par l'administrateur général des douanes et accises]<sup>1</sup> compétent la déclaration visée à l'article 23 ou 24, §§ 2 ou 3;
+
+2° la déclaration d'une valeur locative insuffisante ou l'indication inexacte de la situation des locaux affectés au débit. S'il s'agit d'une valeur locative présumée, le fait n'est punissable que lorsque la valeur servant de base à la perception de la taxe dépasse la valeur déclarée de plus de 40 p.c.;
+
+3° le défaut de paiement dans les délais légaux de taxes fixées par les présentes lois coordonnées ou d'un supplément de ces taxes.
+
+§ 3. En cas de récidive, l'amende prévue au § 1er est portée au double et le contrevenant est puni en outre d'un emprisonnement de huit jours à un mois.
+
+Art. 35.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 100, 011; En vigueur : 01-01-2010&gt;
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 118, 012; En vigueur : 16-05-2016&gt;
+
+### Art. 36
+
+&lt;L 06-07-1967, art. 26&gt; § 1. Sont punis d'une amende de (25 EUR) à (125 EUR) : &lt;AR 2001-07-13/50, art. 26, 003; En vigueur : 01-01-2002&gt;
+
+1° toute infraction aux présentes lois coordonnées non punie par l'article 35;
+
+2° toute infraction aux arrêtés pris pour l'exécution des présentes lois coordonnées;
+
+3° tout refus de visite ou autre fait tendant a empêcher ou entraver les visites prévues par l'article 46;
+
+4° tout acte du débitant, de son préposé ou d'un tiers tendant à empêcher ou à entraver la recherche ou la constatation des infractions.
+
+§ 2. En cas de récidive l'amende prévue au § 1er est portée au double.
+
+Art. 36.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 100, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 37
+
+&lt;L 06-07-1967, art. 27&gt; § 1. En cas d'infraction à l'article 1er, 2° à 10°, et en cas d'infraction punie par l'article 36, § 1er, 3° et 4°, la fermeture du débit est prononcée.
+
+§ 2. En cas d'infraction aux articles 1er, 1°, 28, 30, et 31, la fermeture du débit est prononcée jusqu'après paiement des taxes et amendes.
+
+§ 3. En cas d'infraction à l'article 2, la fermeture du débit est prononcée jusqu'au moment où les personnes exclues ne participent plus à l'exploitation du débit.
+
+§ 4. [<sup>1</sup> En cas d'infraction à l'article 29, la fermeture du débit est prononcée jusqu'au moment où il est satisfait aux conditions prescrites par ou en vertu de cette disposition.]<sup>1</sup>
+
+Art. 37.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 100, 011; En vigueur : 01-01-2010&gt;
+
+----------
+
+(1)&lt;L 2007-04-25/38, art. 7, 013; En vigueur : 20-05-2024&gt;
+
+### Art. 38
+
+(Abrogé) &lt;L 06-07-1967, art. 32, 1°&gt;
+
+Art. 38.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 100, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 39
+
+(Abrogé) &lt;L 06-07-1967, art. 32, 1°&gt;
+
+Art. 39.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 100, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 40
+
+Les articles 66 et 67 du Code pénal sont applicables aux infractions prévues par les présentes lois coordonnées.
+
+Art. 40.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 100, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 41
+
+&lt;L 06-07-1967, art. 28&gt; La condamnation avec sursis et la suspension du prononcé de la condamnation, établies par la loi du 29 juin 1964 concernant la suspension, le sursis et la probation, ne sont pas applicables aux peines prévues par les présentes lois coordonnées, à l'exception de l'emprisonnement principal.
+
+Art. 41.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 100, 011; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE IX. - Dispositions générales.
+
+### Art. 42
+
+Les dispositions de la (loi générale sur les douanes et accises) sont rendues applicables à la perception de la taxe d'ouverture des débits de boissons - y compris les suppléments de taxe - des amendes et des frais de poursuites éventuels. &lt;L 06-07-1978, art. 2 § 16, 1°&gt;
+
+Art. 42. (Région wallonne)
+
+[<sup>1</sup> Le décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes, est applicable aux taxes prévues par le présent arrêté royal, à l'exception de l'article 28 de ce décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2009-12-10/27, art. 101, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 43
+
+Sont applicables aux infractions aux présentes lois coordonnées, les dispositions de loi générale sur les douanes et accises concernant notamment la rédaction et le visa des procès-verbaux, la remise de la copie de ceux-ci, la foie due à ces actes, le mode de poursuites - y compris la voie parée - la responsabilité, la complicité, la tentative de corruption, le droit de transiger.
+
+Art. 43.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 102, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 44
+
+(Abrogé) &lt;L 06-07-1967, art. 32, 1°&gt;
+
+Art. 44.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 102, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 45
+
+Tous les agents de l'administration des contributions directes et de l'administration des douanes et accises, tous les agents communaux assermentés et les gendarmes sont qualifiés à l'effet de rechercher et de constater seuls les infractions aux présentes lois coordonnées.
+
+Art. 45.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 102, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 46
+
+&lt;L 06-07-1967, art. 29&gt; § 1. Pendant tout le temps que le débit de boissons fermentées est accessible aux consommateurs ou que le débit de boissons spiritueuses est accessible aux clients, les personnes désignées à l'article 45 peuvent visiter, sans assistance, toutes les parties de l'établissement, y compris les dépendances, où les consommateurs ou les clients ont accès, que ces locaux aient été ou n'aient pas été déclarés comme affectés au débit.
+
+§ 2. La visite des parties de l'établissement non accessibles aux consommateurs ou aux clients, la visite de l'habitation y attenante, ainsi que la visite de tout immeuble où l'exploitation d'un débit de boissons fermentées ou de boissons spiritueuses est soupçonnée, sont subordonnées à l'autorisation ((du juge au tribunal de police)). Elles doivent être effectuées par deux employés au moins et ne peuvent avoir lieu qu'entre 5 et 21 heures.
+
+§ 3. Au cours des visites visées aux §§ 1er et 2 du présent article, les personnes désignées à l'article 45 peuvent :
+
+1° prélever gratuitement des échantillons des boissons détenues, l'exploitant étant tenu, s'il en est requis, de fournir aussi gratuitement les récipients destinés à contenir ces échantillons;
+
+2° se faire communiquer, sans déplacement, les factures, livres et autres écritures relatifs au débit.
+
+Art. 46.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 102, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 47
+
+A partir de l'exercice 1952, l'administration des douanes et accises est chargée de l'établissement et du recouvrement des taxes provinciales sur les débits de boissons fermentées ou spiritueuses.
+
+Art. 47.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 102, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 47bis
+
+&lt;L 06-07-1967, art. 30&gt; Le mode de poursuites, le privilège et l'hypothèque légale prévus en matière d'accises sont applicables au recouvrement des taxes visées par les présentes lois coordonnées et des taxes provinciales sur les débits de boissons fermentées ou spiritueuses.
+
+Art. 47bis.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 102, 011; En vigueur : 01-01-2010&gt;
+
+### Art. 48
+
+A partir de l'exercice 1953 et par modification à l'article 36 de la loi du 24 décembre 1948 concernant les finances provinciales et communales, les provinces et les communes ne sont autorisées à établir sur les débits de boissons fermentées ou spiritueuses qu'une taxe annuelle, à l'exception de toute taxe similaire à la taxe d'ouverture perçue au profit de l'Etat.
+
+### Art. 49
+
+&lt;L 06-07-1967, art. 31&gt; Les dispositions du titre VII du Code des impôts sur les revenus ne sont pas applicables aux taxes établies par les présentes lois coordonnées.
+
+Art. 49.(Région wallonne)
+
+&lt;Abrogé par DRW 2009-12-10/27, art. 102, 011; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE X. - (Dispositions propres aux Régions où le taux de la taxe d'ouverture a été réduit à zéro) &lt;L 2005-12-14/35, art. 6, 009; En vigueur : 07-01-2006&gt;
+
+### Art. 50
+
+&lt;Rétabli par L 2005-12-14/35, art. 7, 009; En vigueur : 07-01-2006&gt; § 1er. Les articles 23 à 25ter, 28 et 29 ne sont pas applicables lors de l'ouverture d'un débit fixe de boissons, lors du commencement d'une activité inhérente à un débit ambulant ou lors de l'organisation d'un débit occasionnel sur le territoire d'une commune appartenant à une Région qui a réduit à zéro le taux de la taxe d'ouverture.
+
+§ 2. Sur la base d'une demande préalable d'ouverture d'un débit fixe ou ambulant auprès de la commune, l'autorité communale de la commune visée au § 1er vérifie :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° en ce qui concerne les débits fixes de boissons et les débits ambulants, dans quelle mesure le débitant, visé à l'article 17, § 1er, et les personnes habitant chez lui qui pourraient participer à l'exploitation du débit, ne se trouvent pas, en ce qui concerne le débitant, dans l'un des cas d'exclusion prévus par l'article 1er, 2° à 10° et en ce qui concerne les personnes habitant chez lui, dans l'un des cas d'exclusion prévus par l'article 1er, 2° à 9°.
+
+§ 3. Les débits visés au § 2 ne peuvent être ouverts qu'après un avis positif de l'autorité communale, sur la base des vérifications opérées conformément au § 2.
+
+----------
+
+(1)&lt;L 2007-04-25/38, art. 8, 013; En vigueur : 20-05-2024&gt;
+
+### Art. 51
+
+(Abrogé) &lt;L 06-07-1967, art. 32, 1°&gt;
+
+### Art. 52
+
+(Abrogé) &lt;L 06-07-1967, art. 32, 1°&gt;
+
+## CHAPITRE XI. - Dispositions abrogatoires.
+
+### Art. 53
+
+Sont abolis :
+
+1° le droit de licence sur les débits de boissons alcooliques établi par les articles 4 à 14 de la loi du 19 août 1889;
+
+2° à partir de l'exercice 1952, le décime additionnel extraordinaire établi à la taxe d'ouverture des débits de boissons par l'article 7 de la loi du 23 mars 1932.
+
+### Art. 54
+
+Sont abrogés :
+
+1° le titre III de la loi du 12 décembre 1912;
+
+2° l'article 2, § 3, l'article 8, § 3, et l'article 15, § 1er, 2°, d, de la loi du 29 août 1919;
+
+3° à partir de l'exercice 1952, les articles 57 à 61 de la loi du 31 décembre 1925.
