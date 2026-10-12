@@ -1,0 +1,23 @@
+---
+title: "Loi prorogeant la loi du 9 juillet 1975 abrogeant l'article 62 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier et instituant un régime de prix pour les spécialités pharmaceutiques et autres médicaments."
+identifier: "1977122216"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1977/12/22/1977122216/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1977-12-22
+published: 1977-12-24
+entry_into_force: 1978-01-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1977/12/22/1977122216/justel"
+retrieved: 2026-10-12
+---
+
+# 22 DECEMBRE 1977. - Loi prorogeant la loi du 9 juillet 1975 abrogeant l'article 62 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier et instituant un régime de prix pour les spécialités pharmaceutiques et autres médicaments.
+
+## Art. 1
+
+Article unique. La loi du 9 juillet 1975 abrogeant l'article 62 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier et instituant un régime de prix pour les spécialités pharmaceutiques et autres médicaments est prorogée du 31 décembre 1977 au 31 décembre 1978.
+
+L'arrêté royal du 11 décembre 1975 déterminant les critères pour la fixation des prix des spécialités pharmaceutiques et autres médicaments, y compris les errata publiés au Moniteur belge du 21 février 1976, a force de loi à partir de la date de son entrée en vigueur.

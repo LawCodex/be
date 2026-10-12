@@ -58,7 +58,7 @@ def http(method: str, url: str, data=None, params=None, tries: int = 6, check=No
                     return txt
                 err = f"unexpected page ({len(txt)} bytes)"
             elif r.status_code == 429:
-                pause = int(r.headers.get("Retry-After", "10") or 10) + 5
+                pause = int(r.headers.get("Retry-After", "10") or 10) + 20
                 with _lock:  # make every thread back off
                     _last[0] = max(_last[0], time.monotonic() + pause)
                 err = "HTTP 429"
