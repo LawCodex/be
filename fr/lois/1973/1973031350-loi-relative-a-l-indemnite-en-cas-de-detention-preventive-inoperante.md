@@ -1,0 +1,194 @@
+---
+title: "Loi [relative à l'indemnité en cas de détention préventive inopérante]. -"
+identifier: "1973031350"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1973/03/13/1973031350/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1973-03-13
+published: 1990-08-14
+entry_into_force: 1990-12-01
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1973/03/13/1973031350/justel"
+department: "Justice"
+justel_notes:
+  - "Loi créée en 1990 par L 1990-07-20/35 , art. 48, sur base de L 1874-04-20/30 , qui fut modifiée en 1973 par L 1973-03-13/31 "
+  - "Consultation des versions antérieures à partir du 15-01-2010 et mise à jour au 10-03-2026"
+retrieved: 2026-10-12
+---
+
+# 13 MARS 1973. - Loi [relative à l'indemnité en cas de détention préventive inopérante]. -
+
+## Art. 1
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 2
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 3
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 4
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 5
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 6
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 7
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 8
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 9
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 10
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 11
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 12
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 13
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 14
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 15
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 16
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 17
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 18
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 19
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 20
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 21
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 22
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 23
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 24
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 25
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 26
+
+(...) &lt;Abrogé par L 1990-07-20/35, art. 48, MB 14-08-1990, En vigueur : 01-12-1990&gt;.
+
+## Art. 27
+
+&lt;L 13-03-1973, art. 5, MB 10-04-1973&gt; § 1er. Un droit à réparation est ouvert à toute personne qui a été privée de sa liberté dans des conditions incompatibles avec les dispositions de l'article 5 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950, approuvée par la loi du 18 mai 1955.
+
+§ 2. L'action est portée devant les juridictions ordinaires dans les formes prévues par le Code judiciaire et dirigée contre l'Etat belge en la personne du Ministre de la justice.
+
+## Art. 28
+
+&lt;L 13-03-1973, art. 5, MB 10-04-1973&gt; § 1er. Peut prétendre à une indemnité toute personne qui aura été détenue préventivement pendant plus de huit jours sans que cette détention ou son maintien ait été provoqué par son propre comportement :
+
+a) si elle a été mise hors cause directement ou indirectement par une décision judiciaire coulée en force de chose jugée;
+
+b) [<sup>1</sup> si elle a bénéficié d'une ordonnance ou d'un arrêt de non-lieu;]<sup>1</sup>
+
+c) si elle a été arrêtée ou maintenue en détention après l'extinction de l'action publique par prescription;
+
+d) [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Le montant de cette indemnité est fixé en équité et en tenant compte de toutes les circonstances d'intérêt public et privé.
+
+[<sup>2</sup> Toutefois, lorsque la personne a encore des peines privatives de liberté en cours, les jours de détention préventive entrant en ligne de compte sont d'abord imputés sur les peines privatives de liberté encore en cours.
+
+Le montant de l'indemnité déterminé conformément aux alinéas 1er et 2 est, le cas échéant, affecté sans formalités au paiement des montants restant dus par cette personne à la suite de condamnations pénales conformément à la réglementation prévue à l'[<sup>3</sup> article 69]<sup>3</sup> du Code pénal et à l'article 29 de la loi du 1er août 1985 portant des mesures fiscales et autres. Cette compensation n'est susceptible d'aucun recours.]<sup>2</sup>
+
+§ 3. A défaut pour l'intéressé de pouvoir intenter une action en indemnisation devant les juridictions ordinaires, l'indemnité doit être demandée par requête écrite adressée au Ministre de la Justice, qui statue dans les six mois.
+
+L'indemnité sera allouée par le Ministre de la Justice à charge du Trésor, si les conditions prévues au § 1er sont remplies.
+
+[<sup>2</sup> Si l'indemnité ou l'imputation sont refusées, si le montant de l'indemnité ou le nombre de jours imputés sont jugés insuffisants]<sup>2</sup> ou si le Ministre de la Justice n'a pas statué dans les six mois de la requête, l'intéressé pourra s'adresser à la Commission instituée conformément au § 4.
+
+En cas de poursuites judiciaires du chef d'une des infractions prévues par [<sup>3</sup> l'article 219 pour autant qu'elle soit commise par une personne exerçant une fonction publique, et l'article 625]<sup>3</sup> du Code pénal, commises à l'égard de l'intéressé, le délai de six mois prévu à l'alinéa précédent ne commence à courir que du jour où il a été statué sur l'action publique par une décision passée en force de chose jugée.
+
+§ 4. Il est institué une commission qui statue sur les recours contre les décisions prises par le Ministre de la Justice ou sur les demandes introduites lorsque, dans les conditions déterminées par le § 3, le Ministre n'a pas statué.
+
+(Cette commission est composée :
+
+\- du premier président de la Cour de cassation ou, en cas d'empêchement, du président de la Cour de cassation;
+
+\- du premier président du Conseil d'Etat ou, en cas d'empêchement, du président du Conseil d'Etat;
+
+\- et, selon la langue de la procédure, du président de l'ordre des barreaux francophones et germanophone ou du président de l'" Orde van Vlaamse balies ", ou, en cas d'empêchement, d'un membre du conseil d'administration de l'Ordre des barreaux francophones et germanophone ou de l'" Orde van Vlaamse balies ", désigné conformément au règlement d'ordre intérieur de l'institution.) &lt;L 2001-04-07/41, art. 17, En vigueur : 01-05-2002&gt;
+
+Les fonctions de secrétaire de la commission sont exercées par un ou plusieurs membres du greffe de la Cour de cassation désignés par le premier président.
+
+Le Roi règle le fonctionnement de la commission.
+
+§ 5. Les recours et les demandes sont formés par requête en double signée par la partie ou son avocat et déposée au greffe de la Cour de cassation dans les soixante jours (de la notification de la décision du ministre) ou de l'expiration du délai dans lequel il aurait dû statuer. &lt;L 2005-05-31/32, art. 5, En vigueur : 26-06-2005&gt;
+
+Le Roi règle la procédure devant la commission siégeant à huis clos.
+
+Elle statue sur l'avis donné à l'audience par le procureur général près la Cour de cassation, après avoir entendu les parties en leurs moyens.
+
+Ses décisions sont prononcées en séance publique. Elles ne sont susceptibles d'aucun recours.
+
+La décision de la commission est, à la demande des intéressés, publiée par extrait au Moniteur belge sans que cet extrait puisse mentionner le montant de l'indemnité allouée. Les frais de publication sont à charge du Trésor.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 8, 002; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2016-12-25/14, art. 105, 003; En vigueur : 09-01-2017&gt;
+
+(3)&lt;L 2026-03-03/04, art. 79, 004; En vigueur : 01-09-2026&gt;
+
+## Art. 29
+
+&lt;L 13-03-1973, art. 5, MB 10-04-1973&gt; En cas de décès des personnes auxquelles les articles 27 et 28 accordent un droit à l'indemnité ou permettent de demander une indemnisation, les indemnités peuvent être accordées à leurs ayants droit.
