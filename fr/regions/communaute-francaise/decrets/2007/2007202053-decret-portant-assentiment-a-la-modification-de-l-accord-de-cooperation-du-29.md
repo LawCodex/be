@@ -1,0 +1,85 @@
+---
+title: "Décret portant assentiment à la modification de l'accord de coopération du 29 avril 2004 entre la Communauté française et la Région wallonne relatif aux modalités d'octroi de l'aide visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les employeurs du secteur de l'enseignement conformément à l'article 4 du décret wallon du 25 avril 2002 relatif aux aides visant à favoriser l'engagement des demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand."
+identifier: "2007202053"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/30/2007202053/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2007-03-30
+published: 2007-07-03
+entry_into_force: 2007-07-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/30/2007202053/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 30 MARS 2007. - Décret portant assentiment à la modification de l'accord de coopération du 29 avril 2004 entre la Communauté française et la Région wallonne relatif aux modalités d'octroi de l'aide visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les employeurs du secteur de l'enseignement conformément à l'article 4 du décret wallon du 25 avril 2002 relatif aux aides visant à favoriser l'engagement des demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand.
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière visée à l'article 128 de la Constitution, en vertu de l'article 138 de celle-ci.
+
+## Art. 2
+
+Assentiment est donné à la modification de l'article 3 de l'accord de coopération du 29 avril 2004 conclu entre la Communauté française et la Région wallonne relatif aux modalités d'octroi de l'aide visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les employeurs du secteur de l'enseignement conformément à l'article 4 du décret wallon du 25 avril 2002 relatif aux aides visant à favoriser l'engagement des demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand.
+
+Le texte de la modification susvisée est annexé au présent décret.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 30 mars 2007.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M. ARENA
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget et des Finances,
+
+M. DAERDEN
+
+Le Ministre de la Fonction publique et des Sports,
+
+Cl. EERDEKENS
+
+La Ministre de la Culture, de l'Audiovisuel et de la Jeunesse,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK
+
+## ANNEXE.
+
+## Art. N
+
+Modification de l'article 3 de l'accord de coopération du 29 avril 2004 conclu entre la Communauté française et la Région wallonne relatif aux modalités d'octroi de l'aide visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les employeurs du secteur de l'enseignement conformément à l'article 4 du décret wallon du 25 avril 2002 relatif aux aides visant à favoriser l'engagement des demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand
+
+L'article 3, § 1er, 1°, de l'accord de coopération du 29 avril 2004 conclu entre la Communauté française et la Région wallonne relatif aux modalités d'octroi de l'aide visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les employeurs du secteur de l'enseignement conformément à l'article 4 du décret wallon du 25 avril 2002 relatif aux aides visant à favoriser l'engagement des demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand, est complété par les mots suivants : " compte tenu toutefois du nombre de postes de puériculteurs statutaires créés chaque année par la Communauté française. "
+
+Fait en 3 exemplaires, à Namur, le 22 décembre 2006.
+
+Pour le Gouvernement de la Communauté française :
+
+La Ministre-Présidente,
+
+Mme M. ARENA
+
+Pour le Gouvernement de la Région wallonne :
+
+Le Ministre-Président,
+
+E.DI RUPO
+
+Le Ministre de l'Economie, de l'Emploi et du Commerce extérieur,
+
+J.-C. MARCOURT.

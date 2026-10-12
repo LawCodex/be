@@ -1,0 +1,103 @@
+---
+title: "Décret modifiant le décret du 8 mars 1999 portant approbation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire."
+identifier: "2007200804"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200804/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2007-01-25
+published: 2007-03-21
+entry_into_force: 2007-03-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200804/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 25 JANVIER 2007. - Décret modifiant le décret du 8 mars 1999 portant approbation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'intitulé du décret du 8 mars 1999 portant approbation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire est modifié comme suit : " Décret portant confirmation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire ".
+
+## Art. 2
+
+A l'article 1er et à l'annexe 1re du même décret, les mots " ouvrier qualifié en horticulture " ou " ouvrier qualifié en horticulture (M/F) " sont remplacés par les mots " ouvrier qualifié/ouvrière qualifiée en horticulture ". Ce même article est complété par les mots " et est applicable à la formation en alternance sur la base de l'article 49 du même décret ".
+
+## Art. 3
+
+A l'article 3 et à l'annexe 3 du même décret, les mots " mécanicien usineur " sont remplacés par les mots " technicien/technicienne en usinage ".
+
+Ce même article est complété par les mots " et est applicable à la formation en alternance sur la base de l'article 49 du même décret ".
+
+## Art. 4
+
+A l'article 4 et à l'annexe 4 du même décret, le mot " menuisier " est remplacé par les mots " menuisier/menuisière ".
+
+Ce même article est complété par les mots " et est applicable à la formation en alternance sur la base de l'article 49 du même décret ".
+
+## Art. 5
+
+A l'article 5 et à l'annexe 5 du même décret, les mots " employé en hôtellerie et restauration " sont remplacés par les mots " hôtelier-restaurateur/hôtelière - restauratrice ".
+
+Ce même article est complété par les mots " et est applicable à la formation en alternance sur la base de l'article 49 du même décret ".
+
+## Art. 6
+
+L'article 6 du même décret est abrogé et remplacé par un nouvel article 6 qui est formulé comme suit : " Le profil de formation de l'opérateur/ opératrice en production de confection, déterminé par le Gouvernement et repris en annexe 6, est confirmé, conformément à l'article 45 du même décret ".
+
+## Art. 7
+
+A l'article 7 et à l'annexe 7 du même décret, les mots " technicien de bureau " sont remplacés par les mots " technicien/technicienne de bureau ".
+
+Ce même article est complété par les mots " et est applicable à la formation en alternance sur la base de l'article 49 du même décret ".
+
+## Art. 8
+
+A l'article 8 et à l'annexe 8 du même décret, les mots " puéricultrice " ou " puéricultrice (M/F) " sont remplacés par les mots puériculteur/ puéricultrice "
+
+Après les mots " ....à l'article 39... " sont insérés les mots " et à l'article 44 ".
+
+Ce même article est complété par les mots " et est applicable à la formation en alternance sur la base de l'article 49 du même décret ".
+
+## Art. 9
+
+A l'article 9 et à l'annexe 9 du même décret, les mots " technicien en industries chimiques " ou " technicien des industries chimiques (M/F) " sont remplacés par les mots " technicien/ technicienne chimiste ".
+
+Ce même article est complété par les mots " et est applicable à la formation en alternance sur la base de l'article 49 du même décret ".
+
+## Art. 10
+
+Le présent décret entre en vigueur à la date de parution au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 janvier 2007.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M. ARENA
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget et des Finances,
+
+M. DAERDEN
+
+Le Ministre de la Fonction publique et des Sports,
+
+C. EERDEKENS
+
+La Ministre de la Culture, de l'Audiovisuel et de la Jeunesse,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK.

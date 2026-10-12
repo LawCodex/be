@@ -1,0 +1,375 @@
+---
+title: "Décret relatif au programme prioritaire de travaux en faveur des bâtiments scolaires de l'enseignement fondamental ordinaire et spécialisé, de l'enseignement secondaire ordinaire, spécialisé et de promotion sociale, de l'enseignement artistique à horaire réduit; des centres psycho-médico-sociaux ainsi que des internats de l'enseignement fondamental et secondaire, ordinaire et spécialisé, organisés ou subventionnés par la Communauté française."
+identifier: "2008029008"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/16/2008029008/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2007-11-16
+published: 2008-01-24
+entry_into_force: 2008-01-01
+last_amended: 2026-08-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/16/2008029008/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 24-01-2008 et mise à jour au 07-08-2026"
+retrieved: 2026-10-12
+---
+
+# 16 NOVEMBRE 2007. - Décret relatif au programme prioritaire de travaux en faveur des bâtiments scolaires de l'enseignement fondamental ordinaire et spécialisé, de l'enseignement secondaire ordinaire, spécialisé et de promotion sociale, de l'enseignement artistique à horaire réduit; des centres psycho-médico-sociaux ainsi que des internats de l'enseignement fondamental et secondaire, ordinaire et spécialisé, organisés ou subventionnés par la Communauté française.
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositif.
+
+### Art. 1
+
+Le présent décret règle l'intervention de la Communauté française en matière d'investissements immobiliers dans le cadre d'un programme prioritaire de travaux en faveur des bâtiments scolaires de l'enseignement fondamental ordinaire et spécialisé; de l'enseignement secondaire ordinaire, spécialisé et de promotion sociale; de l'enseignement artistique à horaire réduit; des centres psycho-médico-sociaux ainsi que des internats de l'enseignement fondamental et secondaire, ordinaire et spécialisé, qu'elle organise ou subventionne.
+
+### Art. 1/1
+
+[<sup>1</sup> § 1er. Le service chargé du programme prioritaire de travaux constitue un service administratif à comptabilité autonome au sens de l'article 2, 5°, du décret du 20 décembre 2011 portant organisation du budget et de la comptabilité des services du Gouvernement de la Communauté française. Ce service est placé sous l'autorité directe du Ministre qui a les bâtiments scolaires dans ses attributions.
+
+§ 2. Le service administratif à comptabilité autonome " programme prioritaire de travaux " est alimenté par les ressources suivantes:
+
+1° les montants prévus à l'article 7/1 du présent décret;
+
+2° des dotations exceptionnelles décidées par le Gouvernement à charge du budget général des dépenses. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2020-12-09/15, art. 38, 015; En vigueur : 09-12-2020&gt;
+
+### Art. 2
+
+Les travaux qui répondent aux normes physiques et financières édictées en vertu de l'article 2 du décret du 5 février 1990 relatif aux bâtiments scolaires de l'enseignement non universitaire organisé ou subventionné par la Communauté française sont seuls pris en compte dans le cadre du présent décret.
+
+### Art. 3
+
+Le Gouvernement fait annuellement rapport au Parlement de la Communauté française avant le 31 mars sur l'utilisation au cours de l'exercice écoulé des moyens budgétaires affectés au programme prioritaire de travaux.
+
+### Art. 4
+
+Le programme prioritaire de travaux a pour objectifs :
+
+1° De remédier aux situations qui - sans justifier l'application de l'article 24, § 2 alinéa 2, 6° de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement-sont préoccupantes du point de vue de la sécurité et/ou de l'hygiène et/ou de la performance énergétique et nécessitent une réaction rapide en raison de la dégradation, de la vétusté ou de l'inadaptation des infrastructures;
+
+2° De rencontrer en priorité les besoins spécifiques des établissements scolaires et des internats qui accueillent des élèves cumulant des handicaps socioculturels;
+
+3° D'aider prioritairement les établissements scolaires et les internats qui, au sein de leur réseau, souffrent manifestement du manque de moyens financiers de leur pouvoir organisateur;
+
+4° D'améliorer l'accessibilité des bâtiments aux personnes à mobilité réduite;
+
+[<sup>1</sup> 5° d'augmenter l'offre de places scolaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2016-07-13/06, art. 1, 013; En vigueur : 12-09-2016&gt;
+
+### Art. 5
+
+§ 1er. Un pouvoir organisateur ou une société publique d'administration des bâtiments scolaires ne peut recourir à l'intervention financière du programme prioritaire de travaux que pour un bien immobilier dont il est propriétaire ou sur lequel il a un droit réel lui garantissant la jouissance du bien pendant trente ans au moins à dater du dépôt de la demande de subside dans le cadre du présent décret.
+
+Le Gouvernement détermine les modalités d'introduction des demandes d'intervention.
+
+§ 2. Chaque année et au plus tard le 31 octobre, sur proposition des organes de représentation et de coordination des pouvoirs organisateurs et sur proposition des pouvoirs organisateurs non affiliés à un organe de représentation et de coordination, le Gouvernement dresse, pour l'année suivante, une liste des projets d'investissements éligibles au programme prioritaire de travaux sur la base des critères tels que définis à l'article 6. Cette liste comprend des projets à concurrence d'un montant représentant 150 % des crédits disponibles pour l'année considérée.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> Pour les années 2025 et 2026, le service administratif à comptabilité autonome " programme prioritaire de travaux " visé à l'article 1/1 finance, dans les limites des crédits budgétaires disponibles, les projets d'investissements résultants de problèmes infrastructurels graves décidés par le Gouvernement sur proposition de la Commission inter-caractère créée à l'article 11.]<sup>2</sup>
+
+[<sup>1</sup> § 3. Chaque année et au plus tard le 31 octobre, le Gouvernement fait rapport, réseau par réseau, du nombre, du coût et de la localisation des classes créées durant les 12 derniers mois selon l'article 6, § 4.
+
+Dès sa réception, le Gouvernement transmet le rapport au Parlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2016-07-13/06, art. 2, 013; En vigueur : 12-09-2016&gt;
+
+(2)&lt;DCFR 2026-07-17/06, art. 5, 018; En vigueur : 01-01-2025&gt;
+
+### Art. 6
+
+Les critères d'accès au programme prioritaire sont précisés comme suit :
+
+§ 1er. Pour ce qui concerne l'objectif formulé au 1° de l'article 4, il vise les interventions prioritaires justifiées par :
+
+1° Des problèmes urgents liés aux risques d'incendie et à la sécurité dans les bâtiments scolaires;
+
+2° Des conditions d'hébergement compromises par l'état physique délabré des bâtiments scolaires;
+
+3° Des situations contraires à l'hygiène ou susceptibles de compromettre la santé des occupants;
+
+4° Des situations où l'enveloppe extérieure des bâtiments ou leurs équipements techniques présentent des lacunes importantes, sources de déperditions calorifiques.
+
+Les mesures destinées à prémunir les bâtiments scolaires contre les risques d'incendie et à garantir la sécurité des occupants et des tiers, veilleront en particulier à :
+
+a) permettre une évacuation rapide des occupants;
+
+b) équiper les bâtiments scolaires de moyens de détection et de prévention;
+
+c) assurer la mise en conformité des installations électriques ou de chauffage défectueuses;
+
+d) doter les établissements de moyens de lutte efficaces contre l'incendie;
+
+e) assurer la sécurité des élèves au sein de l'implantation en cause par des travaux visant le remplacement du recouvrement de surfaces d'endroits de passage, d'activités scolaires ou de récréation, à l'intérieur et à l'extérieur des bâtiments, présentant pour les élèves un caractère dangereux du fait de leur dégradation;
+
+f) assurer la sécurité des accès sur le domaine scolaire;
+
+g) assurer une meilleure protection des immeubles contre le vol, les intrusions et le vandalisme.
+
+Sont considérés comme prioritaires en matière d'hébergement :
+
+a) toute situation où une intervention s'avère indispensable pour garantir l'occupation des bâtiments. Cette situation vise en particulier la stabilité des bâtiments ainsi que toute dégradation ou déficience physique affectant principalement les murs, les toitures, les façades, les plafonds, les planchers et les charpentes;
+
+b) le remplacement d'infrastructures de dimension modeste inadaptées aux exigences scolaires ou qui présentent un état de délabrement tel qu'on ne peut y remédier autrement;
+
+c) toute situation où la remise en état des toitures, des évacuations pluviales ou des châssis s'impose d'urgence en vue d'éviter des dégradations supplémentaires aux bâtiments;
+
+d) le remplacement complet ou partiel d'une installation de chauffage ou d'une installation électrique déficiente ou non-conforme à la législation en vigueur.
+
+Requièrent une intervention prioritaire dans les domaines de la santé et de l'hygiène :
+
+a) toute situation impliquant l'élimination obligatoire de produits ou de matériaux dangereux;
+
+b) les installations sanitaires insalubres, inadaptées ou insuffisantes;
+
+c) toute situation liée à des conditions de travail dangereuses, en particulier dans les locaux à risques;
+
+d) l'absence ou les déficiences des systèmes d'égouttage, de ventilation, d'éclairage ou de protection solaire extérieure;
+
+e) l'absence ou la déficience de préau, de réfectoire, de salle d'éducation physique;
+
+f) toute situation où l'on observe un inconfort important lié au bruit.
+
+Sont considérés comme prioritaires en matière de performance énergétique :
+
+a) l'isolation thermique de l'enveloppe extérieure du bâtiment;
+
+b) le remplacement des menuiseries extérieures qui ne permettent plus d'assurer une étanchéité ou une isolation suffisantes;
+
+c) les installations de production de chaleur pour le chauffage ou pour la production d'eau chaude sanitaire qui ne présentent plus un rendement calorifique suffisant ou qui sont dépourvues d'isolation thermique ou, encore, dont les isolants sont particulièrement dégradés ou peu performants en raison notamment de leur vétusté.
+
+§ 2. Le critère d'accès au sens de l'objectif formulé au 2° de l'article 4 correspond au fait, pour une implantation, [<sup>1</sup> d'être bénéficiaire de l'encadrement différencié de classe 1, 2 ou 3 conformément au décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité]<sup>1</sup> .
+
+§ 3. Pour ce qui concerne l'objectif 4° de l'article 4, les critères visent prioritairement et dans l'ordre des priorités repris ci-dessous :
+
+1° L'adaptation selon les normes en vigueur des baies de portes et des accès extérieurs aux bâtiments et l'aménagement de locaux sanitaires adaptés.
+
+2° Pour les portes extérieures, le placement de dispositifs de commande d'ouverture automatique et électrique.
+
+3° Tout aménagement et équipement visant à améliorer les circulations internes.
+
+[<sup>2</sup> § 4. [<sup>4</sup> Pour ce qui concerne l'objectif 5° de l'article 4, les travaux subventionnés dans le cadre du présent décret ne peuvent avoir en aucune manière pour objectif de générer la création de nouvelles places dans l'implantation bénéficiaire, sauf dérogation du Gouvernement. Cette dérogation est automatique si la création de places porte sur une seule classe et n'est pas la finalité première du projet.]<sup>4</sup> ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/A7, art. 38, 1°, 004; En vigueur : 01-06-2009&gt;
+
+(2)&lt;DCFR 2011-06-23/12, art. 3, 007; En vigueur : 19-08-2011&gt;
+
+(3)&lt;DCFR 2016-07-13/06, art. 3, 013; En vigueur : 12-09-2016&gt;
+
+(4)&lt;DCFR 2017-07-19/22, art. 14, 014; En vigueur : 01-09-2017&gt;
+
+### Art. 7
+
+&lt;Abrogé par DCFR 2024-05-16/71, art. 51, 017; En vigueur : 01-01-2025&gt;
+
+### Art. 7/1
+
+&lt;Abrogé par DCFR 2024-05-16/71, art. 51, 017; En vigueur : 01-01-2025&gt;
+
+### Art. 7/2
+
+&lt;Abrogé par DCFR 2024-05-16/71, art. 51, 017; En vigueur : 01-01-2025&gt;
+
+### Art. 8
+
+§ 1er. L'intervention financière de la Communauté française à charge du programme prioritaire de travaux est fixée par implantation et par projet éligible :
+
+1° A 70 % du montant de l'investissement dans les établissements scolaires de l'enseignement fondamental, avec une subvention maximale de euro 168.000 et un montant total de l'investissement d'un maximum de euro 240.000;
+
+2° A 60 % du montant de l'investissement dans les établissements scolaires de l'enseignement secondaire, les internats, les bâtiments de l'enseignement secondaire artistique à horaire réduit et les centres psycho-médico-sociaux, avec une subvention maximale de euro 144.000 et un montant total de l'investissement d'un maximum de euro 240.000.
+
+Par dérogation à l'alinéa 1er, pour les implantations bénéficiaires [<sup>1</sup> de l'encadrement différencié de classe 1, 2 ou 3 conformément au décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité]<sup>1</sup> , l'intervention financière de la Communauté française dans le cadre du programme prioritaire de travaux est fixée comme suit :
+
+1° A 80 % du montant de l'investissement dans les établissements scolaires de l'enseignement fondamental avec une subvention maximale de euro 240.000 et un montant total de l'investissement d'un maximum de euro 300.000;
+
+2° A 70 % du montant de l'investissement dans les établissements scolaires de l'enseignement secondaire, avec une subvention maximale de euro 210.000 et un montant total de l'investissement d'un maximum de euro 300 000.
+
+[<sup>2</sup> Le montant de l'investissement exprimé à l'alinéa 1er et l'alinéa 2 doit recouvrir l'ensemble des travaux envisagés et ne peut [<sup>3</sup> ...]<sup>3</sup> constituer une partie d'un investissement plus important réalisé simultanément sur fonds propres ou au moyen de subventions obtenues auprès d'autres fonds des bâtiments scolaires visés au décret du 5 février 1990 relatif aux bâtiments scolaires de l'enseignement non universitaire organisé ou subventionné par la Communauté française.]<sup>2</sup> [<sup>3</sup> Le Gouvernement peut accorder une dérogation à cette disposition en cas de création d'une ou de plusieurs nouvelles classes dans les établissements situés dans des zones ou parties de zones d'enseignement en forte tension démographique, précisées dans les listes établies par le Gouvernement conformément à l'article 2bis du décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la réglementation de l'enseignement, et à l'article 6, § 2. du décret du 29 juillet 1992 portant organisation de l'enseignement secondaire de plein exercice, à condition que les travaux soient clairement identifiables selon qu'ils soient subsidiés par le programme prioritaire de travaux ou qu'ils soient réalisés sur fonds propres ou au moyen d'autres subventions.]<sup>3</sup>
+
+Sur proposition de la Commission inter caractère, le Gouvernement peut déroger au montant total des subventions visées à l'alinéa 1er - 1° et 2° et à l'alinéa 2 - 1° et 2°, à concurrence d'un montant maximum de euro 575.000 indexé. [<sup>2</sup> A partir de 2012, tout dépassement du total des subventions visées à l'alinéa 1er 1° et 2° et à l'alinéa 2, 1° et 2° doit être motivé. Le Gouvernement, le cas échéant, en fixe les modalités.]<sup>2</sup>
+
+Les montants repris aux alinéas 1er, 2 et 3 sont adaptés à l'indice général des prix à la consommation au premier janvier de l'année concernée rapporté à l'indice 142,22, indice général des prix à la consommation au 1er janvier 2005.
+
+Le solde du montant du programme prioritaire de travaux est à charge du pouvoir organisateur et, lorsqu'il le demande, ce solde fait l'objet d'une intervention complémentaire prioritaire à charge des Fonds des bâtiments scolaires compétents. Seuls les dossiers dont le solde à charge du P.O. est supérieur à euro 5.000 peuvent entrer en ligne de compte pour l'octroi d'une intervention complémentaire. En outre, dans l'hypothèse où un P.O. sollicitait l'intervention de 2 Fonds pour un même dossier, l'intervention du Fonds de garantie des bâtiments scolaires ne serait autorisée que pour garantir des emprunts supérieurs à euro 5.000.
+
+§ 2. Par implantation, il faut entendre un ou plusieurs bâtiments, y compris les accès, destiné(s) à l'activité d'enseignement d'un ou plusieurs établissements scolaires d'un même niveau d'enseignement situé(s) sur une ou plusieurs parcelles cadastrales contiguës appartenant au même pouvoir organisateur ou à plusieurs pouvoirs organisateurs d'un même enseignement tel que mentionné à l'article 7, § 2, ou à la même société publique d'administration des bâtiments scolaires, qu'il ou elle soit propriétaire ou titulaire d'un droit réel lui garantissant la jouissance du ou des bien(s) pendant trente ans au moins. Si plusieurs pouvoirs organisateurs sont concernés par une même demande de subvention, ils introduisent une seule demande conjointe.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/A7, art. 38, 2°, 004; En vigueur : 01-06-2009&gt;
+
+(2)&lt;DCFR 2011-06-23/12, art. 4, 007; En vigueur : 19-08-2011&gt;
+
+(3)&lt;DCFR 2016-07-13/06, art. 4, 013; En vigueur : 12-09-2016&gt;
+
+### Art. 9
+
+Tous les cinq ans, à compter de la date du premier octroi de la subvention visée à l'article 8, le cumul des montants des projets relatifs à une même implantation est considéré comme égal à zéro.
+
+### Art. 10
+
+§ 1er. Pour bénéficier d'une subvention supérieure à euro 287.500 indexés à l'indice 142,22, indice général des prix à la consommation de janvier 2005, dans le cadre du programme prioritaire de travaux, un pouvoir organisateur de l'enseignement libre subventionné doit céder ou faire céder par le propriétaire s'il ne l'est pas lui-même, sans contrepartie, le droit réel des bâtiments scolaires qui vont bénéficier du programme prioritaire de travaux à une société de gestion patrimoniale, constituée sous forme d'ASBL, commune à l'ensemble des propriétaires d'écoles du même caractère soit unique pour la Communauté, soit constituée dans la Région bilingue de Bruxelles-Capitale et dans chaque province de la Région wallonne.
+
+Chaque société de gestion patrimoniale a pour objet exclusif d'affecter les biens transférés à l'enseignement et établit son siège social dans son ressort territorial.
+
+La société de gestion patrimoniale ne peut aliéner que les bâtiments qui ont été désaffectés aux fins d'enseignement par les pouvoirs organisateurs et affecte le produit de la vente à l'entretien, à l'achat ou à la construction de biens pour l'enseignement.
+
+Chacune de ces sociétés est soumise au contrôle d'un commissaire du Gouvernement nommé par le Gouvernement. Celui-ci a pour mission de vérifier l'affectation à un usage scolaire des bâtiments gérés par la société. Toute aliénation d'un bâtiment ayant fait l'objet d'une subvention dans le cadre du programme prioritaire de travaux est soumise à son accord.
+
+En cas de dissolution, leur patrimoine est cédé sans frais à une autre société de même caractère répondant aux conditions définies dans le présent article.
+
+Le commissaire du Gouvernement dispose d'un droit de veto à l'encontre des décisions prises en violation des dispositions légales applicables à ces ASBL en matière d'affectation à l'enseignement des bâtiments transférés.
+
+§ 2. Lorsque des dispositions légales relevant de l'autorité fédérale ou décrétales relevant de l'autorité régionale interdisent au propriétaire visé au § 1er de céder certains des biens visés ou soumet cette aliénation à autorisation des pouvoirs publics, et qu'en outre il s'avère impossible d'obtenir modification des dispositions légales ou décrétales susdites ou autorisation des pouvoirs publics, le Gouvernement peut, sur proposition de la société patrimoniale concernée, autoriser l'intervention du fonds, moyennant conclusion d'un bail emphytéotique de la plus longue durée légalement autorisée avec la société patrimoniale.
+
+### Art. 11
+
+Sur proposition du Gouvernement il est créé une Commission inter-caractère dénommée ci-après la commission.
+
+La commission a pour missions :
+
+1° de répartir les moyens financiers du programme prioritaire de travaux conformément aux dispositions du présent décret;
+
+2° de veiller à la bonne fin des dossiers auprès des services gérant les Fonds des bâtiments scolaires dont ils relèvent;
+
+3° de rendre des avis, soit d'initiative, soit à la demande du Gouvernement, sur toute question relative au contenu et à la réalisation du programme prioritaire de travaux.
+
+### Art. 12
+
+§ 1er. La commission est composée de douze membres effectifs et de douze membres suppléants nommés par le Gouvernement. Leur mandat est gratuit.
+
+Elle comprend :
+
+1° Six membres effectifs et six membres suppléants représentant les pouvoirs organisateurs de l'enseignement confessionnel;
+
+2° Six membres effectifs et six membres suppléants représentant les pouvoirs organisateurs de l'enseignement non confessionnel.
+
+En outre, le Gouvernement nomme un représentant de l'enseignement libre non confessionnel qui assiste aux réunions de la commission en qualité d'observateur.
+
+§ 2. La commission choisit en son sein un président et un vice-président.
+
+Les mandats de président et de vice-président sont attribués à tour de rôle, pour une période de deux ans, à un des groupes visés au § 1er ci-dessus.
+
+§ 3. Il est constitué au sein de la commission un bureau permanent chargé d'assurer la préparation et le suivi des dossiers.
+
+Le bureau permanent est composé du président, du vice-président et de deux membres choisis de façon telle que chacun des groupes visés au § 1er ci-dessus soit représenté par deux membres.
+
+§ 4. La commission arrête son règlement d'ordre intérieur qui fixe notamment la périodicité des réunions. Ce règlement est approuvé par le Gouvernement de la Communauté française.
+
+Le Gouvernement détermine le montant des frais de déplacement et des indemnités de séjour de ses membres.
+
+§ 5. Le Gouvernement peut, afin d'assurer le secrétariat de la commission, mettre à la disposition de celle-ci des agents de ses services.
+
+### Art. 13
+
+Le Gouvernement déterminera les services administratifs qui assureront la gestion des dossiers relevant du programme prioritaire de travaux.
+
+### Art. 14
+
+§ 1er. La commission est soumise au pouvoir de contrôle de deux commissaires nommés par le Gouvernement, l'un sur présentation du membre du Gouvernement, compétent en matière du budget et des finances, l'autre sur présentation du ou des membre(s) du Gouvernement ayant compétence sur les Fonds des bâtiments scolaires et les sociétés publiques d'administration des bâtiments scolaires.
+
+Les commissaires assistent avec voix consultative aux réunions de la commission et du bureau permanent et peuvent obtenir communication de tout document utile pour leur mission.
+
+Chacun des commissaires dispose d'un délai de quatre jours ouvrables pour prendre un recours motivé contre toute décision de la commission qu'il estime contraire à la législation, aux procédures administratives en vigueur au sein des trois Fonds des bâtiments scolaires, aux dispositions du présent décret ou à l'intérêt général. Le recours est suspensif.
+
+Le délai de quatre jours court à partir du jour où la décision de la commission a été prise, sauf si le commissaire concerné n'a pas été régulièrement convoqué conformément au règlement d'ordre intérieur de la commission, auquel cas le délai court à partir du jour où la décision lui a été notifiée.
+
+Chaque commissaire exerce son recours auprès du membre du Gouvernement qu'il représente selon les modalités fixées par le Gouvernement.
+
+Le Gouvernement peut annuler la décision de la commission dans un délai de trente jours commençant le même jour que le délai prévu au troisième alinéa.
+
+La décision d'annulation est notifiée à la commission.
+
+§ 2. Les commissaires du Gouvernement peuvent bénéficier du remboursement de leurs frais de déplacement et d'une indemnité de séjour conformément aux dispositions prévues à l'article12, § 4, du présent décret. Ces frais sont à charge des crédits mis à disposition de l'Administration générale de l'infrastructure.
+
+### Art. 15
+
+§ 1er. Un bâtiment ou partie de bâtiment ayant bénéficié de l'intervention du programme prioritaire de travaux doit être affecté à un usage scolaire pendant une période de vingt ans prenant cours à partir de l'octroi de la subvention visée à l'article 8.
+
+§ 2. En cas d'affectation à un usage autre que scolaire, en cas de vente ou de cession du droit réel garantissant au pouvoir organisateur la jouissance du bâtiment, ou partie de bâtiment ayant bénéficié de l'intervention du programme d'urgence pendant la période de vingt ans prenant cours à partir de l'octroi de la subvention visée à l'article 8, la Communauté peut se faire rembourser de son intervention financière.
+
+Pour obtenir le remboursement de celle-ci, la Communauté française peut avoir recours aux opérations suivantes dans l'ordre où elles sont indiquées :
+
+1° prélèvements sur les subventions de fonctionnement dues à l'établissement scolaire qui occupe l'immeuble;
+
+2° prélèvements sur les subventions de fonctionnement dues aux autres établissements scolaires relevant du même pouvoir organisateur;
+
+3° recouvrement par l'Administration de l'Enregistrement et des Domaines sur le patrimoine du pouvoir organisateur ou de la société publique d'administration des bâtiments scolaires concernée.
+
+Les dispositions des alinéas 1er et 2 ne s'appliquent pas en cas de cession du droit réel garantissant au pouvoir organisateur la jouissance du bâtiment, ou partie de bâtiment, à un autre pouvoir organisateur qui continue à l'affecter à un usage scolaire.
+
+§ 3. En cas d'aliénation d'un bâtiment ayant bénéficié de l'intervention du programme prioritaire de travaux, tout pouvoir organisateur, quel que soit le réseau auquel il appartient, ou la société publique d'administration des bâtiments scolaires concernée ou l'ASBL patrimoniale concernée disposent d'un droit de préemption à un prix dont le maximum est égal à la valeur fixée par le Comité d'acquisition ou le receveur d'enregistrement. Ce droit de préemption ne peut s'exercer que pour maintenir une affectation scolaire au bâtiment aliéné.
+
+§ 4. Si, dans une période de trois mois, aucun pouvoir organisateur, quel que soit le réseau auquel il appartient, ou la société publique d'administration des bâtiments scolaires concernée, ou l'ASBL patrimoniale concernée ne s'est porté acquéreur du bâtiment concerné, le propriétaire du bien peut le céder au plus offrant.
+
+### Art. 16
+
+Le contrôle de l'affectation des moyens octroyés à un pouvoir organisateur d'enseignement subventionné en application du présent décret est exercé au nom du Gouvernement par les commissaires désignés auprès des sociétés publiques d'administration des bâtiments scolaires selon les modalités que le Gouvernement arrête.
+
+## CHAPITRE II. - Disposition abrogatoire.
+
+### Art. 17
+
+Le décret du 14 juin 2001 relatif au programme de travaux de première nécessité en faveur des bâtiments scolaires de l'enseignement fondamental et de l'enseignement secondaire organisés ou subventionnés par la Communauté française sera abrogé lorsque tous les crédits engagés qui s'y réfèrent seront liquidés.
+
+## CHAPITRE III. - Disposition transitoire.
+
+### Art. 18
+
+Pour l'exercice budgétaire 2008, par dérogation à l'article 5, § 2, la liste des projets d'investissements éligibles au programme prioritaire des travaux est dressée par les organes de représentation et de coordination des pouvoirs organisateurs et par les pouvoirs organisateurs non affiliés à un organe de représentation et de coordination.
+
+La liste est dressée sur base des critères d'accès tels qu'ils sont définis à l'article 6 du présent décret et elle comprend des projets à concurrence d'un montant représentant 150 % des crédits disponibles pour l'année considérée.
+
+## CHAPITRE IV. - Entrée en vigueur.
+
+### Art. 19
+
+Le présent décret entre en vigueur le 1er janvier 2008.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 16 novembre 2007.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Enseignement obligatoire,
+
+Mme M. ARENA
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget et des Finances, de la Fonction publique et des Sports,
+
+M. DAERDEN
+
+La Ministre de la Culture et de l'Audiovisuel,
+
+Mme F. LAANAN
+
+Le Ministre de la Jeunesse et de l'Enseignement de Promotion sociale,
+
+M. TARABELLA
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK.

@@ -1,0 +1,91 @@
+---
+title: "Décret modifiant le décret du 31 mars 2004 portant confirmation de certains profils de formation spécifiques définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire."
+identifier: "2007200803"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200803/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2007-01-25
+published: 2007-03-21
+entry_into_force: 2007-03-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200803/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 25 JANVIER 2007. - Décret modifiant le décret du 31 mars 2004 portant confirmation de certains profils de formation spécifiques définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Aux articles 11 à 37 du décret du 31 mars 2004 portant confirmation de certains profils de formation spécifiques définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire, il y a lieu de lire " du décret du 24 juillet 1997 " au lieu de " du décret du 24 juillet 1994 ".
+
+## Art. 2
+
+A l'article 5 du même décret, les mots " sous abri et en plein champ " sont remplacés par les mots " sous abri et de plein champ ".
+
+## Art. 3
+
+A l'article 11 du même décret, les mots " aide mécanicien/ mécanicienne garagiste " sont remplacés par les mots " aide - mécanicien/aide - mécanicienne garagiste ".
+
+## Art. 4
+
+A l'article 12 du même décret, les mots " aide électricien/électricienne " sont remplacés par les mots " aide - électricien/aide -électricienne ".
+
+A l'annexe 12 du même décret, les mots " aide électricien/aide électricienne " sont remplacés par les mots " aide - électricien/aide - électricienne ".
+
+## Art. 5
+
+A l'annexe 13 du même décret, les mots " monteur/monteuse de pneus - aligneur/ aligneuse " sont remplacés par les mots " monteur de pneus -aligneur/monteuse de pneus - aligneuse ".
+
+## Art. 6
+
+A l'article 23 et à l'annexe 23 du même décret, les mots " commis de cuisine " sont remplacés par les mots " commis/commise de cuisine ".
+
+## Art. 7
+
+A l'article 24 et à l'annexe 24 du même décret, les mots " commis de salle " sont remplacés par les mots " commis/commise de salle ".
+
+## Art. 8
+
+A l'article 34 du même décret, les mots " technicien de surface nettoyeur/technicienne de surface - nettoyeuse " sont remplacés par les mots " technicien de surface - nettoyeur/technicienne de surface - nettoyeuse ".
+
+## Art. 9
+
+A l'article 37 du même décret, les mots " surveillant équipier/surveillante équipière en logistique sportive " sont remplacés par les mots " surveillant - équipier/surveillante - équipière en logistique sportive ".
+
+## Art. 10
+
+Le présent décret entre en vigueur à la date de parution au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 janvier 2007.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M. ARENA
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget et des Finances,
+
+M. DAERDEN
+
+Le Ministre de la Fonction publique et des Sports,
+
+C. EERDEKENS
+
+La Ministre de la Culture, de l'Audiovisuel et de la Jeunesse,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK.

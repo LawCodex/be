@@ -1,0 +1,73 @@
+---
+title: "Décret modifiant le décret du 27 mars 2002 relatif aux maîtres de religion et professeurs de religion."
+identifier: "2004029174"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029174/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2004-05-12
+published: 2004-06-10
+entry_into_force: 2004-05-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029174/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 12 MAI 2004. - Décret modifiant le décret du 27 mars 2002 relatif aux maîtres de religion et professeurs de religion.
+
+Le Parlement a adopté et nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'article 3 du décret du 27 mars 2002 relatif aux maîtres de religion et professeurs de religion est modifié ainsi qu'il suit :
+
+1° au § 4, les mots " 24 mois " sont remplacés par les mots " 36 mois ";
+
+2° au § 6, les mots " 25 mois " sont remplacés par les mots " 37 mois ";
+
+3° un § 7, ainsi libellé, est ajouté :
+
+" § 7. A dater de l'année scolaire 2004-2005, ne pourront être reconduits les engagements ou désignations à titre temporaire des membres du personnel visés au § 4 qui ne se seront pas inscrits, à chacune si besoin, des sessions d'examens organisées, à dater du 1er avril 2004, en application de l'article 15 de la loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement, pour la délivrance du certificat de connaissance approfondie de la langue française. II en est de même desdits membres du personnel qui, inscrits auxdites sessions d'examens, ne les auront, sauf cas de force majeure, pas présentées. "
+
+## Art. 2
+
+Le présent décret entre en vigueur le jour de sa promulgation par le Gouvernement.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 12 mai 2004.
+
+Le Ministre-Président, chargé des Relations internationales,
+
+H. HASQUIN
+
+Le Ministre de la Culture, de la Fonction publique, de la Jeunesse et des Sports,
+
+C. DUPONT
+
+Le Ministre de l'Enfance, chargé de l'Enseignement fondamental, de l'Accueil et des Missions confiées à l'O.N.E.,
+
+J.-M. NOLLET
+
+Le Ministre de l'Enseignement secondaire et de l'Enseignement spécial,
+
+P. HAZETTE
+
+Le Ministre du Budget,
+
+M. DAERDEN
+
+Le Ministre des Arts et des Lettres et de l'Audiovisuel,
+
+O. CHASTEL
+
+La Ministre de l'Enseignement supérieur, de l'Enseignement de Promotion sociale et de la Recherche scientifique,
+
+Mme F. DUPUIS
+
+La Ministre de l'Aide à la Jeunesse et de la Santé,
+
+Mme N. MARECHAL.

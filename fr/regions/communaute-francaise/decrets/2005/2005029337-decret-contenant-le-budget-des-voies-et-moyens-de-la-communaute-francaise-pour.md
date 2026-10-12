@@ -1,0 +1,85 @@
+---
+title: "Décret contenant le budget des voies et moyens de la Communauté française pour l'année budgétaire 2006."
+identifier: "2005029337"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/16/2005029337/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2005-12-16
+published: 2005-12-30
+entry_into_force: 2006-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/16/2005029337/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 16 DECEMBRE 2005. - Décret contenant le budget des voies et moyens de la Communauté française pour l'année budgétaire 2006.
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, Sanctionnons ce qui suit :
+
+## Art. 1
+
+Pour l'année budgétaire 2006, les moyens de la Communauté française sont évalués à 7.466.374.000 euros, se décomposant comme suit :
+
+\- Recettes courantes (Titre I) : 7.460.636.000 euros.
+
+\- Recettes en capital (Titre II) : 5.738.000 euros.
+
+## Art. 2
+
+Le Gouvernement est autorisé à percevoir toute recette revenant à la Communauté.
+
+## Art. 3
+
+Le Ministre ayant dans ses attributions le Budget et les Finances est autorisé à souscrire les emprunts et à conclure toute opération de gestion financière et de trésorerie réalisée dans l'intérêt général du Trésor dans le respect des procédures arrêtées par le Gouvernement de la Communauté française.
+
+## Art. 4
+
+Le Ministre ayant dans ses attributions le Budget et les Finances est autorisé, moyennant information du Parlement, du Gouvernement et de la Cour des comptes, à imputer une recette de l'exercice au budget d'une année antérieure dès lors que cette recette procédait de l'équilibre budgétaire de l'année concernée.
+
+## Art. 5
+
+Le recouvrement des recettes est opéré par les comptables de recettes désignés par arrêté du Gouvernement.
+
+## Art. 6
+
+Le présent décret entre en vigueur le 1er janvier 2006.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Donné à Bruxelles, le 16 décembre 2005.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M. ARENA
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget et des Finances,
+
+M. DAERDEN
+
+Le Ministre de la Fonction publique et des Sports,
+
+C. EERDEKENS
+
+La Ministre de la Culture, de l'Audiovisuel et de la Jeunesse,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK
+
+## ANNEXE.
+
+## Art. N
+
+Tableau budgétaire.
+
+(Tableau non repris pour motifs techniques. Voir M.B. 30-12-2005, p. 57617-57620).

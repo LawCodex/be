@@ -1,0 +1,103 @@
+---
+title: "Décret portant confirmation des compétences terminales et savoirs requis à l'issue de la section de transition des humanités générales et technologiques en éducation artistique, en éducation physique (compléments), en technologie, en éducation technique et technologique"
+identifier: "2005029146"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/03/2005029146/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2005-06-03
+published: 2005-08-19
+entry_into_force: 2005-08-29
+last_amended: 2023-08-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/03/2005029146/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 19-08-2005 et mise à jour au 08-08-2023"
+retrieved: 2026-10-12
+---
+
+# 3 JUIN 2005. - Décret portant confirmation des compétences terminales et savoirs requis à l'issue de la section de transition des humanités générales et technologiques en éducation artistique, en éducation physique (compléments), en technologie, en éducation technique et technologique
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Les compétences terminales et savoirs requis en éducation artistique à l'issue de la section de transition repris en annexe Ire sont confirmés, conformément à l'article 25, § 1er, 2°, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.
+
+## Art. 2
+
+Les compétences terminales et savoirs requis en éducation physique - formation théorique - à l'issue de la section de transition repris dans l'annexe II sont confirmés conformément à l'article 25, § 1er, 2°, du même décret.
+
+## Art. 3
+
+Les compétences terminales et savoirs requis en technologie pour les humanités générales et technologiques repris dans l'annexe III sont confirmés conformément à l'article 25, § 1er, 2°, du même décret.
+
+## Art. 4
+
+Les compétences terminales et savoirs requis en éducation technique et technologique pour les humanités générales et technologiques repris dans l'annexe IV sont confirmés conformément à l'article 25, § 1er, 2°, du même décret.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 3 juin 2005.
+
+La Ministre-Présidente, chargée de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M. ARENA
+
+La Vice-Présidente en charge de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président, en charge du Budget et des Finances,
+
+M. DAERDEN
+
+Le Ministre de la Fonction publique et des Sports,
+
+Cl. EERDEKENS
+
+La Ministre de la Culture, de l'Audiovisuel et de la Jeunesse,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK
+
+## ANNEXES.
+
+## Art. N1
+
+Annexe I. - Compétences terminales et savoirs requis en Education artistique à l'issue de la section de transition des humanités générales et technologiques
+
+(Annexe non reprise pour motifs techniques. Voir M.B. 19-08-2005, p. 36527-36560).
+
+## Art. N2
+
+Annexe II. - Compétences terminales et savoirs requis en Education physique (compléments - formation théorique) à l'issue de la section de transition des humanités générales et technologiques
+
+(Annexe non reprise pour motifs techniques. Voir M.B. 19-08-2005, p. 36561-36563).
+
+## Art. N3
+
+Annexe III. - Compétences terminales et savoirs requis en Technologie à l'issue de la section de transition des humanités générales et technologiques
+
+(Annexe non reprise pour motifs techniques. Voir M.B. 19-08-2005, p. 36564-36597).
+
+Modifiée par:
+
+&lt;DCFR 2023-03-30/26, art. 6, 002; En vigueur : 08-08-2023&gt;
+
+## Art. N4
+
+Annexe IV. - Compétences terminales et savoirs requis en Education technique et technologique à l'issue de la section de transition des humanités générales et technologiques
+
+(Annexe non reprise pour motifs techniques. Voir M.B. 19-08-2005, p. 36598-36600).
+
+Vu pour être annexé au décret du 3 juin 2005 portant confirmation des compétences terminales et savoirs requis à l'issue de la section transition des humanités générales et technologiques en éducation artistique, en éducation physique (compléments), en technologie, en éducation technique et technologique.
+
+La Ministre-Présidente chargée de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M. ARENA.

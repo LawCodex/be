@@ -1,0 +1,53 @@
+---
+title: "Décret portant assentiment à l'échange de notes diplomatiques du 23 mai 2005, constitutif de l'Accord entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du grand-duché de Luxembourg, relatif à la coopération dans les régions frontalières."
+identifier: "2007202052"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/16/2007202052/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2007-03-16
+published: 2007-07-03
+entry_into_force: 2007-07-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/16/2007202052/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 16 MARS 2007. - Décret portant assentiment à l'échange de notes diplomatiques du 23 mai 2005, constitutif de l'Accord entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du grand-duché de Luxembourg, relatif à la coopération dans les régions frontalières.
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'échange de notes diplomatiques du 23 mai 2005, constitutif de l'accord entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du grand-duché de Luxembourg, relatif à la Coopération dans les régions frontalières, fait à Luxembourg le 23 mai 2005, sortira son plein et entier effet.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 16 mars 2007.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M. ARENA
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget et des Finances,
+
+M. DAERDEN
+
+Le Ministre de la Fonction publique et des Sports,
+
+Cl. EERDEKENS
+
+La Ministre de la Culture, de l'Audiovisuel et de la Jeunesse,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK

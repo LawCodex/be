@@ -1,0 +1,1155 @@
+---
+title: "Décret relatif à la lutte contre certaines formes de discrimination"
+identifier: "2008029672"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/12/2008029672/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2008-12-12
+published: 2009-01-13
+entry_into_force: 2009-01-23
+last_amended: 2024-09-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/12/2008029672/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 13-01-2009 et mise à jour au 12-09-2024"
+retrieved: 2026-10-12
+---
+
+# 12 DECEMBRE 2008. - Décret relatif à la lutte contre certaines formes de discrimination
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE Ier. - Dispositions générales.
+
+### CHAPITRE Ier. - Dispositions introductives.
+
+###### Art. 1
+
+Le présent décret transpose :
+
+1° La Directive 2000/43/CE du Conseil du 29 juin 2000 relative à la mise en oeuvre de l'égalité de traitement entre les personnes sans distinction de race et d'origine ethnique;
+
+2° La Directive 2000/78/CE du Conseil du 27 novembre 2000 portant création d'un cadre général en faveur de l'égalité de traitement en matière d'emploi et de travail;
+
+3° La Directive 76/207/CEE du Conseil des Communautés européennes du 9 février 1976 relative à la mise en oeuvre du principe de l'égalité de traitement entre hommes et femmes en ce qui concerne l'accès à l'emploi, à la formation et à la promotion professionnelle, et les conditions de travail, modifiée par la Directive 2002/73/CE du Parlement européen et du Conseil de l'Union européenne du 23 septembre 2002 modifiant la directive du Conseil relative à la mise en oeuvre du principe de l'égalité de traitement entre hommes et femmes en ce qui concerne l'accès à l'emploi, à la formation et à la promotion professionnelle, et les conditions de travail;
+
+4° La Directive 2004/113/CE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de l'égalité de traitement entre hommes et femmes dans l'accès aux biens et aux services et la fourniture de biens et de services;
+
+5° La Directive 2006/54/CE du Parlement européen et du Conseil du 5 juillet 2006 relative à la mise en oeuvre du principe de l'égalité de traitement entre hommes et femmes en matière d'emploi et de travail (refonte).
+
+[<sup>1</sup> 6° L'article 11 de la Directive (UE) 2019/1158 du Parlement européen et du Conseil du 20 juin 2019 concernant l'équilibre entre vie professionnelle et vie privée des parents et des aidants et abrogeant la directive 2010/18/UE du Conseil.]<sup>1</sup>
+
+[<sup>2</sup> 7° La directive 2023/970 (UE) du Parlement européen et du Conseil du 10 mai 2023 visant à renforcer l'application du principe de l'égalité des rémunérations entre les femmes et les hommes pour un même travail ou un travail de même valeur par la transparence des rémunérations et les mécanismes d'application du droit. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2023-05-25/17, art. 1, 004; En vigueur : 10-09-2023&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 1, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 2
+
+Le présent décret a pour objectif de créer un cadre général et harmonisé pour lutter contre la discrimination fondée sur :
+
+1° La nationalité, une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique;
+
+2° L'âge, l'orientation sexuelle, la conviction religieuse ou philosophique, un handicap;
+
+3° [<sup>1</sup> [<sup>2</sup> le sexe, la grossesse, la procréation médicalement assistée, l'accouchement, l'allaitement, la maternité, les responsabilités familiales, l'identité de genre, l'expression de genre, les caractéristiques sexuelles et la transition médicale ou sociale]<sup>2</sup>;]<sup>1</sup>
+
+4° [<sup>2</sup> l'état civil, la naissance, la fortune, la condition et l'origine sociale, la conviction politique ou syndicale, la langue, l'état de santé, une caractéristique physique ou génétique ]<sup>2</sup>.
+
+[<sup>2</sup> Ces critères protégés peuvent être réels ou supposés, octroyés en propre ou par association, pris seuls ou en combinaison.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2015-11-13/15, art. 1, 003; En vigueur : 18-12-2015&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 2, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE II. - Définitions générales.
+
+###### Art. 3
+
+Pour l'application du présent décret, on entend par :
+
+1° [<sup>2</sup> " Critères protégés " : la nationalité, une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, l'âge, l'orientation sexuelle, la conviction religieuse ou philosophique, un handicap, [<sup>4</sup> le sexe, la grossesse, la procréation médicalement assistée, l'accouchement, l'allaitement, la maternité, les responsabilités familiales, l'identité de genre, l'expression de genre, les caractéristiques sexuelles et la transition médicale ou sociale ; l'état civil, la naissance, les responsabilités familiales, la fortune, la condition et l'origine sociale, la conviction politique ou syndicale, la langue, l'état de santé, une caractéristique physique ou génétique ]<sup>4</sup>;]<sup>2</sup>
+
+2° " Distinction directe " : la situation qui se produit lorsque sur la base [<sup>6</sup> d'un ou plusieurs des critères ]<sup>6</sup> protégés, une personne est traitée de manière moins favorable qu'une autre personne ne l'est, ne l'a été ou ne le serait dans une situation comparable;
+
+3° " Discrimination directe " : la distinction directe, à moins que, et uniquement dans les cas où le présent décret prévoit expressément cette possibilité dans le cadre du Titre II, cette distinction soit objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires;
+
+4° " Distinction indirecte " : la situation qui se produit lorsqu'une disposition, un critère ou une pratique apparemment neutre est susceptible d'entraîner, par rapport à d'autres personnes, un désavantage particulier pour des personnes caractérisées par [<sup>6</sup> d'un ou plusieurs des critères ]<sup>6</sup> protégés;
+
+5° " Discrimination indirecte " : la distinction indirecte, à moins que cette disposition, ce critère ou cette pratique soit objectivement justifié par un but légitime et que les moyens de réaliser ce but soient appropriés et nécessaires;
+
+6° " Harcèlement " : [<sup>2</sup> sans préjudice de la définition propre au domaine de l'enseignement visée dans le présent décret]<sup>2</sup>, la situation dans laquelle un comportement non désiré qui est lié à [<sup>6</sup> l'un ou plusieurs des critères]<sup>6</sup> protégés d'une personne survient avec pour objet ou pour effet de porter atteinte à sa dignité et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;
+
+7° " Harcèlement sexuel " : [<sup>2</sup> sans préjudice de la définition propre au domaine de l'enseignement visée dans le présent décret]<sup>2</sup>, la situation dans laquelle un comportement non désiré à connotation sexuelle, s'exprimant physiquement, verbalement ou non verbalement, survient avec pour objet ou pour effet de porter atteinte à la dignité d'une personne et, en particulier, de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;
+
+8° " Injonction de discriminer " : tout comportement consistant à enjoindre à quiconque de pratiquer une discrimination, sur la base [<sup>6</sup> d'un ou plusieurs des critères ]<sup>6</sup> protégés, à l'encontre d'une personne, d'un groupe, d'une communauté ou de l'un de leurs membres;
+
+9° " Aménagements raisonnables " : sans préjudice de la définition donnée par l'autorité compétente en la matière en vertu de l'article 5, § 1er, II, 4°, de la loi spéciale de réformes institutionnelles du 8 août 1980, combinée à l'article 3septies du décret II du 19 juillet 1993 attribuant l'exercice de certaines compétences de la Communauté française à la Région wallonne et à la Commission communautaire française, les aménagements raisonnables sont des mesures appropriées, prises en fonction des besoins dans une situation concrète, pour permettre à une [<sup>5</sup> personne en situation de handicap]<sup>5</sup> d'accéder, de participer et de progresser dans les domaines visés à l'article 4, sauf si ces mesures imposent à l'égard de la personne qui doit les adopter une charge disproportionnée. Cette charge n'est pas disproportionnée lorsqu'elle est compensée de façon suffisante par des mesures existant dans le cadre de la politique publique menée concernant les personnes handicapées;
+
+10° " Actions positives " : mesures spécifiques telles que visées au Chapitre V du présent Titre, destinées à compenser les désavantages liés à [<sup>6</sup> l'un ou plusieurs des critères ]<sup>6</sup> protégés, en vue de garantir une pleine égalité dans la pratique;
+
+11° " Relations d'emploi " : les relations d'emploi statutaires [<sup>1</sup> et contractuelles]<sup>1</sup> que la Communauté française peut régir en vertu des articles 9 et 87 de la loi spéciale de réformes institutionnelles du 8 août 1980 et de [<sup>5</sup> [<sup>7</sup> les articles 127 et 128]<sup>7</sup>]<sup>5</sup>, de la Constitution et ce, à tous les niveaux de la hiérarchie professionnelle, qui incluent les conditions d'accès à la fonction y compris en matière de promotion, ainsi que les conditions d'exercice de ces fonctions, y compris les conditions dans lesquelles il y est mis un terme ainsi que la rémunération dont elles sont assorties;
+
+12° " Enseignement " : l'enseignement prodigué en Communauté française, tous types, tous niveaux, tous réseaux confondus, réglé par elle au titre des compétences qui lui sont dévolues en la matière en vertu de l'article 127, § 1er, 2°, de la Constitution, dans la mesure où cet enseignement correspond à l'éducation visée à l'article 149 du Traité instituant la Communauté européenne et à la formation professionnelle visée à l'article 150 du même Traité;
+
+13° " Education " : l'éducation au sens de l'article 149 du Traité instituant la Communauté européenne, soit l'enseignement prodigué en Communauté française, tous réseaux confondus, et comprenant, d'une part, l'enseignement fondamental visé [<sup>8</sup> à l'article 1.2.1-1 du Code de l'enseignement fondamental et de l'enseignement secondaire et, d'autre part, l'enseignement secondaire visé à l'article 1.2.1-4 du même Code]<sup>8</sup>;
+
+14° " Formation professionnelle " : la formation professionnelle au sens de l'article 150 du Traité instituant la Communauté européenne, soit l'enseignement prodigué en Communauté française, tous réseaux confondus, destiné à préparer à une qualification pour une profession, un métier ou un emploi spécifique, ou à conférer une aptitude particulière à leur exercice, à l'exclusion de l'enseignement correspondant à l'éducation. Correspondent à tout le moins à de la formation professionnelle la section de qualification de l'enseignement secondaire visée [<sup>8</sup> à l'article 1.2.1-6 du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>8</sup>;
+
+15° " Politique de santé " : la politique de santé au sens de l'article 5, § 1er, I, de la loi spéciale du 8 août 1980 de réformes institutionnelles;
+
+16° " Avantages sociaux " : les avantages sociaux au sens de l'article 7, § 2, du Règlement (CEE) n° 1612/68 du Conseil du 15 octobre 1968 relatif à la libre circulation des travailleurs au sein de la Communauté, à savoir dans le cadre du présent décret, toutes prestations à caractère économique ou culturel dans la mesure où, liées ou non à un contrat d'emploi, elles sont accordées par des pouvoirs publics ou des organismes privés relevant des compétences de la Communauté française;
+
+17° " Biens " : biens et marchandises au sens des dispositions du Traité instituant la Communauté européenne relatives à la libre circulation des biens et des marchandises;
+
+18° " Services " : services d'intérêt général y compris les services au sens de l'article 50 du Traité instituant la Communauté européenne.
+
+[<sup>1</sup> 19° "L'accord de coopération du 12 juin 2013 " : l'accord de coopération entre l'autorité fédérale, les Régions et les Communautés visant à créer un Centre interfédéral pour l'Egalité des chances et la lutte contre le racisme et les discriminations sous la forme d'une institution conclu le 12 juin 2013;]<sup>1</sup>
+
+[<sup>1</sup> 20° "Le Centre" : le Centre interfédéral pour l'Egalité des chances et la lutte contre le racisme et les discriminations, créé par l'accord de coopération du 12 juin 2013;]<sup>1</sup>
+
+[<sup>1</sup> 21° "L'institut" : l'Institut pour l'égalité des femmes et des hommes, créé par la loi du 16 décembre 2002;]<sup>1</sup>
+
+[<sup>3</sup> 22 ° " Congé de paternité " : un congé du travail pour les pères ou, le cas échéant, pour les personnes reconnues comme seconds parents équivalents en vertu du droit belge, à l'occasion de la naissance d'un enfant pour s'occuper de celui-ci;
+
+23° " Congé parental " : un congé du travail pour les parents en raison de la naissance ou de l'adoption d'un enfant pour s'occuper de celui-ci ;
+
+24° " Congé d'aidant " : un congé du travail pour les travailleurs afin d'apporter des soins personnels ou une aide personnelle à un membre de la famille ou à une personne qui vit dans le même ménage que le travailleur et qui nécessite des soins ou une aide considérable pour raison médicale grave ;
+
+25° " [<sup>9</sup> Aidant " : la personne qui a des responsabilités à l'égard de personnes qui résident dans le même ménage, ou encore de membres de la famille qui ont besoin d'aide ou d'assistance, en raison de leur vulnérabilité ou de leur situation de dépendance]<sup>9</sup> ;
+
+26° " Congé de nature familiale " : le congé de paternité, le congé parental et l'absence pour cause de force majeure de nature familiale ;
+
+27° " Formule souple de travail " : la possibilité pour les travailleurs d'aménager leurs régimes de travail, y compris par le recours au travail à distance, à des horaires de travail souples ou à une réduction du temps de travail.]<sup>3</sup>
+
+[<sup>10</sup> Sexe " : entendu comme faisant référence aux caractéristiques biologiques et physiologiques, servant à différencier les hommes et les femmes, en tenant compte que ces caractéristiques ne s'excluent pas forcément, notamment dans le cas des personnes intersexes ;
+
+29° " Discrimination cumulée " : situation qui se produit lorsqu'une personne subit une discrimination suite à une distinction fondée sur plusieurs critères protégés qui s'additionnent, tout en restant dissociables ;
+
+30° " Discrimination intersectionnelle " : situation qui se produit lorsqu'une personne subit une discrimination suite à une distinction fondée sur plusieurs critères protégés qui interagissent et deviennent indissociables. ]<sup>10</sup>
+
+----------
+
+(1)&lt;DCFR 2013-12-05/12, art. 1, 002; En vigueur : 15-03-2014&gt;
+
+(2)&lt;DCFR 2015-11-13/15, art. 2, 003; En vigueur : 18-12-2015&gt;
+
+(3)&lt;DCFR 2023-05-25/17, art. 2, 004; En vigueur : 10-09-2023&gt;
+
+(4)&lt;DCFR 2024-05-16/93, art. 3, 005; En vigueur : 01-01-2025&gt;
+
+(5)&lt;DCFR 2024-05-16/93, art. 5, 005; En vigueur : 01-01-2025&gt;
+
+(6)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+(7)&lt;DCFR 2024-05-16/93, art. 7, 005; En vigueur : 01-01-2025&gt;
+
+(8)&lt;DCFR 2024-05-16/93, art. 8, 005; En vigueur : 01-01-2025&gt;
+
+(9)&lt;DCFR 2024-05-16/93, art. 9, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE III. - Champ d'application général.
+
+###### Art. 4
+
+Le présent décret s'applique, dans chacun des domaines mentionnés ci-après, dans la mesure où ces domaines se rattachent à l'aire de compétence matérielle et territoriale de la Communauté française, pour autant que cette dernière n'ait pas transféré l'exercice de la compétence concernée en application de l'article 138 de la Constitution, à toutes les personnes, tant pour le secteur public que pour le secteur privé, en tant qu'il contient des dispositions destinées à garantir l'égalité de traitement :
+
+1° Les relations d'emploi;
+
+2° L'enseignement;
+
+3° La politique de santé;
+
+4° Les avantages sociaux;
+
+5° L'affiliation à et l'engagement dans toute organisation professionnelle de droit privé subventionnée par la Communauté française;
+
+6° L'accès aux biens et aux services qui sont à la disposition du public, ainsi que leur fourniture.
+
+[<sup>1</sup> 7° l'accès, la participation et tout autre exercice d'une activité économique, sociale, culturelle ou politique accessible au public.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2013-12-05/12, art. 2, 002; En vigueur : 15-03-2014&gt;
+
+### CHAPITRE IV. - Interdiction de discriminer.
+
+###### Art. 5
+
+Toute discrimination fondée sur [<sup>2</sup> l'un ou plusieurs des critères ]<sup>2</sup> protégés est interdite.
+
+Dans le cadre du présent décret, le terme " discrimination " inclut, sauf disposition contraire :
+
+1° La discrimination directe [<sup>3</sup> ...]<sup>3</sup>;
+
+2° La discrimination indirecte;
+
+3° Le harcèlement et le harcèlement sexuel, ainsi que tout traitement moins favorable reposant sur le rejet de tels comportements par la personne concernée ou sa soumission à ceux-ci;
+
+4° Le refus de mettre en place des aménagements raisonnables en faveur d'une [<sup>1</sup> personne en situation de handicap]<sup>1</sup>, sans préjudice des règles édictées en la matière par l'autorité compétente en vertu de l'article 5, § 1er, II, 4°, de la loi spéciale de réformes institutionnelles du 8 août 1980, combinée à l'article 3septies du décret II du 19 juillet 1993 attribuant l'exercice de certaines compétences de la Communauté française à la Région wallonne et à la Commission communautaire française;
+
+5° L'injonction de discriminer.
+
+Toute distinction directe fondée sur [<sup>2</sup> l'un ou plusieurs des critères ]<sup>2</sup> protégés constitue une discrimination directe sauf si, et uniquement dans les cas où le présent décret prévoit cette possibilité dans le cadre du Titre II, cette distinction est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+Toute distinction indirecte fondée sur [<sup>2</sup> l'un ou plusieurs des critères ]<sup>2</sup>protégés constitue une discrimination indirecte,
+
+1° A moins que la disposition, le critère ou la pratique apparemment neutre qui est au fondement de cette distinction indirecte soit objectivement justifié par un but légitime et que les moyens de réaliser ce but soient appropriés et nécessaires; ou,
+
+2° A moins que, en cas de distinction indirecte sur la base d'un handicap, il soit démontré qu'aucun aménagement raisonnable ne peut être mis en place.
+
+Une distinction directe ou indirecte fondée sur [<sup>2</sup> l'un ou plusieurs des critères ]<sup>2</sup> protégés ne s'analyse pas en une quelconque forme de discrimination prohibée par le présent décret lorsque cette distinction directe ou indirecte est imposée par ou en vertu d'un décret.
+
+L'alinéa précédent ne préjuge cependant en rien de la conformité des distinctions directes ou indirectes imposées par ou en vertu d'une loi avec la Constitution, le droit de l'Union Européenne et le droit international en vigueur en Belgique.
+
+[<sup>3</sup> Toute distinction directe ou indirecte fondée sur plusieurs critères protégés qui s'additionnent, tout en restant dissociables, constitue une discrimination cumulée, à moins que cette distinction ne soit justifiée en vertu des dispositions du chapitre 5. Pour l'évaluation de la justification, est d'application le régime de justification le plus favorable à la personne concernée par la distinction de traitement.
+
+Toute distinction directe ou indirecte, fondée sur plusieurs critères protégés qui interagissent et deviennent indissociables, constitue une discrimination intersectionnelle, à moins que cette distinction ne soit justifiée en vertu des dispositions du chapitre 5. Pour l'évaluation de la justification, est d'application le régime de justification le plus favorable à la personne concernée par la distinction de traitement. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 5, 005; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art.6, 005; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DCFR 2024-05-16/93, art.10, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE V. - Actions positives.
+
+###### Art. 6
+
+§ 1er. La Communauté française peut maintenir ou adopter des actions positives.
+
+Une distinction directe ou indirecte fondée sur [<sup>2</sup> l'un ou plusieurs des critères ]<sup>2</sup> protégés ne s'analyse pas en une quelconque forme de discrimination, lorsque cette distinction résulte de la mise en oeuvre d'une action positive.
+
+§ 2. Une mesure d'action positive ne peut être mise en oeuvre que moyennant le respect des conditions suivantes :
+
+1° Il doit exister une inégalité manifeste;
+
+2° La disparition de cette inégalité doit être désignée comme un but à promouvoir;
+
+3° La mesure d'action positive doit être de nature temporaire, étant de nature à disparaître dès que le but visé est atteint;
+
+4° La mesure d'action positive ne doit pas restreindre inutilement les droits d'autrui.
+
+§ 3. Dans le respect des conditions fixées au § 2, le Gouvernement [<sup>1</sup> peut déterminer ]<sup>1</sup> les hypothèses et les conditions dans lesquelles une mesure d'action positive peut être mise en oeuvre.
+
+[<sup>1</sup> § 4. En l'absence d'arrêté pris sur pied du paragraphe précédent, il appartient au juge de vérifier, au cas par cas, que les conditions visées au § 2 sont respectées.]<sup>1</sup>
+
+[<sup>1</sup> § 5. Les § 3 et 4 ne sont pas d'application pour les actions positives prises en matière de relation d'emploi pour lesquelles il appartient au gouvernement de déterminer, dans le respect des conditions fixées au § 2, les hypothèses et les conditions dans lesquelles une mesure d'action positive peut être mise en oeuvre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2015-11-13/15, art. 3, 003; En vigueur : 18-12-2015&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+## TITRE II. - Dispositions spécifiques.
+
+### CHAPITRE Ier. - Le domaine de l'emploi.
+
+#### Section Ire. - Définitions spécifiques.
+
+###### Art. 7
+
+Pour l'application du présent chapitre, on entend par :
+
+1° " Rémunération " : le traitement ordinaire de base ou minimal, et tout autre avantage, payé directement ou indirectement, en espèces ou en nature, dont bénéficie le titulaire de la fonction correspondant à une relation d'emploi visée à l'article 8, alinéa 1er, en raison de celle-ci.
+
+2° " Harcèlement " : les conduites indésirables, abusives et répétées, se manifestant dans les relations d'emploi visées au présent chapitre, et se traduisant notamment par des comportements, des paroles, des intimidations, des actes, des gestes et des écrits unilatéraux, ayant pour objet ou pour effet de porter atteinte à la personnalité, la dignité ou l'intégrité physique ou psychique d'une personne concernée par lesdites relations d'emploi, ou de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;
+
+3° " Harcèlement sexuel " : toute forme de comportement verbal, non-verbal ou corporel de nature sexuelle, se manifestant dans les relations d'emploi visées au présent chapitre, dont celui qui s'en rend coupable, sait ou devrait savoir, qu'il affecte la dignité de femmes et d'hommes sur les lieux de travail.
+
+4° " Employeur " : la personne qui occupe le titulaire de la fonction correspondant à une relation d'emploi visée à l'article 8, alinéa 1er.
+
+[<sup>1</sup> 5° " Candidat " : la personne qui postule une fonction correspondant à une relation d'emploi visée à l'article 8, alinéa 1er ;
+
+6° " Travailleur " : la personne titulaire de la fonction correspondant à une relation d'emploi visée à l'article 8, alinéa 1er .]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 11, 005; En vigueur : 01-01-2025&gt;
+
+#### Section II. - Champ d'application spécifique.
+
+###### Art. 8
+
+Les dispositions du présent chapitre sont applicables aux relations [<sup>1</sup> ...]<sup>1</sup> d'emploi qui se nouent au sein :
+
+1° Des organismes visés à l'article 9, alinéa 2, de la loi spéciale du 8 août 1980, créés par la Communauté française ou dans lesquels elle prend des participations en capital;
+
+2° Des établissements d'enseignement en Communauté française, tous types, tous niveaux, tous réseaux confondus, tels que visés par l'article 24, § 4, de la Constitution;
+
+3° De l'administration et des institutions dont dispose le Gouvernement, visées à l'article 87 de la loi spéciale du 8 août 1980 de réformes institutionnelles.
+
+En ce qui concerne les conditions d'accès à la fonction, le présent décret s'applique, sans préjudice de la compétence dévolue à Selor en vertu de l'article 87, § 2, de la loi spéciale de réformes institutionnelles du 8 août 1980, entre autres, mais pas exclusivement à ou aux :
+
+1° Offres d'emploi ou annonces d'emploi et de possibilités de promotion, et ceci indépendamment de la façon dont celles-ci sont publiées ou diffusées;
+
+2° La fixation et l'application des critères de sélection et des voies de sélection utilisés dans le processus de recrutement;
+
+3° La fixation et l'application des critères de recrutement utilisés lors du recrutement ou de la nomination;
+
+4° La fixation et l'application des critères utilisés lors de la promotion.
+
+En ce qui concerne les conditions de travail et la rémunération, le présent décret s'applique entre autres, mais pas exclusivement à ou aux :
+
+1° Régimes statutaires de droit administratif;
+
+2° La durée du travail et les horaires de travail;
+
+3° La classification des professions et des fonctions.
+
+En ce qui concerne les conditions dans lesquelles il est mis un terme aux relations d'emploi, le présent décret s'applique entre autres, mais pas exclusivement, aux mesures qui sont prises suite à la rupture de la relation d'emploi.
+
+----------
+
+(1)&lt;DCFR 2023-05-25/17, art. 3, 004; En vigueur : 10-09-2023&gt;
+
+#### Section III. - Justifications admissibles à la distinction directe dans l'emploi.
+
+##### Sous-section Ire. - Justification objective et raisonnable.
+
+###### Art. 9
+
+Une distinction directe fondée sur la nationalité, [<sup>1</sup> l'état civil, la naissance, les responsabilités familiales, la fortune, la condition et l'origine sociale, la conviction politique ou syndicale, la langue, l'état de santé, une caractéristique physique ou génétique]<sup>1</sup> ne constitue pas une discrimination si cette distinction est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+L'alinéa premier ne permet cependant en aucun cas de justifier une distinction directe fondée sur la nationalité qui serait interdite par le droit de l'Union européenne.
+
+[<sup>1</sup> Les dispositions relatives à la protection de la grossesse et de la maternité ne s'analysent pas en une quelconque forme de discrimination, mais sont une condition pour la réalisation de l'égalité de traitement entre les personnes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 12, 005; En vigueur : 01-01-2025&gt;
+
+##### Sous-section II. - Exigence professionnelle essentielle et déterminante.
+
+###### Art. 10
+
+§ 1er. Sous réserve des dispositifs prévus aux articles 11 à 13, une distinction directe fondée sur une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, le sexe, [<sup>1</sup> la grossesse, la procréation médicalement assistée, l'accouchement, l'allaitement, la maternité, les responsabilités familiales, l'identité de genre, l'expression de genre, les caractéristiques sexuelles et la transition médicale ou sociale]<sup>1</sup> l'âge, l'orientation sexuelle, la conviction religieuse ou philosophique, ou un handicap, peut, pour ne pas constituer une discrimination, uniquement être justifiée par des exigences professionnelles essentielles et déterminantes.
+
+§ 2. Il ne peut être question d'une exigence professionnelle essentielle et déterminante que lorsque :
+
+1° La caractéristique en cause est essentielle et déterminante en raison de la nature des activités professionnelles spécifiques concernées ou du contexte dans lequel celles-ci sont exécutées, et;
+
+2° L'exigence repose sur un but légitime et est proportionnée par rapport à celui-ci.
+
+§ 3. Le Gouvernement détermine les situations dans lesquelles le sexe constitue, conformément aux conditions visées au paragraphe 2 de la présente disposition, une exigence professionnelle essentielle et déterminante.
+
+En ce qu'ils concernent le secteur public, les arrêtés adoptés en application de l'alinéa précédent sont adoptés, selon les cas, après consultation du comité de concertation ou de négociation compétent, prévu par la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, ou de l'organe désigné de concertation syndicale pour les administrations, services et institutions auxquels cette dernière loi ne s'applique pas.
+
+A défaut pour l'un des organes consultés de s'être prononcé dans les deux mois de la demande, son avis est réputé positif.
+
+§ 4. Pour les critères protégés visés au § 1er et autres que le sexe, il appartient en principe au juge de vérifier, au cas par cas, si telle caractéristique donnée constitue une exigence professionnelle essentielle et déterminante.
+
+Le Gouvernement peut néanmoins établir, après consultation des organes visés au § 3, alinéa 2, une liste exemplative de situations dans lesquelles une caractéristique déterminée constitue, conformément au § 2, une exigence professionnelle essentielle et déterminante.
+
+A défaut pour l'un des organes consultés de s'être prononcé dans les deux mois de la demande, son avis est réputé positif.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 4, 005; En vigueur : 01-01-2025&gt;
+
+##### Sous-section III. - Justification spécifique sur la base de la conviction religieuse ou philosophique.
+
+###### Art. 11
+
+Par dérogation à l'article 10, dans le cas des activités professionnelles des organisations publiques et privées, dont le fondement repose sur la conviction religieuse ou philosophique, une distinction directe fondée sur la conviction religieuse ou philosophique ne constitue pas une discrimination lorsque, en raison de la nature des activités ou du contexte dans lequel celles-ci sont exercées, la conviction religieuse ou philosophique constitue une exigence professionnelle essentielle, légitime et justifiée au regard du fondement de l'organisation.
+
+Sur la base de la présente disposition, aucune autre distinction directe fondée sur un autre critère protégé ne peut être justifiée, à moins qu'elle ne le soit en application d'une autre disposition du titre II du présent décret.
+
+Pourvu que ses dispositions soient par ailleurs respectées, le présent décret ne porte pas préjudice au droit des organisations publiques ou privées dont le fondement repose sur la conviction religieuse ou philosophique de requérir des personnes travaillant pour elles une attitude de bonne foi et de loyauté envers l'éthique de l'organisation.
+
+##### Sous-section IV. - Justification spécifique sur la base de l'âge.
+
+###### Art. 12
+
+Par dérogation à l'article 10 et sans préjudice des autres dispositions du présent chapitre, une distinction directe fondée sur l'âge ne constitue pas une discrimination lorsqu'elle est objectivement et raisonnablement justifiée, par un but légitime, notamment par des buts légitimes de politique de l'emploi, du marché du travail ou tout autre but légitime comparable, et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+#### Section IV. - Action positive.
+
+###### Art. 13
+
+Dans le domaine des relations d'emploi, les arrêtés adoptés [<sup>1</sup> en application de l'article 6, § 5]<sup>1</sup>, sont soumis préalablement, pour ce qui concerne le secteur public, à la consultation des organes visés à l'article 10, § 3, alinéa 2.
+
+A défaut pour l'un des organes consultés de s'être prononcé dans les deux mois de la demande, son avis est réputé positif.
+
+----------
+
+(1)&lt;DCFR 2015-11-13/15, art. 5, 003; En vigueur : 18-12-2015&gt;
+
+#### Section V. - Disposition spécifique relative au harcèlement.
+
+###### Art. 14
+
+Le harcèlement et le harcèlement sexuel sont prohibés en application du présent chapitre lorsqu'ils se manifestent dans le cadre de l'accès à une fonction que la Communauté française peut régir en vertu des articles 9 et 87 de la loi spéciale de réformes institutionnelles du 8 août 1980 et [<sup>2</sup> des articles 127 et 128 de la Constitution ]<sup>2</sup>, en ce compris en ce qui concerne les conditions d'accès à cette fonction.
+
+[<sup>1</sup> Les dispositions du présent décret ne sont pas applicables en cas de harcèlement dans les relations de travail vis-à-vis des personnes visées dans l'article 2, § 1er, de la loi du 4 août 1996 relative au bien-être des travailleurs dans l'exécution de leur travail. En cas de harcèlement dans le cadre des relations de travail, ces personnes recourent uniquement aux dispositions de la loi précitée [<sup>2</sup> sauf pour ce qui concerne la protection contre des mesures préjudiciables, pour laquelle l'article 45 s'applique ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2015-11-13/15, art. 5, 003; En vigueur : 18-12-2015&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 13, 005; En vigueur : 01-01-2025&gt;
+
+#### Section VI. [<sup>1</sup> Retour de congé lié aux responsabilités familiales ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 14, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 15
+
+Un parent [<sup>1</sup> ou un aidant]<sup>1</sup>, engagé dans une relation d'emploi visée au présent chapitre,[<sup>1</sup> en congé de maternité, de naissance, d'adoption, parental ou dans le cadre des responsabilités familiales]<sup>1</sup> a le droit, au terme de ce congé, de retrouver sa fonction ou une fonction équivalente à des conditions qui ne lui soient pas moins favorables et de bénéficier de toute amélioration des conditions de travail à laquelle il aurait eu droit durant son absence.
+
+[<sup>1</sup> En cas d'impossibilité, l'employeur lui attribue une fonction équivalente ou similaire, qui est conforme à son contrat de travail ou à sa relation de travail.
+
+Un parent ou un aidant a le droit de bénéficier de toute amélioration des conditions de travail à laquelle il aurait eu droit durant son absence dans le cadre d'un congé de maternité, d'un congé de naissance, d'un congé d'adoption, d'un congé parental ou d'un autre congé dans le cadre des responsabilités familiales.
+
+Un parent ou un aidant a le droit de bénéficier de tous les droits acquis ou en cours d'acquisition durant la prise d'un congé de maternité, d'un congé de naissance, d'un congé d'adoption, d'un congé parental ou d'un autre congé dans le cadre des responsabilités familiales. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 15, 005; En vigueur : 01-01-2025&gt;
+
+#### Section VII. [<sup>1</sup> Disposition spécifique relative aux congés de nature familiale et aux formules souples de travail]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-05-25/17, art. 4, 004; En vigueur : 10-09-2023&gt;
+
+###### Art. 15/1.
+
+[<sup>1</sup> Un parent ou un aidant, engagé dans une relation d'emploi au sens du présent chapitre, ne peut se voir réserver d'une manière générale un traitement moins favorable au motif qu'il a demandé ou pris un congé de nature familiale ou d'aidant ou exercé une formule souple de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-05-25/17, art. 4, 004; En vigueur : 10-09-2023&gt;
+
+#### Section VIII. [<sup>1</sup> Droit à l'égalité entre les femmes et les hommes par la transparence des rémunérations ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/93, art. 16, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 15/2.
+
+[<sup>1</sup> Dans le cadre des conditions d'accès visés à l'article 8, alinéa 2, les candidats à un emploi reçoivent des informations sur la rémunération initiale ou la fourchette de rémunération initiale correspondant au poste concerné et le cas échéant, les dispositions pertinentes de la convention collective appliquées par l'employeur en rapport avec le poste.
+
+Les structures de rémunération sont de nature à permettre d'évaluer si des travailleurs se trouvent dans une situation comparable au regard de la valeur du travail, en fonction de critères objectifs non discriminatoires convenus avec les organisations représentatives des travailleurs, lorsqu'il en existe. Ces critères ne sont pas fondés, directement ou indirectement, sur le sexe des travailleurs. Les compétences non techniques pertinentes ne sont pas sous-évaluées. Est considérée comme discriminatoire toute structure de rémunération qui ne serait pas transparente au sens de la présente section.
+
+Ces informations sont disponibles dès la publication des offres d'emploi ou annonces d'emploi dans un format accessible aux personnes en situation de handicap. L'employeur informe annuellement les travailleurs des mesures que ceux-ci doivent prendre pour exercer le droit à l'information. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/93, art. 16, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 15/3.
+
+[<sup>1</sup> Les services du Gouvernement publient annuellement un rapport évaluant l'écart de rémunération et la répartition dans les carrières entre travailleurs et travailleuses pour l'ensemble des relations d'emploi visées à l'article 8, alinéa 1er selon les données récoltées l'année précédente.
+
+Ce rapport comprend également une évaluation des congés octroyés aux travailleurs et travailleuses, qui établit le relevé différencié de la rémunération des congés de maternité, de naissance, d'adoption, parental ou d'autres congés dans le cadre des responsabilités familiales.
+
+Le Gouvernement arrête les dates auxquels sont attendues les premières évaluations de l'employeur, selon ses effectifs. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/93, art. 16, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 15/4.
+
+[<sup>1</sup> L'employeur ne demande pas aux candidats à un emploi l'historique de leur rémunération au cours des relations de travail actuelles ou antérieures.
+
+Il met à la disposition de ses travailleurs, d'une manière facilement accessible, les critères qui sont utilisés pour déterminer la rémunération, les niveaux de rémunération et la progression de la rémunération des travailleurs. Ces critères objectifs et non discriminatoires comprennent notamment les compétences, les efforts, les responsabilités et les conditions de travail, ainsi que s'il y a lieu, tout autre facteur pertinent pour l'emploi ou le poste concerné. Ces critères sont appliqués de manière objective.
+
+Il veille à ce que les processus de recrutement soient menés de façon non discriminatoire de manière à ne pas compromettre le droit à l'égalité des rémunérations pour un même travail ou un travail de même valeur.
+
+Sans préjudice de l'article 3 du décret du 14 octobre 2021 relatif au renforcement de la féminisation des noms de métier, fonction, grade ou titre et aux bonnes pratiques non discriminatoires quant au genre dans le cadre des communications officielles ou formelles, il veille à ce que les offres d'emploi et les dénominations de postes soient libellées de manière non discriminatoire.
+
+A partir de 2026, il informe annuellement les travailleurs de leur droit de disposer par écrit des informations sur leur niveau de rémunération individuel et sur les niveaux de rémunération moyens, ventilés par sexe, des travailleurs accomplissant le même travail qu'eux ou un travail de même valeur. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/93, art. 16, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 15/5.
+
+[<sup>1</sup> Pour l'ensemble des obligations visées aux articles 15/2 et 15/4, les services du Gouvernement prennent la charge de la collecte et de la publication des données pertinentes s'agissant des relations d'emploi visées par l'article 8, alinéa 1er, 2° ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/93, art. 16, 005; En vigueur : 01-01-2025&gt;
+
+#### Section IX. [<sup>1</sup> . Classification des professions et des fonctions ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/93, art. 1, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 15/6.
+
+[<sup>1</sup> Lorsqu'un système de classification professionnelle est utilisé pour la détermination des rémunérations, ce système est fondé sur des critères communs aux travailleurs et aux travailleuses et est établi de manière à exclure les discriminations directes ou indirectes fondées sur le sexe. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/93, art. 17, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 15/7.
+
+[<sup>1</sup> Le Gouvernement peut prendre des mesures visant à garantir que les classifications et les évaluations des professions soient conformes au principe de l'égalité de traitement entre les hommes et les femmes prévu par le présent décret, après consultation des organismes visés au titre III, chapitre 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/93, art. 17, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE II. - Le domaine de l'enseignement.
+
+#### Section 1re. - Définitions spécifiques.
+
+###### Art. 16
+
+Pour l'application du présent chapitre, on entend par :
+
+1° " Harcèlement " : les conduites indésirables, abusives [<sup>1</sup> ...]<sup>1</sup>, se traduisant notamment par des comportements, des paroles, des intimidations, des actes, des gestes et des écrits unilatéraux, ayant pour objet ou pour effet de porter atteinte à la personnalité, la dignité ou l'intégrité physique ou psychique[<sup>1</sup> d'une personne [<sup>1</sup> d'une personne qui bénéficie de l'enseignement ]<sup>1</sup> visé à l'article 17, ou de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;
+
+2° " Harcèlement sexuel " : toute forme de comportement verbal, non-verbal ou corporel de nature sexuelle, se manifestant dans le domaine de l'enseignement, [<sup>1</sup> dont l'individu qui s'en rend coupable, sait ou devrait savoir, qu'il affecte la dignité des personnes]<sup>1</sup> sur les lieux où est prodigué cet enseignement.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 18, 005; En vigueur : 01-01-2025&gt;
+
+#### Section II. - Champ d'application spécifique.
+
+###### Art. 17
+
+Les dispositions du présent chapitre sont invocables dans l'enseignement visé à l'article 3, 12°, pour ce qui concerne l'accès à et le suivi de cet enseignement.
+
+#### Section III. - Justifications admissibles à la distinction directe dans l'enseignement.
+
+##### Sous-section Ire. - Dans l'accès à et le suivi de l'enseignement correspondant à l'éducation.
+
+###### Art. 18
+
+Sous réserve de l'article 6, aucune justification à la distinction directe fondée sur une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, n'est admissible en ce domaine.
+
+###### Art. 19
+
+Une distinction directe fondée sur [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> protégés visés à l'article 3, 1°, du présent décret, à l'exception de ceux énumérés à l'article 18, ne constitue pas une discrimination si elle est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+L'alinéa premier ne permet cependant en aucun cas de justifier une distinction directe fondée sur la nationalité qui serait interdite par le droit de l'Union européenne.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+##### Sous-section II. - Dans l'accès à et le suivi de l'enseignement correspondant à la formation professionnelle.
+
+###### Art. 20
+
+Sous réserve de l'article 6, aucune justification à la distinction directe fondée sur une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, l'âge, l'orientation sexuelle, la conviction religieuse ou philosophique, ou un handicap, n'est admissible en ce domaine.
+
+###### Art. 21
+
+§ 1er. Sous réserve de l'article 6, une distinction directe fondée sur le sexe, [<sup>1</sup> la grossesse, la procréation médicalement assistée, l'accouchement, l'allaitement, la maternité, les responsabilités familiales, l'identité de genre, l'expression de genre, les caractéristiques sexuelles et la transition médicale ou sociale]<sup>1</sup> peut uniquement être justifiée par des exigences de la formation essentielles et déterminantes.
+
+§ 2. Il ne peut être question d'une exigence de la formation essentielle et déterminante que lorsque :
+
+1° La caractéristique en cause est essentielle et déterminante en raison de la nature des activités de formation spécifiques concernées ou du contexte dans lequel celles-ci sont exécutées, et;
+
+2° L'exigence repose sur un but légitime et est proportionnée par rapport à celui-ci.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 4, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 22
+
+Une distinction directe fondée sur [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> protégés visés à l'article 3, 1°, du présent décret, à l'exception de ceux énumérés aux articles 20 et 21, ne constitue pas une discrimination si elle est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+L'alinéa premier ne permet cependant en aucun cas de justifier une distinction directe fondée sur la nationalité qui serait interdite par le droit de l'Union européenne.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+#### Section IV. - Disposition spécifique relative au harcèlement.
+
+###### Art. 23
+
+Le harcèlement et le harcèlement sexuel subis par [<sup>1</sup> d'une personne qui bénéficie de l'enseignement]<sup>1</sup> visé à l'article 17 sont prohibés en application du présent chapitre lorsqu'ils se manifestent dans le cadre d'un enseignement prodigué sans que le programme d'étude ne prévoie une forme de travail effectué dans l'établissement d'enseignement.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 19, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE III. - Le domaine de la politique de santé.
+
+#### Section Ire. - Champ d'application spécifique.
+
+###### Art. 24
+
+Les dispositions du présent chapitre sont invocables par les bénéficiaires de toute politique de santé au sens de l'article 3, 15°, du présent décret.
+
+#### Section II. - Justifications admissibles à la distinction directe dans la politique de santé.
+
+###### Art. 25
+
+Sous réserve de l'article 6, aucune justification à la distinction directe fondée sur une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, n'est admissible dans le domaine de la politique de santé.
+
+###### Art. 26
+
+Dans le domaine de la politique de santé, une distinction directe fondée sur [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> visés à l'article 3, 1°, du présent décret, à l'exception de ceux énumérés à l'article 25, ne constitue pas une discrimination si elle est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+L'alinéa premier ne permet cependant en aucun cas de justifier une distinction directe fondée sur la nationalité qui serait interdite par le droit de l'Union européenne.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE IV. - Le domaine des avantages sociaux.
+
+#### Section Ire. - Champ d'application spécifique.
+
+###### Art. 27
+
+Les dispositions du présent chapitre sont applicables à tous les " avantages sociaux " au sens de l'article 3, 16°, du présent décret.
+
+#### Section II. - Justifications admissibles à la distinction directe dans le domaine des avantages sociaux.
+
+###### Art. 28
+
+Sous réserve de l'article 6, aucune justification à la distinction directe fondée sur une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, n'est admissible dans le domaine des avantages sociaux.
+
+###### Art. 29
+
+Dans le domaine des avantages sociaux, une distinction directe fondée sur [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> protégés visés à l'article 3, 1°, du présent décret, à l'exception de ceux énumérés à l'article 28, ne constitue pas une discrimination si elle est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+L'alinéa premier ne permet cependant en aucun cas de justifier une distinction directe fondée sur la nationalité qui serait interdite par le droit de l'Union européenne.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE V. - Le domaine de l'affiliation à et de l'engagement dans toute organisation professionnelle de droit privé subventionnée, agréée ou reconnue par la Communauté française.
+
+#### Section Ire. - Champ d'application spécifique.
+
+###### Art. 30
+
+Le présent chapitre est applicable à toute association dont les membres exercent une même profession, dont l'objet social consiste à défendre les intérêts professionnels de ses membres et qui est subventionnée, agréée ou reconnue par la Communauté française.
+
+#### Section II. - Justifications admissibles à la distinction directe.
+
+###### Art. 31
+
+Sous réserve de l'article 6, aucune justification à la distinction directe fondée sur une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, le sexe, [<sup>1</sup> la grossesse, la procréation médicalement assistée, l'accouchement, l'allaitement, la maternité, les responsabilités familiales, l'identité de genre, l'expression de genre, les caractéristiques sexuelles et la transition médicale ou sociale]<sup>1</sup> l'âge, l'orientation sexuelle, la conviction religieuse ou philosophique, ou un handicap, n'est admissible dans le domaine visé par le présent chapitre.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 4, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 32
+
+Dans le domaine visé par le présent chapitre, une distinction directe fondée sur l'un des autres critères protégés visés à l'article 3, 1°, du présent décret que ceux visés à l'article 31, ne constitue pas une discrimination si elle est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+L'alinéa premier ne permet cependant en aucun cas de justifier une distinction directe fondée sur la nationalité qui serait interdite par le droit de l'Union européenne.
+
+### CHAPITRE VI. - Le domaine de l'accès aux biens et aux services ainsi que leur fourniture.
+
+#### Section Ire. - Champ d'application spécifique.
+
+###### Art. 33
+
+Le présent chapitre est applicable à toute personne fournissant des biens et services, qui sont à la disposition du public, indépendamment de la personne concernée, tant pour le secteur public que pour le secteur privé y compris les organismes publics, et qui sont offerts en dehors de la sphère de la vie privée et familiale, ainsi qu'aux transactions qui se déroulent dans ce cadre.
+
+#### Section II. - Justifications admissibles à la distinction directe.
+
+##### Sous-section Ire. - Accès à et fourniture des biens et services en fonction de la nationalité, une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique.
+
+###### Art. 34
+
+Sous réserve de l'article 6, aucune justification à la distinction directe fondée sur une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, n'est admissible dans le domaine visé par le présent chapitre.
+
+##### Sous-section II. - Fourniture de biens et services exclusivement ou essentiellement destinés aux membres d'un sexe.
+
+###### Art. 35
+
+Sous réserve de l'article 6, une distinction directe fondée sur le sexe peut être faite si la fourniture de biens et services exclusivement ou essentiellement destinés aux membres d'un sexe est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+Le Gouvernement détermine de manière limitative les biens et services qui peuvent être considérés comme destinés exclusivement ou essentiellement aux membres d'un sexe.
+
+En l'absence d'arrêté pris sur pied de l'alinéa précédent, il appartient au juge de vérifier, au cas par cas, que les distinctions visées à l'alinéa 1er peuvent être objectivement justifiées par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+##### Sous-section III. - Justification objective et raisonnable.
+
+###### Art. 36
+
+Dans le domaine visé par le présent chapitre, une distinction directe fondée sur l'un des autres critères protégés que ceux énumérés aux articles 34 et 35, ne constitue pas une discrimination si elle est objectivement justifiée par un but légitime et que les moyens de réaliser ce but sont appropriés et nécessaires.
+
+L'alinéa premier ne permet cependant en aucun cas de justifier une distinction directe fondée sur la nationalité qui serait interdite par le droit de l'Union européenne.
+
+## TITRE III. - Dispositions horizontales.
+
+### CHAPITRE Ier. - Organismes autonomes de lutte contre la discrimination.
+
+###### Art. 37
+
+§ 1er. L'Institut, lorsque la discrimination est fondée sur le sexe [<sup>2</sup> la grossesse, la procréation médicalement assistée, l'accouchement, l'allaitement, la maternité, les responsabilités familiales, l'identité de genre, l'expression de genre, les caractéristiques sexuelles et la transition médicale ou sociale]<sup>2</sup> et est prohibée en application du présent décret, est habilité, sans préjudice des missions qui lui sont dévolues par la loi du 16 [<sup>1</sup> décembre]<sup>1</sup> 2002, à :
+
+1° Faire, développer, soutenir et coordonner les études et recherches en matière de genre et d'égalité des femmes et des hommes et évaluer l'impact en terme de genre des politiques, programmes et mesures mis en oeuvre;
+
+2° Adresser des recommandations aux pouvoirs publics en vue de l'amélioration des décrets et réglementations émanant du Gouvernement de la Communauté française;
+
+3° Adresser des recommandations aux pouvoirs publics et aux personnes et institutions privées sur la base des résultats des études et des recherches visées au 1°;
+
+4° Aider, dans les limites de son objet, toute personne sollicitant une consultation sur l'étendue de ses droits et obligations. Cette aide permet à son/sa bénéficiaire d'obtenir des informations et des conseils sur les moyens de faire valoir ses droits;
+
+5° A ester en justice dans les litiges auxquels pourrait donner lieu l'application du présent décret;
+
+6° Produire et fournir toute information, documentation, et archives utiles dans le cadre de son objet;
+
+7° Recueillir et publier, sans possibilité d'identification des parties en cause, les données statistiques et les décisions juridictionnelles utiles à l'évaluation des décrets et réglementations émanant du Gouvernement de la Communauté française relatifs à l'égalité des femmes et des hommes;
+
+8° Demander à l'autorité compétente lorsque l'Institut invoque des faits qui permettent de présumer l'existence d'un traitement discriminatoire, prohibé en application de décrets et réglementations de la Communauté française relatifs à l'égalité des femmes et des hommes, de s'informer et de tenir informé celui-ci des résultats de l'analyse des faits dont il est question.
+
+L'autorité informe l'Institut de manière motivée des suites qui y sont réservées.
+
+§ 2. [<sup>1</sup> Conformément aux articles 4, 5 et 6 de l'Accord de coopération du 12 juin 2013 et dans les limites de ses missions précisées à l'article 3 de cet Accord, le Centre est compétent pour l'application du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2013-12-05/12, art. 3, 002; En vigueur : 15-03-2014&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 4, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE II. - Voies de recours et charge de la preuve.
+
+#### Section Ire. - Voies de recours.
+
+###### Art. 38
+
+Peuvent ester en justice dans les litiges auxquels l'application du présent décret donnerait lieu, à l'exception des litiges basés sur une discrimination fondée sur la langue, les organes visés à l'article 37.
+
+Le Gouvernement désigne l'organe qui sera compétent pour les discriminations fondées sur la langue.
+
+###### Art. 39
+
+Peuvent ester en justice dans les litiges auxquels l'application du présent décret donnerait lieu, lorsqu'un préjudice est porté aux fins statutaires qu'ils se sont donnés pour mission de poursuivre, les groupements d'intérêts suivants :
+
+1° Tout établissement d'utilité publique et toute association, jouissant de la personnalité juridique depuis au moins trois ans à la date des faits, et se proposant par ses statuts de défendre les droits de l'homme ou de combattre la discrimination;
+
+2° Les organisations représentatives au sens de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités;
+
+3° Les organisations syndicales représentatives au sein de l'organe de concertation syndicale désigné pour les administrations, services ou institutions pour lesquels la loi du 19 décembre 1974 réglant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités n'est pas d'application.
+
+###### Art. 40
+
+Lorsque la victime de la discrimination est une personne physique ou une personne morale identifiée, l'action des organes visés à l'article 37 et des groupements d'intérêts visés à l'article 39 ne sera recevable que s'ils prouvent qu'ils ont reçu l'accord de la victime.
+
+#### Section II. - Charge de la preuve.
+
+###### Art. 41
+
+Les dispositions de la présente section sont applicables à toutes les procédures juridictionnelles, à l'exception des procédures pénales.
+
+###### Art. 42
+
+Lorsqu'une personne qui s'estime victime d'une discrimination, les organes visés à l'article 37 ou l'un des groupements d'intérêts visés à l'article 39, invoquent devant la juridiction compétente des faits qui permettent de présumer l'existence d'une discrimination fondée sur[<sup>1</sup> l'un ou plusieurs des critères]<sup>1</sup>, il incombe au défendeur de prouver qu'il n'y a pas eu de discrimination.
+
+Par faits qui permettent de présumer l'existence d'une discrimination directe fondée sur un critère protégé, sont compris, entre autres, mais pas exclusivement :
+
+1° Les éléments qui révèlent une certaine récurrence de traitement défavorable à l'égard de personnes partageant un critère protégé; entre autres, différents signalements isolés faits auprès des organes visés à l'article 37 ou l'un des groupements d'intérêts; ou
+
+2° Les éléments qui révèlent que la situation de la victime du traitement plus défavorable est comparable avec la situation de la personne de référence.
+
+Par faits qui permettent de présumer l'existence d'une discrimination indirecte fondée sur un critère protégé, sont compris, entre autres, mais pas exclusivement :
+
+1° Des statistiques générales concernant la situation du groupe dont la victime de la discrimination fait partie ou des faits de connaissance générale; ou
+
+2° L'utilisation d'un critère de distinction intrinsèquement suspect; ou
+
+3° Du matériel statistique élémentaire qui révèle un traitement défavorable.
+
+[<sup>2</sup> Dans le cadre de relations d'emploi visées à l'article 8, lorsqu'un employeur ne s'est pas conformé aux obligations de transparence des rémunérations énoncées aux articles 15/2, 15/3, 15/4 et 15/5, il lui incombe de prouver qu'il n'y a pas eu discrimination. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 20, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE III. - Dispositions protectionnelles et sanctionnelles de nature civile.
+
+#### Section Ire. - Conformité.
+
+###### Art. 43
+
+Sont nulles les dispositions qui sont contraires au présent décret, ainsi que les clauses contractuelles qui prévoient qu'un ou plusieurs contractants renoncent [<sup>1</sup> ...]<sup>1</sup> aux droits garantis par le présent décret.
+
+Au sens du présent article, on entend par dispositions les actes administratifs, les clauses figurant dans des conventions individuelles ou collectives et des règlements collectifs, ainsi que les clauses figurant dans des documents établis de manière unilatérale.
+
+----------
+
+(1)&lt;DCFR 2013-12-05/12, art. 4, 002; En vigueur : 15-03-2014&gt;
+
+#### Section II. - Protection contre les rétorsions.
+
+###### Art. 44
+
+§ 1er. Lorsqu'une plainte est introduite par ou au bénéfice d'une personne en raison d'une violation du présent décret intervenue dans un autre domaine que celui de l'emploi, celui ou celle contre qui la plainte est dirigée ne peut prendre une mesure préjudiciable à l'encontre de la personne concernée, sauf pour des raisons qui sont étrangères à cette plainte.
+
+Pour l'application du présent article, on entend par " mesure préjudiciable ", toute mesure défavorable ou désavantageuse infligée [<sup>2</sup> à la personne ayant introduit la plainte]<sup>2</sup> visée à l'alinéa 1er.
+
+§ 2. Au sens du § 1er, il y a lieu d'entendre par plainte :
+
+1° Une plainte motivée introduite par la personne concernée auprès de l'organisation ou de l'institution contre laquelle la plainte est dirigée, conformément aux procédures en vigueur;
+
+2° Une plainte motivée introduite au bénéfice de la personne concernée par un des groupements d'intérêts visés à l'article 39, ou par les organes visés à l'article 37;
+
+3° Une action en justice introduite par la personne concernée;
+
+4° Une action en justice introduite au bénéfice de la personne concernée par un des groupements d'intérêts visés à l'article 39, ou par les organes visés à l'article 37.
+
+[<sup>5</sup> 5° Un signalement introduit par la personne concernée ;
+
+6° Un signalement introduit au bénéfice de la personne concernée par un des groupements d'intérêts visés à l'article 39, ou par les organes visés à l'article 37;]<sup>5</sup>
+
+7° Une dénonciation ou une déclaration introduite par la personne concernée ;
+
+8° Une dénonciation ou une déclaration introduite au bénéfice de la personne concernée par un des groupements d'intérêts visés à l'article 39, ou par les organes visés à l'article 37;]<sup>5</sup>
+
+[<sup>6</sup> Les institutions auprès desquelles la plainte est déposée remettent une preuve écrite et datée de la procédure à la personne concernée ou à l'un des groupements d'intérêts visés à l'article 39, ou par les organes visés à l'article 37 agissant au bénéfice de celle-ci.
+
+Afin de bénéficier de la protection visée au paragraphe 1er, la personne concernée par la violation alléguée doit démontrer qu'une plainte a été introduite en raison d'une violation du présent décret. Cette preuve peut être apportée par toute voie de droit.
+
+Dès que l'introduction d'une plainte est établie, il incombe à la personne qui est à l'origine de la discrimination de prouver qu'il n'y a pas eu de discrimination et toute mesure défavorable est présumée préjudiciable.]<sup>6</sup> ]<sup>3</sup>.
+
+§ 3. Lorsqu'une mesure préjudiciable est adoptée vis-à-vis de la personne concernée dans un délai de douze mois suivant l'introduction de la plainte, il appartient à celui ou celle contre qui la plainte est dirigée de prouver que la mesure préjudiciable a été adoptée pour des motifs qui [<sup>7</sup> qui ne sont pas liés au dépôt ou au contenu de la plainte]<sup>7</sup>.
+
+Lorsqu'une action en justice a été introduite par ou au bénéfice de la personne concernée, le délai visé à l'alinéa 1er, est prolongé jusqu'à échéance d'un délai de trois mois suivant le jour où la décision intervenue est passée en force de chose jugée.
+
+§ 4. Lorsqu'il a été jugé qu'une mesure préjudiciable a été adoptée en contravention au § 1er, [<sup>4</sup> à la personne responsable de la mesure]<sup>4</sup> doit verser à la personne concernée des dommages et intérêts dont le montant correspond, au choix de cette personne, soit à l'indemnisation forfaitaire visée à l'article 47, soit au dommage que celle-ci a réellement subi. Dans ce dernier cas, il appartient à la personne concernée de prouver l'étendue du préjudice qu'elle a subi.
+
+§ 5. La protection visée dans le présent article est également d'application aux personnes qui interviennent [<sup>1</sup> comme témoin, conseil, défendeur ou soutien de la personne concernée.]<sup>1</sup>.
+
+§ 6. A la demande de la partie défenderesse, le juge saisi de la demande visée au § 2 peut décider d'abréger les délais visés au § 3.
+
+----------
+
+(1)&lt;DCFR 2015-11-13/15, art. 6, 003; En vigueur : 18-12-2015&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 21, 005; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+(4)&lt;DCFR 2024-05-16/93, art. 23, 005; En vigueur : 01-01-2025&gt;
+
+(5)&lt;DCFR 2024-05-16/93, art. 24, 005; En vigueur : 01-01-2025&gt;
+
+(6)&lt;DCFR 2024-05-16/93, art. 25, 005; En vigueur : 01-01-2025&gt;
+
+(7)&lt;DCFR 2024-05-16/93, art. 26, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 45
+
+§ 1er. Lorsqu'une plainte est introduite par ou au bénéfice d'une personne en raison d'une violation du présent décret survenue dans le domaine de l'emploi visé au chapitre Ier du Titre II du présent décret, l'employeur ne peut adopter une mesure préjudiciable à l'encontre de cette personne, sauf pour des motifs qui sont étrangers à cette plainte.
+
+§ 2. Au sens du présent article, une mesure préjudiciable s'entend notamment de la rupture de la relation d'emploi, de la modification unilatérale des conditions de travail ou de la mesure préjudiciable intervenue après la rupture de la relation d'emploi.
+
+§ 3. Au sens du présent article, il y a lieu d'entendre par plainte :
+
+1° Une plainte motivée introduite par la personne concernée au niveau du service qui l'occupe, conformément aux procédures en vigueur;
+
+2° Une plainte motivée introduite au bénéfice de la personne concernée par un des groupements d'intérêts visés à l'article 39 ou par les organes visés à l'article 37 auprès du service qui l'occupe;
+
+3° Une action en justice introduite par la personne concernée;
+
+4° Une action en justice introduite au bénéfice de la personne concernée par un des groupements d'intérêts visés à l'article 39 ou par les organes visés à l'article 37.
+
+[<sup>2</sup> 5° Un signalement introduit par la personne concernée;
+
+6° Un signalement introduit au bénéfice de la personne concernée par un des groupements d'intérêts visés à l'article 39, ou par les organes visés à l'article 37 ;
+
+7° Une dénonciation ou une déclaration introduite par la personne concernée ;
+
+8° Une dénonciation ou une déclaration introduite au bénéfice de la personne concernée par un des groupements d'intérêts visés à l'article 39, ou par les organes visés à l'article 37.]<sup>2</sup>
+
+[<sup>3</sup> Les institutions auprès desquelles la plainte est déposée remettent une preuve écrite et datée de la procédure à la personne concernée ou à l'un des groupements d'intérêts visés à l'article 39, ou par les organes visés à l'article 37 agissant au bénéfice de celle-ci. "
+
+Afin de bénéficier de la protection visée au paragraphe 1er, la personne concernée par la violation alléguée doit démontrer qu'une plainte a été introduite en raison d'une violation du présent décret. Cette preuve peut être apportée par toute voie de droit.
+
+Dès que l'introduction d'une plainte est établie, il incombe à l'employeur de prouver qu'il n'y a pas eu de discrimination et toute mesure défavorable est présumée préjudiciable.]<sup>3</sup>
+
+§ 4. Lorsque l'employeur adopte une mesure préjudiciable vis-à-vis de la personne concernée dans un délai de douze mois suivant l'introduction de la plainte, il appartient à celui ou celle contre qui la plainte est dirigée de prouver que la mesure préjudiciable a été adoptée pour des motifs qui sont étrangers à cette plainte.
+
+Lorsqu'une action en justice a été introduite par ou au bénéfice de la personne concernée, le délai visé à l'alinéa 1er, est prolongé jusqu'a échéance d'un délai de trois mois suivant le jour où la décision intervenue est passée en force de chose jugée.
+
+§ 5. Lorsque l'employeur adopte une mesure préjudiciable à l'encontre de la personne concernée en contravention au § 1er, cette personne ou le groupement d'intérêts auquel elle est affiliée demande sa réintégration dans le service ou de lui laisser exercer sa fonction sous les mêmes conditions que précédemment.
+
+La demande est introduite par lettre recommandée à la poste dans les trente jours qui suivent la date de la notification de la décision par laquelle il est mis un terme à la fonction ou par laquelle celle-ci est suspendue, ou dans les trente jours de la modification unilatérale des conditions de travail.
+
+L'employeur qui réintègre la personne dans son précédent service ou lui laisse exercer sa fonction sous les mêmes conditions que précédemment est tenu de payer la rémunération perdue en raison de la suspension ou de la cessation des fonctions ou encore de la modification des conditions de travail et de verser les cotisations des employeurs et des travailleurs afférentes à cette rémunération.
+
+Le présent paragraphe ne s'applique pas lorsque la mesure préjudiciable intervient après la cessation de la relation d'emploi.
+
+§ 6. A défaut de réintégration ou de lui laisser exercer sa fonction sous les mêmes conditions que précédemment suivant la demande visée au § 5, alinéa 1er, et lorsque la mesure préjudiciable a été jugée contraire aux dispositions du § 1er, l'employeur doit payer à la personne concernée une indemnité égale, selon le choix de cette personne, soit à un montant forfaitaire correspondant à la rémunération brute de six mois, soit au préjudice réellement subi par la personne concernée, à charge pour celle-ci de prouver l'étendue de ce préjudice, dans ce dernier cas.
+
+§ 7. L'employeur est tenu de payer la même indemnité, sans que la personne ou le groupement d'intérêts auquel elle est affiliée doive introduire la demande visée au § 5 tendant à sa réintégration dans le service ou tendant à exercer sa fonction sous les mêmes conditions que précédemment lorsque la juridiction compétente a considéré comme établis les faits de discrimination qui forment l'objet de la plainte.
+
+§ 8. Lorsque la mesure préjudiciable intervient après la cessation de la relation de travail et qu'elle est jugée contraire au § 1er, l'employeur est tenu de payer à la victime l'indemnité visée au § 6.
+
+§ 9. La protection visée dans le présent article est également d'application aux personnes qui interviennent [<sup>1</sup> comme témoin, conseil, défendeur ou soutien de la personne concernée.]<sup>1</sup>.
+
+§ 10. Les dispositions du présent article sont également d'application aux personnes autres que des employeurs qui occupent des personnes dans le cadre de relations de travail, ou qui leur assignent des tâches.
+
+----------
+
+(1)&lt;DCFR 2015-11-13/15, art. 7, 003; En vigueur : 18-12-2015&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 24, 005; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DCFR 2024-05-16/93, art. 27, 005; En vigueur : 01-01-2025&gt;
+
+#### Section III. - Sanctions.
+
+###### Art. 46
+
+§ 1er. En cas de discrimination, la victime peut réclamer une indemnisation de son préjudice en application du droit de la responsabilité contractuelle ou extra-contractuelle.
+
+Dans les circonstances ci-après visées, la personne qui a contrevenu à l'interdiction de la discrimination doit verser à la victime une indemnité correspondant, selon le choix de la victime, soit à une somme forfaitaire fixée conformément au § 2, soit au dommage réellement subi par la victime. Dans ce dernier cas, la victime doit prouver l'étendue du préjudice par elle subi.
+
+§ 2. Les dommages et intérêts forfaitaires vises au § 1er sont fixés comme suit :
+
+1° Le montant de l'indemnisation forfaitaire du préjudice moral est fixé à euro [<sup>1</sup> 3.900]<sup>1</sup>dans le cas où le contrevenant ne peut démontrer que le traitement litigieux défavorable ou désavantageux aurait également été adopté en l'absence de discrimination, ou en raison d'autres circonstances, telles que la gravité du préjudice moral subi; hors cette hypothèse, l'indemnisation forfaitaire du préjudice moral subi du fait d'une discrimination est fixé à un montant de euro [<sup>1</sup> 1.950 ]<sup>1</sup>;
+
+2° Si la victime réclame l'indemnisation du préjudice moral et matériel qu'elle a subi du fait d'une discrimination dans le cadre des relations d'emploi définies à l'article 3, 9°, l'indemnisation forfaitaire pour le dommage matériel et moral équivaut à six mois de rémunération brute, à moins que l'employeur ne démontre que le traitement litigieux défavorable ou désavantageux aurait également été adopte en l'absence de discrimination; dans cette dernière hypothèse, l'indemnisation forfaitaire pour le préjudice matériel et moral est limitée à trois mois de rémunération brute; si le préjudice matériel résultant d'une discrimination dans le cadre des relations d'emploi définies à l'article 3, 11°, peut néanmoins être réparé par le biais de l'application de la sanction de nullité prévue à l'article 43, les dommages et intérêts forfaitaires sont fixés selon les dispositions du point 1°.
+
+[<sup>1</sup> 3° Ces montants sont indexés à chaque 1er janvier, compte tenu de l'évolution de l'indice des prix à la consommation calculé et nommé à cet effet, tel que prévu dans l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays, du mois de novembre de chaque année précédente ;
+
+4° Si la victime réclame l'indemnisation du préjudice qu'elle a subi du fait d'une discrimination cumulée, le juge tient compte du cumul des critères qui peuvent aboutir au constat de l'existence d'une telle discrimination et décide, en conséquence, de l'opportunité de cumuler les indemnisations forfaitaires visées au 1° ou au 2° pour tenir compte du nombre additionné de critères cumulés, l'indemnisation ne pouvant en tout état de cause être inférieure à l'indemnisation forfaitaire visée au 1° ou au 2° accordée à la suite de la violation d'un critère protégé ;
+
+5° Si la victime réclame l'indemnisation du préjudice qu'elle a subi du fait d'une discrimination intersectionnelle, le juge tient compte de la discrimination intersectionnelle et décide, en conséquence, de l'opportunité de cumuler les indemnisations forfaitaires visées au 1° ou au 2° pour tenir compte du nombre de critères interagissant de manière indissociable, l'indemnisation ne pouvant en tout état de cause être inférieure à l'indemnisation forfaitaire visée au 1° ou 2° accordée suite à la violation d'un critère protégé. ]<sup>1</sup>
+
+[<sup>2</sup> § 3. Les dommages et intérêts forfaitaires prévus à l'article 46, § 2, peuvent être cumulés avec les indemnités de protection versées à la suite de la rupture d'une relation de travail visée aux articles 39 et 39bis de la loi du 3 juillet 1978 relative aux contrats de travail, sauf disposition contraire imposée par ou en vertu d'une loi.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 28, 005; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 29, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 47
+
+Le juge peut, à la demande de la victime de la discrimination, des organes visés à l'article 37, de l'un des groupements d'intérêts visés à l'article 39, du ministère public ou de l'auditorat du travail lorsqu'il a lui-même saisi la juridiction, condamner au paiement d'une astreinte [<sup>1</sup> à la personne qui est à l'origine de la discrimination ]<sup>1</sup> pour le cas où il ne serait pas mis fin à celle-ci. Le juge statue conformément aux articles 1385bis à 1385nonies du Code judiciaire.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 22, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 48
+
+Toute discrimination commise par un membre du personnel statutaire peut en outre donner lieu à une procédure disciplinaire conformément aux dispositions applicables au personnel statutaire.
+
+###### Art. 49
+
+Le Gouvernement peut suspendre ou retirer la subvention, l'agrément ou la reconnaissance des associations visées à l'article 30 du présent décret lorsqu'il constate que cette association a commis une discrimination.
+
+Cette suspension ou ce retrait s'effectue conformément aux dispositions décrétales ou réglementaires relatives à la reconnaissance, à l'agrément ou au subventionnement de ces associations.
+
+#### Section IV. - Action en cessation.
+
+###### Art. 50
+
+§ 1er. A la demande de la victime de la discrimination, des organes visés à l'article 37, de l'un des groupements d'intérêts visés à l'article 39, du ministère public ou, selon la nature de l'acte, de l'auditorat du travail, le président du tribunal de première instance, ou, selon la nature de l'acte, le président du tribunal du travail ou du tribunal de commerce, constate l'existence et ordonne la cessation d'un acte, même pénalement réprimé, constituant un manquement aux dispositions du présent décret.
+
+§ 2. A la demande de la victime, le président du tribunal [<sup>1</sup> octroie]<sup>1</sup> à celle-ci l'indemnisation forfaitaire visée à l'article 46, § 2.
+
+§ 3. Le président du tribunal peut prescrire l'affichage de sa décision ou du résumé qu'il en rédige, pendant le délai qu'il détermine, aussi bien à l'extérieur qu'à l'intérieur des établissements du contrevenant ou des locaux lui appartenant, et ordonner la publication ou la diffusion de son jugement ou du résumé de celui-ci par la voie de journaux ou de toute autre manière, le tout aux frais du contrevenant.
+
+Ces mesures de publicité ne peuvent être prescrites que si elles sont de nature à contribuer à la cessation de l'acte incriminé ou de ses effets.
+
+§ 4. L'action fondée sur le § 1er est formée et instruite selon les formes du référé.
+
+Elle peut être formée par requête, établie en quatre exemplaires et envoyée par lettre recommandée à la poste ou déposée au greffe de la juridiction compétente.
+
+Sous peine de nullité, la requête contient :
+
+1° L'indication des jours, mois et année;
+
+2° Les nom, prénoms, profession et domicile du requérant;
+
+3° Les nom et adresse de la personne physique ou morale contre laquelle la demande est formée;
+
+4° L'objet et l'exposé des moyens de la demande.
+
+Le greffier du tribunal avertit sans délai la partie adverse par pli judiciaire, auquel est joint un exemplaire de la requête, et l'invite à comparaître au plus tôt trois jours, au plus tard huit jours après l'envoi du pli judiciaire.
+
+Il est statué sur l'action nonobstant toute poursuite exercée en raison des mêmes faits devant toute juridiction pénale.
+
+Lorsque les faits soumis au juge pénal font l'objet d'une action en cessation, il ne peut être statué sur l'action pénale qu'après qu'une décision coulée en force de chose jugée ait été rendue relativement à l'action en cessation. La prescription de l'action publique est suspendue pendant la surséance.
+
+Le jugement est exécutoire par provision, nonobstant tout recours et sans caution. Il est communiqué par le greffier de la juridiction, sans délai, a toutes les parties et au procureur du Roi.
+
+§ 5. Les dispositions du présent article ne portent pas préjudice aux compétences du Conseil d'Etat, telles que définies par les lois coordonnées du 12 janvier 1973 sur le Conseil d'Etat.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 30, 005; En vigueur : 01-01-2025&gt;
+
+## TITRE IV. - Dispositions pénales.
+
+###### Art. 51
+
+Pour l'application du présent titre, la discrimination s'entend de toute forme de discrimination directe intentionnelle, de discrimination indirecte intentionnelle, d'injonction de discriminer ou de harcèlement intentionnel, fondée sur un critère protégé visé à l'article 3, 1°.
+
+###### Art. 52
+
+Est puni d'un emprisonnement d'un mois à un an et d'une amende de euro 50 à euro 1.000, ou de l'une de ces peines seulement :
+
+1° Quiconque, dans l'une des circonstances visées à l'article 444 du Code pénal, incite à la discrimination à l'égard d'une personne, en raison de [<sup>1</sup> d'un ou plusieurs des critères ]<sup>1</sup> protégés visés à l'article 3, 1°;
+
+2° Quiconque, dans l'une des circonstances visées à l'article 444 du Code pénal, incite à la haine ou à la violence à l'égard d'une personne, en raison de [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> protégés visés à l'article 3, 1°;
+
+3° Quiconque, dans l'une des circonstances visées à l'article 444 du Code pénal, incite à la discrimination ou à la ségrégation à l'égard d'un groupe, d'une communauté ou de leurs membres, en raison de [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> protégés visés à l'article 3, 1°;
+
+4° Quiconque, dans l'une des circonstances visées à l'article 444 du Code pénal, incite à la haine ou à la violence à l'égard d'un groupe, d'une communauté ou de leurs membres, en raison de [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> protégés visés à l'article 3, 1°;
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 53
+
+Quiconque, dans l'une des circonstances indiquées à l'article 444 du Code pénal, diffuse des idées fondées sur la supériorité ou la haine raciale, est puni d'un emprisonnement d'un mois à un an et d'une amende de euro 50 à euro 1.000, ou de l'une de ces peines seulement.
+
+###### Art. 54
+
+Est puni d'un emprisonnement d'un mois à un an et d'une amende de euro 50 à euro 1.000, ou de l'une de ces peines seulement, quiconque fait partie d'un groupement ou d'une association qui, de manière manifeste et répétée, prône la discrimination ou la ségrégation fondée sur la nationalité, une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique dans les circonstances indiquées à l'article 444 du Code pénal, ou lui prête son concours.
+
+###### Art. 55
+
+[<sup>2</sup> Est puni d'emprisonnement de deux mois, toute personne occupant la fonction de fonctionnaire, d'officier ou officière publique, toute personne dépositaire ou agente de l'autorité ou la force publique ]<sup>2</sup> qui, dans l'exercice de ses fonctions, commet une discrimination à l'égard d'une personne en raison de [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> protégés visés à l'article 3, 1°.
+
+Les mêmes peines sont applicables lorsque les faits sont commis à l'égard d'un groupe, d'une communauté et de leurs membres, en raison de [<sup>1</sup> l'un ou plusieurs des critères ]<sup>1</sup> protégés visés a l'article 3, 1°.
+
+Si l'inculpé justifie qu'il a agi par ordre de ses supérieurs pour des objets du ressort de ceux-ci et sur lesquels il leur était dû obéissance hiérarchique, les peines sont appliquées seulement aux supérieurs qui ont donné l'ordre.
+
+[<sup>2</sup> Si les personnes occupant la fonction de fonctionnaire, d'officier ou officière publique ]<sup>2</sup> prévenus d'avoir ordonne, autorisé ou facilité les actes arbitraires susmentionnés prétendent que leur signature a été surprise, ils sont tenus en faisant, le cas échéant, cesser l'acte, de dénoncer le coupable; sinon, ils sont poursuivis personnellement.
+
+Si l'un des actes arbitraires susmentionnés est commis au moyen de la fausse signature d'un fonctionnaire public, [<sup>2</sup> les personnes responsables du faux]<sup>2</sup> et ceux qui, méchamment ou frauduleusement, en font usage sont punis de la réclusion de dix ans à quinze ans.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DCFR 2024-05-16/93, art. 31, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 56
+
+Quiconque, dans les domaines des relations d'emploi, et de l'accès aux biens et aux services qui sont à la disposition du public ainsi que leur fourniture, dans les matières rattachables aux compétences de la Communauté française, commet une discrimination à l'égard d'une personne en raison de la nationalité, une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, est puni d'un emprisonnement d'un mois à un an et d'une amende de euro 50 à euro 1.000, ou de l'une de ces peines seulement.
+
+Les mêmes peines sont applicables lorsque la discrimination est commise à l'égard d'un [<sup>1</sup> ou plusieurs des critères ]<sup>1</sup>l'un des critères protégés énumérés à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 6, 005; En vigueur : 01-01-2025&gt;
+
+###### Art. 57
+
+Sont punis d'un emprisonnement d'un mois à un an et d'une amende de euro 50 à euro 1.000, ou de l'une de ces peines seulement, ceux qui ne se conforment pas à un jugement ou un arrêt rendu en vertu de l'article 50 à la suite d'une action en cessation.
+
+###### Art. 58
+
+En cas d'infraction aux articles 52 à 57, le condamné peut, en outre, être condamné à l'interdiction conformément à l'article 33 du Code pénal.
+
+###### Art. 59
+
+Toutes les dispositions du livre premier du Code pénal, sans exceptions du chapitre VII et de l'article 85, sont applicables aux infractions visées à la présente loi.
+
+## TITRE V. - Dispositions finales.
+
+### CHAPITRE Ier.
+
+&lt;Abrogé par DCFR 2013-12-05/12, art. 6, 002; En vigueur : 15-03-2014&gt;
+
+###### Art. 60
+
+&lt;Abrogé par DCFR 2013-12-05/12, art. 5, 002; En vigueur : 15-03-2014&gt;
+
+### CHAPITRE I. - (anc. chapitre II) Surveillance et évaluation. &lt;Renuméroté par DCFR 2013-12-05/12, art. 6, 002; En vigueur : 15-03-2014&gt;
+
+###### Art. 61
+
+Tous les cinq ans à compter de l'entrée en vigueur du présent décret, le Parlement de la Communauté française procède à l'évaluation de l'application et de l'effectivité du présent décret.
+
+Cette évaluation a lieu, après audition des organes visés à l'article 37, sur la base d'un rapport présenté au Parlement par une commission d'experts.
+
+Le Gouvernement fixe les règles plus précises en matière de composition de la commission des experts, de leur désignation et de la forme et du contenu concret du rapport. Lors de la composition, il sera veillé à ce que la commission soit composée d'un nombre de membres égal de chaque sexe et qu'une répartition équilibrée soit garantie [<sup>1</sup> entre les personnes issues de la magistrature, du barreau et d'autres acteurs et actrices]<sup>1</sup>ayant une connaissance et des expériences spécifiques en matière de la lutte contre la discrimination.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/93, art. 32, 005; En vigueur : 01-01-2025&gt;
+
+### CHAPITRE II. - (anc. chapitre III) Dispositions abrogatoires. &lt;Renuméroté par DCFR 2013-12-05/12, art. 6, 002; En vigueur : 15-03-2014&gt;
+
+###### Art. 62
+
+Le décret du 19 mai 2004 relatif à la mise en oeuvre du principe de l'égalité de traitement est abrogé.
+
+Le Titre V de la loi du 4 août 1978 de réorientation professionnelle est abrogé.
+
+### ANNEXE.
+
+###### Art. N
+
+Tableau de transposition.
+
+Remarques luminaires.
+
+Le présent tableau ne visé que les correspondances entre les dispositions du décret et les Directives 2000/43/CE, 2000/28/CE, 2004/113/CE et 2006/54/CE, à l'exclusion de la Directive 76/207/CEE. Il est, en effet, renvoyé au tableau de correspondance dressé en annexe II de la Directive 2006/54/CE et qui permet de vérifier à quelles dispositions de la Directive 76/207/CEE correspondent celles de la Directive 2006/54/CE.
+
+Le présent tableau constitue un outil permettant ce déterminer à quelles dispositions des directives correspondent les articles du décret. Il va sans dire que, pour les raisons exprimées dans l'exposé des motifs et le commentaire article par article, le décret peut, en certains endroits, aller au-delà de l'exigence européenne, le législateur adoptant des dispositions plus favorables à la protection du principe de l'égalité de traitement que celles prévues dans les Directives à transposer, comme ces dernières le lui permettent d'ailleurs expressément (article 6, paragraphe 1er, de la Directive 2004/43/CE; article 8, paragraphe 1er de la Directive 2000/78/CE; article 7, paragraphe 1er de la Directive 2004/113/CE; article 27, paragraphe 1er de la Directive 2006/54/CE). Dans ces cas, il n'y a pas simple transposition de la disposition de la directive en question.
+
+<table><tr><td>Decret</td><td>2000/43/CE</td><td>2000/78/CE</td><td>2004/113/CE</td><td>2006/54/CE</td></tr><tr><td>---------------</td><td>---------------</td><td>---------------</td><td>---------------</td><td>--------------</td></tr><tr><td>Article 1er</td><td>Art. 16, al. 2</td><td>Art. 18, al. 3</td><td>Art. 17, # 1er, al. 2</td><td>Art. 33, al. 2</td></tr><tr><td>Article 2</td><td>Art. 1er + art. 2</td><td>Art. 1er, + art. 2</td><td>Art. 1er + art. 4, §3</td><td>Art. 1er, + art. 2</td></tr><tr><td>Article 3, 1°</td><td>Art. 1er</td><td>Art. 1er</td><td>Art. 1er</td><td>Art. 1er</td></tr><tr><td>Article 3, 2°</td><td>Art. 2, # 2, a)</td><td>Art. 2, # 2, a)</td><td>Art. 2, a)</td><td>Art. 2, # 1er, a)</td></tr><tr><td>Article 3, 3°</td><td>Art. 2, # 2, a)</td><td>Art. 2, # 2, a)</td><td>Art. 2, a)</td><td>Art. 2, # 1er, a)</td></tr><tr><td>Article 3, 4°</td><td>Art. 2, # 2, b)</td><td>Art. 2, # 2, b)</td><td>Art. 2, b)</td><td>Art. 2, # 1er, b)</td></tr><tr><td>Article 3, 5°</td><td>Art. 2, # 2, b)</td><td>Art. 2, # 2, b)</td><td>Art. 2, b)</td><td>Art. 2, # 1er, b)</td></tr><tr><td>Article 3, 6°</td><td>Art. 2, # 3</td><td>Art. 2, # 3</td><td>Art. 2, c)</td><td>Art. 2, # 1er, c)</td></tr><tr><td>Article 3, 7°</td><td>/</td><td>/</td><td>Art. 2, c)</td><td>Art. 2, # 1er, d)</td></tr><tr><td>Article 3, 8°</td><td>Art. 2, # 4</td><td>Art. 2, # 4</td><td>Art. 4, # 4</td><td>Art. 2, # 2, b)</td></tr><tr><td>Article 3, 9°</td><td>/</td><td>Art. 5</td><td>/</td><td>/</td></tr><tr><td>Article 3, 10°</td><td>Art. 4</td><td>Art. 7, # 1er</td><td>Art. 6</td><td>Art. 3</td></tr><tr><td>Article 3, 11°</td><td>art. 3, § 1er, a) + art. 3, § 1er, c)</td><td>art. 3, § 1er, a) + art. 3, § 1er, c)</td><td>/</td><td>art. 14, § 1er, a) + art. 14, § 1er, c)</td></tr><tr><td>Article 3, 12°</td><td>art. 3, § 1er, b) + art. 3, § 1er, g)</td><td>art. 3, § 1er, b) + art. 3, § 1er, g)</td><td>/</td><td>art. 14, § 1er, a) + art. 14, § 1er, b)</td></tr><tr><td>Article 3, 13°</td><td>Art. 3, # 1er, g)</td><td>Art. 3, # 1er, g)</td><td>/</td><td>/</td></tr><tr><td>Article 3, 14°</td><td>Art. 3, # 1er, b)</td><td>Art. 3, # 1er, b)</td><td>/</td><td>Art. 14, # 1er, b)</td></tr><tr><td>Article 3, 15°</td><td>Art. 3, # 1er, e)</td><td>Art. 3, # 1er, e)</td><td>/</td><td>/</td></tr><tr><td>Article 3, 16°</td><td>Art. 3, # 1er, f)</td><td>Art. 3, # 1er, f)</td><td>/</td><td>/</td></tr><tr><td>Article 3, 17°</td><td>Art. 3, # 1er, h)</td><td>Art. 3, # 1er, h)</td><td>Art. 3, # 1er</td><td>/</td></tr><tr><td>Article 3, 18°</td><td>Art. 3, # 1er, h)</td><td>Art. 3, # 1er, h)</td><td>Art. 3, # 1er</td><td>/</td></tr><tr><td>Article 4</td><td>art. 3, § 1er, a), b), c), d), e), f), g), h)</td><td>art. 3, § 1er, a), b), c), d)</td><td>Art. 3, # 1er</td><td>art. 14, § 1er, a), b), c), d)</td></tr><tr><td>Article 5, al. 1</td><td>Art. 1 + art. 2</td><td>Art. 1 + art. 2</td><td>Art. 1 + art. 2 + art. 4</td><td>Art. 14</td></tr><tr><td>Article 5, al. 2</td><td>Art. 2</td><td>Art. 2 + art. 5</td><td>rt. 2 + art. 4, §§ 1er à 4</td><td>Art. 2</td></tr><tr><td>Article 5, al. 3</td><td>Art. 2, # 2, a)</td><td>Art. 2, # 2, a)</td><td>Art. 2, a)</td><td>Art. 2, # 1er, a)</td></tr><tr><td>Article 5, al. 4</td><td>Art. 2, # 2, b)</td><td>Art. 2, # 2, b) + art. 5</td><td>Art. 2, b)</td><td>Art. 2, # 1er, b)</td></tr><tr><td>Article 5, al. 5</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 5, al. 6</td><td>Art. 14, a)</td><td>Art. 16, a)</td><td>Art. 13, a)</td><td>Art. 23, a)</td></tr><tr><td>Article 6</td><td>Art. 5</td><td>Art. 7, # 1er</td><td>Art. 6</td><td>Art. 3</td></tr><tr><td>Article 7, 1°</td><td>Art. 3, # 1er, c)</td><td>Art. 3, # 1er, c)</td><td>/</td><td>art. 2, § 1er, e) + art. 14, § 1er, c)</td></tr><tr><td>Article 7, 2°</td><td>Art. 2, # 3</td><td>Art. 2, # 3</td><td>Art. 2, c)</td><td>Art. 2, # 1er, c)</td></tr><tr><td>Article 7, 3°</td><td>/</td><td>/</td><td>Art. 2, d)</td><td>Art. 2, # 1er, d)</td></tr><tr><td>Article 7, 4°</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 8, al. 1</td><td>art. 3, § 1er, a) + art. 3, § 1er, c)</td><td>art. 3, § 1er, a) + art. 3, § 1er, c)</td><td>/</td><td>art. 14, § 1er, a) + art. 14, § 1er, c)</td></tr><tr><td>Article 8, al. 2</td><td>Art. 3, # 1er, a)</td><td>Art. 3, # 1er, a)</td><td>/</td><td>Art. 14, # 1er, a)</td></tr><tr><td>Article 8, al. 3</td><td>Art. 3, # 1er, c)</td><td>Art. 3, # 1er, c)</td><td>/</td><td>Art. 14, # 1er, c)</td></tr><tr><td>Article 8, al. 4</td><td>Art. 3, # 1er, c)</td><td>Art. 3, # 1er, c)</td><td>/</td><td>Art. 14, # 1er, c)</td></tr><tr><td>Article 9</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 10</td><td>Art. 4 + art. 11</td><td>art. 4, § 1er, + art. 13</td><td>/</td><td>Art. 14, # 2, + art. 21</td></tr><tr><td>Article 11</td><td>/</td><td>Art. 4, # 2</td><td>/</td><td>/</td></tr><tr><td>Article 12</td><td>/</td><td>Art. 6</td><td>/</td><td>/</td></tr><tr><td>Article 13</td><td>Art. 11</td><td>Art. 13</td><td>/</td><td>Art. 21</td></tr><tr><td>Article 14</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 15</td><td>/</td><td>/</td><td>/</td><td>Art. 15, art. 16</td></tr><tr><td>Article 16, 1°</td><td>Art. 2, # 3</td><td>Art. 2, # 3</td><td>Art. 2, c)</td><td>Art. 2, # 1er, c)</td></tr><tr><td>Article 16, 2°</td><td>/</td><td>/</td><td>Art. 2, d)</td><td>Art. 2, # 1er, d)</td></tr><tr><td>Article 17</td><td>art. 3, § 1er, b) + art. 3, § 1er, g)</td><td>art. 3, § 1er, b) + art. 3, § 1er, g)</td><td>/</td><td>Art. 14, # 1er, b)</td></tr><tr><td>Article 18</td><td>art. 2, § 1er et § 2, a) + art. 3, § 1er, g) + art. 3. § 2</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 19</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 20</td><td>art. 2, § 1er et § 2, a) + art. 3, § 1er, b) + art. 3, § 2</td><td>art. 2, § 1er et § 2, a) + art. 3, § 1er, b) + art. 3, § 2</td><td>/</td><td>/</td></tr><tr><td>Article 21</td><td>/</td><td>/</td><td>/</td><td>art. 14, § 1er, b) + art. 14, § 2</td></tr><tr><td>Article 22</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 23</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 24</td><td>art. 3, § 1er et § 2, a) + art. 3, § 1er, e) + art. 3, § 2</td><td>Art. 3, # 1er, e)</td><td>/</td><td>/</td></tr><tr><td>Article 25</td><td>art. 2, § 1er et § 2, a) + art. 3, § 1er, e) + art. 3, § 2</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 26</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 27</td><td>Art. 3, # 1er, f)</td><td>Art. 3, # 1er, f)</td><td>/</td><td>/</td></tr><tr><td>Article 28</td><td>art. 3, § 1er et § 2, a) + art. 3, § 1er, f) + art. 3, § 2</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 29</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 30</td><td>Art. 3, # 1er, d)</td><td>Art. 3, # 1er, d)</td><td>/</td><td>Art. 14, # 1er, d)</td></tr><tr><td>Article 31</td><td>art. 2, § 1er et § 2, a) + art. 3, § 1er, d) + art. 3, § 2</td><td>art. 2, § 1er et § 2, a) + art. 3, § 1er, d) + art. 3, § 2</td><td>/</td><td>Art. 14, # 1er, d)</td></tr><tr><td>Article 32</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 33</td><td>Art. 3, # 1er, h)</td><td>/</td><td>Art. 3, # 1er</td><td>/</td></tr><tr><td>Article 34</td><td>art. 3, § 1er et § 2, a) + art. 3, § 1er, h) + art. 3, § 2</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 35</td><td>/</td><td>/</td><td>Art. 4, # 5</td><td>/</td></tr><tr><td>Article 36</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 37, # 1er</td><td>/</td><td>/</td><td>Art. 12</td><td>Art. 20</td></tr><tr><td>Article 37, # 2</td><td>Art. 13</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 38</td><td>Art. 13, # 2, 1er tiret</td><td>/</td><td>Art. 12, # 2, a)</td><td>Art. 20, # 2, a)</td></tr><tr><td>Article 39</td><td>Art. 7, # 2</td><td>/</td><td>Art. 8, # 3</td><td>Art. 17, # 2,</td></tr><tr><td>Article 40</td><td>/</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 41</td><td>Art. 8, # 3,</td><td>Art. 10, # 3,</td><td>Art. 9, # 3</td><td>Art. 19, # 5</td></tr><tr><td>Article 42</td><td>Art. 8</td><td>Art. 10</td><td>Art. 9</td><td>Art. 19</td></tr><tr><td>Article 43</td><td>Art. 14, b)</td><td>Art. 16, b)</td><td>Art. 13 b)</td><td>Art. 23, b)</td></tr><tr><td>Article 44</td><td>art. 3, § 1er, b), c), d), e), f), g) et h) + art. 9</td><td>art. 3, § 1er, b) et d) + art. 11</td><td>Art. 10</td><td>art. 14, § 1er, b) et d) + art. 24</td></tr><tr><td>Article 45</td><td>art. 3, § 1er, a) et c) + art. 9</td><td>art. 3, § 1er, a) et c) + art. 11</td><td>/</td><td>art. 14, § 1er, a) et c) + art. 24</td></tr><tr><td>Article 46</td><td>art. 7, § 1er + art. 7, § 2 + art. 15</td><td>art. 9, § 1er + art. 9, § 2 + art. 17</td><td>art. 8, § 1er + art. 8, § 2 + art. 14</td><td>art. 17, § 1er, + art. 17, § 2 + art. 25b)</td></tr><tr><td>Article 47</td><td>art. 7, § 1er + art. 7, § 2 + art. 15</td><td>art. 9, § 1er + art. 9, § 2 + art. 17</td><td>art. 8, § 1er + art. 8, § 2 + art. 14</td><td>art. 17, § 1er, + art. 17, § 2 + art. 25b)</td></tr><tr><td>Article 48</td><td>Art. 15</td><td>Art. 17</td><td>Art. 14</td><td>Art. 25</td></tr><tr><td>Article 49</td><td>Art. 15</td><td>Art. 17</td><td>Art. 14</td><td>Art. 25</td></tr><tr><td>Article 50</td><td>art. 7, § 1er + art. 7, § 2 + art. 15</td><td>art. 8, § 1er + art. 9, § 2 + art. 17</td><td>art. 8, § 1er + art. 8, § 1er + art. 14</td><td>art. 17, § 1er, + art. 17, § 2 + art. 25</td></tr><tr><td>Article 51</td><td>Art. 15</td><td>Art. 17</td><td>Art. 14</td><td>Art. 25</td></tr><tr><td>Article 52</td><td>Art. 15</td><td>Art. 17</td><td>Art. 14</td><td>Art. 25</td></tr><tr><td>Article 53</td><td>Art. 15</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 54</td><td>Art. 15</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 55</td><td>Art. 15</td><td>Art. 17</td><td>Art. 14</td><td>Art. 25</td></tr><tr><td>Article 56</td><td>art. 15 + art. 3, § 1er, a), c), h)</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Article 57</td><td>Art. 15</td><td>Art. 17</td><td>Art. 14</td><td>Art. 25</td></tr><tr><td>Article 58</td><td>Art. 15</td><td>Art. 17</td><td>Art. 14</td><td>Art. 25</td></tr><tr><td>Article 59</td><td>Art. 15</td><td>Art. 17</td><td>Art. 14</td><td>Art. 25</td></tr><tr><td>Article 60</td><td>Art. 7, # 1er</td><td>Art. 9, # 1er</td><td>Art. 8, # 1er</td><td>Art. 17, # 1er</td></tr><tr><td>Article 61</td><td>Art. 17</td><td>Art. 19</td><td>Art. 16</td><td>Art. 31</td></tr></table>
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Donné à Bruxelles, le 12 décembre 2008.
+
+Le Ministre-Président du Gouvernement de la Communauté française,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget, des Finances, de la Fonction publique et des Sports,
+
+M. DAERDEN
+
+Le Ministre de l'Enseignement obligatoire,
+
+Ch. DUPONT
+
+La Ministre de la Culture et de l'Audiovisuel,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK
+
+Le Ministre de la Jeunesse et de l'Enseignement de Promotion sociale
+
+M. TARABELLA

@@ -1,0 +1,6053 @@
+---
+title: "Décret organisant l'enseignement spécialisé."
+identifier: "2004029137"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/03/2004029137/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2004-03-03
+published: 2004-06-03
+entry_into_force: 2004-09-01
+last_amended: 2026-08-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/03/2004029137/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 03-06-2004 et mise à jour au 10-08-2026"
+retrieved: 2026-10-12
+---
+
+# 3 MARS 2004. - Décret organisant l'enseignement spécialisé.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Du champ d'application, des généralités et définitions.
+
+#### Art. 1
+
+Le présent décret s'applique à l'enseignement maternel spécialisé, primaire spécialisé, fondamental spécialisé et secondaire spécialisé organisé, subventionné ou reconnu par la Communauté française.
+
+#### Art. 2
+
+§ 1er. L'enseignement spécialisé est destiné aux enfants et aux adolescents qui, sur la base d'un [<sup>1</sup> rapport d'inscription]<sup>1</sup>, effectué par les institutions définies à l'article 12 doivent bénéficier d'un enseignement adapté en raison de leurs besoins spécifiques et de leurs possibilités pédagogiques.
+
+Ces enfants et adolescents sont désignés ci-dessous par l'expression "enfants et adolescents à besoins spécifiques".
+
+§ 2. Il est organisé sur la base de la nature et de l'importance des besoins éducatifs et des possibilités psychopédagogiques des élèves et assure le développement de leurs aptitudes intellectuelles, psychomotrices, affectives et sociales tout en les préparant, selon les cas :
+
+1\. à l'intégration dans un milieu de vie ou de travail adapté;
+
+2\. à l'exercice de métiers ou de professions compatibles avec leur handicap qui rende possible leur intégration dans un milieu de vie et de travail ordinaire;
+
+3\. à la poursuite des études jusqu'au terme de l'enseignement secondaire supérieur tout en offrant des possibilités de vie active.
+
+§ 3. Il comprend les divers types d'enseignement définis au chapitre II du présent décret.
+
+§ 4. Il se caractérise par une coordination entre l'enseignement et les interventions orthopédagogiques, médicales, paramédicales, psychologiques et sociales d'une part et d'autre part par la collaboration permanente avec l'organisme chargé de la guidante des élèves telle que définie à l'article 3 de l'arrêté royal du 27 juillet 1971 fixant les modalités d'organisation, de la guidante des élèves fréquentant les établissements spécialisés.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/31, art. 61, 017; En vigueur : 01-09-2012&gt;
+
+#### Art. 3
+
+§ 1er. L'enseignement spécialisé peut être organisé en écoles d'enseignement de plein exercice, en enseignement secondaire en alternance et en enseignement de promotion sociale.
+
+L'enseignement spécialisé de plein exercice est organisé selon les modalités définies dans le présent décret. En outre, il peut être organisé selon les particularités de l'enseignement à distance, selon les particularités de l'enseignement à domicile définies au chapitre XI du présent décret ou selon les particularités de l'enseignement en immersion tel que défini à la Section 4 du chapitre IV et la Section 8 du chapitre V.
+
+[<sup>1</sup> L'enseignement secondaire spécialisé en alternance est organisé selon les modalités définies dans le décret du 3 juillet 1991 organisant l'enseignement secondaire en alternance tel que modifié.]<sup>1</sup>
+
+§ 2. Le Gouvernement détermine les titres requis des membres du personnel de l'enseignement spécialisé organisé ou subventionné par la Communauté française et les échelles de traitement de ce personnel.
+
+§ 3. Le Gouvernement organise l'inspection éducative des instituts, des [<sup>2</sup> écoles]<sup>2</sup> spécialisées, des homes et des familles d'accueil.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/30, art. 18, 012; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 4
+
+§ 1er. Pour l'application du présent décret, on entend par :
+
+1° [<sup>14</sup> école : établissement d'enseignement composé d'une ou de plusieurs implantations, placé sous la direction d'un directeur et organisé par un pouvoir organisateur]<sup>14</sup>;
+
+2° bâtiment principal de l'école : le lieu d'implantation choisi par le pouvoir organisateur comme siège administratif de toute l'école;
+
+3° implantation : bâtiment ou ensemble de bâtiments, situé(s) à une seule adresse où l'on dispense de l'enseignement maternel spécialisé et/ou primaire spécialisé et/ou de l'enseignement secondaire spécialisé;
+
+4° centre d'observation : toute [<sup>13</sup> école]<sup>13</sup> d'enseignement spécialisé où, dans des cas exceptionnels, des enfants et/ou des adolescents à besoins spécifiques sont inscrits temporairement, dans le but de déterminer le type d'enseignement spécialisé qui leur convient;
+
+5° niveau : structure de l'organisation de l'enseignement spécialisé, c'est-à-dire maternel, primaire et secondaire;
+
+6° classe : ensemble d'élèves de l'enseignement maternel spécialisé, primaire spécialisé ou secondaire spécialisé placés sous la direction d'un titulaire de classe;
+
+7° unité pédagogique : ensemble d'élèves relevant d'un même type ou de types d'enseignement spécialisé différents, regroupés de manière temporaire ou permanente, afin de recevoir, au sein d'une même école, une formation adaptée à leurs besoins éducatifs;
+
+8° élève régulier : tout élève qui répond aux conditions d'admission et, s'il échet, de passage et qui suit les activités déterminées en fonction de ses besoins;
+
+[<sup>14</sup> 8bis° élève régulièrement inscrit : l'élève qui, répondant aux conditions d'admission, est inscrit pour l'ensemble des cours d'une forme d'enseignement, d'une section et d'une orientation d'études déterminées ;]<sup>14</sup>
+
+9° [<sup>14</sup> directeur : le membre du personnel exerçant l'une des fonctions de directeur définies par le décret du 2 février 2007 fixant le statut des directeurs et des directrices dans l'enseignement]<sup>14</sup>;
+
+10° conseil de classe : ensemble des membres du personnel directeur et enseignant, du personnel paramédical, psychologique et social et du personnel auxiliaire d'éducation qui a la charge de l'instruction et de l'éducation des élèves d'une classe déterminée et qui en porte la responsabilité. En réunion, il est présidé par le directeur ou par son délégué;
+
+11° horaire hebdomadaire de l'élève : emploi du temps de l'élève précisant la nature des cours et/ou activités éducatives suivis ainsi que les lieux dans lesquels ils sont organisés;
+
+12° horaire hebdomadaire de l'enseignant : emploi du temps de l'enseignant indiquant la nature et les lieux de ses prestations;
+
+13° horaire hebdomadaire du membre du personnel non chargé de cours : emploi du temps du membre du personnel non chargé de cours indiquant les lieux de ses prestations;
+
+14° nombre guide : nombre attribué par :
+
+a) type, forme, niveau d'enseignement ou nombre d'élèves
+
+b) catégorie de personnel permettant le calcul du capital-périodes d'une [<sup>13</sup> école]<sup>13</sup> d'enseignement spécialisé;
+
+15° immersion dans l'apprentissage d'une langue : procédure visant à favoriser l'apprentissage d'une langue moderne en assurant une partie des cours de la grille horaire dans cette langue;
+
+16° apprentissage par immersion en langue des signes : procédure visant à favoriser chez les enfants malentendants l'acquisition des compétences, notamment l'apprentissage de la lecture centrée sur la maîtrise du sens, en assurant une partie des cours de la grille horaire en langue des signes;
+
+17° cours de langue et de culture d'origine, cours de sensibilisation à la langue et à la culture de pays ou de groupes, de pays ayant été à l'origine d'une importante émigration vers notre communauté, assuré dans la perspective d'une intégration en son sein;
+
+18° moyens et techniques de communication : apprentissage de méthodes et de techniques contribuant à tisser le lien social entre les élèves de l'enseignement spécialisé et les personnes de leur environnement;
+
+19° plan individuel d'apprentissage (P.I.A.) : Outil méthodologique élaboré pour chaque élève et ajusté durant toute sa scolarité par le Conseil de classe, sur la base des observations fournies par ses différents membres et des données communiquées par l'organisme de guidante des élèves. Il énumère des objectifs particuliers à atteindre durant une période déterminée. C'est à partir des données du P.I.A. que chaque membre de l'équipe pluridisciplinaire met en oeuvre le travail d'éducation, de rééducation et de formation. [<sup>1</sup> ...]<sup>1</sup>
+
+20° intervention orthopédagogique : intervention préventive ou curative dans des situations d'apprentissage problématique et de souffrance psychique d'enfants et/ou d'adolescents en difficulté;
+
+21° [<sup>12</sup> cours philosophiques : enseignement d'une des religions reconnues, de la morale non confessionnelle et de la philosophie et citoyenneté.]<sup>12</sup>
+
+22° [<sup>12</sup> conseil de participation : conseil créé par l'article 1.5.3-1 du Code de l'enseignement fondamental et de l'enseignement secondaire.]<sup>12</sup>
+
+23° [<sup>14</sup> parent : toute personne investie de l'autorité parentale selon les principes définis par l'ancien Code civil ou par le Code civil ou qui assume la garde en droit ou en fait d'un enfant mineur soumis à l'obligation scolaire]<sup>14</sup>;
+
+24° institut d'enseignement spécialisé : toute [<sup>13</sup> école]<sup>13</sup> d'enseignement spécialisé organisé par la Communauté française à laquelle est annexé un internat.
+
+25° home d'accueil : tout internat où des enfants et/ou des adolescents à besoins spécifiques sont hébergés en vue de leur permettre de fréquenter comme externes une [<sup>13</sup> école]<sup>13</sup> d'enseignement spécialisé.
+
+26° famille d'accueil : toute famille qui accueille des enfants et/ou adolescents à besoins spécifiques en vue de leur permettre de fréquenter comme externes une [<sup>13</sup> école]<sup>13</sup> d'enseignement spécialisé;
+
+[<sup>4</sup> 27° classe SSAS : Structure Scolaire d'Aide à la Socialisation ou à la resocialisation, mise en place au sein de l'enseignement primaire spécialisé et dans l'enseignement secondaire spécialisé de forme 2, de forme 3 et de forme 4, proposant à des jeunes présentant des troubles structurels du comportement et/ou de la personnalité, quel que soit le type d'enseignement spécialisé dont ils relèvent, une structure resocialisante et restructurante leur permettant une réintégration dans une structure d'apprentissage.
+
+28° élèves fréquentant une classe SSAS : élèves présentant des troubles structurels du comportement et/ou de la personnalité pour lesquels tous les moyens orthopédagogiques, sociaux et/ou paramédicaux, propres à chaque type d'enseignement, ont été mis en oeuvre par l'équipe éducative et se sont avérés insuffisants. Ces élèves sont pris en charge de manière momentanée pour qu'ils puissent retrouver l'équilibre nécessaire afin de définir un projet personnel et de leur permettre une réintégration dans une structure d'apprentissage.
+
+29° zone : Le Gouvernement détermine les zones organisées au niveau de la gestion de l'enseignement spécialisé et de ses personnels ainsi que les entités géographiques qui les composent.
+
+[<sup>6</sup> 29° /1. Conseil général : pour l'enseignement fondamental : le Conseil général de l'enseignement fondamental visé à l'article 21 du décret du 14 mars 1995 relatif à la promotion d'une école de la réussite dans l'enseignement fondamental ; pour l'enseignement secondaire : le conseil général de l'enseignement secondaire visé à l'article 1er du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire. ]<sup>6</sup>
+
+30° plan individuel de transition (P.I.T.) : le plan individuel de transition, intégré dans le plan individuel d'apprentissage (P.I.A.) est une démarche réflexive qui tend à établir, dès l'inscription en enseignement secondaire spécialisé, les liens nécessaires entre les différents partenaires en vue d'élaborer et de favoriser le continuum école-vie adulte.
+
+31° organisme chargé de la guidance : centre psycho-médico-social desservant une [<sup>13</sup> école]<sup>13</sup> d'enseignement spécialisé ou dans les situations d'intégration, centre psycho-médico-social desservant unr [<sup>13</sup> école]<sup>13</sup> d'enseignement ordinaire et centre psycho-médico-social desservant une [<sup>13</sup> école]<sup>13</sup> d'enseignement spécialisé.]<sup>4</sup>
+
+[<sup>12</sup> 32° pôle territorial : le pôle territorial chargé de soutenir les écoles de l'enseignement ordinaire dans la mise en oeuvre des aménagements raisonnables et de l'intégration permanente totale visé à l'article 6.2.2-1 du Code de l'enseignement fondamental et de l'enseignement secondaire.]<sup>12</sup>
+
+§ 2. Dans l'enseignement maternel et primaire spécialisé, on entend par :
+
+1° enseignement maternel : enseignement dispensé aux élèves définis à l'article 13 et qui les prépare à l'enseignement primaire;
+
+2° [<sup>8</sup> ...]<sup>8</sup>
+
+3° enseignement fondamental : enseignement dispensé aux élèves définis aux articles 13 et 14,
+
+4° école maternelle : école de niveau maternel uniquement;
+
+5° école primaire : école de niveau primaire uniquement;
+
+6° école fondamentale : école de niveau maternel et de niveau primaire;
+
+7° titulaire : instituteur qui assure les cours et les activités pédagogiques prévues à l'horaire des élèves à l'exclusion des cours spéciaux et des cours philosophiques et sans préjudice de l'article 22;
+
+8° maître d'enseignement individualisé : instituteur primaire ou maternel qui assure les activités d'enseignement individualisé;
+
+9° maître d'activités éducatives : instituteur primaire ou maternel, maître [<sup>7</sup> ...]<sup>7</sup> d'éducation physique ou maître [<sup>7</sup> ...]<sup>7</sup> de travaux manuels qui assure les activités éducatives;
+
+10° maître de morale non confessionnelle : membre du personnel qui assure le cours de morale non confessionnelle;
+
+11° maître de religion : [<sup>7</sup> membre du personnel chargé exclusivement du cours de la religion correspondante]<sup>7</sup>
+
+12° maître d'éducation physique : membre du personnel qui assure les cours d'éducation physique et/ou de psychomotricité;
+
+13° maître de travaux manuels : membre du personnel qui assure les cours de travaux manuels;
+
+14° maître de seconde langue : membre du personnel qui assure les cours de langue moderne;
+
+15° grille horaire de la classe : liste des différents cours assurés hebdomadairement avec mention du nombre de périodes affectées à chacun;
+
+16° degré de maturité : L'un des quatre degrés correspondant aux stades d'évolution de l'élève dans l'enseignement primaire :
+
+a) pour les élèves atteints [<sup>2</sup> de retard mental léger]<sup>2</sup>, de troubles instrumentaux, comportementaux, sensoriels et de handicaps physiques, ils sont définis comme suit :
+
+\- maturité I : niveaux d'apprentissages préscolaires;
+
+\- maturité Il : éveil des apprentissages scolaires;
+
+\- maturité Ill : maîtrise et développement des acquis;
+
+\- maturité IV : utilisation fonctionnelle des acquis selon les orientations envisagées.
+
+b) pour les élèves atteints [<sup>2</sup> de retard mental modéré]<sup>2</sup> ou sévère, ils sont définis comme suit :
+
+\- maturité I : niveaux d'acquisition de l'autonomie et de la socialisation;
+
+\- maturité Il : niveaux d'apprentissages préscolaires;
+
+\- maturité III : éveil des premiers apprentissages scolaires (initiation),
+
+\- maturité IV : approfondissements;
+
+17° capital-périodes : nombre de périodes permettant d'organiser les activités pédagogiques, paramédicales, sociales, psychologiques permettant de répondre aux besoins spécifiques des élèves inscrits dans une [<sup>13</sup> école]<sup>13</sup> d'enseignement maternel, primaire ou fondamental spécialisé.
+
+[<sup>7</sup> 18° maître de psychomotricité : membre du personnel qui assure les cours de psychomotricité.]<sup>7</sup>
+
+§ 3. Dans l'enseignement secondaire spécialisé, on entend par :
+
+1° enseignement secondaire : enseignement dispensé aux élèves définis à l'article 15;
+
+2° école secondaire : école de niveau secondaire uniquement;
+
+3° directeur de classe : membre du personnel enseignant à qui est confié une mission d'écoute et de suivi d'une classe ou d'un groupe d'élèves. Il est une personne de référence pour l'élève, dans les démarches que ce dernier aurait à entreprendre, lorsqu'il est confronté à une difficulté liée à sa vie au sein de l'[<sup>13</sup> école]<sup>13</sup>;
+
+4° forme d'enseignement : caractère général et objectifs de l'enseignement dispensé;
+
+5° phase : durée requise pour que l'élève maîtrise les objectifs ou les référentiels des compétences fixés;
+
+6° compétences-seuils : référentiel présentant de manière structurée les compétences dont la maîtrise à un niveau déterminé est attendue à la fin de chaque phase de l'enseignement spécialisé de forme 3,
+
+7° compétence : aptitude à mettre en oeuvre un ensemble organisé de savoirs, de savoir-faire et d'attitudes permettant d'accomplir un certain nombre de tâches;
+
+8° secteur professionnel : ensemble d'éléments socioprofessionnels dans lequel se développent des activités éducatives et des apprentissages visant plus particulièrement la préparation à la vie professionnelle;
+
+9° groupe professionnel : sous-ensemble d'un secteur professionnel. Le groupe professionnel développe une formation polyvalente;
+
+10° [<sup>3</sup> métier : ensemble cohérent d'activités professionnelles réalisées par une personne dans le cadre d'un processus productif;]<sup>3</sup>
+
+[<sup>3</sup> 11° [<sup>5</sup> profil de certification : le document de référence visé à l'article 39 ou 47, § 1er, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, applicable soit à l'enseignement spécialisé de forme 4, soit à l'enseignement spécialisé de forme 3, défini conformément à l'article 169, alinéa 1er, 4°, du présent décret, et qui :
+
+a) spécifie l'intitulé de l'option de base groupée organisée en forme 4 ou de la formation organisée en troisième phase en forme 3 ;
+
+b) précise la durée en années scolaires sur laquelle est organisée l'option de base groupée organisée en forme 4 visée en a) et, de manière indicative, la durée en année(s) scolaire(s) sur laquelle est organisée la formation organisée en troisième phase en forme 3 ;
+
+c) identifie le ou les profils de formation au(x)quel(s) se réfère l'option de base groupée ou la formation concernée ;
+
+d) détermine le nombre minimum et le nombre maximum de semaines de stage que doivent accomplir les élèves de l'option de base groupée ou de la formation concernée, dans le respect, pour les options groupées de la forme 4, des dispositions prises en application de l'article 7bis, § 13, de la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire, et pour les formations de la forme 3, des dispositions de l'article 55bis du décret du 3 mars 2004 organisant l'enseignement spécialisé ;
+
+e) détermine le ou les certificat(s) de qualification délivré(s) aux élèves qui maîtrisent les acquis d'apprentissage fixés par le ou les profil(s) de formation concerné(s);
+
+f) reprend le positionnement de la certification dans le Cadre francophone de certification, tel qu'arrêté par l'Instance de Pilotage et de Positionnement " C.F.C. " visée à l'article 4 de l'accord de coopération du 26 février 2015 entre la Communauté française, la Région wallonne et la Commission communautaire française concernant la création et la gestion d'un Cadre francophone des certifications, en abrégé " C.F.C. ", ou à défaut un positionnement provisoire ;
+
+g) reprend : - le parcours d'apprentissage décliné en unités reprenant ou regroupant explicitement les unités d'acquis d'apprentissage (UAA) du ou des profil(s) de formation; ce sont les unités d'acquis d'apprentissage du profil de formation qui font l'objet de la validation ;
+
+\- les activités-clés du métier auxquelles les unités se réfèrent ;
+
+\- les recommandations pour l'ordre dans lequel les unités doivent être enseignées; les profils de certification peuvent imposer un ordre dans le parcours d'apprentissage, si nécessaire, pour tout ou partie des UAA ;
+
+\- les indications temporelles suggérées pour chaque unité ;
+
+\- les points ECVET alloués, d'une part, à l'ensemble de l'option de base groupée ou de la formation considérée et, d'autre part, à chacune des unités d'acquis d'apprentissage ;
+
+\- les savoirs, aptitudes et compétences liés aux disciplines de la formation générale qui sont nécessaires à l'exercice des compétences professionnelles ;
+
+\- le ou les profil(s) d'évaluation ;
+
+\- le ou les profil(s) d'équipement ;
+
+\- le(s) modèle(s) de Supplément au certificat Europass que les [<sup>13</sup> écoles]<sup>13</sup> doivent délivrer aux élèves titulaires de la certification concernée]<sup>5</sup>.
+
+12° [<sup>9</sup> 12° [<sup>11</sup> Profil de certification " défini à l'article 2, 5°, du décret 20 juillet 2022 relatif au parcours d'enseignement qualifiant (PEQ) ;]<sup>11</sup>]<sup>9</sup>.
+
+13° acquis d'apprentissage : désigne ce qu'un élève sait, comprend, est capable de réaliser au terme d'un processus d'apprentissage; les acquis d'apprentissage sont définis en termes de savoirs, d'aptitudes et de compétences, au sens de la Recommandation du Parlement européen et du Conseil du 23 avril 2008 établissant le cadre européen des certifications pour l'éducation et la formation tout au long de la vie.
+
+14° unités d'acquis d'apprentissage : ensemble cohérent d'acquis d'apprentissage susceptible d'être évalué et d'être validé.
+
+15° [<sup>10</sup> ...]<sup>10</sup>
+
+[<sup>9</sup> 15° bis " Parcours d'enseignement qualifiant " (en abrégé, PEQ): défini à l'article 2, 5° du décret 20 juillet 2022 relatif au parcours d'enseignement qualifiant (PEQ).]<sup>9</sup>
+
+[<sup>3</sup> 16°]<sup>3</sup> (ancien 11°) [<sup>5</sup> profil de formation : référentiel présentant de manière structurée les compétences à acquérir en vue de l'obtention d'un certificat de qualification ou d'une attestation de compétences]<sup>5</sup>.
+
+[<sup>3</sup> 17°]<sup>3</sup> (ancien 12°) capital-périodes : nombre de périodes permettant d'organiser les activités pédagogiques, paramédicales, sociales, psychologiques, administratives et auxiliaires d'éducation permettant de répondre aux besoins spécifiques des élèves inscrits dans une [<sup>13</sup> école]<sup>13</sup> d'enseignement secondaire spécialisé.
+
+----------
+
+(1)&lt;DCFR 2011-01-13/04, art. 35, 013; En vigueur : 04-03-2011&gt;
+
+(2)&lt;DCFR 2011-02-10/07, art. 42, 014; En vigueur : 07-03-2011&gt;
+
+(3)&lt;DCFR 2012-07-12/26, art. 99, 016; En vigueur : 01-09-2012&gt;
+
+(4)&lt;DCFR 2013-10-17/21, art. 8, 018; En vigueur : 01-09-2013&gt;
+
+(5)&lt;DCFR 2018-06-14/26, art. 22, 033; En vigueur : 01-09-2018&gt;
+
+(6)&lt;DCFR 2019-04-25/56, art. 41, 038; En vigueur : 01-09-2019&gt;
+
+(7)&lt;DCFR 2019-05-03/38, art. 45, 041; En vigueur : 01-09-2019&gt;
+
+(8)&lt;DCFR 2019-05-03/54, art. 3, 043; En vigueur : 01-09-2020&gt;
+
+(9)&lt;DCFR 2022-07-20/39, art. 46,a;46,c, 051; En vigueur : 29-08-2022&gt;
+
+(10)&lt;DCFR 2022-07-20/39, art. 46,b, 051; En vigueur : 25-08-2025&gt;
+
+(11)&lt;DCFR 2023-06-22/15, art. 48, 058; En vigueur : 28-08-2023&gt;
+
+(12)&lt;DCFR 2024-05-16/79, art. 3, 060; En vigueur : 02-08-2024&gt;
+
+(13)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(14)&lt;DCFR 2026-07-17/11, art. 2, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 5
+
+L'emploi dans le présent décret des noms masculins pour les différents membres des personnels est épicène, en vue d'assurer la lisibilité du texte nonobstant les dispositions du décret du 21 juin 1993 relatif à la féminisation des noms de métier.
+
+## CHAPITRE II. - Des types d'enseignement spécialisé.
+
+#### Art. 6
+
+&lt;Abrogé par DCFR 2019-05-03/54, art. 3, 043; En vigueur : 01-09-2020&gt;
+
+#### Art. 7
+
+&lt;Abrogé par DCFR 2019-05-03/54, art. 3, 043; En vigueur : 01-09-2020&gt;
+
+#### Art. 8
+
+[<sup>1</sup> § 1er. Le type 1 est destiné aux élèves qui ne peuvent être compris parmi ceux qui présentent un retard pédagogique et pour lesquels l'examen pluridisciplinaire, visé à l'article 12, § 1er, 1°, conclut à un retard et/ou à un (des) trouble(s) léger(s) du développement intellectuel. Leurs possibilités sont telles qu'ils peuvent acquérir des connaissances scolaires élémentaires, une habileté et une formation professionnelle qui permet de prévoir leur intégration dans un milieu socioprofessionnel ordinaire.
+
+§ 2. Le type 2 est destiné aux élèves qui ne peuvent être compris parmi les élèves visés à l'article 7, 1°, et pour lesquels l'examen pluridisciplinaire, visé à l'article 12, § 1er, 1°, conclut à un retard modéré ou sévère du développement intellectuel.
+
+Les possibilités constatées chez les élèves dont le handicap a pour origine le retard mental modéré sont telles que, par une éducation sociale et professionnelle adaptée, on peut prévoir leur intégration dans un milieu socioprofessionnel adapté.
+
+Les possibilités constatées chez les élèves dont le handicap a pour origine le retard mental sévère sont telles que ceux-ci sont susceptibles d'être socialisés par des activités éducatives adaptées.
+
+§ 3. Le type 3 est destiné aux élèves pour lesquels l'examen pluridisciplinaire, visé à l'article 12, § 1er, 1°, conclut à la présence de troubles structurels et/ou fonctionnels de l'aspect relationnel et affectivo-dynamique de la personnalité, d'une gravité telle qu'ils exigent le recours à des méthodes éducatives, rééducatives et psychothérapeutiques spécifiques.
+
+§ 4. Le type 4 est destiné aux élèves présentant un handicap physique autres que ceux visés aux §§ 5, 6 et 7 du présent article et pour lesquels l'examen pluridisciplinaire visé à l'article 12, § 1er, 1°, conclut à leur inaptitude à fréquenter l'enseignement ordinaire et dont l'état nécessite le recours à des soins médicaux et paramédicaux réguliers et à l'emploi de méthodes orthopédagogiques.
+
+§ 5. Le type 5 est destiné aux élèves qui, atteints d'une affection corporelle et/ou souffrant d'un trouble psychique ou psychiatrique, sont pris en charge sur le plan de leur santé par une clinique, un hôpital ou par une institution médico-sociale reconnue par les Pouvoirs publics.
+
+[<sup>2</sup> Ce type d'enseignement peut être dispensé quel que soit le lieu ou séjourne l'élève durant sa maladie ou sa convalescence.]<sup>2</sup>
+
+Ce type d'enseignement est organisé en étroite collaboration avec l'école ordinaire ou spécialisée dans laquelle l'élève est inscrit.
+
+Seule l'école d'origine est habilitée à délivrer les certificats, diplômes ou attestations concernant ces élèves.
+
+§ 6. Le type 6 est destiné aux élèves pour lesquels l'examen pluridisciplinaire visé à l'article 12, § 1er, 3°, a conclu à une déficience visuelle et/ou un définit fonctionnel de la vision. Il s'adresse aux élèves qui, pour cause de cécité ou de basse vision congénitale ou acquise nécessitent régulièrement des soins médicaux, paramédicaux et un accompagnement psychosocial internes ou externes.
+
+§ 7. Le type 7 est destiné aux élèves pour lesquels l'examen pluridisciplinaire visé à l'article 12, § 1er, 3°, a conclu à une déficience auditive et/ou une carence importante de la communication.
+
+Il s'adresse aux élèves qui, pour cause de surdité et/ou troubles congénitaux ou acquis nécessitent régulièrement des soins médicaux, paramédicaux et un accompagnement psychosocial internes ou externes.
+
+§ 8. Le type 8 est destiné aux élèves pour lesquels l'examen pluridisciplinaire visé à l'article 12, § 1er, 3°, a conclu à des troubles des apprentissages. Ceux-ci peuvent se traduire par des difficultés dans le développement du langage ou de la parole et/ou dans l'apprentissage de la lecture, de l'écriture ou du calcul, sans qu'il y ait retard mental ou déficit majeur sur le plan physique, comportemental ou sensoriel. Ils doivent être considérés comme des troubles complexes aux origines multifactorielles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 19, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 1, 015; En vigueur : 25-03-2012&gt;
+
+#### Art. 8bis
+
+[<sup>1</sup> Un enseignement spécialisé pour élèves polyhandicapés peut être organisé dans les types 2, 4, 5, 6 ou 7 d'enseignement spécialisé, aux conditions suivantes :
+
+\- Outre le rapport mentionné à l'article 12, § 1er, l'orientation de l'élève est subordonnée à la production d'un document conforme au modèle fixé par le Gouvernement établi par un centre psycho-médico-social, par un office d'orientation scolaire et professionnelle ou par tout autre organisme offrant les mêmes garanties en matière d'orientation scolaire ou professionnelle, organisés, subventionnés ou reconnus par la Communauté française. Une liste de ces organismes est établie annuellement par le gouvernement et communiquée aux instituts, établissements et écoles d'enseignement spécialisé ainsi qu'aux commissions consultatives de l'enseignement spécialisé.
+
+\- Après consultation préalable du comité de concertation de base pour les établissements d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les établissements d'enseignement officiel subventionné par la Communauté française ou des [<sup>2</sup> organes locaux de concertation sociale]<sup>2</sup> ou à défaut des délégations syndicales pour les établissements d'enseignement libre subventionné par la Communauté française.
+
+L'enseignement spécialisé adapté aux élèves polyhandicapés est destiné aux élèves pour lesquels l'examen pluridisciplinaire visé à l'article 12, § 1er, 1°, se basant sur le rapport d'un médecin neurologue ou d'un orthopédiste ou d'un spécialiste en réadaptation fonctionnelle, a conclu à un diagnostic de polyhandicap.
+
+Un enseignement spécialisé adapté aux élèves avec autisme peut être organisé dans tous les types d'enseignement spécialisé, aux conditions suivantes :
+
+\- L'orientation de l'élève est subordonnée à la production d'un document conforme au modèle fixé par le Gouvernement établi par un centre psycho-médico-social, par un office d'orientation scolaire et professionnelle ou par tout autre organisme offrant les mêmes garanties en matière d'orientation scolaire ou professionnelle, organisés, subventionnés ou reconnus par la Communauté française.
+
+\- Après consultation préalable du comité de concertation de base pour les établissements d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les établissements d'enseignement officiel subventionné par la Communauté française ou des [<sup>2</sup> organes locaux de concertation sociale]<sup>2</sup> ou à défaut des délégations syndicales pour les établissements d'enseignement libre subventionné par la Communauté française.
+
+L'enseignement spécialisé pour élèves avec autisme est destiné aux élèves pour lesquels l'examen pluridisciplinaire visé à l'article 12, § 1er, 1°, 2° et 3°, se basant sur le rapport d'un pédopsychiatre ou d'un centre de référence agréé, a conclu à un diagnostic d'autisme.
+
+Un enseignement spécialisé pour élèves aphasiques ou dysphasiques peut être organisé dans tous les types d'enseignement spécialisé, sauf dans l'enseignement de type 2, aux conditions suivantes :
+
+\- L'orientation de l'élève est subordonnée à la production d'un document conforme au modèle fixé par le Gouvernement établi par un centre psycho-médico-social, par un office d'orientation scolaire et professionnelle ou par tout autre organisme offrant les mêmes garanties en matière d'orientation scolaire ou professionnelle, organisés, subventionnés ou reconnus par la Communauté française.
+
+\- Après consultation préalable du comité de concertation de base pour les établissements d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les [<sup>3</sup> écoles]<sup>3</sup> d'enseignement officiel subventionné par la Communauté française ou des [<sup>2</sup> organes locaux de concertation sociale]<sup>2</sup> ou à défaut des délégations syndicales pour les [<sup>3</sup> écoles]<sup>3</sup> d'enseignement libre subventionné par la Communauté française.
+
+L'enseignement spécialisé pour élèves aphasiques ou dysphasiques est destiné aux élèves pour lesquels l'examen pluridisciplinaire visé à l'article 12, § 1er, 1°, se basant sur le rapport d'un médecin neuro-pédiatre, a conclu à un diagnostic d'aphasie ou de dysphasie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-02-05/48, art. 20, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 8ter
+
+[<sup>1</sup> Un enseignement spécialisé pour élèves avec handicaps physiques lourds entravant fortement leur autonomie et nécessitant des actes de soins et de nursing importants mais disposant de compétences intellectuelles leur permettant d'accéder aux apprentissages scolaires grâce à des moyens orthopédagogiques très spécifiques peut être organisé dans les types 4, 5, 6 et 7 d'enseignement spécialisé, aux conditions suivantes :
+
+1° Outre le rapport mentionné à l'article 12, § 1er, l'orientation de l'élève est subordonnée à la production d'un document conforme au modèle fixé par le Gouvernement établi par un centre psycho-médico-social, par un office d'orientation scolaire et professionnelle ou par tout autre organisme offrant les mêmes garanties en matière d'orientation scolaire ou professionnelle, organisés, subventionnés ou reconnus par la Communauté française. Une liste de ces organismes est établie annuellement par le Gouvernement et communiquée aux instituts, [<sup>3</sup> écoles]<sup>3</sup> d'enseignement spécialisé ainsi qu'aux commissions consultatives de l'enseignement spécialisé.
+
+2° Après consultation préalable du comité de concertation de base pour les établissements d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les [<sup>3</sup> écoles]<sup>3</sup> d'enseignement officiel subventionné par la Communauté française ou des [<sup>2</sup> organes locaux de concertation sociale]<sup>2</sup> ou à défaut des délégations syndicales pour les [<sup>3</sup> écoles]<sup>3</sup> d'enseignement libre subventionnées par la Communauté française.
+
+3° L'enseignement spécialisé adapté aux élèves avec handicaps physiques lourds entravant fortement leur autonomie et nécessitant des actes de soins et de nursing importants mais disposant de compétences intellectuelles leur permettant d'accéder aux apprentissages scolaires grâce à des moyens orthopédagogiques très spécifiques est destiné aux élèves pour lesquels l'examen pluridisciplinaire visé à l'article 12, § 1er, 1°, se basant sur le rapport d'un médecin neurologue ou d'un orthopédiste ou d'un spécialiste en réadaptation fonctionnelle, a conclu à un diagnostic de pathologie lourde définie par une affection neurologique centrale avec déficit moteur étendu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-02-01/14, art. 2, 015; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 8quater
+
+[<sup>1</sup> L'enseignement spécialisé peut être organisé au niveau fondamental et secondaire sous la forme d'une classe ou d'une implantation à visée inclusive.
+
+[<sup>2</sup> Une classe à visée inclusive est un groupe classe d'élèves à besoins spécifiques inscrits dans l'enseignement spécialisé de type 2 porteurs ou non d'autisme ou de type 3 pour les élèves porteurs d'autisme implantée au sein d'une école de l'enseignement ordinaire. Dans ce dernier cas, la production d'une attestation émanant d'un organisme spécialisé dans le domaine de l'autisme stipulant que l'élève inscrit dans l'enseignement spécialisé de type 3 est porteur d'autisme, est exigée. L'objectif premier pour les élèves qui participent à ce type de projet consiste en une inclusion sociale et relationnelle en vue d'acquérir divers apprentissages dans un milieu scolaire de vie ordinaire.]<sup>2</sup>.
+
+Une implantation à visée inclusive est composée d'une ou de plusieurs classes à visée inclusive.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-05-03/38, art. 46, 041; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2023-07-20/48, art. 8, 055; En vigueur : 28-08-2023&gt;
+
+#### Art. 8quinquies
+
+[<sup>1</sup> L'enseignement spécialisé peut être organisé au niveau fondamental et secondaire sous la forme d'une structure scolaire d'aide à la socialisation ou à la resocialisation (SSAS). ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/48, art. 9, 055; En vigueur : 28-08-2023&gt;
+
+#### Art. 9
+
+Les types 1 et 8 d'enseignement spécialisé ne sont pas organisés au niveau de l'enseignement maternel spécialisé.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 47, 041; En vigueur : 01-09-2019&gt;
+
+#### Art. 10
+
+Après avis motivé du [<sup>1</sup> Conseil général]<sup>1</sup> visé à l'article 170, le Gouvernement peut organiser ou subventionner des Centres d'observation. Ceux-ci dispensent un enseignement assimilé administrativement au type 3 d'enseignement spécialisé.
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+## CHAPITRE III. - Des conditions d'admission et de maintien.
+
+#### Art. 11
+
+1. Les avantages du présent décret sont réservés aux élèves âgés de deux ans et six mois au moins et de vingt et un an au plus, sans préjudice des articles 13 et 15.
+
+§ 2. Dans l'enseignement secondaire spécialisé de forme 4, en ce qui concerne les conditions d'admission, les conditions d'âge sont identiques à celles fixées par l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire.
+
+#### Art. 12
+
+§ 1er. L'inscription des enfants et des adolescents dans une [<sup>12</sup> école]<sup>12</sup> [<sup>12</sup> ...]<sup>12</sup> ou un institut d'enseignement spécialisé est subordonnée à la production d'un rapport précisant le type d'enseignement spécialisé qui correspond aux besoins de l'élève et qui est dispensé dans [<sup>12</sup> ...]<sup>12</sup> cette école ou cet institut [<sup>3</sup> sauf dérogation accordée par le Gouvernement sur proposition [<sup>7</sup> ...]<sup>7</sup> du Conseil général pour les dispositions prévues aux articles[<sup>7</sup> articles 133, § 4 et § 5, 147, alinéa 2, et 147bis]<sup>7</sup>]<sup>3</sup>.
+
+[<sup>3</sup> Le rapport d'inscription donne lieu à l'établissement d'une attestation et d'un protocole justificatif. Le Gouvernement détermine le modèle relatif à l'attestation et au protocole justificatif [<sup>5</sup> ainsi que leurs modalités de communication]<sup>5</sup>.]<sup>3</sup> Ce rapport est établi :
+
+1° pour les types 1, 2, 3, 4 et 8, sur la base d'un examen pluridisciplinaire effectué par un centre psycho-medico-social [<sup>4</sup> ...]<sup>4</sup> [<sup>5</sup> desservant une [<sup>12</sup> école]<sup>12</sup> d'enseignement ordinaire]<sup>5</sup> ou par tout autre organisme offrant les mêmes garanties en matière d'orientation scolaire ou professionnelle, organisés, subventionnés ou reconnus par la Communauté française. Une liste de ces organismes est établie annuellement par le Gouvernement et communiquée aux instituts, [<sup>12</sup> ...]<sup>12</sup> écoles d'enseignement spécialisé ainsi qu'aux commissions consultatives de l'enseignement spécialisé.
+
+[<sup>4</sup> Les conclusions des analyses et des examens pluridisciplinaires, consignées dans ce rapport d'inscription, résultent de l'interprétation et de l'articulation dynamique des données médicales, psychologiques, pédagogiques et socio-familiales.]<sup>4</sup>
+
+[<sup>6</sup> Pour les types 1, 3 et 8, le rapport d'inscription doit notamment décrire, le cas échéant, selon les modalités fixées par le gouvernement, l'accompagnement et les aménagements raisonnables mis en place dans l'enseignement ordinaire et démontrer que ceux-ci se sont révélés insuffisants pour assurer un apprentissage adapté aux besoins spécifiques de l'élève.
+
+Un manque de maîtrise de la langue de l'enseignement ou l'appartenance à un milieu social défavorisé ne constitue pas un motif suffisant d'orientation vers l'enseignement spécialisé.]<sup>6</sup>
+
+2° [<sup>1</sup> Pour le type 5, sur la base d'un examen médical dont les conclusions sont consignées dans un rapport d'inscription et qui est effectué par un pédiatre ou le médecin référant du service de pédiatrie, de la clinique, de l'hôpital ou de l'institution médico-sociale reconnue par les pouvoirs publics.]<sup>1</sup>
+
+[<sup>2</sup> 3° pour les types 6 et 7 :
+
+a) Soit sur la base d'un examen pluridisciplinaire effectué par un centre psycho-médico-social [<sup>5</sup> desservant une [<sup>12</sup> école]<sup>12</sup> d'enseignement ordinaire]<sup>5</sup> ou par tout autre organisme offrant les mêmes garanties en matière d'orientation scolaire ou professionnelle, organisés, subventionnés ou reconnus par la Communauté française. Une liste de ces organismes est établie annuellement par le Gouvernement et communiquée aux instituts [<sup>12</sup> ...]<sup>12</sup> et écoles d'enseignement spécialisé ainsi qu'aux commissions consultatives de l'enseignement spécialisé.
+
+Les conclusions de cet examen pluridisciplinaire, consignées dans un rapport d'inscription, résultent de l'interprétation et de l'intégration des données fournies par :
+
+\- L'examen médical;
+
+\- L'examen psychologique;
+
+\- L'examen pédagogique;
+
+\- L'étude sociale.
+
+b) Soit sur la base d'un examen médical dont les conclusions sont consignées dans un rapport d'inscription et qui est effectué pour le type 6, par un médecin spécialiste en ophtalmologie et, pour le type 7, par un médecin spécialiste en oto-rhino-laryngologie.]<sup>2</sup>
+
+[<sup>8</sup> En outre, l'inscription dans l'enseignement secondaire spécialisé de type 8 est autorisée moyennant le respect des conditions suivantes :
+
+\- soit l'élève fréquente l'enseignement primaire spécialisé de type 8, entre le 15 octobre et le [<sup>10</sup> dernier jour de l'année scolaire précédente]<sup>10</sup>, et pour autant qu'il n'ait pas obtenu son CEB ;
+
+\- soit l'élève possède, entre le 15 octobre et le [<sup>10</sup> dernier jour de l'année scolaire précédente]<sup>10</sup>, une attestation d'orientation vers l'enseignement spécialisé de type 8 et est en intégration permanente totale dans l'enseignement primaire ordinaire, et pour autant qu'il n'ait pas obtenu son CEB.]<sup>8</sup>
+
+[<sup>11</sup> - soit, entre le 28 août 2023 et le 15 juin 2029, l'élève fréquente l'enseignement secondaire ordinaire et dispose de son CEB et d'une attestation d'orientation vers l'enseignement spécialisé de type 8. Dans ce cas, cette inscription est soumise à :
+
+1° l'avis conjoint du conseil de classe de l'école d'enseignement secondaire ordinaire, du centre PMS compétent de cette école et le cas échéant, du pôle territorial qui précise que l'accompagnement et les aménagements raisonnables mis en place se sont révélés insuffisants pour assurer l'apprentissage adapté aux besoins spécifiques de l'élève et que, l'élève peut être orienté vers l'enseignement secondaire spécialisé ;
+
+2° l'accord des parents ou de la personne investie de l'autorité parentale si l'élève est mineur ou de l'élève s'il est majeur.]<sup>11</sup>
+
+§ 2. Le Gouvernement prend toutes les mesures nécessaires en vue de rendre possible la guidance permanente des élèves de l'enseignement spécialisé.
+
+Cette mission est confiée aux organismes et personnes visées au présent article.
+
+§ 3. [<sup>9</sup> Si un élève qui a quitté l'enseignement spécialisé sollicite sa réinscription dans l'enseignement spécialisé dans un délai de moins de deux ans, un nouveau rapport d'inscription ne doit pas être nécessairement établi sauf si l'élève est réorienté dans un type différent de celui figurant sur l'attestation initiale.
+
+Si un élève, en possession d'une attestation d'orientation vers l'enseignement spécialisé, mais qui n'a jamais été inscrit dans l'enseignement spécialisé, sollicite son inscription dans cet enseignement dans un délai de moins de deux ans à compter de la date de la signature de cette attestation d'orientation, un nouveau rapport d'inscription ne doit pas être nécessairement établi sauf si l'élève est réorienté dans un type différent de celui figurant sur l'attestation initiale.
+
+Néanmoins, à la demande du directeur de l'[<sup>12</sup> école]<sup>12</sup> d'enseignement spécialisé, un rapport succinct sera fourni par le centre psycho-médico-social de la dernière école fréquentée.]<sup>9</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 21, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2009-02-05/48, art. 22, 009; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFR 2012-02-01/14, art. 3, 015; En vigueur : 25-03-2012&gt;
+
+(4)&lt;DCFR 2012-07-12/31, art. 62, 017; En vigueur : 01-09-2012&gt;
+
+(5)&lt;DCFR 2013-10-17/21, art. 9, 018; En vigueur : 01-09-2013&gt;
+
+(6)&lt;DCFR 2015-07-14/05, art. 7, 023; En vigueur : 01-09-2015&gt;
+
+(7)&lt;DCFR 2018-07-11/16, art. 5, 035; En vigueur : 01-09-2018&gt;
+
+(8)&lt;DCFR 2019-05-03/38, art. 48, 041; En vigueur : 01-09-2019&gt;
+
+(9)&lt;DCFR 2019-05-03/38, art. 49, 041; En vigueur : 01-09-2019&gt;
+
+(10)&lt;DCFR 2022-03-31/35, art. 74, 048; En vigueur : 29-08-2022&gt;
+
+(11)&lt;DCFR 2023-07-20/48, art. 10, 055; En vigueur : 28-08-2023&gt;
+
+(12)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 13
+
+§ 1er. Les enfants peuvent être inscrits comme élèves réguliers dans l'enseignement maternel spécialisé sur la base d'un rapport délivré conformément aux dispositions de l'article 12 dès qu'ils atteignent l'âge de 2 ans et 6 mois et jusqu'au moment où ils atteignent, au plus tard le 31 décembre de l'année en cours, l'âge de 6 ans.
+
+Ils peuvent néanmoins être admis jusqu'au moment où ils atteignent l'âge de 7 ans au plus tard le 31 décembre de l'année en cours, sur la base d'un avis motivé joint au rapport d'inscription.
+
+§ 2. A titre exceptionnel, nonobstant les dispositions prévues à l'article 14 et sur la base d'un avis motivé [<sup>1</sup> du conseil de classe assisté de l'organisme chargé de la guidance]<sup>1</sup>, les élèves peuvent être maintenus dans l'enseignement maternel spécialisé après les vacances d'été de l'année au cours de laquelle ils atteignent l'âge de six ans. Ce maintien ne peut être renouvelé qu'une seule fois.
+
+§ 3. Le Gouvernement peut autoriser l'accès à l'enseignement spécial de type 7 avant deux ans et six mois à un enfant malentendant ou sourd, lorsqu'un rapport émanant d'un service d'aide précoce ou d'un centre d'audiophonologie établit l'absolue nécessité de la scolarisation.
+
+----------
+
+(1)&lt;DCFR 2013-10-17/21, art. 10, 018; En vigueur : 01-09-2013&gt;
+
+#### Art. 14
+
+§ 1er. Les enfants peuvent être inscrits comme élèves réguliers dans l'enseignement primaire spécialisé sur la base d'un rapport d'inscription délivré conformément aux dispositions de l'article 12 :
+
+1° après les vacances d'été de l'année au cours de laquelle ils atteignent l'âge de six ans;
+
+2° s'ils atteignent, au plus tard le 31 décembre de l'année en cours, l'âge de treize ou quatorze ans, sur la base d'un avis motivé joint au rapport d'inscription.
+
+§ 2. A titre exceptionnel et dans l'intérêt de l'enfant, si les conditions prévues à [<sup>2</sup> l'article 1.2.1-3, alinéa 2, du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>2</sup> sont respectées, le Gouvernement peut autoriser un élève à fréquenter l'enseignement primaire spécialisé dès l'âge de 5 ans.
+
+§ 3. A titre exceptionnel, nonobstant les dispositions prévues à l'article 15 et sur la hase d'un avis motivé commun [<sup>1</sup> du conseil de classe assisté de l'organisme chargé de la guidance]<sup>1</sup>, les élèves peuvent être maintenus dans l'enseignement primaire spécialisé après les vacances d'été de l'année au cours de laquelle ils atteignent l'âge de treize ans. Ce maintien ne peut être renouvelé qu'une seule fois.
+
+----------
+
+(1)&lt;DCFR 2013-10-17/21, art. 11, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2020-07-09/08, art. 20, 042; En vigueur : 01-09-2020&gt;
+
+#### Art. 14bis
+
+[<sup>1</sup> Dans l'enseignement primaire spécialisé, sont pris en compte, comme s'ils avaient fréquenté régulièrement l'école, les élèves qui se sont absentés de manière injustifiée, pour autant que l'obligation visée à [<sup>2</sup> l'article 1.7.1-9 du Code de l'enseignement fondamental et de l'enseignement secondaire ait été respectée]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-02-05/48, art. 23, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 3, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 15
+
+§ 1er. Les enfants et les adolescents peuvent être inscrits comme élèves réguliers dans l'enseignement secondaire spécialisé sur la base d'un rapport d'inscription délivré conformément aux dispositions de l'article 12 :
+
+1° après les vacances d'été de l'année au cours de laquelle ils atteignent l'âge de treize ans;
+
+2° sur la base d'un avis motivé du conseil de classe joint au rapport d'inscription après les vacances d'été de l'année au cours de laquelle ils atteignent l'âge de douze ans;
+
+§ 2. Les élèves âgés de plus de vingt et un ans, dans l'enseignement de forme 3, qui commencent la troisième phase pour la première fois peuvent également être inscrits comme élèves réguliers dans l'enseignement secondaire spécialisé [<sup>2</sup> jusqu'au terme de leur cycle de formation]<sup>2</sup>.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. Le Gouvernement peut autoriser le maintien au-delà de 21 ans d'un élève qui ne peut être pris en charge par une entreprise de travail adapté ou un centre d'hébergement ou un centre de jour, à condition que le coût de l'accueil ne soit pas mis à charge du budget de la Communauté française, sans qu'il soit pour autant dérogé à l'obligation de gratuité.
+
+§ 5 La limite d'âge de 21 ans ne s'applique pas aux élèves à besoins spécifiques inscrits dans un enseignement spécialisé en alternance tel que prévu à l'article 3 du présent décret.
+
+----------
+
+(1)&lt;DCFR 2018-07-11/16, art. 6, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2024-01-18/27, art. 66, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 15bis
+
+[<sup>1</sup> Dans l'enseignement secondaire spécialisé, sont pris en compte, comme s'ils avaient fréquenté régulièrement l'école, les élèves qui se sont absentés de manière injustifiée [<sup>2</sup> ...]<sup>2</sup>. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-07-11/16, art. 7, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2024-05-16/96, art. 50, 062; En vigueur : 25-08-2025&gt;
+
+#### Art. 15ter
+
+[<sup>1</sup> [<sup>6</sup> Le Gouvernement ou son délégué peut]<sup>6</sup> accorder une dérogation [<sup>5</sup> ...]<sup>5</sup> à une école d'enseignement fondamental ou secondaire spécialisé qui accepte d'inscrire un élève relevant d'un autre type d'enseignement spécialisé que celui ou ceux qu'elle organise [<sup>2</sup> ou d'une autre forme d'enseignement spécialisé que celle(s) qu'elle organise ]<sup>2</sup> et ce en vertu d'une situation exceptionnelle [<sup>4</sup> notamment]<sup>4</sup> motivée par un manque d'offre d'enseignement spécialisé empêchant toute possibilité de scolarisation et sur avis favorable [<sup>3</sup> du Conseil général concerné]<sup>3</sup>. [<sup>6</sup> L'autorité ministérielle compétente est chargée de transmettre annuellement au Gouvernement un relevé des dérogations accordées par ses services.]<sup>6</sup>
+
+[<sup>4</sup> l'école d'enseignement spécialisé]<sup>4</sup> qui accepte d'inscrire cet élève, bénéficie pour l'élève concerné, [<sup>5</sup> pour toute la durée de la scolarité de l'élève, sauf en cas de changement d'école, ou lors d'un passage de l'enseignement fondamental vers l'enseignement secondaire]<sup>5</sup>, du taux de subvention ou de la dotation et des périodes d'accompagnement générées par le nombre guide relatif au type d'enseignement mentionné sur l'attestation d'orientation de l'élève concerné.
+
+Durant la période dérogatoire, l'élève est considéré comme régulièrement inscrit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 12, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2018-07-11/16, art. 8, 035; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCFR 2019-04-25/56, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2024-05-16/79, art. 4, 060; En vigueur : 02-08-2024&gt;
+
+(5)&lt;DCFR 2025-07-16/13, art. 15, 061; En vigueur : 26-08-2024&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 4, 068; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE IV. - De l'organisation de l'enseignement maternel spécialisé et/ou primaire spécialisé.
+
+### Section 1re. - De l'horaire des élèves dans l'enseignement maternel.
+
+#### Art. 16
+
+L'enseignement maternel spécialisé [<sup>1</sup> s'articule autour du projet d'[<sup>2</sup> école]<sup>2</sup>. Il]<sup>1</sup> est dispensé à raison de vingt-huit périodes hebdomadaires de cinquante minutes réparties sur neuf demi-jours. L'horaire des élèves est continu. Il comprend au minimum une récréation de quinze minutes le matin et une interruption d'une heure entre les activités de la matinée et celles de l'après-midi.
+
+----------
+
+(1)&lt;DCFR 2011-01-13/04, art. 36, 013; En vigueur : 04-03-2011&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 17
+
+Dans chaque [<sup>2</sup> école]<sup>2</sup> d'enseignement spécialisé organisant de l'enseignement maternel, sont assurés conformément à la Section 10 du présent chapitre, la prise en charge des élèves qui nécessitent une aide individuelle particulière et/ou l'accueil, l'observation et la prise en charge temporaire de nouveaux élèves. Ces tâches sont assurées par un maître d'enseignement individualisé.
+
+[<sup>1</sup> Des cours de psychomotricité peuvent être organisés. Ces cours sont assurés par un maître de psychomotricité.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 50, 041; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 2. - De l'horaire des élèves dans l'enseignement primaire et de leur encadrement.
+
+#### Art. 18
+
+L'enseignement primaire spécialisé [<sup>1</sup> est organisé en 4 degrés de maturité qui s'articulent autour du projet d'[<sup>5</sup> école]<sup>5</sup>. Il]<sup>1</sup> est dispensé à raison de vingt-huit périodes hebdomadaires de cinquante minutes, réparties sur neuf demi-jours. L'horaire des élèves est continu. Il comprend au minimum une récréation de 15 minutes le matin et une interruption d'une heure entre les activités de la matinée et celles de l'après-midi.
+
+[<sup>4</sup> Dans les [<sup>5</sup> écoles]<sup>5</sup> d'enseignement primaire spécialisé organisé par la Communauté française et les [<sup>5</sup> écoles]<sup>5</sup> d'enseignement primaire spécialisé de l'enseignement officiel subventionné et de l'enseignement libre non confessionnel subventionné qui offrent le choix entre les différents cours de religion ou de morale non confessionnelle, l'enseignement primaire spécialisé demeure organisé à raison de 28 périodes de 50 minutes lorsque l'élève est dispensé du cours de religion ou de morale non confessionnelle. Les élèves dispensés participent obligatoirement à une deuxième période de cours de philosophie et de citoyenneté visée à l'article 8, alinéa 4, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2011-01-13/04, art. 37, 013; En vigueur : 04-03-2011&gt;
+
+(2)&lt;DCFR 2015-07-14/03, art. 9, 022; En vigueur : 01-09-2015&gt;
+
+(3)&lt;DCFR 2016-07-13/04, art. 13, 028; En vigueur : 01-09-2016&gt;
+
+(4)&lt;DCFR 2017-07-19/35, art. 43, 030; En vigueur : 01-09-2017&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 19
+
+Le Gouvernement pour l'enseignement de la Communauté française, chaque pouvoir organisateur, pour l'enseignement subventionné, organise la grille-horaire.
+
+#### Art. 20
+
+[<sup>1</sup> Par classe, il est organisé deux périodes hebdomadaires d'activités physiques et sportives. En outre, une, deux ou trois périodes d'activité psychomotrice ou sportive peuvent être organisées. Ces périodes sont assurées [<sup>3</sup> par un maître de psychomotricité,]<sup>3</sup> par un maître d'éducation physique ou par le titulaire s'il est porteur du certificat de capacité aux fonctions de maître d'éducation physique dans les écoles primaires.
+
+L'organisation des deux périodes hebdomadaires d'activités physiques et sportives n'est pas obligatoire pour l'enseignement de type 5.
+
+Dans l'enseignement de type 4 [<sup>2</sup> et pour les pédagogies adaptées telles que prévues à l'article 8bis, alinéa 1er et à l'article 8ter, alinéa 1er]<sup>2</sup>, le Gouvernement, selon les modalités qu'il détermine, peut autoriser la prise en charge des élèves durant les deux périodes hebdomadaires d'activités physiques et sportives par du personnel paramédical pour qu'ils puissent bénéficier d'activités psychomotrices pendant ces deux périodes.
+
+L'autorisation sera donnée sur base d'un dossier motivé précisant les raisons et les modalités de cette prise en charge.
+
+Les dispositions des alinéas précédents ne peuvent avoir comme conséquence, en ce qui concerne le personnel nommé à titre définitif, la mise en disponibilité ou la perte partielle de charge du maître d'éducation physique ou du titulaire s'il est porteur du certificat de capacité aux fonctions de maître d'éducation physique dans les écoles primaires.
+
+Il ne s'agit en aucun cas du transfert de périodes d'une catégorie de personnel vers une autre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 25, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 4, 015; En vigueur : 25-03-2012&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 51, 041; En vigueur : 01-09-2019&gt;
+
+#### Art. 21
+
+Le cours de travail manuel est assuré par un maître de travaux manuels ou par le titulaire ayant les titres requis.
+
+#### Art. 22
+
+Dans les [<sup>1</sup> écoles]<sup>1</sup> d'enseignement libre confessionnel, le cours de religion peut être assuré par le titulaire. Dans ce cas, celui-ci cède deux périodes de la grille-horaire à un autre enseignant. Les deux périodes cédées ne peuvent être ni le cours de langue moderne, ni le cours d'éducation physique.
+
+Dans les [<sup>1</sup> écoles]<sup>1</sup> d'enseignement libre non confessionnel qui n'organisent que le cours de morale non confessionnelle, le cours de morale non confessionnelle peut être assuré par le titulaire. Dans ce cas, celui-ci cède deux périodes de la grille-horaire à un autre enseignant. Les deux périodes cédées ne peuvent être ni le cours de langue moderne, ni le cours d'éducation physique.
+
+Le pouvoir organisateur qui recourt à la faculté visée aux alinéas 1 et 2 est tenu d'informer le Gouvernement selon les modalités que celui-ci détermine, des périodes de titulariat cédées.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 23
+
+Tous les cours de la grille horaire sont attribués, dans le respect de l'article 30, selon les cas à un titulaire, à un maître d'enseignement individualisé, à un maître d'activités éducatives, à un maître de cours d'éducation physique, [<sup>1</sup> à un maître de psychomotricité,]<sup>1</sup> à un maître de travaux manuels, à un maître de langue moderne, à un maître de morale non confessionnelle ou à un maître de religion.
+
+Le directeur, dans l'enseignement de la Communauté française, le pouvoir organisateur, dans l'enseignement subventionné, transmet au Gouvernement, selon les modalités que celui-ci détermine, l'horaire hebdomadaire des élèves. L'horaire hebdomadaire des élèves indique les noms des membres du personnel qui dispensent les différents cours.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 52, 041; En vigueur : 01-09-2019&gt;
+
+#### Art. 24
+
+Dans chaque [<sup>1</sup> école]<sup>1</sup> d'enseignement spécialisé organisant de l'enseignement primaire, la prise en charge des élèves qui nécessitent une aide individuelle particulière et/ou l'accueil, l'observation et la prise en charge temporaire de nouveaux élèves, sont assurés dans les limites du capital-périodes utilisable. Ces tâches sont assurées par un maître d'enseignement individualisé.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 3. - Des conditions de passage de l'enseignement fondamental spécialisé vers l'enseignement fondamental ordinaire.
+
+#### Art. 25
+
+§ 1er. Un élève régulièrement inscrit dans une [<sup>1</sup> école]<sup>1</sup> d'enseignement fondamental spécialisé peut être inscrit dans l'enseignement fondamental ordinaire sur décision de ses parents ou de la personne investie de l'autorité parentale, à la condition toutefois d'avoir obtenu un avis de l'organisme chargé de la guidance des élèves de l'[<sup>1</sup> école]<sup>1</sup> spécialisée concernée.
+
+§ 2. Sans préjudice de l'application des articles 130 à 158, l'année d'études à laquelle l'élève peut accéder est déterminée par l'équipe éducative de l'[<sup>1</sup> école]<sup>1</sup> d'enseignement ordinaire dans le respect de la réglementation en vigueur dans l'enseignement ordinaire.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 3bis. [<sup>1</sup> Section 3bis. - Des conditions de changement d'établissement organisant le même type au sein de l'enseignement fondamental spécialisé " ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/16, art. 9 035; En vigueur : 01-09-2018&gt;
+
+#### Art. 25bis
+
+[<sup>1</sup> Après le 30 septembre d'une année scolaire en cours, un élève régulièrement inscrit dans une [<sup>2</sup> école]<sup>2</sup> d'enseignement fondamental spécialisé peut être inscrit dans une autre [<sup>2</sup> école]<sup>2</sup> d'enseignement fondamental spécialisé qui organise le même type d'enseignement, sur décision de ses parents ou de la personne investie de l'autorité parentale, après avis de la direction de l'[<sup>2</sup> école]<sup>2</sup> spécialisée d'origine.
+
+En cas d'avis défavorable de la direction de l'[<sup>2</sup> école]<sup>2</sup> spécialisée d'origine, l'inscription est toutefois possible à la condition d'avoir obtenu un avis de l'organisme chargé de la guidance des élèves de l'[<sup>2</sup> école]<sup>2</sup> spécialisée d'origine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/16, art. 10, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 4. - De l'apprentissage par immersion.
+
+#### Art. 26
+
+[<sup>1</sup> § 1er. L'apprentissage par immersion dans l'enseignement spécialisé peut être organisé selon les modalités prévues aux articles 1.8.3-1 et suivants du Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+§ 2. Par dérogation au paragraphe 1er, les dispositions prévues aux articles 1.8.3-1 et suivants ne sont pas applicables aux élèves relevant de l'enseignement spécialisé de type 7 pour lequel l'organisation de l'immersion relève de chaque pouvoir organisateur.
+
+Tout pouvoir organisateur d'une école organisant un enseignement spécialisé de type 7 est tenu de mettre en place un projet en langue des signes qui figure dans le projet d'[<sup>2</sup> école]<sup>2</sup>. Dans le cadre de ce projet, tout élève relevant de l'enseignement spécialisé de type 7 peut bénéficier au minimum de 2 périodes hebdomadaires d'immersion en langue des signes. Celles-ci sont assurées par un instituteur maternel/primaire chargé des cours en immersion.
+
+L'immersion en langue des signes n'exclut ni l'étude ou l'immersion en français oral ni l'étude du français écrit. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 67, 056; En vigueur : 21-02-2024&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 4bis. [<sup>1</sup> - De l'organisation d'une Structure Scolaire d'Aide à la Socialisation ou à la resocialisation (SSAS).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 13, 018; En vigueur : 01-09-2013&gt;
+
+#### Art. 26bis
+
+[<sup>1</sup> § 1er. Les classes SSAS peuvent être organisées dans toute [<sup>3</sup> école]<sup>3</sup> d'enseignement primaire autorisé à organiser les types d'enseignement spécialisé pour les élèves concernés, celles-ci peuvent déroger aux contraintes imposées en matière d'organisation des cours d'éducation physique, de travail manuel, de constitution des grilles-horaire et des attributions du personnel enseignant au niveau des cours de la grille-horaire.
+
+§ 2. Dans chaque [<sup>3</sup> école]<sup>3</sup> organisant une ou plusieurs classes SSAS il est élaboré un projet pédagogique spécifique précisant les modalités et les critères d'orientation vers une classe SSAS. Ce projet pédagogique spécifique est conservé dans l'[<sup>3</sup> école]<sup>3</sup> d'enseignement spécialisé et tenu à disposition des Services de l'Inspection et des Services du Gouvernement.
+
+Chaque classe SSAS est organisée en deux périodes;
+
+1° une période de socialisation rendant possible l'accrochage scolaire et l'élaboration du projet personnel du jeune;
+
+2° une période d'immersion rendant possible la réinsertion du jeune dans la structure d'apprentissage.
+
+Chaque période a une durée maximale de douze mois calendrier sauf avis motivé du conseil de classe de la classe SSAS. Le Conseil de classe de la classe SSAS décide du passage de l'élève de la période de socialisation à la période d'immersion.
+
+Le conseil de classe assure le suivi du jeune dans le cadre de son projet et la décision de son retour vers une structure d'apprentissage.
+
+§ 3. Le Conseil de classe SSAS, est chargé notamment d'évaluer, de préciser voire d'amender le projet pédagogique spécifique SSAS, de décider de manière motivée du retour de l'élève dans une structure d'apprentissage.
+
+Il est composé des membres des personnels directeur et enseignant, du personnel paramédical, psychologique et social et du personnel auxiliaire d'éducation qui ont la charge de l'instruction et de l'éducation des élèves d'une classe SSAS et qui en portent la responsabilité.
+
+Dans le cadre de ses missions définies à l'alinéa 1er, le Conseil de classe SSAS peut faire appel à toute collaboration occasionnelle qu'il tient pour utile.
+
+[<sup>2</sup> Au cours des trois premières années,]<sup>2</sup> deux fois par an minimum, il est organisé un comité de suivi composé des membres du conseil de classe SSAS élargi, le cas échéant à un représentant de l'organe de représentation et de coordination des pouvoirs organisateurs d'enseignement, à un représentant de l'organisme chargé de la guidance, au membre du personnel chargé du suivi des activités de socialisation ou des stages d'essai, à un membre du personnel enseignant (hors classe SSAS) et à un membre du Service d'inspection de l'enseignement spécialisé.
+
+§ 4. Les élèves inscrits dans une classe SSAS génèrent un capital-périodes utilisable selon les mêmes règles que pour les élèves de l'enseignement spécialisé du type d'enseignement dont ils relèvent.
+
+§ 5. Le Gouvernement arrête les modalités d'organisation et de fonctionnement des classes SSAS notamment en ce qui concerne les périodes de socialisation et les périodes d'essai en immersion dans un milieu scolaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 14, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 53, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 5. - De la sanction des études.
+
+#### Art. 27
+
+[<sup>1</sup> § 1er. Le conseil de classe délivre le Certificat d'études de base à tout élève qui a réussi l'épreuve intervenant dans la délivrance du Certificat d'études de base visée au Livre 2, Titre 3, Chapitre 2, du Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+§ 2. En outre, le conseil de classe peut octroyer le Certificat d'études de base à l'élève qui :
+
+1° soit, n'a pas satisfait à l'épreuve intervenant dans la délivrance du Certificat d'études de base ;
+
+2° soit, n'a pas pu participer en tout ou en partie à l'épreuve intervenant dans la délivrance du Certificat d'études de base, notamment en cas de maladie ou pour des raisons de l'annulation d'une épreuve externe commune certificative ou partie d'une épreuve externe commune certificative.
+
+Le conseil de classe fonde sa décision sur la base d'un dossier comportant :
+
+1° la copie des bulletins des deux dernières années de la scolarité primaire de l'élève, tels qu'ils ont été communiqués aux parents ou, lorsque l'école n'utilise pas de bulletins, tout autre document équivalent permettant de rendre compte des acquis de l'élève. Lorsqu'un élève fréquente l'enseignement primaire organisé ou subventionné par la Communauté française depuis moins de deux années scolaires, la copie des bulletins ou de tout autre document équivalent permettant de rendre compte des acquis de l'élève d'une seule année scolaire peut suffire ;
+
+2° le rapport circonstancié du conseil de classe faisant état des acquis de l'élève en se fondant sur les référentiels du tronc commun ;
+
+3° le cas échéant, les résultats obtenus par l'élève à l'épreuve intervenant dans la délivrance du Certificat d'études de base ;
+
+4° le cas échéant, les aménagements effectivement mis en place pour la passation de l'épreuve intervenant dans la délivrance du Certificat d'études de base ;
+
+5° tout autre élément utile de nature pédagogique que le conseil de classe estime devoir être pris en considération.
+
+§ 3. Le procès-verbal des décisions du conseil de classe est consigné dans un registre ad hoc et porte la signature du directeur et des autres membres du conseil de classe. La liste des élèves ayant obtenu le Certificat d'études de base est jointe au procès-verbal.
+
+Le registre et les dossiers des élèves sont conservés dans l'école durant deux ans. La liste des élèves mentionnés à l'alinéa 1er est conservée durant vingt ans. Une copie conforme de cette liste est transmise aux Services du Gouvernement, dans les cinq jours ouvrables scolaires qui suivent la décision du conseil de classe.
+
+La direction de l'école tient à la disposition du Service de l'Inspection de l'Enseignement du continuum pédagogique tous les documents relatifs à la décision d'octroi du Certificat d'études de base selon les modalités définies dans le présent article. Le Service de l'Inspection de l'Enseignement du continuum pédagogique peut consulter lesdits documents au sein de l'école.
+
+Les dossiers visés à l'alinéa 2, sont des données à caractère personnel dont le Ministère de la Communauté française est responsable du traitement par le présent article au sens de l'article 4, 7), du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE " (règlement général sur la protection des données) ", ci-après " RGPD ". Le Chambre de recours créée à l'article 2.3.4-1 du Code de l'enseignement fondamental et de l'enseignement secondaire a la qualité de sous-traitants au sens de l'article 4, 8), du RGPD, lorsqu'il consulte la copie dudit dossier aux fins de traitement visées par l'article 27/1.
+
+§ 4. La décision d'octroi ou de refus d'octroi du Certificat d'études de base est communiquée aux parents au plus tard le dernier mercredi de l'année scolaire selon les modalités définies dans le règlement des études. Ces modalités comportent au moins un mode de transmission non électronique.
+
+§ 5. Lorsque le conseil de classe octroie le Certificat d'études de base, il décide soit :
+
+1° de la poursuite du parcours scolaire de l'élève dans l'enseignement secondaire ordinaire ;
+
+2° de la poursuite du parcours scolaire de l'élève dans l'enseignement secondaire spécialisé.
+
+Lorsque le conseil de classe refuse l'octroi du Certificat d'études de base, il décide soit :
+
+1° du maintien de l'élève dans l'enseignement spécialisé ;
+
+2° de la poursuite du parcours scolaire de l'élève en première année de l'enseignement secondaire ordinaire ;
+
+3° de la poursuite du parcours scolaire de l'élève dans l'enseignement secondaire spécialisé.
+
+§ 6. L'introduction éventuelle du recours visé à l'article 27/1 est précédée d'un entretien avec la direction de l'école ou l'instituteur titulaire de la classe fréquentée par l'élève afin que soient expliquées aux parents ou à la personne investie de l'autorité parentale les raisons pour lesquelles le Certificat d'études de base n'a pu être octroyé à leur enfant.
+
+Le règlement des études fixe les modalités de communication avec les parents et les modalités d'organisation de cet entretien. Ces modalités de communication comportent au moins un mode de transmission non électronique.
+
+Au terme de cet entretien, le directeur peut décider :
+
+1° de confirmer la décision de refus d'octroi du Certificat d'études visée à l'article 27, § 5 ;
+
+2° de soumettre la situation de l'élève à une nouvelle délibération du conseil de classe.
+
+Lorsque le directeur décide de soumettre la situation de l'élève à une nouvelle délibération du conseil de classe, la nouvelle décision est communiquée aux parents au plus tard le dernier vendredi de l'année scolaire selon les modalités définies dans le règlement des études. Ces modalités comportent au moins un mode de transmission non électronique.
+
+Le procès-verbal est signé par les parents ainsi que par le directeur de l'école. Le refus de signature du procès-verbal est constaté dans le procès-verbal par le directeur. L'absence d'organisation par l'école d'un entretien, l'absence de participation des parents à cet entretien ou le refus de signature du procès-verbal n'empêche pas la poursuite de la procédure et, le cas échéant, l'introduction d'un recours conformément à l'article 27/1 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2026-03-19/12, art. 14, 065; En vigueur : 01-01-2026&gt;
+
+#### Art. 27/1.
+
+[<sup>1</sup> § 1er. Les parents de l'élève ou la personne investie de l'autorité parentale à son égard, peuvent introduire jusqu'au vendredi de la première semaine des vacances d'été un recours devant la Chambre de recours créée à l'article 2.3.4-1 du Code de l'enseignement fondamental et de l'enseignement secondaire. Une copie du recours est adressée par le requérant, le même jour, également par envoi recommandé, au directeur de l'école concernée.
+
+Ce recours porte sur la décision de refus d'octroi du Certificat d'études de base au terme de l'enseignement primaire et/ou sur la décision prise par le conseil de classe en application de l'article 27, § 5, concernant le maintien dans l'enseignement spécialisé ou la poursuite du parcours scolaire de l'élève dans l'enseignement secondaire ordinaire ou spécialisé, en cas d'octroi ou de refus d'octroi du Certificat d'études de base.
+
+Le recours comprend une motivation précise. Y est jointe toute pièce que le requérant juge de nature à éclairer la Chambre de recours.
+
+§ 2. Le recours est adressé par envoi recommandé aux Services du Gouvernement chargés du secrétariat de la Chambre de recours qui le transmettent immédiatement au Président de la Chambre de recours.
+
+L'inspecteur ou le délégué au contrat d'objectifs désigné en tant que Président du conseil de classe et le directeur de l'[<sup>2</sup> école]<sup>2</sup> peuvent adresser au Président de la Chambre de recours tout document de nature à éclairer ledit conseil.
+
+La Chambre de recours enjoint à l'inspecteur ou le délégué au contrat d'objectifs désigné en tant que Président du conseil de classe et au directeur de l'[<sup>2</sup> école]<sup>2</sup> de produire à son intention tout document qu'il juge utile à sa prise de décision. Dans le cadre de son instruction et en tenant compte de la fermeture des écoles et des congés des personnels, la Chambre de recours peut solliciter des documents supplémentaires et des auditions de personnes. Il peut se faire assister par des experts qu'il choisit.
+
+§ 3. La Chambre de recours est compétente pour connaitre des recours visés au paragraphe 1er. La Chambre de recours vérifie préalablement la recevabilité du recours introduit, au regard des conditions prévues au paragraphe 1er.
+
+En cas d'octroi ou de refus d'octroi du Certificat d'études de base, la Chambre de recours peut confirmer ou réformer la décision prise par le conseil de classe en application de l'article 27, § 5, concernant le maintien dans l'enseignement spécialisé ou la poursuite du parcours scolaire de l'élève dans l'enseignement secondaire ordinaire ou spécialisé.
+
+En ce qui concerne le refus d'octroi du Certificat d'études de base, les décisions de la Chambre de recours se fondent sur la correspondance entre les savoirs, savoir-faire et compétences acquis par l'élève et ceux attendus pour obtenir le Certificat d'études de base. La Chambre de recours peut remplacer la décision du conseil de classe par une décision d'octroi du Certificat d'études de base. Dans ce cas, la Chambre de recours se prononce également concernant le maintien de l'élève dans l'enseignement spécialisé ou la poursuite de son parcours scolaire dans l'enseignement secondaire ordinaire ou spécialisé.
+
+La Chambre de recours notifie sa décision, en deux exemplaires, par le Président ou son suppléant, à l'Administrateur général de l'Administration générale de l'Enseignement qui en transmet immédiatement un exemplaire à la direction de l'école et un exemplaire aux parents de l'élève, par pli recommandé et par voie électronique.
+
+La Chambre de recours statue à l'égard des décisions de refus d'octroi du Certificat d'études de base pour le lundi de la semaine qui précède la rentrée scolaire. . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-03-19/12, art. 15, 065; En vigueur : 01-01-2026&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 28
+
+Tout élève quittant l'[<sup>1</sup> école]<sup>1</sup> a droit à une attestation de fréquentation délivrée par le directeur conformément au modèle fixé par le Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 28/1
+
+[<sup>1</sup> [<sup>2</sup> Le conseil de classe, établit, pour chacun des élèves qui quittent l'enseignement primaire spécialisé pour s'inscrire dans l'enseignement secondaire ordinaire sans être titulaires du Certificat d'études de base, un bilan des savoirs, savoir-faire et compétences portant sur la maitrise des référentiels de compétences ]<sup>2</sup>.
+
+Le [<sup>4</sup> directeur]<sup>4</sup> primaire transmet sans délai à l'école secondaire qui en fait la demande, le [<sup>2</sup> bilan des savoirs, savoir-faire et compétences ]<sup>2</sup> visé à l'alinéa 1er ainsi que le plan individuel d'apprentissage (PIA) visé à l'article 4, § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2014-04-11/32, art. 37, 021; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFR 2026-03-19/12, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 6. - De l'horaire des enseignants dans l'enseignement maternel.
+
+#### Art. 29
+
+§ 1er. [<sup>2</sup> Les instituteurs maternels, les membres du personnel exerçant les activités de maîtres d'activités éducatives, de maîtres d'enseignement individualisé et de maître de psychomotricité à prestations complètes assurent le nombre de périodes de travail en classe prévu par l'article 3, § 2, 1°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs.]<sup>2</sup>
+
+§ 2. Après consultation préalable du comité de concertation de base pour les établissements d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les établissements d'enseignement officiel subventionnés par la Communauté française ou des [<sup>3</sup> organes locaux de concertation sociale]<sup>3</sup> ou à défaut des délégations syndicales pour les établissements d'enseignement libre subventionnés par la Communauté française, le directeur dans l'enseignement de la Communauté française, le pouvoir organisateur dans l'enseignement subventionné peut charger les instituteurs maternels d'assurer la surveillance des élèves 15 minutes avant le début des cours et 10 minutes après leur fin sans que la durée totale de leurs [<sup>1</sup> prestations de travail en classe, de surveillance telles que visées à l'article 8, § 1er, 4), du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, et de missions de service à l'école et aux élèves visées aux articles 9, 10 et 11 de ce même décret]<sup>1</sup> ne puisse dépasser 1 560 minutes par semaine.
+
+La durée annuelle totale des prestations comprenant à la fois [<sup>1</sup> le travail en classe, les surveillances telles que visées à l'article 8, § 1er, 4), du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, les missions de service à l'école et aux élèves, visés aux articles 9, 10 et 11 de ce même décret]<sup>1</sup> ne peuvent dépasser 962 heures par année scolaire.
+
+La durée des prestations est réduite à due concurrence lorsque l'instituteur ne preste pas un horaire complet. Pour l'application de l'alinéa 1er, une prestation à mi-temps équivaut au résultat de la division par deux du nombre de périodes requises pour une prestation complète.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. Les temps de préparation des leçons, de correction des travaux, de documentation et de mise à jour personnelle ne sont pas compris dans les maxima visés aux §§ 1er et 2.
+
+Ils relèvent de l'organisation personnelle de travail des membres du personnel.
+
+Le directeur, le pouvoir organisateur et l'inspection peuvent se faire produire les documents attestant de la préparation des cours et activités qui y sont liées.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 34, 037; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 54, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 7. - De l'horaire des enseignants dans l'enseignement primaire.
+
+#### Art. 30
+
+§ 1er. [<sup>2</sup> Les instituteurs, les maîtres de travaux manuels, les maîtres d'éducation musicale, les maîtres de seconde langue, les maîtres de morale non confessionnelle et de religion et de philosophie et citoyenneté, les membres du personnel exerçant les activités de maître d'enseignement individualisé, de maîtres d'activités éducatives et de maître de psychomotricité à prestations complètes assurent le nombre de périodes de travail en classe prévu par l'article 3, § 2, 3° et 4°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Après consultation préalable du comité de concertation de base pour les établissements d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les établissements d'enseignement officiel subventionnés par la Communauté française ou des [<sup>3</sup> organes locaux de concertation sociale]<sup>3</sup> ou à défaut des délégations syndicales pour les établissements d'enseignement libre subventionnés par la Communauté française, le directeur, dans l'enseignement de la Communauté française, le pouvoir organisateur, dans l'enseignement subventionné peuvent charger les membres du personnel exerçant les activités de titulaires, de maîtres d'enseignement individualisé, de maîtres d'activités éducatives et de maître de psychomotricité, les maîtres de travaux manuels, les maîtres d'éducation musicale, les maîtres de seconde langue, les maîtres de morale non confessionnelle, de religion et de philosophie et citoyenneté d'assurer la surveillance des élèves 15 minutes avant le début des cours et 10 minutes après leur fin sans que la durée totale de leurs prestations de travail en classe, de surveillance telles que visées à l'article 8, § 1er, 4), du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, et de missions de service à l'école et aux élèves visées aux articles 9, 10 et 11 de ce même décret ne puisse dépasser 1560 minutes par semaine.
+
+La durée totale des prestations visées à l'alinéa 1er est réduite à due concurrence lorsque le membre du personnel exerçant les activités de titulaire, de maître d'enseignement individualisé, de maître d'activités éducatives et de maître de psychomotricité, le maître de travaux manuels, le maître d'éducation musicale, le maître de seconde langue ou le maître de morale non confessionnelle, de religion et de philosophie et citoyenneté ne preste pas un horaire complet.]<sup>2</sup>
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+Sans préjudice du § 2, alinéa 2, la durée annuelle totale des prestations comprenant à la fois [<sup>1</sup> le travail en classe, les surveillances telles que visées à l'article 8, § 1er, 4), du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, et les missions de service à l'école et aux élèves, visés aux articles 9, 10 et 11 de ce même décret]<sup>1</sup> ne peuvent dépasser 962 heures par année scolaire.
+
+§ 4. Les temps de préparation des leçons, de correction des travaux, de documentation et de mise à jour personnelle ne sont pas compris dans les maxima visés aux §§ 1er, 2 et 3.
+
+Ils relèvent de l'organisation personnelle de travail des membres du personnel.
+
+Le directeur, le pouvoir organisateur et l'inspection peuvent se faire produire les documents attestant de la préparation des cours et activités qui y sont liées.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 35, 037; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 55, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 8. - De l'horaire des directeurs.
+
+#### Art. 31
+
+Le directeur est présent pendant la durée des cours.
+
+En outre, le directeur est présent au moins 20 minutes avant le début des cours et 30 minutes après leur fin.
+
+Lorsque les nécessités du service, notamment les contacts avec leur pouvoir organisateur, le tiennent éloigné de l'école, le directeur, dans l'enseignement de la Communauté française, le pouvoir organisateur, dans l'enseignement subventionné, désigne, avec son accord, un membre du personnel enseignant pour le remplacer.
+
+En fonction du nombre d'élèves, le directeur exerce une charge d'enseignement ainsi que précisé à l'article 41. Le directeur n'est pas tenu d'exercer une charge de cours durant les deux premières années à dater de l'ouverture d'une nouvelle [<sup>1</sup> école]<sup>1</sup> ou s'il assure aussi la direction d'un internat.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 9. - Du Conseil de classe et de son fonctionnement.
+
+#### Art. 32
+
+§ 1er. Le Conseil de classe est l'ensemble des membres du personnel directeur et enseignant, du personnel paramédical, psychologique et social et du personnel auxiliaire d'éducation qui a la charge de l'instruction et de l'éducation des élèves d'une classe déterminée et qui en porte la responsabilité.
+
+Le conseil de classe se réunit au moins une fois par trimestre, dans le respect des articles 29, 30 et 101.
+
+§ 2. L'organisation des classes et la délivrance du Certificat d'études de base sont des missions propres au Conseil de classe.
+
+§ 3. Les missions du conseil de classe assisté de l'organisme chargé de la guidance des élèves sont les suivantes :
+
+1° élaborer et ajuster pour chaque élève, un plan individuel d'apprentissage qui coordonne les activités pédagogiques, paramédicales, sociales et psychologiques;
+
+2° évaluer les progrès et les résultats de chaque élève en vue d'ajuster le plan individuel d'apprentissage;
+
+3° conformément aux articles 13, § 2, et 14, § 3, prendre des décisions en ce qui concerne le maintien dans un niveau d'enseignement déterminé;
+
+4° conformément au chapitre X, proposer l'intégration d'un élève dans l'enseignement ordinaire et émettre un avis motivé sur l'opportunité de son intégration. Si cet avis est positif, assurer la gestion du projet d'intégration;
+
+5° réorienter des élèves vers une classe différente en cours d'année scolaire;
+
+6° prendre les décisions relatives au passage vers l'enseignement secondaire;
+
+[<sup>2</sup> 7° émettre un avis motivé sur l'opportunité pour un élève de l'enseignement primaire de fréquenter une classe SSAS.]<sup>2</sup>
+
+Les avis motivés et les décisions du conseil de classe et de l'organisme de guidance figurent sur un document unique.
+
+§ 4. Le directeur ou son délégué préside le conseil de classe. Dans une [<sup>4</sup> école]<sup>4</sup> qui comprend les niveaux primaire et secondaire, le directeur du primaire ou son délégué préside les conseils de classe.
+
+Les réunions sont organisées de façon à ce que chaque membre puisse assurer ses prestations telles que définies aux articles 29, 30 et 101.
+
+L'horaire des Conseils de classe est soumis à la consultation préalable du comité de concertation de base pour les [<sup>4</sup> écoles]<sup>4</sup> d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les [<sup>4</sup> écoles]<sup>4</sup> d'enseignement officiel subventionnés par la Communauté française ou des [<sup>3</sup> organes locaux de concertation sociale]<sup>3</sup> ou à défaut des délégations syndicales pour les [<sup>4</sup> écoles]<sup>4</sup> d'enseignement libre subventionnés par la Communauté française.
+
+§ 5. Les membres du Conseil de classe assurent la gestion hebdomadaire du plan individuel d'apprentissage de chacun de ses élèves [<sup>6</sup> dans le cadre du service à l'école et aux élèves]<sup>6</sup>. Le titulaire rédige, pour chaque réunion du conseil de classe relatif à ses élèves, un procès-verbal qui établit entre autres :
+
+1° la classe;
+
+2° la date, l'heure de début et de fin de la réunion;
+
+3° le nom des membres présents et leur signature;
+
+4° le rapport des points traités;
+
+5° les décisions prises.
+
+Tous les documents relatifs au conseil de classe restent en permanence à l'[<sup>4</sup> école]<sup>4</sup>, à la disposition de l'inspection et du service de vérification de la Communauté française.
+
+§ 6. Toutes les décisions du conseil de classe sont prises collégialement. Le conseil de classe tend à rallier l'unanimité. Les autres règles de délibération sont prévues dans le règlement des études. Les personnels éducatif et paramédical siègent avec voix consultative pour toutes les matières visant l'évaluation certificative.
+
+§ 7. Les constats, informations, interventions présentés lors d'une réunion du conseil de classe ont un caractère strictement confidentiel. La communication de ces données à des personnes extérieures au conseil de classe requiert l'autorisation du [<sup>5</sup> directeur]<sup>5</sup>.
+
+Les décisions du conseil de classe sont communiquées à l'élève, à ses parents, ou à la personne investie de l'autorité parentale par le [<sup>5</sup> directeur]<sup>5</sup> ou par son délégué selon les modalités fixées par le règlement des études.
+
+§ 8. Selon les modalités fixées par le règlement des études, un conseil de classe exceptionnel peut être organisé pendant les périodes de cours lorsqu'une décision urgente doit être prise à propos d'un élève.
+
+[<sup>1</sup> § 9. L'élève et ses parents ou, à défaut, leur délégué, sont invités à l'élaboration du P.I.A.
+
+§ 10. La transmission de certaines données du P.I.A. est obligatoire. Les données du P.I.A. qui font l'objet d'un transfert ainsi que les modalités de transmission sont arrêtées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2011-01-13/04, art. 38, 013; En vigueur : 04-03-2011&gt;
+
+(2)&lt;DCFR 2013-10-17/21, art. 15, 018; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 5, 068; En vigueur : 24-08-2026&gt;
+
+### Section 10. - Du calcul de l'encadrement et de son affectation.
+
+#### Art. 33
+
+Le volume des emplois organisés dans les [<sup>2</sup> écoles]<sup>2</sup> de la Communauté française, et celui qui fait l'objet de subventions-traitements dans les [<sup>2</sup> écoles]<sup>2</sup> subventionnées sont déterminés chaque année scolaire et pour chaque [<sup>2</sup> école]<sup>2</sup> selon les normes contenues dans le présent décret.
+
+Les élèves pris en considération pour les normes ci-après sont ceux qui sont considérés comme élèves réguliers conformément aux dispositions [<sup>1</sup> des articles 12, 13, 14 et 14bis]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 70, 048; En vigueur : 22-04-2022&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 34
+
+Le volume des emplois dans les fonctions de recrutement du personnel enseignant des niveaux maternel et primaire organisés ou subventionnés par la Communauté française est fixé dans les limites du capital-périodes qui est attribué à chaque [<sup>1</sup> école]<sup>1</sup>.
+
+Le capital-périodes se calcule en divisant par un nombre guide le produit obtenu par la multiplication du nombre d'élèves pris en considération dans chaque type d'enseignement, par le nombre de périodes hebdomadaires organisées.
+
+Le capital-périodes est constitué par le total des périodes de 50 minutes dont bénéficie l'[<sup>1</sup> école]<sup>1</sup> pour assurer l'enseignement aux niveaux maternel et primaire. Ce capital-périodes est fixé annuellement, par établissement, pour l'année scolaire considérée.
+
+(...). &lt;DCFR 2005-05-04/42, art. 65, 008; En vigueur : 01-09-2004&gt;
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 35
+
+Pour l'application de l'article 33, alinéa 2, sont pris en considération :
+
+1° pour les types 1, 2, 3, 4, 6, 7 et 8, le nombre d'élèves réguliers inscrits le 15 janvier précédent; [<sup>1</sup> n'est pas considéré comme élève régulier inscrit au 15 janvier de l'année scolaire précédente dans l'école qui l'a exclu, l'élève de l'enseignement primaire qui fait l'objet d'une exclusion définitive à un moment quelconque de l'année scolaire, mais bien dans celle qui, le cas échéant l'accueille après cette décision.]<sup>1</sup>
+
+2° pour le type 5, le nombre déterminé par la moyenne des présences des élèves réguliers :
+
+a) durant l'année scolaire précédente, si ce type d'enseignement était organisé pendant cette durée;
+
+b) dans les autres cas, durant les 30 premiers jours à compter à partir du début de l'année scolaire ou à partir de la mise en place de ce type d'enseignement.
+
+[<sup>2</sup> 3° Pour les types 1, 2, 3, 4, 6, 7 et 8, en cas de programmation d'une implantation ou d'un type d'enseignement, le nombre des élèves régulièrement inscrits au 30 septembre dans la nouvelle implantation ou le nouveau type d'enseignement est ajouté au comptage des élèves du 15 janvier de l'année scolaire précédente. Ce nouveau total sert de référence lors du contrôle de la variation de la population scolaire du 30 septembre prévu à l'article 36, § 1er.
+
+Cette mesure vaut uniquement pour l'année de programmation.
+
+Ce mode de calcul ne concerne pas les élèves qui ont déjà été comptabilisés à la date du 15 janvier dans l'[<sup>4</sup> école]<sup>4</sup> dont dépend la programmation d'une implantation ou d'un type d'enseignement.
+
+4° Pour le type 5, en cas de programmation d'une implantation, la moyenne des présences des élèves de la nouvelle implantation durant les 30 premiers jours à compter du début de l'année scolaire est ajoutée [<sup>3</sup> à la moyenne]<sup>3</sup> de l'année scolaire précédente.
+
+Ce nouveau total sert de référence lors du contrôle de la variation de la population scolaire du 30 septembre prévu à l'article 36, § 1er.
+
+Cette mesure vaut uniquement pour l'année de programmation.
+
+Dans les cas visés aux 3° et 4°, le capital-périodes est calculé sur base du nombre d'élèves régulièrement inscrits dans l'école le 30 septembre de l'année scolaire en cours. L'encadrement ainsi calculé est d'application pour l'année de programmation.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2007-03-08/52, art. 8, 005; En vigueur : 01-01-2007&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 5, 015; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2018-07-11/16, art. 11, 035; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 36
+
+§ 1er. Un nouveau calcul de l'encadrement est réalisé le 1er octobre si la population scolaire du 30 septembre a varié d'au moins 5 % par rapport à celle du 15 janvier précédent.
+
+§ 2. Dans le courant de l'année scolaire, un capital-périodes peut être recalculé et utilisé, chaque fois que la population scolaire augmente d'au moins 10 %, par rapport à celle qui a servi la dernière fois de base pour la détermination de ce capital-périodes.
+
+Pour ce nouveau capital-périodes, sont pris en considération les élèves satisfaisant a l'article 33, alinéa 2.
+
+§ 3. Pour les types d'enseignement 1, 2, 3, 4, 6, 7 et 8, cet accroissement n'est pris en compte que si l'augmentation du nombre d'élèves pendant 10 jours de classe consécutifs correspond au moins à 10 %.
+
+§ 4. Pour le type 5, cet accroissement est déterminé par la moyenne des présences pendant une période d'au moins vingt jours de classe consécutifs.
+
+#### Art. 37
+
+Dans le cas de circonstances particulières, [<sup>1</sup> le Gouvernement ou son délégué peut]<sup>1</sup> accorder des dérogations aux normes contenues dans le présent décret. [<sup>1</sup> L'autorité ministérielle compétente est chargée de transmettre annuellement au Gouvernement un relevé des dérogations accordées par ses services.]<sup>1</sup>
+
+Ces dérogations ne peuvent pas correspondre par réseau d'enseignement à plus de 0,25 % du nombre total de périodes qui était utilisable l'année scolaire précédente pour chaque réseau d'enseignement. [<sup>1</sup> Pour chaque année scolaire, Wallonie-Bruxelles Enseignement et les Fédérations des pouvoirs organisateurs transmettent aux Services du Gouvernement les propositions de dérogations introduites par les pouvoirs organisateurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 4, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 38
+
+§ 1er. Dans l'enseignement fondamental spécialisé, les fonctions de recrutement sont attribuées aussi bien à temps plein qu'à temps partiel.
+
+§ 2. Le capital-périodes de l'[<sup>1</sup> école]<sup>1</sup> est la somme des quotients obtenus par type d'enseignement. Seul ce total est arrondi à l'unité supérieure.
+
+Les nombres guides par type d'enseignement sont fixés comme suit :
+
+1° types d'enseignement 1 et 8 : nombre guide 9 pour les 49 premiers élèves; nombre guide 10 à partir du 50e élève;
+
+2° types d'enseignement 2, 3 et 4 : nombre guide 6 pour les 34 premiers élèves; nombre guide 7 à partir du 35e élève;
+
+3° type d'enseignement 5 :
+
+a) organisé dans une école pour enfants malades : nombre guide 9 pour les 49 premiers élèves; nombre guide 10 à partir du 50e élève;
+
+b) organisé en hôpital et/ou dans une institution médicale reconnue : nombre guide 6 pour les 34 premiers élèves; nombre guide 7 à partir du 35e élève;
+
+4° types d'enseignement 6 et 7 : nombre guide 5 pour les 34 premiers élèves; nombre guide 6 à partir du 35e élève.
+
+§ 3. Un groupe doit, lors de sa constitution, compter un nombre d'élèves inférieur au double du plus petit nombre guide attribué au type d'enseignement dont relèvent ces élèves.
+
+Si des élèves de plusieurs types d'enseignement sont regroupés, le nombre d'élèves doit être inférieur au double du plus petit nombre guide attribue a l'un des types d'enseignement représentés.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 39
+
+[<sup>1</sup> Les périodes de conseil de classe ne sont pas comptabilisées dans le capital-périodes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 36, 037; En vigueur : 01-09-2019&gt;
+
+#### Art. 39bis
+
+&lt;Abrogé par DCFR 2018-12-12/21, art. 29, 036; En vigueur : 01-01-2019&gt;
+
+#### Art. 40
+
+[<sup>1</sup> § 1.]<sup>1</sup> Par [<sup>3</sup> école]<sup>3</sup>, une fonction de directeur est créée ou subventionnée.
+
+[<sup>1</sup> § 2. L'emploi de directeur visé au § 1er ne peut être scindé.
+
+Sans préjudice de l'alinéa précédent, l'école maternelle, fondamentale ou primaire dont le directeur obtient une réduction de son temps de travail en vertu soit:
+
+a) de l'article 19 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des [<sup>3</sup> écoles]<sup>3</sup> d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces [<sup>3</sup> écoles]<sup>3</sup> et des membres du personnel du service d'inspection chargé de la surveillance de ces [<sup>3</sup> écoles]<sup>3</sup>;
+
+b) de l'article 22ter de l'arrêté royal du 15 janvier 1974 précité;
+
+c) de l'article 10ter de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux;
+
+d) de l'article 10quatorduodecies/1 de l'arrêté royal n° 297 précité;
+
+e) de l'article 3, alinéa 1er de l'arrêté de l'exécutif de la Communauté française du 3 décembre 1992 relatif à l'interruption de la carrière professionnelle dans l'enseignement et les centres psycho-médico-sociaux,
+
+[<sup>2</sup> f) de l'article 10duodecies, § 8, de l'arrêté royal n° 297 précité,]<sup>2</sup>
+
+se voit octroyer, pour seconder son directeur, un emploi temporaire de directeur adjoint à temps partiel à partir de la date d'activation de la disposition visée, et ce, respectivement à mi-temps (situations a et b), à quart-temps [<sup>2</sup> (situations c, d et f)]<sup>2</sup> ou à un cinquième-temps (situation e). Cet emploi ne peut faire l'objet d'une nomination ou d'un engagement à titre définitif. [<sup>2</sup> A l'exception de la situation où l'emploi temporaire octroyé dans le cadre du point f est maintenu dans le cadre du point d,]<sup>2</sup> il est supprimé dès que la disposition visée n'est plus d'application.
+
+Le directeur adjoint visé à l'alinéa précédent et qui:
+
+a) preste un mi-temps, est tenu de prester au minimum quatre demi-journées par semaine;
+
+b) preste un quart-temps ou un cinquième-temps est tenu de prester au minimum deux demi-journées par semaine.]<sup>1</sup>
+
+[<sup>1</sup> § 3. Par dérogation au paragraphe 2, l'école maternelle, primaire, ou fondamentale dont le directeur est tenu d'assurer des périodes de cours conformément à l'article 41 et obtient une réduction de son temps travail en vertu des dispositions visées à l'alinéa précédent se voit octroyer, pour seconder son directeur, à partir de la date d'activation de la disposition visée:
+
+a) six périodes de capital-périodes dans le cas où le directeur a obtenu une réduction d'un quart-temps ou d'un cinquième-temps;
+
+b) douze périodes de capital-périodes dans le cas où le directeur a obtenu une réduction d'un mi-temps.
+
+Le membre du personnel enseignant engagé dans une fonction de recrutement dans le cadre des périodes visées à l'alinéa précédent, doit prioritairement remplacer le directeur bénéficiant d'une réduction de son temps de travail dans tout ou partie de sa charge d'enseignement et, le cas échéant remplir d'autres tâches pédagogiques ou de coordination.
+
+Sauf en cas d'absence de candidat pour l'ensemble des périodes, ces périodes doivent donner lieu à l'engagement d'un seul membre du personnel. Ces périodes ne peuvent donner lieu à une nomination ou un engagement à titre définitif. [<sup>2</sup> A l'exception de la situation où les périodes temporaires octroyées dans le cadre du point f du paragraphe précédent sont maintenues dans le cadre du point d du même paragraphe,]<sup>2</sup> elles sont supprimées dès que la disposition visée n'est plus d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-02-04/17, art. 39, 044; En vigueur : 03-02-2021&gt;
+
+(2)&lt;DCFR 2023-03-16/06, art. 26, 059; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 41
+
+§ 1er. [<sup>1</sup> - Le directeur exerce une charge d'enseignement :
+
+\- de 8 périodes, si le nombre d'élèves pris en considération est inférieur à 20 ;
+
+\- de 4 périodes, si le nombre d'élèves pris en considération est compris entre 20 et 39 ;
+
+§ 2. Le directeur n'est pas tenu par une charge d'enseignement si le nombre d'élèves pris en considération est égal ou supérieur à 40.
+
+§ 3. Si le nombre d'élèves au 15 janvier tombe en dessous de 40, le directeur reste déchargé d'enseignement durant toute l'année scolaire suivante.
+
+§ 4. L'organisation de la charge du directeur peut être modifiée chaque fois que le capital-périodes est recalculé]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2025-07-16/16, art. 61, 063; En vigueur : 25-08-2025&gt;
+
+#### Art. 41bis
+
+[<sup>1</sup> L'attribution de l'échelle de traitement de directeur d'enseignement fondamental spécialisé est déterminée comme suit :
+
+De 1 à 19 élèves, l'échelle de traitement de chef d'école de 1 à 3 classes; (barème 177)
+
+De 20 à 39 élèves, l'échelle de traitement de chef d'école de 4 à 6 classes; (barème 178)
+
+De 40 à 59 élèves, l'échelle de traitement de chef d'école de 7 à 9 classes; (barème 179)
+
+A partir de 60 élèves, l'échelle de traitement de chef d'école de 10 classes et plus (barème 180).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-02-01/14, art. 6, 015; En vigueur : 25-03-2012&gt;
+
+#### Art. 41ter
+
+[<sup>1</sup> Pour l'application des articles 41 et 41bis, les élèves en intégration permanente totale sont comptabilisés pour la détermination de la charge d'enseignement et pour la détermination de l'échelle barémique du directeur d'école.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-02-01/14, art. 7, 015; En vigueur : 01-09-2012&gt;
+
+#### Art. 42
+
+Le nombre de groupes pour les cours de religion ou de morale non confessionnelle est déterminé sur la base du nombre total d'élèves du cours le plus suivi, divisé par le nombre guide du type d'enseignement comme déterminé à l'article 38, § 2.
+
+#### Art. 43
+
+Les périodes des cours de religion ou de morale non confessionnelle les moins suivis ne font pas partie du capital-périodes.
+
+#### Art. 43bis
+
+[<sup>1</sup> § 1er. Dans les [<sup>6</sup> écoles]<sup>6</sup> d'enseignement primaire spécialisé organisé par la Communauté française et les [<sup>6</sup> écoles]<sup>6</sup> d'enseignement primaire spécialisé de l'enseignement officiel subventionné et de l'enseignement libre non confessionnel subventionné qui offrent le choix entre les différents cours de religion ou de morale non confessionnelle, un cours de morale non confessionnelle, de religion ou de philosophie et de citoyenneté lorsque les élèves sont dispensés du cours de religion ou de morale, est organisé dès qu'un élève est inscrit dans un de ces cours, conformément à l'article 8 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement. Le cas échéant, le cours est créé ou supprimé dans le courant de l'année scolaire.
+
+Ce cours doit être dans l'horaire continu des périodes hebdomadaires obligatoires.
+
+Le nombre de groupes, applicable du 1er octobre au 30 septembre suivant est fixé, pour le cours le plus suivi, est déterminé sur la base du nombre total d'élèves du cours le plus suivi, divisé par le nombre guide du type d'enseignement [<sup>4</sup> ...]<sup>4</sup> à l'article 38 du présent décret.
+
+§ 2. Le nombre de groupes du cours le plus suivi est multiplié par deux pour déterminer le nombre de périodes qui font partie du capital-périodes utilisable.
+
+Ce nombre est multiplié par le nombre de cours organisés pour connaître le nombre maximal de périodes qui peuvent être utilisées pour l'organisation des différents cours de religion, de morale non confessionnelle et de philosophie et de citoyenneté.
+
+§ 3. Le cours de morale non confessionnelle, de religion ou de philosophie et de citoyenneté lorsque les élèves sont dispensés du cours de religion ou de morale, est organisé par groupe.
+
+Un groupe comprend une période de cours.
+
+§ 4. Pour les [<sup>6</sup> écoles]<sup>6</sup> visées au § 1er, le nombre de périodes pour le cours de philosophie et de citoyenneté dispensé à tous les élèves conformément à l'article 8, alinéa 4, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, correspond au nombre de classes.
+
+§ 5. [<sup>2</sup> Au-delà des périodes nécessaires à l'organisation des différents cours de religion, de morale non confessionnelle et de philosophie et de citoyenneté, ne peuvent être prélevées du nombre maximal de périodes que les périodes nécessaires au maintien du volume de charge équivalent aux attributions au 30 juin 2016, des maîtres de religion et de morale non confessionnelle, définitifs ou temporaires prioritaires, conformément à l'ordre de priorité défini au titre II du présent décret, et à défaut, conformément aux règles du statut administratif dont relève le membre du personnel.
+
+Le nombre maximal de périodes visé au paragraphe 2, alinéa 2, ne peut être utilisé que pour l'encadrement des cours de religion, de morale non confessionnelle et de philosophie et de citoyenneté.
+
+Les périodes de cours excédentaires ne peuvent en aucun cas faire l'objet d'un transfert vers le personnel enseignant ou vers d'autres catégories de personnel.
+
+Pour les [<sup>6</sup> écoles]<sup>6</sup> de l'enseignement organisé par la Communauté française, de l'enseignement officiel subventionné et de l'enseignement libre non confessionnel qui offrent le choix entre les différents cours de religion ou de morale non confessionnelle, des périodes supplémentaires sont octroyées automatiquement pour tout membre du personnel engagé ou désigné en qualité de professeur de cours de philosophie et de citoyenneté dans le cadre des mesures définies par la section VI du chapitre II du Titre III du décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, en vue de l'obtention du certificat en didactique du cours de philosophie et de citoyenneté. Ces périodes seront octroyées lors de chaque année scolaire jusqu'au 30 juin 2021, à raison de 2 périodes par membre du personnel.
+
+Lorsque le membre du personnel exerce à la fois la fonction de maître de philosophie et citoyenneté et la fonction de maître de morale non confessionnelle ou religion, ces deux périodes sont prises prioritairement dans ses attributions en qualité de maître de morale non confessionnelle ou religion au sein du pouvoir organisateur concerné.
+
+Si les périodes ne sont pas prises dans lesdites attributions, le membre du personnel doit avoir été engagé ou désigné au minimum pour trois périodes dans le Pouvoir organisateur au 1er septembre de l'année scolaire en cours en qualité de maître de philosophie et de citoyenneté.
+
+Dans les deux cas, le membre du personnel continue à effectivement prester en qualité de maître de philosophie et citoyenneté au sein du Pouvoir organisateur concerné au moins 1 période, sauf en cas d'absence pour cause de maternité, maladie, incapacité de travail causée par un accident de travail, et pour les congés suivants : congé pour interruption complète ou partielle de la carrière professionnelle lors de la naissance ou de l'adoption d'un enfant, dans le cadre du congé parental ; congé pour interruption complète ou partielle de la carrière professionnelle pour donner des soins palliatifs ; congé pour interruption complète ou partielle de la carrière professionnelle pour assister un membre du ménage ou de la famille gravement malade ou lui octroyer des soins.
+
+Le chef d'[<sup>6</sup> école]<sup>6</sup>, pour l'enseignement organisé par la Communauté française, ou le Pouvoir organisateur, pour l'enseignement officiel subventionné et pour l'enseignement libre non confessionnel, introduit auprès de l'administration un document justifiant de l'utilisation de ces périodes supplémentaires pour le remplacement du membre du personnel concerné. Ces périodes seront attribuées, selon le cas, à l'[<sup>6</sup> école]<sup>6</sup> ou au Pouvoir organisateur, auprès duquel le membre du personnel concerné a la charge la plus importante. Dans le cas où la charge du membre du personnel est égale dans chacun des Pouvoirs organisateurs concernés, le choix de l'emploi concerné par ce remplacement revient au membre du personnel.
+
+Par dérogation à l'alinéa précédent, ces périodes peuvent être attribuées à une autre [<sup>6</sup> école]<sup>6</sup> ou Pouvoir organisateur, lorsque l'attribution de ces périodes permet de réduire le nombre d'implantations dans lesquelles le membre du personnel exerce effectivement ses fonctions.
+
+En outre, lorsque les périodes octroyées en application des dispositions ci-avant ne permettent pas d'attribuer, au sein de l'[<sup>6</sup> école]<sup>6</sup>, pour l'enseignement organisé par la Communauté française, ou au sein du Pouvoir organisateur, pour l'enseignement subventionné par la Communauté française, aux membres du personnel définitifs, temporaires prioritaires ou stagiaires, un volume de charge horaire équivalent à leurs attributions au 30 juin 2016, conformément à l'ordre de priorité défini par la section VI du chapitre II du Titre III du décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, et, à défaut, conformément aux règles du statut administratif dont relève le membre du personnel, le chef d'[<sup>6</sup> école]<sup>6</sup>, pour l'enseignement organisé par la Communauté française, ou le Pouvoir organisateur, pour l'enseignement officiel subventionné et pour l'enseignement libre non confessionnel, introduit, auprès de l'Administration, un document justifiant qu'il utilise, pour ce faire, un nombre déterminé de périodes supplémentaires dont il précisera l'affectation conformément aux dispositions visées ci-après.
+
+Les périodes visées à l'alinéa précédent seront utilisées exclusivement pour permettre :
+
+1\. l'organisation d'activités, dans le cadre du cours de philosophie et de citoyenneté, au sein d'une même [<sup>6</sup> école]<sup>6</sup> ;
+
+2\. l'organisation d'activités de coordination pédagogique ou de concertation.
+
+Des périodes supplémentaires sont également attribuées au membre du personnel définitif, temporaire prioritaire ou stagiaire qui, malgré l'application préalable des dispositions énumérées ci-avant, n'a pas retrouvé un volume de charge horaire équivalent à ses attributions au 30 juin 2016 ou qui devrait effectuer des prestations dans plus de 6 implantations tout Pouvoirs organisateurs confondus. Ces périodes sont octroyées à l'[<sup>6</sup> école]<sup>6</sup> ou au Pouvoir organisateur, selon le cas, auprès duquel le volume de charge horaire du membre du personnel concerné est le plus important au 30 juin 2016. Le chef d'établissement, pour l'enseignement organisé par la Communauté française, ou le Pouvoir organisateur, pour l'enseignement officiel subventionné et pour l'enseignement libre non confessionnel, doit introduire auprès de l'administration un document justifiant de l'utilisation de ces périodes supplémentaires dont il précisera l'affectation par implantation conformément aux dispositions visées ci-après.
+
+Le membre du personnel concerné est affecté aux tâches suivantes :
+
+a. organisation et surveillance d'activités au sein de la médiathèque ;
+
+b. encadrement des cours de religion, de morale non confessionnelle et de philosophie et de citoyenneté ;
+
+c. organisation d'activités de coordination pédagogique ou de concertation ;
+
+d. accompagnement d'activités de groupes d'élèves à l'extérieur de l'[<sup>6</sup> école]<sup>6</sup>.
+
+L'utilisation de ces périodes supplémentaires est autorisée [<sup>5</sup> dès le premier jour de l'année scolaire et ce jusqu'au dernier jour de celle-ci ]<sup>5</sup>. Cette utilisation est de la compétence du pouvoir organisateur dans l'enseignement subventionné par la Communauté française, et du [<sup>7</sup> directeur]<sup>7</sup> dans l'enseignement organisé par la Communauté française. Elle est soumise à l'avis préalable, dans l'enseignement organisé par la Communauté française, du comité de concertation de base, dans l'enseignement officiel subventionné par la Communauté française, de la commission paritaire locale, et dans l'enseignement libre subventionné par la Communauté française, du conseil d'entreprise ou, à défaut, de la délégation syndicale, avec droit d'évocation du bureau de conciliation en cas de désaccord.
+
+Les services prestés dans le cadre des périodes supplémentaires visée au présent paragraphe sont en tous points assimilés aux services prestés dans le cadre organique. Les emplois ainsi créés peuvent donner lieu à nomination ou engagement à titre définitif.]<sup>2</sup>
+
+§ 6. [<sup>3</sup> Les implantations organisent les cours de religion, de morale non confessionnelle, de philosophie et de citoyenneté et la 2ème période liée à la dispense dès le 1er septembre 2017.]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2016-07-13/04, art. 14, 028; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2017-07-19/35, art. 44, 030; En vigueur : 01-09-2017&gt; (NOTE : par son arrêt n° 51/2020 du 23-04-2020 (M.B. 20-05-2020, p. 36722), la Cour constitutionnelle a annulé les alinéas 4 à 9 de l'article 43bis, § 5)
+
+(3)&lt;DCFR 2017-07-19/35, art. 45, 030; En vigueur : 01-09-2017&gt;
+
+(4)&lt;DCFR 2019-05-03/38, art. 56, 041; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFR 2022-03-31/35, art. 75, 048; En vigueur : 29-08-2022&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(7)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 44
+
+Le nombre de périodes restantes après imputation au capital-périodes des périodes attribuées à chaque membre du personnel enseignant des niveaux maternel et primaire, conformément aux règles énoncées dans la présente Section, constitue le reliquat.
+
+#### Art. 44bis
+
+[<sup>1</sup> Après consultation préalable du comité de concertation de base pour les [<sup>5</sup> écoles]<sup>5</sup> d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les [<sup>5</sup> écoles]<sup>5</sup> d'enseignement officiel subventionnés par la Communauté française ou des [<sup>4</sup> organes locaux de concertation sociale]<sup>4</sup> ou à défaut des délégations syndicales pour les [<sup>5</sup> écoles]<sup>5</sup> d'enseignement libre subventionnés par la Communauté française, vingt-quatre périodes-enseignants au maximum peuvent être [<sup>6</sup> prélevées sur le reliquat et]<sup>6</sup> consacrées à un encadrement supplémentaire, à raison de l'équivalent d'un emploi à mi-temps ou à prestations complètes [<sup>3</sup> d'éducateur]<sup>3</sup> ou [<sup>6</sup> toute fonction du personnel paramédical, social et psychologique]<sup>6</sup> uniquement si ce prélèvement n'entraîne pas de mise en disponibilité par défaut d'emploi ou une perte partielle de charge.
+
+Le transfert de périodes-enseignants visé à l'alinéa 1er cesse d'être facultatif dans le chef de l'établissement qui y a recouru pendant trois années scolaires consécutives pour créer une fonction supplémentaire de [<sup>2</sup> éducateur]<sup>2</sup> ou [<sup>6</sup> toute fonction du personnel paramédical, social et psychologique]<sup>6</sup> à mi-temps ou à prestations complètes.
+
+L'alinéa 2 cesse d'être applicable [<sup>6</sup> ...]<sup>6</sup> lorsque le membre du personnel concerné est mis à la retraite, démissionne ou bénéficie d'un changement d'affectation ou d'une mutation.
+
+Pour l'application des dispositions statutaires, il n'est en aucun cas opéré de distinction entre les [<sup>3</sup> éducateurs]<sup>3</sup> et/ou [<sup>6</sup> les titulaires d'une fonction du personnel paramédical, social et psychologique]<sup>6</sup> selon que la fonction qu'ils exercent est créée ou subventionnée en vertu de l'alinéa 2 ou en vertu des chapitres VI ou VII du présent décret.
+
+Une nomination ou un engagement à titre définitif ne pourra être accordé que dans un emploi à mi-temps ou à prestations complètes créé sur base de l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-02-01/14, art. 8, 015; En vigueur : 25-03-2012&gt;
+
+(2)&lt;DCFR 2014-04-11/37, art. 252, 027; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 57, 041; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,1°, 068; En vigueur : 24-08-2026&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 6, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 44ter
+
+[<sup>1</sup> Dans chaque [<sup>2</sup> école]<sup>2</sup> d'enseignement fondamental spécialisé sont assurés, dans les limites du capital-périodes utilisable et après avoir organisé tous les cours prévus aux grilles-horaires des élèves, la coordination des projets d'intégration, l'accueil, l'observation et la prise en charge temporaire des nouveaux élèves, l'accompagnement d'élèves en difficulté momentanée, la médiation et/ou la coordination pédagogique. Ces tâches peuvent être assurées par un ou plusieurs membres du personnel enseignant du niveau fondamental dans le respect des règles statutaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 16, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 44ter
+
+[<sup>1</sup> Lorsque des périodes supplémentaires au capital-périodes octroyées à une [<sup>2</sup> école]<sup>2</sup> conformément à l'article 37, § 1er du décret du 21 novembre 2013 organisant divers dispositifs scolaires favorisant le bien-être des jeunes à l'école, l'accrochage scolaire, la prévention de la violence à l'école et l'accompagnement des démarches d'orientation scolaire sont consacrées à l'engagement à titre temporaire d'un membre du personnel auxiliaire d'éducation conformément à l'article 37, § 2, du même décret, l'emploi de ce membre du personnel auxiliaire d'éducation peut être scindé par quarts temps.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2014-04-11/32, art. 38, 021; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 44quater
+
+&lt;Abrogé par DCFR 2021-06-17/29, art. 2, 047; En vigueur : 01-09-2021&gt;
+
+## CHAPITRE V. - De l'organisation de l'enseignement secondaire spécialisé.
+
+### Section 1re. - De l'organisation de l'enseignement secondaire spécialisé.
+
+#### Art. 45
+
+&lt;Abrogé par DCFR 2019-05-03/54, art. 3, 043; En vigueur : 01-09-2020&gt;
+
+#### Art. 46
+
+§ 1er. L'enseignement secondaire spécialisé de forme 1 vise à donner aux élèves une formation sociale rendant possible leur intégration dans un milieu de vie adapté. Cette forme d'enseignement peut être du type 2, 3, 4, 5, 6 ou 7 d'enseignement spécialisé organisée en commun ou séparément.
+
+§ 2. L'enseignement secondaire spécialisé de forme 2 vise à donner aux élèves une formation générale, sociale et professionnelle rendant possible leur intégration dans un milieu de vie et de travail adapté. Cette forme d'enseignement peut être de type 2, 3, 4, 5, 6 ou 7 d'enseignement spécialisé organisé en commun ou séparément.
+
+§ 3. L'enseignement secondaire spécialisé de forme 3 vise à donner aux élèves une formation générale, sociale et professionnelle rendant possible leur intégration dans un milieu de vie et de travail ordinaire. Cette forme d'enseignement peut être de type [<sup>2</sup> 1, 3, 4, 5, 6, 7 ou 8]<sup>2</sup> d'enseignement spécialisé organisé en commun ou séparément.
+
+§ 4. L'enseignement secondaire spécialisé de transition de forme 4 prépare à la poursuite des études jusqu'au terme de l'enseignement secondaire supérieur tout en offrant des possibilités d'entrer dans la vie active. L'enseignement secondaire spécialisé de qualification de forme 4 prépare à l'entrée dans la vie active tout en permettant la poursuite des études jusqu'au terme de l'enseignement secondaire supérieur.
+
+Cette forme d'enseignement peut être de type 3, 4, 5, 6 ou 7 d'enseignement spécialisé organisé en commun ou séparément et n'est pas accessible aux élèves atteints [<sup>1</sup> de retard mental]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2011-02-10/07, art. 43, 014; En vigueur : 07-03-2011&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 58, 041; En vigueur : 01-09-2019&gt;
+
+### Section 2. - De l'horaire des élèves.
+
+#### Art. 47
+
+§ 1er. L'enseignement secondaire spécialisé visé à l'article 45, 1°, 2° et 3° est dispensé à raison de trente-deux à trente-six périodes hebdomadaires de cinquante minutes, réparties sur neuf demi-jours.
+
+[<sup>2</sup> Dans l'enseignement organisé par la Communauté française ainsi que dans l'enseignement officiel subventionné et dans l'enseignement libre non confessionnel subventionné qui offrent le choix entre les différents cours de religion ou de morale non confessionnelle, l'enseignement secondaire spécialisé visé à l'article 45, 1°, 2° et 3°, demeure organisé à raison de 32 périodes à 36 périodes lorsque l'élève est dispensé du cours de religion ou de morale non confessionnelle. Les élèves de l'enseignement secondaire spécialisé visés à l'article 45, 1°, 2° et 3°, et dispensés du cours de religion ou de morale non confessionnelle, participent obligatoirement à une deuxième période de cours de philosophie et de citoyenneté visée à l'article 8, alinéa 5, de la loi du 29 mai 1959modifiant certaines dispositions de la législation sur l'enseignement.]<sup>2</sup>
+
+[<sup>1</sup> Dans l'enseignement officiel, l'enseignement secondaire spécialisé visé à l'article 45, 1°, 2° et 3°, demeure organisé à raison de 32 périodes à 36 périodes lorsque l'élève est dispensé du cours de religion ou de morale non confessionnelle. Les élèves de l'enseignement secondaire spécialisé visé à l'article 45, 3° et 4°, dispensés participent obligatoirement à l'encadrement pédagogique alternatif visé à l'article 8bis, § 1er, alinéa 2, ou à la prise en charge visée à l'article 8bis, § 1er, alinéa 3, de la loi du 29 mai 1959 durant un nombre de périodes équivalent à celui attribué aux cours de religion ou de morale non confessionnelle.]<sup>1</sup>
+
+§ 2. L'enseignement secondaire spécialisé visé à l'article 45, 4°, peut organiser de 2 à 4 périodes d'accompagnement spécialisé au-delà de la grille de référence.
+
+Pour des raisons pratiques, après consultation préalable du comité de concertation de base pour les [<sup>4</sup> écoles]<sup>4</sup> d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les [<sup>4</sup> écoles]<sup>4</sup> d'enseignement officiel subventionnés par la Communauté française ou des [<sup>3</sup> organes locaux de concertation sociale]<sup>3</sup> ou a défaut des délégations syndicales pour les [<sup>4</sup> écoles]<sup>4</sup> d'enseignement libre subventionnés par la Communauté française et après consultation du conseil de participation, une dérogation peut être accordée par le Gouvernement pour répartir l'horaire hebdomadaire sur dix demi-jours.
+
+§ 3. Toute [<sup>4</sup> école]<sup>4</sup> organisant un enseignement de type 7 est tenu de mettre en place un projet en langue des signes qui figure dans le projet d'[<sup>4</sup> école]<sup>4</sup> dans le cadre de ce projet, tout élève inscrit dans l'enseignement de type 7 de forme 3 ou 4, peut bénéficier de 4 périodes hebdomadaires de langue des signes.
+
+L'emplacement de ces quatre périodes peut s'inscrire librement dans la grille-horaire ou s'organiser en immersion.
+
+L'immersion en langue des signes n'exclut ni l'étude ou l'immersion en français oral ni l'étude du français écrit.
+
+----------
+
+(1)&lt;DCFR 2015-07-14/03, art. 10, 022; En vigueur : 01-09-2015&gt;
+
+(2)&lt;DCFR 2017-07-19/35, art. 15, 030; En vigueur : 01-09-2017&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 3. - De l'enseignement secondaire spécialisé d'adaptation sociale - Enseignement de forme 1.
+
+#### Art. 48
+
+L'enseignement secondaire spécialisé de forme 1 est organisé en une seule phase qui s'articule autour du projet d'[<sup>1</sup> école]<sup>1</sup>.
+
+Il contribue à l'éducation des élèves en assurant le développement optimal de leurs aptitudes pour favoriser leur épanouissement personnel et leur assurer une autonomie la plus large possible. Des stages peuvent être organisés au cours de l'année scolaire selon les modalités fixées par le Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 49
+
+Tout élève quittant l'[<sup>1</sup> école]<sup>1</sup> a droit à une attestation de fréquentation délivrée par le [<sup>2</sup> directeur]<sup>2</sup> selon le modèle fixe par le Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 4. - De l'enseignement secondaire spécialisé d'adaptation sociale et professionnelle - Enseignement de forme 2.
+
+#### Art. 50
+
+L'enseignement secondaire spécialise de forme 2 est organisé en deux phases qui s'articulent autour du projet d'[<sup>1</sup> école]<sup>1</sup>.
+
+La première phase donne la priorité aux objectifs de socialisation et de communication liés notamment à l'émergence d'aptitudes professionnelles et a l'expression du projet personnel.
+
+La seconde phase poursuit les objectifs de socialisation et de communication de la première phase en mettant l'accent sur les activités éducatives et d'apprentissage visant la préparation à la vie sociale et à la vie professionnelle.
+
+Dans chaque phase, les activités éducatives sont développées à travers une pédagogie concrète et fonctionnelle qui facilite simultanément l'acquisition des compétences de base aux niveaux cognitif, psychomoteur et socio-affectif, et des capacités d'ordre professionnel et créatif.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 51
+
+[<sup>1</sup> Le conseil de classe, assisté de l'organisme chargé de la guidance, détermine, pour chaque élève, la durée respective de chaque phase.
+
+Le conseil de classe peut, le cas échéant, délivrer le Certificat d'études de base conformément à l'article 27. II s'aligne sur les obligations prévues pour la forme 3.
+
+Les élèves qui ne sont plus soumis à l'obligation scolaire peuvent également obtenir le Certificat d'études de base dans les conditions prévues par ce même article.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 7, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 52
+
+Durant la seconde phase, des stages peuvent être organises au cours de l'année scolaire selon les modalités fixées par le Gouvernement.
+
+#### Art. 53
+
+Tout élève quittant l'[<sup>1</sup> école]<sup>1</sup> a droit a une attestation de fréquentation scolaire précisant les compétences acquises. Cette attestation est délivrée par le directeur conformément au modèle fixé par le Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 5. - De l'enseignement secondaire professionnel spécialisé - Enseignement de forme 3.
+
+#### Art. 54
+
+§ 1er. L'enseignement secondaire spécialisé de forme 3 est organisé en trois phases qui s'articulent autour du projet d'[<sup>5</sup> école]<sup>5</sup>.
+
+La première phase comporte :
+
+1° un temps d'observation, dans un ou plusieurs secteurs professionnels d'une durée maximale d'une année scolaire;
+
+2° une approche polyvalente dans un secteur professionnel d'une durée maximale d'une année scolaire sauf avis motivé du Conseil de classe.
+
+La deuxième phase vise une formation polyvalente dans un groupe professionnel d'une durée maximale de deux années scolaires sauf avis motivé du Conseil de classe.
+
+[<sup>4</sup> La réussite de la deuxième phase entraîne l'octroi du Certificat d'études de base à l'élève qui n'en est pas encore titulaire.]<sup>4</sup>
+
+La troisième phase débouche sur une qualification professionnelle dans un métier du groupe professionnel suivi par l'élève durant la 2e phase. [<sup>2</sup> Sa durée variera en fonction de la spécificité du profil de certification visé, ou, à défaut, du profil de formation visé]<sup>2</sup> à l'article 47 du décret définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.
+
+§ 2. Les différentes phases comprennent des cours réservés à la formation générale et sociale d'une part et des cours réservés à la formation professionnelle d'autre part. Le Gouvernement fixe le volume horaire en tenant compte des exigences suivantes :
+
+\- la première phase comporte au moins 13 périodes de cours réservés a la formation générale et sociale;
+
+\- la deuxième et la troisième phase comportent au moins 9 périodes.
+
+§ 3. [<sup>2</sup> [<sup>3</sup> A l'issue de la troisième phase, l'élève obtient un certificat de qualification dans un métier, pour autant qu'il maîtrise les acquis d'apprentissage repris dans un profil de certification visé à l'article 47, § 1er, du décret du 24 juillet 1997 précité ou, si ce profil de certification n'a pas encore été défini, les compétences reprises dans un profil de formation élaboré par la Commission communautaire des professions et des qualifications visée à l'article 7 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire]<sup>3</sup>.]<sup>2</sup>
+
+§ 4. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2011-01-13/04, art. 39, 013; En vigueur : 04-03-2011&gt;
+
+(2)&lt;DCFR 2012-07-12/26, art. 100, 016; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2018-06-14/26, art. 23, 033; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFR 2018-07-11/16, art. 12, 035; En vigueur : 01-09-2018&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 55
+
+§ 1er. [<sup>1</sup> La formation dans cette forme d'enseignement est organisée en secteurs professionnels. Ceux-ci engendrent des formations dans des groupes professionnels, qui, eux-mêmes, conduisent à des formations à un métier.
+
+Les modalités de concordance entre les formations dans un secteur professionnel, les formations dans des groupes professionnels et les formations à un métier sont fixées par le Gouvernement.]<sup>1</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. [<sup>5</sup> ...]<sup>5</sup>
+
+[<sup>4</sup> § 2bis. Le Gouvernement définit les modalités du parcours d'enseignement qualifiant pour les formations à un métier de la troisième phase, dont il a déterminé qu'elles sont organisées dans ce régime conformément à l'article 12, du décret 20 juillet 2022 relatif au parcours d'enseignement qualifiant (PEQ).]<sup>4</sup>
+
+[<sup>3</sup> § 3. Dans le cadre des formations pour lesquelles il existe un profil visé à [<sup>7</sup> l'article 1.4.3-2, § 4, alinéa 1er, 4°, du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>7</sup>, le Gouvernement peut autoriser, après avis motivé du [<sup>7</sup> Conseil général de l'enseignement secondaire]<sup>7</sup>, la programmation d'une formation relevant d'un autre secteur et/ou d'un autre groupe professionnels que ceux déjà organisés dans l'[<sup>6</sup> école]<sup>6</sup>.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2012-07-12/26, art. 101, 016; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2013-12-05/18, art. 13, 019; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 59, 041; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2022-07-20/39, art. 47,b, 051; En vigueur : 29-08-2022&gt;
+
+(5)&lt;DCFR 2022-07-20/39, art. 47,a, 051; En vigueur : 25-08-2025&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(7)&lt;DCFR 2026-07-17/11, art. 8, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 55bis
+
+[<sup>1</sup> § 1er. Pour l'application du présent article, on entend par :
+
+1\. milieu professionnel : employeur, public ou privé, des secteurs marchand et non-marchand, actif dans la production de biens ou de services, susceptible d'accueillir des stagiaires dans les conditions du présent article;
+
+2\. visites : périodes de contact et de découverte, individuels ou collectifs notamment des métiers, du milieu professionnel, des centres de compétence et de référence professionnelle, des centres de technologies avancées, d'autres écoles organisées dans le cadre du processus d'orientation des élèves de l'enseignement secondaire spécialisé de forme 3;
+
+3\. stages : périodes d'immersion en milieu professionnel, individuelle ou en très petits groupes de moins de 6 élèves, organisées au cours des 2e et 3e phases de l'enseignement secondaire spécialisé de forme 3.
+
+L'enseignement en alternance tel qu'organisé conformément à l'article 3, § 1er, alinéa 3 du présent décret n'est pas visé par le présent article.
+
+§ 2. Les visites sont organisées par les [<sup>5</sup> écoles]<sup>5</sup> dans le cadre de leur projet [<sup>6</sup> d'école, visé aux articles 1.5.1-5 à 1.5.1-7 du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>6</sup>.
+
+§ 3. Pour les formations pour lesquelles un profil de certification n'a pas encore été défini conformément à [<sup>6</sup> à l'article 1.4.3-2, § 4, alinéa 1er, 4°, du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>6</sup>, le Gouvernement peut rendre les stages obligatoires dans certaines formations de l'enseignement spécialisé de forme 3.
+
+Dans le cadre de son projet [<sup>6</sup> d'école, visé aux articles 1.5.1-5 à 1.5.1-7 du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>6</sup>, chaque [<sup>5</sup> école]<sup>5</sup> peut organiser des stages conformément au présent article dans les formations de l'enseignement spécialisé de forme 3, dans lesquelles le Gouvernement ne les a pas rendus obligatoires.
+
+§ 4. Trois types de stages sont à distinguer :
+
+1\. le stage de type 1, qui est un stage d'observation et d'initiation;
+
+2\. le stage de type 2, qui est un stage de pratique accompagnée;
+
+3\. le stage de type 3, qui est un stage de pratique en responsabilité.
+
+§ 5. Les stages d'observation et d'initiation visés au § 4, 1, font partie de la mise en projet de l'élève et s'inscrivent dans un processus large d'orientation. Ils ont pour objectif de permettre à l'élève de :
+
+1\. découvrir un ou plusieurs métier(s) pour définir ou préciser un projet de formation.
+
+2\. s'initier à des activités professionnelles et/ou à la vie professionnelle.
+
+3\. cibler ses intérêts.
+
+Ils sont organisés par les [<sup>5</sup> écoles]<sup>5</sup> dans le cadre de leur projet [<sup>6</sup> d'école, visé aux articles 1.5.1-5 à 1.5.1-7 du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>6</sup>.
+
+Ils peuvent consister notamment en :
+
+1\. la participation à des essais et démonstrations;
+
+2\. l'assistance à des activités de production;
+
+3\. la rencontre avec des membres du milieu professionnel.
+
+Les élèves en stage d'observation et d'initiation ne prennent pas part au travail dans le milieu professionnel; ils sont pris en charge globalement par le milieu professionnel et disposent d'un faible degré d'autonomie.
+
+Lors de la recherche de lieux de stage, l'élève ou l'[<sup>5</sup> école]<sup>5</sup> communique aux milieux professionnels avec lesquels ils établissent un premier contact un document explicatif des types de stage et des attentes de l'enseignement vis-à-vis du milieu professionnel dont le Gouvernement fixe le modèle.
+
+§ 6. Les stages de pratique accompagnée visés au § 4, 2, ont pour objectif de permettre à l'élève de
+
+1.découvrir le monde professionnel;
+
+2\. approfondir son projet de formation;
+
+3\. confirmer son choix professionnel
+
+4\. mettre en oeuvre les compétences qu'il a acquises à l'école en participant au processus de production.
+
+Le travail visé au 4 de l'alinéa précédent consiste en l'exécution de tâches de plus en plus complexes en fonction du programme d'études. Il s'effectue sous guidance rapprochée du milieu professionnel; l'élève dispose d'une autonomie modérée.
+
+§ 7. Les stages de pratique en responsabilité visés au § 4, 3, ont pour objectif de permettre à l'élève d'acquérir et de perfectionner la maîtrise du métier complémentairement aux savoirs, compétences et aptitudes professionnels enseignés à l'école.
+
+A cette fin, les élèves sont appelés à exécuter, en autonomie, des tâches de plus en plus complexes en fonction du programme d'études, sous la supervision du milieu professionnel.
+
+§ 8. Les stages visés aux paragraphes 6 et 7 s'inscrivent dans le projet pédagogique, visé par [<sup>6</sup> les articles 1.5.1-2 et 1.5.1-3 du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>6</sup>, des [<sup>5</sup> écoles]<sup>5</sup> organisant l'enseignement secondaire spécialisé de forme 3.
+
+Les stages font partie intégrante de la formation de l'élève; ils interviennent dans le processus d'évaluation des élèves.
+
+Ils sont obligatoires dès lors qu'ils sont organisés par l'[<sup>5</sup> école]<sup>5</sup> et que celle-ci en a inséré les règles dans son règlement des études, visé à [<sup>6</sup> l'article 1.5.1-8 du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>6</sup>.
+
+Lorsqu'un élève connaît des problèmes physiques, sociaux ou psychologiques de nature passagère, le conseil de classe peut reporter les stages d'un élève à une période plus favorable pour lui. Si le report n'est pas possible, le conseil de classe peut dispenser l'élève de tout ou partie du stage. Dans les deux cas, le conseil de classe établit un document motivant sa décision et décrivant les modalités de remplacement.
+
+§ 9. Le choix des lieux de stage doit répondre aux objectifs de formation. Il faut tenir compte notamment de :
+
+1\. l'aptitude du milieu professionnel à fournir un éventail de travaux de caractère formatif sur le plan professionnel,
+
+2\. la capacité du milieu professionnel de désigner en son sein un tuteur présentant les qualités requises pour l'accompagnement du stagiaire, telles que définies par le profil de fonction visé au paragraphe 18,
+
+3\. la capacité d'accueil du milieu professionnel en matière de nombre de stagiaires,
+
+4\. les expériences antérieures de collaboration positive avec l'[<sup>5</sup> école]<sup>5</sup>.
+
+Les stages ne peuvent pas être organisés chez les membres du corps professoral, leur conjoint ou leurs parents, ni chez les parents du stagiaires jusqu'au 3e degré ni chez les cohabitants et/ou personnes vivant sous le même toit, sauf dérogation accordée par le ministre qui a l'enseignement spécialisé dans ses attributions.
+
+§ 10. Pour les stages visés aux paragraphes 6 et 7, le chef d'[<sup>5</sup> école]<sup>5</sup> dans l'enseignement organisé par la Communauté française ou le Pouvoir organisateur dans l'enseignement subventionné par la Communauté française garantit à chaque élève un lieu de stage adéquat au regard des critères du paragraphe 9.
+
+Les modalités de l'intervention des élèves dans la recherche des lieux de stage sont définies dans le règlement des études visé à [<sup>6</sup> l'article 1.5.1-8 du Code de l'enseignement fondamental et de l'enseignement secondaire]<sup>6</sup>. Dans ce cas, l'équipe éducative assure une préparation des élèves à la recherche de lieux de stage et les soutient dans leur recherche. Cela implique notamment qu'elle fournisse aux élèves une liste de lieux de stage possibles, même si l'élève peut proposer lui-même d'autres lieux qui répondent aux critères précisés par l'équipe éducative.
+
+Dans tous les cas, le chef d'[<sup>5</sup> école]<sup>5</sup> dans l'enseignement organisé par la Communauté française ou le Pouvoir organisateur dans l'enseignement subventionné par la Communauté française est responsable en dernier ressort de la recherche de lieux de stage; l'élève ne pourra pas être tenu pour responsable de l'absence de lieu de stage, sauf si le chef d'[<sup>5</sup> école]<sup>5</sup> a pris une mesure disciplinaire d'exclusion du lieu de stage à l'égard de l'élève et qu'il n'a pas été possible de lui retrouver un autre lieu de stage.
+
+Lors de la recherche de lieux de stage, l'élève ou l'[<sup>5</sup> école]<sup>5</sup> communique aux milieux professionnels avec lesquels ils établissent un premier contact un document explicatif des types de stage et des attentes de l'enseignement vis-à-vis du milieu professionnel dont le Gouvernement fixe le modèle.
+
+Dans le cas où une [<sup>5</sup> école]<sup>5</sup> peine à trouver des lieux de stage en suffisance, le chef d'[<sup>5</sup> école]<sup>5</sup> dans l'enseignement organisé par la Communauté française ou le Pouvoir organisateur dans l'enseignement subventionné par la Communauté française ou le Pouvoir organisateur en informe, selon des modalités que fixe le Gouvernement :
+
+1\. [<sup>6</sup> la Chambre enseignement visée à l'article 31, § 1er, alinéa 2, 1°, du décret du 22 juin 2023 relatif à la gouvernance de l'offre d'options de base groupées dans l'enseignement secondaire qualifiant de plein exercice et en alternance]<sup>6</sup>;
+
+2\. les Services du Gouvernement; ceux-ci établissent un cadastre des demandes non satisfaites, par zone, par secteur professionnel et par formation, qui sera communiqué au ministre qui a l'enseignement secondaire dans ses attributions; ils apportent leur soutien aux [<sup>5</sup> écoles]<sup>5</sup> dans la recherche de lieux de stage.
+
+§ 11. Pour les formations dans lesquelles des stages ont été rendus obligatoires par le Gouvernement, le chef d'[<sup>5</sup> école]<sup>5</sup> dans l'enseignement organisé par la Communauté française ou le Pouvoir organisateur dans l'enseignement subventionné par la Communauté française peuvent introduire des demandes de dispense motivées par des raisons extérieures aux élèves eux-mêmes telles que le manque d'offre de stages et la grande difficulté de déplacement des élèves vers des lieux de stage. La demande peut porter sur une formation ou sur un nombre restreint d'élèves au sein d'une formation. La demande porte sur une année scolaire spécifique.
+
+Le conseil de classe prévoit des activités de remplacement pour les élèves dispensés.
+
+Le Gouvernement définit les modalités des demandes de dispense et de leur traitement et marque ou non son approbation.
+
+Le service de l'Inspection visé par [<sup>6</sup> le décret du 10 janvier 2019 relatif au Service général de l'Inspection]<sup>6</sup>, peut être chargé d'une mission d'inspection concernant ces demandes.
+
+§ 12. Des stages visés aux paragraphes 6 et 7 peuvent être organisés à l'étranger ou dans une autre Communauté.
+
+[<sup>4</sup> Le pouvoir organisateur ou son délégué peut autoriser un stage à l'étranger pour autant que celui-ci soit cohérent avec le projet de l'élève et de l'école et qu'un accompagnement adéquat soit prévu pendant toute la durée dudit stage. Le projet de l'élève et les dispositions prévues sont consignés par écrit dans le dossier de stage de l'élève]<sup>4</sup>.
+
+L'autorisation est automatique pour l'élève et les membres de l'équipe éducative qui accompagnent éventuellement le jeune lorsque celui-ci participe à des échanges financés ou co-financés par la Commission européenne ou une autorité publique belge.
+
+Le Gouvernement détermine les modalités particulières des stages des élèves frontaliers dans les pays limitrophes ou dans une autre Communauté. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 13. Après avoir pris l'avis du [<sup>3</sup> Conseil général]<sup>3</sup> créé par l'article 168 du présent décret, le Gouvernement définit la durée, le public-cible et les modalités d'organisation et d'évaluation des divers types de stages visés au paragraphe 4.
+
+Si le Conseil n'a pas rendu son avis endéans les trois mois de la demande qui lui est adressée, l'avis est réputé favorable.
+
+§ 14. Les stages impliquent une relation tripartite entre l'[<sup>5</sup> école]<sup>5</sup>, l'élève et ses parents ou ses représentants légaux s'il est mineur et le milieu professionnel.
+
+Cette relation est régie par une convention fixant notamment les droits et devoirs des parties concernées. Le Gouvernement fixe le modèle de convention applicable à chacun des types de stages visés au paragraphe 4.
+
+§ 15. Pour les stages visés aux paragraphes 6 et 7, un carnet de stage est obligatoire. Il constitue, tout au long du stage, le moyen de liaison entre l'[<sup>5</sup> école]<sup>5</sup>, le stagiaire et le milieu professionnel.
+
+Le carnet de stage reprend au moins les éléments suivants :
+
+1\. un exemplaire de la convention,
+
+2\. le type de stage,
+
+3\. les objectifs du stage,
+
+4\. le calendrier et les horaires,
+
+5\. les modalités d'évaluation,
+
+6\. ce qui est attendu de la part du milieu professionnel en matière de développement des aptitudes et compétences professionnelles.
+
+Le carnet accompagne l'élève aussi bien à l'école que sur le lieu de stage.
+
+L'élève y note les activités et les apprentissages réalisés. Le milieu professionnel y note des éléments d'évaluation.
+
+La tenue du carnet de stage s'effectue sous la responsabilité du maître de stage visé au paragraphe 16, en collaboration avec le tuteur visé au paragraphe 18.
+
+Le carnet de stage peut tenir lieu de rapport de stage si le chef d'[<sup>5</sup> école]<sup>5</sup>, pour l'enseignement organisé par la Communauté française ou le Pouvoir organisateur, pour l'enseignement subventionné par la Communauté française, en décide ainsi après concertation avec l'équipe éducative.
+
+§ 16. Le chef d'[<sup>5</sup> école]<sup>5</sup> désigne l'enseignant ou les enseignants chargé(s) de la préparation, de l'accompagnement et de l'évaluation des stages. Pour chaque élève en stage, est désigné, au sein de l'équipe éducative qui en a la charge, un maître de stage unique, seul interlocuteur du milieu professionnel concerné en dehors du chef d'[<sup>5</sup> école]<sup>5</sup> ou de son délégué.
+
+Peut être désigné comme maître de stage :
+
+1\. tout membre de l'équipe des enseignants chargés de cours aux élèves concernés, y compris les cours de formation commune;
+
+2\. un chef de travaux d'atelier;
+
+3\. un chef d'atelier;
+
+4\. un enseignant chargé de périodes de coordination pédagogique.
+
+La préparation, l'accompagnement et l'évaluation des stages font partie des tâches pédagogiques habituelles des maîtres de stage. Lorsqu'ils accomplissent ces tâches, que ce soit dans l'[<sup>5</sup> école]<sup>5</sup> ou en dehors de celui-ci, ils sont considérés comme en activité de service.
+
+§ 17. En début d'année scolaire, le chef d'[<sup>5</sup> école]<sup>5</sup> ou son délégué arrête le planning prévisionnel et les modalités d'organisation des stages après concertation au sein de l'organe de démocratie sociale compétent.
+
+§ 18. Dans la limite de leur horaire hebdomadaire habituel, le [<sup>7</sup> directeur]<sup>7</sup> peut charger les membres du personnel déchargés de cours en raison de l'organisation des stages de tâches éducatives et pédagogiques d'encadrement des élèves, telles que le remplacement de professeurs absents, la prise en charge d'activités de remédiation ou de dépassement, de surveillances, des prestations en médiathèque.
+
+§ 19. La désignation d'un tuteur est indispensable dans chaque milieu professionnel accueillant au moins un stagiaire. Les [<sup>5</sup> écoles]<sup>5</sup> collaboreront avec les milieux professionnels concernés afin que soient désignés des tuteurs compétents. Le Gouvernement établit un profil de fonction pour les tuteurs, après concertation avec les partenaires sociaux représentés au Conseil économique et social de la Région wallonne et au Conseil économique et social de la Région de Bruxelles-Capitale.
+
+§ 20. Le Gouvernement établit une grille critériée d'évaluation des lieux de stage; les [<sup>5</sup> écoles]<sup>5</sup> remplissent cette grille pour chaque lieu de stage avec la collaboration du ou des maître(s) de stage concernés; ils la tiennent à la disposition du service de l'Inspection. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-12-05/18, art. 14, 019; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFR 2016-07-13/03, art. 11, 026; En vigueur : 04-08-2016&gt;
+
+(3)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(4)&lt;DCFR 2025-07-16/13, art. 10, 061; En vigueur : 25-08-2025&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 9, 068; En vigueur : 24-08-2026&gt;
+
+(7)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 56
+
+Au cours de la première phase, un élève peut être admis ou orienté dans [<sup>1</sup> une formation dans un secteur]<sup>1</sup> professionnel, sur proposition du conseil de classe assisté de l'organisme chargé de la guidance des élèves et avec l'accord des parents, de la personne investie de l'autorité parentale ou de l'élève majeur.
+
+Le passage à la deuxième phase nécessite une attestation de réussite de la première phase. Cette attestation est établie sur la base de la décision du conseil de classe fondée notamment sur l'acquisition des compétences-seuils. Le modèle de cette attestation est fixé par le Gouvernement.
+
+En deuxième phase, les modalités de passage d'un élève d'un secteur professionnel à un autre sont déterminées par le Gouvernement et tiennent compte des compétences-seuils acquises par l'élève.
+
+Le passage à la troisième phase nécessite une attestation de réussite de la deuxième phase. Cette attestation est établie sur la base de la décision du conseil de classe fondée notamment sur l'acquisition des compétences-seuils. Le modèle de cette attestation est fixé par le Gouvernement.
+
+La troisième phase accueille l'élève dans [<sup>1</sup> la formation à un métier]<sup>1</sup> du groupe professionnel dans lequel il a obtenu l'attestation de réussite de la deuxième phase.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2012-07-12/26, art. 102, 016; En vigueur : 01-09-2012&gt;
+
+#### Art. 57
+
+Dans l'enseignement de forme 3 :
+
+1° la réussite de la première phase est sanctionnée par une attestation de réussite dans un secteur professionnel;
+
+2° la réussite de la deuxième phase est sanctionnée par une attestation de réussite dans un groupe professionnel;
+
+3° [<sup>2</sup> la réussite de la troisième phase est sanctionnée par un certificat de qualification [<sup>4</sup> ...]<sup>4</sup> dans un métier conformément à l'article 59.
+
+Ce certificat de qualification [<sup>4</sup> ...]<sup>4</sup> est complété, le cas échéant, par un certificat d'enseignement secondaire [<sup>5</sup> professionnel]<sup>5</sup> du deuxième degré, délivré par le Conseil de classe aux élèves qu'il juge capables poursuivre leurs études en cinquième année de l'enseignement secondaire professionnel ordinaire; ce certificat est équivalent à celui qui est délivré aux élèves de l'enseignement secondaire professionnel ordinaire conformément à l'article 25, § 1er, de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire.]<sup>2</sup>
+
+4° tout élève quittant l'[<sup>8</sup> école]<sup>8</sup> sans avoir obtenu un certificat de qualification a droit à une attestation de compétences acquises et une attestation de fréquentation délivrée par le directeur conformément au modèle fixé par le Gouvernement;
+
+5° [<sup>7</sup> le conseil de classe délivre le Certificat d'études de base en appliquant, mutatis mutandis, les modalités visées à l'article 27, §§ 1er à 5, et à l'article 27/1]<sup>7</sup>;
+
+[<sup>6</sup> 6° le conseil de classe délivre le certificat d'enseignement secondaire du premier degré aux élèves qui réussissent les épreuves externes certificatives ; ]<sup>6</sup>
+
+[<sup>3</sup> [<sup>6</sup> 7°]<sup>6</sup>. Les élèves qui ne sont plus soumis à l'obligation scolaire peuvent également obtenir le certificat d'études de base moyennant les conditions prévues à l'article 23 de l'arrêté du Gouvernement de la Communauté française du 3 mai 1999 déterminant la forme et les règles de délivrance du Certificat d'Etudes de Base.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2012-02-01/14, art. 9, 015; En vigueur : 25-03-2012&gt;
+
+(2)&lt;DCFR 2012-07-12/26, art. 103, 016; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2013-10-17/21, art. 18, 018; En vigueur : 01-09-2013&gt;
+
+(4)&lt;DCFR 2018-06-14/26, art. 24, 033; En vigueur : 01-09-2018&gt;
+
+(5)&lt;DCFR 2019-05-03/38, art. 60, 041; En vigueur : 01-09-2019&gt;
+
+(6)&lt;DCFR 2024-01-18/27, art. 68, 056; En vigueur : 21-02-2024&gt;
+
+(7)&lt;DCFR 2026-03-19/12, art. 17, 065; En vigueur : 01-01-2026&gt;
+
+(8)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 58
+
+Le jury de qualification est composé de membres du conseil de classe élargi à des membres extérieurs à l'[<sup>4</sup> école]<sup>4</sup>. Parmi les membres du conseil de classe figurent, obligatoirement, le titulaire de classe, les professeurs de cours techniques et de pratique professionnelle et au minimum un professeur de cours généraux [<sup>1</sup> et dans le cadre de l'enseignement en alternance, le coordonnateur et/ou l'accompagnateur du Centre d'Education et de Formation en Alternance]<sup>1</sup>. Il est présidé par le directeur ou son délégué.
+
+Les membres extérieurs à l'[<sup>4</sup> école]<sup>4</sup> sont choisis en raison de leurs compétences professionnelles dans la qualification qu'il s'agit de sanctionner.
+
+Le nombre des membres extérieurs à l'[<sup>4</sup> école]<sup>4</sup> doit être inférieur à celui des membres du conseil de classe.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/30, art. 19, 012; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-07-12/26, art. 104, 016; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFR 2018-06-14/26, art. 25, 033; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 59
+
+[<sup>1</sup> [<sup>4</sup> Au cours de la troisième phase, des épreuves de qualification sont organisées pour sanctionner l'ensemble des savoirs, aptitudes et compétences du profil de certification ou, à défaut, des compétences du profil de formation élaboré par la Commission communautaire des professions et des qualifications visée à l'article 7 du décret du 27 octobre 1994 précité]<sup>4</sup>.
+
+Si les épreuves peuvent s'organiser tout au long de la formation, elles doivent néanmoins permettre de vérifier la capacité de l'élève de mobiliser les compétences acquises, le cas échéant à travers une épreuve intégrée et/ou la réalisation d'un travail. Tout ce processus est de la responsabilité de chaque pouvoir organisateur.
+
+[<sup>4</sup> Le certificat de qualification est délivré par le Jury de qualification]<sup>4</sup>.
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>5</sup> Pour les options de base groupées liées avec des profil(s) de formation élaboré(s) par le Service francophone des métiers et des qualifications (SFMQ) et pour lesquelles un profil de certification a été établi et approuvé par le Gouvernement, le Jury de qualification est aussi chargé de valider les unités d'acquis d'apprentissage.]<sup>5</sup>
+
+Le Jury de qualification est constitué au début de chaque année scolaire sous la responsabilité du Pouvoir organisateur.
+
+Il est composé du [<sup>8</sup> directeur]<sup>8</sup> ou de son délégué, de membres du conseil de classe et de membres extérieurs à l'[<sup>7</sup> école]<sup>7</sup>. Parmi les membres du conseil de classe figurent, obligatoirement, le titulaire de classe, les professeurs de cours techniques et de pratique professionnelle et au minimum un professeur de cours généraux et dans le cadre de l'enseignement en alternance, le coordonnateur et/ou l'accompagnateur du Centre d'Education et de Formation en Alternance.
+
+Les membres extérieurs à l'[<sup>7</sup> école]<sup>7</sup>, dont le nombre ne peut dépasser celui des membres du personnel enseignant :
+
+1° sont choisis en raison de leur compétence dans la qualification qu'il s'agit de sanctionner;
+
+2° sont désignés par le pouvoir organisateur ou son délégué.
+
+Le Jury est présidé par le [<sup>8</sup> directeur]<sup>8</sup> ou son délégué.
+
+Le Jury de qualification peut déléguer l'évaluation des épreuves de qualification aux membres du personnel enseignant qui ont assuré spécifiquement les apprentissages préparatoires à l'épreuve concernée et quand cela est possible, à un ou plusieurs membres extérieurs à l'[<sup>7</sup> école]<sup>7</sup>. Toutefois, la délivrance du Certificat de qualification relève de la compétence du Jury de qualification.
+
+[<sup>5</sup> Dans le parcours d'enseignement qualifiant (PEQ), le Jury de qualification peut déléguer la validation des unités de qualification aux membres du personnel enseignant qui ont assuré spécifiquement les apprentissages et quand cela est possible, à un ou plusieurs membres extérieurs à l'[<sup>7</sup> école]<sup>7</sup>. Toutefois, la délivrance du Certificat de qualification relève de la compétence du Jury de qualification.]<sup>5</sup>
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+Le Jury de qualification fonde ses appréciations sur les informations qu'il est possible de recueillir sur l'élève, notamment :
+
+1° les résultats des épreuves de qualification;
+
+2° les observations collectées lors des stages.]<sup>1</sup>
+
+[<sup>3</sup> 3° les résultats obtenus par les élèves qui ont participé à des épreuves organisées par les secteurs professionnels dans le cadre de conventions conclues avec les services de la Communauté française ou co-organisées par la Communauté française et les secteurs professionnels.]<sup>3</sup>
+
+[<sup>2</sup> Il ne peut pas délivrer le Certificat de qualification aux élèves qui n'ont pas effectué les stages visés au paragraphe 8 de l'article 55 et n'en ont pas été dispensés conformément au même article.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2012-07-12/26, art. 105, 016; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2013-12-05/18, art. 3, 019; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFR 2016-02-04/02, art. 32, 025; En vigueur : 01-09-2015&gt;
+
+(4)&lt;DCFR 2018-06-14/26, art. 26, 033; En vigueur : 01-09-2018&gt;
+
+(5)&lt;DCFR 2022-07-20/39, art. 48,b;48,c, 051; En vigueur : 29-08-2022&gt;
+
+(6)&lt;DCFR 2022-07-20/39, art. 48,a;48,d, 051; En vigueur : 25-08-2025&gt;
+
+(7)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(8)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 60
+
+Les procès-verbaux des décisions du jury sont signés par [<sup>1</sup> le président et au moins deux]<sup>1</sup> membres du jury et conservés pendant trente ans.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/26, art. 106, 016; En vigueur : 01-09-2012&gt;
+
+#### Art. 61
+
+Le certificat de qualification, le certificat d'enseignement secondaire inférieur équivalant au certificat d'enseignement secondaire du deuxième degré et les attestations sont établis conformément aux modèles fixés par le Gouvernement.
+
+#### Art. 62
+
+Les programmes de la forme 3 d'enseignement, fixés ou approuvés selon le cas par le Gouvernement sont établis pour ce qui est des activités et des matières conformément aux référentiels des compétences dans le respect [<sup>1</sup> des profils de certification ou, à défaut, des profils de formation]<sup>1</sup> visés à l'article 47 du décret du 24 juillet 1997 précité.
+
+----------
+
+(1)&lt;DCFR 2012-07-12/26, art. 107, 016; En vigueur : 01-09-2012&gt;
+
+### Section 6. - De l'enseignement secondaire général, technique, artistique et professionnel, de transition ou de qualification - Enseignement de forme 4.
+
+#### Art. 63
+
+L'enseignement secondaire spécialisé de forme 4 est soumis en ce qui concerne les structures et la sanction des études, aux mêmes dispositions légales et réglementaires que l'enseignement secondaire ordinaire [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>2</sup> L'accompagnement personnalisé ainsi que l'accompagnement renforcé tels que prévus dans l'enseignement secondaire ordinaire, notamment, pour les élèves ayant obtenu moins de 50% à une ou plusieurs parties de l'épreuve externe commune certificative octroyant le Certificat d'études de base visée à l'article 2.3.2-3 du Code de l'enseignement fondamental et de l'enseignement secondaire ou n'ayant pas obtenu, sur l'ensemble de cette même épreuve, au moins 60% ne sont pas applicables à l'enseignement secondaire spécialisé de forme 4]<sup>2</sup>.
+
+[<sup>2</sup> Les dispositions afférentes aux grilles horaires de l'enseignement secondaire de forme 4 sont maintenues en ce compris la possibilité pour cet enseignement d'organiser de 2 à 4 périodes d'accompagnement spécialisé au-delà de la grille de référence.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2008-12-12/00, art. 31, 008; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCFR 2026-05-28/14, art. 70, 067; En vigueur : 24-08-2026&gt;
+
+#### Art. 64
+
+L'enseignement spécialisé de forme 4 utilise soit les programmes de l'enseignement ordinaire, soit les programmes adaptés approuvés par le Gouvernement sur proposition de la Commission des programmes visée aux articles 17, 27, 36 et 50 du décret du 24 juillet 1997 précité.
+
+### Section 7. - Des conditions de passage de l'enseignement secondaire spécialisé vers l'enseignement secondaire ordinaire.
+
+#### Art. 65
+
+§ 1er. Un élève régulièrement inscrit dans une [<sup>2</sup> école]<sup>2</sup> d'enseignement secondaire spécialisé peut être inscrit dans une [<sup>2</sup> école]<sup>2</sup> d'enseignement secondaire ordinaire après demande écrite des parents, de la personne investie de l'autorité parentale ou de l'élève majeur, à la condition toutefois d'avoir obtenu un avis motivé de l'organisme chargé de la guidance des élèves de l'[<sup>2</sup> école]<sup>2</sup> spécialisée concernée et l'avis favorable du conseil d'admission de l'école d'accueil tel que visé à [<sup>1</sup> l'article 59]<sup>1</sup> de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire.
+
+§ 2. Sans préjudice de l'application des articles 130 à 158, les passages de l'enseignement spécialisé à l'enseignement ordinaire doivent s'opérer dans le respect des conditions d'admission fixées par l'arrêté royal du 29 juin 1984 précité.
+
+Dans des cas individuels et exceptionnels, le Gouvernement peut, à la demande du directeur s'appuyant sur un avis motivé du conseil ou jury d'admission, dispenser des conditions fixées aux articles 9 à 15 et 36 à 39 de l'arrêté royal du 29 juin 1984 précité, les élèves qui veulent passer de l'enseignement secondaire spécialisé de forme 4 à l'enseignement secondaire ordinaire.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/28, art. 23, 020; En vigueur : 01-05-2014&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 66
+
+Les élèves issus de l'enseignement secondaire spécialisé de forme 1 et de forme 2 ne sont pas concernés par le passage vers l'enseignement secondaire ordinaire, sauf dérogation accordée par le Gouvernement, dans des cas exceptionnels, sur demande introduite par le [<sup>2</sup> directeur]<sup>2</sup> de l'enseignement secondaire ordinaire, après avis de l'organisme chargé de la guidance des élèves et de l'inspection de l'enseignement spécialisé.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 7bis. [<sup>1</sup> - Des conditions de changement d'[<sup>2</sup> école]<sup>2</sup> organisant le même type au sein de l'enseignement secondaire spécialisé ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/16, art. 13, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Art. 66bis. [<sup>1</sup> Après le 30 septembre d'une année scolaire en cours, un élève régulièrement inscrit dans une [<sup>2</sup> école]<sup>2</sup> d'enseignement secondaire spécialisé peut être inscrit dans une autre [<sup>2</sup> école]<sup>2</sup> d'enseignement secondaire spécialisé qui organise le même type d'enseignement après demande écrite des parents, de la personne investie de l'autorité parentale ou de l'élève majeur, à la condition d'avoir obtenu un avis de la direction de l'[<sup>2</sup> école]<sup>2</sup> spécialisée d'origine.
+
+En cas d'avis défavorable de la direction de l'[<sup>2</sup> école]<sup>2</sup> spécialisée d'origine, l'inscription est toutefois possible à la condition d'avoir obtenu un avis de l'organisme chargé de la guidance des élèves de l'[<sup>2</sup> école]<sup>2</sup> spécialisée d'origine. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/16, art. 14, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 8. - De l'apprentissage par immersion.
+
+#### Art. 67
+
+[<sup>1</sup> § 1er. L'apprentissage par immersion dans l'enseignement spécialisé peut être organisé selon les modalités prévues aux articles 1.8.3-1 et suivants du Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+§ 2. Par dérogation au paragraphe 1er, les dispositions prévues aux articles 1.8.3-1 et suivants ne sont pas applicables aux élèves relevant de l'enseignement spécialisé de type 7 pour lequel l'organisation de l'immersion relève de chaque pouvoir organisateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 69, 056; En vigueur : 21-02-2024&gt;
+
+### Section 8bis. [<sup>1</sup> - De l'organisation d'une Structure Scolaire d'Aide à la Socialisation ou à la resocialisation (SSAS).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 19, 018; En vigueur : 01-09-2013&gt;
+
+#### Art. 67bis
+
+[<sup>1</sup> § 1er. Les classes SSAS peuvent être organisées dans toute [<sup>3</sup> école]<sup>3</sup> d'enseignement secondaire autorisé à organiser les types et les formes 2, 3 et 4 d'enseignement spécialisé pour les élèves concernés, celles-ci sont organisées sur base des grilles de la forme 1 de l'enseignement secondaire spécialisé.
+
+§ 2. Dans chaque [<sup>3</sup> école]<sup>3</sup> organisant une ou plusieurs classes SSAS, il est élaboré un projet pédagogique spécifique précisant les modalités et les critères d'orientation vers une classe SSAS. Ce projet pédagogique spécifique est conservé dans l'[<sup>3</sup> école]<sup>3</sup> d'enseignement spécialisé et tenu à disposition des Services de l'Inspection et des Services du Gouvernement.
+
+Chaque classe SSAS est organisée en deux périodes;
+
+1° une période de socialisation rendant possible l'accrochage scolaire et l'élaboration du projet personnel du jeune;
+
+2° une période d'immersion rendant possible la réinsertion du jeune dans une structure d'apprentissage.
+
+Chaque période a une durée maximale de douze mois calendrier sauf avis motivé du conseil de classe de la classe SSAS. Le conseil de classe de la classe SSAS décide du passage de l'élève de la période de socialisation à la période d'immersion.
+
+Celui-ci assure le suivi du jeune dans le cadre de son projet et la décision de son retour vers une structure d'apprentissage.
+
+§ 3. Dans l'enseignement secondaire de forme 2, une classe SSAS peut accueillir des élèves de la phase 1 et de la phase 2.
+
+§ 4. Dans l'enseignement secondaire de forme 3, une classe SSAS peut accueillir des élèves de la phase 1, pendant le temps d'observation après avis de l'Inspection et, pendant l'approche polyvalente dans un secteur professionnel après information à l'Inspection.
+
+Une classe SSAS peut également accueillir des élèves de la phase 2.
+
+§ 5. Dans l'enseignement secondaire spécialisé de forme 4, une classe SSAS peut accueillir des élèves qui relèvent du 1er degré et du 2ème degré.
+
+Lorsqu'il s'agit de l'enseignement spécialisé de type 5, une classe SSAS peut également accueillir des élèves du 3ème degré de l'enseignement secondaire ordinaire ou du 3ème degré de la forme 4 de l'enseignement secondaire spécialisé.
+
+§ 6. Le Conseil de classe SSAS, est chargé notamment d'évaluer, de préciser voire d'amender le projet pédagogique spécifique SSAS, de décider de manière motivée du retour de l'élève dans une structure d'apprentissage.
+
+Il est composé des membres des personnels directeur et enseignant, auxiliaire d'éducation, paramédical, psychologique et social qui ont la charge de l'instruction, de l'éducation et de la formation d'un groupe d'élèves et qui en portent la responsabilité.
+
+Dans le cadre de ses missions définies à l'alinéa 1er, le Conseil de classe SSAS peut faire appel à toute collaboration occasionnelle qu'il tient pour utile.
+
+[<sup>2</sup> Au cours des trois premières années,]<sup>2</sup> deux fois par an minimum, il est organisé un comité de suivi composé des membres du conseil de classe SSAS élargi, le cas échéant à un représentant de l'organe de représentation et de coordination des pouvoirs organisateurs d'enseignement, à un représentant de l'organisme chargé de la guidance, au membre du personnel chargé du suivi des activités de socialisation ou des stages d'essai et à un membre du personnel enseignant (hors classe SSAS), à un membre du Service d'inspection de l'enseignement spécialisé.
+
+§ 7. Les élèves inscrits dans une classe SSAS génèrent un capital-périodes utilisable selon les mêmes règles que pour les élèves de l'enseignement spécialisé de la forme et du type d'enseigne ment dont ils relèvent.
+
+§ 8. Les certifications et qualifications ne peuvent être délivrées tant que l'élève est inscrit dans une classe SSAS sauf, après avis de l'Inspection, en ce qui concerne l'attestation de réussite de la phase 1 résultant de l'acquisition des compétences-seuils nécessaires pour son passage en phase 2 au sein de la classe SSAS.
+
+§ 9. Le Gouvernement arrête les modalités d'organisation et de fonctionnement des classes SSAS notamment en ce qui concerne les périodes de socialisation et les périodes d'essai en immersion dans un milieu scolaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 20, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 61, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 9. - De l'horaire des enseignants.
+
+#### Art. 68
+
+Dans l'enseignement secondaire spécialisé du degré inférieur :
+
+§ 1er. [<sup>1</sup> Les professeurs de cours généraux, les professeurs de cours généraux chargés des cours en immersion, et les professeurs de cours spéciaux à prestations complètes assurent le nombre de périodes de travail en classe prévu par l'article 3, § 2, 5°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, en ce compris les heures de cours, de direction de classe, et [<sup>3</sup> de guidance-recyclage des élèves]<sup>3</sup>.
+
+Les professeurs de cours [<sup>2</sup> de religion, de morale non confessionnelle et de philosophie et citoyenneté]<sup>2</sup> à prestations complètes assurent le nombre de périodes de travail en classe prévu par l'article 3, § 2, 9°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, en ce compris les heures de cours, de direction de classe, et de guidance des élèves ou de recyclage.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Les professeurs de cours techniques, à prestations complètes assurent :
+
+1° pour les formes 1, 2 et 3, le nombre de périodes de travail en classe prévu par l'article 3, § 2, 6°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs;
+
+2° pour la forme 4, le nombre de périodes de travail en classe prévu par l'article 3, § 2, 7°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs.
+
+Sont comprises dans ces périodes les périodes de cours, de direction de classe et de guidance des élèves ou de recyclage.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Les professeurs de pratique professionnelle à prestations complètes assurent pour le travail en classe :
+
+1° dans l'enseignement secondaire spécialisé de formes 1, 2 et 3, le nombre de périodes de travail en classe prévu par l'article 3, § 2, 8°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, en ce compris les heures de cours et de direction de classe;
+
+2° dans l'enseignement secondaire spécialisé de forme 4 du 1er degré, le nombre de périodes de travail en classe prévu par l'article 3, § 2, 10°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, en ce compris les heures de cours et de direction de classe;
+
+3° dans l'enseignement secondaire spécialisé de forme 4 du 2e degré, le nombre de périodes de travail en classe prévu par l'article 3, § 2, 11°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, en ce compris les heures de cours et de direction de classe.
+
+Ils sont habilités à enseigner les cours techniques afférents à leur discipline, pour autant que toutes les dispositions statutaires soient respectées et que cela n'entraîne pas de dépenses supplémentaires pour le budget de la Communauté française.]<sup>1</sup>
+
+[<sup>1</sup> § 4.]<sup>1</sup> Les temps de préparation des leçons, de correction des travaux, de documentation, de mise à jour personnelle ne sont pas compris dans les maxima visés aux §§ 1er, 2, 3 et 4. Ils relèvent de l'organisation personnelle de travail des membres du personnel.
+
+Le directeur, le pouvoir organisateur et l'inspection peuvent se faire produire les documents attestant de la préparation des cours et activités qui y sont liées.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 37, 037; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 62, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 10, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 69
+
+Dans l'enseignement secondaire spécialisé de forme 4 du degré supérieur :
+
+§ 1er. [<sup>1</sup> Les professeurs de cours généraux, les professeurs de cours généraux chargés des cours en immersion, les professeurs de cours [<sup>2</sup> de religion, de morale non confessionnelle et de philosophie et citoyenneté]<sup>2</sup> et les professeurs de cours spéciaux à prestations complètes sont tenus d'assurer le nombre de périodes de travail en classe prévu par l'article 3, § 2, 12° et 14°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, en ce compris les heures de cours, de direction de classe, et [<sup>3</sup> de guidance-recyclage des élèves]<sup>3</sup>.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Les professeurs de cours techniques, à prestations complètes assurent le nombre de périodes de travail en classe prévu par l'article 3, § 2, 13°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, en ce compris les heures de cours, de guidance des élèves ou de recyclage, et de direction de classe.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Les professeurs de pratique professionnelle à prestations complètes assurent le nombre de périodes de travail en classe prévu par l'article 3, § 2, 15°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs, en ce compris les heures de cours et de direction de classe.
+
+Ils sont habilités à enseigner les cours techniques afférents à leur discipline, pour autant que toutes les dispositions statutaires soient respectées et que cela n'entraîne pas de dépenses supplémentaires pour le budget de la Communauté française.]<sup>1</sup>
+
+[<sup>1</sup> § 4.]<sup>1</sup> Les temps de préparation des leçons, de correction des travaux, de documentation et de mise à jour personnelle ne sont pas compris dans les maxima visés aux § 1, 2, 3 et 4. Ils relèvent de l'organisation personnelle de travail des membres du personnel. Le directeur, le pouvoir organisateur et l'inspection peuvent se faire produire les documents attestant de la préparation des cours et activités qui y sont liées.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 38, 037; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 63, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 11, 068; En vigueur : 24-08-2026&gt;
+
+### Section 10. - Des fonctions de sélection.
+
+#### Art. 70
+
+Dans la catégorie du personnel directeur et enseignant, les fonctions de sélection de [<sup>1</sup> directeur adjoint]<sup>1</sup> et de chef d'atelier peuvent être organisées ou subventionnées.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 143,34°, 040; En vigueur : 01-09-2019&gt;
+
+#### Art. 71
+
+Un emploi de [<sup>1</sup> directeur adjoint]<sup>1</sup> est organisé ou subventionné dès la rentrée, si le nombre d'élèves inscrits au 15 janvier de l'année scolaire précédente est au moins égal à 300.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 143,34°, 040; En vigueur : 01-09-2019&gt;
+
+#### Art. 72
+
+§ 1er. Un emploi de chef d'atelier peut être organisé ou subventionné chaque fois que le nombre de périodes de pratique professionnelle atteint 210 périodes.
+
+Toutefois l'emploi n'est créé définitivement que si la norme est atteinte durant deux années scolaires consécutives.
+
+§ 2. Un emploi de chef d'atelier peut être maintenu si le nombre total de périodes atteint au moins 180 périodes.
+
+Les emplois suivants peuvent être maintenus pour autant que le nombre de périodes de pratique professionnelle soit au moins égal à 360 périodes pour deux emplois et à 540 périodes pour trois emplois.
+
+Au-delà du troisième emploi, une tranche supplémentaire de 210 périodes est requise pour chaque nouvel emploi.
+
+§ 3. Si ces minima de 180, 360 ou 540 périodes ne sont pas atteints pendant deux années scolaires consécutives, les emplois sont supprimés au [<sup>1</sup> premier jour de l'année scolaire ]<sup>1</sup> qui suit la deuxième année en sursis.
+
+§ 4. L'horaire des chefs d'atelier est de 30 à 33 périodes de 50 minutes.
+
+----------
+
+(1)&lt;DCFR 2022-03-31/35, art. 76, 048; En vigueur : 29-08-2022&gt;
+
+#### Art. 73
+
+L'organisation ou le subventionnement des emplois de sous-directeur ou de chef d'atelier peut être modifié chaque fois que le capital-périodes est recalculé.
+
+### Section 11. - Des fonctions de promotion.
+
+#### Art. 74
+
+[<sup>1</sup> § 1.]<sup>1</sup> Dans la catégorie du personnel directeur et enseignant, les fonctions de directeur et de chef de travaux d'atelier peuvent être organisées ou subventionnées.
+
+[<sup>1</sup> § 2. Un emploi de directeur est octroyé à toute école d'enseignement secondaire spécialisée organisée ou subventionnée par la Communauté française. Cet emploi ne peut être scindé.]<sup>1</sup>
+
+[<sup>1</sup> § 3. Sans préjudice du paragraphe 2, l'école dont le directeur obtient une réduction de son temps de travail en vertu soit:
+
+a) de l'article 19 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des [<sup>3</sup> écoles]<sup>3</sup> d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces [<sup>3</sup> écoles]<sup>3</sup> et des membres du personnel du service d'inspection chargé de la surveillance de ces [<sup>3</sup> écoles]<sup>3</sup>;
+
+b) de l'article 22ter de l'arrêté royal du 15 janvier 1974 précité;
+
+c) de l'article 10ter de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux;
+
+d) de l'article 10quatorduodecies/1 de l'arrêté royal n° 297 précité;
+
+e) de l'article 3, alinéa 1er de l'arrêté de l'exécutif de la Communauté française du 3 décembre 1992 relatif à l'interruption de la carrière professionnelle dans l'enseignement et les centres psycho-médico-sociaux,
+
+[<sup>2</sup> f) de l'article 10duodecies, § 8, de l'arrêté royal n° 297 précité,]<sup>2</sup>
+
+se voit octroyer, pour seconder son directeur, un emploi temporaire de directeur adjoint à temps partiel à partir de la date d'activation de la disposition visée, et ce, respectivement à mi-temps (situations a et b), à quart-temps [<sup>2</sup> (situations c, d et f)]<sup>2</sup> ou à un cinquième-temps (situation e). Cet emploi ne peut faire l'objet d'une nomination ou d'un engagement à titre définitif. [<sup>2</sup> A l'exception de la situation où l'emploi temporaire octroyé dans le cadre du point f est maintenu dans le cadre du point d,]<sup>2</sup> il est supprimé dès que la disposition visée n'est plus d'application.
+
+Le directeur adjoint visé à l'alinéa précédent et qui:
+
+a) preste un mi-temps, est tenu de prester au minimum quatre demi-journées par semaine;
+
+b) preste un quart-temps ou un cinquième-temps est tenu de prester au minimum deux demi-journées par semaine.]<sup>1</sup>
+
+[<sup>1</sup> § 4. Par dérogation au paragraphe 3, l'école secondaire dont le directeur est tenu d'assurer des périodes de cours conformément à l'article 75 et obtient une réduction de son temps travail en vertu des dispositions visées à l'alinéa précédent se voit octroyer, pour seconder son directeur, à partir de la date d'activation de la disposition visée:
+
+a) six périodes de capital-périodes dans le cas où le directeur a obtenu une réduction d'un quart-temps ou d'un cinquième-temps;
+
+b) douze périodes de capital-périodes dans le cas où le directeur a obtenu une réduction d'un mi-temps.
+
+Le membre du personnel enseignant engagé dans une fonction de recrutement dans le cadre des périodes visées à l'alinéa précédent, doit prioritairement remplacer le directeur bénéficiant d'une réduction de son temps de travail dans tout ou partie de sa charge d'enseignement et, le cas échéant remplir d'autres tâches pédagogiques ou de coordination.
+
+Sauf en cas d'absence de candidat pour l'ensemble des périodes, ces périodes doivent donner lieu à l'engagement d'un seul membre du personnel. Ces périodes ne peuvent donner lieu à une nomination ou un engagement à titre définitif. [<sup>2</sup> A l'exception de la situation où les périodes temporaires octroyées dans le cadre du point f du paragraphe précédent sont maintenues dans le cadre du point d du même paragraphe, ]<sup>2</sup> elles sont supprimées dès que la disposition visée n'est plus d'application.]<sup>1</sup>
+
+[<sup>1</sup> § 5. L'école d'enseignement secondaire spécialisée organisée ou subventionnée par la Communauté française dont le chef de travaux d'atelier obtient une réduction de son temps de travail en vertu soit:
+
+a) de l'article 19 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des [<sup>3</sup> écoles]<sup>3</sup> d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces [<sup>3</sup> écoles]<sup>3</sup> et des membres du personnel du service d'inspection chargé de la surveillance de ces [<sup>3</sup> écoles]<sup>3</sup>;
+
+b) de l'article 22ter de l'arrêté royal du 15 janvier 1974 précité;
+
+c) de l'article 10ter de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux;
+
+d) de l'article 10quatorduodecies/1 de l'arrêté royal n° 297 précité;
+
+e) de l'article 3, alinéa 1er de l'arrêté de l'exécutif de la Communauté française du 3 décembre 1992 relatif à l'interruption de la carrière professionnelle dans l'enseignement et les centres psycho-médico-sociaux,
+
+[<sup>2</sup> f) de l'article 10duodecies, § 8, de l'arrêté royal n° 297 précité,]<sup>2</sup>
+
+se voit octroyer, pour seconder son chef de travaux d'atelier, un emploi temporaire de chef d'atelier à temps partiel à partir de la date d'activation de la disposition visée, et ce, respectivement à mi-temps (situations a et b), à quart-temps [<sup>2</sup> (situations c, d et f)]<sup>2</sup> ou à un cinquième-temps (situation e). Cet emploi ne peut pas faire l'objet d'une nomination ou d'un engagement à titre définitif. [<sup>2</sup> A l'exception de la situation où l'emploi temporaire octroyé dans le cadre du point f est maintenu dans le cadre du point d,]<sup>2</sup> il est supprimé dès que la disposition visée n'est plus d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-02-04/17, art. 40, 044; En vigueur : 03-02-2021&gt;
+
+(2)&lt;DCFR 2023-03-16/06, art. 27, 059; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 75
+
+Le directeur est déchargé de cours, dès la rentrée scolaire si le nombre d'élèves régulièrement inscrits au cours de l'année scolaire précédente est au moins égal à [<sup>2</sup> 81 ]<sup>2</sup>.
+
+Pour ce calcul, les élèves à prendre en considération dans les formes 1 et 2 d'enseignement sont multipliées par 1,33.
+
+[<sup>2</sup> Le directeur exerce une charge d'enseignement :
+
+\- de 2 périodes, si le nombre d'élèves pris en considération est compris entre 64 et 72 ;
+
+\- de 3 périodes, si le nombre d'élèves pris en considération est compris entre 55 et 63 ;
+
+\- de 4 périodes, si le nombre d'élèves pris en considération est compris entre 46 et 54 ;
+
+\- de 5 périodes, si le nombre d'élèves pris en considération est compris entre 37 et 45 ;
+
+\- de 6 périodes, si le nombre d'élèves pris en considération est compris entre 28 et 36 ;
+
+\- de 7 périodes, si le nombre d'élèves pris en considération est compris entre 19 et 27 ;
+
+\- de 8 périodes, si le nombre d'élèves tombe en-dessous de 19]<sup>2</sup>.
+
+Ces périodes sont prélevées sur le capital-périodes.
+
+Le directeur n'est pas tenu d'exercer une charge de cours durant les deux premières années à dater de l'ouverture d'une nouvelle [<sup>3</sup> école]<sup>3</sup> ou s'il assure aussi la direction d'un internat.
+
+[<sup>1</sup> Les élèves en intégration permanente totale sont comptabilisés pour la détermination de la charge d'enseignement du directeur d'école. Pour ce calcul, les élèves à prendre en considération dans les formes 1, 2, 3 et 4 sont multipliés par 1.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2012-02-01/14, art. 10, 015; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2025-07-16/16, art. 62, 063; En vigueur : 25-08-2025&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 76
+
+L'organisation ou le subventionnement des emplois de directeur peut être modifié chaque fois que le capital-périodes est recalculé.
+
+#### Art. 77
+
+Un emploi de chef de travaux d'atelier peut être organisé ou subventionné chaque fois qu'existent trois emplois de chef d'atelier.
+
+L'horaire des chefs de travaux d'atelier est de 30 à 33 périodes de 50 minutes par semaine. L'organisation ou le subventionnement des emplois de chef de travaux d'atelier peut être modifié chaque fois que le capital-périodes est recalculé.
+
+### Section 12. - Des heures de conseil de classe, de travaux d'équipe, de direction de classe, de [<sup>1</sup> recyclage-guidance]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 12, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 78
+
+§ 1er. Les périodes de direction de classe, [<sup>2</sup> ...]<sup>2</sup> de [<sup>4</sup> recyclage-guidance]<sup>4</sup> sont constitutives de la charge des professeurs au même titre que les périodes de cours.
+
+Même s'il exerce des charges dans plusieurs [<sup>3</sup> écoles]<sup>3</sup>, un même professeur ne peut totaliser au maximum qu'une période de direction de classe [<sup>2</sup> ...]<sup>2</sup> et une période de [<sup>4</sup> recyclage-guidance]<sup>4</sup>.
+
+§ 2. Les professeurs sont tenus de participer aux conseils de classe et de travailler par équipe. Une période leur est attribuée si leurs prestations sont égales ou inférieures à une demi-charge.
+
+Deux périodes leur sont attribuées si leurs prestations sont supérieures à une demi-charge.
+
+§ 3. Les professeurs de cours généraux, de cours spéciaux et de cours philosophiques titulaires d'une fonction à prestations complètes qui exercent au moins 60 % de leur charge dans l'enseignement secondaire spécialisé peuvent se voir attribuer une période consacrée [<sup>4</sup> au recyclage-guidance]<sup>4</sup>.
+
+[<sup>1</sup> Par dérogation à l'alinéa précédent et à l'article 68, § 2, § 3 et § 4, la période consacrée à la guidance ou au recyclage peut être attribuée aux professeurs de cours techniques, aux professeurs de cours techniques et de pratique professionnelle et aux professeurs de pratique professionnelle titulaires d'une fonction à prestations complètes qui exercent au moins 60 % de leur charge dans l'enseignement secondaire spécialisé et qui prestent dans l'enseignement spécialisé adapté aux élèves polyhandicapés, dysphasiques, aphasiques, ou avec autisme tel que prévu à l'article 8bis du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2011-01-13/04, art. 40, 013; En vigueur : 04-03-2011&gt;
+
+(2)&lt;DCFR 2019-03-14/07, art. 39, 037; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 13, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 79
+
+Les chefs d'atelier sont tenus de participer aux conseils de classe des groupes d'élèves des secteurs professionnels relevant de leurs compétences.
+
+Les chefs de travaux d'atelier peuvent participer aux conseils de classe.
+
+#### Art. 80
+
+§ 1er. Le conseil de classe est composé de l'ensemble des membres des personnels directeur et enseignant, auxiliaire d'éducation, paramédical, psychologique et social qui ont la charge de l'instruction, de l'éducation et de la formation d'un groupe d'élèves et qui en portent la responsabilité.
+
+[<sup>2</sup> § 1er bis. Dans le cadre de l'enseignement spécialisé en alternance, le Conseil de classe tel que défini au § 1er est élargi au coordonnateur et/ou l'accompagnateur du Centre d'Education et de Formation en Alternance.]<sup>2</sup>
+
+§ 2. Les missions propres au conseil de classe sont les suivantes :
+
+1° organiser les groupes d'élèves et les unités pédagogiques;
+
+2° décider de l'inscription des élèves dans une des formes d'enseignement secondaire spécialisé;
+
+3° [<sup>1</sup> décider, de manière motivée, du passage d'un élève d'une forme d'enseignement à une autre.]<sup>1</sup>
+
+4° fixer pour chaque éleve la durée des phases d'enseignement dans le respect de l'article 56 du présent décret;
+
+5° délivrer les titres sanctionnant les études à l'exception du certificat de qualification qui est délivré par le jury de qualification;
+
+6° donner un avis sur le passage d'un élève d'un secteur professionnel à un autre;
+
+7° donner son accord pour l'organisation d'une période de stage pendant les congés scolaires conformément à l'article 55, § 2 du présent décret;
+
+8° [<sup>8</sup> ...]<sup>8</sup>
+
+[<sup>6</sup> 9° émettre un avis motivé sur l'opportunité pour un élève de fréquenter une classe SSAS.]<sup>6</sup>
+
+§ 3. Les missions du conseil de classe assisté de l'organisme chargé de la guidance des élèves sont les suivantes :
+
+1° élaborer et ajuster pour chaque élève [<sup>5</sup> dans chaque forme d'enseignement]<sup>5</sup>, un plan individuel d'apprentissage qui coordonne les activités pédagogiques, paramédicales, psychologiques et sociales. [<sup>7</sup> Ce plan individuel d'apprentissage comprend un plan individuel de transition (P.I.T.), tel que défini à l'article 4, § 1er, 30° du même décret, qui tend à établir dès l'inscription, les liens nécessaires entre les différents partenaires en vue d'élaborer et de favoriser le continuum école-vie adulte. Ce P.I.T. relève d'un processus dynamique qui comprend :
+
+\- les caractéristiques du jeune (capacités, aptitudes, compétences et attentes);
+
+\- les demandes et exigences de la vie adulte (secteur de l'emploi, vie associative, centre d'hébergement, centre d'accueil,...);
+
+\- un réexamen permanent du plan d'action;
+
+Le P.I.T. sera adapté périodiquement, notamment, en fonction de l'évolution du jeune en regard de son projet de vie à l'âge adulte.]<sup>7</sup>;
+
+2° évaluer chaque élève de façon formative et continue en ce qui concerne le savoir-être et le savoir-faire transversal en vue d'ajuster le plan individuel d'apprentissage;
+
+3° conformément au chapitre X, émettre un avis motivé sur l'opportunité de l'intégration d'un élève dans l'enseignement ordinaire. Si cet avis est positif, assurer la gestion du projet d'intégration.;
+
+4° émettre un avis motivé sur l'opportunité d'orienter un élève vers l'enseignement ordinaire;
+
+5° émettre un avis motivé en ce qui concerne le maintien dans un niveau d'enseignement déterminé.
+
+[<sup>3</sup> 6° émettre un avis motivé sur l'opportunité d'orienter un élève vers l'enseignement spécialisé en alternance.]<sup>3</sup>
+
+Les avis motivés du conseil de classe et de l'organisme chargé de la guidance des élèves figurent sur un document unique.
+
+§ 4. Le directeur ou son délégué préside le conseil de classe. Les réunions sont organisées de façon à ce que chaque membre puisse assurer ses prestations telles que définies aux articles 68, 69, 78, 79, 80, § 2 et § 3, 101 et 114.
+
+L'horaire des Conseils de classe est soumis a la consultation préalable du comité de concertation de base pour les [<sup>10</sup> écoles]<sup>10</sup> d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les [<sup>10</sup> écoles]<sup>10</sup> d'enseignement officiel subventionnés par la Communauté française ou des [<sup>9</sup> organes locaux de concertation sociale]<sup>9</sup> ou à défaut des délégations syndicales pour les [<sup>10</sup> écoles]<sup>10</sup> d'enseignement libre subventionnés par la Communauté française.
+
+§ 5. Le directeur de classe assure la gestion hebdomadaire du plan individuel d'apprentissage de chacun de ses élèves durant les périodes de conseil de classe prévues dans sa grille horaire. Il rédige, pour chaque réunion du conseil de classe relatif à ses élèves, un procès-verbal qui établit entre autres :
+
+1° la classe;
+
+2° la date, l'heure de début et de fin de la réunion;
+
+3° le nom des membres présents et leur signature;
+
+4° le rapport des points traités;
+
+5° les décisions prises.
+
+Tous les documents relatifs au conseil de classe restent en permanence à l'[<sup>10</sup> école]<sup>10</sup>, à la disposition de l'inspection et du service de vérification de la Communauté française selon leurs compétences respectives.
+
+§ 6. Toutes les décisions du conseil de classe sont prises collégialement.
+
+Le conseil de classe tend à rallier l'unanimité.
+
+Les règles de délibération sont prévues dans le règlement des études.
+
+Les personnels éducatif et paramédical siègent avec voix consultative pour toutes les matières visant l'évaluation certificative.
+
+§ 7. Les constats, informations, interventions présentés lors d'une réunion du conseil de classe ont un caractère strictement confidentiel. La communication de ces données à des personnes extérieures au conseil de classe requiert l'autorisation du directeur.
+
+Les décisions du conseil de classe sont communiquées à l'élève, à ses parents, ou à la personne investie de l'autorité parentale par le directeur ou par son délégué.
+
+§ 8. Selon les modalités fixées par le règlement des études, un conseil de classe exceptionnel peut être organisé pendant les périodes de cours lorsqu'une décision urgente doit être prise à propos d'un élève.
+
+[<sup>4</sup> § 9. L'élève et ses parents ou, à défaut, leur délégué, sont invités à l'élaboration du P.I.A.
+
+§ 10. La transmission de certaines données du P.I.A. est obligatoire. Les données du P.I.A. qui font l'objet d'un transfert ainsi que les modalités de transmission sont arrêtées par le Gouvernement.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 27, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2009-03-26/30, art. 20, 012; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFR 2009-03-26/30, art. 21, 012; En vigueur : 01-09-2009&gt;
+
+(4)&lt;DCFR 2011-01-13/04, art. 41, 013; En vigueur : 04-03-2011&gt;
+
+(5)&lt;DCFR 2012-02-01/14, art. 11, 015; En vigueur : 25-03-2012&gt;
+
+(6)&lt;DCFR 2013-10-17/21, art. 21, 018; En vigueur : 01-09-2013&gt;
+
+(7)&lt;DCFR 2013-10-17/21, art. 22, 018; En vigueur : 01-09-2013&gt;
+
+(8)&lt;DCFR 2014-04-11/28, art. 24, 020; En vigueur : 01-05-2014&gt;
+
+(9)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(10)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 81
+
+Les périodes de travail en équipe peuvent être organisées en équipes disciplinaires ou en équipes interdisciplinaires.
+
+Dans l'enseignement organisé par la Communauté française, le choix du thème des travaux est établi par consensus entre [<sup>1</sup> ...]<sup>1</sup> le directeur et les membres des personnels.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 64, 041; En vigueur : 01-09-2019&gt;
+
+#### Art. 82
+
+Le nombre de périodes attribuables en dehors du capital-périodes pour les directions de classe s'obtient en divisant par 12 le nombre total d'élèves régulièrement inscrits le 15 janvier de l'année scolaire précédente. Ce nombre de périodes peut être modifié chaque fois que le capital-périodes est recalculé.
+
+#### Art. 83
+
+Les périodes de recyclage-guidance doivent permettre de répondre :
+
+1° à un besoin de soutien d'un élève ou de plusieurs élèves,
+
+2° à la mise en place de projets nés à l'initiative de l'équipe éducative,
+
+3° à la diffusion, à l'intention des collègues, des apports pédagogiques et/ou méthodologiques reçus par l'un d'eux lors d'une [<sup>1</sup> formation professionnelle continue]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2021-06-17/28, art. 38, 052; En vigueur : 01-09-2022&gt;
+
+#### Art. 84
+
+Le Directeur est responsable de la réalité des prestations relatives à l'utilisation pédagogique des périodes de direction de classe, de conseil de classe, de travail en équipe et de recyclage-guidance. Il veille à la cohérence et à la qualité des travaux réalisés.
+
+Il tient l'ensemble de ces documents à la disposition des inspecteurs et des vérificateurs de la Communauté française.
+
+### Section 13. - Du calcul de l'encadrement du personnel directeur et enseignant et de son affectation.
+
+#### Art. 85
+
+Le volume des emplois organisés dans les [<sup>2</sup> écoles]<sup>2</sup> de la Communauté française, et celui qui fait l'objet de subventions-traitements dans les [<sup>2</sup> écoles]<sup>2</sup> subventionnées sont déterminés chaque année scolaire et pour chaque [<sup>2</sup> école]<sup>2</sup> selon les normes fixées par le présent décret.
+
+Les élèves pris en considération pour les normes ci-après sont ceux qui sont considérés comme réguliers conformément aux dispositions [<sup>1</sup> des articles 15 et 15bis]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 71, 048; En vigueur : 22-04-2022&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 86
+
+1. Le volume des emplois dans les fonctions de recrutement du personnel enseignant du niveau secondaire organisé ou subventionné par la Communauté française est fixé par un capital-périodes. Ce capital-périodes est fixé annuellement par [<sup>1</sup> école]<sup>1</sup>, pour l'année considérée.
+
+§ 2. Le capital-périodes se calcule en divisant par un nombre guide le produit obtenu par la multiplication du nombre d'élèves pris en considération par type et pour chaque forme d'enseignement par le nombre de périodes hebdomadaires organisées. Si, le nombre d'heures de cours hebdomadaires organisées diffère par grille-horaire, le calcul se fait par grille-horaire et est totalisé pour l'ensemble de la forme concernée.
+
+§ 3. Le capital-périodes attribué à une [<sup>1</sup> école]<sup>1</sup> est égal à la somme des résultats obtenus par type et pour chaque forme d'enseignement. Seule cette somme est arrondie à l'unité supérieure.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 87
+
+Pour l'application de cet article sont pris en considération
+
+1° pour les types [<sup>4</sup> 1, 2, 3, 4, 6, 7 et 8]<sup>4</sup> le nombre d'élèves réguliers inscrits le 15 janvier précédent; [<sup>1</sup> n'est pas considéré comme élève régulier inscrit au 15 janvier de l'année scolaire précédente dans l'école qui l'a exclu, l'élève de l'enseignement [<sup>3</sup> secondaire]<sup>3</sup> qui fait l'objet d'une exclusion définitive à un moment quelconque de l'année scolaire,mais bien dans celle qui, le cas échéant l'accueille après cette décision.]<sup>1</sup>
+
+2° pour le type 5, le nombre déterminé par la moyenne des présences des élèves réguliers :
+
+a) durant l'année précédente, si ce type d'enseignement était organisé pendant cette durée;
+
+b) dans les autres cas, durant les 30 premiers jours à compter à partir du début de l'année ou à partir de la mise en place de ce type d'enseignement.
+
+[<sup>2</sup> 3° Pour les types [<sup>4</sup> 1, 2, 3, 4, 6, 7 et 8]<sup>4</sup>, en cas de programmation d'une implantation, d'une forme d'enseignement ou d'un secteur, le nombre des élèves régulièrement inscrits au 30 septembre dans la nouvelle implantation, la nouvelle forme d'enseignement ou le nouveau secteur est ajouté au comptage des élèves du 15 janvier de l'année scolaire précédente. Ce nouveau total sert de référence lors du contrôle de la variation de la population scolaire du 30 septembre prévu à l'article 88, § 1er.
+
+Cette mesure vaut uniquement pour l'année de programmation.
+
+Ce mode de calcul ne concerne pas les élèves qui ont déjà été comptabilisés à la date du 15 janvier dans l'[<sup>5</sup> école]<sup>5</sup> dont dépend la programmation d'une implantation, d'une forme d'enseignement ou d'un secteur.
+
+4° Pour le type 5, en cas de programmation d'une implantation ou d'une forme d'enseignement la moyenne des présences des élèves dans la nouvelle implantation ou la nouvelle forme durant les 30 premiers jours à compter à partir du début de l'année scolaire est ajoutée[<sup>3</sup> à la moyenne]<sup>3</sup> de l'année scolaire précédente. Ce nouveau total sert de référence lors du contrôle de la variation de la population scolaire du 30 septembre prévu à l'article 88, § 1er.
+
+Cette mesure vaut uniquement pour l'année de programmation.
+
+Dans les cas visés aux 3° et 4°, le capital-périodes est calculé sur base du nombre d'élèves régulièrement inscrits dans l'école le 30 septembre de l'année scolaire en cours. L'encadrement ainsi calculé est d'application pour l'année de programmation.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2007-03-08/52, art. 9, 005; En vigueur : 01-01-2007&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 12, 015; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2018-07-11/16, art. 15, 035; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFR 2019-05-03/38, art. 65, 041; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 88
+
+§ 1er. Un nouveau calcul de l'encadrement est réalisé le 1er octobre si la population au 30 septembre a varié d'au moins 5 % par rapport à celle du 15 janvier précédent.
+
+Pour ce nouveau capital-périodes, sont pris en considération les élèves satisfaisant à l'article 85, alinéa 2.
+
+§ 2. Dans le courant de l'année scolaire, un capital-périodes peut être recalculé et utilisé, chaque fois que la population scolaire augmente de 10 % par rapport à celle qui a servi la dernière fois de base pour la détermination de ce capital-périodes.
+
+Pour les types [<sup>1</sup> 1, 2, 3, 4, 6, 7 et 8]<sup>1</sup> d'enseignement, cet accroissement n'est pris en compte que si l'augmentation du nombre d'élèves pendant 10 jours de classe consécutifs correspond au moins à 10 %.
+
+§ 3. Pour le type 5 d'enseignement cet accroissement de 10 % doit être déterminé par la moyenne des présences pendant une période d'au moins 20 jours de classe consécutifs.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 66, 041; En vigueur : 01-09-2019&gt;
+
+#### Art. 89
+
+§ 1er. Dans le cas de circonstances particulières, [<sup>1</sup> le Gouvernement ou son délégué peut]<sup>1</sup> accorder des dérogations aux normes contenues dans le présent décret. [<sup>1</sup> L'autorité ministérielle compétente est chargée de transmettre annuellement au Gouvernement un relevé des dérogations accordées par ses services.]<sup>1</sup>
+
+§ 2. Ces dérogations ne peuvent pas correspondre par réseau d'enseignement à plus de 0,25 % du nombre total de périodes utilisables l'année précédente à chaque réseau d'enseignement. [<sup>1</sup> Pour chaque année scolaire, Wallonie-Bruxelles Enseignement et les Fédérations des pouvoirs organisateurs transmettent aux Services du Gouvernement les propositions de dérogations introduites par les pouvoirs organisateurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 4, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 90
+
+Les fonctions de recrutement peuvent être attribuées aussi bien à temps plein qu'à temps partiel.
+
+#### Art. 91
+
+§ 1er. Les nombres guides par forme et par type d'enseignement sont fixés comme suit :
+
+1° Enseignement de type 2 et de forme 1 : 6
+
+2° Enseignement de type 3 et de forme 1 : 6
+
+3° Enseignement de type 4 et de forme 1 : 6
+
+4° Enseignement de type 5 et de forme 1 : 5
+
+5° Enseignement de type 6 et de forme 1 : 5
+
+6° Enseignement de type 7 et de forme 1 : 5
+
+7° Enseignement de type 2 et de forme 2 : 7
+
+8° Enseignement de type 3 et de forme 2 : 7
+
+9° Enseignement de type 4 et de forme 2 : 6
+
+10° Enseignement de type 5 et de forme 2 : 5
+
+11° Enseignement de type 6 et de forme 2 : 5
+
+12° Enseignement de type 7 et de forme 2 : 5
+
+13° Enseignement de type 1 et de forme 3 : 7
+
+14° Enseignement de type 3 et de forme 3 : 7
+
+15° Enseignement de type 4 et de forme 3 : 6
+
+16° Enseignement de type 5 et de forme 3 : 5
+
+17° Enseignement de type 6 et de forme 3 : 5
+
+18° Enseignement de type 7 et de forme 3 : 5
+
+[<sup>1</sup> 18° bis Enseignement de type 8 et de forme 3 : 7]<sup>1</sup>
+
+19° Enseignement de type 3 et de forme 4 : 5
+
+20° Enseignement de type 4 et de forme 4 : 5
+
+21° Enseignement de type 5 et de forme 4 : 5
+
+22° Enseignement de type 6 et de forme 4 : 5
+
+23° Enseignement de type 7 et de forme 4 : 5
+
+§ 2. Le regroupement d'élèves ne peut donner lieu à la constitution de "groupes" ou "classes" comptant plus d'élèves que le double du nombre guide. Si des groupes d'élèves de différents types d'enseignement sont réunis, le nombre guide le plus élevé est pris en considération.
+
+Pour les regroupements d'eleves de forme 3 et de forme 4, le nombre-guide le moins élevé est pris en considération.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 67, 041; En vigueur : 01-09-2019&gt;
+
+#### Art. 91bis
+
+&lt;Abrogé par DCFR 2018-12-12/21, art. 29, 036; En vigueur : 01-01-2019&gt;
+
+#### Art. 92
+
+La charge d'enseignement que doit exercer le directeur fait partie du capital-périodes.
+
+#### Art. 93
+
+Les périodes attribuées aux professeurs de religion et de morale non confessionnelle lorsque les cours dont ils sont chargés ne sont pas le cours philosophique le plus suivi ne font pas partie du capital-périodes.
+
+#### Art. 94
+
+Le nombre de groupes pour les cours de religion ou de morale non confessionnelle est déterminé sur base du nombre total d'élèves du cours le plus suivi, divisé par le nombre guide par type et par forme d'enseignement comme déterminé à l'article 91.
+
+#### Art. 94bis
+
+[<sup>1</sup> § 1er. Dans les [<sup>3</sup> écoles]<sup>3</sup> d'enseignement secondaire spécialisé organisé par la Communauté française et les [<sup>3</sup> écoles]<sup>3</sup> d'enseignement secondaire spécialisé de l'enseignement officiel subventionné et de l'enseignement libre non confessionnel subventionné qui offrent le choix entre les différents cours de religion ou de morale non confessionnelle, un cours de morale non confessionnelle, de religion ou de philosophie et de citoyenneté lorsque les élèves sont dispensés du cours de religion ou de morale, est organisé dès qu'un élève est inscrit dans un de ces cours, conformément à l'article 8 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement. Le cas échéant, le cours est créé ou supprimé dans le courant de l'année scolaire.
+
+Ce cours est dans l'horaire continu des périodes hebdomadaires obligatoires.
+
+Le nombre de groupes, applicable du 1er octobre au 30 septembre suivant est fixé, pour le cours le plus suivi, sur la base du nombre total d'élèves du cours le plus suivi, divisé par le nombre guide du type d'enseignement comme déterminé à l'article 91 du présent décret.
+
+§ 2. Le nombre de groupes du cours le plus suivi est multiplié par deux pour déterminer le nombre de périodes qui font partie du capital-périodes utilisable.
+
+Ce nombre est multiplié par le nombre de cours organisés pour connaître le nombre maximal de périodes qui peuvent être utilisées pour l'organisation des différents cours de religion, de morale non confessionnelle et de philosophie et de citoyenneté.
+
+§ 3. Le cours de morale non confessionnelle, de religion ou de philosophie et de citoyenneté lorsque les élèves sont dispensés du cours de religion ou de morale, est organisé par groupe.
+
+Un groupe comprend une période de cours.
+
+§ 4. Pour les [<sup>3</sup> écoles]<sup>3</sup> visées au § 1er, le nombre de périodes pour le cours de philosophie et de citoyenneté dispensé à tous les élèves conformément à l'article 8, alinéa 4, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, correspond au nombre de classes.
+
+§ 5. Au-delà des périodes nécessaires à l'organisation des différents cours de religion, de morale non confessionnelle et de philosophie et de citoyenneté, ne peuvent être prélevées du nombre maximal de périodes que les périodes nécessaires au maintien du volume de charge équivalent aux attributions au 30 juin 2017, des maîtres de religion et de morale non confessionnelle, définitifs ou temporaires prioritaires, conformément à l'ordre de priorité défini au titre II du présent décret, et, à défaut, conformément aux règles du statut administratif dont relève le membre du personnel.
+
+Le nombre maximal de périodes visé au paragraphe 2, alinéa 2, ne peut être utilisé que pour l'encadrement des cours de religion, de morale non confessionnelle et de philosophie et de citoyenneté.
+
+Les périodes de cours excédentaires ne peuvent en aucun cas faire l'objet d'un transfert vers le personnel enseignant ou vers d'autres catégories de personnel.
+
+Pour les [<sup>3</sup> écoles]<sup>3</sup> de l'enseignement organisé par la Communauté française, de l'enseignement officiel subventionné et de l'enseignement libre non confessionnel qui offrent le choix entre les différents cours de religion ou de morale non confessionnelle, des périodes supplémentaires sont octroyées automatiquement pour tout membre du personnel engagé ou désigné en qualité de professeur de cours de philosophie et de citoyenneté dans le cadre des mesures définies par la section VII du chapitre II du Titre III du décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française et par les dispositions transitoires reprises au chapitre XI quater de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant et du chapitre X ter l'arrêté royal du 25 octobre 1971 fixant le statut des maîtres et des professeurs de religion, pour l'enseignement organisé par la Communauté française, en vue de l'obtention du certificat en didactique du cours de philosophie et de citoyenneté. Ces périodes seront octroyées lors de chaque année scolaire jusqu'au 30 juin 2021, à raison de 2 périodes par membre du personnel.
+
+Lorsque le membre du personnel exerce à la fois la fonction de professeur de philosophie et citoyenneté et la fonction de professeur de morale non confessionnelle ou religion, ces deux périodes sont prises prioritairement dans ses attributions en qualité de professeur de morale non confessionnelle ou religion au sein du pouvoir organisateur concerné.
+
+Si les périodes ne sont pas prises dans lesdites attributions, le membre du personnel doit avoir été engagé ou désigné au minimum pour trois périodes dans le Pouvoir organisateur au 1er septembre de l'année scolaire en cours en qualité de professeur de cours de philosophie et de citoyenneté.
+
+Dans ces deux cas, le membre du personnel continue à effectivement prester en qualité de professeur de philosophie et citoyenneté au sein du Pouvoir organisateur concerné au moins 1 période, sauf en cas d'absence pour cause de maternité, maladie, incapacité de travail causée par un accident de travail, et pour les congés suivants : congé pour interruption complète ou partielle de la carrière professionnelle lors de la naissance ou de l'adoption d'un enfant, dans le cadre du congé parental ; congé pour interruption complète ou partielle de la carrière professionnelle pour donner des soins palliatifs ; congé pour interruption complète ou partielle de la carrière professionnelle pour assister un membre du ménage ou de la famille gravement malade ou lui octroyer des soins.
+
+Le [<sup>4</sup> directeur]<sup>4</sup>, pour l'enseignement organisé par la Communauté française, ou le Pouvoir organisateur, pour l'enseignement officiel subventionné et pour l'enseignement libre non confessionnel, introduit auprès de l'administration un document justifiant de l'utilisation de ces périodes supplémentaires pour le remplacement du membre du personnel concerné. Ces périodes seront attribuées, selon le cas, à l'[<sup>3</sup> école]<sup>3</sup> ou au Pouvoir organisateur, auprès duquel le membre du personnel concerné a la charge la plus importante. Dans le cas où la charge du membre du personnel est égale dans chacun des Pouvoirs organisateurs concernés, le choix de l'emploi concerné par ce remplacement revient au membre du personnel.
+
+Par dérogation à l'alinéa précédent, ces périodes peuvent être attribuées à une autre [<sup>3</sup> école]<sup>3</sup> ou Pouvoir organisateur, lorsque l'attribution de ces périodes permet de réduire le nombre d'implantations dans lesquelles le membre du personnel exerce effectivement ses fonctions.
+
+En outre, lorsque les périodes octroyées en application des dispositions ci-avant ne permettent pas d'attribuer, au sein de l'[<sup>3</sup> école]<sup>3</sup>, pour l'enseignement organisé par la Communauté française, ou au sein du Pouvoir organisateur, pour l'enseignement subventionné par la Communauté française, aux membres du personnel définitifs, temporaires prioritaires ou stagiaires, ou temporaires stagiaires, un volume de charge horaire équivalent à leurs attributions au 30 juin 2017, conformément à l'ordre de priorité défini par la section VII du chapitre II du Titre III du décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française et par les dispositions transitoires reprises au chapitre XIquater de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant et du chapitre Xter l'arrêté royal du 25 octobre 1971 fixant le statut des maîtres et des professeurs de religion, pour l'enseignement organisé par la Communauté française, et, à défaut, conformément aux règles du statut administratif dont relève le membre du personnel, le chef d'[<sup>3</sup> école]<sup>3</sup>, pour l'enseignement organisé par la Communauté française, ou le Pouvoir organisateur, pour l'enseignement officiel subventionné et pour l'enseignement libre non confessionnel, introduit, auprès de l'Administration, un document justifiant qu'il utilise, pour ce faire, un nombre déterminé de périodes supplémentaires dont il précisera l'affectation conformément aux dispositions visées ci-après.
+
+Les périodes visées à l'alinéa précédent seront utilisées exclusivement pour permettre :
+
+1\) l'organisation d'activités, dans le cadre du cours de philosophie et de citoyenneté, au sein d'une même [<sup>3</sup> école]<sup>3</sup> ;
+
+2\) l'organisation d'activités de coordination pédagogique ou de concertation.
+
+Des périodes supplémentaires sont également attribuées au membre du personnel définitif, temporaire prioritaire ou stagiaire qui, malgré l'application préalable des dispositions énumérées ci-avant, n'a pas retrouvé un volume de charge horaire équivalent à ses attributions au 30 juin 2017 ou qui devrait effectuer des prestations dans plus de 6 implantations tous Pouvoirs organisateurs confondus. Ces périodes sont octroyées à l'[<sup>3</sup> école]<sup>3</sup> ou au Pouvoir Organisateur, selon le cas, auprès duquel le volume de charge horaire du membre du personnel concerné est le plus important au 30 juin 2017. Le chef d'[<sup>3</sup> école]<sup>3</sup>, pour l'enseignement organisé par la Communauté française, ou le Pouvoir organisateur, pour l'enseignement officiel subventionné et pour l'enseignement libre non confessionnel, doit introduire auprès de l'administration un document justifiant de l'utilisation de ces périodes supplémentaires dont il précisera l'affectation par implantation conformément aux dispositions visées ci-après.
+
+Le membre du personnel concerné est affecté aux tâches suivantes :
+
+1° organisation et surveillance d'activités au sein de la médiathèque ;
+
+2° encadrement des cours de religion, de morale non confessionnelle et de philosophie et de citoyenneté ;
+
+3° organisation d'activités de coordination pédagogique ou de concertation ;
+
+4° accompagnement d'activités de groupes d'élèves à l'extérieur de l'[<sup>3</sup> école]<sup>3</sup>.
+
+L'utilisation de ces périodes supplémentaires est autorisée [<sup>2</sup> dès le premier jour de l'année scolaire et ce jusqu'au dernier jour de celle-ci ]<sup>2</sup>. Cette utilisation est de la compétence du pouvoir organisateur dans l'enseignement subventionné par la Communauté française, et du chef d'[<sup>3</sup> école]<sup>3</sup> dans l'enseignement organisé par la Communauté française. Elle est soumise à l'avis préalable, dans l'enseignement organisé par la Communauté française, du comité de concertation de base, dans l'enseignement officiel subventionné par la Communauté française, de la commission paritaire locale, et dans l'enseignement libre subventionné par la Communauté française, du conseil d'entreprise ou, à défaut, de la délégation syndicale, avec droit d'évocation du bureau de conciliation en cas de désaccord.
+
+Les services prestés dans le cadre des périodes supplémentaires visées au présent paragraphe sont en tous points assimilés aux services prestés dans le cadre organique. Les emplois ainsi créés peuvent donner lieu à nomination ou engagement à titre définitif.
+
+§ 6. Les implantations organisent les cours de religion, de morale non confessionnelle, de philosophie et de citoyenneté et la 2ème période liée à la dispense dès le 1er septembre 2017.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-07-19/35, art. 16, 030; En vigueur : 01-09-2017&gt; (NOTE : par son arrêt n° 51-2020 du 23-04-2020 (M.B. 20-05-2020, p. 36722), la Cour constitutionnelle a annulé l'art. 94bis, §5, L4-L9, maintient définitivement les effets des dispositions annulées jusque et y compris l'année scolaire 2019-2020)
+
+(2)&lt;DCFR 2022-03-31/35, art. 77, 048; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 95
+
+§ 1er. Les prestations des membres du personnel directeur et enseignant titulaires d'une fonction de promotion ou de sélection ne font pas partie du capital-périodes.
+
+§ 2. Les périodes de conseil de classe, de direction de classe, de travail en équipe, [<sup>1</sup> de recyclage-guidance]<sup>1</sup> attribuées dans le cadre des règles énoncées aux articles 78 et 82 ne font pas partie du capital-périodes.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 14, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 96
+
+Après consultation préalable du comité de concertation de base pour les [<sup>5</sup> écoles]<sup>5</sup> d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les [<sup>5</sup> écoles]<sup>5</sup> d'enseignement officiel subventionnés par la Communauté française ou des [<sup>4</sup> organes locaux de concertation sociale]<sup>4</sup> ou à défaut des délégations syndicales pour les [<sup>5</sup> écoles]<sup>5</sup> d'enseignement libre subventionnés par la Communauté française, vingt-quatre périodes-professeurs au maximum peuvent être [<sup>6</sup> prélevées sur le reliquat et]<sup>6</sup> consacrées à un encadrement supplémentaire, à raison de l'équivalent d'un emploi [<sup>1</sup> à mi-temps ou]<sup>1</sup> à prestations complètes [<sup>3</sup> d'éducateur]<sup>3</sup> ou [<sup>6</sup> toute fonction du personnel paramédical, social et psychologique]<sup>6</sup> si et seulement si ce prélèvement n'entraîne pas de mise en disponibilité par défaut d'emploi ou une perte partielle de charge.
+
+Le transfert de périodes-professeurs visé à l'alinéa 1er cesse d'être facultatif dans le chef de l'[<sup>5</sup> école]<sup>5</sup> qui y a recouru pendant trois années scolaires consécutives pour créer une fonction supplémentaire de [<sup>2</sup> éducateur]<sup>2</sup> ou [<sup>6</sup> toute fonction du personnel paramédical, social et psychologique]<sup>6</sup> [<sup>1</sup> à mi-temps ou]<sup>1</sup> à prestations complètes.
+
+L'alinéa 2 cesse d'être applicable [<sup>6</sup> ...]<sup>6</sup> lorsque le membre du personnel concerné est mis à la retraite, démissionne ou bénéficie d'un changement d'affectation ou d'une mutation.
+
+Pour l'application des dispositions statutaires, il n'est en aucun cas opéré de distinction entre les [<sup>3</sup> éducateurs]<sup>3</sup> et/ou [<sup>6</sup> les titulaires d'une fonction du personnel paramédical, social et psychologique]<sup>6</sup> selon que la fonction qu'ils exercent est creée ou subventionnee en vertu de l'alinéa 2 ou en vertu des chapitres VI ou VII du présent décret.
+
+[<sup>1</sup> Une nomination ou un engagement à titre définitif ne pourra être accordé que dans un emploi à mi-temps ou à prestations complètes créé sur base de l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2012-02-01/14, art. 13, 015; En vigueur : 25-03-2012&gt;
+
+(2)&lt;DCFR 2014-04-11/37, art. 253, 027; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 68, 041; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 15, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 97
+
+Dans chaque [<sup>2</sup> école]<sup>2</sup> d'enseignement secondaire spécialisé sont assurés, dans les limites du capital-périodes utilisable et après avoir organisé tous les cours prévus aux grilles-horaires des élèves, [<sup>1</sup> la coordination des projets d'intégration]<sup>1</sup>, l'accueil, l'observation et la prise en charge temporaire des nouveaux élèves, l'accompagnement d'élèves en difficulté momentanée, la médiation et/ou la coordination pédagogique [<sup>1</sup> , la mise en oeuvre du plan individuel de transition]<sup>1</sup>. Ces tâches peuvent être assurées par un ou plusieurs membres du personnel enseignant du niveau secondaire dans le respect des règles statutaires.
+
+----------
+
+(1)&lt;DCFR 2013-10-17/21, art. 23, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 97bis
+
+&lt;Abrogé par DCFR 2021-06-17/29, art. 3, 047; En vigueur : 01-09-2021&gt;
+
+#### Art. 98
+
+Le nombre de périodes restantes après imputation au capital-périodes des périodes attribuées à chaque membre du personnel enseignant de niveau secondaire, conformément aux règles énoncées dans la présente Section, constitue le reliquat.
+
+## CHAPITRE VI. - Du personnel paramédical, social et psychologique.
+
+### Section 1re. - De l'horaire du personnel paramédical, social et psychologique.
+
+#### Art. 99
+
+Les logopèdes [<sup>4</sup> et les orthopédagogues cliniciens]<sup>4</sup> assurent 30 [<sup>2</sup> ...]<sup>2</sup> périodes de 50 minutes par semaine. Les kinésithérapeutes, [<sup>1</sup> les ergothérapeutes,]<sup>1</sup> les puériculteurs [<sup>3</sup> , les orthoptistes]<sup>3</sup> et les infirmiers [<sup>4</sup> et les aides-soignants]<sup>4</sup> assurent 32 [<sup>2</sup> ...]<sup>2</sup> périodes de 50 minutes par semaine. Les assistants sociaux et les psychologues assurent 36 [<sup>2</sup> ...]<sup>2</sup> périodes de 50 minutes par semaine.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/37, art. 254, 027; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2019-03-14/07, art. 40, 037; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2023-07-20/47, art. 51, 057; En vigueur : 28-08-2023&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 16, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 100
+
+[<sup>1</sup> Les périodes consacrées au travail collaboratif visé à l'article 19 du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs sont comprises dans les prestations telles que définies à l'article 99.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 41, 037; En vigueur : 01-09-2019&gt;
+
+#### Art. 101
+
+[<sup>1</sup> Les membres du personnel paramédical, social et psychologique sont tenus de remplir les missions suivantes, en plus des périodes visées à l'article 99 :
+
+1\. sur la base d'un calendrier annuel ou trimestriel fixé anticipativement, la participation aux réunions entre membres de l'équipe éducative et parents;
+
+2\. la participation durant les heures scolaires aux activités socioculturelles et sportives en lien avec le projet d'[<sup>2</sup> école]<sup>2</sup>;
+
+3\. la participation aux conseils de classe fixés anticipativement dans un calendrier annuel ou trimestriel;
+
+4\. les autres services rentrant dans les prestations nécessaires à la bonne marche des [<sup>2</sup> écoles]<sup>2</sup> visées aux articles 17 et 17bis du décret du 1er février 1993 fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné, 10 et 10bis du décret du 6 juin 1994 fixant le statut des membres du personnel subsidiés de l'enseignement officiel subventionné et 9 et 9bis de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des [<sup>2</sup> écoles]<sup>2</sup>, gardien, primaire, spécialisé, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendant de ces [<sup>2</sup> écoles]<sup>2</sup> et des membres du personnel du service d'inspection chargé de la surveillance de ces [<sup>2</sup> écoles]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 42, 037; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 2. - Du calcul de l'encadrement du personnel paramédical, social et psychologique et de son affectation.
+
+#### Art. 102
+
+§ 1er. Dans les [<sup>3</sup> écoles]<sup>3</sup> spécialisées, la catégorie du personnel paramédical comprend les fonctions d'infirmier, de kinésithérapeute, [<sup>1</sup> d'ergothérapeute,]<sup>1</sup> de logopède [<sup>2</sup> , d'orthoptiste]<sup>2</sup> [<sup>4</sup> , d'orthopédagogue clinicien et d'aide-soignant, ]<sup>4</sup> et de puériculteur.
+
+La catégorie du personnel social comprend la fonction d'assistant social.
+
+La catégorie du personnel psychologique comprend la fonction de psychologue.
+
+§ 2. Le volume des emplois du personnel paramédical, du personnel social et du personnel psychologique dans les [<sup>3</sup> écoles]<sup>3</sup> spécialisées est déterminé selon les normes fixées par le présent décret.
+
+§ 3. Les élèves pris en considération pour les normes ci-après sont ceux qui, régulièrement inscrits le 15 janvier précédent, sont considérés comme élèves réguliers conformément aux dispositions des articles 12, 13, 14 et 15.
+
+§ 4. Les élèves pris en charge par les Services d'Aide à l'Intégration de la Région wallonne ou les services d'accompagnement de la Région de Bruxelles-Capitale sont comptabilisés au même titre que les autres élèves externes.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/37, art. 255, 027; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2023-07-20/47, art. 52, 057; En vigueur : 28-08-2023&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 17, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 103
+
+Sans préjudice à l'article 102, § 4 et par dérogation à l'article 102, § 3 ne sont pas pris en considération les élèves qui, soit :
+
+1° sont inscrits dans un internat, un semi-internat, un service résidentiel, ou un centre d'hébergement;
+
+2° suivent un enseignement spécialisé dispensé à domicile;
+
+3° séjournent dans une institution médicale ou un hôpital et fréquentent l'enseignement de type 5 sauf dérogation accordée par le Gouvernement pour des élèves externes en raison de leur handicap;
+
+4° sont soumis, pendant les heures d'ouverture de l'[<sup>2</sup> école]<sup>2</sup>, à des traitements thérapeutiques ou de revalidation effectués par des personnes dont l'emploi n'est pas organisé ou subventionné par la Communauté française.
+
+Les élèves visés au 1° de l'alinéa 1er pour lesquels l'école a introduit une demande motivée à l'Administration peuvent être comptabilisés après décision du Gouvernement.
+
+[<sup>1</sup> Les élèves visés au 3° de l'alinéa 1er peuvent bénéficier de l'encadrement du personnel paramédical, social et psychologique uniquement dans le cadre de l'utilisation des reliquats visés à l'article 165.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/48, art. 11, 055; En vigueur : 28-08-2023&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 104
+
+Le volume des emplois du personnel paramédical, du personnel social et du personnel psychologique organisés ou subventionnés par la Communauté française dans les [<sup>1</sup> écoles]<sup>1</sup> spécialisées est fixé par un capital-périodes. Ce capital-périodes est fixé annuellement par [<sup>1</sup> école]<sup>1</sup>, pour l'année scolaire considérée.
+
+Pour obtenir le nombre de périodes attribuées pour les élèves d'un même type fréquentant le même niveau, on multiplie le nombre d'élèves par un nombre guide.
+
+Le capital-périodes attribué à l'[<sup>1</sup> école]<sup>1</sup> est la somme des produits obtenus arrondie à l'unité supérieure.
+
+Les fonctions de recrutement peuvent être attribuées aussi bien à temps plein qu'à temps partiel.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 104bis
+
+[<sup>1</sup> 1° Pour les types 1, 2, 3, 4, 6, [<sup>2</sup> 7 et 8,]<sup>2</sup> en cas de programmation d'une implantation, d'un type d'enseignement, d'une forme d'enseignement ou d'un secteur, le nombre des élèves régulièrement inscrits au 30 septembre dans la nouvelle implantation, le nouveau type d'enseignement, la nouvelle forme d'enseignement ou le nouveau secteur est ajouté au comptage des élèves du 15 janvier de l'année scolaire précédente.
+
+Ce nouveau total sert de référence lors du contrôle de la variation de la population scolaire du 30 septembre prévu à l'article 105, alinéa 1er. Cette mesure vaut uniquement pour l'année de programmation.
+
+Ce mode de calcul ne concerne pas les élèves qui ont déjà été comptabilisés à la date du 15 janvier dans l'[<sup>3</sup> école]<sup>3</sup> dont dépend la programmation d'une implantation, d'un type d'enseignement, d'une forme d'enseignement ou d'un secteur.
+
+2° Pour le type 5, en cas de programmation d'une implantation ou d'une forme d'enseignement la moyenne des présences des élèves dans la nouvelle implantation ou la nouvelle forme durant les 30 premiers jours à compter à partir du début de l'année scolaire est ajoutée au comptage des élèves du 15 janvier de l'année scolaire précédente.
+
+Ce nouveau total sert de référence lors du contrôle de la variation de la population scolaire du 30 septembre prévu à l'article 105, alinéa 1er. Cette mesure vaut uniquement pour l'année de programmation.
+
+Dans les cas visés aux 1° et 2°, le capital-périodes est calculé sur base du nombre d'élèves régulièrement inscrits dans l'école le 30 septembre de l'année scolaire en cours. L'encadrement ainsi calculé est d'application pour l'année de programmation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-02-01/14, art. 14, 015; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2013-10-17/21, art. 24, 018; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 105
+
+Un nouveau calcul de l'encadrement est réalisé le 1er octobre si la population scolaire du 30 septembre a varié d'au moins 5 % par rapport a celle du 15 janvier précédent.
+
+Dans le courant de l'année scolaire, le capital-périodes peut être recalculé et utilisé chaque fois que la population scolaire augmente d'au moins 10 % par rapport à celle qui a servi la dernière fois de base pour la détermination du capital-périodes correspondant.
+
+Cet accroissement n'est pris en compte que si l'augmentation du nombre d'élèves correspond, pendant 10 jours de classe consécutifs, à au moins 10 %.
+
+#### Art. 106
+
+Dans le cas de circonstances particulières, [<sup>1</sup> le Gouvernement ou son délégué peut]<sup>1</sup> accorder des dérogations aux normes contenues dans le présent décret. [<sup>1</sup> L'autorité ministérielle compétente est chargée de transmettre annuellement au Gouvernement un relevé des dérogations accordées par ses services.]<sup>1</sup>
+
+Ces dérogations ne peuvent pas correspondre, par réseau d'enseignement, à plus de 0,25 % du nombre total de périodes utilisables l'année scolaire précédente pour chaque réseau d'enseignement. [<sup>1</sup> Pour chaque année scolaire, Wallonie-Bruxelles Enseignement et les Fédérations des pouvoirs organisateurs transmettent aux Services du Gouvernement les propositions de dérogations introduites par les pouvoirs organisateurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 4, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 107
+
+Les nombres guides sont déterminés comme suit :
+
+1° dans l'enseignement du type 1 du niveau primaire : 1;
+
+2° dans l'enseignement du type 1 du niveau secondaire : 0,5;
+
+3° dans l'enseignement du type 2 du niveau fondamental : 3,9;
+
+4° dans l'enseignement du type 2 du niveau secondaire : 1,5;
+
+5° dans l'enseignement du type 3 du niveau fondamental : 0,7;
+
+6° dans l'enseignement du type 3 du niveau secondaire : 0,3;
+
+7° dans l'enseignement du type 4 du niveau fondamental : 5;
+
+8° dans l'enseignement du type 4 du niveau secondaire : 3,5;
+
+9° dans l'enseignement du type 5 des niveaux fondamental et secondaire : 1;
+
+10° dans l'enseignement du type 6 du niveau fondamental : 1,7;
+
+11° dans l'enseignement du type 6 du niveau secondaire : 1,5;
+
+12° dans l'enseignement du type 7 du niveau fondamental : 2,9;
+
+13° dans l'enseignement du type 7 du niveau secondaire : 1,6;
+
+14° dans l'enseignement du type 8 du niveau primaire : 1.
+
+[<sup>1</sup> 15° dans l'enseignement du type 8 du niveau secondaire : 0,5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 69, 041; En vigueur : 01-09-2019&gt;
+
+#### Art. 108
+
+Le nombre de périodes restantes après imputation au capital-périodes des périodes attribuées à chaque membre des personnels paramédical, social et psychologique, conformément aux règles énoncées dans le présent chapitre, constitue le reliquat.
+
+#### Art. 108bis
+
+[<sup>1</sup> Dans chaque [<sup>2</sup> école]<sup>2</sup> spécialisée peuvent être assurés, dans les limites du capital-périodes utilisable des périodes réservées à la coordination des projets d'intégration, à la coordination et à la mise en oeuvre du Plan Individuel de Transition. Ces tâches peuvent être assurées par un ou plusieurs membres du personnel paramédical, social et psychologique dans le respect des règles statutaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 25, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 3. [<sup>1</sup> De l'utilisation du capital-périodes paramédical, social et psychologique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/79, art. 6, 060; En vigueur : 02-08-2024&gt;
+
+#### Art. 108ter
+
+[<sup>1</sup> Le pouvoir organisateur, décide annuellement de l'utilisation de l'encadrement de l'[<sup>2</sup> école]<sup>2</sup> pour le personnel paramédical, social et psychologique, en fonction des besoins spécifiques des élèves de l'école d'enseignement spécialisé, après concertation avec les organes locaux de concertation sociale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/79, art. 7, 060; En vigueur : 02-08-2024&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 108quater
+
+[<sup>1</sup> En cas d'absence en cours d'année scolaire d'un membre du personnel paramédical, social et psychologique, le pouvoir organisateur est tenu de remplacer, dans le respect des règles statutaires, le membre du personnel par un membre du personnel exerçant la même fonction.
+
+Par dérogation, le pouvoir organisateur, qui ne peut, en raison de la pénurie, pourvoir au remplacement du membre du personnel absent par un membre du personnel exerçant la même fonction, produit une pièce justificative visée aux articles 29 et 29bis du décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française attestant de l'absence de candidats répondant à la déclaration d'emploi. Dans ce cas, après avis des organes locaux de concertation sociale, le pouvoir organisateur peut remplacer, dans le respect des règles statutaires, le membre du personnel absent par un membre du personnel exerçant une autre fonction de la catégorie du personnel paramédical, social ou psychologique. La pièce justificative et l'avis sont transmis aux services du Gouvernement.
+
+Les mesures visées par les alinéas 1 et 2 sont d'application pour tout remplacement d'au moins 10 jours ouvrables. L'application de cette disposition ne peut entraîner de modification du capital-périodes et/ou de mise en disponibilité par défaut d'emploi ou de perte partielle de charge.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/79, art. 8, 060; En vigueur : 02-08-2024&gt;
+
+#### Art. 108quinquies
+
+[<sup>1</sup> Le pouvoir organisateur qui envisage de modifier l'encadrement de l'[<sup>2</sup> école]<sup>2</sup> pour le personnel paramédical, social et psychologique pour l'année scolaire suivante concerte préalablement les organes locaux de concertation sociale.
+
+Lorsque cette modification a pour effet prévisible la perte partielle de charge ou la mise en disponibilité par défaut d'emploi d'un membre du personnel définitif, celle-ci est soumise à l'autorisation préalable de la Commission centrale de gestion des emplois compétente pour l'enseignement subventionné par la Communauté française ou à l'avis favorable préalable de la Commission interzonale d'affectation pour l'enseignement organisé par la Communauté française. La demande doit être introduite avant le 1er juin. Le procès-verbal de concertation est joint à cette demande]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-05-16/79, art. 9, 060; En vigueur : 02-08-2024&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE VII. - Du personnel administratif et auxiliaire d'éducation.
+
+### Section 1re. - De l'horaire du personnel administratif et auxiliaire d'éducation.
+
+#### Art. 109
+
+Dans les [<sup>2</sup> écoles]<sup>2</sup> fondamentales spécialisées organisées par la Communauté française, [<sup>1</sup> les membres du personnel administratif assurent]<sup>1</sup> soit 38 heures de prestations par semaine si l'école compte au moins 100 élèves au 15 janvier précédent soit 15 heures de prestations par semaine si l'école compte moins de 100 élèves à cette même date.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/92, art. 56, 011; En vigueur : 01-07-2009&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 110
+
+[<sup>1</sup> Dans les [<sup>2</sup> écoles]<sup>2</sup> spécialisées organisées ou subventionnées par la Communauté française, les membres du personnel auxiliaire d'éducation assurent 36 heures de prestations par semaine.
+
+Dans les [<sup>2</sup> écoles]<sup>2</sup> secondaire spécialisées organisées ou subventionnées par la Communauté française, les membres du personnel administratif assurent 38 heures de prestations par semaine.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 28, 009; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 110bis
+
+[<sup>1</sup> Les périodes consacrées au conseil de classe et au travail collaboratif sont comprises dans les prestations telles que définies à l'article 110, alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 43, 037; En vigueur : 01-09-2019&gt;
+
+#### Art. 110ter
+
+[<sup>1</sup> Les éducateurs exerçant une fonction à prestations complètes sont tenus d'accomplir 60 périodes de travail collaboratif par année scolaire dans l'enseignement maternel et secondaire, et au moins 60 périodes de travail collaboratif dans l'enseignement primaire.
+
+S'ils exercent une fonction à prestations incomplètes, leur volume de travail collaboratif est proportionnellement réduit.
+
+Les périodes consacrées au travail collaboratif sont comprises dans les prestations telles que définies à l'article 110, alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/07, art. 44, 037; En vigueur : 01-09-2019&gt;
+
+### Section 2. - Des fonctions organisées dans l'enseignement fondamental.
+
+#### Art. 111
+
+Dans la catégorie du personnel administratif, la fonction de correspondant-comptable [<sup>2</sup> ou de comptable]<sup>2</sup> est organisée dans les [<sup>4</sup> écoles]<sup>4</sup> organisées par la Communauté française.
+
+Selon les disponibilités budgétaires, le Gouvernement détermine annuellement, le pourcentage d'emplois de correspondant-comptable [<sup>2</sup> ou de comptable ]<sup>2</sup> qui peut être organisé selon les normes déterminées à l'article 109, dans l'enseignement subventionné.
+
+Dans une école organisée par la Communauté française comptant moins de 100 élèves, si dans le courant de l'année scolaire ce nombre devient égal ou supérieur à 100, pendant 10 jours de classe consécutifs, le correspondant-comptable [<sup>2</sup> ou le comptable ]<sup>2</sup> assure 38 heures de prestation par semaine.
+
+[<sup>1</sup> Dans la catégorie du personnel auxiliaire d'éducation, la fonction [<sup>3</sup> d'éducateur]<sup>3</sup> peut être organisée.]<sup>1</sup>
+
+[<sup>2</sup> L'emploi de comptable visé au présent article ne peut être organisé au sein d'une [<sup>4</sup> école]<sup>4</sup> qu'à partir du moment où le membre du personnel titulaire à titre temporaire, en tant que stagiaire ou à titre définitif de la fonction de correspondant-comptable au sein de cette [<sup>4</sup> école]<sup>4</sup> cesse définitivement l'exercice de ses fonctions et après les opérations statutaires visées à l'article 7 du décret du 30 avril 2009 concernant la comptabilité des écoles et l'accès à certaines fonctions de sélection et de promotion.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 29, 009; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DCFR 2009-04-30/92, art. 56, 011; En vigueur : 01-07-2009&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 70, 041; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 3. - Des fonctions organisées dans l'enseignement secondaire.
+
+#### Art. 112
+
+[<sup>1</sup> Dans la catégorie du personnel administratif, les fonctions de commis et de rédacteur peuvent être organisées. En outre dans l'enseignement organisé par la Communauté française, la fonction de comptable peut être organisée dans cette catégorie conformément à l'alinéa 3 du présent article.]<sup>1</sup>
+
+Dans la catégorie du personnel auxiliaire d'éducation les fonctions [<sup>2</sup> d'éducateur]<sup>2</sup>, d'éducateur-économe et de secrétaire de direction peuvent être organisées.
+
+[<sup>1</sup> Dans l'enseignement organisé par la Communauté française, lors du départ définitif de l'éducateur-économe titulaire de l'emploi à titre définitif ou à titre temporaire visé à l'alinéa 2, au sein d'une [<sup>3</sup> école]<sup>3</sup> et après les opérations statutaires visées à l'article 7 du décret du 30 avril 2009 concernant la comptabilité des écoles et l'accès à certaines fonctions de sélection et de promotion, est organisée la fonction de comptable visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/92, art. 56, 011; En vigueur : 01-07-2009&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 71, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 4. - Du calcul de l'encadrement du personnel administratif et auxiliaire d'éducation et de son affectation, [<sup>1</sup> ...]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 30, 009; En vigueur : 01-01-2009&gt;
+
+#### Art. 113
+
+§ 1er Le volume des emplois du personnel administratif et du personnel auxiliaire d'éducation dans les [<sup>2</sup> écoles]<sup>2</sup> de la Communauté française et celui qui fait l'objet de subventions-traitements dans les établissements subventionnés d'enseignement spécialisé, à l'exclusion des internats et des semi-internats, est déterminé, dans chaque [<sup>2</sup> école]<sup>2</sup> et pour chaque année scolaire, selon les normes fixées par le présent décret.
+
+§ 2. Ces fonctions peuvent être attribuées aussi bien à temps plein qu'à temps partiel.
+
+§ 3. Les élèves pris en considération pour les normes ci-après sont ceux qui sont considérés comme élèves réguliers conformément aux dispositions des articles 12, 13, 14 et 15 et régulièrement inscrits le 15 janvier précédent. [<sup>1</sup> Par dérogation à l'alinéa précédent, n'est pas considéré comme élève régulièrement inscrit au 15 janvier de l'année scolaire précédente dans l'[<sup>2</sup> école]<sup>2</sup> qui l'a exclu, l'élève qui fait l'objet d'une décision d'exclusion définitive à un moment quelconque de cette année, mais bien dans celui qui, le cas échéant, l'accueille après cette décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2007-03-08/52, art. 10, 005; En vigueur : 01-01-2007&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 113bis
+
+[<sup>1</sup> 1° Pour les types [<sup>2</sup> 1, 2, 3, 4, 6, 7, 8]<sup>2</sup>, en cas de programmation d'une implantation, d'un type d'enseignement, d'une forme d'enseignement ou d'un secteur, le nombre des élèves régulièrement inscrits au 30 septembre dans la nouvelle implantation, le nouveau type d'enseignement, la nouvelle forme d'enseignement ou le nouveau secteur est ajouté au comptage des élèves du 15 janvier de l'année scolaire précédente. Ce nouveau total sert de référence lors du contrôle de la variation de la population scolaire du 30 septembre prévu à l'article 117, alinéa 1er. Cette mesure vaut uniquement pour l'année de programmation.
+
+Ce mode de calcul ne concerne pas les élèves qui ont déjà été comptabilisés à la date du 15 janvier dans l'[<sup>3</sup> école]<sup>3</sup> dont dépend la programmation d'une implantation, d'un type d'enseignement, d'une forme d'enseignement ou d'un secteur.
+
+2° Pour le type 5, en cas de programmation d'une implantation ou d'une forme d'enseignement la moyenne des présences des élèves dans la nouvelle implantation ou la nouvelle forme durant les 30 premiers jours à compter à partir du début de l'année scolaire est ajoutée au comptage des élèves du 15 janvier de l'année scolaire précédente. Ce nouveau total sert de référence lors du contrôle de la variation de la population scolaire du 30 septembre prévu à l'article 117, alinéa 1er. Cette mesure vaut uniquement pour l'année de programmation.
+
+Dans les cas visés aux 1° et 2°, le capital-périodes est calculé sur base du nombre d'élèves régulièrement inscrits dans l'école le 30 septembre de l'année scolaire en cours. L'encadrement ainsi calculé est d'application pour l'année de programmation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-02-01/14, art. 15, 015; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 72, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 114
+
+Le volume des emplois dans les fonctions des personnels administratif et auxiliaire d'éducation organisés ou subventionnés par la Communauté française est fixé par un capital-périodes. Ce capital-périodes est fixé annuellement par [<sup>1</sup> école]<sup>1</sup>, pour l'année considérée.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 115
+
+Les périodes attribuées à l'éducateur-économe [<sup>2</sup> ou au comptable dans l'enseignement organisé par la Communauté française]<sup>2</sup> ne sont pas imputables au capital-périodes [<sup>1</sup> dans l'enseignement secondaire]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 31, 009; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DCFR 2009-04-30/92, art. 56, 011; En vigueur : 01-07-2009&gt;
+
+#### Art. 116
+
+§ 1er. [<sup>5</sup> ...]<sup>5</sup>
+
+[<sup>4</sup> § 1bis. Dans le respect de la dévolution des emplois visés au § 2, pour les [<sup>7</sup> écoles]<sup>7</sup> qui mettent en oeuvre un plan de pilotage selon les modalités prévues à l'article 67, § 2, alinéa 1er, du décret du 24 juillet 1997 définissant les mission prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, les emplois d'éducateur, de secrétaire de direction et du personnel administratif, organisés ou subventionnés dans l'enseignement secondaire spécialisé, sont comptabilisés dans un capital-périodes constitué en multipliant par 38 le nombre guide atteint selon la grille de répartition suivante :
+
+80 élèves : 1
+
+120 élèves : 1,5
+
+160 élèves : 2
+
+200 élèves : 2,5
+
+240 élèves : 3
+
+320 élèves : 4
+
+400 élèves : 5
+
+500 élèves : 6
+
+600 élèves : 7
+
+760 élèves : 8
+
+920 élèves : 9
+
+1 080 élèves : 10
+
+1 240 élèves : 11
+
+1 400 élèves : 12
+
+1 560 élèves : 13
+
+1 720 élèves : 14
+
+Par tranche entière supplémentaire de 160 élèves, le nombre guide est augmenté de 1.
+
+Pour la comptabilisation des élèves relevant de l'enseignement de type 5, le nombre d'élèves sera déterminé par la moyenne des présences des élèves réguliers durant l'année précédente, si ce type d'enseignement était organisé pendant cette durée.
+
+Le renforcement de l'encadrement en personnel éducatif et administratif des écoles secondaires spécialisées, visé à l'alinéa 1bis, est effectif à partir de l'année scolaire qui précède celle au cours de laquelle l'[<sup>7</sup> école]<sup>7</sup> élabore son plan de pilotage.]<sup>4</sup>
+
+§ 2. Les emplois sont attribués dans l'ordre des nombres guides au personnel remplissant la fonction de [<sup>3</sup> éducateur]<sup>3</sup>. Par [<sup>7</sup> école]<sup>7</sup> les emplois suivants, à horaire complet, doivent être attribues
+
+1° à la fonction de [<sup>1</sup> commis]<sup>1</sup> par la transformation du 3e et/ou du 14e emploi;
+
+2° à la fonction de rédacteur par la transformation du 8e et/ou du 11e emploi.
+
+§ 3. Après consultation préalable du comité de concertation de base pour les [<sup>7</sup> écoles]<sup>7</sup> organisées par la Communauté française, de la Commission paritaire locale pour les établissements d'enseignement officiel subventionnés par la Communauté française ou des [<sup>6</sup> organes locaux de concertation sociale]<sup>6</sup> ou à défaut des délégations syndicales pour les [<sup>7</sup> écoles]<sup>7</sup> libre subventionnées par la Communauté française, par [<sup>7</sup> école]<sup>7</sup> l'emploi suivant, à horaire complet, peut être attribué à la fonction de secrétaire de direction par la transformation du 4e emploi.
+
+----------
+
+(1)&lt;DCFR 2008-07-18/58, art. 14, 007; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 16, 015; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2014-04-11/37, art. 256, 027; En vigueur : 01-09-2016&gt;
+
+(4)&lt;DCFR 2017-07-19/20, art. 2, 029; En vigueur : 01-08-2017&gt;
+
+(5)&lt;DCFR 2017-07-19/20, art. 3, 029; En vigueur : 31-08-2019&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(7)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 116bis
+
+[<sup>1</sup> En outre, pour l'enseignement spécialisé de type 3, il est accordé en sus du capital-périodes :
+
+1° De 1 à 39 élèves : 9 heures;
+
+2° De 40 à 59 élèves : 18 heures;
+
+3° De 60 à 79 élèves : 27 heures;
+
+4° De 80 à 99 élèves : 36 heures;
+
+5° 9 heures par tranche supplémentaire de 20 élèves relevant de l'enseignement de type 3.
+
+L'organisation ou le subventionnement des emplois supplémentaires [<sup>2</sup> d'éducateur]<sup>2</sup> peut être modifié chaque fois que le capital-périodes est recalculé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-02-05/48, art. 32, 009; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 73, 041; En vigueur : 01-09-2019&gt;
+
+#### Art. 116ter
+
+[<sup>1</sup> Lorsque l'emploi du membre du personnel exerçant à titre définitif ou à titre temporaire à la veille de l'entrée en vigueur du présent décret au sein d'une [<sup>4</sup> école]<sup>4</sup> la fonction de commis, dont l'emploi a pu être organisé par la transformation du 3 e emploi en vertu de l'article 116, § 2, devient définitivement vacant à l'issue des opérations statutaires ou lorsqu'une [<sup>4</sup> école]<sup>4</sup> atteint le nombre de 240 élèves, les dispositions de l'article 116 sont remplacées par les dispositions suivantes :
+
+§ 1er. Les emplois de [<sup>2</sup> éducateur]<sup>2</sup>, de secrétaire de direction et du personnel administratif, organisés ou subventionnés dans l'enseignement secondaire spécialisé, sont comptabilisés dans un capital-périodes constitué en multipliant par 38 le nombre guide atteint selon la grille de répartition suivante :
+
+1° 80 élèves : 1
+
+2° 160 élèves : 2
+
+3° 240 élèves : 3
+
+4° 320 élèves : 4
+
+5° 400 élèves : 5
+
+6° 500 élèves : 6
+
+7° 600 élèves : 7
+
+8° 760 élèves : 8
+
+9° 920 élèves : 9
+
+10° 1080 élèves : 10
+
+11° 1240 élèves : 11
+
+12° 1400 élèves : 12
+
+13° 1560 élèves : 13
+
+14° 1720 élèves : 14
+
+Par tranche entière supplémentaire de 160 élèves, le nombre guide est augmenté de 1.
+
+§ 2. Les emplois sont attribués dans l'ordre des nombres guides au personnel remplissant la fonction de [<sup>2</sup> éducateur]<sup>2</sup>. Par [<sup>4</sup> école]<sup>4</sup> les emplois suivants, à horaire complet, doivent être attribués :
+
+1° A la fonction de secrétaire de direction par la transformation du 3 e emploi;
+
+2° A la fonction de commis par la transformation du 14 e emploi;
+
+3° A la fonction de rédacteur par la transformation du 8 e et/ou du 11 e emploi.
+
+§ 3. Après consultation préalable du comité de concertation de base pour les [<sup>4</sup> écoles]<sup>4</sup> organisées par la Communauté française, de la Commission paritaire locale pour les établissements d'enseignement officiel subventionnés par la Communauté française ou des [<sup>3</sup> organes locaux de concertation sociale]<sup>3</sup> ou à défaut des délégations syndicales pour les [<sup>4</sup> écoles]<sup>4</sup> libres subventionnées par la Communauté française, par [<sup>4</sup> école]<sup>4</sup> l'emploi suivant, à horaire complet, peut être attribué à la fonction de rédacteur par la transformation du 4 e emploi.
+
+Toutefois, si à la date où l'emploi visé à l'alinéa 1er devient définitivement vacant, le commis qui y exerçait à titre temporaire ses fonctions compte au moins 1 an d'ancienneté de fonction, l'intéressé poursuit sa carrière dans l'emploi considéré et les nouvelles normes visées au présent article ne trouvent à s'appliquer qu'au départ définitif de l'intéressé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/92, art. 56, 011; En vigueur : 01-07-2009&gt;
+
+(2)&lt;DCFR 2014-04-11/37, art. 257, 027; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 117
+
+Un nouveau calcul de l'encadrement est réalisé le 1er octobre si la population scolaire du 30 septembre a varié d'au moins 5 % par rapport à celle du 15 janvier précédent.
+
+Dans le courant de l'année scolaire, le capital-périodes peut être recalculé et utilisé chaque fois que la population scolaire augmente d'au moins 10 % par rapport à celle qui a servi la dernière fois de base pour la détermination du capital-périodes correspondant.
+
+Cet accroissement n'est pris en considération que si l'augmentation du nombre d'élèves correspond, pendant 10 jours de classe consécutifs, à au moins 10 %.
+
+#### Art. 118
+
+Dans le cas de circonstances particulières, le Gouvernement peut accorder des dérogations aux normes contenues dans le présent décret.
+
+Ces dérogations ne peuvent pas correspondre par réseau d'enseignement à plus de 0,25 du nombre total de périodes utilisables l'année précedente pour chaque réseau d'enseignement.
+
+#### Art. 119
+
+Le nombre de périodes restantes apres imputation au capital-périodes des périodes attribuees à chaque membre des personnels administratif et auxiliaire d'éducation, conformément aux règles énoncées dans le présent chapitre, constitue le reliquat.
+
+#### Art. 119bis
+
+[<sup>1</sup> Dans chaque [<sup>2</sup> école]<sup>2</sup> d'enseignement spécialisé peuvent être assurés, dans les limites du capital-périodes utilisable des périodes réservées à la coordination des projets d'intégration, à la coordination et à la mise en oeuvre du Plan Individuel de Transition. Ces tâches peuvent être assurées par un ou plusieurs membres du personnel auxiliaire d'éducation dans le respect des règles statutaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 26, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE VIIbis. [<sup>1</sup> Du personnel directeur, enseignant ou auxiliaire d'éducation et du personnel paramédical, psychologique et social]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-04-25/53, art. 22, 039; En vigueur : 01-09-2019&gt;
+
+#### Art. 119ter
+
+[<sup>1</sup> § 1er. Dans l'enseignement organisé par la Communauté française, la priorité dans les changements d'affectation des membres du personnel directeur, enseignant ou auxiliaire d'éducation et du personnel paramédical, psychologique et social, est accordée à ceux qui exercent une fonction de recrutement dans une [<sup>2</sup> école]<sup>2</sup> organisant l'enseignement spécialisé et qui ont acquis dans cet enseignement une ancienneté de service de dix ans au moins, consécutifs ou non.
+
+§ 2. Dans l'enseignement officiel subventionné par la Communauté française, la priorité dans les changements d'affectation des membres du personnel directeur, enseignant ou auxiliaire d'éducation et du personnel paramédical, psychologique et social, est accordée à ceux qui exercent une fonction de recrutement, dans une [<sup>2</sup> école]<sup>2</sup> organisant l'enseignement spécialisé et qui ont acquis dans cet enseignement une ancienneté de service de dix ans au moins, consécutifs ou non.
+
+§ 3. Dans l'enseignement libre subventionné par la Communauté française, la priorité visée à l'article 29quater, 2° bis du décret du 1er février 1993 fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné est accordée aux membres du personnel engagés dans une fonction de recrutement dans une [<sup>2</sup> école]<sup>2</sup> organisant l'enseignement spécialisé et qui ont acquis dans cet enseignement une ancienneté de service de dix ans au moins, consécutifs ou non.
+
+Le membre du personnel qui refuse la proposition d'emploi alors que la proposition qui lui a été faite l'a été sur base de la liste des établissements qu'il a choisis perd sa priorité pour l'année scolaire en cours.
+
+Le membre du personnel qui accepte l'emploi qui lui est proposé par la Commission zonale d'affectation le notifie par envoi recommandé au Pouvoir organisateur où il est affecté, avec copie pour le Président de la Commission zonale d'affectation, et ce dans les 5 jours ouvrables de la réception de la proposition d'emploi faite par la Commission zonale d'affectation. A défaut de réponse dans ce délai, le membre du personnel est présumé refuser l'emploi qui lui est proposé.
+
+§ 4. Le délai de 10 années au moins visé au présent article est calculé selon les modalités fixées à l'article 3sexies, § 1er de l'arrêté royal du 18 janvier 1974 pris en application de l'article 164 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement, gardien, primaire, spécialisé, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-04-25/53, art. 22, 039; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE VIII. - Du nombre de jours de classe dans l'enseignement spécialisé.
+
+#### Art. 120
+
+&lt;Abrogé par DCFR 2019-05-03/54, art. 3, 043; En vigueur : 01-09-2020&gt;
+
+#### Art. 121
+
+&lt;Abrogé par DCFR 2019-05-03/54, art. 3, 043; En vigueur : 01-09-2020&gt;
+
+#### Art. 122
+
+&lt;Abrogé par DCFR 2019-05-03/54, art. 3, 043; En vigueur : 01-09-2020&gt;
+
+#### Art. 123
+
+&lt;Abrogé par DCFR 2019-05-03/54, art. 3, 043; En vigueur : 01-09-2020&gt;
+
+## CHAPITRE IX. - Des commissions consultatives.
+
+#### Art. 124
+
+§ 1er. Le Gouvernement crée une commission consultative de l'enseignement spécialisé (par zone). &lt;DCFR 2007-03-08/46, art. 211, 1°, 004; En vigueur : 01-09-2007&gt;
+
+§ 2. [<sup>1</sup> Chaque commission consultative comprend le président, ayant voix délibérative, neuf membres effectifs et un secrétaire choisi parmi les membres des Services du Gouvernement.]<sup>1</sup>
+
+Elle est présidée (par un inspecteur relevant du Service de l'Inspection de l'Enseignement spécialisé désigné par l'Inspecteur général coordonnateur) ordinaire; outre son président, elle comprend des représentants des établissements d'enseignement organisés ou subventionnés par la Communauté française, appartenant aux disciplines pédagogique, psychologique, médicale et sociale [<sup>1</sup> ainsi qu'un inspecteur relevant du Service de l'Inspection de l'Enseignement fondamental désigné par l'Inspecteur général coordonnateur]<sup>1</sup> . &lt;DCFR 2007-03-08/46, art. 211, 2°, 004; En vigueur : 01-09-2007&gt;
+
+La suppléance du président est assumée (par un inspecteur relevant du Service de l'Inspection de l'Enseignement spécialisé désigné par l'Inspecteur général coordonnateur). &lt;DCFR 2007-03-08/46, art. 211, 3°, 004; En vigueur : 01-09-2007&gt;
+
+II est prévu pour chacun des membres effectifs, un membre suppléant appartenant à la même discipline que le membre effectif.
+
+§ 3. Il sera veillé, lors de la composition de chaque commission, tant en ce qui concerne les membres effectifs qu'en ce qui concerne les membres suppléants, à ce qu'un équilibre soit établi entre l'enseignement officiel et l'enseignement libre d'une part et entre l'enseignement confessionnel et l'enseignement non confessionnel d'autre part.
+
+§ 4. Les membres sont nommés par le Gouvernement pour une période de quatre ans. Leur mandat est renouvelable.
+
+[<sup>2</sup> En cas de vacance avant l'expiration d'un mandat, le suppléant achève ledit mandat et un nouveau membre est directement désigné en qualité de suppléant par les organisations de représentation et de coordination de pouvoirs organisateurs moyennant le respect des règles relatives à la composition des commissions prévues à l'article 124, § 2, alinéas 2 à 4, et § 3. ]<sup>2</sup>
+
+Tout membre qui perd la qualité en raison de laquelle il a été nommé, ou qui s'est absenté plus de la moitié des séances de l'année scolaire, cesse de faire partie de la Commission.
+
+§ 5. Les Commissions délibèrent valablement si la majorité des membres est présente. Toutefois, lorsqu'une Commission convoquée ne réunit pas le nombre de membres nécessaire, elle peut, après une nouvelle convocation, délibérer valablement sur le même objet quel que soit le nombre de membres présents.
+
+Les membres sont tenus au secret des dossiers et des délibérations de la Commission.
+
+§ 6. Les résolutions sont prises à la majorite des membres présents. En cas de partage des voix, celle du président est prépondérante.
+
+§ 7. Le Gouvernement fixe les autres modalités de fonctionnement de la Commission.
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 33, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2024-01-18/27, art. 70, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 125
+
+La commission consultative a pour mission de donner un avis motivé à la demande et à l'intention :
+
+1°.du [<sup>6</sup> parent]<sup>6</sup> , du [<sup>7</sup> directeur]<sup>7</sup> ou d'un membre de l'inspection scolaire de la Communauté française, sur l'aptitude qu'a un enfant ou un adolescent à besoins spécifiques à recevoir un enseignement spécialisé lorsque ce jeune ne fréquente aucune école.
+
+2°.du [<sup>6</sup> parent]<sup>6</sup> ou d'un membre de l'inspection scolaire de la Communauté française, sur l'opportunité de faire dispenser l'enseignement à domicile à un jeune à besoins spécifiques qui ne peut se déplacer ou être transporté en raison de la nature ou de la gravité de son handicap.
+
+3° du [<sup>6</sup> parent]<sup>6</sup> ou d'un membre de l'inspection scolaire de la Communauté française, du chef d'établissement scolaire d'enseignement ordinaire ou du [<sup>3</sup> centre psycho-médico-social]<sup>3</sup>, sur l'opportunité de transférer dans une [<sup>4</sup> école]<sup>4</sup> d'enseignement spécialisé, un élève inscrit dans une [<sup>4</sup> école]<sup>4</sup> d'enseignement ordinaire.
+
+4° du [<sup>6</sup> parent]<sup>6</sup> ou d'un membre de l'inspection scolaire de la Communauté française ou du [<sup>5</sup> directeur]<sup>5</sup> d'enseignement spécialisé, sur l'opportunité de transférer, dans une [<sup>4</sup> école]<sup>4</sup> d'enseignement ordinaire, un élève inscrit dans une [<sup>4</sup> école]<sup>4</sup> d'enseignement spécialisé.
+
+5° du [<sup>6</sup> parent]<sup>6</sup> ou d'un membre de l'inspection scolaire de la Communauté française, du [<sup>5</sup> directeur]<sup>5</sup> d'enseignement spécialisé ou du [<sup>3</sup> centre psycho-médico-social]<sup>3</sup>, sur l'opportunité de transférer un élève à besoins spécifiques d'une [<sup>4</sup> école]<sup>4</sup> d'enseignement spécialisé, dans [<sup>3</sup> ...]<sup>3</sup> un type d'enseignement spécialisé mieux approprié.
+
+6° du [<sup>6</sup> parent]<sup>6</sup> ou du [<sup>5</sup> directeur]<sup>5</sup> d'enseignement spécialisé, sur l'opportunité de dispenser un enfant ou un adolescent à besoins spécifiques de toute obligation scolaire. Dans ce cas, l'avis est communiqué [<sup>2</sup> au Gouvernement]<sup>2</sup> qui peut en accorder la dispense.
+
+[<sup>1</sup> 7°. du chef de la Cellule des accidents du travail de l'enseignement [<sup>2</sup> spécialisé]<sup>2</sup> au sujet de la capacité de discernement d'un élève qui a commis un acte de violence ou qui est suspecté d'en avoir commis; cet avis peut être demandé uniquement en vue de l'application de l'article 14 de la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public. L'avis précisera si l'élève avait une capacité de discernement normale au moment des faits, ou s'il n'en avait pas.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-03-26/30, art. 22, 012; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 17, 015; En vigueur : 25-03-2012&gt;
+
+(3)&lt;DCFR 2014-04-11/28, art. 25, 020; En vigueur : 01-05-2014&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 18, 068; En vigueur : 24-08-2026&gt;
+
+(7)&lt;DCFR 2026-07-17/11, art. 19, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 126
+
+Le membre de l'inspection scolaire de la Communauté française, le médecin responsable d'une équipe chargée de l'inspection médicale scolaire et le chef d'une [<sup>1</sup> école]<sup>1</sup> d'enseignement ordinaire ou d'une [<sup>1</sup> école]<sup>1</sup> d'enseignement spécialise préviennent le [<sup>2</sup> parent]<sup>2</sup> lorsqu'ils soumettent une demande d'avis à la Commission consultative de l'enseignement spécialisé.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 18, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 127
+
+Avant de donner son avis, la Commission consultative de l'enseignement specialisé est tenue :
+
+1° [<sup>1</sup> d'inviter le [<sup>3</sup> parent ]<sup>3</sup> [<sup>2</sup> ...]<sup>2</sup> à se présenter devant ladite commission afin de faire entendre son point de vue; celui-ci peut se faire assister par le conseil de son choix.]<sup>1</sup>
+
+2° de faire établir, le cas échéant, le rapport établi par l'organisme tel que déterminé à l'article 12.
+
+Le [<sup>3</sup> parent]<sup>3</sup> choisit l'organisme ou le médecin qui établira le rapport.
+
+Si le [<sup>3</sup> parent]<sup>3</sup> ne veut pas être entendu ou refuse de faire examiner son enfant en vue de la rédaction du rapport prévu, la Commission se prononcera alors sans que l'enfant ait été examiné [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2012-02-01/14, art. 18, 015; En vigueur : 25-03-2012&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 20, 068; En vigueur : 24-08-2026&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 20, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 128
+
+La Commission consultative de l'enseignement spécialisé communique son avis au chef de famille [<sup>3</sup> envoi recommandé]<sup>3</sup> [<sup>4</sup> ou par voie électronique à la demande du chef de famille]<sup>4</sup>.
+
+Si l'enfant semble relever de l'enseignement spécialisé, la Commission indique le type d'enseignement spécialisé qui convient à l'intéressé. Elle fournit une liste complète des [<sup>6</sup> écoles]<sup>6</sup> des divers réseaux qui dispensent cet enseignement.
+
+Le chef de famille dispose d'un délai de trente jours pour communiquer [<sup>5</sup> sa décision par pli recommandé à la poste ou par voie électronique s'il a opté pour cette modalité conformément à l'alinéa 1er]<sup>5</sup> au président de la Commission consultative.
+
+Si le chef de famille oppose une fin de non recevoir à la suggestion de la Commission consultative ou s'il n'a pas fait choix d'un établissement, la Commission consultative réexamine le cas et communique son avis définitif au chef de famille par [<sup>3</sup> envoi recommandé]<sup>3</sup> à la poste.
+
+Si dans la quinzaine, le chef de famille n'a pas pris de dispositions conformes ou n'en a pas avisé la Commission consultative, celle-ci communique le dossier [<sup>2</sup> au Gouvernement qui prend les mesures nécessaires afin de garantir la scolarisation de l'enfant]<sup>2</sup>.
+
+[<sup>1</sup> Le présent article n'est pas applicable aux avis émis en vertu de l'article 125, 7°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-03-26/30, art. 23, 012; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 19, 015; En vigueur : 25-03-2012&gt;
+
+(3)&lt;ACF 2017-10-25/11, art. 16, 032; En vigueur : 22-04-2018&gt;
+
+(4)&lt;DCFR 2025-07-16/13, art. 16, 061; En vigueur : 25-08-2025&gt;
+
+(5)&lt;DCFR 2026-06-25/05, art. 5, 066; En vigueur : 10-07-2026&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 129
+
+Les présidents des Commissions consultatives de l'enseignement spécialisé adressent annuellement un rapport d'activité au Gouvernement et une copie de ce rapport au Conseil général.
+
+## CHAPITRE X. - De l'intégration.
+
+### Section 1re. - Objet.
+
+#### Art. 130
+
+[<sup>1</sup> Conformément à l'article 1.7.8-5 du Code de l'enseignement fondamental et de l'enseignement secondaire, le mécanisme de l'intégration dans l'enseignement ordinaire d'un élève régulièrement inscrit dans l'enseignement spécialisé, peut être organisé suivant les modalités décrites dans le présent chapitre.
+
+Seuls les élèves à besoins spécifiques inscrits et fréquentant régulièrement l'enseignement spécialisé depuis le [<sup>2</sup> 15 octobre]<sup>2</sup> au moins sont susceptibles de pouvoir bénéficier du mécanisme de l'intégration à partir du [<sup>3</sup> premier jour]<sup>3</sup> de l'année scolaire suivante.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-19/12, art. 120, 046; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 4, 047; En vigueur : 01-09-2022&gt;
+
+(3)&lt;DCFR 2022-03-31/35, art. 79, 048; En vigueur : 29-08-2022&gt;
+
+### Section 2. - De l'intégration permanente totale.
+
+#### Art. 131
+
+[<sup>1</sup> L'intégration permanente totale concerne tous les élèves de l'enseignement spécialisé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 21, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 132
+
+§ 1er. Par intégration permanente totale, il faut entendre que l'élève [<sup>5</sup> suit tous les cours pendant toute l'année scolaire]<sup>5</sup> dans l'enseignement ordinaire, tout en bénéficiant, en fonction de ses besoins, de la gratuité des transports entre son domicile et l'[<sup>11</sup> école]<sup>11</sup> d'enseignement ordinaire qu'il fréquente et d'un accompagnement assuré par l'enseignement spécialisé.
+
+[<sup>10</sup> Pour chaque élève visé à l'alinéa précédent, des moyens sont octroyés au pôle territorial compétent conformément à l'article 6.2.5-5 du Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+Le personnel d'accompagnement du pôle territorial qui accompagne l'élève en intégration permanente totale est choisi en tenant compte de la spécificité des types et des besoins de l'enfant, tels que définis à l'article 8.]<sup>10</sup>
+
+§ 2. [<sup>10</sup> ...]<sup>10</sup>
+
+§ 3. [<sup>10</sup> ...]<sup>10</sup>
+
+[<sup>2</sup> § 4. [<sup>10</sup> ...]<sup>10</sup>]<sup>2</sup>
+
+[<sup>3</sup> § 5. [<sup>10</sup> ...]<sup>10</sup>]<sup>3</sup>
+
+[<sup>4</sup> § 6. Pour tout élève en intégration permanente totale un plan individuel d'apprentissage est élaboré et ajusté par le ou les membres(s) du personnel [<sup>10</sup> du pôle territorial compétent]<sup>10</sup> en concertation avec le conseil de classe dans l'enseignement secondaire ordinaire ou l'équipe éducative dans l'enseignement fondamental ordinaire.]<sup>4</sup>
+
+[<sup>8</sup> Pour les élèves qui bénéficient d'un plan individualisé d'apprentissage conformément à l'article 7bis du décret du 30 juin 2006 relatif à l'organisation pédagogique du 1er degré de l'enseignement secondaire, celui-ci est actualisé pour constituer le plan individuel d'apprentissage visé à l'alinéa précédent. ]<sup>8</sup>
+
+[<sup>7</sup> § 7. [<sup>10</sup> ...]<sup>10</sup>]<sup>7</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 35, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2011-01-13/04, art. 44, 013; En vigueur : 04-03-2011&gt;
+
+(3)&lt;DCFR 2012-02-01/14, art. 20, 015; En vigueur : 25-03-2012&gt;
+
+(4)&lt;DCFR 2013-10-17/21, art. 27, 018; En vigueur : 01-09-2013&gt;
+
+(5)&lt;DCFR 2014-04-11/28, art. 27, 020; En vigueur : 01-05-2014&gt;
+
+(6)&lt;DCFR 2015-07-14/05, art. 10, 023; En vigueur : 01-09-2015&gt;
+
+(7)&lt;DCFR 2016-02-04/02, art. 84, 025; En vigueur : 03-03-2016&gt;
+
+(8)&lt;DCFR 2018-07-11/16, art. 17, 035; En vigueur : 01-09-2018&gt;
+
+(9)&lt;DCFR 2019-05-03/38, art. 75, 041; En vigueur : 01-09-2019&gt;
+
+(10)&lt;DCFR 2021-06-17/29, art. 5, 047; En vigueur : 01-09-2021&gt;
+
+(11)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 133
+
+§ 1er. L'intégration permanente totale dans l'enseignement ordinaire peut s'effectuer au niveau fondamental et au niveau secondaire en ce compris le passage du niveau fondamental au niveau secondaire.
+
+L'élève doit être régulièrement inscrit dans l'enseignement spécialisé au 15 [<sup>10</sup> octobre]<sup>10</sup> précédant l'année scolaire pour laquelle l'intégration est demandée. L'élève intégré est inscrit comme élève régulier dans l'enseignement ordinaire et perd sa qualité d'élève régulier dans l'enseignement spécialisé.
+
+L'élève de l'enseignement spécialisé intégré de manière permanente et totale dans l'enseignement ordinaire est comptabilisé dans ce dernier enseignement en application de l'article 22, § 1er, du décret du 29 juillet 1992 portant organisation de l'enseignement secondaire de plein exercice ou en application du chapitre IV du décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la reglementation de l'enseignement pour autant qu'au terme de l'année précédente, aucune demande ou décision n'ait été introduite ou prise en application de l'article 143 sauf si cette décision, prise au plus tard le jour de la rentrée scolaire, aboutit au maintien de l'élève intégré dans l'enseignement ordinaire.
+
+[<sup>2</sup> L'intégration permanente totale dans l'enseignement ordinaire est également accessible aux élèves inscrits dans une école d'enseignement ordinaire organisant l'apprentissage par immersion en langue des signes en classe bilingue français-langue des signes à la date du 15 [<sup>11</sup> octobre]<sup>11</sup> précédant l'année scolaire pour laquelle l'intégration est demandée dans une école d'enseignement ordinaire ne pratiquant pas l'apprentissage par immersion en langue des signes en classe bilingue français-langue des signes. L'accompagnement adapté sera assuré par un membre du personnel [<sup>8</sup> du pôle territorial compétent]<sup>8</sup>.]<sup>2</sup>
+
+[<sup>3</sup> [<sup>7</sup> ...]<sup>7</sup>
+
+[<sup>7</sup> ...]<sup>7</sup>
+
+Le Ministre qui a l'enseignement secondaire dans ses attributions peut reconnaître comme valides les attestations et certificats qui ont été délivrés par les établissements d'enseignement secondaire ordinaires au cours des [<sup>4</sup> années scolaires 2010-2011 à 2017-2018]<sup>4</sup> aux élèves en intégration temporaire totale.]<sup>3</sup>
+
+§ 2. [<sup>8</sup> ...]<sup>8</sup>
+
+§ 3. [<sup>8</sup> ...]<sup>8</sup>
+
+[<sup>1</sup> § 4. [<sup>9</sup> ...]<sup>9</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 5. [<sup>9</sup> ...]<sup>9</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 36, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 21, 015; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2014-04-11/28, art. 28, 020; En vigueur : 01-05-2014&gt;
+
+(4)&lt;DCFR 2018-07-11/16, art. 18, 035; En vigueur : 01-09-2018&gt;
+
+(5)&lt;DCFR 2019-04-25/56, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+(6)&lt;DCFR 2019-05-03/38, art. 76, 041; En vigueur : 01-09-2019&gt;
+
+(7)&lt;DCFR 2021-06-17/04, art. 2, 045; En vigueur : 04-07-2020&gt;
+
+(8)&lt;DCFR 2021-06-17/29, art. 6, 047; En vigueur : 01-09-2021&gt;
+
+(9)&lt;DCFR 2021-06-17/29, art. 6, 047; En vigueur : 01-09-2022&gt;
+
+(10)&lt;DCFR 2024-01-18/27, art. 71, 056; En vigueur : 21-02-2024&gt;
+
+(11)&lt;DCFR 2026-07-17/11, art. 22, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 134
+
+Toute décision relative à l'intégration permanente totale est précédée d'une proposition qui doit émaner d'au moins un des intervenants suivants :
+
+1° du Conseil de classe d'une [<sup>4</sup> école]<sup>4</sup> d'enseignement spécialisé comprenant l'ensemble des membres du personnel enseignant, paramédical et auxiliaire d'éducation qui participent directement a l'encadrement de l'élève;
+
+2° de l'organisme qui assure la guidance des élèves [<sup>1</sup> de l'[<sup>4</sup> école]<sup>4</sup> d'enseignement spécialisé]<sup>1</sup>;
+
+3° des parents, de la personne investie de l'autorité parentale ou de l'élève lui-même s'il est majeur,
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>1</sup> 5° [<sup>3</sup> ...]<sup>3</sup>
+
+Cette proposition relative à l'intégration permanente totale est introduite auprès du [<sup>5</sup> directeur]<sup>5</sup> d'enseignement spécialisé.
+
+La direction ou le pouvoir organisateur de l'[<sup>4</sup> école]<sup>4</sup> d'enseignement spécialisé concerné concerte tous les intervenants visés au présent article.
+
+Si la concertation débouche sur un avis favorable, celui-ci est signé par les intervenants visés au présent article et remis au directeur.
+
+[<sup>2</sup> Si la concertation débouche sur un avis défavorable, chaque partenaire ayant marqué son désaccord motivera par écrit sa position au [<sup>5</sup> directeur]<sup>5</sup> dans l'enseignement organisé par la Communauté française ou au Pouvoir organisateur de l'école d'enseignement spécialisé subventionnée par la Communauté française.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2011-02-10/07, art. 44, 014; En vigueur : 07-03-2011&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 22, 015; En vigueur : 25-03-2012&gt;
+
+(3)&lt;DCFR 2021-06-17/04, art. 3, 045; En vigueur : 04-07-2020&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,4°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 135
+
+Dès la réception de l'avis visé à l'article 134, la direction ou le pouvoir organisateur de l'[<sup>3</sup> école]<sup>3</sup> d'enseignement spécialisé, en accord avec les parents, la personne investie de l'autorité parentale ou l'élève lui-même s'il est majeur, prend les contacts nécessaires pour trouver l'école d'enseignement ordinaire dont la direction, en concertation avec l'équipe éducative [<sup>2</sup> et le pôle territorial compétent]<sup>2</sup>, accepte d'être partenaire dans l'intégration permanente totale envisagée.
+
+Dès l'acceptation de la proposition d'intégration permanente totale [<sup>1</sup> par la direction, dans l'enseignement organisé par la Communauté française, ou le Pouvoir organisateur, dans l'enseignement subventionné, de l'[<sup>3</sup> école]<sup>3</sup> d'enseignement ordinaire]<sup>1</sup>, la définition d'un projet d'intégration est recherchée conjointement par :
+
+1° le conseil de classe de l'[<sup>3</sup> école]<sup>3</sup> d'enseignement spécialisé assisté par l'organisme qui assure la guidance des élèves;
+
+2° le titulaire de classe ou le conseil de classe de l'[<sup>3</sup> école]<sup>3</sup> d'enseignement ordinaire concerné, assisté par le centre psycho-medico-social qui assure la guidance des élèves de l'établissement.
+
+[<sup>2</sup> 3° le coordonnateur du pôle territorial ou son délégué avec lequel l'école ordinaire concernée coopère]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2012-02-01/14, art. 23, 015; En vigueur : 25-03-2012&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 7, 047; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 136
+
+A l'issue de la procédure visée aux articles 134 et 135, un protocole est établi. Ce protocole contient :
+
+1° le projet d'intégration comprenant [<sup>3</sup> la fiche d'identification et de parcours de l'élève]<sup>3</sup>, les objectifs visés, l'énumération des équipements spécifiques, les besoins de l'élève en matière de transport et les éventuelles dispenses au programme de l'enseignement ordinaire, ainsi que le dispositif de liaison entre les écoles en ce compris les propositions alternatives éventuelles compte tenu des possibilités résultant de l'application de l'article 132;
+
+2° les modalités de concertation entre le(s) membre(s) du personnel [<sup>6</sup> du pôle territorial compétent]<sup>6</sup> chargé(s) de l'accompagnement et le(s) membre(s) du personnel de l'enseignement ordinaire en charge de la classe qui accueille l'élève [<sup>5</sup> et, le cas échéant, les équipes psycho-médico-sociales de l'école spécialisée et de l'école ordinaire]<sup>5</sup>, ainsi que les modalités d'évaluation interne de l'intégration permanente et la constitution de rapports;
+
+3° [<sup>5</sup> l'avis du centre psycho-médico-social qui accompagne l'élève au moment de l'introduction de la proposition d'intégration ;]<sup>5</sup>
+
+4° [<sup>7</sup> l'accord du pouvoir organisateur de l'école d'enseignement ordinaire qui scolarise l'élève concerné ou de son délégué]<sup>7</sup>;
+
+5° l'accord des parents, de la personne investie de l'autorité parentale ou de l'élève lui-même s'il est majeur;
+
+6° [<sup>7</sup> l'accord du pouvoir organisateur du pôle territorial compétent ou de son délégué]<sup>7</sup>.
+
+[<sup>2</sup> [<sup>7</sup> Le protocole d'intégration est conservé par le pôle territorial et est tenu à la disposition du Service général de l'Inspection et des services du Gouvernement. Le cas échéant, une copie du protocole est conservée par l'école partenaire ou par l'école partenaire spécifique qui accompagne l'élève. Une copie est également conservée par l'école d'enseignement ordinaire dans laquelle l'élève concerné est scolarisé]<sup>7</sup>.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 37, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2009-02-05/48, art. 38, 009; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFR 2014-04-11/28, art. 29, 020; En vigueur : 01-05-2014&gt;
+
+(4)&lt;DCFR 2018-07-11/16, art. 19, 035; En vigueur : 01-09-2018&gt;
+
+(5)&lt;DCFR 2019-05-03/38, art. 77, 041; En vigueur : 01-09-2019&gt;
+
+(6)&lt;DCFR 2021-06-17/29, art. 8, 047; En vigueur : 01-09-2021&gt;
+
+(7)&lt;DCFR 2022-07-20/19, art. 7, 049; En vigueur : 29-08-2022&gt;
+
+#### Art. 137
+
+[<sup>1</sup> Au plus tard [<sup>3</sup> le 30 septembre]<sup>3</sup> de l'année scolaire pour laquelle est prévue l'intégration, la direction dans l'enseignement organisé par la Communauté française ou le pouvoir organisateur dans l'enseignement subventionné de l'[<sup>4</sup> école]<sup>4</sup> d'enseignement spécialisé transmet la liste des élèves concernés aux services du Gouvernement.]<sup>1</sup>
+
+[<sup>2</sup> Dans le cas de circonstances particulières fixées préalablement par le Gouvernement, celui-ci peut déroger à la date fixée à l'alinéa précédent.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 39, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2011-02-10/07, art. 45, 014; En vigueur : 07-03-2011&gt;
+
+(3)&lt;DCFR 2018-07-11/16, art. 20, 035; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 138
+
+&lt;Abrogé par DCFR 2009-02-05/48, art. 40, 009; En vigueur : 01-09-2009&gt;
+
+#### Art. 139
+
+&lt;Abrogé par DCFR 2009-02-05/48, art. 41, 009; En vigueur : 01-09-2009&gt;
+
+#### Art. 140
+
+[<sup>1</sup> Un nouveau [<sup>2</sup> protocole d'intégration]<sup>2</sup> est établi lors du changement d'école d'un élève intégré.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 42, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2014-04-11/28, art. 30, 020; En vigueur : 01-05-2014&gt;
+
+#### Art. 141
+
+[<sup>3</sup> Pour les prolongations à des années scolaires consécutives dans l'enseignement fondamental, l'avis favorable de l'équipe éducative de l'enseignement ordinaire élargie, selon le cas, aux membres du personnel de l'enseignement spécialisé chargés de l'accompagnement ou aux membres l'équipe pluridisciplinaire du pôle territorial chargés de l'accompagnement est requis. Pour les prolongations à des années scolaires consécutives dans l'enseignement secondaire, l'avis favorable du conseil de classe de l'enseignement ordinaire élargi, selon le cas, aux membres du personnel de l'enseignement spécialisé chargés de l'accompagnement ou aux membres l'équipe pluridisciplinaire du pôle territorial chargés de l'accompagnement est requis]<sup>3</sup>.
+
+Pour les prolongations à des années scolaires consécutives dans l'enseignement secondaire, l'avis favorable du conseil de classe de l'enseignement ordinaire élargi aux membres du personnel [<sup>2</sup> du pôle territorial compétent]<sup>2</sup> chargés de l'accompagnement est requis.
+
+[<sup>1</sup> Tout refus de prolongation doit être motivé et adressé au Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2012-02-01/14, art. 24, 015; En vigueur : 25-03-2012&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 9, 047; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCFR 2022-07-20/19, art. 8, 049; En vigueur : 29-08-2022&gt;
+
+#### Art. 142
+
+&lt;Abrogé par DCFR 2021-06-17/29, art. 10, 047; En vigueur : 01-09-2021&gt;
+
+#### Art. 143
+
+Au terme de chaque année scolaire, chacune des parties ayant marqué son accord au protocole [<sup>3</sup> , à l'exception du centre psycho-médico-social qui assurait la guidance de l'élève avant son entrée en intégration pour autant que celui-ci n'assure plus la guidance de cet élève, ou le centre psycho-médico-social qui assure la guidance de l'élève au terme de l'année scolaire]<sup>3</sup> peut demander de mettre fin à l'intégration et le retour à temps plein de l'élève dans l'enseignement spécialisé.
+
+Une telle décision ne peut être prise par la direction de l'école d'enseignement ordinaire qu'après concertation de toutes les parties [<sup>1</sup> ...]<sup>1</sup>. Cette décision a pour effet de mettre fin à la même date à l'application de l'article 133, l'élève relevant alors régulièrement de l'enseignement spécialisé.
+
+[<sup>2</sup> En cas de circonstances exceptionnelles]<sup>2</sup>, le Gouvernement [<sup>2</sup> , après avis motivé du Conseil d'avis chargé des problématiques liées à l'intégration,]<sup>2</sup> peut, par décision motivée, mettre fin a l'intégration et autoriser le retour à temps plein de l'élève dans l'enseignement spécialisé en cours d'année scolaire. L'élève ne pourra toutefois être pris en considération dans le cadre du recomptage éventuel au 1er octobre de l'année scolaire en cours. Pour l'année scolaire considérée, il est néanmoins réputé conserver sa qualité d'élève intégré pour l'application des articles 132 et 142.
+
+[<sup>3</sup> Par dérogation à l'alinéa premier, l'intégration prend fin pour les motifs suivants, à la date connue de l'évènement :
+
+1° une mesure de placement prise soit par un magistrat, soit par le conseiller ou le (la) directeur(trice) d'aide à la jeunesse ;
+
+2° un changement de domicile ;
+
+3° une séparation des parents entraînant un changement de lieu d'hébergement de l'élève ;
+
+4° le passage de l'élève d'une école à régime d'externat vers un internat et vice versa ;
+
+5° l'accueil de l'élève, sur l'initiative des parents, dans une autre famille ou dans un centre pour raison de maladie, de voyage ;
+
+6° l'exclusion définitive de l'élève.
+
+En cas de circonstances exceptionnelles, les partenaires du projet d'intégration tels que prévus à l'alinéa 1er peuvent, par décision collégiale motivée, mettre fin à l'intégration et autoriser le retour à temps plein de l'élève dans l'enseignement spécialisé en cours d'année scolaire.
+
+L'élève visé aux alinéas 4 et 5 ne pourra toutefois être pris en considération dans le cadre du recomptage éventuel au 1er octobre de l'année scolaire en cours. Pour l'année scolaire considérée, il est néanmoins réputé conserver sa qualité d'élève intégré pour l'application [<sup>4</sup> de l'article 132]<sup>4</sup>.
+
+Le procès-verbal actant la fin d'intégration est tenu à la disposition des Services du Gouvernement.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 43, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 25, 015; En vigueur : 25-03-2012&gt;
+
+(3)&lt;DCFR 2018-07-11/16, art. 21, 035; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFR 2021-06-17/29, art. 11, 047; En vigueur : 01-09-2021&gt;
+
+#### Art. 144
+
+&lt;Abrogé par DCFR 2021-06-17/29, art. 12, 047; En vigueur : 01-09-2021&gt;
+
+#### Art. 145
+
+Les attestations et certificats délivrés en fonction des textes réglementaires et décrétaux sont établis par l'[<sup>1</sup> école]<sup>1</sup> d'enseignement ordinaire dans lequel l'élève est inscrit.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 3. - De l'intégration permanente partielle et de l'intégration temporaire.
+
+#### Art. 146
+
+Pour l'application de la présente Section, on entend par :
+
+1° intégration permanente partielle : l'intégration dans laquelle l'élève suit certains cours dans l'enseignement ordinaire et les autres dans l'enseignement spécialisé pendant toute l'année scolaire. Il continue en outre à bénéficier de la gratuité des transports de son domicile à l'école d'enseignement spécialisé dans laquelle il est inscrit.
+
+2° [<sup>2</sup> intégration temporaire partielle : l'intégration dans laquelle l'élève suit une partie des cours dans l'enseignement ordinaire pendant une ou des périodes déterminées de l'année scolaire en cours. Il continue en outre à bénéficier de la gratuité des transports de son domicile à l'école d'enseignement spécialisé dans laquelle il est inscrit.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2014-04-11/28, art. 31, 020; En vigueur : 01-05-2014&gt;
+
+(2)&lt;DCFR 2021-06-17/04, art. 4, 045; En vigueur : 04-07-2020&gt;
+
+#### Art. 147
+
+[<sup>1</sup> Seuls les élèves régulièrement inscrits dans l'enseignement spécialisé peuvent bénéficier de l'intégration permanente partielle et de l'intégration temporaire [<sup>5</sup> partielle]<sup>5</sup>.]<sup>1</sup>
+
+[<sup>5</sup> ...]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 45, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2011-01-13/04, art. 45, 013; En vigueur : 04-03-2011&gt;
+
+(3)&lt;DCFR 2012-02-01/14, art. 26, 015; En vigueur : 01-09-2012&gt;
+
+(4)&lt;DCFR 2014-04-11/28, art. 32, 020; En vigueur : 01-05-2014&gt;
+
+(5)&lt;DCFR 2021-06-17/04, art. 5, 045; En vigueur : 04-07-2020&gt;
+
+#### Art. 147bis
+
+&lt;Abrogé par DCFR 2021-06-17/04, art. 6, 045; En vigueur : 04-07-2020&gt;
+
+#### Art. 148
+
+[<sup>3</sup> Dans le cadre des intégrations partielles, dans l'enseignement fondamental et secondaire, une partie du capital-périodes peut être utilisée, le cas échéant, pour assurer l'accompagnement de l'élève dans l'école d'enseignement ordinaire.
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+Les emplois ainsi créés peuvent donner lieu à une nomination ou un engagement à titre définitif.]<sup>3</sup>
+
+[<sup>3</sup> L'accompagnement]<sup>3</sup> est assuré par le personnel de l'école d'enseignement spécialisé où est inscrit l'élève. Ce personnel reste placé sous la seule autorité de la direction de l'[<sup>9</sup> école]<sup>9</sup> spécialisée dont il relève.
+
+Les dotations ou subventions de fonctionnement restent octroyées à l'[<sup>9</sup> école]<sup>9</sup> d'enseignement spécialisé.
+
+Sur proposition [<sup>5</sup> le Conseil général concerné]<sup>5</sup>, le Gouvernement peut octroyer un capital-périodes complémentaire aux écoles d'enseignement spécialisé pratiquant l'intégration visée à la presente Section dans les limites des moyens budgétaires disponibles.
+
+[<sup>2</sup> En cas de recomptage à la hausse du capital-périodes en cours d'année tel que prévu à l'article 36, § 1er, pour l'enseignement fondamental et à l'article 88, § 1er, pour l'enseignement secondaire, les périodes reçues en vertu de l'alinéa précédent seront rétrocédées au Gouvernement en fonction des modalités qu'il déterminera.
+
+[<sup>8</sup> ...]<sup>8</sup>.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 46, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2012-02-01/14, art. 28, 015; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFR 2012-07-12/31, art. 63, 017; En vigueur : 01-09-2012&gt;
+
+(4)&lt;DCFR 2014-04-11/28, art. 34, 020; En vigueur : 01-05-2014&gt;
+
+(5)&lt;DCFR 2019-04-25/56, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+(6)&lt;DCFR 2021-06-17/04, art. 7, 045; En vigueur : 04-07-2020&gt;
+
+(7)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(8)&lt;DCFR 2024-01-18/27, art. 72, 056; En vigueur : 21-02-2024&gt;
+
+(9)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 149
+
+L'intégration permanente partielle et l'intégration temporaire [<sup>1</sup> partielle]<sup>1</sup> peuvent s'effectuer au niveau fondamental et au niveau secondaire en ce compris le passage du niveau fondamental au niveau secondaire.
+
+L'élève intégré reste inscrit comme élève régulier dans l'enseignement spécialisé. Il bénéficie des nombres-guides correspondant au type d'enseignement déterminé par son attestation d'orientation.
+
+----------
+
+(1)&lt;DCFR 2021-06-17/04, art. 8, 045; En vigueur : 04-07-2020&gt;
+
+#### Art. 150
+
+[<sup>1</sup> Toute décision relative à l'intégration [<sup>4</sup> permanente]<sup>4</sup> partielle et à l'intégration temporaire [<sup>4</sup> partielle]<sup>4</sup> est précédée d'une proposition qui émane d'au moins un des intervenants suivants :
+
+1° Le Conseil de classe d'une [<sup>5</sup> école]<sup>5</sup> d'enseignement spécialisé comprenant l'ensemble des membres du personnel enseignant, paramédical, psychologique, social et auxiliaire d'éducation qui participent directement à l'encadrement de l'élève;
+
+2° L'organisme qui assure la guidance de l'élève [<sup>2</sup> de l'enseignement spécialisé]<sup>2</sup>;
+
+3° Les parents, la personne investie de l'autorité parentale ou l'élève lui-même s'il est majeur;
+
+4° [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>2</sup> 5° [<sup>4</sup> ...]<sup>4</sup>]<sup>2</sup>
+
+Cette proposition est introduite auprès du [<sup>6</sup> directeur]<sup>6</sup> d'enseignement spécialisé.
+
+La direction dans l'enseignement organisé par la Communauté française ou le pouvoir organisateur dans l'enseignement subventionné de l'[<sup>5</sup> école]<sup>5</sup> d'enseignement spécialisé concerné concerte tous les intervenants visés au présent article.
+
+Si la concertation débouche sur un avis favorable celui-ci est signé par les intervenants visés au présent article et remis au directeur.]<sup>1</sup>
+
+[<sup>3</sup> Si la concertation débouche sur un avis défavorable, chaque partenaire ayant marqué son désaccord motivera par écrit sa position au [<sup>6</sup> directeur]<sup>6</sup> dans l'enseignement organisé par la Communauté française ou au Pouvoir organisateur de l'école d'enseignement spécialisé dans l'enseignement subventionné par la Communauté française.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 47, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2011-02-10/07, art. 46, 014; En vigueur : 07-03-2011&gt;
+
+(3)&lt;DCFR 2012-02-01/14, art. 29, 015; En vigueur : 25-03-2012&gt;
+
+(4)&lt;DCFR 2021-06-17/04, art. 9, 045; En vigueur : 04-07-2020&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 34, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 151
+
+[<sup>1</sup> Dès l'acceptation de la proposition d'intégration [<sup>2</sup> permanente]<sup>2</sup> partielle ou d'intégration temporaire [<sup>2</sup> partielle]<sup>2</sup> par les partenaires, la définition d'un projet d'intégration est recherchée conjointement par :]<sup>1</sup>
+
+1° le conseil de classe de l'[<sup>3</sup> école]<sup>3</sup> d'enseignement spécialisé, assisté par l'organisme qui assure la guidance des élèves de l'[<sup>3</sup> école]<sup>3</sup> spécialisée;
+
+2° le titulaire de classe ou le conseil de classe de l'[<sup>3</sup> école]<sup>3</sup> d'enseignement ordinaire concerné, assisté par le centre psycho-medico-social qui assure la guidance des élèves de l'établissement.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/28, art. 35, 020; En vigueur : 01-05-2014&gt;
+
+(2)&lt;DCFR 2021-06-17/04, art. 10, 045; En vigueur : 04-07-2020&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 152
+
+A l'issue de la procédure visée aux articles 150 et 151 un protocole est établi. Ce protocole contient :
+
+1° le projet d'intégration comprenant [<sup>1</sup> la fiche d'identification et de parcours de l'élève]<sup>1</sup>, les objectifs visés, l'énumération des équipements spécifiques et le dispositif de liaison entre les écoles;
+
+2° les modalités de concertation entre le(s) membre(s) du personnel de l'enseignement spécialisé et le(s) membre(s) du personnel de l'enseignement ordinaire en charge de la classe qui accueille l'élève [<sup>3</sup> et, le cas échéant, les équipes psycho-médico-sociales de [<sup>5</sup> l'école d'enseignement spécialisé]<sup>5</sup> et de l'école ordinaire]<sup>3</sup>, ainsi que les modalités d'évaluation interne [<sup>4</sup> de l'intégration permanente partielle ou de l'intégration temporaire partielle]<sup>4</sup> et la constitution de rapports;
+
+3° [<sup>3</sup> l'avis du centre psycho-médico-social qui accompagne l'élève au moment de l'introduction de la proposition d'intégration ;]<sup>3</sup>
+
+4° l'accord soit du directeur pour les établissements organisés par la Communaute française soit du pouvoir organisateur ou de son délégué pour les [<sup>6</sup> école]<sup>6</sup> subventionnées par la Communauté française,
+
+5° l'accord des parents, de la personne investie de l'autorité parentale ou de l'élève lui-même s'il est majeur.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/28, art. 36, 020; En vigueur : 01-05-2014&gt;
+
+(2)&lt;DCFR 2018-07-11/16, art. 23, 035; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 78, 041; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2021-06-17/04, art. 11, 045; En vigueur : 04-07-2020&gt;
+
+(5)&lt;DCFR 2024-05-16/79, art. 10, 060; En vigueur : 02-08-2024&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 153
+
+[<sup>1</sup> Le protocole visé à l'article 152 est conservé dans l'[<sup>3</sup> école]<sup>3</sup> d'enseignement spécialisé et tenu à disposition du Service général de l'Inspection et des Services du Gouvernement.
+
+Dans chaque cas et dès que le protocole est complet, l'information concernant les coordonnées de l'élève intégré est transmise aux Services du Gouvernement.]<sup>1</sup>
+
+[<sup>2</sup> Le cas échéant, l'école d'enseignement spécialisé informe le pôle territorial de la mise en place d'un protocole pour les élèves concernés par une possible intégration permanente totale.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 48, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 13, 047; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 154
+
+[<sup>1</sup> Un nouveau [<sup>2</sup> protocole d'intégration]<sup>2</sup> est établi lors du changement d'école d'un élève intégré.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 49, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2014-04-11/28, art. 37, 020; En vigueur : 01-05-2014&gt;
+
+#### Art. 155
+
+&lt;Abrogé par DCFR 2009-02-05/48, art. 50, 009; En vigueur : 01-09-2009&gt;
+
+#### Art. 156
+
+[<sup>1</sup> Au terme de chaque période d'intégration, chacune des parties ayant marqué son accord au protocole, à l'exception du centre psycho-médico-social qui assurait la guidance de l'élève avant son entrée en intégration pour autant que celui-ci n'assure plus la guidance de cet élève, ou le centre psycho-médico-social qui assure la guidance de l'élève au terme de la période d'intégration, peut demander de mettre fin à l'intégration et le retour à temps plein dans l'enseignement spécialisé.
+
+Par dérogation à l'alinéa premier, l'intégration prend fin, pour les motifs suivants, à la date connue de l'évènement :
+
+1° une mesure de placement prise soit par un magistrat, soit par le conseiller ou le (la) directeur(trice) d'aide à la jeunesse ;
+
+2° un changement de domicile ;
+
+3° une séparation des parents entraînant un changement de lieu d'hébergement de l'élève ;
+
+4° le passage de l'élève d'une école à régime d'externat vers un internat et vice versa ;
+
+5° l'accueil de l'élève, sur l'initiative des parents, dans une autre famille ou dans un centre pour raison de maladie, de voyage ;
+
+6° l'exclusion définitive de l'élève.
+
+En cas de circonstances exceptionnelles, les partenaires du projet d'intégration tels que prévus à l'alinéa 1er peuvent, par décision collégiale motivée, mettre fin à l'intégration et autoriser le retour à temps plein de l'élève dans l'enseignement spécialisé en cours d'année scolaire.
+
+Le procès-verbal actant la fin d'intégration est tenu à la disposition des Services du Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-07-11/16, art. 24, 035; En vigueur : 01-09-2018&gt;
+
+#### Art. 157
+
+[<sup>1</sup> Une mission d'évaluation permanente des actions d'intégration est assurée par [<sup>2</sup> le Conseil général concerné]<sup>2</sup>, notamment sur la base des données statistiques fournies par les Services du Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 52, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2019-04-25/56, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 158
+
+L'[<sup>1</sup> école]<sup>1</sup> d'enseignement spécialisé dans lequel l'élève est inscrit délivre :
+
+1° les certificats d'étude et de qualification;
+
+2° les attestations de fréquentation;
+
+3° les attestations indiquant les périodes durant lesquelles l'élève a été intégré dans une [<sup>1</sup> école]<sup>1</sup> d'enseignement ordinaire.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 4.
+
+&lt;Abrogé par DCFR 2018-07-11/16, art. 25, 035; En vigueur : 01-09-2018&gt;
+
+#### Art. 158bis
+
+&lt;Abrogé par DCFR 2018-07-11/16, art. 25, 035; En vigueur : 01-09-2018&gt;
+
+## CHAPITRE XI. - De L'enseignement dispensé à domicile par un etablissement de l'enseignement spécialisé.
+
+#### Art. 159
+
+L'enseignement dispensé à domicile peut être organisé ou subventionné aux niveaux primaire et secondaire de manière temporaire ou permanente.
+
+#### Art. 160
+
+Pour bénéficier de l'enseignement dispensé à domicile, l'élève doit satisfaire aux conditions suivantes :
+
+1° être régulièrement inscrit dans une [<sup>1</sup> école]<sup>1</sup> d'enseignement spécialisé du niveau primaire ou secondaire;
+
+2° être inscrit dans l'[<sup>1</sup> école]<sup>1</sup> la plus proche de son domicile sans égard au type d'enseignement spécialisé que celui-ci organise et, ce en tenant compte du libre choix des parents, sauf dérogation accordée par la Commission consultative de l'enseignement spécialisé;
+
+3° être dans l'impossibilite d'user d'un moyen de transport ou de se déplacer. Cette impossibilité doit être imputable à la gravité du handicap ou de la maladie qui a nécessité l'orientation vers l'enseignement spécialisé;
+
+4° avoir fait l'objet d'un avis favorable motivé de la Commission consultative de l'Enseignement spécialisé.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 161
+
+La Commission consultative de l'Enseignement spécialisé apprécie si l'enseignement dispensé à domicile contribue au développement de toute la personnalité de l'élève et n'empêche, ni ne freine son intégration sociale.
+
+#### Art. 162
+
+L'[<sup>1</sup> école]<sup>1</sup> d'enseignement spécialisé qui reçoit l'inscription d'un élève doit organiser pour celui-ci l'enseignement prescrit.
+
+Pour le calcul du capital-périodes, les élèves sont administrativement assimilés à l'enseignement spécialisé de type 4, quel que soit leur handicap.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 163
+
+§ 1er. Seuls les maîtres d'enseignement individualisé et les maîtres d'activités éducatives peuvent être chargés de l'enseignement dispensé à domicile au niveau primaire.
+
+§ 2. Seuls les professeurs de cours généraux peuvent être chargés de l'enseignement dispensé à domicile au niveau secondaire.
+
+§ 3. Le lieu où l'enseignement à domicile est dispensé, est assimilé au lieu où les enseignants exercent leurs fonctions.
+
+§ 4. Le Gouvernement peut, suivant des modalités fixées par arrêté pris sur avis du [<sup>1</sup> le Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>, intervenir dans les frais d'enseignement à domicile dispensés à des enfants ou des adolescents à besoins spécifiques qui, tout en étant aptes à benéficier d'un enseignement spécialisé donné, ne pourraient, de l'avis des commissions consultatives d'enseignement spécialise compétentes, fréquenter temporairement ou de façon permanente ce type d'enseignement en raison de la nature ou de la gravité du handicap.
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 44, 038; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE XII. - De l'utilisation des reliquats.
+
+#### Art. 164
+
+Les reliquats des différents capitaux périodes visés aux articles 44, 98, 108 et 119 sont globalisés au niveau de l'école.
+
+#### Art. 165
+
+Dans le respect des regles statutaires apres consultation préalable du comité de concertation de base pour les établissements d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les établissements d'enseignement officiel subventionnés par la Communauté française ou des [<sup>1</sup> organes locaux de concertation sociale]<sup>1</sup> ou à défaut des délégations syndicales pour les établissements d'enseignement libre subventionnés par la Communauté française, le reliquat global peut être attribué au sein de l'[<sup>2</sup> école]<sup>2</sup> en faveur d'une ou plusieurs fonction(s) organisable(s) dans l'enseignement spécialise.
+
+Pour l'utilisation des reliquats, la fraction de charge générée par un reliquat de capital-périodes sera convertie en fraction de charge équivalente dans la nouvelle fonction où elle est utilisée.
+
+Les diviseurs utilisés pour le calcul de la fraction de charge de reliquat sont les suivants :
+
+\- Diviseur périodes enseignants fondamental = 24
+
+\- Diviseur périodes enseignants secondaire = 24
+
+\- Diviseur périodes personnel paramédical = 32
+
+\- Diviseur périodes personnel auxiliaire d'éducation et administratif = 36
+
+La somme des reliquats ne peut en aucun cas dépasser une demi-charge lorsque ceux-ci ne sont pas employés pour une prise en charge des élèves dans l'[<sup>2</sup> école]<sup>2</sup> concernée.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 166
+
+Le Gouvernement selon les modalités qu'il détermine peut autoriser le transfert de reliquat entre [<sup>2</sup> écoles]<sup>2</sup> d'un même réseau après consultation du comité de concertation de base pour les établissements d'enseignement organisés par la Communauté française, de la Commission paritaire locale pour les établissements d'enseignement officiel subventionnés par la Communauté française ou des [<sup>1</sup> organes locaux de concertation sociale]<sup>1</sup> ou à défaut des délégations syndicales pour les [<sup>2</sup> écoles]<sup>2</sup> d'enseignement libre subventionnés par la Communauté française.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,2°, 068; En vigueur : 24-08-2026&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 167
+
+Aucune nomination ne peut se faire dans le cadre de l'utilisation des reliquats.
+
+## CHAPITRE XIII. De la concertation dans l'enseignement secondaire spécialisé
+
+### Section 1re. - Du [<sup>1</sup> Conseil général]<sup>1</sup> et de ses missions générales.
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 168
+
+[<sup>1</sup> Le Gouvernement définit par zone géographique qu'il détermine :
+
+1° les obligations de concertation entre [<sup>2</sup> écoles]<sup>2</sup> de même caractère ; la concertation porte notamment sur la programmation et sur l'harmonisation de l'offre régionale de formation ;
+
+2° les organes au sein desquels s'établit cette concertation ; ces organes sont communs à l'enseignement spécialisé et à l'enseignement ordinaire]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 169
+
+[<sup>1</sup> Est subordonnée à l'avis favorable issu de la concertation visée à l'article 168, l'organisation ou l'admission aux subventions d'une nouvelle forme, d'un nouveau type ou d'un nouveau métier de l'enseignement secondaire de forme 3.
+
+Si un pouvoir organisateur outrepasse un avis défavorable, il perd le bénéfice des crédits ou des subventions pour l'ensemble de l'[<sup>2</sup> école]<sup>2</sup> où la forme, le type ou le nouveau métier de l'enseignement secondaire de forme 3 en cause sont organisés, pendant les années scolaires concernées.
+
+Le fait pour un pouvoir organisateur de ne pas solliciter l'avis de l'organe de concertation visé à l'article 168 est assimilé au fait d'outrepasser un avis défavorable ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 2. - De la composition et du fonctionnement du [<sup>1</sup> le Conseil général concerné ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 170
+
+[<sup>1</sup> L'admission aux subventions d'une nouvelle forme, d'un nouveau type ou d'un nouveau métier de l'enseignement secondaire de forme 3 est automatiquement examinée par les Services du Gouvernement au terme du processus de programmation ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 171
+
+&lt;Abrogé par DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 172
+
+&lt;Abrogé par DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 173
+
+&lt;Abrogé par DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 174
+
+&lt;Abrogé par DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 175
+
+&lt;Abrogé par DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 176
+
+&lt;Abrogé par DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+### Section 3.
+
+&lt;Abrogé par DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 177
+
+&lt;Abrogé par DCFR 2019-04-25/56, art. 42, 038; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE XIV. [<sup>1</sup> le Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 44, 038; En vigueur : 01-09-2019&gt;
+
+### Section 1re. - [<sup>1</sup> le Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>et de ses missions générales.
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 44, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 178
+
+Il est créé un [<sup>1</sup> Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup> ci-après dénommé le Conseil supérieur.
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 179
+
+Le Conseil supérieur est chargé des missions suivantes :
+
+1°. Donner, soit d'initiative, soit à la demande du ministre ayant l'Enseignement (spécialisé) dans ses attributions, les avis prévus aux articles 20 alinéa 1er, de la loi du 6 juillet 1970, à l'article 32, § 3 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement et à l'article 163, § 4 du présent décret. &lt;DCFR 2006-07-20/66, art. 5, 003; En vigueur : 04-09-2006&gt;
+
+2° Donner, soit d'initiative, soit à la demande du ministre ayant l'Enseignement (spécialisé) dans ses attributions des avis sur toute les questions relatives à l'enseignement spécialisé qui suscitent une vision cohérente de son évolution à moyen ou à long terme. &lt;DCFR 2006-07-20/66, art. 5, 003; En vigueur : 04-09-2006&gt;
+
+3° Donner au Gouvernement, d'initiative ou à sa demande : un avis sur les divers types d'enseignement spécialisé qui peuvent être organisés ou subventionnés par la Communauté française, un avis concernant les montants des allocations de fonctionnement dans l'enseignement spécialisé de plein exercice, dans l'enseignement spécialisé de promotion sociale, ou dans l'enseignement spécialisé en alternance. un avis sur l'intervention dans les frais d'enseignement a domicile dispensé à des enfants ou adolescents à besoins spécifiques;
+
+4° Créer des synergies entre tous les acteurs et partenaires concernés par l'enseignement spécialisé.
+
+### Section 2. - De la composition et du fonctionnement [<sup>1</sup> le Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 44, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 180
+
+Le Conseil supérieur est composé d'un président, d'un vice-président et de 24 membres représentant les disciplines pédagogique, psychologique, medicale et sociale, les organisations syndicales représentatives et les associations les plus représentatives des parents d'enfants à besoins spécifiques.
+
+La moitié des membres du Conseil supérieur sont choisis parmi les membres du personnel des établissements d'enseignement organisés ou subventionnés par la Communauté française. La répartition des membres vise à assurer l'équilibre entre les représentants de l'enseignement confessionnel et ceux de l'enseignement non confessionnel.
+
+Le Président, le Vice-président et les membres du Conseil supérieur sont nommés par le ministre ayant l'enseignement (spécialisé) dans ses attributions. &lt;DCFR 2006-07-20/66, art. 5, 003; En vigueur : 04-09-2006&gt;
+
+[<sup>1</sup> Le Président et le Vice-Président représentent chacun un caractère d'enseignement différent. A chaque renouvellement des mandats, il y a inversion des caractères entre le Président et le Vice-Président.]<sup>1</sup>
+
+Des fonctionnaires appartenant aux divers départements ministériels intéressés à la solution des problèmes posés par les enfants ou les adolescents à besoins spécifiques, siègent dans le Conseil à titre consultatif. La liste de ces départements est fixée par le Gouvernement.
+
+Le Gouvernement fixe les règles relatives à la composition et au fonctionnement du Conseil supérieur.
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 53, 009; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE XV. - De la rationalisation et de la programmation de l'enseignement spécialisé.
+
+### Section 1re. - Dispositions générales.
+
+#### Art. 181
+
+§ 1er. En application de l'article 4 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, le Gouvernement détermine par type d'enseignement spécialisé le nombre et la répartition géographique des établissements d'enseignement spécialisé organisés ou subventionnés par la Communauté française afin d'assurer le libre choix des parents.
+
+§ 2. Après avis motivé du [<sup>1</sup> Conseil général]<sup>1</sup> visé à l'article 170, le Gouvernement peut organiser, subventionner ou reconnaitre une [<sup>2</sup> école]<sup>2</sup> d'enseignement spécialisé qui se limite à une catégorie spécifique d'élèves, à l'intérieur d'un type et par niveau, tenant compte de la nature et de la gravité du handicap et/ou des possibilités d'apprentissage et de développement mental des élèves.
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 182
+
+La rationalisation et la programmation concernent :
+
+1° les écoles, les implantations et les types d'enseignement spécialisé pour l'enseignement fondamental spécialise;
+
+2° les écoles, les implantations et les types d'enseignement spécialisé, les formes d'enseignement spécialisé et les secteurs professionnels pour l'enseignement secondaire spécialisé.
+
+La rationalisation et la programmation ne s'appliquent pas aux internats, aux semi-internats, aux homes d'accueil et aux centres d'observation organisés par la Communauté française.
+
+#### Art. 183
+
+§ 1er. Pour l'application du présent chapitre, la structure comprend :
+
+1° dans l'enseignement fondamental spécialisé : les types d'enseignement spécialisé;
+
+2° dans l'enseignement secondaire spécialisé : les formes [<sup>1</sup> et les types]<sup>1</sup>;
+
+3° dans l'enseignement secondaire spécialisé de forme 3 : les secteurs professionnels;
+
+4° les implantations.
+
+§ 2. Pour l'application du présent chapitre, on entend par :
+
+densité de population d'un arrondissement :
+
+a) la population d'un arrondissement administratif, telle qu'elle est déterminée et fixée [<sup>1</sup> par les chiffres les plus récents communiqués par le Service public fédéral Economie, P.M.E, Classes Moyennes et Energie dont dépend le service Statistics Belgium]<sup>1</sup>, divisée par la superficie totale de l'arrondissement exprimée en km2.
+
+b) pour tout lieu d'implantation, la densité de population à prendre en considération est celle de l'arrondissement où se situe réellement cette implantation.
+
+c) pour une école ayant des implantations sur plusieurs arrondissements, la densité de population à prendre en considération est fixée sur base du calcul suivant : la population totale des arrondissements concernés est divisée par la superficie totale exprimée en km2.
+
+§ 3. Les [<sup>2</sup> écoles]<sup>2</sup> d'enseignement spécialisé sont répartis en fonction du pouvoir organisateur dont ils dépendent :
+
+1° écoles organisées par la Communauté française;
+
+2° écoles organisees par la COCOF, les provinces, les communes ou toute autre personne de droit public,
+
+3° écoles libres confessionnelles;
+
+4° écoles libres non confessionnelles.
+
+4\. En cas de force majeure, une transplantation temporaire d'un bâtiment principal ou d'une implantation n'est pas considérée comme une nouvelle création.
+
+En cas de déménagement définitif, les locaux scolaires abandonnés ne peuvent plus être utilisés en tout ou en partie pour des activités d'enseignement spécialisé du même niveau. En cas contraire, les normes de programmation sont d'application.
+
+----------
+
+(1)&lt;DCFR 2012-02-01/14, art. 33, 015; En vigueur : 25-03-2012&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 184
+
+§ 1er. La fusion d'écoles peut être réalisée aux conditions suivantes :
+
+1° La fusion se réalise :
+
+a) soit par la réunion de deux ou plusieurs écoles qui sont supprimées simultanément;
+
+b) soit par la reunion de deux ou plusieurs ecoles, dont l'une continue d'exister, absorbant l'(les) autre(s) école(s);
+
+2° Tant au point de vue administratif que pour l'organisation pédagogique, la fusion se réalise en un temps.
+
+Elle implique qu'il ne subsiste qu'un seul pouvoir organisateur et une seule direction.
+
+3° La fusion doit se réaliser au plus tard le 30 septembre de l'année scolaire en cours.
+
+[<sup>1</sup> Préalablement à toute fusion, le Gouvernement est chargé de vérifier le respect, par les écoles concernées, des dispositions légales et réglementaires en vigueur.]<sup>1</sup>
+
+§ 2. Les écoles organisées ou subventionnées en fonction des articles 195 et 208 du présent décret, ne peuvent, en phase de programmation, faire appel aux dispositions du § 1er du présent article.
+
+§ 3. L'école résultant d'une fusion n'est pas considérée comme étant une école nouvelle.
+
+§ 4. Le transfert d'un type ou d'une forme d'enseignement à un autre pouvoir organisateur ne constitue pas une création.
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 54, 009; En vigueur : 01-09-2009&gt;
+
+#### Art. 185
+
+§ 1er. Une école existante ou une école issue d'une fusion peut avoir plusieurs implantations ou s'organiser de cette façon à condition de former un ensemble pédagogique et administratif situé dans un même complexe de bâtiments, ou en tout cas, dans une même commune ou dans la région de Bruxelles-Capitale et sous une même direction, le tout, sauf dérogation accordée par le Gouvernement, dans des cas exceptionnels.
+
+§ 2. Les implantations autres que le batiment principal n'entrent pas en ligne de compte pour le calcul des distances vers l'école la plus proche, à l'exception des implantations issues d'une fusion, comme prévu au § 3.
+
+§ 3. L'obligation d'être situé dans une même commune ou dans la région de Bruxelles-Capitale n'est pas imposée à un ensemble pédagogique placé sous la direction d'un même directeur et issu de la fusion d'écoles existant pendant l'année scolaire 1974-1975. Dans ce cas, une dérogation n'est donc pas nécessaire.
+
+#### Art. 186
+
+Pour l'application du présent décret, dans les calculs des minima de population scolaire le résultat final est arrondi à l'unité supérieure lorsque la première décimale est égale ou supérieure à cinq.
+
+#### Art. 187
+
+Sans préjudice des articles 196 et 200, pour l'application des minima de population sont pris en considération les élèves reguliers qui satisfont aux conditions définies par le présent décret et notamment par les articles 12, 13, 14 et 15 du présent décret.
+
+#### Art. 188
+
+Pour l'application du présent chapitre, la distance entre le bâtiment principal de l'école et une implantation est la plus courte possible mesurée par la route telle que décrite dans l'article 2.1. de l'arrête royal du 1er décembre 1975 concernant le règlement de police de la circulation, sans qu'il soit tenu compte de déviation ou de sens unique.
+
+### Section 2. - De la rationalisation de l'enseignement fondamental spécialisé.
+
+#### Art. 189
+
+§ 1er. Toute école d'enseignement fondamental spécialisé doit à la date du 30 septembre satisfaire aux minima de population fixés au § 5.
+
+§ 2. Les élèves de l'enseignement maternel et de l'enseignement primaire sont additionnés par type d'enseignement spécialisé.
+
+§ 3. Les normes de rationalisation fixées au § 5 s'appliquent à la population globale de tous les lieux d'implantation. Le bâtiment principal est considére comme un lieu d'implantation.
+
+§ 4. Sans préjudice des dispositions du § 3, toute implantation située à une distance de 2 km et plus du bâtiment principal doit atteindre par type, un nombre d'élèves au moins égal à la moitié des normes prévues au § 5.
+
+§ 5. 1° Les écoles fondamentales avec un seul type d'enseignement spécialisé.
+
+Les écoles fondamentales où un seul type d'enseignement spécialisé est organise ou subventionné, doivent atteindre le minimum de population tel que déterminé ci-après :
+
+a) pour l'enseignement de type 1, le minimum de population à atteindre est fixé à 20 élèves;
+
+b) pour l'enseignement de type 2, le minimum de population à atteindre est fixé à 14 élèves;
+
+c) pour l'enseignement de type 3, le minimum de population à atteindre est fixé à 14 élèves;
+
+d) pour l'enseignement de type 4, le minimum de population à atteindre est fixé à 14 élèves;
+
+e) pour l'enseignement de type 5, le minimum de population à atteindre est fixé à 14 élèves;
+
+f) pour l'enseignement de type 6, le minimum de population à atteindre est fixe à 12 élèves;
+
+g) pour l'enseignement de type 7, le minimum de population à atteindre est fixé à 12 élèves;
+
+h) pour l'enseignement de type 8, le minimum de population à atteindre est fixé à 20 élèves.
+
+2° Les ecoles fondamentales avec plus d'un type d'enseignement spécialisé.
+
+Dans les écoles fondamentales où plus d'un type d'enseignement spécialisé est organisé ou subventionné, le minimum de population est déterminé par la somme des minima de population de chaque type d'enseignement spécialisé organisé ou subventionné.
+
+Les minima pour les differents types d'enseignement specialisé sont fixés comme suit :
+
+a) pour l'enseignement de type 1, le minimum de population à atteindre est fixé à 20 élèves;
+
+b) pour l'enseignement de type 2, le minimum de population à atteindre est fixé à 14 élèves;
+
+c) pour l'enseignement de type 3, le minimum de population à atteindre est fixé à 14 éleves;
+
+d) pour l'enseignement de type 4, le minimum de population à atteindre est fixé à 14 élèves;
+
+e) pour l'enseignement de type 5, le minimum de population à atteindre est fixé à 14 élèves;
+
+f) pour l'enseignement de type 6, le minimum de population à atteindre est fixé à 12 élèves;
+
+g) pour l'enseignement de type 7, le minimum de population à atteindre est fixé à 12 élèves;
+
+h) pour l'enseignement de type 8, le minimum de population à atteindre est fixé à 20 élèves.
+
+#### Art. 190
+
+Par dérogation à l'article 189, les minima sont réduits d'un quart pour les écoles situées dans les arrondissements dont la densité de population est inférieure à 75 habitants au km2.
+
+#### Art. 191
+
+§ 1er. Toute école composée de plusieurs types atteignant le total des normes en application des articles 189, § 5, 2°, et 190, mais dont la population d'un ou plusieurs types est inférieure à la norme imposée par ces mêmes articles, peut maintenir ces types et conserver sa structure complète lorsque la population de chaque type pris séparément n'est pas inférieure aux 2/3 de la norme qui lui est applicable.
+
+§ 2. Toute école composée de plusieurs types atteignant le total des normes en application des articles 189, § 5, 2°, et 190, mais dont la population d'un ou de plusieurs types est inférieure à la norme établie au § 1er, pendant deux années scolaires consécutives, doit supprimer, au plus tard, le 30 septembre de cette deuxième année scolaire, le ou les types ne répondant pas à cette norme ou l'école doit fusionner a la même date.
+
+§ 3. Toute école composée de plusieurs types n'atteignant pas le total des normes en application des articles 189, § 5, 2° et 190, mais dont la population de chaque type atteint la norme établie au § 1er de cet article pendant deux années scolaires consécutives, doit supprimer au plus tard le 30 septembre de cette deuxième année scolaire, le ou les type(s) ne répondant pas aux normes prévues à l'article 189, § 5, ou doit fusionner à cette même date.
+
+§ 4. Toute école n'organisant qu'un seul type et n'atteignant pas pendant deux années scolaires consécutives, la norme qui lui est applicable en vertu des articles 189, § 5, 1° et 190, mais dont la population n'est pas inférieure aux 2/3 de la norme qui lui est applicable doit, au plus tard le 30 septembre de cette deuxième année scolaire, être supprimée ou l'école doit fusionner à cette même date.
+
+§ 5. Par dérogation à l'article 189, § 5, 2° et complémentairement aux dispositions des §§ 1er, 2 et 3, les types 2 et 4 organisés dans une même école peuvent être maintenus s'ils satisfont aux conditions suivantes :
+
+1° un des deux types doit atteindre la norme qui lui est applicable,
+
+2° l'autre type doit atteindre au moins un quart de la norme qui lui est applicable.
+
+Si les deux conditions prévues dans le présent paragraphe ne sont pas remplies, le type ne répondant pas à la norme fixée au point 2° doit, au plus tard le 30 septembre de la deuxième année scolaire, être supprimé ou l'école doit fusionner à la même date.
+
+#### Art. 192
+
+Par dérogation à l'article 189, si pour un type déterminé, dans une [<sup>3</sup> zone]<sup>3</sup> déterminée, aucune école d'un réseau déterminé n'atteint la norme de rationalisation prévue dans ce chapitre, une seule école de ce réseau peut maintenir ce type dans cette [<sup>3</sup> zone]<sup>3</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2013-10-17/21, art. 28, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(3)&lt;DCFR 2024-01-18/27, art. 75, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 193
+
+Si a la date du 30 septembre, les normes de rationalisation prévues aux articles 189 à 192 inclus ne sont pas atteintes, ou bien le ou les types ne répondant pas à la norme, doit ou doivent être supprimé(s) au plus tard le 30 septembre de l'année en cours ou bien l'école doit fusionner à la même date.
+
+#### Art. 194
+
+Dans une implantation issue d'une fusion en application de l'article 184, seuls les types qui existaient avant la fusion peuvent être maintenus.
+
+#### Art. 194bis
+
+[<sup>1</sup> Le Gouvernement procède, au minimum [<sup>2</sup> tous les quatre ans]<sup>2</sup> et pour la première fois pendant l'année [<sup>2</sup> 2026]<sup>2</sup>, à une analyse des données disponibles concernant, zone par zone, la démographie et les besoins prévisibles en termes de nombre de places, par type d'enseignement. Le Gouvernement transmet cette analyse au Parlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 29, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 23, 068; En vigueur : 24-08-2026&gt;
+
+### Section 3. - De la programmation de l'Enseignement fondamental spécialisé.
+
+#### Art. 195
+
+§ 1er. Au [<sup>2</sup> premier jour d'une année scolaire]<sup>2</sup>, une école peut être créée ou admise aux subventions [<sup>1</sup> de manière définitive]<sup>1</sup> , si à la date du 30 septembre elle satisfait aux trois conditions suivantes :
+
+1° organiser au moins deux types, sauf dérogation accordée par le Gouvernement;
+
+2° [<sup>3</sup> 2° atteindre pour chaque type pris séparément 150 % de la norme de rationalisation prévue aux articles 189 et 190. Par dérogation, pour l'enseignement spécialisé de type 2, la norme de rationalisation est de 100% durant les années scolaires 2023-2024 à [<sup>4</sup> 2026-2027]<sup>4</sup>;]<sup>3</sup>;
+
+3° atteindre au moins 200 % de la 1re année, 225 % la 2e année et 250 % la 3e année du total des normes de rationalisation, des types organisés, prévues aux articles 189 et 190;
+
+4° [<sup>1</sup> ...]<sup>1</sup>;
+
+5° [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Si ces minima ne sont pas atteints, ou bien le ou les type(s) concerné(s) doit/doivent être supprimé(s) à partir du [<sup>2</sup> premier jour d'une année scolaire]<sup>2</sup> suivant, ou bien l'école doit être fermée, sauf dérogation accordée par le Gouvernement si le ou les type(s), ou l'école répond(ent) à un réel besoin dans la zone d'enseignement.]<sup>1</sup>
+
+[<sup>1</sup> Par dérogation à l'alinéa précédent, si ces minima sont atteints pendant un minimum de 10 jours ouvrables en cours d'année scolaire, le type ou l'école n'est pas fermé au [<sup>2</sup> premier jour]<sup>2</sup> de l'année scolaire suivante.] -1
+
+[<sup>1</sup> A partir de la 4e année scolaire, les dispositions en matière de rationalisation sont exclusivement applicables et la nouvelle école est admise de manière définitive aux subventions et a accès aux Fonds des bâtiments scolaires.]<sup>1</sup>
+
+§ 2. 1° Par dérogation au § 1er, dans une université où une faculté de médecine complète est organisée ou admise aux subventions par la Communauté française, une seule école d'enseignement fondamental spécialisé pour le type 5 peut au [<sup>2</sup> premier jour d'une année scolaire]<sup>2</sup> être créée ou admise aux subventions à condition d'atteindre 200 % la 1re année, 225 % la 2e année et 250 % la 3e année des normes de rationalisation, prévues aux articles 189 et 190.
+
+2° Si cette école n'atteint pas les normes de programmation, elle doit être supprimée à partir du [<sup>2</sup> premier jour de l'année scolaire suivante]<sup>2</sup>.
+
+3° A partir de la 4e année scolaire, les dispositions en matière de rationalisation sont exclusivement applicables et la nouvelle école remplit les conditions d'accès aux Fonds des bâtiments scolaires.
+
+----------
+
+(1)&lt;DCFR 2018-07-11/16, art. 29, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 80, 048; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2023-07-20/48, art. 12, 055; En vigueur : 28-08-2023&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 24, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 196
+
+Chaque école qui répond aux normes de rationalisation prévues aux articles 189 et 190, peut organiser une ou plusieurs implantations à une distance inférieure à 2 km du bâtiment principal.
+
+Chaque école qui répond aux normes de rationalisation prévues aux articles 189 et 190, peut organiser une ou plusieurs implantations a une distance de 2 km et plus, pour autant que chaque lieu d'implantation réponde également aux normes de rationalisation.
+
+[<sup>1</sup> Si ces minima ne sont pas atteints, ou bien le ou les type(s) concerné(s)doit/doivent être supprimé(s) à partir du [<sup>4</sup> premier jour de l'année scolaire suivante]<sup>4</sup> suivant, ou bien l'implantation doit être fermée, sauf dérogation accordée par le Gouvernement si le ou les type(s), ou l'implantation répond(ent) à un réel besoin dans la zone d'enseignement.
+
+Par dérogation à l'alinéa précédent, si ces minima sont atteints pendant un minimum de 10 jours ouvrables en cours d'année scolaire, le type ou l'implantation n'est pas fermé au [<sup>4</sup> premier jour]<sup>4</sup> de l'année scolaire suivante.]<sup>1</sup>
+
+Dans les implantions visées aux alinéas 1er et 2, ne peuvent être créés que les types d'enseignement spécialisé déjà organisés ou subventionnés dans l'école.
+
+[<sup>2</sup> Par dérogation à l'alinéa précédent, le Gouvernement peut autoriser, l'organisation d'une ou plusieurs implantations d'enseignement spécialisé de type 5 même si ce type n'était pas déjà organisé ou subventionné dans l'école.
+
+[<sup>6</sup> Par dérogation à l'alinéa 5, le Gouvernement, après avis motivé du Conseil général, peut autoriser l'organisation d'une ou plusieurs implantations d'enseignement spécialisé d'un ou plusieurs types même si ce(s) type(s) n'était (n'étaient) pas déjà organisé(s) ou subventionné(s) dans l'école.
+
+Toutefois, cette dérogation ne peut être octroyée que dans l'hypothèse où le(s) type(s) répond(ent) à un besoin dans la zone d'enseignement.
+
+L'enseignement spécialisé de type 5 ne doit pas répondre à un besoin dans la zone d'enseignement pour bénéficier de cette dérogation.]<sup>6</sup>
+
+Chaque école qui organise l'enseignement spécialisé de type 2 ou de type 3 et qui atteint les normes de rationalisation prévue à la Section 2 du présent chapitre, peut organiser une classe ou une implantation à visée inclusive de mêmes types que ceux déjà organisés dans l'établissement. [<sup>6</sup> Toutefois, une école d'enseignement spécialisé qui n'organise pas le niveau maternel peut organiser une classe ou une implantation à visée inclusive dans une école d'enseignement ordinaire de niveau maternel.]<sup>6</sup>
+
+Les élèves inscrits dans une classe ou une implantation à visée inclusive génèrent un capital-périodes utilisable selon les mêmes règles que pour les élèves de l'enseignement spécialisé du type d'enseignement dont ils relèvent.
+
+Une implantation à visée inclusive, telle que définie à l'article 8quater, est composée au minimum de 7 élèves. Pour atteindre cette norme, les élèves de type 2 et de type 3 peuvent être additionnés, de même que les élèves du niveau maternel et primaire pour autant que ces deux niveaux sont déjà organisés dans l'[<sup>7</sup> école]<sup>7</sup>.]<sup>2</sup>
+
+[<sup>3</sup> Le capital-périodes servant à l'encadrement généré par les élèves inscrits dans l'implantation à visée inclusive est augmenté d'une demi-charge pour le personnel enseignant. Cette demi-charge peut être transformée en demi-charge d'une fonction paramédicale ou éducative.[<sup>5</sup> Cette demi-charge est accordée dès que l'implantation compte 7 élèves, et ce dès le premier jour de l'année scolaire ou pendant 10 jours ouvrables consécutifs, quel que soit le moment de l'année ou aux différentes dates de comptage.]<sup>5</sup>
+
+Le membre du personnel bénéficiant de cette demi-charge sera notamment chargé de chercher et développer les synergies nécessaires à l'inclusion progressive des élèves dans l'enseignement ordinaire, de préparer les séquences de cours pour placer l'enfant dans une situation de réussite, de proposer des hypothèses de travail, de gérer les arrivées et départ de l'école, de développer des contacts privilégiés avec les deux directions et d'informer les membres du personnel de l'enseignement ordinaire sur l'implantation à visée inclusive.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2018-07-11/16, art. 30, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 79, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 79, 041; En vigueur : 01-09-2020&gt;
+
+(4)&lt;DCFR 2022-03-31/35, art. 81, 048; En vigueur : 29-08-2022&gt;
+
+(5)&lt;DCFR 2023-07-20/48, art. 13, 055; En vigueur : 28-08-2023&gt;
+
+(6)&lt;DCFR 2026-07-17/11, art. 25, 068; En vigueur : 24-08-2026&gt;
+
+(7)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 197
+
+Chaque école d'enseignement spécialisé qui organise de l'enseignement spécialisé au niveau primaire ou au niveau maternel et qui atteint les normes de rationalisation prévue à la Section 2 du présent chapitre, peut organiser de l'enseignement spécialisé au niveau maternel ou au niveau primaire pour les mêmes types d'enseignement spécialisé.
+
+#### Art. 198
+
+§ 1er. Par décision du pouvoir organisateur, une école existante, qui satisfait à la norme de rationalisation, peut au [<sup>2</sup> premier jour de l'année scolaire ]<sup>2</sup> :
+
+1° transformer progressivement par degré de maturité dans l'enseignement primaire spécialisé, un type d'enseignement spécialisé existant, qui répond à la norme de rationalisation prévue aux articles 189 et 190, à condition que ce type d'enseignement spécialisé soit supprimé simultanément, et qu'au 30 septembre de l'année scolaire, pendant laquelle cette transformation a commencé, le type nouvellement créé atteigne la norme de rationalisation.
+
+Durant cette période de transformation, aucun nouvel élève ne peut plus être inscrit dans le type supprimé, mais les élèves fréquentant ce type peuvent achever leurs études dans l'école. Les élèves du type supprimé ne sont pas pris en considération pour le calcul des normes de rationalisation ainsi fixées dans la Section 2 du présent chapitre.
+
+Cette transformation d'un type d'enseignement spécialisé existant doit être réalisée dans tous les lieux d'implantation de l'école où ce type est organisé ou subventionné;
+
+2° créer un type, si à la date du 30 septembre, elle satisfait aux conditions suivantes :
+
+a) durant l'année scolaire précedente, atteindre au moins 125 % du total des normes de rationalisation, prévues aux articles 189 et 190, des types organisés;
+
+b) [<sup>4</sup> atteindre pour ce type pendant deux années scolaires consécutives, 150 % de la norme de rationalisation prévues aux articles 189 et 190. Par dérogation, pour l'enseignement spécialisé de type 2, la norme de rationalisation est de 100 % durant les années scolaires 2023-2024 à 2025-2026]<sup>4</sup>.
+
+A partir de la troisième année scolaire, les dispositions en matière de rationalisation sont exclusivement applicables,
+
+§ 2. Toute autre transformation d'un type d'enseignement spécialisé est exclue durant les périodes déterminées aux points 1° et 2°.
+
+§ 3. Un type peut être créé ou admis aux subventions dans une école existante :
+
+1° par [<sup>5</sup> zone]<sup>5</sup> et par réseau, pour chacun des types, 1, 2, 3, 4, 5 et 8;
+
+2° par réseau, pour chacun des types 6 et 7 si au 30 septembre, il a satisfait aux conditions suivantes :
+
+a) à la date d'entrée en vigueur du présent décret, ce type n'a pas été ni organisé, ni subventionné par la Communauté française dans cette [<sup>5</sup> zone]<sup>5</sup> et dans ce réseau;
+
+b) que durant l'année scolaire précédente, pour les types organisés, le total des normes de rationalisation prévues aux articles 189 et 190, soit atteint;
+
+c) que ce(s) types(s) atteint (atteignent) pendant deux années scolaires consécutives, les normes de rationalisation prévues aux articles 189 et 190.
+
+A partir de la troisième année scolaire, les dispositions en matière de rationalisation sont exclusivement applicables.
+
+Les dispositions du § 1er, 1°, concernant la transformation d'un type en un autre, ne sont pas applicables pendant la période de programmation au(x) type(s) organisé(s) ou subventionné(s) conformément aux dispositions du présent paragraphe.
+
+§ 4. Les dispositions du § 1er, 2° et du § 2 s'appliquent séparément par école au bâtiment principal et à son/ses implantation(s) située(s) à une distance de 2 km et plus.
+
+[<sup>1</sup> § 5. Par dérogation aux normes de programmation, sur base de l'analyse visée à l'article 194bis du même décret, le Gouvernement peut autoriser l'organisation d'un type d'enseignement fondamental spécialisé, sur avis favorable motivé du [<sup>3</sup> Conseil général]<sup>3</sup>, par réseau et par zone, dans une école existante.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2013-10-17/21, art. 30, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 82, 048; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(4)&lt;DCFR 2024-01-18/27, art. 73, 056; En vigueur : 28-02-2023&gt;
+
+(5)&lt;DCFR 2024-01-18/27, art. 76, 056; En vigueur : 21-02-2024&gt;
+
+### Section 4. - De la rationalisation de l'enseignement secondaire spécialisé.
+
+#### Art. 199
+
+Toute école d'enseignement secondaire spécialisé doit compter au moins 15 élèves à la date du 30 septembre.
+
+#### Art. 200
+
+§ 1er. Toute école d'enseignement secondaire spécialisé doit à la date du 30 septembre satisfaire aux minima de population fixés au § 5.
+
+§ 2. Dans les écoles d'enseignement secondaire spécialise avec plus d'une forme d'enseignement, le minimum de population est déterminé par la somme des minima de population de chaque forme d'enseignement organisée ou subventionnée dans l'école comme fixés au § 5.
+
+§ 3. Les normes de rationalisation fixées au § 5 s'appliquent à la population globale de tous les lieux d'implantation. Le bâtiment principal est considéré comme lieu d'implantation.
+
+§ 4. Sans préjudice des dispositions du § 3, toute implantation située à une distance de 2 km et plus doit atteindre par forme, un nombre d'élèves au moins égal aux 2/3 des normes prévues au § 5.
+
+§ 5. Les minima sont fixés séparément pour les diverses formes d'enseignement spécialisé :
+
+1° pour la forme 1, le minimum de population à atteindre est fixé à 7 élèves;
+
+2° pour la forme 2, le minimum de population à atteindre est fixe à 12 élèves;
+
+3° pour la forme 3, le minimum de population à atteindre est fixé à 24 élèves;
+
+4° pour la forme 4, le minimum de population à atteindre est fixé à 8 élèves;
+
+Pour atteindre la norme de rationalisation fixée au § 5, en forme 4, le nombre d'élèves des types d'enseignement [<sup>1</sup> 4,]<sup>1</sup> 6 et 7 peut être multiplié par 2.
+
+§ 6. Si une [<sup>5</sup> école]<sup>5</sup> organisant l'enseignement secondaire spécialise des types [<sup>1</sup> 4,]<sup>1</sup> 6 et/ou 7 n'atteint pas les normes de rationalisation prévues au § 5, les formes d'enseignement secondaire spécialisé organisées dans cette [<sup>5</sup> école]<sup>5</sup> peuvent être maintenues, sans limitation de temps, si aucune [<sup>5</sup> école]<sup>5</sup> du même réseau n'organise ce type d'enseignement dans la même [<sup>4</sup> zone]<sup>4</sup>.
+
+[<sup>2</sup> [<sup>4</sup> ...]<sup>4</sup>.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2012-02-01/14, art. 34, 015; En vigueur : 25-03-2012&gt;
+
+(2)&lt;DCFR 2013-10-17/21, art. 31, 018; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(4)&lt;DCFR 2024-01-18/27, art. 77, 056; En vigueur : 21-02-2024&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 201
+
+Par dérogation à l'article 200, les minima sont réduits d'un quart pour les écoles situées dans des arrondissements dont la densité de population est inférieure à 75 habitants au km2.
+
+#### Art. 202
+
+Toute école composée de plusieurs formes et atteignant le total des normes par application des articles 200, § 5 et 201, mais dont la population d'une ou plusieurs formes est inférieure à la norme imposée par ces mêmes articles, peut conserver ces formes lorsque la population de chaque forme prise séparément, n'est pas inférieure aux 2/3 de cette norme.
+
+Toute école composee de plusieurs formes et atteignant le total des normes, en application des articles 200, § 5 et 201, mais dont la population d'une ou plusieurs formes est inférieure à la norme établie à l'alinéa 1er, pendant deux années scolaires consécutives, doit supprimer au plus tard le 30 septembre de cette deuxième année scolaire, la ou les formes ne répondant pas à cette norme, ou l'école doit fusionner à la même date.
+
+Toute école composée de plusieurs formes et n'atteignant pas le total des normes en application des articles 200, § 5 et 201, mais dont la population de chaque forme atteint la norme établie à l'alinéa 1er du présent article, pendant deux années scolaires consécutives, doit supprimer, au plus tard le 30 septembre de cette deuxième année scolaire la ou les formes ne répondant pas à cette norme ou l'école doit fusionner à la même date.
+
+Sans préjudice de l'article 199, toute école n'organisant qu'une seule forme d'enseignement qui n'atteint pas, pendant deux années scolaires consécutives, la norme qui lui est applicable en vertu des articles 200, § 5 et 201, mais dont la population n'est pas inférieure aux 2/3 de cette norme doit, au plus tard le 30 septembre de cette deuxième année scolaire, être supprimée ou l'école doit fusionner à la même date.
+
+#### Art. 203
+
+§ 1er. Sans préjudice de l'article 199, la population de la forme 3 d'une école d'enseignement secondaire spécialisé doit atteindre les minima suivants pour maintenir le nombre de secteurs professionnels fixé ci-après :
+
+1° pour deux secteurs professionnels, le minimum de population à atteindre est fixé à 32 élèves;
+
+2° pour trois secteurs professionnels, le minimum de population à atteindre est fixé à 48 élèves;
+
+3° pour quatre secteurs professionnels, le minimum de population à atteindre est fixé à 64 élèves et un secteur professionnel supplémentaire par tranche de 16 élèves.
+
+§ 2. Les établissements qui organisent les types 6 et/ou 7 d'enseignement secondaire spécialisé ne sont pas concernés par les normes definies au § 1er.
+
+§ 3. Dans une [<sup>1</sup> école]<sup>1</sup> secondaire organisant le type 4 d'enseignement spécialisé et la forme 3, une mesure de multiplication par deux du nombre des élèves relevant du type 4 peut être appliquée, mais uniquement dans le but d'assurer le maintien du nombre de secteurs professionnels existant dans l'enseignement de forme 3.
+
+§ 4. Le minimum de population exigé pour deux secteurs professionnels est ramené à 24 pour les écoles visées à l'article 201, qui organisent l'enseignement de forme 3.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 204
+
+Par dérogation à l'article 199, si pendant deux années scolaires consécutives, la norme par application de l'article 203 n'est pas atteinte, l'école doit supprimer au plus tard au 30 septembre de cette 2e année scolaire, phase par phase, le secteur en surnombre, à commencer par la 1re phase ou l'école doit fusionner.
+
+Les élèves engagés dans la 1re phase d'enseignement d'un secteur professionnel qui est en voie de suppression ont une durée maximale de deux années scolaires pour terminer cette première phase, deux années pour la deuxième phase et une année pour la troisième phase ou 2 années si [<sup>1</sup> le profil de certification ou, à défaut, le profil de formation]<sup>1</sup> requiert 2 ans en 3e phase.
+
+[<sup>2</sup> Dans le cas où une [<sup>4</sup> école]<sup>4</sup> n'atteint pas les normes minimales pour maintenir tous les secteurs qu'il organise, dans la zone, en justifiant de la nécessité de ce maintien en fonction des besoins des élèves, le Gouvernement peut autoriser le maintien des secteurs organisés, sur avis favorable motivé du [<sup>3</sup> Conseil général]<sup>3</sup>.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2012-07-12/26, art. 110, 016; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2013-10-17/21, art. 32, 018; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 205
+
+Si pour une forme déterminée, dans une [<sup>3</sup> zone]<sup>3</sup> déterminée, aucune école d'un réseau déterminé n'atteint la norme de rationalisation prévue dans ce chapitre, une seule école de ce réseau peut maintenir cette forme, dans cette province, pour autant que sa population totale atteigne 15 élèves.
+
+[<sup>1</sup> [[<sup>3</sup> ...]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2013-10-17/21, art. 33, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(3)&lt;DCFR 2024-01-18/27, art. 78, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 206
+
+Si à la date du 30 septembre, les normes de rationalisation prévues aux articles 199 à 201 inclus ne sont pas atteintes, ou bien la ou les formes ne répondant pas à la norme, doit/doivent être supprimée(s) au plus tard le 30 septembre de l'année en cours, ou bien l'école doit fusionner à la même date.
+
+#### Art. 207
+
+Dans une implantation issue d'une fusion par application de l'article 184, seules les formes et les secteurs qui existaient avant la fusion, peuvent être maintenus.
+
+### Section 5. - De la programmation de l'enseignement secondaire spécialisé.
+
+#### Art. 208
+
+Au [<sup>3</sup> premier jour d'une année scolaire]<sup>3</sup>, une école peut être créée ou admise aux subventions [<sup>1</sup> admise aux subventions ]<sup>1</sup> si, à la date du 30 septembre, elle satisfait aux trois conditions suivantes :
+
+1 ° organiser au moins deux formes d'enseignement, sauf dérogation accordée par le Gouvernement;
+
+2° atteindre pour chaque forme prise séparément, 150 % de la norme de rationalisation prévue aux articles 200, 201 et 203;
+
+3° atteindre au moins : la première année 200 %, la deuxième année 250 %, la troisième année 300 % du total des normes de rationalisation de chaque forme organisée prévue aux articles 200 et 201.
+
+[<sup>2</sup> Si ces minima ne sont pas atteints, la (les) forme(s) ne répondant pas à la norme est (sont) supprimée(s), à partir du [<sup>3</sup> premier jour de l'année scolaire suivante]<sup>3</sup>, ou l'école est supprimée, sauf dérogation accordée par le Gouvernement si la ou les forme(s) ou l'école répond(ent) à un réel besoin dans la zone d'enseignement.]<sup>2</sup>
+
+[<sup>1</sup> Par dérogation à l'alinéa précédent, si ces minima sont atteints pendant un minimum de 10 jours ouvrables en cours d'année scolaire, la forme ou l'école n'est pas fermée au [<sup>3</sup> premier jou]<sup>3</sup> de l'année scolaire suivante. ]<sup>1</sup>
+
+A partir de la 4e année scolaire les dispositions en matière de rationalisation sont exclusivement applicables et la nouvelle école [<sup>1</sup> est admise de manière définitive aux subventions et]<sup>1</sup> remplit les conditions d'accès aux Fonds des bâtiments scolaires.
+
+----------
+
+(1)&lt;DCFR 2018-07-11/16, art. 31, 035; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 80, 041; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2022-03-31/35, art. 83, 048; En vigueur : 29-08-2022&gt;
+
+#### Art. 208bis
+
+[<sup>1</sup> Le Gouvernement procède, au minimum [<sup>2</sup> tous les quatre ans]<sup>2</sup> et pour la première fois pendant l'année [<sup>2</sup> 2026]<sup>2</sup>, à une analyse des données disponibles concernant, zone par zone, la démographie et les besoins prévisibles en termes de nombre de places, par type et par forme d'enseignement. Le Gouvernement transmet cette analyse au Parlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/21, art. 34, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 26, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 209
+
+Chaque école qui répond aux normes de rationalisation prevues aux articles 199 à 201 inclus, peut organiser une ou plusieurs implantations à une distance inférieure à 2 km du bâtiment principal.
+
+Chaque école qui répond aux normes de rationalisation prévues aux articles 199 à 201 inclus, peut organiser une ou plusieurs implantations à une distance de 2 km et plus pour autant que chaque lieu d'implantation réponde également aux normes de rationalisation.
+
+[<sup>2</sup> Si ces minima ne sont pas atteints, ou bien la ou les formes(s) concernée(s) doit/doivent être supprimée(s) à partir du [<sup>5</sup> premier jour de l'année scolaire suivante]<sup>5</sup>, ou bien l'implantation doit être fermée, sauf dérogation accordée par le Gouvernement si la ou les forme(s), ou l'implantation répond(ent) à un réel besoin dans la zone d'enseignement.
+
+Par dérogation à l'alinéa précédent, si ces minima sont atteints pendant un minimum de 10 jours ouvrables en cours d'année scolaire, la forme ou l'implantation n'est pas fermée au [<sup>5</sup> premier jour]<sup>5</sup> de l'année scolaire suivante.]<sup>2</sup>
+
+Dans les implantations visées aux alinéas 1er et 2 ne peuvent être créées que les formes et les secteurs professionnels de l'enseignement secondaire spécialisé de forme 3 d'enseignement specialisé déjà organisés ou subventionnés dans l'école. [<sup>1</sup> Par dérogation aux normes de programmation sur avis favorable motivé du [<sup>7</sup> Conseil général ]<sup>7</sup>, le Gouvernement, sur base de l'analyse précisée à l'article 208bis, peut autoriser la création d'une implantation de forme 4.]<sup>1</sup>
+
+[<sup>8</sup> Par dérogation à l'alinéa précédent, le Gouvernement, après avis motivé du Conseil général, peut autoriser l'organisation d'une ou plusieurs implantations d'enseignement spécialisé d'une ou plusieurs formes même si cette (ces) forme(s) n'était (n'étaient) pas déjà organisée(s) ou subventionnée(s) dans l'école.
+
+Toutefois, cette dérogation ne peut être octroyée que dans l'hypothèse où la (les) forme(s) répond(ent) à un besoin dans la zone d'enseignement.
+
+Par dérogation à l'alinéa 5, le Gouvernement peut également autoriser la création d'une ou plusieurs implantations d'enseignement spécialisé organisant un ou plusieurs secteurs professionnels de l'enseignement secondaire spécialisé de forme 3 même si ce(s) secteur(s) professionnel(s) n'est pas (ne sont pas) déjà organisée(s) ou subventionnée(s) dans l'école.
+
+Toutefois, cette dérogation ne peut être octroyée que dans l'hypothèse où le(s) secteur(s) professionnel(s) répond(ent) à un besoin dans la zone d'enseignement.]<sup>8</sup>
+
+[<sup>3</sup> Chaque école qui organise l'enseignement spécialisé de type 2 ou de type 3 et qui atteint les normes de rationalisation prévue à la section 4 du présent chapitre, peut organiser une classe ou une implantation à visée inclusive de mêmes types que ceux déjà organisés dans l'établissement.
+
+Les élèves inscrits dans une classe ou une implantation à visée inclusive génèrent un capital-périodes utilisable selon les mêmes règles que pour les élèves de l'enseignement spécialisé du type et de la forme d'enseignement dont ils relèvent.
+
+Une implantation à visée inclusive, tel que définie à l'article 8quater, est composée au minimum de 7 élèves. Pour atteindre cette norme, les élèves de type 2 et de type 3 peuvent être additionnés, de même que les élèves du niveau maternel et primaire pour autant que ces deux niveaux sont déjà organisés dans l'[<sup>9</sup> école]<sup>9</sup>.]<sup>3</sup>
+
+[<sup>4</sup> Le capital-périodes servant à l'encadrement généré par les élèves inscrits dans l'implantation à visée inclusive est augmenté d'une demi-charge pour le personnel enseignant. Cette demi-charge peut être transformée en demi-charge d'une fonction paramédicale ou éducative.[<sup>6</sup> Cette demi-charge est accordée dès que l'implantation compte 7 élèves, et ce dès le premier jour de l'année scolaire ou pendant 10 jours ouvrables consécutifs, quel que soit le moment de l'année ou aux différentes dates de comptage.]<sup>6</sup>
+
+Le membre du personnel bénéficiant de cette demi-charge sera notamment chargé de chercher et développer les synergies nécessaires à l'inclusion progressive des élèves dans l'enseignement ordinaire, de préparer les séquences de cours pour placer l'enfant dans une situation de réussite, de proposer des hypothèses de travail, de gérer les arrivées et départ de l'école, de développer des contacts privilégiés avec les deux directions et d'informer les membres du personnel de l'enseignement ordinaire sur l'implantation à visée inclusive.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2013-10-17/21, art. 35, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2018-07-11/16, art. 32, 035; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 81, 041; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2019-05-03/38, art. 81, 041; En vigueur : 01-09-2020&gt;
+
+(5)&lt;DCFR 2022-03-31/35, art. 84, 048; En vigueur : 29-08-2022&gt;
+
+(6)&lt;DCFR 2023-07-20/48, art. 14, 055; En vigueur : 28-08-2023&gt;
+
+(7)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(8)&lt;DCFR 2026-07-17/11, art. 27, 068; En vigueur : 24-08-2026&gt;
+
+(9)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 210
+
+§ 1er. Par dérogation à l'article 208, la création ou l'admission aux subventions au [<sup>1</sup> premier jour de l'année scolaire ]<sup>1</sup> d'un enseignement spécialisé de type 5, de niveau secondaire, de forme 4, est soumise à la norme de rationalisation prévue aux articles 200 et 201 a condition que cet enseignement de type 5, soit rattaché à une clinique ou à une institution médico-sociale organisée ou reconnue par l'Etat ou créée ou reconnue par la Communauté [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. Par dérogation à l'article 208 et au § 1er, la création ou l'admission aux subventions d'un type 5 au niveau secondaire, de forme 4, est possible dans une école d'enseignement fondamental spécialise créée ou subventionnée en vertu de l'article 195, § 2, à condition d'atteindre au 1er septembre : 200 % de la 1re année, 250 % de la 2e année et 300 % de la 3e année de la norme de rationalisation de la forme 4 prévue aux articles 200 et 201.
+
+Si cette forme n'atteint pas la norme de programmation, elle doit être supprimée au [<sup>1</sup> premier jour de l'année scolaire]<sup>1</sup> suivant;
+
+A partir de la 4e année scolaire, les dispositions en matière de rationalisation sont exclusivement applicables;
+
+Cette forme 4 pour le type 5 ne peut être organisée ou subventionnée en phase de programmation de l'école d'enseignement fondamental spécialisé, créée ou admise aux subventions, en vertu de l'article 195, § 2, 1°.
+
+Par application du (§ 1er) du présent article, le directeur de l'école d'enseignement fondamental spécialisé est chargé de la direction administrative de l'enseignement spécialisé de type 5 du niveau secondaire qui ne peut genérer aucune fonction de sélection ou de promotion. &lt;DCFR 2006-07-20/66, art. 11, 1°, 003; En vigueur : 04-09-2006&gt;
+
+(Il continue à bénéficier de l'échelle de traitement attribuée à la fonction de promotion qu'il exerce au niveau fondamental, augmentée d'une allocation représentant la différence entre cette échelle et celle qui est allouée à un préfet des études ou directeur de l'enseignement organisé par la Communauté française qui a exercé à titre définitif, dans l'enseignement secondaire du degré inférieur, la fonction de recrutement qui lui a permis d'accéder indirectement à la fonction de préfet des études ou de directeur.) &lt;DCFR 2006-07-20/66, art. 11, 2°, 003; En vigueur : 04-09-2006&gt;
+
+----------
+
+(1)&lt;DCFR 2022-03-31/35, art. 85, 048; En vigueur : 29-08-2022&gt;
+
+(2)&lt;DCFR 2024-01-18/27, art. 74, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 211
+
+§ 1er. Par décision du pouvoir organisateur, une école existante, satisfaisant à la norme de rationalisation, peut au [<sup>2</sup> premier jour de l'année scolaire]<sup>2</sup> :
+
+1° transformer une forme 1 existante qui répond à la norme de rationalisation en une autre forme, à condition que la forme 1 soit supprimée simultanément et complètement au 30 septembre de l'année scolaire pendant laquelle la transformation a lieu, et que la nouvelle forme atteigne la norme de rationalisation.
+
+2° transformer progressivement une forme 2 qui répond à la norme de rationalisation en une autre forme à condition que cette forme 2 soit supprimée simultanément en commençant par la première phase.
+
+Au 30 septembre de l'année scolaire pendant laquelle la transformation a commence, la nouvelle forme d'enseignement organisée doit atteindre la norme de rationalisation.
+
+3° transformer progressivement une forme 3 d'enseignement secondaire spécialisé qui répond à la norme de rationalisation en une autre forme, à condition que la forme 3 soit supprimée simultanément en commençant par la 1re phase.
+
+Au 30 septembre de l'année scolaire pendant laquelle la transformation a commencé, la nouvelle forme d'enseignement organisé doit atteindre la norme de rationalisation.
+
+4° transformer un secteur professionnel existant de la forme 3 d'enseignement secondaire spécialise qui répond a la norme de rationalisation en un autre secteur à condition que le secteur existant soit supprimé simultanément, phase par phase, en commençant par la première et qu'au 30 septembre de l'année scolaire durant laquelle la transformation a commencé, les normes prévues à l'article 203, soient respectées.
+
+5° Durant la période de transformation, aucun nouvel élève ne peut être inscrit dans la forme d'enseignement ou dans le secteur professionnel de l'enseignement secondaire spécialisé de forme 3 supprimé mais les élèves fréquentant cette forme ou ce secteur professionnel peuvent achever leurs études dans l'école. Les élèves de la forme d'enseignement ou du secteur professionnel de l'enseignement secondaire spécialisé de forme 3 d'enseignement supprimé ne sont pas pris en considération pour le calcul des normes de rationalisation fixées dans la Section 4 du présent chapitre.
+
+Ces transformations prévues aux points 1°, 2°, 3° et 4°, doivent se réaliser dans tous les lieux d'implantation de l'école où cette forme ou secteur professionnel de l'enseignement spécialisé de forme 3 est organisé ou subventionné;
+
+6° transformer progressivement une forme 4 existante qui répond à la norme de rationalisation en une autre forme, à condition que la forme 4 existante soit supprimée simultanément, année d'études par année d'études, à commencer par l'année inférieure, et qu'au 30 septembre de l'année scolaire pendant laquelle la transformation a commencé, la nouvelle forme atteigne la norme de rationalisation.
+
+7° créer une forme 1, 2 et 3 d'enseignement, à la date du 30 septembre à condition :
+
+a) que durant l'année scolaire précédente, au moins 150 % des normes de rationalisation, prévues aux articles 200 et 201, des formes organisées soient atteintes;
+
+b) que la forme atteigne, pendant deux années scolaires consécutives 250 % de la norme fixée de rationalisation prévue aux articles 200 et 201.
+
+A partir de la troisième année scolaire, les dispositions en matière de rationalisation sont exclusivement applicables.
+
+8° creer une forme 4 d'enseignement, à la date du 30 septembre, à condition :
+
+a) que, durant l'année scolaire précédente, au moins 150 % du total des normes de rationalisation prévues aux articles 200 et 201, des formes d'enseignement organisées soient atteintes;
+
+b) que la forme atteigne, pendant deux années scolaires consécutives, 125 % de la norme de rationalisation prévue aux articles 200 et 201.
+
+A partir de la troisième année, les dispositions en matière de rationalisation sont exclusivement applicables.
+
+§ 2. Une forme d'enseignement peut être créée ou admise aux subventions dans une école existante par [<sup>5</sup> zone]<sup>5</sup> et par réseau à condition qu'à la date du 30 septembre, elle satisfasse aux conditions suivantes :
+
+1° à la date d'entrée en vigueur du présent décret, cette forme ne peut être ni organisée, ni subventionnée par la Communauté française dans cette [<sup>5</sup> zone]<sup>5</sup> ou dans ce réseau.
+
+2° avoir atteint durant l'année scolaire précédente pour les formes organisées, le total des normes de rationalisation prévues aux articles 200 et 201 des formes d'enseignement organisées;
+
+3° cette forme doit atteindre, pendant deux années consécutives, les normes de rationalisation prévues aux articles 200 et 201.
+
+Les dispositions du § 1er, 1°, 2° et 3° ne sont pas applicables durant la programmation, à la forme d'enseignement créée ou subventionnée conformément aux dispositions de ce paragraphe.
+
+[<sup>1</sup> Par dérogation aux normes de programmation, le Gouvernement, sur base de l'analyse visée à l'article 208bis, peut autoriser l'organisation des différentes formes d'enseignement secondaire spécialisé, sur avis favorable motivé du [<sup>3</sup> Conseil général]<sup>3</sup>, par réseau et par zone.]<sup>1</sup>
+
+§ 3. Dans une forme 3 d'une école existante répondant à la norme de rationalisation :
+
+1° un 2e secteur professionnel peut être créé à partir de 60 élèves;
+
+2° un 3e secteur professionnel peut être créé à partir de 90 élèves;
+
+3° un 4e secteur professionnel peut être créé à partir de 140 élèves.
+
+Par tranche supplémentaire de 50 élèves, un nouveau secteur professionnel peut être créé. Chaque nouveau secteur professionnel doit atteindre la norme de programmation qui lui est applicable pendant 2 années scolaires consécutives, au 30 septembre.
+
+A partir de la 3e année scolaire, les dispositions en matière de rationalisation sont exclusivement applicables.
+
+Les dispositions du § 1er, 4°, ne sont pas applicables pendant la période de programmation pour les secteurs professionnels organisés ou subventionnés conformément à ce paragraphe.
+
+[<sup>1</sup> Par dérogation aux normes de programmation, le Gouvernement peut autoriser une [<sup>4</sup> école]<sup>4</sup> à créer un nouveau secteur professionnel qui n'atteint pas les normes minimales de création et ce, dans une zone où il est constaté une pénurie d'un métier, sur avis favorable motivé du [<sup>3</sup> Conseil général]<sup>3</sup>. L'[<sup>4</sup> école]<sup>4</sup> est tenue de justifier d'un encadrement adéquat au niveau enseignant ainsi que d'une infrastructure adaptée. Enfin, il doit atteindre les normes de maintien en vigueur pour tous les secteurs professionnels y compris celui nouvellement créé et ce dès le 30 septembre de l'année scolaire en cours. En cas de non respect de cette norme le nouveau secteur sera fermé à la même date.]<sup>1</sup>
+
+§ 4. Les dispositions du § 1er, 6° et 7° et des §§ 2 et 3, s'appliquent séparément par école, au bâtiment principal et à son/ses implantations(s) situées) à une distance de 2 km et plus.
+
+----------
+
+(1)&lt;DCFR 2013-10-17/21, art. 36, 018; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 86, 048; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+(5)&lt;DCFR 2026-07-17/11, art. 28, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 212
+
+La condition d'un an de fonctionnement n'est pas requise pour l'admission aux subventions des nouvelles écoles, implantations, formes d'enseignement et secteurs professionnels, qui satisfont aux normes de programmation déterminées dans la présente Section.
+
+## CHAPITRE XVbis. [<sup>1</sup> - Des subsides en matière de bâtiments scolaires ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/16, art. 33, 035; En vigueur : 01-09-2018&gt;
+
+#### Art. 212bis
+
+[<sup>1</sup> Le Gouvernement lance dans le courant du mois de novembre 2022 un appel à projets à l'ensemble des pouvoirs organisateurs pour bénéficier à hauteur de 10 pourcents maximum des moyens prévus, pour les années 2022, 2023 et 2024, à l'article 13bis du décret du 5 février 1990 relatif aux bâtiments scolaires de l'enseignement non universitaire organisé ou subventionné par la Communauté française.
+
+Les réponses à l'appel à projets sont remises par les pouvoirs organisateurs pour le 30 avril 2023 au plus tard, et ce via un formulaire type communiqué.
+
+Les demandes introduites contiennent, selon les différentes situations, les éléments suivants:
+
+1\. un descriptif des travaux d'aménagements, de rénovation ou d'extension de bâtiments et/ou modules préfabriqués, envisagés;
+
+2\. descriptif détaillé des locations/achats de bâtiments et/ou modules préfabriqués envisagés;
+
+3\. une estimation financière du coût des travaux/locations/achats envisagés ;
+
+4\. un relevé de la population scolaire de l'[<sup>2</sup> école]<sup>2</sup> visée sur les 3 dernières années et son évolution projetée suite aux travaux/locations/achats envisagés;
+
+5\. un rétroplanning des opérations envisagées sur base du modèle prévu par l'appel à projet et mentionnant la date d'ouverture des nouvelles places.
+
+Pour être éligible à l'appel à projets, les pouvoirs organisateurs, doivent répondre aux critères cumulatifs suivants:
+
+a. viser une implantation scolaire de l'enseignement obligatoire, organisé ou subventionné par la Communauté française;
+
+b. pour les demandes liées à des travaux pérennes sur l'infrastructures, disposer d'un droit réel pour une durée minimale de 30 ans sur le bâtiment visé, au plus tard au moment de l'accord ferme de subvention;
+
+c. les places doivent être créées structurellement pour la rentrée scolaire 2025 au plus tard, à l'exception des locations qui peuvent ne pas être structurelles;
+
+d. le pouvoir organisateur demandeur doit disposer d'un accès aux dotations/subventions de fonctionnement;
+
+e. le demandeur doit respecter la législation sur les marchés publics de travaux, fournitures et services.
+
+Dans le cas de retard dans le délai d'ouverture des places, le Gouvernement peut retirer le droit à la subvention octroyée au pouvoir organisateur.
+
+Les bénéficiaires de la subvention dont les bâtiments scolaires ont bénéficié d'une subvention en vertu du présent décret et pour lesquels l'affectation scolaire n'est plus rencontrée et/ou cède à titre onéreux les bâtiments remboursent la subvention.
+
+Le montant de la partie de la subvention à rembourser pour les locaux sera établi en fonction du nombre de m2 désaffectés, déduction faite du nombre d'années d'occupation.
+
+Chaque année d'occupation interviendra pour une trentième du montant de la subvention.
+
+Le montant à rembourser sera fixé par arrêté du Gouvernement de la Communauté française.
+
+Le bénéficiaire peut ne pas rembourser la subvention si:
+
+\- les locaux ont perdu leur destination scolaire suite à des circonstances indépendantes de la volonté du pouvoir organisateur concerné, ou
+
+\- l'affectation scolaire est maintenue.
+
+Le Gouvernement apprécie l'opportunité de procéder au recouvrement de la subvention sur base des éléments présentés par le pouvoir organisateur.
+
+Les dépenses éligibles considérées dans le présent mécanisme sont les suivantes et permettant l'augmentation de la capacité d'accueil de l'[<sup>2</sup> école]<sup>2</sup> concernée:
+
+a. tous travaux d'aménagement de locaux;
+
+b. tous travaux de construction ou rénovation de bâtiment;
+
+c. toutes locations de locaux complémentaires ou de modules préfabriqués pour une durée maximale allant jusqu'à la rentrée scolaire 2028;
+
+d. tous achats de bâtiments ou modules préfabriqués.
+
+Les dépenses éligibles visées ci-dessus le sont dans le respect de l'arrêté du Gouvernement de la Communauté française du 6 février 2014 fixant les règles qui déterminent le besoin en constructions nouvelles ou extensions et les normes physiques et financières pour les bâtiments scolaires, internats et centres psycho-médico-sociaux.
+
+Sur base des dossiers introduits, le Gouvernement arrête la liste des dossiers retenus selon les modalités fixées par le présent décret au plus tard le 30 septembre 2023. Préalablement à l'adoption de cette liste, le Gouvernement consulte sur cette liste la Commission inter caractère crée à l'article 11 du décret du 16 novembre 2007 relatif au programme prioritaire de travaux. Cet avis est communiqué au Gouvernement dans un délai de 30 jours à dater de la communication à la Commission inter caractère de la liste des dossiers.
+
+Si pour des raisons d'engagement juridique nécessaire sur un achat et/ou en vue d'ouvrir les places visées dès la rentrée scolaire 2023, un pouvoir organisateur ne peut attendre la date du 30 septembre 2023 pour obtenir un accord de financement, ce dernier devra le justifier lors de sa candidature.
+
+Par engagement juridique nécessaire sur un achat, il y a lieu d'entendre, la remise d'une offre ferme d'achat ou la signature d'un acte notarié lié à cet achat.
+
+Le Gouvernement peut alors se positionner plus rapidement sur ce dossier et ce afin de permettre au pouvoir organisateur de mener à bien son projet.
+
+Si les moyens dévolus ne sont pas suffisants pour couvrir l'ensemble des demandes introduites, les dossiers seront priorisés sur base des critères suivants, et ce dans l'ordre de priorité:
+
+\- les projets visant des travaux ou aménagement pérenne et structurel;
+
+\- le projet vise une école déjà existante;
+
+\- la date d'ouverture des places structurelles la plus proche;
+
+\- le coût par place créée le moins onéreux.
+
+Ces mêmes critères seront utilisés pour départager les dossiers faisant appel à la dérogation relative au délai de l'appel à projets, dans le cas où ces dossiers seraient à ce point nombreux que les moyens alloués soient insuffisants que pour tous les financer.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-12-14/15, art. 19, 054; En vigueur : 15-11-2022&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE XVter. [<sup>1</sup> - De l'organisation de repas, sains et durables au sein des cantines scolaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2025-12-17/08, art. 3, 064; En vigueur : 01-01-2026&gt;
+
+#### Art. 212ter.
+
+[<sup>1</sup> Dans l'enseignement maternel et primaire spécialisé, les Pouvoirs organisateurs peuvent financer l'organisation de repas sains et durables au sein des cantines scolaires.
+
+Dans cette hypothèse :
+
+a. les moyens doivent être affectés à l'achat de matériel et/ou à la désignation ou à l'engagement de personnel et/ou à un ou plusieurs marchés de services ou de fournitures liés au service des repas sains et durables visés par le présent décret et à la surveillance de ces repas ;
+
+b. les repas peuvent être mis à disposition gratuitement ou contre une contribution financière modique sollicitée auprès des parents. En tout état de cause, cette contribution éventuelle ne peut excéder le prix coûtant du repas, tous frais annexes compris dont l'organisation, l'encadrement et le service ;
+
+c. en période scolaire, les repas sains doivent être organisés tous les jours scolaires de la semaine. Les repas ne doivent pas être organisés le mercredi si l'[<sup>2</sup> école]<sup>2</sup> ne les organise pas de manière habituelle. Les écoles ne peuvent réclamer aucun frais connexe supplémentaire lié au repas ;
+
+d. en début de chaque année scolaire, les écoles qui organisent des repas sains et durables au sein des cantines scolaires communiquent aux parents une information claire relative à l'inscription dans le projet ainsi que les modalités et les conséquences concrètes pour les élèves ;
+
+e. le Pouvoir organisateur, ou l'école le cas échéant, s'assure du respect des normes et principes imposés par l'Agence fédérale pour la sécurité de la chaîne alimentaire (AFSCA) ;
+
+f. le Pouvoir organisateur veillera au respect des orientations suivantes dans l'organisation des repas sains et durables :
+
+i. promouvoir une alimentation locale, saine et équilibrée en ayant recours à un maximum de produits issus de l'agriculture biologique, limiter et contrôler le junk food dans les collations et inscrire ces principes dans le projet pédagogique de l'école ;
+
+ii. proposer au minimum plusieurs alternatives végétariennes par semaine ;
+
+iii. encourager le recours à l'eau comme seule boisson ;
+
+iv. encourager, aussi régulièrement que possible, la découverte de saveurs variées, la consommation de fruits et légumes frais et de saison ;
+
+v. diminuer la quantité de protéines animales en faveur de plus de légumes et de protéines végétales en se référant aux recommandations de l'Office de la Naissance et de l'Enfance ;
+
+vi. éviter le gaspillage alimentaire ;
+
+vii. réduire la production de déchets ;
+
+viii. compléter l'organisation de repas sains et durables par des activités éducatives, durant ou en dehors des repas, à destination des élèves et/ou des parents ;
+
+ix. avoir le label Good Food pour les cantines des écoles ou implantations situées en Région de Bruxelles-Capitale ou le label " Green Deal Cantines durables " pour les cantines des écoles ou implantations situées en Région de langue française ou, pour les repas complets, avoir recours au cahier spécial des charges de repas complets, sains et durables pour les " collectivités d'enfants " de la Communauté française.
+
+g. les orientations visées au point e) supra sont évaluées tous les 5 ans par le Service des Politiques publiques du Ministère de la Communauté française en collaboration avec les services de l'Office de la Naissance et de l'Enfance. A titre transitoire, la première évaluation a lieu en 2030. Une analyse complémentaire peut être sollicitée auprès de prestataires externes mandatés par le Gouvernement de la Communauté française. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2025-12-17/08, art. 3, 064; En vigueur : 01-01-2026&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE XVI. - De la disposition particulière relative à la détermination du pourcentage du capital-périodes utilisables.
+
+#### Art. 213
+
+Le Gouvernement détermine annuellement en fonction des possibilités budgétaires le pourcentage du capital-périodes utilisable pour les catégories du personnel directeur et enseignant, du personnel paramédical, social et psychologique, du personnel administratif et auxiliaire d'éducation et qui résulte des normes mentionnées aux articles 33, 34, 85, 86, 102, 104, 113, 114 et 132 et ce, de façon identique pour tous les réseaux d'enseignement.
+
+[<sup>1</sup> Ce pourcentage doit être supérieur ou égal à 97 %.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa précédent, ce pourcentage est de 100% en ce qui concerne les catégories du personnel directeur et enseignant, du personnel paramédical, social et psychologique encadrant les élèves qui relèvent des pédagogies adaptées visées aux articles 8bis et 8ter du présent décret.
+
+Pour l'application de l'alinéa précédent, les pédagogies adaptées définies aux articles 8bis et 8ter du présent décret ne peuvent bénéficier du capital-périodes à 100% que si les [<sup>4</sup> écoles]<sup>4</sup> concernées respectent un cahier des charges reprenant les dispositions nécessaires à l'organisation de ces dites pédagogies. Ce cahier des charges est fixé par le Gouvernement, après avis du [<sup>3</sup> Conseil général]<sup>3</sup>. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-05/48, art. 55, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2018-07-11/16, art. 34, 035; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE XVII. - Des dispositions modificatives et abrogatoires.
+
+### Section 1re. - Modifications à la loi sur l'enseignement spécialisé et intégré du 6 juillet 1970.
+
+#### Art. 214
+
+Dans la loi sur l'enseignement spécial et intégré du 6 juillet 1970, le mot "spécial" est remplacé par le mot "spécialise", le mot "intégré" est supprimé et le mot "handicapé" est remplacé par les mots "enfant ou adolescent à besoins spécifiques".
+
+#### Art. 215
+
+A l'article 20, alinéa 1er, les mots "ou à une Section d'enseignement spécial "sont supprimés.
+
+### Section 2. - Modifications de l'arrêté royal du 7 février 1974 déterminant les modalités de prise en charge par l'Etat des frais de déplacements des élèves de l'enseignement spécialisé.
+
+#### Art. 216
+
+Dans l'arrêté royal du 7 février 1974 déterminant les modalités de prise en charge par l'état des frais de déplacements des élèves de D'enseignement spécialisé, le mot, spécial" est remplacé par le mot "spécialisé" et le mot "intégré" est supprimé.
+
+#### Art. 217
+
+L'article 1er de l'arrêté royal du 7 février 1974 déterminant les modalités de prise en charge par l'état des frais de déplacements des élèves de l'enseignement specialisé est complété de la manière suivante :
+
+" Y depuis leur résidence jusqu'à l'[<sup>1</sup> école]<sup>1</sup> d'enseignement ordinaire dans lequel l'élève est en intégration permanente et totale".
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+### Section 3. - Modifications au décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.
+
+#### Art. 218
+
+A l'article 6 du décret du 27 octobre 1994 sont apportées les modifications suivantes :
+
+1° Dans le § 1er, les mots "ainsi que dans l'enseignement secondaire spécialisé" sont ajoutés après les mots "et dans l'enseignement secondaire en alternance".
+
+2° Il est inséré un § 2bis rédigé comme suit :
+
+" § 2bis : le Conseil informe [<sup>1</sup> le Conseil général concerné]<sup>1</sup>, créé par le décret du 3 mars 2004 organisant l'enseignement spécialisé de ses travaux en matière de profils de formation. "
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+#### Art. 219
+
+A l'article 8, l'alinéa suivant est inséré entre les alinéas 1er et 2 :
+
+" Quatre membres désignés par [<sup>1</sup> le Conseil général concerné]<sup>1</sup> assistent aux travaux des Commissions consultatives avec voix délibérative. Deux de ces membres appartiennent à l'enseignement de caractère non confessionnel et les deux autres a l'enseignement de caractère confessionnel".
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+### Section 4. - Modifications au décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.
+
+#### Art. 220
+
+Dans le texte du décret du 24 juillet 1997 précité, le mot "spécial" et les mots "spécial et intégré" sont remplacés par le mot "spécialisé".
+
+#### Art. 221
+
+Aux articles 2 et 3, les mots "aux articles le, et 4 de la loi du 6 juillet 1970 sur l'enseignement spécial et intégré, d'un enseignement intégré organisé conformément à l'article 5bis de la même loi. " sont remplacés par les mots "à l'article 2 et aux chapitres III et X du décret du 3 mars 2004 organisant l'enseignement spécialisé".
+
+#### Art. 222
+
+A l'article 4 du même décret sont apportées les modifications suivantes :
+
+1° Dans l'alinéa 1er, les mots "et spécialisé de forme 4° sont insérés entre les mots "secondaire ordinaire" et les mots "comprend six années".
+
+2° L'alinéa 1er est complété comme suit :
+
+" L'enseignement secondaire spécialisé de forme 3 est organisé en trois phases. L'enseignement secondaire spécialisé de forme 2 est organisé en deux phases. L'enseignement secondaire spécialisé de forme 1 est organisé en une seule phase. "
+
+3° A l'alinéa 2 du même article, les mots : "et spécialisé de forme 4° sont insérés entre les mots "l'enseignement secondaire ordinaire" et les mots "est organisé".
+
+4° A l'alinéa 3 du même article, les mots : "ordinaire et spécialisé de forme 4° sont insérés entre les mots "L'enseignement secondaire" et les mots "de plein exercice"
+
+5° A l'alinéa 4 du même article, les mots : "ordinaire et spécialisé de forme 4° sont insérés entre les mots "l'enseignement secondaire" et les mots "peuvent également être organisées".
+
+6° A l'alinéa 5 du même article, les mots : "ordinaire et spécialise de forme 4° sont insérés entre, les mots "enseignement secondaire" et les mots "sont organisées".
+
+#### Art. 223
+
+Il est inséré dans l'article 5 du même décret, un 2°bis rédigé comme suit :
+
+" 2°bis. Compétences-seuils : Référentiel présentant de manière structurée les compétences dont la maîtrise a un niveau déterminé est attendue à la fin de chaque phase de l'enseignement spécialisé de forme 3".
+
+#### Art. 224
+
+Dans le titre de la Section 1re du chapitre III, les mots "Des cycles" sont remplacés par les mots "Des cycles, des degrés de maturité".
+
+#### Art. 225
+
+A l'article 13 du même décret sont apportées les modifications suivantes :
+
+1° Au § 1er, les mots "Dans l'enseignement ordinaire" sont ajoutés avant les mots "La formation de l'enseignement maternel".
+
+2° Il est inséré un paragraphe 3bis rédigé comme suit :
+
+" § 3bis. Dans l'enseignement fondamental spécialisé, la formation de l'enseignement maternel et primaire constitue un continuum pédagogique. L'enseignement primaire specialisé est structuré en quatre étapes appelées degrés de maturité".
+
+3° Au § 4 du même article, les mots "[<sup>1</sup> Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>" créé par la loi du 6 juillet 1970 sur l'enseignement spécial et intégré" sont remplacés par les mots "[<sup>1</sup> Conseil général]<sup>1</sup>" créé par le décret du 3 mars 2004 organisant l'enseignement spécialisé.
+
+4° Dans le même paragraphe, les mots "aux "§§ 2 et 3° sont remplacés par les mots "au 3bis".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 226
+
+A l'article 14 du même décret sont apportées les modifications suivantes :
+
+1° les mots "ou la première phase" sont insérés entre les mots "ou le premier degré" et les mots "d'enseignement secondaire".
+
+2° les mots "ou la première phase" sont insérés entre les mots "et le premier degré" et les mots "de l'enseignement secondaire".
+
+3° les mots "ou des compétences-seuils" sont insérés entre les mots "la maîtrise des socles de compétences" et les mots "à la réalisation d'activités en commun".
+
+#### Art. 227
+
+A l'article 15 du même décret sont apportées les modifications suivantes :
+
+1° Dans l'alinéa 2, les mots "Dans l'enseignement ordinaire", sont ajoutés avant les mots "l'élève amené à parcourir";
+
+2° L'article est complété par l'alinéa suivant : "Dans l'enseignement spécialisé, l'élève évolue selon son rythme d'apprentissage et ses potentialités dans les différents degrés de maturité sur avis du Conseil de classe".
+
+#### Art. 228
+
+A l'article 16 du même décret sont apportées les modifications suivantes
+
+1° Dans le § 2, l'alinéa suivant est inséré entre les alinéas 2 et 3 : "Ils en informent [<sup>1</sup> le Conseil général concerné]<sup>1</sup> créé par le décret du 3 mars 2004 organisant l'enseignement spécialisé".
+
+Dans le § 3, alinéa 3, les mots "Conseil supérieur" sont remplacés par les mots "[<sup>2</sup> Conseil général ]<sup>2</sup>".
+
+----------
+
+(1)&lt;DCFR 2019-04-25/56, art. 43, 038; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 229
+
+A l'article 17 du même décret sont apportées les modifications suivantes :
+
+1° Dans les paragraphes 1er et 2, les mots "cycles et années" sont remplacés par les mots "cycles, années et degrés de maturité".
+
+2° Au paragraphe 3, alinéa 2; les mots "et/ou, pour l'enseignement spécialisé, s'ils permettent aux élèves à besoins spécifiques d'évoluer de manière optimale. " sont ajoutés après les mots "socles de compétence".
+
+#### Art. 230
+
+§ 1er. A l'article 35, § 1er, du même décret, il est inséré un 4° rédigé comme suit :
+
+" 4° les compétences terminales et les savoirs communs requis de l'ensemble des élèves à l'issue de la troisième phase de l'enseignement secondaire specialisé de forme 3 débouchant sur la délivrance d'un certificat d'enseignement secondaire inférieur équivalant au certificat d'enseignement secondaire du deuxième degré. "
+
+2\. A l'article 35, § 2 du même décret, il est inséré un troisième alinéa rédigé comme suit :
+
+"Les travaux relatifs a l'enseignement spécialisé sont transmis au [<sup>1</sup> Conseil général]<sup>1</sup>".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 231
+
+A l'article 36 du même décret sont apportées les modifications suivantes :
+
+1° dans le § 1er, les mots "degrés et années" sont remplacés par les mots "degrés, années et phases d'enseignement";
+
+2° un § 2bis est inséré :
+
+" § 2bis. Pour l'enseignement spécialisé subventionné, le Gouvernement approuve, dans le respect des compétences et savoirs définis à l'article 35, les programmes d'études des cours spécifiques à la formation humaniste durant les phases d'enseignement visées au présent chapitre, après avoir pris l'avis de la Commission des programmes visée au § 3bis".
+
+3° un § 3bis est inséré :
+
+" § 3bis. II est créé une Commission des programmes de l'enseignement secondaire spécialisé, selon les modalités que fixe le Gouvernement. La Commission des programmes vérifie si les programmes d'études sont de nature à permettre l'acquisition des compétences et savoirs visés à l'article 35.
+
+Le contrôle de la commission des programmes ne porte pas sur les méthodes pédagogiques. "
+
+#### Art. 232
+
+Un article 39bis est ajouté :
+
+" Le Gouvernement, sur proposition conjointe du [<sup>1</sup> Conseil général]<sup>1</sup> visé à l'article 13 et du Conseil général de concertation pour l'enseignement secondaire visé à l'article 16, peut définir des profils de formation spécifiques à l'enseignement secondaire spécialisé de forme 4, conformément à l'article 63 du décret du 3 mars 2004 organisant l'enseignement spécialisé. "
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 233
+
+L'article 43 du même décret est complété par l'alinéa suivant :
+
+" A partir des profils de formation spécifiques visés à l'article 47, le Gouvernement, après avoir pris l'avis du [<sup>1</sup> Conseil général]<sup>1</sup>, détermine et soumet à la confirmation du Parlement :
+
+1° le répertoire des formations de l'enseignement secondaire spécialisé;
+
+2° les conditions d'admission dans les divers secteurs, groupes professionnels et métiers de l'enseignement secondaire spécialisé de forme 3;".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 234
+
+A l'article 47, les mots "Conseil supérieur de l'enseignement spécial" sont remplacés par les mots "[<sup>1</sup> Conseil général]<sup>1</sup>".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 235
+
+A l'article 49 du même décret, sont apportées les modifications suivantes :
+
+1° Dans l'alinéa 1er, les mots "39bis", sont insérés entre les mots "39" et "44";
+
+2° Au 3° du même article, les mots "enseignement spécial" sont remplacés par les mots "enseignement secondaire spécialisé de forme 3 et de forme 4".
+
+#### Art. 236
+
+A l'article 50, les modifications suivantes sont apportées :
+
+1° Dans les §§ 1er et 4, les mots "39bis" sont insérés entre les mots "39" et "44"
+
+2° Au § 1er du même article, les mots "degrés et années" sont remplacés par les mots "degrés, années et phases d'enseignement,".
+
+3° Au § 2 du même article, les mots "39bis" sont insérés entre les mots "39 et 44", et les mots "47" sont supprimés.
+
+4° Un § 2bis est insére après le § 2 :
+
+" § 2bis. Pour l'enseignement spécialisé subventionné, le Gouvernement approuve, dans le respect des profils de formation spécifiques visés à l'article 47, les programmes d'études des phases visées au présent chapitre, après avoir pris l'avis de la Commission des programmes de l'enseignement spécialisé qui vérifie si les programmes d'études sont de nature à permettre l'acquisition des compétences définies dans les profils de formation vises à l'article 47.
+
+Le contrôle de la Commission des programmes ne porte pas sur les méthodes pédagogiques. "
+
+#### Art. 237
+
+A l'article 51 du même décret, sont apportées les modifications suivantes :
+
+1° A l'alinéa 1er, les mots "39bis" sont insérés entre les mots "39 et 44".
+
+2° A l'alinéa 2, les mots "à l'article 16" sont remplacés par les mots "aux articles 13 et 16".
+
+3° A l'alinéa 3 du même article, les mots "secondaire spécial de forme 3" sont remplacés par les mots "secondaire spécialisé de forme 3 et de forme 4".
+
+#### Art. 238
+
+A l'article 52 du même décret sont apportées les modifications suivantes :
+
+1° A l'alinéa 1er, les mots "39bis" sont insérés entre les mots "39 et 44".
+
+2° A l'alinéa 2, les mots "et en complément" sont remplacés par les mots "en complément ou en remplacement".
+
+3° L'article est complété de la manière suivante :
+
+" Les modalités d'organisation des épreuves d'évaluation correspondant aux profils de qualification visés aux articles 39 et 39bis peuvent être adaptées pour l'enseignement secondaire spécialisé de forme 4, en fonction du handicap. "
+
+#### Art. 239
+
+A l'article 53 du même décret, il est insére l'alinéa suivant après l'alinéa 2 :
+
+" Après avoir pris l'avis du [<sup>1</sup> Conseil général]<sup>1</sup> visé à l'article 13, le Gouvernement fixe, par phase, le nombre maximum de périodes hebdomadaires qui peuvent être organisées dans l'enseignement secondaire spécialisé de forme 3 conformément à l'alinéa 1er".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 240
+
+A l'article 54, 3°, les mots "39bis" sont insérés entre les mots "39 et 44".
+
+#### Art. 241
+
+A l'article 57, les mots "[<sup>1</sup> Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>" sont remplacés par les mots "[<sup>1</sup> Conseil général]<sup>1</sup>".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 242
+
+A l'article 76, alinéa 5, les mots "Cette mesure n'est pas obligatoire pour les élèves majeurs de l'enseignement spécialisé relevant de la forme 1 ou de la forme 2. " sont ajoutés après les mots "reglement d'ordre intérieur".
+
+#### Art. 243
+
+A l'article 79, les mots "dans l'enseignement maternel et dans l'enseignement à horaire réduit" sont remplacés par les mots "dans l'enseignement maternel ordinaire, l'enseignement en alternance et l'enseignement spécialisé".
+
+#### Art. 244
+
+Dans l'intitulé du chapitre X du même décret, les mots "et dans l'enseignement secondaire spécialisé de forme 3 et de forme 4° sont ajoutés entre les mots "secondaire ordinaire" et "de plein exercice".
+
+#### Art. 245
+
+A l'article 95, alinéa 1er, les mots "de classe ou de cycle" sont remplacés par les mots "de classe, de cycle ou de phase".
+
+#### Art. 246
+
+A l'article 96, alinéa 3, les mots "ou, pour l'enseignement spécialisé, par une personne de leur choix" sont ajoutés après les mots "d'un membre de la famille".
+
+#### Art. 247
+
+A l'article 97, il est ajouté un paragraphe 7 rédigé comme suit :
+
+" § 7. Lorsqu'un recours concerne un élève relevant de l'enseignement spécialisé de forme 3 ou de forme 4, deux membres du [<sup>1</sup> Conseil général]<sup>1</sup> visé à l'article 13 siègent au Conseil de Recours. "
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 248
+
+L'article 98, § 3, du même décret est complété par l'alinéa suivant :
+
+" Dans l'enseignement secondaire spécialisé de forme 3, le conseil de recours peut remplacer la décision du conseil de classe par une décision de réussite ou par une nouvelle décision ".
+
+### Section 5. - Modifications de dispositions diverses.
+
+#### Art. 249
+
+Dans le texte de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, sont apportées les modifications suivantes :
+
+1° le mot "spécial" est remplacé par le mot "spécialisé".
+
+2° A l'article 32, § 3, alinéa 3, les mots "[<sup>1</sup> Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>" sont remplacés par les mots "[<sup>1</sup> Conseil général]<sup>1</sup>".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 250
+
+Dans la loi du 1er avril 1960 relative aux centres psycho-médico-sociaux, sont apportées les modifications suivantes :
+
+1° dans le texte de la loi, le mot "spécial" est remplacé par le mot "spécialisé".
+
+2° à l'article 2 § 2, les mots "de l'enseignement spécial intégré tel qu'il est défini dans la loi du 6 juillet 1970 sur l'enseignement spécial, telle qu'elle a été modifiée par la loi du 11 mars 1986 relative à l'organisation et au subventionnement de l'enseignement spécial intégré" sont remplacés par "de l'enseignement spécialisé tel qu'il est défini par le décret du 3 mars 2004 organisant l'enseignement spécialisé".
+
+#### Art. 251
+
+Dans la loi du 22 juin 1964 relative au statut des membres de l'enseignement de l'Etat, sont apportées les modifications suivantes :
+
+1° dans le texte de la loi, le mot "spécial" est remplacé par le mot "spécialisé".
+
+2° à l'article 3 § 2, les mots "et Sections" sont supprimés.
+
+#### Art. 252
+
+Dans la loi du 29 juin 1983 concernant l'obligation scolaire, sont apportées les modifications suivantes :
+
+1° dans le texte de la loi, le mot "spécial" est remplacé par le mot "spécialisé".
+
+2° dans l'article 1er § 5 les mots "conformément à la loi du 6 juillet 1970 sur l'enseignement spécial" sont remplacés par "conformément au décret du... organisant l'enseignement spécialisé".
+
+#### Art. 253
+
+A l'article 8 du décret du 3 juillet 1991 organisant l'enseignement secondaire à horaire réduit, sont apportées les modifications suivantes :
+
+1° le mot "spécial" est remplacé parle mot "spécialisé";
+
+2° dans le § 2, 2°, les mots "certificat de qualification de 5e année de l'enseignement spécial de forme 3° sont remplacés par les mots "certificat de qualification de 3e phase de l'enseignement spécialisé de forme 3".
+
+#### Art. 254
+
+A l'article 1er du décret du 29 juillet 1992 portant organisation de l'enseignement secondaire de plein exercice, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 255
+
+Dans le décret du 1er février 1993 fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 256
+
+Aux articles 1er et 36quinquies, § 4 du décret du 6 juin 1994 fixant le statut des membres du personnel subsidie de l'enseignement officiel subventionné, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 257
+
+Dans le texte du décret du 24 juin 1996 relatif au programme d'urgence pour les bâtiments scolaires de l'enseignement fondamental et de l'enseignement secondaire organisé ou subventionné par la Communauté française sont apportées les modifications suivantes :
+
+1° le mot "spécial" est remplacé par le mot "spécialisé".
+
+2° A l'article 6, alinéa 1er, les mots "[<sup>1</sup> Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>" sont remplacés par les mots "[<sup>1</sup> Conseil général]<sup>1</sup>".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 258
+
+Dans le décret du 30 juin 1998 visant à assurer à tous les élèves des chances égales d'émancipation sociale, notamment par la mise en ouvre de discriminations positives, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 259
+
+A l'article 1er du décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire et modifiant la réglementation de l'enseignement, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 260
+
+Dans le texte du décret du 4 janvier 1999 relatif aux fonctions de promotion et de sélection, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 261
+
+Dans le décret du 8 février 1999 portant diverses mesures en matière d'enseignement, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 262
+
+A l'article 1er, 1° du décret du 5 juillet 2000 fixant le régime des congés et de disponibilité pour maladie ou infirmité de certains membres du personnel de l'enseignement, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 263
+
+Dans le texte du décret du 7 juin 2001 relatifs aux avantages sociaux, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 264
+
+A l'article 1er du même décret, le mot "spéciaux" est remplacé par le mot "spécialisés".
+
+#### Art. 265
+
+Dans le texte du décret du 14 juin 2001 relatif au programme de travaux de première nécessité en faveur des bâtiments scolaires de l'enseignement fondamental et de l'enseignement secondaire organisé ou subventionné par la Communauté française sont apportées les modifications suivantes :
+
+1° le mot "spécial" est remplacé par le mot "spécialisé".
+
+2° A l'article 17, les mots "[<sup>1</sup> Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>" sont remplacés par les mots "[<sup>1</sup> Conseil général]<sup>1</sup>"
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 266
+
+A l'article 2, § 3, alinéa 3 et a l'article 17 du décret du 12 juillet 2001 visant à améliorer les conditions matérielles des établissements de l'enseignement fondamental et secondaire, les mots "[<sup>1</sup> Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>" sont remplacés par les mots "[<sup>1</sup> Conseil général]<sup>1</sup>"
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 267
+
+A l'article 3 du décret du 20 décembre 2001 relatif à la promotion de la santé à l'école, le mot "spécial" est remplacé par le mot "spécialisé" et le mot "spéciaux" est remplacé par le mot "spécialisés".
+
+#### Art. 268
+
+A l'article 1er du décret du 31 janvier 2002 fixant le statut des membres du personnel technique subsidié des centres psycho-médico-sociaux libres subventionnés, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 269
+
+A l'article 1er du décret du 31 janvier 2002 fixant le statut des membres du personnel technique subsidié des centres psycho-médico-sociaux officiels subventionnés, le mot "spécial" est remplace par le mot "spécialisé".
+
+#### Art. 270
+
+Dans le texte et l'intitulé du décret du 11 juillet 2002 relatif à la formation en cours de carrière dans l'enseignement spécial, l'enseignement secondaire et les centres psycho-médico-sociaux et à la création d'un institut de la formation en cours de carrière, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 271
+
+Dans l'arrêté royal du 13 août 1962 organique des centres psycho-médico-sociaux, sont apportées les modifications suivantes :
+
+1° dans le texte de l'arrêté royal, le mot "spécial" est remplacé par le mot "spécialisé".
+
+2° dans l'article 3, § 1er; 3, les mots "en exécution de l'article 5 de la loi du 6 juillet 1970 sur l'enseignement spécial et conformément à l'article 7 de l'arrêté royal du 28 juin 1978 portant définition des types et organisation de l'enseignement spécial et déterminant les conditions d'admission et de maintien dans les divers niveaux de cet enseignement" sont remplacés par les mots "conformément aux chapitres Il et III du décret du 3 mars 2004 organisant l'enseignement spécialisé".
+
+3° dans l'article 4 les mots "de l'article 12 § 2 de la loi du 6 juillet 1970 sur l'enseignement spécial" sont remplacés par les mots "de l'article 12 § 2 du décret du 3 mars 2004 organisant l'enseignement spécialisé".
+
+#### Art. 272
+
+Dans l'arrêté royal du 29 août 1966 déterminant et classant les fonctions des membres du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 273
+
+Dans l'intitulé de l'arrêté royal du 28 février 1967 déterminant les positions administratives du personnel administratif, du personnel de maîtrise, gens de métier et de service des etablissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 274
+
+Dans l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'education, du personnel paramédical, du personnel psychologique et du personnel social des [<sup>1</sup> écoles]<sup>1</sup> d'enseignement préscolaire, primaire, spécial, moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces [<sup>1</sup> écoles]<sup>1</sup>, le mot "spécial" est remplacé par le mot "spécialisé".
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 275
+
+Aux articles 1er, 14quater, § 4, 14sexies, § 2, 26bis, 34, § 2, 36, 167, § 3 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des [<sup>1</sup> écoles]<sup>1</sup> d'enseignement, gardien, primaire, spécial, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendant de ces [<sup>1</sup> écoles]<sup>1</sup> et des membres du personnel du service d'inspection chargé de la surveillance de ces [<sup>1</sup> écoles]<sup>1</sup>, le mot "spécial" est remplacé par le mot "spécialisé".
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 276
+
+Dans l'intitulé de l'arrêté royal du 22 avril 1969 fixant les aptitudes physiques requises des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des [<sup>1</sup> écoles]<sup>1</sup> d'enseignement gardien, primaire, spécial, moyen, technique, artistique, de promotion sociale et normal de l'Etat et des internats dépendant de ces [<sup>1</sup> écoles]<sup>1</sup>, le mot "spécial" est remplacé par le mot "spécialisé".
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 277
+
+Dans l'intitule de l'arrêté royal du 15 juillet 1969 fixant les attributions des administrateurs, éducateurs-économes et secrétaires de direction dans les établissements d'enseignement gardien, primaire, spécial, moyen, technique et normal de l'Etat, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 278
+
+Dans l'arrêté royal du 27 juillet 1971 fixant les modalités d'organisation de la guidance des élèves fréquentant les établissements ou Sections d'enseignement spécial, sont apportées les modification suivantes :
+
+1° dans l'intitulé, les mots "ou Sections" sont supprimés.
+
+2° dans le texte de l'arrêté royal, le mot " spécial" est remplace par le mot "spécialisé".
+
+3° à l'article 5, les mots "ou de la Section" sont supprimés.
+
+4° à l'article 6, les mots"ou la Section" sont supprimés.
+
+#### Art. 279
+
+Dans l'arrêté royal du 16 août 1971 créant les commissions consultatives de l'enseignement spécial et fixant leur composition et les modalités de fonctionnement, sont apportées les modifications suivantes :
+
+1° dans l'intitulé et le texte de l'arrêté, le mot "spécial" est remplacé par le mot "spécialisé".
+
+2° à l'article 6, alinéa 2, les mots "prévue à l'article 7 de la loi du 6 juillet 1970" sont remplacés par les mots "prévue à l'article 125 du décret du 3 mars 2004 organisant l'enseignement spécialise".
+
+#### Art. 280
+
+Dans l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des [<sup>1</sup> écoles]<sup>1</sup> d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces [<sup>1</sup> écoles]<sup>1</sup> et des membres du personnel du service d'inspection chargé de la surveillance de ces [<sup>1</sup> écoles]<sup>1</sup>, sont apportées les modifications suivantes :
+
+1° le mot "spécial" est remplacé par le mot "spécialisé";
+
+2° à l'article 1er, § 5, les mots "15 août" sont remplacés par les mots "31 août";
+
+3° le même article est complété par l'alinéa suivant :
+
+"Durant la période de vacances d'été du 1er juillet au 31 août, 5 jours ouvrables sont prestés entre le 16 et le 31 août".
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 281
+
+Dans l'arrêté royal du 18 janvier 1974 pris en application de l'article 164 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des [<sup>1</sup> écoles]<sup>1</sup> d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces [<sup>1</sup> écoles]<sup>1</sup> et des membres du personnel du service d'inspection chargé de la surveillance de ces [<sup>1</sup> écoles]<sup>1</sup>, le mot "spécial" est remplacé par le mot "spécialisé".
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 282
+
+Dans l'arrêté royal du 3 décembre 1974 portant exécution de l'article 32, § 2, pénultième alinéa, de la loi du 29 mai 1959, tel qu'il a été remplacé par la loi du 11 juillet 1973 et fixant le montant, les modalités de calcul et le moment du paiement des subventions de fonctionnement dans l'enseignement spécial, sont apportees les modifications suivantes :
+
+1° dans l'intitulé et le texte de l'arrete royal, le mot "spécial," est remplacé par le mot "spécialisé";
+
+2° dans l'article 1er, 1°, les mots "un établissement, un institut ou une Section d'enseignement spécial tels qu'ils sont définis à l'article 2 de la loi du 6 juillet 1970 sur l'enseignement special; " sont remplacés par les mots "une [<sup>1</sup> école]<sup>1</sup> ou un institut tels qu'ils sont définis à l'article 4 du décret du 3 mars 2004 organisant l'enseignement spécialisé.";
+
+3° dans l'article 1er, 2° b, les mots "à l'article 5 de la loi du 6 juillet 1970 sur l'enseignement spécial "sont remplacés par les mots" à l'article 12 du décret du 3 mars 2004 organisant l'enseignement spécialisé. "
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 283
+
+Dans l'arrêté royal du 30 juillet 1975 relatif aux titres juges suffisants dans les enseignements préscolaire spécial et primaire special, sont apportées les modifications suivantes :
+
+1° dans l'intitulé, le mot "spécial" est remplacé par le mot "spécialisé";
+
+2° aux articles l el et 7, le mot "spécial" est remplacé par le mot "spécialisée";
+
+3° à l'article 4, les mots "à l'enseignement spécial" sont remplacés par les mots "à l'enseignement spécialisé",;
+
+4° dans l'annexe de l'arrêté royal, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 284
+
+Dans l'annexe et le texte de l'arrêté royal du 5 mai 1976 exécutant l'article 27, § 2, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 285
+
+Dans l'arrêté royal du 27 juillet 1979 portant le statut du personnel technique des centres psycho-médico-sociaux de la Communauté française, des centres psycho-médico-sociaux pour l'enseignement spécial de la Communauté française, du centre de formation de la Communauté française, ainsi que des services d'inspection chargés de la surveillance des centres psycho-médico-sociaux pour l'enseignement spécial, le mot "spécial" est remplacé par le mot "spécialise".
+
+#### Art. 286
+
+Dans l'arrêté royal n° 184 du 30 décembre 1982 fixant la façon de déterminer, pour les instituts d'enseignement spécial de l'Etat et (les homes d'accueil de l'Etat), les fonctions du personnel paramédical et du personnel attribué dans le cadre de l'internat, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 287
+
+Dans l'arrêté royal du 16 janvier 1987 portant transformation d'internats annexés à des [<sup>1</sup> écoles]<sup>1</sup> d'enseignement spécial de l'Etat en homes d'accueil, le mot "spécial" est remplacé par le mot "spécialisé".
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 288
+
+Dans l'arrêté de l'Exécutif de la Communauté française du 8 décembre 1989 relatif à l'appellation des internats autonomes et des homes d'accueil, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 289
+
+A l'article 4 de l'arrêté de l'Exécutif de la Communauté française du 17 septembre 1990 relatif à l'accompagnement dans les bus qui sont propriété de la Communauté française ou qui lui sont prêtés sous contrat par une personne physique ou morale et qui sont affectés au ramassage des élèves de l'enseignement ordinaire et de l'enseignement spécial, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 290
+
+Dans l'arrêté de l'Exécutif de la Communauté française du 18 juillet 1991 relatif aux surveillances de midi dans l'enseignement maternel, primaire ordinaire et spécial, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 291
+
+§ 1er. A l'article 1er de l'arrêté de l'Exécutif de la Communaute française du 3 septembre 1991 accordant un supplément de traitement aux membres du personnel de l'enseignement spécial porteurs du certificat d'aptitude à l'éducation des enfants anormaux, le mot "spécial" est remplacé par le mot "spécialisé".
+
+§ 2. Dans le titre de l'arrête de l'Exécutif de la Communauté française du 3 septembre 1991 précité, les mots "enfants anormaux" sont remplacés par les mots "élèves à besoins spécifiques".
+
+#### Art. 292
+
+Dans l'Arrêté de l'Exécutif de la Communauté française du 4 mai 1992 portant création et composition des comités de concertation de base dans les centres psycho-médico-sociaux, les centres psycho-médico-sociaux pour l'enseignement spécial et le centre de formation, organisés par la Communauté française, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 293
+
+Dans l'arrêté de l'Exécutif de la Communauté française du 3 décembre 1992 relatif à l'interruption de la carriere professionnelle dans l'enseignement et les centres psycho-médico-sociaux, le mot "spécial" est remplacé par le mot "specialise".
+
+#### Art. 294
+
+A l'article 4 de l'arrêté de l'Exécutif de la Communauté française du 18 février 1993 relatif aux commissions paritaires dans l'enseignement libre confessionnel, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 295
+
+A l'article 4 de l'arrêté de l'Exécutif de la Communauté française du 8 mars 1993 relatif aux chambres de recours dans l'enseignement libre confessionnel, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 296
+
+Dans l'arrêté du Gouvernement de la Communauté française du 17 janvier 1994 relatif à la composition du [<sup>1</sup> Conseil supérieur de l'enseignement aux élèves à besoins spécifiques]<sup>1</sup>, le mot "spécial" est remplacé par le mot "spécialisé".
+
+----------
+
+(1)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 297
+
+Dans l'arrêté du Gouvernement de la Communauté française du 2 août 1994 fixant les conditions pédagogiques d'octroi des allocations d'études aux élèves de l'enseignement spécial secondaire, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 298
+
+Dans l'arrêté du Gouvernement de la Communauté française du 7 avril 1995 portant création du Centre d'Autoformation et de Formation continuée de l'enseignement de la Communauté française, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 299
+
+A l'article 2, § 1er, 4° de l'arrêté du Gouvernement de la Communauté française du 19 mai 1995 portant création des Commissions Paritaires dans l'enseignement officiel subventionné, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 300
+
+Dans l'arrêté du Gouvernement de la Communauté française du 28 août 1995 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans les enseignements secondaire ordinaire et spécial, supérieur de type court et artistique officiels subventionnés, le mot "spécial" est remplacé par le mot "spécialisé".
+
+Dans l'arrêté du Gouvernement de la Communauté française du 28 août 1995 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans l'enseignement pré-scolaire et primaire officiel subventionné, ordinaire et spécial, le mot "spécial" est remplacé par le mot "spécialisé".
+
+Dans l'arrêté du Gouvernement de la Communauté française du 28 août 1995 reglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans les enseignements secondaires ordinaire et spécial, supérieur de type court et artistique libres subventionnés, le mot "special" est remplacé par le mot "spécialisé".
+
+Dans l'arrêté du Gouvernement de la Communauté française du 28 août 1995 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans l'enseignement pré-scolaire et primaire libre subventionne, ordinaire et spécial, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 301
+
+Dans l'arrêté du Gouvernement de la Communauté française du 30 août 1996 portant approbation du règlement d'ordre intérieur de la Chambre de recours de l'enseignement spécial libre confessionnel, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 302
+
+Dans l'arrêté du Gouvernement de la Communauté française du 21 mai 1997 portant approbation du règlement d'ordre intérieur de la Commission Paritaire Communautaire de l'enseignement spécial et de promotion socioculturelle officiel subventionné, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 303
+
+Dans l'arrêté du Gouvernement de la Communauté française du 6 octobre 1997 rendant obligatoire la décision du 27 février 1997 de la commission paritaire communautaire de l'enseignement spécial et de l'enseignement de promotion socioculturelle officiels subventionnés relative au régime de formation spécifique prévue par le décret du 6 juin 1994 fixant le statut des membres du personnel subsidié de l'enseignement officiel subventionné en vue d'accéder à la nomination à une fonction de sélection ou de promotion, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 304
+
+Aux articles 69, 70 et 73 de l'arrêté du Gouvernement de la Communaute française du 9 février 1998 portant délégations de compétence et de signature aux fonctionnaires généraux et à certains autres agents des Services du Gouvernement de la Communaute française Ministère de la Communauté française, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 305
+
+Dans l'arrêté du Gouvernement de la Communauté française du 28 juillet 1998 portant approbation du règlement des études de l'enseignement secondaire spécial de la Communauté française, sont apportées les modifications suivantes
+
+1° dans l'intitulé de l'arrêté, le mot "spécial" est remplacé par le mot "spécialisé";
+
+2° dans l'intitulé de l'annexe, le mot "spécial" est remplacé par le mot "spécialisé";
+
+3° dans le texte de l'annexe, le mot "spécial" est remplacé par le mot "spécialisé";
+
+4° dans la partie du texte de l'annexe traitant de l'enseignement spécial de forme 1, les mots "milieu de vie protégé" sont remplaces par les mots "milieu de vie adapté";
+
+5° dans la partie du texte de l'annexe traitant de l'enseignement spécial de forme 3, les mots "comporte deux phases" sont remplacés par les mots "comporte trois phases";
+
+6° dans la partie du texte de l'annexe traitant de l'enseignement spécial de forme 3, les mots "Une troisième phase, dite de perfectionnement peut être organisée" sont supprimés;
+
+7° dans la partie du texte de l'annexe traitant "De l'évaluation et du conseil de classe,", les mots "pendant la première ou la deuxième phase" sont supprimés;
+
+8° dans la même partie du texte de l'annexe, les mots "une attestation de réussite, à l'issue de la première phase" sont remplacés par :
+
+" - une attestation de réussite dans un secteur professionnel à l'issue de la première phase
+
+\- une attestation de réussite dans un groupe professionnel à l'issue de la deuxième phase;
+
+\- un certificat d'enseignement secondaire inférieur équivalant au certificat d'enseignement secondaire du deuxième degré à l'issue de la 3e phase ";
+
+9° dans la même partie, les mots "deuxième phase" sont remplacés par les mots "troisième phase";
+
+10° dans la même partie, les mots "Un certificat de qualification complémentaire à l'issue de la troisième phase, dans ce cas, le conseil de classe est élargi à des membres étrangers au personnel de l'[<sup>1</sup> école]<sup>1</sup> et devient alors jury de qualification" sont supprimés.
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 1,3°, 068; En vigueur : 24-08-2026&gt;
+
+#### Art. 306
+
+Dans l'arrêté du Gouvernement de la Communauté française du 21 octobre 1998 fixant le cadre de service d'inspection chargé de la surveillance des établissements d'enseignement spécial de la Communauté française, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 307
+
+Dans l'arrêté du Gouvernement de la Communauté française du 17 mai 1999 portant application de l'article 28 du décret du 30 juin 1998 visant à assurer à tous les élèves des chances égales d'émancipation sociale, notamment par la mise en oeuvre de discriminations positives, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 308
+
+Dans l'arrêté du Gouvernement de la Communauté française du 1er juin 1999 créant le jury de promotion pour la fonction d'inspecteur de cours généraux dans l'enseignement secondaire du degré inférieur, chargé de l'accompagnement pédagogique général des membres du personnel directeur et enseignant des formes 1 et 2 de l'enseignement spécial secondaire, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 309
+
+A l'article 5 de l'arrêté du Gouvernement de la Communauté française du 22 juillet 1999 fixant la répartition des compétences entre les Ministres du Gouvernement de la Communauté française, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 310
+
+Dans l'arrêté du Gouvernement de la Communauté française du 29 juin 2000 autorisant la création d'un enseignement spécial de forme 2 dans une implantation créée en dérogation à l'article 24, paragraphe 2, 8° de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, le mot "spécial" est remplacé par le mot "specialise".
+
+#### Art. 311
+
+Dans l'arrêté du Gouvernement de la Communauté française du 26 avril 2001 portant application de l'article 20quinquies de la loi du 6 juillet 1970 sur l'enseignement spécial et intégré et de l'article 10bis de la loi du 19 juillet 1971 relative à la structure générale de l'enseignement secondaire, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 312
+
+Dans l'arrêté du Gouvernement de la Communauté française du 25 juin 2001 portant désignation des membres et des secrétaires des commissions consultatives de l'enseignement spécial, le mot "spécial," est remplacé par le mot "spécialisé".
+
+#### Art. 313
+
+A l'article 5 de l'arrêté du Gouvernement de la Communauté française du 17 juillet 2002 fixant les modalités de concertation relative au suivi médical, entre les services de promotion de la santé à l'école et les centres psycho-médico-sociaux subventionnés, en application de l'article 10, § ter, du décret du 20 décembre 2001 relatif à la promotion de la santé à l'école, sont apportées les modifications suivantes :
+
+1° à l'alinéa 1er, le mot "spécial" est remplacé par le mot "spécialisé";
+
+2° à l'alinéa 2, les mots "de la loi du 6 juillet 1970 sur l'enseignement spécial et intégré" sont remplacés par les mots "du décret du 3 mars 2004 organisant l'enseignement spécialisé".
+
+#### Art. 314
+
+Dans l'Arrêté du Gouvernement de la Communauté française du 12 septembre 2002 portant délégation de compétence en matière de formation en cours de carrière dans l'enseignement spécial, l'enseignement secondaire ordinaire et les centres psycho-médico-sociaux, le mot "special" est remplacé par le mot "spécialisé".
+
+#### Art. 315
+
+Dans l'arrêté du Gouvernement de la Communauté française du 26 septembre 2002 fixant les vacances et congés dans l'enseignement fondamental et secondaire pour l'année scolaire 2003-2004, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 316
+
+Dans l'arrêté du gouvernement de la Communauté française du 28 novembre 2002 portant application de l'article 15 du décret du 11 juillet 2002 relatif à la formation en cours de carrière dans l'enseignement spécial, l'enseignement ordinaire et les centres psycho-médico-sociaux et à la création d'un institut de la formation en cours de carrière, le mot "special" est remplacé par le mot "specialisé".
+
+#### Art. 317
+
+A l'article 6 de l'arrêté du Gouvernement de la Communauté française du 19 décembre 2002 créant un comité d'accompagnement et un comité de suivi au Plan stratégique en matière d'intégration des technologies de l'information et de la communication dans les établissements scolaires de l'enseignement obligatoire et de l'enseignement de promotion sociale, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 318
+
+Dans l'arrêté du Gouvernement de la Communauté française du 30 janvier 2003 fixant les normes relatives au nombre d'emplois d'auxiliaires paramédicaux et du personnel administratif des centres psycho-médico-sociaux de la Communauté française chargés d'assurer la promotion de la santé à l'école dans les établissements scolaires de la Communauté française, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 319
+
+Dans l'arreté du Gouvernement de la Communauté française du 15 juillet 2003, fixant la répartition des compétences entre les Ministres du Gouvernement de la Communauté française, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 320
+
+Dans l'arrêté ministériel du 12 avril 1969 fixant les regles selon lesquelles est prouvée l'expérience utile prévue à l'article 3 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces etablissements, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 321
+
+Dans les annexes 2 à 6 et l'intitulé de l'arreté ministériel du 25 avril 1980 fixant les modèles des certificats et des attestations délivrés dans l'enseignement spécial, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 322
+
+&lt;Abrogé par DCFR 2012-02-01/14, art. 45, 015; En vigueur : 25-03-2012&gt;
+
+#### Art. 323
+
+Dans l'arrêté ministériel du 19 mai 1982 fixant le programme d'activités des centres psycho-médico-sociaux de l'Etat, le mot "spécial" est remplacé par le mot "spécialisé".
+
+#### Art. 324
+
+Dans l'arrêté ministériel du 18 juin 1985 portant désignation des ordonnateurs et comptables des établissements d'enseignement spécial de l'Etat à gestion séparée, le mot "spécial" est remplacé par le mot "spécialisé".
+
+### Section 6. - Abrogations.
+
+#### Art. 325
+
+La loi sur l'enseignement spécial et intégré du 6 juillet 1970 est abrogée a l'exception des articles 17 et 20 alinéa 1er.
+
+#### Art. 326
+
+L'arrête royal du 28 juin 1978 portant définition des types et organisations de l'enseignement spécial et déterminant les conditions d'admission et de maintien dans les divers niveaux d'enseignement spécialisé est abrogé.
+
+#### Art. 327
+
+L'arrêté ministériel du 10 décembre 1979 relatif à la compétence et au fonctionnement des commissions administratives des établissements d'enseignement spécial secondaire de l'Etat est abrogé.
+
+#### Art. 328
+
+L'arrêté ministériel du 12 décembre 1979 relatif à la compétence et au fonctionnement des commissions administratives des établissements d'enseignement spécial secondaire subventionné est abrogé.
+
+#### Art. 329
+
+L'arrêté royal n° 65 du 20 juillet 1982 fixant la façon de déterminer les fonctions du personnel directeur et enseignant dans les établissements d'enseignement spécial est abroge.
+
+#### Art. 330
+
+L'arrêté royal n° 66 du 20 juillet 1982 fixant la façon de déterminer les fonctions du personnel administratif et personnel auxiliaire d'éducation dans les établissements d'enseignement spécial, à l'exception des internats ou semi-internats est abrogé.
+
+#### Art. 331
+
+L'arrêté royal n° 67 du 20 juillet 1982 fixant la façon de déterminer les fonctions du personnel paramédical, les fonctions du personnel social et les fonctions du personnel psychologique dans les établissements d'enseignement spécial, à l'exception des internats ou semi-internats est abrogé.
+
+#### Art. 332
+
+L'arrêté royal n° 439 du 11 août 1986 portant rationalisation et programmation de l'enseignement spécial est abrogé.
+
+#### Art. 333
+
+L'arreté de l'Exécutif de la Communauté française du 5 septembre 1991 relatif à l'organisation du Conseil de Perfectionnement de l'enseignement spécial de la Communauté française, institué au Ministère de l'Education, de la Recherche et de la Formation est abrogé.
+
+#### Art. 334
+
+L'arrêté de l'Exécutif de la Communauté française du 3 décembre 1991 fixant les modalités et les critères d'application de l'article 17 du décret du 19 juillet 1991 portant certaines dispositions urgentes en matière d'enseignement, et notamment d'enseignement spécial est abrogé.
+
+#### Art. 335
+
+L'arrêté de l'Exécutif de la Communauté française du 6 janvier 1992 fixant le nombre d'heures de prestations requis pour l'exercice de la fonction à prestations complètes de professeur de pratique professionnelle dans les établissements d'enseignement spécial secondaire, formes 1, 2 et 3 est abrogé.
+
+#### Art. 336
+
+L'arrêté du Gouvernement de la Communaute française du 3 janvier 1995 relatif à l'intégration permanente dans l'enseignement ordinaire de certains élèves relevant de l'enseignement spécial est abrogé.
+
+## CHAPITRE XVIII. - Des dispositions transitoires.
+
+#### Art. 337
+
+&lt;DCFR 2006-07-20/66, art. 4, 003; En vigueur : 01-09-2005&gt; Les élèves régulièrement inscrits pendant l'année scolaire 2004-2005 dans l'enseignement spécialisé de forme 3, soit en 2e phase, soit en 4e ou 5e année, peuvent avoir accès à un examen de qualification à l'issue de la 2e phase ou de la 5e année au plus tard a la fin de l'année scolaire 2006-2007 et peuvent avoir accès à l'épreuve de qualification à l'issue de la 3e phase ou 6e année au plus tard à la fin de l'année scolaire 2006-2007 selon les mêmes conditions que celles énoncées lors de leur entrée en 2e phase ou en 4e année.
+
+Les élèves régulièrement inscrits pendant l'année scolaire 2004-2005 dans l'enseignement spécialisé de forme 3, soit en 3e phase, soit en 6e année, peuvent avoir accès à un examen de qualification à l'issue de la 3e phase ou de la 6e année au plus tard à la fin de l'année scolaire 2006-2007, selon les même conditions que celles énoncées lors de leur entrée en 3ème phase ou en 6e année.
+
+#### Art. 338
+
+Les écoles qui modifient l'organisation de l'enseignement secondaire spécialisé de forme 3 en application du présent décret peuvent organiser les secteurs correspondant aux Sections précédemment organisées pendant l'année scolaire 2004-2005.
+
+Après la période de transformation, les règles de programmation seront a nouveau applicables.
+
+#### Art. 339
+
+Les membres du personnel nommés à titre définitif dans une fonction de professeur de pratique professionnelle ou de cours techniques ou de cours techniques et de pratique professionnelle, dont la charge a compris, pendant l'année scolaire 2003-2004 ainsi que pendant celle qui precède la transformation, des cours de pratique professionnelle, des cours techniques ou des cours techniques et de pratique professionnelle dans une Section qui est transformée en secteur professionnel conformément à l'article 55 du présent décret sont réputés avoir acquis l'expérience utile pour les cours de la même spécialité organisés dans le seul nouveau secteur resultant de la transformation.
+
+Les membres du personnel qui bénéficient des assimilations visées à l'alinéa precédent conservent l'échelle barémique qui leur était attribuée avant la transformation si elle est plus favorable que celle à laquelle leurs titres leur donnent droit.
+
+#### Art. 340
+
+Par dérogation aux articles 26, § 4 et 47, § 3 du présent décret, les enseignants et instituteurs qui ont assuré le cours de langue des signes pendant 3 années scolaires au moins au cours des 10 dernières années scolaires restent charges des cours de langue des signes sans détenir le titre de capacité à la fonction d'instituteur chargé des cours en immersion.
+
+#### Art. 341
+
+A partir de l'entrée en vigueur du présent décret, les écoles organisant l'enseignement spécialisé de type 7 disposent d'un délai de 5 années scolaires pour se conformer aux dispositions de l'article 26, § 4 et 47, § 3 du présent décret.
+
+#### Art. 342
+
+[<sup>1</sup> Jusqu'à ce que, après avoir pris l'avis du [<sup>2</sup> Conseil général]<sup>2</sup>, le Gouvernement constate que l'ensemble des besoins de formation est couvert par un nombre suffisant de profils de certification approuvés conformément à l'article 47 du décret du 24 juillet 1997 précité ou, à défaut par des profils de formation élaborés par la Commission communautaire des professions et des qualifications visée à l'article 7 du décret du 27 octobre 1994 précité, les formations organisées antérieurement sont maintenues]<sup>1</sup>.
+
+Le Gouvernement arrete la liste de celles qui font l'objet d'un certificat de qualification. Lorsque le profil est approuvé, un certificat de qualification remplace l'attestation de compétences acquises visée à l'article 57, 4°.
+
+----------
+
+(1)&lt;DCFR 2018-06-14/26, art. 28, 033; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2024-01-18/27, art. 65, 056; En vigueur : 21-02-2024&gt;
+
+#### Art. 342bis
+
+[<sup>1</sup> Les élèves qui bénéficient du mécanisme de l'intégration temporaire totale entre le 15 janvier 2020 et le 3 juillet 2020 bénéficient d'une intégration permanente totale au cours de l'année scolaire 2020-2021.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/04, art. 12, 045; En vigueur : 04-07-2020&gt;
+
+#### Art. 342/1
+
+[<sup>1</sup> Les porteurs du Certificat d'enseignement secondaire inférieur (CESI) équivalant au certificat d'enseignement secondaire du deuxième degré sont considérés comme porteurs du Certificat d'enseignement secondaire du deuxième degré de l'enseignement professionnel (CE2D de l'enseignement professionnel).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-07-12/26, art. 111, 016; En vigueur : 01-09-2012&gt;
+
+## CHAPITRE XIX. - De la disposition finale.
+
+#### Art. 343
+
+Le présent décret entre en vigueur le 1er septembre 2004 à l'exception du chapitre XIII qui entre en vigueur des sa parution au Moniteur, de l'article 280 qui entre en vigueur le 1er juillet 2004 et des articles 54 à 62 qui entrent en vigueur le 1er septembre 2005.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 3 mars 2004.

@@ -1,0 +1,1723 @@
+---
+title: "Décret relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française"
+identifier: "2006029100"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006029100/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2006-06-02
+published: 2006-08-23
+entry_into_force: 2006-04-01
+last_amended: 2026-07-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006029100/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 23-08-2006 et mise à jour au 29-07-2026"
+retrieved: 2026-10-12
+---
+
+# 2 JUIN 2006. - Décret relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE Ier. - Dispositions générales.
+
+###### Art. 1
+
+Pour l'application du présent décret il faut entendre par :
+
+\- Puériculteur : le puériculteur visé à l'article 8;
+
+\- [<sup>3</sup> puériculteur non statutaire]<sup>3</sup> : le puériculteur exerçant ses fonctions dans le cadre du décret du 12 mai 2004;
+
+\- Puériculteur contractuel : le puériculteur effectuant un remplacement dans le cadre des articles 24, 34, 44 [<sup>2</sup> et le puériculteur exerçant ses fonctions dans le cadre du décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité]<sup>2</sup>;
+
+\- Commissions :
+
+\- Dans l'enseignement organisé par la Communauté française : la commission zonale d'affectation visée à l'article 14quater de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements;
+
+\- [<sup>4</sup> ...]<sup>4</sup>.
+
+[<sup>1</sup> - Commissions centrales de gestion des emplois : dans l'enseignement officiel subventionné : la Commission centrale de gestion des emplois pour l'enseignement préscolaire et primaire officiel subventionné, ordinaire et spécial, créée par l'article 5 du décret du 12 mai 2004 relatif à la définition de la pénurie et à certaines Commissions dans l'enseignement organisé ou subventionné par la Communauté française; dans l'enseignement libre subventionné : la Commission centrale de gestion des emplois pour l'enseignement préscolaire et primaire libre subventionné, ordinaire et spécial, créée par l'article 9 du décret du 12 mai 2004 précité.]<sup>1</sup>
+
+\- Commission interzonale : la commission interzonale d'affectation visée à l'article 14ter de l'arrêté royal du 22 mars 1969 précité;
+
+\- Zone :
+
+\- Dans l'enseignement organisé par la Communauté française : chaque zone visée à l'article 14bis de l'arrêté royal du 22 mars 1969 précité;
+
+\- Dans l'enseignement officiel et libre subventionné à caractère confessionnel : chaque zone visée à l'article 1er de l'Arrêté du Gouvernement de la Communauté française du 11 juillet 2002 déterminant pour l'enseignement fondamental les zones en application de l'article 13 du décret du 14 mars 1995 relatif à la promotion d'une école de la réussite dans l'enseignement fondamental;
+
+\- Dans l'enseignement libre subventionné de caractère non confessionnel : la zone visée à l'article 10, alinéa 3 du décret du 12 mai 2004 relatif à la définition de la pénurie et à certaines Commissions dans l'enseignement organisé ou subventionné par la Communauté française.
+
+\- Emploi vacant : Par " emploi vacant ", il y a lieu d'entendre tout poste créé conformément au titre II ou libéré par un puériculteur nommé ou engagé à titre définitif suite à la cessation définitive de ses fonctions conformément aux articles 18, 28, 38 du présent décret;
+
+\- Décret du 12 mai 2004 : le décret fixant les droits et les obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française;
+
+\- Président : le Président de la Commission zonale d'affectation[<sup>4</sup> ...]<sup>4</sup> [<sup>1</sup> ou, selon les cas, le Président de la Commission centrale de gestion des emplois ou de la Commission interzonale d'affectation]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 7, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2011-02-10/07, art. 54, 004; En vigueur : 01-09-2010&gt;
+
+(3)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DCFR 2024-04-04/37, art. 62, 016; En vigueur : 01-01-2026&gt;
+
+###### Art. 2
+
+L'emploi dans le présent décret des noms masculins pour les différents titres et fonctions est épicène en vue d'assurer la lisibilité du texte nonobstant les dispositions du décret du 21 juin 1993 relatif à la féminisation des noms de métiers, fonction, grade ou titre.
+
+###### Art. 3
+
+Le présent décret s'applique à l'enseignement maternel ordinaire organisé ou subventionné par la Communauté française.
+
+## TITRE II. - Du cadre des puériculteurs de l'enseignement préscolaire ordinaire.
+
+### CHAPITRE Ier. - De la création du cadre.
+
+###### Art. 4
+
+&lt;Abrogé par DCFR 2024-04-04/37, art. 63, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 5
+
+[<sup>1</sup> Le nombre minimum de postes de puériculteurs statutaires soumis au présent décret est de 610.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 64, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 5/1
+
+&lt;Abrogé par DCFR 2024-04-04/37, art. 65, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 6
+
+Le nombre de postes de puériculteurs visés à l'article 5 est réparti [<sup>2</sup> tous les deux ans]<sup>2</sup> par le Gouvernement entre les réseaux, et, pour ce qui concerne l'enseignement libre subventionné entre les caractères [<sup>1</sup> ...]<sup>1</sup> et entre les zones, proportionnellement au nombre d'élèves régulièrement inscrits dans l'enseignement maternel ordinaire au 30 septembre de l'année qui précède [<sup>2</sup> la première année scolaire]<sup>2</sup> pour laquelle les postes sont attribués.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 8, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2016-06-16/23, art. 11, 008; En vigueur : 01-02-2016&gt;
+
+### CHAPITRE II. - Règles d'attribution des postes aux écoles.
+
+###### Art. 7
+
+[<sup>1</sup> Les postes prévus par le Chapitre Ier du présent titre sont attribués conformément au chapitre 2 du Titre Ier du décret du XX relatif aux aides complémentaires dans le secteur de l'enseignement bénéficiant des subventions régionales, abrogeant diverses dispositions en matière d'enseignements fondamental et secondaire et modifiant diverses dispositions relatives aux puériculteurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 66, 016; En vigueur : 01-01-2024&gt;
+
+## TITRE III. - Statut des puériculteurs de l'enseignement maternel ordinaire.
+
+###### Art. 8
+
+Le présent titre s'applique aux puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française visés par le Titre II.
+
+### CHAPITRE Ier. - De la fonction et des titres.
+
+###### Art. 9
+
+[<sup>2</sup> § 1.]<sup>2</sup> La fonction de puériculteur visée au présent titre est la fonction visée [<sup>1</sup> à l'annexe de l'arrêté du Gouvernement de la Communauté française du 5 juin 2014 relatif aux fonctions, titres de capacité et barèmes portant exécution des articles 7, 16, 50 et 263 du décret du 11 avril 2014 règlementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Les missions de base des puériculteurs sont fixées par le Gouvernement.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2016-06-30/15, art. 119, 009; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 67, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 10
+
+Les titres requis [<sup>2</sup> et suffisants]<sup>2</sup> pour la fonction de recrutement de puériculteurs sont ceux visés [<sup>1</sup> à l'annexe de l'arrêté du Gouvernement de la Communauté française du 5 juin 2014 relatif aux fonctions, titres de capacité et barèmes portant exécution des articles 7, 16, 50 et 263 du décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2016-06-30/15, art. 120, 009; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFR 2018-05-31/09, art. 30, 011; En vigueur : 01-09-2016&gt;
+
+### CHAPITRE II. - Des devoirs et des incompatibilités.
+
+###### Art. 11
+
+Sont applicables aux puériculteurs exerçant leurs fonctions au sein de l'enseignement organisé par la Communauté française, les articles 5 à 13 et 57 à 63 de l'Arrêté royal du 22 mars 1969 précité.
+
+###### Art. 12
+
+Est applicable aux puériculteurs exerçant leurs fonctions au sein de l'enseignement officiel subventionné, le chapitre II du Décret du 6 juin 1994 fixant le statut des membres du personnel subsidié de l'enseignement officiel subventionné.
+
+###### Art. 13
+
+Est applicable aux puériculteurs exerçant leurs fonctions au sein de l'enseignement libre subventionné, le chapitre II du décret du 1er février 1993 fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné.
+
+### CHAPITRE III. - Du recrutement.
+
+#### Section Ire. - Généralités.
+
+###### Art. 14
+
+Les fonctions de recrutement peuvent être exercées par des puériculteurs engagés à titre contractuel ou nommés ou engagés à titre définitif ou à titre provisoire.
+
+#### Section II. - Dans l'Enseignement organisé par la Communauté française.
+
+##### Sous-section Ire. - De la Nomination.
+
+###### Art. 15
+
+Nul ne peut être nommé à titre définitif s'il ne remplit pas les conditions suivantes :
+
+1° [<sup>1</sup> ...]<sup>1</sup>;
+
+2° Etre d'une conduite irréprochable;
+
+3° Jouir des droits civils et politiques;
+
+4° Avoir satisfait aux lois sur la milice;
+
+5° Satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+6° Etre porteur d'un titre visé à l'article 10 du présent décret;
+
+7° Etre le mieux classé conformément à l'article 17 du présent décret.
+
+8° Ne pas avoir fait l'objet d'un rapport défavorable visé par l'article 32 du décret du 12 mai 2004 précité portant sur une période d'au moins 6 mois, au cours des deux années précédant la nomination.
+
+----------
+
+(1)&lt;DCFR 2013-06-20/18, art. 8, 006; En vigueur : 27-07-2013&gt;
+
+###### Art. 16
+
+Il est procédé aux nominations à titre définitif des [<sup>1</sup> puériculteurs non statutaire]<sup>1</sup> après que les opérations de réaffectation et, s'il échet, de changement d'affectation aient été réalisées.
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 17
+
+§ 1er. Lorsqu'un ou plusieurs emploi(s) est/sont créé(s) [<sup>1</sup> ...]<sup>1</sup> en vertu des dispositions prévues par le Titre II, la nomination est proposée par priorité au(x) puériculteur(s) [<sup>1</sup> ...]<sup>1</sup> qui est/sont le mieux classé(s) dans le classement prévu à l'article 28, § 1er. du décret du 12 mai 2004.
+
+La proposition de nomination à titre définitif dont le modèle est établi par le Gouvernement, est notifiée au(x) puériculteur(s) qui arrive(nt) en ordre utile conformément à l'alinéa 1er, par lettre recommandée avec accusé de réception portant ses effets trois jours ouvrables après la date de son expédition.
+
+Cette proposition reprend la liste des établissements [<sup>1</sup> de la/des zone(s) indiquées par le puériculteur conformément à l'article 28, § 1er, alinéa 6 du décret du 12 mai 2004 précité]<sup>1</sup> où la nomination à titre définitif peut être accordée.
+
+Le puériculteur dispose d'un délai de 10 jours ouvrables pour faire part au [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> de son acceptation ou de son refus d'une nomination à titre définitif.
+
+En cas d'acceptation, il précise l'ordre des établissements dans lesquels il souhaite être nommé.
+
+Lorsqu'un emploi vacant est sollicité par plusieurs candidats, il est attribué au candidat le mieux classé dans le respect de l'article 28, § 1er. du décret du 12 mai 2004.
+
+§ 2. Lorsque un puériculteur notifie son refus d'être nommé à titre définitif ou ne réagit pas dans le délai imparti, le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup>, propose, selon les mêmes modalités que celles visées au § 1er la nomination à titre définitif au puériculteur [<sup>1</sup> ...]<sup>1</sup> qui est le suivant dans le classement et remplissant les conditions fixées à l'article 15.
+
+§ 3. Les puériculteurs sont nommés par le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> et affectés auprès de l'un des établissements visés au § 1er de l'alinéa 3, le [<sup>2</sup> premier jour de l'année scolaire]<sup>2</sup>, et ce, avant toute désignation en qualité de puériculteur ACS/ APE.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 9, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 183, 015; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2026-06-11/18, art. 291, 017; En vigueur : 24-08-2026&gt;
+
+###### Art. 17/1
+
+[<sup>1</sup> Par dérogation à l'article 17, pour ce qui concerne les postes ouverts à nomination dans l'enseignement organisé par la Communauté française pour l'année scolaire 2011-2012, en vertu de l'article 5/1, sauf refus exprès, sont nommés à titre définitif par priorité les puériculteurs désignés en qualité de puériculteur ACS/APE qui sont les mieux classés dans le classement prévu à l'article 28, § 1er, du décret du 12 mai 2004 fixant les droits et obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française et qui répondent aux conditions prévues à l'article 15.
+
+En cas de refus de nomination d'un puériculteur, conformément à l'alinéa précédent, est nommé à titre définitif le [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> qui est immédiatement le suivant dans le classement prévu à l'article 28, § 1er, du décret du 12 mai 2004 précité et qui répond aux conditions prévues à l'article 15.
+
+Les puériculteurs sont nommés à titre définitif par le Gouvernement au 1er septembre 2011 et sont affectés auprès de l'établissement où ils exerçaient, à cette date, leurs fonctions en qualité de puériculteur ACS/APE dans le respect du décret du 12 mai 2004 précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-07-12/31, art. 77, 005; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 18
+
+§ 1er. Lorsqu'un emploi devient vacant en raison de la cessation définitive de fonction d'un puériculteur nommé à titre définitif, le chef d'établissement le notifie immédiatement au [<sup>3</sup> Pouvoir organisateur]<sup>3</sup>.
+
+La proposition de nomination à titre définitif dont le modèle est établi par le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup>, est notifiée au puériculteur engagé en qualité de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup>, [<sup>1</sup> ...]<sup>1</sup> qui est le mieux classé conformément à l'article 17, § 1er., alinéa 1er.
+
+Le puériculteur dispose d'un délai de 10 jours ouvrables pour faire part au [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> de son acceptation ou de son refus d'une nomination à titre définitif.
+
+§ 2. Lorsqu'un puériculteur notifie son refus d'être nommé à titre définitif ou ne réagit pas dans le délai imparti, le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> propose la nomination à titre définitif au [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> qui est le suivant dans le classement et remplissant les conditions requises selon les mêmes modalités que celles visées au § 1er.
+
+§ 3. Le puériculteur est nommé par le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> le 1er jour du mois qui suit celui au cours duquel il a notifié son acceptation conformément au § 1er.
+
+Il est affecté auprès de l'établissement où il exerçait ses fonctions en qualité de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> dans le respect du décret du 12 mai 2004 à la veille de la nomination.
+
+Le puériculteur nommé à titre définitif qui a cessé d'exercer définitivement ses fonctions est remplacé par un [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> jusqu'au terme de l'année scolaire en cours.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 10, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFR 2026-06-11/18, art. 291, 017; En vigueur : 24-08-2026&gt;
+
+###### Art. 19
+
+Le puériculteur en congé de maternité, qui fait l'objet d'un écartement en vertu de l'article 42, § 1er, 3° de la loi du 16 mars 1971 sur le travail, malade ou en incapacité de travail causée par un accident du travail, un accident survenu sur le chemin du travail ou une maladie professionnelle qui répond aux conditions visées à l'article 15, peut être nommé à titre définitif.
+
+###### Art. 20
+
+L'arrêté de nomination est publié par extrait au Moniteur Belge.
+
+###### Art. 21
+
+Les puériculteurs nommés à titre définitif prêtent serment lors de leur entrée en fonction dans l'enseignement organisé par la Communauté française.
+
+##### Sous-section II. - Du changement d'affectation.
+
+###### Art. 22
+
+§ 1er. Tout puériculteur nommé à titre définitif peut, à sa demande, obtenir un changement d'affectation dans un autre établissement de la même zone ou d'une autre zone qui bénéficie d'un poste de puériculteur dans le respect de la procédure visée à l'article 7 [<sup>1</sup> ...]<sup>1</sup> .
+
+§ 2. Le puériculteur qui souhaite obtenir un changement d'affectation dans un autre établissement de la même zone introduit, par pli recommandé, une demande motivée par des circonstances exceptionnelles auprès du [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> dans le courant du mois de janvier. Cette demande précise les établissements dans lesquels il souhaite obtenir un changement d'affectation.
+
+Il en adresse copie au Président de la Commission zonale d'affectation dans le même délai.
+
+Le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> n'accorde le changement d'affectation que moyennant avis favorable de la Commission précitée.
+
+Les avis des Commissions concernant les changements d'affectation sont transmis au [<sup>3</sup> Pouvoir organisateur]<sup>3</sup>, par les Commissions, en même temps que les propositions visées à l'article 26 du décret du 12 mai 2004.
+
+Ce changement d'affectation produit ses effets [<sup>2</sup> premier jour de l'année scolaire suivante ]<sup>2</sup>.
+
+§ 3. Le puériculteur qui souhaite obtenir un changement d'affectation dans une autre zone, introduit, par pli recommandé, une demande motivée par des circonstances exceptionnelles auprès du [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> dans le courant du mois de janvier. Cette demande précise les établissements dans lesquels il souhaite obtenir un changement d'affectation.
+
+Il en adresse copie au Président de la Commission interzonale d'affectation dans le même délai.
+
+Le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> n'accorde le changement d'affectation que moyennant avis favorable de la Commission précitée.
+
+La Commission précitée se réunit, le cas échéant, sur l'initiative de son Président, dès la procédure visée à l'article 26 du décret du 12 mai 2004 terminée.
+
+Ce changement d'affectation produit ses effets le [<sup>2</sup> premier jour de l'année scolaire suivante ]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 11, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 184, 015; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2026-06-11/18, art. 291, 017; En vigueur : 24-08-2026&gt;
+
+##### Sous-section III. - De la Réaffectation.
+
+###### Art. 23
+
+[<sup>1</sup> Tous les deux ans]<sup>1</sup>, lorsque l'établissement dans lequel le puériculteur est affecté n'obtient plus de poste, dans le respect de la procédure visée à l'article 7 du présent décret, ce dernier doit être réaffecté par le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup> dans l'établissement scolaire qui a obtenu un poste dans le respect de la procédure visée à l'article 7 du décret du 12 mai 2004 le plus proche de l'établissement dans lequel il était affecté l'année scolaire précédente ou le plus proche de son domicile et qui n'est pas déjà occupé par un puériculteur nommé à titre définitif.
+
+Le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup> en informe le puériculteur et l'invite à lui faire part de sa préférence dans un délai de 10 jours. A défaut d'une réaction, dans le délai précité, le puériculteur est réputé ne pas avoir de préférence.
+
+----------
+
+(1)&lt;DCFR 2016-06-16/23, art. 12, 008; En vigueur : 01-02-2016&gt;
+
+(2)&lt;DCFR 2026-06-11/18, art. 291, 017; En vigueur : 24-08-2026&gt;
+
+##### Sous-section IV. - Du remplacement.
+
+###### Art. 24
+
+[<sup>1</sup> Le remplacement d'un puériculteur nommé titre définitif absent ou de son remplaçant est soumis aux mêmes conditions que le remplacement des membres du personnel enseignant de l'enseignement fondamental ordinaire.]<sup>1</sup>
+
+Ce remplacement se fait par un puériculteur désigné dans le respect des règles fixées à l'article 28, § 1er du décret du 12 mai 2004 si le puériculteur nommé à titre définitif ou son remplaçant doit être remplacé pour une période ininterrompue d'au moins 15 semaines.
+
+Cet engagement est régi par les dispositions de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 49, 002; En vigueur : 01-02-2009&gt;
+
+##### Sous-section V. [<sup>1</sup> - Du puériculteur exerçant ses fonctions dans le cadre de l'encadrement différencié]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2011-02-10/07, art. 55, 004; En vigueur : 01-09-2010&gt;
+
+###### Art. 24bis
+
+[<sup>1</sup> L'engagement d'un puériculteur désigné par application du décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité se fait dans le respect des règles de priorité fixées à l'article 28, § 1er, du décret du 12 mai 2004.
+
+Cet engagement est régi par les dispositions de la loi du 3 juillet 1978 relative aux contrats de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2011-02-10/07, art. 55, 004; En vigueur : 01-09-2010&gt;
+
+#### Section III. - Dans l'Enseignement officiel subventionné.
+
+##### Sous-section Ire. - De la nomination définitive ou provisoire.
+
+###### Art. 25
+
+Nul ne peut être nommé à titre définitif ou à titre provisoire, par un Pouvoir organisateur, s'il ne remplit pas les conditions suivantes :
+
+1°[<sup>1</sup> ...]<sup>1</sup>;
+
+2° Etre d'une conduite irréprochable;
+
+3° Jouir des droits civils et politiques;
+
+4° Avoir satisfait aux lois sur la milice;
+
+5° Satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+6° Etre porteur d'un titre visé à l'article 10 du présent décret;
+
+7° Etre le mieux classé conformément à l'article 27 du présent décret;
+
+8° Ne pas avoir fait l'objet d'un rapport défavorable visé par l'article 32 du décret du 12 mai 2004 précité portant sur une période d'au moins 6 mois, au cours des deux années précédant la nomination à titre provisoire ou à titre définitif.
+
+----------
+
+(1)&lt;DCFR 2013-06-20/18, art. 8, 006; En vigueur : 27-07-2013&gt;
+
+###### Art. 26
+
+Il est procédé aux nominations à titre provisoire ou à titre définitif des [<sup>1</sup> puériculteurs non statutaires]<sup>1</sup> après que les opérations de réaffectation, et, s'il échet, de changement d'affectation et de mutation aient été réalisées.
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 27
+
+§ 1er. Lorsqu'un ou plusieurs emploi(s) est/sont créé(s), [<sup>1</sup> ...]<sup>1</sup> , en vertu des dispositions prévues par le Titre II, la nomination est proposée, par priorité au(x) membre(s) du personnel [<sup>1</sup> ...]<sup>1</sup> qui est/sont le mieux classé(s) dans le classement prévu à l'article 28, § 2, alinéas 3 à 5 du décret du 12 mai 2004, selon un modèle établi par la Gouvernement.
+
+§ 2. Lorsque le(s) membre(s) du personnel qui est(sont) le mieux classé(s) dans le classement prévu à l'article 28, § 2 alinéas 3 à 5 du décret du 12 mai 2004 a(ont) acquis une ancienneté d'au moins 300 jours auprès du Pouvoir organisateur [<sup>1</sup> ...]<sup>1</sup> auprès duquel il(s) exerçai(en)t ses (leurs) fonctions l'année scolaire précédente, qui a obtenu un poste qui n'est pas déjà occupé par un puériculteur nommé à titre définitif ou à titre provisoire, le Président [<sup>1</sup> de la Commission centrale de gestion des emplois]<sup>1</sup> en informe ledit Pouvoir organisateur.
+
+La proposition de nomination est notifiée par le Pouvoir organisateur au(x) puériculteur(s), par lettre recommandée, avec accusé de réception, portant ses effets trois jours ouvrables après la date de son expédition.
+
+Le puériculteur dispose d'un délai de 10 jours ouvrables pour faire part au Pouvoir organisateur de son acceptation ou de son refus d'une nomination à titre définitif.
+
+Lorsque le puériculteur accepte la nomination à titre définitif [<sup>2</sup> en son sein]<sup>2</sup>, le Pouvoir organisateur en informe le Président.
+
+Lorsqu'un puériculteur notifie son refus d'être nommé à titre définitif ou ne réagit pas dans le délai imparti, le Pouvoir organisateur en informe le Président.
+
+En cas de refus de nomination, le Président informe le Pouvoir organisateur du puériculteur qui est le suivant dans le classement prévu à l'article 28, § 2, alinéas 3 à 5 du décret du 12 mai 2004 de la priorité de ce dernier à la nomination et qui répond aux conditions prévues à l'article 25. Dans ce cas, la procédure des alinéas 2 à 5 s'applique.
+
+[<sup>2</sup> § 2bis. Par dérogation au paragraphe 2, lorsque le puériculteur a accumulé un plus grand nombre de jours d'ancienneté auprès d'un autre Pouvoir organisateur que celui visé au paragraphe 2, il peut demander que sa nomination à titre définitif ait lieu auprès de cet autre Pouvoir organisateur, pour autant que :
+
+1° le puériculteur ait accumulé auprès de cet autre pouvoir organisateur plus de 360 jours d'ancienneté, dont 360 jours au moins ont été acquis au cours des cinq années scolaires précédant l'année scolaire durant laquelle la nomination est proposée;
+
+2° le puériculteur ait cessé de prester auprès de cet autre pouvoir organisateur parce que ce dernier n'avait plus obtenu de poste de puériculteur;
+
+3° cet autre pouvoir organisateur ait, à nouveau, obtenu un poste de puériculteur qui n'est pas déjà occupé par un puériculteur nommé à titre définitif ou à titre provisoire, lors de l'année scolaire concernée par la proposition de nomination.
+
+Dans le cas où le puériculteur demande à faire application du présent paragraphe, le Pouvoir organisateur visé au paragraphe 2 en informe le Président dans un délai de 10 jours ouvrables à dater de la réception de la proposition de nomination.
+
+Lorsque le Président marque son accord sur la vérification des conditions visées à l'alinéa 1er, il en informe le Pouvoir organisateur visé au paragraphe 2 et adresse une nouvelle proposition de nomination au Pouvoir organisateur visé à l'alinéa 1er. La procédure prévue au paragraphe 2 s'applique.
+
+Lorsque le Président ne marque pas son accord sur la vérification des conditions visées à l'alinéa 1er, il en informe le Pouvoir organisateur visé au paragraphe 2. Le puériculteur dispose d'un nouveau délai de 10 jours ouvrables, à dater du jour où la décision du Président est notifiée au Pouvoir organisateur visé au paragraphe 2, pour faire part à ce dernier de son acceptation ou de son refus d'une nomination à titre définitif en son sein. La procédure prévue au paragraphe 2 s'applique.]<sup>2</sup>
+
+§ 3. Lorsque le puériculteur qui est le mieux classé dans le classement prévu à l'article 28, § 2, alinéas 3 à 5 du décret du 12 mai 2004 ne peut se voir proposer une nomination auprès du pouvoir organisateur au sein duquel il a acquis l'ancienneté requise conformément au § 2, le Président [<sup>1</sup> de la Commission centrale de gestion des emplois]<sup>1</sup> informe ledit puériculteur qu'il peut être nommé à titre provisoire auprès :
+
+\- De ce Pouvoir organisateur s'il a obtenu un poste qui n'est pas déjà occupé par un puériculteur nommé à titre définitif ou à titre provisoire;
+
+\- A défaut, auprès d'un autre Pouvoir organisateur [<sup>1</sup> d'une zone dans laquelle le puériculteur a demandé à faire valoir sa priorité, conformément à l'article 28, § 8, alinéa 1er du décret du 12 mai 2004 précité]<sup>1</sup> qui a obtenu un poste qui n'est pas déjà occupé par un puériculteur nommé à titre définitif ou à titre provisoire.
+
+Le Président communique les coordonnées de ce Pouvoir organisateur au puériculteur et en informe également le Pouvoir organisateur.
+
+Le puériculteur dispose d'un délai de 10 jours ouvrables pour faire part au Président de son acceptation ou de son refus d'une nomination à titre provisoire Si le puériculteur ne réagit pas dans le délai imparti, il est réputé refuser la nomination. Le Président informe le Pouvoir organisateur concerné de la décision du puériculteur.
+
+En cas de refus, le Président informe le puériculteur qui est le suivant dans le classement prévu à l'article 28, § 2, alinéas 2 à 5 du décret du 12 mai 2004 et qui répond aux conditions prévues à l'article 25 qu'il peut être nommé à titre provisoire auprès d'un Pouvoir organisateur, qui a obtenu un poste qui n'est pas déjà occupé par un puériculteur nommé à titre définitif ou à titre provisoire. La procédure prévue aux alinéas 2 et 3 s'applique.
+
+§ 4. Pour ce qui concerne le présent article, le puériculteur est nommé au [<sup>3</sup> premier jour de l'année scolaire ]<sup>3</sup> et affecté auprès de l'un des établissements scolaires de son Pouvoir organisateur qui a obtenu un poste, et ce avant toute désignation comme [<sup>4</sup> puériculteur non statutaire]<sup>4</sup>.
+
+§ 5. La nomination provisoire visée au § 3 devient définitive lorsque le puériculteur en a fait la demande et a acquis une ancienneté de 300 jours auprès du pouvoir organisateur au sein duquel il est nommé provisoirement.
+
+Pour le calcul des 300 jours, sont seuls pris en considération les services effectifs rendus, en ce compris les vacances annuelles, les congés prévus aux articles 5, 5bis et 7 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, ainsi que les congés en vue de l'adoption et de la tutelle officieuse et les congés de maternité prévus respectivement, au chapitre IIbis et au chapitre XIII du même arrêté royal du 15 janvier 1974.
+
+Aussi longtemps que le puériculteur n'a pas acquis 300 jours d'ancienneté au service du pouvoir organisateur il reste nommé provisoirement dans ce dernier, sauf :
+
+\- Demande contraire de commun accord;
+
+\- En cas de faute grave;
+
+\- Décision de la Commission [<sup>1</sup> centrale de gestion des emplois]<sup>1</sup> saisie par le Pouvoir organisateur ou par le puériculteur, qui motivent respectivement leur demande;
+
+\- Perte du poste de puériculteur par le Pouvoir organisateur.
+
+Lorsqu'il est mis fin à la nomination provisoire dans les conditions de l'aliéna précédent, le puériculteur est nommé provisoirement le [<sup>3</sup> premier jour de l'année scolaire]<sup>3</sup> qui suit auprès d'un autre Pouvoir organisateur, qui a obtenu un poste dans le respect de la procédure visée à l'article 7 qui n'est pas déjà occupé par un puériculteur nommé à titre définitif ou à titre provisoire.
+
+Le Président [<sup>1</sup> de la Commission centrale de gestion des emplois]<sup>1</sup> communique les coordonnées de ce Pouvoir organisateur au puériculteur et en informe également ledit Pouvoir organisateur.
+
+La nouvelle nomination à titre provisoire ne donne pas lieu à une interruption.
+
+§ 6. Sans préjudice du § 5, alinéa 3, si pour ce qui concerne l'année scolaire qui suit la nomination à titre provisoire du puériculteur auprès d'un Pouvoir organisateur :
+
+\- Soit le puériculteur n'a pas acquis les 300 jours visés à l'alinéa premier du paragraphe 5;
+
+\- Soit le puériculteur n'a pas fait la demande d'être nommé à titre définitif dans le pouvoir organisateur au sein duquel il est nommé provisoirement;
+
+\- Soit le pouvoir organisateur au sein duquel il est nommé provisoirement n'obtient plus de poste de puériculteur dans le respect de la procédure visée à l'article 7,
+
+Et que le pouvoir organisateur au sein duquel le puériculteur a acquis la plus grande ancienneté avant sa nomination obtient un poste de puériculteur dans le respect de la procédure visée à l'article 7, il peut demander à être nommé à titre définitif dans ce dernier au [<sup>3</sup> premier jour de l'année scolaire considérée ]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 12, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 95, 013; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2022-03-31/35, art. 185, 015; En vigueur : 29-08-2022&gt;
+
+(4)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 27/1
+
+[<sup>1</sup> Par dérogation à l'article 27, pour ce qui concerne les postes ouverts à nomination dans l'enseignement officiel subventionné pour l'année scolaire 2011-2012, en vertu de l'article 5/1, sauf refus exprès, sont nommés à titre définitif par priorité les puériculteurs désignés en qualité de puériculteur ACS/APE qui sont les mieux classés dans le classement prévu à l'article 28, § 2, alinéas 3 à 5, du décret du 12 mai 2004 fixant les droits et obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française et qui répondent aux conditions prévues à l'article 25.
+
+En cas de refus de nomination d'un puériculteur, conformément à l'alinéa précédent, est nommé à titre définitif le puériculteur ACS/APE qui est immédiatement le suivant dans le classement prévu à l'article 28, § 2, du décret du 12 mai 2004 précité et qui répond aux conditions prévues à l'article 25.
+
+Les puériculteurs sont nommés à titre définitif par le Gouvernement au 1er septembre 2011 et sont affectés auprès de l'établissement où ils exerçaient, à cette date, leurs fonctions en qua lité de puériculteur ACS/APE dans le respect du décret du 12 mai 2004 précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-07-12/31, art. 78, 005; En vigueur : 01-09-2011&gt;
+
+###### Art. 28
+
+§ 1er. Lorsqu'un emploi devient vacant en raison de la cessation définitive de fonction d'un puériculteur nommé à titre définitif, le Pouvoir organisateur le notifie immédiatement au Président [<sup>1</sup> de la Commission centrale de gestion des emplois]<sup>1</sup> .
+
+La nomination est proposée, par priorité au puériculteur engagé en qualité de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> qui est le mieux classé dans le classement prévu à l'article 28, § 2, alinéas 3 à 5 du décret du 12 mai 2004 et qui répond aux conditions prévues à l'article 25, selon un modèle établi par la Gouvernement.
+
+Le Président en informe le Pouvoir organisateur du puériculteur visé à l'alinéa précédent.
+
+La proposition de nomination est notifiée par le Pouvoir organisateur au puériculteur, par lettre recommandée, avec accusé de réception, portant ses effets trois jours ouvrables après la date de son expédition.
+
+Le puériculteur dispose d'un délai de 10 jours ouvrables pour faire part au Pouvoir organisateur de son acceptation ou de son refus d'une nomination à titre définitif.
+
+Lorsque le puériculteur accepte la nomination à titre définitif, le Pouvoir organisateur en informe le Président.
+
+Lorsqu' un puériculteur notifie son refus d'être nommé à titre définitif ou ne réagit pas dans le délai imparti, le Pouvoir organisateur en informe le Président.
+
+En cas de refus de nomination, le Président informe le Pouvoir organisateur du puériculteur qui est immédiatement le suivant dans le classement prévu à l'article 28, § 2, alinéas 3 à 5 du décret du 12 mai 2004 et qui répond aux conditions prévues à l'article 25 de la priorité de ce dernier à la nomination. La procédure prévue au présent paragraphe s'applique.
+
+§ 2. Pour ce qui concerne le présent article, le puériculteur est nommé le 1er jour du mois qui suit celui au cours duquel il a notifié son acceptation conformément au § 1er et affecté auprès du Pouvoir organisateur au sein de l'établissement auprès duquel il exerçait ses fonctions en qualité de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> dans le respect du décret du 12 mai 2004 à la veille de la nomination.
+
+S'il s'agit d'un autre pouvoir organisateur que celui auprès duquel le puériculteur nommé à titre définitif a cessé d'exercer définitivement ses fonctions, ce dernier est remplacé par un [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> jusqu'au terme de l'année scolaire en cours.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 13, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 29
+
+Le puériculteur en congé de maternité, qui fait l'objet d'un écartement en vertu de l'article 42, § 1er, 3° de la loi du 16 mars 1971 sur le travail, malade ou en incapacité de travail causée par un accident du travail, un accident survenu sur le chemin du travail ou une maladie professionnelle qui répond aux conditions visées à l'article 25 peut être nommé à titre définitif ou à titre provisoire.
+
+###### Art. 30
+
+Les puériculteurs nommés à titre définitif prêtent serment suivant les règles fixées par le Gouvernement en exécution de l'article 28, 5°, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.
+
+##### Sous-section II. - Du changement d'affectation et de la mutation.
+
+###### Art. 31
+
+§ 1er. Le Pouvoir organisateur peut, à la demande du puériculteur nommé à titre définitif accorder un changement d'affectation auprès d'un de ses établissements ayant obtenu un poste pour autant qu'il ne soit pas déjà occupé par un puériculteur nommé à titre définitif.
+
+Les modalités de changements d'affectation sont, pour le surplus, fixées par les commissions paritaires locales.
+
+Le passage d'un établissement à un autre doit se faire sans interruption.
+
+Le changement d'affectation produit ses effets au [<sup>2</sup> premier jour de l'année scolaire]<sup>2</sup> pour laquelle l'attribution des postes visée à l'article 7 trouve à s'appliquer, sauf si le changement d'affectation a lieu en raison de la cessation définitive de fonction d'un puériculteur nommé à titre définitif.
+
+§ 2. Lorsqu' un puériculteur nommé à titre définitif souhaite obtenir une mutation auprès d'un autre Pouvoir organisateur de la zone ou d'une autre zone, il doit en faire la demande par pli recommandé, auprès de ce dernier, qui doit marquer son accord. Il en informe [<sup>1</sup> le Président de la Commission centrale de gestion des emplois]<sup>1</sup> .
+
+La mutation visée à l'alinéa 1er ne peut intervenir dans un Pouvoir organisateur d'une autre zone que si [<sup>1</sup> ...]<sup>1</sup> le Pouvoir organisateur bénéficie d'un poste de puériculteur pour l'année scolaire suivante.
+
+Cette mutation produit ses effets le [<sup>2</sup> premier jour de l'année scolaire suivante ]<sup>2</sup>. Le Pouvoir organisateur qui a accepté la mutation doit nommer à titre définitif le puériculteur à cette date. Le puériculteur doit démissionner à cette date dans le Pouvoir organisateur qu'il quitte.
+
+Cette mutation ne donne pas lieu à interruption.
+
+Les modalités de mutation sont, pour le surplus, fixées par la commission paritaire locale constituée au sein du Pouvoir organisateur qui accueille l'agent.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 14, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 186, 015; En vigueur : 29-08-2022&gt;
+
+##### Sous-section III. - De la Réaffectation.
+
+###### Art. 32
+
+[<sup>1</sup> Une fois les postes attribués conformément à la procédure visée à l'article 7, et, lorsque l'établissement scolaire auprès duquel le puériculteur est engagé à titre définitif n'obtient plus de poste, le Pouvoir organisateur met en disponibilité le puériculteur engagé à titre définitif ou provisoire qui a l'ancienneté de service la plus réduite parmi les membres du personnel exerçant la même fonction dans l'ensemble des établissements que le pouvoir organisateur organise sur le territoire de la même commune.
+
+Pour l'application du premier alinéa, c'est l'ancienneté de fonction qui est déterminante dans tous les cas où il y a égalité d'ancienneté de service.
+
+En cas d'égalité de l'ancienneté de service et de l'ancienneté de fonction entre plusieurs membres du personnel, c'est le membre du personnel le plus jeune qui est mis en disponibilité.
+
+Lorsqu'il a mis plusieurs membres du personnel en disponibilité dans la fonction de puériculteur, le pouvoir organisateur doit réaffecter celui qui a la plus grande ancienneté de service, et en cas d'égalité d'ancienneté de service, celui qui a la plus grande ancienneté de fonction. En cas d'égalité d'ancienneté de fonction, la priorité revient au membre du personnel le plus âgé.
+
+Cette réaffectation produit ses effets au premier jour de l'année scolaire pour laquelle l'attribution des postes visée à l'article 7 trouve à s'appliquer.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 68, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 33
+
+§ 1er. Lorsque le Pouvoir organisateur auprès duquel le puériculteur nommé à titre définitif n'obtient plus de poste, le puériculteur est réaffecté provisoirement par la Commission [<sup>1</sup> centrale de gestion des emplois]<sup>1</sup> auprès d'un Pouvoir organisateur [<sup>1</sup> ...]<sup>1</sup> qui a obtenu un poste dans le respect de la procédure visée à l'article 7 qui n'est pas déjà occupé par un puériculteur nommé à titre définitif ou provisoire. Lorsque lors de la réunion de la Commission aucun consensus n'est dégagé ou si le quorum de présence requis n'est pas atteint, le President de la Commission réaffecte le puériculteur.
+
+Le Président de la Commission communique les coordonnées du Pouvoir organisateur au puériculteur et en informe également ledit Pouvoir organisateur.
+
+Cette réaffectation ne donne pas lieu à une interruption.
+
+Elle produit ses effets au [<sup>2</sup> premier jour de l'année scolaire]<sup>2</sup> pour laquelle l'attribution des postes visée à l'article 7 trouve à s'appliquer.
+
+§ 2. Cette réaffectation devient définitive lorsque le puériculteur en a fait la demande et a acquis une ancienneté de 300 jours auprès du Pouvoir organisateur au sein duquel il est réaffecté provisoirement.
+
+Pour le calcul des 300 jours, sont seuls pris en considération les services effectifs rendus, en ce compris les vacances annuelles, les congés prévus aux articles 5, 5bis et 7 de l'arrêté royal du 15 janvier 1974, ainsi que les congés en vue de l'adoption et de la tutelle officieuse et les congés de maternité prévus respectivement, au chapitre IIbis et au chapitre XIII du même arrêté royal du 15 janvier 1974.
+
+Aussi longtemps que le puériculteur n'a pas acquis 300 jours d'ancienneté au service du Pouvoir organisateur la réaffectation est reconduite, sauf :
+
+\- [<sup>3</sup> demande contraire de commun accord moyennant approbation de la Commission centrale de gestion des emplois]<sup>3</sup>;
+
+\- En cas de faute grave;
+
+\- Décision de la Commission [<sup>1</sup> centrale de gestion des emplois]<sup>1</sup> saisie par le Pouvoir organisateur ou par le puériculteur, qui motivent respectivement leur demande;
+
+\- Perte du poste de puériculteur par le Pouvoir organisateur.
+
+Lorsqu'il est mis fin à la réaffectation provisoire dans les conditions de l'aliéna précédent, le puériculteur est réaffecté provisoirement le [<sup>2</sup> premier jour de l'année scolaire]<sup>2</sup> qui suit auprès d'un autre Pouvoir organisateur, conformément au § 1er.
+
+Toutefois, cette réaffectation est définitive lorsqu'elle intervient auprès d'un Pouvoir organisateur auprès duquel le puériculteur a précédemment acquis l'ancienneté de 300 jours visée à l'alinéa 1er.
+
+[<sup>3</sup> Les demandes de non-reconduction soumises à l'accord préalable de la Commission centrale de gestion des emplois doivent être introduites auprès d'elle chaque année, sous peine d'irrecevabilité, pour le 31 mai au plus tard.]<sup>3</sup>
+
+§ 3. Sans préjudice du § 2, alinéa 3, si pour ce concerne l'année scolaire qui suit la réaffectation provisoire du puériculteur auprès d'un Pouvoir organisateur :
+
+\- Soit le puériculteur n'a pas acquis les 300 jours visés à l'alinéa premier;
+
+\- Soit le puériculteur n'a pas fait la demande d'être réaffecté définitivement dans le Pouvoir organisateur au sein duquel il est réaffecté provisoirement;
+
+\- Soit le Pouvoir organisateur au sein duquel il est réaffecté provisoirement n'obtient plus de poste de puériculteur.
+
+Et que le Pouvoir organisateur au sein duquel le puériculteur était nommé à titre définitif avant sa réaffectation provisoire, obtient un poste de puériculteur dans le respect de la procédure visée à l'article 7, il peut demander à être réaffecté à titre définitif dans ce dernier au [<sup>2</sup> premier jour de l'année scolaire considérée]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 16, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 188, 015; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2024-04-04/37, art. 69, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 33bis.
+
+[<sup>1</sup> § 1er. Tout puériculteur mis en disponibilité au sens de l'article 32 doit accepter une réaffectation si l'emploi lui est offert :
+
+1° par le pouvoir organisateur qui a placé le membre du personnel en disponibilité ;
+
+2° par la Commission centrale de gestion des emplois compétente ".
+
+§ 2. Par dérogation au § 1er, le membre du personnel peut décliner une offre d'emploi dans une autre commune à plus de vingt-cinq kilomètres de son domicile et entrainant une durée de déplacement supérieure à quatre heures par jour, à l'aide des transports en commun.
+
+Dans ce cas, le membre du personnel ne pourra plus revendiquer cet emploi.
+
+§ 3. Pour l'application du présent paragraphe, les dix-neuf communes de la Région de Bruxelles-Capitale sont considérées comme formant une même commune.
+
+§ 4. Toute personne en disponibilité par défaut d'emploi doit notifier son acceptation ou son refus motivé au pouvoir organisateur et à la Commission de gestion des emplois compétente dans un délai de cinq jours calendrier à dater de la notification de sa réaffectation.
+
+En cas de refus jugé sans motif valable par la Commission, elle sera démise de ses fonctions conformément à l'article 58, 7°, du décret du 6 juin 1994 précité, après épuisement du recours éventuel prévu au § 2.
+
+La décision de la Commission précitée est notifiée à la personne intéressée.
+
+L'introduction d'un recours est suspensive de l'obligation pour le membre du personnel de prendre ses fonctions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/37, art. 70, 016; En vigueur : 01-01-2024&gt;
+
+##### Sous-section IV. - Du remplacement.
+
+###### Art. 34
+
+[<sup>1</sup> Le remplacement d'un puériculteur nommé à titre définitif absent ou de son remplaçant est soumis aux mêmes conditions que le remplacement des membres du personnel enseignant de l'enseignement fondamental ordinaire.]<sup>1</sup>
+
+Ce remplacement est régi par les dispositions de la loi du 3 juillet 1978 précitée.
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 50, 002; En vigueur : 01-02-2009&gt;
+
+##### Sous-section V. [<sup>1</sup> - Du puériculteur exerçant ses fonctions dans le cadre de l'encadrement différencié]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2011-02-10/07, art. 56, 004; En vigueur : 01-09-2010&gt;
+
+###### Art. 34bis
+
+[<sup>1</sup> L'engagement d'un puériculteur désigné par application du décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité se fait dans le respect des règles de priorité fixées à l'article 28, § 2 du décret du 12 mai 2004.
+
+Cet engagement est régi par les dispositions de la loi du 3 juillet 1978 relative aux contrats de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2011-02-10/07, art. 56, 004; En vigueur : 01-09-2010&gt;
+
+#### Section IV. - Dans l'Enseignement libre subventionné.
+
+##### Sous-section Ire. - De l'engagement à titre définitif et à titre provisoire.
+
+###### Art. 35
+
+Nul ne peut être engagé statutairement à titre définitif ou à titre provisoire, par un Pouvoir organisateur, s'il ne remplit pas les conditions suivantes :
+
+1° [<sup>1</sup> ...]<sup>1</sup>;
+
+2° Etre d'une conduite irréprochable;
+
+3° Jouir des droits civils et politiques;
+
+4° Avoir satisfait aux lois sur la milice;
+
+5° Satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+6° Etre porteur d'un titre visé à l'article 10 du présent décret;
+
+7° Etre le mieux classé conformément à l'article 37 du présent décret;
+
+8° Ne pas avoir fait l'objet d'un rapport défavorable visé par l'article 32 du décret du 12 mai 2004 précité portant sur une période d'au moins 6 mois, au cours des deux années précédant l'engagement statutaire à titre provisoire ou à titre définitif
+
+----------
+
+(1)&lt;DCFR 2013-06-20/18, art. 8, 006; En vigueur : 27-07-2013&gt;
+
+###### Art. 36
+
+Il est procédé aux engagements statutaires à titre provisoire ou à titre définitif des [<sup>1</sup> puériculteurs non statutaires]<sup>1</sup> après que les opérations de réaffectation, et, s'il échet, de changement d'affectation et de mutation aient été réalisées.
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 37
+
+§ 1er. Lorsqu'un ou plusieurs emploi(s) est/sont créé(s), [<sup>1</sup> ...]<sup>1</sup> , en vertu des dispositions prévues par le Titre II, l'engagement statutaire est proposé, par priorité au(x) membre(s) du personnel [<sup>1</sup> ...]<sup>1</sup> qui est/sont le mieux classé(s) dans le classement prévu à l'article 28, § 3, b du décret du 12 mai 2004, selon un modèle établi par le Gouvernement.
+
+§ 2. Lorsque le(s) membre(s) du personnel qui est/sont le mieux classé(s) dans le classement prévu à l'article 28, § 3, b du décret du 12 mai 2004 a (ont) acquis une ancienneté d'au moins 360 jours auprès du Pouvoir organisateur de la zone auprès duquel il exerçait ses fonctions l'année scolaire précédente, qui a obtenu un poste qui n'est pas déjà occupé par un puériculteur engagé à titre définitif ou à titre provisoire, le Président [<sup>1</sup> de la Commission centrale de gestion des emplois]<sup>1</sup> en informe ledit Pouvoir organisateur.
+
+La proposition d'engagement à titre définitif est notifiée par le Pouvoir organisateur au puériculteur, par lettre recommandée, avec accusé de réception, portant ses effets trois jours ouvrables après la date de son expédition.
+
+Le puériculteur dispose d'un délai de 10 jours ouvrables pour faire part au Pouvoir organisateur de son acceptation ou de son refus d'engagement à titre définitif.
+
+Lorsque le puériculteur accepte l'engagement à titre définitif [<sup>2</sup> en son sein]<sup>2</sup>, le Pouvoir organisateur en informe le Président.
+
+Lorsqu'un puériculteur notifie son refus d'être engagé à titre définitif ou ne réagit pas dans le délai imparti, le Pouvoir organisateur en informe le Président.
+
+En cas de refus d'engagement à titre définitif le Président informe le Pouvoir organisateur du puériculteur qui est le suivant dans le classement prévu à l'article 28, § 3, b) du décret du 12 mai 2004 de la priorité de ce dernier à l'engagement à titre définitif et qui répond aux conditions prévues à l'article 35. Dans ce cas, la procédure prévue au présent paragraphe s'applique.
+
+[<sup>2</sup> § 2bis. Par dérogation au paragraphe 2, lorsque le puériculteur a accumulé un plus grand nombre de jours d'ancienneté auprès d'un autre Pouvoir organisateur que celui visé au paragraphe 2, il peut demander que son engagement à titre définitif ait lieu auprès de cet autre Pouvoir organisateur, pour autant que :
+
+1° le puériculteur ait accumulé auprès de cet autre pouvoir organisateur plus de 360 jours d'ancienneté, dont 360 jours au moins ont été acquis au cours des six années scolaires précédant l'année scolaire durant laquelle l'engagement à titre définitif est proposé;
+
+2° le puériculteur ait cessé de prester auprès de cet autre pouvoir organisateur parce que ce dernier n'avait plus obtenu de poste de puériculteur;
+
+3° cet autre pouvoir organisateur ait, à nouveau, obtenu un poste de puériculteur qui n'est pas déjà occupé par un puériculteur engagé à titre définitif ou à titre provisoire, lors de l'année scolaire concernée par la proposition de nomination.
+
+Dans le cas où le puériculteur demande à faire application du présent paragraphe, le Pouvoir organisateur visé au paragraphe 2 en informe le Président dans un délai de 10 jours ouvrables à dater de la réception de la proposition d'engagement à titre définitif.
+
+Lorsque le Président marque son accord sur la vérification des conditions visées à l'alinéa 1er, il en informe le Pouvoir organisateur visé au paragraphe 2 et adresse une nouvelle proposition d'engagement à titre définitif au Pouvoir organisateur visé à l'alinéa 1er. La procédure prévue au paragraphe 2 s'applique.
+
+Lorsque le Président ne marque pas son accord sur la vérification des conditions visées à l'alinéa 1er, il en informe le Pouvoir organisateur visé au paragraphe 2. Le puériculteur dispose d'un nouveau délai de 10 jours ouvrables, à dater du jour où la décision du Président est notifiée au Pouvoir organisateur visé au paragraphe 2, pour faire part à ce dernier de son acceptation ou de son refus d'un engagement à titre définitif en son sein. La procédure prévue au paragraphe 2 s'applique.]<sup>2</sup>
+
+§ 3. Lorsque le puériculteur qui est le mieux classé dans le classement prévu à l'article 28, § 3, b) du décret du 12 mai 2004 et qui répond aux conditions prévues à l'article 35 ne peut se voir proposer un engagement à titre définitif auprès du Pouvoir organisateur au sein duquel il a acquis l'ancienneté requise conformément au § 2, le Président [<sup>1</sup> de la Commission centrale de gestion des emplois]<sup>1</sup> informe ledit puériculteur qu'il peut être engagé statutairement à titre provisoire auprès :
+
+\- De ce Pouvoir organisateur s'il a obtenu un poste qui n'est pas déjà occupé par un puériculteur engagé à titre définitif ou à titre provisoire;
+
+\- A défaut, auprès d'un autre Pouvoir organisateur [<sup>1</sup> d'une zone dans laquelle le puériculteur a demandé à faire valoir sa priorité, conformément à l'article 28, § 8, alinéa 2 du décret du 12 mai 2004 précité]<sup>1</sup> qui a obtenu un poste qui n'est pas déjà occupé par un puériculteur engagé à titre définitif ou à titre provisoire.
+
+Le Président communique les coordonnées de ce Pouvoir organisateur au puériculteur et en informe également le Pouvoir organisateur.
+
+Le puériculteur dispose d'un délai de 10 jours ouvrables pour faire part au Président de son acceptation ou de son refus d'engagement statutaire à titre provisoire. Si le puériculteur ne réagit pas dans le délai imparti, il est réputé refuser l'engagement statutaire à titre provisoire. Le Président informe le Pouvoir organisateur concerné de la décision du puériculteur.
+
+En cas de refus, le Président informe le puériculteur qui est le suivant dans le classement prévu à l'article 28, § 3, b) du décret du 12 mai 2004 et qui répond aux conditions prévues à l'article 35 qu'il peut bénéficier d'un engagement statutaire à titre provisoire auprès d'un Pouvoir organisateur, qui a obtenu un poste qui n'est pas déjà occupé par un puériculteur engagé à titre définitif ou provisoire. La procédure des alinéas 2 à 3 s'applique.
+
+§ 4. Pour ce qui concerne le présent article, le puériculteur est engagé [<sup>3</sup> le premier jour de l'année scolaire]<sup>3</sup> et affecté auprès de l'un des établissements scolaires de son Pouvoir organisateur qui a obtenu un poste, et ce avant toute désignation comme [<sup>4</sup> puériculteur non statutaire]<sup>4</sup>.
+
+§ 5. L'engagement statutaire visé au § 3 devient un engagement à titre définitif lorsque le puériculteur en a fait la demande et a acquis une ancienneté de 360 jours auprès du Pouvoir organisateur au sein duquel il est engagé provisoirement.
+
+Pour le calcul des 360 jours, sont seuls pris en considération les services effectifs rendus, en ce compris les vacances annuelles, les congés prévus aux articles 5, 5bis et 7 de l'arrêté royal du 15 janvier 1974, ainsi que les congés en vue de l'adoption et de la tutelle officieuse et les congés de maternité prévus respectivement, au chapitre IIbis et au chapitre XIII du même arrêté royal du 15 janvier 1974.
+
+Aussi longtemps que le puériculteur n'a pas acquis 360 jours d'ancienneté au service du Pouvoir organisateur son engagement statutaire reste provisoire dans ce dernier, sauf :
+
+\- Demande contraire de commun accord;
+
+\- En cas de faute grave;
+
+\- Décision de la Commission [<sup>1</sup> centrale de gestion des emplois]<sup>1</sup> saisie par le Pouvoir organisateur ou par le puériculteur, qui motivent respectivement leur demande;
+
+\- Perte du poste de puériculteur par le Pouvoir organisateur.
+
+Lorsqu'il est mis fin à l'engagement statutaire à titre provisoire dans les conditions de l'alinéa précédent, le puériculteur bénéficie d'un engagement statutaire à titre provisoire le [<sup>3</sup> premier jour de l'année scolaire]<sup>3</sup> qui suit auprès d'un autre Pouvoir organisateur, qui a obtenu un poste qui n'est pas déjà occupé par un puériculteur engagé à titre définitif.
+
+Le Président [<sup>1</sup> de la Commission centrale de gestion des emplois]<sup>1</sup> communique les coordonnées de ce Pouvoir organisateur au puériculteur et en informe également ledit Pouvoir organisateur.
+
+Le nouvel engagement statutaire à titre provisoire ne donne pas lieu à une interruption.
+
+§ 6. Sans préjudice du § 5, alinéa 3, si pour ce qui concerne l'année scolaire qui suit l'engagement statutaire à titre provisoire du puériculteur auprès d'un Pouvoir organisateur :
+
+\- Soit le puériculteur n'a pas acquis les 360 jours visés à l'alinéa premier du paragraphe 5;
+
+\- Soit le puériculteur n'a pas fait la demande d'être engagé à titre définitif dans le Pouvoir organisateur au sein duquel il est engagé statutairement à titre provisoire;
+
+\- Soit le Pouvoir organisateur au sein duquel il est engagé statutairement à titre provisoire n'obtient plus de poste de puériculteur dans le respect de la procédure visée à l'article 7,
+
+Et que le Pouvoir organisateur au sein duquel le puériculteur a acquis la plus grande ancienneté avant son engagement statutaire obtient un poste de puériculteur dans le respect de la procédure visée à l'article 7, il peut demander à être nommé à titre définitif dans ce dernier [<sup>3</sup> le premier jour de l'année scolaire]<sup>3</sup> considérée.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 17, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 96, 013; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2022-03-31/35, art. 189, 015; En vigueur : 29-08-2022&gt;
+
+(4)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 37/1
+
+[<sup>1</sup> Par dérogation à l'article 37, pour ce qui concerne les postes ouverts à nomination dans l'enseignement libre subventionné pour l'année scolaire 2011-2012, en vertu de l'article 5/1, sauf refus exprès, sont engagés à titre définitif par priorité les puériculteurs engagés en qualité de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> qui sont les mieux classés dans le classement prévu à l'article 28, § 3, b), du décret du 12 mai 2004 fixant les droits et obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française et qui répondent aux conditions prévues à l'article 35.
+
+En cas de refus de nomination d'un puériculteur, conformément à l'alinéa précédent, est engagé à titre définitif le [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> qui est immédiatement le suivant dans le classement prévu à l'article 28, § 3, du décret du 12 mai 2004 précité et qui répond aux conditions prévues à l'article 35.
+
+Les puériculteurs sont engagés à titre définitif par le Gouvernement au 1er septembre 2011 et sont affectés auprès de l'établissement où ils exerçaient, à cette date, leurs fonctions en qualité de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> dans le respect du décret du 12 mai 2004 précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2012-07-12/31, art. 79, 005; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 38
+
+§ 1er. Lorsqu'un emploi devient vacant en raison de la cessation définitive de fonction d'un puériculteur engagé à titre définitif, le Pouvoir organisateur le notifie immédiatement au Président de la Commission centrale de gestion des emplois dont relève son établissement.
+
+L'engagement à titre définitif est proposé, par priorité au puériculteur [<sup>1</sup> engagé en qualité de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup>]<sup>1</sup> qui est le mieux classé dans le classement prévu à l'article 28, § 3, b) du décret du 12 mai 2004 et qui répond aux conditions prévues à l'article 35, selon un modèle établi par la Gouvernement.
+
+Le Président en informe le Pouvoir organisateur du puériculteur visé à l'alinéa précédent.
+
+La proposition d'engagement à titre définitif est notifiée par le Pouvoir organisateur au puériculteur, par lettre recommandée, avec accusé de réception, portant ses effets trois jours ouvrables après la date de son expédition.
+
+Le puériculteur dispose d'un délai de 10 jours ouvrables pour faire part au Pouvoir organisateur de son acceptation ou de son refus d'un engagement à titre définitif.
+
+Lorsque le Puériculteur accepte l'engagement à titre définitif, le Pouvoir organisateur en informe le Président.
+
+Lorsqu'un puériculteur notifie son refus d'être engagé à titre définitif ou ne réagit pas dans le délai imparti, le Pouvoir organisateur en informe le Président.
+
+En cas de refus d'engagement à titre définitif, le Président informe le Pouvoir organisateur du puériculteur qui est immédiatement le suivant dans le classement prévu à l'article 28, § 3, b) du décret du 12 mai 2004 et qui répond aux conditions prévues à l'article 35 de la priorité de ce dernier à l'engagement à titre définitif. La procédure prévue aux alinéas 3 à 6 s'applique.
+
+§ 2. Le puériculteur est engagé à titre définitif le 1er jour du mois qui suit celui au cours duquel il a notifié son acceptation conformément aux dispositions du § 1er et affecté auprès du Pouvoir organisateur au sein de l'établissement auprès duquel il exerçait ses fonctions en qualité de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> dans le respect du décret du 12 mai 2004 à la veille de l'engagement à titre définitif.
+
+Si il s'agit d'un autre pouvoir organisateur que celui auprès duquel le puériculteur engagé à titre définitif a cessé d'exercer définitivement ses fonctions, ce dernier est remplacé par un [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> jusqu'au terme de l'année scolaire en cours.
+
+----------
+
+(1)&lt;DCFR 2021-07-19/12, art. 91, 014; En vigueur : 09-09-2021&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 39
+
+Le puériculteur en congé de maternité, qui fait l'objet d'un écartement en vertu de l'article 42, § 1er, 3° de la loi du 16 mars 1971 sur le travail, malade ou en incapacité de travail causée par un accident du travail, un accident survenu sur le chemin du travail ou une maladie professionnelle qui répond aux conditions visées à l'article 35 peut être engagé à titre définitif ou provisoire.
+
+###### Art. 40
+
+Les puériculteurs engagés à titre définitif prêtent serment suivant les règles fixées par le Gouvernement en exécution de l'article 28, 5°, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.
+
+##### Sous-section II. - Du changement d'affectation et de la mutation.
+
+###### Art. 41
+
+§ 1er. Le Pouvoir organisateur peut, à la demande du puériculteur engagé à titre définitif accorder un changement d'affectation auprès d'un de ses établissements ayant obtenu un poste qui n'est pas déjà occupé par un puériculteur engagé à titre définitif.
+
+Le passage d'un établissement à un autre doit se faire sans interruption.
+
+Le changement d'affectation produit ses effets [<sup>2</sup> le premier jour de l'année scolaire]<sup>2</sup> pour laquelle l'attribution des postes visée à l'article 7 trouve à s'appliquer.
+
+§ 2. Lorsqu'un puériculteur engagé à titre définitif souhaite obtenir une mutation auprès d'un autre Pouvoir organisateur de la zone ou d'une autre zone, il doit en faire la demande par pli recommandé, auprès de ce dernier, qui doit marquer son accord. Il en informe [<sup>1</sup> le Président de la Commission centrale de gestion des emplois]<sup>1</sup> .
+
+La mutation visée à l'alinéa 1er ne peut intervenir dans un Pouvoir organisateur d'une autre zone que si un emploi est créé au sein de la zone concernée en vertu des dispositions prévues par le Titre II du présent décret, et pour autant que le Pouvoir organisateur bénéficie d'un poste de puériculteur pour l'année scolaire suivante.
+
+Cette mutation produit ses effets le [<sup>2</sup> premier jour de l'année scolaire suivante]<sup>2</sup>. Le Pouvoir organisateur qui a accepté la mutation doit engager à titre définitif le puériculteur à cette date. Le puériculteur doit démissionner à cette date dans le Pouvoir organisateur qu'il quitte.
+
+Cette mutation ne donne pas lieu à interruption.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 18, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 190, 015; En vigueur : 29-08-2022&gt;
+
+##### Sous-section III. - De la Réaffectation.
+
+###### Art. 42
+
+[<sup>1</sup> Une fois les postes attribués conformément à la procédure visée à l'article 7, et, lorsque l'établissement scolaire auprès duquel le puériculteur est engagé à titre définitif n'obtient plus de poste, le Pouvoir organisateur met en disponibilité le puériculteur engagé à titre définitif ou provisoire qui a l'ancienneté de service la plus réduite parmi les membres du personnel exerçant la même fonction dans l'ensemble des établissements que le pouvoir organisateur organise sur le territoire de la même commune.
+
+Pour l'application du premier alinéa, c'est l'ancienneté de fonction qui est déterminante dans tous les cas où il y a égalité d'ancienneté de service.
+
+En cas d'égalité de l'ancienneté de service et de l'ancienneté de fonction entre plusieurs membres du personnel, c'est le membre du personnel le plus jeune qui est mis en disponibilité.
+
+Lorsqu'il a mis plusieurs membres du personnel en disponibilité dans la fonction de puériculteur, le pouvoir organisateur doit réaffecter celui qui a la plus grande ancienneté de service, et en cas d'égalité d'ancienneté de service, celui qui a la plus grande ancienneté de fonction. En cas d'égalité d'ancienneté de fonction, la priorité revient au membre du personnel le plus âgé.
+
+Cette réaffectation produit ses effets au premier jour de l'année scolaire pour laquelle l'attribution des postes visée à l'article 7 trouve à s'appliquer.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 71, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 43
+
+§ 1er. Lorsque le Pouvoir organisateur auprès duquel le puériculteur engagé à titre définitif n'obtient plus de poste, le puériculteur est réaffecté à titre provisoire par la Commission [<sup>1</sup> centrale de gestion des emplois]<sup>1</sup> auprès d'un Pouvoir organisateur [<sup>1</sup> ...]<sup>1</sup> qui a obtenu un poste qui n'est pas déjà occupe par un puériculteur engagé à titre définitif ou provisoire. Lorsque lors de la réunion de la Commission aucun consensus n'est dégagé ou si le quorum de présence requis n'est pas atteint, le Président de la Commission réaffecte le puériculteur.
+
+Le Président de la Commission communique les coordonnées du Pouvoir organisateur au puériculteur et en informe également ledit Pouvoir organisateur.
+
+Cette réaffectation ne donne pas lieu à une interruption.
+
+Elle produit ses effets au [<sup>2</sup> le premier jour de l'année scolaire]<sup>2</sup> de l'année pour laquelle l'attribution des postes visée à l'article 7 trouve à s'appliquer.
+
+§ 2. Cette réaffectation devient définitive lorsque le puériculteur en a fait la demande et a acquis une ancienneté de 360 jours auprès du Pouvoir organisateur au sein duquel il est réaffecté provisoirement.
+
+Pour le calcul des 360 jours, sont seuls pris en considération les services effectifs rendus, en ce compris les vacances annuelles, les congés prévus aux articles 5, 5bis et 7 de l'arrêté royal du 15 janvier 1974, ainsi que les congés en vue de l'adoption et de la tutelle officieuse et les congés de maternité prévus respectivement, au chapitre IIbis et au chapitre XIII du même arrêté royal du 15 janvier 1974.
+
+Aussi longtemps que le puériculteur n'a pas acquis 360 jours d'ancienneté au service du Pouvoir organisateur la réaffectation est reconduite, sauf :
+
+\- [<sup>3</sup> demande contraire de commun accord moyennant approbation de la Commission centrale de gestion des emplois]<sup>3</sup>;
+
+\- En cas de faute grave;
+
+\- Décision de la Commission [<sup>1</sup> centrale de gestion des emplois]<sup>1</sup> saisie par le Pouvoir organisateur ou par le puériculteur, qui motivent respectivement leur demande;
+
+\- Perte du poste de puériculteur par le Pouvoir organisateur.
+
+Lorsqu'il est mis fin à la réaffectation à titre provisoire dans les conditions de l'alinéa précédent le puériculteur est réaffecté à titre provisoire le [<sup>2</sup> premier jour de l'année scolaire]<sup>2</sup> qui suit auprès d'un autre Pouvoir organisateur, conformément au § 1er.
+
+Toutefois, cette réaffectation est définitive lorsqu'elle intervient auprès d'un pouvoir organisateur auprès duquel le puériculteur a précédemment acquis l'ancienneté de 360 jours visée à l'alinéa 1er.
+
+[<sup>3</sup> Les demandes de non-reconduction soumises à l'accord préalable de la Commission centrale de gestion des emplois doivent être introduites auprès d'elle chaque année, sous peine d'irrecevabilité, avant le 31 mai au plus tard.]<sup>3</sup>
+
+§ 3. Sans préjudice du § 2, alinéa 3, si pour ce concerne l'année scolaire qui suit la réaffectation provisoire du puériculteur auprès d'un pouvoir organisateur :
+
+\- Soit le puériculteur n'a pas acquis les 360 jours visés à l'alinéa premier;
+
+\- Soit le puériculteur n'a pas fait la demande d'être réaffecté définitivement dans le Pouvoir organisateur au sein duquel il est réaffecté provisoirement;
+
+\- Soit le Pouvoir organisateur au sein duquel il est réaffecté provisoirement n'obtient plus de poste,
+
+Et que le Pouvoir organisateur au sein duquel le puériculteur était engagé à titre définitif avant sa réaffectation provisoire, obtient un poste de puériculteur dans le respect de la procédure visée à l'article 7, il peut demander à être réaffecte à titre définitif dans ce dernier [<sup>2</sup> le premier jour de l'année scolaire]<sup>2</sup> considérée.
+
+----------
+
+(1)&lt;DCFR 2009-03-26/18, art. 20, 003; En vigueur : 01-04-2009&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 192, 015; En vigueur : 29-08-2022&gt;
+
+(3)&lt;DCFR 2024-04-04/37, art. 72, 016; En vigueur : 01-01-2024&gt;
+
+###### Art. 43bis.
+
+[<sup>1</sup> § 1er. Tout puériculteur mis en disponibilité au sens de l'article 42 doit d'accepter une réaffectation si l'emploi lui est offert :
+
+1° par le pouvoir organisateur qui a placé le membre du personnel en disponibilité ;
+
+2° par la Commission centrale de gestion des emplois compétente.
+
+§ 2. Par dérogation au § 1er, le membre du personnel peut décliner une offre d'emploi dans une autre commune à plus de vingt-cinq kilomètres de son domicile et entrainant une durée de déplacement supérieure à quatre heures par jour, à l'aide des transports en commun.
+
+Dans ce cas, le membre du personnel ne pourra plus revendiquer cet emploi.
+
+§ 3. Pour l'application du présent paragraphe, les dix-neuf communes de la Région de Bruxelles-Capitale sont considérées comme formant une même commune.
+
+§ 4. Toute personne en disponibilité par défaut d'emploi doit notifier son acceptation ou son refus motivé au pouvoir organisateur et à la Commission de gestion des emplois compétente dans un délai de cinq jours calendrier à dater de la notification de sa réaffectation.
+
+En cas de refus jugé sans motif valable par la Commission, elle sera démise de ses fonctions conformément à l'article 72, § 1er, 6° du décret du 1er février 1993, après épuisement du recours éventuel prévu au § 2.
+
+La décision de la Commission précitée est notifiée à la personne intéressée.
+
+L'introduction d'un recours est suspensive de l'obligation pour le membre du personnel de prendre ses fonctions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/37, art. 73, 016; En vigueur : 01-01-2024&gt;
+
+##### Sous-section IV. - Du remplacement.
+
+###### Art. 44
+
+[<sup>1</sup> Le remplacement d'un puériculteur nommé à titre définitif absent ou de son remplaçant est soumis aux mêmes conditions que le remplacement des membres du personnel enseignant de l'enseignement fondamental ordinaire.]<sup>1</sup>
+
+Ce remplacement est régi par les dispositions de la loi du 3 juillet 1978 précitée.
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 51, 002; En vigueur : 01-02-2009&gt;
+
+##### Sous-section V. [<sup>1</sup> - Du puériculteur exerçant ses fonctions dans le cadre de l'encadrement différencié]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2011-02-10/07, art. 57, 004; En vigueur : 01-09-2010&gt;
+
+###### Art. 44bis
+
+[<sup>1</sup> L'engagement d'un puériculteur désigné par application du décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité se fait dans le respect des règles de priorité fixées à l'article 28, § 3 du décret du 12 mai 2004.
+
+Cet engagement est régi par les dispositions de la loi du 3 juillet 1978 relative aux contrats de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2011-02-10/07, art. 57, 004; En vigueur : 01-09-2010&gt;
+
+### CHAPITRE IV. - De l'horaire des puériculteurs.
+
+###### Art. 45
+
+[<sup>1</sup> § 1er. Les prestations hebdomadaires du puériculteur correspondent à 36 périodes de 50 minutes par semaine soit 1800 minutes en priorité dédiées aux élèves de moins de trois ans et neuf mois ainsi que des élèves à besoins spécifiques dans le cadre de l'enseignement maternel.
+
+Ces périodes comprennent :
+
+1° 1.300 minutes minimum en complémentarité aux membres de l'équipe éducative de l'enseignement maternel durant les 28 périodes de cours ;
+
+2° en dehors des périodes de cours :
+
+a) 60 périodes par an de travail collaboratif, soit l'équivalent en moyenne de 80 minutes par semaine ;
+
+b) 120 minutes maximum d'aide aux repas ;
+
+c) 200 minutes minimum consacrées, de manière équilibrée, au travail en autonomie, à l'accueil, à la concertation avec les parents, à la surveillance et à l'accompagnement de l'élève ;
+
+3° 100 minutes à du soutien en psychomotricité ou, le cas échéant, aux missions visées aux points 1 et 2, c).
+
+§ 2. Les prestations hebdomadaires doivent être au bénéfice des élèves et en concertation avec l'équipe éducative de l'enseignement maternel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 74, 016; En vigueur : 26-08-2024&gt;
+
+### CHAPITRE V. [<sup>1</sup> - L'évaluation des puériculteurs nommés ou engagés à titre définitif.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/44, art. 73, 018; En vigueur : 31-08-2026&gt;
+
+###### Art. 46
+
+[<sup>1</sup> Sont applicables aux puériculteurs nommés à titre définitifs exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, les articles 121/2 à 121/24 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement, gardien, primaire, spécial, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/44, art. 74, 018; En vigueur : 31-08-2026&gt;
+
+###### Art. 46bis.
+
+[<sup>1</sup> Sont applicables aux puériculteurs engagés à titre définitif exerçant leurs fonctions dans l'enseignement libre subventionné par la Communauté française, les articles 47ter à 47ter/8 du décret du 1er février 1993 précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 75, 018; En vigueur : 31-08-2026&gt;
+
+###### Art. 46ter.
+
+[<sup>1</sup> Sont applicables aux puériculteurs nommés à titre définitif exerçant leurs fonctions dans l'enseignement officiel subventionné par la Communauté française, les articles 36duodecies/1 à 36duodecies/9 du décret du 6 juin 1994 précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/44, art. 76, 018; En vigueur : 31-08-2026&gt;
+
+### CHAPITRE VI. - Des membres du personnel victimes d'actes de violence [<sup>1</sup> ou de harcèlement]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 65, 007; En vigueur : 29-06-2014&gt;
+
+#### Section Ire. - Disposition générale.
+
+###### Art. 47
+
+[<sup>1</sup> § 1er. Pour l'application du présent chapitre, il faut entendre par :
+
+1° " acte de violence " : toute atteinte physique et/ou psychologique commise avec une intention malveillante, toute agression à caractère racial, religieux ou sexiste contre un puériculteur ainsi que toute détérioration aux biens de celui-ci commise soit par un élève, soit par un tiers sur instigation ou avec la complicité de celui-ci, soit par un membre de la famille de l'élève ou toute personne habitant sous le même toit, dans le cadre du service du puériculteur ou en relation directe avec celui-ci, soit par toute autre personne n'appartenant pas au personnel de l'établissement pour autant qu'il soit démontré par la victime que l'acte de violence est en relation directe avec le service;
+
+2° " harcèlement " : le harcèlement moral ou sexuel au sens de l'article 32ter, alinéa 1er, 2° et 3° de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;
+
+3° " puériculteur victime d'un acte de violence ", le puériculteur engagé à titre définitif ou à titre provisoire reconnu victime d'un accident de travail résultant de l'acte défini au 1° par le service du Gouvernement visé à l'article 6 de l'arrêté royal du 24 janvier 1969 relatif à la réparation, en faveur des membres du personnel du secteur public, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail;
+
+4° " puériculteur victime de harcèlement ", le puériculteur engagé à titre définitif ou à titre provisoire reconnu victime de harcèlement tel que défini au 2°.
+
+§ 2. Dans les cas visés au § 1er, 1°, la priorité n'est accordée au membre du personnel que pour autant qu'il ait déposé plainte auprès des autorités judiciaires.
+
+Dans les cas visés au § 1er, 2°, la priorité n'est accordée au membre du personnel que pour autant que le harcèlement ait été reconnu par une décision de justice ou par un rapport du service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail.
+
+§ 3. Lorsque l'acte de violence a été commis à l'extérieur de l'établissement, la demande de priorité ne sera prise en considération que pour autant que l'auteur de l'acte de violence ait pu être identifié. Toutefois, si l'auteur de l'acte de violence ou du harcèlement ne peut être identifié, la demande sera prise en considération pour autant que la victime prouve que l'acte de violence ou le harcèlement est en relation directe avec son service.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 65, 007; En vigueur : 29-06-2014&gt;
+
+#### Section II. - Communauté française.
+
+###### Art. 48
+
+§ 1er. Dans le cas où il n'a pas été mis en incapacité temporaire par le service de santé administratif et sauf cas de force majeure dûment justifié, le puériculteur introduit sa demande à bénéficier du dispositif défini à l'article 49 par recommandé avec accusé de réception dans un délai d'un mois à partir de la [<sup>2</sup> survenance des faits pour la situation de violence ou de la reconnaissance du harcèlement pour la situation de harcèlement]<sup>2</sup> auprès de la Direction générale de l'enseignement obligatoire, qui vérifie que les conditions du présent chapitre sont remplies.
+
+Dans le même délai, il envoie également par recommandé avec accusé de réception une copie de cette demande à son [<sup>3</sup> Pouvoir organisateur]<sup>3</sup>.
+
+Dans le cas où le puériculteur a été mis en incapacité temporaire par le service de santé administratif, il introduit la demande visée à l'alinéa 1er dans un délai d'un mois à partir de la reprise de l'exercice de ses fonctions [<sup>1</sup> sauf dans les cas où le MEDEX remet un avis défavorable quant à la reprise de fonction dans l'établissement concerné]<sup>1</sup>.
+
+[<sup>1</sup> En cas d'acte de violence]<sup>1</sup> une copie de la [<sup>2</sup> plainte visée à l'article 47, § 2]<sup>2</sup> y est annexée, ainsi qu'une copie de la reconnaissance de l'accident de travail par le service du Gouvernement visé à l'article 6 de l'arrêté royal du 24 janvier 1969 relatif à la réparation, en faveur des membres du personnel du secteur public, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail.
+
+[<sup>1</sup> En cas de harcèlement, une copie de la décision de justice ou du rapport du service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail attestant du harcèlement moral ou sexuel.]<sup>1</sup>
+
+§ 2. Dans les huit jours ouvrables qui suivent la réception de la demande visée au § 1, la Direction générale de l'Enseignement obligatoire rend un avis au Gouvernement. Une copie de cet avis est communiquée au [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> ainsi qu'au membre du personnel concerné.
+
+La décision d'octroi du dispositif visée au présent chapitre est prise par le Gouvernement dans les huit jours ouvrables. Elle est notifiée immédiatement au [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> et au puériculteur concerné.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 66, 007; En vigueur : 29-06-2014&gt;
+
+(2)&lt;DCFR 2014-04-11/25, art. 67, 007; En vigueur : 29-06-2014&gt;
+
+(3)&lt;DCFR 2026-06-11/18, art. 292, 017; En vigueur : 24-08-2026&gt;
+
+###### Art. 49
+
+Le puériculteur peut solliciter un changement d'affectation de circonstance dans un autre établissement de la même zone ou d'une autre zone pour autant qu'il respecte les conditions visées à l'article 48.
+
+Cet établissement doit nécessairement bénéficier pour l'année scolaire en cours d'un poste de puériculteur octroyé dans le respect de l'article 7.
+
+La demande visée à l'article 48 indique dans quelle(s) zone(s) d'affectation le puériculteur demande à bénéficier du changement d'affectation de circonstance ainsi que le(s) établissement(s) dans lesquels il souhaite être affecté.
+
+La demande peut être introduite à tout moment de l'année; concomitamment, une copie de cette demande est transmise au Président de la Commission zonale d'affectation concernée et, le cas échéant, au Président de la Commission interzonale d'affectation.
+
+La Commission zonale d'affectation concernée et, le cas échéant, la Commission interzonale d'affectation, propose au [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> les changements d'affectation de circonstance qu'elle juge les plus adéquats.
+
+Le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> accorde au puériculteur [<sup>1</sup> victime d'acte de violence ou de harcèlement]<sup>1</sup> un changement d'affectation de circonstance dans un emploi occupé par un [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> de la zone sollicitée.
+
+Dans ce cas, le [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> occupé dans ledit poste est tenu de permuter s'il est désigné au sein de la même zone.
+
+L'alinéa précédent ne vaut que pour les changements d'affectation de circonstance qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+Le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> transmet au président de la Commission zonale d'affectation concernée copie de l'acte de changement d'affectation de circonstance.
+
+Dans l'hypothèse où le puériculteur nommé à titre définitif obtient un changement d'affectation de circonstance dans un établissement relevant d'une autre zone que celle de l'établissement ou il a été victime de l'acte de violence, le [<sup>3</sup> Pouvoir organisateur]<sup>3</sup> transmet également copie de l'acte de changement d'affectation de circonstance au président de la Commission interzonale d'affectation
+
+Par dérogation à l'article 22, le puériculteur nommé à titre définitif victime d'un acte de violence peut, après le 31 janvier de l'année scolaire au cours de laquelle il a été victime, introduire une demande de changement d'affectation pour l'année scolaire suivante ou modifier le choix d'établissements déjà exprimé à condition qu'il ait été reconnu incapable de poursuivre sa fonction dans l'établissement dans lequel il a été victime d'un acte de violence par le service externe de prévention et de protection au travail vise à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail. Néanmoins, cette demande n'est prise en considération que si elle parvient avant le 15 mai au président de la Commission d'affectation zonale ou interzonale concernée.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 68, 007; En vigueur : 29-06-2014&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFR 2026-06-11/18, art. 291, 017; En vigueur : 24-08-2026&gt;
+
+#### Section III. - Officiel subventionné.
+
+###### Art. 50
+
+§ 1er. Le puériculteur qui n'a pas été mis en incapacité temporaire par le service de santé administratif et sauf cas de force majeure dûment justifié, introduit sa demande de priorité [<sup>3</sup> ...]<sup>3</sup> dans un délai d'un mois à partir de la [<sup>1</sup> survenance des faits pour la situation de violence ou de la reconnaissance du harcèlement pour la situation de harcèlement]<sup>1</sup> auprès de la Direction générale de l'Enseignement obligatoire. Dans le même délai, il envoie également [<sup>3</sup> ...]<sup>3</sup> copie de cette demande à son pouvoir organisateur. La Direction générale de l'Enseignement obligatoire vérifie que les conditions d'application du présent chapitre sont remplies, en s'entourant de tout complément d'information qu'elle juge utile.
+
+Dans le cas où le puériculteur a été mis en incapacité temporaire par le service de santé administratif, il introduit la demande visée à l'alinéa précédent dans un délai d'un mois à partir de la reprise de l'exercice de ses fonctions à la Direction générale de l'Enseignement obligatoire [<sup>2</sup> sauf dans les cas où le MEDEX remet un avis défavorable quant à la reprise de fonction dans l'établissement concerné]<sup>2</sup>. Dans le même délai, il envoie également par recommandé avec accusé de réception copie de cette demande à son Pouvoir organisateur. La Direction générale de l'Enseignement obligatoire, selon le cas, vérifie que les conditions d'application du présent décret sont remplies en s'entourant de tout complément d'information qu'elle juge utile.
+
+[<sup>2</sup> En cas d'acte de violence]<sup>2</sup> une copie de la [<sup>1</sup> plainte visée à l'article 47, § 2]<sup>1</sup> est annexée à la demande, de même qu'une copie de la reconnaissance de l'accident de travail par le service du Gouvernement visé à l'article 6 de l'arrêté royal du 24 janvier 1969 relatif à la réparation, en faveur des membres du personnel du secteur public, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail.
+
+[<sup>2</sup> En cas de harcèlement, une copie de la décision de justice ou du rapport du service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail attestant du harcèlement moral ou sexuel.]<sup>2</sup>
+
+§ 2. Dans les huit jours ouvrables qui suivent la réception de la demande visée au § 1er, la Direction générale de l'Enseignement obligatoire rend un avis au Gouvernement. Une copie de cet avis est communiquée au Pouvoir organisateur ainsi qu'au puériculteur concerné.
+
+La décision d'octroi du dispositif visé par le présent chapitre est prise par le Gouvernement ou son délégué dans les huit jours ouvrables. Elle est notifiée immédiatement au Pouvoir organisateur et au puériculteur concerné.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 67, 007; En vigueur : 29-06-2014&gt;
+
+(2)&lt;DCFR 2014-04-11/25, art. 69, 007; En vigueur : 29-06-2014&gt;
+
+(3)&lt;ACF 2017-10-25/11, art. 19, 010; En vigueur : 22-04-2018&gt;
+
+###### Art. 51
+
+§ 1er. Le puériculteur nomme à titre définitif peut solliciter dans les conditions visées au présent chapitre un changement d'affectation dans un autre établissement relevant du même pouvoir organisateur.
+
+La demande visée à l'article 50, § 1er indique dans quel(s) établissement(s) le puériculteur demande à bénéficier du changement d'affectation de circonstance.
+
+L'établissement sollicité doit nécessairement bénéficier d'un poste de puériculteur octroyé dans le respect de l'article 7 du présent décret.
+
+La demande précitée peut être introduite à tout moment de l'année; concomitamment, une copie de cette demande est transmise [<sup>3</sup> ...]<sup>3</sup> au Président de la Commissions centrale d'affectation.
+
+Le Pouvoir organisateur accorde au puériculteur [<sup>1</sup> victime d'acte de violence ou de harcèlement]<sup>1</sup> un changement d'affectation de circonstance dans un emploi occupé par un [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> dans un de ses établissements.
+
+Dans ce cas, le [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> occupé dans ledit poste est tenu de permuter.
+
+L'alinéa précédent ne vaut que pour les changements d'affectation de circonstance qui interviennent avant le 15 mai de l'année scolaire en cours
+
+§ 2. A défaut d'avoir pu offrir au puériculteur définitif un changement d'affectation de circonstance conformément au § 1, [<sup>3</sup> ...]<sup>3</sup> la Commission centrale de gestion des emplois accorde au puériculteur qui le sollicite ce changement d'affectation de circonstance dans un poste de [<sup>2</sup> puériculteur non statutaire]<sup>2</sup> relevant d'un autre Pouvoir organisateur.
+
+L'alinéa précédent ne vaut que pour les changements d'affectation de circonstance qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+§ 3. L'année scolaire qui suit celle où le puériculteur a été victime d'un acte de violence, le Pouvoir organisateur lui accorde un changement d'affectation par priorité à tout autre changement d'affectation, à toute désignation et à toute nomination définitive d'un autre membre du personnel, dans tout emploi vacant de la même fonction à condition qu'il ait été reconnu incapable de poursuivre sa (ses) fonction( s) dans l'établissement dans lequel il a été victime d'un acte de violence par le service externe de prévention et de protection au travail visé à l'arrête royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 68, 007; En vigueur : 29-06-2014&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFR 2024-04-04/37, art. 75, 016; En vigueur : 01-01-2026&gt;
+
+#### Section IV. - Libre subventionné.
+
+###### Art. 52
+
+§ 1er. Le puériculteur qui n'a pas été mis en incapacité temporaire par le service de santé administratif et sauf cas de force majeure dûment justifié, introduit sa demande de priorité [<sup>4</sup> ...]<sup>4</sup> dans un délai d'un mois à partir de la [<sup>1</sup> survenance des faits pour la situation de violence ou de la reconnaissance du harcèlement pour la situation de harcèlement]<sup>1</sup> auprès de la Direction générale de l'Enseignement obligatoire. Dans le même délai, il envoie également [<sup>4</sup> ...]<sup>4</sup> copie de cette demande à son Pouvoir organisateur. La Direction générale de l'Enseignement obligatoire vérifie que les conditions d'application du présent décret sont remplies, en s'entourant de tout complément d'information qu'elle juge utile.
+
+Dans le cas où le puériculteur a été mis en incapacité temporaire par le service de santé administratif, il introduit la demande visée à l'alinéa précédent dans un délai d'un mois à partir de la reprise de l'exercice de ses fonctions à la Direction générale de l'Enseignement obligatoire [<sup>3</sup> sauf dans les cas où le MEDEX remet un avis défavorable quant à la reprise de fonction dans l'établissement concerné]<sup>3</sup>. Dans le même délai, il envoie également par recommandé avec accusé de réception copie de cette demande à son Pouvoir organisateur. La Direction générale de l'Enseignement obligatoire vérifie que les conditions d'application du présent chapitre sont remplies en s'entourant de tout complément d'information qu'elle juge utile.
+
+[<sup>3</sup> En cas d'acte de violence]<sup>3</sup> une copie de la [<sup>1</sup> plainte visée à l'article 47, § 2]<sup>1</sup> est annexée à la demande, de même qu'une copie de la reconnaissance de l'accident de travail par le service du Gouvernement visé à l'article 6 de l'arrêté royal du 24 janvier 1969 relatif à la réparation, en faveur des membres du personnel du secteur public, des dommages résultant des accidents du travail et des accidents survenus sur le chemin du travail.
+
+[<sup>3</sup> En cas de harcèlement, une copie de la décision de justice ou du rapport du service externe de prévention et de protection au travail visé à l'arrêté royal du 27 mars 1998 relatif aux services externes pour la prévention et la protection au travail attestant du harcèlement moral ou sexuel.]<sup>3</sup>
+
+Le Pouvoir organisateur transmet copie de la demande au président concerné [<sup>6</sup> ...]<sup>6</sup> de la Commission centrale de gestion des emplois.
+
+§ 2. Dans les huit jours ouvrables qui suivent la réception de la demande visée au § 1er, la Direction générale de l'Enseignement obligatoire rend un avis au Gouvernement. Une copie de cet avis est communiquée au Pouvoir organisateur ainsi qu'au puériculteur concerné.
+
+La décision d'octroi de la priorité visée au présent article est prise par le Gouvernement ou son délégué dans les huit jours ouvrables. Elle est notifiée immédiatement au Pouvoir organisateur et au puériculteur concerné.
+
+§ 3. Le puériculteur engage à titre définitif peut solliciter, dans les conditions visées au présent chapitre, un changement d'affectation dans un autre établissement relevant du même Pouvoir organisateur.
+
+La demande visée à l'article 50, § 1er indique dans quel(s) établissement(s) le puériculteur demande à bénéficier du changement d'affectation de circonstance.
+
+L'établissement sollicité doit nécessairement bénéficier d'un poste de puériculteur octroyé dans le respect de l'article 7 du présent décret.
+
+La demande précitée peut être introduite à tout moment de l'année; concomitamment, une copie de cette demande est transmise [<sup>6</sup> ...]<sup>6</sup> au Président de la Commission centrale de gestion des emplois.
+
+Le Pouvoir organisateur accorde au puériculteur [<sup>2</sup> victime d'acte de violence ou de harcèlement]<sup>2</sup> un changement d'affectation de circonstance dans un emploi occupé par un [<sup>5</sup> puériculteur non statutaire]<sup>5</sup> dans un de ses établissements.
+
+Dans ce cas, le [<sup>5</sup> puériculteur non statutaire]<sup>5</sup> occupé dans ledit poste est tenu de permuter.
+
+Les alinéas précédents ne valent que pour les changements d'affectation de circonstance qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+§ 4. A défaut d'avoir pu offrir au puériculteur définitif un changement d'affectation de circonstance conformément au § 3, [<sup>6</sup> ...]<sup>6</sup> la Commissions centrale de gestion des emplois accorde au puériculteur qui le sollicite ce changement d'affectation de circonstance dans un poste de [<sup>5</sup> puériculteur non statutaire]<sup>5</sup> relevant d'un autre Pouvoir organisateur.
+
+L'alinéa précédent ne vaut que pour les changements d'affectation de circonstance qui interviennent avant le 15 mai de l'année scolaire en cours.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 67, 007; En vigueur : 29-06-2014&gt;
+
+(2)&lt;DCFR 2014-04-11/25, art. 68, 007; En vigueur : 29-06-2014&gt;
+
+(3)&lt;DCFR 2014-04-11/25, art. 70, 007; En vigueur : 29-06-2014&gt;
+
+(4)&lt;ACF 2017-10-25/11, art. 19, 010; En vigueur : 22-04-2018&gt;
+
+(5)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+(6)&lt;DCFR 2024-04-04/37, art. 76, 016; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE VII. - Des positions administratives.
+
+#### Section Ire. - Disposition générale.
+
+###### Art. 53
+
+Est applicable aux puériculteurs nommes à titre définitif exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, l'article 158 de l'arrêté royal du 22 mars 1969 précité.
+
+Est applicable aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionné, l'article 53 du décret du 6 juin 1994 précité.
+
+Est applicable aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, l'article 65 du décret du 1er février 1993 précité.
+
+#### Section II. - De l'activité de service.
+
+###### Art. 54
+
+Sont applicables aux puériculteurs nommés à titre définitif exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, les articles 159 et 160 de l'arrêté royal du 22 mars 1969 précité.
+
+###### Art. 55
+
+Sont applicables aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionné, les articles 54 à 55 du décret du 6 juin 1994 précise.
+
+###### Art. 56
+
+Sont applicables aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, les articles 66 à 67 du décret du 1er février 1993 précité.
+
+#### Section III. - De la non-activité.
+
+###### Art. 57
+
+Sont applicables aux puériculteurs nommés à titre définitif exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, les articles 161 à 163 de l'arrêté royal du 22 mars 1969 précité.
+
+###### Art. 58
+
+Est applicable aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionné, l'article 56 du décret du 6 juin 1994 précité.
+
+###### Art. 59
+
+Est applicable aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, l'article 68 du décret du 1er février 1993 précité.
+
+#### Section IV. - De la disponibilité.
+
+###### Art. 60
+
+Sont applicables aux puériculteurs nommés à titre définitif exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, les articles 164 à 166 de l'arrêté royal du 22 mars 1969 précise, à l'exception du littera a) de l'article 164.
+
+###### Art. 61
+
+Est applicable aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionné, l'article 57 du décret du 6 juin 1994 précité.
+
+###### Art. 62
+
+Est applicable aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, l'article 69 du décret du 1er février 1993 précité.
+
+#### Section V. - De la mise en disponibilité par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement.
+
+###### Art. 63
+
+Est applicable aux puériculteurs nommés à titre définitif exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, l'article 167quater de l'arrêté royal du 22 mars 1969 précité.
+
+###### Art. 64
+
+Sont applicables aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionné, les articles 81 à 83 du décret du 6 juin 1994 précité.
+
+###### Art. 65
+
+Est applicable aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, l'article 70 du décret du 1er février 1993 précité.
+
+### CHAPITRE VIII. - Du régime disciplinaire.
+
+###### Art. 66
+
+Sont applicables aux puériculteurs nommés à titre définitif exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, les articles 122 à 134 de l'arrêté royal du 22 mars 1969 précité.
+
+###### Art. 67
+
+Sont applicables aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionné, les articles 64 à 74 du décret du 6 juin 1994 précité.
+
+###### Art. 68
+
+Sont applicables aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, les articles 73 à 79 du décret du 1er février 1993 précité.
+
+### CHAPITRE IX. - Des Chambres de recours.
+
+###### Art. 69
+
+Sont applicables aux puériculteurs nommés à titre définitif exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, les [<sup>1</sup> articles 135 à 157]<sup>1</sup> de l'Arrêté royal du 22 mars 1969 précité.
+
+----------
+
+(1)&lt;DCFR 2026-06-11/18, art. 99, 017; En vigueur : 24-08-2026&gt;
+
+###### Art. 70
+
+Sont applicables aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionné, les articles 75 à 80 du décret du 6 juin 1994 précité.
+
+###### Art. 71
+
+Sont applicables aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, les articles 80 à 86 du décret du 1er février 1993 précité.
+
+### CHAPITRE X. - De la suspension préventive : mesure administrative.
+
+###### Art. 72
+
+Sont applicables aux puériculteurs nommés à titre définitif exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, les articles 157bis à 157quinquies de l'arrêté royal du 22 mars 1969 précité.
+
+###### Art. 73
+
+Sont applicables aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionne, les articles 60 à 63 du décret du 6 juin 1994 précité.
+
+###### Art. 74
+
+Sont applicables aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, les articles 87 à 90 du décret 1er février 1993 précité.
+
+### CHAPITRE XI. - Des Commissions paritaires.
+
+###### Art. 75
+
+Est applicable aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionne, le Chapitre XII du Décret du 6 juin 1994 précité.
+
+###### Art. 76
+
+Est applicable aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, le titre II du décret du 1er février 1993 précité.
+
+### CHAPITRE XII. - Inopposabilité des clauses contraires aux statuts.
+
+###### Art. 77
+
+Est applicable aux puériculteurs nommés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement officiel subventionné, le Chapitre XIII du Décret du 6 juin 1994 précité.
+
+Est applicable aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, l'article 4 du décret du 1er février 1993 précité.
+
+### CHAPITRE XIII. - Disponibilités pour convenances personnelles précédant la pension de retraite.
+
+###### Art. 78
+
+Les dispositions de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux sont rendues applicables aux puériculteurs nommés ou engagés à titre définitif ou provisoire.
+
+### CHAPITRE XIV. - De l'ancienneté de service.
+
+###### Art. 79
+
+Pour l'application du présent décret, les services prestés en qualité de [<sup>1</sup> puériculteur non statutaire]<sup>1</sup> et les services prestés comme puériculteurs en vertu du présent décret sont pris en considération dans le calcul de l'ancienneté de fonction et de l'ancienneté de service.
+
+Pour le calcul des jours d'ancienneté de service, sont applicables :
+
+\- Les dispositions statutaires de chacun des réseaux relatives aux modalités de calcul de l'ancienneté de service des membres du personnel temporaire pour les jours prestés en tant que [<sup>1</sup> puériculteur non statutaire]<sup>1</sup>;
+
+\- Et les dispositions statutaires de chacun des réseaux relatives aux modalités de calcul de l'ancienneté de service des membres du personnel définitif pour les jours prestés en tant que puériculteur nommé ou engagé à titre définitif ou à titre provisoire.
+
+----------
+
+(1)&lt;DCFR 2024-04-04/37, art. 61, 016; En vigueur : 01-01-2024&gt;
+
+### CHAPITRE XV. - De la cessation définitive des fonctions et de la fin de contrat.
+
+###### Art. 80
+
+Sont applicables aux puériculteurs nommés à titre définitif et aux puériculteurs contractuels exerçant leurs fonctions dans l'enseignement organisé par la Communauté française, les articles 168 à 169 de l'arrêté royal du 22 mars 1969 précité.
+
+###### Art. 81
+
+Sont applicables aux puériculteurs nommés à titre définitif ou provisoire et aux puériculteurs contractuels exerçant leurs fonctions dans l'enseignement officiel subventionné, les articles 58 à 59 du décret du 6 juin 1994 précité.
+
+###### Art. 82
+
+Sont applicables aux puériculteurs engagés à titre définitif ou provisoire exerçant leurs fonctions dans l'enseignement libre subventionné, les articles 71, 71bis et à 72 à 72ter du décret du 1er février 1993 précité.
+
+Sont applicables aux puériculteurs contractuels exerçant leurs fonctions dans l'enseignement libre subventionné visés à l'article 44, les articles 71, 71bis et 71ter à 71octies du décret du 1er février 1993 précité
+
+### CHAPITRE XVI. - De la Communication des listes.
+
+###### Art. 83
+
+A défaut de la communication, [<sup>1</sup> pour le 10 juin]<sup>1</sup> au plus tard, par le Pouvoir organisateur de la liste des puériculteurs visée à l'article 28, § 2, alinéa 1er, et de la liste visée à l'article 28, § 3, a) du décret du 12 mai 2004, le Pouvoir organisateur perd le bénéfice de tout poste de puériculteur obtenu en vertu de l'article 27 du décret précité ou de tout autre poste [<sup>2</sup> ...]<sup>2</sup> obtenu dans le cadre de la procédure visée [<sup>2</sup> au chapitre 2 du Titre Ier du décret du XX relatif aux aides complémentaires dans le secteur de l'enseignement bénéficiant des subventions régionales, abrogeant diverses dispositions en matière d'enseignements fondamental et secondaire et modifiant diverses dispositions relatives aux puériculteurs ]<sup>2</sup>, pour l'année scolaire considérée. A défaut d'avoir obtenu un tel poste pour l'année scolaire considérée, il en perd le bénéfice pour l'année scolaire suivante.
+
+----------
+
+(1)&lt;DCFR 2021-07-19/12, art. 92, 014; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2024-04-04/37, art. 77, 016; En vigueur : 01-01-2024&gt;
+
+## TITRE IV. - Dispositions transitoires.
+
+###### Art. 84
+
+Par dérogation à l'article 5, pour l'année scolaire 2006-2007, le nombre de postes de puériculteurs de l'enseignement préscolaire ordinaire, est fixé par le Gouvernement au plus tard pour le 31 août 2006.
+
+Par dérogation à l'article 83 du présent décret et à l'article 28, § 7, alinéa 2 du décret du 12 mai 2004, la communication de la liste des puériculteurs visée à l'article 28, § 2, alinéa 1er, et de la liste visée à l'article 28, § 3, a) de ce dernier décret doit intervenir, sous peine des sanctions prévues dans ces derniers, pour le 15 juin 2006 en vue des opérations relatives à l'année scolaire 2006- 2007.
+
+###### Art. 85
+
+Pour l'année scolaire 2006-2007, le nombre de postes de psychomotriciens ACS/APE est fixé par le Gouvernement au plus tard pour le 31 août 2006.
+
+###### Art. 86
+
+Les puériculteurs détenteurs d'un brevet d'aspirant( e) en nursing visé par l'arrêté royal du 24 février 1987 portant réglementation spéciale relative aux études d'aspirant(e) en nursing ou du certificat d'études de sixième année secondaire de l'enseignement secondaire professionnel et du certificat de qualification de sixième année de l'enseignement secondaire, subdivision spécialité monitrice pour collectivité d'enfants visés par l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire, qui, à la veille de l'entrée en vigueur du présent décret, ont été désignés comme puériculteurs ACS/ APE durant au moins 600 jours sont réputes remplir la condition visée à l'article 10 du présent décret
+
+Les 600 jours se calculent conformément aux dispositions statutaires applicables dans chacun des réseaux relatives aux modalités de calcul de l'ancienneté de service des membres du personnel temporaire.
+
+###### Art. 87
+
+Pour l'année scolaire 2006-2007, par dérogation à l'article 28, § 8, alinéa 1er du décret du 12 mai 2004, les puériculteurs sont réputés avoir posé leur candidature en vue de faire valoir leur priorité en vertu des classements visés dans cette disposition.
+
+## TITRE V. - Dispositions modificatives.
+
+### CHAPITRE Ier. - Modifications de l'Arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement, gardien, primaire, spécialisé, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendants de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.
+
+###### Art. 88
+
+L'alinéa 2 du § 1er de l'article 14ter de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement, gardien, primaire, spécialisé, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendants de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements est complété comme suit :
+
+" 7° pour les missions visées par la sous section 1re de la section II du chapitre V du décret du 4 mai 2005 portant exécution du Protocole d'accord du 7 avril 2004 entre le Gouvernement de la Communauté française et les organisations syndicales représentatives au sein du Comité de négociation de secteur IX et du Comité des services publics provinciaux et locaux - section II, pour ce qui concerne l'enseignement spécialisé
+
+8° pour les missions visées par le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française ".
+
+###### Art. 89
+
+Dans l'article 14quater du même arrêté, inséré par l'arrêté du Gouvernement du 10 juin 1993; modifié par l'arrêté du Gouvernement du 4 juillet 1994; par l'arrêté du Gouvernement du 9 janvier 1996; par l'arrêté du Gouvernement du 12 janvier 1998; par l'arrêté du Gouvernement du 29 avril 1999; par le décret du 29 mars 2001; par le décret du 20 décembre 2001; complété par le décret du 3 juillet 2003; par le décret du 17 décembre 2003; par les décrets du 12 mai 2004; et par le décret du 4 mai 2005, le § 1erquater est remplacé comme suit :
+
+" § 1erquater - La Commission zonale est compétente pour les missions visées par le décret du 12 mai 2004 fixant les droits et obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française, ainsi que pour les missions visées par le décret du 4 mai 2005 portant exécution du Protocole d'accord du 7 avril 2004 entre le Gouvernement de la Communauté française et les organisations syndicales représentatives au sein du Comité de négociation de Secteur IX et du Comité des Services Publics provinciaux et locaux - Section II et par le décret 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française. "
+
+### CHAPITRE II. - Modifications de l'arrêté de l'Exécutif de la Communauté française du 22 juin 1989 relatif au congé pour prestations réduites justifiées par des raisons de convenances personnelles accordées au membre du personnel de l'enseignement de la Communauté française, âgé de 50 ans ou qui a au moins 2 enfants à charge qui n'ont pas dépassé l'âge de 14 ans et relatif à la mise en disponibilité pour convenances personnelles précédant la pension de retraite.
+
+###### Art. 90
+
+L'article 1er de l'arrêté de l'Exécutif de la Communauté française du 22 juin 1989 relatif au congé pour prestations réduites justifiées par des raisons de convenances personnelles accordées au membre du personnel de l'enseignement de la Communauté française, âgé de 50 ans ou qui a au moins 2 enfants à charge qui n'ont pas dépassé l'âge de 14 ans et relatif à la mise en disponibilité pour convenances personnelles précédant la pension de retraite est complété par un point 3. libellé comme suit :
+
+" 3. aux puériculteurs visés par le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française ".
+
+### CHAPITRE III. - Modifications de l'arrêté de l'Exécutif de la Communauté française du 3 décembre 1992 relatif à l'interruption de la carrière professionnelle dans l'enseignement et les centres psycho-médico-sociaux.
+
+###### Art. 91
+
+L'alinéa 1er de l'article 1er de arrêté de l'Exécutif de la Communauté française du 3 décembre 1992 relatif à l'interruption de la carrière professionnelle dans l'enseignement et les centres psycho-médico-sociaux modifié par le décret du 12 mai 2004, est complété d'un point 13° libellé comme suit :
+
+" 13° le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française ".
+
+### CHAPITRE IV. - Modifications de l'arrêté de l'Exécutif de la Communauté française du 2 janvier 1992 relatif au congé parental et au conge pour des motifs impérieux d'ordre familial accordés à certains membres du personnel des établissements d'enseignement de la Communauté.
+
+###### Art. 92
+
+L'article 2 de l'Arrêté de l'Exécutif de la Communauté française du 2 janvier 1992 relatif au congé parental et au congé pour des motifs impérieux d'ordre familial accordés à certains membres du personnel des établissements d'enseignement de la Communauté est complété par un alinéa 2 libellé comme suit :
+
+" Le présent arrêté s'applique également aux puériculteurs nommés ou engagés à titre définitif ou provisoire en vertu du décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française ".
+
+### CHAPITRE V. - Modifications de l'Arrêté du Gouvernement de la Communauté française du 28 août 1995 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans l'enseignement préscolaire et primaire officiel subventionné, ordinaire et spécial.
+
+###### Art. 93
+
+Dans l'article 1er, 4° de l'Arrêté du Gouvernement de la Communauté française du 28 août 1995 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans l'enseignement préscolaire et primaire officiel subventionné, ordinaire et spécial, le second tiret est complété des termes suivants :
+
+" à l'exception des puériculteurs de l'enseignement maternel ordinaire organisé ou subventionné par la Communauté française "
+
+### CHAPITRE VI. - Modifications de l'arrêté du Gouvernement de la Communauté française 28 août 1995 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans l'enseignement préscolaire et primaire libre subventionné, ordinaire et spécial.
+
+###### Art. 94
+
+Dans l'article 1er, 4° de l'Arrêté du Gouvernement de la Communauté française du 28 août 1995 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans l'enseignement préscolaire et primaire libre subventionné, ordinaire et spécial, le second tiret est complété des termes suivants :
+
+" à l'exception des puériculteurs de l'enseignement maternel ordinaire organisé ou subventionné par la Communauté française "
+
+### CHAPITRE VII. - Modifications au décret du 30 juin 1998 visant à assurer à tous les élèves des chances égales d'émancipation sociale, notamment par la mise en oeuvre de discriminations positives.
+
+###### Art. 95
+
+Dans l'article 18 du décret du 30 juin 1998 visant à assurer à tous les élèves des chances égales d'émancipation sociale, notamment par la mise en oeuvre de discriminations positives, est ajouté l'alinéa suivant :
+
+" Le présent article s'applique aux changements d'affectations prévus par le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française "
+
+### CHAPITRE VIII. - Modifications du décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la réglementation de l'enseignement.
+
+###### Art. 96
+
+Dans l'article 3ter du décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la réglementation de l'enseignement, inséré par le décret du 3 juillet 2003, modifié par le décret du 12 mai 2004 et par le décret du 4 mai 2005 sont apportées les modifications suivantes :
+
+1° Au § 2 :
+
+a) Le point 2° est remplacé par la disposition suivante :
+
+" 2° un nombre de postes qu'il fixe chaque année parmi les moyens disponibles destinés au niveau fondamental dans le cadre des conventions prises en application de l'article 18 du décret de la Région wallonne du 25 avril 2002 relatif aux aides visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et de secteur marchand et de l'Arrêté du Gouvernement de la Région de Bruxelles capitale du 28 novembre 2002 relatif au régime des contractuels subventionnés ".
+
+b) Le point 3° est remplacé par la disposition suivante :
+
+" 3° afin de permettre l'octroi des subventions pour l'achat de matériel destiné à la psychomotricité selon les modalités prévues aux articles 16 à 19 du décret du 3 juillet 2003 organisant des activités de psychomotricité dans l'enseignement maternel ordinaire :
+
+\- Pour l'année 2006 : 412.200 euros;
+
+\- Pour l'année 2007 : 598.800 euros;
+
+\- Pour l'année 2008 : 641.800 euros;
+
+\- Pour année 2009 : 753.800 euros;
+
+\- Pour l'année 2010 : 892.400 euros. "
+
+2° Le § 4 est supprimé.
+
+### CHAPITRE IX. - Modifications du décret du 5 juillet 2000 fixant le régime des congés et de disponibilité pour maladie ou infirmité de certains membres du personnel de l'enseignement.
+
+###### Art. 97
+
+Dans le décret du 5 juillet 2000 fixant le régime des congés et de disponibilité pour maladie ou infirmité de certains membres du personnel de l'enseignement sont apportées les modifications suivantes :
+
+1° L'article 1er est complété par un 9° libellé comme suit :
+
+" 9° le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française ".
+
+2° Dans l'article 8, il est inséré un § 1erbis nouveau libellé comme suit :
+
+" § 1erbis. Le puériculteur nommé ou engagé à titre définitif ou à titre provisoire en vertu du décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française, bénéficie, à la date de sa nomination ou de son engagement à titre définitif ou à titre provisoire, de 30 jours ouvrables de congés pour cause de maladie ou d'infirmité. "
+
+### CHAPITRE X. - Modifications du décret du 8 mai 2003 modifiant les dispositions applicables en matière de congés et organisant la protection de la maternité.
+
+###### Art. 98
+
+L'article 40 du décret du 8 mai 2003 modifiant les dispositions applicables en matière de congés et organisant la protection de la maternité. est complété d'un alinéa 2 libellé comme suit :
+
+" La présente section est également applicable aux membres du personnel féminin nommé ou engagé à titre définitif ou temporaire dans le cadre du décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française ".
+
+###### Art. 99
+
+L'article 76 du même décret est complété d'un alinéa 2 libellé comme suit :
+
+" La présente section est également applicable aux membres du personnel féminin nommé ou engagé à titre définitif ou temporaire dans le cadre du décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française ".
+
+### CHAPITRE XI. - Modifications du décret du 3 juillet 2003 organisant des activités de psychomotricité dans l'enseignement maternel ordinaire.
+
+###### Art. 100
+
+Au titre III du décret du 3 juillet 2003 organisant des activités de psychomotricité dans l'enseignement maternel ordinaire, le chapitre I comprenant les articles 12 à 15 est supprimé.
+
+### CHAPITRE XII. - Modifications du décret du 12 mai 2004 relatif à la définition de la pénurie et à certaines Commissions dans l'enseignement organisé ou subventionné par la Communauté française.
+
+###### Art. 101
+
+L'alinéa 2 de l'article 5 du décret du 12 mai 2004 relatif à la définition de la pénurie et à certaines Commissions dans l'enseignement organisé ou subventionné par la Communauté française, est complété comme suit :
+
+" 3. pour les missions visées par la section II du chapitre V du décret du 4 mai 2005 portant exécution du Protocole d'accord du 7 avril 2004 entre le Gouvernement de la Communauté française et les organisations syndicales représentatives au sein du Comité de négociation de secteur IX et du Comité des services publics provinciaux et locaux - section II, pour ce qui concerne l'enseignement spécialisé
+
+4\. pour les missions visées par le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française "
+
+###### Art. 102
+
+A l'article 6 du même décret modifie par le décret du 12 mai 2004 et par le décret du 4 mai 2005, l'alinéa 2 est complété d'un point 7. libellé comme suit :
+
+" 7. pour les missions visées par le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française "
+
+###### Art. 103
+
+L'alinéa 2 de l'article 9 du décret précité est complété comme suit :
+
+" 3. pour les missions visées par la section II du chapitre V du décret du 4 mai 2005 portant exécution du Protocole d'accord du 7 avril 2004 entre le Gouvernement de la Communauté française et les organisations syndicales représentatives au sein du Comité de négociation de secteur IX et du Comité des services publics provinciaux et locaux - section II, pour ce qui concerne l'enseignement spécialisé;
+
+4\. pour les missions visées par le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française "
+
+###### Art. 104
+
+A l'article 10 du décret précité modifié par le décret du 12 mai 2004 et par le décret du 4 mai 2005, l'alinéa 4 est complété d'un point 7. libellé comme suit :
+
+" 7. pour les missions visées par le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française "
+
+### CHAPITRE XIII. - Modifications du décret du 12 mai 2004 fixant les droits et les obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française.
+
+###### Art. 105
+
+L'article 4 du décret du 12 mai 2004 fixant les droits et les obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française est remplace comme suit :
+
+" Article 4. Parmi les emplois visés par le décret de la Région wallonne du 25 avril 2002, par l'arrêté du Gouvernement de la Région de Bruxelles- Capitale du 28 novembre 2002 et par le décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française, le nombre d'emplois affectés au recrutement de puériculteurs doit être supérieur ou égal au nombre d'emplois qui y ont été affectés lors de l'année scolaire 2003-2004 ".
+
+###### Art. 106
+
+L'article 6 du décret précité, est remplacé comme suit :
+
+" Article 6. Pour l'application du présent décret, les puériculteurs doivent être porteurs de l'un des titres visés à l'article 15 de l'arrêté de l'exécutif de la Communauté française du 22 avril 1969 fixant les titres requis des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique, du personnel social des établissements d'enseignement préscolaire, primaire, spécial, moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et des internats dépendant de ces établissements "
+
+###### Art. 107
+
+Dans l'article 20, alinéa 2, 1er tiret du même décret, le nombre " 26 " est remplace par le nombre " 28 ".
+
+###### Art. 108
+
+L'article 28, § 1er du décret précité, est complété comme suit :
+
+" Pour l'application du présent paragraphe, sont également pris en considération :
+
+\- Les jours prestés dans le cadre d'engagements à titre contractuel en vertu de l'article 24 du décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française;
+
+\- Les jours prestés en tant qu'agent PTP en qualité d'aide aux institutrices maternelles, porteur du titre visé à l'article 6 du présent décret. "
+
+###### Art. 109
+
+A l'alinéa 3 de l'article 28, § 2 du décret précité, les termes " auprès d'un des pouvoirs organisateurs de la zone " sont remplacés par les termes " auprès des pouvoirs organisateurs de la zone ".
+
+###### Art. 110
+
+L'alinéa 1er du point b) de l'article 28, § 3, du décret précité, est remplacé comme suit : " Chaque Commission établit une liste reprenant les puériculteurs qui comptent, au 30 avril de l'année scolaire en cours, 1 080 jours d'ancienneté auprès des Pouvoirs organisateurs de la zone. Les puériculteurs sont classés dans les groupes suivants :
+
+1° Groupe A : de 1 080 à 1 439 jours d'ancienneté;
+
+2° Groupe B : de 1 440 à 1 799 jours d'ancienneté;
+
+3° Groupe C : de 1 800 à 2 159 jours d'ancienneté. "
+
+###### Art. 111
+
+L'article 28, § 2 du même décret est complété comme suit :
+
+" Pour l'application des alinéas 3 à 5 du présent paragraphe, sont également pris en considération :
+
+\- Les jours prestés dans le cadre d'engagements à titre contractuel en vertu de l'article 34 du décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française;
+
+\- Les jours prestés en tant qu'agent PTP en qualité d'aide aux institutrices maternelles, porteur du titre visé à l'article 6 du présent décret. "
+
+###### Art. 112
+
+A l'article 28 du décret précité, le § 3 est complété comme suit :
+
+" Pour l'application du point b) du présent paragraphe, sont également pris en considération :
+
+\- Les jours prestés dans le cadre d'engagements à titre contractuel en vertu de l'article 44 du décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française;
+
+\- Les jours prestés en tant qu'agent PTP en qualité d'aide aux institutrices maternelles, porteur du titre visé à l'article 6 du présent décret. "
+
+###### Art. 113
+
+Le § 7 de l'article 28 du décret précité est remplacé comme suit :
+
+" § 7. Dans l'enseignement subventionné par la Communauté française, le Pouvoir organisateur communique, pour le 1er mai au plus tard, à la commission la liste des puériculteurs visée à l'article 28, § 2, alinéa 1er, en ce qui concerne l'enseignement officiel subventionné, et la liste visée à l'article 28, § 3, a), en ce qui concerne l'enseignement libre subventionné.
+
+A défaut d'une telle communication dans le délai fixé à l'alinéa précédent le Pouvoir organisateur perd le bénéfice de tout poste de puériculteur obtenu en vertu de l'article 27 du présent décret et/ou de tout autre poste ACS, APE ou PTP obtenu dans le cadre de la procédure visée aux articles 28 à 34 du décret du 4 mai 2005 portant exécution du Protocole d'accord du 7 avril 2004 entre le Gouvernement de la Communauté française et les organisations syndicales représentatives au sein du Comité de négociation de secteur IX et du Comité des services publics provinciaux et locaux - section II, pour l'année scolaire considérée. A défaut d'avoir obtenu un tel poste pour l'année scolaire considérée, il en perd le bénéfice pour l'année scolaire suivante.
+
+Le Gouvernement peut, le cas échéant, accorder un délai supplémentaire en vue de la communication desdites listes. "
+
+###### Art. 114
+
+A l'article 28 du décret précité, sont ajoutés les paragraphes suivants :
+
+" § 8. Dans l'enseignement subventionné par la Communauté française, le puériculteur qui souhaite faire valoir sa priorité en vertu de l'ancienneté visée à l'article 28, § 2, alinéas 3 à 5 pour ce qui concerne l'enseignement officiel subventionné et 28, § 3, b) pour ce qui concerne l'enseignement libre subventionné, doit poser sa candidature par lettre recommandée auprès de son Pouvoir organisateur et auprès du Président de la Commission zonale compétente, pour le 15 avril au plus tard.
+
+Le Pouvoir organisateur informe le Président de la Commission de la désignation ou de l'engagement réalisé en vertu du classement zonal visé respectivement à l'article 28, § 2, alinéas 3 à 5 et 28 § 3 b).
+
+§ 9. Le puériculteur peut à sa demande être informé de son numéro d'ordre dans le classement prévu soit à l'article 28, § 1er pour ce qui concerne l'enseignement organisé par la Communauté française, soit à l'article 28, § 2, alinéas 3 à 5 pour ce qui concerne l'enseignement officiel subventionné et 28, § 3, b) pour ce qui concerne l'enseignement libre subventionné.
+
+§ 10. Pour l'application du présent Titre, l'ancienneté de service des puériculteurs se calcule conformément aux dispositions statutaires applicables dans chaque réseau relatives aux modalités de calcul de l'ancienneté de service des membres du personnel temporaire. ".
+
+###### Art. 115
+
+Un article 64bis du décret précité nouveau est inséré dans le même décret :
+
+" Article 64bis. Les puériculteurs détenteurs d'un brevet d'aspirant( e) en nursing visé par l'arrêté royal du 24 février 1987 portant réglementation spéciale relative aux études d'aspirant(e) en nursing ou du certificat d'études de sixième année secondaire de l'enseignement secondaire professionnel et du certificat de qualification de sixième année de l'enseignement secondaire, subdivision spécialité monitrice pour collectivité d'enfants visés par l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire, qui, à la veille de l'entrée en vigueur du décret du 2 juin 2006 relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française, ont été désignés comme puériculteurs ACS ou APE durant au moins 600 jours sont réputés remplir la condition visée à l'article 6 du décret du 12 mai 2004. "
+
+###### Art. 116
+
+Le présent décret entre en vigueur le 1er septembre 2006, à l'exception des articles 4, 6, 7, 89, 101 à 112 et 114 à 115 qui entrent en vigueur le 1er avril 2006 et des articles 8 à 10, 14, 15, 17, 19 à 21, 25, 27, 29 à 30, 35, 37, 39 à 40, 83, 84 et 86 qui entrent en vigueur le 1er juin 2006.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 2 juin 2006.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Enseignement obligatoire et de Promotion sociale,
+
+Mme M. ARENA
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur, de la Recherche scientifique et des Relations internationales,
+
+Mme M-D. SIMONET
+
+Le Vice-Président et Ministre du Budget et des Finances,
+
+M. DAERDEN
+
+Le Ministre de la Fonction publique et des Sports,
+
+C. EERDEKENS
+
+La Ministre de la Culture, de l'Audiovisuel et de la Jeunesse,
+
+Mme F. LAANAN
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK.

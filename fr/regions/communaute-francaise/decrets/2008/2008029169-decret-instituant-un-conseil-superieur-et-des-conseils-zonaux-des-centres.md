@@ -1,0 +1,311 @@
+---
+title: "[ Décret instituant un conseil supérieur et des conseils zonaux des centres psycho-médico-sociaux] <DCFR 2013-10-17/03 , art. 76, 002; En vigueur : 01-09-2013>"
+identifier: "2008029169"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/15/2008029169/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2008-02-15
+published: 2008-04-01
+entry_into_force: 2008-01-01
+last_amended: 2024-08-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/15/2008029169/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 01-04-2008 et mise à jour au 02-08-2024"
+retrieved: 2026-10-12
+---
+
+# 15 FEVRIER 2008. - [ Décret instituant un conseil supérieur et des conseils zonaux des centres psycho-médico-sociaux] &lt;DCFR 2013-10-17/03 , art. 76, 002; En vigueur : 01-09-2013&gt;
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Champ d'application et disposition introductive.
+
+### Art. 1
+
+Le présent décret s'applique aux Centres psycho-médico-sociaux organisés et subventionnés par la Communauté française.
+
+### Art. 2
+
+L'emploi, dans le présent décret, des noms masculins pour les différentes fonctions est épicène en vue d'assurer la lisibilité du texte nonobstant les dispositions du décret du 21 juin 1993 relatif à la féminisation des noms de métier.
+
+## CHAPITRE II. - Du Conseil supérieur.
+
+### Art. 3
+
+Il est institué un Conseil supérieur des Centres psycho-médico-sociaux, ci-après dénommé le Conseil.
+
+Ce Conseil est composé de membres effectifs et de membres suppléants.
+
+Pour chaque membre effectif, il est désigné un membre suppléant. Le membre suppléant ne siège qu'en l'absence du membre effectif.
+
+En cas de décès ou de démission d'un membre, son remplaçant est désigné par le Gouvernement, conformément à l'article 5, pour achever le mandat de son prédécesseur. Tout membre qui perd la qualité en raison de laquelle il a été nommé est réputé démissionnaire.
+
+### Art. 4
+
+Le Conseil a pour mission :
+
+1° De donner son avis sur toutes les questions qui lui sont posées par le Gouvernement;
+
+2° D'émettre les avis requis par les articles 6, § 2, 12, 16, 19 et 41 de l'arrêté royal du 13 août 1962 organique des centres psycho-médico-sociaux;
+
+3° D'accompagner la réflexion du Service de la guidance psycho-médico-sociale, en matière notamment d'organisation des centres psycho-médico-sociaux organisés ou subventionnés par la Communauté française;
+
+4° D'émettre d'initiative des recommandations sur toute question relevant de la compétence des centres psycho-médico-sociaux et sur le renforcement des synergies avec leurs différents partenaires;
+
+5° D'accompagner la mise en oeuvre des réformes;
+
+6° De transmettre à la Commission de Pilotage les besoins du personnel en termes de formations et les propositions sur les orientations et les thèmes relatifs aux formations dispensées en interréseaux tel que précisé dans l'article 15, alinéa 2 du Décret relatif à la formation en cours de carrière dans l'enseignement spécialisé, l'enseignement secondaire ordinaire et les centres psycho-médico-sociaux et à la création d'un institut de la formation en cours de carrière du 11 juillet 2002.
+
+[<sup>1</sup> 7° de solliciter l'avis des Conseils zonaux;
+
+8° de tenir les Conseils zonaux régulièrement informés des travaux en cours et des avis rendus.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2013-10-17/03, art. 77, 002; En vigueur : 01-09-2013&gt;
+
+### Art. 5
+
+Le Conseil est [<sup>1</sup> composé de 25 membres]<sup>1</sup> effectifs, ayant voix délibérative, se répartissant comme suit :
+
+1o [<sup>1</sup> Cinq représentants des centres psycho-médico-sociaux organisés par la communauté française désignés par le Gouvernement sur proposition du pouvoir organisateur de l'enseignement organisé par la Communauté française.]<sup>1</sup>;
+
+2o [<sup>1</sup> Cinq représentants]<sup>1</sup>s des centres psycho-médico-sociaux officiels subventionnés désignés par le Gouvernement sur proposition de l'organe de représentation et de coordination des pouvoirs organisateurs de l'enseignement officiel subventionné qui affilie les centres psycho-médico-sociaux officiels subventionnés;
+
+3o [<sup>1</sup> Cinq représentants]<sup>1</sup> des centres psycho-médico-sociaux libres subventionnés désignés par le Gouvernement sur proposition de l'organe de représentation et de coordination des pouvoirs organisateurs de l'enseignement libre confessionnel;
+
+4o Deux représentants des fédérations représentatives d'associations de parents désignés par le Gouvernement sur proposition des fédérations représentatives;
+
+5o Un représentant pour chaque organe de représentation et de coordination des pouvoirs organisateurs subventionnés désigné par le Gouvernement sur proposition des organes de représentation et de coordination;
+
+6o Un représentant de l'enseignement organisé par la Communauté française désigné par le Gouvernement [<sup>1</sup> sur proposition du pouvoir organisateur de l'enseignement organisé par la Communauté française]<sup>1</sup>;
+
+7o Un représentant pour chaque organisation syndicale représentative désigné par le Gouvernement sur proposition des organisations syndicales représentatives et qui affilient dans le secteur.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/79, art. 31, 003; En vigueur : 02-08-2024&gt;
+
+### Art. 6
+
+Le Conseil est composé de manière telle que parmi les membres mentionnés en 1, 2 et 3 de l'article 5 soit assurée la présence, au titre de membre effectif ou suppléant, d'au moins un directeur, d'au moins un conseiller ou auxiliaire psychopédagogique, d'au moins un auxiliaire social, d'au moins un auxiliaire paramédical [<sup>1</sup> , d'au moins un auxiliaire logopédique]<sup>1</sup> et d'au moins un médecin, tous en fonction dans un centre psycho-médico-social.
+
+A cette fin, l'organe représentant les pouvoirs organisateurs des centres psycho-médico-sociaux de l'enseignement officiel subventionné et l'organe représentant les pouvoirs organisateurs des centres psycho-médico-sociaux de l'enseignement subventionné libre confessionnel, proposeront chacun au Gouvernement la candidature de deux directeurs, de deux conseillers ou auxiliaires psychopédagogiques, de deux auxiliaires sociaux, de deux auxiliaires paramédicaux et de deux médecins.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/79, art. 32, 003; En vigueur : 02-08-2024&gt;
+
+### Art. 7
+
+Sont également membres du Conseil, avec voix consultative :
+
+1o Un représentant de l'Administration Générale de l'Enseignement et de la Recherche Scientifique;
+
+2o Un représentant de la Direction générale de la Santé;
+
+3o Un ou plusieurs représentants désignés par le Gouvernement, d'initiative ou sur proposition du Conseil, en fonction des partenariats à mettre en place ou à renforcer. Le nombre de ces représentants ne peut dépasser le nombre de trois.
+
+### Art. 8
+
+Le Ministre ayant en charge l'Enseignement obligatoire et le Ministre ayant en charge la Promotion de la Santé à l'Ecole peuvent, chacun, désigner un représentant, ayant voix consultative, au sein du Conseil.
+
+### Art. 9
+
+En vue d'éclairer ses travaux, le Conseil peut faire appel, pour des problèmes relevant de leur compétence, à des experts, ayant voix consultative. Le nombre d'experts ne peut dépasser le nombre de membres effectifs.
+
+### Art. 10
+
+[<sup>1</sup> Les membres du Conseil sont nommés par le Gouvernement pour une période de quatre ans. Ce mandat n'est renouvelable qu'une fois pour les membres effectifs visés à l'article 5, points 1, 2, 3, sauf dérogation accordée par le Gouvernement quand il est constaté qu'il y a une impossibilité de remplacer le membre sortant. Le Gouvernement détermine les modalités d'octroi de cette dérogation ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/79, art. 33, 003; En vigueur : 02-08-2024&gt;
+
+### Art. 11
+
+Le Conseil choisit en son sein un président, un vice-président et un secrétaire. Le président et le vice-président exercent leurs mandats pendant une durée de deux ans. Les mandats de président et de vice-président sont exercés alternativement pendant 2 ans respectivement par un représentant des Centres PMS officiels et par un représentant des Centres PMS libres confessionnels.
+
+Le secrétaire peut demander l'aide de l'administration compétente pour les tâches administratives.
+
+### Art. 12
+
+Le Conseil arrête son règlement d'ordre intérieur et le soumet à l'approbation du Gouvernement.
+
+### Art. 13
+
+Les membres effectifs et suppléants ainsi que les experts sont indemnisés des frais de parcours et de séjour que leur occasionne l'accomplissement de leur mission, conformément aux règles en vigueur pour le personnel des ministères.
+
+A cet effet, ils sont assimilés aux fonctionnaires titulaires d'un grade classé au rang 13.
+
+### Art. 14
+
+Le Conseil est convoqué, soit à l'initiative du président, soit à la demande du Ministre ayant en charge l'Enseignement obligatoire, soit à la demande de sept membres effectifs au moins.
+
+La convocation doit être adressée cinq jours ouvrables avant la séance, en précisant l'ordre du jour de la réunion.
+
+Le Conseil délibère valablement si douze membres au moins ayant voix délibérative sont présents.
+
+Le Conseil émet ses avis par consensus ou, à défaut, à la majorité des deux tiers des voix des membres présents ayant voix délibérative.
+
+Les membres mis en minorité peuvent demander que leur avis figure au procès-verbal de la réunion.
+
+## CHAPITRE II/1. [<sup>1</sup> - Des conseils zonaux]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/03, art. 78, 002; En vigueur : 01-09-2013&gt;
+
+### Art. 14/1.
+
+[<sup>1</sup> Il est institué dans chaque zone d'enseignement, telle que définie à l'article 24 du décret du 29 juillet 1992 portant organisation de l'enseignement secondaire de plein exercice, un Conseil zonal des Centres Psycho-médico-sociaux, ci-après dénommé le Conseil zonal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/03, art. 79, 002; En vigueur : 01-09-2013&gt;
+
+### Art. 14/2.
+
+[<sup>1</sup> Le Conseil zonal a pour mission :
+
+1° de stimuler et favoriser la mise en réseau des acteurs de la zone concernés par les activités précisées à l'article 8 du décret du 14 juillet 2006 relatif aux missions, programmes et rapport d'activités des Centres PMS;
+
+2° de proposer les délégués du Conseil zonal appelés à siéger dans les instances dans lesquelles les centres PMS doivent assurer une représentation inter-réseaux au niveau de la zone ou de son territoire;
+
+3° de favoriser, au départ des expériences locales, l'émergence de points de repères partagés et développer des projets communs en lien avec les missions des Centres PMS;
+
+4° de préparer la contribution des délégués du Conseil zonal aux travaux des instances visées au 2° ; à cette fin, il veillera à étudier du point de vue des centres PMS l'offre de formation de la zone;
+
+5° de prendre toute initiative favorisant de nouvelles dynamiques de coopération et des actions nouvelles dans les domaines énoncés aux points 1° et 2° ;
+
+6° de contribuer aux travaux du Conseil supérieur des Centres PMS et au suivi de ceux-ci;
+
+7° de partager des expériences positives de pratiques entre Centres PMS de différents réseaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/03, art. 80, 002; En vigueur : 01-09-2013&gt;
+
+### Art. 14/3.
+
+[<sup>1</sup> § 1er. Le Conseil zonal est composé de huit membres :
+
+1° deux représentants des centres psycho-médico-sociaux organisés par la Communauté française désignés par le Gouvernement [<sup>2</sup> sur proposition du pouvoir organisateur de l'enseignement organisé par la Communauté française ]<sup>2</sup>;
+
+2° deux représentants des centres psycho-médico-sociaux officiels subventionnés désignés par le Gouvernement sur proposition de l'organe de représentation et de coordination des pouvoirs organisateurs de l'enseignement officiel subventionné qui affilie les centres psycho-médico-sociaux officiels subventionnés;
+
+3° quatre représentants des centres psycho-médico-sociaux libres subventionnés désignés par le Gouvernement sur proposition de l'organe de représentation et de coordination des pouvoirs organisateurs de l'enseignement libre confessionnel.
+
+[<sup>2</sup> Les membres du Conseil zonal sont nommés par le Gouvernement pour une période de quatre ans. Ce mandat n'est renouvelable qu'une fois sauf dérogation accordée par le gouvernement quand il est constaté qu'il y a une impossibilité de remplacer le membre sortant. Le Gouvernement détermine les modalités d'octroi de cette dérogation]<sup>2</sup>.
+
+En cas de décès ou de démission d'un membre, son remplaçant est désigné par le Gouvernement pour achever le mandat de son prédécesseur. Tout membre qui perd la qualité en raison de laquelle il a été nommé est réputé démissionnaire.
+
+Le Conseil zonal associe à ses travaux toute personne dont elle estime l'expertise utile à ses réflexions et à ses délibérations. Le nombre d'experts ne peut être supérieur à celui des membres. Les experts ont voix consultative.
+
+Le président du Conseil zonal informe les organisations syndicales des délibérations du Conseil zonal pouvant avoir une incidence sur l'emploi ou sur les conditions de travail des membres du personnel des centres PMS.
+
+§ 2. Le Conseil zonal choisit en son sein un président, un vice-président et un secrétaire. Le président et le vice-président exercent leurs mandats pendant une durée de deux ans. Les mandats de président et de vice-président sont exercés alternativement pendant deux ans respectivement par un représentant des centres PMS officiels et par un représentant des centres PMS libres confessionnels.
+
+§ 3. Le président, le vice-président et le secrétaire forment le bureau du Conseil zonal.
+
+Le Conseil zonal est convoqué, soit à l'initiative du Président, soit à la demande de 4 membres au moins. Le Conseil zonal se réunit au minimum trois fois par année scolaire.
+
+La convocation doit être adressée cinq jours ouvrables avant la séance, en précisant l'ordre du jour de la réunion.
+
+§ 4. Le Conseil zonal délibère valablement si cinq membres au moins sont présents.
+
+Le Conseil zonal émet ses avis et décisions par consensus. Chaque membre peut demander que son avis figure au procès-verbal de la réunion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/03, art. 81, 002; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 34, 003; En vigueur : 02-08-2024&gt;
+
+### Art. 14/4.
+
+[<sup>1</sup> Le Conseil zonal arrête son règlement d'ordre intérieur endéans les deux mois à dater de son installation. Ce règlement prévoit notamment les modalités de convocation des réunions, de communication entre les membres et d'établissement de l'ordre du jour.
+
+Le Conseil zonal transmet son règlement d'ordre intérieur au Conseil supérieur des centres psycho-médico-sociaux pour information.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-10-17/03, art. 82, 002; En vigueur : 01-09-2013&gt;
+
+## CHAPITRE III. - Dispositions abrogatoires, modificatives et finales.
+
+### Art. 15
+
+L'arrêté royal instituant un Conseil supérieur de la guidance psycho-médico-sociale et de l'orientation scolaire et professionnelle du 30 juin 1976 est abrogé.
+
+### Art. 16
+
+Dans l'article 6, § 2 de l'arrêté royal du 13 août 1962 organique des centres psycho-médico-sociaux, les termes " Conseil supérieur de guidance psycho-médico-sociale " sont remplacés par les termes " Conseil supérieur des centres psycho-médico-sociaux ".
+
+### Art. 17
+
+Dans l'article 12 du même arrêté royal les termes " Conseil supérieur de guidance psycho-médico-sociale " sont remplacés par les termes " Conseil supérieur des centres psycho-médico-sociaux ".
+
+### Art. 18
+
+Dans l'article 16 du même arrêté royal les termes " Conseil supérieur de la guidance psycho-médico-sociale " sont remplacés par les termes " Conseil supérieur des centres psycho-médico-sociaux ".
+
+### Art. 19
+
+Dans l'article 19 du même arrêté royal les termes " Conseil supérieur de guidance psycho-médico-sociale " sont remplacés par les termes " Conseil supérieur des centres psycho-médico-sociaux ".
+
+### Art. 20
+
+Dans l'article 41 du même arrêté royal les termes " Conseil supérieur de guidance psycho-médico-sociale " sont remplacés par les termes " Conseil supérieur des centres psycho-médico-sociaux ".
+
+### Art. 21
+
+Dans l'article 5, alinéa 1er, 6°, du décret du 30 juin 1998 visant à assurer à tous les élèves des chances égales d'émancipation sociale, notamment par la mise en oeuvre de discriminations positives, les termes " Conseil supérieur de la guidance " sont remplacés par les termes " Conseil supérieur des centres psycho-médico-sociaux ".
+
+### Art. 22
+
+Dans l'article 28, § 1er, 4°, du décret du 20 décembre 2001 relatif à la promotion de la santé à l'école, les termes " Conseil supérieur de la guidance psycho-médico-sociale " sont remplacés par les termes " Conseil supérieur des centres psycho-médico-sociaux ".
+
+### Art. 23
+
+Dans l'article 15, alinéa 2, du décret du 11 juillet 2002 relatif à la formation en cours de carrière dans l'enseignement spécialisé, l'enseignement secondaire ordinaire et les centres psycho-médico-sociaux et à la création d'un institut de la formation en cours de carrière, les termes" Conseil supérieur de la guidance psycho-médico-sociale " sont remplacés par les termes " Conseil supérieur des centres psycho-médico-sociaux ".
+
+### Art. 24
+
+Le présent décret entre en vigueur le 1er janvier 2008.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 février 2008.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Enseignement obligatoire,
+
+Mme M. ARENA
+
+La Vice-Présidente et Ministre de l'Enseignement supérieur,
+
+de la Recherche scientifique et des Relations internationales,
+
+Mme M.-D. SIMONET
+
+Le Vice-Président et Ministre du Budget et des Finances, de la Fonction publique et des Sports,
+
+M. DAERDEN
+
+La Ministre de la Culture et de l'Audiovisuel,
+
+Mme F. LAANAN
+
+Le Ministre de la Jeunesse et de l'Enseignement de Promotion sociale,
+
+M. TARABELLA
+
+La Ministre de l'Enfance, de l'Aide à la Jeunesse et de la Santé,
+
+Mme C. FONCK.
