@@ -1,0 +1,75 @@
+---
+title: "Décret modifiant le décret du 4 mars 1999 relatif à l'intégration sociale et professionnelle des personnes handicapées"
+identifier: "2004031108"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/05/2004031108/justel"
+type: decree
+justel_type: "DECRET (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2004-02-05
+published: 2004-03-19
+entry_into_force: 2004-04-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/05/2004031108/justel"
+department: "Commission communautaire française - Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 5 FEVRIER 2004. - Décret modifiant le décret du 4 mars 1999 relatif à l'intégration sociale et professionnelle des personnes handicapées
+
+L'Assemblée de la Commission communautaire française a adopté le 30 janvier 2004, et, Nous, Collège, sanctionnons ce qui suit :
+
+## Disposition générale.
+
+## Art. 1
+
+Le présent décret règle une matière visée à l'article 128 de la Constitution en vertu de l'article 138 de celle-ci.
+
+## Dispositions particulières.
+
+## Art. 2
+
+A l'article 2, alinéa premier, du décret du 4 mars 1999 relatif à l'intégration sociale et professionnelle des personnes handicapées, les termes " à l'article 5 du présent décret " sont remplacés par les termes " à l'article 6 du présent décret ".
+
+## Art. 3
+
+A l'article 26, 5°, du même décret, les termes " sous-section 4 du chapitre III du présent décret " sont remplacés par les termes " sous-section 5 de la section 2 du chapitre III du présent décret ".
+
+## Art. 4
+
+Dans l'article 26 du décret sont insérés les 6°, 7°, et 8° dont le texte est rédigé comme suit :
+
+6° d'accorder à la personne handicapée " un stage de découverte " d'un métier;
+
+7° d'accorder une " prime de tutorat " à un employeur au moment de l'engagement du travailleur handicapé ou lors de la reprise du travail de celui-ci après une période d'inactivité provoquée par un accident ou une maladie et ayant entraîné une aggravation voire l'apparition d'une déficience;
+
+8° d'accorder aux employeurs d'autres aides à l'emploi nécessaires à l'intégration professionnelle des personnes handicapées.
+
+## Disposition finale.
+
+## Art. 5
+
+Le Collège fixe la date d'entrée en vigueur du présent décret.
+
+(NOTE : Entrée en vigueur fixée le 01-04-2004 par ARR 2004-03-25/44, art. 2)
+
+E. TOMAS,
+
+Ministre, Président du Collège, chargé de l'Enseignement, de la Reconversion et du Recyclage professionnel du Transport scolaire, de la Cohabitation des communautés locales, des relations avec la Communauté française et la Région wallonne, ainsi que des Relations internationales
+
+W. DRAPS,
+
+Ministre, Membre du Collège chargé de la Formation professionnelle et permanente des Classes moyennes et de la Politique des Personnes handicapées
+
+A. HUTCHINSON,
+
+Ministre, Membre du Collège chargé du Budget, de l'Action sociale et de la Famille
+
+J. SIMONET,
+
+Ministre, Membre du Collège, chargé de la Fonction publique
+
+D. GOSUIN
+
+Ministre, Membre du Collège, chargé de la Santé, de la Culture, du Tourisme, du Sport et de la Jeunesse.

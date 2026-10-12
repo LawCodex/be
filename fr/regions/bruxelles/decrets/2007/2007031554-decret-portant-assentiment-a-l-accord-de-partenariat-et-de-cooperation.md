@@ -1,0 +1,53 @@
+---
+title: "Décret portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Tadjikistan, d'autre part, fait à Luxembourg le 11 octobre 2004."
+identifier: "2007031554"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2007031554/justel"
+type: decree
+justel_type: "DECRET (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2007-03-22
+published: 2007-12-18
+entry_into_force: 2007-12-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2007031554/justel"
+department: "Commission communautaire française - Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 22 MARS 2007. - Décret portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Tadjikistan, d'autre part, fait à Luxembourg le 11 octobre 2004.
+
+L'Assemblée de la Commission communautaire française et Nous, Collège, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle, en application de l'article 138 de la Constitution, une matière visée aux articles 127 et 128 de celle-ci.
+
+## Art. 2
+
+L'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Tadjikistan, d'autre part, fait à Luxembourg le 11 octobre 2004, sortira son plein et entier effet.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 22 mars 2007.
+
+B. CEREXHE,
+
+Président du Collège de la Commission communautaire française, chargé de la Fonction publique et de la Santé
+
+Ch. PICQUE,
+
+Membre du Collège de la Commission communautaire française, chargé de la Cohésion sociale
+
+Mme E. HUYTEBROECK,
+
+Membre du Collège de la Commission communautaire française, chargée du Budget, des Personnes handicapées et du Tourisme
+
+Mme Fr. DUPUIS,
+
+Membre du Collège de la Commission communautaire française, chargée de la Formation professionnelle, de l'Enseignement, de la Culture et du Transport scolaire
+
+E. KIR,
+
+Membre du Collège de la Commission communautaire française, chargé de l'Action sociale, de la Famille et du Sport.

@@ -1,0 +1,59 @@
+---
+title: "Décret modifiant la loi du 21 avril 1965 portant statut des agences de voyages."
+identifier: "2003031232"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2003/01/16/2003031232/justel"
+type: decree
+justel_type: "DECRET (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2003-01-16
+published: 2003-04-16
+entry_into_force: 2003-02-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2003/01/16/2003031232/justel"
+department: "Commission communautaire française - Région de Bruxelles-Capitale"
+retrieved: 2026-10-12
+---
+
+# 16 JANVIER 2003. - Décret modifiant la loi du 21 avril 1965 portant statut des agences de voyages.
+
+L'Assemblée de la Commission communautaire française à adopté :
+
+## Art. 1er
+
+Le présent décret règle une matière visée à l'article 128 de la Constitution en vertu des articles 138 et 178 de la Constitution.
+
+## Art. 2
+
+Il est ajouté à la loi du 21 avril 1965 portant statut des agences de voyages, un article 4bis rédigé comme suit :
+
+" Quiconque s'est vu octroyer l'autorisation visée à l'article 1 peut de façon exceptionnelle exercer l'activité définie à l'article 1, § 1, après avis du Commissaire au tourisme, dans le cadre de foires et salons de tourisme. "
+
+## Art. 3
+
+Le présent décret produit ses effets à partir du 1er février 2003.
+
+Le Collège de la Commission communautaire française sanctionne le décret adopté par l'Assemblée de la Commission communautaire française modifiant la loi du 21 avril 1965 portant statut des agences de voyages.
+
+Bruxelles, le 16 janvier 2003.
+
+E. TOMAS,
+
+Président du collège
+
+F.-X. DE DONNEA,
+
+Membre du Collège
+
+D. GOSUIN,
+
+Membre du Collège
+
+W. DRAPS,
+
+Membre du Collège
+
+A. HUTCHINSON,
+
+Membre du Collège

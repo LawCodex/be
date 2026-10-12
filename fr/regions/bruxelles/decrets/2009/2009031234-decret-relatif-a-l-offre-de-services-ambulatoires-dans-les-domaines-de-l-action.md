@@ -1,0 +1,3107 @@
+---
+title: "Décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé"
+identifier: "2009031234"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/05/2009031234/justel"
+type: decree
+justel_type: "DECRET (BRUXELLES)"
+jurisdiction: be
+region: bruxelles
+language: fr
+date: 2009-03-05
+published: 2009-05-08
+entry_into_force: 2010-01-01
+last_amended: 2024-07-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/05/2009031234/justel"
+department: "Commission communautaire française"
+justel_note: "Consultation des versions antérieures à partir du 08-05-2009 et mise à jour au 24-07-2024"
+retrieved: 2026-10-12
+---
+
+# 5 MARS 2009. - Décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé
+
+L'assemblée de la Commission communautaire française et Nous, Collège, sanctionnons ce qui suit :
+
+## TITRE Ier. - Dispositions générales
+
+### CHAPITRE Ier. - Champ d'application et définitions générales
+
+#### Section Ire. - Champ d'application
+
+###### Art. 1er
+
+Le présent décret règle en vertu de l'article 138 de la Constitution une matière visée à l'article 128 de celle-ci.
+
+#### Section II. - Définitions générales
+
+###### Art. 2
+
+Pour l'application du présent décret, il faut entendre par :
+
+1° le Conseil consultatif : le Conseil consultatif bruxellois francophone de l'Aide aux personnes et de la Santé créé par le décret du 5 juin 1997;
+
+2° le service ambulatoire : structure agréée en tant que centre, maison ou service actif dans le domaine de l'Action sociale, de la Famille et de la Santé qui, par une approche interdisciplinaire et en partenariat avec d'autres acteurs socio-sanitaires, assure des prestations pour les [<sup>2</sup> usagers]<sup>2</sup> dans leur milieu de vie, permettant ainsi d'améliorer leur qualité de vie [<sup>2</sup> , un centre social santé intégré]<sup>2</sup>. Le service ambulatoire est soit un service de santé mentale, un [<sup>3</sup> service actif en matière de drogues et addictions]<sup>3</sup>, un centre d'action sociale globale, un centre de planning familial, une maison médicale, un service de médiation de dettes, [<sup>1</sup> ...]<sup>1</sup> un [<sup>4</sup> service de coordination de soins et d'aide à domicile]<sup>4</sup>, un service de soins palliatifs et continués, un service d'aide à domicile, un centre d'accueil téléphonique [<sup>2</sup> bénéficiaires]<sup>2</sup>;
+
+3° [<sup>2</sup> l'usager]<sup>2</sup> : toute personne, famille, groupe ou public spécifique en faveur de qui est conduite une mission de service public en matière d'action sociale, familiale et de santé;
+
+4° le siège d'activité, l'antenne : lieux où s'exercent ou d'où s'organisent les missions des services ambulatoires;
+
+5° le secteur : ensemble des services ambulatoires agréés sous la même appellation telles que visées au 2° [<sup>2</sup> à l'exception du centre social santé intégré]<sup>2</sup>;
+
+6° le soin : action au bénéfice d'une personne, d'un groupe de personnes ou de la population dans le but de promouvoir, d'améliorer, de protéger, d'évaluer, de maintenir ou de rétablir sa santé;
+
+7° l'action sociale : action qui vise prioritairement [<sup>2</sup> à prévenir et]<sup>2</sup> à lutter contre des situations de précarité et d'exclusion caractérisées par des problèmes multiples et complexes.
+
+Elle met en oeuvre un ensemble de moyens par lesquels la société agit sur elle-même pour assurer sa cohésion sociale, par des actions visant à aider les personnes, les familles et les groupes les plus fragiles à mieux vivre, à acquérir ou à préserver leur autonomie et par le soutien des réseaux de solidarité, notamment par l'action communautaire.
+
+L'aide aux familles participe de l'action sociale.
+
+8° l'organisme : [<sup>2</sup> ...]<sup>2</sup> l'organisme représentatif et de coordination;
+
+9° [<sup>2</sup> le territoire : entité géographique de la Région bilingue de Bruxelles-Capitale sur laquelle l'offre de l'ambulatoire est organisée ;]<sup>2</sup>
+
+[<sup>2</sup> 10° la coordination : action qui vise à assurer la gestion et l'organisation du service ambulatoire, anime l'équipe et reste attentive à son bon fonctionnement, veille au respect des différents cadres administratifs et légaux en vigueur. Elle participe activement à la constitution de réseaux de partenaires des autres services social-santé de son territoire d'intervention, et notamment à ses lieux de concertation lorsqu'ils existent, facilitant ainsi des collaborations intra et intersectorielles du social-santé ;
+
+11° les bassins d'aide et de soins : zones géographiquement continues, qui ne se superposent pas, incluant des communes entières et/ou des parties de ces dernières et couvrant l'ensemble du territoire de la Région bilingue de Bruxelles-Capitale. Ils sont le niveau intermédiaire entre la région et les communes en charge de la coordination et de la concertation entre les acteurs de l'ambulatoire et avec les services résidentiels ainsi que leurs interactions avec le niveau régional ou national ;
+
+12° les groupements de quartier : zones géographiquement continues, qui ne se superposent pas, couvrant l'ensemble du territoire de la Région bilingue de Bruxelles-Capitale. Ils sont le niveau qui permet d'organiser la politique d'aide et des soins au plus proche des citoyens ;
+
+13° la fonction inclusive : fonction mise en oeuvre par les acteurs de l'ambulatoire afin de rendre possible l'intégration des publics très fragiles dans le système socio-sanitaire en prenant en charge, y compris en allant à leur rencontre, les personnes qui n'ont pas accès aux soins, leurs besoins, et en les aidant à accéder au système de soins classique quel que soit la ou les raisons de leur manque d'accès ;
+
+14° l'action communautaire : approche, basée sur le pouvoir d'agir des populations, qui vise à élaborer et développer, avec et pour les usagers, des réponses collectives à des problématiques collectives dans une perspective de changement social, d'amélioration des déterminants de la santé, de lutte contre l'isolement et les mécanismes d'exclusion sociale et culturelle.
+
+Ce processus progressif d'analyse et d'action repose sur la participation effective des usagers et leur mise en synergie avec des professionnels du social et de la santé, des acteurs locaux et des ressources du territoire ;
+
+15° lieu de lien : lieu d'action communautaire qui a pour objectif général de favoriser l'inclusion et la construction de liens sociaux. Ces lieux d'accueil à bas seuil d'accès visent en outre à agir sur les déterminants sociaux et communautaires de la santé mentale ;
+
+16° pair-aidant : personne qui a connu, pendant une durée de minimum six mois consécutifs, au moins une problématique similaire au public bénéficiaire du service et qui souhaite partager son expérience pour la mettre au profit des usagers. La qualité de pair-aidant est formalisée par une attestation sur l'honneur ;
+
+17° outreaching : pratiques consistant à aller à la rencontre de publics éloignés de l'aide et des soins, ainsi que des services d'accompagnement mobiles.]<sup>2</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 2, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 4, 010; En vigueur : 29-04-2024&gt;
+
+(3)&lt;DCFR 2024-02-01/22, art. 2, 010; En vigueur : 29-04-2024&gt;
+
+(4)&lt;DCFR 2024-02-01/22, art. 3, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE II. - Définitions et missions sectorielles
+
+#### Section Ire. - Les services de santé mentale
+
+###### Art. 3
+
+[<sup>1</sup> § 1er. - Le service de santé mentale est un service ambulatoire qui, par une approche pluridisciplinaire, contribue au diagnostic et au traitement thérapeutique ainsi qu'à la prévention et à l'action communautaire, au bénéfice des usagers et de leur famille.
+
+§ 2. - Cette approche pluridisciplinaire lui permet une articulation de différentes fonctions, assurant la prise en charge de situations complexes notamment au niveau psychiatrique, psychologique, psychothérapeutique, logopédique et social.
+
+§ 3. - Le service de santé mentale travaille étroitement avec les partenaires social-santé de proximité et prend en charge les problématiques qui nécessitent un suivi spécialisé tout en assurant la continuité des soins de santé mentale généralistes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 5, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 4
+
+[<sup>1</sup> § 1er. - Le service de santé mentale exerce les missions générales suivantes :
+
+1° offrir un premier accueil, analyser et, le cas échéant, orienter la demande de tout bénéficiaire usager :
+
+\- le service de santé mentale veille à garantir un accueil clinique minimal avec une analyse de la demande et, le cas échéant, une réorientation ;
+
+\- il réfère les usagers réorientés vers les dispositifs ou intervenants adaptés à la problématique.
+
+Il peut :
+
+\- référer aux psychologues de première ligne (conventionnés par l'Institut national d'assurance maladie invalidité) ou du secteur privé les usagers dont la problématique est adaptée au cadre de ces dispositifs ;
+
+\- intervenir à la demande des psychologues de première ligne (conventionnés par l'Institut national d'assurance maladie invalidité), du secteur privé, ou des usagers ou leur famille pour des prises en charge pour lesquelles un suivi psychiatrique ou une prise en charge pluridisciplinaire spécialisée est indiquée ;
+
+2° poser un diagnostic et assurer le traitement psycho-médico-social de problèmes de santé mentale ;
+
+3° assurer un accompagnement psychologique pluridisciplinaire. La présence d'un psychiatre dans l'équipe est garante d'une vigilance médicale et indispensable à l'accompagnement de la situation de l'usager dans sa complexité. La présence de l'assistant social est garante d'une prise en charge sociale lorsque celle-ci est nécessaire.
+
+Le service de santé mentale assure le traitement des usagers notamment par :
+
+a) une collaboration avec toutes les personnes et institutions concernées ;
+
+b) un suivi d'usagers qui sont hébergés dans des institutions résidentielles et hospitalières, en accord avec les médecins de ces institutions ;
+
+c) un suivi d'usagers qui ont été hébergés dans des institutions résidentielles et hospitalières ;
+
+d) un travail qui vise à la réinsertion sociale de l'usager qui, à la suite de problèmes de santé mentale, rencontrent des difficultés dans leur vie familiale, scolaire, professionnelle ou sociale ;
+
+4° organiser, élaborer ou collaborer à des activités de prévention et d'action communautaire. Le service de santé mentale organise ou collabore à des activités de prévention et d'action communautaire étroitement liées à ses missions le cas échéant, aux projets spécifiques qu'il développe en partenariat ou non avec d'autres services.
+
+Ces activités peuvent notamment consister en :
+
+a) l'information, la sensibilisation et l'éducation en matière de santé mentale de la population ;
+
+b) l'information, la sensibilisation et l'éducation en matière de santé mentale des travailleurs du réseau sanitaire et social ;
+
+c) des interventions spécifiques de prévention envers des groupes ciblés, notamment dans des lieux d'accueil de la petite enfance ;
+
+d) la création de lieux de liens et ou d'action en santé mentale communautaire ;
+
+e) la mobilité des soins, l'outreaching ;
+
+f) l'offre d'un appui aux autres acteurs de terrain.
+
+§ 2. - Le service de santé mentale travaille en coordination avec le réseau sanitaire, psychosocial et scolaire. A cet effet, il est tenu de :
+
+1° participer activement à la structure de partenariat local ou, si celle-ci fait défaut, veiller avec les personnes, institutions et services concernés à instituer une initiative semblable ;
+
+2° entreprendre des démarches pour établir des accords de partenariat avec les personnes, institutions et services publics et privés ;
+
+3° participer à la Plate-forme de Concertation pour la Santé mentale en Région de Bruxelles-Capitale.
+
+§ 3. - Le service de santé mentale peut offrir une prise en charge d'auteurs d'infraction à caractère sexuel. A cet égard, il peut accepter de suivre les auteurs d'infraction à caractère sexuel référés par le Centre d'Appui Bruxellois.
+
+Dans le cadre de l'accord de coopération du 13 avril 1999 entre l'Etat fédéral et la Commission communautaire commune et la Commission communautaire française concernant la guidance et le traitement d'auteurs d'infractions à caractère sexuel, le Collège désigne des services de santé mentale pour constituer des équipes spécialisées agréées dans le suivi et le traitement des auteurs d'infraction à caractère sexuel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 6, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 5
+
+Le service de santé mentale peut développer des projets spécifiques qui s'inscrivent dans une problématique de santé mentale. Il les définit à partir des besoins et des caractéristiques de la population qui s'adresse au service.
+
+###### Art. 5bis
+
+[<sup>1</sup> Afin de renforcer l'intégration de son action avec celle d'un centre social santé intégré se trouvant sur son territoire d'intervention, le service de santé mentale peut mettre en place une collaboration avec le centre concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 7, 010; En vigueur : 29-04-2024&gt;
+
+#### Section II. - Les services actifs en matière de toxicomanies
+
+###### Art. 6
+
+[<sup>1</sup> Le service actif en matière de drogues et addictions est un service ambulatoire qui, par une approche pluridisciplinaire, mène, de manière permanente et privilégiée, une action spécifique de prévention, de réduction des risques, d'accompagnement, de soins ou de réinsertion, vis-à-vis de personnes, institutions et communautés confrontées ou susceptibles d'être confrontées aux usages et mésusages de substances psychoactives (alcool, tabac, médicaments et autres drogues légales et illégales) et aux conduites addictives (avec ou sans produits).]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 8, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 7
+
+[<sup>1</sup> Le service actif en matière de drogues et addictions exerce les missions d'accueil et d'information pour les usagers de drogues, leur famille et leur entourage et au moins une des missions générales suivantes.
+
+1° L'accompagnement
+
+Le service actif en matière drogues et addictions accompagne la demande des usagers et assure, par un suivi individualisé ou collectif, la guidance psychosociale et administrative en concertation avec les personnes et institutions concernées, notamment les acteurs socio-sanitaires, scolaires et socio-culturels. Il peut ensuite orienter ou réorienter les usagers en fonction de leurs besoins vers des personnes ou institutions plus appropriées.
+
+2° Les soins
+
+a) Le service actif en matière drogues et addictions pose un diagnostic et assure le traitement des usagers rencontrant des problèmes liés à l'usage de drogues ou des conduites addictives. Le traitement de ces problèmes intègre les aspects médicaux, psychiatriques psychologiques et sociaux. Il vise à assurer le mieux-être des usagers dans leur milieu habituel de vie, ce qui n'implique pas nécessairement leur sevrage.
+
+b) Le service associe au traitement de l'usager, avec l'accord de celui-ci, le médecin généraliste désigné par l'usager et, dans la mesure du possible, tous les professionnels extérieurs à l'équipe du service, susceptibles de contribuer au traitement.
+
+3° La prévention
+
+a) Le service actif en matière de drogues et addictions organise des activités de prévention ou collabore à l'organisation d'activités ayant pour objet la prévention environnementale, universelle, sélective ou indiquée.
+
+b) Les activités de prévention peuvent notamment consister en :
+
+1\. l'information, la sensibilisation et l'éducation de la population ainsi que des acteurs socio-sanitaires, psychosociaux, scolaires et socioculturels en matière de drogues et addictions ;
+
+2\. des interventions spécifiques de prévention envers des groupes ciblés, notamment envers des personnes, institutions ou communautés confrontées ou susceptibles d'être confrontées à des problèmes d'usage de drogues ou des conduites addictives.
+
+4° La réduction des risques
+
+Le service actif en matière de drogues et addictions organise des activités de réduction des risques.
+
+Les activités de réduction des risques peuvent notamment consister en :
+
+a) l'information, la sensibilisation et l'éducation des usagers de drogues, de la population en général et, entre autres, des acteurs socio-sanitaires, psychosociaux, scolaires et socioculturels en matière de risques liés à l'usage de drogues et des moyens de les réduire ;
+
+b) des interventions spécifiques, en ce compris la distribution de matériel médical et paramédical, les activités menées dans les salles de consommation à moindre risque, la distribution de naloxone et d'eau stérile, les programmes d'accompagnement et d'éducation aux risques liés à l'injection, l'analyse de substances, le travail dans les milieux de vie, la participation des usagers de drogues ;
+
+c) Les services agréés pour réaliser les activités visées en b) peuvent également mettre en place une salle de consommation à moindre risque, c'est-à-dire un service ambulatoire offrant aux personnes consommatrices de drogues un lieu protégé permettant de consommer dans des conditions socio-sanitaires optimales et sous la supervision d'une équipe pluridisciplinaire en vue de diminuer les risques pour la santé, leur entourage et l'environnement et de permettre la réinsertion dans la société, conformément à l'article 37bis ;
+
+d) les services agréés pour réaliser les activités visées au point b) ont l'obligation d'offrir à leur public et dans la mesure des moyens disponibles, des médicaments et dispositifs médicaux qui concourent à diminuer les dommages de santé publique liés à certaines consommations particulièrement risquées. Pour ce faire, les acteurs agréés menant des activités de réduction des risques, telles que définies dans le décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé, doivent pouvoir : acheter ce matériel et médicaments directement auprès des fournisseurs ; les stocker ; les diffuser auprès des services en assurant l'accès aux usagers ;
+
+e) les services agréés pour réaliser les activités visées au point b) ont l'autorisation de commanditer la confection de kits de matériel stérile et de dispositifs médicaux auprès de pharmaciens, de distributeurs, commerçants en gros, importateurs et fabricants agréés par le ministre fédéral de la Santé publique ;
+
+f) la liste des médicaments et dispositifs médicaux visés au point d) nécessaire à la mission de réduction des risques est établie par le Collège de la commission communautaire française.
+
+5° La réinsertion
+
+Le service actif en matière de drogues et addictions effectue un travail d'encadrement nécessaire à la réinsertion sociale, familiale, scolaire et professionnelle des usagers. Il travaille en collaboration avec les personnes et institutions concernées, notamment les acteurs socio-sanitaires administratifs, scolaires et socioculturels et le monde du travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 9, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 8
+
+Le [<sup>1</sup> service actif en matière de drogues et addictions]<sup>1</sup> peut, en outre, exercer une ou des missions particulières suivantes :
+
+1° La réinsertion
+
+Le [<sup>1</sup> service actif en matière de drogues et addictions]<sup>1</sup> effectue un travail d'encadrement nécessaire à la réinsertion sociale, familiale, scolaire et professionnelle des bénéficiaires. Il travaille en collaboration avec les personnes et institutions concernées, notamment les acteurs sociosanitaires administratifs, scolaires et socioculturels et le monde du travail.
+
+2° La liaison
+
+Le [<sup>1</sup> service actif en matière de drogues et addictions]<sup>1</sup> mène une action de liaison entre différents intervenants ou entités qui accueillent des usagers de drogues. II organise les collaborations de façon à ce que les besoins des bénéficiaires soient rencontrés de manière adéquate.
+
+3° La formation
+
+Le [<sup>1</sup> service actif en matière de drogues et addictions]<sup>1</sup> assure la sensibilisation, la formation, la formation continuée ou la supervision d'intervenants confrontés ou susceptibles d'être confrontées aux problèmes rencontrés par les usagers de drogues.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 2, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 8bis
+
+[<sup>1</sup> Afin de renforcer l'intégration de son action avec celle d'un centre social santé intégré se trouvant sur son territoire d'intervention, le service actif en matière de drogues et addictions peut mettre en place une collaboration avec le centre concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 11, 010; En vigueur : 29-04-2024&gt;
+
+#### Section III. - Les centres d'action sociale globale
+
+###### Art. 9
+
+Le centre d'action sociale globale est un service ambulatoire qui organise une action sociale globale.
+
+L'action sociale globale est une action développée dans le but de restaurer ou améliorer les relations [<sup>1</sup> de l'usager]<sup>1</sup> avec la société et réciproquement, [<sup>1</sup> par des actions collectives, communautaires ou individuelles]<sup>1</sup> qui, d'une part, agissent sur l'ensemble des facteurs, quels qu'ils soient, de précarisation sociale du [<sup>1</sup> usager]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup> et, d'autre part, sollicitent les capacités des bénéficiaires eux-mêmes.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 12, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 10
+
+[<sup>1</sup> Les centres assurent les missions suivantes :
+
+1° aider la personne, dans sa globalité, en offrant un premier accueil, en analysant sa situation, en envisageant toutes les possibilités d'intégration et en assurant son accompagnement et son suivi ;
+
+2° développer le lien social et un meilleur accès des personnes aux équipements collectifs et à leurs droits fondamentaux ; agir sur l'ensemble des facteurs de précarisation sociale ;
+
+3° solliciter la participation active des personnes aidées, les intégrer, elles et leur famille, dans la vie citoyenne ;
+
+4° lutter contre les exclusions et favoriser la promotion d'actions d'intégration sociale ;
+
+5° consolider un travail en réseau et orienter, au besoin, les personnes vers des institutions plus spécialisées pour résoudre des situations critiques spécifiques ;
+
+6° signaler aux autorités compétentes les dysfonctionnements institutionnels et réglementaires décelés et formuler des propositions pour y pallier.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 13, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 11
+
+Les centres d'action sociale globale collaborent entre eux dans le but de réaliser :
+
+1° une visibilité maximale des centres agréés et de l'ensemble des services et activités qu'ils offrent au public;
+
+2° une analyse collective des situations problématiques qui apparaissent à travers l'exercice de leur action sociale globale en mettant en évidence l'évolution des phénomènes sociaux. Cette analyse est présentée tous les trois ans au Collège.[<sup>1</sup> Cette analyse est intégrée dans le rapport d'activités pluriannuel visé à l'article 163, § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 14, 010; En vigueur : 29-04-2024&gt;
+
+#### Section IV. - Les centres de planning familial
+
+###### Art. 12
+
+Le centre de planning familial est un service ambulatoire extra-hospitalier ayant pour objet l'accueil, l'information et l'accompagnement des personnes, des couples et des familles dans le cadre de la vie [<sup>1</sup> relationnelle,]<sup>1</sup> affective et sexuelle.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 15, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 13
+
+[<sup>1</sup> § 1er. - Le centre de planning familial assure les missions suivantes :
+
+1° l'accueil, l'information et l'accompagnement des personnes, des couples, des familles ou des groupes au sujet de leur vie relationnelle, affective et sexuelle et de leur santé sexuelle et reproductive ;
+
+2° l'information sur l'interruption volontaire de grossesse et, le cas échéant, l'accompagnement de la personne qui souhaite bénéficier d'une interruption de grossesse ou son orientation vers un autre centre de planning familial ou établissement qui y procède ;
+
+3° le développement d'une stratégie de prévention et de promotion de la santé, orientées vers la vie relationnelle, affective et sexuelle, et la santé sexuelle et reproductive, à l'attention des personnes, des couples, des familles ou des groupes, notamment en milieu scolaire.
+
+§ 2. - Pour réaliser les missions visées au § 1er, le centre de planning familial est tenu :
+
+1° d'accueillir toute personne concernant sa vie relationnelle, affective et sexuelle et de lui apporter écoute, réponse et orientation ;
+
+2° d'organiser a minima des consultations médicales, psychologiques, sociales et juridiques ;
+
+3° d'organiser des activités de prévention et de promotion de la santé visant à permettre à tout individu d'accéder à une vie relationnelle, affective et sexuelle épanouie, d'assurer l'information et de susciter la réflexion sur ces thèmes, notamment en assurant des activités d'animations en matière d'éducation à la vie relationnelle, affective et sexuelle en particulier en milieu scolaire.
+
+Le nombre minimal d'heures d'animation d'éducation à la vie relationnelle affective et sexuelle en milieu scolaire est fixé par le Collège.
+
+Dans le respect de la législation en vigueur relative à l'interruption volontaire de grossesse, le centre peut développer des activités dans le domaine spécialisé de la pratique d'interruption volontaire de grossesse.
+
+Le centre de planning familial peut développer des activités spécifiques dans des domaines plus spécialisés liées à ses missions notamment dans le cadre de la consultation conjugale et familiale, de la médiation familiale et de la consultation sexologique.
+
+Le centre de planning familial peut également développer des activités d'appui aux professionnels en matière de vie relationnelle, affective et sexuelle et de santé sexuelle et reproductive.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 16, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 13bis
+
+[<sup>1</sup> Afin de renforcer l'intégration de son action avec celle d'un centre social santé intégré se trouvant sur le territoire de son bassin d'aide et de soins, le centre de planning familial peut mettre en place une collaboration avec le centre concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 17, 010; En vigueur : 29-04-2024&gt;
+
+#### Section V. - Les maisons médicales
+
+###### Art. 14
+
+La maison médicale est un service ambulatoire qui dispense des soins de santé primaires dans une approche globale, tant organique que psychologique et sociale, considérant [<sup>1</sup> l'usager]<sup>1</sup> comme un sujet ayant une histoire personnelle et s'intégrant dans un environnement familial, professionnel et socio-économique. Ces soins intégrés incluent la prévention qui peut être réalisée, soit lors de contacts individuels, soit lors des actions menées vis-à-vis d'une population définie. Des soins continus sont dispensés en assurant la synthèse, la maîtrise et le suivi de l'information relative à l'ensemble des problèmes de santé vécus par [<sup>1</sup> l'usager]<sup>1</sup> tout au long de sa prise en charge.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 18, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 15
+
+La maison médicale exerce, dans le cadre du développement des soins de santé intégrée, les missions suivantes :
+
+1° dispenser des soins de santé primaires, soit des soins de première ligne dispensés en consultation et à domicile et le suivi préventif;
+
+2° [<sup>1</sup> assurer des fonctions d'action communautaire, fondée sur la mission visée au 3° de manière à avoir un impact favorable sur les déterminants de la santé de la population concernée ;]<sup>1</sup>
+
+3° assurer des fonctions d'observatoire de la santé en première ligne, soit recueillir des données permettant une description épidémiologique de la population desservie, l'évaluation des objectifs et l'auto-évaluation des activités de la maison médicale en vue d'une amélioration de la qualité des soins;
+
+4° assurer des fonctions d'accueil [<sup>1</sup> pouvant prendre différentes formes avec a minima un accueil physique de l'usager ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 19, 010; En vigueur : 29-04-2024&gt;
+
+#### Section VI. - Les services de médiation de dettes
+
+###### Art. 16
+
+[<sup>1</sup> Le service de médiation de dettes est un service ambulatoire qui preste des services, à l'exclusion de la conclusion d'un contrat de crédit, en vue de venir en aide de manière préventive ou curative aux personnes surendettées, c'est-à-dire aux personnes physiques qui rencontrent des difficultés financières ou sont dans l'impossibilité de faire face à leurs dettes exigibles ou à échoir. Le service de médiation de dettes a pour but de trouver une solution durable au problème de surendettement du débiteur. Il vise à lui assurer des conditions de vie conformes à la dignité humaine en l'aidant à respecter dans la mesure du possible ses engagements envers les créanciers.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 20, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 17
+
+[<sup>1</sup> Le service de médiation de dettes exerce les missions suivantes :
+
+1° L'accueil
+
+Le service de médiation de dettes exerce les missions d'accueil et d'information pour les personnes et ménages en situation de surendettement ou en difficultés financières et leur famille.
+
+2° Le suivi en médiation de dettes
+
+Le service de médiation de dettes réalise une analyse budgétaire (ressources et dépenses du ménage), un inventaire des dettes et procède, avec l'aide du juriste, à l'examen de la légalité des montants qui sont réclamés. Dans la mesure du possible et en accord avec le ou les usagers, il établit un budget respectant la dignité humaine du ménage et négocie un plan de remboursement ou un moratoire avec les créanciers.
+
+3° L'accompagnement
+
+Le service de médiation de dettes assure, en son sein et en concertation avec l'usager, la guidance budgétaire, psychosociale et administrative nécessaire au bon déroulement du plan de remboursement. Il peut également orienter ou réorienter les usagers en fonction de leurs besoins vers des personnes ou institutions plus appropriées.
+
+4° La prévention
+
+Le service de médiation de dettes peut organiser des activités de prévention ou collaborer à l'organisation d'activités ayant pour objet la prévention du surendettement.
+
+Les activités de prévention peuvent notamment consister en :
+
+1\. l'information, la sensibilisation et l'éducation de la population ainsi que des acteurs socio-sanitaires, psychosociaux, scolaires et socioculturels en matière de surendettement et de gestion budgétaire ;
+
+2\. des interventions spécifiques de prévention envers des groupes ciblés, notamment envers des personnes confrontées ou susceptibles d'être confrontées à des problèmes de surendettement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 21, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 17bis
+
+[<sup>1</sup> Afin de renforcer l'intégration de son action avec celle d'un centre social santé intégré se trouvant sur le territoire de son bassin d'aide et de soins, le service de médiation de dettes peut mettre en place une collaboration avec le centre concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 22, 010; En vigueur : 29-04-2024&gt;
+
+#### Section VII. - Les services d'aide aux justiciables
+
+###### Art. 18
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 4, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 19
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 4, 003; En vigueur : 01-01-2016&gt;
+
+#### Section VIII. - Les services " Espaces-Rencontres "
+
+###### Art. 20
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 4, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 21
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 4, 003; En vigueur : 01-01-2016&gt;
+
+#### Section IX. - Les centres de coordination de soins et de services à domicile
+
+###### Art. 22
+
+Le [<sup>2</sup> service de coordination de soins et d'aide à domicile]<sup>2</sup> [<sup>1</sup> , en abrégé [<sup>3</sup> service]<sup>3</sup> de coordination, ]<sup>1</sup> est un service ambulatoire qui vise à permettre à toute personne de vivre sa maladie [<sup>3</sup> ,]<sup>3</sup> son handicap [<sup>3</sup> ou son vieillissement]<sup>3</sup> à son domicile dans la dignité et dans le respect de sa liberté. Il organise la coordination des soins et des services à domicile. Il établit, en concertation avec le médecin traitant, les prestataires de soins et de services, [<sup>3</sup> l'usager]<sup>3</sup> et son entourage, un plan de soutien dont il assure l'évaluation régulière et la coordination.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 5, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 3, 010; En vigueur : 29-04-2024&gt;
+
+(3)&lt;DCFR 2024-02-01/22, art. 23, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 22bis
+
+[<sup>1</sup> Le service de coordination veille, dans l'organisation de ses missions, à impliquer prioritairement des acteurs implantés dans le bassin de soins où séjourne l'usager.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 24, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 23
+
+[<sup>1</sup> service de coordination de soins et d'aide à domicile]<sup>1</sup> :
+
+1° organise, à la demande [<sup>2</sup> de l'usager]<sup>2</sup> ou de son représentants et en collaboration avec son médecin traitant, [<sup>2</sup> si nécessaire,]<sup>2</sup> l'ensemble des soins et des services nécessaires. à son maintien à domicile;
+
+2° organise à la demande [<sup>2</sup> de l'usager]<sup>2</sup> ou de son représentant et en collaboration avec son médecin traitant, l'ensemble des soins et des services permettant d'assurer la continuité des soins et des services ainsi qu'une [<sup>2</sup> veille]<sup>2</sup> vingt-quatre heures sur vingt-quatre et sept jours sur sept, afin d'éviter ou de raccourcir l'hospitalisation.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 3, 010; En vigueur : 29-04-2024&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 25, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 24
+
+[<sup>1</sup> Afin de renforcer l'intégration de son action avec celle d'un centre social santé intégré se trouvant sur son territoire d'intervention, les services de coordination de soins et de services à domicile peuvent mettre en place une collaboration avec le centre concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 26, 010; En vigueur : 29-04-2024&gt;
+
+#### Section X. - Les services de soins palliatifs et continués
+
+###### Art. 25
+
+[<sup>1</sup> Le service de soins palliatifs et continués est un service ambulatoire qui a pour objectif le développement de la connaissance et de la pratique des soins palliatifs et continués en vue de rencontrer au mieux, à domicile ou dans un lieu d'hébergement ou d'accueil extra-hospitalier, les besoins physiques et/ou psychologiques, sociaux, moraux, existentiels et spirituels des [<sup>2</sup> usagers]<sup>2</sup> atteints d'une maladie grave, chronique et évolutive, mettant en péril le pronostic vital et de leurs proches et aidants proches.]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2018-11-29/07, art. 2, 005; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 27, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 26
+
+[<sup>1</sup> § 1er Le service de soins palliatifs et continués exerce obligatoirement la mission suivante :
+
+Sensibiliser, assurer la formation, théorique ou pratique, la formation continue et/ou la supervision d'intervenants professionnels ou bénévoles extérieurs au service, amenés à traiter ou à soutenir le [<sup>2</sup> usager]<sup>2</sup> atteint d'une maladie grave, chronique et évolutive mettant en péril le pronostic vital et ses proches et aidants proches.
+
+§ 2 Le service de soins palliatifs et continués peut, en outre, exercer tout ou partie de la mission suivante :
+
+Assurer la prise en compte de la souffrance psychique et/ou sociale et/ou spirituelle via l'organisation ou la pratique d'interventions psychologiques et psychosociales que nécessite un [<sup>2</sup> usager]<sup>2</sup> atteint d'une maladie grave, chronique et évolutive mettant en péril le pronostic vital et ses proches et aidants proches.
+
+§ 3 Le service de soins palliatifs et continués peut, en outre, exercer la mission suivante :
+
+Organiser et dispenser des soins palliatifs et continués, en étroite collaboration avec le médecin traitant et notamment avec une équipe hospitalière, un centre de coordination ou un ensemble d'intervenants pluridisciplinaires ainsi que la surveillance vingt-quatre heures sur vingt-quatre et sept jours sur sept en dehors des soins pris en charge par l'assurance maladie invalidité.
+
+§ 4 [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2018-11-29/07, art. 3, 005; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 28, 010; En vigueur : 29-04-2024&gt;
+
+#### Section XI. - Les services d'aide à domicile
+
+###### Art. 27
+
+Le service d'aide à domicile est un service ambulatoire qui favorise le maintien et le retour à domicile et assure, aussi longtemps que nécessaire, l'accompagnement et l'aide aux actes de la vie journalière des personnes isolées, âgées, handicapées, malades et des familles en difficulté.
+
+###### Art. 28
+
+Le service d'aide à domicile exerce les missions suivantes :
+
+1° permettre aux [<sup>1</sup> usagers]<sup>1</sup> de mieux vivre à domicile, d'acquérir et de préserver leur autonomie, avec le soutien d'aides familiaux, seniors et ménagers, en concertation avec l'environnement familial et de proximité et les autres intervenants professionnels s'il échoit;
+
+2° accorder l'aide par priorité à ceux qui en ont le plus besoin et qui sont les plus démunis sur le plan financier, de la santé physique ou psychique ainsi que sur le plan social.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 29, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 28bis
+
+[<sup>1</sup> Au sein d'un même bassin, le service d'aide à domicile organise des tournées de soins afin de limiter les déplacements de son équipe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 30, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 29
+
+§ 1er. L'aide familial ou senior est un professionnel à caractère polyvalent. Il assiste et seconde les [<sup>1</sup> usagers]<sup>1</sup> dans la réalisation des tâches de la vie quotidienne. Il prévient notamment des dangers qui menacent le [<sup>1</sup> usager]<sup>1</sup> ou son entourage. Il mène une action de concertation avec [<sup>1</sup> l'usager]<sup>1</sup> et ses collègues et collabore avec tous les acteurs médico-sociaux entourant [<sup>1</sup> l'usager]<sup>1</sup>;
+
+§ 2. L'aide ménager assure l'entretien des pièces occupées du logement [<sup>1</sup> de l'usager]<sup>1</sup> et effectue des tâches ponctuelles avec l'accord du responsable d'équipe. Il travaille en concertation avec ses collègues et [<sup>1</sup> l'usager]<sup>1</sup>. Il prévient le service de toute évolution sur le plan financier, de la santé physique ou psychique qu'il constate chez [<sup>1</sup> l'usager]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 31, 010; En vigueur : 29-04-2024&gt;
+
+#### Section XII. - Les centres d'accueil téléphonique
+
+###### Art. 30
+
+Le centre d'accueil téléphonique est un service ambulatoire qui offre, par le biais du téléphone [<sup>1</sup> et, le cas échéant par tout autre moyen technique, en respectant ]<sup>1</sup> l'anonymat et le secret du dialogue, une aide à toute personne en état de crise ou de détresse psychologique.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 7, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 31
+
+[<sup>1</sup> § 1er. Le centre d'accueil téléphonique exerce les missions suivantes :
+
+1° Il organise, suivant les modalités fixées par le Collège, vingt-quatre heures sur vingt-quatre et tous les jours de l'année, un accueil téléphonique et, le cas échéant, une orientation qui répond le mieux à la situation ou aux difficultés qui ont motivé l'appel. Cet accueil peut également se faire via tout autre moyen respectant l'anonymat et le secret du dialogue.
+
+2° Il assure la supervision de l'activité des écoutants.
+
+§ 2. Le centre d'accueil téléphonique peut également mener des activités :
+
+1° de prévention et de sensibilisation envers le public en général ou les professionnels concernant les problématiques rencontrées lors de l'accueil visé au § 1er, 1° ;
+
+2° de promotion du volontariat;
+
+3° d'observatoire social de la parole;
+
+4° de formation à l'écoute. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 8, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 31bis
+
+[<sup>1</sup> Le centre d'accueil téléphonique peut également se spécialiser dans certaines problématiques, pour lesquelles il exerce les missions spécifiques suivantes :
+
+\- l'accompagnement psychologique de la personne en difficulté ;
+
+\- l'accompagnement des familles et proches de la personne en difficulté ;
+
+\- l'accompagnement des services et structures dans lesquelles s'inscrit la personne en difficulté ;
+
+\- la mise en place d'une cellule de soutien à la prévention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 32, 010; En vigueur : 29-04-2024&gt;
+
+### Chapitre III. [<sup>1</sup> Définitions et missions du centre social santé intégré]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 33, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 31ter
+
+[<sup>1</sup> Le centre social santé intégré est un service ambulatoire qui offre aux usagers une prise en charge généraliste intégrée de santé somatique, mentale et action sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 34, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 31quater
+
+[<sup>1</sup> Le centre social santé intégré exerce les missions générales suivantes :
+
+1° aider la personne dans sa globalité et dans toutes ses possibilités d'intégration en offrant un premier accueil aux usagers, analyser leur situation et, le cas échéant, orienter leur demande vers le service compétent au sein du centre ou vers un autre service spécialisé ;
+
+2° développer le lien social et un meilleur accès des personnes aux équipements collectifs et à leurs droits fondamentaux. Agir sur l'ensemble des facteurs de précarisation sociale ;
+
+3° susciter la participation active des personnes aidées, les intégrer, elles et leur famille, dans la vie citoyenne ;
+
+4° dispenser des soins de santé primaire tels que visés aux articles 14 et 15 ;
+
+5° assurer un accompagnement et un suivi de l'usager dans la durée ;
+
+6° assurer un accompagnement psychologique généraliste ;
+
+7° assurer des fonctions d'observatoire de la santé et du social, tel que visé à l'article 15, 3° ;
+
+8° assurer des fonctions d'action communautaire ;
+
+9° renforcer les liens avec certains autres services ambulatoires, notamment en mettant en place des collaborations ;
+
+10° garantir la prise en charge de tous les usagers et ce indépendamment de leur statut administratif et de leur assurabilité financière ;
+
+11° accompagner l'usager dans ses démarches administratives pour obtenir une assurabilité financière ;
+
+12° mettre en place des dispositifs de liaison interprofessionnelle ;
+
+13° tout en laissant le choix à l'usager de changer de service ambulatoire, mettre en place des pratiques permettant la continuité dans la démarche de l'aide et des soins au sein du centre social santé intégré, y compris lorsque l'usager choisit librement de changer de service ambulatoire afin de le maintenir dans le système soignant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 35, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 31quinquies
+
+[<sup>1</sup> § 1er. - Le centre social santé intégré peut en outre exercer une fonction inclusive spécifique, devant consister à :
+
+1° mettre en place un service d'outreaching en vue d'aller à la rencontre des populations qui ont un accès plus difficile aux soins ou aux services ;
+
+2° assurer l'accueil et la prise en charge d'un pourcentage minimum, tel que fixé par le Collège, des ayants droit à l'aide médicale urgente émise par le centre public d'action social ou au réquisitoire émis par FEDASIL ;
+
+3° et prévoir une réactivité aux situations d'urgence afin d'accueillir des dispositifs externes d'accès aux droits et aux services nécessaires à la gestion de la situation d'urgence.
+
+§ 2. - Pour exercer cette fonction inclusive, le service ambulatoire doit :
+
+1° faire une demande d'extension de cadre qui doit être introduite auprès des services du Collège ;
+
+2° assortir cette demande d'un rapport établissant le besoin de la population du groupement de quartiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 36, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 31sexies
+
+[<sup>1</sup> Afin d'assurer l'exercice de ses missions, le centre social santé intégré peut bénéficier d'un accompagnement. Les modalités de cet accompagnement sont fixées par le Collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 37, 010; En vigueur : 29-04-2024&gt;
+
+## TITRE II. - Agrément, normes, subventions, contrôle et inspection
+
+### CHAPITRE Ier. - Conditions d'agrément
+
+#### Section Ire. - Conditions générales d'agrément
+
+###### Art. 32
+
+[<sup>2</sup> Jusqu'à l'adoption d'une programmation conjointe avec la Commission communautaire commune, le]<sup>2</sup> Collège établit, après avis du Conseil consultatif, une programmation incluant un nombre de services par secteur en tenant compte de l'offre existante et des besoins constatés d'un point de vue sociologique, géographique, épidémiologique et socioéconomique.
+
+Dans le cadre de cette programmation, le Collège fixe le nombre de nouveaux services qu'il peut agréer par secteur. Le Collège peut aussi renforcer [<sup>1</sup> , après avis du Conseil consultatif et en dehors de la programmation ]<sup>1</sup> les équipes des services ambulatoires agréés.
+
+Le Collège communique la programmation à l'Assemblée de la Commission communautaire française.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 9, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 38, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 33
+
+[<sup>1</sup> Pour être agréé, le service ambulatoire satisfait aux conditions suivantes :
+
+1° être constitué sous forme de personne sans but lucratif, dont l'objet social est en lien avec le secteur pour lequel il sollicite son agrément ;
+
+2° exercer ses activités principalement sur le territoire de la Région bilingue de Bruxelles-Capitale ;
+
+3° compter, dans l'équipe des travailleurs de l'association sans but lucratif, une personne chargée d'être le point de contact du service ambulatoire ;
+
+4° être accessible à toutes et tous, sans distinction d'ordre sexuel, politique, culturel, racial, philosophique, religieux ou d'orientation sexuelle, sans aucune discrimination au sens du décret du 9 juillet 2010 relatif à la lutte contre certaines formes de discrimination et à la mise en oeuvre du principe de l'égalité de traitement, avec une attention particulière à l'accessibilité et l'accueil des personnes en situation de handicap, qu'il soit d'ordre physique, sensoriel ou intellectuel ;
+
+5° respecter les règles de déontologie et de secret professionnels afférentes aux diverses professions ;
+
+6° garantir la confidentialité dans l'organisation de ses locaux ;
+
+7° mener une démarche d'évaluation qualitative conformément au titre IV ;
+
+8° respecter les conditions sectorielles d'agrément et les normes d'agrément ;
+
+9° souscrire une assurance en responsabilité civile professionnelle ;
+
+10° souscrire une assurance en responsabilité des administrateurs ;
+
+11° respecter les obligations générales applicables aux asbl qui découlent du Code des sociétés et des associations ;
+
+12° être accessible à toutes et tous, et particulièrement aux publics présentant des vulnérabilités socio-économiques et sanitaires ;
+
+13° garantir que l'ensemble des prestataires de soins appliquent les tarifs conventionnés et fixés par l'Institut national d'assurance maladie invalidité.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 39, 010; En vigueur : 29-04-2024&gt;
+
+#### Section II. - Conditions sectorielles d'agrément
+
+##### Sous-section Ire. - Conditions d'agrément des services de santé mentale
+
+###### Art. 34
+
+§ 1er. Pour être agréé comme service de santé mentale, le service comprend une équipe pluridisciplinaire qui assure au moins les fonctions suivantes :
+
+1° la fonction psychiatrique;
+
+2° la fonction psychologique;
+
+3° la fonction sociale;
+
+4° la fonction d'accueil et de secrétariat.
+
+Pour assurer ces fonctions, le service comprend une équipe minimale qui assure des prestations équivalentes au moins à un temps plein de travail pour chacune des fonctions visées aux 1°, 2°, 3° et 4°.
+
+§ 2. [<sup>1</sup> A l'exception de la fonction psychiatrique pour laquelle l'obligation ne s'applique qu'à un mi-temps,]<sup>1</sup> l'équipe minimale est composée de travailleurs qui sont engagés par le service de santé mentale pour des prestations équivalant au moins à la moitié d'un temps plein de travail.
+
+§ 3. En outre, le service peut comprendre une équipe pluridisciplinaire spécialisée dans la prise en charge des enfants et des adolescents, qui assure au moins les fonctions pédopsychiatrique, psychologique et sociale. Pour assurer chacune de ces fonctions, cette équipe est composée de personnes qui assurent des prestations équivalant au moins à un demi temps plein de travail pour la fonction pédopsychiatrique et aux trois quarts d'un temps plein de travail pour la fonction psychologique et la fonction sociale.
+
+§ 4. [<sup>2</sup> Le service peut comprendre une équipe pluridisciplinaire spécialisée dans la guidance et le traitement d'auteurs d'infractions à caractère sexuel qui assure au moins les fonctions psychiatriques, psychologique et sociale. Pour assurer chacune de ces fonctions, cette équipe est composée de personnes qui assurent des prestations équivalant au moins à un quart d'équivalent temps plein de travail pour la fonction psychiatrique, à un demi équivalent temps plein de travail pour la fonction psychologique et à un quart d'équivalent temps plein de travail pour la fonction sociale.]<sup>2</sup>
+
+[<sup>2</sup> § 5. - L'équipe peut également assurer des fonctions complémentaires, notamment dans le domaine de la médecine, des soins infirmiers, de la pédagogie, de la sociologie, de l'anthropologie et des sciences humaines et sociales, de la criminologie, de la psychomotricité, de la logopédie, de l'ergothérapie, d'éducateur et en ce compris dans l'emploi de pair-aidant. Ces fonctions complémentaires sont directement liées aux activités menées par le service de santé mentale dans le cadre de ses missions générales et, le cas échéant, de ses projets spécifiques.]<sup>2</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 11, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 40, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 35
+
+§ 1er. Le service de santé mentale est situé de façon à répondre au mieux aux intérêts des [<sup>1</sup> usagers]<sup>1</sup> et de la population qu'il dessert. Il veille à permettre à ceux-ci un accès aisé.
+
+§ 2. Le service de santé mentale organise une permanence d'accueil.
+
+§ 3. Afin d'assurer le suivi des [<sup>1</sup> usagers]<sup>1</sup> et en accord avec ceux-ci, il organise également leur prise en charge à domicile, au lieu de résidence ou d'hébergement, ou en tout autre endroit utile.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 41, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section II. - Conditions d'agrément des [<sup>1</sup> services actifs en matière de drogues et addictions]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 2, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 36
+
+Pour être agrée comme [<sup>1</sup> service actif en matière de drogues et addictions]<sup>1</sup>, le service exerce au moins deux missions visées aux articles 7 et 8, dont l'une au moins est générale.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 2, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 37
+
+§ 1er. Pour être agréé comme [<sup>2</sup> service actif en matière de drogues et addictions]<sup>2</sup>, le service comprend [<sup>3</sup> une équipe de base minimale composée de 4 équivalents temps plein, dont au moins un mi-temps par mission agréée et inclut au surplus une fonction de coordination, à laquelle au minimum un quart-temps est dédié.]<sup>3</sup>.
+
+§ 2. [<sup>1</sup> A l'exception de la fonction de médecin généraliste et de médecin psychiatre, ]<sup>1</sup> l'équipe minimale est composée de travailleurs qui sont engagés par le service pour des prestations équivalant au moins à la moitié d'un temps plein de travail.
+
+§ 3. L'équipe peut également assurer des fonctions complémentaires directement liées aux activités menées par le [<sup>2</sup> service actif en matière de drogues et addictions]<sup>2</sup> dans le cadre de ses missions générales et particulières.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 12, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 2, 010; En vigueur : 29-04-2024&gt;
+
+(3)&lt;DCFR 2024-02-01/22, art. 42, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 37bis
+
+[<sup>1</sup> § 1er. Pour être agréé comme service ambulatoire organisant une salle de consommation à moindre risque, le service doit poursuivre les finalités et mettre en oeuvre les activités suivantes :
+
+1° En ce qui concerne les usagers :
+
+\- réduire les risques de surdose (létale ou non), d'infections et d'autres complications liées à la consommation de drogues en procurant un environnement respectant des règles d'hygiène fondamentales, en fournissant du matériel stérile et en supervisant la consommation ;
+
+\- encourager les usagers à pratiquer des dépistages de maladies infectieuses (VIH, hépatites notamment) afin de connaître leur statut sérologique ;
+
+\- améliorer l'accès aux soins somatiques, psychologiques et l'accès aux traitements des dépendances des usagers les plus précaires en favorisant leur inscription dans le circuit de soins et les services socio-sanitaires (orientations) ;
+
+\- stabiliser les usagers en leur donnant accès à un suivi social pour favoriser leur réinsertion et restaurer leur dignité ;
+
+\- constituer une porte d'entrée vers la remise en ordre socio-administrative et l'hébergement ;
+
+\- créer et maintenir un lien social avec des personnes marginalisées, voire exclues du système de droit commun.
+
+2° En ce qui concerne l'environnement :
+
+\- améliorer la tranquillité publique et le cadre de vie pour les riverains ;
+
+\- réduire les consommations de drogues et les nuisances associées dans l'espace public ;
+
+\- diminuer la visibilité de l'usage notamment liées aux scènes ouvertes de consommation ;
+
+\- diminuer la présence de seringues et des déchets associés à la consommation dans l'espace public.
+
+§ 2. Pour être agréé comme service ambulatoire organisant une salle de consommation à moindre risque, le service doit également disposer, dans son personnel ou par convention, d'une équipe pluridisciplinaire minimale composée :
+
+\- d'un demi équivalent temps plein [<sup>3</sup> médecin]<sup>3</sup> ;
+
+\- d'un demi équivalent temps plein remplissant la fonction psychologique ;
+
+\- d'un équivalent temps plein remplissant la fonction sociale ;
+
+\- d'un équivalent temps plein infirmier ;
+
+\- d'un équivalent temps plein remplissant la fonction d'accueil et/ou administrative.
+
+§ 3. Pour être agréé comme service ambulatoire organisant une salle de consommation à moindre risque, le service doit enfin :
+
+1° disposer de locaux adaptés en termes de logique de trajectoire de soins, transdisciplinaire et d'accueil inconditionnel offrant des garanties en termes de sécurisation des lieux et des alentours, conformément à l'art 113 du présent décret ;
+
+2° organiser une collaboration effective avec un ou plusieurs établissements hospitaliers. Le Collège détermine le contenu de la collaboration avec les établissements hospitaliers ;
+
+3° collaborer avec les services ambulatoires et plus spécifiquement les services actifs en matière de toxicomanie. Le Collège détermine les modalités de la collaboration avec les services ambulatoires ;
+
+4° disposer d'un règlement d'ordre intérieur. Le Collège fixe le contenu minimum du règlement d'ordre intérieur ;
+
+5° disposer d'un contrat à faire signer préalablement par chaque usager de la salle. Le Collège fixe le contenu du contrat ;
+
+6° organiser des rencontres périodiques avec le voisinage et disposer d'une ligne téléphonique directe permettant aux riverains de prévenir les responsables de la salle en cas d'événements problématiques. Le Collège détermine les modalités d'organisation des rencontres périodiques et de la ligne téléphonique ;
+
+7° disposer d'une convention de collaboration établissant un lien structurel avec la zone de police concernée et le service de prévention de la commune concernée avec la signature de protocole et l'organisation de comités de pilotage et d'accompagnement. Le Collège détermine le contenu de la convention de collaboration.]<sup>1</sup>
+
+[<sup>2</sup> 8. offrir les médicaments et dispositifs médicaux qui concourent à diminuer les dommages de santé publique liés à certaines consommations particulièrement risquées.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2019-05-09/05, art. 3, 006; En vigueur : 10-06-2019&gt;
+
+(2)&lt;DEC 2023-06-15/31, art. 3, 007; En vigueur : 21-01-2024&gt;
+
+(3)&lt;DCFR 2024-02-01/22, art. 43, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section III. - Conditions d'agrément des centres d'action sociale globale
+
+###### Art. 38
+
+Pour être agréé comme centre d'action sociale globale, le centre satisfait aux conditions suivantes :
+
+1° [<sup>1</sup> sans préjudice des dispositions prévues à l'article 40, garantir une accessibilité aux personnes selon les modalités définies par le Collège ;]<sup>1</sup>
+
+2° [<sup>1</sup> assurer une permanence sociale, libre et sans rendez-vous, dans ou en dehors des locaux du centre d'action sociale global, visant à prendre en charge la demande de la personne. Le Collège fixe les modalités de fonctionnement des permanences sociales ;]<sup>1</sup>
+
+[<sup>1</sup> 3° collaborer avec les centres d'action sociale globale agréés, conformément à l'article 11. Le Collège fixe les modalités de collaboration entre les centres.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 44, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 39
+
+[<sup>1</sup> § 1er. - Pour être agréé comme centre d'action sociale globale, le centre comporte une équipe d'au moins 3 équivalents temps plein remplissant la fonction sociale et d'un équivalent temps plein remplissant une fonction administrative.
+
+§ 2. - En vue de poursuivre l'approfondissement des missions, cette équipe de base peut être complétée, au besoin, par une équipe complémentaire en vertu de critères fixés par le Collège.
+
+§ 3. - Un des professionnels remplissant la fonction sociale assure la responsabilité de la coordination. Le temps de travail de coordination est lié au temps de travail de la fonction sociale selon les modalités déterminées par le Collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 45, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 40
+
+Suivant les nécessités motivées dans le dossier de demande d'agrément, le Collège peut autoriser l'existence d'une ou plusieurs antennes pour un même centre d'action sociale globale à condition que les activités liées à l'action sociale globale et la permanence de premier accueil y soient assurées par un professionnel qualifié pour assurer la fonction sociale.
+
+##### Sous-section IV. - Conditions d'agrément des centres de planning familial
+
+###### Art. 41
+
+§ 1er. Pour être agréé comme centre de planning familial, le centre dispose d'une équipe pluridisciplinaire. Chaque équipe assure au moins les fonctions suivantes :
+
+1° d'accueil;
+
+2° médicales et gynécologiques;
+
+3° psychologiques;
+
+4° sociales;
+
+5° juridiques;
+
+6° [<sup>1</sup> de soutien administratif ]<sup>1</sup>.
+
+[<sup>1</sup> 7° de prévention et d'animation en matière d'éducation à la vie relationnelle, affective et sexuelle, notamment en milieu scolaire ;
+
+8° de coordination.]<sup>1</sup>
+
+En outre le centre peut exercer les fonctions sexologiques, de conseil conjugal et de médiation familiale.
+
+§ 2. Les missions d'accueil et de prévention sont exercées par les personnes titulaires des diplômes requis pour exercer les fonctions citées au § 1er, à l'exception de la fonction [<sup>1</sup> de soutien administratif]<sup>1</sup>.
+
+§ 3. Les activités de prévention peuvent être confiées à des personnes extérieures à l'équipe appelées par le centre en raison de leur qualité de spécialistes.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 46, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 42
+
+Pour assurer les missions prévues à l'article 13 du décret et les fonctions visées à l'article 41, § 1er du décret, le cadre du personnel qui constitue l'équipe pluridisciplinaire de base comprend au minimum :
+
+1° un médecin dont le volume hebdomadaire de travail est d'au moins zéro seize équivalent temps plein,
+
+2° un(e)psychologue ou un(e) psychiatre à raison d'au moins zéro seize équivalent temps plein;
+
+3° un(e) assistant(e) social(e) ou infirmier(ère) [<sup>2</sup> ...]<sup>2</sup> social(e) à raison d'au moins zéro seize équivalent temps plein [<sup>2</sup> ou infirmier(ère) spécialisé(e) en santé communautaire " sont insérés entre les mots " infirmier(ère) gradué(e) social(e) " et les mots " à raison d'au moins zéro seize équivalent temps plein]<sup>2</sup>;
+
+4° un(e) juriste à raison d'au moins zéro seize équivalent temps plein;
+
+5° un travailleur(euse) administratif(ive) [<sup>1</sup> ...]<sup>1</sup>engagé(e) à mi-temps au moins.
+
+[<sup>2</sup> 6° un(e) responsable de la coordination engagé(e) à un quart d'équivalent temps plein au moins.]<sup>2</sup>
+
+Le cadre minimal peut, en outre, comporter :
+
+1° un(e) sexologue à raison d'au moins zéro seize équivalent temps plein;
+
+2° un(e) conseiller(ère) conjugal(e) [<sup>1</sup> ...]<sup>1</sup> à raison d'au moins zéro seize équivalent temps plein.
+
+[<sup>2</sup> 3° un(e) sage-femme à raison d'au moins zéro seize équivalent temps plein ;
+
+4° un(e) travailleur(euse) titulaire de la spécialisation en santé communautaire à raison d'au moins zéro seize équivalent temps plein ;
+
+5° un(e) éducateur(rice) spécialisé(e) à raison d'au moins zéro seize équivalent temps plein ;
+
+6° un(e) assistant(e) en psychologie à raison d'au moins zéro seize équivalent temps plein.]<sup>2</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 13, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 47, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section V. - Conditions d'agrément des maisons médicales
+
+###### Art. 43
+
+[<sup>1</sup> Pour être agréé comme maison médicale, le service comprend une équipe pluridisciplinaire composée au minimum de deux médecins agréés comme titulaires du titre professionnel particulier de médecin généraliste, d'un professionnel de la santé, non médecin, disposant d'un agrément en vertu de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, ainsi que de personnel d'accueil.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 48, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 44
+
+Le cadre minimal comprend un équivalent temps plein de fonction d'accueil et un demi équivalent temps plein de fonction de santé communautaire.
+
+###### Art. 44bis
+
+[<sup>1</sup> Le service pourra solliciter, via une demande de modification d'agrément telle que prévue aux articles 77, 78 et 78bis, une extension du cadre pour l'équivalent d'un demi temps plein de fonction d'assistant social.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 49, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 45
+
+Le service s'assure la collaboration de travailleurs sociaux et de psychothérapeutes.
+
+##### Sous-section VI. - Conditions d'agrément des services de médiation de dettes
+
+###### Art. 46
+
+[<sup>1</sup> Par dérogation à l'article 33, 1°, le service de médiation de dettes, conformément à la loi du 12 juin 1991 relative au crédit à la consommation, peut être organisé par une personne morale de droit public qui exerce ses activités dans la Région bilingue de Bruxelles-Capitale si elle est agréée à cette fin.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 50, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 47
+
+[<sup>1</sup> Pour être agréé comme service de médiation de dettes, le service doit avoir l'aide aux personnes en difficulté pour but social ou mission légale. Il comprend une équipe pluridisciplinaire qui assure au moins les fonctions suivantes :
+
+1° la fonction de médiation de dettes. Pour garantir l'exercice de cette fonction, le service affecte à la médiation de dettes au moins 3 ETP assistant social disposant d'une formation spécialisée ou d'une expérience professionnelle ;
+
+2° la fonction juridique. Pour garantir l'exercice de cette fonction, le service justifie de l'exécution de prestations juridiques par un juriste à raison d'au moins zéro trente-trois équivalent temps plein, disposant d'une formation spécialisée ou d'une expérience professionnelle en médiation de dettes et lié à l'institution par un contrat de travail ou par une convention.
+
+Cette convention peut aussi être conclue avec une association employant un ou des juristes répondant aux conditions visées au 1er alinéa ou encore avec l'organisme agréé en vertu de l'article 143 du décret du 5 mars 2009 ;
+
+3° la fonction d'accueil et de secrétariat. Pour garantir l'exercice de cette fonction, le service affecte 0,5 ETP à l'accueil et au secrétariat.
+
+Le Collège peut fixer le contenu minimal de la formation spécialisée visée aux 1° et 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 51, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 48
+
+Les conditions suivantes doivent être remplies à tout moment :
+
+1° l'honorabilité et le désintéressement du responsable, des mandataires, des préposés et du personnel du service de médiation de dettes;
+
+2° le président, l'administrateur, le directeur ou le mandataire ne peuvent avoir encouru, sans réhabilitation, une peine d'emprisonnement d'au moins un mois, même avec sursis, pour une infraction prévue à l'arrêté royal n° 22 du 24 octobre 1934 portant interdiction à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités et conférant aux tribunaux de commerce la faculté de prononcer de telles interdictions;
+
+3° le service de médiation de dettes jouit d'une indépendance suffisante vis-à-vis des [<sup>1</sup> usagers]<sup>1</sup> et ne peut exercer une activité de prêteur ou d'intermédiaire de crédit soumis à la loi du 12 juin 1991 relative au crédit à la consommation.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 52, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section VII. - Conditions d'agrément des services d'aide aux justiciables
+
+###### Art. 49
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 15, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 50
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 15, 003; En vigueur : 01-01-2016&gt;
+
+##### Sous-section VIII. - Conditions d'agrément des services " Espaces-Rencontres "
+
+###### Art. 51
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 15, 003; En vigueur : 01-01-2016&gt;
+
+##### Sous-section IX. [<sup>1</sup> Conditions d'agrément des services de coordination de soins et d'aide à domicile]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 53, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 52
+
+[<sup>1</sup> § 1er. - Pour être agréé comme service de coordination de soins et d'aide à domicile dans le cadre de la mission visée à l'article 23, 1°, le service, pour chaque usager, assure la coordination de tous les services nécessaires à son maintien à domicile, notamment :
+
+a) aide aux actes de la vie journalière par un service agréé comme service d'aide aux familles et aux personnes âgées ;
+
+b) accompagnement social ;
+
+c) soins infirmiers à domicile ;
+
+d) distribution de repas à domicile ;
+
+e) kinésithérapie ;
+
+f) prêt de matériel ;
+
+g) logopédie ;
+
+h) ergothérapie ;
+
+i) podologie ;
+
+j) télévigilance ;
+
+k) soutien psychologique ;
+
+l) soins bucco-dentaires ;
+
+m) coiffure.
+
+§ 2. - Le service de coordination organise un système de veille lui permettant de répondre aux urgences des usagers vingt-quatre heures sur vingt-quatre et sept jours sur sept.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 54, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 53
+
+Pour être agréé comme [<sup>1</sup> service]<sup>1</sup> de coordination dans le cadre de la mission visée à l'article 23, 2°, le service :
+
+1° organise et adapte journellement, en fonction de l'intensité de l'aide nécessaire, les services [<sup>1</sup> ...]<sup>1</sup> visés à l'article précédent § 1er[<sup>1</sup> ...]<sup>1</sup>;
+
+2° organise un système de [<sup>1</sup> veille]<sup>1</sup> et de surveillance vingt-quatre heures sur vingt-quatre et sept jours sur sept disposant d'un accès continu aux dossiers de coordination des [<sup>1</sup> usagers]<sup>1</sup> et organisant une intervention urgente [<sup>1</sup> si nécessaire]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 55, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 54
+
+Il est instauré 3 catégories de [<sup>1</sup> services de coordination de soins et d'aide à domicile]<sup>1</sup> en fonction :
+
+1° des missions :
+
+a) le [<sup>2</sup> service]<sup>2</sup> de coordination de catégorie 1 remplit la mission visée à l'article 23, 1°;
+
+b) le [<sup>2</sup> service]<sup>2</sup> de coordination de catégorie 2 ou 3 remplit les deux missions visées à l'article 23, 1° et 2°;
+
+2° du nombre de dossiers de coordination actifs :
+
+Le Collège fixe après avis du Conseil consultatif le nombre de dossiers de coordination actifs nécessaires par catégorie ainsi que les critères d'appréciation de l'importance de la coordination organisée autour [<sup>2</sup> de l'usager]<sup>2</sup>.
+
+3° [<sup>2</sup> de l'organisation du service et du type de système d'accueil téléphonique mis en place :
+
+a) le service de coordination de catégorie 1 ou 2 peut organiser le premier accueil téléphonique des usagers par un prestataire extérieur ;
+
+b) le service de coordination de catégorie 3 est un service de coordination intégré qui organise l'accueil téléphonique (analyse de la situation, réponse et orientation) de toutes les demandes exclusivement en interne au centre.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 3, 010; En vigueur : 29-04-2024&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 56, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 55
+
+§ 1er. Pour remplir ses missions, le [<sup>1</sup> service]<sup>1</sup> de coordination dispose, au minimum, d'un employé temps plein de personnel de coordination, ci-après dénommé le coordinateur [<sup>1</sup> de soins et d'aide]<sup>1</sup>.
+
+Le [<sup>1</sup> service]<sup>1</sup> de coordination peut également disposer de personnel administratif et de direction.
+
+§ 2. Le Collège détermine le personnel subsidié dans chaque catégorie ainsi que les catégories de [<sup>1</sup> service]<sup>1</sup> de coordination qui bénéficient de personnel administratif et de direction.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 57, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 56
+
+Le [<sup>1</sup> service]<sup>1</sup> de coordination :
+
+1° tient à jour un dossier de coordination pour chaque [<sup>1</sup> usager]<sup>1</sup>. Le contenu de ce dossier est accessible aux personnes dispensant les soins et services et dont le [<sup>1</sup> service]<sup>1</sup> de coordination coordonne l'activité;
+
+2° établit une fiche de liaison au domicile de [<sup>1</sup> l'usager]<sup>1</sup>. Cette fiche ne comporte aucune donnée couverte par le secret médical.
+
+Le Collège détermine le contenu minimal du dossier de coordination et de la fiche de liaison.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 60, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 57
+
+Le centre de coordination organise la transmission de l'information, notamment par des réunions de travail consacrées à l'exécution du plan de soutien afin que les différents prestataires puissent échanger toutes les informations utiles à son exécution.
+
+##### Sous-section X. - Conditions d'agrément des services de soins palliatifs et continués
+
+###### Art. 58
+
+[<sup>1</sup> § 1er Pour remplir les missions visées à l'article 26 § 1er, le service de soins palliatifs et continués dispose, au moins au sein de son équipe, d'un travailleur porteur d'une qualification psycho-médico-sociale.
+
+§ 2 Pour remplir les missions visées à l'article 26 § 2, le service de soins palliatifs et continués assure une prise en charge de ses [<sup>2</sup> usagers]<sup>2</sup> en fonction de leurs besoins. Il dispose, au sein de son équipe, d'au moins un psychologue à 0.50 ETP au cadre agréé.
+
+§ 3 Pour remplir les missions visées à l'article 26 § 3, le service de soins palliatifs et continués organise et dispense journellement, en fonction de l'intensité de l'aide nécessaire, les services suivants :
+
+\- Soins infirmiers sept jours sur sept, vingt-quatre heures sur vingt-quatre permettant une intervention urgente et adaptée à la situation.
+
+\- Système de garde et de surveillance sept jours sur sept, vingt-quatre heures sur vingt-quatre permettant une intervention urgente et adaptée à la situation.
+
+Le service de soins palliatifs et continués à tout le moins, dispose au sein de son équipe, [<sup>2</sup> d'une infirmière ou d'un infirmier]<sup>2</sup> et collabore avec un médecin référent formé spécifiquement en soins palliatifs.
+
+§ 4 Le Collège détermine la composition des équipes nécessaires pour remplir les missions visées aux §§ 1 à 3 afin de préciser le lien entre l'encadrement et le volume d'activités.]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2018-11-29/07, art. 4, 005; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 60, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 59
+
+[<sup>1</sup> Le service de soins palliatifs et continués, qui assure les missions reprises à l'article 26 §§ 2 et 3, organise des réunions auxquelles les personnes extérieures à l'équipe qui participent à la prise en charge des [<sup>2</sup> usagers]<sup>2</sup> sont conviées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2018-11-29/07, art. 5, 005; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 61, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 60
+
+[<sup>1</sup> Il est instauré [<sup>2</sup> 3]<sup>2</sup> catégories de services de soins palliatifs et continués en fonction du nombre et du type de missions remplies :
+
+1° Le service de catégorie 1 remplit la mission visée à l'article 26, § 1er.
+
+2° Le service de catégorie 2 remplit les missions visées à l'article 26, §§ 1er et 2.
+
+3° Le service de catégorie 3 remplit les missions visées à l'article 26, §§ 1er, 2 et 3.
+
+4° [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2018-11-29/07, art. 6, 005; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 62, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 60bis
+
+[<sup>1</sup> Suivant les nécessités motivées dans le dossier de demande d'agrément, le Collège peut autoriser l'existence d'une ou plusieurs antennes pour un même service de soins palliatifs et continués. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2016-07-20/25, art. 17, 003; En vigueur : 01-01-2016&gt;
+
+##### Sous-section XI. - Conditions d'agrément des services d'aide à domicile
+
+###### Art. 61
+
+Pour être agréé comme service d'aide à domicile, le service :
+
+1° emploie à temps plein et de façon permanente au moins cinq aides familiaux [<sup>2</sup> ...]<sup>2</sup>. Un emploi à temps plein peut être remplacé par plusieurs emplois à temps partiel pour autant que la somme de ceux-ci correspondent au moins à un temps plein;
+
+2° applique aux aides familiaux et ménagers leur statut respectif tels que fixés par le Collège;
+
+3° [<sup>1</sup> occupe]<sup>1</sup> au moins à quart temps, dans les liens d'un contrat de travail, un responsable d'équipe, de formation assistant social ou assimilé pour cinq aides familiaux[<sup>2</sup> ...]<sup>2</sup> ou ménagers à temps plein;
+
+4° pour les services de plus de cent aides familiales, seniors et ménagères, désigner un directeur [<sup>2</sup> ...]<sup>2</sup>;
+
+[<sup>1</sup> 5° octroyer l'aide en priorité à ceux qui en ont le plus besoin. Le Collège fixe les modalités d'application de ces priorités après avis du Conseil consultatif. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 18, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 63, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section XII. - Conditions d'agrément des centres d'accueil téléphonique
+
+###### Art. 62
+
+Pour être agréé comme centre d'accueil téléphonique, le centre dispose d'une charte fixant les droits et devoirs réciproques du centre et des écoutants mentionnant expressément que l'adresse du centre, le nom de l'écoutant et son horaire de permanence ne peuvent pas être diffusés.
+
+###### Art. 63
+
+[<sup>1</sup> Le cadre minimum est de trois équivalents temps plein dont une fonction de direction, un responsable de la formation et une fonction de secrétariat.]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 19, 003; En vigueur : 01-01-2016&gt;
+
+#### Section II. [<sup>1</sup> Conditions d'agrément du centre social santé intégré]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 64, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 63bis
+
+[<sup>1</sup> Le centre social santé intégré est constitué sous la forme d'une asbl qui répond à l'une des caractéristiques suivantes :
+
+1° avoir pour objet de remplir les missions d'un centre social santé intégré ;
+
+2° avoir pour objet de mettre en place la collaboration entre plusieurs structures distinctes exploitant des services agréés distincts afin d'offrir un service correspondant aux normes d'agrément d'un centre social santé intégré ;
+
+3° disposer de plusieurs agréments qui ensemble répondent aux normes d'un centre social santé intégré.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 65, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 63ter
+
+[<sup>1</sup> Afin d'assurer son accessibilité, le centre social santé intégré prévoit des horaires d`accès étendus, flexibles et certaines plages horaires sans rendez-vous.
+
+Ces modalités sont fixées par le Collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 66, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 63quater
+
+[<sup>1</sup> Par dérogation à l'article 33, 1°, l'objet social du centre social santé intégré est en lien avec les missions prévues à l'article 31bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 67, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 63quinquies
+
+[<sup>1</sup> Le centre social santé intégré dispose d'une équipe pluridisciplinaire composée au moins du personnel suivant :
+
+\- trois équivalents temps plein remplissant la fonction d'assistance sociale ;
+
+\- un équivalent temps plein remplissant la fonction administrative ;
+
+\- un et demi équivalent temps plein remplissant la fonction d'accueil ;
+
+\- un demi équivalent temps plein remplissant la fonction d'action communautaire ;
+
+\- un équivalent temps plein remplissant la fonction de coordination ;
+
+\- deux médecins remplissant la fonction de médecine générale ;
+
+\- un professionnel de la santé, non médecin, disposant d'un agrément en vertu de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ;
+
+\- un demi équivalent temps plein remplissant la fonction psychologique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 36, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE II. - Procédure d'agrément
+
+#### Section Ire. - Demande d'agrément
+
+###### Art. 64
+
+[<sup>1</sup> § 1er. - Le service ambulatoire introduit une demande d'agrément auprès des services du Collège.
+
+Le Collège détermine les modalités d'introduction de cette demande. Cette demande d'agrément est accompagnée d'une note précisant la manière dont le service répond ou envisage de répondre aux missions pour lesquelles il demande à être agréé et dans laquelle il s'engage à respecter les conditions d'agrément et les normes générales, sectorielles ou du centre social santé intégré, visées au présent titre.
+
+§ 2. - Les documents suivants sont joints à la demande d'agrément :
+
+1° le nom de l'association sans but lucratif ;
+
+2° le nom du service ambulatoire ;
+
+3° le numéro d'entreprise ;
+
+4° le relevé d'identité bancaire ;
+
+5° le nom de la personne habilitée à représenter l'association sans but lucratif ;
+
+6° l'adresse du ou des sièges d'activités ;
+
+7° le nom de la personne chargée d'être le point de contact avec l'administration les services du Collège et sa désignation par le Conseil d'administration ;
+
+8° un document établissant que le service à la jouissance des locaux ;
+
+9° une attestation de l'assurance en responsabilité des administrateurs ;
+
+10° une attestation de l'assurance en responsabilité civile professionnelle du service ;
+
+11° un budget prévisionnel du service ambulatoire mentionnant toutes les subventions publiques acquises ou sollicitées, dont l'allocation pour les aidants-proches ;
+
+12° la composition de l'équipe, présente et sollicitée, avec fonctions, qualifications et temps de travail ;
+
+13° l'ensemble des ressources publiques dont dispose l'asbl.
+
+§ 3. - Les services du Collège déclarent la demande recevable si elle contient tous les documents visés ci-dessus, déclarés sincères et conformes et s'ils sont signés par la personne habilitée à représenter l'association sans but lucratif.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 69, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 65
+
+Lorsque la demande est déclarée recevable[<sup>1</sup> par les services du Collège, le dossier est instruit et une inspection est réalisée]<sup>1</sup> dans un délai de trois mois.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 70, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 66
+
+[<sup>1</sup> Les services du Collège soumettent ensuite le dossier de demande d'agrément comprenant l'analyse administrative ainsi que le rapport d'inspection au Conseil consultatif pour avis.]<sup>1</sup>
+
+Le Conseil consultatif rend son avis dans les trois mois à dater de sa saisine.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 71, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 67
+
+Le Conseil consultatif informe le demandeur de la date à laquelle son dossier est analysé et l'invite à venir présenter [<sup>1</sup> sa demande d'agrément]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 72, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 68
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 73, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 69
+
+Après avis du Conseil consultatif, ou en cas d'absence d'avis rendu dans les délais prescrits, le Collège statue sur la demande d'agrément et notifie sa décision d'octroi ou de refus d'agrément [<sup>1</sup> ...]<sup>1</sup> au demandeur.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 74, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 69bis
+
+[<sup>1</sup> La demande d'agrément se fait en deux temps, par la demande d'un agrément provisoire d'abord, ensuite d'un agrément définitif.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 75, 010; En vigueur : 29-04-2024&gt;
+
+#### Section II. - Agrément provisoire
+
+###### Art. 70
+
+[<sup>1</sup> Le Collège octroie un agrément provisoire pour une durée de deux ans, renouvelable maximum une fois, pour autant que le demandeur :
+
+1° respecte :
+
+a) pour les agréments par secteur, le point 1° de l'article 33 ;
+
+b) pour l'agrément centre social santé intégré, l'article 63bis ;
+
+2° s'engage à respecter, au plus tard 3 mois après le versement de la première avance de sa subvention, les points 2° à 13° de l'article 33 ;
+
+3° ait introduit une demande d'agrément provisoire conjointement auprès du Collège et des services du Collège accompagnée des documents prévus à l'article 64, § 1er et § 2, 1°, 2°, 3°, 4°, 5°, 11°, 12° et 13° ;
+
+4° s'engage à introduire auprès du Collège, au plus tard 3 mois après le versement de la première avance de sa subvention, les documents prévus à l'article 64, § 2, 6° à 10°.
+
+La décision du Collège accordant l'agrément provisoire précise les missions pour lesquelles le service ambulatoire est agréé provisoirement et, sauf pour les services d'aide à domicile, la composition de l'équipe subventionnée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 76, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 71
+
+Pendant la période couvrant l'agrément provisoire, [<sup>1</sup> une inspection par les services du Collège est réalisée afin de vérifier si]<sup>1</sup> le Service ambulatoire répond aux conditions d'agrément et aux normes.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 77, 010; En vigueur : 29-04-2024&gt;
+
+#### Section III. - Octroi et refus d'agrément
+
+###### Art. 72
+
+Six mois avant l'expiration de l'agrément provisoire, [<sup>2</sup> les services du Collège font]<sup>2</sup> actualiser [<sup>2</sup> par le service ambulatoire]<sup>2</sup> les documents visés à l'article 64, § 2. [<sup>2</sup> Le Collège]<sup>2</sup> soumet une proposition motivée d'agrément, de refus d'agrément ou de renouvellement d'agrément provisoire du service ambulatoire, pour avis au Conseil consultatif. Celui-ci rend son avis dans un délai maximum de trois mois à dater de sa saisine. [<sup>1</sup> L'agrément est octroyé pour une durée indéterminée.]<sup>1</sup> Tant que le Collège n'a pas statué sur l'octroi, le refus de l'agrément ou le renouvellement de l'agrément provisoire, le service ambulatoire conserve son agrément provisoire.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 22, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 78, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 73
+
+En cas de proposition de refus d'agrément, le Conseil consultatif informe la personne habilitée à représenter l'association sans but lucratif de la date à laquelle la proposition est examinée et l'invite à faire valoir ses observations [<sup>1</sup> dans le mois qui suit]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 79, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 74
+
+Le Conseil consultatif rend son avis quelle que soit la suite donnée par l'association sans but lucratif à l'invitation à faire valoir ses observations.
+
+###### Art. 75
+
+Après avis du Conseil consultatif, ou en cas d'absence d'avis rendu dans les délais prescrits, la décision du Collège, portant l'agrément, le refus d'agrément ou le renouvellement d'agrément provisoire est notifiée au demandeur.
+
+###### Art. 76
+
+La décision du Collège accordant l'agrément précise les missions pour lesquelles le service ambulatoire est agréé et, sauf pour les services d'aide à domicile, la composition de l'équipe subventionnée.
+
+#### Section IV. - Modification d'agrément
+
+###### Art. 77
+
+En cas de modification du nom de l'association sans but lucratif, de l'adresse du ou des sièges d'activités, des missions, de la manière dont elles sont exercées ou du cadre agréé, le service [<sup>1</sup> ambulatoire]<sup>1</sup> introduit une demande de modification d'agrément.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 80, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 78
+
+[<sup>2</sup> §1]<sup>2</sup> La demande de modification d'agrément est instruite suivant les règles applicables à la demande d'agrément, seuls les documents visés à l'article 64, § 2, ayant été modifiés doivent être transmis [<sup>2</sup> aux services du Collège]<sup>2</sup>.
+
+[<sup>1</sup> [<sup>2</sup> § 2. - Par dérogation au 1er alinéa, en cas de modifications de cadre qui n'ont aucun impact sur le budget et n'entraînent aucune conséquence sur le respect des normes de fonctionnement et de personnel, le service ambulatoire introduit une demande, par simple courrier avec accusé de réception ou par voie électronique avec accusé de réception, aux services du Collège.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 23, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 81, 010; En vigueur : 29-04-2024&gt;
+
+#### Section V. - Retrait d'agrément ou modification contrainte d'agrément
+
+###### Art. 79
+
+Lorsque les conditions ou les normes d'agrément ne sont plus respectées, ou lorsque le service ambulatoire ne remplit plus toutes les missions précisées dans la décision accordant agrément, le Collège adresse au service ambulatoire une mise en demeure motivée. Les travailleurs doivent en être immédiatement avertis par le service. Le Collège fixe le délai endéans lequel le service ambulatoire se met en conformité avec son agrément. [<sup>1</sup> Le Collège peut également, en cas de non-respect des normes ou lorsque les missions ne sont plus réalisées, imposer une modification d'agrément ayant pour effet une diminution de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 82, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 80
+
+A l'issue de ce délai, le Collège soumet le dossier au Conseil consultatif. Celui-ci rend son avis dans les trois mois à dater de sa saisine.
+
+###### Art. 81
+
+Le Conseil consultatif informe la personne habilitée à représenter l'association sans but lucratif, de la date à laquelle son dossier est analysé et l'invite à faire valoir ses observations et à se présenter devant lui.
+
+###### Art. 82
+
+Le Conseil consultatif rend son avis quelle que soit la suite qui a été donnée par à l'association sans but lucratif l'invitation à faire valoir ses observations.
+
+###### Art. 83
+
+La décision du Collège portant retrait d'agrément ou proposition de modification contrainte d'agrément est notifiée au service [<sup>1</sup> ambulatoire]<sup>1</sup> par pli recommandé à la poste avec accusé de réception
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 83, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 84
+
+§ 1er. La décision du Collège portant retrait d'agrément entraîne la suppression de la subvention du service [<sup>1</sup> ambulatoire]<sup>1</sup> concerné dans un délai minimum de trois mois à dater du 1er jour du mois suivant sa notification. Le service ambulatoire est tenu de communiquer aux [<sup>1</sup> usagers]<sup>1</sup> du service et aux membres de l'équipe, dès sa notification par le Collège, la décision de retrait d'agrément.
+
+§ 2. La décision du Collège portant modification contrainte d'agrément entraîne la modification de la subvention du service [<sup>1</sup> ambulatoire]<sup>1</sup> concerné dans un délai minimum de trois mois à dater du 1er jour du mois suivant sa notification.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 84, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 85
+
+La mention d'agrément est supprimée de tous documents, affiches et publications à partir de la date du retrait d'agrément.
+
+###### Art. 86
+
+Avec l'accord des [<sup>1</sup> usagers]<sup>1</sup>, ceux-ci sont orientés vers un autre service ambulatoire et leur dossier individuel est transmis à ce service.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 85, 010; En vigueur : 29-04-2024&gt;
+
+#### Section VI. - Retrait d'agrément pour raisons urgentes
+
+###### Art. 87
+
+Lorsque des raisons urgentes le justifient, le Collège peut ordonner, par décision motivée et à titre provisoire le retrait d'agrément d'urgence d'un service ambulatoire.
+
+###### Art. 88
+
+Il en informe le service ambulatoire qui cesse immédiatement toute activité agréée. Le Conseil consultatif en est simultanément informé.
+
+###### Art. 89
+
+Le Collège informe, sans délai, la personne habilitée à représenter le service ambulatoire de la date à laquelle son dossier est analysé et l'invite à faire valoir ses observations et à se présenter devant lui.
+
+###### Art. 90
+
+Le Collège statue définitivement sur le retrait d'agrément, quelle que soit la suite qui a été donnée à l'invitation à comparaître.
+
+###### Art. 91
+
+En cas de retrait d'agrément la décision entraîne la suppression de la subvention dans un délai de trois mois à dater du 1er jour du mois suivant sa notification au service ambulatoire concerné.
+
+###### Art. 92
+
+Le service ambulatoire est tenu de communiquer aux [<sup>1</sup> usagers]<sup>1</sup> du service et aux membres de l'équipe, dès sa notification, la décision de retrait d'agrément pour raisons urgentes. La mention d'agrément est supprimée de tous documents, affiches et publications à partir de la date du retrait d'agrément.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 86, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 93
+
+Avec l'accord des [<sup>1</sup> usagers]<sup>1</sup>, ceux-ci sont orientés vers un autre service ambulatoire et leur dossier individuel est transmis à ce service.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 87, 010; En vigueur : 29-04-2024&gt;
+
+#### Section VII. - Fermeture volontaire
+
+###### Art. 94
+
+Lorsqu'un service ambulatoire décide de cesser ses activités, [<sup>2</sup> il informe le Collège de son intention de fermer et]<sup>2</sup> il communique cette décision au Collège [<sup>2</sup> six]<sup>2</sup> mois avant qu'elle ne produise ses effets. [<sup>2</sup> Il]<sup>2</sup> est tenu de communiquer sa décision de fermeture à ses usagers et aux membres de l'équipe.
+
+[<sup>1</sup> Le Collège prend acte, par arrêté, de la fermeture volontaire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 24, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 88, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 95
+
+La copie de cette décision est affichée, pendant six mois, de façon visible en lieu et place du [<sup>1</sup> support]<sup>1</sup> mentionnant l'agrément.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 89, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 96
+
+Avec l'accord des [<sup>1</sup> usagers]<sup>1</sup>, ceux-ci sont orientés vers un autre service ambulatoire et leur dossier individuel est transmis à ce service.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 90, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE III. - Normes et dispositions
+
+#### Section Ire. - Normes et dispositions générales
+
+##### Sous-section Ire. - Normes générales de fonctionnement
+
+###### Art. 97
+
+Sauf dispositions sectorielles contraires, pour chaque membre de l'équipe agréée, un dossier est constitué [<sup>1</sup> et transmis par le service ambulatoire aux services du Collège]<sup>1</sup>. Il comprend la copie du diplôme, le contrat et ses avenants, la dérogation de qualification, s'il échoit, ainsi que les attestations prouvant l'ancienneté.
+
+Le Collège fixe les modalités et les procédures de transmission des pièces de ce dossier nécessaires au calcul de la subvention.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 91, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 98
+
+Le service ambulatoire organise au moins une fois par mois des réunions d'équipe. Ces réunions visent à l'échange d'informations et à la discussion sur le travail du service ambulatoire Les procès-verbaux de ces réunions sont conservés pendant au moins 5 ans.[<sup>1</sup> Les autres modalités sont fixées par le Collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 92, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 99
+
+§ 1er. Les missions sont exercées à titre gratuit, sauf dans les secteurs où le Collège fixe le montant maximum des participations financières qui peuvent être demandées, par le service ambulatoire, aux [<sup>1</sup> usagers]<sup>1</sup>.
+
+§ 2. Le service [<sup>1</sup> ambulatoire]<sup>1</sup> réclame une intervention financière pour les consultations en tenant compte du contexte social et de la situation économique des [<sup>1</sup> usagers]<sup>1</sup>. Des consultations gratuites peuvent être données.
+
+§ 3. Avant toute intervention le service [<sup>1</sup> ambulatoire]<sup>1</sup> informe le bénéficiaire du tarif applicable.
+
+§ 4. Les participations financières des [<sup>1</sup> usagers]<sup>1</sup> dues au service ambulatoire dans le cadre de ses missions sont perçues de manière centralisée.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 93, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 100
+
+Par secteur, [<sup>1</sup> et pour les centres social santé intégré]<sup>1</sup> le Collège fixe le nombre minimal d'heures d'ouverture ou les périodes de prestations des services ambulatoires, les conditions d'organisation de la permanence d'accueil, le système d'information du public en dehors de ces heures et le système de garde.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 94, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 101
+
+§ 1er. Le service ambulatoire tient, pour chaque [<sup>2</sup> usager]<sup>2</sup>, un dossier individuel qui doit contenir les données nécessaires à l'accomplissement du suivi individuel ou familial [<sup>2</sup> de l'usager]<sup>2</sup>. Ces dossiers sont conservés, classés et répertoriés à l'abri de toute indiscrétion.
+
+[<sup>1</sup> Dans le cadre de la mission de réduction des risques, le suivi peut être communautaire et anonyme. ]<sup>1</sup>
+
+§ 2. [<sup>2</sup> Afin de respecter l'anonymat des usagers, l'obligation prévue au § 1er ne s'applique pas au Centre d'accueil téléphonique dans le cadre de leur mission d'écoute.]<sup>2</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 24bis, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 95, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 102
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 96, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 103
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 97, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 104
+
+[<sup>1</sup> §1]<sup>1</sup>Pour le 30 juin au plus tard, le service ambulatoire transmet un rapport d'activité annuel approuvé par l'assemblée générale du service. Le contenu est déterminé par le Collège, après avis du conseil consultatif.
+
+[<sup>1</sup> § 2. - Dans le cas d'un centre social santé intégré, le service ambulatoire transmet un seul rapport d'activité annuel approuvé par l'assemblée générale du service, même s'il est constitué de plusieurs services agréés. Le contenu est déterminé par le Collège, après avis du Conseil consultatif.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 98, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 105
+
+Le Collège arrête, par secteur, après avis du Conseil consultatif, les données à enregistrer, les modalités et procédures d'enregistrement et de transmission de ces données. Le service ambulatoire transmet, chaque année, un ensemble de données rendues anonymes qu'il enregistre et qui concernent ses [<sup>1</sup> usagers]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 99, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 106
+
+[<sup>1</sup> § 1er. - La mention " agréé par la Commission communautaire française " est obligatoire sur tous documents, affiches et publications, en ce compris les publications numériques, du service ambulatoire et est visible à l'extérieur du bâtiment.
+
+§ 2. - Les services ambulatoires doivent veiller à respecter les obligations prévues par la Charte graphique de l'Union européenne et la directive (UE) 2016/2102 relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public telle que transposée par le décret du 9 mai 2019 relatif à l'accessibilité des sites internet et des applications mobiles des institutions publiques de la Commission communautaire française.
+
+§ 3. - Les obligations prévues au § 1er ne s'appliquent pas quand des raisons de sécurité ou d'anonymat des travailleurs le justifient.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 100, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 107
+
+§ 1er. Peuvent seuls porter l'appellation : service de santé mentale, [<sup>2</sup> service actif en matière de drogues et addictions]<sup>2</sup>, centre d'action sociale globale, centre de planning familial, maison médicale, service de médiation de dettes, [<sup>1</sup> ...]<sup>1</sup> [<sup>3</sup> service de coordination de soins et d'aide à domicile]<sup>3</sup>, service de soins palliatifs et continués, service d'aide à domicile, centre d'accueil téléphonique, [<sup>4</sup> centre santé social intégré,]<sup>4</sup> les services ambulatoires agréés conformément au présent décret.
+
+§ 2. Toute association qui utilise ces appellations de manière abusive, en violation du présent décret, est passible d'une amende administrative de trois mille euro .
+
+§ 3. Le Collège inflige et notifie l'amende administrative dans le mois de sa décision. L'association dispose d'un délai d'un mois pour faire valoir ses observations. En l'absence de nouvelle décision du Collège, l'amende administrative est due dans un délai d'un mois et est payable au compte général de la Commission communautaire française.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 25, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 2, 010; En vigueur : 29-04-2024&gt;
+
+(3)&lt;DCFR 2024-02-01/22, art. 3, 010; En vigueur : 29-04-2024&gt;
+
+(4)&lt;DCFR 2024-02-01/22, art. 101, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section II. - Normes générales de personnel
+
+###### Art. 108
+
+Le Collège fixe la durée d'un temps plein de travail pris en considération pour le calcul de la subvention. Le service ambulatoire affecte le temps de travail du cadre agrée exclusivement aux missions du décret.
+
+###### Art. 109
+
+Le Collège arrête, après avis du Conseil consultatif, l'ensemble des diplômes, qualifications, formations spécialisées et expériences professionnelles requis pour les membres de l'équipe des cadres agréés ainsi que les modalités d'octroi de dérogation à ces diplômes et qualifications.
+
+###### Art. 110
+
+[<sup>1</sup> Le service ambulatoire organise la formation continuée de l'équipe agréée telle que prévue par l'article 89 de l'arrêté 2001/549 relatif à l'application du décret de la Commission communautaire française du 12 juillet 2001 modifiant diverses législations relatives aux subventions accordées dans le secteur de la politique de la santé et de l'aide aux personnes et relatif à la modification de divers arrêtés d'application concernant les secteurs de l'aide aux personnes, de la santé, des personnes handicapées et de l'insertion socioprofessionnelle.
+
+Le Collège peut déterminer des critères minimaux supplémentaires auxquels doivent répondre ces formations.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 103, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 111
+
+[<sup>1</sup> Le [<sup>2</sup> point de contact]<sup>2</sup> du service ambulatoire est chargé :
+
+1° du rôle d'interlocuteur vis-à-vis des services du Collège;
+
+2° de la transmission aux services du Collège des informations et documents demandés par ceux-ci et de la transmission à l'équipe des informations fournies par les services du Collège. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 26, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 104, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 111bis
+
+[<sup>1</sup> Le service ambulatoire peut désigner, au sein de l'équipe agréée, une ou des personnes assurant la fonction de coordination.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 105, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section III. - Normes architecturales générales
+
+###### Art. 112
+
+Sauf dérogation octroyée par le Collège, le siège d'activités du service ambulatoire comporte des locaux qui, durant ses heures d'ouverture, sont principalement réservés à l'exécution de ses missions.
+
+###### Art. 113
+
+Le service ambulatoire dispose de locaux adaptés à chaque type d'activité. Le Collège fixe par secteur les normes architecturales spécifiques.
+
+###### Art. 114
+
+Le service ambulatoire met des sanitaires à disposition du public.
+
+##### Sous-section IV. - Dispositions générales relatives aux subventions
+
+###### Art. 115
+
+Dans les limites des crédits budgétaires [<sup>1</sup> ...]<sup>1</sup>, le Collège accorde au service ambulatoire agréé des subventions pour les frais de personnel, les frais de formation et pour les frais de fonctionnement.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+En dérogation à cet article, les services d'aide à domicile sont subventionnés selon d'autres modalités fixées à l'article 133.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 27, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 116
+
+Les frais de personnel comportent le montant barémique brut indexé et les charges patronales et autres avantages fixés par le Collège.
+
+Le Collège détermine les barèmes applicables à chaque fonction, le mode de calcul de l'ancienneté du personnel subventionné et le mode de calcul des charges patronales et autres avantages subventionnés.
+
+###### Art. 117
+
+Le Collège détermine le pourcentage des frais de personnel, admis aux subventions, octroyés pour les frais de formation continuée des travailleurs.
+
+###### Art. 118
+
+Les frais de fonctionnement comprennent les frais liés au fonctionnement du service [<sup>1</sup> ambulatoire]<sup>1</sup> ainsi que les frais liés aux tâches de gestion comptable et administrative.
+
+Le Collège détermine les modes de calcul et les montants maximaux admissibles pour les frais de fonctionnement.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 106, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 119
+
+[<sup>1</sup> Sauf dispositions contraires, la liquidation des avances de la subvention sont liquidées, à cinquante pour cent au plus tard le 15 février, à vingt-cinq pour cent pour le 15 juin, et à vingt-cinq pour cent pour le 15 septembre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 107, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 120
+
+Les dispositions de subvention relatives à l'embauche compensatoire consécutive à la réduction du temps de travail sont arrêtées par le Collège. Ces subventions sont liquidées, sauf dispositions [<sup>1</sup> ...]<sup>1</sup> contraires, selon les modalités fixées à l'article 119.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 108, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 121
+
+Les dispositions de subvention relatives aux indemnités compensatoires de pré-pension des travailleurs subventionnés sont arrêtées par le Collège. Ces subventions sont liquidées, sauf dispositions sectorielles contraires, selon les modalités fixées aux articles 119 et 122. Les pièces justificatives sont fixées par le Collège.
+
+###### Art. 122
+
+[<sup>1</sup> Sauf dispositions contraires, le solde de la subvention est liquidé pour le 31 octobre de l'année suivante. Les pièces justificatives relatives aux frais de personnel, de fonctionnement et de formation visés aux articles 116 et 118 sont remises pour le 15 avril au plus tard et selon les modalités déterminées par les services du Collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 109, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 123
+
+En ce qui concerne les subventions octroyées aux Fonds d'embauche compensatoire, les soldes des subventions sont liquidés pour le 31 octobre de l'année suivante, après contrôle des pièces justificatives.
+
+Les pièces justificatives sont relatives au fonctionnement des Fonds et à la gestion de l'embauche compensatoire. Elles doivent être conformes aux dispositions prévues dans les conventions conclues avec le Collège en vertu de l'article 85, § 3, de l'arrêté du 18 octobre 2001 de la Commission communautaire française relatif à l'application du décret de la Commission communautaire française du 12 juillet 2001 modifiant diverses législations relatives aux subventions accordées dans le secteur de la politique de la santé et de l'aide aux personnes et relatif a la modification de divers arrêtés d'application concernant les secteurs de l'Aide aux personnes, de la Santé, des Personnes handicapées et de l'Insertion socioprofessionnelle. [<sup>1</sup> Elles sont à fournir pour le 30 avril de l'année suivante en double exemplaire. Elles seront accompagnées d'un rapport d'activités en double exemplaire montrant le respect de la convention conclue avec le Collège. " sont remplacées par la seule et même troisième phrase suivante : " Les pièces justificatives sont accompagnées d'un rapport d'activité et doivent, tous deux, être remis pour le 30 avril.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 110, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 124
+
+L'association sans but lucratif qui bénéficie d'un ou plusieurs agréments comme service ambulatoire tient une comptabilité analytique par agrément.
+
+###### Art. 125
+
+Sauf dispositions sectorielles contraires, la perception et l'utilisation des honoraires, allocations et participation aux frais perçus par le service ambulatoire auprès des [<sup>1</sup> usagers]<sup>1</sup> ou d'une institution, notamment dans le cadre des prestations prévues par la loi relative à l'assurance obligatoire de soins de santé et indemnités, coordonnée le 14 juillet 1994, doivent être justifiées.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 111, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 126
+
+Les subventions sont indexées suivant des modalités fixées par le Collège.
+
+#### Section II. - Normes sectorielles et dispositions sectorielles relatives aux subventions.
+
+##### Sous-section Ire. - Disposition relative aux subventions des [<sup>1</sup> services actifs en matière de drogues et addictions]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 2, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 127
+
+[<sup>1</sup> Le Collège, pour garantir la diversité des pratiques développées par les services ambulatoires et leur permettre de développer une (ou des) approche(s) spécifique(s), peut octroyer des moyens complémentaires pour frais de fonctionnement et pour frais de personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 112, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 127bis
+
+[<sup>1</sup> Le Collège détermine les normes spécifiques et les critères d'octroi de moyens complémentaires à un service ambulatoire organisant une salle de consommation à moindre risque. Il fixe les normes et conditions d'agrément, notamment en fonction des critères minimaux prévus à l'article 37bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2019-05-09/05, art. 4, 006; En vigueur : 10-06-2019&gt;
+
+###### Art. 127ter
+
+[<sup>1</sup> Afin de recevoir une subvention pour la mise en place d'une collaboration telle que visée à l'article 8bis, le service actif en matière de drogues et addictions introduit une demande auprès du Collège.
+
+Cette demande comprend une justification relative au besoin réel de la mise en place de cette collaboration, émanant du centre social santé intégré avec lequel la collaboration est conclue ainsi qu'une convention reprenant, notamment, les missions concernées, la durée de travail déterminée et les moyens mis en place pour y parvenir.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 113, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section II. - Disposition relative aux subventions des centres d'action sociale globale
+
+###### Art. 128
+
+Le Collège détermine les montants maximaux relatifs aux frais de collaboration entre les centres.
+
+##### Sous-section III. [<sup>1</sup> Normes sectorielles et dispositions relatives aux subventions des services de coordination de soins et d'aide à domicile]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 114, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 129
+
+Les frais de fonctionnement prévus aux articles 115 et 118 peuvent en outre couvrir :
+
+1° les frais d'assistance aux réunions des prestataires à condition qu'un registre signé par ces prestataires atteste de leur présence, et que les montants de l'indemnité forfaitaire soient versés directement aux prestataires ou groupements de prestataires conventionnés avec le centre de coordination. Le montant de l'indemnité forfaitaire par prestataire et par réunion et les conditions d'octroi sont fixés par le Collège, après avis du Conseil consultatif.
+
+2° l'indemnité de garde à domicile des prestataires de soins du centre de coordination de catégorie 3 suivant les modalités fixées par le Collège après avis du Conseil consultatif;
+
+###### Art. 129bis
+
+[<sup>1</sup> § 1er. - Lorsque plusieurs services de coordinations de soins et d'aide à domicile fusionnent en une seule asbl dans le respect des conditions d'agrément, les subventions qu'ils recevaient respectivement dans le cadre des missions de coordination sont maintenues et attribuées à l'asbl résultant de cette fusion à condition que la somme des activités originairement proposées par les services de coordination de soins et d'aide à domicile fusionnés soit cumulées.
+
+§ 2. - Le Collège détermine les conditions et la procédure de fusion, prévue au § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 115, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 129ter
+
+[<sup>1</sup> Afin de recevoir une subvention pour la mise en place d'une collaboration telle que visée à l'article 24, le service de coordination de soins et d'aide à domicile introduit une demande auprès du Collège.
+
+Cette demande comprend une justification relative au besoin réel de la mise en place de cette collaboration, émanant du centre social santé intégré avec lequel la collaboration est conclue ainsi qu'une convention reprenant, notamment, les missions concernées, la durée de travail déterminé et les moyens mis en place pour y parvenir.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 116, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section IV. - Normes sectorielles et dispositions relatives aux subventions. - des services d'aide à domicile
+
+###### Art. 130
+
+Le service d'aide à domicile est organisé en équipes. Chaque équipe comprend cinq aides équivalent temps plein au moins et vingt au plus. Les modalités concernant l'organisation du service en équipes et liées à la fluctuation du personnel, sont fixées par le Collège.
+
+Le responsable d'équipe a pour missions :
+
+1° l'organisation de l'équipe et l'encadrement des aides familiaux, seniors et ménagers;
+
+2° la coordination et la transmission des informations nécessaires à la bonne gestion des équipes avec le coordinateur [<sup>1</sup> ...]<sup>1</sup>;
+
+3° l'encadrement du bénéficiaire;
+
+4° la décision d'octroi ou de refus d'aide à apporter [<sup>1</sup> à l'usager]<sup>1</sup>. L'aide ou le refus d'aide doit être est justifié par un document dont le modèle et les modalités de transmission sont fixés par le Collège. En cas d'octroi d'une aide, une convention est conclue avec [<sup>1</sup> l'usager]<sup>1</sup>.
+
+Elle mentionne le début de l'aide, les objectifs et les tâches à réaliser pendant celle-ci et éventuellement la date de fin d'intervention ainsi que le montant de la contribution [<sup>1</sup> de l'usager]<sup>1</sup>;
+
+5° la réalisation des enquêtes sociales suivant les modalités fixées par le Collège.
+
+Le Collège détermine les modalités d'exécution de ces missions.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 117, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 131
+
+Le Collège fixe les modalités relatives à la formation continuée du personnel du service d'aide à domicile.
+
+###### Art. 132
+
+Le Collège délivre aux personnes titulaires de diplômes ou certificats définis par lui et qui en font la demande, un certificat d'immatriculation leur donnant accès à la fonction d'aide familial ou senior dans un service.
+
+###### Art. 133
+
+Les subventions octroyées au service d'aide à domicile sont destinées à couvrir des frais de fonctionnement et de personnel.
+
+Les subventions sont octroyées sur base des éléments suivants :
+
+1° Le nombre d'heures prestées par les aides;
+
+2° le nombre [<sup>1</sup> et le type ]<sup>1</sup> de prestations effectuées par les aides;
+
+3° le nombre de prestations effectuées à domicile le samedi, le dimanche, les jours fériés et entre 18 heures et 7 heures;
+
+4° la contribution [<sup>2</sup> de l'usager]<sup>2</sup>.
+
+[<sup>1</sup> Le Collège peut fixer différents types de prestations après avis du Conseil consultatif.]<sup>1</sup>
+
+Le Collège détermine les modalités d'octroi de ces subventions.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 28, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 118, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 134
+
+L'octroi des subventions au service d'aide à domicile est subordonné à la condition d'exiger [<sup>2</sup> de l'usager]<sup>2</sup> de l'aide une contribution en rapport avec les ressources [<sup>1</sup> l'état de dépendance [<sup>2</sup> de l'usager]<sup>2</sup>, ]<sup>1</sup> et les charges de la famille selon le barème et les modalités fixés par le Collège [<sup>1</sup>après avis du Conseil consultatif. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 29, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 119, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 135
+
+[<sup>2</sup> Le Collège peut fixer les modalités de liquidation du financement des services d'aide à domicile.]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 30, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 120, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 136
+
+§ 1er. Avant la fin de chaque année, le Collège fixe par service d'aide à domicile agréé pour l'année suivante, un nombre maximum annuel d'heures de prestations admises à la subvention dans les services bénéficiaires des subventions.
+
+§ 2. Ce contingent, pour les services agréés, se calcule sur base du nombre d'heures subsidiées dans chaque service au 31 décembre de l'année précédente [<sup>1</sup> suivant les modalités fixées par le Collège.]<sup>1</sup>
+
+§ 3. Avant la fin du mois de [<sup>1</sup> juin ]<sup>1</sup> de chaque année, les heures prévues par le contingent de l'année précédente qui n'ont pas été utilisées par un service peuvent être réparties, [<sup>1</sup> suivant les modalités fixées par le Collège]<sup>1</sup>, entre les différents services.
+
+§ 4. Les contingents fixés par le Collège sont soumis à l'avis du Conseil consultatif.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 31, 003; En vigueur : 01-01-2016&gt;
+
+##### Sous-section V. [<sup>1</sup> Normes sectorielles et dispositions relatives aux subventions des centres d'accueil téléphonique]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 121, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 137
+
+En complément des subventions prévues à l'article 115, la subvention porte également sur des frais relatifs aux [<sup>1</sup> volontaires ]<sup>1</sup> écoutants. Ces frais ont trait au recrutement, à la sélection, à la formation et à la supervision des écoutants [<sup>1</sup> volontaires ]<sup>1</sup>.
+
+[<sup>1</sup> La subvention porte également sur les frais liés aux missions visées à l'article 31, § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 32, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 138
+
+[<sup>1</sup> Le Collège fixe le montant des subventions visées à l'article 137 en fonction de l'ensemble des missions exercées par le centre d'accueil téléphonique. Ces subventions peuvent être affectées à des frais de fonctionnement, de promotion, de formation ou de personnel supplémentaire au cadre minimal visé à l'article 63 et sont liés à l'exercice des missions visées à l'article 31. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 33, 003; En vigueur : 01-01-2016&gt;
+
+##### Sous-section VI. [<sup>1</sup> Normes sectorielles et dispositions relatives aux subventions des services de santé mentale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 122, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 138bis
+
+[<sup>1</sup> Afin de recevoir une subvention pour la mise en place d'une collaboration telle que visée à l'article 5bis, le service de santé mentale introduit une demande auprès du Collège.
+
+Cette demande comprend une justification relative au besoin réel de la mise en place de cette collaboration, émanant du centre social santé intégré avec lequel la collaboration est conclue ainsi qu'une convention reprenant, notamment, les missions concernées, la durée de travail déterminée et les moyens mis en place pour y parvenir.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 123, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 138ter
+
+[<sup>1</sup> Le Collège fixe la subvention forfaitaire minimale indexée octroyée au Service de santé mentale pour les activités figurant à l'article 4 § 1er, 4° d), e) et f).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 123, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section VII. [<sup>1</sup> Normes sectorielles et dispositions relatives aux subventions des centre de planning familial]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 124, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 138quater
+
+[<sup>1</sup> Afin de recevoir une subvention pour la mise en place d'une collaboration telle que visée à l'article 13bis, le centre de planning familial introduit une demande auprès du Collège.
+
+Cette demande comprend une justification relative au besoin réel de la mise en place de cette collaboration, émanant du centre social santé intégré avec lequel la collaboration est conclue ainsi qu'une convention reprenant, notamment, les missions concernées, la durée de travail déterminée et les moyens mis en place pour y parvenir.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 125, 010; En vigueur : 29-04-2024&gt;
+
+##### Sous-section VIII. [<sup>1</sup> Normes et dispositions relatives aux subventions des services de médiation de dettes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 126, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 138quinquies
+
+[<sup>1</sup> Afin de recevoir une subvention pour la mise en place d'une collaboration telle que visée à l'article 17bis, le service de médiation de dettes introduit une demande auprès du Collège.
+
+Cette demande comprend une justification relative au besoin réel de la mise en place de cette collaboration, émanant du centre social santé intégré avec lequel la collaboration est conclue ainsi qu'une convention reprenant, notamment, les missions concernées, la durée de travail déterminée et les moyens mis en place pour y parvenir.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 127, 010; En vigueur : 29-04-2024&gt;
+
+#### Section III. [<sup>1</sup> Normes sectorielles et dispositions relatives aux subventions du centre social santé intégré]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 128, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 138sexies
+
+[<sup>1</sup> § 1er. - Le centre social santé intégré constitué conformément à l'article 63bis, 1°, est financé pour l'ensemble de son activité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 129, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 138septies
+
+[<sup>1</sup> Le centre social santé intégré constitué conformément à l'article 63bis, 2° ou 3°, est financé afin de couvrir les frais administratifs, d'accueil, de coordination et de fonction psychologique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 129, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 138octies
+
+[<sup>1</sup> Afin de recevoir une subvention pour l'exercice d'une fonction inclusive spécifique telle que visée à l'article 31quinquies, le centre social santé intégré service ambulatoire introduit une demande auprès du Collège justifiant le besoin réel de cette fonction pour le territoire d'intervention du centre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 129, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE IV. - Contrôle et inspection
+
+###### Art. 139
+
+Le Collège désigne les agents des services du Collège de la Commission communautaire française chargés du contrôle et de l'inspection des services ambulatoires agréés et des associations qui ont demandé un agrément comme service ambulatoire.
+
+###### Art. 140
+
+Le service ambulatoire se conforme aux dispositions relatives au contrôle et à l'inspection. A cette fin, il garantit à ces agents un libre accès à ses locaux et la possibilité de consulter sur place les pièces et documents nécessaires à l'accomplissement de leur mission.
+
+## TITRE III. [<sup>1</sup> Les organismes représentatifs et de coordination sectorielle]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 130, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE Ier. - Définitions et missions
+
+###### Art. 141
+
+L'organisme a pour objet l'organisation et la coordination d'activités [<sup>1</sup> sectorielles]<sup>1</sup> relatives à la promotion et à l'information des services ambulatoires qui lui sont affiliés. L'organisme représentatif et de coordination représente ses affiliés vis-à-vis du Collège.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 131, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 142
+
+[<sup>1</sup> Dans une logique territoriale, l']<sup>1</sup> organisme a pour missions :
+
+1° d'offrir son aide et ses conseils à ses affiliés;
+
+2° de développer les échanges et les réflexions entre ses affiliés;
+
+3° de coordonner et promouvoir les actions menées par ses affiliés;
+
+4° d'assurer la diffusion de l'information parmi ses affiliés et relative à ses affiliés;
+
+5° de développer une coordination avec les autres organismes de la Santé, de l'Action sociale, de la Famille et de la Cohésion sociale, sans exclure d'autres partenaires [<sup>1</sup> ;]<sup>1</sup>
+
+6° de représenter leurs services membres auprès des pouvoirs publics ;
+
+7° de centraliser la récolte des données anonymisées pour le secteur représenté.
+
+Il peut en outre :
+
+1° promouvoir la formation continuée des travailleurs de leurs affiliés;
+
+2° effectuer des travaux de recherche, d'enquête, d'étude et de publication dans les matières social/santé.
+
+[<sup>1</sup> § 2. - L'organisme accueille et intègre au mieux les centres social santé intégrés qui souhaiteraient les rejoindre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 132, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE II. - Conditions d'agrément
+
+###### Art. 143
+
+Le Collège agrée pour une durée indéterminée, un organisme [<sup>1</sup> sectoriel]<sup>1</sup> qui coordonne et, éventuellement représente, au moins quatre services ambulatoires d'un même secteur et les deux tiers des services ambulatoires de ce secteur.
+
+Les services ambulatoires peuvent être membres de plusieurs organismes agréés, mais ne sont comptabilisés que pour un seul organisme par agrément.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 133, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 144
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 134, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 145
+
+Un organisme peut coordonner et, éventuellement représenter, les services ambulatoires d'un autre secteur, pour autant :
+
+1° que ces services ambulatoires ne soient pas parvenus à former leur propre organisme, conformément à l'article 143;
+
+2° qu'ils forment plus de la moitié du nombre total des services ambulatoires de leur secteur,
+
+3° qu'ils aient conclu une convention avec l'organisme, portant sur leur représentation ou leur coordination par l'organisme.
+
+###### Art. 146
+
+Pour être agréé, l'organisme satisfait aux conditions suivantes :
+
+1° être constitué sous forme d'association sans but lucratif dont le but social mentionne les missions prévues à l'article 142 et précise les conditions d'affiliation ainsi que les services rendus par l'organisme à ses affiliés;
+
+2° [<sup>1</sup> exercer ses activités, sur le territoire de la Région de Bruxelles-Capitale; ]<sup>1</sup>
+
+3° accueillir la candidature à l'affiliation de tout service ambulatoire du secteur qu'il coordonne ou, éventuellement, représente dans le respect de ses options philosophiques, religieuses ou politiques, pour autant que le service ambulatoire s'engage à respecter les statuts de l'organisme;
+
+4° respecter les règles de déontologie et de secret professionnels en vigueur dans le secteur dans le secteur qu'il coordonne ou, éventuellement, représente;
+
+5° mener une démarche d'évaluation qualitative conformément au Titre IV.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 35, 003; En vigueur : 01-01-2016&gt;
+
+### CHAPITRE III. - Procédure d'agrément
+
+#### Section Ire. - Demande d'agrément
+
+###### Art. 147
+
+§ 1er. L'organisme introduit une demande d'agrément auprès du Collège. Le Collège détermine les modalités d'introduction de cette demande.
+
+Cette demande d'agrément est accompagnée d'une note précisant la manière dont le service répond aux missions pour lesquelles il demande à être agréé.
+
+§ 2. Les documents suivants sont joints à la demande d'agrément :
+
+1° le nom de l'association sans but lucratif;
+
+2° le nom de l'organisme;
+
+3° [<sup>1</sup> le numéro d'entreprise; ]<sup>1</sup>
+
+4° la liste de ses affiliés;
+
+5° le cas échéant la convention conclue avec les affiliés d'un autre secteur telle que visée à l'article 145;
+
+6° l'adresse du siège social;
+
+7° [<sup>1</sup> le relevé d'identité bancaire;]<sup>1</sup>
+
+8° le nom de la personne habilitée à représenter l'association sans but lucratif et la preuve de sa désignation conformément aux dispositions statutaires;
+
+9° une attestation prouvant l'assurance en responsabilité des administrateurs;
+
+10° l'adresse du ou des sièges d'activités;
+
+11° [<sup>2</sup> le nom de la personne chargée d'être le point de contact de l'organisme avec les services du Collège et la preuve sa désignation par le Conseil d'administration.]<sup>2</sup>;
+
+12° un document établissant que le service a la jouissance des locaux;
+
+13° la composition du personnel avec fonctions qualifications et temps de travail;
+
+14° un budget prévisionnel de l'organisme mentionnant toutes les subventions publiques acquises ou sollicitées ainsi que le montant de la cotisation.
+
+§ 3. La demande est déclarée recevable si elle contient tous les documents visés ci-dessus, déclarés sincères et conformes et s'ils sont signés par la personne [<sup>2</sup> chargée d'être le point de contact de]<sup>2</sup> l'association sans but lucratif.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 36, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 120, 010; En vigueur : 29-04-2024&gt;
+
+#### Section II. - Octroi et refus d'agrément [<sup>1</sup> provisoire ]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 37, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 147/1
+
+[<sup>1</sup> § 1er. Le Collège octroie un agrément provisoire pour une durée de deux ans, renouvelable maximum une fois, pour autant que le demandeur :
+
+1° respecte les dispositions de l'article 146, 1° ;
+
+2° s'engage à respecter les points 2° à 5° du même article dès le début de l'exercice des missions de l'organisme;
+
+3° ait introduit une demande d'agrément auprès du Collège accompagnée au moins des documents prévus à l'article 147, § 2, 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8° et 14° ;
+
+4° s'engage à introduire auprès du Collège les documents prévus à l'article 147, § 2, 9° à 13°, au plus tard 3 mois après le versement de la première avance des subventions de l'organisme;
+
+§ 2. La décision du Collège accordant l'agrément provisoire précise les secteurs que l'organisme coordonne et éventuellement représente.
+
+§ 3. Pendant la période couvrant l'agrément provisoire, le Collège fait procéder à une inspection et détermine si l'organisme répond aux conditions d'agrément et aux normes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2016-07-20/25, art. 38, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 148
+
+Lorsque la demande est déclarée recevable, [<sup>1</sup> les services du Collège instruisent]<sup>1</sup> le dossier et le soumet ensuite pour avis au Conseil consultatif.
+
+Le Conseil consultatif rend son avis dans les trois mois à dater de sa saisine.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 136, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 149
+
+Le Conseil consultatif informe le demandeur de la date à laquelle son dossier est analysé et l'invite à venir présenter son projet.
+
+###### Art. 150
+
+Le Conseil consultatif rend son avis quelle que soit la suite qui ait été donnée par le demandeur à l'invitation à venir présenter son projet.
+
+###### Art. 151
+
+Après avis du Conseil consultatif, ou en cas d'absence d'avis rendu dans les délais prescrits, le Collège statue sur la demande d'agrément [<sup>1</sup> provisoire]<sup>1</sup> et notifie sa décision d'octroi ou de refus d'un agrément [<sup>1</sup> provisoire]<sup>1</sup> au demandeur.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 39, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 152
+
+La décision du Collège relative à l'agrément précise les missions pour lesquelles l'organisme est agréé ainsi que le ou les secteurs que l'organisme coordonne et, éventuellement, représente.
+
+#### Section IIbis. [<sup>1</sup> Octroi et refus d'agrément ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2016-07-20/25, art. 40, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 152/1
+
+[<sup>1</sup> § 1. Six mois avant l'expiration de l'agrément provisoire, [<sup>2</sup> les services du Collège font]<sup>2</sup> actualiser les documents visés à l'article 147, § 2. [<sup>2</sup> Ils soumettent]<sup>2</sup> une proposition motivée d'agrément, de refus d'agrément ou de renouvellement d'agrément provisoire de l'organisme, pour avis au Conseil consultatif. Celui-ci rend son avis dans un délai maximum de trois mois à dater de sa saisine.
+
+Par dérogation à l'article 147/1, § 1er, tant que le Collège n'a pas statué sur l'octroi, le refus de l'agrément ou le renouvellement de l'agrément provisoire, l'organisme conserve son agrément provisoire.
+
+§ 2. En cas de proposition de refus d'agrément, le Conseil consultatif informe la personne habilitée à représenter l'association sans but lucratif de la date à laquelle la proposition est examinée et l'invite à faire valoir ses observations.
+
+§ 3. Le Conseil consultatif rend son avis quelle que soit la suite donnée par l'association sans but lucratif à l'invitation à faire valoir ses observations.
+
+§ 4. Après avis du Conseil consultatif, ou en cas d'absence d'avis rendu dans les délais prescrits, la décision du Collège, portant l'agrément, le refus d'agrément ou le renouvellement d'agrément provisoire est notifiée au demandeur.
+
+§ 5. La décision du Collège relative à l'agrément précise les missions pour lesquelles l'organisme est agréé ainsi que le ou les secteurs que l'organisme coordonne et, éventuellement, représente. L'agrément est octroyé pour une durée indéterminée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2016-07-20/25, art. 41, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 137, 010; En vigueur : 29-04-2024&gt;
+
+#### Section III. - Modification d'agrément
+
+###### Art. 153
+
+L'organisme introduit une demande de modification d'agrément en cas de modification :
+
+1° du nom ou du but social de l'association sans but lucratif;
+
+2° de conclusion ou de dénonciation d'une convention visée à l'article 145.
+
+###### Art. 154
+
+La demande de modification d'agrément est instruite suivant les règles applicables à la demande d'agrément. Seuls les documents visés à l'article 147 ayant été modifiés doivent être transmis [<sup>1</sup> aux services du Collège]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 138, 010; En vigueur : 29-04-2024&gt;
+
+#### Section IV. - Retrait d'agrément ou modification contrainte d'agrément
+
+###### Art. 155
+
+Lorsque les conditions d'agrément et les normes de fonctionnement ne sont plus respectées, ou lorsque l'organisme ne remplit plus toutes les missions précisées dans la décision relative à son agrément, le Collège adresse à l'organisme une mise en demeure motivée. Les travailleurs doivent en être immédiatement avertis par l'organisme. Il fixe le délai endéans lequel l'organisme se met en conformité avec son agrément. Le Collège peut, également, faire une proposition de modification contrainte d'agrément à l'organisme.
+
+###### Art. 156
+
+A l'issue de ce délai, le Collège soumet le dossier au Conseil consultatif. Celui-ci rend son avis dans les trois mois à dater de sa saisine.
+
+###### Art. 157
+
+Le Conseil consultatif informe la personne habilitée à représenter l'association sans but lucratif de la date à laquelle son dossier est analysé et l'invite à faire valoir ses observations et à se présenter devant lui.
+
+###### Art. 158
+
+Le Conseil consultatif rend son avis quelle que soit la suite qui a été donnée par l'association sans but lucratif à l'invitation à faire valoir ses observations.
+
+###### Art. 159
+
+La décision du Collège portant retrait d'agrément ou proposition de modification contrainte d'agrément est notifiée à l'organisme par pli recommandé à la poste avec accusé de réception.
+
+###### Art. 160
+
+§ 1er. La décision du Collège portant retrait d'agrément entraîne la suppression de la subvention à l'organisme concerné dans un délai minimum de trois mois à dater du 1er jour du mois suivant sa notification. L'organisme est tenu de communiquer à ses affiliés et aux membres de son personnel, dès sa notification, la décision de retrait ou de modification contrainte d'agrément.
+
+§ 2. La décision du Collège portant modification contrainte d'agrément entraîne la modification de la subvention de l'organisme concerné dans un délai minimum de trois mois à dater du 1er jour du mois suivant sa notification.
+
+###### Art. 161
+
+La mention d'agrément est supprimée de tous documents, affiches et publications à partir de la date du retrait d'agrément.
+
+#### Section V. - Fermeture volontaire
+
+###### Art. 162
+
+Lorsqu'un organisme décide de cesser ses activités, il communique cette décision au Collège trois mois avant qu'elle ne produise ses effets. L'organisme est tenu de communiquer sa décision de fermeture à ses affiliés et aux membres de son personnel.
+
+[<sup>1</sup> Le Collège prend acte, par arrêté, de la fermeture volontaire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 42, 003; En vigueur : 01-01-2016&gt;
+
+### CHAPITRE IV. - Normes et dispositions relatives aux subventions
+
+#### Section Ire. - Normes de fonctionnement
+
+###### Art. 163
+
+§ 1er. Les organismes élaborent, au moins tous les cinq ans, un rapport qui contient, pour chaque secteur représenté par l'organisme :
+
+1° une description de l'évolution des pratiques professionnelles du secteur;
+
+2° une analyse de l'évolution des problématiques sociales et de santé que rencontre leur secteur;
+
+3° une analyse de l'adéquation de l'offre de service du secteur [<sup>2</sup> au regard de la programmation territoriale et]<sup>2</sup> ces nouvelles problématiques sociales et de santé;
+
+Il peut en outre, en concertation avec les partenaires sociaux, élaborer une analyse des plans annuels de formation continuée des travailleurs du secteur.
+
+[<sup>1</sup> Le rapport, et, le cas échéant, l'analyse des plans de formation, sont transmis]<sup>1</sup> au Conseil consultatif qui en débat et qui le transmet au Collège accompagné de son avis.
+
+§ 2. Sur la base des rapports prévus au § 1er, les organismes participent également, tous les cinq ans, à l'élaboration d'un rapport commun à tous les secteurs de l'Action sociale et de la Famille et de la Santé.
+
+Ce rapport contient une analyse globale de l'évolution des problématiques sociales et de santé rencontrées et de l'adéquation de l'offre de service de l'ensemble des secteurs à ces problématiques.
+
+Ce rapport propose, le cas échéant, des orientations nouvelles pour la politique de Santé, d'Action sociale et de la Famille.
+
+Il est transmis au Conseil consultatif qui en débat et qui le transmet au Collège accompagné de son avis.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 43, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 139, 010; En vigueur : 29-04-2024&gt;
+
+#### Section II. - Dispositions relatives aux subventions
+
+###### Art. 164
+
+Dans les limites des crédits budgétaires, le Collège accorde à l'organisme agréé une subvention forfaitaire dont le Collège fixe le montant.
+
+Le montant de cette subvention ne peut être inférieur à [<sup>1</sup> 65.000]<sup>1</sup> euro par an.
+
+Si l'organisme représente un deuxième secteur, en vertu de l'article 145 le montant minimal de la subvention est augmenté d'un montant complémentaire d'au moins [<sup>1</sup> 7.550]<sup>1</sup> euro . Ces montants sont indexés selon des modalités fixées par le Collège.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 140, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 165
+
+§ 1er. Les subventions fixées à l'article 164 couvrent des frais de personnel, de formation et des frais de fonctionnement.
+
+Soixante pour cent, au moins, de ces subventions doivent être justifiés par des frais de personnel.
+
+§ 2. Le Collège détermine les types de frais admis à la subvention ainsi que les justificatifs à fournir.
+
+###### Art. 166
+
+Les subventions aux organismes sont liquidées suivant les modalités visées aux articles 119 et 122.
+
+### CHAPITRE V. - Contrôle et Inspection
+
+###### Art. 167
+
+Le Collège désigne les agents des services du Collège de la Commission communautaire française chargés du contrôle et de l'inspection des organismes agréés et des organismes qui ont demandé un agrément.
+
+###### Art. 168
+
+L'organisme se conforme aux dispositions relatives au contrôle et à l'inspection. A cette fin, il garantit à ces agents un libre accès à ses locaux et la possibilité de consulter sur place les pièces et documents nécessaires à l'accomplissement de leur mission.
+
+## Titre IIIbis. [<sup>1</sup> Les organismes représentatifs et de coordination intersectorielle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 141, 010; En vigueur : 29-04-2024&gt;
+
+### Chapitre Ier. [<sup>1</sup> Définitions et missions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 142, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 168bis
+
+[<sup>1</sup> Le Collège peut agréer un organisme représentatif et de coordination intersectorielle selon les critères et les modalités qu'il détermine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 143, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 168ter
+
+[<sup>1</sup> L'organisme a pour missions de :
+
+1° coordonner les organismes représentatifs et de coordination sectorielle et leur offrir un espace de concertation commun ;
+
+2° réaliser la démarche d'évaluation qualitative transversale ;
+
+3° développer une coordination avec des structures d'appui des trois communautés présentes à Bruxelles en lien avec l'action sociale et la santé ;
+
+4° produire et diffuser des informations à destination des professionnels au sein des services ambulatoires, y compris en collaboration avec les autorités publiques ;
+
+5° contribuer à l'évaluation qualitative et le suivi de la mise en oeuvre du Plan social santé intégré bruxellois tel qu'approuvé par le Collège réuni de la Commission communautaire commune et le Collège de la Commission communautaire française le 7 juillet 2022 ;
+
+6° formuler, d'initiative ou à la demande du Collège, des avis et recommandations sur les politiques socio-sanitaires dans une optique générale et transversale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 143, 010; En vigueur : 29-04-2024&gt;
+
+### Chapitre II. [<sup>1</sup> Conditions d'agrément]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 144, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 168quater
+
+[<sup>1</sup> § 1er. - Pour être agréé, l'organisme représentatif et de coordination intersectorielle :
+
+1° rassemble au moins 50 % des services ambulatoires tels que définis à l'article 2, 2°, agréés du présent décret et au moins 9 secteurs tels que définis à l'article 2, 5° ;
+
+2° satisfait aux conditions prévues à l'article 146.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 145, 010; En vigueur : 29-04-2024&gt;
+
+### Chapitre III. [<sup>1</sup> Procédure d'agrément]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 146, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 168quinquies
+
+[<sup>1</sup> La procédure d'agrément relative aux organismes représentatifs et de coordination intersectorielle, prévue aux articles 147 à 162, est applicable aux organismes représentatifs et de coordination intersectorielle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 147, 010; En vigueur : 29-04-2024&gt;
+
+### Chapitre IV. [<sup>1</sup> Normes et dispositions relatives au subventions des organismes représentatifs et de coordination intersectorielles]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 148, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 168sexies
+
+[<sup>1</sup> Les normes et dispositions relatives aux subventions prévues aux articles 163 à 166 sont applicables aux organismes représentatifs et de coordination intersectorielle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 149, 010; En vigueur : 29-04-2024&gt;
+
+### Chapitre V. [<sup>1</sup> Contrôle et inspection]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 150, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 168septies
+
+[<sup>1</sup> Les dispositions relatives au contrôle et à l'inspection des organismes représentatifs et de coordination intersectorielle, prévues aux articles 167 et 168, sont applicables aux organismes représentatifs et de coordination intersectorielle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-02-01/22, art. 151, 010; En vigueur : 29-04-2024&gt;
+
+## TITRE IV. - Demarche d'évaluation qualitative
+
+### CHAPITRE Ier. - Définition
+
+###### Art. 169
+
+§ 1er. La démarche d'évaluation qualitative vise l'amélioration du service [<sup>1</sup> ambulatoire]<sup>1</sup> proposé aux bénéficiaires et à la population dans son ensemble en termes de prévention, d'aide ou de soin, compte tenu des moyens disponibles en effectifs, ressources financières et structures.
+
+§ 2. Sous réserve de la loi sur le bien-être au travail et des prérogatives des organisations syndicales, la démarche d'évaluation qualitative est un processus permanent et structuré d'auto-évaluation qui mobilise l'ensemble des ressources internes du service ambulatoire ou de l'organisme.
+
+§ 3. Les membres du personnel du service ambulatoire ou de l'organisme participent directement à la démarche d'évaluation qualitative selon des modalités fixées, en concertation avec les représentants légaux des travailleurs, par le service ambulatoire ou l'organisme.
+
+Le Conseil d'administration du service ambulatoire ou de l'organisme s'implique dans la démarche d'évaluation qualitative selon les modalités qu'il détermine.
+
+Les partenaires du service ambulatoire ou de l'organisme peuvent être associés à la démarche d'évaluation qualitative en fonction des thèmes choisis.
+
+Dans le respect des règles déontologiques générales propres à chaque secteur [<sup>1</sup> et au centre social santé intégré]<sup>1</sup>, les bénéficiaires du service ambulatoire ou les affiliés de l'organisme peuvent être consultés, directement ou indirectement, à propos de la démarche d'évaluation qualitative.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 152, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE II. - Méthodologie
+
+###### Art. 170
+
+[<sup>1</sup> § 1er. - La démarche d'évaluation qualitative porte sur un ou plusieurs thèmes de travail choisi(s) par chaque service ambulatoire ou organisme dans une liste de thèmes propres à son secteur ou liés à ses missions.
+
+§ 2. - Dans le cadre d'un centre social santé intégré institué par une asbl chapeau ou multi-agrée, les services intégrés ne doivent pas avoir une démarche d'évaluation qualitative pour chaque agrément mais bien uniquement au niveau de l'agrément centre social santé intégré.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 153, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 171
+
+§ 1er. Tous les trois ans et selon les modalités qu'il détermine, le Collège demande aux services ambulatoires et organismes de proposer des thèmes de travail en lien avec les missions propres à chaque secteur [<sup>1</sup> ou au centre social santé intégré]<sup>1</sup>.
+
+§ 2. - L'ensemble de ces propositions est transmis au Conseil consultatif qui établit une proposition de sélection de thèmes par secteur. Il motive sa proposition et la transmet au Collège dans un délai d'un mois à dater de sa saisine [<sup>1</sup> et pour les centres social santé intégrés. ]<sup>1</sup>.
+
+§ 3. - Le Collège arrête la liste des thèmes par secteur [<sup>1</sup> et pour les centres social santé intégrés]<sup>1</sup> et la transmet aux services ainsi qu'à l'Assemblée de la Commission communautaire française.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 154, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 172
+
+La démarche d'évaluation qualitative est formalisée par la remise au Collège d'un projet établi, pour trois ans, par le service ambulatoire ou l'organisme. Ce projet comporte :
+
+1° le choix motivé du ou des thèmes;
+
+2° une analyse de l'environnement du service [<sup>1</sup> ambulatoire]<sup>1</sup> ou de l'organisme en relation avec ce ou ces thèmes;
+
+3° les objectifs visés par la démarche d'évaluation qualitative;
+
+4° les modalités de mise en oeuvre de ces objectifs;
+
+5° les modalités d'évaluation de la mise en oeuvre de la démarche d'évaluation qualitative déterminés par le service [<sup>1</sup> ambulatoire]<sup>1</sup> ou l'organisme.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 155, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 173
+
+Dans la limite des crédits disponibles, le Collège accompagne la démarche d'évaluation qualitative sur les plans méthodologique et financier, selon les modalités qu'il détermine. Il désigne les agents de ses services, autres que le service d'inspection, chargés de cet accompagnement.
+
+###### Art. 174
+
+D'initiative ou à la demande du Collège, le Conseil consultatif remet un avis sur la démarche d'évaluation qualitative.
+
+### CHAPITRE III. - Rapports sectoriels et intersectoriels
+
+###### Art. 175
+
+Chaque année, le Collège, se basant notamment sur le rapport d'activité visé à l'article 104, établit un rapport portant sur les démarches d'évaluation qualitative initiées dans le courant de l'année précédente. Ce rapport est soumis, pour avis, au Conseil consultatif.
+
+Le rapport ainsi que l'avis du Conseil consultatif sont communiqués aux services ambulatoires et organismes agréés ainsi qu'à l'Assemblée de la Commission communautaire française.
+
+###### Art. 176
+
+Tous les trois ans, se basant notamment sur les rapports prévus à l'article 172, le Collège établit un rapport comportant une analyse sectorielle [<sup>1</sup> ...]<sup>1</sup> intersectorielle [<sup>1</sup> et des centres social santé intégrés]<sup>1</sup> portant sur la mise en oeuvre des démarches d'évaluation qualitative. Ce rapport est soumis, pour avis, au Conseil consultatif. Le rapport ainsi que l'avis du Conseil consultatif sont communiqués aux services ambulatoires et organismes agréés, ainsi qu'à l'Assemblée de la Commission communautaire française.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 156, 010; En vigueur : 29-04-2024&gt;
+
+## TITRE V. - Les réseaux
+
+### CHAPITRE Ier. - Définitions, objectifs et champ d'application
+
+###### Art. 177
+
+§ 1er. Les réseaux sont organisés sur base [<sup>1</sup> territoriale]<sup>1</sup> et s'organisent autour d'une ou plusieurs thématiques. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Le réseau constitue une forme organisée d'action collective sur la base d'une démarche volontaire de coopération, unissant des services ambulatoires, des services d'accompagnement pour personnes handicapées et d'autres associations, dans des relations non hiérarchiques.
+
+§ 3. La finalité du réseau est d'améliorer la coordination, la complémentarité, la pluridisciplinarité, la continuité et la qualité des prestations et activités en faveur [<sup>1</sup> de l'usager]<sup>1</sup> et/ou de la population du territoire desservi.
+
+[<sup>1</sup> § 4. - Le réseau se coordonne avec l'instance de coordination du territoire dans lequel il exerce ses activités. Les réseaux peuvent être reliés au niveau régional, d'un bassin ou d'un quartier.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 157, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 178
+
+En fonction de leur objet, les réseaux mettent en oeuvre des activités de soins, d'action sociale [<sup>1</sup> y compris]<sup>1</sup> d'assistance familiale.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 158, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE II. - Agrément et dispositions relatives aux subventions
+
+#### Section Ire. - Conditions d'agrément.
+
+###### Art. 179
+
+Le Collège fixe le nombre maximum de réseaux qu'il agrée.
+
+###### Art. 180
+
+Le promoteur du réseau est un service ambulatoire ou un organisme agréé ou un réseau constitué sous la forme juridique d'une association sans but lucratif.
+
+Par dérogation du Collège, le promoteur peut être une association sans but lucratif subventionnée dans le cadre des subventions facultatives de la santé, de l'action sociale ou de la famille et cela depuis au moins 5 ans. Un service ambulatoire ne peut être promoteur que d'un seul réseau agréé.
+
+###### Art. 181
+
+Le réseau, tel que défini [<sup>1</sup> à l'article 177]<sup>1</sup>, compte au moins trois partenaires dont deux issus de secteurs différents.[<sup>2</sup> ou d'un centre social santé intégré]<sup>2</sup>
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 44, 003; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 159, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 182
+
+Le réseau a pour objectif l'amélioration du soin, de l'action sociale ou de l'aide aux familles [<sup>1</sup> en favorisant une approche intégrée de ces différents domaines]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 160, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 183
+
+Le réseau répond à un besoin des [<sup>1</sup> usagers]<sup>1</sup> sur un territoire défini. Il prend en compte l'environnement sanitaire et social ainsi que l'offre de services existante.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 161, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 184
+
+Les acteurs du réseau respectent la déontologie en vigueur dans les professions concernées et du secret professionnel partagé.
+
+#### Section II. - Procédure d'octroi ou de refus d'agrément
+
+###### Art. 185
+
+[<sup>1</sup> Le Collège agrée un réseau pour une durée de cinq ans renouvelable, si un financement reste justifié compte tenu des crédits disponibles et de l'agrément d'autres réseaux et si son évaluation par les services du Collège est favorable.
+
+Les modalités de cette évaluation sont fixées par le Collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 162, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 186
+
+Pour être agréé, le réseau satisfait aux conditions suivantes :
+
+1° avoir un promoteur constitué sous forme d'association sans but lucratif;
+
+2° exercer ses activités principalement sur le territoire de la Région de Bruxelles-Capitale.
+
+###### Art. 187
+
+§ 1er. La demande d'agrément est introduite par le promoteur du réseau auprès du Collège. Le Collège fixe les modalités d'introduction de cette demande.
+
+Le dossier de demande d'agrément comprend les éléments suivants :
+
+1° le nom du réseau;
+
+2° l'historique de la création du réseau;
+
+3° l'objet du réseau et les objectifs opérationnels poursuivis;
+
+4° la population concernée et le territoire desservi;
+
+5° le siège administratif du réseau;
+
+6° l'identification précise du promoteur du réseau, le nom de la personne de contact;
+
+7° les membres du réseau, leurs fonctions éventuelles au sein du réseau et leurs champs d'intervention respectifs;
+
+8° la description des activités du réseau;
+
+9° les modalités d'adhésion et de démission des membres du réseau;
+
+10° les modalités de représentation des [<sup>1</sup> usagers]<sup>1</sup>, s'il échoit;
+
+11° l'organisation de la coordination assurant les interactions et les liens entre les membres, les conditions de fonctionnement du projet transversal et[<sup>1</sup> ...]<sup>1</sup> les modalités prévues pour assurer la continuité des activités du réseau;
+
+12° [<sup>1</sup> ...]<sup>1</sup>
+
+13° le calendrier prévisionnel de mise en oeuvre sous forme d'objectifs à atteindre sur [<sup>1</sup> cinq]<sup>1</sup> ans et prévoyant un système d'évaluation;
+
+14° le budget prévisionnel sur [<sup>1</sup> cinq]<sup>1</sup> ans;
+
+15° les conditions de dissolution du réseau;
+
+§ 2. Si le réseau est constitué sous forme d'association sans but lucratif, l'article 64, § 2, 1° à 11° est d'application.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 163, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 188
+
+[<sup>1</sup> Les services du Collège soumettent]<sup>1</sup> le dossier pour avis au Conseil consultatif. Celui-ci rend son avis dans un délai maximum de trois mois à dater de sa saisine.
+
+La décision du Collège portant sur l'agrément du réseau précise les éléments suivants :
+
+1° le promoteur du réseau;
+
+2° le statut juridique du réseau;
+
+3° les membres du réseau;
+
+4° le territoire desservi;
+
+5° l'objet du réseau;
+
+6° les objectifs poursuivis;
+
+7° les actions du réseau;
+
+8° les modalités d'organisation de la coordination assurant les interactions et les liens entre les membres;
+
+9° le montant de la subvention forfaitaire pour les [<sup>1</sup> cinq]<sup>1</sup> ans.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 164, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 189
+
+En cas de refus d'agrément, le Collège notifie sa décision au demandeur.
+
+###### Art. 190
+
+Pour le renouvellement de l'agrément, le réseau introduit sa demande actualisée [<sup>1</sup> aux services du Collège]<sup>1</sup> et en adresse une copie à ses services 6 mois avant la date d'échéance.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 165, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 191
+
+L'agrément du réseau peut être modifié annuellement par le Collège. Le Collège notifie sa décision au promoteur.
+
+###### Art. 192
+
+L'agrément du réseau peut être retiré en cas de non respect de la décision du Collège visée [<sup>1</sup> à l'article 188]<sup>1</sup>.
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 45, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 193
+
+Les membres du réseau, au moment de sa création et du renouvellement éventuel de son agrément, signent entre eux une convention de collaboration qui précise les modalités de collaboration.
+
+Cette convention constitutive est signée par tout nouveau membre du réseau. Les signataires s'engagent à participer aux actions du réseau.
+
+#### Section III. - Subventions
+
+###### Art. 194
+
+Le Collège fixe la subvention forfaitaire octroyée au réseau agréé. Cette subvention est indexée selon les modalités fixées à l'article 126.
+
+###### Art. 195
+
+Cette subvention forfaitaire est affectée à des frais :
+
+1° de rémunération et d'honoraires;
+
+2° de formation;
+
+3° de gestion et de fonctionnement;
+
+4° de mise en oeuvre des actions, y compris des frais de promotion et de publication;
+
+5° de déplacement en Belgique.
+
+###### Art. 196
+
+Cette subvention forfaitaire est liquidée selon les modalités de liquidation fixées aux articles 119 et 122.
+
+### CHAPITRE III. [<sup>1</sup> - Contrôle et inspection ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2016-07-20/25, art. 46, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 196/1
+
+[<sup>1</sup> Le Collège désigne les agents chargés du contrôle et de l'inspection des réseaux agréés et des associations qui ont demandé un agrément comme réseau.
+
+La mission de l'inspection porte sur le respect des dispositions visées à l'article 177, § 3. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2016-07-20/25, art. 47, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 196/2
+
+[<sup>1</sup> Le réseau se conforme aux dispositions relatives au contrôle et à l'inspection. A cette fin, il garantit à ces agents un libre accès à ses locaux et la possibilité de consulter sur place les pièces et documents nécessaires à l'accomplissement de leur mission. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DEC 2016-07-20/25, art. 48, 003; En vigueur : 01-01-2016&gt;
+
+## TITRE Vbis.
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE I.
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/3
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/4
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/5
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/6
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/7
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/8
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/9
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/10
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/11
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/12
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/13
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 196/14
+
+&lt;Abrogé par DCFR 2024-02-01/22, art. 166, 010; En vigueur : 29-04-2024&gt;
+
+## TITRE VI.
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 64, 003; En vigueur : 01-01-2016&gt;
+
+###### Art. 197
+
+&lt;Abrogé par DEC 2016-07-20/25, art. 64, 003; En vigueur : 01-01-2016&gt;
+
+## TITRE VII. - Dispositions abrogatoires, transitoires et finales
+
+###### Art. 198
+
+Sont abrogés :
+
+1° le décret du 29 mars 1993 de la Communauté française relatif à l'agrément et au subventionnement des associations de santé intégrée;
+
+2° le décret de la Commission communautaire française du 16 juillet 1994 relatif à l'agrément et aux subventions des centres de planning familial;
+
+3° le décret de la Commission communautaire française du 27 avril 1995 relatif à l'agrément et aux subventions des [<sup>2</sup> services actifs en matière de drogues et addictions]<sup>2</sup>;
+
+4° le décret de la Commission communautaire française du 27 avril 1995 relatif à l'agrément et aux subventions des services de santé mentale;
+
+5° le décret de la Communauté française du 18 juillet 1996 organisant l'agrément des institutions pratiquant la médiation de dettes;
+
+6° le décret de la Commission communautaire française du 7 novembre 1997 fixant les règles d'agrément et d'octroi des subventions aux centres d'action sociale globale;
+
+7° le décret de la Commission communautaire française du 4 mars 1999 organisant l'agrément et le subventionnement des [<sup>3</sup> services de coordination de soins et d'aide à domicile]<sup>3</sup> et des services de soins palliatifs et continués;
+
+8° le décret de la Commission communautaire française du 7 mai 1999 relatif à l'agrément et à l'octroi de subventions aux services d'aide à domicile;
+
+9° les chapitres VII et VIII du décret de la Commission communautaire française du 6 juillet 2001 modifiant diverses dispositions relatives au subventions accordées dans le secteur de la politique de la santé et de l'aide aux personnes;
+
+10° le décret de la Commission communautaire française du 4 décembre 2003 relatif à l'agrément et à l'octroi de subventions aux services pour les missions d'aide, d'une part, aux victimes et à leurs proches et, d'autre part, aux inculpés et condamnés en liberté, aux ex-détenus et à leurs proches;
+
+11° les articles [<sup>1</sup> 2, 2° et 3° et 10, § 2]<sup>1</sup> du décret de la Commission communautaire française du 16 juin 2005 relatif à l'agrément et à l'octroi de subventions aux organismes représentatifs de l'Action sociale et de la Famille;
+
+12° le décret de la Commission communautaire française du 16 (NOTE : Justel lit "17") avril 2008 relatif à l'agrément et à l'octroi de subventions aux services " Espaces-Rencontres ".
+
+----------
+
+(1)&lt;DEC 2016-07-20/25, art. 65, 003; En vigueur : 31-12-2009&gt;
+
+(2)&lt;DCFR 2024-02-01/22, art. 2, 010; En vigueur : 29-04-2024&gt;
+
+(3)&lt;DCFR 2024-02-01/22, art. 3, 010; En vigueur : 29-04-2024&gt;
+
+###### Art. 199
+
+Les services ambulatoires et les organismes agréés par la Commission communautaire française à la date d'entrée en vigueur du décret sont agréés à durée indéterminée. Ils sont soumis aux dispositions du décret et à ses arrêtés d'exécution.
+
+Dès la mise en application du décret, le Collège fixe, sur trois ans, le calendrier selon lequel les services ambulatoires et organismes entament une démarche d'évaluation qualitative.
+
+###### Art. 200
+
+En dérogation de l'article 186, les réseaux subventionnés par la décision du Collège du 14 février 2008 octroyant une subvention aux promoteurs des projets de réseaux de santé, sont agréés à la date d'entrée en vigueur du décret pour une durée de deux ans. Au terme de l'agrément de deux ans, un nouvel agrément de trois ans peut, éventuellement, leur être octroyé.
+
+###### Art. 201
+
+[<sup>1</sup> Le présent décret entre en vigueur au 1er janvier 2024]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-02-01/22, art. 167, 010; En vigueur : 29-04-2024&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 5 mars 2009.
+
+M. Benoît CEREXHE,
+
+Président du Collège de la Commission communautaire française, chargé de la Fonction publique et de la Santé
+
+M. Ch. PICQUE,
+
+Membre du Collège de la Commission communautaire française, chargé de la Cohésion sociale
+
+Mme E. HUYTEBROECK,
+
+Membre du Collège de la Commission communautaire française, chargée du Budget, des Personnes handicapées et du Tourisme
+
+Mme F. DUPUIS,
+
+Membre du Collège de la Commission communautaire française, chargée de la Formation professionnelle, de l'Enseignement, de la Culture et du Transport scolaire
+
+M. E. KIR,
+
+Membre du Collège de la Commission communautaire française, chargé de l'Action sociale, de la Famille et du Sport
