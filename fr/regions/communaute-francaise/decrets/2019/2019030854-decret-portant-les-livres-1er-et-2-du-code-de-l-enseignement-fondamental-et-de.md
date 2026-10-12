@@ -1,0 +1,583 @@
+---
+title: "Décret portant les livres 1er et 2 du Code de l'enseignement fondamental et de l'enseignement secondaire, et mettant en place le tronc commun"
+identifier: "2019030854"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019030854/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2019-05-03
+published: 2019-09-19
+entry_into_force: 2020-09-01
+last_amended: 2026-08-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019030854/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 19-09-2019 et mise à jour au 05-08-2026"
+retrieved: 2026-10-12
+---
+
+# 3 MAI 2019. - Décret portant les livres 1er et 2 du Code de l'enseignement fondamental et de l'enseignement secondaire, et mettant en place le tronc commun
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## CHAPITRE 1er. - Creation du code de l'enseignement fondamental et de l'enseignement secondaire
+
+#### Art. 1er
+
+Il est créé un Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+Insertion des livres 1er et 2 dans le Code de l'enseignement fondamental et de l'enseignement secondaire
+
+## CHAPITRE II. - Insertion des livres 1er et 2 dans le code de l'enseignement fondamental et de l'enseignement secondaire
+
+#### Art. 2
+
+Il est inséré dans le Code de l'enseignement fondamental et de l'enseignement secondaire les livres 1er et 2 dont la teneur suit :
+
+(Pour le Code, voir : 2019-05-03/55)
+
+## CHAPITRE III. - Dispositions finales
+
+### Section 1<sup>ère</sup>. - Dispositions abrogatoires et modificatives
+
+#### Art. 3
+
+Les règles suivantes sont abrogées au 1er septembre 2020 :
+
+1° dans les lois sur l'enseignement primaire, coordonnées le 20 aout 1957 :
+
+a) les articles 8 à 10 [<sup>2</sup> sauf l'article 10, alinéa 5]<sup>2</sup> ;
+
+b) [<sup>2</sup> l'article 13]<sup>2</sup> ;
+
+c) l'article 16, point 3° ;
+
+d) l'article 23, alinéa 3 ;
+
+2° dans la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement :
+
+a) l'article 2 ;
+
+b) la première phrase de l'article 3, paragraphe 1er, alinéa 1er ;
+
+c) les articles 4 à 6 ;
+
+d) les articles 8 à 8ter ;
+
+e) l'article 9 ;
+
+f) l'article 11 ;
+
+g) à l'article 12, le paragraphe 1er, alinéas 1er et 3, et le paragraphe 1bis, alinéa 1er ;
+
+h) l'article 24, paragraphes 2, 2ter, et 2septies ;
+
+i) l'article 33bis ;
+
+j) les articles 41 à 43 ;
+
+3° dans la loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement :
+
+a) l'article 9, alinéas 2 à 4 ;
+
+b) l'article 10, alinéas 3 à 5 ;
+
+c) les articles 11 et 12 ;
+
+4° dans la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur, à l'article 1er, le paragraphe 2 ;
+
+5° dans la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire :
+
+a) l'article 3 ;
+
+b) l'article 4bis, paragraphes 1er et 5 ;
+
+c) les articles 8 et 10bis ;
+
+6° dans la loi du 29 juin 1983 concernant l'obligation scolaire :
+
+a) l'article 1er, à l'exception du paragraphe 1er, alinéa 1er et alinéa 2, du paragraphe 3, et du paragraphe 4bis, points 2° et 3° ;
+
+b) les articles 2 à 6 ;
+
+7° le décret du 31 mars 1994 définissant la neutralité de l'enseignement de la Communauté ;
+
+8° dans le décret du 14 mars 1995 relatif à la promotion d'une école de la réussite dans l'enseignement fondamentale, à l'article 4bis, les paragraphes 1 à 5.
+
+9° dans le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre :
+
+a) les articles 2 et 3 ;
+
+b) à l'article 4, les alinéas 1er à 3 et l'alinéa 6 ;
+
+c) les articles 6 à 12 ;
+
+d) à l'article 16, au paragraphe 2, les alinéas 2 à 5, à l'exception de la deuxième phrase de l'alinéa 5, et le paragraphe 3 ;
+
+e) l'article 16bis ;
+
+f) à l'article 17, les paragraphes 4 et 5 ;
+
+g) les articles 18 et 19 ;
+
+h) à l'article 27, les paragraphes 3 à 5 ;
+
+i) à l'article 36, les paragraphes 3 à 5 ;
+
+j) l'article 39 ;
+
+k) l'article 39bis, paragraphe 2 ;
+
+l) les articles 44, 45, 47 et 48 ;
+
+m) à l'article 50, le paragraphe 3 et le paragraphe 4, alinéa 1er ;
+
+n) les articles 51 et 52 ;
+
+o) l'article 61 ;
+
+p) le Chapitre Vbis ;
+
+q) le Chapitre VII ;
+
+r) le Chapitre VIII ;
+
+s) les articles 76, à l'exception des alinéas 3 et 6, 77 et 77bis ;
+
+t) à l'article 78, les paragraphes 1er à 3 ;
+
+u) l'article 79, § 1er ;
+
+v) l'article 79bis ;
+
+w) l'article 80, à l'exception de l'alinéa 2 du paragraphe 1er ;
+
+x) [<sup>1</sup> les articles 81, §§ 2 et 3, 82, 84 à 87;]<sup>1</sup>
+
+y) l'article 88, à l'exception de l'alinéa 2 du paragraphe 1er, et du paragraphe 3 ;
+
+z) [<sup>1</sup> les articles 89, §§ 2 et 3, 90, 92 à 94]<sup>1</sup>;
+
+aa) les articles 100, 101 et 102 ;
+
+bb) le Chapitre XIbis ;
+
+10° dans le décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la règlementation de l'enseignement :
+
+a) à l'article 2, les points 1° à 3° ;
+
+b) les articles 14 à 17 ;
+
+11° dans l'arrêté du Gouvernement de la Communauté française du 3 mai 1999 déterminant la forme et les règles de délivrance du certificat d'études de base, les articles 23 à 32 ;
+
+12° le décret du 17 décembre 2003 organisant la neutralité inhérente à l'enseignement officiel subventionné et portant diverses mesures en matière d'enseignement ;
+
+13° dans le décret du 3 mars 2004 organisant l'enseignement spécialisé :
+
+a) à l'article 4, paragraphe 2, le point 2° ;
+
+b) les articles 6, 7 et 45 ;
+
+c) les articles 120 à 123 ;
+
+d) l'article 130 ;
+
+14° le décret du 20 juillet 2006 relatif à la négociation avec les organes de représentation et de coordination des Pouvoirs organisateurs de l'enseignement et des centres P.M.S. subventionnés ;
+
+15° dans le décret du 12 janvier 2007 relatif au renforcement de [<sup>2</sup> l'éducation à]<sup>2</sup> la citoyenneté responsable et active au sein des établissements organisés ou subventionnés par la Communauté française :
+
+a) les articles 4 à 13 ;
+
+b) les articles 15 à 19.
+
+16° dans le décret du 11 mai 2007 relatif à l'enseignement en immersion linguistique :
+
+a) les articles 4 à 8 [<sup>3</sup> , sauf l'article 5, § 4]<sup>3</sup> ;
+
+b) l'article 10 ;
+
+c) les articles 13 à 15.
+
+17° dans le décret du 25 avril 2008 fixant les conditions pour pouvoir satisfaire à l'obligation scolaire en dehors de l'enseignement organisé ou subventionné par la Communauté française :
+
+a) le Chapitre Ier ;
+
+b) le Chapitre II ;
+
+c) dans le Chapitre III, les articles 5 à 17, 23 et 24 ;
+
+18° le décret du 30 avril 2009 portant sur les Associations de parents d'élèves et sur les Organisations représentatives des parents d'élèves ;
+
+19° dans le décret du 21 novembre 2013 organisant divers dispositifs scolaires favorisant le bien-être des jeunes à l'école, l'accrochage scolaire, la prévention de la violence à l'école et l'accompagnement des démarches d'orientation scolaire :
+
+a) à l'article 4, les points 1°, 3° et 10° ;
+
+b) les articles 5 et 6 ;
+
+c) les articles 19 et 20 ;
+
+d) l'article 23, alinéa 3 ;
+
+e) l'article 24 ;
+
+f) l'article 25, alinéa 1er ;
+
+g) les articles 31 à 36.
+
+----------
+
+(1)&lt;DCFR 2020-07-17/15, art. 3, 003; En vigueur : 17-07-2020&gt;
+
+(2)&lt;DCFR 2022-02-24/18, art. 51, 006; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFR 2024-05-16/79, art. 43, 009; En vigueur : 01-09-2020&gt;
+
+#### Art. 3/1
+
+[<sup>1</sup> L'article 81, § 1er, § 1er/1, l'article 83, l'article 89, § 1er, § 1er/1 et l'article 91 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre sont abrogés le 6 septembre 2020.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2020-07-17/15, art. 1, 003; En vigueur : 17-07-2020&gt;
+
+#### Art. 4
+
+Les règles suivantes sont abrogées progressivement au fur et à mesure de l'entrée en vigueur du tronc commun prévue par l'article 20 :
+
+1° dans la loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement :
+
+a) l'article 9, alinéa 1er ;
+
+b) l'article 10, alinéas 1er et 2 ;
+
+2° dans la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire :
+
+a) les articles 1 et 2 ;
+
+b) les articles 9, 9bis, 9ter et 10 ;
+
+3° dans la loi du 29 juin 1983 concernant l'obligation scolaire, l'article 1, paragraphe 1er, alinéa 2, et paragraphe 4bis, les points 2° et 3° ;
+
+[<sup>1</sup> 3° bis dans le décret du 14 mars 1995 relatif à la promotion d'une école de la réussite dans l'enseignement fondamental, l'article 1er, 2°;]<sup>1</sup>
+
+4° dans le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre :
+
+a) l'article 4, alinéas 4 et 5 ;
+
+b) l'article 5 ;
+
+c) à l'article 13, les paragraphes 1er, 3 et 4 ;
+
+d) l'article 14 ;
+
+e) l'article 15, alinéa 1er, alinéa 2, points 1° et 2°, et alinéa 3 ;
+
+f) à l'article 16, le paragraphe 1er et paragraphe 2, alinéa 1 et la deuxième phrase de l'alinéa 5 ;
+
+g) à l'article 17, les paragraphes 1er à 3 ;
+
+h) les articles 20 à 26 ;
+
+i) à l'article 27, les paragraphes 1er à 2 ;
+
+j) les articles 28 à 31 ;
+
+k) les articles 34 et 35 ;
+
+l) à l'article 36, les paragraphes 1er à 2bis ;
+
+m) les articles 37 et 38 ;
+
+n) à l'article 50, les paragraphes 1er et 2 ;
+
+o) l'article 54 ;
+
+p) l'article 55 ;
+
+q) l'article 62 ;
+
+r) l'article 76, alinéas 3 et 6 ;
+
+s) à l'article 78, paragraphe 4 ;
+
+t) à l'article 79, les paragraphes 2, 3, à l'exception de l'alinéa 1, 4 à 6 ;
+
+u) à l'article 80, le paragraphe 1er, alinéa 2 ;
+
+v) à l'article 88, le paragraphe 1er, alinéa 2, et le paragraphe 3 ;
+
+w) l'article 94 ;
+
+5° dans le décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la règlementation de l'enseignement :
+
+a) l'article 2, 10°, 14° ter, 17°, 18°, 20°, 21°, 23° et 24° ;
+
+b) les articles 3, 4, 5, 6, 7, 8, 9, 11 et 12 ;
+
+c) l'article 32, paragraphes 1er, 4 et 5 ;
+
+6° le décret du 2 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire et au certificat d'études de base au terme de l'enseignement primaire, [<sup>3</sup> à l'exception des articles 19 à 35 et de ses Titres III/2 et III/3]<sup>3</sup> ;
+
+7° le décret du 30 juin 2006 relatif à l'organisation pédagogique du 1er degré de l'enseignement secondaire ;
+
+8° dans le décret du 11 mai 2007 relatif à l'enseignement en immersion linguistique, [<sup>2</sup> les articles 5, § 4, 9 et 11]<sup>2</sup> ;
+
+9° dans le décret du 25 avril 2008 fixant les conditions pour pouvoir satisfaire à l'obligation scolaire en dehors de l'enseignement organisé ou subventionné par la Communauté française, les articles 18 à 22 ;
+
+10° dans le décret du 21 novembre 2013 organisant divers dispositifs scolaires favorisant le bien-être des jeunes à l'école, l'accrochage scolaire, la prévention de la violence à l'école et l'accompagnement des démarches d'orientation scolaire :
+
+a) l'article 23, alinéas 1 et 2 ;
+
+b) l'article 25, alinéas 2 à 4 ;
+
+c) l'article 26 ;
+
+d) les articles 28 à 30.
+
+----------
+
+(1)&lt;DCFR 2020-07-09/08, art. 8, 004; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 44, 009; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFR 2025-07-16/13, art. 17, 010; En vigueur : 01-10-2025&gt;
+
+#### Art. 4/1.
+
+[<sup>1</sup> Les articles 19 à 34 du décret du 2 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire sont abrogés le 23 août 2027. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2025-07-16/13, art. 18, 010; En vigueur : 01-10-2025&gt;
+
+#### Art. 5
+
+A partir du 1er septembre 2028, dans la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire, les termes " au deuxième degré " des articles 4bis, § 3, 4ter, § 2, 4quater, § 1er, 4quinques, § 1er, sont systématiquement remplacés par les termes " en quatrième année ".
+
+#### Art. 6
+
+L'article 58 de la loi du 21 juin 1985 concernant l'enseignement est remplacé par ce qui suit :
+
+" Article 58.- Le présent chapitre s'applique à l'enseignement supérieur non universitaire, organisé ou subventionné par la Communauté française. ".
+
+#### Art. 7
+
+Dans le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, à l'article 50, § 4, les modifications suivantes sont apportées :
+
+1° à l'alinéa 2, les mots " Par dérogation à l'alinéa précédent " sont remplacés par les mots " Par dérogation à l'article 1.3.1-1, 49°, du Code de l'enseignement fondamental et de l'enseignement secondaire " ;
+
+2° à l'alinéa 3 :
+
+a) les mots " Par dérogation à l'alinéa 1er " sont remplacés par les mots " Par dérogation à l'article 1.3.1-1, 47°, du Code de l'enseignement fondamental et de l'enseignement secondaire " ;
+
+b) les mots " aux articles 40 et 47, § 2 " sont remplacés par les mots " à l'article 40 du présent décret et à l'article 1.4.3-2, § 4, alinéa 2, du Code de l'enseignement fondamental et de l'enseignement secondaire ".
+
+Dans le même décret, dans le Chapitre X, il est inséré un article 94/1, rédigé comme suit :
+
+" Article 94/1. Les dispositions du présent chapitre ne s'appliquent pas au degré inférieur de l'enseignement secondaire visé à l'article 1.2.1-4 du Code l'enseignement fondamental et de l'enseignement secondaire ".
+
+#### Art. 8
+
+L'article 4 du décret du 21 février 2019 fixant l'organisation de l'enseignement supérieur en Hautes Ecoles est complété par un alinéa rédigé comme suit :
+
+" Les Hautes écoles tenues au respect du principe de neutralité ou celles qui décident d'y adhérer inscrivent une référence explicite au Livre 1er, Titre 7, Chapitre 4 du Code de l'enseignement fondamental et de l'enseignement secondaire dans leur projet pédagogique, social et culturel. ".
+
+#### Art. 9
+
+Les termes " et au certificat d'études de base au terme de l'enseignement primaire " sont supprimés de l'intitulé du décret du 2 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire et au certificat d'études de base au terme de l'enseignement primaire.
+
+#### Art. 10
+
+A la suite de l'article 9, dans le Chapitre II du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études, il est inséré un article 9/1, rédigé comme suit :
+
+" Article 9/1. - Les établissements tenus au respect du principe de neutralité ou ceux qui décident d'y adhérer sont soumis au respect des dispositions visées au Livre 1er, Titre 7, Chapitre 4, du Code de l'enseignement fondamental et de l'enseignement secondaire. ".
+
+#### Art. 11
+
+A l'article 11 du décret du 7 février 2019 définissant la formation initiale des enseignants, l'alinéa suivant est ajouté :
+
+" Lorsque de nouveaux référentiels sont adoptés ou que des modifications substantielles sont apportées à des référentiels existants, le Gouvernement examine, après avis de la COCOFIE, l'opportunité de modifier les disciplines ou familles de disciplines apparentées. ".
+
+#### Art. 12
+
+Dans le décret du 16 avril 1991 organisant l'enseignement de promotion sociale, à l'article 1er, il est inséré un paragraphe 4 et un paragraphe 5 formulés comme suit :
+
+" § 4. Par l'intermédiaire des fédérations de pouvoirs organisateurs auxquelles ils sont affiliés, les pouvoirs organisateurs visés au paragraphe 2 participent à la négociation visée au Livre 1er, Titre 6, Chapitre 5, du Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+§ 5. Les pouvoirs organisateurs visés au paragraphe 2 relevant de l'enseignement officiel sont soumis au principe de neutralité tel que défini au Livre 1er, Titre 7, Chapitre 4, du Code de l'enseignement fondamental et de l'enseignement secondaire. L'enseignement libre non confessionnel peut adhérer au principe de neutralité selon les modalités établies dans ces dispositions. ".
+
+#### Art. 13
+
+Dans le décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française, l'article 2 est complété d'un alinéa rédigé comme suit :
+
+" Par l'intermédiaire des fédérations de pouvoirs organisateurs auxquelles ils sont affiliés, les pouvoirs organisateurs de l'enseignement artistique à horaire réduit participent à la négociation visée au Livre 1er, Titre 6, Chapitre 5, du Code de l'enseignement fondamental et de l'enseignement secondaire. ".
+
+### Section II. - Dispositions transitoires
+
+#### Art. 14
+
+Durant les années scolaires 2020-2021 et 2021-2022, pour les écoles qui n'ont pas encore conclu de contrat d'objectifs conformément au Titre 5, Chapitre 2, Section 1re, du présent Code, l'article 13 du décret du 11 mai 2007 relatif à l'enseignement en immersion linguistique reste applicable en sa formulation antérieure au décret du 13 septembre 2018 modifiant le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre afin de déployer un nouveau cadre de pilotage, contractualisant les relations entre la Communauté française et les établissements scolaires.
+
+#### Art. 15
+
+Durant les années scolaires 2020-2021 et 2021-2022, pour les écoles qui n'ont pas encore conclu de contrat d'objectifs conformément au Titre 5, Chapitre 2, Section 1re, du présent Code, l'article 67/1 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre reste applicable en sa formulation antérieure au décret du 13 septembre 2018 modifiant le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre afin de déployer un nouveau cadre de pilotage, contractualisant les relations entre la Communauté française et les établissements scolaires.
+
+#### Art. 15/1.
+
+[<sup>1</sup> Par dérogation aux articles 1.5.2-1, alinéa 1er, et 1.5.2-9, § 1er, alinéa 1er, du Code de l'Enseignement fondamental et de l'Enseignement secondaire, la durée des contrats d'objectifs des écoles qui l'ont conclu entre le 1er août 2019 et le 31 décembre 2023 est de sept années et leur évaluation intervient au cours de leur septième année d'exécution.
+
+Par dérogation à l'alinéa 1er, s'il l'estime nécessaire, le pouvoir organisateur d'une école, en concertation avec le directeur, peut demander au directeur de zone, au plus tard avant la fin de la cinquième année d'exécution du contrat, d'organiser l'évaluation au cours de la sixième année d'exécution conformément à l'article 1.5.2-9, § 1er, alinéa 1er, du Code de l'Enseignement fondamental et de l'Enseignement secondaire. Dans ce cas, la durée du contrat d'objectifs de l'école concernée reste d'une durée de six années.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2025-07-16/13, art. 28, 010; En vigueur : 26-08-2024&gt;
+
+#### Art. 16
+
+Le rapport annuel visé à l'article 1.5.2-2, alinéa 5, du Code est remis pour la première fois au Parlement durant l'année 2021.
+
+#### Art. 17
+
+L'article 1.7.2-2, § 2, est applicable à la troisième année de l'enseignement maternel ordinaire durant l'année scolaire 2020-2021.
+
+#### Art. 18
+
+L'article 1.7.2-2, § 1er, n'est pas applicable aux élèves de la troisième année de l'enseignement maternel ordinaire durant l'année scolaire 2020-2021.
+
+Par dérogation à l'article 1.7.2-2, § 1er, alinéa 2, 2° et 3°, dans l'enseignement maternel, ordinaire et spécialisé, si un pouvoir organisateur démontre s'être contractuellement engagé avant le 14 mars 2019 dans le cadre de l'organisation d'une activité culturelle ou sportive, ou d'un séjour pédagogique prévu lors des années scolaires 2020-2021 ou 2021-2022, il n'est pas tenu d'observer les montants maximaux fixés par le Gouvernement pour l'organisation de cette activité ou ce séjour.
+
+Les Services du Gouvernement sont habilités à contrôler le respect de la condition prévue à l'alinéa précédent.
+
+#### Art. 18/1
+
+[<sup>1</sup> Les propositions relatives aux référentiels de compétences initiales et aux référentiels du Tronc commun transmises par les groupes de travail à la Commission des référentiels avant le 31 décembre 2019, en application des articles 60sexies et 60septies du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, sont réputées avoir été établies conformément aux articles 1.4.4-1 et 1.4.4-2 et constituent des projets de référentiels au sens de l'article 1.6.2-1, § 2, alinéa 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-12-18/15, art. 59, 002; En vigueur : 01-01-2020&gt;
+
+#### Art. 18/2
+
+[<sup>1</sup> Sans préjudice de l'organisation en tronc commun visée à l'article 20, les articles 2.3.1-3, 2.3.1-4 et 2.3.1-6 du Code de l'enseignement fondamental et de l'enseignement secondaire ne s'appliquent pas durant l'année scolaire 2022-2023.
+
+Par dérogation à l'article 4, 3° et 4°, e., l'article 1er, paragraphe 1er, alinéa 2 et paragraphe 4bis, 2° et 3° de la loi du 29 juin 1983 concernant l'obligation scolaire et l'article 15, alinéa 2, 1°, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre restent en vigueur durant l'année scolaire 2022-2023. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-03-31/23, art. 8, 007; En vigueur : 01-04-2022&gt;
+
+#### Art. 18/3
+
+[<sup>1</sup> Par dérogation à l'article 2.2.1-2, alinéa 4, du Code de l'enseignement fondamental et de l'enseignement secondaire, durant les années scolaires 2023-2024 et 2024-2025, dans les communes dotées d'un régime spécial visées à l'article 1.8.1-1, 1°, et dans les communes de la région bilingue de Bruxelles-Capitale, l'horaire hebdomadaire des élèves peut être maintenu à 28 périodes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-06-22/16, art. 10, 008; En vigueur : 28-08-2023&gt;
+
+#### Art. 18/4.
+
+[<sup>1</sup> Durant les années scolaires 2025-2026 et 2026-2027, l'épreuve externe commune certificative octroyant le Certificat d'études de base visée à l'article 2.3.2-3 du même Code est organisée conformément aux articles 19 à 34 du décret du 02 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire.
+
+Durant les années scolaires 2025-2026 et 2026-2027, le Certificat d'études de base est délivré selon les conditions, modalités et voies de recours suivantes :
+
+1° pour les élèves inscrits dans une école d'enseignement primaire ordinaire : conformément aux dispositions du Livre 2, Titre 3, Chapitre 1er, Section 4, du Code de l'enseignement fondamental et de l'enseignement secondaire ;
+
+2° pour les élèves inscrits dans une école d'enseignement spécialisé : conformément aux articles 27 et suivants et à l'article 57, alinéa 2, 5°, du décret du 03 mars 2004 organisant l'enseignement spécialisé ;
+
+3° pour les mineurs visés à l'article 20, alinéa 2, du décret du 02 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire : le jury visé à l'article 26 du décret du 02 juin 2006 précité avec possibilité de recours conformément à l'article 32 du même décret.
+
+[<sup>2</sup> Durant l'année scolaire 2025-2026, pour les élèves inscrits en première et en deuxième années différenciées, et l'année scolaire 2026-2027, pour les élèves inscrits en deuxième année différenciée, le certificat d'études de base est délivré selon les conditions, modalités et voies de recours visées à l'article 18 du décret du 30 juin 2006 relatif à l'organisation pédagogique du 1er degré de l'enseignement secondaire.
+
+Durant l'année scolaire 2026-2027, le Certificat d'études de base est délivré à tout élève de première année de l'enseignement secondaire non titulaire du Certificat d'études de base pour autant qu'il soit admis en deuxième année de l'enseignement secondaire à l'issue de l'année scolaire visée]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2026-03-19/12, art. 24, 012; En vigueur : 01-01-2026&gt;
+
+(2)&lt;DCFR 2026-05-28/14, art. 101, 013; En vigueur : 24-08-2026&gt;
+
+#### Art. 18/5.
+
+[<sup>1</sup> - L'évaluation externe diagnostique visée à l'article 1.6.3-2 du Code de l'Enseignement fondamental et de l'Enseignement secondaire est organisée, conformément à la Section 2 du Chapitre 3 du Titre 6 du Livre 1er du Code précité et est conçue par le groupe de travail visé à l'article 1.6.3-6 du même Code à partir de l'année scolaire 2025-2026 en vue de sa passation pour la première fois entre le 15 septembre et le 1er octobre 2026. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2025-12-04/04, art. 5, 011; En vigueur : 25-08-2025&gt;
+
+#### Art. 18/6.
+
+[<sup>1</sup> - L'utilisation du carnet d'orientation visé à l'article 1.4.6-7 du Code de l'enseignement fondamental et de l'enseignement secondaire est obligatoire à partir des années scolaires suivantes :
+
+1° 2026-2027 : pour tous les élèves scolarisés en 1ère année de l'enseignement secondaire ;
+
+2° 2027-2028 : pour tous les élèves scolarisés en 2ème année de l'enseignement secondaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-05-28/14, art. 102, 013; En vigueur : 24-08-2026&gt;
+
+#### Art. 18/7.
+
+[<sup>1</sup> - Durant l'année scolaire 2026-2027 et par dérogation à l'article 2.2.3-2/1 du Code de l'enseignement fondamental et de l'enseignement secondaire, les périodes d'accompagnement renforcé sont organisées au profit des élèves qui sont admis dans l'enseignement secondaire sans être titulaires du Certificat d'études de base ou qui ont obtenu un résultat inférieur à 50% à une ou plusieurs parties d'épreuve de l'épreuve externe commune certificative octroyant le Certificat d'études de base visée à l'article 2.3.2-3.
+
+Durant l'année scolaire 2026-2027 et par dérogation à l'article 1.10.2-2, § 5, alinéa 2, 1° /2, du même Code, la rubrique du volet " suivi de l'élève " du DAccE relative aux informations de suivi des apprentissages portant sur les informations nécessaires à la mise en place de dispositifs spécifiques complémentaires de différenciation et d'accompagnement renforcé pour l'élève de première secondaire renseigne uniquement, pour les élèves concernés, le fait que l'élève a obtenu un résultat inférieur à 50% à une ou plusieurs parties d'épreuve de l'épreuve externe commune certificative octroyant le Certificat d'études de base visée à l'article 2.3.2-3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-05-28/14, art. 103, 013; En vigueur : 24-08-2026&gt;
+
+### Section III. - Entrée en vigueur
+
+#### Art. 19
+
+Le présent décret entre en vigueur le 1er septembre 2020, à l'exception des [<sup>1</sup> articles 1.4.4-1 et 1.4.4-2 qui entrent en vigueur le 1er janvier 2020 [<sup>2</sup> , des articles 1.7.9-4 et 1.7.9-11 qui entrent en vigueur le 6 septembre 2020]<sup>2</sup> et des]<sup>1</sup> dispositions du Livre 1er, Titre 6, Chapitre 2 et Chapitre 4, qui entrent en vigueur le jour de la publication au Moniteur belge.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 60, 002; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-07-17/15, art. 5, 003; En vigueur : 17-07-2020&gt;
+
+#### Art. 20
+
+Les trois années de l'enseignement maternel sont organisées en tronc commun à partir de l'année scolaire 2020-2021. [<sup>1</sup> Les deux premières années de l'enseignement primaire sont organisées en tronc commun à partir de l'année scolaire 2022-2023 et la troisième et la quatrième années de l'enseignement primaire sont organisées en tronc commun à partir de l'année scolaire 2023-2024.]<sup>1</sup> Chaque année scolaire ultérieure, une année de l'enseignement primaire supplémentaire est organisée en tronc commun de sorte que la sixième année primaire est organisée selon ces modalités à partir de l'année scolaire 2025-2026 [<sup>2</sup> à l'exception des articles 2.3.2-1 à 2.3.2-13 du Code de l'enseignement fondamental et de l'enseignement secondaire qui seront mis en application à partir de l'année scolaire 2027-2028]<sup>2</sup>.
+
+Le degré inférieur de l'enseignement secondaire est organisé en tronc commun à partir de l'année scolaire 2026-2027 s'agissant de la première année, de l'année scolaire 2027-2028 s'agissant de la deuxième année, et de l'année scolaire 2028-2029 s'agissant de la troisième année.
+
+----------
+
+(1)&lt;ACF 2021-02-11/29, art. 2, 005; En vigueur : 15-03-2021&gt;
+
+(2)&lt;DCFR 2025-07-16/13, art. 20, 010; En vigueur : 01-10-2025&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 3 mai 2019.
+
+Le Ministre-Président, en charge de l'Egalité des Chances et des Droits des Femmes,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de l'Enseignement de Promotion sociale, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de la Jeunesse, de l'Aide à la jeunesse, des Maisons de justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT

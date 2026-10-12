@@ -1,0 +1,295 @@
+---
+title: "Décret-programme portant diverses mesures relatives à l'enseignement supérieur et à la Recherche, à la Culture, aux Fonds budgétaires, aux Bâtiments scolaires, à la Jeunesse"
+identifier: "2017030995"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017030995/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2017-07-19
+published: 2017-08-21
+entry_into_force: 2017-01-01
+last_amended: 2018-01-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017030995/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 21-08-2017 et mise à jour au 25-01-2018"
+retrieved: 2026-10-12
+---
+
+# 19 JUILLET 2017. - Décret-programme portant diverses mesures relatives à l'enseignement supérieur et à la Recherche, à la Culture, aux Fonds budgétaires, aux Bâtiments scolaires, à la Jeunesse
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## TITRE Ier. - Dispositions relatives à l'Enseignement supérieur et à la recherche
+
+#### Art. 1er
+
+L'article 2 du décret du 19 mai 2004 instituant un Fonds d'aide à la mobilité étudiante au sein de l'espace européen de l'enseignement supérieur est remplacé par ce qui suit :
+
+" Art. 2. Un fonds d'aide à la mobilité étudiante est créé.
+
+Ce fonds est destiné à soutenir toute forme de mobilité étudiante, au sens de ce décret.
+
+Ce fonds peut également servir à cofinancer le programme européen de mobilité de l'enseignement supérieur Erasmus+ 2014 -2020 et ses successeurs, selon un pourcentage fixé par le Gouvernement sur proposition du Conseil supérieur de la mobilité étudiante. ".
+
+#### Art. 2
+
+Dans l'article 6, § 3, du décret du 30 janvier 2014 relatif au financement de la recherche dans les universités, les modifications suivantes sont apportées :
+
+1° le b) est remplacé par un b) rédigé comme suit " b) le rapport entre le nombre, en ETP, de chercheurs postdoctoraux à durée déterminée chercheurs postdoctoraux en mobilité internationale IN et chargés de recherche du F.R.S.-FNRS de chaque université et le nombre de ces chercheurs postdoctoraux à durée déterminée de l'ensemble des universités. Le niveau minimal d'engagement de ces chercheurs postdoctoraux s'élève à au moins 0.5 ETP; ";
+
+2° le c) est remplacé par un c) rédigé suit :
+
+" c) le rapport entre le nombre, en ETP, de membres du personnel académique du cadre avec un minimum de 0,5 ETP, du personnel scientifique du cadre à temps plein et à titre définitif, des mandataires à durée indéterminée du F.R.S.FNRS de chaque université ayant soutenu leur thèse de doctorat dans une université hors Communauté française et le nombre de membres des personnels de mêmes catégories de l'ensemble des universités. Ce rapport se calcule sur base des données relatives aux 10 dernières années disponibles et en prenant en considération les nouveaux engagées de l'année précédente en activité au 1 er février de l'année concernée. ".
+
+#### Art. 3
+
+Dans l'article 7 du même décret, les mots " 31 décembre 2016 " sont remplacés par les mots " 31 décembre 2018 ".
+
+#### Art. 4
+
+A l'article 29 de la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires, les modifications suivantes sont apportées :
+
+1° le paragraphe 1er est complété par un alinéa rédigé comme suit :
+
+" A partir de l'année 2017, un montant de 1.575.000 euros est ajouté au montant obtenu en application du premier alinéa. A partir l'année 2018, ce montant est indexé conformément aux dispositions prévues au paragraphe 4. ";
+
+2° le 2e paragraphe est complété par un alinéa rédigé comme suit :
+
+" A partir de l'année 2017, un montant de 3.675.000 euros est ajouté au montant obtenu en application du premier alinéa. A partir l'année 2018, ce montant est indexé conformément aux dispositions prévues au paragraphe 4. ".
+
+#### Art. 5
+
+L'article 39, § 4bis, de la même loi, les mots " et 2015 -2016 et 2016 -17 " sont remplacés par les mots " , 2015-2016, 2016-2017 et à partir de l'année académique 2017-2018. ".
+
+#### Art. 6
+
+A l'article 12, § 2, alinéa 21, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, les mots " et 2016-17 " sont remplacés par les mots " , 2016-17 et à partir de l'année académique 2017-18 ".
+
+#### Art. 7
+
+L'article 10 du décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française est complété par un alinéa rédigé comme suit :
+
+A partir de l'année budgétaire 2017, un montant de 2.250.000 euros est ajouté au montant déterminé par les alinéas précédents après adaptation conformément à l'article 9. ".
+
+#### Art. 8
+
+Dans le décret du 21 septembre 2012 relatif à la représentation étudiante dans l'enseignement supérieur, il est inséré un article 43bis rédigé comme suit :
+
+" Art. 43bis. Les organisations représentatives des étudiants au niveau communautaire qui sont reconnues à la date du 30 juin 2016 conservent cette reconnaissance jusqu'au 31 décembre 2017. "
+
+#### Art. 9
+
+Par dérogation à l'article 31 du même décret, la demande de reconnaissance doit être introduite auprès du Gouvernement au plus tard le 1er septembre.
+
+#### Art. 10
+
+Un ou plusieurs " Conseiller(s) académique(s) " sont désignés au sein de chaque établissement d'enseignement supérieur visé aux articles 10, 11 et 12 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études.
+
+La charge de ce conseiller académique est divisible en quart temps, mi-temps, trois quart temps ou temps plein.
+
+#### Art. 11
+
+Le conseiller académique a pour missions, en collaboration notamment avec le personnel en charge des inscriptions, les autorités académiques et le personnel enseignant et académique :
+
+1° de conseiller l'étudiant dans l'élaboration de son programme d'études;
+
+2° de soutenir le futur étudiant dans la constitution de son dossier de valorisation de ses crédits déjà acquis;
+
+3° de soutenir le futur étudiant dans la constitution de son dossier de valorisation de ses savoirs et compétences acquis par l'expérience professionnelle ou personnelle;
+
+4° de permettre d'articuler au mieux les unités d'enseignement notamment en fonction de leurs prérequis et corequis.
+
+#### Art. 12
+
+Le conseiller académique exerce ses missions sous la responsabilité des autorités académiques.
+
+Chaque année, les établissements réalisent un rapport synthétique sur les parcours académiques de leurs étudiants, adressé pour le 15 octobre au plus tard au Ministre de l'Enseignement supérieur et à la commission de l'aide à la réussite de l'ARES, afin de présenter les problématiques ou constats importants réalisés par le ou les conseillers académiques au cours de l'année écoulée, ainsi que les éventuelles initiatives mise en oeuvre dans son institution pour améliorer le suivi des parcours des étudiants ou pour conseiller ceux-ci. Ce rapport communique également la liste du ou des conseillers académiques de l'institution et les qualités de ceux-ci justifiant leur recrutement en tant que conseillers académiques.
+
+#### Art. 13
+
+Les missions du conseiller académique peuvent être exercées par :
+
+1° un membre du personnel enseignant engagé ou désigné à titre temporaire déchargé en tout ou partie de sa fonction enseignante;
+
+2° un membre du personnel enseignant engagé ou nommé à titre définitif déchargé en tout ou partie de sa fonction enseignante;
+
+3° un membre du personnel administratif engagé ou désigné à titre temporaire;
+
+4° un membre du personnel administratif engagé ou nommé à titre définitif;
+
+5° par un membre du personnel dont l'engagement est régi par les dispositions de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+#### Art. 14
+
+A partir de l'année académique 2017-2018, une subvention est allouée par arrêté ministériel à chaque établissement d'enseignement supérieur afin de lui permettre de recruter un nombre de conseillers académiques en fonction du nombre moyen d'étudiants sur les quatre dernières années académiques :
+
+1° de 300 à 2.000 étudiants : 1 ETP
+
+2° de 2.000 à 8.000 étudiants : 1 ETP supplémentaire par tranche de 2.000 étudiants
+
+3° de 8.000 à 16.000 étudiants : 0,5 ETP supplémentaire par tranche de 2.000 étudiants
+
+4° à partir de 16.000 étudiants : 0,5 ETP supplémentaire par tranche de 4.000 étudiants
+
+Pour les Etablissements ayant de 0 à 300 étudiants, seul 0,5 ETP est alloué.
+
+La subvention allouée à chaque établissement est calculée en appliquant la formule suivante :
+
+1° pour l'année budgétaire 2017 : 19.459 euros par ETP
+
+2° pour l'année budgétaire 2018 : 59.459 euros par ETP.
+
+[<sup>1</sup> A partir de l'année budgétaire 2018]<sup>1</sup>, le montant par ETP est indexé à l'indice santé selon la formule suivante : montant définitif de l'année antérieure \* indice santé du mois de janvier de l'année considérée/indice santé du mois de janvier de l'année antérieure.
+
+----------
+
+(1)&lt;DCFR 2017-12-20/17, art. 17, 002; En vigueur : 01-01-2018&gt;
+
+#### Art. 15
+
+A partir de l'année 2018, le montant de la subvention due à chaque établissement est versée lors de la première quinzaine du mois de novembre.
+
+#### Art. 16
+
+Le versement de la subvention due à un établissement est suspendu si le rapport visé à l'article 12 n'a pas été transmis.
+
+#### Art. 17
+
+Les articles 10 à 16 entrent en vigueur à partir de l'année académique 2017-2018.
+
+## TITRE II. - Dispositions relatives à la culture
+
+### CHAPITRE Ier. - Dispositions modifiant le décret-cadre du 10 avril 2003 relatif à la reconnaissance et au subventionnement du secteur professionnel des Arts de la scène
+
+#### Art. 18
+
+Au Titre III du décret-cadre du 10 avril 2003 relatif à la reconnaissance et au subventionnement du secteur professionnel des arts de la scène, il est inséré un Chapitre III intitulé " Jetons de présence et frais de déplacement ".
+
+#### Art. 19
+
+Dans le Chapitre III du Titre III, inséré par l'article 10, du même décret-cadre, il est inséré un article 23 /1 rédigé comme suit :
+
+" Art. 23 /1. A l'exception des membres représentant le Ministre ou l'Administration, les membres de la Conférence des Présidents et Vice-présidents bénéficient d'une indemnité pour les frais de parcours entre leur domicile et le lieu de réunion, et reçoivent un jeton de présence d'un montant de 40 euros pour chaque réunion d'une demi-journée portant sur la coordination des instances créées en vertu des articles 4 et 5. ".
+
+### CHAPITRE II. - Disposition relative aux musées et autres institutions muséales reconnues en vertu du décret du 17 juillet 2002 relatif à la reconnaissance et au subventionnement des musées et autres institutions muséales
+
+#### Art. 20
+
+A l'article 8 du décret du 17 juillet 2002 relatif à la reconnaissance et au subventionnement des musées et autres institutions muséales, il est ajouté les termes " et dans la limite des crédits budgétaires " entre les termes " Après avis du Conseil " et les termes " , le Gouvernement répartit les musées reconnus ".
+
+### CHAPITRE III. - Dispositions modifiant le décret du 17 juillet 2003 relatif au soutien de l'action associative dans le champ de l'éducation permanente
+
+#### Art. 21
+
+Dans le décret du 17 juillet 2003 relatif au soutien de l'action associative dans le champ de l'éducation permanente, il est inséré un article 39/1 rédigé comme suit :
+
+" Art. 39 /1. Le Gouvernement n'accorde aucune reconnaissance à titre transitoire visée à l'article 6, § 1 er et 2, du décret du 17 juillet 2003 relatif au soutien de l'action associative dans le champ de l'Education permanente, en suite d'une demande introduite au plus tard le 31 mars 2017.
+
+Après consultation du Conseil, le Gouvernement fixe les modalités spécifiques d'introduction des demandes de reconnaissance en faveur des associations visées à l'alinéa 1 er souhaitant réintroduire leur demande de reconnaissance en 2018. ".
+
+#### Art. 22
+
+Dans le même décret, il est inséré un article 39/2 rédigé comme suit :
+
+" Art. 39/2. § 1er. Par dérogation à l'article 10, § 3, alinéa 1er, le contrat-programme qui arrive à échéance au cours de l'année civile 2017, est prolongé d'une durée d'un an pour atteindre une durée totale de six ans dans l'hypothèse où l'association a, en application de l'article 26, § 2, sollicité un changement dans une catégorie de forfait supérieure et/ou d'axe.
+
+Dans l'hypothèse visée à l'alinéa 1 er, l'association qui en application de l'article 19, alinéa 2, a transmis à l'Administration, au plus tard le 30 juin 2017, le rapport général de l'exécution de son contrat programme et, le cas échéant, un nouveau plan d'action pluriannuel en double exemplaire, transmet à l'administration, au plus tard le 30 juin 2018, les éléments suivants :
+
+1° un rapport d'activités et un bilan comptable conformément à l'article 19, alinéa 1er;
+
+2° un addendum au rapport général d'exécution communiqué en 2017;
+
+3° le cas échéant, un nouveau plan d'action quinquennal ou l'addendum au plan déposé en 2017.
+
+§ 2. Par dérogation aux dispositions prévues à l'article 26, § 2, les demandes de changement de catégorie de forfait et/ou d'axe introduites au plus tard au 30 juin 2017 ne sont pas examinées et aucun changement de catégorie de forfait et/ou d'axes n'est octroyé, sauf en cas de demande de changement dans un forfait inférieur ou de changement d'axe n'ayant pas d'impact sur le plan budgétaire. ".
+
+## TITRE III. - Disposition relative aux fonds budgétaires figurant au budget général des dépenses de la Communauté française
+
+### CHAPITRE Ier. - Disposition modifiant le décret du 27 octobre 1997 contenant les Fonds budgétaires figurant au budget général des dépenses de la Communauté française
+
+#### Art. 23
+
+Un point 69 est ajouté au tableau annexé au décret du 27 octobre 1997 contenant les Fonds budgétaires figurant au budget général des dépenses de la Communauté française, selon le tableau repris à l'annexe 1redu présent décret.
+
+#### Art. 24
+
+Le point 27 du tableau annexé au décret du 27 octobre 1997 contenant les Fonds budgétaires figurant au budget des dépenses de la Communauté française est modifié selon le tableau joint en annexe 2 du présent décret.
+
+## TITRE IV. - Dispositions relatives aux bâtiments scolaires
+
+#### Art. 25
+
+Dans l'article 5, § 2, 3°, du décret du 5 février 1990 relatif aux bâtiments scolaires de l'enseignement non universitaire organisé ou subventionné par la Communauté française, à la fin il est rajouté :
+
+" A partir de 2017, cette dotation est de 27.153.000 EUR. ".
+
+## TITRE V. - Disposition relative à la Jeunesse
+
+### CHAPITRE Ier. - Modification du décret du 20 juillet 2000 déterminant les conditions d'agrément et de subventionnement des maisons de jeunes, centres de rencontres et d'hébergement et centres d'information des jeunes et de leurs fédérations
+
+#### Art. 26
+
+A l'article 44, § 1er, 1°, du décret du 20 juillet 2000 déterminant les conditions d'agrément et de subventionnement des maisons de jeunes, centres de rencontres et d'hébergement et centres d'information des jeunes et de leurs fédérations, un alinéa est ajouté, rédigé comme suit :
+
+" Par dérogation au point f), le Gouvernement peut, après avoir obtenu l'avis de la Commission consultative des maisons et centres de jeunes, déterminer des critères de priorisation pour l'attribution de l'intervention visée au point f), en fonction des moyens disponibles. " Ces critères sont notamment relatifs à :
+
+\- la prise en compte du type d'agrément de l'association;
+
+\- le volume d'emploi existant au sein de l'association;
+
+\- l'ancienneté d'agrément de l'association.
+
+Lors de l'année 2017, l'association qui bénéficie pour la première fois de la subvention visée au point f) peut la justifier par l'ensemble des charges liées à ses missions telles que prévues dans le présent décret. ".
+
+## TITRE VI. - Dispositions finales
+
+#### Art. 27
+
+Sauf en ce qui concerne les dispositions dont l'entrée en vigueur est fixée par l'article 17, les dispositions du présent décret produisent leurs effets au 1er janvier 2017.
+
+## ANNEXES.
+
+#### Art. N1
+
+<table><tr><td>Dénomination du fonds budgétaire </td><td>Nature des recettes affectées </td><td>Objet des dépenses autorisées</td></tr><tr><td>69. Fonds budgétaire en matière de prévention et de lutte contre le dopage dans le sport. </td><td>Contributions dues par la Communauté germanophone dans le cadre du protocole d'accord bilatéral entre la Communauté germanophone et la Communauté française exécutant l'Accord de coopération du 9 décembre 2011 conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention et de lutte contre le dopage dans le sport. </td><td>Achat de matériel spécifique dans la lutte contre le dopage</td></tr><tr><td> </td><td>Amendes administratives infligées aux sportifs d'élites, aux fédérations sportives et autres organisateurs en vertu des dispositions du décret " Dopage " et de son arrêté d'exécution. </td><td>Frais liés à des actions de prévention, d'information, d'éducation, de communication et de sensibilisation en matière de lutte contre le dopage;</td></tr><tr><td> </td><td> </td><td>Dépenses de toute nature liées aux missions dévolues à l'ONAD, en ce compris d'éventuels frais de procédure juridique.</td></tr></table>
+
+#### Art. N2
+
+<table><tr><td>Dénomination du fonds budgétaire </td><td>Nature des recettes affectées </td><td>Objet des dépenses autorisées</td></tr><tr><td>27. Fonds des Sports. </td><td>Donations et legs de toute nature dont l'affectation est faite au bénéfice de la promotion ou du développement des sports. </td><td>Achat de biens et de services, subventions, honoraires, dépenses diverses concernant les programmes d'activités organisés pour la promotion ou le développement des sports</td></tr><tr><td> </td><td>Donations de la Loterie nationale, le produit des redevances sur les concours de paris et les pronostics sur les résultats d'épreuves sportives. </td><td>Achat de biens et de services, subventions, honoraires, dépenses diverses en rapport avec le fonctionnement de la Communauté française et des services dans le domaine sportif</td></tr><tr><td> </td><td>Paiements, droits d'inscription, prix d'abonnements et tous autres revenus résultant des actions développées par la Communauté française dans le domaine sportif. </td><td>Achat de biens et de services, subventions, honoraires, dépenses diverses concernant la mise en place d'actions quelconques de promotion du sport et de l'image de l'ADEPS</td></tr><tr><td> </td><td>Produit d'opérations de parrainage commercial conclues à l'occasion d'actions spécifiques ou générales de promotion ou de développement des sports. </td><td>Frais de publication, d'édition, de conception, de production et de réalisation de tous les documents, études, supports audiovisuels ou informatiques se rapportant aux sports</td></tr><tr><td> </td><td>Revenus ou produits de la vente des biens immobiliers de la Communauté française suivants : la Résidence du Blanc gravier située sur le site universitaire du Sart-Tilman à Liège et les immeubles du " Domaine du Bois Saint-Jean ". </td><td>Participation dans les frais générés par l'examen clinique visé à l'art 12, alinéa 1 er du décret du 3 avril 2014 relatif à la prévention des risques pour la santé dans le sport</td></tr><tr><td> </td><td>Produit des amendes administratives infligées par l'administration pour violation des dispositions du décret du 3 avril 2014 relatif à la prévention des risques pour la santé dans le sport </td><td></td></tr></table>
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 19 juillet 2017.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de l'Aide à la jeunesse, des Maisons de justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT
+
+La Ministre de l'Enseignement de promotion sociale, de la Jeunesse, des Droits des femmes et de l'Egalité des chances,
+
+I. SIMONIS

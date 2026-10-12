@@ -1,0 +1,2111 @@
+---
+title: "Décret définissant la formation initiale des enseignants"
+identifier: "2019040573"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/07/2019040573/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2019-02-07
+published: 2019-03-05
+entry_into_force: 2022-09-14
+last_amended: 2025-09-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/07/2019040573/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 05-03-2019 et mise à jour au 12-09-2025"
+retrieved: 2026-10-12
+---
+
+# 7 FEVRIER 2019. - Décret définissant la formation initiale des enseignants
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## TITRE Ier. [<sup>1</sup> - Dispositions générales, définitions, objectifs et pilotage de la formation initiale]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Champ d'application et définitions]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 1er
+
+[<sup>1</sup> Le présent décret s'applique aux établissements d'enseignement supérieur organisés ou subventionnés par la Communauté française visés aux articles 10 à 13 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 2
+
+[<sup>1</sup> Pour l'application du présent décret on entend par:
+
+1° ARES: l'Académie de Recherche et d'Enseignement supérieur visée aux articles 20 et suivants du décret du 7 novembre 2013 précité;
+
+2° Besoins spécifiques: besoins spécifiques au sens de l'article 1.3.1-1, 5°, du Code de l'enseignement fondamental et de l'enseignement secondaire;
+
+3° [<sup>2</sup> Cadre francophone des certifications]<sup>2</sup>: cadre créé par l'Accord du 26 février 2015 entre la Communauté française, la Région wallonne et la Commission communautaire française concernant la création et la gestion d'un Cadre francophone des certifications, en abrégé " C.F.C. " auquel il a été porté assentiment par le décret du 15 mai 2015 portant assentiment à l'Accord de coopération, conclu le 26 février 2015 entre la Communauté française, la Région wallonne et la Commission communautaire française, concernant la création et la gestion d'un Cadre francophone des certifications, en abrégé " C.F.C. ";
+
+4° COCOFIE: la Commission de coordination de la formation initiale des enseignants, de l'enseignement obligatoire, de promotion sociale et secondaire artistique à horaire réduit, telle que définie à l'article 7;
+
+5° Code de l'enseignement: le Code de l'enseignement fondamental et de l'enseignement secondaire créé par le décret du 3 mai 2019 portant les livres 1er et 2 du Code de l'enseignement fondamental et de l'enseignement secondaire, et mettant en place le tronc commun;
+
+6° Compétence: la compétence au sens de l'article 15, § 1er, alinéa 1er, 20°, du décret du 7 novembre 2013 précité;
+
+7° Codiplômation: le partenariat défini à l'article 15, § 1er, alinéa 1er, 18°, du décret du 7 novembre 2013 précité;
+
+8° Décret ESAHR: le décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française;
+
+9° Décret Missions: le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre;
+
+10° Décret Paysage: le décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études;
+
+11° Décret Titres et fonctions: le décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française;
+
+12° Education aux médias: l'éducation aux médias au sens de l'article 1er, 1°, du décret du 5 juin 2008 portant création du Conseil supérieur de l'Education aux Médias et assurant le développement d'initiatives et de moyens particuliers en la matière en Communauté française;
+
+13° Enseignant praticien: l'enseignant dont la fonction est définie dans l'annexe 2 du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignants des hautes écoles organisées ou subventionnées par la Communauté française;
+
+14° Etablissement référent: l'établissement référent au sens de l'article 15, § 1er, alinéa 1er, 33°, du décret Paysage;
+
+15° EVRAS: l'éducation à la vie relationnelle, affective et sexuelle en tant que processus éducatif qui implique notamment une réflexion en vue d'accroître les aptitudes des jeunes à opérer des choix éclairés favorisant l'épanouissement de leur vie relationnelle, affective et sexuelle et le respect de soi et des autres;
+
+16° FLE: Français langue étrangère;
+
+17° Genre: Construction sociale selon laquelle les identités sexuées biologiques à la naissance et les identités sexuelles des individus orientent leur socialisation, les rôles, les attentes comportementales et les relations entre individus qui en découlent. Au sein de la formation, la notion de " genre " inclut:
+
+\* l'éducation au genre: partie nécessaire des programmes à tous les niveaux du système éducatif, qui permettrait aux élèves, aux étudiants et aux étudiantes de comprendre comment les constructions des identités et les modèles d'attribution des rôles sociaux - qui façonnent nos sociétés - influencent leur vie, leurs relations, leurs choix, de vie, leurs trajectoires de carrière, etc.;
+
+\* la sensibilisation au genre: enseignement visant à montrer comment les valeurs et les normes existantes influencent notre image de la réalité, perpétuent les stéréotypes et soutiennent les mécanismes de (re) production des inégalités et de rapports de domination;
+
+\* la dimension de genre: prise en compte de la façon dont la situation, les besoins et les défis auxquels sont confrontés les individus diffèrent, en vue de déconstruire les stéréotypes de genre selon une grille de lecture [<sup>3</sup> intersectionnelle]<sup>3</sup>, d'éliminer les inégalités et d'éviter leur perpétuation, ainsi que de promouvoir l'égalité la diversité dans l'ensemble des politiques, procédures ou programmes particuliers;
+
+18° Habilitation: l'habilitation au sens de l'article 15, § 1er, alinéa 1er, 42°, du décret Paysage;
+
+19° Horaire décalé: l'horaire au sens de l'[<sup>2</sup> article 15, § 1er, alinéa 1er, 42/2°, du décret Paysage]<sup>2</sup>;
+
+20° Opérateur de formation: l'établissement (Haute Ecole, Université, Ecole Supérieure des Arts) participant à l'organisation de la formation initiale des enseignants;
+
+21° Section: la distinction opérée parmi les cursus de formation initiale des enseignants en fonction, soit des niveaux d'enseignement auxquels préparent ces cursus, soit selon que le cursus de la formation initiale est direct ou différé;
+
+22° Situation professionnelle: la situation dont la planification et la durée sont variables, pouvant correspondre à des mises en situation, des études de cas, à la conception, la conduite et l'évaluation de séquences d'apprentissage;
+
+23° Spécificité: la spécificité au sens de l'article 2, § 1er, 6°, du décret Titres et fonctions. § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 54, 006; En vigueur : 14-09-2022&gt;
+
+(3)&lt;DCFR 2023-11-09/20, art. 23, 008; En vigueur : 14-09-2023&gt;
+
+##### Art. 3
+
+[<sup>1</sup> § 1er. Le présent décret organise la formation initiale des enseignants.
+
+§ 2. La formation initiale des enseignants vise les études de type long organisées par les établissements d'enseignement supérieur à l'attention des étudiants qui se destinent à devenir enseignants dans l'enseignement maternel, primaire et secondaire, ordinaire ou spécialisé, de plein exercice ou en alternance, dans l'enseignement secondaire de promotion sociale et dans l'enseignement secondaire artistique à horaire réduit.
+
+Elle ne concerne pas le certificat d'aptitudes pédagogiques.
+
+§ 3. La formation initiale des enseignants est organisée de manière directe ou différée. Elle comporte 5 sections, qui sont détaillées au Titre II.
+
+La formation directe à l'enseignement associe, au sein d'un même cursus, la formation disciplinaire et la formation pédagogique. Elle comporte les sections 1 à 4.
+
+La formation différée à l'enseignement - section 5 - est une formation pédagogique qui se déroule après un deuxième cycle de formation disciplinaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 4
+
+[<sup>1</sup> L'emploi des noms masculins pour les différents termes, titres, grades et fonctions est épicène en vue d'assurer la lisibilité du texte, nonobstant les dispositions du décret du 21 juin 1993 relatif à la féminisation des noms de métier, fonction, grade ou titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Des objectifs de la formation initiale des enseignants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+## TITRE II.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE Ier.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 5
+
+[<sup>1</sup> § 1er. Complémentairement à la poursuite des objectifs généraux définis à l'article 3 du décret Paysage, les établissements d'enseignement supérieur poursuivent comme objectifs, dans le cadre de la formation initiale des enseignants, le développement et l'acquisition des compétences suivantes par les étudiants:
+
+1° les compétences de l'acteur institutionnel, social et culturel. Ces compétences se traduisent par les capacités suivantes:
+
+a) agir comme acteur social et culturel au sein de l'école et de la société, y compris dans leur transformation, intégrer la diversité et développer des pratiques citoyennes pour plus de cohésion sociale ;
+
+b) comprendre les enjeux éthiques et respecter les cadres déontologiques et réglementaires de la profession dans une perspective démocratique et de responsabilité ;
+
+c) analyser l'environnement organisationnel et institutionnel du système éducatif et agir en son sein notamment en interagissant avec les collègues, les parents, la direction et d'autres acteurs afin de:
+
+I. s'inscrire dans la démarche de pilotage de l'école et de participer aux démarches d'amélioration du système éducatif de la Communauté française ;
+
+II. faire de l'école un lieu où les élèves apprennent, se développent et se forment dans un climat positif, et non un lieu de sélection;
+
+d) maîtriser sa situation administrative et le suivi de son dossier administratif personnel;
+
+2° les compétences de l'acteur d'une organisation apprenante dans une dynamique collective. Ces compétences se traduisent par les capacités suivantes:
+
+a) s'investir dans le travail collaboratif au sein d'une équipe éducative afin d'en augmenter le professionnalisme et l'expertise par la mobilisation de l'intelligence collective, notamment au cours de concertations ;
+
+b) identifier ses besoins de formation individuelle et participer à l'identification des besoins de formation de l'équipe pédagogique;
+
+c) contribuer à la diffusion, au sein de l'équipe éducative, des acquis liés aux formations continues suivies ou des capacités développées par celles-ci ou par l'expérience;
+
+3° les compétences de l'organisateur et accompagnateur d'apprentissages dans une dynamique évolutive. Ces compétences se traduisent par les capacités suivantes:
+
+a) maitriser les contenus disciplinaires, leurs fondements épistémologiques, leur évolution scientifique et technologique, leur didactique et la méthodologie de leur enseignement ;
+
+b) maitriser les savoirs relatifs aux processus d'apprentissage, aux recherches sur les différents modèles et théories de l'enseignement ;
+
+c) maitriser la langue française écrite et orale de manière approfondie pour enseigner et communiquer de manière adéquate dans les divers contextes et les différentes disciplines liés à la profession ;
+
+d) prendre en compte et développer les dimensions langagières des apprentissages et enseignements, en étant attentif à la langue de scolarisation ou langue d'apprentissage et conscient du caractère socialement et culturellement inégal de la familiarisation à celle-ci;
+
+e) agir comme pédagogue au sein de la classe et au sein de l'établissement scolaire dans une perspective collective, notamment à travers:
+
+i. la conception et la mise en oeuvre d'une démarche d'enseignement et d'apprentissage, comprenant des pratiques variées de nature à renforcer la motivation et la promotion de la confiance en soi des élèves et à développer leur créativité et leur esprit d'initiative et de coopération ;
+
+ii. la conception, le choix et l'utilisation de supports didactiques, de manuels, de logiciels scolaires et d'autres outils pédagogiques ;
+
+iii. la construction et l'utilisation de supports d'observation et d'évaluation, cette dernière étant spécifiquement à visée compréhensive et formative, favorisant la responsabilisation et la participation de l'élève dans ses apprentissages ;
+
+iv. la conception et la mise en oeuvre de pratiques de différenciation pédagogique, d'accompagnement personnalisé des élèves tenant compte de leurs acquis antérieurs, de leur profil d'apprenant et, s'il échet, de leurs besoins spécifiques impliquant la mise en oeuvre d'aménagements raisonnables et reposant notamment sur le co-enseignement ou la co-intervention pédagogique ;
+
+v. la mise en place d'activités d'apprentissage interdisciplinaires ;
+
+f) maîtriser l'intégration des technologies numériques dans ses pratiques pédagogiques;
+
+g) prendre en compte l'éducation aux médias, l'EVRAS ainsi que le genre de manière transversale;
+
+h) créer un cadre relationnel bienveillant pour faciliter la communication avec les élèves, leur entourage notamment familial, ainsi qu'avec les collègues;
+
+i) gérer le groupe-classe en situation éducative et pédagogique de manière stimulante, structurante et sécurisante;
+
+4° les compétences du praticien réflexif. Ces compétences se traduisent par les capacités suivantes:
+
+a) lire de manière critique les résultats de recherches scientifiques en éducation et en didactique et s'en inspirer pour son action d'enseignement ainsi que s'appuyer sur diverses disciplines des sciences humaines pour analyser et agir en situation professionnelle ;
+
+b) mener, individuellement et avec ses pairs, une observation et une analyse critique et rigoureuse de ses propres pratiques et de leur impact sur les élèves afin de réguler son enseignement et d'en faire évoluer les stratégies et conditions de mise en oeuvre dans une perspective d'efficacité et d'équité;
+
+c) construire progressivement son identité professionnelle, notamment en mobilisant des outils de développement professionnel personnel tel que le portfolio.
+
+§ 2. Pour la capacité visée au paragraphe 1er, 3°, a), les établissements d'enseignement supérieur veillent à tout le moins à ce que, au terme de leur formation initiale, les futurs enseignants aient acquis le niveau de maîtrise des concepts et des compétences disciplinaires, didactiques et pédagogiques leur permettant d'amener leurs futurs élèves à la maitrise, chacun pour le niveau d'enseignement et les disciplines auxquels il se prépare, des compétences visées par les référentiels d'application dans le ou les niveaux d'enseignement concernés. Ils développent les capacités permettant de s'adapter à une évolution de ces référentiels.
+
+Complémentairement à l'alinéa 1er, le Gouvernement détermine, après avis de la COCOFIE, le niveau de maîtrise minimale des compétences définies au paragraphe 1er, que doit atteindre le futur enseignant au terme de sa formation initiale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Le développement des compétences visées à l'article 5 se poursuit tout au long de la carrière professionnelle de l'enseignant et de manière renforcée à l'entrée dans le métier conformément à ce qui est prévu dans la règlementation de la formation professionnelle continue.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE III. [<sup>1</sup> - De la Commission de coordination de la FIE de l'enseignement obligatoire, de promotion sociale et secondaire artistique à horaire réduit]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 6, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 7
+
+[<sup>1</sup> § 1er. Il est créé une commission d'avis intitulée " Commission de coordination de la formation initiale des enseignants de l'enseignement obligatoire, de promotion sociale et secondaire artistique à horaire réduit ", ci-dessous dénommée COCOFIE.
+
+§ 2. Complémentairement à la mission qui lui est confiée à l'article 5, § 2, alinéa 2, la COCOFIE remet un avis au Gouvernement, à la demande de ce dernier ou d'initiative et, à tout le moins, tous les trois ans:
+
+1° quant à l'évolution de la mise en oeuvre de la réforme et de ses effets dans l'enseignement fondamental et secondaire, dans l'enseignement de promotion sociale et dans l'enseignement secondaire artistique à horaire réduit;
+
+2° quant à la cohérence entre les cursus organisés et les référentiels d'application dans l'enseignement fondamental et secondaire, les acquis d'apprentissage définis à l'article 5bis, 1°, du décret du 16 avril 1991 organisant l'Enseignement de promotion sociale et le socle de compétences défini à l'article 1er, 6°, du décret ESAHR;
+
+3° quant à la cohérence entre les thèmes choisis pour la formation continuée des membres du personnel de l'enseignement obligatoire et de promotion sociale et les référentiels communs établis par l'ARES pour les cursus de la formation initiale des enseignants;
+
+4° quant à la cohérence entre les programmes assurés par les établissements d'enseignement supérieur organisant la formation initiale des enseignants et les objectifs visés par l'article 5;
+
+5° quant aux indicateurs de suivi des objectifs de l'article 5;
+
+6° pour la première fois avant le mois de juin 2023, quant à la durée et aux balises opérationnelles et organisationnelles minimales communes relatives au stage de longue durée visé aux articles 23, 24, § 4, 30, § 4, 36, §§ 2 et 3, et 38;
+
+7° quant à l'identification des forces et faiblesses de la mise en oeuvre de la réforme et, s'il échet, quant aux éventuelles propositions d'amélioration;
+
+8° quant à une proposition de modification des compétences définies à l'article 5 en fonction de l'évolution des référentiels de compétences d'application dans l'enseignement fondamental et secondaire, de l'évolution des pratiques, des résultats de la recherche scientifique en matière de formation initiale des enseignants;
+
+9° quant à l'implémentation d'une procédure d'analyse de la qualité propre à la formation initiale des enseignants, en concertation avec l'Agence pour l'évaluation de la qualité de l'enseignement supérieur organisé ou subventionné par la Communauté française créée par l'article 2 du décret du 22 février 2008 portant diverses mesures relatives à l'organisation et au fonctionnement de l'Agence pour l'évaluation de la qualité de l'enseignement supérieur organisé ou subventionné par la Communauté française;
+
+10° quant à la mise en oeuvre du master de spécialisation en formation d'enseignants.
+
+§ 3. La COCOFIE est composée de vingt-quatre membres dont deux co-présidents désignés par le Gouvernement. Parmi ces membres,
+
+1° huit dont un co-président sont désignés sur la proposition de l'ARES,
+
+2° six dont un co-président sont désignés sur la proposition de la Commission de Pilotage de l'enseignement obligatoire instituée par le décret du 27 mars 2002 relatif au pilotage du système éducatif de la Communauté française,
+
+3° un est désigné sur la proposition du Conseil général de l'Enseignement de promotion sociale institué par le décret du 16 avril 1991 organisant l'enseignement de promotion sociale,
+
+4° un est désigné sur la proposition du Conseil général de l'enseignement secondaire artistique à horaire réduit institué par le décret ESAHR,
+
+5° six sont désignés sur la proposition des organisations syndicales représentatives,
+
+6° deux sont désignés sur la proposition des organisations représentatives des étudiants au niveau communautaire.
+
+Pour la désignation des membres visés aux litterae 1° et 2°, une répartition entre les différentes Fédérations de pouvoirs organisateurs et Wallonie Bruxelles Enseignement et entre les différents niveaux et formes d'enseignement, fondée sur la proportion d'élèves et étudiants dont ils ont la charge, est assurée.
+
+En l'absence de proposition de l'une des instances visées à l'alinéa 1er, le Gouvernement désigne le(s) membre(e)s concerné(s) de la COCOFIE. Le mandat des membres de la COCOFIE est de cinq ans, à l'exception des membres étudiants qui sont désignés pour un an. Les mandats sont tous renouvelables.
+
+§ 4. La COCOFIE établit son règlement d'ordre intérieur et le soumet pour approbation au Gouvernement. La COCOFIE est accueillie à l'ARES qui en assure le secrétariat.
+
+La COCOFIE se réunit au moins deux fois par an à l'invitation des co-présidents ou à la demande de deux de ses membres au moins.
+
+Les co-présidents fixent l'ordre du jour. Ils peuvent inviter un expert selon le sujet abordé, d'initiative ou à la demande d'un des membres du Conseil.
+
+Seuls les membres de la COCOFIE ont voix délibérative. La COCOFIE délibère par la voie du consensus. En cas de désaccord entre ses membres, des notes minoritaires peuvent être transmises avec la position majoritaire au Gouvernement.
+
+Lorsqu'elle traite des points visés au § 2, litterae 1° à 4°, la COCOFIE ne se réunit valablement que si la moitié au moins des membres repris au § 3, litterae 1° et 2°, est présente.
+
+En fonction de l'ordre du jour, les membres de la COCOFIE peuvent se faire accompagner d'un conseiller technique.
+
+La COCOFIE peut mettre en place ou consulter des groupes de travail spécifiques, notamment en fonction des disciplines ou des sections de la FIE considérées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+## TITRE II. [<sup>1</sup> - De la formation directe à l'enseignement et de la formation différée à l'enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Des sections et des grades académiques de la formation initiale des enseignants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 8
+
+[<sup>1</sup> Chaque établissement identifie la structure qui assure les activités relatives au domaine visé à l'article 83, § 1er, alinéa 1er, 10° bis, du décret Paysage.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 9
+
+[<sup>1</sup> § 1er. La section 1 vise à former des futurs enseignants destinés à enseigner de l'entrée dans l'enseignement maternel jusqu'à la fin de la deuxième primaire et à prendre en charge:
+
+1° dans l'enseignement maternel, l'ensemble de la formation de leurs élèves, en ce compris la psychomotricité;
+
+2° en première et deuxième années de l'enseignement primaire, l'ensemble de la formation de leurs élèves, à l'exception de l'éducation physique, de la deuxième langue ainsi que des cours de morale ou de religion.
+
+Toutefois, les établissements peuvent inclure, dans le cursus, la possibilité de suivre une formation préparant à l'enseignement du cours de morale ou de religion.
+
+§ 2. [<sup>2</sup> La]<sup>2</sup> section 1 est dispensée en un cursus de type long organisé en deux cycles d'études totalisant 240 crédits se répartissant comme suit: 180 crédits pour le premier cycle et 60 crédits pour le deuxième cycle.
+
+Les études de premier cycle de 180 crédits sont sanctionnées par le grade académique de bachelier en Enseignement section 1.
+
+Les études de deuxième cycle de 60 crédits sont sanctionnées par le grade académique de master en enseignement section 1 correspondant au niveau 7 du cadre francophone des certifications.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 55, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 10
+
+[<sup>1</sup> § 1er. La section 2 vise à former des futurs enseignants destinés à enseigner de la troisième maternelle à la sixième primaire et à prendre en charge l'ensemble de la formation de leurs élèves, à l'exception de la psychomotricité et de l'éducation physique, de la deuxième langue ainsi que des cours de morale ou de religion.
+
+Toutefois, les établissements peuvent inclure, dans le cursus, la possibilité de suivre une formation préparant à l'enseignement du cours de morale ou de religion.
+
+§ 2. [<sup>2</sup> La]<sup>2</sup> section 2 est dispensée en un cursus de type long organisé en deux cycles d'études totalisant 240 crédits se répartissant comme suit: 180 crédits pour le premier cycle et 60 crédits pour le deuxième cycle.
+
+Les études de premier cycle de 180 crédits sont sanctionnées par le grade académique de bachelier en Enseignement section 2.
+
+Les études de deuxième cycle de 60 crédits sont sanctionnées par le grade académique de master en enseignement section 2 correspondant au niveau 7 du cadre francophone des certifications.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 5, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 56, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 11
+
+[<sup>1</sup> § 1er. La section 3 vise à former des futurs enseignants destinés à enseigner de la cinquième primaire à la troisième année de l'enseignement secondaire et à prendre en charge:
+
+1° en cinquième et sixième années de l'enseignement primaire et en première, deuxième et troisième années de l'enseignement secondaire, une discipline ou famille de disciplines apparentées telle que définie à l'article 12, parmi les familles de disciplines proposées par l'établissement;
+
+2° dans l'enseignement secondaire artistique à horaire réduit, des disciplines qui découlent des fonctions définies par le décret ESAHR.
+
+§ 2. [<sup>2</sup> La]<sup>2</sup> section 3 est dispensée en un cursus de type long organisé en deux cycles d'études totalisant 240 crédits se répartissant comme suit: 180 crédits pour le premier cycle et 60 crédits pour le deuxième cycle.
+
+Les études de premier cycle de 180 crédits sont sanctionnées par le grade académique de bachelier en Enseignement section 3. Le grade est précisé par la discipline ou la famille de disciplines définie à l'article 12, à laquelle la formation a préparé à enseigner.
+
+Les études de deuxième cycle de 60 crédits sont sanctionnées par le grade académique de master en enseignement section 3 correspondant au niveau 7 du cadre francophone des certifications. Le grade est précisé par la discipline ou la famille de disciplines définie à l'article 12, à laquelle la formation a préparé à enseigner.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 57, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 12
+
+[<sup>1</sup> Les disciplines ou familles de disciplines apparentées visées à l'article 11 sont constituées de la façon suivante:
+
+1° Français et Morale;
+
+2° Français et Religion;
+
+3° Français et Education à la philosophie et à la citoyenneté;
+
+4° Français et Langues anciennes;
+
+5° Français et Education culturelle et artistique;
+
+6° Français, Français langue étrangère et Français langue d'apprentissage;
+
+7° deux langues germaniques parmi Anglais, Allemand, Néerlandais;
+
+8° Mathématiques et Formation numérique;
+
+9° Sciences;
+
+10° Education physique et Education à la santé;
+
+11° Sciences humaines;
+
+12° Formation artistique: musique et Education culturelle et artistique;
+
+13° Formation artistique: arts plastiques et Education culturelle et artistique;
+
+14° Formation manuelle, technique et technologique et Formation numérique.
+
+Par dérogation à l'article 11, § 1er:
+
+1° pour les disciplines visées aux litterae 7° et 12° à 14°, les étudiants du master en enseignement section 3 sont formés à prendre en charge des élèves de la 3e primaire à la 3e secondaire;
+
+2° pour les disciplines visées au littera 10°, les étudiants du master en enseignement section 3 sont formés à prendre en charge des élèves de l'entrée en maternelle à la 3e secondaire.
+
+Au plus tard [<sup>2</sup> 5 ans]<sup>2</sup> après l'entrée en vigueur du décret, le Gouvernement évalue, après avis de la COCOFIE, l'opportunité de modifier les disciplines ou familles de disciplines apparentées, en particulier concernant l'éducation à la philosophie et la citoyenneté.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 58, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 13
+
+[<sup>1</sup> § 1er. [<sup>2</sup> - La section 4 vise à former des futurs enseignants destinés à enseigner :
+
+1° de la quatrième année jusqu'au terme de l'enseignement secondaire, une des disciplines telles que définies à l'article 16 ;
+
+2° dans l'enseignement secondaire artistique à horaire réduit, des disciplines qui découlent des fonctions définies par le décret ESAHR.]<sup>2</sup>.
+
+§ 2. La section 4 est organisée en un cursus de deuxième cycle de 120 crédits. Les conditions d'accès à ce deuxième cycle sont définies par l'article 14.
+
+§ 3. Les études de deuxième cycle sont sanctionnées par le grade de master en enseignement section 4 complété par la discipline à laquelle la formation a préparé à enseigner, correspondant au niveau 7 du cadre francophone des certifications. Une deuxième discipline, apparentée à la première, peut être mentionnée sur le diplôme délivré au terme du cursus conformément à l'article 16, alinéa 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2023-11-09/20, art. 24, 008; En vigueur : 14-09-2023&gt;
+
+##### Art. 14
+
+[<sup>1</sup> § 1er. Complémentairement aux autres conditions d'accès prévues au Titre III, Chapitre IX du décret Paysage, ont accès au deuxième cycle de la formation en vue du grade de master en enseignement section 4, les étudiants qui sont titulaires d'un titre de bachelier qui correspond à la composante disciplinaire du master précité.
+
+§ 2. Les autorités académiques peuvent en outre permettre l'accès aux études menant au grade de master en enseignement section 4 aux étudiants qui remplissent les conditions complémentaires qu'elles fixent conformément à l'article 111, § 1er, 3°, du décret Paysage.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 15
+
+[<sup>1</sup> § 1er. [<sup>3</sup> - la section 5 vise à former des futurs enseignants destinés à enseigner :
+
+1° de la quatrième année jusqu'au terme de l'enseignement secondaire, une des disciplines telles que définies à l'article 16 ;
+
+2° dans l'enseignement secondaire artistique à horaire réduit, des disciplines qui découlent des fonctions définies par le décret ESAHR.]<sup>3</sup>
+
+§ 2. [<sup>2</sup> La]<sup>2</sup> section 5 est organisée en un cursus de deuxième cycle de 60 crédits.
+
+§ 3. Le grade académique qui sanctionne les études de deuxième cycle visées au § 2, est le master en enseignement section 5, complété par la discipline à laquelle la formation a préparé à enseigner, correspondant au niveau 7 du cadre francophone des certifications. Une deuxième discipline, apparentée à la première, peut être mentionnée sur le diplôme délivré au terme du cursus [<sup>2</sup> conformément à l'article 16, alinéa 3]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 59, 006; En vigueur : 14-09-2022&gt;
+
+(3)&lt;DCFR 2023-11-09/20, art. 25, 008; En vigueur : 14-09-2023&gt;
+
+##### Art. 16
+
+[<sup>1</sup> - Les disciplines pour les sections 4 et 5 respectivement visées articles 13 et 15 sont les suivantes :
+
+1° Grec ancien et Latin ;
+
+2° Langues modernes [<sup>2</sup> (dont au moins une langue parmi les langues enseignées dans le degré supérieur de l'enseignement secondaire)]<sup>2</sup> ;
+
+3° Biologie ;
+
+4° Chimie ;
+
+5° Education physique ;
+
+6° Français ;
+
+7° Français langue étrangère ;
+
+8° Géographie ;
+
+9° Histoire ;
+
+10° Histoire de l'art et archéologie ;
+
+11° Mathématiques ;
+
+12° Sciences informatiques ;
+
+13° Sciences de l'ingénieur ;
+
+14° Sciences biomédicales ;
+
+15° Philosophie et citoyenneté ;
+
+16° Religion ;
+
+17° Morale ;
+
+18° Physique ;
+
+19° Sciences économiques ;
+
+20° Sciences sociales ;
+
+21° Santé publique ;
+
+22° Sciences pharmaceutiques ;
+
+23° Architecture ;
+
+24° Urbanisme ;
+
+25° Musicologie ;
+
+26° Arts plastiques, visuels et de l'espace ;
+
+27° Musique ;
+
+28° Danse ;
+
+29° Arts de la parole et du théâtre ;
+
+30° Arts du spectacle et techniques de diffusion et de communication ;
+
+31° Langues modernes traduction et interprétation (deux langues parmi les langues enseignées dans le degré supérieur de l'enseignement secondaire) ;
+
+32° Sciences psychologiques et de l'éducation ;
+
+33° Sciences juridiques.
+
+Pour ce qui concerne les disciplines visées au 26° à 30°, celles-ci peuvent être complétées par une mention relative à une spécialité ou à un instrument.
+
+Pour ce qui concerne les disciplines visées au 2° et 31°, celles-ci peuvent être complétées par une mention relative aux langues enseignées.
+
+Dans le respect des conditions d'accès définies à l'article 15, la discipline Français visée au 6° peut être appariée soit au latin, soit au français langue étrangère, soit à une langue moderne enseignée dans le degré supérieur de l'enseignement secondaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-11-09/20, art. 26, 008; En vigueur : 14-09-2023&gt;
+
+(2)&lt;DCFR 2025-07-16/18, art. 64, 010; En vigueur : 14-09-2025&gt;
+
+##### Art. 17
+
+[<sup>1</sup> Les niveaux d'enseignement cités aux articles 9, 10, 11, 13 et 15 correspondent aux niveaux de l'enseignement ordinaire de plein exercice. Ils varient en fonction de la section et des disciplines concernées pour ce qui relève de l'enseignement spécialisé, conformément au chapitre V du décret du 3 mars 2004 organisant l'enseignement spécialisé et pour ce qui relève de l'enseignement de promotion sociale, conformément aux articles 26 à 32 du décret du 16 avril 1991 organisant l'enseignement de promotion sociale.
+
+Pour l'enseignement secondaire artistique à horaire réduit, seules les sections 3, 4 et 5 sont concernées et préparent à enseigner à l'ensemble des élèves sans distinction d'âge et de niveau.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 18
+
+[<sup>1</sup> Au terme de leurs études, les titulaires d'un master en enseignement des sections 1, 2, 3, 4 ou 5 prononcent publiquement, au cours d'une cérémonie organisée par les établissements d'enseignement supérieur, le Serment de Socrate par lequel ils s'engagent à mettre toutes leurs forces et toute leur compétence au service de l'éducation de chacun des élèves qui leur sera confié.
+
+La mention de cet engagement est apposée sur leur diplôme.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Des axes et de l'organisation de la formation directe à l'enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+#### Section 1re. [<sup>1</sup> - Des spécificités de la formation directe à l'enseignement section 1, 2 ou 3]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 19
+
+[<sup>1</sup> Les unités d'enseignement permettant aux étudiants d'atteindre les compétences visées à l'article 5 s'inscrivent, pour chacune des sections 1 à 3, dans les sept axes de formation suivants:
+
+1° une formation disciplinaire incluant des aspects de la didactique de la discipline ou appliquée à la discipline;
+
+2° une formation à et par la communication;
+
+3° une formation à et par la pratique;
+
+4° une formation didactique et pédagogique;
+
+5° une formation en sciences humaines et sociales;
+
+6° une formation à et par la recherche en éducation et en didactique;
+
+7° une formation visant la maîtrise orale et écrite de la langue française.
+
+Le travail de fin d'études s'articule autour d'au moins deux des axes de formation définis à l'alinéa 1er, dont l'axe 6°.
+
+Les axes de formation sont articulés entre eux. L'éducation aux médias et l'EVRAS sont intégrées de manière transversale dans tous les axes de formation; elles sont particulièrement prises en compte dans les axes 3° à 5°. Dans chacun des axes, une attention constante est portée au genre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 20
+
+[<sup>1</sup> § 1er. La formation directe à l'enseignement pour les sections 1, 2 et 3 comprend au moins:
+
+1° 100 crédits consacrés à la formation disciplinaire;
+
+2° 10 crédits à la formation à et par la communication;
+
+3° 55 crédits à la formation à et par la pratique, dont 20 crédits au moins sont organisés durant le 2e cycle de la formation;
+
+4° 20 crédits à la formation didactique et pédagogique;
+
+5° 20 crédits à la formation en sciences humaines et sociales;
+
+6° 15 crédits à la formation à et par la recherche en éducation et en didactique;
+
+7° 5 crédits consacrés à la maitrise de la langue française, organisés parmi les 60 premiers crédits du 1er cycle.
+
+Les 15 crédits restants sont laissés à l'appréciation des établissements d'enseignement supérieur organisant la formation, dans le respect des objectifs visés à l'article 5.
+
+§ 2. En ce qui concerne la section 3, les 100 crédits consacrés à minima à la formation disciplinaire se répartissent comme suit en fonction des familles de disciplines définies à l'article 12:
+
+1° Français: 70 crédits; Morale: 30 crédits;
+
+2° Français: 70 crédits; Religion: 30 crédits;
+
+3° Français: 70 crédits; Education à la philosophie et citoyenneté: 30 crédits;
+
+4° Français: 70 crédits; Langues anciennes: 30 crédits;
+
+5° Français: 70 crédits; Education culturelle et artistique: 30 crédits;
+
+6° Français 70 crédits; Français langue étrangère et Français langue d'apprentissage: 30 crédits;
+
+7° deux langues germaniques (Anglais, Allemand, Néerlandais): 50 crédits pour chacune des deux langues;
+
+8° Mathématiques: 70 crédits; Formation numérique: 30 crédits;
+
+9° Sciences: 100 crédits;
+
+10° Education physique: 70 crédits; Education à la santé: 30 crédits;
+
+11° Sciences humaines: 100 crédits;
+
+12° Formation artistique, Musique: 80 crédits; Education culturelle et artistique: 20 crédits;
+
+13° Formation artistique, arts plastiques: 80 crédits; Education culturelle et artistique: 20 crédits;
+
+14° Formation manuelle, technique et technologique: 70 crédits; Formation numérique: 30 crédits.
+
+§ 3. Par dérogation aux paragraphes 1 et 2, pour ce qui concerne les familles de disciplines définies à l'article 12, litterae 12° à 13°, et préparant plus particulièrement à l'enseignement secondaire artistique à horaire réduit, la formation comprend 160 crédits consacrés à la formation disciplinaire, 5 crédits consacrés à la formation portant sur la maîtrise de la langue française et 60 crédits à répartir sur les cinq autres axes.
+
+Les 15 crédits restants sont laissés à l'appréciation [<sup>2</sup> ...]<sup>2</sup> des établissements d'enseignement supérieur organisant la formation, dans le respect des objectifs visés à l'article 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 60, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 21
+
+[<sup>1</sup> § 1er. Complémentairement à l'article 125, § 2, du décret Paysage, la formation au niveau du 1er cycle pour les sections 1, 2 et 3 comprend, parmi les minima définis à l'article 20, § 1er:
+
+1° au moins 73 crédits d'enseignements communs consacrés à la formation disciplinaire;
+
+2° au moins 5 crédits d'enseignements communs consacrés à la formation à et par la communication;
+
+3° au moins 10 crédits d'enseignements communs consacrés à la formation à et par la pratique;
+
+4° au moins 10 crédits d'enseignements communs consacrés à la formation didactique et pédagogique;
+
+5° au moins 5 crédits d'enseignements communs consacrés à la formation en sciences humaines et sociales;
+
+6° 5 crédits d'enseignements communs consacrés à la maitrise de la langue française.
+
+§ 2. Conformément à l'article 20, § 1er, les activités d'apprentissage liées à la maîtrise de la langue française font partie des 60 premiers crédits du premier cycle de la formation.
+
+L'évaluation correspondant aux enseignements visés au paragraphe 1er, 6°, est organisée, selon les modalités définies à l'article 34, § 1er, sous la forme d'une épreuve certificative écrite portant sur la maîtrise approfondie de la langue française en qualité d'émetteur et de récepteur en contexte professionnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 22
+
+[<sup>1</sup> § 1er. Le cursus de la formation initiale directe conduisant au grade de master en Enseignement sections 1, 2 et 3 est organisé dans le cadre de la codiplômation, laquelle réunit deux types d'opérateurs de formation: une Haute Ecole, établissement référent, et une ou plusieurs Universités.
+
+§ 2. Chaque cursus conduisant au grade de master en enseignement section 1, 2 ou 3 comprend 240 crédits dont 180 crédits relèvent de la formation dispensée par une Haute Ecole et 60 relèvent de la formation dispensée par une Université.
+
+Les 180 crédits visés à l'alinéa précédent se répartissent en 150 crédits au cours du premier cycle de la formation et 30 crédits au cours du deuxième cycle.
+
+Dans l'élaboration des programmes de formation directe conduisant au grade de master en enseignement sections 1, 2 et 3, des enseignements correspondant à 30 crédits du premier cycle de la formation sont communs aux étudiants des trois sections et comprennent des acquis d'apprentissage contribuant au développement d'une identité professionnelle commune aux futurs enseignants des trois sections.
+
+§ 3. Par dérogation aux paragraphes 1er et 2, pour ce qui concerne les formations portant sur les disciplines visées à l'article 12, 12° et 13°, la codiplômation réunit au moins deux types d'opérateur:
+
+1° soit une Haute Ecole, établissement référent, et une ou plusieurs Universités ou une ou plusieurs Ecoles supérieures des Arts;
+
+2° soit une Ecole supérieure des Arts, établissement référent, et une ou plusieurs Hautes Ecoles ou une ou plusieurs Universités.]<sup>1</sup>
+
+[<sup>2</sup> Lorsqu'une école supérieure des arts est référente, dans le cadre visé au 2° de l'alinéa précédent, la répartition des crédits est la suivante :
+
+1° si la formation vise à former des enseignants à destination de l'enseignement secondaire artistique à horaire réduit, l'établissement référent dispense au moins 190 crédits, tandis que les partenaires en dispensent au maximum 50 ;
+
+2° si la formation ne vise pas à former des enseignants à destination de l'enseignement secondaire artistique à horaire réduit, l'établissement référent dispense 180 crédits, tandis que les partenaires en dispensent 60.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2023-11-09/20, art. 27, 008; En vigueur : 14-09-2023&gt;
+
+### CHAPITRE IV.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 23
+
+[<sup>1</sup> Le programme annuel du deuxième cycle de la formation menant au grade de master en enseignement section 1, 2 ou 3 est organisé selon des modalités, permettant à l'étudiant:
+
+1er. de réaliser un stage de longue durée, équivalant aux 20 crédits de formation à et par la pratique visées à l'article 20, § 1er, de préférence au sein d'un même établissement et ainsi entrer progressivement et autant que possible dans l'exercice des quatre domaines de compétences du métier d'enseignant définis à l'article 5;
+
+2e. de bénéficier d'unités d'enseignement permettant une analyse réflexive et une supervision de ses pratiques;
+
+3e. de réaliser un travail de fin d'études en articulation avec un processus de recherche-action ou de recherche collaborative.
+
+Le Gouvernement détermine, après avis de la COCOFIE, la durée et les balises opérationnelles du stage visé à l'alinéa 1er, 1°. Cette durée et ces balises seront fixées en tenant compte notamment des critères à rencontrer pour garantir que la formation rencontre les conditions de reconnaissance du cycle de formation au niveau 7 du cadre francophone des certifications et assurer la soutenabilité de l'accueil des stages par les établissements de l'enseignement obligatoire dans le cadre législatif qui s'applique à eux.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+#### Section 2. [<sup>1</sup> - Des spécificités de la formation directe à l'enseignement section 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 24
+
+[<sup>1</sup> § 1er. La section 4 comprend 120 crédits. Elle vise à faire acquérir les compétences relevant des composantes didactique, pédagogique, communicationnelle et sociale des futurs enseignants et à poursuive le développement des compétences relevant de la composante disciplinaire entamée durant le premier cycle de de leur formation.
+
+§ 2. Les unités d'enseignement nécessaires pour atteindre ces objectifs sont articulées autour des axes visés à l'article 19, alinéa 1er, 1° à 6°.
+
+Ces axes de formation sont articulés entre eux. L'éducation aux médias et l'EVRAS sont intégrées de manière transversale dans tous les axes de formation; elles sont particulièrement prises en compte dans les axes 3° à 5°. Dans chacun des axes, une attention constante est portée au genre.
+
+La maîtrise orale et écrite de la langue française est vérifiée dans les travaux écrits et oraux produits par l'étudiant. Elle intervient dans leur évaluation tout au long de la formation.
+
+§ 3. Les 120 crédits visés au § 1er, comprennent au moins:
+
+1er. 20 crédits pour la formation disciplinaire;
+
+2e. 30 crédits pour la formation à et par la pratique;
+
+3e. 20 crédits pour la formation didactique et pédagogiques;
+
+4e. 15 crédits pour la formation en sciences humaines et sociales, en ce compris la formation à la communication;
+
+5e. 15 crédits au moins à la formation à et par la recherche en éducation et en didactique.
+
+Le travail de fin d'études s'articule autour d'au moins deux des axes de formation définis à l'alinéa précédent, dont l'axe de la formation à et par la recherche en éducation et en didactique.
+
+Les 20 crédits restants sont laissés à l'appréciation [<sup>2</sup> ...]<sup>2</sup> des établissements d'enseignement supérieur organisant la formation, dans le respect des objectifs visés à l'article 5.
+
+Pour ce qui concerne les disciplines artistiques, par dérogation à l'alinéa 1er, la formation comprend 50 crédits consacrés à la formation disciplinaire et 70 crédits à répartir sur les 4 axes visés par les litterae 2° à 5°, dont 25 crédits au moins sont consacrés à la formation à et par la pratique.
+
+§ 4. Le programme annuel du cycle 2 de la formation menant au grade de master en enseignement section 4 est organisé selon un horaire permettant à l'étudiant:
+
+1er. qui a acquis au moins 10 crédits d'enseignement de la formation à et par la pratique, de réaliser un stage de longue durée, équivalant à 15 des crédits de la formation à et par la pratique visées au § 3, de préférence au sein d'un même établissement et ainsi entrer progressivement dans l'exercice des quatre domaines de compétences du métier d'enseignant définis à l'article 5;
+
+2e. de bénéficier d'unités d'enseignement permettant une analyse réflexive et une supervision de ses pratiques;
+
+3e. de réaliser un travail de fin d'études en articulation avec un processus de recherche-action ou de recherche collaborative.
+
+Le Gouvernement détermine, après avis de la COCOFIE, la durée et les balises opérationnelles du stage visé à l'alinéa 1er, 1°. Cette durée et ces balises seront fixées en tenant compte notamment des critères à rencontrer pour garantir que la formation rencontre les conditions de reconnaissance du cycle de formation au niveau 7 du cadre francophone des certifications et assurer la soutenabilité de l'accueil des stages par les établissements de l'enseignement obligatoire dans le cadre législatif qui s'applique à eux.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 61, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 25
+
+[<sup>1</sup> Le deuxième cycle de la formation initiale directe conduisant au grade de master en enseignement section 4 est organisé dans le cadre de la codiplômation. Cette codiplômation réunit au moins deux types d'opérateurs de formation:
+
+1° une Université, établissement référent, et une ou plusieurs Hautes Ecoles;
+
+2° ou une Ecole supérieure des Arts, établissement référent, et une ou plusieurs Universités;
+
+3° ou une Ecole supérieure des Arts, établissement référent, et une ou plusieurs Hautes Ecoles;
+
+4° ou une Ecole supérieure des Arts, établissement référent, et une ou plusieurs Universités et une ou plusieurs Hautes Ecoles.
+
+Dans le cas visé au littera 1°, l'établissement référent dispense des enseignements correspondant à 80 des 120 crédits définis à l'article 24, § 3.
+
+Dans les cas visés aux litterae 2 à 4°, l'établissement référent dispense des enseignements correspondant à 90 des 120 crédits définis à l'article 24, § 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+#### Section 3. [<sup>1</sup> - Des habilitations permettant d'organiser la formation directe à l'enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 26
+
+[<sup>1</sup> Les établissements d'enseignement supérieur prennent les dispositions nécessaires, dans le cadre de la codiplômation, pour que les étudiants ne soient pas confrontés à des problèmes de mobilité importants entre les institutions partenaires. Les conventions de codiplômation mentionnent expressément les mesures mises en place pour éviter les problèmes de mobilité ou pour faciliter celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE V.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 27
+
+[<sup>1</sup> Les établissements d'enseignement supérieur qui bénéficient à la date d'entrée en vigueur du présent décret d'une habilitation à délivrer un grade académique permettant de dispenser des cours relatifs à la composante disciplinaire de la spécificité de la fonction à laquelle prépare la formation sont habilités à organiser une formation conduisant au grade académique de master en enseignement Section 4 pour les disciplines correspondant à la composante disciplinaire pour laquelle ils disposaient d'une habilitation à la date d'entrée en vigueur du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE VI.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 28
+
+[<sup>1</sup> Seuls peuvent codiplômer, en tant qu'établissement non référent, en section 1, 2 ou 3, les établissements qui possèdent l'habilitation pour organiser un master en sciences de l'éducation ou qui bénéficient à la date d'entrée en vigueur du présent décret d'une habilitation à délivrer un grade académique de master portant sur une des composantes des familles de disciplines visées à l'article 12.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE III. [<sup>1</sup> - Des axes et de l'organisation de la formation différée à l'enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 29
+
+[<sup>1</sup> Complémentairement aux autres conditions d'accès prévues par le décret Paysage, ont accès aux études en vue du grade de master en enseignement section 5, les étudiants qui sont titulaires d'un master qui correspond à la composante disciplinaire d'au moins une spécificité de la fonction de professeur au degré supérieur de l'enseignement secondaire ou qui correspond à un titre pour enseigner dans l'enseignement secondaire artistique à horaire réduit tel que mentionné dans le décret ESAHR.
+
+Les autorités académiques peuvent en outre permettre l'accès aux études menant au grade académique de master en enseignement section 5 aux étudiants qui remplissent les conditions complémentaires qu'elles fixent. Eu égard aux compétences relatives à la composante disciplinaire acquises par le candidat, ces conditions complémentaires visent à s'assurer que l'étudiant a acquis les matières pré-requises pour les études visées. Lorsque ces conditions complémentaires d'accès consistent en un ou plusieurs enseignements supplémentaires, ceux-ci ne peuvent représenter pour l'étudiant plus de 30 crédits supplémentaires, compte tenu de l'ensemble des crédits qu'il peut par ailleurs valoriser lors de son inscription.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 30
+
+[<sup>1</sup> § 1er. Pour atteindre les objectifs définis à l'article 5, la formation différée à l'enseignement comprend 60 crédits et vise à faire acquérir les compétences relevant des composantes didactique, pédagogique, communicationnelle et sociale à de futurs enseignants qui ont acquis les compétences relevant de la composante disciplinaire de leur formation, cette composante disciplinaire ayant été sanctionnée par un grade de master.
+
+§ 2. Les unités d'enseignement nécessaires pour atteindre ces objectifs sont articulés autour des axes visés à l'article 19, alinéa 1er, 2° à 5°.
+
+Ces axes de formation sont articulés entre eux. L'éducation aux médias et l'EVRAS sont intégrées de manière transversale dans tous les axes de formation; elles sont particulièrement prises en compte dans les axes 3° à 5°. Dans chacun des axes, une attention constante est portée au genre.
+
+La maîtrise orale et écrite de la langue française est vérifiée dans les travaux écrits et oraux produits par l'étudiant. Elle intervient dans leur évaluation tout au long de la formation.
+
+§ 3. Les 60 crédits définis au § 1er, se répartissent comme suit:
+
+1° 25 crédits pour la formation à et par la pratique en ce compris la réalisation d'un travail intégré;
+
+2° 20 crédits pour la formation didactique et pédagogiques;
+
+3° 15 crédits pour la formation en sciences humaines et sociales;
+
+On entend par travail intégré un travail qui a un caractère global et qui a pour objectif de vérifier si l'étudiant maîtrise, sous la forme de synthèse, les capacités couvertes par les différents axes de formation.
+
+§ 4. Les établissements visés à l'article 31, § 1er, organisent une partie des activités menant au grade académique de master en enseignement section 5 selon un horaire permettant à l'étudiant:
+
+1° qui a suivi au moins 5 crédits d'enseignement de la formation à et par la pratique, de réaliser un stage de longue durée, équivalant à 20 des crédits de la formation à et par la pratique visées au § 3, de préférence au sein d'un même établissement et ainsi entrer progressivement dans l'exercice des quatre domaines de compétences du métier d'enseignant définis à l'article 5;
+
+2° de bénéficier d'unités d'enseignement permettant une analyse réflexive et une supervision de ses pratiques;
+
+3° de réaliser leur travail intégré en articulation l'ensemble des axes de la formation.
+
+Le Gouvernement détermine, après avis de la COCOFIE, la durée et les balises opérationnelles du stage visé, à l'alinéa 1er, 1°. Cette durée et ces balises seront fixées en tenant compte notamment des critères à rencontrer pour garantir que la formation rencontre les conditions de reconnaissance du cycle de formation au niveau 7 du cadre francophone des certifications et assurer la soutenabilité de l'accueil des stages par les établissements de l'enseignement obligatoire dans le cadre législatif qui s'applique à eux.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 31
+
+[<sup>1</sup> § 1er. Les études menant au grade académique de master en enseignement section 5 sont organisées dans le cadre de la codiplômation. La codiplômation réunit au moins deux types d'opérateurs de formation:
+
+1° lorsqu'une Université est l'établissement référent, elle codiplôme avec:
+
+\- Une ou plusieurs Hautes Ecoles;
+
+\- ou une ou plusieurs Ecoles supérieure des Arts;
+
+\- ou une ou plusieurs Hautes Ecoles et une ou plusieurs Ecoles supérieures des Arts;
+
+2° lorsqu'une Ecole supérieure des Arts est l'établissement référent, elle codiplôme avec:
+
+\- une ou plusieurs Hautes Ecoles;
+
+\- ou une ou plusieurs Universités;
+
+\- ou une ou plusieurs Hautes Ecoles et une ou plusieurs Universités.
+
+§ 2. Le cursus conduisant au grade de master en enseignement section 5 comprend 30 crédits dispensés par l'établissement référent et 30 crédits organisés par le ou les établissements partenaires.
+
+Par dérogation à l'alinéa 1er, pour les formations visées [<sup>2</sup> à l'article 16, alinéa 1er, 26° à 30°]<sup>2</sup>, organisées dans l'enseignement supérieur artistique, dans le cadre d'une codiplômation, le cursus conduisant au grade de master en enseignement section 5 comprend au moins 30 crédits dispensés par l'Ecole supérieure des Arts, établissement référent et au moins 20 crédits organisés par le ou les établissements non référents.
+
+§ 3. Les établissements visés au § 1er, peuvent organiser une partie des activités menant au grade académique de master en enseignement section 5 en horaire décalé.
+
+§ 4. Les établissements d'enseignement supérieur qui bénéficient à la date d'entrée en vigueur du présent décret d'une habilitation à délivrer un grade académique permettant de dispenser des cours relatifs à la composante disciplinaire de la spécificité de la fonction à laquelle prépare la formation sont habilités à organiser une formation conduisant au grade académique de master en enseignement section 5 pour les disciplines correspondant à la composante disciplinaire pour laquelle ils disposaient d'une habilitation à la date d'entrée en vigueur du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2023-11-09/20, art. 28, 008; En vigueur : 14-09-2023&gt;
+
+## TITRE III.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE Ier.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 32
+
+[<sup>1</sup> Les établissements visés à l'article 31, § 1er, prennent les dispositions nécessaires, dans le cadre de la codiplômation, pour que les étudiants ne soient pas confrontés à des problèmes de mobilité importants entre les institutions partenaires. Les conventions de codiplômation mentionnent expressément les mesures mises en place pour éviter les problèmes de mobilité ou pour faciliter celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE IV. [<sup>1</sup> - De la maîtrise de la langue française]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 33
+
+[<sup>1</sup> Dans les profils d'enseignement visés à l'article 15, § 1er, alinéa 1er, 57°, du décret Paysage, complémentairement à l'article 125, § 1er, du même décret, est notamment prise en compte la maîtrise approfondie de la langue française en contexte professionnel. Cette maîtrise inclut a minima celle visée à travers le test défini à l'article 34.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 34
+
+[<sup>1</sup> § 1er. Une épreuve liminaire écrite portant sur la maîtrise approfondie de la langue française en qualité d'émetteur et de récepteur en contexte professionnel est organisée chaque année académique au début du premier quadrimestre. Elle porte sur les compétences suivantes:
+
+1° analyser et résumer un texte écrit informatif ou argumentatif au niveau des contenus explicites et implicites;
+
+2° produire un texte écrit argumentatif en mettant en oeuvre adéquatement un processus d'écriture, en ce compris les règles syntaxiques et orthographiques.
+
+Cette épreuve liminaire, identique et simultanée dans tous les établissements habilités à organiser la formation initiale des enseignants, est organisée collégialement par les établissements dans le respect des missions fixées à l'article 21, 5°, du décret Paysage. Les établissements sont tenus de participer à l'organisation et à la correction de l'épreuve, aux conditions fixées par le Gouvernement sur avis de l'ARES.
+
+Le Gouvernement arrête:
+
+1° les dates auxquelles l'épreuve liminaire est organisée;
+
+2° le programme détaillé de l'épreuve;
+
+3° les modalités d'évaluation de l'épreuve;
+
+4° le partage des responsabilités entre l'ARES, les établissements d'enseignement supérieur et le jury dans le cadre de l'organisation de l'épreuve;
+
+5° le mode de désignation du jury encadrant de l'épreuve;
+
+6° le seuil de réussite de l'épreuve.
+
+L'épreuve liminaire est accessible gratuitement à tout étudiant satisfaisant pleinement aux conditions générales visées à l'article 107 du décret Paysage pour les étudiants concernés par la formation en enseignement section 1, 2, 3, 4 ou 5.
+
+§ 2. Pour l'étudiant concerné par la formation en enseignement section 1, 2 ou 3, l'épreuve liminaire est présentée à l'entame de leur 1er cycle et est facultative.
+
+L'étudiant visé à l'alinéa précédent qui a atteint le seuil de réussite de l'épreuve liminaire définie au paragraphe 1er, est réputé avoir acquis les 5 crédits d'enseignement de maitrise de la langue française visés à l'article 20.
+
+§ 3. Complémentairement à l'article 111, § 1er, du décret Paysage, pour l'étudiant concerné par la formation en enseignement section 4 ou 5, l'épreuve liminaire est présentée à l'entame de leur 2e cycle et est obligatoire.
+
+L'étudiant visé à l'alinéa précédent qui n'a pas atteint le seuil de réussite de réussite de l'épreuve liminaire définie au paragraphe 1er, est tenu d'ajouter 5 crédits d'enseignement supplémentaires portant sur la maîtrise de la langue française.
+
+Dans ce cas visé à l'alinéa 2, par dérogation à l'article 24, § 1er, la section 4 comprend 125 crédits et par dérogation à l'article 30, § 1er, la formation différée à l'enseignement comprend 65 crédits.
+
+§ 4. Chaque participant reçoit personnellement le détail des résultats de son épreuve. Les résultats de l'épreuve liminaire ne peuvent en aucun cas faire l'objet d'une diffusion ou d'une communication publique qui permettrait d'inférer l'identité ou la qualité des candidats.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE V. [<sup>1</sup> - De l'organisation et de l'encadrement spécifique des situations professionnelles de formation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 35
+
+[<sup>1</sup> § 1er. L'articulation entre les différents axes définis à l'article 19 pour les sections 1 à 3, à l'article 24 pour la section 4 et à l'article 30 pour la section 5 s'opère prioritairement autour de la formation à et par la pratique grâce à la mise en place de situations professionnelles telles que précisées au paragraphe 2. Les apprentissages se construisent progressivement à travers une interaction entre les situations de formation théorique concernant l'ensemble de ces axes et les situations professionnelles.
+
+Ces situations professionnelles sont travaillées dans le cadre d'ateliers de formation professionnelle, de séminaires d'analyse des pratiques portant sur les différents axes, de stages pratiques en situation réelle tels que définis à l'article 15, § 1er, alinéa 1er, 63°, du décret Paysage.
+
+Les situations professionnelles se déroulent dans des établissements d'enseignement maternel, primaire, fondamental, secondaire, ordinaire et spécialisé, de plein exercice et en alternance, secondaire de promotion sociale ou secondaire artistique à horaire réduit.
+
+§ 2. Les situations professionnelles permettent de développer les objectifs suivants:
+
+1° la mise à l'épreuve du projet professionnel;
+
+2° l'élaboration progressive de l'identité professionnelle;
+
+3° la construction d'une attitude de praticien réflexif;
+
+4° l'approfondissement disciplinaire, en ce compris la didactique de la discipline, ainsi que la différenciation pédagogique, la remédiation, l'accompagnement personnalisé et le co-enseignement;
+
+5° le développement de compétences liées au rôle social de l'enseignant;
+
+6° l'apprentissage progressif du travail autonome et du travail en équipe.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 36
+
+[<sup>1</sup> § 1er. Dans l'organisation des stages et des différentes situations professionnelles, les établissements d'enseignement supérieur confrontent chaque étudiant à une diversité de situations notamment en tenant compte:
+
+1° des niveaux de la scolarité auxquels il se prépare à enseigner;
+
+2° du public scolaire: l'origine socio-économique des élèves, le fait qu'il s'agisse d'élèves fréquentant l'enseignement ordinaire ou l'enseignement spécialisé, l'enseignement de plein exercice, l'enseignement en alternance ou l'enseignement de promotion sociale, l'enseignement secondaire artistique à horaire réduit;
+
+3° des tâches auxquelles il participe ou qui lui sont confiées;
+
+4° des différentes facettes de la profession en ce compris les relations avec différents partenaires;
+
+5° de la durée du stage.
+
+§ 2. Les stages peuvent revêtir les formes suivantes:
+
+1° stages de longue durée qui se déroulent de préférence dans un même établissement, durant quatre mois minimum;
+
+2° stages filés qui se déroulent sous la forme de prestations courtes répétées dans le temps;
+
+3° stages assurés seul ou en équipe.
+
+La progression des stages et des situations professionnelles est pensée en termes d'objectifs et de paliers de compétences à construire. La durée des stages évolue de stages courts en début de formation à des stages de plus en plus longs. Durant le stage de longue durée visé à l'alinéa 1er, 1°, l'étudiant stagiaire est amené à se confronter à l'ensemble des quatre domaines de compétences et capacités visés à l'article 5, notamment à ceux qui impliquent d'apprendre à participer, au sein d'une équipe éducative, à la dynamique collective d'une organisation apprenante
+
+§ 3. Pour les étudiants inscrits dans un deuxième cycle du cursus conduisant au [<sup>2</sup> grade]<sup>2</sup> de master en enseignement section 5 et qui et qui sont en fonction dans l'enseignement secondaire supérieur, les prestations effectuées dans le cadre de cette fonction peuvent être assimilées à des stages.
+
+§ 4. Les établissements d'enseignement supérieur assurent l'accompagnement des étudiants avant, pendant et après les stages, notamment en intégrant les stages à des travaux pratiques, à des séminaires d'analyse des pratiques ou des ateliers de formation professionnelle, et en s'appuyant sur un dispositif d'évaluation formative.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2023-11-09/20, art. 29, 008; En vigueur : 14-09-2023&gt;
+
+##### Art. 37
+
+[<sup>1</sup> Chaque stage fait l'objet d'une convention passée entre le maître de stage, l'enseignant référent et l'étudiant. La convention reprend a minima:
+
+1° l'identité des parties à la convention;
+
+2° l'intitulé de l'unité d'enseignement relative au stage dans le programme annuel de l'étudiant stagiaire;
+
+3° les objectifs d'apprentissage à acquérir durant le stage;
+
+4° les dates de début et de fin de stage;
+
+5° la durée de présence hebdomadaire de l'étudiant sur le lieu de stage et les horaires particuliers devant être effectués.
+
+Le Gouvernement arrête, après avis de la COCOFIE, les modalités minimales d'encadrement en vue de garantir le bon déroulement du stage tant du point de vue de l'étudiant stagiaire que de l'équipe éducative et pédagogique du lieu de stage ainsi que des élèves auxquels s'adresse cet étudiant stagiaire dans le cadre de son stage.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 38
+
+[<sup>1</sup> Des accords de collaboration sont conclus entre les établissements d'enseignement supérieur et des établissements d'enseignement maternel, primaire, fondamental ou secondaire, ordinaire ou spécialisé, de plein exercice, de promotion sociale ou artistique à horaire réduit pour organiser les stages des étudiants.
+
+Dans le cadre de ces accords de collaboration, les établissements concernés définissent, dans le cadre du stage, singulièrement durant le stage de longue durée visé à l'article 36, § 2, 1°, un temps d'expérimentation mis à la disposition de l'étudiant pour développer des pratiques innovantes telles que la différenciation, l'accompagnement personnalisé, le co-enseignement et des pratiques de plus en plus autonomes.
+
+Ces accords précisent a minima la durée de la collaboration, les procédures de concertation entre les différents partenaires et leurs modes d'intervention respectifs, les objectifs particuliers des stages, les assurances en responsabilité civile. Ils peuvent également reprendre des engagements d'activités communes notamment en matière de recherche et de formation.
+
+Les accords de collaboration sont tenus à la disposition des Commissaires et des Délégués du Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 39
+
+[<sup>1</sup> § 1er. Dans les Hautes Ecoles, les ateliers de formation professionnelle visés à l'article 35, § 1er, sont pris en charge:
+
+a) pour un tiers [<sup>2</sup> ...]<sup>2</sup>, par des membres du personnel encadrant les situations de formation théorique correspondant à l'axe défini à l'article 19, alinéa 1er, 1° ;
+
+b) pour un tiers [<sup>2</sup> ...]<sup>2</sup>, par des membres du personnel encadrant les situations de formation théorique correspondant à l'axe définis à l'article 19, alinéa 1er, 4° ;
+
+c) pour un tiers [<sup>2</sup> ...]<sup>2</sup>, par des enseignants praticiens.
+
+Les différents intervenants dans l'encadrement de ces ateliers veillent à coordonner leurs actions et y interviennent seuls ou par équipe de deux ou trois.
+
+§ 2. Dans les Universités et dans l'Enseignement supérieur artistique, des enseignants de l'enseignement secondaire de plein exercice ou de promotion sociale interviennent aux côtés des membres du personnel encadrant les situations de formation théorique dans l'encadrement des séminaires d'analyse des pratiques visés à l'article 36, § 1er, dans le cadre des accords de collaboration définis à l'article 38.
+
+§ 3. Les stages pratiques en situation réelle sont encadrés par des membres du personnel en charge des situations de formation théorique correspondant aux axes définis à l'article 19, alinéa 1er, 1° et 4°, par des enseignants praticiens pour les institutions au sein desquelles cette fonction a été définie et par le maître de stage, ce dernier ne fait toutefois pas partie du jury tel que défini aux articles 131 et suivants du décret Paysage.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2025-07-16/18, art. 65, 010; En vigueur : 14-09-2025&gt;
+
+##### Art. 40
+
+[<sup>1</sup> Les enseignants praticiens visés à l'article 39, § 1er, c), exercent au moins un cinquième temps dans l'enseignement obligatoire ou de promotion sociale ou secondaire artistique à horaire réduit à un niveau concerné par la formation à laquelle ils contribuent.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 41
+
+[<sup>1</sup> § 1er. Les maîtres de stage sont désignés préférentiellement dans le cadre des accords de collaboration définis à l'article 38.
+
+§ 2. Une formation préparant à la fonction de maître de stage est organisée dans le cadre de la disposition visée à l'article 74 du décret Paysage par les établissements d'enseignement supérieur. Elle prépare les futurs maîtres de stage à interagir avec un étudiant et à observer, analyser et évaluer des éléments de pratique professionnelle enseignante en vue de conseiller et d'aider à réajuster ces pratiques.
+
+La formation visée à l'alinéa précédent est dispensée en un cursus de 10 crédits valorisables pour les masters de spécialisation en enseignement visés à l'article 43 et pour le master de spécialisation en formation d'enseignants visé à l'article 51. Elle est sanctionnée par un certificat en encadrement de stages pour enseignants en formation.
+
+Cette formation est accessible:
+
+1° aux titulaires d'un grade académique délivré dans le cadre du présent décret;
+
+2° aux détenteurs d'un diplôme de bachelier instituteur préscolaire, bachelier instituteur primaire et bachelier agrégé de l'enseignement secondaire inférieur délivré conformément au décret du 12 décembre 2000 définissant la formation des instituteurs et des régents et aux détenteurs d'un titre équivalent délivré conformément aux législations antérieures;
+
+3° aux détenteurs d'un diplôme d'agrégé de l'enseignement secondaire supérieur délivré conformément au décret du 8 février 2001 définissant la formation initiale des agrégés de l'enseignement secondaire supérieur et aux détenteurs d'un titre équivalent délivré conformément aux législations antérieures.
+
+§ 3. Les établissements d'enseignement supérieur et les établissements d'enseignement obligatoire partenaires, chacun pour ce qui le concerne, désignent de préférence comme maître de stage des enseignants titulaires d'un master de spécialisation en Enseignement ou pouvant justifier d'une expérience d'au moins 6 ans au niveau concerné, a minima, titulaires du titre requis pour la fonction qu'ils exercent et titulaires du certificat en encadrement de stages de futurs enseignants.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 42
+
+[<sup>1</sup> Une rémunération est octroyée aux maîtres de stage pour leur participation à la formation initiale des enseignants. Les montants et modalités de rémunération sont fixés par le Gouvernement. Le Gouvernement peut octroyer une rémunération plus importante aux maîtres de stage titulaire du certificat en encadrement de stages pour enseignants en formation et acceptant une concertation définie dans l'accord de collaboration défini à l'article 38 avec les établissements d'enseignement supérieur organisant la formation initiale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+## TITRE III. [<sup>1</sup> - Des masters de spécialisation en enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE 1er. [<sup>1</sup> - Des objectifs et de l'organisation des masters de spécialisation en enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 43
+
+[<sup>1</sup> § 1er. Deux masters de spécialisation, tels que définis à l'article 15, § 1er, 47°, du décret Paysage en enseignement sont organisés, l'un pour ce qui concerne les sections 1 et 2, le second pour ce qui concerne les sections 3, 4 et 5.
+
+§ 2. La formation dispensée dans ce cadre totalise 60 crédits. Elle permet de poursuivre et approfondir le développement des compétences définies à l'article 5 entamé lors de la formation initiale de l'enseignant et plus particulièrement:
+
+1° permettre aux étudiants de mieux assurer la continuité des apprentissages notamment en renforçant leur vision systémique de ces apprentissages;
+
+2° renforcer le développement des capacités du praticien réflexif et singulièrement les suivantes:
+
+a) lire de manière critique les résultats de recherches scientifiques en éducation et en didactique et s'en inspirer pour son action d'enseignement ainsi que s'appuyer sur diverses disciplines des sciences humaines pour analyser et agir en situation professionnelle ;
+
+b) mener, individuellement et collectivement, une observation et une analyse critique et rigoureuse de ses propres pratiques et de leur impact sur les élèves afin de réguler son enseignement et d'en faire évoluer les stratégies et conditions de mise en oeuvre dans une perspective d'efficacité et d'équité.
+
+3° développer les capacités transversales liées à l'exercice des missions collectives visées à l'article 7, 2°, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs.
+
+§ 3. La formation dispensée dans le cadre de ces masters de spécialisation en enseignement comprend 15 crédits consacrés à la formation à et par la pratique, 35 crédits consacrés à la formation didactique et pédagogique et 10 crédits consacrés à la formation à et par la recherche en éducation et en didactique.
+
+§ 4. Les grades académiques délivrés au terme de cette formation sont:
+
+1° master de spécialisation en Enseignement sections 1 et 2;
+
+2° master de spécialisation en Enseignement sections 3, 4 et 5.
+
+§ 5. Complémentairement à l'objectif de formation visé au paragraphe 2, 1°, la formation menant au grade académique défini au paragraphe 4, 2°, prépare les enseignants titulaires d'un master en enseignement section 4 ou d'un master en enseignement section 5 à enseigner une des disciplines définies à l'article 16, de la troisième à la sixième année de l'enseignement secondaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 44
+
+[<sup>1</sup> § 1er. Les masters de spécialisation en enseignement sont organisés dans le cadre de la codiplômation. Cette codiplômation réunit une Université, établissement référent, et une ou plusieurs Hautes Ecoles ou une ou plusieurs Ecoles supérieures des Arts ou avec une ou plusieurs Hautes Ecoles et une ou plusieurs Ecoles supérieures des Arts.
+
+L'établissement référent organise 30 des 60 crédits de la formation.
+
+§ 2. Les établissements d'enseignement supérieur peuvent organiser une partie des activités menant à l'obtention du master de spécialisation en enseignement en horaire décalé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE II. [<sup>1</sup> - De l'accès aux masters de spécialisation en enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 45
+
+[<sup>1</sup> § 1er. Ont accès au master de spécialisation en Enseignement sections 1 et 2, les candidats disposant d'une ancienneté de service de 5 ans au moins dans une école de l'enseignement maternel, primaire ou fondamental organisée ou subventionnée par la Communauté française, pour au moins la moitié du nombre de périodes requis pour la fonction à prestations complètes.
+
+§ 2. Ont accès au master de spécialisation en Enseignement sections 3, 4 et 5, les candidats disposant d'une ancienneté de service de 5 ans au moins dans une école de l'enseignement secondaire organisée ou subventionnée par la Communauté française pour au moins la moitié du nombre de périodes requis pour la fonction à prestations complètes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+## TITRE IV.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE Ier.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE III. [<sup>1</sup> - Des habilitations permettant d'organiser les masters de spécialisation en enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 46
+
+[<sup>1</sup> Pour autant qu'ils se conforment aux dispositions définies dans le présent décret, sont réputés habilités à organiser une formation conduisant au grade académique de master de spécialisation en Enseignement en tant qu'établissement référent les établissements d'enseignement supérieur qui bénéficient à la date d'entrée en vigueur du présent décret d'une habilitation à délivrer soit un grade académique master en sciences de l'éducation ou soit un grade académique de master en enseignement section 3 correspondant à une des composantes des familles de disciplines visées à l'article 13, soit un grade académique de master en enseignement section 4 ou un grade académique de master en enseignement section 5, correspondant à une des composantes des familles de disciplines visées à l'article 16.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+## TITRE IV. [<sup>1</sup> - De l'encadrement des unités d'enseignement en formation initiale d'enseignants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Des principes généraux]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 47
+
+[<sup>1</sup> L'encadrement des unités d'enseignement en formation initiale d'enseignants est assuré par des membres du personnel aux profils variés dont les interventions pédagogiques sont coordonnées et articulées entre elles.
+
+Par profils variés, il y a lieu d'entendre, au sens du présent article, aussi bien la variété portant sur les titres dont sont titulaires les membres du personnel que la variété de parcours académiques ou professionnels ayant conduit à devenir formateurs dans le cadre de la formation initiale d'enseignants.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 48
+
+[<sup>1</sup> § 1er. Les membres du personnel, chargés, dans une Haute Ecole [<sup>2</sup> ...]<sup>2</sup>, des unités d'enseignement relevant des axes 3, 4 et 6 définis à l'article 19, alinéa 1er, ainsi que de l'axe 1 pour ce qui relève des aspects didactiques et visant des matières qui seront enseignées par le futur enseignant, sont titulaires d'un master de spécialisation, tel que défini à l'article 15, § 1er, alinéa 1er, 47°, du décret Paysage, en formation d'enseignants.
+
+Le master de spécialisation en formation d'enseignants doit être obtenu dans les six ans à dater de la première désignation dans une fonction pour laquelle ce master est exigé. Au-delà de cette période, le membre du personnel ne peut plus être désigné dans cette même fonction ou dans une fonction soumise aux mêmes exigences.
+
+Dans le cas de l'extension ou du changement d'attribution d'un membre du personnel, l'exigence d'obtention du master de spécialisation en formation d'enseignants ne porte que sur les attributions décrites au 1er alinéa.
+
+§ 2. Les détenteurs du master de spécialisation en formation d'enseignants sont réputés titulaires du Certificat d'aptitude pédagogique approprié à l'Enseignement supérieur [<sup>2</sup> ...]<sup>2</sup> défini par le décret du 17 juillet 2002.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2025-07-16/18, art. 66, 010; En vigueur : 14-09-2025&gt;
+
+##### Art. 49
+
+[<sup>1</sup> Le titulaire d'un doctorat dans le domaine des sciences psychologiques et de l'éducation obtenu avant l'année académique 2022-2023 est dispensé de l'obtention du master de spécialisation en formation d'enseignants et est réputé titulaire du Certificat d'aptitude pédagogique approprié à l'Enseignement supérieur défini par le décret du 17 juillet 2002.
+
+Le titulaire d'un doctorat dans le domaine d'études des sciences de l'éducation et enseignement ou d'un doctorat à visée didactique dans un autre domaine d'études est dispensé de l'obtention du master de spécialisation en formation d'enseignants et est réputé titulaire du Certificat d'aptitude pédagogique approprié à l'Enseignement supérieur défini par le décret du 17 juillet 2002.
+
+Le Gouvernement arrête les modalités selon lesquelles la visée didactique d'un doctorat relevant d'un autre domaine d'études que les sciences de l'éducation et enseignement permet à son détenteur d'être réputé titulaire du Certificat d'aptitude pédagogique approprié à l'Enseignement supérieur défini par le décret du 17 juillet 2002.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-07-16/18, art. 67, 010; En vigueur : 14-09-2025&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 50
+
+[<sup>1</sup> Il est créé, au sein de chaque Haute Ecole ayant un département pédagogique, un Service de recherche et développement en Enseignement coordonné par un membre du personnel chargé des matières associées à la didactique de la discipline ou de la formation à et par la pratique, titulaire d'un grade de docteur en sciences psychologiques et de l'éducation, de docteur dans le domaine " Sciences de l'éducation et Enseignement " ou de docteur à visée didactique dans un autre domaine d'études.
+
+A titre transitoire jusqu'en septembre [<sup>2</sup> 2028]<sup>2</sup>, cette fonction pourra être occupée par un membre du personnel reconnu par le pouvoir organisateur pour sa notoriété scientifique.
+
+Par dérogation à l'alinéa 1er, deux Hautes Ecoles ayant [<sup>3</sup> un département]<sup>3</sup> pédagogique et situées dans le même pôle géographique, peuvent mutualiser leurs ressources pour créer un seul Service de recherche et développement.
+
+Ce service a, notamment, pour missions de collaborer avec le ou les établissement(s) d'enseignement supérieur codiplômant(s) notamment en ce qui concerne le développement de la recherche en sciences psychologiques et de l'éducation et en didactique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 63, 006; En vigueur : 14-09-2022&gt;
+
+(3)&lt;DCFR 2023-11-09/20, art. 30, 008; En vigueur : 14-09-2023&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Du master de spécialisation en formation d'enseignants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+#### Section 1re. [<sup>1</sup> - Des objectifs et de l'organisation du master de spécialisation en formation d'enseignants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 51
+
+[<sup>1</sup> § 1er. Il est créé un master de spécialisation, tel que défini à l'article 15, § 1er, 47°, du décret Paysage, en formation d'enseignants, comprenant 60 crédits.
+
+§ 2. Complémentairement à la poursuite des objectifs généraux définis à l'article 3 du décret Paysage, le master de spécialisation en formation d'enseignants poursuit comme objectifs particuliers l'acquisition des compétences suivantes:
+
+1° la maîtrise de la didactique de la ou des disciplines concernées ou de la didactique appliquée à ces disciplines;
+
+2° la connaissance et la compréhension des lieux de formation au sein desquels on aura à exercer et de ceux au sein desquels exerceront ses futurs étudiants;
+
+3° la capacité à accompagner des personnes en situation de formation professionnelle;
+
+4° la maîtrise des spécificités de la pédagogie pour adultes et notamment les jeunes adultes;
+
+5° la capacité à participer à la conception de dispositifs de formation pour enseignants et à mettre en oeuvre ces dispositifs;
+
+6° la capacité à observer, à analyser et à évaluer des éléments de pratique professionnelle enseignante en vue de conseiller et d'aider à réajuster ces pratiques en s'inspirant notamment de résultats de recherches scientifiques en éducation, en didactique des contenus disciplinaires à enseigner, en psychologie, en sociologie de l'éducation et en étude de genre, concernant notamment la diversité culturelle, les inégalités socio-économiques, le genre;
+
+7° la capacité de mener, individuellement et avec ses pairs, une analyse critique et rigoureuse de ses propres pratiques et de leur impact sur les étudiants et la réussite de ces derniers, notamment en s'appuyant sur diverses disciplines des sciences humaines, afin de réguler son enseignement dans une perspective d'efficacité et d'équité. L'ensemble de ces objectifs s'inscrit dans le cadre d'une distanciation épistémologique et d'une vision systémique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 52
+
+[<sup>1</sup> Le master de spécialisation en formation d'enseignants est organisé dans le cadre de la codiplômation. Cette codiplômation réunit:
+
+1° une ou plusieurs Hautes Ecoles ou une ou plusieurs Ecoles supérieures des Arts ou une ou plusieurs Hautes Ecoles et une ou plusieurs Ecoles supérieures;
+
+2° et une Université qui est l'établissement référent qui assure au moins 30 des 60 crédits visés à l'article 51, § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 53
+
+[<sup>1</sup> Les établissements d'enseignement supérieur peuvent organiser une partie des activités menant à l'obtention du master de spécialisation en formation d'enseignants en horaire décalé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+#### Section 2. [<sup>1</sup> - De l'accès au master de spécialisation en formation d'enseignants]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 3, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 54
+
+[<sup>1</sup> Ont [<sup>2</sup> ...]<sup>2</sup> accès au master de spécialisation en formation d'enseignants les [<sup>2</sup> personnes]<sup>2</sup> qui sont titulaires:
+
+1° soit d'un master en sciences de l'éducation;
+
+2° soit d'un master de spécialisation en Enseignement tel que défini aux articles 43 et suivants, soit d'un master en enseignement section 4 tel que défini dans le présent décret;
+
+3° soit d'un master qui correspond à un des titres requis correspondant à un des cours à conférer tel que définis à l'annexe 2 du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des Hautes Ecoles organisées ou subventionnées par la Communauté française, ledit cours faisant partie du programme de la formation initiale directe ou différée à l'enseignement [<sup>2</sup> tel que défini]<sup>2</sup> dans le présent décret. Ce master étant complété par le grade académique de master en enseignement section 5 définie aux articles 29et suivants;
+
+4° soit, pour les membres du personnel se destinant à prendre en charge, dans les Ecoles supérieures des Arts, l'enseignement de la didactique d'un ou plusieurs cours artistiques, une reconnaissance d'expérience utile et de notoriété selon les modalités définies à l'article 82, § 2, du décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants).]<sup>1</sup>
+
+[<sup>2</sup> Ont aussi accès au master de spécialisation en formation d'enseignants les personnes pouvant faire état d'une expérience utile pour bénéficier d'un accès via la valorisation des acquis de l'expérience, dans le respect des articles 67, 73, 84, 117 et 119, § 1er, du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2025-07-16/18, art. 68, 010; En vigueur : 14-09-2025&gt;
+
+#### Section 3. [<sup>1</sup> - Des habilitations permettant d'organiser le master de spécialisation en formation d'enseignants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 55
+
+[<sup>1</sup> Pour autant qu'ils se conforment aux dispositions définies dans le présent décret, les établissements d'enseignement supérieur qui bénéficient à la date d'entrée en vigueur du présent décret d'une habilitation à délivrer un grade académique de master en sciences de l'éducation ou qui organisent au moins un cursus de master en enseignement section 4 correspondant à une des composantes des familles de disciplines visées à l'article 16 sont réputés habilités à organiser la formation conduisant au grade académique de master de spécialisation en formation d'enseignants en tant qu'établissements référents.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 1, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 56
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 2, 007; En vigueur : 14-09-2022&gt;
+
+## TITRE V. - Des dispositions budgétaires
+
+### CHAPITRE Ier. - Subventionnement transitoire pour la mise en oeuvre de la formation initiale des enseignants
+
+##### Art. 57
+
+Pour les années budgétaires [<sup>3</sup> 2023 à 2025]<sup>3</sup>, une allocation est annuellement accordée aux Universités qui organisent en codiplômation le premier cycle des sections 1 à 3 de la formation initiale des enseignants, telles que définies [<sup>3</sup> aux articles 9 à 11]<sup>3</sup>.
+
+Le montant de cette allocation est calculé en fonction de chaque Haute Ecole ou ESA référente et est versé à l'Université partenaire de la convention de codiplômation. Si plusieurs Universités sont associées à une même Haute Ecole ou ESA référente, les conventions de codiplômation prévoient les modalités de répartition de l'allocation entre les Universités.
+
+Les montants annuels par Haute Ecole ou ESA référente, alloués de [<sup>3</sup> 2023 à 2025]<sup>3</sup>, sont calculés comme suit: financement non pondéré d'un étudiant en Haute Ecole pour l'année budgétaire considérée x 1,65 x le nombre d'inscriptions dans cette formation au 1er décembre de l'année budgétaire considérée dans la Haute Ecole ou l'ESA considérée x 17 %.
+
+Les montants inscrits dans les budgets des années concernées font l'objet d'une régularisation lorsque les données définitives à la base du calcul sont disponibles.
+
+A partir de l'année budgétaire [<sup>3</sup> 2026]<sup>3</sup>, le montant total calculé pour l'année [<sup>3</sup> 2025]<sup>3</sup> en vertu du 3ème alinéa est ajouté, après indexation, à la partie variable du financement des Universités visée à l'article 29 de la loi du 27 juillet 1971 sur le financement et le contrôle des Universités, tel que prévu par l'article 68 du présent décret.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 10, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 77, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2022-07-20/17, art. 64, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 58
+
+[<sup>3</sup> § 1er.]<sup>3</sup> Pour les années budgétaires [<sup>4</sup> 2023 à 2025]<sup>4</sup>, une allocation est annuellement accordée aux Universités et aux Hautes Ecoles qui organisent en codiplômation le master de spécialisation en formation d'enseignants.
+
+Le montant de cette allocation est calculé en fonction de chaque Université référente et est versée aux établissements partenaires de la convention de codiplômation [<sup>4</sup> à concurrence de la part de chacun dans la répartition des crédits du cursus qu'ils organisent conformément à cette convention]<sup>4</sup>.
+
+Les montants par Université référente, alloués de [<sup>4</sup> 2023 à 2025]<sup>4</sup>, sont calculés comme suit: financement non-pondéré d'un étudiant universitaire pour l'année budgétaire considérée x 1,45 x nombre d'étudiants inscrits dans cette formation au 1er décembre de l'année budgétaire considérée dans l'Université considérée.
+
+[<sup>3</sup> Si une convention de codiplômation est conclue avec une Ecole supérieure des Arts non référente, le partenaire de la convention reçoit un financement à concurrence de sa part dans la répartition des crédits du cursus, selon la formule visée à l'alinéa précédent. Le financement de l'ESA non référente est déduit de l'allocation visée au deuxième alinéa.]<sup>3</sup>
+
+[<sup>4</sup> A partir de l'année budgétaire 2026, le montant total des allocations octroyées en 2025, compte tenu des alinéas 1er et 2, est intégré, après indexation, à concurrence de la part de chacun dans la répartition des crédits du cursus qu'ils organisent, dans l'enveloppe de financement des Hautes Ecoles visée à l'article 10 du décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française d'une part, et dans la partie variable du financement des Universités visée à l'article 29 de la loi du 27 juillet 1971 précitée d'autre part.]<sup>4</sup>
+
+Les montants visés au troisième alinéa font l'objet d'une régularisation lorsque les données définitives à la base du calcul sont disponibles.
+
+[<sup>3</sup> § 2. A partir de janvier [<sup>4</sup> 2026]<sup>4</sup>, par dérogation aux articles 52, 53 et 54 du décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants), dans la moyenne des étudiants finançables pris en compte pour le calcul de la partie historique et de la partie variable de l'encadrement des Ecoles supérieures des Arts, pour le master de spécialisation en formation d'enseignants visé dans le présent article, il est pleinement tenu compte des étudiants finançables de ces masters avec coefficients correspondant aux parts des Ecoles supérieures des Arts dans l'organisation des crédits constituant ces cursus et dans les domaines d'études de participations des Ecoles supérieures des Arts.]<sup>3</sup>
+
+[<sup>3</sup> § 3. A partir l'année budgétaire [<sup>4</sup> 2026]<sup>4</sup>, un montant est déduit de l'enveloppe pour allocations de fonctionnement des Universités et de l'enveloppe pour allocations globales des Hautes Ecoles, selon la formule suivante: financement non-pondéré d'un étudiant universitaire pour l'année budgétaire considérée x 1,45 x étudiants finançables avec coefficients correspondant aux parts des Ecoles supérieures des Arts dans la codiplômation avec les Universités et dans la codiplômation avec les Hautes Ecoles des crédits constituant le cursus du master de spécialisation en formation d'enseignants visé dans le présent article Ces moyens sont réaffectés en faveur des Ecoles supérieures des Arts concernées pour application du présent article et leurs moyens de fonctionnement organiques.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 11, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 78, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2021-12-02/42, art. 3, 007; En vigueur : 14-09-2022&gt;
+
+(4)&lt;DCFR 2022-07-20/17, art. 65, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 59
+
+Pour les années budgétaires [<sup>4</sup> 2026 à 2028]<sup>4</sup>, une allocation est annuellement accordée aux Universités et aux Hautes Ecoles qui organisent en codiplômation le deuxième cycle des sections 1 à 3 de la formation initiale des enseignants.
+
+Le montant de cette allocation est calculé en fonction de chaque Haute Ecole référente et est versé pour moitié à la Haute Ecole et pour moitié à l'Université partenaire de la convention de codiplômation. Si plusieurs Universités sont associées à une même Haute Ecole, les conventions de codiplômation prévoient les modalités de répartition de l'allocation entre les Universités.
+
+Les montants par Haute Ecole, alloués de [<sup>4</sup> 2026 à 2028]<sup>4</sup>, sont calculés comme suit: financement non-pondéré d'un étudiant en Haute Ecole pour l'année budgétaire considérée x 1,65 x nombre d'étudiants inscrits dans cette formation au 1er décembre de l'année budgétaire considérée dans la Haute école considérée.
+
+[<sup>3</sup> Si une convention de codiplômation est conclue entre une ESA référente et une Université, le financement alloué à cette Université est calculé sur base des principes définis aux alinéas précédents mais en tenant compte du nombre d'inscriptions dans l'ESA référente. Si cette convention est conclue avec une ESA non-référente, le partenaire de la convention reçoit un financement à concurrence de sa part dans la répartition des crédits du cursus selon la formule visée au troisième alinéa. Le financement de l'ESA non référente est déduit de l'allocation visée au deuxième alinéa.]<sup>3</sup>
+
+[<sup>4</sup> A partir de l'année budgétaire 2029, le montant total des allocations prévues aux alinéas précédents pour l'année budgétaire 2028 est intégré, après indexation, à concurrence de la part de chacun dans la répartition des crédits du cursus qu'ils organisent, dans l'enveloppe de financement des Hautes Ecoles visée à l'article 10 du décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française, d'une part, et dans la partie variable du financement des Universités visée à l'article 29 de la loi du 27 juillet 1971 précitée, d'autre part.]<sup>4</sup>
+
+Les montants visés au troisième alinéa font l'objet d'une régularisation lorsque les données définitives à la base du calcul sont disponibles.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 12, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 79, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2021-12-02/42, art. 4, 007; En vigueur : 14-09-2022&gt;
+
+(4)&lt;DCFR 2022-07-20/17, art. 66, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 60
+
+[<sup>1</sup> § 1er. Pour les années budgétaires [<sup>2</sup> 2032 à 2034]<sup>2</sup>, une allocation est annuellement accordée aux Universités, aux Hautes Ecoles et aux Ecoles supérieures des Arts qui organisent en codiplômation le master de spécialisation en enseignement sections 1 et 2 ou le master de spécialisation en enseignement sections 3, 4 et 5.
+
+Le montant de cette allocation est calculé en fonction de chaque Université référente et est versé aux établissements partenaires de la convention de codiplômation à concurrence de leur part dans la répartition des crédits du cursus.
+
+Les montants par Université référentes, alloués de [<sup>2</sup> 2032 à 2034]<sup>2</sup>, sont calculés comme suit: financement non-pondéré d'un étudiant universitaire pour l'année budgétaire considérée x 1,45 x nombre d'étudiants inscrits dans cette formation au 1er décembre de l'année budgétaire considérée dans l'Université considérée.
+
+[<sup>2</sup> A partir de l'année budgétaire 2035, le montant total des allocations prévues aux alinéas précédents pour l'année budgétaire 2034 est intégré, après indexation, à concurrence de la part de chacun dans la répartition des crédits du cursus qu'ils organisent, dans l'enveloppe de financement des Hautes Ecoles visée à l'article 10 du décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française, d'une part, et dans la partie variable du financement des Universités visée à l'article 29 de la loi du 27 juillet 1971 précitée, d'autre part.]<sup>2</sup>
+
+Les montants visés au troisième alinéa font l'objet d'une régularisation lorsque les données définitives à la base du calcul sont disponibles.
+
+§ 2. A partir de janvier [<sup>2</sup> 2035]<sup>2</sup>, par dérogation aux articles 52, 53 et 54 du décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants), dans la moyenne des étudiants finançables pris en compte pour le calcul de la partie historique et de la partie variable de l'encadrement des Ecoles supérieures des Arts, pour les masters de spécialisation en enseignement visés dans le présent article, il est pleinement tenu compte des étudiants finançables de ces masters avec coefficients correspondant aux parts des Ecoles supérieures des Arts dans l'organisation des crédits constituant ces cursus et dans les domaines d'études de participations des Ecoles supérieures des Arts.
+
+§ 3. A partir l'année budgétaire [<sup>2</sup> 2035]<sup>2</sup>, un montant est déduit de l'enveloppe pour allocations de fonctionnement des Universités et de l'enveloppe pour allocations globales des Hautes Ecoles, selon la formule suivante: financement non-pondéré d'un étudiant universitaire pour l'année budgétaire considérée x 1,45 x étudiants finançables avec coefficients correspondant aux parts des Ecoles supérieures des Arts dans la codiplômation avec les Universités et dans la codiplômation avec les Hautes Ecoles des crédits constituant le cursus des masters de spécialisation en enseignement visés à l'article 43. Ces moyens sont réaffectés en faveur des Ecoles supérieures des Arts concernées pour application du présent article et leurs moyens de fonctionnement organiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 5, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 67, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 61
+
+Pour les années budgétaires [<sup>1</sup> [<sup>2</sup> 2025 à 2027]<sup>2</sup>]<sup>1</sup>, une allocation est annuellement accordée aux Universités et aux Hautes Ecoles qui organisent en codiplômation la formation menant au grade de [<sup>3</sup> master en enseignement section 5]<sup>3</sup>.
+
+Le montant de cette allocation est calculé en fonction de chaque établissement référent et est versée aux établissements partenaires de la convention de codiplômation à concurrence de leur part dans la répartition des crédits du cursus.
+
+Les montants par établissement référent, pour les années [<sup>1</sup> [<sup>2</sup> 2025 à 2027]<sup>2</sup>]<sup>1</sup>, sont calculés comme suit: financement non pondéré par étudiant universitaire pour l'année budgétaire considérée x 1,45 x nombre d'étudiants inscrits au 1er décembre de l'année budgétaire considérée dans ce cursus.
+
+[<sup>3</sup> [<sup>4</sup> Si une convention de codiplômation est conclue entre une ESA référente et un (plusieurs) établissement(s) partenaire(s), dans le cadre de la codiplômation visée à l'article 31, § 1er, 2°, du présent décret, le financement alloué à cet (ces) établissement(s) partenaire(s) est calculé sur base des principes définis aux alinéas précédents mais en tenant compte du nombre d'inscriptions dans l'ESA référente]<sup>4</sup>. Si cette convention est conclue avec une ESA non-référente, le partenaire de la convention reçoit un financement à concurrence de sa part dans la répartition des crédits du cursus selon la formule visée au troisième alinéa. Le financement de l'ESA non référente est déduit de l'allocation visée au deuxième alinéa.]<sup>3</sup>
+
+A partir de l'année budgétaire [<sup>1</sup> [<sup>2</sup> 2028]<sup>2</sup>]<sup>1</sup>, le montant total des allocations octroyées en [<sup>1</sup> [<sup>2</sup> 2027]<sup>2</sup>]<sup>1</sup> aux Hautes Ecoles en vertu des alinéas précédents est intégré, après indexation, dans l'enveloppe de financement des Hautes Ecoles, visée à l'article 10 du décret du 9 septembre 1996 précité. Le montant total des allocations octroyées [<sup>5</sup> en 2027]<sup>5</sup> aux Universités en vertu des alinéas précédents est intégré, après indexation, dans l'enveloppe de financement des Universités, visée à l'article 29 de la loi du 27 juillet 1971 précitée.
+
+Les montants visés au troisième alinéa font l'objet d'une régularisation lorsque les données définitives à la base du calcul sont disponibles.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 14, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 81, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2021-12-02/42, art. 6, 007; En vigueur : 14-09-2022&gt;
+
+(4)&lt;DCFR 2023-11-09/20, art. 31, 008; En vigueur : 14-09-2023&gt;
+
+(5)&lt;DCFR 2023-11-09/20, art. 32, 008; En vigueur : 14-09-2023&gt;
+
+##### Art. 62
+
+Le financement non-pondéré par étudiant en Haute Ecole ou par étudiant universitaire, visé aux articles 57 à 61, est calculé en divisant le montant de la partie variable du financement des Hautes Ecoles ou des Universités par respectivement le nombre total d'unités de charges d'enseignement ou du nombre pondéré d'étudiants subsidiables pour l'année budgétaire concernée.
+
+##### Art. 63
+
+Les partenaires au sein d'une convention de codiplômation peuvent décider d'un commun accord la mise en oeuvre de transferts financiers entre eux afin d'ajuster le financement alloué en vertu du présent décret en fonction des coûts réels liés à l'organisation des différents cursus du domaine 10 bis pour les différents partenaires. Les institutions veillent à établir un juste équilibre entre facultés, en tenant compte du coût réel des formations dispensées.
+
+Ces dispositions éventuelles sont précisées dans les conventions de codiplômation.
+
+##### Art. 63bis
+
+[<sup>1</sup> Sans préjudice de l'article 4 du décret du 11 avril 2014 adaptant le financement des établissements d'enseignement supérieur à la nouvelle organisation des études, les étudiants inscrits dans un cursus conduisant au master de spécialisation en formation d'enseignants sont finançables au sens du même décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-05-03/44, art. 60, 002; En vigueur : 14-09-2019&gt;
+
+### CHAPITRE II. - Modification du Décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française
+
+##### Art. 64
+
+[<sup>1</sup> L'article 10 du décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française, est complété comme suit : " A partir de l'année budgétaire 2026, un montant déterminé en application de l'article 58, § 1er, alinéa 5, du décret du 7 février 2019 définissant la formation initiale des enseignants, est ajouté au montant déterminé en vertu des alinéas précédents.
+
+A partir de l'année budgétaire 2028, le montant déterminé en application de l'article 61, alinéa 5, du décret du 7 février 2019 définissant la formation initiale des enseignants, est ajouté au montant déterminé en vertu des alinéas précédents.
+
+A partir de l'année budgétaire 2029, un montant déterminé en application de l'article 59, alinéa 5, du décret du 7 février 2019 définissant la formation initiale des enseignants, est ajouté au montant déterminé en vertu des alinéas précédents.
+
+A partir de l'année budgétaire 2035, un montant déterminé en application de l'article 60, § 1er, alinéa 4, du décret du 7 février 2019 définissant la formation initiale des enseignants est, ajouté au montant déterminé en vertu des alinéas précédents.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-07-20/17, art. 68, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 65
+
+[<sup>1</sup> L'article 15 du même décret est complété par un alinéa rédigé comme suit :
+
+" A partir de l'année académique 2023-2024, les formations organisées dans le domaine 10bis, défini à l'article 83 du décret Paysage, sont classées dans le groupe G.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-07-20/17, art. 69, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 66
+
+[<sup>1</sup> L'article 17, alinéa 2, du même décret est complété comme suit : " Toutefois, en lien avec le décret du 7 février 2019 définissant la formation initiale des enseignants, les dérogations suivantes sont appliquées aux modalités de calculs prévues par les alinéas précédents :
+
+1° pour les années académiques 2023-2024 à 2025-2026, pour les Hautes Ecoles qui organisent en codiplômation le premier cycle des sections 1 à 3 de la formation initiale des enseignants, le nombre d'étudiants inscrits dans le premier cycle des sections 1 à 3 du domaine 10bis et dans les cursus d'agrégé de l'enseignement secondaire inférieur ou en instituteur primaire ou préscolaire dans le domaine 10 est remplacé, pour chaque Haute Ecole concernée, par la moyenne du nombre d'étudiants inscrits en bachelier en agrégé de l'enseignement secondaire inférieur ou en instituteur primaire ou préscolaire dans le domaine 10 lors des années académiques 2020-2021 à 2022-2023. Les étudiants de premier cycle dans les sections 1 à 3 du domaine 10bis ne sont ainsi pris en compte qu'à partir des inscriptions lors de l'année académique 2026-2027, qui participent pour la première fois au calcul des unités de charges d'enseignement du budget 2028 ;
+
+2° le nombre d'étudiants en master de spécialisation en formation d'enseignants organisé en codiplômation n'est pris en compte qu'à partir des inscriptions de l'année académique 2024-2025, qui participent pour la première fois au calcul des unités de charge d'enseignement du budget 2026 ;
+
+3° le nombre d'étudiants dans le deuxième cycle des sections 1 à 3 n'est pris en compte qu'à partir des inscriptions de l'année académique 2027-2028 ;
+
+4° le nombre d'étudiants inscrits dans la formation menant au grade académique de master en enseignement section 5 n'est pris en compte qu'à partir de l'année académique 2026-2027 ;
+
+5° le nombre d'étudiants de master de spécialisation en enseignement sections 1 et 2 et le nombre d'étudiants de master de spécialisation en enseignement sections 3, 4 et 5 ne sont pris en compte qu'à partir des inscriptions de l'année académique 2033-2034, qui participent pour la première fois au calcul des unités de charge d'enseignement du budget 2035.
+
+Le calcul des moyennes triennales pour les étudiants visés à l'alinéa précédent, 2° à 5°, intègre, pour les deux années précédant la première année de leur prise en compte dans le calcul des unités de charges d'enseignement, le nombre d'étudiants inscrits lors de la première année d'organisation du cycle d'étude.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-07-20/17, art. 70, 006; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE III. - Modifications de la loi du 27 juillet 1971 sur le financement et le contrôle des universités
+
+##### Art. 67
+
+A l'article 28 de la loi du 27 juillet 1971 sur le financement et le contrôle des établissements universitaires, l'alinéa 2 est remplacé par ce qui suit: " Les études menant à un grade académique dans les domaines définis à l'article 83 du décret Paysage, non reprises au premier alinéa, ainsi que les formations doctorales, sont classées dans le groupe B, à l'exception des études du domaine 10bis. A partir de l'année budgétaire 2018, les études menant à un grade académique de master de spécialisation du domaine 11° organisées en application de l'article 73, alinéa 2, du décret du 7 novembre 2013 précité appartiennent au groupe C. ".
+
+##### Art. 68
+
+[<sup>1</sup> A l'article 29 de la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires, les modifications suivantes sont apportées :
+
+1° il est inséré un paragraphe 3quinquies rédigé comme suit :
+
+" § 3quinquies. A la suite du décret du 7 février 2019 définissant la formation initiale des enseignants, les montants suivants sont ajoutés à la partie variable visée au § 2 :
+
+\- à partir de l'année budgétaire 2026, les montants en application des articles 57 cinquième alinéa, et 58, § 1er, alinéa 5, du décret du 7 février 2019 précité ;
+
+\- à partir de l'année budgétaire 2029, un montant en application de l'article 59, cinquième alinéa, du décret du 7 février 2019 précité.
+
+\- à partir de l'année budgétaire 2035, un montant en application de l'article 60, § 1er, alinéa 4, du décret du 7 février 2019 précité ;
+
+\- à partir de l'année budgétaire 2028, un montant en application de l'article 61, cinquième alinéa, du décret du 7 février 2019 précité. " ;
+
+2° au paragraphe 5 :
+
+a) l'alinéa 1 est complété par ce qui suit : " Par dérogation, les étudiants inscrits dans le domaine 10bis ne sont pris en compte qu'à partir de l'année budgétaire :
+
+\- 2026 pour les étudiants du premier cycle des sections 1 à 3 de la formation initiale des enseignants et les étudiants de master de spécialisation en formation d'enseignants ;
+
+\- 2028 pour les étudiants du deuxième cycle menant à un grade académique de master en enseignement section 5 ;
+
+\- 2029 pour les étudiants du deuxième cycle des sections 1 à 3 de la formation initiale des enseignants ;
+
+\- 2035 pour les étudiants de master de spécialisation en enseignement sections 1 et 2 et pour les étudiants de master de spécialisation en enseignement sections 3, 4 et 5. " ;
+
+b) le paragraphe 5 est complété par un quatrième alinéa rédigé comme suit :
+
+" Pour le calcul des moyennes quadriennales visées au troisième alinéa, les nombres d'étudiants des sections 1 à 3 du domaine 10 bis pris en compte pour les années précédant leur année d'intégration dans le calcul, telle que prévue par dérogation au premier alinéa, sont fixés aux nombres d'étudiants inscrits lors de la troisième année d'organisation du cycle d'études.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-07-20/17, art. 71, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 69
+
+[<sup>1</sup> L'article 29bis de la même loi est complété par un alinéa rédigé comme suit : " A partir de l'année académique 2023-2024, un coefficient de pondération de 1,45 est appliqué aux étudiants finançables inscrits dans le domaine 10bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-07-20/17, art. 72, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 70
+
+A l'article 30 de la même loi, le deuxième alinéa est complété comme suit: " et aux étudiants inscrits dans le domaine 10bis. ".
+
+### CHAPITRE IV. - Modification du Décret du 11 avril 2014 adaptant le financement des établissements d'enseignement supérieur à la nouvelle organisation des études
+
+##### Art. 71
+
+L'article 9 du décret adaptant le financement des établissements d'enseignement supérieur à la nouvelle organisation des études est complété comme suit: " Toutefois, pour le calcul du financement des établissements partenaires d'un programme d'étude en codiplômation, l'inscription d'un étudiant au programme d'étude conjoint peut être répartie entre les établissements partenaires selon les modalités prévues dans la convention qui organise l'organisation du programme conjoint. ".
+
+## TITRE VI. - Dispositions transitoires, abrogatoires, modificatives et finales
+
+### CHAPITRE Ier. - Des dispositions transitoires
+
+##### Art. 72
+
+[<sup>1</sup> § 1er. Les étudiants qui sont inscrits, avant l'année académique 2023-2024, dans le cursus de bachelier instituteur préscolaire, de bachelier instituteur primaire, de bachelier agrégé de l'enseignement secondaire inférieur ou de bachelier en formation musicale terminent ce cursus durant les années académiques 2023-2024 et 2024-2025.
+
+[<sup>2</sup> Peuvent être admis en poursuite d'études dans l'un des cursus repris à l'alinéa précédent lors de l'année académique 2023-2024, conformément aux articles 117 ou 119 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études, les étudiants pour lesquels l'établissement peut valoriser a minima les 60 premiers crédits du cursus faisant l'objet de la demande d'admission, suite aux crédits acquis dans un autre cursus ou suite à l'expérience personnelle ou professionnelle acquise avant l'année académique 2023-2024. Dans le cas où l'établissement peut valoriser lors de l'admission a minima les 60 premiers crédits de l'un des cursus repris à l'alinéa précédent, les étudiants terminent ce cursus durant les années académiques 2023-2024 et 2024-2025.]<sup>2</sup>
+
+§ 2. Si, au terme de l'année académique 2024-2025, les étudiants visés au § 1er n'ont pas obtenu le grade académique correspondant à ce cursus, ils disposent des années académiques 2025-2026 et 2026-2027 pour acquérir les unités d'enseignement manquantes.
+
+Si, au terme de l'année académique 2026-2027, ils n'ont pas obtenu le grade académique correspondant au cursus suivi, ils poursuivent leurs études dans le cursus tel que défini dans le présent décret. Les autorités de l'établissement définissent les unités d'enseignement acquises qui sont valorisées dans le cadre de ce nouveau cursus.
+
+Pour la bonne fin des études, les établissements qui organisent au moins une des formations visées au § 1er du présent article durant l'année académique 2022-2023 poursuivent l'organisation de chacune des formations organisées jusqu'au terme de l'année académique 2026-2027 pour autant qu'au moins un étudiant inscrit dans leur établissement avant l'année académique 2023-2024 soit concerné par cette organisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-07-20/17, art. 73, 006; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2023-11-09/20, art. 33, 008; En vigueur : 14-09-2023&gt;
+
+##### Art. 73
+
+[<sup>1</sup> § 1er. Les étudiants qui sont inscrits, avant l'année académique 2025-2026, dans le cursus d'agrégé de l'enseignement secondaire supérieur organisé selon les modalités définies par le décret du 8 février 2001 définissant la formation initiale des agrégés de l'enseignement secondaire supérieur ou par le décret du 17 mai 1999 relatif à l'enseignement supérieur artistique terminent ce cursus durant l'année académique 2025-2026.
+
+§ 2. Si, au terme de l'année académique 2025-2026, les étudiants concernés par la disposition visée au § 1er du présent article n'ont pas obtenu le grade académique correspondant à ce cursus, ils disposent de l'année académique 2026-2027 pour acquérir les unités d'enseignement manquantes.
+
+Si, au terme de l'année académique 2026-2027, ils n'ont pas obtenu le grade d'agrégé de l'enseignement secondaire supérieur, ils poursuivent leurs études dans le cursus tel que défini par le présent décret. Les autorités académiques définissent les unités d'enseignement acquises qui sont valorisées dans le cadre de ce nouveau cursus.
+
+Pour la bonne fin des études, les établissements qui organisent la formation visée au § 1er du présent article durant l'année académique 2024-2025 poursuivent l'organisation de cette formation jusqu'au terme de l'année académique 2026-2027 pour autant qu'au moins un étudiant inscrit dans leur établissement avant l'année académique 2025-2026 soit concerné par cette organisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2020-12-09/15, art. 88, 005; En vigueur : 09-12-2020&gt;
+
+##### Art. 74
+
+[<sup>1</sup> § 1er. Les étudiants qui sont inscrits, avant l'année académique 2025-2026, dans un cursus de deuxième cycle à finalité didactique organisé selon les modalités définies à l'article 70, § 2, du décret Paysage terminent ce cursus durant les années académiques 2025-2026 et 2026-2027.
+
+§ 2. Si, au terme de l'année académique 2026-2027, les étudiants concernés par la disposition visée au § 1er du présent article n'ont pas obtenu le grade académique correspondant à ce cursus, ils disposent de l'année académique 2027-2028 pour acquérir les unités d'enseignement manquantes.
+
+Si, au terme de l'année académique 2027-2028, ils n'ont pas obtenu le grade académique visé, ils poursuivent leurs études dans le cursus tel que défini pour le master en Enseignement section 4 par le présent décret. Les autorités académiques définissent les unités d'enseignement acquises qui sont valorisées dans le cadre de ce nouveau cursus.
+
+Pour la bonne fin des études, les établissements qui organisent la formation visée au § 1er du présent article durant l'année académique 2024-2025 poursuivent l'organisation de cette formation jusqu'au terme de l'année académique 2027-2028 pour autant qu'au moins un étudiant inscrit dans leur établissement avant l'année académique 2025-2026 soit concerné par cette organisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2020-12-09/15, art. 89, 005; En vigueur : 09-12-2020&gt;
+
+##### Art. 75
+
+Les titulaires du grade de bachelier instituteur préscolaire, de bachelier instituteur primaire ou de bachelier agrégé de l'enseignement secondaire inférieur obtenu dans le cadre défini par le décret du 12 décembre 2000 ou du grade équivalent obtenu dans le cadre d'une législation antérieure à ce même décret ont accès au deuxième cycle du master en Enseignement respectivement en section 1, 2 ou 3 selon le grade obtenu, dès que ce deuxième cycle est organisé.
+
+Le Gouvernement, sur la base de l'avis de l'ARES, fixe, pour le présent décret, le volume et les modalités selon lesquels sont valorisés l'expérience acquise par les enseignants visés par le présent article, ainsi que leurs titres et brevets éventuels.
+
+##### Art. 76
+
+Les titulaires d'un master tel que défini à [<sup>1</sup> l'article 54, 3°]<sup>1</sup>, ont accès au master de spécialisation en formation d'enseignement si ce master est à finalité didactique ou s'il est complété par le titre d'agrégé de l'enseignement secondaire supérieur obtenu dans le cadre du décret du 8 février 2001 définissant la formation initiale des agrégés de l'enseignement secondaire supérieur ou obtenu dans le cadre d'une législation antérieure.
+
+----------
+
+(1)&lt;DCFR 2022-07-20/17, art. 74, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 77
+
+§ 1er. Les membres du personnel des établissements d'enseignement supérieur en fonction [<sup>5</sup> avant 2023-2024]<sup>5</sup> ne sont pas concernés par les dispositions visées [<sup>3</sup> à l'article 48]<sup>3</sup>. Les désignations et attributions les concernant s'effectuent selon les dispositions en vigueur [<sup>5</sup> avant 2023-2024]<sup>5</sup>.
+
+Sans préjudice des dispositions de l'alinéa 1er, jusqu'en [<sup>4</sup> 2033-2034]<sup>4</sup>, la charge d'enseignant praticien est prioritairement attribuée aux détenteurs du titre requis pour accéder à la fonction d'enseignant praticien tel que défini dans l'annexe 2 du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignants des Hautes écoles organisées ou subventionnées par la Communauté française.
+
+Les titulaires du Certificat d'aptitude pédagogique approprié à l'Enseignement supérieur en Hautes Ecoles et dans l'Enseignement supérieur de Promotion sociale défini par le décret du 17 juillet 2002 ayant obtenu ce certificat ou ayant entamé une formation en vue de l'obtention de ce certificat [<sup>5</sup> avant 2023-2024]<sup>5</sup> ne sont pas concernés par les dispositions statutaires visées [<sup>3</sup> à l'article 48]<sup>3</sup> du présent décret. Les désignations et attributions les concernant se font conformément aux textes statutaires en vigueur [<sup>5</sup> avant 2023-2024]<sup>5</sup>.
+
+§ 2. Les maîtres de formation pratique exercent au moins un cinquième-temps dans l'enseignement fondamental, secondaire inférieur ou secondaire de promotion sociale à un niveau concerné par la formation à laquelle ils contribuent.
+
+[<sup>5</sup> [<sup>6</sup> En l'absence de membres du personnel ayant le titre requis pour le cours à conférer " enseignant praticien ou enseignante praticienne ", les maîtres de formation pratique pourront assurer l'encadrement des ateliers de formation professionnelle conformément à l'article 39, § 1er.]<sup>6</sup>]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 23, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 90, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2021-12-02/42, art. 7, 007; En vigueur : 14-09-2022&gt;
+
+(4)&lt;DCFR 2022-07-20/17, art. 75, 006; En vigueur : 14-09-2022&gt;
+
+(5)&lt;DCFR 2023-11-09/20, art. 34, 008; En vigueur : 14-09-2023&gt;
+
+(6)&lt;DCFR 2025-07-16/18, art. 69, 010; En vigueur : 14-09-2025&gt;
+
+##### Art. 77bis
+
+[<sup>1</sup> Pour autant qu'ils se conforment aux dispositions définies dans le présent décret, les établissements d'enseignement supérieur qui bénéficient à la date d'entrée en vigueur du présent décret:
+
+a. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier instituteur préscolaire sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 1;
+
+b. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier instituteur primaire sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 2;
+
+c. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation arts plastiques sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Formation artistique: arts plastiques et Education culturelle et artistique;
+
+d. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation éducation physique sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Education physique et Education à la santé;
+
+e. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation français et français langue étrangère sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Français et Langues anciennes;
+
+f. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation français et Education à la philosophie et citoyenneté sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Français et Education à la philosophie et citoyenneté;
+
+g. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation français et morale sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Français et Morale;
+
+h. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation français et religion sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Français et Religion;
+
+i. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation français et français langue étrangère ou orientation français et morale ou orientation français et religion ou orientation français et éducation à la philosophie et citoyenneté sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement [<sup>3</sup> section 3 Français et Education culturelle et artistique]<sup>3</sup> ou au grade académique de master en enseignement section 3 Français, Français langue étrangère et Français langue d'apprentissage;
+
+j. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation langues germaniques sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Langues germaniques;
+
+k. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation mathématiques sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Mathématiques et Formation numérique;
+
+l. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation sciences: biologie, chimie, physique sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Sciences;
+
+m. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur, orientation sciences humaines: géographie, histoire, sciences sociales sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 [<sup>2</sup> Sciences humaines]<sup>2</sup>;
+
+n. d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier agrégé de l'enseignement secondaire inférieur en musique ou bachelier en musique: formation musicale sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Formation artistique: Musique et Education culturelle et artistique;
+
+o. à la fois d'une habilitation permettant d'organiser une formation conduisant à un grade académique de bachelier agrégé de l'enseignement secondaire inférieur et d'une habilitation permettant d'organiser une formation conduisant au grade académique de bachelier en informatique et systèmes, orientation robotique ou bachelier en informatique et systèmes, orientation technologie de l'informatique ou bachelier en sciences informatiques ou; bachelier en sciences de l'ingénieur industriel sont réputés habilités à organiser une formation conduisant au grade académique de master en enseignement section 3 Formation manuelle, technique et technologique et Formation numérique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 8, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 76, 006; En vigueur : 14-09-2022&gt;
+
+(3)&lt;DCFR 2023-11-09/20, art. 35, 008; En vigueur : 14-09-2023&gt;
+
+##### Art. 77ter
+
+[<sup>1</sup> Par dérogation à l'article 31, § 1er, les Hautes Ecoles, qui à la date d'entrée en vigueur du présent décret, bénéficiaient d'une habilitation à organiser l'agrégation à l'enseignement secondaire supérieur peuvent organiser le cursus menant au grade académique de [<sup>2</sup> master en enseignement section 5]<sup>2</sup> dans le respect des objectifs fixés par le présent décret et pour autant qu'elles inscrivent cette organisation dans le cadre de la codiplômation pour laquelle elles sont considérées comme établissements référents.]<sup>1</sup> [<sup>2</sup> Cette codiplômation réunit une Haute Ecole, établissement référent, et une ou plusieurs Universités, établissements partenaires.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-12-02/42, art. 9, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 77, 006; En vigueur : 14-09-2022&gt;
+
+### CHAPITRE II. - Des dispositions abrogatoires et modificatives
+
+##### Art. 78
+
+Le décret du 12 décembre 2000 définissant la formation initiale des instituteurs et des régents est abrogé dès la mise en place de la nouvelle formation. Il reste toutefois d'application jusqu'au terme de l'année académique [<sup>3</sup> 2026-2027]<sup>3</sup> pour les étudiants ayant entamé leur cursus avant l'année académique [<sup>3</sup> 2023-2024]<sup>3</sup> ce, selon les modalités définies à l'article 72.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 24, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 91, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2022-07-20/17, art. 78, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 79
+
+Le décret du 8 février 2001 définissant la formation initiale des agrégés de l'enseignement secondaire supérieur est abrogé dès la mise en place de la nouvelle formation. [<sup>3</sup> Il reste toutefois d'application pour les étudiants ayant entamé leur cursus avant l'année académique 2025-2026, selon les modalités définies à l'article 73.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 25, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 92, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2025-07-16/18, art. 70, 010; En vigueur : 14-09-2023&gt;
+
+##### Art. 80
+
+Dans l'article 6 du décret du 31 mars 1994 définissant la neutralité de l'enseignement de la Communauté, le paragraphe 1er est remplacé par la disposition suivante:
+
+" § 1er. Une formation à la neutralité est organisée à raison de 20 heures par:
+
+1° les établissements d'enseignement supérieur dans le cadre de la formation initiale des enseignants telle que définie par le décret du 7 février 2019 définissant la formation initiale des enseignants;
+
+2° les établissements d'enseignement supérieur de promotion sociale organisés par la Communauté française dans le cadre des études menant au certificat d'aptitudes pédagogiques et au grade académique de bachelier en éducation spécialisée en accompagnement psycho-éducatif. ".
+
+##### Art. 81
+
+&lt;Abrogé par DCFR 2021-12-02/42, art. 12, 007; En vigueur : 14-09-2022&gt;
+
+##### Art. 82
+
+L'arrêté du Gouvernement de la Communauté française du 17 septembre 2003 organisant l'agrégation de l'enseignement secondaire supérieur dans les Ecoles supérieures des Arts, organisées ou subventionnées par la Communauté française est abrogé. [<sup>3</sup> Il reste toutefois d'application pour les étudiants ayant entamé leur cursus avant l'année académique 2025-2026, selon les modalités définies à l'article 73]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 26, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 93, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2025-07-16/18, art. 71, 010; En vigueur : 14-09-2023&gt;
+
+##### Art. 83
+
+Dans l'article 7 du décret du 17 décembre 2003 organisant la neutralité inhérente à l'enseignement officiel subventionné et portant diverses mesures en matière d'enseignement, le paragraphe 1er est remplacé par la disposition suivante:
+
+" § 1er. Une formation répondant aux exigences des articles 2 à 6 est organisée à raison de 20 heures par:
+
+1° les établissements d'enseignement supérieur dans le cadre de la formation initiale des enseignants telle que définie par le décret du 7 février 2019 définissant la formation initiale des enseignants;
+
+2° les établissements d'enseignement supérieur de promotion sociale subventionnés par la Communauté française dans le cadre des études menant au certificat d'aptitudes pédagogiques et au grade académique de bachelier en éducation spécialisée en accompagnement psycho-éducatif. ".
+
+##### Art. 84
+
+Dans le décret du 17 mai 1999 relatif à l'enseignement supérieur artistique les articles 11, 14, § 5, 19, § 5, et 23 sont abrogés. [<sup>4</sup> Toutefois, ces dispositions restent d'application pour les étudiants ayant entamé leur cursus avant l'année académique 2025-2026, selon les modalités définies à l'article 73.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/44, art. 61, 002; En vigueur : 14-09-2019&gt;
+
+(2)&lt;DCFR 2019-12-18/15, art. 27, 003; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCFR 2020-12-09/15, art. 94, 005; En vigueur : 09-12-2020&gt;
+
+(4)&lt;DCFR 2025-07-16/18, art. 72, 010; En vigueur : 14-09-2023&gt;
+
+##### Art. 85
+
+L'article 15, § 1er, 5°, du décret Paysage est abrogé.
+
+##### Art. 86
+
+L'article 37, 2°, du décret Paysage est complété par les mots " de l'organisation des masters de spécialisation en enseignement ".
+
+##### Art. 87
+
+Dans l'article 66, § 1er, alinéa 3, du décret Paysage, la phrase " En particulier, les études menant au grade d'agrégé de l'enseignement secondaire supérieur (AESS) sont accessibles aux porteurs du grade académique de master et valorisées pour 30 crédits de niveau 7 " est abrogée.
+
+##### Art. 88
+
+Dans l'article 70, § 2, du décret Paysage, le 1° est abrogé dès l'entrée en vigueur du présent décret. Cette disposition reste toutefois d'application pour les étudiants ayant entamé leur cursus avant l'année académique [<sup>1</sup> [<sup>2</sup> 2025-2026]<sup>2</sup>]<sup>1</sup> ce, selon les modalités définies à l'article 74.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 28, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 95, 005; En vigueur : 09-12-2020&gt;
+
+##### Art. 89
+
+&lt;Abrogé par DCFR 2022-07-20/17, art. 79, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 90
+
+A l'article 83 du décret Paysage, les modifications suivantes sont apportées:
+
+a) au § 1er, 10°, les mots " et de l'éducation " sont abrogés;
+
+b) il est inséré un 10° bis rédigé comme suit: " 10° bis Sciences de l'éducation et Enseignement. ";
+
+c) au § 2, 1°, le " 10° " est remplacé par " 10° bis ".
+
+##### Art. 91
+
+L'article 113 du décret Paysage est abrogé.
+
+##### Art. 92
+
+L'article 115, § 1er, alinéa 1, du décret Paysage, est complété par un 4° rédigé comme suit: " 4° un grade académique de master de spécialisation en Enseignement section 1, 2 ou 3 tel que défini aux articles 28 et suivants du décret du 7 février 2019 définissant la formation initiale des enseignants. ".
+
+##### Art. 93
+
+Dans l'annexe II du décret Paysage, les modifications suivantes sont apportées:
+
+a) les lignes suivantes sont abrogées:
+
+<table><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation arts plastiques</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation éducation physique</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation français et français langue étrangère</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation français et morale</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation français et éducation à la philosophie et la citoyenneté</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation français et religion</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation langues germaniques</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation mathématique</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation sciences : biologie, chimie, physique</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation sciences économiques appliquées</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation sciences humaines : géographie, histoire, sciences sociales</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation bois - construction</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation économie familiale et sociale</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation électromécanique</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur, orientation habillement</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : éducateur spécialisé en activités socio-sportives</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : éducateur spécialisé en accompagnement psycho-éducatif</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : instituteur préscolaire</td></tr><tr><td>10 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : instituteur primaire<br>  Bachelier de spécialisation : accompagnateur en milieux scolaires</td></tr><tr><td>10 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>10 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en intégration des technologies nouvelles au service de l'enseignement</td></tr><tr><td>10 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en orthopédagogie</td></tr><tr><td>10 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en psychomotricité</td></tr><tr><td>10 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en éducation et rééducation des déficients sensoriels</td></tr><tr><td>--- </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>10 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences de l'éducation</td></tr><tr><td>10 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en pédagogie universitaire et de l'enseignement supérieur</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+b) après la ligne:
+
+<table><tr><td>10 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en théories psychanalytiques</td></tr></table>
+
+sont insérées les lignes suivantes:
+
+<table><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 1</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 2</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Français et Education à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Français et Morale</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Français et Religion</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Français et Formation culturelle et artistique</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Français et Langues anciennes</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Langues germaniques</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Mathématiques et Technologies</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Sciences et Technologies</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Education physique et Education à la santé</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Sciences humaines et Education à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Sciences humaines et Morale</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Sciences humaines et Religion</td></tr><tr><td>10bis </td><td>HE/U<br>  /ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Formation artistique : Musique</td></tr><tr><td>10bis </td><td>HE/U/<br>  ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : Formation artistique : Arts plastiques</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Grec ancien et latin</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Grec ancien et latin</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Langues modernes</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Biologie</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Chimie</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Education physique</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Français</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Géographie</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Histoire</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Mathématiques</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Physique</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Sciences économiques</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Sciences sociales</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Arts plastiques, visuels et de l'espace</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Musique</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : Arts de la parole et du théâtre</td></tr><tr><td>10bis </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : éducateur spécialisé en activités socio-sportives</td></tr><tr><td>10bis </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : éducateur spécialisé en accompagnement psycho-éducatif</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation: accompagnateur en milieux scolaires</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en intégration des technologies nouvelles au service de l'enseignement</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en orthopédagogie</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en psychomotricité</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en éducation et rééducation des déficients sensoriels</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 1</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 2</td></tr><tr><td>10bis </td><td>HE/U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Masters en enseignement section 3 : Français et Education à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Français et Cours philosophiques : Religion ou Morale</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Français et Formation culturelle et artistique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Français et Langues anciennes</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Langues germaniques</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Mathématiques et Technologies</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Sciences et Technologies</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Education physique et Education à la santé</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Sciences humaines et Education à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Sciences humaines et Morale</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Sciences humaines et Religion</td></tr><tr><td>10bis </td><td>HE/U/<br>  ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Formation artistique : Musique</td></tr><tr><td>10bis </td><td>HE/U/<br>  ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 3 : Formation artistique : Arts plastiques</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Grec ancien et latin</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Langues modernes</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Biologie</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Chimie</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Education physique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Français</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Géographie</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Histoire</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Mathématiques</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Physique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Sciences économiques</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Sciences sociales</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Arts plastiques, visuels et de l'espace</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Musique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en enseignement section 4 : Arts de la parole et du théâtre</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters agrégé de l'enseignement section 4</td></tr><tr><td>10bis </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Masters en sciences de l'éducation</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 1 pédagogique Orientation techno-pédagogique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 1 pédagogique Orientation orthopédagogique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 1 pédagogique Orientation " Différenciation "</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 1 linguistique en néerlandais</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 1 linguistique en allemand</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 1 linguistique en anglais</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 pédagogique Orientation techno-pédagogique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 pédagogique Orientation orthopédagogique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 pédagogique Orientation " Différenciation "</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 linguistique en néerlandais</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 linguistique en allemand</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 linguistique en anglais</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 disciplinaire : Français</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 disciplinaire : Mathématiques</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 disciplinaire : Sciences</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 disciplinaire : Sciences humaines</td></tr><tr><td>10bis </td><td>HE/U/<br>  ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 disciplinaire : Formation culturelle et artistique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 disciplinaire : Education à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 disciplinaire : Morale</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 2 disciplinaire : Religion</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 pédagogique Orientation techno-pédagogique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 pédagogique Orientation orthopédagogique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 pédagogique Orientation " Différenciation "</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 linguistique en néerlandais</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 linguistique en allemand</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 linguistique en anglais</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Français</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Anglais</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Allemand</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Néerlandais</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Mathématiques</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Physique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Chimie</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Chimie</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Biologie</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Education physique</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Histoire</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Géographie</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Sciences sociales</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Education à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Morale</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en enseignement section 3 disciplinaire : Religion</td></tr><tr><td>10bis </td><td>HE/U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en formation d'enseignants</td></tr><tr><td>10bis </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en gestion d'établissement d'enseignement obligatoire</td></tr><tr><td>10bis </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Masters de spécialisation en pédagogie universitaire de l'enseignement supérieur</td></tr></table>
+
+c) la ligne
+
+<table><tr><td>23 </td><td>ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : agrégé de l'enseignement secondaire inférieur en musique</td></tr></table>
+
+est abrogée.
+
+##### Art. 94
+
+Dans le décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, à l'article 17, le § 3 est remplacé et complété avec un § 4 rédigés comme suit:
+
+" § 3. Le porteur d'un master ou d'une licence ouvrant l'accès à un cursus conduisant au grade académique de master agrégé de l'enseignement section 4 peut, en vue de satisfaire à la possession de la composante pédagogique, s'inscrire dans une section d'un établissement d'enseignement de promotion sociale sanctionnée par le certificat d'aptitude pédagogique s'il respecte au minimum la condition suivante: l'annexion au dossier de l'étudiant d'un document attestant de l'impossibilité d'une université, d'une haute école ou d'une école supérieure des arts de son choix de l'inscrire dans un cursus conduisant au grade académique de master agrégé de l'enseignement section 4.
+
+Le Gouvernement fixe le modèle du document attestant de l'impossibilité de s'inscrire dans un cursus conduisant au grade académique de master agrégé de l'enseignement section 4 visé à l'alinéa 1er.
+
+§ 4. Le porteur d'un master ou d'une licence ouvrant l'accès à un cursus conduisant au grade académique de master agrégé de l'enseignement section 4 peut, en vue de satisfaire à la possession de la composante pédagogique, s'inscrire dans une section d'un établissement d'enseignement de promotion sociale sanctionnée par le certificat d'aptitude pédagogique et ayant, au préalable signé une convention de collaboration/co-organisation avec une haute école, une université ou une école supérieure des arts, s'il respecte au minimum la condition suivante: l'annexion au dossier de l'étudiant d'un document attestant que, pour des motifs professionnels, sociaux ou matériels, l'organisation pratique du cursus conduisant au grade académique de master agrégé de l'enseignement section 4 la rend manifestement plus accessible.
+
+Le Gouvernement fixe le modèle du document attestant de la plus grande accessibilité de la formation si elle est organisée par une université, une haute école ou une école supérieure des arts en collaboration avec un établissement de promotion sociale. ".
+
+##### Art. 95
+
+A l'article 50, § 1er, du décret réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, les modifications suivantes sont apportées:
+
+a) le mot " deux " est remplacé par le mot " trois " ;
+
+b) il est inséré un premièrement libellé comme suit:
+
+" 1° par dérogation au 2°, possède une composante disciplinaire acquise dans le cadre d'un " master en Enseignement section 1, 2 ou 3 " délivré dans le cadre du décret du 7 février 2019 définissant la formation initiale des enseignants ". Il s'ensuit que le " 1° " devient un " 2° ", le " 2° " devient un " 3° ".
+
+### CHAPITRE III. - Des dispositions finales
+
+##### Art. 96
+
+A partir de l'année [<sup>3</sup> 2027]<sup>3</sup>, le Gouvernement réalise chaque année un rapport afin d'estimer l'évolution de la masse salariale des enseignants en pourcentage des recettes de la Communauté française. Ces rapports annuels sont soumis pour avis à la Cour des comptes. Le cas échéant, le Gouvernement prend les mesures utiles pour garantir l'équilibre et la soutenabilité financière des différents mécanismes de subventionnement des établissements scolaires.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 29, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 96, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2022-07-20/17, art. 80, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 97
+
+La première année du premier cycle du cursus conduisant au grade académique de [<sup>3</sup> [<sup>5</sup> master en enseignement sections 1, 2 et 3]<sup>5</sup>]<sup>3</sup> est organisée selon les nouvelles dispositions dès l'année académique [<sup>4</sup> 2023-2024]<sup>4</sup>. La suite du programme des études est organisée dès l'année académique [<sup>4</sup> 2024-2025]<sup>4</sup>.
+
+Les études de deuxième cycle du cursus conduisant au grade académique de master en enseignement sections 1, 2, 3 sont organisées dès l'année académique [<sup>4</sup> 2026-2027]<sup>4</sup>.
+
+Les études de deuxième cycle du cursus conduisant au grade académique de master en enseignement section 4 sont organisées dès l'année académique [<sup>1</sup> [<sup>2</sup> 2025-2026]<sup>2</sup>]<sup>1</sup>.
+
+Les études de deuxième cycle du cursus conduisant au grade académique de [<sup>3</sup> [<sup>5</sup> master en enseignement section 5]<sup>5</sup>]<sup>3</sup> sont organisées dès l'année académique [<sup>1</sup> [<sup>2</sup> 2025-2026]<sup>2</sup>]<sup>1</sup>.
+
+Les études de troisième cycle relevant du domaine 10bis sont organisées dès l'année académique [<sup>4</sup> 2023-2024]<sup>4</sup>.
+
+[<sup>4</sup> La formation conduisant au certificat en encadrement de stages pour enseignants en formation est organisée à partir de l'année académique 2023-2024.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 30, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 97, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2021-12-02/42, art. 13, 007; En vigueur : 14-09-2022&gt;
+
+(4)&lt;DCFR 2022-07-20/17, art. 81, 006; En vigueur : 14-09-2022&gt;
+
+(5)&lt;DCFR 2023-11-09/20, art. 36, 008; En vigueur : 14-09-2023&gt;
+
+##### Art. 98
+
+[<sup>1</sup> La formation conduisant au grade de master de spécialisation en enseignement sections 1 et 2 et de la formation conduisant au grade de master de spécialisation en enseignement sections 3, 4 et 5 sont mises en place au plus tard à partir de l'année académique [<sup>2</sup> 2032-2033]<sup>2</sup> sur la base d'une évaluation de la mise en oeuvre du tronc commun, en vue d'en ajuster les objectifs et l'organisation tels que prévus à l'article 43.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-12-02/42, art. 14, 007; En vigueur : 14-09-2022&gt;
+
+(2)&lt;DCFR 2022-07-20/17, art. 82, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 99
+
+La formation conduisant au master de spécialisation en formation d'enseignants [<sup>3</sup> est organisée à partir de l'année académique 2023-2024]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 32, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 99, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2022-07-20/17, art. 83, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 100
+
+Les référentiels visés aux articles 15, § 1er, 60°, et 22, 16°, du décret Paysage et les profils d'enseignement et programmes d'études visés à l'article 121 du même décret sont élaborés [<sup>3</sup> en vue de leur application à partir de l'année académique 2023-2024]<sup>3</sup> pour ce qui concerne les formations visées dans le cadre du présent décret.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 33, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 100, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2022-07-20/17, art. 84, 006; En vigueur : 14-09-2022&gt;
+
+##### Art. 101
+
+Le présent décret entre en vigueur [<sup>1</sup> [<sup>2</sup> à partir de l'année académique 2022-2023]<sup>2</sup>]<sup>1</sup> [<sup>3</sup> , à l'exception des articles 85 et 87 qui entrent en vigueur à partir de l'année académique 2028-2029, et de l'article 91 qui entre en vigueur à partir de l'année académique 2025-2026]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 34, 003; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 101, 005; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2022-07-20/17, art. 85, 006; En vigueur : 14-09-2022&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 février 2019.
+
+Le Ministre-Président et Ministre en charge de l'Egalité des Chances et des Droits des Femmes,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de l'Enseignement de Promotion sociale, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de la Jeunesse, de l'Aide à la Jeunesse, des Maisons de Justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT

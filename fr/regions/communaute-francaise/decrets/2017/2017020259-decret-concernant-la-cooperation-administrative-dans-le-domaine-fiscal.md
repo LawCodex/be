@@ -1,0 +1,2161 @@
+---
+title: "Décret concernant la coopération administrative dans le domaine fiscal"
+identifier: "2017020259"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/12/2017020259/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2017-01-12
+published: 2017-02-22
+entry_into_force: 2013-01-01
+last_amended: 2026-07-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/12/2017020259/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 22-02-2017 et mise à jour au 07-07-2026"
+retrieved: 2026-10-12
+---
+
+# 12 JANVIER 2017. - Décret concernant la coopération administrative dans le domaine fiscal
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+#### Art. 1er
+
+[<sup>1</sup> Le présent décret transpose la directive 2011/16/UE du Conseil du 15 février 2011 relative à la coopération administrative dans le domaine fiscal, ainsi que la directive 2014/107/UE du Conseil du 9 décembre 2014 modifiant la directive 2011/16/UE en ce qui concerne l'échange automatique et obligatoire d'informations dans le domaine fiscal, la directive 2018/822/UE du Conseil du 25 mai 2018 modifiant la Directive 2011/16 en ce qui concerne l'échange automatique et obligatoire d'informations dans le domaine fiscal en rapport avec les dispositifs transfrontières devant faire l'objet d'une déclaration et la directive 2021/514/UE du Conseil du 22 mars 2021 modifiant la directive 2011/16/UE relative à la coopération administrative dans le domaine fiscal, et transpose partiellement la directive 2015/2376/UE du Conseil du 8 décembre 2015 modifiant la directive 2011/16/UE en ce qui concerne l'échange automatique et obligatoire d'informations dans le domaine fiscal ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 2, 004; En vigueur : 01-01-2023&gt;
+
+## Section Ire. - Dispositions générales et définitions
+
+#### Art. 2
+
+Les articles [<sup>2</sup> articles 2 [<sup>3</sup> à 10/3 ]<sup>3</sup>-2 établissent les règles et procédures selon lesquelles la Communauté française et les Etats membres de l'Union européenne, coopèrent entre eux aux fins d'échanger les informations vraisemblablement pertinentes pour l'administration et l'application de la législation interne de la Communauté française et de tous les Etats membres relative à l'ensemble des taxes et impôts perçus par la Communauté française ou pour son compte, par ses subdivisions territoriales ou administratives ou pour leur compte, y compris les autorités locales.
+
+Ces mêmes articles énoncent également les dispositions régissant l'échange par voie électronique des informations visées à l'alinéa premier.
+
+Ils n'affectent pas l'application des règles relatives à l'entraide judiciaire réciproque en matière pénale. Ils ne portent pas non plus atteinte aux obligations en Communauté française et dans les Etats membres en matière de coopération administrative plus étendue qui résulteraient d'autres instruments juridiques, y compris d'accords bilatéraux ou multilatéraux.
+
+Le présent décret ne s'applique pas à la taxe sur la valeur ajoutée et aux droits de douane, ni aux droits d'accises couverts par d'autres textes de législation de l'Union relatifs à la coopération administrative entre Etats membres. Le présent décret ne s'applique pas non plus aux cotisations sociales obligatoires dues à l'Etat membre, à une de ses entités ou aux organismes de sécurité sociale de droit public.
+
+Les taxes et impôts visés à l'alinéa 1er ne sauraient en aucun cas être interprétés comme incluant :
+
+a) les droits tels que les droits perçus pour des certificats ou d'autres documents délivrés par les pouvoirs publics; ou
+
+b) les droits de nature contractuelle, tels que la contrepartie versée pour un service public.
+
+Le présent décret s'applique aux taxes et impôts visés à l'alinéa 1er qui sont perçus sur le territoire auquel les traités s'appliquent en vertu de l'article 52 du traité sur l'Union européenne.
+
+Aux fins des [<sup>2</sup> articles 2 [<sup>3</sup> à 10/3 ]<sup>3</sup>]<sup>2</sup>, on entend par :
+
+1° "Directive" : la directive 2011/16/UE du Conseil du 15 février 2011 relative à la coopération administrative dans le domaine fiscal et abrogeant la directive 77/799/CEE;
+
+2° "Etat membre" : un Etat membre de l'Union Européenne ainsi que ses entités territoriales ou administratives y compris ses autorités locales;
+
+3° "bureau central de liaison" : le bureau tel que défini dans l'accord de coopération à conclure en application de l'article 92bis § 1er de la loi spéciale du 8 août 1980 de réformes institutionnelles et qui est le responsable privilégié des contacts avec les Etats membres dans le domaine de la coopération administrative;
+
+4° "service de liaison de la Communauté française" : tout bureau autre que le bureau central de liaison qui a été désigné par le Gouvernement de la Communauté française pour échanger directement des informations en vertu du présent article;
+
+5° "fonctionnaire compétent de la Communauté française" : tout fonctionnaire qui est autorisé par le Gouvernement de la Communauté française à échanger directement des informations en vertu du présent article;
+
+6° [<sup>3</sup> "autorité compétente ": l'autorité désignée en tant que telle par la Belgique. Le bureau central de liaison désigné conformément au 3°, les services de liaison de la Communauté française et les fonctionnaires compétents de la Communauté française sont également considérés comme l'autorité compétente belge par délégation]<sup>3</sup>;
+
+7° "autorité compétente étrangère" : l'autorité désignée en tant que telle par un Etat membre autre que la Belgique. Le bureau central de liaison, les services de liaison et les fonctionnaires compétents de cet Etat membre sont également considérés comme l'autorité compétente étrangère par délégation;
+
+8° "autorité requérante" : le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d'un Etat membre qui formule une demande d'assistance au nom de l'autorité compétente ou d'une autorité compétente étrangère;
+
+9° "autorité requise" : le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d'un Etat membre qui reçoit une demande d'assistance au nom de l'autorité compétente ou d'une autorité compétente étrangère;
+
+10° "enquête administrative" : l'ensemble des contrôles, vérifications et actions réalisés par les Etats membres dans l'exercice de leurs responsabilités en vue d'assurer la bonne application de la législation fiscale;
+
+11° "échange d'informations sur demande" : tout échange d'informations réalisé sur la base d'une demande introduite par l'Etat membre requérant auprès de l'Etat membre requis dans un cas particulier;
+
+12° [<sup>4</sup> 12° "échange automatique":
+
+a. aux fins de l'article 5, § 1er, de l'article 5/1, de l'article 5/2, et des articles 5/3 à [<sup>5</sup> 5/15 ]<sup>5</sup>, la communication systématique à un autre Etat membre, sans demande préalable, d'informations prédéfinies, à intervalles réguliers préalablement fixés. Aux fins de l'article 5, § 1er, les informations disponibles concernent des informations figurant dans les dossiers fiscaux de l'Etat membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet Etat membre;
+
+b. aux fins des dispositions du présent décret autres que l'article 5, § 1er, l'article 5/1, l'article 5/2, et les articles 5/3 à [<sup>5</sup> 5/15 ]<sup>5</sup>, la communication systématique des informations prédéfinies prévues au a) du présent 12° ]<sup>4</sup>;
+
+13° "échange spontané" : la communication ponctuelle, à tout moment et sans demande préalable, d'informations à un autre Etat membre;
+
+14° "personne" :
+
+a) une personne physique;
+
+b) une personne morale;
+
+c) lorsque la législation en vigueur le prévoit, une association de personnes à laquelle est reconnue la capacité d'accomplir des actes juridiques, mais qui ne possède pas le statut de personne morale;
+
+d) toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l'un des impôts relevant de la directive.
+
+15° "par voie électronique" : au moyen d'équipements électroniques de traitement - y compris la compression numérique - et de stockage des données, par liaison filaire, radio, procédés optiques ou tout autre procédé électromagnétique;
+
+16° "réseau CCN" : la plate-forme commune fondée sur le réseau commun de communication, mise au point par l'Union européenne pour assurer toutes les transmissions par voie électronique entre autorités compétentes dans les domaines douanier et fiscal.
+
+[<sup>1</sup> 17° " décision fiscale anticipée en matière transfrontière " : tout accord, toute communication, ou tout autre instrument ou action ayant des effets similaires, y compris lorsqu'il est émis, modifié ou renouvelé dans le contexte d'un contrôle fiscal, et qui remplit les conditions suivantes :
+
+a) être émis, modifié ou renouvelé par ou pour le compte du gouvernement ou de l'administration fiscale d'un Etat membre, ou par les entités territoriales ou administratives de l'Etat membre, y compris les autorités locales, que ces décisions soient effectivement utilisées ou non;
+
+b) être émis, modifié ou renouvelé à l'intention d'une personne spécifique ou d'un groupe de personnes, et pour autant que cette personne ou ce groupe de personnes ait le droit de s'en prévaloir;
+
+c) porter sur l'interprétation ou l'application d'une disposition législative ou administrative concernant l'administration ou l'application de la législation nationale relative aux taxes et impôts de l'Etat membre considéré ou des entités territoriales ou administratives de l'Etat membre, y compris de ses autorités locales;
+
+d) se rapporter à une opération transfrontière ou à la question de savoir si les activités exercées par une personne dans une autre juridiction créent ou non un établissement stable [<sup>5</sup> ou à la question de savoir si une personne physique est ou non résidente fiscale de l'Etat membre qui a émis la décision fiscale]<sup>5</sup>;
+
+e) être établi préalablement aux opérations ou aux activités menées dans une autre juridiction susceptibles de créer un établissement stable ou préalablement au dépôt d'une déclaration fiscale couvrant la période au cours de laquelle l'opération, la série d'opérations ou les activités ont eu lieu;
+
+18° " opération transfrontière " visée au 17° : une opération ou une série d'opérations :
+
+a) dans lesquelles toutes les parties à l'opération ou à la série d'opérations ne sont pas résidentes fiscales sur le territoire de l'Etat membre ayant émis, modifié ou renouvelé la décision fiscale anticipée en matière transfrontière;
+
+b) dans lesquelles l'une des parties à l'opération ou à la série d'opérations est résidente fiscale dans plus d'une juridiction simultanément;
+
+c) dans lesquelles l'une des parties à l'opération ou à la série d'opérations exerce son activité dans une autre juridiction par l'intermédiaire d'un établissement stable, l'opération ou la série d'opérations constituant une partie ou la totalité de l'activité de l'établissement stable.;
+
+d) lorsque cette opération ou série d'opérations à une incidence transfrontière;
+
+19° " entreprise " visée au 18° : toute forme d'exercice d'une activité commerciale. ";
+
+[<sup>2</sup> 20° " dispositif transfrontière " : un dispositif concernant plusieurs Etats membres ou un Etat membre et un pays tiers si l'une au moins des conditions suivantes est remplie :
+
+a) tous les participants au dispositif ne sont pas résidents à des fins fiscales dans la même juridiction ;
+
+b) un ou plusieurs des participants au dispositif sont résidents à des fins fiscales dans plusieurs juridictions simultanément ;
+
+c) un ou plusieurs des participants au dispositif exercent une activité dans une autre juridiction par l'intermédiaire d'un établissement stable situé dans cette juridiction, le dispositif constituant une partie ou la totalité de l'activité de cet établissement stable ;
+
+d) un ou plusieurs des participants au dispositif exercent une activité dans une autre juridiction sans être résidents à des fins fiscales ni créer d'établissement stable dans cette juridiction ;
+
+e) un tel dispositif peut avoir des conséquences sur l'échange automatique d'informations ou sur l'identification des bénéficiaires effectifs.
+
+Aux fins de l'application du 20° au 27° du paragraphe 2 et de l'article 5/2, on entend également par dispositif une série de dispositifs. Un dispositif peut comporter plusieurs étapes ou parties ;
+
+21° " dispositif transfrontière devant faire l'objet d'une déclaration " : tout dispositif transfrontière comportant au moins l'un des marqueurs ;
+
+22° " marqueur " : une caractéristique ou particularité d'un dispositif transfrontière qui indique un risque potentiel d'évasion fiscale, telle que recensée au paragraphe 2 ;
+
+23° " intermédiaire " : toute personne qui conçoit, commercialise ou organise un dispositif transfrontière devant faire l'objet d'une déclaration, le met à disposition aux fins de sa mise en oeuvre ou en gère la mise en oeuvre. On entend également par ce terme toute personne qui, compte tenu des faits et circonstances pertinents et sur la base des informations disponibles ainsi que de l'expertise en la matière et de la compréhension qui sont nécessaires pour fournir de tels services, sait ou pourrait raisonnablement être censée savoir qu'elle s'est engagée à fournir, directement ou par l'intermédiaire d'autres personnes, une aide, une assistance ou des conseils concernant la conception, la commercialisation ou l'organisation d'un dispositif transfrontière devant faire l'objet d'une déclaration, ou concernant sa mise à disposition aux fins de mise en oeuvre ou la gestion de sa mise en oeuvre. Toute personne a le droit de fournir des éléments prouvant qu'elle ne savait pas et ne pouvait pas raisonnablement être censée savoir qu'elle participait à un dispositif transfrontière devant faire l'objet d'une déclaration. A cette fin, cette personne peut invoquer tous les faits et circonstances pertinents ainsi que les informations disponibles et son expertise et sa compréhension en la matière.
+
+Pour être un intermédiaire, une personne répond à l'une au moins des conditions supplémentaires suivantes :
+
+a) être résidente dans un Etat membre à des fins fiscales ;
+
+b) posséder dans un Etat membre un établissement stable par le biais duquel sont fournis les services concernant le dispositif;
+
+c) être constituée dans un Etat membre ou régie par le droit d'un Etat membre;
+
+d) être enregistrée auprès d'une association professionnelle en rapport avec des services juridiques, fiscaux ou de conseil dans un Etat membre ;
+
+24° " contribuable concerné " : toute personne à qui un dispositif transfrontière devant faire l'objet d'une déclaration est mis à disposition aux fins de sa mise en oeuvre, ou qui est disposée à mettre en oeuvre un dispositif transfrontière devant faire l'objet d'une déclaration, ou qui a mis en oeuvre la première étape d'un tel dispositif ;
+
+25° " entreprise associée " : une personne qui est liée à une autre personne de l'une au moins des façons suivantes :
+
+a) une personne participe à la gestion d'une autre personne lorsqu'elle est en mesure d'exercer une influence notable sur l'autre personne ;
+
+b) une personne participe au contrôle d'une autre personne au moyen d'une participation qui dépasse vingt-cinq pour cent des droits de vote ;
+
+c) une personne participe au capital d'une autre personne au moyen d'un droit de propriété qui, directement ou indirectement, dépasse vingt-cinq pour cent du capital ;
+
+d) une personne a droit à vingt-cinq pour cent ou plus des bénéfices d'une autre personne.
+
+Si plusieurs personnes participent, comme indiqué à l'alinéa 1er du présent 25°, a) à d), à la gestion, au contrôle, au capital ou aux bénéfices d'une même personne, toutes les personnes concernées sont assimilées à des entreprises associées.
+
+Si les mêmes personnes participent, comme indiqué à l'alinéa 1er du présent 25°, a) à d), à la gestion, au contrôle, au capital ou aux bénéfices de plusieurs personnes, toutes les personnes concernées sont assimilées à des entreprises associées.
+
+Aux fins du présent point, une personne qui agit avec une autre personne en ce qui concerne les droits de vote ou la détention de parts de capital d'une entité est considérée comme détenant une participation dans l'ensemble des droits de vote ou des parts de capital de ladite entité détenus par l'autre personne.
+
+En ce qui concerne les participations indirectes, le respect des critères énoncés à l'alinéa 1er, c), est déterminé en multipliant les taux de détention successivement aux différents niveaux. Une personne détenant plus de cinquante pour cent des droits de vote est réputée détenir cent pour cent de ces droits.
+
+Une personne physique, son conjoint et ses ascendants ou descendants directs sont considérés comme une seule et unique personne ;
+
+26° " dispositif commercialisable " : un dispositif transfrontière qui est conçu, commercialisé, prêt à être mis en oeuvre, ou mis à disposition aux fins de sa mise en oeuvre, sans avoir besoin d'être adapté de façon importante ;
+
+27° " dispositif sur mesure " : tout dispositif transfrontière qui n'est pas un dispositif commercialisable]<sup>2</sup>;
+
+[<sup>5</sup> 30° " revenus tirés de dividendes versés par l'intermédiaire d'un compte non conservateur " : les dividendes ou autres revenus assimilés à des dividendes dans l'Etat membre du payeur, qui sont versés ou crédités sur un compte autre qu'un compte conservateur, à savoir un compte, à l'exclusion d'un Contrat d'assurance ou d'un Contrat de rente, sur lequel figurent un ou plusieurs Actifs financiers au bénéfice d'une autre personne ;
+
+31° " produits d'assurance sur la vie non couverts par d'autres actes juridiques de l'Union concernant l'échange d'informations et d'autres mesures similaires " : les contrats d'assurance autres que les contrats d'assurance avec valeur de rachat devant faire l'objet d'une déclaration au titre de l'annexe I, section I, de la directive européenne 2011/16/UE telle que modifiée par la directive (UE) 2023/2226, lorsque les prestations en vertu des contrats sont dues au moment du décès de l'assuré ;
+
+32° " adresse de registre distribué " : l'adresse de registre distribué visée dans le règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, et modifiant les règlements (UE) n° 1093/2010 et (UE) n° 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937 ;
+
+33° " client ", aux fins de l'article 5/2, tout intermédiaire ou contribuable concerné qui reçoit des services, y compris une assistance, des avis, des conseils ou des orientations, de la part d'un intermédiaire tenu au secret professionnel dans le cadre d'un dispositif fiscal transfrontière devant faire l'objet d'une déclaration ;
+
+34° " NIF " : un numéro d'identification fiscale ou son équivalent fonctionnel en l'absence de numéro d'identification fiscale. Le NIF correspond à tout numéro ou code utilisé par une autorité compétente pour identifier un contribuable]<sup>5</sup>.
+
+Concernant le 17°, l'opération transfrontière peut inclure, mais sans s'y limiter, la réalisation d'investissements, la fourniture de biens, services et financements ou l'utilisation d'actifs corporels ou incorporels et ne doit pas nécessairement faire intervenir directement la personne destinataire de la décision fiscale anticipée en matière transfrontière.
+
+Concernant le 18°, c), une opération transfrontière ou une série d'opérations transfrontières comprennent également les dispositions prises par une personne en ce qui concerne les activités commerciales que cette personne exerce dans une autre juridiction par l'intermédiaire d'un établissement stable.]<sup>1</sup>
+
+L'autorité compétente échange les informations avec les autorités compétentes étrangères.
+
+[<sup>2</sup> § 2. Les marqueurs d'un dispositif transfrontière sont subdivisés dans les cinq catégories suivantes :
+
+1° catégorie A : les marqueurs généraux, visés à l'alinéa 5 ;
+
+2° catégorie B : les marqueurs spécifiques, visés à l'alinéa 6 ;
+
+3° catégorie C : les marqueurs spécifiques liés aux opérations transfrontières, visés à l'alinéa 7;
+
+4° catégorie D : les marqueurs spécifiques concernant l'échange automatique d'informations et les bénéficiaires effectifs, visés à l'alinéa 8 ;
+
+5° catégorie E : les marqueurs spécifiques concernant les prix de transferts, visés à l'alinéa 9.
+
+Les marqueurs généraux relevant de la catégorie A, visés à l'alinéa 5, et les marqueurs spécifiques relevant de la catégorie B, visés à l'alinéa 6, ainsi que de la catégorie C, visés à l'alinéa 7, 1°, points b), premier tiret, c) et d), ne peuvent être pris en compte que lorsqu'ils remplissent le " critère de l'avantage principal ".
+
+Ce critère sera rempli s'il peut être établi que l'avantage principal ou l'un des avantages principaux qu'une personne peut raisonnablement s'attendre à retirer d'un dispositif, compte tenu de l'ensemble des faits et circonstances pertinents, est l'obtention d'un avantage fiscal.
+
+Dans le cas d'un marqueur relevant de la catégorie C, visé à l'alinéa 7, 1°, la présence des conditions prévues dans la catégorie C, visée à l'alinéa 7, 1°, points b), premier tiret, c) ou d), ne peut à elle seule constituer une raison de conclure qu'un dispositif remplit le critère de l'avantage principal.
+
+Sont considérés comme marqueurs généraux liés au critère de l'avantage principal, de catégorie A :
+
+1° un dispositif où le contribuable concerné ou un participant au dispositif s'engage à respecter une clause de confidentialité selon laquelle il peut lui être demandé de ne pas divulguer à d'autres intermédiaires ou aux autorités fiscales comment le dispositif pourrait procurer un avantage fiscal ;
+
+2° un dispositif où l'intermédiaire est en droit de percevoir des honoraires (ou intérêts, rémunération pour financer les coûts et autres frais) pour le dispositif et ces honoraires sont fixés par référence :
+
+a) au montant de l'avantage fiscal découlant du dispositif ; ou
+
+b) au fait qu'un avantage fiscal découle effectivement du dispositif. Cela inclurait une obligation pour l'intermédiaire de rembourser partiellement ou entièrement les honoraires si l'avantage fiscal escompté découlant du dispositif n'a pas été complètement ou partiellement généré ;
+
+3° un dispositif dont la documentation et/ou la structure sont en grande partie normalisées et qui est à la disposition de plus d'un contribuable concerné sans avoir besoin d'être adapté de façon importante pour être mis en oeuvre.
+
+Sont considérés comme marqueurs spécifiques liés au critère de l'avantage principal, de catégorie B :
+
+1° un dispositif dans lequel un participant au dispositif prend artificiellement des mesures qui consistent à acquérir une société réalisant des pertes, à mettre fin à l'activité principale de cette société et à utiliser les pertes de celle-ci pour réduire sa charge fiscale, y compris par le transfert de ces pertes à une autre juridiction ou par l'accélération de l'utilisation de ces pertes ;
+
+2° un dispositif qui a pour effet de convertir des revenus en capital, en dons ou en d'autres catégories de recettes qui sont taxées à un niveau inférieur ou ne sont pas taxées ;
+
+3° Un dispositif qui inclut des transactions circulaires ayant pour résultat un " carrousel " de fonds, à savoir au moyen d'entités interposées sans fonction commerciale primaire ou d'opérations qui se compensent ou s'annulent mutuellement ou qui ont d'autres caractéristiques similaires.
+
+Sont considérés comme marqueurs spécifiques liés aux opérations transfrontières, de catégorie C :
+
+1° un dispositif qui prévoit la déduction des paiements transfrontières effectués entre deux ou plusieurs entreprises associées lorsque l'une au moins des conditions suivantes est remplie :
+
+a) le bénéficiaire ne réside à des fins fiscales dans aucune juridiction fiscale ;
+
+b) même si le bénéficiaire réside à des fins fiscales dans une juridiction, cette juridiction :
+
+\- ne lève pas d'impôt sur les sociétés ou lève un impôt sur les sociétés à taux zéro ou presque nul ; ou
+
+\- figure sur une liste de juridictions de pays tiers qui ont été évaluées par les Etats membres collectivement ou dans le cadre de l'OCDE comme étant non coopératives ;
+
+c) le paiement bénéficie d'une exonération fiscale totale dans la juridiction où le bénéficiaire réside à des fins fiscales ;
+
+d) le paiement bénéficie d'un régime fiscal préférentiel dans la juridiction où le bénéficiaire réside à des fins fiscales ;
+
+2° des déductions pour le même amortissement d'un actif sont demandées dans plus d'une juridiction ;
+
+3° un allègement au titre de la double imposition pour le même élément de revenu ou de capital est demandé dans plusieurs juridictions ;
+
+4° il existe un dispositif qui inclut des transferts d'actifs et où il y a une différence importante dans le montant considéré comme étant payable en contrepartie des actifs dans ces juridictions concernées.
+
+Sont considérés comme marqueurs spécifiques concernant l'échange automatique d'informations et les bénéficiaires effectifs, de catégorie D :
+
+1° un dispositif susceptible d'avoir pour effet de porter atteinte à l'obligation de déclaration en vertu du droit mettant en oeuvre la législation de l'Union ou tout accord équivalent concernant l'échange automatique d'informations sur les Comptes financiers, y compris des accords avec des pays tiers, ou qui tire parti de l'absence de telles dispositions ou de tels accords. De tels dispositifs incluent au moins ce qui suit :
+
+a) l'utilisation d'un compte, d'un produit ou d'un investissement qui n'est pas ou dont l'objectif est de ne pas être un Compte financier, mais qui possède des caractéristiques substantiellement similaires à celles d'un Compte financier ;
+
+b) le transfert de Comptes ou d'actifs financiers vers des juridictions qui ne sont pas liées par l'échange automatique d'informations sur les Comptes financiers avec l'Etat de résidence du contribuable concerné, ou le recours à de telles juridictions ;
+
+c) la requalification de revenus et de capitaux en produits ou en paiements qui ne sont pas soumis à l'échange automatique d'informations sur les Comptes financiers ;
+
+d) le transfert ou la conversion d'une Institution financière, d'un Compte financier ou des actifs qui s'y trouvent en Institution financière, en Compte financier ou en actifs qui ne sont pas à déclarer en vertu de l'échange automatique d'informations sur les Comptes financiers ;
+
+e) le recours à des entités, constructions ou structures juridiques qui suppriment ou visent à supprimer la déclaration d'un ou plusieurs Titulaires de compte ou Personnes détenant le contrôle dans le cadre de l'échange automatique d'informations sur les Comptes financiers ;
+
+f) les dispositifs qui portent atteinte aux procédures de diligence raisonnable utilisées par les Institutions financières pour se conformer à leurs obligations de déclarer des informations sur les Comptes financiers, ou qui exploitent les insuffisances de ces procédures, y compris le recours à des juridictions appliquant de manière inadéquate ou insuffisante la législation relative à la lutte contre le blanchiment de capitaux, ou ayant des exigences insuffisantes en matière de transparence en ce qui concerne les personnes morales ou les constructions juridiques ;
+
+2° un dispositif faisant intervenir une chaîne de propriété formelle ou effective non transparente par le recours à des personnes, des constructions juridiques ou des structures :
+
+a) qui n'exercent pas une activité économique substantielle s'appuyant sur des effectifs, des équipements, des ressources et des locaux suffisants ; et
+
+b) qui sont constitués, gérés, contrôlés ou établis ou qui résident dans toute juridiction autre que la juridiction de résidence de l'un ou plusieurs des bénéficiaires effectifs des actifs détenus par ces personnes, constructions juridiques ou structures ; et
+
+c) lorsque les bénéficiaires effectifs de ces personnes, constructions juridiques ou structures, au sens de l'article 4, 27°, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces, sont rendus impossibles à identifier.
+
+Sont considérés comme marqueurs spécifiques concernant les prix de transfert, de catégorie E:
+
+1° un dispositif qui prévoit l'utilisation de régimes de protection unilatéraux ;
+
+2° un dispositif prévoyant le transfert d'actifs incorporels difficiles à évaluer. Le terme d'"actifs incorporels difficiles" à évaluer englobe des actifs incorporels ou des droits sur des actifs incorporels pour lesquels, au moment de leur transfert entre des entreprises associées :
+
+a) il n'existe pas d'éléments de comparaison fiables ; et
+
+b) au moment où l'opération a été conclue, les projections concernant les futurs flux de trésorerie ou revenus attendus de l'actif incorporel transféré, ou les hypothèses utilisées pour évaluer cet actif incorporel sont hautement incertaines, et il est donc difficile de prévoir dans quelle mesure l'actif incorporel débouchera finalement sur un succès au moment du transfert ;
+
+3° un dispositif mettant en jeu un transfert transfrontière de fonctions et/ou de risques et/ou d'actifs au sein du groupe, si le bénéfice avant intérêts et impôts (BAII) annuel prévu, dans les trois ans suivant le transfert, du ou des cédants, est inférieur à 50 % du BAII annuel prévu de ce cédant ou de ces cédants si le transfert n'avait pas été effectué.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2017-12-20/18, art. 2, 002; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFR 2020-11-12/22, art. 3, 003; En vigueur : 01-07-2020&gt;
+
+(3)&lt;DCFR 2023-03-30/27, art. 3, 004; En vigueur : 01-01-2023&gt;
+
+(4)&lt;DCFR 2023-03-30/27, art. 3,2°,b, 004; En vigueur : 01-01-2024&gt;
+
+(5)&lt;DCFR 2026-06-11/14, art. 2, 005; En vigueur : 01-01-2026&gt;
+
+## Section II. - Echanges d'informations sur demande
+
+#### Art. 3
+
+[<sup>1</sup> § 1er. L'autorité compétente peut, dans un cas particulier, demander à une autorité compétente étrangère de lui communiquer toutes les informations visées à l'article 2, § 1er, alinéa 1er, dont celle-ci dispose ou qu'elle a obtenues à la suite d'une enquête administrative. La demande peut comprendre une demande motivée portant sur une enquête administrative.
+
+Pour obtenir les informations demandées, l'autorité compétente belge suit les mêmes procédures que si elle agissait d'initiative ou à la demande d'une autre instance belge.
+
+L'autorité compétente peut demander à l'autorité requise de lui communiquer les documents originaux.
+
+§ 2. L'autorité compétente communique à une autorité compétente étrangère qui les lui demande dans un cas particulier, toutes les informations visées à l'article 2, § 1er, alinéa 1er, dont elle dispose ou qu'elle a obtenues suite à l'exécution d'une enquête administrative nécessaire à l'obtention de ces informations.
+
+Le cas échéant, si l'autorité compétente belge estime qu'aucune enquête administrative n'est nécessaire, elle en communique immédiatement les raisons à l'autorité requérante.
+
+Pour procéder à l'enquête administrative demandée, l'autorité compétente suit les mêmes procédures que si elle agissait d'initiative ou à la demande d'une autre instance belge.
+
+En cas de demande expresse de l'autorité requérante, l'autorité compétente communique à l'autorité requérante les documents originaux sauf si les dispositions belges s'y opposent.
+
+§ 3. Aux fins d'une demande visée au § 2, les informations demandées sont vraisemblablement pertinentes lorsque, au moment où la demande est formulée, l'autorité requérante estime que, conformément à son droit national, il existe une possibilité raisonnable que les informations demandées soient pertinentes pour les affaires fiscales d'un ou plusieurs contribuables, identifiés par leur nom ou autrement, et justifiées aux fins de l'enquête.
+
+Dans le but de démontrer la pertinence vraisemblable des informations demandées, l'autorité requérante fournit au moins les informations suivantes à l'autorité compétente belge:
+
+a) la finalité fiscale des informations demandées; et
+
+b) la spécification des informations nécessaires à l'administration ou à l'application de son droit national.
+
+§ 4. Dans les cas où une demande visée au § 1er ou au § 2 concerne un groupe de contribuables qui ne peuvent pas être identifiés individuellement, l'autorité requérante fournit au moins les informations suivantes à l'autorité requise:
+
+a) une description détaillée du groupe;
+
+b) une explication du droit applicable et des faits sur la base desquels il existe des raisons de penser que les contribuables du groupe n'ont pas respecté le droit applicable;
+
+c) une explication de la manière dont les informations demandées contribueraient à déterminer le respect, par les contribuables du groupe, de leurs obligations; et
+
+d) le cas échéant, les faits et circonstances relatifs à l'intervention d'un tiers qui a activement contribué au non-respect potentiel du droit applicable par les contribuables du groupe ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 4, 004; En vigueur : 01-01-2023&gt;
+
+## Section III. [<sup>1</sup> Délais de l'échange d'informations sur demande ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 5, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 4
+
+[<sup>1</sup> L'autorité compétente belge fournit les informations visées à l'article 3, § 2, le plus rapidement possible, et au plus tard trois mois à compter de la date de réception de la demande. Toutefois, lorsque l'autorité compétente belge n'est pas en mesure de répondre à la demande dans le délai prévu, elle informe l'autorité requérante immédiatement, et en tout état de cause dans les trois mois suivant la réception de la demande, des motifs qui expliquent le non-respect de ce délai, ainsi que de la date à laquelle elle estime pouvoir répondre. Ce délai ne peut excéder six mois à compter de la date de réception de la demande.
+
+Toutefois, lorsque l'autorité compétente belge est déjà en possession desdites informations, les informations sont communiquées dans un délai de deux mois suivant cette date.
+
+Pour certains cas particuliers, l'autorité compétente belge et l'autorité requérante peuvent fixer d'un commun accord des délais différents. ]<sup>1</sup>.
+
+L'autorité compétente accuse réception de la demande immédiatement à l'autorité requérante, si possible par voie électronique, et en tout état de cause au plus tard sept jours ouvrables après l'avoir reçue.
+
+L'autorité compétente notifie à l'autorité requérante les éventuelles lacunes constatées dans la demande ainsi que, le cas échéant, la nécessité de fournir d'autres renseignements de caractère général, dans un délai d'un mois suivant la réception de la demande. Dans ce cas, les délais fixés à l'alinéa 1er débutent à la date à laquelle l'autorité compétente a reçu les renseignements complémentaires.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Lorsque l'autorité compétente ne dispose pas des informations demandées et n'est pas en mesure de répondre à la demande d'informations ou refuse d'y répondre pour les motifs visés à [<sup>1</sup> l'article 8, § 3 et § 4]<sup>1</sup> elle informe l'autorité requérante de ses raisons immédiatement, et en tout état de cause dans un délai d'un mois suivant la réception de la demande.
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 6, 004; En vigueur : 01-01-2023&gt;
+
+## Section IV. - Echange automatique et obligatoire d'informations
+
+### Sous-section 1ère. [<sup>1</sup> - Champ d'application et conditions de l'échange automatique et obligatoire d'informations]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 7, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 5
+
+[<sup>1</sup> L'autorité compétente belge communique à l'autorité compétente d'un autre Etat membre, dans le cadre de l'échange automatique, toutes les informations dont elle dispose au sujet de résidents de cet autre Etat membre et qui concernent les catégories suivantes spécifiques de revenu et de capital au sens de la législation belge:
+
+1° revenus d'emploi;
+
+2° tantièmes et jetons de présence;
+
+3° [<sup>2</sup> revenus tirés de produits d'assurance sur la vie]<sup>2</sup> non couverts par d'autres actes juridiques de l'Union concernant l'échange d'informations et d'autres mesures similaires;
+
+4° pensions;
+
+5° propriété et revenus de biens immobiliers;
+
+6° redevances;
+
+[<sup>2</sup> 7° revenus tirés de dividendes versés par l'intermédiaire d'un compte "non conservateur" autres que les revenus provenant de dividendes exonérés de l'impôt sur les sociétés en vertu d'article 203 du Code des impôts sur les revenus 1992]<sup>2</sup>.
+
+Pour les périodes imposables débutant le 1er janvier 2024 ou après cette date, l'autorité compétente belge s'efforce d'inclure, dans la communication des informations visées au premier alinéa, [<sup>2</sup> le NIF]<sup>2</sup> de résidents qui a été délivré par l'Etat membre de résidence.
+
+§ 2. La communication des informations est effectuée au moins une fois par an, et au plus tard six mois après la fin de l'exercice fiscal au cours duquel les informations sont devenues disponibles ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 7, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 3, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5 DROIT FUTUR.
+
+[<sup>1</sup> L'autorité compétente belge communique à l'autorité compétente d'un autre Etat membre, dans le cadre de l'échange automatique, toutes les informations dont elle dispose au sujet de résidents de cet autre Etat membre et qui concernent les catégories suivantes spécifiques de revenu et de capital au sens de la législation belge:
+
+1° revenus d'emploi;
+
+2° tantièmes et jetons de présence;
+
+3° [<sup>2</sup> revenus tirés de produits d'assurance sur la vie]<sup>2</sup> non couverts par d'autres actes juridiques de l'Union concernant l'échange d'informations et d'autres mesures similaires;
+
+4° pensions;
+
+5° propriété et revenus de biens immobiliers;
+
+6° redevances;
+
+[<sup>2</sup> 7° revenus tirés de dividendes versés par l'intermédiaire d'un compte "non conservateur" autres que les revenus provenant de dividendes exonérés de l'impôt sur les sociétés en vertu d'article 203 du Code des impôts sur les revenus 1992]<sup>2</sup>.
+
+Pour les périodes imposables débutant le 1er janvier 2024 ou après cette date, l'autorité compétente belge s'efforce d'inclure, dans la communication des informations visées au premier alinéa, [<sup>2</sup> le NIF]<sup>2</sup> de résidents qui a été délivré par l'Etat membre de résidence.
+
+[<sup>3</sup> Pour les périodes imposables débutant le 1er janvier 2030 ou après cette date, l'autorité compétente belge exige que le NIF des résidents délivré par l'Etat membre de résidence soit déclaré, dans le cadre des informations visées à l'alinéa 1er, 1°, 2° et 4°, dans la mesure où il s'agit de catégories de revenus et de capitaux sur lesquelles des informations auraient été communiquées même si le NIF n'était pas disponible.]<sup>3</sup>
+
+§ 2. La communication des informations est effectuée au moins une fois par an, et au plus tard six mois après la fin de l'exercice fiscal au cours duquel les informations sont devenues disponibles ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 7, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 3, 005; En vigueur : 01-01-2026&gt;
+
+(3)&lt;DCFR 2026-06-11/14, art. 3,4, 005; En vigueur : 01-01-2030&gt;
+
+### Sous-section 2. [<sup>1</sup> Champ d'application et conditions de l'échange automatique et obligatoire d'informations sur les décisions fiscales anticipées en matière transfrontière ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 8, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 5/1
+
+[<sup>1</sup> § 1er. L'autorité compétente qui émet, modifie ou renouvelle une décision fiscale anticipée en matière transfrontière après le 31 décembre 2016 communique, par échange automatique, des informations à ce sujet aux autorités compétentes de tous les autres Etats membres ainsi qu'à la Commission européenne, excepté dans les cas visés au paragraphe 6, conformément aux modalités pratiques adoptées en vertu de l'article 8.
+
+§ 2. L'autorité compétente communique également, conformément à l'article 8, des informations aux autorités compétentes de tous les autres Etats membres ainsi qu'à la Commission européenne, excepté dans les cas visés au paragraphe 6, sur les décisions fiscales anticipées en matière transfrontière, modifiés ou renouvelés au cours d'une période commençant cinq ans avant le 1er janvier 2017.
+
+Si les décisions fiscales anticipées en matière transfrontière sont émises, modifiées ou renouvelées entre le 1er janvier 2012 et le 31 décembre 2013, la communication est effectuée à condition que ces décisions fussent toujours valables au 1er janvier 2014.
+
+Si les décisions fiscales anticipées en matière transfrontière sont émises, modifiées ou renouvelées entre le 1er janvier 2014 et le 31 décembre 2016, la communication est effectuée, que ces décisions soient toujours valables ou non.
+
+§ 3. [<sup>3</sup> Les paragraphes 1er et 2 ne s'appliquent pas dans le cas où une décision fiscale anticipée en matière transfrontière concerne et implique exclusivement les affaires fiscales d'une ou de plusieurs personnes physiques, sauf lorsque cette décision a été émise, modifiée ou renouvelée après le 1er janvier 2026 et lorsque :
+
+1° soit, le montant de l'opération ou de la série d'opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière dépasse 1 500 000 EUR (ou un montant équivalent dans une autre devise), si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière ;
+
+2° soit, la décision fiscale anticipée en matière transfrontière détermine si une personne est ou non résidente fiscale dans l'Etat membre qui émet la décision.
+
+Aux fins du premier alinéa, 1°, et sans préjudice du montant visé dans la décision fiscale anticipée en matière transfrontière, dans une série d'opérations portant sur différents biens, services ou actifs, le montant de la décision anticipée en matière transfrontière comprend la valeur sous-jacente totale. Les montants ne sont pas agrégés si les mêmes biens, services ou actifs font l'objet de plusieurs transactions.
+
+Nonobstant le premier alinéa, 2°, l'échange d'informations sur les décisions fiscales anticipées en matière transfrontière concernant des personnes physiques n'inclut pas les décisions fiscales relatives à l'imposition à la source concernant les revenus d'emploi, les tantièmes et jetons de présence ou les pensions des non-résidents]<sup>3</sup>.
+
+§ 4. L'échange d'informations est effectué comme suit :
+
+1° [<sup>2</sup> pour les informations échangées en application du § 1er: sans tarder après l'émission, la modification ou le renouvellement des décisions fiscales anticipées en matière transfrontière et au plus tard trois mois après la fin du semestre de l'année civile au cours duquel les décisions fiscales anticipées en matière transfrontière ont été émises, modifiées ou renouvelées; ]<sup>2</sup>;
+
+2° pour les informations échangées en application du paragraphe 2 : avant le 1er janvier 2018.
+
+§ 5. Les informations qui sont communiquées par l'autorité compétente en application des paragraphes 1er et 2, comprennent :
+
+1° [<sup>3</sup> l'identification de la personne, autre qu'une personne physique, sauf lorsque la décision fiscale anticipée en matière transfrontière concerne une personne physique et est communiquée conformément aux paragraphes 1er et 3 et, le cas échéant, du groupe de personnes auquel celle-ci appartient]<sup>3</sup>;
+
+2° [<sup>2</sup> un résumé de la décision fiscale anticipée en matière transfrontière, y compris une description des activités commerciales, opérations ou séries d'opérations concernées et toute autre information qui pourrait aider l'autorité compétente à évaluer un risque fiscal potentiel, sans donner lieu à la divulgation d'un secret commercial, industriel ou professionnel, d'un procédé commercial ou d'informations dont la divulgation serait contraire à l'ordre public]<sup>2</sup>;
+
+3° les dates de l'émission, de la modification ou du renouvellement de la décision fiscale anticipée en matière transfrontière;
+
+4° la date de début de la période de validité de la décision fiscale anticipée en matière transfrontière, si elle est spécifiée;
+
+5° la date de la fin de la période de validité de la décision fiscale anticipée en matière transfrontière, si elle est spécifiée;
+
+6° le type de décision fiscale anticipée en matière transfrontière;
+
+7° le montant de l'opération ou de la série d'opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière, si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière;
+
+8° l'identification des autres Etats membres, le cas échéant, de toute personne, autre qu'une personne physique qui seraient susceptibles d'être concernées par la décision fiscale anticipée en matière transfrontière;
+
+9° [<sup>3</sup> l'identification, dans les autres Etats membres, le cas échéant, de toute personne, autre qu'une personne physique, sauf lorsque la décision fiscale anticipée en matière transfrontière concerne une personne physique et est communiquée conformément aux paragraphes 1er et 3, susceptible d'être concernée par la décision fiscale anticipée en matière transfrontière en indiquant à quels Etats membres les personnes concernées sont liées]<sup>3</sup>;
+
+10° une mention précisant si les informations communiquées sont basées sur la décision fiscale anticipée en matière transfrontière.
+
+[<sup>3</sup> Pour les périodes imposables débutant le 1er janvier 2028 ou après cette date, l'autorité compétente belge exige que le NIF des personnes physiques et des entités délivré par l'Etat membre de résidence soit déclaré, dans le cadre des informations visées à l'alinéa 1er, 1° et 9°, et inclut, lorsqu'il a été obtenu par l'autorité compétente de l'Etat membre, le NIF des personnes physiques et des entités délivré par l'Etat membre de résidence dans la communication des informations visées à l'alinéa 1er, 1° et 9°.]<sup>3</sup>
+
+§ 6. Les informations définies au paragraphe 5, 1°, 2° et 9° ne sont pas communiquées à la Commission européenne.
+
+§ 7. Le Gouvernement de la Communauté française détermine les modalités selon lesquelles l'autorité compétente visée au paragraphe 5, 8° accuse réception des informations auprès de l'autorité compétente qui les lui a communiquées.
+
+§ 8. L'autorité compétente peut, conformément à l'article 8, demander des informations complémentaires, y compris le texte intégral d'une décision fiscale anticipée en matière transfrontière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-12-20/18, art. 3, 002; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFR 2023-03-30/27, art. 8, 004; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFR 2026-06-11/14, art. 4, 005; En vigueur : 01-01-2026&gt;
+
+### Sous-section 3. [<sup>1</sup> - Champ d'application et conditions de l'échange automatique et obligatoire d'informations relatives aux dispositifs transfrontières devant faire l'objet d'une déclaration ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 9, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 5/2
+
+[<sup>1</sup> § 1er. Les intermédiaires sont tenus de transmettre à l'autorité compétente les informations dont ils ont connaissance, qu'ils possèdent ou qu'ils contrôlent concernant les dispositifs transfrontières devant faire l'objet d'une déclaration dans un délai de trente jours, commençant :
+
+1° le lendemain de la mise à disposition aux fins de mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration ; ou
+
+2° le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est prêt à être mis en oeuvre ; ou
+
+3° lorsque la première étape de la mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration a été accomplie, la date intervenant le plus tôt étant retenue.
+
+Nonobstant le premier alinéa, les intermédiaires visés à l'article 2, alinéa 7, 23°, deuxième alinéa, sont également tenus de transmettre des informations dans un délai de trente jours commençant le lendemain du jour où ils ont fourni, directement ou par l'intermédiaire d'autres personnes, une aide, une assistance ou des conseils.
+
+§ 2. Dans le cas de dispositifs commercialisables, les intermédiaires sont tenus d'établir tous les trois mois un rapport fournissant une mise à jour contenant les nouvelles informations devant faire l'objet d'une déclaration visées [<sup>3</sup> au paragraphe 14, alinéa 1er, 1°, 4°, 7° et 8°, et alinéas 2 et 3 ]<sup>3</sup>, qui sont devenues disponibles depuis la transmission du dernier rapport.
+
+§ 3. Lorsque l'intermédiaire a l'obligation de transmettre des informations concernant des dispositifs transfrontières devant faire l'objet d'une déclaration aux autorités compétentes de plusieurs Etats membres, il ne fournira ces informations à l'autorité compétente visée à l'article 2, § 1er, alinéa 7, 6°, que si la Communauté française occupe la première place dans la liste ci-après, lorsque l'objet du dispositif en question relève d'un impôt dont la Communauté française assure le service :
+
+1° l'intermédiaire est résident à des fins fiscales d'un territoire où est prélevé un impôt dont la Communauté française assure le service ;
+
+2° l'intermédiaire possède un établissement stable dans un territoire où est prélevé un impôt dont la Communauté française assure le service, et par l'intermédiaire duquel les services concernant le dispositif sont fournis ;
+
+3° l'intermédiaire est constitué dans un territoire ou est régi par le droit d'un territoire où est prélevé un impôt dont la Communauté française assure le service ;
+
+4° l'intermédiaire est enregistré auprès d'une association professionnelle en rapport avec des services juridiques, fiscaux ou de conseil, établie dans un territoire où est prélevé un impôt dont la Communauté française assure le service.
+
+§ 4. Lorsque, en application du § 3, il existe une obligation de déclaration multiple, l'intermédiaire est dispensé de la transmission des informations s'il peut prouver que ces mêmes informations ont été transmises dans un autre Etat membre.
+
+§ 5. [<sup>3</sup> Les intermédiaires sont dispensés de l'obligation de fournir des informations concernant un dispositif transfrontière devant faire l'objet d'une déclaration, lorsque l'obligation de déclaration serait contraire au secret professionnel applicable en vertu du droit belge. En pareil cas, tout intermédiaire auquel une dispense a été accordée, notifie, sans retard, à son client, si celui-ci est un intermédiaire ou, en l'absence d'un tel intermédiaire, si ce client est le contribuable concerné, les obligations de déclaration qui incombent audit client en vertu du paragraphe 6]<sup>3</sup>.
+
+Les intermédiaires ne peuvent avoir droit à une dispense en vertu du premier alinéa que dans la mesure où ils agissent dans les limites de la législation nationale pertinente qui définit leurs professions, et qu'à partir du moment où ils ont rempli l'obligation de notification visée à l'alinéa 1er.
+
+Aucun secret professionnel visé au présent paragraphe ne peut être invoqué concernant l'obligation de déclaration des dispositifs commercialisables qui donnent lieu à un rapport périodique conformément au § 2.
+
+§ 6. Lorsqu'il n'existe pas d'intermédiaire ou que l'intermédiaire notifie l'application d'une dispense en vertu du § 5 au contribuable concerné ou à un autre intermédiaire, l'obligation de transmettre des informations sur un dispositif transfrontière devant faire l'objet d'une déclaration relève de la responsabilité de l'autre intermédiaire qui a été notifié, ou, en l'absence d'un tel intermédiaire, du contribuable concerné.
+
+§ 7. Le contribuable concerné à qui incombe l'obligation de déclaration transmet les informations dans un délai de trente jours, commençant le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est mis à la disposition du contribuable concerné aux fins de mise en oeuvre, ou est prêt à être mis en oeuvre par le contribuable concerné, ou lorsque la première étape de sa mise en oeuvre est accomplie en ce qui concerne le contribuable concerné, la date intervenant le plus tôt étant retenue.
+
+Lorsque le contribuable concerné a l'obligation de transmettre des informations concernant le dispositif transfrontière devant faire l'objet d'une déclaration aux autorités compétentes de plusieurs Etats membres, il ne fournira ces informations à l'autorité compétente visée à l'article 2, § 1er, alinéa 7, 6°, que si la Communauté française occupe la première place dans la liste ci-après, lorsque l'objet du dispositif en question relève d'un impôt dont la Communauté française assure le service :
+
+1° le contribuable concerné est résident à des fins fiscales d'un territoire où est prélevé un impôt dont la Communauté française assure le service ;
+
+2° le contribuable concerné possède un établissement stable qui bénéficie du dispositif dans un territoire où est prélevé un impôt dont la Communauté française assure le service ;
+
+3° le contribuable concerné perçoit des revenus ou réalise des bénéfices dans un territoire où est prélevé un impôt dont la Communauté française assure le service, bien qu'il ne soit résident à des fins fiscales et ne possède d'établissement stable dans aucun Etat membre ;
+
+4° le contribuable concerné exerce une activité dans un territoire où est prélevé un impôt dont la Communauté française assure le service, bien qu'il ne soit résident à des fins fiscales et ne possède d'établissement stable dans aucun Etat membre.
+
+§ 8. Lorsque, en application du § 7, il existe une obligation de déclaration multiple, le contribuable concerné est dispensé de la transmission des informations s'il peut prouver, conformément au droit national, que ces mêmes informations ont été transmises dans un autre Etat membre.
+
+§ 9. Lorsqu'il existe plus d'un intermédiaire, l'obligation de transmettre des informations sur le dispositif transfrontière devant faire l'objet d'une déclaration incombe à l'ensemble des intermédiaires participant à un même dispositif transfrontière devant faire l'objet d'une déclaration.
+
+Un intermédiaire n'est dispensé de l'obligation de transmettre des informations que dans la mesure où il peut prouver que ces mêmes informations, visées au § 14, ont déjà été transmises par un autre intermédiaire.
+
+§ 10. Lorsque l'obligation de déclaration incombe au contribuable concerné et qu'il existe plusieurs contribuables concernés, celui d'entre eux qui transmet les informations conformément au § 6 est celui qui occupe la première place dans la liste ci-après :
+
+1° le contribuable concerné qui a arrêté avec l'intermédiaire le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+2° le contribuable concerné qui gère la mise en oeuvre du dispositif.
+
+Tout contribuable concerné n'est dispensé de l'obligation de transmettre les informations que dans la mesure où il peut prouver que ces mêmes informations, visées au § 14, ont déjà été transmises par un autre contribuable concerné.
+
+§ 11. L'autorité compétente peut prendre les mesures nécessaires pour que chaque contribuable concerné soit tenu de transmettre à l'administration fiscale des informations concernant l'utilisation qu'il fait du dispositif pour chacune des années où il l'utilise.
+
+§ 12. Les intermédiaires et les contribuables concernés sont tenus de fournir des informations sur les dispositifs transfrontières devant faire l'objet d'une déclaration dont la première étape a été mise en oeuvre entre le 25 juin 2018 et le 1er juillet 2020. Les intermédiaires et les contribuables concernés, le cas échéant, transmettent des informations sur ces dispositifs transfrontières devant faire l'objet d'une déclaration, au plus tard le 31 août 2020.
+
+§ 13. L'autorité compétente visée à l'article 2, § 1er, alinéa 7, 6°, à qui les informations ont été transmises conformément aux §§ 1 à 12, communique, par voie d'un échange automatique, les informations visées au § 14 aux autorités compétentes de tous les autres Etats membres, selon les modalités pratiques arrêtées conformément à l'article 8, § 8.
+
+§ 14. Les informations qui doivent être communiquées par l'autorité compétente visée à l'article 2, § 1er, alinéa 7, 6°, conformément au § 13, comprennent les éléments suivants, le cas échéant :
+
+1° l'identification des intermédiaires [<sup>3</sup> , autres que les intermédiaires dispensés de l'obligation de déclaration en raison du secret professionnel auquel ils sont tenus en application du paragraphe 5, ]<sup>3</sup> et des contribuables concernés, y compris leur nom, leur date et lieu de naissance pour les personnes physiques, leur résidence fiscale, [<sup>3</sup> leur NIF]<sup>3</sup> et, le cas échéant, les personnes qui sont des entreprises associées au contribuable concerné ;
+
+2° des informations détaillées sur les marqueurs recensés à l'annexe IV de la Directive selon lesquels le dispositif transfrontière doit faire l'objet d'une déclaration ;
+
+3° un résumé du contenu du dispositif transfrontière devant faire l'objet d'une déclaration, y compris une référence à la dénomination par laquelle il est communément connu, le cas échéant, et une description [<sup>3</sup> des dispositifs pertinents et toute autre information susceptible d'aider l'autorité compétente à évaluer un risque fiscal potentiel ]<sup>3</sup>, sans donner lieu à la divulgation d'un secret commercial, industriel ou professionnel, d'un procédé commercial ou d'informations dont la divulgation serait contraire à l'ordre public ;
+
+4° la date à laquelle la première étape de la mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration a été accomplie ou sera accomplie ;
+
+5° des informations détaillées sur les dispositions nationales sur lesquelles se fonde le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+6° la valeur du dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+7° l'identification de l'Etat membre du ou des contribuable(s) concerné(s), ainsi que de tout autre Etat membre susceptible d'être concerné par le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+8° l'identification, dans les Etats membres, de toute autre personne susceptible d'être concernée par le dispositif transfrontière devant faire l'objet d'une déclaration en indiquant à quels Etats membres cette personne est liée.
+
+§ 15. Le fait qu'une autorité fiscale ne réagit pas face à un dispositif devant faire l'objet d'une déclaration ne vaut pas approbation de la validité ou du traitement fiscal de ce dispositif.
+
+§ 16. L'échange automatique d'informations est effectué dans un délai d'un mois à compter de la fin du trimestre au cours duquel les informations ont été transmises. Les premières informations sont communiquées le 31 octobre 2020 au plus tard.
+
+§ 17. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 18. L[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2020-11-12/22, art. 5, 003; En vigueur : 01-07-2020&gt;
+
+(2)&lt;DCFR 2023-03-30/27, art. 9, 004; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFR 2026-06-11/14, art. 5, 005; En vigueur : 01-01-2028&gt;
+
+#### Art. 5/2 DROIT FUTUR
+
+[<sup>1</sup> § 1er. Les intermédiaires sont tenus de transmettre à l'autorité compétente les informations dont ils ont connaissance, qu'ils possèdent ou qu'ils contrôlent concernant les dispositifs transfrontières devant faire l'objet d'une déclaration dans un délai de trente jours, commençant :
+
+1° le lendemain de la mise à disposition aux fins de mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration ; ou
+
+2° le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est prêt à être mis en oeuvre ; ou
+
+3° lorsque la première étape de la mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration a été accomplie, la date intervenant le plus tôt étant retenue.
+
+Nonobstant le premier alinéa, les intermédiaires visés à l'article 2, alinéa 7, 23°, deuxième alinéa, sont également tenus de transmettre des informations dans un délai de trente jours commençant le lendemain du jour où ils ont fourni, directement ou par l'intermédiaire d'autres personnes, une aide, une assistance ou des conseils.
+
+§ 2. Dans le cas de dispositifs commercialisables, les intermédiaires sont tenus d'établir tous les trois mois un rapport fournissant une mise à jour contenant les nouvelles informations devant faire l'objet d'une déclaration visées [<sup>3</sup> au paragraphe 14, alinéa 1er, 1°, 4°, 7° et 8°, et alinéas 2 et 3 ]<sup>3</sup>, qui sont devenues disponibles depuis la transmission du dernier rapport.
+
+§ 3. Lorsque l'intermédiaire a l'obligation de transmettre des informations concernant des dispositifs transfrontières devant faire l'objet d'une déclaration aux autorités compétentes de plusieurs Etats membres, il ne fournira ces informations à l'autorité compétente visée à l'article 2, § 1er, alinéa 7, 6°, que si la Communauté française occupe la première place dans la liste ci-après, lorsque l'objet du dispositif en question relève d'un impôt dont la Communauté française assure le service :
+
+1° l'intermédiaire est résident à des fins fiscales d'un territoire où est prélevé un impôt dont la Communauté française assure le service ;
+
+2° l'intermédiaire possède un établissement stable dans un territoire où est prélevé un impôt dont la Communauté française assure le service, et par l'intermédiaire duquel les services concernant le dispositif sont fournis ;
+
+3° l'intermédiaire est constitué dans un territoire ou est régi par le droit d'un territoire où est prélevé un impôt dont la Communauté française assure le service ;
+
+4° l'intermédiaire est enregistré auprès d'une association professionnelle en rapport avec des services juridiques, fiscaux ou de conseil, établie dans un territoire où est prélevé un impôt dont la Communauté française assure le service.
+
+§ 4. Lorsque, en application du § 3, il existe une obligation de déclaration multiple, l'intermédiaire est dispensé de la transmission des informations s'il peut prouver que ces mêmes informations ont été transmises dans un autre Etat membre.
+
+§ 5. [<sup>3</sup> Les intermédiaires sont dispensés de l'obligation de fournir des informations concernant un dispositif transfrontière devant faire l'objet d'une déclaration, lorsque l'obligation de déclaration serait contraire au secret professionnel applicable en vertu du droit belge. En pareil cas, tout intermédiaire auquel une dispense a été accordée, notifie, sans retard, à son client, si celui-ci est un intermédiaire ou, en l'absence d'un tel intermédiaire, si ce client est le contribuable concerné, les obligations de déclaration qui incombent audit client en vertu du paragraphe 6]<sup>3</sup>.
+
+Les intermédiaires ne peuvent avoir droit à une dispense en vertu du premier alinéa que dans la mesure où ils agissent dans les limites de la législation nationale pertinente qui définit leurs professions, et qu'à partir du moment où ils ont rempli l'obligation de notification visée à l'alinéa 1er.
+
+Aucun secret professionnel visé au présent paragraphe ne peut être invoqué concernant l'obligation de déclaration des dispositifs commercialisables qui donnent lieu à un rapport périodique conformément au § 2.
+
+§ 6. Lorsqu'il n'existe pas d'intermédiaire ou que l'intermédiaire notifie l'application d'une dispense en vertu du § 5 au contribuable concerné ou à un autre intermédiaire, l'obligation de transmettre des informations sur un dispositif transfrontière devant faire l'objet d'une déclaration relève de la responsabilité de l'autre intermédiaire qui a été notifié, ou, en l'absence d'un tel intermédiaire, du contribuable concerné.
+
+§ 7. Le contribuable concerné à qui incombe l'obligation de déclaration transmet les informations dans un délai de trente jours, commençant le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est mis à la disposition du contribuable concerné aux fins de mise en oeuvre, ou est prêt à être mis en oeuvre par le contribuable concerné, ou lorsque la première étape de sa mise en oeuvre est accomplie en ce qui concerne le contribuable concerné, la date intervenant le plus tôt étant retenue.
+
+Lorsque le contribuable concerné a l'obligation de transmettre des informations concernant le dispositif transfrontière devant faire l'objet d'une déclaration aux autorités compétentes de plusieurs Etats membres, il ne fournira ces informations à l'autorité compétente visée à l'article 2, § 1er, alinéa 7, 6°, que si la Communauté française occupe la première place dans la liste ci-après, lorsque l'objet du dispositif en question relève d'un impôt dont la Communauté française assure le service :
+
+1° le contribuable concerné est résident à des fins fiscales d'un territoire où est prélevé un impôt dont la Communauté française assure le service ;
+
+2° le contribuable concerné possède un établissement stable qui bénéficie du dispositif dans un territoire où est prélevé un impôt dont la Communauté française assure le service ;
+
+3° le contribuable concerné perçoit des revenus ou réalise des bénéfices dans un territoire où est prélevé un impôt dont la Communauté française assure le service, bien qu'il ne soit résident à des fins fiscales et ne possède d'établissement stable dans aucun Etat membre ;
+
+4° le contribuable concerné exerce une activité dans un territoire où est prélevé un impôt dont la Communauté française assure le service, bien qu'il ne soit résident à des fins fiscales et ne possède d'établissement stable dans aucun Etat membre.
+
+§ 8. Lorsque, en application du § 7, il existe une obligation de déclaration multiple, le contribuable concerné est dispensé de la transmission des informations s'il peut prouver, conformément au droit national, que ces mêmes informations ont été transmises dans un autre Etat membre.
+
+§ 9. Lorsqu'il existe plus d'un intermédiaire, l'obligation de transmettre des informations sur le dispositif transfrontière devant faire l'objet d'une déclaration incombe à l'ensemble des intermédiaires participant à un même dispositif transfrontière devant faire l'objet d'une déclaration.
+
+Un intermédiaire n'est dispensé de l'obligation de transmettre des informations que dans la mesure où il peut prouver que ces mêmes informations, visées au § 14, ont déjà été transmises par un autre intermédiaire.
+
+§ 10. Lorsque l'obligation de déclaration incombe au contribuable concerné et qu'il existe plusieurs contribuables concernés, celui d'entre eux qui transmet les informations conformément au § 6 est celui qui occupe la première place dans la liste ci-après :
+
+1° le contribuable concerné qui a arrêté avec l'intermédiaire le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+2° le contribuable concerné qui gère la mise en oeuvre du dispositif.
+
+Tout contribuable concerné n'est dispensé de l'obligation de transmettre les informations que dans la mesure où il peut prouver que ces mêmes informations, visées au § 14, ont déjà été transmises par un autre contribuable concerné.
+
+§ 11. L'autorité compétente peut prendre les mesures nécessaires pour que chaque contribuable concerné soit tenu de transmettre à l'administration fiscale des informations concernant l'utilisation qu'il fait du dispositif pour chacune des années où il l'utilise.
+
+§ 12. Les intermédiaires et les contribuables concernés sont tenus de fournir des informations sur les dispositifs transfrontières devant faire l'objet d'une déclaration dont la première étape a été mise en oeuvre entre le 25 juin 2018 et le 1er juillet 2020. Les intermédiaires et les contribuables concernés, le cas échéant, transmettent des informations sur ces dispositifs transfrontières devant faire l'objet d'une déclaration, au plus tard le 31 août 2020.
+
+§ 13. L'autorité compétente visée à l'article 2, § 1er, alinéa 7, 6°, à qui les informations ont été transmises conformément aux §§ 1 à 12, communique, par voie d'un échange automatique, les informations visées au § 14 aux autorités compétentes de tous les autres Etats membres, selon les modalités pratiques arrêtées conformément à l'article 8, § 8.
+
+§ 14. Les informations qui doivent être communiquées par l'autorité compétente visée à l'article 2, § 1er, alinéa 7, 6°, conformément au § 13, comprennent les éléments suivants, le cas échéant :
+
+1° l'identification des intermédiaires [<sup>3</sup> , autres que les intermédiaires dispensés de l'obligation de déclaration en raison du secret professionnel auquel ils sont tenus en application du paragraphe 5, ]<sup>3</sup> et des contribuables concernés, y compris leur nom, leur date et lieu de naissance pour les personnes physiques, leur résidence fiscale, [<sup>3</sup> leur NIF]<sup>3</sup> et, le cas échéant, les personnes qui sont des entreprises associées au contribuable concerné ;
+
+2° des informations détaillées sur les marqueurs recensés à l'annexe IV de la Directive selon lesquels le dispositif transfrontière doit faire l'objet d'une déclaration ;
+
+3° un résumé du contenu du dispositif transfrontière devant faire l'objet d'une déclaration, y compris une référence à la dénomination par laquelle il est communément connu, le cas échéant, et une description [<sup>3</sup> des dispositifs pertinents et toute autre information susceptible d'aider l'autorité compétente à évaluer un risque fiscal potentiel ]<sup>3</sup>, sans donner lieu à la divulgation d'un secret commercial, industriel ou professionnel, d'un procédé commercial ou d'informations dont la divulgation serait contraire à l'ordre public ;
+
+4° la date à laquelle la première étape de la mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration a été accomplie ou sera accomplie ;
+
+5° des informations détaillées sur les dispositions nationales sur lesquelles se fonde le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+6° la valeur du dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+7° l'identification de l'Etat membre du ou des contribuable(s) concerné(s), ainsi que de tout autre Etat membre susceptible d'être concerné par le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+8° l'identification, dans les Etats membres, de toute autre personne susceptible d'être concernée par le dispositif transfrontière devant faire l'objet d'une déclaration en indiquant à quels Etats membres cette personne est liée.
+
+§ 15. Le fait qu'une autorité fiscale ne réagit pas face à un dispositif devant faire l'objet d'une déclaration ne vaut pas approbation de la validité ou du traitement fiscal de ce dispositif.
+
+§ 16. L'échange automatique d'informations est effectué dans un délai d'un mois à compter de la fin du trimestre au cours duquel les informations ont été transmises. Les premières informations sont communiquées le 31 octobre 2020 au plus tard.
+
+§ 17. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 18. L[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2020-11-12/22, art. 5, 003; En vigueur : 01-07-2020&gt;
+
+(2)&lt;DCFR 2023-03-30/27, art. 9, 004; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFR 2026-06-11/14, art. 5, 005; En vigueur : 01-01-2028&gt;
+
+### Sous-section 4. [<sup>1</sup> Champ d'application et conditions de l'échange automatique et obligatoire des informations déclarées par les Opérateurs de Plateformes ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 10, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 5/3
+
+[<sup>1</sup> § 1er. Les termes qui suivent dans les articles 5/4 à 5/8, ont la signification indiquée ci-dessous.
+
+A. Opérateurs de plateformes déclarants
+
+1° Le terme " Plateforme " désigne tout logiciel, y compris tout ou partie d'un site internet, ainsi que les applications, y compris les applications mobiles, qui sont accessibles aux utilisateurs et qui permettent aux Vendeurs d'être connectés à d'autres utilisateurs afin d'exercer, directement ou indirectement, une Activité concernée destinée à ces autres utilisateurs. Il inclut également tout mécanisme de perception et de paiement d'une Contrepartie pour l'Activité concernée.
+
+Le terme " Plateforme " n'englobe pas les logiciels qui, sans intervenir autrement dans l'exercice d'une Activité concernée, permettent exclusivement:
+
+a) de traiter les paiements liés à l'Activité concernée;
+
+b) aux utilisateurs, de répertorier une Activité concernée ou d'en faire la publicité;
+
+c) de rediriger ou de transférer les utilisateurs vers une Plateforme.
+
+2° Le terme " Opérateur de Plateforme " désigne une Entité concluant un contrat avec des Vendeurs pour mettre à la disposition de ces derniers tout ou partie d'une Plateforme.
+
+3° Le terme " Opérateur de plateforme exclu " désigne un Opérateur de Plateforme qui a démontré d'avance et démontre sur une base annuelle que l'ensemble du modèle commercial de ladite Plateforme est tel qu'il ne compte aucun Vendeur à déclarer, et ce à la satisfaction de l'autorité compétente de l'Etat membre auquel, conformément aux règles énoncées à l'article 5/6, § 1er, 1° à 3°, il aurait dû communiquer des informations.
+
+4° Le terme " Opérateur de Plateforme déclarant " désigne tout Opérateur de Plateforme, autre qu'un Opérateur de Plateforme exclu, se trouvant dans l'une des situations suivantes:
+
+a) il est résident fiscal à des fins fiscales d'un territoire où est prélevé un impôt dont la Communauté française assure le service ou, lorsque ledit Opérateur de plateforme n'a pas de résidence fiscale dans un Etat membre, remplit l'une des conditions suivantes:
+
+i. il est constitué ou régi par le droit d'un territoire où est prélevé un impôt dont la Communauté française assure le service;
+
+ii. son siège de direction (y compris son siège de direction effective) se trouve sur un territoire où est prélevé un impôt dont la Communauté française assure le service;
+
+iii. il possède un établissement stable sur un territoire où est prélevé un impôt dont la Communauté française assure le service et n'est pas un Opérateur de Plateforme qualifié hors Union.
+
+Si un Opérateur de Plateforme est résident fiscal dans plus d'un Etat membre ou possède un établissement stable dans plus d'un Etat membre, il choisit l'un de ces Etats membres pour s'acquitter des obligations de déclaration qui lui incombent et qui sont visées par l'Annexe V, Section III, à la Directive. L'Opérateur de Plateforme notifie son choix à l'ensemble des autorités compétentes de ces Etats membres. Lorsque cet Opérateur de Plateforme choisit de s'acquitter en Belgique de ses obligations précitées de déclaration, il est considéré comme un Opérateur de Plateforme déclarant au sens des articles 5/4 à 5/8.
+
+b) il n'est ni résident fiscal d'un Etat membre, ni constitué ou géré dans un Etat membre, ni ne possède d'établissement stable dans un Etat membre, mais il facilite l'exercice d'une Activité concernée par des Vendeurs à déclarer ou une Activité concernée consistant en la location de biens immobiliers situés dans un Etat membre et n'est pas un Opérateur de Plateforme qualifié hors Union.
+
+Dans ce cas, cet Opérateur de Plateforme est tenu de s'enregistrer dans l'Union et, lorsque cet Opérateur de Plateforme choisit de s'enregistrer auprès de l'autorité compétente belge, l'autorité compétente belge attribue un numéro d'identification individuel à cet Opérateur de Plateforme et il est considéré comme un Opérateur de Plateforme déclarant au sens des articles 5/4 à 5/8.
+
+Un Opérateur de Plateforme déclarant peut choisir de s'enregistrer auprès de l'autorité compétente d'un seul Etat membre, suivant les règles de procédure du § 2 lorsqu'il choisit de s'enregistrer en Belgique
+
+Un tel Opérateur de Plateforme déclarant dont l'enregistrement a été révoqué conformément au § 2, 7°, [<sup>2</sup> ou conformément à une disposition analogue d'un autre Etat membre,]<sup>2</sup> ne peut être autorisé à se réenregistrer qu'à la condition de fournir à l'autorité compétente belge des garanties suffisantes de son engagement à remplir les obligations en matière de déclaration au sein de l'Union, y compris celles auxquelles il ne s'est pas encore conformé.
+
+5° Le terme " Opérateur de Plateforme qualifié hors Union " désigne un Opérateur de Plateforme facilitant des Activités concernées qui sont toutes également des Activités concernées qualifiées et qui est résident fiscal d'une Juridiction qualifiée hors Union ou, s'il n'a pas de résidence fiscale dans une Juridiction qualifiée hors Union, qui remplit l'une des conditions suivantes:
+
+a) il est constitué conformément à la législation d'une Juridiction qualifiée hors Union; ou
+
+b) son siège de direction (y compris son siège de direction effective) se trouve dans une Juridiction qualifiée hors Union.
+
+6° Le terme " Juridiction qualifiée hors Union " désigne une juridiction hors Union qui a conclu un accord éligible en vigueur entre autorités compétentes avec les autorités compétentes de tous les Etats membres identifiés comme étant des juridictions devant faire l'objet d'une déclaration dans une liste publiée par la juridiction hors Union.
+
+7° Le terme " Accord éligible en vigueur entre autorités compétentes " désigne un accord entre les autorités compétentes d'un Etat membre et une juridiction hors Union et qui impose l'échange automatique et obligatoire d'informations équivalentes à celles spécifiés à l'article 5/6, § 2, confirmé par un acte d'exécution conformément à l'article 8 bis quater, § 7, de la Directive.
+
+8° Le terme " Activité concernée " désigne une activité exercée en échange d'une Contrepartie et consistant en:
+
+a) la location de biens immobiliers, y compris à usage résidentiel et commercial, ainsi que tout autre bien immeuble et emplacement de stationnement;
+
+b)un Service personnel;
+
+c) la vente de Biens;
+
+d) la location de tout mode de transport.
+
+Le terme " Activité concernée " n'inclut pas les activités exercées par un Vendeur agissant en qualité d'employé de l'Opérateur de Plateforme déclarant ou d'une Entité liée à l'Opérateur de Plateforme.
+
+9° Le terme " Activité concernée qualifiée " désigne toute Activité concernée soumise à l'échange automatique en vertu d'un Accord éligible en vigueur entre autorités compétentes.
+
+10° Le terme " Contrepartie " désigne une compensation, sous quelque forme que ce soit, hors frais, commissions ou taxes retenus ou prélevés par l'Opérateur de Plateforme déclarant, qui est versée ou créditée à un Vendeur dans le cadre de l'Activité concernée, dont le montant est connu ou peut être raisonnablement connu de l'Opérateur de Plateforme.
+
+11° Le terme " Service personnel " désigne un service correspondant à un travail à l'heure ou à la tâche qui est exécuté par une ou plusieurs personnes physiques agissant soit de manière indépendante soit pour le compte d'une Entité, et qui est fourni à la demande d'un utilisateur, soit en ligne soit physiquement hors ligne, après avoir été facilité par l'intermédiaire d'une Plateforme.
+
+B. Vendeurs à déclarer
+
+1° Le terme " Vendeur " désigne un utilisateur de Plateforme, qu'il s'agisse d'une personne physique ou d'une Entité, qui est enregistré sur la Plateforme à tout moment au cours de la Période de déclaration et qui exerce l'Activité concernée.
+
+2° Le terme " Vendeur actif " désigne tout Vendeur qui fournit une Activité concernée au cours de la Période de déclaration ou à qui est versée ou créditée une Contrepartie pour une Activité concernée au cours de la Période de déclaration.
+
+3° Le terme " Vendeur à déclarer " désigne tout Vendeur actif, autre qu'un Vendeur exclu, qui est résident d'un Etat membre ou qui a donné en location des biens immobiliers situés dans un Etat membre.
+
+4° Le terme " Vendeur exclu " désigne tout Vendeur:
+
+a) qui est une Entité publique;
+
+b) qui est une Entité dont les actions font l'objet de transactions régulières sur un marché boursier réglementé ou une Entité liée à une Entité dont les actions font l'objet de transactions régulières sur un marché boursier réglementé;
+
+c) qui est une Entité pour laquelle l'Opérateur de la Plateforme a facilité, au moyen de la location de biens immobiliers, plus de 2 000 Activités concernées en lien avec un Lot au cours de la Période de déclaration; ou
+
+d) pour lequel l'Opérateur de Plateforme a facilité, au moyen de la vente de Biens, moins de 30 Activités concernées, pour lesquelles le montant total de la Contrepartie versée ou créditée n'a pas dépassé 2 000 EUR au cours de la Période de déclaration.
+
+C. Autres définitions
+
+1° Le terme " Entité " désigne une personne morale ou une construction juridique, telle qu'une société de capitaux, une société de personnes, un trust ou une fondation. Une Entité est une Entité liée à une autre Entité si l'une des deux Entités contrôle l'autre ou si ces deux Entités sont placées sous un contrôle conjoint. A ce titre, le contrôle comprend la participation directe ou indirecte supérieure à 50 % des droits de vote ou de la valeur d'une Entité. Dans le cas d'une participation indirecte, le respect de l'exigence relative à la détention de plus de 50 % du droit de propriété dans le capital de l'autre Entité est déterminé en multipliant les taux de détention successivement aux différents niveaux. Une personne détenant plus de 50 % des droits de vote est réputée détenir 100 % de ces droits.
+
+2° L'expression " Entité publique " désigne le gouvernement d'un Etat membre ou d'une autre juridiction, une subdivision politique d'un Etat membre ou d'une autre juridiction (ce qui comprend un Etat, une province, un comté ou une municipalité) ou tout établissement ou organisme détenu intégralement par les entités précitées (chacun constituant une " Entité publique ").
+
+3° [<sup>2</sup> ...]<sup>2</sup>.
+
+4° Le terme " numéro d'identification T.V.A. " désigne le numéro unique qui identifie un assujetti ou une entité juridique non assujettie qui sont enregistrés aux fins de la taxe sur la valeur ajoutée.
+
+5° Le terme " Adresse principale " désigne l'adresse de la résidence principale d'un Vendeur ayant la qualité de personne physique et l'adresse du siège social d'un Vendeur ayant la qualité d'Entité.
+
+6° L'expression " Période de déclaration " désigne l'année civile pour laquelle la déclaration est effectuée conformément à l'article 5/6.
+
+7° Le terme " Lot " désigne toutes les unités immobilières situées à la même adresse, appartenant au même propriétaire et proposées à la location sur une Plateforme par le même Vendeur.
+
+8° L'expression " Identifiant du compte financier " désigne le numéro ou la référence d'identification unique du compte bancaire, ou de tout autre compte de services de paiement similaire, sur lequel la Contrepartie est versée ou créditée, dont dispose l'Opérateur de Plateforme.
+
+9° Le terme " Bien " désigne tout bien corporel;
+
+[<sup>2</sup> " Service d'identification " : un processus électronique mis gratuitement à la disposition d'un Opérateur de Plateforme déclarant par un Etat membre ou par l'Union afin d'établir l'identité et la résidence fiscale d'un Vendeur]<sup>2</sup>.
+
+§ 2. Aux fins du § 1er, point A, 4°, b), lorsque l'Opérateur de Plateforme y visé choisit de s'enregistrer auprès de l'autorité compétente belge, la procédure administrative pour l'enregistrement unique de cet Opérateur de Plateforme est la suivante.
+
+1° L'Opérateur de Plateforme s'enregistre auprès de l'autorité compétente belge, lorsqu'il débute son activité d'Opérateur de Plateforme.
+
+2° L'Opérateur de Plateforme déclarant communique à l'autorité compétente belge les informations suivantes:
+
+a) nom;
+
+b) adresse postale;
+
+c) adresses électroniques, sites internet inclus;
+
+d) tout NIF délivré à l'Opérateur de Plateforme déclarant;
+
+e) déclaration comprenant des informations concernant l'identification dudit Opérateur de Plateforme déclarant à la T.V.A. au sein de l'Union, conformément au titre XII, chapitre 6, sections 2 et 3, de la directive européenne 2006/112/CE du Conseil, du 28 novembre 2006, relative au système commun de taxe sur la valeur ajoutée;
+
+f) les Etats membres desquels les Vendeurs à déclarer sont résidents, conformément à l'article 5/5, point D.
+
+3° L'Opérateur de Plateforme déclarant notifie à l'autorité compétente belge toute modification des informations prévues au 2°.
+
+4° L'autorité compétente belge attribue un numéro d'identification individuel à l'Opérateur de Plateforme déclarant et le notifie aux autorités compétentes de tous les Etats membres par voie électronique.
+
+5° L'autorité compétente belge [<sup>2</sup> radie]<sup>2</sup> l'Opérateur de Plateforme déclarant du registre central dans les cas suivants:
+
+a) l'Opérateur de Plateforme notifie à l'autorité compétente belge qu'il n'exerce plus aucune activité en tant qu'Opérateur de Plateforme;
+
+b) en l'absence de notification en vertu du a), il existe des raisons de supposer que l'activité de l'Opérateur de Plateforme a cessé;
+
+c) l'Opérateur de Plateforme ne remplit plus les conditions établies au § 1er, point A, 4°, b);
+
+d) l'autorité compétente belge a révoqué l'enregistrement conformément au 7°.
+
+6° L'autorité compétente belge notifie immédiatement la Commission européenne de tout Opérateur de Plateforme, au sens du § 1er, point A, 4°, b), qui commence son activité en tant qu'Opérateur de Plateforme sans s'être enregistré conformément au présent paragraphe.
+
+7° Lorsqu'un Opérateur de Plateforme déclarant ne satisfait pas à l'obligation de déclaration prévue à l'article 5/6, § 1er, 3°, après deux rappels adressés par l'autorité compétente belge, l'autorité compétente belge prend, sans préjudice de l'article 10, § 1er, alinéa 1er, les mesures nécessaires pour révoquer l'enregistrement de l'opérateur de la plateforme déclarant effectué conformément au présent paragraphe. L'enregistrement est révoqué au plus tard après l'expiration d'un délai de 90 jours, mais pas avant l'expiration d'un délai de 30 jours après le deuxième rappel. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 10, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 6, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/4
+
+[<sup>1</sup> § 1er. Les Opérateurs de Plateformes déclarants accomplissent les procédures de diligence raisonnable et remplissent les obligations de déclaration énoncées aux articles 5/5 et 5/6, en conformité avec les articles 5/7 et 5/8 réglant leur mise en oeuvre effective.
+
+§ 2. Conformément aux procédures de diligence raisonnable et aux obligations de déclaration figurant aux articles 5/5 et 5/6, l'autorité compétente d'un Etat membre dans lequel la déclaration conformément au § 1er a été effectuée communique, au moyen d'un échange automatique et dans le délai fixé au § 3, à l'autorité compétente de l'Etat membre duquel le Vendeur à déclarer est résident, déterminé conformément à l'article 5/5, point D, et, dans les cas où le Vendeur à déclarer fournit des services de location de biens immobiliers, en tout état de cause à l'autorité compétente de l'Etat membre dans lequel les biens immobiliers sont situés, les informations suivantes concernant chaque Vendeur à déclarer:
+
+a) le nom, l'adresse du siège social, le NIF et, le cas échéant, le numéro d'identification individuelle attribué conformément à l'article 5/3, § 1er, point A, 4°, b), alinéa 2, de l'Opérateur de Plateforme déclarant, ainsi que la ou les raisons commerciales de la ou des Plateformes pour lesquelles l'Opérateur de Plateforme déclarant effectue la déclaration;
+
+b) le prénom et le nom du Vendeur à déclarer s'il s'agit d'une personne physique, et la dénomination sociale du Vendeur à déclarer ayant la qualité d'Entité;
+
+c) l'Adresse principale;
+
+d) tout NIF du Vendeur à déclarer, comprenant la mention de chaque Etat membre d'émission, ou en l'absence de NIF, le lieu de naissance du Vendeur à déclarer ayant la qualité de personne physique;
+
+e) le numéro d'immatriculation d'entreprise du Vendeur à déclarer ayant la qualité d'Entité;
+
+f) le numéro d'identification T.V.A. du Vendeur à déclarer, le cas échéant;
+
+g) la date de naissance du Vendeur ayant la qualité de personne physique;
+
+h) l'Identifiant du compte financier sur lequel la Contrepartie est versée ou créditée, dans la mesure où celui-ci est disponible pour l'Opérateur de Plateforme déclarant et où l'autorité compétente de l'Etat membre duquel le Vendeur à déclarer est résident au sens de l'article 5/5, point D, n'a pas notifié aux autorités compétentes de tous les autres Etats membres qu'elle n'a pas l'intention d'utiliser l'Identifiant du compte financier à cette fin;
+
+i) lorsqu'il diffère du nom du Vendeur à déclarer, en plus de l'Identifiant du compte financier, le nom du titulaire du compte financier sur lequel la Contrepartie est versée ou créditée, dans la mesure où l'Opérateur de Plateforme déclarant en dispose, ainsi que toute autre information d'identification financière dont dispose l'Opérateur de Plateforme déclarant en ce qui concerne le titulaire de ce compte;
+
+j) chaque Etat membre duquel le Vendeur à déclarer est résident, déterminé conformément à l'article 5/5, point D;
+
+k) le montant total de la Contrepartie versée ou créditée au cours de chaque trimestre de la Période de déclaration et le nombre d'Activités concernées pour lesquelles elle a été versée ou créditée;
+
+l) tous frais, commissions ou taxes retenus ou prélevés par la Plateforme déclarante au cours de chaque trimestre de la Période de déclaration;
+
+[<sup>2</sup> m) l'identifiant du Service d'identification et l'Etat membre de délivrance, lorsque l'Opérateur de Plateforme déclarant s'appuie sur une confirmation directe de l'identité et de la résidence du Vendeur obtenue par l'intermédiaire d'un Service d'identification mis à disposition par l'autorité compétente belge pour établir l'identité et la résidence fiscale du Vendeur ; dans ce cas, il n'est pas nécessaire de communiquer à l'autorité compétente belge de délivrance de l'identifiant du Service d'identification les informations visées aux points c) à g)]<sup>2</sup>.
+
+Lorsque le Vendeur à déclarer fournit des services de location de biens immobiliers, les informations supplémentaires suivantes sont communiquées:
+
+a) l'adresse de chaque Lot, déterminée sur la base des procédures prévues à l'article 5/5, point E, et le numéro d'enregistrement foncier correspondant ou son équivalent dans le droit national de l'Etat membre où il se situe, s'il est disponible;
+
+b) le montant total de la Contrepartie versée ou créditée au cours de chaque trimestre de la Période de déclaration et le nombre d'Activités concernées réalisées en lien avec chaque Lot;
+
+c) le cas échéant, le nombre de jours de location pour chaque Lot au cours de la Période de déclaration et le type correspondant à chacun de ces Lots.
+
+§ 3. La communication prévue au § 2 est effectuée à l'aide du format informatique standard conçu pour faciliter cet échange automatique adopté par la Commission européenne, conformément aux articles 20, § 4, et 26, § 2, de la Directive, dans les deux mois qui suivent la fin de la Période de déclaration à laquelle se rapportent les obligations de déclaration applicables à l'Opérateur de Plateforme déclarant. Les premières informations sont communiquées pour les Périodes devant faire l'objet d'une déclaration à partir du 1er janvier 2023.
+
+§ 4. Lorsqu'un Opérateur de Plateforme est considéré comme un Opérateur de Plateforme exclu, l'autorité compétente de l'Etat membre dans lequel la démonstration visée à l'article 5/3, § 1er, point A, 3°, a été fournie, en informe les autorités compétentes de tous les autres Etats membres, ainsi que de toute modification ultérieure. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 10, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 7, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/5
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup> Les procédures décrites ci-après s'appliquent aux fins de l'identification des Vendeurs à déclarer.
+
+A. Vendeurs non soumis à examen
+
+Afin de déterminer si un Vendeur ayant la qualité d'Entité peut être considéré comme un Vendeur exclu visé par l'article 5/3, § 1er, point B, 4°, a) et b), l'Opérateur de Plateforme déclarant peut s'appuyer sur les informations publiquement accessibles ou sur une confirmation émanant du Vendeur ayant la qualité d'Entité.
+
+Afin de déterminer si un Vendeur peut être considéré comme un Vendeur exclu visé par l'article 5/3, § 1er, point B, 4°, c) et d), un Opérateur de Plateforme déclarant peut s'appuyer sur les registres dont il dispose.
+
+B. Collecte des informations relatives au Vendeur
+
+1° Pour chaque Vendeur personne physique n'ayant pas la qualité de Vendeur exclu, l'Opérateur de Plateforme déclarant collecte toutes les informations suivantes:
+
+a) les nom et prénom;
+
+b) l'Adresse principale;
+
+c) tout NIF délivré à ce Vendeur, accompagné de la mention de chaque Etat membre de délivrance, et, en l'absence de NIF, le lieu de naissance dudit Vendeur;
+
+d) le numéro d'identification T.V.A. de ce Vendeur, le cas échéant;
+
+e) la date de naissance.
+
+2° Pour chaque Vendeur ayant la qualité d'Entité sans être un Vendeur exclu, l'Opérateur de Plateforme déclarant collecte toutes les informations suivantes:
+
+a. la dénomination sociale;
+
+b. l'Adresse principale;
+
+c. tout NIF délivré à ce Vendeur, accompagné de la mention de chaque Etat membre de délivrance;
+
+d. le numéro d'identification T.V.A. de ce Vendeur, le cas échéant;
+
+e. le numéro d'immatriculation d'entreprise;
+
+f. l'existence de tout établissement stable par l'intermédiaire duquel les Activités concernées sont exercées dans l'Union, le cas échéant, avec indication de chaque Etat membre dans lequel se trouve un établissement stable.
+
+3° [<sup>2</sup> ...]<sup>2</sup>.
+
+4° Nonobstant le 1°, c), et le 2°, c) et e), l'Opérateur de Plateforme déclarant n'est pas tenu de recueillir le NIF ou le numéro d'immatriculation d'entreprise, selon le cas, dans les situations suivantes:
+
+a) l'Etat membre de résidence du Vendeur ne délivre pas de NIF ni de numéro d'immatriculation d'entreprise au Vendeur;
+
+b. l'Etat membre de résidence du Vendeur n'exige pas que soit recueilli le NIF délivré au Vendeur.
+
+C. Vérification des informations relatives aux Vendeurs
+
+1° L'Opérateur de Plateforme déclarant détermine si les informations recueillies en application du point A, du point B, 1°, du point B, 2°, a) à e), et du point E sont fiables, en exploitant l'ensemble des informations et des documents dont il dispose dans ses registres, ainsi que toute interface électronique mise à disposition gratuitement par un Etat membre ou par l'Union en vue de vérifier la validité du NIF et/ou du numéro d'identification T.V.A..
+
+2° Nonobstant le 1°, aux fins de l'accomplissement des procédures de diligence raisonnable conformément au point F, 2°, l'Opérateur de Plateforme déclarant peut déterminer si les informations collectées en application du point A, du point B, 1°, du point B, 2°, a) à e), et du point E sont fiables en exploitant les informations et documents dont il dispose dans ses registres interrogeables en ligne.
+
+3° Nonobstant les 1° et 2°, en application du point F, 3°, b), dans les cas où l'Opérateur de Plateforme déclarant a tout lieu de savoir qu'un des éléments d'information décrits au point B ou au point E est susceptible d'être inexact en raison des informations fournies par l'autorité compétente d'un Etat membre dans une demande concernant un Vendeur précis, il demande au Vendeur de corriger les éléments d'information qui se sont révélés incorrects et de fournir des documents justificatifs, des données ou des informations fiables et émanant d'une source indépendante, tels que:
+
+a) un document d'identification délivré par les autorités nationales, en cours de validité;
+
+b) un certificat de résidence fiscale récent.
+
+D. Détermination de l'Etat membre ou des Etats membres de résidence du Vendeur
+
+1° L'Opérateur de Plateforme déclarant considère le Vendeur comme résident de l'Etat membre dans lequel le Vendeur a son Adresse principale. Lorsque l'Etat membre de résidence est différent de celui où le Vendeur a son Adresse principale, l'Opérateur de Plateforme déclarant considère que le Vendeur est également résident de l'Etat membre de délivrance du NIF. Lorsque le Vendeur a fourni des informations relatives à l'existence d'un établissement stable en vertu du point B, 2°, f), l'Opérateur de Plateforme déclarant considère que le Vendeur est également résident de l'Etat membre correspondant indiqué par le Vendeur.
+
+2° Nonobstant le 1°, l'Opérateur de Plateforme déclarant considère le Vendeur comme résident de chaque Etat membre confirmé par un service d'identification électronique mis à disposition par un Etat membre ou par l'Union conformément au point B, 3°.
+
+E. Collecte d'informations sur les biens immobiliers loués
+
+Lorsqu'un Vendeur exerce une Activité concernée consistant en la location de biens immobiliers, l'Opérateur de Plateforme déclarant recueille l'adresse correspondant à chaque Lot et, lorsqu'il a été délivré, le numéro d'enregistrement foncier correspondant ou son équivalent dans le droit national de l'Etat membre dans lequel les biens immobiliers sont situés. Lorsqu'un Opérateur de Plateforme déclarant a facilité plus de 2 000 Activités concernées au moyen de la location d'un Lot pour le même Vendeur ayant la qualité d'Entité, l'Opérateur de Plateforme déclarant recueille les documents justificatifs, les données ou les informations attestant que le Lot appartient au même propriétaire.
+
+F. Calendrier et validité des procédures de diligence raisonnable
+
+1° L'Opérateur de Plateforme déclarant s'acquitte des procédures de diligence raisonnable décrites aux points A à E au plus tard le 31 décembre de la Période de déclaration.
+
+2° Nonobstant le 1°, en ce qui concerne les Vendeurs qui étaient déjà enregistrés sur la Plateforme au 1er janvier 2023 ou à la date à laquelle une Entité devient un Opérateur de Plateforme déclarant, les procédures de diligence raisonnable décrites aux points A à E doivent être accomplies au plus tard le 31 décembre de la deuxième Période de déclaration par l'Opérateur de Plateforme déclarant.
+
+3° Nonobstant le 1°, l'Opérateur de Plateforme déclarant peut s'appuyer sur les procédures de diligence raisonnable mises en oeuvre en ce qui concerne les Périodes devant faire l'objet d'une déclaration précédentes, à condition que:
+
+a) les informations relatives au Vendeur exigées au point B, 1° et 2°, aient été soit collectées et vérifiées, soit confirmées au cours des 36 derniers mois; et
+
+b) l'Opérateur de Plateforme déclarant n'ait pas tout lieu de savoir que les informations collectées conformément aux points A, B et E ne sont pas ou ne sont plus fiables ou correctes.
+
+G. Application des procédures de diligence raisonnable exclusivement aux Vendeurs actifs
+
+L'Opérateur de Plateforme déclarant peut choisir d'accomplir les procédures de diligence raisonnable prévues aux points A à F pour les Vendeurs actifs uniquement.
+
+H. Accomplissement des procédures de diligence raisonnable par des tiers
+
+1° L'Opérateur de Plateforme déclarant peut s'appuyer sur un prestataire de services tiers pour remplir les obligations en matière de diligence raisonnable prévues dans le présent article, étant entendu que ces obligations demeurent de la responsabilité de l'Opérateur de Plateforme déclarant.
+
+2° Lorsqu'un Opérateur de Plateforme remplit les obligations en matière de diligence raisonnable pour un Opérateur de Plateforme déclarant en ce qui concerne la même plateforme conformément au 1°, cet Opérateur de Plateforme met en oeuvre les procédures de diligence raisonnable conformément aux règles établies dans le présent article. Les obligations en matière de diligence raisonnable demeurent de la responsabilité de l'Opérateur de Plateforme déclarant. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 10, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 8, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/6
+
+[<sup>1</sup> § 1er. Le calendrier et les modalités de déclaration des informations visées par l'article 5/4, § 1er, sont les suivants.
+
+1° L'Opérateur de Plateforme déclarant visé par l'article 5/3, § 1er, point A, 4°, a), alinéa 1er, communique à l'autorité compétente belge, les informations indiquées au § 2 concernant la Période de déclaration, au plus tard le 31 janvier de l'année suivant l'année civile pendant laquelle le Vendeur est identifié comme étant un Vendeur à déclarer. Lorsqu'il y a plusieurs Opérateurs de Plateformes déclarants, chacun d'entre eux est dispensé de communiquer les informations s'il dispose de la preuve, conformément au droit applicable sur le territoire de la Communauté française, que les mêmes informations ont été communiquées par un autre Opérateur de Plateforme déclarant.
+
+2° L'Opérateur de Plateforme visé par l'article 5/3, § 1er, point A, 4°, a), alinéa 2, choisit l'un de ces Etats membres pour s'y acquitter des obligations de déclaration prévues au présent article. Lorsqu'il choisit de s'acquitter en Belgique des obligations de déclaration prévues au présent article, conformément à l'article 5/3, § 1er, point A, 4°, a), alinéa 2, l'Opérateur de Plateforme déclarant communique les informations énumérées au § 2, en ce qui concerne la Période de déclaration, à l'autorité compétente belge, au plus tard le 31 janvier de l'année suivant l'année civile pendant laquelle le Vendeur est identifié comme étant un Vendeur à déclarer. En présence de plusieurs Opérateurs de Plateformes déclarants, chacun d'entre eux est dispensé de communiquer les informations s'il dispose de la preuve, conformément au droit national, que les mêmes informations ont été communiquées par un autre Opérateur de Plateforme déclarant dans un autre Etat membre.
+
+3° L'Opérateur de Plateforme visé par l'article 5/3, § 1er, point A, 4°, b), communique les informations indiquées au § 2, concernant la Période de déclaration, à l'autorité compétente belge lorsqu'il est enregistré auprès de cette autorité compétente belge conformément à l'article 5/3, § 1er, point A, 4°, b), alinéa 2, au plus tard le 31 janvier de l'année suivant l'année civile pendant laquelle le Vendeur est identifié comme étant un Vendeur à déclarer.
+
+4° Nonobstant le 3°, un Opérateur de Plateforme déclarant visé par l'article 5/3, § 1er, point A, 4°, b), n'est pas tenu de fournir les informations visées au § 2 en ce qui concerne les Activités concernées qualifiées couvertes par un accord éligible en vigueur entre autorités compétentes qui prévoit déjà l'échange automatique d'informations équivalentes avec un Etat membre concernant les Vendeurs à déclarer qui résident dans cet Etat membre.
+
+5° L'Opérateur de Plateforme déclarant fournit également les informations indiquées au § 2, 2° et 3°, au Vendeur à déclarer auquel elles se rapportent, au plus tard le 31 janvier de l'année suivant l'année civile pendant laquelle le Vendeur est identifié comme étant un Vendeur à déclarer.
+
+6 ° Les informations relatives à la Contrepartie versée ou créditée en monnaie fiduciaire sont communiquées dans la monnaie dans laquelle elle a été versée ou créditée. Lorsque la Contrepartie a été versée ou créditée autrement qu'en monnaie fiduciaire, ces informations sont communiquées dans la monnaie locale, convertie ou valorisée de manière systématique par l'Opérateur de Plateforme déclarant.
+
+7° Les informations relatives à la Contrepartie et aux autres montants sont communiquées pour le trimestre de la Période de déclaration au cours duquel la Contrepartie a été versée ou créditée.
+
+§ 2. Chaque Opérateur de Plateforme déclarant communique les informations suivantes.
+
+1° le nom, l'adresse du siège social, le NIF et, le cas échéant, le numéro d'identification individuel attribué conformément à l'article 5/3, § 1er, point A, 4°, b), alinéa 2, de l'Opérateur de Plateforme déclarant, ainsi que la ou les raisons commerciales de la ou des Plateformes pour laquelle ou lesquelles l'Opérateur de Plateforme déclarant effectue la déclaration.
+
+2° En ce qui concerne chaque Vendeur à déclarer qui a exercé une Activité concernée autre que la location de biens immobiliers:
+
+a) les éléments d'information devant être collectés conformément à l'article 5/5, point B;
+
+b) l'Identifiant du compte financier, dans la mesure où celui-ci est disponible pour l'Opérateur de Plateforme déclarant et où l'autorité compétente de l'Etat membre duquel le Vendeur à déclarer est résident au sens de l'article 5/5, point D, n'a pas notifié publiquement qu'elle n'a pas l'intention d'utiliser l'Identifiant du compte financier à cette fin;
+
+c) lorsqu'il diffère du nom du Vendeur à déclarer, en plus de l'Identifiant du compte financier, le nom du titulaire du compte financier sur lequel la Contrepartie est versée ou créditée, dans la mesure où l'Opérateur de Plateforme déclarant en dispose, ainsi que toute autre information d'identification financière dont dispose l'Opérateur de Plateforme déclarant en ce qui concerne le titulaire de ce compte;
+
+d) chaque Etat membre duquel le Vendeur à déclarer est résident aux fins des articles 2 à 10/3, au sens de l'article 5/5, point D;
+
+e) le montant total de la Contrepartie versée ou créditée au cours de chaque trimestre de la Période de déclaration et le nombre d'Activités concernées pour lesquelles elle a été versée ou créditée;
+
+f) tous frais, commissions ou taxes retenus ou prélevés par l'Opérateur de Plateforme déclarant au cours de chaque trimestre de la Période de déclaration.
+
+3° En ce qui concerne chaque Vendeur à déclarer qui a exercé une Activité concernée consistant en la location de biens immobiliers:
+
+a) les éléments d'information devant être collectés conformément à l'article 5/5, point B;
+
+b) l'Identifiant du compte financier, dans la mesure où celui-ci est disponible pour l'Opérateur de Plateforme déclarant et où l'autorité compétente de l'Etat membre duquel le Vendeur à déclarer est résident au sens de l'article 5/5, point D, n'a pas notifié publiquement qu'elle n'a pas l'intention d'utiliser l'Identifiant du compte financier à cette fin;
+
+c) lorsqu'il diffère du nom du Vendeur à déclarer, en plus de l'Identifiant du compte financier, le nom du titulaire du compte financier sur lequel la Contrepartie est versée ou créditée, dans la mesure où l'Opérateur de Plateforme déclarant en dispose, ainsi que toute autre information d'identification financière dont dispose l'Opérateur de Plateforme déclarant en ce qui concerne le titulaire de ce compte;
+
+d) chaque Etat membre duquel le Vendeur à déclarer est résident aux fins des articles 2 à 10/3, au sens de l'article 5/5, point D;
+
+e) l'adresse de chaque Lot, déterminée sur la base des procédures prévues à l'article 5/5, point E, et le numéro d'enregistrement foncier correspondant ou son équivalent dans le droit national de l'Etat membre où il est situé, le cas échéant;
+
+f) le montant total de la Contrepartie versée ou créditée au cours de chaque trimestre de la Période de déclaration et le nombre d'Activités concernées réalisées en lien avec chaque Lot;
+
+g) tous frais, commissions ou taxes retenus ou prélevés par l'Opérateur de Plateforme déclarant au cours de chaque trimestre de la Période de déclaration;
+
+h) le cas échéant, le nombre de jours de location pour chaque Lot au cours de la Période de déclaration et le type correspondant à chaque Lot]<sup>1</sup>;
+
+[<sup>2</sup> 4° Nonobstant les points 2°, a), et 3°, a), l'Opérateur de Plateforme déclarant n'est pas tenu de communiquer les éléments d'information devant être collectés conformément à l'article 5/5, B., lorsqu'il rend compte à une autorité compétente qui utilise un Service d'identification et s'appuie sur une confirmation directe de l'identité et de la résidence du Vendeur obtenue par l'intermédiaire d'un Service d'identification mis à disposition par un Etat membre ou par l'Union afin d'établir l'identité et toutes les résidences fiscales du Vendeur. Si l'Opérateur de Plateforme déclarant s'est appuyé sur un Service d'identification pour établir l'identité et toutes les résidences fiscales d'un Vendeur devant faire l'objet d'une déclaration, il y a lieu d'indiquer le nom, l'identifiant du ou des Services d'identification et le ou les Etats membres de délivrance]<sup>2</sup>.
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 10, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 9, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/7
+
+[<sup>1</sup> Lorsqu'un Vendeur ne fournit pas les informations requises au titre de l'article 5/5 après deux rappels effectués à la suite de la demande initiale transmise par l'Opérateur de Plateforme déclarant, mais pas avant l'expiration d'un délai de 60 jours, l'Opérateur de Plateforme déclarant ferme le compte du Vendeur et empêche celui-ci de s'enregistrer à nouveau sur la Plateforme ou retient le paiement de la Contrepartie destinée au Vendeur tant que le Vendeur n'a pas fourni les informations demandées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 10, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 5/8
+
+[<sup>1</sup> Gouvernement de la Communauté française arrête les règles et procédures administratives pour assurer la mise en oeuvre effective et le respect des procédures de diligence raisonnable et des obligations de déclaration énoncées aux articles 5/3 à 5/7, dont notamment:
+
+1° les mesures nécessaires pour exiger des Opérateurs de plateformes déclarants qu'ils assurent le respect des obligations de collecte et de vérification prévues à l'article 5/5 pour ce qui concerne leurs Vendeurs;
+
+2° les mesures nécessaires pour exiger des Opérateurs de Plateformes déclarants qu'ils tiennent des registres des démarches entreprises et de toute information utilisée en vue d'assurer l'exécution des procédures de diligence raisonnable et des obligations de déclaration décrites aux articles 5/5 et 5/6. Ces registres restent disponibles suffisamment longtemps et, en tout état de cause, pour une période minimale de 5 ans et maximale de 10 ans à l'issue de la Période de déclaration sur laquelle ils portent;
+
+3° les mesures nécessaires, notamment la possibilité d'adresser une injonction de déclaration aux Opérateurs de Plateformes déclarants, pour garantir que toutes les informations nécessaires sont transmises à l'autorité compétente, de sorte que cette dernière puisse se conformer à l'obligation de communication d'informations conformément à l'article 5/4, § 2;
+
+4° les procédures administratives permettant de vérifier que les Opérateurs de Plateformes déclarants respectent les procédures de diligence raisonnable et les obligations de déclaration prévues aux articles 5/5 et 5/6;
+
+5° les procédures permettant d'assurer un suivi des Opérateurs de Plateformes déclarants lorsque les informations communiquées sont incomplètes ou inexactes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 10, 004; En vigueur : 01-01-2023&gt;
+
+### Sous-section 5. [<sup>1</sup> - Champ d'application et conditions de l'échange automatique et obligatoire des informations déclarées par les Prestataires de services sur Crypto-actifs déclarants ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 10, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/9
+
+[<sup>1</sup> § 1er. Aux fins de la présente sous-section, on entend par :
+
+A. Crypto-actif à déclarer
+
+1\. " Crypto-actif " : le crypto-actif au sens de l'article 3, paragraphe 1, point 5), du règlement (UE) 2023/1114 ;
+
+2\. " Monnaie numérique de Banque centrale " : toute Monnaie fiat numérique émise par une Banque centrale ou une autre autorité monétaire ;
+
+3\. " Banque centrale " : une institution qui, en vertu de la loi ou d'une décision publique, est l'autorité principale, autre que le gouvernement de la juridiction proprement dit, qui émet des instruments destinés à être utilisés comme monnaie. Cette institution peut comporter un organisme distinct du gouvernement de la juridiction, qu'il soit ou non détenu en tout ou en partie par cette juridiction ;
+
+4\. " Crypto-actif à déclarer " : tout Crypto-actif qui n'est pas une Monnaie numérique de Banque centrale, une Monnaie électronique ou tout Crypto-actif pour lequel le Prestataire de Services sur Crypto-actifs déclarant estime à juste titre qu'il ne peut pas être utilisé à des fins de paiement ou d'investissement ;
+
+5\. " Monnaie électronique " : tout Crypto-actif qui est :
+
+a. une représentation numérique d'une Monnaie fiat unique ;
+
+b. émis contre la remise de fonds en vue d'effectuer des opérations de paiement ;
+
+c. représenté par une créance sur l'émetteur libellée dans la même Monnaie fiat ;
+
+d. accepté en paiement par une personne physique ou morale autre que l'émetteur ; et
+
+e. en vertu d'exigences réglementaires auxquelles l'émetteur est soumis, remboursable à tout moment et à la valeur nominale pour la même Monnaie fiat à la demande du détenteur du produit.
+
+L'expression " Monnaie électronique " n'inclut pas un produit créé à la seule fin de faciliter le transfert de fonds d'un client à une autre personne conformément aux instructions du client. Un produit n'est pas créé à la seule fin de faciliter le transfert de fonds si, dans le cadre ordinaire des activités de l'Entité à l'origine du transfert, les fonds associés à ce produit sont conservés plus de soixante jours après réception des instructions visant à faciliter le transfert ou, en l'absence d'instructions, si les fonds associés à ce produit sont conservés plus de soixante jours après leur réception.
+
+B. Prestataire de Services sur Crypto-actifs déclarant
+
+1\. " Prestataire de Services sur Crypto-actifs " : le prestataire de services sur crypto-actifs au sens de l'article 3, paragraphe 1, point 15), du règlement (UE) 2023/1114 ;
+
+2\. " Opérateur de Crypto-actifs " : une personne fournissant des services sur Crypto-actifs autre qu'un Prestataire de Services sur Crypto-actifs ;
+
+3\. " Prestataire de Services sur Crypto-actifs déclarant " : tout Prestataire de Services sur Crypto-actifs et tout Opérateur de Crypto-actifs qui fournit un ou plusieurs Services sur Crypto-actifs consistant en des Transactions d'échange pour un Utilisateur devant faire l'objet d'une déclaration ou en son nom ;
+
+4\. " Service sur Crypto-actifs " : les services sur crypto-actifs au sens de l'article 3, paragraphe 1, point 16), du règlement (UE) 2023/1114, y compris le jalonnement et le prêt.
+
+C. Transaction à déclarer
+
+1\. " Transaction à déclarer " :
+
+a. toute Transaction d'échange ; et
+
+b. tout Transfert de Crypto-actifs à déclarer ;
+
+2\. " Transaction d'échange " :
+
+a. tout échange entre Crypto-actifs à déclarer et Monnaies fiat ; et
+
+b. tout échange entre une ou plusieurs formes de Crypto-actifs à déclarer ;
+
+3\. " Opération de paiement de détail à déclarer " : un Transfert de Crypto-actifs à déclarer en contrepartie de biens ou de services d'une valeur supérieure à 50.000,00 USD ou un montant équivalent dans une autre devise ;
+
+4\. " Transfert " : une transaction qui déplace un Crypto-actif à déclarer depuis ou vers l'adresse ou le compte d'un Utilisateur de Crypto-actifs, autre que l'adresse ou le compte maintenu par le Prestataire de Services sur Crypto-actifs déclarant au nom du même Utilisateur de Crypto-actifs, lorsque, sur la base des connaissances dont dispose le Prestataire de Services sur Crypto-actifs déclarant au moment de la transaction, celui-ci ne peut pas conclure que la transaction est une Transaction d'échange ;
+
+5\. " Monnaie fiat " : la monnaie officielle d'une juridiction, émise par une juridiction, par la Banque centrale ou l'autorité monétaire désignée d'une juridiction, et représentée par des billets de banque ou des pièces physiques ou par de l'argent sous différentes formes numériques, y compris des réserves bancaires et des Monnaies numériques de Banque centrale. Cette expression englobe également l'argent de banque commerciale et les produits de monnaie électronique (Monnaie électronique).
+
+D. Utilisateur devant faire l'objet d'une déclaration
+
+1\. " Utilisateur devant faire l'objet d'une déclaration " : un Utilisateur de Crypto-actifs qui est une Personne devant faire l'objet d'une déclaration résidant dans un Etat membre ;
+
+2\. " Utilisateur de Crypto-actifs " : une personne physique ou une Entité qui est un client d'un Prestataire de Services sur Crypto-actifs déclarant aux fins d'effectuer des Transactions à déclarer. Une personne physique ou une Entité, autre qu'une Institution financière ou un Prestataire de Services sur Crypto-actifs déclarant, qui agit en qualité d'Utilisateur de Crypto-actifs au bénéfice ou pour le compte d'une autre personne physique ou Entité en tant que mandataire, dépositaire, prête-nom, signataire, conseiller en placement ou intermédiaire, n'est pas considérée comme un Utilisateur de Crypto-actifs, et cette autre personne physique ou Entité est considérée comme l'Utilisateur de Crypto-actifs. Lorsqu'un Prestataire de Services sur Crypto-actifs déclarant fournit un service effectuant des Opérations de paiement de détail à déclarer au nom ou pour le compte d'un commerçant, le Prestataire de Services sur Crypto-actifs déclarant considère également le client qui est la contrepartie du commerçant pour ces Opérations de paiement de détail à déclarer comme étant l'Utilisateur de Crypto-actifs dans le cadre de cette Opération de paiement de détail à déclarer, si tant est que le Prestataire de Services sur Crypto-actifs déclarant soit tenu de vérifier l'identité de ce client dans le cadre de l'Opération de paiement de détail à déclarer, en vertu de règles nationales de lutte contre le blanchiment de capitaux ;
+
+3\. " Utilisateur individuel de Crypto-actifs " : un Utilisateur de Crypto-actifs qui est une personne physique ;
+
+4\. " Utilisateur individuel de Crypto-actifs préexistant " : un Utilisateur individuel de Crypto-actifs qui a noué une relation avec le Prestataire de Services sur Crypto-actifs déclarant au 31 décembre 2025 ;
+
+5\. " Entité utilisatrice de Crypto-actifs " : un Utilisateur de Crypto-actifs qui est une Entité ;
+
+6\. " Entité utilisatrice de Crypto-actifs préexistante " : une Entité utilisatrice de Crypto-actifs qui a noué une relation avec le Prestataire de Services sur Crypto-actifs déclarant au 31 décembre 2025 ;
+
+7\. " Personne devant faire l'objet d'une déclaration " : une personne d'un Etat membre autre qu'une Personne exclue ;
+
+8\. " Personne d'un Etat membre " : pour chaque Etat membre, une Entité ou une personne physique établie dans un Etat membre en vertu du droit fiscal de cet Etat membre, ou la succession d'un défunt qui résidait dans un Etat membre. A cette fin, une Entité telle qu'une société de personnes, une société à responsabilité limitée ou une structure juridique similaire qui n'a pas de résidence à des fins fiscales est considérée comme résidente dans la juridiction où se situe son siège de direction effective ;
+
+9\. " Personnes détenant le contrôle " : les personnes physiques qui exercent un contrôle sur une Entité. Dans le cas d'un trust, cette expression désigne le ou les constituants, le ou les trustees, la ou les personnes chargées de surveiller le trustee (le cas échéant), le ou les bénéficiaires ou la ou les catégories de bénéficiaires, et toute autre personne physique exerçant en dernier lieu un contrôle effectif sur le trust et, dans le cas d'une construction juridique qui n'est pas un trust, l'expression désigne les personnes dont la situation est équivalente ou analogue. L'expression " Personnes détenant le contrôle " est interprétée d'une manière compatible avec le terme " bénéficiaire effectif " au sens de l'article4, 27° de la loi de 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces, en ce qui concerne les Prestataires de Services sur Crypto-actifs déclarants ;
+
+10\. " Entité active " : toute Entité qui satisfait à l'un des critères suivants :
+
+a. moins de 50 % des revenus bruts de l'Entité au titre de l'année civile précédente ou d'une autre période de référence comptable pertinente sont des revenus passifs et moins de 50 % des actifs détenus par l'Entité au cours de l'année civile précédente ou d'une autre période de référence comptable pertinente sont des actifs qui produisent ou qui sont détenus pour produire des revenus passifs ;
+
+b. les activités de l'Entité consistent pour l'essentiel à détenir (en tout ou en partie) les actions émises par une ou plusieurs filiales dont les activités ne sont pas celles d'une Institution financière, ou à proposer des financements ou des services à ces filiales. Une Entité ne peut prétendre à ce statut si elle opère (ou se présente) comme un fonds de placement, tel qu'un fonds de capital-investissement, un fonds de capital-risque, un fonds de rachat d'entreprise par endettement ou tout autre organisme de placement dont l'objet est d'acquérir ou de financer des sociétés puis d'y détenir des participations à des fins de placement ;
+
+c. l'Entité n'exerce pas encore d'activité et n'en a jamais exercé précédemment, mais investit des capitaux dans des actifs en vue d'exercer une activité autre que celle d'une Institution financière, étant entendu que cette exception ne saurait s'appliquer à l'Entité après expiration d'un délai de vingt-quatre mois après la date de sa constitution initiale ;
+
+d. l'Entité n'était pas une Institution financière durant les cinq années précédentes et procède à la liquidation de ses actifs ou est en cours de restructuration afin de poursuivre ou de reprendre des transactions ou des activités qui ne sont pas celles d'une Institution financière ;
+
+e. l'Entité se consacre principalement au financement d'entités liées qui ne sont pas des Institutions financières et à des transactions de couverture avec ou pour le compte de celles-ci et ne fournit pas de services de financement ou de couverture à des Entités qui ne sont pas des Entités liées, pour autant que le groupe auquel appartiennent ces Entités liées se consacre principalement à une activité qui n'est pas celle d'une Institution financière ; ou
+
+f. l'Entité remplit toutes les conditions suivantes :
+
+\- elle est établie et exploitée dans sa juridiction de résidence exclusivement à des fins religieuses, caritatives, scientifiques, artistiques, culturelles, sportives ou éducatives ; ou est établie et exploitée dans sa juridiction de résidence et elle est une fédération professionnelle, une organisation patronale, une chambre de commerce, une organisation syndicale, agricole ou horticole, civique ou un organisme dont l'objet exclusif est de promouvoir le bien-être social ;
+
+\- elle est exonérée d'impôt sur les sociétés dans sa juridiction de résidence ;
+
+\- elle n'a aucun actionnaire ni aucun membre disposant d'un droit de propriété ou de jouissance sur ses recettes ou ses actifs ;
+
+\- le droit applicable dans la juridiction de résidence de l'Entité ou les documents constitutifs de celle-ci excluent que les recettes ou les actifs de l'Entité soient distribués à des personnes physiques ou à des organismes à but lucratif ou utilisés à leur bénéfice, à moins que cette utilisation ne soit en relation avec les activités caritatives de l'Entité ou n'intervienne à titre de rémunération raisonnable pour les services fournis ou à titre de paiement, à leur juste valeur marchande, pour les biens acquis par l'entité ; et
+
+\- le droit applicable dans la juridiction de résidence de l'Entité ou les documents constitutifs de celle-ci imposent que, lors de la liquidation ou de la dissolution de l'Entité, tous ses actifs soient distribués à une Entité publique ou à une autre organisation à but non lucratif ou soient dévolus au gouvernement de la juridiction de résidence de l'Entité ou à l'une de ses subdivisions politiques.
+
+E. Personne exclue
+
+1\. " Personne exclue " :
+
+a. une Entité dont les titres font l'objet de transactions régulières sur un ou plusieurs marchés boursiers réglementés ;
+
+b. toute Entité qui est une Entité liée à une Entité décrite au point a) ;
+
+c. une Entité publique ;
+
+d. une Organisation internationale ;
+
+e. une Banque centrale ; ou
+
+f. une Institution financière autre qu'une Entité d'investissement décrite au 5°, b) ;
+
+2\. " Institution financière " : un Etablissement gérant des dépôts de titres, un Etablissement de dépôt, une Entité d'investissement ou un Organisme d'assurance particulier ;
+
+3\. " Etablissement gérant des dépôts de titres " : toute Entité dont une part substantielle de l'activité consiste à détenir des Actifs financiers pour le compte de tiers. Tel est le cas si le revenu brut de cette Entité attribuable à la détention d'Actifs financiers et aux services financiers connexes est égal ou supérieur à 20 % du revenu brut de l'Entité durant : i) la période de trois ans qui s'achève le 31 décembre, ou le dernier jour d'un exercice comptable décalé, précédant l'année au cours de laquelle le calcul est effectué ; ou ii) la période d'existence de l'Entité si celle-ci est inférieure à trois ans ;
+
+4\. " Etablissement de dépôt " : toute Entité :
+
+a. qui accepte des dépôts dans le cadre habituel d'une activité bancaire ou d'activités semblables ; ou
+
+b. qui détient de la Monnaie électronique ou des Monnaies numériques de Banque centrale au profit des clients ;
+
+5\. " Entité d'investissement " : toute Entité :
+
+a. qui exerce comme activité principale une ou plusieurs des activités ou opérations suivantes au nom ou pour le compte d'un client :
+
+\- transactions sur les instruments du marché monétaire, le marché des changes, les instruments sur devises, taux d'intérêt et indices, les valeurs mobilières ou les marchés à terme de marchandises ;
+
+\- gestion individuelle ou collective de portefeuille ; ou
+
+\- autres opérations d'investissement, d'administration ou de gestion d'Actifs financiers, d'argent ou de Crypto-actifs à déclarer pour le compte de tiers ; ou
+
+b. dont les revenus bruts proviennent principalement d'une activité d'investissement, de réinvestissement ou de négociation d'Actifs financiers ou de Crypto-actifs à déclarer, si l'Entité est gérée par une autre Entité qui est un Etablissement de dépôt, un Etablissement gérant des dépôts de titres, un Organisme d'assurance particulier ou une Entité d'investissement décrite au point a).
+
+Une Entité est considérée comme exerçant comme activité principale une ou plusieurs des activités visées au point a), ou les revenus bruts d'une Entité proviennent principalement d'une activité d'investissement, de réinvestissement ou de négociation d'Actifs financiers ou de Crypto-actifs à déclarer aux fins du point b), si les revenus bruts de l'Entité générés par les activités correspondantes sont égaux ou supérieurs à 50 % de ses revenus bruts durant : i) la période de trois ans se terminant le 31 décembre de l'année précédant l'année au cours de laquelle le calcul est effectué ; ou ii) la période d'existence de l'Entité.
+
+Aux fins du point a), troisième tiret, l'expression " autres opérations d'investissement, d'administration ou de gestion d'Actifs financiers, d'argent ou de Crypto-actifs à déclarer pour le compte de tiers " ne couvre pas la prestation de services consistant en des Transactions d'échange pour des clients ou en leur nom. L'expression " Entité d'investissement " exclut une Entité qui est une Entité active parce qu'elle répond aux critères visés aux points D, 10°, b) à e).
+
+Le présent point est interprété conformément à la formulation de la définition de l'expression " établissement financier " qui figure dans l'article 3, point 2), de la directive (UE) 2015/849 ;
+
+6\. " Organisme d'assurance particulier " : tout organisme d'assurance, ou société holding d'un organisme d'assurance, qui émet un Contrat d'assurance avec valeur de rachat ou un Contrat de rente ou est tenu d'effectuer des versements afférents à ce contrat ;
+
+7\. " Entité publique " : le gouvernement d'une juridiction, une subdivision politique d'une juridiction ou tout établissement ou organisme détenu intégralement par une ou plusieurs des entités précitées. Cette catégorie englobe les parties intégrantes, entités contrôlées et subdivisions politiques d'une juridiction.
+
+Une " partie intégrante " d'une juridiction désigne toute personne, toute organisation, toute agence, tout bureau, tout fonds, toute personne morale ou tout autre organisme, quelle que soit sa désignation, qui constitue une autorité dirigeante d'une juridiction. Le revenu net de l'autorité dirigeante est porté au crédit de son propre compte ou d'autres comptes de la juridiction, et aucune fraction de ce revenu ne peut échoir à une personne privée. Une partie intégrante exclut toute personne qui est dirigeant, responsable ou administrateur agissant à titre privé ou personnel.
+
+Une " entité contrôlée " désigne une Entité de forme distincte de la juridiction ou qui constitue une entité juridiquement séparée, dès lors que :
+
+\- l'Entité est détenue et contrôlée intégralement par une ou plusieurs entités publiques, directement ou par l'intermédiaire d'une ou de plusieurs entités contrôlées ;
+
+\- le revenu net de l'Entité est porté au crédit de son propre compte ou des comptes d'une ou de plusieurs Entités publiques, et aucune fraction de ce revenu ne peut échoir à une personne privée ; et
+
+\- les actifs de l'Entité reviennent à une ou à plusieurs Entités publiques lors de sa dissolution.
+
+Le revenu n'échoit pas à des personnes privées si ces personnes sont les bénéficiaires prévus d'un programme public, et si les activités couvertes par ce programme sont accomplies à l'intention du grand public dans l'intérêt général ou se rapportent à l'administration d'une partie du gouvernement. Nonobstant ce qui précède, le revenu est considéré comme perçu par des personnes privées s'il provient du recours à une entité publique dans le but d'exercer une activité commerciale, comme des services bancaires aux entreprises, qui fournit des prestations financières à des personnes privées ;
+
+8\. " Organisation internationale " : une organisation internationale ou tout établissement ou organisme détenu intégralement par cette organisation. Cette catégorie englobe toute organisation intergouvernementale y compris une organisation supranationale :
+
+a. qui se compose principalement de gouvernements ;
+
+b. qui a conclu un accord de siège ou un accord substantiellement similaire avec la juridiction ; et
+
+c. dont les revenus n'échoient pas à des personnes privées ;
+
+9\. " Actif financier " : un titre, une participation, une marchandise, un contrat d'échange, un Contrat d'assurance ou un Contrat de rente, ou tout droit attaché à un titre, un Crypto-actif à déclarer, une participation, une marchandise, un contrat d'échange, un Contrat d'assurance ou un Contrat de rente. Un intérêt direct dans un bien immobilier sans recours à l'emprunt ne constitue pas un " Actif financier " ;
+
+10\. " Titre de participation " : dans le cas d'une société de personnes qui est une Institution financière, toute participation au capital ou aux bénéfices de cette société. Dans le cas d'un trust qui est une Institution financière, un Titre de participation est réputé détenu par toute personne considérée comme le constituant ou le bénéficiaire de tout ou partie du trust ou par toute autre personne physique exerçant en dernier lieu un contrôle effectif sur le trust. Une Personne devant faire l'objet d'une déclaration est considérée comme le bénéficiaire d'un trust si elle a le droit de bénéficier, directement ou indirectement, d'une distribution obligatoire ou discrétionnaire de la part du trust ;
+
+11\. " Contrat d'assurance " : un contrat, à l'exception d'un Contrat de rente, en vertu duquel l'assureur s'engage à verser une somme d'argent en cas de réalisation d'un risque particulier, notamment un décès, une maladie, un accident, une responsabilité civile ou un dommage matériel ;
+
+12\. " Contrat de rente " : un contrat dans lequel l'assureur s'engage à effectuer des paiements pendant une certaine durée, laquelle est déterminée en tout ou en partie par l'espérance de vie d'une ou de plusieurs personnes physiques. Cette expression comprend également tout contrat considéré comme un Contrat de rente par la loi, la réglementation ou la pratique de l'Etat membre ou d'une autre juridiction dans lequel ou dans laquelle ce contrat a été établi, et en vertu duquel l'assureur s'engage à effectuer des paiements durant plusieurs années ;
+
+13\. " Contrat d'assurance avec valeur de rachat " : un Contrat d'assurance, à l'exclusion d'un contrat de réassurance dommages conclu entre deux organismes d'assurance, qui possède une Valeur de rachat ;
+
+14\. " Valeur de rachat " : la plus élevée des deux sommes suivantes : i) la somme que le souscripteur du contrat d'assurance est en droit de recevoir en cas de rachat ou de fin du contrat, calculée sans déduction des éventuels frais de rachat ou avances, et ii) la somme que le souscripteur du contrat d'assurance peut emprunter en vertu du contrat ou eu égard à son objet. Nonobstant ce qui précède, l'expression "Valeur de rachat" ne comprend pas une somme due dans le cadre d'un Contrat d'assurance :
+
+a. uniquement en raison du décès d'une personne assurée en vertu d'un contrat d'assurance vie ;
+
+b. au titre de l'indemnisation d'un dommage corporel, d'une maladie ou d'une perte économique subie lors de la réalisation d'un risque assuré ;
+
+c. au titre du remboursement au souscripteur d'une prime payée antérieurement, moins le coût des charges d'assurance qu'elles soient ou non imposées, dans le cadre d'un Contrat d'assurance, à l'exception d'un contrat d'assurance vie ou d'un contrat de rente lié à un placement, en raison de l'annulation ou de la résiliation du contrat, d'une diminution de l'exposition au risque durant la période au cours de laquelle le contrat d'assurance est en vigueur ou résultant d'un nouveau calcul de la prime rendu nécessaire par la correction d'une erreur d'écriture ou d'une autre erreur analogue ;
+
+d. au titre de la participation aux bénéfices du souscripteur du contrat, à l'exception des dividendes versés lors de la résiliation du contrat, à condition qu'elle se rapporte à un Contrat d'assurance en vertu duquel les seules prestations dues sont celles énoncées au point b) ; ou
+
+e. au titre de la restitution d'une prime anticipée ou d'un dépôt de prime pour un Contrat d'assurance dont la prime est exigible au moins une fois par an si le montant de la prime anticipée ou du dépôt de prime ne dépasse pas le montant de la prime contractuelle due au titre de l'année suivante.
+
+F. Divers
+
+1\. " Procédures de diligence raisonnable à l'égard des clients " : les procédures de diligence raisonnable qu'applique un Prestataire de Services sur Crypto-actifs déclarant à l'égard de ses clients conformément à la loi de 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces ou des exigences similaires auxquelles ce Prestataire de Services sur Crypto-actifs déclarant est soumis ;
+
+2\. " Entité " : une personne morale ou une construction juridique, telle qu'une société de capitaux, une société de personnes, un trust ou une fondation ;
+
+3\. " Entité liée " : une Entité est liée à une autre Entité si l'une des deux Entités contrôle l'autre ou si ces deux Entités sont placées sous un contrôle conjoint. A ce titre, le contrôle comprend la détention directe ou indirecte de plus de 50 % des droits de vote ou de la valeur d'une Entité ;
+
+4\. " Succursale " : une unité, un département ou un bureau d'un Prestataire de Services sur Crypto-actifs déclarant qui est considéré comme une succursale selon le régime réglementaire d'une juridiction ou qui est réglementé selon les lois d'une juridiction en tant qu'entité distincte d'autres bureaux, unités ou succursales du Prestataire de Services sur Crypto-actifs déclarant. L'ensemble des unités, départements ou bureaux d'un Prestataire de Services sur Crypto-actifs déclarant sont considérés comme une seule et même succursale ;
+
+5\. " Accord éligible en vigueur entre autorités compétentes " : un accord entre les autorités compétentes d'un Etat membre et une juridiction hors Union et qui impose l'échange automatique et obligatoire d'informations correspondant à celles spécifiées à l'article 5/13, § 2, comme déterminé par un acte d'exécution conformément à l'article 8bis quinquies, paragraphe 11, de la directive ;
+
+6\. " Juridiction qualifiée hors Union " : une juridiction hors Union qui a conclu un accord éligible en vigueur entre autorités compétentes avec les autorités compétentes de tous les Etats membres identifiés comme étant des juridictions devant faire l'objet d'une déclaration dans une liste publiée par la juridiction hors Union ;
+
+7\. " Service d'identification " : un processus électronique mis gratuitement à la disposition d'un Prestataire de Services sur Crypto-actifs déclarant par un Etat membre ou par l'Union afin d'établir l'identité et la résidence fiscale d'un Utilisateur de Crypto-actifs ;
+
+8\. " règlement (UE) 2023/1114 " : le Règlement (UE) 2023/1114 du Parlement européen et du Conseil du 31 mai 2023 sur les marchés de crypto-actifs, et modifiant les règlements (UE) n° 1093/2010 et (UE) n° 1095/2010 et les directives 2013/36/UE et (UE) 2019/1937 ;
+
+9\. " directive (UE) 2015/849 " : la Directive (UE) 2015/849 du Parlement Européen et du Conseil du 20 mai 2015 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le règlement (UE) n° 648/2012 du Parlement européen et du Conseil et abrogeant la directive 2005/60/CE du Parlement européen et du Conseil et la directive 2006/70/CE de la Commission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 11, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/10
+
+[<sup>1</sup> § 1er. Un Opérateur de Crypto-actifs a l'obligation de s'enregistrer au sein de l'Union européenne ; lorsqu'il est un Prestataire de services sur Crypto-actifs déclarant, il s'enregistre auprès de l'autorité compétente de l'Etat membre, déterminé conformément à l'article 5/12, § 1er, 2°, a), b), c) ou d), ou § 2, avant la fin de la période durant laquelle il doit communiquer les informations énoncées à l'article 5/13, § 2. Si l'Opérateur de Crypto-actifs considéré remplit les conditions énoncées respectivement à l'article 5/12, § 1er, 2°, a), b), c) ou d), ou § 2, respectivement, dans plus d'un Etat membre, il s'enregistre auprès de l'autorité compétente de l'un de ces Etats membres avant la fin de la période durant laquelle il doit communiquer les informations énoncées à l'article 5/13, § 2.
+
+Nonobstant l'alinéa qui précède, un Opérateur de Crypto-actifs qui est un Prestataire de services sur Crypto-actifs déclarant ne s'enregistre pas auprès de l'autorité compétente belge vis-à-vis laquelle il n'est pas tenu de remplir les obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement conformément à l'article 5/12, § 3, § 4, § 5, § 6, § 7 ou § 8, du fait que ces exigences sont remplies par cet Opérateur de Crypto-actifs dans un autre Etat membre.
+
+Lorsqu'un Opérateur de Crypto-actifs s'enregistre auprès de l'autorité compétente belge, l'autorité compétente belge attribue un numéro d'identification individuel à cet Opérateur de Crypto-actifs.
+
+Un Opérateur de Crypto-actifs s'enregistre auprès de l'autorité compétente d'un seul Etat membre, conformément aux règles de procédure du § 3 lorsqu'il s'enregistre en Belgique.
+
+Un Opérateur de Crypto-actifs dont l'enregistrement a été révoqué conformément à l'article 5/10, § 3, 6°, ou conformément à une disposition analogue d'un autre Etat membre, ne peut être autorisé à se réenregistrer qu'à la condition de fournir à l'autorité compétente belge des garanties suffisantes de son engagement à remplir les obligations en matière de déclaration au sein de l'Union, y compris celles auxquelles il ne s'est pas encore conformé.
+
+Les cinq alinéas qui précèdent ne s'appliquent pas aux Prestataires de services sur Crypto-actifs au sens du 1° ;
+
+§ 2. Aux fins de l'art 5/9, paragraphe 1er, point B., 1°, l'autorité compétente belge qui accorde l'agrément aux Prestataires de Services sur Crypto-actifs conformément au règlement (UE) 2023/1114 communique régulièrement, et au plus tard avant le 31 décembre de l'année civile considérée ou avant tout autre moment déterminé par arrêté du Gouvernement, à l'autorité compétente au titre de la directive européenne 2011/16/UE, si cette dernière est une autre autorité, une liste de tous les Prestataires de Services sur Crypto-actifs agréés.
+
+§ 3. Aux fins de l'art 5/9, paragraphe 1er, point B., 3°, lorsque l'Opérateur de Crypto-actifs qui est un Prestataires de Services sur Crypto-actifs déclarant s'enregistre auprès de l'autorité compétente belge, la procédure administrative pour l'enregistrement unique de cet Opérateur de Crypto-actifs est la suivante :
+
+1\. lors de l'enregistrement, l'Opérateur de Crypto-actifs communique à l'autorité compétente belge les informations suivantes :
+
+a. nom ;
+
+b. adresse postale ;
+
+c. adresses électroniques, y compris les sites internet ;
+
+d. tout NIF délivré à l'Opérateur de Crypto-actifs ;
+
+e. Etats membres dans lesquels les Utilisateurs devant faire l'objet d'une déclaration sont résidents au sens de l'article 5/14, points A et B ;
+
+f. toute Juridiction qualifiée hors Union visée à l'article 5/12, § 3, § 4, § 5, § 6 ou § 8 ;
+
+2\. l'Opérateur de Crypto-actifs notifie à l'autorité compétente belge toute modification des informations prévues à l'alinéa 1er ;
+
+3\. l'autorité compétente belge attribue un numéro d'identification individuel à l'Opérateur de Crypto-actifs et le notifie aux autorités compétentes de tous les Etats membres par voie électronique ;
+
+4\. l'autorité compétente belge radie l'Opérateur de Crypto-actifs du registre des Opérateurs de Crypto-actifs dans les cas suivants :
+
+a. l'Opérateur de Crypto-actifs notifie à l'autorité compétente belge qu'il n'a plus d'Utilisateurs devant faire l'objet d'une déclaration dans l'Union ;
+
+b. en l'absence de notification en vertu du point a), il existe des raisons de supposer que l'activité de l'Opérateur de Crypto-actifs a cessé ;
+
+c. l'Opérateur de Crypto-actifs ne remplit plus les conditions prévues au paragraphe 1er, point B., 2° ;
+
+d. l'Etat membre a révoqué l'enregistrement auprès de ses autorités compétentes conformément au 6° ;
+
+5\. l'autorité compétente belge notifie immédiatement à la Commission européenne tout Opérateur de Crypto-actifs, au sens de l'art 5/9, paragraphe 1er, point B., 2°, qui a des Utilisateurs devant faire l'objet d'une déclaration résidant dans l'Union et ne s'est pas enregistré lui-même conformément au présent paragraphe.
+
+Lorsqu'un Opérateur de Crypto-actifs ne se conforme pas à l'obligation d'enregistrement ou lorsque son enregistrement a été révoqué conformément au 6°, l'autorité compétente belge prend, sans préjudice de l'article 10, § 2, 6°, des mesures effectives, proportionnées et dissuasives pour faire respecter cette obligation dans sa juridiction et coordonne ses actions visant à faire respecter la législation avec les autres Etats membres, y compris, en dernier recours, en empêchant l'Opérateur de Crypto-actifs de pouvoir exercer ses activités au sein de l'Union ;
+
+6\. lorsqu'un Opérateur de Crypto-actifs ne satisfait pas à l'obligation de déclaration prévue à l'article 5/13, § 2, après deux rappels adressés par l'autorité compétente belge, l'autorité compétente belge prend, sans préjudice de l'article 10, § 2, 6°, les mesures nécessaires pour révoquer l'enregistrement de l'Opérateur de Crypto-actifs effectué conformément au § 1er, point B., 3°, alinéa 6. L'enregistrement est révoqué au plus tard après l'expiration d'un délai de nonante jours, mais pas avant l'expiration d'un délai de trente jours après le second rappel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 12, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/11
+
+[<sup>1</sup> § 1er. L'autorité belge compétente prend les mesures nécessaires pour exiger des Prestataires de services sur Crypto-actifs déclarants qu'ils remplissent les obligations de déclaration et appliquent les procédures de diligence raisonnable prévues aux articles 5/13 et 5/14, respectivement, en conformité avec les articles 5/15 et 5/16 réglant leur mise en oeuvre effective.
+
+§ 2. Conformément aux obligations de déclaration et aux procédures de diligence raisonnable applicables aux articles 5/13 et 5/14, respectivement, l'autorité compétente d'un Etat membre dans lequel la déclaration visée au paragraphe 1er est effectuée, communique, par voie d'un échange automatique et dans le délai prévu au paragraphe 3, les informations suivantes aux autorités compétentes des Etats membres concernés, concernant chaque Personne devant faire l'objet d'une déclaration :
+
+a. le nom, l'adresse, l'Etat ou les Etats membres de résidence, le ou les NIF et, dans le cas d'une personne physique, la date et le lieu de naissance de chaque Utilisateur devant faire l'objet d'une déclaration et, dans le cas d'une Entité pour laquelle, après l'application des procédures de diligence raisonnable prévues à l'article 5/14, il apparaît qu'une ou plusieurs personnes en détenant le contrôle sont des Personnes devant faire l'objet d'une déclaration, le nom, l'adresse, l'Etat ou les Etats membres de résidence et le ou les NIF de cette Entité ainsi que le nom, l'adresse, l'Etat ou les Etats membres de résidence et le ou les NIF et la date et le lieu de naissance de chacune des Personnes détenant le contrôle de l'Entité qui est une Personne devant faire l'objet d'une déclaration, ainsi que la ou les fonctions en vertu desquelles chaque Personne devant faire l'objet d'une déclaration est une Personne détenant le contrôle de l'Entité.
+
+Nonobstant l'alinéa qui précède, lorsque le Prestataire de services sur Crypto-actifs déclarant s'appuie sur une confirmation directe de l'identité et de la résidence de la Personne devant faire l'objet d'une déclaration obtenue par l'intermédiaire d'un Service d'identification mis à disposition par un Etat membre ou l'Union pour établir l'identité et la résidence fiscale de la Personne devant faire l'objet d'une déclaration, les informations à communiquer à l'Etat membre de délivrance de l'identifiant du Service d'identification concernant la Personne devant faire l'objet d'une déclaration comprennent le nom, l'identifiant du Service d'identification et l'Etat membre de délivrance, ainsi que la ou les fonctions en vertu desquelles chaque Personne devant faire l'objet d'une déclaration est une Personne détenant le contrôle de l'Entité ;
+
+b. le nom, l'adresse, le NIF et, s'il est disponible, le numéro d'identification individuel attribué conformément à l'article 5/10, § 1er, 3°, alinéa 4, et § 3, 3°, et l'identifiant international pour les entités juridiques (LEI) du Prestataire de services sur Crypto-actifs déclarant ;
+
+c. pour chaque type de Crypto-actif à déclarer pour lequel le Prestataire de services sur Crypto-actifs déclarant a effectué des Transactions à déclarer au cours de l'année civile considérée ou au cours de tout autre période de référence déterminé par le Gouvernement par arrêté, le cas échéant :
+
+\- la dénomination complète du type de Crypto-actif à déclarer ;
+
+\- le montant brut total payé, le nombre total d'unités et le nombre de Transactions à déclarer pour les acquisitions en échange de Monnaie fiat ;
+
+\- le montant brut total reçu, le nombre total d'unités et le nombre de Transactions à déclarer pour les cessions en échange de Monnaie fiat ;
+
+\- la juste valeur de marché totale, le nombre total d'unités et le nombre de Transactions à déclarer pour les acquisitions en échange d'autres Crypto-actifs à déclarer ;
+
+\- la juste valeur de marché totale, le nombre total d'unités et le nombre de Transactions à déclarer pour les cessions en échange d'autres Crypto-actifs à déclarer ;
+
+\- la juste valeur de marché totale, le nombre total d'unités et le nombre d'Opérations de paiement de détail à déclarer ;
+
+\- la juste valeur de marché totale, le nombre total d'unités et le nombre de Transactions à déclarer, avec une ventilation par type de transferts lorsque celui-ci est connu du Prestataire de services sur Crypto-actifs déclarant, pour les Transferts destinés à l'Utilisateur devant faire l'objet d'une déclaration non couvert par les deuxième et quatrième tirets ;
+
+\- la juste valeur de marché totale, le nombre total d'unités et le nombre de Transactions à déclarer, avec une ventilation par type de transferts lorsque celui-ci est connu du Prestataire de services sur Crypto-actifs déclarant, pour les Transferts effectués par l'Utilisateur devant faire l'objet d'une déclaration non couvert par les troisième, cinquième et sixième tirets ; et
+
+\- la juste valeur de marché totale ainsi que le nombre total d'unités des Transferts effectués par le Prestataire de services sur Crypto-actifs déclarant à des adresses de registres distribués visées dans le règlement (UE) 2023/1114 qui ne sont pas manifestement associées à un prestataire de services sur actifs virtuels ni à une institution financière.
+
+Aux fins de l'alinéa 1er, c), deuxième et troisième tirets, le montant payé ou reçu est communiqué dans la Monnaie fiat utilisée pour le paiement ou l'encaissement du montant.
+
+Dans le cas où les montants payés ou reçus sont libellés en plusieurs Monnaies fiat, ceux-ci sont communiqués dans une Monnaie fiat unique, convertie au moment de chaque Transaction à déclarer d'une manière cohérente par le Prestataire de services sur Crypto-actifs déclarant.
+
+Aux fins de l'alinéa 1er, c), quatrième à neuvième tirets, la juste valeur de marché est déterminée et communiquée dans une Monnaie fiat unique, évaluée au moment de chaque Transaction à déclarer d'une manière cohérente par le Prestataire de services sur Crypto-actifs déclarant.
+
+Les informations communiquées précisent la Monnaie fiat dans laquelle chaque montant est déclaré.
+
+§ 3. La communication prévue au paragraphe 2 est effectuée à l'aide du formulaire informatique type adopté par la Commission européenne dans les neuf mois qui suivent la fin de l'année civile à laquelle se rapportent les obligations de déclaration applicables aux Prestataires de services sur Crypto-actifs déclarants. Les premières informations sont communiquées pour l'année civile considérée, ou pour tout autre période de référence déterminé par le Gouvernement par arrêté, à compter du 1er janvier 2026.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 13, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/12
+
+[<sup>1</sup> § 1er. Un Prestataire de Services sur Crypto-actifs déclarant est soumis aux obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement, dans un Etat membre, si :
+
+1\. il est une Entité agréée par un Etat membre conformément à l'article 63 du règlement (UE) 2023/1114 ou autorisée à fournir des services sur crypto-actifs à la suite d'une notification adressée à un Etat membre conformément à l'article 60 du règlement (UE) 2023/1114 ; ou
+
+2\. il n'est pas une Entité agréée par un Etat membre conformément à l'article 63 du règlement (UE) 2023/1114 ou autorisée à fournir des services sur crypto-actifs à la suite d'une notification adressée à un Etat membre conformément à l'article 60 du règlement (UE) 2023/1114 et qu'il est :
+
+a. une Entité ou une personne physique ayant sa résidence fiscale dans un Etat membre ;
+
+b. une Entité qui i) est constituée en société ou régie en vertu de la législation d'un Etat membre et ii) est dotée de la personnalité juridique dans un Etat membre ou tenue de déposer des déclarations fiscales ou des déclarations d'informations fiscales auprès des autorités fiscales d'un Etat membre au titre des revenus perçus par l'Entité ;
+
+c. une Entité gérée à partir d'un Etat membre ; ou
+
+d. une Entité ou une personne physique qui a son siège d'activité habituel dans un Etat membre.
+
+§ 2. Un Prestataire de Services sur Crypto-actifs déclarant est soumis aux obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement, dans un Etat membre au titre des Transactions à déclarer effectuées par l'intermédiaire d'une Succursale établie dans un Etat membre.
+
+§ 3. Un Prestataire de Services sur Crypto-actifs déclarant qui est une Entité n'est pas tenu de s'acquitter, dans un Etat membre, des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, b), c) ou d), si ces obligations sont remplies par ledit Prestataire de Services sur Crypto-actifs déclarant dans un autre Etat membre ou une Juridiction qualifiée hors Union du fait qu'il a sa résidence fiscale dans cet Etat membre ou cette Juridiction qualifiée hors Union.
+
+§ 4. Un Prestataire de Services sur Crypto-actifs déclarant qui est une Entité n'est pas tenu de s'acquitter, dans un Etat membre, des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, c) ou d), si ces obligations sont remplies par ledit Prestataire de Services sur Crypto-actifs déclarant dans un autre Etat membre ou dans une Juridiction qualifiée hors Union du fait qu'il est une Entité qui a) est constituée en société ou régie en vertu de la législation de cet Etat membre ou de cette Juridiction qualifiée hors Union et b) est dotée de la personnalité juridique dans l'autre Etat membre ou Juridiction qualifiée hors Union ou est tenue de déposer des déclarations fiscales ou des déclarations d'informations fiscales auprès des autorités fiscales de l'autre Etat membre ou Juridiction qualifiée hors Union en ce qui concerne les revenus perçus par l'Entité.
+
+§ 5. Un Prestataire de Services sur Crypto-actifs déclarant qui est une Entité n'est pas tenu de s'acquitter, dans un Etat membre, des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2° d), si ces obligations sont remplies par ledit Prestataire de Services sur Crypto-actifs déclarant dans un autre Etat membre ou dans une Juridiction qualifiée hors Union du fait qu'il est géré à partir de cet Etat membre ou de cette Juridiction qualifiée hors Union.
+
+§ 6. Un Prestataire de Services sur Crypto-actifs déclarant qui est une personne physique n'est pas tenu de s'acquitter, dans un Etat membre, des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, d), si ces obligations sont remplies par ledit Prestataire de Services sur Crypto-actifs déclarant dans un autre Etat membre ou dans une Juridiction qualifiée hors Union du fait qu'il a sa résidence fiscale dans cet Etat membre ou cette Juridiction qualifiée hors Union.
+
+§ 7. Un Prestataire de Services sur Crypto-actifs déclarant n'est pas tenu de s'acquitter, dans un Etat membre, des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement, auxquelles il est soumis en vertu du paragraphe 1er, 2°, a), b), c), ou d), s'il a adressé une notification à un Etat membre dans un format spécifié par cet Etat membre confirmant que ces obligations sont remplies par ledit Prestataire de Services sur Crypto-actifs déclarant en vertu des règles de tout autre Etat membre ou toute autre Juridiction qualifiée hors Union conformément à des critères substantiellement similaires, respectivement au paragraphe 1er, 2°, a), b), c, ou d).
+
+§ 8. Un Prestataire de Services sur Crypto-actifs déclarant n'est pas tenu de s'acquitter, dans un Etat membre, des obligations en matière de déclaration et de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement, pour les Transactions à déclarer effectuées par l'intermédiaire d'une Succursale dans tout autre Etat membre ou toute autre Juridiction qualifiée hors Union, si ces obligations sont remplies par ladite Succursale dans cet autre Etat membre ou Juridiction qualifiée hors Union.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 14, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/13
+
+[<sup>1</sup> § 1er. Un Prestataire de Services sur Crypto-actifs déclarant au sens de l'article 5/12, § 1er et § 2, communique les informations visées au paragraphe 2 à l'autorité compétente belge dans lequel il est soumis aux obligations de déclaration conformément à l'article 5/12.
+
+§ 2. Pour chaque année civile ou pour tout autre période de référence déterminé par le Gouvernement par arrêté, et sous réserve des obligations des Prestataires de Services sur Crypto-actifs déclarants énoncées à l'article 5/12 et des procédures de diligence raisonnable énoncées à l'article 5/14, un Prestataire de Services sur Crypto-actifs déclarant communique les informations suivantes concernant ses Utilisateurs de Crypto-actifs qui sont des Utilisateurs devant faire l'objet d'une déclaration ou dont les Personnes en détenant le contrôle sont des Personnes devant faire l'objet d'une déclaration :
+
+1\. le nom, l'adresse, l'Etat ou les Etats membres de résidence, le ou les NIF et, dans le cas d'une personne physique, la date et le lieu de naissance de chaque Utilisateur devant faire l'objet d'une déclaration et, dans le cas d'une Entité pour laquelle, après l'application des procédures de diligence raisonnable prévues à l'article 5/14, il apparaît qu'une ou plusieurs personnes en détenant le contrôle sont des Personnes devant faire l'objet d'une déclaration, le nom, l'adresse, l'Etat ou les Etats membres de résidence et le ou les NIF de cette Entité ainsi que le nom, l'adresse, l'Etat ou les Etats membres de résidence et le ou les NIF et la date et le lieu de naissance de chacune des Personnes détenant le contrôle de l'Entité qui est une Personne devant faire l'objet d'une déclaration, ainsi que la ou les fonctions au titre desquelles chaque Personne devant faire l'objet d'une déclaration est une Personne détenant le contrôle de l'Entité ;
+
+Nonobstant l'alinéa qui précède, lorsque le Prestataire de services sur Crypto-actifs déclarant rend compte à une autorité compétente qui utilise un Service d'identification et s'appuie sur une confirmation directe de l'identité et de la résidence de la Personne devant faire l'objet d'une déclaration obtenue par l'intermédiaire d'un Service d'identification mis à disposition par un Etat membre ou par l'Union afin d'établir l'identité et les résidences fiscales de la Personne devant faire l'objet d'une déclaration, les informations à communiquer concernant la Personne devant faire l'objet d'une déclaration comprennent le nom, l'identifiant du ou des Services d'identification et le ou les Etats membres de délivrance, ainsi que la ou les fonctions au titre desquelles chaque Personne devant faire l'objet d'une déclaration est une Personne détenant le contrôle de l'Entité ;
+
+2\. le nom, l'adresse, le NIF et, s'il est disponible, le numéro d'identification individuel attribué conformément à l'article 5/10 § 1er, 3°, alinéa 4, et § 3, 3°, et l'Identifiant international pour les entités juridiques (LEI) du Prestataire de Services sur Crypto-actifs déclarant ;
+
+3\. pour chaque type de Crypto-actif à déclarer pour lequel le Prestataire de services sur Crypto-actifs déclarant a effectué des Transactions à déclarer au cours de l'année civile considérée ou d'une autre période de référence déterminé par le Gouvernement par arrêté, le cas échéant :
+
+a. la dénomination complète du type de Crypto-actif à déclarer ;
+
+b. le montant brut total payé, le nombre total d'unités et le nombre de Transactions à déclarer pour les acquisitions en échange de Monnaie fiat ;
+
+c. le montant brut total reçu, le nombre total d'unités et le nombre de Transactions à déclarer pour les cessions en échange de Monnaie fiat ;
+
+d. la juste valeur de marché totale, le nombre total d'unités et le nombre de Transactions à déclarer pour les acquisitions en échange d'autres Crypto-actifs à déclarer ;
+
+e. la juste valeur de marché totale, le nombre total d'unités et le nombre de Transactions à déclarer pour les cessions en échange d'autres Crypto-actifs à déclarer ;
+
+f. la juste valeur de marché totale, le nombre total d'unités et le nombre d'Opérations de paiement de détail à déclarer ;
+
+g. la juste valeur de marché totale, le nombre total d'unités et le nombre de Transactions à déclarer, avec une ventilation par type de transferts lorsque celui-ci est connu du Prestataire de services sur Crypto-actifs déclarant, pour les Transferts destinés à l'Utilisateur devant faire l'objet d'une déclaration non couvert par les points b) et d) ;
+
+h. la juste valeur de marché totale, le nombre total d'unités et le nombre de Transactions à déclarer, avec une ventilation par type de transferts lorsque celui-ci est connu du Prestataire de services sur Crypto-actifs déclarant, pour les Transferts effectués par l'Utilisateur devant faire l'objet d'une déclaration non couvert par les points c), e) et f) ; et
+
+i. la juste valeur de marché totale ainsi que le nombre total d'unités des Transferts effectués par le Prestataire de Services sur Crypto-actifs déclarant à des adresses de registres distribués visées dans le règlement (UE) 2023/1114 qui ne sont pas manifestement associées à un prestataire de Services sur actifs virtuels ni à une institution financière.
+
+Aux fins de l'alinéa 1er, 3°, b) et c), le montant payé ou reçu est déclaré dans la Monnaie fiat utilisée pour le paiement ou l'encaissement du montant. Dans le cas où les montants payés ou reçus sont libellés en plusieurs Monnaies fiat, ceux-ci sont déclarés dans une monnaie unique, convertie au moment de chaque Transaction à déclarer d'une manière cohérente par le Prestataire de services sur Crypto-actifs déclarant.
+
+Aux fins de l'alinéa 1er, 3°, d) à i), la juste valeur de marché est déterminée et déclarée dans une monnaie unique, évaluée au moment de chaque Transaction à déclarer d'une manière cohérente par le Prestataire de Services sur Crypto-actifs déclarant.
+
+Les informations déclarées précisent la Monnaie fiat dans laquelle chaque montant est déclaré.
+
+§ 3. Nonobstant le paragraphe 2, 1°, le lieu de naissance ne doit pas être déclaré, sauf si le Prestataire de Services sur Crypto-actifs déclarant est tenu de l'obtenir et de le déclarer en vertu du droit de l'Etat de résidence.
+
+§ 4. Les informations énumérées au paragraphe 2 sont déclarées chaque année ou cours de l'année civile suivant l'année à laquelle elles se rapportent. Les premières informations sont déclarées pour l'année civile considérée ou avant tout autre moment déterminé par arrêté du Gouvernement, à partir du 1er janvier 2026.
+
+§ 5. Nonobstant les paragraphes 1er et 4, un Prestataire de Services sur Crypto-actifs déclarant au sens de l'article 5/12, § 1er, 2°, a), b), c) ou d), n'est pas tenu de fournir les informations visées au paragraphe 2 en ce qui concerne un Utilisateur devant faire l'objet d'une déclaration ou une Personne détenant le contrôle pour lequel ou laquelle le Prestataire de Services sur Crypto-actifs assure la déclaration des informations concernées dans une Juridiction hors Union couverte par un accord éligible en vigueur entre autorités compétentes avec l'Etat membre de résidence dudit Utilisateur devant faire l'objet d'une déclaration ou de ladite Personne détenant le contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 15, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/14
+
+[<sup>1</sup> Un Utilisateur de Crypto-actifs est considéré comme un Utilisateur devant faire l'objet d'une déclaration à partir de la date à laquelle il est identifié comme tel en application des procédures de diligence raisonnable décrites dans le présent article.
+
+A. Procédures de diligence raisonnable applicables aux Utilisateurs individuels de Crypto-actifs
+
+Les procédures suivantes s'appliquent afin de déterminer si l'Utilisateur individuel de Crypto-actifs est un Utilisateur devant faire l'objet d'une déclaration.
+
+1\. Lorsqu'il établit la relation avec l'Utilisateur individuel de Crypto-actifs ou des Utilisateurs individuels de Crypto-actifs préexistants au 1er janvier 2027, le Prestataire de Services sur Crypto-actifs déclarant obtient une autocertification lui permettant de déterminer la ou les résidences fiscales de l'Utilisateur individuel de Crypto-actifs et de confirmer la vraisemblance de cette autocertification en s'appuyant sur les informations que le Prestataire de Services sur Crypto-actifs déclarant a obtenues, y compris les documents recueillis en application des Procédures de diligence raisonnable à l'égard des clients.
+
+2\. Si, à un stade quelconque, un changement de circonstances concernant un Utilisateur individuel de Crypto-actifs se produit et a pour conséquence que le Prestataire de Services sur Crypto-actifs déclarant sait ou a tout lieu de savoir que l'autocertification initiale est inexacte ou n'est pas fiable, le Prestataire de Services sur Crypto-actifs déclarant ne peut utiliser cette autocertification et doit obtenir une autocertification valide ou une justification plausible assortie, le cas échéant, de documents étayant la validité de l'autocertification initiale.
+
+B. Procédures de diligence raisonnable applicables aux Entités utilisatrices de Crypto-actifs
+
+Les procédures suivantes s'appliquent pour déterminer si une Entité utilisatrice de Crypto-actifs est un Utilisateur devant faire l'objet d'une déclaration ou une Entité, autre qu'une Personne exclue ou une Entité active, dont une ou plusieurs Personnes en détenant le contrôle sont des Personnes devant faire l'objet d'une déclaration.
+
+1\. Déterminer si l'Entité utilisatrice de Crypto-actifs est une Personne devant faire l'objet d'une déclaration.
+
+a. Lorsqu'il établit la relation avec l'Entité utilisatrice de Crypto-actifs ou des Entités utilisatrices de Crypto-actifs préexistantes d'ici au 1er janvier 2027, le Prestataire de Services sur Crypto-actifs déclarant obtient une autocertification lui permettant de déterminer la ou les résidences fiscales de l'Entité utilisatrice de Crypto-actifs et de confirmer la vraisemblance de cette autocertification en s'appuyant sur les informations que le Prestataire de Services sur Crypto-actifs déclarant a obtenues, y compris les documents recueillis en application des Procédures de diligence raisonnable à l'égard de ses clients. Si l'Entité utilisatrice de Crypto-actifs certifie ne pas avoir de résidence fiscale, le Prestataire de Services sur Crypto-actifs déclarant peut se fonder sur le siège de direction effective ou sur l'adresse de l'établissement principal pour déterminer la résidence de l'Entité utilisatrice de Crypto-actifs.
+
+b. Si l'autocertification indique que l'Entité utilisatrice de Crypto-actifs a sa résidence dans un Etat membre, le Prestataire de Services sur Crypto-actifs déclarant considère l'Entité utilisatrice de Crypto-actifs comme un Utilisateur devant faire l'objet d'une déclaration, sauf s'il établit avec une certitude suffisante, sur la base de l'autocertification ou d'informations en sa possession ou accessibles au public, que l'Entité utilisatrice de Crypto-actifs est une Personne exclue.
+
+2\. Déterminer si une ou plusieurs Personnes détenant le contrôle de l'Entité sont des Personnes devant faire l'objet d'une déclaration. Le Prestataire de Services sur Crypto-actifs déclarant détermine si une ou plusieurs Personnes détenant le contrôle d'une Entité utilisatrice de Crypto-actifs autre qu'une Personne exclue sont des Personnes devant faire l'objet d'une déclaration, sauf s'il établit que l'Entité utilisatrice de Crypto-actifs, sur la base d'une autocertification fournie par cette dernière, est une Entité active.
+
+a. Déterminer les Personnes détenant le contrôle de l'Entité utilisatrice de Crypto-actifs. Pour déterminer les Personnes détenant le contrôle de l'Entité utilisatrice de Crypto-actifs, un Prestataire de Services sur Crypto-actifs déclarant peut se fonder sur les informations recueillies et conservées en application des Procédures de diligence raisonnable à l'égard des clients, pour autant que ces procédures soient compatibles avec la directive (UE) 2015/849. Si le Prestataire de Services sur Crypto-actifs déclarant n'est pas légalement tenu d'appliquer des Procédures de diligence raisonnable à l'égard des clients conformes à la directive (UE) 2015/849, il applique des procédures substantiellement similaires aux fins de la détermination des Personnes détenant le contrôle.
+
+b. Déterminer si une Personne détenant le contrôle d'une Entité utilisatrice de Crypto-actifs est une Personne devant faire l'objet d'une déclaration. Pour déterminer si une Personne détenant le contrôle est une Personne devant faire l'objet d'une déclaration, un Prestataire de Services sur Crypto-actifs déclarant se fonde sur une autocertification émanant de l'Entité utilisatrice de Crypto-actifs ou de la Personne détenant le contrôle qui permet au Prestataire de Services sur Crypto-actifs déclarant de déterminer la ou les résidences fiscales de la Personne détenant le contrôle et de confirmer la vraisemblance de cette autocertification en s'appuyant sur les informations qu'il a obtenues, y compris les documents recueillis en application des Procédures de diligence raisonnable à l'égard des clients.
+
+3\. Si, à un stade quelconque, un changement de circonstances concernant une Entité utilisatrice de Crypto-actifs ou les Personnes en détenant le contrôle se produit et a pour conséquence que le Prestataire de Services sur Crypto-actifs déclarant sait ou a tout lieu de savoir que l'autocertification initiale est inexacte ou n'est pas fiable, le Prestataire de Services sur Crypto-actifs déclarant ne peut utiliser cette auto-certification et doit obtenir une autocertification valide ou une justification plausible assortie, le cas échéant, de documents étayant la validité de l'autocertification initiale.
+
+C. Conditions de validité des autocertifications
+
+1\. Une autocertification fournie par un Utilisateur individuel de Crypto-actifs ou une Personne détenant le contrôle n'est valable que si celui-ci ou celle-ci l'a signée ou authentifiée par tout autre moyen, si elle est datée au plus tard à la date de réception et si elle contient les informations suivantes concernant l'Utilisateur individuel de Crypto-actifs ou la Personne détenant le contrôle :
+
+a. prénom et nom ;
+
+b. adresse de résidence ;
+
+c. Etat(s) membre(s) de résidence à des fins fiscales ;
+
+d. NIF de chaque Personne devant faire l'objet d'une déclaration, pour chaque Etat membre ;
+
+e. date de naissance.
+
+2\. Une autocertification fournie par une Entité utilisatrice de Crypto-actifs n'est valable que si celle-ci l'a signée ou authentifiée par tout autre moyen, si elle est datée au plus tard à la date de réception et si elle contient les informations suivantes concernant l'Entité utilisatrice de Crypto-actifs :
+
+a. raison sociale ;
+
+b. adresse ;
+
+c. Etat(s) membre(s) de résidence à des fins fiscales ;
+
+d. NIF de chaque Personne devant faire l'objet d'une déclaration, pour chaque Etat membre ;
+
+e. dans le cas où l'Entité utilisatrice de Crypto-actifs n'est pas une Entité active ou une Personne exclue, les informations décrites au 1° pour chaque Personne détenant le contrôle de l'Entité utilisatrice de Crypto-actifs, sauf si cette Personne détenant le contrôle a fourni une autocertification conformément au 1°, ainsi que la ou les fonctions au titre desquelles chacune des Personnes devant faire l'objet d'une déclaration est une Personne détenant le contrôle de l'Entité, si elles n'ont pas encore été établies sur la base des Procédures de diligence raisonnable à l'égard des clients ;
+
+f. le cas échéant, des informations relatives aux critères justifiant de la considérer comme une Entité active ou une Personne exclue.
+
+D. Obligations générales de diligence raisonnable
+
+1\. Un Prestataire de Services sur Crypto-actifs déclarant qui est également une Institution financière aux fins de la directive européenne 2011/16/UE peut se fonder sur les procédures de diligence raisonnable mises en oeuvre conformément à l'annexe I, sections IV et VI, de ladite directive européenne 2011/16/UE, aux fins des procédures de diligence raisonnable prévues par le présent article. Un Prestataire de Services sur Crypto-actifs déclarant peut également s'appuyer sur une autocertification déjà collectée à d'autres fins fiscales, pour autant que celle-ci réponde aux conditions prévues au paragraphe 3.
+
+2\. Un Prestataire de Services sur Crypto-actifs déclarant peut faire appel à un tiers pour accomplir les obligations de diligence raisonnable visées dans le présent article, étant toutefois entendu que le respect desdites obligations demeure sa responsabilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 16, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/15
+
+[<sup>1</sup> Lorsqu'un Utilisateur de Crypto-actifs ne fournit pas les informations requises au titre de l'article 5/14 après deux rappels effectués à la suite de la demande initiale du Prestataire de Services sur Crypto-actifs déclarant, le Prestataire de Services sur Crypto-actifs déclarant empêche l'Utilisateur de Crypto-actifs de réaliser des Transactions à déclarer, après l'expiration d'un délai de soixante jours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 17, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 5/16
+
+[<sup>1</sup> Le Gouvernement de la Communauté française arrête les règles et les procédures administratives destinées à assurer le respect des obligations de collecte et de vérification établies à l'article 5/14, dont notamment :
+
+1\. les mesures nécessaires pour exiger des Prestataires de Services sur Crypto-actifs déclarants qu'ils appliquent les obligations de collecte et de vérification prévues à l'article 5/14 en ce qui concerne leurs Utilisateurs de Crypto-actifs ;
+
+2\. les mesures nécessaires pour exiger des Prestataires de Services sur Crypto-actifs déclarants qu'ils tiennent des registres des démarches entreprises et de toute information utilisée en vue d'assurer l'exécution des obligations de déclaration et des procédures de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement. Ces registres restent disponibles suffisamment longtemps et, en tout état de cause, pour une période minimale de cinq ans et maximale de dix ans à l'issue de la période durant laquelle le Prestataire de Services sur Crypto-actifs déclarant est tenu de transmettre les informations si celles-ci doivent être communiquées en vertu de l'article 5/13 ;
+
+3\. les mesures nécessaires, notamment la possibilité d'adresser une injonction de déclaration aux Prestataires de Services sur Crypto-actifs déclarants, pour garantir que toutes les informations nécessaires sont transmises à l'autorité compétente, de sorte que cette dernière puisse se conformer à l'obligation de communication d'informations conformément à l'article 5/11, § 2 ;
+
+4\. les procédures administratives pour vérifier le respect, par les Prestataires de Services sur Crypto-actifs déclarants, des obligations de déclaration et des procédures de diligence raisonnable énoncées aux articles 5/13 et 5/14, respectivement ;
+
+5\. les procédures permettant d'assurer un suivi des Prestataires de Services sur Crypto-actifs déclarants lorsque les informations communiquées sont incomplètes ou inexactes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-11/14, art. 18, 005; En vigueur : 01-01-2026&gt;
+
+## Section V. - Echange spontané d'informations
+
+#### Art. 6
+
+Dans les cas suivants, l'autorité compétente communique spontanément à l'autorité compétente étrangère les informations visées à[<sup>1</sup> l'article 2, § 1er, alinéa 1er ]<sup>1</sup> :
+
+1° l'autorité compétente a des raisons de présumer qu'il peut exister une perte d'impôt ou de taxe dans l' Etat membre concerné;
+
+2° un contribuable obtient, en Communauté française une réduction ou une exonération de taxe ou d'impôt qui devrait entraîner pour lui une augmentation de taxe ou d'impôt ou un assujettissement à une taxe ou à l'impôt dans l' Etat membre concerné;
+
+3° des affaires entre un contribuable en Communauté française et un contribuable d'un Etat membre sont traitées dans un ou plusieurs pays, de manière à pouvoir entraîner une diminution de taxe ou d'impôt en Communauté française ou dans l' Etat membre ou dans les deux;
+
+4° l'autorité compétente a des raisons de présumer qu'il peut exister une diminution de taxe ou d'impôt résultant de transferts fictifs de bénéfices à l'intérieur de groupes d'entreprises;
+
+5° l'autorité compétente, à la suite des informations communiquées par une autorité compétente étrangère, a recueilli des informations qui sont adéquates, pertinentes et non excessives pour l'établissement d'une taxe ou de l'impôt dans cet Etat membre concerné.
+
+L'autorité compétente peut communiquer spontanément à une autorité compétente étrangère les informations dont elle a connaissance et qui sont adéquates, pertinentes et non excessives à cette autorité compétente étrangère.
+
+L'autorité compétente qui dispose d'informations visées à l'alinéa 1er les communique à l'autorité compétente étrangère de tout Etat membre intéressé le plus rapidement possible, et au plus tard un mois après que lesdites informations sont disponibles.
+
+L'autorité compétente à laquelle des informations visées à l'alinéa 1er sont transmises en accuse réception, si possible par voie électronique, auprès de l'autorité compétente étrangère qui les lui a communiquées, immédiatement et en tout état de cause au plus tard sept jours ouvrables après les avoir reçues.
+
+----------
+
+(1)&lt;DCFR 2020-11-12/22, art. 6, 003; En vigueur : 01-07-2020&gt;
+
+## Section VI. [<sup>1</sup> Autres formes de coopération administrative ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 11,1°, 004; En vigueur : 01-01-2023&gt;
+
+### Sous-section 1ere. [<sup>1</sup> . Présence dans les bureaux administratifs et participation aux enquêtes administratives]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 11,1°, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 7
+
+[<sup>1</sup> . § 1er. L'autorité compétente peut convenir avec une autorité compétente étrangère, aux fins de l'échange d'informations visées à l'article 2, § 1er, alinéa 1er, que les fonctionnaires habilités par l'autorité compétente peuvent, conformément aux modalités de procédure définies par l'autorité compétente étrangère:
+
+1° être présents dans les bureaux où les autorités administratives de l'Etat membre requis exécutent leurs tâches;
+
+2° assister aux enquêtes administratives réalisées sur le territoire de l'Etat membre requis;
+
+3° participer aux enquêtes administratives menées par l'Etat membre requis en utilisant des moyens de communication électroniques, le cas échéant.
+
+L'autorité requise répond à une demande présentée conformément au premier alinéa dans un délai de 60 jours suivant la réception de la demande, afin de confirmer son accord ou de signifier à l'autorité compétente belge son refus en le motivant.
+
+Lorsque les informations demandées figurent dans des documents auxquels les fonctionnaires de l'autorité requise ont accès, les fonctionnaires habilités par l'autorité compétente belge en reçoivent des copies.
+
+Dans les cas où des fonctionnaires habilités par l'autorité compétente belge assistent aux enquêtes administratives ou y participent en recourant à des moyens de communication électroniques, ils peuvent interroger des personnes et examiner des documents, sous réserve des modalités de procédure définies par l'Etat membre requis.
+
+Tout refus d'une personne faisant l'objet d'une enquête de se conformer aux mesures d'inspection des fonctionnaires habilités par l'autorité compétente belge est considéré par l'autorité requise comme un refus opposé à ses propres fonctionnaires.
+
+Les fonctionnaires habilités par l'autorité compétente belge, présents dans un autre Etat membre conformément au présent paragraphe, doivent toujours être en mesure de présenter un mandat écrit précisant leur identité et leur qualité officielle.
+
+§ 2. L'autorité compétente peut convenir avec une autorité compétente étrangère, aux fins de l'échange d'informations visées à l'article 2, § 1er, alinéa 1er, que des fonctionnaires habilités par l'autorité compétente étrangère peuvent, conformément aux modalités de procédure définies par l'autorité compétente:
+
+1° être présents, en Communauté française, dans les bureaux du service de la Direction Générale du Budget et des Finances qui exécutent ces tâches;
+
+2° assister aux enquêtes administratives réalisées sur le territoire de la Communauté française;
+
+3° participer aux enquêtes administratives menées par des fonctionnaires de la Direction Générale du Budget et des Finances en utilisant des moyens de communication électroniques, le cas échéant.
+
+L'autorité compétente belge répond à une demande présentée conformément au premier alinéa dans un délai de 60 jours suivant la réception de la demande, afin de confirmer son accord ou de signifier à l'autorité requérante son refus en le motivant.
+
+Lorsque les informations demandées figurent dans des documents auxquels les fonctionnaires de la Direction Générale du Budget et des Finances ont accès, les fonctionnaires habilités par l'autorité requérante en reçoivent des copies.
+
+Dans les cas où des fonctionnaires habilités par l'autorité requérante assistent aux enquêtes administratives ou y participent en recourant à des moyens de communication électroniques, ils peuvent interroger des personnes et examiner des documents, sous réserve des modalités de procédure définies par le présent décret.
+
+Tout refus d'une personne faisant l'objet d'une enquête de se conformer aux mesures d'inspection des fonctionnaires habilités par l'autorité requérante est considéré par l'autorité compétente belge comme un refus opposé aux fonctionnaires de la Direction Générale du Budget et des Finances.
+
+Les fonctionnaires habilités par l'autorité requérante, présents sur le territoire de la Communauté française conformément au présent paragraphe, doivent toujours être en mesure de présenter un mandat écrit précisant leur identité et leur qualité officielle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 11,1°, 004; En vigueur : 01-01-2023&gt;
+
+### Sous-section 2.
+
+[<sup>1</sup> Contrôles simultanés ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 11,1°, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 7.1
+
+[<sup>1</sup> Lorsque la Communauté française convient avec un ou plusieurs Etats membres de procéder, chacun sur leur propre territoire, à des contrôles simultanés en ce qui concerne une ou plusieurs personnes présentant pour eux un intérêt commun ou complémentaire, en vue d'échanger les informations ainsi obtenues, ce paragraphe s'applique.
+
+L'autorité compétente identifie de manière indépendante les personnes qu'elle a l'intention de proposer pour un contrôle simultané. Elle informe l'autorité compétente étrangère des Etats membres concernés de tous les dossiers pour lesquels elle propose un contrôle simultané, en motivant son choix. Elle indique le délai dans lequel le contrôle doit être réalisé.
+
+Lorsqu'un contrôle simultané a été proposé à l'autorité compétente, celle- ci décide si elle souhaite participer au contrôle simultané. Elle confirme son accord à l'autorité compétente étrangère ayant proposé le contrôle ou lui signifie son refus en le motivant, dans un délai de 60 jours à compter de la réception de la proposition.
+
+L'autorité compétente désigne un représentant chargé de superviser et de coordonner le contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 11,1°, 004; En vigueur : 01-01-2023&gt;
+
+### Sous-section 3.
+
+[<sup>1</sup> Notification administrative]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 11,2°, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 7.2
+
+[<sup>1</sup> § 1er. L'autorité compétente peut demander à une autorité compétente étrangère de notifier, conformément aux règles régissant la notification des actes correspondants dans l'Etat membre requis, au destinataire, l'ensemble des actes et décisions émanant des autorités administratives de la Communauté française et concernant l'application en Communauté française de la législation relative à l'ensemble des taxes et impôts perçus par la Communauté française ou pour son compte, par ses subdivisions territoriales ou administratives ou pour leur compte, y compris les autorités locales.
+
+La demande de notification indique le nom et l'adresse du destinataire ainsi que tout autre renseignement susceptible de faciliter son identification et mentionne l'objet de l'acte ou de la décision à notifier.
+
+L'autorité compétente n'adresse une demande de notification que lorsqu'elle n'est pas en mesure de notifier conformément aux règles applicables en Communauté française, ou lorsqu'une telle notification entraînerait des difficultés disproportionnées. L'autorité compétente peut notifier un document, par envoi recommandé ou par voie électronique, directement à une personne établie sur le territoire d'un autre Etat membre.
+
+§ 2. A la demande d'une autorité compétente étrangère, l'autorité compétente notifie au destinataire, conformément aux règles applicables en Communauté française, régissant la notification des actes correspondants, l'ensemble des actes et décisions émanant des autorités administratives de l'Etat membre requérant et concernant l'application sur le territoire de la Communauté française de la législation relative à l'ensemble des taxes et impôts perçus par la Communauté française ou pour son compte, par ses subdivisions territoriales ou administratives ou pour leur compte, y compris les autorités locales.
+
+L'autorité compétente informe immédiatement l'autorité requérante de la suite qu'elle a donnée à la demande et en particulier de la date à laquelle la décision ou l'acte a été notifié au destinataire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 11,2°, 004; En vigueur : 01-01-2024&gt;
+
+### Sous-section 4. [<sup>1</sup> - Retour d'informations ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 11,2°, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 7.3
+
+[<sup>1</sup> - § 1er. Lorsqu'une autorité compétente étrangère a communiqué des informations en application de l'article 3, § 1er, ou de l'article 6 et qu'un retour d'informations est demandé, l'autorité compétente qui a reçu les informations, le fournit, sans préjudice des règles relatives au secret professionnel et à la protection des données applicables en Communauté française, à l'autorité compétente étrangère qui les a communiquées, le plus rapidement possible et au plus tard trois mois après que les résultats de l'exploitation des informations reçues sont connus.
+
+L'autorité compétente fournit une fois par an aux Etats membres concernés un retour d'informations sur l'échange automatique, selon les modalités pratiques convenues de manière bilatérale.
+
+§ 2. L'autorité compétente qui a communiqué des informations en application de l'article 3, § 2, ou de l'article 6, peut demander à l'autorité compétente étrangère qui les a reçues, de lui donner son avis en retour sur celles-ci.
+
+Si un retour d'informations est demandé, l'autorité compétente étrangère qui a reçu les informations le fournit, sans préjudice des règles relatives au secret fiscal et à la protection des données applicables dans son Etat membre, à l'autorité compétente belge qui a communiqué les informations le plus rapidement possible et au plus tard trois mois après que les résultats de l'exploitation des renseignements reçus sont connus.
+
+§ 3. Lorsqu'un service de liaison de la Communauté française ou un fonctionnaire compétent de la Communauté française reçoit une demande de coopération qui ne relève pas de la compétence qui lui est attribuée conformément à la législation belge ou à la politique belge, il la transmet sans délai au bureau central de liaison et en informe l'autorité compétente étrangère requérante. En pareil cas, la période prévue à l'article 4 commence le jour suivant celui où la demande est transmise au bureau central de liaison. ";
+
+2° ladite Section VI est complétée, après l'article 7/3, par une nouvelle Sous-section 5, comprenant le nouvel article 7/4, rédigée comme suit: ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 11,2°, 004; En vigueur : 01-01-2024&gt;
+
+### Sous-section 5. [<sup>1</sup> Contrôles conjoints]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 11,2°, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 7.4
+
+[<sup>1</sup> 4. § 1er. L'autorité compétente d'un ou de plusieurs Etats membres peut demander à autorité compétente belge, le cas échéant avec d'autres Etats membres, de mener un contrôle conjoint. L'autorité compétente belge et, le cas échéant, les autorités compétentes requises des autres Etats membres répondent à la demande de contrôle conjoint dans un délai de 60 jours à compter de la réception de celle-ci. L'autorité compétente belge et, le cas échéant, les autorités compétentes requises des autres Etats membres peuvent rejeter une demande de contrôle conjoint présentée par une autorité compétente d'un Etat membre pour des motifs justifiés.
+
+§ 2. L'autorité compétente belge peut demander à autorité compétente d'un autre Etat membre, le cas échéant avec d'autres Etats membres, de mener un contrôle conjoint. Les autorités compétentes requises répondent à la demande de contrôle conjoint dans un délai de 60 jours à compter de la réception de celle-ci. Les autorités compétentes requises peuvent rejeter une demande de contrôle conjoint présentée par l'autorité compétente belge pour des motifs justifiés.
+
+§ 3. Les contrôles conjoints prévus au § 1er et au § 2 sont menés de manière convenue au préalable et coordonnée, y compris en ce qui concerne le régime linguistique, par les autorités compétentes de l'Etat membre requérant et de l'Etat membre ou des Etats membres requis, et conformément à la législation et aux exigences procédurales de l'Etat membre dans lequel les activités de contrôle conjoint sont menées. Dans chaque Etat membre dans lequel se déroulent les activités d'un contrôle conjoint, l'autorité compétente dudit Etat membre désigne un représentant chargé de superviser et de coordonner le contrôle conjoint dans cet Etat membre.
+
+Les droits et obligations des fonctionnaires des Etats membres qui participent au contrôle conjoint, lorsqu'ils sont présents lors d'activités menées dans un autre Etat membre, sont déterminés conformément à la législation de l'Etat membre dans lequel se déroulent les activités du contrôle conjoint. Tout en respectant la législation de l'Etat membre dans lequel se déroulent les activités du contrôle conjoint, les fonctionnaires d'un autre Etat membre n'exercent aucun pouvoir qui irait au-delà des pouvoirs qui leur sont conférés par la législation de leur Etat membre.
+
+§ 4. Sans préjudice du § 3, lorsque les activités du contrôle conjoint ont lieu sur le territoire de la Communauté française et sont menées avec des fonctionnaires de la Direction Générale du Budget et des Finances:
+
+1° les fonctionnaires d'autres Etats membres qui participent aux activités du contrôle conjoint sont autorisés à interroger des personnes et à examiner des documents en coopération avec les fonctionnaires de la Direction Générale du Budget et des Finances, sous réserve des modalités de procédure prévues par l'autorité compétente;
+
+2° les éléments de preuve recueillis au cours des activités du contrôle conjoint sont évalués, y compris en ce qui concerne leur recevabilité, dans les mêmes conditions juridiques que celles qui s'appliqueraient dans le cas d'un contrôle effectué sur le territoire de la Communauté française, avec la seule participation des fonctionnaires de la Direction Générale du Budget et des Finances, y compris au cours d'une procédure de réclamation, de réexamen ou de recours;
+
+3° la ou les personnes faisant l'objet d'un contrôle conjoint ou affectées par celui-ci jouissent des mêmes droits et ont les mêmes obligations que ceux qui s'appliqueraient dans le cas d'un contrôle qui se déroulerait avec la seule participation des fonctionnaires de la Direction Générale du Budget et des Finances, y compris au cours de toute procédure de réclamation, de réexamen ou de recours.
+
+§ 5. Lorsque les autorités compétentes de deux Etats membres ou plus mènent un contrôle conjoint, elles s'efforcent de convenir des faits et des circonstances pertinents pour le contrôle conjoint et de parvenir à un accord concernant la position fiscale de la ou des personnes ayant fait l'objet du contrôle sur la base des résultats de ce dernier. Les conclusions du contrôle conjoint sont intégrées dans un rapport final. Les questions sur lesquelles les autorités compétentes sont d'accord figurent dans les conclusions du rapport final et sont prises en compte dans les instruments appropriés émis par les autorités compétentes des Etats membres participants à la suite de ce contrôle conjoint.
+
+Sous réserve du premier alinéa, les mesures prises par les autorités compétentes d'un Etat membre ou par l'un de ses fonctionnaires à la suite d'un contrôle conjoint, ainsi que toute autre procédure qui aurait lieu dans cet Etat membre, telle qu'une décision des autorités fiscales, une procédure de recours ou de règlement y relative, se déroulent conformément au droit national de cet Etat membre.
+
+§ 6. La ou les personnes ayant fait l'objet d'un contrôle sont informées des résultats du contrôle conjoint et reçoivent une copie du rapport final, dans les 60 jours suivant l'émission du rapport final. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 11,2°, 004; En vigueur : 01-01-2024&gt;
+
+## Section VII. - Conditions régissant la coopération administrative
+
+#### Art. 8
+
+§ 1er. [<sup>2</sup> Les informations dont dispose l'autorité compétente belge en application des articles 2 à 10/3 sont couvertes par le secret officiel et bénéficient de la protection accordée à des informations de même nature par le droit national de l'Etat membre qui les a reçues.
+
+Ces informations peuvent servir :
+
+1\. à l'établissement, à l'administration et à l'application des taxes et impôts visés par la législation de la communauté française relative aux taxes et impôts visés à l'article 2 du décret du 12 janvier 2017 concernant la coopération administrative dans le domaine fiscal et d'autres taxes indirectes, et à la lutte contre le blanchiment de capitaux et le financement du terrorisme, conformément à la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces ;
+
+2\. à l'établissement et au recouvrement d'autres taxes et droits relevant de l'article 2 du décret du 5 juillet 2012 transposant la Directive 2010/24/UE du Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures, et pour établir et recouvrer des cotisations sociales obligatoires ;
+
+3\. à l'occasion de procédures judiciaires et administratives pouvant entraîner des sanctions, engagées à la suite d'infractions à la législation en matière fiscale, sans préjudice des règles générales et des dispositions légales régissant les droits des prévenus et des témoins dans le cadre de telles procédures.
+
+Avec l'autorisation de l'autorité compétente étrangère qui a communiqué les informations conformément à la directive et pour autant que cela soit autorisé par le droit applicable en Communauté française, les informations et documents reçus de cette autorité peuvent être utilisés à des fins autres que celles visées à l'alinéa 2. L'autorité compétente belge qui reçoit les informations et les documents peut toutefois utiliser les informations et documents reçus sans obtenir l'autorisation susvisée :
+
+1\. pour l'une des finalités énumérées par l'Etat membre qui communique les informations, lorsque l'autorité compétente de ce dernier Etat membre a communiqué aux autorités compétentes de tous les autres Etats membres une liste des finalités autres que celles visées à l'alinéa 2, pour lesquelles, conformément à son droit national, des informations et documents peuvent être utilisés ;
+
+2\. pour toute finalité relevant d'un acte fondé sur l'article 215 du traité sur le fonctionnement de l'Union européenne, pour autant que cette utilisation constitue une mesure nécessaire et proportionnée pour préserver un objectif visé à l'article 23, paragraphe 1er, du règlement (UE) 2016/679, et les partager à cette fin avec l'autorité compétente chargée des mesures restrictives dans l'Etat membre concerné.
+
+Lorsque l'autorité compétente belge estime que les informations qu'elle a reçues d'une autorité compétente étrangère sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées à l'alinéa 2, elle informe l'autorité compétente de l'Etat membre à l'origine des informations de son intention de communiquer ces informations à un troisième Etat membre. Si l'autorité compétente de l'Etat membre à l'origine des informations ne s'oppose pas dans un délai de quinze jours civils à compter de la date de réception de la communication à cet échange d'informations, l'autorité compétente belge peut transmettre les informations à l'autorité compétente étrangère du troisième Etat membre à condition qu'elle respecte les règles et procédures fixées dans les articles précédents.
+
+Lorsque l'autorité compétente belge estime que les informations transmises par une autorité compétente étrangère conformément à l'alinéa 4 peuvent être utiles pour les fins visées à l'alinéa 3, elle demande pour ce faire, l'autorisation à l'autorité compétente de l'Etat membre d'où proviennent ces informations.
+
+Les informations, rapports, attestations et tous autres documents, ou les copies certifiées conformes ou extraits de ces derniers, obtenus par l'autorité requise et transmis à l'autorité compétente belge requérante conformément au présent article sont invoqués comme éléments de preuve par les instances compétentes belges au même titre que les informations, rapports, attestations et tous autres documents équivalents fournis par une autre instance belge]<sup>2</sup>.
+
+§ 2. L'autorité compétente peut autoriser l'utilisation, dans l'Etat membre qui les reçoit, des informations communiquées conformément aux précédents articles, à d'autres fins que celles visées au paragraphe 1er alinéa 2 du présent article. L'autorité compétente donne l'autorisation à condition que leur utilisation soit possible en Communauté française à des fins similaires.
+
+Lorsque l'autorité étrangère considère que les informations qu'elle a reçues de l'autorité compétente sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées à au paragraphe1er alinéa 2 du présent article, l'autorité compétente peut autoriser cette autorité compétente étrangère à partager ces informations avec un troisième Etat. Si l'autorité compétente ne souhaite pas donner son autorisation, elle signifie son refus dans un délai de dix jours à compter de la date de réception de la communication par l'Etat membre qui souhaite partager les informations.
+
+Lorsque l'autorité étrangère considère que les informations qu'elle a reçues de l'autorité compétente sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées au paragraphe 1er alinéa 3 du présent article, l'autorité compétente peut accorder la permission à l'autorité compétente étrangère de communiquer ces informations à un troisième Etat membre.
+
+§ 3. [<sup>1</sup> Préalablement à la demande d'informations visée à l'article 3, § 1er, l'autorité compétente doit d'abord avoir exploité les sources habituelles d'information auxquelles elle peut avoir recours pour obtenir les informations demandées sans risquer de nuire à la réalisation du but recherché.
+
+Préalablement à la demande d'informations visée à l'article 3, § 2, l'autorité compétente étrangère doit d'abord avoir exploité les sources habituelles d'information auxquelles elle peut avoir recours pour obtenir les informations demandées sans risquer de nuire à la réalisation du but recherché. ]<sup>1</sup>
+
+§ 4. L'autorité compétente n'est pas autorisée à procéder à des enquêtes ou de transmettre des informations dès lors que la réalisation de telles enquêtes ou la collecte des informations en question aux propres fins de la Communauté française serait contraire à sa législation.
+
+L'autorité compétente peut refuser de transmettre des informations lorsque :
+
+1° l'Etat membre requérant n'est pas en mesure, pour des raisons juridiques, de fournir des informations similaires;
+
+2° cela conduirait à divulguer un secret commercial, industriel ou professionnel ou un procédé commercial, ou une information dont la divulgation serait contraire à l'ordre public.
+
+L'autorité compétente informe l'autorité requérante des motifs du rejet de la demande d'informations.
+
+§ 5. L'autorité compétente met en oeuvre son dispositif de collecte de renseignements afin d'obtenir les informations demandées, même si ces dernières ne lui sont pas nécessaires pour ses propres besoins fiscaux. Cette obligation s'applique sans préjudice du paragraphe 4 alinéas 1et 2, dont les dispositions ne sauraient en aucun cas être interprétées comme autorisant la Communauté française à refuser de fournir des informations au seul motif que ces dernières ne présentent pour elle aucun intérêt.
+
+Le paragraphe 4 alinéas 1 et 2, ne saurait en aucun cas être interprété comme autorisant l'autorité compétente à refuser de fournir des informations au seul motif que ces informations sont détenues par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu'agent ou fiduciaire, ou qu'elles se rapportent à une participation au capital d'une personne.
+
+Nonobstant l'alinéa 2 l'autorité compétente peut refuser de transmettre des informations demandées lorsque celles-ci portent sur des périodes imposables antérieures au 1er janvier 2011 et que la transmission de ces informations aurait pu être refusée sur la base de l'article 8, point 1er, de la directive 77/799/CE si elle avait été demandée avant le 11 mars 2011.
+
+[<sup>2</sup> L'autorité compétente belge met en place un mécanisme efficace pour garantir l'utilisation des informations obtenues dans le cadre de la déclaration ou de l'échange d'informations au titre des articles 1 à 5/15.]<sup>2</sup>
+
+§ 6. Lorsque la Communauté française offre à un pays tiers une coopération plus étendue que celle prévue par la directive, elle ne peut pas refuser cette coopération étendue à un Etat membre souhaitant prendre part à une telle forme de coopération mutuelle plus étendue.
+
+§ 7. [<sup>1</sup>. Les demandes d'informations et d'enquêtes administratives introduites en vertu de l'article 3 alinéa 1er ainsi que les réponses correspondantes, les accusés de réception, les demandes de renseignements de caractère général et les déclarations d'incapacité ou de refus au titre de l'article 4 sont, dans la mesure du possible, transmis au moyen d'un formulaire type adopté par la Commission. Les formulaires types peuvent être accompagnés de rapports, d'attestations et de tous autres documents, ou de copies certifiées conformes ou extraits de ces derniers.
+
+Les formulaires types visés à l'alinéa 1er du présent paragraphe comportent au moins les informations ci-après, que doit fournir l'autorité requérante:
+
+a) l'identité de la personne faisant l'objet d'un contrôle ou d'une enquête et, dans le cas de demandes concernant un groupe visé à l'article 3, § 4, une description détaillée du groupe;
+
+b) la finalité fiscale des informations demandées.
+
+L'autorité compétente peut, dans la mesure où ils sont connus et conformément à l'évolution de la situation internationale, fournir les noms et adresses de toutes les personnes dont il y a lieu de penser qu'elles sont en possession des informations demandées, ainsi que tout élément susceptible de faciliter la collecte des informations par l'autorité requise.
+
+Les informations échangées spontanément et l'accusé de réception les concernant, au titre, respectivement, de l'article 6, alinéas 1er et 4, les demandes de notification administrative au titre de l'article 7/2, les retours d'information au titre de l'article 7/3, les communications au titre du § 1er, alinéas 3, 4 et 5, et les communications au titre de l'article 9, alinéa 2, sont transmis à l'aide du formulaire type adopté par la Commission.
+
+Les échanges automatiques d'informations au titre de l'article 5 et de l'article 5/4 sont effectués dans un format informatique standard conçu pour faciliter cet échange automatique et basé sur le format informatique existant en vertu de l'article 9 de la Directive 2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de l'épargne sous forme de paiement d'intérêt, qui doit être utilisé pour tous les types d'échanges automatiques d'informations et qui est adopté par la Commission européenne ]<sup>1</sup>.
+
+§ 8.Les informations communiquées au titre du présent article sont, dans la mesure du possible, fournies par voie électronique au moyen du réseau CCN.
+
+L'autorité compétente veille à ce que chaque personne physique devant faire l'objet d'une déclaration soit informée de tout manquement à la sécurité concernant ses données lorsque ces manquements sont susceptibles de porter atteinte à la protection de ses données à caractère personnel ou de sa vie privée.
+
+Les demandes de coopération, y compris les demandes de notification et les pièces annexées, peuvent être rédigées dans toute langue choisie d'un commun accord par l'autorité requise et l'autorité requérante. Lesdites demandes ne sont accompagnées d'une traduction dans l'une des langues officielles de la Belgique que dans des cas particuliers et à condition que l'autorité compétente motive sa demande de traduction.
+
+[<sup>2</sup> § 9. L'autorité compétente belge exige que le NIF des personnes physiques ou entités déclarées délivré par l'Etat membre de résidence soit déclaré par l'entité déclarante ou la personne physique déclarante et communiqué par chaque Etat membre lorsque les articles 2 à 5/15 l'exigent explicitement, et conformément à ceux-ci.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 12, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 19, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 8 DROIT FUTUR
+
+§ 1er. [<sup>2</sup> Les informations dont dispose l'autorité compétente belge en application des articles 2 à 10/3 sont couvertes par le secret officiel et bénéficient de la protection accordée à des informations de même nature par le droit national de l'Etat membre qui les a reçues.
+
+Ces informations peuvent servir :
+
+1\. à l'établissement, à l'administration et à l'application des taxes et impôts visés par la législation de la communauté française relative aux taxes et impôts visés à l'article 2 du décret du 12 janvier 2017 concernant la coopération administrative dans le domaine fiscal et d'autres taxes indirectes, et à la lutte contre le blanchiment de capitaux et le financement du terrorisme, conformément à la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces ;
+
+2\. à l'établissement et au recouvrement d'autres taxes et droits relevant de l'article 2 du décret du 5 juillet 2012 transposant la Directive 2010/24/UE du Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures, et pour établir et recouvrer des cotisations sociales obligatoires ;
+
+3\. à l'occasion de procédures judiciaires et administratives pouvant entraîner des sanctions, engagées à la suite d'infractions à la législation en matière fiscale, sans préjudice des règles générales et des dispositions légales régissant les droits des prévenus et des témoins dans le cadre de telles procédures.
+
+Avec l'autorisation de l'autorité compétente étrangère qui a communiqué les informations conformément à la directive et pour autant que cela soit autorisé par le droit applicable en Communauté française, les informations et documents reçus de cette autorité peuvent être utilisés à des fins autres que celles visées à l'alinéa 2. L'autorité compétente belge qui reçoit les informations et les documents peut toutefois utiliser les informations et documents reçus sans obtenir l'autorisation susvisée :
+
+1\. pour l'une des finalités énumérées par l'Etat membre qui communique les informations, lorsque l'autorité compétente de ce dernier Etat membre a communiqué aux autorités compétentes de tous les autres Etats membres une liste des finalités autres que celles visées à l'alinéa 2, pour lesquelles, conformément à son droit national, des informations et documents peuvent être utilisés ;
+
+2\. pour toute finalité relevant d'un acte fondé sur l'article 215 du traité sur le fonctionnement de l'Union européenne, pour autant que cette utilisation constitue une mesure nécessaire et proportionnée pour préserver un objectif visé à l'article 23, paragraphe 1er, du règlement (UE) 2016/679, et les partager à cette fin avec l'autorité compétente chargée des mesures restrictives dans l'Etat membre concerné.
+
+Lorsque l'autorité compétente belge estime que les informations qu'elle a reçues d'une autorité compétente étrangère sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées à l'alinéa 2, elle informe l'autorité compétente de l'Etat membre à l'origine des informations de son intention de communiquer ces informations à un troisième Etat membre. Si l'autorité compétente de l'Etat membre à l'origine des informations ne s'oppose pas dans un délai de quinze jours civils à compter de la date de réception de la communication à cet échange d'informations, l'autorité compétente belge peut transmettre les informations à l'autorité compétente étrangère du troisième Etat membre à condition qu'elle respecte les règles et procédures fixées dans les articles précédents.
+
+Lorsque l'autorité compétente belge estime que les informations transmises par une autorité compétente étrangère conformément à l'alinéa 4 peuvent être utiles pour les fins visées à l'alinéa 3, elle demande pour ce faire, l'autorisation à l'autorité compétente de l'Etat membre d'où proviennent ces informations.
+
+Les informations, rapports, attestations et tous autres documents, ou les copies certifiées conformes ou extraits de ces derniers, obtenus par l'autorité requise et transmis à l'autorité compétente belge requérante conformément au présent article sont invoqués comme éléments de preuve par les instances compétentes belges au même titre que les informations, rapports, attestations et tous autres documents équivalents fournis par une autre instance belge]<sup>2</sup>.
+
+§ 2. L'autorité compétente peut autoriser l'utilisation, dans l'Etat membre qui les reçoit, des informations communiquées conformément aux précédents articles, à d'autres fins que celles visées au paragraphe 1er alinéa 2 du présent article. L'autorité compétente donne l'autorisation à condition que leur utilisation soit possible en Communauté française à des fins similaires.
+
+Lorsque l'autorité étrangère considère que les informations qu'elle a reçues de l'autorité compétente sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées à au paragraphe1er alinéa 2 du présent article, l'autorité compétente peut autoriser cette autorité compétente étrangère à partager ces informations avec un troisième Etat. Si l'autorité compétente ne souhaite pas donner son autorisation, elle signifie son refus dans un délai de dix jours à compter de la date de réception de la communication par l'Etat membre qui souhaite partager les informations.
+
+Lorsque l'autorité étrangère considère que les informations qu'elle a reçues de l'autorité compétente sont susceptibles d'être utiles à l'autorité compétente étrangère d'un troisième Etat membre pour les fins visées au paragraphe 1er alinéa 3 du présent article, l'autorité compétente peut accorder la permission à l'autorité compétente étrangère de communiquer ces informations à un troisième Etat membre.
+
+§ 3. [<sup>1</sup> Préalablement à la demande d'informations visée à l'article 3, § 1er, l'autorité compétente doit d'abord avoir exploité les sources habituelles d'information auxquelles elle peut avoir recours pour obtenir les informations demandées sans risquer de nuire à la réalisation du but recherché.
+
+Préalablement à la demande d'informations visée à l'article 3, § 2, l'autorité compétente étrangère doit d'abord avoir exploité les sources habituelles d'information auxquelles elle peut avoir recours pour obtenir les informations demandées sans risquer de nuire à la réalisation du but recherché. ]<sup>1</sup>
+
+§ 4. L'autorité compétente n'est pas autorisée à procéder à des enquêtes ou de transmettre des informations dès lors que la réalisation de telles enquêtes ou la collecte des informations en question aux propres fins de la Communauté française serait contraire à sa législation.
+
+L'autorité compétente peut refuser de transmettre des informations lorsque :
+
+1° l'Etat membre requérant n'est pas en mesure, pour des raisons juridiques, de fournir des informations similaires;
+
+2° cela conduirait à divulguer un secret commercial, industriel ou professionnel ou un procédé commercial, ou une information dont la divulgation serait contraire à l'ordre public.
+
+L'autorité compétente informe l'autorité requérante des motifs du rejet de la demande d'informations.
+
+§ 5. L'autorité compétente met en oeuvre son dispositif de collecte de renseignements afin d'obtenir les informations demandées, même si ces dernières ne lui sont pas nécessaires pour ses propres besoins fiscaux. Cette obligation s'applique sans préjudice du paragraphe 4 alinéas 1et 2, dont les dispositions ne sauraient en aucun cas être interprétées comme autorisant la Communauté française à refuser de fournir des informations au seul motif que ces dernières ne présentent pour elle aucun intérêt.
+
+Le paragraphe 4 alinéas 1 et 2, ne saurait en aucun cas être interprété comme autorisant l'autorité compétente à refuser de fournir des informations au seul motif que ces informations sont détenues par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu'agent ou fiduciaire, ou qu'elles se rapportent à une participation au capital d'une personne.
+
+Nonobstant l'alinéa 2 l'autorité compétente peut refuser de transmettre des informations demandées lorsque celles-ci portent sur des périodes imposables antérieures au 1er janvier 2011 et que la transmission de ces informations aurait pu être refusée sur la base de l'article 8, point 1er, de la directive 77/799/CE si elle avait été demandée avant le 11 mars 2011.
+
+[<sup>2</sup> L'autorité compétente belge met en place un mécanisme efficace pour garantir l'utilisation des informations obtenues dans le cadre de la déclaration ou de l'échange d'informations au titre des articles 1 à 5/15.]<sup>2</sup>
+
+§ 6. Lorsque la Communauté française offre à un pays tiers une coopération plus étendue que celle prévue par la directive, elle ne peut pas refuser cette coopération étendue à un Etat membre souhaitant prendre part à une telle forme de coopération mutuelle plus étendue.
+
+§ 7. [<sup>1</sup>. Les demandes d'informations et d'enquêtes administratives introduites en vertu de l'article 3 alinéa 1er ainsi que les réponses correspondantes, les accusés de réception, les demandes de renseignements de caractère général et les déclarations d'incapacité ou de refus au titre de l'article 4 sont, dans la mesure du possible, transmis au moyen d'un formulaire type adopté par la Commission. Les formulaires types peuvent être accompagnés de rapports, d'attestations et de tous autres documents, ou de copies certifiées conformes ou extraits de ces derniers.
+
+Les formulaires types visés à l'alinéa 1er du présent paragraphe comportent au moins les informations ci-après, que doit fournir l'autorité requérante:
+
+a) l'identité de la personne faisant l'objet d'un contrôle ou d'une enquête et, dans le cas de demandes concernant un groupe visé à l'article 3, § 4, une description détaillée du groupe;
+
+b) la finalité fiscale des informations demandées.
+
+L'autorité compétente peut, dans la mesure où ils sont connus et conformément à l'évolution de la situation internationale, fournir les noms et adresses de toutes les personnes dont il y a lieu de penser qu'elles sont en possession des informations demandées, ainsi que tout élément susceptible de faciliter la collecte des informations par l'autorité requise.
+
+Les informations échangées spontanément et l'accusé de réception les concernant, au titre, respectivement, de l'article 6, alinéas 1er et 4, les demandes de notification administrative au titre de l'article 7/2, les retours d'information au titre de l'article 7/3, les communications au titre du § 1er, alinéas 3, 4 et 5, et les communications au titre de l'article 9, alinéa 2, sont transmis à l'aide du formulaire type adopté par la Commission.
+
+Les échanges automatiques d'informations au titre de l'article 5 et de l'article 5/4 sont effectués dans un format informatique standard conçu pour faciliter cet échange automatique et basé sur le format informatique existant en vertu de l'article 9 de la Directive 2003/48/CE du Conseil du 3 juin 2003 en matière de fiscalité des revenus de l'épargne sous forme de paiement d'intérêt, qui doit être utilisé pour tous les types d'échanges automatiques d'informations et qui est adopté par la Commission européenne ]<sup>1</sup>.
+
+§ 8.Les informations communiquées au titre du présent article sont, dans la mesure du possible, fournies par voie électronique au moyen du réseau CCN.
+
+L'autorité compétente veille à ce que chaque personne physique devant faire l'objet d'une déclaration soit informée de tout manquement à la sécurité concernant ses données lorsque ces manquements sont susceptibles de porter atteinte à la protection de ses données à caractère personnel ou de sa vie privée.
+
+Les demandes de coopération, y compris les demandes de notification et les pièces annexées, peuvent être rédigées dans toute langue choisie d'un commun accord par l'autorité requise et l'autorité requérante. Lesdites demandes ne sont accompagnées d'une traduction dans l'une des langues officielles de la Belgique que dans des cas particuliers et à condition que l'autorité compétente motive sa demande de traduction.
+
+[<sup>2</sup> § 9. L'autorité compétente belge exige que le NIF des personnes physiques ou entités déclarées délivré par l'Etat membre de résidence soit déclaré par l'entité déclarante ou la personne physique déclarante et communiqué par chaque Etat membre lorsque les articles 2 à 5/15 l'exigent explicitement, et conformément à ceux-ci.]<sup>2</sup>
+
+[<sup>3</sup> § 10. L'autorité compétente belge conserve les registres contenant les informations reçues dans le cadre de l'échange automatique d'informations conformément aux articles 2 à 5/15 pendant une période limitée au strict nécessaire mais, en tout état de cause, d'une durée d'au moins cinq ans et d'au plus dix ans à compter de la date de leur réception, dans le but d'atteindre les objectifs des articles 2 à 10/3.
+
+§ 11. L'autorité compétente belge veille à ce que l'entité déclarante soit autorisée à obtenir confirmation par voie électronique de la validité des informations relatives au NIF de tout contribuable faisant l'objet de l'échange d'informations conformément aux articles 5 à 5/15. La confirmation des informations relatives au NIF ne peut être demandée qu'aux fins de la validation de l'exactitude des données visées à l'article 5, § 1er, à l'article 5/1, § 5, à l'article 5/2, § 14, à l'article 5/4, § 2, et à l'article 5/10, § 2.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2023-03-30/27, art. 12, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 19, 005; En vigueur : 01-01-2026&gt;
+
+(3)&lt;DCFR 2026-06-11/14, art. 19.4, 005; En vigueur : 01-01-2028&gt;
+
+## Section VIII. - Relations avec les pays tiers
+
+#### Art. 9
+
+Lorsque des informations vraisemblablement pertinentes pour l'administration et l'application de la législation de la Communauté française relative à l'ensemble des taxes et impôts perçus par la Communauté française ou pour son compte, par ses subdivisions territoriales ou administratives ou pour leur compte, y compris les autorités locales sont communiquées par un pays tiers à l'autorité compétente, cette dernière peut, dans la mesure où un accord avec ce pays tiers l'autorise, transmettre ces informations aux autorités compétentes des Etats membres auxquels ces informations pourraient être utiles et à toute autorité compétente étrangère qui en fait la demande.
+
+L'autorité compétente peut, en tenant compte de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel, transmettre à un pays tiers, conformément aux dispositions belges applicables en Communauté française, à la communication de données à caractère personnel à des pays tiers, les informations obtenues en application du présent article, pour autant que l'ensemble des conditions suivantes soient remplies :
+
+a) l'autorité compétente étrangère de l'Etat membre d'où proviennent les informations a donné son accord préalable;
+
+b) le pays tiers concerné s'est engagé à coopérer pour réunir des éléments prouvant le caractère irrégulier ou illégal des opérations qui paraissent être contraires ou constituer une infraction à la législation fiscale. "
+
+Entrée en vigueur
+
+## Section IX. [<sup>1</sup> . - Sanctions ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2020-11-12/22, art. 8, 003; En vigueur : 01-07-2020&gt;
+
+#### Art. 10
+
+[<sup>1</sup> § 1er. [<sup>3</sup> Une amende fiscale de 2 500 EUR à 25 000 EUR est appliquée pour toute infraction :
+
+a. à l'article 5/2 du présent décret qui consiste à ne pas fournir, à fournir de manière incomplète ou à fournir tardivement des informations visées à l'article 5/2, paragraphe 14 ;
+
+b. aux articles 5/4 à 5/6, qui consiste à ne pas remplir les obligations de déclaration y énoncées, ou à les remplir de manière incomplète ou tardivement ;
+
+c. aux articles 5/10 à 5/13, qui consiste à ne pas remplir les obligations de déclaration y énoncées, ou à les remplir de manière incomplète ou tardivement ;
+
+d. à l'article 5/3, § 1er, point A., 4°, b), et § 2, 1° et 7°, qui consiste à ne pas se conformer à l'obligation d'enregistrement y prévue, ou à s'y conformer de manière incomplète ou tardivement, ou lorsque l'enregistrement a été révoqué ;
+
+e. à l'article 5/10, § 1er, 3°, b), et § 2, 1° et 6°, qui consiste à ne pas se conformer à l'obligation d'enregistrement y prévue, ou à s'y conformer de manière incomplète ou tardivement, ou lorsque l'enregistrement a été révoqué.
+
+Toutefois, si l'infraction a été commise avec une intention frauduleuse ou à dessein de nuire, une amende fiscale de 5 000 euros à 50 000 euros est appliquée.
+
+Le Gouvernement est habilité à déterminer les échelles d'amendes fiscales prévues à l'alinéa 1er et prévoit qu'il est renoncé à l'amende fiscale visée à l'alinéa 1er uniquement pour la première infraction commise de bonne foi]<sup>3</sup>.
+
+§ 2. Les amendes visées au § 1er sont établies et recouvrées de la même manière que les impôts dont la Communauté française assure le service.
+
+§ 3. Le service désigné par le Gouvernement statue en premier et dernier ressort sur les requêtes ayant pour objet la remise ou modération des amendes visées au § 1er.
+
+Les requêtes visées à l'alinéa 1er sont introduites, par écrit motivé auprès du service désigné par le Gouvernement par les redevables ou les personnes sur les biens desquels les amendes visées au § 1er sont mises en recouvrement.
+
+Est irrecevable, toute requête visée à l'alinéa 1er introduite lorsque :
+
+1° les délais de recours administratifs éventuellement applicables ne sont pas expirés, ou ;
+
+2° la phase contentieuse administrative éventuellement applicable n'est pas clôturée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2020-11-12/22, art. 8, 003; En vigueur : 01-07-2020&gt;
+
+(2)&lt;DCFR 2023-03-30/27, art. 13, 004; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFR 2026-06-11/14, art. 20, 005; En vigueur : 01-01-2026&gt;
+
+## Section X. [<sup>1</sup> Protection des données ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 14, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 10/1
+
+[<sup>1</sup> . § 1er. Tous les échanges d'informations au titre du présent décret sont soumis au Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+
+§ 2. [<sup>2</sup> Les responsables du traitement des données à caractère personnel pour l'application des articles 2 à 10/3 sont :
+
+1° les intermédiaires, les Opérateurs de Plateformes déclarants et les Prestataires de services sur Crypto-actifs déclarants, chacun pour ce qui concerne la collecte et la vérification des données à caractère personnel qu'ils sont tenus de communiquer en vertu des articles 5/2, 5/4 à 5/6, 5/11, 5/13 et 5/14 ;
+
+2° la Direction Générale du Budget et des Finances du Ministère de la Communauté française, en sa qualité d'autorité compétente au sens de l'article 2, § 1er, alinéa 7, 6°, pour la réception, la conservation et l'échange des données à caractère personnel avec les autorités compétentes des autres Etats membres.
+
+Lorsque les responsables du traitement visés à l'alinéa 1er, 1° et 2°, déterminent conjointement les finalités et les moyens d'un traitement de données à caractère personnel, ils agissent en tant que responsables conjoints du traitement conformément à l'article 26 du règlement (UE) 2016/679.
+
+Le traitement des données à caractère personnel par la Commission européenne pour le compte de l'autorité compétente belge visée à l'alinéa 1er, 2°, est régi par un contrat conformément à l'article 28, paragraphe 3, du règlement (UE) 2016/679 et à l'article 29, paragraphe 3, du règlement (UE) 2018/1725 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les institutions, organes et organismes de l'Union et à la libre circulation de ces données]<sup>2</sup>.
+
+[<sup>2</sup> Les catégories de données à caractère personnel traitées dans le cadre de l'alinéa 1er sont celles énumérées aux articles 5, 5/1, 5/2, 5/4 à 5/6, 5/11, 5/13 et 5/14 du présent décret, en fonction des finalités de traitement poursuivies]<sup>2</sup>.
+
+§ 3. Dans le cadre de l'article 5/2, la finalité de ce traitement est l'échange de ces informations entre Etats membres aux fins, notamment, de permettre aux administrations fiscales d'avoir un aperçu en amont des planifications fiscales à caractère potentiellement agressif, de permettre la détection de risque de certains dossiers et de créer un effet dissuasif à l'égard de la planification successorale, le tout dans le cadre fiscal.
+
+Dans le cadre des dispositions du présent décret autres que l'article 5/2, la finalité de ce traitement est l'échange de ces informations entre Etats membres aux fins, notamment, d'exécuter les missions légales de la Direction Générale du Budget et des Finances, en ce qui concerne la perception, les investigations, les contrôles, l'établissement, le recouvrement et le contentieux en matière d'impôts dont la Communauté française assure le service. Plus généralement, il s'agit de servir un intérêt public général, à savoir les questions fiscales et les objectifs de lutte contre la fraude et l'évasion fiscales, de préservation des recettes fiscales et de promotion d'une fiscalité équitable, lesquels renforcent les possibilités d'inclusion sociale, politique et économique dans les Etats membres.
+
+§ 4. [<sup>2</sup> Les données à caractère personnel qui résultent des traitements prévus au présent décret ne sont pas conservées plus longtemps que nécessaire au regard des finalités pour lesquelles elles sont traitées, avec une durée maximale de conservation ne pouvant excéder un an après la prescription de toutes les actions qui relèvent de la compétence du responsable du traitement visé au paragraphe 2, alinéa 1er, et, le cas échéant, la cessation définitive des procédures et recours administratifs, judiciaires et extrajudiciaires découlant du traitement de ces données, ainsi que du paiement intégral de tous les montants y liés]<sup>2</sup>.
+
+§ 5. Les agents de la Direction Générale du Budget et des Finances et les membres du personnel des tiers dûment habilités n'accèdent aux dossiers, aux données et aux applications électroniques que dans la mesure où cet accès est adéquat, pertinent et non excessif au regard de l'exécution des tâches qui leur sont confiées dans le cadre des missions légales visées au § 3.
+
+§ 6. [<sup>2</sup> Chaque intermédiaire, Opérateur de Plateformes déclarant ou Prestataire de services sur Crypto-actifs déclarant, selon le cas, qui relève du territoire de la Communauté française :
+
+1° informe chaque personne physique concernée que des informations le concernant seront recueillies et transférées conformément aux articles 2 à 10/3 ;
+
+2° transmet à chaque personne physique concernée toutes les informations auxquelles elle peut avoir accès qui proviennent du responsable du traitement dans un délai suffisant pour lui permettre d'exercer ses droits en matière de protection des données et, en tout état de cause, avant que les informations ne soient déclarées]<sup>2</sup>.
+
+Nonobstant le premier alinéa, b), les Opérateurs de Plateformes déclarants sont tenus d'informer les Vendeurs de déclarer de la Contrepartie déclarée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 14, 004; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFR 2026-06-11/14, art. 21, 005; En vigueur : 01-01-2026&gt;
+
+#### Art. 10/2
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 10/1, § 1er, et aux articles 13 et 14, du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (Règlement général sur la protection des données), le droit d'information peut être retardé, limité ou exclu s'agissant des traitements de données à caractère personnel dont la Direction Générale du Budget et des Finances est le responsable du traitement afin de garantir les objectifs d'intérêt public dans le domaine budgétaire, monétaire et fiscal et pour autant que l'article 14, § 5, d), dudit Règlement ne puisse être invoqué dans le cas d'espèce.
+
+Les traitements visés à l'alinéa 1er sont ceux dont la finalité est la préparation, l'organisation, la gestion et le suivi des enquêtes menées par les services compétents de la Direction Générale du Budget et des Finances, en ce compris les procédures visant à l'application éventuelle d'une amende administrative ou sanction administrative.
+
+§ 2. Ces dérogations valent durant la période pendant laquelle la personne concernée fait l'objet d'un contrôle ou d'une enquête ou d'actes préparatoires à ceux-ci effectués par les services précités dans le cadre de l'exécution de leurs missions légales ainsi que durant la période durant laquelle sont traités les pièces provenant de ces services, en vue d'exercer les poursuites en la matière.
+
+Ces dérogations valent dans la mesure où l'application de ce droit nuirait aux besoins du contrôle, de l'enquête ou des actes préparatoires ou risque de violer le secret de l'enquête pénale ou la sécurité des personnes.
+
+La durée des actes préparatoires, visés à l'alinéa 2, pendant laquelle les articles 13 et 14 du Règlement général sur la protection des données ne sont pas applicables, ne peut excéder un an à partir de la réception d'une demande concernant la communication d'informations à fournir en application de ces articles 13 et 14 dudit Règlement.
+
+La restriction visée au § 1er, alinéa 1er, ne vise pas les données qui sont étrangères à l'objet de l'enquête ou du contrôle justifiant le refus ou la limitation d'information.
+
+§ 3. Dès réception d'une demande concernant la communication d'informations à fournir visée au § 2, alinéa 3, le délégué à la protection des données du responsable du traitement en accuse réception.
+
+Le délégué à la protection des données du responsable du traitement informe la personne concernée par écrit, dans les meilleurs délais, et en tout état de cause dans un délai d'un mois à compter de la réception de la demande, de tout refus ou de toute limitation d'information, ainsi que des motifs du refus ou de la limitation. Ces informations concernant le refus ou la limitation peuvent ne pas être fournies lorsque leur communication risque de compromettre l'une des finalités énoncées au § 1er, alinéa 2. Au besoin, ce délai peut être prolongé de deux mois, compte tenu de la complexité et du nombre de demandes. Le responsable du traitement informe la personne concernée de cette prolongation et des motifs du report dans un délai d'un mois à compter de la réception de la demande.
+
+Le délégué à la protection des données du responsable du traitement informe la personne concernée des possibilités d'introduire une réclamation auprès de l'Autorité de protection des données et de former un recours juridictionnel.
+
+Le délégué à la protection des données du responsable du traitement consigne les motifs de fait ou de droit sur lesquels se fonde la décision. Ces informations sont mises à la disposition de l'Autorité de protection des données.
+
+Lorsque la Direction Générale du Budget et des Finances a fait usage de l'exception telle que déterminée au § 1er, alinéa 1er, et à l'exception des situations visées aux alinéas 6 et 7, la règle de l'exception est immédiatement levée après la clôture du contrôle ou de l'enquête. Le délégué à la protection des données du responsable du traitement en informe la personne concernée sans délai.
+
+Lorsqu'un dossier est transmis à l'autorité judiciaire, les droits de la personne concernée ne sont rétablis qu'après autorisation de l'autorité judiciaire, ou après que la phase judiciaire soit terminée, et, le cas échéant, après que le service compétent ait pris une décision. Toutefois, les renseignements recueillis à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire ne peuvent être communiqués qu'avec l'autorisation expresse de celle-ci.
+
+Lorsqu'un dossier est transmis à un autre service de la Direction Générale du Budget et des Finances ou à l'institution compétente pour statuer sur les conclusions de l'enquête, les droits ne sont rétablis qu'après que ce service ou l'institution compétente ait statué sur le résultat de l'enquête. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 14, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 10/3
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 10/1, § 1er, et aux articles 13 et 14, du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (Règlement général sur la protection des données), le droit d'information peut être retardé, limité ou exclu s'agissant des traitements de données à caractère personnel dont la Direction Générale du Budget et des Finances est le responsable du traitement afin de garantir les objectifs d'intérêt public dans le domaine budgétaire, monétaire et fiscal et pour autant que l'article 14, § 5, d), dudit Règlement ne puisse être invoqué dans le cas d'espèce.
+
+Les traitements visés à l'alinéa 1er sont ceux dont la finalité est la préparation, l'organisation, la gestion et le suivi des enquêtes menées par les services compétents de la Direction Générale du Budget et des Finances, en ce compris les procédures visant à l'application éventuelle d'une amende administrative ou sanction administrative.
+
+§ 2. Ces dérogations valent durant la période pendant laquelle la personne concernée fait l'objet d'un contrôle ou d'une enquête ou d'actes préparatoires à ceux-ci effectués par les services précités dans le cadre de l'exécution de leurs missions légales ainsi que durant la période durant laquelle sont traités les pièces provenant de ces services, en vue d'exercer les poursuites en la matière.
+
+Ces dérogations valent dans la mesure où l'application de ce droit nuirait aux besoins du contrôle, de l'enquête ou des actes préparatoires ou risque de violer le secret de l'enquête pénale ou la sécurité des personnes.
+
+La durée des actes préparatoires, visés à l'alinéa 2, pendant laquelle les articles 13 et 14 du Règlement général sur la protection des données ne sont pas applicables, ne peut excéder un an à partir de la réception d'une demande concernant la communication d'informations à fournir en application de ces articles 13 et 14 dudit Règlement.
+
+La restriction visée au § 1er, alinéa 1er, ne vise pas les données qui sont étrangères à l'objet de l'enquête ou du contrôle justifiant le refus ou la limitation d'information.
+
+§ 3. Dès réception d'une demande concernant la communication d'informations à fournir visée au § 2, alinéa 3, le délégué à la protection des données du responsable du traitement en accuse réception.
+
+Le délégué à la protection des données du responsable du traitement informe la personne concernée par écrit, dans les meilleurs délais, et en tout état de cause dans un délai d'un mois à compter de la réception de la demande, de tout refus ou de toute limitation d'information, ainsi que des motifs du refus ou de la limitation. Ces informations concernant le refus ou la limitation peuvent ne pas être fournies lorsque leur communication risque de compromettre l'une des finalités énoncées au § 1er, alinéa 2. Au besoin, ce délai peut être prolongé de deux mois, compte tenu de la complexité et du nombre de demandes. Le responsable du traitement informe la personne concernée de cette prolongation et des motifs du report dans un délai d'un mois à compter de la réception de la demande.
+
+Le délégué à la protection des données du responsable du traitement informe la personne concernée des possibilités d'introduire une réclamation auprès de l'Autorité de protection des données et de former un recours juridictionnel.
+
+Le délégué à la protection des données du responsable du traitement consigne les motifs de fait ou de droit sur lesquels se fonde la décision. Ces informations sont mises à la disposition de l'Autorité de protection des données.
+
+Lorsque la Direction Générale du Budget et des Finances a fait usage de l'exception telle que déterminée au § 1er, alinéa 1er, et à l'exception des situations visées aux alinéas 6 et 7, la règle de l'exception est immédiatement levée après la clôture du contrôle ou de l'enquête. Le délégué à la protection des données du responsable du traitement en informe la personne concernée sans délai.
+
+Lorsqu'un dossier est transmis à l'autorité judiciaire, les droits de la personne concernée ne sont rétablis qu'après autorisation de l'autorité judiciaire, ou après que la phase judiciaire soit terminée, et, le cas échéant, après que le service compétent ait pris une décision. Toutefois, les renseignements recueillis à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire ne peuvent être communiqués qu'avec l'autorisation expresse de celle-ci.
+
+Lorsqu'un dossier est transmis à un autre service de la Direction Générale du Budget et des Finances ou à l'institution compétente pour statuer sur les conclusions de l'enquête, les droits ne sont rétablis qu'après que ce service ou l'institution compétente ait statué sur le résultat de l'enquête. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-30/27, art. 14, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 11
+
+Le présent décret entre en vigueur le 1er janvier 2013 à l'exception des articles 2, alinéa 4, 11°, article 5, alinéa 2, article 8, § 7, alinéa 5, article 8, § 8, alinéa 2 qui entrent en vigueur au 1er janvier 2016.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 12 janvier 2017.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de l'Aide à la jeunesse, des Maisons de justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT
+
+La Ministre de l'Enseignement de promotion sociale, de la Jeunesse, des Droits des femmes et de l'Egalité des chances,
+
+I. SIMONIS

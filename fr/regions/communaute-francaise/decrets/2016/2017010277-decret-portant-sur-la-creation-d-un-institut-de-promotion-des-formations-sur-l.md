@@ -1,0 +1,267 @@
+---
+title: "Décret portant sur la création d'un Institut de promotion des formations sur l'islam"
+identifier: "2017010277"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/14/2017010277/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2016-12-14
+published: 2017-01-25
+entry_into_force: 2016-10-01
+last_amended: 2025-09-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/14/2017010277/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 25-01-2017 et mise à jour au 12-09-2025"
+retrieved: 2026-10-12
+---
+
+# 14 DECEMBRE 2016. - Décret portant sur la création d'un Institut de promotion des formations sur l'islam
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## TITRE I. - Définition
+
+### Art. 1er
+
+Pour l'application du présent décret, il faut entendre par :
+
+1° [<sup>1</sup> Organe représentatif du culte islamique : l'organe reconnu par les autorités fédérales comme organe représentatif du culte islamique en Belgique]<sup>1</sup>;
+
+2° ARES : l'Académie de Recherche et d'Enseignement Supérieur visée à l'article 18 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études;
+
+3° Universités et Hautes Ecoles : les établissements visés aux articles 10 et 11 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études;
+
+4° Ministre : le ministre de la Communauté française qui a l'Enseignement supérieur dans ses attributions;
+
+----------
+
+(1)&lt;DCFR 2025-07-16/18, art. 61, 004; En vigueur : 14-09-2025&gt;
+
+## TITRE II. - Création et mission de l'Institut
+
+### Art. 2
+
+Il est créé un Institut de promotion des formations sur l'islam ci-après dénommé l'Institut. L'Institut est un organisme autonome doté de la personnalité juridique.
+
+Le Gouvernement fixe le siège de l'Institut.
+
+### Art. 3
+
+L'Institut a pour mission de :
+
+1\. identifier les formations existantes sur l'islam en Communauté française et plus largement en Belgique;
+
+2\. proposer, soutenir et financer des formations à destination des imams, des maîtres et professeurs de religion islamique, des conseillers islamiques, des acteurs socioculturels ou tout autre public intéressé par l'islam;
+
+3\. assurer la mise en réseau de ces formations;
+
+4\. organiser des conférences et des conférences-débats;
+
+5\. travailler à la création d'un Bachelier en sciences religieuses et sociales et d'un Master en théologie musulmane;
+
+6\. préparer les modifications à apporter aux dispositions législatives et règlementaires en vigueur;
+
+7\. préparer les accords de coopération nécessaires;
+
+8\. travailler à la création, soutenir et financer une " Chaire interuniversitaire d'islamologie pratique " annuelle visant l'analyse réflexive, critique, de la pensée arabo-musulmane dans ses dimensions historiques et contemporaines. Il appartient aux seules institutions d'enseignement de décider si les compétences dispensées dans le cadre de cette chaire interuniversitaire sont obligatoires, à quels types de publics elles se destinent, ainsi que leurs modalités d'évaluation;
+
+9\. poursuivre la réflexion au sujet de la création d'une " Faculté de théologie musulmane ", en collaboration avec la Communauté flamande si possible.
+
+## TITRE III. - Organe de gestion de l'Institut
+
+### Art. 4
+
+§ 1. L'Institut est géré par un Comité de direction.
+
+Le Comité de direction est composé de :
+
+1° deux co-présidents désignés par le Gouvernement de la Communauté française;
+
+2° trois représentants désignés par [<sup>1</sup> l'organe représentatif du culte islamique]<sup>1</sup>;
+
+3° trois représentants des Universités et des Hautes Ecoles;
+
+4° un représentant du Ministre-Président de la Communauté française;
+
+5°[<sup>1</sup> un représentant du Ministre ayant l'Enseignement supérieur dans ses attributions
+
+6° un représentant du Ministre ayant la Recherche dans ses attributions]<sup>1</sup>;
+
+[<sup>1</sup> 7° le Président de l'ARES ;
+
+8° l'Administrateur de l'ARES]<sup>1</sup>.
+
+§ 2. Le Gouvernement arrête la composition du Comité de direction. Les membres visés au § 1er, 3°, sont désignés sur proposition de l'ARES.
+
+§ 3. Les membres du Comité de direction sont désignés pour une durée de 4 années et ont tous une voix délibérative. Leur mandat est renouvelable.
+
+----------
+
+(1)&lt;DCFR 2025-07-16/18, art. 62, 004; En vigueur : 14-09-2025&gt;
+
+### Art. 5
+
+Le Comité de direction est chargé de :
+
+1° fixer les orientations stratégiques et budgétaires de l'Institut;
+
+2° prendre toute décision en matière d'octroi de subsides de recherche et de formation, après avis du Comité scientifique;
+
+3° assurer la gestion administrative de l'Institut;
+
+4° proposer au Gouvernement la composition du Comité scientifique;
+
+5° arrêter les comptes et bilans de l'Institut, qui seront transmis au Gouvernement, puis au Parlement de la Communauté française.
+
+### Art. 6
+
+Le Comité de direction dispose de tous les pouvoirs nécessaires au fonctionnement de l'Institut et à l'exécution de ses missions.
+
+Il établit un budget et définit les besoins en personnel de l'Institut dans les limites des crédits disponibles. Dans ce cadre, il établit l'organigramme et fixe, par fonction, une analyse de fonction détaillée et un profil de compétence, dans un délai de trois mois à partir de son installation.
+
+### Art. 7
+
+§ 1. Le Comité de direction ne peut prendre de décision que si la majorité des membres sont présents. Si le quorum n'est pas atteint, le comité de direction peut délibérer et statuer valablement sur le même ordre du jour, quel que soit le nombre de membres présents dans un délai qui ne peut être inférieur à 72 heures.
+
+La convocation précisera la nature de cette réunion.
+
+Les décisions du Comité de direction sont prises à la majorité absolue des voix émises. Par voix émises on entend les votes pour et contre, à l'exclusion des abstentions. Le vote par procuration est admis.
+
+§ 2. Le vote se fait à main levée. Il peut toutefois être procédé au vote secret lorsque des décisions sont prises à l'égard de personnes.
+
+### Art. 8
+
+§ 1. Pour l'exécution de ses missions, l'Institut dispose d'un directeur et de personnel recruté par contrat. Il assiste avec voix consultative aux réunions du comité de direction et du comité scientifique visé à l'article 9.
+
+§ 2. Le directeur visé au § 1er est reconnu pour sa valeur scientifique et sa connaissance de la réalité du monde musulman dans toutes ses dimensions. Il coordonne les activités de l'Institut.
+
+§ 3.Le personnel est engagé par le Comité de direction dans les limites des crédits disponibles sur base de l'analyse de fonction visée à l'article 6.
+
+§ 4. Le Gouvernement arrête sur proposition du Comité de direction, le cadre, la rémunération et les indemnités du personnel de l'Institut. Le personnel est recruté par le Comité de direction.
+
+§ 5. Le personnel de l'Institut est placé sous l'autorité du Comité de direction et il exerce ses fonctions sous la responsabilité du directeur.
+
+### Art. 9
+
+§ 1. Il est institué un Comité scientifique dont les missions sont les suivantes :
+
+1° adresser au Comité de direction des propositions en matière de formation et recherche;
+
+2° établir les appels d'offre et les cahiers des charges des formations et des recherches;
+
+3° rendre des avis sur les projets de formation et de recherche.
+
+§ 2. Dans le cadre de ses missions, le Comité peut inviter des experts.
+
+§ 3. Le Comité scientifique est composé de :
+
+1° quatre personnalités issues des milieux académiques;
+
+2° quatre personnalités reconnues sur le plan scientifique ou intellectuel dans le domaine des études sur l'islam;
+
+3° les deux co-présidents du comité de direction, qui en assurent collégialement la présidence.
+
+§ 4. Le Gouvernement arrête, sur proposition du Comité de direction, la composition du Comité scientifique.
+
+### Art. 10
+
+Le Comité scientifique ne peut prendre de décision que si la majorité des membres sont présents. Si le quorum n'est pas atteint, le Comité scientifique peut délibérer valablement sur la même problématique, quel que soit le nombre de membres présents dans un délai qui ne peut être inférieur à 72 heures.
+
+Les décisions du Comité scientifique sont prises à la majorité absolue des voix émises. Par voix émises on entend les votes pour et contre, à l'exclusion des abstentions. Le vote par procuration est admis.
+
+### Art. 11
+
+§ 1. L'Institut adopte son règlement d'ordre intérieur à la majorité des membres du Comité de direction dans les deux mois de son installation.
+
+§ 2. Le règlement d'ordre intérieur prévoit, notamment, les points suivants :
+
+1° le nombre minimal de réunions par an, qui ne peut être inférieur à trois;
+
+2° la rédaction d'un procès-verbal des débats tenus lors de chaque réunion;
+
+3° le mode de transmission des documents aux membres.
+
+§ 3. Le Gouvernement approuve le règlement intérieur, ainsi que toute modification ultérieure y apportée.
+
+### Art. 12
+
+Le Comité de direction remet, au plus tard le premier décembre, un rapport de ses activités de l'année académique écoulée au Gouvernement qui le transmet ensuite au Parlement de la Communauté française.
+
+Il remet également, au plus tard le 1er juillet, un rapport financier relatif à l'année écoulée au Gouvernement, qui le transmet ensuite au Parlement de la Communauté française.
+
+## TITRE IV. - Contrôle
+
+### Art. 13
+
+&lt;Abrogé par DCFR 2023-10-05/21, art. 65, 002; En vigueur : 01-01-2024&gt;
+
+### Art. 14
+
+&lt;Abrogé par DCFR 2023-10-05/21, art. 65, 002; En vigueur : 01-01-2024&gt;
+
+## TITRE V. - Moyens de l'Institut
+
+### Art. 15
+
+Le Gouvernement alloue chaque année une subvention à l'Institut afin de couvrir les dépenses de personnel, de fonctionnement et d'équipement. Le montant de cette subvention est fixé à 400.000 euros en 2017. A partir de l'année 2018, dans les limites des crédits disponibles, le montant de la subvention est indexé chaque année sur base du montant définitif de la dotation de l'année antérieure, multiplié par le rapport entre l'indice santé du mois de janvier de l'année considérée et celui du mois de janvier de l'année antérieure.
+
+[<sup>1</sup> Pour l'année 2025, le montant obtenu en vertu de l'alinéa précèdent est diminué de 172.000 euros. A partir de cette même année et jusqu'à l'année 2029, le montant de la dotation reste fixe et n'est pas ajusté en fonction de l'indice santé ou de tout autre indice.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-07-16/16, art. 95, 003; En vigueur : 01-01-2025&gt;
+
+### Art. 16
+
+L'Institut peut, sur autorisation du Gouvernement, bénéficier :
+
+1° de financements octroyés par des autorités internationales, européennes, nationales, régionales et locales;
+
+2° de dons et de legs.
+
+En cas de dissolution de l'Institut, l'actif net, meuble et immeuble, sera remis à la Communauté française.
+
+## TITRE VI. - Disposition finale
+
+### Art. 17
+
+Le présent décret produit ses effets le 1er octobre 2016.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 14 décembre 2016.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de l'Aide à la jeunesse, des Maisons de justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT
+
+La Ministre de l'Enseignement de promotion sociale,
+
+de la Jeunesse, des Droits des femmes et de l'Egalité des chances,
+
+I. SIMONIS

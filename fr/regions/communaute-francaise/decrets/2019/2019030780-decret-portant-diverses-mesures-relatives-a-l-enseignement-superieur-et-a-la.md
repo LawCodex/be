@@ -1,0 +1,1171 @@
+---
+title: "Décret portant diverses mesures relatives à l'Enseignement supérieur et à la Recherche"
+identifier: "2019030780"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019030780/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2019-05-03
+published: 2019-08-02
+entry_into_force: 2019-09-14
+last_amended: 2024-05-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019030780/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 02-08-2019 et mise à jour au 30-05-2024"
+retrieved: 2026-10-12
+---
+
+# 3 MAI 2019. - Décret portant diverses mesures relatives à l'Enseignement supérieur et à la Recherche
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## CHAPITRE Ier. - Modifications du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études
+
+### Art. 1er
+
+A l'article 11 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études tel que modifié par le décret du 28 juin 2018, les modifications suivantes sont apportées :
+
+a) au 11°, les mots " Groupe ICHEC - ISC Saint-Louis - ISFSC " sont remplacés par les mots " ICHEC - ECAM - ISFSC ";
+
+b) le 13° est remplacé par ce qui suit : " 13° la Haute Ecole Bruxelles-Brabant ";
+
+c) le 16° est abrogé.
+
+### Art. 2
+
+A l'article 13 du même décret, les modifications suivantes sont apportées:
+
+a) au 10°, les mots " 1080 Bruxelles " sont remplacés par les mots " 5100 Namur ";
+
+b) le 21° est rétabli dans la rédaction suivante : " 21° Institut de Formation de cadres pour le développement à 1050 Bruxelles; ";
+
+c) le 23° est remplacé par ce qui suit : " 23° Institut Paul Hankar - Institut des technologies de la communication, de la construction et des métiers d'art à 1000 Bruxelles; ";
+
+d) le 24° est remplacé par ce qui suit : " 24° Institut Supérieur de Promotion Sociale Libre de Bruxelles - Ilya Prigogine, à 1070 Bruxelles; ";
+
+e) le 39° est remplacé par ce qui suit : " 39° Etablissement Communal d'Enseignement de Promotion sociale - Couillet à 6010 Couillet; ".
+
+### Art. 3
+
+A l'article 15 du même décret les modifications suivantes sont apportées :
+
+a) au 11°, les termes " complétant une formation préalable de bachelier " sont remplacés par " complétant une formation initiale préalable ";
+
+b) le 15° est abrogé;
+
+c) au 29°, les mots " 71. - § 2 " sont remplacés par " article 71, § 3 ";
+
+d) après le 35°, les mots " 35bis° étudiant en fin de cycle : étudiant qui a inscrit dans son programme annuel tous les crédits manquants pour être diplômé sont ajoutés;
+
+e) au 41°, les mots " reconnu par ce décret " sont remplacés par " reconnu par ce décret et attesté par un diplôme ".
+
+### Art. 4
+
+Dans le même décret, il est inséré un article 68/1 rédigé comme suit :
+
+" Art. 68/1. - Par dérogation à l'article 68 et aux conditions définies dans le règlement des études, les autorités académiques peuvent autoriser des personnes qui en font la demande à suivre isolément des unités d'enseignement et à en présenter les évaluations, en dehors d'une inscription régulière définie à l'article 103.
+
+Le nombre maximum de crédits associés à ces unités d'enseignement ne peut être supérieur à 20 par année académique.
+
+Le règlement des études fixe le montant des droits d'inscription aux unités d'enseignement visées à l'alinéa 1er. Ce montant est fixé proportionnellement au nombre de crédits afférents aux unités d'enseignement suivies, avec un minimum correspondant à dix crédits, et ne peut être supérieur au tiers du montant visé au 1er alinéa de l'article 105, § 1er.
+
+Les personnes visées à l'alinéa 1er ne se voient pas octroyer les crédits. Toutefois, aux conditions fixées dans le règlement des études, les jurys peuvent valoriser les unités d'enseignement visées à l'alinéa 1er pour autant que le seuil de réussite de l'évaluation visé à l'article 139 soit atteint. Cette valorisation est effectuée au moment de la validation du programme annuel de l'étudiant lors d'une inscription régulière.
+
+Cet article n'est pas applicable à l'enseignement supérieur de promotion sociale. ".
+
+### Art. 5
+
+A l'article 72, l'alinéa 1er est remplacé par ce qui suit : " A l'issue d'une formation initiale sanctionnée par le grade académique de bachelier ou de master, des études de spécialisation de premier cycle peuvent conduire à un autre grade académique de bachelier après la réussite, selon le programme d'études, d'au moins 60 crédits supplémentaires. ".
+
+### Art. 6
+
+Dans l'article 75, § 2 alinéa 5 du même décret, les mots " premier et de " sont insérés entre les mots " Pour les études de " et les mots " deuxième cycle ".
+
+### Art. 7
+
+Dans l'article 79 du même décret, les modifications suivantes sont apportées :
+
+a) il est inséré un § 1bis rédigé comme suit :
+
+" § 1bis. Dans l'enseignement supérieur en alternance, une unité d'enseignement peut être évaluée dès que son organisation est terminée. ";
+
+b) au § 2, les mots " Par exception au paragraphe précédent " sont remplacés par les mots " Par exception au paragraphe premier ".
+
+### Art. 8
+
+L'article 82, § 3 est complété par un alinéa supplémentaire libellé comme suit :
+
+" Pour les besoins de l'application de l'alinéa 2 aux programmes de codiplômation mis en oeuvre en application du décret du 7 février 2019 définissant la formation initiale des enseignants, pour proposer un programme en codiplômation, les établissements en Communauté française partenaires doivent prendre en charge chacun, dans le cadre de cette convention, au moins 15 pour-cent des activités d'apprentissage assurés par l'ensemble des opérateurs de formation de même forme d'enseignement qui sont parties à la convention de codiplômation concernée. ".
+
+### Art. 9
+
+A l'article 84 du même décret les modifications suivantes sont apportées:
+
+a) à l'alinéa 1, les mots " titre ou " sont abrogés;
+
+b) l'alinéa 3 est remplacé par ce qui suit: " Par exception au à l'alinéa 1er et pour des raisons motivées, le grade académique de brevet de l'enseignement supérieur, de bachelier de spécialisation ou de master de spécialisation peut être conféré par un établissement d'enseignement supérieur à un étudiant qui n'aurait suivi effectivement que 30 crédits du programme correspondant au moins et qui aurait été régulièrement inscrit aux études menant à ce grade pendant une année académique au moins. ".
+
+### Art. 10
+
+A l'article 93, alinéa 1er, du même décret, les mots " ou de master " sont remplacés par les mots ", de master ou de docteur ".
+
+### Art. 11
+
+A l'article 95 du même décret, les modifications suivantes sont apportées :
+
+a) au paragraphe 1er, l'alinéa 4 est abrogé;
+
+b) au paragraphe 2, l'alinéa 1er est complété par les mots " et les modalités d'intervention financière via les services mis à leur disposition dans l'établissement ".
+
+### Art. 12
+
+Dans le même décret, il est inséré un article 95/2 rédigé comme suit:
+
+" Art. 95/2. - § 1er. Toute fausse déclaration ou falsification dans la constitution d'un dossier d'admission ou d'inscription est constitutive de fraude à l'inscription et entraîne automatiquement, à l'encontre de la personne concernée, un refus d'inscription pour une durée de trois années académiques dans tout établissement d'enseignement supérieur de la Communauté française.
+
+L'établissement qui suspecte une fraude le notifie à la personne concernée. Celle-ci peut contester les faits allégués auprès des autorités compétentes, dans les quinze jours de cette notification. Au terme d'une procédure contradictoire orale ou écrite telle que définie dans le règlement des études, les autorités compétentes confirment ou non le refus d'inscription.
+
+Les établissements d'enseignement supérieur transmettent les noms des fraudeurs au Commissaire ou Délégué du Gouvernement près l'institution. Après vérification du respect de la procédure et de la réalité de la fraude, le Commissaire ou Délégué transmet ces noms à l'ARES chargée d'établir une base de données reprenant le nom des fraudeurs et gérée dans le respect de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel. L'effacement des fraudeurs de la liste se fait automatiquement après une période de trois années académiques.
+
+Les établissements d'enseignement supérieur notifient aux personnes concernées leur inscription dans la base de données et indiquent les modalités d'exercice des droits de recours.
+
+§ 2. Lorsqu'une fraude à l'inscription est découverte alors que la personne concernée est déjà inscrite comme étudiant, cette fraude entraîne une peine disciplinaire d'exclusion prononcée par l'organe compétent au sein de l'établissement concerné.
+
+Le nom de l'étudiant ainsi sanctionné est transmis au Commissaire ou Délégué du Gouvernement près l'institution. Après vérification du respect de la procédure et de la réalité de la fraude, le Commissaire ou Délégué transmet ce nom à l'ARES en vue de son inscription dans la base de données visée au § 1er, alinéa 3.
+
+L'exclusion implique automatiquement un refus d'inscription pour une durée de trois années académiques dans tout établissement d'enseignement supérieur de la Communauté française. Le délai de trois ans prend cours le premier jour de l'année académique durant laquelle la fraude est sanctionnée.
+
+La notification de la décision disciplinaire indique les modalités d'exercice des droits de recours.
+
+§ 3. En cas de fraude à l'inscription, l'étudiant perd immédiatement sa qualité d'étudiant régulièrement inscrit, ainsi que tous les droits liés à cette qualité et les effets de droit liés à la réussite d'épreuves durant l'année académique concernée. Les droits d'inscription versés à l'établissement d'enseignement supérieur sont définitivement acquis à celui-ci. ".
+
+### Art. 13
+
+A l'article 96 du même décret, les modifications suivantes sont apportées:
+
+a) au paragraphe 1er, les modifications suivantes sont apportées :
+
+1° à l'alinéa 1, les mots " 5 années académiques " sont remplacés par " trois années académiques ";
+
+2° à l'alinéa 2, les mots " par lettre recommandée ou contre reçu " sont remplacés par les mots " par pli recommandée, contre reçu ou par courriel à l'adresse électronique fournie par l'étudiant ";
+
+3° l'alinéa 3 est abrogé;
+
+b) au paragraphe 2, alinéa 1er, les mots " ou par courriel à l'adresse électronique fournie par l'étudiant " sont ajoutés après les mots " par pli recommandé ".
+
+### Art. 14
+
+Dans l'article 97 du même décret, les modifications suivantes sont apportées :
+
+a) au paragraphe 1er, les mots " un membre du personnel de l'ARES en assume le secrétariat " sont remplacés par les mots " un ou plusieurs membres du personnel de l'ARES en assument le secrétariat ";
+
+b) au paragraphe 3, l'alinéa 3 est remplacé par ce qui suit:
+
+" Après la notification du rejet du recours interne vise[00cc][0081] a[00cc][0080] l'article 96, § 2, l'étudiant a quinze jours ouvrables pour contester la décision prise a[00cc][0080] l'issue de cette procédure devant ladite commission. Sous peine d'irrecevabilité, la requête doit :
+
+\- être introduite par pli recommande[00cc][0081] ou en annexe a[00cc][0080] un courriel, indiquer clairement l'identité et le domicile de l'étudiant et l'objet précis de sa requête,
+
+\- être revêtue de sa signature
+
+\- et contenir en annexe copie du recours interne, de la décision qui en a résulté, de sa notification à l'étudiant.
+
+L'étudiant joint également tous les éléments et toutes les pièces qu'il estime nécessaires pour motiver son recours. L'étudiant peut également mentionner ses coordonnées téléphoniques et son adresse électronique personnelle. "
+
+c) au paragraphe 3, l'alinéa 4 est remplacé par ce qui suit:
+
+" Elle vérifie le caractère adéquat de la motivation formelle de la décision et se prononce dans les quinze jours ouvrables à dater de la réception de la plainte. Si des éléments de nature à influencer favorablement la demande d'inscription n'ont pas été pris en compte lors de ce recours interne, elle invalide la décision. "
+
+### Art. 15
+
+L'article 98 du même décret est abrogé.
+
+### Art. 16
+
+L'article 100 du même décret est remplacé par ce qui suit:
+
+" § 1er. Le programme annuel d'un étudiant qui s'inscrit pour la première fois à un premier cycle correspond obligatoirement aux 60 premiers crédits du programme d'études, sauf allègement prévu à l'article 151.
+
+S'il bénéficie de crédits acquis ou valorisés pour des unités d'enseignement de ce programme, il peut compléter son inscription d'activités de remédiation ou complémentaires visant à accroître ses chances de réussite, conformément à l'article 148.
+
+L'étudiant qui a acquis ou valorisé au moins 30 crédits parmi les 60 premiers crédits de son programme d'études, peut compléter son programme annuel, moyennant l'accord du jury, d'unités d'enseignement de la suite du programme du cycle pour lesquelles il remplit les conditions prérequises, sans que la charge annuelle de son programme n'excède 60 crédits du programme du cycle.
+
+L'étudiant qui a acquis ou valorisé au moins 45 crédits parmi ces 60 premiers crédits du programme d'études, peut compléter son programme annuel d'unités d'enseignement de la suite du programme du cycle conformément aux dispositions générales du paragraphe 2 du présent article.
+
+§ 2. Au-delà des 60 premiers crédits du programme d'études de premier cycle, le programme annuel d'un étudiant comprend :
+
+1° les unités d'enseignement du programme d'études auxquelles il avait déjà été inscrit et dont il n'aurait pas encore acquis les crédits correspondants, à l'exception des unités optionnelles du programme qui avaient été choisies par l'étudiant qu'il peut délaisser;
+
+2° des unités d'enseignement de la suite du programme du cycle, pour lesquelles il remplit les conditions prérequises.
+
+§ 3. Le programme annuel de tout étudiant est soumis à l'accord du jury qui veille au respect des prérequis et corequis et à ce que la charge annuelle de l'étudiant soit au moins de 60 crédits, sauf en fin de cycle ou en cas d'allègement prévu à l'article 151.
+
+Sur décision individuelle fondée sur le parcours de l'étudiant, et pour lui permettre la poursuite d'études avec une charge annuelle suffisante, un prérequis peut être transformé en corequis.
+
+§ 4. Par dérogation au paragraphe 3, par décision individuelle et motivée, le jury peut proposer et valider un programme annuel inférieur à 60 crédits dans les cas suivants :
+
+a) en cas de coorganisation avec des établissements d'enseignement supérieur hors communauté française ou en cas de mobilité;
+
+b) lorsque, pour atteindre le minimum de 60 crédits visé au paragraphe 3, il faudrait inscrire au programme annuel de l'étudiant des unités d'enseignement pour lesquelles il n'a pas encore acquis des prérequis qui ne peuvent pas être transformés en corequis;
+
+c) pour des raisons pédagogiques et/ou organisationnelles dûment motivées, sans que ce programme ne puisse être inférieur à 55 crédits;
+
+d) lorsque, dans l'enseignement supérieur artistique, pour atteindre le minimum de 60 crédits, il faudrait inscrire au programme annuel de l'étudiant une unité d'enseignement de la catégorie des cours artistiques pour laquelle, soit l'étudiant n'a pas encore acquis les prérequis, soit les conditions organisationnelles ne peuvent être rencontrées.
+
+§ 5. Par dérogation aux dispositions des paragraphes précédents, l'inscription aux études de troisième cycle porte sur l'ensemble du programme, tandis que celle aux études de formation continue porte sur un programme personnalisé établi conformément aux dispositions de l'article 151.
+
+§ 6. En fin de cycle, l'étudiant qui doit encore acquérir ou valoriser plus de 15 crédits du programme d'études du premier cycle, peut compléter son programme annuel avec des unités d'enseignement du cycle suivant pour lesquelles il remplit les conditions prérequises et moyennant l'accord du jury de ce cycle d'études.
+
+Il reste inscrit dans le premier cycle d'études. Toutefois, aux fins de l'acquisition ou de la valorisation des unités d'enseignement du deuxième cycle, il est réputé être inscrit dans le deuxième cycle.
+
+L'étudiant paie les droits d'inscription du premier cycle et est dispensé du paiement des droits d'inscription du deuxième cycle.
+
+Le programme annuel de l'étudiant est validé par chacun des jurys pour ce qui le concerne sans qu'il ne puisse dépasser 75 crédits.
+
+L'étudiant qui n'a pas acquis son grade de premier cycle ne peut inscrire à son programme annuel les crédits du deuxième cycle qui correspondent à son mémoire ou travail de fin d'études.
+
+Pour cet étudiant, les unités d'enseignement du premier cycle sont délibérées par le jury du premier cycle et les unités d'enseignement du deuxième cycle sont délibérées par le jury du deuxième cycle.
+
+§ 7. En fin de cycle, l'étudiant qui doit encore acquérir ou valoriser 15 crédits au plus du programme d'études du premier cycle, peut compléter son programme annuel avec des unités d'enseignement du cycle suivant pour lesquelles il remplit les conditions prérequises.
+
+Il est inscrit dans le deuxième cycle d'études, toutefois, aux fins de l'acquisition ou de la valorisation des unités d'enseignement du premier cycle, il est réputé être inscrit dans le premier cycle.
+
+L'étudiant paie les droits d'inscription du deuxième cycle et est dispensé du paiement des droits d'inscription du premier cycle.
+
+L'étudiant qui n'a pas acquis son grade de premier cycle ne peut inscrire à son programme annuel les crédits du deuxième cycle qui correspondent à son mémoire ou travail de fin d'études.
+
+Pour cet étudiant, les unités d'enseignement du premier cycle sont délibérées par le jury du premier cycle et les unités d'enseignement du deuxième cycle sont délibérées par le jury du deuxième cycle.
+
+### Art. 17
+
+A l'article 102 du même décret, les modifications suivantes sont apportées :
+
+a) au paragraphe 1er, alinéa 1er, les modifications suivantes sont apportées :
+
+1° les mots " 10% du montant des droits d'inscription " sont remplacés par les mots " un acompte de 50 euros ";
+
+2° les mots " conformément au calendrier fixé à l'article 101 " sont abrogés;
+
+3° les mots " ainsi que les modalités d'intervention financière via les services à leur disposition dans l'établissement " sont insérés entre les mots " quinze jours " et les mots " si, à la date du 31 octobre ";
+
+4° à la dernière phrase, les mots " les 10% du montant des droits d'inscription " sont remplacés par les mots " l'acompte de 50 euros ";
+
+b) au paragraphe 1er, alinéas 2 et 3, les mots " 4 janvier " sont remplacés par les mots " 1er février ";
+
+c) le paragraphe 2 est remplacé par ce qui suit :
+
+" Une inscription peut être annulée à la demande expresse de l'étudiant avant le premier décembre. Seul l'acompte de 50 euros reste dû, sans préjudice du paragraphe 1er, alinéas 2 et 3.
+
+Si, au cours de la même année académique, l'étudiant annule son inscription à une première année d'un premier cycle et introduit, postérieurement au 31 octobre et jusqu'au 15 février, une nouvelle demande d'inscription à un autre cursus ou auprès d'un autre établissement, cette demande sera assimilée à une demande de réorientation visée au § 3.
+
+En cas d'acceptation de cette demande, l'étudiant reste redevable, vis-à-vis de l'établissement auprès duquel il a annulé son inscription, de l'intégralité des droits d'inscription. ".
+
+### Art. 18
+
+L'article 107, alinéa 2, du même décret est remplacé par ce qui suit:
+
+" Sous réserve d'autres dispositions particulières, ont accès aux études de bachelier de spécialisation les titulaires :
+
+1° d'un diplôme de bachelier ou de master dont la liste est définie et tenue a[00cc][0080] jour par le Gouvernement, après consultation de l'ARES;
+
+2° soit d'un diplôme délivré en Communauté flamande ou germanophone similaire à un diplôme visé au littera 1°. Cette similarité est appréciée par les autorités de la Haute Ecole;
+
+3° soit d'un diplôme étranger reconnu équivalent à un diplôme visé au littera 1° par le Gouvernement de la Communauté française en application de l'article 92 du présent décret;
+
+4° soit d'un diplôme étranger ayant fait l'objet d'une reconnaissance professionnelle, en application de la directive 2005/36/CE du parlement européen et du conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles telle que modifiée, qui confère une qualification professionnelle correspondant à celle d'un diplôme visé au littera 1°.
+
+L'accès aux études de spécialisation visées à l'article 1er de l'arrêté royal du 27 septembre 2006 établissant la liste des titres professionnels particuliers et des qualifications professionnelles particulières pour les praticiens de l'art infirmer est réservé aux titulaires d'un diplôme de bachelier infirmer responsable de soins généraux, ou d'un diplôme similaire, ou reconnu équivalent, ou ayant fait l'objet d'une décision de reconnaissance professionnelle. La similarité, l'équivalence et la reconnaissance professionnelle sont celles visées respectivement à l'alinéa 1, 2°, à l'alinéa 1, 3° et à l'alinéa 1, 4°.
+
+Ont également accès aux bacheliers de spécialisation les étudiants pour lesquels les jurys ont valorisé les savoirs et compétences acquis par les étudiants par leur expérience professionnelle ou personnelle à concurrence de 180 crédits au moins.
+
+Par dérogation à l'alinéa précédent, les unités d'enseignement des bacheliers de spécialisation organisés par l'enseignement de promotion sociale sont accessibles aux personnes prouvant par la valorisation de compétences la maîtrise des capacités préalables fixées au dossier pédagogique ou détenant un titre pouvant en tenir lieu conformément aux articles 8 et 56 du décret du 16 avril 1991 organisant l'enseignement de promotion sociale. En outre, pour être admis à l'épreuve intégrée d'une section délivrant un grade de bachelier de spécialisation, le candidat doit être titulaire d'un grade de bachelier ou d'un grade équivalent au grade de bachelier repris dans la liste définie et tenue à jour par l'ARES, conformément à l'article 71 du décret du 16 avril 1991 organisant l'enseignement de promotion sociale. ".
+
+### Art. 19
+
+A l'article 108, le § 1er est remplacé par ce qui suit : " § 1er. Pour l'année académique 2019-2020, nul ne peut être admis aux épreuves d'une année de 1er cycle en bachelier : agrégé de l'enseignement secondaire inférieur, bachelier : instituteur primaire, bachelier : instituteur préscolaire s'il n'a fait la preuve d'une maitrise suffisante de la langue française ".
+
+### Art. 20
+
+A l'article 118 du même décret les modifications suivantes sont apportées :
+
+a) les mots " et sur avis conforme de l'ARES " sont insérés entre les mots " Gouvernement " et " ces acquis ";
+
+b) les mots " § 1er " sont remplacés par les mots " alinéa 1er ".
+
+### Art. 21
+
+L'article 124 du même décret est complété par un alinéa rédigé comme suit :
+
+" Les fiches d'unités d'enseignement de l'année en cours et comprenant les informations visées à l'article 77 sont mises à disposition des étudiants, pour l'année académique en cours et jusqu'à la fin de l'année académique suivante ".
+
+### Art. 22
+
+A l'article 130, alinéa 1er du même décret les mots " trente crédits au moins de chaque cycle d'études " sont remplacés par les mots " trente crédits au moins d'un cycle d'études ".
+
+### Art. 23
+
+A l'article 134 du même décret les modifications suivantes sont apportées:
+
+a) l'alinéa 1er est complété par les mots " pendant l'année académique en cours et jusqu'à la fin de l'année académique suivante. ";
+
+b) l'alinéa 2, 8° est complété par ce qui suit: " Le délai de recours pour l'introduction d'une plainte dans le déroulement des évaluations est de maximum trois jours ouvrables, soit après la notification des résultats de la délibération dans l'hypothèse d'une contestation portant sur celle-ci, soit, dans le cas d'un examen écrit, après consultation des copies dans l'hypothèse d'une contestation portant sur l'évaluation. ".
+
+### Art. 24
+
+Dans le même décret, il est inséré un article 139/1 rédigé comme suit :
+
+" Art. 139/1. - Lorsque l'étudiant est exclu pour fraude aux évaluations, il perd immédiatement sa qualité d'étudiant régulièrement inscrit, ainsi que tous les droits liés à cette qualité et les effets de droit liés à la réussite d'épreuves durant l'année académique concernée. Les droits d'inscription versés à l'établissement d'enseignement supérieur sont définitivement acquis à celui-ci.
+
+Le nom de l'étudiant ainsi sanctionné est transmis au Commissaire ou Délégué du Gouvernement près l'institution. Après vérification du respect de la procédure et de la réalité de la fraude, le Commissaire ou Délégué transmet ce nom à l'ARES en vue de son inscription dans la base de données visée au § 1er, alinéa 3 de l'article 95/2.
+
+L'exclusion implique automatiquement un refus d'inscription pour une durée de trois années académiques dans tout établissement d'enseignement supérieur de la Communauté française. Le délai de trois ans prend cours le premier jour de l'année académique durant laquelle la fraude est sanctionnée.
+
+La notification de la décision disciplinaire indique les modalités d'exercice des droits de recours. "
+
+### Art. 25
+
+L'article 141 du même décret est abrogé.
+
+### Art. 26
+
+L'article 145, alinéa 1er, est complété par la phrase suivante : " Il ne peut être délivré qu'un seul et unique diplôme. En cas de perte, seule une attestation pourra être délivrée. ".
+
+### Art. 27
+
+A l'article 151 du même décret les modifications suivantes sont apportées :
+
+a) l'alinéa 1er est remplacé par ce qui suit : " Par décision individuelle et motivée, les autorités académiques peuvent exceptionnellement accorder à un étudiant un allègement de programme, soit au moment de son inscription, soit en cours d'année académique pour motif médical grave. ";
+
+b) à l'alinéa 2, le mot " dérogations " est remplacé par le mot " allègements ";
+
+c) à l'alinéa 3, les modifications suivantes sont apportées :
+
+1° les mots " d'une telle dérogation " sont remplacés par les mots " d'un tel allègement ";
+
+2° les mots " ceux pour lesquels " sont remplacés par les mots " les étudiants bénéficiaires au sens de l'article premier littéra 4° /1 du décret du 30 janvier 2014 relatif à l'enseignement supérieur inclusif pour lesquels ";
+
+3° les mots " en raison de leur handicap " sont abrogés;
+
+d) l'alinéa 5 est remplacé par ce qui suit : " L'étudiant qui bénéficie d'un allègement de programme dès son inscription s'acquitte des droits d'inscription établis proportionnellement au nombre de crédits de son programme annuel. "
+
+### Art. 28
+
+Le Titre III du même décret est complété par un Chapitre XII rédigé comme suit : " CHAPITRE XII. - Comité de suivi ".
+
+### Art. 29
+
+Dans le chapitre XII, inséré par l'article 27, il est inséré un article 151/1, rédigé comme suit :
+
+" Art. 151/1. Il est créé un Comité de suivi composé comme suit :
+
+1° deux représentants du Gouvernement de la Communauté française désignés par les Ministres ayant dans leurs attributions l'enseignement supérieur de plein exercice et de promotion sociale. Le représentant du Ministre en charge de l'Enseignement supérieur de plein exercice préside le Comité;
+
+2° quatre représentants des Universités proposés par l'Académie de Recherche et d'Enseignement Supérieur;
+
+3° trois représentants des pouvoirs organisateurs des Hautes Ecoles et un représentant de l'enseignement supérieur de promotion sociale proposés par l'Académie de Recherche et d'Enseignement Supérieur;
+
+4° deux représentants des pouvoirs organisateurs des Ecoles supérieures des Arts proposés par l'Académie de Recherche et d'Enseignement Supérieur;
+
+5° le Directeur général de l'Enseignement non obligatoire et de la Recherche scientifique de l'Administration générale de l'Enseignement ou son représentant;
+
+6° l'Administrateur de l'Académie de Recherche et de l'Enseignement supérieur ou son représentant;
+
+7° deux représentants proposés par les Commissaires et Délégués du Gouvernement auprès des établissements d'enseignement supérieur;
+
+8° sept représentants des syndicats représentant le secteur de l'enseignement supérieur, proposés respectivement par la CGSP-E, le SEL, la CSC-E, le SLFP-E, la CGSP AMIO, la CSC Services publics et la CNE;
+
+9° deux représentants proposés par les organisations représentatives des étudiants au niveau communautaire.
+
+Chaque membre a un suppléant, proposé selon les mêmes modalités.
+
+Les membres du Comité de suivi et leurs suppléants sont désignés par le Gouvernement pour une durée de cinq ans. Les représentants des étudiants sont désignés pour un mandat d'un an, renouvelable sans pouvoir dépasser cinq mandats successifs.
+
+Tout membre qui a perdu la qualité pour laquelle il a été désigné est réputé démissionnaire. Lorsqu'un membre démissionne ou décède en cours de mandat, il est remplacé par son suppléant pour l'achèvement du mandat en cours. ".
+
+### Art. 30
+
+Dans le même chapitre, il est inséré un article 151/2, rédigé comme suit :
+
+" Art. 151/2. Le Comité de suivi se réunit au moins trois fois par année académique, sur convocation de son Président ou à la demande d'un tiers au moins de ses membres.
+
+Il élabore son règlement d'ordre intérieur qu'il soumet à l'approbation du Gouvernement. ".
+
+### Art. 31
+
+Dans le même chapitre, il est inséré un article 151/3, rédigé comme suit :
+
+" Art. 151/3. Le Comité de suivi est un organe de concertation qui a pour missions :
+
+1° d'analyser les dispositions du Titre III du présent décret, compte tenu de l'application qui en est faite par les autorités académiques des établissements d'enseignement supérieur, par les membres de leurs personnels et par les étudiants;
+
+2° d'échanger des bonnes pratiques;
+
+3° de faire des recommandations au conseil d'administration de l'ARES. ".
+
+### Art. 32
+
+Dans le même chapitre, il est inséré un article 151/4, rédigé comme suit :
+
+" Art. 151/4. Les propositions du Comité de suivi sont rendues publiques sur le site de l'Académie de Recherche et d'Enseignement Supérieur. ".
+
+### Art. 33
+
+Le Titre III du décret précité est complété par un chapitre XIII rédigé comme suit : " Chapitre XIII : publicité des établissements d'enseignement supérieur et des pôles académiques ".
+
+### Art. 34
+
+Dans le chapitre XIII, inséré par l'article 32, il est inséré un article 151/5, rédigé comme suit :
+
+" Art. 151/5. Par publicité au sens du présent décret, il y a lieu d'entendre toute information produite par ou pour le compte d'un établissement d'enseignement supérieur ou un pôle pour la promotion de l'enseignement et des formations et ce, qu'elle fasse l'objet d'un paiement ou d'un partenariat avec le media. ".
+
+### Art. 35
+
+Dans le même chapitre, il est inséré un article 151/6, rédigé comme suit :
+
+" Art. 151/6. Toute concurrence déloyale entre établissements d'enseignement supérieur tels que visés aux articles 10 à 13 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études ou entre pôles est interdite. ".
+
+### Art. 36
+
+Dans le même chapitre, il est inséré un article 151/7, rédigé comme suit :
+
+" Art. 151/7. L'information pour des études, pour un établissement déterminé ou pour un pôle doit rester objective et ne peut se référer à un autre établissement ou pôle. Toute référence à un autre établissement ou pôle est interdite à l'exception de la mention de partenariat, de coorganisation ou de codiplômation de l'enseignement organisé en Communauté française. ".
+
+### Art. 37
+
+Dans le même chapitre, il est inséré un article 151/8, rédigé comme suit :
+
+" Art. 151/8. Les informations concernant des études ou des formations ne menant pas à un grade académique ou organisées en vertu des dispositions de l'article 66, § 3, du décret du 7 novembre 2013 mentionnent explicitement cette caractéristique afin d'éviter pour l'étudiant intéressé tout risque de confusion avec les autres études. ".
+
+### Art. 38
+
+Dans le même chapitre, il est inséré un article 151/9, rédigé comme suit :
+
+" Art. 151/9. La publicité télévisuelle, radiophonique et cinématographique dans le cadre de l'information et de la promotion sur les études et les formations est interdite pour les établissements d'enseignement supérieur et les pôles, que cette publicité soit à l'initiative d'un ou plusieurs établissement(s), pôle(s) ou pouvoir(s) organisateur(s). ".
+
+### Art. 39
+
+Dans le même chapitre, il est inséré un article 151/10, rédigé comme suit :
+
+" Art. 151/10. Lorsque le Gouvernement a connaissance d'infractions potentielles aux dispositions des articles précédents, notamment via une plainte émanant de l'ARES, via le contrôle exercé par les commissaires/délégués du Gouvernement auprès des établissements ou via un ou des pôles, il décide, après avoir entendu les autorités académiques concernées sur les faits reprochés, de la sanction à l'égard de l'établissement ou du pôle concerné.
+
+Cette sanction consiste en une retenue partielle sur l'allocation annuelle de l'établissement ou du pôle concerné, sans que cette retenue ne puisse excéder cinq pour cent de l'allocation annuelle. ".
+
+### Art. 40
+
+Dans le même chapitre, il est inséré un article 151/11 rédigé comme suit :
+
+" Art. 151/11. Sur proposition de la Commission de l'information sur les études de l'ARES, les établissements et les pôles adoptent un code de bonne conduite relatif a[00cc][0080] l'application des dispositions du présent chapitre, notamment les modalités relatives à la publicité écrite, à l'affichage, à l'événementiel, en ce compris les salons étudiants, et à la publicité sur internet et sur les réseaux sociaux.
+
+Le Gouvernement, sur avis de l'ARES, peut fixer les modalités relatives à l'application de ces dispositions. ".
+
+### Art. 41
+
+L'annexe II du même décret est remplacée par l'annexe première du présent décret.
+
+### Art. 42
+
+L'annexe III.1 du même décret est remplacée par l'annexe 2 du présent décret.
+
+### Art. 43
+
+L'annexe III.2 du même décret est remplacée par l'annexe 3 du présent décret.
+
+### Art. 44
+
+L'annexe III.3 du même décret est remplacée par l'annexe 4 du présent décret.
+
+### Art. 45
+
+L'annexe III.4 du même décret est remplacée par l'annexe 5 du présent décret.
+
+### Art. 46
+
+L'annexe VI du même décret est remplacée par l'annexe 6 du présent décret.
+
+### Art. 47
+
+Dans l'annexe II du même décret, telle que remplacée par l'article 41 du présent décret :
+
+1° la ligne :
+
+<table><tr><td>7 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en assurances</td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>7 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en assurances et gestion du risque</td></tr></table>
+
+2° après la ligne :
+
+<table><tr><td>10 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en gérontologie psycho-éducative</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>10 </td><td>HE+EPS </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation d'intervenant en thérapie familiale systémique</td></tr></table>
+
+3° après la ligne :
+
+<table><tr><td>10 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en théories psychanalytiques</td></tr></table>
+
+sont insérées les lignes :
+
+<table><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 1</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 2</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : français et morale</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : français et religion</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : français éducation à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : français et langues anciennes</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : français et formation culturelle et artistique</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : langues modernes</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : mathématiques et technologies</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : sciences et technologies</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : éducation physique et éducation à la santé</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : sciences humaines et éducation à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : sciences humaines et religion</td></tr><tr><td>10bis </td><td>HE+U </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : sciences humaines et morale</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : formation artistique : musique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 3 : formation artistique : arts plastiques</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : grec ancien et latin</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : langues modernes</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : langues modernes traduction et interprétation</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : biologie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : chimie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : éducation physique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : français</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : géographie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : histoire</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : mathématiques</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : physique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : sciences économiques</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : sciences sociales</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : arts plastiques, visuels et de l'espace</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : musique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : arts de la parole et du théâtre.</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : morale</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : religion</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en enseignement section 4 : arts du spectacle et techniques de diffusion et de communication</td></tr><tr><td>10bis </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : éducateur spécialisé en activités socio-sportives</td></tr><tr><td>10bis </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : éducateur spécialisé en accompagnement psycho-éducatif</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation : accompagnateur en milieux scolaires</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en intégration des technologies nouvelles au service de l'enseignement</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en orthopédagogie</td></tr><tr><td>10bis </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en psychomotricité</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 1</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 2</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : français et morale</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : français et religion</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : français éducation à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : français et langues anciennes</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : français et formation culturelle et artistique</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : langues modernes</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : mathématiques et technologies</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : sciences et technologies</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : éducation physique et éducation à la santé</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : sciences humaines et éducation à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : sciences humaines et religion</td></tr><tr><td>10bis </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : sciences humaines et morale</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : formation artistique : musique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 3 : formation artistique : arts plastiques</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : grec ancien et latin</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : langues modernes</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : langues modernes traduction et interprétation</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : biologie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : chimie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : éducation physique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : français</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : géographie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : histoire</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : mathématiques</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : physique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : sciences économiques</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : sciences sociales</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : arts plastiques, visuels et de l'espace</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : musique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : arts de la parole et du théâtre</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : morale</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : religion</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en enseignement section 4 : arts du spectacle et techniques de diffusion et de communication</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master agrégé de l'enseignement section 4</td></tr><tr><td>10bis </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences de l'éducation</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 1 à dominante pédagogique, orientation techno-pédagogique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 1 à dominante pédagogique, orientation orthopédagogique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 1 à dominante pédagogique, orientation différenciation</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 1 à dominante linguistique : néerlandais</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 1 à dominante linguistique : allemand</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 1 à dominante linguistique : anglais</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante pédagogique, orientation techno-pédagogique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante pédagogique, orientation orthopédagogique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante pédagogique, orientation différenciation</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante linguistique : néerlandais</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante linguistique : allemand</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante linguistique : anglais</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante disciplinaire : français</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante disciplinaire: mathématiques</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante disciplinaire : sciences</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante disciplinaire : sciences humaines</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante disciplinaire : formation culturelle et artistique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante disciplinaire : éducation à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante disciplinaire : morale</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 2 à dominante disciplinaire : religion</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante pédagogique, orientation techno-pédagogique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante pédagogique, orientation orthopédagogique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante pédagogique, orientation " Différenciation "</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante linguistique : néerlandais</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante linguistique : allemand</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante linguistique : anglais</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : français</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : anglais</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : allemand</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : néerlandais</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : mathématiques</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : physique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : chimie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : biologie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 disciplinaire : éducation physique</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : histoire</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : géographie</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : sciences sociales</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : éducation à la philosophie et citoyenneté</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : morale</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en enseignement section 3 à dominante disciplinaire : religion</td></tr><tr><td>10bis </td><td>HE+U+ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en formation d'enseignants</td></tr><tr><td>10bis </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en gestion d'établissement d'enseignement obligatoire</td></tr><tr><td>10bis </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en pédagogie universitaire et de l'enseignement supérieur</td></tr></table>
+
+4° la ligne :
+
+<table><tr><td>17 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences géographiques, orientation géomatique et géométrologie</td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>17 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences géographiques, orientation géomatique</td></tr></table>
+
+### Art. 48
+
+Dans l'annexe III.1 du même décret, telle que remplacée par l'article 42 du présent décret, les modifications suivantes sont apportées :
+
+1° la ligne :
+
+<table><tr><td>3 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en langues et lettres anciennes et modernes </td><td> </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>3 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en langues et lettres anciennes et modernes </td><td>62 </td><td>25 </td><td> </td><td> </td><td>92 </td><td></td></tr></table>
+
+2° la ligne :
+
+<table><tr><td>3 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en langues et lettres anciennes, orientation classiques </td><td>62 </td><td>25 </td><td>21 </td><td> </td><td>92 </td><td>21</td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>3 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en langues et lettres anciennes, orientation classiques </td><td>62 </td><td>25 </td><td>21 </td><td> </td><td> </td><td>21</td></tr></table>
+
+3° la ligne :
+
+<table><tr><td>3 </td><td> </td><td>M </td><td>M </td><td> </td><td> </td><td>Master en langues et lettres anciennes et modernes </td><td> </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>3 </td><td> </td><td>M </td><td>M </td><td> </td><td> </td><td>Master en langues et lettres anciennes et modernes </td><td>62 </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+4° après la ligne :
+
+<table><tr><td>6 </td><td> </td><td> </td><td> </td><td> </td><td>Mscd </td><td>Master de spécialisation en développement, environnement et sociétés </td><td>62 </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>6 </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en méthodes quantitatives en sciences sociales </td><td> </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+5° après la ligne :
+
+<table><tr><td>9 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en gestion culturelle </td><td>62 </td><td>53 </td><td>21 </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>9 </td><td> </td><td> </td><td>Malt </td><td> </td><td> </td><td>Master en sales management </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+6° après la ligne :
+
+<table><tr><td>12 </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Médecin vétérinaire </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>12 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master one health - gestion de la santé publique et animale </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+6bis° est supprimée, la ligne :
+
+<table><tr><td>12 </td><td> </td><td> </td><td> </td><td> </td><td>MSSS </td><td>Master de spécialisation en médecine vétérinaire spécialisée </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+7° après la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en bioinformatique et modélisation </td><td>62 </td><td>25 </td><td>21 </td><td> </td><td>92 </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master in molecular microbiology </td><td> </td><td> </td><td> </td><td> </td><td>92 </td><td></td></tr></table>
+
+8° la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences géographiques, orientation climatologie </td><td>62 </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences géographiques, orientation climatologie </td><td> </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+9° la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences géographiques, orientation géomatique et géométrologie </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences géographiques, orientation géomatique </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+10° après la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences géographiques, orientation géomatique et géométrologie </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en sciences géographiques, orientation global change </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+11° la ligne :
+
+<table><tr><td>17 </td><td> </td><td>M </td><td>M </td><td> </td><td> </td><td>Master en sciences et gestion de l'environnement </td><td>62<br>  81 </td><td>25 </td><td>21 </td><td> </td><td> </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>17 </td><td> </td><td>M </td><td>M </td><td> </td><td> </td><td>Master en sciences et gestion de l'environnement </td><td>62<br>  81 </td><td> </td><td>21 </td><td> </td><td> </td><td></td></tr></table>
+
+12° la ligne :
+
+<table><tr><td>17 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en sciences informatiques </td><td>62 </td><td>25 </td><td>21 </td><td>53 </td><td>92 </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>17 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en sciences informatiques </td><td>62 </td><td>25<br>  52 </td><td>21 </td><td>53 </td><td>92 </td><td></td></tr></table>
+
+Cette nouvelle habilitation devra être développée en codiplômation pour assurer la cohérence de l'offre.
+
+13° après la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en climatologie, glaciologie et océanographie </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en cosmos exploration </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+14° après la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en science des données, big data </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation interdisciplinaire en sciences et gestion de l'environnement et du développement durable </td><td> </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+15° après la ligne :
+
+<table><tr><td>25 </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en arts du spectacle </td><td>62 </td><td>25 </td><td>21 </td><td> </td><td> </td><td></td></tr></table>
+
+sont insérées les lignes suivantes :
+
+<table><tr><td>1<br>  3<br>  4 </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en cultures et pensées cinématographiques </td><td> </td><td> </td><td> </td><td> </td><td>92 </td><td> </td></tr><tr><td>1<br>  6<br>  9 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en sciences philosophique, politique et économique </td><td> </td><td>25 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+### Art. 49
+
+Dans l'annexe III.2 du même décret, telle que remplacée par l'article 43 du présent décret, les modifications suivantes sont apportées :
+
+1° la ligne :
+
+<table><tr><td>7 </td><td> </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en assurances </td><td> </td><td> </td><td>53 </td><td> </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td>92 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>7 </td><td> </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en assurances et gestion du risque </td><td> </td><td> </td><td>53 </td><td> </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td>92 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+2° la ligne :
+
+<table><tr><td>9 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en e-business </td><td>62 </td><td> </td><td>57 </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>9 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en e-business </td><td>62 </td><td> </td><td>57 </td><td> </td><td> </td><td> </td><td> </td><td>21<br>  25 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+3° la ligne :
+
+<table><tr><td>9 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en gestion hôtelière </td><td> </td><td>58 </td><td>53 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>63 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>62 </td><td>21 </td><td>92</td></tr></table>
+
+est remplacée par les lignes :
+
+<table><tr><td>9 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en gestion hôtelière, orientation arts culinaires </td><td> </td><td>58 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>92</td></tr><tr><td>9 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en gestion hôtelière, orientation management </td><td> </td><td>58 </td><td>53 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>63 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>62 </td><td>21<br>  25 </td><td>92</td></tr></table>
+
+4° après la ligne :
+
+<table><tr><td>15 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en soins infirmiers </td><td>61<br>  62<br>  63 </td><td>52<br>  57<br>  58 </td><td>51<br>  52<br>  53<br>  57 </td><td>21<br>  25 </td><td>62 </td><td>92 </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td>21 </td><td>84 </td><td> </td><td> </td><td>92</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>15 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier : hygiéniste bucco-dentaire </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+5° après la ligne :
+
+<table><tr><td>17 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en informatique et systèmes, orientation réseaux et télécommunications </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>53 </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>17 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en informatique et systèmes, orientation robotique </td><td> </td><td> </td><td> </td><td> </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+6° la ligne :
+
+<table><tr><td>17 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en informatique et systèmes, orientation sécurité des systèmes </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>92 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est remplacée par la ligne :
+
+<table><tr><td>17 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en informatique et systèmes, orientation sécurité des systèmes </td><td> </td><td> </td><td> </td><td> </td><td>62 </td><td>92 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+7° après la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en sécurité des réseaux et systèmes informatiques </td><td> </td><td>57 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>17 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en architecture des systèmes informatiques </td><td>62 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+8° après la ligne :
+
+<table><tr><td>19 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en informatique et systèmes, orientation gestion technique des bâtiments - domotique </td><td> </td><td>52 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>19 </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en prévention, sécurité industrielle et environnement </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td>81 </td><td> </td><td> </td><td></td></tr></table>
+
+9° après la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation informatique </td><td>62 </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td>53 </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation ingénierie de la santé </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+10° après la ligne :
+
+<table><tr><td>22 </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en accessoires de mode </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>22 </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en innovation en textiles et surfaces souples </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+Dans la même annexe, les modifications suivantes sont apportées :
+
+1° Le mot " HELdV " est remplacé par les mots " HE Vinci ",
+
+2° Les mots " HE ICHEC - ISC - ISFSC : Haute Ecole " Groupe ICHEC - ISC - Saint-Louis - ISFSC " " sont remplacés par les mots " HE ICHEC - ECAM - ISFSC : Haute Ecole ICHEC - ECAM - ISFSC ",
+
+3° Les mots " HE ICHEC - StLouis - ISFSC " sont remplacés par les mots " HE ICHEC - ECAM - ISFSC ",
+
+4° La ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td>B </td><td> </td><td> </td><td>Bachelier en sciences de l'ingénieur industriel </td><td>62 </td><td>52<br>  53 </td><td>52<br>  57 </td><td>21 </td><td>62 </td><td>85 </td><td> </td><td> </td><td>53 </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td>81 </td><td> </td><td>21 </td><td></td></tr></table>
+
+Est remplacée par la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td>B </td><td> </td><td> </td><td>Bachelier en sciences de l'ingénieur industriel </td><td>62 </td><td>52<br>  53 </td><td>52<br>  57 </td><td> </td><td>62 </td><td>85 </td><td> </td><td> </td><td>53 </td><td> </td><td>21 </td><td> </td><td>21 </td><td> </td><td> </td><td>81 </td><td> </td><td>21 </td><td></td></tr></table>
+
+5° La ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation automatisation </td><td> </td><td><br>  </td><td>57 </td><td>21 </td><td> </td><td>85 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+Est remplacée par la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation automatisation </td><td> </td><td> </td><td>57 </td><td> </td><td> </td><td>85 </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+6° La ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation construction </td><td>62 </td><td><br>  </td><td><br>  </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td>53 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+Est remplacée par la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation construction </td><td>62 </td><td> </td><td><br>  </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>53 </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+7° La ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation électromécanique </td><td>62 </td><td>53 </td><td><br>  </td><td>21 </td><td> </td><td>85 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+Est remplacée par la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation électromécanique </td><td>62 </td><td>53 </td><td><br>  </td><td> </td><td> </td><td>85 </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+8° La ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation électronique </td><td>62 </td><td>53 </td><td><br>  </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+Est remplacée par la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation électronique </td><td>62 </td><td>53 </td><td><br>  </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+9° La ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation géomètre </td><td>62 </td><td><br>  </td><td><br>  </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td>53 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+Est remplacée par la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation géomètre </td><td>62 </td><td> </td><td><br>  </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>53 </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+10° La ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation informatique </td><td>62 </td><td><br>  </td><td><br>  </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td>53 </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+Est remplacée par la ligne :
+
+<table><tr><td>19 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td>Master en sciences de l'ingénieur industriel, orientation informatique </td><td>62 </td><td> </td><td><br>  </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>53 </td><td> </td><td>21 </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+### Art. 50
+
+Dans l'annexe III.3 du même décret, telle que remplacée par l'article 44 du présent décret, les modifications suivantes sont apportées :
+
+1° après la ligne :
+
+<table><tr><td>22 </td><td> </td><td> </td><td> </td><td>M </td><td>Master en arts plastiques, visuels et de l'espace : art en réseau </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>22 </td><td> </td><td> </td><td> </td><td>M </td><td>Master en arts plastiques, visuels et de l'espace : design d'innovation sociale </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+2° après la ligne :
+
+<table><tr><td>22 </td><td> </td><td> </td><td> </td><td>M </td><td>Master en arts plastiques, visuels et de l'espace : scénographie de produits </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>22 </td><td> </td><td> </td><td> </td><td>M </td><td>Master en arts plastiques, visuels et de l'espace : textes et création littéraire </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+3° après la ligne :
+
+<table><tr><td>23 </td><td>B </td><td> </td><td> </td><td> </td><td>Bachelier en musique : formation de musicien intervenant </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>23 </td><td>B </td><td> </td><td> </td><td> </td><td>Bachelier en musique : lutherie </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>83<br>  92 </td><td> </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+4° après la ligne :
+
+<table><tr><td>23 </td><td>B </td><td> </td><td> </td><td> </td><td>Bachelier en musique : musiques improvisées de tradition orale </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>62 </td><td> </td><td> </td><td></td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>23 </td><td>B </td><td> </td><td> </td><td> </td><td>Bachelier en musique : rythmes et rythmiques </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>21 </td><td> </td><td> </td><td> </td><td></td></tr></table>
+
+### Art. 51
+
+Dans l'annexe III.4 du même décret, telle que remplacée par l'article 45 du présent décret, les modifications suivantes sont apportées :
+
+1° avant la ligne :
+
+<table><tr><td>5 </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Master en communication appliquée spécialisée - animation socioculturelle et éducation permanente </td><td>HEG, UCL, ULB </td><td>21, 25</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>1 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en philosophie et théories politiques </td><td>ULB, ULg, UNamur </td><td>21, 62, 92</td></tr></table>
+
+2° après la ligne :
+
+<table><tr><td>7 </td><td>U </td><td> </td><td> </td><td> </td><td>B </td><td> </td><td> </td><td> </td><td>Bachelier en droit </td><td>ULB, UMons </td><td>53</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>7 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en approche interdisciplinaire des droits de l'enfant </td><td>ULB, UNamur, ULg, UCL, USL-B </td><td>21, 92, 62, 25</td></tr></table>
+
+3° après la ligne :
+
+<table><tr><td>9 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en management du tourisme et des loisirs </td><td>HECh, HERS </td><td>62, 84</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>9 </td><td>HE+EPS </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en business data analysis </td><td>EPHEC, EPHEC Promotion sociale, HELdV </td><td>21</td></tr></table>
+
+4° après la ligne :
+
+<table><tr><td>9 </td><td>HE+U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en accompagnement des professionnels de l'éducation, du management, de la santé et de l'action sociale </td><td>UNamur, UMons, HeNaLLux </td><td>92</td></tr></table>
+
+sont insérées les lignes :
+
+<table><tr><td>9 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en économie sociale </td><td>UCL, ULg </td><td>25, 62</td></tr><tr><td>9 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MS </td><td>Master de spécialisation en entreprises et politiques économiques européennes </td><td>UCL, USL-B </td><td>25</td></tr></table>
+
+4bis° après la ligne :
+
+<table><tr><td>10 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en gérontologie psycho-éducative </td><td>HEPHC, HELHa, HEH </td><td>53</td></tr></table>
+
+sont insérées les lignes :
+
+<table><tr><td>10 </td><td>HE+EPS </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation d'intervenant en thérapie familiale systémique </td><td>Institut provincial de formation sociale, HEPN </td><td>92</td></tr><tr><td>10 </td><td>HE+EPS </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation d'intervenant en thérapie familiale systémique </td><td>Cours pour éducateurs en fonction, HELMo </td><td>62</td></tr></table>
+
+5° après la ligne :
+
+<table><tr><td>10 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en préparation physique et entraînement </td><td>HECh, HEPL, HELMo </td><td>62</td></tr></table>
+
+sont insérées les lignes :
+
+<table><tr><td>14 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Master en sciences pharmaceutiques </td><td>UMons, ULB </td><td>53</td></tr><tr><td>14 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Master en sciences pharmaceutiques </td><td>UNamur, UCL </td><td>92</td></tr></table>
+
+6° après la ligne :
+
+<table><tr><td>14 </td><td>U </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>MSSS </td><td>Master de spécialisation en dermopharmacie et cosmétologie </td><td>ULB, ULg </td><td>21, 62</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>15 </td><td>HE+EPS </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en orthoptie </td><td>HELB, Institut supérieur de promotion sociale libre de Bruxelles - Ilya Prigogine, HELdV </td><td>21</td></tr></table>
+
+7° après la ligne :
+
+<table><tr><td>16 </td><td>HE+EPS </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en psychomotricité </td><td>HELHa, Centre d'enseignement supérieur pour adultes à Roux </td><td>52</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>17 </td><td>HE </td><td> </td><td> </td><td>BS </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier de spécialisation en sécurité des réseaux et systèmes informatiques </td><td>HEPHC, HEH </td><td>57</td></tr></table>
+
+8° après la ligne :
+
+<table><tr><td>19 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en biotechnique </td><td>HEH, HEPHC </td><td>53</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>19 </td><td>HE </td><td>Balt </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en génie électrique </td><td>HELHA, HEPHC </td><td>52</td></tr></table>
+
+9° après la ligne :
+
+<table><tr><td>19 </td><td>U </td><td> </td><td> </td><td> </td><td>B </td><td> </td><td> </td><td> </td><td>Bachelier en sciences de l'ingénieur, orientation ingénieur civil </td><td>ULB, UMons </td><td>52</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>19 </td><td>HE </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Master en sciences de l'ingénieur industriel, orientation technologies des données du vivant </td><td>HEH, HELHA, HEPHC </td><td>53</td></tr></table>
+
+10° après la ligne :
+
+<table><tr><td>22 </td><td>HE </td><td>B </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>Bachelier en animation 3D et effets spéciaux (VFX) </td><td>HELHA, HEPHC </td><td>53</td></tr></table>
+
+sont insérées les lignes :
+
+<table><tr><td>22 </td><td>ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Master en arts plastiques, visuels et de l'espace : art performance </td><td>Le 75, La Cambre </td><td>21</td></tr><tr><td>26 </td><td>ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Master en danse : danse et pratiques chorégraphiques </td><td>La Cambre, INSAS </td><td>21, 52</td></tr><tr><td>22<br>  23 </td><td>ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Master en art et créations sonores </td><td>ARBA Bxl, CRB, ERG </td><td>21</td></tr></table>
+
+11° après la ligne :
+
+<table><tr><td>22<br>  23<br>  24<br>  25 </td><td>ESA </td><td> </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td>Master en production de projets artistiques </td><td>CRB, INSAS, La Cambre </td><td>21</td></tr></table>
+
+est insérée la ligne :
+
+<table><tr><td>22<br>  24 </td><td>ESA </td><td> </td><td> </td><td> </td><td> </td><td>M </td><td> </td><td> </td><td>Master en arts de la marionnette </td><td>Arts<sup>2</sup>, AC Tournai </td><td>53, 57</td></tr></table>
+
+### Art. 52
+
+Dans l'annexe VI du même décret, telle que remplacée par l'article 46 du présent décret, la colonne " Spécialisation d'intervenant en thérapie familiale systémique " est abrogée.
+
+<table><tr><td colspan="5">Dans la même annexe, la ligne :</td></tr><tr><td>Centre d'études supérieures d'Optométrie appliquées </td><td>353 </td><td>21 </td><td>Bruxelles </td><td>X </td></tr><tr><td colspan="5">est remplacée par la ligne :</td></tr><tr><td>Centre d'études supérieures d'Optométrie appliquées </td><td>353 </td><td>92 </td><td>Namur </td><td>X</td></tr></table>
+
+## CHAPITRE II. - Modifications du décret du 11 avril 2014 adaptant le financement des établissements d'enseignement supérieur à la nouvelle organisation des études
+
+### Art. 53
+
+A l'article 3, § 1er, du décret du 11 avril 2014 adaptant le financement des établissements d'enseignement supérieur à la nouvelle organisation des études tel que modifié par le décret du 16 juin 2016, les modifications suivantes sont apportées:
+
+a) il est inséré un alinéa 3, rédigé comme suit : " La preuve que l'étudiant satisfait à l'une des conditions reprises à l'alinéa 1er lui incombe. Elle doit être rapportée au plus tard pour le 15 avril de l'année académique à laquelle elle se rapporte. ";
+
+b) le 7° est remplacé par ce qui suit : " 7° bénéficier d'une autorisation de séjour accordée en application de l'article 61/7 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ".
+
+### Art. 54
+
+A l'article 5 du même décret, les modifications suivantes ont apportées :
+
+a) au 3°, b, les mots " ou, globalement au cours des trois années académiques précédentes " sont complétés par " ou au cours des trois inscriptions précédentes si la situation est plus favorable à l'étudiant ";
+
+b) au 4°, les mots " Un étudiant se réoriente " sont remplacés par les mots " Sans préjudice de l'article 102, § 3 du décret du 7 novembre 2013, un étudiant se réoriente ".
+
+### Art. 55
+
+A l'article 6 du même décret, les mots " toute omission est considérée comme fraude à l'inscription " sont remplacés par les mots " une omission peut être considérée comme une fraude ".
+
+## CHAPITRE III. - Modifications du décret du 7 février 2019 définissant le formation initiale des enseignants
+
+### Art. 56
+
+A l'article 16, 12° est remplacé par le texte suivant :
+
+" la formation conduisant au grade de bachelier en enseignement section 4 : Sciences économiques comprend 150 crédits d'enseignements communs avec la formation conduisant au grade de bachelier en sciences économiques, orientation générale ou au grade de bachelier en sciences économiques et de gestion. Les 150 crédits communs sont valorisés pour l'admission aux cursus conduisant aux masters correspondants; ".
+
+### Art. 57
+
+A l'article 16, il est ajouté un 19° libellé comme suit :
+
+" la formation conduisant au grade de bachelier en enseignement section 4 Langues modernes traduction et interprétation comprend au moins 150 crédits d'enseignements communs avec la formation conduisant au grade de bachelier en traduction et interprétation. Les 150 crédits communs sont valorisés pour l'admission aux cursus conduisant aux masters et aux orientations correspondants ".
+
+### Art. 58
+
+Au 2° du § 1er de l'article 24, les mots " ou une Université quand l'établissement référent est une Ecole supérieure des Arts " sont ajoutés après le mot " Ecole ".
+
+### Art. 59
+
+A l'article 25, au point m), les mots " ou Morale ou Religion " sont ajoutés après le mot " citoyenneté ".
+
+### Art. 60
+
+Un article 63bis est ajouté au décret rédigé comme suit :
+
+" Sans préjudice de l'article 4 du décret du 11 avril 2014 adaptant le financement des établissements d'enseignement supérieur à la nouvelle organisation des études, les étudiants inscrits dans un cursus conduisant au master de spécialisation en formation d'enseignants sont finançables au sens du même décret. ".
+
+### Art. 61
+
+A l'article 84, les mots " jusqu'au terme de l'année académique 2021-2022 " sont remplacés par les mots : " jusqu'au terme de l'année académique 2023-2024 ".
+
+## CHAPITRE IV. - Modification à la loi du 27 juillet 1971 sur le financement et le contrôle des institutions universitaires
+
+### Art. 62
+
+A l'article 36bis/1, les modifications suivantes sont apportées :
+
+1° au § 1er, les modifications suivantes sont apportées :
+
+a) à l'alinéa 1er, les mots " 1,2 million euros " sont remplacés par les mots " 800.000 euros ";
+
+b) à l'alinéa 2, les modifications suivantes sont apportées :
+
+\- les mots " 2,4 millions " sont remplacés par les mots " 2 millions ";
+
+\- les mots " 3,6 millions euros " sont remplacés par les mots " 3,2 millions euros ";
+
+\- les mots " et à 1,2 millions euros pour l'année 2021 " sont insérés à la fin de la première phrase.
+
+\- les mots " de 2,4 millions euros " sont insérés entre les mots " A partir de l'année 2021, le montant " et les mots " prévu pour l'année 2020 ";
+
+\- les mots " A partir de 2022, le montant de 1,2 millions euros prévu pour l'année 2021 est ajouté, après indexation, à concurrence de 30% au montant prévu à l'article 29, § 1er, et à concurrence de 70% au montant prévus à l'article 29, § 2. " sont ajoutés en fin d'alinéa.
+
+c) à l'alinéa 3, les mots " 2020-2021 " sont remplacés par les mots " 2021-2022 ";
+
+2° au § 2, le mot " 2021 " est remplacé par le mot " 2022 ";
+
+3° au § 3, les modifications suivantes sont apportées :
+
+a) à l'alinéa 1er, le mot " 2019 " est remplacé par le mot " 2020 " et les mots " 2019-2020 " sont remplacés par les mots " 2020-2021 ";
+
+b) à l'alinéa 2, les modifications suivantes sont apportées :
+
+\- le mot " 2020 " est remplacé par le mot " 2021 ";
+
+\- le mot " 2021 " est partout remplacé par le mot " 2022 ";
+
+\- le mot " 2022 " est remplacé par le mot " 2023 ";
+
+c) à l'alinéa 3, les mots " 2019-2020 " sont remplacés par les mots " 2020-2021 " et les mots " 2021-2022 " sont remplacés par les mots " 2022-2023 ";
+
+4° au § 4, le mot " 2022 " est remplacé par le mot " 2023 ".
+
+## CHAPITRE V. - Dispositions autonomes
+
+### Art. 63
+
+&lt;Abrogé par DCFR 2024-04-04/40, art. 91,4°, 005; En vigueur : 01-01-2025&gt;
+
+### Art. 63/1.
+
+&lt;Abrogé par DCFR 2024-04-04/40, art. 91,4°, 005; En vigueur : 01-01-2025&gt;
+
+### Art. 64
+
+&lt;Abrogé par DCFR 2024-04-04/40, art. 91,4°, 005; En vigueur : 01-01-2025&gt;
+
+### Art. 65
+
+La Communauté française octroie annuellement une subvention de 200.000 euros à l'ARES afin de couvrir en tout ou en partie l'organisation d'un appel à projets annuel à destination des établissements d'enseignement supérieur dont l'objectif est de promouvoir le développement durable au sein de ces établissements.
+
+Les projets sont validés par la Commission du développement durable de l'ARES sur la base des critères suivants :
+
+\- pertinence et adéquation de l'action proposée au regard des objectifs de l'appel;
+
+\- qualité et caractère mobilisateur du projet;
+
+\- méthodologie proposée et modalités de mise en oeuvre;
+
+\- durabilité du projet;
+
+\- budget et efficience budgétaire.
+
+### Art. 66
+
+La Communauté française octroie annuellement une subvention de 200.000 euros à l'ARES afin de couvrir en tout ou en partie des projets d'enseignement inclusif [<sup>1</sup> à destination]<sup>1</sup> des établissements d'enseignement supérieur. Les projets sont validés par la Commission de l'Enseignement supérieur Inclusif.
+
+----------
+
+(1)&lt;DCFR 2020-11-12/30, art. 21, 002; En vigueur : 14-09-2020&gt;
+
+### Art. 66/1.
+
+[<sup>1</sup> § 1er. Le Gouvernement octroie annuellement une subvention à l'ARES afin de couvrir en tout ou en partie l'organisation d'un appel à projets annuel, à destination des établissements d'enseignement supérieur (en ce compris, le cas échéant, les établissements d'enseignement de promotion sociale dispensant des formations de niveau supérieur), et dont l'objectif est de promouvoir l'inclusion au sein de ces établissements.
+
+Cet appel à projets est organisé par l'ARES en collaboration avec les services du Gouvernement.
+
+§ 2 L'appel à projet est ouvert à toute initiative visant à favoriser l'inclusion par des actions en matière d'équipement ou d'infrastructure. Un maximum de 5% de la subvention peut également être consacré à l'organisation et au suivi de l'appel, y inclus le contrôle des financements octroyés. Les dépenses éligibles couvrent les dépenses de personnel, de fonctionnement et d'investissement.
+
+La sélection des projets est opérée par un jury sur la base des critères de sélection suivants :
+
+1° la pertinence et l'adéquation de l'action proposée au regard des objectifs de l'appel (promotion de l'inclusion au sein des établissements concernés) et aux besoins établis par le biais d'expertise externe indépendante;
+
+2° la qualité et le caractère mobilisateur du projet;
+
+3° la méthodologie proposée et les modalités de mise en oeuvre;
+
+4° la durabilité du projet au-delà de la subvention octroyée dans le cadre de l'appel;
+
+5° le budget et l'efficience budgétaire.
+
+Le jury est présidé par l'administrateur de l'ARES, deux représentants désignés par la CESI, deux représentants de l'administration en charge des infrastructures scolaires et deux experts indépendants. Il comprend également un représentant désigné par la Commission de l'enseignement de promotion sociale inclusif lorsque des projets sont déposés par des établissements de promotion sociale.
+
+§ 4 Le Conseil d'administration de l'ARES valide les termes et les modalités de l'appel à projet, après avis de la CESI, ainsi que la composition du jury et la sélection des projets.
+
+§ 5 L'ARES rend annuellement un rapport financier faisant état de l'utilisation des subventions perçues.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-07-14/23, art. 115, 003; En vigueur : 27-08-2021&gt;
+
+### Art. 67
+
+A partir de l'année budgétaire 2020, la Haute Ecole Léonard de Vinci rétrocède à la Haute Ecole ICHEC - ECAM - ISFSC, la partie historique apportée par la section " Sciences de l'ingénieur industriel " organisée sur le site de l'ECAM, lors de la constitution de la Haute Ecole Léonard de Vinci. Ce montant s'élève à 274.262 €. Il est appliqué à ce montant l'indice des prix à la consommation pour l'année budgétaire 2019.
+
+## CHAPITRE VI. - Dispositions transitoires et finales
+
+### Art. 68
+
+Les articles 23 à 26bis du décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française sont abrogés.
+
+### Art. 69
+
+Le titre IV du décret du 18 juillet 2008 démocratisant l'enseignement supérieur, oeuvrant à la promotion de la réussite des étudiants et créant l'Observatoire de l'enseignement supérieur est abrogé.
+
+### Art. 70
+
+L'article 16 du décret du 5 août 1995 fixant l'organisation générale de l'enseignement supérieur en hautes écoles est abrogé.
+
+### Art. 71
+
+Le présent décret entre en vigueur à partir de l'année académique 2019-2020, à l'exception :
+
+1° des articles 1, b) et c), 2, b) à e), 41, 42, 43, 44, 45 et 46 qui produisent leurs effets à partir l'année académique 2018-2019;
+
+2° des articles 47, 3°, 48, 12°, 49, 2°, 7° et 10°, 50, 3° et 4°, 51, 5°, 9° et 10° qui entrent en vigueur à partir de l'année académique 2020-2021;
+
+3° de l'article 48, 11°, qui entre en vigueur à partir de l'année académique 2021-2022;
+
+4° de l'article 48, 2°, 6bis° et 8°, qui entre en vigueur à partir de l'année académique 2022-2023.
+
+## ANNEXES.
+
+### Art. N
+
+(Image non reprise pour des raisons techniques, voir M.B. du 02-08-2019, p. 75929)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 3 mai 2019.
+
+Le Ministre-Président, en charge de l'Egalité des chances et des Droits des femmes,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de l'Enseignement de Promotion sociale, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de la Jeunesse, de l'Aide à la jeunesse, des Maisons de justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT

@@ -1,0 +1,1141 @@
+---
+title: "Décret spécial portant création de l'organisme public chargé de la fonction de Pouvoir organisateur de l'Enseignement organisé par la Communauté française"
+identifier: "2019040588"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/07/2019040588/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2019-02-07
+published: 2019-03-07
+entry_into_force: 2019-03-17
+last_amended: 2025-08-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/07/2019040588/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 07-03-2019 et mise à jour au 25-08-2025"
+retrieved: 2026-10-12
+---
+
+# 7 FEVRIER 2019. - Décret spécial portant création de l'organisme public chargé de la fonction de Pouvoir organisateur de l'Enseignement organisé par la Communauté française
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## TITRE Ier. - DISPOSITIONS GENERALES
+
+###### Art. 1er
+
+Pour l'application du présent décret spécial, il faut entendre par :
+
+1° " enseignement organisé par la Communauté " : tout l'enseignement organisé par la Communauté française, excepté l'enseignement universitaire, l'enseignement à distance [<sup>2</sup> ...]<sup>2</sup> [<sup>2</sup> , les jurys de la Communauté française et l'enseignement organisé par l'Aide à la jeunesse ]<sup>2</sup>;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+3° " loi du 29 mai 1959 " : loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement ;
+
+4° " décret transparence " : [<sup>1</sup> décret du 4 octobre 2023 relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française]<sup>1</sup> ;
+
+5° [<sup>4</sup> établissement, au sens de l`article 24 de la Constitution, d'enseignement organisé par la Communauté visé au 1° en ce compris les structures communes, attachées ou annexées à ceux-ci ainsi que notamment les centres techniques, les centres de formation et les centre de dépaysement et de plein air]<sup>4</sup>.
+
+L'emploi dans le présent décret spécial des noms masculins pour les différents titres et fonctions est épicène en vue d'assurer la lisibilité du texte nonobstant les dispositions du décret du 21 juin 1993 relatif à la féminisation des noms de métier.
+
+----------
+
+(1)&lt;DCFR 2023-10-05/11, art. 8, 007; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFR 2024-03-07/30, art. 1,1°, 009; En vigueur : 17-03-2019&gt;
+
+(3)&lt;DCFR 2024-03-07/30, art. 1,2°, 009; En vigueur : 14-04-2024&gt;
+
+(4)&lt;DCFR 2024-03-07/30, art. 1,3°, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 2
+
+§ 1er. Il est créé, auprès du Gouvernement, un organisme public doté de la personnalité juridique, sous la dénomination " Wallonie [<sup>1</sup> -]<sup>1</sup>Bruxelles Enseignement ", ci-après en abrégé " WBE ".
+
+WBE est l'organisme public autonome auquel la Communauté française délègue, en tant que pouvoir organisateur de l'enseignement, les compétences visées au présent décret, conformément à l'article 24, § 2, de la Constitution.
+
+Il exerce ses compétences dans le respect des décrets qui lui sont applicables en sa qualité de pouvoir organisateur, notamment celles qui, dans les lois, décrets et règlements adoptés avant l'entrée en vigueur du présent décret et qui n'auraient pas été adaptés en tenant compte du présent décret, sont attribuées au Gouvernement, au ministre compétent ou aux agents des services du Gouvernement au titre des compétences de pouvoir organisateur.
+
+Il possède toutes les prérogatives et attributions d'un pouvoir organisateur, nécessaires ou utiles à l'exercice de ses missions. Il peut notamment constituer d'autres personnes morales ou prendre des participations en capital si elles sont utiles à l'exercice de ses missions de pouvoir organisateur.
+
+§ 2.[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 2, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 3
+
+A moins que le présent décret spécial n'y déroge le décret transparence est applicable à WBE.
+
+###### Art. 4
+
+Les niveaux administratifs de l'enseignement organisé par la Communauté sont :
+
+1° [<sup>1</sup> Les services centraux]<sup>1</sup>
+
+2° les établissements.
+
+[<sup>1</sup> Les services centraux sont organisés de manière déconcentrée]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 3, 009; En vigueur : 14-04-2024&gt;
+
+## TITRE II. - L'ORGANISATION DE WBE
+
+### CHAPITRE Ier. [<sup>1</sup> Les services centraux ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 4, 009; En vigueur : 17-03-2019&gt;
+
+#### Section Ire. - Le Conseil WBE
+
+##### Sous-section Ire. - Composition
+
+###### Art. 5
+
+[<sup>1</sup> Le Conseil WBE est composé de seize administrateurs désignés par le Parlement pour la durée de la législature.
+
+Le Conseil WBE compte au moins un tiers de membres de chaque sexe.
+
+Les administrateurs du Conseil WBE sont désignés à la proportionnelle des groupes politiques reconnus représentés au sein du Parlement en application de la méthode D'Hondt et parmi les personnes qui jouissent de leurs droits civils et politiques, justifient de diplômes ou compétences adéquats, d'une parfaite intégrité et d'une connaissance de la gestion publique. Ils sont élus en fonction de la complémentarité de leurs compétences et connaissance des différents types d'enseignement.
+
+Parmi les administrateurs désignés, quatre au moins sont domiciliés sur le territoire de la région bilingue de Bruxelles-Capitale et huit au moins sur le territoire de la région de langue française.
+
+Si un des groupes politiques reconnus représentés au sein du Parlement ne dispose pas d'un administrateur désigné au sein du Conseil WBE, il y est représenté par un administrateur avec voix consultative désigné par le Parlement. Cet administrateur n'intervient pas dans le calcul des différents quorums ou conditions de composition du Conseil WBE.
+
+Les administrateurs sont désignés pour la durée de la législature dans les quatre mois qui suivent le renouvellement du Parlement.
+
+Le mandat des administrateurs expire le jour de la désignation de leurs successeurs ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 5, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 6
+
+[<sup>1</sup> Dans le cas où, en cours de législature, un groupe politique reconnu ne posséderait plus d'administrateurs en suffisance, le Parlement procède, à la demande de ses représentants au sein du Parlement, à la désignation du nombre requis d'administrateurs.
+
+En cas d'absence ou d'empêchement prolongé de plus de trois mois d'un administrateur, le Parlement peut mettre fin à son mandat et le remplacer selon la procédure visée à l'alinéa 1er.
+
+Les successeurs achèvent le mandat de leur prédécesseur ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 6, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 7
+
+La qualité d'administrateur est incompatible avec :
+
+1° la qualité de membre d'un gouvernement, de secrétaire d'Etat du Gouvernement de la Région de Bruxelles-Capitale et avec la qualité de membre d'un cabinet ministériel ;
+
+2° la qualité de membre d'une assemblée législative européenne, fédérale, communautaire et régionale ;
+
+3° la qualité de gouverneur de province ou d'arrondissement administratif, de commissaire d'arrondissement et de député provincial ;
+
+4° la qualité de titulaire d'un mandat de bourgmestre, d'échevin ou de président de C.P.A.S et avec la qualité de membre du cabinet de l'un de ces mandataires ;
+
+5° la qualité de membre du personnel de l'Administration générale de l'Enseignement du Ministère de la Communauté française, des services de l'Inspection et du Pilotage des écoles et centres psycho-médico-sociaux ;
+
+6° l'exercice de toute fonction de nature à créer un conflit d'intérêt personnel ou fonctionnel en raison de l'exercice de la fonction ou de la détention d'intérêts dans une société, une institution, une organisation ou un pouvoir organisateur exerçant une activité en matière d'enseignement ou de formation professionnelle en concurrence directe avec celles de WBE .[<sup>1</sup> La qualité de conseiller communal, de l'action sociale ou provincial n'est pas concernée par cette disposition pour autant que le conseiller n'exerce aucune fonction ou mandat de représentant de l'autorité locale en tant que pouvoir organisateur ]<sup>1</sup> ;
+
+7° l'appartenance à un organisme qui ne respecte pas les principes de la démocratie tels qu'énoncés, notamment, par la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, par la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie et par la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste pendant la seconde guerre mondiale ;
+
+8° la qualité de conseiller externe ou de consultant régulier de WBE ;
+
+9° [<sup>1</sup> La qualité de membre du personnel de WBE ]<sup>1</sup> ;
+
+10° la qualité de responsable, de mandaté permanent ou de délégué permanent d'une organisation syndicale qui défend les intérêts professionnels du personnel enseignant.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 7, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 8
+
+L'Administrateur général WBE siège avec voix consultative au Conseil WBE. Il peut s'y faire accompagner par toute personne qu'il désigne ou, en cas d'absence ou d'empêchement, s'y faire remplacer par un membre du personnel de l'organisme WBE.
+
+Siège avec voix consultative au Conseil WBE toute personne invitée en qualité d'expert.
+
+##### Sous-section II. - Statut des administrateurs
+
+###### Art. 9
+
+Chaque administrateur s'engage à respecter la Charte de l'administrateur WBE qu'il signe lors de son installation. Son élection ne sort ses effets qu'à la date de cette signature. La Charte de l'administrateur WBE, qui définit les engagements qui doivent être respectés dans l'exercice du mandat, fait l'objet d'un arrêté du Gouvernement, qui reprend en annexe le contenu de la Charte.
+
+La Charte de l'administrateur WBE devra comprendre au moins les engagements suivants :
+
+1° le respect de la légalité, du contrat de gestion et de manière plus générale l'exécution des missions de service public de WBE, dans le souci constant de garantir le caractère public et neutre de l'enseignement organisé par la Communauté française;
+
+2° le respect des intérêts de WBE et de la Communauté française dans l'exercice des missions de pouvoir organisateur qui sont déléguées à WBE par ou en vertu du présent décret spécial, ces intérêts prévalant en toutes circonstances sur les intérêts personnels directs ou indirects de l'administrateur;
+
+3° la surveillance du fonctionnement efficace des organes de WBE ;
+
+4° la prise en compte des attentes légitimes de tous les partenaires de WBE (élèves, étudiants, parents, membres du personnel, établissements d'enseignement, fournisseurs et créanciers) ;
+
+5° le respect des règles préventives et répressives en matière de délit d'initié ;
+
+6° le développement propre des compétences professionnelles dans l'exercice de sa mission.
+
+Le Gouvernement et le Parlement reçoivent copie des chartes signées par les administrateurs.
+
+###### Art. 10
+
+En cas de faute ou de négligence grave dans l'exercice de leur mandat, en cas d'acte ou de comportement incompatible avec l'exercice de celui-ci, en cas d'absence sans justification à plus de trois réunions au cours d'une même année, ainsi qu'en cas de violation d'une des dispositions de la Charte de l'administrateur WBE, un ou plusieurs administrateurs peuvent être révoqués par le Parlement à tout moment, sur proposition motivée du Conseil WBE ou à la demande du Gouvernement, formulées après audition du ou des intéressés.
+
+En cas d'atteinte grave à l'intérêt général, à la mission de service public de WBE ou au contrat de gestion, le Gouvernement peut, six mois après avoir mis le Conseil WBE en demeure, proposer la révocation de l'ensemble des administrateurs au Parlement qui en délibérera et prendra une décision à ce sujet.
+
+Le ou les membres révoqués ne sont pas rééligibles.
+
+##### Sous-section III. - Compétences
+
+###### Art. 11
+
+§ 1er. Le Conseil WBE exerce toutes les compétences de pouvoir organisateur de la manière établie par le présent décret.
+
+§ 2. [<sup>2</sup> Le Conseil WBE peut déléguer, par déconcentration, au sein de WBE, les compétences de pouvoir organisateur qui ne lui sont pas explicitement réservées par le paragraphe 3, au niveau le plus efficient et en veillant à une répartition des moyens nécessaires à la mise en oeuvre des décisions]<sup>2</sup>.
+
+§ 3. Les compétences suivantes de pouvoir organisateur sont réservées au Conseil WBE :
+
+1° l'approbation du contrat de gestion visé à l'article 36 et ses modifications ;
+
+2° la formulation de la proposition de statut du personnel de l'organisme WBE et ses modifications ;
+
+3° dans le cadre des compétences de pouvoir organisateur de WBE [<sup>2</sup> ...]<sup>2</sup>, l'adoption et la modification des règles arrêtées par le Gouvernement en matière d'organisation de l'enseignement organisé par la Communauté. Les règles fixées par le Conseil WBE sont publiées au Moniteur belge ;
+
+4° la formulation de la proposition de désignation et de révocation de l'administrateur général dans le respect des procédures fixées par ou en vertu du présent décret spécial ;
+
+5° l'approbation du budget et des comptes annuels de WBE ;
+
+6° la fixation du cadre du personnel de l'organisme WBE ;
+
+7° [<sup>2</sup> ...]<sup>2</sup>
+
+8° la coordination générale des différents niveaux administratifs de l'enseignement organisé par la Communauté ;
+
+9° [<sup>2</sup> ...]<sup>2</sup> la coordination générale de l'offre d'enseignement et les synergies entre l'enseignement obligatoire, l'enseignement supérieur et l'enseignement de promotion sociale ;
+
+10° [<sup>2</sup> ...]<sup>2</sup> le pilotage général de l'offre et de la programmation de l'enseignement et de la collaboration avec les autres réseaux d'enseignement.
+
+[<sup>2</sup> 11° l'adoption et la modification des règlements organiques des établissements ;
+
+12° la création d'organes d'avis et de consultation.
+
+Le Conseil WBE crée un Comité stratégique que le Conseil WBE consulte pour l'élaboration du projet de contrat de gestion et sur l'évaluation du contrat de gestion, ainsi que pour les points qui concernent les projets pédagogique et éducatif. Le Comité stratégique peut également être sollicité par le Conseil WBE pour rendre tout avis en lien avec les missions de pouvoir organisateur. Le Comité stratégique est présidé par l'Administrateur général de WBE et est composé de membres désignés par le Conseil WBE. Il comprend au moins un membre de l'association des représentants de parents de l'enseignement officiel, un représentant des organisations représentatives des étudiants au niveau communautaire. Le Conseil WBE adopte le règlement d'ordre intérieur du Comité stratégique sur proposition de celui-ci. Les services centraux de WBE assurent le secrétariat du Comité stratégique. Le Comité stratégique est installé au plus tard dans les 4 mois qui suivent le renouvèlement du Parlement en 2024. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2020-12-09/15, art. 46, 003; En vigueur : 09-12-2020&gt;
+
+(2)&lt;DCFR 2024-03-07/30, art. 8, 009; En vigueur : 14-04-2024&gt;
+
+##### Sous-section IV. - Fonctionnement
+
+###### Art. 12
+
+[<sup>1</sup> § 1er. Le Conseil WBE élit un président et un vice-président parmi les membres visés à l'article 5, alinéa 1er. Ils tirent leur mandat de groupes politiques reconnus différents.
+
+Le règlement organique prévoit les règles de remplacement en cas d'absence ou d'empêchement du président et du vice-président.
+
+§ 2. Le président, le vice-président, un administrateur visé à l'article 5, alinéa 1er désigné par le Conseil WBE et l'administrateur général forment le Bureau chargé de l'instruction des dossiers à présenter au Conseil WBE et des missions que lui délègue ce dernier]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-10-05/11, art. 9, 007; En vigueur : 01-01-2024&gt;
+
+###### Art. 13
+
+Le Conseil WBE se réunit sur convocation de son président, soit à son initiative, soit chaque fois qu'au moins un quart des administrateurs en fait la demande écrite.
+
+[<sup>1</sup> Le Conseil WBE ne délibère valablement que si la moitié au moins des administrateurs sont présents. Si le quorum n'est pas atteint ou plus atteint en cours de séance, les points non traités peuvent être reportés à une autre séance du Conseil WBE qui peut délibérer sur ces points quel que soit le nombre d'administrateurs présents. L'ordre du jour de cette autre séance mentionne les points concernés par cet alinéa]<sup>1</sup>.
+
+Sans préjudice de règles de majorité différente prévues par le présent décret spécial, les décisions du Conseil WBE sont prises à la majorité absolue des suffrages exprimés. En cas de partage des voix, la voix du président est prépondérante [<sup>1</sup> sauf en cas de vote secret]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 9, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 14
+
+Le Conseil WBE établit un règlement organique qui détermine le mode selon lequel il exerce ses attributions. Il est publié au Moniteur belge.
+
+Il comprend notamment les règles minimales suivantes :
+
+1° l'organisme public agit par ses organes de gestion et les membres de ces organes ne contractent aucun engagement personnel relatif aux engagements de ceux-ci ;
+
+2° les administrateurs forment un collège mais dans les cas justifiés par l'urgence et par l'intérêt social, et dans la mesure où le règlement du Conseil WBE le permet, les décisions du conseil [<sup>1</sup> ...]<sup>1</sup> peuvent être prises par consentement [<sup>1</sup> ...]<sup>1</sup> et écrit des administrateurs [<sup>1</sup> exprimé par écrit ou par tout mode de communication électronique]<sup>1</sup>.
+
+Cette procédure ne peut toutefois pas être utilisée pour l'adoption dudit règlement, la désignation du Président et des Vice-Présidents, pour l'arrêt des comptes annuels, pour l'utilisation du capital ou pour tout autre cas que le règlement du Conseil WBE entendrait excepter ;
+
+3° une procédure d'information du Conseil WBE et des commissaires du Gouvernement en cas de conflit d'intérêts dans le chef d'un des administrateurs, ainsi que la possibilité pour WBE d'agir en nullité des décisions prises en violation de cette disposition lorsque l'autre partie avait ou devait avoir connaissance de cette circonstance ;
+
+4° les administrateurs sont personnellement et solidairement responsables lors qu'une décision prise en application des principes définis au 3° leur a procuré ou a procuré à l'un d'entre eux un avantage financier abusif au détriment de l'organisme public ;
+
+5° dans quelle mesure et à quelles conditions une dépense engagée par l'un des administrateurs, dans l'exercice de ses fonctions, peut être remboursée par WBE, ainsi que l'établissement, par chacun des administrateurs, d'un rapport annuel reprenant les dépenses qu'il a engagées dans l'exercice de ses fonctions.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 10, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 15
+
+Le Conseil WBE transmet au plus tard le 30 septembre au Gouvernement et au Parlement un rapport annuel d'activités de l'année civile précédente.
+
+Ce rapport indique notamment les mesures prises par WBE pour remplir ses missions de pouvoir organisateur, les objectifs du contrat de gestion et du plan de développement ainsi que les perspectives d'avenir.
+
+Ce rapport comprend obligatoirement un volet relatif à la mise en oeuvre de l'article 11, § 2.
+
+Ce rapport fait également état de l'application des mesures visant à promouvoir la participation équilibrée de femmes et d'hommes dans les organes de WBE et de la répartition, en termes de genre, des mandats occupés.
+
+Le rapport annuel d'activités est accessible sur simple demande.
+
+#### Section II. - L'Administrateur général WBE
+
+##### Sous-section Ire. - Statut de l'administrateur général WBE
+
+###### Art. 16
+
+Le Conseil WBE intègre la fonction d'administrateur général dans le cadre du personnel de l'organisme WBE.
+
+###### Art. 17
+
+Sur proposition du Conseil WBE, le Gouvernement désigne l'administrateur général WBE, dans le respect de la procédure suivante :
+
+1° le Gouvernement arrête [<sup>1</sup> la lettre de mission ]<sup>1</sup> de l'administrateur général sur proposition du Conseil WBE. [<sup>1</sup> La lettre de mission ]<sup>1</sup> comporte la définition [<sup>1</sup> ...]<sup>1</sup>des missions générales de gestion [<sup>1</sup> , les objectifs généraux à atteindre et les critères de la formation et/ou d'expérience exigés]<sup>1</sup> ;
+
+2° le Gouvernement lance un appel à candidatures au Moniteur belge et par toute voie de publication adéquate ;
+
+Cet appel exige notamment le dépôt d'un projet de gestion par chaque candidat ;
+
+3° un collège de quatre experts externes désignés par le Conseil WBE, remet à ce dernier un avis sur chaque candidature dans un délai d'un mois;
+
+4° après avis de ce collège, le Conseil WBE présélectionne au maximum trois candidats, dans un délai d'un mois et procède à leur audition, selon les modalités qu'il détermine;
+
+5° le Conseil WBE remet sa proposition au Gouvernement dans le mois de la dernière audition;
+
+6° le Gouvernement désigne l'administrateur général dans les deux mois de la réception de la proposition du Conseil WBE.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 11, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 18
+
+§ 1er. Le mandat de l'administrateur général WBE vient à échéance le 30 juin de l'année qui suit l'année au cours de laquelle est intervenue la prestation de serment des membres d'un nouveau Gouvernement faisant directement suite au renouvellement du Parlement.
+
+L'administrateur général WBE cesse de plein droit d'exercer ses fonctions à l'échéance ainsi fixée. Toutefois, en l'absence de désignation d'un nouveau mandataire à cette échéance, le mandat en cours est prolongé jusqu'à la désignation de son successeur.
+
+§ 2. L'administrateur général est évalué à mi-mandat et en fin de mandat entre le douzième et le sixième mois avant l'arrivée à échéance du mandat.[<sup>1</sup> Cette évaluation est réalisée par le Conseil WBE, lequel est assisté par un collège de quatre experts indépendants désignés d'initiative par le Parlement]<sup>1</sup>.
+
+En cas d'évaluation défavorable, le Gouvernement délibère sur le maintien de l'administrateur général WBE dans ses fonctions ou sa révocation après l'avoir entendu.
+
+Dans le cas où l'évaluation en fin de [<sup>1</sup> ...]<sup>1</sup> mandat est favorable, le Gouvernement peut renouveler le mandat de l'administrateur général WBE sortant dans les deux mois de la proposition du Conseil WBE en ce sens.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 12, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 19
+
+Sans préjudice de l'article 18, le Gouvernement révoque l'administrateur général WBE sur avis conforme du Conseil WBE statuant à la majorité des deux tiers et émis après que le Conseil WBE a entendu l'intéressé.
+
+##### Sous-section II. - Compétences
+
+###### Art. 20
+
+L'administrateur général WBE assiste le Conseil WBE.
+
+Il exécute les décisions du Conseil WBE sous son contrôle et lui rend compte selon les modalités qu'il fixe et au moins trimestriellement de l'exécution de celles-ci.
+
+Il dirige le personnel de l'organisme WBE.
+
+Il assume la gestion journalière de WBE. A ce titre, il peut accomplir tous les actes conservatoires, tous les actes d'exécution des décisions prises par Conseil WBE, de même que les actes qui, en raison de leur importance ou des conséquences qu'ils entraînent pour WBE, ne présentent pas un caractère exceptionnel ni ne représentent un changement de politique administrative et constituent l'expédition des affaires courantes de WBE.
+
+Il assume toute autre mission qui lui est déléguée par le Conseil WBE.
+
+#### Section III. - Les directeurs généraux et le comité de direction
+
+##### Sous-section Ire. - Les directeurs généraux
+
+###### Art. 21
+
+Le Conseil WBE intègre les fonctions de directeur général dans le cadre du personnel de l'organisme WBE. Il en arrête le nombre, les fonctions et les attributions sur proposition de l'administrateur général WBE.
+
+###### Art. 22
+
+Les directeurs généraux sont désignés par le Conseil WBE dans le respect de la procédure suivante :
+
+1° sur proposition de l'Administrateur général, le Conseil WBE arrête le [<sup>1</sup> ...]<sup>1</sup> la lettre de mission de chaque fonction de directeur général. Cette lettre comporte la définition [<sup>1</sup> ...]<sup>1</sup> des missions générales de gestion [<sup>1</sup> , les objectifs généraux à atteindre et les critères de la formation et d'expérience exigés]<sup>1</sup> ;
+
+2° pour chaque fonction de directeur général, le Conseil WBE lance un appel à candidature interne et externe publié au Moniteur belge par toute voie de publication adéquate. Cet appel exige notamment le dépôt d'un [<sup>1</sup> une lettre de motivation pour chaque emploi postulé contenant, entre autres, la description de la vision stratégique du candidat et l'exposé de la manière selon laquelle celui-ci envisage d'exercer le mandat]<sup>1</sup>;
+
+3° pour chaque fonction de directeur général, un collège composé de l'administrateur général et de quatre experts externes désignés par le Conseil WBE, remet au bureau visé à l'article 12, alinéa 2, un avis sur chaque candidature, dans un délai d'un mois ;
+
+4° pour chaque fonction de directeur général, après avis du collège visé au 3°, le bureau visé à l'article 12, alinéa 2, soumet une présélection de maximum trois candidats au Conseil WBE ;
+
+5° pour chaque fonction de directeur général, le Conseil WBE désigne un directeur général dans le mois de la réception de la présélection des candidats.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 13, 009; En vigueur : 01-09-2019&gt;
+
+###### Art. 23
+
+§ 1er. Le mandat de directeur général vient à échéance le 30 septembre de l'année qui suit l'année au cours de laquelle est intervenue la prestation de serment des membres d'un nouveau Gouvernement faisant directement suite au renouvellement du Parlement.
+
+Le directeur général cesse de plein droit d'exercer ses fonctions à l'échéance ainsi fixée. Toutefois, en l'absence de désignation d'un nouveau mandataire à cette échéance, le mandat en cours est prolongé jusqu'à la désignation d'un successeur.
+
+§ 2. Le directeur général est évalué à mi-mandat et en fin de mandat entre le douzième et le sixième mois avant l'arrivée à échéance du mandat. Le directeur général est évalué par un collège composé de l'administrateur général et de quatre experts externes désignés par le Conseil WBE.
+
+En cas d'évaluation défavorable, le Conseil WBE délibère sur le maintien du directeur général dans ses fonctions ou sa révocation après l'avoir entendu.
+
+Dans le cas où l'évaluation en fin de mandat est favorable, le Conseil WBE peut renouveler le mandat du directeur général sortant.
+
+###### Art. 24
+
+Un directeur général ne peut être révoqué que par décision de deux tiers des membres du Conseil WBE et après avoir été entendu par celui-ci.
+
+##### Sous-section II. - Le comité de direction
+
+###### Art. 25
+
+Les directeurs généraux font partie, avec l'administrateur général, du Comité de direction WBE.
+
+[<sup>1</sup> Outre les missions et compétences légales et celles confiées par le Conseil WBE, ]<sup>1</sup> le Comité de direction WBE assiste l'administrateur général dans la coordination de la mise en oeuvre du contrat de gestion et dans l'exécution des décisions du Conseil WBE.
+
+[<sup>1</sup> En cas de vacances d'un des postes, le Comité de direction reste valablement composé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 17, 009; En vigueur : 14-04-2024&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+#### Section Ire.
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 26
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+##### Sous-section Ire.
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 27
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+##### Sous-section II.
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 28
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+#### Section III.
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 29
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 26, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 30
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 15, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 31
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 1, 009; En vigueur : 14-04-2024&gt;
+
+### CHAPITRE IIIbis. [<sup>1</sup> - LE COMITÉ DE CONCERTATION CENTRAL COMPÉTENT POUR LES PRÉROGATIVES DE WBE EN TANT QUE POUVOIR ORGANISATEUR]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-16/05, art. 1, 006; En vigueur : 12-08-2023&gt;
+
+###### Art. 31/1
+
+[<sup>1</sup> § 1er. Il est créé au sein de WBE un comité de concertation central compétent pour exercer, au sein de WBE et pour le personnel des établissements qui en dépendent, les prérogatives confiées au comité de concertation par l'article 11 de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.
+
+§ 2. Sauf dérogations prévues par le présent décret, les règles prévues dans la loi du 19 décembre 1974 précitée ou prises en vertu de celle-ci, sont applicables mutatis mutandis à ce comité de concertation.
+
+§ 3. Ce comité de concertation est aussi compétent pour prévenir ou concilier tout différend qui menacerait de s'élever ou se serait élevé entre une direction d'un établissement et les membres du personnel de cet établissement.
+
+§ 4. L'Administrateur général ou son délégué préside ce comité de concertation. Ce comité adopte son règlement d'ordre intérieur.
+
+§ 5. Le Conseil WBE désigne les autres membres de la délégation de l'autorité dont le nombre est fixé à trois, en tenant compte de l'article 42, §§ 4 et 5, de l'arrêté royal du 28 septembre 1984 portant exécution de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.
+
+§ 6. La délégation de chaque organisation syndicale représentative se compose de trois membres au maximum pour le personnel enseignant et de trois membres au maximum pour le personnel administratif et ouvrier, que l'organisation syndicale représentative choisit librement. Chaque organisation syndicale représentative peut adjoindre à ces membres au maximum deux techniciens par point inscrit à l'ordre du jour.
+
+§ 7. Le secrétariat de ce comité est assuré par les services centraux, sous l'autorité de l'Administrateur général.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-03-16/05, art. 2, 006; En vigueur : 12-08-2023&gt;
+
+### CHAPITRE IV. - LE PERSONNEL DE L'ORGANISME WBE
+
+###### Art. 32
+
+Le Gouvernement fixe le statut administratif et pécuniaire des membres du personnel de l'organisme WBE sur proposition du Conseil WBE.
+
+###### Art. 33
+
+Le Conseil WBE organise, sur proposition de l'administrateur général, les procédures d'appel à candidatures et de sélection du personnel.
+
+###### Art. 34
+
+WBE peut avoir recours à du personnel contractuel afin :
+
+1° de répondre à des besoins exceptionnels et temporaires en personnel, qu'il s'agisse soit de la mise en oeuvre d'actions limitées dans le temps, soit d'un surcroit extraordinaire de travail;
+
+2° de remplacer des agents en cas d'absence totale ou partielle, qu'ils soient ou non en activité de service, quand la durée de cette absence implique un remplacement et dont les modalités sont fixées dans le statut;
+
+3° d'accomplir des tâches auxiliaires ou spécifiques dont la liste est arrêtée par le Gouvernement;
+
+4° de pourvoir à l'exécution de tâches exigeant des connaissances particulières ou une expérience large de haut niveau, toutes les deux pertinentes pour les tâches à exécuter.
+
+###### Art. 35
+
+Les titulaires de fonctions soumises à mandat par le présent décret spécial [<sup>1</sup> et par le statut du personnel visé à l'article 32 ]<sup>1</sup> sont recrutés sous le régime de statutaire temporaire.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 16, 009; En vigueur : 14-04-2024&gt;
+
+### CHAPITRE V. - CONTRAT DE GESTION
+
+###### Art. 36
+
+§ 1er. Le Conseil WBE et la Communauté française concluent un contrat de gestion. Le 30 septembre de l'année qui suit l'année au cours de laquelle est intervenue la prestation de serment des membres d'un nouveau Gouvernement faisant directement suite au renouvellement du Parlement, le Gouvernement sollicite l'avis du Parlement sur les éléments constitutifs du prochain contrat de gestion, tels qu'il les propose dans une note d'intention détaillée.
+
+Le 30 novembre qui suit, le Parlement remet son avis au Gouvernement.
+
+Le 31 décembre de l'année qui suit celle au cours de laquelle est intervenue la prestation de serment des membres d'un nouveau Gouvernement faisant directement suite au renouvellement du Parlement, l'administrateur général de WBE désigné consécutivement à la mise en oeuvre de l'article 18, § 1er, transmet au Gouvernement un projet de contrat de gestion.
+
+Le Gouvernement finalise le contrat de gestion avec WBE en tenant compte de l'avis du Parlement.
+
+§ 2. Le contrat de gestion arrive à échéance le 30 juin de la deuxième année qui suit l'année au cours de laquelle est intervenue la prestation de serment des membres d'un nouveau Gouvernement faisant directement suite au renouvellement du Parlement.
+
+Si à l'expiration d'un contrat de gestion, un nouveau contrat de gestion n'est pas conclu, le contrat de gestion en cours est prorogé de plein droit pendant un an. Au terme de la prorogation si un nouveau contrat de gestion n'est pas conclu, le Gouvernement arrête pour un an un plan de gestion renouvelable une seule fois.
+
+§ 3. L'évaluation de la mise en oeuvre du contrat de gestion visée à l'article 17, § 3 du décret transparence intervient en même temps que le rapport annuel visé à l'article 15.
+
+[<sup>1</sup> § 4. Les principes gouvernant les tarifs des prestations des centres de dépaysement et de plein air accessibles aux autres pouvoirs organisateurs sont repris dans le contrat de gestion.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 17, 009; En vigueur : 14-04-2024&gt;
+
+### CHAPITRE VI. - LES MOYENS ET LA GESTION FINANCIERE
+
+###### Art. 37
+
+WBE bénéficie, outre les moyens et ressources prévus dans des décrets spécifiques, d'une dotation annuelle permettant de couvrir l'ensemble de ses frais de fonctionnement propres et d'exécuter l'ensemble des obligations fixées dans le contrat de gestion.
+
+###### Art. 38
+
+La dotation visée à l'article 37 est composée des montants suivants :
+
+1° un montant de 10.000.997 euros permettant de couvrir l'ensemble des frais généraux propres à WBE et d'exécuter l'ensemble des obligations fixées dans le contrat de gestion, à l'exception des frais de personnel liés à la mise en oeuvre de l'article 63 [<sup>3</sup> ...]<sup>3</sup> ;
+
+2° un montant complémentaire fixé par le Gouvernement correspondant aux coûts salariaux au moment du transfert, majorés de 17%, des membres du personnel transférés en exécution de l'article 63 ;
+
+3° [<sup>5</sup> à partir de l'année 2025, un montant complémentaire est fixé par le Gouvernement pour couvrir le coût des infrastructures administratives de WBE. Ce montant ne peut excéder le coût pris en charge par la Communauté française pour l'année 2024]<sup>5</sup>.
+
+[<sup>1</sup> [<sup>2</sup> En 2020, le montant visé à l'alinéa 1er, 1°, est augmenté d'un montant de 4.274.000 euros. A partir de 2021, le montant visé à l'alinéa 1er, 1°, est augmenté d'un montant de 10.951.000 euros.]<sup>2</sup>]<sup>1</sup>
+
+A partir de l'année 2021, le montant visé à l'alinéa 1er, 2°, ne peut excéder 41.137.500 euros.
+
+[<sup>6</sup> En 2025, le montant visé à l'alinéa 1er, 1°, est réduit de 2.000.000 .]<sup>6</sup>
+
+[<sup>7</sup> [<sup>8</sup> pour les années 2025 à 2029, les montants visés par le présent article ne sont plus indexés.]<sup>8</sup>]<sup>7</sup>
+
+[<sup>5</sup> A partir de l'année 2020, les montants visés aux alinéas 1er, 1°, et 2, sont liés à la fluctuation de l'indice des prix à la consommation. A partir de 2023, le montant visé à l'alinéa 1er, 3°, est lié à la fluctuation de l'indice des prix à la consommation]<sup>5</sup>.
+
+[<sup>1</sup> Une allocation exceptionnelle de 1.880.000 euros permettant de couvrir le plan de gestion du changement est octroyée à WBE en [<sup>2</sup> ...]<sup>2</sup> 2021 et 2022. En 2021 et 2022, ce montant est lié à l'évolution de l'indice des prix à la consommation.]<sup>1</sup>
+
+[<sup>4</sup> En 2024, une dotation exceptionnelle de 3.000.000 euros est octroyée à WBE en vue de la réalisation des travaux d'aménagement de son siège social.]<sup>4</sup>
+
+Le montant visé à l'alinéa 1er, 2° et le montant visé à l'alinéa 2 sont liés à l'évolution de l'indice des prix à la consommation, de l'évolution des barèmes tel que prévu par le statut adapté par le Gouvernement, l'évolution de la charge de retraite des pensions statutaires des OIP, le changement de statut administratif des membres du personnel, tant que le contrat de gestion ne règle pas les modalités d'évolution de la dotation.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 62, 002; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 45, 003; En vigueur : 09-12-2020&gt;
+
+(3)&lt;DCFR 2021-07-14/23, art. 104, 004; En vigueur : 27-08-2021&gt;
+
+(4)&lt;DCFR 2023-12-20/14, art. 69, 005; En vigueur : 01-01-2024&gt;
+
+(5)&lt;DCFR 2024-03-07/29, art. 1, 008; En vigueur : 14-04-2024&gt;
+
+(6)&lt;DCFR 2024-12-11/03, art. 57, 010; En vigueur : 01-01-2025&gt;
+
+(7)&lt;DCFR 2024-12-11/03, art. 58, 010; En vigueur : 01-01-2025&gt;
+
+(8)&lt;DCFR 2025-07-16/16, art. 91, 011; En vigueur : 01-01-2025&gt;
+
+###### Art. 39
+
+§ 1er. WBE peut recevoir des dons, legs, les dividendes et recettes, sous quelque forme que ce soit, de personnes physiques ou des personnes morales, le produit de l'aliénation de biens meubles et immeubles, ainsi que percevoir d'autres recettes ou subventions.
+
+§ 2. WBE peut contracter des emprunts pour financer des dépenses en vue de l'acquisition, la location ou l'entretien de biens immobiliers.
+
+La Communauté peut octroyer sa garantie aux emprunts souscrits.
+
+Le contrat de gestion détermine les modalités de conclusion des emprunts.
+
+§ 3. Les établissements et WBE effectuent tous les transferts financiers nécessaires à l'exécution de leurs missions.
+
+###### Art. 40
+
+Sans préjudice des dispositions du présent décret, la [<sup>1</sup> gestion financière, budgétaire et comptable ]<sup>1</sup> de WBE est assurée conformément[<sup>2</sup> au décret du 4 février 2021 portant organisation du budget, de la comptabilité et du rapportage des organismes administratifs publics de la Communauté française]<sup>2</sup> ou aux dispositions décrétales portant organisation du budget, de la comptabilité et du rapportage des organismes administratifs publics de la Communauté française qui s'y substitueraient.
+
+Dans sa gestion financière, WBE peut reporter tout solde éventuel de ses comptes à l'année budgétaire suivante.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 18,1°, 009; En vigueur : 17-03-2019&gt;
+
+(2)&lt;DCFR 2024-03-07/30, art. 18,2°, 009; En vigueur : 14-04-2024&gt;
+
+## TITRE III. - LES ETABLISSEMENTS
+
+###### Art. 41
+
+WBE met des services de support à la disposition des établissements. Les établissements y recourent aux conditions et selon les modalités fixées par WBE.
+
+Des compétences peuvent leur être déléguées par WBE.
+
+## TITRE IV. - DISPOSITIONS MODIFICATIVES
+
+###### Art. 42
+
+Dans le titre 6 du décret du 5 août 1995 fixant l'organisation générale de l'enseignement supérieur en Hautes Ecoles, il est inséré un chapitre I intitulé " Collège des directeurs-présidents ".
+
+###### Art. 43
+
+Dans le chapitre I inséré par l'article 42, il est inséré un article 79 rédigé comme suit :
+
+" Art. 79. Il est institué un Collège des directeurs-présidents des Hautes Ecoles composé des directeurs-présidents des Hautes Ecoles.
+
+Le Collège des directeurs-présidents des Hautes Ecoles :
+
+1° est un lieu d'échange de bonnes pratiques et de recherche de solutions à des problématiques de gestion communes aux Hautes Ecoles ;
+
+2° rend des avis au Collège réuni de l'Enseignement supérieur visé à l'article 31 du décret spécial du 7 février 2019 portant création de l'organisme public chargé de la fonction de pouvoir organisateur de l'enseignement organisé par la Communauté, d'initiative ou à sa demande.
+
+Le Collège des directeurs-présidents des Hautes Ecoles adopte son règlement d'ordre intérieur. Il prévoit qu'il se réunit au minimum deux fois par an ".
+
+###### Art. 44
+
+Dans la partie II du décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants), il est inséré un titre II bis intitulé " Collège des directeurs ".
+
+###### Art. 45
+
+Dans le titre II bis inséré par l'article 44, il est inséré un article 34duodecies rédigé comme suit :
+
+" Art. 34duodecies. Il est institué un Collège des directeurs des Ecoles Supérieures des Arts composé des directeurs des Ecoles Supérieures des Arts.
+
+Le Collège des directeurs des Ecoles Supérieures des Arts :
+
+1° est un lieu d'échange de bonnes pratiques et de recherche de solutions à des problématiques de gestion communes aux Ecoles Supérieures des Arts ;
+
+2° rend des avis au Collège réuni de l'Enseignement supérieur visé à l'article 31 du décret spécial du 7 février 2019 portant création de l'organisme public chargé de la fonction de pouvoir organisateur de l'enseignement organisé par la Communauté, d'initiative ou à sa demande.
+
+Le Collège des directeurs des Ecoles Supérieures des Arts adopte son règlement d'ordre intérieur. Il prévoit qu'il se réunit au minimum deux fois par an ".
+
+###### Art. 46
+
+Dans l'article 2 de l'arrêté royal du 22 juillet 1969 fixant les règles d'après lesquelles sont classés les candidats à une désignation à titre temporaire dans l'enseignement de l'Etat établissant les règles d'après lesquelles sont classés les candidats à une désignation à titre temporaire dans l'enseignement de l'Etat, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1er, alinéa 1, le mot " trois " est remplacé par le mot " quatre " ;
+
+2° dans le paragraphe 1er, alinéa 3, les mots " qui n'ont pas rendu, pendant 240 jours au moins, " sont remplacés par les mots " qui ont rendu, pendant 1 à 239 jours " ;
+
+3° dans le paragraphe 1er, alinéa 4, les mots " qui ont rendu pendant 1 jour au moins des services dans l'enseignement organisé de la Communauté française et " sont insérés entre les mots " sont classés tous les candidats " et les mots " qui remplissent toutes les conditions " ;
+
+4° dans le paragraphe 1er, il est inséré un alinéa 5 rédigé comme suit :
+
+" Dans le quatrième groupe sont classés tous les candidats qui n'ont rendu aucun service dans l'enseignement organisé de la Communauté française " ;
+
+5° dans le paragraphe 2, alinéa 1er, le mot " trois " est remplacé par le mot " quatre " ;
+
+6° dans le paragraphe 2, alinéa 3, les mots " qui n'ont pas rendu, pendant 240 jours au moins, " sont remplacés par les mots " qui ont rendu, pendant 1 à 239 jours " ;
+
+7° dans le paragraphe 2, alinéa 4, les mots " qui ont rendu pendant 1 jour au moins des services dans l'enseignement organisé de la Communauté française et " sont insérés entre les mots " sont classés tous les candidats " et les mots " qui remplissent toutes les conditions " ;
+
+8° dans le paragraphe 2, il est inséré un alinéa 5 rédigé comme suit :
+
+" Dans le quatrième groupe sont classés tous les candidats qui n'ont rendu aucun service dans l'enseignement organisé de la Communauté française et qui remplissent toutes les conditions visées à l'article 18 de l'arrêté royal du 22 mars 1969 précité, à l'exception du point 5 " ;
+
+9° dans le paragraphe 3, alinéa 1, le mot " trois " est remplacé par le mot " quatre " ;
+
+10° dans le paragraphe 3, alinéa 3, les mots " qui n'ont pas rendu, pendant 240 jours au moins, " sont remplacés par les mots " qui ont rendu, pendant 1 à 239 jours " ;
+
+11° dans le paragraphe 3, alinéa 4, les mots " qui ont rendu pendant 1 jour au moins des services dans l'enseignement organisé de la Communauté française et " sont insérés entre les mots " sont classés tous les candidats " et les mots " qui remplissent toutes les conditions " ;
+
+12° dans le paragraphe 3, il est inséré un alinéa 5 rédigé comme suit :
+
+" Dans le quatrième groupe sont classés les candidats qui n'ont rendu aucun service dans l'enseignement organisé de la Communauté française et qui remplissent toutes les conditions visées à l'article 18 de l'arrêté royal du 22 mars 1969 précité, à l'exception du point 5 ".
+
+###### Art. 47
+
+Dans l'article 3 du même arrêté royal, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1er, alinéa 4, les mots " et troisième groupes " sont remplacés par les mots " , troisième et quatrième groupe " ;
+
+2° dans le paragraphe 1er, alinéa 5, les mots " du troisième groupe " sont remplacés par les mots " des troisième et quatrième groupes " ;
+
+3° dans le paragraphe 1er, il est inséré un alinéa 6 rédigé comme suit :
+
+" Les candidats du troisième groupe ont priorité sur les candidats du quatrième groupe " ;
+
+4° il est inséré un paragraphe 4 rédigé comme suit :
+
+" § 4. Les paragraphes 2 et 3 ne s'appliquent pas aux candidats des quatrièmes groupes ".
+
+###### Art. 48
+
+Dans l'article 5 du même arrêté, les mots " le 30 avril " sont insérés entre les mots " est arrêté " et les mots " sur base du ".
+
+###### Art. 49
+
+Dans l'article 21 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendants de ces établissements et des membres du personnel des services d'inspection chargés de la surveillance de ces établissements, il est inséré un alinéa 3 rédigé comme suit :
+
+" Pour les candidats des quatrièmes groupes visés à l'article 2 de l'arrêté royal du 22 juillet 1969 précité, l'avis indique que les candidatures peuvent être posées jusqu'à la veille du nouvel appel aux candidats publié au cours du mois de janvier en application de l'alinéa 1er ".
+
+###### Art. 50
+
+Dans l'article 26 du même arrêté dont le texte actuel devient le paragraphe 1er, il est inséré un paragraphe 2 rédigé comme suit :
+
+" § 2. Par dérogation au paragraphe 1er, les membres des quatrièmes groupes visés à l'article 2 de l'arrêté royal du 22 juillet 1969 précité sont désignés à titre temporaire par le Ministre sur avis conforme du chef d'établissement.
+
+Le chef d'établissement formule son avis dans les cinq jours ouvrables de la réception des candidatures en tenant compte des titres et mérites des candidats et de l'adéquation de leur profil au projet pédagogique de l'établissement.
+
+Dans l'hypothèse où le Ministre est saisi de plusieurs avis conformes relatifs à la même candidature, il procède à la désignation à titre temporaire du candidat dans l'établissement dont le siège est le plus proche du domicile du candidat ".
+
+###### Art. 51
+
+Dans le paragraphe 1er de l'article 26bis du même arrêté, les modifications suivantes sont apportées :
+
+1° il est inséré un 2° rédigé comme suit :
+
+" 2° les temporaires classés dans le quatrième groupe visé à l'article 2, § 3, alinéa 5, du même arrêté royal dans l'ordre chronologique inverse de leur désignation et, à date de désignation identique, sur avis conforme motivé du chef d'établissement " ;
+
+2° les 1° bis, 1° ter et 1° quater deviennent respectivement les 3°, 4° et 5° ;
+
+3° il est inséré un 6° rédigé comme suit :
+
+" 6° les temporaires classés dans le quatrième groupe visé à l'article 2, § 2, alinéa 5, du même arrêté royal dans l'ordre chronologique inverse de leur désignation et, à date de désignation identique, sur avis conforme motivé du chef d'établissement " ;
+
+4° les 2°, 2° bis et 2° ter deviennent respectivement les 7°, 8° et 9° ;
+
+5° il est inséré un 10° rédigé comme suit :
+
+" 10° les temporaires classés dans le quatrième groupe visé à l'article 2, § 1er, alinéa 5, du même arrêté royal dans l'ordre chronologique inverse de leur désignation et, à date de désignation identique, sur avis conforme motivé du chef d'établissement " ;
+
+6° les 2° quater, 2° quinquies, 3°, 3° bis, 3° ter, 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11°, 12° et 13° deviennent respectivement les 11°, 12° et 13°, 14°, 15°, 16°, 17°, 18°, 19°, 20°, 21°, 22°, 23°, 24° et 25 ;
+
+7° dans le paragraphe 2, l'alinéa 5 est remplacé par ce qui suit :
+
+" Pour l'application des alinéas 1er et 3, il est d'abord mis fin, au sein de la zone où le rappel à l'activité ou le complément de charge est effectué, aux prestations des temporaires titulaires d'un autre titre que d'un titre de capacité requis, ou suffisant ou de pénurie, puis dans l'ordre chronologique inverse de la désignation et à date de désignation identique, sur avis conforme motivé du chef d'établissement des temporaires classés dans le quatrième groupe visé à l'article 2, § 3, alinéa 5, de l'arrêté royal du 22 juillet 1969 précité, puis dans l'ordre inverse du classement dans le troisième groupe visé à l'article 2, § 3, alinéa 4, puis des temporaires classés dans le deuxième groupe visé à l'article 2, § 3, alinéa 3, puis des temporaires classés dans le premier groupe visé à l'article 2, § 3, alinéa 2, puis dans l'ordre chronologique inverse de la désignation et à date de désignation identique, sur avis conforme motivé du chef d'établissement des temporaires classés dans le quatrième groupe visé à l'article 2, § 2, alinéa 5, puis dans l'ordre inverse du classement dans le troisième groupe visé à l'article 2, § 2, alinéa 4, puis dans le deuxième groupe visé à l'article 2, § 2, alinéa 3, et enfin dans le premier groupe visé à l'article 2, § 2, alinéa 2, puis dans l'ordre chronologique inverse de la désignation et à date de désignation identique, sur avis conforme motivé du chef d'établissement des temporaires classés dans le quatrième groupe visé à l'article 2, § 1er, alinéa 5, puis dans l'ordre inverse du classement dans le troisième groupe visé à l'article 2, § 1er, alinéa 4, puis dans le deuxième groupe visé à l'article 2, § 1er, alinéa 3, et, enfin, dans le premier groupe visé à l'article 2, § 1er, alinéa 2.
+
+Toutefois, si l'emploi totalement ou partiellement libéré par le temporaire le moins bien classé entraîne pour les membres du personnel visés aux alinéas 1e et 2 qui en bénéficient un déplacement de plus de quatre heures par jour par les transports en commun, ceux-ci peuvent refuser ce rappel à l'activité ou ce complément de charge. Dans ce cas, il est mis fin, totalement ou partiellement, aux prestations d'abord d'un autre temporaire titulaire d'un autre titre qu'un titre de capacité requis, ou suffisant ou de pénurie, puis d'un temporaire classé dans le quatrième groupe visé à l'article 2, § 3, alinéa 5, de l'arrêté royal du 22 juillet 1969 précité, puis dans le troisième groupe visé à l'article 2, § 3, alinéa 4, puis des temporaires classés dans le deuxième groupe visé à l'article 2, § 3, alinéa 3, puis des temporaires classés dans le premier groupe visé à l'article 2, § 3 alinéa 2, puis des temporaires classés dans le quatrième groupe visé à l'article 2, § 2, alinéa 5, puis dans le troisième groupe visé à l'article 2, § 2, alinéa 4, puis des temporaires classés dans le deuxième groupe visé à l'article 2, § 2, alinéa 3, puis des temporaires classés dans le premier groupe visé à l'article 2, § 2, alinéa 2, puis des temporaires classés dans le troisième groupe visé à l'article 2, § 1er, alinéa 4, du même arrêté et à défaut, du temporaire porteur du titre de capacité relevant de la catégorie des titres requis immédiatement mieux classé.
+
+###### Art. 52
+
+Dans l'article 26ter du même arrêté, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1erbis, les modifications suivantes sont apportées :
+
+a) il est inséré un 2° rédigé comme suit :
+
+" 2° les temporaires classés dans le quatrième groupe visé à l'article 2, § 3, alinéa 5, du même arrêté royal dans l'ordre chronologique inverse de la désignation et, à date de désignation identique, sur avis conforme motivé du chef d'établissement " ;
+
+b) les 1° bis, 1° ter et 1° quater deviennent respectivement les 3°, 4° et 5° ;
+
+c) il est inséré un 6° rédigé comme suit :
+
+" 6° les temporaires classés dans le quatrième groupe visé à l'article 2, § 2, alinéa 5, du même arrêté royal dans l'ordre chronologique inverse de la désignation et, à date de désignation identique, sur avis conforme motivé du chef d'établissement " ;
+
+d) les 2°, 2° bis et 3 deviennent respectivement les 7°, 8° et 9° ;
+
+e) il est inséré un 10° rédigé comme suit :
+
+" 10° les temporaires classés dans le quatrième groupe visé à l'article 2, § 1er, alinéa 5, du même arrêté royal dans l'ordre chronologique inverse de la désignation et, à date de désignation identique, sur avis conforme motivé du chef d'établissement " ;
+
+f) les 3° bis, 3° ter, 3° quater, 4°, 5°, 6°, 7°, 8°, deviennent respectivement les 11°, 12°, 13°, 14°, 15°, 16°, 17°, 18° ;
+
+2° dans le paragraphe 2, l'alinéa 3 est remplacé par un alinéa rédigé comme suit :
+
+" Pour l'application de l'alinéa 1er, dans l'enseignement secondaire de promotion sociale, il est d'abord mis fin, au sein de la zone où le rappel à l'activité ou le complément de charge est effectué, aux prestations des temporaire, puis dans l'ordre chronologique inverse de la désignation et à date de désignation identique, sur avis conforme motivé du chef d'établissement des temporaires classés dans le quatrième groupe visé à l'article 2, § 3, alinéa 5, de l'arrêté royal du 22 juillet 1969 précité, puis dans l'ordre inverse du classement dans le troisième groupe visé à l'article 2, § 3, alinéa 4, puis des temporaires classés dans le deuxième groupe visé à l'article 2, § 3, alinéa 3, puis des temporaires classés dans le premier groupe visé à l'article 2, § 3, alinéa 2, puis dans l'ordre chronologique inverse de la désignation et à date de désignation identique, sur avis conforme motivé du chef d'établissement des temporaires classés dans le quatrième groupe visé à l'article 2, § 2, alinéa 5, puis dans l'ordre inverse du classement dans le troisième groupe visé à l'article 2, § 2, alinéa 4, puis dans le deuxième groupe visé à l'article 2, § 2, alinéa 3, et enfin dans le premier groupe visé à l'article 2, § 2, alinéa 2, puis dans l'ordre chronologique inverse de la désignation et à date de désignation identique, sur avis conforme motivé du chef d'établissement des temporaires classés dans le quatrième groupe visé à l'article 2, § 1er, alinéa 5, puis dans l'ordre inverse du classement dans le troisième groupe visé à l'article 2, § 1er, alinéa 4, puis dans le deuxième groupe visé à l'article 2, § 1er, alinéa 3, et, enfin, dans le premier groupe visé à l'article 2, § 1er, alinéa 2 ".
+
+###### Art. 53
+
+Dans l'article 26quater du même arrêté, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1er, les modifications suivantes sont apportées :
+
+a) dans la première phrase, les mots " permettre d'exercer une fonction à " sont remplacés par les mots " confier des " ;
+
+b) les 13° bis et 13° ter deviennent respectivement les 14° et 15° ;
+
+c) il est inséré un 16° rédigé comme suit :
+
+" 16° les temporaires classés dans le quatrième groupe visé à l'article 2, § 1er, alinéa 5 du même arrêté " ;
+
+d) les 14° et 15° deviennent respectivement les 17° et 18° ;
+
+e) il est inséré des 19°, 20°, 21°, 22°, 23° et 24° rédigés comme suit :
+
+" 19° les temporaires classés dans le troisième groupe visé à l'article 2, § 2, alinéa 4 du même arrêté royal ;
+
+20° les temporaires classés dans le quatrième groupe visé à l'article 2, § 2, alinéa 5 du même arrêté royal ;
+
+21° les temporaires classés dans le premier groupe visé à l'article 2, § 3, alinéa 2 du même arrêté royal ;
+
+22° les temporaires classés dans le deuxième groupe visé à l'article 2, § 3, alinéa 3 du même arrêté royal ;
+
+23° les temporaires classés dans le troisième groupe visé à l'article 2, § 3, alinéa 4 du même arrêté royal ;
+
+24° les temporaires classés dans le quatrième groupe visé à l'article 2, § 3, alinéa 5 du même arrêté royal ; "
+
+f) le 16° devient le 25° ;
+
+2° dans le paragraphe 3, les modifications suivantes sont apportées :
+
+a) dans la première phrase, les mots " renoncer volontairement aux " sont remplacés par le mot " refuser " ;
+
+b) la deuxième phrase est supprimée ".
+
+###### Art. 54
+
+Pendant trois ans ou jusqu'à ce qu'ils acquièrent de l'ancienneté dans l'enseignement de la Communauté française, les candidats qui n'ont rendu aucun service dans l'enseignement organisé de la Communauté française et qui ont déjà introduit une candidature avant le 31 décembre 2020 sont classés, selon le cas, dans le deuxième ou troisième groupe visés à l'article 2 de l'arrêté du 22 juillet 1969 précité.
+
+###### Art. 55
+
+Les articles 46 à 54 s'appliquent pour la première fois à l'occasion de l'appel publié au cours du mois de janvier 2021 en application de l'article 21 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendants de ces établissements et des membres du personnel des services d'inspection chargés de la surveillance de ces établissements.
+
+###### Art. 56
+
+A l'article 18, § 1er, du décret du 12 juillet 2001 visant à améliorer les conditions matérielles des établissements de l'enseignement fondamental et secondaire, les mots " pendant les années 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017 et 2018 " sont remplacés par les mots " pendant les années 2002 à 2038 ".
+
+(NOTE : par son arrêt n° 126/2020 du 01-10-2020 (M.B. 06-11-2020, p. 79516), la Cour constitutionnelle a annulé le présent article)
+
+###### Art. 57
+
+L'article 15 du Décret-programme du 12 décembre 2018 portant diverses mesures relatives à l'organisation du Budget et de la comptabilité, aux Fonds budgétaires, à l'Enseignement supérieur et à la Recherche, à l'Enfance, à l'Enseignement obligatoire et de promotion sociales, aux Bâtiments scolaires, au financement des Infrastructures destinées à accueillir la Cité des métiers de Charleroi, à la mise en oeuvre de la réforme de la formation initiale des enseignants est abrogé.
+
+###### Art. 58
+
+A l'article 50 du décret du 13 septembre 2018 modifiant le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre afin de déployer un nouveau cadre de pilotage, contractualisant les relations entre la Communauté française et les établissements scolaires, l'alinéa 2 est remplacé par :
+
+" En outre, l'article 68, §§ 2 et suivants du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre entrent en vigueur le 1er septembre 2019 au plus tôt ".
+
+###### Art. 59
+
+A l'article 145 du décret du 13 septembre 2018 portant création du Service général de pilotage des écoles et Centres psycho-médico-sociaux et fixant le statut des directeurs de zone et délégués au contrat d'objectifs l'alinéa 1er est remplacé par :
+
+" L'admission au stage dans les fonctions de promotion de Directeur de zone et de Délégué au contrat d'objectifs dans le cadre de la procédure de recrutement visée aux articles 143 et 144 peut intervenir à partir du jour où un décret organisant le travail collaboratif visé à l'article 67, § 4, 4° du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre est entré en vigueur ".
+
+## TITRE V. - DISPOSITIONS FINALES
+
+###### Art. 60
+
+WBE succède aux droits et obligations de la Communauté relatifs aux compétences visées à l'article 2 ainsi qu'aux biens transférés en vertu de l'article 61, en ce compris les droits et obligations résultant de procédures judiciaires en cours et à venir.
+
+Toutefois, restent à charge de la Communauté :
+
+1° les obligations contractées par elle avant l'entrée en vigueur du présent décret lorsque leur paiement est dû à cette date s'il s'agit de dépenses fixes ou de dépenses pour lesquelles une déclaration de créance ne doit pas être produite ;
+
+2° les autres dettes lorsqu'elles sont certaines et que leur paiement a été régulièrement réclamé à cette même date ;
+
+3° les conséquences financières des procédures judiciaires en cours.
+
+###### Art. 61
+
+La propriété des biens meubles et immeubles de la Communauté, tant du domaine public que du domaine privé, indispensables à l'exercice des compétences visées à l'article 2 est transférée, sans indemnité, à WBE. Le Gouvernement arrête la liste des biens immeubles visés à l'alinéa 1er ainsi que les conditions et les modalités de ce transfert. Les transferts sont réalisés de plein droit. Ils sont opposables aux tiers sans autre formalité dès l'entrée en vigueur de cet arrêté.
+
+###### Art. 62
+
+WBE succède aux droits et obligations de la Communauté française en ce qui concerne les bâtiments scolaires affectés au réseau d'enseignement organisé par la Communauté et dont la liste est fixée par le Gouvernement.
+
+Par exception au premier alinéa, les emprunts et leur garantie visées par le décret du 6 décembre 1993 autorisant le Gouvernement de la Communauté française à garantir les emprunts contractés par les sociétés de droit public d'administration des bâtiments scolaires de l'enseignement organisé par les pouvoirs publics restent à charge de la Communauté française ainsi que les frais de fonctionnement et les loyers payés aux six sociétés de droit public d'administration des bâtiments scolaires de l'enseignement organisé par les pouvoirs publics visées par le décret du 5 juillet 1993 portant création de six sociétés de droit public d'administration des bâtiments scolaires de l'enseignement organisé par les pouvoirs publics.
+
+###### Art. 63
+
+§ 1er. En vue de l'exercice des compétences de WBE visées à l'article 2, des membres du personnel du Ministère sont transférés à WBE par arrêtés du Gouvernement.
+
+D'initiative à tout moment qu'il juge opportun et au moins une fois par an, le Conseil WBE adopte un rapport déterminant ses besoins en personnel lui permettant d'exercer l'intégralité de ses missions. Les besoins sont notamment estimés au regard de la stratégie de WBE adoptée par le Conseil et des spécificités des établissements. Le rapport précise notamment le nombre et les compétences des personnels requis, à transférer du Ministère parmi les membres du personnel affecté à des missions dans la sphère de compétences de WBE, et la date de leur entrée en fonction à WBE.
+
+Les premiers transferts [<sup>1</sup> interviennent à partir du 1er septembre]<sup>1</sup>.
+
+Les transferts des membres du Service général du Ministère en charge des infrastructures de WBE et de la Direction générale des Personnels de l'Enseignement organisé par Communauté, à l'exception des agents dédiés aux tâches de fixation et de liquidation du traitement, en ce compris la gestion des absences médicales, des personnels directeurs et enseignants, auxiliaire d'éducation, technique, paramédical, social et psychologique de l'enseignement organisé par la Communauté, des agents chargés des affaires transversales et de la coordination pour les missions relevant du pouvoir régulateur, des agents en charge de tâches CAPELO, des agents d'encadrement des tâches relevant des missions du pouvoir régulateur, des agents chargés de l'indicatage, du courrier et du classement dans le cadre des missions du pouvoir régulateur, des agents en charge du Jury CAP, des agents en charge de la valorisation d'expérience utile et de notoriété pour les personnels des Hautes Ecoles et des Ecoles supérieures des Arts, et des juristes en charge de missions statutaires relevant du pouvoir régulateur, sont réalisés entre le 1er janvier 2021 et le 31 décembre 2023.
+
+Le Gouvernement est habilité à proroger le délai visé à l'alinéa 4.
+
+Les arrêtés du Gouvernement portant transfert du personnel sont adoptés sur avis conforme du Conseil WBE visé à l'alinéa 2.
+
+Les transferts visés aux alinéas 1er et 4 ne sont pas des nouvelles nominations.
+
+§ 2. Le Gouvernement détermine les modalités du transfert des membres du personnel visés au paragraphe 1er.
+
+Ces modalités prévoient notamment que ces membres du personnel sont transférés dans leur grade ou un grade équivalent et en leur qualité.
+
+Ils conservent au moins la rétribution et l'ancienneté qu'ils avaient ou auraient obtenues s'ils avaient continué exercer dans leur service d'origine la fonction dont ils étaient titulaires au moment de leur transfert.
+
+Le statut juridique de ces membres du personnel demeure régi par les dispositions en vigueur au sein du ministère aussi longtemps que le Gouvernement n'aura pas fait usage de cette compétence.
+
+§ 3.[<sup>2</sup> ...]<sup>2</sup>
+
+(NOTE : Le délai visé à l'article 63, § 1er, alinéa 4 est prorogé. -DCFR 2026-06-19/13, art. 1; En vigueur : 01-01-2026)
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 19,1°, 009; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2024-03-07/30, art. 19,2°, 009; En vigueur : 14-04-2024&gt;
+
+## TITRE VI. - DISPOSITIONS TRANSITOIRES
+
+###### Art. 64
+
+§ 1er. Le Conseil WBE est composé de seize administrateurs élus par le Parlement pour la durée de la législature. Ils sont élus à la proportionnelle des groupes politiques reconnus représentés au sein du Parlement en application de la méthode D'Hondt.
+
+Si, en application des dispositions de l'alinéa 1er, un groupe politique reconnu ne dispose pas d'un administrateur au sein du Conseil WBE, il y est représenté par un observateur désigné par le Parlement.
+
+Parmi les administrateurs élus, quatre au moins sont domiciliés sur le territoire de la région bilingue de Bruxelles-Capitale et huit au moins sur le territoire de la région de langue française.
+
+Le Conseil WBE compte au moins un tiers de membres de chaque sexe.
+
+Le Conseil WBE ne peut être composé majoritairement de membres du personnel enseignant ou directeur des établissements de WBE.
+
+§ 2. Siègent avec voix consultative :
+
+1° les présidents du Collège réuni de l'Enseignement supérieur ;
+
+2° toute autre personne invitée en qualité d'expert par le Conseil WBE.
+
+###### Art. 65
+
+Les seize administrateurs sont élus parmi les personnes qui jouissent de leurs droits civils et politiques, justifient de diplômes ou compétences adéquats, d'une parfaite intégrité et d'une connaissance de la gestion publique. Ils sont élus en fonction de la complémentarité de leurs compétences et connaissance des différents types d'enseignement.
+
+###### Art. 66
+
+L'élection des administrateurs a lieu dans les quatre mois qui suivent le renouvellement du Parlement.
+
+Le mandat des administrateurs expire le jour de l'installation de leurs successeurs.
+
+###### Art. 67
+
+Dans le cas où, en cours de législature, un groupe politique reconnu ne posséderait plus d'administrateurs en suffisance, le Parlement procède, à la demande de ses représentants au sein du Parlement, à la désignation du nombre requis d'administrateurs.
+
+En cas d'absence ou d'empêchement prolongé de plus de trois mois d'un administrateur, le Parlement peut mettre fin à son mandat et de le remplacer selon la procédure visée à l'alinéa 1er.
+
+###### Art. 68
+
+La qualité d'administrateur est incompatible avec :
+
+1° la qualité de membre d'un gouvernement, de secrétaire d'Etat du Gouvernement de la Région de Bruxelles-Capitale et avec la qualité de membre d'un cabinet ministériel ;
+
+2° la qualité de membre d'une assemblée législative européenne, fédérale, communautaire et régionale ;
+
+3° la qualité de gouverneur de province ou d'arrondissement administratif, de commissaire d'arrondissement et de député provincial ;
+
+4° la qualité de titulaire d'un mandat de bourgmestre, d'échevin ou de président de C.P.A.S et avec la qualité de membre du cabinet de l'un de ces mandataires ;
+
+5° la qualité de membre du personnel de l'Administration générale de l'Enseignement du Ministère de la Communauté française, des services de l'Inspection et du Pilotage des écoles et centres psycho-médico-sociaux ;
+
+6° l'exercice de toute fonction de nature à créer un conflit d'intérêt personnel ou fonctionnel en raison de l'exercice de la fonction ou de la détention d'intérêts dans une société, une organisation ou un pouvoir organisateur exerçant une activité en concurrence directe avec celles de WBE ;
+
+7° l'appartenance à un organisme qui ne respecte pas les principes de la démocratie tels qu'énoncés, notamment, par la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, par la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie et par la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste pendant la seconde guerre mondiale ;
+
+8° la qualité de conseiller externe ou de consultant régulier de WBE ;
+
+9° la qualité de membre d'une Conférence de zone ou du Collège réuni de l'Enseignement supérieur ;
+
+10° la qualité de responsable, de mandaté permanent ou de délégué permanent d'une organisation syndicale qui défend les intérêts professionnels du personnel enseignant.
+
+###### Art. 69
+
+L'Administrateur général WBE siège avec voix consultative au Conseil WBE. Il peut s'y faire accompagner par toute personne qu'il désigne ou, en cas d'absence ou d'empêchement, s'y faire remplacer par un membre du personnel de l'organisme WBE.
+
+###### Art. 70
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 20, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 71
+
+Par dérogation aux articles 5 à 8 et 29, les articles 64 à 70 s'appliquent au Conseil WBE élu à la suite du renouvellement du Parlement consécutif aux élections du 26 mai 2019.
+
+###### Art. 72
+
+Sans préjudice des dispositions du présent décret, dans l'attente de la mise en oeuvre de l'article 32, les arrêtés du 22 juillet 1996 portant statut des agents des Services du Gouvernement de la Communauté française, du 22 juillet 1996 portant statut pécuniaire des agents des Services du Gouvernement de la Communauté française, du 15 avril 2014 relatif aux conditions d'engagement et à la situation administrative et pécuniaire des membres du personnel contractuel des services du Gouvernement de la Communauté française, du Conseil supérieur de l'audiovisuel et des organismes d'intérêt public qui relèvent du comité de secteur XVII et du 20 septembre 2012 instaurant un régime de mandats pour les fonctionnaires généraux des services du Gouvernement de la Communauté française et des organismes d'intérêt public qui relèvent du Comité de secteur XVII s'appliquent sous réserve des dispositions particulières fixées par le Gouvernement.
+
+###### Art. 73
+
+Dans l'attente de la mise en oeuvre de l'article 63, les membres du personnel du ministère désignés par le Gouvernement, en concertation avec le Secrétaire général du ministère et l'administrateur général WBE, sont placés sous l'autorité fonctionnelle de l'administrateur général WBE dans la mesure où ils agissent dans la sphère des compétences attribuées à WBE par le présent décret spécial.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 21, 009; En vigueur : 01-01-2021&gt;
+
+###### Art. 74
+
+§ 1er. Par dérogation à l'article 17, le premier administrateur général est désigné dans un emploi de rang 17 au sens de l'arrêté du Gouvernement du 22 juillet 1996 portant statut des agents des Services du Gouvernement de la Communauté française par le Parlement dans le respect de la procédure suivante :
+
+1° le Parlement arrête le profil de fonction de l'administrateur général. Le profil de fonction comporte la définition précise des missions générales de gestion et les objectifs généraux à atteindre ;
+
+2° le Parlement lance un appel à candidatures par toute voie de publication adéquate.
+
+Cet appel exige notamment le dépôt d'un projet de gestion par chaque candidat ;
+
+3° un collège de quatre experts externes désignés par le Parlement remet à ce dernier un avis sur chaque candidature dans un délai d'un mois ;
+
+4° après avis de ce collège et après avoir, le cas échéant, procédé à l'audition des candidats, le Parlement remet au Gouvernement un classement des trois candidats qu'il juge les plus aptes ;
+
+5° le Gouvernement désigne l'administrateur général dans le respect du classement remis par le Parlement dans les deux mois de la réception de ce classement.
+
+La procédure visée à l'alinéa 1er est initiée dans les dix jours de la publication du présent décret au Moniteur belge.
+
+§ 2. Le Gouvernement peut octroyer à l'administrateur général une allocation de management comprise entre 0 et 20 % de son traitement. Elle est payée mensuellement. Par traitement, on entend le traitement annuel indexé payable au mois de décembre de l'année en cours.
+
+§ 3. Par dérogation à l'article 18, le mandat de l'administrateur général désigné en application du paragraphe 1er vient à échéance le 30 juin de l'année qui suit l'année au cours de laquelle est intervenue la prestation de serment des membres d'un nouveau Gouvernement faisant directement suite au second renouvellement du Parlement consécutif à l'entrée en vigueur du présent décret.
+
+###### Art. 75
+
+§ 1er. Par dérogation à l'article 22, des directeurs généraux peuvent être désignés dans un emploi de rang 16 au sens de l'arrêté du Gouvernement du 22 juillet 1996 portant statut des agents des Services du Gouvernement de la Communauté française par le Gouvernement dans le respect de la procédure suivante :
+
+1° le Gouvernement arrête un profil de fonction pour chaque fonction de directeur général. Le profil de fonction comporte la définition précise des missions générales de gestion et les objectifs généraux à atteindre ;
+
+2° pour chaque fonction de directeur général, le Gouvernement lance un appel à candidature interne et externe par toute voie de publication adéquate. Cet appel exige notamment le dépôt d'un projet de gestion par chaque candidat ;
+
+3° pour chaque fonction de directeur général, un collège composé de quatre experts externes désignés par le Parlement et de l'administrateur général, s'il est déjà désigné, remet à ce dernier un avis sur chaque candidature dans un délai d'un mois ;
+
+4° pour chaque fonction de directeur général, le Parlement soumet une présélection de maximum trois candidats au Gouvernement ;
+
+5° pour chaque fonction de directeur général, le Gouvernement désigne un directeur général dans le mois de la réception de la présélection des candidats.
+
+Les procédures visées à l'alinéa 1er peuvent être initiée dix jours après la publication du présent décret au Moniteur belge jusqu'à l'élection du Conseil WBE.
+
+§ 2. Par dérogation à l'article 23, le mandat du directeur général désigné en application du paragraphe 1er vient à échéance le 30 septembre de l'année qui suit l'année au cours de laquelle est intervenue la prestation de serment des membres d'un nouveau Gouvernement faisant directement suite au second renouvellement du Parlement consécutif à l'entrée en vigueur du présent décret.
+
+###### Art. 76
+
+L'administrateur général WBE et les directeurs généraux désignés en application des articles 74 et 75, ainsi que les membres du personnel transférés le 1er septembre 2019 en application de l'article 63, § 1er, alinéa 1er, sont placés sous l'autorité fonctionnelle du Gouvernement jusqu'à l'élection du premier Conseil WBE.
+
+###### Art. 77
+
+&lt;Abrogé par DCFR 2024-03-07/30, art. 22, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 78
+
+Jusqu'à la liquidation de la première dotation annuelle, le Gouvernement garantit les moyens pour le fonctionnement de WBE.
+
+###### Art. 79
+
+[<sup>1</sup> Jusqu'à l'année 2024 incluse, la Communauté française met gratuitement à disposition de WBE les locaux nécessaires à l'exercice de ses compétences pour l'hébergement de son siège central ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-03-07/30, art. 23, 009; En vigueur : 14-04-2024&gt;
+
+###### Art. 80
+
+[<sup>1</sup> Par dérogation à l'article 36, § 1er, alinéa 1er, pour la conclusion du premier contrat de gestion, le 31 mars 2021 au plus tard, le Gouvernement sollicite l'avis du Parlement sur les éléments constitutifs du contrat de gestion, tels qu'il les propose dans une note d'intention détaillée.
+
+Par dérogation à l'article 36, § 1er, alinéa 2, le 30 avril 2021, le Parlement remet son avis au Gouvernement.
+
+Par dérogation à l'article 36, § 1er, alinéa 3, l'administrateur général de WBE désigné consécutivement à la mise en oeuvre de l'article 74 transmet un projet de contrat de gestion au Gouvernement le 31 juillet 2021.
+
+Par dérogation à l'article 36, § 2, alinéa 1er, le premier contrat de gestion arrive à échéance le 30 juin 2023.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2020-12-09/15, art. 47, 003; En vigueur : 09-12-2020&gt;
+
+###### Art. 81
+
+Par dérogation à l'article 38 :
+
+1° le montant visé à l'article 38, 1° est fixé à 1.889.096 euros en 2019 et 8.754.177euros en 2020. En 2020, le montant est adapté selon la fluctuation de l'indice des prix à la consommation ;
+
+2° le montant visé à l'article 38, 2° ne peut excéder 2.306.907 euros en 2019 et 6.920.596 euros en 2020. En 2020, le montant est lié à l'évolution de l'indice des prix à la consommation, de l'évolution des barèmes tel que prévu par le statut adopté par le Gouvernement, l'évolution de la charge de retraite des pensions statutaires des OIP, le changement de statut administratif des membres du personnel.
+
+[<sup>1</sup> Le montant visé au paragraphe 1er, 1°, est sans préjudice de l'article 38, alinéa 2.]<sup>1</sup>
+
+Le montant des coûts salariaux, majorés de 17 %, de tout membre du personnel affecté à des tâches relevant du pouvoir organisateur de l'enseignement organisé par le Communauté française ayant été engagé entre le 1er janvier 2019 et le 31 août 2019 et transféré à WBE le 1er septembre 2019, est déduit des montants visés à l'alinéa précédent 1° et ajouté aux montants visés à l'alinéa précédent 2 °.
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 63, 002; En vigueur : 01-01-2020&gt;
+
+###### Art. 82
+
+Dans l'attente de la désignation de l'administrateur général, le Gouvernement désigne la personne qui prend en charge les mesures administratives nécessaires à la création et au lancement de WBE. [<sup>1</sup> En outre, dans l'attente de la désignation de l'administrateur général, le Gouvernement peut désigner un administrateur général ad interim qui exerce toutes les compétences attribuées à l'administrateur général par ou en vertu du présent décret spécial.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-12-18/15, art. 64, 002; En vigueur : 01-11-2019&gt;
+
+###### Art. 83
+
+Entre le 1er septembre 2019 et l'élection du premier Conseil WBE, le Gouvernement exerce les compétences dévolues au Conseil WBE par le présent décret.
+
+###### Art. 84
+
+Les articles 60 à 62 entrent en vigueur le 1er septembre 2019.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 février 2019.
+
+Le Ministre-Président et Ministre en charge de l'Egalité des chances et des Droits des femmes,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de l'Enseignement de Promotion sociale, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de la Jeunesse, de l'Aide à la Jeunesse, des Maisons de Justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT

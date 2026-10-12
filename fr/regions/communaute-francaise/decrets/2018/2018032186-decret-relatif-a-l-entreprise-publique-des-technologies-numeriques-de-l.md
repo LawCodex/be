@@ -1,0 +1,363 @@
+---
+title: "Décret relatif à l'Entreprise publique des Technologies Numériques de l'Information et de la Communication de la Communauté française (ETNIC)"
+identifier: "2018032186"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/25/2018032186/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2018-10-25
+published: 2018-11-16
+entry_into_force: 2019-01-01
+last_amended: 2024-02-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/25/2018032186/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 16-11-2018 et mise à jour au 05-02-2024"
+retrieved: 2026-10-12
+---
+
+# 25 OCTOBRE 2018. - Décret relatif à l'Entreprise publique des Technologies Numériques de l'Information et de la Communication de la Communauté française (ETNIC)
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## CHAPITRE Ier. - DISPOSITIONS GENERALES
+
+#### Art. 1er
+
+Au sens du présent décret, on entend par:
+
+1° " Gouvernement ": le Gouvernement de la Communauté française
+
+2° " Bénéficiaires ": les entités, organismes ou services, dotés ou non de la personnalité juridique, qui bénéficient des missions de l'ETNIC.
+
+Sont visés:
+
+a) Les services du Gouvernement et les cabinets ministériels des membres du Gouvernement;
+
+b) Les organismes d'intérêt public et toute autre structure relevant du Comité de Secteur XVII, ainsi que le Conseil Supérieur de l'Audiovisuel et l'Académie royale des sciences, des lettres et des beaux-arts de Belgique;
+
+c) Les organismes d'intérêt public et les services communs à la Communauté française et à d'autres collectivités publiques, créés par accords de coopération ou décret conjoint visant à ce que l'ETNIC assure tout ou partie des missions de service public visées à l'article 3, § 1er;
+
+d) Les services d'une autre collectivité publique, fédérée ou fédérale, que la Communauté française, ainsi que les entités et organismes qui en dépendent pour lesquels un accord de coopération vise à ce que l'ETNIC assure tout ou partie des missions de service public visées à l'article 3, § 1er, 1° à 4° ;
+
+e) Les personnes morales de droit public créées par la Communauté française ne relevant ni du Comité de Secteur IX ni du Comité de Secteur XVII;
+
+[<sup>1</sup> f) Les services du Parlement de la Communauté française;]<sup>1</sup>
+
+3° " Programmes d'ordinateur ": les programmes standards et les programmes spécifiques, développés ou adaptés pour répondre aux besoins particuliers de l'ETNIC et d'un bénéficiaire, visés à au point 2° de l'article 6 § 1er du présent décret, y compris les logiciels et progiciels;
+
+4° " RGPD ": Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (" Règlement général sur la protection des données ");
+
+5° " Données à caractère personnel ": les données définies à l'article 4, 1) du RGPD;
+
+6° " Traitement ": l' (ou les) opération(s) visée(s) à l'article 4, 2) du RGPD.
+
+----------
+
+(1)&lt;DCFR 2021-12-15/13, art. 71, 002; En vigueur : 01-01-2022&gt;
+
+#### Art. 2
+
+L' " Entreprise publique des Technologies Numériques de l'Information et de la Communication de la Communauté française (ETNIC) ", ci-après dénommée " l'ETNIC ", est un organisme d'intérêt public doté de la personnalité juridique.
+
+## CHAPITRE II. - MISSIONS, MODALITES DE COLLABORATION ET RESSOURCES
+
+### SECTION Ire. - Missions
+
+#### Art. 3
+
+§ 1er. L'ETNIC exerce les missions de service public suivantes pour ses bénéficiaires, dans le cadre commun de gouvernance de la politique du numérique et de l'informatique défini en concertation avec eux:
+
+1° L'organisation de l'informatique qui vise:
+
+a) afin de répondre aux besoins fonctionnels des bénéficiaires, l'identification, l'analyse, la spécification, la traduction, l'acquisition ou le développement, l'exploitation et le contrôle de solutions informatiques et numériques, en ce compris les solutions applicatives et les solutions d'hébergement physique ou virtuel, existantes ou à développer, en ce compris notamment l'implémentation, le paramétrage, le déploiement, la maintenance, et l'hébergement dans le respect des niveaux de service en vigueur;
+
+L'organisation de l'informatique visée à l'alinéa précédent comprend notamment la rémunération du personnel de l'enseignement ainsi que le contrôle de l'obligation scolaire et le comptage des élèves visés par la loi du 23 mai 2000 fixant les critères visés à l'article 39, § 2, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et Régions.
+
+b) l'acquisition et l'inventaire régulièrement mis à jour du matériel informatique nécessaire pour les bénéficiaires;
+
+c) la gestion complète des services d'infrastructure IT et l'exploitation de ces services notamment les serveurs, les postes de travail, l'organisation et le développement technique des réseaux des télécommunications, en ce compris la téléphonie, les innovations numériques ainsi que la maintenance de l'ensemble des composants;
+
+d) la mise en place et l'organisation d'un service de support, en lien avec les missions dévolues à l'ETNIC au sens du présent décret, à destination des bénéficiaires;
+
+e) l'analyse et l'organisation sur le plan technique de la Sécurité du système d'information en étroite collaboration avec les bénéficiaires;
+
+f) le support en matière d'innovation numérique et la veille technologique des outils numériques et informatiques, en ce compris la fixation des standards technologiques et méthodologiques ainsi que l'architecture d'entreprise.
+
+2° L'organisation d'un service d'entrepôt de données;
+
+3° L'organisation, le développement et le déploiement de solutions informatiques dans le cadre de l'administration électronique " Gouvernement électronique " conformément à l'accord de coopération du 21 février 2013 entre la Région wallonne et la Communauté française organisant un service commun en matière de simplification administrative et d'administration électronique dénommé e-Wallonie-Bruxelles Simplification, " eWBS " en abrégé;
+
+4° L'accomplissement de missions de consultance, en lien avec les missions reprises au présent article, visant à offrir de l'expertise en la matière aux bénéficiaires.
+
+§ 2. Afin d'assurer un pilotage efficient de la politique du numérique et de l'informatique de la Communauté française, le Gouvernement arrête les critères qui permettent de déterminer les activités, projets et services que l'ETNIC exerce prioritairement ainsi que les modalités de prise en charge de ceux-ci.
+
+Ces critères visés à l'alinéa 1 doivent, à tout le moins, comprendre les éléments suivants:
+
+1° La transversalité;
+
+2° L'impact budgétaire;
+
+3° L'impact sur l'architecture informatique;
+
+4° Le nombre d'utilisateurs finaux impactés par la solution informatique.
+
+Les modalités de prise en charge visés à l'alinéa 1 doivent, à tout le moins, comprendre le processus de qualification des besoins métiers du bénéficiaire en demandes informatiques.
+
+Ce processus prévoit, à tout le moins, les cas dans lesquels l'ETNIC n'a pas la capacité de réaliser elle-même les activités, projets et services visés à l'alinéa 1 ainsi que les conséquences qui en résultent sur l'exercice de ses missions visées au paragraphe 1.
+
+§ 3. L'ETNIC peut collaborer ou s'associer avec des personnes de droit public ou de droit privé dans le cadre de ses missions.
+
+Le Gouvernement arrête les critères et les modalités de cette collaboration ou association.
+
+Ces critères doivent à tout le moins permettre au Gouvernement:
+
+1° de conserver son autonomie et le contrôle sur l'exercice des missions exercées par l'ETNIC pour le compte de ses bénéficiaires;
+
+2° de s'assurer que la Communauté française n'est pas contrainte à opérer des choix technologiques contraires aux objectifs qu'elle se fixe à court, moyen et long terme.
+
+§ 4. L'ETNIC peut donner accès aux marchés publics qu'elle passe, notamment pour le matériel et les services informatiques, aux personnes de droit public ou privé, bénéficiaires ou non au sens de l'article 1er du présent décret.
+
+Elle peut, à cet effet, organiser des centrales d'achat.
+
+### SECTION II. - Modalités de collaboration
+
+#### Art. 4
+
+§ 1er. Les modalités de collaboration entre l'ETNIC et chaque bénéficiaire sont régies par une convention cadre, qui fixe les droits et les obligations de chaque partie, dans le respect des dispositions du présent décret.
+
+§ 2. Sans préjudice des droits et obligations portés par ou en vertu du présent décret, la convention cadre visée au paragraphe 1er fixe, à tout le moins, les éléments suivants:
+
+1° Le rôle de chacune des parties;
+
+2° Le périmètre des missions exercées par l'ETNIC en application de l'article 3 du présent décret;
+
+3° Le mode de financement qui s'applique au bénéficiaire visé ainsi que les modalités pratiques de ce mode de financement, de paiement et de liquidation, en application de l'article 5 du présent décret;
+
+4° Le cadre de gouvernance et les instances stratégiques dans lesquelles le bénéficiaire et l'ETNIC régissent leur relation et assurent, notamment, le pilotage des missions informatiques remplies par l'ETNIC, fixées par le Gouvernement, en application du décret du 25 octobre 2018 relatif au cadre de gouvernance de la politique de l'informatique et du numérique en Communauté française;
+
+5° Les modalités de prises en charge par l'ETNIC des activités, projets et services du bénéficiaire, fixées par le Gouvernement, en application de l'article 3 § 2 du présent décret;
+
+6° Les modalités relatives à la détention et au transfert éventuel de propriété et de propriété intellectuelle des matériels, des programmes d'ordinateur et de tout autre élément susceptible d'être protégé par des droits de propriété intellectuelle en application de l'article 6 du présent décret;
+
+7° Les modalités d'organisation spécifiques à un bénéficiaire de l'entrepôt des données visé à l'article 3, § 1er, 2° ;
+
+8° Les modalités d'organisation spécifiques à un bénéficiaire en matière de traitement des données à caractère personnel en application du RGPD;
+
+Les modalités de délocalisation des membres du personnel auprès des bénéficiaires, en application de l'article 9 du présent décret.
+
+§ 3. En annexe à la convention cadre visée au paragraphe 1, est reprise, sous forme de fiches, la liste des activités, projets et services réalisés par l'ETNIC pour le bénéficiaire, qui contient au minimum le périmètre, les ressources humaines et financières, la durée ainsi qu'une projection budgétaire pluriannuelle.
+
+§ 4. Chaque convention cadre est conclue entre le Gouvernement, l'ETNIC et le bénéficiaire concerné.
+
+§ 5. Le Gouvernement arrête le modèle de la convention cadre et de ses annexes ainsi que les modalités pratiques relatives à la conclusion et à la mise à jour de la convention cadre et de ses annexes.
+
+### SECTION III. - Ressources et modes de financement
+
+#### Art. 5
+
+§ 1er. L'ETNIC a pour ressources:
+
+1° à titre principal, la dotation annuelle allouée par la Communauté française, celle-ci étant exclusivement affectée à l'exécution par l'ETNIC des missions de service public visées à l'article 3, § 1er du présent décret, à l'exception des consommables nécessaires aux bénéficiaires;
+
+2° de manière exceptionnelle, les recettes fonctionnelles issues de (re)facturation, liées aux missions prestées par l'ETNIC;
+
+3° les moyens transférés ou mis à sa disposition dans le cadre de conventions ou d'accords de coopération conclus avec d'autres autorités publiques;
+
+4° les dons et legs faits en sa faveur.
+
+§ 2. En application du § 1er, 1°, le décret contenant le budget des dépenses de la Communauté française détermine les crédits inscrits à l'article de base " Dotation annuelle de l'ETNIC " et les crédits inscrits, dans la même division organique réservée à l'informatique, aux autres articles de base destinés à couvrir les dépenses liées à des demandes spécifiques.
+
+Ces crédits inscrits aux autres articles de base destinés à couvrir les dépenses liées à des demandes spécifiques peuvent faire l'objet de nouvelle répartition des crédits en cours d'année afin d'approvisionner l'article de base de la dotation annuelle de l'ETNIC.
+
+§ 3. Le gouvernement arrête, pour chaque mode de financement prévu au paragraphe 1er, les modalités de recensement des demandes informatiques introduites à l'ETNIC qui ont un impact budgétaire.
+
+§ 4. Les autres modalités pratiques relatives aux modes de financement prévus au paragraphe 1er sont prévues dans la convention cadre conclue entre l'ETNIC et chacun de ses bénéficiaires conformément à l'article 4 du présent décret.
+
+§ 5. La dotation annuelle visée au § 1er, 1°, est liquidée en deux tranches.
+
+La première tranche est versée au plus tard le 15 février de l'année civile concernée et correspond à 80 % du montant de la dotation.
+
+La seconde tranche correspondant au solde de la dotation annuelle est versée au plus tard le 15 novembre de l'année civile concernée, sur remise d'un rapport d'exécution contenant l'exécution budgétaire provisoire et l'état des besoins de l'ETNIC.
+
+Le rapport visé à l'alinéa 3 est présenté à l'inspection des finances qui vérifie l'exactitude des informations sur le plan budgétaire et comptable.
+
+## CHAPITRE III. - PROPRIETE
+
+#### Art. 6
+
+§ 1er. A l'égard de ses bénéficiaires, l'ETNIC est titulaire:
+
+1° des droits de propriété sur les matériels qui lui sont transférés ou qu'elle acquiert pour elle-même ou pour ses bénéficiaires;
+
+2° des droits de propriété intellectuelle et de nature équivalente sur les programmes d'ordinateur et sur tout autre élément susceptible d'être protégé par ceux-ci, qu'elle acquiert d'une quelconque manière pour elle-même ou pour ses bénéficiaires;
+
+3° des droits issus de licences d'utilisation et d'exploitation sur les éléments visés sous 2° lorsqu'ils sont concédés par un tiers pour elle-même et pour ses bénéficiaires.
+
+§ 2. Les modalités pratiques relatives à la détention de droits de propriété et de propriété intellectuelle sont fixées par la convention cadre visée à l'article 4 du présent décret.
+
+## CHAPITRE IV. - PERSONNEL
+
+#### Art. 7
+
+Le cadre et le statut du personnel, ses rémunérations et ses indemnités sont fixés par le Gouvernement.
+
+#### Art. 8
+
+Pour ce qui concerne les fonctions en liaison avec l'implantation et l'utilisation des technologies liées à ses missions de service public, l'ETNIC fait appel à du personnel engagé sous contrat de travail, et ce, aux fins exclusives d'accomplir des tâches spécifiques.
+
+#### Art. 9
+
+§ 1er. Les membres du personnel de l'ETNIC peuvent, dans le cadre des missions de consultance visées à l'article 3, § 1er, 4°, faire l'objet de délocalisations temporaires vers les services fonctionnels des bénéficiaires.
+
+Ces délocalisations temporaires ne constituent pas des mises à disposition au sens de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs.
+
+§ 2. La convention cadre visée à l'article 4 fixe, à tout le moins, les éléments suivants:
+
+1° Le rôle de l'ETNIC en tant qu'autorité hiérarchique et, le cas échéant, du bénéficiaire en matière d'instructions fonctionnelles;
+
+2° Les missions spécifiques de consultance et les profils qui font l'objet de délocalisation temporaire;
+
+3° Le coût et le mode de financement des délocalisations;
+
+4° Les modalités d'exécution;
+
+5° Les modalités d'évaluation des délocalisations et du suivi des missions.
+
+## CHAPITRE V. - ORGANISATION ET GESTION
+
+#### Art. 10
+
+§ 1er. L'ETNIC est dirigée par un(e) Administrateur(trice) général(e) qui assure la gestion quotidienne de l'ETNIC.
+
+Le siège de l'ETNIC est fixé par le Gouvernement.
+
+§ 2. L'Administrateur(trice) général(e) est assisté(e) d'un(e) administrateur(trice) général(e) adjoint(e), d'un(e) directeur(trice) général(e) de l'informatique et d'un comité de direction dont il/elle assume la présidence.
+
+En cas d'absence ou d'empêchement de l'Administrateur(trice) général(e), il/elle est remplacé par l'Administrateur(trice) général(e) adjoint(e).
+
+§ 3. L'Administrateur(trice) général(e) représente l'ETNIC dans les actes judiciaires et extrajudiciaires et agit valablement en nom et pour compte de l'ETNIC.
+
+§ 4. Le comité de direction visé au paragraphe 2 est composé des fonctionnaires généraux de l'ETNIC, avec voix délibérative, et des membres de son personnel, avec voix consultative, que le Gouvernement désigne à cet effet.
+
+#### Art. 11
+
+Le Gouvernement arrête les délégations de compétence, de pouvoir et de signature, qui sont accordées aux fonctionnaires généraux, au comité de direction et aux membres du personnel, notamment en matière de fonctionnement général, de marchés publics et de personnel.
+
+#### Art. 12
+
+§ 1er. Les tâches à réaliser à moyen terme, et leur impact budgétaire, pour atteindre les objectifs stratégiques et les objectifs opérationnels prioritaires nécessaires à la mise en oeuvre et à l'optimisation interne de l'ETNIC sont fixées dans un contrat d'administration, approuvé par le Gouvernement.
+
+§ 2. Le modèle et les modalités du contrat d'administration visé au paragraphe 1er sont déterminés par le Gouvernement.
+
+#### Art. 13
+
+Sans préjudice des dispositions de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, le Gouvernement peut déterminer les modalités pour la remise de rapport de gestion journalière.
+
+#### Art. 14
+
+§ 1er. L'ETNIC transmet au plus tard le 30 juin au Gouvernement un rapport annuel d'activités de l'année précédente.
+
+§ 2. Le Gouvernement le transmet au Parlement de la Communauté française dans le mois de sa prise d'acte.
+
+§ 3. Ce rapport indique notamment:
+
+1° les mesures prises par l'ETNIC pour remplir ses missions de service public en application du contrat d'administration visé à l'article 12, § 1er;
+
+2° de manière anonyme, les informations relatives à la rémunération de l'Administrateur(rice) général(e), de l'Administrateur(trice) général(e) adjoint(e) et du (de la) directeur(trice) général(e) de l'informatique.
+
+## CHAPITRE VI. - BUDGET ET COMPTES
+
+#### Art. 15
+
+&lt;Abrogé par DCFR 2023-11-23/51, art. 15, 003; En vigueur : 01-01-2024&gt;
+
+#### Art. 16
+
+&lt;Abrogé par DCFR 2023-11-23/51, art. 15, 003; En vigueur : 01-01-2024&gt;
+
+#### Art. 17
+
+&lt;Abrogé par DCFR 2023-11-23/51, art. 15, 003; En vigueur : 01-01-2024&gt;
+
+#### Art. 18
+
+§ 1er. L'ETNIC est soumise au révisorat d'entreprise.
+
+Le Gouvernement détermine les modalités de ce révisorat.
+
+§ 2. Le Gouvernement approuve le plan comptable, les règles d'évaluation et d'amortissement de l'ETNIC.
+
+§ 3. Le bénéfice net est le solde du compte de résultats défini par le plan comptable, après dotation aux amortissements et provisions autorisées par le Gouvernement.
+
+§ 4. Le Gouvernement détermine les modalités d'affectation du bénéfice net de l'exercice.
+
+#### Art. 19
+
+&lt;Abrogé par DCFR 2023-11-23/51, art. 15, 003; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE VII. - DISPOSITIONS TRANSITOIRES, MODIFICATIVES ET FINALES
+
+#### Art. 20
+
+§ 1er. A l'article 1er, catégorie A de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, les mots " Entreprise publique des Technologies Numériques de l'information et de la Communication de la Communauté française " sont insérés à leur place dans l'ordre alphabétique.
+
+§ 2. A l'article 1er, catégorie B de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, les mots " Entreprise publique des Nouvelles Technologies de l'Information et de la Communication de la Communauté française " sont supprimés.
+
+§ 3. Les dispositions de de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public sont applicables pour autant qu'il n'y soit pas dérogé par le présent décret.
+
+§ 4. A l'article 1er, 1°. , c) du décret du 9 janvier 2003 relatif à la transparence, à l'autonomie et au contrôle des organismes publics, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française, les mots " l'ETNIC visée par le décret du 27 mars 2002 portant création de l'Entreprise publique des Technologies nouvelles de l'Information et de la Communication en Communauté française " sont supprimés.
+
+A l'article 2, alinéa 2, point 4, du même décret, les mots " l'article 4, §§ 1er à 3 n'est pas applicable à l'ETNIC " sont supprimés.
+
+#### Art. 21
+
+L'organisme d'intérêt public visé à l'article 2 du présent décret succède à la personne juridique de l'organisme d'intérêt public visé à l'article 2 du décret du 27 mars 2002 portant création de l'Entreprise publique des Technologies nouvelles de l'Information et de la Communication de la Communauté française (ETNIC) et en exerce les compétences.
+
+L'ensemble des droits, obligations et engagements quelconques pris avant l'entrée en vigueur du présent décret sont maintenus.
+
+#### Art. 22
+
+§ 1er. Le décret du 27 mars 2002 portant création de l'Entreprise publique des Technologies nouvelles de l'Information et de la Communication de la Communauté française (ETNIC) est abrogé.
+
+§ 2. Les dispositions prises en exécution du décret visé au paragraphe 1 sont réputées adoptées en vertu du présent décret et restent en vigueur jusqu'à leur abrogation par le Gouvernement.
+
+#### Art. 23
+
+Le présent décret entre en vigueur à la date fixée par le Gouvernement et au plus tard le 1er janvier 2019.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 octobre 2018.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de l'Aide à la Jeunesse, des Maisons de Justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT
+
+La Ministre de l'Enseignement de Promotion sociale, de la Jeunesse, des Droits des Femmes et de l'Egalité des Chances,
+
+I. SIMONIS

@@ -1,0 +1,100 @@
+---
+title: "Décret portant diverses mesures relatives à l'Enseignement supérieur et à la Recherche. - Addendum"
+identifier: "2019042636"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019042636/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2019-05-03
+published: 2019-12-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019042636/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 3 MAI 2019. - Décret portant diverses mesures relatives à l'Enseignement supérieur et à la Recherche. - Addendum
+
+## Art. M
+
+Dans le décret du 3 mai 2019 portant diverses mesures relatives à l'Enseignement supérieur et à la Recherche publié au Moniteur belge du 2 août 2019 à la page 75906, il y a lieu d'ajouter à la suite de la page 75994, la page décrite ci-dessous :
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110138)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110143)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110144)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110145)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110146)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110147)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110148)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110149)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110150)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110151)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110152)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110153)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110154)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110155)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110156)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110157)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110158)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110159)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110160)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110161)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110162)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110163)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110164)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110165)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110166)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110167)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110168)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110169)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110170)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110171)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110172)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110173)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110174)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110175)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110176)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110177)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110178)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110179)
+
+(Image non reprise pour des raisons techniques, voir M.B. du 05-12-2019, p. 110180)

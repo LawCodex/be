@@ -1,0 +1,2315 @@
+---
+title: "Décret portant création du Service général de pilotage des écoles et Centres psycho-médico-sociaux et fixant le statut des directeurs de zone et délégués au contrat d'objectifs"
+identifier: "2018014153"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/13/2018014153/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2018-09-13
+published: 2018-10-09
+entry_into_force: 2018-09-13
+last_amended: 2026-04-22
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/13/2018014153/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 09-10-2018 et mise à jour au 22-04-2026"
+retrieved: 2026-10-12
+---
+
+# 13 SEPTEMBRE 2018. - Décret portant création du Service général de pilotage des écoles et Centres psycho-médico-sociaux et fixant le statut des directeurs de zone et délégués au contrat d'objectifs
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## TITRE Ier. - Du service général de pilotage des écoles et des centres psycho-médico-sociaux
+
+### CHAPITRE Ier. - Dispositions générales
+
+###### Art. 1er
+
+§ 1er. Le présent décret s'applique à l'enseignement fondamental, maternel, primaire, secondaire, ordinaire et spécialisé, de plein exercice ou en alternance, organisé ou subventionné par la Communauté française.
+
+Il s'applique également aux centres psycho-médico-sociaux organisés ou subventionnés par la Communauté française.
+
+§ 2. Pour l'application du présent décret, il y a lieu d'entendre par :
+
+1° " le Service général " : le Service général du Pilotage des Ecoles et Centres psycho-médico-sociaux créé à l'article 3;
+
+2° " le Délégué coordonnateur " : le délégué coordonnateur visé à l'article 3;
+
+3° " le Directeur général " : le fonctionnaire général en charge de la Direction générale du Pilotage du Système Educatif;
+
+4° [<sup>2</sup> " le Code ": le Code de l'enseignement fondamental et de l'enseignement secondaire;]<sup>2</sup>
+
+5° [<sup>3</sup> " l'Institut interréseaux de la Formation professionnelle continue " : l'Institut interréseaux de la Formation professionnelle continue créé par l'article 25 du décret du 11 juillet 2002 relatif à l'Institut interréseaux de la Formation professionnelle continue (IFPC);]<sup>3</sup>
+
+6° " zones " : les zones telles que définies à l'article 1er de l'arrêté de l'Exécutif de la Communauté française du 15 mars 1993 fixant les obligations de concertation entre les établissements dans l'enseignement secondaire de plein exercice;
+
+7° " écoles " : les établissements d'enseignement [<sup>4</sup> tels que visés à l'article 1.3.1-1, 23°,]<sup>4</sup>;
+
+8° " plan de pilotage " : le plan [<sup>2</sup> tel que défini à l'article 1.3.1-1, 45° /1 du Code]<sup>2</sup>;
+
+9° " contrat d'objectifs " : le contrat [<sup>2</sup> tel que défini à l'article 1.3.1-1, 18° /1 du Code ]<sup>2</sup>;
+
+10° " dispositif d'ajustement " : le dispositif visé à l'article [<sup>2</sup> 1.3.1-1, 22° /1 du Code]<sup>2</sup>;
+
+11° " protocole de collaboration " : le dispositif visé à l'article [<sup>2</sup> 1.3.1-1, 49° /1 du Code]<sup>2</sup>;
+
+12° " jour ouvrable " : le lundi, mardi, mercredi, jeudi ou vendredi non férié;
+
+[<sup>1</sup> 13° " [<sup>4</sup> l ]<sup>4</sup> Cellule intermédiaire de coordination ": la cellule crée par l'article [<sup>2</sup> 1.6.1-2 du Code]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/06, art. 152, 002; En vigueur : 26-02-2019&gt;
+
+(2)&lt;DCFR 2022-02-24/18, art. 106, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFR 2021-06-17/28, art. 53, 009; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFR 2024-04-18/34, art. 1, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 2
+
+L'emploi dans le présent décret des noms masculins pour les différents titres et fonctions est épicène en vue d'assurer la lisibilité du texte nonobstant les dispositions du décret du 21 juin 1993 relatif à la féminisation des noms de métier.
+
+###### Art. 3
+
+§ 1er. Il est créé, auprès du Gouvernement, un Service général de Pilotage des Ecoles et des Centres psycho-médico-sociaux, ci-après dénommé " le Service général ", dirigé par un Délégué coordonnateur.
+
+[<sup>1</sup> La Cellule intermédiaire de coordination exerce la coordination entre le Service général de l'Inspection et le Service général du Pilotage des Ecoles et des Centres psycho-médico-sociaux, ainsi que la coordination entre les deux Services généraux précités et les services et directions placés au sein de la Direction générale du Pilotage du Système Educatif.]<sup>1</sup>
+
+§ 2. Le service général est, notamment, chargé de la contractualisation avec les écoles visée aux articles [<sup>2</sup> 1.5.2-1 à 1.5.2-22 [<sup>3</sup> ...]<sup>3</sup> du Code]<sup>2</sup>.
+
+Ce Service général comprend notamment :
+
+1° 9 directeurs de zone [<sup>3</sup> maximum ]<sup>3</sup>;
+
+2° 88 délégués au contrat d'objectifs.
+
+Sans préjudice de l'article 5, § 3, il est affecté un directeur de zone pour chaque zone. Le Gouvernement fixe la répartition des délégués au contrat d'objectifs entre les différentes zones en tenant compte, notamment, du nombre d'écoles organisées ou subventionnées par la Communauté française sur le territoire de chaque zone.
+
+Les modalités de fonctionnement au sein du Service général, notamment l'organisation de réunions régulières ou de groupes de travail, sont déterminées par le Délégué coordonnateur.
+
+Les modalités de fixation de la résidence administrative des directeurs de zone et des délégués au contrat d'objectifs sont fixées par le Gouvernement.
+
+Le Gouvernement, [<sup>3</sup> évalue le fonctionnement du Service tous les six ans. Après évaluation, il]<sup>3</sup> peut réévaluer le nombre de délégués au contrat d'objectifs en tenant compte du nombre, exprimé en unité, des établissements d'enseignement fondamental et secondaire de plein exercice et en alternance, ordinaire et spécialisé, organisé ou subventionné par la Communauté française. Cette réévaluation ne peut porter d'effets qu'à compter du 1er janvier [<sup>3</sup> 2026]<sup>3</sup> au plus tôt.
+
+----------
+
+(1)&lt;DCFR 2019-01-10/06, art. 153, 002; En vigueur : 26-02-2019&gt;
+
+(2)&lt;DCFR 2022-02-24/18, art. 107, 008; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFR 2024-04-18/34, art. 2, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 4
+
+Pour le 1er juillet de chaque année, le Délégué coordonnateur transmet au Gouvernement, par la voie hiérarchique, un bilan relatif à chacune des missions du Service général.
+
+### CHAPITRE II. - Des directeurs de zone
+
+###### Art. 5
+
+§ 1er. Les directeurs de zone visés à l'article 3 sont chargés :
+
+1° de la coordination et de la supervision des délégués au contrat d'objectifs de leur zone, notamment en ce qui concerne :
+
+a) la procédure de contractualisation des plans de pilotage, le suivi de leur degré de réalisation et l'évaluation des contrats d'objectifs;
+
+b) la procédure de contractualisation des dispositifs d'ajustements, le suivi de leur degré de réalisation et l'évaluation des protocoles de collaboration;
+
+2° de la signature des contrats d'objectifs et des protocoles de collaboration;
+
+3° avec le Délégué coordonnateur, au sein de l'instance collégiale ainsi formée, de la gestion de la demande motivée d'un établissement en cas de désaccord persistant entre un établissement et le délégué aux contrats d'objectifs, soit sur l'appréciation de celui-ci de l'adéquation d'un plan de pilotage avec les objectifs d'amélioration et, le cas échéant, avec les objectifs particuliers ou sur sa conformité, soit sur l'évaluation de la mise en oeuvre du contrat d'objectif ;
+
+4° de l'analyse des demandes d'audit à réaliser par le Service général de l'Inspection introduites par un délégué au contrat d'objectifs ou un pouvoir organisateur et de la transmission de celles-ci pour décision au Délégué coordonnateur;
+
+5° de la coordination interréseaux par zone selon les modalités définies par ou en vertu des lois, décrets et règlements;
+
+6° de l'élaboration, tous les ans, du rapport d'activités de leur zone selon le modèle fixé par le Délégué coordonnateur;
+
+7° de la formulation d'avis et de propositions, d'initiative ou à la demande du Gouvernement, sur tout ce qui relève de leur compétence;
+
+8° de l'exercice de toutes autres tâches qui leur sont confiées par ou en vertu des lois, décrets et règlements ainsi que toutes autres missions qui leur sont attribuées dans l'intérêt du service par le Délégué coordonnateur.
+
+§ 2. Le Gouvernement fixe le profil de fonction du directeur de zone.
+
+§ 3. Les directeurs de zone exercent leurs missions au sein de leur zone d'affectation.
+
+Toutefois, selon les besoins, ils peuvent être chargés de plusieurs zones et être autorisés par le Délégué coordonnateur à effectuer des missions au sein d'une autre zone.
+
+§ 4. Les modalités d'exercice des missions visées au présent article sont déterminées par le Délégué coordonnateur, dans le respect des dispositions arrêtées par le Gouvernement en exécution du [<sup>1</sup> Code]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 108, 008; En vigueur : 01-09-2020&gt;
+
+###### Art. 6
+
+Dans le cadre de sa mission de coordination et de supervision des délégués au contrat d'objectifs de sa zone, le directeur de zone est responsable des procédures qui le concernent aux articles [<sup>1</sup> 1.5.2-1, à 1.5.2-22, du Code]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 109, 008; En vigueur : 01-09-2020&gt;
+
+### CHAPITRE III. - Des délégués au contrat d'objectifs
+
+###### Art. 7
+
+§ 1er. Les délégués au contrat d'objectifs visés à l'article 3 sont chargés :
+
+1° de la procédure de contractualisation des plans de pilotage, du suivi de leur degré de réalisation et de l'évaluation des contrats d'objectifs tels que définis [<sup>1</sup> aux articles 1.5.2-1 à 1.5.2-12 du Code]<sup>1</sup> et ses arrêtés d'exécution;
+
+2° de la procédure de contractualisation des dispositifs d'ajustement, du suivi et l'évaluation de leur degré de réalisation et de l'évaluation de la mise en oeuvre des protocoles de collaboration tels que définis [<sup>1</sup> aux articles 1.5.2-13 à 1.5.2-22 du Code]<sup>1</sup> et ses arrêtés d'exécution;
+
+3° de la procédure de contractualisation des plans de pilotage, du suivi de leur degré de réalisation et de l'évaluation des contrats d'objectifs conclus entre un centre psycho-médico-social et le Gouvernement;
+
+[<sup>3</sup> 3° /1 de réaliser à partir des plans de formation la collecte des besoins en matière de formations professionnelles continues conformément à l'article 9/1 ;]<sup>3</sup>
+
+4° de l'organisation de la passation, de la correction et du jury externe de l'épreuve externe commune conduisant à la délivrance du Certificat d'Etudes de Base au terme de l'enseignement primaire ainsi que [<sup>2</sup> en collaboration avec le Service général de l'Inspection,]<sup>2</sup> de l'organisation de la passation, de la correction ou du jury de toutes autres épreuves externes certificatives qui leur seraient confiées par le Gouvernement;
+
+5° de la formulation d'avis et de propositions, d'initiative ou à la demande du Gouvernement, sur tout ce qui relève de leur compétence;
+
+6° de la participation à des groupes de travail, commissions et conseils, en vertu des lois, décrets et règlements;
+
+7° de l'exercice de toutes autres tâches qui leur sont confiées par ou en vertu des lois, décrets et règlements ainsi que toutes autres missions qui leur sont attribuées dans l'intérêt du service par le Délégué coordonnateur ou le directeur de zone dont ils dépendent.
+
+§ 2. Le Gouvernement fixe le profil de fonction du délégué au contrat d'objectifs.
+
+§ 3. Les délégués au contrat d'objectifs exercent leurs missions au sein de leur zone d'affectation. Toutefois, selon les besoins, ils peuvent être [<sup>4</sup> mobilisés]<sup>4</sup> par le Délégué coordonnateur et selon les modalités qu'il détermine avec le directeur de zone concerné, à effectuer des missions au sein d'une autre zone.
+
+§ 4. Les modalités d'exercice des missions visées au présent article sont déterminées par le Délégué coordonnateur, dans le respect des dispositions arrêtées par le Gouvernement en exécution [<sup>1</sup> du Code]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 110,1°, 008; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFR 2022-02-24/18, art. 110,3°, 008; En vigueur : 01-06-2021&gt;
+
+(3)&lt;DCFR 2021-06-17/28, art. 54, 009; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFR 2024-04-18/34, art. 4, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 8
+
+Le délégué au contrat d'objectifs exerce ses missions conformément [<sup>1</sup> aux articles 1.5.2-1 à 1.5.2-12 du Code]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 111, 008; En vigueur : 01-09-2020&gt;
+
+###### Art. 9
+
+Le délégué au contrat d'objectifs exerce ses missions conformément [<sup>1</sup> aux articles 1.5.2-13 à 1.5.2-22 du Code]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 112, 008; En vigueur : 01-09-2020&gt;
+
+###### Art. 9/1.
+
+[<sup>1</sup> Tous les six ans, sur la base des plans de formation repris dans les contrats d'objectifs, les délégués au contrat d'objectifs collectent les besoins en matière de formations professionnelles continues répondant à des besoins collectifs. Ils en font l'analyse avec les services du gouvernement et transmettent celle-ci au Conseil de la formation professionnelle continue par la voie hiérarchique pour le 1er avril.
+
+Sur base des éléments relevés lors des évaluations intermédiaires, les délégués au contrat d'objectifs collectent les éventuels besoins nouveaux en matière de formations professionnelles continues répondant à des besoins collectifs. Ils en font l'analyse avec les services du gouvernement et transmettent celle-ci au Conseil de la formation professionnelle continue par la voie hiérarchique pour le 1er avril.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/28, art. 55, 009; En vigueur : 01-09-2022&gt;
+
+## TITRE II. [<sup>1</sup> - De l'accès aux fonctions de directeur de zone et de délégué au contrat d'objectifs]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 3, 010; En vigueur : 18-04-2024&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> Chapitre Ier. - Des conditions d'accès ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 5, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 10
+
+Sur la proposition du Délégué coordonnateur, fondée sur les nécessités du Service, le Gouvernement organise[<sup>1</sup> ...]<sup>1</sup> une épreuve [<sup>1</sup> d'admission au stage]<sup>1</sup> donnant accès selon le cas à la fonction de directeur de zone ou à la fonction de délégué au contrat d'objectifs.
+
+Le Gouvernement arrête les modalités de la publicité[<sup>1</sup> ...]<sup>1</sup>l'épreuve de [<sup>1</sup> ...]<sup>1</sup> [<sup>1</sup> visée ]<sup>1</sup> à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 6, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 11
+
+[<sup>1</sup> Sur proposition du Délégué coordonnateur, le Gouvernement fixe le nombre de postes à pourvoir et décline ceux-ci par zone et groupement de zones. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 12
+
+[<sup>1</sup> Les postes de directeur de zone sont prioritairement pourvus par l'admission au stage des délégués au contrat d'objectifs nommés qui remplissent les conditions visées à l'article 14, § 1er ou § 2, à la date de l'introduction de leur demande de participation à l'épreuve d'admission au stage et jusqu'au jour de la nomination et qui se sont portés candidats lors d'un appel interne, moyennant la réussite d'une épreuve spécifique, un stage d'une durée d'un an et une épreuve de nomination spécifique.
+
+Un appel public n'est lancé pour ces postes qu'en l'absence de candidat disponible selon cette procédure ou dans la réserve.
+
+Le cas échéant, une réserve par groupement de zone est constituée pour une durée de cinq ans. Cette réserve est prioritaire sur celle constituée au terme d'un appel public.
+
+Lorsqu'un emploi est ouvert et qu'il n'y a pas ou plus de lauréats dans un groupement de zones, mais qu'il y a des lauréats en réserve dans les autres zones, l'emploi est proposé à ces derniers dans l'ordre du classement général. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 13
+
+[<sup>1</sup> Le Gouvernement lance un appel public par lequel il invite les membres du personnel ou toute autre personne à introduire leur candidature à l'épreuve d'admission au stage dans ces emplois en indiquant un ou plusieurs groupements de zones pour lesquels ils se portent candidats et à classer ceux-ci, le cas échéant, par ordre de préférence.
+
+Aucun appel à candidature ne peut être lancé et aucun dépôt de candidature ne peut avoir lieu pendant la période des vacances scolaires d'été.
+
+Les quatre groupements de zones sont les suivants :
+
+a) Brabant wallon et Bruxelles ;
+
+b) Hainaut centre et Wallonie picarde ;
+
+c) Hainaut sud, Luxembourg et Namur ;
+
+d) Huy-Waremme, Verviers et Liège. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 14
+
+[<sup>1</sup> § 1er. Nul n'est admis à s'inscrire aux épreuves donnant à la fonction de directeur de zone et/ou de délégué au contrat d'objectifs si, à la date de l'introduction de sa demande de participation à l'épreuve d'admission au stage et jusqu'au jour de la nomination, il ne remplit pas les conditions suivantes :
+
+1° être belge ou ressortissant d'un Etat faisant partie de l'Espace économique européen ou de la Suisse ou disposer d'un titre de séjour et d'un permis de travail valides ;
+
+2° être de conduite irréprochable ;
+
+3° jouir des droits civils et politiques ;
+
+4° avoir satisfait aux lois sur la milice ;
+
+5° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique ;
+
+6° être a minima titulaire d'un grade académique de bachelier au sens du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études ;
+
+7° être titulaire d'une fonction dans l'enseignement subventionné ou organisé par la Communauté française ;
+
+8° compter une ancienneté de service de sept ans au moins ;
+
+9° ne pas avoir encouru une sanction ou une peine disciplinaire au cours des cinq années précédentes ;
+
+10° ne pas avoir été démis de ses fonctions en application des articles 65, § 1er, 75, § 1er, 90, § 1er, ou 96 ;
+
+11° faire preuve des expériences professionnelles suivantes :
+
+a) pour l'accès à la fonction de directeur de zone :
+
+\- une expérience de deux ans au moins dans le domaine de la gestion ou de la coordination d'équipe d'adultes ;
+
+\- une expérience significative dans un des domaines visés par les missions de directeur de zone, soit en matière d'audit, d'analyse systémique, d'analyse de variables/indicateurs, de formation ou d'accompagnement d'adultes ;
+
+b) pour l'accès à la fonction de délégué au contrat d'objectifs :
+
+\- une expérience significative dans un des domaines visés par les missions de délégué au contrat d'objectifs, soit en matière d'audit, d'analyse systémique, d'analyse de variables/indicateurs, de formation ou d'accompagnement d'adultes.
+
+Peut également s'inscrire le membre du personnel exerçant une fonction de rang 1 ou de rang 2 dans une Haute Ecole, qui répond aux conditions visées au paragraphe 1er, alinéa 1er, et qui a acquis l'ancienneté de service visée à l'alinéa 1er, 8°, dans l'enseignement fondamental, maternel, primaire, secondaire, de promotion sociale ou artistique organisé ou subventionné par la Communauté française.
+
+§ 2. Toute personne ne répondant pas aux conditions visées au paragraphe 1er, 7° et 8° ou à l'une d'entre elles, peut également s'inscrire pour autant qu'elle remplisse, dès la date de l'introduction de sa demande de participation, les conditions prévues au paragraphe 1er, 1°, 2°, 3°, 4°, 5°, 6° et 10°.
+
+En outre, le candidat devra faire preuve d'une expérience professionnelle utile de sept ans au moins dont trois ans au moins en matière d'audit, d'analyse systémique, d'analyse de variables/indicateurs, de formation ou d'accompagnement d'adultes et deux ans au moins dans le domaine de la coordination d'équipe d'adultes s'il souhaite s'inscrire à l'épreuve de certification visée à l'article 10 donnant accès à la fonction de directeur de zone.
+
+Dans sa demande de participation, le candidat détaille son expérience professionnelle antérieure et expose les raisons pour lesquelles elle est utile pour l'exercice d'une fonction de directeur de zone ou de délégué au contrat d'objectifs. L'utilité de l'expérience professionnelle du candidat est évaluée par le jury visé à l'article 20.
+
+Lorsque le candidat est membre du personnel de l'enseignement ou membre d'autres personnels sous statut soumis à un régime disciplinaire, il doit, en outre, remplir la condition prévue au paragraphe 1er, 9°.
+
+§ 3. Le Gouvernement fixe les modalités de forme et de délai selon lesquelles la candidature visée aux paragraphes 1 et 2 doit être introduite.
+
+§ 4. Nul n'est autorisé à poursuivre les épreuves ou le stage dès lors qu'il ne remplit plus l'ensemble des conditions visées, selon le cas, au paragraphe 1er ou au paragraphe 2.
+
+§ 5. Le(s) jury(s) visé(s) à l'article 20 vérifie(nt) que les conditions sont remplies au moment de l'introduction de la demande de participation. Il peut procéder à des vérifications en cours de procédure et chaque candidat est tenu de lui signaler sans délai tout changement survenu. La perte d'une condition emporte l'exclusion.
+
+Le jury visé aux articles 66, § 3, et 82, § 3, vérifie que les conditions sont remplies au moment de l'introduction de la demande de participation et au moment de la nomination. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 15
+
+[<sup>1</sup> § 1er. Pour le calcul de l'ancienneté de service visée à l'article 14, § 1er, alinéa 1er, 8°, sont seuls admissibles les services effectifs que le candidat a rendus, à quelque titre que ce soit, dans l'enseignement organisé ou subventionné par la Communauté française, en qualité de membre du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical et du personnel du Service général de l'Inspection.
+
+§ 2. Pour le calcul de la durée des services admissibles dans l'ancienneté de service visée à l'article 14, § 1er, alinéa 1er, 8° :
+
+1° les services effectifs, rendus en qualité de temporaire, dans une fonction à prestations complètes, interviennent pour une ancienneté égale au nombre de jours comptés du début à la fin de la période d'activité continue, y compris, s'ils sont englobés dans cette période, les congés de détente, les vacances d'hiver et du printemps ainsi que les congés de maternité et les congés d'accueil en vue de l'adoption et de la tutelle officieuse accordées à partir du 1er janvier 1999, ce nombre de jours étant multiplié par 1,2 ;
+
+2° les services effectifs rendus à un titre autre que celui de temporaire, dans une fonction à prestations complètes, se comptent par mois de calendrier, ceux qui ne couvrent pas tout le mois étant négligés ;
+
+3° les services admissibles rendus pendant le mois au cours duquel le membre du personnel est désigné ou engagé pour la première fois à un titre autre que celui de temporaire, sont réputés avoir été rendus à titre de temporaire ;
+
+4° les services effectifs rendus dans une fonction à prestations incomplètes comportant au moins la moitié du nombre d'heures requis pour la fonction à prestations complètes sont pris en considération au même titre que les services rendus dans une fonction à prestations complètes ;
+
+5° le nombre de jours acquis dans une fonction à prestations incomplètes qui ne comporte pas la moitié du nombre d'heures requis pour la fonction à prestations complètes est réduit de moitié ;
+
+6° la durée des services rendus dans deux ou plusieurs fonctions, à prestations complètes ou incomplètes, exercées simultanément, ne peut jamais dépasser la durée des services rendus dans une fonction à prestations complètes pendant la même période ;
+
+7° trente jours forment un mois ;
+
+8° la durée des services admissibles que compte le candidat ne peut jamais dépasser douze mois pour une année civile ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+### CHAPITRE II. [<sup>1</sup> - De l'épreuve d'admission au stage. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 16
+
+[<sup>1</sup> L'épreuve d'admission au stage comprend une partie écrite et une partie orale.
+
+Le Gouvernement fixe les compétences spécifiques, techniques et génériques et comportementales attendues dès l'entrée en stage du directeur de zone et du délégué au contrat d'objectifs, parmi celles reprises dans chaque catégorie de compétences des profils de fonction fixés par le Gouvernement sur base des articles 5 et 7. Les critères d'évaluation doivent inclure entre une et trois compétences par catégorie de compétences visées ci-dessus. L'épreuve d'admission au stage pour la fonction de directeur de zone comprend obligatoirement une compétence relative à la gestion des collaborateurs.
+
+Il fixe également les modalités de chacune des parties de l'épreuve d'admission au stage et les critères d'évaluation de chacune d'elles sur la base des compétences visées à l'alinéa précédent.
+
+La partie écrite de l'épreuve se présente sous la forme d'un questionnaire à choix multiples comportant des questions théoriques.
+
+Cette partie de l'épreuve porte sur des connaissances et des compétences spécifiques et techniques visées à l'alinéa 2.
+
+La partie orale de l'épreuve consiste en un entretien devant un des jurys visés à l'article 20.
+
+Cette partie de l'épreuve porte sur la capacité à répondre à des questions de jugement situationnel sur la compétence technique de communication orale et sur les compétences génériques et comportementales visées à l'alinéa 2 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 17
+
+[<sup>1</sup> A l'issue de la partie écrite de l'épreuve, les candidats sont classés selon les résultats obtenus.
+
+Sont admis à la partie orale de l'épreuve devant le jury les candidats les mieux classés à concurrence d'un nombre correspondant au nombre de postes à pourvoir multiplié par trois pour ce qui concerne l'épreuve d'admission au stage dans la fonction de délégué au contrat d'objectifs et multiplié par quatre pour l'épreuve d'admission au stage dans la fonction de directeur de zone.
+
+A l'issue de la partie orale de l'épreuve, les candidats sont classés selon les résultats obtenus. Deux classements sont établis : un classement général de tous les candidats et un classement par groupement de zone choisi. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 18
+
+[<sup>1</sup> La partie écrite de l'épreuve est évaluée sur 50 points de même que la partie orale.
+
+Pour être pris en considération dans le classement général, un candidat doit obtenir un minimum de 60 points sur le total de 100 points de l'épreuve.
+
+Le classement général est ensuite décliné en classements par groupement de zones en fonction du ou des groupements de zones choisi(s) par le candidat.
+
+Le classement ainsi établi correspond à une réserve par groupement de zones d'une durée de validité de cinq ans à dater de la date à laquelle le classement a été établi pour le groupement de zones concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 18/1.
+
+[<sup>1</sup> - L'épreuve spécifique visée à l'article 12 consiste en la présentation orale, devant le jury visé à l'article 20, d'une production écrite portant sur :
+
+a. la manière dont le candidat va s'intégrer dans l'organisation dans toutes ses composantes ;
+
+b. la vision de la fonction de directeur de zone eu égard à ses missions spécifiques.
+
+Le jury fonde son appréciation sur le critère d'évaluation relatif à la compétence générique et comportementale " établir des relations ".
+
+L'épreuve spécifique visée à l'article 12 est évaluée sur 100 points et pour être pris en considération dans le classement spécifique, un candidat doit obtenir un minimum de 60 points.
+
+A l'issue de l'épreuve de l'épreuve spécifique visée à l'article 12, les candidats sont classés selon les résultats obtenus. Deux classements sont établis : un classement général de tous les candidats et un classement par groupement de zone choisi.
+
+Le classement général est ensuite décliné en classements par groupement de zones en fonction du ou des groupements de zones pour lequel ou lesquels le membre du personnel se porte candidat. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+### CHAPITRE III. - Des conditions d'accès
+
+###### Art. 19
+
+[<sup>1</sup> - Sous réserve de l'article 12 et des articles 62 et 77, le Gouvernement procède à l'admission au stage des candidats les mieux classés par groupement de zones.
+
+Lorsque plusieurs emplois sont disponibles dans un même groupement de zones, le choix de la zone d'affectation est offert aux candidats dans l'ordre du classement pour ce groupement.
+
+Les lauréats qui ne sont pas classés en ordre utile intègrent une réserve pour une durée de cinq ans.
+
+Lorsqu'un emploi est ouvert et qu'il n'y a pas ou plus de lauréats dans un groupement de zones, mais qu'il y a des lauréats en réserve dans les autres zones, l'emploi est proposé à ces derniers dans l'ordre du classement général ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 20
+
+[<sup>1</sup> Il est institué un ou plusieurs jury(s) d'admission au stage composé(s) de la manière suivante :
+
+1° le Délégué coordonnateur ou un fonctionnaire général de rang 15 au moins désigné par le Gouvernement parmi les fonctionnaires généraux, qui préside ;
+
+2° deux représentants de l'Administration générale de l'Enseignement dont l'un au moins est un membre du personnel définitif du Service général de Pilotage des Ecoles ;
+
+3° de minimum un et maximum deux experts externes ayant une compétence spécifique en lien avec une des missions de la fonction visée par le recrutement et désigné par le Gouvernement.
+
+Pour chaque membre effectif du jury de l'épreuve d'admission, le Gouvernement désigne un membre suppléant selon les mêmes modalités.
+
+Le mandat des membres du jury est gratuit. Toutefois, une compensation financière peut être accordée au membre expert visé à l'alinéa 1er, 3°, selon les modalités fixées par le Gouvernement.
+
+Conformément à l'article 14 de l'arrêté royal du 28 septembre 1984 portant exécution de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, les représentants des organisations syndicales peuvent assister aux réunions de ce ou de ces jurys en tant qu'observateurs.
+
+Le Gouvernement fixe les modalités de fonctionnement du jury d'admission au stage.
+
+Les services d'un prestataire de services externe pour l'organisation de tout ou partie de l'épreuve d'admission au stage peuvent être adjoints au jury.
+
+Lorsque plusieurs jurys sont constitués, les présidents de chaque jury, réunis en collège, se concertent et organisent la coordination des jurys pour assurer une appréciation sur des bases communes ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 7, 010; En vigueur : 18-04-2024&gt;
+
+## TITRE III. - Du statut des membres du personnel du service général de pilotage des écoles et des centres psycho-médico-sociaux
+
+### CHAPITRE Ier. - Dispositions générales
+
+###### Art. 21
+
+Le présent titre s'applique aux membres du personnel du Service général de Pilotage des Ecoles et Centres psycho-médico-sociaux, ci-après dénommés " les membres du personnel ".
+
+###### Art. 22
+
+Pour l'application du présent titre, les délais se calculent comme suit :
+
+1° le jour de l'acte qui en constitue le point de départ n'est pas compris;
+
+2° le jour de l'échéance est compté dans le délai. Toutefois, lorsque ce jour est un samedi, un dimanche ou un jour férié légal, en ce compris les jours fériés de ou dans la Communauté française, le jour de l'échéance est reporté au plus prochain jour ouvrable.
+
+###### Art. 23
+
+Pour l'application du présent titre, le calcul de l'ancienneté de service et de la durée des services admissibles dans l'ancienneté de service est opéré selon les mêmes modalités que celles visées à l'article [<sup>1</sup> 15 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 8, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 24
+
+Les fonctions que peuvent exercer les membres du personnel sont les fonctions de promotion suivantes :
+
+1° Délégué coordonnateur;
+
+2° directeur de zone;
+
+3° délégué au contrat d'objectifs.
+
+###### Art. 25
+
+Lors de son entrée en fonction, le membre du personnel nommé à titre définitif, admis au stage ou désigné à titre provisoire dans une fonction de promotion visée à l'article 24, 2° ou 3°, prête serment entre les mains du fonctionnaire général désigné par le Gouvernement ou de son délégué.
+
+Le serment s'énonce dans les termes fixés par l'article 2 du décret du 20 juillet 1831. Acte en est donné au membre du personnel.
+
+###### Art. 26
+
+Le Gouvernement détermine les frais pouvant être remboursés aux membres du personnel. Il s'agit :
+
+1° des frais de parcours;
+
+2° des frais de séjour;
+
+3° des frais autres, dont notamment les frais relatifs aux communications.
+
+Le Gouvernement fixe les limites et modalités du remboursement visé à l'alinéa 1er.
+
+### CHAPITRE II. - Des devoirs et incompatibilités
+
+#### Section Ire. - Des devoirs
+
+###### Art. 27
+
+Les membres du personnel doivent, en toutes occasions, avoir le souci constant des intérêts de la Communauté française, des élèves fréquentant les établissements d'enseignement organisés ou subventionnés par la Communauté française et des membres du personnel de ces établissements.
+
+Ils s'acquittent de leur mission avec une égale sollicitude vis-à-vis de tous les établissements scolaires et en toute indépendance à l'égard des pouvoirs organisateurs.
+
+###### Art. 28
+
+Ils doivent observer les principes de neutralité dans l'exercice de leurs fonctions. Ils ne peuvent utiliser les élèves à des fins de propagande politique, religieuse, philosophique ou de publicité commerciale.
+
+[<sup>1</sup> En outre, ils sont tenus dans l'exercice de leurs missions de s'abstenir du port de tous signes convictionnels visibles dans l'enceinte de l'école où ils sont amenés à intervenir.
+
+Par signe convictionnel, on entend tout vêtement ou accessoire exprimant une conviction ou une identité politique, idéologique, philosophique ou religieuse.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-04-02/18, art. 17, 011; En vigueur : 24-08-2026&gt;
+
+###### Art. 29
+
+Ils accomplissent personnellement et consciencieusement les obligations qui leur sont imposées par les lois, décrets, arrêtés et règlements.
+
+Ils doivent fournir, dans les limites fixées par la réglementation, les prestations nécessaires à la bonne marche du service.
+
+Ils exécutent ponctuellement les missions qui leur sont confiées et accomplissent leur tâche avec zèle et exactitude.
+
+Ils ne peuvent suspendre l'exercice de leurs fonctions sans autorisation préalable de leur supérieur hiérarchique.
+
+###### Art. 30
+
+Ils sont tenus à la correction la plus stricte tant dans leurs rapports de service que dans leurs rapports avec le public et doivent s'entraider dans la mesure où l'exige l'intérêt du service.
+
+Ils doivent, dans le service comme dans leur vie privée, éviter tout ce qui pourrait porter atteinte à la confiance du public ou compromettre l'honneur ou la dignité de leur fonction. Ils s'abstiennent de tout acte de harcèlement.
+
+###### Art. 31
+
+Ils ne peuvent se livrer à aucune activité qui est en opposition avec la Constitution et les lois du peuple belge, qui poursuit la destruction de l'indépendance du pays ou qui met en danger la défense nationale ou l'exécution des engagements de la Belgique en vue d'assurer sa sécurité. Ils ne peuvent adhérer ni prêter leur concours à un mouvement, groupement, organisation ou association ayant une activité de même nature.
+
+###### Art. 32
+
+Ils ne peuvent révéler les faits dont ils auraient eu connaissance en raison de leurs fonctions et qui auraient un caractère secret.
+
+###### Art. 33
+
+Ils ne peuvent solliciter, exiger ou recevoir, directement ou par personne interposée, même en dehors de leurs fonctions mais en raison de celles-ci, des dons, gratifications ou avantages quelconques.
+
+###### Art. 34
+
+Le Gouvernement peut préciser les devoirs prévus par la présente section.
+
+###### Art. 35
+
+Sans préjudice de l'application des lois pénales et, s'il y échet, de l'article [<sup>1</sup> 1.7.3-5 du Code]<sup>1</sup>, les infractions aux dispositions de la présente section sont punies, suivant le cas, de l'une des sanctions disciplinaires prévues à l'article 110.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 113, 008; En vigueur : 01-09-2020&gt;
+
+#### Section II. - Des incompatibilités
+
+###### Art. 36
+
+Est incompatible avec la qualité de membre du personnel, l'exercice du mandat politique :
+
+1° de bourgmestre, d'échevin, de conseiller communal, de président du conseil de l'aide sociale ou de membre du conseil de l'aide sociale dans une commune comprise, en tout ou partie, dans le territoire sur lequel le membre du personnel exerce la fonction de directeur de zone ou de délégué au contrat d'objectifs;
+
+2° de député provincial ou de conseiller provincial dans une province qui comprend, en tout ou en partie, le territoire sur lequel le membre du personnel exerce la fonction de directeur de zone ou de délégué au contrat d'objectifs.
+
+###### Art. 37
+
+[<sup>1</sup> Est incompatible avec la qualité de membre du personnel, l'exercice de tout mandat, en ce compris syndical, auprès d'un pouvoir organisateur ou d'une fédération de pouvoirs organisateurs dont un ou plusieurs établissement(s) d'enseignement est (sont) compris(s) dans le territoire sur lequel le membre du personnel exerce la fonction de directeur de zone ou de délégué au contrat d'objectifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/06, art. 154, 002; En vigueur : 26-02-2019&gt;
+
+###### Art. 38
+
+Est incompatible avec la qualité de membre du personnel, toute occupation qui serait de nature à nuire à l'accomplissement des devoirs de sa fonction ou contraire à la dignité de celle-ci.
+
+###### Art. 39
+
+Le Gouvernement constate les incompatibilités visées aux articles 36 à 38. Il en informe le membre du personnel concerné dans un délai de vingt jours à partir du jour où il constate l'incompatibilité par lettre recommandée à la poste sortant ses effets le troisième jour ouvrable suivant la date de son expédition.
+
+###### Art. 40
+
+En cas de contestation sur l'existence d'une incompatibilité mentionnée à l'article 39, le membre du personnel concerné peut introduire, par la voie hiérarchique, dans un délai de vingt jours ouvrables à compter de la date à laquelle la notification de l'incompatibilité a été faite, une réclamation devant la Chambre de recours visée à l'article 121. Celle-ci donne son avis au Gouvernement dans un délai de deux mois à partir de la date de réception de la réclamation.
+
+Le Gouvernement prend sa décision dans un délai d'un mois à partir de la réception de l'avis de la Chambre de recours.
+
+### CHAPITRE III. - Du mandat pour l'exercice de la fonction de promotion de délégué coordonnateur
+
+#### Section Ire. - Procédure et conditions d'obtention du mandat de Délégué coordonnateur
+
+###### Art. 41
+
+L'emploi de Délégué coordonnateur est conféré par mandat.
+
+Un mandat ne peut être conféré qu'en cas de vacance d'emploi dans la fonction considérée.
+
+Le Gouvernement arrête le profil de fonction du Délégué coordonnateur.
+
+###### Art. 42
+
+La vacance d'emploi de la fonction de Délégué coordonnateur à conférer est portée à la connaissance des candidats potentiels par appel public.
+
+###### Art. 43
+
+Peuvent seuls être mandatés les candidats qui ont respecté la forme et le délai dans lesquels les candidatures doivent être introduites.
+
+###### Art. 44
+
+Nul ne peut se voir conférer un mandat s'il ne remplit les conditions suivantes :
+
+1° être nommé à titre définitif dans une fonction de promotion visée à l'article 24, 2° et 3° ;
+
+2° compter une ancienneté de fonction de six ans au moins dans une fonction de promotion de directeur de zone ou de neuf ans au moins dans une fonction de promotion de délégué au contrat d'objectifs;
+
+3° avoir obtenu la mention " favorable " à sa dernière évaluation. En l'absence de rapport d'évaluation, le membre du personnel est réputé avoir obtenu la mention " favorable ";
+
+4° ne pas avoir encouru une sanction ou une peine disciplinaire au cours des cinq années précédentes;
+
+5° avoir suivi et réussi une formation en gestion de ressources humaines d'un [<sup>1</sup> maximum]<sup>1</sup> de 60 heures, organisée par l'Ecole d'Administration publique. L'attestation de réussite de la formation est délivrée par un jury dont la composition et les modalités de fonctionnement sont déterminées par le Gouvernement.
+
+A défaut de candidat répondant à la condition visée à l'alinéa 1er, 5°, le Gouvernement peut conférer un mandat à un candidat ne répondant pas à cette condition, pour autant que ce dernier s'engage à suivre la prochaine formation en gestion de ressources humaines. Il est mis fin d'office à l'exercice de son mandat en cas de non-respect de cet engagement ou en cas d'échec.
+
+Nul n'est admis à la formation visée à l'alinéa 1er, 5°, s'il ne remplit, à la date d'introduction de la demande de participation, les conditions énoncées à l'alinéa 1er, 1° à 4°.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 9, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 45
+
+Pour le calcul de l'ancienneté de fonction visée à l'article 44, § 1er, 2°, sont admissibles les services effectifs que le membre du personnel a rendus, à quelque titre que ce soit, dans la fonction de promotion de directeur de zone ou de délégué au contrat d'objectif.
+
+Pour le calcul de la durée des services admissibles dans l'ancienneté de fonction visée à l'article 44, alinéa 1er, 2°, les services effectifs se comptent par mois du calendrier, ceux qui ne couvrent pas tout le mois étant négligés.
+
+###### Art. 46
+
+§ 1er. Il est créé, auprès du Gouvernement, une Commission de sélection et d'évaluation, ci-après dénommée " la Commission ".
+
+§ 2. La Commission est compétente pour remettre, d'initiative ou à la demande du Gouvernement, les [<sup>2</sup> présentation et proposition prévues]<sup>2</sup> en application des articles 48 et 55.
+
+§ 3. La Commission comprend :
+
+1° le Directeur général de la Direction générale du Pilotage du Système Educatif;
+
+2° quatre membres désignés par le Gouvernement parmi les fonctionnaires généraux des Services du Gouvernement, titulaires d'un grade de rang 16 au moins;
+
+3° cinq membres désignés par le Gouvernement parmi les titulaires de la fonction de professeur ordinaire, de professeur ou de chargé de cours, nommé ou engagé à titre définitif à temps plein au sein d'une université organisée ou subventionnée par la Communauté française ou titulaires d'une fonction élective au sein d'une Haute Ecole organisée ou subventionnée par la Communauté française.
+
+Les membres de la Commission sont désignés pour un terme de cinq ans, renouvelable.
+
+[<sup>1</sup> Une compensation financière peut être accordée aux membres experts de la Commission visés au point 3° de l'alinéa 1er, selon les modalités fixées par le Gouvernement.]<sup>1</sup>
+
+§ 4. Le Directeur général de la Direction générale du Pilotage du Système Educatif préside la Commission. Le Gouvernement désigne un vice-président de la Commission parmi les quatre fonctionnaires généraux visés au § 3, 2°.
+
+Le Gouvernement désigne un secrétaire et un secrétaire suppléant de la Commission parmi les agents de niveau 2+ au moins des Services du Gouvernement.
+
+§ 5. Pour chaque membre effectif, le Gouvernement désigne un membre suppléant choisi selon les mêmes modalités que le membre effectif qu'il supplée. Le Gouvernement désigne un suppléant au Directeur général parmi les fonctionnaires généraux des Services du Gouvernement, titulaires d'un grade de rang 16 au moins.
+
+§ 6. La Commission rend ses avis à la majorité des membres présents. En cas de parité des voix, celle du Président est prépondérante.
+
+Le Gouvernement fixe les autres modalités de fonctionnement de la Commission ainsi que son règlement d'ordre intérieur, sur proposition de cette dernière.
+
+§ 7. Tout membre de la Commission qui perd la qualité en vertu de laquelle il a été désigné au sein de la Commission, est remplacé sans délai par le Gouvernement, selon les mêmes modalités. Le remplaçant achève le mandat de son prédécesseur.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 114, 008; En vigueur : 01-01-2022&gt;
+
+(2)&lt;DCFR 2024-04-18/34, art. 10, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 47
+
+Lors de la déclaration de vacance de l'emploi à pourvoir par mandat, le Gouvernement établit une lettre de mission sur proposition du Directeur général.
+
+La lettre de mission comporte au moins la description des éléments suivants:
+
+1° la définition précise des missions qui incombent au mandataire;
+
+2° les objectifs à atteindre.
+
+###### Art. 48
+
+Les candidatures à un mandat sont examinées par la Commission qui peut décider d'entendre les différents candidats.
+
+La Commission présente au Gouvernement une liste de cinq candidats au plus, classés dans l'ordre de leurs mérites et de leurs aptitudes relationnelles. Pour classer les candidats selon l'ordre de leurs mérites, la Commission prend notamment en compte les formations en cours de carrière et complémentaires, les publications, les diplômes, certificats et brevets obtenus, les projets mis en oeuvre lorsque les candidats exerçaient leur fonction de directeur de zone, de délégué au contrat d'objectifs ou un mandat antérieur.
+
+#### Section II. - Durée et exercice du mandat
+
+###### Art. 49
+
+[<sup>1</sup> ...]<sup>1</sup> Le mandat de Délégué [<sup>1</sup> coordonnateur]<sup>1</sup>, d'une durée de cinq ans, est confié par le Gouvernement au candidat qu'il choisit sur la liste proposée par la Commission de sélection et d'évaluation visée à l'article 46.
+
+Ce mandat est renouvelable sur la base de l'évaluation attribuée par le Gouvernement sur proposition de la Commission de sélection et d'évaluation.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 11, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 50
+
+Le mandat est temporaire. Il ne donne aucun droit à une nomination à titre définitif à la fonction qu'il confère.
+
+La fonction conférée par mandat est indivisible. Elle est exercée à temps plein.
+
+Durant l'exercice de son mandat, le membre du personnel est en activité de service, sauf disposition formelle le plaçant dans une autre position administrative.
+
+Sa résidence administrative est fixée à Bruxelles.
+
+###### Art. 51
+
+Pendant la durée de son mandat, le mandataire ne peut obtenir :
+
+1° un congé pour interruption de la carrière professionnelle, à l'exception de l'interruption de carrière pour donner des soins palliatifs, pour l'assistance ou l'octroi de soins à un membre du ménage ou de la famille jusqu'au deuxième degré qui souffre d'une maladie grave ou lors de la naissance ou de l'adoption d'un enfant dans le cadre du congé parental;
+
+2° un congé pour mission ou une disponibilité pour mission spéciale;
+
+3° un congé pour accomplir un stage dans un autre emploi de l'Etat, des provinces, des communes, d'un établissement public assimilé d'une école officielle ou d'une école libre subventionnée;
+
+4° un congé pour présenter sa candidature aux élections législatives ou provinciales;
+
+5° un congé pour suivre des cours, se préparer à passer des examens et subir des examens;
+
+6° un congé pour exercer provisoirement une autre fonction dans l'enseignement;
+
+7° un congé pour prestations réduites justifiées par des raisons de convenances personnelles ou un congé pour prestations réduites justifiées par des raisons de convenances personnelles, accordées au membre du personnel qui a au moins deux enfants à charge qui n'ont pas dépassé l'âge de 14 ans, ou un congé pour prestations réduites justifiées par des raisons de convenances personnelles, accordées au membre du personnel âgé de 50 ans;
+
+8° un congé politique;
+
+9° une disponibilité pour convenances personnelles;
+
+10° une disponibilité pour convenances personnelles précédant la pension de retraite sur la base des dispositions de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux.
+
+###### Art. 52
+
+Durant l'exercice de son mandat, le Délégué coordonnateur bénéficie de l'échelle de traitement accordée à un agent des Services du Gouvernement de rang 16.
+
+###### Art. 53
+
+Le mandataire en activité de service âgé de 57 ans au moins et qui bénéficie du maximum de son échelle de traitement voit la valeur de ce maximum augmentée de la valeur de la dernière augmentation intercalaire de son échelle de traitement.
+
+Le mandataire en activité de service âgé de 58 ans au moins et qui bénéficie du maximum de son échelle de traitement voit la valeur de ce maximum augmentée du double de la valeur de la dernière augmentation intercalaire de son échelle de traitement.
+
+###### Art. 54
+
+Le mandataire en activité de service, âgé de 61 ans au moins, et qui bénéficie du maximum de son échelle de traitement voit, à condition de ne pas avoir bénéficié de l'augmentation intercalaire visée à l'article 53, alinéa 1er, la valeur de ce maximum augmentée de la valeur de la dernière augmentation intercalaire de son échelle de traitement.
+
+Le mandataire en activité de service, âgé de 62 ans au moins, et qui bénéficie du maximum de son échelle de traitement voit, à condition de ne pas avoir bénéficié de l'augmentation intercalaire visée à l'article 53, alinéa 2, la valeur de ce maximum augmentée du double de la valeur de la dernière augmentation intercalaire de son échelle de traitement.
+
+###### Art. 55
+
+L'évaluation du mandataire a lieu tous les trente mois. Elle est attribuée par le Gouvernement sur proposition de la Commission de sélection et d'évaluation visée à l'article 46.
+
+L'évaluation se fonde sur l'exécution de la lettre de mission visée à l'article 47.
+
+Elle fait l'objet d'une des mentions suivantes :
+
+1° " Favorable ";
+
+2° " Réservée ";
+
+3° " Défavorable ".
+
+###### Art. 56
+
+Le mandataire auquel est attribuée une évaluation " favorable " en cours de mandat poursuit l'exercice de son mandat.
+
+En cas d'attribution d'une évaluation " réservée " en cours de mandat, une nouvelle évaluation est réalisée dans les six à douze mois qui suivent et conduit à l'attribution d'une mention " favorable " ou " défavorable ". L'attribution d'une mention " réservée " peut conduire le Gouvernement à adapter la lettre de mission et enjoindre au mandataire de suivre des formations adaptées.
+
+En cas d'évaluation " défavorable " en cours de mandat, il est mis fin au mandat de manière anticipée.
+
+###### Art. 57
+
+En cas d'absence du Délégué coordonnateur, le Gouvernement peut charger le Directeur général d'assurer les missions du Délégué coordonnateur.
+
+###### Art. 58
+
+Le Délégué coordonnateur peut mettre fin volontairement à son mandat, moyennant un préavis d'un mois.
+
+Il est d'office mis fin au mandat de manière anticipée lorsque le Délégué coordonnateur fait l'objet d'une des sanctions disciplinaires visées à l'article [<sup>1</sup> 110]<sup>1</sup>, 4° à 7°.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 12, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 59
+
+Lorsque, pour quelque raison que ce soit, il est mis fin à un mandat avant son échéance, le Délégué coordonnateur est remplacé. Après appel à candidatures, le remplaçant, désigné par le Gouvernement selon les modalités fixées aux articles 41 à 48, achève le mandat en cours.
+
+#### Section III. - Echéance du mandat
+
+###### Art. 60
+
+A l'échéance de son mandat, le Délégué coordonnateur dont la dernière évaluation porte la mention " favorable " est reconduit d'office par le Gouvernement dans son mandat sans qu'il soit procédé à la déclaration de vacance visée à l'article 42.
+
+A l'échéance de son mandat, le Délégué coordonnateur dont la dernière évaluation porte la mention " réservée" voit son mandat remis en concurrence et ne peut plus, pendant cinq ans, poser sa candidature à une désignation pour le mandat de Délégué coordonnateur.
+
+A l'échéance de son mandat, le Délégué coordonnateur dont la dernière évaluation porte la mention " défavorable " ne peut plus poser sa candidature pour une désignation dans le mandat de Délégué coordonnateur.
+
+###### Art. 61
+
+Lorsqu'il perd sa qualité de mandataire, le membre du personnel visé à l'article 44 retrouve sa fonction de promotion de directeur de zone ou de délégué au contrat d'objectifs.
+
+### CHAPITRE IV. - De l'accès à la fonction de promotion de directeur de zone
+
+#### Section Ire. - De la mutation
+
+###### Art. 62
+
+Préalablement à la mise en oeuvre de la procédure d'admission au stage visée à la section 2, le Gouvernement peut, en cas de vacance d'un emploi de la fonction de promotion de directeur de zone, inviter, selon les modalités qu'il détermine, les directeurs de zone nommés à titre définitif à introduire une demande de mutation dans l'emploi à conférer.
+
+La mutation est accordée par le Gouvernement, sur avis du Délégué coordonnateur.
+
+#### Section II. - De l'admission au stage à la fonction de promotion de directeur de zone
+
+###### Art. 63
+
+&lt;Abrogé par DCFR 2024-04-18/34, art. 13, 010; En vigueur : 18-04-2024&gt;
+
+##### Sous-section 1. [<sup>1</sup> De l'entrée en stage ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 14, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 64
+
+[<sup>1</sup> En cas de vacance d'un emploi de la fonction de promotion de directeur de zone à conférer et sans préjudice de l'application de l'article 62, le Gouvernement ou son délégué applique le classement de la réserve de recrutement visée à l'article 12, alinéa 3, d'abord, et le classement de la réserve de recrutement visée à l'article 18, alinéa 4, ensuite.
+
+Le ministre compétent invite le candidat le mieux classé à entrer en stage. A défaut pour le candidat concerné de répondre favorablement à cette invitation dans un délai de huit jours ouvrables à dater de la réception, le ministre compétent invite le candidat qui est classé ensuite à entrer en stage et ainsi de suite.
+
+Le candidat qui décline une première fois l'invitation à entrer en stage dans le groupement de zone pour lequel il s'est présenté ne perd pas le bénéfice de son classement en cas de vacance d'un autre emploi de la fonction de promotion de directeur de zone à conférer.
+
+Il sera radié de la liste de réserve pour le groupement de zone concerné après un deuxième refus mais conservera sa place dans le classement général. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 15, 010; En vigueur : 18-04-2024&gt;
+
+##### Sous-section 2. [<sup>1</sup> De la durée du stage ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 16, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 65
+
+§ 1er. Le stage de directeur de zone a une durée de 2 ans, [<sup>2</sup> un an dans le cas visé à l'article 12,]<sup>2</sup> calculée conformément au paragraphe 3.
+
+§ 2. Pendant la durée du stage, le membre du personnel reste titulaire de l'emploi dans lequel il est nommé ou engagé à titre définitif, le cas échéant [<sup>2</sup> ...]<sup>2</sup>.
+
+Sauf disposition contraire, le membre du personnel admis au stage est assimilé à un membre du personnel nommé ou engagé à titre définitif dans la fonction de directeur de zone.
+
+Pendant la durée du stage, le membre du personnel peut être autorisé à participer à une formation lorsque celle-ci est centrée spécifiquement sur sa qualité de directeur de zone et qu'elle est organisée en vertu :
+
+1° [<sup>1</sup> soit du Livre 6, Titre Ier, du Code de l'enseignement fondamental et de l'enseignement secondaire ;]<sup>1</sup>
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>2</sup> 2°]<sup>2</sup> soit du décret du 30 juin 1998 relatif à la formation en cours de carrière des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement de promotion sociale;
+
+[<sup>2</sup> 3°]<sup>2</sup> soit du décret du 15 mars 1999 relatif à la formation en cours de carrière des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française.
+
+§ 3. Pour le calcul de la durée du stage accompli, sont seuls pris en considération les services effectivement prestés pendant la durée du stage.
+
+Sont assimilés à des services effectivement prestés les vacances annuelles, les congés prévus aux articles 5, 5bis et 7 de l'arrêté royal du 15 janvier 1974, ainsi que les congés [<sup>2</sup> d'accueil en vue de l'adoption, de la tutelle officieuse et du placement dans une famille d'accueil]<sup>2</sup> et les congés de maternité prévus respectivement, au chapitre IIbis et au chapitre XIII du même arrêté royal du 15 janvier 1974.
+
+----------
+
+(1)&lt;DCFR 2021-06-17/28, art. 57, 009; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFR 2024-04-18/34, art. 17, 010; En vigueur : 18-04-2024&gt;
+
+##### Sous-section 3. [<sup>1</sup> l'évaluation ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 18, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 66
+
+§ 1er. Au plus tôt six mois après son entrée en fonction et au plus tard [<sup>1</sup> le huitième mois de stage]<sup>1</sup>, le membre du personnel stagiaire est évalué par le Délégué coordonnateur [<sup>1</sup> selon les modalités fixées par le Gouvernement ]<sup>1</sup>.
+
+L'évaluation se fonde sur l'exécution des missions qui ont été attribuées à chaque directeur de zone et sur la mise en pratique des compétences acquises dans le cadre de la formation [<sup>1</sup> ...]<sup>1</sup> professionnelle visée à l'article [<sup>1</sup> 66]<sup>1</sup>. Elle tient compte du profil de fonction visé à l'article 5, § 2, ainsi que du contexte global dans lequel est amené à évoluer le stagiaire et des moyens qui sont mis à sa disposition.
+
+[<sup>1</sup> L'évaluation consiste en ]<sup>1</sup> un entretien avec le membre du personnel et à la rédaction d'un rapport d'évaluation dont le modèle est fixé par le Gouvernement.
+
+L'évaluation aboutit à l'attribution soit de la mention " favorable " soit de la mention " [<sup>1</sup> réservée]<sup>1</sup> ".
+
+[<sup>1</sup> En cas de mention " favorable ", le membre du personnel peut être à nouveau évalué à tout moment au cours de la seconde année de stage. Cette évaluation aboutit à l'attribution de la mention " favorable ", " réservée " ou " défavorable ". L'évaluation, en fin de stage, peut uniquement donner lieu à l'attribution de la mention " favorable " ou " défavorable ".
+
+En cas de mention " réservée ", il est procédé à une deuxième évaluation au plus tôt douze mois et au plus tard le quatorzième mois de stage. Cette évaluation aboutit à l'attribution de la mention " favorable ", " réservée " ou " défavorable ". Une troisième évaluation, en fin de stage, peut uniquement donner lieu à l'attribution de la mention " favorable " ou " défavorable]<sup>1</sup>.
+
+[<sup>1</sup> Dans tous les cas, il]<sup>1</sup> est mis fin d'office au stage du membre du personnel qui obtient la mention " défavorable " à l'issue de [<sup>1</sup> la deuxième ou troisième]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup>. Dans ce cas, [<sup>1</sup> le stage prend fin après l'écoulement d'un délai de 15 jours et, le cas échéant, ]<sup>1</sup> le membre du personnel réintègre sa fonction et son affectation dans lesquelles il est nommé ou engagé à titre définitif. [<sup>1</sup> A défaut, ce délai est porté à six semaines. ]<sup>1</sup>
+
+[<sup>1</sup> La mention obtenue par le stagiaire est portée à la connaissance de ce dernier soit par envoi recommandé, soit par la remise d'une lettre de la main à la main, soit par courriel à l'adresse renseignée, dans tous les cas avec accusé de réception. ]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> § 2.]<sup>1</sup> Le stagiaire qui se voit attribuer une mention " défavorable " peut introduire par envoi recommandé une réclamation écrite contre cette mention, par la voie hiérarchique, dans les dix jours de sa notification, auprès de la chambre de recours visée à l'article 121.
+
+La Chambre de recours remet son avis au Gouvernement dans un délai maximum d'un mois à partir de la date de réception du recours. Le Gouvernement prend sa décision et attribue la mention d'évaluation au membre du personnel stagiaire dans un délai maximum [<sup>1</sup> de deux]<sup>1</sup> mois à dater de la réception de l'avis.
+
+[<sup>1</sup> ° 3. Dans le cas visé à l'article 12, une seule évaluation a lieu au plus tard six mois après l'entrée en fonction, selon les modalités fixées par le Gouvernement. L'évaluation aboutit à l'attribution de la mention " favorable " ou " réservée ".
+
+Une deuxième évaluation, en fin de stage, peut uniquement donner lieu à l'attribution de la mention " favorable " ou " défavorable ".
+
+Le stagiaire qui se voit attribuer une mention " défavorable " peut introduire par envoi recommandé une réclamation écrite contre cette mention, par la voie hiérarchique, dans les dix jours de sa réception, auprès de la chambre de recours visée à l'article 121.
+
+La Chambre de recours remet son avis au Gouvernement dans un délai maximum de deux mois à partir de la date de réception du recours. Le Gouvernement prend sa décision et attribue la mention d'évaluation au membre du personnel stagiaire dans un délai maximum d'un mois à dater de la réception de l'avis. ]<sup>1</sup>
+
+[<sup>1</sup> § 4. Lorsque le Gouvernement attribue la mention " défavorable " suite au recours du stagiaire, il est mis fin d'office au stage du membre du personnel dans les mêmes conditions que celles visées à l'alinéa 8 du paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 19, 010; En vigueur : 18-04-2024&gt;
+
+##### Sous-section 4. [<sup>1</sup> De la formation professionnelle et l'épreuve donnant accès à la nomination ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 20, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 67
+
+§ 1er [<sup>4</sup>. Durant le stage, la formation professionnelle de directeur de zone compte minimum 234 heures et comporte cinq volets.
+
+Les quatre premiers volets de la formation initiale sont communs aux fonctions de directeur de zone et de délégué au contrat d'objectifs.
+
+La formation professionnelle des Délégués au Contrat d'Objectifs nommés qui sont admis au stage en vue d'une nomination à la fonction de Directeur de Zone compte minimum 30 heures et comporte 1 volet visé au point 5°.
+
+1° Le premier volet de la formation professionnelle, dont la durée s'élève à un minimum de 48 heures, vise à développer chez les stagiaires l'aptitude à :
+
+a) se questionner, prendre de la distance et développer une analyse réflexive au départ de problématiques et politiques éducatives ;
+
+b) s'adapter à la diversité des contextes institutionnels et scolaires ;
+
+c) évaluer sa propre action favorisant une aptitude à la réflexivité et au développement professionnel dans le cadre de sa future fonction et de ses missions et permettant d'identifier des besoins en termes de formation ou de régulation ;
+
+d) construire un portfolio attestant le développement de compétences spécifiques à l'exercice de sa future fonction et de ses missions.
+
+2° Le deuxième volet de la formation professionnelle, dont la durée s'élève à un minimum de 33 heures, vise à développer chez les stagiaires l'aptitude à :
+
+a) retracer l'évolution du système éducatif pour comprendre l'organisation actuelle de l'enseignement en Fédération Wallonie-Bruxelles ;
+
+b) appréhender différents modèles de pilotage d'un système éducatif et de gouvernance des écoles et des établissements d'enseignement et dégager les opportunités et les effets de chacun de ceux-ci ;
+
+c) identifier les valeurs, les enjeux, l'approche systémique du pilotage du système éducatif et le modèle de gouvernance des établissements d'enseignement promus, notamment, par le Pacte pour un Enseignement d'Excellence ;
+
+d) identifier la place, le rôle et la complémentarité des différents services de l'Administration Générale de l'Enseignement.
+
+3° Le troisième volet de la formation professionnelle, dont la durée s'élève à un minimum de 75 heures, vise à développer chez les stagiaires l'aptitude à :
+
+a) maîtriser à livre ouvert les bases légales et réglementaires liées à la fonction de délégué au contrat d'objectifs et de directeur de zone ;
+
+b) lire, comprendre et interpréter des données et des indicateurs quantitatifs et qualitatifs ;
+
+c) mettre en place les procédures de contractualisation et d'évaluation des contrats d'objectifs ;
+
+d) rédiger de rapports et des avis qui témoignent d'une bonne organisation de l'information, d'une communication claire, efficace et adaptée, d'une argumentation au départ de l'analyse des données à disposition et de l'utilisation des prescrits légaux et réglementaires ;
+
+e) mettre en place les procédures de contractualisation et d'évaluation des protocoles de collaboration ;
+
+f) s'approprier la déontologie propre à sa fonction (y compris l'adoption d'une posture adéquate et le respect de la confidentialité) ;
+
+g) gérer et réguler son fonctionnement personnel.
+
+4° Le quatrième volet de la formation professionnelle, dont la durée s'élève à un minimum de 48 heures, vise à développer chez les stagiaires l'aptitude à :
+
+a) prendre la parole en public et animer des groupes ;
+
+b) travailler en équipe ;
+
+c) gérer des conflits ;
+
+d) questionner les différentes parties prenantes afin de collecter les informations pertinentes et de comprendre leurs points de vue, attitudes et choix ;
+
+e) réagir adéquatement face à la résistance au changement, à argumenter et à provoquer la réflexion.
+
+5° Le cinquième volet de la formation professionnelle, spécifique aux candidats à la fonction de directeur de zone et dont la durée s'élève à minimum 30 heures, vise à développer chez ceux-ci des compétences d'encadrement et de leadership et notamment l'aptitude à :
+
+a) appréhender les missions spécifiques des directeurs de zone ;
+
+b) mettre en place les procédures propres à accomplir les missions spécifiques des directeurs de zone ;
+
+c) gérer et souder une équipe, notamment en soutenant, motivant des collaborateurs, en stimulant leur développement personnel, professionnel et d'équipe dans une perspective d'organisation apprenante ;
+
+d) développer un management favorisant la gestion d'équipe et des conflits, la coordination des tâches et la gestion de projet ;
+
+e) évaluer un agent ;
+
+f) mettre en place les procédures disciplinaires ]<sup>4</sup>
+
+§ 2. Sur la base d'une proposition de [<sup>3</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>3</sup>, le Gouvernement élabore un plan de formation [<sup>4</sup> ...]<sup>4</sup> professionnelle qui en définit :
+
+1° les méthodologies en privilégiant celles qui visent le développement professionnel, notamment, l'analyse de cas, les mises en situation, l'Intervision et la constitution d'un portfolio;
+
+2° les modalités selon lesquelles la formation est organisée.
+
+[<sup>4</sup> Dans l'hypothèse où le stagiaire a déjà suivi une formation dont les contenus sont identiques à ceux visés au paragraphe 1er, il peut solliciter une dispense de tout ou partie du programme prévu par le plan de formation, selon les conditions et modalités fixées par le Gouvernement]<sup>4</sup>.
+
+Sur la base du plan de formation visé à l'alinéa 1er, la formation [<sup>4</sup> ...]<sup>4</sup> professionnelle est organisée par [<sup>3</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>3</sup>.
+
+Les formateurs de cette formation [<sup>4</sup> ...]<sup>4</sup> professionnelle sont prioritairement issus des Universités, des Hautes Ecoles, des établissements d'enseignement de promotion sociale, de [<sup>3</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>3</sup> ou [<sup>4</sup> , des Services du Gouvernement, notamment l'Administration générale de l'Enseignement, du Service général de l'Inspection ou du Service général du Pilotage des écoles]<sup>4</sup>.
+
+[<sup>3</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>3</sup> peut organiser [<sup>4</sup> tout ou]<sup>4</sup> une partie de la formation en commun ou séparément pour les directeurs de zone stagiaires et pour les délégués au contrat d'objectifs stagiaires.
+
+[<sup>4</sup> Le Gouvernement prend les dispositions nécessaires pour permettre l'indemnisation des formateurs qui ne seraient pas visés par l'arrêté du Gouvernement de la Communauté française du 25 janvier 2017 fixant les modalités de sélection et d'indemnisation des formateurs internes auprès de l'Ecole d'administration publique et des services en charge de la formation.]<sup>4</sup>
+
+§ 3. A l'issue de la formation, le stagiaire présente et défend son portfolio devant un jury. Le portfolio consiste en un dossier personnel dans lequel il démontre en quoi les acquis de la formation et les acquis de l'expérience durant son stage lui permettent de rencontrer les exigences du profil de fonction visé à l'article 5, § 3 [<sup>4</sup> , à travers l'analyse réflexive de deux cas en lien avec les missions du directeur de zone, dont l'un des deux porte sur la gestion des collaborateurs ]<sup>4</sup>.
+
+Ce jury est composé :
+
+1° [<sup>4</sup> du Délégué coordinateur qui préside ou]<sup>4</sup> d'un président désigné par le Gouvernement parmi les fonctionnaires généraux de rang 15 au moins;
+
+2° [<sup>4</sup> de deux membres représentant l'Administration générale de l'Enseignement, désignés par le Gouvernement, dont l'un au moins est un membre du personnel définitif du Service général du Pilotage des écoles et des Centres psycho-médico-sociaux ]<sup>4</sup>;
+
+3° [<sup>4</sup> de minimum un et de maximum deux experts externes ]<sup>4</sup> ayant une compétence spécifique en lien avec les différents volets de la formation [<sup>4</sup> professionnelle ]<sup>4</sup>.
+
+Pour chaque membre effectif visé à l'alinéa 1er, le Gouvernement désigne un membre suppléant selon les mêmes modalités.
+
+[<sup>2</sup> Le mandat des membres du jury est gratuit. Toutefois, une compensation financière peut être accordée aux membres experts visés à l'alinéa 2, 3°, selon les modalités fixées par le Gouvernement.]<sup>2</sup>
+
+[<sup>4</sup> agents relevant de ces autorités, les représentants des organisations syndicales peuvent assister aux réunions de ce ou ces jurys en tant qu'observateurs.]<sup>4</sup>
+
+Les modalités de fonctionnement du jury sont fixées par le Gouvernement.
+
+Le jury fonde son appréciation de l'épreuve de [<sup>4</sup> donnant accès à la nomination ]<sup>4</sup> sur les critères d'évaluation suivants :
+
+1° le degré de maîtrise des connaissances et capacités supposées développées dans le cadre [<sup>4</sup> des trois premiers et du cinquième ]<sup>4</sup> volets de la formation [<sup>4</sup> professionnelle visée au paragraphe 1er ]<sup>4</sup>;
+
+2° la capacité à communiquer par écrit;
+
+3° la capacité à communiquer oralement;
+
+Le Gouvernement fixe [<sup>4</sup> ...]<sup>4</sup> les modalités d'organisation et d'évaluation de l'épreuve.
+
+[<sup>4</sup> Sur la base de sa prestation et en tenant compte des évaluations de stage, le stagiaire est déclaré apte ou inapte à la fonction. Il peut être déclaré inapte notamment si sa prestation révèle un élément majeur incompatible avec l'exercice de la fonction. Sera considérée comme un élément majeur incompatible avec l'exercice de la fonction la posture du stagiaire qui s'inscrit uniquement dans une mission de contrôle, enfreint la liberté pédagogique des écoles, adopte dans sa pratique des positions non conforme aux objectifs d'amélioration du système éducatif fixés par le législateur ou des missions prioritaires telles que définies aux articles 1.4.1-1 et 1.4.1-2 du Code.]<sup>4</sup>
+
+§ 4. Il est mis fin d'office [<sup>4</sup> ...]<sup>4</sup> au stage en cas de non-réussite de la formation [<sup>4</sup> ...]<sup>4</sup> professionnelle visée à l'article [<sup>4</sup> 66 ]<sup>4</sup>. Dans ce cas, [<sup>4</sup> le stage prend fin après l'écoulement d'un délai de 15 jours et, le cas échéant, ]<sup>4</sup> le membre du personnel réintègre à titre définitif sa fonction et son affectation d'origine. [<sup>4</sup> A défaut, ce délai est porté à six semaines.]<sup>4</sup>
+
+Le Gouvernement peut, pour assurer la continuité dans la fonction de directeur de zone ou afin de ne pas perturber la stabilité des équipes pédagogiques, reporter la réintégration du membre du personnel dans sa fonction d'origine de maximum six mois à dater de la non-réussite de la formation professionnelle.
+
+[<sup>1</sup> Le membre du personnel visé à l'alinéa 1er, peut introduire, par envoi recommandé, un recours écrit contre la décision de non-réussite du stage, par la voie hiérarchique, dans les dix jours de sa notification auprès de la Chambre de recours visée à l'article 121. Ce recours est suspensif.
+
+La Chambre de recours remet son avis au Gouvernement dans un délai maximum [<sup>4</sup> de deux mois]<sup>4</sup> à partir de la date de réception du recours. Le Gouvernement prend sa décision [<sup>4</sup> ...]<sup>4</sup> dans un délai maximum d'un mois à dater de la réception de l'avis.]<sup>1</sup>. [<sup>4</sup> Il est mis fin au stage lorsque le Gouvernement confirme l'échec.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/06, art. 155, 002; En vigueur : 26-02-2019&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 71, 006; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DCFR 2021-06-17/28, art. 56, 009; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFR 2024-04-18/34, art. 21, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 68
+
+Au cours du stage, moyennant un préavis de [<sup>1</sup> six semaines ]<sup>1</sup>, il peut être mis fin à celui-ci à la demande du membre du personnel. Dans ce cas, [<sup>1</sup> le membre du personnel nommé ou engagé à titre définitif réintègre sa fonction ]<sup>1</sup> et son affectation d'origine et, sauf circonstances exceptionnelles dûment motivées, il ne pourra être admis au stage ou désigné à titre provisoire à une fonction de directeur de zone ou de délégué au contrat d'objectifs qu'après avoir répondu à un nouvel appel aux candidats. [<sup>1</sup> Le préavis peut être réduit de commun accord. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 22, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 69
+
+§ 1er. A l'issue du stage, le membre du personnel qui a réussi l'épreuve visée à l'article [<sup>1</sup> 66]<sup>1</sup> § 3, [<sup>1</sup> ...]<sup>1</sup>, est évalué selon les mêmes modalités qu'à l'article [<sup>1</sup> 65]<sup>1</sup>
+
+Le membre du personnel qui se voit attribuer une mention " défavorable " peut introduire par envoi recommandé une réclamation écrite contre cette mention selon les mêmes modalités qu'à l'article [<sup>1</sup> 65]<sup>1</sup>, § 3. Ce recours est suspensif. [<sup>1</sup> Il est mis fin au stage lorsque le Gouvernement confirme l'échec. Le stage prend fin après l'écoulement d'un délai de 15 jours et, le cas échéant, le membre du personnel réintègre sa fonction et son affectation d'origine dans lesquelles il est nommé ou engagé à titre définitif. A défaut, ce délai est porté à six semaines.]<sup>1</sup>
+
+§ 2. Le membre du personnel qui fait l'objet d'une évaluation favorable à l'issue du stage fait l'objet d'une proposition de nomination à titre définitif à la fonction de directeur de zone [<sup>1</sup> ...]<sup>1</sup>.
+
+Cette proposition lui est notifiée par le [<sup>1</sup> directeur général ]<sup>1</sup>, soit par lettre recommandée à la poste avec accusé de réception portant ses effets trois jours ouvrables après la date de son expédition, [<sup>1</sup> soit par courriel à l'adresse renseignée ou ]<sup>1</sup> par la remise d'une lettre de la main à la main avec accusé de réception portant ses effets à la date figurant sur cet accusé de réception.
+
+Le membre du personnel dispose d'un délai de dix jours pour remettre la proposition complétée et signée au Délégué coordonnateur et y indiquer s'il accepte ou renonce à une nomination à titre définitif à la fonction de directeur de zone.
+
+[<sup>1</sup> A défaut de réponse dans les 10 jours par courriel avec accusé de réception, et sauf cas de force majeure, la renonciation est présumée et le stage prend fin de plein droit .]<sup>1</sup>
+
+En cas de renonciation dans le délai de 10 jours à une nomination à titre définitif, le membre du personnel [<sup>1</sup> nommé ou engagé à titre définitif ]<sup>1</sup> réintègre sa fonction et son affectation d'origine.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 23, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 69.
+
+Art. 69. [<sup>1</sup> Dans le cas visé à l'article 12, le stagiaire suit exclusivement le volet de la formation professionnelle visée à l'article 66, § 1er, 5°.
+
+A l'issue du stage, le stagiaire est évalué par le jury visé à l'article 66, § 3, sur ce volet exclusivement.
+
+Le stagiaire présente et défend un portfolio, lequel consiste dans la présentation de deux cas liés aux compétences managériales du directeur de zone, dont l'un des deux est lié à la gestion des collaborateurs.
+
+Le jury fonde son appréciation sur les critères d'évaluation suivants :
+
+1° le degré de maîtrise des connaissances et capacités supposées développées dans le cadre du volet consacré aux directeurs de zone de la formation professionnelle visée à l'article 66, § 1er, 5° ;
+
+2° la capacité à communiquer par écrit ;
+
+3° la capacité à communiquer oralement.
+
+Sur la base de sa prestation et en tenant compte des évaluations de service durant le stage, le stagiaire est déclaré apte ou inapte à la fonction. Il peut être déclaré inapte notamment si sa prestation révèle un élément majeur incompatible avec l'exercice de la fonction. Sera considérée comme un élément majeur incompatible avec l'exercice de la fonction la posture du stagiaire qui s'inscrit uniquement dans une mission de contrôle, enfreint la liberté pédagogique des écoles, adopte dans sa pratique des positions non conforme aux objectifs d'amélioration du système éducatif fixés par le législateur ou des missions prioritaires telles que définies aux articles 1.4.1-1 et 1.4.1-2 du Code. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 24, 010; En vigueur : 18-04-2024&gt;
+
+#### Section III. [<sup>1</sup> De la nomination à la fonction de promotion de directeur de zone ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 25, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 70
+
+Nul ne peut être nommé à la fonction de promotion de directeur de zone visée à l'article 24, 2°, s'il ne remplit les conditions suivantes :
+
+1° satisfaire aux conditions visées à l'article [<sup>1</sup> 14]<sup>1</sup>, §§ 1er [<sup>1</sup> ou ]<sup>1</sup> 2;
+
+2° avoir marqué son accord sur la proposition de nomination à titre définitif selon les modalités visées à l'article [<sup>1</sup> 68 ]<sup>1</sup>, § 2;
+
+3° ne pas avoir été démis de ses fonctions en application de l'article 76 ou de l'article [<sup>1</sup> 95]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 26, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 71
+
+La nomination à une fonction de promotion de directeur de zone ne peut avoir lieu qu'en cas de vacance d'emploi de la fonction à conférer.
+
+###### Art. 72
+
+Les membres du personnel sont nommés à titre définitif à la fonction de promotion de directeur de zone par le Gouvernement.
+
+La nomination à une fonction de promotion de directeur de zone produit ses effets, pour l'intéressé, le jour de l'admission au stage.
+
+L'emploi dont était titulaire le membre du personnel stagiaire au sein de son pouvoir organisateur d'origine, du Service général du pilotage des écoles et centres psycho-médico-sociaux ou du Service général de l'Inspection ne peut être déclaré vacant qu'à la date de la décision de nomination au grade de directeur de zone.
+
+L'arrêté de nomination est publié par extrait au Moniteur belge.
+
+#### Section IV. - De la désignation à titre provisoire à la fonction de promotion de directeur de zone
+
+###### Art. 73
+
+§ 1er. En cas d'absence temporaire d'un directeur de zone ou de vacance d'un emploi de directeur de zone pour lequel il n'est pas possible de désigner un stagiaire, le Gouvernement peut procéder à la désignation à titre provisoire dans un emploi d'une fonction de directeur de zone.
+
+§ 2. Le Gouvernement peut procéder à la désignation à titre provisoire dans un emploi d'une fonction de promotion de directeur de zone visée à l'article 24, 2°, d'un membre du personnel remplissant les conditions suivantes :
+
+1° satisfaire aux conditions visées à l'article [<sup>1</sup> 14]<sup>1</sup>, § 1er ou § 2;
+
+2° avoir introduit sa candidature dans les formes et délais conformément à l'article 74;
+
+3° faire preuve des expériences professionnelles suivantes :
+
+\- une expérience de trois ans au moins dans le domaine de la gestion ou de la coordination d'équipe d'adultes dont au moins deux ans dans le domaine de l'enseignement;
+
+\- minimum cinq ans de pratique professionnelle soit en tant que membre d'une équipe pédagogique, soit en tant qu'agent au sein d'un centre psycho-médico-social;
+
+\- une expérience professionnelle significative - d'un an au moins - dans plusieurs niveaux ou types d'enseignement différents ou auprès de partenaires scolaires constitue un atout;
+
+\- une expérience professionnelle dans les matières visées par les missions de directeur de zone, soit en matière d'audit, d'analyse systémique, d'analyse de variables / indicateurs, constitue un atout.
+
+Par priorité est désigné un candidat détenteur de l'attestation de réussite de l'épreuve [<sup>1</sup> donnant accès à la nomination]<sup>1</sup> en rapport avec la fonction de directeur de zone à conférer, visée au Titre II.
+
+Dans l'hypothèse visée à l'alinéa précédent, le Gouvernement applique le classement de la réserve de recrutement visée à l'article [<sup>1</sup> 18, alinéa 4]<sup>1</sup>, selon les mêmes modalités que celles visées à l'article [<sup>1</sup> 63]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 27, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 74
+
+Le Gouvernement invite les membres du personnel à introduire leur candidature à une désignation à titre provisoire selon les modalités qu'il détermine.
+
+Le membre du personnel qui postule pour plusieurs zones indique les zones pour lesquelles il se porte candidat.
+
+Peuvent seuls être désignés à titre provisoire à une fonction de promotion de directeur de zone les candidats qui ont respecté la forme et le délai dans lesquels les candidatures doivent être introduites.
+
+La période durant laquelle un membre du personnel est désigné à titre provisoire en application des dispositions de la présente section ne peut être assimilée au stage visé à l'article [<sup>1</sup> 64]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 28, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 75
+
+§ 1er. Moyennant un préavis de quinze jours, le Gouvernement peut mettre fin dans l'intérêt du service à la désignation d'un membre du personnel désigné à titre provisoire dans une fonction de promotion de directeur de zone.
+
+§ 2. Moyennant un préavis de [<sup>1</sup> six semaines ]<sup>1</sup>, le membre du personnel peut renoncer à sa désignation à titre provisoire. Dans ce cas, le membre du personnel réintègre à titre définitif sa fonction et son affectation d'origine et, sauf circonstances exceptionnelles dûment motivées, il ne pourra être admis au stage ou désigné à titre provisoire à une fonction de directeur de zone ou de délégué au contrat d'objectifs qu'après avoir répondu à un nouvel appel aux candidats.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 29, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 76
+
+Il est d'office mis fin à la désignation à titre provisoire du membre du personnel lorsque celui-ci fait l'objet de l'une des sanctions disciplinaires visées à l'article 110, 4° à 7°.
+
+Les sanctions disciplinaires visées à l'article 110, 6° et 7°, mettent fin, en outre, à tout lien statutaire, même dans sa fonction et son affectation d'origine.
+
+### CHAPITRE V. - De l'accès à la fonction de promotion de délégué au contrat d'objectifs
+
+#### Section Ier. - De la mutation
+
+###### Art. 77
+
+Préalablement à la mise en oeuvre de la procédure d'admission au stage visée à la section 2, le Gouvernement peut, en cas de vacance d'un emploi de la fonction de promotion de délégué au contrat d'objectifs, inviter, selon les modalités qu'il détermine, les délégués au contrat d'objectifs nommés à titre définitif et affectés au sein d'une autre zone, à introduire une demande de mutation dans l'emploi à conférer.
+
+La mutation est accordée par le Gouvernement, sur avis du Délégué coordonnateur et des directeurs de zone concerné.
+
+#### Section II. - De l'admission au stage à une fonction de promotion de délégué au contrat d'objectifs
+
+###### Art. 78
+
+&lt;Abrogé par DCFR 2024-04-18/34, art. 30, 010; En vigueur : 18-04-2024&gt;
+
+##### Sous-section 1. [<sup>1</sup> Sous-section 1. De l'entrée en stage ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 31, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 79
+
+En cas de vacance d'un emploi de la fonction de promotion de délégué au contrat d'objectifs à conférer et sans préjudice de l'application de l'article 77, le Gouvernement [<sup>1</sup> ou son délégué]<sup>1</sup> applique le classement de la réserve de recrutement visée à l'article [<sup>1</sup> 18, alinéa 4 ]<sup>1</sup>.
+
+[<sup>1</sup> Le ministre compétent ]<sup>1</sup> invite le membre du personnel le mieux classé à entrer en stage. A défaut pour le [<sup>1</sup> candidat]<sup>1</sup> concerné de répondre favorablement à cette invitation dans un délai de [<sup>1</sup> huit jours ouvrables 1 à dater de la notification, le [<sup>1</sup> ministre compétent ]<sup>1</sup> invite le membre du personnel qui est classé [<sup>1</sup> ensuite]<sup>1</sup> à entrer en stage et ainsi de suite.
+
+Le [<sup>1</sup> candidat ]<sup>1</sup> qui décline [<sup>1</sup> une première fois]<sup>1</sup> l'invitation à entrer en stage [<sup>1</sup> dans le groupement de zone pour lequel il s'est présenté ]<sup>1</sup> ne perd pas le bénéfice de son classement en cas de vacance d'un autre emploi de la fonction de promotion de délégué au contrat d'objectifs à conférer.
+
+[<sup>1</sup> Un second refus emporte la radiation de la réserve.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 32, 010; En vigueur : 18-04-2024&gt;
+
+##### Sous-section 2. [<sup>1</sup> De la durée du stage ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 33, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 80
+
+§ 1er. Le stage de délégué au contrat d'objectifs a une durée de 2 ans, calculée conformément au paragraphe 3.
+
+§ 2. Pendant la durée du stage, le membre du personnel reste titulaire de l'emploi dans lequel il est nommé ou engagé à titre définitif, le cas échéant [<sup>2</sup> ...]<sup>2</sup>.
+
+Sauf disposition contraire, le membre du personnel admis au stage est assimilé à un membre du personnel nommé ou engagé à titre définitif dans la fonction de délégué au contrat d'objectifs.
+
+Pendant la durée du stage, le membre du personnel peut être autorisé à participer à une formation lorsque celle-ci est centrée spécifiquement sur sa qualité de délégué au contrat d'objectifs et qu'elle est organisée en vertu :
+
+1° [<sup>1</sup> soit du Livre 6, Titre Ier, du Code de l'enseignement fondamental et de l'enseignement secondaire ;]<sup>1</sup>
+
+2° [<sup>1</sup> ]<sup>1</sup>
+
+[<sup>2</sup> 2 °]<sup>2</sup> soit du décret du 30 juin 1998 relatif à la formation en cours de carrière des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement de promotion sociale;
+
+[<sup>2</sup> 3°]<sup>2</sup> soit du décret du 15 mars 1999 relatif à la formation en cours de carrière des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française.
+
+§ 3. Pour le calcul de la durée du stage accompli, sont seuls pris en considération les services effectivement prestés pendant la durée du stage. Sont assimilés à des services effectivement prestés les vacances annuelles, les congés prévus aux articles 5, 5bis et 7 de l'arrêté royal du 15 janvier 1974, ainsi que les congés [<sup>2</sup> d'accueil ]<sup>2</sup> en vue de l'adoption [<sup>2</sup>,]<sup>2</sup> de la tutelle officieuse [<sup>2</sup> et du placement dans une famille d'accueil ]<sup>2</sup> et les congés de maternité prévus respectivement, au chapitre IIbis et au chapitre XIII du même arrêté royal du 15 janvier 1974.
+
+----------
+
+(1)&lt;DCFR 2021-06-17/28, art. 58, 009; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFR 2024-04-18/34, art. 34, 010; En vigueur : 18-04-2024&gt;
+
+##### Sous-section 3. [<sup>1</sup> De l'évaluation ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art.35, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 81
+
+§ 1er. Au plus tôt six mois après son entrée en fonction et au plus tard [<sup>1</sup> le huitième mois de stage ]<sup>1</sup>, le membre du personnel stagiaire est évalué par le directeur de zone [<sup>1</sup> selon les modalités fixées par le Gouvernement ]<sup>1</sup>.
+
+L'évaluation se fonde sur l'exécution des missions qui ont été attribuées à chaque délégué au contrat d'objectifs et sur la mise en pratique des compétences acquises dans le cadre de la formation [<sup>1</sup> ...]<sup>1</sup> professionnelle visée à l'article 82. Elle tient compte du profil de fonction visé à l'article 7, § 2, ainsi que du contexte global dans lequel est amené à évoluer le stagiaire et des moyens qui sont mis à sa disposition.
+
+[<sup>1</sup> L'évaluation consiste en]<sup>1</sup> un entretien avec le membre du personnel et à la rédaction d'un rapport d'évaluation dont le modèle est fixé par le Gouvernement.
+
+L'évaluation aboutit à l'attribution soit de la mention " favorable " soit de la mention [<sup>1</sup> " réservée "]<sup>1</sup>.
+
+[<sup>1</sup> En cas de mention " favorable ", le membre du personnel peut être à nouveau évalué à tout moment au cours de la seconde année de stage. Cette évaluation aboutit à l'attribution de la mention " favorable ", " réservée " ou " défavorable ". L'évaluation, en fin de stage, peut uniquement donner lieu à l'attribution de la mention " favorable " ou " défavorable ".
+
+En cas de mention " réservée ", il est procédé à une deuxième évaluation au plus tôt douze mois et au plus tard le quatorzième mois de stage. Cette évaluation aboutit à l'attribution de la mention " favorable ", " réservée " ou " défavorable ". Une troisième évaluation, en fin de stage, peut uniquement donner lieu à l'attribution de la mention " favorable " ou " défavorable]<sup>1</sup>
+
+[<sup>1</sup> Dans tous les cas, il ]<sup>1</sup>est mis fin d'office au stage du membre du personnel qui obtient la mention " défavorable " à l'issue de [<sup>1</sup> la deuxième ou troisième]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup> évaluation. Dans ce cas, [<sup>1</sup> le stage prend fin après l'écoulement d'un délai de 15 jours et, le cas échéant, ]<sup>1</sup> le membre du personnel réintègre sa fonction et son affectation dans lesquelles il est nommé ou engagé à titre définitif. [<sup>1</sup> A défaut, ce délai est porté à six semaines]<sup>1</sup>
+
+[<sup>1</sup> La mention obtenue par le stagiaire est portée à la connaissance de ce dernier soit par envoi recommandé, soit par la remise d'une lettre de la main à la main, soit par courriel à l'adresse renseignée, dans tous les cas avec accusé de réception.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> § 2.]<sup>1</sup> Le stagiaire qui se voit attribuer une mention " défavorable " peut introduire par envoi recommandé une réclamation écrite contre cette mention, par la voie hiérarchique, dans les dix jours de sa notification auprès de la chambre de recours visée à l'article 121. Ce recours est suspensif.
+
+La Chambre de recours remet son avis au Gouvernement dans un délai maximum [<sup>1</sup> de deux]<sup>1</sup> mois à partir de la date de réception du recours. Le Gouvernement prend sa décision et attribue la mention d'évaluation au membre du personnel stagiaire dans un délai maximum d'un mois à dater de la réception de l'avis.
+
+[<sup>1</sup> § 3. Lorsque le Gouvernement attribue la mention " défavorable ", il est mis fin d'office au stage du membre du personnel dans les mêmes conditions que celles visées à l'alinéa 7 du paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 36, 010; En vigueur : 18-04-2024&gt;
+
+##### Sous-section 4. [<sup>1</sup> De la formation professionnelle et de l'épreuve donnant accès à la nomination ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-18/34, art. 37, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 82
+
+§ 1er. [<sup>4</sup> Durant le stage, la formation professionnelle de délégué au contrat d'objectifs compte minimum 204 heures et comporte quatre volets.
+
+Les quatre volets de la formation sont communs aux fonctions de directeur de zone et de délégué au contrat d'objectifs.
+
+1° Le premier volet de la formation professionnelle, dont la durée s'élève à un minimum de 48 heures, vise à développer chez les stagiaires l'aptitude à :
+
+a) se questionner, prendre de la distance et développer une analyse réflexive au départ de problématiques et politiques éducatives ;
+
+b) s'adapter à la diversité des contextes institutionnels et scolaires ;
+
+c) évaluer sa propre action favorisant une aptitude à la réflexivité et au développement professionnel dans le cadre de sa future fonction et de ses missions et permettant d'identifier des besoins en termes de formation ou de régulation ;
+
+d) construire un portfolio attestant le développement de compétences spécifiques à l'exercice de sa future fonction et de ses missions.
+
+2° Le deuxième volet de la formation professionnelle, dont la durée s'élève à un minimum de 33 heures, vise à développer chez les stagiaires l'aptitude à :
+
+a) retracer l'évolution du système éducatif pour comprendre l'organisation actuelle de l'enseignement en Communauté française ;
+
+b) appréhender différents modèles de pilotage d'un système éducatif et de gouvernance des écoles et des établissements d'enseignement et dégager les opportunités et les effets de chacun de ceux-ci ;
+
+c) identifier les valeurs, les enjeux, l'approche systémique du pilotage du système éducatif et le modèle de gouvernance des établissements d'enseignement promus, notamment, par le Pacte pour un Enseignement d'Excellence ;
+
+d) identifier la place, le rôle et la complémentarité des différents services de l'Administration générale de l'Enseignement.
+
+3° Le troisième volet de la formation professionnelle, dont la durée s'élève à un minimum de 75 heures, vise à développer chez les stagiaires l'aptitude à :
+
+a) maîtriser à livre ouvert les bases légales et réglementaires liées à la fonction de délégué au contrat d'objectifs et de directeur de zone ;
+
+b) lire, comprendre et interpréter des données et des indicateurs quantitatifs et qualitatifs ;
+
+c) mettre en place les procédures de contractualisation et d'évaluation des contrats d'objectifs ;
+
+d) rédiger de rapports et des avis qui témoignent d'une bonne organisation de l'information, d'une communication claire, efficace et adaptée, d'une argumentation au départ de l'analyse des données à disposition et de l'utilisation des prescrits légaux et réglementaires ;
+
+e) mettre en place les procédures de contractualisation et d'évaluation des protocoles de collaboration ;
+
+f) s'approprier la déontologie propre à sa fonction (y compris l'adoption d'une posture adéquate et le respect de la confidentialité) ;
+
+g) gérer et réguler son fonctionnement personnel.
+
+4° Le quatrième volet de la formation professionnelle, dont la durée s'élève à un minimum de 48 heures, vise à développer chez les stagiaires l'aptitude à :
+
+a) prendre la parole en public et animer des groupes ;
+
+b) travailler en équipe ;
+
+c) gérer des conflits ;
+
+d) questionner les différentes parties prenantes afin de collecter les informations pertinentes et de comprendre leurs points de vue, attitudes et choix ;
+
+e) réagir adéquatement face à la résistance au changement, à argumenter et à provoquer la réflexion. " ;]<sup>4</sup>
+
+§ 2. Sur la base d'une proposition de [<sup>3</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>3</sup>, le Gouvernement élabore un plan de formation [<sup>4</sup> ...]<sup>4</sup> professionnelle qui en définit :
+
+1° les méthodologies en privilégiant celles qui visent le développement professionnel, notamment, l'analyse de cas, les mises en situation, l'Intervision et la constitution d'un portfolio;
+
+2° les modalités selon lesquelles la formation est organisée.
+
+[<sup>4</sup> Dans l'hypothèse où le stagiaire a déjà suivi une formation dont les contenus sont identiques à ceux visés au paragraphe 1er, il peut solliciter une dispense de tout ou partie du programme prévu par le plan de formation, selon les conditions et modalités fixées par le Gouvernement. ]<sup>4</sup>
+
+Sur la base du plan de formation visé à l'alinéa 1er, la formation [<sup>4</sup> ...]<sup>4</sup> professionnelle est organisée par [<sup>3</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>3</sup>.
+
+Les formateurs de cette formation [<sup>4</sup> ...]<sup>4</sup> professionnelle sont prioritairement issus des Universités, des Hautes Ecoles, des établissements d'enseignement de promotion sociale, de [<sup>3</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>3</sup> [<sup>4</sup> , des Services du Gouvernement, notamment l'Administration générale de l'Enseignement, du Service général de l'Inspection ou du Service général du Pilotage des écoles]<sup>4</sup>.
+
+[<sup>4</sup> Le Gouvernement prend les dispositions nécessaires pour permettre l'indemnisation des formateurs qui ne seraient pas visés par l'arrêté du Gouvernement de la Communauté française du 25 janvier 2017 fixant les modalités de sélection et d'indemnisation des formateurs internes auprès de l'Ecole d'administration publique et des services en charge de la formation. ]<sup>4</sup>
+
+[<sup>3</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>3</sup> peut organiser [<sup>4</sup> tout ou]<sup>4</sup> partie de la formation en commun ou séparément pour les directeurs de zone stagiaires et pour les délégués au contrat d'objectifs stagiaires.
+
+§ 3. A l'issue de la formation, le stagiaire présente et défend son portfolio devant un jury. Le portfolio consiste en un dossier personnel dans lequel il démontre en quoi les acquis de la formation et les acquis de l'expérience durant son stage lui permettent de rencontrer les exigences du profil de fonction visé à l'article 7, § 3 [<sup>4</sup> à travers l'analyse réflexive de deux cas en lien avec les missions du délégué au contrat d'objectifs, dont l'un au moins porte sur une dimension travaillée dans le troisième volet de la formation professionnelle visé au paragraphe 1er, 3°]<sup>4</sup>.
+
+Ce jury est composé :
+
+1° [<sup>4</sup> du Délégué coordinateur qui préside ou ]<sup>4</sup> d'un président désigné par le Gouvernement parmi les fonctionnaires généraux de rang 15 au moins;
+
+2° [<sup>4</sup> de deux membres représentant l'Administration générale de l'Enseignement, désignés par le Gouvernement, dont l'un au moins est un membre du personnel définitif du Service général du Pilotage des écoles et des Centres psycho-médico-sociaux ]<sup>4</sup>
+
+3° [<sup>4</sup> de minimum un et de maximum deux experts externes ]<sup>4</sup>ayant une compétence spécifique en lien avec les différents volets de la formation [<sup>4</sup> professionnelle]<sup>4</sup>
+
+Pour chaque membre effectif visé à l'alinéa 1er, le Gouvernement désigne un membre suppléant selon les mêmes modalités.
+
+[<sup>2</sup> Le mandat des membres du jury est gratuit. Toutefois, une compensation financière peut être accordée aux membres experts visés à l'alinéa 2, 3°, selon les modalités fixées par le Gouvernement.]<sup>2</sup>
+
+[<sup>4</sup> Conformément à l'article 14 de l'arrêté royal du 28 septembre 1984 portant exécution de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, les représentants des organisations syndicales peuvent assister aux réunions de ce ou ces jurys en tant qu'observateurs.]<sup>4</sup>
+
+Les modalités de fonctionnement du jury sont fixées par le Gouvernement.
+
+Le jury fonde son appréciation de l'épreuve [<sup>4</sup> donnant accès à la nomination]<sup>4</sup> sur les critères d'évaluation suivants :
+
+1° le degré de maîtrise des connaissances et capacités supposées développées dans le cadre [<sup>4</sup> des trois premiers]<sup>4</sup> volets de la formation [<sup>4</sup> professionnelle visés à l'article 82, § 1er, 1° à 3° ]<sup>4</sup>;
+
+2° la capacité à communiquer par écrit;
+
+3° la capacité à communiquer oralement.
+
+Le Gouvernement fixe [<sup>4</sup> ...]<sup>4</sup> les modalités d'organisation et d'évaluation de l'épreuve.
+
+[<sup>4</sup> Sur la base de sa prestation et en tenant compte des évaluations de stage, le stagiaire est déclaré apte ou inapte à la fonction. Il peut être déclaré inapte notamment si sa prestation révèle un élément majeur incompatible avec l'exercice de la fonction. . Sera considérée comme un élément majeur incompatible avec l'exercice de la fonction la posture du stagiaire qui s'inscrit uniquement dans une mission de contrôle, enfreint la liberté pédagogique des écoles, adopte dans sa pratique des positions non conforme aux objectifs d'amélioration du système éducatif fixés par le législateur ou des missions prioritaires telles que définies aux articles 1.4.1-1 et 1.4.1-2 du Code. ]<sup>4</sup>
+
+§ 4. Il est mis fin d'office [<sup>4</sup> ...]<sup>4</sup> au stage en cas de non-réussite de la formation [<sup>4</sup> ...]<sup>4</sup> professionnelle visée [<sup>4</sup> au paragraphe 1er]<sup>4</sup>. Dans ce cas, [<sup>4</sup> le stage prend fin après l'écoulement d'un délai de 15 jours et, le cas échéant, ]<sup>4</sup> le membre du personnel réintègre à titre définitif sa fonction et son affectation d'origine. [<sup>4</sup> A défaut, ce délai est porté à six semaines.]<sup>4</sup>
+
+Le Gouvernement peut, pour assurer la continuité dans la fonction de délégué aux contrats d'objectifs ou afin de ne pas perturber la stabilité des équipes pédagogiques, reporter la réintégration du membre du personnel dans sa fonction d'origine de maximum six mois à dater de la non-réussite de la formation professionnelle.
+
+[<sup>1</sup> Le membre du personnel visé à l'alinéa 1er, peut introduire, par envoi recommandé, un recours écrit contre la décision de non-réussite du stage, par la voie hiérarchique, dans les dix jours de sa notification auprès de la Chambre de recours visée à l'article 121. Ce recours est suspensif.
+
+La Chambre de recours remet son avis au Gouvernement dans un délai maximum [<sup>4</sup> de deux mois ]<sup>4</sup> à partir de la date de réception du recours. Le Gouvernement prend sa décision [<sup>4</sup> ...]<sup>4</sup>dans un délai maximum à dater de la réception de l'avis.]<sup>1</sup> [<sup>4</sup> Il est mis fin au stage lorsque le Gouvernement confirme l'échec.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/06, art. 155, 002; En vigueur : 26-02-2019&gt;
+
+(2)&lt;DCFR 2020-12-09/15, art. 71, 006; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DCFR 2021-06-17/28, art. 56, 009; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFR 2024-04-18/34, art. 38, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 83
+
+Au cours du stage, moyennant un préavis de [<sup>1</sup> six semaines ]<sup>1</sup>, il peut être mis fin à celui-ci à la demande du membre du personnel. Dans ce cas, le membre du personnel [<sup>1</sup> nommé ou engagé à titre définitif ]<sup>1</sup> réintègre [<sup>1</sup> ...]<sup>1</sup> sa fonction et son affectation d'origine et, sauf circonstances exceptionnelles dûment motivées, il ne pourra être admis au stage ou désigné à titre provisoire à une fonction de directeur de zone ou de délégué au contrat d'objectifs qu'après avoir répondu à un nouvel appel aux candidats.[<sup>1</sup> Le préavis peut être réduit de commun accord. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 39, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 84
+
+§ 1er. A l'issue du stage, le membre du personnel qui a réussi la formation [<sup>1</sup> ...]<sup>1</sup> professionnelle visée à l'article 82 est évalué selon les mêmes modalités qu'à l'article 81.
+
+Le membre du personnel qui se voit attribuer une mention " défavorable " peut introduire par envoi recommandé une réclamation écrite contre cette mention selon les mêmes modalités qu'à l'article 81, § [<sup>1</sup> 2]<sup>1</sup>. [<sup>1</sup> Ce recours est suspensif. Il est mis fin au stage lorsque le Gouvernement confirme l'échec. Le stage prend fin après l'écoulement d'un délai de 15 jours et le membre du personnel réintègre sa fonction et son affectation d'origine dans lesquelles il est nommé ou engagé à titre définitif. A défaut, ce délai est porté à six semaines. ]<sup>1</sup>
+
+§ 2. Le membre du personnel qui fait l'objet d'une évaluation favorable à l'issue du stage fait l'objet d'une proposition de nomination à titre définitif à la fonction de délégué au contrat d'objectifs [<sup>1</sup> ...]<sup>1</sup>.
+
+Cette proposition lui est notifiée par le Délégué coordonnateur, soit par lettre recommandée à la poste [<sup>1</sup> soit par courriel à l'adresse renseignée ou ]<sup>1</sup> avec accusé de réception portant ses effets trois jours ouvrables après la date de son expédition, soit par la remise d'une lettre de la main à la main avec accusé de réception portant ses effets à la date figurant sur cet accusé de réception.
+
+Le membre du personnel dispose d'un délai de dix jours pour remettre la proposition complétée et signée au Délégué coordonnateur et y indiquer s'il accepte ou renonce à une nomination à titre définitif à la fonction de délégué au contrat d'objectifs.
+
+[<sup>1</sup> A défaut de réponse dans les 10 jours par courriel avec accusé de réception, et sauf cas de force majeure la renonciation est présumée et le stage prend fin de plein droit.]<sup>1</sup>
+
+En cas de renonciation dans le délai de 10 jours à une nomination à titre définitif, le membre du personnel [<sup>1</sup> nommé ou engagé à titre définitif]<sup>1</sup> réintègre sa fonction et son affectation d'origine.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 40, 010; En vigueur : 18-04-2024&gt;
+
+#### Section III. - De la nomination à une fonction de promotion de délégué au contrat d'objectifs
+
+###### Art. 85
+
+Nul ne peut être nommé à une fonction de promotion de délégué au contrat d'objectifs visée à l'article 24, 3°, s'il ne remplit les conditions suivantes :
+
+1° satisfaire aux conditions visées à l'article [<sup>1</sup> 14]<sup>1</sup>, § 1er ou § 2;
+
+2° avoir marqué son accord sur la proposition de nomination à titre définitif selon les modalités visées à l'article 84, § 2 [<sup>1</sup> ;[<sup>1</sup> ]<sup>1</sup>]<sup>1</sup>
+
+[<sup>1</sup> 3° ne pas avoir été démis de ses fonctions en application de l'article 76 ou de l'article 95. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 41, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 86
+
+La nomination à une fonction de promotion de délégué au contrat d'objectifs ne peut avoir lieu qu'en cas de vacance d'emploi de la fonction à conférer.
+
+###### Art. 87
+
+Les membres du personnel sont nommés à titre définitif à la fonction de promotion de délégué au contrat d'objectifs par le Gouvernement.
+
+La nomination à une fonction de promotion déléguée au contrat d'objectifs produit ses effets, pour l'intéressé, le jour de l'admission au stage.
+
+L'emploi dont était titulaire le membre du personnel stagiaire au sein de son pouvoir organisateur d'origine, du Service général du pilotage des écoles et centres psycho-médico-sociaux ou du Service général de l'Inspection ne peut être déclaré vacant qu'à la date de la décision de nomination au grade de délégué au contrat d'objectifs.
+
+L'arrêté de nomination est publié par extrait au Moniteur belge.
+
+#### Section IV. - De la désignation à titre provisoire à une fonction de promotion de délégué au contrat d'objectifs
+
+###### Art. 88
+
+§ 1er. En cas d'absence temporaire d'un délégué au contrat d'objectifs ou de vacance d'un emploi de délégué au contrat d'objectifs pour lequel il n'est pas possible de désigner un stagiaire, le Gouvernement peut procéder à la désignation à titre provisoire dans un emploi d'une fonction de délégué au contrat d'objectifs.
+
+§ 2. Le Gouvernement peut procéder à la désignation à titre provisoire dans un emploi d'une fonction de promotion de délégué au contrat d'objectifs visée à l'article 24, 3°[<sup>1</sup> ,]<sup>1</sup> d'un membre du personnel remplissant les conditions suivantes :
+
+1° satisfaire aux conditions visées à l'article [<sup>1</sup> 14]<sup>1</sup>, § 1er ou § 2;
+
+2° avoir introduit sa candidature dans les formes et délais conformément à l'article 89;
+
+3° faire preuve des expériences professionnelles suivantes :
+
+a) minimum cinq ans de pratique professionnelle soit en tant que membre d'une équipe pédagogique, soit en tant qu'agent au sein d'un centre psycho-médico-social;
+
+b) trois expériences professionnelles significatives - d'un an au moins - soit dans des niveaux d'enseignement différents, soit dans des fonctions différentes, qu'elles aient ou non été exercées dans la même école, soit auprès de partenaires scolaires;
+
+c) une expérience de trois ans au moins dans le domaine de la gestion ou de la coordination d'équipe d'adultes dont au moins deux ans dans le domaine de l'enseignement constitue un atout;
+
+d) une expérience professionnelle dans les matières visées par les missions de délégué au contrat d'objectif, soit en matière d'audit, d'analyse systémique, d'analyse de variables / indicateurs, constitue un atout.
+
+Par priorité est désigné un candidat détenteur de l'attestation de réussite [<sup>1</sup> de l'épreuve donnant accès à la nomination]<sup>1</sup> en rapport avec la fonction de délégué au contrat d'objectifs à conférer, visée au Titre II.
+
+Dans l'hypothèse visée à l'alinéa précédent, le Gouvernement applique le classement de la réserve de recrutement visée à l'article [<sup>1</sup> 18, alinéa 4]<sup>1</sup>, selon les mêmes modalités que celles visées à l'article 79 [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 42, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 89
+
+Le Gouvernement invite les membres du personnel à introduire leur candidature à une désignation à titre provisoire selon les modalités qu'il détermine.
+
+Le membre du personnel qui postule pour plusieurs zones indique les zones pour lesquelles il se porte candidat.
+
+Peuvent seuls être désignés à titre provisoire à une fonction de promotion de [<sup>1</sup> délégué au contrat d'objectifs ]<sup>1</sup> les candidats qui ont respecté la forme et le délai dans lesquels les candidatures doivent être introduites.
+
+La période durant laquelle un membre du personnel est désigné à titre provisoire en application des dispositions de la présente section ne peut être assimilée au stage visé à l'article 80.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 43, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 90
+
+§ 1er. Moyennant un préavis de quinze jours, le Gouvernement peut mettre fin, dans l'intérêt du service, à la désignation d'un membre du personnel désigné à titre provisoire dans une fonction de promotion de délégué au contrat d'objectifs. Dans ce cas, le membre du personnel réintègre à titre définitif sa fonction et son affectation d'origine et, sauf circonstances exceptionnelles dûment motivées, il ne pourra être admis au stage ou désigné à titre provisoire à une fonction de directeur de zone ou de délégué au contrat d'objectifs qu'après avoir répondu à un nouvel appel aux candidats.
+
+§ 2. Moyennant un préavis de [<sup>1</sup> six semaines ]<sup>1</sup>, le membre du personnel peut renoncer à sa désignation à titre provisoire. Dans ce cas, le membre du personnel réintègre à titre définitif sa fonction et son affectation d'origine et, sauf circonstances exceptionnelles dûment motivées, il ne pourra être admis au stage ou désigné à titre provisoire à une fonction de directeur de zone ou de délégué au contrat d'objectifs qu'après avoir répondu à un nouvel appel aux candidats.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 44, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 91
+
+Il est d'office mis fin à la désignation à titre provisoire du membre du personnel lorsque celui-ci fait l'objet de l'une des sanctions disciplinaires visées à l'article 110, 4° à 7°.
+
+Les sanctions disciplinaires visées à l'article 110, 6° et 7°, mettent fin, en outre, à tout lien statutaire, même dans sa fonction et son affectation d'origine.
+
+### CHAPITRE VI. - De l'évaluation en cours de carrière des directeurs de zone et des délégués au contrat d'objectifs
+
+###### Art. 92
+
+Sans préjudice des articles [<sup>1</sup> 65]<sup>1</sup>, [<sup>1</sup> 68 ]<sup>1</sup>, 81 et 84, au moins tous les deux ans et au plus tard six mois après sa première entrée en fonction, chaque directeur de zone ou chaque délégué au contrat d'objectifs fait l'objet d'une évaluation. Celle-ci se base sur l'accomplissement des missions qui lui ont été attribuées conformément aux dispositions du Titre Ier.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 45, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 93
+
+Les directeurs de zone sont évalués par le Délégué coordonnateur. Les délégués au contrat d'objectifs sont évalués par le directeur de zone dont ils relèvent.
+
+L'évaluation fait l'objet de l'une des mentions suivantes :
+
+1° " Favorable ";
+
+2° " Réservée ";
+
+3° " Défavorable ".
+
+Lorsque l'évaluation aboutit à l'attribution de la mention " réservée ", la mention attribuée lors de l'évaluation suivante est soit " favorable " soit " défavorable ".
+
+Dans le cadre d'une évaluation " réservée ", le membre du personnel peut se voir formuler des recommandations complémentaires à la formation obligatoire individuelle visée à l'article 98, § 2.
+
+###### Art. 94
+
+En vue de l'attribution de l'évaluation, il est procédé à un entretien avec le membre du personnel et à la rédaction d'un rapport d'évaluation dont le modèle est fixé par le Gouvernement.
+
+Le Gouvernement fixe les modalités selon lesquelles l'entretien se déroule.
+
+###### Art. 95
+
+Le membre du personnel qui se voit attribuer une mention " réservée " ou " défavorable " peut introduire par envoi recommandé une réclamation écrite contre cette mention, dans les dix jours de sa notification auprès de la chambre de recours visée à l'article 121.
+
+La Chambre de recours remet son avis au Gouvernement dans un délai maximum [<sup>1</sup> de deux]<sup>1</sup> mois à partir de la date de réception du recours. Le Gouvernement prend sa décision et attribue la mention d'évaluation au membre du personnel stagiaire dans un délai maximum d'un mois à dater de la réception de l'avis.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 46, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 96
+
+Il est mis fin aux fonctions du membre du personnel qui fait l'objet de deux évaluations défavorables consécutives [<sup>1</sup> après l'écoulement d'un délai de six semaines ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 47, 010; En vigueur : 18-04-2024&gt;
+
+### CHAPITRE VII. - De la formation en cours de carrière
+
+###### Art. 97
+
+§ 1er. Les directeurs de zone et les délégués au contrat d'objectifs suivent une formation en cours de carrière qui vise :
+
+1° le partage et l'analyse de pratiques et de ressources au bénéfice du développement professionnel individuel et collectif;
+
+2° le perfectionnement, l'ajustement et l'actualisation du développement des compétences de la formation initiale [<sup>2</sup> professionnelle suivie, le cas échéant, par le personnel nommé en 2021 ou 2022 ]<sup>2</sup>;
+
+3° l'acquisition et l'intégration de connaissances, compétences complémentaires à développer au vu des orientations prioritaires du système éducatif, des avancées scientifiques de la recherche par rapport à celles-ci, de l'évolution des missions des délégués au contrat d'objectifs et des besoins de formation constatés par rapport à l'analyse des rapports annuels des directeurs de zone;
+
+4° l'acquisition de compétences complémentaires en fonction du projet de formation individuel et de leur évaluation individuelle;
+
+5° la prise de recul et l'analyse réflexive de son propre fonctionnement via notamment la confrontation de sa pratique professionnelle à celles de ses collègues, des formations organisées et de modalités de formation personnelles (lectures, conférences, Mooc, etc.) et l'écriture d'un portfolio professionnel.
+
+§ 2. Sur la base d'une proposition du Service général de pilotage des écoles, [<sup>1</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>1</sup> détermine un plan de formation annuel obligatoire qui comprend deux volets : un volet commun et un volet zonal :
+
+1° privilégiant des méthodologies qui visent le développement professionnel, notamment, le partage de pratique, l'analyse de cas, les mises en situation, l'Intervision ainsi que la production par les MDP de synthèses, outils et d'un portfolio professionnel;
+
+2° comprenant les modalités selon laquelle la formation est organisée.
+
+Les formateurs de cette formation en cours de carrière sont [<sup>2</sup> ...]<sup>2</sup> issus des Universités, des Hautes Ecoles, des établissements d'enseignement supérieur de promotion sociale, de [<sup>1</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>1</sup> [<sup>2</sup> , du Service général du pilotage des écoles et des Centres psycho-médico-sociaux sont insérés entre les mots " continue ]<sup>2</sup> ou de l'Administration générale de l'Enseignement, ou tout opérateur de formation[<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>2</sup> Le Gouvernement prend les dispositions nécessaires pour permettre l'indemnisation des formateurs qui ne seraient pas visés par l'arrêté du Gouvernement de la Communauté française du 25 janvier 2017 fixant les modalités de sélection et d'indemnisation des formateurs internes auprès de l'Ecole d'administration publique et des services en charge de la formation. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2021-06-17/28, art. 56, 009; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFR 2024-04-18/34, art. 48, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 98
+
+§ 1er. La formation en cours de carrière des directeurs de zone et des délégués aux contrats d'objectifs est organisée sur une base obligatoire et sur une base volontaire.
+
+[<sup>2</sup> La formation en cours de carrière est suivie par les membres du personnel nommés et les membres du personnel désignés à titre provisoire.]<sup>2</sup>
+
+§ 2. La formation en cours de carrière sur une base obligatoire comprend de 12 à 20 demi-jours de formation obligatoire annuelle répartie selon les modalités d'organisation suivantes :
+
+1° 6 demi-jours de formation commune organisés pour l'ensemble des membres du personnel du Service général;
+
+2° 4 demi-jours de formation organisés par zone;
+
+3° de 2 à 6 demi-jours de formation obligatoire individuelle selon l'expertise professionnelle en tant que directeur de zone ou délégué au contrat d'objectifs;
+
+4° pour les directeurs de zone ou les délégués au contrat d'objectifs disposant de moins de dix années d'expérience dans la fonction, 4 demi-jours sont réservés à la production d'une synthèse personnelle des apports des formations suivies et d'une analyse réflexive de son propre fonctionnement sous la forme d'un portfolio professionnel. La production d'un portfolio professionnel est laissée à la discrétion des membres du personnel ayant plus de dix années d'expérience dans la fonction.
+
+Le nombre de demi-jours de formation obligatoire individuelle peut être réparti sur les jours de prestations de trois années consécutives.
+
+Le contenu et les modalités de la formation obligatoire individuelle sont fixés lors de l'entretien d'évaluation qui a lieu tous les deux ans sur la base d'un projet de formation personnel.
+
+Cette formation comprend des modalités telles que la participation à des colloques, à des journées d'étude, à des formations organisées par [<sup>1</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>1</sup>, par l'administration ou par des opérateurs externes en présentiel, hybrides ou à distance.
+
+Le Délégué coordonnateur valide le projet de formation individuelle obligatoire des directeurs de zone lors de leur entretien d'évaluation. Le directeur de zone valide le projet de formation individuelle obligatoire des délégués aux contrats d'objectifs qui dépendent de lui lors de leur entretien d'évaluation.
+
+La participation aux formations organisées par [<sup>1</sup> l'Institut interréseaux de la Formation professionnelle continue]<sup>1</sup> sera déterminée en concertation entre [<sup>1</sup> [<sup>2</sup> celui-ci et le Service général de Pilotage des écoles ]<sup>2</sup>.
+
+§ 3. En dehors du temps de prestation du membre du personnel, la formation organisée sur la base volontaire n'est pas limitée en nombre de demi-jours de formation.
+
+Lorsqu'elle se déroule pendant le temps de prestation des membres de personnel, elle ne peut dépasser 6 demi-jours par an, sauf dérogation accordée par le Gouvernement sur la demande du Délégué coordonnateur du Service [<sup>2</sup> général ]<sup>2</sup> de [<sup>2</sup> Pilotage ]<sup>2</sup> des écoles.
+
+Les formations volontaires sont à la charge du [<sup>2</sup> Service général]<sup>2</sup> de [<sup>2</sup> Pilotage]<sup>2</sup>.
+
+§ 4. [<sup>2</sup> En concertation avec le Délégué coordonnateur, l'Institut interréseaux de la Formation professionnelle continue]<sup>2</sup> remet, d'initiative ou à la demande du Gouvernement, un avis sur l'application du présent chapitre.
+
+----------
+
+(1)&lt;DCFR 2021-06-17/28, art. 59, 009; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFR 2024-04-18/34, art. 49, 010; En vigueur : 18-04-2024&gt;
+
+### CHAPITRE VIII. - Des positions administratives
+
+#### Section Ire. - Disposition générale
+
+###### Art. 99
+
+Les membres du personnel se trouvent dans une des positions administratives suivantes :
+
+1° l'activité de service;
+
+2° la non-activité;
+
+3° la disponibilité.
+
+#### Section II. - De l'activité de service
+
+###### Art. 100
+
+Le membre du personnel est toujours censé être en activité de service, sauf disposition formelle le plaçant dans une autre position administrative.
+
+###### Art. 101
+
+Le membre du personnel a droit au traitement et à l'avancement de traitement dans les mêmes conditions que les chefs des établissements d'enseignement de la Communauté française.
+
+Sans préjudice des dispositions de l'article 103, il peut obtenir un congé dans les mêmes conditions que les chefs des établissements d'enseignement de la Communauté française.
+
+###### Art. 102
+
+Le directeur de zone bénéficie, durant la période de sa nomination à titre définitif ou sa désignation à titre provisoire, d'une allocation annuelle de 9.500 €. Ce montant est rattaché à l'indice pivot 138,01.
+
+[<sup>1</sup> Cette prime annuelle, établie par année civile, doit faire l'objet d'un paiement mensuel (en 12ème par mois entier de prestation).
+
+Afin d'en établir le calcul automatique, il convient de considérer que le montant annuel de 9.500 euros rattaché à l'indice pivot 138,01 tel que fixé à l'alinéa 1er correspond à un montant annuel brut à 100% non indexé de 5.677,07 euros.
+
+Conformément à l'article 65, § 2, alinéa 2, les directeurs de zone stagiaires perçoivent également cette prime. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-19/12, art. 115, 007; En vigueur : 23-04-2019&gt;
+
+###### Art. 103
+
+§ 1er. Le membre du personnel bénéficie d'un congé annuel de vacances, les samedis non compris, dont la durée est fixée comme suit :
+
+\- pour le membre du personnel âgé de moins de quarante-cinq ans : 32 jours ouvrables;
+
+\- pour le membre du personnel âgé de quarante-cinq ans à quarante-neuf ans : 33 jours ouvrables;
+
+\- à partir de cinquante ans : 34 jours ouvrables.
+
+L'âge pris en considération pour la détermination de la durée du congé est celui atteint par le membre du personnel au 31 décembre de l'année.
+
+En plus du congé annuel de vacances, tous les membres du personnel bénéficient, indépendamment de leur âge, des jours de congé de compensation accordés au personnel des Services du Gouvernement.
+
+§ 2. Les membres du personnel bénéficient d'un congé de vacances annuelles complémentaire dont la durée est fixée comme suit suivant leur âge :
+
+1° à cinquante-cinq ans : un jour ouvrable;
+
+2° à cinquante-six ans : deux jours ouvrables;
+
+3° à cinquante-sept ans : trois jours ouvrables;
+
+4° à cinquante-huit ans : quatre jours ouvrables;
+
+5° à cinquante-neuf ans : cinq jours ouvrables;
+
+6° à soixante ans : six jours ouvrables;
+
+7° à soixante et un ans : sept jours ouvrables;
+
+8° à soixante-deux ans : huit jours ouvrables;
+
+9° à soixante-trois ans : neuf jours ouvrables;
+
+10° à soixante-quatre ans : dix jours ouvrables.
+
+§ 3. Le congé annuel de vacances est assimilé à une période d'activité de service.
+
+[<sup>1</sup> Il est pris entre le 1er juillet et le 31 août inclus. Il est d'un minimum de dix jours ouvrables et peut être pris à la convenance du membre du personnel, de manière consécutive ou non, compte tenu des exigences du bon fonctionnement du Service général.]<sup>1</sup>
+
+Les membres du personnel prennent les jours de congé restants, selon leur convenance, pour autant que l'intérêt du service ne s'y oppose pas.
+
+§ 4. Lorsqu'un membre du personnel n'est en activité de service que pendant une partie de l'année, qu'il n'effectue pas des prestations hebdomadaires complètes, qu'il n'effectue pas entièrement ses prestations hebdomadaires ou qu'il a bénéficié d'un congé pour prestations réduites justifié par des raisons sociales ou familiales ou d'un congé pour prestations réduites justifié par des raisons de convenances personnelles, la durée du congé annuel de vacances est réduite à due concurrence. Les fractions de jour déductibles sont négligées.
+
+----------
+
+(1)&lt;DCFR 2022-02-24/18, art. 115, 008; En vigueur : 01-07-2021&gt;
+
+#### Section III. - De la non-activité
+
+###### Art. 104
+
+Le membre du personnel est dans la position de non-activité :
+
+1° lorsque, aux conditions fixées par le Gouvernement, il accomplit, en temps de paix, certaines prestations militaires ou est affecté à la protection civile ou à des tâches d'utilité publique en application de la loi portant le statut des objecteurs de conscience;
+
+2° lorsqu'il est frappé de la sanction de suspension disciplinaire ou de mise en non-activité disciplinaire;
+
+3° lorsque, pour des raisons familiales, il est autorisé à s'absenter pour une période de longue durée.
+
+###### Art. 105
+
+Le membre du personnel qui est dans la position de non-activité n'a pas droit au traitement, sauf disposition formelle contraire.
+
+S'il se trouve en position de non-activité en raison des dispositions prévues à l'article 104, 2°, il n'a pas droit à l'avancement de traitement.
+
+###### Art. 106
+
+Nul ne peut être mis ou maintenu en non-activité s'il se trouve dans les conditions requises pour obtenir une pension de retraite.
+
+#### Section IV. - De la disponibilité
+
+###### Art. 107
+
+Le membre du personnel peut être mis dans l'une des positions de disponibilité suivantes dans les mêmes conditions que les chefs des établissements d'enseignement de la Communauté française :
+
+1° pour mission spéciale;
+
+2° pour maladie ou infirmité n'entraînant pas l'inaptitude définitive au service, mais provoquant des absences dont la durée excède celles des congés pour cause de maladie ou d'infirmité;
+
+3° pour convenances personnelles;
+
+4° pour convenances personnelles précédant la pension de retraite;
+
+5° par retrait d'emploi dans l'intérêt du service et dans l'intérêt de l'enseignement.
+
+Toutefois, en cas de mise en disponibilité pour convenances personnelles, l'emploi dont est titulaire le membre du personnel demeure non vacant pendant la période de cette mise en disponibilité.
+
+###### Art. 108
+
+Nul ne peut être mis ou maintenu en disponibilité s'il se trouve dans les conditions requises pour obtenir une pension de retraite.
+
+La disposition de l'alinéa 1er ne s'applique pas aux membres du personnel mis en disponibilité pour mission spéciale.
+
+###### Art. 109
+
+Des traitements d'attente peuvent être alloués aux membres du personnel mis en disponibilité dans les mêmes conditions que les chefs des établissements d'enseignement de la Communauté française.
+
+Ces traitements d'attente, les allocations et indemnités qui sont éventuellement alloués à ces membres du personnel, sont soumis au régime de mobilité applicable aux rétributions des membres du personnel en activité de service.
+
+### CHAPITRE IX. - Du régime disciplinaire
+
+#### Section Ire. - Des sanctions disciplinaires
+
+###### Art. 110
+
+Les sanctions disciplinaires qui peuvent être infligées aux membres du personnel sont :
+
+1° le rappel à l'ordre;
+
+2° la réprimande;
+
+3° la retenue sur traitement;
+
+4° la suspension disciplinaire;
+
+5° la mise en non-activité disciplinaire;
+
+6° la démission disciplinaire;
+
+7° la révocation.
+
+###### Art. 111
+
+Pour les délégués au contrat d'objectifs, les sanctions disciplinaires sont proposées par le directeur de zone ou le Délégué coordonnateur.
+
+Pour les directeurs de zone, les sanctions disciplinaires sont proposées par le Délégué coordonnateur.
+
+Pour le Délégué coordonnateur, les sanctions disciplinaires sont proposées par le Directeur général.
+
+Les sanctions disciplinaires sont prononcées par le Gouvernement.
+
+###### Art. 112
+
+La retenue sur traitement ne peut être prononcée pour une durée supérieure à trois mois. Elle ne peut dépasser un cinquième du traitement.
+
+###### Art. 113
+
+La suspension disciplinaire ne peut être prononcée pour une durée supérieure à un an. Elle entraîne la privation de la moitié du traitement.
+
+###### Art. 114
+
+La durée de la mise en non-activité disciplinaire est fixée par le Gouvernement : elle ne peut être inférieure à un an, ni dépasser cinq ans.
+
+Le membre du personnel bénéficie pendant les deux premières années d'un traitement d'attente égal à la moitié du traitement d'activité. Sans pouvoir jamais dépasser ce dernier montant, le traitement d'attente est fixé ensuite au taux de la pension que l'intéressé obtiendrait s'il était admis prématurément à la retraite.
+
+Après avoir subi la moitié de sa sanction, le membre du personnel peut demander sa réintégration au sein du Service général.
+
+###### Art. 115
+
+Aucune sanction ne peut être proposée sans que le membre du personnel ait été, au préalable, entendu ou dûment convoqué.
+
+Lors de l'audition, le membre du personnel peut se faire assister par un avocat, par un défenseur choisi parmi les membres du personnel du Service général, en activité de service ou retraités, ou par un représentant d'une organisation syndicale agréée. La procédure se poursuit valablement lorsque le membre du personnel, dûment convoqué, ne se présente pas à l'audition ou n'y est pas représenté.
+
+Tout membre du personnel invité à viser une proposition de sanction disciplinaire formulée à son encontre a le droit d'introduire, par la voie hiérarchique, une réclamation écrite devant la Chambre de recours, dans le délai de vingt jours ouvrables à compter de la date à laquelle la proposition lui a été soumise pour visa.
+
+Si l'intéressé n'a pas introduit de recours dans le délai fixé, la proposition de sanction disciplinaire est transmise immédiatement au Gouvernement.
+
+###### Art. 116
+
+La proposition de sanction disciplinaire et le recours introduit par le membre du personnel concerné sont transmis à la Chambre de recours dans le délai d'un mois à compter de la date de la réception du recours.
+
+###### Art. 117
+
+A moins d'empêchement légitime, le requérant comparaît en personne. Il peut se faire assister par un avocat, par un défenseur choisi parmi les membres du personnel du Service général, en activité de service ou retraités, ou par un représentant d'une organisation syndicale agréée.
+
+Sauf dans les cas de poursuites pénales, la Chambre de recours donne son avis au Gouvernement dans un délai maximum de trois mois à compter de la date de réception du dossier complet de l'affaire. Toutefois, le Gouvernement peut demander un avis d'urgence. Dans ce cas, le délai ne peut cependant être inférieur à un mois.
+
+Le Gouvernement prend sa décision dans le délai d'un mois à partir de la réception de l'avis de la Chambre de recours.
+
+###### Art. 118
+
+Aucune sanction ne peut produire d'effet pour la période qui précède son prononcé.
+
+###### Art. 119
+
+L'action pénale relative aux faits qui font l'objet d'une procédure disciplinaire est suspensive de la procédure et du prononcé disciplinaires. Quel que soit le résultat de l'action pénale, l'autorité disciplinaire reste juge de l'application des sanctions disciplinaires.
+
+#### Section II. - De la radiation des sanctions disciplinaires
+
+###### Art. 120
+
+La sanction disciplinaire est effacée d'office au terme d'un délai :
+
+1° d'un an pour le rappel à l'ordre et la réprimande;
+
+2° de trois ans pour la retenue sur traitement;
+
+3° de cinq ans pour la suspension disciplinaire;
+
+4° de sept ans pour la mise en non-activité disciplinaire.
+
+Le délai visé à l'alinéa 1er commence à courir au prononcé de la sanction disciplinaire.
+
+Sans préjudice de l'exécution de la sanction disciplinaire, l'effacement a pour conséquence que la sanction ne peut plus avoir d'effet, notamment sur les droits d'accès à une autre fonction de promotion.
+
+### CHAPITRE X. - De la chambre de recours
+
+###### Art. 121
+
+Il est institué, auprès du Gouvernement, une Chambre de recours pour les membres du personnel du Service général de Pilotage des Ecoles et Centres psycho-médico-sociaux, ci-après dénommée " la Chambre de recours ".
+
+La Chambre de recours élabore son règlement d'ordre intérieur qu'elle soumet pour approbation au Gouvernement.
+
+###### Art. 122
+
+La Chambre de recours traite des recours introduits en matière d'incompatibilité, d'évaluation et de sanction disciplinaire.
+
+###### Art. 123
+
+[<sup>1</sup> La Chambre de recours est composée:
+
+1° d'un président et d'un président suppléant désignés par le Gouvernement parmi les fonctionnaires généraux de rang 16 au moins;
+
+2° de trois membres désignés par le Gouvernement parmi les fonctionnaires généraux de l'Administration générale de l'Enseignement de rang 15 au moins;
+
+3° de trois membres désignés par les organisations syndicales représentatives parmi [<sup>2</sup> les délégués au contrat d'objectifs si c'est un délégué au contrat d'objectifs qui introduit le recours, ou parmi les directeurs de zone si c'est un directeur de zone qui introduit le recours]<sup>2</sup>, chaque organisation syndicale disposant au moins d'un représentant;
+
+4° d'un secrétaire désigné par le Gouvernement parmi les agents de niveau 2+ au moins des Services du Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/06, art. 156, 002; En vigueur : 26-02-2019&gt;
+
+(2)&lt;DCFR 2022-02-24/18, art. 116, 008; En vigueur : 15-03-2022&gt;
+
+###### Art. 124
+
+Pour chaque membre effectif, le Gouvernement désigne un membre suppléant selon les mêmes modalités que celles visées à l'article 123, 2°.
+
+Il désigne également un secrétaire suppléant selon les mêmes modalités que celles visées à l'article 123, 3°.
+
+###### Art. 125
+
+En cas de remplacement d'un membre, le remplaçant achève le mandat de celui à la place duquel il est désigné.
+
+###### Art. 126
+
+Le président, le président suppléant, les membres effectifs et membres suppléants sont désignés pour cinq ans. Leur mandat est renouvelable.
+
+###### Art. 127
+
+La Chambre de recours est présidée par le président et, à son défaut, par le président suppléant.
+
+Le président a voix délibérative.
+
+Les secrétaire et secrétaire suppléant de la Chambre de recours en assurent le secrétariat. Ils n'ont pas voix délibérative.
+
+###### Art. 128
+
+Aucun recours ne peut faire l'objet de délibérations de la Chambre de recours si le requérant n'a été mis à même de faire valoir ses moyens de défense et si le dossier ne contient les éléments susceptibles de permettre à la Chambre d'émettre un avis en toute connaissance de cause, notamment le rapport des enquêteurs, les procès-verbaux des auditions de témoins et des confrontations indispensables.
+
+Le requérant peut se faire assister ou représenter par un représentant d'une organisation syndicale agréée, par un avocat ou par un défenseur choisi parmi les membres du personnel du Service général de l'Inspection, en activité de service ou retraités.
+
+Le défaut de comparution du membre du personnel ou de son représentant n'empêche pas la Chambre de recours de se prononcer.
+
+###### Art. 129
+
+Dès qu'un recours est introduit, le Président communique au requérant la liste des membres effectifs et suppléants de la Chambre de recours.
+
+Dans les dix jours ouvrables qui suivent la réception de cette liste, le requérant peut demander la récusation d'un ou de plusieurs membres, mais tout au plus de deux membres désignés sur proposition des organisations syndicales et de deux membres désignés directement par le Gouvernement. Toutefois, il ne peut récuser un membre effectif et son suppléant.
+
+Tout membre qui se sait cause de récusation est tenu de s'abstenir.
+
+Un membre peut également demander à être déchargé s'il estime avoir un intérêt moral en la cause ou s'il croit que l'on puisse douter de son impartialité. Le Président décide de la suite à réserver à cette demande. Il peut aussi décharger d'office un membre pour les mêmes motifs.
+
+###### Art. 130
+
+Les président et président suppléant ne peuvent siéger dans une affaire relative à l'un des membres du personnel relevant de leur administration.
+
+Le président, le président suppléant, les membres effectifs et membres suppléants ne peuvent siéger dans une affaire concernant leur conjoint, leur cohabitant, un parent ou un allié, jusqu'au quatrième degré inclusivement.
+
+###### Art. 131
+
+La Chambre de recours délibère valablement si le président et quatre membres au moins sont présents.
+
+Si le quorum visé à l'alinéa 1er n'est pas atteint, le président convoque une nouvelle réunion dans les quinze jours. Au cours de cette réunion, une décision pourra être prise, quel que soit le nombre des membres présents.
+
+###### Art. 132
+
+Pour chaque affaire, le Gouvernement désigne un rapporteur parmi les agents de niveau 1 des Services du Gouvernement qui n'ont pas participé à l'enquête.
+
+Le rapporteur expose objectivement à la Chambre de recours les rétroactes de l'affaire et les résultats de l'enquête. Il a droit de réplique. Il n'a pas voix délibérative.
+
+###### Art. 133
+
+La Chambre de recours peut ordonner un complément d'enquête, entendre les témoins à charge ou à décharge. Après en avoir délibéré, elle transmet au Gouvernement son avis motivé. Cet avis mentionne le nombre de votes pour et contre émis.
+
+###### Art. 134
+
+L'avis est donné à la majorité simple des voix. Le vote sur l'avis a lieu au scrutin secret. Les membres désignés directement par le Gouvernement et ceux désignés sur proposition des organisations syndicales doivent être en nombre égal pour prendre part au vote. Le cas échéant, la parité est rétablie par l'élimination d'un ou de plusieurs membres après tirage au sort.
+
+En cas de parité des voix, le président décide.
+
+###### Art. 135
+
+La décision prise par le Gouvernement fait mention de l'avis motivé de la Chambre de recours. Toute décision non conforme à l'avis de la Chambre de recours est motivée.
+
+Le Gouvernement notifie sa décision à la Chambre de recours et au requérant.
+
+###### Art. 136
+
+Le mandat des membres de la Chambre de recours est gratuit. Toutefois, des indemnités pour frais de parcours et de séjour peuvent leur être accordées suivant les dispositions réglementaires en la matière. Aucune indemnité n'est cependant due au président ou au président suppléant.
+
+###### Art. 137
+
+Les modalités de fonctionnement de la Chambre de recours sont fixées par le Gouvernement, dans le respect des droits de la défense et du caractère contradictoire des débats.
+
+### CHAPITRE XI. - De la suspension préventive : mesure administrative
+
+###### Art. 138
+
+§ 1er. La suspension préventive organisée par le présent chapitre est une mesure purement administrative, n'ayant pas le caractère d'une sanction.
+
+Elle est prononcée par le Gouvernement et est motivée. Elle a pour effet d'écarter le membre du personnel de ses fonctions.
+
+Pendant la durée de la suspension préventive, le membre du personnel reste dans la position administrative de l'activité de service.
+
+§ 2. Avant toute mesure de suspension préventive, le membre du personnel doit avoir été invité à se faire entendre par le Délégué coordonnateur ou, lorsque la mesure concerne un délégué au contrat d'objectifs, par le directeur de zone qu'il délègue à cet effet.
+
+La convocation à l'audition ainsi que les motifs justifiant la suspension préventive sont notifiés au membre du personnel trois jours ouvrables au moins avant l'audition, soit par lettre recommandée à la poste avec accusé de réception portant ses effets trois jours ouvrables après la date de son expédition, soit par la remise d'une lettre de la main à la main avec accusé de réception portant ses effets à la date figurant sur cet accusé de réception.
+
+Au cours de l'audition, le membre du personnel peut se faire assister ou représenter par un représentant d'une organisation syndicale agréée, par un avocat ou par un défenseur choisi parmi les membres du personnel du Service général, en activité de service ou retraités.
+
+Dans les dix jours ouvrables qui suivent celui prévu pour l'audition, la décision est communiquée au membre du personnel par lettre recommandée à la poste, et ce même si le membre du personnel ou son représentant ne se sont pas présentés à l'audition sans pouvoir faire valoir des circonstances de force majeure de nature à justifier leur absence à l'audition.
+
+Si le membre du personnel ou son représentant peuvent faire valoir des circonstances de force majeure de nature à justifier leur absence à l'audition, le membre du personnel est convoqué à une nouvelle audition notifiée conformément à l'alinéa 2.
+
+Dans ce cas, et même si le membre du personnel ou son représentant ne se sont pas présentés à l'audition, la décision est communiquée au membre du personnel par lettre recommandée à la poste dans les dix jours ouvrables qui suivent celui prévu pour l'audition.
+
+Si la décision conclut à la suspension préventive du membre du personnel, elle produit ses effets le troisième jour ouvrable suivant la date de son expédition.
+
+§ 3. Par dérogation au paragraphe 2, alinéa 1er, le membre du personnel peut être écarté de ses fonctions sur-le-champ en cas de faute grave pour laquelle il y a flagrant délit ou lorsque les griefs qui lui sont reprochés revêtent un caractère de gravité tel qu'il est souhaitable, dans l'intérêt du service, que le membre du personnel ne soit plus présent au sein du Service général.
+
+Dans les dix jours ouvrables qui suivent le jour où la mesure d'écartement immédiat a été prise, la procédure de suspension préventive doit être engagée conformément aux dispositions du présent article. A défaut, la mesure d'écartement immédiat prendra fin au terme du délai précité et le membre du personnel ne pourra à nouveau être écarté du service pour la même faute grave ou les mêmes griefs que moyennant le respect de la procédure de suspension préventive telle que prévue notamment au § 2.
+
+La mesure d'écartement sur-le-champ est prononcée par le Gouvernement.
+
+Le membre du personnel écarté sur-le-champ reste dans la position administrative de l'activité de service.
+
+###### Art. 139
+
+§ 1er. Lorsque l'intérêt du service ou de l'enseignement le requiert, une procédure de suspension préventive peut être entamée à l'égard d'un membre du personnel du Service général :
+
+1° s'il fait l'objet de poursuites pénales;
+
+2° avant l'exercice de poursuites disciplinaires ou s'il fait l'objet de poursuites disciplinaires;
+
+3° dès que le Gouvernement lui notifie, par lettre recommandée à la poste, la constatation d'une incompatibilité.
+
+§ 2. Dans le cadre de la constatation d'une incompatibilité ou dans le cadre d'une procédure disciplinaire ou avant l'exercice éventuel d'une procédure disciplinaire, la durée de la suspension préventive ne peut dépasser un an et dans le cadre d'une procédure disciplinaire expire en tout cas :
+
+1° après six mois si aucune proposition de sanction disciplinaire n'a été formulée et notifiée au membre du personnel dans ce délai;
+
+2° le troisième jour ouvrable qui suit la notification de la proposition de sanction disciplinaire si cette proposition est le rappel à l'ordre, la réprimande ou la retenue sur traitement;
+
+3° pour une proposition de sanction disciplinaire autre que celles visées au point 2°, quatre-vingts jours calendrier après la notification de la proposition de sanction disciplinaire au membre du personnel si ce dernier n'a pas introduit de recours à l'encontre de ladite proposition;
+
+4° pour une proposition de sanction disciplinaire autre que celles visées au point 2°, quatre-vingts jours calendrier après la notification au Ministre de l'avis de la Chambre de recours sur la proposition de sanction disciplinaire formulée à l'encontre du membre du personnel;
+
+5° le jour où la sanction disciplinaire sort ses effets.
+
+Dans le cadre de poursuites pénales, la durée de la suspension préventive n'est pas limitée à un an.
+
+Lorsqu'une procédure disciplinaire est engagée ou poursuivie après une décision judiciaire de condamnation pénale coulée en force de chose jugée, le délai d'un an visé à l'alinéa 1er ne commence à courir qu'à dater du prononcé de la condamnation définitive.
+
+§ 3. Dans le cadre d'une procédure disciplinaire ou avant l'exercice éventuel d'une procédure disciplinaire, la suspension préventive doit faire l'objet d'une confirmation écrite tous les trois mois à dater de la prise d'effet.
+
+Cette confirmation est notifiée à l'intéressé par lettre recommandée à la poste.
+
+A défaut de confirmation de la suspension préventive dans les délais requis, le membre du personnel concerné peut réintégrer ses fonctions après en avoir informé le Gouvernement, par lettre recommandée, au moins dix jours ouvrables avant la reprise effective du travail.
+
+Après réception de cette notification, le Gouvernement peut confirmer le maintien en suspension préventive selon la procédure décrite à l'alinéa 2.
+
+###### Art. 140
+
+Tout membre du personnel suspendu préventivement maintient son droit au traitement.
+
+Par dérogation à l'alinéa 1er, est fixé à la moitié de son traitement d'activité le traitement de tout membre du personnel suspendu préventivement qui fait l'objet:
+
+1° d'une inculpation ou d'une prévention dans le cadre de poursuites pénales;
+
+2° d'une condamnation pénale non définitive contre laquelle le membre du personnel a fait usage de ses droits de recours ordinaires;
+
+3° d'une procédure disciplinaire engagée ou poursuivie à la suite d'une condamnation pénale définitive;
+
+4° de poursuites disciplinaires en raison d'une faute grave pour laquelle il y a soit flagrant délit, soit des indices probants et dont l'appréciation appartient au Gouvernement;
+
+5° d'une proposition de sanction disciplinaire prévue à l'article 110, 4°, 5°, 6° et 7°.
+
+Cette réduction du traitement ne peut avoir pour effet de ramener le traitement à un montant inférieur au montant des allocations de chômage auquel le membre du personnel aurait droit s'il bénéficiait du régime de sécurité sociale des travailleurs salariés.
+
+Pour l'application de l'alinéa 2, 1° et 2°, cette réduction de traitement prend effet le premier jour du mois qui suit le jour de l'inculpation ou de la prévention ou du prononcé de la condamnation non définitive.
+
+Pour l'application de l'alinéa 2, 3°, cette réduction de traitement déjà opérée en vertu de l'alinéa 2, 1° ou 2°, est maintenue au-delà de la condamnation définitive si le Ministre notifie au membre du personnel son intention de poursuivre ou d'engager la procédure disciplinaire.
+
+Pour l'application de l'alinéa 2, 4°, la réduction de traitement prend effet le premier jour du mois qui suit la notification du Ministre au membre du personnel de l'application de cet alinéa 2, 4°.
+
+Pour l'application de l'alinéa 2, 5°, cette réduction de traitement prend effet le jour où la proposition de sanction disciplinaire est soumise ou notifiée au membre du personnel.
+
+###### Art. 141
+
+A l'issue de la procédure disciplinaire ou de la procédure pénale, la mesure de réduction de traitement est rapportée sauf si :
+
+1° le Gouvernement inflige au membre du personnel une des sanctions prévues à l'article 110, 4°, 5°, 6° et 7° ;
+
+2° [<sup>1</sup> e membre du personnel ne répond plus à la condition de l'article 142, 2°, b) ou il est fait application de l'article 142, 5°]<sup>1</sup>
+
+3° le membre du personnel fait l'objet d'une condamnation pénale définitive suivie ou non d'une procédure disciplinaire.
+
+Lorsque la mesure de réduction de traitement est rapportée en application de l'alinéa 1er, le membre du personnel reçoit le complément de son traitement initialement retenu augmenté des intérêts de retard calculés au taux légal et dus depuis le jour où la réduction a été opérée.
+
+Les sommes perçues par le membre du personnel durant la suspension préventive lui restent acquises.
+
+Si le traitement du membre du personnel a été réduit en application de l'article 139, § 2, alinéa 2, 4° ou 5°, et qu'au terme de la procédure disciplinaire, une sanction de suspension disciplinaire est prononcée pour une durée inférieure à la durée de la mesure de réduction de traitement, cette dernière est rapportée pour la période excédant la durée de la suspension disciplinaire et le membre du personnel perçoit dans ce cas le complément de son traitement, indûment retenu durant cette période, augmenté des intérêts de retard calculés au taux légal et dus depuis le jour où la réduction a été opérée.
+
+L'alinéa 4 ne s'applique pas dans le cadre d'une procédure disciplinaire engagée ou poursuivie après une condamnation pénale définitive.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 50, 010; En vigueur : 18-04-2024&gt;
+
+### CHAPITRE XII. - De la cessation des fonctions
+
+###### Art. 142
+
+§ 1er. Les membres du personnel du Service général de Pilotage des Ecoles et des Centres psycho-médico-sociaux nommés à titre définitif, stagiaires ou désignés à titre provisoire sont démis de leurs fonctions, d'office et sans préavis :
+
+1° s'ils n'ont pas été nommés à titre définitif, admis au stage ou désignés à titre provisoire de façon régulière;
+
+2° s'ils cessent de répondre aux conditions suivantes :
+
+a) [<sup>1</sup> être Belge ou ressortissant d'un Etat faisant partie de l'Espace économique européen ou de la Suisse ou disposer d'un titre de séjour et d'un permis de travail valides]<sup>1</sup>;
+
+b) jouir des droits civils et politiques;
+
+c) avoir satisfait aux lois sur la milice;
+
+d) être de conduite irréprochable;
+
+3° si après une absence autorisée, ils négligent, sans motif valable, de reprendre leur service et restent absents pour une période ininterrompue de plus de dix jours;
+
+4° s'ils abandonnent, sans motif valable, leur emploi et restent absents pendant une période ininterrompue de plus de dix jours;
+
+5° s'ils se trouvent dans les cas où l'application des lois civiles et pénales entraînent la cessation des fonctions;
+
+6° s'ils sont atteints d'une invalidité prématurée dûment constatée dans les conditions fixées par la loi et les mettant hors d'état de remplir leurs fonctions d'une manière complète, régulière et continue;
+
+7° si une incompatibilité est constatée et qu'aucun recours visé à l'article 40 n'a été introduit ou que le membre du personnel refuse de mettre fin à une occupation incompatible, le cas échéant après épuisement de la procédure;
+
+8° s'ils sont mis à la retraite pour limite d'âge.
+
+§ 2. Pour les membres du personnel du Service général de Pilotage des Ecoles et Centres psycho-médico-sociaux nommés à titre définitif ou stagiaires, entraînent également la cessation définitive des fonctions :
+
+1° la démission volontaire : le membre du personnel ne peut abandonner son service qu'à condition d'y avoir été dûment autorisé et après un préavis de quinze jours au moins;
+
+2° la sanction disciplinaire de la démission disciplinaire ou de la révocation.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/34, art. 51, 010; En vigueur : 18-04-2024&gt;
+
+## TITRE IV. - Dispositions transitoires, modificatives et finales
+
+### CHAPITRE Ier. - Dispositions transitoires
+
+###### Art. 143
+
+&lt;Abrogé par DCFR 2024-04-18/34, art. 52, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 144
+
+&lt;Abrogé par DCFR 2024-04-18/34, art. 53, 010; En vigueur : 18-04-2024&gt;
+
+###### Art. 145
+
+&lt;Abrogé par DCFR 2019-03-14/07, art. 48, 004; En vigueur : 13-03-2019&gt;
+
+###### Art. 146
+
+[<sup>1</sup> Le mandat de Délégué coordonnateur est pourvu pour la première fois lorsque le Service général est pourvu conformément à l'article 143 et que les membres du personnel admis au stage en vertu de l'article 144 ont achevé celui-ci.
+
+Pour la première désignation dans l'emploi de Délégué coordonnateur, il est dérogé à la condition visée à l'article 44, alinéa 1er, 2°.
+
+Dans l'attente, le Directeur général assure les missions du Délégué coordonnateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/06, art. 157, 002; En vigueur : 26-02-2019&gt;
+
+### CHAPITRE II. - Dispositions modificatives
+
+###### Art. 147
+
+Dans l'arrêté royal du 27 juin 1974 fixant au 1er avril 1972 les échelles des fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement de l'Etat, des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, des membres du personnel du service d'inspection de l'enseignement par correspondance et de l'enseignement primaire subventionné et les échelles des grades du personnel des centres psycho-médico-sociaux de l'Etat, tel que modifié en dernier lieu par l'arrêté du Gouvernement de la Communauté française du 24 août 2016, sont apportées les modifications suivantes :
+
+1° dans l'intitulé de l'arrêté royal, les termes " des membres du personnel du Service général de pilotages des Ecoles et Centres psycho-médico-sociaux, " sont insérés entre les termes " du personnel paramédical des établissements d'enseignement de l'Etat, " et les termes " des membres du personnel du service d'inspection ";
+
+2° à l'article 2, les termes " des membres du personnel du Service général de pilotages des Ecoles et Centres psycho-médico-sociaux, " sont insérés entre les termes " du personnel paramédical des établissements d'enseignement de l'Etat, " et les termes " des membres du personnel du service d'inspection ";
+
+3° il est inséré un chapitre Hquater rédigé comme suit :
+
+" Chapitre Hquater - Du personnel du Service général de pilotage des Ecoles et Centres psycho-médico-sociaux :
+
+Directeur de zone :
+
+a) porteur d'un diplôme de master : 475
+
+b) porteur d'un autre titre : 275
+
+Délégué au contrat d'objectifs :
+
+a) porteur d'un diplôme de master : 475
+
+b) porteur d'un autre titre : 275 ".
+
+###### Art. 148
+
+Dans l'article 75, § 1er, alinéa 1er, du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, il est inséré un 3° /1 rédigé comme suit :
+
+" 3° /1 les directeurs de zone et les délégués au contrat d'objectifs ".
+
+### CHAPITRE III. - Disposition finale
+
+###### Art. 149
+
+[<sup>1</sup> ...]<sup>1</sup> le présent décret entre en vigueur le jour de son adoption.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/07, art. 49, 004; En vigueur : 13-03-2019&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 13 septembre 2018.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de l'Aide à la Jeunesse, des Maisons de Justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT
+
+La Ministre de l'Enseignement de Promotion sociale, de la Jeunesse, des Droits des Femmes et de l'Egalité des Chances,
+
+I. SIMONIS

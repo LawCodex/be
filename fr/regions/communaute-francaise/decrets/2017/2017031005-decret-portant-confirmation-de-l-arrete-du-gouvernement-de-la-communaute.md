@@ -1,0 +1,137 @@
+---
+title: "Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française du 19 avril 2017 déterminant le référentiel des compétences terminales en éducation à la philosophie et à la citoyenneté et prévoyant une procédure de dérogation au référentiel"
+identifier: "2017031005"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017031005/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2017-07-19
+published: 2017-08-21
+entry_into_force: 2017-09-01
+last_amended: 2026-07-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017031005/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 21-08-2017 et mise à jour au 10-07-2026"
+retrieved: 2026-10-12
+---
+
+# 19 JUILLET 2017. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française du 19 avril 2017 déterminant le référentiel des compétences terminales en éducation à la philosophie et à la citoyenneté et prévoyant une procédure de dérogation au référentiel
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit:
+
+## Art. 1er
+
+L'arrêté du Gouvernement de la Communauté française du 19 avril 2017 déterminant le référentiel des compétences terminales en éducation à la philosophie et à la citoyenneté est confirmé, conformément à l'article 60ter, § 1er, alinéa 2 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.
+
+## Art. 2
+
+Tout pouvoir organisateur organisant un enseignement subventionné par la Communauté française peut introduire une demande de dérogation aux modes d'apprentissage décrits dans les compétences terminales confirmés à l'article 1er, aux conditions et selon la procédure définies aux articles suivants.
+
+## Art. 3
+
+Aucune dérogation ne peut avoir pour effet de porter atteinte à la cohérence du système éducatif, tel qu'il résulte de la mise en oeuvre des principes constitutionnels en matière d'enseignement.
+
+Elle ne peut, notamment, avoir pour effet de porter atteinte à la qualité de l'enseignement, au contenu de base ou à l'équivalence des diplômes et certificats ou encore de restreindre la liberté des parents de changer leur enfant d'école l'année scolaire suivante.
+
+Aucune dérogation ne peut être accordée à un pouvoir organisateur dont le projet n'aurait pas pour effet de garantir les droits et libertés consacrés dans la Constitution, la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales ainsi que la Convention relative aux droits de l'enfant.
+
+## Art. 4
+
+§ 1er. Dans la demande de dérogation, le pouvoir organisateur :
+
+1° indique les modes d'apprentissage décrits dans les compétences terminales dont il estime la définition trop contraignante pour lui laisser une latitude suffisante pour mettre en oeuvre son propre projet pédagogique, en motivant en quoi chaque mode d'apprentissage restreint cette mise en oeuvre;
+
+2° décrit les modes d'apprentissage alternatifs qu'il entend mettre en oeuvre;
+
+3° justifie comment le remplacement qu'il opère respecte les conditions énoncées à l'article 3.
+
+§ 2. La demande de dérogation précise les références exactes des suppressions et des insertions demandées. Une copie du projet pédagogique est jointe à la demande.
+
+Sous peine d'être irrecevable, la demande de dérogation et ses annexes sont introduites, par [<sup>1</sup> envoi recommandé]<sup>1</sup>, auprès du Gouvernement, au plus tard dix mois avant le début de l'année scolaire à partir de laquelle elle doit entrer en vigueur.
+
+----------
+
+(1)&lt;DCFR 2026-06-25/05, art. 15, 002; En vigueur : 10-07-2026&gt;
+
+## Art. 5
+
+§ 1er. La commission visée à l'article 11 du décret du 4 décembre 2014 portant confirmation des compétences terminales et savoirs requis à l'issue de la section de transition des humanités générales et technologiques mathématiques, en sciences de base et en sciences générales et des compétences terminales et savoirs communs à l'issue de la section de qualification des humanités techniques et professionnelles en formation scientifique, en français, en formation économique et sociale ainsi qu'en formation historique et géographique, est chargée de donner un avis au Gouvernement sur les demandes de dérogation.
+
+§ 2. Dès réception de la demande de dérogation, le Gouvernement la transmet, avec ses annexes, à la commission.
+
+Dans un délai de deux mois, ne courant pas en juillet ni août, la Commission transmet au Gouvernement un avis motivé sur :
+
+1° le caractère nécessaire du remplacement de modes d'apprentissage eu égard à la mise en oeuvre du projet pédagogique du pouvoir organisateur;
+
+2° le respect de l'article 3.
+
+Le Gouvernement transmet l'avis de la commission au pouvoir organisateur concerné par [<sup>1</sup> envoi recommandé]<sup>1</sup>. Le pouvoir organisateur dispose d'un délai d'un mois à dater de la réception de l'avis de la commission pour faire valoir ses observations. Lorsque le pouvoir organisateur n'a pas notifié ses observations dans les délais requis, la procédure est poursuivie sans qu'il soit tenu compte des observations tardives.
+
+----------
+
+(1)&lt;DCFR 2026-06-25/05, art. 16, 002; En vigueur : 10-07-2026&gt;
+
+## Art. 6
+
+Au terme de la procédure visée à l'article 5, le Gouvernement prend une décision motivée sur la demande de dérogation. Si celle-ci est accordée, en tout ou en partie, le Gouvernement soumet à la confirmation du Parlement la dérogation accordée, conformément à l'article 60ter du décret du 24 juillet 1997 précité.
+
+Si la dérogation est confirmée, elle est communiquée à la commission des programmes visée à l'article 17 du décret du 24 juillet 1997 précité à laquelle le pouvoir organisateur communique le programme qu'il veut appliquer en fonction des dérogations obtenues.
+
+## Art. 7
+
+§ 1er. A titre transitoire, pour l'année scolaire 2017-2018, la demande de dérogation visée à l'article 4 est introduite, par lettre recommandée auprès du Gouvernement, pour le 22 septembre 2017 au plus tard.
+
+La commission visée à l'article 5, est chargée de donner au Gouvernement, pour le 31 octobre 2017 au plus tard, un avis motivé sur :
+
+1° le caractère nécessaire du remplacement de modes d'apprentissage eu égard à la mise en oeuvre du projet pédagogique du pouvoir organisateur;
+
+2° le respect de l'article 3.
+
+Le Gouvernement transmet l'avis de la commission au pouvoir organisateur concerné par lettre recommandée à la poste. Le pouvoir organisateur dispose d'un délai de 10 jours ouvrables à dater de la réception de l'avis de la commission pour faire valoir ses observations. Lorsque le pouvoir organisateur n'a pas notifié ses observations dans les délais requis, la procédure est poursuivie sans qu'il soit tenu compte des observations tardives.
+
+§ 2. Au terme de la procédure visée au § 1er, le Gouvernement prend une décision motivée sur la demande de dérogation. Si celle-ci est accordée, en tout ou en partie, le Gouvernement soumet à la confirmation du Parlement la dérogation accordée, conformément à l'article 60ter du décret du 24 juillet 1997 précité.
+
+Si la dérogation est confirmée, elle est communiquée à la commission des programmes visée à l'article 17 du décret du 24 juillet 1997 précité à laquelle le pouvoir organisateur communique le programme qu'il veut appliquer en fonction des dérogations obtenues.
+
+§ 3. Tant que le Gouvernement n'a pas rendu une décision motivée sur la demande de dérogation, le Pouvoir organisateur est tenu d'appliquer les modes d'apprentissage décrits dans le référentiel.
+
+## Art. 8
+
+Le présent décret entre en vigueur pour l'année scolaire 2017-2018 à l'exception de l'article 1er qui produit ses effets le 1er octobre 2016.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 19 juillet 2017.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de l'Aide à la jeunesse, des Maisons de justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT
+
+La Ministre de l'Enseignement de promotion sociale, de la Jeunesse, des Droits des femmes et de l'Egalité des chances,
+
+I. SIMONIS

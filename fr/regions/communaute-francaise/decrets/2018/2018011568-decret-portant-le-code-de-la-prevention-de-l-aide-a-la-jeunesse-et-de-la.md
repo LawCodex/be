@@ -1,0 +1,4609 @@
+---
+title: "Décret portant le code de la prévention, de l'Aide à la jeunesse et de la protection de la Jeunesse"
+identifier: "2018011568"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/18/2018011568/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2018-01-18
+published: 2018-04-03
+entry_into_force: 2019-01-01
+last_amended: 2026-09-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/18/2018011568/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 03-04-2018 et mise à jour au 14-09-2026"
+retrieved: 2026-10-12
+---
+
+# 18 JANVIER 2018. - Décret portant le code de la prévention, de l'Aide à la jeunesse et de la protection de la Jeunesse
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Livre préliminaire. - Les principes et droits fondamentaux et les définitions
+
+### Titre 1er. - Les principes et droits fondamentaux
+
+**Art. 1er**
+
+Les droits et les obligations suivants s'appliquent de manière générale :
+
+1° La politique de prévention est une priorité. L'accent est mis sur la prévention spécialisée, en concertation et complémentairement aux autres dispositifs de prévention mis en place au sein de la Communauté française ou dépendant d'autres autorités compétentes.
+
+2° L'aide et la protection spécialisée sont complémentaires et supplétives à l'aide sociale générale.
+
+3° Les enfants, les jeunes et leur famille ont droit à la prévention, à l'aide et à la protection spécialisées organisées dans le cadre du présent code. Elles tendent à permettre à l'enfant ou au jeune de se développer dans des conditions d'égalité des chances en vue de son accession à une vie conforme à la dignité humaine. [<sup>1</sup> L'aide et la protection doivent être adaptées à leurs besoins psycho-socio-éducatifs et à leur environnement social. Pour ce faire, une approche intersectorielle, transdisciplinaire et intégrée est recherchée entre les secteurs social, éducatif, de la santé, de la santé mentale, de la petite enfance, de l'aide sociale générale, du handicap de la jeunesse et de l'enseignement.]<sup>1</sup>
+
+4° Quiconque concourt à l'application du présent code est tenu de prendre en considération l'intérêt supérieur de l'enfant ou du jeune et de respecter les droits et libertés qui lui sont reconnus.
+
+Parmi ces droits et libertés, figurent ceux qui sont énoncés dans la Convention internationale relative aux droits de l'enfant et dans la Constitution.
+
+[<sup>2</sup> Les enfants et les jeunes doivent être traités dans le respect de sa personne et de son individualité et ne peuvent être soumis à aucune forme de violence physique ou psychique. ]<sup>2</sup>
+
+5° Tous les services, publics ou privés, agréés ou non, prévus par le présent code, en ce compris les autorités administratives sociales, ainsi que les personnes physiques et morales qui apportent leur concours à l'application du présent code sont tenus de respecter les droits de l'enfant ou du jeune, sans discrimination aucune, fondée notamment sur la nationalité, une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, l'âge, le sexe, l'orientation sexuelle, la conviction religieuse ou philosophique, la conviction politique, la conviction syndicale, l'état civil, la naissance, la fortune, l'origine sociale, la langue, l'état de santé actuel ou futur, un handicap, une caractéristique physique ou génétique de l'enfant ou de ses parents.
+
+Tous les services, publics ou privés, agréés ou non, prévus par le présent code, en ce compris les autorités administratives sociales et les membres du personnel des services agréés, sont en outre tenus de respecter le code de déontologie arrêté par le Gouvernement.
+
+6° La prévention, l'aide et la protection poursuivent des objectifs d'éducation, de responsabilisation, d'émancipation et d'insertion sociale.
+
+7° L'aide et la protection s'inscrivent dans une optique de déjudiciarisation et de subsidiarité de l'aide contrainte par rapport à l'aide volontaire.
+
+[<sup>1</sup> La déjudiciarisation vise à traiter prioritairement les situations des enfants et des jeunes et la prise en charge de leurs problèmes de nature sociale et éducative par des voies non judiciaires. ]<sup>1</sup>
+
+8° L'aide et la protection sont organisées pour apporter les réponses aux difficultés familiales de la manière la plus prompte et dès le plus jeune âge de l'enfant.
+
+9° Toute mesure de protection, à l'égard d'un enfant en danger ou d'un jeune ayant commis un fait qualifié infraction, est mise en oeuvre par la Communauté française dans le cadre d'une décision judiciaire.
+
+Les mineurs ayant commis un fait qualifié infraction ne peuvent en aucun cas être assimilés aux majeurs quant à leur degré de responsabilité et aux conséquences de leurs actes.
+
+10° L'aide et la protection se déroulent prioritairement dans le milieu de vie, l'éloignement de celui-ci étant l'exception.
+
+En cas d'éloignement, sauf si cela est contraire à l'intérêt de l'enfant ou du jeune, il est particulièrement veillé au respect de son droit d'entretenir des relations personnelles et des contacts directs avec ses parents et la possibilité d'un retour auprès de ses parents est évaluée régulièrement afin de réduire autant que possible la durée de l'éloignement.
+
+L'aide et la protection veillent à respecter et à favoriser l'exercice du droit et du devoir d'éducation des parents.
+
+11° Les prises en charge des services, agréés ou non, et des institutions publiques répondent aux besoins reconnus en matière de délinquance juvénile, visent à la réinsertion sociale du jeune et s'inscrivent dans une démarche éducative et restauratrice.
+
+12° Les services agréés et publics ainsi que l'administration compétente oeuvrent à l'amélioration constante de la qualité de la prévention, de l'aide et de la protection apportées aux enfants, aux jeunes et à leur famille, notamment par la participation des bénéficiaires, l'évaluation et l'innovation.
+
+13° La coordination et la concertation entre les différents secteurs et instances qui concourent à l'application du présent code sont recherchées.
+
+14° La Communauté française garantit l'information ainsi que la formation à l'entrée en fonction et la formation continuée du personnel des services agréés et des services publics qui concourent à l'application du présent code.
+
+15° L'administration compétente garantit l'information de l'ensemble des citoyens en matière de prévention, d'aide à la jeunesse et de protection de la jeunesse.
+
+16° Toutes les décisions prises à l'égard de l'enfant ou du jeune et toutes les informations qui lui sont fournies dans le cadre du présent code lui sont communiquées dans un langage accessible.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 1, 008; En vigueur : 19-01-2024&gt;
+
+(2)&lt;DCFR 2023-10-05/23, art. 21, 009; En vigueur : 02-02-2024&gt;
+
+### Titre 2. - Les définitions
+
+**Art. 2**
+
+Pour l'application du présent code, il faut entendre par :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° accueillant familial : la personne physique qui assume volontairement, dans le cadre d'une mesure d'aide ou de protection, l'accueil d'un enfant ou d'un jeune dont elle n'est ni la mère ni le père;
+
+3° administration compétente : l'administration de la Communauté française qui a la prévention, l'aide à la jeunesse et la protection de la jeunesse dans ses attributions;
+
+4° aide : l'aide spécialisée, organisée dans le cadre du Livre III;
+
+5° arrondissement : tout arrondissement judiciaire situé dans la région de langue française et l'arrondissement judiciaire de Bruxelles limité au territoire de la Région bilingue de Bruxelles-Capitale;
+
+6° commission de déontologie : la commission de déontologie de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse;
+
+7° conseil communautaire : le conseil communautaire de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse;
+
+8° conseiller : le conseiller de l'aide à la jeunesse;
+
+9° délégué général : le délégué général de la Communauté française aux droits de l'enfant;
+
+10° directeur : le directeur de la protection de la jeunesse;
+
+11° directeur de l'institution publique : la personne qui exerce la fonction de direction de l'institution publique ou la personne à qui elle délègue l'exercice de cette fonction;
+
+12° division : la division du tribunal de première instance telle que définie par les arrêtés royaux pris en exécution de l'article 186 du Code judiciaire;
+
+13° enfant :
+
+a) pour l'application du Livre III : la personne âgée de moins de dix-huit ans ou celle de moins de vingt ans pour laquelle une mesure d'accompagnement est sollicitée avant l'âge de dix-huit ans;
+
+b) pour l'application du Livre IV : la personne âgée de moins de dix-huit ans;
+
+[<sup>2</sup> 13/1° équipe mobile d'accompagnement : le service public chargé de la mission d'investigation et d'évaluation ainsi que des missions d'accompagnement des jeunes poursuivis du chef d'un fait qualifié infraction commis avant l'âge de dix-huit ans ; ]<sup>2</sup>
+
+14° équipe SOS Enfants : équipe SOS Enfants au sens du décret du 12 mai 2004 relatif à l'aide aux enfants victimes de maltraitance;
+
+15° familiers : les personnes avec lesquelles l'enfant ou le jeune a des liens affectifs ou sociaux, telles que déterminées par le conseiller, le directeur ou le tribunal de la jeunesse, en concertation avec l'enfant ou le jeune et sa famille; les accueillants familiaux sont sans exception des familiers;
+
+16° famille : les personnes avec qui l'enfant ou le jeune est dans un lien de filiation ainsi que le tuteur et le protuteur;
+
+17° fonctionnaire dirigeant : fonctionnaire dirigeant l'administration compétente;
+
+18° institution publique : l'institution publique de protection de la jeunesse de la Communauté française, chargée de l'accueil, en régime ouvert ou fermé, des jeunes poursuivis du chef d'un fait qualifié infraction qui font l'objet d'une mesure d'éloignement du milieu de vie;
+
+19° jeune :
+
+a) pour l'application du Livre Ier : la personne âgée de moins de dix-huit ans ou de moins de vingt-deux ans lorsqu'elle s'adresse à un service agréé en vertu de l'article 142;
+
+b) pour l'application du Livre V : la personne poursuivie du chef d'un fait qualifié infraction commis avant l'âge de dix-huit ans;
+
+20° jour ouvrable : jour qui n'est ni un samedi, ni un dimanche, ni un jour férié;
+
+21° loi du 8 avril 1965 : la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait;
+
+22° mandat : la décision par laquelle le conseiller de l'aide à la jeunesse, le directeur de la protection de la jeunesse ou le tribunal de la jeunesse confie une mission d'aide ou de protection d'un enfant ou d'un jeune à une personne ou un service dans le cadre de son agrément;
+
+23° ministre : le Ministre qui a la prévention, l'aide à la jeunesse et la protection de la jeunesse dans ses attributions;
+
+24° ordonnance du 29 avril 2004 : l'ordonnance de la Commission communautaire commune du 29 avril 2004 relative à l'aide à la jeunesse en Région de Bruxelles-Capitale;
+
+[<sup>1</sup> 24° /1 ordre: l'état de respect des règles de conduite nécessaires à l'instauration ou au maintien de la vie en communauté au sein de l'institution publique;]<sup>1</sup>
+
+25° personnes qui exercent l'autorité parentale : les père et mère, le tuteur ou le protuteur;
+
+26° prévention : la prévention spécialisée, organisée dans le cadre du Livre Ier;
+
+27° protection : la protection spécialisée, organisée dans le cadre des Livres IV et V;
+
+28° protuteur : la personne désignée par l'autorité compétente, conformément à la loi du 8 avril 1965, pour exercer certains droits dont les parents ou l'un d'entre eux sont déchus et remplir les obligations qui y sont corrélatives;
+
+[<sup>1</sup> 28° /1 sécurité: la sécurité intérieure, comprise comme l'état de préservation de l'intégrité physique des personnes à l'intérieur de l'institution publique et d'absence de risque de dégradation, de destruction ou de soustraction illicites de biens meubles ou immeubles et la sécurité extérieure comprise comme l'état de protection de la société grâce au maintien du jeune dans l'institution publique et à la prévention des infractions qui pourraient être commises à partir de l'institution publique.]<sup>1</sup>
+
+29° service agréé : le service agréé par le Gouvernement en vertu du présent code;
+
+30° service d'actions en milieu ouvert : service dont la mission principale est de réaliser des actions de prévention sociale et éducative, au bénéfice des jeunes d'une zone d'action déterminée, dans leur milieu de vie et dans leurs rapports avec leur environnement social, en l'absence de mandat administratif ou judiciaire;
+
+31° service mandaté : service à qui le conseiller de l'aide à la jeunesse, le directeur de la protection de la jeunesse ou le tribunal de la jeunesse confie une mission d'aide ou de protection d'un enfant ou d'un jeune, dans le cadre de son agrément;
+
+32° service résidentiel : le service mandaté qui héberge l'enfant ou le jeune bénéficiaire d'une mesure d'aide ou de protection;
+
+33° tuteur : tuteur du mineur au sens du Code civil ou tuteur du mineur étranger non accompagné au sens de la loi-programme du 24 décembre 2002.
+
+[<sup>3</sup> 34° donnée personnelle : donnée à caractère personnel au sens de l'article 4.1) du RGPD ; ]<sup>3</sup>
+
+[<sup>3</sup> 35° ETNIC : Entreprise publique des Technologies Numériques de l'Information et de la Communication, organisée par le décret du 25 octobre 2018 relatif à l'Entreprise publique des Technologies Numériques de l'Information et de la Communication de la Communauté française (ETNIC) ; ]<sup>3</sup>
+
+[<sup>3</sup> 36° RGPD : le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;]<sup>3</sup>
+
+[<sup>3</sup> 37° traitement : les opérations et ensembles d'opérations visées à l'article 4.2) du RGPD ;]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2021-10-14/22, art. 1, 005; En vigueur : 05-12-2021&gt;
+
+(2)&lt;DCFR 2023-07-20/46, art. 2, 008; En vigueur : 19-01-2024&gt;
+
+(3)&lt;DCFR 2024-04-04/38, art. 1, 011; En vigueur : 09-06-2024&gt;
+
+## Livre Ier. - La prévention
+
+### Titre 1er. - L'objet et les principes
+
+**Art. 3**
+
+La prévention est un ensemble d'actions, de type individuel et de type collectif, au bénéfice des jeunes vulnérables, de leur famille et de leurs familiers, qui favorise l'émancipation, l'autonomisation, la socialisation, la reconnaissance, la valorisation, la responsabilisation, la participation et l'acquisition ou la reprise de confiance en soi des jeunes, de leur famille et de leurs familiers en vue de réduire les risques de difficultés et les violences, visibles ou non, exercées à l'égard du jeune ou par le jeune.
+
+Les actions de prévention s'inscrivent dans un territoire où elles sont articulées aux autres actions sociales existantes et résultent principalement du plan d'action triennal, élaboré sur la base d'un diagnostic social de la zone déterminée.
+
+La prévention se compose d'une prévention éducative et d'une prévention sociale.
+
+**Art. 4**
+
+La prévention éducative peut prendre différentes formes, notamment :
+
+1° l'accompagnement éducatif du jeune, de sa famille et de ses familiers;
+
+2° l'accompagnement éducatif d'un groupe de jeunes;
+
+3° le soutien de projets menés par, avec et pour des jeunes;
+
+4° la réalisation d'actions collectives ciblées sur des problématiques spécifiques aux jeunes.
+
+La prévention sociale prend essentiellement la forme d'actions collectives, notamment :
+
+1° des actions sur les institutions et sur l'environnement du jeune;
+
+2° l'interpellation, entre autres, des autorités politiques et administratives.
+
+**Art. 5**
+
+Les actions de prévention s'inscrivent dans le respect des principes suivants :
+
+1° l'absence de mandat administratif ou judiciaire;
+
+2° la libre adhésion du public concerné;
+
+3° la garantie de l'anonymat des jeunes et de leur famille.
+
+### Titre 2. - Le conseil de prévention
+
+**Art. 6**
+
+Il est institué un conseil de prévention dans chaque division ou dans chaque arrondissement qui n'est pas composé de divisions.
+
+Dans les arrondissements qui ne sont pas composés de divisions, le Gouvernement peut instituer plusieurs conseils de prévention si la densité de la population ou la configuration géographique le requiert.
+
+**Art. 7**
+
+Le conseil de prévention stimule et coordonne la prévention sur le territoire de la division ou de l'arrondissement ou sur le territoire déterminé en vertu de l'article 6, alinéa 2.
+
+Le conseil de prévention a pour missions, à l'échelle de son territoire :
+
+1° d'établir un diagnostic social [<sup>1</sup> du conseil de prévention ]<sup>1</sup>, sur la base du projet du chargé de prévention;
+
+2° d'élaborer, sur la base du diagnostic social [<sup>1</sup> du conseil de prévention ]<sup>1</sup>, une proposition de plan d'actions triennal et d'affectation du budget disponible;
+
+3° de favoriser la concertation et la collaboration de l'ensemble des acteurs en matière de prévention;
+
+4° d'informer et, le cas échéant, d'interpeller les autorités publiques de tous les niveaux de pouvoir au sujet de toute condition défavorable au développement personnel des jeunes et à leur insertion sociale;
+
+5° de dresser tous les trois ans un bilan des actions menées et de procéder à une évaluation de la prévention;
+
+6° de communiquer le diagnostic social [<sup>1</sup> du conseil de prévention ]<sup>1</sup> et l'évaluation triennale [<sup>2</sup> à l'administration compétente]<sup>2</sup>, au collège de prévention, aux conseils provinciaux, aux conseils communaux et aux conseils de l'action sociale.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 3, 008; En vigueur : 19-01-2024&gt;
+
+(2)&lt;DCFR 2023-07-20/46, art. 4, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 8**
+
+Le conseil de prévention se compose :
+
+1° du chargé de prévention de l'arrondissement [<sup>1</sup> ou son représentant]<sup>1</sup>;
+
+2° d'un représentant de chaque service d'actions en milieu ouvert dont la zone d'action agréée est située sur son territoire;
+
+3° d'un représentant de chaque service agréé non mandaté autre qu'un service d'actions en milieu ouvert dont la zone d'action agréée est située sur son territoire;
+
+4° d'un représentant des services résidentiels agréés et mandatés dont la zone d'action agréée est située sur son territoire;
+
+5° d'un représentant des services non résidentiels agréés et mandatés dont la zone d'action agréée est située sur son territoire;
+
+6° du conseiller ou de son représentant;
+
+7° du directeur ou de son représentant;
+
+8° d'un facilitateur au sens du décret du 21 novembre 2013 organisant des politiques conjointes de l'enseignement obligatoire et de l'aide à la jeunesse en faveur du bien-être des jeunes à l'école, de l'accrochage scolaire, de la prévention de la violence et de l'accompagnement des démarches d'orientation;
+
+9° d'un représentant des maisons de jeunes, centres de rencontres et d'hébergement et centres d'information des jeunes au sens du décret du 20 juillet 2000 déterminant les conditions d'agrément et de subventionnement des maisons de jeunes, centres de rencontres et d'hébergement et centres d'information des jeunes et de leurs fédérations [<sup>1</sup> ou des organisations de jeunesse agréées conformément au décret du 26 mars 2009 fixant les conditions d'agrément et d'octroi de subventions aux organisations de jeunesse]<sup>1</sup>;
+
+10° d'un coordinateur subrégional de l'Office de la naissance et de l'enfance ou de son représentant;
+
+11° d'un représentant des centres publics d'action sociale;
+
+12° d'un représentant des dispositifs communaux de cohésion sociale visés par le décret de la Région wallonne du 6 novembre 2008 relatif au plan de cohésion sociale dans les villes et communes de Wallonie, pour ce qui concerne les matières dont l'exercice a été transféré de la Communauté française ou par le décret de la Commission communautaire française du 13 mai 2004 relatif à la cohésion sociale;
+
+13° [<sup>1</sup> d'un représentant du secteur de la santé mentale dont la zone d'action est située sur son territoire ]<sup>1</sup>;
+
+14° de deux magistrats de la jeunesse, l'un du siège, désigné par le président du tribunal de première instance de la division ou de l'arrondissement, et l'autre du ministère public, désigné par le procureur du Roi auprès du tribunal de première instance de la division ou de l'arrondissement [<sup>1</sup> l'arrondissement ]<sup>1</sup>;
+
+15° d'un avocat spécialisé dans le domaine de l'aide à la jeunesse et de la protection de la jeunesse, désigné par le bâtonnier de l'Ordre des avocats de la division ou de l'arrondissement.
+
+[<sup>1</sup> 16° d'un représentant du secteur du sport, provenant de l'administration compétente en matière de sport ou de cercles affiliés à une association ou fédération sportive reconnue telle que définie par le décret du 3 mai 2019 portant sur le mouvement sportif dont la zone d'action est située sur son territoire ; ]<sup>1</sup>
+
+[<sup>1</sup> 17° d'un représentant du secteur du handicap dont la zone d'action est située sur son territoire ; ]<sup>1</sup>
+
+[<sup>1</sup> 18° d'un représentant du secteur de l'enseignement obligatoire dont la zone d'action est située sur son territoire ; ]<sup>1</sup>
+
+[<sup>1</sup> 19° du coordinateur de zone dont la zone de garde est située sur son territoire ou son représentant ; ]<sup>1</sup>
+
+[<sup>1</sup> 20° d'un représentant des services d'accrochage scolaire dont la zone d'action est située sur son territoire ;]<sup>1</sup>
+
+[<sup>1</sup> 21° d'un représentant de l'administration compétente en matière de culture ou d'un opérateur culturel tel que visé à l'article 1er, 10° du décret du 28 mars 2019 sur la nouvelle gouvernance culturelle. ]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le délégué général ou son représentant est invité à titre permanent aux réunions du conseil de prévention.
+
+Les membres du conseil de prévention sont nommés par le Gouvernement pour une durée de six ans.
+
+Le Gouvernement nomme un membre suppléant pour chaque membre effectif du conseil de prévention, selon la même procédure.
+
+Le conseil de prévention est présidé conjointement par le chargé de prévention [<sup>1</sup> ou son représentant]<sup>1</sup> et par un représentant de ses membres, élu par le conseil.
+
+Le secrétariat du conseil de prévention est assuré par la section administrative du service de prévention.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 5, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 9**
+
+Le Gouvernement détermine :
+
+1° les règles de fonctionnement du conseil de prévention et la procédure de nomination de ses membres;
+
+2° les modalités d'élaboration des diagnostics sociaux [<sup>1</sup> des conseils de prévention ]<sup>1</sup> et plans d'actions triennaux;
+
+3° les critères de répartition du budget de la prévention entre les divisions, arrondissements et territoires déterminés en vertu de l'article 6, alinéa 2;
+
+4° les modalités selon lesquelles le conseil de prévention propose l'affectation du budget disponible sur son territoire.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 3, 008; En vigueur : 19-01-2024&gt;
+
+### Titre 3. - Le chargé de prévention
+
+**Art. 10**
+
+Un chargé de prévention est désigné dans chaque arrondissement.
+
+Il est placé sous l'autorité hiérarchique du fonctionnaire dirigeant.
+
+Il dirige le service de prévention qui est mis à sa disposition pour l'assister dans l'exercice de ses compétences.
+
+Le service de prévention mis à la disposition du chargé de prévention comporte :
+
+1° une section de prévention;
+
+2° une section administrative.
+
+**Art. 11**
+
+Le chargé de prévention a pour missions :
+
+1° de communiquer, tous les trois ans, aux conseils de prévention un projet de diagnostic social [<sup>1</sup> du conseil de prévention ]<sup>1</sup> du conseil de prévention du conseil de prévention de leur territoire, qu'il établit sur la base des diagnostics sociaux des services d'actions en milieu ouvert et des constats relayés par les autres membres du conseil de prévention;
+
+2° d'assurer une analyse permanente des faits sociaux relatifs à la jeunesse se déroulant sur le territoire de l'arrondissement et de la communiquer aux conseils de prévention en vue d'éventuelles mises à jour de leurs diagnostics sociaux [<sup>1</sup> des conseils de prévention ]<sup>1</sup> et plans d'actions;
+
+3° de proposer, tous les trois ans, aux conseils de prévention un bilan des actions menées afin qu'ils procèdent à une évaluation de la prévention;
+
+4° d'attirer l'attention des conseils de prévention sur toute situation défavorable au développement personnel des jeunes et à leur insertion sociale;
+
+5° de veiller à la mise en oeuvre des décisions du conseil de prévention, en particulier en accompagnant la réalisation du plan d'actions triennal;
+
+6° d'apporter son appui aux services d'actions en milieu ouvert dans la réalisation de leur diagnostic social;
+
+7° d'organiser la médiation, en cas de nécessité, entre les services d'actions en milieu ouvert et les autorités locales.
+
+[<sup>2</sup> 8° de mener, le cas échéant, des actions mettant en oeuvre la prévention telle que définie à l'article 3.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 3, 008; En vigueur : 19-01-2024&gt;
+
+(2)&lt;DCFR 2023-07-20/46, art. 6, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 12**
+
+Le Gouvernement détermine les modalités d'élaboration des projets de diagnostics sociaux [<sup>1</sup> des conseils de prévention ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 3, 008; En vigueur : 19-01-2024&gt;
+
+### Titre 4. - Le collège de prévention
+
+**Art. 13**
+
+Il est institué un collège de prévention qui a pour missions :
+
+1° de coordonner les diagnostics sociaux [<sup>1</sup> des conseils de prévention ]<sup>1</sup> des conseils de prévention des divisions, arrondissements et territoires déterminés en vertu de l'article 6, alinéa 2, et de transmettre le résultat de ses travaux au Gouvernement et au conseil communautaire;
+
+2° de susciter l'échange et l'harmonisation des bonnes pratiques au sein des divisions et arrondissements en respectant les spécificités de chacun de ceux-ci, notamment par l'élaboration d'outils de prévention communs;
+
+3° d'établir, tous les trois ans, un rapport sur la prévention et des recommandations à l'attention du Gouvernement et du conseil communautaire.
+
+Le Gouvernement transmet au Parlement le rapport visé à l'alinéa 1er, 3°.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 3, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 14**
+
+Le collège de prévention est composé :
+
+1° du fonctionnaire dirigeant ou de son délégué;
+
+2° des chargés de prévention;
+
+3° du coordonnateur de l'équipe des facilitateurs au sens du décret du 21 novembre 2013 organisant des politiques conjointes de l'enseignement obligatoire et de l'aide à la jeunesse en faveur du bien-être des jeunes à l'école, de l'accrochage scolaire, de la prévention de la violence et de l'accompagnement des démarches d'orientation ou de son représentant;
+
+4° d'un représentant de l'administration compétente en matière de jeunesse;
+
+5° d'un représentant de l'administration compétente en matière de sport;
+
+6° d'un représentant de l'Office de la naissance et de l'enfance;
+
+7° d'un représentant de chaque administration régionale compétente en matière de cohésion sociale;
+
+8° d'un représentant de chaque administration régionale compétente en matière d'emploi et de formation;
+
+9° d'un représentant de chaque administration régionale compétente en matière de santé;
+
+10° d'un représentant des administrations provinciales;
+
+11° d'un représentant de la fédération de centres publics d'action sociale de chaque région;
+
+12° d'un représentant de chaque fédération représentative des services d'actions en milieu ouvert;
+
+13° du délégué général ou de son représentant.
+
+[<sup>1</sup> 14° d'un représentant de l'administration compétente en matière d'enseignement obligatoire ; ]<sup>1</sup>
+
+[<sup>1</sup> 15° d'un représentant de chaque administration régionale compétente en matière de handicap ; ]<sup>1</sup>
+
+[<sup>1</sup> 16° d'un représentant de l'administration compétente en matière de culture. ]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le collège de prévention est présidé par le fonctionnaire dirigeant ou son délégué.
+
+Le secrétariat du collège de prévention est assuré par l'administration compétente.
+
+Le Gouvernement détermine les critères permettant d'établir qu'une fédération est représentative des services d'actions en milieu ouvert.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 7, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 15**
+
+Le Gouvernement détermine les règles de fonctionnement du collège de prévention et la procédure de nomination de ses membres.
+
+### Titre 5. [<sup>1</sup> Les missions spécifiques en matière de prévention ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 8, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 15./1**
+
+[<sup>1</sup> . Dans le cadre la mise en oeuvre du Livre II, le Gouvernement, en collaboration avec l'administration compétente, est chargé :
+
+1° d'établir un rapport triennal, comportant un bilan de l'exécution de la prévention et les recommandations qui en découlent;
+
+2° d'apporter une expertise au sujet des actions en matière de prévention;
+
+3° de centraliser les diagnostics sociaux des conseils de prévention et les évaluations triennales visés à l'article 7, 6°, et de les communiquer, avec avis de l'administration compétente au collège de prévention ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 9, 008; En vigueur : 19-01-2024&gt;
+
+## Livre II. - Les autorités administratives sociales
+
+### Titre 1er. - Le conseiller de l'aide à la jeunesse
+
+**Art. 16**
+
+Un conseiller de l'aide à la jeunesse est désigné dans chaque division ou dans chaque arrondissement qui n'est pas composé de divisions.
+
+Un ou plusieurs conseillers adjoints de l'aide à la jeunesse peuvent être désignés pour assister le conseiller.
+
+Sauf disposition contraire, le conseiller adjoint de l'aide à la jeunesse a les mêmes compétences et obligations que le conseiller, à l'exception de la direction du service de l'aide à la jeunesse.
+
+**Art. 17**
+
+Le conseiller est placé sous l'autorité hiérarchique du fonctionnaire dirigeant.
+
+Le conseiller et ses adjoints exercent leurs compétences en matière d'aide individuelle en toute indépendance.
+
+Le conseiller dirige le service de l'aide à la jeunesse qui est mis à sa disposition pour l'assister dans l'exercice de ses compétences.
+
+Le service de l'aide à la jeunesse mis à la disposition du conseiller comporte :
+
+1° une section sociale [<sup>1</sup> qui organise une permanence spécialisée]<sup>1</sup>;
+
+2° une section administrative.
+
+La section sociale du service de l'aide la jeunesse comprend au moins un agent chargé des missions transversales et intersectorielles.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 10, 008; En vigueur : 19-01-2024&gt;
+
+### Titre 2. - Le directeur de la protection de la jeunesse
+
+**Art. 18**
+
+Un directeur de la protection de la jeunesse est désigné dans chaque division ou dans chaque arrondissement qui n'est pas composé de divisions.
+
+Un ou plusieurs directeurs adjoints de la protection de la jeunesse peuvent être désignés pour assister le directeur.
+
+Sauf disposition contraire, le directeur adjoint de la protection de la jeunesse a les mêmes compétences et obligations que le directeur, à l'exception de la direction du service de la protection de la jeunesse.
+
+**Art. 19**
+
+Le directeur est placé sous l'autorité hiérarchique du fonctionnaire dirigeant.
+
+Le directeur et ses adjoints exercent leurs compétences en matière de protection individuelle en toute indépendance.
+
+Le directeur dirige le service de la protection de la jeunesse qui est mis à sa disposition pour l'assister dans l'exercice de ses compétences.
+
+Le service de la protection de la jeunesse mis à la disposition du directeur comporte :
+
+1° une section sociale;
+
+2° une section administrative.
+
+### Titre 3. [<sup>1</sup> - Le coordinateur de zone]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-12-14/15, art. 65, 007; En vigueur : 01-02-2023&gt;
+
+**Art. 19/1**
+
+[<sup>1</sup> Un coordinateur de zone, placé sous l'autorité hiérarchique du fonctionnaire dirigeant, est désigné dans chaque zone de garde telle que définie par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-12-14/15, art. 66, 007; En vigueur : 01-02-2023&gt;
+
+**Art. 19/2**
+
+[<sup>1</sup> Le coordinateur de zone assure les missions suivantes en concertation avec les conseillers de l'aide à la jeunesse et les directeurs de la protection de la jeunesse:
+
+1\. organiser des services de garde de sa zone tels que visés à l'article 35, § 5, et à l'article 53, § 6. Pour ce faire, il établit le rôle hebdomadaire de la garde et le communique au ministère public et veille à uniformiser les pratiques de garde de sa zone;
+
+2\. accompagner la mise en oeuvre des principes et des règlementations en matière d'aide à la jeunesse et de la protection de la jeunesse, ainsi que des pratiques harmonisées au sein des SAJ et des SPJ de sa zone;
+
+3\. soutenir les SAJ et les SPJ de sa zone dans la résolution des difficultés logistiques, administratives et en matière de ressources humaines;
+
+4\. assurer le relais auprès de l'administration compétente des besoins nécessaires au bon fonctionnement des SAJ et des SPJ de sa zone;
+
+5\. assurer une fonction de représentation, aux côtés des autorités mandantes de sa zone, auprès des partenaires locaux et en ce compris auprès des autorités judiciaires;
+
+6\. établir chaque année à l'attention du fonctionnaire dirigeant un rapport sur les besoins des SAJ et des SPJ de sa zone, nécessaire au bon accomplissement de leur mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-12-14/15, art. 67, 007; En vigueur : 01-02-2023&gt;
+
+## Livre III. - Les mesures d'aide aux enfants et à leur famille
+
+### Titre 1er. - Le champ d'application
+
+**Art. 20**
+
+Les dispositions du Livre III s'appliquent :
+
+1° aux enfants en difficulté ainsi qu'aux personnes qui éprouvent des difficultés dans l'exécution de leurs obligations parentales;
+
+2° à tout enfant dont la santé ou la sécurité est en danger ou dont les conditions d'éducation sont compromises par son comportement, celui de sa famille ou de ses familiers.
+
+Elles s'appliquent également aux personnes physiques et morales qui apportent leur concours à l'exécution de décisions individuelles émanant des autorités communautaires ou judiciaires en matière d'aide et de protection des enfants visés à l'alinéa 1er.
+
+### Titre 2. - Les droits des enfants, de leur famille et de leurs familiers
+
+#### Chapitre 1er. - Les principes généraux
+
+**Art. 21**
+
+Le conseiller informe l'enfant, sa famille et ses familiers de leurs droits et obligations, notamment des droits visés aux articles 27, 29 et 36.
+
+Toute proposition du conseiller est motivée.
+
+En aucun cas, le conseiller ne peut baser la mesure d'aide sur un élément ou une information qui n'a pas été porté à la connaissance de l'enfant, de sa famille et de ceux de ses familiers qui sont concernés par la mesure.
+
+Pour fonder et motiver ses propositions et décisions, le conseiller prend en considération la personnalité de l'enfant, son degré de maturité et son milieu de vie ainsi que la disponibilité des moyens en matière d'éducation et de traitement et de toutes autres ressources envisagées.
+
+L'accord ou la décision prise par le conseiller donne lieu à l'établissement d'un acte écrit contenant l'indication de l'objet et des motifs de l'accord ou de la décision et reproduisant le texte des articles 27 et 36 et les modalités d'introduction de la contestation.
+
+Cet acte est transmis à l'enfant, aux personnes qui exercent l'autorité parentale à son égard et aux personnes qui hébergent l'enfant en droit ou en fait, dans les dix jours ouvrables à compter du jour de l'entretien lors duquel l'accord est conclu ou lors duquel la décision est communiquée.
+
+Si l'enfant est assisté par un avocat, une copie de l'acte est transmise à ce dernier.
+
+**Art. 22**
+
+Le conseiller ne prend aucune mesure ou décision d'aide individuelle sans avoir préalablement convoqué et entendu les personnes intéressées à l'aide, sauf en cas d'impossibilité dûment établie.
+
+Les personnes intéressées ont la possibilité de mandater une personne majeure de leur choix si leur état de santé ne leur permet pas d'être entendues.
+
+Les personnes entendues par le conseiller ont le droit de se faire accompagner de la personne majeure de leur choix et d'un avocat.
+
+Le conseiller convoque l'avocat de l'enfant en vue de tout entretien avec celui-ci.
+
+Dans l'intérêt de l'enfant, un entretien séparé peut avoir lieu avec l'enfant ou les personnes qui l'accompagnent.
+
+L'acte écrit mentionne et synthétise l'audition des personnes visées à l'alinéa 1er ou mentionne les motifs pour lesquels il est impossible de les entendre.
+
+L'enfant, sa famille et ses familiers sont associés aux décisions qui concernent l'enfant et à l'exécution de celles-ci, sauf en cas d'impossibilité dûment établie.
+
+**Art. 23**
+
+Aucune mesure d'aide individuelle ne peut être prise par le conseiller sans l'accord écrit :
+
+1° de l'enfant âgé d'au moins quatorze ans;
+
+2° de l'enfant âgé d'au moins douze ans, assisté par un avocat, désigné d'office, le cas échéant, à la demande du conseiller;
+
+3° des personnes qui exercent l'autorité parentale à l'égard de l'enfant.
+
+L'accord des personnes qui exercent l'autorité parentale à l'égard de l'enfant n'est pas requis si l'impossibilité de les entendre est établie.
+
+**Art. 24**
+
+Le conseiller établit pour chaque enfant bénéficiant d'une mesure d'aide individuelle un projet pour l'enfant qui vise à garantir son développement physique, psychique, affectif, intellectuel et social et qui l'accompagne tout au long de son parcours dans le cadre de l'aide à la jeunesse ou de la protection de la jeunesse.
+
+Le projet pour l'enfant et ses modifications éventuelles sont approuvés par écrit par les personnes visées à l'article 23, sans préjudice de l'exception prévue à cet article.
+
+Le projet pour l'enfant est transmis au tribunal de la jeunesse lorsque celui-ci est saisi sur la base de l'article 37, de l'article 51 ou de l'article 56, alinéa 1er, et, le cas échéant, au directeur.
+
+Lorsque le conseiller exécute une mesure provisoire conformément à l'article 37, § 2, alinéa 2, il n'établit le projet pour l'enfant que s'il obtient un accord.
+
+Le Gouvernement détermine les rubriques que comprend le projet pour l'enfant.
+
+**Art. 25**
+
+Les mesures prises par le conseiller tendent par priorité à favoriser l'épanouissement de l'enfant dans son milieu de vie.
+
+Toutefois, si l'intérêt de l'enfant exige qu'il faille l'en éloigner, l'aide apportée à l'enfant lui assure en tout cas les conditions de vie et de développement appropriées à ses besoins et à son âge.
+
+Lorsque le conseiller propose d'héberger l'enfant hors de son milieu de vie, il envisage de le confier dans l'ordre de priorité suivant :
+
+1° à un membre de sa famille ou à un de ses familiers;
+
+2° à un accueillant familial qui n'est ni un membre de sa famille ni un de ses familiers;
+
+3° à un établissement approprié en vue de son éducation ou de son traitement.
+
+Le conseiller veille également, sauf si cela n'est pas possible ou si l'intérêt de l'enfant s'y oppose, à ce que l'enfant ne soit pas séparé de ses frères et soeurs.
+
+**Art. 26**
+
+La durée de toute mesure d'aide individuelle prise en exécution de l'article 35 est limitée à un an maximum à compter du jour de la signature par les personnes visées à l'article 23 de l'acte écrit visé à l'article 21, alinéa 5, ou du jour de la transmission de celui-ci.
+
+La mesure peut être renouvelée plusieurs fois, pour une durée maximale d'un an, et en tout temps rapportée ou modifiée, par le conseiller, dans l'intérêt de l'enfant :
+
+1° soit à la demande d'un membre de la famille ou d'un de ses familiers;
+
+2° soit à la demande de l'enfant âgé d'au moins quatorze ans;
+
+3° soit à la demande de l'enfant âgé d'au moins douze ans assisté par un avocat, désigné d'office, le cas échéant, à la demande du conseiller;
+
+4° soit à la demande du service désigné pour prendre en charge l'enfant;
+
+5° soit à l'initiative du conseiller.
+
+**Art. 27**
+
+A tout moment, l'enfant, sa famille et ceux de ses familiers qui sont concernés par la mesure ainsi que leur avocat peuvent prendre connaissance de toutes les pièces du dossier du conseiller, selon les modalités prévues par le Gouvernement, à l'exception des pièces portant la mention " confidentiel " communiquées au conseiller par les autorités judiciaires. [<sup>1</sup> Les services mandatés au sens de l'article 2, 31°, et les équipes SOS Enfants visées à l'article 2, 14°, peuvent, respectivement dans le cadre de leur mandat ou de leur intervention demandée par le conseiller sur la base des articles 35, § 3, et 37, prendre connaissance de toutes les pièces du dossier du conseiller, selon les mêmes modalités et exception.]<sup>1</sup>
+
+[<sup>1</sup> Toutefois, le conseiller peut refuser la consultation ou la communication d'une ou plusieurs pièces du dossier si l'intérêt de l'enfant l'exige. Dans ce cas, la décision mentionne la possibilité d'introduire un recours devant la Commission d'accès aux documents administratifs conformément au décret du 22 décembre 1994 relatif à la publicité de l'administration ]<sup>1</sup>.
+
+Lors de la communication des pièces, le conseiller ou l'agent de son service délégué à cet effet fournit au demandeur les explications et les commentaires nécessaires et veille particulièrement à offrir à l'enfant qui consulte les pièces de son dossier un accompagnement approprié, tenant compte de son degré de maturité et des informations contenues dans son dossier.
+
+[<sup>1</sup> Les personnes et les services visés à l'alinéa 1er peuvent obtenir gratuitement une copie des pièces qu'ils consultent, selon les modalités prévues par le Gouvernement ]<sup>1</sup>.
+
+[<sup>2</sup> Toute pièce du dossier, en ce compris l'accord ou la décision d'aide individuelle prise par le conseiller, et copie de celle-ci, mentionnent qu'elles ne peuvent être communiquées que dans le respect des alinéas 1er et 2 et qu'elles ne peuvent être utilisées dans aucune autre procédure que celle relative à la mesure d'aide qui fait l'objet du dossier dont elles sont extraites]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 11, 008; En vigueur : 19-01-2024&gt;
+
+(2)&lt;DCFR 2024-04-04/38, art. 2, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 27/1**
+
+[<sup>1</sup> Aucune pièce du dossier, en ce compris l'accord ou la décision d'aide individuelle prise par le conseiller, sous quelque forme que ce soit, ne peut être utilisée dans une autre procédure que celle relative à la mesure d'aide qui fait l'objet du dossier dont elle est extraite, sous réserve de l'exception contenue aux alinéas 2 et 3.
+
+De sa propre initiative ou à la requête du ministère public, dans l'intérêt de l'enfant, le conseiller peut transmettre par écrit les informations qu'il estime devoir porter à la connaissance du ministère public dans le cadre d'une procédure civile. Le conseiller en informe l'enfant, sa famille et ceux de ses familiers qui sont concernés par la mesure, ainsi que leur avocat, au plus tard au moment de la transmission au ministère public.
+
+L'enfant, sa famille et ses familiers ainsi que leurs avocats peuvent, dans l'intérêt de l'enfant, solliciter par écrit auprès du conseiller que soit transmise la décision de mesure d'aide individuelle au ministère public dans le cadre d'une procédure civile. Le conseiller statue sur cette demande endéans les 15 jours. En cas de refus, le conseiller motive sa décision et la transmets pour information au ministère public dans le cadre d'une procédure civile. Dans tous les cas, le conseiller informe de sa décision l'enfant, sa famille et ceux de ses familiers qui sont concernés par la mesure, ainsi que leur avocat, au plus tard au moment de la transmission au ministère public. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 3, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 28**
+
+L'enfant, sa famille et ses familiers ont le droit de se faire accompagner de la personne majeure de leur choix et d'un avocat lorsqu'ils s'adressent à l'administration compétente, à un service agréé ou au délégué général.
+
+Dans l'intérêt de l'enfant, un entretien séparé peut avoir lieu avec l'enfant ou les personnes qui l'accompagnent.
+
+**Art. 29**
+
+L'enfant, sa famille et ses familiers ont le droit de saisir l'administration compétente en cas de non-respect de leurs droits, par courrier adressé au fonctionnaire dirigeant. Ce courrier peut être électronique.
+
+#### Chapitre 2. - Les droits des enfants faisant l'objet d'une mesure d'hébergement hors de leur milieu de vie
+
+**Art. 30**
+
+§ 1er. Tout enfant hébergé hors de son milieu de vie en vertu d'une mesure d'aide a le droit de communiquer avec toute personne de son choix.
+
+§ 2. Tout enfant confié à un service agréé résidentiel en vertu d'une mesure d'aide est informé dès sa prise en charge de son droit de communiquer avec un avocat et avec le délégué général.
+
+A cet effet, le responsable du service agréé résidentiel invite l'enfant âgé d'au moins douze ans à signer, dès son entrée, un document par lequel il déclare avoir été informé de ce droit et lui en délivre copie. Il favorise l'exercice effectif de ce droit.
+
+§ 3. Tout enfant confié à un service agréé résidentiel en vertu d'une mesure d'aide ainsi que les personnes qui exercent l'autorité parentale à son égard reçoivent copie du règlement d'ordre intérieur du service, dès l'arrivée de l'enfant.
+
+**Art. 31**
+
+Le conseiller rend visite au moins une fois par semestre à tout enfant hébergé hors de son milieu de vie en vertu d'une mesure d'aide et au moins une fois par trimestre lorsqu'il est âgé de moins de trois ans.
+
+Il peut déléguer une personne à cet effet qui lui fait rapport.
+
+**Art. 32**
+
+L'enfant hébergé hors de son milieu de vie en vertu d'une mesure d'aide reçoit de l'argent de poche aux conditions et selon les modalités fixées par le Gouvernement.
+
+**Art. 33**
+
+Toute décision de transfert d'un enfant d'un service agréé résidentiel à un autre est prise par le conseiller, sur la base d'un rapport circonstancié du service.
+
+Une copie du rapport du service est transmise à l'administration compétente.
+
+Le transfert de l'enfant ne peut, sauf pour des raisons médicales ou de sécurité, être effectué qu'après accord des personnes visées à l'article 23, sans préjudice de l'exception prévue à cet article.
+
+L'enfant est informé des motifs du transfert et des caractéristiques de son nouveau milieu d'accueil.
+
+### Titre 3. - Les mesures d'aide
+
+#### Chapitre 1er. - Les mesures d'aide relevant de la compétence du conseiller
+
+**Art. 34**
+
+La compétence territoriale du conseiller est déterminée par la résidence des personnes qui exercent l'autorité parentale à l'égard de l'enfant ou, en cas d'exercice conjoint par des personnes séparées, par la résidence de celle chez qui l'enfant réside habituellement.
+
+En cas d'hébergement égalitaire des parents, le conseiller compétent est celui du lieu où l'enfant est inscrit à titre principal au registre de la population.
+
+Lorsque les personnes qui exercent l'autorité parentale à l'égard de l'enfant n'ont pas de résidence en Belgique ou lorsque leur résidence est inconnue ou incertaine, le conseiller compétent est celui du lieu où l'enfant se trouve.
+
+En cas de changement de résidence, le conseiller transmet son dossier au conseiller de la division ou de l'arrondissement de la nouvelle résidence et reste compétent jusqu'à l'accusé de réception du dossier par le nouveau conseiller compétent.
+
+**Art. 35**
+
+§ 1er. Le conseiller examine les demandes d'aide relatives à l'enfant et aux personnes visés à l'article 20, alinéa 1er.
+
+§ 2. Dans le respect de sa compétence d'aide complémentaire et supplétive, le conseiller :
+
+1° oriente les intéressés vers tout particulier ou service approprié dont notamment le centre public d'action sociale compétent, un service de santé mentale, un service d'aide aux personnes handicapées, une équipe SOS Enfants, un service d'actions en milieu ouvert ou un autre service agréé non mandaté;
+
+2° seconde les intéressés dans l'accomplissement de leurs démarches en vue d'obtenir l'aide sollicitée.
+
+§ 3. Lorsqu'il a connaissance de mauvais traitements, de privations ou de négligences dont est victime un enfant ou lorsqu'il en suspecte l'existence, le conseiller peut demander l'intervention d'une équipe SOS Enfants.
+
+L'équipe SOS Enfants informe le conseiller de l'évolution de la situation et lui adresse un rapport.
+
+§ 4. Lorsque les conditions définies à l'article 23 sont réunies, le conseiller peut, après avoir constaté qu'aucun autre particulier ou service n'est en mesure à ce moment d'apporter à l'enfant une aide appropriée, exceptionnellement et provisoirement, tant que les démarches prévues au paragraphe 2 n'ont pas abouti, confier à un service agréé ou non ou à un accueillant familial le soin d'apporter l'aide appropriée durant le temps nécessaire.
+
+Dans ce cas, le conseiller décide, dans les limites fixées par le Gouvernement, des dépenses exposées en vue de l'aide individuelle supplétive octroyée en application du présent livre et délivre les documents justificatifs aux services agréés ou non et aux accueillants familiaux.
+
+L'aide ne peut être octroyée au bénéficiaire de plus de dix-huit ans que si elle a été sollicitée avant l'âge de dix-huit ans et ne peut consister qu'en une mesure d'accompagnement. Elle prend fin lorsque le bénéficiaire atteint l'âge de vingt ans.
+
+§ 5. Le conseiller informe le ministère public des situations visées aux articles 37 et 51 ou aux articles 8 et 9 de l'ordonnance du 29 avril 2004.
+
+[<sup>1</sup> Un service de garde des conseillers, coordonné par zone, est organisé selon les modalités fixées par le Gouvernement. La mission du conseiller dans le cadre du service de garde est d'informer le Ministère public sur l'opportunité de procéder en urgence à l'éloignement du milieu de vie de l'enfant concerné lorsque le Ministère public envisage de faire application [<sup>2</sup> des articles 37, 37/1 du présent décret ou 9 de l'ordonnance du 29 avril 2004]<sup>2</sup>.]<sup>1</sup>
+
+§ 6. En cas de déchéance de l'autorité parentale, l'aide directe de la Communauté française au mineur dont les père et mère ou l'un d'eux sont déchus de l'autorité parentale est subordonnée à la décision du tribunal de la jeunesse de le confier au conseiller conformément à la loi du 8 avril 1965 ou à une demande d'intervention du protuteur au conseiller.
+
+§ 7. Le conseiller coordonne les actions entreprises en faveur des personnes pour lesquelles son intervention est sollicitée, notamment en suscitant la coopération entre les différents services, agréés ou non, amenés à intervenir.
+
+§ 8. A la demande de l'enfant, d'un membre de sa famille, d'un de ses familiers ou du délégué général, le conseiller interpelle tout service, agréé ou non, s'occupant de l'enfant pour lui demander des informations sur ses interventions ou son refus d'intervenir en faveur de cet enfant.
+
+----------
+
+(1)&lt;DCFR 2022-06-23/11, art. 1, 006; En vigueur : 01-10-2022&gt;
+
+(2)&lt;DCFR 2023-07-20/46, art. 12, 008; En vigueur : 19-01-2024&gt;
+
+#### Chapitre 2. - Les contestations des décisions du conseiller
+
+**Art. 36**
+
+Le tribunal de la jeunesse connaît des contestations relatives à l'octroi, au refus et aux modalités d'application d'une mesure d'aide individuelle, portées devant lui :
+
+1° par une personne exerçant l'autorité parentale à l'égard de l'enfant;
+
+2° par une personne qui héberge l'enfant en droit ou en fait;
+
+3° par une personne bénéficiant du droit d'entretenir avec l'enfant des relations personnelles en vertu de l'article 375bis du Code civil;
+
+4° par l'enfant âgé d'au moins quatorze ans;
+
+5° par l'enfant âgé d'au moins douze ans assisté par un avocat, désigné d'office, le cas échéant, à la demande du conseiller;
+
+6° dans le cas où, à propos d'un enfant âgé de moins de douze ans, les personnes visées aux 1°, 2° et 3° s'abstiennent de saisir le tribunal :
+
+a) soit par l'enfant personnellement;
+
+b) soit par un tuteur ad hoc désigné par le président du tribunal de première instance à la requête de tout intéressé et au besoin par le procureur du Roi;
+
+c) soit par un tuteur ad hoc à désigner par le président du tribunal de première instance à la requête des mêmes personnes s'il apparaît que l'enfant âgé de moins de douze ans ne jouit pas du discernement suffisant quant à la question sur laquelle porte la contestation; dans ce cas, le tribunal de la jeunesse sursoit à statuer jusqu'à ce que le tuteur ad hoc soit désigné.
+
+A l'audience d'introduction, le tribunal informe le requérant de la possibilité de demander de résoudre le litige par le biais de la conciliation.
+
+A la demande du requérant, le tribunal tente de concilier les parties.
+
+Le tribunal entame la conciliation dans les quinze jours de l'audience d'introduction.
+
+Si la tentative de conciliation aboutit à un accord, le tribunal consigne cet accord dans un procès-verbal signé par les parties concernées, dont l'expédition est revêtue de la formule exécutoire.
+
+Si la tentative de conciliation échoue, le tribunal tranche la contestation dans le mois suivant le procès-verbal constatant la non-conciliation.
+
+En l'absence de demande de conciliation, le tribunal tranche la contestation dans le mois de l'introduction de celle-ci.
+
+La décision du tribunal ne fait pas obstacle à la conclusion et à la mise en oeuvre d'un accord dérogeant à la décision judiciaire, ultérieurement intervenu entre les parties. Cet accord est communiqué au tribunal.
+
+#### Chapitre 3. - L'intervention du tribunal de la jeunesse
+
+**Art. 37**
+
+§ 1er. En cas de nécessité urgente, lorsque l'intégrité physique ou psychique de l'enfant est exposée directement et actuellement à un péril grave et à défaut d'accord des personnes visées à l'article 23, le tribunal de la jeunesse peut prendre à titre provisoire, pour une durée qui ne peut excéder trente jours, la mesure visée à l'article 51, alinéa 1er, 2°.
+
+Lorsque la saisine du tribunal [<sup>1</sup> n'est pas sollicitée par le conseiller]<sup>1</sup>, le ministère public s'assure préalablement auprès de celui-ci de l'absence d'accord des personnes visées à l'article 23 ou de l'impossibilité de recueillir cet accord.
+
+[<sup>2</sup> Le ministère public peut exceptionnellement saisir directement le tribunal lorsqu'il démontre que le conseiller n'a pas pu être atteint et que l'intérêt de l'enfant ne permet pas d'attendre l'organisation et la mise en oeuvre de l'aide volontaire.]<sup>2</sup>
+
+La décision du tribunal est transmise immédiatement [<sup>2</sup> au conseiller, qui dispose à cet effet des mêmes pouvoirs que ceux détenus par le directeur en vertu de l'article 53, §§ 1er, 2, 3 et 5]<sup>2</sup>.
+
+La décision du tribunal détermine les modalités d'exécution de la mesure provisoire qui s'appliquent jusqu'à ce que, le cas échéant, le [<sup>2</sup> conseiller]<sup>2</sup> décide d'autres modalités d'exécution ou convienne d'une autre mesure avec les personnes visées à l'article 23, [<sup>2</sup> le conseiller disposant alors des pouvoirs conférés au directeur par l'article 53, § 5 ]<sup>2</sup>.
+
+§ 2. [<sup>2</sup> Si au terme de la durée de la mesure provisoire fixée par le tribunal, le conseiller n'est pas parvenu à un accord avec les personnes concernées, le tribunal peut prolonger une seule fois la mesure provisoire de quarante-cinq jours.
+
+La mise en oeuvre de la mesure provisoire prolongée par le tribunal en application de l'alinéa 1er est confiée au directeur afin d'être exécutée conformément à l'article 53, §§ 1er, 2, 3 et 5, lorsque le conseiller constate l'impossibilité d'aboutir à un accord et que la situation de péril grave perdure. Dans ce cas, le conseiller informe concomitamment le ministère public que selon son appréciation la situation relève désormais de l'article 51]<sup>2</sup>.
+
+§ 3.[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2022-06-23/11, art. 2, 006; En vigueur : 01-10-2022&gt;
+
+(2)&lt;DCFR 2023-07-20/46, art. 13, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 37/1**
+
+[<sup>1</sup> § 1er. En cas de nécessité urgente, lorsque l'intégrité physique ou psychique d'un enfant est exposée directement et actuellement à un péril grave et en dehors des heures d'ouverture des services de l'aide à la jeunesse ou si le conseiller n'est pas joignable durant celles-ci, le ministère public peut prendre la mesure visée à l'article 51, alinéa 1er, 2°. La mesure prend fin au plus tard à la fin du premier jour [<sup>2</sup> ...]<sup>2</sup> suivant le moment où la mesure a été prise.
+
+§ 2. Le tribunal de la jeunesse connaît des contestations relatives à la mesure visée au paragraphe 1er prise par le Ministère public et portées devant lui par les personnes visées à l'article 36, alinéa 1er.]<sup>1</sup>
+
+(NOTE : "ouvrable" abrogé par ACC 2023-12-19/01; En vigueur : 23-06-2022)
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-06-23/11, art. 3, 006; En vigueur : 01-10-2022&gt;
+
+(2)&lt;ACC 2023-12-19/01, art. M, 012; En vigueur : 23-06-2022&gt;
+
+## Livre IV. - Les mesures de protection des enfants en danger
+
+### Titre 1er. - Le champ d'application
+
+**Art. 38**
+
+Les dispositions du Livre IV s'appliquent à tout enfant dont la santé ou la sécurité est en danger ou dont les conditions d'éducation sont compromises par son comportement, celui de sa famille ou de ses familiers ainsi qu'aux personnes qui éprouvent des difficultés dans l'exécution de leurs obligations parentales au point de mettre gravement en danger leur enfant.
+
+Elles s'appliquent également aux personnes physiques et morales qui apportent leurs concours à l'exécution des mesures émanant des autorités communautaires ou judiciaires en matière de protection des enfants visés à l'alinéa 1er.
+
+### Titre 2. - Les droits des enfants, de leur famille et de leurs familiers
+
+#### Chapitre 1er. - Les principes généraux
+
+**Art. 39**
+
+Le directeur informe l'enfant, sa famille et ses familiers de leurs droits et obligations, notamment des droits visés aux articles 44, 46 et 54.
+
+Toute décision du directeur est motivée.
+
+En aucun cas, le directeur ne peut baser sa décision sur un élément ou une information qui n'a pas été porté à la connaissance de l'enfant, de sa famille et de ceux de ses familiers qui sont concernés par la mesure.
+
+Pour fonder et motiver ses propositions et décisions, le directeur prend en considération la personnalité de l'enfant, son degré de maturité et son milieu de vie ainsi que la disponibilité des moyens en matière d'éducation et de traitement et de toutes autres ressources envisagées.
+
+Toute décision prise par le directeur donne lieu à l'établissement d'un acte écrit contenant l'indication de l'objet et des motifs de la décision et reproduisant le texte des articles 44 et 54 et les modalités d'introduction de la contestation.
+
+Cet acte est transmis à l'enfant, aux personnes qui exercent l'autorité parentale à son égard et aux personnes qui hébergent l'enfant en droit ou en fait, dans les dix jours ouvrables à compter du jour de l'entretien lors duquel la décision est communiquée.
+
+Une copie de l'acte est transmise à l'avocat de l'enfant.
+
+**Art. 40**
+
+Le directeur ne prend aucune décision de protection individuelle sans avoir préalablement convoqué et entendu les personnes intéressées, sauf en cas d'impossibilité dûment établie.
+
+Le directeur convoque en tout cas l'enfant s'il est âgé d'au moins douze ans et entend l'enfant qui le demande quel que soit son âge.
+
+Le directeur convoque l'avocat de l'enfant en vue de tout entretien avec l'enfant.
+
+Dans l'intérêt de l'enfant, un entretien séparé peut avoir lieu avec l'enfant ou les personnes qui l'accompagnent.
+
+Les personnes intéressées ont la possibilité de mandater une personne majeure de leur choix si leur état de santé ne leur permet pas d'être entendues.
+
+Les personnes entendues par le directeur ont le droit de se faire accompagner de la personne majeure de leur choix et d'un avocat.
+
+L'acte écrit mentionne et synthétise l'audition des personnes visées à l'alinéa 1er ou mentionne les motifs pour lesquels il est impossible de les entendre.
+
+L'enfant, sa famille et ses familiers sont associés aux décisions qui concernent l'enfant et à l'exécution de celles-ci, sauf en cas d'impossibilité dûment établie.
+
+**Art. 41**
+
+S'il n'en existe pas encore lorsqu'il est saisi de la situation de l'enfant et lorsqu'il n'intervient pas dans le cadre de l'exécution d'une mesure provisoire, le directeur établit un projet pour l'enfant qui vise à garantir son développement physique, psychique, affectif, intellectuel et social et qui l'accompagne tout au long de son parcours dans le cadre de l'aide à la jeunesse ou de la protection de la jeunesse.
+
+Le directeur établit ou modifie le projet pour l'enfant en concertation avec l'enfant et les personnes qui exercent l'autorité parentale à son égard.
+
+Le projet pour l'enfant, tel qu'éventuellement modifié par le directeur, est transmis au conseiller lorsque celui-ci est saisi de la situation de l'enfant suite à l'homologation de l'accord obtenu par le directeur ainsi qu'au tribunal de la jeunesse, lorsque celui-ci est saisi sur la base de l'article 56, alinéa 1er.
+
+**Art. 42**
+
+§ 1er. Les mesures et les décisions prises par le tribunal de la jeunesse et par le directeur tendent par priorité à favoriser l'épanouissement de l'enfant dans son milieu de vie.
+
+Toutefois, si l'intérêt de l'enfant exige qu'il faille l'en éloigner, la protection apportée à l'enfant lui assure en tout cas les conditions de vie et de développement appropriées à ses besoins et à son âge.
+
+§ 2. Dans le cadre de la mise en oeuvre de la mesure visée à l'article 51, alinéa 1er, 2°, le directeur envisage de confier l'enfant dans l'ordre de priorité suivant :
+
+1° à un membre de sa famille ou à un de ses familiers;
+
+2° à un accueillant familial qui n'est ni un membre de sa famille ni un de ses familiers;
+
+3° à un établissement approprié en vue de son éducation ou de son traitement.
+
+§ 3. Le tribunal et le directeur veillent, sauf si cela n'est pas possible ou si l'intérêt de l'enfant s'y oppose, à ce que l'enfant ne soit pas séparé de ses frères et soeurs.
+
+**Art. 43**
+
+§ 1er. La durée de toute mesure de protection individuelle prise en exécution de l'article 51 à l'égard d'un enfant en danger est limitée à un an maximum à compter du jour où a lieu le premier entretien chez le directeur.
+
+A l'initiative du directeur, la mesure peut être renouvelée plusieurs fois, pour une durée maximale d'un an, et en tout temps rapportée ou modifiée par le tribunal de la jeunesse, dans l'intérêt de l'enfant.
+
+En cas de renouvellement de la mesure, la durée d'un an est à compter du jour du jugement.
+
+§ 2. Lorsqu'il demande que le tribunal renouvelle, rapporte ou modifie la mesure de protection, le directeur transmet au ministère public un rapport relatif à la situation actuelle de l'enfant, visant à démontrer l'opportunité de sa demande ainsi que le projet pour l'enfant.
+
+Lorsqu'il demande le renouvellement de la mesure, le directeur transmet son rapport au plus tard deux mois avant le terme de la mesure.
+
+§ 3. En cas d'élément nouveau, le directeur transmet un rapport actualisé au ministère public.
+
+§ 4. Lorsque le tribunal est saisi d'une demande visant à renouveler, rapporter ou modifier la mesure de protection, le directeur lui transmet, à sa demande, les pièces afférentes aux rapports visés aux paragraphes 2 et 3.
+
+**Art. 44**
+
+A tout moment, l'enfant, sa famille et ceux de ses familiers qui sont concernés par la mesure ainsi que leur avocat peuvent prendre connaissance de toutes les pièces du dossier du directeur selon les modalités prévues par le Gouvernement, à l'exception des pièces portant la mention " confidentiel " communiquées au directeur par les autorités judiciaires. [<sup>1</sup> Les services mandatés au sens de l'article 2, 31°, et les équipes SOS Enfants visés à l'article 2, 14°, peuvent, respectivement dans le cadre de leur mandat ou de leur intervention demandée par le directeur sur la base des articles 37, § 2, 51 et 52, prendre connaissance de toutes les pièces du dossier du directeur, selon les mêmes modalités et exception. ]<sup>1</sup>
+
+[<sup>1</sup> Toutefois, le directeur peut refuser la consultation ou la communication d'une ou plusieurs pièces du dossier si l'intérêt de l'enfant l'exige. Dans ce cas, la décision mentionne la possibilité d'introduire un recours devant la Commission d'accès aux documents administratifs conformément au décret du 22 décembre 1994 relatif à la publicité de l'administration]<sup>1</sup>.
+
+Lors de la communication des pièces, le directeur ou l'agent de son service délégué à cet effet fournit au demandeur les explications et les commentaires nécessaires et veille particulièrement à offrir à l'enfant qui consulte les pièces de son dossier un accompagnement approprié, tenant compte de son degré de maturité et des informations contenues dans son dossier.
+
+[<sup>1</sup> Toutefois, le directeur peut refuser la consultation ou la communication d'une ou plusieurs pièces du dossier si l'intérêt de l'enfant l'exige. Dans ce cas, la décision mentionne la possibilité d'introduire un recours devant la Commission d'accès aux documents administratifs conformément au décret du 22 décembre 1994 relatif à la publicité de l'administration]<sup>1</sup>.
+
+[<sup>2</sup> Toute pièce du dossier, en ce compris la décision de protection individuelle prise par le directeur, et copie de celle-ci, mentionnent qu'elles ne peuvent être communiquées que dans le respect des alinéas 1er et 2 et qu'elles ne peuvent être utilisées dans aucune autre procédure que celle relative à la mesure de protection qui fait l'objet du dossier dont elles sont extraites]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 14, 008; En vigueur : 19-01-2024&gt;
+
+(2)&lt;DCFR 2024-04-04/38, art. 4, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 44/1**
+
+[<sup>1</sup> Aucune pièce du dossier, en ce compris la décision de protection individuelle prise par le directeur, sous quelque forme que ce soit, ne peut être utilisée dans une autre procédure que celle relative à la mesure de protection qui fait l'objet du dossier dont elle est extraite, sous réserve de l'exception contenue aux alinéas 2 et 3.
+
+De sa propre initiative ou à la requête du ministère public, dans l'intérêt de l'enfant, le directeur peut transmettre par écrit les informations qu'il estime devoir porter à la connaissance du ministère public dans le cadre d'une procédure civile. Le directeur en informe l'enfant, sa famille et ceux de ses familiers qui sont concernés par la mesure, ainsi que leur avocat, au plus tard au moment de la transmission au ministère public
+
+L'enfant, sa famille et ses familiers ainsi que leurs avocats peuvent, dans l'intérêt de l'enfant, solliciter par écrit auprès du directeur que soit transmise la décision de mesure d'aide individuelle au ministère public dans le cadre d'une procédure civile. Le directeur statue sur cette demande endéans les 15 jours. En cas de refus, le directeur motive sa décision et la transmets pour information au ministère public dans le cadre d'une procédure civile. Dans tous les cas, le directeur informe de sa décision l'enfant, sa famille et ceux de ses familiers qui sont concernés par la mesure, ainsi que leur avocat, au plus tard au moment de la transmission au ministère public. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 5, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 45**
+
+L'enfant, sa famille et ses familiers ont le droit de se faire accompagner de la personne majeure de leur choix et d'un avocat lorsqu'ils s'adressent à l'administration compétente, à un service agréé ou au délégué général.
+
+Dans l'intérêt de l'enfant, un entretien séparé peut avoir lieu avec l'enfant ou les personnes qui l'accompagnent.
+
+**Art. 46**
+
+L'enfant, sa famille et ses familiers ont le droit de saisir l'administration compétente en cas de non-respect de leurs droits, par courrier adressé au fonctionnaire dirigeant. Ce courrier peut être électronique.
+
+#### Chapitre 2. - Les droits des enfants faisant l'objet d'une mesure d'hébergement hors de leur milieu de vie
+
+**Art. 47**
+
+§ 1er. Tout enfant hébergé hors de son milieu de vie en vertu d'une mesure de protection a le droit de communiquer avec toute personne de son choix, sauf décision contraire du tribunal de la jeunesse.
+
+§ 2. Tout enfant confié à un service agréé résidentiel en vertu d'une mesure de protection est informé dès sa prise en charge de son droit de communiquer avec son avocat et avec le délégué général.
+
+A cet effet, le responsable du service agréé résidentiel invite l'enfant âgé d'au moins douze ans à signer, dès son entrée, un document par lequel il déclare avoir été informé de ce droit et lui en délivre copie. Il favorise l'exercice effectif de ce droit.
+
+§ 3. Tout enfant confié à un service agréé résidentiel en vertu d'une mesure de protection ainsi que les personnes qui exercent l'autorité parentale à son égard reçoivent copie du règlement d'ordre intérieur du service, dès l'arrivée de l'enfant.
+
+**Art. 48**
+
+Le directeur rend visite au moins une fois par semestre à tout enfant hébergé hors de son milieu de vie en vertu d'une mesure de protection et au moins une fois par trimestre lorsqu'il est âgé de moins de trois ans.
+
+Il peut déléguer une personne à cet effet qui lui fait rapport.
+
+**Art. 49**
+
+L'enfant hébergé hors de son milieu de vie en vertu d'une mesure de protection reçoit de l'argent de poche aux conditions et selon les modalités fixées par le Gouvernement.
+
+**Art. 50**
+
+Toute décision de transfert d'un enfant d'un service agréé résidentiel à un autre est prise par le directeur, sur la base d'un rapport circonstancié du service et après avoir entendu l'enfant.
+
+Une copie du rapport du service est transmise à l'administration compétente.
+
+L'enfant est informé des motifs du transfert et des caractéristiques de son nouveau milieu d'accueil.
+
+### Titre 3. - Les mesures de protection
+
+#### Chapitre 1er. - Les mesures de protection relevant de la compétence du tribunal de la jeunesse
+
+**Art. 51**
+
+Après avoir constaté que la santé ou la sécurité d'un enfant est actuellement et gravement compromise et que les personnes concernées refusent ou négligent de mettre en oeuvre l'aide volontaire, qui a dû être préalablement envisagée par le conseiller, le tribunal de la jeunesse peut, le cas échéant de façon cumulative :
+
+1° soumettre l'enfant, sa famille et ses familiers ou l'un d'eux à des directives ou à un accompagnement d'ordre psychologique, social ou éducatif;
+
+2° décider, dans des situations exceptionnelles, que l'enfant sera hébergé temporairement hors de son milieu de vie en vue de son éducation ou de son traitement;
+
+3° permettre à l'enfant, s'il a plus de seize ans, de se fixer dans une résidence autonome ou supervisée et de prendre inscription au registre de la population du lieu de cette résidence.
+
+La santé ou la sécurité d'un enfant est considérée comme actuellement et gravement compromise lorsque son intégrité physique ou psychique est menacée, soit parce qu'il adopte de manière habituelle ou répétée des comportements qui la compromettent réellement et directement soit parce qu'il est victime de négligences graves, de mauvais traitements, d'abus d'autorité ou d'abus sexuels la menaçant directement et réellement.
+
+La décision du tribunal est transmise immédiatement au directeur afin d'être mise en oeuvre conformément à l'article 53.
+
+Si une mesure d'aide prise par le conseiller est en cours, elle continue à produire ses effets, avec l'accord des personnes visées à l'article 23, jusqu'à la mise en oeuvre de la décision du tribunal par le directeur.
+
+**Art. 52**
+
+En cas de nécessité urgente, lorsque l'intégrité physique ou psychique de l'enfant est exposée directement et actuellement à un péril grave et à défaut d'accord des personnes visées à l'article 23, le tribunal de la jeunesse peut prendre à titre provisoire, pour une durée qui ne peut excéder trente jours, la mesure visée à l'article 51, alinéa 1er, 2°.
+
+[<sup>1</sup> Lorsque la saisine du tribunal n'est pas sollicitée par le directeur]<sup>1</sup>, le ministère public s'assure préalablement auprès de celui-ci de l'absence d'accord des personnes visées à l'article 23 ou de l'impossibilité de recueillir cet accord.
+
+Le ministère public peut exceptionnellement saisir directement le tribunal lorsqu'il démontre que le directeur n'a pas pu être atteint et que l'intérêt de l'enfant ne permet pas d'attendre l'intervention du directeur.
+
+La décision du tribunal est transmise immédiatement au directeur afin d'être exécutée conformément à l'article 53.
+
+La décision du tribunal détermine les modalités d'exécution de la mesure provisoire qui s'appliquent jusqu'à ce que, le cas échéant, le directeur décide d'autres modalités d'exécution ou convienne d'une autre mesure avec les personnes visées à l'article 23, conformément à l'article 53, § 5.
+
+Conformément à l'article 53, § 5, alinéa 3, la mesure provisoire peut être prolongée une seule fois de quarante-cinq jours au plus.
+
+----------
+
+(1)&lt;DCFR 2022-06-23/11, art. 4, 006; En vigueur : 01-10-2022&gt;
+
+**Art. 52/1**
+
+[<sup>1</sup> § 1er. En cas de nécessité urgente, lorsque l'intégrité physique ou psychique de l'enfant est exposée directement et actuellement à un péril grave et en dehors des heures d'ouverture des services de protection de la jeunesse ou si le directeur n'est pas joignable durant celles-ci, le Ministère public peut prendre la mesure visée à l'article 51, alinéa 1er, 2°. La mesure prend fin au plus tard à la fin du premier jour [<sup>2</sup> ...]<sup>2</sup> suivant le moment où la mesure a été prise.
+
+§ 2. Le tribunal de la jeunesse connaît des contestations relatives à la mesure visée à au paragraphe 1er prise par le ministère public et portées devant lui par les personnes visées à l'article 54, alinéa 1er.]<sup>1</sup>
+
+(NOTE : "ouvrable" abrogé par ACC 2023-12-19/01; En vigueur : 23-06-2022)
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-06-23/11, art. 6, 006; En vigueur : 01-10-2022&gt;
+
+(2)&lt;ACC 2023-12-19/01, art. M, 012; En vigueur : 23-06-2022&gt;
+
+#### Chapitre 2. - La compétence du directeur quant aux mesures de protection
+
+**Art. 53**
+
+§ 1. Le directeur décide des modalités d'exécution de la mesure prise par le tribunal de la jeunesse en vertu de l'article 51 et, le cas échéant, de leur modification et peut modifier les modalités d'exécution décidées par le tribunal en vertu de l'article 37 ou de l'article 52.
+
+§ 2. Il décide, dans les limites fixées par le Gouvernement, des dépenses exposées en vue de la protection octroyée en application des articles 37, 51 et 52.
+
+Il délivre les documents justificatifs aux services concernés, agréés ou non, et aux accueillants familiaux.
+
+§ 3. A la demande de l'enfant, d'un membre de sa famille, d'un de ses familiers ou du délégué général, le directeur interpelle tout service, agréé ou non, s'occupant de l'enfant pour lui demander des informations sur ses interventions ou son refus d'intervenir en faveur de cet enfant.
+
+§ 4. Dans le cadre de mesures de protection décidées par le tribunal, le cas échéant de manière cumulative, sur la base de l'article 51, le directeur peut convenir d'une ou d'autres mesures qui recueillent l'accord des personnes visées à l'article 23. Il peut également mettre fin à la mesure ou aux mesures, avec l'accord des personnes visées à l'article 23, s'il constate que la santé ou la sécurité de l'enfant n'est plus gravement compromise.
+
+S'il obtient l'accord des personnes visées à l'article 23 sur la ou les mesures décidées par le tribunal sur leur modification ou sur leur fin, le directeur demande l'homologation de l'accord au tribunal.
+
+L'homologation de l'accord par le tribunal met fin aux effets de la décision judiciaire.
+
+Le tribunal ne peut refuser l'homologation que si l'accord est contraire à l'ordre public.
+
+Le directeur communique l'accord homologué au conseiller, qui, s'il échet, le met en oeuvre. En cas de cumul des mesures, le directeur ne communique l'accord homologué au conseiller que s'il porte sur toutes les mesures.
+
+§ 5. Dans le cadre d'une mesure provisoire décidée par le tribunal sur la base de l'article 37 ou de l'article 52, le directeur peut convenir d'une ou d'autres mesures qui recueillent l'accord des personnes visées à l'article 23.
+
+S'il obtient l'accord des personnes visées à l'article 23 sur la ou les mesures décidées par le tribunal, sur leur modification ou sur leur fin, le directeur demande l'homologation de l'accord au tribunal.
+
+Si, au terme de la durée de la mesure provisoire fixée par le tribunal, le directeur n'est pas parvenu à un accord avec les personnes concernées, le tribunal peut prolonger une seule fois la mesure provisoire de quarante-cinq jours au plus.
+
+[<sup>1</sup> § 6. Un service de garde des directeurs, coordonné par zone, est organisé selon les modalités fixées par le Gouvernement. La mission du directeur dans le cadre du service de garde est d'informer le Ministère public sur l'opportunité de procéder en urgence à l'éloignement du milieu de vie de l'enfant concerné lorsque le Ministère public envisage de faire application des articles 52 et 52/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-06-23/11, art. 5, 006; En vigueur : 01-10-2022&gt;
+
+#### Chapitre 3. - Les contestations des décisions du directeur
+
+**Art. 54**
+
+Le tribunal de la jeunesse connaît des contestations relatives aux décisions prises par le directeur dans le cadre de la mise en oeuvre des décisions du tribunal, portées devant lui :
+
+1° par une personne exerçant l'autorité parentale à l'égard de l'enfant;
+
+2° par une personne qui héberge l'enfant en droit ou en fait;
+
+3° par une personne bénéficiant du droit d'entretenir avec l'enfant des relations personnelles en vertu de l'article 375bis du Code civil;
+
+4° par l'enfant âgé d'au moins quatorze ans;
+
+5° par l'enfant âgé d'au moins douze ans assisté par un avocat, désigné d'office, le cas échéant, à la demande du conseiller;
+
+6° dans le cas où, à propos d'un enfant âgé de moins de douze ans, les personnes visées aux 1°, 2° et 3° s'abstiennent de saisir le tribunal :
+
+a) soit par l'enfant personnellement;
+
+b) soit par un tuteur ad hoc désigné par le président du tribunal de première instance à la requête de tout intéressé et au besoin par le procureur du Roi;
+
+c) soit par un tuteur ad hoc à désigner par le président du tribunal de première instance à la requête des mêmes personnes s'il apparaît que l'enfant âgé de moins de douze ans ne jouit pas du discernement suffisant quant à la question sur laquelle porte la contestation; dans ce cas, le tribunal de la jeunesse sursoit à statuer jusqu'à ce que le tuteur ad hoc soit désigné.
+
+A l'audience d'introduction, le tribunal informe le requérant de la possibilité de demander de résoudre le litige par le biais de la conciliation.
+
+A la demande du requérant, le tribunal tente de concilier les parties.
+
+Le tribunal entame la conciliation dans les quinze jours de l'audience d'introduction.
+
+Si la tentative de conciliation aboutit à un accord, le tribunal consigne cet accord dans un procès-verbal signé par les parties concernées, dont l'expédition est revêtue de la formule exécutoire.
+
+Si la tentative de conciliation échoue, le tribunal tranche la contestation dans le mois suivant le procès-verbal constatant la non-conciliation.
+
+En l'absence de demande de conciliation, le tribunal tranche la contestation dans le mois de l'introduction de celle-ci.
+
+La décision du tribunal ne fait pas obstacle à la conclusion et à la mise en oeuvre d'un accord dérogeant à la décision judiciaire, ultérieurement intervenu entre les parties. Cet accord est communiqué au tribunal.
+
+## Livre V. - Les mesures de protection des jeunes poursuivis du chef d'un fait qualifié infraction commis avant l'âge de dix-huit ans
+
+### Titre 1er. - Le champ d'application
+
+**Art. 55**
+
+Les dispositions du Livre V s'appliquent à tout jeune poursuivi du chef d'un fait qualifié infraction commis avant l'âge de dix-huit ans.
+
+Elles s'appliquent également aux personnes physiques et morales qui apportent leurs concours à l'exécution des mesures émanant des autorités communautaires ou judiciaires en matière de protection des jeunes visés à l'alinéa 1er.
+
+Lorsque le jeune est âgé de plus de dix-huit ans au moment du jugement, il est assimilé à un mineur pour l'application des dispositions de la loi du 8 avril 1965 relatives à la procédure.
+
+**Art. 56**
+
+Le tribunal de la jeunesse connaît des réquisitions du ministère public à l'égard des jeunes poursuivis du chef d'un fait qualifié infraction commis avant l'âge de dix-huit ans.
+
+Par dérogation à l'alinéa 1er et sauf en cas de connexité avec des poursuites du chef d'infractions autres que celles prévues ci-dessous, les juridictions compétentes en vertu du droit commun connaissent des réquisitions du ministère public à l'égard des jeunes âgés de plus de seize ans au moment des faits, poursuivis du chef :
+
+1° d'infraction aux dispositions des lois et règlements sur la police du roulage;
+
+2° [<sup>1</sup> d'homicides ou atteintes à l'intégrité dans le cadre de la circulation visés aux articles 107, 107/1 et 218 du Code pénal]<sup>1</sup>, pour autant que l'infraction soit connexe à une infraction visée au 1° ;
+
+3° d'infraction à la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité civile en matière de véhicule automoteurs.
+
+Si les débats devant les juridictions visées à l'alinéa 2 font apparaître qu'une mesure de protection serait plus adéquate en la cause, ces juridictions peuvent se dessaisir et renvoyer l'affaire au ministère public aux fins de réquisitions devant le tribunal de la jeunesse, s'il y a lieu.
+
+----------
+
+(1)&lt;DCFR 2026-09-04/04, art. 1, 014; En vigueur : 01-09-2026&gt;
+
+### Titre 2. - Les droits des jeunes, de leur famille et de leurs familiers
+
+#### Chapitre 1er. - Les principes généraux
+
+**Art. 57**
+
+Lorsqu'un jeune est amené à être entendu par le service de la protection de la jeunesse, il a le droit de se faire accompagner de la personne majeure de son choix.
+
+Le directeur convoque l'avocat du jeune en vue de tout entretien avec le jeune.
+
+Dans l'intérêt du jeune, un entretien séparé peut avoir lieu avec le jeune ou les personnes qui l'accompagnent.
+
+**Art. 58**
+
+Le jeune qui s'adresse à l'administration compétente, à un service agréé, à une institution publique ou au délégué général a le droit de se faire accompagner de la personne majeure de son choix et d'un avocat.
+
+Dans l'intérêt du jeune, un entretien séparé peut avoir lieu avec le jeune ou les personnes qui l'accompagnent.
+
+**Art. 59**
+
+Le jeune, sa famille et ses familiers ont le droit de saisir l'administration compétente en cas de non-respect de leurs droits, par courrier adressé au fonctionnaire dirigeant. Ce courrier peut être électronique.
+
+Toutefois, lorsque le jeune est confié à une institution publique, les décisions prises à son égard par le directeur de l'institution publique sont contestées conformément aux articles 79 à 94.
+
+#### Chapitre 2. - Les droits des jeunes faisant l'objet d'une mesure d'éloignement de leur milieu de vie
+
+**Art. 60**
+
+§ 1er. Tout jeune éloigné de son milieu de vie en vertu d'une mesure de protection a le droit de communiquer avec toute personne de son choix, sauf décision contraire du tribunal de la jeunesse.
+
+§ 2. Tout jeune confié à un service agréé résidentiel ou à une institution publique en vertu d'une mesure de protection est informé dès sa prise en charge de son droit de communiquer avec son avocat et avec le délégué général.
+
+A cet effet, le responsable du service ou de l'institution invite le jeune à signer, dès son entrée, un document par lequel il déclare avoir été informé de ce droit et lui en délivre copie. Il favorise l'exercice effectif de ce droit.
+
+§ 3. Tout jeune confié à un service agréé résidentiel ou à une institution publique en vertu d'une mesure de protection ainsi que les personnes qui exercent l'autorité parentale à son égard reçoivent copie du règlement d'ordre intérieur du service ou de l'institution, dès l'arrivée du jeune.
+
+**Art. 61**
+
+Un magistrat du tribunal de la jeunesse rend visite au moins une fois par semestre à tout jeune éloigné de son milieu de vie en vertu d'une mesure de protection.
+
+**Art. 62**
+
+Le jeune éloigné de son milieu de vie en vertu d'une mesure de protection reçoit de l'argent de poche aux conditions et selon les modalités fixées par le Gouvernement.
+
+#### Chapitre 3. - Les droits des jeunes confiés à une institution publique
+
+##### Section 1ère. [<sup>1</sup> Les prises en charge en institutions publiques ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 15, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 63**
+
+[<sup>1</sup> § 1er. L'accès aux institutions publiques est limité aux jeunes qui, poursuivis pour des faits qualifiés infraction, font l'objet d'une décision judiciaire ordonnant un hébergement en institution publique conformément aux articles 63/1, 63/2, 63/3, 122, 124/1 et 124/2, § 2.
+
+Les institutions publiques de protection de la jeunesse offrent trois types de prises en charge :
+
+1° l'évaluation et l'orientation, tant en régime ouvert qu'en régime fermé ;
+
+2° l'éducation, tant en régime ouvert qu'en régime fermé ;
+
+3° l'intermède, en régime ouvert.
+
+Le Gouvernement détermine les capacités de prises en charge en institutions publiques.
+
+§ 3. Des places d'urgence, en régime fermé, sont créées au sein des institutions publiques.
+
+Par place d'urgence, on entend une place en institution publique qui est attribuée lorsqu'il existe des circonstances graves et exceptionnelles se rattachant aux exigences de protection de la sécurité publique.
+
+Le Gouvernement détermine les capacités, les critères et les modalités d'utilisation des places d'urgence.
+
+§ 4. Le Gouvernement détermine les moyens à attribuer aux institutions publiques leur permettant d'assurer leurs fonctions éducatives ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 16, 008; En vigueur : 01-01-2024&gt;
+
+**Art. 63/1**
+
+[<sup>1</sup> L'unité d'évaluation et orientation héberge le jeune aux fins de procéder à une évaluation structurée des risques de récidive, des besoins, des forces et des facteurs de réceptivité du jeune en tenant compte de sa situation actuelle et de ses différents contextes de vie en vue de proposer dans le rapport d'évaluation requis par l'article 65, alinéa 1er, la mesure la plus adéquate en tenant compte de la hiérarchie prévue aux articles 101, § 1er, alinéa 2, 108, alinéa 3, et 122, alinéas 1er et 3. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 17, 008; En vigueur : 01-01-2024&gt;
+
+**Art. 63/2**
+
+[<sup>1</sup> § 1er. L'unité d'éducation héberge le jeune aux fins de lui faire prendre conscience des actes qui ont conduit à la mesure d'éloignement et de leurs éventuelles conséquences sur autrui et plus particulièrement sur la victime, tout en veillant à valoriser l'image du jeune, à rechercher les solutions les plus adaptées à sa situation et à ses besoins en vue de sa réinsertion et à s'assurer que l'éloignement ne soit pas prolongé au-delà de la durée nécessaire.
+
+La famille et les familiers sont considérés comme des partenaires de l'unité dans l'éducation du jeune.
+
+§ 2. L'unité d'éducation intra-muros élabore, en régime ouvert ou fermé, un projet individuel visant la stabilisation comportementale, psychologique et affective préalable au retour du jeune dans la société, en ce compris le retour dans un milieu scolaire ou semi-professionnel.
+
+L'unité d'éducation extra-muros élabore, en régime ouvert, un projet individuel d'accompagnement du jeune dans un milieu scolaire ou semi-professionnel, qui consolide les acquis du projet réalisé intra-muros ou qui pallie l'impossibilité momentanée de réaliser ce projet dans le milieu de vie du jeune. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 18, 008; En vigueur : 01-01-2024&gt;
+
+**Art. 63/3**
+
+[<sup>1</sup> Un jeune hébergé par une institution publique ou par un service agréé ou accompagné par une équipe mobile d'accompagnement ou par un service agréé peut être hébergé en unité d'intermède lorsque l'une des conditions prévues à l'article 124/2 est remplie, et ce en vue de favoriser le maintien des liens avec les membres du personnel du service concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 19, 008; En vigueur : 01-01-2024&gt;
+
+##### Section 2. - Les décisions du directeur de l'institution publique
+
+**Art. 64**
+
+Le jeune peut s'adresser au directeur de l'institution publique à propos de toute décision qui le concerne personnellement.
+
+Le directeur de l'institution publique remet sa décision au jeune dans les quarante-huit heures de la réception de sa demande écrite.
+
+Lorsque le jeune se plaint de l'attitude d'un membre du personnel, le directeur de l'institution publique entend les parties concernées et leur communique sa décision.
+
+##### Section 2/1. [<sup>1</sup> - La communication des décisions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-10-14/22, art. 2, 005; En vigueur : 05-12-2021&gt;
+
+**Art. 64/1**
+
+[<sup>1</sup> Les décisions prises à l'égard du jeune dans le cadre du présent décret qui sont relatives aux sanctions et aux mesures d'ordre ou de sécurité dont il fait l'objet lui sont communiquées sans délai, oralement et par écrit, dans un langage accessible.
+
+Si le jeune ne maîtrise pas le français, il est fait appel à tout moyen raisonnable afin de lui permettre de comprendre la décision et sa motivation.
+
+Les décisions visées à l'alinéa 1er sont également communiquées sans délai aux personnes exerçant l'autorité parentale à l'égard du jeune et à son avocat.
+
+[<sup>2</sup> Les informations relatives à l'état de santé du jeune sont communiquées sans délai, avec le consentement du jeune, aux personnes exerçant l'autorité parentale à son égard et à son avocat.
+
+Par dérogation à l'alinéa précédent, le directeur de l'institution publique avise immédiatement les personnes qui exercent l'autorité parentale à l'égard du jeune dans les situations suivantes :
+
+1° lorsque le jeune est transféré vers un hôpital ou un établissement de soins :
+
+2° en cas d'altération importante de l'état de santé du jeune ;
+
+3° lorsque le jeune est en danger de mort ;
+
+4° lorsque le jeune décède.]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-10-14/22, art. 3, 005; En vigueur : 05-12-2021&gt;
+
+(2)&lt;DCFR 2024-04-04/38, art. 6, 011; En vigueur : 09-06-2024&gt;
+
+##### Section 3. - Les rapports transmis au tribunal de la jeunesse
+
+**Art. 65**
+
+[<sup>1</sup> Tout jeune confié à une institution publique fait l'objet d'un rapport établi par l'équipe pluridisciplinaire de l'institution publique qui l'accueille et transmis au tribunal de la jeunesse selon les modalités suivantes :
+
+1° en unité d'évaluation et orientation, un rapport d'évaluation et orientation transmis dans les vingt-cinq jours à partir de la date du début de la prise en charge ;
+
+2° en unité d'éducation, un rapport d'intervention et d'évolution transmis au plus tard cinq jours avant le terme de la mesure ;
+
+3° en unité d'intermède : un rapport d'information transmis au plus tard la veille du terme de la mesure.
+
+Le jeune et son avocat reçoivent copies des rapports dans les mêmes délais.
+
+Lorsqu'une mesure de surveillance telle que visée à l'article 119 est prise à l'égard du jeune, le service de la protection de la jeunesse reçoit copies des rapports dans les mêmes délais par l'intermédiaire du directeur ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 20, 008; En vigueur : 19-01-2024&gt;
+
+##### Section 4. - Les contacts du jeune
+
+**Art. 66**
+
+L'institution publique prend toutes les mesures nécessaires pour favoriser le maintien des contacts du jeune avec sa famille et ses familiers, sauf décision contraire du tribunal de la jeunesse.
+
+L'institution publique facilite les contacts du jeune avec l'ensemble des personnes et institutions permettant de construire son projet de réinsertion.
+
+**Art. 67**
+
+Par dérogation à l'article 60, § 1er, lorsqu'il estime que les contacts du jeune avec une personne déterminée sont susceptibles de nuire au jeune ou constituent un risque pour la sécurité, le directeur de l'institution publique peut interdire ou limiter ces contacts en attendant la décision du tribunal qu'il sollicite à ce sujet, pendant trois jours au plus.
+
+**Art. 67/1**
+
+[<sup>1</sup> En cas de risque pour le maintien de l'ordre ou de la sécurité, le directeur de l'institution publique peut interdire l'entrée d'un visiteur, uniquement pour la prochaine visite prévue, ou imposer la présence continue d'un membre du personnel dans la pièce dans laquelle la visite a lieu. Le directeur prend une décision motivée qu'il communique conformément aux modalités prévues à l'article 64/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-10-14/22, art. 4, 005; En vigueur : 05-12-2021&gt;
+
+**Art. 67/2**
+
+[<sup>1</sup> Les envois adressés au jeune peuvent, préalablement à leur remise, être soumises au contrôle du directeur de l'institution publique en vue du maintien de l'ordre ou de la sécurité.
+
+Ce contrôle porte sur la présence d'objets ou de substances qui sont étrangers à la correspondance et n'autorise pas la lecture de la lettre. Dans ce cas, le jeune est invité à ouvrir l'envoi en présence du directeur de l'institution publique qui, lorsque cela est absolument nécessaire pour le maintien de l'ordre ou de la sécurité, peut exiger la remise des objets ou substances joints à la lettre. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 7, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 67/3**
+
+[<sup>1</sup> Les lettres envoyées par le jeune ne sont, préalablement à leur envoi, pas soumises au contrôle du directeur de l'institution publique, sauf s'il s'agit de vérifier que le jeune n'écrit pas à une personne avec qui il ne peut communiquer, suite à une décision judiciaire ou à une décision du directeur de l'institution publique prise en vertu de l'article 67 du décret. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 8, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 67/4**
+
+[<sup>1</sup> es lettres provenant et à destination des personnes ou autorités suivantes ne sont pas soumises au contrôle visé à l'article 67/2 :
+
+1° l'avocat du jeune ;
+
+2° le Roi ;
+
+3° les agents consulaires et du corps diplomatique du pays dont est originaire le jeune ;
+
+4° les parlementaires du pays ;
+
+5° les ministres et secrétaires d'Etat des gouvernements fédéral, communautaires et régionaux ;
+
+6° l'administration compétente ;
+
+7° le délégué général aux droits de l'enfant ;
+
+8° le Comité des droits de l'enfant ;
+
+9° les membres de la commission de surveillance et les personnes ou instances chargées du contrôle de l'institution publique ;
+
+10° la commission de recours visée à l'article 90 ;
+
+11° la Cour constitutionnelle ;
+
+12° les autorités judiciaires ;
+
+13° le Conseil d'Etat ;
+
+14° les médiateurs de l'Etat fédéral, des communautés et des régions ;
+
+15° le service de médiation instauré auprès de la commission fédérale " Droits du patient " ;
+
+16° l'Ordre des avocats de l'arrondissement dans lequel l'institution publique est située ;
+
+17° le Conseil supérieur de la Justice ;
+
+18° le Centre interfédéral pour l'égalité des chances et la lutte contre le racisme et les discriminations ;
+
+19° le Comité permanent de contrôle des services de police ;
+
+20° l'Ordre des médecins ;
+
+21° la Cour européenne des droits de l'homme ;
+
+22° le Comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants ;
+
+23° le Comité des droits de l'homme des Nations Unies ;
+
+24° le Comité contre la torture des Nations Unies.
+
+La liste de personnes et autorités prévue à l'alinéa 1er peut être complétée par le gouvernement.
+
+Afin d'assurer la liberté de correspondre, la qualité et l'adresse professionnelle de ces personnes ou autorités et l'identité du jeune figurent sur l'enveloppe. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 9, 011; En vigueur : 09-06-2024&gt;
+
+##### Section 5. - Les fouilles
+
+**Art. 68**
+
+§ 1er. La fouille ne peut pas avoir un caractère vexatoire et se déroule dans le respect de la dignité du jeune.
+
+Le directeur de l'institution publique ne peut ordonner une fouille des vêtements, des effets personnels ou de la chambre du jeune par des membres du personnel qu'il a mandatés à cet effet que si des indices individualisés laissent supposer que le jeune détient des objets ou substances non autorisés.
+
+Le jeune est informé préalablement de la fouille.
+
+§ 2. Si la fouille permet de découvrir des objets ou substances non autorisés, ceux-ci peuvent être saisis et, être conservés par l'institution publique sous sa responsabilité, contre remise d'un reçu, être détruits avec l'accord du jeune, être remis à une personne extérieure de son choix ou être tenus à la disposition des autorités compétentes en vue de prévenir ou d'établir des faits punissables. Dans ce dernier cas, l'institution publique en informe le tribunal de la jeunesse et l'avocat du jeune.
+
+§ 3. Tout autre type de fouilles que celles visées au paragraphe 1er est interdit.
+
+Si des indices individualisés laissent supposer que le jeune détient des objets ou substances non autorisés qui n'auraient pas été trouvés par la fouille de ses vêtements, de ses effets personnels ou de sa chambre, le directeur de l'institution publique peut faire appel aux services de police, en informant le tribunal de la jeunesse et l'avocat du jeune.
+
+[<sup>1</sup> § 4. Afin d'assurer le contrôle de l'usage de cette mesure et du respect des droits des jeunes, les fouilles sont inscrites dans un registre spécialement prévu à cet effet qui précise pour chaque mesure : l'identité du jeune, la nature de la fouille, les circonstances ayant amené à prendre la mesure et les motifs qui la justifient, les résultats de la fouilles, le nom du directeur qui autorise la fouille, le nom des membres du personnel qui ont participé à la mise en oeuvre de la mesure, la date et l'heure du début et de la fin de la mesure.
+
+Ce registre peut être consulté à tout moment par :
+
+1° les membres de l'administration compétente exerçant une mission d'inspection à l'égard des institutions publiques ;
+
+2° le délégué général aux droits de l'enfant ;
+
+3° les membres de la commission de surveillance visée à l'article 73 ;
+
+4° les membres de la commission de recours visée à l'article 90 ;
+
+5° le jeune, pour les mentions qui le concernent ;
+
+6° l'avocat du jeune, pour les mentions qui concernent le jeune.
+
+L'accès au registre par la commission de recours visé à l'article 90 doit être limité à l'objet du recours.
+
+Les personnes et instances visées à l'alinéa 2 ne peuvent accéder aux données à caractère personnel traitées dans le registre des fouilles que lorsqu'elles exécutent une mission qui leur incombe en application du présent décret et qui touche au contrôle d'une ou de plusieurs mesures de fouille.
+
+Cet accès s'inscrit en outre dans le respect du droit du jeune tel que renseigné à l'article 1er.
+
+Chaque institution publique est responsable du traitement du registre qui la concerne.
+
+Un nouveau registre des fouilles est établi au début de chaque année civile. Les données à caractère personnel qui figurent dans ce registre sont conservées jusqu'au 31 janvier de la seconde année qui suit l'année civile au cours de laquelle le registre a été établi.
+
+Chaque année, le 31 janvier au plus tard, le directeur de l'institution publique transmet à l'administration compétente un rapport relatif aux fouilles réalisées au cours de l'année précédente. Le rapport précise notamment le nombre de fouilles, leur nature, leurs motifs et le nombre de jeunes concernés. Le rapport ne contient aucune donnée permettant l'identification des personnes mentionnées dans le registre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-12-07/09, art. 1, 010; En vigueur : 01-01-2024&gt;
+
+##### Section 5/1. [<sup>1</sup> - Les mesures de coercition directe]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-10-14/22, art. 5, 005; En vigueur : 05-12-2021&gt;
+
+**Art. 68/1**
+
+[<sup>1</sup> Par coercition directe, on entend l'usage de la contrainte physique sur une personne sans utilisation d'accessoires matériels ou mécaniques ou d'instruments de contrainte limitant la liberté de mouvement.
+
+Une coercition directe ne peut être exercée à l'égard du jeune que lorsqu'elle est absolument nécessaire, en dernier recours, en cas de légitime défense, de tentative d'évasion ou de résistance physique à un ordre licite, en cas de risque immédiat d'automutilation, de préjudice à autrui ou de dégâts matériels majeurs.
+
+L'intensité de la force doit correspondre au minimum nécessaire et la contrainte doit être utilisée pendant une période aussi courte que nécessaire.
+
+Dans l'attente de l'intervention des services de police, une coercition directe peut être exercée aux mêmes conditions à l'égard d'autres personnes que les jeunes, lorsque celles-ci tentent de faire évader un jeune, de pénétrer illégalement dans l'institution publique ou de s'y attarder sans y être autorisées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-10-14/22, art. 6, 005; En vigueur : 05-12-2021&gt;
+
+**Art. 68/2**
+
+[<sup>1</sup> Avant de recourir à la coercition directe, il convient d'en brandir la menace, sauf lorsque les circonstances ne le permettent pas ou lorsque toute menace préalable rendrait le recours à la coercition directe inopérant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-10-14/22, art. 7, 005; En vigueur : 05-12-2021&gt;
+
+**Art. 68/3**
+
+[<sup>1</sup> Afin d'assurer le contrôle de l'usage de cette mesure et du respect des droits des jeunes, les mesures de coercition directe sont inscrites dans un registre spécialement prévu à cet effet qui précise pour chaque mesure: l'identité du jeune, la nature de la mesure, les circonstances ayant amené à prendre la mesure et les motifs qui la justifient, le recours préalable à la menace et les éventuelles circonstances qui l'en ont empêché, le nom des membres du personnel qui ont participé à la mise en oeuvre de la mesure, la date et l'heure du début et de la fin de la mesure.
+
+Ce registre peut être consulté à tout moment par:
+
+1° [<sup>3</sup> ...]<sup>3</sup>
+
+2° [<sup>3</sup> les membres de l'administration compétente exerçant une mission d'inspection à l'égard des institutions publiques]<sup>3</sup>;
+
+3° le délégué général aux droits de l'enfant;
+
+4° les membres de la commission de surveillance visée à l'article 73;
+
+5° le jeune, pour les mentions qui le concernent;
+
+6 l'avocat du jeune, pour les mentions qui concernent le jeune;
+
+[<sup>2</sup> 7° les membres de la commission de recours visée à l'article 90. ]<sup>2</sup>
+
+[<sup>2</sup> L'accès au registre par la commission de recours doit être limité à l'objet du recours. ]<sup>2</sup>
+
+Le Ministère de la Communauté française est responsable du traitement du registre.
+
+[<sup>2</sup> Un nouveau registre est établi au début de chaque année civile. Les données à caractère personnel qui figurent dans ce registre sont conservées jusqu'au 31 janvier de la seconde année qui suit l'année civile au cours de laquelle le registre a été établi. ]<sup>2</sup>.
+
+Chaque année, le 31 janvier au plus tard, le directeur de l'institution publique transmet à l'administration compétente un rapport relatif aux mesures de coercition directe prises au cours de l'année précédente. Le rapport précise notamment le nombre de mesures, leur nature, leur durée, leurs motifs et le nombre de jeunes concernés. Le rapport ne contient pas de données permettant l'identification des [<sup>2</sup> personnes mentionnées dans le registre]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-10-14/22, art. 8, 005; En vigueur : 05-12-2021&gt;
+
+(2)&lt;DCFR 2023-12-07/09, art. 2, 010; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFR 2024-04-04/38, art. 10, 011; En vigueur : 09-06-2024&gt;
+
+##### Section 6. - L'isolement
+
+**Art. 69**
+
+§ 1er. Une mesure d'isolement dans la chambre du jeune ne peut être prise par le directeur de l'institution publique que lorsque le jeune compromet sa sécurité physique ou celle d'autrui.
+
+La mesure d'isolement ne s'effectue dans un local spécifique que lorsque l'isolement dans la chambre du jeune ne permet pas d'assurer sa sécurité physique ou celle d'autrui.
+
+L'enfermement du jeune dans sa chambre ne constitue une mesure d'isolement que lorsqu'il dure plus [<sup>1</sup> de trois heures et pour autant que la mesure de moins de trois heures se justifie uniquement par des raisons pédagogiques et ne constitue pas une sanction déguisée]<sup>1</sup>.
+
+§ 2. Le directeur de l'institution publique informe sur-le-champ le juge en charge du dossier du jeune et l'avocat de celui-ci.
+
+La mesure d'isolement fait l'objet d'un rapport écrit adressé au juge en charge du dossier du jeune et à l'avocat de celui-ci.
+
+Une copie du rapport relatif à l'isolement est transmise à l'administration compétente.
+
+[<sup>1</sup> § 2/1. Par dérogation au paragraphe 1er qui prévoit que la mesure d'isolement est prise par le directeur, une mesure d'isolement peut être prise, en dernier recours, par le membre du personnel qui constate une atteinte imminente ou effective à l'ordre ou la sécurité et qui estime qu'une réaction immédiate doit être apportée afin de maintenir l'ordre ou la sécurité.
+
+La mesure d'isolement est confirmée par le directeur au plus tard dans les trois heures qui suivent le début de la mesure.]<sup>1</sup>
+
+§ 3. La mesure d'isolement est levée dès que la situation qui la motive cesse et au plus tard dans les septante-deux heures qui suivent le début de la mesure.
+
+Le directeur de l'institution publique ne peut prolonger la mesure d'isolement au-delà d'une durée de vingt-quatre heures sans l'accord du juge en charge du dossier du jeune.
+
+Le directeur de l'institution publique informe par écrit le juge en charge du dossier du jeune et l'avocat de celui-ci de la fin de la mesure d'isolement.
+
+§ 4. Le jeune faisant l'objet d'une mesure d'isolement reçoit la visite quotidienne du directeur de l'institution publique et d'un membre de l'équipe pluridisciplinaire.
+
+Le personnel assure une surveillance renforcée en vue de garantir la sécurité du jeune.
+
+[<sup>1</sup> Lorsque le jeune fait l'objet d'une mesure d'isolement parce qu'il a compromis sa sécurité physique, il reçoit la visite d'un médecin ou, lorsqu'il est absent, d'un infirmier qualifié intervenant sous la responsabilité d'un médecin dans les meilleurs délais et au plus tard dans les vingt-quatre heures qui suivent le début de la mesure. Après avoir reçu la visite d'un infirmier qualifié, le jeune reçoit la visite d'un médecin dans les meilleurs délais.]<sup>1</sup>
+
+§ 5. Un accompagnement éducatif est garanti pendant toute la durée de la mesure d'isolement. [<sup>1</sup> Un membre de l'équipe éducative rend visite au jeune au moins toutes les deux heures entre 8 heures et 22 heures et procède avec lui à des entretiens individuels et à des activités éducatives, en ce compris, le cas échéant, des activités individuelles encadrées à l'intérieur de l'institution publique.]<sup>1</sup>
+
+Le jeune bénéficie de la possibilité de passer au moins une heure par jour en plein air.
+
+La mesure d'isolement ne prive pas le jeune du droit d'avoir des contacts avec l'extérieur, sauf si ces contacts sont suspendus ou font l'objet d'une restriction justifiée par les besoins du maintien de l'ordre et de la sécurité.
+
+[<sup>2</sup> Les contacts avec des personnes suivantes ne peuvent être interdits :
+
+1° les membres de la commission de surveillance visée à l'article 73 ;
+
+2° les membres de la commission de recours visée à l'article 90. ]<sup>2</sup>
+
+[<sup>1</sup> § 6. Pendant la mesure d'isolement dans un local spécifique, le jeune ne peut être en possession d'objets susceptibles de mettre en péril sa propre sécurité et celle d'autrui.
+
+Il reçoit une tenue vestimentaire décente et non stigmatisante.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-10-14/22, art. 9, 005; En vigueur : 05-12-2021&gt;
+
+(2)&lt;DCFR 2023-12-07/09, art. 3, 010; En vigueur : 01-01-2024&gt;
+
+##### Section 7. - Les sanctions
+
+**Art. 70**
+
+§ 1er. Toute sanction contribue à la finalité d'éducation et de réinsertion de la mesure et ne peut être imposée qu'à titre individuel.
+
+La sanction ne peut avoir un caractère humiliant ou vexatoire.
+
+L'isolement ne peut être ordonné à titre de sanction.
+
+[<sup>1</sup> Les sanctions et mesures sont adaptées à la maturité du mineur et proportionnées à la gravité des faits. Toutes les formes de violence physique ou psychique sont interdites. ]<sup>1</sup>
+
+§ 2. Pour déterminer la nature et la durée de la sanction, le directeur tient compte de la nature et de la gravité du comportement du jeune ainsi que des circonstances dans lesquelles il a eu lieu et privilégie une approche restauratrice.
+
+§ 3. L'exécution d'une sanction ne prive pas le jeune du droit d'avoir des contacts avec l'extérieur, sauf si ces contacts sont suspendus ou font l'objet d'une restriction justifiée par les besoins du maintien de l'ordre et de la sécurité.
+
+----------
+
+(1)&lt;DCFR 2023-10-05/23, art. 22, 009; En vigueur : 02-02-2024&gt;
+
+##### Section 7/1. [<sup>1</sup> La participation des jeunes ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 21, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 70/1**
+
+[<sup>1</sup> . § 1er. L'institution publique organise une concertation régulière permettant aux jeunes de s'exprimer sur les questions d'intérêt collectif.
+
+Les modalités de la concertation sont fixées par le règlement d'ordre intérieur de l'institution publique.
+
+§ 2. L'institution publique permet et favorise l'expression individuelle du jeune sur toutes questions l'intéressant et notamment quant aux conditions d'hébergement et au contenu de sa prise en charge, en en garantissant l'anonymat.
+
+Les modalités du recueil de la parole du jeune sont fixées par le règlement d'ordre intérieur de l'institution publique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 22, 008; En vigueur : 19-01-2024&gt;
+
+##### Section 8. - Le règlement général des institutions publiques
+
+**Art. 71**
+
+Les institutions publiques sont tenues de respecter le règlement général des institutions publiques arrêté par le Gouvernement.
+
+Le règlement général détermine :
+
+1° le contenu et les modalités d'approbation des projets éducatifs des institutions publiques;
+
+2° la composition de l'équipe pluridisciplinaire;
+
+3° les rubriques que comprennent les rapports transmis au tribunal de la jeunesse;
+
+4° les modalités de la prise en charge des jeunes parmi lesquelles l'accueil, les effets personnels dont le jeune peut disposer, la pratique religieuse et philosophique, l'enseignement, la santé et l'hygiène, et l'argent de poche;
+
+5° les modalités des contacts des jeunes avec l'extérieur, c'est-à-dire de la correspondance, des visites et des communications téléphoniques;
+
+6° les conditions et modalités des sorties;
+
+7° la procédure entourant la mesure d'isolement et son contrôle, les locaux et les conditions dans lesquelles elle se déroule;
+
+8° les comportements qui peuvent donner lieu à une sanction et les sanctions qui peuvent être imposées ainsi que la procédure entourant la sanction et son contrôle;
+
+9° les modalités de la transmission d'informations relatives aux absences non autorisées ainsi que le délai dans lequel est maintenue la place d'un jeune absent sans autorisation;
+
+10° les modalités de collaboration des institutions publiques avec les autorités administratives et judiciaires et l'ensemble des services du secteur;
+
+11° les éléments relatifs à l'évaluation, la participation et les pratiques innovantes dans les institutions publiques;
+
+12° les modalités d'évaluation du respect des dispositions du règlement général des institutions publiques.
+
+Le Gouvernement établit un document reprenant les éléments du règlement général liés aux droits et aux obligations du jeune durant son hébergement et au déroulement de la mesure dont il fait l'objet, rédigé dans un langage accessible.
+
+Ce document est remis à chaque jeune lors de son admission dans l'institution publique.
+
+##### Section 9. - L'inspection et la surveillance des institutions publiques
+
+###### Sous-section 1ère. - L'inspection des institutions publiques
+
+**Art. 72**
+
+L'administration compétente vérifie la mise en oeuvre et le respect de l'ensemble des dispositions prévues par le présent code ou en vertu de celui-ci concernant les institutions publiques, notamment par le biais d'une présence régulière sur le terrain.
+
+###### Sous-section 2. - La surveillance des institutions publiques
+
+**Art. 73**
+
+Sans préjudice des missions de contrôle confiées à d'autres autorités, la surveillance des institutions publiques est exercée par une commission instituée auprès du délégué général, dénommée " commission de surveillance ".
+
+[<sup>1</sup> Pour garantir son indépendance et assurer sa visibilité auprès des jeunes, la Commission de surveillance est notamment autorisée à disposer et utiliser un site internet et logo propre.
+
+Conformément à l'article 157, les membres de la commission de surveillance sont soumis au secret professionnel. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-12-07/09, art. 4, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 74**
+
+Les missions de la commission de surveillance sont les suivantes :
+
+1° exercer un contrôle indépendant sur les conditions de privation de liberté des jeunes et sur le respect de leurs droits dans les institutions publiques;
+
+2° émettre, soit d'initiative, soit à la demande du Gouvernement ou du parlement, des avis et recommandations relatifs aux conditions de privation de liberté des jeunes et au respect de leurs droits dans les institutions publiques;
+
+3° organiser la conciliation entre le jeune et le directeur, visée à l'article 79 ou à l'article 82 et, le cas échéant, orienter le jeune vers la procédure de réclamation visée aux articles 80 à 89;
+
+4° établir un rapport annuel de ses activités, qu'elle adresse au parlement et au Gouvernement.
+
+Les avis et recommandations ainsi que le rapport annuel sont publiés sur le site internet de l'administration.
+
+**Art. 75**
+
+Chaque institution publique fait l'objet d'une visite, non annoncée, par un membre de la commission de surveillance au moins une fois par mois, en particulier dans le but d'accomplir la mission visée à l'article 74, alinéa 1er, 1°.
+
+**Art. 76**
+
+§ 1er. [<sup>2</sup> Pour autant que cela soit nécessaire à l'accomplissement des missions de la commission de surveillance, ses membres ont librement accès aux institutions publiques et, moyennant autorisation préalable du jeune, à l'espace de séjour du jeune et ont le droit de consulter sur place, sauf exceptions prévues par le décret, tous documents se rapportant aux institutions publiques y compris le registre des sanctions disciplinaires et, moyennant autorisation préalable écrite du jeune, toutes les pièces contenant des informations personnelles concernant le jeune, hormis les documents sous la mention " confidentiel " à la demande des autorités judiciaires.
+
+Conformément à l'article 157, les membres de la commission de surveillance sont soumis au secret professionnel.
+
+Pour autant que cela soit nécessaire à l'accomplissement des missions de la commission de surveillance, l'accès au dossier médical et documents s'y rapportant est réservé au médecin moyennant l'accord préalable et écrit du jeune. La demande d'accès est motivée par écrit.]<sup>2</sup>
+
+§ 2. Les membres de la commission de surveillance ont le droit d'entretenir une correspondance avec les jeunes sans contrôle et d'entrer en contact avec eux sans surveillance.
+
+----------
+
+(1)&lt;DCFR 2021-10-14/22, art. 10, 005; En vigueur : 05-12-2021&gt;
+
+(2)&lt;DCFR 2023-12-07/09, art. 5, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 77**
+
+La commission de surveillance est présidée par le délégué général.
+
+Les membres de la commission de surveillance sont désignés par le parlement à la majorité des deux tiers, sur présentation du Gouvernement pour la moitié, pour un terme de six ans, renouvelable une fois.
+
+Ils sont choisis sur la base de leur connaissance ou de leur expérience de la problématique de la privation de liberté ou de la protection de la jeunesse et des garanties d'indépendance qu'ils offrent.
+
+La commission de surveillance compte parmi ses membres au moins un magistrat, un avocat, un médecin, un psychologue et un criminologue.
+
+La commission de surveillance ne peut compter plus de deux tiers de membres du même sexe.
+
+**Art. 78**
+
+Le Gouvernement détermine les autres règles relatives à la composition et au fonctionnement de la commission de surveillance, en ce compris les incompatibilités destinées à garantir l'indépendance de ses membres, la procédure de nomination, les modalités de rétribution et les causes de révocation de ces derniers.
+
+##### Section 10. - La contestation des décisions prises à l'égard du jeune par le directeur de l'institution publique
+
+###### Sous-section 1ère. - La conciliation
+
+**Art. 79**
+
+Le jeune qui souhaite contester une décision prise à son égard par le directeur de l'institution publique peut à tout moment demander à la commission de surveillance d'organiser une conciliation.
+
+[<sup>1</sup> Toutefois, si le jeune introduit également une réclamation auprès du fonctionnaire dirigeant ou de son délégué conformément à l'article 80, ou un recours auprès de la commission de recours conformément à l'article 90, il demande la conciliation au plus tard le jour de l'introduction de la réclamation ou du recours. Dans ce cas, la réclamation ou le recours mentionne la demande de conciliation.
+
+Dans les cas visés à l'alinéa 2, le processus de conciliation ne peut durer plus de trente jours et la commission de surveillance informe le fonctionnaire dirigeant ou son délégué, ou la commission de recours de l'issue du processus de conciliation dès la fin de celui-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-12-07/09, art. 6, 010; En vigueur : 01-01-2024&gt;
+
+###### Sous-section 2. - La réclamation interne
+
+**Art. 80**
+
+§ 1er. Le jeune peut introduire une réclamation auprès du fonctionnaire dirigeant ou de son délégué contre toute décision prise à son égard par le directeur de l'institution publique qu'il estime illégale, déraisonnable ou inéquitable.
+
+L'omission ou le refus de prise de décision dans le délai visé à l'article 64 sont assimilés aux décisions visées à l'alinéa 1er.
+
+§ 2. La réclamation est introduite par écrit dans les sept jours qui suivent le jour où le jeune a eu connaissance de la décision.
+
+La réclamation introduite après ce délai est néanmoins recevable s'il apparaît, compte tenu de toutes les circonstances, que le jeune l'a introduite aussi rapidement que ce qui pouvait raisonnablement être exigé de lui.
+
+§ 3. La réclamation mentionne de manière aussi précise que possible la décision sur laquelle elle porte ainsi que les motifs de la réclamation.
+
+Le jeune peut bénéficier pour la rédaction de la réclamation de l'assistance de son avocat ou d'un service extérieur.
+
+**Art. 81**
+
+Dès réception de la réclamation, une copie de celle-ci est transmise au directeur de l'institution publique.
+
+Au plus tard dans les quarante-huit heures de la réception de la réclamation, le directeur de l'institution publique communique par écrit au fonctionnaire dirigeant ou à son délégué les informations et observations qu'il estime utiles pour l'appréciation du bien-fondé de la réclamation.
+
+Ces informations et observations sont immédiatement communiquées par écrit au jeune et, le cas échéant, à son avocat.
+
+**Art. 82**
+
+Le fonctionnaire dirigeant ou son délégué, saisi d'une réclamation, peut proposer au jeune et au directeur de l'institution publique de transmettre la réclamation à la commission de surveillance afin qu'elle organise une conciliation.
+
+**Art. 83**
+
+Sauf s'il estime, sans qu'un examen plus approfondi soit requis, que la réclamation est manifestement non recevable, manifestement non fondée ou manifestement fondée, le fonctionnaire dirigeant ou son délégué offre au jeune et au directeur de l'institution publique la possibilité de formuler des observations orales à propos de la réclamation.
+
+Le fonctionnaire dirigeant ou son délégué peut entendre le jeune et le directeur de l'institution publique en l'absence l'un de l'autre.
+
+Le fonctionnaire dirigeant ou son délégué peut, soit d'office, soit à la demande du jeune ou du directeur de l'institution publique, recueillir des informations orales ou écrites auprès de tiers.
+
+**Art. 84**
+
+Le jeune et le directeur de l'institution publique ont le droit de consulter les pièces de la procédure, conformément aux modalités déterminées par le Gouvernement.
+
+**Art. 85**
+
+Le jeune a le droit de se faire assister par un avocat ou une personne de confiance qu'il choisit lui-même, à l'exception d'un autre jeune hébergé en institution publique.
+
+**Art. 86**
+
+Dans l'attente de sa décision, le fonctionnaire dirigeant ou son délégué peut, à la demande du jeune et après avoir entendu le directeur de l'institution publique, suspendre en tout ou en partie l'exécution de la décision sur laquelle porte la réclamation.
+
+Il prend en compte le risque de préjudice dans le chef du jeune et les exigences de sécurité.
+
+Il en informe immédiatement le jeune et le directeur de l'institution publique.
+
+**Art. 87**
+
+Le fonctionnaire dirigeant ou son délégué statue sur la réclamation dans les meilleurs délais et au plus tard dans les dix jours ouvrables qui suivent l'introduction de la réclamation.
+
+La conciliation demandée par le jeune en vertu de l'article 79 ou par le fonctionnaire dirigeant ou son délégué en vertu de l'article 82 suspend le délai visé à l'alinéa 1er.
+
+La décision mentionne les modalités d'introduction du recours externe.
+
+Une copie de la décision est adressée sans délai et gratuitement au directeur de l'institution publique, au jeune et, le cas échéant, à son avocat.
+
+**Art. 88**
+
+La réclamation est déclarée fondée lorsque le fonctionnaire dirigeant ou son délégué estime que la décision sur laquelle elle porte est illégale, déraisonnable ou inéquitable.
+
+Dans ce cas, le fonctionnaire dirigeant ou son délégué annule, complètement ou partiellement, ladite décision et prend, le cas échéant, une nouvelle décision qui se substitue à la décision annulée.
+
+En cas d'annulation de la décision, les conséquences de la décision annulée sont autant que possible supprimées ou rendues conformes à la décision du fonctionnaire dirigeant ou de son délégué.
+
+Dans la mesure où il ne peut être remédié aux conséquences de la décision annulée, le fonctionnaire dirigeant ou son délégué détermine, après avoir entendu le jeune et le directeur de l'institution publique, s'il y a lieu d'accorder au jeune une quelconque compensation, à l'exclusion de toute indemnisation financière.
+
+**Art. 89**
+
+Le Gouvernement détermine les autres règles relatives à la procédure de réclamation.
+
+###### Sous-section 3. - Le recours externe
+
+**Art. 90**
+
+[<sup>1</sup> Il est institué une commission de recours externe indépendante. La commission de recours est une juridiction administrative.
+
+Pour autant que cela soit nécessaire à l'accomplissement des missions de la commission de recours, ses membres ont librement accès aux institutions publiques et, moyennant autorisation préalable du jeune, à la chambre du jeune et ont le droit de consulter sur place, sauf exceptions prévues par le décret, tous les documents se rapportant aux institutions publiques, y compris le registre des sanctions disciplinaires et, moyennant autorisation préalable écrite du jeune, toutes les pièces contenant des informations personnelles concernant les jeunes.
+
+Conformément à l'article 157, les membres de la commission de recours sont soumis au secret professionnel.
+
+Dans le respect du principe du contradictoire, les membres de la commission de recours ont le droit d'entretenir une correspondance avec les jeunes sans contrôle et d'entrer en contact avec eux sans surveillance. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-12-07/09, art. 7, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91**
+
+[<sup>1</sup> § 1er. Le jeune peut introduire en premier ressort un recours auprès de la commission de recours contre toute décision prise à son égard par le directeur de l'institution publique qu'il estime illégale, déraisonnable ou inéquitable.
+
+L'omission ou le refus de prise de décision dans le délai visé à l'article 64 sont assimilés aux décisions visées à l'alinéa 1er.
+
+§ 2. Le recours est introduit par écrit dans les sept jours qui suivent le jour où le jeune a eu connaissance de la décision.
+
+Le recours introduit après ce délai est néanmoins recevable s'il apparaît, compte tenu de toutes les circonstances, que le jeune l'a introduit aussi rapidement que ce qui pouvait raisonnablement être exigé de lui.
+
+§ 3. Le recours mentionne de manière aussi précise que possible la décision sur laquelle elle porte ainsi que les motifs du recours externe.
+
+Le jeune peut bénéficier pour la rédaction du recours externe de l'assistance de son avocat ou d'un service extérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-12-07/09, art. 8, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91/1**
+
+[<sup>1</sup> Si le jeune a fait le choix de la réclamation interne visée à l'article 80, il peut ensuite introduire un recours contre la décision du fonctionnaire dirigeant ou de son délégué auprès de la commission de recours.
+
+L'omission ou le refus de prise de décision dans le délai visé à l'article 87 sont assimilés aux décisions visées à l'alinéa 1er.
+
+Le recours est introduit par écrit dans les sept jours qui suivent le jour de la réception de la copie de la décision visée à l'article 87, alinéa 4, et mentionne de manière aussi précise que possible ses motifs.
+
+Le recours introduit après ce délai est néanmoins recevable s'il apparaît, compte tenu de toutes les circonstances, que le jeune l'a introduit aussi rapidement que ce qui pouvait raisonnablement être exigé de lui.
+
+Le jeune peut bénéficier pour la rédaction du recours externe de l'assistance de son avocat ou d'un service extérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 9, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91/2**
+
+[<sup>1</sup> Dès réception d'un recours, une copie de celui-ci est transmise par voie électronique au directeur de l'institution publique et au fonctionnaire dirigeant ou à son délégué.
+
+Au plus tard dans les quarante-huit heures de la réception du recours, le directeur de l'institution publique et le fonctionnaire dirigeant ou son délégué, communiquent par écrit à la commission de recours les informations et observations qu'ils estiment utiles pour l'appréciation du bien-fondé du recours externe.
+
+Ces informations et observations sont immédiatement communiquées par écrit au jeune et, le cas échéant, à son avocat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 10, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91/3**
+
+[<sup>1</sup> La commission de recours, saisi d'un recours, peut proposer au jeune, au directeur de l'institution publique et au fonctionnaire dirigeant ou à son délégué de transmettre le recours à la commission de surveillance afin qu'elle organise une conciliation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 11, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91/4**
+
+[<sup>1</sup> Sauf s'il estime, sans qu'un examen plus approfondi soit requis, que le recours est manifestement non recevable, manifestement non fondé ou manifestement fondé, la commission de recours offre au jeune, au directeur de l'institution publique et le fonctionnaire dirigeant la possibilité de formuler des observations orales à propos du recours.
+
+La commission de recours peut entendre le jeune, le directeur de l'institution publique et le fonctionnaire dirigeant ou son délégué en l'absence les uns et des autres. En ce cas, la possibilité leur est donnée de faire préalablement part des questions qu'ils souhaitent voir poser, et le contenu pratique de la déclaration ainsi faite est communiqué oralement au jeune, au directeur et au fonctionnaire dirigeant ou son délégué par le président de la commission de recours.
+
+La commission de recours peut, soit d'office, soit à la demande du jeune ou du directeur de l'institution publique, du fonctionnaire dirigeant ou de son délégué, recueillir des informations orales ou écrites auprès de tiers. En ce cas, la possibilité leur est donnée de faire préalablement part des questions qu'ils souhaitent voir poser, et le contenu pratique de la déclaration ainsi faite est communiqué oralement au jeune, au directeur et au fonctionnaire dirigeant ou son délégué par le président de la commission de recours. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 12, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91/5**
+
+[<sup>1</sup> Le jeune, le directeur de l'institution publique et le fonctionnaire dirigeant ou son délégué ont le droit de consulter les pièces de la procédure, conformément aux modalités déterminées par l'article 94/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 13, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91/6**
+
+[<sup>1</sup> Le jeune a le droit de se faire assister par un avocat ou une personne de confiance qu'il choisit lui-même, à l'exception d'un autre jeune hébergé en institution publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 14, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91/7**
+
+[<sup>1</sup> Dans l'attente de sa décision, la commission de recours peut, à la demande du jeune et après avoir entendu le directeur de l'institution publique et/ou le fonctionnaire dirigeant ou son délégué, suspendre en tout ou en partie l'exécution de la décision sur laquelle porte le recours.
+
+Il prend en compte le risque de préjudice dans le chef du jeune et les exigences de sécurité.
+
+Il en informe le jeune, l'avocat du jeune, le directeur de l'institution publique et le fonctionnaire dirigeant. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 15, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 91/8**
+
+[<sup>1</sup> Le recours est déclaré fondé lorsque la commission de recours estime que la décision sur laquelle elle porte est illégale, déraisonnable ou inéquitable.
+
+Dans ce cas, lorsque la commission de recours annule, complètement ou partiellement, ladite décision et prend, le cas échéant, une nouvelle décision qui se substitue à la décision annulée.
+
+En cas d'annulation de la décision, les conséquences de la décision annulée sont autant que possible supprimées ou rendues conformes à la décision de la commission de recours.
+
+Dans la mesure où il ne peut être remédié aux conséquences de la décision annulée, la commission de recours détermine, après avoir entendu le jeune, le directeur de l'institution publique et le fonctionnaire dirigeant, s'il y a lieu d'accorder au jeune une quelconque compensation, à l'exclusion de toute indemnisation financière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 16, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 92**
+
+[<sup>1</sup> La commission de recours]<sup>1</sup> statue dans les meilleurs délais et au plus tard dans les dix jours ouvrables qui suivent l'introduction du recours.
+
+Une copie de la décision est adressée sans délai et gratuitement au directeur [<sup>1</sup> au fonctionnaire dirigeant ou à son délégué]<sup>1</sup> de l'institution publique, au jeune et, le cas échéant, à son avocat.
+
+----------
+
+(1)&lt;DCFR 2023-12-07/09, art. 17, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 92/1**
+
+[<sup>1</sup> Si la commission de recours fait droit au recours, l'autorité concernée exécute la décision de la commission de recours le plus rapidement possible et au plus tard trente jours après la notification de la décision. Si la commission de recours estime que la décision ne peut être exécutée dans le délai maximum de trente jours, il peut le proroger d'un délai de quinze jours, moyennant motivation de sa décision.
+
+L'autorité administrative informe la commission de recours, endéans le délai déterminé conformément à l'alinéa 1er, de la suite réservée à toute décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 18, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 93**
+
+[<sup>1</sup> Les membres de la commission de recours sont désignés par le Parlement à la majorité des deux tiers, sur présentation du Gouvernement pour la moitié, pour un terme de six ans, renouvelable une fois.
+
+Ils sont choisis sur la base de leur connaissance ou de leur expérience de la problématique de la privation de liberté ou de la protection de la jeunesse et des garanties d'indépendance qu'ils offrent.
+
+La commission de recours est présidée par un membre effectif de la magistrature assise, disposant d'une expérience en matière de protection de la jeunesse.
+
+La commission de recours est composée, outre son président, de deux membres :
+
+1° un criminologue ;
+
+2° un juriste.
+
+Un membre suppléant est désigné pour chaque membre effectif.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-12-07/09, art. 19, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 93/1**
+
+[<sup>1</sup> En vue de la désignation des membres de la commission de recours, le secrétariat organise un appel public à candidatures.
+
+Au terme de cet appel, le Gouvernement communique au Parlement une liste comprenant ses propositions pour l'un des mandats effectifs autres que celui du président et un mandat suppléant à raison de deux candidats par mandat à pourvoir.
+
+Le Parlement procède ensuite à la nomination des membres selon la procédure qu'il détermine. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 20, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 93/2**
+
+[<sup>1</sup> Les membres de la commission de recours disposent d'un casier judiciaire exempt de condamnations pour un crime ou un délit.
+
+Ils joignent à leur candidature un extrait de casier judiciaire visé aux articles 595, alinéa 1er, et 596, alinéa 2, du Code d'instruction criminelle, datant d'au maximum un mois.
+
+La qualité de membre de la commission de recours incompatible avec celle :
+
+1° de commissaire européen, de membre d'un gouvernement fédéral, régional ou communautaire, de gouverneur de province, de député provincial, de membre d'un collège du bourgmestre et échevins ;
+
+2° de membre du cabinet d'un mandataire visé sous 1° ;
+
+3° de membre du Parlement européen, d'une assemblée parlementaire fédérale, régionale ou communautaire, d'un conseiller provincial, d'un conseiller communal ou d'un conseiller de l'action sociale ;
+
+4° d'attaché d'un mandataire visé sous 3° ;
+
+5° d'agent des services du Gouvernement de la Communauté française, même détaché ;
+
+6° de membre d'un service public ou agréé prévu par ou en vertu du décret du 18 janvier 2018 et du décret du 14 mars 2019 ;
+
+7° de membre de la commission de surveillance visée par le décret du 18 janvier 2018 et du décret du 14 mars 2019.
+
+Le membre de la commission de recours ne peut pas avoir été pénalement condamné, en vertu d'une décision de justice coulée en force de chose jugée, ne peut pas être membre d'un organisme, d'une association, d'un parti ou d'un groupe politique qui marque une hostilité manifeste ou qui a été condamné pénalement, en vertu d'une décision de justice coulée en force de chose jugée, vis-à-vis des principes de la démocratie tels qu'énoncés notamment par la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, par les Protocoles additionnels à cette Convention en vigueur en Belgique, par la Constitution, par la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie ou par la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation de génocide commis par le régime national socialiste allemand pendant la seconde guerre mondiale, et par le décret de la Communauté française du 12 décembre 2008 relatif à la lutte contre certaines formes de discrimination. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 21, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 93/3**
+
+[<sup>1</sup> Le Parlement peut mettre fin au mandat d'un membre de la commission de recours ou le révoquer suivant une procédure qu'il détermine dans les cas suivants :
+
+1° s'il porte atteinte à la dignité de sa fonction ;
+
+2° s'il ne respecte pas le caractère confidentiel des délibérations ou diffuse des documents confidentiels auxquels il a accès dans l'exercice de son mandat ;
+
+3° s'il participe aux délibérations de la commission en contrariété des règles visant à garantir l'impartialité et éviter tout conflit d'intérêt ;
+
+4° si un critère d'incompatibilité ou d'exclusion apparait ;
+
+5° si le membre présente sa démission.
+
+Si en cours de mandat, un membre de la commission de recours démissionne ou cesse pour une raison quelconque d'en être membre, le Gouvernement communique au Parlement une liste comprenant ses propositions pour le mandat à remplacer à raison de deux candidats.
+
+Le Parlement procède ensuite à la nomination de ce membre selon la procédure qu'il détermine.
+
+Le membre ainsi nommé achève le mandat de la personne qu'il remplace. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 22, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 93/4**
+
+[<sup>1</sup> Pour garantir l'indépendance et la visibilité de la Commission dans ses missions et décisions, la commission de recours est notamment autorisée à disposer et utiliser d'un logo et d'un site internet propre.
+
+Chaque année et au plus tard le 31 mars, la commission de recours fournit au Parlement un rapport anonymisé portant sur les recours qui ont été introduits au cours de l'année civile précédente. La commission de recours transmet une copie de son rapport au Parlement et à la Commission de surveillance instituée par l'article 73 et par l'article 121 du décret du 14 mars 2019 relatif à la prise en charge des jeunes ayant fait l'objet d'un dessaisissement.
+
+La commission de recours publie sur un site Internet ainsi que dans son rapport annuel, au moins les informations suivantes :
+
+1° les informations relatives à l'introduction d'un recours ;
+
+2° ses décisions sur les recours, préalablement anonymisées et rendues non identifiables en raison d'éléments de contexte ;
+
+3° son rapport annuel et ses éventuelles recommandations ;
+
+4° la liste des institutions publiques qui resteraient en défaut d'exécuter une décision qui n'est plus susceptible de recours visée à l'article 92 endéans le délai fixé à l'article 92/1. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 23, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 93/5**
+
+[<sup>1</sup> § 1er. Les membres de la commission de recours peuvent prétendre aux rétributions et indemnités suivantes :
+
+1° une rétribution de 40 euros par demi-journée de participation aux travaux de la commission de recours ;
+
+2° une indemnité couvrant les déplacements effectués en vue de la participation aux travaux de la commission de recours, consistant :
+
+a) soit, au prix d'un billet en deuxième classe, lorsque le déplacement est effectué en train ;
+
+b) soit, au prix d'un trajet de bus, tram ou métro, lorsque le déplacement est effectué en transport en commun ;
+
+c) soit, à l'indemnité kilométrique au sein des services du Gouvernement, lorsque le déplacement est effectué au moyen du véhicule personnel du membre.
+
+§ 2. Les rétributions et indemnités visées au paragraphe 1er sont versées trimestriellement, sur la base des déclarations de créance adressées au secrétariat général par les membres.
+
+§ 3. Le montant de la rétribution visée au § 1er, 1°, est lié aux fluctuations de l'indice des prix à la consommation, conformément aux dispositions de la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses du service public.
+
+Ce montant est rattaché à l'indice 138,01. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 24, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 94**
+
+[<sup>1</sup> Le secrétariat de la commission de recours est assuré par un agent des services du Gouvernement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-12-07/09, art. 25, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 94/1**
+
+[<sup>1</sup> Le secrétariat accuse réception du recours et transmet les pièces aux parties au recours.
+
+Il convoque ensuite les membres de la commission de recours.
+
+L'audience se tient à huis clos.
+
+La commission de recours délibère à huis clos et dans les délais prescrits.
+
+La commission de recours ne délibère valablement que si tous les membres sont présents.
+
+Les décisions de la commission de recours sont prises à la majorité des membres.
+
+Les décisions de la commission de recours sont rédigées avec l'assistance du secrétariat.
+
+Le secrétariat communique aux parties les décisions signées par le Président.
+
+Le secrétariat publie ensuite la jurisprudence anonymisée sur le site internet. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 26, 010; En vigueur : 01-01-2024&gt;
+
+**Art. 94/2**
+
+[<sup>1</sup> Les membres de la commission de recours ne peuvent traiter les recours à la résolution desquels ils ont un intérêt personnel ou à la résolution desquels leur conjoint, leurs parents ou leurs alliés jusqu'au troisième degré inclus, ont pareil intérêt.
+
+Le président ne peut traiter le recours d'un jeune à l'égard duquel il a déjà pris une décision protectionnelle relative à un fait qualifié infraction. Les autres membres ne peuvent traiter la demande d'un jeune pour lequel ils sont en charge du suivi.
+
+En cas d'empêchement ou d'absence d'un membre, celui-ci est remplacé par son suppléant.
+
+Lorsqu'un membre effectif est ponctuellement absent, il est remplacé par son suppléant pour la ou les séance(s) concernée(s). En cas d'empêchement, le membre effectif avertit le secrétariat de la commission de recours et le membre suppléant auquel il est attaché, de son absence au plus tard quarante-huit heures avant la tenue de la réunion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-07/09, art. 27, 010; En vigueur : 01-01-2024&gt;
+
+### Titre 3. - Les offres restauratrices et les mesures relevant de la compétence du ministère public
+
+#### Chapitre 1er. - La lettre d'avertissement et le rappel à la loi
+
+**Art. 95**
+
+Le ministère public peut adresser au jeune soupçonné d'avoir commis un fait qualifié infraction une lettre d'avertissement dans laquelle il indique qu'il a pris connaissance des faits, qu'il estime ces faits établis à sa charge et qu'il a décidé de classer le dossier sans suite.
+
+Une copie de la lettre d'avertissement est transmise aux personnes qui exercent l'autorité parentale à l'égard du jeune ou aux personnes qui l'hébergent en droit ou en fait.
+
+**Art. 96**
+
+Le ministère public peut convoquer le jeune soupçonné d'avoir commis un fait qualifié infraction et les personnes qui exercent l'autorité parentale à son égard et leur notifier un rappel à la loi et les conséquences possibles d'un fait qualifié infraction.
+
+Une copie de la convocation est transmise aux personnes qui hébergent le jeune en droit ou en fait.
+
+#### Chapitre 2. - L'offre restauratrice de médiation
+
+**Art. 97**
+
+§ 1er. La médiation permet au jeune soupçonné d'avoir commis un fait qualifié infraction, aux personnes qui exercent l'autorité parentale à son égard, aux personnes qui l'hébergent en droit ou en fait ainsi qu'à la victime d'envisager, ensemble et avec l'aide d'un médiateur neutre, les possibilités de rencontrer les conséquences notamment relationnelles et matérielles du fait qualifié infraction.
+
+Une médiation ne peut être mise en oeuvre que si les personnes qui y participent y adhèrent de manière expresse et sans réserve, tout au long du processus.
+
+Lorsqu'une victime est identifiée, à la demande de celle-ci ou du jeune ou s'il l'estime opportun, le ministère public propose, par écrit, aux personnes visées à l'alinéa 1er de participer à une médiation.
+
+§ 2. Le ministère public informe le jeune et les autres personnes concernées par la proposition de médiation qu'elles ont le droit de se faire assister par un avocat à tout moment.
+
+§ 3. Le ministère public désigne le service agréé chargé d'organiser la médiation et adresse une copie des propositions écrites au service désigné.
+
+Si les personnes concernées ne prennent pas contact, dans les huit jours ouvrables de la réception des propositions écrites du ministère public, avec le service désigné, celui-ci prend contact avec elles, par tous les moyens.
+
+Dans les deux mois de sa désignation, le service désigné établit un rapport succinct relatif à l'état d'avancement de la médiation.
+
+§ 4. Si la médiation mène à un accord, celui-ci est signé par le jeune, par les personnes qui exercent l'autorité parentale à son égard ainsi que par la victime.
+
+Si l'accord comporte des dispositions relatives à l'indemnisation de la victime, il est signé en présence des avocats des personnes signataires.
+
+L'accord est approuvé par le ministère public. Celui-ci ne peut modifier son contenu et ne peut refuser d'approuver l'accord que s'il est contraire à l'ordre public.
+
+Le service désigné établit un rapport sur l'exécution de l'accord et l'adresse au ministère public.
+
+Ce rapport est joint au dossier de la procédure.
+
+Lorsque le jeune a exécuté l'accord de médiation selon les modalités prévues, le ministère public en dresse procès-verbal et, si la médiation a été proposée à son initiative, met fin à l'action publique.
+
+Une copie du procès-verbal est remise au jeune, aux personnes qui exercent l'autorité parentale à son égard, à la victime, au service désigné et, le cas échéant, à l'avocat du jeune. Au cas où cette remise n'a pu avoir lieu, la copie du procès-verbal est envoyée par voie postale.
+
+§ 5. Si la médiation ne mène pas à un accord, ni la reconnaissance de la matérialité du fait qualifié infraction, ni le déroulement ou le résultat de la médiation ne peuvent être utilisés par les autorités judiciaires ni par toute autre personne au préjudice du jeune.
+
+§ 6. Les documents établis et les communications faites dans le cadre d'une intervention du service chargé de la médiation sont confidentiels, à l'exception de ce que les parties consentent à porter à la connaissance des autorités judiciaires. Ils ne peuvent être utilisés dans une procédure pénale, civile, administrative ou arbitrale ou dans toute autre procédure visant à résoudre des conflits et ne sont pas admissibles comme preuve, même comme aveu extrajudiciaire.
+
+§ 7. Si le ministère public ne propose pas de médiation, il motive spécialement sa décision à cet égard. L'absence d'une telle motivation entraîne la nullité de la saisine du tribunal de la jeunesse.
+
+### Titre 4. - Les offres restauratrices et les mesures relevant de la compétence du tribunal de la jeunesse
+
+#### Chapitre 1er. - Les facteurs à prendre en compte et les investigations préalables
+
+**Art. 98**
+
+Pour proposer une offre restauratrice au jeune ou ordonner une mesure à son égard, le tribunal de la jeunesse prend en compte les facteurs suivants :
+
+1° l'intérêt du jeune;
+
+2° sa personnalité et son degré de maturité;
+
+3° son milieu de vie;
+
+4° la gravité des faits, leur répétition et leur ancienneté, les circonstances dans lesquelles ils ont été commis, les dommages et les conséquences pour la victime;
+
+5° les mesures antérieures prises à l'égard du jeune et son comportement durant l'exécution de celles-ci;
+
+6° la sécurité publique.
+
+La disponibilité des moyens en matière d'éducation et de traitement et de toutes autres ressources envisagées est également prise en compte.
+
+**Art. 99**
+
+Le tribunal de la jeunesse fait procéder à toutes les investigations utiles pour connaître la personnalité du jeune et son milieu de vie, déterminer son intérêt et les moyens appropriés à sa réinsertion sociale et à son éducation ou à son traitement.
+
+Il peut demander au service de la protection de la jeunesse, par l'intermédiaire du directeur, de réaliser une étude sociale, [<sup>1</sup> ...]<sup>1</sup>.
+
+Il peut également soumettre le jeune à un examen médico-psychologique ou à un examen médical.
+
+Lorsque le tribunal fait procéder à une étude sociale, il ne peut, sauf en cas d'extrême urgence, prendre ou modifier sa décision, qu'après avoir pris connaissance de cette étude, à moins qu'elle ne lui parvienne pas dans les quarante-cinq jours.
+
+Le Gouvernement détermine les rubriques que comprend l'étude sociale.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 23, 008; En vigueur : 19-01-2024&gt;
+
+**Art. 100**
+
+Lorsque le tribunal de la jeunesse envisage une mesure impliquant l'intervention d'un service public ou agréé, il consulte l'administration compétente, qui l'informe des disponibilités de prises en charge et le conseille quant au type de prise en charge approprié.
+
+Le Gouvernement détermine les modalités de la consultation visée à l'alinéa 1er et les modalités de la communication des services publics et agréés avec l'administration compétente.
+
+#### Chapitre 2. - Les offres restauratrices et mesures provisoires
+
+**Art. 101**
+
+§ 1er. [<sup>1</sup> Pendant la phase préparatoire, c'est-à-dire à partir de sa saisine jusqu'à la décision au fond, le tribunal de la jeunesse peut, à titre de mesure de garde ou d'investigation :
+
+1° soumettre le jeune, par l'intermédiaire du directeur, à la surveillance du service de la protection de la jeunesse;
+
+2° imposer au jeune d'effectuer une prestation d'intérêt général en rapport avec son âge et ses capacités, de trente heures au plus, organisée par un service agréé;
+
+3° imposer au jeune de participer à un module de formation ou de sensibilisation aux conséquences des actes accomplis et à leur impact sur les victimes, organisé par un service agréé;
+
+[<sup>4</sup> 3/1 soumettre le jeune à une mission d'investigation et d'évaluation dans le milieu de vie, réalisée par une équipe mobile d'accompagnement, mise en place selon les modalités fixée par le Gouvernement.]<sup>4</sup>
+
+4° soumettre le jeune à un accompagnement ou à une guidance aux fins d'observation, mis en place [<sup>3</sup> en vertu de l'article 120, alinéa 1er, 1°, 2°, [<sup>5</sup> 4° et 6°]<sup>5</sup> ]<sup>3</sup> ;
+
+5° soumettre le jeune à des conditions en vue de son maintien dans son milieu de vie, conformément à l'article 121;
+
+5/1°[<sup>4</sup> ...]<sup>4</sup>
+
+6° éloigner le jeune de son milieu de vie, en respectant la hiérarchie prévue à l'article 122.
+
+Les mesures visées aux 1° à 5° de l'alinéa 1er sont privilégiées par rapport à la mesure d'éloignement du milieu de vie.]<sup>1</sup>
+
+Aucune mesure provisoire ne peut être prise en vue d'exercer une sanction immédiate.
+
+Une mesure provisoire ne peut être prise que si sa finalité ne peut être atteinte d'une autre manière et pour une durée aussi brève que possible.
+
+Le tribunal de la jeunesse détermine la durée de toute mesure provisoire qu'il ordonne.
+
+Lorsqu'il prend une mesure provisoire, le tribunal tient compte des facteurs visés à l'article 98.
+
+§ 2. [<sup>2</sup> La prestation d'intérêt général et le module de formation ou de sensibilisation ne peuvent être ordonnés à titre de mesure provisoire que dans le but de permettre la réalisation des investigations visées à l'article 99.]<sup>2</sup>
+
+§ 3. Le tribunal peut également pendant la phase préparatoire proposer une offre restauratrice conformément aux articles 115 à 117 et examiner la faisabilité d'un projet écrit proposé par le jeune conformément à l'article 118.
+
+§ 4. [<sup>3</sup> Si le jeune poursuivi d'un fait qualifié infraction est âgé de moins de douze ans au moment de la commission des faits, le tribunal de la jeunesse renvoie l'affaire au ministère public, lequel peut signaler la situation individuelle au conseiller ou au directeur si celui-ci est déjà saisi sur la base de l'article 53, § 1er.]<sup>3</sup>
+
+§ 5. Le tribunal peut, même si la réquisition du ministère public est postérieure à la date à laquelle le jeune a atteint l'âge de dix-huit ans, prendre ou maintenir des mesures provisoires jusqu'à ce que le jeune ait atteint l'âge de vingt ans, sans préjudice de l'article 103.
+
+----------
+
+(1)&lt;DCFR 2019-04-25/41, art. 1, 004; En vigueur : 01-05-2019&gt;
+
+(2)&lt;DCFR 2019-04-25/41, art. 2, 004; En vigueur : 01-05-2019&gt;
+
+(3)&lt;DCFR 2021-10-14/22, art. 11, 005; En vigueur : 05-12-2021&gt;
+
+(4)&lt;DCFR 2023-07-20/46, art. 24, 008; En vigueur : 19-01-2024&gt;
+
+(5)&lt;DCFR 2024-04-04/38, art. 11, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 102**
+
+Lorsque le tribunal de la jeunesse prend une mesure provisoire, il peut, pour les nécessités de l'information ou de l'instruction, interdire au jeune de communiquer librement avec les personnes nommément désignées autres que son avocat, pour une période de trente jours au plus, renouvelable plusieurs fois.
+
+**Art. 103**
+
+La durée de la phase préparatoire ne peut excéder neuf mois.
+
+A l'expiration du délai visé à l'alinéa 1er, les mesures provisoires cessent de plein droit.
+
+La phase préparatoire peut être exceptionnellement prolongée d'une durée de trois mois, renouvelable, si cette prolongation est nécessaire pour déterminer les faits qualifiés infractions ou pour connaître la personnalité du jeune et son milieu de vie.
+
+Dans le cadre de la prolongation visée à l'alinéa 3, des mesures provisoires peuvent être prises ou maintenues si des circonstances graves et exceptionnelles se rattachant aux exigences de la sécurité publique le nécessitent.
+
+Le tribunal de la jeunesse motive spécialement sa décision de prolonger la phase préparatoire ainsi que sa décision de prendre ou maintenir des mesures provisoires dans le cadre de cette prolongation au regard des conditions prévues aux alinéas 3 et 4.
+
+Lorsqu'une décision prise dans le cadre de la phase préparatoire est frappée d'appel, les délais visés aux alinéas 1er et 3 sont suspendus à partir du jour de l'acte d'appel jusqu'au jour de l'arrêt rendu par la juridiction d'appel. La durée de cette suspension ne peut excéder deux mois.
+
+**Art. 104**
+
+A partir de la communication du dossier, le ministère public dispose d'un délai de deux mois pour citer le jeune à comparaître devant le tribunal de la jeunesse ou l'informer de sa décision de classer l'affaire sans suite.
+
+**Art. 105**
+
+[<sup>1</sup> § 1er. Sans préjudice des conditions prévues à l'article 124/1, le tribunal de la jeunesse ne peut confier, à titre de mesure provisoire, le jeune à une institution publique en régime fermé que lorsque les conditions suivantes sont réunies :
+
+1° le jeune a un comportement dangereux pour lui-même ou pour autrui ;
+
+2° il existe de sérieuses raisons de craindre que le jeune, s'il était remis en liberté, commette de nouveaux faits qualifiés infractions, se soustraie à l'action de la justice, tente de faire disparaître des preuves ou entre en collusion avec des tiers.
+
+Le tribunal de la jeunesse peut, lorsque les conditions visées à l'alinéa 1er sont réunies, interdire au jeune toute sortie de l'institution publique ".
+
+§ 2. Sans préjudice des limites de prolongation prévues à l'article 124/1, § 1er, le tribunal de la jeunesse ne peut prolonger la mesure visée au paragraphe 1er, alinéa 1er, et l'interdiction de sortie, que de mois en mois et à condition que des circonstances graves et exceptionnelles se rattachant aux exigences de la sécurité publique en nécessitent le maintien, sur la base du rapport établi par l'institution en vertu de l'article 65, alinéa 1er et sur toute autre information jugée pertinente par le tribunal de la jeunesse. Le jeune est préalablement entendu ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 25, 008; En vigueur : 01-01-2024&gt;
+
+**Art. 106**
+
+Le juge d'instruction n'est saisi par réquisition du ministère public ou ne se saisit d'office en cas de flagrant délit que dans des circonstances exceptionnelles et en cas de nécessité absolue.
+
+S'il y a urgence, le juge d'instruction peut prendre des mesures provisoires conformément aux articles 101 à 105.
+
+Dans ce cas, il communique sa décision immédiatement, par écrit, au tribunal de la jeunesse, qui exerce dès lors ses attributions et statue dans les deux jours ouvrables.
+
+Le ministère public peut saisir le tribunal de la jeunesse d'une réquisition visant au dessaisissement prévu à l'article 125 même si l'instruction n'est pas terminée. Le tribunal statue en l'état de la procédure.
+
+**Art. 107**
+
+La juridiction d'appel peut prendre des mesures provisoires prévues à l'article 101, dans les limites prévues par l'article 103.
+
+Les mesures provisoires prises antérieurement par le tribunal de la jeunesse sont maintenues tant qu'elles ne sont pas modifiées par la juridiction d'appel, dans les limites prévues par l'article 103.
+
+#### Chapitre 3. - Les offres restauratrices et mesures au fond
+
+**Art. 108**
+
+Le tribunal de la jeunesse, statuant au fond, envisage prioritairement une offre restauratrice et examine ensuite la faisabilité d'un projet écrit proposé par le jeune.
+
+Si l'offre restauratrice et le projet écrit s'avèrent irréalisables ou inappropriés ou si l'offre restauratrice s'avère insuffisante, le tribunal peut, à titre de mesure d'éducation :
+
+1° réprimander le jeune;
+
+2° soumettre le jeune, par l'intermédiaire du directeur, à la surveillance du service de la protection de la jeunesse;
+
+3° lui imposer d'effectuer une prestation éducative et d'intérêt général en rapport avec son âge et ses capacités, de 150 heures au plus, organisée par un service agréé;
+
+4° soumettre le jeune à un accompagnement ou à une guidance, conformément à l'article 120;
+
+5° soumettre le jeune à des conditions en vue de son maintien dans son milieu de vie, conformément à l'article 121;
+
+6° éloigner le jeune de son milieu de vie, en respectant la hiérarchie prévue à l'article 122.
+
+Les mesures visées aux 1° à 5° de l'alinéa 2 sont privilégiées par rapport à la mesure d'éloignement du milieu de vie.
+
+**Art. 109**
+
+Seule la réprimande est applicable aux jeunes âgés de moins de douze ans au moment de la commission des faits.
+
+En l'absence de mesures appropriées à l'égard d'un jeune âgé de moins de douze ans, le tribunal de la jeunesse renvoie l'affaire au ministère public, lequel peut signaler la situation individuelle au conseiller ou au directeur si celui-ci est déjà saisi sur la base de l'article 53, § 1er.
+
+**Art. 110**
+
+§ 1er. Le tribunal de la jeunesse détermine la durée de toute mesure qu'il ordonne au fond, à l'exception de la réprimande.
+
+§ 2. Les mesures prennent fin lorsque le jeune atteint l'âge de dix-huit ans.
+
+§ 3. Par dérogation au paragraphe 2, sur réquisition du ministère public, en cas de mauvaise conduite persistante ou de comportement dangereux du jeune, le tribunal peut prolonger ces mesures au fond pour une durée déterminée ne dépassant pas le jour où le jeune atteint l'âge de vingt ans. Dans ce cas, le tribunal est saisi de la réquisition dans les trois mois précédant le jour où le jeune atteint l'âge de dix-huit ans.
+
+§ 4. Par dérogation au paragraphe 2, lorsque le fait qualifié infraction a été commis après l'âge de seize ans, le tribunal peut prendre ou maintenir des mesures au fond pour une durée déterminée ne dépassant pas le jour où le jeune atteint l'âge de vingt ans.
+
+#### Chapitre 4. - Les dispositions communes aux mesures provisoires et mesures au fond
+
+##### Section 1ère. - Les règles en matière de cumul des mesures
+
+**Art. 111**
+
+Le tribunal de la jeunesse peut cumuler plusieurs mesures, sous réserve des limites suivantes :
+
+1° la réprimande ne peut pas être cumulée avec d'autres mesures;
+
+2° le projet écrit ne peut être cumulé qu'avec une offre restauratrice.
+
+[<sup>1</sup> 3° une mesure d'hébergement en institution publique ne peut pas être cumulée avec une autre mesure d'hébergement en institution publique, sauf si cette seconde mesure consiste en un hébergement en une unité d'intermède telle que visée à l'article 63/3 ;
+
+4° une mesure d'éloignement du milieu de vie ne peut être cumulée avec une mesure d'accompagnement telle que visée à l'article 120, alinéa 1er, 1°, ou une autre mesure d'éloignement du milieu de vie que pour une durée maximale d'un mois.]<sup>1</sup>
+
+L'offre restauratrice est proposée préalablement à l'examen de la faisabilité d'un projet écrit [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 26, 008; En vigueur : 19-01-2024&gt;
+
+(2)&lt;DCFR 2024-04-04/38, art. 12, 011; En vigueur : 09-06-2024&gt;
+
+##### Section 2. - Les obligations de motivation spéciale
+
+**Art. 112**
+
+Le tribunal de la jeunesse motive spécialement sa décision au regard des facteurs visés à l'article 98 et au regard de la hiérarchie prévue aux articles 101, § 1er, alinéa 2, 108 et 122.
+
+En cas de cumul de mesures, le tribunal motive sa décision spécialement à cet égard.
+
+##### Section 3. - La modification des mesures
+
+**Art. 113**
+
+§ 1er. Le tribunal de la jeunesse peut, en tout temps, rapporter ou modifier la mesure, soit d'office, soit à l'initiative du ministère public ou du directeur de l'établissement auquel le jeune est confié.
+
+§ 2. Le tribunal peut être saisi aux mêmes fins par requête du jeune, des personnes qui exercent l'autorité parentale à son égard ou des personnes qui l'hébergent en droit ou en fait, après l'expiration d'un délai de six mois à compter du jour du jugement.
+
+Le requérant ne peut introduire une nouvelle requête portant sur le même objet avant l'expiration d'un délai de six mois à compter du jour de la dernière décision de rejet de sa demande.
+
+Dans le cas prévu à l'article 117, § 1er, alinéa 6, le premier délai d'attente ne s'applique pas.
+
+§ 3. Le jeune, les personnes qui exercent l'autorité parentale à son égard et les personnes qui l'hébergent en droit ou en fait peuvent demander au tribunal, par requête motivée, de rapporter ou modifier la mesure provisoire visée à l'article 105 après l'expiration d'un délai d'un mois à compter du jour du jugement.
+
+Le tribunal entend le jeune, les personnes qui exercent l'autorité parentale à son égard et, le cas échéant, les personnes qui l'hébergent en droit ou en fait ainsi que le ministère public si celui-ci le demande.
+
+Le requérant ne peut introduire une nouvelle requête portant sur le même objet avant l'expiration d'un délai d'un mois à compter du jour de la dernière décision de rejet de sa demande.
+
+§ 4. Toute mesure prise au fond, à l'exception de la réprimande et de la mesure d'éloignement du milieu de vie, est réexaminée en vue d'être confirmée, rapportée ou modifiée avant l'expiration d'un délai d'un an à compter du jour du jugement.
+
+Toute mesure d'éloignement du milieu de vie prise au fond est réexaminée en vue d'être confirmée, rapportée ou modifiée avant l'expiration du délai de six mois à compter du jour du jugement.
+
+§ 5. Lorsque le directeur de l'établissement auquel le jeune est confié en vue de son traitement demande au tribunal de confirmer, rapporter ou modifier la mesure, il transmet au ministère public un rapport pédopsychiatrique circonstancié.
+
+##### Section 4. - La communication des décisions
+
+**Art. 114**
+
+Le tribunal de la jeunesse communique immédiatement au service de la protection de la jeunesse, par l'intermédiaire du directeur, toute décision par laquelle il prend une ou plusieurs mesures.
+
+Le cas échéant, le directeur met à disposition du tribunal une personne de la section sociale du service de la protection de la jeunesse pour assurer l'exécution de la décision du tribunal.
+
+#### Chapitre 5. - Les offres restauratrices, le projet écrit et les autres mesures de protection
+
+##### Section 1ère. - Les offres restauratrices
+
+**Art. 115**
+
+§ 1er. La médiation permet au jeune qui est soupçonné ou qui a commis un fait qualifié infraction, aux personnes qui exercent l'autorité parentale à son égard, aux personnes qui l'hébergent en droit ou en fait ainsi qu'à la victime d'envisager, ensemble et avec l'aide d'un médiateur neutre, les possibilités de rencontrer les conséquences notamment relationnelles et matérielles du fait qualifié infraction.
+
+La concertation restauratrice en groupe permet au jeune qui est soupçonné ou qui a commis un fait qualifié infraction, à la victime, à leur entourage social ainsi qu'à toutes personnes utiles, d'envisager, en groupe et avec l'aide d'un médiateur neutre, des solutions concertées sur la manière de résoudre le conflit résultant du fait qualifié infraction, notamment en tenant compte des conséquences relationnelles et matérielles de ce fait.
+
+§ 2. Une offre restauratrice ne peut être mise en oeuvre que si les personnes qui y participent y adhèrent de manière expresse et sans réserve, et ce, tout au long de la médiation ou de la concertation restauratrice en groupe.
+
+§ 3. Lorsqu'une victime est identifiée, à la demande de celle-ci ou du jeune ou s'il l'estime opportun, le tribunal de la jeunesse propose, par écrit, aux personnes visées au paragraphe 1er de participer à une médiation ou à une concertation restauratrice en groupe.
+
+Les propositions visées à l'alinéa 1er peuvent être adressées aux personnes concernées à tout moment de la procédure.
+
+**Art. 116**
+
+§ 1er. Le tribunal de la jeunesse désigne le service agréé chargé d'organiser l'offre restauratrice et adresse une copie de ses propositions écrites au service désigné.
+
+§ 2. Si les personnes concernées ne prennent pas contact, dans les huit jours ouvrables de la réception des propositions écrites du tribunal, avec le service désigné, celui-ci prend contact avec elles, par tous les moyens.
+
+§ 3. En cas de médiation, le service désigné peut, moyennant l'accord des personnes concernées, impliquer d'autres personnes ayant un intérêt direct à la médiation.
+
+En cas de concertation restauratrice en groupe, le service désigné prend contact, en concertation avec les personnes concernées, avec les personnes de leur entourage social et toutes autres personnes utiles.
+
+**Art. 117**
+
+§ 1er. Si l'offre restauratrice mène à un accord, celui-ci est signé par le jeune, par les personnes qui exercent l'autorité parentale à son égard ainsi que par la victime et est joint au dossier judiciaire.
+
+Si l'accord comporte des dispositions relatives à l'indemnisation de la victime, il est signé en présence des avocats des personnes signataires.
+
+En cas de concertation restauratrice en groupe, une déclaration d'intention du jeune est également insérée. Il y explique les démarches concrètes qu'il entreprendra en vue de réparer les dommages relationnels et matériels et les dommages subis par la communauté et d'empêcher d'autres faits dans le futur.
+
+L'accord est homologué par le tribunal de la jeunesse. Celui-ci ne peut modifier son contenu et ne peut refuser l'homologation que si l'accord est contraire à l'ordre public.
+
+Le service chargé de l'offre restauratrice établit un rapport sur l'exécution de l'accord et l'adresse au tribunal de la jeunesse.
+
+Si l'exécution de l'accord selon les modalités prévues intervient avant le jugement, le tribunal tient compte de cet accord et de son exécution.
+
+Si l'exécution de l'accord selon les modalités prévues intervient après le jugement, le tribunal peut être saisi sur la base de l'article 113 en vue d'alléger ou de rapporter la ou les mesures ordonnées au fond.
+
+§ 2. Si l'offre restauratrice ne mène pas à un accord, ni la reconnaissance de la matérialité du fait qualifié infraction, ni le déroulement ou le résultat de l'offre restauratrice ne peuvent être utilisés par les autorités judiciaires ni par toute autre personne au préjudice du jeune.
+
+Le service désigné établit un rapport succinct sur le déroulement de l'offre restauratrice et sur son résultat.
+
+Ce rapport est soumis à l'avis des personnes concernées et est joint au dossier judiciaire.
+
+§ 3. Les documents établis et les communications faites dans le cadre d'une intervention du service chargé de l'offre restauratrice sont confidentiels, à l'exception de ce que les parties consentent à porter à la connaissance des autorités communautaires et judiciaires. Ils ne peuvent être utilisés dans une procédure pénale, civile, administrative ou arbitrale ou dans toute autre procédure visant à résoudre des conflits et ne sont pas admissibles comme preuve, même comme aveu extrajudiciaire.
+
+##### Section 2. - Le projet écrit
+
+**Art. 118**
+
+Dès le début de la procédure, le tribunal de la jeunesse informe le jeune de la possibilité de proposer un projet écrit portant notamment sur l'un ou plusieurs des engagements suivants :
+
+1° formuler des excuses écrites ou orales;
+
+2° réparer lui-même et en nature les dommages causés, si ceux-ci sont limités, ou accomplir un travail rémunéré en vue de l'indemnisation de la victime;
+
+3° participer à une offre restauratrice visée aux articles 115 à 117;
+
+4° participer à un programme de réinsertion scolaire;
+
+5° participer à des activités précises dans le cadre d'un projet d'apprentissage et de formation, à raison de 45 heures de prestation au plus;
+
+6° se soumettre à la guidance d'un centre de santé mentale, d'un professionnel ou d'un service psycho-médico-social ou y suivre un traitement ambulatoire;
+
+7° se présenter auprès d'un service agréé.
+
+Le projet écrit est remis au plus tard le jour de l'audience au fond.
+
+Si le tribunal approuve le projet, il confie le contrôle de son exécution au service de la protection de la jeunesse, par l'intermédiaire du directeur, et informe le jeune des conséquences possibles de la non-exécution de ses engagements.
+
+Le service de la protection de la jeunesse, par l'intermédiaire du directeur, informe régulièrement le tribunal sur l'exécution et le respect des engagements du jeune.
+
+Si le projet n'a pas été exécuté ou a été exécuté de manière insuffisante, le tribunal peut prendre une autre mesure lors d'une audience ultérieure.
+
+##### Section 3. - La surveillance
+
+**Art. 119**
+
+Lorsque le tribunal de la jeunesse soumet le jeune à la surveillance du service de la protection de la jeunesse, il en précise l'objet.
+
+Le service de la protection de la jeunesse, par l'intermédiaire du directeur, informe régulièrement le tribunal sur l'exécution de la mesure.
+
+##### Section 3/1. [<sup>1</sup> La mission d'investigation et d'évaluation ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 27, 008; En vigueur : 19-01-2024&gt;
+
+##### Art. 119/1. [<sup>1</sup> Par la mission d'investigation et d'évaluation dans le milieu de vie, l'équipe mobile d'accompagnement procède, dans le milieu de vie, à une évaluation structurée des risques de récidive, des besoins, des forces et des facteurs de réceptivité du jeune en tenant compte de sa situation actuelle et de ses différents contextes de vie en vue, de proposer dans le rapport d'investigation et d'évaluation qu'elle établit, la mesure la plus adéquate en tenant notamment compte de la hiérarchie prévue aux articles 101, § 1er, alinéa 2, 108, alinéa 3, et 122, alinéas 1er et 3, du décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 28, 008; En vigueur : 01-01-2024&gt;
+
+##### Section 4. - L'accompagnement et la guidance
+
+**Art. 120**
+
+Lorsque le tribunal de la jeunesse décide de soumettre le jeune à un accompagnement ou une guidance, il peut :
+
+1° [<sup>1</sup> le soumettre à un accompagnement par une équipe mobile d'accompagnement, dans le milieu de vie ou en résidence autonome, mis en place selon les modalités fixées par le Gouvernement ]<sup>1</sup>;
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° lui imposer de se soumettre à la guidance d'ordre psychologique, social ou éducatif d'un service d'accompagnement familial agréé;
+
+4° lui imposer de se soumettre à la guidance d'un centre de santé mentale, d'un professionnel ou d'un service psycho-médico-social agréé, sur la base d'un rapport médical ou psychologique circonstancié établissant, à la suite d'un examen datant de quinze jours au plus, la nécessité thérapeutique de la guidance;
+
+5° lui imposer de participer à un ou plusieurs modules de formation ou de sensibilisation aux conséquences des actes accomplis et à leur impact sur les victimes, organisé par un service agréé;
+
+6° lui imposer de participer à une ou plusieurs activités sportives, sociales ou culturelles encadrées;
+
+7° lui imposer de fréquenter régulièrement un établissement scolaire d'enseignement ordinaire ou spécial.
+
+Le tribunal peut prévoir que l'exécution de la mesure d'accompagnement ou de guidance est une condition au maintien du jeune dans son milieu de vie.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 29, 008; En vigueur : 01-01-2024&gt;
+
+##### Section 5. - Le maintien dans le milieu de vie sous conditions
+
+**Art. 121**
+
+Lorsque le tribunal de la jeunesse décide de soumettre le jeune à des conditions en vue de son maintien dans son milieu de vie, il peut lui imposer les conditions suivantes, le cas échéant de façon cumulative :
+
+1° ne pas fréquenter certaines personnes ou certains lieux déterminés qui ont un rapport avec le fait qualifié infraction qui a été commis, pendant une période déterminée;
+
+2° ne pas exercer une ou plusieurs activités déterminées au regard des circonstances de l'espèce, pendant une période déterminée;
+
+3° respecter l'interdiction de sortir dont la durée ne peut excéder trois mois et dont il précise les modalités;
+
+4° respecter d'autres conditions ou interdictions ponctuelles dont il précise la durée et les modalités.
+
+Le tribunal peut confier le contrôle du respect de ces conditions au service de la protection de la jeunesse, par l'intermédiaire du directeur.
+
+Le tribunal peut confier à un service de police le contrôle de l'exécution de l'interdiction de fréquenter certaines personnes ou certains lieux déterminés et l'interdiction de sortir. Si le service de la protection de la jeunesse intervient également dans l'exécution de la décision du tribunal, celui-ci l'informe régulièrement des résultats de ce contrôle.
+
+##### Section 6. - L'éloignement du milieu de vie
+
+**Art. 122**
+
+Lorsque le tribunal de la jeunesse décide d'éloigner le jeune de son milieu de vie, il envisage de le confier dans l'ordre de priorité suivant :
+
+1° à un membre de sa famille ou à un de ses familiers;
+
+2° à un accueillant familial qui n'est ni un membre de sa famille ni un de ses familiers;
+
+3° à un établissement approprié en vue de son éducation ou de son traitement;
+
+4° à une institution publique.
+
+Le jeune ne peut être confié à une institution publique s'il souffre d'un handicap mental ou d'un trouble mental établi par un rapport médical circonstancié.
+
+L'hébergement en institution publique en régime ouvert est privilégié par rapport à l'hébergement en institution publique en régime fermé.
+
+Conformément à l'article 111, une mesure d'éloignement du milieu de vie peut être cumulée avec une mesure d'accompagnement ou de guidance.
+
+**Art. 123**
+
+Le tribunal de la jeunesse ne peut confier le jeune à un établissement approprié en vue de son traitement que sur la base d'un rapport pédopsychiatrique circonstancié établissant, à la suite d'un examen datant de quinze jours au plus, la nécessité thérapeutique de cette mesure.
+
+En cas d'urgence, le tribunal de la jeunesse peut ordonner la mesure visée à l'alinéa 1er sur base d'un rapport médical circonstancié, à condition que la nécessité thérapeutique de la mesure soit confirmée par un rapport pédopsychiatrique circonstancié dans les trente jours qui suivent le début de la mesure.
+
+Le tribunal applique les dispositions du présent livre, sans préjudice de l'application de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux.
+
+En cas d'application de la loi du 26 juin 1990 précitée à un jeune ayant commis un fait qualifié infraction avant l'âge de dix-huit ans par le tribunal, la décision du médecin-chef de service de lever la mesure n'est exécutée qu'après un délai de cinq jours ouvrables à compter du jour où le tribunal en est informé. Dans ce délai et sans pouvoir le prolonger, le tribunal statue sur toute autre mesure visée à l'article 108 qu'il juge utile.
+
+**Art. 124**
+
+[<sup>1</sup> Lorsque le tribunal de la jeunesse décide de confier le jeune à une institution publique, sa décision précise le type de prise en charge, la durée de la mesure, conformément aux articles 124/1, § 1er, et 124/2, ainsi que, pour les prises en charge en unité d'évaluation et orientation ou d'éducation, le caractère ouvert ou fermé du régime ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 30, 008; En vigueur : 01-01-2024&gt;
+
+**Art. 124/1**
+
+[<sup>1</sup> § 1er. Au provisoire et au fond, le tribunal de la jeunesse peut ordonner la mesure d'hébergement en unité d'évaluation et orientation uniquement pour une durée de trente jours, non renouvelable.
+
+Le tribunal de la jeunesse peut exceptionnellement prolonger, [<sup>2</sup> une seule fois]<sup>2</sup> pour une durée de 30 jours, la mesure visée à l'alinéa 1er lorsque les conditions suivantes sont réunies :
+
+1° le jeune a gravement porté atteinte à la vie ou à la santé d'autrui ;
+
+2° le comportement du jeune est particulièrement dangereux ;
+
+3° il n'y a pas de place disponible pour le jeune en unité d'éducation ;
+
+4° une mesure alternative n'est pas adéquate et ne peut être privilégiée par rapport à la mesure d'hébergement en institution publique, en exécution des articles 101 § 1er, alinéa 2, et 108, alinéa 2.
+
+Conformément à l'article 112, le tribunal de la jeunesse motive spécialement sa décision au regard de ces conditions.
+
+Au provisoire, le tribunal de la jeunesse ne peut ordonner la mesure d'hébergement en éducation que pour une durée maximale de trois mois, renouvelable sous réserve des limites prévues au paragraphe 2, alinéa 2, au paragraphe 3, alinéa 2, et à l'article 105, § 2. Au fond, le tribunal de la jeunesse peut ordonner la mesure d'hébergement en unité d'éducation pour une durée maximale de six mois.
+
+§ 2. Le tribunal de la jeunesse ne peut ordonner la mesure d'hébergement en institution publique en unité d'évaluation et orientation ou en unité d'éducation, en régime ouvert, qu'à l'égard du jeune âgé d'au moins quatorze ans au moment de la commission des faits et qui :
+
+[<sup>3</sup> 1° soit, a commis un fait qualifié infraction qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner une peine principale de niveau 3 minimum au sens de l'article 36 du Code pénal, autre qu'un des faits suivants :
+
+a) le traitement dégradant commis sur un mineur ou une personne en situation de vulnérabilité visé à l'article 129 du Code pénal ;
+
+b) le traitement dégradant intrafamilial visé à l'article 130 du Code pénal ;
+
+c) la discrimination commise par une personne exerçant une fonction publique ou commise en son nom au moyen d'une fausse signature visée à l'article 253 du Code pénal ;
+
+d) l'abus aggravé de la situation de faiblesse de personnes visé à l'article 307 du Code pénal ;
+
+e) la fraude informatique visée à l'article 488 du Code pénal ;
+
+f) l'atteinte frauduleuse à l'actif ou au passif d'une personne faillie visée à l'article 492 du Code pénal ;
+
+g) le recel visé à l'article 501 du Code pénal ;
+
+h) le vandalisme à l'aide de violences ou de menaces visé à l'article 518, 2°, du Code pénal ;
+
+i) l'incitation à commettre des infractions contre la défense nationale visée à l'article 613 du Code pénal ;
+
+j) le mercenariat visé à l'article 621 du Code pénal ;
+
+k) le recrutement de mercenaires visé à l'article 622 du Code pénal ;
+
+l) le recrutement d'un mineur pour une armée étrangère visé à l'article 624 du Code pénal ;
+
+m) la corruption publique visée à l'article 638 du Code pénal ;
+
+n) le faux témoignage visé à l'article 647 du Code pénal ;
+
+o) le bris de scellés aggravé visé à l'article 667 du Code pénal ;
+
+2° soit, a commis l'un des faits qualifiés infraction suivants qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner une peine principale de niveau 2 au sens de l'article 36 du Code pénal :
+
+a) l'incitation au suicide visée à l'article 109 du Code pénal ;
+
+b) les actes de violence aggravés visés aux articles 195, 198, 1°, 199, alinéa 1er, 1°, 200, alinéa 1er, 1°, 201, alinéa 1er, 1° et 202, 1°, du Code pénal ;
+
+c) la menace d'attentat contre les personnes visée à l'article 231, alinéa 2 du Code pénal lorsqu'il s'agit de la menace d'un attentat passible d'une peine de niveaux 4 à 8 et la menace aggravée d'attentat contre les personnes visée à l'article 232, 2°, du Code pénal ;
+
+d) l'entrave dangereuse à la circulation visée à l'article 318 du Code pénal ;
+
+e) la substitution d'enfant et l'obstruction à la preuve de l'état civil d'un enfant visées respectivement aux articles 362 et 363 du Code pénal ;
+
+f) la participation à une association de malfaiteurs visée à l'article 404, alinéa 3 du Code pénal lorsque l'association a pour but la commission d'infractions punissables d'une peine de niveau 4 ou d'un niveau inférieur à l'exclusion du niveau 1 ;
+
+g) l'incendie visé à l'article 505 du Code pénal ;
+
+h) le vandalisme sur un bien ayant un intérêt particulier visé à l'article 517, alinéa 2, du Code pénal et le vandalisme avec violences ou menaces visé à l'article 518, 1°, du Code pénal ;
+
+i) le complot ou la proposition de complot contre la monarchie visés aux articles 558 et 560 du Code pénal et la fourniture de logement à des comploteurs ou à des auteurs d'attentat visée à l'article 562 du Code pénal ;
+
+j) le recel d'auteurs d'infractions contre la défense nationale visé à l'article 601 du Code pénal ;]<sup>3</sup>
+
+3° soit, a précédemment fait l'objet d'un jugement définitif ordonnant une mesure d'hébergement en institution publique en régime ouvert ou fermé et a commis un nouveau fait qualifié infraction ;
+
+4° soit, fait l'objet d'une révision de la mesure, conformément à l'article 113, pour le motif qu'il n'a pas respecté la ou les mesures, provisoires ou au fond, imposées précédemment.
+
+La durée de la mesure d'hébergement en éducation visée à l'alinéa 1er, prise en application de l'alinéa 1er, 4°, ne peut être prolongée qu'une seule fois.
+
+§ 3. [<sup>4</sup> Le tribunal ne peut ordonner la mesure d'hébergement en institution publique en unité d'évaluation et orientation ou en unité d'éducation, en régime fermé, qu'à l'égard du jeune âgé d'au moins quatorze ans au moment de la commission des faits et qui :
+
+1° soit, a commis un fait qualifié infraction qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner une peine principale de niveau 4 minimum au sens de l'article 36 du Code pénal autre qu'un des faits suivants :
+
+a) l'escroquerie aggravée visée à l'article 480 du Code pénal ;
+
+b) la reproduction, la divulgation ou la transmission d'un secret d'Etat à des personnes non autorisées visée à l'article 582 du Code pénal ;
+
+c) la reproduction, la divulgation, ou la transmission à des personnes non autorisées d'un secret d'Etat ayant trait à la défense du territoire ou à la sûreté extérieure de l'Etat visée à l'article 583 du Code pénal ;
+
+2° soit, a commis l'un des faits qualifiés infraction suivants qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner une peine principale de niveau 3 ou de niveau 2 au sens de l'article 36 du Code pénal :
+
+a) l'incitation au suicide et l'incitation au suicide aggravée visées aux articles 109 et 110 du Code pénal ;
+
+b) le traitement inhumain visé à l'article 120 du Code pénal ;
+
+c) l'atteinte à l'intégrité sexuelle visée à l'article 134 du Code pénal lorsqu'elle résulte d'une menace ou de violence ;
+
+d) la production ou la diffusion d'images d'abus sexuel de mineurs visée à l'article 171 du Code pénal ;
+
+e) les actes de violence aggravés visés à l'article 196 du Code pénal ;
+
+f) la menace aggravée d'attentat contre les personnes ou les propriétés visée à l'article 232, 1° du Code pénal ainsi que la menace à l'aide de matières radioactives, de matières nucléaires et d'armes biologiques ou chimiques visée à l'article 233 du Code pénal ;
+
+g) l'entrave à la circulation ayant entraîné une atteinte à l'intégrité du deuxième degré visée à l'article 319 du Code pénal ;
+
+h) la privation d'aliments ou de soins ayant entraîné une atteinte à l'intégrité du troisième degré visée à l'article 334 du Code pénal ;
+
+i) l'infraction terroriste visée aux articles 371, 376, 383 et 384 du Code pénal ;
+
+j) la fourniture de logement à une bande armée séditieuse visée à l'article 402 du Code pénal ;
+
+k) la participation à une association de malfaiteurs et la participation à une association de malfaiteurs en qualité de dirigeant visées respectivement aux articles 404 lorsqu'il s'agit d'associations ayant pour but la commission d'infractions punissables d'une peine de niveau 4 ou d'un niveau supérieur et 405, alinéa 3, du Code pénal lorsque l'association a pour but la commission d'infractions punissables d'une peine de niveau 4 ou 3 ;
+
+l) la manipulation sans habilitation de matières nucléaires et le recours à la contrainte en vue de la remise de matières ou engins radioactifs ou d'installations nucléaires visés respectivement aux articles 412 et 417 du Code pénal ;
+
+m) le faux en écritures ou sur d'autres supports durables et l'usage de faux visé à l'article 451 du Code pénal ;
+
+n) le vol commis avec violences ou menaces visé à l'article 467 du Code pénal ; l'extorsion visée à l'article 468 du Code pénal et le vol de matières nucléaires commis sans violences ni menaces visé à l'article 470 du Code pénal ;
+
+o) l'incendie d'un bien ayant un intérêt particulier visé à l'article 507, alinéa 2, du Code pénal ;
+
+p) le vandalisme sur un bien ayant un intérêt particulier visé à l'article 517, alinéa 3, du Code pénal lorsque l'infraction a entrainé un dommage grave ;
+
+q) le complot contre la monarchie visé à l'article 558, alinéa 2, 2° et 3° ainsi que la préparation d'un attentat contre la monarchie visée à l'article 559, alinéa 2, 3°, du Code pénal ;
+
+r) la fourniture de logement à des comploteurs ou à des auteurs d'attentat visée à l'article 562 du Code pénal ;
+
+s) la dénonciation à l'ennemi, le recel d'auteurs d'infractions contre la défense nationale ; le recel de ressortissants de l'ennemi, le complot en vue de soutenir l'ennemi ; le complot en vue d'une infraction qui peut entraver la défense nationale en temps de guerre et la préparation d'un attentat contre un chef d'Etat étranger visés respectivement aux articles 597, 601, 605, 608, 611 et 615 du Code pénal ;
+
+t) les infractions qui concernent les substances soporifiques, stupéfiantes et les autres substances psychotropes susceptibles d'engendrer une dépendance ainsi que la culture des plantes dont peuvent être extraites ces substances visées à l'article 2bis, §§ 1er et 7 de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes lorsqu'elles remplissent les conditions visées au § 2 du même article ;
+
+3° soit, a précédemment fait l'objet d'un jugement définitif ordonnant une mesure d'hébergement en institution publique en régime ouvert ou fermé et a commis un nouveau fait qualifié infraction visé au paragraphe 2, alinéa 1er, 1°, 2° ou 3° ;
+
+4° soit, fait l'objet d'une révision de la mesure au fond ou provisoire, conformément à l'article 113, pour le motif qu'il n'a pas respecté la ou les mesures imposées précédemment en vertu du paragraphe 2 ou pour le motif qu'il n'a pas respecté une autre mesure, imposée précédemment, et qu'il a commis un nouveau fait qualifié infraction visé au paragraphe 2, alinéa 1er, 1°, 2° ou 3° ;
+
+La durée de la mesure d'hébergement en éducation visée à l'alinéa 1er, prise en application de l'alinéa 1er, 4°, ne peut être prolongée qu'une seule fois.]<sup>4</sup>
+
+§ 4. Sans préjudice des conditions énumérées aux paragraphes 2 et 3, le tribunal de la jeunesse ne peut ordonner une mesure d'hébergement en institution publique en unité d'éducation à l'égard d'un jeune qu'après avoir reçu le rapport tel que visé aux articles 63/1 et 119/1, datant de six mois au plus.
+
+Le Gouvernement détermine les cas dans lesquels le tribunal de la jeunesse, par dérogation à l'alinéa 1er, peut ordonner une mesure d'hébergement en institution publique en unité d'éducation à l'égard d'un jeune sans avoir reçu le rapport tel que visé à l'alinéa 1er.
+
+Par dérogation à l'alinéa 1er, lorsque le jeune fait l'objet d'une mesure d'hébergement en unité d'éducation à régime ouvert ou fermé intra-muros ou à régime ouvert extra-muros, le tribunal de la jeunesse peut, conformément à l'article 113, § 1er, et sans préjudice des conditions prévues aux paragraphes 2 et 3, prendre une nouvelle mesure d'hébergement en unité d'éducation, en régime ouvert ou fermé, sans avoir reçu un rapport tel que visé à l'alinéa 1er.
+
+§ 5. Sans préjudice des conditions énumérées aux paragraphes 2 et 3, le tribunal peut ordonner la mesure d'hébergement en institution publique en unité d'évaluation et orientation ou en unité d'éducation à l'égard d'un jeune âgé de douze à quatorze ans qui a gravement porté atteinte à la vie ou à la santé d'autrui et dont le comportement est particulièrement dangereux .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 31, 008; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFR 2024-04-04/38, art. 13, 011; En vigueur : 09-06-2024&gt;
+
+(3)&lt;DCFR 2026-09-04/04, art. 2, 014; En vigueur : 01-09-2026&gt;
+
+(4)&lt;DCFR 2026-09-04/04, art. 3, 014; En vigueur : 01-09-2026&gt;
+
+**Art. 124/2**
+
+[<sup>1</sup> Sans préjudice des conditions énumérées à l'article 124/1, § 1er, le tribunal de la jeunesse peut ordonner la mesure d'hébergement en institution publique en unité d'intermède, telle que visée à l'article 63/3, à l'égard du jeune âgé d'au moins quatorze ans au moment de la commission des faits, pour une durée maximale de quinze jours, renouvelable une fois, si au moins l'une des conditions suivantes est remplie :
+
+1° le jeune est poursuivi du chef d'un fait qualifié infraction qui compromet la continuité de la prise en charge en cours ;
+
+2° le comportement du jeune ne respecte pas les conditions et les objectifs fixés par le tribunal de la jeunesse de sorte que la continuité de la prise en charge en cours est compromise.
+
+Sans préjudice des conditions énumérées à l'alinéa 1er, le tribunal de la jeunesse peut ordonner la mesure d'hébergement en institution publique en unité d'intermède à l'égard d'un jeune âgé de douze à quatorze ans qui a gravement porté atteinte à la vie ou à la santé d'autrui et dont le comportement est particulièrement dangereux.
+
+Lorsque le tribunal de la jeunesse décide de confier le jeune à une institution publique en unité d'intermède, il confirme dans sa décision la poursuite de la prise en charge initiale au terme de la prise en charge en intermède.
+
+Lorsqu'elle estime qu'un renouvellement de la mesure est opportun, l'unité d'intermède propose, dans le rapport d'information, tel que visé à l'article 65, un renouvellement de la mesure pour une nouvelle durée de quinze jours maximum. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-07-20/46, art. 32, 008; En vigueur : 01-01-2024&gt;
+
+### Titre 5. - Le dessaisissement
+
+**Art. 125**
+
+[<sup>1</sup> § 1er. Si le jeune déféré au tribunal de la jeunesse en raison d'un fait qualifié infraction était âgé de seize ans ou plus au moment de ce fait et que le tribunal de la jeunesse estime inadéquate une mesure de protection, il peut se dessaisir et renvoyer l'affaire au Ministère public aux fins de poursuite devant soit une chambre spécifique au sein du tribunal de la jeunesse qui applique le droit pénal commun et la procédure pénale commune conformément aux articles 76, § 3, 92, § 1er, alinéa 3, 101, § 1er, alinéa 3, du Code judiciaire, s'il y a lieu, soit, si la personne concernée est soupçonnée d'avoir commis une des infractions visées à l'article 216 nonies du Code d'instruction criminelle, une cour d'assises composée conformément aux dispositions de l'article 119, § 2, du Code judiciaire, s'il y a lieu.
+
+Le tribunal ne peut toutefois se dessaisir que si les deux conditions suivantes sont rencontrées :
+
+1° d'une part, le jeune a déjà fait l'objet d'une mesure d'hébergement en institution publique en régime fermé pour un fait antérieur déclaré établi par jugement définitif ;
+
+2° d'autre part, le fait pour lequel le jeune est poursuivi est :
+
+a) soit un fait consistant en un acte de violence qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner une peine principale de niveau 3 minimum au sens de l'article 36 du Code pénal ou de niveau 2 lorsqu'il s'agit d'un acte de violence aggravé visé aux articles 195, 198, 1°, 199, alinéa 1er, 1°, 200, alinéa 1er, 1°, 201, alinéa 1er, 1° et 202, 1°, du Code pénal ;
+
+b) soit un fait qualifié de violation grave du droit international humanitaire ou un fait qualifié infraction terroriste tel que visé respectivement aux Titre 1er et Titre 4, Chapitre 1er du Code pénal, qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner, une peine principale de niveau 3 minimum au sens de l'article 36 du Code pénal.
+
+Par dérogation à l'alinéa 2, le tribunal peut se dessaisir sans respecter la condition visée à l'alinéa 2, 1°, dans les cas suivants :
+
+1° le fait pour lequel le jeune est poursuivi est un fait qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner, une peine principale de niveau 5 minimum au sens de l'article 36 du Code pénal ;
+
+2° le jeune ne collabore pas aux mesures provisoires ou s'y soustrait ;
+
+3° l'âge du jeune au moment du jugement, qui n'est pas dû à la durée anormalement longue de la procédure, rend inopérant le recours à une mesure de protection.
+
+La motivation porte sur la personnalité du jeune et sur son degré de maturité.
+
+La nature, la fréquence et la gravité du ou des faits qui lui sont reprochés sont prises en considération dans la mesure où elles sont pertinentes pour l'évaluation de sa personnalité.
+
+§ 2. Le tribunal ne peut se dessaisir d'une affaire qu'après avoir fait procéder à l'étude sociale et à l'examen médico-psychologique prévus à l'article 99, alinéas 2 et 3.
+
+Le tribunal peut se dessaisir d'une affaire sans disposer du rapport de l'examen médico-psychologique, lorsqu'il constate que le jeune se soustrait à cet examen ou refuse de s'y soumettre.
+
+Le tribunal peut se dessaisir d'une affaire sans disposer de l'étude sociale et de l'examen médico-psychologique s'il s'agit d'un fait qui, s'il avait été commis par une personne majeure, aurait été de nature à entraîner, une peine principale de niveau 7 minimum au sens de l'article 36 du Code pénal et que le jeune n'est poursuivi qu'après avoir atteint l'âge de dix-huit ans.
+
+Le Gouvernement détermine les modalités selon lesquelles l'examen médico-psychologique a lieu.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-09-04/04, art. 4, 014; En vigueur : 01-09-2026&gt;
+
+## Livre VI. - Les instances d'avis et les instances de concertation
+
+### Titre 1er. - Le conseil communautaire
+
+**Art. 126**
+
+Il est institué un conseil communautaire de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse.
+
+Le conseil communautaire est un organe de réflexion qui a une compétence générale pour émettre, d'initiative ou à la demande du gouvernement, des avis et propositions sur toutes matières intéressant la prévention, l'aide à la jeunesse et la protection de la jeunesse, en ce compris l'aide aux enfants victimes de maltraitance et à l'exception de l'adoption [<sup>1</sup> et de la prise en charge en centre communautaire des jeunes ayant fait l'objet d'un dessaisissement]<sup>1</sup>.
+
+Cette compétence comporte notamment les missions suivantes :
+
+1° donner un avis sur tout avant-projet de décret et tout projet d'arrêté réglementaire relatif à la prévention, à l'aide à la jeunesse ou à la protection de la jeunesse;
+
+2° formuler toutes propositions, d'initiative ou à la demande du Gouvernement, sur l'orientation générale de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse;
+
+3° faire rapport tous les trois ans sur la réglementation relative aux institutions publiques et sur le type et le nombre de places nécessaires au sein de celles-ci;
+
+4° organiser chaque année, en son sein, un débat relatif aux relations entre les familles et les différents acteurs du secteur et en faire rapport;
+
+5° interpeller les autorités publiques de tous les niveaux de pouvoir et les services publics ou privés, agréés ou non, à propos de toute situation défavorable au développement personnel des enfants ou des jeunes et à leur insertion sociale sur le territoire de la Communauté française.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/24, art. 1, 003; En vigueur : 23-04-2019&gt;
+
+**Art. 127**
+
+Le conseil communautaire se compose des membres suivants :
+
+1° un représentant des chargés de prévention, présenté par le fonctionnaire dirigeant;
+
+2° un représentant de chaque organisation ou fédération de services agréés, présenté par celle-ci;
+
+3° un représentant de chaque organisation représentative des travailleurs du secteur privé, présenté par celle-ci;
+
+4° un représentant de chaque organisation représentative des travailleurs du secteur public, présenté par celle-ci;
+
+5° un représentant du Conseil de la Jeunesse;
+
+6° un représentant de l'Office de la Naissance et de l'Enfance, présenté par son conseil d'administration;
+
+7° un représentant des équipes SOS Enfants, présenté par la fédération des équipes SOS Enfants;
+
+8° un représentant de l'administration compétente en matière de jeunesse, présenté par son fonctionnaire dirigeant;
+
+9° le coordonnateur de l'équipe des facilitateurs au sens du décret du 21 novembre 2013 organisant des politiques conjointes de l'enseignement obligatoire et de l'aide à la jeunesse en faveur du bien-être des jeunes à l'école, de l'accrochage scolaire, de la prévention de la violence et de l'accompagnement des démarches d'orientation;
+
+10° un représentant du Conseil supérieur de l'adoption, présenté par son président;
+
+11° deux conseillers, présentés par le fonctionnaire dirigeant;
+
+12° deux directeurs, présentés par le fonctionnaire dirigeant;
+
+13° un représentant des délégués des services de l'aide à la jeunesse et des services de la protection de la jeunesse, présenté par le fonctionnaire dirigeant;
+
+14° un directeur des institutions publiques, présenté par le fonctionnaire dirigeant;
+
+15° un représentant des centres publics d'action sociale, présenté par l'Union des Villes et des Communes de Wallonie;
+
+16° un représentant des centres publics d'action sociale, présenté par l'Association de la Ville et des Communes de la Région de Bruxelles-Capitale;
+
+17° un représentant du Réseau wallon de lutte contre la pauvreté, présenté par celui-ci;
+
+18° un représentant du Forum Bruxelles contre les inégalités, présenté par celui-ci;
+
+19° deux représentants de l'Union francophone des magistrats de la jeunesse, l'un du siège et l'autre du ministère public, présentés par cette union;
+
+20° un membre du parquet général, présenté collégialement par les procureurs généraux des Cours d'appel de Bruxelles, Liège et Mons;
+
+21° un conseiller d'une chambre de la jeunesse d'une cour d'appel, présenté collégialement par les conseillers des chambres de la jeunesse des Cours d'appel de Bruxelles, Liège et Mons;
+
+22° deux avocats spécialisés dans le domaine de l'aide à la jeunesse et de la protection de la jeunesse, présentés par l'Ordre des barreaux francophones et germanophone;
+
+23° quatre personnes du secteur de la recherche scientifique, présentées par l'Académie de Recherche et d'Enseignement supérieur;
+
+24° un représentant désigné par chaque ministre ayant dans ses attributions une ou plusieurs des compétences suivantes : la prévention, l'aide à la jeunesse et la protection de la jeunesse, l'enfance, la jeunesse, l'éducation;
+
+25° le fonctionnaire dirigeant ou son délégué;
+
+26° le délégué général ou son représentant;
+
+27° un membre du personnel de l'Observatoire de l'enfance, de la jeunesse et de l'aide à la jeunesse.
+
+Les membres du conseil communautaire sont nommés par le Gouvernement pour une durée de cinq ans.
+
+Les membres du conseil communautaire visés à l'alinéa 1er, 23° à 27°, assistent aux réunions avec voix consultative.
+
+Le Gouvernement nomme, pour chaque membre du conseil communautaire ayant voix délibérative, un membre suppléant, selon la même procédure que pour les membres effectifs.
+
+Le Gouvernement désigne un président et deux vice-présidents parmi les membres du conseil communautaire ayant voix délibérative.
+
+Le secrétariat du conseil communautaire est assuré par l'administration compétente.
+
+Le conseil communautaire peut entendre et inviter à ses travaux, d'initiative ou à leur demande, toute personne physique ou morale susceptible de l'éclairer dans l'exercice de ses missions.
+
+**Art. 128**
+
+Le Gouvernement détermine les règles de fonctionnement du conseil communautaire et la procédure de nomination de ses membres.
+
+Le Gouvernement fixe les délais dans lesquels les avis sont rendus et détermine la procédure à suivre si ceux-ci ne sont pas respectés.
+
+### Titre 2. - Le conseil de concertation intra-sectorielle
+
+**Art. 129**
+
+Il est institué un conseil de concertation intra-sectorielle dans chaque division ou dans chaque arrondissement qui n'est pas composé de divisions.
+
+Le conseil de concertation intra-sectorielle a pour missions de :
+
+1° favoriser la concertation et la collaboration de l'ensemble des acteurs de la prévention, de l'aide à la jeunesse et la protection de la jeunesse de la division ou de l'arrondissement en vue d'améliorer leurs pratiques;
+
+2° remettre au ministre, chaque année, un avis sur les besoins de la division ou de l'arrondissement en matière de services agréés en vertu de l'article 139, conformément aux principes de programmation visés à l'article 140;
+
+3° répondre aux demandes d'avis de la commission d'agrément sur l'opportunité des demandes d'agrément des services situés sur le territoire de la division ou de l'arrondissement.
+
+**Art. 130**
+
+Le conseil de concertation intra-sectorielle se compose des membres suivants :
+
+1° un représentant de chaque service de la division ou de l'arrondissement, agréé en vertu de l'article 139;
+
+2° un représentant de chaque service d'accrochage scolaire de la division ou de l'arrondissement, agréé en vertu du décret du 21 novembre 2013 organisant des politiques conjointes de l'enseignement obligatoire et de l'aide à la jeunesse en faveur du bien-être des jeunes à l'école, de l'accrochage scolaire, de la prévention de la violence et de l'accompagnement des démarches d'orientation;
+
+3° le chargé de prévention de l'arrondissement ou son représentant;
+
+4° le conseiller ou son représentant;
+
+5° le directeur ou son représentant;
+
+6° un magistrat de la jeunesse du siège, désigné par le président du tribunal de première instance de la division ou de l'arrondissement;
+
+7° un représentant du ministère public, désigné par le procureur du Roi auprès du tribunal de première instance de la division ou de l'arrondissement.
+
+Le conseil de concertation intra-sectorielle est présidé par le conseiller ou son représentant.
+
+Le secrétariat du conseil de concertation intra-sectorielle est assuré par la section administrative du service de l'aide à la jeunesse.
+
+**Art. 131**
+
+Le Gouvernement détermine les règles de fonctionnement du conseil de concertation intra-sectorielle et la procédure de nomination de ses membres.
+
+### Titre 3. - La commission de déontologie
+
+**Art. 132**
+
+Il est institué une commission de déontologie de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse.
+
+La commission de déontologie a pour mission de remettre des avis sur toutes les questions de déontologie en matière de prévention, d'aide à la jeunesse et de protection de la jeunesse, en ce compris celles qui résultent de l'application du code de déontologie arrêté par le Gouvernement.
+
+L'avis de la commission de déontologie est remis soit d'initiative, soit à la demande du Gouvernement, soit à la demande des personnes concernées par une question de déontologie.
+
+**Art. 133**
+
+La commission de déontologie se compose des membres suivants :
+
+1° un conseiller, présenté par le fonctionnaire dirigeant;
+
+2° un directeur, présenté par le fonctionnaire dirigeant;
+
+3° un magistrat de la jeunesse;
+
+4° un membre de la Ligue des Droits de l'Homme, présenté par le conseil d'administration de celle-ci;
+
+5° quatre personnes licenciées ou titulaires d'un master en droit, en criminologie, en psychologie clinique, en sociologie, en philosophie ou d'un doctorat en psychiatrie, pouvant attester d'une expérience professionnelle en matière de prévention, d'aide à la jeunesse et de protection de la jeunesse, présentées par l'Académie de Recherche et d'Enseignement supérieur;
+
+6° une personne issue du secteur des services résidentiels agréés et mandatés, présentée par les organisations et fédérations concernées;
+
+7° une personne issue du secteur des services non résidentiels agréés et mandatés, présentée par les organisations et fédérations concernées;
+
+8° une personne issue du secteur des services agréés en vertu de l'article 139 et non mandatés, présentée par les organisations et fédérations concernées;
+
+9° le délégué général ou son représentant;
+
+10° deux membres de l'administration compétente, dont un représentant du service en charge des institutions publiques, présentés par le fonctionnaire dirigeant.
+
+Les membres de la commission de déontologie sont nommés par le Gouvernement pour une durée de cinq ans.
+
+Les membres de la commission de déontologie visés à l'alinéa 1er, 9° et 10°, assistent aux réunions avec voix consultative.
+
+Le Gouvernement désigne un président et un vice-président parmi les membres de la commission de déontologie ayant voix délibérative.
+
+**Art. 134**
+
+Le Gouvernement détermine les règles de fonctionnement de la commission de déontologie et la procédure de nomination de ses membres.
+
+### Titre 4. - La commission de concertation relative à la formation
+
+**Art. 135**
+
+Il est institué une commission de concertation relative à la formation qui a pour missions de :
+
+1° assurer une concertation permanente entre les services de formation de l'administration compétente, les services de formation agréés et les services agréés en vertu de l'article 139;
+
+2° remettre au ministre et au conseil communautaire, tous les trois ans, un avis sur les enjeux en matière de formation dans le secteur de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse.
+
+**Art. 136**
+
+La commission de concertation relative à la formation se compose des membres suivants :
+
+1° un représentant de chaque organisation ou fédération de services agréés, présenté par celle-ci;
+
+2° un représentant de chaque service de formation agréé, présenté par celui-ci;
+
+3° un représentant de chaque organisation représentative des travailleurs du secteur privé, présenté par celle-ci;
+
+4° un représentant de chaque organisation représentative des travailleurs du secteur public, présenté par celle-ci;
+
+5° un représentant des chargés de prévention, présenté par le fonctionnaire dirigeant;
+
+6° un représentant des conseillers, présenté par le fonctionnaire dirigeant;
+
+7° un représentant des directeurs, présenté par le fonctionnaire dirigeant;
+
+8° le fonctionnaire dirigeant ou son délégué;
+
+9° un représentant du ministre.
+
+Les membres de la commission de concertation relative à la formation sont nommés par le Gouvernement pour une durée de cinq ans.
+
+Le membre de la commission de concertation relative à la formation visé à l'alinéa 1er, 9°, assiste aux réunions avec voix consultative.
+
+La commission de concertation relative à la formation est présidée par le fonctionnaire dirigeant ou son délégué.
+
+**Art. 137**
+
+Le Gouvernement détermine les règles de fonctionnement de la commission de concertation relative à la formation et la procédure de nomination de ses membres.
+
+### Titre 5. - L'union des conseillers et directeurs
+
+**Art. 138**
+
+§ 1er. Il est institué une union des conseillers et directeurs qui a pour missions :
+
+1° de veiller aux intérêts professionnels communs de ses membres;
+
+2° de donner aux conseillers et directeurs, à leur demande, des conseils relatifs à leur pratique professionnelle;
+
+3° d'adresser aux conseillers et directeurs, d'initiative ou à leur demande, des avis portant sur des questions de principe relatives à leur pratique professionnelle;
+
+4° de proposer au fonctionnaire dirigeant les conseillers et les directeurs à désigner au sein des différentes instances d'avis et instances de concertation institués par le présent livre.
+
+§ 2. L'union des conseillers et directeurs est composée de l'ensemble des conseillers et directeurs et de leurs adjoints, en exercice, sous réserve de leur adhésion.
+
+§ 3. Le Gouvernement détermine les règles de fonctionnement de l'union des conseillers et directeurs.
+
+## Livre VII. - L'agrément des services, les subventions et l'évaluation
+
+### Titre 1er. - L'agrément des services et les subventions
+
+**Art. 139**
+
+Toute personne morale qui organise un service visant à réaliser des actions de prévention en faveur des enfants ou des jeunes ou à aider ou protéger des enfants ou des jeunes, de manière habituelle, en vertu du présent code, doit avoir été agréée à cette fin par le Gouvernement.
+
+**Art. 140**
+
+Les personnes morales visées à l'article 139 sont agréées, pour les services qu'elles organisent, sur la base de principes de programmation.
+
+Les principes de programmation sont établis par le Gouvernement et visent à permettre à toute personne visée à l'article 2, 13°, 15°, 16° et 19°, de bénéficier d'une prise en charge adaptée par un service agréé.
+
+**Art. 141**
+
+Le Gouvernement arrête les conditions générales d'agrément des services agréés en vertu de l'article 139.
+
+Ces conditions concernent :
+
+1° la forme juridique et l'objet de la personne morale qui organise le service;
+
+2° les droits et obligations des enfants ou des jeunes, de leurs familles et de leurs familiers;
+
+3° le projet éducatif et le règlement d'ordre intérieur applicables aux enfants ou aux jeunes, en ce compris l'encadrement en termes de personnel, les modalités de participation et de recueil de la parole des enfants ou des jeunes, de leurs familles et de leurs familiers et, le cas échéant, les modalités de maintien des relations personnelles et contacts directs entre l'enfant ou le jeune et ses parents;
+
+4° la mise en place d'un conseil éducatif;
+
+5° les membres du personnel;
+
+6° la salubrité et la sécurité des locaux et leur adéquation à l'exécution de la mission;
+
+7° les responsabilités à faire couvrir par une assurance;
+
+8° la périodicité et le contenu des informations relatives aux normes se rapportant à la sécurité, aux bâtiments et installations, à la comptabilité et à la gestion, qui sont communiquées à l'administration;
+
+9° la périodicité et le contenu des informations relatives à l'aide ou à la protection qui sont communiquées aux autorités qui ont décidé de la mesure à l'égard de l'enfant ou du jeune et à celles qui appliquent cette mesure
+
+10° la tenue des documents administratifs et comptables.
+
+**Art. 142**
+
+Toute personne morale qui organise un service visant à réaliser des actions de prévention, est agréée en vertu de l'article 139 et entend réaliser de telles actions également en faveur de jeunes âgés de plus de dix-huit ans et de moins de vingt-deux ans, en vertu du présent code, doit avoir été agréée spécifiquement à cette fin par le Gouvernement.
+
+Les services visés à l'alinéa 1er travaillent en collaboration avec les services relevant de l'aide sociale générale dans un but d'autonomisation du jeune.
+
+**Art. 143**
+
+Le Gouvernement arrête les conditions particulières d'agrément propres à chaque type de mission.
+
+**Art. 144**
+
+Le Gouvernement fixe la procédure d'agrément des services agréés en vertu de l'article 139 et de l'article 142.
+
+Le Gouvernement statue sur les demandes d'agrément des services agréés en vertu de l'article 139 et de l'article 142 après avoir pris l'avis de la commission d'agrément visée à l'article 146.
+
+**Art. 145**
+
+Le Gouvernement arrête les conditions d'agrément et fixe la procédure d'agrément des services qui ont pour mission d'assurer la formation et le perfectionnement du personnel des différents secteurs, public et privé, de la prévention, de l'aide à la jeunesse, de la protection de la jeunesse et de l'aide sociale générale et ce, sans préjudice des formations à destination du personnel du service public organisées par l'administration compétente.
+
+Le Gouvernement statue sur les demandes d'agrément des services de formation visés à l'alinéa 1er après avoir pris l'avis de la commission d'agrément visée à l'article 146.
+
+**Art. 146**
+
+§ 1er. Il est institué une commission d'agrément chargée d'émettre des avis sur l'opportunité des demandes d'agrément, basés sur les principes de programmation établis par le Gouvernement en vertu de l'article 140, et sur les retraits d'agrément.
+
+§ 2. La commission d'agrément se compose des membres suivants :
+
+1° un conseiller, présenté par le fonctionnaire dirigeant;
+
+2° un directeur, présenté par le fonctionnaire dirigeant;
+
+3° un représentant de chaque organisation ou fédération de services agréés, présenté par celle-ci;
+
+4° un représentant de chaque organisation représentative des travailleurs du secteur privé, présenté par celle-ci;
+
+5° un représentant de chaque organisation représentative des travailleurs du secteur public, présenté par celle-ci;
+
+6° un magistrat de la jeunesse;
+
+7° un représentant du ministre;
+
+8° le fonctionnaire dirigeant ou son délégué.
+
+Les membres de la commission d'agrément sont nommés par le Gouvernement pour une durée de cinq ans.
+
+Les membres de la commission d'agrément visés à l'alinéa 1er, 7° et 8°, assistent aux réunions avec voix consultative.
+
+Le Gouvernement nomme, pour chaque membre de la commission d'agrément ayant voix délibérative, un membre suppléant, selon la même procédure que pour les membres effectifs.
+
+Les représentants des fédérations de services de formation n'assistent aux réunions de la commission d'agrément avec voix délibérative que lorsqu'il s'agit de rendre un avis sur une demande d'agrément concernant un service de formation.
+
+La commission d'agrément est présidée par le fonctionnaire dirigeant ou son délégué.
+
+Le secrétariat de la commission d'agrément est assuré par l'administration compétente.
+
+§ 3. Le Gouvernement détermine les règles de fonctionnement de la commission d'agrément et la procédure de nomination de ses membres.
+
+Le Gouvernement fixe les délais dans lesquels les avis sont rendus et détermine la procédure à suivre si ceux-ci ne sont pas respectés.
+
+**Art. 147**
+
+§ 1er. Lorsqu'elle est amenée à examiner une demande d'agrément pour un service visé à l'article 139 ou à l'article 142, la commission d'agrément se fonde sur les avis des conseils de concertation intra-sectorielle concernés et de l'administration compétente concernant l'opportunité de la mise en oeuvre du projet basés sur les principes de programmation fixés par le Gouvernement en vertu de l'article 140.
+
+Ne peut participer à la délibération relative à l'avis à remettre sur l'opportunité d'une demande d'agrément le membre de la commission d'agrément qui est membre du conseil de concertation intra-sectorielle qui a déjà remis un avis sur la même demande.
+
+Lorsque la commission d'agrément constate que tous les avis reçus sont favorables, elle rend un avis favorable.
+
+§ 2. Lorsqu'elle est amenée à examiner une demande d'agrément pour un service visé à l'article 145, la commission d'agrément se fonde sur l'avis de l'administration compétente concernant l'opportunité de la mise en oeuvre du projet.
+
+**Art. 148**
+
+Lorsqu'il est constaté que le service agréé ne satisfait plus aux conditions d'agrément, le Gouvernement peut, après l'avoir mis en demeure et demandé l'avis de la commission d'agrément, retirer l'agrément, selon les modalités qu'il détermine.
+
+Dans des circonstances urgentes et impérieuses, lorsqu'il est manifeste que le service ne peut plus remplir ses obligations, le Gouvernement peut prendre des mesures de préservation dûment motivées pouvant aller jusqu'à procéder sans mise en demeure au retrait immédiat de l'agrément, dans l'intérêt des enfants ou des jeunes pris en charge. Les mesures de préservation ne peuvent être prises que sur la base d'un rapport de l'administration compétente, reprenant les circonstances urgentes et impérieuses justifiant ces mesures ainsi que les observations émises par le service lors de son audition.
+
+Le Gouvernement détermine les modalités de la procédure urgente visée à l'alinéa 2.
+
+**Art. 149**
+
+§ 1er. Les services agréés bénéficient de subventions destinées à couvrir les frais suivants :
+
+1° les frais de personnel;
+
+2° les frais de fonctionnement;
+
+3° les frais individuels.
+
+§ 2. Une subvention pour frais de personnel est allouée aux services agréés, sur la base au moins des éléments suivants :
+
+1° les normes en matière d'effectif de personnel déterminées par le Gouvernement pour chaque type de mission;
+
+2° les conditions de qualification et les échelles barémiques de rémunération du personnel déterminées par le Gouvernement;
+
+3° les modalités de calcul de l'ancienneté prise en compte pour le calcul de la rémunération, déterminées par le Gouvernement.
+
+§ 3. [<sup>1</sup> Le Gouvernement détermine, s'il échet, la nature des données provenant du cadastre de l'emploi tel que défini par le décret de la Communauté française du 18 avril 2024 relatif au cadastre de l'emploi non-marchand en Communauté française, et qui sont transmises à l'administration compétente en vue de la fixation des frais de personnel.]<sup>1</sup>
+
+§ 4. Une subvention pour frais de fonctionnement est octroyée aux services agréés afin de couvrir les dépenses déterminées par le Gouvernement.
+
+Le montant de la subvention pour frais de fonctionnement est déterminé par le Gouvernement pour chaque type de mission.
+
+§ 5. La subvention pour frais de personnel peut également couvrir les dépenses de fonctionnement et inversement, dans les limites déterminées par le Gouvernement.
+
+§ 6. Une subvention pour frais individuels est allouée aux services agréés dont la mission consiste en l'hébergement collectif ou individuel, en la mise en autonomie ou en l'accompagnement des accueillants familiaux afin de couvrir les frais journaliers d'entretien et d'éducation des enfants et des jeunes qui leur sont confiés, tels que déterminés par le Gouvernement.
+
+§ 7. Les accueillants familiaux, s'ils ne sont pas accompagnés par un service agréé à cet effet, bénéficient d'interventions destinées à couvrir les frais journaliers d'entretien et d'éducation des enfants et des jeunes qui leur sont confiés, tels que déterminés par le Gouvernement.
+
+§ 8. Les personnes morales non agréées et les personnes qui apportent occasionnellement leur concours à l'application du présent code peuvent bénéficier de subventions et interventions destinées à couvrir les frais journaliers de prise en charge des enfants et des jeunes qui leur sont confiés, tels que déterminés par le Gouvernement.
+
+§ 9. Le Gouvernement détermine les modalités de calcul et d'octroi des subventions et interventions.
+
+----------
+
+(1)&lt;DCFR 2024-04-18/33, art. 15, 013; En vigueur : 21-06-2024&gt;
+
+### Titre 2. - L'évaluation
+
+#### Chapitre 1er. - L'évaluation à usage interne des services
+
+**Art. 150**
+
+Au moins tous les deux ans, chaque service agréé procède à une évaluation de son projet éducatif.
+
+Cette évaluation a pour but d'ancrer le service dans un processus d'amélioration continue de la qualité de la prévention, de l'aide et de la protection apportées aux personnes visées à l'article 2, 13°, 15°, 16° et 19°.
+
+Les résultats de cette évaluation sont exclusivement réservés à l'usage interne du service.
+
+Cette évaluation porte au moins sur les dimensions suivantes :
+
+1° la garantie des droits des personnes visées à l'article 2, 13°, 15°, 16° et 19°, la prise en compte de leur parole et la personnalisation de leur accompagnement;
+
+2° la mise en oeuvre des missions confiées au service et de son projet éducatif.
+
+#### Chapitre 2. - L'évaluation de la mise en oeuvre des principes du Code
+
+**Art. 151**
+
+Le Gouvernement fait procéder, en collaboration avec l'administration compétente, à une évaluation externe de la pertinence et de l'efficacité des mesures mises en oeuvre par l'ensemble du secteur pour rencontrer les principes visés au Titre préliminaire. [<sup>1</sup> Cette évaluation associe les enfants, les jeunes et leur famille. ]<sup>1</sup>
+
+Pour réaliser cette évaluation, des chercheurs sont désignés à la suite [<sup>1</sup> d'une procédure de marché public]<sup>1</sup>.
+
+Dans ce cadre, un comité chargé d'accompagner cette évaluation est mis en place selon les modalités fixées dans l'appel d'offres.
+
+Le comité d'accompagnement se compose au moins d'un représentant du ministre, de représentants de l'Observatoire de l'enfance, de la jeunesse et de l'aide à la jeunesse, d'un représentant de l'administration compétente et d'un représentant des services et institutions agréés.
+
+Le rapport final [<sup>1</sup> comprenant des recommandations]<sup>1</sup> est remis au Gouvernement au plus tard au milieu de la législature.
+
+Dans les trois mois qui suivent la réception du rapport, le Gouvernement le transmet pour information au conseil communautaire et au parlement.
+
+----------
+
+(1)&lt;DCFR 2023-07-20/46, art. 33, 008; En vigueur : 19-01-2024&gt;
+
+## Livre VII/I. [<sup>1</sup> Protection des données personnelles ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+### Titre 1er. [<sup>1</sup> Dispositions générales ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/1**
+
+[<sup>1</sup> § 1er. Les traitements visés par le présent décret relèvent de la responsabilité du Ministère de la Communauté française qui agit en tant que responsable de traitement au sens de l'article 4.7) du RGPD.
+
+§ 2. Par exception, le partenaire agréé en application du Livre VII du présent décret est considéré comme responsable de traitement au sens de l'article 4.7) du RGPD pour l'ensemble des opérations qu'il réalise .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/2**
+
+[<sup>1</sup> Dans le cadre de l'application du présent décret, les traitements de données personnelles sont effectués en vue de réaliser les finalités générales suivantes :
+
+1° développer des actions de prévention en application du livre Ier ;
+
+2° mettre en place des mesures d'aide et de protection à destination des enfants et de leur famille en application du livre III et du livre IV ;
+
+3° mettre en place des mesures de protection à destination des jeunes poursuivis du chef d'un fait qualifié infraction commis avant l'âge de 18 ans en application du livre V ;
+
+4° organiser les instances d'avis et les instances de concertation en application du livre VI ;
+
+5° agréer, subventionner et évaluer les services en application du livre VII ;
+
+6° assurer la prise en charge financière des décisions prises en vertu présent décret qui entraînent des dépenses à charge du budget de la Communauté française en application du livre VIII. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/3**
+
+[<sup>1</sup> Pour l'ensemble des traitements visés par le présent décret, le Gouvernement fixe les éléments suivants :
+
+1° la liste des données personnelles par traitement, par catégories de données et par catégories de personnes concernées ;
+
+2° les durées de conservation de ces données ;
+
+3° les modalités de communication vers les personnes concernées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/4**
+
+[<sup>1</sup> . § 1er. Pour l'ensemble des traitements visés à l'article 151/2, les services habilités à assurer les compétences visées par le présent décret peuvent échanger avec les autorités mandantes, les autres acteurs de la justice et les services tiers les données personnelles nécessaires à l'accomplissement de leurs tâches, conformément aux dispositions légales et réglementaires applicables.
+
+§ 2. Les données personnelles traitées par les services habilités à assurer les compétences visées par le présent décret sont également susceptibles d'être transférées aux partenaires dans le cadre des collaborations relatives aux prises en charge.
+
+Le Gouvernement détermine les modalités du transfert visé au § 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/5**
+
+[<sup>1</sup> § 1er. Les données personnelles sont collectées, exploitées, communiquées, transférées et stockées dans des locaux sécurisés par le responsable de traitement ou dans des solutions informatiques sécurisées mises à disposition par le sous-traitant principal du responsable de traitement au sens de l'article 4.8) du RGPD : l'ETNIC.
+
+Le Gouvernement arrête les modalités des mesures de sécurité visées à l'alinéa 1er.
+
+§ 2. Dans le cadre de la mise à disposition visée au paragraphe 1er, le Ministère de la Communauté française traite les données personnelles relatives à l'identification, l'authentification, la prise de contact, la navigation et la traçabilité des utilisateurs des solutions informatiques. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/6**
+
+[<sup>1</sup> § 1er. Les données personnelles traitées dans le cadre des traitements visés par le présent décret peuvent être traitées ultérieurement par le Ministère de la Communauté française ou par des opérateurs externes à des fins de recherche scientifique ou historique ou à des fins statistiques.
+
+§ 2. Les données traitées par le Ministère de la Communauté française aux fins visées au paragraphe 1er sont, avant tout transfert éventuel, anonymisées ou, si les objectifs visés par le traitement ne peuvent pas être atteints avec une anonymisation, elles sont pseudonymisées.
+
+Les données transférées aux opérateurs externes aux fins visées au paragraphe 1er sont, en fonction des objectifs du traitement, anonymisées, pseudonymisées ou brutes. Les modalités du transfert sont encadrées par un marché public ou sont déterminées dans une convention.
+
+L'opérateur est tenu de signer une convention de partage de données.
+
+Les opérateurs externes sont dans tous les cas tenus d'anonymiser les données contenues dans le résultat de leurs recherches avant toute publication de celui-ci.
+
+§ 3. Les données personnelles traitées dans le cadre des traitements visés par le présent décret peuvent être traitées ultérieurement par des tiers à d'autres fins que celles prévues au paragraphe 1er en application de réglementations nationales en vigueur. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+### Titre 2. [<sup>1</sup> Protection des données personnelles dans le cadre de l'application du livre Ier ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/7**
+
+[<sup>1</sup> Dans le cadre des missions visées au livre Ier, les services habilités à assurer les compétences relatives à la prévention réalisent le traitement de données personnelles visé à l'article 151/2, 1°, aux fins d'assurer la gestion administrative, sous format papier et électronique, des dossiers et des données personnelles des acteurs impliqués dans le traitement .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/8**
+
+[<sup>1</sup> . Dans le cadre du traitement visé à l'article 151/2, 1°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+
+1° les représentants des services partenaires de la prévention :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à l'entité à laquelle le représentant appartient ;
+
+c) les données relatives à la profession et à l'emploi ;
+
+2° les collaborateurs du Ministère de la Communauté française :
+
+a) les données d'identification et de contact ;
+
+b) les données permettant le traçage des activités online ;
+
+c) les données relatives à l'entité à laquelle l'agent appartient ;
+
+d) les données relatives à la profession et à l'emploi. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+### Titre 3. [<sup>1</sup> Protection des données personnelles dans le cadre de l'application des livres III et IV]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/9**
+
+[<sup>1</sup> Dans le cadre des missions visées aux livres III et IV, les services habilités à assurer les compétences relatives à l'aide à la jeunesse et à la protection de la jeunesse réalisent le traitement de données personnelles visé à l'article 151/2, 2°, aux fins de :
+
+1° identifier et authentifier les personnes concernées ;
+
+2° gérer les demandes d'aide consentie ou contrainte ;
+
+3° réaliser les investigations sociales nécessaires à l'évaluation et à la qualification de la demande ;
+
+4° réaliser une intervention d'urgence ;
+
+5° formaliser le programme d'aide ou l'application de mesures ;
+
+6° gérer les évènements graves (et ainsi assurer la sécurité et la santé des jeunes) ;
+
+7° assurer la gestion administrative, sous format papier et électronique, des dossiers et des données personnelles des acteurs impliqués dans le traitement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/10**
+
+[<sup>1</sup> § 1er. Dans le cadre du traitement visé à l'article 151/2, 2°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+
+1° le jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives aux caractéristiques personnelles ;
+
+d) les données relatives aux habitudes de vie ;
+
+e) les données relatives à la composition du ménage ;
+
+f) les données relatives aux loisirs et intérêts ;
+
+g) les données relatives aux caractéristiques du logement ;
+
+h) les données relatives aux études et à la formation ;
+
+i) les données relatives au parcours scolaire ;
+
+j) les données relatives à la profession et à l'emploi ;
+
+k) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+l) les données de santé ;
+
+m) les données relatives à l'origine raciale ou ethnique ;
+
+n) les données relatives aux opinions politiques ;
+
+o) les données relatives aux convictions religieuses ou philosophiques ;
+
+p) les données relatives à la vie ou à l'orientation sexuelle ;
+
+q) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+r) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+2° les personnes qui exercent l'autorité parentale du jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives aux caractéristiques personnelles ;
+
+d) les données relatives aux habitudes de vie ;
+
+e) les données relatives à la composition du ménage ;
+
+f) les données relatives aux loisirs et intérêts ;
+
+g) les données relatives aux caractéristiques du logement ;
+
+h) les données relatives aux études et à la formation ;
+
+i) les données relatives à la profession et à l'emploi ;
+
+j) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+k) les données de santé ;
+
+l) les données relatives à l'origine raciale ou ethnique ;
+
+m) les données relatives aux opinions politiques ;
+
+n) les données relatives aux convictions religieuses ou philosophiques ;
+
+o) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+p) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+3° les familiers du jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives aux caractéristiques personnelles ;
+
+c) les données relatives aux habitudes de vie ;
+
+d) les données relatives à la composition du ménage ;
+
+e) les données relatives aux loisirs et intérêts ;
+
+f) les données relatives aux caractéristiques du logement ;
+
+g) les données relatives aux études et à la formation ;
+
+h) les données relatives à la profession et à l'emploi ;
+
+i) les données relatives à l'enregistrement d'images ou de sons permettant
+
+j) une identification unique d'une personne ;
+
+k) les données de santé ;
+
+l) les données relatives à l'origine raciale ou ethnique ;
+
+m) les données relatives aux opinions politiques ;
+
+n) les données relatives aux convictions religieuses ou philosophiques ;
+
+o) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+p) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+4° les accueillants familiaux :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives aux caractéristiques personnelles ;
+
+d) les données relatives aux habitudes de vie ;
+
+e) les données relatives à la composition du ménage ;
+
+f) les données relatives aux loisirs et intérêts ;
+
+g) les données relatives aux caractéristiques du logement ;
+
+h) les données relatives aux études et à la formation ;
+
+i) les données relatives à la profession et à l'emploi ;
+
+j) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+k) les données de santé ;
+
+l) les données relatives à l'origine raciale ou ethnique ;
+
+m) les données relatives aux opinions politiques ;
+
+n) les données relatives aux convictions religieuses ou philosophiques ;
+
+o) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+p) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+5° les prestataires :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives aux études et à la formation ;
+
+d) les données relatives à la profession et à l'emploi ;
+
+6° les collaborateurs du Ministère de la Communauté française concernés par la prise en charge :
+
+a) les données d'identification et de contact ;
+
+b) les données permettant le traçage des activités online ;
+
+c) les données relatives à l'entité à laquelle l'agent appartient ;
+
+d) les données relatives à la profession et à l'emploi ;
+
+7° les représentants du tribunal de la jeunesse :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à l'entité à laquelle l'agent appartient ;
+
+c) les données relatives à la profession et à l'emploi ;
+
+8° les avocats :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à la profession et à l'emploi.
+
+§ 2. Parmi la catégorie de données relative aux données d'identification et de contact, le numéro de registre national et les données associées sont collectées directement ou indirectement auprès des personnes concernées.
+
+§ 3. Le traitement des données personnelles liées aux données de santé, à l'origine raciale ou ethnique, aux opinions politiques, aux convictions religieuses ou philosophiques, à la vie ou à l'orientation sexuelle, n'est envisageable que pour autant qu'il soit nécessaire pour des motifs d'intérêt public important au sens de l'article 9.2., g), du RGPD.
+
+§ 4. Le traitement des données relatives aux préjudices subis et aux dépôts de plaintes s'entend dans l'application des articles 29 et 46 du décret, qui permettent à l'enfant, sa famille et ses familiers de saisir l'administration compétente en cas de non-respect de leurs droits, par courrier adressé au fonctionnaire dirigeant.
+
+§ 5. La collecte des catégories des données sensibles, au sens de l'article 9 du RGPD, visées par l'article 151/10, § 1er, s'effectue au travers d'une étude et d'investigations sociales.
+
+Ces études et investigations sont réalisées sur base des déclarations des différentes parties prenantes et des observations réalisées par les travailleurs des services d'aide et de protection de la jeunesse.
+
+§ 6. La catégorie des prestataires visée au § 1er, 5°, fait référence aux personnes morales ou personnes physiques qui mettent en oeuvre une mesure d'aide à l'enfant ou aux jeunes en application de la décision d'une autorité mandante et qui à ce titre perçoivent des subsides et sont susceptibles d'être contrôlées quant à la qualité de la prestation fournie.
+
+Sont également visées les personnes qui apportent leur concours à la prise en charge d'un jeune en application de l'arrêté du 23 janvier 2019 relatif aux subventions et interventions pour frais individuels liés à la prise en charge d'enfants et de jeunes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+### Titre 4. [<sup>1</sup> Protection des données personnelles dans le cadre de l'application du livre V ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/11**
+
+[<sup>1</sup> Dans le cadre des missions visées au livre V, les services habilités à assurer les compétences relatives à la prise en charge des jeunes poursuivis du chef d'un fait qualifié infraction commis avant l'âge de 18 ans réalisent le traitement de données personnelles visé à l'article 151/2, 3°, aux fins de :
+
+1° identifier et authentifier les personnes concernées ;
+
+2° assurer les modalités d'accueil, d'accompagnement et/ou d'hébergement des jeunes ;
+
+3° mettre en oeuvre le projet éducatif de l'institution ;
+
+4° établir un projet éducatif individualisé en équipe mobile d'accompagnement ;
+
+5° gérer les évènements graves (et ainsi assurer la sécurité et la santé des jeunes) ;
+
+6° assurer la gestion administrative, sous format papier et électronique, des dossiers et des données personnelles des acteurs impliqués dans le traitement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/12**
+
+[<sup>1</sup> § 1er. Dans le cadre du traitement visé à l'article 151/2, 3°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+
+1° le jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives aux caractéristiques personnelles ;
+
+d) les données relatives aux habitudes de vie ;
+
+e) les données relatives à la composition du ménage ;
+
+f) les données relatives aux loisirs et intérêts ;
+
+g) les données relatives aux caractéristiques du logement ;
+
+h) les données relatives aux études et à la formation ;
+
+i) les données relatives au parcours scolaire ;
+
+j) les données relatives à la profession et à l'emploi ;
+
+k) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+l) les données génétiques en vue de l'identification unique d'une personne ;
+
+m) les données de santé ;
+
+n) les données relatives à l'origine raciale ou ethnique ;
+
+o) les données relatives aux opinions politiques ;
+
+p) les données relatives aux convictions religieuses ou philosophiques ;
+
+q) les données relatives à la vie ou à l'orientation sexuelle ;
+
+r) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+s) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+2° les personnes qui exercent l'autorité parentale et familiers du jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives aux caractéristiques personnelles ;
+
+d) les données relatives aux habitudes de vie ;
+
+e) les données relatives à la composition du ménage ;
+
+f) les données relatives aux loisirs et intérêts ;
+
+g) les données relatives aux caractéristiques du logement ;
+
+h) les données relatives aux études et à la formation ;
+
+i) les données relatives à la profession et à l'emploi ;
+
+j) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+k) les données de santé ;
+
+l) les données relatives à l'origine raciale ou ethnique ;
+
+m) les données relatives aux opinions politiques ;
+
+n) les données relatives aux convictions religieuses ou philosophiques ;
+
+o) les données relatives à la vie ou à l'orientation sexuelle ;
+
+p) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+q) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+3° les juges de la jeunesse :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à la profession et à l'emploi ;
+
+c) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+4° les collaborateurs du Ministère de la Communauté française concernés par la prise en charge :
+
+a) les données d'identification et de contact ;
+
+b) les données permettant le traçage des activités online ;
+
+c) les données relatives à l'entité à laquelle l'agent appartient ;
+
+d) les données relatives à la profession et à l'emploi ;
+
+e) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+5° les avocats :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à la profession et à l'emploi ;
+
+c) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+6° le personnel médical ou paramédical concerné par la prise en charge :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à la profession et à l'emploi ;
+
+c) les données financières ;
+
+d) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+7° les prestataires (mandatés ou non) concernés par la prise en charge :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à la profession et à l'emploi ;
+
+c) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+8° les victimes présumées :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+c) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+9° les co-auteurs ou complices :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne ;
+
+10° les visiteurs des institutions publiques de protection de la jeunesse :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à l'enregistrement d'images ou de sons permettant une identification unique d'une personne.
+
+§ 2. Parmi la catégorie de données relative aux données d'identification et de contact, le numéro de registre national et les données associées sont collectées directement ou indirectement auprès des personnes concernées.
+
+§ 3. Le traitement des données personnelles liées aux données de santé, à l'origine raciale ou ethnique, aux opinions politiques, aux convictions religieuses ou philosophiques, à la vie ou à l'orientation sexuelle, n'est envisageable que pour autant qu'il soit nécessaire pour des motifs d'intérêt public important au sens de l'article 9.2., g), du RGPD.
+
+Les données relatives à la vie ou à l'orientation sexuelle sont uniquement collectées lorsque celles-ci sont évoquées volontairement par le jeune ou par la personne concernée.
+
+§ 4. La collecte des catégories des données sensibles, au sens de l'article 9 du RGPD, visées par l'article 151/12, § 1er, s'effectue au travers du contenu du dossier du jeune à son arrivée.
+
+Le jeune est également questionné quant à l'assistance philosophique ou religieuse, l'enseignement moral ou religieux et le type de régime alimentaire dont il souhaite bénéficier, conformément aux articles 27 et 28 de l'arrêté du Gouvernement de la Communauté française du 3 juillet 2019.
+
+La collecte de données sensibles complémentaires auprès du jeune est effectuée sur base volontaire.
+
+§ 5. La catégorie des prestataires visée au § 1er, 7°, fait référence aux personnes morales ou personnes physiques qui mettent en oeuvre une mesure d'aide à l'enfant ou aux jeunes en application de la décision d'une autorité mandante et qui à ce titre perçoivent des subsides et sont susceptibles d'être contrôlées quant à la qualité de la prestation fournie.
+
+Sont également visées les personnes qui apportent leur concours à la prise en charge d'un jeune en application de l'arrêté du 23 janvier 2019 relatif aux subventions et interventions pour frais individuels liés à la prise en charge d'enfants et de jeunes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+### Titre 5. [<sup>1</sup> Protection des données personnelles dans le cadre de l'application du livre VI ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/13**
+
+[<sup>1</sup> Dans le cadre des missions visées au livre VI, les services habilités à assurer les compétences relatives aux instances d'avis et instances de concertation en application du livre VI réalisent le traitement de données personnelles visé à l'article 151/2, 4°, aux fins d'assurer la gestion administrative, sous format papier et électronique, des dossiers et des données personnelles des acteurs impliqués dans le traitement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/14**
+
+[<sup>1</sup> Dans le cadre du traitement visé à l'article 151/2, 4°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+
+1° les acteurs impliqués dans les instances d'avis et de concertation :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à l'entité à laquelle l'acteur appartient ;
+
+c) les données relatives à la profession et à l'emploi ;
+
+2° les collaborateurs du Ministère de la Communauté française :
+
+a) les données d'identification et de contact ;
+
+b) les données permettant le traçage des activités online ;
+
+c) les données relatives à l'entité à laquelle l'agent appartient ;
+
+d) les données relatives à la profession et à l'emploi. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/15**
+
+[<sup>1</sup> De manière complémentaire, dans le cadre de l'application du Livre VI, la Commission de déontologie visée par les articles 132 à 134 du présent décret est considérée comme responsable de traitement au sens de l'article 4.7) du RGPD pour l'ensemble des autres traitements de données personnelles qu'elle réalise. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+### Titre 6. [<sup>1</sup> - Protection des données personnelles dans le cadre de l'application du livre VII ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/16**
+
+[<sup>1</sup> Dans le cadre des missions visées au livre VII, les services habilités à assurer les compétences relatives à l'agrément, le subventionnement et l'évaluation des services en application du livre VII réalisent le traitement de données personnelles visé à l'article 151/2, 5°, aux fins de :
+
+1° identifier et authentifier les personnes concernées ;
+
+2° agréer des services ;
+
+3° évaluer le respect des conditions d'agrément ;
+
+4° gérer les modifications et les retraits d'agrément ;
+
+5° gérer les familles d'accueil ;
+
+6° octroyer des subventions aux services ;
+
+7° gérer le calcul et contrôler l'utilisation des subventions ;
+
+8° évaluer les projets éducatifs des services agréés ;
+
+9° évaluer l'adéquation entre les missions exécutées par les services agréés et les besoins des jeunes et de leur famille ;
+
+10° gérer les évènements graves (et ainsi assurer la sécurité et la santé des jeunes) ;
+
+11° assurer la gestion administrative, sous format papier et électronique, des dossiers et des données personnelles des acteurs impliqués dans le traitement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14 011; En vigueur : 09-06-2024&gt;
+
+**Art. 151/17**
+
+[<sup>1</sup> . § 1er. Dans le cadre du traitement visé à l'article 151/2, 5°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+
+1 ° le jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives à la composition du ménage ;
+
+d) les données relatives aux caractéristiques personnelles ;
+
+e) les données relatives aux habitudes de vie ;
+
+f) les données relatives aux études et à la formation ;
+
+g) les données relatives au parcours scolaire ;
+
+h) les données de santé ;
+
+i) les données relatives à la vie ou à l'orientation sexuelle ;
+
+j) les données relatives aux loisirs et intérêts ;
+
+k) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+l) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+2° les personnes qui exercent l'autorité parentale du jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives à la composition du ménage ;
+
+d) les données relatives aux études et à la formation ;
+
+e) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+3° les membres des services agréés :
+
+a) les données d'identification et de contact ;
+
+b) les données relatives à la profession et à l'emploi ;
+
+c) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+d) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+4° les prestataires :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives à la profession et à l'emploi ;
+
+d) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+e) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+5° les accueillants familiaux :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives à la composition du ménage ;
+
+d) les données relatives à la profession et à l'emploi ;
+
+e) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+f) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+6° les collaborateurs du Ministère de la Communauté française :
+
+a) les données d'identification et de contact ;
+
+b) les données permettant le traçage des activités online ;
+
+c) les données relatives à l'entité à laquelle l'agent appartient ;
+
+d) les données relatives à la profession et à l'emploi.
+
+§ 2. Parmi la catégorie de données relative aux données d'identification et de contact, le numéro de registre national et les données associées sont collectées directement ou indirectement auprès des personnes concernées.
+
+§ 3. Le traitement des données personnelles liées aux données de santé, à l'origine raciale ou ethnique, aux opinions politiques, aux convictions religieuses ou philosophiques, à la vie ou à l'orientation sexuelle, n'est envisageable que pour autant qu'il soit nécessaire pour des motifs d'intérêt public important au sens de l'article 9.2., g), du RGPD.
+
+§ 4. La collecte des catégories de données sensibles, au sens de l'article 9 du RGPD, visées par l'article 151/17, § 1er, 3°. est réalisée en application de l'article 19 de l'arrêté du Gouvernement de la Communauté française du 5 décembre 2018 relatif aux conditions générales d'agrément et d'octroi des subventions pour les services visés à l'article 139 du présent décret.
+
+§ 5. La catégorie des prestataires visée au 1er, 4°, fait référence aux personnes morales ou personnes physiques qui mettent en oeuvre une mesure d'aide à l'enfant ou aux jeunes en application de la décision d'une autorité mandante et qui à ce titre perçoivent des subsides et sont susceptibles d'être contrôlées quant à la qualité de la prestation fournie.
+
+Sont également visées les personnes qui apportent leur concours à la prise en charge d'un jeune en application de l'arrêté du 23 janvier 2019 relatif aux subventions et interventions pour frais individuels liés à la prise en charge d'enfants et de jeunes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+### Titre 7. [<sup>1</sup> Protection des données personnelles dans le cadre de l'application du livre VIII ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+### Art. 151/18. [<sup>1</sup> Dans le cadre des missions visées au livre VIII, les services habilités à assurer les compétences relatives à la prise en charge financière des décisions prises en vertu présent décret qui entraînent des dépenses à charge du budget de la Communauté française réalisent le traitement de données personnelles visé à l'article 151/2, 6°, aux fins de :
+
+1° identifier et authentifier les personnes concernées ;
+
+2° gérer les allocations familiales ;
+
+3° gérer les paiements aux prestataires et accueillants familiaux ;
+
+4° gérer les recettes, les indus, et les parts contributives ;
+
+5° assurer la gestion administrative, sous format papier et électronique, des dossiers et des données personnelles des acteurs impliqués dans le traitement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+###### Art. 151/19. [<sup>1</sup> § 1er. Dans le cadre du traitement visé à l'article 151/2, 6°, les catégories de données personnelles susceptibles d'être traitées par catégorie de personnes concernées sont les suivantes :
+
+1° le jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives à la composition du ménage ;
+
+d) les données relatives aux études et à la formation ;
+
+e) les données relatives au parcours scolaire ;
+
+f) les données de santé ;
+
+g) les données relatives à la vie ou à l'orientation sexuelle ;
+
+h) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+i) les données concernant le préjudice subi (préjudice moral, physique ou financier) et concernant le dépôt de sa plainte ;
+
+2° les personnes qui exercent l'autorité parentale du jeune :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives à la composition du ménage ;
+
+d) Les données relatives aux études et à la formation ;
+
+e) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+3° les membres des services agréés :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives aux études et à la formation ;
+
+d) les données relatives à la profession et à l'emploi ;
+
+e) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+4° les prestataires :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives aux études et à la formation ;
+
+d) les données relatives à la profession et à l'emploi ;
+
+e) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+5° les accueillants familiaux :
+
+a) les données d'identification et de contact ;
+
+b) les données financières ;
+
+c) les données relatives à la composition du ménage ;
+
+d) les données relatives à la profession et à l'emploi ;
+
+e) les données relatives aux poursuites, condamnations et infractions pénales ;
+
+6° les collaborateurs du Ministère de la Communauté française :
+
+a) les données d'identification et de contact ;
+
+b) les données permettant le traçage des activités online ;
+
+c) les données relatives à l'entité à laquelle l'agent appartient ;
+
+d) les données relatives à la profession et à l'emploi.
+
+§ 2. Parmi la catégorie de données relative aux données d'identification et de contact, le numéro de registre national et les données associées sont collectées directement ou indirectement auprès des personnes concernées.
+
+§ 3. Le traitement des données personnelles liées aux données de santé, à l'origine raciale ou ethnique, aux opinions politiques, aux convictions religieuses ou philosophiques, à la vie ou à l'orientation sexuelle, n'est envisageable que pour autant qu'il soit nécessaire pour des motifs d'intérêt public important au sens de l'article 9.2., g), du RGPD.
+
+§ 4. La catégorie des prestataires visée au § 1er, 4°, fait référence aux personnes morales ou personnes physiques qui mettent en oeuvre une mesure d'aide à l'enfant ou aux jeunes en application de la décision d'une autorité mandante et qui à ce titre perçoivent des subsides et sont susceptibles d'être contrôlées quant à la qualité de la prestation fournie.
+
+Sont également visées les personnes qui apportent leur concours à la prise en charge d'un jeune en application de l'arrêté du 23 janvier 2019 relatif aux subventions et interventions pour frais individuels liés à la prise en charge d'enfants et de jeunes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-04-04/38, art. 14, 011; En vigueur : 09-06-2024&gt;
+
+## Livre VIII. - Les dispositions financières, générales, pénales et finales
+
+### Titre 1er. - Les dispositions financières
+
+**Art. 152**
+
+L'administration compétente reçoit notification de toute décision prise en vertu du présent code lorsqu'elle entraîne des dépenses à charge du budget de la Communauté française.
+
+**Art. 153**
+
+La participation des personnes qui doivent des aliments à l'enfant aux frais résultant des mesures prises en application des articles 35, § 4, 37, 51, 52, 101 et 108 est fixée [<sup>1</sup> par le conseiller, par le directeur ou par le tribunal de la jeunesse]<sup>1</sup> suivant les critères et modalités arrêtés par le Gouvernement.
+
+La fixation d'une participation aux frais dans le chef d'un débiteur d'aliments autre qu'un ascendant au premier degré n'exclut pas l'octroi de subventions à ce débiteur d'aliments lorsque l'aide ou la protection est dispensée par son intermédiaire.
+
+Le tribunal de la jeunesse statue sur les recours introduits contre ces fixations.
+
+Le recouvrement des frais mis à charge des intéressés est poursuivi par le Gouvernement.
+
+En cas d'exécution forcée, le recouvrement de ces frais est confié à l'administration de l'enregistrement et des domaines, conformément aux dispositions de l'article 3 de la loi domaniale du 22 décembre 1949.
+
+----------
+
+(1)&lt;DCFR 2024-04-04/38, art. 15, 011; En vigueur : 09-06-2024&gt;
+
+### Titre 2. - Les dispositions générales
+
+**Art. 154**
+
+Le Gouvernement fait inspecter par les fonctionnaires qu'il délègue à cet effet :
+
+1° les services agréés;
+
+2° les services de l'aide à la jeunesse ainsi que les services de la protection de la jeunesse;
+
+3° les institutions publiques, à régime ouvert et à régime fermé;
+
+4° les personnes morales non agréées et les personnes qui apportent occasionnellement leur concours à l'application du présent code.
+
+**Art. 155**
+
+Sauf en cas de contre-indication médicale, les enfants et les jeunes confiés à un service agréé résidentiel ou à une institution publique en vertu d'une mesure d'aide ou de protection peuvent être soumis à des vaccinations et inoculations préventives, selon les règles fixées par le Gouvernement.
+
+**Art. 156**
+
+Les protocoles de collaboration sont conclus entre le secteur de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse et d'autres secteurs dans le but d'améliorer la prévention et la prise en charge des enfants, des jeunes et des familles visés par le présent code.
+
+### Titre 3. - Les dispositions pénales
+
+**Art. 157**
+
+Toute personne qui apporte son concours à l'application du présent code est, de ce fait, dépositaire des secrets qui lui sont confiés dans l'exercice de sa mission et qui se rapportent à celle-ci et se voit appliquer les dispositions du Code pénal relatives au secret professionnel.
+
+**Art. 158**
+
+Celui qui héberge habituellement des enfants ou des jeunes sous le couvert de l'application du présent code sans avoir obtenu l'agrément ou en contravention avec une décision de refus ou de retrait d'agrément est puni [<sup>1</sup> d'une peine de niveau 1]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2026-09-04/04, art. 5, 014; En vigueur : 01-09-2026&gt;
+
+**Art. 159**
+
+La violation des obligations imposées par les décisions prises en application de l'article 153 est punie conformément aux dispositions du Code pénal relatives à l'abandon de famille.
+
+### Titre 4. - Les dispositions finales
+
+**Art. 160**
+
+Dans le décret du 20 juin 2002 instituant un délégué général de la Communauté française aux droits de l'enfant, il est inséré un article 4/1 rédigé comme suit :
+
+" Art. 4/1. Le délégué général préside la commission de surveillance instituée auprès de lui en vertu de l'article 73 du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse. ".
+
+**Art. 161**
+
+A l'article 2 du décret du 31 mars 2004 relatif à l'adoption, les mots " de l'aide à la jeunesse " sont supprimés et les mots " en vertu du décret du 4 mars 1991 relatif à l'aide à la jeunesse " sont remplacés par les mots " en vertu du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse ".
+
+**Art. 162**
+
+A l'article 4 du même décret, les modifications suivantes sont apportées :
+
+1° le 5° est remplacé par ce qui suit :
+
+" 5° un membre du conseil communautaire de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse; ";
+
+2° le 6° est remplacé par ce qui suit :
+
+" 6° un délégué des conseillers de l'aide à la jeunesse et des directeurs de la protection de la jeunesse; ".
+
+**Art. 163**
+
+A l'article 15, alinéa 3, 2°, du même décret, les mots " la commission d'agrément visée à l'article 46 du décret du 4 mars 1991 relatif à l'aide à la jeunesse " sont remplacés par les mots " la commission d'agrément visée au Livre VII du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse ".
+
+**Art. 164**
+
+Dans l'article 1er du décret du 12 mai 2004 relatif à l'aide aux enfants victimes de maltraitance, les modifications suivantes sont apportées :
+
+1° le 6° est remplacé par ce qui suit :
+
+" 6° conseiller : le conseiller de l'aide à la jeunesse au sens du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse; ";
+
+2° le 7° est remplacé par ce qui suit :
+
+" 7° directeur : le directeur de la protection de la jeunesse au sens du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse; ";
+
+3° est inséré le 12° rédigé comme suit :
+
+" 12° arrondissement : tout arrondissement judiciaire situé dans la région de langue française et l'arrondissement judiciaire de Bruxelles limité au territoire de la Région bilingue de Bruxelles-Capitale; ";
+
+4° est inséré le 13° rédigé comme suit :
+
+" 13° division : la division du tribunal de première instance telle que définie par les arrêtés royaux pris en exécution de l'article 186 du Code judiciaire. ".
+
+**Art. 165**
+
+L'article 4 du même décret est remplacé par ce qui suit :
+
+" Art. 4. Il est institué une commission de coordination de l'aide aux enfants victimes de maltraitance dans chaque division ou dans chaque arrondissement qui n'est pas composé de divisions.
+
+Toutefois, une commission de coordination peut être instituée pour plusieurs divisions. ".
+
+**Art. 166**
+
+A l'article 6, alinéa 1er, du même décret, les modifications suivantes sont apportées :
+
+1° le 1° est remplacé par ce qui suit :
+
+" 1° un représentant de l'équipe ou des équipes SOS Enfants qui travaillent dans la division ou dans l'arrondissement si celui-ci n'est pas composé de divisions; ";
+
+2° le 2° est remplacé par ce qui suit :
+
+" 2° le conseiller de la division ou de l'arrondissement; ";
+
+3° le 3° est remplacé par ce qui suit :
+
+" 3° le directeur de la division ou de l'arrondissement; ";
+
+4° le 5° est remplacé par ce qui suit :
+
+" 5° le ou les juges de la jeunesse de la division ou de l'arrondissement si celui-ci n'est pas composé de divisions; ";
+
+5° le 6° est remplacé par ce qui suit :
+
+" 6° le ou les magistrats du parquet de la jeunesse de la division ou de l'arrondissement si celui-ci n'est pas composé de divisions; ".
+
+**Art. 167**
+
+A l'article 6, alinéa 3, du même décret, les mots " par arrondissement judiciaire concerné " sont remplacés par les mots " par division concernée ".
+
+**Art. 168**
+
+A l'article 9, 1°, du même décret, les mots " par le conseiller de l'aide à la jeunesse en référence à l'article 36, § 3, du décret du 4 mars 1991 ou par le directeur en application d'une décision judiciaire en vertu de l'article 38 du décret du 4 mars 1991 relatif à l'aide à la jeunesse; " sont remplacés par les mots " par le conseiller, dans le cadre de sa mission d'aide, ou par le directeur, en application d'une décision judiciaire; ".
+
+**Art. 169**
+
+A l'article 9, 5°, du même décret, les mots " et aux CAAJ " sont supprimés.
+
+**Art. 170**
+
+A l'article 12 du même décret, les modifications suivantes sont apportées :
+
+1° au § 1er, les mots " sur l'ensemble des arrondissements judiciaires " sont remplacés par les mots " sur l'ensemble des divisions et arrondissements " et les mots " tout arrondissement judiciaire " sont remplacés par les mots " toute division ou tout arrondissement qui n'est pas composé de divisions ";
+
+2° au § 2, les mots " par arrondissement judiciaire " sont remplacés par les mots " par division ou par arrondissement qui n'est pas composé de divisions ".
+
+**Art. 171**
+
+A l'article 13, § 2, alinéa 4, du même décret, les mots " un arrondissement judiciaire " sont chaque fois remplacés par les mots " une division, un arrondissement qui n'est pas composé de divisions ".
+
+**Art. 172**
+
+Dans l'article 1er du décret du 21 novembre 2013 organisant les politiques conjointes de l'enseignement obligatoire et de l'aide à la jeunesse en faveur du bien-être des jeunes à l'école, de l'accrochage scolaire, de la prévention de la violence et de l'accompagnement des démarches d'orientation, les modifications suivantes sont apportées :
+
+1° le 2° est remplacé par ce qui suit :
+
+" 2° Aide à la jeunesse : les dispositifs visés par les Livres I à IV du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse ";
+
+2° le 5°, g) est remplacé par ce qui suit :
+
+" g) le conseiller de l'aide à la jeunesse et le directeur de la protection de la jeunesse, au sens du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse, en tant qu'autorités mandantes ";
+
+3° le 5°, h) est remplacé par ce qui suit :
+
+" h) les services d'actions en milieu ouvert, agréés sur la base du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse ";
+
+4° le 5°, i), premier tiret est remplacé par ce qui suit :
+
+" - les services mandatés agréés sur la base du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse ";
+
+5° le 6° est remplacé par ce qui suit :
+
+" 6° Conseil de prévention : le conseil institué par l'article 6 du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse ";
+
+6° le 16° est remplacé par ce qui suit :
+
+" 16° Conseil communautaire : le conseil communautaire de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse, institué par l'article 126 du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse ";
+
+7° le 17° est remplacé par ce qui suit :
+
+" 17° décret " Aide à la Jeunesse " : le décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse ".
+
+**Art. 173**
+
+Dans l'article 4, § 5, du même décret, le 5° est remplacé par ce qui suit :
+
+" 5° un représentant du conseiller de l'aide à la jeunesse ou du directeur de la protection de la jeunesse de la division ou de l'arrondissement, si celui-ci n'est pas composé de divisions, dans lequel est situé l'établissement scolaire ".
+
+**Art. 174**
+
+Dans l'article 5, alinéa 1er, du même décret, les modifications suivantes sont apportées :
+
+1° les mots " visées au Titre préliminaire, 1°, du décret " Aide à la jeunesse " " sont supprimés;
+
+2° les mots " le conseiller ou le directeur de l'Aide à la Jeunesse " sont remplacés par les mots " le conseiller de l'aide à la jeunesse ou le directeur de la protection de la jeunesse ";
+
+3° les mots " et aux jeunes " sont supprimés;
+
+4° les mots " visés par l'article 2 du même décret " sont remplacés par les mots " visés par les articles 20 et 38 du décret " Aide à la Jeunesse ".
+
+**Art. 175**
+
+Dans l'article 7, 3°, 6° et 10°, du même décret, les mots " Conseil d'arrondissement de l'aide à la jeunesse " sont remplacés par les mots " conseil de prévention ".
+
+**Art. 176**
+
+Dans l'article 8, alinéa 1er, du même décret, les modifications suivantes sont apportées :
+
+1° le 5° est remplacé par ce qui suit :
+
+" 5° huit représentants du ou des conseils de prévention compétents pour la zone concernée, dont au moins un représentant des conseillers de l'aide à la jeunesse et des directeurs de la protection de la jeunesse et un représentant des services d'actions en milieu ouvert situés dans la zone concernée ";
+
+2° est inséré le 8° rédigé comme suit :
+
+" 8° un représentant des services d'accrochage scolaire oeuvrant dans la zone concernée ".
+
+**Art. 177**
+
+Dans l'article 13, § 1er, du même décret, les modifications suivantes sont apportées :
+
+1° le 11° est remplacé par ce qui suit : " 11° un représentant des directeurs de la protection de la jeunesse ";
+
+2° le 13° est remplacé par ce qui suit : " 13° trois représentants des conseils de prévention, dont un de l'arrondissement de Bruxelles ".
+
+**Art. 178**
+
+Dans l'article 34 du même décret, les modifications suivantes sont apportées :
+
+1° au § 1er, les mots " Directeur de l'Aide à la Jeunesse " sont remplacés par les mots " directeur de la protection de la jeunesse ";
+
+2° au § 4, les mots " sur base de l'article 2, § 2, du décret relatif à l'Aide à la Jeunesse du 4 mars 1991 " sont remplacés par les mots " au sens du décret " Aide à la Jeunesse " et les mots " directeur de l'Aide à la Jeunesse " sont remplacés par les mots " directeur de la protection de la jeunesse ".
+
+**Art. 179**
+
+Dans l'article 38, § 1er, dernier alinéa, du même décret, les mots " directeur de l'Aide à la Jeunesse " sont remplacés par les mots " directeur de la protection de la jeunesse ".
+
+**Art. 180**
+
+Dans l'article 4 du décret du 21 novembre 2013 organisant divers dispositifs scolaires favorisant le bien-être des jeunes à l'école, l'accrochage scolaire, la prévention de la violence à l'école et l'accompagnement des démarches d'orientation scolaire, les modifications suivantes sont apportées :
+
+1° le 15° est remplacé par ce qui suit :
+
+" 15° conseiller de l'aide à la jeunesse : le conseiller au sens du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse; ";
+
+2° le 16° est remplacé par ce qui suit :
+
+" 16° directeur de la protection de la jeunesse : le directeur au sens du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse; ".
+
+**Art. 181**
+
+Dans l'article 31, alinéa 1er, 1°, et alinéa 3, du même décret, les mots " directeur de l'Aide à la jeunesse " sont remplacés par les mots " directeur de la protection de la jeunesse ".
+
+**Art. 182**
+
+Dans l'article 32, alinéa 1er, 1°, et alinéa 4, du même décret, les mots " directeur de l'Aide à la jeunesse " sont remplacés par les mots " directeur de la protection de la jeunesse ".
+
+**Art. 183**
+
+Dans l'article 33, alinéa 1er, 1°, et alinéa 3, du même décret, les mots " directeur de l'Aide à la jeunesse " sont remplacés par les mots " directeur de la protection de la jeunesse ".
+
+**Art. 184**
+
+Sont abrogées les dispositions suivantes de la loi du 8 avril 1965 :
+
+1° l'article 29bis;
+
+2° l'article 36, 4° ;
+
+3° l'article 36bis, alinéas 1er et 2;
+
+4° l'article 37, à l'exception du § 3, alinéa 5;
+
+5° l'article 37bis;
+
+6° l'article 37ter;
+
+7° l'article 37quater;
+
+8° l'article 37quinquies;
+
+9° l'article 39;
+
+10° l'article 41;
+
+11° l'article 42;
+
+12° l'article 43;
+
+13° l'article 45bis;
+
+14° l'article 45ter;
+
+15° l'article 45quater;
+
+16° l'article 49, alinéa 1er;
+
+17° la première phrase de l'article 49, alinéa 2, commençant par les mots " S'il y a urgence " et finissant par les mots " conformément aux articles 52ter et 52quater ";
+
+18° l'article 49, alinéa 5;
+
+19° l'article 50;
+
+20° l'article 52;
+
+21° l'article 52bis;
+
+22° l'article 52quater, alinéas 1er à 8, et la phrase suivante de l'alinéa 10 : " Passé ce délai, la mesure cesse d'être d'application. ";
+
+23° l'article 52quinquies;
+
+24° l'article 57bis, § 1er, à l'exception des mots " devant, soit, si la personne concernée est soupçonnée d'avoir commis un délit ou crime correctionnalisable, une chambre spécifique au sein du tribunal de la jeunesse qui applique le droit pénal commun et la procédure pénale commune, s'il y a lieu, soit, si la personne concernée est soupçonnée d'avoir commis un crime non correctionnalisable, une cour d'assises composée conformément aux dispositions de l'article 119, alinéa 2, du Code Judiciaire, s'il y a lieu " à l'alinéa 1er, § 2, § 4 et § 5;
+
+25° l'article 59;
+
+26° [<sup>1</sup> ...]<sup>1</sup>
+
+27° l'article 69;
+
+28° l'article 72;
+
+29° l'article 74;
+
+30° l'article 78;
+
+31° l'article 79;
+
+32° l'article 85;
+
+33° l'article 89.
+
+----------
+
+(1)&lt;DCFR 2021-10-14/22, art. 12, 005; En vigueur : 05-12-2021&gt;
+
+**Art. 184/1**
+
+[<sup>1</sup> Dans l'article 60 de la loi du 8 avril 1965, les modifications suivantes sont apportées:
+
+1° à l'alinéa 1er, les mots `ou à la demande des instances compétentes visées à l'article 37, § 2, alinéa 1er, 7° à 11°, et `ou personnes qui ont la garde de la personne concernée qu'à l'égard de la personne concernée lui-même' sont supprimés;
+
+2° à l'alinéa 2, les mots `tuteurs ou personnes qui ont la garde de la personne concernée, ainsi que de la personne concernée qui fait l'objet de la mesure' sont supprimés;
+
+3° l'alinéa 3 est abrogé à l'exception de la phrase `Le greffe adresse sans délai une copie de la requête au ministère public';
+
+4° à l'alinéa 4, la première phrase commençant par les mots `Toute mesure visée' et finissant par les mots `devenue définitive' est abrogée;
+
+5° à l'alinéa 5, la première phrase commençant par les mots `La mesure visée' et finissant par les mots `devenue définitive' est abrogée;
+
+6° l'alinéa 6 est abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-10-14/22, art. 13, 005; En vigueur : 05-12-2021&gt;
+
+**Art. 185**
+
+Le décret du 4 mars 1991 relatif à l'aide à la jeunesse, modifié par les décrets des 16 mars 1998, 6 avril 1998, 30 juin 1998, 5 mai 1999, 29 mars 2001, 31 mars 2004, 12 mai 2004, 19 mai 2004, 1er juillet 2005, 16 juin 2006, 19 octobre 2007, 7 décembre 2007, 19 février 2009, 30 avril 2009, 29 novembre 2012 et 21 novembre 2013, est abrogé.
+
+Les dispositions suivantes sont abrogées :
+
+1° les articles 3 et 4 de l'arrêté du Gouvernement de la Communauté française du 27 juillet 1998 fixant les modalités de la consultation des pièces du dossier du conseiller ou du directeur de l'aide à la jeunesse;
+
+2° l'article 1er, 11°, de l'arrêté du Gouvernement de la Communauté française du 15 mars 1999 relatif aux conditions générales d'agrément et d'octroi des subventions pour les services visés à l'article 43 du décret du 4 mars 1991 relatif à l'aide à la jeunesse;
+
+3° les articles 25 et 26 de l'arrêté du Gouvernement de la Communauté française du 11 juin 2004 fixant les conditions d'agrément et d'octroi des subventions pour les services privés de formation et de perfectionnement visés à l'article 54 du décret du 4 mars 1991 relatif à l'aide à la jeunesse;
+
+4° les articles 10, 40, alinéas 1er et 2, 41, alinéas 1er et 2, 42, 43, 52, 53, 54, 55, 57, 58, 61, 62, 63 et 80 de l'arrêté du Gouvernement de la Communauté française du 13 mars 2014 relatif au code des institutions publiques de protection de la jeunesse visé à l'article 19bis du décret du 4 mars 1991 relatif à l'aide à la jeunesse.
+
+**Art. 186**
+
+Le présent code entre en vigueur le 1er janvier 2019 [<sup>1</sup> , à l'exception des dispositions suivantes qui entrent en vigueur le 1er mai 2019 :
+
+1° les dispositions du Livre V;
+
+2° l'article 184;
+
+3° l'article 185, alinéa 1er, en ce qu'il porte sur les dispositions du décret du 4 mars 1991 relatif à l'aide à la jeunesse applicables aux jeunes poursuivis du chef d'un fait qualifié infraction commis avant l'âge de dix-huit ans;
+
+4° l'article 185, alinéa 2, 4°]<sup>1</sup>.
+
+Le Gouvernement peut fixer une date d'entrée en vigueur antérieure à celle mentionnée à l'alinéa 1er pour chacune de ses dispositions.
+
+Si, en vertu de l'alinéa 2, le Gouvernement fixe plusieurs dates d'entrée en vigueur différentes, il précise les dispositions du décret du 4 mars 1991 relatif à l'aide à la jeunesse qui sont abrogées suite à l'entrée en vigueur des dispositions correspondantes du présent code.
+
+----------
+
+(1)&lt;DCFR 2018-11-29/10, art. 1, 002; En vigueur : 31-12-2018&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 18 janvier 2018.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de l'Aide à la jeunesse, des Maisons de justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT
+
+La Ministre de l'Enseignement de promotion sociale, de la Jeunesse, des Droits des femmes et de l'Egalité des chances,
+
+I. SIMONIS

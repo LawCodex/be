@@ -1,0 +1,1031 @@
+---
+title: "Décret portant organisation des jurys de la Communauté française de l'enseignement secondaire ordinaire"
+identifier: "2017010062"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/27/2017010062/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2016-10-27
+published: 2017-01-18
+entry_into_force: 2017-01-01
+last_amended: 2026-08-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/27/2017010062/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 18-01-2017 et mise à jour au 10-08-2026"
+retrieved: 2026-10-12
+---
+
+# 27 OCTOBRE 2016. - Décret portant organisation des jurys de la Communauté française de l'enseignement secondaire ordinaire
+
+Le Parlement de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - De l'organisation des jurys, de leur composition et de leur fonctionnement
+
+### SECTION Ire. - [<sup>1</sup> De la Direction chargée]<sup>1</sup> d'organiser les Jurys
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 108,1°, 004; En vigueur : 01-09-2019&gt;
+
+#### Art. 1er
+
+§ 1er. Les Jurys de l'enseignement secondaire ordinaire sont institués au sein des services du Gouvernement en vue de conférer :
+
+1° le Certificat d'enseignement secondaire du premier degré ;
+
+2° le Certificat d'enseignement secondaire du deuxième degré pour l'enseignement secondaire général, technique de transition, technique de qualification, artistique de transition, artistique de qualification et professionnel ;
+
+3° le Certificat d'enseignement secondaire supérieur pour l'enseignement secondaire général, technique de transition, technique de qualification, artistique de transition, artistique de qualification et professionnel ;
+
+4° le Diplôme d'aptitude à accéder à l'enseignement supérieur ;
+
+5° l'attestation de réussite de l'épreuve préparatoire donnant accès aux études de bachelier sage-femme et de bachelier infirmier responsable de soins généraux ;
+
+6° l'attestation de réussite de l'épreuve préparatoire donnant accès aux études d'infirmier(ère) hospitalier(ère) et d'infirmier(ère) hospitalier(ère) - orientation santé mentale et psychiatrie. [<sup>3</sup> Au-delà du cycle 2026-2027/1, les jurys de l'enseignement secondaire ordinaire en vue de conférer ladite attestation ne sont plus organisés]<sup>3</sup>;
+
+7° le Certificat d'études de sixième année de l'enseignement secondaire professionnel.
+
+§ 2. Le Gouvernement fixe la composition [<sup>1</sup> de la Direction]<sup>1</sup> qui assure l'organisation des Jurys visés au § 1er.
+
+§ 3.[<sup>2</sup> la Direction]<sup>2</sup>e qui assure l'organisation des Jurys visés au § 1er peut s'adjoindre les services d'au moins six membres du personnel enseignant ayant obtenu un congé pour mission en application de l'article 5 du décret du 24 juin 1996 portant réglementation des missions, des congés pour mission et les mises en disponibilité pour mission spéciale dans l'enseignement organisé ou subventionné par la Communauté française.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 108,2°, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 108,3°, 004; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-04-16/02, art. 6, 009; En vigueur : 04-03-2026&gt;
+
+### SECTION II. - Des missions de la Direction
+
+#### Art. 2
+
+[<sup>1</sup> La Direction]<sup>1</sup> qui assure l'organisation des Jurys est, notamment, chargé :
+
+1° [<sup>3</sup> d'assurer la publication des périodes d'inscriptions aux épreuves ainsi que les motifs de refus d'inscription]<sup>3</sup> sur le site internet des Services du Gouvernement chargés de l'enseignement ;
+
+2° de fournir aux candidats un accueil et une information de qualité ;
+
+3° d'organiser les inscriptions, les sessions d'examens, les examens et les délibérations et de veiller à leur bon déroulement ;
+
+4° de publier le règlement de passation des examens fixé par le Gouvernement sur le site internet des Services du Gouvernement chargés de l'enseignement [<sup>3</sup> ...]<sup>3</sup> .[<sup>3</sup> Le candidat certifie via le formulaire d'inscription avoir pris connaissance de ce règlement]<sup>3</sup>;
+
+5° d'organiser les Jurys ;
+
+6° d'établir un rapport d'activités annuel qui doit comprendre, notamment, des statistiques relatives aux inscriptions, au taux de réussite et au mode de préparation des candidats ;
+
+7° [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 108,3°, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2022-02-24/18, art. 78, 005; En vigueur : 22-04-2022&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 44, 011; En vigueur : 24-08-2026&gt;
+
+### SECTION III. - De la composition des Jurys
+
+#### Art. 3
+
+§ 1er. Par session d'examens, telle que visée à l'article 6, chaque Jury est composé de la manière suivante :
+
+\- un Président ou son délégué ;
+
+\- un secrétaire et un secrétaire adjoint ;
+
+\- des examinateurs.
+
+§ 2. Le Président est désigné parmi les membres des Services du Gouvernement et doit être de rang 15 au moins. Son délégué doit être de rang 12 au moins.
+
+§ 3. Les examinateurs peuvent être :
+
+\- des membres du personnel enseignant ayant obtenu un congé pour mission en application de l'article 5 du décret du 24 juin 1996 précité ;
+
+\- des membres du personnel directeur et enseignant de l'enseignement secondaire ordinaire, de promotion sociale, de l'enseignement supérieur en activité de service, retraités ou bénéficiant de la mise en disponibilité pour convenances personnelles précédant la retraite désignés par le Gouvernement ;
+
+\- des membres du service général de l'inspection retraités visés par le décret du 8 mars 2007 relatif au service général de l'inspection, au service de conseil et de soutien pédagogiques de l'enseignement organisé par la Communauté française, aux cellules de conseil et de soutien pédagogiques de l'enseignement subventionné par la Communauté française et au statut des membres du personnel du service général de l'inspection et des conseillers pédagogiques désignés par le Gouvernement.
+
+### SECTION IV. - Du rôle des membres des Jurys et du fonctionnement des Jurys
+
+#### Art. 4
+
+§ 1er. Le Président ou son délégué :
+
+1° désigne, pour l'assister, un secrétaire et un secrétaire adjoint pour chaque session visée à l'article 6 parmi les membres [<sup>1</sup> de la Direction]<sup>1</sup> qui assure l'organisation des Jurys ;
+
+2° fixe la liste des examinateurs pour chaque session ;
+
+3° accorde les dispenses d'interrogation prévues à l'article 18 ;
+
+4° prend toute disposition utile au déroulement des examens ;
+
+5° veille à la régularité des examens ;
+
+6° préside les délibérations, sans prendre part au vote sauf dans le cas visé à l'article 5, § 2.
+
+§ 2. Les secrétaires adjoints sont placés sous l'autorité des secrétaires et les assistent dans leurs missions.
+
+§ 3. Sous l'autorité du Président ou de son délégué, les examinateurs sont, notamment, chargés de :
+
+1° préparer les examens ;
+
+2° surveiller les examens ;
+
+3° interroger les candidats ;
+
+4° corriger les examens ;
+
+5° participer aux délibérations ;
+
+6° [<sup>2</sup> assurer la mise à disposition des copies d'examens pour les candidats]<sup>2</sup> ;
+
+7° exécuter, à la demande du Président, de son délégué ou des secrétaires, toute autre tâche administrative en lien avec les missions [<sup>1</sup> de la Direction]<sup>1</sup> qui assure l'organisation des Jurys ;
+
+8° [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 108,2°, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2026-07-17/11, art. 45, 011; En vigueur : 24-08-2026&gt;
+
+#### Art. 5
+
+§ 1er. Le Jury délibère, à huis clos, sur les résultats des examens des candidats et sur toute question soulevée par le Président, son délégué ou par cinq membres au moins.
+
+§ 2. Les décisions sont prises à la majorité des voix des membres présents. En cas de parité des voix, la voix du Président ou de son délégué est requise.
+
+§ 3. Aucun membre du Jury ne peut faire subir l'examen, ni prendre part à la délibération, ni contribuer à quelque décision que ce soit, lorsque le candidat :
+
+1° est son conjoint, un parent ou un allié jusque et y compris le quatrième degré ;
+
+2° a reçu de ce membre un enseignement sous quelque forme que ce soit.
+
+§ 4. Les procès-verbaux des délibérations sont consignés dans un registre. Ces procès-verbaux sont signés par le Président ou son délégué. Le procès-verbal de chaque séance est signé par le secrétaire et les membres présents. Les registres des procès-verbaux tiennent lieu de registre des présences. Ces registres doivent être conservés au siège [<sup>1</sup> de la Direction]<sup>1</sup> qui assure l'organisation des Jurys pendant au moins quarante ans.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 108,2°, 004; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE II. - De l'organisation des examens
+
+### SECTION Ire. - Des cycles et sessions d'examens
+
+#### Art. 6
+
+§ 1er. Deux cycles d'examens sont organisés par année scolaire :
+
+\- le premier cycle entre le mois d'août et le mois de janvier ;
+
+\- le deuxième cycle entre le mois de février et le mois de juillet.
+
+§ 2. Durant le deuxième cycle uniquement, une session d'examens conduisant à la délivrance du Certificat d'enseignement secondaire du premier degré est organisée.
+
+§ 3. Lors de chaque cycle, est organisée :
+
+1° une session d'examens conduisant à la délivrance du Certificat d'enseignement secondaire du deuxième degré :
+
+\- d'enseignement général ;
+
+\- d'enseignement technique de transition ;
+
+\- d'enseignement technique de qualification ;
+
+\- d'enseignement artistique de transition ;
+
+\- d'enseignement artistique de qualification ;
+
+\- d'enseignement professionnel.
+
+2° une session d'examens conduisant à la délivrance du Certificat d'enseignement secondaire supérieur :
+
+\- d'enseignement général ;
+
+\- d'enseignement technique de transition ;
+
+\- d'enseignement technique de qualification ;
+
+\- d'enseignement artistique de transition ;
+
+\- d'enseignement artistique de qualification ;
+
+\- d'enseignement professionnel.
+
+Au moins une fois tous les trois ans, le Gouvernement fixe, sur base de la liste francophone des études qui préparent à une profession pour laquelle il existe une pénurie significative de main-d'oeuvre arrêtée par les Services publics régionaux de l'Emploi, la liste des orientations d'études pour lesquelles les examens menant à l'obtention du Certificat d'enseignement secondaire supérieur d'enseignement technique et artistique de qualification et professionnel sont organisés.
+
+[<sup>2</sup> Le Gouvernement fixe, dans cette même liste, les orientations d'études pour lesquelles la possession de titres de compétences délivrés par le consortium de validation des compétences ou d'un Certificat de qualification relatifs à l'orientation d'études pour laquelle ils souhaitent présenter les examens est obligatoire.]<sup>2</sup>
+
+Toutefois, par dérogation à l'alinéa précédent, [<sup>1</sup> la Direction]<sup>1</sup> qui assure l'organisation des Jurys peut organiser des sessions d'examens pour des orientations d'études ne figurant pas dans la liste mentionnée [<sup>2</sup> aux alinéas précédents]<sup>2</sup> dans les cas suivants :
+
+\- pour des candidats titulaires d'un titre de compétence délivré par le consortium de validation des compétences ou d'un Certificat de qualification relatifs à l'orientation d'études pour laquelle ils souhaitent obtenir le Certificat d'enseignement secondaire supérieur ;
+
+\- à la demande expresse d'un employeur pour un membre de son personnel ayant au moins un an d'ancienneté dans l'entreprise ;
+
+\- pour des candidats qui souhaitent obtenir le Certificat d'enseignement secondaire supérieur correspondant à une option de base spécifique liée à un projet précis d'insertion socioprofessionnelle ;
+
+\- pour un candidat qui se trouve dans l'obligation de régulariser, sur base des dispositions de l'article 56bis, §§ 3 et 4, de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire, un parcours suivi comme élève libre dans l'enseignement secondaire ordinaire organisé ou subventionné dans la même orientation d'études ;
+
+\- jusqu'au 31 juillet 2020, pour un candidat qui, entre le 1er janvier 2012 et le 30 juin 2017, a obtenu auprès du Jury de la Communauté française des attestations de réussite représentant un volume-horaire minimum de 4h dans la grille-horaire présentée par le candidat.
+
+[<sup>4</sup> § 3bis. - Nul ne peut obtenir un Certificat d'enseignement secondaire supérieur auprès du jury s'il est déjà en possession d'un Certificat d'enseignement secondaire supérieur obtenu auprès du jury, ou d'un établissement scolaire ou sur base d'une décision d'équivalence.]<sup>4</sup>
+
+§ 4. [<sup>3</sup> Durant le premier cycle uniquement, deux sessions d'examens conduisant à la délivrance du Diplôme d'aptitude à accéder à l'enseignement supérieur sont organisées. La participation aux examens n'est permise qu'à l'une ou l'autre session.]<sup>3</sup>
+
+§ 5. Lors de chaque cycle, est organisée, une session d'examens conduisant à la délivrance de l'attestation de réussite :
+
+\- de l'épreuve préparatoire donnant accès aux études menant à l'obtention des diplômes de bachelier sage-femme et de bachelier infirmier responsable de soins généraux ;
+
+\- de l'épreuve préparatoire donnant accès aux études d'infirmier(ère) hospitalier(ère) et d'infirmier(ère) hospitalier(ère) - orientation santé mentale et psychiatrie.
+
+§ 6. Lors de chaque cycle, une session d'examens conduisant à la délivrance du Certificat d'études de sixième année de l'enseignement secondaire professionnel est organisée.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 108,3°, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 109, 004; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 110, 004; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2026-07-17/11, art. 46, 011; En vigueur : 24-08-2026&gt;
+
+### SECTION II. - De l'admissibilité aux examens
+
+#### Art. 7
+
+§ 1er. Est admissible aux examens en vue de l'obtention du Certificat d'enseignement secondaire du premier degré :
+
+1° [<sup>2</sup> le candidat qui a fréquenté deux années du premier degré de l'enseignement secondaire de plein exercice]<sup>2</sup> ;
+
+2° tout candidat ayant obtenu un Certificat d'études de base [<sup>2</sup> ...]<sup>2</sup> ;
+
+3° tout candidat âgé, au moment de l'inscription [<sup>2</sup> aux examens]<sup>2</sup>, d'au moins 13 ans.
+
+§ 2. Est admissible aux examens en vue de l'obtention du Certificat d'enseignement secondaire du deuxième degré :
+
+1° le candidat qui a fréquenté deux années du premier degré et qui est dans sa 14ème année ;
+
+2° tout candidat âgé, au moment de l'inscription [<sup>2</sup> aux examens]<sup>2</sup>, d'au moins 14 ans;
+
+[<sup>2</sup> 3° tout candidat ayant obtenu le certificat d'enseignement secondaire du premier degré]<sup>2</sup>.
+
+§ 3. [<sup>1</sup> Est admissible aux examens en vue de l'obtention du Certificat d'enseignement secondaire supérieur :
+
+1° tout candidat âgé de 16 ans au moment de l'inscription [<sup>2</sup> aux examens]<sup>2</sup>;
+
+2° tout candidat ayant obtenu le certificat d'enseignement secondaire du deuxième degré.]<sup>1</sup>
+
+§ 4. Est admissible aux examens en vue de l'obtention du Diplôme d'aptitude à accéder à l'enseignement supérieur :
+
+1° le titulaire du seul Certificat d'enseignement secondaire supérieur obtenu dans les formes d'enseignement général, technique, artistique ou professionnel, au plus tard à l'issue de l'année scolaire 1992-1993, dans un établissement d'enseignement secondaire de plein exercice organisé ou subventionné par la Communauté française ou obtenu au plus tard à la fin de l'année civile 1993 devant le Jury de la Communauté française ;
+
+2° le détenteur d'un titre d'études pour lequel l'avis ou la décision d'équivalence [<sup>2</sup> au Certificat d'enseignement secondaire supérieur]<sup>2</sup>, prise en application de la loi du 19 mars 1971 relative à l'équivalence des diplômes et certificats d'études étrangers, limite totalement ou partiellement les possibilités d'accès à l'enseignement supérieur.
+
+§ 5. Est admissible aux sessions d'examens conduisant à la délivrance de l'attestation de réussite de l'épreuve préparatoire menant à l'obtention des diplômes de bachelier sage-femme et de bachelier infirmier responsable de soins généraux, tout candidat [<sup>2</sup> étant dans l'année civile de ses 18 ans au moment de l'inscription aux examens]<sup>2</sup>.
+
+§ 6. Est admissible aux sessions d'examens conduisant à la délivrance de l'attestation de réussite de l'épreuve préparatoire conduisant aux études d'infirmier(ère) hospitalier(ère) et d'infirmier(ère) hospitalier(ère) - orientation santé mentale et psychiatrie, tout candidat [<sup>2</sup> étant dans l'année civile de ses 18 ans au moment de l'inscription aux examens]<sup>2</sup>.
+
+§ 7. Est admissible aux sessions d'examens conduisant au Certificat d'études de sixième année de l'enseignement secondaire professionnel :
+
+1° le candidat déjà titulaire du Certificat de qualification de sixième année de l'enseignement secondaire professionnel de plein exercice ou en alternance ou délivré par l'enseignement de promotion sociale dans l'orientation d'études dans laquelle il souhaite présenter les examens menant à l'obtention du Certificat d'études de sixième année de l'enseignement secondaire professionnel ;
+
+2° le candidat déjà titulaire d'un Certificat de qualification reconnu correspondant sur base de l'arrêté du Gouvernement de la Communauté française du 29 septembre 2011 relatif à l'établissement de la correspondance des titres délivrés par l'Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises et le Service formation petites et moyennes entreprises créé au sein des Services du Collège de la Commission communautaire française et leurs réseaux de centres de formation avec les titres délivrés par l'enseignement obligatoire ou de promotion sociale, dans l'orientation d'études dans laquelle il souhaite présenter les examens menant à l'obtention du Certificat d'études de sixième année de l'enseignement secondaire professionnel.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 111, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2026-06-25/05, art. 11, 010; En vigueur : 30-06-2026&gt;
+
+### SECTION III. - Des inscriptions
+
+#### Art. 8
+
+§ 1er. Le Gouvernement fixe le montant des droits d'inscription dont le montant minimal sera de 50€ et le montant maximal de 200€.
+
+La gratuité est accordée aux candidats demandeurs d'emploi et aux candidats bénéficiant du revenu d'intégration sociale sur production d'une attestation délivrée par l'organisme compétent. [<sup>1</sup> La gratuité est également accordée aux candidats prisonniers ou exécutant leur peine sous surveillance électronique, ainsi qu'aux candidats placés dans une Institution publique de protection de la jeunesse.]<sup>1</sup>
+
+§ 2. Les droits d'inscription valent pour une session d'examens.
+
+----------
+
+(1)&lt;DCFR 2018-06-14/26, art. 53, 003; En vigueur : 01-09-2018&gt;
+
+#### Art. 9
+
+[<sup>1</sup> Pour être inscrit, le candidat doit [<sup>3</sup> suivre]<sup>3</sup> une séance d'information obligatoire, organisée par la Direction chargée de l'organisation des Jurys, relative aux épreuves qu'il souhaite présenter.]<sup>1</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 112, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 113, 004; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2026-07-17/11, art. 47, 011; En vigueur : 24-08-2026&gt;
+
+## CHAPITRE III. - De la matière des examens
+
+#### Art. 10
+
+Les candidats sont interrogés sur base des programmes d'études dispensés dans l'enseignement organisé par la Communauté française. Hormis pour les options de base groupées, le programme spécifique est déterminé par le volume-horaire hebdomadaire mentionné ci-après entre parenthèses après chaque matière.
+
+### SECTION Ire. - Des matières du Certificat d'enseignement secondaire du premier degré et du Certificat d'enseignement secondaire du deuxième degré
+
+#### Art. 11
+
+§ 1er. Pour l'obtention du Certificat d'enseignement secondaire du premier degré, les candidats doivent présenter des examens dans six matières du premier degré commun : français, mathématique, langue moderne, sciences, histoire et géographie.
+
+§ 2. Si une ou plusieurs de ces matières sont visées par le Titre III/I du décret du 2 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire et au Certificat d'études de base au terme de l'enseignement primaire et font l'objet d'examens certificatifs externes, les candidats sont soumis à ces épreuves certificatives externes.
+
+#### Art. 12
+
+§ 1er. Pour l'obtention du Certificat d'enseignement secondaire du deuxième degré d'enseignement général, les candidats sont interrogés sur des matières des troisième et quatrième années de l'enseignement secondaire général.
+
+Ils doivent présenter des examens dans six matières :
+
+\- cinq matières obligatoires : français (5h), mathématique (5h), sciences (3h), langue moderne I (4h) (néerlandais, allemand, anglais), formation historique et géographique (3h) ;
+
+\- une matière à choisir parmi les suivantes : sciences économiques (4h), sciences sociales (4h), langue moderne II (4h) (néerlandais, allemand, anglais), latin (4h).
+
+§ 2. Pour l'obtention du Certificat d'enseignement secondaire du deuxième degré de l'enseignement technique et artistique de transition, les candidats sont interrogés sur des matières des troisième et quatrième années de l'enseignement secondaire technique et artistique de transition.
+
+Ils doivent présenter des examens dans :
+
+\- cinq matières obligatoires : français (5h), mathématique (5h), sciences (3h), langue moderne I (4h) (néerlandais, allemand, anglais), formation historique et géographique (3h) ;
+
+\- les cours de l'option de base groupée.
+
+§ 3. Pour l'obtention du Certificat d'enseignement secondaire du deuxième degré de l'enseignement technique et artistique de qualification, les candidats sont interrogés sur des matières des troisième et quatrième années de l'enseignement secondaire technique et artistique de qualification.
+
+Ils doivent présenter des examens dans :
+
+\- cinq matières obligatoires : français (4h), mathématique (2h), [<sup>1</sup> langue moderne I (2 h)]<sup>1</sup> (néerlandais, allemand, anglais), formation scientifique (2h), formation historique et géographique (2h) ;
+
+\- les cours théoriques et pratiques de l'option de base groupée.
+
+§ 4. Pour l'obtention du Certificat d'enseignement secondaire du deuxième degré de l'enseignement professionnel, les candidats sont interrogés sur des matières des troisième et quatrième années de l'enseignement secondaire professionnel.
+
+[<sup>1</sup> Ils doivent présenter des examens dans :
+
+\- cinq matières obligatoires : français (3 h), mathématique (2 h), langue moderne I (2 h) (néerlandais, allemand, anglais), formation scientifique (2 h), formation historique et géographique (2 h) ;
+
+\- les cours théoriques et pratiques de l'option de base groupée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 114, 004; En vigueur : 01-09-2019&gt;
+
+### SECTION II. - Des matières du Certificat d'enseignement secondaire supérieur
+
+#### Art. 13
+
+§ 1er. Pour l'obtention du Certificat d'enseignement secondaire supérieur d'enseignement général, les candidats sont interrogés sur les matières des cinquième et sixième années de l'enseignement secondaire général.
+
+Ils doivent présenter des examens dans six matières :
+
+\- cinq matières obligatoires : français (5h), mathématique (4h), sciences (3h), langue moderne I (4h) (néerlandais, allemand, anglais), formation historique et géographique (3h) ;
+
+\- une matière à choisir parmi les suivantes : sciences économiques (4h), sciences sociales (4h), langue moderne II (4h) (néerlandais, allemand, anglais), latin (4h),
+
+§ 2. Pour l'obtention du Certificat d'enseignement secondaire supérieur d'enseignement technique ou artistique de transition, les candidats sont interrogés respectivement sur des matières des cinquième et sixième années de l'enseignement secondaire technique ou artistique de transition.
+
+Ils doivent présenter des examens dans :
+
+\- cinq matières obligatoires : français (5h), mathématique (4h), sciences (3h), langue moderne I (4h) (néerlandais, allemand, anglais), formation historique et géographique (3h) ;
+
+\- les cours de l'option de base groupée.
+
+§ 3. Pour l'obtention du Certificat d'enseignement secondaire supérieur d'enseignement technique et artistique de qualification, les candidats sont interrogés respectivement sur des matières des cinquième et sixième années de l'enseignement secondaire technique ou artistique de qualification.
+
+Ils doivent présenter des examens dans :
+
+\- cinq matières obligatoires : français (4h), formation historique et géographique (2h), formation scientifique (2h), mathématiques (2h), langue moderne (2h) (néerlandais, allemand, anglais) ;
+
+\- les cours théoriques et pratiques de l'option de base groupée.
+
+§ 4. Pour l'obtention du Certificat d'enseignement secondaire supérieur de l'enseignement professionnel, les candidats sont interrogés sur des matières de la 7PB visée à l'article 4, § 1er, 5°, de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire.
+
+Ils doivent présenter des examens dans :
+
+\- trois matières obligatoires : français (4h), formation sociale et économique (2h), formation scientifique (2h) ;
+
+\- mathématique (2h) lorsqu'un arrêté du Gouvernement pris en application de l'article 4quinquies, § 3, alinéa 7, de la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire l'impose dans l'orientation d'études ;
+
+\- langue moderne (2h) (néerlandais, allemand, anglais) lorsqu' un arrêté du Gouvernement pris en application de l'article 4quinquies, § 3, alinéa 5, de la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire l'impose dans l'orientation d'études ;
+
+\- les cours théoriques et pratiques d'une option de base groupée du troisième degré de l'enseignement professionnel.
+
+### SECTION III. - Des matières des examens préparatoires conduisant aux études d'infirmier(ère)
+
+#### Art. 14
+
+[<sup>1</sup> § 1er. Pour l'obtention de l'attestation de réussite de l'épreuve préparatoire conduisant aux études menant à l'obtention des diplômes de bachelier sage-femme et de bachelier infirmier responsable de soins généraux, les candidats doivent présenter des examens dans cinq matières : mathématiques, chimie, physique, biologie, français.
+
+§ 2. Pour l'obtention de l'attestation de réussite de l'épreuve préparatoire conduisant aux études d'infrmier(ère) hospitalier(ère) et d'infirmier(ère) hospitalier(ère) - orientation santé mentale et psychiatrie, les candidats doivent présenter des examens dans quatre matières : chimie, physique, biologie, français.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-06-25/05, art. 12, 010; En vigueur : 10-07-2026&gt;
+
+### SECTION IV. - Des matières du Diplôme d'aptitude à accéder à l'enseignement supérieur
+
+#### Art. 15
+
+Pour l'obtention du Diplôme d'aptitude à accéder à l'enseignement supérieur, les candidats doivent présenter des examens dans :
+
+\- [<sup>1</sup> Une matière obligatoire : français (écrit) ]<sup>1</sup> ;
+
+\- une matière à choisir parmi : français (5h), mathématique (4h), sciences (3h), langue moderne I (4h) (néerlandais, allemand, anglais), sciences économiques (4h), sciences sociales (4h), latin (4h), formation historique et géographique (3h).
+
+----------
+
+(1)&lt;DCFR 2026-06-25/05, art. 13, 010; En vigueur : 10-07-2026&gt;
+
+### SECTION V. - Des matières du Certificat d'études de sixième année de l'enseignement secondaire professionnel
+
+#### Art. 16
+
+Pour l'obtention du Certificat d'études de sixième année de l'enseignement secondaire professionnel, les candidats doivent présenter des examens dans :
+
+\- quatre matières obligatoires : français (3h), formation sociale et économique (2h), formation scientifique (2h), formation historique et géographique (2h).
+
+## CHAPITRE IV. - Des aménagements raisonnables, des dispenses, de la sanction des examens et des plaintes
+
+### SECTION Ire. - Aménagements raisonnables
+
+#### Art. 17
+
+[<sup>1</sup> - § 1er. La Direction qui assure l'organisation des Jurys met en place, pour les candidats à besoins spécifiques, les adaptations d'épreuves nécessaires et raisonnables, appréciées au cas par cas, conformément aux critères fixés à l'article 1.7.8?1, § 5, 1°, 2°, 5° et 6°, du Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+Cette appréciation se fonde sur un examen individualisé, consistant en une appréciation administrative de la demande d'aménagements raisonnables et intégrant un dossier administratif complet contenant notamment un dossier médical daté et signé faisant part d'un diagnostic et du détail des aménagements raisonnables sollicités validé par un professionnel des soins de santé habilité à poser ledit diagnostic, conformément à l'article 1.7.8-1, § 1er, alinéa 2, du Code précité.
+
+A l'exclusion des données cliniques non pertinentes, antécédents sans lien avec la demande ou éléments sans incidence sur la passation des examens, le dossier administratif ne peut contenir, parmi les données de santé, que :
+
+1\. l'identification du trouble, du handicap ou de la situation médicale invoquée ;
+
+2\. les conséquences fonctionnelles de celui-ci sur la passation des épreuves ;
+
+3\. les aménagements recommandés ;
+
+4\. la durée de validité ou l'actualité des recommandations ;
+
+5\. l'identité, la qualité professionnelle et la signature du professionnel habilité.
+
+Cet examen individualisé ne comporte ni évaluation médicale autonome ni appréciation pédagogique distincte. Les données médicales traitées sont strictement limitées à celles nécessaires à l'appréciation de l'impact du trouble invoqué sur la passation des épreuves et à la détermination des aménagements raisonnables sollicités.
+
+§ 2. Toute demande d'aménagement raisonnable relative à la passation des épreuves organisées par les Jurys est introduite par le candidat auprès de la Direction au plus tard dix jours calendrier avant le début de la période d'inscription au cycle d'épreuves concerné.
+
+A défaut d'introduction dans le délai visé à l'alinéa 1er, la demande est irrecevable de plein droit et ne donne lieu ni à instruction ni à décision sur le fond.
+
+§ 3. Les aménagements accordés :
+
+1° ne peuvent remettre en cause les objectifs certificatifs de l'épreuve ni la validité de l'évaluation ;
+
+2° ne peuvent conduire à une modification de la nature de l'évaluation, du niveau de difficulté, des contenus évalués, des critères de correction ou de la standardisation indispensable à l'équité entre candidats ;
+
+3° sont strictement limités à ce qui est nécessaire pour atténuer l'impact du trouble d'apprentissage, au regard des éléments probants du dossier ;
+
+4° respectent l'exigence de déroulement à huis clos des épreuves, lorsqu'elle est prévue par le règlement de passation des examens.
+
+§ 4. Conformément à l'article 1.7.8-1, § 4, alinéa 4, du Code précité, les aménagements d'ordre pédagogique ne peuvent remettre en cause les objectifs d'apprentissage définis par les référentiels. En outre, compte tenu du caractère certificatif des épreuves organisées par les Jurys, ils ne peuvent porter atteinte à la validité, à l'équité ou à la comparabilité des épreuves.
+
+§ 5. Le recours à un tiers aidant est interdit, sauf dans les cas strictement prévus au présent paragraphe et lorsqu'aucune autre mesure ne permet d'atténuer l'impact du trouble du candidat.
+
+Lorsque les circonstances le justifient, la Direction peut autoriser exclusivement le tiers aidant suivant :
+
+a) un lecteur neutre ;
+
+b) un scripteur ;
+
+c) un interprète en langue des signes agréé par la Direction des Jurys.
+
+Le lecteur, le scripteur et l'interprète en langue des signes agréé par la Direction des Jurys sont tenus à la neutralité, à l'absence d'intervention sur le contenu évalué et à l'absence d'explication ou de reformulation.
+
+Les frais relatifs à l'intervention de ce tiers aidant sont à charge du candidat.
+
+Afin de garantir l'équité entre candidats, l'exigence du déroulement à huis clos des épreuves, la préservation de l'intégrité et la validité certificative des évaluations est refusée de plein droit toute demande visant l'intervention d'un parent, d'un proche, d'un accompagnateur privé ou d'un professionnel indépendant extérieur à la Direction autre que ceux visés à l'alinéa 2 du présent paragraphe.
+
+§ 6. La décision relative aux aménagements raisonnables est communiquée au candidat au plus tard dix jours calendrier avant le premier examen du titre.
+
+Toute décision d'octroi total ou partiel d'un aménagement raisonnable fait l'objet d'un protocole d'aménagement raisonnable, lequel :
+
+1° décrit la nature de l'aménagement, ses modalités et ses limites ;
+
+2° précise, le cas échéant, le rôle des intervenants autorisés ;
+
+3° fixe la durée de validité de l'aménagement ;
+
+4° rappelle les obligations du candidat et de la Direction.
+
+Le protocole est signé conjointement par le candidat ou la personne titulaire de l'autorité, en tout ou en partie, sur le candidat mineur et par la Direction. Il est intégré au dossier administratif et demeure valable pour l'ensemble du parcours du candidat au sein du Jury, tant qu'aucune modification n'est sollicitée ou imposée par une évolution de sa situation ou par les nécessités d'organisation des épreuves.
+
+§ 7. Le candidat peut introduire un recours, dans les dix jours calendrier suivant la notification de la décision relative aux aménagements raisonnables, auprès de la Commission de l'enseignement fondamental et de l'enseignement secondaire inclusifs créée à l'article 1.7.8-2. § 3, du Code précité, qui :
+
+1° vérifie la complétude du dossier administratif ;
+
+2° contrôle l'exactitude et la pertinence de la motivation ;
+
+3° réexamine la balance des intérêts ;
+
+4° peut demander des pièces complémentaires ;
+
+5° rend une décision motivée, confirmant ou réformant la décision contestée.
+
+La Commission statue dans le délai fixé à l'article 1.7.8-2 du Code de l'enseignement fondamental et de l'enseignement secondaire.
+
+Lorsque le recours concerne les jurys de l'enseignement secondaire, le membre visé à l'article 1.7.8-2, § 3, 4°, du même Code, est le représentant de Wallonie-Bruxelles Enseignement.
+
+Dans l'attente de la décision de la Commission, le cadre des aménagements raisonnables décidé par la Direction des jurys reste d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2026-07-17/11, art. 48, 011; En vigueur : 24-08-2026&gt;
+
+### SECTION II. - Dispenses d'examens
+
+#### Art. 18
+
+§ 1er. Des dispenses d'interrogation d'une ou plusieurs matières peuvent être accordées par [<sup>1</sup> le Président ou son délégué]<sup>1</sup> du Jury :
+
+1° aux titulaires d'une attestation d'orientation, d'un Certificat ou d'un Diplôme belge délivré par un établissement d'enseignement de plein exercice ou de promotion sociale [<sup>2</sup> ou d'une attestation de réussite délivrée par l'enseignement de promotion sociale]<sup>2</sup> permettant d'établir qu'ils ont suivi avec fruit un enseignement équivalent dans les cours visés ;
+
+2° aux titulaires d'une équivalence des diplômes, certificats et attestations d'orientations pour des études effectuées à l'étranger délivrée conformément à la loi du 19 mars 1971 relative à l'équivalence des diplômes et certificats d'études étrangers et à ses arrêtés d'exécution ;
+
+3° aux titulaires d'un Certificat de qualification en rapport avec l'orientation d'études présentée. Ce Certificat de qualification doit avoir été délivré dans l'enseignement secondaire de plein exercice ou en alternance ou dans l'enseignement de promotion sociale ou reconnu correspondant à un Certificat de qualification délivré dans l'enseignement secondaire de plein exercice ou en alternance ou dans l'enseignement de promotion sociale ;
+
+4° aux titulaires d'un titre de compétences, couvrant les cours pratiques en rapport avec l'orientation d'études présentée, délivré par le Consortium de Validation des compétences instauré par le décret du 22 octobre 2003 portant assentiment à l'accord de coopération du 24 juillet 2003 relatif à la validation des compétences dans le champ de la formation professionnelle continue, conclu entre la Communauté française, la Région wallonne et la Commission communautaire française ;
+
+5° aux titulaires d'une attestation de réussite d'une discipline des examens externes certificatifs prévus aux articles 36/1 et suivants du décret du 2 juin 2006 relatif à l'évaluation externe des acquis des élèves de l'enseignement obligatoire et au Certificat d'études de base au terme de l'enseignement primaire, et § 2, 1°, 26, § 1er, 1°, 27, 1°, 30, § 2, 1°, du décret du 30 juin 2006 relatif à l'organisation pédagogique du premier degré de l'enseignement secondaire ;
+
+6° aux candidats ajournés pour toutes les matières dans lesquelles ils ont obtenu au moins 50 % des points, lorsqu'ils s'inscrivent lors d'un autre cycle ;
+
+7° pour l'épreuve préparatoire conduisant aux études menant à l'obtention des diplômes de bachelier sage-femme et de bachelier infirmier responsable de soins généraux ou conduisant aux études d'infirmier(ère) hospitalier(ère) et d'infirmier(ère) hospitalier(ère) - orientation santé mentale et psychiatrie, aux candidats qui ont obtenu pour l'ensemble des branches une cote au moins égale à 50%, pour les branches où ils ont obtenu 60% au moins ;
+
+8° aux candidats concernés par une irrégularité dans leur parcours scolaire indépendante de leur volonté ou de celle des personnes exerçant l'autorité parentale si le candidat est mineur.
+
+§ 2. Une adaptation des examens théoriques et pratiques de l'option de base groupée peut être octroyée par [<sup>1</sup> le Président ou son délégué]<sup>1</sup> au titulaire d'au moins une unité d'acquis d'apprentissage telle que visée par l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire et obtenue dans l'option correspondante à celle dont il souhaite présenter les examens.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 113, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2022-02-24/18, art. 79, 005; En vigueur : 22-04-2022&gt;
+
+### SECTION III. - Sanction des examens
+
+#### Art. 19
+
+§ 1er. Obtient le Certificat d'enseignement secondaire du premier degré, le Certificat d'enseignement secondaire du deuxième degré, le Certificat d'enseignement secondaire supérieur, le Diplôme d'aptitude à accéder à l'enseignement supérieur, le Certificat d'études de sixième année de l'enseignement secondaire professionnel, le candidat qui a obtenu au moins 50 % dans chacune des matières.
+
+§ 2. Est ajourné, le candidat qui n'a pas participé à l'ensemble des examens d'un cycle d'examens.
+
+§ 3. Est ajourné, le candidat qui, ayant présenté l'ensemble des examens d'un cycle d'examens :
+
+1° a obtenu moins de 50 % du total des points attribués à l'ensemble des matières, chacun des cours de l'option de base groupée étant considéré comme une matière ;
+
+2° le candidat qui a obtenu moins de 40 % dans une ou plusieurs matières.
+
+§ 4. [<sup>1</sup> Par dérogation au § 3, 2°, fait l'objet d'une décision prise en délibération, le candidat qui :
+
+1° ayant obtenu au moins 50 % du total des points attribués à l'ensemble des matières, a obtenu entre 40 % et 50 % dans une ou plusieurs matières ;
+
+2° ayant obtenu au moins 60 % du total des points attribués à l'ensemble des matières, a obtenu une note inférieure à 40 % dans une matière.]<sup>1</sup>
+
+[<sup>2</sup> § 5. Par dérogation au § 3, fait l'objet d'une décision prise en délibération, le candidat qui se trouve dans une des situations visées par les paragraphes 1er, 2, 3, 4, 8 et 9 de l'article 56bis de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire et qui bénéficie des dispenses prévues à l'article 18, § 1, 8°.
+
+Pour ce candidat, la décision prise en délibération prend en considération l'ensemble des résultats obtenus par le candidat au cours de sa scolarité.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 115, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 126, 008; En vigueur : 26-08-2024&gt;
+
+#### Art. 20
+
+§ 1er. Obtient l'attestation de réussite de l'épreuve préparatoire conduisant aux études menant à l'obtention des diplômes de bachelier sage-femme et de bachelier infirmier responsable de soins généraux ou conduisant aux études d'infirmier(ère) hospitalier(ère) et d'infirmier(ère) hospitalier(ère) - orientation santé mentale et psychiatrie, le candidat qui a obtenu au moins 50 % des points dans chacune des branches et au moins 60 % des points pour l'ensemble.
+
+§ 2. Est ajourné, le candidat qui, ayant présenté l'ensemble des examens d'un cycle d'examens :
+
+1° a obtenu moins de 60 % du total des points attribués à l'ensemble des matières ;
+
+2° le candidat qui a obtenu moins de 50 % dans une ou plusieurs matières.
+
+### SECTION IV. - Du mode d'introduction, d'instruction et de résolution des plaintes des candidats relatives à des irrégularités dans le déroulement des examens
+
+#### Art. 21
+
+[<sup>1</sup> Toute plainte relative à une quelconque irrégularité dans le déroulement des examens est adressée par envoi recommandé ou par voie électronique [<sup>2</sup> à la Direction]<sup>2</sup> qui assure l'organisation des Jurys, au plus tard [<sup>4</sup> dans les dix jours]<sup>4</sup> qui suivent la notification des résultats de l'épreuve]<sup>1</sup>.
+
+L'introduction de la plainte peut également être faite par la remise d'un écrit [<sup>2</sup> à la Direction]<sup>2</sup> qui assure l'organisation des Jurys. La signature apposée par un des agents [<sup>3</sup> de cette Direction]<sup>3</sup> sur le double de cet écrit ne vaut que comme accusé de réception de l'introduction de la plainte.
+
+[<sup>4</sup> Dans les quatorze jours]<sup>4</sup> suivant la réception de la plainte, le Président du Jury concerné par la plainte ou son délégué réunit une instance de recours composée, outre de lui-même ou de son délégué, de deux membres du Jury choisis parmi ceux non mis en cause dans l'irrégularité invoquée. Cette instance de recours statue séance tenante, par décision formellement motivée et notifiée au(x) plaignant(s) [<sup>4</sup> dans les quatre jours]<sup>4</sup> par pli recommandé ou par voie électronique.
+
+Cette instance de recours est habilitée uniquement à constater des irrégularités éventuelles dans le déroulement des examens et sa décision ne se substitue pas à celle du Jury. Lorsque l'instance de recours constate une irrégularité, il appartient dès lors au Jury, de même composition que pour les sessions d'examens, de prendre à nouveau une décision après avoir corrigé l'irrégularité retenue par l'instance de recours, c'est-à-dire en tenant compte de cette irrégularité dans la délibération.
+
+----------
+
+(1)&lt;ACF 2017-12-20/28, art. 30, 002; En vigueur : 09-03-2018&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 108,4°, 004; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2019-05-03/38, art. 108,5°, 004; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2019-05-03/38, art. 116, 004; En vigueur : 01-09-2019&gt;
+
+## Chapitre IVbis. [<sup>1</sup> Du traitement et de la protection des données personnelles]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-25/05, art. 14, 010; En vigueur : 10-07-2026&gt;
+
+#### Art. 21/1.
+
+[<sup>1</sup> On entend par :
+
+1° données personnelles : les données à caractère personnel au sens de l'article 4.1) du RGPD ;
+
+2° RGPD : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE " (règlement général sur la protection des données)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-25/05, art. 14, 010; En vigueur : 10-07-2026&gt;
+
+#### Art. 21/2.
+
+[<sup>1</sup> Le traitement visé par le présent décret relève de la responsabilité du service en charge de l'organisation des Jurys qui agit en tant que responsable de traitement au sens de l'article 4.7) du RGPD.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-25/05, art. 14, 010; En vigueur : 10-07-2026&gt;
+
+#### Art. 21/3.
+
+[<sup>1</sup> § 1er. Le service en charge de l'organisation des Jurys traite les données personnelles des candidats et, le cas échéant, des personnes titulaires, en tout ou en partie, de l'autorité sur la personne du candidat mineur pour la finalité générale suivante : Organiser les jurys de l'enseignement secondaire ordinaire.
+
+Le candidat mineur est inscrit par la personne titulaire, en tout ou en partie, de l'autorité sur sa personne.
+
+§ 2. Les données personnelles des candidats listées ci-dessous sont traitées pour les finalités spécifiques suivantes :
+
+1° identifier et authentifier le candidat au moment de l'introduction de la demande d'inscription et lors de l'organisation de la passation des épreuves :
+
+a) nom et prénom ;
+
+b) dans le cas d'une inscription en ligne, le numéro de registre national ;
+
+c) dans le cas d'une inscription n'ayant pas lieu en ligne, une copie de la carte d'identité ;
+
+d) attestation de l'Institution publique de protection de la jeunesse ;
+
+e) attestation de détention ;
+
+f) photo d'identité ;
+
+2° préparer et réceptionner l'inscription du candidat à un cycle d'épreuves pour l'obtention du titre souhaité qui demande un aménagement raisonnable au sens de l'article 17 du présent décret :
+
+a) attestation relative à l'état de santé, délivrée par un professionnel de la santé habilité à poser le diagnostic ;
+
+b) nom et prénom ;
+
+c) numéro de téléphone ;
+
+d) adresse de courrier électronique, pour les cas où l'inscription a lieu en ligne ;
+
+3° préparer et réceptionner l'inscription du candidat à un cycle d'épreuves pour l'obtention du titre souhaité qui ne demande pas d'aménagement raisonnable au sens de l'article 17 du présent décret :
+
+a) nom et prénom ;
+
+b) numéro de téléphone ;
+
+c) adresse de courrier électronique, pour les cas où l'inscription a lieu en ligne ;
+
+4° vérifier la complétude du dossier du candidat, les conditions d'admission et le paiement des frais d'inscription ou les conditions d'exemption du paiement des frais d'inscription en vue de l'approbation de la demande :
+
+a) nom et prénom ;
+
+b) date de naissance ;
+
+c) documents permettant d'attester d'un niveau D'études ou de formation ;
+
+d) preuve de paiement des droits d'inscription ;
+
+e) attestation comme demandeur d'emploi ;
+
+f) attestation pour les candidats bénéficiant du revenu d'intégration sociale, des indemnités de la mutuelle, des allocations d'intégration ou des allocations de remplacement de revenus ;
+
+g) attestation de l'Institution publique de protection de la jeunesse ;
+
+h) attestation de détention ;
+
+i) décès ;
+
+5° communiquer la décision d'approbation ou de refus d'approbation au candidat :
+
+a) nom et prénom ;
+
+b) adresse de courrier électronique, pour les cas où l'inscription a lieu en ligne ;
+
+c) domicile et lieu de résidence principale, pour les cas où l'inscription n'a pas lieu en ligne ;
+
+d) décès ;
+
+6° organiser la passation des épreuves en présentiel :
+
+a) nom et prénom ;
+
+b) attestation de l'Institution publique de protection de la jeunesse ;
+
+c) attestation de détention ;
+
+d) photo d'identité ;
+
+e) décès ;
+
+7° corriger les épreuves et décider des résultats :
+
+a) nom et prénom ;
+
+b) épreuves et résultats ;
+
+8° communiquer au candidat la décision le concernant :
+
+a) nom et prénom ;
+
+b) résultats aux épreuves ;
+
+c) adresse de courrier électronique, pour les cas où l'inscription a lieu en ligne ;
+
+d) domicile et lieu de résidence principale ;
+
+e) décès ;
+
+9° délivrer le diplôme au candidat qui a réussi les épreuves :
+
+a) nom et prénoms ;
+
+b) date de naissance ;
+
+c) lieu de naissance ;
+
+d) pays de naissance ;
+
+e) résultats aux épreuves ;
+
+f) domicile et lieu de résidence principale ;
+
+g) décès ;
+
+10° statuer sur les plaintes des candidats qui n'ont pas réussi les épreuves via l'instance de recours :
+
+a) nom et prénom ;
+
+b) épreuves et résultats ;
+
+c) adresse de courrier électronique, pour les cas où l'inscription a lieu en ligne ;
+
+d) domicile et lieu de résidence principale, pour les cas où la plainte n'est pas adressée par voie électronique ;
+
+11° délivrer éventuellement les duplicatas des diplômes aux personnes qui le demandent :
+
+a) nom et prénom ;
+
+b) date de naissance ;
+
+c) lieu de naissance ;
+
+d) pays de naissance ;
+
+e) domicile et lieu de résidence principale ;
+
+f) adresse de courrier électronique, pour les cas où l'inscription a lieu en ligne ;
+
+g) résultats aux épreuves.
+
+§ 3. Le service en charge de l'organisation des Jurys traite les données personnelles des personnes titulaires, en tout ou en partie, de l'autorité sur la personne du candidat mineur pour les finalités spécifiques suivantes :
+
+1° communiquer avec la personne titulaire de l'autorité à propos de l'inscription du candidat, de la gestion de son dossier d'inscription, de la passation des épreuves, des résultats des épreuves, des éventuels recours introduits, du diplôme délivré :
+
+a) nom et prénom ;
+
+b) adresse de courrier électronique, pour les cas où l'inscription a lieu en ligne ;
+
+2° pour identifier ou authentifier la personne titulaire de l'autorité dans le cas où la demande d'inscription d'un candidat mineur est effectuée en ligne :
+
+a) nom et prénom ;
+
+b) numéro de registre national ;
+
+3° pour identifier ou authentifier la personne titulaire de l'autorité dans le cas où la demande d'inscription d'un candidat mineur est effectuée hors ligne :
+
+a) nom et prénom.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-25/05, art. 14, 010; En vigueur : 10-07-2026&gt;
+
+#### Art. 21/4.
+
+[<sup>1</sup> § 1er. Dans le cadre du traitement visé à l'article 21/3 du présent décret, les données personnelles sont collectées directement via un formulaire que le candidat ou la personne titulaire de l'autorité, en tout ou en partie, sur le candidat mineur complète pour son inscription.
+
+§ 2. Seuls les membres du personnel du service en charge de l'organisation des Jurys traitent les données personnelles.
+
+§ 3. Le service en charge de l'organisation des Jurys communique uniquement avec le candidat ou la personne titulaire de l'autorité en tout ou en partie, sur le candidat mineur.
+
+§ 4. Le service en charge de l'organisation des Jurys ne peut transférer aucune donnée à caractère personnel concernant les candidats aux épreuves ou les personnes titulaires, en tout ou en partie, de l'autorité sur le candidat mineur, collectée aux fins de l'organisation des jurys de l'enseignement secondaire ordinaire, à des tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-25/05, art. 14, 010; En vigueur : 10-07-2026&gt;
+
+#### Art. 21/5.
+
+[<sup>1</sup> Les données sont conservées de manière active à compter de la date d'inscription du candidat à un cycle d'épreuves et pendant tout ce cycle, soit une durée de 6 mois. Si le candidat se réinscrit au cycle suivant, les données continuent d'être conservées de manière active.
+
+A la fin du cycle d'épreuves, et jusqu'à la clôture du dossier, les données personnelles sont conservées de manière passive, sous réserve des consultations actives nécessaires au traitement d'un recours ou à toute autre demande prévue par le présent décret.
+
+Elles ne seront plus consultées qu'exceptionnellement à la demande du candidat ou de la personne titulaire, en tout ou en partie, de l'autorité sur le candidat mineur pour réaliser une vérification, accorder des dispenses ou rédiger un duplicata du diplôme. Les données sont conservées pour les durées suivantes :
+
+1° dossier issu des formulaires : 3 ans ;
+
+2° examens : 3 ans ;
+
+3° PV de délibération : 40 ans à dater de la délivrance du diplôme.
+
+Les données relatives au registre national ne sont pas conservées indépendamment de la base de données dont elles sont issues.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2026-06-25/05, art. 14, 010; En vigueur : 10-07-2026&gt;
+
+## CHAPITRE V. - Dispositions diverses
+
+#### Art. 22
+
+Le Gouvernement fixe les modèles des Attestations, des Certificats et des Diplômes visés à l'article 1er.
+
+#### Art. 23
+
+Le Gouvernement fixe les indemnités pour les examinateurs qui ne sont pas membres [<sup>1</sup> de la Direction visée]<sup>1</sup> à l'article 1er.
+
+[<sup>2</sup> Le Gouvernement ou son délégué conclut avec chaque examinateur un contrat dont le modèle est fixé en annexe au présent décret. La durée de ce contrat ne peut dépasser la période pour laquelle l'examinateur a été désigné.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 108,6°, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 117, 004; En vigueur : 12-07-2019&gt;
+
+#### Art. 24
+
+Le Gouvernement fixe les modalités pour obtenir un extrait du registre des délibérations, confirmant qu'une Attestation ou un Certificat a été délivré.
+
+#### Art. 25
+
+[<sup>1</sup> La Direction]<sup>1</sup> qui assure l'organisation des Jurys peut solliciter l'avis du service général de l'inspection tel que défini par [<sup>2</sup> le décret du 10 janvier 2019 relatif au Service général de l'Inspection]<sup>2</sup> quant à l'adéquation du niveau des examens par rapport au programme, à la qualité de la correction des examens ou au recrutement d'examinateurs.
+
+----------
+
+(1)&lt;DCFR 2019-05-03/38, art. 108,3°, 004; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2019-05-03/38, art. 118, 004; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE VI. - Dispositions transitoires, modificatives et abrogatoires
+
+#### Art. 26
+
+A titre transitoire, pour le cycle d'examens organisés de janvier 2017 à juin 2017, les candidats peuvent présenter le Certificat d'enseignement secondaire supérieur en technique et artistique de qualification ainsi qu'en professionnel dans l'option de leur choix.
+
+#### Art. 27
+
+A titre transitoire, pour le cycle d'examens organisés de janvier 2017 à juin 2017, les candidats sont interrogés sur base des programmes tels que définis dans le décret du 12 mai 2004 portant organisation du Jury de la Communauté française de l'Enseignement secondaire. Ils doivent avoir obtenu au moins 50% dans chacun des cours généraux et techniques pour pouvoir présenter les examens relatifs aux cours pratiques de l'option de base groupée.
+
+#### Art. 28
+
+[<sup>1</sup> Les membres du personnel enseignant ayant obtenu un congé pour mission en application de l'article 5 du décret du 24 juin 1996 précité et affectés au Jury avant l'entrée en vigueur du présent décret et maintenus au sein de la Direction visée à l'article 1er sont soumis au régime horaire et au régime de vacances annuelles d'application dans les Services du gouvernement de la Communauté française. Ils peuvent bénéficier des formations professionnelles continues visées à l'article 6.1.3-10 qui sont organisées au niveau interréseaux et ce, à raison de six demi-jours par an.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2021-06-17/28, art. 52, 007; En vigueur : 01-09-2022&gt;
+
+#### Art. 29
+
+A l'article 17, § 2, du décret du 18 mai 2012 visant à la mise en place d'un dispositif d'accueil et de scolarisation des élèves primo-arrivants dans l'enseignement organisé ou subventionné par la Communauté française, les mots "un délégué du jury de la Communauté française, désigné par le collège des Présidents des différentes sections de ce jury, ci-après dénommé le délégué du jury" sont remplacés par les mots " membres du personnel enseignant ayant obtenu un congé pour mission en application de l'article 5 du décret du 24 juin 1996 précité affecté au service des Jurys, ci-après dénommé le délégué du Jury" et les mots "du Collège des présidents des différentes sections qui délèguent" sont remplacés par les mots "du Service en charge d'organiser les Jurys de la Communauté française qui délègue".
+
+A l'article 17, § 3, du même décret, les mots "le jury de la Communauté française", sont remplacés par les mots "le Service en charge de l'organisation des Jurys de la Communauté française".
+
+#### Art. 30
+
+Dans l'arrêté du 6 mars 1995 du Gouvernement de la Communauté française fixant les conditions de collation du brevet d'infirmier(ère) hospitalier(ère) et d'infirmier(ère) hospitalier(ère) - Orientation santé mentale et psychiatrie, sont apportées les modifications suivantes :
+
+1° à l'article 3, § 2, les mots "ou par le jury " sont supprimés ;
+
+2° les articles 4, § 2, 5 § 2, 6 § 2, 7 et 8, ainsi que le chapitre IV sont abrogés.
+
+#### Art. 31
+
+Le décret du 12 mai 2004 portant organisation du Jury de la Communauté française de l'Enseignement secondaire est abrogé sauf les articles 14 à 19 et 34 à 40.
+
+#### Art. 32
+
+Les articles 14 à 19 et 34 à 40 du décret du 12 mai 2004 portant organisation du Jury de la Communauté française de l'Enseignement secondaire sont abrogés au 1er septembre 2017.
+
+#### Art. 33
+
+L'arrêté du Gouvernement de la Communauté française du 20 février 1995 relatif à l'octroi du Diplôme d'aptitude à accéder à l'enseignement supérieur est abrogé.
+
+#### Art. 34
+
+L'article 6, § 1er, de l'arrêté du Régent du 31 décembre 1949 portant coordination des lois sur la collation des grades académiques et le programme des examens universitaires est abrogé.
+
+L'article 6bis, § 2, de l'arrêté du Régent du 31 décembre 1949 portant coordination des lois sur la collation des grades académiques et le programme des examens universitaires est abrogé.
+
+#### Art. 35
+
+Les articles 10 à 13 de l'arrêté royal du 17 août 1957 portant fixation des conditions de collation des diplômes d'accoucheuse, d'infirmier gradué ou d'infirmière graduée sont supprimés.
+
+#### Art. 36
+
+Dans les articles 19 et 20 du décret du 25 avril 2008 fixant les conditions pour pouvoir satisfaire à l'obligation scolaire en dehors de l'enseignement organisé ou subventionné par la Communauté française, les termes "en vertu du décret du 12 mai 2004 portant organisation du Jury de la Communauté française" sont remplacés par les termes "en vertu du décret du 27 octobre 2016 portant organisation des Jurys de la Communauté française de l'Enseignement secondaire ordinaire".
+
+## CHAPITRE VII. - Disposition finale
+
+#### Art. 37
+
+Le présent décret entre en vigueur le 1er janvier 2017 sauf les articles 1er et 28, qui entrent en vigueur à la date fixée par le Gouvernement.
+
+## ANNEXE.
+
+#### Art. N
+
+[<sup>1</sup> Modèle contrat relatif à la rémunération des examinateurs pour les jurys de l'enseignement secondaire
+
+MINISTERE DE LA COMMUNAUTE FRANCAISE - CONTRAT RELATIF AUX JURYS DE L'ENSEIGNENEMENT SECONDAIRE
+
+Entre les soussignés :
+
+Le ministre du Gouvernement de la Communauté française ayant les jurys de l'enseignement secondaire dans ses attributions, d'une part, ci-après dénommé " Le ministre "
+
+Et
+
+Madame/Monsieur{/art}. . . . . . .. d'autre part, ci-après dénommé " l'examinateur ",
+
+il a été convenu ce qui suit :
+
+Article 1er - Conformément à l'arrêté du Gouvernement de la Communauté française du 15 novembre 2017 portant exécution du décret du 27 octobre 2016 portant organisation des jurys de la Communauté française de l'enseignement secondaire ordinaire, le ministre charge l'examinateur de préparer les examens, de surveiller les examens, d'interroger les candidats, de corriger les examens, de préparer les délibérations, d'assurer la consultation des examens par les candidats, d'exécuter toute autre tâche administrative en lien avec les missions du Service qui assure l'organisation des Jurys et de se tenir à la disposition des candidats pour toute information préalable ou postérieure relative aux examens.
+
+Article 2 - Conformément aux articles 6 et 7 de l'arrêté du Gouvernement de la Communauté française du 15 novembre 2017 portant exécution du décret du 27 octobre 2016 portant organisation des jurys de la Communauté française de l'enseignement secondaire ordinaire, les examinateurs percevront une indemnité de [<sup>2</sup> 120 euros]<sup>2</sup> pour des prestations d'une journée entière et une indemnité de [<sup>2</sup> 60 euros]<sup>2</sup> pour des prestations d'une demi-journée. Une journée entière comprend minimum six heures de prestation. Une demi-journée comprend minimum trois heures de prestation.
+
+Article 3 - Le présent contrat est conclu pour la durée de la désignation conformément à l'article 4 de l'arrêté du Gouvernement de la Communauté française du 15 novembre 2017 portant exécution du décret du 27 octobre 2016 portant organisation des jurys de la Communauté française de l'enseignement secondaire ordinaire. Il est automatiquement reconduit en cas de nouvelle désignation.
+
+Fait à Bruxelles, le ..............., en deux exemplaires, chaque partie reconnaissant avoir reçu un exemplaire.
+
+Pour le ministre,
+
+L'Examinateur,]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-05-03/38, art. 117, 004; En vigueur : 12-07-2019&gt;
+
+(2)&lt;DCFR 2021-12-15/13, art. 43, 006; En vigueur : 01-01-2022&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 27 octobre 2016.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+La Vice-Présidente et Ministre de la Culture et de l'Enfance,
+
+Mme A. GREOLI
+
+Le Vice-Président et Ministre de l'Enseignement supérieur, de la Recherche et des Médias,
+
+J.-Cl. MARCOURT
+
+Le Ministre de l'Aide à la jeunesse, des Maisons de justice, des Sports et de la Promotion de Bruxelles, chargé de la tutelle sur la Commission communautaire française de la Région de Bruxelles-Capitale,
+
+R. MADRANE
+
+La Ministre de l'Education,
+
+Mme M.-M. SCHYNS
+
+Le Ministre du Budget, de la Fonction publique et de la Simplification administrative,
+
+A. FLAHAUT
+
+La Ministre de l'Enseignement de promotion sociale, de la Jeunesse, des Droits des femmes et de l'Egalité des chances,
+
+Mme I. SIMONIS
