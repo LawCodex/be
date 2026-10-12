@@ -1,0 +1,519 @@
+---
+title: "Loi sur la réglementation économique et les prix (Intitulé remplacé par L 30-07-1971, art. 3, § 1er)"
+identifier: "1945012201"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1945/01/22/1945012201/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1945-01-22
+published: 1945-01-24
+entry_into_force: 1945-01-24
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1945/01/22/1945012201/justel"
+justel_note: "Consultation des versions antérieures à partir du 30-12-2005 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 22 JANVIER 1945. - Loi sur la réglementation économique et les prix (Intitulé remplacé par L 30-07-1971, art. 3, § 1er)
+
+Vu la loi du 7 septembre 1939 donnant au Roi des pouvoirs extraordinaires;
+
+Vu la loi du 14 décembre 1944 complétant la loi du 7 septembre 1939 donnant au Roi des pouvoirs extraordinaires;
+
+Revu l'arrêté-loi du 27 octobre 1939, modifié par les arrêtés-lois des 11 et 14 mai 1940, 30 août et 30 novembre 1944, complétant les mesures prises pour assurer l'approvisionnement du pays et pour prévenir et réprimer les abus dans le commerce de certaines denrées ou marchandises;
+
+Considérant qu'il est nécessaire et urgent de compléter les mesures prises pour assurer la répression des infractions à la réglementation relative à l'approvisionnement du pays;
+
+Sur la proposition des Ministres qui en ont délibéré en Conseil,
+
+.....
+
+## Chapitre Ier.
+
+### Art. 1
+
+&lt;Abrogé par L 2013-04-03/18, art. 9, 005; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 2&gt;
+
+### Art. 2
+
+[§ 1.] Le Ministre ayant les Affaires économiques dans ses attributions peut fixer soit pour territoire du Royaume, soit pour certaine partie de celui-ci, les prix maxima dans les matières régies en vertu de l'article 1er, § 1er, ci-dessus. &lt;L 23-12-1969, art. 2, a&gt;
+
+[§ 2.] Il peut également fixer la limite du bénéfice à prélever par tout vendeur ou intermédiaire. &lt;L 23-12-1969, art. 2, a&gt;
+
+§ 2bis. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>.
+
+[§ 4. Le Ministre ayant les affaires économiques dans ses attributions, peut prescrire toutes modalités nécessaires à la mise en application de l'exécution des dispositions aux articles 1er et 2, (notamment la déclaration de hausse de prix]. &lt;L 23-12-1969, art. 2, b&gt; &lt;L 30-07-1971, art. 1, b&gt;
+
+[Il peut se faire fournir tous éléments justificatifs nécessaires à l'examen des déclarations de hausse introduites.
+
+Il peut notamment prescrire la communication sans déplacement aux agents commissionnés par lui de tous livres, registres et autres pièces comptables dont la tenue est prescrite par ou en vertu de dispositions légales.
+
+[Alinéa 4 abrogé.] &lt;L 17-07-1975&gt;
+
+Pour la fixation des prix maxima ou des limites visés par le présent article, le Ministre ayant les Affaires économiques dans ses attributions, consulte préalablement la Commission pour la Régulation des Prix, dont le statut est fixé par le Roi, selon les modalités fixées par un arrêté royal délibérée en Conseil des Ministres]. &lt;L 30-07-1971, art. 1, b&gt;
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2013-04-03/18, art. 9, 005; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 2&gt;
+
+(2)&lt;L 2013-11-20/02, art. 6, 006; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 6)&gt;
+
+### Art. 2_COMMUNAUTE_GERMANOPHONE
+
+[§ 1.] Le Ministre ayant les Affaires économiques dans ses attributions peut fixer soit pour territoire du Royaume, soit pour certaine partie de celui-ci, les prix maxima dans les matières régies en vertu de l'article 1er, § 1er, ci-dessus. &lt;L 23-12-1969, art. 2, a&gt;
+
+[§ 2.] Il peut également fixer la limite du bénéfice à prélever par tout vendeur ou intermédiaire. &lt;L 23-12-1969, art. 2, a&gt;
+
+§ 2bis. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>.
+
+[§ 4. Le Ministre ayant les affaires économiques dans ses attributions, peut prescrire toutes modalités nécessaires à la mise en application de l'exécution des dispositions aux articles 1er et 2, (notamment la déclaration de hausse de prix]. &lt;L 23-12-1969, art. 2, b&gt; &lt;L 30-07-1971, art. 1, b&gt;
+
+[Il peut se faire fournir tous éléments justificatifs nécessaires à l'examen des déclarations de hausse introduites.
+
+Il peut notamment prescrire la communication sans déplacement aux agents commissionnés par lui de tous livres, registres et autres pièces comptables dont la tenue est prescrite par ou en vertu de dispositions légales.
+
+[Alinéa 4 abrogé.] &lt;L 17-07-1975&gt;
+
+Pour la fixation des prix maxima ou des limites visés par le présent article, [<sup>3</sup> sauf en ce qui concerne la fixation des prix dans les établissements d'accueil pour personnes âgées en région de langue allemande,]<sup>3</sup> le Ministre ayant les Affaires économiques dans ses attributions, consulte préalablement la Commission pour la Régulation des Prix, dont le statut est fixé par le Roi, selon les modalités fixées par un arrêté royal délibérée en Conseil des Ministres]. &lt;L 30-07-1971, art. 1, b&gt;
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2013-04-03/18, art. 9, 005; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 2&gt;
+
+(2)&lt;L 2013-11-20/02, art. 6, 006; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 6)&gt;
+
+(3)&lt;DCG 2016-02-22/24, art. 1, 011; En vigueur : 01-01-2016&gt;
+
+### Art. 2_REGION_FLAMANDE
+
+[§ 1.] Le Ministre ayant les Affaires économiques dans ses attributions peut fixer soit pour territoire du Royaume, soit pour certaine partie de celui-ci, les prix maxima dans les matières régies en vertu de l'article 1er, § 1er, ci-dessus. &lt;L 23-12-1969, art. 2, a&gt;
+
+[<sup>3</sup> La fixation de prix maximaux pour les eaux destinées à l'utilisation humaine est réglée à l'article 12bis du décret du 24 mai 2002 relatif aux eaux destinées à l'utilisation humaine.]<sup>3</sup>
+
+[§ 2.] Il peut également fixer la limite du bénéfice à prélever par tout vendeur ou intermédiaire. &lt;L 23-12-1969, art. 2, a&gt;
+
+§ 2bis. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>.
+
+[§ 4. Le Ministre ayant les affaires économiques dans ses attributions, peut prescrire toutes modalités nécessaires à la mise en application de l'exécution des dispositions aux articles 1er et 2, (notamment la déclaration de hausse de prix]. &lt;L 23-12-1969, art. 2, b&gt; &lt;L 30-07-1971, art. 1, b&gt;
+
+[Il peut se faire fournir tous éléments justificatifs nécessaires à l'examen des déclarations de hausse introduites.
+
+Il peut notamment prescrire la communication sans déplacement aux agents commissionnés par lui de tous livres, registres et autres pièces comptables dont la tenue est prescrite par ou en vertu de dispositions légales.
+
+Pour la fixation des prix maxima ou des limites visés par le présent article, le Ministre ayant les Affaires économiques dans ses attributions, consulte préalablement la Commission pour la Régulation des Prix, dont le statut est fixé par le Roi, selon les modalités fixées par un arrêté royal délibérée en Conseil des Ministres]. &lt;L 30-07-1971, art. 1, b&gt;
+
+[<sup>4</sup> Le quatrième alinéa ne s'applique pas à la Communauté flamande lors de la fixation des prix maxima ou des limites [<sup>5</sup> pour [<sup>6</sup> les centres d'accueil de jour,]<sup>6</sup> les centres de soins de jour, les centres de court séjour, les groupes de logements à assistance et les centres de soins résidentiels tels que visés au Décret sur les soins résidentiels du 15 février 2019]<sup>5</sup>.]<sup>4</sup>
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2013-04-03/18, art. 9, 005; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 2&gt;
+
+(2)&lt;L 2013-11-20/02, art. 6, 006; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 6)&gt;
+
+(3)&lt;DCFL 2015-12-18/24, art. 2, 009; En vigueur : 08-01-2016&gt;
+
+(4)&lt;DCFL 2016-07-15/17, art. 39, 012; En vigueur : 29-08-2016&gt;
+
+(5)&lt;DCFL 2019-02-15/21, art. 73, 017; En vigueur : 01-01-2020&gt;
+
+(6)&lt;DCFL 2025-12-19/57, art. 2, 019; En vigueur : 09-01-2026&gt;
+
+### Art. 2_REGION_WALLONNE
+
+(§ 1.) Le Ministre ayant les Affaires économiques dans ses attributions peut fixer soit pour territoire du Royaume, soit pour certaine partie de celui-ci, les prix maxima dans les matières régies en vertu de l'article 1er, § 1er, ci-dessus. &lt;L 23-12-1969, art. 2, a&gt;
+
+(§ 2.) Il peut également fixer la limite du bénéfice à prélever par tout vendeur ou intermédiaire. &lt;L 23-12-1969, art. 2, a&gt;
+
+§ 2bis. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>.
+
+(§ 4. Le Ministre ayant les affaires économiques dans ses attributions, peut prescrire toutes modalités nécessaires à la mise en application de l'exécution des dispositions aux articles 1er et 2, (notamment la déclaration de hausse de prix). &lt;L 23-12-1969, art. 2, b&gt; &lt;L 30-07-1971, art. 1, b&gt;
+
+(Il peut se faire fournir tous éléments justificatifs nécessaires à l'examen des déclarations de hausse introduites.
+
+Il peut notamment prescrire la communication sans déplacement aux agents commissionnés par lui de tous livres, registres et autres pièces comptables dont la tenue est prescrite par ou en vertu de dispositions légales.
+
+(Alinéa 4 abrogé) &lt;L 17-07-1975&gt;
+
+Pour la fixation des prix maxima ou des limites visés par le présent article, [<sup>3</sup> [<sup>6</sup> à l'exception de la fixation des prix dans les établissements d'hébergement pour aînés]<sup>6</sup>]<sup>3</sup> [<sup>4</sup> et relatif à la distribution et l'assainissement de l'eau]<sup>4</sup> le Ministre ayant les Affaires économiques dans ses attributions, consulte préalablement la Commission pour la Régulation des Prix, dont le statut est fixé par le Roi, selon les modalités fixées par un arrêté royal délibérée en Conseil des Ministres). &lt;L 30-07-1971, art. 1, b&gt;
+
+[<sup>5</sup> [<sup>6</sup> En dérogation à l'alinéa 4, pour la fixation des prix liés à la distribution et l'assainissement de l'eau, le Ministre de l'Economie consulte préalablement le Comité de contrôle de l'eau, institué par l'article D-4 du Code wallon de l'Eau et dont le statut est fixé par les articles R-16 et suivant dudit Code.]<sup>6</sup>]<sup>5</sup>
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2013-04-03/18, art. 9, 005; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 2&gt;
+
+(2)&lt;L 2013-11-20/02, art. 6, 006; En vigueur : 12-12-2013 (voir AR 2013-12-08/01, art. 6)&gt;
+
+(3)&lt;DRW 2015-12-17/55, art. 186, 010; En vigueur : 01-01-2016&gt;
+
+(4)&lt;DRW 2015-12-17/55, art. 112, 010; En vigueur : 01-01-2016&gt;
+
+(5)&lt;DRW 2015-12-17/55, art. 113, 010; En vigueur : 01-01-2016&gt;
+
+(6)&lt;DRW 2016-12-21/02, art. 7, 013; En vigueur : 01-01-2017&gt;
+
+### Art. 2bis
+
+&lt;Abrogé par L 2013-04-03/18, art. 9,3°, 005; En vigueur : 01-07-2014&gt;
+
+### Art. 3
+
+&lt;Abrogé par L 2014-03-27/37, art. 5, 007; En vigueur : 30-04-2014&gt;
+
+### Art. 4
+
+&lt;Abrogé par L 2014-03-27/37, art. 5, 007; En vigueur : 30-04-2014&gt;
+
+### Art. 4bis
+
+&lt;AL 07-06-1946, art. 1&gt; En cas d'urgence et lorsqu'il décide de prendre en considération une requête écrite émanent d'un groupement de producteurs ou de distributeurs revêtu de la personnalité civile et représentant l'indiscutable majorité des intéressées, tendant à l'institution par le Ministre des affaires économiques d'une réglementation prévue par l'article 3, §§ 1 et 2, du présent arrêté-loi, le Ministre des Affaires économiques peut demander l'avis du conseil du contentieux économique sur la conformité de cette requête avec l'intérêt général et sur les oppositions qu'elle aurait provoquées.
+
+### Art. 4ter
+
+&lt;AL 07-06-1946, art. 1&gt; A cette fin, le Ministre des Affaires économiques fait publier au Moniteur belge un avis résumant l'objet de la requête, permettant à tout intéressé d'en prendre connaissance et de faire opposition dans les délais qu'il fixe. Des expiration de ces délais, il transmet la requête et les oppositions éventuelles au conseil du contentieux économique. Celui-ci lui remet son avis écrit après audition contradictoire des parties et examen de leurs arguments, le Commissaire du gouvernement nommé par le Ministre entendu.
+
+## Chapitre II. \_
+
+### Art. 5
+
+Les dispositions des chapitres II et III sont applicables à la recherche, à la constatation et à la poursuite :
+
+a) des infractions visées par le chapitre Ier et par les arrêtés pris en application des dispositions de ce chapitre;
+
+b) des infractions visées à l'arrêté-loi du 22 septembre 1939, relatif à la préparation des farines de froment;
+
+c) (des infractions aux arrêtés ministériels pris en exécution de l'arrêtê-loi du 31 janvier 1945 donnant au Ministre des Affaires économiques, seul ou conjointement avec le ou les Ministres intéressés, le pouvoir de procéder à certaines investigations, modifié et complété par l'arrêté-loi du 5 mai 1945, ainsi que des infractions à l'arrêté-loi du 7 mai 1945 donnant au Ministre du Ravitaillement le pouvoir de procéder à certaines investigations, ou aux arrêtés ministériels pris pour son exécution;) &lt;AL 07-05-1945, art. 3&gt;
+
+d) des infractions visées à l'arrêté-loi du 23 septembre 1939, réglementant l'emploi et la vente du froment indigène;
+
+e) des infractions aux arrêtés pris en exécution de ces arrêtés;
+
+f) des infractions aux arrêtés pris en exécution de la loi du 5 mars 1935, concernant les citoyens appelés par engagement volontaire ou par réquisition à assurer le fonctionnement des services publics en temps de guerre et de la loi du 16 juin 1937 attribuant au Roi le pouvoir de prendre les mesures nécessaires pour assurer la mobilisation de la nation et la protection de la population en cas de guerre et dont l'exécution est confiée au Ministre du Ravitaillement ou au Ministre des Affaires économiques;
+
+[<sup>1</sup> g) des infractions à l'article 70 de la loi du 29 décembre 2010 portant des dispositions diverses(I), et aux arrêtés pris en exécution de cet article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-12-29/01, art. 19, 004; En vigueur : 10-01-2011&gt;
+
+### Art. 6
+
+§ 1. (Sans préjudice des devoirs incombant aux officiers de police judiciaire, sont compétents pour rechercher et constater par procès-verbal, même individuellement, les infractions visées aux articles 5, 8, 9 et 11, sans toutefois acquérir en cette matière la qualité d'officier de police judiciaire :
+
+a) les agents commissionnés par le Ministre du Ravitaillement;
+
+b) les agents commissionnés par le Ministre de l'Agriculture;
+
+c) les agents commissionnés par le Ministre des Affaires économiques;
+
+d) les agents de l'administration des contributions directes, de l'administration des douanes et accises et de l'administration de l'enregistrement et des domaines;
+
+e) le personnel de surveillance du Comité supérieur de Contrôle;
+
+f) les inspecteurs des pharmacies;
+
+g) les inspecteurs et contrôleurs des denrées alimentaires;
+
+h) les agents judiciaires des parquets;
+
+i) les agents assermentés chargés de la police communale, ainsi que les gendarmes;
+
+j) les ingénieurs du Travail, les inspecteurs et contrôleurs sociaux du Ministère du Travail et de la Prévoyance sociale;
+
+k) les agents non assermentés chargés de la police communale et les gardes champêtres.
+
+Sans préjudice de l'application des articles 279 à 282bis du Code d'instruction criminelle, les fonctionnaires et agents énumérés ci-dessus sont, en ce qui concerne la recherche et la constatation des infractions à tous lois et arrêtés relatifs à la réglementation concernant les prix, l'approvisionnement du pays et la fixation des salaires et des traitements, soumis à la surveillance du Procureur général, qui prend à leur égard les sanctions prévues à l'article 60, alinéas 1 et 2, de la loi du 20 avril 1810 sur l'organisation de l'ordre judiciaire et l'administration de la justice, modifié par l'article 4 de l'arrêté royal n° 184 du 5 juillet 1935.) &lt;AL 18-05-1946, art. 2&gt;
+
+§ 2. Les procès-verbaux dressés du chef d'infractions prévues par le présent arrêté font foi jusqu'à preuve du contraire.
+
+### Art. 7
+
+§ 1er. Dans l'exercice de leur mission, les agents cités à l'article 6 ainsi que les officiers de police judiciaire peuvent :
+
+1° faire toutes les constatations utiles, y compris l'inventaire des produits, matières, denrées, marchandises ou animaux dans les dépôts, entrepôts privés, fabriques, usines, magasins, débits, et, en général, en tous lieux oú ces choses sont détenues à des fins industrielles, commerciales ou spéculatives, exposées ou mises en vente;
+
+2° procéder ou faire procéder au recensement des animaux domestiques et produits du sol récoltés ou pendants par branches ou par racine;
+
+3° contrôler tout transport, quel qu'en soit le mode;
+
+A première réquisition, les transporteurs doivent s'arrêter et arrêter leur véhicule et prêter l'aide nécessaire pour la constatation de la nature et de la quantité des marchandises transportées.
+
+En cas d'impossibilité de faire la vérification sur place, le transport doit être conduit si l'agent requérant en donne l'ordre, à un endroit où la vérification pourra avoir lieu, le tout aux frais du transporteur, si une infraction est relevée à sa charge;
+
+4° prélever gratuitement les échantillons nécessaires pour la détermination de la nature des produits, matières, denrées, marchandises, ainsi que pour l'administration de la preuve d'une infraction.
+
+Le cas échéant les propriétaires possesseurs ou détenteurs des dites choses doivent fournir les récipients nécessaires pour le transport et la conservation des échantillons.
+
+5° se faire produire à première réquisition, ou rechercher tous documents, pièces ou livres utiles à l'accomplissement de leur mission, notamment les documents officiels, les documents de transport, les documents correspondance et livres commerciaux, ainsi que saisir ceux de ces documents nécessaires pour faire la preuve d'une infraction ou pour rechercher les coauteurs ou complices des contrevenants; il est donné aux intéressés récépissé des documents saisis. Ils peuvent prendre ou faire prendre des copies photographiques ou autres, des documents soumis à leur contrôle et faire des constatations par prises de vues photographiques;
+
+6° retenir les contrevenants dont l'identité ne peut être établie immédiatement ou qui sont sans résidence régulière dans le pays. Les contrevenants sont conduits devant le bourgmestre, le commissaire de police ou le commandant de brigade de gendarmerie, lequel s'assure de leur identité et les met, s'il y a lieu, à la disposition du procureur du Roi. Si le contrevenant est un étranger, sans résidence régulière dans le pays, mandat d'arrêt peut être décerné à sa charge, même si l'infraction est punie d'une peine inférieure à trois mois d'emprisonnement. La mise en liberté de l'inculpé à charge de qui le mandat d'arrêt a été décerné devra toujours être subordonnée à l'obligation de fournir un cautionnement;
+
+7° saisir, même si un tiers en est propriétaire, les produits, matières, denrées, marchandises ou animaux qui font l'objet de l'infraction ainsi que les moyens de production, de transformation, de transport ou autres objets quelconques ayant servi à les produire, transformer, distribuer ou transporter.
+
+(Ils peuvent également saisir les produits, matières, denrées, marchandises ou animaux en possession du contrevenant, de même nature et de même destination que ceux qui font l'objet de l'infraction.
+
+Ils peuvent mettre les objets saisis sous scellés.) &lt;L 14-02-1948, art. 1&gt;
+
+Les saisies peuvent donner lieu à constitution de gardien sur place ou en tout autre lieu désigné par les agents verbalisants. Ces derniers peuvent mettre en vente les choses saisies. Dans ce cas, le prix de vente est consigné jusqu'à ce qu'il ait été statué sur l'infraction.
+
+Le prix tient lieu des choses saisies tant en ce qui concerne la confiscation que la restitution éventuelle à l'intéressé;
+
+8° signifier les réquisitions régulièrement prescrites, les exécuter ou les faire exécuter;
+
+9° arrêter tout contrevenant et le conduire devant le procureur du Roi;
+
+10° requérir des agents de la force publique qui seront tenus de leur prêter assistance, ou des experts, soit en vue d'assurer ou de contrôler l'exécution des mesures prescrites par l'autorité, soit pour apprécier la nature et les circonstances d'une infraction;
+
+11° requérir des administrations communales les moyens nécessaires à l'existence de leur mission. A cet effet, les administrations peuvent être requises en la personne du bourgmestre, d'un des échevins, du secrétaire communal ou d'un des officiers de la police communale.
+
+Elles peuvent, notamment, être tenues de recevoir les objets saisis, d'en assurer le transport et d'en être les gardiens.
+
+§ 2. Dans l'exercice de leur mission les agents visés à l'article 6 du présent arrêté peuvent, en se faisant accompagner, au besoin, par les experts requis :
+
+1° pénétrer à toute heure :
+
+a) dans tous les lieux accessibles au public, notamment les marchés publics, les halles et salle de vente, les minques et bourses de marchandises, les endroits où sont organisés des expositions, foires, kermesses, fêtes de charité ouvertes au public et manifestations sportives, les débits de boissons, restaurants et hôtels, les établissements de vente en gros et en détail;
+
+b) chez tous les producteurs industriels ou commerçants : sont notamment visés par le présent alinéa, les exploitations agricoles et maraîchères, fermes, laiteries, ateliers, usines, magasins, boutiques, échoppes et lieux quelconques affectés à la production, à la préparation et à la vente des produits, matières, denrées, marchandises ou animaux;
+
+c) en tous lieux où ils ont des raisons de croire à la présence de produits, matières, denrées, marchandises ou animaux détenus à des fins industrielles, commerciales ou spéculatives;
+
+d) dans les habitations, locaux ou enclos attenant aux lieux et établissements susvisés.
+
+Sont notamment considérés comme habitations, locaux ou enclos attenants, tout local ou enclos situé soit dans le même immeuble, soit dans la même exploitation agricole, industrielle ou commerciale.
+
+Les visites domiciliaires dans les appartements privés rentrant sous le littéra c ci-dessus doivent être faites conjointement par deux agents au moins.
+
+Lorsque, en vue d'établir l'existence d'une infraction, les agents visés à l'article 6 ci-dessus estiment devoir effectuer des recherches dans les appartements privés, non visés aux alinéas a à d ci-dessus, ils ne peuvent y procéder que de 5 heures à 21 heures et sur autorisation (du juge au tribunal de police) ou du procureur du Roi. La visite devra se faire par deux agents au moins. &lt;L 10-10-1967, art. 3-91, § 30&gt;
+
+Lorsqu'ils seront à la poursuite d'un individu suspect de transporter des animaux, produits, matières, denrées ou marchandises faisant l'objet d'un délit, les agents pourront aussi entrer à toute heure, en tous lieux publics ou privés où cet individu a pénétré; en ce cas, les agents ne seront pas tenus de faire la visite domiciliaire à deux.
+
+2° Pénétrer à toute heure dans les gares, halles, dépôts, magasins, dépendances, convois et voitures des chemins de fer, chemins de fer vicinaux, tramways, autobus, trolleybus ou autres modes de transport publics ou privés et y faire toutes constatations ou saisies, que les dites voitures soient en marche ou à l'arrêt.
+
+[<sup>1</sup> § 2/1. Sans préjudice des paragraphes 1er et 2, les agents visés à l'article 6, § 1er, alinéa 1er, c), peuvent rechercher et constater les infractions à la présente loi, à l'arrêté-loi du 14 mai 1946 renforçant le contrôle des prix et à leurs arrêtés d'exécution, conformément aux dispositions du livre XV, titre 1er, chapitre 1er, du Code de droit économique.]<sup>1</sup>
+
+§ 3. Les frais de justice à résulter de l'application de l'article 7 sont fixés, arrêtés, payés et, le cas échéant, recouvrés conformément aux dispositions du tarif criminel après avoir été taxés par l'autorité requérante.
+
+Ces frais sont imputés sur le crédit prévu au budget du Ministère de la Justice pour le paiement des frais de justice répressive.
+
+Les frais alloués sur taxe sont payés à l'intervention des greffiers des Cours et Tribunaux au moyen des fonds mis à leur disposition par l'Administration de l'Enregistrement et des Domaines pour le payement des frais de justice répressive. Les frais alloués sur mémoire sont liquidés par les soins du Ministère de la Justice (Service des frais de justice répressive).
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 58, 018; En vigueur : 31-03-2024&gt;
+
+### Art. 7bis_REGION_FLAMANDE.
+
+[<sup>1</sup> En application de l'article 23, paragraphe 1, e) et h), du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), les agents visés à l'article 6 de la présente loi peuvent décider de ne pas appliquer les obligations et droits énoncés aux articles 12 à 22 dudit règlement au traitement des données à caractère personnel dans le cadre d'une enquête qui concerne une personne physique déterminée, si les conditions énoncées aux alinéas 2 à 10 sont remplies.
+
+La possibilité de dérogation visée à l'alinéa premier ne s'applique que pendant la période au cours de laquelle l'intéressé fait l'objet d'un contrôle, d'une enquête ou des activités préparatoires y afférentes, dans le cadre des missions décrétales et réglementaires des agents visés à l'article 6 de la présente loi, à condition qu'il soit ou puisse être nécessaire pour le bon déroulement de l'enquête que les obligations et droits visés aux articles 12 à 22 dudit règlement ne soient pas appliqués. La durée des activités préparatoires ne peut, le cas échéant, dépasser un an à compter de la date de réception d'une demande d'exercice d'un des droits visés aux articles 12 à 22 dudit règlement.
+
+Les données à caractère personnel ne seront pas conservées plus longtemps que les finalités pour lesquelles elles sont traitées le requièrent.
+
+La possibilité de dérogation visée à l'alinéa premier ne s'applique pas aux données qui ne sont pas liées à l'objet de l'enquête ou du contrôle justifiant le refus ou la restriction des droits, visés à l'alinéa premier.
+
+Si, dans le cas visé à l'alinéa premier, l'intéressé soumet une demande sur la base des articles 12 à 22 dudit règlement au cours de la période visée au deuxième alinéa, le fonctionnaire à la protection des données compétent en accuse réception.
+
+Le fonctionnaire à la protection des données compétent informe l'intéressé par écrit de tout refus ou restriction des droits, visés à l'alinéa premier, dans les meilleurs délais et en tout état de cause dans un délai d'un mois à compter du jour suivant celui de la réception de la demande. Il n'est pas nécessaire de fournir des informations complémentaires sur les motifs détaillés d'un tel refus ou d'une telle restriction lorsque cela porterait atteinte aux missions décrétales et réglementaires des agents visés à l'article 6, sans préjudice de l'application de l'alinéa 8. Si nécessaire, le délai précité peut être prolongé de deux mois, compte tenu du nombre de demandes et de leur complexité. Le responsable du traitement informe l'intéressé de cette prolongation et des raisons du report dans un délai d'un mois à compter du jour suivant celui où il a reçu la demande.
+
+Le fonctionnaire à la protection des données compétent informe également l'intéressé sur la possibilité d'introduire une demande auprès de la commission de contrôle flamande pour le traitement des données à caractère personnel conformément à l'article 10/5 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, et de former un recours en justice.
+
+Le fonctionnaire à la protection des données compétent consigne les motifs factuels ou juridiques sur lesquels la décision est fondée. Il tient ces informations à la disposition de la commission de contrôle flamande précitée.
+
+Une fois l'enquête terminée, les droits énoncés aux articles 13 à 22 du règlement précité sont, le cas échéant, appliqués à nouveau conformément à l'article 12 du règlement précité.
+
+Si un dossier contenant des données à caractère personnel visées à l'alinéa premier a été transmis au Ministère public et peut conduire à des activités sous la direction du Ministère public ou d'un juge d'instruction, et qu'il existe une incertitude quant au secret de l'enquête sous la direction du Ministère public ou d'un juge d'instruction, le fonctionnaire à la protection des données compétent ne peut répondre à la demande de l'intéressé conformément aux articles 12 à 22 du règlement précité qu'après que le Ministère public ou, le cas échéant, le juge d'instruction, a confirmé qu'une réponse ne compromet pas ou n'est pas susceptible de compromettre l'enquête.]<sup>1</sup>
+
+----------
+
+(1)&lt;AGF 2019-07-19/22, art. 1, 016; En vigueur : 12-09-2019&gt;
+
+## Chapitre III. \_
+
+### Art. 7ter.
+
+[<sup>1</sup> § 1er. Les infractions visées aux articles 5, 8 et 9 ou à ses arrêtés d'exécution recherchées et constatées par les agents visés à l'article 6, § 1er, alinéa 1er, c), peuvent faire l'objet de:
+
+1° l'application de la procédure de transaction telle que visée à l'article 11bis, § 1er;
+
+2° une poursuite administrative en application de la procédure visée au titre 1/2 du livre XV du Code de droit économique;
+
+3° une poursuite pénale.
+
+§ 2. La poursuite se fait conformément au titre 1/1 du livre XV du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 59, 018; En vigueur : 31-03-2024&gt;
+
+### Art. 7quater.
+
+[<sup>1</sup> Le ministère public notifie aux agents compétents visés à l'article XV.60/4 du Code de droit économique sa décision d'intenter ou non les poursuites pénales ou de proposer ou non une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code.
+
+Lorsque le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code, ou si le ministère public n'a pas pris de décision dans un délai de trois mois à compter du jour de la réception du procès-verbal consignant l'infraction, les agents compétents visés à l'article XV.60/4 du Code de droit économique décident s'il y a lieu d'entamer la procédure d'amende administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 60, 018; En vigueur : 31-03-2024&gt;
+
+### Art. 7quinquies.
+
+[<sup>1</sup> Si le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code, il envoie une copie des pièces de procédure de l'enquête complémentaire aux agents compétents visés à l'article XV.60/4 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 61, 018; En vigueur : 31-03-2024&gt;
+
+### Art. 8
+
+§ 1er. Tous empêchements ou entraves volontaires à l'exercice des fonctions des agents cités à l'article 6 sont punis d'une amende [<sup>1</sup> pénale]<sup>1</sup> de 100 à 100 000 [<sup>1</sup> euros]<sup>1</sup>, et d'un emprisonnement de huit jours à un mois ou de l'une de ces peines seulement [<sup>1</sup> , ou d'une amende administrative de 100 à 100.000 euros]<sup>1</sup>.
+
+En cas de récidive, l'amende est doublée et le contrevenant encourt un emprisonnement de quinze jours à trois ans.
+
+Sont considérés notamment comme empêchant ou entravant volontairement l'exercice des fonctions, ceux qui refusent de fournir les renseignements ou de communiquer les documents demandés en vertu du présent arrêté-loi, fournissent sciemment des renseignements ou documents inexacts ou refusent d'indiquer la provenance des denrées, marchandises, produits, matières ou animaux qui font l'objet de l'enquête et semblent détenus à des fins spéculatives.
+
+§ 2. Seront passibles des peines prévues au présent article, les magistrats provinciaux et communaux, les fonctionnaires et agents de l'Etat, des provinces et des communes ainsi que les organismes qui en dépendent, qui refusent d'exécuter les arrêtés ou instructions des autorités concernant l'approvisionnement du pays, le rationnement ou la fixation des prix, ainsi que la répression des abus dans le commerce et la distribution de produits, matières, denrées, marchandises ou animaux ou qui, soit par leur opposition, soit par leur négligence, entravent cette exécution.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 62, 018; En vigueur : 31-03-2024&gt;
+
+### Art. 9
+
+§ 1. (Les infractions visées à l'article 5 du présent arrêté-loi sont punies d'un mois à cinq ans d'emprisonnement et d'une amende [<sup>1</sup> pénale]<sup>1</sup> de 100 à 1 000 000 de [<sup>1</sup> euros]<sup>1</sup> ou d'une de ces peines seulement [<sup>1</sup> , ou d'une amende administrative de 100 à 100.000 euros]<sup>1</sup>.
+
+En cas de récidive, l'amende et l'emprisonnement sont doublés; ils sont toujours prononcés cumulativement. Toutefois, le montant de l'amende, augmenté des décimes additionnels, ne peut être supérieur à la valeur des produits, matières, denrées, marchandises ou animaux qui ont fait l'objet de l'infraction.) &lt;L 14-02-1948, art. 1, § 2&gt;
+
+Si la valeur des produits, matières, denrées, marchandises ou animaux qui font l'objet de l'infraction dépasse 10 000 [<sup>1</sup> euros]<sup>1</sup>, la peine d'emprisonnement est de trois mois au moins.
+
+§ 2. La confiscation des produits, matières, denrées, marchandises ou animaux, qui font l'objet de l'infraction est prononcée, conformément aux dispositions des articles 42 et 43 du Code pénal. Les Cours et Tribunaux ont, en outre, la faculté de la prononcer même si l'objet de l'infraction est la propriété d'un tiers.
+
+Ils ont également la faculté de prononcer, même s'ils sont la propriété d'un tiers, la confiscation des moyens de production, de transformation, de distribution, de transports et d'autres objets quelconques destinés ou ayant servi à produire, fabriquer, transformer, distribuer ou transporter les produits, matières, denrées, marchandises ou animaux faisant l'objet de l'infraction. (Ils peuvent confisquer les choses saisies en vertu de l'article 7, § 1, 7°, alinéa 2.) &lt;L 14-02-1948, art. 1, § 3&gt;
+
+§ 3. Les Cours et Tribunaux peuvent, en outre, condamner le contrevenant à payer une somme correspondant au bénéfice indûment réalisé ou à la hausse illicite des prix.
+
+Cette somme est recouvrée comme l'amende.
+
+Les condamnations prononcées en vertu des §§ 2 et 3 du présent article sont recouvrées à charge des héritiers des condamnés.
+
+§ 4. Pour toute infraction commise par les producteurs, relativement à leurs obligations de recensement, de production et de fourniture en matière agricole, le juge peut prononcer, à la demande du ministère public, la confiscation de tout ou partie du cheptel de l'exploitation du contrevenant. La confiscation ainsi ordonnée peut être exécutée par les agents désignés par le Ministère du Ravitaillement; ils auront pour l'exercice de leur mission, les pouvoirs prévus à l'article 7 du présent arrêté. La destination du cheptel confisqué est réglée par le Ministre du Ravitaillement.
+
+§ 5. a) Si l'infraction a été commise par un importateur, un producteur, un fabricant, un distributeur ou commerçant, les Cours et Tribunaux peuvent prononcer la fermeture de l'établissement pour une durée n'excédant pas un an. Cette fermeture peut être exécutée même à charge d'un tiers qui aurait repris l'établissement depuis la constatation de l'infraction qui donne lieu à la fermeture.
+
+Toutefois, dans ce cas, le tiers sera appelé au procès et le jugement ne lui sera pas opposable s'il peut prouver sa bonne foi et l'ignorance de la menace de fermeture qui pesait sur l'établissement.
+
+Ils peuvent également prononcer l'interdiction ou la restriction pour le contrevenant du droit d'exercer personnellement ou par personne interposée la profession ou le commerce dans l'exercice duquel l'infraction a été commise ou une profession ou un commerce connexe. Cette mesure peut être définitive ou temporaire.
+
+S'il s'agit d'un commerçant ambulant, le retrait de la carte prévue par l'article 2 de la réglementation du commerce ambulant annexé à l'arrêté du 29 décembre 1936 peut être prononcé pour une période n'excédant pas trois mois.
+
+b) La fermeture de l'établissement ou l'interdiction ou la restriction d'exercer une profession ou un commerce produit ses effets quarante-huit heures après la signification de la décision de condamnation. Si elle est enfreinte, le procureur du Roi prend toute mesure appropriée en vue de la faire respecter, notamment par l'apposition des scellés sur l'entreprise et le contrevenant pourra être condamné à un emprisonnement de six mois à deux ans et d'une amende de 100 à 100 000 [<sup>1</sup> euros]<sup>1</sup>.
+
+§ 6. Les Cours et Tribunaux peuvent ordonner que la décision de condamnation soit publiée intégralement ou par extrait, dans les journaux qu'ils désignent ou par tout autre moyen tel que le film ou la radio ou affichée durant un délai déterminé dans les lieux qu'ils indiquent, notamment aux portes principales et à la devanture de l'établissement du condamné, le tout aux frais de ce dernier. La suppression, la dissimulation ou la lacération totale ou partielle des affiches opérée volontairement par le condamné, à son instigation ou par son ordre, le rend passible des peines prévues au § 5, litt. b) du présent article.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 63, 018; En vigueur : 31-03-2024&gt;
+
+### Art. 10
+
+§ 1. (Les dispositions du livre premier du Code pénal, y compris le chapitre VII et l'article 85 sont applicables aux infractions visées aux articles 5, 8, 9 et 11.) &lt;L 14-02-1948, art. 1, § 4&gt;
+
+Toutefois, en cas de concours d'infractions visées à l'alinéa précédent, les amendes peuvent être indéfiniment cumulées.
+
+Par dérogation à l'article 69 du Code pénal, les complices de toute infraction visée aux articles 5, 8, 9 et 11 sont punis des peines prévues pour les auteurs de l'infraction.
+
+§ 2. (§ abrogé) &lt;L 14-02-1948, art. 1, § 4&gt;
+
+§ 3. (Le juge peut ordonner l'exécution provisoire des condamnations nonobstant tout recours.) &lt;L 14-02-1948, art. 1, § 6&gt;
+
+### Art. 10bis.
+
+[<sup>1</sup> Les dispositions du titre 2, chapitre 1/1, du livre XV du Code de droit économique sont applicables aux amendes administratives visées par la présente loi.
+
+Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales sont également applicables aux amendes administratives visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 64, 018; En vigueur : 31-03-2024&gt;
+
+### Art. 10ter.
+
+[<sup>1</sup> Les articles XV.73 et XV.74 du Code de droit économique sont applicables aux infractions pénales à la présente loi recherchées et constatées par les agents spécialement commissionnés à cet effet par le ministre qui a l'Economie dans ses attributions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 65, 018; En vigueur : 31-03-2024&gt;
+
+### Art. 11
+
+§ 1. Le procureur du Roi, s'il estime ne pas devoir requérir une peine d'emprisonnement principale, peut faire connaître par lettre recommandée au contrevenant qu'il lui est loisible d'éviter les poursuites en exécutant une ou plusieurs des prestations suivantes au choix du procureur du Roi :
+
+1° en payant dans un délai déterminé [<sup>1</sup> le receveur du service compétent du Service public fédéral Finances]<sup>1</sup>, qui lui sera désigné, une somme déterminée dont le montant pourra dépasser le maximum de l'amende établie par le présent arrêté;
+
+2° en versant dans un délai déterminé, [<sup>1</sup> au receveur du service compétent du Service public fédéral Finances qui sera désigné comme tel]<sup>1</sup>, le montant du bénéfice indûment réalisé ou de la somme correspondant à la hausse illicite du prix, suivant le cas;
+
+3° en abandonnant les objets sujets à confiscation qui lui seront désignées, ou, si ces objets ne sont pas saisis, en les remettant à un endroit et dans un délai déterminé;
+
+4° en exécutant, lorsqu'il est producteur agricole, certaines prestations qui lui seront désignées dans le cadre ou en supplément de ses obligations ordinaires.
+
+5° (En mettant en vente, à des jours et heures déterminés, tout ou partie des produits, matières, denrées, marchandises ou animaux en sa possession et du même genre que ceux qui font l'objet de l'infraction.) &lt;AL 14-05-1946, art. 7&gt;
+
+Conjointement avec les propositions définies ci-dessus, le contrevenant est invité par le procureur du Roi, à lui faire savoir, dans un délai déterminé, s'il accepte les propositions qui lui sont faites.
+
+Lorsque la transaction a été exécutée entièrement dans le délai prescrit, l'action publique est éteinte. Aucune transaction ne peut plus être proposée après que la juridiction de jugement a été saisie de l'infraction.
+
+(La procédure transactionnelle exclut la fermeture provisoire prévue au § 2 du présent article.) &lt;L 06-07-1983, art. 1&gt;
+
+§ 2. Le procureur du Roi ou, si une instruction est ouverte, le magistrat instructeur, peut ordonner la fermeture provisoire de l'établissement du contrevenant. La durée de la fermeture provisoire ne peut excéder la date à laquelle il aura été statué sur l'infraction.
+
+Le littera b du paragraphe 5 de l'article 9 est applicable à cette décision.
+
+(La décision de fermeture provisoire exclut la procédure transactionnelle prévue au § 1er du présent article.) &lt;L 06-07-1983, art. 2&gt;
+
+§ 3. Le procureur du Roi peut ordonner et ceci à tout moment de la procédure, la mise en vente des produits, matières, denrées, marchandises ou animaux saisis. Le prix en est consigné jusqu'à ce qu'il ait été statué sur l'infraction et tient lieu des objets saisis tant en ce qui concerne la confiscation que la restitution éventuelle aux intéressés.
+
+----------
+
+(1)&lt;L 2018-07-11/07, art. 125, 014; En vigueur : 30-07-2018&gt;
+
+### Art. 11bis
+
+[<sup>1</sup> § 1er. Lorsque les agents, visés à l'article 6, § 1er, alinéa 1er, c), constatent des infractions aux articles 5, 8 et 9 ou à ses arrêtés d'exécution, les agents désignés par le ministre qui a l'Economie dans ses attributions peuvent proposer une somme, dont le paiement volontaire par l'auteur de l'infraction éteint l'action publique, conformément à l'article XV.61 du Code de droit économique.
+
+Le montant de la transaction ne peut être supérieur au montant maximum de l'amende pénale pouvant être infligée pour l'infraction constatée, majorée des décimes additionnels.
+
+Les modalités de paiement et de perception de cette transaction sont arrêtées par le Roi.
+
+§ 2. Lorsqu'ils constatent des infractions aux articles 5, 8 et 9 ou à ses arrêtés d'exécution, les agents spécialement commissionnés à cet effet par le ministre qui a l'Economie dans ses attributions peuvent adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte, conformément à l'article XV.31 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 66, 018; En vigueur : 31-03-2024&gt;
+
+## Chapitre IV.
+
+### Art. 12
+
+Le présent arrêté-loi remplace l'arrêté-loi du 27 octobre 1939 complétant les mesures prises pour assurer l'approvisionnement du pays et pour prévenir et réprimer les abus dans le commerce de certaines denrées ou marchandises. Il se substitue au dit arrêté-loi pour l'application des dispositions qui se réfèrent à ce dernier.
+
+### Art. 13
+
+Le présent arrêté-loi entre en vigueur le jour de sa promulgation au Moniteur belge.
