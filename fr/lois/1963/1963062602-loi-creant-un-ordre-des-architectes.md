@@ -1,0 +1,1005 @@
+---
+title: "Loi créant un Ordre des architectes."
+identifier: "1963062602"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1963/06/26/1963062602/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1963-06-26
+published: 1963-07-05
+entry_into_force: 1963-07-15
+last_amended: 2026-07-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1963/06/26/1963062602/justel"
+justel_note: "Consultation des versions antérieures à partir du 20-05-1989 et mise à jour au 31-07-2026"
+retrieved: 2026-10-12
+---
+
+# 26 JUIN 1963. - Loi créant un Ordre des architectes.
+
+## CHAPITRE Ier. - Dénomination, mission et composition de l'Ordre.
+
+#### Art. 1
+
+Il est créé un Ordre des architectes. Il jouit de la personnalité civile.
+
+#### Art. 2
+
+L'Ordre des architectes a pour mission d'établir les règles de la déontologie régissant la profession d'architecte et d'en assurer le respect. Il veille à l'honneur, à la discrétion et à la dignité des membres de l'Ordre dans l'exercice ou à l'occasion de l'exercice de la profession. Il dénonce à l'autorité judiciaire toute infraction aux lois et règlements protégeant le titre et la profession d'architecte.
+
+[<sup>1</sup> L'Ordre des architectes traite les données à caractère personnel nécessaires à l'exercice de ses missions conformément au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, dénommé ci-après "le règlement général sur la protection des données". L'Ordre des architectes est le responsable du traitement prévu dans ce règlement.
+
+L'Ordre des architectes désigne un délégué à la protection des données chargé de la fonction et des missions visées dans le règlement général sur la protection des données.
+
+Dans le cadre de ses missions, et en particulier celle d'identifier et de contacter ses membres et d'assurer la régularité des élections en vérifiant la qualité d'électeur et de candidat, l'Ordre peut faire usage du numéro d'identification du registre national ou du numéro d'identification dans la Banque-Carrefour de la sécurité sociale ou, à titre subsidiaire, collecter le nom, le prénom, la date de naissance, l'adresse professionnelle, le domicile et les coordonnées de ses membres.
+
+Seuls le nom, le prénom, l'adresse professionnelle et les coordonnées professionnelles peuvent être publiés en vue d'identifier une personne inscrite à l'Ordre.
+
+Les données à caractère personnel traitées par l'Ordre peuvent être conservées au maximum dix ans après l'omission de la personne inscrite, sauf si ces données sont liées à la gestion d'un contentieux en cours, et pour autant que ces données soient strictement nécessaires à la gestion de ce contentieux et durant le temps strictement nécessaire à la gestion de ce contentieux.
+
+Le Roi peut déterminer des délais spécifiques de conservation de données sur la base de la finalité et du type de données visées, sans que ces délais ne puissent dépasser le délai maximum visé à l'alinéa 6.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-10-09/06, art. 2, 019; En vigueur : 23-12-2023&gt;
+
+#### Art. 3
+
+L'Ordre des architectes comprend toutes les personnes inscrites à un des tableaux de l'Ordre ou sur une liste des stagiaires.
+
+#### Art. 4
+
+Nul ne peut être inscrit à un tableau de l'Ordre ou sur une liste de stagiaires s'il ne réunit les conditions requises par la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte.
+
+#### Art. 5
+
+Nul ne peut exercer en Belgique la profession d'architecte en quelque qualité que ce soit, s'il n'est inscrit à l'un des tableaux de l'Ordre ou sur une liste des stagiaires (ou s'il n'a satisfait aux dispositions des (premier ou deuxième alinéa du § 2) de l'article 8.) &lt;AR 1990-09-12/31, art. 1, 003; En vigueur : 29-10-1990&gt; &lt;L 2008-11-21/50, art. 5, 013; En vigueur : 21-02-2009&gt;
+
+#### Art. 5/1
+
+[<sup>1</sup> Les données à caractère personnel du tableau et de la liste des stagiaires qui sont publiées sur le site internet de l'Ordre des architectes sont les suivantes:
+
+1° le nom et le prénom de la personne inscrite;
+
+2° les coordonnées;
+
+3° le numéro d'inscription au tableau ou à la liste des stagiaires du conseil de l'Ordre visé à l'article 7 sur lequel ou laquelle la personne est inscrite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-10-09/06, art. 3, 019; En vigueur : 23-12-2023&gt;
+
+## CHAPITRE II. - Organes de l'Ordre.
+
+#### Art. 6
+
+Les organes de l'Ordre sont:
+
+1° Les conseils de l'Ordre;
+
+2° Les conseils d'appel;
+
+3° Le conseil national de l'Ordre.
+
+### Section I. - Des conseils de l'Ordre.
+
+A. Composition.
+
+#### Art. 7
+
+Il y a, dans chaque province, un conseil de l'Ordre qui a juridiction sur les membres de l'Ordre qui ont établi, dans cette province, le (siège principal de leur activité, s'il s'agit d'une personne physique, ou leur siège [<sup>2</sup> ...]<sup>2</sup>, s'il s'agit d'une personne morale, à toutes leurs occurrences). Est considéré comme tel pour les stagiaires, le siège du membre de l'Ordre auprès duquel ils effectuent leur stage [<sup>2</sup> ou, si ce siège n'est pas situé en Belgique, le lieu où le stagiaire a son domicile ou sa résidence principale en Belgique]<sup>2</sup>. [<sup>2</sup> A défaut, le stagiaire relève du conseil de l'Ordre de son choix tel que repris dans sa demande, parmi les conseils utilisant la langue dans laquelle il a introduit sa demande.]<sup>2</sup> &lt;L 2006-02-15/45, art. 8, 008; En vigueur : 01-07-2007&gt;
+
+Dans les provinces [<sup>1</sup> du Brabant flamand,]<sup>1</sup> d'Anvers, de Flandre occidentale, de Flandre orientale et de Limbourg, les conseils de l'Ordre utilisent la langue néerlandaise.
+
+Dans les provinces [<sup>1</sup> du Brabant wallon,]<sup>1</sup> de Hainaut, de Liège, de Luxembourg et de Namur, les conseils de l'Ordre utilisent la langue française.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Les membres personnes physiques et les membres personnes morales ayant respectivement le siège principal de leur activité ou leur siège dans les communes de l'agglomération bruxelloise relèvent, à leur choix, du conseil de l'Ordre du Brabant flamand et de Bruxelles-capitale ou du conseil de l'Ordre de Bruxelles-Capitale et du Brabant wallon.]<sup>1</sup>
+
+Par dérogation aux règles de la compétence territoriale des conseils de l'Ordre telle qu'elle est définie dans le présent article, tout membre qui ne possède pas une connaissance suffisante de la langue de la procédure utilisée par le conseil de l'Ordre auquel il ressortit normalement peut, au début de l'information dont il est l'objet, demander que la procédure se poursuive dans l'autre langue.
+
+Il est statué sur cette demande par décision motivée, susceptible d'appel de la part du membre en cause. La décision renvoie, s'il échet, l'intéressé devant le conseil de l'Ordre le plus proche utilisant l'autre langue.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 67, 020; En vigueur : 31-03-2024&gt;
+
+(2)&lt;L 2026-07-20/03, art. 2, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 8
+
+&lt;AR 1990-09-12/31, art. 2, 003; En vigueur : 29-10-1990&gt; (§ 1er.) &lt;L 2008-11-21/50, art. 6, 1°, 013; En vigueur : 21-02-2009&gt; Lorsqu'ils sont désireux d'exercer la profession et d'établir en Belgique, soit d'une manière permanente, soit temporairement, un siège d'activité, [<sup>2</sup> les ressortissants des Etats membres de l'Union européenne, de même que les autres états auxquels s'applique la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, modifiée en dernier lieu par la directive 2013/55/UE du 20 novembre 2013, ci-après "les Etats membres" autorisés à exercer la profession en vertu de l'article 1er de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte, ainsi que les ressortissants des pays tiers]<sup>2</sup> autorisés à exercer la profession d'architecte en Belgique en vertu de l'article 8 de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte, sont tenus de demander préalablement leur inscription au tableau de l'Ordre ou sur la liste des stagiaires au conseil de l'Ordre compétent, conformément aux règles établies à l'article 7. (Cette obligation vaut aussi pour les personnes morales visées à l'article 2, § 2, de la loi du 20 février 1939.) &lt;L 1998-02-10/33, art. 55, 005; En vigueur : 11-10-2000&gt; &lt;L 2006-02-15/45, art. 9, 008; En vigueur : 01-07-2007&gt;
+
+(§ 2.) &lt;L 2008-11-21/50, art. 6, 2°, 013; En vigueur : 21-02-2009&gt; Les [<sup>2</sup> ressortissants des pays tiers]<sup>2</sup>, exerçant la profession d'architecte à l'étranger et désireux d'exercer leur profession en Belgique, d'une manière occasionnelle, sont tenus de se faire préalablement autoriser par le conseil de l'Ordre dans le ressort duquel ils comptent exercer leurs activités. &lt;L 1998-02-10/33, art. 55, 005; En vigueur : 11-10-2000&gt;
+
+[<sup>2</sup> Au cas où, dans le cadre de la libre prestation de services, les ressortissants des Etats membres se déplacent vers le territoire de la Belgique pour la première fois pour exercer, de façon temporaire et occasionnelle, la profession d'architecte, ils en informent préalablement l'Ordre des architectes par une déclaration écrite comprenant les informations relatives aux couvertures d'assurance ou autres moyens de protection personnelle ou collective concernant la responsabilité professionnelle [<sup>3</sup> ...]<sup>3</sup>. [<sup>3</sup> Le caractère temporaire et occasionnel de la prestation est apprécié au cas par cas, notamment en fonction de la durée de la prestation, de sa fréquence, de sa périodicité et de sa continuité]<sup>3</sup>. Ces ressortissants sont inscrits par l'Ordre des architectes dans le registre des prestataires de services. La déclaration est renouvelée une fois par an si le prestataire de services compte fournir des services de manière temporaire ou occasionnelle en Belgique au cours de l'année concernée. Le prestataire de services peut fournir la déclaration par tout moyen.]<sup>2</sup>
+
+[<sup>2</sup> Lors de la première prestation de service ou en cas de changement matériel, cette déclaration doit être accompagnée :]<sup>2</sup>
+
+1° d'une attestation certifiant que le bénéficiaire exerce légalement les activités en cause dans l'Etat membre où il est établi;
+
+2° d'une attestation certifiant que le bénéficiaire possède un des diplômes, certificats ou autres titres [<sup>2</sup> visés à l'article 1er, §§ 2 [<sup>4</sup> à 3]<sup>4</sup>, [<sup>3</sup> ou à l'annexe 1a,]<sup>3</sup> de]<sup>2</sup> la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte [<sup>4</sup> , ou une autre qualification professionnelle visée à l'article 9, § 2, c), de la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE]<sup>4</sup>;
+
+3° (au cas où ni la profession ni la formation conduisant à la profession n'est réglementée dans l'Etat membre d'établissement, d'une attestation certifiant que l'intéressé a acquis une expérience pratique d'au moins [<sup>2</sup> une année]<sup>2</sup> au cours des dix années qui précèdent la prestation;) &lt;L 2008-11-21/50, art. 6, 4°, 013; En vigueur : 21-02-2009&gt;
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+(5° d'une preuve de la nationalité du prestataire.) &lt;L 2008-11-21/50, art. 6, 5°, 013; En vigueur : 21-02-2009&gt;
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> Les règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l'usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des consommateurs, ainsi que les dispositions disciplinaires applicables en Belgique aux professionnels qui y exercent la même profession, telles que reprises dans les règles de déontologie approuvées par le Roi en exécution de l'article 39 de la présente loi, sont également applicables aux personnes visées aux alinéas 1er et 2.]<sup>3</sup>
+
+[<sup>2</sup> La prestation visée à l'alinéa 2 est effectuée sous le titre professionnel de l'Etat membre d'établissement lorsqu'un tel titre existe dans ledit Etat membre pour l'activité professionnelle concernée. Ce titre est indiqué dans la langue officielle ou dans l'une des langues officielles de l'Etat membre d'établissement, de manière à éviter toute confusion avec le titre professionnel belge. Dans les cas où ledit titre professionnel n'existe pas dans l'Etat membre d'établissement, le prestataire de services fait mention de son titre de formation dans la langue officielle ou dans l'une des langues officielles de cet Etat membre. Toutefois, lorsque le prestataire de services dispose d'un diplôme, certificat ou autres titres visés à l'article 1er, §§ 1er à 2/3, de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte, la prestation est effectuée dans ce cas sous le titre d'architecte. Pour l'application du présent alinéa, on entend par Etat membre d'établissement, l'un des Etats membres tels que visés au paragraphe 1er, à l'exclusion de la Belgique, où le prestataire de services est légalement établi.
+
+En outre, lorsque le prestataire de services ne dispose pas d'un diplôme, certificat ou autres titres visés à l'article 1er, §§ 1er à 2/3, de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte, l'Ordre peut, selon les conditions et modalités prévues à l'article 9, § 4, de la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE, procéder à une vérification des qualifications professionnelles du prestataire de services avant la première prestation de service, et lui imposer le cas échéant une épreuve d'aptitude.
+
+Les dispositions relatives à l'accès partiel visé à l'article 5/9 de la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE, sont d'application si le prestataire de services désire exercer la profession d'architecte à titre partiel. Les dispositions concernant le mécanisme d'alerte, l'accès centralisé aux informations et les procédures électroniques des articles 27/1 et 27/2 de la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE sont d'application.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 79, 015; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2017-07-21/32, art. 6, 017; En vigueur : 11-08-2017&gt;
+
+(3)&lt;L 2021-08-29/23, art. 4, 018; En vigueur : 07-10-2021&gt;
+
+(4)&lt;L 2024-05-03/40, art. 4, 021; En vigueur : 22-06-2024&gt;
+
+#### Art. 8/1
+
+[<sup>1</sup> Le conseil de l'Ordre compétent accuse réception du dossier du demandeur dans un délai d'un mois à compter de sa réception et l'informe le cas échéant de tout document manquant.
+
+La procédure d'examen d'une demande visant à obtenir l'autorisation d'exercer une profession réglementée doit être achevée dans les trois mois à compter de la présentation du dossier complet de l'intéressé et sanctionnée par une décision dûment motivée du conseil de l'Ordre compétent. Toutefois, ce délai peut être prorogé d'un mois si l'intéressé ne dispose d'aucun diplôme, certificat ou autre titre visé à l'article 1er, §§ 2 à 2/3, ou à l'annexe 1a, de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-08-29/23, art. 5, 018; En vigueur : 07-10-2021&gt;
+
+#### Art. 9
+
+Chaque conseil est composé de membres effectifs et de membres suppléants, élus par les personnes inscrites au tableau. (Seuls les membres personnes physiques peuvent être élus membres du conseil et peuvent participer à l'élection des membres du conseil.) &lt;L 2006-02-15/45, art. 10, 008; En vigueur : 01-07-2007&gt;
+
+Le Roi fixe leur nombre et détermine les modalités de leur élection.
+
+Le Roi peut prescrire des mesures tendant à assurer dans la mesure du possible qu'un ou plusieurs membres des conseils de l'Ordre soient élus parmi les membres de l'Ordre porteurs d'un diplôme d'ingénieur civil universitaire ou parmi ceux exerçant leur profession au service de l'Etat, d'une province, d'une commune ou d'un établissement public.
+
+Les candidats répondant aux conditions fixées par l'article 11, sont classés dans l'ordre décroissant des suffrages obtenus.
+
+Lorsque plusieurs candidats obtiennent un nombre égal de suffrages, la préférence est donnée au plus [<sup>2</sup> jeune]<sup>2</sup>.
+
+A concurrence du nombre de mandats à conférer, les candidats qui ont obtenu le plus grand nombre de suffrages sont élus membres effectifs.
+
+Les suivants sont élus membres suppléants.
+
+[<sup>1</sup> Le Roi détermine les modalités de recours contre les résultats du scrutin de chaque conseil de l'Ordre devant le conseil d'appel compétent visé à l'article 27.]<sup>1</sup>
+
+En cas de décès, [<sup>2</sup> de démission, de suspension par mesure d'ordre, de cessation anticipée du mandat ou de déchéance]<sup>2</sup> d'un membre effectif, il est remplacé par le premier des membres suppléants.
+
+Lorsqu'il n'y a plus de membres suppléants, il est pourvu au remplacement par une élection partielle.
+
+Le membre suppléant ou le membre élu lors de l'élection partielle achève le mandat de son prédécesseur.
+
+----------
+
+(1)&lt;L 2023-10-09/06, art. 4, 019; En vigueur : 23-12-2023&gt;
+
+(2)&lt;L 2026-07-20/03, art. 3, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 10
+
+L'élection des membres du conseil de l'Ordre se fait au scrutin secret.
+
+Le vote est obligatoire. La non-participation au scrutin, sans motif légitime, est punissable de l'avertissement [<sup>1</sup> ...]<sup>1</sup> ou de la réprimande.
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 4, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 11
+
+Les membres du conseil de l'Ordre, effectifs et suppléants, sont élus pour un terme de (six) ans parmi les membres de l'Ordre (ressortissants [<sup>1</sup> d'un des Etats membres]<sup>1</sup>) [<sup>2</sup> ...]<sup>2</sup>, inscrits [<sup>2</sup> ...]<sup>2</sup> au tableau tenu par le conseil de l'Ordre pour lequel ils sont candidats [<sup>2</sup> ...]<sup>2</sup> et n'ayant encouru aucune sanction disciplinaire sous réserve toutefois des dispositions prévues à l'article 42, § 3. &lt;AR 1990-09-12/31, art. 3, 003; En vigueur : 29-10-1990&gt; &lt;L 1998-02-10/33, art. 55, 005; En vigueur : 11-10-2000&gt; &lt;L 2007-03-01/37, art. 22, 1°, 010; En vigueur : 24-03-2007&gt; &lt;L 2008-11-21/50, art. 7, 013; En vigueur : 21-02-2009&gt;
+
+(Alinéa 2 abrogé) &lt;L 2007-03-01/37, art. 22, 2°, 010; En vigueur : 24-03-2007&gt;
+
+Le conseil se renouvelle par moitié tous les (trois) ans. &lt;L 2007-03-01/37, art. 22, 3°, 010; En vigueur : 24-03-2007&gt;
+
+Les membres ne peuvent exercer consécutivement plus de deux mandats.
+
+----------
+
+(1)&lt;L 2017-07-21/32, art. 7, 017; En vigueur : 11-08-2017&gt;
+
+(2)&lt;L 2026-07-20/03, art. 5, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 12
+
+Chaque conseil de l'Ordre est assisté d'un assesseur juridique et (de plusieurs assesseurs juridiques suppléants), nommés par le Roi. &lt;L 2007-03-01/37, art. 23, 010; En vigueur : 24-03-2007&gt;
+
+#### Art. 13
+
+L'assesseur juridique a voix consultative. Il est choisi pour un terme (de six ans parmi les magistrats effectifs ou honoraires) ou les avocats inscrits depuis dix ans au moins à un tableau de l'Ordre des avocats. &lt;L 2007-03-01/37, art. 24, 1°, 010; En vigueur : 24-03-2007&gt;
+
+(Le Roi nomme, dans les mêmes conditions, les assesseurs juridiques suppléants et fixe l'ordre dans lequel ils suppléent à l'assesseur juridique.) &lt;L 2007-03-01/37, art. 24, 2°, 010; En vigueur : 24-03-2007&gt;
+
+#### Art. 14
+
+Le conseil de l'Ordre élit en son sein un président, un vice-président et un secrétaire qui, avec l'assesseur juridique constituent le bureau. Chaque membre du conseil national de l'Ordre a le droit d'assister, avec voix consultative, aux séances du bureau du conseil de l'Ordre qui l'a élu en application de l'article 34.
+
+(En cas d'absence ou d'empêchement d'un membre du bureau, le bureau est complété par un suppléant élu lors de l'élection des membres effectifs et suppléants du Conseil de l'Ordre.) &lt;L 1989-04-24/31, art. 1, 002; En vigueur : 30-05-1989&gt;
+
+#### Art. 15
+
+Le conseil de l'Ordre se réunit sur convocation de son président, de l'assesseur juridique ou à la demande des deux tiers de ses membres. La convocation doit être adressée trois jours francs au moins avant la réunion, sauf cas d'urgence et porte l'ordre du jour proposé.
+
+#### Art. 16
+
+Le conseil de l'Ordre ne délibère valablement que si le président ou le vice-président et les deux tiers des membres sont présents et s'il est assisté de l'assesseur juridique (ou d'un des assesseurs juridiques suppléants), visés à l'article 12. &lt;L 2007-03-01/37, art. 25, 010; En vigueur : 24-03-2007&gt;
+
+Afin d'atteindre le quorum requis pour ces délibérations, le conseil de l'Ordre peut appeler des suppléants à siéger temporairement en les convoquant dans l'ordre du nombre des suffrages qu'ils ont obtenus aux élections.
+
+B. Attributions.
+
+#### Art. 17
+
+&lt;AR 2000-09-17/46, art. 2, 006; En vigueur : 11-10-2000&gt; § 1er. Chaque conseil de l'Ordre tient à jour un tableau et une liste des stagiaires où sont inscrits les membres de l'Ordre ayant le siège principal de leur activité dans son ressort.
+
+Les demandes d'inscriptions au tableau et sur la liste des stagiaires sont adressées au conseil compétent. [<sup>1</sup> Il en accuse réception dans un délai de 10 jours.]<sup>1</sup>
+
+Le conseil statue dans les trente jours sur les demandes d'inscriptions visées à l'article 8, (§ 1er), et sur les demandes d'autorisation visée à l'article 8, (§ 2, premier alinéa). [<sup>1</sup> Le cas échéant, le Conseil informe dans ce délai le demandeur de tout document manquant.]<sup>1</sup> (Dans les cas visés à l'article 1er § 4 de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte, le délai est de trois mois à compter de la présentation d'un dossier complet.) &lt;AR 2003-10-08/32, art. 2, 007; En vigueur : 06-11-2003&gt; &lt;L 2008-11-21/50, art. 8, 1°, 013; En vigueur : 21-02-2009&gt;
+
+Lorsque le conseil estime devoir prendre une décision de refus, il en avise l'intéressé par [<sup>2</sup> envoi recommandé]<sup>2</sup>. Une décision définitive ne peut intervenir qu'à la majorité des deux tiers et pour autant que l'intéressé ait bénéficié des garanties prévues à l'article 24.
+
+§ 2. En ce qui concerne l'établissement et l'autorisation visés à l'article 8, (§ 1er et § 2, premier alinéa), chaque conseil de l'Ordre est compétent, conformément aux règles établies à l'article 8, pour recevoir les diplômes, certificats et autres titres, ainsi que les documents ou informations, prévus par la (Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles). &lt;L 2008-11-21/50, art. 8, 2°, 013; En vigueur : 21-02-2009&gt;
+
+En ce qui concerne l'établissement et l'autorisation visés à l'article 8, (§ 1er et § 2, premier alinéa), chaque conseil de l'Ordre est également compétent pour délivrer les documents ou informations visés par la même directive. &lt;L 2008-11-21/50, art. 8, 2°, 013; En vigueur : 21-02-2009&gt;
+
+Toutefois, la délivrance de diplômes, certificats et autres titres relatifs à la formation, d'attestations de moralité ou d'honorabilité n'ayant pas trait à l'activité professionnelle d'architecte, et des déclarations d'absence de faillite, est de la compétence respective des autorités compétentes en matière d'enseignement, des Administrations communales, et des Greffes des tribunaux de l'entreprise.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 80, 015; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-07-20/03, art. 6, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 18
+
+Le conseil de l'Ordre fixe le montant des honoraires à la demande conjointe des parties.
+
+Il donne son avis sur le mode de fixation et le taux des honoraires:
+
+a) à la demande des Cours et tribunaux;
+
+b) d'office, en cas de manquement grave au devoir professionnel;
+
+c) en cas de contestation entre personnes soumises à la juridiction de l'Ordre.
+
+#### Art. 19
+
+Le conseil de l'Ordre assure le respect des règles de la déontologie. Il veille à l'honneur, à la discrétion et à la dignité des membres de l'Ordre dans l'exercice et à l'occasion de l'exercice de la profession. Il dénonce à l'autorité judiciaire toute infraction aux lois et règlements protégeant le titre et la profession d'architecte.
+
+#### Art. 20
+
+&lt;AR 2000-09-17/46, art. 3, 006; En vigueur : 11-10-2000&gt; Le conseil de l'Ordre statue en matière disciplinaire à l'égard de tous les membres inscrits au tableau de l'Ordre ou sur la liste des stagiaires, ainsi qu'à l'égard des personnes qui satisfont aux dispositions de l'article 8, (§ 2, alinéas 1er et 2). Dans le cas de la prestation de services visée à l'article 8, (§ 2, deuxième alinéa), c'est le conseil de l'Ordre du territoire où le projet est réalisé qui est compétent. &lt;L 2008-11-21/50, art. 9, 013; En vigueur : 21-02-2009&gt;
+
+#### Art. 21
+
+§ 1er. Les membres de l'Ordre qui auront été convaincus de manquement à leurs devoirs, seront passibles des peines disciplinaires suivantes:
+
+a) l'avertissement;
+
+b) [<sup>2</sup> ...]<sup>2</sup>;
+
+c) la réprimande;
+
+d) la suspension;
+
+e) la radiation.
+
+La suspension et la radiation ne peuvent être prononcées qu'à la majorité des deux tiers des voix des membres présents du conseil de l'Ordre ou du conseil d'appel.
+
+La suspension consiste dans l'interdiction d'exercer en Belgique la profession d'architecte pendant le terme fixé; celui-ci ne peut excéder deux années.
+
+La suspension entraîne la privation du droit de participation aux élections du conseil, pendant la durée de l'exécution de cette peine.
+
+La radiation entraîne l'interdiction d'exercer en Belgique, la profession d'architecte.
+
+§ 2. Les personnes autorisées à exercer la profession d'architecte en application de (l'article 8, (§ 2, premier alinéa), qui auront été convaincus de manquement à leurs devoirs seront passibles des peines disciplinaires suivantes: &lt;AR 2000-09-17/46, art. 4, 006; En vigueur : 11-10-2000&gt; &lt;L 2008-11-21/50, art. 10, 1°, 013; En vigueur : 21-02-2009&gt;
+
+a) l'avertissement;
+
+b) [<sup>2</sup> ...]<sup>2</sup>;
+
+c) la réprimande;
+
+d) le retrait de l'autorisation.
+
+Cette dernière peine ne peut être appliquée qu'à la majorité des deux tiers des voix des membres présents du conseil de l'Ordre ou du conseil d'appel.
+
+(§ 3. Les personnes exerçant la profession d'architecte en satisfaisant aux dispositions du (deuxième alinéa du § 2) de l'article 8, qui auront été convaincues de manquement à leurs devoirs, seront passibles des peines disciplinaires suivantes : &lt;L 2008-11-21/50, art. 10, 2°, 013; En vigueur : 21-02-2009&gt;
+
+a) l'avertissement;
+
+b) [<sup>2</sup> ...]<sup>2</sup>;
+
+c) la réprimande;
+
+d) la suspension de l'inscription au registre;
+
+e) la radiation de l'inscription au registre.
+
+La suspension et la radiation ne peuvent être prononcées qu'à la majorité des deux tiers des voix des membres présents du conseil de l'Ordre ou du conseil d'appel.
+
+La suspension consiste dans l'interdiction d'exercer en Belgique la profession d'architecte pendant le terme fixé; celui-ci ne peut excéder deux années.
+
+La radiation entraîne l'interdiction d'exercer en Belgique la profession d'architecte.
+
+Les mesures prises à l'encontre des ressortissants des Etats membres [<sup>1</sup> ...]<sup>1</sup> exerçant des prestations de services seront immédiatement portées à la connaissance des Etats membres où ils sont établis.) &lt;AR 1990-09-12/31, art. 6, 003; En vigueur : 29-10-1990&gt; &lt;L 1998-02-10/33, art. 55, 005; En vigueur : 11-10-2000&gt;
+
+----------
+
+(1)&lt;L 2017-07-21/32, art. 8, 017; En vigueur : 11-08-2017&gt;
+
+(2)&lt;L 2026-07-20/03, art. 7, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 22
+
+Aucune peine disciplinaire ne pourra jamais être prononcée pour des motifs d'ordre racial, religieux, philosophique, politique, linguistique ou syndical: toute ingérence des conseils de l'Ordre dans ces domaines est interdite.
+
+C. Procédure et recours.
+
+#### Art. 23
+
+Le bureau du conseil instruit les plaintes introduites à charge des personnes soumises à sa juridiction et, s'il y a lieu, défère le cas au conseil.
+
+#### Art. 24
+
+§ 1er. Le conseil de l'Ordre ne peut prononcer une peine disciplinaire que si la personne en cause a été invitée par envoi recommandé, adressée au moins trente jours à l'avance, à se présenter à la séance du conseil au cours de laquelle son cas sera examiné.
+
+L'intéressé peut faire valoir ses moyens de défense oralement ou par écrit.
+
+§ 2. L'intéressé pourra exercer le droit de récusation dans les cas prévus (par l'article 828 du Code judiciaire). (...). &lt;L 23-01-1977&gt; &lt;L 2007-03-01/37, art. 26, 010; En vigueur : 24-03-2007&gt;
+
+§ 3. L'intéressé pourra se faire assister d'un ou plusieurs avocats ou d'un ou plusieurs membres de l'Ordre réunissant les conditions d'éligibilité aux conseils de l'Ordre.
+
+#### Art. 25
+
+Les décisions sont notifiées immédiatement, par [<sup>1</sup> envoi recommandé]<sup>1</sup>, aux parties en cause ainsi qu'au conseil national.
+
+Cette notification est accompagnée de tous les renseignements utiles au sujet des délais de recours et de la manière dont un recours peut être introduit contre la décision. Le défaut de ces indications entraîne la nullité de la notification.
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 6, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 26
+
+Celui à charge duquel une décision par défaut a été rendue peut former opposition à cette décision dans le délai de trente jours.
+
+L'opposition doit être signifiée, à peine de nullité, par [<sup>2</sup> envoi recommandé]<sup>2</sup> dans le susdit délai et adressée au conseil qui a rendu la décision.
+
+L'opposant qui fait défaut une seconde fois ne peut plus former une nouvelle opposition.
+
+Le conseil national, (...) et l'intéressé, peuvent, dans le délai de trente jours, interjeter appel de toute décision du conseil rendue en vertu des articles 17 et 20 de la présente loi. (L'intéressé peut) dans le délai de trente jours, interjeter appel de toute décision du conseil national rendue en vertu de l'article 38bis de la présente loi en matière de prestation de services). (Un tel recours est également ouvert au demandeur de reconnaissance de diplômes, certificats et autres titres dans le domaine couvert par la (Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles), en l'absence de décision dans le délai prévu à l'[<sup>1</sup> l'article 17, § 1er, alinéa 4]<sup>1</sup>.) &lt;AR 2000-09-17/46, art. 5, 006; En vigueur : 11-10-2000&gt; &lt;AR 2003-10-08/32, art. 2, 007; En vigueur : 06-11-2003&gt; &lt;L 2006-07-07/56, art. 2, 009; En vigueur : 18-08-2006&gt; &lt;L 2008-11-21/50, art. 11, 013; En vigueur : 21-02-2009&gt;
+
+Au cas où la décision a été prise par défaut, le délai d'appel ne commence à courir qu'à l'expiration du délai d'opposition.
+
+L'appel est formé par [<sup>2</sup> envoi recommandé]<sup>2</sup> dans le délai indiqué et adressée au conseil d'appel compétent en vertu de l'article 27 de la présente loi.
+
+Les délais de recours courent à partir du lendemain du jour où la [<sup>2</sup> l'envoi recommandé contenant notification de la décision, objet du recours, a été déposé à la poste, ou le jour de réception de l'envoi recommandé par voie électronique]<sup>2</sup>, à moins que l'intéressé ne justifie qu'il se soit trouvé dans l'impossibilité d'être atteint par la notification. En ce cas, les délais ne commencent à courir qu'à partir du lendemain du jour où l'intéressé a eu connaissance de la décision.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 81, 015; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-07-20/03, art. 8, 022; En vigueur : 10-08-2026&gt;
+
+### Section 2. - Des conseils d'appel.
+
+A. Composition.
+
+#### Art. 27
+
+Il est institué deux conseils d'appel.
+
+Un conseil d'appel ayant le néerlandais comme langue véhiculaire a son siège à Gand: il connaît des décisions des conseils de l'Ordre des provinces d'Anvers, de Flandre occidentale, de Flandre orientale, de Limbourg et du conseil de l'Ordre d'expression néerlandaise de la province de Brabant.
+
+Un conseil d'appel ayant le français comme langue véhiculaire a son siège à Liège: il connaît des décisions des conseils de l'Ordre des provinces de Hainaut, de Liège, de Luxembourg, de Namur et du conseil de l'Ordre d'expression française de la province de Brabant.
+
+En matière de réhabilitation, ils connaissent des demandes relatives aux décisions de suspension ou de radiation qu'ils ont prononcées ou qui ont été prononcées, sans qu'il y ait eu recours, par un conseil de l'Ordre dont ils connaissent des décisions en application des alinéas 2 et 3. Si la demande concerne plusieurs sanctions de suspension, il ne sera tenu compte que de la dernière en date pour la détermination de la compétence.
+
+#### Art. 28
+
+Le conseil d'appel d'expression française et le conseil d'appel d'expression néerlandaise sont composés chacun de trois conseillers, effectifs ou honoraires, à la Cour d'appel désignés par le Roi pour un terme de (six) ans et ayant voix délibérative, l'un d'eux faisant fonction de président, et de trois autres membres, désignés par le sort parmi les membres des conseils de l'Ordre utilisant la langue de la procédure et faisant partie de conseils de l'Ordre différents. &lt;L 2007-03-01/37, art. 27, 010; En vigueur : 24-03-2007&gt;
+
+Sont désignés, dans les mêmes conditions, en qualité de membres suppléants, trois magistrats et trois membres des conseils de l'Ordre, qui ne peuvent être appelés à siéger au conseil d'appel qu'en cas d'empêchement légal ou d'absence justifiée des membres effectifs.
+
+En ce qui concerne les membres appartenant aux conseils de l'Ordre, le membre suppléant qui siège doit appartenir au même conseil de l'Ordre que le membre effectif qu'il remplace.
+
+La désignation de ces membres vaudra pour toute la durée de leur mandat au sein des conseils de l'Ordre.
+
+Aucun membre d'un conseil de l'Ordre ne peut connaître, en degré d'appel, d'une affaire sur laquelle il a été statué par le conseil de l'Ordre dont il fait partie.
+
+Chaque conseil d'appel est assisté d'un greffier et d'un greffier suppléant, nommés par le conseil.
+
+Le Roi fixe les modalités de la désignation et du remplacement des membres des conseils de l'Ordre au sein des conseils d'appel. Il peut également prévoir la constitution de plusieurs chambres du conseil d'appel.
+
+#### Art. 29
+
+Le conseil d'appel ne peut délibérer valablement que si les deux tiers de ses membres se trouvent réunis et si, parmi eux, se trouvent au moins deux magistrats et deux membres de l'Ordre, désignés conformément à l'article 28.
+
+#### Art. 30
+
+Le conseil d'appel se réunit sur convocation de son président. La convocation doit, sauf cas d'urgence, être adressée trois jours francs au moins avant la réunion et porte l'ordre du jour proposé.
+
+B. Attributions.
+
+#### Art. 31
+
+Les conseils d'appel statuent sur les recours introduits contre les décisions rendues par les conseils de l'Ordre en vertu des articles [<sup>1</sup> 9,]<sup>1</sup> 17, 20 et 61. (Le conseil d'appel d'expression française statue sur les recours introduits contre les décisions rendues par le conseil national en vertu de l'article 38bis et qui se rapportent à la réalisation d'un projet dans les provinces du Brabant wallon, du Hainaut, de Liège, de Luxembourg ou de Namur.
+
+Le conseil d'appel d'expression néerlandaise statue sur les recours introduits contre les décisions rendues par le conseil national en vertu de l'article 38bis et qui se rapportent à la réalisation d'un projet dans les provinces d'Anvers, du Brabant flamand, de Flandre occidentale, de Flandre orientale, ou de Limbourg.
+
+En cas de recours contre une telle décision, se rapportant à la réalisation d'un projet dans la Région bilingue de Bruxelles-Capitale, c'est le conseil d'appel d'expression française ou néerlandaise qui est compétent, suivant la langue de l'acte de recours). &lt;AR 2000-09-17/46, art. 6, 006; En vigueur : 11-10-2000&gt;
+
+[<sup>1</sup> Les conseils d'appel statuent sur les recours contre les résultats du scrutin de chaque conseil de l'Ordre, tels que visés à l'article 9, conformément aux modalités fixées par le Roi.]<sup>1</sup>
+
+Ils statuent en premier et dernier ressort, à l'égard des membres d'un conseil de l'Ordre dans les cas prévus aux articles 44 et 45 ainsi que sur les demandes de réhabilitation introduites en application de l'article 42, § 2.
+
+C. Procédure et recours.
+
+----------
+
+(1)&lt;L 2023-10-09/06, art. 5, 019; En vigueur : 23-12-2023&gt;
+
+#### Art. 32
+
+Il est fait application des articles 24, 25, 26, alinéas 1er, 2 et 3, pour la procédure devant les conseils d'appel. [<sup>1</sup> Ces articles ne s'appliquent pas aux recours contre les résultats du scrutin de chaque conseil de l'Ordre, tels que visés à l'article 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-10-09/06, art. 6, 019; En vigueur : 23-12-2023&gt;
+
+#### Art. 33
+
+[<sup>1</sup> La décision du conseil d'appel peut faire l'objet d'un pourvoi en cassation conformément aux dispositions de la quatrième partie, livre III, titre IVbis, du Code judiciaire [<sup>2</sup> , à l'exception de la décision concernant les recours contre les résultats du scrutin de chaque conseil de l'Ordre, tels que visés à l'article 9]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 30, 016; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2023-10-09/06, art. 7, 019; En vigueur : 23-12-2023&gt;
+
+### Section 3. - Du conseil national.
+
+A. Composition.
+
+#### Art. 34
+
+[<sup>1</sup> § 1er. Le conseil national de l'Ordre des architectes se compose:
+
+a) de dix membres effectifs et de dix membres suppléants siégeant en cas d'empêchement des membres effectifs, choisis par les conseils de l'Ordre parmi leurs membres et élus pour un terme de six ans à raison d'un membre effectif et d'un membre suppléant par conseil;
+
+b) de deux membres nommés par le Roi pour un terme de six ans parmi les architectes fonctionnaires communaux et provinciaux;
+
+c) de deux membres nommés par le Roi pour un terme de six ans parmi les architectes fonctionnaires non visés au b);
+
+d) de six membres, architectes, nommés par le Roi pour un terme de six ans parmi les membres du personnel enseignant l'architecture ou l'ingénierie architecturale au sein des universités.
+
+Les universités relevant de la Communauté française proposent une liste de trois membres tels que visés à l'alinéa 1er, d), et les universités relevant de la Communauté flamande proposent une liste de trois membres tels que visés à l'alinéa 1er, d).
+
+Les trois membres repris dans les deux propositions sont chacun issus d'une université différente.
+
+Toutefois, s'il n'y a pas assez de candidats proposés par des universités différentes, les membres du personnel enseignant peuvent être issus d'une même université. Si nécessaire, les règles visées aux alinéas 5 et 6 sont d'application pour proposer le ou les membres manquants.
+
+Lorsqu'il y a plus de candidats proposés que de membres à nommer, les universités concernées établissent de commun accord une liste de trois noms. Elles transmettent leur proposition au ministre qui a les Classes moyennes dans ses attributions, trois mois au moins avant la date d'échéance de la mission des membres nommés.
+
+A défaut d'accord sur une liste commune dans le délai requis, les universités concernées transmettent immédiatement les actes de candidatures et les informations reçues au ministre qui a les Classes moyennes dans ses attributions. Le Roi nomme alors le candidat qui a le plus d'expérience professionnelle en tant qu'enseignant. En vue de départager des candidats qui ont une expérience professionnelle jugée équivalente, Il peut également, le cas échéant, tenir compte d'atouts tels que l'expérience dans des organes similaires, les publications réalisées et le nombre d'étudiants au sein d'une faculté. En cas d'égalité à la suite d'une comparaison des titres et mérites, le Roi peut également, le cas échéant, nommer le candidat du genre le moins représenté parmi l'ensemble des membres de l'Ordre.
+
+§ 2. Le conseil national de l'Ordre des architectes est assisté par un assesseur juridique et par plusieurs assesseurs juridiques suppléants, nommés par le Roi. L'assesseur juridique a voix consultative. Ils sont choisis pour un terme de six ans parmi les présidents et conseillers, magistrats effectifs ou honoraires, de la Cour d'appel de Bruxelles, ou parmi les avocats du barreau de Bruxelles inscrits depuis dix ans au moins à un tableau de l'Ordre des avocats. Ils ont une connaissance approfondie des deux langues nationales.
+
+§ 3. Les membres du conseil national visés au paragraphe 1er, alinéa 1er, b) à d), ne peuvent pas être nommés consécutivement plus de deux fois.
+
+Lorsqu'un membre nommé perd sa qualité de membre du personnel de l'enseignement ou de fonctionnaire, il est réputé démissionnaire et un nouveau membre est nommé à sa place pour le reste du délai pour lequel le membre qu'il remplace avait été nommé, sur la base d'une nouvelle proposition de l'autorité publique ou de l'université qu'il représentait.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 68, 020; En vigueur : 31-03-2024&gt;
+
+#### Art. 35
+
+[<sup>2</sup> § 1.]<sup>2</sup> Le conseil national de l'Ordre a son siège (sur le territoire de la Région de Bruxelles-Capitale). Il comporte deux sections, (respectivement le Conseil francophone et germanophone de l'Ordre des Architectes et le Conseil flamand de l'Ordre des Architectes), qui peuvent délibérer séparément ou en commun. &lt;L 2006-02-15/45, art. 12, 008; En vigueur : 01-07-2007&gt; &lt;L 2008-07-24/35, art. 57, 1°, 012; En vigueur : 17-08-2008&gt;
+
+[<sup>1</sup> L'une est composée des délégués des conseils de l'Ordre des provinces de Hainaut, de Liège, de Luxembourg, de Namur et du conseil de l'Ordre de Bruxelles-Capitale et du Brabant wallon, d'un membre d'expression française nommé par le Roi, conformément au littéra b de l'article 34, § 1er, alinéa 1er, d'un membre d'expression française nommé par le Roi, conformément au littéra c de l'article 34, § 1er, alinéa 1er, et de trois membres d'expression française nommés par le Roi, conformément au littéra d de l'article 34, § 1er, alinéa 1er. Les présidents des conseils de l'Ordre mentionnés au présent alinéa assistent [<sup>2</sup> , avec voix consultative,]<sup>2</sup> aux délibérations séparées.]<sup>1</sup>
+
+[<sup>1</sup> L'autre section est composée des délégués des conseils de l'Ordre des provinces d'Anvers, de Limbourg, de Flandre occidentale, de Flandre orientale et du conseil de l'Ordre du Brabant flamand et de Bruxelles-capitale, d'un membre d'expression néerlandaise nommé par le Roi, conformément au littéra b de l'article 34, § 1er, alinéa 1er, d'un membre d'expression néerlandaise nommé par le Roi, conformément au littéra c de l'article 34, § 1er, alinéa 1er, et de trois membres d'expression néerlandaise nommés par le Roi, conformément au littéra d de l'article 34, § 1er, alinéa 1er. Les présidents des conseils de l'Ordre mentionnés au présent alinéa assistent [<sup>2</sup> , avec voix consultative,]<sup>2</sup> aux délibérations séparées.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Les stagiaires élisent annuellement en leur sein un délégué par section du conseil national qui les représente au sein de ces sections et du conseil national. Les délégués stagiaires assistent aux réunions du conseil national et de ses sections avec voix consultative.
+
+Les délégués stagiaires visés à l'alinéa 1er peuvent participer à des groupes de travail du conseil national relatifs au stage et à l'exercice de la profession.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 69, 020; En vigueur : 31-03-2024&gt;
+
+(2)&lt;L 2026-07-20/03, art. 9, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 36
+
+Le conseil national de l'Ordre élit en son sein un président et un président suppléant, un secrétaire et un secrétaire adjoint, [<sup>1</sup> un trésorier et un trésorier adjoint,]<sup>1</sup> qui doivent être respectivement membres de conseils de l'Ordre de régime linguistique différent et qui sont choisis parmi les membres désignés par suffrage pour faire partie du conseil national.
+
+[<sup>1</sup> Le président d'une part et le secrétaire et le trésorier d'autre part sont de régime linguistique différent]<sup>1</sup>.
+
+Le président et le président suppléant ainsi que [<sup>1</sup> le secrétaire, le secrétaire adjoint, le trésorier et le trésorier adjoint, sont de droit président, secrétaire et trésorier]<sup>1</sup> de la section dont relève le conseil de l'Ordre auquel ils appartiennent.
+
+Chaque section élit en son sein un vice-président.
+
+Le conseil national et ses sections ne délibèrent valablement que sous la présidence du président ou de son suppléant et en présence du magistrat désigné, et pour autant que les deux tiers des membres soient présents.
+
+(Toutefois, après une deuxième convocation, ils délibèrent valablement, quel que soit le nombre de membres présents.) &lt;L 1992-12-30/40, art. 134, 004; En vigueur : 19-01-1993&gt;
+
+B. Attributions.
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 10, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 37
+
+Le conseil national représente l'Ordre.
+
+Tant en justice que pour stipuler ou s'obliger, l'Ordre agit par le conseil national. Celui-ci est représenté par son président ou par son président suppléant.
+
+Dans les autres circonstances, le conseil national peut se faire représenter par un de ses membres.
+
+#### Art. 38
+
+Le conseil national a pour mission:
+
+1° d'établir les règles de la déontologie de la profession d'architecte;
+
+2° d'établir un règlement du stage;
+
+3° de veiller à l'application des règles de la déontologie et du règlement du stage, rendus obligatoires par arrêté royal;
+
+4° de faire aux autorités publiques toutes suggestions au sujet de mesures législatives ou réglementaires relatives à la profession et de donner son avis sur toutes questions relatives à l'exercice de celle-ci;
+
+5° [<sup>2</sup> de proposer les règlements d'ordre intérieur des conseils de l'Ordre et du conseil national qui sont approuvés par le Roi]<sup>2</sup>;
+
+6° de contrôler l'activité des conseils de l'Ordre et de colliger leurs sentences;
+
+(7° d'inscrire les ressortissants (et les personnes morales) [<sup>1</sup> des Etats membres]<sup>1</sup> dans le registre de la prestation de services.) &lt;AR 2000-09-17/46, art. 7, 1°, 006; En vigueur : 11-10-2000&gt; &lt;L 2006-02-15/45, art. 13, 008; En vigueur : 01-07-2007&gt;
+
+(8°) de prendre toute mesure nécessaire à la réalisation de l'objet de l'Ordre. &lt;AR 2000-09-17/46, art. 7, 2°, 006; En vigueur : 11-10-2000&gt;
+
+(9° de publier sur son site internet la liste des architectes inscrits sur un des tableaux de l'Ordre et la liste des stagiaires, en ordre de cotisation et autorisés à exercer la profession d'architecte.) &lt;L 2006-02-15/45, art. 13, 008; En vigueur : 01-07-2007&gt;
+
+(10° collaborer étroitement et échanger des informations avec, selon le cas, les autorités compétentes de l'Etat membre d'origine ou de l'Etat membre d'accueil selon les dispositions du titre V de la loi du 12 février 2008 instaurant un nouveau cadre général pour la reconnaissance des qualifications professionnelles CE) &lt;L 2008-11-21/50, art. 12, 013; En vigueur : 21-02-2009&gt;;
+
+[<sup>2</sup> 11° de publier sur son site internet un rapport annuel, y inclus un rapport d'activités, le budget approuvé, le bilan et le compte de résultat;
+
+12° de publier sur son site internet les décisions disciplinaires et les décisions comme en matière disciplinaire anonymisées définitives des conseils de l'Ordre et des conseils d'appel]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2017-07-21/32, art. 9, 017; En vigueur : 11-08-2017&gt;
+
+(2)&lt;L 2026-07-20/03, art. 11, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 38bis
+
+&lt;AR 2000-09-17/46, art. 8 006; En vigueur : 11-10-2000&gt; Le conseil national tient le registre de la prestation de services prévu à l'article 8, (§ 2, alinéa 2). &lt;L 2008-11-21/50, art. 13, 1°, 013; En vigueur : 21-02-2009&gt;
+
+Les déclarations préalables prévues à l'article 8, (§ 2, alinéa 2), sont adressées au conseil national de l'Ordre. &lt;L 2008-11-21/50, art. 13, 1°, 013; En vigueur : 21-02-2009&gt;
+
+En ce qui concerne la prestation de services, visée à l'article 8, (§ 2, alinéa 2), le conseil national est compétent, conformément aux règles établies à l'article 8, pour recevoir les diplômes, certificats et autres titres, ainsi que les documents ou informations, prévus par la (Directive 2005/36/CE précitée). &lt;L 2008-11-21/50, art. 13, 013; En vigueur : 21-02-2009&gt;
+
+En ce qui concerne la prestation de services visée à l'article 8, alinéa 3, le conseil national est également compétent pour délivrer les documents ou informations visés par la même directive.
+
+Toutefois, la délivrance de diplômes, certificats et autres titres relatifs à la formation, d'attestations de moralité ou d'honorabilité n'ayant pas trait à l'activité professionnelle d'architecte, et des déclarations d'absence de faillite, est de la compétence respective des autorités compétentes en matière d'enseignement, des Administrations communales, et des Greffes des tribunaux de l'entreprise.
+
+C. Tutelle et recours.
+
+#### Art. 39
+
+A la demande du conseil national, le Roi peut, par arrêté délibéré en Conseil des Ministres, donner force obligatoire aux règles de déontologie et au règlement du stage.
+
+Si ces règles ou ce règlement ne sont pas rendus obligatoires, le Ministre des Classes moyennes en fait connaître les raisons au conseil national dans les trois mois de la demande.
+
+[<sup>1</sup> Le Roi peut modifier les règles de déontologie et le règlement du stage auxquels a été donnée force obligatoire par arrêté délibéré en Conseil des Ministres, dans le but d'assurer la transposition en droit interne des directives relatives à la reconnaissance mutuelle des diplômes et des formations professionnelles, parmi lesquelles la directive 2005/36/CE du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles et les directives favorisant la libre circulation des biens et services, parmi lesquelles la directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 82, 015; En vigueur : 10-01-2010&gt;
+
+#### Art. 40
+
+Un recours contre les décisions du conseil national est ouvert aux personnes prévues à l'article 11 de la loi du 23 décembre 1946, ainsi qu'au Ministre des Classes moyennes, devant la section d'administration du Conseil d'Etat, conformément à l'article 9 de la même loi.
+
+## CHAPITRE III. - Dispositions générales.
+
+#### Art. 41
+
+Toute décision prise en vertu de l'article 17 devient immédiatement exécutoire.
+
+Toute décision prise en vertu de l'article 20 ne devient exécutoire qu'à l'expiration des délais prévus pour ces recours et sauf introduction des recours dans ces délais. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 30, 016; En vigueur : 25-05-2014&gt;
+
+#### Art. 42
+
+§ 1er. Toutes les sanctions disciplinaires inférieures à celle de la suspension sont effacées après un délai de cinq ans depuis l'exécution de la dernière sanction à condition que le membre de l'Ordre n'ait pas été frappé de la peine de suspension et n'ait encouru aucune sanction nouvelle pendant ce délai.
+
+§ 2. Tout membre de l'Ordre qui a encouru une ou plusieurs sanctions disciplinaires n'ayant pas été effacées en application du § 1er, peut introduire une demande en réhabilitation auprès du conseil d'appel.
+
+Cette demande n'est recevable que si:
+
+1° un délai de cinq ans s'est écoulé depuis l'exécution de la dernière sanction;
+
+2° l'intéressé n'a pas déjà bénéficié d'une réhabilitation;
+
+3° l'intéressé a obtenu la réhabilitation en matière pénale au cas où une des sanctions disciplinaires a été prise pour un fait qui a donné lieu à une condamnation pénale;
+
+4° un délai de deux ans s'est écoulé depuis la décision du conseil d'appel, au cas où celui-ci a rejeté une demande antérieure.
+
+§ 3. L'application de la disposition prévue au § 1er ainsi que la décision accordant réhabilitation font cesser pour l'avenir tous les effets des sanctions auxquelles cette disposition ou la décision s'applique.
+
+#### Art. 43
+
+La démission des membres des conseils qui n'ont pas été nommés par le Roi est adressée au conseil national.
+
+Les membres démissionnaires continuent à remplir leurs fonctions jusqu'à ce que leur démission ait été acceptée; en cas d'acceptation, le président du conseil national prend les mesures nécessaires en vue de pourvoir à la vacance.
+
+#### Art. 43/1
+
+[<sup>1</sup> § 1er. Le conseil national et les conseils de l'Ordre peuvent prononcer une suspension par mesure d'ordre d'un de leurs membres. Au sens de la présente loi, on entend par "suspension par mesure d'ordre", la décision non-disciplinaire temporaire et conservatoire visant à écarter un membre d'une de ses fonctions au sein de l'Ordre. Cette mesure ne vise pas à sanctionner le membre et n'a pas d'impact sur l'exercice de la profession mais est uniquement adoptée dans l'intérêt du bon fonctionnement de l'Ordre ou de l'un de ses organes.
+
+§ 2. La suspension par mesure d'ordre visée au paragraphe 1er peut être prononcée uniquement s'il existe des indices sérieux que le comportement, les actions ou les omissions du membre concerné sont de nature à compromettre le fonctionnement de l'Ordre ou d'un de ses organes.
+
+§ 3. La suspension par mesure d'ordre visée au paragraphe 1er est prononcée dans le respect de la procédure suivante:
+
+1° l'organe prend la décision de lancer la procédure de suspension par mesure d'ordre lors d'une de ses séances, à la majorité des membres présents, le membre concerné n'étant, le cas échéant, pas pris en compte pour ce calcul;
+
+2° l'organe informe par écrit le membre concerné du fait que sa suspension par mesure d'ordre est envisagée, des faits qui appuient le lancement de la procédure et de la date de la séance de l'organe où la décision de prononcer ou non la suspension sera prise;
+
+3° un délai de trente jours au minimum s'écoule entre le moment où le membre concerné est informé et le moment où se tient la séance de l'organe où la décision de prononcer ou non la suspension est prise;
+
+4° lors de cette séance, ou préalablement, le membre concerné a le droit d'être entendu et il peut se faire assister d'un ou plusieurs avocats ou d'un ou plusieurs membres de l'Ordre réunissant les conditions d'éligibilité aux conseils de l'Ordre;
+
+5° l'organe prend la décision de suspension par mesure d'ordre à la majorité des membres présents, le membre concerné n'étant, le cas échéant, pas pris en compte pour ce calcul ;
+
+6° l'organe décide de la durée de la suspension, qui ne peut pas excéder six mois;
+
+7° l'organe notifie au membre concerné sa suspension par mesure d'ordre, la durée de cette suspension, ce qui comprend les dates de début et de fin, les motifs qui appuient cette décision et l'existence d'un droit de recours devant le Conseil d'Etat, du délai et des formes à respecter.
+
+§ 4. La décision est exécutoire immédiatement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-20/03, art. 12, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 43/2
+
+[<sup>1</sup> § 1er. Le ministre qui a les Classes moyennes dans ses attributions peut prononcer la suspension par mesure d'ordre, au sens de l'article 43/1, § 1er, d'un membre du conseil national ou d'un conseil de l'Ordre.
+
+§ 2. La suspension par mesure d'ordre visée au paragraphe 1er peut être prononcée uniquement s'il existe des indices sérieux que le comportement, les actions ou les omissions du membre concerné sont de nature à compromettre le fonctionnement de l'Ordre ou d'un de ses organes.
+
+§ 3. La suspension par mesure d'ordre visée au paragraphe 1er est prononcée dans le respect de la procédure suivante:
+
+1° le commissaire du gouvernement, ou son suppléant, après avis de l'assesseur juridique, informe par écrit le membre concerné du fait que sa suspension par mesure d'ordre est envisagée et des faits qui appuient le lancement de la procédure;
+
+2° le commissaire du gouvernement ou son suppléant informe le conseil national ou le conseil de l'Ordre concerné;
+
+3° un délai de trente jours au minimum s'écoule entre le moment où le membre concerné est informé et l'audition visée au 4° ;
+
+4° le membre concerné a le droit d'être entendu par le ministre ou son représentant et il peut se faire assister d'un ou plusieurs avocats ou d'un ou plusieurs membres de l'Ordre réunissant les conditions d'éligibilité aux conseils de l'Ordre;
+
+5° après l'audition visée au 4° ou, si le membre concerné n'a pas souhaité en faire usage, à l'issue du délai visé au 3°, le ministre prend la décision de suspendre ou non le membre concerné;
+
+6° le ministre qui a les Classes moyennes dans ses attributions décide de la durée de la suspension, qui ne peut pas excéder six mois;
+
+7° le commissaire du gouvernement, ou son suppléant, notifie au membre concerné sa suspension par mesure d'ordre, la durée de cette suspension, ce qui comprend les dates de début et de fin, les motifs qui appuient cette décision et l'existence d'un droit de recours devant le Conseil d'Etat, du délai et des formes à respecter.
+
+§ 4. La décision est exécutoire immédiatement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-20/03, art. 13, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 43/3
+
+[<sup>1</sup> § 1er. Au sein du conseil national, le remplacement du membre suspendu s'effectue selon les règles suivantes:
+
+1° le membre suspendu est remplacé par le membre suppléant qui appartient au même conseil de l'Ordre, et ce jusqu'à la décision du conseil de l'Ordre concerné de choisir, le cas échéant, un nouveau membre effectif;
+
+2° si le membre suspendu est président, président suppléant, secrétaire, secrétaire adjoint, trésorier ou trésorier adjoint, les membres du conseil national élisent un remplaçant en leur sein dans le respect de l'article 36. Si les membres ne parviennent pas à élire un remplaçant dans un délai de deux mois à compter du début de la suspension par mesure d'ordre, le ministre qui a les Classes moyennes dans ses attributions le nomme parmi les membres visés à l'article 34, § 1er, alinéa 1er, b) à d);
+
+3° si le membre suspendu est un des membres visés à l'article 34, § 1er, alinéa 1er, b) à d), il est remplacé par un nouveau membre nommé par le Roi sur la base d'une nouvelle proposition de l'autorité publique ou de l'université que le membre suspendu représentait.
+
+§ 2. Au sein des conseils de l'Ordre, le remplacement du membre suspendu s'effectue selon les règles suivantes:
+
+1° le membre suspendu est remplacé par le premier des membres suppléants conformément à l'article 9, alinéas 4 à 11;
+
+2° si le membre suspendu est président, vice-président ou secrétaire, le membre suppléant qui vient le premier en ordre utile selon l'article 9, alinéa 4, devient membre effectif. Les membres effectifs procèdent alors à une élection interne partielle pour désigner celui de leurs membres qui assure le mandat laissé vacant.
+
+§ 3. Le membre qui remplace le membre suspendu, remplace ce dernier aussi longtemps que court la suspension par mesure d'ordre.
+
+§ 4. Un membre de l'Ordre qui fait l'objet d'une suspension par mesure d'ordre ne peut pas être candidat aux élections de l'Ordre.
+
+§ 5. La suspension par mesure d'ordre prend fin par:
+
+1° l'expiration du délai de cette suspension, ou;
+
+2° la décision de l'organe qui a prononcé la suspension de mettre un terme à cette suspension, prise à la majorité des membres présents ou, si la décision a été prise par le ministre qui a les Classes moyennes dans ses attributions, lorsque celui-ci décide d'y mettre fin.
+
+§ 6. Si une instruction disciplinaire, une procédure pénale ou une procédure de cessation anticipée du mandat est initiée ou adoptée à l'égard du membre suspendu, la suspension par mesure d'ordre peut être prorogée par l'organe compétent pendant la durée de la procédure. Dans ce cas, l'organe compétent réexamine sa décision tous les six mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-20/03, art. 14, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 43/4
+
+[<sup>1</sup> Le conseil national peut prononcer une décision de cessation anticipée du mandat d'un de ses membres. Les conseils de l'Ordre peuvent prononcer une décision de cessation anticipée du mandat d'un membre de leur bureau. La cessation anticipée du mandat du membre du bureau d'un conseil de l'Ordre n'a pas pour effet la cessation anticipée du mandat électif du membre au sein de ce conseil.
+
+La décision de cessation anticipée du mandat visée à l'alinéa 1er peut être prononcée uniquement en cas d'inconduite notoire ou de négligence grave du membre.
+
+La décision de cessation anticipée du mandat visée à l'alinéa 1er est prononcée dans le respect de la procédure prévue à l'article 43/1, § 3, 1° à 5°. L'organe notifie au membre concerné la décision de cessation anticipée de son mandat, les motifs qui appuient cette décision et l'existence d'un droit de recours devant le Conseil d'Etat, du délai et des formes à respecter.
+
+La décision est exécutoire immédiatement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-20/03, art. 15, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 43/5
+
+[<sup>1</sup> Le ministre qui a les Classes moyennes dans ses attributions peut prononcer une décision de cessation anticipée du mandat d'un membre du conseil national ou d'un membre du bureau du conseil de l'Ordre. La cessation anticipée du mandat d'un membre du bureau d'un conseil de l'Ordre n'a pas pour effet la cessation anticipée du mandat électif de ce membre au sein de ce conseil.
+
+La décision de cessation anticipée du mandat visée à l'alinéa 1er peut être prononcée uniquement en cas d'inconduite notoire ou de négligence grave du membre dans le cadre de l'exécution de son mandat ou en cas de mésintelligence grave entre les membres empêchant le conseil national ou le bureau du conseil de l'Ordre d'accomplir les missions qui lui sont confiées par ou en vertu de la loi.
+
+La décision de cessation anticipée du mandat visée à l'alinéa 1er est prononcée dans le respect de la procédure prévue à l'article 43/2, § 3, 1° à 5°. Le commissaire du gouvernement, ou son suppléant, notifie au membre concerné la décision de cessation anticipée de son mandat, les motifs qui appuient cette décision et l'existence d'un droit de recours devant le Conseil d'Etat, du délai et des formes à respecter.
+
+La décision est exécutoire immédiatement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-20/03, art. 16, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 43/6
+
+[<sup>1</sup> Au sein du conseil national, le remplacement du membre dont le mandat a cessé anticipativement, s'effectue selon les règles prévues à l'article 43/3, § 1er, 1° et 2°.
+
+Au sein d'un bureau des conseils de l'Ordre, les membres effectifs du conseil de l'Ordre, à l'exclusion du membre faisant l'objet de la décision de cessation anticipée de son mandat, procèdent à une élection interne partielle pour désigner celui de leurs membres qui assurera le mandat vacant.
+
+Le membre qui remplace le membre faisant l'objet de la décision de cessation anticipée de son mandat achève le mandat de son prédécesseur.
+
+Un membre de l'Ordre qui fait l'objet d'une décision de cessation anticipée de son mandat ne peut pas être candidat aux premières élections de l'Ordre qui suivent la cessation anticipée de son mandat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-20/03, art. 17, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 44
+
+Les membres élus, effectifs ou suppléants, d'un conseil de l'Ordre sont déchus de plein droit de leur mandat:
+
+1° lorsqu'ils sont frappés, en dernier ressort, d'une peine disciplinaire;
+
+2° lorsqu'ils ont été condamnés à une peine criminelle par un arrêt coulé en force de chose jugée.
+
+Ils peuvent également être déchus de leur mandat par décision du conseil d'appel lorsqu'ils ont été condamnés à une peine correctionnelle par un jugement coulé en force de chose jugée.
+
+[<sup>1</sup> Le remplacement d'un membre déchu s'effectue conformément à l'article 43/3, § 1er ou § 2, selon le cas.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 18, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 45
+
+Tout membre élu d'un conseil de l'Ordre ou tout membre désigné pour faire partie d'un conseil d'appel qui, dûment convoqué, s'est abstenu sans motif légitime d'assister à deux séances consécutives du conseil dont il fait partie est punissable de [<sup>1</sup> l'avertissement. Cette sanction est appliquée par]<sup>1</sup> le conseil d'appel qui statue en premier et dernier ressort.
+
+Le conseil d'appel est saisi, pour ce qui concerne les membres élus d'un conseil de l'Ordre, par le président du conseil de l'Ordre ou, à son défaut, par l'assesseur juridique ou l'assesseur juridique suppléant.
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 19, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 46
+
+Sauf lorsque la présente loi en dispose autrement, les décisions des organes de l'Ordre sont prises à la majorité des voix des membres présents.
+
+Les procès-verbaux des délibérations des conseils de l'Ordre, des conseils d'appel et du conseil national de l'Ordre sont consignés dans un registre.
+
+Les procès-verbaux des conseils de l'Ordre et du conseil national de l'Ordre sont signés par le président et, suivant le cas, par le secrétaire ou par les deux secrétaires.
+
+Les procès-verbaux des conseils d'appel sont signés par tous les membres qui ont pris part à la décision et par le greffier.
+
+Les décisions des conseils de l'Ordre prises en application des articles 17, 18, 20 et 51 de la présente loi ainsi que les décisions des conseils d'appel sont motivées.
+
+Les décisions définitives des conseils d'appel et du conseil national sont notifiées par [<sup>1</sup> envoi recommandé au ministre qui a les Classes moyennes dans ses attributions]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 20, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 47
+
+Les membres des divers organes de l'Ordre sont tenus au secret professionnel pour toutes les affaires dont ils ont eu connaissance dans l'exercice de leurs fonctions.
+
+#### Art. 48
+
+[<sup>1</sup> Les frais de fonctionnement de l'Ordre sont couverts par:
+
+1° les cotisations des membres;
+
+2° les libéralités effectuées à son profit;
+
+3° les frais administratifs, fixés par le conseil national, qui sont facturés aux personnes inscrites à un tableau ou à une liste des stagiaires lors de l'envoi de rappels et de mises en demeure envoyés ou non par envoi recommandé;
+
+4° les revenus de biens mobiliers ou immobiliers appartenant à l'Ordre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 21, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 49
+
+[<sup>1</sup> § 1er. Le trésorier et le trésorier adjoint sont dépositaires de tous les biens meubles de l'Ordre. Ils assurent la perception des cotisations et de toutes les sommes dues à l'Ordre et ils en délivrent quittance. Ils établissent les projets de comptes annuels ainsi que le projet de budget. A la fin de chaque trimestre, ils présentent au conseil national un aperçu de la situation financière, accompagné d'un état de l'exécution du budget.
+
+Les paiements sont signés par le trésorier et le président. En cas d'absence du trésorier, ils sont signés par le président et le trésorier adjoint. En l'absence du président, ils sont signés par le trésorier et le président suppléant.
+
+Le trésorier et le trésorier adjoint exécutent les missions visées au présent article sous la responsabilité du conseil national.
+
+§ 2. Dans le courant du dernier trimestre de l'année, le conseil national détermine le montant de la cotisation pour l'exercice suivant qu'il soumet à l'approbation du ministre qui a les Classes moyennes dans ses attributions.
+
+Il établit également un projet de budget qu'il transmet au ministre qui a les Classes moyennes dans ses attributions.
+
+Le ministre dispose d'un délai de trente jours civils après réception du projet afin, soit de l'approuver, soit de formuler ses remarques à l'adresse du conseil national. A défaut d'une décision au terme de ce délai, le projet est approuvé. Le conseil national dispose d'un délai de quinze jours civils après réception des remarques formulées par le ministre pour adapter le projet de budget. Si le conseil national ne donne pas suite aux remarques du ministre, ce dernier peut imposer un budget.
+
+Au cours de l'exercice, le conseil national peut toujours proposer au ministre une modification du projet approuvé si l'imputation des recettes et des dépenses l'exige.
+
+§ 3. Le budget du conseil national est vérifié par deux commissaires, un francophone et un néerlandophone, membres de l'Ordre. Les commissaires sont nommés par le ministre qui a les Classes moyennes dans ses attributions pour une période d'un an et sont rééligibles deux fois. Une proposition de nomination de deux commissaires est jointe au projet de budget que le conseil national adresse au ministre.
+
+Les commissaires sont chargés du contrôle de la conformité de l'imputation des recettes et des dépenses par rapport au projet de budget approuvé. La mission de commissaire est incompatible avec l'exercice d'un mandat ou d'une autre mission au sein de l'Ordre.
+
+Lors de l'examen trimestriel des comptes par le conseil national visé au paragraphe 1er, les commissaires déposent un rapport concernant l'examen qu'ils ont fait des comptes.
+
+Les comptes sont tenus à la disposition des membres inscrits, au siège de l'Ordre.
+
+§ 4. Un commissaire du gouvernement et un suppléant sont, sur proposition du ministre qui a les Classes moyennes dans ses attributions, nommés par le Roi parmi les fonctionnaires de son département.
+
+Le Roi détermine le montant de l'indemnité de fonction du commissaire du gouvernement et de son suppléant.
+
+Le commissaire du gouvernement dispose d'un délai de quinze jours ouvrables pour prendre son recours auprès du ministre contre l'exécution de toute décision du conseil national qui est contraire aux lois et règlements ou qui ne fait pas partie de la mission du conseil national telle que prévue à l'article 38, qui est de nature à compromettre la solvabilité de l'Ordre ou qui est contraire au budget approuvé de l'Ordre.
+
+Ce délai court à partir du jour où le commissaire du gouvernement a eu connaissance du procès-verbal de la décision.
+
+Le recours est suspensif.
+
+Si le ministre n'a pas prononcé l'annulation dans un délai de quinze jours ouvrables à partir de la réception du recours, la décision devient définitive.
+
+Le conseil national désigne pour un terme de deux ans, renouvelable, un réviseur d'entreprises chargé du contrôle de la situation financière et des comptes annuels. Il transmet annuellement un rapport de contrôle au conseil national et au ministre qui a les Classes moyennes dans ses attributions.
+
+§ 5. Le non-paiement de la cotisation peut donner lieu à l'application d'une peine disciplinaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 22, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 49bis
+
+&lt;inséré par L 2008-11-21/50, art. 14; En vigueur : 21-02-2009&gt; Le Roi fixe le montant des jetons de présence et/ou des indemnités alloués :
+
+\- aux membres et à leurs suppléants des conseils de l'Ordre, du conseil national, du Conseil flamand et du Conseil francophone et germanophone, et des conseils d'appel, ainsi qu'aux assesseurs juridiques et à leurs suppléants;
+
+\- aux membres de l'Ordre à qui l'Ordre ferait appel dans le cadre d'une commission, d'un groupe de travail ou de toute autre mission au nom de l'Ordre.
+
+Ils ne peuvent recevoir de l'Ordre d'autres indemnités ou jetons de présence. Ils reçoivent un remboursement de leurs frais de déplacement pour le compte de l'Ordre, conformément aux tarifs de remboursement valables pour les fonctionnaires fédéraux.
+
+#### Art. 49ter
+
+[<sup>1</sup> Le Roi peut arrêter les règlements nécessaires pour le fonctionnement et l'organisation de l'Ordre sur avis du conseil national.
+
+Le Roi peut fixer des conditions spécifiques auxquelles le rapport annuel visé à l'article 38, 11°, doit répondre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-20/03, art. 23, 022; En vigueur : 10-08-2026&gt;
+
+## CHAPITRE IV. - Du stage.
+
+#### Art. 50
+
+Nul ne peut demander son inscription à un tableau de l'Ordre s'il n'a accompli un stage de deux ans auprès d'une personne inscrite au tableau depuis dix ans au moins.
+
+Les stagiaires sont inscrits sur une liste annexée au tableau.
+
+Le conseil de l'Ordre peut autoriser le stage à l'étranger chez une personne exerçant la profession d'architecte et offrant les mêmes garanties que celles requises en Belgique, d'un membre de l'Ordre.
+
+[<sup>1</sup> Le Roi peut fixer des conditions complémentaires à remplir pour être maître de stage ainsi que pour assurer l'accompagnement du stagiaire. Il peut également fixer des lignes directrices concernant le stage à l'étranger.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 24, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 51
+
+Les conseils de l'Ordre peuvent prolonger le stage pendant une durée d'un an. Ils peuvent prononcer [<sup>1</sup> l'omission]<sup>1</sup> de la liste des stagiaires si le stagiaire ne remplit pas ses obligations.
+
+En pareil cas, il y a lieu à l'application des règles de procédure et de recours prévues en matière disciplinaire.
+
+----------
+
+(1)&lt;L 2026-07-20/03, art. 25, 022; En vigueur : 10-08-2026&gt;
+
+#### Art. 52
+
+[<sup>1</sup> § 1er. Les Conseils de l'Ordre accordent automatiquement une dispense du stage visé à l'article 50 aux ressortissants des Etats membres qui sont en possession d'un diplôme, d'un certificat ou autres titres visés à l'article 1er, §§ 2 à 2/3, de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte. Ils accordent aussi une telle dispense lorsqu'ils constatent que les diplômes, certificats ou autres titres remplissent les conditions reprises à l'annexe 1a de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte.
+
+L'alinéa 1er ne s'applique pas aux diplômes, certificats ou autres titres délivrés par un organisme belge visé aux annexes 1b et 2a de la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte.
+
+§ 2. Les Conseils de l'Ordre peuvent accorder une exemption complète ou partielle du stage, selon les conditions fixées par le Roi, aux personnes suivantes :
+
+1° les ressortissants des Etats membres ayant effectué à l'étranger des prestations jugées équivalentes au stage;
+
+2° les ressortissants des pays tiers ayant exercé la profession pendant plus de deux ans à l'étranger.
+
+Dans ce cas, les règles de procédure et de recours prévues en matière disciplinaire, sont d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-21/32, art. 10, 017; En vigueur : 11-08-2017&gt;
+
+## CHAPITRE V. - Disposition pénale.
+
+#### Art. 53
+
+&lt;AR 1990-09-12/31, art. 8, 003; En vigueur : 29-10-1990&gt; (Sont punis d'un emprisonnement de huit jours à trois mois et d'une amende de 200 à 1 000 euros, ou de l'une de ces deux peines seulement) ceux qui, sans être inscrits à un tableau de l'Ordre ou sur une liste des stagiaires ou sur le registre dont question à l'article 8, ou sans y être autorisés ou pendant la période de suspension, établissent des plans pour lesquels l'intervention d'un architecte est légalement requise. &lt;L 2006-02-15/45, art. 15, 008; En vigueur : 01-07-2007&gt;
+
+(Les personnes morales sont civilement responsables pour le paiement des amendes et l'exécution des mesures de réparation, infligées à leurs organes et préposés.) &lt;L 2006-02-15/45, art. 15, 008; En vigueur : 01-07-2007&gt;
+
+## CHAPITRE VI. - Disposition abrogatoire.
+
+#### Art. 54
+
+&lt;disposition abrogatoire : AR 1939-02-20/30, art. 9&gt;
+
+## CHAPITRE VII. - Dispositions transitoires.
+
+#### Art. 55
+
+&lt;L 2008-06-08/31, art. 41, 011; En vigueur : 26-06-2008&gt; Les mandats des membres effectifs et suppléants des Conseils provinciaux de l'Ordre qui ont été élus en 2003, prennent fin le 31 décembre 2008.
+
+Les Conseils provinciaux se renouvellent par moitié avec effet au 1er janvier 2009 et par la suite comme prévu par l'article 11, alinéa 2.
+
+A partir des élections de 2008, les mandats prennent cours le 1er janvier de l'année suivante.
+
+#### Art. 56
+
+&lt;L 2008-06-08/31, art. 42, 011; En vigueur : 26-06-2008&gt; Les mandats des membres du Conseil national visés à l'article 34, alinéa 1er, a), dont le mandat a pris cours en 2007, expirent un an plus tard.
+
+#### Art. 57
+
+&lt;disposition transitoire&gt;
+
+#### Art. 58
+
+&lt;disposition transitoire&gt;
+
+#### Art. 59
+
+&lt;disposition transitoire&gt;
+
+#### Art. 60
+
+&lt;disposition transitoire&gt;
+
+#### Art. 61
+
+&lt;disposition transitoire&gt;
