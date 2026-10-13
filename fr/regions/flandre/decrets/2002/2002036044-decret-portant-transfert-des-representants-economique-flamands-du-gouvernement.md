@@ -1,0 +1,47 @@
+---
+title: "Décret portant transfert des représentants économique flamands du Gouvernement flamand à \"Export Vlaanderen\" (Office pour la promotion des exportations de la Flandre), organisme public flamand (TRADUCTION)."
+identifier: "2002036044"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036044/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2002-07-19
+published: 2002-08-27
+entry_into_force: 2002-09-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036044/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 19 JUILLET 2002. - Décret portant transfert des représentants économique flamands du Gouvernement flamand à "Export Vlaanderen" (Office pour la promotion des exportations de la Flandre), organisme public flamand (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+§ 1er. Les représentants économiques flamands qui ont été transférés au Gouvernement flamand en qualité d'attachés et de prospecteurs commerciaux par l'arrêté royal du 31 janvier 1994 et qui sont en service au 31 décembre 2001, sont transférés d'office en leur qualité à "Export Vlaanderen", organisme public flamand pour la promotion des exportations.
+
+§ 2. Les membres du personnel visés au § 1er, sont transférés par arrêté du Gouvernement flamand.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 19 juillet 2002.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL
+
+Le Ministre flamand des Affaires intérieures, de la Culture, de la Jeunesse et de la Fonction publique,
+
+P. VAN GREMBERGEN
+
+Le Ministre flamand de l'Economie, de la Politique extérieur, du Commerce extérieur et du Logement,
+
+J. GRABRIELS.

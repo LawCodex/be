@@ -1,0 +1,55 @@
+---
+title: "Décret modifiant le décret du 28 janvier 1977 relatif à la protection de la dénomination des voies et places publiques (TRADUCTION)."
+identifier: "2002036536"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/29/2002036536/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2002-11-29
+published: 2002-12-17
+entry_into_force: 2002-12-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/29/2002036536/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 29 NOVEMBRE 2002. - Décret modifiant le décret du 28 janvier 1977 relatif à la protection de la dénomination des voies et places publiques (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret modifiant le décret du 28 janvier 1977 relatif à la protection de la dénomination des voies et places publiques.
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+L'article 3, alinéa 2 du décret du 28 janvier 1977 relatif à la protection de la dénomination des voies et places publiques, modifié par le décret du 1er juillet 1987, est remplacé par la disposition suivante : " La Commission royale flamande consiste en une commission centrale. Le Gouvernement flamand peut par ailleurs constituer des commissions provinciales. Le Gouvernement flamand détermine la composition et le fonctionnement des commissions. "
+
+## Art. 3
+
+L'article 4 du même décret, modifié par le décret du 4 février 1997, est modifié comme suit :
+
+1° le premier alinéa, 2° est remplacé par la disposition suivante : " 2° demande l'avis du conseil communal de la culture et des loisirs culturels. Ce conseil fait connaître son avis par écrit à l'administration communale dans les trente jours. L'administration communale peut solliciter l'avis de la Commission royale consultative de Toponymie. Si cet avis n'est pas notifié dans le délai prescrit, il est censé être favorable; ";
+
+2° dans le troisième alinéa, les mots " dans la demande d'avis visée au 2° " sont remplacés par les mots " dans les demandes d'avis visées au 2° ".
+
+## Art. 4
+
+Les articles 6 et 8 du même décret sont abrogés.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 29 novembre 2002.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL
+
+Ministre flamand des Affaires intérieures, de la Culture, de la Jeunesse et de la Fonction publique,
+
+P. VAN GREMBERGEN.
