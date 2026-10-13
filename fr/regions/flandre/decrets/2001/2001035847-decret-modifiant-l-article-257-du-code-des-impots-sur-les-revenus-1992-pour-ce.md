@@ -1,0 +1,59 @@
+---
+title: "Décret modifiant l'article 257 du Code des impôts sur les revenus 1992, pour ce qui concerne le précompte immobilier. (Traduction).HI:??2,Session 2000-2001. Documents. - Proposition de décret n° 587/1. - Amendements nos 587/2 et 3. - Rapport n° 587/4. - Texte adopté par l'assemblée plénière n° 587/5. Annales. - Discussion et adoption : séances des 9 et 10 juillet 2001."
+identifier: "2001035847"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/13/2001035847/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2001-07-13
+published: 2001-08-07
+entry_into_force: 2002-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/13/2001035847/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 13 JUILLET 2001. - Décret modifiant l'article 257 du Code des impôts sur les revenus 1992, pour ce qui concerne le précompte immobilier. (Traduction).HI:??2,Session 2000-2001. Documents. - Proposition de décret n° 587/1. - Amendements nos 587/2 et 3. - Rapport n° 587/4. - Texte adopté par l'assemblée plénière n° 587/5. Annales. - Discussion et adoption : séances des 9 et 10 juillet 2001.
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Pour ce qui concerne la Région flamande, l'article 257, § 2, 3° du Code des impôts sur les revenus 1992, tel qu'il a été inséré par le décret du 9 juin 1998, est remplacé par la disposition suivante :
+
+" 3° une remise ou une réduction proportionnelle du précompte immobilier, dans la mesure où le revenu imposable peut être réduit en vertu de l'article 15. "
+
+## Art. 3
+
+Pour ce qui concerne la Région flamande, il est inséré dans l'article 257 du Code des impôts sur les revenus 1992, un § 2bis, rédigé comme suit :
+
+" § 2bis. Il ne peut être accordé une remise ou une réduction proportionnelle, s'il n'a pas été fait usage du bien depuis plus de douze mois, compte tenu de l'année d'imposition précédente. Cette disposition n'est toutefois pas applicable :
+
+1° à un immeuble bâti non meublé, faisant l'objet d'un plan d'expropriation;
+
+2° à un immeuble bâti non meublé en voie de rénovation ou de transformation et ayant un but social ou culturel, exécutée par une société de logement social ou pour le compte d'une autorité. La durée de la remise ou de la réduction proportionnelle est plafonnée à 5 ans;
+
+3° à un immeuble dont le contribuable ne peut exercer les droits réels pour cause d'une calamité, force majeure, une procédure ou une enquête administrative ou judiciaire en cours ou une procédure d'héritage non finalisée. Le précompte immobilier est à nouveau dû à partir du 1er janvier de l'année d'imposition qui suit l'année dans laquelle disparaissent les circonstances entravant la jouissance libre de l'immeuble. "
+
+## Art. 4
+
+L'article 60 du décret du 22 décembre 1993 contenant des mesures d'accompagnement du budget 1994, modifié par les décrets des 10 avril 1995 et 7 juillet 1998, est abrogé.
+
+## Art. 5
+
+Le présent décret entre en vigueur à partir de l'année d'imposition 2002.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 13 juillet 2001.
+
+Le Ministre-Président du Gouvernement flamand, Ministre flamand des Finances, du Budget, de la Politique extérieure et des Affaires européennes,
+
+P. DEWAEL

@@ -1,0 +1,57 @@
+---
+title: "Décret modifiant certaines dispositions en matière de culture, pour ce qui concerne l'introduction de l'euro (TRADUCTION)."
+identifier: "2001036478"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/07/2001036478/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2001-12-07
+published: 2002-01-09
+entry_into_force: 2002-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/07/2001036478/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 7 DECEMBRE 2001. - Décret modifiant certaines dispositions en matière de culture, pour ce qui concerne l'introduction de l'euro (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+Dans l'article 5, premier alinéa, du décret du 27 juin 1973 relatif à l'attribution des prix de l'Etat pour la littérature néerlandaise, les mots " deux cent cinquante mille francs (250 000 F) " sont remplacés par le montant " 6.200 euros " et les mots " cent vingt-cinq mille francs (125 000 F) " sont remplacés par le montant " 3.100 euros ".
+
+## Art. 3
+
+Dans l'article 3 du décret du 16 novembre 1983 instaurant un prix de la Communauté flamande pour la traduction de littérature néerlandaise, modifié par le décret du 22 décembre 1999, les mots " deux cent mille francs " sont remplacés par les mots " 5.000 euros ".
+
+## Art. 4
+
+A l'article 15 du décret du 18 mai 1999 sur les arts de la scène, sont apportées les modifications suivantes :
+
+1° au 3°, a et b, les montants " 24 000 000 francs belges (594.944,45 euros) " sont remplacés par le montant " 600.000 euros " et au c les montants " 160 000 000 francs belges (3.966.296,40 euros) sont remplacés par le montant " 4.000.000 euros ";
+
+2° au 4°, a et b, au 5°, a et b et au 6° a et b, les montants " 24 000 000 francs belges (594.944,45 euros) " sont remplacés par le montant " 600.000 euros ".
+
+## Art. 5
+
+Le présent décret entre en vigueur le 1 janvier 2002, à l'exception de l'article 4 qui entre en vigueur le 1 juin 2005.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 décembre 2001.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL
+
+Le Ministre flamand de la Culture, de la Jeunesse, des Sports, des Affaires bruxelloises et de la Coopération au Développement,
+
+B. ANCIAUX.

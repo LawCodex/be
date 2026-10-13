@@ -1,0 +1,71 @@
+---
+title: "Décret relatif aux modalités du droit de présenter des requêtes au Parlement flamand (TRADUCTION)."
+identifier: "2001035836"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035836/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2001-07-06
+published: 2001-08-03
+entry_into_force: 2001-08-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035836/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 6 JUILLET 2001. - Décret relatif aux modalités du droit de présenter des requêtes au Parlement flamand (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière, telle que visée à l'article 118, § 2 de la Constitution.
+
+## Art. 2
+
+Les requêtes sont adressées au Parlement flamand ou au président du Parlement flamand et mentionnent de manière lisible le nom et le prénom du ou des auteurs.
+
+## Art. 3
+
+Les requêtes traitant d'un sujet qui ne relève pas de la compétence de la Communauté flamande ou de la Région flamande ou qui ne concerne aucunement leurs intérêts, sont irrecevables.
+
+(Une lettre ou communication écrite n'est pas qualifiée de requête si une ou plusieurs des conditions suivantes sont remplies :
+
+a) l'auteur ne formule qu'une opinion sans demande concrète;
+
+b) la demande formulée n'est manifestement pas sérieuse;
+
+c) les propos sont injurieux.) &lt;DCFL 2005-07-08/58, art. 2, 002; En vigueur : 01-08-2005&gt;
+
+## Art. 4
+
+Le premier signataire d'une requête qui est présentée par au moins quinze mille requérants (...), a le droit d'être entendu. &lt;DCFL 2005-07-08/58, art. 3, 002; En vigueur : 01-08-2005&gt;
+
+## Art. 5
+
+A l'audition, le requérant ou le premier signataire d'une requête, a le droit de se faire assister par une personne de son choix.
+
+Le Parlement flamand ne peut statuer que sur les requêtes relatives aux droits de l'enfant, tels que définis dans la Convention relative aux Droits de l'Enfant, adopté à New York le 20 novembre 1989, si l'avis du Commissaire aux droits de l'enfant, visé au décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant ne rend pas son avis dans le délai imparti par le Parlement flamand, ce dernier peut statuer sur la requête sans cet avis.
+
+## Art. 6
+
+Si la requête concerne une plainte au sens de l'article 3, premier alinéa, 1° et l'article 3, troisième alinéa du décret du 7 juillet 1998 instaurant le service de médiation flamand, le président du Parlement flamand peut transmettre la requête au médiateur flamand, de commun accord avec le requérant et après concertation avec le médiateur flamand.
+
+## Art. 7
+
+Le décret du 14 juillet 1998 relatif aux requêtes présentées au Parlement flamand, modifié par le décret du 15 décembre 1998, est abrogé.
+
+## Art. 8
+
+Si une requête est présentée au Parlement flamand avant la date d'entrée en vigueur du présent décret, l'auteur ou, si la requête est signée par plusieurs personnes, le premier signataire, a le droit d'être entendu.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 6 juillet 2001.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL.

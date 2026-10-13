@@ -1,0 +1,395 @@
+---
+title: "Décret relatif à la participation proportionnelle sur le marché de l'emploi (TRADUCTION)."
+identifier: "2002035892"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/08/2002035892/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2002-05-08
+published: 2002-07-26
+entry_into_force: 2002-10-01
+last_amended: 2024-04-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/08/2002035892/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 26-07-2002 et mise à jour au 16-04-2024"
+retrieved: 2026-10-12
+---
+
+# 8 MAI 2002. - Décret relatif à la participation proportionnelle sur le marché de l'emploi (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret relatif à la participation proportionnelle sur le marché de l'emploi.
+
+## CHAPITRE I. - Dispositions préliminaires.
+
+### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+### Art. 2
+
+Pour l'application du présent décret, il convient d'entendre par :
+
+1° groupes à potentiel : tous les groupes de la population en âge actif qui ne sont pas proportionnellement représentés sur le marché de l'emploi; le Gouvernement flamand détermine, après avis du Conseil socio-économique de la Flandre, la définition précise de ces groupes;
+
+2° travailleurs : les personnes qui effectuent des prestations de travail en vertu d'un contrat de travail et les personnes qui, sur une autre base qu'en vertu d'un contrat de travail, effectuent du travail sous l'autorité d'une autre personne, en ce compris les stagiaires dans l'enseignement et les apprenti(e)s; les demandeurs d'emploi sont assimilés aux travailleurs;
+
+3° employeurs : les personnes qui emploient les travailleurs visés au 2°;
+
+4° organisations intermédiaires : toutes les organisations ou personnes publiques ou privées qui proposent des activités en matière d'orientation professionnelle, de formation professionnelle, d'accompagnement de la carrière et de placement au besoin des jeunes, adultes en âge actif, entreprises ou autres organisations, travailleurs et demandeurs d'emploi;
+
+5° dispositions : toutes les dispositions légales et administratives, les conventions de travail individuelles ou collectives, les règlements du travail, les règles statutaires de droit administratif applicables au personnel du Ministère de la Communauté flamande et aux institutions qui relèvent de la Communauté flamande ou de la Région flamande;
+
+6° le personnel de l'autorité flamande et de l'enseignement flamand : le personnel du Ministère de la Communauté flamande et des institutions publiques qui relèvent de la Communauté flamande ou de la Région flamande, ainsi que le personnel enseignant flamand;
+
+7° le SERV : le " Sociaal-Economische Raad van Vlaanderen " (Conseil socio-économique flamand), tel que créé par le décret du 27 juin 1985;
+
+8° (discrimination directe : lorsqu'une personne est traitée de manière moins favorable qu'une autre ne l'est, ne l'a été ou ne le serait dans une situation comparable, sur la base de motifs tels que le sexe, la prétendue race ou origine ethnique, la religion ou les convictions, un handicap, l'âge ou l'orientation sexuelle;) &lt;DCFL 2007-03-09/41, art. 2, 004; En vigueur : 16-04-2007&gt;
+
+9° (discrimination indirecte : lorsqu'une disposition, un critère ou une pratique apparemment neutre est susceptible d'entraîner un désavantage particulier pour des personnes d'un sexe, d'une prétendue race, d'une origine ethnique, d'une religion ou de convictions, d'un handicap, d'un âge ou d'une orientation sexuelle donnés par rapport à d'autres personnes, à moins que cette disposition, ce critère ou cette pratique ne soient objectivement justifiés par un objectif légitime et que les moyens de réaliser cet objectif ne soient appropriés et nécessaires;) &lt;DCFL 2007-03-09/41, art. 2, 004; En vigueur : 16-04-2007&gt;
+
+10° tout ordre de discrimination ou incitation à la discrimination en raison des motifs visés aux alinéas 8 et 9, est assimilé à un acte de discrimination;
+
+11° intimidation : tout comportement indésirable qui est en rapport avec (le sexe, une prétendue race, l'origine ethnique, la religion ou les convictions, un handicap, l'âge ou l'orientation sexuelle) et qui a pour but ou pour conséquence de porter atteinte à la dignité d'un individu et qui crée un environnement intimidant, hostile, offensant, humiliant ou perturbant; &lt;DCFL 2007-03-09/41, art. 2, 004; En vigueur : 16-04-2007&gt;
+
+12° politique flamande en faveur de l'emploi : l'ensemble des compétences flamandes en matière d'orientation professionnelle, de formation professionnelle, d'accompagnement de la carrière et de placement en Région flamande, respectivement en Communauté flamande, et pour ce qui concerne le personnel de l'autorité flamande et de l'enseignement flamand, les dispositions, en ce compris les conditions de travail;
+
+13° services flamands : les employeurs respectifs du personnel de l'autorité flamande et de l'enseignement flamand;
+
+14° profession indépendante : l'activité professionnelle exercée par toute personne non recrutée en vertu d'un contrat de travail ou d'un statut et en dehors de toute forme de subordination.
+
+(15° objectifs chiffrés : chiffres à atteindre dans un certain laps de temps au niveau de la participation proportionnelle des groupes à potentiel;) &lt;DCFL 2007-03-09/41, art. 2, 004; En vigueur : 16-04-2007&gt;
+
+### Art. 3
+
+Le présent décret s'applique aux :
+
+1° organisations intermédiaires et personnes qui s'occupent d'orientation professionnelle, de formation professionnelle, d'accompagnement de la carrière et de placement;
+
+2° services flamands et au personnel de l'autorité flamande et de l'enseignement flamand, leurs dispositions et conditions de travail;
+
+3° autres employeurs et travailleurs pour ce qui concerne la formation professionnelle et l'emploi des personnes handicapées.
+
+Le Gouvernement flamand peut, après avis du SERV, préciser et étendre le champ d'application du présent décret.
+
+### Art. 4
+
+Le Gouvernement flamand peut, après avis du SERV, préciser ce qu'il convient d'entendre, pour l'application du présent décret, par orientation professionnelle, formation professionnelle, accompagnement de la carrière et placement.
+
+Le Gouvernement flamand détermine, après concertation avec les organisations représentatives du personnel de l'autorité flamande et de l'enseignement flamand, ce qu'il convient d'entendre pour l'application du présent décret par dispositions et conditions du travail.
+
+## CHAPITRE II. - Principes généraux.
+
+### Art. 5
+
+§ 1er. La politique flamande en faveur de l'emploi doit être organisée conformément aux principes de la participation proportionnelle et de l'égalité de traitement :
+
+1° Le principe de la participation proportionnelle implique que la participation au marché de l'emploi soit proportionnée à la composition de la population active et que la participation proportionnelle de groupes à potentiel soit garantie;
+
+2° Le principe de l'égalité de traitement implique l'absence de toute forme de discrimination directe ou indirecte ou d'intimidation sur le marché de l'emploi.
+
+§ 2. Il est interdit :
+
+1° de référer (au sexe, à une prétendue race, à l'origine ethnique, à la religion ou aux convictions, à un handicap, à l'âge ou à l'orientation sexuelle) dans les conditions ou les critères en matière de placement ou d'intégrer dans ces conditions ou critères des éléments qui, même sans référence explicite (au sexe, à une prétendue race, à l'origine ethnique, à la religion ou aux convictions, à un handicap, à l'âge ou à l'orientation sexuelle) donnent lieu à une discrimination; &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+2° de présenter dans les informations et la publicité, le placement comme étant particulièrement approprié pour les travailleurs ou employeurs en fonction (du sexe, d'une prétendue race, de l'origine ethnique, de la religion ou des convictions, d'un handicap, de l'âge ou de l'orientation sexuelle); &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+3° d'empêcher ou d'entraver l'accès aux services de placement, pour des raisons explicitement ou implicitement liées aux éléments suivants : (le sexe, une prétendue race, l'origine ethnique, la religion ou les convictions, un handicap, l'âge ou l'orientation sexuelle) de l'individu; &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+4° de référer (au sexe, à une prétendue race, à l'origine ethnique, à la religion ou des convictions, à un handicap, à l'âge ou à l'orientation sexuelle) du travailleur dans les offres d'emploi ou dans les annonces relatives à des emplois, ou de reprendre dans ces offres d'emploi ou annonces des éléments qui, même sans référence explicite, mentionnent ou font présumer l'une des caractéristiques précitées dans le chef du travailleur; &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+5° de référer (au sexe, à une prétendue race, à l'origine ethnique, à la religion ou aux convictions, à un handicap, à l'âge ou à l'orientation sexuelle) du travailleur dans les conditions d'accès, la sélection et les critères de sélection pour les emplois et fonctions dans n'importe quel secteur ou branche d'activité, ou de reprendre dans ces conditions ou critères des éléments qui, même sans référence explicite aux caractéristiques du travailleur citées ci-avant, donnent lieu à une discrimination; &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+6° de refuser ou d'entraver l'accès au travail ou les chances de promotion pour des raisons explicites ou implicites fondées directement ou indirectement sur (le sexe, une prétendue race, l'origine ethnique, la religion ou les convictions, un handicap, l'âge ou l'orientation sexuelle); &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+7° de référer (au sexe, à une prétendue race, à l'origine ethnique, à la religion ou aux convictions, à un handicap, à l'âge ou à l'orientation sexuelle) dans les conditions ou les critères en matière d'orientation professionnelle, de formation professionnelle et d'accompagnement de la carrière ou de reprendre dans ces conditions ou critères des éléments qui, même sans référence explicite (au sexe, à une prétendue race, à l'origine ethnique, à la religion ou aux convictions, à un handicap, à l'âge ou à l'orientation sexuelle) donnent lieu à une discrimination; &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+8° dans l'information ou la publicité, présenter l'orientation professionnelle, la formation professionnelle et l'accompagnement de la carrière comme convenant plus particulièrement pour des candidats (d'un sexe déterminé, d'une prétendue race, d'une certaine origine ethnique, religion ou convictions, présentant un certain handicap, d'un certain âge ou orientation sexuelle); &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+9° de refuser ou d'entraver l'accès à l'orientation professionnelle, la formation professionnelle et l'accompagnement de la carrière pour des raisons explicites ou implicites qui sont directement ou indirectement en rapport avec (le sexe, une prétendue race, l'origine ethnique, la religion ou les convictions, un handicap, l'âge ou l'orientation sexuelle); &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+10° imposer sur la base (du sexe, d'une prétendue race, de l'origine ethnique, de la religion ou des convictions, d'un handicap, de l'âge ou de l'orientation sexuelle) de l'individu, des conditions divergentes pour l'obtention ou la remise de toutes sortes de diplômes, brevets, certificats ou titres; &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+11° de référer (au sexe, à une prétendue race, à l'origine ethnique, à la religion ou aux convictions, à un handicap, à l'âge ou à l'orientation sexuelle) du travailleur dans les dispositions et dans les conditions de travail et dans les conditions, critères ou motifs de licenciement ou de reprendre dans ces dispositions, conditions, critères ou motifs des éléments qui, même sans référence explicite (du sexe, d'une prétendue race, de l'origine ethnique, de la religion ou des convictions, d'un handicap, de l'âge ou de l'orientation sexuelle) du travailleur, donnent lieu à une discrimination; &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+12° d'établir ou d'appliquer ces conditions, critères ou motifs de manière discriminatoire en raison (du sexe, d'une prétendue race, de l'origine ethnique, de la religion ou des convictions, d'un handicap, de l'âge ou de l'orientation sexuelle) du travailleur; &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+13° d'utiliser dans l'orientation professionnelle, la formation professionnelle, l'accompagnement de la carrière et le placement des techniques ou tests susceptibles de donner lieu à une discrimination directe ou indirecte.
+
+Les interdictions visées à l'alinéa précédent, 5°, s'appliquent également aux professions indépendantes.
+
+§ 3. Nonobstant les principes de la participation proportionnelle et de l'égalité de traitement, des mesures spécifiques peuvent être prises ou maintenues visant à garantir l'égalité totale dans la vie professionnelle, dans le but de prévenir ou de compenser les préjudices liés aux caractéristiques visées à l'article 2, 8°.
+
+Cependant, les dispositions particulières concernant la protection de la mère et de l'enfant pendant la grossesse et les dispositions particulières concernant la protection de la maternité ne forment pas une discrimination.
+
+§ 4. Afin de garantir que le principe de l'égalité de traitement soit respecté, il convient de prévoir des adaptations raisonnables. Cela implique que les organisations intermédiaires et l'employeur, en fonction des besoins, prennent dans une situation concrète les mesures appropriées pour l'accès au travail, la participation au travail et la promotion dans la vie professionnelle, voire pour bénéficier d'une formation, à moins que ces mesures ne constituent une charge disproportionnée dans le chef de l'employeur. Lorsque cette charge est compensée dans une mesure suffisante par des mesures existantes, elle ne peut être considérée comme disproportionnée.
+
+(§ 4bis. Aux fins de réaliser la participation proportionnelle et l'égalité des chances, on a recours à des objectifs chiffrés. Ces objectifs chiffrés sont fixés par le Gouvernement flamand sur avis du SERV.) &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+§ 5. Le Gouvernement flamand arrête, après avis du SERV, les modalités et procédures.
+
+(§ 6. Le présent décret ne porte pas préjudice à la protection et à l'exercice des droits et libertés fondamentaux inscrits dans la Constitution et dans les conventions internationales.) &lt;DCFL 2007-03-09/41, art. 3, 004; En vigueur : 16-04-2007&gt;
+
+### Art. 6
+
+&lt;DCFL 2007-03-09/41, art. 4, 004; En vigueur : 16-04-2007&gt; Une différence de traitement au niveau des conditions d'accès, de travail et de licenciement fondée sur une caractéristique liée à l'un des motifs visés à l'article 2, 8° et 9°, ne constitue pas une discrimination lorsque, en raison de la nature de l'activité ou des conditions de son exercice, la caractéristique en cause constitue une exigence professionnelle essentielle et déterminante, pour autant que l'objectif soit légitime et que l'exigence soit proportionnée.
+
+## CHAPITRE III. - Rapport et soutien.
+
+### Art. 7
+
+§ 1er. Les organisations intermédiaires et les services flamands contribuent activement à la réalisation de la participation proportionnelle et de l'égalité de traitement. Dans ce cadre, ils sont obligés :
+
+1° d'établir un plan d'action annuel définissant notamment les objectifs, procédures, méthodes d'évaluation et un plan décrivant les différents pas à franchir;
+
+2° de transmettre annuellement un rapport d'avancement au Gouvernement flamand et au Parlement flamand, précisant la mesure dans laquelle ils ont réalisé les objectifs fixés.
+
+(Le rapport d'avancement et le plan d'action contiennent au moins :
+
+1° les objectifs chiffrés et les délais impartis pour atteindre ces objectifs chiffrés;
+
+2° une analyse quantitative des progrès en matière de la participation proportionnelle des groupes à potentiel;
+
+3° une évaluation qualitative des efforts fournis pour promouvoir la participation proportionnelle des groupes à potentiel, en identifiant les goulots d'étranglement;
+
+4° les actions promouvant la participation proportionnelle.) &lt;DCFL 2007-03-09/41, art. 5, 004; En vigueur : 16-04-2007&gt;
+
+Pour ce qui concerne les bureaux de placement privé, cela doit se faire dans le cadre de l'obligation générale de rapportage de ce secteur.
+
+§ 2. Les services flamands sont obligés d'élaborer une politique de participation proportionnelle en concertation avec les représentants du personnel.
+
+§ 3. Le Gouvernement flamand arrête les modalités et procédures d'établissement et de dépôt du plan d'action et du rapport d'avancement.
+
+### Art. 7/1.
+
+[<sup>1</sup> § 1er. Dans le présent article, on entend par administration flamande : les entités, visées à l'article 1er de l'arrêté du Gouvernement flamand du 24 décembre 2004 portant des mesures en vue de la promotion et de l'encadrement de la politique d'égalité des chances et de diversité dans l'administration flamande.
+
+§ 2. Pour le traitement structuré et systématique des données à caractère personnel de l'administration flamande conformément au présent décret, les entités agissent en tant que responsables du traitement tels que visés à l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données,et abrogeant la directive 95/46/CE (règlement général sur la protection des données). Les fins du traitement des données à caractère personnel par les responsables du traitement ont trait aux missions visées aux articles 5 et 7, en ce qui concerne l'administration flamande.
+
+Le traitement des données à caractère personnel est limité à ce qui est nécessaire pour atteindre la finalité visée à l'alinéa 1er.
+
+§ 3. Conformément aux dispositions du présent décret, les responsables du traitement peuvent traiter les catégories suivantes de données à caractère personnel :
+
+1° les données d'identification ;
+
+2° les coordonnées ;
+
+3° le numéro de registre national dans le but d'identifier de manière unique les personnes physiques ;
+
+4° les données relatives à l'emploi actuel ;
+
+5° les données relatives à des particularités personnelles ;
+
+6° les données visées à l'article 2, 8° et 9° ;
+
+7° les données financières ;
+
+8° les données relatives à la santé.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel visées à l'alinéa 1er.
+
+§ 4. Conformément aux dispositions du présent décret, les responsables du traitement peuvent traiter les données à caractère personnel de l'administration flamande des catégories suivantes de personnes :
+
+1° membres du personnel ;
+
+2° stagiaires ;
+
+3° candidats ;
+
+4° membres du personnel sortis de service.
+
+Le Gouvernement flamand peut préciser les catégories de personnes, visées à l'alinéa 1er.
+
+§ 5. Les données traitées conformément au présent décret peuvent être échangées avec les organisations mandatées à cet effet par le Gouvernement flamand, si cela est nécessaire dans le cadre de leur mission légale ou en exécution du présent décret.
+
+§ 6. Les personnes qui peuvent accéder aux données à caractère personnel sont les suivantes :
+
+1° les personnes désignées à cet effet par l'administration flamande et les responsables du traitement ;
+
+2° les personnes désignées à cet effet par les organisations, mandatées conformément au paragraphe 5.
+
+§ 7. Les responsables du traitement prennent les mesures de sécurité techniques et organisationnelles appropriées conformément au règlement précité.
+
+§ 8. Les responsables du traitement et les organisations, visées au paragraphe 5, conservent les catégories précitées de données à caractère personnel en tout cas conformément aux délais de conservation dans le cadre des objectifs de collecte initiaux. Les données à caractère personnel obtenues dans le cadre des objectifs fixés au présent décret, ne sont pas conservées plus longtemps que nécessaire pour atteindre l'objectif du traitement des données. Le délai maximal de conservation ne dépassera pas 10 ans après la sortie de service du membre du personnel, après le stage du stagiaire ou la procédure de sélection du candidat auprès de l'administration flamande, à moins que certaines réglementations applicables ne prescrivent un délai maximal de conservation plus long.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 2, 009; En vigueur : 01-06-2024&gt;
+
+### Art. 8
+
+Le Gouvernement flamand peut apporter son soutien aux (entreprises, secteurs, organismes, organisations du travail ou autorités locales) dans le cadre du développement d'une politique d'entreprise de participation proportionnelle et d'égalité de traitement et peut prendre les mesures appropriées en vue de la promotion du dialogue social entre employeurs et travailleurs dans le cadre de l'encouragement de la participation proportionnelle et de l'égalité de traitement. Le Gouvernement flamand détermine, après avis du SERV, les modalités pour concrétiser ce soutien et ces mesures, de même que la procédure. &lt;DCFL 2007-03-09/41, art. 6, 004; En vigueur : 16-04-2007&gt;
+
+### Art. 9
+
+&lt;Abrogé par DCFL 2022-10-28/04, art. 49, 008; En vigueur : 15-03-2023&gt;
+
+## CHAPITRE IV. - Contrôle et sanctions.
+
+### Art. 10
+
+&lt;DCFL 2004-04-30/67, art. 33, 002; En vigueur : 15-08-2004&gt; La surveillance et le contrôle s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales.
+
+### Art. 11
+
+&lt;DCFL 2007-03-09/41, art. 7, 004; En vigueur : 16-04-2007&gt; Toute personne qui, dans le cadre de l'orientation professionnelle, de la formation professionnelle, de l'accompagnement de la carrière ou du placement tels que définis dans le présent décret, se rend coupable d'une discrimination directe sera punie d'un emprisonnement d'un mois à un an et d'une amende de 50 EUR à 1000 EUR ou de l'une de ces peines seulement.
+
+### Art. 12
+
+§ 1er. Lorsqu'un membre du personnel de l'autorité flamande ou de l'enseignement flamand[<sup>3</sup> a effectué un signalement ou a déposé plainte]<sup>3</sup> ou intenté une action en justice en vue du respect du présent décret, il ne peut être mis fin à la relation du travail et les conditions de travail ne peuvent pas être modifiées unilatéralement, sauf pour des motifs étrangers [<sup>3</sup> à ce signalement,]<sup>3</sup> à cette plainte ou à cette action en justice[<sup>3</sup>, ou à son contenu ]<sup>3</sup>.
+
+§ 2[<sup>3</sup> Pour bénéficier de la protection visée au paragraphe 1er, la personne à laquelle se rapporte la violation alléguée doit prouver qu'un signalement a été effectué, qu'une plainte a été déposée ou qu'une action en justice a été intentée en raison d'une infraction au présent décret. Cette preuve peut être apportée par toute voie de recours.
+
+Lorsque l'employeur, dans les 12 mois suivant la date à laquelle il a eu connaissance du signalement ou de la plainte, ou suivant la date à laquelle il aurait raisonnablement pu avoir connaissance du signalement ou de la plainte, licencie la personne à laquelle se rapporte la violation alléguée ou modifie unilatéralement les conditions de travail, la charge de la preuve que la mesure défavorable n'est pas liée au signalement ou à la plainte, ou à son contenu, incombe à l'employeur. Cette charge de la preuve repose également sur l'employeur en cas de licenciement ou de modification unilatérale des conditions de travail après qu'une action en justice a été intentée, et ce jusque trois mois après le jour où la décision judiciaire est passée en force de chose jugée.
+
+Lorsque la personne à laquelle se rapporte la violation alléguée effectue un signalement, dépose une plainte ou intente une action en justice, ou lorsqu'une personne telle que visée au paragraphe 6 accomplit les actes visés au paragraphe 6, cette personne peut demander une preuve écrite et datée à l'instance, à la personne morale, à l'association ou à l'organisation où le signalement est effectué, la plainte est déposée ou l'action en justice est intentée.
+
+Cette preuve écrite, fournie par l'instance, la personne morale, l'association ou l'organisation, visée à l'alinéa 3, comprend l'identité de la personne, les actions entreprises, la date de l'action et la date à laquelle la preuve a été demandée.]<sup>3</sup>.
+
+§ 3. Lorsque l'employeur met fin à la relation du travail ou modifie les conditions de travail de manière unilatérale en violation des dispositions du § 1er, le travailleur ou l'organisation des travailleurs à laquelle il est affilié, peut solliciter sa réintégration dans l'entreprise ou dans le service ou demander de pouvoir exécuter sa fonction dans les mêmes conditions que précédemment.
+
+La demande doit être introduite par lettre recommandée dans les trente jours suivant la date de la communication du préavis, du licenciement sans préavis ou de la modification unilatérale des conditions de travail. L'employeur doit se prononcer sur la demande dans les trente jours suivant la notification de la lettre.
+
+L'employeur qui réengage le travailleur dans l'entreprise ou dans le service ou qui lui permet d'exercer sa fonction dans les mêmes conditions qu'avant, est tenu de payer le manque à gagner en raison du licenciement ou de la modification des conditions de travail, et de verser les cotisations patronales et personnelles sur cette rémunération.
+
+§ 4. Lorsque le travailleur n'est pas réintégré ou ne peut exercer sa fonction dans les mêmes conditions, après la demande visée au § 3, alinéa premier, et qu'il a été jugé que le licenciement ou la modification unilatérale des conditions de travail va à l'encontre des dispositions du § 1er, l'employeur est tenu de payer au travailleur [<sup>3</sup> un dédommagement ]<sup>3</sup> qui, au choix du travailleur, est équivalente soit à un montant forfaitaire correspondant à la rémunération brute de six mois, soit au préjudice réellement subi par le travailleur; dans ce dernier cas, le travailleur doit pouvoir prouver l'ampleur du préjudice subi.
+
+[<sup>3</sup> Le dédommagement visé au présent paragraphe peut être cumulé avec les dédommagements pour discrimination, prévus à l'article 28, § 2, du décret du 10 juillet 2008 portant le cadre de la politique flamande de l'égalité des chances et de traitement. ]<sup>3</sup>
+
+§ 5. L'employeur est tenu de payer la même [<sup>3</sup> dédommagement ]<sup>3</sup> sans que le travailleur ne doive introduire la demande d'être réintégré ou de pouvoir exercer sa fonction dans les mêmes conditions qu'auparavant telle que visée au § 3, premier alinéa :
+
+1° lorsque le travailleur met fin au contrat de travail parce que le comportement de l'employeur est contraire aux dispositions du § 1er, ce qui constitue selon le travailleur un motif pour rompre le contrat de travail sans préavis ou avant son expiration;
+
+2° lorsque l'employeur a licencié le travailleur pour un motif grave, à condition que la juridiction compétente juge ce licenciement non fondé et contraire aux dispositions du § 1er.
+
+[<sup>3</sup> Le dédommagement visé au présent paragraphe peut être cumulé avec les dédommagements pour discrimination, prévus à l'article 28, § 2, du décret du 10 juillet 2008 portant le cadre de la politique flamande de l'égalité des chances et de traitement. ]<sup>3</sup>
+
+[<sup>1</sup> § 6. [<sup>2</sup> Les personnes qui apportent leur soutien à une victime de discrimination en la défendant ou en la représentant, ou en témoignant à son avantage, bénéficient de la même protection que celle mentionnée aux paragraphes 1er à 5.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/24, art. 3, 005; En vigueur : 05-06-2009&gt;
+
+(2)&lt;DCFL 2021-03-19/08, art. 2, 007; En vigueur : 09-04-2021&gt;
+
+(3)&lt;DCFL 2024-03-22/13, art. 3, 009; En vigueur : 01-06-2024&gt;
+
+### Art. 13
+
+Les clauses d'une convention, et les dispositions et règlements intérieurs d'organisations et d'entreprises qui sont contraires aux dispositions du présent décret ainsi que les clauses stipulant que l'une ou plusieurs parties contractantes renoncent d'office aux droits qui leur sont garantis par le présent décret, sont nuls et non avenus.
+
+### Art. 14
+
+Toute personne faisant preuve d'un intérêt peut intenter une action auprès de la juridiction compétente afin de faire appliquer les dispositions du présent décret. Lorsque cette personne invoque devant cette juridiction des faits faisant présumer l'existence d'une discrimination directe ou indirecte, la charge de la preuve quant à la non-violation du principe de l'égalité de traitement, incombe à la partie défenderesse.
+
+L'alinéa précédent ne s'applique pas aux procédures pénales, aux dispositions de l'article 12, § 2, ni aux autres dispositions légales plus favorables en matière de charge de la preuve.
+
+### Art. 15
+
+La juridiction qui est saisie d'un litige concernant l'application du présent décret peut obliger d'office toute personne ne respectant pas les dispositions de l'article 5 à mettre fin dans un délai fixé par elle et imposé à cette personne, à une situation reconnue comme discriminatoire en vertu des dispositions du présent décret ou de ses arrêtés d'exécution.
+
+### Art. 16
+
+Lorsqu'il est porté préjudice aux missions statutaires qu'elles se sont fixées, les associations ou organisations suivantes peuvent également ester en justice dans les litiges nés de l'application du présent décret :
+
+1° [<sup>1</sup> des instances d'utilité publique et des associations qui, à la date des faits, bénéficient depuis au moins trois ans de la personnalité juridique et qui, à la date des faits, ont inscrit depuis au moins trois ans dans leurs statuts leur objectif de défendre les droits de l'homme et de lutter contre la discrimination;]<sup>1</sup>
+
+2° les organisations représentatives des employeurs et des travailleurs, telles que définies à l'article 3 de la loi du 5 décembre 1968 sur les conventions collectives du travail et les commissions paritaires;
+
+3° les organisations représentatives au sens de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités;
+
+4° les organisations représentatives des indépendants.
+
+Lorsque la victime de l'infraction ou de la discrimination est une personne physique ou une personne morale, la demande des associations et organisations visées n'est recevable que si ces dernières démontrent agir avec le consentement de la victime.
+
+L'action fondée sur cet article est instruite selon les règles de procédure suivantes :
+
+1° les demandes sont formées par requête, notifiée par lettre recommandée à ou déposée auprès de la juridiction compétente;
+
+2° les jugements et arrêts sont notifiés aux parties intéressées par pli judiciaire ;
+
+3° les organisations représentatives visées à l'alinéa 2 peuvent se faire représenter devant la juridiction compétente par un représentant, titulaire d'une procuration écrite; au nom de l'organisation à laquelle il appartient, ce dernier peut poser tous actes relevant de cette représentation, introduire une requête, tenir un plaidoyer et recevoir toutes les communications concernant la procédure, le traitement et le jugement du litige.
+
+----------
+
+(1)&lt;DCFL 2009-04-30/24, art. 4, 005; En vigueur : 05-06-2009&gt;
+
+### Art. 17
+
+&lt;DCFL 2007-03-09/41, art. 8, 004; En vigueur : 16-04-2007&gt; A toute personne qui, au marché de l'emploi flamand, commet un acte discriminatoire à l'encontre d'une personne en raison de son sexe, sa prétendue race, son origine ethnique, sa religion ou ses convictions, un handicap, son âge ou son orientation sexuelle, peut être infligée, pour autant que les faits puissent donner lieu à une poursuite pénale et sauf si l'acte discriminatoire fait l'objet d'une action en justice, [<sup>1</sup> une amende administrative de 250 à 2.500 EUR]<sup>1</sup>. Ces montants sont également applicables à l'employeur ou l'organisation intermédiaire qui ne donne pas suite, dans le délai fixé par le tribunal, à l'ordonnance judiciaire émise sur la base de l'article 15, de mettre fin à la situation discriminatoire. L'amende administrative est imposée par le fonctionnaire ou les fonctionnaires désigné(s) par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2010-12-10/12, art. 35, 006; En vigueur : 01-01-2011&gt;
+
+### Art. 17bis.
+
+[<sup>1</sup> Tout jugement ou arrêt rendu par les cours et tribunaux sur la base du présent décret est notifié à l'Institut flamand des droits de l'homme, visé au décret du 28 octobre 2022 portant création d'un Institut flamand des droits de l'homme, par le greffier de la juridiction concernée, dans un délai de huit jours à compter du jugement.
+
+En outre, le greffier de la cour ou du tribunal où un recours, une opposition ou une tierce opposition a été formé contre une décision judiciaire telle que visée à l'alinéa 1er, en informe immédiatement l'Institut flamand des droits de l'homme précité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 4, 009; En vigueur : 01-06-2024&gt;
+
+### Art. 18
+
+L'article 581, 3°, du Code judiciaire est remplacé par :
+
+" 3° des contestations fondées sur l'application du décret relatif à la participation proportionnelle sur le marché de l'emploi et sur ses arrêtés d'exécution. "
+
+## CHAPITRE V. - Dispositions finales.
+
+### Art. 19
+
+(Abrogé) &lt;DCFL 2004-04-30/60, art. 22, 003 ; En vigueur : 01-10-2004&gt;
+
+### Art. 20
+
+Le Titre V de la loi du 4 août 1978 de réorientation professionnelle est abrogé pour ce qui concerne la Communauté flamande et la Région flamande.
+
+### Art. 21
+
+L'article 1er, 32°, e, f, g, h, i, l et m de la loi du 30 juin 1971 relative aux amendes administratives applicables en cas d'infraction à certaines lois sociales est abrogé pour ce qui concerne la Communauté flamande et la Région flamande.
+
+### Art. 22
+
+Aux articles 1er et 2 de la loi du 1er juillet 1963 portant instauration de l'octroi d'une indemnité de promotion sociale, les mots " âgés de moins de quarante ans " sont supprimés.
+
+### Art. 23
+
+Le présent décret entre en vigueur le premier jour du troisième mois suivant sa publication au Moniteur belge.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 8 mai 2002.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL
+
+Le Ministre flamande de l'Aide sociale, de la Santé et de l'Egalité des Chances,
+
+M. VOGELS
+
+Le Ministre flamande de l'Enseignement et de la Formation,
+
+M. VANDERPOORTEN
+
+Le Ministre flamand de l'Emploi et du Tourisme
+
+R. LANDUYT
+
+Le Ministre flamand des Affaires intérieures, de la Fonction publique et de la Politique extérieure,
+
+P. VAN GREMBERGEN
+
+Le Ministre flamand de l'Economie, du Commerce extérieur et du Logement,
+
+J. GABRIELS.

@@ -1,0 +1,535 @@
+---
+title: "Décret portant protection du patrimoine nautique (TRADUCTION)."
+identifier: "2002035603"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/29/2002035603/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2002-03-29
+published: 2002-05-18
+entry_into_force: 2002-05-28
+last_amended: 2024-06-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/29/2002035603/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 18-05-2002 et mise à jour au 17-06-2024"
+retrieved: 2026-10-12
+---
+
+# 29 MARS 2002. - Décret portant protection du patrimoine nautique (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+### Art. 1
+
+Le présent décret règle une matière communautaire.
+
+### Art. 2
+
+Au sens du présent décret on entend par :
+
+1° patrimoine nautique : le patrimoine nautique [<sup>2</sup> qui peut naviguer ou flotter, ou qui peut être rendu navigable ou flottable]<sup>2</sup>, notamment les navires, les bateaux et les établissements flottants, y compris leur équipement et leurs moyens de propulsion, dont la préservation est importante en raison de leur valeur historique, scientifique, d'archéologie industrielle [<sup>2</sup> , esthétique]<sup>2</sup> ou d'une autre valeur socioculturelle;
+
+2° [<sup>2</sup> l'agence : l'entité qui est chargée par le Gouvernement flamand de la préparation de la politique, de l'exécution de la politique, du contrôle de la politique et de l'évaluation de la politique en matière de patrimoine immobilier ;]<sup>2</sup>
+
+3° [<sup>2</sup> propriétaire : le détenteur du droit réel, étant le propriétaire, le nu-propriétaire ou le donneur de leasing ;]<sup>2</sup>
+
+4° utilisateur : la personne physique ou morale qui n'est pas le propriétaire, mais peut faire valoir un droit réel ou personnel, notamment le créditeur hypothécaire et le détenteur du droit de gage ou de rétention;
+
+5° [<sup>1</sup> la commission : la Commission flamande pour le Patrimoine nautique.]<sup>1</sup>
+
+[<sup>2</sup> 6° envoi sécurisé : un des modes de notification suivants :
+
+a) une lettre recommandée ;
+
+b) une remise contre récépissé ;
+
+c) toute autre modalité de notification autorisée par le Ministre par laquelle la date de notification peut être établie avec certitude.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2013-07-12/44, art. 12.1.24; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+(2)&lt;DCFL 2014-05-09/40, art. 2, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3
+
+(Abrogé) &lt;DCFL 2006-03-10/61, art. 124, 002; En vigueur : 01-07-2006&gt;
+
+## CHAPITRE I/1. [<sup>1</sup> - Inventaire du patrimoine nautique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 3, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3/1
+
+[<sup>1</sup> Le Gouvernement flamand peut entièrement ou partiellement établir le patrimoine nautique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 4, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3/2
+
+[<sup>1</sup> Le patrimoine nautique peut être repris dans l'inventaire établi du patrimoine nautique s'il possède une ou plusieurs valeurs patrimoniales et est suffisamment conservé ou est éligible à une restauration en un objet naviguant ou flottant.
+
+Le patrimoine nautique peut être rayé de l'inventaire établi du patrimoine nautique s'il ne possède plus une ou plusieurs valeurs patrimoniales ou s'il n'est plus suffisamment conservé et n'est pas éligible à une restauration en un objet naviguant ou flottant.
+
+Le Gouvernement flamand établit les critères pour reprendre le patrimoine nautique dans l'inventaire ou de le rayer ce ce dernier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 5, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3/3
+
+[<sup>1</sup> Le Gouvernement flamand peut actualiser l'inventaire établi du patrimoine nautique et y ajouter ou supprimer du patrimoine nautique.
+
+Préalablement, le Gouvernement flamand recueille l'avis à ce sujet auprès de la commission. Cet avis est émis dans un délai d'échéance de trente jours prenant cours le jour suivant celui de la réception de la demande d'avis. En cas de dépassement de ce délai, il peut être passé outre l'exigence d'avis. Le délai de trente jours peut être prolongé une fois d'une période de trente jours par le Gouvernement flamand à la demande de la commission. Le Gouvernement flamand peut fixer les modalités relatives à la procédure d'avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 6, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3/4
+
+[<sup>1</sup> Les membres de la commission, les fonctionnaires de l'agence et les personnes désignées par le Gouvernement flamand ont, si tel est nécessaire pour l'enquête en vue de la préparation de l'établissement de l'inventaire du patrimoine nautique, accès au patrimoine nautique, mais pas aux parties qui sont utilisées comme logement ou local d'entreprise sauf s'ils y sont autorisés par le propriétaire ou utilisateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 7, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3/5
+
+[<sup>1</sup> L'inventaire établi du patrimoine nautique comprend pour chaque bien qui y est repris au moins les données suivantes :
+
+1° la dénomination ;
+
+2° une photo ;
+
+3° pour autant que cela soit connu, l'article de l'immatriculation, le numéro d'enregistrement auprès de la conservation des hypothèques maritimes ou un autre mode d'identification ;
+
+4° une description sur la base des valeurs,-, visées à l'article 2, 1°.
+
+Le Gouvernement flamand peut décrire ou étendre les données devant être reprises dans l'inventaire pour chaque bien patrimonial nautique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 8, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3/6
+
+[<sup>1</sup> Préalablement à l'établissement de l'inventaire du patrimoine nautique, le Gouvernement flamand recueille l'avis à ce sujet auprès de la commission. Cet avis est émis dans un délai d'échéance de trente jours prenant cours le jour suivant celui de la réception de la demande d'avis. En cas de dépassement de ce délai, il peut être passé outre l'exigence d'avis. Le délai de trente jours peut être prolongé une fois d'une période de trente jours par le Gouvernement flamand à la demande de la commission. Le Gouvernement flamand peut fixer les modalités relatives à la procédure d'avis.]<sup>1</sup>&gt;
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 9,004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3/7
+
+[<sup>1</sup> L'agence rend l'inventaire établi du patrimoine nautique disponible au public par voie électronique. Le Gouvernement flamand peut en arrêter les modalités.]<sup>1</sup>&gt;
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 10, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 3/8
+
+[<sup>1</sup> Un sigle distinctif peut être apposé par le propriétaire ou l'utilisateur sur le patrimoine nautique qui a été repris dans l'inventaire établi du patrimoine nautique. Le Gouvernement flamand arrête les modalités du modèle et de l'utilisation de ce sigle distinctif.]<sup>1</sup>&gt;
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 11, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)
+
+### Art. 3/9
+
+[<sup>1</sup> Les propriétaires et les utilisateurs du patrimoine nautique qui a été repris dans l'inventaire du patrimoine nautique, peuvent être exemptés, suivant les modalités a fixer par le Gouvernement flamand :
+
+1° des droits maritimes ;
+
+2° des taxes ou droit de port, de quai, d'écluse, de pont, de passage, de tonnage et de passagers, quelque soit leur dénomination ;
+
+3° des droits et indemnités de pilotage ;
+
+4° des indemnités dues par les utilisateurs du système d'assistance au trafic pour navires ;
+
+5° des rétributions pour l'établissement, la délivrance ou la modification de documents relatifs à l'embarcation qui sont prescrits par les lois, décrets et règlements ;
+
+6° des rétributions pour la fourniture de publications et la délivrance de plaques d'immatriculation et autres marques distinctives relatives à l'embarcation qui sont prescrites par les lois, décrets et règlements.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 12, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+## CHAPITRE II. - Protection.
+
+### Art. 4
+
+§ 1er. Le Gouvernement flamand arrête la protection provisoire du patrimoine nautique.
+
+[<sup>1</sup> Préalablement à la protection provisoire, le Gouvernement flamand recueille l'avis auprès de la commission. Cet avis est émis dans un délai d'échéance de trente jours prenant cours le jour suivant celui de la réception de la demande d'avis. En cas de dépassement de ce délai, l'avis est réputé être favorable. Le délai de trente jours peut être prolongé une fois d'une période de trente jours par le Gouvernement flamand à la demande de la commission. Il peut être passé outre à l'exigence d'avis en cas de nécessité urgente. Le Gouvernement flamand peut fixer les modalités relatives à la procédure d'avis.]<sup>1</sup>
+
+Le Gouvernement flamand mentionne la motivation de la protection.
+
+Le Gouvernement flamand mentionne notamment :
+
+1° [<sup>1</sup> pour autant que connu,]<sup>1</sup> l'article d'enregistrement ou le numéro d'enregistrement au registre des hypothèques maritimes ou un autre mode d'identification du patrimoine nautique;
+
+2° les objectifs de la gestion future en vue de la conservation et du développement des valeurs qui ont donné lieu à la protection.
+
+§ 2. Les arrêtés de protection provisoire sont :
+
+1° [<sup>1</sup> notifiés au propriétaire par envoi sécurisé ;]<sup>1</sup>
+
+2° transmis pour information à la (commission), qui peut formuler un avis raisonné en la matière; &lt;DCFL 2006-03-10/61, art. 125, 1°, 002; En vigueur : 01-07-2006&gt;
+
+3° publiés par extrait au Moniteur belge.
+
+§ 3. [<sup>1</sup> Le propriétaire communique, le cas échéant, la protection provisoire à l'utilisateur par envoi sécurisé dans les dix jours de la date de la notification. Cette obligation est mentionnée dans l'envoi sécurisé.]<sup>1</sup>
+
+Le propriétaire et l'utilisateur peuvent communiquer leurs observations et objections à (l'agence) dans les soixante jours de la date [<sup>1</sup> de l'avis]<sup>1</sup>. &lt;DCFL 2006-03-10/61, art. 125, 2°, 002; En vigueur : 01-07-2006&gt;
+
+En cas de cession, le propriétaire informe le nouveau propriétaire de la protection provisoire et met (l'agence) au courant de la cession. &lt;DCFL 2006-03-10/61, art. 125, 2°, 002; En vigueur : 01-07-2006&gt;
+
+§ 4. [<sup>1</sup> A compter du jour de la réception de la notification, visée à l'article 2.6, le patrimoine nautique, visé à l'arrêté de protection provisoire est couvert provisoirement, pendant un délai de maximum neuf fois, par les conséquences juridiques d'une protection.
+
+Le Gouvernement flamand peut prolonger ce délai une fois d'une période de maximum trois mois. Le propriétaire est informé par envoi sécurisé de l'arrêté de prolongation de protection provisoire du patrimoine nautique. Le propriétaire communique la prolongation de la protection provisoire à l'utilisateur par envoi sécurisé dans les dix jours de la date de la notification. Cette obligation est mentionnée dans l'envoi sécurisé.
+
+Les conséquences juridiques d'un arrêté de protection provisoire s'appliquent :
+
+1° aux propriétaires à compter de la notification visée au paragraphe 2, 1° ;
+
+2° aux utilisateurs à compter de la communication par les propriétaires, visée au paragraphe 3 ;
+
+3° à chacun à partir de la publication visée au paragraphe 2, 3°.
+
+L'arrêté de protection provisoire du patrimoine nautique échoit de plein droit si le Gouvernement flamand n'a pris aucun arrêté de protection définitive dans les délais visés à l'arrêté précité.
+
+Le Gouvernement flamand peut abroger la protection provisoire du patrimoine nautique. Cet arrêté est notifié de la manière visée au paragraphe 2. Le propriétaire communique l'abrogation de la protection provisoire à l'utilisateur par envoi sécurisé dans les dix jours de la date de la notification. Cette obligation est mentionnée dans l'envoi sécurisé]<sup>1</sup>
+
+§ 5. Les membres de la (commission, les fonctionnaires de l'agence et les personnes désignées par le Gouvernement flamand) ont accès aux bateaux dans la mesure où cela s'impose en vue de l'examen préliminaire pour la protection définitive du patrimoine nautique. Ils n'ont pas accès aux pièces d'habitation [<sup>1</sup> ou au local d'entreprise sauf s'ils ont l'autorisation du propriétaire ou de l'utilisateur à cet effet]<sup>1</sup>. &lt;DCFL 2006-03-10/61, art. 125, 3°, 002; En vigueur : 01-07-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2014-05-09/40, art. 13, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 5
+
+§ 1er. Le Gouvernement flamand arrête la protection définitive du patrimoine nautique protégé provisoirement.
+
+[<sup>1</sup> Le Gouvernement flamand peut recueillir un avis concernant la protection définitive auprès de la commission. Si en application de l'article 4, § 1er, alinéa deux, aucun avis préalable n'a été demandé à cause d'une urgence, le Gouvernement flamand recueillit un avis concernant la protection définitive auprès de la commission. Cet avis est émis dans un délai d'échéance de trente jours prenant cours le jour suivant celui de la réception de la demande d'avis. En cas de dépassement de ce délai, il peut être passé outre l'exigence d'avis. Le délai de trente jours peut être prolongé une fois d'une période de trente jours par le Gouvernement flamand à la demande de la commission. Le Gouvernement flamand peut fixer les modalités relatives à la procédure d'avis.]<sup>1</sup>
+
+Le Gouvernement flamand mentionne la motivation de la protection.
+
+Le Gouvernement flamand mentionne notamment :
+
+1° [<sup>1</sup> pour autant que connu,]<sup>1</sup> l'article d'enregistrement ou le numéro d'enregistrement au registre des hypothèques maritimes ou un autre mode d'identification du patrimoine nautique;
+
+2° les objectifs de la gestion future en vue de la conservation et du développement des valeurs qui ont donné lieu à la protection.
+
+§ 2. L'arrêté de protection définitive est :
+
+1° [<sup>1</sup> notifié au propriétaire par envoi sécurisé, qui en informe l'utilisateur dans les dix jours de la date de la notification. Cette obligation est mentionnée dans l'envoi sécurisé ;]<sup>1</sup>
+
+2° publié par extrait au Moniteur belge ;
+
+3° inscrit auprès du conservateur des hypothèques maritimes, au registre des bateaux de navigation intérieure ou au registre des navires de mer s'il s'agit de patrimoine flottant enregistré, ou simplement déposé au registre de dépôt s'il s'agit de patrimoine flottant non enregistré.
+
+§ 3. En cas de cession, le propriétaire informe le nouveau propriétaire de la protection définitive et met (l'agence) au courant de la cession. &lt;DCFL 2006-03-10/61, art. 126, 1°, 002; En vigueur : 01-07-2006&gt;
+
+§ 4. [<sup>1</sup> Les conséquences juridiques d'un arrêté de protection définitive du patrimoine nautique s'appliquent :
+
+1° aux propriétaires à compter de la notification visée au paragraphe 2, 1° ;
+
+2° aux utilisateurs à compter de la communication, visée au paragraphe 2, 1° ;
+
+3° à chacun à partir de la publication visée au paragraphe 2, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-05-09/40, art. 14, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 5/1
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand peut modifier ou abroger un arrêté de protection définitive du patrimoine nautique.
+
+§ 2. Les dispositions de l'article 4, § 1er, alinéas premier et deux, de l'article 4, § 2, § 3 et § 4, et de l'article 5, § 1er, s'appliquent par analogie à la modification provisoire ou définitive ou à l'abrogation d'un arrêté de protection définitive.
+
+L'arrêté de modification ou d'abrogation contient au moins les données suivantes :
+
+1° l'intitulé de l'arrêté qui est modifié ou abrogé ;
+
+2° la date de publication au Moniteur belge de l'arrêté qui est modifié ou abrogé ;
+
+3° pour autant que cela soit connu, l'article de l'immatriculation, le numéro d'enregistrement auprès de la conservation des hypothèques maritimes ou un autre mode d'identification du patrimoine nautique ;
+
+4° les motifs de la modification ou de l'abrogation ;
+
+5° dans le cas d'une modification, un description de l'impact sur les valeurs qui ont mené à la protection et une description de l'impact sur les objectif de gestion ;
+
+6° l'indication des valeurs à enregistrer et à documenter qui se perdent.
+
+La décision de modification ou d'abrogation définitive contient au moins les données suivantes :
+
+1° l'intitulé de l'arrêté qui est modifié ou abrogé ;
+
+2° la date de publication au Moniteur belge de l'arrêté qui est modifié ou abrogé ;
+
+3° pour autant que cela soit connu, l'article de l'immatriculation, le numéro d'enregistrement auprès de la conservation des hypothèques maritimes ou un autre mode d'identification du patrimoine nautique ;
+
+4° les motifs de la modification ou de l'abrogation ;
+
+5° dans le cas d'une modification, un description de l'impact sur les valeurs qui ont mené à la protection et une description de l'impact sur les objectif de gestion ;
+
+6° l'indication des valeurs à enregistrer et à documenter qui se perdent.
+
+§ 3. Jusqu'à la date de l'établissement de l'arrêté de modification définitive ou d'abrogation, les conséquences juridiques de l'arrêté de protection définitive restent en vigueur.
+
+Les conséquences juridiques d'une décision de modification ou de suppression s'appliquent :
+
+1° aux propriétaires à partir de la notification visée à l'article 5, § 2, 1° ;
+
+2° aux utilisateurs à partir de la notification visée à l'article 5, § 2, 1° ;
+
+3° à chacun à partir de la publication au Moniteur belge de l'arrêté de modification ou d'abrogation, visé à l'article 5, § 2, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 15, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 6
+
+(L'agence) tient une liste du patrimoine nautique protégé définitivement. Le Gouvernement flamand règle l'organisation et l'utilisation de la liste. &lt;DCFL 2006-03-10/61, art. 127, 002; En vigueur : 01-07-2006&gt;
+
+### Art. 7
+
+Un signe distinctif peut être apposé sur le patrimoine nautique protégé définitivement.
+
+Le Gouvernement flamand fixe le modèle et l'usage de ce signe.
+
+## CHAPITRE III. [<sup>1</sup> - Conséquences juridiques d'une protection]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-05-09/40, art. 16, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)
+
+### Art. 8
+
+§ 1er. Le propriétaire et l'utilisateur d'un patrimoine nautique protégé provisoirement ou définitivement sont tenus de conserver le [<sup>1</sup> patrimoine nautique protégé]<sup>1</sup> en bon état par les travaux de maintenance et d'entretien requis [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Le Gouvernement flamand arrête les prescriptions générales d'application à la préservation et à l'entretien.]<sup>1</sup>
+
+[<sup>1</sup> Les opérations au ou dans un patrimoine nautique provisoirement ou définitivement protégé ne peuvent pas être entamées sans avoir été communiquées à l'agence. Le Gouvernement flamand désigne les opérations qui ressortent de l'application du présent alinéa et peut arrêter les modalités de la procédure de communication. Si en vue de l'exécution des opérations désignées par le Gouvernement flamand, le patrimoine nautique provisoirement ou définitivement protégé est déplacé en dehors de la Communauté flamande, aucune autorisation, conformément au paragraphe 5, pour la période requise à cet effet ne doit être demandée.]<sup>1</sup>
+
+§ 2. En vue de la réalisation des objectifs de gestion, le propriétaire peut établir ou faire établir un programme de gestion pour le patrimoine nautique.
+
+§ 3. Le Gouvernement flamand fixe les conditions auxquelles doit répondre le programme de gestion et arrête la procédure d'approbation du programme de gestion visé au § 2.
+
+§ 4. [<sup>1</sup> Le propriétaire signale à l'agence toute modification du lieu de mouillage fixe d'un patrimoine nautique provisoirement ou définitivement protégé. Le Gouvernement flamand peut en arrêter les modalités à cet effet.
+
+Dans l'alinéa premier, il faut entendre par lieu de mouillage fixe, une des possibilités suivantes :
+
+1° le lieu sur l'eau où le patrimoine nautique provisoirement ou définitivement protégé est présent en permanence ou à une base de départ réelle pendant au moins trois mois par an ;
+
+2° la remise sur terre pendant au moins trois mois en vue de travaux de restauration de longue durée ou de la désactivation temporaire de la navigation.]<sup>1</sup>
+
+[<sup>1</sup> § 5. Il est interdit de déplacer un patrimoine nautique provisoirement ou définitivement protégé en dehors de la Communauté flamande sans autorisation de l'agence. Le Gouvernement flamand fixe les modalités d'application à la demande et à la délivrance de l'autorisation, ainsi que ces conditions et la durée de validité et son renouvellement périodique.
+
+Si le patrimoine nautique provisoirement ou définitivement protégé est également protégé sur la base du décret du 24 janvier 2003 relatif à la protection du patrimoine culturel mobilier présentant un intérêt exceptionnel, le présent paragraphe ne s'applique que sur la demande explicite du Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-05-09/40, art. 17, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 8/1
+
+[<sup>1</sup> Il est interdit d'abîmer, d'endommager ou de détruire un patrimoine nautique provisoirement ou définitivement protégé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 18;, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+## CHAPITRE IV. - Aides à la gestion.
+
+### Art. 9
+
+§ 1er. Dans les limites des crédits budgétaires, le Gouvernement flamand fixe un régime de prime de gestion pour le patrimoine nautique, en vue de la réalisation du programme de gestion [<sup>1</sup> approuvé]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. La prime de gestion est octroyée au propriétaire ou à l'utilisateur qui supporte les frais des travaux et des services liés à l'exécution du programme de gestion [<sup>1</sup> approuvé]<sup>1</sup>.
+
+En ce qui concerne les travaux exécutés en régie, seuls le coût de la livraison de matériaux et de services est pris en compte.
+
+§ 3. La prime de gestion peut se cumuler avec d'autres aides publiques jusqu'au plafond de la totalité des coûts pris en compte. Lorsque les autres aides publiques égalent ou dépassent la totalité des frais pris en compte par (l'agence), aucune prime de gestion n'est octroyée. &lt;DCFL 2006-03-10/61, art. 128, 002; En vigueur : 01-07-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2014-05-09/40, art. 19, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 10
+
+Le Gouvernement flamand fixe la nature des travaux et services visés à l'article 9, § 1er, et des coûts qui, dans le cadre d'un programme de gestion [<sup>1</sup> approuvé]<sup>1</sup>, sont pris en compte partiellement ou totalement pour la prime. Il fixe les conditions générales, la composition du dossier et arrête la procédure.
+
+----------
+
+(1)&lt;DCFL 2014-05-09/40, art. 20, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 11
+
+La prime de gestion ne peut être supérieur à 80 % des frais pris en compte.
+
+### Art. 11/1
+
+[<sup>1</sup> Le Gouvernement flamand peut, dans les limites des crédits disponibles à cet effet au budget de la Communauté flamande, accorder des primes d'entretien pour des travaux à un patrimoine nautique provisoirement ou définitivement protégé. Le Gouvernement flamand établit une liste des travaux qui y sont éligibles et fixe les modalités de la demande et de l'octroi de la prime d'entretien.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 21, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 11/2
+
+[<sup>1</sup> Conformément à l'article 9, § 1er, et à l'article 11/1, aucune prime ne peut être accordée pour des travaux et pour des services qui sont entrepris pour un patrimoine nautique par ou sur ordre de l'état, des communautés et régions, et les organismes publics qui en dépendent ou qui sont la propriété des provinces ou des régies provinciales autonomes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 22, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+### Art. 12
+
+Le Gouvernement flamand fixe les autres facilités et exonérations pour la gestion du patrimoine nautique protégé définitivement.
+
+## CHAPITRE V. - Maintien.
+
+### Art. 13
+
+[<sup>1</sup> § 1er. Le Décret-cadre Maintien flamand du 14 juillet 2023, y compris le chapitre 10, sections 2, 3, 4, 6, 8, 9, 10, 11 [1 , 12 et 13]1, s'applique au présent titre.
+
+En complément de l'article 71, § 2, alinéa 3, du Décret-cadre Maintien flamand du 14 juillet 2023, l'exécution de mesures de réparation et de sécurité publiques est dispensée de permis, permissions ou autorisations qui sont introduits par le présent décret ou le Code flamand de l'Aménagement du Territoire du 15 mai 2009.
+
+§ 2. L'exécution d'actes conformément aux mesures qui ont été prises dans une disposition de réparation, n'entraîne jamais la déchéance du droit de demander une prime pour les actes précités selon les règles normalement en vigueur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 43, 005; En vigueur : 01-04-2026&gt;
+
+### Art. 13/1
+
+[<sup>1</sup> § 1er. Les actes ou négligences suivants sont punis d'une peine d'emprisonnement de huit jours à cinq ans et d'une amende de 26 euros à 400.000 euros ou d'une de ces peines seulement :
+
+1° le non respect par le propriétaire et par l'utilisateur du principe de préservation actif, visé à l'article 8, § 1er ;
+
+2° le non-respect du principe de préservation passif visé à l'article 8/1 ;
+
+3° le non respect de l'obligation d'autorisation, visée à l'article 8, § 5 ;
+
+4° le maintien de dommages à des valeurs patrimoniales provoqués par les délits visés dans les points 1° à 3° inclus ;
+
+5° le fait que le propriétaire autorise ou accepte qu'un des délits, visés aux points 1° à 4° inclus, soit commis ou maintenu.
+
+§ 2. [<sup>2</sup> Les délits, visés au paragraphe 1er, qui font l'objet de poursuites administratives, sont sanctionnés par une amende administrative alternative de 6 euros à 50 000 euros.
+
+L'amende administrative visée à l'alinéa 1er est majorée des décimes additionnels applicables aux amendes pénales]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-05-09/40, art. 24, 004; En vigueur : 01-01-2016 (AGF 2015-11-27/15, art. 56, 1°)&gt;
+
+(2)&lt;DCFL 2024-04-26/52, art. 44, 005; En vigueur : 01-04-2026&gt;
+
+### Art. 13/2
+
+[<sup>1</sup> Le non-respect des obligations de notification et d'avis, visées à l'article 4, § 3, à l'article 5, § 2 et § 3, et à l'article 8, § 1er et § 4, du présent décret, peut être sanctionné d'une amende administrative exclusive de 6 euros à 10 000 euros.
+
+L'amende administrative visée à l'alinéa 1er est majorée des décimes additionnels applicables aux amendes pénales.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 45, 005; En vigueur : 01-04-2026&gt;
+
+### Art. 13/3
+
+[<sup>1</sup> Pour le maintien du présent décret, les inspecteurs du Patrimoine immobilier, visés à l'article 2.1, 29°, du Décret relatif au Patrimoine immobilier du 12 juillet 2013, disposent de la qualité d'officier de police judiciaire - officier auxiliaire du procureur du Roi, superviseur et instance de réparation telle que visée au Décret-cadre Maintien flamand du 14 juillet 2023. En leur qualité de superviseur, ils disposent de la compétence, visée à l'article 23 du décret précité.
+
+Le Gouvernement flamand ou son mandataire désigne les membres du personnel de l'Autorité flamande qui interviennent comme instance verbalisante telle que visée à l'article 2, 3°, du Décret-cadre Maintien flamand du 14 juillet 2023.
+
+Les membres du personnel de l'agence qui étaient habilités à prodiguer des conseils avant la date d'entrée en vigueur de l'article 90 du décret du 26 avril 2024 modifiant divers décrets, en ce qui concerne la mise en oeuvre du Décret-cadre Maintien flamand du 14 juillet 2023, obtiennent de plein droit la qualité de superviseur, n'étant pas un agent de la police judiciaire, tant qu'ils remplissent les conditions du Décret-cadre Maintien flamand du 14 juillet 2023 pour être désignés dans cette fonction et pour la durée courant de leur désignation à l'abrogation de celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 46, 005; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE VI. - [<sup>1</sup> Commission flamande pour le Patrimoine nautique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-12/44, art. 12.1.25; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+### Art. 14
+
+[<sup>1</sup> Il est créé une commission flamande pour le patrimoine nautique sous la dénomination de la Commission flamande pour le Patrimoine nautique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-12/44, art. 12.1.26; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+### Art. 15
+
+[<sup>1</sup> Le Gouvernement flamand :
+
+1° arrête la composition, l'organisation et le fonctionnement de la Commission flamande pour le Patrimoine nautique;
+
+2° nomme les membres et suppléants de la Commission flamande pour le Patrimoine nautique;
+
+3° met les moyens nécessaires à la disposition de la Commission flamande pour le Patrimoine nautique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-12/44, art. 12.1.27; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+### Art. 16
+
+[<sup>1</sup> Le secrétariat de la Commission flamande pour le Patrimoine nautique est assumé par le secrétariat du conseil d'avis stratégique créé en vertu du décret du 10 mars 2006 portant création d'un " strategische adviesraad Ruimtelijke Ordening. - Onroerend Erfgoed " (Conseil d'avis stratégique de l'Aménagement du Territoire. - Patrimoine immobilier). Le Gouvernement flamand peut en arrêter les modalités.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-12/44, art. 12.1.28; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+### Art. 17
+
+[<sup>1</sup> La Commission flamande pour le Patrimoine nautique établit son règlement d'ordre intérieur et le soumet au Gouvernement flamand pour accord.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-12/44, art. 12.1.29; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+### Art. 18
+
+[<sup>1</sup> La Commission flamande pour le Patrimoine nautique remet des avis dans les cas et compte tenu des délais mentionnés dans ce décret. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-12/44, art. 12.1.30; En vigueur : 01-01-2015 (AGF 2014-05-16/42, art. 13.4.1)&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 29 mars 2002.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL
+
+Le Ministre flamand de la Culture, de la Jeunesse, des Sports, des Affaires bruxelloises et de la Coopération au Développement,
+
+B. ANCIAUX
+
+Le Ministre flamand des Affaires intérieures, du Logement et de la Fonction publique,
+
+P. VAN GREMBERGEN.

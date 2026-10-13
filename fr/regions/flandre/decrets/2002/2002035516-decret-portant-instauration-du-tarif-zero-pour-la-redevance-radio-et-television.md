@@ -1,0 +1,59 @@
+---
+title: "Décret portant instauration du tarif zéro pour la redevance radio et télévision (TRADUCTION)."
+identifier: "2002035516"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/29/2002035516/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2002-03-29
+published: 2002-04-27
+entry_into_force: 2002-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/29/2002035516/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 29 MARS 2002. - Décret portant instauration du tarif zéro pour la redevance radio et télévision (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Il est ajouté, pour ce qui concerne la Région flamande, un deuxième alinéa à l'article 2 de la loi du 13 juillet 1987 relative aux redevances radio et télévision, rédigé comme suit :
+
+" Pour les périodes définies aux articles 7 et 8 qui prennent cours le 1er janvier 2002 ou à une date ultérieure, la redevance radio annuelle est réduite à zéro. "
+
+## Art. 3
+
+Il est ajouté, pour ce qui concerne la Région flamande, un quatrième alinéa dans l'article 3 de la même loi, rédigé comme suit :
+
+" Pour les périodes définies aux articles 7 et 8 qui prennent cours le 1er janvier 2002 ou à une date ultérieure, la redevance télévision annuelle est réduite à zéro. "
+
+## Art. 4
+
+Pour ce qui concerne la Région flamande, les articles 6, 9, 10 et 12 à 28 inclus de la même loi, sont abrogés.
+
+Tous les articles cités à l'alinéa précédent, restent d'application pour la redevance radio et télévision due pour les périodes qui prennent cours avant la date d'entrée en vigueur du présent décret.
+
+## Art. 5
+
+Le présent décret produit ses effets le 1er janvier 2002.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 29 mars 2002.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL
+
+Le Ministre flamand des Finances et du Budget, de l'Innovation, des Médias et de l'Aménagement du Territoire,
+
+D. VAN MECHELEN.

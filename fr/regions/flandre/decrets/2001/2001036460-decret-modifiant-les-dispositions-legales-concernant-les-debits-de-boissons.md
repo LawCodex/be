@@ -1,0 +1,53 @@
+---
+title: "Décret modifiant les dispositions légales concernant les débits de boissons fermentées, coordonnées le 3 avril 1953 (TRADUCTION).HI:??2,Session 2000-2001. Documents. - Proposition de décret, 694 - N° 1. - Amendements, 694 - N° 2. Session 2001-2002. Documents. - Rapport, 694 - N° 3. - Texte adopté par l'assemblée plénière, 694 - N° 4. Annales. - Discussion et adoption : Séances du 28 novembre 2001."
+identifier: "2001036460"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/07/2001036460/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2001-12-07
+published: 2002-01-15
+entry_into_force: 2002-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/07/2001036460/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 7 DECEMBRE 2001. - Décret modifiant les dispositions légales concernant les débits de boissons fermentées, coordonnées le 3 avril 1953 (TRADUCTION).HI:??2,Session 2000-2001. Documents. - Proposition de décret, 694 - N° 1. - Amendements, 694 - N° 2. Session 2001-2002. Documents. - Rapport, 694 - N° 3. - Texte adopté par l'assemblée plénière, 694 - N° 4. Annales. - Discussion et adoption : Séances du 28 novembre 2001.
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Dans les dispositions légales concernant les débits de boissons fermentées, coordonnées le 3 avril 1953, modifiées par les lois des 6 juillet 1967, 10 octobre 1967, 6 juillet 1978, et l'arrêté royal du 20 juillet 2000, il est inséré un chapitre Vbis, consistant en l'article 27bis, rédigé comme suit :
+
+"CHAPITRE Vbis. - Dispositions propres à la Région flamande.
+
+Art. 27bis. Pour les taxes visées au chapitre III, consistant en les articles 8 à 25ter, chapitre IV, consistant en l'article 26 et le chapitre V, consistant en l'article 27, les taux d'imposition sont réduits à zéro pour ce qui concerne la Région flamande. ".
+
+## Art. 3
+
+Pour les débits qui étaient déjà ouverts à la date de l'entrée en vigueur du présent décret et qui sont soumis à la taxe quinquennale instaurée par l'article 26 du même décret, les dispositions modifiées par le présent décret ne sont applicables qu'à l'issue des périodes de respectivement quinze ou cinq ans.
+
+## Art. 4
+
+Le présent décret entre en vigueur le 1er janvier 2002.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 décembre 2001.
+
+Le Ministre-Président du Gouvernement flamand,
+
+P. DEWAEL
+
+Le Ministre flamand des Finances et du Budget, de l'Innovation, des Médias et de l'Aménagement du Territoire,
+
+D. VAN MECHELEN.
