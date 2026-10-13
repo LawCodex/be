@@ -1,0 +1,93 @@
+---
+title: "Décret abrogeant la taxe sur les logements abandonnés en Région wallonne."
+identifier: "2005201400"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/12/2005201400/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2005-05-12
+published: 2005-05-25
+entry_into_force: 2004-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/12/2005201400/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 12 MAI 2005. - Décret abrogeant la taxe sur les logements abandonnés en Région wallonne.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Sont abrogés :
+
+1° le décret du 19 novembre 1998 instaurant une taxe sur les logements abandonnés en Région wallonne;
+
+2° l'arrêté du Gouvernement wallon du 6 décembre 2001 portant exécution du décret du 19 novembre 1998 instaurant une taxe sur les logements abandonnés en Région wallonne;
+
+3° l'arrêté ministériel du 14 juin 2002 portant exécution de l'arrêté du Gouvernement wallon du 6 décembre 2001 portant exécution du décret du 19 novembre 1998 instaurant une taxe sur les logements abandonnés en Région wallonne.
+
+## Art. 2
+
+A l'article 2, alinéa 2, du décret du 27 mai 2004 instaurant une taxe sur les sites d'activité économique désaffectés, le d), alinéa 1er, est remplacé comme suit :
+
+"d) aucune activité économique n'est plus exercée dans au moins un immeuble bâti, sans que cet immeuble bâti ait été affecté à l'habitation d'un ou de plusieurs ménages."
+
+## Art. 3
+
+A l'arrêté du Gouvernement wallon du 16 novembre 2000 portant exécution du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales directes, sont abrogés :
+
+1° l'article 6, 3°;
+
+2° l'article 7, alinéa 3;
+
+3° l'article 9, 3°.
+
+## Art. 4
+
+Les articles 1er et 3 du présent décret entrent en vigueur à partir de l'exercice d'imposition 2005. Les dispositions abrogées par ces articles restent néanmoins d'application pour les taxes sur les logements abandonnés dues pour les exercices d'imposition 2004 et antérieurs.
+
+L'article 2 entre en vigueur le 1er janvier 2005.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 12 mai 2005.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances, de l'Equipement et du Patrimoine,
+
+M. DAERDEN
+
+La Ministre de la Formation,
+
+Mme M. ARENA
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de l'Economie et de l'Emploi,
+
+J.-C. MARCOURT
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des chances,
+
+Mme Ch. VIENNE
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN.

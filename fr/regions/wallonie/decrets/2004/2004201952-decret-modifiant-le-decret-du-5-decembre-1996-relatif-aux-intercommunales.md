@@ -1,0 +1,77 @@
+---
+title: "Décret modifiant le décret du 5 décembre 1996 relatif aux intercommunales wallonnes en vue d'organiser le droit de consultation et de visite des conseillers communaux des communes associées"
+identifier: "2004201952"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004201952/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2004-05-27
+published: 2004-06-25
+entry_into_force: 2004-07-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004201952/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 27 MAI 2004. - Décret modifiant le décret du 5 décembre 1996 relatif aux intercommunales wallonnes en vue d'organiser le droit de consultation et de visite des conseillers communaux des communes associées
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+A l'article 16, § 1er, du décret du 5 décembre 1996 relatif aux intercommunales wallonnes, remplacer le dernier alinéa par quatre alinéas libellés comme suit :
+
+" Les conseillers communaux des communes associées peuvent consulter les budgets, comptes et délibérations des organes de gestion des intercommunales.
+
+Les conseillers communaux des communes associées peuvent visiter les bâtiments et services de l'intercommunale.
+
+Sont exclus du bénéfice des droits de consultation et de visite visés aux alinéas précédents les conseillers communaux élus sur des listes de partis qui ne respectent pas les principes démocratiques énoncés, notamment, par la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, par les protocoles additionnels à cette convention en vigueur en Belgique, par la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie et par la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national socialiste pendant la seconde guerre mondiale ou toute autre forme de génocide.
+
+Les modalités des droits de consultation et de visite visés aux alinéas précédents sont définies dans le plan stratégique visé au paragraphe 3. La définition de ces modalités n'est pas suspensive de l'exercice des droits de consultation et de visite des conseillers communaux. "
+
+## Art. 2
+
+Le Gouvernement wallon est habilité à intégrer les quatre alinéas repris à l'article 1er à l'article L1522-3 du Code wallon de la démocratie locale et de la décentralisation.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 27 mai 2004.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre de l'Economie, des P.M.E, de la Recherche et des Technologies nouvelles,
+
+S. KUBLA
+
+Le Ministre des Transports, de la Mobilité et de l'Energie,
+
+J. DARAS
+
+Le Ministre du Budget, du Logement, de l'Equipement et des Travaux publics,
+
+M. DAERDEN
+
+Le Ministre de l'Aménagement du Territoire, de l'Urbanisme et de l'Environnement,
+
+M. FORET
+
+Le Ministre de l'Agriculture et de la Ruralité,
+
+J. HAPPART
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ch. MICHEL
+
+Le Ministre des Affaires sociales et de la Santé,
+
+Th. DETIENNE
+
+Le Ministre de l'Emploi et de la Formation,
+
+Ph. COURARD.

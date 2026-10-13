@@ -1,0 +1,1383 @@
+---
+title: "Décret instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto."
+identifier: "2004203609"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/11/10/2004203609/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2004-11-10
+published: 2004-12-02
+entry_into_force: 2004-12-02
+last_amended: 2025-05-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/11/10/2004203609/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 02-12-2004 et mise à jour au 02-05-2025"
+retrieved: 2026-10-12
+---
+
+# 10 NOVEMBRE 2004. - Décret instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Généralités et définitions.
+
+### Section 1re. - [<sup>1</sup> Champ d'application et objectifs généraux]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 3, 004; En vigueur : 01-12-2010&gt;
+
+##### Art. 1
+
+[<sup>1</sup> Le présent décret s'applique aux activités déterminées par le Gouvernement, [<sup>2</sup> aux activités visées à l'article 16/1,]<sup>2</sup> ainsi qu'aux gaz à effet de serre énumérés à l'annexe 1ère et transpose partiellement la directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans l'Union et modifiant la directive 96/61/CE du Conseil, ci-après dénommée la Directive 2003/87/CE ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/50, art. 2, 011; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DRW 2025-04-17/01, art. 2, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 1/1
+
+[<sup>1</sup> Le présent décret vise à atteindre l'objectif de réduction des émissions de gaz à effet de serre assigné à la Région wallonne en vertu de la Convention-cadre des Nations unies sur les changements climatiques signée à New York le 9 mai 1992 et des décisions subséquentes adoptées au niveau international, [<sup>3</sup> européen]<sup>3</sup>, national et régional.
+
+Les instruments et mécanismes prévus par le présent décret sont conçus dans le but exclusif de favoriser la réduction des émissions de gaz à effet de serre dans des conditions économiquement efficaces et performantes.]<sup>1</sup>
+
+[<sup>2</sup> Le présent décret prévoit également des réductions plus importantes des émissions de gaz à effet de serre afin d'atteindre les niveaux de réduction qui sont considérés comme scientifiquement nécessaires pour éviter un changement climatique dangereux.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 5, 004; En vigueur : 01-12-2010&gt;
+
+(2)&lt;DRW 2012-06-21/08, art. 3, 006; En vigueur : 01-01-2013&gt;
+
+(3)&lt;DRW 2020-01-23/07, art. 3, 010; En vigueur : 21-02-2020&gt;
+
+### Section 2. - Définitions.
+
+##### Art. 2
+
+1° quota : le quota autorisant à émettre une tonne d'équivalent-dioxyde de carbone au cours d'une période de référence spécifiée, valable uniquement pour respecter les exigences du présent décret, et transférable conformément aux dispositions de ce dernier;
+
+2° [<sup>5</sup> gaz à effet de serre " : les gaz énumérés dans l'annexe du présent décret et les autres composants gazeux de l'atmosphère, tant naturels qu'anthropiques, qui absorbent et renvoient un rayonnement infrarouge;
+
+3° " installation " : un établissement au sens du décret du 11 mars 1999 relatif au permis d'environnement où se déroulent une ou plusieurs activités émettant des gaz à effet de serre déterminées par le Gouvernement ainsi que toute autre activité s'y rapportant directement qui est liée techniquement aux activités exercées sur le site et qui est susceptible d'avoir des incidences sur les émissions et la pollution;
+
+4° [<sup>7</sup> 4° les émissions : le rejet de gaz à effet de serre, à partir de sources situées dans une installation, ou le rejet, à partir d'un aéronef effectuant une activité aérienne déterminée par le Gouvernement; ]<sup>7</sup>
+
+5° [<sup>6</sup> ...]<sup>6</sup>
+
+6° " tonne d'équivalent-dioxyde de carbone " : une tonne métrique de dioxyde de carbone (CO2) ou une quantité de tout autre gaz à effet de serre ayant un potentiel de réchauffement planétaire équivalent;]<sup>5</sup>
+
+7° [<sup>5</sup> ...]<sup>5</sup>
+
+8° personne : personne physique ou morale de droit privé ou de droit public;
+
+9° [<sup>6</sup> ...]<sup>6</sup>
+
+10° [<sup>1</sup> pays hôte : le pays sur le territoire duquel se situe physiquement l'activité de projet, pour autant qu'elle réponde aux conditions fixées par les décisions de la Conférence des Parties agissant comme Réunion des Parties au Protocole de Kyoto;]<sup>1</sup>
+
+11° Protocole de Kyoto : Protocole à la Convention-cadre des Nations unies sur les changements climatiques, tel que fait à Kyoto, le 11 décembre 1997, et auquel le Conseil régional wallon a porté assentiment par décret du 21 mars 2002;
+
+12° [<sup>2</sup> CCNUCC]<sup>2</sup> : Convention-cadre des Nations unies sur les changements climatiques;
+
+13° partie visée à l'annexe Ire de la [<sup>2</sup> CCNUCC]<sup>2</sup> : une partie figurant à l'annexe Ire de la Convention-cadre des Nations unies sur les changements climatiques, qui a ratifié le Protocole de Kyoto, comme spécifié à l'article 1er, § 7, dudit protocole;
+
+14° activité de projet : activité de projet approuvée par une ou plusieurs parties visées à l'annexe Ire de la [<sup>2</sup> CCNUCC]<sup>2</sup>, conformément à l'article 6 (projet réalisé au titre de la mise en oeuvre conjointe - MOC) ou à l'article 12 (projet réalisé au titre du mécanisme pour un développement propre - M.D.P.) du Protocole de Kyoto et aux décisions adoptées conformément à la [<sup>2</sup> CCNUCC]<sup>2</sup> ou au Protocole de Kyoto;
+
+15° unité de quantité attribuée ([<sup>3</sup> UQA]<sup>3</sup>) : unité établie en application de l'article 3, § 7, du Protocole de Kyoto et des décisions adoptées conformément à la [<sup>2</sup> CCNUCC]<sup>2</sup> ou au Protocole de Kyoto;
+
+16° unité de réduction des émissions (URE) : unité délivrée en application de l'article 6 du Protocole de Kyoto et des décisions adoptées conformément à la [<sup>2</sup> CCNUCC]<sup>2</sup> ou au Protocole de Kyoto;
+
+17° réduction d'émissions certifiée ([<sup>4</sup> URCE]<sup>4</sup>) : unité délivrée en application de l'article 12 du Protocole de Kyoto et des décisions adoptées conformément à la [<sup>2</sup> CCNUCC]<sup>2</sup> ou au Protocole de Kyoto;
+
+18° [<sup>1</sup> unité d'absorption par les puits (UAB) : unité établie ou délivrée en application des articles 3.3 et 3.4 du Protocole de Kyoto et des décisions adoptées conformément à la CCNUCC ou au Protocole de Kyoto;]<sup>1</sup>
+
+19° puits : tout processus, toute activité ou tout mécanisme, naturel ou artificiel, qui élimine de l'atmosphère un gaz à effet de serre, un aérosol ou un précurseur de gaz à effet de serre;
+
+20° [<sup>1</sup> ...]<sup>1</sup>
+
+21° mécanisme de flexibilité : mécanisme de réduction des gaz à effet de serre qui a pour objectif d'aider les parties visées à l'annexe Ire de la [<sup>2</sup> CCNUCC]<sup>2</sup> à atteindre leurs objectifs d'émissions au moindre coût;
+
+22° [<sup>1</sup> mise en oeuvre conjointe (MOC) : mécanisme de flexibilité qui consiste, pour une partie, à investir dans des projets mis en oeuvre dans les pays figurant à l'annexe Ire de la CCNUCC et dans le but de réduire les émissions de gaz à effet de serre dans le pays hôte ou d'y augmenter les absorptions de ceux-ci par des puits de carbone;]<sup>1</sup>
+
+23° mécanisme pour un développement propre (M.D.P.) : mécanisme de flexibilité qui consiste, pour une partie visée à l'annexe Ire de la [<sup>2</sup> CCNUCC]<sup>2</sup>, à investir dans un pays non repris à l'annexe Ire de la [<sup>2</sup> CCNUCC]<sup>2</sup> dans le but d'inciter les investissements de réduction d'émissions de gaz à effet de serre et allant dans le sens d'un développement durable pour les pays en voie de développement;
+
+24° [<sup>5</sup> combustion " : toute oxydation de combustibles quelle que soit l'utilisation faite de la chaleur, de l'énergie électrique ou mécanique produites par ce processus et toutes autres activités s'y rapportant, y compris la destruction des effluents gazeux;
+
+25° " producteur d'électricité " : une installation qui, à la date du 1er janvier 2005 ou ultérieurement, a produit de l'électricité destinée à la vente à des tiers et dans laquelle n'a lieu aucune activité émettant des gaz à effet de serre déterminée par le Gouvernement, autre que la " combustion de combustibles ".]<sup>5</sup>
+
+[<sup>8</sup> 26° les effets hors CO2 de l'aviation : les effets sur le climat du rejet, lors de la combustion de carburant, d'oxydes d'azote, de particules de suie et d'espèces de soufre oxydées, ainsi que les effets de la vapeur d'eau et des traînées de condensation, provenant d'un aéronef effectuant une activité aérienne déterminée par le Gouvernement;
+
+27° CORSIA : le système de compensation et de réduction du carbone pour l'aviation internationale telle que décidé par l'Organisation de l'aviation civile internationale.]<sup>8</sup>
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 6, 004; En vigueur : 01-12-2010&gt;
+
+(2)&lt;DRW 2010-10-06/07, art. 2, 004; En vigueur : 01-12-2010&gt;
+
+(3)&lt;DRW 2010-10-06/07, art. 2, 004; En vigueur : 01-12-2010&gt;
+
+(4)&lt;DRW 2010-10-06/07, art. 2, 004; En vigueur : 01-12-2010&gt;
+
+(5)&lt;DRW 2012-06-21/08, art. 4, 006; En vigueur : 01-01-2013&gt;
+
+(6)&lt;DRW 2020-01-23/07, art. 4, 010; En vigueur : 21-02-2020&gt;
+
+(7)&lt;DRW 2024-04-25/50, art. 3,a, 011; En vigueur : 01-01-2024&gt;
+
+(8)&lt;DRW 2024-04-25/50, art. 3,c, 011; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE II. - [<sup>1</sup> Système d'échange de quotas d'émission de gaz à effet de serre pour les installations fixes]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 7, 004; En vigueur : 01-12-2010&gt;
+
+### Section 1re. - [<sup>1</sup> Allocation des quotas]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 5, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. 3
+
+[<sup>1</sup> § 1er. Le Gouvernement organise la collecte des données, en vue de la détermination des installations couvertes par le présent décret et de l'allocation des quotas à titre gratuit pour chaque installation.
+
+Il peut, dans le cadre des actes adoptés par la Commission européenne en vertu de la Directive 2003/87/CE et le cas échéant en complément de ces actes, fixer les données que l'exploitant de l'installation transmet ainsi que les exigences relatives à l'intégrité de ces données et à leur vérification et les modalités de transmission et de traitement des données.
+
+§ 2. Le Gouvernement présente à la Commission européenne la liste des installations couvertes par le présent décret pour chaque période de cinq ans.
+
+Pour la période débutant le 1er janvier 2021, le Gouvernement présente la liste le 30 septembre 2019 au plus tard. [<sup>3</sup> Pour la période débutant le 1er janvier 2026, le Gouvernement présente la liste le 30 septembre 2024 au plus tard.]<sup>3</sup>
+
+Chaque liste contient des informations relatives à l'activité de production, aux transferts de chaleur et de gaz, à la production d'électricité et aux émissions au niveau des sous-installations au cours des cinq années civiles précédant sa présentation.
+
+Le Gouvernement alloue des quotas à titre gratuit uniquement aux installations pour lesquelles les informations demandées en vertu du paragraphe 1er, alinéa 2, et en vertu de l'alinéa 3 ont été fournies et pour autant que la Commission européenne n'ait pas refusé leur inscription sur la liste.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Sous réserve de l'alinéa 2, le Gouvernement n'alloue aucun quota à titre gratuit aux producteurs d'électricité, aux installations de captage de CO2, aux pipelines destinés au transport de CO2 ou aux sites de stockage de CO2.
+
+En vue de répondre à une demande économiquement justifiable par rapport à la production de chaleur ou de froid, des quotas gratuits sont alloués au chauffage urbain ainsi qu'à la cogénération à haut rendement telle que définie par le décret du 12 avril 2001 relatif au marché régional de l'électricité. Pour chaque année postérieure à 2013, le total des quotas délivrés à ces installations pour la production de ce type de chaleur est adapté en utilisant le facteur linéaire visé à l'article 9 de la Directive 2003/87/CE, à l'exception des années pour lesquelles ces quotas sont adaptés de manière uniforme conformément à l'article 10bis, paragraphe 5, de la Directive 2003/87/CE.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2020-01-23/07, art. 5, 010; En vigueur : 01-02-2020&gt;
+
+(2)&lt;DRW 2020-01-23/07, art. 5, 010; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2024-04-25/50, art. 4,1°, 011; En vigueur : 01-01-2024&gt;
+
+##### Art. 3/1.
+
+[<sup>1</sup> La quantité de quotas alloués à titre gratuit est réduite de vingt pour cent pour l'installation :
+
+1° concernée par l'obligation d'effectuer un audit énergétique ou de mettre en oeuvre un système de management de l'énergie certifié en vertu des articles 11 et suivants du décret du 9 décembre 1993 et de l'arrêté du Gouvernement wallon du 8 septembre 2016, et;
+
+2° dans laquelle les recommandations du rapport d'audit ou du système de management de l'énergie certifié ne sont pas mises en oeuvre.
+
+Par dérogation à l'alinéa 1er, la quantité de quotas alloués à titre gratuit n'est pas réduite si :
+
+1° l'exploitant démontre qu'il a mis en oeuvre d'autres mesures de réduction des émissions de gaz à effet de serre équivalentes à celles qui sont recommandées dans le rapport d'audit ou dans le système de management de l'énergie certifié pour l'installation concernée ou;
+
+2° le délai d'amortissement des investissements correspondants dépasse trois ans ou;
+
+3° le coût des investissements correspondants est disproportionné.
+
+Pour l'application de l'alinéa 1er, il faut entendre par " décret du 9 décembre 1993 ", le décret du 9 décembre 1993 relatif à la promotion de l'utilisation rationnelle de l'énergie, des économies d'énergie et des énergies renouvelables et par " arrêté du Gouvernement wallon du 8 septembre 2016 ", l'arrêté du Gouvernement wallon du 8 septembre 2016 instaurant une obligation d'audit énergétique en exécution du décret du 9 décembre 1993 relatif à la promotion de l'utilisation rationnelle de l'énergie, des économies d'énergie et des énergies renouvelables.
+
+Le Gouvernement peut, dans le cadre des actes adoptés par la Commission européenne en vertu de la directive 2003/87/CE et, le cas échéant, en complément de ces actes, fixer les modalités d'application du présent article. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/50, art. 5, 011; En vigueur : 01-01-2024&gt;
+
+##### Art. 3/2.
+
+[<sup>1</sup> La quantité de quotas alloués à titre gratuit est réduite de vingt pour cent pour les installations :
+
+1° dont les niveaux d'émission de gaz à effet de serre sont supérieurs au quatre-vingtième percentile des niveaux d'émission pour les référentiels de produits concernés et;
+
+2° pour lesquelles, au 1er mai 2024, les exploitants n'ont pas établi de plan de neutralité climatique.
+
+Le plan de neutralité climatique est compatible avec l'objectif de neutralité climatique énoncé à l'article 2, § 1er, du Règlement (UE) 2021/1119 du Parlement européen et du Conseil du 30 juin 2021 établissant le cadre requis pour parvenir à la neutralité climatique et modifiant les Règlements (CE) n° 401/2009 et (UE) 2018/1999 et définit :
+
+1° des mesures et des investissements qui visent à atteindre la neutralité climatique d'ici à 2050 au niveau de l'installation, à l'exclusion de l'utilisation de crédits de compensation carbone;
+
+2° des valeurs cibles et des jalons intermédiaires qui permettent de mesurer, avant le 31 décembre 2025 au plus tard puis au 31 décembre de chaque cinquième année, les progrès accomplis en vue de parvenir à la neutralité climatique conformément au 1°;
+
+3° une estimation de l'incidence de chacune des mesures et des investissements visés au 1° en ce qui concerne la réduction des émissions de gaz à effet de serre.
+
+La réalisation des valeurs cibles et des jalons visés à l'alinéa 2, 2°, est vérifiée pour la période allant jusqu'au 31 décembre 2025 puis pour chaque période allant jusqu'au 31 décembre de chaque cinquième année, conformément aux procédures de vérification et d'accréditation prévues dans le règlement visé à l'article 10, § 1er, alinéa 2.
+
+Aucun quota n'est alloué à titre gratuit au-delà de quatre-vingts pour cent si la réalisation des valeurs cibles et des jalons intermédiaires n'a pas été vérifiée pour la période allant jusqu'à la fin de 2025 ou pour la période allant de 2026 à 2030.
+
+Le Gouvernement peut, dans le cadre des actes adoptés par la Commission européenne en vertu de la directive 2003/87/CE et le cas échéant en complément de ces actes, fixer les modalités d'application du présent article. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/50, art. 6, 011; En vigueur : 01-01-2024&gt;
+
+##### Art. 3/3.
+
+[<sup>1</sup> Une allocation de quotas à titre gratuit n'est pas accordée aux installations de certains secteurs ou sous-secteurs dès lors qu'elles sont visées par d'autres mesures destinées à lutter contre le risque de fuite de carbone établies par le Règlement (UE) 2023/956 du Parlement européen et du Conseil du 10 mai 2023 établissant un mécanisme d'ajustement carbone aux frontières, ci-après dénommé le règlement (UE) 2023/956.
+
+Sous réserve de l'application du Règlement (UE) 2023/956, il n'y a pas de quota délivré à titre gratuit pour la fabrication des marchandises énumérées à l'annexe I du règlement (UE) 2023/956.
+
+Par dérogation à l'alinéa 2, pendant les premières années d'application du Règlement (UE) 2023/956, la fabrication des marchandises visées à l'annexe I dudit Règlement bénéficie d'une allocation de quotas à titre gratuit en quantités réduites. Un facteur de réduction de l'allocation de quotas à titre gratuit pour la fabrication de ces marchandises est appliqué et est dénommé le facteur MACF. Le facteur MACF est égal à cent pour cent pour la période comprise entre l'entrée en vigueur de ce Règlement et la fin de 2025 et, sous réserve de l'application des dispositions de l'article 36, § 3, b), de ce Règlement, est égal à 97,5 pour cent en 2026, 95 pour cent en 2027, 90 pour cent en 2028, 77,5 pour cent en 2029, 51,5 pour cent en 2030, 39 pour cent en 2031, 26,5 pour cent en 2032 et 14 pour cent en 2033. A partir de 2034, le facteur MACF ne s'applique pas. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/50, art. 7, 011; En vigueur : 01-01-2024&gt;
+
+### Section 2. [<sup>1</sup> Modifications de l'allocation]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-01-23/07, art. 6, 010; En vigueur : 01-01-2021&gt;
+
+#### Sous-section 1ère.
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 7, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 4
+
+[<sup>1</sup> Le niveau des quotas alloués à titre gratuit aux installations dont les activités ont augmenté ou diminué, selon une évaluation réalisée sur la base d'une moyenne mobile de deux années, de plus de quinze pour cent par rapport au niveau initialement retenu pour déterminer l'allocation de quotas à titre gratuit pour la période concernée, est adapté, le cas échéant, par le Gouvernement.
+
+Le Gouvernement peut, dans le cadre des actes adoptés par la Commission européenne en vertu de la Directive 2003/87/CE et le cas échéant en complément de ces actes, fixer des modalités additionnelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-01-23/07, art. 8, 010; En vigueur : 01-01-2021&gt;
+
+#### Sous-section 2.
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 9, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 5
+
+[<sup>1</sup> Le Gouvernement n'alloue aucun quota à titre gratuit à une installation qui a cessé son activité, [<sup>2</sup> ...]<sup>2</sup>. Les installations dont l'autorisation d'émettre des gaz à effet de serre a expiré ou a été retirée et les installations dont l'activité ou la reprise d'activité est techniquement impossible sont considérées comme ayant cessé leurs activités.
+
+Le Gouvernement peut, dans le cadre des actes adoptés par la Commission européenne en vertu de la Directive 2003/87/CE et le cas échéant en complément de ces actes, fixer les modalités d'application du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-01-23/07, art. 10, 010; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DRW 2024-04-25/50, art. 8, 011; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 3.
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 11, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 5/1
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 11, 010; En vigueur : 01-01-2021&gt;
+
+#### Sous-section 4.
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 12, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 5/2
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 12, 010; En vigueur : 01-01-2021&gt;
+
+#### Sous-section 5.
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 13, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 5/3
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 13, 010; En vigueur : 01-01-2021&gt;
+
+#### Sous-section 6.
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 14, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 5/4
+
+&lt;Abrogé par DRW 2020-01-23/07, art. 15, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 6
+
+[<sup>1</sup> L'exploitant communique au Gouvernement les modifications susceptibles d'avoir une incidence sur l'allocation de quotas.
+
+Si l'exploitant n'a pas communiqué correctement ou intégralement les modifications, l'exploitant [<sup>2</sup> rend]<sup>2</sup>, à la demande du Gouvernement, les quotas reçus en excédent.
+
+Le Gouvernement peut, dans le cadre des actes adoptés par la Commission européenne en vertu de la Directive 2003/87/CE et le cas échéant en complément de ces actes, fixer des modalités additionnelles aux alinéas 1 et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-01-23/07, art. 16, 010; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DRW 2024-04-25/50, art. 9, 011; En vigueur : 01-01-2024&gt;
+
+##### Art. 7
+
+[<sup>1</sup> En cas de fermeture de capacités de production d'électricité sur le territoire en raison de mesures régionales supplémentaires, le Gouvernement peut annuler des quotas provenant de la quantité totale des quotas mis aux enchères à concurrence d'un montant correspondant à la moyenne des émissions vérifiées de l'installation concernée au cours d'une période de cinq ans précédant la fermeture.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-01-23/07, art. 17, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 8
+
+&lt;Abrogé par DRW 2012-06-21/08, art. 22, 006; En vigueur : 01-01-2013&gt;
+
+### Section 3. - [<sup>1</sup> Déclaration et vérification des émissions et restitution des quotas]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 12, 004; En vigueur : 01-12-2010&gt;
+
+##### Art. 9
+
+&lt;Abrogé par DRW 2012-06-21/08, art. 23, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. 10
+
+§ 1er. [<sup>1</sup> Chaque exploitant d'une installation visée par le présent décret surveille et déclare, après la fin de l'année concernée, à l'Agence wallonne de l'air et du climat les émissions produites par son installation au cours de chaque année civile, conformément au Règlement " surveillance et déclaration " adopté par la Commission européenne.
+
+L'exploitant envoie sa déclaration vérifiée par un vérificateur accrédité conformément au Règlement " vérification " adopté par la Commission européenne, [<sup>2</sup> pour la date fixée par le Gouvernement]<sup>2</sup> au plus tard.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. En cas d'absence de transmission d'une déclaration reconnue satisfaisante [<sup>2</sup> par le vérificateur]<sup>2</sup> pour le 31 mars, l'Agence notifie immédiatement à l'exploitant, au Gouvernement, à la personne responsable de la tenue du registre des quotas et au fonctionnaire technique tel que visé dans le décret du 11 mars 1999 relatif au permis d'environnement, l'interdiction de céder des quotas de l'installation, et ce, aussi longtemps qu'une déclaration de la part de l'exploitant n'a pas été vérifiée comme étant satisfaisante.]<sup>1</sup>
+
+§ 4. Le Gouvernement précise les modalités d'application du présent article. Ces modalités peuvent notamment contenir des modalités de recours.
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 24, 006; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2020-01-23/07, art. 18, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 10/1
+
+[<sup>1</sup> Au plus tard le 30 [<sup>3</sup> septembre ]<sup>3</sup> de chaque année, l'exploitant d'une installation visée par le présent décret restitue, sur la base de sa déclaration des émissions de gaz à effet de serre vérifiée, le nombre de quotas correspondant aux émissions totales de l'installation au cours de l'année civile [<sup>3</sup> précédente]<sup>3</sup>.
+
+Une obligation de restituer des quotas ne doit pas se produire dans le cas d'émissions vérifiées en tant que faisant l'objet d'un captage et d'un transport en vue d'un stockage permanent vers une installation pour laquelle un permis est en vigueur conformément à la Directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 sur le stockage géologique du dioxyde de carbone.
+
+[<sup>3</sup> Une obligation de restituer des quotas ne doit pas se produire en ce qui concerne les émissions de gaz à effet de serre qui sont réputés avoir été captés et utilisés de telle manière qu'ils sont devenus chimiquement liés, de manière permanente, à un produit, de sorte qu'ils ne peuvent pas pénétrer dans l'atmosphère dans des conditions normales d'utilisation, y compris toute activité normale qui a lieu après la fin de vie du produit. ]<sup>3</sup>
+
+Afin de respecter l'obligation visée à l'alinéa 1er, les exploitants utilisent soit des quotas qui leur ont été alloués à titre gratuit [<sup>2</sup> ...]<sup>2</sup> [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>2</sup> Les quotas délivrés à partir du 1er janvier 2013 sont valables pour une période indéterminée. Les quotas délivrés à partir du 1er janvier 2021 comportent une mention indiquant au cours de quelle période de dix ans à compter du 1er janvier 2021 ils ont été délivrés, et ils sont valables pour les émissions produites dès la première année de cette période.]<sup>2</sup>
+
+Les quotas restitués sont ensuite annulés.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 25, 006; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DRW 2020-01-23/07, art. 19, 010; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2024-04-25/50, art. 10, 011; En vigueur : 01-01-2024&gt;
+
+### Section 4. - [<sup>1</sup> Diffusion d'informations et secret professionnel]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 26, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. 11
+
+[<sup>1</sup> Sans préjudice de l'article 458 du Code pénal, les décisions et les rapports concernant la quantité et la distribution des quotas, ainsi que la surveillance, la déclaration et la vérification des émissions sont immédiatement et systématiquement diffusés sur le site de l'Agence wallonne de l'Air et du Climat, de manière à garantir un accès non discriminatoire à ces informations.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 27, 006; En vigueur : 01-01-2013&gt;
+
+### Section 5. - Sanctions.
+
+##### Art. 11/1
+
+[<sup>1</sup> § 1er. Tout exploitant qui n'envoie pas la déclaration conformément et dans le délai fixé à [<sup>3</sup> fixé en vertu de l'article 10, § 1er]<sup>3</sup>, est tenu de payer une amende de 500 euros par jour ouvrable de retard. Si le retard est supérieur à vingt jours ouvrables, l'amende est fixée forfaitairement à 15.000 euros.
+
+Le fonctionnaire désigné par le Gouvernement constate le nombre de jours de retard et inflige l'amende en une fois. Il notifie sa décision à l'exploitant concerné par lettre recommandée dans un délai de trente jours prenant cours [<sup>3</sup> le jour de l'expiration du délai pour envoyer la déclaration vérifiée]<sup>3</sup>. Cette décision mentionne les possibilités de recours.
+
+§ 2. L'exploitant qui conteste la décision visée au § 1er peut introduire un recours dans un délai de trente jours, à peine de forclusion, prenant cours à compter de la notification de la décision.
+
+Ce recours suspend l'exécution de la décision.
+
+Il est introduit par voie de requête devant le tribunal de police.
+
+La requête contient l'identité et l'adresse de l'exploitant, la désignation de la décision attaquée et les motifs de contestation de cette décision.
+
+Les décisions du tribunal de police ne sont pas susceptibles d'appel.
+
+§ 3. La décision d'imposer une amende administrative a force exécutoire à l'échéance d'un délai de trente jours prenant cours à partir du jour de sa notification, sauf en cas de recours en vertu du § 2.
+
+L'amende est payable dans le délai de trente jours qui suit le jour où la décision a acquis force exécutoire. Elle est versée dans le fonds visé à l'article 13.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 16, 004; En vigueur : 01-12-2010&gt;
+
+(2)&lt;DRW 2012-06-21/08, art. 28, 006; En vigueur : 01-01-2013&gt;
+
+(3)&lt;DRW 2020-01-23/07, art. 20, 010; En vigueur : 01-01-2021&gt;
+
+##### Art. 12
+
+§ 1er. [<sup>2</sup> Tout exploitant qui, au plus tard le 30 [<sup>4</sup> septembre]<sup>4</sup> de chaque année, ne restitue pas un nombre de quotas suffisant pour couvrir ses émissions de gaz à effet de serre de l'année précédente est tenu de payer une amende sur les émissions excédentaires.
+
+L'amende est de 100 euros pour chaque tonne d'équivalent-dioxyde de carbone émise par une installation pour laquelle l'exploitant n'a pas restitué de quotas.
+
+L'amende sur les émissions excédentaires concernant les quotas délivrés à compter du 1er janvier 2013 augmente conformément à l'indice européen des prix à la consommation.]<sup>2</sup>
+
+§ 2. Le paiement de l'amende ne libère pas l'exploitant de l'obligation de restituer un nombre de quotas égal aux émissions excédentaires au plus tard lors de la restitution des quotas correspondant à l'année civile suivante.
+
+§ 3. Tant que l'exploitant ne les restitue pas [<sup>1</sup> conformément à l'article 10/1]<sup>1</sup>, les quotas qu'il détient ne peuvent être cédés à partir du 1er [<sup>4</sup> octobre]<sup>4</sup>, à concurrence de la quantité considérée par le Gouvernement comme devant être restituée.
+
+§ 4. [<sup>3</sup> L'amende est infligée par fonctionnaire désigné par le Gouvernement.
+
+Le fonctionnaire notifie sa décision à l'exploitant concerné, par lettre recommandée, dans un délai de trente jours prenant cours à l'échéance du délai fixé pour la restitution des quotas.
+
+La décision d'infliger une amende mentionne les possibilités de recours.
+
+La procédure de recours et les modalités de perception de l'amende sont celles déterminées à l'article 11/1, §§ 2 et 3.]<sup>3</sup>
+
+§ 5. Le nom de l'exploitant qui est en défaut de restituer suffisamment de quotas est publié au Moniteur belge.
+
+§ 6. Le Gouvernement arrête les modalités d'application du présent article.
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 17, 004; En vigueur : 01-12-2010&gt;
+
+(2)&lt;DRW 2012-06-21/08, art. 29, 006; En vigueur : 01-01-2013&gt;
+
+(3)&lt;DRW 2013-10-24/09, art. 4, 007; En vigueur : 16-11-2013&gt;
+
+(4)&lt;DRW 2024-04-25/50, art. 11, 011; En vigueur : 01-01-2024&gt;
+
+### Section 6.
+
+&lt;Abrogé par DRW 2012-06-21/08, art. 30, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. 12bis
+
+[<sup>1</sup> § 1er. Tout exploitant qui ne [<sup>3</sup> rend]<sup>3</sup> pas, dans le délai fixé par le Gouvernement, les quotas visés à [<sup>2</sup> l'article 6, alinéa 2]<sup>2</sup>, est tenu de payer une amende de 100 euros pour chaque quota excédentaire non [<sup>3</sup> rendu]<sup>3</sup>.
+
+L'amende sur les quotas excédentaires non [<sup>3</sup> rendus ]<sup>3</sup> augmente conformément à l'indice européen des prix à la consommation.
+
+§ 2. Le paiement de l'amende ne libère pas l'exploitant de l'obligation de [<sup>3</sup> rendre]<sup>3</sup> les quotas excédentaires.
+
+§ 3. La procédure d'imposition de l'amende et de recours et les modalités de perception sont celles déterminées à l'article 12, § 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2013-10-24/09, art. 5, 007; En vigueur : 16-11-2013&gt;
+
+(2)&lt;DRW 2020-01-23/07, art. 21, 010; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2024-04-25/50, art. 12, 011; En vigueur : 01-01-2024&gt;
+
+##### Art. 12ter
+
+&lt;Abrogé par DRW 2012-06-21/08, art. 30, 006; En vigueur : 01-01-2013&gt;
+
+## CHAPITRE II/1. [<sup>2</sup> Système d'échange de quotas d'émission de gaz à effet de serre pour les activités aériennes]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 18, 004; En vigueur : 01-12-2009&gt;
+
+(2)&lt;DRW 2013-10-24/09, art. 6, 007; En vigueur : 16-11-2013&gt;
+
+##### Art. 12/1
+
+[<sup>2</sup> Les dispositions du présent chapitre s'appliquent à l'allocation et à la délivrance de quotas par le Gouvernement, pour les activités aériennes déterminées par le Gouvernement, aux exploitants d'aéronef, dont la Région wallonne est l'autorité compétente en vertu de l'accord de coopération du 2 septembre 2013 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'intégration des activités aériennes dans le système communautaire d'échange de quotas d'émission de gaz à effet de serre conformément à la Directive 2008/101/CE du Parlement européen et du Conseil du 19 novembre 2008 modifiant la Directive 2003/87/CE afin d'intégrer les activités aériennes dans le système communautaire d'échange de quotas d'émission de gaz à effet de serre, ci-après dénommé l'accord de coopération du 2 septembre 2013.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 19, 004; En vigueur : 01-12-2009&gt;
+
+(2)&lt;DRW 2013-10-24/09, art. 7, 007; En vigueur : 16-11-2013&gt;
+
+##### Art. 12/2
+
+[<sup>1</sup> § 1er. Chaque exploitant d'aéronef soumet, pour approbation, à l'Agence wallonne de l'Air et du Climat un plan de surveillance des émissions produites par l'aéronef qu'il exploite. Il surveille et déclare à l'Agence, après la fin de l'année concernée, les émissions produites au cours de chaque année civile, conformément aux actes d'exécution adoptés par la Commission européenne en vertu de la directive 2003/87/CE.
+
+L'exploitant d'aéronef envoie sa déclaration vérifiée par un vérificateur accrédité conformément au Règlement " vérification " adopté par la Commission européenne, pour la date fixée par le Gouvernement.
+
+En cas d'absence de transmission d'une déclaration reconnue satisfaisante par le vérificateur pour le 31 mars, l'Agence wallonne de l'Air et du Climat notifie immédiatement à l'exploitant, au Gouvernement et à la personne responsable de la tenue du registre des quotas, l'interdiction pour l'exploitant d'aéronef de céder des quotas, et ce, aussi longtemps qu'une déclaration de la part de l'exploitant d'aéronef n'a pas été vérifiée comme étant satisfaisante.
+
+§ 2. A partir du 1er janvier 2025, chaque exploitant d'aéronef surveille et déclare à l'Agence wallonne de l'Air et du Climat, les effets hors CO2 de chaque aéronef qu'il exploite, au cours de chaque année civile, après la fin de chaque année concernée, conformément aux actes d'exécution adoptés par la Commission européenne en vertu de la directive 2003/87/CE.
+
+§ 3. Dans des circonstances spécifiques où un exploitant d'aéronef opère sur un nombre très limité de paires d'aérodromes ou sur un nombre très limité de paires d'Etats qui sont soumis à des exigences de compensation ou sur un nombre très limité de paires d'Etats qui ne sont pas soumis à des exigences de compensation, cet exploitant d'aéronef peut demander à l'Agence wallonne de l'Air et du Climat que les données qui seront publiées par la Commission européenne en vertu de l'article 14, § 6, de la directive 2003/87/CE, ne soient pas publiées au niveau de l'exploitant d'aéronef, en expliquant pourquoi la divulgation serait considérée comme préjudiciable à ses intérêts commerciaux.
+
+Sur la base de cette demande, l'Agence wallonne de l'Air et du Climat peut demander à la Commission européenne que ces données soient publiées à un niveau d'agrégation plus élevé. La Commission européenne statue sur la demande.
+
+§ 4. Le Gouvernement peut, dans le cadre des actes adoptés par la Commission européenne en vertu de la directive 2003/87/CE, fixer les modalités d'application du présent article en ce qui concerne les règles relatives à la surveillance et à la déclaration des émissions d'aéronef et des effets hors CO2 de l'aviation ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/50, art. 13, 011; En vigueur : 01-12-2024&gt;
+
+##### Art. 12/2/1
+
+[<sup>1</sup> Le Gouvernement alloue des quotas à titre gratuit aux exploitants d'aéronefs. Les quotas sont alloués proportionnellement à la part d'émissions vérifiées résultant des activités aériennes déclarées pour 2023. Ce calcul tient également compte des émissions vérifiées résultant des activités aériennes déclarées pour les vols qui sont couverts par le système d'échange de quotas d'émission de l'Union européenne uniquement à partir du 1er janvier 2024.
+
+Le Gouvernement délivre les quotas qui sont alloués à titre gratuit pour 2024 et 2025, au plus tard le 30 juin de l'année concernée ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/50, art. 14, 011; En vigueur : 01-12-2024&gt;
+
+##### Art. 12/2/2
+
+[<sup>1</sup> Le Gouvernement alloue des quotas, issus de la réserve prévue à l'article 3quater, § 6, de la directive 2003/87/CE, pour couvrir tout ou partie de l'écart de prix entre l'utilisation du kérosène fossile et l'utilisation des carburants d'aviation admissibles, en tenant compte des incitations résultant du prix du carbone et des niveaux minimaux harmonisés de taxation des combustibles fossiles.
+
+Les exploitants d'aéronefs commerciaux peuvent demander, sur une base annuelle, une allocation de quotas sur la base de la quantité de chaque carburant d'aviation admissible utilisé sur des vols subsoniques pour lesquels des quotas doivent être restitués conformément à l'article 12/2/3, § 1er, entre le 1er janvier 2024 et le 31 décembre 2030, à l'exclusion des vols pour lesquels cette exigence est considérée comme satisfaite en vertu de l'article 12/5, § 1er.
+
+Si, pour une année donnée, la demande de quotas pour l'utilisation de ces carburants est supérieure aux quotas disponibles, la quantité de quotas est réduite de manière uniforme pour tous les exploitants d'aéronefs concernés par l'allocation pour ladite année.
+
+Le Gouvernement peut, dans le cadre des actes adoptés par la Commission européenne en vertu de la directive 2003/87/CE, fixer les modalités d'application du présent article ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/50, art. 15, 011; En vigueur : 01-12-2024&gt;
+
+##### Art. 12/2/3
+
+[<sup>1</sup> Tout exploitant d'aéronef restitue, le 30 septembre de chaque année au plus tard, un nombre de quotas correspondant à ses émissions totales au cours de l'année civile précédente, telles qu'elles ont été vérifiées par un vérificateur accrédité conformément au Règlement " vérification " adopté par la Commission européenne.
+
+§ 2. Pour l'application du CORSIA, le Gouvernement calcule chaque année, conformément à l'acte d'exécution adopté par la Commission européenne en vertu de l'article 25bis, § 3, de la directive 2003/87/CE, les exigences de compensation pour l'année civile précédente. Il informe les exploitants d'aéronefs de ces exigences au plus tard le 30 novembre de chaque année.
+
+Le Gouvernement calcule également, conformément à l'acte d'exécution adopté par la Commission européenne, les exigences de compensation totales finales pour une période de conformité du CORSIA donnée. Il informe de ces exigences les exploitants d'aéronefs qui remplissent les conditions qu'il détermine, au plus tard le 30 novembre de l'année suivant la dernière année de la période de conformité du CORSIA concernée.
+
+§ 3. Les exploitants d'aéronefs qui sont titulaires d'un certificat de transporteur aérien délivré par la Belgique ou qui sont enregistrés en Belgique, annulent les unités visées à l'article 11bis de la directive 2003/87/CE uniquement pour ce qui est de la quantité notifiée conformément au paragraphe 2, pour la période de conformité du CORSIA concernée.
+
+L'annulation a lieu au plus tard le 31 janvier 2025 pour les émissions de la période de 2021 à 2023 et au plus tard le 31 janvier 2028 pour les émissions de la période de 2024 à 2026.
+
+§ 4. Par dérogation au paragraphe 1er, les exploitants d'aéronefs ne sont pas tenus de restituer des quotas pour les émissions :
+
+1° rejetées jusqu'au 31 décembre 2026 et résultant de vols à destination ou en provenance d'Etats qui sont énumérés dans l'acte d'exécution adopté par la Commission européenne en vertu de l'article 25bis, § 3, de la directive 2003/87/CE;
+
+2° rejetées jusqu'au 31 décembre 2026 et résultant de vols reliant l'Espace économique européen et des Etats qui ne sont pas énumérés dans l'acte d'exécution adopté par la Commission européenne en vertu de l'article 25bis, § 3, de la directive 2003/87/CE, autres que les vols à destination de la Suisse et du Royaume-Uni;
+
+3° des vols à destination et en provenance des pays les moins avancés et des petits Etats insulaires en développement, tels qu'ils sont définis par les Nations Unies, autres que ceux qui sont énumérés dans l'acte d'exécution adopté par la Commission européenne en vertu de l'article 25bis, § 3, de la directive 2003/87/CE et autres que les Etats dont le produit intérieur brut par habitant est supérieur ou égal à la moyenne de l'Union européenne ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/50, art. 16, 011; En vigueur : 01-12-2024&gt;
+
+##### Art. 12/2/4
+
+[<sup>1</sup> [<sup>2</sup> L'article 10/1, alinéas 4 et 5, et l'article 11 sont applicables ]<sup>2</sup> aux quotas et aux émissions des activités aériennes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-10-20/03, art. 6, 009; En vigueur : 10-11-2016&gt;
+
+(2)&lt;DRW 2024-04-25/50, art. 17, 011; En vigueur : 01-12-2024&gt;
+
+##### Art. 12/3
+
+[<sup>2</sup> L'article 11/1 est applicable à tout exploitant d'aéronef qui n'envoie pas la déclaration d'émissions annuelle conformément et dans le délai fixé [<sup>4</sup> par le Gouvernement]<sup>4</sup>.
+
+[<sup>3</sup> [<sup>4</sup> L'article 12 est applicable à tout exploitant d'aéronef qui, au plus tard le 30 septembre de chaque année, ne restitue pas un nombre de quotas suffisant pour couvrir ses émissions de l'année précédente]<sup>4</sup>.]<sup>3</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 21, 004; En vigueur : 01-12-2009&gt;
+
+(2)&lt;DRW 2013-10-24/09, art. 9, 007; En vigueur : 16-11-2013&gt;
+
+(3)&lt;DRW 2016-10-20/03, art. 7, 009; En vigueur : 10-11-2016&gt;
+
+(4)&lt;DRW 2024-04-25/50, art. 18, 011; En vigueur : 01-12-2024&gt;
+
+##### Art. 12/4
+
+[<sup>1</sup> Par dérogation aux articles 12/2, § 1er, 12/2/3, § 1er, et 12/3, alinéa 2, les exigences énoncées dans lesdites dispositions sont satisfaites et aucune mesure n'est prise vis-à-vis des exploitants d'aéronefs en ce qui concerne les émissions rejetées jusqu'au 31 décembre 2030 résultant de vols entre un aérodrome situé dans une région ultrapériphérique d'un Etat membre et un aérodrome situé dans le même Etat membre, y compris un autre aérodrome situé dans la même région ultrapériphérique ou dans une autre région ultrapériphérique du même Etat membre ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/50, art. 19, 011; En vigueur : 01-12-2024&gt;
+
+##### Art. 12/5
+
+[<sup>1</sup> § 1er. Par dérogation aux articles 12/2, § 1er, 12/2/3, § 1er, et 12/3, alinéa 2, les exigences énoncées dans lesdites dispositions sont considérées comme satisfaites et aucune mesure n'est prise à l'encontre des exploitants d'aéronefs en ce qui concerne :
+
+1° toutes les émissions de vols à destination et en provenance d'aérodromes situés dans des Etats en dehors de l'Espace économique européen, à l'exception des vols à destination d'aérodromes situés au Royaume-Uni ou en Suisse, pour chaque année civile du 1er janvier 2021 au 31 décembre 2026, sous réserve du réexamen visé à l'article 28ter de la directive 2003/87/CE;
+
+2° toutes les émissions de vols reliant un aérodrome situé dans une région ultrapériphérique au sens de l'article 349 du traité sur le fonctionnement de l'Union européenne et un aérodrome situé dans une autre région de l'Espace économique européen, pour chaque année civile du 1er janvier 2013 au 31 décembre 2023, sous réserve du réexamen visé à l'article 28ter de la directive 2003/87/CE.
+
+Aux fins de l'article 11bis de la directive 2003/87/CE et des articles 12/2/3, § 1er, et 12/2, § 1er, les émissions vérifiées résultant de vols autres que ceux visés à l'alinéa 1er sont considérées comme les émissions vérifiées de l'exploitant d'aéronef.
+
+§ 2. Par dérogation à l'article 12/2, § 1er, les exploitants d'aéronefs ne présentent pas des plans de surveillance comportant des mesures de surveillance et de déclaration des émissions pour les vols faisant l'objet des dérogations prévues au paragraphe 1er.
+
+§ 3. Par dérogation aux articles 12/2, § 1er, 12/2/3, § 1er, et 18bis de la directive 2003/87/CE, lorsque les émissions annuelles totales d'un exploitant d'aéronef sont inférieures à vingt-cinq mille tonnes de CO2, ou lorsque les émissions annuelles totales d'un exploitant d'aéronef résultant de vols autres que ceux visés au paragraphe 1er, 1° et 2°, sont inférieures à trois mille tonnes de CO2. Ses émissions sont considérées comme des émissions vérifiées si elles sont déterminées à l'aide de l'instrument pour petits émetteurs approuvé au titre du Règlement (UE) n° 606/2010 et sur lequel Eurocontrol enregistre des données provenant de son dispositif d'aide pour le système européen d'échange de quotas d'émission de gaz à effet de serre.
+
+Le Gouvernement peut appliquer des procédures simplifiées pour les exploitants d'aéronefs non commerciaux, dès lors que la précision assurée par ces procédures n'est pas inférieure à celle assurée par l'instrument pour petits émetteurs.
+
+Pour l'application de l'alinéa 1er, il faut entendre par Règlement (UE) n° 606/2010, le Règlement (UE) n° 606/2010 de la Commission du 9 juillet 2010 portant approbation d'un instrument simplifié mis au point par l'Organisation européenne pour la sécurité de la navigation aérienne (Eurocontrol) afin d'estimer la consommation de carburant de certains exploitants d'aéronefs qui sont de petits émetteurs.
+
+§ 4. Le paragraphe 1er s'applique aux pays avec lesquels un accord tel que visé à l'article 25 ou à l'article 25bis de la directive 2003/87/CE a été conclu, selon les modalités de cet accord uniquement.]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/50, art. 20, 011; En vigueur : 01-12-2024&gt;
+
+##### Art. 12/6
+
+[<sup>1</sup> § 1er. L'exploitant d'aéronef dont la Région wallonne est responsable en application de l'article 12/4 peut solliciter une allocation à titre gratuit de quotas provenant de la réserve spéciale constituée pour les exploitants d'aéronefs, s'il remplit les conditions suivantes :
+
+1° commencer à exercer une activité aérienne déterminée par le Gouvernement après l'année de surveillance visée à l'article 12/5, § 1er pour la deuxième période ou une période ultérieure; ou
+
+2° dont les données relatives aux tonnes-kilomètres traduisent une augmentation annuelle supérieure à 18 % entre l'année de surveillance visée à l'article 12/5, § 1er, pour la deuxième période ou une période ultérieure, et la deuxième année civile de cette période;
+
+et dont les activités visées au 1°, ou le surcroît d'activités visé au 2°, ne s'inscrivent pas, pour partie ou dans leur intégralité, dans le cadre de la poursuite d'une activité aérienne exercée auparavant par un autre exploitant d'aéronef.
+
+En application de l'alinéa 1er, 2°, un exploitant d'aéronef ne peut se voir allouer plus de 1 000 000 de quotas.
+
+La demande est introduite auprès du Gouvernement, au plus tard le 30 juin 2015 en ce qui concerne la deuxième période ou au plus tard le 30 juin de la troisième année de la période ultérieure à laquelle elle se rapporte.
+
+La demande :
+
+1° contient les données relatives aux tonnes-kilomètres surveillées, déclarées et vérifiées, pour les activités aériennes déterminées par le Gouvernement et exercées par l'exploitant en 2014, en ce qui concerne la deuxième période, ou durant la deuxième année civile de la période ultérieure à laquelle la demande se rapporte;
+
+2° apporte la preuve que les critères d'admissibilité visés à l'alinéa 1er sont remplis; et
+
+3° dans le cas d'un exploitant d'aéronef relevant de l'alinéa 1er, 2°, indique :
+
+a) le taux d'augmentation exprimée en tonnes-kilomètres se rapportant aux activités de cet exploitant d'aéronef entre l'année de surveillance visée à l'article 12/5, § 1er, pour la deuxième période ou une période ultérieure, et la deuxième année civile de cette période;
+
+b) l'augmentation en termes absolus exprimée en tonnes-kilomètres se rapportant aux activités de cet exploitant d'aéronef entre l'année de surveillance visée à l'article 12/5, § 1er, pour la deuxième période ou une période ultérieure, et la deuxième année civile de cette période; et
+
+c) la part de l'augmentation en termes absolus exprimée en tonnes-kilomètres se rapportant aux activités de cet exploitant d'aéronef entre l'année de surveillance visée à l'article 12/5, § 1er, pour la deuxième période ou une période ultérieure, et la deuxième année civile de cette période qui dépasse le pourcentage indiqué au § 1er, alinéa 1er, 2°.
+
+§ 2. Le Gouvernement soumet à la Commission européenne les demandes reçues au plus tard le 31 décembre 2015, pour ce qui concerne la deuxième période, ou au plus tard six mois après la date limite prévue au § 1er, alinéa 3, pour les périodes ultérieures.
+
+§ 3. Dans les trois mois suivant l'adoption, par la Commission européenne, d'une décision arrêtant le référentiel conformément à l'article 3septies, § 5, de la Directive 2003/87/CE, le Gouvernement calcule et publie :
+
+1° l'allocation de quotas provenant de la réserve spéciale à chaque exploitant d'aéronef dont il a soumis la demande à la Commission conformément au § 2. Cette allocation est calculée en multipliant le référentiel :
+
+a) dans le cas d'un exploitant d'aéronef relevant du § 1er, alinéa 1er, 1°, par les données relatives aux tonnes-kilomètres consignées dans la demande soumise à la Commission;
+
+b) dans le cas d'un exploitant d'aéronef relevant du § 1er, alinéa 1er, 2°, par la part de l'augmentation en termes absolus exprimée en tonnes-kilomètres qui dépasse le pourcentage indiqué au § 1er, alinéa 1er, 2°, consignée dans la demande soumise à la Commission; et
+
+2° l'allocation de quotas à chaque exploitant d'aéronef pour chaque année, qui est déterminée en divisant l'allocation de quotas au titre du 1° par le nombre d'années civiles complètes restantes pour la deuxième période ou pour une période ultérieure à laquelle l'allocation se rapporte.
+
+Le référentiel visé à l'alinéa 1er, 1°, n'entraîne pas une allocation annuelle par tonne-kilomètre supérieure à l'allocation annuelle par tonne-kilomètre accordée aux exploitants d'aéronefs au titre de l'article 12/5, § 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 24, 004; En vigueur : 01-12-2009&gt;
+
+##### Art. 12/7
+
+[<sup>1</sup> Les quotas qui ne doivent pas être délivrés à titre gratuit sont mis aux enchères.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 25, 004; En vigueur : 01-12-2009&gt;
+
+##### Art. 12/8
+
+[<sup>1</sup> L'article 7, § 1er, 3, 5 et 6 est applicable aux quotas délivrés en application du présent chapitre.
+
+Les quotas délivrés par une autorité compétente au sein de l'Union européenne sont reconnus aux fins du respect des obligations incombant aux exploitants d'aéronefs en application de l'alinéa 3.
+
+Au plus tard le 30 avril de chaque année, chaque exploitant d'aéronef restitue un nombre de quotas égal au total des émissions d'aéronef de l'année civile précédente, vérifiées conformément à l'article 12/10, § 3, résultant des activités aériennes déterminées par le Gouvernement pour lesquelles il est considéré comme l'exploitant de l'aéronef.
+
+Les quotas restitués conformément à l'alinéa 3 sont ensuite annulés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 26, 004; En vigueur : 01-12-2009&gt;
+
+##### Art. 12/9
+
+[<sup>1</sup> Pendant la première période, les exploitants d'aéronefs peuvent utiliser des URCE et des URE à concurrence de 15 % du nombre de quotas qu'ils sont tenus de restituer en vertu de l'article 12/8.
+
+Pour la deuxième période et les périodes ultérieures, le pourcentage des URCE et des URE utilisables dans les activités aériennes est fixé par le Gouvernement.
+
+Le Gouvernement délivre et restitue immédiatement un quota en échange d'une URCE ou d'une URE détenue par l'exploitant d'aéronef d'après le registre.
+
+L'article 8, § 2 est applicable aux quotas délivrés en application du présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 27, 004; En vigueur : 01-12-2009&gt;
+
+##### Art. 12/10
+
+[<sup>1</sup> § 1er. Le Gouvernement fixe les règles relatives à la surveillance et à la déclaration des émissions d'aéronef et des données relatives aux tonnes-kilomètres conformément aux principes définis à l'annexe I/1.
+
+Chaque exploitant d'aéronef soumet au Gouvernement pour approbation un plan de surveillance des émissions d'aéronef et des données relatives aux tonnes-kilomètres.
+
+§ 2. Chaque exploitant d'aéronef déclare au Gouvernement les données relatives aux tonnes-kilomètres et, au cours de chaque année civile, à compter du 1er janvier 2010, les émissions de l'aéronef qu'il exploite, après la fin de l'année concernée.
+
+L'exploitant d'aéronef envoie sa déclaration d'émissions annuelle vérifiée conformément au § 3 au Gouvernement au plus tard le deuxième jeudi du mois de mars, pour les émissions de l'année précédente.
+
+§ 3. Les déclarations présentées par les exploitants d'aéronefs sont vérifiées conformément aux critères définis à l'annexe II/1 par un vérificateur agréé par le Gouvernement.
+
+Sur la base du rapport de vérification, le Gouvernement décide si les déclarations annuelles d'émissions sont reconnues satisfaisantes.
+
+Un exploitant d'aéronef dont la déclaration n'a pas été reconnue satisfaisante pour le 31 mars de chaque année en ce qui concerne les émissions d'aéronef de l'année précédente, ne peut plus transférer de quotas jusqu'à ce qu'une déclaration de la part de cet exploitant d'aéronef ait été vérifiée comme étant satisfaisante.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 28, 004; En vigueur : 01-12-2009&gt;
+
+##### Art. 12/11
+
+[<sup>1</sup> L'article 11 est applicable aux quotas délivrés en application du présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 29, 004; En vigueur : 01-12-2009&gt;
+
+##### Art. 12/12
+
+[<sup>1</sup> § 1er. L'article 11/1 est applicable à tout exploitant d'aéronef qui n'envoie pas la déclaration d'émissions annuelle conformément et dans le délai fixé à l'article 12/10, § 2, alinéa 2.
+
+§ 2. Le nom de l'exploitant d'aéronef qui est en infraction par rapport à l'exigence de restituer suffisamment de quotas est publié au Moniteur belge.
+
+§ 3. Tout exploitant d'aéronef qui, au plus tard le 30 avril de chaque année, ne restitue pas un nombre de quotas suffisant pour couvrir ses émissions d'aéronef de l'année précédente, est tenu de payer une amende sur les émissions d'aéronef excédentaires. Pour chaque tonne d'équivalent-dioxyde de carbone émise pour laquelle l'exploitant d'aéronef n'a pas restitué de quotas, l'amende sur les émissions d'aéronef excédentaires est de 100 euros.
+
+Le paiement de l'amende sur les émissions d'aéronef excédentaires ne libère pas l'exploitant d'aéronef de l'obligation de restituer un nombre de quotas égal à ces émissions d'aéronef excédentaires lors de la restitution des quotas correspondant à l'année civile suivante.
+
+Les amendes sont versées dans le Fonds visé à l'article 13.
+
+§ 4. Au cas où un exploitant d'aéronef ne se conforme pas aux exigences du présent décret et si d'autres mesures visant à en assurer le respect n'ont pas permis de l'y contraindre, le Gouvernement peut demander à la Commission européenne d'adopter une décision imposant une interdiction d'exploitation à l'encontre de l'exploitant d'aéronef concerné.
+
+Toute demande formulée en application de l'alinéa 1er comporte :
+
+1° des éléments démontrant que l'exploitant d'aéronef ne s'est pas conformé aux obligations qui lui incombent en vertu du présent décret;
+
+2° des précisions sur les mesures coercitives prises pour assurer le respect du décret;
+
+3° une justification de l'imposition d'une interdiction d'exploitation au niveau communautaire; et
+
+4° une recommandation quant à la portée d'une interdiction d'exploitation au niveau communautaire et aux conditions éventuelles qui devraient être appliquées.
+
+Lorsque la Commission européenne envisage de prendre une décision faisant suite à une demande introduite en vertu de l'alinéa 1er, elle communique à l'exploitant d'aéronef concerné les faits et considérations essentiels qui justifient cette décision. L'exploitant d'aéronef concerné a la possibilité de soumettre à la Commission européenne des observations par écrit dans un délai de dix jours ouvrables à compter de la date de la communication de ces faits et considérations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2010-10-06/07, art. 30, 004; En vigueur : 01-12-2009&gt;
+
+## CHAPITRE III. - Création d'un Fonds wallon " Kyoto ".
+
+##### Art. 13
+
+§ 1er. Il est créé un fonds wallon " Kyoto " au sein du budget des recettes et du budget général des dépenses de la Région.
+
+§ 2. [<sup>7</sup> Les recettes du fonds sont affectées à la réalisation des missions suivantes :
+
+1° la réduction des émissions de gaz à effet de serre, l'adaptation aux conséquences du changement climatique et le financement d'activités de recherche et de développement ainsi que de projets de démonstration en vue de la réduction des émissions et de l'adaptation au changement climatique, y compris la participation à des initiatives s'inscrivant dans le cadre du plan stratégique européen pour les technologies énergétiques et des plates-formes technologiques européennes;
+
+2° le développement des énergies renouvelables et des réseaux de distribution d'électricité dans le but de respecter les objectifs à l'égard des énergies renouvelables et d'interconnectivité, ainsi que développement d'autres technologies qui contribuent à la transition vers une économie sobre en carbone sûre et durable et contribution à l'objectif d'augmenter l'efficacité énergétique, y compris la production d'électricité provenant d'autoconsommateurs d'énergies renouvelables et de communautés d'énergie renouvelable;
+
+3° les mesures destinées à éviter le déboisement, à soutenir la protection, la restauration et la gestion des tourbières, forêts et autres écosystèmes, ainsi qu'à accroître le boisement et le reboisement dans le respect de la biodiversité, y compris dans les pays en développement ayant ratifié l'accord de Paris, et mesures visant à améliorer le transfert de technologies et la facilitation de l'adaptation aux effets néfastes du changement climatique dans ces pays;
+
+4° le piégeage par la sylviculture et les sols;
+
+5° le captage et le stockage géologique, dans des conditions de sécurité pour l'environnement, du CO2, en particulier en provenance d'une gamme de secteurs et de sous-secteurs industriels, y compris dans les pays tiers, et méthodes technologiques innovantes d'élimination du carbone, telles que le captage direct du carbone dans l'air et son stockage;
+
+6° l'investissement dans des formes de transport qui contribuent de manière significative à la décarbonation du secteur et dans l'accélération de la transition vers ces formes de transport, y compris le développement de services et de technologies de transport de passagers et de marchandises et de bus respectueux du climat, mesures visant à décarboner le transport par voie d'eau, notamment l'amélioration de l'efficacité énergétique des navires et des ports, les technologies et les infrastructures innovantes, les combustibles de substitution durables, tels que l'hydrogène et l'ammoniac produits à partir de sources renouvelables, ainsi que les technologies de propulsion à émissions nulles, et financement de mesures visant à soutenir la décarbonation des aéroports conformément à un règlement du Parlement européen et du Conseil sur le déploiement d'une infrastructure pour carburants alternatifs, et abrogeant la directive 2014/94/UE du Parlement européen et du Conseil, et à un règlement du Parlement européen et du Conseil relatif à l'instauration d'une égalité de conditions de concurrence pour un secteur du transport aérien durable;
+
+7° le financement des activités de recherche et de développement en matière d'efficacité énergétique et de technologies propres dans les secteurs couverts par le présent décret;
+
+8° les mesures destinées à améliorer l'efficacité énergétique, les systèmes de chauffage urbain et l'isolation, à soutenir l'efficacité et le caractère renouvelable des systèmes de chauffage et de refroidissement, ou à soutenir les rénovations lourdes et les rénovations lourdes par étapes de bâtiments, en commençant par la rénovation des bâtiments les moins performants;
+
+9° l'octroi d'un soutien financier afin de prendre en considération les aspects sociaux en ce qui concerne les ménages à revenus faibles et moyens, y compris en limitant les taxes génératrices de distorsions, et réduction ciblée des droits et des charges pour l'électricité produite à partir de sources renouvelables;
+
+10° le financement des programmes de dividendes climatiques ayant un effet positif avéré sur l'environnement;
+
+11° la couverture des frais administratifs liés à la gestion du système d'échange de quotas d'émission de gaz à effet de serre;
+
+12° le financement des actions climatiques et d'adaptation aux conséquences du changement climatique dans les pays tiers vulnérables;
+
+13° la promotion de l'acquisition de compétences et de la réaffectation de la main-d'oeuvre afin de contribuer à une transition juste vers une économie neutre pour le climat, en étroite collaboration avec les partenaires sociaux, et investissement dans la requalification et le perfectionnement des travailleurs potentiellement touchés par la transition;
+
+14° les mesures visant à écarter tout risque résiduel de fuite de carbone dans les secteurs couverts par l'annexe I du Règlement (UE) 2023/956 du Parlement européen et du Conseil du 10 mai 2023 établissant un mécanisme d'ajustement carbone aux frontières, à soutenir la transition et à promouvoir leur décarbonation dans le respect des règles en matière d'aides d'Etat;
+
+15° les mesures financières en faveur des secteurs ou sous-secteurs couverts par le présent décret et qui sont exposés à un risque réel de fuite de carbone en raison des coûts indirects significatifs qu'ils supportent effectivement du fait de la répercussion des coûts des émissions de gaz à effet de serre sur les prix de l'électricité, dans le respect des règles relatives aux aides d'Etat.
+
+Pour l'application de l'alinéa 1er, 1°, les mesures peuvent comprendre des contributions au Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables et au Fonds d'adaptation rendu opérationnel par la conférence sur le changement climatique de Poznan (COP 14 et COP/MOP 4).
+
+Lorsque le Gouvernement détermine l'usage qui est fait des recettes tirées de la mise aux enchères des quotas, il tient compte de la nécessité de continuer à accroître le financement international de la lutte contre le changement climatique dans les pays tiers vulnérables visés à l'alinéa 1er, 12°]<sup>7</sup>.
+
+§ 3. [<sup>8</sup> § 3. Les actions et projets financés par le Fonds mentionnent les recettes tirées de la mise aux enchères du système européen d'échange des quotas d'émission de gaz à effet de serre comme source de financement]<sup>8</sup>.
+
+§ 4. (Le Gouvernement fixe les modalités d'alimentation et de gestion de ce fonds.
+
+Sont intégralement versés dans ce fonds :
+
+1° le produit des amendes encourues [<sup>2</sup> en vertu du présent décret]<sup>2</sup>;
+
+2° le produit de la vente éventuelle des quotas des réserves d'allocation;
+
+3° le produit de l'attribution onéreuse des quotas qui ne sont pas alloués à titre gratuit, [<sup>2</sup> ...]<sup>2</sup>;
+
+4° [<sup>9</sup> ...]<sup>9</sup>
+
+5° [<sup>4</sup> ...]<sup>4</sup>) &lt;DRW 2006-06-22/44, art. 8, 002; En vigueur : 22-07-2006&gt;
+
+[<sup>2</sup> 6° le produit de redevances perçues dans le cadre de la gestion de la demande d'approbation des activités de projet en vertu de l'article 15, alinéa 2.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2008-03-05/39, art. 5, 003; En vigueur : 25-07-2008&gt;
+
+(2)&lt;DRW 2010-10-06/07, art. 31, 004; En vigueur : 01-12-2010&gt;
+
+(3)&lt;DRW 2010-10-06/07, art. 2, 004; En vigueur : 01-12-2010&gt;
+
+(4)&lt;DRW 2012-06-21/08, art. 31, 006; En vigueur : 01-01-2013&gt;
+
+(5)&lt;DRW 2014-02-20/12, art. 28, 008; En vigueur : 20-03-2014&gt;
+
+(6)&lt;DRW 2020-01-23/07, art. 23, 010; En vigueur : 21-02-2020&gt;
+
+(7)&lt;DRW 2024-04-25/50, art. 21,1°, 011; En vigueur : 05-06-2023&gt;
+
+(8)&lt;DRW 2024-04-25/50, art. 21,2°, 011; En vigueur : 01-01-2024&gt;
+
+(9)&lt;DRW 2024-04-25/50, art. 21,3°, 011; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE IV. - [<sup>1</sup> Activités de projet]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 32, 004; En vigueur : 01-12-2010&gt;
+
+##### Art. 14
+
+[<sup>1</sup> Conformément à l'Accord de coopération entre l'Autorité fédérale, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la mise en oeuvre de certaines dispositions du protocole de Kyoto, conclu à Bruxelles le 19 février 2007, la Région est compétente pour l'approbation des activités de projet suivantes :
+
+1° toute activité de projet financée totalement ou partiellement par la Région ou par une province ou une commune, située sur son territoire;
+
+2° toute activité de projet par laquelle la Région entend acquérir des UQA des UAB, des URE ou des URCE;
+
+3° toute activité de projet du mécanisme de MOC ou de MDP dont la demande d'approbation est introduite par une personne physique ayant son domicile, ou par une personne morale ayant une unité d'établissement sur le territoire de la Région;
+
+4° toute activité de projet réalisée sur le territoire de la Région.
+
+Lorsqu'une activité de projet relève à la fois de plusieurs Régions ou d'une ou plusieurs Régions et de l'Autorité fédérale, elle est traitée conformément aux accords adoptés entre les différentes autorités.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 33, 004; En vigueur : 01-12-2010&gt;
+
+##### Art. 15
+
+[<sup>1</sup> § 1er. Le Gouvernement établit les critères d'éligibilité et les procédures pour l'approbation des activités de projet et charge le service ou l'organisme qu'il désigne de l'approbation des projets réalisés au titre de la MOC et du MDP.
+
+Le Gouvernement peut subordonner la gestion de la demande d'approbation des activités de projet au paiement, par le demandeur, d'une redevance dont il fixe le montant.
+
+§ 2. Le Gouvernement peut autoriser certaines personnes morales à participer à des activités de projet.
+
+Le Gouvernement reste responsable de l'accomplissement des obligations qui lui incombent en vertu de la CCNUCC et du Protocole de Kyoto, et garantit que cette participation est compatible avec les orientations, modalités et procédures pertinentes adoptées conformément à la CCNUCC ou au Protocole de Kyoto.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 34, 004; En vigueur : 01-12-2010&gt;
+
+##### Art. 16
+
+§ 1er. [<sup>1</sup> Le Gouvernement établit que les activités de projet auxquelles il participe ou qu'il approuve sont préparées et mises en oeuvre conformément aux articles 6 et 12 du Protocole de Kyoto et aux décisions adoptées au titre de ces dispositions.]<sup>1</sup>
+
+Ces activités de projet ont pour résultat conjoint :
+
+1° des réductions ou absorptions d'émissions réelles, supplémentaires et durables par rapport à celles qui auraient été obtenues en l'absence de l'activité de projet proposée;
+
+2° le transfert ou la mise au point de technologies ou de savoir-faire sans danger pour l'environnement et écologiquement rationnels.
+
+Le Gouvernement établit aussi que le pays hôte a été invité à exercer ses prérogatives pour confirmer que les activités de projet l'aident à parvenir à un développement durable.
+
+§ 2. Les niveaux de référence, définis par les décisions ultérieures adoptées au titre de la [<sup>2</sup> CCNUCC]<sup>2</sup> ou du Protocole de Kyoto pour les activités de projet qui sont entreprises dans des pays ayant signé un traité d'adhésion avec l'Union européenne, doivent être parfaitement compatibles avec l'acquis communautaire, y compris les dérogations provisoires prévues dans le traité d'adhésion.
+
+[<sup>4</sup> Une URE ou une URCE ne peut pas être délivrée pour réduire ou limiter les émissions de gaz à effet de serre des activités qui relèvent du présent décret.]<sup>4</sup>
+
+§ 3. En ce qui concerne les projets MOC ou [<sup>3</sup> MDP]<sup>3</sup> qui réduisent ou limitent directement les émissions d'une installation relevant du champ d'application de la Directive 2003/87/C.E., des URE ou des [<sup>3</sup> URCE]<sup>3</sup> ne peuvent être délivrées, jusqu'au 31 décembre 2012, que si un nombre égal de quotas a été annulé des comptes correspondants de l'exploitant de cet établissement dans le registre.
+
+En ce qui concerne les activités de projet MOC ou [<sup>3</sup> MDP]<sup>3</sup> qui réduisent ou limitent indirectement les émissions d'une installation relevant du champ d'application de la directive précitée, des URE ou des [<sup>2</sup> URCE]<sup>2</sup> ne peuvent être delivrées, jusqu'au 31 décembre 2012, que si un nombre égal de quotas a été annulé dans le pays hôte.
+
+§ 4. Le Gouvernement fixe les modalités d'application du présent article.
+
+----------
+
+(1)&lt;DRW 2010-10-06/07, art. 35, 004; En vigueur : 01-12-2010&gt;
+
+(2)&lt;DRW 2010-10-06/07, art. 2, 004; En vigueur : 01-12-2010&gt;
+
+(3)&lt;DRW 2010-10-06/07, art. 2, 004; En vigueur : 01-12-2010&gt;
+
+(4)&lt;DRW 2016-10-20/03, art. 8, 009; En vigueur : 10-11-2016&gt;
+
+## CHAPITRE IVbis. [<sup>1</sup> Système d'Echange de Quotas d'Emission pour les Bâtiments, le Transport Routier et d'Autres Secteurs ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 3, 012; En vigueur : 30-06-2024&gt;
+
+### Section 1. [<sup>1</sup> Champ d'application et définitions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 4, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/1
+
+[<sup>1</sup> § 1er. Les dispositions du présent chapitre s'appliquent aux émissions de dioxyde de carbone, aux autorisations d'émettre des gaz à effet de serre, à la surveillance, à la déclaration et à la vérification, ainsi qu'à la restitution de quotas, en rapport avec l'activité de mise à la consommation de carburants utilisés pour la combustion dans les secteurs du bâtiment, du transport routier et d'autres secteurs.
+
+Le Gouvernement détermine les mises à la consommation de carburants qui sont exclues et précise les sources d'émissions qui correspondent aux secteurs du bâtiment, du transport routier et aux autres secteurs.
+
+Le présent chapitre ne s'applique pas aux émissions relevant des chapitres II et II/1.
+
+§ 2. A partir de 2027, le Gouvernement peut étendre l'activité visée au paragraphe 1er à d'autres secteurs et appliquer ainsi le système d'échange de quotas d'émission à ces secteurs, conformément au présent chapitre, en tenant compte de tous les critères pertinents, en particulier les effets sur le marché intérieur, les distorsions potentielles de concurrence, l'intégrité environnementale du système d'échange de quotas d'émission établi en vertu du présent chapitre ainsi que la fiabilité du système de surveillance et de déclaration prévu, à condition que l'extension de l'activité soit approuvée par la Commission européenne.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2025-04-17/01, art. 5, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/2.
+
+[<sup>1</sup> Au sens du présent chapitre, l'on entend par :
+
+1° " les émissions " : le rejet de gaz à effet de serre correspondant à l'activité visée à l'article 16/1 ;
+
+2° " l'autorisation d'émettre des gaz à effet de serre " : l'autorisation délivrée conformément à l'article 16/3 ;
+
+3° " l'entité réglementée " : toute personne physique ou morale, à l'exclusion de tout consommateur final des carburants, qui exerce l'activité visée à l'article 16/1 et qui relève d'une des catégories suivantes :
+
+a) lorsque le carburant passe par un entrepôt fiscal tel que défini à l'article 5, § 1er, 9°, de la loi du 22 décembre 2009, l'entrepositaire agréé au sens de l'article 5, § 1er, 8°, de la loi du 22 décembre 2009, qui est redevable des droits d'accise devenus exigibles en vertu de l'article 7 de la loi du 22 décembre 2009 ;
+
+b) si le point a) n'est pas applicable, toute autre personne redevable des droits d'accise devenus exigibles en vertu de l'article 7 de la loi du 22 décembre 2009 ou des articles 421, 422, 424, §§ 1er et 2, et 425 de la loi-programme du 27 décembre 2004, pour les carburants qui relèvent du présent chapitre ;
+
+c) si les points a) et b) ne sont pas applicables, toute autre personne devant être enregistrée par les autorités compétentes en vue d'être redevable des droits d'accise, y compris toute personne exonérée du paiement des droits d'accise, conformément à l'article 425, alinéa 1er, de la loi-programme du 27 décembre 2004 ;
+
+d) si les points a), b) et c) ne sont pas applicables, ou si plusieurs personnes sont tenues conjointement et solidairement au paiement des mêmes droits d'accise, toute autre personne désignée par un Etat membre de l'Union européenne ;
+
+4° " la loi du 22 décembre 2009 " : la loi du 22 décembre 2009 relative au régime général d'accise ;
+
+5° " le carburant " : tout produit énergétique visé à l'article 415, § 1er, de la loi-programme du 27 décembre 2004, en ce compris les carburants figurant dans les tableaux A et C de l'annexe I de la directive 2003/96/CE, ainsi que tout autre produit destiné à être utilisé, mis en vente ou utilisé comme carburant ou comme combustible, comme énoncé aux articles 416 et 417 de la loi-programme du 27 décembre 2004, y compris pour la production d'électricité ;
+
+6° " la directive 2003/96/CE " : la directive 2003/96/CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité ;
+
+7° " la mise à la consommation " : la mise à la consommation telle que visée à l'article 6, § 2, de la loi du 22 décembre 2009. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 6, 012; En vigueur : 30-06-2024&gt;
+
+### Section 2. [<sup>1</sup> Autorisations d'émettre des gaz à effet de serre]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 7, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/3.
+
+[<sup>1</sup> A partir du 1er janvier 2025, l'exercice de l'activité visée à l'article 16/1 par une entité réglementée dont le siège social est établi sur le territoire de la Région, est soumise à la détention préalable d'une autorisation d'émettre des gaz à effet de serre délivrée par le Gouvernement conformément aux articles 16/4 et 16/5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 8, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/4.
+
+[<sup>1</sup> La demande d'autorisation d'émettre des gaz à effet de serre comprend, au minimum, une description :
+
+1° de l'entité réglementée ;
+
+2° du type de carburants que l'entité réglementée met à la consommation et qui sont utilisés pour la combustion dans les secteurs visés à l'article 16/1, ainsi que les moyens par lesquels elle met ces carburants à la consommation ;
+
+3° de la ou des utilisations finales des carburants mis à la consommation aux fins de l'activité visée à l'article 16/1 ;
+
+4° des mesures prévues pour surveiller et déclarer les émissions, conformément aux actes d'exécution adoptés par la Commission européenne et visés aux articles 14 et 30septies de la directive 2003/87/CE ;
+
+5° un résumé non technique des informations visées aux 1° à 4°. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 9, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/5.
+
+[<sup>1</sup> Le Gouvernement délivre l'autorisation d'émettre des gaz à effet de serre à l'entité réglementée lorsqu'il a l'assurance que cette entité est capable de surveiller et de déclarer les émissions qui correspondent aux quantités de carburant mises à la consommation conformément à l'article 16/1. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 10, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/6.
+
+[<sup>1</sup> L'autorisation d'émettre des gaz à effet de serre contient, au minimum, les éléments suivants :
+
+1° le nom et l'adresse de l'entité réglementée ;
+
+2° une description des moyens par lesquels l'entité réglementée met les carburants à la consommation dans les secteurs régis par le présent chapitre ;
+
+3° une liste des carburants mis à la consommation par l'entité réglementée dans les secteurs régis par le présent chapitre ;
+
+4° un programme de surveillance conforme aux exigences prévues par les actes d'exécution adoptés par la Commission européenne et visés à l'article 14 de la directive 2003/87/CE ;
+
+5° les exigences en matière de déclaration prévues par les actes d'exécution adoptés par la Commission européenne et visés à l'article 14 de la directive 2003/87/CE ;
+
+6° l'obligation de restituer, dans le délai fixé à l'article 16/14, les quotas délivrés au titre du présent chapitre correspondant aux émissions totales de cette année, vérifiées conformément au Règlement " vérification " adopté par la Commission européenne. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 11, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/7.
+
+[<sup>1</sup> Les entités réglementées peuvent mettre à jour leurs plans de surveillance sans modification de l'autorisation d'émettre des gaz à effet de serre.
+
+Les entités réglementées soumettent tout programme de surveillance mis à jour au Gouvernement afin d'obtenir son approbation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 12, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/8.
+
+[<sup>1</sup> L'entité réglementée informe le Gouvernement de toute modification envisagée concernant la nature de son activité ou des carburants qu'elle met à la consommation qui est susceptible de nécessiter une mise à jour de l'autorisation d'émettre des gaz à effet de serre.
+
+S'il y a lieu, le Gouvernement met à jour l'autorisation conformément aux actes d'exécution adoptés par la Commission européenne et visés à l'article 14 de la directive 2003/87/CE.
+
+En cas de changement de l'identité de l'entité réglementée couverte par le présent chapitre, le Gouvernement met à jour l'autorisation pour y faire figurer le nom et l'adresse de la nouvelle entité réglementée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 13, 012; En vigueur : 30-06-2024&gt;
+
+### Section 3. [<sup>1</sup> Surveillance, déclaration et vérification des émissions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 14, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/9.
+
+[<sup>1</sup> § 1er. Chaque entité réglementée surveille, chaque année civile à partir de l'année 2025, les émissions qui correspondent aux quantités de carburants mis à la consommation conformément à l'article 16/1.
+
+A partir de l'année 2026, l'entité réglementée déclare au Gouvernement, au plus tard le 14 avril, les émissions de l'année civile précédente, en application des actes d'exécution adoptés par la Commission européenne et visés à l'article 14, § 1er, de la directive 2003/87/CE.
+
+§ 2. A partir du 1er janvier 2028, chaque entité réglementée déclare, au plus tard le 30 avril de chaque année jusqu'en 2030, la part moyenne des coûts liés à la restitution des quotas en vertu du présent chapitre qu'elle a répercutée sur les consommateurs pour l'année précédente. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 15, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/10.
+
+[<sup>1</sup> Chaque entité réglementée, qui détient une autorisation à partir du 1er janvier 2025 conformément à l'article 16/3, déclare ses émissions historiques pour l'année 2024 au plus tard le 14 avril 2025. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 16, 012; En vigueur : 31-12-2023&gt;
+
+##### Art. 16/11.
+
+[<sup>1</sup> L'entité réglementée s'assure que la déclaration visée à l'article 16/9, § 1er, alinéa 2, est vérifiée, avant son envoi, par un vérificateur accrédité conformément au Règlement " vérification " adopté par la Commission européenne.
+
+En cas d'absence de transmission d'une déclaration reconnue satisfaisante par le vérificateur pour le 30 avril, le Gouvernement notifie immédiatement à l'entité réglementée et à la personne responsable de la tenue du registre des quotas, l'interdiction de céder des quotas de l'entité réglementée, et ce, aussi longtemps qu'une déclaration de la part de l'entité réglementée n'a pas été vérifiée comme étant satisfaisante.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 17, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/12.
+
+[<sup>1</sup> Les entités réglementées sont en mesure de déterminer et de documenter de manière fiable et précise, par type de carburant, les quantités précises de carburants mis à la consommation qui sont utilisés pour la combustion dans les secteurs visés par l'article 16/1, ainsi que l'utilisation finale des carburants mis à la consommation par les entités réglementées.
+
+Le Gouvernement prend, dans le cadre des actes d'exécution adoptés par la Commission européenne en vertu de la directive 2003/87/CE et le cas échéant en complément de ces actes, des mesures appropriées pour limiter le risque de double comptabilisation des émissions qui relèvent du présent chapitre et des émissions relevant des chapitres II et III de la directive 2003/87/CE ainsi que le risque de restitution de quotas pour des émissions non couvertes par le présent chapitre. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 18, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/13.
+
+[<sup>1</sup> Le Gouvernement peut déterminer les mesures simplifiées de surveillance, de déclaration et de vérification pour les entités réglementées dont les émissions annuelles qui correspondent aux quantités de carburants mises à la consommation sont inférieures à mille tonnes d'équivalent-CO2, conformément aux actes d'exécution adoptés par la Commission européenne et visés à l'article 14, § 1er, de la directive 2003/87/CE. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 19, 012; En vigueur : 30-06-2024&gt;
+
+### Section 4. [<sup>1</sup> Restitution et annulation de quotas]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 20, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/14.
+
+[<sup>1</sup> A partir du 1er janvier 2028, l'entité réglementée restitue, le 31 mai de chaque année au plus tard, une quantité de quotas relevant du présent chapitre égal aux émissions totales de l'entité réglementée, correspondant à la quantité de carburants mis à la consommation conformément à l'article 16/1, au cours de l'année civile précédente, telles qu'elles ont été vérifiées conformément à l'article 16/11.
+
+Les quotas restitués sont ensuite annulés.
+
+Par dérogation à l'alinéa 1er, en cas d'application de l'article 30duodecies de la directive 2003/87/CE, le délai de la première restitution de quotas est reporté au 31 mai 2029 pour les émissions totales de l'année 2028.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 21, 012; En vigueur : 30-06-2024&gt;
+
+### Section 5. [<sup>1</sup> Utilisation des recettes de la mise aux enchères des quotas]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 22, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/15.
+
+[<sup>1</sup> Le Gouvernement utilise les recettes, ou leur équivalent en valeur financière, de la mise aux enchères des quotas qui relèvent du présent chapitre pour un ou plusieurs des objectifs visés à l'article 13, § 2, en donnant la priorité aux activités qui permettent de contribuer à traiter les aspects sociaux du système d'échange de quotas d'émission au titre du présent chapitre, ou pour une ou plusieurs des mesures suivantes :
+
+1° les mesures destinées à contribuer à la décarbonation des systèmes de chauffage et de refroidissement des bâtiments ou à la réduction des besoins énergétiques de ceux-ci, y compris l'intégration des énergies renouvelables et autres mesures connexes conformément à l'article 7, § 11, et aux articles 12 et 20 de la directive 2012/27/UE du Parlement européen et du Conseil du
+
+25 octobre 2012 relative à l'efficacité énergétique, modifiant les directives
+
+2009/125/CE et 2010/30/UE et abrogeant les directives 2004/8/CE et 2006/32/CE, ainsi que les mesures visant à fournir une aide financière aux ménages à faible revenu dans les bâtiments les moins performants ;
+
+2° les mesures destinées à accélérer l'adoption de véhicules à émissions nulles ou à soutenir financièrement le déploiement d'infrastructures de recharge et de ravitaillement pleinement interopérables pour les véhicules à émissions nulles, ou les mesures visant à encourager le recours aux transports publics et à améliorer la multimodalité, ou à fournir une aide financière destinée à traiter les aspects sociaux en ce qui concerne les usagers des transports à revenus faibles et moyens ;
+
+3° les mesures destinées à financer le plan social pour le climat conformément à l'article 15 du règlement (UE) 2023/955 du Parlement européen et du Conseil du 10 mai 2023 instituant un Fonds social pour le climat et modifiant le règlement (UE) 2021/1060 ;
+
+4° les mesures destinées à accorder une compensation financière aux consommateurs finaux de carburants lorsqu'il n'a pas été possible d'éviter la double comptabilisation des émissions ou dans les cas où des quotas ont été restitués pour des émissions non couvertes par le présent chapitre, visées à l'article 30septies, § 5, de la directive 2003/87/CE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 23, 012; En vigueur : 30-06-2024&gt;
+
+### Section 6. [<sup>1</sup> Diffusion d'informations et secret professionnel]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 24, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/16.
+
+[<sup>1</sup> Sans préjudice de l'article 458 du Code pénal, les décisions et les rapports concernant la surveillance, la déclaration et la vérification des émissions sont immédiatement et systématiquement diffusés sur le site de l'Agence wallonne de l'Air et du Climat, de manière à garantir un accès non discriminatoire à ces informations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 25, 012; En vigueur : 30-06-2024&gt;
+
+### Section 7. [<sup>1</sup> Sanctions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 26, 012; En vigueur : 30-06-2024&gt;
+
+##### Art. 16/17.
+
+[<sup>1</sup> § 1er. Tout entité réglementée qui, au plus tard le 31 mai de chaque année, ne restitue pas un nombre de quotas suffisant pour couvrir ses émissions de gaz à effet de serre de l'année précédente paie une amende sur les émissions excédentaires.
+
+L'amende est de 100 euros pour chaque tonne d'équivalent-dioxyde de carbone émise pour laquelle l'entité réglementée n'a pas restitué de quotas.
+
+L'amende sur les émissions excédentaires concernant les quotas qui relèvent du présent chapitre augmente conformément à l'indice européen des prix à la consommation.
+
+§ 2. Le paiement de l'amende ne libère pas l'entité réglementée de l'obligation de restituer un nombre de quotas égal aux émissions excédentaires au plus tard lors de la restitution des quotas correspondant à l'année civile suivante.
+
+§ 3. Tant que l'entité réglementée ne les restitue pas, les quotas détenus par cette entité règlementée peuvent uniquement être cédés à partir du 1er juin, à concurrence de la quantité considérée par le Gouvernement comme ceux devant être restituée.
+
+§ 4. L'amende est infligée par le fonctionnaire désigné par le Gouvernement.
+
+Le fonctionnaire notifie sa décision à l'entité réglementée concernée, par lettre recommandée, dans un délai de trente jours prenant cours à l'échéance du délai fixé pour la restitution des quotas.
+
+La décision d'infliger une amende mentionne les possibilités de recours.
+
+La procédure de recours et les modalités de perception de l'amende sont celles déterminées à l'article 11/1, §§ 2 et 3.
+
+§ 5. Le nom de l'entité réglementée qui est en défaut de restituer suffisamment de quotas est publié au Moniteur belge. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-04-17/01, art. 27, 012; En vigueur : 30-06-2024&gt;
+
+## CHAPITRE V. - Dispositions modificatives du décret du 11 mars 1999 relatif au permis d'environnement.
+
+##### Art. 17
+
+[<sup>1</sup> A l'article 10, § 2, du décret du 11 mars 1999 relatif au permis d'environnement, modifié par les décrets des 10 novembre 2004 et 22 novembre 2007, sont apportées les modifications suivantes :
+
+1° à l'alinéa 1er, le mot " spécifiés " est abrogé;
+
+2° un alinéa, rédigé comme suit est inséré entre les alinéas 1er et 2 :
+
+" En ce qui concerne les établissements dans lesquels interviennent une ou plusieurs installations ou activités émettant des gaz à effet de serre, les modifications du plan de surveillance faites par l'exploitant ainsi que celles approuvées ou apportées par l'Agence wallonne de l'air et du climat sont annexées au registre. ";
+
+3° à l'alinéa 3 ancien, qui devient l'alinéa 4, les mots " l'organisme qu'il désigne " sont remplacés par les mots " l'Agence wallonne de l'Air et du Climat " et les mots " notablement " et " spécifiés " sont abrogés;
+
+4° le paragraphe est complété par un alinéa rédigé comme suit :
+
+" A défaut, le fonctionnaire technique annexe le nouveau plan de surveillance à l'autorisation d'émettre. "]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 32, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. 18
+
+[<sup>1</sup> L'article 17, alinéa 2, du même décret, modifié par le décret du 19 septembre 2002, est complété par un 10° rédigé comme suit :
+
+" 10° en ce qui concerne les établissements dans lesquels interviennent une ou plusieurs installations ou activités émettant des gaz à effet de serre, de déterminer si une autorisation d'émettre des gaz à effet de serre peut être délivrée. "]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 33, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. 18/1
+
+[<sup>1</sup> L'article 45, § 1er, alinéa 2, du même décret, modifié par le décret du 19 septembre 2002, est complété par un 5° rédigé comme suit :
+
+" 5° en ce qui concerne les établissements dans lesquels interviennent une ou plusieurs installations ou activités émettant des gaz à effet de serre, l'autorisation d'émettre des gaz à effet de serre. ".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-06-21/08, art. 34, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. 18/2
+
+[<sup>1</sup> Dans le paragraphe 5 de l'article 76quater du même décret, inséré par le décret du 22 novembre 2007, les mots "Les §§ 2 et 3" sont remplacés par les mots "Les §§ 2 à 4" et les mots "l'article 9, § 1er" sont remplacés par les mots "l'article 10, § 1er".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-06-21/08, art. 35, 006; En vigueur : 01-01-2013&gt;
+
+## CHAPITRE VI. - Dispositions transitoires.
+
+##### Art. 19
+
+Au cours de la première période de référence, le Gouvernement peut demander à la Commission européenne que certains établissements dans lesquels interviennent une ou des installations ou activités désignées par le Gouvernement, émettant des gaz à effet de serre spécifiés, bénéficient de quotas supplémentaires en cas de force majeure.
+
+Sous réserve d'obtenir l'accord de la Commission europeenne, le Gouvernement peut décider d'allouer des quotas supplémentaires et non transférables aux exploitants de ces établissements.
+
+##### Art. 20
+
+Certaines installations peuvent être temporairement exclues du système d'échange de quotas d'émission, et ce, jusqu'au 31 décembre 2007 au plus tard.
+
+La liste de ces installations ou activités pour lesquelles une demande a été introduite est publiée au Moniteur belge.
+
+Le Gouvernement peut solliciter l'application de la procédure visée à l'article 27 de la Directive 2003/87/C.E., en s'assurant que l'établissement concerné :
+
+1° limite ses émissions à un niveau équivalant à celui qui serait obtenu en vertu du présent décret;
+
+2° est soumis aux exigences en matière de surveillance, de déclaration des émissions de gaz à effet de serre et de vérification équivalant à celles prévues par le présent décret;
+
+3° est soumis à des sanctions au moins équivalentes à celles prévues à l'article 12, en cas de non-respect des exigences qui lui sont applicables.
+
+Le Gouvernement peut préciser les modalités d'application du présent article.
+
+##### Art. 21
+
+§ 1er. Dans un délai de vingt jours à dater de l'entrée en vigueur du présent décret, l'exploitant d'un établissement existant visé par le premier plan wallon d'allocation des quotas envoie par lettre recommandée à la poste avec accusé de réception ou remet contre récépissé à l'autorité compétente une demande pour être autorisé à émettre des gaz à effet de serre.
+
+La demande est établie au moyen d'un formulaire arrêté par l'autorité compétente.
+
+§ 2. L'autorité compétente envoie sa décision par lettre recommandée à la poste avec accusé de réception à l'exploitant dans un délai de trente jours à dater du jour où elle reçoit la demande.
+
+§ 3. Un recours contre les décisions visées au paragraphe 2 est ouvert à l'exploitant auprès du Gouvernement.
+
+Sous peine d'irrecevabilité, le recours est envoyé par lettre recommandée à la poste avec accusé de réception ou remis contre récépissé au Ministre de l'Environnement à l'adresse de la Direction générale des Ressources naturelles et de l'Environnement dans un délai de dix jours à dater de la réception de la décision par l'exploitant.
+
+Le recours n'est pas suspensif de la décision attaquée.
+
+Le Gouvernement envoie sa décision au requérant par lettre recommandée à la poste avec accusé de réception dans un délai de vingt jours à dater du jour où il reçoit le recours.
+
+§ 4. Lorsqu'elle ne dispose pas des informations requises, l'autorité competente en première instance ou sur recours ou les instances intervenant dans l'instruction de la demande peuvent exiger de l'exploitant des informations complémentaires.
+
+§ 5. L'autorité compétente prend sa décision sur la base des lignes directrices établies par la décision européenne du 29 janvier 2004 concernant l'adoption de lignes directrices pour la surveillance et la déclaration des émissions de gaz à effet de serre, conformément à la Directive 2003/87/C.E. du Parlement européen et du Conseil. Le Gouvernement peut préciser ces lignes directrices.
+
+##### Art. 22
+
+A titre transitoire, le Gouvernement peut, dans un objectif de surveillance, habiliter un service ou un organisme à vérifier que les coûts éventuels répercutés aux consommateurs d'électricité au nom du système d'échange de quotas d'émission de gaz à effet de serre instauré par le présent décret, ou au nom du régime des certificats verts instauré par le décret du 12 avril 2001 relatif à l'organisation du marché regional de l'électricité, reflètent les coûts réels encourus.
+
+Le Gouvernement peut arrêter les modalités de cette surveillance.
+
+##### Art. 23
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+## ANNEXES.
+
+##### Art. N1
+
+Annexe I. - [<sup>1</sup> Gaz à effet de serre visés à l'article 2, 2° :
+
+\- Dioxyde de carbone (CO2);
+
+\- Méthane (CH4);
+
+\- Protoxyde d'azote (N2O);
+
+\- Hydrocarbures fluorés (HFC);
+
+\- Hydrocarbures perfluorés (PFC);
+
+\- Hexafluorure de soufre (SF6).]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-06-21/08, art. 36, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. N1/1
+
+&lt;Abrogé par DRW 2012-06-21/08, art. 37, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. N2
+
+&lt;Abrogé par DRW 2012-06-21/08, art. 37, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. N2/1
+
+&lt;Abrogé par DRW 2012-06-21/08, art. 37, 006; En vigueur : 01-01-2013&gt;
+
+##### Art. N3
+
+&lt;Abrogé par DRW 2012-06-21/08, art. 37, 006; En vigueur : 01-01-2013&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 10 novembre 2004.
+
+Le Ministre-President,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances, de l'Equipement et du Patrimoine,
+
+M. DAERDEN
+
+La Ministre de la Formation,
+
+Mme M. ARENA
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de l'Economie et de l'Emploi,
+
+J.-C. MARCOURT
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des chances,
+
+Mme Ch. VIENNE
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN

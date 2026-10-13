@@ -1,0 +1,99 @@
+---
+title: "Décret modifiant les articles 6, 21, 110bis et 127 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine."
+identifier: "2005203187"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/10/27/2005203187/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2005-10-27
+published: 2005-11-23
+entry_into_force: 2005-12-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/10/27/2005203187/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 27 OCTOBRE 2005. - Décret modifiant les articles 6, 21, 110bis et 127 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+A l'article 6 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine, supprimer l'alinéa 1er et remplacer l'alinéa 2, qui devient l'alinéa 1er, par le texte suivant :
+
+" Le bureau de la Commission est composé du président, des vice-présidents et de deux membres par section.
+
+Le Gouvernement désigne la ou les sections chargées de proposer les avis au bureau, sur tout projet de décret ou d'arrêté de portée générale relevant de l'aménagement du territoire et de l'urbanisme, en ce compris le schéma de développement de l'espace régional, le plan de secteur et le règlement régional d'urbanisme. "
+
+## Art. 2
+
+A l'article 21 du même Code, le mot " Après " est remplacé par les mots " Sauf pour les domaines des infrastructures ferroviaires ou aéroportuaires et des ports autonomes qu'il n'affecte pas, après ".
+
+## Art. 3
+
+L'article 110 du même Code est abrogé.
+
+## Art. 4
+
+L'article 110bis du même Code devient l'article 110.
+
+## Art. 5
+
+A l'article 127, § 1er, alinéa 1er, 4°, du même Code, les mots " dans la zone visée à l'article 28 " sont remplacés par les mots " dans une zone à laquelle s'applique la prescription visée à l'article 28 ou dans les domaines des infrastructures ferroviaires ou aéroportuaires et des ports autonomes visés à l'article 21 ".
+
+Le même alinéa est complété par le texte suivant :
+
+" 7° lorsqu'il concerne les constructions et équipements de service public ou communautaires. "
+
+Le § 3 du même article est remplacé par le texte suivant :
+
+" § 3. Pour autant que la demande soit préalablement soumise aux mesures particulières de publicité déterminées par le Gouvernement ainsi qu'à la consultation visée à l'article 4, alinéa 1er, 3°, lorsqu'il s'agit d'actes et travaux visés au § 1er, alinéa 1er, 1°, 2°, 4°, 5° et 7°, et qui soit respectent, soit structurent, soit recomposent les lignes de force du paysage, le permis peut être accordé en s'écartant du plan de secteur, d'un plan communal d'aménagement, d'un règlement communal d'urbanisme ou d'un plan d'alignement. "
+
+Au § 4, alinéa 1er, du même article, supprimer les termes " En cas d'avis favorable du collège des bourgmestre et échevins. "
+
+Au § 5 du même article, remplacer l'alinéa 1er par le texte suivant :
+
+" Lorsque la demande porte sur des actes et travaux pour lesquels aucune délégation n'est accordée, le fonctionnaire délégué transmet son avis au Gouvernement dans les délais prévus au § 4, alinéa 2. "
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 27 octobre 2005.
+
+Le Ministre-Président,
+
+E. DI RUPO
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances, de l'Equipement et du Patrimoine,
+
+M. DAERDEN
+
+La Ministre de la Formation,
+
+Mme M. ARENA
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de l'Economie et de l'Emploi,
+
+J.-C. MARCOURT
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des chances,
+
+Mme Ch. VIENNE
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN.

@@ -1,0 +1,89 @@
+---
+title: "Décret contenant le premier feuilleton d'ajustement du budget des recettes de la Région wallonne pour l'année budgétaire 2005."
+identifier: "2005027365"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/14/2005027365/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2005-07-14
+published: 2005-08-18
+entry_into_force: 2005-08-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/14/2005027365/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 14 JUILLET 2005. - Décret contenant le premier feuilleton d'ajustement du budget des recettes de la Région wallonne pour l'année budgétaire 2005.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Pour l'année budgétaire 2005, les recettes courantes de la Région wallonne sont évaluées à 4.976.208.000 euros, conformément au Titre Ier du tableau annexé au présent décret.
+
+## Art. 2
+
+Pour l'année budgétaire 2005, les recettes en capital de la Région wallonne sont évaluées à 419.792.000 euros, conformément au Titre II du tableau annexé au présent décret.
+
+## Art. 3
+
+Sont insérés au § 1er de l'article 38 du décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz les termes suivants :
+
+" 10° par les remboursements effectués par les bénéficiaires d'avances récupérables octroyées dans le domaine de l'énergie;
+
+11° par la rétrocession des soldes non utilisés des dotations allouées à la CWAPE. "
+
+## Art. 4
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 14 juillet 2005.
+
+Le Ministre-Président,
+
+J.-Cl. VAN CAUWENBERGHE
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances, de l'Equipement et du Patrimoine,
+
+M. DAERDEN
+
+La Ministre de la Formation,
+
+Mme M. ARENA
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de l'Economie et de l'Emploi,
+
+J.-C. MARCOURT
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des chances,
+
+Mme Ch. VIENNE
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN
+
+## ANNEXE.
+
+## Art. N
+
+Tableau budgétaire
+
+(Tableau non repris pour motifs techniques. Voir M.B. 18-08-2005, p. 36282-36295).

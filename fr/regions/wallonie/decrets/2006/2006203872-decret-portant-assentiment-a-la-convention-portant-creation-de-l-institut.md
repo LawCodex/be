@@ -1,0 +1,69 @@
+---
+title: "Décret portant assentiment à la Convention portant création de l'Institut international des Ressources phytogénétiques, adoptée à Rome le 9 octobre 1991 et signée par la Belgique le 9 octobre 1992."
+identifier: "2006203872"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203872/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2006-11-10
+published: 2006-11-28
+entry_into_force: 2006-12-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203872/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 10 NOVEMBRE 2006. - Décret portant assentiment à la Convention portant création de l'Institut international des Ressources phytogénétiques, adoptée à Rome le 9 octobre 1991 et signée par la Belgique le 9 octobre 1992.
+
+Le Parlement wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+La Convention portant création de l'Institut international des Ressources phytogénétiques, adoptée à Rome le 9 octobre 1991 et signée par la Belgique le 9 octobre 1992, sortira son plein et entier effet.
+
+## Art. 2
+
+Les amendements à l'annexe de la Convention, qui seront adoptés en application de l'article 19 de cette annexe, sortiront leur plein et entier effet.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 10 novembre 2006.
+
+Le Ministre-Président,
+
+E. DI RUPO
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances, de l'Equipement et du Patrimoine,
+
+M. DAERDEN
+
+La Ministre de la Formation,
+
+Mme M. ARENA
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de l'Economie, de l'Emploi et du Commerce extérieur,
+
+J.-C. MARCOURT
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme Ch. VIENNE
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN.

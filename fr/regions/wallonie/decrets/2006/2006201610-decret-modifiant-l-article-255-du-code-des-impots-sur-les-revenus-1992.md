@@ -1,0 +1,77 @@
+---
+title: "Décret modifiant l'article 255 du Code des impôts sur les revenus 1992."
+identifier: "2006201610"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/27/2006201610/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2006-04-27
+published: 2006-05-15
+entry_into_force: 2006-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/27/2006201610/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 27 AVRIL 2006. - Décret modifiant l'article 255 du Code des impôts sur les revenus 1992.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Dans l'article 255, § 1er, du Code des impôts sur les revenus 1992, tel que remplacé par le décret du 22 octobre 2003, il est inséré un alinéa 4 rédigé comme suit :
+
+"Le taux est également ramené à 0,8 % pour les habitations mises en location ou prises en gestion par un opérateur immobilier en application du Code wallon du Logement."
+
+## Art. 2
+
+Dans l'article 255, § 1er, du Code des impôts sur les revenus 1992, tel que remplacé par le décret du 22 octobre 2003, il est inséré un alinéa 5 rédigé comme suit :
+
+"Le taux est ramené à 0 % pour les habitations dont le redevable est une personne physique et qui sont prises en location ou en gestion par un opérateur immobilier en application du Code wallon du Logement, à la condition qu'une convention écrite soit conclue entre le contribuable et l'opérateur immobilier déterminant la durée de la mise à disposition du bien, le prix du loyer demandé par la personne physique et, le cas échéant, le descriptif des travaux à réaliser."
+
+## Art. 3
+
+Le présent décret entre en vigueur à partir de l'exercice d'imposition 2006.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 27 avril 2006.
+
+Le Ministre-Président,
+
+E. DI RUPO
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances, de l'Equipement et du Patrimoine,
+
+M. DAERDEN
+
+La Ministre de la Formation,
+
+Mme M. ARENA
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de l'Economie, de l'Emploi et du Commerce extérieur,
+
+J.-C. MARCOURT
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme Ch. VIENNE
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN.
