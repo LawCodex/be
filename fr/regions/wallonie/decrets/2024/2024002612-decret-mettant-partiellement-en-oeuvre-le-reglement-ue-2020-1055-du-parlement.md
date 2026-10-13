@@ -1,0 +1,245 @@
+---
+title: "Décret mettant partiellement en oeuvre le Règlement (UE) 2020/1055 du Parlement européen et du Conseil du 15 juillet 2020 modifiant les Règlements (CE) n° 1071/2009, (CE) n° 1072/2009 et (UE) n° 1024/2012 en vue de les adapter aux évolutions du secteur du transport par route et transposant partiellement la directive (UE) 2022/738 du Parlement européen et du Conseil du 6 avril 2022 modifiant la directive 2006/1/CE relative à l'utilisation de véhicules loués sans chauffeur dans le transport de marchandises par route"
+identifier: "2024002612"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/10/2024002612/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2024-01-10
+published: 2024-03-27
+entry_into_force: 2024-04-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/10/2024002612/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 10 JANVIER 2024. - Décret mettant partiellement en oeuvre le Règlement (UE) 2020/1055 du Parlement européen et du Conseil du 15 juillet 2020 modifiant les Règlements (CE) n° 1071/2009, (CE) n° 1072/2009 et (UE) n° 1024/2012 en vue de les adapter aux évolutions du secteur du transport par route et transposant partiellement la directive (UE) 2022/738 du Parlement européen et du Conseil du 6 avril 2022 modifiant la directive 2006/1/CE relative à l'utilisation de véhicules loués sans chauffeur dans le transport de marchandises par route
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition introductive
+
+### Art. 1er
+
+Le présent décret met en oeuvre partiellement le Règlement (UE) 2020/1055 du Parlement européen et du Conseil du 15 juillet 2020 modifiant les Règlements (CE) n° 1071/2009, (CE) n° 1072/2009 et (UE) n° 1024/2012 en vue de les adapter aux évolutions du secteur du transport par route.
+
+Le présent décret transpose partiellement la directive (UE) 2022/738 du Parlement européen et du Conseil du 6 avril 2022 modifiant la directive 2006/1/CE relative à l'utilisation de véhicules loués sans chauffeur dans le transport de marchandises par route.
+
+## CHAPITRE 2. - Modifications de la loi du 15 juillet 2013 relative au transport de marchandises par route et portant exécution du Règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du Conseil et portant exécution du Règlement (CE) n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché du transport international de marchandises par route
+
+### Art. 2
+
+A l'article 3, alinéa 2, de la loi du 15 juillet 2013 relative au transport de marchandises par route et portant exécution du Règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du
+
+Conseil et portant exécution du Règlement (CE) n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché du transport international de marchandises par route, les mots " et dont la masse maximale autorisée n'excède pas deux-mille-cinqcents kilogrammes " sont ajoutés.
+
+### Art. 3
+
+A l'article 6 de la même loi, les modifications suivantes sont apportées :
+
+1° l'alinéa 2 est complété par les mots " et dont la masse maximale autorisée n'excède pas deux-mille-cinq-cents kilogrammes ";
+
+2° l'alinéa 3 est complété par les mots " et dont la masse maximale autorisée n'excède pas deux-mille-cinq-cents kilogrammes ".
+
+### Art. 4
+
+L'article 7 de la même loi est complété par un alinéa rédigé comme suit :
+
+" Sans préjudice des obligations prévues à l'alinéa 1er, la société établie en Région wallonne dispose proportionnellement à la taille de son activité :
+
+1° soit, dans ses locaux, d'un personnel administratif dûment qualifié ou que le gestionnaire de transport puisse être joint pendant les heures normales de bureau;
+
+2° soit, d'une infrastructure d'exploitation, autre que l'équipement technique visé à l'article 5, 1, f), du Règlement (CE) n° 1071/2009, sur le territoire de la Région wallonne, notamment un bureau ouvert pendant les heures normales d'activité. ".
+
+### Art. 5
+
+A l'article 8, § 1er, 4°, i), de la même loi, la modification suivante est apportée : le point est remplacé par un point-virgule.
+
+### Art. 6
+
+Dans l'article 8 de la même loi, le paragraphe 1er, 4°, est complété par les j), k) et l) rédigés comme suit :
+
+" j) le détachement de travailleurs dans le secteur du transport par route;
+
+k) la législation applicable aux obligations contractuelles;
+
+l) le cabotage. ".
+
+### Art. 7
+
+Dans l'article 8 de la même loi, le paragraphe 9 est remplacé par ce qui suit :
+
+" § 9. Si un gestionnaire de transport perd son honorabilité conformément à l'article 6 du Règlement (CE) n° 1071/2009, le Gouvernement le déclare inapte à gérer les activités de transport d'une entreprise.
+
+Le Gouvernement peut réhabiliter le gestionnaire de transport au plus tôt un an après la date de la perte de l'honorabilité et, en tout état de cause, pas avant que le gestionnaire de transport ne démontre avoir réussi un examen sur les matières énumérées à l'annexe I, I, du Règlement (CE) n° 1071/2009. ".
+
+### Art. 8
+
+L'article 14 de la même loi est remplacé par ce qui suit :
+
+" Art. 14. L'entreprise satisfait à la condition de capacité financière énoncée à l'article 7 du Règlement (CE) n° 1071/2009 si elle démontre, en fonction du nombre de véhicules à moteur pour lesquels des copies certifiées conformes d'une licence de transport national ou communautaire ont été sollicitées ou délivrées, qu'elle a constitué un cautionnement solidaire d'au moins :
+
+1° 9 000 euros pour le premier véhicule à moteur utilisé;
+
+2° 5 000 euros pour chaque véhicule à moteur supplémentaire ou ensemble de véhicules utilisés. ".
+
+### Art. 9
+
+Dans l'article 32 de la même loi, le paragraphe 1er est complété par un 4° rédigé comme suit :
+
+" 4° aux agents du Service public de Wallonie qui appartiennent au service compétent pour le transport par route. ".
+
+### Art. 10
+
+A l'article 33, § 4, 2°, b), de la même loi, les modifications suivantes sont apportées :
+
+1° le b.1 est remplacé par ce qui suit :
+
+" b.1. l'original du contrat de location ou de location-financement, ou un extrait certifié de ce contrat, en format papier ou en format électronique, contenant le nom du loueur, le nom du locataire, la date du contrat, la durée du contrat, et l'identification du véhicule; ";
+
+2° dans le b.2, le premier tiret est complété par la phrase suivante :
+
+" Le conducteur peut présenter ces documents en format papier ou en format électronique; ".
+
+### Art. 11
+
+Dans l'article 41, § 3, 5°, de la même loi, les mots " paragraphes 2 et 3 " sont remplacés par les mots " paragraphes 2, 2bis et 3 ".
+
+### Art. 12
+
+Dans l'article 55 de la même loi, à l'alinéa 1er, les mots " et dont la masse maximale autorisée n'excède pas deux-mille-cinq-cents kilogrammes " sont insérés entre les mots " cinq cents kg " et les mots " jusqu'à une date à déterminer par le Roi ".
+
+## CHAPITRE 3. - Modifications de la loi du 15 juillet 2013 relative au transport de voyageurs par route et portant exécution du Règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du Conseil, et portant exécution du Règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché international des services de transport par autocars et autobus, et modifiant le Règlement (CE) n° 561/2006
+
+### Art. 13
+
+A l'article 2 de la loi du 15 juillet 2013 relative au transport de voyageurs par route et portant exécution du Règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du Conseil, et portant exécution du Règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché international des services de transport par autocars et autobus, et modifiant le Règlement (CE) n° 561/2006, les modifications suivantes sont apportées :
+
+a) dans le 2°, les mots " , à l'exclusion du transport visé à l'article 6, § 1er, X, alinéa 1er, 8°, de la loi spéciale du 8 août 1980 de réformes institutionnelles " sont abrogés;
+
+b) dans le 3°, les mots " , à l'exclusion du transport visé à l'article 6, § 1er, X, alinéa 1er, 8°, de la loi spéciale du 8 août 1980 de réformes institutionnelles. " sont remplacés par les mots " à caractère occasionnel en ce qui concerne l'accès au marché conformément aux articles 5 et 6; ";
+
+c) l'article est complété par les 4° et 5° rédigés comme suit :
+
+" 4° les services réguliers non transfrontaliers en ce qui concerne l'accès à la profession;
+
+5° les services réguliers spécialisés non transfrontaliers en ce qui concerne l'accès à la profession. ".
+
+### Art. 14
+
+Dans l'article 4 de la même loi, les mots " l'article 2, 1° et 2° " sont remplacés par les mots " l'article 2, 1°, 2°, 4° et 5° ".
+
+### Art. 15
+
+Dans l'article 5 de la même loi, les mots " à caractère occasionnel " sont insérés entre les mots " compte propre " et les mots " n'est autorisé ".
+
+### Art. 16
+
+Dans l'article 6 de la même loi, les mots " l'article 2 " sont remplacés par les mots " l'article 2, 1° à 3°, ".
+
+### Art. 17
+
+L'article 10 de la même loi est complété par un alinéa rédigé comme suit :
+
+" Sans préjudice des obligations prévues à l'alinéa 1er, la société établie en Région wallonne dispose proportionnellement à la taille de son activité :
+
+1° soit, dans ses locaux, d'un personnel administratif dûment qualifié ou que le gestionnaire de transport puisse être joint pendant les heures normales de bureau;
+
+2° soit, d'une infrastructure d'exploitation, autre que l'équipement technique visé à l'article 5, 1, f), du Règlement n° 1071/2009, sur le territoire de la Région wallonne, notamment un bureau ouvert pendant les heures normales d'activité. ".
+
+### Art. 18
+
+A l'article 11, § 1er, 4°, g), de la même loi, la modification suivante est apportée : le point est remplacé par un point-virgule.
+
+### Art. 19
+
+Dans l'article 8 de la même loi, le paragraphe 1er, 4°, est complété par les h), i) et j) rédigés comme suit :
+
+" h) le détachement de travailleurs dans le secteur du transport par route;
+
+i) la législation applicable aux obligations contractuelles;
+
+j) le cabotage. ".
+
+### Art. 20
+
+Dans l'article 11 de la même loi, le paragraphe 9 est remplacé par ce qui suit :
+
+" § 9. Si un gestionnaire de transport perd son honorabilité conformément à l'article 6 du Règlement (CE) n° 1071/2009, le Gouvernement le déclare inapte à gérer les activités de transport d'une entreprise.
+
+Le Gouvernement peut réhabiliter le gestionnaire de transport au plus tôt un an après la date de la perte de l'honorabilité et, en tout état de cause, pas avant que le gestionnaire de transport n'ait démontré qu'il a réussi un examen sur les matières énumérées à l'annexe I, partie I, du Règlement (CE) n° 1071/2009. ".
+
+### Art. 21
+
+L'article 17 de la même loi, modifié par le décret du 28 janvier 2021, est remplacé par ce qui suit :
+
+" Art. 17. L'entreprise satisfait à la condition de capacité financière visée à l'article 7 du Règlement (CE) n° 1071/2009 si elle démontre, en fonction du nombre de véhicules à moteur pour lesquels des copies certifiées conformes de la licence communautaire ont été demandées ou délivrées, qu'elle dispose sur base d'un cautionnement solidaire ou sur base de capitaux et réserves, éventuellement complétés par un cautionnement solidaire, d'un total d'au moins :
+
+1° 9 000 euros pour le premier véhicule utilisé;
+
+2° 5 000 euros pour chaque véhicule supplémentaire utilisé.
+
+Les capitaux et réserves visés à l'alinéa 1er sont attestés sur la base des comptes annuels certifiés par un auditeur ou une personne dûment accréditée. ".
+
+### Art. 22
+
+Dans l'article 22 de la même loi, le paragraphe 1er est complété par un 4° rédigé comme suit :
+
+" 4° aux agents du Service public de Wallonie qui appartiennent au service compétent pour le transport par route. ".
+
+## CHAPITRE 4. - Dispositions finales
+
+### Art. 23
+
+L'arrêté du Gouvernement wallon du 30 avril 2009 fixant les conditions d'accès à la profession de transporteur de personnes par route pour les services de transport réguliers et réguliers spécialisés est abrogé.
+
+### Art. 24
+
+Les autorisations, accordées conformément à l'article 5 de l'arrêté du Gouvernement wallon du 30 avril 2009 fixant les conditions d'accès à la profession de transporteurs de personnes par route pour les services de transport réguliers et réguliers spécialisés, sont considérées comme des licences communautaires au sens de l'article 4 de la loi du 15 juillet 2013 relative au transport de voyageurs par route et portant exécution du Règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du Conseil, et portant exécution du Règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché international des services de transport par autocars et autobus, et modifiant le Règlement (CE) n° 561/2006, pour la durée restante jusqu'à leur date d'échéance.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 10 janvier 2024.
+
+Le Ministre-Président,
+
+E. DI RUPO
+
+Le Vice-Président et Ministre de l'Economie, du Commerce extérieur, de la Recherche et de l'Innovation,
+
+du Numérique, de l'Aménagement du territoire, de l'Agriculture, de l'IFAPME et des Centres de compétences,
+
+W. BORSUS
+
+Le Vice-Président et Ministre du Climat, de l'Energie, de la Mobilité et des Infrastructures,
+
+Ph. HENRY
+
+La Vice-Présidente et Ministre de l'Emploi, de la Formation, de la Santé, de l'Action sociale
+
+et de l'Economie sociale, de l'Egalité des chances et des Droits des femmes,
+
+Ch. MORREALE
+
+La Ministre de la Fonction publique, de l'Informatique, de la Simplification administrative,
+
+en charge des allocations familiales, du Tourisme, du Patrimoine et de la Sécurité routière,
+
+V. DE BUE
+
+Le Ministre du Logement, des Pouvoirs locaux et de la Ville,
+
+Ch. COLLIGNON
+
+Le Ministre du Budget et des Finances, des Aéroports et des Infrastructures sportives,
+
+A. DOLIMONT
+
+La Ministre de l'Environnement, de la Nature, de la Forêt, de la Ruralité et du Bien-être animal,
+
+C. TELLIER

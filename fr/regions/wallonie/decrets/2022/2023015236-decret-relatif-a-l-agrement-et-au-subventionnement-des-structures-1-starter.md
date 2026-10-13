@@ -1,0 +1,881 @@
+---
+title: "Décret relatif à l'agrément et au subventionnement des structures [ 1 Starter Wallonia] ( 1 )<DRW 2026-07-16/37 , art.1 , 004; En vigueur : 12-09-2026>"
+identifier: "2023015236"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/21/2023015236/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2022-12-21
+published: 2023-02-21
+entry_into_force: 2023-01-01
+last_amended: 2026-09-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/21/2023015236/justel"
+department: "Service public de Wallonie"
+justel_note: "Consultation des versions antérieures à partir du 21-02-2023 et mise à jour au 02-09-2026"
+retrieved: 2026-10-12
+---
+
+# 21 DECEMBRE 2022. - Décret relatif à l'agrément et au subventionnement des structures [ 1 Starter Wallonia] ( 1 )&lt;DRW 2026-07-16/37 , art.1 , 004; En vigueur : 12-09-2026&gt;
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions introductives
+
+#### Art. 1er
+
+Pour l'application du présent décret et de ses arrêtés d'exécution, l'on entend par :
+
+1° la [<sup>2</sup> structure]<sup>2</sup> : la structure d'accompagnement à l'autocréation d'emploi ayant pour objectif la création ou la reprise d'une activité économique [<sup>3</sup> en personne physique ou en personne morale dont la dénomination commerciale contient les mots " Starter Wallonia "]<sup>3</sup>;
+
+2° la [<sup>2</sup> structure]<sup>2</sup> généraliste : la structure d'accompagnement à l'autocréation d'emploi qui accompagne un porteur de projet dont le projet est lié à tout type et tout secteur d'activité [<sup>3</sup> , à l'exclusion des thématiques ou secteurs d'activités visés par une structure spécialisée]<sup>3</sup>;
+
+3° la [<sup>2</sup> structure]<sup>2</sup> spécialisée : la structure d'accompagnement à l'autocréation d'emploi qui accompagne un porteur de projet dont le projet est lié à une thématique ou un secteur d'activités spécifique;
+
+4° le porteur de projet : tout [<sup>1</sup> chercheur]<sup>1</sup> d'emploi inoccupé, inscrit au FOREm, qui propose un projet de création ou de reprise d'activités dans le but de réaliser ultérieurement son installation à titre principal en tant qu'entrepreneur;
+
+5° l'entrepreneur : le porteur de projet qui, à l'issue de son accompagnement [<sup>3</sup> par une structure généraliste ou spécialisée]<sup>3</sup>., concrétise son projet d'entreprise en s'inscrivant à la Banque-Carrefour des Entreprises ou reprend une activité économique;
+
+6° la subvention : la compensation en vue d'exercer le mandat S.I.E.G., à l'exception de la phase [<sup>3</sup> de consolidation qui est soumise au règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis]<sup>3</sup>;
+
+7° le S.I.E.G. : le service d'intérêt économique général, tel que visé aux articles 14 et 106, 2, du Traité sur le fonctionnement de l'Union européenne, en abrégé : " T.F.U.E. " ainsi que dans le Protocole n° 26 at- taché au T.F.U.E.;
+
+8° la décision de la Commission du 20 décembre 2011 : la décision 2012/21/UE de la Commission du 20 décembre 2011 relative à l'application de l'article 106, paragraphe 2, du Traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous la forme de compensations de service public octroyées à certaines entreprises chargées de la gestion des services d'intérêt économique général;
+
+9° l'unité d'établissement : l'unité d'établissement telle que définie à l'article I.2, 16°, du Code de droit économique;
+
+10° l'administration : la Direction de l'Emploi et des Permis de travail, du Département de l'Emploi et de la Formation professionnelle, du Service public de Wallonie Economie, Emploi et Recherche;
+
+11° le FOREm : l'Office wallon de la formation professionnelle et de l'emploi institué par le décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi;
+
+12° [<sup>3</sup> Wallonie Entreprendre : la société instituée par l'article 1er du décret du 19 octobre 2022 relatif aux sociétés régionales de développement économique et aux sociétés spécialisées ;]<sup>3</sup>
+
+13° [<sup>3</sup> la direction territoriale : la direction territoriale du FOREm organisée sur base de l'article 26 du décret du 6 mai 1999 relatif à l'Office wallon de la formation professionnelle et de l'emploi ;]<sup>3</sup>
+
+[<sup>3</sup> 14° la collaboration : la situation dans laquelle la structure s'entoure de partenaires afin de renforcer son offre de services et de favoriser les complémentarités ;
+
+15° la sous-traitance : l'opération par laquelle une structure confie par un marché public l'exécution d'une partie de ses missions dont elle demeure responsable ;
+
+16° le chercheur d'emploi inoccupé : le chercheur d'emploi inscrit depuis un jour au moins en tant que tel auprès du FOREm, qui n'a pas atteint l'âge légal de la pension et qui ne se trouve ni dans les liens d'un contrat de travail, ni dans une relation statutaire et n'exerce aucune activité d'indépendant à titre complémentaire ou à titre principal ;
+
+17° le parcours d'accompagnement : l'ensemble structuré d'étapes successives permettant au porteur de projet d'être informé, évalué, formé et accompagné jusqu'au lancement et à la consolidation de son activité, selon un dispositif progressif et adaptable ;
+
+18° l'IFAPME : l'Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises institué par le décret du 17 juillet 2003 portant constitution d'un Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises ;
+
+19° la phase : l'étape structurée du parcours d'accompagnement, intégrée au livrable unique, correspondant à un niveau De maturité du projet et poursuivant des objectifs spécifiques ;
+
+20° le jalon : le point d'évaluation intervenant à l'issue d'une phase, consistant en une analyse, réalisée par le conseiller référent, de la situation du projet et de l'ambition du porteur de projet ;
+
+21° le conseiller : le membre du personnel de la structure chargé d'accompagner le porteur de projet ;
+
+22° le règlement (UE) 2016/679 : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).]<sup>3</sup>
+
+[<sup>3</sup> Pour l'application de l'alinéa 1er, 3°, une structure spécialisée peut faire appel à une structure généraliste visée à l'alinéa 1er, 2°, pour exécuter tout ou partie de l'axe d'accompagnement visé à l'article 15, § 1er, alinéa 1er, 3°.
+
+Pour l'application de l'alinéa 1er, 19°, chaque phase comprend un ensemble cohérent d'actions d'accompagnement et se clôture par un jalon.
+
+Pour l'application de l'alinéa 1er, 20°, l'analyse permet de déterminer la poursuite, l'adaptation, la réorientation ou l'arrêt de l'accompagnement, ainsi que, le cas échéant, le passage à la phase suivante et la définition d'un plan d'action adapté.]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 2, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 7, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 2
+
+Sont assimilés à des [<sup>2</sup> chercheurs]<sup>2</sup> d'emploi inoccupés pour l'application de l'article 1er, 4°, les [<sup>2</sup> chercheurs]<sup>2</sup> d'emploi occupés suivants :
+
+1° le [<sup>1</sup> chercheur]<sup>1</sup> d'emploi qui est en période de préavis, presté ou non;
+
+2° le [<sup>1</sup> chercheur]<sup>1</sup> d'emploi qui est en cellule de reconversion;
+
+3° le [<sup>1</sup> chercheur]<sup>1</sup> d'emploi qui est indemnisé en application des dispositions légales ou réglementaires en matière d'assurance obligatoire contre la maladie ou l'invalidité dont la demande de réhabilitation ou réorientation professionnelle a été approuvée par la Commission supérieure du Conseil médical de l'invalidité;
+
+4° le jeune [<sup>1</sup> chercheur]<sup>1</sup> d'emploi en stage d'insertion;
+
+5° le [<sup>1</sup> chercheur]<sup>1</sup> d'emploi ayant reçu l'autorisation de l'Office national de l'emploi, visé à l'article 7 de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, d'exercer une activité accessoire en qualité d'indépendant.
+
+Le Gouvernement peut étendre, par assimilation, la qualité de [<sup>1</sup> chercheur]<sup>1</sup> d'emploi inoccupé à d'autres catégories de [<sup>2</sup> chercheurs]<sup>2</sup> d'emplois que celles visées à l'alinéa 1er.
+
+La [<sup>3</sup> structure]<sup>3</sup> vérifie auprès du FOREm :
+
+1° la qualité de [<sup>1</sup> chercheur]<sup>1</sup> d'emploi inoccupé du porteur de projet;
+
+2° la qualité de [<sup>1</sup> chercheur]<sup>1</sup> d'emploi pour les situations visées à l'alinéa 1er;
+
+3° les conditions de l'assimilation visées à l'alinéa 1er, 2° ou 4°.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 2, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 3, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 3
+
+Le présent décret vise à octroyer, dans les limites des crédits budgétaires disponibles, une subvention aux [<sup>1</sup> structures]<sup>1</sup>. agréées pour l'accompagnement des porteurs de projet ou des entrepreneurs ayant pour objectif la création ou la reprise d'une activité économique [<sup>2</sup> en personne physique ou en personne morale]<sup>2</sup>.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 8, 004; En vigueur : 12-09-2026&gt;
+
+## CHAPITRE 2. - Agrément, obligations et subventionnement
+
+### Section l. - Agrément
+
+#### Art. 4
+
+§ 1er. L'accompagnement des porteurs de projet et des entrepreneurs organisé dans le cadre du présent décret est donné par des [<sup>1</sup> structure]<sup>1</sup> agréées par le Gouvernement.
+
+Personne d'autre ne porte la dénomination " [<sup>3</sup> Starter Wallonia]<sup>3</sup>. ", ou un autre terme, traduction ou graphie susceptible de créer une confusion, sans être titulaire de l'agrément visé par le présent décret.
+
+[<sup>3</sup> Le Gouvernement peut établir des règles de communication commerciale communes à toutes les structures.]<sup>3</sup>
+
+§ 2. La [<sup>1</sup> structure]<sup>1</sup> répond aux conditions suivantes afin d'être agréée :
+
+1° elle est constituée sous la forme d'une association sans but lucratif qui a pour objet social unique l'accompagnement de porteurs de projet ayant pour objectif la création ou la reprise d'une activité économique [<sup>3</sup> en personne physique ou en personne morale]<sup>3</sup>;
+
+2° [<sup>3</sup> elle dispose d'au moins une unité d'établissement sur le territoire de la région de langue française dans laquelle sont exercées les activités financées par ou en vertu du présent décret ;]<sup>3</sup>
+
+3° elle démontre sa capacité à offrir des services adaptables à chaque porteur de projet et chaque entrepreneur, en propre [<sup>3</sup> , en collaboration]<sup>3</sup> ou en sous-traitance, lui permettant de préparer, de lancer, de reprendre et de développer son activité [<sup>3</sup> , conformément à l'article 15]<sup>3</sup>;
+
+4° elle met à disposition le matériel et les locaux nécessaires, attestant ainsi de sa capacité d'accueil;
+
+5° elle démontre sa capacité à organiser le test des porteurs de projets, visé à l'article 15, § 1er, alinéa 1er, 3°, en propre ou en collaboration avec [<sup>3</sup> une structure spécialisée lorsque le test porte sur une thématique ou un secteur spécifique pour lequel une structure spécialisée est agréée]<sup>3</sup>;
+
+6° elle apporte la preuve de sa pertinence, de sa plus-value, de son ancrage local et de sa connaissance du territoire [<sup>3</sup> au sein duquel]<sup>3</sup> elle propose de développer son activité;
+
+7° elle décrit les partenariats mis en oeuvre afin, d'une part, de faciliter l'accès des porteurs de projet au financement de leur projet et, d'autre part, de mettre en relation les porteurs de projet avec les acteurs économiques et les acteurs de l'insertion, ainsi qu'avec les institutions et les opérateurs disposant d'une reconnaissance ou d'un agrément wallon en matière de création et de reprise d'entreprise, en vue de faciliter leur intégration dans des réseaux entrepreneuriaux, leur réorientation éventuelle et de les aider à comprendre les enjeux d'une reprise d'entreprise;
+
+8° elle accompagne gratuitement les porteurs de projet;
+
+9° elle produit une attestation sur l'honneur dont il ressort que la [<sup>1</sup> structure]<sup>1</sup>., au moment où elle introduit sa demande, n'est redevable d'aucun arriéré d'impôt, d'arriérés de cotisations à percevoir par l'Office national de la sécurité sociale, par un fonds de sécurité d'existence ou pour le compte de celui-ci, quelle qu'en soit la nature;
+
+10° elle n'est pas en état de faillite ou d'insolvabilité notoire, et ne fait pas l'objet d'une procédure de déclaration de faillite;
+
+11° elle ne compte pas, parmi ses administrateurs, gérants, mandataires ou autres personnes habilitées à engager la [<sup>1</sup> structure]<sup>1</sup>., des personnes qui sont privées de leurs droits civils et politiques;
+
+12° elle n'est pas agréée ou labellisée dans le cadre du dispositif " chèques- entreprises " consacré par le décret du 21 décembre 2016 portant octroi d'aides, au moyen d'un portefeuille intégré d'aides en Région wallonne, aux porteurs de projets et aux petites et moyennes entreprises pour rémunérer des services promouvant l'entrepreneuriat ou la croissance, et constituant une banque de données de sources authentiques liées à ce portefeuille intégré.
+
+Par dérogation à l'alinéa 1er, 1°, la [<sup>1</sup> structure]<sup>1</sup>. spécialisée dans le secteur de la construction peut être constituée sous la forme d'une coopérative d'activité telle que définie à l'article 80, 1°, de la loi du 1er mars 2007 portant des dispositions diverses (III).
+
+Pour l'application de l'alinéa 1er, 3°, la [<sup>1</sup> structure]<sup>1</sup>. apporte la preuve de l'expérience et des compétences du personnel d'accompagnement en matière d'élaboration de plans financiers, de marketing, de gestion de ressources humaines, d'informatique et de réglementations commerciales, fiscales, sociales et comptables et démontre qu'elle dispose du personnel pédagogique nécessaire [<sup>3</sup> pour accompagner les porteurs de projet dans le respect du parcours d'accompagnement visé au chapitre 3 et sa capacité à collaborer ou à faire]<sup>3</sup> appel à des sous- traitants pour la réalisation des formations.
+
+[<sup>3</sup> Par dérogation à l'alinéa 1er, 8°, la structure peut prélever un pourcentage sur les recettes hors T.V.A. de l'activité développée par le porteur de projet lors de la phase de test.
+
+Ce pourcentage n'excède pas un maximum fixé par le Gouvernement et ne couvre pas les frais déjà couverts par les subventions visées aux articles 10, 11 et 12.]<sup>3</sup>
+
+La [<sup>1</sup> structure]<sup>1</sup>. spécialisée dans le secteur de la construction peut prélever maximum dix pour cent hors T.V.A. du chiffre d'affaires de l'activité développée par le porteur de projet pendant la durée du test. Le pourcentage prélevé ne couvre pas les frais déjà couverts par les subventions visées aux article 10, 11 et 12.
+
+Pour l'application de la condition visée à l'alinéa 1er, 12°, est assimilée à la [<sup>1</sup> structure]<sup>1</sup>. la personne morale dans laquelle siègent des administrateurs, ou sont présents des gérants, des mandataires ou des personnes compétentes pour engager l'entreprise, et qui disposent d'une de ces qualités dans une S.A.A.C.E.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Le Gouvernement peut préciser les conditions visées à l'alinéa 1er.
+
+[<sup>3</sup> Le Gouvernement détermine le niveau De prélèvement visé à l'alinéa 4 ainsi que ses paramètres de calcul.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 9, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 5
+
+L'agrément constitue un mandat à gérer un S.I.E.G. et est destiné à permettre l'octroi de la subvention visée à l'article 10, qui autorise la [<sup>1</sup> structure]<sup>1</sup>. agréée et mandatée de compenser la perte de productivité liée aux obligations de service public.
+
+Le mandat est confié conformément à la décision de la Commission du 20 décembre 2011.
+
+Le S.I.E.G. comporte l'obligation de service public qui consiste à accompagner gratuitement un porteur de projet qui souhaite créer son entreprise ou encore reprendre une activité existante en respectant le parcours d'accompagnement défini à l'article 15.
+
+Ce mandat est accordé pour la durée de l'agrément.
+
+L'entrepreneur qui bénéficie de l'accompagnement [<sup>2</sup> durant la phase de consolidation]<sup>2</sup> visée à l'article 15, § 1er, alinéa 1er, 3°, doit respecter les règles prévues par [<sup>2</sup> le règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis]<sup>2</sup>.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 10, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 6
+
+§ 1er. L'agrément est octroyé pour une durée de six ans, renouvelable.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, pour l'année 2025, seul le renouvellement des agréments en cours est autorisé.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, pour l'année 2026, seul le renouvellement des agréments en cours est autorisé.]<sup>2</sup>
+
+§ 2. [<sup>5</sup> Une structure généraliste exerce ses activités sur le territoire d'une à deux directions territoriales telles que définies à l'article 1er, alinéa 1er, 13°.]<sup>5</sup>
+
+[<sup>5</sup> Le Gouvernement peut, après avis du Comité d'agrément et de suivi visé à l'article 8, agréer une structure généraliste dont l'activité ne couvre pas exactement le territoire d'une direction territoriale.]<sup>5</sup>
+
+[<sup>5</sup> Sans préjudice de l'alinéa 2, le Gouvernement peut]<sup>5</sup> agréer une [<sup>3</sup> structure]<sup>3</sup>. spécialisée sur une thématique ou un secteur spécifique dans le cadre de choix stratégiques qu'il détermine. La [<sup>3</sup> structure]<sup>3</sup>. spécialisée opère sur l'ensemble du territoire de la région de langue française.
+
+[<sup>5</sup> Le Gouvernement peut uniquement agréer une structure généraliste sur le territoire d'une direction territoriale et peut uniquement agréer une structure spécialisée dans une même thématique ou un même secteur sur le territoire de la région de langue française.]<sup>5</sup>
+
+Dans le cas où une ou plusieurs [<sup>5</sup> structures généralistes]<sup>5</sup> demandent à être agréées [<sup>5</sup> sur le territoire de plus de deux directions territoriales ou si plus d'une structure demande]<sup>5</sup> un agrément dans une même thématique, l'avis du Comité d'agrément et de suivi tel que défini à l'article 8, est sollicité pour permettre au Gouvernement d'opérer un choix entre les opérateurs à agréer afin qu'une [<sup>3</sup>structure ]<sup>3</sup>. généraliste n'exerce ses activités [<sup>5</sup> que sur le territoire de deux directions territoriales maximum ou qu'il n'y ait pas plus d'une structure]<sup>5</sup>. sur une thématique ou un secteur spécifique.
+
+§ 3. Le Gouvernement détermine la procédure, les modalités et les conditions relatives à l'agrément et au renouvellement d'agrément des [<sup>4</sup> structures]<sup>4</sup>.
+
+----------
+
+(1)&lt;DRW 2024-12-18/09, art. 165, 002; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2025-12-19/B5, art. 135, 003; En vigueur : 01-01-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(4)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+(5)&lt;DRW 2026-07-16/37, art. 11, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 7
+
+Le Gouvernement peut, d'initiative ou sur proposition de l'administration et après avis du Comité d'agrément et de suivi visé à l'article 8, suspendre ou abroger l'agrément de l'opérateur lorsqu'il ne respecte pas une ou plusieurs conditions d'agrément ou obligations visées par ou en vertu du présent décret.
+
+Le Gouvernement détermine les modalités et procédures relatives à la suspension et à l'abrogation de l'agrément des [<sup>1</sup> structures]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 8
+
+§ 1er. Il est institué un Comité d'agrément et de suivi qui remet un avis :
+
+1° sur les demandes d'agréments et de renouvellement d'agrément;
+
+2° motivé sur les propositions de suspension ou d'abrogation d'agrément;
+
+3° sur les plans d'action bisannuels, visé à l'article 21, § 2, et les rapports d'activités des [<sup>1</sup> structures]<sup>1</sup>. agréées.
+
+§ 2. Le Comité d'agrément et de suivi est constitué au minimum d'un représentant de l'administration et d'un représentant de [<sup>2</sup> Wallonie Entreprendre]<sup>2</sup>.
+
+Le Comité d'agrément et de suivi peut faire appel à des experts ou techniciens extérieurs qui présentent une expérience utile au traitement des demandes suivant les modalités déterminées par le Gouvernement.
+
+§ 3. Le Gouvernement détermine les modalités de fonctionnement du Comité d'agrément et de suivi et peut lui confier d'autres missions.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 6, 004; En vigueur : 12-09-2026&gt;
+
+### Section 2. - Obligations
+
+#### Art. 9
+
+La [<sup>2</sup> structure]<sup>2</sup>. agréée :
+
+1° accompagne exclusivement des porteurs de projet et des entrepreneurs;
+
+2° respecte les principes généraux, qui régissent l'accompagnement des porteurs de projets et des entreprises en Région wallonne, définis et suivant les modalités arrêtées par le Gouvernement;
+
+3° conclut avec chaque porteur de projet une convention fixant les droits et obligations de chaque partie suivant le modèle défini par le Gouvernement;
+
+4° propose à chaque porteur de projet un plan d'action fixant les objectifs à atteindre au cours de l'accompagnement;
+
+5° conclut avec le FOREm une convention de collaboration dans le cadre de la mise en oeuvre du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi;
+
+6° conclut un contrat de formation professionnelle avec le FOREm et avec le porteur de projet, selon les conditions et les modalités prévues par le Gouvernement;
+
+7° transmet, tous les deux ans, aux services que le Gouvernement désigne, un plan d'actions comportant l'offre de services et les objectifs qu'elle s'engage à réaliser, selon les modalités déterminées par le Gouvernement;
+
+8° pour le test visé à l'article 15, § 1er, alinéa 1er, 3° :
+
+a) tient une comptabilité analytique par porteur de projet;
+
+b) garantit aux porteurs de projet ayant bénéficié du test qu'ils sortent sans dette et récupèrent leurs actifs à la sortie;
+
+9° crée un comité de validation tel que prévu à l'article 16 dans les trois mois à dater de la notification de la décision d'agrément;
+
+10° [<sup>3</sup> dispose d']<sup>3</sup> un contrat d'assurance couvrant la responsabilité civile résultant des activités des porteurs de projet qui testent leur activité, en ce compris la livraison de biens;
+
+11° transmet annuellement au service que le Gouvernement désigne un rapport d'activités;
+
+12° démontre dans son rapport d'activité annuel que les services développés s'adressent à un volume de porteurs de projet suffisant en vue d'augmenter de manière significative le taux d'emploi [<sup>3</sup> de la direction territoriale dans laquelle ou des directions territoriales dans lesquelles]<sup>3</sup> elle opère;
+
+13° collabore à la mise en oeuvre de l'accompagnement orienté coaching et solutions des chercheurs d'emploi en respectant les engagements qui lui incombent en tant que partenaire de l'accompagnement au sens de l'article 2, alinéa 1er, 10°, tels que prévus par ou en vertu du Chapitre 4, sections 1re et 2, du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi.
+
+[<sup>3</sup> 14° respecte les règles de communication commerciale communes à toutes les structures ;
+
+15° assure la formation de ses collaborateurs dans les domaines visés à l'article 4, § 2, alinéa 3.]<sup>3</sup>
+
+Le Gouvernement peut préciser les obligations visées à l'alinéa 1er.
+
+Pour l'application de l'alinéa 1er, 8°, le porteur de projet, récupère les actifs de son activité : la clientèle, le bénéfice éventuel de son activité et les biens matériels et immatériels acquis durant le test dans les limites de l'article 4, § 2, alinéa 4. Cette cession fait l'objet d'une convention et d'une déclaration fiscale.
+
+Pour l'application de l'alinéa 1er, 1°, la [<sup>2</sup> structure]<sup>2</sup>. vérifie, dès le début de l'axe diagnostic, auprès du FOREm la qualité de [<sup>1</sup> chercheur]<sup>1</sup> d'emploi inoccupé des porteurs de projet qu'elle accompagne.
+
+[<sup>3</sup> Pour l'application de l'alinéa 1er, 10°, la structure peut facturer au porteur de projet la part des coûts d'assurance liés à son activité testée.]<sup>3</sup>
+
+Pour la vérification du respect de l'obligation visée à l'alinéa 1er, 13°, l'administration peut s'adresser à la commission sous-régionale de concertation visée à l'article 18, § 2, du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 2, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 12, 004; En vigueur : 12-09-2026&gt;
+
+### Section 3. - Subventionnement
+
+#### Art. 10
+
+§ 1er. Dans les limites des crédits budgétaires disponibles, le Gouvernement octroie annuellement à la [<sup>1</sup> structure]<sup>1</sup>. agréée qui respecte les conditions et obligations visées par ou en vertu du présent décret une subvention, conformément à la décision de la Commission du 20 décembre 2011, indexée annuellement, destinée à financer les services offerts aux porteurs de projet et aux entrepreneurs en fonction des besoins identifiés et des objectifs fixés par le Gouvernement.
+
+La subvention annuelle est basée pour chaque [<sup>1</sup> structure]<sup>1</sup>. sur l'estimation de l'activité opérationnelle définie dans son plan d'action bisannuel visé à l'article 21, § 2.
+
+§ 2. Par dérogation à l'article 61, 3°, du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes, la subvention visée au paragraphe 1er est liquidée sur base du nombre d'accompagnements réellement effectués pour chacun des axes d'accompagnement tels que visées à l'article 15, les frais de chaque type d'accompagnement étant calculés suivant un montant forfaitaire global.
+
+§ 3. Les aides octroyées en vertu du décret du 10 juin 2021 relatif à la pérennisation des emplois créés dans le cadre du dispositif des aides à la promotion de l'emploi (APE) et à la création d'emplois répondant à des besoins sociétaux prioritaires sont déduites de la subvention visée au paragraphe 1er.
+
+§ 4. La [<sup>1</sup> structure]<sup>1</sup>. bénéficie d'un montant de cent mille euros qu'elle affecte exclusivement au versement d'avances en trésorerie destinées aux porteurs de projet qu'elle accompagne.
+
+Ce montant est imputé en tant que réserve affectée dans la comptabilité de la [<sup>1</sup> structure]<sup>1</sup>. et certifié [<sup>2</sup> , chaque année à la clôture des comptes]<sup>2</sup> par un réviseur d'entreprise agréé.
+
+Les avances en trésorerie visées à l'alinéa 1er versées aux porteurs de projet accompagnés par la [<sup>1</sup> structure]<sup>1</sup>. ne peuvent dépasser un montant de cinq mille euros par porteur de projet, mis en situation réelle. Elles sont consacrées à l'acquisition de biens matériels ou immatériels correspondant aux besoins en investissements, en matières premières ou fournitures, en frais de communications ou tout autre dépense strictement nécessaire au démarrage de l'activité, tels qu'approuvés par le comité de validation de la [<sup>1</sup> structure]<sup>1</sup>.
+
+Le porteur de projet se voit proposer, de la part de la [<sup>1</sup> structure]<sup>1</sup>. dont il dépend, un plan de remboursement réaliste des montants investis sur la base de ces avances en trésorerie. Le porteur de projet doit quitter la [<sup>1</sup> structure]<sup>1</sup> sans dettes vis-à-vis de cette dernière.
+
+Le porteur de projet, lorsqu'il quitte la S.A.A.C.E., se voit transférer la propriété des biens matériels et immatériels acquis, moyennant le respect des dispositions fiscales en la matière.
+
+§ 5. Le Gouvernement précise la procédure et les modalités d'octroi et de liquidation des subventions visées aux paragraphes 1er et 4.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 13, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 11
+
+§ 1er. Pour inciter la [<sup>1</sup> structure]<sup>1</sup> à contribuer, via certaines de ses activités, à son objet social ou aux objectifs stratégiques des programmations des fonds structurels en Wallonie, des programmations de la Coopération territoriale européenne, en abrégé Interreg, ou d'autres programmes provinciaux, régionaux, nationaux, européens et internationaux, la [<sup>1</sup> structure]<sup>1</sup> peut bénéficier de subventions de toute durée, destinées à financer ces activités.
+
+Ces subventions peuvent couvrir tout ou partie des dépenses non financées par la subvention visée à l'article 10 et, dans les limites de l'article 14, ne sont pas exclusives d'autres financements ou cofinancements des activités visées.
+
+Ces subventions présentent un caractère additionnel, distinctif ou spécifique par rapport à celle que vise l'article 10, que ce soit en termes de problématique, de stade d'activités, de publics cibles prioritaires, de secteurs d'activités prioritaires, de ciblage géographique objectivable ou d'approche méthodologique innovante mais doit viser l'accompagnement des porteurs de projet visés à l'article 15.
+
+§ 2. La subvention visée au paragraphe 1er ne dépasse pas le montant forfaitaire global calculé sur base du nombre d'accompagnements réellement effectués pour chacun des axes d'accompagnement tels que visées à l'article 15.
+
+§ 3. La subvention visée au paragraphe 1er qui ne se concrétise pas sous forme de montant forfaitaire tel que visé à l'article 10, § 2, doit faire l'objet d'une comptabilité analytique par la [<sup>1</sup> structure]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 12
+
+En cas de situation conjoncturelle ayant pour effet une augmentation imprévue du nombre de [<sup>1</sup> chercheurs]<sup>1</sup> d'emploi susceptibles de bénéficier des interventions de la [<sup>2</sup> structure]<sup>2</sup>., le Gouvernement peut lui accorder des subventions supplémentaires, dans la limite des crédits disponibles, pour augmenter le niveau d'activité prévu dans son plan d'action bisannuel.
+
+Par dérogation à l'article 61, 3°, du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes, la subvention visée [<sup>3</sup> à l'alinéa]<sup>3</sup> 1er est liquidée sur base du nombre d'accompagnements réellement effectués pour chacun des axes d'accompagnement tels que visées à l'article 15, les frais de chaque type d'accompagnement étant calculés suivant un montant forfaitaire global.
+
+Le Gouvernement précise la procédure et les modalités d'octroi et de liquidation de la subvention visée à l'alinéa 1er.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 3, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 14, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 13
+
+Le Gouvernement détermine les composantes du montant forfaitaire de chacune des étapes de l'accompagnement. Ces composantes peuvent différer pour chacun des types de subvention visées aux articles 10, 11 et 12.
+
+Les montants forfaitaires globaux par axe sont indexés annuellement selon les modalités fixées par le Gouvernement.
+
+#### Art. 14
+
+Le total des subventions octroyées à la [<sup>1</sup> structure]<sup>1</sup>. dans le cadre du présent décret, cumulées avec toutes les autres formes d'aides, y compris européennes ou internationales, ou de réductions de cotisations de sécurité sociale en vigueur, ne dépasse pas le montant total des coûts générés par l'activité de la [<sup>1</sup> structure]<sup>1</sup>.
+
+Par dérogation à l'alinéa 1er, le bénéfice raisonnable est admis.
+
+Le Gouvernement détermine les modalités de calcul permettant d'effectuer la comparaison entre le total des aides et les coûts générés par l'activité de la [<sup>1</sup> structure]<sup>1</sup> ainsi que les critères utilisés pour calculer le bénéfice raisonnable.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+## CHAPITRE 3. - Parcours d'accompagnement des porteurs de projet et des entrepreneurs
+
+#### Art. 15
+
+[<sup>1</sup> § 1er. La structure agréée propose aux porteurs de projet un parcours d'accompagnement, selon les modalités déterminées par le Gouvernement, qui se compose des axes d'accompagnement principaux suivants :
+
+1° l'information et orientation ;
+
+2° l'évaluation de la maturité du projet ;
+
+3° l'aide à l'élaboration du business plan et au démarrage de l'activité.
+
+Dans le cadre de l'information et de l'orientation visée à l'alinéa 1er, 1°, le porteur de projet bénéficie d'une information sur les étapes du parcours et les dispositifs disponibles, ainsi que d'une orientation au moyen d'entretiens individuels ou de séances collectives.
+
+Dans le cadre de l'évaluation de la maturité du projet visée à l'alinéa 1er, 2°, le porteur de projet réalise, avec le conseiller référent, une évaluation de la maturité du projet. Cette évaluation, effectuée dès le début de l'accompagnement, permet d'apprécier le degré de préparation du porteur de projet, d'identifier ses besoins d'accompagnement et d'en déterminer la suite ou sa réorientation.
+
+Dans le cadre de l'aide à l'élaboration du business plan et au démarrage de l'activité visée à l'alinéa 1er, 3°, le porteur de projet bénéficie d'un accompagnement adapté au degré de maturité du projet, structuré en phases, comprenant une phase de transformation de l'idée en projet et une phase de préparation au lancement, incluant l'élaboration du business plan et du plan financier. La phase de préparation au lancement peut inclure une période de test organisée au sein de la structure ou, pour les projets relevant d'une thématique ou d'un secteur spécialisé, au sein de la structure spécialisée dans cette thématique ou ce secteur. Ce test a pour objectif d'offrir au porteur de projet l'accès à un hébergement juridique, administratif, économique et financier de son activité sous le numéro d'entreprise de la structure qui organise le test. Durant le test, le porteur de projet conserve son statut juridique initial. Après la création de l'entreprise, une phase de consolidation peut, être proposée à l'entrepreneur ayant bénéficié de l'accompagnement visé à l'alinéa 1er, 3°, afin d'assurer la continuité de l'accompagnement et de consolider le lancement de l'activité conformément au paragraphe 3, alinéa 2.
+
+§ 2. La structure agréée propose aux porteurs de projet un parcours d'accompagnement, selon les modalités déterminées par le Gouvernement, qui se compose des axes d'accompagnement complémentaires suivants :
+
+1° le renforcement des compétences entrepreneuriales et transversales ;
+
+2° les actions collectives et coopératives.
+
+Dans le cadre du renforcement des compétences entrepreneuriales et transversales visé à l'alinéa 1er, 1°, le porteur de projet peut participer à des ateliers collectifs ou à des actions de développement de compétences, en réponse à des besoins identifiés. Ces ateliers ont pour objectif de permettre aux entrepreneurs de faire évoluer leur projet individuel de création ou de développement d'activité en amplifiant leurs capacités entrepreneuriales ou en renforçant leurs connaissances métier. Ces activités peuvent être organisées en partenariat avec des organismes de formation agréés.
+
+Dans le cadre des actions collectives et coopératives visées à l'alinéa 1er, 2°, le porteur de projet peut être associé à des actions collectives favorisant l'échange entre pairs, la mutualisation de services, le réseautage ou la coopération entre porteurs de projet.
+
+§ 3. La structure organise en son sein l'ensemble des services visés au paragraphe 1er.
+
+Lorsqu'un porteur de projet exerce une activité relevant d'une thématique ou d'un secteur spécialisé, la phase de préparation au lancement peut inclure une période de test organisée au sein de la structure ou, pour les projets relevant d'une thématique ou d'un secteur spécialisé, au sein de la structure spécialisée dans cette thématique ou ce secteur.
+
+La structure peut, dans une logique de complémentarité, faire appel à des prestataires privés ou publics externes pour accompagner, en partie, les porteurs de projet ou les entrepreneurs, pour les services collectifs, de formation ou de renforcement de compétences dans les axes visés au paragraphe 2, alinéa 1er, 1°.
+
+Par dérogation à l'alinéa 1er, le Gouvernement peut définir que certains axes d'accompagnement peuvent être sous-traités.
+
+§ 4. Le parcours d'accompagnement est structuré en phases et jalonné. A chaque jalon, la structure évalue la pertinence de poursuivre les phases de l'accompagnement ou de réorienter le porteur de projet vers un autre dispositif adapté, vers une action de formation lorsque celle-ci apparaît nécessaire au renforcement des compétences utiles à la concrétisation du projet.
+
+§ 5. Le Gouvernement peut compléter ou préciser les services visés aux paragraphes 1er et 2, en tenant compte des besoins identifiés au sein du secteur de l'autocréation d'emploi, de l'articulation avec les dispositifs régionaux et fédéraux en matière de formation, d'emploi et d'entrepreneuriat, ainsi que de l'évolution des pratiques en matière d'accompagnement entrepreneurial.
+
+§ 6. Le Gouvernement détermine les modalités pratiques du parcours d'accompagnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 15, 004; En vigueur : 12-09-2026&gt;
+
+## CHAPITRE 4. - Comité de validation et partenariats
+
+### Section l. - Comité de validation
+
+#### Art. 16
+
+§ 1er. [<sup>3</sup> Il est institué un comité de validation dans chaque structure agréée. Le comité de validation valide :
+
+1° le projet de création d'activité ou de reprise d'activité, sur base de l'étude de l'évaluation de la maturité du projet et de la réalisation d'un business plan ;
+
+2° l'état d'avancement du projet à échéance régulière ou à chaque jalon du parcours, durant l'axe d'accompagnement d'un projet d'autocréation d'emploi visé à l'article 15, § 1er, alinéa 1er, 3° ;
+
+3° la réorientation du porteur de projet à l'issue des axes visés à l'article 15, § 1er, alinéa 1er, 2° et 3°.]<sup>3</sup>
+
+Le Gouvernement peut attribuer des missions supplémentaires au comité de validation.
+
+§ 2. Le Comité de validation est composé au minimum :
+
+1° de trois experts en matière d'entrepreneuriat et de création d'entreprise, issus du milieu économique ou financier du [<sup>3</sup> territoire de la direction territoriale]<sup>3</sup>où la [<sup>1</sup> structure]<sup>1</sup>. est agréée;
+
+2° d'un représentant du FOREm issu du [<sup>3</sup> territoire de la direction territoriale]<sup>3</sup>où la [<sup>1</sup> structure]<sup>1</sup>. est agréée;
+
+3° d'un représentant de [<sup>2</sup> Wallonie Entreprendre]<sup>2</sup> - Transmission lorsqu'il s'agit d'un projet de reprise d'activité.
+
+Les experts visés à l'alinéa 1er, 1°, ne sont pas liés contractuellement ou financièrement à la [<sup>1</sup> structure]<sup>1</sup>.
+
+Le Gouvernement peut préciser les critères à remplir par les experts visés à l'alinéa 1er, 1°, ainsi que les conditions de défraiement pour leur participation au comité de validation.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 6, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 16, 004; En vigueur : 12-09-2026&gt;
+
+### Section 2. - Partenariats
+
+#### Art. 17
+
+Pour accomplir ses missions, la [<sup>1</sup> structure]<sup>1</sup>. crée des partenariats avec les opérateurs suivants :
+
+1° le FOREm et, plus particulièrement, les cité des métiers, structure partenariale constituant la porte d'entrée vers l'ensemble de l'offre de services du dispositif d'orientation tout au long de la vie, visées à l'article 24, 12°, du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi;
+
+2° [<sup>3</sup> l'IFAPME et]<sup>3</sup> les opérateurs de formation et d'insertion;
+
+3° [<sup>2</sup> Wallonie Entreprendre]<sup>2</sup>, suivant les modalités visées à l'article 9, alinéa 1er, 2° ;
+
+4° les opérateurs de financement et de microcrédit, privés et publics.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 6, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 17, 004; En vigueur : 12-09-2026&gt;
+
+## CHAPITRE 5.
+
+&lt;Abrogé par DRW 2026-07-16/37, art. 18, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 18
+
+&lt;Abrogé par DRW 2026-07-16/37, art. 18, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 19
+
+&lt;Abrogé par DRW 2026-07-16/37, art. 18, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 20
+
+&lt;Abrogé par DRW 2026-07-16/37, art. 18, 004; En vigueur : 12-09-2026&gt;
+
+## CHAPITRE 6. - Evaluation et contrôle
+
+### Section l. - Suivi et évaluation
+
+#### Art. 21
+
+§ 1er. La [<sup>2</sup> structure]<sup>2</sup> est évaluée annuellement, selon les modalités déterminées par le Gouvernement, sur base d'éléments quantitatifs et qualitatifs, contenus dans un rapport d'activités et des livrables qu'elle transmet, au regard des engagements pris dans le plan d'action bisannuel visé au paragraphe 2.
+
+[<sup>4</sup> Les éléments quantitatifs visés à l'alinéa 1er sont :
+
+1° le nombre de porteurs de projet ayant bénéficié d'une information ;
+
+2° le nombre de porteurs de projets ayant amorcé un accompagnement, c'est-à-dire ayant conclu une convention d'accompagnement avec une structure ;
+
+3° le nombre de porteurs de projets ayant été accompagnés, c'est-à-dire engagés dans la phase d'aide à l'élaboration du business plan et au démarrage de l'activité ou dans une phase ultérieure du parcours d'accompagnement ;
+
+4° le nombre de porteurs de projets ayant finalisé un accompagnement ;
+
+5° le nombre de jours-livrables prestés par axe ;
+
+6° le nombre de créations d'activités ;
+
+7° le nombre de créations d'activités à titre principal ;
+
+8° le taux de création ;
+
+9° le taux de pérennité des entreprises soutenues après un an, trois et cinq ans ;
+
+10° le nombre de porteurs de projet accompagnés qui, ayant cessé de bénéficier d'allocations de chômage, poursuivent leur parcours d'accompagnement en vue de la création de leur activité ou du développement de celle-ci sous une autre forme de statut ou de soutien ;
+
+11° le nombre de porteurs de projet ayant quitté la structure pour un emploi durable et de qualité, entendu comme l'exercice d'une activité professionnelle salariée dans le cadre d'un ou plusieurs contrats de travail d'une durée totale d'au moins six mois au cours des douze mois suivant la signature du premier contrat de travail ;
+
+12° le nombre total des emplois actifs dans les entreprises créées entre l'année en cours et jusqu'à cinq ans auparavant ;
+
+13° le nombre de porteurs de projet ayant reçu une avance en trésorerie octroyée en vertu de l'article 10, § 4, ainsi que le montant octroyé.]<sup>4</sup>.
+
+Ces indicateurs font l'objet d'un rapport régulier auprès des services que le Gouvernement désigne.
+
+Les éléments qualitatifs visés à l'alinéa 1er sont :
+
+1° ses performances et son métier d'accompagnement;
+
+2° la qualité des livrables associés aux différents types de produits d'accompagnement;
+
+3° le respect de ses engagements qui la lient à la [<sup>3</sup> Wallonie Entreprendre]<sup>3</sup> suivant les modalités visées à l'article 9, alinéa 1er, 2° ;
+
+4° l'impact de l'accompagnement sur la performance des entreprises et le développement de son territoire;
+
+5° des indices de satisfaction des porteurs de projets sur la base d'un questionnaire commun à l'ensemble des [<sup>2</sup> structures]<sup>2</sup> dont le contenu est déter- miné par les services que le Gouvernement désigne;
+
+6° le respect de ses engagements qui la lient avec le FOREm selon les modalités visées à l'article 21 du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi.
+
+Le Gouvernement peut compléter les éléments quantitatifs et qualitatifs visés aux alinéas 2 et 3.
+
+§ 2. La [<sup>1</sup> structure]<sup>1</sup> propose tous les deux ans, aux services que le Gouvernement désigne, un plan d'actions qui fixe les objectifs de livrables qu'elle envisage d'atteindre.
+
+Le Comité d'agrément et de suivi peut, le cas échéant, recommander à la [<sup>1</sup> structure]<sup>1</sup> d'ajuster son plan d'actions bisannuel.
+
+Le Gouvernement détermine les modalités et le contenu du plan d'actions bisannuel.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 6, 004; En vigueur : 12-09-2026&gt;
+
+(4)&lt;DRW 2026-07-16/37, art. 19, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 22
+
+L'Institut wallon de l'évaluation, de la prospective et de la statistique visé par le décret du 4 décembre 2003 relatif à la création de l'Institut wallon de l'évaluation, de la prospective et de la statistique réalise un rapport d'évaluation de l'exécution du présent décret à l'issue d'une période de trois années à compter de l'entrée en vigueur du présent décret, puis à l'issue de chaque période de six années.
+
+Le rapport d'évaluation détermine dans quelle mesure le dispositif atteint les objectifs visés à l'article 1er et formule des recommandations en vue de son amélioration.
+
+Le rapport d'évaluation est transmis au Gouvernement.
+
+### Section 2. - Contrôle
+
+#### Art. 23
+
+Le contrôle de l'application du présent décret et de ses mesures d'exécution s'exerce conformément aux dispositions du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations.
+
+Les [<sup>1</sup> structures]<sup>1</sup>. agréées qui font l'objet du contrôle visé à l'alinéa 1er peuvent être contrôlées selon une méthode particulière déterminée par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 24
+
+§ 1er. En cas de non-respect des obligations édictées par et en vertu du présent décret, le Gouvernement peut, selon les modalités qu'il détermine :
+
+1° suspendre tout ou partie de la subvention pendant un délai permettant à [<sup>1</sup> la structure]<sup>1</sup>rmer aux obligations non rencontrées;
+
+2° exiger le remboursement de tout ou partie du subventionnement, ainsi que les frais y afférant, proportionnellement aux infractions constatées;
+
+3° mettre fin à la décision d'octroi de la subvention et demander à l'entreprise le remboursement de tout ou partie de celle-ci.
+
+§ 2. Le Gouvernement fixe la procédure et les modalités relatives à la récupération de la subvention visées au paragraphe 1er.
+
+Les services que le Gouvernement désigne sont chargées de récupérer toute aide indûment versée, par toute voie de droit, en ce compris la compensation.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 20, 004; En vigueur : 12-09-2026&gt;
+
+## CHAPITRE 7. - Traitement de données à caractère personnel
+
+#### Art. 25
+
+Le Service public de Wallonie Economie, Emploi et Recherche est responsable du traitement des données à caractère personnel au sens de l'article 4, 7), du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) pour les traitements des données à caractère personnel qui sont nécessaires à l'analyse des dossiers d'agrément et de subventionnement des [<sup>2</sup> structures]<sup>2</sup>.
+
+Les [<sup>2</sup> structures]<sup>2</sup>. demandeuses d'agrément et agréées sont responsables du traitement des données à caractère personnel qui sont nécessaires pour la mise en oeuvre des articles 9, alinéa 1er, 1° [<sup>3</sup> 2°,]<sup>3</sup>, 3°, 6° et 8° et 15.
+
+[<sup>3</sup> Wallonie Entreprendre est le responsable du traitement des données à caractère personnel qui sont nécessaires à la mise en oeuvre de l'article 9, alinéa 1er, 2°, et de l'article 15.
+
+Pour les traitements de données à caractère personnel liés à la constitution et à la gestion d'une base de données relative aux activités des structures, Wallonie Entreprendre et les structures d'accompagnement agissent en qualité de responsables conjoints du traitement.
+
+Lorsque des traitements de données à caractère personnel sont réalisés conjointement avec l'IFAPME dans le cadre du parcours d'accompagnement ou de dispositifs associés, Wallonie Entreprendre, les structures et l'IFAPME agissent en qualité de responsables conjoints du traitement.
+
+Pour les traitements de données à caractère personnel relatifs à l'analyse des demandes d'agrément et de renouvellement d'agrément, à l'exploitation des rapports d'activité et à l'évaluation de la finançabilité des structures, le Service public de Wallonie Economie, Emploi et Recherche et Wallonie Entreprendre agissent en qualité de responsables conjoints du traitement.
+
+Les structures demandeuses d'agrément et agréées sont responsables du traitement des données à caractère personnel qui sont nécessaires pour la mise en oeuvre de l'article 9, 1°, 2°, 3°, 6° et 8°, et de l'article 15.
+
+L'Institut wallon de l'évaluation, de la prospective et de la statistique est responsable du traitement des données à caractère personnel qui sont nécessaires pour la mise en oeuvre de la mission qui lui incombe en vertu de l'article 22.]<sup>3</sup>
+
+Le Comité d'agrément et de suivi est responsable du traitement des données à caractère personnel qui sont nécessaires pour la mise en oeuvre des missions qui lui incombent en vertu de l'article 8.
+
+L'Institut wallon de l'évaluation, de la prospective et de la statistique est responsable du traitement des données à caractère personnel qui sont nécessaires pour la mise en oeuvre de la mission qui lui incombe en vertu de l'article 22.
+
+Dans le cadre de la mise en oeuvre de l'accompagnement orienté coaching et solutions des chercheurs d'emploi, le FOREm et la [<sup>1</sup> structure]<sup>1</sup>. échangent conformément à l'article 17 du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions les données des chercheurs d'emploi adressés à la S.A.A.C.E. par le FOREm ou pris en charge par celles-ci.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+(3)&lt;DRW 2026-07-16/37, art. 21, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 26
+
+§ 1er. Les catégories de données à caractère personnel relatives à l'agrément et au subventionnement des [<sup>1</sup> structures]<sup>1</sup>. susceptibles d'être traitées pour la mise en oeuvre de l'article 4, § 2, alinéa 1er, 1°, 2°, 3° et 9°, sont :
+
+1° les données d'identification personnelles, dont le numéro d'identification au Registre national, s'il s'agit d'une personne physique inscrite au Registre national ou le numéro d'identification de la Banque-Carrefour de la sécurité sociale, visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, s'il s'agit d'une personne physique non inscrite au Registre national;
+
+2° les données d'identification électroniques;
+
+3° les données relatives aux qualifications professionnelles et à l'expérience professionnelle des conseillers;
+
+4° les données relatives à l'emploi actuel du personnel des [<sup>1</sup> structures]<sup>1</sup>. et des porteurs de projet.
+
+[<sup>2</sup> § 1er/1. Les catégories de données à caractère personnel relatives au parcours d'accompagnement des porteurs de projet et des entrepreneurs pour la mise en oeuvre de l'article 15 sont :
+
+1° les données d'identification personnelles, dont le numéro d'identification au Registre national, s'il s'agit d'une personne physique inscrite au Registre national ou le numéro d'identification de la Banque-Carrefour de la Sécurité sociale, visé à l'article 8, § 1er,
+
+2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, s'il s'agit d'une personne physique non inscrite au Registre national ; 2° les données d'identification électroniques ;
+
+3° les données relatives à l'élaboration du business plan et au démarrage de l'activité à chaque phase du parcours d'accompagnement ;
+
+§ 1er/2. Le numéro d'identification du Registre national des personnes physiques est utilisé comme identifiant afin de garantir l'authentification sûre, la vérification de l'unicité des dossiers et la prévention des doublons.
+
+L'utilisation du numéro de Registre national aux fins du présent décret est expressément autorisée par celui-ci et s'opère conformément à la loi du 8 août 1983 organisant un registre national des personnes physiques.
+
+Les données du Registre national accessibles ou utilisées sont strictement limitées à celles nécessaires pour vérifier ou compléter l'identité des personnes concernées.
+
+Aucune réutilisation du numéro de Registre national à des fins secondaires ou incompatibles n'est autorisée.
+
+§ 1er/3. Il est interdit :
+
+1° d'utiliser les coordonnées bancaires à d'autres fins que la liquidation et les audits ;
+
+2° d'utiliser les pièces d'identité fournies par une personne physique non inscrite au Registre national à d'autres fins que l'authentification, l'identification unique et la prévention de doublons ou d'usurpations.
+
+§ 1er/4. Le Gouvernement peut autoriser la réutilisation des données en vue d'évaluer le présent décret ou à des fins d'archives dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques. La réutilisation porte prioritairement sur des données anonymisées ou pseudonymisées, sauf lorsque la donnée identifiable est strictement nécessaire à l'évaluation ou à la production des statistiques.
+
+Cette réutilisation inclus des traitements réalisés conjointement avec des partenaires institutionnels en ce compris l'IFAPME, en vue du suivi des parcours des porteurs de projet, de l'évaluation de l'impact des dispositifs d'accompagnement et de la production de statistiques consolidées.
+
+Ces traitements des finalités visent à éclairer les décisions des pouvoirs publics et à permettre, le cas échéant, l'ajustement du dispositif. Ils n'entraînent aucune prise de décision individuelle ayant un effet sur les personnes concernées.
+
+Les données traitées à des fins d'évaluation ou de production de statistiques font l'objet d'un processus d'anonymisation ou de pseudonymisation. Les données directement identifiables sont supprimées ou dissociées une fois les couplages nécessaires réalisés. Seuls des résultats agrégés ou des ensembles de données non identifiables sont conservés. Les statistiques issues du dispositif peuvent être conservées sans limite de durée, sous forme anonymisée. Les données brutes à caractère personnel utilisées pour les produire sont supprimées ou rendues anonymes après traitement.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Le Gouvernement peut préciser les données visées aux paragraphes 1er et 1er/1 pour autant que cela soit nécessaire, pertinent et proportionné à la finalité poursuivie dans le cadre de la mise en oeuvre du présent décret et de ses arrêtés d'exécution, sans en modifier la nature ni les finalités.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 5, 004; En vigueur : 12-09-2026&gt;
+
+(2)&lt;DRW 2026-07-16/37, art. 22, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 27
+
+Dans la limite de ce qui est nécessaire au regard des finalités respectives pour lesquelles elles sont traitées, les données à caractère personnel pertinentes pour attester du respect des conditions d'agrément ou du montant perçu de subventions sont communiquées aux entités suivantes :
+
+1° aux fonctionnaires désignés par le Gouvernement conformément à l'article 2, § 1er, 2°, du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la reconversion et au recyclage professionnels ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations pour le contrôle de l'application du présent décret et de ses arrêtés d'exécution;
+
+2° au Comité d'agrément et de suivi pour la mise en oeuvre des missions qui lui incombent en vertu de l'article 8;
+
+3° à l'Institut wallon de l'évaluation, de la prospective et de la statistique pour la mise en oeuvre des missions qui lui incombent en vertu de l'article 22.
+
+[<sup>1</sup> 4° aux partenaires visés à l'article 17 ;
+
+5° aux sous-traitants dans le respect du chapitre IV du règlement (UE) n° 2016/679 .]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 23, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 28
+
+[<sup>1</sup> § 1er. Sans préjudice de la charge de la preuve de la bonne utilisation de la subvention qui incombe aux structures agréées et sans préjudice de la conservation nécessaire pour le traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques, les responsables du traitement visés à l'article 25 conservent les données à caractère personnel visées à l'article 26 pendant une période de dix années.
+
+Cette période se calcule :
+
+1° pour les données à caractère personnel relatives à un agrément à partir du 1er janvier de l'année qui suit celle du terme de l'agrément ;
+
+2° pour les données à caractère personnel relatives à une subvention, à partir du 1er janvier de l'année qui suit celle de la clôture définitive de l'exercice budgétaire et comptable dont relève la subvention ;
+
+3° pour les données à caractère personnel relatives à un accompagnement, à partir du 1er janvier de l'année qui suit celle de la clôture de l'accompagnement.
+
+La durée de conservation visée à l'alinéa 1er est suspendue en cas d'action judiciaire ou administrative jusqu'à l'obtention d'une décision non susceptible de recours.
+
+§ 2. En cas de fraude avérée ou de détournement, certaines données spécifiques peuvent être conservées au-delà de la durée prévue au paragraphe 1er, dans la limite nécessaire à la conduite des procédures de sanction, à la prévention de nouvelles fraudes ou au respect des obligations légales de signalement sans que la durée totale de conservation ne puisse excéder une période maximale de dix ans à compter de l'événement qui a donné lieu au traitement. Cette prolongation est justifiée, documentée et accompagnée de mesures de sécurité renforcées. En l'absence de fraude, les données utilisées à des fins de contrôle sont conservées selon les mêmes modalités que celles prévues au paragraphe 1er.
+
+§ 3. A l'issue des durées de conservation, les données sont soit supprimées de manière sécurisée, soit archivées à des fins d'intérêt public ou de recherche statistique, soit anonymisées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 24, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 28/1
+
+[<sup>1</sup> Le Gouvernement peut préciser les modalités d'exécution relatives aux traitements de données à caractère personnel mis en oeuvre dans le cadre du présent décret.
+
+Ces modalités portent sur :
+
+1° les conditions et modalités de collecte, d'enregistrement, de consultation et de transmission des données, y compris les formats techniques et les protocoles d'échange ;
+
+2° la gestion opérationnelle des droits d'accès aux données, selon les catégories d'utilisateurs autorisés et les besoins strictement nécessaires à l'exécution de leurs missions ;
+
+3° les procédures d'identification et d'authentification des utilisateurs, la gestion des comptes et des habilitations ainsi que les règles d'association entre compte utilisateur et entité bénéficiaire ou prestataire ;
+
+4° les mesures de sécurité techniques et organisationnelles appropriées visant à assurer la confidentialité, l'intégrité et la disponibilité des données ainsi que la gestion des incidents et la violation du règlement (UE) 2016/679 ;
+
+5° les règles de traçabilité, de journalisation et d'audit ;
+
+6° les modalités de mise en oeuvre de l'anonymisation, de la pseudonymisation, de l'agrégation et de la minimisation des données conformément au règlement (UE) 2016/679 ;
+
+7° les modalités d'application des durées de conservation, en ce qui concerne l'archivage, l'effacement et l'anonymisation ;
+
+8° les procédures de coopération et de répartition des responsabilités entre responsables conjoints du traitement au sens de l'article 26 du règlement (UE) 2016/679 ;
+
+9° les modalités de communication de données aux tiers autorisés, conformément aux finalités légales et dans le respect des exigences du règlement (UE) 2016/679 ;
+
+10° les modalités d'exercice des droits des personnes concernées, y compris la mise en oeuvre pratique des mécanismes d'accès, de rectification, d'opposition ou d'effacement ;
+
+11° les conditions techniques et organisationnelles d'interconnexion et de consultation des sources authentiques visées par le présent décret ;
+
+12° l'utilisation des systèmes d'intelligence artificielle lorsqu'ils sont mobilisés.
+
+L'alinéa 2, 2°, 3°, 5°, 11° et 12°, ont trait à une plateforme mise en place par Wallonie Entreprendre pour le traitement et le suivi des missions des structures.
+
+Cette plateforme permet la collecte, l'enregistrement, l'accès, le suivi et l'exploitation des données relatives aux activités des structures ainsi qu'aux parcours d'accompagnement des porteurs de projet, soit les catégories de données visées à l'article 26, §§ 1er et 1er/1 suivantes :
+
+1° les données d'identification des porteurs de projet et des intervenants ;
+
+2° les données relatives à l'évaluation de la maturité du projet et à son évolution ;
+
+3° les données liées à l'élaboration, au suivi et à la validation du business plan et du projet entrepreneurial ;
+
+4° les données relatives aux livrables et aux différentes phases du parcours d'accompagnement ;
+
+5° les données nécessaires au suivi des activités des structures et à l'évaluation de leur performance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/37, art. 25, 004; En vigueur : 12-09-2026&gt;
+
+## CHAPITRE 8. - Dispositions transitoires et finales
+
+#### Art. 29
+
+Le décret du 15 juillet 2008 relatif aux structures d'accompagnement à l'autocréation d'emploi (en abrégé : S.A.A.C.E.) est abrogé.
+
+Par dérogation à l'alinéa 1er, les décisions d'agrément ou de renouvellement d'agrément des S.A.A.C.E. octroyées conformément au décret du 15 juillet 2008 précité avant l'entrée en vigueur du présent décret continuent à produire leurs effets après l'entrée en vigueur du présent décret et restent soumises aux dispositions du décret du 15 juillet 2008 relatif aux structures d'accompagnement à l'autocréation d'emploi (en abrégé : S.A.A.C.E.) jusqu'au 30 juin 2023 au plus tard.
+
+Par dérogation à l'alinéa 1er, les tests débutés avant le 1er janvier 2023 peuvent être clôturés dans la [<sup>1</sup> structure]<sup>1</sup>. agréée conformément au décret du 15 juillet 2008 précité et sont subventionnées selon les modalités déterminées à l'article 10, § 2.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 30
+
+§ 1er. La [<sup>1</sup> structure]<sup>1</sup>. ayant bénéficié avant l'entrée en vigueur du présent décret d'une décision d'octroi de subventions dans le cadre des fonds FEDER ou d'un appel à projets du FOREm peut, par dérogation à l'article 4, § 2, alinéa 1er, 1°, continuer à exercer les activités liées à ceux-ci et à percevoir les subventions subséquentes jusqu'à l'échéance de cette décision, et ce, même si ces activités ne visent pas à accompagner des porteurs de projet.
+
+§ 2. Par dérogation à l'article 4, § 2, alinéa 1er, 12°, les accompagnements et les formations dispensés par la [<sup>1</sup> structure]<sup>1</sup>. dans le cadre du dispositif dans le cadre du dispositif " chèques-entreprises " consacré par le décret du 21 décembre 2016 portant octroi d'aides, au moyen d'un portefeuille intégré d'aides en Région wallonne, aux porteurs de projets et aux petites et moyennes entreprises pour rémunérer des services promouvant l'entrepreneuriat ou la croissance, et constituant une banque de données de sources authentiques liées à ce portefeuille intégré qui ont débutés avant le 1er janvier 2023 doivent se clôturer au plus tard au 31 mars 2023.
+
+----------
+
+(1)&lt;DRW 2026-07-16/37, art. 4, 004; En vigueur : 12-09-2026&gt;
+
+#### Art. 31
+
+Le présent décret entre en vigueur à une date fixée par le Gouvernement et, au plus tard, le 1er janvier 2023.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Donné à Namur, le 21 décembre 2022.
+
+Le Ministre-Président,
+
+E. DI RUPO
+
+Le Vice-Président et Ministre de l'Economie, du Commerce extérieur, de la Recherche et de l'Innovation, du Numérique, de l'Aménagement du territoire, de l'Agriculture, de l'IFAPME et des Centres de compétences,
+
+W. BORSUS
+
+Le Vice-Président et Ministre du Climat, de l'Energie, de la Mobilité et des Infrastructures,
+
+Ph. HENRY
+
+La Vice-Présidente et Ministre de l'Emploi, de la Formation, de la Santé, de l'Action sociale et de l'Economie sociale, de l'Egalité des chances et des Droits des femmes,
+
+Ch. MORREALE
+
+La Ministre de la Fonction publique, de l'Informatique, de la Simplification administrative, en charge des allocations familiales, du Tourisme, du Patrimoine et de la Sécurité routière,
+
+V. DE BUE
+
+Le Ministre du Logement, des Pouvoirs locaux et de la Ville,
+
+Ch. COLLIGNON
+
+Le Ministre du Budget et des Finances, des Aéroports et des Infrastructures sportives,
+
+A. DOLIMONT
+
+La Ministre de l'Environnement, de la Nature, de la Forêt, de la Ruralité et du Bien-être animal,
+
+C. TELLIER
