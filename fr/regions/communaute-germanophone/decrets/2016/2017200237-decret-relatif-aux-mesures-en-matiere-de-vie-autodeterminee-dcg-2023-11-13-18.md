@@ -1,0 +1,1313 @@
+---
+title: "[Décret relatif aux mesures en matière de vie autodéterminée] <DCG 2023-11-13/18 , art.5, 008; En vigueur : 01-01-2024>"
+identifier: "2017200237"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/13/2017200237/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2016-12-13
+published: 2017-01-30
+entry_into_force: 2017-01-01
+last_amended: 2026-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/13/2017200237/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 30-01-2017 et mise à jour au 02-03-2026"
+retrieved: 2026-10-12
+---
+
+# 13 DECEMBRE 2016. - [Décret relatif aux mesures en matière de vie autodéterminée] &lt;DCG 2023-11-13/18 , art.5, 008; En vigueur : 01-01-2024&gt;
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Chapitre 1er. - Dispositions générales
+
+#### Art. 1er
+
+- Champ d'application
+
+Le présent décret s'applique à [<sup>1</sup> au service désigné par le Gouvernement]<sup>1</sup>, aux prestataires ainsi qu'à toutes les personnes qui sollicitent ses mesures de soutien au titre de bénéficiaire.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 6, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 2
+
+- Qualifications
+
+Dans le présent décret, les qualifications s'appliquent à tous les sexes.
+
+#### Art. 3
+
+- Définitions
+
+Pour l'application du présent décret, l'on entend par :
+
+1° vie autodéterminée : l'organisation de son quotidien en ayant recours aux conseils, à l'accompagnement et au soutien nécessaires lorsque le bénéficiaire concerné en a besoin ou le souhaite;
+
+2° liberté de choix : la liberté du bénéficiaire d'opter pour une possibilité de manière autonome;
+
+3° bénéficiaires : les personnes physiques suivantes :
+
+a) les enfants et les jeunes : les personnes âgées de 0 à 21 ans qui présentent des incapacités physiques, mentales, intellectuelles ou sensorielles durables dont l'interaction avec diverses barrières peut faire obstacle à leur pleine et effective participation à la société sur un pied d'égalité;
+
+b) les adultes : les personnes âgées de 21 ans à l'âge légal de la retraite qui présentent des incapacités physiques, mentales, intellectuelles ou sensorielles durables dont l'interaction avec diverses barrières peut faire obstacle à leur pleine et effective participation à la société sur un pied d'égalité;
+
+c) les personnes âgées : les personnes qui ont dépassé l'âge légal de la retraite;
+
+d) les soignants proches : les personnes proches d'une personne mentionnée aux a), b) ou c) et qui s'en occupent dans un cadre non professionnel, qu'elles soient ou non dédommagées pour le faire. Les aidants proches mentionnés dans la loi du 12 mai 2014 relative à la reconnaissance de l'aidant proche aidant une personne en situation de grande dépendance sont aussi considérés comme soignants proches;
+
+4° représentant : une des personnes physiques suivantes :
+
+a) le représentant légal ou judiciaire du bénéficiaire;
+
+b) le mandataire désigné par le bénéficiaire par le biais d'un acte notarié, à l'exception des personnes qui sont occupées auprès d'un prestataire auquel fait appel le bénéficiaire;
+
+5° prestataires : les services et établissements qui fournissent les prestations de soutien auprès des bénéficiaires;
+
+6° aménagements raisonnables : les aménagements raisonnables mentionnés à l'article 3, 9°, du décret du 19 mars 2012 visant à lutter contre certaines formes de discrimination;
+
+7° accessibilité : le fait que le bénéficiaire puisse trouver les domaines de vie organisés, y accéder et les utiliser;
+
+8° détection des besoins : l'évaluation et la clarification des mesures de soutien nécessaires, que ce soit au niveau des soins, au niveau social, sociopédagogique ou ménager, au niveau de la nécessité d'aides et d'aménagement de l'habitation, le cas échéant, au niveau de l'intégration professionnelle, des aides financières et administratives, ainsi que d'autres besoins du bénéficiaire. Les ressources et capacités du bénéficiaire ainsi que de son environnement social sont prises en considération;
+
+9° gestion de cas : la procédure pour organiser, avec le bénéficiaire, l'aide, l'encadrement, la promotion et l'approvisionnement nécessaires, et ce, en répondant aux besoins de manière adéquate. La mission consiste à planifier, organiser et évaluer avec le bénéficiaire un système ciblé de coopération qui tient compte des besoins d'aide concrets du bénéficiaire;
+
+10° plan de soutien : l'offre de soutien qui, en impliquant le bénéficiaire, est établie sur la base d'une évaluation individuelle des besoins en tant que recommandation pour les mesures de soutien demandées par le bénéficiaire;
+
+11°[<sup>1</sup> Service : le service désigné par le Gouvernement;]<sup>1</sup>;
+
+12°Convention de l'ONU : la Convention des Nations Unies relative aux droits des personnes handicapées et son protocole facultatif, faits à New-York le 13 décembre 2006[<sup>1</sup>;]<sup>1</sup>
+
+[<sup>1</sup> 13° avis conforme : un avis préalable à une décision, contraignant et établi en bonne et due forme et dans les délais impartis, qui n'autorise la proposition de décision que s'il est favorable sans réserve ou sous certaines conditions;]<sup>1</sup>
+
+[<sup>1</sup> 14° BelRAI screener : un instrument d'évaluation global étayé scientifiquement, basé sur le "Resident Assessment Instrument" au niveau international. Il s'agit d'un instrument électronique validé qui génère des informations standardisées sur le bénéficiaire, afin d'améliorer l'encadrement;]<sup>1</sup>
+
+[<sup>1</sup> 15° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 7, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 4
+
+- Représentant
+
+Dans les limites des prescriptions légales, le représentant du bénéficiaire peut exercer tous les droits et devoirs de celui-ci mentionnés dans le présent décret et ses arrêtés d'exécution, et ce, en son nom et pour son compte. Ce faisant, il agit exclusivement dans l'intérêt du bénéficiaire.
+
+## Chapitre 2.
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 9, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 5
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 9, 008; En vigueur : 01-01-2024&gt;
+
+## Chapitre 3. - Vie autodéterminée et missions [<sup>1</sup> du Service ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 9, 008; En vigueur : 01-01-2024&gt;
+
+### Section 1re. - Missions et dispositions générales
+
+#### Art. 6
+
+- Missions générales
+
+[<sup>1</sup> Le Service]<sup>1</sup> assure les missions générales suivantes :
+
+1° informer de manière générale la population sur les mesures de soutien et offres existantes [<sup>1</sup> en matière de vie autodéterminée]<sup>1</sup>, et ce, par la sensibilisation, les relations publiques et la diffusion de documentation;
+
+2° de sa propre initiative ou à la demande du Parlement ou du Gouvernement, observer les évolutions [<sup>1</sup> en matière de vie autodéterminée]<sup>1</sup>;
+
+3° de sa propre initiative ou à la demande du Parlement ou du Gouvernement, élaborer des propositions ou recommandations en vue d'adapter l'offre aux conditions cadres correspondantes. A la demande d'autres autorités, [<sup>1</sup> le Service]<sup>1</sup> peut aussi élaborer des propositions ou recommandations en vue d'adapter l'offre aux conditions cadres correspondantes;
+
+4° promouvoir et encadrer l'échange d'informations et le travail en réseau entre les prestataires [<sup>1</sup> en matière de vie autodéterminée]<sup>1</sup>;
+
+5° mener ou mandater des études et enquêtes;
+
+6° promouvoir la formation continue des personnes occupées [<sup>1</sup> dans le domaine de la vie autodéterminée]<sup>1</sup>;
+
+7° en tant que point de contact (point focal) de la Communauté germanophone pour la Convention de l'ONU :
+
+a) assurer la coordination générale de la mise en oeuvre de la Convention de l'ONU en Communauté germanophone;
+
+b) établir un plan d'action transversal en vue de la mise en oeuvre de la Convention de l'ONU en Communauté germanophone, plan soumis au Parlement après approbation du Gouvernement;
+
+c) en tant qu'organisme spécialisé, assurer la coordination de la mise en oeuvre de la Convention de l'ONU et des mesures prévues dans le plan d'action;
+
+d) assurer l'information et la sensibilisation en ce qui concerne la Convention de l'ONU, des concepts et développements novateurs dans le secteur ainsi que sur les mesures et processus mis en place en Communauté germanophone;
+
+e) faire rapport sur la mise en oeuvre de la Convention de l'ONU;
+
+f) se concerter avec les organismes compétents aux niveaux national et international;
+
+8° conseiller et sensibiliser à propos de l'accessibilité;
+
+9° sur ordre du Gouvernement, assurer la représentation de la Communauté germanophone au sein d'organes belges, européens ou internationaux et conclure des conventions de coopération avec les autorités et organismes en Belgique et à l'étranger.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 10, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 7
+
+- Conseils prodigués aux bénéficiaires
+
+[<sup>2</sup> Le Service]<sup>2</sup> assure, en faveur des bénéficiaires, les tâches de conseil suivantes :
+
+1° informer, orienter et conseiller de manière personnalisée le bénéficiaire quant aux mesures de soutien[<sup>2</sup> existantes en matière de vie autodéterminée]<sup>2</sup>;
+
+2° analyser les besoins individuels du bénéficiaire en collaboration avec lui. Pour ce, [<sup>2</sup> le Service]<sup>2</sup> tient compte des souhaits et besoins du bénéficiaire ainsi que de sa liberté de choix. Si le bénéficiaire le souhaite, d'autres personnes peuvent participer à l'analyse des besoins. En règle générale, l'analyse des besoins se déroule dans l'habitation du bénéficiaire ou sur son lieu de formation ou de travail.[<sup>1</sup>.]<sup>1</sup>[<sup>2</sup> ...]<sup>2</sup>
+
+3° établir, en accord avec le bénéficiaire, un plan de soutien individuel et orienté sur son milieu de vie. Dans ce plan de soutien sont repris les résultats de l'analyse des besoins et les mesures de soutien recommandées mises en place en fonction de cette dernière. Le plan de soutien est établi de concert avec les prestataires, en tenant compte des capacités propres et de leurs réserves de capacité disponibles;
+
+4° coordonner les mesures du plan de soutien, si besoin est et dans la mesure où le bénéficiaire est d'accord avec le plan de soutien élaboré. S'il est dérogé au plan de soutien ou si celui-ci est rejeté, [<sup>2</sup> le Service]<sup>2</sup> soutient le bénéficiaire dans la mise en oeuvre des mesures de soutien qu'il a choisies, et ce, dans le cadre des capacités disponibles des prestataires;
+
+5° simuler la participation personnelle pour les soutiens prévus dans le plan et informer le bénéficiaire sur les éventuelles aides financières et administratives;
+
+6° prodiguer des conseils spécialisés et personnalisés au bénéficiaire tout au long de la prestation de soutien et coordonner les mesures en fonction des besoins tout en tenant compte de son milieu de vie. Pour vérifier si les mesures sont toujours adaptées, le plan de soutien est vérifié avec le bénéficiaire et les prestataires concernés :
+
+a) pour les enfants, les jeunes et les adultes : à la demande du bénéficiaire ou sur la proposition de [<sup>2</sup> le Service]<sup>2</sup>;
+
+b) pour les personnes âgées : au moins tous les six mois.
+
+Les bénéficiaires et les prestataires concernés informent aussi [<sup>2</sup> le Service]<sup>2</sup> en cas de modification des besoins;
+
+7° prodiguer des conseils au bénéficiaire en ce qui concerne la prévention de la violence et le soutenir lorsqu'il est victime de tels actes.
+
+Le Gouvernement détermine les conditions à respecter pour solliciter l'analyse des besoins et l'établissement du plan de soutien, ainsi que les critères et procédures d'évaluation à utiliser pour estimer les besoins.
+
+----------
+
+(1)&lt;DCG 2018-12-11/11, art. 13, 004; En vigueur : 21-01-2019&gt;
+
+(2)&lt;DCG 2023-11-13/18, art. 11, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 8
+
+- Aides et subsides en faveur des bénéficiaires
+
+[<sup>1</sup> Le Service]<sup>1</sup> peut octroyer aux bénéficiaires des aides financières et/ou des subsides pour des mesures individuelles d'aide et d'adaptation visant la mise en oeuvre d'aménagements raisonnables, y compris pour des aides à la mobilité.
+
+Le Gouvernement détermine :
+
+1° les conditions mises à l'octroi d'une aide ou d'un subside, y compris un plafond éventuel;
+
+2° les formes que prennent éventuellement les aides et subsides;
+
+3° les critères et la procédure selon lesquels [<sup>1</sup> le Service]<sup>1</sup> peut octroyer des aides et subsides.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 12, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 9
+
+- Soutien matériel en faveur des bénéficiaires
+
+[<sup>1</sup> Le Service]<sup>1</sup> peut octroyer aux bénéficiaires des aides matérielles pour des mesures individuelles d'aide et d'adaptation visant la mise en oeuvre d'aménagements raisonnables, y compris pour des aides à la mobilité, et ce, sous forme de prêts.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 13, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 10
+
+- Obligations des bénéficiaires
+
+Le Gouvernement détermine :
+
+1° sans préjudice de dispositions légales ou décrétales contraires, le montant et les modalités de fixation de la participation personnelle à charge des bénéficiaires qui font appel aux prestations de soutien fournies par [<sup>1</sup> le Service]<sup>1</sup> ou les prestataires;
+
+2° les obligations du bénéficiaire ou, selon le cas, de ses ayants droit, lorsque le matériel éventuellement subsidié ou mis à disposition n'est plus utilisé par lui personnellement;
+
+3° les autres obligations du bénéficiaire liées à l'octroi d'une allocation, d'un subside ou d'un soutien matériel.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 14, 008; En vigueur : 01-01-2024&gt;
+
+### Section 2. - Missions spécifiques en faveur des enfants, des jeunes et des adultes
+
+#### Art. 11
+
+- Missions
+
+§ 1er - [<sup>1</sup> Le Service]<sup>1</sup> exerce, en faveur des enfants, des jeunes et des adultes, les missions spécifiques suivantes :
+
+1° l'encadrement sociopédagogique;
+
+2° [<sup>2</sup> ...]<sup>2</sup>;
+
+3° [<sup>2</sup> ...]<sup>2</sup>;
+
+4° l'organisation d'offres de logement en dehors d'institutions.
+
+§ 2 - [<sup>1</sup> Le Service]<sup>1</sup> encadre les enfants et les jeunes nécessitant une revalidation médicale dans le cadre d'une gestion de cas.
+
+Le Gouvernement détermine les critères d'intervention correspondants.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 15, 008; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCG 2025-02-24/04, art. 18, 011; En vigueur : 01-01-2025&gt;
+
+#### Art. 12
+
+- Agrément de prestataires
+
+Chaque prestataire qui, dans le cadre du présent décret, propose régulièrement une ou plusieurs des mesures de soutien suivantes pour des enfants, des jeunes ou des adultes doit être agréé par [<sup>1</sup> le Service]<sup>1</sup> avant d'entamer l'activité :
+
+1° des offres thérapeutiques, sans préjudice des dispositions légales ou décrétales contraires;
+
+2° des formes de logement en institution;
+
+3° des formes d'emploi en institution;
+
+4° des offres de soutien ou de répit;
+
+5° des offres en matière d'entraide, d'autodétermination, de conscientisation, de loisirs et de formation;
+
+6° des offres spécialisées en matière de transport de personnes.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 16, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 13
+
+- Procédure d'agrément
+
+Pour pouvoir être agréé en tant que prestataire conformément à l'article 12, le pouvoir organisateur doit être constitué sous la forme d'une association sans but lucratif ou dépendre d'un pouvoir subordonné.
+
+[<sup>1</sup> La sécurité des locaux utilisés par le pouvoir organisateur pour son service est attestée par un avis positif en matière de sécurité incendie établi par le commandant des pompiers compétent.]<sup>1</sup>
+
+Le Gouvernement détermine :
+
+1° les autres conditions d'agrément et obligations;
+
+2° les éventuelles formes d'agrément;
+
+3° les critères et la procédure selon lesquels [<sup>2</sup> le Service]<sup>2</sup> octroie, refuse, suspend ou retire l'agrément;
+
+4° la durée de l'agrément, qui ne peut être inférieure à un an ni supérieure à dix ans.
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 9, 006; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCG 2023-11-13/18, art. 17, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 14
+
+- Subventionnement des prestataires
+
+§ 1er - [<sup>2</sup> Le Service]<sup>2</sup> peut accorder des subsides à des prestataires agréés, y compris pour des équipements.
+
+Le Gouvernement détermine :
+
+1° les conditions de subventionnement et les obligations, y compris un éventuel plafond;
+
+2° les éventuelles formes de subventionnement;
+
+3° les critères et la procédure selon lesquels [<sup>2</sup> le Service]<sup>2</sup> peut octroyer des subsides.
+
+§ 2 - Sans préjudice du § 1er, le subventionnement peut s'opérer dans le cadre d'une convention conclue entre [<sup>2</sup> le Service]<sup>2</sup> et le prestataire.
+
+Le Gouvernement détermine les conditions-cadres correspondantes.
+
+[<sup>1</sup> § 3 - Sans préjudice des § § 1er et 2, le Gouvernement peut autoriser [<sup>2</sup> le Service]<sup>2</sup> à verser les traitements du personnel des prestataires agréés, et ce, aux conditions et modalités fixées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-12-11/11, art. 14, 004; En vigueur : 21-01-2019&gt;
+
+(2)&lt;DCG 2023-11-13/18, art. 18, 008; En vigueur : 01-01-2024&gt;
+
+### Section 3. - Missions spécifiques en faveur des personnes âgées
+
+#### Art. 15
+
+- [<sup>2</sup> Fin de la mission]<sup>2</sup>
+
+§ 1er [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2 [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 3 - A l'exception des aides à la mobilité mentionnées aux articles 8 et 9 et du classement dans une catégorie de soins mentionné à l'article 16, la mission de [<sup>1</sup> le Service]<sup>1</sup> se termine de plein droit en cas de passage durable à un encadrement résidentiel.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 19, 008; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCG 2025-12-22/16, art. 37, 012; En vigueur : 01-01-2026&gt;
+
+#### Art. 16
+
+- Classement dans une catégorie de soins
+
+En vue de l'octroi d'une prestation financière correspondante pour les pouvoirs organisateurs [<sup>2</sup> centres de repos et de soins pour personnes âgées ]<sup>2</sup>,[<sup>2</sup> le Service]<sup>2</sup> classe [<sup>1</sup>, en utilisant le screener BelRAI]<sup>1</sup> la personne âgée dans une catégorie de soins avant qu'elle ne sollicite des prestations résidentielles proposées par des maisons de repos et de soins.
+
+[<sup>1</sup> Sans préjudice de l'alinéa 1er, le Gouvernement détermine la procédure d'évaluation applicable pour le classement dans une catégorie de soins]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2018-12-11/11, art. 15, 004; En vigueur : 21-01-2019&gt;
+
+(2)&lt;DCG 2023-11-13/18, art. 20, 008; En vigueur : 01-01-2024&gt;
+
+### Section 4. - Missions d'inspection et de contrôle
+
+#### Art. 17
+
+- Inspection et contrôle
+
+§ 1er - [<sup>1</sup> Sans préjudice de l'article 83 du décret du 13 décembre 2018 concernant les offres pour personnes âgées ou dépendantes ainsi que les soins palliatifs]<sup>1</sup>, les prestataires mentionnés dans le présent décret sont soumis à la tutelle des inspecteurs désignés par le Gouvernement. Les inspecteurs peuvent demander le soutien de représentants de la force publique pour exercer leur mission.
+
+Les inspecteurs chargés du contrôle peuvent procéder à toutes les enquêtes, à tous les contrôles et à toutes les informations et collecter tous renseignements qu'ils estiment nécessaires pour s'assurer que les dispositions du présent décret et de ses arrêtés d'exécution sont respectées. Ils peuvent :
+
+1° interroger toute personne quant à des faits dont la connaissance est utile à l'exercice de la surveillance;
+
+2° se faire produire sans déplacement tous les livres et documents prescrits par le présent décret et ses dispositions d'exécution et en établir des copies ou extraits;
+
+3° compulser tous les livres et documents nécessaires pour remplir leur mission;
+
+4° visiter en tout temps tous les locaux des prestataires qui ne constituent pas une habitation. Les enquêtes et les contrôles peuvent être menés sans annonce préalable et sans la présence d'un représentant du prestataire. Dans ce cas, le représentant du prestataire reçoit un retour d'information immédiat;
+
+5° visiter les habitations, moyennant l'accord de tous les résidents majeurs. Les résidents ont le droit d'être présents;
+
+6° demander l'aide de la police locale ou fédérale dans l'exercice de leur fonction.
+
+§ 2 - Le Gouvernement peut en outre charger des experts externes, sous la tutelle des inspecteurs, d'inspecter un prestataire et d'émettre un avis à son sujet. Dans ce cas, les experts mandatés soutiennent les inspecteurs dans l'exercice des compétences mentionnées au § 1er.
+
+§ 3 - Le contrôle de l'utilisation des subsides octroyés s'opère conformément à la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes.
+
+----------
+
+(1)&lt;DCG 2018-12-13/23, art. 87, 005; En vigueur : 01-01-2019&gt;
+
+### Section 5. - Exécution [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 21, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 18
+
+- Exécution
+
+§ 1er - Dans la mesure où celles-ci ne sont pas réglées spécifiquement dans le présent chapitre, le Gouvernement peut fixer d'autres conditions-cadres, y compris d'éventuelles dispositions procédurales pour l'exécution des missions mentionnées dans le présent chapitre.
+
+§ 2 - [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 22, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 19
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 23, 008; En vigueur : 01-01-2024&gt;
+
+## Chapitre 4. -[<sup>1</sup> Participation et fourniture de conseils dans le domaine de la vie autodéterminée ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 24, 008; En vigueur : 01-01-2024&gt;
+
+### Section 1re. [<sup>1</sup> Comité de gestion]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 25, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 19.1
+
+[<sup>1</sup> Création
+
+Un comité de gestion chargé de la vie autodéterminée est créé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-11-13/18, art. 26, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 20
+
+- Composition
+
+[<sup>1</sup> Le comité de gestion]<sup>1</sup> se compose des membres suivants, ayant voix délibérative :
+
+1° un président, sans préjudice de l'article 23, alinéa 2;
+
+2° deux représentants pour les organisations représentatives des travailleurs;
+
+3° deux représentants pour les organisations interprofessionnelles d'employeurs ayant leur siège en Communauté germanophone;
+
+4° deux représentants des mutualités;
+
+5° deux spécialistes [<sup>1</sup> du domaine de la vie autodéterminée]<sup>1</sup>, respectivement concernés par les missions fixées au chapitre 3, sous-sections 2 et 3.
+
+Ont voix consultative au [<sup>1</sup> comité de gestion]<sup>1</sup> :
+
+1° deux représentants du Ministère de la Communauté germanophone désignés par le Gouvernement;
+
+2° [<sup>1</sup> un représentant du Service désigné par le Gouvernement;]<sup>1</sup>;
+
+[<sup>1</sup> 2.1° un représentant du Gouvernement de la Communauté germanophone;]<sup>1</sup>
+
+3° un représentant de chaque conférence des prestataires;
+
+4° deux représentants de la société civile.
+
+De manière ponctuelle, le [<sup>1</sup> comité de gestion]<sup>1</sup> peut inviter à ses réunions des experts ayant voix consultative.
+
+[<sup>1</sup> Le comité de gestion peut mettre en place et dissoudre des groupes de travail transversaux. Il fixe les missions, les objectifs et les éventuels délais, règle les modalités relatives à la composition et désigne le président.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 27, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 21
+
+- Désignation des membres
+
+§ 1er - Le Gouvernement désigne :
+
+1° le président du [<sup>2</sup> comité de gestion]<sup>2</sup>;
+
+2° les membres mentionnés à l'article 20, alinéa 1er, 2°, sur la proposition des organisations représentatives des travailleurs;
+
+3° les membres mentionnés à l'article 20, alinéa 1er, 3°, sur la proposition des organisations interprofessionnelles des employeurs ayant leur siège en Communauté germanophone;
+
+4° les membres mentionnés à l'article 20, alinéa 1er, 4°, sur la proposition des mutualités;
+
+5° les membres mentionnés à l'article 20, alinéa 1er, 5°;
+
+6° les membres mentionnés à l'article 20, alinéa 2, 3°, sur la proposition de chaque conférence des prestataires instituée conformément à l'article 31;
+
+7° [<sup>1</sup> les membres mentionnés à l'article 20, alinéa 2, 4°, respectivement sur la proposition du Conseil consultatif pour les personnes handicapées et des conseils consultatifs communaux pour les intérêts des personnes âgées.]<sup>1</sup>
+
+Pas plus de deux tiers des membres mentionnés à l'article 20, alinéa 1er, 2° à 5°, ne peuvent être du même sexe.
+
+[<sup>2</sup> § 2.]<sup>2</sup> - La qualité de membre du [<sup>2</sup> comité de gestion]<sup>2</sup> est incompatible avec celle de membre du Parlement européen, de la chambre des représentants, du sénat, d'un parlement communautaire ou régional ou d'un gouvernement. En outre, un membre du [<sup>2</sup> comité de gestion]<sup>2</sup> ne peut être ni gouverneur de province, ni collaborateur d'un cabinet ministériel [<sup>2</sup> ...]<sup>2</sup>.
+
+Un membre du [<sup>2</sup> comité de gestion]<sup>2</sup> ayant voix délibérative ne peut ni siéger dans les organes de décision et de tutelle des prestataires concernés par le présent décret, ni être membre du personnel d'un de ces prestataires.
+
+----------
+
+(1)&lt;DCG 2022-11-21/07, art. 13, 007; En vigueur : 03-12-2022&gt;
+
+(2)&lt;DCG 2023-11-13/18, art. 28, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 22
+
+[<sup>2</sup> § 1.]<sup>2</sup> - Durée du mandat
+
+Les membres du [<sup>1</sup> comité de gestion]<sup>1</sup>sont désignés pour cinq ans. Leur mandat est renouvelable.
+
+[<sup>2</sup> § 2.]<sup>2</sup> Le mandat des membres du [<sup>1</sup> comité de gestion]<sup>1</sup> prend fin en cas de décès, de démission volontaire, de déchéance des droits civils et politiques, de la perte du mandat de l'association, de l'organisme ou du service, voire des groupements correspondants, habilités à présenter des candidats ou si l'une des incompatibilités visées à l'article 21, § 2, est constatée.
+
+[<sup>2</sup> Sans préjudice des dispositions figurant dans le présent décret ou dans le droit commun en matière de droit de révocation, le Gouvernement peut, de sa propre initiative, sur proposition de l'une des instances de proposition prévues à l'article 21, § 1er, ou sur proposition du comité de gestion, révoquer un membre qu'il a désigné au comité de gestion dans les conditions suivantes et à tout moment :
+
+1° s'il peut être prouvé qu'il a commis une faute grave ou une négligence grave lors de l'exercice de son mandat ou
+
+2° s'il peut être prouvé qu'il a effectué une action ou a eu un comportement incompatibles avec l'exercice de son mandat ou
+
+3° s'il peut être prouvé qu'il ne respecte pas les principes démocratiques énoncés dans les textes juridiques énumérés ci-après ou, selon le cas, s'il est membre d'une organisation, d'un parti, d'une association ou d'une personne morale qui ne respecte pas lesdits principes :
+
+\- la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie, et
+
+\- la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste allemand pendant la seconde guerre mondiale.
+
+Il est procédé à une révocation conformément à l'alinéa 2 après la tenue d'une audition préalable lors de laquelle le membre concerné peut se faire accompagner de la personne de son choix. Le Gouvernement fixe les autres modalités relatives à la procédure de révocation.]<sup>2</sup>
+
+[<sup>2</sup> § 3.]<sup>2</sup> Il est pourvu dans les trois mois au remplacement de tout membre [<sup>2</sup> qui a cessé de faire partie ou est révoqué]<sup>2</sup> du [<sup>1</sup> comité de gestion]<sup>1</sup> avant la date normale d'expiration de son mandat. Le nouveau membre achève le mandat de son prédécesseur.
+
+[<sup>2</sup> Un membre révoqué conformément au § 2, alinéa 2, ne peut être désigné à nouveau au comité de gestion pour la durée de mandat restante et suivante.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 29, 008; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCG 2024-05-06/14, art. 3, 010; En vigueur : 01-09-2024&gt;
+
+#### Art. 23
+
+- Prise de décision
+
+Le [<sup>1</sup> comité de gestion]<sup>1</sup>ne peut délibérer valablement que si plus de la moitié des membres ayant voix délibérative sont présents ou représentés. Quel que soit le nombre de membres avec voix délibérative présents ou représentés, il peut prendre des décisions valables sur les points inscrits pour la deuxième fois à l'ordre du jour.
+
+Les décisions du [<sup>1</sup> comité de gestion]<sup>1</sup> sont prises à la majorité absolue des suffrages exprimés, le président n'ayant le droit de vote qu'en cas de parité des voix. Dans ce cas, sa voix est prépondérante.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 30, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 24
+
+[<sup>1</sup> - Missions
+
+§ 1er - Le comité de gestion conseille le Service sur les questions relatives au domaine de la vie autodéterminée et, notamment, dans le cadre de l'exercice des missions mentionnées au chapitre 3.
+
+Sans préjudice du § 2, pour autant qu'il y soit habilité, le Service ne prend aucune décision sans un avis conforme du comité de gestion pour ce qui concerne les matières suivantes :
+
+1° l'agrément de nouveaux prestataires ou le retrait d'agréments déjà existants;
+
+2° le subventionnement structurel des prestataires;
+
+3° l'octroi des aides déterminées par le Gouvernement en faveur des bénéficiaires;
+
+4° la passation de marchés publics dans le cadre du volet "Vie autodéterminée" du budget des dépenses de la Communauté germanophone, dont le montant est supérieur à 30 000 euros;
+
+5° les projets relatifs à l'orientation stratégique globale, au travail conceptuel spécifique ainsi qu'à l'organisation et à la fourniture des prestations publiques dans le cadre de la mise en oeuvre opérationnelle des missions décrétales et réglementaires qui ont été déléguées au Service;
+
+6° les projets de budget du volet "Vie autodéterminée" du budget des dépenses de la Communauté germanophone.
+
+§ 2 - Si l'intérêt général ou les dispositions en vigueur l'exigent, le Gouvernement peut enjoindre au comité de gestion de réévaluer certains projets de décision ou de répondre à certaines questions. Le Gouvernement communique au comité de gestion les questions sur lesquelles ce dernier doit rendre un avis ainsi que le délai prescrit à cette fin.
+
+Si le comité de gestion n'a pas rendu son avis dans le délai imparti ou si le Gouvernement ne peut se rallier à l'avis rendu, celui-ci peut, par dérogation au § 1er, prendre une décision en l'absence d'avis ou nonobstant l'avis du comité de gestion.
+
+§ 3 - Le Service transmet, tous les six mois, au comité de gestion un aperçu statistique en ce qui concerne la situation relative au budget et au personnel, un rapport sur la gestion des réclamations ainsi qu'un rapport d'avancement sur la réalisation des objectifs stratégiques et des projets dans le domaine de la vie autodéterminée.
+
+Le Service informe le comité de gestion de toutes les matières faisant l'objet de discussions au sein des autres organes créés par le présent décret.
+
+Le Service transmet, pour information, au comité de gestion les rapports de contrôle rédigés en exécution de l'article 24 du décret du 15 octobre 2018 relatif à la communication électronique, publique et adressée aux particuliers, des autorités de la région de langue allemande.
+
+§ 4 - Le Gouvernement demande l'avis du comité de gestion en ce qui concerne tout projet de décret ou d'arrêté relatif au domaine de la vie autodéterminée. Le comité de gestion est tenu d'émettre son avis dans les deux mois suivant l'introduction de la demande, sauf si un autre délai a été convenu.
+
+En cas de modifications du statut des agents du Service, le Gouvernement sollicite un avis préalable auprès du comité de gestion.
+
+Aux fins de la mise en oeuvre des habilitations établies par le présent décret, le Gouvernement adopte les dispositions correspondantes, soit sur proposition du comité de gestion, soit après soumission des avant-projets à ce dernier pour avis.
+
+Le comité de gestion peut, de sa propre initiative ou sur demande du Parlement ou du Gouvernement, élaborer des propositions ou des recommandations à des fins d'adaptation de l'offre dans le domaine de la vie autodéterminée ainsi que les conditions-cadres correspondantes.
+
+Le Parlement de la Communauté germanophone peut, par l'intermédiaire de son président, demander un avis au comité de gestion. Celui-ci transmet ledit avis au demandeur dans le délai fixé par le Parlement.
+
+§ 5 - Le comité de gestion exerce les compétences d'un Conseil supérieur de la Communauté germanophone pour une vie autodéterminée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 31, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 25
+
+[<sup>1</sup>- Règlement d'ordre intérieur
+
+Le comité de gestion se dote d'un règlement d'ordre intérieur, lequel doit être approuvé par le Gouvernement. Ledit règlement règle notamment les aspects suivants :
+
+1° la convocation du comité de gestion, la fixation de l'ordre du jour et la préparation des points de l'ordre du jour;
+
+2° le processus de prise de décision au sein du comité de gestion;
+
+3° la rédaction du procès-verbal;
+
+4° le lieu de la réunion;
+
+5° la procédure lorsqu'il est fait appel, de manière ponctuelle, à des experts.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 32, 008; En vigueur : 01-01-2024&gt;
+
+### Section 2. - Organe consultatif spécialisé
+
+#### Art. 26
+
+- Création
+
+[<sup>1</sup> Un organe consultatif spécialisé dans le domaine de la vie autodéterminée est créé.]<sup>1</sup>.
+
+L'organe consultatif spécialisé est indépendant et composé de manière pluridisciplinaire; conformément aux missions décrites à l'article 29, il prodigue des conseils et rend des avis. L'organe assume ses tâches en adoptant une approche globale.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 33, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 27
+
+- Composition
+
+L'organe consultatif spécialisé se compose des membres suivants ayant voix délibérative :
+
+1° deux membres du [<sup>1</sup> comité de gestion]<sup>1</sup>;
+
+2° [<sup>2</sup> deux membres au maximum de chacune des conférences]<sup>2</sup> de prestataires instituées;
+
+3° [<sup>2</sup> au maximum huit spécialistes, provenant par exemple des secteurs de l'emploi, de la formation, de la bioéthique, de la santé, des soins de longue durée, de la revalidation, de l'intégration socioprofessionnelle ou du logement.]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> Les agents du Service]<sup>1</sup> peuvent assister avec voix consultative aux réunions de l'organe consultatif spécialisé.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 34, 008; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCG 2022-12-15/54, art. 5, 009; En vigueur : 01-01-2023&gt;
+
+#### Art. 28
+
+- Désignation des membres
+
+Le Gouvernement désigne les membres de l'organe consultatif spécialisé ainsi que son président parmi les membres dudit organe.
+
+A leur demande, qui doit être adressée au [<sup>1</sup> Gouvernement]<sup>1</sup>, ils peuvent à tout moment remettre leur mandat.
+
+Le Gouvernement met fin au mandat d'un membre :
+
+1° si le membre n'assiste pas à six séances consécutives de l'organe consultatif spécialisé ou est absent à trois séances consécutives sans justification;
+
+2° en cas de non-respect du présent décret ou de ses dispositions d'exécution.
+
+Il est pourvu dans les trois mois au remplacement de tout membre qui a cessé de faire partie de l'organe consultatif spécialisé avant la date normale d'expiration de son mandat.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 35, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 29
+
+- Missions
+
+L'organe consultatif spécialisé assure à la demande du conseil d'administration ou du directeur délégué les missions suivantes :
+
+1° rendre un avis à propos de situations où des lacunes apparaissent dans le réseau des services actifs [<sup>1</sup> dans le domaine de la vie autodéterminée]<sup>1</sup> ou si de nouveaux besoins sont constatés auprès de groupes cibles spécifiques;
+
+2° rendre un avis sur les nouveaux projets et prestations de soutien proposés [<sup>1</sup> dans le domaine de la vie autodéterminée]<sup>1</sup>;
+
+3° rendre un avis sur des questions déontologiques [<sup>1</sup> en matière de vie autodéterminée]<sup>1</sup>;
+
+4° rendre un avis dans des dossiers individuels complexes;
+
+5° être actif dans le cadre de la gestion des plaintes;
+
+6° sans préjudice de l'article 17, assurer des missions en vue de la surveillance des prestataires et de leurs prestations de soutien, et ce, dans le cadre des conditions et règles de procédure fixées par le Gouvernement;
+
+7° assurer des activités d'expertise exceptionnelles.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 36, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 30
+
+- Règlement d'ordre intérieur
+
+[<sup>1</sup> L'organe consultatif spécialisé se dote d'un règlement d'ordre intérieur, lequel doit être approuvé par le Gouvernement. Ledit règlement]<sup>1</sup> règle notamment les aspects suivants :
+
+1° la convocation de l'organe consultatif spécialisé;
+
+2° le processus de prise de décision au sein de l'organe consultatif spécialisé;
+
+3° la rédaction du procès-verbal;
+
+4° le lieu de réunion;
+
+5° la procédure lorsqu'il est éventuellement fait appel à des experts.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 37, 008; En vigueur : 01-01-2024&gt;
+
+### Section 3. - Conférences des prestataires
+
+#### Art. 31
+
+[<sup>1</sup> - Institution
+
+§ 1er - En vue de garantir l'échange d'informations et le travail en réseau entre les prestataires concernés, le Gouvernement institue au moins deux conférences de prestataires, respectivement concernées par les missions fixées aux sections 2 et 3 du chapitre 3.
+
+§ 2 - Les conférences de prestataires se composent des membres suivants, ayant voix délibérative :
+
+1° les prestataires agréés conformément aux articles 12 et 13;
+
+2° d'autres prestataires qui proposent des offres thérapeutiques, des formes de logement et d'emploi en institution, des offres de soutien ou de répit, des offres en matière d'entraide, d'autodétermination, de conscientisation, de loisirs et de formation ou des offres spécialisées en matière de transport de personnes et dont les prestations sont principalement utilisées par les bénéficiaires.
+
+Ont voix consultative au sein des conférences de prestataires :
+
+1° un représentant du Service désigné par le Gouvernement;
+
+2° un représentant du Gouvernement de la Communauté germanophone.
+
+Le Gouvernement désigne les membres effectifs des conférences de prestataires et un suppléant pour chacun d'eux.
+
+Les membres mentionnés à l'alinéa 1er sont désignés sur la proposition des différents prestataires représentés au sein des conférences de prestataires.
+
+Les prestataires sont membres d'au moins une telle conférence de prestataires.
+
+§ 3 - Le Gouvernement détermine la procédure d'institution, le fonctionnement et les missions des conférences de prestataires.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-02-24/04, art. 19, 011; En vigueur : 06-06-2025&gt;
+
+### Section 4.
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 39, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 32
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 39, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 33
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 39, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 34
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 39, 008; En vigueur : 01-01-2024&gt;
+
+## Chapitre 5. - Participation de la société civile
+
+#### Art. 35
+
+[<sup>1</sup> - Participation structurelle
+
+La participation structurelle de la société civile au processus décisionnel ne se rapportant pas à des personnes est garantie par la création d'un Conseil consultatif pour les personnes handicapées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2022-11-21/07, art. 14, 007; En vigueur : 03-12-2022&gt;
+
+## Chapitre 6. - Communication électronique
+
+#### Art. 36
+
+[<sup>1</sup> - Communication électronique obligatoire
+
+Par dérogation à l'article 14 du décret du 15 octobre 2018 relatif à la communication électronique, publique et adressée aux particuliers, des autorités de la région de langue allemande et sans préjudice de l'article 16, § 2, alinéa 4, du même décret, [<sup>2</sup> le Gouvernement]<sup>2</sup> peut obliger les prestataires à communiquer [<sup>2</sup> avec le Service]<sup>2</sup> par voie électronique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-10-15/11, art. 28, 003; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCG 2023-11-13/18, art. 40, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 37
+
+&lt;Abrogé par DCG 2018-10-15/11, art. 29, 003; En vigueur : 01-01-2019&gt;
+
+#### Art. 38
+
+&lt;Abrogé par DCG 2018-10-15/11, art. 29, 003; En vigueur : 01-01-2019&gt;
+
+#### Art. 39
+
+[<sup>1</sup> L'Office créée, valide, sécurise et tient à jour une base de données reprenant les personnes qui remplissent les missions énumérées aux articles 7 et 16. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-12-11/11, art. 16, 004; En vigueur : 21-01-2019&gt;
+
+#### Art. 40
+
+&lt;Abrogé par DCG 2018-10-15/11, art. 29, 003; En vigueur : 01-01-2019&gt;
+
+## Chapitre 7. [<sup>1</sup> - Confidentialité et protection des données]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 41
+
+[<sup>1</sup> - Confidentialité
+
+Sans préjudice de dispositions légales ou décrétales contraires, le Gouvernement, le Service, les prestataires ainsi que toutes les autres personnes parties prenantes à l'exécution du présent décret et de ses dispositions d'exécution sont tenus de traiter confidentiellement les données qui leur sont confiées dans le cadre de l'exercice de leur mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 42
+
+[<sup>1</sup> - Obligation de coopérer
+
+Sans préjudice des dispositions figurant dans le présent chapitre, les agents du Service chargés de gérer un dossier de bénéficiaire en exécution du présent décret sont obligés de coopérer avec les personnes qui, dans l'intérêt dudit bénéficiaire, interviennent également dans le cadre d'un suivi. Ces dernières doivent notamment être informées des mesures déjà entreprises.
+
+La coopération exige le respect de la répartition des compétences et missions de chacun.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 43
+
+[<sup>1</sup> - Traitement des données à caractère personnel
+
+Sans préjudice de l'article 44, le Gouvernement et les prestataires sont, au sens du règlement général sur la protection des données, respectivement responsables du traitement des données à caractère personnel mentionné dans le présent décret. Sont considérés comme responsables de ce traitement au sens de l'article 4, 7), du règlement général sur la protection des données :
+
+1° le Gouvernement, en ce qui concerne l'exécution des missions mentionnées au chapitre 3;
+
+2° les prestataires, en ce qui concerne la fourniture des mesures de soutien mentionnées à l'article 12 et destinées aux enfants, aux jeunes ou aux adultes ainsi que le paiement des traitements des membres de leur personnel.
+
+Le Gouvernement, le Service et les prestataires ne peuvent utiliser les données collectées à d'autres fins que l'exercice de leurs missions légales ou décrétales.
+
+Le traitement des données à caractère personnel s'opère dans le respect de la législation applicable en matière de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 44
+
+[<sup>1</sup> - Traitement de données relatives à la santé
+
+Le traitement de données relatives à la santé des personnes concernées s'opère sous la responsabilité d'un professionnel des soins de santé.
+
+La collecte et le traitement de données relatives à la santé s'opèrent dans le respect de la loi du 22 août 2002 relative aux droits du patient et du secret médical.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 45
+
+[<sup>1</sup>- Catégories de données
+
+§ 1er - Le Service et les inspecteurs et experts externes désignés conformément à l'article 17 peuvent traiter, conformément à l'article 43 et en ce qui concerne les bénéficiaires, les catégories de données à caractère personnel suivantes :
+
+1° les données relatives à l'identité et les données de contact, y compris le numéro de registre national;
+
+2° les données relatives à l'identité et les données de contact du représentant du bénéficiaire;
+
+3° les données relatives à la fréquentation scolaire ou à la formation, selon le cas;
+
+4° les données relatives à la situation familiale;
+
+5° les données relatives à la situation sociale et financière;
+
+6° les données relatives aux loisirs et centres d'intérêt;
+
+7° les données relatives à la santé et au développement de la personne concernée :
+
+a) les données relatives à sa santé physique;
+
+b) les données relatives à sa santé psychique;
+
+c) les données relatives à son comportement;
+
+d) les données relatives aux risques et facteurs de risque;
+
+e) les données relatives aux capacités et aptitudes;
+
+8° les données relatives aux vaccinations;
+
+9° les données particulièrement dignes d'être protégées, mentionnées à l'article 9 du règlement général sur la protection des données;
+
+10° les données judiciaires, mentionnées à l'article 10 du règlement général sur la protection des données.
+
+Les catégories de données mentionnées à l'alinéa 1er sont traitées aux fins suivantes :
+
+1° la fourniture de conseils aux bénéficiaires conformément à l'article 7 [<sup>2</sup> ...]<sup>2</sup>;
+
+2° l'exercice de missions spécifiques en faveur des enfants, des jeunes et des adultes conformément à l'article 11;
+
+3° l'exercice du contrôle à l'égard des prestataires conformément à l'article 17, y compris le contrôle des conditions de subventionnement.
+
+§ 2 - Le Service et les inspecteurs et experts externes désignés conformément à l'article 17 peuvent traiter, conformément à l'article 43 et en ce qui concerne les bénéficiaires, les catégories de données à caractère personnel mentionnées au § 1er, alinéa 1er, 1° à 7°.
+
+Les catégories de données mentionnées à l'alinéa 1er sont traitées aux fins de l'octroi aux bénéficiaires d'aides financières et/ou de subsides ou, selon le cas, d'aides matérielles pour des mesures individuelles d'aide et d'adaptation visant la mise en oeuvre d'aménagements raisonnables conformément aux articles 8 et 9.
+
+§ 3 - Le Service et les inspecteurs et experts externes désignés conformément à l'article 17 peuvent traiter, conformément à l'article 43 et en ce qui concerne les bénéficiaires, les catégories de données à caractère personnel mentionnées au § 1er, alinéa 1er, 1°, 2° et 4° à 7°.
+
+Les catégories de données mentionnées à l'alinéa 1er sont traitées aux fins du classement de la personne âgée dans une catégorie de soins au moyen du BelRAI screener conformément à l'article 16.
+
+§ 4 - Le Service et les inspecteurs et experts externes désignés conformément à l'article 17 peuvent traiter, conformément à l'article 43 et en ce qui concerne les membres du personnel des prestataires, les catégories de données à caractère personnel suivantes :
+
+1° les données relatives à l'identité et les données de contact, y compris le numéro de registre national;
+
+2° les données relatives au diplôme et à la formation;
+
+3° les données relatives à la relation de travail et au traitement.
+
+Les catégories de données mentionnées à l'alinéa 1er sont traitées aux fins de la demande de subvention des prestataires ou, selon le cas, du paiement des traitements des membres du personnel des prestataires conformément à l'article 14.
+
+§ 5 - Les prestataires peuvent traiter, conformément à l'article 43 et en ce qui concerne les bénéficiaires, les catégories de données à caractère personnel mentionnées au § 1er, alinéa 1er.
+
+Les catégories de données mentionnées à l'alinéa 1er sont traitées aux fins de la fourniture des mesures de soutien mentionnées à l'article 12 et destinées aux enfants, aux jeunes ou aux adultes.
+
+§ 6 - Les prestataires peuvent traiter, conformément à l'article 43 et en ce qui concerne les membres de leur personnel, les catégories de données à caractère personnel mentionnées au § 4, alinéa 1er.
+
+Les catégories de données mentionnées à l'alinéa 1er sont traitées aux fins du paiement des traitements des membres du personnel des prestataires.
+
+§ 7 - Le Gouvernement peut préciser les catégories de données mentionnées aux § § 1er à 6.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCG 2025-12-22/16, art. 38, 012; En vigueur : 01-01-2026&gt;
+
+#### Art. 46
+
+[<sup>1</sup>- Utilisation de données en vue d'établir des analyses et statistiques
+
+En principe, le Gouvernement ou le Service recourent de préférence à des données anonymes et pseudonymisées pour établir des analyses et statistiques en ce qui concerne l'exercice de leurs missions mentionnées aux articles 6 et 17.
+
+Si des données anonymes ne permettent pas d'établir les analyses et statistiques mentionnées à l'alinéa 1er, le recours à des données pseudonymisées est autorisé.
+
+Pour l'application de l'alinéa 2, le Gouvernement ou le Service mentionne dans la déclaration de traitement les raisons pour lesquelles le traitement de données anonymes ne permet pas d'établir les analyses et statistiques mentionnées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 47
+
+[<sup>1</sup>- Durée de conservation des données
+
+Les données mentionnées à l'article 45 peuvent être conservées au maximum dix ans à compter de leur collecte, sous une forme qui permet l'identification des personnes concernées.
+
+Sans préjudice des dispositions relatives à l'archivage, elles sont détruites au plus tard au terme de ce délai.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 47/1
+
+[<sup>1</sup>- Mesures de sécurité
+
+Lors du traitement des données mentionnées à l'article 45, le Gouvernement, le Service et les prestataires veillent à ce que des mesures de sécurité appropriées soient appliquées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-11-13/18, art. 41, 008; En vigueur : 01-01-2024&gt;
+
+## Chapitre 8. - Dispositions financières
+
+#### Art. 48
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 42, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 49
+
+- Indemnités
+
+Le Gouvernement fixe le montant des indemnités allouées aux membres du [<sup>1</sup> comité de gestion]<sup>1</sup>, aux experts, ainsi qu'aux membres de l'organe consultatif spécialisé.
+
+----------
+
+(1)&lt;DCG 2023-11-13/18, art. 43, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 50
+
+[<sup>1</sup> Remboursements
+
+Lorsqu'une obligation de paiement existe dans le chef de tiers, [<sup>2</sup> le Service ou le prestataire]<sup>2</sup> peut réclamer le coût réel de la mesure de soutien définie au chapitre 3, [<sup>2</sup> calculé par le Service]<sup>2</sup>, aussi bien auprès du bénéficiaire après paiement du montant dû par les tiers que directement auprès du tiers payant par subrogation dans les droits du bénéficiaire. Les accords conclus entre le bénéficiaire et le tiers payant en ce qui concerne le règlement du dommage ne peuvent être [<sup>2</sup> charge du Service]<sup>2</sup>. Les coûts réels de la mesure de soutien comprennent les coûts à charge de l'Office ainsi que les coûts supportés par le bénéficiaire sous la forme d'une participation personnelle en application de l'article 10, 1°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 10, 006; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCG 2023-11-13/18, art. 44, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 50.1
+
+[<sup>1</sup> Recours à l'administration du Service public fédéral Finances en charge de la perception et du recouvrement de créances non fiscales
+
+Dans les cas mentionnés à l'article 50, les montants à récupérer peuvent être recouvrés conformément à l'article 51.1 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-12-10/38, art. 11, 006; En vigueur : 01-01-2021&gt;
+
+## Chapitre 9. - Dispositions finales
+
+#### Art. 51
+
+- Disposition modificative
+
+Dans l'article 93.24, § 1er, alinéa 1er, 2°, du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires et spécialisées, inséré par le décret du 11 mai 2009, les mots " Office pour les personnes handicapées " sont remplacés par les mots " Office de la Communauté germanophone pour une vie auto déterminée ".
+
+#### Art. 52
+
+- Disposition modificative
+
+Dans l'article 98.2, § 2, 3°, du même décret, inséré par le décret du 11 mai 2009, les mots " Office pour les personnes handicapées " sont remplacés par les mots " Office de la Communauté germanophone pour une vie autodéterminée ".
+
+#### Art. 53
+
+- Disposition modificative
+
+L'intitulé de l'article 40 du décret du 18 mars 2002 relatif à l'infrastructure est remplacé par ce qui suit :
+
+" Office pour une vie autodéterminée ".
+
+Dans l'alinéa 1er du même article, les mots " Office de la Communauté germanophone pour les personnes handicapées " sont remplacés par les mots " Office de la Communauté germanophone pour une vie autodéterminée ".
+
+#### Art. 54
+
+- Disposition modificative
+
+Dans l'article 3, 5°, du décret du 19 avril 2004 sur le sport, les mots " Office de la Communauté germanophone pour les personnes handicapées " sont remplacés par les mots " Office de la Communauté germanophone pour une vie autodéterminée ".
+
+#### Art. 55
+
+- Disposition modificative
+
+A l'article 1er du décret du 4 juin 2007 relatif aux structures d'hébergement, d'accompagnement et de soins pour personnes âgées, aux résidences pour seniors et aux maisons de soins psychiatriques, le 1° est remplacé par ce qui suit :
+
+" 1° personnes âgées : les personnes qui ont dépassé l'âge légal de la retraite; ".
+
+#### Art. 56
+
+- Disposition modificative
+
+Dans le même décret, il est inséré un article 9.1 rédigé comme suit :
+
+" Art. 9.1 - Si aucun plan de soutien n'a été établi pour le bénéficiaire conformément à l'article 7 du décret du 13 décembre 2016 portant création d'un Office de la Communauté germanophone pour une vie autodéterminée, les pouvoirs organisateurs de maisons de repos pour personnes âgées et de maisons de repos et de soins font réaliser ce plan par l'Office de la Communauté germanophone pour une vie autodéterminée avant d'octroyer leur prestation.
+
+En cas de non-respect de la disposition prévue à l'alinéa 1er et après avoir invité le pouvoir organisateur concerné à donner son avis, le Gouvernement peut exiger le remboursement du subside accordé au bénéficiaire par jour d'accueil, et ce, à raison de 10 % .
+
+L'alinéa 2 de cet article entre en vigueur à une date fixée par le Gouvernement et au plus tard le 1er janvier 2019. "
+
+#### Art. 57
+
+- Disposition modificative
+
+Dans l'intitulé du décret du 16 février 2009 concernant les services d'aide à domicile et créant un bureau de consultation pour l'aide à domicile, semi-résidentielle et résidentielle, modifié par le décret du 13 février 2012, les mots " et créant un bureau de consultation pour l'aide à domicile, semi-résidentielle et résidentielle " sont abrogés.
+
+#### Art. 58
+
+- Disposition modificative
+
+Dans l'article 1er, phrase introductive, du même décret, les mots " , ainsi qu'au bureau de consultation décrit au chapitre IV " sont abrogés.
+
+#### Art. 59
+
+- Disposition modificative
+
+A l'article 2 du même décret, modifié par les décrets des 13 février 2012 et 25 février 2013, les modifications suivantes sont apportées :
+
+1° dans le 1°, les mots " , semi-résidentielle ou résidentielle " sont abrogés;
+
+2° le 2° est remplacé par ce qui suit :
+
+" 2° personnes âgées : les bénéficiaires qui ont dépassé l'âge légal de la retraite; ";
+
+3° le 3° est abrogé;
+
+4° dans le 5°, les mots " , semi-résidentielle ou résidentielle " sont abrogés;
+
+5° dans le 7°, les mots " de famille et " sont abrogés;
+
+6° le 9° est abrogé;
+
+7° le 11° est abrogé.
+
+#### Art. 60
+
+- Disposition modificative
+
+A l'article 3 du même décret, les mots " , ainsi que la personne morale qui exploite le bureau de consultation " sont abrogés.
+
+#### Art. 61
+
+- Disposition modificative
+
+A l'article 6, alinéa 2, 1°, du même décret, les mots " ou du bureau de consultation " sont abrogés.
+
+#### Art. 62
+
+- Disposition modificative
+
+L'article 7, § 2, du même décret, modifié par les décrets des 13 février 2012, 25 février 2013 et 24 février 2014, est abrogé.
+
+#### Art. 63
+
+- Disposition modificative
+
+Dans le même décret, il est inséré un article 9.1 rédigé comme suit :
+
+" Art. 9.1 - Plan de soutien pour le bénéficiaire
+
+Si aucun plan de soutien n'a été établi pour le bénéficiaire conformément à l'article 7 du décret du 13 décembre 2016 portant création d'un Office de la Communauté germanophone pour une vie autodéterminée, les services d'aide à domicile font réaliser ce plan par l'Office de la Communauté germanophone pour une vie autodéterminée avant d'octroyer leur prestation.
+
+En cas de non-respect de la disposition prévue à l'alinéa 1er et après avoir invité le service concerné à donner son avis, le Gouvernement peut exiger le remboursement du forfait horaire accordé au bénéficiaire par jour d'accueil conformément à l'article 10, § 2, et ce, à raison de 10 % .
+
+#### Art. 64
+
+- Disposition modificative
+
+Le chapitre IV du même décret, qui comprend les articles 11 à 15, modifié par les décrets des 13 février 2012 et 25 février 2013, est abrogé.
+
+#### Art. 65
+
+- Disposition modificative
+
+Dans l'article 17 du même décret, le deuxième alinéa est abrogé.
+
+#### Art. 66
+
+- Disposition modificative
+
+Dans l'article 18, alinéa 1er, du même décret, les mots " ou au bureau de consultation " et " ou le bureau de consultation lui-même " sont abrogés.
+
+#### Art. 67
+
+- Disposition modificative
+
+A l'article 19 du même décret, modifié par le décret du 25 février 2013, les modifications suivantes sont apportées :
+
+1° dans le § 1er, alinéa 1er, les mots " et le bureau de consultation " sont abrogés;
+
+2° dans le § 1er, alinéa 3, 1°, les mots " ou du bureau de consultation " et " , respectivement du bureau de consultation, " sont abrogés;
+
+3° dans le § 1er, alinéa 3, 4°, les mots " ou du bureau de consultation " sont chaque fois abrogés;
+
+4° dans le § 2, les mots " et le bureau de consultation " sont abrogés.
+
+#### Art. 68
+
+- Disposition modificative
+
+A l'article 20 du même décret, modifié par le décret du 25 février 2013, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, les mots " ou le bureau de consultation " sont abrogés;
+
+2° dans l'alinéa 3, les mots " ou du bureau de consultation " sont abrogés.
+
+#### Art. 69
+
+- Disposition modificative
+
+A l'article 21 du même décret, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 2, les mots " ou le bureau de consultation " sont abrogés;
+
+2° dans l'alinéa 3, les mots " ou du fonctionnement du bureau de consultation " sont abrogés;
+
+3° dans l'alinéa 4, les mots " ou du bureau de consultation " sont abrogés.
+
+#### Art. 70
+
+- Disposition modificative
+
+Dans l'article 22, 4°, du même décret, modifié par le décret du 13 février 2012, les mots " ou "Bureau de consultation pour l'aide à domicile, semi-résidentielle et résidentielle" " sont abrogés.
+
+#### Art. 71
+
+- Disposition modificative
+
+Dans l'article 23 du même décret, les alinéas 2 et 3, modifiés par le décret du 24 février 2014, sont abrogés.
+
+#### Art. 72
+
+- Disposition modificative
+
+Dans l'article 24, alinéa 3, 4°, du décret du 23 mars 2009 portant organisation de l'enseignement artistique à horaire réduit, modifié par le décret du 27 juin 2011, les mots " Office pour les personnes handicapées " sont remplacés par les mots " Office de la Communauté germanophone pour une vie autodéterminée ".
+
+#### Art. 73
+
+- Disposition modificative
+
+Dans l'article 6, alinéa 2, du décret du 11 mai 2009 relatif au centre de pédagogie de soutien, visant l'amélioration du soutien pédagogique spécialisé dans les écoles ordinaires et spécialisées et encourageant le soutien des élèves à besoins spécifiques ou en difficulté d'adaptation ou d'apprentissage dans les écoles ordinaires et spécialisées, les mots " Office pour les personnes handicapées " sont remplacés par les mots " Office de la Communauté germanophone pour une vie autodéterminée ".
+
+#### Art. 74
+
+- Disposition modificative
+
+Dans l'article 7, § 1er, alinéa 1er, 7°, du même décret, les mots " Office pour les personnes handicapées " sont remplacés par les mots " Office de la Communauté germanophone pour une vie autodéterminée ".
+
+#### Art. 75
+
+- Disposition modificative
+
+Dans l'article 87, § 2, 2°, du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone, les mots " Office de la Communauté germanophone pour les personnes handicapées " sont remplacés par les mots " Office de la Communauté germanophone pour une vie autodéterminée ".
+
+#### Art. 76
+
+- Disposition abrogatoire
+
+Le décret du 19 juin 1990 portant création d'un Office de la Communauté germanophone pour les personnes handicapées, modifié en dernier lieu par le décret du 22 février 2016, est abrogé.
+
+#### Art. 77
+
+- Disposition transitoire
+
+§ 1er - L'Office de la Communauté germanophone pour une vie autodéterminée succède à l'Office de la Communauté germanophone pour les personnes handicapées. Il reprend les droits, devoirs, biens et charges correspondants.
+
+§ 2 - Les membres du personnel de l'Office de la Communauté germanophone pour les personnes handicapées qui se trouvent dans une relation de service au moment de la reprise sont considérés d'office comme étant membres du personnel de l'Office de la Communauté germanophone pour une vie autodéterminée.
+
+Les membres du personnel sont transférés dans leur grade ou dans un grade équivalent et en leur qualité.
+
+Ils conservent au moins la rétribution et l'ancienneté qu'ils avaient ou auraient obtenues s'ils avaient continué à exercer dans leur service d'origine la fonction dont ils étaient titulaires au moment de leur transfert.
+
+§ 3 - Les membres du personnel de l'association sans but lucratif agréée en tant que bureau de consultation pour l'aide à domicile, semi-résidentielle et résidentielle, conformément au décret du 16 février 2009 concernant les services d'aide à domicile et créant un bureau de consultation pour l'aide à domicile, semi-résidentielle et résidentielle qui, au moment de la reprise, se trouvent dans une relation de travail avec cette association sont, à leur demande, engagés sous contrat auprès de l'Office de la Communauté germanophone pour une vie autodéterminée.
+
+Sans préjudice des dispositions statutaires fixées par le Gouvernement en vertu de l'article 102 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone, ils conservent en ce cas au moins la rémunération qu'ils avaient au moment de l'entrée en vigueur du présent décret.
+
+#### Art. 77/1
+
+[<sup>1</sup>- Disposition transitoire
+
+Les membres du conseil d'administration de l'Office de la Communauté germanophone pour une vie autodéterminée désignés au 31 décembre 2023 sont, pour la durée restante de leur désignation initiale, d'office considérés comme membres du comité de gestion chargé de la vie autodéterminée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-11-13/18, art. 45, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 78
+
+- Disposition transitoire
+
+Les établissements et associations agréés avant l'entrée en vigueur du présent décret conformément à l'article 30 du décret du 19 juin 1990 portant création d'un Office de la Communauté germanophone pour les personnes handicapées sont considérés comme agréés par l'Office pour l'application de l'article 12.
+
+#### Art. 78.1
+
+[<sup>1</sup> Disposition transitoire
+
+Les pouvoirs organisateurs qui, au 1er janvier 2021, sont déjà agréés conformément à l'article 13 conservent leur agréation s'ils disposent d'un avis positif en matière de sécurité incendie au plus tard le 1er janvier 2022.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-12-10/38, art. 12, 006; En vigueur : 01-01-2021&gt;
+
+#### Art. 79
+
+- Disposition transitoire
+
+Les dispositions énoncées à l'article 15 ne s'appliquent pas aux mesures de soutien fournies avant le 1er avril 2009.
+
+#### Art. 79.1
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 46, 008; En vigueur : 01-01-2024&gt;
+
+#### Art. 80
+
+- Entrée en vigueur
+
+Le présent décret entre en vigueur le 1er janvier 2017, à l'exception :
+
+\- des articles 8 et 9 dans la mesure où ils concernent les aides à la mobilité telles que définies aux articles 34, alinéa 1er, 4°, 35, § 1er et 42 à 45 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994 ainsi qu'à l'article 28, § 8, de l'annexe à l'arrêté royal du 14 septembre 1984 établissant la nomenclature des prestations de santé en matière d'assurance obligatoire soins de santé et indemnités et aux articles 51ter, 85 et 294 de l'arrêté royal du 3 juillet 1996 portant exécution de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, qui entrent en vigueur le 1er juillet 2017.
+
+\- de l'article 16, qui entre en vigueur à une date fixée par le Gouvernement et au plus tard le 1er janvier 2019.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur Belge.
+
+Eupen, le 13 décembre 2016.
+
+O. PAASCH
+
+Le Ministre-Président
+
+I. WEYKMANS
+
+La Vice-Ministre-Présidente, Ministre de la Culture, de l'Emploi et du Tourisme
+
+A. ANTONIADIS
+
+Le Ministre de la Famille, de la Santé et des Affaires sociales
+
+H. MOLLERS
+
+Le Ministre de l'Education et de la Recherche scientifique

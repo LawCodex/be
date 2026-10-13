@@ -1,0 +1,2209 @@
+---
+title: "Décret visant à soutenir la culture en Communauté germanophone (appelé \"Kulturförderdekret\" (décret de soutien culturel)"
+identifier: "2013206806"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/18/2013206806/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2013-11-18
+published: 2014-01-10
+entry_into_force: 2014-01-01
+last_amended: 2026-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/18/2013206806/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 10-01-2014 et mise à jour au 02-03-2026"
+retrieved: 2026-10-12
+---
+
+# 18 NOVEMBRE 2013. - Décret visant à soutenir la culture en Communauté germanophone (appelé "Kulturförderdekret" (décret de soutien culturel)
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+##### Art. 1er
+
+Définitions.
+
+Pour l'application du présent décret, l'on entend par :
+
+1° culture : les affaires culturelles mentionnées à l'article 4, 1°, 3° et 4°, de la loi spéciale du 8 août 1980 de réformes institutionnelles;
+
+2° activités culturelles : les activités, biens et services qui, au moment où ils sont considérés d'un point de vue d'une caractéristique, d'une utilisation ou d'un objectif spécifiques, traduisent ou transmettent les formes d'expression culturelles, et ce, indépendamment de leur éventuelle valeur commerciale;
+
+3° loi du pacte culturel : la loi du 16 juillet 1973 garantissant la protection des tendances idéologiques et philosophiques;
+
+4° médiation culturelle : la transmission de la culture, la facilitation de l'accès à la culture, ainsi que l'aide à la compréhension de processus culturels;
+
+5° production artistique : une forme d'expression culturelle qui naît de la créativité d'individus, de groupes et de sociétés et qui a un contenu culturel;
+
+6° discipline artistique : une forme d'art ou un ensemble cohérent de formes d'art;
+
+7° art amateur : la pratique non professionnelle d'activités culturelles;
+
+8° société d'art amateur : tout groupement autonome de personnes physiques dont l'activité principale relève de l'art amateur;
+
+9° société folklorique : tout groupement autonome de personnes physiques dont les activités concernent en tout ou en partie la conservation de coutumes populaires;
+
+10° opérateurs culturels professionnels : les centres culturels de la Communauté germanophone, les organisateurs d'événements culturels et les producteurs culturels;
+
+11° période de soutien : la période commençant toujours le 1er janvier et durant laquelle le soutien est assuré conformément au décret[<sup>1</sup>;]<sup>1</sup>
+
+[<sup>1</sup> 12° organisation faîtière : l'organisation faîtière pour la musique en Communauté germanophone mentionnée à l'article 73.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-10-16/08, art. 1, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 2
+
+Intitulé abrégé.
+
+Ce décret sera aussi appelé "Kulturförderdekret" (décret de soutien culturel).
+
+##### Art. 3
+
+Egalité des sexes.
+
+Les qualifications utilisées dans le présent décret valent pour les deux sexes.
+
+##### Art. 4
+
+Activités culturelles pouvant être soutenues.
+
+Le présent décret s'applique sans préjudice d'autres règles de droit prévoyant également des subsides et qui ne sont pas remplacées par lui.
+
+##### Art. 5
+
+Agréation de principe
+
+Par principe, les opérateurs qui perçoivent un subside forfaitaire annuel conformément au présent décret sont considérés, parallèlement, comme étant agréés par la Communauté germanophone conformément à la loi du pacte culturel.
+
+## CHAPITRE 2. - Soutien accordé aux opérateurs culturels professionnels
+
+### Section 1re. - Dispositions générales
+
+##### Art. 6
+
+Principes du soutien.
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement soutient la culture conformément au présent chapitre.
+
+##### Art. 7
+
+Formes de soutien.
+
+Les opérateurs culturels professionnels introduisent une demande de soutien soit comme centre culturel de la Communauté germanophone, soit comme organisateur d'événements culturels, soit comme producteur culturel, et ce, conformément à la section 2, resp. 3 ou 4 du présent chapitre.
+
+##### Art. 8
+
+Conditions générales de soutien pour les opérateurs culturels professionnels.
+
+§ 1er. Peuvent être soutenus les opérateurs culturels professionnels qui :
+
+1° ont leur siège en région de langue allemande;
+
+2° disposent du concept culturel visé à l'article 9;
+
+3° mènent ou permettent des activités culturelles qui :
+
+a) ont un rayonnement régional et suprarégional;
+
+b) contribuent à un espace culturel incitatif en rendant la culture accessible à la population de la région de langue allemande et en diffusant la création culturelle contemporaine en Communauté germanophone auprès de visiteurs extérieurs à la région de langue allemande;
+
+4° coopèrent avec d'autres opérateurs culturels dans et en dehors de la région de langue allemande;
+
+5° sont orientés vers le public;
+
+6° assurent la médiation culturelle et les relations publiques;
+
+7° remplissent les autres conditions spécifiques mentionnées dans le présent décret.
+
+§ 2. La demande de soutien est introduite auprès du Gouvernement pour le 31 mars de l'année qui précède la période de soutien suivante.
+
+Le concept culturel visé à l'article 9 est joint à la demande.
+
+Le Gouvernement fixe la forme de la demande, la procédure et les autres documents à introduire.
+
+§ 3. La période de soutien est de cinq ans et s'applique de manière uniforme à tous les opérateurs culturels professionnels soutenus.
+
+Les nouvelles demandes de soutien peuvent, pendant une période de soutien, être introduites jusqu'au 31 mars de chaque année calendrier. L'éventuel soutien expire au terme de la période uniforme de soutien.
+
+La première période de soutien débute le 1er janvier 2015 et expire le 31 décembre 2019.
+
+##### Art. 9
+
+Concept culturel.
+
+Le concept culturel comprend :
+
+1° la description de la manière dont sont remplies les conditions générales de soutien mentionnées à l'article 8 et les autres conditions spécifiques mentionnées selon le cas à l'article 14, 16 ou 18;
+
+2° la description des activités culturelles prévues et des objectifs poursuivis par le demandeur pour la période de soutien concernée;
+
+3° la description des ressources infrastructurelles, financières, humaines et logistiques disponibles pour mener les activités culturelles et remplir les objectifs.
+
+##### Art. 10.
+
+Art. 10...
+
+§ 1er. Le Gouvernement transmet les demandes de soutien comme opérateur culturel professionnel :
+
+1° à un jury pour avis;
+
+2° au collège communal de la commune où sont menées les principales activités culturelles, pour prise de position.
+
+Le Gouvernement fixe le délai pour la remise de la prise de position. Le délai est d'au moins 30 jours calendrier. A défaut de prise de position dans le délai imparti, la procédure est poursuivie.
+
+§ 2. Après que l'avis ou la prise de position ont été transmis à l'opérateur culturel professionnel, celui-ci peut communiquer sa prise de position dans les 30 jours. A défaut de prise de position dans le délai imparti, la procédure est poursuivie.
+
+§ 3. Dans son avis, le jury évalue :
+
+1° si les conditions générales de soutien mentionnées à l'article 8 et les autres conditions spécifiques mentionnées selon le cas à l'article 14, 16 ou 18 sont ou non remplies;
+
+2° la mesure dans laquelle sont présents les moyens visés à l'article 9, 3°, permettant de mettre en oeuvre le concept.
+
+Le Gouvernement fixe la composition et le fonctionnement du jury, assure le secrétariat et règle le défraiement pour les membres.
+
+La composition du jury tient compte de la catégorie et de la discipline de l'opérateur culturel en question.
+
+Le Gouvernement fixe la procédure en cas de suspicion légitime de membres du jury.
+
+##### Art. 11
+
+Décision du Gouvernement.
+
+Après réception de l'avis et, le cas échéant, de la prise de position, le Gouvernement statue sur la demande de soutien comme opérateur culturel professionnel jusqu'au 31 octobre de l'année de cette demande.
+
+Conformément aux articles 16 et 18, le Gouvernement classe [<sup>1</sup> les organisateurs d'événements culturels soutenus en dix catégories et les producteurs culturels en cinq]<sup>1</sup>.
+
+Si le Gouvernement ne suit pas l'avis émis par le jury, il doit dûment motiver sa décision.
+
+----------
+
+(1)&lt;DCG 2019-12-12/19, art. 15, 007; En vigueur : 01-01-2020&gt;
+
+##### Art. 12
+
+Contrat de gestion et convention culturelle.
+
+§ 1er. Si le Gouvernement accorde le soutien, il conclut pour la période de soutien un contrat de gestion avec le centre culturel de la Communauté germanophone à soutenir, et ce, conformément à l'article 105 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone.
+
+§ 2. Si le Gouvernement accorde le soutien, il conclut pour la période de soutien une convention culturelle avec l'organisateur d'événements culturels ou le producteur culturel à soutenir.
+
+La convention culturelle règle la mise en oeuvre du concept culturel.
+
+### Section 2. - Centres culturels de la Communauté germanophone
+
+##### Art. 13
+
+Nombre de centres culturels.
+
+Le Gouvernement peut soutenir deux centres culturels de la Communauté germanophone, l'un ayant son siège dans le canton d'Eupen et l'autre dans le canton de Saint-Vith.
+
+##### Art. 14
+
+Conditions spécifiques de soutien.
+
+Peuvent être soutenus comme centres culturels de la Communauté germanophone les demandeurs qui, en plus des conditions générales de soutien énoncées à l'article 8 :
+
+1° disposent, en région de langue allemande, de l'infrastructure nécessaire pour mener les activités culturelles de petite, moyenne et grande ampleur avec rayonnement régional et suprarégional;
+
+2° créent, en tant que lieu de diversité culturelle, les conditions-cadres pour toutes les sortes d'activités culturelles;
+
+3° peuvent en tout temps présenter une comptabilité autonome en ordre permettant un contrôle financier;
+
+4° veillent à la formation continue des collaborateurs;
+
+5° font en sorte qu'au moins 75 activités culturelles, fréquentées par 10 000 personnes au moins, se déroulent dans le centre en au moins 150 jours par an;
+
+6° se procurent eux-mêmes au moins 20 % des recettes annuelles;
+
+7° transmettent annuellement les documents requis en matière de comptabilité, de statut, d'activités et de personnel.
+
+Le Gouvernement fixe la forme des documents à introduire.
+
+##### Art. 15
+
+Subsides.
+
+Le soutien consiste en un forfait annuel fixé dans le contrat de gestion conclu avec le centre culturel de la Communauté germanophone.
+
+### Section 3. - Organisateurs d'événements culturels
+
+##### Art. 16
+
+Conditions spécifiques de soutien.
+
+§ 1er - Peuvent être soutenus comme organisateurs d'événements culturels les demandeurs qui, en plus des conditions générales de soutien énoncées à l'article 8 :
+
+1° sont constitués en association sans but lucratif;
+
+2° existent depuis trois ans au moins au 1er janvier de l'année calendrier où est introduite la demande de soutien et mènent essentiellement des activités culturelles régulières en région de langue allemande;
+
+3° peuvent en tout temps présenter une comptabilité autonome en ordre permettant un contrôle financier;
+
+4° introduisent annuellement, pour le [<sup>1</sup> 30 juin]<sup>1</sup>, un bilan et un compte de résultats pour l'exercice précédent et un budget pour l'exercice suivant, ainsi que d'autres documents relatifs aux activités, au personnel et aux statuts;
+
+5° soutiennent au moins une fois par an la production culturelle d'un artiste domicilié en région de langue allemande ou dont le contenu de l'oeuvre se réfère à la Communauté germanophone de par les thèmes traités;
+
+6° suivent, dans une ou plusieurs disciplines artistiques, les productions artistiques régionales, nationales et internationales et organisent, en région de langue allemande, des prestations d'artistes destinées à différents groupes cibles;
+
+7° assurent le regroupement d'artistes ou de producteurs culturels, de visiteurs et de lieux de représentation, coordonnent la planification, la conception, l'organisation et le financement d'activités culturelles et en garantissent l'exécution;
+
+8° soutiennent la relève, les jeunes et les artistes;
+
+9° se procurent eux-mêmes au moins 20 % des recettes annuelles.
+
+Le Gouvernement fixe la forme des documents à introduire.
+
+§ 2. [<sup>4</sup> Peuvent être soutenus comme organisateurs d'événements culturels les demandeurs qui, en plus de satisfaire au § 1er, répondent aux critères quantitatifs suivants :
+
+a) pour la catégorie 10 : organiser des activités culturelles au moins dix jours par an en région de langue allemande, fréquentées par 2 500 personnes au moins;
+
+b) pour la catégorie 9 : organiser des activités culturelles au moins quatorze jours par an en région de langue allemande, fréquentées par 3 250 personnes au moins;
+
+c) pour la catégorie 8 : organiser des activités culturelles au moins dix-huit jours par an en région de langue allemande, fréquentées par 4 000 personnes au moins;
+
+d) pour la catégorie 7 : organiser des activités culturelles au moins vingt-deux jours par an en région de langue allemande, fréquentées par 5 000 personnes au moins;
+
+e) pour la catégorie 6 : organiser des activités culturelles au moins vingt-six jours par an en région de langue allemande, fréquentées par 6 000 personnes au moins;
+
+f) pour la catégorie 5 : organiser des activités culturelles au moins trente jours par an en région de langue allemande, fréquentées par 8 000 personnes au moins;
+
+g) pour la catégorie 4 : organiser des activités culturelles au moins trente-quatre jours par an en région de langue allemande, fréquentées par 10 000 personnes au moins;
+
+h) pour la catégorie 3 : organiser des activités culturelles au moins trente-huit jours par an en région de langue allemande, fréquentées par 11 666 personnes au moins;
+
+i) pour la catégorie 2 : organiser des activités culturelles au moins quarante-deux jours par an en région de langue allemande, fréquentées par 13 332 personnes au moins;
+
+j) pour la catégorie 1 : organiser des activités culturelles au moins quarante-six jours par an en région de langue allemande, fréquentées par 15 000 personnes au moins.]<sup>4</sup>
+
+§ 3. En ce qui concerne les critères quantitatifs de classement, c'est la moyenne des trois années calendrier précédant l'entrée en vigueur du présent décret qui est prise en considération pour calculer le subside accordé pendant la période uniforme de soutien 2015-2019.
+
+[<sup>2</sup> Pour des classements en catégories opérés lors de périodes de soutien ultérieures, c'est la moyenne des cinq dernières années calendrier précédant l'année de la demande qui est déterminante en ce qui concerne les critères quantitatifs.]<sup>2</sup> [<sup>5</sup> Si l'organisateur d'événements culturels est soutenu pour la première fois au cours de la dernière année d'une période de soutien, c'est la moyenne des quatre années calendrier précédant l'année de la demande qui est prise en considération en ce qui concerne les critères quantitatifs de classement.]<sup>5</sup>
+
+En ce qui concerne les critères quantitatifs de classement, c'est la moyenne des trois dernières années calendrier [<sup>5</sup> précédant la demande]<sup>5</sup> qui est prise en considération pour calculer le subside octroyé à des organisateurs d'événements culturels soutenus pour la première fois [<sup>3</sup> [<sup>5</sup> ...]<sup>5</sup>]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 14, 005; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCG 2018-12-11/11, art. 19,2°, 006; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCG 2018-12-11/11, art. 19,3°, 006; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCG 2018-12-11/11, art. 19,1°, 006; En vigueur : 01-01-2020&gt;
+
+(5)&lt;DCG 2019-12-12/19, art. 16, 007; En vigueur : 01-01-2020&gt;
+
+##### Art. 17
+
+Subsides.
+
+§ 1er. En vertu de la loi du pacte culturel, le soutien forfaitaire prévu dans cet article sert simultanément de subside pour un noyau stable d'agents, de subside forfaitaire de fonctionnement et de subside pour les activités effectivement prestées qui, quant à elles, sont retenues pour le classement dans une catégorie de soutien conformément à l'article 16, § 2.
+
+§ 2. [<sup>1</sup> Le soutien annuel accordé à des organisateurs d'événements culturels consiste en un subside forfaitaire de base :
+
+a) 120 000 euros pour les organisateurs d'événements culturels de la catégorie 10;
+
+b) 140 000 euros pour les organisateurs d'événements culturels de la catégorie 9;
+
+c) 160 000 euros pour les organisateurs d'événements culturels de la catégorie 8;
+
+d) 180 000 euros pour les organisateurs d'événements culturels de la catégorie 7;
+
+e) 200 000 euros pour les organisateurs d'événements culturels de la catégorie 6;
+
+f) 220.000 euros pour les organisateurs d'événements culturels de la catégorie 5;
+
+g) 240 000 euros pour les organisateurs d'événements culturels de la catégorie 4;
+
+h) 260 000 euros pour les organisateurs d'événements culturels de la catégorie 3;
+
+i) 280 000 euros pour les organisateurs d'événements culturels de la catégorie 2;
+
+j) 300 000 euros pour les organisateurs d'événements culturels de la catégorie 1.
+
+Pour le travail culturel, un organisateur d'événements culturels peut obtenir un forfait annuel en personnel, s'élevant à un montant de 21 250 euros par équivalent temps plein et modulable comme suit :
+
+a) organisateurs d'événements culturels pour la catégorie 10 : au maximum 2 équivalents temps plein;
+
+b) organisateurs d'événements culturels pour la catégorie 9 : au maximum 3 équivalents temps plein;
+
+c) organisateurs d'événements culturels pour la catégorie 8 : au maximum 4 équivalents temps plein;
+
+d) organisateurs d'événements culturels pour la catégorie 7 : au maximum 4,8 équivalents temps plein;
+
+e) organisateurs d'événements culturels pour la catégorie 6 : au maximum 5,6 équivalents temps plein;
+
+f) organisateurs d'événements culturels pour la catégorie 5 : au maximum 6,4 équivalents temps plein;
+
+g) organisateurs d'événements culturels pour la catégorie 4 : au maximum 7,2 équivalents temps plein;
+
+h) organisateurs d'événements culturels pour la catégorie 3 : au maximum 8 équivalents temps plein;
+
+i) organisateurs d'événements culturels pour la catégorie 2 : au maximum 8,8 équivalents temps plein;
+
+j) organisateurs d'événements culturels pour la catégorie 1 : au maximum 9,6 équivalents temps plein.]<sup>1</sup>
+
+§ 3. [<sup>2</sup> Le nombre d'équivalents temps plein pour le travail culturel conformément au § 2, alinéa 2, sera pris en compte au prorata, si lesdits équivalents temps plein sont subsidiés par un autre ressort de la Communauté germanophone ou en vertu d'une autre disposition du présent décret.
+
+Pour les équivalents temps plein subsidiés conformément au § 2, alinéa 2, le nombre d'équivalents temps plein acceptables est réduit du pourcentage de soutien dans les coûts salariaux de ces équivalents temps plein, mentionné à l'alinéa 1er, qui n'a pas été octroyé en vertu du présent article.
+
+[<sup>3</sup> Le Gouvernement peut :
+
+1° fixer, pour l'application du § 2, alinéa 2, les fonctions assurées par le personnel qui peuvent être considérées comme travail culturel;
+
+2° fixer d'autres critères et modalités de calcul pour l'application du présent paragraphe.]<sup>3</sup>]<sup>2</sup>
+
+§ 4. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-12-11/11, art. 20, 006; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2019-12-12/19, art. 17, 007; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCG 2020-12-10/38, art. 18, 008; En vigueur : 01-01-2021&gt;
+
+### Section 4. - Producteurs culturels
+
+##### Art. 18
+
+Conditions spécifiques de soutien.
+
+§ 1er. Peuvent être soutenus comme producteurs culturels les demandeurs qui, en plus des conditions générales de soutien énoncées à l'article 8 :
+
+1° sont constitués en association sans but lucratif;
+
+2° existent depuis trois ans au moins au 1er janvier de l'année calendrier où est introduite la demande de soutien et mènent leurs principales activités culturelles en région de langue allemande;
+
+3° peuvent en tout temps présenter une comptabilité autonome en ordre permettant un contrôle financier;
+
+4° introduisent annuellement, pour le [<sup>1</sup> 30 juin]<sup>1</sup>, un bilan et un compte de résultats pour l'exercice précédent et un budget pour l'exercice suivant, ainsi que d'autres documents relatifs aux activités, au personnel et aux statuts;
+
+5° développent au moins une production culturelle propre par an dans une discipline artistique et la présentent au moins une fois en région de langue allemande;
+
+6° contribuent, par des approches innovantes, à développer l'art par l'art, s'approprient d'importantes traditions de l'histoire de l'art et les perpétuent de façon moderne;
+
+7° soutiennent la relève, les jeunes et les artistes;
+
+8° se procurent eux-mêmes au moins 20 % des recettes annuelles.
+
+Le Gouvernement fixe la forme des documents à introduire.
+
+§ 2. [<sup>4</sup> Peuvent être soutenus dans la discipline artistique "théâtre" les demandeurs qui, en plus de satisfaire au § 1er, répondent aux critères quantitatifs suivants :
+
+a) pour la catégorie 5 : mènent à bien au moins 30 activités culturelles par an;
+
+b) pour la catégorie 4 : mènent à bien au moins 45 activités culturelles par an;
+
+c) pour la catégorie 3 : mènent à bien au moins 60 activités culturelles par an;
+
+d) pour la catégorie 2 : mènent à bien au moins 90 activités culturelles par an;
+
+e) pour la catégorie 1 : mènent à bien au moins 120 activités culturelles par an.]<sup>4</sup>
+
+§ 3. [<sup>5</sup> Peuvent être soutenus dans la discipline artistique "danse" les demandeurs qui, en plus de satisfaire au § 1er, répondent aux critères quantitatifs suivants :
+
+a) pour la catégorie 5 : mènent à bien au moins 20 activités culturelles par an;
+
+b) pour la catégorie 4 : mènent à bien au moins 27,5 activités culturelles par an;
+
+c) pour la catégorie 3 : mènent à bien au moins 35 activités culturelles par an;
+
+d) pour la catégorie 2 : mènent à bien au moins 57,5 activités culturelles par an;
+
+e) pour la catégorie 1 : mènent à bien au moins 80 activités culturelles par an.]<sup>5</sup>
+
+§ 4. [<sup>6</sup> Peuvent être soutenus dans la discipline artistique "littérature" les demandeurs qui, en plus de satisfaire au § 1er, répondent aux critères quantitatifs suivants :
+
+a) pour la catégorie 5 : mènent à bien au moins 10 activités culturelles par an;
+
+b) pour la catégorie 4 : mènent à bien au moins 15 activités culturelles par an;
+
+c) pour la catégorie 3 : mènent à bien au moins 20 activités culturelles par an;
+
+d) pour la catégorie 2 : mènent à bien au moins 25 activités culturelles par an;
+
+e) pour la catégorie 1 : mènent à bien au moins 30 activités culturelles par an.]<sup>6</sup>
+
+§ 5. [<sup>7</sup> Peuvent être soutenus dans la discipline artistique "musique" les demandeurs qui, en plus de satisfaire au § 1er, répondent aux critères quantitatifs suivants :
+
+a) pour la catégorie 5 : mènent à bien au moins 30 activités culturelles par an;
+
+b) pour la catégorie 4 : mènent à bien au moins 45 activités culturelles par an;
+
+c) pour la catégorie 3 : mènent à bien au moins 60 activités culturelles par an;
+
+d) pour la catégorie 2 : mènent à bien au moins 90 activités culturelles par an;
+
+e) pour la catégorie 1 : mènent à bien au moins 120 activités culturelles par an.]<sup>7</sup>
+
+§ 6. En ce qui concerne les critères quantitatifs de classement, c'est la moyenne des trois années calendrier précédant l'entrée en vigueur du présent décret qui est prise en considération pour calculer le subside accordé pendant la période uniforme de soutien 2015-2019.
+
+[<sup>2</sup> Pour des classements en catégories opérés lors de périodes de soutien ultérieures, c'est la moyenne des cinq dernières années calendrier précédant l'année de la demande qui est déterminante en ce qui concerne les critères quantitatifs.]<sup>2</sup> [<sup>8</sup> Si le producteur culturel est soutenu pour la première fois au cours de la dernière année d'une période de soutien, c'est la moyenne des quatre années civiles précédant l'année de la demande qui est prise en considération en ce qui concerne les critères quantitatifs de classement.]<sup>8</sup>
+
+En ce qui concerne les critères quantitatifs de classement, c'est la moyenne des trois dernières années calendrier [<sup>8</sup> précédant l'année de la demande]<sup>8</sup> qui est prise en considération pour calculer le subside octroyé à des producteurs culturels soutenus pour la première fois [<sup>3</sup> [<sup>8</sup> ...]<sup>8</sup>]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 15, 005; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCG 2018-12-11/11, art. 21,5°, 006; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCG 2018-12-11/11, art. 21,6°, 006; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCG 2018-12-11/11, art. 21,1°, 006; En vigueur : 01-01-2020&gt;
+
+(5)&lt;DCG 2018-12-11/11, art. 21,2°, 006; En vigueur : 01-01-2020&gt;
+
+(6)&lt;DCG 2018-12-11/11, art. 21,3°, 006; En vigueur : 01-01-2020&gt;
+
+(7)&lt;DCG 2018-12-11/11, art. 21,4°, 006; En vigueur : 01-01-2020&gt;
+
+(8)&lt;DCG 2019-12-12/19, art. 18, 007; En vigueur : 01-01-2020&gt;
+
+##### Art. 19
+
+Subsides.
+
+§ 1er. En vertu de la loi du pacte culturel, le soutien forfaitaire prévu dans cet article sert simultanément de subside pour un noyau stable d'agents, de subside forfaitaire de fonctionnement et de subside pour les activités culturelles effectivement prestées qui, quant à elles, sont retenues pour le classement dans une catégorie de soutien conformément à l'article 18, § 2.
+
+§ 2. [<sup>1</sup> Dans la discipline artistique "théâtre", le soutien annuel accordé aux producteurs culturels consiste en un forfait de base s'élevant à :
+
+a) 150 000 euros pour les producteurs culturels de la catégorie 5;
+
+b) 202 500 euros pour les producteurs culturels de la catégorie 4;
+
+c) 255 000 euros pour les producteurs culturels de la catégorie 3;
+
+d) 307 500 euros pour les producteurs culturels de la catégorie 2;
+
+e) 360 000 euros pour les producteurs culturels de la catégorie 1. ]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Dans la discipline artistique "danse", le soutien annuel accordé aux producteurs culturels consiste en un forfait de base s'élevant à :
+
+a) 100 000 euros pour les producteurs culturels de la catégorie 5;
+
+b) 135 000 euros pour les producteurs culturels de la catégorie 4;
+
+c) 170 000 euros pour les producteurs culturels de la catégorie 3;
+
+d) 205 000 euros pour les producteurs culturels de la catégorie 2;
+
+e) 240 000 euros pour les producteurs culturels de la catégorie 1]<sup>1</sup>
+
+§ 4. [<sup>1</sup> Dans la discipline artistique "littérature", le soutien annuel accordé aux producteurs culturels consiste en un forfait de base s'élevant à :
+
+a) 50 000 euros pour les producteurs culturels de la catégorie 5;
+
+b) 62 500 euros pour les producteurs culturels de la catégorie 4;
+
+c) 75 000 euros pour les producteurs culturels de la catégorie 3;
+
+d) 87 500 euros pour les producteurs culturels de la catégorie 2;
+
+e) 100 000 euros pour les producteurs culturels de la catégorie 1.]<sup>1</sup>
+
+§ 5. [<sup>1</sup> Dans la discipline artistique "musique", le soutien annuel accordé aux producteurs culturels consiste en un forfait de base s'élevant à :
+
+a) 127 500 euros pour les producteurs culturels de la catégorie 5;
+
+b) 172 125 euros pour les producteurs culturels de la catégorie 4;
+
+c) 216 750 euros pour les producteurs culturels de la catégorie 3;
+
+d) 261 375 euros pour les producteurs culturels de la catégorie 2;
+
+e) 306 000 euros pour les producteurs culturels de la catégorie 1.]<sup>1</sup>
+
+§ 6. [<sup>1</sup> Pour le travail culturel, un producteur culturel peut obtenir un forfait annuel en personnel, s'élevant à un montant de 21 250 euros par équivalent temps plein et modulable comme suit :
+
+a) producteurs culturels de la catégorie 5 : au maximum 2,5 équivalents temps plein;
+
+b) producteurs culturels de la catégorie 4 : au maximum 4 équivalents temps plein;
+
+c) producteurs culturels de la catégorie 3 : au maximum 5,33 équivalents temps plein;
+
+d) producteurs culturels de la catégorie 2 : au maximum 6,66 équivalents temps plein;
+
+e) producteurs culturels de la catégorie 1 : au maximum 8 équivalents temps plein.]<sup>1</sup>
+
+§ 7. [<sup>2</sup> Le nombre d'équivalents temps plein pour le travail culturel conformément au § 6 sera pris en compte au prorata, si lesdits équivalents temps plein sont subsidiés par un autre ressort de la Communauté germanophone ou en vertu d'une autre disposition du présent décret.
+
+Pour les équivalents temps plein subsidiés conformément au § 6, le nombre d'équivalents temps plein acceptables est réduit du pourcentage de soutien dans les coûts salariaux de ces équivalents temps plein, mentionné à l'alinéa premier, qui n'a pas été octroyé en vertu du présent article.
+
+[<sup>3</sup> Le Gouvernement peut :
+
+1° fixer, pour l'application du § 6, les fonctions assurées par le personnel qui peuvent être considérées comme travail culturel;
+
+2° fixer d'autres critères et modalités de calcul pour l'application du présent paragraphe.]<sup>3</sup>]<sup>2</sup>
+
+§ 8. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-12-11/11, art. 22, 006; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2019-12-12/19, art. 19, 007; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCG 2020-12-10/38, art. 19, 008; En vigueur : 01-01-2021&gt;
+
+## CHAPITRE 3. - Soutien accordé aux projets culturels et aux artistes
+
+### Section 1re. - Dispositions générales
+
+##### Art. 20
+
+Condition de principe pour l'octroi du soutien.
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement soutient les projets culturels et les artistes conformément au présent chapitre.
+
+##### Art. 21
+
+Liquidation.
+
+[<sup>1</sup> Les subsides prévus dans le présent chapitre sont octroyés sous la forme d'avances représentant [<sup>4</sup> 80]<sup>4</sup> % du montant escompté. ]<sup>1</sup>
+
+[<sup>4</sup> En vue de la liquidation du solde, les documents nécessaires au subventionnement]<sup>4</sup> doivent être introduits auprès du Gouvernement dans les trois mois suivant la fin du projet ou des activités culturelles. Ce sont entre autres :
+
+1° un rapport de clôture;
+
+2° une liste des dépenses subsidiables et les justificatifs y afférents;
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>1</sup> [<sup>3</sup> Les alinéas 1er et 2 ne valent pas pour les subsides mentionnés à l'article 43, alinéa 2, dans le cadre de la distinction " Artiste de la Belgique de l'Est.]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 16, 003; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2018-02-26/08, art. 16, 005; En vigueur : 26-03-2018&gt;
+
+(3)&lt;DCG 2020-12-10/38, art. 20, 008; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DCG 2025-02-24/04, art. 89, 016; En vigueur : 01-01-2025&gt;
+
+### Section 2. - Soutien accordé à des projets culturels particuliers
+
+##### Art. 22
+
+Principes du soutien.
+
+Peuvent être soutenus des projets culturels particuliers qui :
+
+1° ont un caractère innovant ou exceptionnel [<sup>1</sup> par rapport aux activités normales du demandeur;]<sup>1</sup>
+
+2° ont [<sup>1</sup> ...]<sup>1</sup> un rayonnement régional ou suprarégional;
+
+3° ont un contenu en lien avec la Communauté germanophone;
+
+4° ont un public suffisamment ciblé;
+
+5° ont suffisamment de caractéristiques de qualité quant au contenu et à la technicité, avec une signature ou orientation artistique propre;
+
+6° n'impliquent pas une offre "double" en Communauté germanophone;
+
+7° ont un coût global d'au moins 1.000 euros.
+
+[<sup>2</sup> Par ce soutien, l'accent est notamment mis sur :
+
+1° les projets culturels, menés dans les écoles, qui suscitent de manière durable la compréhension de la culture et en particulier, la créativité culturelle des élèves et de la communauté scolaire;
+
+2° les projets culturels qui visent à améliorer l'accès des groupes de population défavorisés à des activités culturelles.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 17, 003; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2018-02-26/08, art. 17, 005; En vigueur : 26-03-2018&gt;
+
+##### Art. 23
+
+Demande.
+
+§ 1er. Peuvent introduire une demande :
+
+1° des personnes physiques;
+
+2° les associations sans but lucratif qui sont soutenues par la Communauté germanophone ou par une autre autorité culturelle en dehors de la région de langue allemande;
+
+3° les sociétés d'art amateur qui bénéficient du soutien de base accordé par l'une des communes de la région de langue allemande conformément à l'article 12 du décret du 15 décembre 2008 portant financement des communes et des centres publics d'aide sociale par la Communauté germanophone ou ont obtenu un subside du Gouvernement de la Communauté germanophone;
+
+4° les autorités culturelles en dehors de la région de langue allemande;
+
+[<sup>2</sup> 5° les régies communales autonomes qui sont soutenues, pour mener des activités culturelles, par la Communauté germanophone ou par une autre autorité culturelle en dehors de la région de langue allemande;
+
+6° les établissements d'enseignement organisés, reconnus ou subventionnés par la Communauté germanophone.]<sup>2</sup>
+
+§ 2. La demande est introduite auprès du Gouvernement.
+
+Pour des projets menés entre le 1er janvier et le [<sup>1</sup> 30 juin]<sup>1</sup>, la demande doit être introduite [<sup>1</sup> au plus tard pour le 31 octobre de l'année calendrier précédente]<sup>1</sup>.
+
+Pour des projets menés entre le [<sup>1</sup> 1er juillet]<sup>1</sup> et le 31 décembre, la demande doit être introduite au plus tard pour le 31 mars de l'année de la manifestation.
+
+§ 3. La demande est accompagnée :
+
+1° d'une description détaillée du projet;
+
+2° d'un état des recettes et dépenses prévues.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 18, 003; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2019-12-12/19, art. 20, 007; En vigueur : 01-01-2020&gt;
+
+##### Art. 24
+
+Subside.
+
+Après avoir vérifié [<sup>1</sup> les documents introduits]<sup>1</sup>, le Gouvernement peut octroyer le subside pour des projets culturels particuliers.
+
+Le subside représente au plus 50 % des dépenses utiles.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 19, 003; En vigueur : 14-04-2016&gt;
+
+### Section 3.
+
+&lt;Abrogé par DCG 2018-02-26/08, art. 18, 005; En vigueur : 01-01-2018&gt;
+
+##### Art. 25
+
+&lt;Abrogé par DCG 2018-02-26/08, art. 18, 005; En vigueur : 01-01-2018&gt;
+
+##### Art. 26
+
+&lt;Abrogé par DCG 2018-02-26/08, art. 18, 005; En vigueur : 01-01-2018&gt;
+
+##### Art. 27
+
+&lt;Abrogé par DCG 2018-02-26/08, art. 18, 005; En vigueur : 01-01-2018&gt;
+
+### Section 4.
+
+&lt;Abrogé par DCG 2018-02-26/08, art. 18, 005; En vigueur : 01-01-2018&gt;
+
+##### Art. 28
+
+&lt;Abrogé par DCG 2018-02-26/08, art. 18, 005; En vigueur : 01-01-2018&gt;
+
+##### Art. 29
+
+&lt;Abrogé par DCG 2018-02-26/08, art. 18, 005; En vigueur : 01-01-2018&gt;
+
+##### Art. 30
+
+&lt;Abrogé par DCG 2018-02-26/08, art. 18, 005; En vigueur : 01-01-2018&gt;
+
+### Section 5. - Projets culturels menés par des jeunes
+
+##### Art. 31
+
+Principes du soutien.
+
+Peuvent être soutenus les projets culturels menés par des jeunes créateurs culturels âgés de 14 à 30 ans.
+
+##### Art. 32
+
+Appel aux candidats.
+
+Le Gouvernement lance chaque année un appel aux candidats qui signale la possibilité d'introduire une demande de soutien pour des projets culturels menés par des jeunes.
+
+##### Art. 33
+
+Demande.
+
+Peuvent introduire une demande, s'ils sont domiciliés en région de langue allemande :
+
+1° de jeunes créateurs culturels âgés de 14 à 30 ans;
+
+2° des groupes de jeunes créateurs culturels.
+
+§ 2. La demande est introduite auprès du Gouvernement.
+
+Dans l'appel aux candidats mentionné à l'article 32, le Gouvernement fixe un délai pour l'introduction des demandes.
+
+§ 3. La demande est accompagnée :
+
+1° d'une description détaillée du projet;
+
+2° d'un état des recettes et dépenses prévues;
+
+3° des nom et adresse des jeunes créateurs culturels participant.
+
+##### Art. 34.
+
+Art. 34...
+
+Le Gouvernement soumet à un jury les demandes complètes introduites dans le délai imparti.
+
+Le jury est composé de jeunes âgés de 18 à 30 ans. Il compte au moins trois et au plus sept membres désignés par le Conseil de la jeunesse de la Communauté germanophone, après un appel aux candidats, pour une période de deux ans renouvelable. Un agent du Ministère assure le suivi du jury.
+
+Le jury transmet un avis au Gouvernement à propos de chaque projet.
+
+Il fixe au préalable les critères d'appréciation. De plus, il se dote d'un règlement d'ordre intérieur. Les critères d'appréciation ainsi que le règlement d'ordre intérieur doivent être approuvés par le Gouvernement. Les critères portent particulièrement sur les disciplines artistiques, l'autonomie des demandeurs, l'ouverture du projet au public, la planification financière et la faisabilité.
+
+Le Gouvernement fixe la procédure en cas de suspicion légitime de membres du jury.
+
+##### Art. 35
+
+Subside.
+
+Après avoir vérifié [<sup>1</sup> les documents introduits]<sup>1</sup>, le Gouvernement peut octroyer le subside pour des projets culturels menés par des jeunes.
+
+Le subside s'élève à 1.250 euros au plus.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 22, 003; En vigueur : 14-04-2016&gt;
+
+### Section 6. - Bourses octroyées à des artistes
+
+##### Art. 36
+
+Principes du soutien
+
+Le Gouvernement peut octroyer des bourses à des artistes pour un projet culturel.
+
+Le soutien nécessaire pour le projet s'élève à 1.000 euros au moins.
+
+##### Art. 37
+
+Demande.
+
+§ 1er. Peuvent introduire une demande :
+
+1° les artistes domiciliés en région de langue allemande ou
+
+2° les artistes dont les oeuvres ont un contenu lié à la Communauté germanophone de par le thème traité.
+
+§ 2. [<sup>2</sup> La demande est introduite auprès du Gouvernement.
+
+Pour les projets débutant entre le 1er janvier et le 30 juin, la demande est introduite au plus tard pour le 31 octobre de l'année calendrier précédente.
+
+Pour les projets débutant entre le 1er juillet et le 31 décembre, la demande est introduite au plus tard pour le 31 mars de la même année.]<sup>2</sup>
+
+§ 3. La demande est accompagnée :
+
+1° du curriculum artistique du demandeur;
+
+2° de la description de son projet artistique;
+
+3° d'un état des recettes et dépenses.
+
+----------
+
+(1)&lt;DCG 2015-03-02/05, art. 11, 002; En vigueur : 01-09-2015&gt;
+
+(2)&lt;DCG 2022-12-15/54, art. 9, 013; En vigueur : 01-01-2023&gt;
+
+##### Art. 38
+
+Jury de spécialistes.
+
+Le Gouvernement soumet les demandes complètes à un jury de spécialistes.
+
+Le jury transmet un avis au Gouvernement à propos de chaque demande.
+
+Le Gouvernement fixe les critères d'appréciation et la procédure en cas de suspicion légitime de membres du jury.
+
+Le Gouvernement fixe la composition et le fonctionnement du jury, assure le secrétariat et règle le défraiement pour les membres.
+
+##### Art. 38.1
+
+[<sup>1</sup> - Bourse
+
+Après avoir vérifié les documents introduits, le Gouvernement peut octroyer la bourse pour un projet culturel.]<sup>1</sup>
+
+[<sup>3</sup> Une bourse pour un projet culturel ne peut être octroyée à un demandeur que si celui-ci n'utilise, au moment de la demande, qu'une seule autre bourse pour un projet culturel.]<sup>3</sup>
+
+[<sup>2</sup> Le demandeur dispose de vingt-quatre mois à compter de l'octroi de la bourse pour rendre son projet public. Sur demande introduite par écrit, le Gouvernement peut prolonger une seule fois ce délai de douze mois. En cas de non-respect du délai pour la publicité du projet, le Gouvernement exige le remboursement de la bourse.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 23, 003; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2025-02-24/04, art. 90, 016; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DCG 2025-12-22/16, art. 43, 017; En vigueur : 01-01-2026&gt;
+
+### Section 7. [<sup>1</sup> - Distinction "artiste de la Belgique de l'Est"]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 19, 005; En vigueur : 26-03-2018&gt;
+
+##### Art. 39
+
+Principes du soutien.
+
+Le Gouvernement peut décerner à un artiste ou à un groupe d'artistes la distinction "artiste [<sup>1</sup> de la Belgique de l'Est]<sup>1</sup>".
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 20, 005; En vigueur : 26-03-2018&gt;
+
+##### Art. 40
+
+Appel aux candidats.
+
+Tous les trois ans et pour la première fois en 2014, le Gouvernement lance un appel aux candidats qui mentionne la possibilité de poser sa candidature comme "artiste [<sup>1</sup> de la Belgique de l'Est]<sup>1</sup>".
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 21, 005; En vigueur : 26-03-2018&gt;
+
+##### Art. 41
+
+Demande.
+
+§ 1er. La distinction peut être attribuée :
+
+1° à un artiste domicilié en région de langue allemande ou
+
+2° à des artistes dont les oeuvres ont un contenu lié à la Communauté germanophone de par le thème traité.
+
+§ 2. La demande est introduite auprès du Gouvernement.
+
+Dans l'appel aux candidats mentionné à l'article 40, le Gouvernement fixe un délai pour l'introduction des candidatures. Le délai est d'au moins 30 jours calendrier.
+
+§ 3. La demande est accompagnée :
+
+1° du curriculum artistique du demandeur;
+
+2° de la description de l'oeuvre artistique;
+
+[<sup>1</sup> 3° le concept d'un projet artistique qui doit être concrétisé pendant une phase de soutien de trois ans.]<sup>1</sup>
+
+[<sup>1</sup> Le Gouvernement fixe la forme des documents à introduire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 21, 008; En vigueur : 01-01-2021&gt;
+
+##### Art. 42
+
+Jury de spécialistes.
+
+Le Gouvernement soumet les demandes complètes à un jury de spécialistes.
+
+Le jury transmet un avis au Gouvernement à propos de chaque demande.
+
+Le Gouvernement fixe les critères d'appréciation et la procédure en cas de suspicion légitime de membres du jury.
+
+Le Gouvernement fixe la composition et le fonctionnement du jury, assure le secrétariat et règle le défraiement pour les membres.
+
+##### Art. 43
+
+Montant.
+
+Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement peut attribuer la distinction "artiste [<sup>1</sup> de la Belgique de l'Est]<sup>1</sup>".
+
+[<sup>2</sup> La distinction est dotée :
+
+1° d'un forfait unique de 5 000 euros octroyé au lauréat du prix au début de la phase de soutien de trois ans;
+
+2° d'une bourse octroyée au lauréat pour la concrétisation de son projet artistique et qui est liquidée selon les besoins et l'évolution du projet au cours de la phase de soutien de trois ans. A cette fin, le Gouvernement conclut avec le lauréat une convention consignant le déroulement prévu du projet artistique, le montant du soutien, l'étalement des tranches de subsides et la tenue des justificatifs.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 22, 005; En vigueur : 26-03-2018&gt;
+
+(2)&lt;DCG 2020-12-10/38, art. 22, 008; En vigueur : 01-01-2021&gt;
+
+## CHAPITRE 3.1. [<sup>1</sup> - Soutien accordé à la littérature]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2017-02-20/13, art. 16, 004; En vigueur : 01-01-2017&gt;
+
+##### Art. 43.1
+
+[<sup>1</sup> - Principes du soutien
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement peut soutenir des publications littéraires.
+
+Le projet nécessite un soutien d'au moins 1 000 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2017-02-20/13, art. 16, 004; En vigueur : 01-01-2017&gt;
+
+##### Art. 43.2
+
+[<sup>1</sup> - Demande
+
+§ 1er. Peuvent introduire une demande les personnes physiques et morales dont les publications littéraires répondent aux conditions suivantes :
+
+1° la publication présente un contenu lié à la Communauté germanophone par le domicile de l'auteur ou en raison du sujet abordé;
+
+2° la publication a un rayonnement régional et, le cas échéant, transfrontalier;
+
+3° la publication possède des caractéristiques de qualité quant au contenu, à la langue, la méthode et la forme;
+
+4° il est prouvé que la publication vise un public suffisamment ciblé et la vente est garantie;
+
+5° une assise financière et une gestion commerciale solides pour assurer la publication sont garanties.
+
+Les publications littéraires suivantes ne sont pas soutenues :
+
+1° les publications pouvant être subsidiées en vertu d'un autre décret de la Communauté germanophone;
+
+2° les publications périodiques.
+
+§ 2. La demande est introduite auprès du Gouvernement.
+
+La demande est introduite au moyen du formulaire fixé à cette fin par le Gouvernement, et ce, [<sup>2</sup> pour le 31 mars ou le 31 octobre au plus tard]<sup>2</sup>.
+
+§ 3. La demande est accompagnée :
+
+1° de la preuve du lien existant entre le contenu de la publication et la Communauté germanophone ainsi que du rayonnement régional, voire transfrontalier;
+
+2° d'un résumé;
+
+3° d'une biographie de l'auteur;
+
+4° d'une description de la distribution envisagée;
+
+5° d'une description de la publicité envisagée;
+
+6° d'un état détaillé des recettes et dépenses.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2017-02-20/13, art. 16, 004; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCG 2022-12-15/54, art. 10, 013; En vigueur : 01-01-2023&gt;
+
+##### Art. 43.3
+
+[<sup>1</sup> - Subside et achat de livres
+
+§ 1er. Après examen des documents introduits, le Gouvernement peut soutenir les publications littéraires par :
+
+1° l'octroi d'un subside;
+
+2° [<sup>5</sup> ...]<sup>5</sup>.
+
+L'octroi d'un subside est exclu pour des publications littéraires déjà parues. [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>5</sup> Un subside pour une publication littéraire ne peut être octroyé à un demandeur que si celui-ci ne réalise, au moment de la demande, qu'une seule autre publication littéraire subsidiée.]<sup>5</sup>
+
+§ 2. Le subside se calcule au moyen d'un état des dépenses utiles en lien direct avec la parution de la publication littéraire. Dans le formulaire mentionné à l'article 43.2, § 2, alinéa 2, le Gouvernement fixe les catégories de dépenses utiles prises en considération.
+
+[<sup>4</sup> Le demandeur dispose de vingt-quatre mois à compter de l'octroi de la promesse de subsides pour publier son oeuvre. Sur demande introduite par écrit, le Gouvernement peut prolonger ce délai une seule fois de douze mois au maximum. En cas de non-respect du délai pour la publication, le Gouvernement exige le remboursement du subside.]<sup>4</sup>
+
+[<sup>3</sup> Le subside est octroyé sous la forme d'une avance correspondant à 100 % du subside probable.]<sup>3</sup>
+
+En vue de la liquidation du subside, les documents suivants seront introduits dans les trois mois suivant la parution de la publication littéraire :
+
+1° un état des dépenses utiles;
+
+2° un exemplaire de la publication.
+
+Le montant des subsides peut être multiplié par un coefficient pour l'adapter aux crédits budgétaires disponibles.
+
+§ 3. Les factures introduites au titre de justificatif doivent être acquittées ou accompagnées de l'extrait de compte y afférent. Les documents financiers admis par des comptables ou vérificateurs financiers peuvent aussi servir de justificatifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2017-02-20/13, art. 16, 004; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCG 2018-02-26/08, art. 23, 005; En vigueur : 26-03-2018&gt;
+
+(3)&lt;DCG 2019-12-12/19, art. 21, 007; En vigueur : 01-01-2020&gt;
+
+(4)&lt;DCG 2021-12-15/17, art. 32, 011; En vigueur : 01-01-2022&gt;
+
+(5)&lt;DCG 2025-12-22/16, art. 44, 017; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 4. - Soutien accordé à l'art amateur et au folklore
+
+### Section 1re. - Dispositions générales
+
+##### Art. 44
+
+Principes du soutien.
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement soutient les sociétés d'art amateur actives dans les disciplines "musique", "danse" ou "théâtre", ainsi que les sociétés folkloriques conformément au présent chapitre.
+
+### Section 2. - Soutien accordé aux sociétés d'art amateur
+
+#### Sous-section 1re. - Disposition générale
+
+##### Art. 45
+
+Conditions générales de soutien.
+
+Peuvent être soutenus comme sociétés d'art amateur les groupements de personnes organisés, actifs dans les disciplines artistiques "musique", "danse" ou "théâtre" qui :
+
+1° ont leur siège en région de langue allemande et y mènent leurs principales activités culturelles;
+
+2° ne poursuivent aucun but lucratif;
+
+3° existent depuis au moins un an et organisent leurs propres activités culturelles en région de langue allemande ou y participent à des activités culturelles;
+
+4° bénéficient du soutien de base accordé par l'une des communes de la région de langue allemande conformément à l'article 12 du décret du 15 décembre 2008 portant financement des communes et des centres publics d'aide sociale par la Communauté germanophone ou ont obtenu, l'année précédant le classement, un subside du Gouvernement de la Communauté germanophone;
+
+5° sont classés dans une catégorie conformément aux articles 51, 57 ou 63.
+
+#### Sous-section 2. - Soutien de sociétés d'art amateur actives dans la discipline artistique "musique"
+
+##### Art. 46
+
+Principe.
+
+Une société d'art amateur active dans la discipline artistique "musique" peut être soutenue si elle remplit les conditions générales de soutien énoncées à l'article 45 et est, en plus, classée conformément à cette sous-section.
+
+##### Art. 47
+
+Appel aux candidats.
+
+Tous les quatre ans, le Gouvernement lance un appel aux candidats pour le classement comme société d'art amateur dans la discipline artistique "musique". [<sup>1</sup> La date du classement est mentionnée dans cet appel aux candidats.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2017-02-20/13, art. 17, 004; En vigueur : 15-03-2017&gt;
+
+##### Art. 48
+
+Demande.
+
+§ 1er. [<sup>1</sup> La demande est introduite auprès du Gouvernement au plus tard neuf mois avant la date fixée à l'article 47.]<sup>1</sup>
+
+§ 2. La demande est accompagnée :
+
+1° des coordonnées du demandeur;
+
+2° de l'indication de la catégorie ou du niveau visé;
+
+3° d'une proposition d'oeuvres adaptées à la catégorie et que le demandeur souhaite exécuter lors du classement;
+
+4° des partitions des oeuvres proposées conformément au 3°, sous forme d'original ou de copie.
+
+Le Gouvernement fixe la forme et le contenu du formulaire de demande.
+
+§ 3. [<sup>2</sup> L'organisation faîtière]<sup>2</sup> examine, pour le Gouvernement, si les demandes sont complètes et établit la liste des demandeurs.
+
+Pour le traitement de la demande, [<sup>2</sup> ladite organisation]<sup>2</sup> peut demander une redevance ne dépassant pas le coût de revient.
+
+----------
+
+(1)&lt;DCG 2017-02-20/13, art. 18, 004; En vigueur : 15-03-2017&gt;
+
+(2)&lt;DCG 2023-10-16/08, art. 2, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 49
+
+Listes.
+
+Au plus tard trois mois avant le classement, les demandeurs introduisent les documents suivants auprès du Gouvernement :
+
+1° une liste complète des musiciens et/ou chanteurs;
+
+2° les partitions de direction pour l'ensemble des oeuvres à exécuter, et ce, en trois exemplaires dont au moins un original.
+
+##### Art. 50
+
+Classement.
+
+§ 1er. Sur la proposition de [<sup>1</sup> l'organisation faîtière]<sup>1</sup>, le Gouvernement installe un jury d'experts pour procéder au classement des candidats admis.
+
+Le Gouvernement fixe les critères d'appréciation et la procédure en cas de suspicion légitime de membres du jury.
+
+Le Gouvernement fixe la composition et le fonctionnement du jury, assure le secrétariat et règle le défraiement pour les membres.
+
+§ 2. Le jour de l'exécution devant le jury, les responsables de la société d'art amateur prêtent le serment que seuls des membres ordinaires participent au classement.
+
+§ 3. Parmi les propositions mentionnées à l'article 48, § 2, alinéa 1er, 3°, le jury choisit les oeuvres qui seront exécutées lors du classement.
+
+Le Gouvernement fixe la forme et le contenu des propositions visées au premier alinéa.
+
+§ 4. Pour chaque société d'art amateur participante, le jury remplit une fiche d'évaluation qui sera remise aux responsables de la société après le classement.
+
+----------
+
+(1)&lt;DCG 2023-10-16/08, art. 3, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 51
+
+Catégories.
+
+§ 1er. Le jury classe les sociétés d'art amateur actives dans la discipline artistique "musique" dans l'une des catégories suivantes :
+
+1° ensembles [<sup>1</sup> ensemble de musique de chambre et]<sup>1</sup> sociétés musicales :
+
+a) degré supérieur;
+
+b) division d'honneur;
+
+c) classe d'excellence;
+
+d) première catégorie;
+
+e) deuxième catégorie;
+
+f) troisième catégorie;
+
+2° choeurs et ensembles vocaux :
+
+a) classe d'excellence;
+
+b) première catégorie;
+
+c) deuxième catégorie;
+
+d) troisième catégorie;
+
+3° choeurs d'enfants et de jeunes :
+
+a) catégorie A;
+
+b) catégorie B.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. A l'exception des choeurs d'enfants et de jeunes, une société d'art amateur active dans la discipline artistique "musique" obtient la mention "à haute valeur artistique" si elle s'est qualifiée pour le degré supérieur en tant que société de musique ou ensemble instrumental ou pour la classe d'excellence en tant qu'ensemble vocal ou choeur et y a été confirmée avec plus de 90 %.
+
+§ 3. En ce qui concerne les sociétés d'art amateur, les résultats d'un classement restent valables jusqu'au prochain concours de classement.
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 23, 008; En vigueur : 01-01-2021&gt;
+
+##### Art. 52
+
+Subsides.
+
+§ 1er. Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement octroie le subside.
+
+Selon la catégorie de classement et le nombre d'activités culturelles menées par an, les sociétés d'art amateur classées et les sociétés d'art amateur à haute valeur artistique actives dans la discipline artistique "musique" bénéficient de subsides forfaitaires conformément à l'annexe 1re.
+
+§ 2. Les sociétés d'art amateur classées introduisent, au plus tard pour le 31 janvier de l'année calendrier suivante, le justificatif des activités culturelles menées.
+
+§ 3. En plus du subside attribué en application du § 1er, le Gouvernement octroie aux sociétés d'art amateur à haute valeur artistique un subside annuel portant chaque fois sur les activités de l'année précédente et correspondant à :
+
+1° 75 % des dépenses mentionnées au § 4, 1°;
+
+2° 60 % des dépenses mentionnées au § 4, 3°;
+
+3° 50 % des dépenses mentionnées au § 4, 2°, 4° et 5°.
+
+§ 4. Sont prises en considération pour calculer le subside annuel mentionné au § 3 les dépenses justifiées effectuées dans les domaines suivants, dans la mesure où elles ne sont pas encore couvertes par des subsides de la Communauté germanophone ou d'autres autorités :
+
+1° les dépenses liées à la rémunération des directeurs artistiques;
+
+2° les dépenses liées au secrétariat, à la publicité, aux assurances, ainsi que les cotisations payées à des fédérations;
+
+3° les dépenses directement liées à l'organisation d'événements;
+
+4° les dépenses servant à couvrir les frais de déplacement occasionnés par des prestations à l'étranger dont le Gouvernement a approuvé le subventionnement sur la base d'un programme introduit en début d'année;
+
+5° les dépenses liées à l'achat de partitions.
+
+§ 5. En plus du subside attribué en application du § 1er, le Gouvernement octroie aux ensembles de musique de chambre à haute valeur artistique un subside annuel portant sur les activités de l'année précédente et dont le montant, calculé sur la base du § 4, s'élève au plus à 2.000 euros.
+
+Les subsides ne sont liquidés qu'à concurrence de la part subsidiable des dépenses justifiées. Le Gouvernement peut fixer des catégories de dépenses admissibles ainsi que les montants maximum par catégorie.
+
+Le premier subventionnement s'opère sur la base des activités menées au cours de l'année calendrier suivant le classement.
+
+[<sup>1</sup> § 6. La liquidation des subsides mentionnés aux §§ 3 à 5 présuppose des prestations effectives. Les justificatifs correspondants sont introduits conformément au § 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 24, 003; En vigueur : 14-04-2016&gt;
+
+#### Sous-section 3. - Soutien de sociétés d'art amateur actives dans la discipline artistique "danse"
+
+##### Art. 53
+
+Principe.
+
+Une société d'art amateur active dans la discipline artistique "danse" peut être soutenue si elle remplit les conditions générales de soutien énoncées à l'article 45 et est, en plus, classée conformément à cette sous-section.
+
+##### Art. 54
+
+Appel aux candidats.
+
+Tous les quatre ans [<sup>1</sup> ...]<sup>1</sup>, le Gouvernement lance un appel aux candidats pour le classement comme société d'art amateur dans la discipline artistique "danse". [<sup>1</sup> La date du classement est mentionnée dans cet appel aux candidats.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2017-02-20/13, art. 19, 004; En vigueur : 15-03-2017&gt;
+
+##### Art. 55
+
+Demande.
+
+§ 1er. [<sup>1</sup> La demande est introduite auprès du Gouvernement au plus tard neuf mois avant la date fixée à l'article 54.]<sup>1</sup>
+
+§ 2. La demande est accompagnée :
+
+1° des coordonnées du demandeur;
+
+2° de l'indication de la catégorie visée;
+
+3° d'une proposition d'oeuvres adaptées à la catégorie et que le demandeur souhaite exécuter lors du classement.
+
+Le Gouvernement fixe la forme et le contenu du formulaire de demande.
+
+----------
+
+(1)&lt;DCG 2017-02-20/13, art. 20, 004; En vigueur : 15-03-2017&gt;
+
+##### Art. 56
+
+Classement.
+
+§ 1er. Le Gouvernement installe un jury de spécialistes qui procède au classement des candidats admis.
+
+Le Gouvernement fixe les critères d'appréciation et la procédure en cas de suspicion légitime de membres du jury.
+
+Le Gouvernement fixe la composition et le fonctionnement du jury, assure le secrétariat et règle le défraiement pour les membres.
+
+§ 2. Le jour de l'exécution devant le jury, les responsables de la société d'art amateur prêtent le serment que seuls des membres ordinaires participent au classement.
+
+§ 3. Pour chaque société d'art amateur participante, le jury remplit une fiche d'évaluation qui sera remise aux responsables de la société après le classement.
+
+##### Art. 57
+
+Catégories.
+
+Le jury classe les sociétés d'art amateur actives dans la discipline artistique "danse" dans l'une des catégories suivantes :
+
+1° catégorie 1;
+
+2° catégorie 2.
+
+En ce qui concerne les sociétés d'art amateur, les résultats d'un classement restent valables jusqu'au prochain concours de classement.
+
+##### Art. 58
+
+Subsides.
+
+§ 1er. Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement octroie le subside.
+
+Selon la catégorie de classement et le nombre d'activités culturelles menées par an, les sociétés d'art amateur actives dans la discipline artistique "danse" obtiennent des subsides forfaitaires conformément à l'annexe 1re.
+
+§ 2. Les sociétés d'art amateur classées doivent, au plus tard pour le 31 janvier de l'année calendrier suivante, introduire le justificatif des activités culturelles menées.
+
+#### Sous-section 4. - Soutien de sociétés d'art amateur actives dans la discipline artistique "théâtre"
+
+##### Art. 59
+
+Principe.
+
+Une société d'art amateur active dans la discipline artistique "théâtre" peut être soutenue si elle remplit les conditions de soutien énoncées à l'article 45 et est, en plus, classée conformément à cette sous-section.
+
+##### Art. 60
+
+Appel aux candidats.
+
+Tous les ans et pour la première fois en 2014, le Gouvernement lance un appel aux candidats pour le classement comme société d'art amateur dans la discipline artistique "théâtre".
+
+[<sup>1</sup> L'appel annuel aux candidats se rapporte chaque fois à une saison théâtrale allant du 1er juillet de l'année de l'appel aux candidats au 30 juin de l'année calendrier suivante.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 25, 003; En vigueur : 14-04-2016&gt;
+
+##### Art. 61
+
+Demande.
+
+§ 1er. La demande est introduite auprès du Gouvernement au plus tard pour le 15 septembre [<sup>1</sup> de l'année de l'appel aux candidats]<sup>1</sup>.
+
+§ 2. La demande est accompagnée :
+
+1° des coordonnées du demandeur;
+
+2° de l'indication de la catégorie visée;
+
+3° de la proposition d'une oeuvre adaptée à la catégorie et que le demandeur souhaite exécuter lors du classement.
+
+Le Gouvernement fixe la forme et le contenu du formulaire de demande.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 26, 003; En vigueur : 14-04-2016&gt;
+
+##### Art. 62
+
+Classement.
+
+§ 1er. Le Gouvernement installe un jury de spécialistes qui procède au classement des candidats admis.
+
+Le Gouvernement fixe les critères d'appréciation et la procédure en cas de suspicion légitime de membres du jury.
+
+Le Gouvernement fixe la composition et le fonctionnement du jury, assure le secrétariat et règle le défraiement pour les membres.
+
+§ 2. Le jour de l'exécution devant le jury, les responsables de la société d'art amateur prêtent le serment que seuls des membres ordinaires participent au classement.
+
+§ 3. Pour chaque société d'art amateur participante, le jury remplit une fiche d'évaluation qui sera remise aux responsables de la société après le classement.
+
+##### Art. 63
+
+Catégories.
+
+Le Gouvernement classe les sociétés d'art amateur actives dans la discipline artistique "théâtre" dans l'une des catégories suivantes :
+
+1° catégorie 1;
+
+2° catégorie 2;
+
+3° catégorie 3.
+
+En ce qui concerne les sociétés d'art amateur, les résultats d'un classement restent valables jusqu'au prochain classement.
+
+##### Art. 64
+
+Subsides.
+
+§ 1er. Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement octroie le subside.
+
+Selon la catégorie de classement et le nombre d'activités culturelles menées par [<sup>1</sup> saison]<sup>1</sup>, les sociétés d'art amateur actives dans la discipline artistique "théâtre" obtiennent des subsides forfaitaires conformément à l'annexe 1re.
+
+§ 2. Les sociétés d'art amateur classées doivent, au plus tard pour le 31 mai de l'année calendrier suivante, introduire le justificatif des activités culturelles menées.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 27, 003; En vigueur : 14-04-2016&gt;
+
+### Section 3. - Soutien pour les festivités anniversaires de sociétés d'art amateur et folkloriques
+
+##### Art. 65
+
+Principes du soutien.
+
+Peuvent être soutenues les festivités anniversaires [<sup>1</sup> , accessibles au public,]<sup>1</sup> de sociétés d'art amateur et folkloriques ayant leur siège en région de langue allemande.
+
+Le Gouvernement détermine quelles festivités anniversaires peuvent être soutenues.
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 45, 017; En vigueur : 01-01-2026&gt;
+
+##### Art. 66
+
+Demande.
+
+§ 1er. Peuvent introduire une demande les associations sans but lucratif qui sont déjà soutenues soit conformément à l'article 12 du décret du 15 décembre 2008 portant financement des communes et des centres publics d'aide sociale par la Communauté germanophone, soit autrement par la Communauté germanophone.
+
+§ 2. La demande est introduite auprès du Gouvernement au moins un mois avant le début des festivités anniversaires.
+
+§ 3. La demande est accompagnée :
+
+1° d'une preuve attestant la durée d'existence de la société;
+
+2° d'une description du projet renseignant sur le contenu, la durée, le public cible et la publicité relative aux festivités anniversaires.
+
+##### Art. 67
+
+Subside.
+
+Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement peut octroyer le subside pour des festivités anniversaires de sociétés d'art amateur et folkloriques.
+
+La hauteur du subside est fixée conformément à l'annexe 2.
+
+##### Art. 68
+
+Liquidation.
+
+En vue de la liquidation des subsides prévus dans la présente section, les documents nécessaires pour le subventionnement doivent être introduits auprès du Gouvernement dans les trois mois suivant la fin des festivités. Ce sont entre autres :
+
+1° un rapport de clôture;
+
+2° une liste des dépenses subsidiables et les justificatifs y afférents;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+Aucune liquidation de subsides n'est plus possible au-delà de ce délai.
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 24, 005; En vigueur : 26-03-2018&gt;
+
+### Section 4. - Soutien accordé pour les déplacements relatifs à des prestations
+
+##### Art. 69
+
+Principes du soutien.
+
+Peuvent être soutenus une fois par année les déplacements relatifs à des prestations à l'étranger de sociétés d'art amateur ayant leur siège en région de langue allemande.
+
+Les conditions suivantes sont d'application :
+
+1° seuls sont pris en considération les déplacements effectués pour se rendre à des manifestations d'utilité publique, non commerciales;
+
+2° ne sont pas pris en considération les déplacements pour lesquels il n'est pas suffisamment établi qu'ils ont trait à une prestation;
+
+3°[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2015-03-02/05, art. 12, 002; En vigueur : 26-03-2015&gt;
+
+##### Art. 70
+
+Demande.
+
+§ 1er. Peuvent introduire une demande les sociétés d'art amateur qui bénéficient du soutien de base accordé par l'une des communes de la région de langue allemande conformément à l'article 12 du décret du 15 décembre 2008 portant financement des communes et des centres publics d'aide sociale par la Communauté germanophone ou sont déjà soutenues autrement par la Communauté germanophone.
+
+§ 2. La demande est introduite auprès du Gouvernement au moins [<sup>1</sup> deux]<sup>1</sup> semaines avant le déplacement.
+
+§ 3. La demande est accompagnée :
+
+1° d'un relevé détaillé des données relatives à la destination, à la date du déplacement, au programme prévu pour le séjour, ainsi que des données relatives à l'organisateur, à la date et au lieu de la prestation;
+
+2° d'une liste des membres de la société qui y prennent part;
+
+3° d'un devis établi par une société de transport.
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 25, 005; En vigueur : 26-03-2018&gt;
+
+##### Art. 71
+
+Subside.
+
+Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement peut octroyer le subside pour des déplacements relatifs à des prestations à l'étranger de sociétés d'art amateur.
+
+[<sup>1</sup> Le montant du subside s'élève à 30 euros par membre participant et est plafonné à 1 250 euros et à 50 % des frais de déplacement.]<sup>1</sup>
+
+[<sup>1</sup> Par dérogation à l'alinéa 2, le subside accordé aux choeurs d'enfants s'élève à 50 euros par membre participant et est plafonné à 2 000 euros et à 50 % des frais de déplacement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 26, 005; En vigueur : 26-03-2018&gt;
+
+##### Art. 72
+
+Liquidation.
+
+En vue de la liquidation des subsides prévus dans la présente section, les documents nécessaires pour le subventionnement doivent être introduits auprès du Gouvernement dans les trois mois suivant la fin du déplacement. Ce sont entre autres :
+
+1° la facture acquittée de la société de transport ou la facture accompagnée d'un extrait de compte;
+
+2° un rapport relatif à la manifestation ou la confirmation de la prestation.
+
+Aucune liquidation de subsides n'est possible au-delà de ce délai.
+
+### Section 5. [<sup>1</sup> Soutien accordé à une organisation faîtière pour la musique en Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-10-16/08, art. 4, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 73
+
+Principe.
+
+Le Gouvernement reconnaît [<sup>1</sup> une organisation faîtière pour la musique en Communauté germanophone ]<sup>1</sup>.
+
+[<sup>1</sup> L'organisation faîtière a notamment pour mission d'assurer :
+
+1° la planification et la mise en oeuvre de projets dans la discipline artistique "musique" qui contribuent à la formation et à la formation continue des musiciens et des chanteurs ainsi qu'à la promotion de la qualité artistique au sein et en dehors des associations relevant de la discipline artistique "musique" et au renforcement du travail associatif;
+
+2° la représentation des intérêts des associations affiliées;
+
+3° l'organisation pratique des classements dans le domaine de la musique en coopération avec les services du Gouvernement;
+
+4° la mise à disposition d'une centrale d'achat pour les fournitures et les services;
+
+5° le secrétariat central, joignable au moins 200 jours par an;
+
+6° la mise sur pied d'une offre de conseils pour les associations relevant de la discipline artistique "musique" en ce qui concerne toutes les questions administratives et juridiques dans le domaine du bénévolat et du travail associatif, en coopération avec le service compétent du Gouvernement;
+
+7° la mise en place d'une offre de soutien en ce qui concerne la planification et la réalisation de manifestations pour les associations affiliées relevant de la discipline artistique "musique";
+
+8° la direction d'un centre de documentation, notamment en ce qui concerne les partitions et la littérature spécifique;
+
+9° le suivi des contacts et la création de synergies avec les autres organisations faîtières de musique en Belgique et à l'étranger.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-10-16/08, art. 5, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 74
+
+Principes du soutien.
+
+Seule une association sans but lucratif remplissant les conditions suivantes peut être soutenue comme [<sup>2</sup> organisation faîtière]<sup>2</sup> :
+
+1° avoir son siège en région de langue allemande;
+
+2° regrouper des sociétés de [<sup>2</sup> huit communes]<sup>2</sup> au moins de la région de langue allemande;
+
+3° compter comme sociétés affiliées au moins 80 % des sociétés d'art amateur soutenues par les communes de la région de langue allemande et qui sont actives dans la discipline artistique "musique";
+
+4° être impartiale vis-à-vis de toutes les sociétés d'art amateur qui remplissent les conditions de participation au classement et introduisent une demande;
+
+5° disposer du concept visé à l'article 75;
+
+6° conclure avec le Gouvernement[<sup>2</sup> le contrat de gestion mentionné à l'article 78]<sup>2</sup>;
+
+[<sup>2</sup> 6.1° assurer un vaste travail de relations publiques; ]<sup>2</sup>
+
+7° présenter en tout temps une comptabilité autonome en ordre permettant un contrôle financier;
+
+[<sup>2</sup> 7.1° générer elle-même au moins 20 % des recettes annuelles;]<sup>2</sup>
+
+8° introduire annuellement, pour le [<sup>1</sup> 30 juin]<sup>1</sup>, un rapport d'activités relatif à l'année précédente, un bilan et un compte de résultats pour l'exercice précédent [<sup>2</sup> ainsi qu'un budget pour l'exercice suivant et les éventuelles modifications des statuts]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 27, 005; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCG 2023-10-16/08, art. 6, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 75
+
+Concept de mise en oeuvre.
+
+Le concept de mise en oeuvre comprend :
+
+1° une description des activités [<sup>1</sup> et des objectifs pour la durée de la période de soutien concernée]<sup>1</sup> en vue de remplir les missions mentionnées à l'article 73;
+
+2° une description des moyens infrastructurels, financiers, humains et logistiques nécessaires pour mettre en oeuvre le concept pendant la période de soutien, en partant des moyens déjà disponibles.
+
+Le concept vaut pour la durée de la période de soutien. Celle-ci couvre cinq années.
+
+[<sup>1</sup> La première période de soutien débute le 1er janvier 2024 et expire le 31 décembre 2028.]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2023-10-16/08, art. 7, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 76
+
+Demande.
+
+&La demande est introduite auprès du Gouvernement au plus tard pour le [<sup>1</sup> 30 juin]<sup>1</sup> de l'année précédant la prochaine période de soutien.
+
+Le concept visé à l'article 75 est joint à la demande.
+
+Le Gouvernement fixe la forme du concept, la procédure et les autres documents à introduire.
+
+----------
+
+(1)&lt;DCG 2023-10-16/08, art. 8, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 77
+
+Subside.
+
+Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement peut octroyer le subside forfaitaire [<sup>1</sup> à l'organisation faîtière.]<sup>1</sup>
+
+En vertu de la loi du pacte culturel, le soutien forfaitaire prévu dans cet article sert simultanément de subside pour un noyau stable d'agents, de subside forfaitaire de fonctionnement et de subside pour les activités culturelles effectivement prestées dans le cadre des missions décrites à l'article 73.
+
+----------
+
+(1)&lt;DCG 2023-10-16/08, art. 9, 012; En vigueur : 01-01-2024&gt;
+
+##### Art. 78
+
+[<sup>1</sup>Contrat de gestion
+
+Si le Gouvernement approuve le soutien, il conclut avec l'organisation faîtière, pour la durée de la période de soutien et conformément à l'article 105 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone, un contrat de gestion qui régit la réalisation du concept de mise en oeuvre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-10-16/08, art. 10, 012; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE 5. - Biens d'équipement
+
+##### Art. 79
+
+Principes du soutien.
+
+§ 1er. Dans les limites des moyens budgétaires disponibles, le Gouvernement peut, pour l'acquisition de biens d'équipement qui servent à mener une activité culturelle mais ne font pas partie d'une infrastructure, octroyer des subsides destinés à couvrir une partie des frais engendrés par le renouvellement ou l'élargissement de l'équipement de base.
+
+§ 2. Des subsides pour biens d'équipement ne sont octroyés que si :
+
+1° l'accord du Gouvernement a été demandé avant toute commande ou tout achat;
+
+2° le demandeur s'engage par écrit à :
+
+a) ne pas céder les biens subsidiés pendant cinq ans à dater de la liquidation des subsides, que ce soit à titre gracieux ou onéreux, sauf si l'instrument est mis à disposition par une autre société d'art amateur visée à l'article 80, § 1er, 3°;
+
+b) permettre en tout temps au Gouvernement de vérifier les données et consulter tous les documents y relatifs;
+
+c) informer sans délai le Gouvernement de sa dissolution.
+
+En cas de dissolution, les biens subsidiés sont, en accord avec le Gouvernement, mis à disposition d'une autre fédération ou société d'art amateur.
+
+##### Art. 80
+
+Demande.
+
+§ 1er. Peuvent introduire une demande :
+
+1° les opérateurs culturels professionnels;
+
+2° [<sup>2</sup> l'organisation faîtière]<sup>2</sup>;
+
+3° les sociétés d'art amateur qui bénéficient du soutien de base accordé par l'une des communes de la région de langue allemande conformément à l'article 12 du décret du 15 décembre 2008 portant financement des communes et des centres publics d'aide sociale par la Communauté germanophone ou ont obtenu un subside du Gouvernement de la Communauté germanophone;
+
+[<sup>1</sup> 4° les personnes morales mentionnées à l'article 11 du décret du 18 mars 2002 relatif à l'infrastructure qui, conformément audit décret, peuvent obtenir de la Communauté germanophone des subsides pour des projets de construction et/ou d'équipement dans le domaine culturel;
+
+[<sup>3</sup> 5° les ateliers créatifs et ateliers créatifs spécialisés soutenus conformément au décret du 27 février 2023 visant à soutenir l'éducation culturelle extrascolaire.]<sup>3</sup>]<sup>1</sup>
+
+§ 2. Pour pouvoir obtenir le subside pendant l'année budgétaire en cours, les demandeurs introduisent leur demande auprès du Gouvernement au plus tard pour le 31 mars de l'année concernée.
+
+§ 3. La demande est accompagnée :
+
+1° d'une déclaration justificative;
+
+2° d'un état de frais.
+
+Par dérogation à l'alinéa 1er, 2°, le demandeur introduit trois devis lorsque le prix de l'équipement atteint 5.500 euros hors T.V.A.
+
+----------
+
+(1)&lt;DCG 2015-03-02/05, art. 13, 002; En vigueur : 26-03-2015&gt;
+
+(2)&lt;DCG 2023-10-16/08, art. 11, 012; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCG 2023-02-27/09, art. 40, 014; En vigueur : 01-01-2024&gt;
+
+##### Art. 81
+
+Subside.
+
+§ 1er. [<sup>1</sup> Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement peut octroyer aux demandeurs mentionnés à l'article 80, § 1er, un subside pour biens d'équipement. Ce subside représente au plus 50 % des dépenses subsidiables.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 24, 008; En vigueur : 01-01-2021&gt;
+
+##### Art. 81.1
+
+[<sup>1</sup> - Délai pour l'achat de biens d'équipement et l'introduction des justificatifs
+
+Après l'octroi mentionné à l'article 81, les organismes ont jusqu'au 30 novembre de l'année de la demande pour introduire les justificatifs d'achat de biens d'équipement subsidiés. Ce délai peut être prolongé d'un an sur demande écrite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 46, 017; En vigueur : 01-01-2026&gt;
+
+##### Art. 82
+
+Obligations.
+
+Les biens d'équipement acquis à l'aide de subsides octroyés en vertu de cette section doivent figurer pendant cinq ans dans un inventaire permanent. Cet inventaire mentionne au moins :
+
+1° la date d'achat;
+
+2° le prix d'achat;
+
+3° le montant du subside accordé;
+
+4° des remarques éventuelles à propos de l'état des biens.
+
+Les biens d'équipement acquis à l'aide de subsides octroyés en vertu de cette section doivent être assurés contre l'incendie s'ils sont conservés en un même lieu.
+
+## CHAPITRE 6. - Protection du et soutien accordé au patrimoine culturel immatériel de la Communauté germanophone
+
+### Section 1re. - Recensement et inscription dans l'inventaire
+
+##### Art. 83
+
+Recensement.
+
+Le Gouvernement tient un inventaire du patrimoine culturel immatériel de la Communauté germanophone, inventaire reprenant les catégories suivantes :
+
+1° les traditions et formes d'expression transmises oralement, y compris la langue en tant que support du patrimoine culturel immatériel;
+
+2° les arts du spectacle;
+
+3° les usages sociaux, rituels et fêtes;
+
+4° les connaissances et pratiques de la relation à la nature et à l'univers;
+
+5° les connaissances spécifiques relatives aux techniques artisanales traditionnelles.
+
+##### Art. 84
+
+Inscription dans l'inventaire.
+
+L'inscription dans l'inventaire peut avoir lieu sur proposition ou d'office.
+
+Les propositions sont introduites au moyen du formulaire fixé par le Gouvernement. Le Gouvernement organise l'examen technique des propositions et statue, en se basant sur cette estimation, sur l'inscription dans l'inventaire.
+
+### Section 2. - Mesures favorisant la sensibilisation
+
+##### Art. 85
+
+Mesures d'information et de formation.
+
+Le Gouvernement peut mener des campagnes d'information et des mesures de formation afin de susciter et développer auprès du public la compréhension de la valeur qu'a le patrimoine culturel immatériel et des dangers qu'il court.
+
+Le Gouvernement publie des informations relatives au patrimoine culturel immatériel repris dans l'inventaire.
+
+##### Art. 86
+
+Etudes.
+
+Sans préjudice de la section 3 du présent chapitre, le Gouvernement peut soutenir la réalisation d'études scientifiques, techniques et artistiques en vue de protéger efficacement le patrimoine culturel immatériel.
+
+### Section 3. - Soutien accordé au patrimoine culturel immatériel
+
+##### Art. 87
+
+Principes du soutien.
+
+Peuvent être soutenues les mesures visant la conservation du patrimoine culturel immatériel inscrit dans l'inventaire du patrimoine culturel immatériel de la Communauté germanophone.
+
+Par conservation, il faut entendre les mesures qui visent à garantir la viabilité du patrimoine culturel immatériel, en ce compris l'identification, la documentation, la recherche, la préservation, la protection, le soutien, la valorisation, la transmission notamment par la formation formelle et informelle, ainsi que la revitalisation des différents aspects de ce patrimoine.
+
+##### Art. 88
+
+Demande.
+
+§ 1er. La demande est introduite auprès du Gouvernement.
+
+§ 2. La demande est accompagnée :
+
+1° d'une description détaillée de la mesure;
+
+2° d'un état détaillé des recettes et dépenses.
+
+##### Art. 89
+
+Subside.
+
+Après avoir vérifié que les conditions de soutien sont remplies, le Gouvernement peut octroyer le subside pour des mesures visant la conservation du patrimoine culturel immatériel.
+
+Le subside s'élève à 2.500 euros maximum par mesure, les dépenses utiles pouvant être prises en charge à 100 %.
+
+## CHAPITRE 6.1. [<sup>1</sup> - Commission "Art" de la Communauté germanophone]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 29, 003; En vigueur : 14-04-2016&gt;
+
+##### Art. 89.1
+
+[<sup>1</sup> - Création
+
+Il est créé une commission "Art" de la Communauté germanophone. Le Gouvernement en assure le suivi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 29, 003; En vigueur : 14-04-2016&gt;
+
+##### Art. 89.2
+
+[<sup>1</sup> - Missions
+
+Les missions de la commission "Art" sont les suivantes :
+
+1° prodiguer des conseils au Gouvernement pour l'acquisition d'objets d'art et, sur demande, expertiser de tels objets;
+
+2° proposer l'acquisition d'objets d'art.]<sup>1</sup>
+
+[<sup>2</sup> Le Gouvernement fixe les critères d'évaluation en vertu desquels la Commission "Art" remplit ses missions mentionnées au premier alinéa.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 29, 003; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2019-12-12/19, art. 22, 007; En vigueur : 01-01-2020&gt;
+
+##### Art. 89.3
+
+[<sup>1</sup> - Composition
+
+La commission "Art" se compose de trois membres experts au moins et de cinq au plus, désignés par le Gouvernement après un appel aux candidats, et ce, pour une période de quatre ans renouvelable.
+
+Le Gouvernement désigne le président parmi les membres de la commission "Art".
+
+Lorsque le mandat d'un membre prend fin prématurément, un membre nouvellement désigné achève le mandat.
+
+La commission"Art" entamera ses activités en 2017.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 29, 003; En vigueur : 14-04-2016&gt;
+
+##### Art. 89.4
+
+[<sup>1</sup> - Fonctionnement
+
+La commission "Art" se réunit sur invitation du président, selon la nécessité. Les séances se déroulent à huis clos.
+
+Les décisions prises par la commission "Art" font l'objet d'un consensus. La commission ne délibère valablement que si la moitié des membres au moins sont présents. Elle se dote d'un règlement d'ordre intérieur qu'elle soumet à l'approbation du Gouvernement.
+
+Le Gouvernement fixe la procédure en cas de suspicion légitime des membres.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 29, 003; En vigueur : 14-04-2016&gt;
+
+##### Art. 89.5
+
+[<sup>1</sup> - Recommandations
+
+Après chaque séance, la commission "Art" soumet au Gouvernement un rapport contenant des recommandations à propos des acquisitions. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 29, 003; En vigueur : 14-04-2016&gt;
+
+##### Art. 89.6
+
+[<sup>1</sup> - Indemnités
+
+Les membres de la commission "Art" perçoivent des jetons de présence et des indemnités de déplacement conformément aux dispositions fixées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 29, 003; En vigueur : 14-04-2016&gt;
+
+## CHAPITRE 7. - Dispositions applicables à tous les subsides
+
+##### Art. 90
+
+Coefficient.
+
+En vue de les adapter aux crédits budgétaires disponibles et à l'indice des prix à la consommation, le Gouvernement peut multiplier par un coefficient tous les montants prévus dans le présent décret ou certains d'entre eux.
+
+##### Art. 91
+
+Contrôle.
+
+Conformément à l'article 12 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes, le Gouvernement peut en tout temps faire vérifier s'il est satisfait aux dispositions prévues dans ce décret.
+
+##### Art. 92
+
+Récupération de subsides.
+
+Conformément à l'article 13, alinéa 1er, de la loi susvisée du 16 mai 2003, le Gouvernement récupère un subside lorsque :
+
+1° les conditions de subventionnement n'ont pas été remplies;
+
+2° le subside a été utilisé à d'autres fins;
+
+3° le contrôle prévu par le présent décret a été entravé ou empêché.
+
+Conformément à l'article 13, alinéa 2, de la loi susvisée du 16 mai 2003, le bénéficiaire du subside qui ne peut prouver l'utilisation pertinente du subside conformément à l'article 11 de la même loi rembourse la partie non justifiée.
+
+Le Gouvernement récupère proportionnellement le subside liquidé pour l'année courante lorsque le bénéficiaire du subside est dissout ou cesse ses activités culturelles dans le courant de l'année en question.
+
+##### Art. 93
+
+Dispositions modificatives.
+
+Dans l'article 35 du décret du 18 mars 2002 relatif à l'infrastructure, modifié par les décrets des 3 février 2003 et 20 février 2006, les modifications suivantes sont apportées :
+
+1° l'intitulé de l'article est remplacé par les mots "Centres culturels de la Communauté germanophone";
+
+2° dans le premier alinéa, les mots "les centres culturels à caractère régional créés par une commune, une régie communale ou une intercommunale et agréés" sont remplacés par les mots "les centres culturels de la Communauté germanophone au sens du décret du 18 novembre 2013 visant à soutenir la culture en Communauté germanophone qui sont créés par une commune, une régie communale ou une intercommunale";
+
+3° les alinéas 2 et 3 sont abrogés.
+
+## CHAPITRE 7.1. [<sup>1</sup> - Mesures temporaires visant à atténuer les répercussions de la crise du coronavirus]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-12-10/38, art. 25, 008; En vigueur : 10-12-2020&gt;
+
+##### Art. 93.1
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> - Conditions spécifiques de soutien aux centres culturels
+
+Par dérogation à l'article 14, alinéa 1er, 5°, les critères quantitatifs y mentionnés sont [<sup>2</sup> suspendus]<sup>2</sup> pour l'année calendrier 2021 [<sup>3</sup> et réduits d'un tiers pour l'année calendrier 2022]<sup>3</sup>.
+
+[<sup>2</sup> En ce qui concerne les centres culturels soutenus pour la première fois, les années calendrier 2020 et 2021 sont neutralisées pour autant que cela soit favorable à l'introduction de la demande.]<sup>2</sup> [<sup>3</sup> Pour l'année calendrier 2022, les critères quantitatifs mentionnés à l'alinéa 1er sont réduits d'un tiers.]<sup>3</sup>
+
+[<sup>4</sup> Pour les centres culturels, les années calendrier 2020 et 2021 sont neutralisées pour le classement en 2024 en vue de la période de soutien 2025-2029, pour autant que cela soit favorable à l'introduction de la demande. Pour l'année calendrier 2022, les critères quantitatifs mentionnés à l'alinéa 1er sont réduits d'un tiers.]<sup>4</sup>
+
+Si les critères quantitatifs ainsi calculés correspondent à une fraction, celle-ci est arrondie à l'unité supérieure ou inférieure, selon qu'elle atteint ou non 0,5.]<sup>1</sup>
+
+[<sup>2</sup> § 2. - Par dérogation à l'article 14, alinéa 1er, 6°, le critère d'autonomie financière y mentionné est suspendu pour l'année calendrier 2021.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-12-10/38, art. 26, 008; En vigueur : 10-12-2020&gt;
+
+(2)&lt;DCG 2021-04-26/06, art. 35, 009; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DCG 2022-12-15/54, art. 11, 013; En vigueur : 15-12-2022&gt;
+
+(4)&lt;DCG 2023-12-14/58, art. 24, 015; En vigueur : 01-01-2024&gt;
+
+##### Art. 93.2
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> - Conditions spécifiques de soutien pour les organisateurs d'événements culturels
+
+Par dérogation à l'article 16, § 2, les critères quantitatifs y mentionnés sont [<sup>2</sup> suspendus]<sup>2</sup> pour l'année calendrier 2021. [<sup>3</sup> Pour l'année calendrier 2022, les nombres de visiteurs y mentionnés sont réduits d'un tiers.]<sup>3</sup>
+
+[<sup>2</sup> En ce qui concerne les organisateurs d'événements culturels soutenus pour la première fois, les années calendrier 2020 et 2021 sont neutralisées pour autant que cela soit favorable à l'introduction de la demande.]<sup>2</sup> [<sup>3</sup> Pour l'année calendrier 2022, les nombres de visiteurs mentionnés à l'alinéa 1er sont réduits d'un tiers.]<sup>3</sup>
+
+[<sup>4</sup> Pour les organisateurs d'événements culturels, les années calendrier 2020 et 2021 sont neutralisées pour le classement en 2024 en vue de la période de soutien 2025-2029, pour autant que cela soit favorable à l'introduction de la demande. Pour l'année calendrier 2022, les nombres de visiteurs mentionnés à l'alinéa 1er sont réduits d'un tiers.]<sup>4</sup>
+
+Si les critères quantitatifs ainsi calculés correspondent à une fraction, celle-ci est arrondie à l'unité supérieure ou inférieure, selon qu'elle atteint ou non 0,5.]<sup>1</sup>
+
+[<sup>2</sup> § 2. - Par dérogation à l'article 16, § 1er, alinéa 1er, 9°, le critère d'autonomie financière y mentionné est suspendu pour l'année calendrier 2021.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-12-10/38, art. 27, 008; En vigueur : 10-12-2020&gt;
+
+(2)&lt;DCG 2021-04-26/06, art. 36, 009; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DCG 2022-12-15/54, art. 12, 013; En vigueur : 15-12-2022&gt;
+
+(4)&lt;DCG 2023-12-14/58, art. 25, 015; En vigueur : 01-01-2024&gt;
+
+##### Art. 93.3
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> - Conditions spécifiques de soutien pour les producteurs culturels
+
+Par dérogation à l'article 18, § § 2 à 5, les critères quantitatifs y mentionnés sont [<sup>2</sup> suspendus]<sup>2</sup> pour l'année calendrier 2021 [<sup>3</sup> et réduits d'un tiers pour l'année calendrier 2022]<sup>3</sup>.
+
+[<sup>2</sup> En ce qui concerne les producteurs culturels soutenus pour la première fois, les années calendrier 2020 et 2021 sont neutralisées pour autant que cela soit favorable à l'introduction de la demande.]<sup>2</sup> [<sup>3</sup> Pour l'année calendrier 2022, les critères quantitatifs mentionnés à l'alinéa 1er sont réduits d'un tiers.]<sup>3</sup>
+
+[<sup>4</sup> Pour les producteurs culturels, les années calendrier 2020 et 2021 sont neutralisées pour le classement en 2024 en vue de la période de soutien 2025-2029, pour autant que cela soit favorable à l'introduction de la demande. Pour l'année calendrier 2022, les critères quantitatifs mentionnés à l'alinéa 1er sont réduits d'un tiers.]<sup>4</sup>
+
+Si les critères quantitatifs ainsi calculés correspondent à une fraction, celle-ci est arrondie à l'unité supérieure ou inférieure, selon qu'elle atteint ou non 0,5.]<sup>1</sup>
+
+[<sup>2</sup> § 2. - Par dérogation à l'article 18, § 1er, alinéa 1er, 8°, le critère d'autonomie financière y mentionné est suspendu pour l'année calendrier 2021.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-12-10/38, art. 28, 008; En vigueur : 10-12-2020&gt;
+
+(2)&lt;DCG 2021-04-26/06, art. 37, 009; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DCG 2022-12-15/54, art. 13, 013; En vigueur : 15-12-2022&gt;
+
+(4)&lt;DCG 2023-12-14/58, art. 26, 015; En vigueur : 01-01-2024&gt;
+
+##### Art. 93.4
+
+[<sup>1</sup> - Soutien accordé aux sociétés d'art amateur
+
+Par dérogation à l'article 59, une association d'art amateur active dans la discipline "théâtre" reçoit, pour les années calendrier 2020 et 2021, un soutien sur la base des derniers résultats de classement en date, si le classement ne peut avoir lieu en raison des mesures d'urgence prise par l'autorité fédérale en vue de limiter la propagation du coronavirus (COVID-19).
+
+[<sup>2</sup> Par dérogation à l'article 46, une société d'art amateur active dans la discipline artistique "musique" reçoit, pour les années calendrier 2022 et 2023, un soutien sur la base des derniers résultats de classement en date.]<sup>2</sup>
+
+Par dérogation aux articles 52, § 1er, 58, § 1er, et 64, § 1er, les sociétés d'art amateur classées reçoivent, pour l'année calendrier 2021, des subsides forfaitaires correspondant au maximum d'activités culturelles prévues à l'annexe 1re par catégorie de classement, même si ce nombre n'a pas été réellement concrétisé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2020-12-10/38, art. 29, 008; En vigueur : 10-12-2020&gt;
+
+(2)&lt;DCG 2021-12-15/17, art. 33, 011; En vigueur : 15-12-2021&gt;
+
+##### Art. 93.5
+
+[<sup>1</sup> - Classement comme société d'art amateur dans la discipline artistique " danse "
+
+Par dérogation à l'article 54, le Gouvernement publie le prochain appel aux candidats pour le classement comme société d'art amateur dans la discipline artistique " danse " au cours de l'année calendrier 2022.
+
+Sans préjudice de l'article 53, le classement des sociétés d'art amateur dans la discipline artistique " danse " déjà soutenues au 1er janvier 2021 est prolongé d'un an.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-04-26/06, art. 38, 009; En vigueur : 01-01-2021&gt;
+
+##### Art. 93.6
+
+[<sup>1</sup> - Soutien accordé à des projets culturels particuliers
+
+Par dérogation à l'article 23, § 2, alinéas 2 et 3, les délais d'introduction des demandes de soutien relatives à des projets culturels particuliers y mentionnés sont suspendus [<sup>2</sup> pour les années calendrier 2021 et 2022]<sup>2</sup>. [<sup>2</sup> La demande doit cependant être introduite avant le début du projet.]<sup>2</sup>
+
+Par dérogation à l'article 24, alinéa 2, le montant maximum subsidiable y mentionné est suspendu pour l'année calendrier 2021.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-04-26/06, art. 39, 009; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCG 2022-03-28/05, art. 12, 010; En vigueur : 01-01-2022&gt;
+
+##### Art. 93.7
+
+[<sup>1</sup> - Soutien de publications littéraires
+
+Par dérogation à l'article 43.2, § 2, alinéa 2, les délais d'introduction des demandes de soutien de publications littéraires y mentionnés sont suspendus [<sup>2</sup> pour les années calendrier 2021 et 2022 ]<sup>2</sup>.]<sup>1</sup> [<sup>2</sup> La demande doit cependant être introduite avant la publication. ]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-04-26/06, art. 40, 009; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCG 2022-03-28/05, art. 13, 010; En vigueur : 01-01-2022&gt;
+
+##### Art. 93.8
+
+[<sup>1</sup> - Equipement informatique pour les sociétés d'art amateur
+
+Par dérogation à l'article 80, § 2, les sociétés d'art amateur peuvent, pour l'année calendrier 2021, introduire leurs demandes de subsides pour de l'équipement informatique jusqu'au 15 juin auprès du Gouvernement.
+
+Par dérogation à l'article 81, § 1er, le subside s'élève, en ce qui concerne l'équipement informatique mentionné à l'alinéa 1er, à 100 % des dépenses subsidiables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-04-26/06, art. 41, 009; En vigueur : 27-05-2021&gt;
+
+##### Art. 93.9
+
+[<sup>1</sup> - Equipement nécessaire au respect des mesures " Corona ". Par dérogation à l'article 80, § 2, les opérateurs culturels professionnels soutenus et les sociétés d'art amateur peuvent, pour l'année calendrier 2022, introduire à tout moment auprès du Gouvernement leurs demandes de subsides pour de l'équipement nécessaire au respect des mesures d'urgence adoptées par l'autorité fédérale en vue de contenir la propagation du coronavirus (COVID-19) aux fins d'activités culturelles se déroulant dans un cadre organisé. Par dérogation à l'article 81, § 1er, le subside s'élève, en ce qui concerne l'équipement mentionné à l'alinéa 1er, à 100 % des dépenses subsidiables. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2022-03-28/05, art. 14, 010; En vigueur : 01-01-2022&gt;
+
+##### Art. 93.10
+
+[<sup>1</sup> - Classement et soutien comme société d'art amateur dans la discipline artistique "musique"
+
+Par dérogation à l'article 47, le Gouvernement publie le prochain appel aux candidats pour :
+
+1° le classement des sociétés de musique pour l'année calendrier 2023;
+
+2° le classement des ensembles instrumentaux, des ensembles de musique de chambre, des chorales, des ensembles vocaux ainsi que des choeurs d'enfants et de jeunes pour l'année calendrier 2024.
+
+Sans préjudice de l'article 46, le classement des sociétés d'art amateur dans la discipline artistique "musique" déjà soutenues au 1er janvier 2022 est prolongé de deux ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-12-15/17, art. 34, 011; En vigueur : 15-12-2021&gt;
+
+## CHAPITRE 8. - Dispositions finales
+
+##### Art. 94
+
+Dispositions abrogatoires.
+
+Sont abrogés :
+
+1° l'arrêté réglementaire du 4 février 1980 fixant les conditions de subventionnement pour l'achat de matériel d'équipement affecté à l'exercice d'une activité culturelle et ne faisant pas partie d'une infrastructure;
+
+2° le décret du 28 juin 1988 relatif au classement et au subventionnement des associations d'art amateur et des ensembles de musique de chambre;
+
+3° l'arrêté du Gouvernement du 19 décembre 1988 portant exécution du décret du 28 juin 1988 réglant l'agréation et le subventionnement des sociétés d'art amateur;
+
+4° l'arrêté du Gouvernement du 17 mai 1995 relatif à la fixation des règles de subsidiation pour l'achat de matériel d'équipement affecté à l'exercice d'art amateur par des fédérations et associations d'art amateur.
+
+##### Art. 95
+
+Relation avec les prestations antérieures.
+
+Les subsides à liquider en vertu du présent décret remplacent toutes les prestations auxquelles ont droit les bénéficiaires de subsides en vertu de l'ancienne législation abrogée par l'article 94.
+
+Le présent décret ne porte pas préjudice aux prestations déjà liquidées.
+
+##### Art. 96
+
+Dispositions transitoires.
+
+§ 1er. Les sociétés avec lesquelles le Gouvernement a conclu une convention culturelle en 2013 bénéficient d'une période transitoire d'un an à dater du 1er janvier 2014 pour satisfaire, conformément aux articles 16 et 18, aux critères de soutien en tant qu'organisateur d'événements culturels ou de producteur culturel. Pour le 31 mars 2014 au plus tard, les demandeurs introduisent un concept culturel conformément à l'article 9 du présent décret. Pour l'année calendrier de la demande, les demandeurs obtiennent un soutien sur la base du présent décret. La moyenne des activités culturelles menées dans les années calendrier 2010-2012 sert de base pour le calcul.
+
+§ 2. Les centres culturels de la Communauté germanophone qui ont conclu un contrat de gestion avec le Gouvernement introduisent, pour le 31 mars 2014 au plus tard, un concept culturel conformément à l'article 9 du présent décret.
+
+§ 3. Les établissements qui, pour le 31 mars 2014 au plus tard, ont introduit une demande de reconnaissance conformément à l'article 5 du décret du 7 mai 2007 relatif à la promotion des musées et des publications dans le domaine du patrimoine culturel, obtiennent à titre transitoire, pour l'année calendrier 2014, un subside équivalent à celui accordé pour l'année calendrier 2013.
+
+§ 4. En ce qui concerne les centres culturels mentionnés à l'article 13, la condition spécifique de soutien mentionnée à l'article 14, alinéa 1er, 5°, n'est exceptionnellement pas appliquée la première année où ils sont soutenus.
+
+[<sup>1</sup> § 5. [<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'article 54, le Gouvernement publie le prochain appel aux candidats pour le classement comme société d'art amateur dans la discipline artistique "danse" cinq ans après le classement de l'année 2015.]<sup>2</sup>
+
+[<sup>4</sup> § 7 - Par dérogation à l'article 8, les opérateurs culturels professionnels ne peuvent introduire de nouvelle demande de soutien entre 2026 et 2029.
+
+§ 8 - Par dérogation à l'article 40, aucun appel aux candidats n'est publié en 2026 pour la distinction "Artiste de la Belgique de l'Est". Aucun nouvel artiste de la Belgique de l'Est n'est distingué pour la période de soutien 2027-2029.
+
+§ 9 - Par dérogation à l'article 54, aucun appel aux candidats n'est publié entre 2026 et 2029 pour le classement comme société d'art amateur dans la discipline artistique "danse". Les résultats de classement de l'année 2022 sont gelés jusqu'en 2029 inclus.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCG 2018-02-26/08, art. 29, 005; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCG 2018-12-11/11, art. 23,2°, 006; En vigueur : 21-01-2019&gt;
+
+(3)&lt;DCG 2018-12-11/11, art. 23,1°, 006; En vigueur : 01-01-2020&gt;
+
+(4)&lt;DCG 2025-12-22/16, art. 47, 017; En vigueur : 01-01-2026&gt;
+
+##### Art. 97
+
+Entrée en vigueur.
+
+Le présent décret entre en vigueur le 1er janvier 2014.
+
+## ANNEXES.
+
+##### Art. N1
+
+[<sup>1</sup>
+
+<table><tr><td colspan="3"><br>   Sociétés de musique et ensembles instrumentaux (sauf ensembles de musique de chambre) </td></tr><tr><td>Classement </td><td>Nombre de prestations par an (en Communauté germanophone ou en dehors de celle-ci) </td><td>Subside (euros) </td></tr><tr><td>A haute valeur artistique </td><td>5 </td><td>1 000,00 </td></tr><tr><td>Degré supérieur </td><td>4 </td><td>877,00</td></tr><tr><td>Division d'honneur </td><td>3 </td><td>877,00 </td></tr><tr><td>Classe d'excellence </td><td>2 </td><td>877,00 </td></tr><tr><td>1re catégorie </td><td>2 </td><td>627,00 </td></tr><tr><td>2<sup>e</sup> catégorie </td><td>1 </td><td>577,00 </td></tr><tr><td>3<sup>e</sup> catégorie </td><td>1 </td><td>457,00 </td></tr><tr><td colspan="3">Indemnité de déplacement : max. 250 euros pour les trajets en car d'au moins 50 km par prestation</td></tr></table>
+
+<table><tr><td colspan="3"><br>   Choeurs/Ensembles vocaux </td></tr><tr><td>Classement </td><td>Nombre de prestations par an (en Communauté germanophone ou en dehors de celle-ci) </td><td>Subside (euros) </td></tr><tr><td>A haute valeur artistique </td><td>5 </td><td>1 000,00 </td></tr><tr><td>Classe d'excellence </td><td>3 </td><td>743,00 </td></tr><tr><td>1re catégorie </td><td>2 </td><td>593,00 </td></tr><tr><td>2<sup>e</sup> catégorie </td><td>1 </td><td>543,00 </td></tr><tr><td>3<sup>e</sup> catégorie </td><td>1 </td><td>443,00 </td></tr><tr><td colspan="3">Indemnité de déplacement : max. 250 euros pour les trajets en car d'au moins 50 km par prestation</td></tr></table>
+
+<table><tr><td colspan="3"><br>   Choeurs d'enfants et de jeunes</td></tr><tr><td>Classement </td><td>Nombre de prestations par an (en Communauté germanophone ou en dehors de celle-ci) </td><td>Subside (euros) </td></tr><tr><td>Catégorie A </td><td>3 </td><td>500,00 </td></tr><tr><td>catégorie B </td><td>1 </td><td>500,00 </td></tr><tr><td colspan="3">Indemnité de déplacement : max. 250 euros pour les trajets en car d'au moins 50 km par prestation</td></tr></table>
+
+<table><tr><td colspan="3"><br>   Ensembles de musique de chambre Compter au moins 4 et au plus 6 membres actifs en plus du directeur artistique </td></tr><tr><td>Classement </td><td>Nombre de prestations par an (en Communauté germanophone ou en dehors de celle-ci) </td><td>Subside (euros) </td></tr><tr><td>A haute valeur artistique </td><td>5 </td><td>600,00 </td></tr><tr><td>Degré supérieur </td><td>4 </td><td>576,00 </td></tr><tr><td>Division d'honneur </td><td>3 </td><td>576,00 </td></tr><tr><td>Classe d'excellence </td><td>2 </td><td>576,00 </td></tr><tr><td>1re catégorie </td><td>2 </td><td>426,00 </td></tr><tr><td>2<sup>e</sup> catégorie </td><td>1 </td><td>376,00 </td></tr><tr><td>3<sup>e</sup> catégorie </td><td>1 </td><td>296,00 </td></tr><tr><td colspan="3">Indemnité de déplacement : max. 50 euros pour les trajets en car d'au moins 50 km par prestation</td></tr></table>
+
+<table><tr><td colspan="3"><br>   Danse </td></tr><tr><td>Classement </td><td>Nombre de prestations par an (en Communauté germanophone ou en dehors de celle-ci) </td><td>Subside (euros) </td></tr><tr><td>1re catégorie </td><td>3 </td><td>500,00 </td></tr><tr><td>2<sup>e</sup> catégorie </td><td>1 </td><td>500,00 </td></tr><tr><td colspan="3">Indemnité de déplacement : max. 130 euros pour les trajets en car d'au moins 50 km par prestation</td></tr></table>
+
+<table><tr><td colspan="3"><br>   Troupes théâtrales</td></tr><tr><td>Classement</td><td>Nombre de prestations par an (en Communauté germanophone ou en dehors de celle-ci)</td><td>Subside (euros)</td></tr><tr><td>1re catégorie</td><td>2</td><td>[<sup><font>1</font></sup> 1 200,00 ]<sup><font>1</font></sup></td></tr><tr><td>2<sup>e</sup> catégorie</td><td>2</td><td>[<sup><font>1</font></sup> 1 000,00 ]<sup><font>1</font></sup></td></tr><tr><td>3<sup>e</sup> catégorie</td><td>1</td><td>[<sup><font>1</font></sup> 950,00]<sup><font>1</font></sup></td></tr><tr><td colspan="3">Indemnité de déplacement : max. 130 euros pour les trajets en car d'au moins 50 km par prestation</td></tr><tr><td colspan="3">(<font>1</font>)&lt;DCG <a>2022-12-15/54</a>, art. 15, 013; En vigueur : 01-01-2023&gt; </td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2020-12-10/38, art. 30, 008; En vigueur : 10-12-2020&gt;
+
+##### Art. N2
+
+Subside pour les anniversaires de sociétés d'art amateur et folkloriquesà l'exception des sociétés carnavalesques
+
+<table><tr><td>25 ans :</td><td>250 euros</td></tr><tr><td>50 ans :</td><td>500 euros</td></tr><tr><td>75 ans :</td><td>750 euros</td></tr><tr><td>100 ans :</td><td>1.000 euros</td></tr><tr><td>125 ans :</td><td>1.250 euros</td></tr><tr><td>150 ans :</td><td>1.500 euros</td></tr><tr><td>175 ans :</td><td>1.750 euros</td></tr><tr><td>200 ans :</td><td>2.000 euros</td></tr><tr><td>[<sup><font>1</font></sup> 225 ans :</td><td>2 250 euros</td></tr><tr><td>250 ans :</td><td>2 500 euros</td></tr><tr><td>275 ans :</td><td>2 750 euros</td></tr><tr><td>300 ans :</td><td>3 000 euros]<sup><font>1</font></sup></td></tr><tr><td colspan="2">(<font>1</font>)&lt;DCG <a>2025-02-24/04</a>, art. 91, 016; En vigueur : 01-01-2025&gt; </td></tr></table>
+
+Subside pour les sociétés carnavalesques
+
+<table><tr><td>3 x 11 (33 ans) : </td><td>333 euros </td></tr><tr><td>5 x 11 (55 ans) : </td><td>555 euros </td></tr><tr><td>7 x 11 (77 ans) : </td><td>777 euros </td></tr><tr><td>9 x 11 (99 ans) : </td><td>999 euros </td></tr><tr><td>11 x 11 (121 ans) : </td><td>1.210 euros </td></tr><tr><td>13 x 11 (143 ans) : </td><td>1.430 euros </td></tr><tr><td>15 x 11 (165 ans) : </td><td>1.650 euros </td></tr><tr><td>17 x 11 (187 ans) : </td><td>1.870 euros</td></tr></table>
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 18 novembre 2013.
+
+Le Ministre-Président,
+
+Ministre des Pouvoirs locaux,
+
+K.-H. LAMBERTZ
+
+Le Ministre de l'Enseignement, de la Formation et de l'Emploi,
+
+O. PAASCH
+
+La Ministre de la Culture, des Médias et du Tourisme,
+
+Mme I. WEYKMANS
+
+Le Ministre de la Famille, de la Santé et des Affaires sociales,
+
+H. MOLLERS

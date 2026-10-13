@@ -1,0 +1,47 @@
+---
+title: "Décret portant assentiment à l'accord de coopération entre la Communauté française (ONE), la Commission communautaire commune de la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'achat de vaccins destinés à protéger les enfants, les femmes enceintes et les adolescents, fait à Bruxelles le 18 février 2015"
+identifier: "2015203953"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/29/2015203953/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2015-06-29
+published: 2015-09-17
+entry_into_force: 2015-09-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/29/2015203953/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 29 JUIN 2015. - Décret portant assentiment à l'accord de coopération entre la Communauté française (ONE), la Commission communautaire commune de la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'achat de vaccins destinés à protéger les enfants, les femmes enceintes et les adolescents, fait à Bruxelles le 18 février 2015
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. Assentiment est donné à l'accord de coopération entre la Communauté française (ONE), la Commission communautaire commune de la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'achat de vaccins destinés à protéger les enfants, les femmes enceintes et les adolescents, fait à Bruxelles le 18 février 2015.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 29 juin 2015.
+
+O. PAASCH
+
+Le Ministre-Président
+
+Mme I. WEYKMANS
+
+La Vice-Ministre-Présidente, Ministre de la Culture, de l'Emploi et du Tourisme
+
+A. ANTONIADIS
+
+Le Ministre de la Famille, de la Santé et des Affaires sociales
+
+H. MOLLERS
+
+Le Ministre de l'Education et de la Recherche scientifique

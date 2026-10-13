@@ -1,0 +1,49 @@
+---
+title: "Decreet houdende instemming met het Akkoord tussen de Regering van de Republiek Frankrijk en de Regering van het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, gedaan te Parijs op 17 november 2008"
+identifier: "2014204052"
+eli: "https://www.ejustice.just.fgov.be/eli/decreet/2014/05/06/2014204052/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: nl
+date: 2014-05-06
+published: 2014-07-18
+entry_into_force: 2014-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/05/06/2014204052/justel"
+department: "Duitstalige Gemeenschap"
+retrieved: 2026-10-12
+---
+
+# 6 MEI 2014. - Decreet houdende instemming met het Akkoord tussen de Regering van de Republiek Frankrijk en de Regering van het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, gedaan te Parijs op 17 november 2008
+
+Het Parlement van de Duitstalige Gemeenschap heeft aangenomen en Wij, Regering, bekrachtigen hetgeen volgt :
+
+## Art. 1
+
+Enig artikel. Het Akkoord tussen de Regering van de Republiek Frankrijk en de Regering van het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, gedaan te Parijs op 17 november 2008, zal volkomen gevolg hebben.
+
+---
+
+Wij kondigen dit decreet af en bevelen dat het door het Belgisch Staatsblad bekendgemaakt wordt.
+
+Eupen, 6 mei 2014.
+
+De Minister-President,
+
+Minister van Lokale Besturen,
+
+K.-H. LAMBERTZ
+
+De Minister van Onderwijs, Opleiding en Werkgelegenheid,
+
+O. PAASCH
+
+De Minister van Cultuur, Media en Toerisme,
+
+Mevr. I. WEYKMANS
+
+De Minister van Gezin, Gezondheid en Sociale Aangelegenheden,
+
+H. MOLLERS

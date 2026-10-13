@@ -1,0 +1,433 @@
+---
+title: "Décret portant agréation et soutien de points de contact social"
+identifier: "2014204327"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/05/2014204327/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2014-05-05
+published: 2014-07-31
+entry_into_force: 2015-01-01
+last_amended: 2026-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/05/2014204327/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 31-07-2014 et mise à jour au 02-03-2026"
+retrieved: 2026-10-12
+---
+
+# 5 MAI 2014. - Décret portant agréation et soutien de points de contact social
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - DISPOSITIONS GENERALES
+
+### Art. 1er
+
+Définitions
+
+Pour l'application du présent décret, l'on entend par :
+
+1° point de contact social : association ou institution publique agréée dans le cadre du présent décret et qui, par un travail communautaire et un travail social de groupe renforce la cohésion sociale des personnes vivant dans son ressort;
+
+2° cohésion sociale : sentiment d'appartenir à un milieu social né de liens sociaux, de la solidarité et de la participation à des réseaux;
+
+3° travail communautaire : la méthode de travail social qui, partant des ressources et besoins des habitants d'un ressort, poursuit l'objectif d'améliorer les conditions de vie des habitants, notamment des personnes qui ont difficilement accès aux droits mentionnés à l'article 23 de la Constitution, d'élargir leurs possibilités d'action et de les rendre capables de s'organiser;
+
+4° travail social de groupe : la méthode de travail social qui aide l'individu à reconnaître ses fonctions sociales à travers un vécu collectif qui fait sens;
+
+5° ressort : une ou plusieurs communes de la région de langue allemande [<sup>1</sup> ...]<sup>1</sup> de celles-ci dont le point de contact social, par ses offres et ses activités, touche les habitants;
+
+6° organisations partenaires : les prestataires non commerciaux, tant privés que publics, qui contribuent à promouvoir la cohésion sociale et avec lesquels le point de contact social coopère et/ou élabore une offre conjointe;
+
+7° coordinateur : personne qualifiée qui est la personne de contact pour les visiteurs du point de contact et qui fait concorder entre elles les offres et activités du point de contact et assure leur suivi. Si nécessaire, le coordinateur mène lui-même des activités et encadre les collaborateurs bénévoles du point de contact social;
+
+[<sup>1</sup> 8° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données)]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 21, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 2.Objet
+
+Art. 2..
+
+Ce décret règle l'agréation et le soutien d'associations et d'institutions publiques qui, par un travail communautaire et un travail social de groupe, renforcent la cohésion sociale des personnes vivant dans un ressort déterminé.
+
+### Art. 3
+
+Egalité des sexes
+
+[<sup>1</sup> Les qualifications]<sup>1</sup> employées dans le présent décret valent pour [<sup>1</sup> tous les sexes]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 22, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 4
+
+Groupes cibles
+
+Les offres et activités des points de contact social répondent aux besoins des groupes cibles suivants :
+
+1° le groupe cible général : toutes les personnes qui habitent dans le ressort du point de contact social;
+
+2° le groupe cible spécifique : les personnes qui habitent dans le ressort du point de contact social et sont menacées d'exclusion sociale ou sont exclues socialement et n'ont dès lors que difficilement accès aux droits mentionnés à l'article 23 de la Constitution.
+
+### Art. 5
+
+Objectifs généraux et offres
+
+§ 1er - Dans leur travail, les points de contact social agréés ont pour objectif prioritaire la participation de tous à la vie économique, politique, sociale et culturelle et de favoriser l'échange de savoir et d'expérience ainsi que la citoyenneté active.
+
+Cet objectif se subdivise en sous-objectifs, qui sont les suivants :
+
+1° renforcer la diversité dans la société et la cohésion sociale entre les citoyens [<sup>1</sup> et mener des actions de sensibilisation à ce sujet]<sup>1</sup>;
+
+2° prévenir et supprimer l'isolement;
+
+3° rendre tangibles l'estime et la reconnaissance;
+
+4° promouvoir l'autonomie et aider les individus à reconnaître et articuler leurs propres besoins et intérêts;
+
+5° rendre les personnes capables de s'organiser et de se prendre en charge;
+
+[<sup>1</sup> 6° créer un lieu de rencontre intergénérationnel et/ou interculturel;]<sup>1</sup>
+
+[<sup>1</sup> 7° créer des offres de formation sur la base des besoins identifiés;]<sup>1</sup>
+
+[<sup>1</sup> 8° s'impliquer dans des structures locales de coopération et des réseaux;]<sup>1</sup>
+
+[<sup>1</sup> 9° proposer un conseil et une aide journalière en fonction des besoins, surtout en orientant vers les offres proposées par d'autres prestataires]<sup>1</sup>.
+
+§ 2 [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 23, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 6
+
+&lt;Abrogé par DCG 2025-12-22/16, art. 24, 006; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 2. - AGREATION
+
+### Art. 7
+
+Critères d'agréation
+
+§ 1er - Sont agréés conformément au présent décret les points de contact social remplissant les conditions suivantes :
+
+1° être constitué en association sans but lucratif ou avoir un ou plusieurs CPAS comme pouvoir organisateur; Lorsque l'association propose, outre les activités d'un point de contact social, des prestations soutenues en application d'autres textes réglementaires, elle doit procéder à une distinction claire entre ces différentes activités, tant au niveau de ses finances, de ses structures que des contrats de travail, en ce qui concerne le personnel et les moyens financiers mis en oeuvre pour chacune d'elles;
+
+2° définir son ressort à l'intérieur de la région de langue allemande;
+
+3° s'engager à remplir les objectifs fixés à l'article 5;
+
+4° [<sup>3</sup> avoir dressé un état des lieux à l'intérieur de ce ressort dans le cadre des conditions fixées par le Gouvernement. Cet état des lieux comprend l'analyse des besoins des citoyens ainsi que toutes les offres proposées par les prestataires]<sup>3</sup>;
+
+5° [<sup>1</sup> avoir développé]<sup>1</sup> un concept conformément au § 3;
+
+6° disposer d'un coordinateur satisfaisant aux critères mentionnés au § 2;
+
+7° disposer, en région de langue allemande, de l'infrastructure nécessaire pour organiser les aides proposées et les activités [<sup>1</sup> , la sécurité de cette infrastructure étant notamment prouvée par un avis positif en matière de sécurité incendie, établi par le commandant des pompiers compétent;]<sup>1</sup>
+
+8° [<sup>2</sup> faire en sorte d'assurer au rez-de-chaussée l'accessibilité des offres pour les personnes atteintes d'un handicap;]<sup>2</sup>
+
+9° impliquer des bénévoles dans leur travail.
+
+§ 2 - Les coordinateurs occupés dans les points de contact social remplissent les conditions suivantes :
+
+1° [<sup>1</sup> être au moins porteur soit d'un certificat de l'enseignement secondaire supérieur et disposer d'une expérience professionnelle d'au moins trois ans dans le domaine social, soit d'un diplôme de bachelor [<sup>3</sup> ...]<sup>3</sup>;]<sup>1</sup>
+
+2° [<sup>3</sup> présenter un extrait de casier judiciaire, conformément à l'article 596, alinéa 2, du Code d'instruction criminelle, lequel date de moins de deux mois et atteste que ces personnes n'ont aucune inscription au casier judiciaire qui leur interdit d'exercer une activité dans le domaine de l'éducation, de la guidance psycho-médico-sociale, de l'aide à la jeunesse, de la protection des enfants, de l'animation ou de la garde de mineurs d'âge. Si ces personnes sont domiciliées à l'étranger, elles produisent un document équivalent établi par une autorité compétente et permettant l'accès à une activité relevant du domaine de l'éducation, de la guidance psycho-médico-sociale, de l'aide à la jeunesse, de la protection des enfants, de l'animation ou de la garde de mineurs d'âge]<sup>3</sup>;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 3 - En ce qui concerne les objectifs généraux mentionnés à l'article 5, les points de contact social développent un concept sur la base de l'état des lieux [<sup>3</sup> dont il est question au § 1er, 4°]<sup>3</sup>.
+
+Le concept mentionne l'orientation/les lignes directrices du point de contact social ainsi que les objectifs plus larges que le point de contact poursuit à l'intérieur de son ressort et qui orientent le travail concret et les offres proposées.
+
+[<sup>3</sup> ...]<sup>3</sup>.
+
+Le Gouvernement fixe les autres conditions-cadres pour l'élaboration du concept.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 8, 002; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2018-12-11/11, art. 12, 003; En vigueur : 21-01-2019&gt;
+
+(3)&lt;DCG 2025-12-22/16, art. 25, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 8
+
+Obligations pour conserver l'agréation
+
+Pour conserver l'agréation, les points de contact social agréés respectent les obligations mentionnées dans le présent décret, y compris les conditions mentionnées à l'article 7.
+
+Les points de contact social agréés respectent notamment les obligations suivantes :
+
+1° [<sup>2</sup> poursuivre les objectifs visés à l'article 5]<sup>2</sup>;
+
+2° [<sup>2</sup> disposer à tout moment d'une version des documents mentionnés à l'article 7, § 2, 2°, ne datant pas de plus d'un an]<sup>2</sup>;
+
+3° [<sup>2</sup> faire participer chaque collaborateur à titre principal à au moins une formation continue par an]<sup>2</sup>;
+
+4° [<sup>1</sup> disposer d'au moins un demi équivalent temps plein en tant que coordinateur, lequel satisfait aux critères mentionnés à l'article 7, § 2]<sup>1</sup>;
+
+5° présenter en tout temps une comptabilité autonome en ordre permettant un contrôle financier;
+
+6° faire appel à des collaborateurs bénévoles pour exécuter les missions;
+
+7° consigner dans un règlement intérieur les droits et devoirs des collaborateurs bénévoles et favoriser leur participation à des formations continues;
+
+8° conformément à l'article 14, introduire annuellement auprès du Gouvernement, pour le 30 avril au plus tard, un rapport d'activités, un bilan et un compte de résultats pour l'exercice précédent et un budget pour l'exercice suivant.
+
+----------
+
+(1)&lt;DCG 2025-02-24/04, art. 13, 005; En vigueur : 06-06-2025&gt;
+
+(2)&lt;DCG 2025-12-22/16, art. 26, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 9
+
+Procédure d'agréation
+
+§ 1er - Les associations introduisent auprès du Gouvernement, au plus tard pour le 30 juin d'une année, une demande écrite en vue de leur agréation en tant que point de contact social.
+
+Les documents et justificatifs mentionnés à l'article 7 sont annexés à la demande.
+
+§ 2 - Le Gouvernement examine les demandes d'agréation et statue au plus tard pour le 30 octobre de l'année de la demande. A défaut de décision dans le délai imparti, l'agréation est censée être accordée.
+
+L'agréation est octroyée pour une durée indéterminée.
+
+Lorsqu'une ou plusieurs des conditions requises pour l'agréation ne sont pas remplies, le Gouvernement refuse l'agréation ou accorde, par dérogation à l'alinéa 2, une agréation provisoire conditionnelle pour une période limitée de trois ans maximum.
+
+Le Gouvernement fixe les autres modalités.
+
+§ 3 - Les points de contact social agréés peuvent introduire une nouvelle demande d'agréation :
+
+1° lorsque l'agréation, accordée éventuellement pour une durée déterminée, est arrivée à échéance;
+
+2° lorsqu'il est constaté que les données reprises dans l'agréation ne correspondent plus à la réalité ou qu'il est nécessaire, pour d'autres raisons, de modifier les données reprises dans l'agréation.
+
+### Art. 10
+
+Suspension et retrait de l'agréation
+
+Si une ou plusieurs obligations ne sont pas remplies, le Gouvernement invite le point de contact social agréé à se mettre en ordre conformément aux modalités fixées par le Gouvernement.
+
+Si le point de contact social agréé ne remplit toujours pas les obligations après l'invitation mentionnée au premier alinéa, le Gouvernement suspend et/ou retire son agréation.
+
+Le Gouvernement fixe les autres modalités.
+
+## CHAPITRE 3. - SOUTIEN
+
+### Art. 11
+
+[<sup>1</sup> - Subside
+
+§ 1er - Dans les limites des crédits budgétaires disponibles, le Gouvernement octroie aux points de contact social agréés un subside forfaitaire annuel destiné à couvrir les frais de personnel et de fonctionnement pour les prestations prévues dans le présent décret. Ledit subside est augmenté chaque année de 1,25 %.
+
+Sur un territoire communal comptant entre 10 000 et 19 999 habitants, un seul point de contact social agréé peut être subventionné.
+
+Sur un territoire communal comptant au moins 20 000 habitants, jusqu'à deux points de contact social agréés peuvent être subventionnés. Dans ce cas, chacun des deux points de contact social reçoit soit les subsides mentionnés au § 2, soit ceux mentionnés au § 3.
+
+§ 2 - Un point de contact social agréé situé sur un territoire communal de la région de langue allemande comptant au moins 10 000 habitants reçoit un subside de 85 000 euros dans les limites des crédits budgétaires disponibles.
+
+La commune ou le centre public d'action sociale compétent octroie en outre un subside annuel égal à au moins 10 % du subside mentionné à l'alinéa 1er à chaque point de contact social agréé situé sur son territoire communal et subventionné conformément à l'alinéa 1er.
+
+§ 3 - Par dérogation au § 2, alinéa 1er, le Gouvernement peut, dans les limites des crédits budgétaires disponibles, octroyer aux points de contact social agréés situés sur un territoire communal comptant au moins 15 000 habitants, sur demande motivée de la commune ou du centre public d'action sociale concernés, conjointement avec le point de contact social agréé, un subside de 100 000 euros pour des prestations supplémentaires. Le Gouvernement fixe la procédure de demande ainsi que les autres modalités et peut apporter des précisions quant aux prestations supplémentaires acceptables.
+
+Par dérogation au § 2, alinéa 2, la commune ou le centre public d'action sociale compétent octroie en outre un subside annuel égal à au moins 15 % du subside mentionné à l'alinéa 1er aux points de contact social agréés situés sur son territoire communal et subventionnés conformément à l'alinéa 1er.
+
+§ 4 - Sur demande motivée, plusieurs communes ou centres publics d'action sociale peuvent coopérer pour atteindre le nombre d'habitants en question mentionné dans le présent article. A cette fin, les communes ou les centres publics d'action sociale concernés concluent une convention. Le Gouvernement fixe la procédure de demande ainsi que les autres modalités.
+
+Dans ce cas, on entend par territoire communal le territoire de toutes les communes concernées. Pour calculer le nombre d'habitants du territoire communal des communes concernées, il est procédé à la somme du nombre d'habitants de ces communes, fixé conformément au § 5.
+
+Par dérogation au § 2, alinéa 2, et au § 3, alinéa 2, chaque commune concernée ou chaque centre public d'action sociale compétent octroie, en cas de coopération entre plusieurs communes ou centres publics d'action sociale :
+
+1° en outre, un subside annuel égal à au moins 10 % du subside mentionné au § 2, alinéa 1er, à chaque point de contact social agréé situé sur son territoire communal et subventionné conformément au § 2;
+
+2° en outre, un subside annuel égal à au moins 15 % du subside mentionné au § 3, alinéa 1er, à chaque point de contact social agréé situé sur son territoire communal et subventionné conformément au § 3.
+
+§ 5 - Pour fixer le nombre d'habitants du territoire communal, il est tenu compte des chiffres de population constatés par l'Office belge de statistique au 1er janvier de l'année calendrier qui précède l'année de subventionnement.
+
+Les modifications du nombre d'habitants d'un territoire communal ayant pour conséquence un franchissement à la hausse ou à la baisse des seuils mentionnés aux §§ 1er à 3 sont négligées pour l'application du présent article, et ce, jusqu'à ce que le seuil en question soit franchi à la hausse ou à la baisse pendant deux années calendrier consécutives au jour de référence mentionné à l'alinéa 1er.
+
+§ 6 - En vue de les adapter aux crédits budgétaires disponibles et à l'indice des prix à la consommation, le Gouvernement peut multiplier par différents coefficients tous les montants prévus dans le présent article ou certains d'entre eux.
+
+§ 7 - Le subside est liquidé au prorata de la durée d'agréation. Si un point de contact social agréé cesse définitivement son activité ou si l'agréation lui est retirée conformément à l'article 10, alinéa 2, il rembourse le subside au prorata des jours non prestés.
+
+Aux fins de l'obtention du subside, la rémunération du personnel d'un point de contact social agréé répond aux bases de calcul fixées par le Gouvernement en ce qui concerne la subsidiation des frais de personnel dans les secteurs des affaires sociales et de la santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 27, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 12
+
+&lt;Abrogé par DCG 2025-12-22/16, art. 28, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 13
+
+&lt;Abrogé par DCG 2025-12-22/16, art. 29, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 14
+
+Rapport d'activités
+
+Pour pouvoir bénéficier du soutien prévu par le présent chapitre, le point de contact social établit chaque année un rapport d'activités où il évalue les objectifs du concept, tant d'un point de vue qualitatif que quantitatif et adapte, le cas échéant, les actions visées à l'article 5 en fonction des résultats de cette évaluation.
+
+Ce rapport est transmis au Gouvernement au plus tard pour le 30 avril de l'année qui suit celle du soutien.
+
+Il est accompagné d'un bilan et d'un compte de résultats de l'année précédente [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2025-12-22/16, art. 30, 006; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 3.1 [<sup>1</sup> - CONFIDENTIALITE ET PROTECTION DES DONNEES]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 31, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 14.1
+
+[<sup>1</sup> - Confidentialité
+
+Sans préjudice de dispositions légales ou décrétales impératives contraires, le Gouvernement, les points de contact social agréés ainsi que les autres personnes impliquées dans l'exécution du présent décret et de ses dispositions d'exécution sont tenus de traiter confidentiellement les données qui leur sont confiées dans l'exercice de leur mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 32, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 14.2.
+
+[<sup>1</sup> - Traitement des données à caractère personnel
+
+Le Gouvernement et les points de contact social agréés sont, au sens du règlement général sur la protection des données, respectivement responsables du traitement des données à caractère personnel mentionné dans le présent décret. Sont considérés, au sens de l'article 4, 7), du règlement général sur la protection des données, comme responsables de ce traitement :
+
+1° le Gouvernement, en ce qui concerne les missions mentionnées aux chapitres 2 à 4;
+
+2° les points de contact social agréés, en ce qui concerne les missions mentionnées à l'article 5, à l'article 7, § 2, à l'article 8 et à l'article 11.
+
+Le Gouvernement et les points de contact social agréés ne peuvent utiliser les données collectées à d'autres fins que l'exercice de leurs missions légales ou décrétales en lien avec le présent décret.
+
+La collecte et le traitement des données à caractère personnel s'opèrent dans le respect des dispositions légales applicables en matière de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 33, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 14.3.
+
+[<sup>1</sup> - Catégories de données
+
+Le Gouvernement peut, conformément à l'article 14.2, traiter les catégories suivantes de données à caractère personnel relatives au personnel subventionné, aux fins de l'octroi, de la suspension et du retrait de l'agréation, conformément aux articles 7 à 10, et du contrôle des conditions de subventionnement, conformément aux articles 11 et 15 :
+
+1° les données relatives à l'identité et les données de contact, notamment le numéro de registre national ou le numéro d'identification mentionné à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale;
+
+2° les données relatives au diplôme et à la formation;
+
+3° les données relatives à la relation de travail et au salaire;
+
+4° les données judiciaires, mentionnées à l'article 10 du règlement général sur la protection des données, limitées à l'extrait du casier judiciaire.
+
+Les points de contact social agréés peuvent, conformément à l'article 14.2, traiter les catégories suivantes de données à caractère personnel aux fins de la mise en oeuvre des objectifs généraux et des offres conformément à l'article 5, de la demande et du maintien de l'agréation conformément aux articles 7 et 8 ainsi que de la demande de subvention conformément à l'article 11 :
+
+1° en ce qui concerne le personnel subventionné :
+
+a) les données relatives à l'identité et les données de contact;
+
+b) les données relatives au diplôme et à la formation;
+
+c) les données relatives à la relation de travail et au salaire;
+
+d) les données judiciaires, mentionnées à l'article 10 du règlement général sur la protection des données, limitées à l'extrait du casier judiciaire;
+
+2° en ce qui concerne les participants aux offres et aux activités : les données relatives à l'identité et les données de contact.
+
+Le Gouvernement peut préciser les catégories de données mentionnées aux alinéas 1er et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 34, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 14.4.
+
+[<sup>1</sup> - Durée du traitement des données
+
+Les données traitées conformément à l'article 14.3 peuvent être conservées au maximum dix ans à compter de leur collecte, sous une forme qui permet l'identification des personnes concernées.
+
+Sans préjudice des dispositions relatives à l'archivage, elles sont détruites au plus tard au terme de ce délai.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 35, 006; En vigueur : 01-01-2026&gt;
+
+### Art. 14.5.
+
+[<sup>1</sup> - Mesures de sécurité
+
+Le cas échéant, le Gouvernement fixe les mesures de sécurité nécessaires pour le traitement des données à caractère personnel prévu par le présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2025-12-22/16, art. 36, 006; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 4. - DISPOSITIONS RELATIVES AU CONTROLE
+
+### Art. 15
+
+Contrôle
+
+Conformément à l'article 12 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes, le Gouvernement peut - dans le cadre des conditions fixées par lui - faire vérifier en tout temps s'il est satisfait aux dispositions prévues dans ce décret.
+
+## CHAPITRE 5. - DISPOSITIONS FINALES
+
+### Art. 16
+
+Disposition transitoire
+
+§ 1er - [<sup>1</sup> Les points de contact social déjà agréés au 1er janvier 2016 disposent, à partir de cette date, d'un délai de 24 mois pour présenter l'avis de sécurité incendie mentionné à l'article 7, § 1er, 7°. ]<sup>1</sup>
+
+§ 2 - Aux associations qui proposent déjà des prestations d'un centre de contact social au moment de l'entrée en vigueur du présent décret, le Gouvernement peut, sur demande motivée, accorder un délai de transition pour leur permettre de satisfaire, au niveau de l'infrastructure du point de contact social, aux prescriptions fixées à l'article 7, § 1er, 8°, en matière d'aménagement adapté aux personnes handicapées.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 10, 002; En vigueur : 14-04-2016&gt;
+
+### Art. 17
+
+Entrée en vigueur
+
+Le présent décret entre en vigueur le 1er janvier 2015.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen le 5 mai 2014.
+
+Le Ministre-Président,
+
+Ministre des Pouvoirs locaux,
+
+K.-H. LAMBERTZ
+
+Le Ministre de l'Enseignement, de la Formation et de l'Emploi,
+
+O. PAASCH
+
+La Ministre de la Culture, des Médias et du Tourisme,
+
+Mme I. WEYKMANS
+
+Le Ministre de la Famille, de la Santé et des Affaires sociales,
+
+H. MOLLERS

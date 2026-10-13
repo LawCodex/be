@@ -1,0 +1,783 @@
+---
+title: "Décret visant à lutter contre certaines formes de discrimination"
+identifier: "2012202232"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/19/2012202232/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2012-03-19
+published: 2012-06-05
+entry_into_force: 2012-06-15
+last_amended: 2026-05-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/19/2012202232/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 05-06-2012 et mise à jour au 12-05-2026"
+retrieved: 2026-10-12
+---
+
+# 19 MARS 2012. - Décret visant à lutter contre certaines formes de discrimination
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE 1er. - DISPOSITIONS GENERALES
+
+### CHAPITRE 1er. - DISPOSITIONS LIMINAIRES
+
+##### Art. 1er
+
+Ce décret transpose les directives suivantes :
+
+1° la Directive 2000/43/CE du Conseil du 29 juin 2000 relative à la mise en oeuvre du principe de l'égalité de traitement entre les personnes sans distinction de race ou d'origine ethnique;
+
+2° la Directive 2000/78/CE du Conseil du 27 novembre 2000 portant création d'un cadre général en faveur de l'égalité de traitement en matière d'emploi et de travail;
+
+3° la Directive 2004/113/CE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de l'égalité de traitement entre les femmes et les hommes dans l'accès à des biens et services et la fourniture de biens et services;
+
+4° la Directive 2006/54/CE du Parlement européen et du Conseil du 5 juillet 2006 relative à la mise en oeuvre du principe de l'égalité des chances et de l'égalité de traitement entre hommes et femmes en matière d'emploi et de travail (refonte).
+
+[<sup>3</sup> Le présent décret transpose en outre partiellement les directives suivantes :
+
+1\. la Directive (UE) 2019/1158 du Parlement européen et du Conseil du 20 juin 2019 concernant l'équilibre entre vie professionnelle et vie privée des parents et des aidants et abrogeant la directive 2010/18/UE du Conseil;
+
+2\. la Directive (UE) 2024/1499 du Conseil du 7 mai 2024 relative aux normes applicables aux organismes pour l'égalité de traitement dans les domaines de l'égalité de traitement entre les personnes sans distinction de race ou d'origine ethnique, de l'égalité de traitement entre les personnes en matière d'emploi et de travail sans distinction de religion ou de convictions, de handicap, d'âge ou d'orientation sexuelle et de l'égalité de traitement entre les femmes et les hommes en matière de sécurité sociale ainsi que dans l'accès à des biens et services et la fourniture de biens et services, et modifiant les directives 2000/43/CE et 2004/113/CE;
+
+3\. la Directive (UE) 2024/1500 du Parlement européen et du Conseil du 14 mai 2024 relative aux normes applicables aux organismes pour l'égalité de traitement dans le domaine de l'égalité de traitement et de l'égalité des chances entre les femmes et les hommes en matière d'emploi et de travail, et modifiant les directives 2006/54/CE et 2010/41/UE;
+
+4\. la Directive (UE) 2024/1712 du Parlement européen et du Conseil du 13 juin 2024 modifiant la directive 2011/36/UE concernant la prévention de la traite des êtres humains et la lutte contre ce phénomène ainsi que la protection des victimes]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 72, 002; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2023-06-26/12, art. 169, 003; En vigueur : 01-07-2023&gt;
+
+(3)&lt;DCG 2026-04-27/07, art. 1, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 2
+
+Le présent décret vise à créer, pour les matières mentionnées à l'article 4, un cadre général de lutte contre la discrimination basée sur :
+
+1° la nationalité, une prétendue race, la couleur de peau, l'ascendance ou encore l'origine nationale ou ethnique;
+
+2° l'âge, l'orientation sexuelle, la conviction religieuse ou philosophique, un handicap;
+
+3° le sexe et des critères apparentés tels que la grossesse, l'accouchement et la maternité, [<sup>1</sup> la parentalité]<sup>1</sup> ou encore le transsexualisme;
+
+4° l'état civil, la naissance, la fortune, les idées politiques, la conviction syndicale, la langue, l'état de santé actuel ou futur, une caractéristique physique ou génétique ou encore l'origine sociale.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 73, 002; En vigueur : 14-04-2016&gt;
+
+### CHAPITRE 2. - DEFINITIONS
+
+##### Art. 3
+
+Pour l'application du présent décret, on entend par :
+
+1° critères protégés : la nationalité, une prétendue race, la couleur de peau, l'ascendance, l'origine nationale ou ethnique, l'âge, l'orientation sexuelle, la conviction religieuse ou philosophique, un handicap, le sexe et des critères apparentés tels que la grossesse, la naissance et la maternité, [<sup>1</sup> la parentalité]<sup>1</sup> ou le transsexualisme, l'état civil, la naissance, la fortune, la conviction politique, la conviction syndicale, la langue, l'état de santé actuel ou futur, une caractéristique physique ou génétique ou encore l'origine sociale;
+
+2° distinction directe : la situation qui se produit lorsque, sur la base d'au moins un des critères protégés, une personne est traitée de manière moins favorable qu'une autre personne ne l'est, ne l'a été ou ne le serait dans une situation comparable;
+
+3° discrimination directe : une distinction directe, sauf dans les cas mentionnés au titre 2, chapitre 2, justifiant objectivement cette distinction par un but légitime et où les moyens pour parvenir à ce but sont appropriés et nécessaires;
+
+4° distinction indirecte : la situation qui se produit lorsqu'une disposition, un critère ou une pratique apparemment neutre est susceptible d'entraîner, par rapport à d'autres personnes, un désavantage particulier pour des personnes caractérisées par l'un des critères protégés;
+
+5° discrimination indirecte : une distinction indirecte, à moins que la disposition, le critère ou la pratique soient objectivement justifiés par un objectif légitime et que les moyens de réaliser cet objectif soient appropriés et nécessaires;
+
+6° harcèlement : le comportement indésirable qui est lié à au moins un des critères protégés et qui a pour objet ou pour effet de porter atteinte à la dignité de la personne concernée et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;
+
+7° harcèlement sexuel : le comportement non désiré à connotation sexuelle, s'exprimant physiquement, verbalement ou non verbalement et qui a pour objet ou pour effet de porter atteinte à la dignité d'une personne et, en particulier, de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant;
+
+8° injonction de discriminer : tout comportement consistant à enjoindre à quiconque de pratiquer une discrimination, sur la base d'au moins un des critères protégés, à l'encontre d'une personne, d'un groupe, d'une communauté ou de l'un de leurs membres;
+
+9° aménagements raisonnables : les mesures appropriées, prises en fonction des besoins dans une situation concrète, pour permettre à une personne handicapée d'accéder, de participer et de progresser dans les domaines pour lesquels le présent décret est d'application, sauf si ces mesures imposent à l'égard de la personne qui doit les adopter une charge disproportionnée. Cette charge n'est pas disproportionnée lorsqu'elle est compensée de façon suffisante par des mesures existant dans le cadre de la politique des handicapés menée par les pouvoirs publics;
+
+10° dispositions : toutes les dispositions légales et réglementaires, les conventions individuelles ou collectives de travail et les règlements de travail, ainsi que les clauses figurant dans des documents établis de manière unilatérale;
+
+11° relations de travail : les relations de travail pour lesquelles la Communauté germanophone de par
+
+\- les organismes visés à l'article 9, alinéa 2, de la loi spéciale du 8 août 1980 de réformes institutionnelles, article applicable à la Communauté germanophone en vertu de l'article 5, § 1er, de la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone;
+
+\- les établissements d'enseignement de tout type, de tout niveau et de tout réseau en Communauté germanophone, visés à l'article 24, § 4, de la Constitution;
+
+\- les services visés à l'article 87, § 1er, de la loi spéciale du 8 août 1980 de réformes institutionnelles, article applicable à la Communauté germanophone en vertu de l'article 54 de la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone;
+
+est compétente, tant en ce qui concerne l'accès à l'emploi, que la promotion, les conditions de travail, la rémunération et la cessation des relations de travail;
+
+12° enseignement : l'enseignement organisé en Communauté germanophone en vertu de l'article 130, § 1er, 3°, de la Constitution;
+
+13° emploi : la politique de l'emploi menée par la Communauté germanophone en vertu de l'article 6, § 1er, IX, de la loi spéciale du 8 août 1980 de réformes institutionnelles;
+
+14° matières culturelles : la politique menée par la Communauté germanophone en vertu de l'article 4, § 1er, de la la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone;
+
+15° matières personnalisables : la politique menée par la Communauté germanophone en vertu de l'article 4, § 2, de la la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone;
+
+16° avantages sociaux : les avantages sociaux au sens de l'article 7, § 2, du règlement 492/2011 du Parlement et du Conseil du 5 avril 2011 relatif à la libre circulation des travailleurs à l'intérieur de l'Union;
+
+17° biens : les biens et marchandises au sens des dispositions du Traité instituant la Communauté européenne relatives à la libre circulation des biens et des marchandises ainsi qu'au sens du Traité sur le fonctionnement de l'Union européenne;
+
+18° services : les services d'intérêt général y compris les services au sens de l'article 57 du Traité sur le fonctionnement de l'Union européenne;
+
+19° [<sup>2</sup> organisme pour l'égalité de traitement : l'organisme ou les organismes indépendants chargés de promouvoir l'égalité de traitement, tels que mentionnés à l'article 12]<sup>2</sup>;
+
+[<sup>2</sup> 20° discrimination intersectionnelle : la situation qui se produit lorsqu'une personne subit une discrimination suite à une distinction fondée sur plusieurs critères protégés qui interagissent et deviennent indissociables]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 74, 002; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2026-04-27/07, art. 2, 006; En vigueur : 15-06-2026&gt;
+
+### CHAPITRE 3. - CHAMP D'APPLICATION GENERAL
+
+##### Art. 4
+
+Le présent décret s'applique, dans chacun des domaines mentionnés ci-après, dans la mesure où ces domaines se rattachent à l'aire de compétence matérielle et territoriale de la Communauté germanophone, à toutes les personnes, tant dans le secteur public que dans le secteur privé, y compris aux organismes publics :
+
+1° les relations de travail;
+
+2° l'enseignement;
+
+3° l'emploi;
+
+4° les matières culturelles;
+
+5° les matières personnalisables;
+
+6° les avantages sociaux;
+
+7° l'accès aux biens et services qui sont à la disposition du public, [<sup>1</sup> en ce compris les logements, ]<sup>1</sup> ainsi que leur fourniture.
+
+----------
+
+(1)&lt;DCG 2025-02-24/04, art. 205, 005; En vigueur : 24-02-2025&gt;
+
+## TITRE 2. - PRINCIPE DE L'EGALITE DE TRAITEMENT
+
+### CHAPITRE 1er. - INTERDICTION DE DISCRIMINATION
+
+##### Art. 5
+
+Toute forme de discrimination basée sur au moins un des critères protégés est interdite.
+
+Par discrimination, l'on entend :
+
+1° la discrimination directe;
+
+2° la discrimination indirecte;
+
+3° le harcèlement et le harcèlement sexuel;
+
+4° l'injonction de discriminer;
+
+5° le refus de mettre en place des aménagements raisonnables en faveur d'une personne handicapée.
+
+Pour un même travail ou pour un travail auquel est attribuée une valeur égale, la discrimination directe ou indirecte fondée sur le sexe est éliminée dans l'ensemble des éléments et conditions de rémunération. En particulier, lorsqu'un système de classification professionnelle est utilisé pour la détermination des rémunérations, ce système est fondé sur des critères communs aux travailleurs masculins et féminins et est établi de manière à exclure les discriminations fondées sur le sexe.
+
+Toute distinction directe fondée sur au moins un des critères protégés constitue une discrimination directe, à moins qu'elle ne soit objectivement justifiée par un but légitime et que les moyens pour parvenir à ce but soient appropriés et nécessaires.
+
+Toute distinction indirecte fondée sur au moins un des critères protégés constitue une discrimination indirecte, à moins :
+
+1° que les dispositions, critères ou pratiques apparemment neutres qui sont au fondement de cette distinction indirecte ne soient objectivement justifiés par un objectif légitime et que les moyens de réaliser cet objectif ne soient appropriés et nécessaires, ou
+
+2° qu'il ne soit démontré, en cas de distinction indirecte fondée sur un handicap, qu'aucun aménagement raisonnable ne puisse être mis en place.
+
+### CHAPITRE 2. - DISPOSITIONS PARTICULIERES
+
+#### Section 1re. - Emploi
+
+##### Art. 6
+
+Toute distinction directe fondée sur au moins un des critères protégés constitue une discrimination directe, à moins qu'elle ne soit justifiée par une exigence professionnelle essentielle et déterminante.
+
+Il s'agit d'une exigence professionnelle essentielle et déterminante lorsque, en raison de la nature des activités professionnelles particulières concernées ou du cadre dans lequel elles se déroulent, une telle caractéristique constitue une exigence professionnelle essentielle et déterminante, pour autant que son objectif soit légitime et que l'exigence soit proportionnée.
+
+##### Art. 7
+
+Par dérogation à l'article 6, une distinction directe basée sur des principes religieux ou des conceptions philosophiques ne constitue pas une discrimination, ni dans le cas où les activités des organisations publiques ou privées dont l'éthique repose sur des principes religieux ou des convictions philosophiques ni en raison des activités professionnelles ou circonstances de leur exercice lorsque les principes religieux ou convictions philosophiques constituent une exigence professionnelle essentielle, légitime et justifiée en raison de l'éthique de l'organisation.
+
+##### Art. 8
+
+Par dérogation à l'article 6, une distinction directe basée sur l'âge ne constitue pas une discrimination lorsque cette distinction est objectivement et raisonnablement justifiée par un but légitime, notamment un but légitime en matière de politique de l'emploi, de la politique du marché du travail ainsi que tout but comparable, et que les moyens pour parvenir à ce but sont appropriés et nécessaires.
+
+##### Art. 9
+
+[<sup>1</sup> Au terme du congé de maternité, du congé de naissance, du congé parental, du congé d'adoption ou d'un autre congé dans le cadre de devoirs familiaux, un travailleur a le droit d'exercer]<sup>1</sup> ses anciennes activités ou des activités similaires à des conditions aussi favorables et d'obtenir toutes les améliorations des conditions de travail auxquelles il aurait eu droit pendant son absence.
+
+----------
+
+(1)&lt;DCG 2023-06-26/12, art. 170, 003; En vigueur : 01-07-2023&gt;
+
+#### Section 2. - Accès aux biens et services et fourniture de biens et services
+
+##### Art. 10
+
+L'accès aux biens et services ainsi que la fourniture de biens et services peuvent essentiellement être destinés aux membres d'un sexe lorsque cette distinction est justifiée par un but légitime et que les moyens de parvenir à ce but sont appropriés et nécessaires.
+
+### CHAPITRE 3. - ACTIONS POSITIVES
+
+##### Art. 11
+
+La Communauté germanophone peut adopter ou maintenir des actions positives.
+
+Une distinction directe ou indirecte fondée sur au moins un des critères protégés ne s'analyse pas en une quelconque forme de discrimination, lorsque cette distinction directe ou indirecte consiste en une action positive.
+
+Une action positive ne peut être mise en oeuvre que moyennant le respect des conditions suivantes :
+
+1° il doit exister une inégalité manifeste;
+
+2° la disparition de cette inégalité doit être désignée comme un but à promouvoir;
+
+3° l'action positive doit être temporaire, étant de nature à disparaître dès que le but visé est atteint;
+
+4° l'action positive ne doit pas restreindre inutilement les droits d'autrui.
+
+Dans le respect des conditions fixées à l'alinéa précédent, le Gouvernement détermine les hypothèses et les conditions dans lesquelles une action positive peut être mise en oeuvre.
+
+### CHAPITRE 4. - ORGANISMES DE PROMOTION DE L'EGALITE DE TRAITEMENT
+
+##### Art. 12
+
+[<sup>1</sup> § 1.]<sup>1</sup> Le Gouvernement désigne un ou plusieurs [<sup>1</sup> organismes pour l'égalité de traitement]<sup>1</sup> ayant pour mission de promouvoir la concrétisation de l'égalité de traitement.
+
+L'[<sup>1</sup> organisme pour l'égalité de traitement]<sup>1</sup> est compétent pour :
+
+1° soutenir les victimes de discrimination en leur communiquant leurs droits et devoirs et en les accompagnant lors de procédures de recours contre des discriminations;
+
+2° rédiger des rapports, mener des enquêtes et [<sup>1</sup> , formuler des recommandations et émettre des avis]<sup>1</sup> sur toutes les questions liées à la discrimination.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> § 2 - Au sens du § 1er, alinéa 2, 2°, le Gouvernement sollicite l'avis de l'organisme pour l'égalité de traitement pour tout avant-projet de décret qui modifie le présent décret. L'organisme pour l'égalité de traitement rend son avis dans un délai de soixante jours à compter de la réception de la demande, à moins qu'un délai plus court n'ait été convenu pour rendre ledit avis.
+
+Par dérogation à l'alinéa 1er, l'organisme pour l'égalité de traitement peut refuser de rendre un avis. Dans ce cas, il informe le Gouvernement de son refus dans un délai raisonnable.
+
+Sans préjudice de l'alinéa 1er, le Gouvernement peut en outre solliciter, entre autres, l'avis de l'organisme pour l'égalité de traitement :
+
+1\. sur tout avant-projet de décret ou d'arrêté ayant une incidence directe ou indirecte, réelle ou potentielle, sur l'application des droits prévus par le présent décret;
+
+2\. en ce qui concerne l'élaboration, la mise en oeuvre ou l'évaluation de plans ou programmes d'action visant à renforcer l'application des droits prévus par le présent décret.
+
+L'organisme pour l'égalité de traitement peut refuser de rendre l'avis mentionné à l'alinéa 3. Dans ce cas, il informe le Gouvernement de son refus dans un délai raisonnable.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2026-04-27/07, art. 3, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 12.1
+
+[<sup>1</sup> - Sans préjudice des attributions des officiers de police judiciaire, du procureur du Roi et des juges d'instruction, l'organisme pour l'égalité de traitement peut, dans le cadre de ses compétences matérielles et de sa propre initiative ou à la suite d'un signalement, recueillir les éléments de preuve nécessaires pour déterminer s'il y a eu violation des dispositions du présent décret, à l'exception du titre 4, ainsi que de ses dispositions d'exécution.
+
+Afin de constater une violation conformément à l'alinéa 1er, l'organisme pour l'égalité de traitement est habilité à obtenir auprès de toute personne physique ou morale toutes les informations et tous les documents nécessaires et à en faire des copies. Sans préjudice d'autres dispositions légales, décrétales ou réglementaires qui fixent des règles en la matière, le caractère secret ou confidentiel des informations et des documents ne peut être opposé à l'organisme pour l'égalité de traitement.
+
+L'organisme pour l'égalité de traitement peut fixer un délai contraignant pour ce qui est de la réponse aux demandes formulées sur la base du présent article.
+
+L'exercice des pouvoirs visés au présent article ne peut être ni entamé ni poursuivi si une action en justice portant sur le même objet a été introduite conformément à l'article 23. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2026-04-27/07, art. 4, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 12.2
+
+[<sup>1</sup> - § 1er - L'organisme pour l'égalité de traitement offre en outre des possibilités de règlement extrajudiciaire des litiges.
+
+Toute victime présumée de discrimination peut introduire auprès de l'organisme pour l'égalité de traitement une demande de règlement extrajudiciaire du litige.
+
+L'organisme pour l'égalité de traitement fixe les autres conditions et modalités concernant la procédure de règlement extrajudiciaire des litiges.
+
+§ 2 - L'organisme pour l'égalité de traitement rejette une demande de règlement extrajudiciaire de litige notamment lorsque l'une des conditions suivantes est remplie :
+
+1\. la demande semble manifestement infondée, téméraire ou vexatoire;
+
+2\. la demande ne relève pas de sa compétence;
+
+3\. le litige a déjà fait l'objet d'une procédure civile ou pénale, ou une telle procédure est en cours.
+
+En cas de rejet, l'organisme pour l'égalité de traitement motive expressément sa décision. L'organisme pour l'égalité de traitement informe les parties par écrit et dans un délai raisonnable dudit rejet et des motifs de celui-ci.
+
+§ 3 - Les délais de prescription d'action en justice sont suspendus à compter de la date d'introduction de la demande mentionnée au § 1er, alinéa 2.
+
+La suspension des délais de prescription s'applique jusqu'à la survenance de l'une des situations suivantes :
+
+1\. l'organisme pour l'égalité de traitement informe les parties par écrit du rejet de la demande de règlement extrajudiciaire du litige et des motifs sous-jacents;
+
+2\. l'organisme pour l'égalité de traitement communique par écrit aux parties l'issue du règlement extrajudiciaire du litige;
+
+3\. l'une des parties informe les autres parties par écrit qu'elle ne souhaite plus participer à la procédure.
+
+L'organisme pour l'égalité de traitement informe la partie adverse, dans un délai raisonnable, de la demande de règlement extrajudiciaire du litige et de la suspension du délai de prescription qui en résulte.
+
+§ 4 - Dans le cadre de la procédure de règlement extrajudiciaire des litiges, l'organisme pour l'égalité de traitement est habilité à conclure des accords transactionnels avec les parties concernées.
+
+§ 5 - Les informations recueillies dans le cadre de la procédure de règlement extrajudiciaire des litiges sont confidentielles, à moins que l'ensemble des parties ne consente expressément à leur transmission et à leur réutilisation, ou à l'une de ces mesures.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2026-04-27/07, art. 5, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 12.3
+
+[<sup>1</sup> - § 1er - L'organisme pour l'égalité de traitement peut agir en justice en ce qui concerne les litiges nés de l'application du décret.
+
+Le droit d'agir dans le cadre d'une procédure juridictionnelle comprend au moins l'un des droits suivants :
+
+1\. le droit d'engager une procédure juridictionnelle au nom d'une ou de plusieurs victimes;
+
+2\. le droit de participer à une procédure juridictionnelle à l'appui d'une ou de plusieurs victimes;
+
+3\. le droit d'engager une procédure juridictionnelle en son nom propre, afin de défendre l'intérêt public.
+
+§ 2 - Le droit de l'organisme pour l'égalité de traitement d'agir dans le cadre d'une procédure juridictionnelle comprend en outre le droit de présenter des observations à la juridiction. L'organisme pour l'égalité de traitement peut, de sa propre initiative ou à la demande de la juridiction saisie, présenter, dans les délais fixés par celle-ci, des observations écrites sur les litiges nés de l'application du décret. L'organisme pour l'égalité de traitement décide de manière autonome s'il est opportun de présenter ces observations et motive sa décision.
+
+Par dérogation à l'alinéa 1er, l'organisme pour l'égalité de traitement peut également présenter des observations orales, avec l'autorisation de la juridiction saisie.
+
+L'organisme pour l'égalité de traitement peut demander à la juridiction saisie de lui transmettre ou de lui faire transmettre tous les documents nécessaires à la formulation de ses observations.
+
+La juridiction saisie porte lesdites observations à la connaissance des parties. Les parties ont la possibilité d'y répondre.
+
+La juridiction saisie n'est pas liée par les observations de l'organisme pour l'égalité de traitement.
+
+§ 3 - La présentation d'observations par l'organisme pour l'égalité de traitement conformément au § 2 est incompatible avec l'exercice des droits prévus au § 1er, alinéa 2, pour le litige en question.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2026-04-27/07, art. 6, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 13
+
+Les associations ou organisations suivantes peuvent également ester en justice dans les litiges auxquels l'application du présent décret donnerait lieu, s'il est porté préjudice à leurs missions statutaires :
+
+1° les organismes d'utilité publique/d'intérêt public et les associations qui, au moment de la discrimination, jouissent de la personnalité juridique et se sont fixé comme objet statutaire de défendre les droits de l'homme et de combattre la discrimination;
+
+2° les organisations représentatives des employeurs et des travailleurs telles que définies à l'article 3 de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, et les organisations interprofessionnelles d'employeurs ayant leur siège en Communauté germanophone;
+
+3° les organisations représentatives au sens de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.
+
+##### Art. 14
+
+Lorsque la victime de la discrimination est une personne physique ou une personne morale identifiée, l'action de l'[<sup>1</sup> organisme pour l'égalité de traitement ]<sup>1</sup> et des associations ou organisations visées à l'article 13 ne sera recevable que s'ils prouvent avoir reçu l'accord de la victime.
+
+----------
+
+(1)&lt;DCG 2026-04-27/07, art. 7, 006; En vigueur : 15-06-2026&gt;
+
+### CHAPITRE 5. [<sup>1</sup> - Mesures de sensibilisation, de prévention et de promotion]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2026-04-27/07, art. 8, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 14.1
+
+[<sup>1</sup> - Le Gouvernement prend des mesures visant à sensibiliser la population en général aux droits mentionnés dans le présent décret ainsi qu'à l'existence d'organismes pour l'égalité de traitement et aux services proposés par ces derniers. Cette sensibilisation est effectuée en tenant compte tout particulièrement des personnes et des groupes exposés à un risque de discrimination.
+
+Les organismes pour l'égalité de traitement sont habilités à mener des activités visant à prévenir la discrimination et à promouvoir l'égalité de traitement au sens du présent décret. Dans l'exercice de ces activités, les organismes pour l'égalité de traitement peuvent prendre en considération des situations spécifiques de désavantage résultant d'une discrimination intersectionnelle.
+
+Le Gouvernement et les organismes pour l'égalité de traitement envisagent des outils et des formes de communication adaptés à chaque groupe cible. Ils se concentrent en particulier sur les groupes dont l'accès à l'information est susceptible d'être entravé, par exemple en raison de leur statut économique précaire, de leur âge, de leur handicap, de leur niveau d'alphabétisation, de leur nationalité, de leur statut de séjour ou de leur manque d'accès aux outils en ligne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2026-04-27/07, art. 9, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 14.2
+
+[<sup>1</sup> - Le Gouvernement prend en outre, dans le cadre de ses compétences matérielles, les mesures décrites ci-après aux fins de prévenir la traite des êtres humains :
+
+1\. des mesures appropriées, en tenant compte des différentes formes d'exploitation, pour décourager et réduire la demande qui favorise toutes les formes d'exploitation, en particulier celles liées à la traite des êtres humains;
+
+2\. des actions appropriées, en tenant compte des questions d'égalité entre hommes et femmes et du meilleur intérêt de l'enfant, afin de sensibiliser les personnes, en particulier les enfants et les personnes en situation de handicap, et de réduire le risque qu'elles deviennent victimes de la traite des êtres humains.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2026-04-27/07, art. 10, 006; En vigueur : 15-06-2026&gt;
+
+## TITRE 3. - CONTROLE ET SANCTIONS
+
+### CHAPITRE 1er. - CHARGE DE LA PREUVE
+
+##### Art. 15
+
+Les dispositions du présent chapitre sont applicables à toutes les procédures juridictionnelles, à l'exception des procédures pénales.
+
+##### Art. 16
+
+Lorsqu'une personne qui s'estime victime d'une discrimination, l'[<sup>1</sup> organisme pour l'égalité de traitement ]<sup>1</sup> ou les associations ou organisations visées à l'article 13 invoquent devant la juridiction compétente des faits qui permettent de présumer l'existence d'une discrimination fondée sur au moins un des critères protégés, il incombe au défendeur de prouver qu'il n'y a pas eu de discrimination.
+
+Par faits qui permettent de présumer l'existence d'une discrimination directe fondée sur un critère protégé, sont compris, entre autres, mais pas exclusivement :
+
+1° les éléments qui révèlent une certaine récurrence de traitement défavorable à l'égard de personnes partageant un critère protégé; entre autres, différents signalements isolés faits auprès de l'[<sup>1</sup> organisme pour l'égalité de traitement ]<sup>1</sup> ou l'une des associations ou organisations visées à l'article 13 ou
+
+2° les éléments qui révèlent que la situation de la victime du traitement plus défavorable est comparable avec la situation de la personne de référence.
+
+Par faits qui permettent de présumer l'existence d'une discrimination indirecte fondée sur un critère protégé, sont compris, entre autres, mais pas exclusivement :
+
+1° des statistiques générales concernant la situation du groupe dont la victime de la discrimination fait partie ou des faits de connaissance générale ou
+
+2° l'utilisation d'un critère de distinction intrinsèquement suspect ou
+
+3° du matériel statistique élémentaire qui révèle un traitement défavorable ou
+
+4° des faits de connaissance générale.
+
+----------
+
+(1)&lt;DCG 2026-04-27/07, art. 11, 006; En vigueur : 15-06-2026&gt;
+
+### CHAPITRE 2. - PROTECTION JURIDIQUE
+
+##### Art. 17
+
+Sont nulles les dispositions qui sont contraires au présent décret, ainsi que les clauses contractuelles qui prévoient qu'un ou plusieurs contractants renoncent aux droits garantis par le présent décret.
+
+##### Art. 18
+
+[<sup>1</sup> § 1er - Lorsqu'un signalement est fait ou une plainte ou une action en justice est introduite par une personne concernée par une violation alléguée des dispositions du présent décret survenue dans un autre domaine que celui des relations de travail, aucune mesure préjudiciable ne peut être prise à l'encontre de ladite personne pour des motifs liés au signalement, à la plainte ou à l'action en justice, ou à leur contenu.
+
+La protection visée par le présent article ne s'applique pas en cas d'usage abusif des procédures. Cet abus peut donner lieu au paiement de dommages et intérêts.
+
+§ 2 - Au sens du § 1er, il faut entendre par "signalement, plainte ou action en justice" :
+
+1° un signalement fait ou une plainte introduite auprès de l'organisation ou de l'institution responsable de la violation alléguée;
+
+2° un signalement ou une dénonciation fait ou une plainte introduite auprès des inspecteurs chargés de la surveillance;
+
+3° un signalement fait ou une plainte introduite auprès d'un service chargé de la surveillance des actes et du fonctionnement des autorités administratives ou des instances administratives ou qui intervient afin de régler les litiges de façon extrajudiciaire;
+
+4° un signalement fait ou une plainte introduite auprès de l'[<sup>2</sup> organisme pour l'égalité de traitement]<sup>2</sup>;
+
+5° une déclaration introduite auprès des services de police, une plainte avec constitution de partie civile déposée auprès du juge d'instruction ou une notification au Procureur du Roi;
+
+6° une action en justice introduite par la personne concernée par la violation alléguée;
+
+7° une action en justice introduite au bénéfice de la personne concernée par la violation alléguée par l'[<sup>2</sup> organisme pour l'égalité de traitement]<sup>2</sup> ou par les associations ou organisations visées à l'article 13;
+
+8° une action en justice introduite par l'[<sup>2</sup> organisme pour l'égalité de traitement]<sup>2</sup> ou par les associations ou organisations visées à l'article 13, en leur nom propre et avec l'accord de la personne concernée par la violation alléguée.
+
+§ 3 - Afin de bénéficier de la protection visée au § 1er, la personne concernée par la violation alléguée démontre qu'un signalement a été fait ou qu'une plainte a été introduite ou qu'une action en justice a été intentée en raison d'une violation des dispositions du présent décret. Cette preuve peut être apportée par toute voie de droit.
+
+Lorsqu'une mesure préjudiciable est prise par une personne à l'encontre de la personne concernée par la violation alléguée dans les douze mois après avoir eu connaissance du signalement ou de la plainte ou après avoir pu raisonnablement avoir eu connaissance de ces démarches, il incombe à la personne qui a pris la mesure préjudiciable de démontrer que celle-ci n'est pas liée au signalement ou à la plainte, ou à leur contenu.
+
+Cette charge de la preuve incombe également à la personne contre qui l'action en justice est intentée lorsque la mesure préjudiciable est intervenue après que l'action en justice a été intentée, et ce, jusqu'à trois mois suivant le jour où la décision judiciaire est passée en force de chose jugée.
+
+§ 4 - Lorsqu'il a été jugé qu'une mesure préjudiciable a été adoptée en contravention au § 1er, la personne qui a pris la mesure verse à la personne concernée par la violation alléguée une indemnisation dont le montant correspond, au choix de cette personne, soit à une indemnisation forfaitaire calculée de la même façon que l'indemnisation visée à l'article 20, § 2, soit au dommage que ladite personne a réellement subi. Dans ce dernier cas, il appartient à la personne concernée de prouver l'étendue du préjudice qu'elle a subi.
+
+L'indemnisation mentionnée dans le présent paragraphe peut être cumulée avec l'indemnisation pour discrimination prévue à l'article 20, § 2.
+
+§ 5 - La protection visée dans le présent article est également d'application aux personnes qui interviennent comme témoin ou ont fait un signalement ou ont introduit une plainte, au bénéfice de la personne concernée par la violation alléguée, et aux personnes qui donnent des conseils ou apportent aide ou assistance à cette personne, ainsi qu'à toute personne qui invoque la violation des dispositions du présent décret. La protection s'applique également aux personnes au bénéfice desquelles ces actes sont accomplis.
+
+Les dispositions du présent article sont applicables mutatis mutandis aux personnes mentionnées à l'alinéa 1er.
+
+§ 6 - Lorsque la personne concernée par la violation alléguée fait un signalement, introduit une plainte ou intente une action en justice ou lorsqu'une personne visée au § 5, alinéa 1er, accomplit les actes visés dans cet alinéa, elle peut en demander la preuve écrite et datée à l'organisation, au service ou à l'institution visé au § 2 auprès duquel l'acte est accompli.
+
+§ 7 - A la demande de la partie défenderesse, la juridiction saisie conformément au § 2 peut abréger les délais visés au § 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-12-14/58, art. 116, 004; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCG 2026-04-27/07, art. 12, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 19
+
+[<sup>1</sup> § 1er - Lorsqu'un signalement est fait ou une plainte ou une action en justice est introduite par une personne concernée par une violation alléguée des dispositions du présent décret survenue dans le domaine des relations de travail, l'employeur ne peut pas prendre de mesure préjudiciable à l'encontre de cette personne pour des motifs liés au signalement, à la plainte ou à l'action en justice, ou à leur contenu.
+
+La protection visée par le présent article ne s'applique pas en cas d'usage abusif des procédures. Cet abus peut donner lieu au paiement de dommages et intérêts.
+
+§ 2 - Au sens du présent article, il faut entendre par "mesure préjudiciable" notamment la rupture de la relation de travail, la modification unilatérale des conditions de travail ou une mesure préjudiciable intervenue après la rupture de la relation de travail.
+
+§ 3 - Au sens du présent article, il faut entendre par "signalement, plainte ou action en justice" :
+
+1° un signalement fait ou une plainte introduite auprès de l'entreprise ou de l'institution qui occupe la personne;
+
+2° un signalement ou une dénonciation fait ou une plainte introduite auprès des inspecteurs chargés de la surveillance;
+
+3° un signalement fait ou une plainte introduite auprès d'un service chargé de la surveillance des actes et du fonctionnement des autorités administratives ou des instances administratives ou qui intervient afin de régler les litiges de façon extrajudiciaire;
+
+4° un signalement fait ou une plainte introduite auprès de l'[<sup>2</sup> organisme pour l'égalité de traitement ]<sup>2</sup>;
+
+5° une déclaration introduite auprès des services de police, une plainte avec constitution de partie civile déposée auprès du juge d'instruction ou une notification à l'auditeur du travail;
+
+6° une action en justice introduite par la personne concernée par la violation alléguée;
+
+7° une action en justice introduite au bénéfice de la personne concernée par la violation alléguée par l'[<sup>2</sup> organisme pour l'égalité de traitement ]<sup>2</sup> ou par les associations ou organisations visées à l'article 13;
+
+8° une action en justice introduite par l'[<sup>2</sup> organisme pour l'égalité de traitement ]<sup>2</sup> ou par les associations ou organisations visées à l'article 13, en leur nom propre et avec l'accord de la personne concernée par la violation alléguée.
+
+§ 4 - Afin de bénéficier de la protection visée au § 1er, la personne concernée par la violation alléguée démontre qu'un signalement a été fait ou qu'une plainte a été introduite ou qu'une action en justice a été intentée en raison d'une violation des dispositions du présent décret. Cette preuve peut être apportée par toute voie de droit.
+
+Lorsqu'une mesure préjudiciable est prise par l'employeur à l'encontre de la personne concernée par la violation alléguée dans les douze mois après avoir eu connaissance du signalement ou de la plainte ou après avoir pu raisonnablement avoir eu connaissance de ces démarches, il incombe à l'employeur de démontrer que la mesure préjudiciable n'est pas liée au signalement ou à la plainte, ou à leur contenu.
+
+Cette charge de la preuve incombe également à l'employeur lorsque la mesure préjudiciable est intervenue après que l'action en justice a été intentée, et ce, jusqu'à trois mois suivant le jour où la décision judiciaire est passée en force de chose jugée.
+
+§ 5 - Lorsqu'un employeur met fin à la relation de travail ou modifie unilatéralement les conditions de travail en contravention au § 1er, la personne concernée par la violation alléguée ou, avec l'accord de cette personne, l'[<sup>2</sup> organisme pour l'égalité de traitement]<sup>2</sup> ou l'association ou l'organisation à laquelle ladite personne est affiliée peut demander que l'entreprise ou l'institution réintègre la personne concernée par la violation alléguée ou lui laisse exercer sa fonction dans les mêmes conditions que précédemment.
+
+La demande de réintégration est introduite par écrit dans un délai de trente jours à compter de la notification du licenciement avec ou sans préavis ou de la modification unilatérale des conditions de travail. L'employeur prend position sur cette demande dans les trente jours suivant la notification de celle-ci.
+
+L'employeur qui réintègre la personne dans l'entreprise ou l'institution ou lui laisse exercer sa fonction dans les mêmes conditions que précédemment est tenu de payer la rémunération perdue du fait du licenciement ou de la modification des conditions de travail et de verser les cotisations des employeurs et des travailleurs afférentes à cette rémunération.
+
+Le présent paragraphe ne s'applique pas lorsque la mesure préjudiciable intervient après la cessation de la relation de travail.
+
+§ 6 - Les employeurs sont tenus de payer une indemnisation à la personne concernée par la violation alléguée :
+
+1° lorsque la personne concernée par la violation alléguée n'est pas réintégrée ou ne peut pas exercer sa fonction dans les mêmes conditions que précédemment à la suite de la demande visée au § 5 et que la mesure préjudiciable a été jugée contraire aux dispositions du § 1er;
+
+2° lorsque la personne concernée par la violation alléguée n'a pas introduit la demande visée au § 5 et que la mesure préjudiciable a été jugée contraire aux dispositions du § 1er.
+
+L'indemnisation correspond, selon le choix de la personne concernée par la violation alléguée, soit à un montant forfaitaire correspondant à la rémunération brute de six mois, soit au préjudice réellement subi par la personne concernée. Dans ce dernier cas, il appartient à la personne concernée de prouver l'étendue du préjudice qu'elle a subi.
+
+L'indemnisation mentionnée dans le présent paragraphe peut être cumulée avec l'indemnisation pour discrimination prévue à l'article 20, § 2.
+
+§ 7 - La protection visée dans le présent article est également d'application aux personnes qui interviennent comme témoin ou ont fait un signalement ou ont introduit une plainte, au bénéfice de la personne concernée par la violation alléguée, et aux personnes qui donnent des conseils ou apportent aide ou assistance à cette personne, ainsi qu'à toute personne qui invoque la violation des dispositions du présent décret. La protection s'applique également aux personnes au bénéfice desquelles ces actes sont accomplis.
+
+Les dispositions du présent article sont applicables mutatis mutandis aux personnes mentionnées à l'alinéa 1er.
+
+§ 8 - Lorsque la personne concernée par la violation alléguée fait un signalement, introduit une plainte ou intente une action en justice ou lorsqu'une personne visée au § 7, alinéa 1er, accomplit les actes visés dans cet alinéa, elle peut en demander la preuve écrite et datée à l'organisation, au service ou à l'institution visé au § 3 auprès duquel l'acte est accompli.
+
+§ 9 - Les dispositions du présent article sont également d'application aux personnes autres que des employeurs qui occupent des personnes dans le cadre de relations de travail ou qui leur assignent des tâches.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-12-14/58, art. 117, 004; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCG 2026-04-27/07, art. 13, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 20
+
+§ 1er - En cas de discrimination, la victime peut réclamer une indemnisation de son préjudice en application du droit de la responsabilité contractuelle ou extra-contractuelle. Dans les circonstances ci-après, la personne qui a contrevenu à l'interdiction de discrimination verse à la victime une indemnité correspondant, selon le choix de la victime, soit à une somme forfaitaire fixée conformément au § 2, soit au dommage réellement subi par la victime. Dans ce dernier cas, il appartient à la victime de prouver l'étendue du préjudice qu'elle a subi.
+
+§ 2 - Les dommages et intérêts forfaitaires visés au § 1er sont fixés comme suit :
+
+1° l'indemnisation forfaitaire du préjudice moral subi du fait d'une discrimination est fixée à un montant de 650 euros. Ce montant est porté à 1.300 euros dans le cas où le contrevenant ne peut démontrer que le traitement litigieux défavorable ou désavantageux aurait également été adopté en l'absence de discrimination, ou en raison d'autres circonstances, telle la gravité particulière du préjudice moral subi;
+
+2° si la victime réclame l'indemnisation du préjudice moral et matériel qu'elle a subi du fait d'une discrimination dans le cadre des relations de travail, l'indemnisation forfaitaire pour le dommage matériel et moral équivaut à six mois de rémunération brute, à moins que l'employeur ne démontre que le traitement litigieux défavorable ou désavantageux aurait également été adopté en l'absence de discrimination. Dans cette dernière hypothèse, l'indemnisation forfaitaire pour le préjudice matériel et moral est limitée à trois mois de rémunération brute. Si le préjudice matériel résultant d'une discrimination dans le cadre des relations de travail conformément à l'article 3, 11°, peut néanmoins être réparé par le biais de l'application de la sanction de nullité prévue à l'article 17, les dommages et intérêts forfaitaires sont fixés selon les dispositions du point 1°.
+
+§ 3 - L'indemnisation forfaitaire visée au § 2, 1°, peut être adaptée au 1er janvier de chaque année par le Gouvernement selon l'évolution de l'indice des prix à la consommation.
+
+##### Art. 21
+
+La juridiction peut, à la demande de la victime de la discrimination, de l'[<sup>1</sup> organisme pour l'égalité de traitement]<sup>1</sup>, des associations ou organisations visées à l'article 13, du ministère public ou de l'auditorat du travail lorsqu'il a lui-même saisi la juridiction, condamner au paiement d'une astreinte l'auteur de la discrimination pour le cas où il ne serait pas mis fin à celle-ci. La juridiction statue conformément aux articles 1385bis à 1385nonies du Code judiciaire.
+
+----------
+
+(1)&lt;DCG 2026-04-27/07, art. 14, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 22
+
+Toute discrimination commise par un membre du personnel peut en outre donner lieu à une procédure disciplinaire conformément aux dispositions applicables au personnel.
+
+### CHAPITRE 3. - ACTION EN CESSATION
+
+##### Art. 23
+
+§ 1er - A la demande de la victime de la discrimination, de l'[<sup>1</sup> organisme pour l'égalité de traitement]<sup>1</sup>, des associations ou organisations visées à l'article 13, du ministère public ou, selon la nature de l'acte, de l'auditorat du travail, le président du tribunal de première instance, du tribunal du travail ou du tribunal de commerce constate la matérialité des faits et ordonne la cessation d'un acte, même pénalement réprimé, constituant un manquement aux dispositions du présent décret.
+
+§ 2 - A la demande de la victime, le président du tribunal peut octroyer à celle-ci l'indemnisation forfaitaire visée à l'article 20, § 2.
+
+§ 3 - Le président du tribunal peut prescrire l'affichage de sa décision ou du résumé qu'il en rédige, pendant le délai qu'il détermine, aussi bien à l'extérieur qu'à l'intérieur des établissements du contrevenant ou des locaux lui appartenant, et ordonner la publication ou la diffusion de son jugement ou du résumé de celui-ci par la voie de journaux ou de toute autre manière, le tout aux frais du contrevenant.
+
+Ces mesures de publicité ne peuvent être prescrites que si elles sont de nature à contribuer à la cessation de l'acte incriminé ou de ses effets.
+
+§ 4 - L'action fondée sur le § 1er est formée et instruite selon les formes du référé.
+
+Elle peut être formée par requête. Elle est établie en quatre exemplaires et envoyée par lettre recommandée à la poste ou déposée au greffe de la juridiction compétente.
+
+Sous peine de nullité, la requête contient :
+
+1° l'indication des jours, mois et année;
+
+2° les nom, prénoms, profession et domicile du requérant;
+
+3° les nom et adresse de la personne physique ou morale contre laquelle la demande est formée;
+
+4° l'objet et l'exposé des moyens de la demande.
+
+Le greffier du tribunal avertit sans délai la partie adverse par pli judiciaire, auquel est joint un exemplaire de la requête, et l'invite à comparaître au plus tôt trois jours, au plus tard huit jours après l'envoi du pli judiciaire.
+
+Il est statué sur l'action nonobstant toute poursuite exercée en raison des mêmes faits devant une juridiction pénale.
+
+Lorsque les faits soumis au juge pénal font l'objet d'une action en cessation, il ne peut être statué sur l'action pénale qu'après qu'une décision coulée en force de chose jugée ait été rendue relativement à l'action en cessation. La prescription de l'action publique est suspendue pendant la surséance.
+
+Le jugement est exécutoire par provision, nonobstant tout recours et sans caution. Il est communiqué par le greffier de la juridiction, sans délai, à toutes les parties et au procureur du Roi.
+
+§ 5 - Les dispositions du présent article ne portent pas préjudice aux compétences du Conseil d'Etat définies par les lois coordonnées du 12 janvier 1973 sur le Conseil d'Etat.
+
+----------
+
+(1)&lt;DCG 2026-04-27/07, art. 15, 006; En vigueur : 15-06-2026&gt;
+
+## TITRE 4. - DISPOSITIONS PENALES
+
+##### Art. 24
+
+Pour l'application du présent titre, la discrimination s'entend de toute forme de discrimination directe intentionnelle, de discrimination indirecte intentionnelle, d'injonction de discriminer ou de harcèlement, fondée sur un critère protégé conformément à l'article 3, 1°, ainsi que du refus de mettre en place les aménagements raisonnables pour une personne handicapée.
+
+##### Art. 25
+
+Est puni d'un emprisonnement d'un mois à un an et d'une amende de cinquante à mille euros, ou de l'une de ces peines seulement :
+
+1° quiconque, dans l'une des circonstances visées à l'article 444 du Code pénal, incite à la discrimination à l'égard d'une personne, en raison de l'un des critères protégés conformément à l'article 3, 1°;
+
+2° quiconque, dans l'une des circonstances visées à l'article 444 du Code pénal, incite à haine ou à la violence à l'égard d'une personne, en raison de l'un des critères protégés conformément à l'article 3, 1°;
+
+3° quiconque, dans l'une des circonstances visées à l'article 444 du Code pénal, incite à la discrimination ou à la ségrégation à l'égard d'un groupe, d'une communauté ou de l'un de leurs membres en raison de l'un des critères protégés conformément à l'article 3, 1°;
+
+4° quiconque, dans l'une des circonstances visées à l'article 444 du Code pénal, incite à haine ou à la violence à l'égard d'un groupe, d'une communauté ou de l'un de leurs membres en raison de l'un des critères protégés conformément à l'article 3, 1°.
+
+##### Art. 26
+
+Quiconque, dans l'une des circonstances indiquées à l'article 444 du Code pénal, diffuse des idées fondées sur la supériorité ou la haine raciale, est puni d'un emprisonnement d'un mois à un an et d'une amende de cinquante à mille euros, ou de l'une de ces peines seulement.
+
+##### Art. 27
+
+Est puni d'un emprisonnement d'un mois à un an et d'une amende de cinquante à mille euros, ou de l'une de ces peines seulement, quiconque fait partie d'un groupement ou d'une association qui, de manière manifeste et répétée, prône la discrimination ou la ségrégation fondée sur la nationalité, une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique dans l'une des circonstances indiquées à l'article 444 du Code pénal.
+
+##### Art. 28
+
+Est puni d'un emprisonnement de deux mois à deux ans, tout fonctionnaire ou officier public, tout dépositaire ou agent de l'autorité ou de la force publique qui, dans l'exercice de ses fonctions, commet une discrimination à l'égard d'une personne en raison de l'un des critères protégés conformément à l'article 3, 1°.
+
+Les mêmes peines sont applicables lorsque les faits sont commis à l'égard d'un groupe, d'une communauté ou de leurs membres, en raison de l'un des critères protégés visés à l'article 3, 1°.
+
+Si l'inculpé justifie qu'il a agi par ordre de ses supérieurs pour des objets du ressort de ceux-ci et sur lesquels il leur était dû obéissance hiérarchique, les peines sont appliquées seulement aux supérieurs qui ont donné l'ordre.
+
+Si les fonctionnaires ou officiers publics prévenus d'avoir ordonné, autorisé ou facilité les actes arbitraires susmentionnés prétendent que leur signature a été surprise, ils sont tenus en faisant, le cas échéant, cesser l'acte, de dénoncer le coupable; sinon, ils sont poursuivis personnellement.
+
+Si l'un des actes arbitraires susmentionnés est commis au moyen de la fausse signature d'un fonctionnaire public, les auteurs du faux et ceux qui, méchamment ou frauduleusement, en font usage sont punis d'un emprisonnement de dix ans à quinze ans.
+
+##### Art. 29
+
+Quiconque commet une discrimination à l'égard d'une personne en raison de la nationalité, une prétendue race, la couleur de peau, l'ascendance ou l'origine nationale ou ethnique, est puni d'un emprisonnement d'un mois à un an et d'une amende de cinquante à mille euros, ou de l'une de ces peines seulement.
+
+##### Art. 30
+
+Quiconque ne se conforme pas à un jugement ou un arrêt rendu en vertu de l'article 23 à la suite d'une action en cessation, est puni d'un emprisonnement d'un mois à un an et d'une amende de cinquante à mille euros, ou de l'une de ces peines seulement.
+
+##### Art. 31
+
+En application des articles 25, 26, 27, 28, 29 ou 30, le condamné peut, en outre, être condamné à l'interdiction d'exercer certains droits conformément à l'article 33 du Code pénal.
+
+##### Art. 32
+
+Toutes les dispositions du Livre Ier du Code pénal sont applicables aux infractions visées dans le présent décret.
+
+## TITRE 5. - DISPOSITIONS MODIFICATIVES, ABROGATOIRES ET FINALES
+
+##### Art. 33
+
+L'article 3, alinéa 3, de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique est abrogé.
+
+A l'alinéa 4 du même article les modifications suivantes sont apportées :
+
+1° dans la phrase introductive, les mots "et les services d'Afrique" sont abrogés;
+
+2° le 2° est abrogé;
+
+3° dans le 4°, les mots "ainsi que toute autre institution de droit colonial qui répondait aux mêmes conditions" sont abrogés;
+
+4° il est inséré un 5°, rédigé comme suit :
+
+"5° tout service presté dans le secteur public d'un Etat-membre de l'Union européenne."
+
+##### Art. 34
+
+A l'article 16, § 1er, A, du même arrêté royal, les modifications suivantes sont apportées :
+
+1° le a), modifié par le décret du 6 juin 2005, est remplacé par ce qui suit :
+
+"a) les services effectifs qu'un membre du personnel a prestés en tant que titulaire d'une fonction rémunérée dans un établissement d'enseignement organisé, subventionné ou reconnu par une entité territoriale d'un Etat-membre de l'Union européenne;";
+
+2° dans le m), 1°, les mots "ou les services d'Afrique" sont abrogés;
+
+3° dans le m), 2°, remplacé par le décret du 6 juin 2005, les mots "ou les services d'Afrique" sont abrogés.
+
+Dans le même article, modifié en dernier lieu par le décret du 11 mai 2009, il est inséré un § 1.1 rédigé comme suit :
+
+" § 1.1. - Par dérogation au § 1er sont également pris en considération les services effectifs prestés avant le seuil d'âge par un membre du personnel qui est entré en fonction après le 31 août 2011 ou est entré en fonction avant cette date mais n'avait pas encore atteint le seuil d'âge à ce moment."
+
+##### Art. 35
+
+L'article 17 du même arrêté royal, modifié en dernier lieu par le décret du 25 juin 2007, est complété par un § 5, rédigé comme suit :
+
+" § 5 - Par dérogation aux §§ 1er et 2 sont pris en considération les services effectifs prestés avant le seuil d'âge par un membre du personnel qui est entré en fonction après le 31 août 2011 ou est entré en fonction avant cette date mais n'avait pas encore atteint le seuil d'âge à ce moment."
+
+##### Art. 36
+
+L'article 13 de l'arrêté royal du 10 mars 1965 portant statut pécuniaire du personnel des cours à horaire réduit relevant du Ministère de l'Education nationale et de la Culture est complété par un § 4, rédigé comme suit :
+
+" § 4 - Par dérogation au § 1er sont pris en considération les services effectifs prestés avant le seuil d'âge par un membre du personnel qui est entré en fonction après le 31 août 2011 ou est entré en fonction avant cette date mais n'avait pas encore atteint le seuil d'âge à ce moment."
+
+##### Art. 37
+
+L'article 84, alinéas 2 et 3 de l'arrêté royal au 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical et sociopsychologique des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, remplacés par l'arrêté du Gouvernement du 2 mars 1995 et modifiés par le décret du 11 mai 2009, sont abrogés.
+
+##### Art. 38
+
+L'article 1er, § 1er, 6°, de l'arrêté royal du 27 juillet 1976 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans l'enseignement subventionné, est abrogé.
+
+##### Art. 39
+
+L'article 3, § 3, alinéa 2, du même arrêté royal, est remplacé par ce qui suit :
+
+"L'ancienneté de service et l'ancienneté de fonction sont déterminées conformément aux modalités de l'article 40, 4° et 5°, et de l'article 85, a), b), d), e), f), de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical et socio-psychologique des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements."
+
+##### Art. 40
+
+L'article 1er, alinéa 1er, 12°, du décret de la Région wallonne du 5 février 1998 relatif à la surveillance et au contrôle des législations relatives à la politique de l'emploi est abrogé.
+
+##### Art. 41
+
+Le décret de la Communauté germanophone du 17 mai 2004 relatif à la garantie de l'égalité de traitement sur le marché du travail, modifié par le décret du 25 juin 2007, est abrogé.
+
+##### Art. 42
+
+A l'article 111.3, § 1er, alinéa 4, 3°, du décret du 21 avril 2008 portant valorisation du métier d'enseignant, inséré par le décret du 19 avril 2010, les mots "qui n'a pas encore atteint l'âge de 25 ans à la fin de l'année de référence" sont supprimés.
+
+Dans le § 2, 3°, du même article, les mots "l'article 39" sont remplacés par les mots "les articles 39 et 42 à 43bis".
+
+##### Art. 43
+
+Dans l'article 12, § 1er, 25°, du décret du 11 mai 2009 relatif à l'agrément des agences de travail intérimaire et à la surveillance des agences de placement privées, les mots "du décret du 17 mai 2004 relatif à la garantie de l'égalité de traitement sur le marché du travail, le respect du secret professionnel et la sécurité des travailleurs" sont remplacés par les mots "du décret du 19 mars 2012 visant à lutter contre certaines formes de discrimination".
+
+##### Art. 44
+
+Tous les cinq ans à dater de l'entrée en vigueur du présent décret, le Parlement évalue l'application et l'efficacité du présent décret.
+
+L'évaluation intervient après audition et sur la base d'un rapport établi par l'[<sup>1</sup> organisme pour l'égalité de traitement]<sup>1</sup>.
+
+Le Gouvernement fixe par arrêté la forme et le contenu concret du rapport.
+
+Le Gouvernement veille à ce que les actions menées conformément au décret soient communiquées à tous les intéressés.
+
+----------
+
+(1)&lt;DCG 2026-04-27/07, art. 16, 006; En vigueur : 15-06-2026&gt;
+
+##### Art. 45
+
+Le décret entre en vigueur dix jours après sa publication au Moniteur belge, à l'exception des articles 33 à 39, lesquels produisent leurs effets le 1er septembre 2011.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 19 mars 2012.
+
+Le Ministre-Président, Ministre des Pouvoirs locaux,
+
+K.-H. LAMBERTZ
+
+Le Ministre de l'Enseignement, de la Formation et de l'Emploi,
+
+O. PAASCH
+
+La Ministre de la Culture, des Médias et du Tourisme,
+
+Mme I. WEYKMANS
+
+Le Ministre de la Famille, de la Santé et des Affaires sociales,
+
+H. MOLLERS

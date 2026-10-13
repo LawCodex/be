@@ -1,0 +1,67 @@
+---
+title: "Décret portant assentiment à la modification de l'article 8, alinéa 7, de la Convention internationale du 7 mars 1966 sur l'élimination de toutes les formes de discrimination raciale, à la modification de l'article 20, alinéa 1er, de la Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes et à la modification de l'article 17, alinéa 7, et de l'article 18, alinéa 5, de la Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants"
+identifier: "2015202231"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2015/04/20/2015202231/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2015-04-20
+published: 2015-05-19
+entry_into_force: 2015-05-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2015/04/20/2015202231/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 20 AVRIL 2015. - Décret portant assentiment à la modification de l'article 8, alinéa 7, de la Convention internationale du 7 mars 1966 sur l'élimination de toutes les formes de discrimination raciale, à la modification de l'article 20, alinéa 1er, de la Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes et à la modification de l'article 17, alinéa 7, et de l'article 18, alinéa 5, de la Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Sortiront leur plein et entier effet :
+
+1\. la modification de l'article 8, alinéa 7, de la Convention internationale du 7 mars 1966 sur l'élimination de toutes les formes de discrimination raciale, adoptée à New York le 15 janvier 1992 par décision de la Conférence des Etats parties approuvée par l'Assemblée générale des Nations unies dans sa résolution n° 47/111 du 16 décembre 1992;
+
+2\. la décision de la Conférence des Etats parties à ladite convention, adoptée à New York le 15 janvier 1992 et approuvée par l'Assemblée générale des Nations unies dans sa résolution n° 47/111 du 16 décembre 1992.
+
+## Art. 2
+
+Sortiront leur plein et entier effet :
+
+1\. la modification de l'article 20, alinéa 1er, de la Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes, adoptée à New York le 22 mai 1995 par décision de la Conférence des Etats parties approuvée par l'Assemblée générale des Nations unies dans sa résolution n° 50/202 du 22 décembre 1995;
+
+2° la décision de la Conférence des Etats parties à ladite convention, adoptée à New York le 22 mai 1995 et approuvée par l'Assemblée générale des Nations unies dans sa résolution n° 50/202 du 22 décembre 1995.
+
+## Art. 3
+
+Sortiront leur plein et entier effet :
+
+1\. la modification de l'article 17, alinéa 7, et de l'article 18, alinéa 5, de la Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, adoptée à New York le 8 septembre 1992 par décision de la Conférence des Etats parties approuvée par l'Assemblée générale des Nations unies dans sa résolution n° 47/111 du 16 décembre 1992;
+
+2\. la décision de la Conférence des Etats parties à ladite convention, adoptée à New York le 8 septembre 1992 et approuvée par l'Assemblée générale des Nations unies dans sa résolution n° 47/111 du 16 décembre 1992.
+
+Nous promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+---
+
+Eupen, le 20 avril 2015.
+
+O. PAASCH
+
+Le Ministre-Président
+
+I. WEYKMANS
+
+La Vice-Ministre-Présidente, Ministre de la Culture, de l'Emploi et du Tourisme
+
+A. ANTONIADIS
+
+Le Ministre de la Famille, de la Santé et des Affaires sociales
+
+H. MOLLERS
+
+Le Ministre de l'Education et de la Recherche scientifique

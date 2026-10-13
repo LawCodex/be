@@ -1,0 +1,57 @@
+---
+title: "Décret spécial modifiant le décret spécial du 21 février 2005 portant création d'une haute école autonome"
+identifier: "2010205366"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2010/09/21/2010205366/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2010-09-21
+published: 2010-10-25
+entry_into_force: 2010-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2010/09/21/2010205366/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 21 SEPTEMBRE 2010. - Décret spécial modifiant le décret spécial du 21 février 2005 portant création d'une haute école autonome
+
+## Art. 1er
+
+L'article 5 du décret spécial du 21 février 2005 portant création d'une haute école autonome est complété par un alinéa rédigé comme suit :
+
+" La haute école est un organisme d'intérêt public conformément à l'article 87 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone et est soumise aux dispositions dudit décret, dans sa version en vigueur au 1er janvier 2010. "
+
+## Art. 2
+
+A l'ar ticle 7, § 1er, alinéa 2, 1°, du même décret spécial, les mots "article 30" sont remplacés par les mots "article 88 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone".
+
+## Art. 3
+
+Les articles 25, 26, 27, 28, 30 et 31 du même décret spécial sont abrogés.
+
+## Art. 4
+
+Ce décret spécial produit ses effets le 1er janvier 2010.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 21 septembre 2010.
+
+K.-H. LAMBERTZ,
+
+Ministre-Président, Ministre des Pouvoirs locaux
+
+O. PAASCH,
+
+Ministre de l'Enseignement, de la Formation et de l'Emploi
+
+Mme I. WEYKMANS,
+
+Ministre de la Culture, des Médias et du Tourisme
+
+H. MOLLERS,
+
+Ministre de la Famille, de la Santé et des Affaires sociales
