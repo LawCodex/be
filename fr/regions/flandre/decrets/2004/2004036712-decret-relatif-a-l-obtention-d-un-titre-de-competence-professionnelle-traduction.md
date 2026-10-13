@@ -1,0 +1,223 @@
+---
+title: "Décret relatif à l'obtention d'un titre de compétence professionnelle (TRADUCTION)"
+identifier: "2004036712"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004036712/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-04-30
+published: 2004-11-26
+entry_into_force: 2004-11-26
+last_amended: 2018-11-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004036712/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 26-11-2004 et mise à jour au 13-11-2018"
+retrieved: 2026-10-12
+---
+
+# 30 AVRIL 2004. - Décret relatif à l'obtention d'un titre de compétence professionnelle (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret relatif à l'obtention d'un titre de compétence professionnelle.
+
+## CHAPITRE Ier. - Dispositions introductives.
+
+### Art. 1
+
+Le présent décret règle une matière communautaire.
+
+### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° compétences : la capacité réelle et individuelle d'individus de mettre en oeuvre des savoirs, aptitudes et attitudes en fonction de la situation de travail concrète, quotidienne et changeante et en fonction des activités personnelles et sociales. Il s'agit tant de compétences embrassant tous les aspects de la vie que de compétences axées sur la vie professionnelle;
+
+2° apprentissage formel : toute forme d'apprentissage dans un contexte, régulier ou non, d'apprentissage structuré;
+
+[<sup>1</sup> 2°bis profil de compétences : un ensemble complet de compétences dont se sert une personne dans un contexte social déterminé pour réaliser les résultats escomptés dans ce rôle social et pour lequel aucun profil professionnel n'existe ou ne sera développé;]<sup>1</sup>
+
+3° apprentissage non formel : toutes les activités qui ne sont pas décrites explicitement comme des activités d'apprentissage mais qui contiennent toutefois une composante importante d'apprentissage;
+
+4° norme : l'ensemble de compétences, dérivées du profil professionnel, nécessaires au minimum à l'exercice d'une certaine activité professionnelle;
+
+5° [<sup>1</sup> profil de compétences professionnelles : un ensemble complet de compétences utilisées par le professionnel dans un certain contexte de travail pour atteindre les résultats escomptés sur le lieu du travail;]<sup>1</sup>
+
+6° portfolio : un dossier comportant les pièces justificatives pertinentes des compétences acquises;
+
+7° instance compétente : l'organisation ou les organisations reconnue(s) par le Gouvernement flamand qui s'occupe(nt) de l'identification, l'évaluation et/ou la reconnaissance, visées à l'article 8;
+
+8° SERV : le "Sociaal-Economische Raad van Vlaanderen" (Conseil socio-économique de la Flandre), visé au décret du 27 juin 1985 sur le Conseil socio-économique de la Flandre;
+
+9° code de déontologie : un ensemble de prescriptions visant à protéger la vie privée que doivent respecter les instances organisant une procédure d'identification, d'évaluation et/ou de reconnaissance;
+
+10° [<sup>2</sup> VLOR : le 'Vlaamse Onderwijsraad'(Conseil flamand de l'Enseignement);]<sup>2</sup>
+
+11° diplôme : le titre, visé à l'article X.32, 3°, du décret du 14 février 2003 relatif à l'enseignement XIV;
+
+12° [<sup>1</sup> qualification professionnelle reconnue : la qualification professionnelle telle que visée au décret du 30 avril 2009 relatif à la structure des certifications;]<sup>1</sup>
+
+13° titre reconnu : un titre visé à l'article X.32 du décret du 14 février 2003 relatif à l'enseignement XIV ou à l'article 85 du décret du 4 avril 2003 relatif à la restructuration de l'enseignement supérieur en Flandre.
+
+----------
+
+(1)&lt;DCFL 2009-04-30/B4, art. 33, 003; En vigueur : 26-07-2009&gt;
+
+(2)&lt;AGF 2010-12-17/39, art. 359, 50), 004; En vigueur : 04-07-2011&gt;
+
+## CHAPITRE II. - Objectif et champ d'application.
+
+### Art. 3
+
+§ 1er. Le titre de compétence professionnelle a pour but de valider et d'attester la compétence que l'individu a acquise par le biais de l'apprentissage formel ou non formel, et ce, en vue de l'exercice d'une certaine profession.
+
+§ 2. Aux conditions définies par le Gouvernement flamand, le titre de compétence professionnelle est pris en compte lorsque la personne intéressée s'inscrit à une formation ou comme demandeur d'emploi auprès du "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding" (Office flamand de l'Emploi et de la Formation professionnelle).
+
+### Art. 4
+
+§ 1er. Le titre de compétence professionnelle est le titre délivré par une instance compétente après qu'une procédure d'identification, d'évaluation et de reconnaissance a démontrée que la personne intéressée dispose des compétences définies en vue de l'exercice d'une certaine profession ou sous-profession. [<sup>1</sup> Dans la communication avec les citoyens, la notion " titre d'expérience " peut être utilisée comme synonyme pour la notion " titre de compétence professionnelle ".]<sup>1</sup>
+
+[<sup>1</sup> § 1bis. Le titre de compétence professionnelle tient lieu de preuve que la personne concernée a obtenu une qualification professionnelle reconnue.]<sup>1</sup>
+
+§ 2. Est considéré comme titre de compétence professionnelle : tout titre reconnu renfermant les compétences définies en vue de l'exercice d'une certaine profession ou sous-profession.
+
+[<sup>1</sup> Des diplômes et certificats délivrés notamment sur la base de la maîtrise des compétences professionnelles fixées dans une qualification professionnelle reconnue, sont, à tout moment, censés comporter les compétences définies en vue de l'exercice de la profession ou sous-profession concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/B4, art. 34, 003; En vigueur : 26-07-2009&gt;
+
+## CHAPITRE III. - Principes de base.
+
+### Art. 5
+
+Chacun a le droit de faire reconnaître ses compétences par une instance compétente habilitée à délivrer un titre de compétence professionnelle. Le Gouvernement flamand fixe les conditions auxquelles une indemnité peut être demandée pour la procédure de reconnaissance.
+
+Les élèves en scolarité obligatoire qui ne satisfont pas à l'obligation scolaire partielle sont exclus de cette procédure. Le Gouvernement flamand fixe les conditions auxquelles les élèves qui satisfont à l'obligation scolaire partielle, peuvent faire certifier leurs compétences acquises par le biais d'une procédure d'identification, d'évaluation et de reconnaissance et peuvent obtenir ainsi un titre de compétence professionnelle.
+
+Ce droit porte tant sur la reconnaissance de compétences acquises via l'apprentissage formel que sur la reconnaissance de compétences acquises via l'apprentissage non formel.
+
+Le titre de compétence professionnelle est reconnu par la Communauté flamande et est la propriété personnelle du postulant.
+
+## CHAPITRE IV. - Procédure.
+
+### Art. 6
+
+La procédure en vue de l'obtention d'un titre de compétence professionnelle peut être entamée si les étapes suivantes ont été parcourues :
+
+1° le Gouvernement flamand fixe, sur avis du SERV, les professions pour lesquelles un titre de compétence professionnelle peut être délivré;
+
+2° le Gouvernement flamand définit par profession, visée au 1°, sur avis du SERV, les variantes d'un titre de compétence professionnelle;
+
+3° [<sup>3</sup> le " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding "]<sup>3</sup> développe, à la demande du Gouvernement flamand, les [<sup>2</sup> profils de compétences professionnelles ou profils de compétences]<sup>2</sup> des professions visées au 1°;
+
+4° [<sup>1</sup> [<sup>3</sup> Le " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding "]<sup>3</sup> développe les normes sur la base des [<sup>2</sup> profils de compétences professionnelles ou profils de compétences]<sup>2</sup> . Une norme est dérivée d'un [<sup>1</sup> profil de compétences professionnelles ou profil de compétences]<sup>1</sup> et comporte la sélection des compétences censées être nécessaires à l'exercice d'une certaine profession. Le Gouvernement flamand définit les normes, après avis [<sup>3</sup> du " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding "]<sup>3</sup>.]<sup>1</sup>
+
+5° le Gouvernement flamand fixe, sur avis du SERV et du VLOR, la procédure sur la base de laquelle les certificats des programmes de formation et d'éducation qui correspondent aux compétences liées à une profession ou une partie d'une profession, sont identifiés et reconnus et sont considérés ainsi comme titre de compétence professionnelle.
+
+----------
+
+(1)&lt;DCFL 2008-12-19/14, art. 28, 002; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DCFL 2009-04-30/B4, art. 35, 003; En vigueur : 26-07-2009&gt;
+
+(3)&lt;DCFL 2018-10-12/10, art. 23, 005; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE V. - L'obtention d'un titre de compétence professionnelle.
+
+### Art. 7
+
+§ 1er. La procédure menant à l'obtention d'un titre de compétence professionnelle est lancée d'initiative et poursuivie volontairement, se déroulant comme suit :
+
+1° identification : un individu se rend compte, sous guidance ou non, des compétences qu'il possède. Ensuite ces compétences sont enregistrées avec précision. Toutes les compétences acquises par le biais de l'apprentissage formel ainsi que par le biais de l'apprentissage non formel entrent en ligne de compte pour être enregistrées. Cette démarche résulte en l'établissement d'un portfolio qui reste la propriété exclusive du postulant;
+
+2° évaluation : les compétences enregistrées doit être mesurées en se référant à une norme. A l'aide de cette norme il est vérifié si une personne possède les compétences adéquates, ou si on maîtrise ces compétences à un niveau satisfaisant et quelles sont les compétences qui doivent encore être acquises pour l'obtention du titre. Cela résulte en une évaluation;
+
+3° reconnaissance : au vu du résultat de la phase d'évaluation, il est procédé à l'attribution ou la délivrance d'un titre de compétence professionnelle.
+
+§ 2. Le Gouvernement flamand arrête, sur avis du SERV, les modalités et règles de la procédure, visée au § 1er.
+
+## CHAPITRE VI. - Acteurs.
+
+### Art. 8
+
+[<sup>1</sup> § 1er.]<sup></sup> 1 L'instance compétente doit satisfaire aux conditions qualitatives et souscrire et respecter le code de déontologie.
+
+Les conditions qualitatives et le code de déontologie se rapportent au moins à :
+
+1° la prestation de services transparents;
+
+2° l'expertise du personnel de l'instance compétente;
+
+3° l'application de principes d'action objectifs et non discriminatoires;
+
+4° la protection de la vie privée du postulant.
+
+Sur avis du SERV, les modalités des conditions qualitatives et le contenu du code de déontologie sont arrêtés par le Gouvernement flamand.
+
+[<sup>1</sup> § 2. Le service compétent du Gouvernement flamand assure l'organisation du contrôle de la qualité des parcours pour l'obtention d'un " titre de compétence professionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/B4, art. 36, 003; En vigueur : 26-07-2009&gt;
+
+### Art. 9
+
+§ 1er. Le Gouvernement flamand établit une commission de recours qui doit se prononcer sur les objections introduites par rapport à la procédure d'obtention d'un titre de compétence professionnelle, visée à l'article 7, et la procédure définissant les titres reconnus, visée à l'article 4, § 2.
+
+Le recours est introduit dans un délai de trente jours calendaires prenant cours le lendemain de la notification de la décision.
+
+§ 2. La commission de recours se prononce, après avoir entendu les parties, notamment le postulant et l'instance compétente.
+
+§ 3. La commission de recours se compose d'un président et de deux assesseurs indépendants.
+
+La commission de recours est assistée par un ou deux experts en compétences professionnelles.
+
+§ 4. Le Gouvernement flamand nomme le président, les assesseurs et les experts visés au § 3 sur avis du SERV et du VLOR.
+
+§ 5. Les personnes impliquées dans la procédure d'obtention d'un titre de compétence professionnelle et la définition des titres reconnus, ne peuvent faire partie de la commission de recours ni assister la commission.
+
+§ 6. Le Gouvernement flamand désigne pour un délai renouvelable de six ans le président, les assesseurs et leurs suppléants. Le Gouvernement flamand établit une liste des experts indépendants. Cette liste est valable pour une période de six ans. Tous les membres, y compris les experts, ont voix délibérative.
+
+§ 7. Le Gouvernement flamand règle le fonctionnement et la procédure de la commission de recours et fixe le délai dans lequel une décision doit être prise. Si, à l'expiration de ce délai, aucune décision n'est communiquée par la commission de recours, le Gouvernement flamand peut prendre une décision.
+
+## CHAPITRE VII. - Dispositions finales.
+
+### Art. 10
+
+&lt;Abrogé par DCFL 2018-10-12/10, art. 24, 005; En vigueur : 01-01-2019&gt;
+
+### Art. 11
+
+Le Gouvernement flamand fixe la date d'entrée en vigueur du présent décret.
+
+(NOTE : Entrée en vigueur fixée le 26-11-2004 par AGF 2005-09-23/52, art. 25&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 30 avril 2004.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand de l'Emploi et du Tourisme,
+
+R. LANDUYT
+
+La Ministre flamande de l'Enseignement et de la Formation,
+
+M. VANDERPOORTEN
+
+Le Ministre flamand des Affaires intérieures, de la Culture, de la Jeunesse et de la Fonction publique,
+
+P. VAN GREMBERGEN
+
+La Ministre flamande de l'Economie, de la Politique extérieure et de l'E-gouvernement,
+
+P. CEYSENS.

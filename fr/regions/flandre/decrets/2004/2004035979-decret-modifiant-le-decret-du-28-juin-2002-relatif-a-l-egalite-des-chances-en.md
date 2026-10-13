@@ -1,0 +1,77 @@
+---
+title: "Décret modifiant le décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I (TRADUCTION)."
+identifier: "2004035979"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035979/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-04-30
+published: 2004-06-29
+entry_into_force: 2004-04-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035979/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 30 AVRIL 2004. - Décret modifiant le décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I (TRADUCTION).
+
+Le Parlement Flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret modifiant le décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I.
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+Dans l'article II.1er du décret du 28 juin 2002 relatif à l'égalité des chances en éducation - I, il est inséré un 4°bis, rédigé comme suit :
+
+" 4°bis unité de vie : les élèves issus d'au moins un même parent ou les parents et les élèves qui partagent la même résidence principale; "
+
+## Art. 3
+
+A l'article III.1er du même décret sont apportées les modifications suivantes :
+
+1° le § 1er est complété par un deuxième alinéa, rédigé comme suit :
+
+" A compter de l'année scolaire 2004-2005, chaque élève appartenant à la même unité de vie que l'élève déjà inscrit bénéficie dans l'école concernée d'une priorité d'inscription sur tous les autres nouveaux élèves. Le pouvoir organisateur fixe la procédure d'application de ce droit de priorité, notamment le moment auquel ou la période dans laquelle on peut faire valoir ce droit. ";
+
+2° il est ajouté un § 3, rédigé comme suit :
+
+" § 3. Préalablement à la période ou à la date d'inscription, le pouvoir organisateur communique aux parents la procédure visée au § 1er, deuxième alinéa. "
+
+## Art. 4
+
+Dans le même décret, l'intitulé de la sous-section 5 de la section 1re du chapitre VIII est remplacé par ce qui suit :
+
+" Sous-section 5. Mesures transitoires ".
+
+## Art. 5
+
+Au chapitre III, section 1re, sous-section 5, du même décret, il est ajouté un article III.7bis, rédigé comme suit :
+
+" Article III.7bis. § 1er. Par mesure transitoire, pour l'année scolaire 2004-2005, les pouvoirs organisateurs peuvent inscrire, à partir du 1er avril 2004, un élève appartenant à la même unité de vie que l'élève déjà inscrit, nonobstant les dispositions fixées conformément à l'article III. 1er, 6 1er, deuxième alinéa.
+
+Une inscription réalisée sur la base du premier alinéa n'est pas censée être une inscription additionnelle au sens de l'article III.3.1°.
+
+§ 2. La mesure transitoire visée au § 1er ne peut être invoquée pour annuler les inscriptions réalisées avant le 1er avril 2004. ".
+
+## Art. 6
+
+Le présent décret entre en vigueur le 1er avril 2004.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 30 avril 2004.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+La Ministre flamande de l'Enseignement et de la Formation,
+
+M. VANDERPOORTEN.

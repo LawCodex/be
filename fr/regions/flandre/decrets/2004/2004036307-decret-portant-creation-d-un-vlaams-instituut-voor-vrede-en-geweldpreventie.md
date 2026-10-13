@@ -1,0 +1,383 @@
+---
+title: "Décret portant création d'un \"Vlaams Instituut voor Vrede en Geweldpreventie\" (Institut flamand pour la Paix et la Prévention de la Violence) auprès du Parlement flamand (TRADUCTION)."
+identifier: "2004036307"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036307/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-05-07
+published: 2004-08-18
+entry_into_force: 2004-09-01
+last_amended: 2020-05-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036307/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 18-08-2004 et mise à jour au 08-05-2020"
+retrieved: 2026-10-12
+---
+
+# 7 MAI 2004. - Décret portant création d'un "Vlaams Instituut voor Vrede en Geweldpreventie" (Institut flamand pour la Paix et la Prévention de la Violence) auprès du Parlement flamand (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Disposition générale et création.
+
+#### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+#### Art. 2
+
+Il est créé auprès du Parlement flamand un "Vlaams Instituut voor Vrede en Geweldpreventie", ci-après dénommé "Vredesinstituut" (Institut pour la Paix), qui est une institution indépendante active dans le domaine des questions de la paix dans le sens le plus large du mot. Cela implique entre autres des activités sur le plan de la polémologie, de la défense sociale, de la maîtrise des armes, du trafic d'armes international et de l'économie de paix, des formes d'approche paisible de conflits et de la société internationale.
+
+Le "Vredesinstituut" est composé d'un Conseil d'administration, d'un Conseil scientifique et d'un Secrétariat scientifique.
+
+## CHAPITRE II. - Missions.
+
+### Section Ire. - Mission documentaire.
+
+#### Art. 3
+
+Le "Vredesinstituut" recueille et inventorie les sources d'information pertinentes et les met à disposition du public.
+
+### Section II. - Mission de recherche.
+
+#### Art. 4
+
+Le "Vredesinstituut" fait des recherches sur la paix, tant des recherches scientifiques fondamentales que des recherches qui s'inspirent de l'actualité. Ces recherches doivent contribuer à la promotion de solutions paisibles et équitables de conflits et litiges et à l'établissement des conditions d'une paix durable. Le "Vredesinstituut" étudie divers sujets ayant trait à la paix dans le contexte des relations internationales. Il entreprend des activités multidisciplinaires et noue des relations avec des institutions ou organisations similaires et des universités, tant à l'échelle nationale qu'internationale.
+
+Le "Vredesinstituut" entreprend également des recherches préparatoires pour jeter les bases d'une économie de paix flamande.
+
+### Section III. - Mission d'information.
+
+#### Art. 5
+
+Les résultats des recherches effectuées par le "Vredesinstituut" sont communiqués par le directeur et un responsable de la communication au Parlement flamand et au public.
+
+Le "Vredesinstituut" stimule également l'échange d'idées et de visions entre les politiciens et les décideurs politiques confrontés à des sujets relevant de ses missions. A cet effet, des conférences et des séminaires sont organisés sur base régulière.
+
+### Section IV. - Mission de consultation.
+
+#### Art. 6
+
+[<sup>1</sup> Le "Vredesinstituut" peut, de sa propre initiative ou sur l'initiative du Parlement flamand formuler des avis sur des questions de la paix, visées à l'article 2. [<sup>2</sup> Les demandes de la part du Parlement flamand sont formulées de la manière fixée par le Règlement du Parlement flamand.]<sup>2</sup>
+
+Le " Vredesinstituut " émet son avis au Parlement flamand sur le rapport annuel du Gouvernement flamand au Parlement flamand sur l'application de la loi du 5 août 1991 [<sup>3</sup> telle que visée au décret du 15 juin 2012 concernant l'importation, l'exportation, le transit et le transfert de produits liés à la défense, d'autre matériel à usage militaire, de matériel de maintien de l'ordre, d'armes à feu civiles, de pièces et de munitions]<sup>3</sup>.
+
+Le " Vredesinstituut " rend les avis dans un délai de trente jours de la réception de la demande d'avis visée à l'alinéa premier ou du rapport annuel visé à l'alinéa deux.
+
+Les avis du "Vredesinstituut" sont rendus par décision collégiale suivant la procédure du consensus. A défaut de consensus, on procède au vote, le rapport des voix étant mentionné dans l'avis. Une note minoritaire peut être jointe à l'avis.
+
+Les avis du " Vredesinstituut " sont publics.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/23, art. 2, 004; En vigueur : 18-07-2009&gt;
+
+(2)&lt;DCFL 2012-11-09/07, art. 13, 005; En vigueur : 20-12-2012&gt;
+
+(3)&lt;DCFL 2012-11-09/07, art. 14, 005; En vigueur : 20-12-2012&gt;
+
+## CHAPITRE III. - Organisation et fonctionnement.
+
+### Section Ire. - Conseil d'administration.
+
+#### Art. 7
+
+§ 1er. Le "Vredesinstituut" est dirigé par un Conseil d'administration composé de dix-neuf membres ayant droit de vote, parmi lesquels un président et un vice-président qui sont élus parmi les membres du Conseil.
+
+§ 2. La qualité de membre du Conseil d'administration est incompatible avec celle de membre de la Chambre des Représentants, du Sénat, du Parlement flamand, du Parlement européen, [du Parlement de la Région de Bruxelles-Capitale, du Parlement de la Communauté française, du Parlement wallon, du Parlement] de la Communauté germanophone, du Gouvernement fédéral, du Gouvernement flamand, du Gouvernement de Bruxelles-Capitale, du Gouvernement de la Communauté française, du Gouvernement de la Région wallonne, du Gouvernement de la Communauté germanophone ou du pouvoir judiciaire ou avec une fonction à la [<sup>1</sup> Cour constitutionnelle]<sup>1</sup>, au Conseil d'Etat et à la Cour des Comptes. &lt;DCFL 2006-06-23/49, art. 56, 003; En vigueur : 30-11-2006&gt;
+
+§ 3. [Le Parlement flamand nomme les membres du conseil d'administration :
+
+1° six membres sur la proposition des groupes au Parlement flamand en raison de leur compétence et de leur intérêt pour les questions de la paix. Ils siègent au conseil en leur propre nom.
+
+2° trois membres sur la proposition du "Vlaamse Interuniversitaire Raad" [Conseil interuniversitaire flamand];
+
+3° trois membres sur la proposition d'un partenariat volontaire d'organisations néerlandophones pour la paix;
+
+4° quatre membres sur la proposition du "Sociaal-Economische Raad van Vlaanderen (Conseil socio-économique de la Flandre);
+
+Le conseil d'administration, tel qu'il est composé sur la base de l'alinéa précédent, coopte trois membres et communique leurs noms au Parlement flamand.] &lt;DCFL 2005-07-15/52, art. 26, 002; En vigueur : 19-09-2005&gt;
+
+Le directeur du "Vredesinstituut" assiste aux réunions du Conseil de l'administration avec voix consultative et est rapporteur.
+
+§ 4. [<sup>2</sup> Deux tiers au maximum des membres du Conseil d'administration sont du même sexe.
+
+Les groupes au parlement, visés au § 3, alinéa premier, 1°, proposent quatre membres du même sexe au maximum. L'ensemble des candidats proposés par les groupes au parlement ne peut être constitué de membres du même sexe qu'à raison de deux tiers. Lorsque plus des deux tiers des candidats proposés par les groupes au parlement sont du même sexe, il incombe au groupe au parlement ayant droit au dernier candidat sur la base de l'application du système D'Hondt, de proposer un candidat du sexe sous-représenté. Lorsque ce candidat est du sexe sous-représenté ou que la représentation des candidats du même sexe est toujours de plus des deux tiers, il incombe au groupe au parlement pouvant proposer l'avant-dernier candidat sur la base de l'application du système D'Hondt, de proposer un candidat du sexe sous-représenté.
+
+Les propositions visées au § 3, alinéa premier, 2° à 4° inclus, doivent à chaque fois comporter des membres des deux sexes.]<sup>2</sup>
+
+§ 5. [<sup>2</sup> Les membres du conseil d'administration sont nommés ou cooptés pour un mandat de cinq ans. Le mandat des membres du conseil d'administration, visés au § 3, alinéa deux, expire le même jour que celui des autres membres du conseil d'administration.
+
+En cas de cessation anticipée d'un mandat, le successeur achève le mandat.
+
+La nomination ou la cooptation d'un successeur s'effectuent selon la procédure visée au § 3, alinéas premier et deux, à condition que toute proposition d'un successeur dont la nomination constituerait une violation du principe de la représentation équilibrée, visée au § 4, alinéa premier, soit irrecevable.]<sup>2</sup>
+
+[<sup>2</sup> § 6. Le conseil d'administration est assisté par le Secrétariat scientifique qui est composé de manière multidisciplinaire et est dirigé par un directeur.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/23, art. 3, 004; En vigueur : 18-07-2009&gt;
+
+(2)&lt;DCFL 2009-05-08/23, art. 3, 004; En vigueur : indéterminée , dès le premier renouvellement intégral des mandats&gt;
+
+### Section II. - Conseil scientifique.
+
+#### Art. 8
+
+§ 1er. Le Conseil scientifique est un organe consultatif attaché au Conseil d'administration. Il est composé du président du Conseil d'administration, du directeur du "Vredesinstituut" ainsi que de huit spécialistes belges et étrangers issus de milieux académiques et d'organisations non gouvernementales. Le Conseil d'administration nomme les membres du Conseil scientifique pour cinq ans. Les mandat des membres du Conseil scientifique peut être renouvelé une fois. En cas de cessation anticipée du mandat d'un membre, le Conseil d'administration désigne un nouveau membre pour la durée restante du mandat.
+
+§ 2. Le Conseil scientifique évalue la qualité de la mission de recherche conférée au "Vredesinstituut" telle que visée à l'article 4. Ce rapport d'évaluation est joint au rapport annuel du Parlement flamand.
+
+§ 3. Le Conseil scientifique a pour mission de conseiller le Conseil d'administration et/ou le directeur sur les tendances importantes dans la problématique de la paix et de la sécurité. Vu son expertise, il peut également être consulté pour les recherches en cours.
+
+§ 4. Sur la base de l'article 11, le Conseil scientifique fait des recommandations concernant les propositions de projet externes.
+
+### Section III. - Directeur et Secrétariat scientifique.
+
+#### Art. 9
+
+§ 1er. Le directeur est chargé de la [<sup>1</sup> bonne gestion de l'établissement]<sup>1</sup> et règle la coopération entre le Conseil d'administration, le Conseil scientifique et le Secrétariat scientifique, dans la mesure où cela n'est pas prévu par le règlement intérieur.
+
+§ 2. (Le Parlement flamand nomme le directeur, après appel public aux candidatures et sur base d'une sélection comparative, pour une période de six ans. [<sup>2</sup> Le Parlement flamand ou un organe parlementaire désigné par le Parlement arrête les conditions et la procédure de sélection, sur la proposition du conseil d'administration.]<sup>2</sup> La sélection est effectuée par ou pour le compte du Parlement flamand.
+
+Une personne peut exercer les fonctions de directeur au maximum pendant deux périodes, consécutives ou non.
+
+§ 3. Le directeur doit remplir les conditions suivantes :
+
+1° être Belge ou ressortissant d'un Etat membre de l'Espace économique européen;
+
+2° être de conduite irréprochable;
+
+3° jouir des droits civils et politiques;
+
+4° être titulaire d'un diplôme donnant accès à une fonction de [<sup>2</sup> classe III]<sup>2</sup> auprès des services du Parlement flamand;
+
+5° avoir une expérience professionnelle utile d'au moins cinq ans;
+
+§ 4. A sa première nomination, le directeur accomplit une période d'essai de 1 an à compter du jour où l'intéressé assume effectivement ses fonctions.
+
+Au plus tard quarante-cinq jours avant l'expiration de la période d'essai, le Parlement flamand [<sup>2</sup> ou un organe parlementaire désigné par le Parlement,]<sup>2</sup> procède à l'évaluation du directeur après avoir recueilli dans les délais l'avis du conseil d'administration.
+
+Faute d'évaluation à ce moment, l'évaluation est réputée favorable.
+
+§ 5. Au plus tard nonante jours avant l'expiration de la période d'essai, le Parlement flamand procède à l'évaluation du directeur après avoir recueilli dans les délais l'avis du conseil d'administration.
+
+En cas d'évaluation favorable du directeur, son mandat est renouvelé d'office une fois pour une nouvelle période de six ans.
+
+Faute d'évaluation nonante jours avant l'expiration du mandat, l'évaluation est réputée favorable.) &lt;DCFL 2005-07-15/52, art. 27, 002; En vigueur : 19-09-2005&gt;
+
+[<sup>2</sup> § 6. Le Parlement flamand ou un organe parlementaire désigné par le Parlement arrête la procédure pour les évaluations visées aux paragraphes 4 et 5.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2012-11-09/07, art. 15, 005; En vigueur : 20-12-2012&gt;
+
+(2)&lt;DCFL 2020-05-08/04, art. 18, 006; En vigueur : 08-05-2020&gt;
+
+#### Art. 9bis
+
+&lt;Inséré par DCFL 2005-07-15/52, art. 28; En vigueur : 19-09-2005&gt; Avant d'entrer en fonction, le directeur prête, entre les mains du président du Parlement flamand, le serment suivant : "Je jure fidélité au Roi, obéissance à la Constitution, et aux lois du peuple belge".
+
+#### Art. 9ter
+
+&lt;Inséré par DCFL 2005-07-15/52, art. 29; En vigueur : 19-09-2005&gt; § 1er. Le directeur bénéficie du salaire, du pécule de vacances, de l'allocation de fin d'année et des avantages sociaux d'un membre du personnel statutaire de [<sup>1</sup> classe IV]<sup>1</sup> du Parlement flamand.
+
+Pour chaque mois de service complet, le directeur a droit à des avantages supplémentaires en matière de pension de retraite qui correspondent à la différence entre d'une part 1/720e du traitement de référence et d'autre part la pension de retraite à charge des travailleurs à laquelle il peut prétendre du chef de l'exercice de cette fonction. Le traitement de référence est le traitement annuel moyen des 5 dernières années du mandat de directeur exercé ou, si l'exercice du mandat est inférieur à 5 ans, la traitement annuel moyen calculé sur le mandat complet.
+
+En cas de maladie ou d'invalidité, le directeur a droit à des avantages supplémentaires qui correspondent à la différence entre d'une part son traitement et d'autre part l'allocation qu'il perçoit.
+
+§ 2. La fonction de directeur est incompatible avec un mandat public conféré par élection. Sont assimilés à un mandat public conféré par élection : la fonction de bourgmestre nommé en dehors du conseil communal, un mandat d'administrateur dans un organisme d'intérêt public, la fonction de commissaire du Gouvernement, la fonction de gouverneur, de gouverneur adjoint ou de vice-gouverneur, la fonction de ministre fédéral, communautaire ou régional, la fonction de secrétaire d'Etat ou de secrétaire d'Etat régional ou un mandat politique auprès de l'Union européenne;
+
+En outre, le directeur ne peut pas exercer une fonction publique ou toute autre fonction ou activité compromettant la dignité de la fonction ou le bon exercice indépendant et impartial de la fonction.
+
+----------
+
+(1)&lt;DCFL 2020-05-08/04, art. 19, 006; En vigueur : 08-05-2020&gt;
+
+#### Art. 9quater
+
+&lt;Inséré par DCFL 2005-07-15/52, art. 30; En vigueur : 19-09-2005&gt; Le mandat du directeur prend fin d'office :
+
+1° [<sup>1</sup> par la notification d'une évaluation défavorable de la période d'essai au directeur;]<sup>1</sup>
+
+2° après une évaluation défavorable du mandat, à l'expiration de ce dernier;
+
+3° lorsqu'il est déclaré définitivement inapte au travail.
+
+Le Parlement flamand met fin au mandat du directeur :
+
+1° à sa demande;
+
+2° lorsqu'il accepte un mandat, tel que visé à l'article 9ter, § 2, alinéa 1er;
+
+3° lorsqu'il exerce une fonction publique ou toute autre fonction ou une activité, telles que visées à l'article 9ter, § 2, alinéa deux. La décision de mettre fin au mandat est prise dans ce cas sur la proposition du conseil d'administration;
+
+4° lorsqu'il ne remplit plus les conditions visées à l'article 9, § 3, 1° et 3°.
+
+Le Parlement flamand peut uniquement mettre fin au mandat du directeur après avis du conseil d'administration :
+
+1° moyennant l'accord de l'intéressé;
+
+2° [<sup>1</sup> au moment où il atteint l'âge légal de la retraite d'un membre du personnel du Parlement flamand ;]<sup>1</sup>
+
+3° pour des motifs graves.
+
+[<sup>1</sup> La notification de l'évaluation défavorable, visée à l'alinéa 1er, 1°, se fait par lettre recommandée à la poste et produit ses effets le troisième jour ouvrable après la date d'envoi. Par jour ouvrable on entend chaque jour de la semaine, à l'exception du samedi, du dimanche et des jours fériés légaux et décrétaux. Le directeur conserve les indemnités et avantages, visés à l'article 9ter, § 1er, alinéa 1er, jusqu'à la fin de la période d'essai visée à l'article 9, § 4, alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-05-08/04, art. 20, 006; En vigueur : 08-05-2020&gt;
+
+#### Art. 9quinquies
+
+&lt;Inséré par DCFL 2005-07-15/52, art. 31; En vigueur : 19-09-2005&gt; [<sup>1</sup> En cas de vacance de la fonction de directeur, la procédure de sélection est lancée dans les meilleurs délais en vue de la nomination d'un nouveau directeur.]<sup>1</sup>
+
+Lorsque le mandat du directeur expire et qu'aucun successeur n'a été nommé ou le successeur n'a pas encore effectivement assumé ses fonctions, le directeur continue à exercer ses fonctions jusqu'à ce que le successeur assume effectivement ses fonctions, le cas échéant par dérogation à l'article 9, § 2, alinéa deux.
+
+Dans les cas visés à l'article 9quater, ou en cas de décès du directeur, le Parlement flamand peut désigner comme directeur faisant fonction l'un des membres du personnel du "Vredesinstituut" qui répond aux conditions prescrites à l'article 9, § 3, 1°, 2°, 3° et 4°. Ce régime s'applique également lorsque le directeur est absent pour cause de maladie pendant au moins deux mois successifs ou lorsqu'il est établi qu'il sera absent pour cause de maladie durant au moins deux mois successifs. La désignation du directeur faisant fonction se fait sur la proposition du conseil d'administration, après comparaison des titres et mérites des candidats.
+
+Le directeur faisant fonction bénéficie pour la durée de sa désignation, d'une allocation qui est égale à la différence entre le salaire du directeur et son salaire comme membre du personnel du "Vredesinstituut".
+
+Cette allocation temporaire n'est pas prise en compte pour le calcul du pécule de vacances et de l'allocation de fin d'année.
+
+----------
+
+(1)&lt;DCFL 2020-05-08/04, art. 21, 006; En vigueur : 08-05-2020&gt;
+
+#### Art. 10
+
+Les membres du personnel du Secrétariat scientifique accomplissent leur mission sous la direction d'un directeur. Le cadre du personnel et le statut du personnel du "Vredesinstituut" sont fixés par le Parlement flamand sur la proposition du Conseil d'administration.
+
+### Section IV. [<sup>1</sup> - Dispositions particulières relatives au fonctionnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 16, 005; En vigueur : 20-12-2012&gt;
+
+#### Art. 11
+
+Pour accomplir ses missions, le "Vredesinstituut" a le droit de se faire communiquer des documents et rapports officiels portant sur ses missions. Le "Vredesinstituut" peut faire appel à des commission ad hoc d'experts et sous-traiter des projets.
+
+#### Art. 11bis
+
+[<sup>1</sup> Le " Vredesinstituut " est responsable de la conservation et organise la gestion des archives du " Vredesinstituut ".
+
+La conservation des archives et la réalisation de la gestion des archives, ainsi que l'accès aux documents des archives se déroulent selon les standards et pratiques utilisés par le Parlement flamand pour ses archives.
+
+Sur la proposition du " Vredesinstituut ", les listes de sélection des archives sont approuvées par le Parlement flamand ou par un organe désigné par le Parlement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 17, 005; En vigueur : 20-12-2012&gt;
+
+#### Art. 11ter
+
+[<sup>1</sup> Pour les litiges et les actes dont l'objet relève de la compétence du " Vredesinstituut ", la Communauté flamande ou la Région flamande est représentée par le " Vredesinstituut " dans tous les actes judiciaires et extrajudiciaires, conformément à son règlement d'ordre intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 18, 005; En vigueur : 20-12-2012&gt;
+
+#### Art. 11quater
+
+[<sup>1</sup> Le " Vredesinstituut " et le Parlement flamand peuvent collaborer mutuellement. Cette collaboration ne peut pas porter porté préjudice au fonctionnement autonome du " Vredesinstituut ". Le contenu de la collaboration est arrêté dans un protocole signé par les deux parties.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 19, 005; En vigueur : 20-12-2012&gt;
+
+#### Art. 12
+
+Le directeur transmet un rapport écrit au moins une fois par an avant le 1er octobre au Parlement flamand sur les activités du "Vredesinstituut". Ce rapport contient les recommandations que le "Vredesinstituut" juge utile. Le rapport du "Vredesinstituut" est rendu public par le Parlement flamand.
+
+#### Art. 13
+
+Le "Vredesinstituut" peut être entendu à tout moment, d'initiative ou non, par le Parlement flamand.
+
+## CHAPITRE IV. - Dispositions finales.
+
+#### Art. 14
+
+&lt;DCFL 2005-07-15/52, art. 32, 002; En vigueur : 19-09-2005&gt; Le Parlement flamand approuve chaque année sur proposition du conseil d'administration, le budget et les comptes de l'Institut.
+
+#### Art. 14bis
+
+[<sup>1</sup> Le " Vredesinstituut " est soumis à un audit interne dont les modalités sont fixées par le Parlement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-09/07, art. 20, 005; En vigueur : 20-12-2012&gt;
+
+#### Art. 15
+
+Le Conseil d'administration établit un règlement intérieur pour son fonctionnement et celui du Secrétariat scientifique et du Conseil scientifique et pour leur coopération mutuelle. Ce règlement est soumis à l'approbation du Parlement flamand. Le règlement approuvé est publié au Moniteur belge.
+
+#### Art. 15bis
+
+&lt;Inséré par DCFL 2005-07-15/52, art. 33; En vigueur : 19-09-2005&gt; Le Parlement flamand fixe la résidence administrative du "Vredesinstituut".
+
+#### Art. 16
+
+Le Parlement flamand évalue le fonctionnement du "Vredesinstituut" cinq ans après la première composition complète du Conseil d'administration.
+
+#### Art. 16bis.
+
+[<sup>1</sup> Le directeur en service au jour de l'entrée en vigueur du décret du 8 mai 2020 modifiant certaines dispositions relatives à la sélection et à l'évaluation du commissaire aux droits de l'enfant, du médiateur flamand et du directeur de l'Institut flamand pour la Paix, et instaurant auprès du Service de médiation flamand une mission de médiation liée au coronavirus en matière de baux d'habitation, conserve le traitement d'un membre du personnel statutaire de rang A2 du Parlement flamand jusqu'à ce qu'il quitte sa fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-05-08/04, art. 22, 006; En vigueur : 08-05-2020&gt;
+
+#### Art. 17
+
+Le présent décret entre en vigueur le 1er septembre 2004.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 mai 2004.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand de l'Emploi et du Tourisme,
+
+R. LANDUYT
+
+La Ministre flamande de l'Enseignement et de la Formation,
+
+M. VANDERPOORTEN
+
+Le Ministre flamand des Finances et du Budget, de l'Aménagement du Territoire, des Sciences et de l'Innovation technologique,
+
+D. VAN MECHELEN
+
+Le Ministre flamand des Affaires intérieures, de la Culture, de la Jeunesse et de la Fonction publique,
+
+P. VAN GREMBERGEN
+
+Le Ministre flamand de la Mobilité, des Travaux publics et de l'Energie,
+
+G. BOSSUYT
+
+La Ministre flamande de l'Aide sociale, de la Santé et de l'Egalité des Chances,
+
+A. BYTTEBIER
+
+La Ministre flamande de l'Economie, de la Politique extérieure et de l'E-gouvernement,
+
+P. CEYSENS
+
+Le Ministre flamand de l'Habitat, des Médias et des Sports,
+
+M. KEULEN
+
+Le Ministre flamand de l'Environnement, de l'Agriculture et de la Coopération au Développement,
+
+J. TAVERNIER

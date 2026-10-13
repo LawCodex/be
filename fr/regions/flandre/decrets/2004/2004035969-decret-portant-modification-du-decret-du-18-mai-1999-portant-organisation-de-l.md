@@ -1,0 +1,47 @@
+---
+title: "Décret portant modification du décret du 18 mai 1999 portant organisation de l'aménagement du territoire en ce qui concerne les zones affectées aux équipements communs et utilitaires publics"
+identifier: "2004035969"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035969/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-05-07
+published: 2004-06-28
+entry_into_force: 2004-07-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035969/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 7 MAI 2004. - Décret portant modification du décret du 18 mai 1999 portant organisation de l'aménagement du territoire en ce qui concerne les zones affectées aux équipements communs et utilitaires publics
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret portant modification du décret du 18 mai 1999 portant organisation de l'aménagement du territoire en ce qui concerne les zones affectées aux équipements communs et utilitaires publics.
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Au titre IV du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, modifié par les décrets des 22 décembre 1999, 26 avril 2000, 13 juillet 2001, 19 juillet 2002 et 21 novembre 2003, il est ajouté un chapitre V, comprenant un article 145quinquies, rédigé comme suit :
+
+" CHAPITRE V. - Dispositions particulières en matière d'une affection d'une zone du plan de secteur destinée aux équipements communs et utilitaires publics
+
+Art. 145quinquies. Dans les zones indiquées sur les plans de secteur comme zones affectées aux équipements communs et utilitaires publics, les travaux, actes et modifications qui doivent être considérés comme travaux, actes et modifications d'intérêt général en application de l'article 103, peuvent toujours être autorisés, quel que soit les statut de droit privé ou public du preneur d'initiative ou qu'il y ait absence ou présence d'un but lucratif ou non. Le même principe s'applique aux activités ou aménagements liés à ces travaux, actes ou modifications. "
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 mai 2004.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand des Finances et du Budget, de l'Aménagement du Territoire, des Sciences et de l'Innovation technologique,
+
+D. VAN MECHELEN.

@@ -1,0 +1,55 @@
+---
+title: "Décret modifiant le décret du 4 avril 2003 relatif à l'animation socioculturelle des adultes"
+identifier: "2004035983"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035983/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-05-07
+published: 2004-06-28
+entry_into_force: 2004-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035983/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 7 MAI 2004. - Décret modifiant le décret du 4 avril 2003 relatif à l'animation socioculturelle des adultes
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret modifiant le décret du 4 avril 2003 relatif à l'animation socioculturelle des adultes.
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+A l'article 59bis du décret du 4 avril 2003 relatif à l'animation socioculturelle des adultes, inséré par le décret du 19 décembre 2004, sont apportées les modifications suivantes :
+
+1° le § 7 est complété par la phrase suivante :
+
+" Pour les organisations mentionnées au § 3, l'enveloppe de subventions est majorée, en cas de recrutement de personnel aux conditions imposées par le présent article, des subventions de personnel liées à la fonction concernée dans le cadre du décret du 19 avril 1995 réglant l'octroi de subventions aux institutions d'éducation populaire. " ;
+
+2° il est ajouté un § 11, rédigé comme suit :
+
+" § 11. Si une convention collective du travail est conclue en la matière, certains membres du personnel faisant l'objet du choix opéré par leur institution de formation aux termes de l'article 58, § 2, ou qui sont licenciés suite à la décision sur le caractère spécialisé dans le cadre du présent décret, peuvent bénéficier d'un régime de prépension en 2004. Le Gouvernement flamand est habilité à régler l'exécution concrète par convention. Si le régime de prépension est réglé par convention conclue avec une université populaire, l'indemnité complémentaire à subventionner ne fait pas partie de l'enveloppe de subventions, visée à l'article 22, § 1er. "
+
+## Art. 3
+
+Le présent décret produit ses effets le 1er janvier 2001.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 mai 2004.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand des Affaires intérieures, de la Culture, de la Jeunesse et de la Fonction publique,
+
+P. VAN GREMBERGEN.

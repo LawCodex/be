@@ -1,0 +1,2145 @@
+---
+title: "Décret portant uniformisation des dispositions de contrôle, de sanction et pénales reprises dans la réglementation des matières de législation sociale qui relèvent de la compétence de la Communauté flamande et de la Région flamande (cité comme : le décret relatif au contrôle des lois sociales) (TRADUCTION)"
+identifier: "2004036200"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004036200/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-04-30
+published: 2004-08-05
+entry_into_force: 2004-08-15
+last_amended: 2026-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004036200/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 05-08-2004 et mise à jour au 28-07-2026"
+retrieved: 2026-10-12
+---
+
+# 30 AVRIL 2004. - Décret portant uniformisation des dispositions de contrôle, de sanction et pénales reprises dans la réglementation des matières de législation sociale qui relèvent de la compétence de la Communauté flamande et de la Région flamande (cité comme : le décret relatif au contrôle des lois sociales) (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret portant uniformisation des dispositions de contrôle, de sanction et pénales reprises dans la réglementation des matières de législation sociale qui relèvent de la compétence de la Communauté flamande et de la Région flamande
+
+## CHAPITRE Ier. - Dispositions introductives.
+
+#### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+#### Art. 2
+
+§ 1er. Le présent décret définit les compétences des inspecteurs des lois sociales chargés du contrôle de la réglementation mentionnée ci-dessous [<sup>1</sup> y compris les arrêtés d'exécution]<sup>1</sup> et fixe les amendes administratives applicables en cas d'infraction à ces dispositions et en cas d'infraction à la réglementation établie en vertu des dispositions suivantes :
+
+1° [<sup>14</sup> ...]<sup>14</sup>
+
+2° Le décret du 19 juillet 1973 réglant l'emploi des langues en matière de relations sociales entre employeurs et travailleurs, ainsi qu'en matière d'actes et de documents d'entreprise prescrits par la loi et les règlements;
+
+3° l'arrêté royal n° 25 du 24 mars 1982 créant un programme de promotion de l'emploi dans le secteur non marchand;
+
+4° [<sup>2</sup> ...]<sup>2</sup>;
+
+5° [<sup>22</sup> le décret du 14 janvier 2022 relatif au travail adapté dans le cadre de l'intégration individuelle]<sup>22</sup>;
+
+6° [<sup>5</sup> le décret du 12 juillet 2013 relatif au travail adapté dans le cadre de l'intégration collective;]<sup>5</sup>;
+
+7° [<sup>2</sup> le décret du 10 décembre 2010 relatif au placement privé;]<sup>2</sup>
+
+8° [<sup>2</sup> ...]<sup>2</sup>;
+
+9° le décret du 8 mai 2002 relatif à la participation proportionnelle sur le marché de l'emploi;
+
+[<sup>1</sup> 10° [<sup>7</sup> le Règlement (UE) n° 1303/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen, au Fonds de cohésion, au Fonds européen agricole pour le développement rural et au Fonds européen pour les affaires maritimes et la pêche, portant dispositions générales applicables au Fonds européen de développement régional, au Fonds social européen, au Fonds de cohésion et au Fonds européen pour les affaires maritimes et la pêche, et abrogeant le règlement (CE) n° 1083/2006 du Conseil;]<sup>7</sup>
+
+11° [<sup>7</sup> le Règlement (UE) n° 1304/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au Fonds social européen et abrogeant le règlement (CE) n° 1081/2006 du Conseil;]<sup>7</sup>
+
+12° [<sup>26</sup>[<sup>27</sup> le règlement (UE) 2021/1147 du Parlement européen et du Conseil du 7 juillet 2021 établissant le Fonds " Asile, migration et intégration " ; " ;]<sup>27</sup>]<sup>26</sup>;
+
+13° le Règlement (CE) n° 1828/2006 de la Commission du 8 décembre 2006 établissant les modalités d'application du Règlement (CE) n° 1083/2006 du Conseil portant dispositions générales sur le Fonds européen de développement régional, le Fonds social européen et le Fonds de cohésion, et du Règlement (CE) n° 1080/2006 du Parlement européen et du Conseil relatif au Fonds européen de développement régional;]<sup>1</sup>
+
+14° le décret du 17 janvier 2003 portant approbation de l'accord de coopération du 7 décembre 2001 conclu entre l'Etat fédéral, les Régions et la Communauté germanophone concernant le développement des services et des emplois de proximité;
+
+15° le décret du 19 décembre 2003 contenant diverses mesures d'accompagnement du budget 102, notamment l'article 102;
+
+16° [<sup>15</sup> ...]<sup>15</sup>
+
+(17° [<sup>4</sup> le décret du 22 novembre 2013 relatif à l'économie de services locaux;]<sup>4</sup> ) &lt;DCFL 2006-12-22/61, art. 10, 002; En vigueur : 01-01-2008&gt;
+
+[<sup>1</sup> 18° la loi-programme du 30 décembre 1988, Titre III Emploi et Travail, Chapitre II Création d'un régime de contractuels subventionnés auprès de certains pouvoirs publics, les articles 93 à 101 inclus;
+
+19° le décret du 17 mars 1998 contenant diverses orientations politiques, chapitre IV, Emploi, les articles 11 à 13 inclus;
+
+20° le décret du 8 décembre 2000 contenant diverses dispositions, chapitre VIII, Emploi, les articles 14 à 18 inclus;
+
+21° le décret du 19 décembre 2003 contenant diverses mesures d'accompagnement du budget 2004, les chapitres XXVII Chèques-formation et XXXVII Formation professionnelle;
+
+22° le décret du 30 avril 2004 relatif à l'obtention d'un titre de compétence professionnelle;
+
+23° [<sup>26</sup> [<sup>27</sup>le règlement (UE) 2021/1057 du Parlement européen et du Conseil du 24 juin 2021 instituant le Fonds social européen plus (FSE+) et abrogeant le règlement (UE) 1296/2013 ]<sup>27</sup> ;]<sup>26</sup>;
+
+24°[<sup>26</sup> [<sup>27</sup> le Règlement (UE) 2021/1060 du Parlement européen et du Conseil du 24 juin 2021 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires maritimes, la pêche et l'aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds " Asile, migration et intégration ", au Fonds pour la sécurité intérieure et à l'instrument de soutien financier à la gestion des frontières et à la politique des visas ]<sup>27</sup> ;]<sup>26</sup>
+
+25° le décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";
+
+26° le décret du 7 mai 2004 relatif au statut, au fonctionnement, aux tâches et aux compétences des partenariats régionaux agréés, des conseils socio-économiques de la région et des comités de concertation socio-économiques régionaux;
+
+27° [<sup>5</sup> ...]<sup>5</sup>;
+
+28° [<sup>25</sup> le décret du 22 mars 2024 relatif à l'appui à l'économie sociale et à la responsabilité sociale des entreprises ]<sup>25</sup>;
+
+29° [<sup>3</sup> ...]<sup>3</sup>
+
+30° l'arrêté du Gouvernement flamand du 22 septembre 1998 instaurant une prime d'encouragement à l'interruption de carrière pour les personnels du secteur public flamand et de l'enseignement néerlandophone, dans le cadre des mesures visant à redistribuer le travail;
+
+31° l'arrêté du Gouvernement flamand du 8 juin 2001 octroyant une prime d'encouragement en cas d'interruption de carrière dans le cadre des emplois d'atterrissage pour les membres du personnel des institutions communautaires d'assistance spéciale à la jeunesse;
+
+32° l'arrêté du Gouvernement flamand du 1er mars 2002 portant réforme du régime des primes d'encouragement au secteur privé;
+
+33° l'arrête du Gouvernement flamand du 3 mai 2002 instituant les primes d'encouragement dans le secteur non marchand privé flamand;
+
+34° l'arrêté du Gouvernement flamand du 8 septembre 2000 portant un programme d'impulsion et de soutien de l'économie plurielle;
+
+35° [<sup>21</sup> 35° le décret du 17 février 2023 relatif aux convenants sectoriels et aux convenants intersectoriels dans le cadre de la politique flamande de l'emploi]<sup>21</sup>;]<sup>1</sup>
+
+[<sup>6</sup> 36°[<sup>24</sup> les chapitres 4, 5 et 7 du décret du 8 juillet 2022 relatif aux parcours de travail et de soins ;]<sup>24</sup>;]<sup>6</sup>
+
+[<sup>7</sup> 37° le chapitre IV, [<sup>10</sup> section 5]<sup>10</sup> section 6, de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales [<sup>10</sup> , à l'exception des dispositions des articles [<sup>11</sup> 113,]<sup>11</sup> 115, 118 et 119]<sup>10</sup>;
+
+38° la loi du 19 juillet 1983 sur l'apprentissage de professions exercées par des travailleurs salariés ;
+
+39° les chapitres V et VII de la loi du 5 septembre 2001 visant à améliorer le taux d'emploi des travailleurs ;
+
+40° [<sup>12</sup> le Décret sur le travail de proximité du 7 juillet 2017;]<sup>12</sup>
+
+41° [<sup>23</sup> le décret du 23 décembre 2022 relatif à la prime pour l'apprentissage qualifiant sur le lieu de travail destinée aux entreprises et à la prime pour les élèves en formation en alternance ;]<sup>23</sup>
+
+42° les articles [<sup>10</sup> 57quater, § 1er, § 2 et § 4, 2°]<sup>10</sup>, 60, § 7, et 61, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale ;
+
+43° le Règlement (UE) n° 516/2014 du Parlement européen et du Conseil du 16 avril 2014 portant création du Fonds " Asile, migration et intégration ", modifiant la décision 2008/381/CE du Conseil et abrogeant les décisions n° 573/2007/CE et n° 575/2007/CE du Parlement européen et du Conseil et la décision 2007/435/CE du Conseil ;
+
+44° la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité[<sup>10</sup> , à l'exception de la section 2 du chapitre II ]<sup>10</sup>];-7
+
+[<sup>8</sup> 45° l'octroi de primes aux chômeurs indemnisés qui ont suivi une formation professionnelle, visée à l'article 7, § 1er, alinéa 3, i), de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs ;
+
+46° l'activation des allocations octroyées par l'assurance-chômage, en cas de reprise de travail, avec maintien d'une allocation qui est déduite du salaire par l'employeur, visée à l'article 7, § 1er, alinéa 3, m), de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs ;
+
+47° l'octroi de primes aux chômeurs indemnisés qui reprennent le travail, visée à l'article 7, § 1er, alinéa 3, p), de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs ;
+
+48° [<sup>9</sup> ...]<sup>9</sup>
+
+49° l'exonération du paiement des cotisations patronales de sécurité sociale et des réductions des cotisations des travailleurs pour le secteur de la marine marchande, visée à l'article 3, § 1er, alinéa 3, de l'arrêté-loi du 7 février 1945 concernant la sécurité sociale des marins de la marine marchande, qui est accordée par le Gouvernement flamand aux entreprises appartenant aux secteurs de la marine marchande, du remorquage en mer et du dragage ;
+
+50° la subvention due lors de la mise au travail des bénéficiaires de revenus d'intégration, visée à l'article 5, § 4 à 4ter de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les Centres publics d'aide sociale ;
+
+51° l'affectation des moyens libérés à la suite de l'exonération des cotisations patronales de sécurité sociale, visée à loi du 22 décembre 1995 portant des mesures visant à exécuter le plan pluriannuel pour l'emploi ;
+
+52° les conventions de premier emploi dans le cadre des projets globaux, à l'exception des projets globaux avec occupation au sein des institutions fédérales, visés à l'article 43 de la loi du 24 décembre 1999 en vue de la promotion de l'emploi ;
+
+53° l'invention financière pour l'intérim d'insertion, visée aux articles 194 et 195 de la loi du 12 août 2000 portant des dispositions sociales, budgétaires et diverses ;
+
+54° les subventions visées aux articles 9 et 36 à 39, de loi du 26 mai 2002 concernant le droit à l'intégration sociale, et à l'article 5, § 4 à § 4ter de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale ;
+
+55° les réductions groupes-cibles, visées au titre IV, chapitre 7, section 3, sous-sections 1re à 3, sous-sections 5, 5bis, 7 et 10 à 15, de la Loi-programme (I) du 24 décembre 2002 ;
+
+56° le bonus jeunes non-marchand, déterminé dans les articles 79 à 86 de la loi du 23 décembre 2005 relative au pacte de solidarité entre les générations;]<sup>8</sup>
+
+[<sup>10</sup> 57° la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers ;]<sup>10</sup>
+
+[<sup>10</sup> 58° [<sup>17</sup> le décret du 15 octobre 2021 sur l'exécution d'activités professionnelles indépendantes par des ressortissants étrangers ;]<sup>17</sup>]<sup>10</sup>
+
+[<sup>13</sup> 59° l'octroi de primes de transition pour entrepreneurs, visées à l'article 3 du décret du 22 décembre 2017 portant une prime pour stimuler la transition de demandeurs d'emploi à l'entrepreneuriat;]<sup>13</sup>
+
+[<sup>16</sup> 60° les chèques-formation pour travailleurs, visés à l'article 2 du décret du [<sup>27</sup> 29 mars]<sup>27</sup> 2019 relatif aux chèques-formation pour travailleurs, à l'introduction d'une obligation d'enregistrement pour agents sportifs et modifiant diverses autres dispositions relatives au [<sup>27</sup> domaine politique de l'Emploi, de l'Economie, des Sciences, de l'Innovation, de l'Agriculture et de l'Economie sociale]<sup>27</sup>]<sup>16</sup>.
+
+[<sup>18</sup> 61° le décret du 10 juin 2016 réglant certains aspects des formations en alternance ;]<sup>18</sup>
+
+[<sup>18</sup> 62° le décret du 25 mars 2022 réglant certains aspects des formations duales dans l'éducation des adultes.]<sup>18</sup>
+
+[<sup>19</sup> 63° l'octroi du bonus emploi, visé à l'article 3 du décret du 20 mai 2022 réglant l'octroi d'un bonus emploi.]<sup>19</sup>
+
+[<sup>20</sup> 64° l'octroi du bonus emploi plus, visé aux articles 4 et 5 du décret du 15 juillet 2022 réglant l'octroi d'un bonus emploi plus aux indépendants débutants.]<sup>20</sup>
+
+Les inspecteurs des lois sociales sont en outre compétents en matière de contrôle et de surveillance du respect de la législation qui relève de la compétence de la Région flamande en vertu de loi spéciale du 8 août 1980 de réformes institutionnelles qui, dans l'article 6, § 1er, IX, 2°, confère aux régions la compétence en matière de programmes de remise au travail.
+
+§ 2. Le décret fixe en outre les amendes administratives applicables aux infractions visées à l'article 24 du présent décret.
+
+§ 3. [<sup>10</sup> Les fonctionnaires assermentés désignés par l'autorité fédérale disposent des compétences des inspecteurs des lois sociales lorsqu'ils agissent dans le cadre de leur tâche de formation, médiation et surveillance conformément aux dispositions du § 1er, 57° et 58°.]<sup>10</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/18, art. 2, 004; En vigueur : 01-10-2010&gt;
+
+(2)&lt;DCFL 2010-12-10/12, art. 29, 005; En vigueur : 01-01-2011&gt;
+
+(3)&lt;DCFL 2012-02-17/12, art. 30, 006; En vigueur : 05-04-2012&gt;
+
+(4)&lt;DCFL 2013-11-22/29, art. 35, 007; En vigueur : 01-04-2015 (voir AGF 2014-12-19/B5, art. 67, 1°)&gt;
+
+(5)&lt;DCFL 2013-07-12/39, art. 50, 008; En vigueur : 01-04-2019 (voir AGF 2017-02-17/18, art. 110)&gt;
+
+(6)&lt;DCFL 2014-04-25/G9, art. 48, 009; En vigueur : 01-02-2018 (voir AGF 2018-02-02/10, art. 52&gt;
+
+(7)&lt;DCFL 2015-04-24/05, art. 21, 011; En vigueur : 01-05-2015&gt;
+
+(8)&lt;DCFL 2016-03-04/12, art. 25, 012; En vigueur : 01-01-2016 (AGF 2016-06-10/03, art. 36)&gt;
+
+(9)&lt;DCFL 2016-07-08/06, art. 6, 013; En vigueur : 01-09-2016&gt;
+
+(10)&lt;DCFL 2016-12-23/67, art. 44, 014; En vigueur : 01-01-2017&gt;
+
+(11)&lt;DCFL 2017-07-07/19, art. 8, 015; En vigueur : 11-08-2017&gt;
+
+(12)&lt;DCFL 2017-07-07/30, art. 54, 016; En vigueur : 01-01-2018&gt;
+
+(13)&lt;DCFL 2017-12-22/47, art. 7, 017; En vigueur : 15-03-2018&gt;
+
+(14)&lt;DCFL 2018-10-12/10, art. 19, 019; En vigueur : 01-12-2018&gt;
+
+(15)&lt;DCFL 2019-03-29/28, art. 5,1°, 020; En vigueur : 01-04-2019&gt;
+
+(16)&lt;DCFL 2019-03-29/28, art. 5,2°, 020; En vigueur : 01-09-2019&gt;
+
+(17)&lt;DCFL 2021-10-15/14, art. 30, 022; En vigueur : 01-01-2022&gt;
+
+(18)&lt;DCFL 2022-03-25/15, art. 30, 023; En vigueur : 01-09-2022&gt;
+
+(19)&lt;DCFL 2022-05-20/08, art. 19, 024; En vigueur : 01-07-2022&gt;
+
+(20)&lt;DCFL 2022-07-15/28, art. 20, 025; En vigueur : 01-12-2022&gt;
+
+(21)&lt;DCFL 2023-02-17/13, art. 15, 026; En vigueur : 01-07-2023&gt;
+
+(22)&lt;DCFL 2022-01-14/24, art. 59, 028; En vigueur : 01-07-2023&gt;
+
+(23)&lt;DCFL 2022-12-23/15, art. 23, 027; En vigueur : 01-09-2023&gt;
+
+(24)&lt;DCFL 2022-07-08/06, art. 37, 029; En vigueur : 01-07-2023&gt;
+
+(25)&lt;DCFL 2024-03-22/21, art. 32, 035; En vigueur : 01-01-2026&gt;
+
+(26)&lt;DCFL 2026-06-19/09, art. 4, 037; En vigueur : 19-07-2026&gt;
+
+(27)&lt;DCFL 2026-06-26/19, art. 12, 038; En vigueur : 07-08-2026&gt;
+
+#### Art. 2/1
+
+[<sup>1</sup> Sans préjudice de l'application de l'article 2, les inspecteurs des lois sociales sont chargés du contrôle et de la surveillance des lois et arrêtés d'exécution fédéraux relatifs aux normes relatives au permis de travail délivré dans le cadre de la situation de séjour spécifique des personnes concernées, conformément aux dispositions des articles 23 à 39 inclus du Code pénal social. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-12-23/67, art. 45, 014; En vigueur : 01-01-2017&gt;
+
+#### Art. 3
+
+Pour l'application du présent décret et de ses arrêtés d'exécution, on entend par :
+
+1° travailleurs : les personnes qui exécutent des prestations de travail sous l'autorité d'une autre personne en vertu d'un contrat de travail, ainsi que les personnes y assimilées :
+
+a) les personnes qui, autrement qu'en vertu d'un contrat de travail, exécutent des prestations de travail sous l'autorité d'une autre personne, ou qui exécutent des prestations de travail dans des conditions similaires à celles d'un contrat de travail;
+
+b) les personnes qui ne travaillent pas sous l'autorité d'une autre personne, mais qui sont assujetties en tout ou en partie à la législation relative à la sécurité sociale des travailleurs salariés.
+
+c) [<sup>2</sup> les personnes visées à l'article 3, 2°, du décret du 10 décembre 2010 relatif au placement privé;]<sup>2</sup>
+
+2° apprenants : les personnes qui suivent une formation dans le cadre d'un recyclage, d'une reconversion ou de formation continue dans le cadre des mesures de promotion de l'emploi de la Région flamande;
+
+3° employeurs : les personnes physiques, les personnes morales de droit privé et public ou les associations de fait qui occupent les personnes visées au 1° et assimilées :
+
+a) ceux qui exploitent un bureau de placement payant ou entrent en considération pour une commission conformément à la réglementation relative à l'exploitation de bureaux de placement payant;
+
+b) ceux qui exploitent une agence intérimaire;
+
+c) ceux qui exploitent un bureau d'outplacement;
+
+d) ceux qui exploitent un bureau de recrutement et de sélection;
+
+e) ceux qui exploitent un bureau de placement gratuit conformément à la réglementation en vigueur;
+
+[<sup>3</sup> f) ceux qui sont chargés par le Gouvernement flamand de la gestion de services d'intérêt économique général;]<sup>3</sup>
+
+[<sup>5</sup> g) ceux qui exploitent une entreprise dont l'activité ou l'objectif comprend au moins partiellement la fourniture de travaux ou de services de proximité ;]<sup>5</sup>
+
+[<sup>6</sup> h) l'étranger exerçant une activité professionnelle indépendante.]<sup>6</sup>
+
+4° centres de formation : les personnes physiques, les personnes morales de droit public ou privé qui assurent la formation des personnes visées au 2°;
+
+5° usagers : les personnes physiques, personnes morales ou associations de fait qui font appel aux services des employeurs et qui ne tombent pas sous le 3°;
+
+6° ayants droit : les personnes, ayants droit ou ayants cause, qui ont droit aux avantages octroyés par la réglementation faisant l'objet de la surveillance et du contrôle exercés par les inspecteurs des lois sociales;
+
+7° données sociales : toutes les informations requises pour l'application de la réglementation visée à l'article 2;
+
+8° établissements publics et coopérants : les établissements chargés de et agréés pour la coopération à l'application de la réglementation visée à l'article 2;
+
+9° lieux de travail : tous les lieux où sont exercées des activités soumises au contrôle des inspecteurs des lois sociales ou dans lesquels sont occupées des personnes assujetties aux dispositions de la réglementation faisant l'objet du contrôle des inspecteurs des lois sociales. Ils comprennent notamment des entreprises, des parties d'entreprises, des établissements, des parties d'établissements, des immeubles, des locaux, des endroits situés dans le lieu d'implantation d'entreprises, des chantiers et des travaux en dehors des entreprises. On entend également par lieux de travail les endroits où les documents portant sur les activités réglementées sont conservés;
+
+[<sup>1</sup> 10° inspecteurs des lois sociales : les fonctionnaires assermentés de la [<sup>7</sup> division de l'Inspection sociale flamande]<sup>7</sup> du [<sup>9</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>9</sup>]<sup>1</sup>;
+
+11° Traité international n° 81 : la Convention internationale n° 81 Convention internationale relative a l'inspection du travail dans l'industrie et le commerce, adoptée a Genève le 11 juillet 1947, approuvée par la loi du 29 mars 1957;
+
+[<sup>1</sup> 12° supports d'information : tout support d'information dans quelle forme que ce soit, tels des livres, registres, documents, supports d'information numériques ou numérisés, disques, bandes, y compris ceux accessibles par le biais d'un système informatique ou d'un autre appareil;]<sup>1</sup>
+
+[<sup>7</sup> 13° subvention : tout avantage, toute indemnité, allocation, aide ou toute autre intervention financière qui est accordé ou octroyé par ou en vertu de la réglementation faisant l'objet de la surveillance et du contrôle exercés par les inspecteurs des lois sociales.]<sup>7</sup>
+
+[<sup>8</sup> 14° e-pv : le procès-verbal de constatation d'infractions, qui est créé et enregistré par les inspecteurs des lois sociales au moyen de l'application informatique conçue à cette fin conformément au modèle visé à l'article 100/2 du Code pénal social ;
+
+15° banque de données e-pv : la banque données visée à l'article 100/6 du Code pénal social dans laquelle les données figurant dans les e-pv et les données figurant dans les annexes à ces e-pv sont reprises et conservées ;
+
+16° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).]<sup>8</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/18, art. 3, 004; En vigueur : 01-10-2010&gt;
+
+(2)&lt;DCFL 2010-12-10/12, art. 30, 005; En vigueur : 01-01-2011&gt;
+
+(3)&lt;DCFL 2013-11-22/29, art. 36, 007; En vigueur : 01-04-2015 (voir AGF 2014-12-19/B5, art. 67, 1°)&gt;
+
+(4)&lt;DCFL 2014-12-19/A3, art. 19, 010; En vigueur : 01-06-2014&gt;
+
+(5)&lt;DCFL 2015-04-24/05, art. 22, 011; En vigueur : 01-05-2015&gt;
+
+(6)&lt;DCFL 2016-12-23/67, art. 46, 014; En vigueur : 01-01-2017&gt;
+
+(7)&lt;DCFL 2019-03-29/28, art. 6, 020; En vigueur : 01-04-2019&gt;
+
+(8)&lt;DCFL 2023-10-27/21, art. 20, 031; En vigueur : 01-01-2024&gt;
+
+(9)&lt;DCFL 2026-06-26/19, art. 13, 038; En vigueur : 07-08-2026&gt;
+
+## CHAPITRE II. - L'inspection des lois sociales.
+
+#### Art. 4
+
+Sans préjudice du décret du 20 juillet 1831 concernant le serment à la mise en vigueur de la monarchie représentative et du décret du 3 mai 1972 réglant l'emploi de la langue néerlandaise pour la prestation de serment, le serment de l'inspecteur des lois sociales est prêté entre les mains du Ministre flamand chargé de l'Emploi [<sup>1</sup> ou de son délégué]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2010-07-09/18, art. 4, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 5
+
+Sans préjudice des attributions des officiers de la police judiciaire, les inspecteurs des lois sociales surveillent et contrôlent le respect des dispositions reprises à l'article 2 du présent décret et des arrêtés d'exécution.
+
+Lors de l'exercice de leurs fonctions, les inspecteurs des lois sociales se font connaître à l'aide d'une carte de légitimation dont le contenu et la forme sont arrêtés par le Gouvernement flamand.
+
+Les inspecteurs des lois sociales peuvent requérir l'assistance de la police locale ou fédérale dans l'exercice de leurs fonctions.
+
+#### Art. 5/1
+
+[<sup>1</sup> Les inspecteurs des lois sociales exercent les compétences visées au présent décret en vue du contrôle du respect de la réglementation pour laquelle ils sont compétents.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 5, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 5/2
+
+[<sup>1</sup> Lors de l'exercice des compétences visées au présent décret, les inspecteurs des lois sociales doivent veiller à ce que les moyens adoptés soient adéquats et nécessaires dans le cadre du contrôle du respect de la réglementation pour laquelle ils sont compétents.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 5, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 6
+
+§ 1er. [<sup>1</sup> Sans préjudice du droit d'action du Ministère public et du juge d'instruction visé aux articles 28ter et 56, § 2 du Code d'instruction criminelle, les inspecteurs des lois sociales sont dotés d'un pouvoir d'appréciation pour :]<sup>1</sup>
+
+1° fournir des renseignements et conseils aux employeurs et, le cas échéant, aux usagers, aux centres de formation, aux apprenants et aux travailleurs, notamment sur les moyens les plus efficaces pour respecter les dispositions fixées par ou en vertu des décrets;
+
+2° donner des avertissements aux employeurs et, le cas échéant, aux usagers et aux centres de formation;
+
+3° accorder au contrevenant un délai pour se mettre en règle;
+
+4° contrôler sur pièces ou sur place et sur les justificatifs que les ayants droit sont tenus de fournir aux personnes morales dont ils reçoivent les allocations;
+
+5° contrôler les conditions à respecter par les employeurs, qui sont fixées dans les demandes d'emploi approuvées de travailleurs;
+
+[<sup>3</sup> 5° /1 surveillance et contrôle à exercer sur les employeurs qui sont chargés par le Gouvernement flamand de la gestion de services d'intérêt économique général dans le cadre du décret, visé à l'article 2, alinéa premier, point 17° ;]<sup>3</sup>
+
+[<sup>4</sup> 5° /2 formuler aux personnes physiques, aux personnes morales de droit privé ou de droit public ou aux associations de fait qui ont obtenu une subvention à injuste titre, une proposition à l'amiable de remboursement de cette subvention ;]<sup>4</sup>
+
+6° dresser des procès-verbaux dans lesquels sont consignés tous les constats et auditions, ainsi que toutes les infractions constatées du chef de la réglementation visée à l'article 2, et qui contiennent au moins les données suivantes :
+
+a) renseignements sur l'infraction : lieu, commune, arrondissement judiciaire, province, période de l'infraction;
+
+b) exposé succinct des faits;
+
+c) identité des personnes intéressées et éventuellement interrogées; nom et prénom, domicile, lieu et date de naissance, nationalité et qualité;
+
+d) identité de l'employeur ou du centre de formation : nom, siège social, siège d'exploitation, activité [<sup>1</sup> numéro d'entreprise]<sup>1</sup> et numéro ONSS;
+
+e) l'identité du fonctionnaire verbalisant : nom et adresse du service verbalisant, nom et adresse du rédacteur du procès-verbal, rang et fonction du rédacteur;
+
+f) informations relatives au procès-verbal : date de l'enquête, date et lieu de rédaction du procès-verbal, le lien éventuel avec d'autres procès-verbaux, éventuellement avec mention de l'inventaire des annexes;
+
+g) mention de la réglementation en vertu de laquelle l'inspecteur des lois sociales estime pouvoir agir;
+
+h) choix de la langue des personnes interrogées;
+
+i) délai de 15 jours dans lequel doit s'effectuer la notification de la copie du procès-verbal imposée par le présent décret;
+
+j) mention [<sup>1</sup> ...]<sup>1</sup> de la demande de signer le procès-verbal d'interrogation;
+
+[<sup>1</sup> k) mention des dispositions des articles 6/1er et 6/2.]<sup>1</sup>
+
+§ 2. Sous peine de perte de la force probante de l'acte, copie du procès-verbal constatant l'infraction est communiquée sous pli recommandé au contrevenant et/ou à son employeur, dans un délai de quatorze jours prenant cours le lendemain du jour de la constatation du dernier élément constitutif de l'infraction. Lorsque le jour de l'échéance est un samedi, un dimanche ou un jour férié légal, il est reporté au plus prochain jour ouvrable. Si l'inspecteur des lois sociales ne connaît pas ou ne peut pas connaître l'identité du contrevenant ou des contrevenants et de son ou leur employeur, le délai de notification à cet inconnu est suspendu jusqu'au moment où l'inspecteur des lois sociales peut procéder à l'identification. Le procès-verbal ainsi dressé fait foi jusqu'à preuve du contraire.
+
+Un exemplaire du procès-verbal constatant une infraction telle que visée au chapitre III est envoyé dans le même délai au fonctionnaire désigné par le Gouvernement flamand et, le cas échéant, au ministère public.
+
+Les constatations matérielles faites par les inspecteurs des lois sociales peuvent être utilisées, avec leur force probante, par les fonctionnaires chargés du contrôle du respect des dispositions visées à l'article 2 du présent décret et de leurs arrêtés d'exécution.
+
+§ 3. Si l'inspecteur des lois sociales demande au contrevenant, au moyen d'un avertissement, de se mettre en règle dans un délai fixé et/ou d'en fournir la preuve, le procès-verbal n'est dressé que lorsque soit le délai de régularisation, soit la preuve de régularisation ont été ignorés.
+
+Si l'inspecteur des lois sociales constate plusieurs infractions à la législation sociale, des délais différents de régularisation peuvent être imposés pour chacune des infractions constatées.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/18, art. 6, 004; En vigueur : 01-10-2010&gt;
+
+(2)&lt;DCFL 2010-07-09/18, art. 7, 004; En vigueur : 01-10-2010&gt;
+
+(3)&lt;DCFL 2013-11-22/29, art. 37, 007; En vigueur : 01-04-2015 (voir AGF 2014-12-19/B5, art. 67, 1°)&gt;
+
+(4)&lt;DCFL 2019-03-29/28, art. 7, 020; En vigueur : 01-04-2019&gt;
+
+#### Art. 6/1
+
+[<sup>1</sup> Lors de l'audition de personnes, les règles suivantes sont au moins observées :
+
+1° toute audition commence par la communication à la personne interrogée :
+
+a) qu'elle peut demander que toutes les questions qui lui sont posées et que toutes les réponses qu'elle donne sont notées dans la formulation utilisée;
+
+b) que ses déclarations peuvent être utilisées comme preuves en justice;
+
+2° toute personne interrogée peut se servir des documents en sa possession sans que l'audition soit reportée pour cette raison. Elle peut exiger lors de l'interrogatoire ou ultérieurement que ces documents soient joints au procès-verbal;
+
+3° le procès-verbal mentionne avec précision l'heure à laquelle l'audition prend cours, est éventuellement interrompue, reprend, et prend fin. Il mentionne avec précision l'identité des personnes qui interviennent à l'interrogatoire ou à une partie de celui-ci ainsi que le moment de leur arrivée et de leur départ. Il mentionne également les circonstances particulières et tout ce qui peut éclairer d'un jour particulier la déclaration ou les circonstances dans lesquelles elle a été faite.
+
+A la fin de l'audition, l'inspecteur des lois sociales donne le procès-verbal en lecture à la personne interrogée, à moins que celle-ci ne demande que lecture lui en soit faite. Il lui est demandé si ses déclarations ne doivent pas être corrigées ou complétées. A la fin de son audition la personne interrogée signe le procès-verbal de son audition.
+
+Si la personne interrogée souhaite s'exprimer dans une autre langue que le néerlandais, soit il est fait appel à un interprète assermenté, soit il est noté ses déclarations dans sa langue, soit il lui est demandé de noter elle-même sa déclaration. Si l'audition a lieu avec l'assistance d'un interprète, son identité et sa qualite sont mentionnées.
+
+Le procès-verbal de l'audition reprend le texte du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 8, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 6/2
+
+[<sup>1</sup> Les inspecteurs des lois sociales informent la personne interrogée qu'elle peut demander une copie du texte de son audition, qui lui est délivrée gratuitement.
+
+Cette copie lui est remise ou adressée immédiatement ou dans le mois. [<sup>2</sup> Le fonctionnaire désigné par le Gouvernement flamand, peut cependant, moyennant décision motivée, reporter le moment de la communication pour un délai qui peut être renouvelé une fois de trois mois au maximum. Cette décision est reprise au dossier. ]<sup>2</sup>
+
+Le procès-verbal de l'audition reprend le texte du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 8, 004; En vigueur : 01-10-2010&gt;
+
+(2)&lt;DCFL 2016-12-23/67, art. 47, 014; En vigueur : 01-01-2017&gt;
+
+#### Art. 6/3
+
+[<sup>1</sup>Afin d'améliorer l'échange électronique d'informations entre les différents acteurs impliqués dans la lutte contre le travail illégal et la fraude sociale, les e-pv sont créés et enregistrés au moyen de l'application informatique conçue à cette fin conformément au modèle visé à l'article 100/2 du Code pénal social.
+
+L'échange électronique d'informations dans le cadre de l'e-pv se déroule conformément à la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque Carrefour de la Sécurité sociale.
+
+Lors du traitement des données à caractère personnel en application du présent chapitre, les numéros d'identification visés à l'article 8, § 1er, de la loi précitée sont utilisés.
+
+L'Inspection sociale flamande agit en tant que responsable du traitement, tel que visé à l'article 4, 7), du règlement général sur la protection des données, pour le traitement des données à caractère personnel. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 21, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 6/4
+
+[<sup>1</sup>§ 1er. En vue de l'échange électronique d'informations visé à l'article 6/3, les inspecteurs des lois sociales peuvent créer leurs procès-verbaux de constatation d'infractions de manière électronique au moyen de l'application informatique conçue à cette fin.
+
+§ 2. Les procès-verbaux visés au paragraphe 1er sont créés à l'aide des données à caractère personnel suivantes des organismes suivants :
+
+1° les données d'identification et les coordonnées, dont le numéro NISS, du Registre national des personnes physiques ou le numéro BIS de la Banque Carrefour de la Sécurité sociale ;
+
+2° les données d'identification et les coordonnées de l'entreprise.
+
+Les données à caractère personnel visées à l'alinéa 1er sont échangées avec l'intervention des intégrateurs de services compétents le cas échéant.
+
+A l'alinéa 2, on entend par intégrateur de services : un intégrateur de services tel que visé à l'article 2, 3°, du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 22, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 6/5
+
+[<sup>1</sup> Les inspecteurs des lois sociales signent l'e-pv électroniquement au moyen de la signature électronique qualifiée, visée à l'article 3, point 12, du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+Pour l'application du présent chapitre, l'e-pv signé électroniquement par les inspecteurs des lois sociales conformément à l'alinéa 1er est assimilé, sans préjudice des articles 8.18 et suivants du Code civil, à un procès-verbal sur support papier qui a été signé au moyen d'une signature manuscrite.
+
+Le dérivé, visé à l'article 4, § 3, du décret-cadre du 14 juillet 2023 relatif au maintien de la réglementation flamande, d'un e-pv rédigé par un inspecteur des lois sociales est assimilé à l'original pour l'enregistrement dans la banque de données e-pv. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 23, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 7
+
+Les inspecteurs des lois sociales peuvent, dans l'exercice de leur mission :
+
+1° [<sup>1</sup> pénétrer librement, à toute heure du jour et de la nuit, sans avertissement préalable, dans tous les lieux de travail ou centres de formation qui sont soumis à leur contrôle ou dans les locaux dans lesquels ils peuvent avoir un motif raisonnable de supposer que travaillent ou suivent une formation des personnes soumises aux dispositions des législations dont ils exercent la surveillance et le contrôle.
+
+Ils n'ont accès aux locaux habités que dans les cas suivants :
+
+a) le juge au tribunal de police a au préalable accordé une autorisation de visite;
+
+b) la personne qui a la jouissance effective de l'endroit, l'a demandé au préalable ou y a consenti. Cette demande ou consentement doivent être faits par écrit et préalablement à la visite d'inspection.
+
+[<sup>4</sup> c) pour constater une infraction en flagrant délit.]<sup>4</sup>
+
+Les inspecteurs des lois sociales peuvent obtenir l'accès à des locaux habités après 21 heures et avant 5 heures moyennant une motivation spéciale de la demande au juge au tribunal de police.
+
+L'autorisation de visite accordée par le juge au tribunal de police peut être contestée devant le juge compétent qui rend un jugement sur le fond.
+
+A l'exception des données desquelles l'identité de l'auteur d'une plainte ou déclaration éventuelles peut être déduite et sans préjudice de l'application de l'article 8, § 2, l'ensemble des pièces de motivation en vue de l'obtention de l'autorisation de visite est joint au dossier destiné au juge compétent qui rend un jugement sur le fond;]<sup>1</sup>
+
+2° procéder à tout examen, contrôle et audition de personnes sur des faits pertinents et recueillir toutes informations qu'ils estiment nécessaires pour s'assurer que les dispositions des législations dont ils exercent la surveillance, sont effectivement observées, et notamment :
+
+a) interroger, soit seuls, soit ensemble, soit en présence de témoins, l'employeur, ses préposés ou mandataires, les membres des délégations syndicales, des comités de prévention et de protection sur le lieu de travail et des conseils d'entreprise, le centre de formation, les travailleurs, les bénéficiaires, l'usager, les assurés sociaux, les apprenants ainsi que toute personne dont ils estiment l'audition nécessaire;
+
+b) sans préjudice de la législation [<sup>2</sup> relative à la protection de la vie privée]<sup>2</sup> telle que prévue notamment à l'article 8 du Traité européen des Droits de l'Homme et [<sup>2</sup> du règlement relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel]<sup>2</sup>, prendre l'identité des personnes qui se trouvent dans les centres de formation, sur les lieux de travail ou les autres lieux qui sont soumis à leur contrôle et dont ils peuvent raisonnablement présumer qu'elles sont des apprenants, employeurs, préposés ou mandataires, travailleurs, bénéficiaires, usagers ou des assurés sociaux, ainsi que toute personne dont ils estiment l'audition nécessaire; à cet effet, exiger de ces personnes la présentation de documents officiels d'identification ou rechercher l'identité de ces personnes par d'autres moyens, y compris en faisant des photos et des prises de vues par film et vidéo, ainsi que par d'autres moyens auditifs et audiovisuels;
+
+c) [<sup>1</sup> rechercher et examiner tous les supports d'information contenant soit des données sociales, visées à l'article 3, 7°, soit toutes autres données qui en vertu de la législation doivent être établies, mises à jour ou sauvegardées, se trouvant dans les lieux de travail, dans les centres de formation ou dans d'autres endroits soumis à leur surveillance, même si les inspecteurs de lois sociales ne sont pas chargés de la surveillance de cette législation. A cette fin ils peuvent aussi rechercher et examiner les supports d'information précités accessibles à partir de ces endroits par le biais d'un système informatique ou tout autre appareil électronique. Le Gouvernement flamand peut à titre d'information dresser une liste comprenant les données précitées qui doivent être établies, mises à jour ou sauvegardées en vertu de la législation et qui se trouvent sur des supports d'information dans les lieux de travail, dans les centres de formation ou dans d'autres endroits soumis à la surveillance des inspecteurs des lois sociales. Lorsque l'employeur, son préposé ou mandataire, l'usager ou le centre de formation sont absents au moment du contrôle, l'inspecteur des lois sociales fait les démarches nécessaires pour prendre contact avec l'employeur, son préposé ou mandataire, l'usager ou le centre de formation pour faire remettre les supports d'information précités. Lorsque l'employeur, son préposé ou mandataire, l'usager ou le centre de formation ne peuvent pas être joints, l'inspecteur des lois sociales peut procéder à la recherche et à l'examen;]<sup>1</sup>
+
+[<sup>1</sup> c/1) se faire produire, sans déplacement, pour en prendre connaissance, tous les supports d'information contenant toutes autres données qu'ils estiment nécessaires à l'accomplissement de leur mission et à l'examen de celles-ci. Les inspecteurs des lois sociales disposent aussi de cette compétence pour les données accessibles par le biais d'un système informatique ou d'un autre appareil électronique;]<sup>1</sup>
+
+d) [<sup>3</sup> saisir contre récépissé et pour une durée raisonnable ou mettre sous scellés d'autres biens mobiliers que les supports d'information visés aux points b), c) et c/1), y compris les biens mobiliers qui sont immeubles par incorporation ou par destination, et de biens immobiliers, que le contrevenant en soit propriétaire ou pas, qui sont soumis à leur contrôle ou par lesquels des infractions aux législations dont ils exercent la surveillance peuvent être constatées, lorsque cela est nécessaire à l'établissement de la preuve de ces infractions, ou si ces biens risquent de faire persister les infractions ou incitent à de nouvelles infractions ;]<sup>3</sup>
+
+e) sans préjudice de la législation [<sup>2</sup> relative à la protection de la vie privée]<sup>2</sup> telle que prévue notamment à l'article 8 du Traité européen des Droits de l'Homme et [<sup>2</sup> du règlement relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel]<sup>2</sup>, effectuer des constatations en faisant des photos et des prises de vues par film et vidéo, des cassettes audio ainsi que par d'autres moyens auditifs et audiovisuels;
+
+3° ordonner que les documents dont l'apposition ou la remise est prévue par les législations dont ils exercent la surveillance, soient et restent effectivement apposés ou remis, dans un délai qu'ils déterminent ou sans délai;
+
+4° s'ils l'estiment nécessaire dans l'intérêt des apprenants, travailleurs, ou bénéficiaires, établir ou faire délivrer tout document remplaçant ceux visés par les législations dont ils exercent la surveillance et le contrôle.
+
+----------
+
+(1)&lt;DCFL 2010-07-09/18, art. 9, 004; En vigueur : 01-10-2010&gt;
+
+(2)&lt;DCFL 2018-06-08/04, art. 127, 018; En vigueur : 25-05-2018&gt;
+
+(3)&lt;DCFL 2019-03-29/28, art. 8, 020; En vigueur : 01-04-2019&gt;
+
+(4)&lt;DCFL 2023-10-27/21, art. 24, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 7/1
+
+[<sup>1</sup> Les inspecteurs des lois sociales peuvent prendre des copies, dans quelle forme que ce soit, des supports d'information, visés à l'article 7, 2°, c) et c/1er) ou de l'information qu'ils contiennent ou se les faire procurer gratuitement par l'employeur, ses préposés ou mandataires, l'usager ou le centre de formation.
+
+Lorsqu'il s'agit de supports d'information visés à l'article 7, 2°, c), qui sont accessibles par le biais d'un système informatique, les inspecteurs des lois sociales peuvent prendre des copies de l'ensemble ou d'une partie des données précitées sous la forme souhaitée au moyen du système informatique ou d'un autre appareil électronique et assistés de soit l'employeur, ses préposés ou mandataires, de l'usager ou du centre de formation, soit de toute autre personne adéquate disposant de la connaissance nécessaire ou utile relative au fonctionnement du système informatique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 10, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 7/2
+
+[<sup>1</sup> Les inspecteurs des lois sociales peuvent saisir ou mettre sous scellés les supports d'information visés à l'article 7, 2°, c), que l'employeur, ses préposés ou mandataires ou le centre de formation soient les propriétaires ou non de ces supports d'information.
+
+Les inspecteurs des lois sociales disposent des compétences visées au premier alinéa, si celles-ci s'avèrent nécessaires pour la recherche, l'enquête ou la fourniture de la preuve des infractions ou si les supports d'information risquent de faire persister les infractions ou incitent à de nouvelles infractions.
+
+Lorsque la saisie visée à l'alinéa premier, est impraticable du point de vue matériel, les données ainsi que les données nécessaires à interpréter les données, sont copiées vers des supports appartenant à l'autorité. Dans les cas d'urgence ou pour des raisons techniques, des supports mis à la disposition de personnes autorisées à utiliser le système informatique, peuvent être utilisés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 10, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 7/3
+
+[<sup>1</sup> Les mesures visées ci-après doivent faire l'objet d'un document écrit de constat, à remettre contre récépissé :
+
+1° la recherche et l'examen visés à l'article 7, 2°, c), auxquels l'employeur, son préposé ou mandataire, l'usager ou le centre de formation n'ont pas consenti de plein gré;
+
+2° les saisies ou mises sous scellés effectuées sur la base de l'article 7/2.
+
+Le document de constat doit au moins contenir les données suivantes :
+
+1° la date et l'heure auxquelles les mesures ont été prises;
+
+2° l'identité des inspecteurs des lois sociales et la qualité dans laquelle ils agissent;
+
+3° les mesures prises;
+
+4° la reprise du texte de l'article 24;
+
+5° les moyens de droit contre les mesures et l'arrondissement judiciaire compétent;
+
+6° l'autorité qui doit être assignée dans le cas d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 10, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 7/4
+
+[<sup>1</sup> Lorsque l'employeur, son préposé ou mandataire, l'usager ou le centre de formation n'étaient pas présents lors de la recherche et de l'examen, visés à l'article 7, 2°, c), l'inspecteur des lois sociales est tenu à informer l'employeur, l'usager ou le centre de formation par écrit du fait qu'une recherche et un examen ont eu lieu et du fait que des supports d'information ont été copiés. Ce document contient les dispositions de l'article 7/3, alinéa deux.
+
+Lorsque l'employeur, son préposé ou mandataire, l'usager ou le centre de formation n'étaient pas présents lors des saisies ou mises sous scellés effectuées en vertu de l'article 7/2, l'inspecteur des lois sociales doit informer l'employeur, l'usager ou le centre de formation par écrit du fait que cette saisie ou mise sous scellés ont eu lieu et des supports d'information qui ont été saisis, mis sous scellés ou copiés lorsque la saisie est impraticable du point de vue matériel. Ce document contient les données visées à l'article 7/3, alinéa deux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 10, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 7/5
+
+[<sup>1</sup> Toute personne qui estime que ses droits sont lésés par les saisies effectuées en exécution de l'article 7/2, peut introduire un recours auprès du président du tribunal du travail.
+
+C'est aussi le cas pour les mesures prises en exécution de l'article 7/3 dans les cas visés à l'article 7/3, dans lesquels l'employeur, ses préposés ou mandataires ou le centre de formation étaient absents ou n'y ont pas consenti de leur plein gré.
+
+Une demande peut être introduite et traitée comme en référé, conformément aux articles 1035 à 1038 inclus, 1040 et 1041 du Code judiciaire.
+
+Le président du tribunal du travail statue sur le recours après l'audition du ministère public.
+
+Le président du tribunal du travail contrôle la légitimité des saisies et des mesures, de même que l'opportunité de leur maintien. Il peut ordonner la suspension totale ou partielle des mesures, éventuellement aux conditions spécifiques.
+
+Le jugement rendu par le président du tribunal du travail est exécutoire par provision, nonobstant tout recours et sans caution, à moins que le juge n'en ait décidé autrement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/18, art. 10, 004; En vigueur : 01-10-2010&gt;
+
+#### Art. 7/6
+
+[<sup>1</sup> Si c'est nécessaires pour le contrôle, les inspecteurs des lois sociales peuvent exiger une traduction en néerlandais des données visées à l'article 7, 2°, c) et c/1).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-29/28, art. 9, 020; En vigueur : 01-04-2019&gt;
+
+#### Art. 8
+
+§ 1er. Sans préjudice de la législation [<sup>1</sup> ]<sup>1</sup> telle que prévue notamment à l'article 8 du Traité européen des Droits de l'Homme et [<sup>1</sup> et la réglementation en matière de protection des personnes physiques à l'égard du traitement des données à caractère personnel]<sup>1</sup>, les inspecteurs des lois sociales doivent prendre les mesures nécessaires afin de respecter le caractère confidentiel des données dont ils ont obtenu connaissance dans l'exercice de leur mission. Ils utilisent ces données aux seules fins requises pour l'exercice de leur mission de surveillance et de contrôle.
+
+[<sup>1</sup> [<sup>2</sup> En application de l'article 23, paragraphe 1, e) et h), du [<sup>3</sup> règlement général sur la protection des données ]<sup>3</sup>, les inspecteurs des lois sociales [<sup>3</sup> et les fonctionnaires désignés visés à l'article 15, alinéa 2, du présent décret ]<sup>3</sup> peuvent décider de ne pas appliquer les obligations et droits énoncés aux articles 12 à 22 dudit règlement au traitement des données à caractère personnel dans le cadre[<sup>3</sup> d'une enquête ou d'une procédure visant à infliger une amende administrative à une personne physique déterminée ]<sup>3</sup>, si les conditions énoncées aux alinéas 3 à 11 sont remplies.
+
+La possibilité de dérogation visée à l'alinéa 2 ne s'applique [<sup>3</sup> qu'aux traitements dont la finalité est la préparation, l'organisation, la gestion et le suivi d'une enquête ou d'une procédure telle que visée à l'alinéa 2. Cette possibilité de dérogation ne s'applique]<sup>3</sup> que pendant la période au cours de laquelle l'intéressé fait l'objet d'un contrôle, [<sup>3</sup> d'une enquête, des travaux préparatoires y afférents, ou d'une procédure pour l'imposition éventuelle d'une amende administrative dans le cadre des missions décrétales et réglementaires des inspecteurs des lois sociales et des fonctionnaires désignés visés à l'article 15, alinéa 2, du présent décret, à condition qu'il soit nécessaire pour le bon déroulement de l'enquête ou de la procédure pour l'imposition éventuelle d'une amende administrative ]<sup>3</sup> que les obligations et droits visés aux articles 12 à 22 dudit règlement ne soient pas appliqués. La durée des activités préparatoires ne peut, le cas échéant, dépasser un an à compter de la date de réception d'une demande d'exercice d'un des droits visés aux articles 12 à 22 dudit règlement.
+
+Les données à caractère personnel visées à l'alinéa 2 ne seront pas conservées plus longtemps que les finalités pour lesquelles elles sont traitées le requièrent.
+
+La possibilité de dérogation visée à l'alinéa 2 ne s'applique pas aux données qui ne sont pas liées à l'objet [<sup>3</sup> de l'enquête, du contrôle ou de la procédure pour l'imposition éventuelle d'une amende administrative ]<sup>3</sup> justifiant le refus ou la restriction des droits, visés à l'alinéa 2.
+
+Si, dans le cas visé à l'alinéa 2, l'intéressé soumet une demande sur la base des articles 12 à 22 dudit règlement au cours de la période visée à l'alinéa 3, le fonctionnaire à la protection des données compétent en accuse réception.
+
+Le fonctionnaire à la protection des données compétent informe l'intéressé par écrit de tout refus ou restriction des droits, visés à l'alinéa 2, dans les meilleurs délais et en tout état de cause dans un délai d'un mois à compter du jour suivant celui de la réception de la demande. Il n'est pas nécessaire de fournir des informations complémentaires sur les motifs détaillés d'un tel refus ou d'une telle restriction lorsque cela porterait atteinte aux missions décrétales et réglementaires des inspecteurs des lois sociales[<sup>3</sup> et des fonctionnaires désignés visés à l'article 15, alinéa 2, ]<sup>3</sup> l'application de l'alinéa 9. Si nécessaire, le délai précité peut être prolongé de deux mois, compte tenu du nombre de demandes et de leur complexité. Le responsable du traitement informe l'intéressé de cette prolongation et des raisons du report dans un délai d'un mois à compter du jour suivant celui où il a reçu la demande.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> Le fonctionnaire à la protection des données compétent informe également l'intéressé sur la possibilité d'introduire une demande auprès de la commission de contrôle flamande pour le traitement des données à caractère personnel conformément à l'article 10/5 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, et de former un recours en justice.
+
+Le fonctionnaire à la protection des données compétent consigne les motifs factuels ou juridiques sur lesquels la décision est fondée. Il tient ces informations à la disposition de la commission de contrôle flamande précitée.
+
+Une fois l'enquête terminée, les droits énoncés aux articles 13 à 22 du règlement précité sont, le cas échéant, appliqués à nouveau conformément à l'article 12 du règlement précité.
+
+Si un dossier contenant des données à caractère personnel visées à l'alinéa 2 a été transmis au Ministère public et peut conduire à des activités sous la direction du Ministère public ou d'un juge d'instruction, et qu'il existe une incertitude quant au secret de l'enquête sous la direction du Ministère public ou d'un juge d'instruction, le fonctionnaire à la protection des données compétent ne peut répondre à la demande de l'intéressé conformément aux articles 12 à 22 du règlement précité qu'après que le Ministère public ou, le cas échéant, le juge d'instruction, a confirmé qu'une réponse ne compromet pas ou n'est pas susceptible de compromettre l'enquête.]<sup>2</sup>
+
+§ 2. Sauf autorisation expresse de l'auteur d'une plainte ou d'une dénonciation relative à une infraction aux dispositions des législations dont ils exercent la surveillance et le contrôle, les inspecteurs des lois sociales ne peuvent révéler en aucun cas le nom de l'auteur de cette plainte ou de cette dénonciation.
+
+Il leur est de même strictement interdit de révéler au centre de formation, à l'usager, à l'employeur ou à son représentant, préposé ou mandataire qu'il a été procédé à une enquête à la suite d'une plainte ou d'une dénonciation.
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 128, 018; En vigueur : 25-05-2018&gt;
+
+(2)&lt;AGF 2019-07-19/22, art. 13, 021; En vigueur : 12-09-2019&gt;
+
+(3)&lt;DCFL 2023-10-27/21, art. 25, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 8/1
+
+[<sup>1</sup>Dans le présent article, on entend par datawarehouse : un système de données contenant une grande quantité de données numériques qui se prêtent à l'analyse.
+
+Sans préjudice du traitement de données à caractère personnel à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques, visé à l'article 89 du règlement général sur la protection des données, l'Inspection sociale flamande et les fonctionnaires désignés visés à l'article 15, alinéa 2, du présent décret peuvent, séparément ou conjointement, en vue de la prévention, de la constatation, de la poursuite et de la répression des infractions à la réglementation relevant de leur compétence, le cas échéant après délibération de l'autorité de protection des données compétente, collecter, traiter et agréger toutes les données nécessaires à l'application de la réglementation relevant de leur compétence dans un datawarehouse leur permettant de procéder à des opérations de datamining et de datamatching, en ce compris le profilage tel que visé à l'article 4, 4), du règlement général sur la protection des données.
+
+L'Inspection sociale flamande ne peut procéder aux opérations de datamining et de datamatching que pour détecter des profils présentant un risque accru.
+
+A l'alinéa 2, on entend par :
+
+1° datamining : la recherche ciblée de liens dans des collectes de données dans le but d'établir des profils pour des recherches plus approfondies ;
+
+2° datamatching : la comparaison l'un avec l'autre de deux ensembles de données collectées.
+
+Les responsables du traitement de données visé l'alinéa 2 sont l'Inspection sociale flamande et la Cellule Amendes administratives à laquelle appartiennent les fonctionnaires désignés visés à l'article 15, alinéa 2, qui se chargent, chacun pour leurs compétences respectives, du traitement dans le datawarehouse en question.
+
+Sans préjudice des articles III.87 et suivants du décret de gouvernance du 7 décembre 2018 et, le cas échéant, de la loi relative aux archives du 24 juin 1955 et du décret sur les archives du 9 juillet 2010, les données à caractère personnel qui sont hébergées et qui résultent des traitements dans le datawarehouse ne sont pas conservées plus longtemps que nécessaire au regard des finalités pour lesquelles elles sont traitées, y compris les exigences en ce qui concerne l'application de la récidive et la révocation d'un sursis accordé, compte tenu d'une durée de conservation maximale qui ne peut pas excéder trois mois après la prescription de toutes les actions relevant de la compétence du responsable du traitement.
+
+Le responsable du traitement dresse une liste des catégories de personnes qui peuvent consulter les données à caractère personnel dans le datawarehouse, avec une description de leur qualité par rapport au traitement des données visées. La liste précitée est tenue à la disposition de l'autorité de protection des données compétente.
+
+Le responsable du traitement veille à ce que les personnes désignées soient tenues, par une obligation légale ou statutaire ou par une disposition contractuelle équivalente, de respecter le caractère confidentiel des données concernées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 26, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 8/2
+
+[<sup>1</sup>Sans préjudice du traitement de données à caractère personnel à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques, visé à l'article 89 du règlement général sur la protection des données, l'Inspection sociale flamande et les fonctionnaires désignés visés à l'article 15, alinéa 2, du présent décret peuvent, dans le respect du présent décret, chacun en ce qui concerne les traitements de données à caractère personnel dont il est le responsable du traitement, traiter ultérieurement toutes les données nécessaires à l'application de la réglementation relevant de leur compétence, lorsque et dans la mesure où le traitement initial et le traitement ultérieur sont effectués en vue de la prévention, de la constatation, de la poursuite et de la répression des infractions à la réglementation relevant de leurs compétences respectives.
+
+Sans préjudice des articles III.87 et suivants du décret de gouvernance du 7 décembre 2018 et, le cas échéant, de la loi relative aux archives du 24 juin 1955 et du décret sur les archives du 9 juillet 2010, les données à caractère personnel qui résultent des traitements ultérieurs visés à l'alinéa 1er ne sont pas conservées plus longtemps que nécessaire au regard des finalités pour lesquelles elles sont traitées, y compris les exigences en ce qui concerne l'application de la récidive et la révocation d'un sursis accordé, compte tenu d'une durée de conservation maximale qui ne peut pas excéder trois mois après la prescription de toutes les actions relevant de la compétence du responsable du traitement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 27, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 8/3
+
+[<sup>1</sup>Les catégories suivantes de données à caractère personnel sont traitées dans le cadre de l'application des articles 8/1 et 8/2 :
+
+1° les données d'identification et les coordonnées, dont le numéro NISS et le numéro BIS, l'âge, la nationalité et le domicile du travailleur ;
+
+2° les données d'identification et les coordonnées, dont le numéro NISS et le numéro BIS, l'âge et le domicile de l'utilisateur de titres-services ;
+
+3° les données d'identification et les coordonnées, dont le numéro NISS et le numéro BIS, des administrateurs, des gérants, des personnes qui représentent l'entreprise et d'autres personnes de contact de l'entreprise ;
+
+4° les données d'identification et les coordonnées, dont le numéro NISS et le numéro BIS, la nationalité et le domicile de l'indépendant étranger ;
+
+5° les données relatives au titre de séjour du salarié ou de l'indépendant étranger ;
+
+6° les données d'identification et les coordonnées de l'entreprise ;
+
+7° les données relatives à l'emploi du travailleur ;
+
+8° les données relatives à l'emploi du salarié étranger, et les activités de l'indépendant étranger et de l'entreprise étrangère dans le cadre de l'obligation de déclaration Limosa ;
+
+9° les données relatives à l'autorisation de travail ou à la carte de travail du salarié étranger ;
+
+10° les données relatives à la carte professionnelle de l'indépendant étranger ;
+
+11° la date de début et de fin de l'activité professionnelle de l'indépendant étranger ;
+
+12° les données relatives à la sécurité sociale de l'indépendant étranger ;
+
+13° les données relatives aux travaux ou services de proximité exécutés, aux titres-services achetés et remboursés, ;
+
+14° les données financières et les coordonnées de l'utilisateur de titres-services ;
+
+15° les données financières et les coordonnées de l'entreprise qui exerce des activités de titres-services ;
+
+16° les données relatives aux activités de placement privé exercées ;
+
+17° les données relatives aux infractions constatées ;]<sup>1</sup>
+
+[<sup>2</sup> 18° les données relatives à l'enseignement.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 28, 031; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFL 2026-05-08/14, art. 15, 036; En vigueur : 22-06-2026&gt;
+
+#### Art. 8/4
+
+[<sup>1</sup>Dans le cadre de l'application des articles 8/1, 8/2 et 8/3, l'Inspection sociale flamande échange des données à caractère personnel avec les organismes suivants :
+
+1° les données d'identification et les coordonnées, dont le numéro NISS et le numéro BIS, l'âge, la nationalité et le domicile du travailleur, avec le Registre national des personnes physiques, avec la Banque Carrefour de la Sécurité sociale et avec l'Office national de Sécurité sociale ;
+
+2° les données d'identification et les coordonnées dont le numéro NISS et le numéro BIS, l'âge et le domicile de l'utilisateur de titres-services, avec le Registre national des personnes physiques, avec la Banque Carrefour de la Sécurité sociale, et avec la société émettrice visée à l'article 2, § 1er, 2°, de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité ;
+
+3° les données d'identification et les coordonnées, dont le numéro NISS et le numéro BIS, des administrateurs, des gérants, des personnes qui représentent l'entreprise et d'autres personnes de contact de l'entreprise avec le Registre national des personnes physiques, avec la Banque Carrefour de la Sécurité sociale et avec la Banque-Carrefour des Entreprises ;
+
+4° les données d'identification et les coordonnées, dont le numéro NISS et le numéro BIS, la nationalité et le domicile de l'indépendant étranger avec le Registre national des personnes physiques, avec la Banque Carrefour de la Sécurité sociale, avec la Banque-Carrefour des Entreprises et avec l'Institut national d'assurances sociales pour travailleurs indépendants ;
+
+5° les données d'identification et les coordonnées de l'entreprise avec la Banque-Carrefour des Entreprises et avec l'Office national de Sécurité sociale ;
+
+6° les données relatives au titre de séjour du salarié ou de l'indépendant étranger, avec le Registre national des personnes physiques ;
+
+7° les données relatives à l'emploi du salarié, avec l'Office national de Sécurité sociale ;
+
+8° les données relatives à l'emploi du salarié étranger, et les activités de l'indépendant étranger et de l'entreprise étrangère dans le cadre de l'obligation de déclaration Limosa, avec l'Office national de Sécurité sociale et avec l'Institut national d'assurances sociales pour travailleurs indépendants ;
+
+9° la date de début et de fin de l'activité professionnelle de l'indépendant étranger, avec la Banque-Carrefour des Entreprises et avec l'Institut national d'assurances sociales pour travailleurs indépendants ;
+
+10° les données relatives à l'assurance sociale de l'indépendant étranger, avec l'Institut national d'assurances sociales pour travailleurs indépendants ;
+
+11° les données relatives aux travaux ou services de proximité exécutés et aux titres-services achetés et remboursés, avec la société émettrice visée à l'article 2, § 1er, 2°, de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité ;
+
+12° les données financières et les coordonnées de l'utilisateur de titres-services, avec la société émettrice visée à l'article 2, § 1er, 2°, de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité ;
+
+13° les données financières et les coordonnées de l'entreprise qui exerce les activités de titres-services, avec la société émettrice visée à l'article 2, § 1er, 2°, de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité ;
+
+[<sup>2</sup> 14° les données relatives à l'enseignement, avec l'Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes (" Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen "), créée par l'arrêté du Gouvernement flamand du 24 avril 2009 portant création de l'agence autonomisée interne Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes.]<sup>2</sup>
+
+Les données à caractère personnel visées à l'alinéa 1er sont échangées avec l'intervention de l'intégrateur de services compétent le cas échéant.
+
+A l'alinéa 2, on entend par intégrateur de services : l'intégrateur de services flamand visé à l'article 2, 9°, du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 29, 031; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFL 2026-05-08/14, art. 16, 036; En vigueur : 22-06-2026&gt;
+
+#### Art. 9
+
+§ 1er. Les inspecteurs des lois sociales communiquent les renseignements recueillis aux membres du personnel des institutions publiques et aux institutions coopérantes, aux inspecteurs sociaux des autres services d'inspection, ainsi qu'à tous les autres fonctionnaires chargés de la surveillance d'autres législations, dans la mesure où ces renseignements peuvent intéresser ces derniers dans l'exercice de la surveillance dont ils sont chargés.
+
+Ces renseignements sont communiqués lorsque les fonctionnaires et services visés à l'alinéa premier les demandent. Les renseignements recueillis dans le cadre d'une enquête ou d'une enquête judiciaire ne peuvent être communiqués qu'avec l'autorisation des autorités judiciaires compétentes.
+
+§ 2. Tous les services fédéraux, y compris les parquets et les greffes des cours et de toutes les juridictions, des services des Communautés, des Régions, des provinces, des fédérations de communes, des communes, des associations dont elles font partie, des institutions publiques qui en dépendent, ainsi que des institutions de sécurité sociale et de toutes les institutions publiques et institutions coopérantes sont tenus, en vertu d'un accord de coopération conclu en vertu de l'article 92bis, § 1er de la loi spéciale du 8 août 1980 de fournir aux inspecteurs des lois sociales tous renseignements qu'ils demandent. En vertu du même accord de coopération, ils leur produiront, pour en prendre connaissance, tous livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information et de leur en fournir des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies que les inspecteurs des lois sociales estiment utiles à la surveillance et au contrôle du respect des législations dont ils sont chargés.
+
+§ 3. Les personnes mentionnées au § 1er peuvent utiliser les renseignements obtenus sur la base des paragraphes précédents pour l'exercice des missions de surveillance dont elles sont chargées.
+
+§ 4. Les inspecteurs des lois sociales peuvent échanger avec les inspections des autres Régions et Communautés, des autorités fédérales et des autres Etats membres de l'Organisation internationale du Travail, où la convention n° 81 est en vigueur, tous renseignements qui peuvent être utiles pour l'exercice de la surveillance dont chacun d'entre eux est chargé.
+
+Les renseignements reçus des inspections du travail des autres Régions et Communautés, des autorités fédérales et des autres Etats membres sont utilisés dans les mêmes conditions que les renseignements similaires recueillis directement par les inspecteurs des lois sociales. Les renseignements destinés aux inspections du travail de ces Etats membres sont recueillis par les inspecteurs des lois sociales dans les mêmes conditions que les renseignements similaires destinés à l'exercice de la surveillance et du contrôle dont ils sont chargés eux-mêmes.
+
+La [<sup>1</sup> [<sup>2</sup> division de l'Inspection sociale flamande]<sup>2</sup> du [<sup>3</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>3</sup>]<sup>1</sup> à laquelle appartiennent les inspecteurs des lois sociales peut également, en exécution d'un accord conclu avec les autorités compétentes d'une autre Région ou Communauté ou d'un Etat membre de l'Organisation internationale du Travail, autoriser sur le territoire de la Région flamande ou de la Communauté flamande, selon le cas, la présence de fonctionnaires de l'inspection du travail de cette Région ou Communauté ou de cet Etat membre en vue de recueillir tous renseignements qui peuvent être utiles à l'exercice de la surveillance et du contrôle dont ces derniers sont chargés.
+
+Les renseignements recueillis par un inspecteur des lois sociales sur le territoire d'une autre Communauté ou Région ou à l'étranger dans le cadre d'un accord conclu avec une autre Région ou Communauté, avec les autorités fédérales ou avec un Etat membre de l'Organisation internationale du Travail, peuvent être utilisés dans les mêmes conditions que les renseignements recueillis sur le territoire de la Communauté flamande ou de la Région flamande, selon le cas, par les inspecteurs des lois sociales.
+
+----------
+
+(1)&lt;DCFL 2014-12-19/A3, art. 20, 010; En vigueur : 01-06-2014&gt;
+
+(2)&lt;DCFL 2019-03-29/28, art. 10, 020; En vigueur : 01-04-2019&gt;
+
+(3)&lt;DCFL 2026-06-26/19, art. 14, 038; En vigueur : 07-08-2026&gt;
+
+#### Art. 10
+
+Les inspecteurs des lois sociales ne peuvent avoir un intérêt quelconque, direct ou indirect, dans les entreprises, institutions ou associations qu'ils sont chargés de contrôler.
+
+#### Art. 11
+
+Conformément à l'article 5, b du Traité international n° 81, le Gouvernement flamand prend, par un arrêté pris sur avis du Conseil socio-économique de la Flandre, les mesures aptes à promouvoir la coopération entre les fonctionnaires de l'inspection des lois sociales et les employeurs et les travailleurs ou leurs organisations.
+
+#### Art. 12
+
+Conformément à l'article 19 du Traité international n° 81, le Gouvernement flamand arrête le mode et la périodicité du rapportage par les bureaux d'inspection locaux. Sans préjudice des règles du secret de l'enquête judiciaire, la [<sup>1</sup> [<sup>2</sup> division de l'Inspection sociale flamande]<sup>2</sup> du [<sup>4</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>4</sup>]<sup>1</sup> publie, pour le 30 juin de chaque année, un rapport annuel général sur ses activités. Cette publication se fait soit sur papier soit de manière électronique (l'internet). Le rapport annuel traitera au moins les sujets suivants :
+
+a) les lois et réglementations applicables et pertinents pour le fonctionnement de l'inspection des lois sociales;
+
+b) l'occupation de l'inspection des lois sociales;
+
+c) des statistiques relatives aux employeurs et centres de formation visités, le nombre de travailleurs occupés par les employeurs visités et, le cas échéant, par les usagers et le nombre d'apprenants formés par les centres de formation examinés;
+
+d) des statistiques relatives aux inspections effectuées;
+
+e) des statistiques relatives aux avertissements donnés, aux régularisations imposées et à l'administration de preuves;
+
+f) des statistiques relatives à la nature et au nombre d'infractions constatées;
+
+[<sup>3</sup> g) des statistiques relatives aux e-pv infligés ainsi qu'à l'efficacité des traitements ; ]<sup>3</sup>
+
+[<sup>3</sup> h]<sup>3</sup>) des statistiques relatives aux amendes administratives imposées.
+
+Le rapport annuel ainsi publié est transmis dans les 3 mois à la direction générale de l'Organisation internationale du Travail.
+
+----------
+
+(1)&lt;DCFL 2014-12-19/A3, art. 21, 010; En vigueur : 01-06-2014&gt;
+
+(2)&lt;DCFL 2019-03-29/28, art. 11, 020; En vigueur : 01-04-2019&gt;
+
+(3)&lt;DCFL 2023-10-27/21, art. 30, 031; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DCFL 2026-06-26/19, art. 15, 038; En vigueur : 07-08-2026&gt;
+
+## CHAPITRE III. - Dispositions relatives aux amendes administratives.
+
+### Section 1re. - Amendes administratives du chef de certaines dispositions pénales.
+
+#### Art. 13
+
+[<sup>1</sup> § 1er. Aux conditions fixées par le présent décret, et dans la mesure où les faits sont passibles de peines pénales, une amende administrative de [<sup>3</sup> 25 à 250 euros ]<sup>3</sup> peut être infligée :
+
+1° à toute personne, ainsi que ses mandataires ou préposés, qui exploitent un bureau par le biais d'une personne morale n'ayant pas été créée conformément aux règles de droit de l'Etat membre d'établissement;
+
+2° [<sup>3</sup> 2° à l'agence, ses mandataires ou préposés qui prestent des services interdits en vertu de la convention du travail maritime adoptée à Genève le 23 février 2006]<sup>3</sup>;
+
+3° à l'agence de travail intérimaire, ses mandataires ou préposés effectuant des services qui concernent une cessation, une exclusion ou une suspension d'un contrat de travail tel que visé aux articles 50 et 51 de la loi du 3 juillet 1978 relative aux contrats de travail;
+
+4° au bureau, ses mandataires ou préposés qui refusent de permettre au mandant et au travailleur de consulter les données stockées qui les concernent ou de leur faire parvenir une copie de leur dossier après la cessation de la mission;
+
+5° au bureau, ses mandataires ou préposés qui fournissent au mandant et au travailleur des informations incorrectes, incomplètes ou tardives concernant les services de placement et la nature de l'emploi;
+
+6° au bureau, ses mandataires ou préposés qui enfreignent le code déontologique visé à l'article 5, 15°, du décret du 10 décembre 2010 relatif au placement privé;
+
+7° au bureau, ses mandataires ou préposés qui posent comme condition, que les personnes pour lesquelles le bureau a effectué des activités de placement, demandent l'intervention dudit bureau pour chaque nouveau placement;
+
+8° au bureau, ses mandataires ou préposés qui demandent une indemnité de la part de travailleurs qui mettent anticipativement fin à une procédure de placement ou qui n'accèdent pas à une vacance d'emploi pour laquelle ils avaient postulé;
+
+9° au bureau, ses mandataires ou préposés qui ne délivrent pas d'attestation mentionnant date et heure de la visite, demandée par un postulant soumis au contrôle de chômage qui participe à une procédure de sélection;
+
+10° à l'agence de travail intérimaire, ses mandataires ou préposés qui font effectuer dans leurs locaux des activités intérimaires par des agences de travail intérimaire ou des mandataires ou préposés d'agences de travail intérimaire ne disposant pas d'un agrément ou dont l'agrément a été retiré ou supprimé;
+
+11° à l'agence de travail intérimaire, ses mandataires ou préposés mettant des personnes exclusivement à la disposition d'une seule entreprise utilisatrice;
+
+12° à l'agence de travail intérimaire, ses mandataires ou préposés qui font de la publicité pouvant tromper des intérimaires potentiels;
+
+13° à l'agence de travail intérimaire, ses mandataires ou préposés qui ne précisent pas clairement dans les annonces qu'ils visent à recruter de la main-d'oeuvre, ou qui n'y donnent pas d'informations correctes, complètes et objectives;
+
+14° [<sup>3</sup> 14° à l'agence qui recourt à des moyens, mécanismes ou listes visant à empêcher les pêcheurs d'obtenir un engagement ;
+
+15° à l'agence, ses mandataires ou préposés qui font de la publicité susceptible de tromper des sportifs rémunérés potentiels ;]<sup>3</sup>;
+
+16° à l'employeur qui commet une infraction au décret du 19 juillet 1973 réglant l'emploi des langues en matière de relations sociales entre employeurs et travailleurs, ainsi qu'en matière d'actes et de documents d'entreprise prescrits par la loi et les règlements.
+
+§ 2. Aux conditions fixées par le présent décret, et dans la mesure où les faits sont passibles de peines pénales, une amende administrative de [<sup>3</sup> 50 à 500 euros]<sup>3</sup> peut être infligée :
+
+1° à toute personne, ses mandataires ou préposés qui exploitent un bureau en qualité de personne physique sans jouir des droits civils et politiques;
+
+2° à toute personne, ses mandataires ou préposés qui, outre les cas autorisés par l'article 47 de la Loi sur les Faillites du 8 août 1997 ou par une législation similaire dans l'Etat membre d'établissement, effectuent des services de placement privé au moment où le bureau se trouve en état de faillite ou d'insolvabilité notoire, ou fait l'objet d'une procédure de déclaration de faillite;
+
+3° au bureau, ses mandataires ou préposés qui effectuent des services conduisant à l'attribution d'un emploi tel que visé à l'article 5, 5°, du décret du 10 décembre 2010 relatif au placement privé;
+
+4° au bureau, ses mandataires ou préposés qui, lors de la prestation de services de placement privé, ne respectent pas la vie privée du travailleur et de l'employeur et ne traitent pas leurs données relevant de la vie privée conformément à la législation relative à la protection de la vie privée;
+
+5° au bureau, ses mandataires ou préposés, qui recueillent des informations médicales en dehors des cas indispensables pour déterminer si un travailleur est en mesure d'exercer une certaine fonction ou pour remplir les exigences de santé et de sécurité;
+
+6° au bureau, ses mandataires ou préposés qui effectuent ou font effectuer des tests génétiques;
+
+7° à l'agence de travail intérimaire, ses mandataires ou préposés qui coopèrent avec des agences de travail intérimaire non agréées;
+
+8° aux administrateurs, gérants, mandataires ou autres personnes habilitées à engager ou représenter le bureau, ou les actionnaires principaux du bureau, dans la mesure où ces derniers exercent dans les faits les compétences de l'administrateur, qui effectuent des services de placement privé et qui :
+
+a) pendant une période de cinq ans préalablement au début des services de placement privé ou pendant l'exercice de ceux-ci, sont condamnés en raison de faillite, d'insolvabilité frauduleuse, de faux en écriture, d'abus de confiance, d'escroquerie, de corruption ou de fraude;
+
+b) pendant une période de cinq ans préalablement au début des services de placement privé ou pendant l'exercice de ceux-ci, sont tenus responsables des engagements ou des dettes d'une société tombée en faillite, en application des articles 229, 5°, 265, 315, 456, 4°, et 530, du Code des sociétés ou d'une législation similaire dans l'Etat membre d'établissement, ou ont exercé à plusieurs reprises une fonction de gérant ou de mandataire dans une société tombée en faillite;
+
+c) pendant une période de cinq ans préalablement au début des services de placement privé ou pendant l'exercice de ceux-ci, ont manqué à plusieurs reprises à leurs obligations fiscales, à leurs obligations sociales ou aux dispositions légales et réglementaires relatives à l'exploitation d'un bureau de placement privé;
+
+d) se sont vus infliger, pendant une période de cinq ans préalablement au début des services de placement privé ou pendant l'exercice de ceux-ci, une interdiction d'exploitation avec fermeture de l'entreprise ou une interdiction d'exercer la profession avec fermeture de l'entreprise;
+
+e) pendant une période de cinq ans préalablement au début des services de placement privé ou pendant l'exercice de ceux-ci, sont privés de leurs droits civils et politiques;
+
+9° au bureau, ses mandataires ou préposés, qui effectuent des activités de placement privé qui sont contraires à la législation sociale ou fiscale;
+
+10° au bureau, ses mandataires ou préposés, qui enfreignent la réglementation relative à l'engagement de main d'oeuvre étrangère d'application en Belgique;
+
+11° [<sup>3</sup> à l'utilisateur qui fait appel à une entreprise de travail intérimaire qui ne dispose pas d'un agrément régulier ;
+
+12° à l'utilisateur, ses mandataires ou préposés qui incitent l'agence à ou lui donnent l'ordre d'utiliser des critères discriminatoires lors du placement ; ]<sup>3</sup>;
+
+13° [<sup>3</sup> ...]<sup>3</sup>;
+
+14°[<sup>3</sup> ...]<sup>3</sup>
+
+15°[<sup>3</sup> ...]<sup>3</sup>;
+
+16° au bureau, ses mandataires ou préposés qui demandent ou reçoivent des indemnités, commissions, cotisations, droits d'admission ou d'inscription, en dehors des conditions fixées par le décret du 10 décembre 2010 relatif au placement privé;
+
+17° à l'agence de travail intérimaire qui fait l'objet d'arriérés d'impôts, d'amendes ou d'intérêts, ou de cotisations de sécurité sociale, de cotisations assimilées à la sécurité sociale, d'amendes ou d'intérêts dus à l'Office national de Sécurité sociale, ou de cotisations, d'amendes ou d'intérêts dus aux fonds de sécurité d'existence;
+
+18° à l'agence de travail intérimaire qui n'observe pas les conditions légales en matière de travail intérimaire;
+
+19° au bureau, ses mandataires ou préposés qui ne traitent pas le travailleur de manière objective, respectueuse et non discriminatoire;]<sup>1</sup>
+
+[<sup>2</sup> 20°[<sup>3</sup> ...]<sup>3</sup> ;
+
+21° au bureau, ses mandataires ou préposés, qui collaborent avec un bureau qui n'est pas préalablement enregistré, dans le cadre du placement en vue de la conclusion d'un contrat de travail pour des sportifs rémunérés ;
+
+22° [<sup>3</sup> ...]<sup>3</sup>;
+
+23°[<sup>3</sup> ...]<sup>3</sup>.]<sup>2</sup>
+
+[<sup>3</sup> 24° à toute personne visée à l'article 24, alinéa 1er, 1° et 2°, du présent décret, qui se rend coupable d'une infraction telle que visée à l'article 24, alinéa 1er, 1° et 2°, du présent décret ;
+
+25° à l'agence, ses mandataires ou préposés qui approchent, directement ou indirectement, des sportifs de moins de quinze ans en vue de conclure un contrat pour la prestation de services de placement privé de sportifs ;
+
+26° à l'agence, ses mandataires ou préposés qui demandent une rémunération pour la prestation de services de placement privé pour un sportif mineur.]<sup>3</sup>
+
+[<sup>3</sup> § 3. Dans les conditions énoncées dans le présent décret et pour autant que les faits soient également passibles de poursuites pénales, une amende administrative de 150 euros à 1500 euros peut être infligée à :
+
+1° toute personne, ses mandataires ou préposés qui exploitent une entreprise de travail intérimaire sans être en possession d'un agrément régulier préalable ou qui ne satisfont plus aux conditions d'agrément ;
+
+2° l'entreprise de travail intérimaire, ses mandataires ou préposés qui, après le retrait de l'agrément, concluent encore de nouveaux contrats, qui modifient, renouvellent ou prolongent des contrats ;
+
+3° l'entreprise de travail intérimaire, ses mandataires ou préposés qui, après le retrait ou la radiation de l'agrément, exercent encore des activités de travail intérimaire ;
+
+4° toute personne, ses mandataires ou préposés qui exploitent une agence en tant qu'agent sportif qui n'a pas été enregistrée au préalable ;
+
+5° l'agence, ses mandataires ou préposés qui, après la suspension ou le retrait de l'enregistrement, exercent encore des activités en tant qu'agent sportif ;
+
+6° l'entreprise de travail intérimaire, ses mandataires ou préposés qui obtiennent un agrément sur la base de déclarations fausses, incomplètes ou inexactes ;
+
+7° l'utilisateur qui, sciemment et volontairement, fait appel à une entreprise de travail intérimaire qui ne dispose pas d'un agrément régulier ;
+
+8° l'employeur qui, pour le placement, fait appel, sciemment et volontairement, à une agence qui n'a pas été enregistrée au préalable en vue de conclure un contrat de travail de sportif rémunéré.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2010-12-10/12, art. 31, 005; En vigueur : 01-01-2011&gt;
+
+(2)&lt;DCFL 2019-03-29/28, art. 12, 020; En vigueur : 11-06-2019&gt;
+
+(3)&lt;DCFL 2023-10-27/21, art. 31, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 13/1
+
+[<sup>1</sup> § [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. [<sup>3</sup> Pour l'application du présent article, on entend par subvention : l'aide visée dans le décret du 22 mars 2024 relatif à l'appui à l'économie sociale et à la responsabilité sociale des entreprises, à l'exception de l'aide visée dans le chapitre 7 du décret précité.]<sup>3</sup>
+
+Aux conditions fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>2</sup> 150 à 1500 euros]<sup>2</sup> peut être infligée pour les infractions suivantes au [<sup>3</sup> décret précité]<sup>3</sup> :
+
+1° des personnes qui[<sup>2</sup> ...]<sup>2</sup> utilisent une subvention à d'autres fins que pour lesquelles la subvention a été octroyée;
+
+2° des personnes, qui[<sup>2</sup> ...]<sup>2</sup> ont fait des déclarations inexactes ou incomplètes afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir une subvention à injuste titre;
+
+3° des personnes qui[<sup>2</sup> ...]<sup>2</sup> ont négligé ou ont refusé de faire des déclarations nécessaire ou de fournir des renseignements qu'ils sont tenus de fournir, afin d'obtenir ou de faire obtenir, de maintenir ou de faire maintenir une subvention à injuste titre;
+
+4° des personnes qui[<sup>2</sup> ...]<sup>2</sup> ont obtenu ou maintenu une subvention à laquelle ils n'ont pas droit ou à laquelle ils n'ont droit qu'en partie, sur la base de déclarations inexactes ou incomplètes, ou en négligeant de faire des déclarations nécessaires ou de fournir des renseignements;
+
+5° des personnes, qui, afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir une subvention à injuste titre :
+
+a) ont fait des faux en écriture, soit par de fausses signatures, soit par contrefaction ou falsification d'écrits ou de signatures, soit en établissant faussement des conventions, des dispositions, des engagements ou des libérations de dettes ou en les intégrant dans un acte, soit par l'ajout ou de falsification de clauses, déclarations ou faits qui doivent être repris ou constatés dans un acte;
+
+b) se sont servis d'un faux acte ou d'un document faux;
+
+6° des personnes, qui, afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir une subvention à injuste titre :
+
+a) ont fraudé en introduisant des données dans un système informatique, qui sont stockées, traitées ou transmises dans un système informatique, en modifiant ou en effaçant des données ou en changeant l'affectation possible de données dans un système informatique par un autre moyen technologique, de sorte que la portée juridique de telles données change;
+
+b) ont utilisé ces données, tout en sachant que les données ainsi obtenues sont fausses;
+
+7° des personnes, qui, afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir une subvention à injuste titre, ont fait usage de faux noms, de fausses qualités ou de fausses adresses ou qui ont fait des actes frauduleux afin de faire croire à l'existence d'une personne fictive, une entreprise fictive ou un autre événement fictif, ou afin de faire un usage abusif de la confiance d'une autre manière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-02-17/12, art. 31, 006; En vigueur : 05-04-2012&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 32, 031; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFL 2024-03-22/21, art. 33, 035; En vigueur : 01-01-2026&gt;
+
+#### Art. 13/2
+
+[<sup>1</sup> § 1er. Sous les conditions visées dans le présent décret, et si les faits sont passibles de sanctions pénales, une amende de [<sup>4</sup> 25 à 250 euros]<sup>4</sup> peut être imposée pour les infractions suivantes au décret du 12 juillet 2013 relatif au travail adapté dans le cadre de l'intégration collective :
+
+1° l'entreprise de travail adapté, ses mandataires ou préposés ayant négligé d'établir pour les travailleurs du groupe cible un plan de développement personnel ou profil de compétence et de les évaluer annuellement;
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. Sous les conditions visées dans le présent décret, et si les faits sont passibles de sanctions pénales, une amende de [<sup>4</sup> 50 à 500 euros]<sup>4</sup> peut être imposée pour les infractions suivantes au décret du 12 juillet 2013 relatif au travail adapté dans le cadre de l'intégration collective :
+
+1° [<sup>4</sup> ...]<sup>4</sup>;
+
+2° [<sup>4</sup> ...]<sup>4</sup>;
+
+3° l'entreprise de travail adapté, ses mandataires ou préposés qui ne répondent pas aux conditions d'accompagnement visées à l'article 15 du décret du 12 juillet 2013 relatif au travail adapté dans le cadre de l'intégration collective;
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+5° l'entreprise de travail adapté, ses mandataires ou ses préposés qui ne respectent pas les dispositions des articles 32 à 34 du décret du 12 juillet 2013 relatif au travail adapté dans le cadre de l'intégration collective.
+
+[<sup>3</sup> Aux conditions fixées par le présent décret, et dans la mesure où les faits sont passibles de poursuites pénales, une amende administrative de 50 à 500 euros peut être infligée à l'employeur, son mandataire ou préposé s'il rompt le contrat de travail du ressortissant étranger ou s'il apporte une modification significative aux conditions de travail en omettant à dessein d'en avertir les autorités par écrit, en violation des dispositions de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et de ses arrêtés d'exécution.]<sup>3</sup>
+
+§ 3. Sous les conditions visées dans le présent décret, et si les faits sont passibles de sanctions pénales, une amende de[<sup>4</sup> 150 à 1500 euros]<sup>4</sup> peut être imposée pour les infractions suivantes au décret du 12 juillet 2013 relatif au travail adapté dans le cadre de l'intégration collective :
+
+1° des personnes qui[<sup>4</sup> ...]<sup>4</sup> utilisent une subvention à d'autres fins que celles pour lesquelles la subvention a été octroyée;
+
+2° des personnes qui[<sup>4</sup> ...]<sup>4</sup> déclarations inexactes ou incomplètes afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir une subvention à injuste titre;
+
+3° des personnes qui[<sup>4</sup> ...]<sup>4</sup> ont négligé ou ont refusé de faire des déclarations nécessaire ou de fournir des renseignements qu'elles sont tenues de fournir, afin d'obtenir ou de faire obtenir, de maintenir ou de faire maintenir une subvention à injuste titre;
+
+4° des personnes qui[<sup>4</sup> ...]<sup>4</sup> ont obtenu ou maintenu une subvention à laquelle elles n'ont pas droit ou à laquelle elles n'ont droit qu'en partie, sur la base de déclarations inexactes ou incomplètes, ou en négligeant ou en refusant de faire des déclarations nécessaires ou de fournir des renseignements;
+
+5° des personnes, qui[<sup>4</sup> ...]<sup>4</sup> afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir une subvention à injuste titre :
+
+a) ont fait des faux en écriture, soit par de signatures fausses, soit par contrefaction ou falsification d'écrits ou de signatures, soit en établissant faussement des conventions, des dispositions, des engagements ou des libérations de dette ou en les intégrant dans un acte, soit par l'ajout ou de falsification de clauses, déclarations ou faits qui doivent être repris ou constatés dans un acte;
+
+b) se sont servi d'un acte faux ou d'une fausse pièce;
+
+6° des personnes, qui, sciemment, afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir une subvention à injuste titre :
+
+a) ont fraudé en introduisant des données dans un système informatique, qui sont stockées, traitées ou transmises dans un système informatique, en modifiant ou en effaçant des données ou en changeant l'affectation possible de données dans un système informatique par un autre moyen technologique, de sorte que la portée juridique de telles données change;
+
+b) ont utilisé ces données, tout en sachant que les données ainsi obtenues sont fausses;
+
+7° des personnes, qui, afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir une subvention à injuste titre, ont fait usage de faux noms, de fausses qualités ou de fausses adresses ou qui ont fait des actes frauduleux afin de faire croire à l'existence d'une personne fictive, une entreprise fictive ou un autre événement fictif, ou afin de faire un usage abusif de la confiance d'une autre manière. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-12/39, art. 51, 008; En vigueur : 01-04-2019 (voir AGF 2017-02-17/18, art. 110)&gt;
+
+(2)&lt;DCFL 2022-01-14/24, art. 60, 028; En vigueur : 01-07-2023&gt;
+
+(3)&lt;DCFL 2023-10-27/17, art. 7, 030; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DCFL 2023-10-27/21, art. 33, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 13/3
+
+[<sup>1</sup> § 1er. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 2. Aux conditions fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de 250 à 2500 euros peut être infligée pour les infractions suivantes à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, à :
+
+1° l'employeur, ses mandataires ou préposés qui acceptent des titres-services de l'utilisateur si les travaux ou services de proximité ne sont pas encore exécutés ;
+
+2° l'employeur, ses mandataires ou préposés qui font exécuter des travaux ou services de proximité par un travailleur qui n'a pas été recruté pour l'exécution de ces travaux ou services de proximité ;
+
+3° [<sup>3</sup> ...]<sup>3</sup>;
+
+4° [<sup>3</sup> ...]<sup>3</sup>;
+
+5° [<sup>3</sup> ...]<sup>3</sup>;
+
+6° l'employeur, ses mandataires ou préposés qui font exécuter des travaux ou services financés par des titres-services, en sous-traitance par une autre entreprise ou institution ;
+
+7° l'employeur, ses mandataires ou préposés qui font payer par des titres-services un autre volume de travail que le volume de travail supplémentaire d'activités d'aide à domicile de nature ménagère à partir de leur agrément ;
+
+8° l'utilisateur ou le travailleur qui a sciemment participé aux infractions, visées aux points 1° à 7° inclus, et à l'article 10sexies de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité.
+
+[<sup>2</sup> 9° l'employeur, ses mandataires ou préposés qui ne traitent pas le travailleur ou client de manière respectueuse et non-discriminatoire, telle que visée à l'article 2, § 2, alinéa premier, i et j, de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité. ]<sup>2</sup>
+
+[<sup>3</sup> 10° [<sup>5</sup> l'employeur, ses mandataires ou les préposés qui représentent l'utilisateur aux fins de l'application de l'article 3, § 2, alinéa 1er, de l'arrêté royal du 12 décembre 2001 concernant les titres-services, ou qui représentent indûment l'utilisateur ou le travailleur lors de la validation des prestations fournies ]<sup>5</sup> ;
+
+11° les personnes qui utilisent les titres-services à d'autres fins que celles pour lesquelles elles les ont obtenus ;
+
+12° les personnes qui ont obtenu, conservent ou utilisent des titres-services sur la base de déclarations inexactes ou incomplètes ou en omettant de faire les déclarations nécessaires ou de fournir des renseignements.]<sup>3</sup>
+
+[<sup>4</sup> 13° l'employeur, ses mandataires ou ses préposés qui n'enregistrent pas les prestations dans le système de gestion de la société émettrice dans les trente jours suivant la date de prestation.]<sup>4</sup>
+
+[<sup>3</sup> § 2/1. Dans les conditions énoncées dans le présent décret et si les faits sont également passibles de poursuites pénales, une amende administrative de 150 à 1500 euros peut être infligée pour les infractions suivantes à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité à :
+
+1° l'employeur, ses mandataires ou préposés qui fournissent des travaux ou services de proximité sans disposer d'un agrément régulier préalable ou qui ne satisfont plus aux conditions d'agrément ;
+
+2° l'employeur, ses mandataires ou préposés qui effectuent une activité autre que celles pour lesquelles un agrément a été accordé en vertu de la loi précitée et qui ne disposent pas d'une division sui generis s'occupant spécifiquement de l'emploi dans le cadre du régime des titres-services, telle que visée à l'article 2, § 2, alinéa 1er, a, de la loi précitée ;
+
+3° l'employeur, ses mandataires ou préposés qui sous-traitent des travaux ou services financés par des titres-services à une autre entreprise ou à un autre organisme ;
+
+4° l'employeur, ses mandataires ou préposés qui effectuent, dans le cadre des travaux ou services de proximité, des activités non autorisées dans la décision d'agrément ;
+
+5° l'employeur, ses mandataires ou préposés qui acceptent des titres-services pour payer des activités qui ne sont pas des travaux ou services de proximité ;
+
+6° l'employeur, ses mandataires ou préposés qui acceptent et transmettent à la société émettrice, en vue du remboursement, plus de titres-services pour des prestations de travaux ou services de proximité effectuées durant un trimestre donné que le nombre d'heures de travail, déclaré auprès de l'ONSS pour des prestations de travaux ou services de proximité effectuées, qui a été presté pendant ce même trimestre par des travailleurs sous contrat de travail titres-services. ]<sup>3</sup>
+
+§ 3.[<sup>3</sup> Dans les conditions énoncées dans le présent décret et si les faits sont également passibles de poursuites pénales, une amende administrative de 300 à 3000 euros peut être infligée pour les infractions suivantes à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité à :
+
+1° l'employeur, ses mandataires ou préposés qui effectuent, sciemment et volontairement, dans le cadre des travaux ou services de proximité, des activités non autorisées dans la décision d'agrément ;
+
+2° l'employeur, ses mandataires ou préposés qui acceptent, sciemment et volontairement, des titres-services pour payer des activités qui ne sont pas des travaux ou services de proximité ;
+
+3° l'employeur, ses mandataires ou préposés qui, sciemment et volontairement, acceptent et transmettent à la société émettrice, en vue du remboursement, plus de titres-services pour des prestations de travaux ou services de proximité effectuées durant un trimestre donné que le nombre d'heures de travail, déclaré auprès de l'ONSS pour des prestations de travaux ou services de proximité effectuées, qui a été presté pendant ce même trimestre par des travailleurs sous contrat de travail titres-services ;
+
+4° l'employeur, ses mandataires ou préposés qui ont commis, sciemment et volontairement, l'infraction visée à l'article 10quinquies, alinéa 1er, 10°, de la loi précitée ;
+
+5° l'employeur, ses mandataires ou préposés qui organisent l'enregistrement des activités de titres-services de telle manière qu'il est impossible aux services d'inspection de vérifier exactement la relation entre les prestations mensuelles de chaque travailleur titres-services individuel, l'utilisateur et les titres-services correspondants.]<sup>3</sup>.
+
+§ 4. Aux conditions fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>3</sup> 300 à 3000 euros ]<sup>3</sup> peut être infligée pour les infractions suivantes à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, aux :
+
+1° personnes [<sup>3</sup> qui, sciemment et volontairement, ont ]<sup>3</sup> fait des déclarations inexactes ou incomplètes[<sup>3</sup> afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services ]<sup>3</sup> ;
+
+2° personnes [<sup>3</sup> qui, sciemment et volontairement, ont]<sup>3</sup> négligé ou refusé de faire des déclarations nécessaires ou de fournir des renseignements qu'elles sont tenues de fournir,[<sup>3</sup> afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services]<sup>3</sup>;
+
+3° personnes [<sup>3</sup> qui, sciemment et volontairement, ont obtenu, conservent ou utilisent]<sup>3</sup> des titres-services auxquels elles n'ont pas droit ou auxquels elles n'ont droit qu'en partie, sur la base de déclarations inexactes ou incomplètes, ou en négligeant de faire des déclarations nécessaires ou de fournir des renseignements ;
+
+4° personnes,[<sup>3</sup> qui, sciemment et volontairement, ont]<sup>3</sup>, [<sup>3</sup> afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services ]<sup>3</sup> :
+
+a) ont fait des faux en écriture, soit par de signatures fausses, soit par contrefaction ou falsification d'écrits ou de signatures, soit en établissant faussement des conventions, des dispositions, des engagements ou des libérations de dette ou en les intégrant dans un acte, soit par l'ajout ou la falsification de clauses, déclarations ou faits qui doivent être repris ou constatés dans un acte ;
+
+b) se sont servies d'un faux acte ou d'un document faux, tout en sachant que l'acte ou le document utilisé sont faux ;
+
+5° personnes,[<sup>3</sup> qui, afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services]<sup>3</sup>:
+
+a) ont fraudé en introduisant des données dans un système informatique, qui sont stockées, traitées ou transmises dans un système informatique, en modifiant ou en effaçant des données ou en changeant l'affectation possible de données dans un système informatique par un autre moyen technologique, de sorte que la portée juridique de telles données change ;
+
+b) ont utilisé ces données, tout en sachant que les données ainsi obtenues sont fausses ;
+
+6° personnes,[<sup>3</sup> qui, afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services ]<sup>3</sup>, ont fait usage de faux noms, de fausses qualités ou de fausses adresses ou qui ont fait des actes frauduleux afin de faire croire à l'existence d'une personne fictive, une entreprise fictive ou un autre événement fictif, ou afin de faire un usage abusif de la confiance d'une autre manière.]<sup>1</sup>
+
+[<sup>3</sup> 7° à l'utilisateur ou au travailleur qui, sciemment et volontairement, a pris part aux infractions visées aux points 1° à 6°, et à l'article 10sexies de la loi précitée.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-04-24/05, art. 23, 011; En vigueur : 01-05-2015&gt;
+
+(2)&lt;DCFL 2016-12-23/67, art. 48, 014; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFL 2023-10-27/21, art. 34, 031; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DCFL 2024-04-19/46, art. 20, 033; En vigueur : 01-01-2025&gt;
+
+(5)&lt;DCFL 2026-06-19/09, art. 5, 037; En vigueur : 19-07-2026&gt;
+
+#### Art. 13/4
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Aux conditions fixées au présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>3</sup> 150 à 1500 euros]<sup>3</sup> peut être infligée à un ressortissant étranger pour les infractions suivantes au décret du 15 octobre 2021 sur l'exécution d'activités professionnelles indépendantes par des ressortissants étrangers et ses arrêtés d'exécution :
+
+1° il exerce une activité professionnelle indépendante sans être titulaire d'une carte professionnelle ;
+
+2° il exerce une activité professionnelle indépendante sans respecter les limites ou les conditions de la carte professionnelle ;
+
+3° il exerce une activité indépendante, bien qu'il ait été enjoint de cesser son activité, voire de fermer l'établissement exploité.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-12-23/67, art. 49, 014; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFL 2021-10-15/14, art. 31, 022; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCFL 2023-10-27/21, art. 35, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 13/5
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Aux conditions visées au présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>3</sup> 300 à 3000 euros]<sup>3</sup> peut être infligée pour les infractions suivantes au décret du 15 octobre 2021 sur l'exécution d'activités professionnelles indépendantes par des ressortissants étrangers :
+
+1° un ressortissant étrangers qui, en contravention avec les dispositions du présent décret et avec ses arrêtés d'exécution, exerce une activité indépendante sans être admis ou autorisé à un séjour de plus de trois mois ou à un établissement en Belgique ;
+
+2° un ressortissant étranger qui obtient ou possède frauduleusement une carte professionnelle ;
+
+3° chacun qui a fait des déclarations inexactes ou incomplètes ou qui a fourni des documents inexacts, en vue d'obtenir ou de faire obtenir, de conserver ou de faire conserver à tort une carte professionnelle ;
+
+4° chacun qui a négligé ou a refusé de faire des déclarations nécessaires ou de fournir des renseignements qu'il est tenu de fournir, afin d'obtenir ou de faire obtenir, de conserver ou de faire conserver à tort une carte professionnelle.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-12-23/67, art. 50, 014; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFL 2021-10-15/14, art. 32, 022; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCFL 2023-10-27/21, art. 36, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 13/6
+
+[<sup>1</sup> § 1er. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 150 à 1500 euros]<sup>4</sup> peut être infligée à l'employeur, son mandataire ou préposé pour les infractions suivantes à la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et ses arrêté d'exécution lorsqu'il :
+
+1° a fait ou a laissé travailler un ressortissant étranger sans avoir obtenu un permis de travail ou qui ne dispose pas d'une carte de travail ;
+
+2° a fait ou laissé travailler un ressortissant étranger sans respecter les limites ou les conditions du permis de travail ou de la carte de travail ;
+
+3° n'a pas remis la carte de travail au travailleur étranger ou le lui a remis moyennant paiement d'une somme ou d'une rétribution sous quelque forme que ce soit.
+
+§ 2. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 300 à 3000 euros ]<sup>4</sup> peut être infligée à l'employeur, son mandataire ou préposé qui, en contravention avec les dispositions de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et avec ses arrêté d'exécution, a fait ou a laissé travailler un ressortissant étranger sans être admis ou autorisé à un séjour de plus de trois mois ou à un établissement en Belgique.
+
+§ 3. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 300 à 3000 euros ]<sup>4</sup> peut être infligée à l'employeur, son mandataire ou préposé pour les infractions suivantes à la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et ses arrêté d'exécution lorsqu'il, au moment de l'emploi d'un ressortissant d'un pays tiers :
+
+1° n'a pas vérifié auparavant si celui-ci dispose d'un permis de séjour valable ou d'une autre autorisation de séjour ;
+
+2° n'a pas tenu à disposition, au moins pour la durée de l'occupation, une copie ou les données de son permis de séjour ou de son autre autorisation de séjour aux services d'inspection compétents.
+
+§ 4. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 300 à 3000 euros ]<sup>4</sup> peut être infligée à quiconque qui, pour les infractions suivantes à la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et ses arrêtés d'exécution :
+
+1° a fait entrer en Belgique un ressortissant étranger ou a favorisé l'entrée en Belgique de celui-ci en vue d'y être occupé, sauf s'il s'agit d'un ressortissant étranger possédant un permis de travail valable et à l'exception du ressortissant étranger pour lequel l'employeur peut bénéficier d'une autorisation d'occupation postérieurement à son entrée en Belgique en vue d'y être occupé ;
+
+2° a promis à un ressortissant étranger, moyennant une rétribution sous forme quelconque, soit de lui chercher un emploi, soit de lui procurer un emploi, soit d'accomplir des formalités en vue de son occupation en Belgique ;
+
+3° a [<sup>2</sup> demandé]<sup>2</sup>ou reçu d'un ressortissant étranger, une rétribution sous une forme quelconque, soit pour lui chercher un emploi, soit pour lui procurer un emploi, soit pour accomplir des formalités en vue de son occupation en Belgique ;
+
+4° [<sup>5</sup> est intervenue entre les personnes et autorités suivantes et, ce faisant, a commis des actes susceptibles d'induire en erreur ces personnes ou autorités :
+
+a) un ressortissant étranger et un employeur ;
+
+b) un ressortissant étranger et les autorités chargées de l'application de la présente loi ou de ses arrêtés d'exécution, ou du contrôle et de la surveillance de la présente loi ou de ses arrêtés d'exécution ;
+
+c) un employeur et les autorités visées au point b)]<sup>5</sup>.
+
+§ 5. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 300 à 3000 euros ]<sup>4</sup> peut être infligée pour les infractions suivantes à la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et ses arrêtés d'exécution, aux personnes suivantes :
+
+1° un entrepreneur, en dehors du cadre de sous-traitants, ou un entrepreneur intermédiaire, dans le cadre d'une telle chaîne, lorsque leur sous-traitant direct commet une infraction telle que visée [<sup>3</sup> à l'article 12/1, § 1er, et à l'article 12/2 de la loi précitée et à l'article 22, 1°, du décret du 15 octobre 2021 sur l'exercice d'activités professionnelles indépendantes par des ressortissants étrangers et ses arrêtés d'exécution]<sup>3</sup> ;
+
+2° un entrepreneur principal et un entrepreneur intermédiaire, dans le cadre d'une chaîne de sous-traitants, lorsque leur sous-traitant indirect commet une infraction, telles que visées [<sup>3</sup> à l'article 12/1, § 1er, et à l'article 12/2 de la loi précitée et à l'article 22, 1°, du décret du 15 octobre 2021 sur l'exercice d'activités professionnelles indépendantes par des ressortissants étrangers et ses arrêtés d'exécution]<sup>3</sup>, et lorsqu'ils sont au courant, préalablement à l'infraction commise par eux, du fait que leur sous-traitant indirect occupe un ou plusieurs ressortissants de pays tiers séjournant illégalement ;
+
+3° le donneur d'ordre, en dehors du cadre d'une sous-traitance, lorsque son entrepreneur commet une des infractions,[<sup>3</sup> à l'article 12/1, § 1er, et à l'article 12/2 de la loi précitée et à l'article 22, 1°, du décret du 15 octobre 2021 sur l'exercice d'activités professionnelles indépendantes par des ressortissants étrangers et ses arrêtés d'exécution]<sup>3</sup>, lorsque le donneur d'ordre est au courant, préalablement à l'infraction commise par lui, du fait que son entrepreneur occupe un ou plusieurs ressortissants de pays tiers séjournant illégalement ;
+
+4° le donneur d'ordre, dans le cadre d'une sous-traitance, lorsque le sous-traitant direct ou indirect de son entrepreneur commet une infraction, telle que visée [<sup>3</sup> à l'article 12/1, § 1er, et à l'article 12/2 de la loi précitée et à l'article 22, 1°, du décret du 15 octobre 2021 sur l'exercice d'activités professionnelles indépendantes par des ressortissants étrangers et ses arrêtés d'exécution]<sup>3</sup>, et lorsque le donneur d'ordre est au courant, préalablement à l'infraction commise par lui, du fait que le sous-traitant direct ou indirect de son entrepreneur occupe un ou plusieurs ressortissants de pays tiers séjournant illégalement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-12-23/67, art. 51, 014; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFL 2023-10-27/17, art. 8, 030; En vigueur : 10-12-2023&gt;
+
+(3)&lt;DCFL 2023-10-27/17, art. 8,2°, 030; En vigueur : indéterminée &gt;
+
+(4)&lt;DCFL 2023-10-27/21, art. 37, 031; En vigueur : 01-01-2024&gt;
+
+(5)&lt;DCFL 2025-06-27/09, art. 4,1°, 034; En vigueur : 26-07-2025&gt;
+
+#### Art. 13/6 DROIT FUTUR.
+
+[<sup>1</sup> § 1er. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 150 à 1500 euros]<sup>4</sup> peut être infligée à l'employeur, son mandataire ou préposé pour les infractions suivantes à la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et ses arrêté d'exécution lorsqu'il :
+
+1° a fait ou a laissé travailler un ressortissant étranger sans avoir obtenu un permis de travail ou qui ne dispose pas d'une carte de travail ;
+
+2° a fait ou laissé travailler un ressortissant étranger sans respecter les limites ou les conditions du permis de travail ou de la carte de travail ;
+
+3° n'a pas remis la carte de travail au travailleur étranger ou le lui a remis moyennant paiement d'une somme ou d'une rétribution sous quelque forme que ce soit.
+
+§ 2. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 300 à 3000 euros ]<sup>4</sup> peut être infligée à l'employeur, son mandataire ou préposé qui, en contravention avec les dispositions de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et avec ses arrêté d'exécution, a fait ou a laissé travailler un ressortissant étranger sans être admis ou autorisé à un séjour de plus de trois mois ou à un établissement en Belgique.
+
+§ 3. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 300 à 3000 euros ]<sup>4</sup> peut être infligée à l'employeur, son mandataire ou préposé pour les infractions suivantes à la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et ses arrêté d'exécution lorsqu'il, au moment de l'emploi d'un ressortissant d'un pays tiers :
+
+1° n'a pas vérifié auparavant si celui-ci dispose d'un permis de séjour valable ou d'une autre autorisation de séjour ;
+
+2° n'a pas tenu à disposition, au moins pour la durée de l'occupation, une copie ou les données de son permis de séjour ou de son autre autorisation de séjour aux services d'inspection compétents.
+
+§ 4. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 300 à 3000 euros ]<sup>4</sup> peut être infligée à quiconque qui, pour les infractions suivantes à la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et ses arrêtés d'exécution :
+
+1° a fait entrer en Belgique un ressortissant étranger ou a favorisé l'entrée en Belgique de celui-ci en vue d'y être occupé, sauf s'il s'agit d'un ressortissant étranger possédant un permis de travail valable et à l'exception du ressortissant étranger pour lequel l'employeur peut bénéficier d'une autorisation d'occupation postérieurement à son entrée en Belgique en vue d'y être occupé ;
+
+2° a promis à un ressortissant étranger, moyennant une rétribution sous forme quelconque, soit de lui chercher un emploi, soit de lui procurer un emploi, soit d'accomplir des formalités en vue de son occupation en Belgique ;
+
+3° a [<sup>2</sup> demandé]<sup>2</sup>ou reçu d'un ressortissant étranger, une rétribution sous une forme quelconque, soit pour lui chercher un emploi, soit pour lui procurer un emploi, soit pour accomplir des formalités en vue de son occupation en Belgique ;
+
+4° [<sup>5</sup> est intervenue entre les personnes et autorités suivantes et, ce faisant, a commis des actes susceptibles d'induire en erreur ces personnes ou autorités :
+
+a) un ressortissant étranger et un employeur ;
+
+b) un ressortissant étranger et les autorités chargées de l'application de la présente loi ou de ses arrêtés d'exécution, ou du contrôle et de la surveillance de la présente loi ou de ses arrêtés d'exécution ;
+
+c) un employeur et les autorités visées au point b)]<sup>5</sup>.
+
+§ 5. Aux conditions, fixées par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>4</sup> 300 à 3000 euros ]<sup>4</sup> peut être infligée pour les infractions suivantes à la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et ses arrêtés d'exécution, aux personnes suivantes :
+
+1° [<sup>6</sup> un donneur d'ordre ou un entrepreneur,]<sup>6</sup> en dehors du cadre de sous-traitants, ou un entrepreneur intermédiaire, dans le cadre d'une telle chaîne, lorsque leur [<sup>6</sup> entrepreneur ou sous-traitant direct]<sup>6</sup> commet une infraction telle que visée [<sup>3</sup> à l'article 12/1, § 1er, et à l'article 12/2 de la loi précitée et à l'article 22, 1°, du décret du 15 octobre 2021 sur l'exercice d'activités professionnelles indépendantes par des ressortissants étrangers et ses arrêtés d'exécution]<sup>3</sup> ;
+
+2° [<sup>6</sup> un donneur d'ordre ou un entrepreneur principal]<sup>6</sup> et un entrepreneur intermédiaire, dans le cadre d'une chaîne de sous-traitants, lorsque leur sous-traitant indirect commet une infraction, telles que visées [<sup>3</sup> à l'article 12/1, § 1er, et à l'article 12/2 de la loi précitée et à l'article 22, 1°, du décret du 15 octobre 2021 sur l'exercice d'activités professionnelles indépendantes par des ressortissants étrangers et ses arrêtés d'exécution]<sup>3</sup>, et lorsqu'ils sont au courant, préalablement à l'infraction commise par eux, du fait que leur sous-traitant indirect occupe un ou plusieurs ressortissants de pays tiers séjournant illégalement ;
+
+3° le [<sup>6</sup> donneur d'ordre-personne physique qui fait appel à un entrepreneur à des fins exclusivement privées]<sup>6</sup>, en dehors du cadre d'une sous-traitance, lorsque son entrepreneur commet une des infractions,[<sup>3</sup> à l'article 12/1, § 1er, et à l'article 12/2 de la loi précitée et à l'article 22, 1°, du décret du 15 octobre 2021 sur l'exercice d'activités professionnelles indépendantes par des ressortissants étrangers et ses arrêtés d'exécution]<sup>3</sup>, lorsque le [<sup>6</sup> donneur d'ordre-personne physique qui fait appel à un entrepreneur à des fins exclusivement privées]<sup>6</sup> est au courant, préalablement à l'infraction commise par lui, du fait que son entrepreneur occupe un ou plusieurs ressortissants de pays tiers séjournant illégalement ;
+
+4° [<sup>6</sup> ...]<sup>6</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-12-23/67, art. 51, 014; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFL 2023-10-27/17, art. 8, 030; En vigueur : 10-12-2023&gt;
+
+(3)&lt;DCFL 2023-10-27/17, art. 8,2°, 030; En vigueur : indéterminée &gt;
+
+(4)&lt;DCFL 2023-10-27/21, art. 37, 031; En vigueur : 01-01-2024&gt;
+
+(5)&lt;DCFL 2025-06-27/09, art. 4,1°, 034; En vigueur : 26-07-2025&gt;
+
+(6)&lt;DCFL 2025-06-27/09, art. 4,2°-4,6°, 034; En vigueur : 01-01-2026&gt;
+
+#### Art. 13/7
+
+[<sup>1</sup> § [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. Aux conditions prévues par le présent décret, et dans la mesure où les faits sont également passibles de peines pénales, une amende administrative de [<sup>2</sup> 150 à 1500 euros ]<sup>2</sup> peut être infligée pour les infractions suivantes au chapitre IV, section 6, de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales :
+
+1° aux personnes qui[<sup>2</sup> ...]<sup>2</sup> ont fait des déclarations inexactes ou incomplètes en vue de l'application des règles du congé de formation flamand visé au chapitre IV, section 6, de la loi précitée ;
+
+2° aux personnes qui,[<sup>2</sup> ...]<sup>2</sup>t, ont omis ou refusé de faire les déclarations nécessaires ou de fournir des renseignements qu'elles sont tenues de fournir, afin d'obtenir ou de faire obtenir, de maintenir ou de faire maintenir l'application des règles du congé de formation flamand visé au chapitre IV, section 6, de la loi précitée ;
+
+3° aux personnes qui,[<sup>2</sup> ...]<sup>2</sup> ont obtenu ou maintenu à tort l'application des règles du congé de formation flamand visé au chapitre IV, section 6, de la loi précitée, auquel elles n'ont pas ou seulement partiellement droit, en faisant des déclarations incorrectes ou incomplètes, ou en omettant ou en refusant de faire les déclarations nécessaires ou de fournir des renseignements ;
+
+4° aux personnes qui, afin d'obtenir ou de faire obtenir, de maintenir ou de faire maintenir l'application des règles du congé de formation flamand visé au chapitre IV, section 6, de la loi précitée :
+
+a) ont fait des faux en écriture, soit par des signatures fausses, soit par contrefaçon ou falsification d'écrits ou de signatures, soit en établissant faussement des conventions, des dispositions, des engagements ou des libérations de dette ou en les intégrant dans un acte, soit par l'ajout ou la falsification de clauses, déclarations ou faits qui doivent être repris ou constatés dans un acte ;
+
+b) se sont servies d'un acte faux ou d'un document faux, tout en sachant que l'acte ou le document utilisé est faux ;
+
+5° aux personnes qui, afin d'obtenir ou de faire obtenir, de maintenir ou de faire maintenir l'application des règles du congé de formation flamand visé au chapitre IV, section 6, de la loi précitée :
+
+a) ont commis une fraude en introduisant des données dans un système informatique, qui sont stockées, traitées ou transmises dans un système informatique, en modifiant ou en effaçant des données ou en changeant l'affectation possible des données dans un système informatique par un autre moyen technologique, de sorte que la portée juridique de telles données change ;
+
+b) ont utilisé ces données, tout en sachant que les données ainsi obtenues sont fausses ;
+
+6° aux personnes, qui, afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir l'application des règles du congé de formation flamand visé au chapitre IV, section 6, de la loi précitée, ont fait usage de faux noms, de fausses qualités ou de fausses adresses ou qui ont fait des actes frauduleux afin de faire croire à l'existence d'une personne fictive, d'une entreprise fictive ou d'un autre événement fictif, ou afin de faire un usage abusif de la confiance d'une autre manière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-10-12/10, art. 20, 019; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 38, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 13/8
+
+[<sup>1</sup> Aux conditions visées dans le présent décret, et dans la mesure où les faits sont également passibles de poursuites pénales, une amende administrative de [<sup>2</sup> 25 à 250 euros]<sup>2</sup> peut être infligée pour les infractions suivantes au décret du 14 janvier 2022 relatif au travail adapté dans le cadre de l'intégration individuelle :
+
+1° à l'employeur, ses mandataires ou ses préposés qui négligent de faire établir ou de mettre à jour un plan de soutien pour les travailleurs atteints d'un handicap à l'emploi, conformément à l'article 23, alinéa premier, du décret du 14 janvier 2022 précité ;
+
+2° à l'employeur, ses mandataires ou ses préposés qui, pour le coaching des travailleurs atteints d'un handicap à l'emploi, font appel à des travailleurs qui ne remplissent pas les conditions fixées en vertu de l'article 24, alinéa deux, du décret du 14 janvier 2022 précité.
+
+Aux conditions visées dans le présent décret, et dans la mesure où les faits sont également passibles de poursuites pénales, une amende administrative de [<sup>2</sup> 50 à 500 euros]<sup>2</sup> peut être infligée pour les infractions suivantes au décret du 14 janvier 2022 précité :
+
+1° [<sup>2</sup> ...]<sup>2</sup>;
+
+2° [<sup>2</sup> ...]<sup>2</sup>;
+
+3° à l'employeur, ses mandataires ou ses préposés qui, en violation du besoin de mesures d'aide à l'emploi, fixées conformément à l'article 32, alinéa premier, du décret du 14 janvier 2022 précité, ne prévoient pas d'accompagnement sur le lieu de travail ;
+
+4° à l'employeur, ses mandataires ou ses préposés qui ne prévoient pas d'accompagnement et de coaching conformément aux conditions visées au chapitre 4, section 3, du décret du 14 janvier 2022 précité ;
+
+5° à l'employeur, ses mandataires ou ses préposés qui entravent la bonne mise en oeuvre de l'accompagnement et du coaching, visés au chapitre 4, section 3, du décret du 14 janvier 2022 précité ;
+
+6° à l'employeur, ses mandataires ou ses préposés qui, pour l'accompagnement des travailleurs atteints d'un handicap à l'emploi, désignent comme accompagnateur des travailleurs qui ne sont pas qualifiés conformément à l'article 23, alinéa deux, du décret du 14 janvier 2022 précité ;
+
+7° à l'employeur, ses mandataires ou ses préposés qui licencient des travailleurs dans le seul but de les remplacer par un ou plusieurs travailleurs atteints d'un handicap à l'emploi bénéficiant de mesures d'aide à l'emploi ou de mesures d'aide à l'emploi plus favorables, ou de les réembaucher ensuite en vue d'obtenir des mesures d'aide à l'emploi ou des mesures d'aide à l'emploi plus favorables ;
+
+8° au prestataire de services externe qui, éventuellement à la connaissance ou à la demande de l'employeur concerné, ne prévoit pas un accompagnement qui répond intégralement aux conditions visées au chapitre 4, section 3, du décret du 14 janvier 2022 précité, ou qui ne fournit pas un accompagnement correct ou complet.
+
+Aux conditions visées dans le présent décret, et dans la mesure où les faits sont également passibles de poursuites pénales, une amende administrative de [<sup>3</sup> 150 à 1 500 euros ]<sup>3</sup> peut être infligée pour les infractions suivantes au décret du 14 janvier 2022 précité :
+
+1° aux personnes qui utilisent [<sup>2</sup> ...]<sup>2</sup> les primes visées au chapitre 4, sections 2 et 3, et au chapitre 5 du décret du 14 janvier 2022 précité, à des fins autres que celles pour lesquelles elles les ont obtenues ;
+
+2° aux personnes qui ont délibérément fait des déclarations inexactes ou incomplètes afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir indûment les primes, visées au chapitre 4, sections 2 et 3, et au chapitre 5 du décret du 14 janvier 2022 précité ;
+
+3° aux personnes qui ont délibérément négligé ou refusé de faire des déclarations nécessaires ou de fournir les renseignements qu'elles sont tenues de fournir, afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir indûment les primes, visées au chapitre 4, sections 2 et 3, et au chapitre 5 du décret du 14 janvier 2022 précité ;
+
+4° aux personnes qui ont [<sup>2</sup> ...]<sup>2</sup> indûment obtenu ou maintiennent les primes, visées au chapitre 4, sections 2 et 3, et au chapitre 5, du décret du 14 janvier 2022 précité, auxquelles elles n'ont pas droit ou auxquelles elles n'ont droit qu'en partie, sur la base de déclarations inexactes ou incomplètes, ou en négligeant ou en refusant de faire des déclarations nécessaires ou de fournir des renseignements ;
+
+5° aux personnes qui ont commis les actes suivants afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir indûment les primes, visées au chapitre 4, sections 2 et 3, et au chapitre 5 du décret du 14 janvier 2022 précité :
+
+a) elles ont fait des faux en écriture de l'une des manières suivantes :
+
+1\) par de fausses signatures ;
+
+2\) par la contrefaçon ou la falsification d'écritures ou de signatures ;
+
+3\) en établissant faussement des conventions, dispositions, engagements ou libérations de dette ou en les intégrant dans un acte ;
+
+4\) en ajoutant ou en falsifiant des clauses, des déclarations ou des faits à inclure ou à constater dans l'acte ;
+
+b) elles ont utilisé de faux acte ou document, tout en sachant que l'acte ou la pièce utilisé est faux ;
+
+6° aux personnes qui ont commis les actes suivants afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir indûment les primes, visées au chapitre 4, sections 2 et 3, et au chapitre 5 du décret du 14 janvier 2022 précité :
+
+a) elles ont fraudé en introduisant des données dans un système informatique, qui sont stockées, traitées ou transmises dans un système informatique, en modifiant ou en effaçant des données ou en changeant l'affectation possible de données dans un système informatique par un autre moyen technologique, de sorte que la portée juridique de telles données change ;
+
+b) elles ont utilisé des données tout en sachant qu'elles étaient fausses ;
+
+7° aux personnes, qui, afin d'obtenir ou de faire obtenir ou de maintenir ou de faire maintenir indûment les primes, visées au chapitre 4, sections 2 et 3, et au chapitre 5, du décret du 14 janvier 2022 précité, ont fait usage de faux noms, de fausses qualités ou de fausses adresses ou qui ont commis un autre acte frauduleux afin de faire croire à l'existence d'une personne fictive, une entreprise fictive ou un autre événement fictif, ou en vue de commettre d'une autre manière un abus de confiance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-01-14/24, art. 61, 028; En vigueur : 01-07-2023&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 39, 031; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFL 2024-04-19/46, art. 23, 033; En vigueur : 01-08-2024&gt;
+
+#### Art. 13/9
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>.
+
+Dans les conditions énoncées dans le présent décret et si les faits sont également passibles de poursuites pénales, une amende administrative de [<sup>2</sup> 150 à 1500 euros]<sup>2</sup> peut être infligée, pour les infractions suivantes [<sup>2</sup> au décret du 23 décembre 2022 relatif à la prime pour l'apprentissage qualifiant sur le lieu de travail destinée aux entreprises et à la prime pour les élèves en formation en alternance]<sup>2</sup>, aux :
+
+1° personnes qui ont[<sup>2</sup> ...]<sup>2</sup> fait des déclarations inexactes ou incomplètes pour obtenir ou faire obtenir, conserver ou faire conserver indûment la prime visée à l'article 5 du décret précité ;
+
+2° personnes qui ont[<sup>2</sup> ...]<sup>2</sup> omis ou refusé de faire les déclarations nécessaires ou de fournir les renseignements qu'elles sont tenues de fournir pour obtenir ou faire obtenir, conserver ou faire conserver indûment la prime visée à l'article 5 du décret précité ;
+
+3° personnes qui ont[<sup>2</sup> ...]<sup>2</sup> obtenu ou conservé indûment la prime visée à l'article 5 du décret précité à laquelle elles n'ont pas ou que partiellement droit en faisant des déclarations inexactes ou incomplètes ou en omettant ou en refusant de faire les déclarations nécessaires ou de fournir des renseignements ;
+
+4° personnes qui, dans le but d'obtenir ou de faire obtenir, de conserver ou de faire conserver indûment la prime visée à l'article 5 du décret précité, ont commis l'un des actes suivants :
+
+a) elles ont commis un faux en écritures de l'une des manières suivantes :
+
+1\) par fausses signatures ;
+
+2\) par contrefaçon ou altération d'écritures ou de signatures ;
+
+3\) par fabrication de conventions, dispositions, obligations ou décharges ou par leur insertion dans un acte ;
+
+4\) par addition ou altération de clauses, de déclarations ou de faits que l'acte avait pour objet de recevoir ou de constater ;
+
+b) elles ont fait usage d'un acte faux ou d'une pièce fausse tout en sachant que l'acte utilisé ou la pièce utilisée étaient faux ;
+
+5° personnes qui, dans le but d'obtenir ou de faire obtenir, de conserver ou de faire conserver indûment la prime visée à l'article 5 du décret précité, ont commis l'un des actes suivants :
+
+a) elles ont commis une fraude en introduisant dans un système informatique, en modifiant ou effaçant des données, qui sont stockées, traitées ou transmises par un système informatique, ou en modifiant par tout moyen technologique l'utilisation possible de données dans un système informatique, et par-là ont modifié la portée juridique des données ;
+
+b) elles ont fait usage de données dont elles savaient qu'elles étaient fausses ;
+
+6° personnes qui, dans le but d'obtenir ou de faire obtenir, de conserver ou de faire conserver indûment la prime visée à l'article 5 du décret précité, ont fait usage de faux noms, de fausses qualités ou de fausses adresses ou ont commis un autre acte frauduleux pour faire croire à l'existence d'une personne fictive, d'une entreprise fictive ou d'un événement fictif ou pour abuser d'une autre manière de la confiance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-12-23/15, art. 24, 027; En vigueur : 01-09-2023&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 40, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 13/10
+
+[<sup>1</sup> Dans les conditions énoncées dans le présent décret et si les faits sont également passibles de poursuites pénales, une amende administrative de 300 à 3000 euros peut être infligée à quiconque empêche le contrôle réglé en vertu du chapitre II du présent décret et de ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 41, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 14
+
+Si l'infraction est commise par le préposé ou mandataire, l'amende administrative n'est applicable qu'au centre de formation, à l'employeur ou, le cas échéant, à l'usager.
+
+[<sup>1</sup> La personne morale est solidairement responsable du paiement de l'amende administrative infligée à ses associés actifs ou mandataires en vertu des articles 13/4 et 13/5 du présent décret, si l'infraction est intrinsèquement liée à la réalisation de son objectif ou à la poursuite de ses intérêts, ou si l'infraction a été commise pour son compte.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-10-15/14, art. 33, 022; En vigueur : 01-01-2022&gt;
+
+#### Art. 15
+
+L'infraction [<sup>2</sup> à la réglementation visée aux articles 13 à 13/10 ]<sup>2</sup> fait l'objet d'une poursuite judiciaire ou d'une amende administrative aux conditions telles que définies à l'article 17.
+
+L'amende administrative est infligée par le fonctionnaire ou les fonctionnaires désignés par le Gouvernement flamand.
+
+[<sup>1</sup> Les fonctionnaires désignés par le Gouvernement flamand exercent leur compétence aux conditions assurant leur indépendance et impartialité.
+
+Ces fonctionnaires ne peuvent pas prendre de décisions dans des dossiers dans lesquels ils sont déjà intervenus dans une autre qualité ni avoir un quelconque intérêt dans des entreprises impliquées à la procédure.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/18, art. 13, 004; En vigueur : 01-10-2010&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 42, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 16
+
+Le ministère public décide de procéder ou non aux poursuites judiciaires.
+
+L'action publique exclut l'imposition d'une amende administrative.
+
+Toute décision sur l'action publique ou relative à une amende administrative du chef d'une infraction sera portée, à leur demande, à la connaissance des inspecteurs des lois sociales qui ont dressé procès-verbal. La communication de cette décision est faite à la diligence de l'administration flamande en fonction des documents et pièces dont elle dispose.
+
+#### Art. 17
+
+§ 1er. Le ministère public dispose d'un délai de [<sup>4</sup> six]<sup>4</sup> mois à compter du jour de la réception du procès-verbal pour informer le fonctionnaire désigné en vertu de l'article 15, alinéa 2, de sa décision d'entamer ou non des poursuites.
+
+[<sup>1</sup> Le ministère public peut prolonger ce délai d'au maximum [<sup>4</sup> six]<sup>4</sup> mois par décision motivée. Le ministère public en informe le fonctionnaire désigné, visé à l'article 15, alinéa, 2.]<sup>1</sup>
+
+§ 2. [<sup>4</sup> Si le ministère public renonce à la poursuite pénale ou n'informe pas le fonctionnaire désigné en vertu de l'article 15, alinéa 2, de sa décision dans le délai imposé, le fonctionnaire désigné décide si une amende administrative est imposée à l'occasion de l'infraction. La décision est prise après que le contrevenant a eu la faculté de présenter ses défenses.
+
+Le fonctionnaire désigné informe le contrevenant par lettre recommandée des faits qui sont mis à sa charge. Cette convocation contient les informations suivantes :
+
+1° le droit du contrevenant d'introduire ses défenses par écrit ou oralement dans les trente jours à partir du jour de la notification de la convocation ;
+
+2° la possibilité de se faire assister par un conseil ;
+
+3° la possibilité du contrevenant ou son conseil de consulter le dossier ou d'en obtenir une copie électronique dans le délai visé au point 1°.
+
+Si le contrevenant a omis de récupérer la lettre recommandée à la poste dans le délai imposé, l'administration compétente peut lui envoyer une deuxième invitation à présenter ses défenses, par lettre ordinaire, à titre d'information. Dans ce cas, le délai visé à l'alinéa 2, 1°, peut être prolongé une seule fois de 30 jours.
+
+Le fonctionnaire désigné dispose de [<sup>5</sup> douze]<sup>5</sup> mois pour imposer une amende administrative. Ce délai prend cours à partir de la notification de la décision, visée au paragraphe 1er, ou, à défaut de cette notification, à partir de la fin du délai visé au paragraphe 1er.]<sup>4</sup>
+
+§ 3. Si le fonctionnaire désigné décide d'infliger une amende administrative, sa décision mentionne, en respectant les dispositions de la loi du 29 juillet 1991 relative à la motivation formelle des actes administratifs, le montant, le texte du § 5 et le délai et le mode de paiement de l'amende administrative.
+
+En cas de circonstances atténuantes, le fonctionnaire désigné peut infliger une amende administrative inférieure aux montants minimum concernés, sans que l'amende puisse être inférieure à 40 % du montant minimum applicable.
+
+[<sup>3</sup> § 3/1. Sur demande du contrevenant, le fonctionnaire désigné peut accorder un sursis de paiement de l'amende administrative, pendant une période d'essai qui ne peut être inférieure à un an ni supérieure à trois ans.
+
+Le sursis est accordé dans la décision d'imposition de l'amende administrative.
+
+Le sursis est révoqué de plein droit lorsqu'une nouvelle infraction définie au présent chapitre est commise pendant la période d'essai et que cette nouvelle infraction donne lieu à une amende administrative ou une décision judiciaire déclarant la culpabilité, une décision administrative d'imposition d'une amende administrative ou une condamnation judiciaire.]<sup>3</sup>
+
+§ 4. La décision visée au § 3 est notifiée par lettre recommandée [<sup>4</sup> au contrevenant]<sup>4</sup>. La notification mentionne la façon de former recours contre la décision.
+
+L'envoi de la notification de la décision annule l'action publique du chef de la législation visée à l'article 2 du présent décret.
+
+Le paiement de l'amende administrative et des éventuels frais de poursuite met fin à l'action des autorités flamandes.
+
+§ 5. [<sup>4</sup> Le contrevenant]<sup>4</sup> qui conteste la décision du fonctionnaire compétent forme, sous peine de nullité, un recours auprès du tribunal du travail dans les deux mois de l'envoi de la notification de la décision, par voie de requête déposée conformément aux dispositions de l'article 704 du Code judiciaire. Ce recours suspend l'exécution de la décision.
+
+§ 6. En cas de recours formé contre la décision du fonctionnaire compétent, les tribunaux du travail peuvent, s'il y a des circonstances atténuantes, réduire le montant de l'amende administrative imposée à un montant inférieur aux montants minimum applicables, sans que l'amende puisse être inférieure à 40 % du montant minimum concerné.
+
+§ 7. Le Gouvernement flamand arrête le délai et les modalités du paiement de l'amende administrative.
+
+§ 8. Sans préjudice [<sup>6</sup> du décret du 19 avril 2024 réglementant le recouvrement des créances non fiscales]<sup>6</sup>, le Gouvernement flamand autorisera par arrêté les fonctionnaires de son administration à recouvrer les amendes administratives incontestées et exigibles visées au présent décret, ainsi que les éventuels frais de poursuite.
+
+Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, du présent décret communique sa décision ou la décision du tribunal du travail passée en force de chose jugée aux fonctionnaires autorisés.
+
+----------
+
+(1)&lt;DCFL 2010-07-09/18, art. 14, 004; En vigueur : 01-10-2010&gt;
+
+(2)&lt;DCFL 2015-04-24/05, art. 24, 011; En vigueur : 01-05-2015&gt;
+
+(3)&lt;DCFL 2017-07-07/19, art. 9, 015; En vigueur : 11-08-2017&gt;
+
+(4)&lt;DCFL 2019-03-29/28, art. 13, 020; En vigueur : 01-04-2019&gt;
+
+(5)&lt;DCFL 2023-10-27/21, art. 43, 031; En vigueur : 01-01-2024&gt;
+
+(6)&lt;DCFL 2024-04-19/44, art. 25, 032; En vigueur : 08-12-2024&gt;
+
+#### Art. 18
+
+[<sup>2</sup> Lorsqu'un même fait constitue plusieurs infractions, les montants des amendes administratives sont cumulés, sans toutefois dépasser le montant de 20.000 euros, ou le double du maximum de l'amende administrative la plus élevée si ce montant est plus élevé.
+
+Lorsqu'un même fait constitue plusieurs infractions ou lorsque différentes infractions qui sont soumises simultanément à l'administration compétente constituent la manifestation successive et continue de la même intention délictueuse, l'infraction administrative la plus forte sera seule prononcée.]<sup>2</sup>
+
+Lorsque le fonctionnaire désignés en vertu de l'article 15, alinéa 2, du présent décret constate que des infractions ayant antérieurement fait l'objet d'une décision définitive et d'autres faits dont il est saisi et qui, à les supposer établis, sont antérieurs à ladite décision et constituent avec les premières la manifestation successive et continue de la même intention délictueuse, il tient compte, pour la fixation de la peine, des peines déjà prononcées. Si celles-ci lui paraissent suffire à une juste répression de l'ensemble des infractions, il se prononce sur la culpabilité et renvoie dans sa décision aux peines déjà prononcées.
+
+----------
+
+(1)&lt;DCFL 2015-04-24/05, art. 25, 011; En vigueur : 01-05-2015&gt;
+
+(2)&lt;DCFL 2017-07-07/19, art. 10, 015; En vigueur : 11-08-2017&gt;
+
+#### Art. 18/1
+
+[<sup>1</sup> Aux mêmes conditions que celles prévues pour les amendes pénales, les amendes administratives sont multipliées par[<sup>2</sup> le nombre de travailleurs et d'utilisateurs concernés par l'infraction]<sup>2</sup>.
+
+L'amende multipliée ne peut toutefois pas dépasser le centuple de l'amende maximale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-04-24/05, art. 26, 011; En vigueur : 01-05-2015&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 44, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 18/2
+
+[<sup>1</sup> Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales s'appliquent également aux amendes administratives visées aux articles 13 à 13/10 du présent décret.
+
+Les fonctionnaires désignés visés à l'article 15, alinéa 2, du présent décret indiquent, dans la décision visée à l'article 17, § 2, alinéa 1er, la multiplication en vertu de l'article 1er, alinéa 1er, de la loi précitée ainsi que le montant résultant de cette majoration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 45, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 19
+
+[<sup>1</sup> En cas de récidive dans les cinq ans qui suivent une condamnation pénale ou une décision administrative d'infliger une amende administrative telle que visée aux articles 13 à 13/10, le montant de l'amende administrative peut être porté au double du maximum.
+
+En application de l'article 18, le montant ne peut pas excéder 40.000 euros ou le quadruple de l'amende administrative la plus élevée si ce montant est supérieur.
+
+Le délai de cinq ans visé à l'alinéa 1er commence à courir le jour où la décision administrative n'est plus susceptible de recours ou le jour où la décision judiciaire est passée en force de chose jugée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-10-27/21, art. 46, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 20
+
+§ 1er. Une amende administrative ne peut être imposée si dans [<sup>2</sup> deux ans]<sup>2</sup> de la date du procès-verbal, le centre de formation, l'employeur et, le cas échéant, l'usager n'ont pas eu la faculté de présenter leurs défenses au fonctionnaire désigné.
+
+L'action des autorités flamandes du chef de l'amende administrative est prescrite [<sup>1</sup> quatre ans]<sup>1</sup> du dernier fait qui constitue l'infraction visée par le présent décret.
+
+§ 2. Les actes d'instruction ou de poursuite, y compris les notifications du ministère public sur sa décision d'entamer ou non des poursuites pénales et la notification visée à l'article 17, § 2 au centre de formation, à l'employeur et, le cas échéant, à l'usager, leur donnant la faculté de présenter leurs défenses, effectués dans le délai fixé au § 1er, alinéa premier du présent article, interrompent le délai visé au § 1er, alinéa premier. Un nouveau délai de durée égale est entamé par ces actes, même à l'égard de personnes n'ayant pas fait l'objet de la notification ni associées aux actes d'instruction.
+
+----------
+
+(1)&lt;DCFL 2010-12-10/12, art. 32, 005; En vigueur : 01-01-2011&gt;
+
+(2)&lt;DCFL 2015-04-24/05, art. 28, 011; En vigueur : 01-05-2015&gt;
+
+### Section 2. - Autres amendes administratives.
+
+#### Art. 21
+
+[<sup>1</sup> [<sup>2</sup> Aux conditions définies dans la présente section, une amende administrative de [<sup>3</sup> 10 à 100 euros ]<sup>3</sup> peut être infligée pour les infractions suivantes au décret du 10 décembre 2010 relatif au placement privé, au bureau tel que visé à l'article 3, 3°, a) à d) inclus du présent décret, qui]<sup>2</sup> :
+
+1° effectue des services de placement tels que visés à l'article 3, 1°, b) et c), du décret du 10 décembre 2010 relatif au placement privé, pour des vacances qui ne couvrent pas d'offre d'emploi réelle;
+
+2° organise des épreuves pratiques productives dans le cadre d'une procédure de sélection, dont la durée dépasse le temps nécessaire pour examiner l'aptitude du postulant;
+
+3° ne remet pas de document aux personnes intéressées reprenant les droits et obligations du travailleur et de l'employeur ou omet de l''afficher in extenso dans les locaux accessibles au public;
+
+4° omet de faire mention dans sa communication externe du [<sup>3</sup> du numéro d'agrément ou du numéro d'enregistrement ]<sup>3</sup>, sous quelque forme que ce soit;
+
+5° ne mentionne pas la dénomination sous laquelle il est agréé;
+
+6° ne répond pas aux critères de qualité et d'expertise tels que visés à l'article 5, 17°, du décret du 10 décembre 2010 relatif au placement privé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-12-10/12, art. 33, 005; En vigueur : 01-01-2011&gt;
+
+(2)&lt;DCFL 2015-04-24/05, art. 29, 011; En vigueur : 01-05-2015&gt;
+
+(3)&lt;DCFL 2023-10-27/21, art. 47, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 21/1
+
+[<sup>1</sup> Aux conditions prévues par la présente section, une amende administrative de [<sup>2</sup> 10 à 100 euros]<sup>2</sup> peut être infligée au travailleur qui ne suit pas assidument la formation et qui prend plus d'heures de congé de formation que les heures auxquelles il a droit en vertu des articles 111 et 116 de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-10-12/10, art. 22, 019; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 48, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 21/2
+
+[<sup>1</sup> Aux conditions visées à la présente section, une amende administrative de [<sup>2</sup> 10 à 100 euros]<sup>2</sup> peut être imposée à chacun qui fournit des renseignements incorrects en vue de l'application d'une prime de transition pour entrepreneurs telle que visée au décret du 22 décembre 2017 portant une prime pour stimuler la transition de demandeurs d'emploi à l'entrepreneuriat et ses arrêtes d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-12-22/47, art. 8, 017; En vigueur : 15-03-2018&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 49, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 21/3
+
+[<sup>1</sup> Dans les conditions visées à la présente section, une amende administrative de [<sup>2</sup> 10 à 100 euros]<sup>2</sup> peut être infligée à toute personne qui fournit des informations inexactes ou incomplètes ou qui retient certaines informations en vue d'obtenir la prime visée à l'article 3 du décret du 20 mai 2022 réglant l'octroi d'un bonus emploi et à ses arrêtés d'exécution. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-05-20/08, art. 20, 024; En vigueur : 01-07-2022&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 50, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 21/4
+
+[<sup>1</sup> Dans les conditions visées à la présente section, une amende administrative de [<sup>2</sup> 10 à 100 euros]<sup>2</sup> peut être infligée à toute personne qui fournit des informations inexactes ou incomplètes ou qui retient certaines informations en vue d'obtenir le bonus emploi plus, visé au décret du 15 juillet 2022 réglant l'octroi d'un bonus emploi plus aux indépendants débutants et à ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-15/28, art. 21, 025; En vigueur : 01-12-2022&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 51, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 21/5.
+
+[<sup>1</sup> Dans les conditions énoncées à la présente section, pour les infractions suivantes à la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, une amende administrative de 10 à 100 euros peut être infligée à l'entreprise agréée de titres-services qui :
+
+1° n'a pas établi de convention écrite conformément à l'article 6, § 2, de la loi précitée ;
+
+2° n'a pas rempli l'obligation visée à l'article 2, § 2, alinéa 1er, l, de la loi précitée.
+
+L'amende administrative infligée en vertu de l'alinéa 1er est multipliée par le nombre d'utilisateurs avec lesquels aucune convention écrite, visée à l'alinéa 1er, 1°, n'a été établie et/ou par le nombre d'utilisateurs pour lesquels l'obligation visée à l'alinéa 1er, 2°, n'a pas été remplie. L'amende multipliée ne peut toutefois être supérieure au centuple de l'amende maximale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/46, art. 21, 033; En vigueur : 01-08-2024&gt;
+
+#### Art. 22
+
+L'article 14 du présent décret s'applique par analogie à l'amende administrative.
+
+#### Art. 23
+
+§ 1er. L'amende administrative est imposée par le fonctionnaire désigné en vertu de l'article 15, alinéa 2.
+
+§ 2. A l'exception de l'intervention du ministère public et des séquelles pour la compétence du fonctionnaire désigné, et des circonstances atténuantes qui ne peuvent être retenues, l'article 17 du présent décret s'applique par analogie.
+
+§ 3. [<sup>3</sup> Les articles 18 et 18/2 s'appliquent]<sup>3</sup> par analogie à la fixation du montant de l'amende administrative.
+
+§ 4.[<sup>3</sup> Si la même infraction est constatée dans les cinq ans qui suivent l'imposition d'une amende administrative en vertu des articles 21 à 21/4, le montant de l'amende administrative peut être porté au double du maximum.
+
+Le délai de cinq ans visé à l'alinéa 1er commence à courir le jour où la décision administrative n'est plus susceptible de recours.]<sup>3</sup>.
+
+§ 5. La décision visée au § 2 ne peut plus être prise après un an à compter de la date où le fait qualifié d'infraction au sens de l'article 21 a été commis
+
+§ 6. Les actes d'instruction ou de poursuite, y compris la notification visée à l'article 17, § 2, à l'employeur et, le cas échéant, à l'usager, leur donnant la faculté de présenter leurs défenses, effectués dans le délai fixé au § 5, interrompent ledit délai. Un nouveau délai de durée égale est entamé par ces actes, même à l'égard de personnes n'ayant pas fait l'objet de la notification ni associées aux actes d'instruction.
+
+----------
+
+(1)&lt;DCFL 2015-04-24/05, art. 31, 011; En vigueur : 01-05-2015&gt;
+
+(2)&lt;DCFL 2017-07-07/19, art. 12, 015; En vigueur : 11-08-2017&gt;
+
+(3)&lt;DCFL 2023-10-27/21, art. 52, 031; En vigueur : 01-01-2024&gt;
+
+### Section 3. [<sup>1</sup> Dispositions particulières relatives à l'exécution transfrontalière des amendes administratives]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 53, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 23/1
+
+[<sup>1</sup>La présente section transpose partiellement le chapitre VI de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 relative à l'exécution de la directive 96/71/CE concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services et modifiant le règlement (UE) n° 1024/2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur (" règlement IMI ").]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 54, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 23/2
+
+[<sup>1</sup>§ 1er. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, peut, conformément aux dispositions du chapitre VI de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 précitée, introduire auprès de l'autorité compétente d'un autre Etat membre de l'UE une demande de notification d'une décision infligeant une amende administrative. Il doit s'agir en l'occurrence d'une amende administrative :
+
+1° infligée par le fonctionnaire désigné conformément aux dispositions du présent décret ou, le cas échéant, confirmée par les juridictions du travail ;
+
+2° que le fonctionnaire désigné ne peut pas porter à la connaissance du prestataire de services établi dans un autre Etat membre de l'UE conformément à l'article 17, § 4, du présent décret.
+
+§ 2. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, n'introduit pas de demande de notification d'une décision infligeant une amende administrative si et tant que la décision infligeant une amende administrative est contestée ou attaquée en Belgique.
+
+§ 3. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, soumet la demande de notification via le système IMI au moyen d'un instrument uniforme et y indique au moins les données suivantes :
+
+1° le nom et l'adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l'identification de celui-ci ;
+
+2° une synthèse des faits et circonstances de l'infraction, la nature de celle-ci et la réglementation applicable ;
+
+3° l'instrument permettant l'exécution en Belgique et tout autre renseignement ou document pertinent, y compris de nature juridique, concernant la plainte correspondante et l'amende administrative ;
+
+4° le nom, l'adresse et les coordonnées du fonctionnaire désigné ;
+
+5° l'objet de la notification et le délai dans lequel celle-ci doit avoir lieu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 55, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 23/3
+
+[<sup>1</sup> § 1er. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, peut, conformément aux dispositions du chapitre VI de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 précitée, introduire auprès de l'autorité compétente d'un autre Etat membre de l'UE une demande d'exécution d'une décision infligeant une amende administrative. Il doit s'agir en l'occurrence d'une amende administrative :
+
+1° infligée par le fonctionnaire désigné conformément aux dispositions du présent décret ou, le cas échéant, confirmée par les juridictions du travail ;
+
+2° qui n'est plus susceptible de recours ;
+
+3° que le fonctionnaire désigné en vertu de l'article 17, § 8, alinéa 1er, du présent décret ne peut pas recouvrer auprès du prestataire de services établi dans un autre Etat membre de l'UE.
+
+§ 2. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, n'introduit pas de demande d'exécution d'une décision infligeant une amende administrative si et tant que la décision infligeant une amende administrative ainsi que la plainte correspondante ou l'instrument permettant l'exécution en Belgique peuvent être contestés ou attaqués en Belgique.
+
+§ 3. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, soumet la demande d'exécution via le système IMI au moyen d'un instrument uniforme et y indique au moins les données suivantes :
+
+1° le nom et l'adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l'identification de celui-ci ;
+
+2° une synthèse des faits et circonstances de l'infraction, la nature de celle-ci et la réglementation applicable ;
+
+3° l'instrument permettant l'exécution en Belgique et tout autre renseignement ou document pertinent, y compris de nature juridique, concernant la plainte correspondante et l'amende administrative ;
+
+4° le nom, l'adresse et les coordonnées du fonctionnaire désigné ;
+
+5° la date à laquelle le jugement ou l'arrêt ou la décision sont devenus exécutoires ou définitifs ;
+
+6° une description de la nature et le montant de l'amende administrative ;
+
+7° toutes les données pertinentes pour le processus de maintien, y compris le fait que le jugement ou l'arrêt ou la décision ont été signifiés au(x) défendeur(s) et/ou ont été rendus par défaut, et la confirmation, par le fonctionnaire désigné, que l'amende n'est plus susceptible de recours, ainsi que la plainte correspondante au titre de laquelle la demande est introduite et les éléments qui la composent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 56, 031; En vigueur : 01-01-2024&gt;
+
+### Section 4. [<sup>1</sup> Dispositions particulières relatives à l'exécution transfrontalière de sanctions ou d'amendes administratives pécuniaires infligées par un autre Etat membre de l'UE à un prestataire de services établi en Région flamande]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 57, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 23/4
+
+[<sup>1</sup>La présente section transpose partiellement le chapitre VI de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 relative à l'exécution de la directive 96/71/CE concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services et modifiant le règlement (UE) n° 1024/2012 concernant la coopération administrative par l'intermédiaire du système d'information du marché intérieur (" règlement IMI ").]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 58, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 23/5
+
+[<sup>1</sup>§ 1er. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, prend connaissance, conformément aux dispositions du chapitre VI de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 précitée, de toute demande émanant d'une autorité compétente d'un autre Etat membre de l'UE de notification d'une décision infligeant une sanction et/ou une amende administrative pécuniaire infligée à un prestataire de services établi en Région flamande du chef de non-respect des règles applicables en matière de détachement de travailleurs dans l'Etat membre concerné. Il doit s'agir en l'occurrence d'une sanction ou d'une amende administrative pécuniaire :
+
+1° infligée conformément aux lois et procédures de l'Etat membre requérant par une autorité compétente ou confirmée par une instance administrative ou judiciaire ou, le cas échéant, par les juridictions du travail ;
+
+2° que l'autorité requérante d'un autre Etat membre de l'UE ne peut pas porter à la connaissance du prestataire de services établi en Région flamande conformément à la législation, à la réglementation et aux pratiques administratives en vigueur dans cet Etat membre de l'UE.
+
+§ 2. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2 vérifie si :
+
+1° la demande reçue via le système IMI est accompagnée des documents pertinents, y compris, le cas échéant, le jugement ou l'arrêt ou la décision irrévocable, éventuellement sous forme d'une copie certifiée ;
+
+2° cette sanction ou amende administrative pécuniaire relève du champ d'application de la directive précitée ;
+
+3° la demande est complète, correspond à la décision sous-jacente et contient les informations visées à l'article 16, paragraphes 1er et 2, de la directive précitée, à savoir :
+
+a) le nom et l'adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l'identification de celui-ci ;
+
+b) une synthèse des faits et circonstances de l'infraction, la nature de celle-ci et la réglementation applicable ;
+
+c) l'instrument permettant l'exécution dans l'Etat membre requérant et tout autre renseignement ou document pertinent, y compris de nature juridique, concernant la plainte correspondante et la sanction ou l'amende administrative pécuniaire ;
+
+d) le nom, l'adresse et les coordonnées de l'autorité compétente chargée de l'évaluation de la sanction ou de l'amende administrative pécuniaire et de l'organisme compétent auprès duquel des informations complémentaires peuvent être obtenues concernant la sanction ou l'amende administrative pécuniaire ou les possibilités de contestation de l'obligation de paiement ou de la décision qui inflige celle-ci ;
+
+e) l'objet de la notification et le délai dans lequel celle-ci doit avoir lieu.
+
+§ 3. Si les conditions énoncées dans le paragraphe 2 sont remplies, le fonctionnaire désigné en vertu de l'article 15, alinéa 2, procède, dans le mois de la réception de la demande, à la notification de la décision ainsi que des documents concernés au prestataire de services établi en Région flamande. Cette notification se fait par lettre recommandée.
+
+La notification visée à l'alinéa 1er a force exécutoire et est réputée produire les mêmes effets que si elle était le fait de l'Etat membre requérant.
+
+§ 4. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, peut refuser de donner suite à la demande de notification si :
+
+1° la demande ne contient pas les données visées au § 2, 3°, a) à e) ;
+
+2° la demande est incomplète ;
+
+3° la demande ne correspond manifestement pas à la décision sous-jacente.
+
+§ 5. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, informe l'autorité requérante de l'autre Etat membre de l'UE :
+
+1° de la suite donnée à sa demande de notification et de la date de la notification au destinataire ;
+
+2° des motifs de refus s'il refuse de procéder à la notification conformément au paragraphe 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 59, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 23/6
+
+[<sup>1</sup>§ 1er. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, prend connaissance, conformément aux dispositions du chapitre VI de la directive 2014/67/UE du Parlement européen et du Conseil du 15 mai 2014 précitée, de toute demande émanant d'une autorité compétente d'un autre Etat membre de l'UE de recouvrement d'une sanction ou d'une amende administrative pécuniaire infligée à un prestataire de services établi en Région flamande du chef de non-respect des règles applicables en matière de détachement de travailleurs dans l'Etat membre concerné. Il doit s'agir en l'occurrence d'une sanction ou d'une amende administrative pécuniaire :
+
+1° infligée conformément aux lois et procédures de l'Etat membre requérant par une autorité compétente ou confirmée par une instance administrative ou judiciaire ou, le cas échéant, par les juridictions du travail ;
+
+2° qui n'est plus susceptible de recours ;
+
+3° que l'autorité requérante d'un autre Etat membre de l'UE ne peut pas exécuter auprès du prestataire de services établi en Région flamande conformément à la législation, à la réglementation et aux pratiques administratives en vigueur dans cet Etat membre de l'UE.
+
+§ 2. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2 vérifie si :
+
+1° la demande reçue via le système IMI est accompagnée des documents pertinents concernant le recouvrement de cette sanction ou amende administrative pécuniaire, y compris, le cas échéant, le jugement ou l'arrêt ou la décision définitive, éventuellement sous forme d'une copie certifiée, constituant la base juridique et le titre exécutoire pour la demande de recouvrement ;
+
+2° la sanction ou l'amende pécuniaire à recouvrer relève du champ d'application de la directive précitée ;
+
+3° la demande est complète, correspond à la décision sous-jacente et contient les informations visées à l'article 16, paragraphes 1er et 2, de la directive précitée, à savoir :
+
+a) le nom et l'adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l'identification de celui-ci ;
+
+b) une synthèse des faits et circonstances de l'infraction, la nature de celle-ci et la réglementation applicable ;
+
+c) l'instrument permettant l'exécution dans l'Etat membre requérant et tout autre renseignement ou document pertinent, y compris de nature juridique, concernant la plainte correspondante et la sanction ou l'amende administrative pécuniaire ;
+
+d) le nom, l'adresse et les coordonnées de l'autorité compétente chargée de l'évaluation de la sanction ou de l'amende administrative et de l'organisme compétent auprès duquel des informations complémentaires peuvent être obtenues concernant la sanction ou l'amende administrative pécuniaire ou les possibilités de contestation de l'obligation de paiement ou de la décision qui inflige celle-ci ;
+
+e) la date à laquelle le jugement ou l'arrêt ou la décision sont devenus exécutoires ou définitifs ;
+
+f) une description de la nature et le montant de la sanction ou de l'amende administrative pécuniaire ;
+
+g) toutes les données pertinentes pour le processus de maintien, y compris le fait que le jugement ou l'arrêt ou la décision ont été signifiés au(x) défendeur(s) et/ou ont été rendus par défaut, et la confirmation, par l'autorité requérante, que la sanction et/ou l'amende administrative pécuniaire n'est plus susceptible de recours, ainsi que la plainte correspondante au titre de laquelle la demande est introduite et les éléments qui la composent ;
+
+4° la sanction ou l'amende administrative pécuniaire à recouvrer est d'au moins 350 euros ou l'équivalent de ce montant.
+
+§ 3. Si les conditions énoncées dans le paragraphe 2 sont remplies, le fonctionnaire désigné en vertu de l'article 17, § 8, alinéa 1er, procède au recouvrement de la sanction ou de l'amende administrative pécuniaire.
+
+§ 4. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, notifie la demande de recouvrement d'une sanction ou d'une amende administrative pécuniaire ainsi que les documents concernés au prestataire de services établi en Région flamande dans le mois de la réception de la demande à cet effet émanant d'une autorité compétente de l'autre Etat membre de l'UE.
+
+§ 5. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, peut refuser de donner suite à la demande de recouvrement si :
+
+1° la demande ne contient pas les données visées au § 2, 3°, a) à g) ;
+
+2° la demande est incomplète ;
+
+3° la demande ne correspond manifestement pas à la décision sous-jacente ;
+
+4° la sanction ou l'amende administrative pécuniaire à recouvrer est inférieure à 350 euros ou à l'équivalent de ce montant ;
+
+5° à la suite d'une enquête, il est manifeste que les sommes ou les ressources à mobiliser en vue de recouvrer l'amende sont disproportionnées par rapport au montant à recouvrer ou qu'il faudrait faire face à des difficultés considérables ;
+
+6° les droits et libertés fondamentaux de la défense inscrits dans la Constitution belge et les principes juridiques qui s'y appliquent n'ont pas été respectés.
+
+§ 6. Le fonctionnaire désigné en vertu de l'article 15, alinéa 2, informe l'autorité requérante de l'autre Etat membre de l'UE :
+
+1° de la suite donnée à sa demande de notification et de la date de la notification au destinataire ;
+
+2° des motifs de refus s'il refuse d'exécuter une demande de recouvrement conformément au paragraphe 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 60, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 23/7
+
+[<sup>1</sup> Si, au cours des procédures visées aux articles 23/5 et 23/6, le prestataire de services concerné ou une partie intéressée conteste ou introduit un recours à l'encontre de la sanction ou de l'amende administrative ou de la plainte correspondante, ces procédures sont suspendues dans l'attente de la décision de l'instance ou de l'autorité compétente de l'Etat membre requérant. Les contestations ou recours sont portés devant l'instance ou l'autorité compétente de l'Etat membre requérant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 61, 031; En vigueur : indéterminée &gt;
+
+#### Art. 23/8
+
+[<sup>1</sup>§ 1er. Les montants recouvrés dans le cadre de la procédure visée à l'article 23/6 reviennent à la Région flamande.
+
+Le fonctionnaire désigné en vertu de l'article 17, § 8, alinéa 1er, recouvre les montants dus en euros.
+
+Au besoin, le fonctionnaire désigné en vertu de l'article 15, alinéa 2, convertit la sanction ou l'amende administrative pécuniaire en euros au taux de change applicable à la date à laquelle la sanction ou l'amende administrative pécuniaire a été infligée.
+
+§ 2. A l'égard de l'Etat membre de l'UE qui a introduit la demande de notification d'une décision infligeant une sanction ou une amende administrative pécuniaire ou la demande d'exécution d'une décision infligeant une sanction ou une amende administrative pécuniaire, il est renoncé au remboursement des coûts résultant des procédures visées aux articles 23/5 et 23/6.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 62, 031; En vigueur : indéterminée &gt;
+
+## CHAPITRE IV. - Dispositions pénales.
+
+#### Art. 24
+
+Sans préjudice des dispositions pénales des articles 269 à 274 du Code pénal :
+
+1° sont punis [<sup>2</sup> ou de l'une de ces deux peines seulement]<sup>2</sup> d'une amende de [<sup>2</sup> 100 à 1000 euros]<sup>2</sup> ou de l'une de ces peines seulement, le centre de formation, l'employeur et, le cas échéant, l'usager, ses préposés ou mandataires qui ne donnent aucune suite à l'ordre d'apposition et/ou de remise de documents dont l'existence est certaine en vertu de la législation existante, tel que visé à l'article 7, 3°, du présent décret, dans le délai fixé par les inspecteurs des lois sociales;
+
+2° [<sup>2</sup> sont punis d'une amende de 100 à 1000 euros, le centre de formation, l'employeur et, le cas échéant, l'utilisateur, ses préposés ou mandataires qui ne respectent pas, dans le délai fixé par les inspecteurs des lois sociales, l'ordre donné par ceux-ci d'établir ou de délivrer tout document remplaçant ceux visés dans les réglementations relevant de la compétence des inspecteurs des lois sociales, au sens de l'article 7, 4°, du présent décret ;]<sup>2</sup>;
+
+3° sont punis d'un emprisonnement de [<sup>2</sup> six mois à trois ans]<sup>2</sup> et d'une amende de 1.000 à 5.000 euros ou de l'une de ces peines seulement, tous ceux qui empêchent le contrôle réglée par le chapitre II du présent décret et de ses arrêtés d'exécution.
+
+[<sup>2</sup> 4° sont punies d'une amende de 100 à 1000 euros, les personnes qui ne s'en tiennent pas à la décision du président du tribunal du travail visée à l'article 7/5 du présent décret. ]<sup>2</sup>
+
+[<sup>1</sup> Les dispositions pénales, visées à l'alinéa premier, point 3°, ne s'appliquent pas aux infractions de l'article 7, 2°, c/1er).]<sup>1</sup>
+
+[<sup>2</sup> En cas récidive dans les cinq ans, la peine visée à l'alinéa 1er, 1° à 4°, peut être portée au double du maximum.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/18, art. 15, 004; En vigueur : 01-10-2010&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 63, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 25
+
+Les centres de formation, les employeurs ou les usagers sont civilement responsables du paiement des amendes auxquelles leurs préposés ou mandataires ont été condamnés.
+
+#### Art. 26
+
+En cas de récidive d'une infraction visée à l'article 24, l'article 85 du Code pénal n'est pas applicable.
+
+## Chapitre IV/1. [<sup>1</sup> Exclusion du droit à subvention]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 64, 031; En vigueur : 01-01-2024&gt;
+
+#### Art. 26/1
+
+[<sup>1</sup> Le Gouvernement flamand peut exclure du droit à subvention, pendant une période maximale de douze mois, les personnes suivantes :
+
+1° la personne qui a encouru une condamnation pénale passée en force de chose jugée du chef d'une infraction passible, en vertu du présent décret ou de la réglementation visée à l'article 2, alinéa 1er, du présent décret, d'une amende pénale de 300 à 3000 euros ou d'une amende pénale de 600 à 6000 euros ;
+
+2° la personne qui a fait l'objet, en vertu du présent décret, d'une décision administrative qui n'est plus susceptible de recours du chef d'une infraction passible, en vertu du présent décret, d'une amende administrative de 150 à 1500 euros ou d'une amende administrative de 300 à 3000 euros ;
+
+3° la personne qui a encouru une condamnation pénale passée en force de chose jugée ou fait l'objet d'une décision administrative du chef d'une infraction à la législation sociale passible d'une sanction de niveau 4 telle que visée à l'article 101 du Code pénal social.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 65, 031; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE V. - Dispositions modificatives.
+
+#### Art. 27
+
+La loi du 1er juillet portant instauration de l'octroi d'une indemnité de promotion sociale, modifiée par la loi du 22 décembre 1989 et par le décret du 8 mai 2002, est complétée comme suit :
+
+Règlement complémentaire pour la Communauté flamande
+
+" Article 7
+
+La surveillance et le contrôle de l'exécution de la présente loi et ses arrêtés d'exécution s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+#### Art. 28
+
+Au décret du 19 juillet 1973 réglant l'emploi des langues en matière de relations sociales entre employeurs et travailleurs, ainsi qu'en matière d'actes et de documents d'entreprise prescrits par la loi et les règlements, modifié par le décret du 1er juin 1994, sont apportées les modifications suivantes :
+
+1° L'article 6 est remplacé par ce qui suit :
+
+" Article 6
+
+La surveillance et le contrôle de l'exécution du présent décret et de ses arrêtés d'exécution s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales. ";
+
+2° Les articles 7 à 9 du même décret sont abrogés;
+
+3° L'article 11 du même décret est remplacé par la disposition suivante :
+
+" Article 11
+
+L'amende administrative infligée du chef d'infractions au présent décret est imposée conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+#### Art. 29
+
+L'arrêté royal n° 25 du 24 mars 1982 créant un programme de promotion de l'emploi dans le secteur non-marchand est complété d'un règlement complémentaire rédigé comme suit :
+
+" Règlement complémentaire pour la Région flamande
+
+" Article 27
+
+La surveillance et le contrôle du respect, par les employeurs, des conditions et des tâches définies dans la demande approuvée pour la mise au travail des travailleurs s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+#### Art. 30
+
+Au décret du 14 juillet 1998 relatif aux ateliers sociaux sont apportées les modifications suivantes :
+
+1° L'article 15 est remplacé par ce qui suit :
+
+" Article 15
+
+La surveillance et le contrôle de l'exécution du présent décret et de ses arrêtés d'exécution s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales. ";
+
+2° L'article 17 est remplacé par ce qui suit :
+
+" Article 17
+
+Lorsque procès-verbal est dressé en raison d'une infraction au présent décret ou ses arrêtés d'exécution, une copie du procès-verbal est transmis, sans préjudice de la notification prévue par l'article 6, § 2, du décret relatif au contrôle des lois sociales, au Ministre flamand, qui peut retirer ou suspendre l'agrément des structures concernées conformément à l'article 18 du présent décret. "
+
+#### Art. 31
+
+§ 1er. Dans le décret du 13 avril 1999 relatif au placement privé en Région flamande, l'article 18 est remplacé par ce qui suit :
+
+" Article 18
+
+La surveillance et le contrôle de l'exécution du présent décret et de ses arrêtés d'exécution s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+§ 2. A l'article 19 du même décret, le 4° est supprimé.
+
+§ 3. A l'article 19 du même décret sont ajoutés un 4° et 5° nouveaux, rédigés comme suit :
+
+" 4° toute personne exerçant des activités qui mènent à l'attribution d'emplois tels que visés à l'article 5, 5°; "
+
+" 5° toute personne qui enfreint le code déontologique visé à l'article 5, 17°; ".
+
+§ 4. L'article 23 du même décret est abrogé.
+
+§ 5. L'article 24 est remplacé par ce qui suit :
+
+" Article 24
+
+L'amende administrative infligée du chef d'infractions au présent décret est imposée conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+#### Art. 32
+
+L'article 11 du décret du 18 mai 1999 portant création d'un Fonds de réinsertion est remplacé par la disposition suivante :
+
+" Article 11
+
+La surveillance et le contrôle s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+#### Art. 33
+
+§ 1er. L'article 10 du décret du 8 mai 2002 relatif à la participation proportionnelle sur le marché de l'emploi est remplacé par ce qui suit :
+
+" Article 10
+
+La surveillance et le contrôle s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+§ 2. L'article 17 du même décret est remplacé par la disposition suivante :
+
+" Article 17
+
+L'amende administrative infligée du chef d'infractions au présent décret est imposée conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+#### Art. 34
+
+L'article 37 de l'arrêté du 21 décembre 1988 portant organisation de l'emploi et de la formation professionnelle est remplacé par la disposition suivante :
+
+" Article 37
+
+La surveillance et le contrôle des dispositions du chapitre II du présent arrêté s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales. "
+
+## CHAPITRE VI. - Dispositions transitoires et finales.
+
+#### Art. 35
+
+Au plus tard le 30 mars suivant l'année auquel il se rapporte, le Gouvernement flamand fait rapport au Parlement flamand sur l'application du présent décret.
+
+Ce rapport sera transmis en outre au Conseil socio-économique de la Flandre pour y être discuté.
+
+Le Fonds détermine la forme et le contenu de ce rapport.
+
+#### Art. 36
+
+L'article 1er, 18° et, dans la mesure où il s'applique aux compétences régionales flamandes, l'article 1er, 32°, de la loi du 30 juin 1971 relative aux amendes administratives applicables en cas d'infraction à certaines lois sociales est abrogé en ce qui concerne la Région flamande et la Communauté flamande.
+
+#### Art. 37
+
+L'arrêté du Gouvernement flamand du 16 janvier 1985 relatif au contrôle sur l'octroi et le retrait des autorisations d'occupation et des permis de travail pour les travailleurs de nationalité étrangère est abrogé.
+
+#### Art. 38
+
+Le présent décret peut être cité comme le " décret relatif au contrôle des lois sociales ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 30 avril 2004.
+
+Le Ministre-Président du Gouvernement flamand,
+
+B. SOMERS
+
+Le Ministre flamand de l'Emploi et du Tourisme,
+
+R. LANDUYT.

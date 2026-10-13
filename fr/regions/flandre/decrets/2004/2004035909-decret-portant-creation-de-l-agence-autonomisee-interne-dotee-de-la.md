@@ -1,0 +1,979 @@
+---
+title: "Décret portant création de l'agence autonomisée interne dotée de la personnalité juridique \" Vlaams Agentschap voor Personen met een Handicap \" (Agence flamande pour les Personnes handicapées) (TRADUCTION)."
+identifier: "2004035909"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035909/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-05-07
+published: 2004-06-11
+entry_into_force: 2006-04-01
+last_amended: 2026-01-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035909/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 11-06-2004 et mise à jour au 14-01-2026"
+retrieved: 2026-10-12
+---
+
+# 7 MAI 2004. - Décret portant création de l'agence autonomisée interne dotée de la personnalité juridique " Vlaams Agentschap voor Personen met een Handicap " (Agence flamande pour les Personnes handicapées) (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret portant création de l'agence autonomisée interne dotée de la personnalité juridique " Vlaams Agentschap voor Personen met een Handicap " (Agence flamande pour les Personnes handicapées).
+
+## CHAPITRE Ier. - Dispositions générales.
+
+#### Art. 1
+
+Le présent décret règle une matière communautaire.
+
+#### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° [<sup>2</sup> Décret de gouvernance : le Décret de gouvernance du 7 décembre 2018]<sup>2</sup>;
+
+2° handicap : tout problème important et de longue durée de participation d'une personne dû à l'interférence entre des troubles de fonctionnement de nature mentale, psychique ou sensorielle, à des limitations dans l'exécution d'activités et à des facteurs personnels et externes;
+
+3° soutien : toute aide matérielle ou immatérielle et toute forme d'aide et de services à des personnes handicapées [<sup>1</sup> ou à des personnes présumées être handicapées]<sup>1</sup>, effectuées dans le cadre du présent décret, en vue de leur intégration sociale;
+
+4° structure : toute forme d'organisation qui organise et/ou offre le soutien;
+
+5° indication : l'évaluation multidisciplinaire servant à déterminer qui peut être qualifié de personne handicapée et quel genre et degré de soutien sont nécessaires pour permettre l'intégration sociale;
+
+6° affectation : la décision de l'agence qui détermine quel soutien elle prendra à charge.
+
+[<sup>3</sup> 7° organisation d'assistance : une organisation telle que visée à l'article 14 du décret du 25 avril 2014 qui aide les titulaires de budget dans le cadre de l'affectation du budget de trésorerie, de l'utilisation du voucher et de l'organisation des soins et du soutien ;
+
+8° clarification de la demande : un processus visant à identifier les formes de soutien les plus adaptées et les plus nécessaires à la personne handicapée, en mettant l'accent sur les besoins et les souhaits de la personne handicapée ;
+
+9° décret du 25 avril 2014 : le décret du 25 avril 2014 portant le financement qui suit la personne pour des personnes handicapées et portant réforme du mode de financement des soins et du soutien pour des personnes handicapées ;
+
+10° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la Directive 95/46/CE (règlement général sur la protection des données).]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 21, 011; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. 1, 017; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2025-12-19/84, art. 2, 020; En vigueur : 24-01-2026&gt;
+
+## CHAPITRE II. - Création.
+
+#### Art. 3
+
+Il est créé une agence autonomisée interne dotée de la personnalité juridique, telle que visée à [<sup>1</sup> l'article III.4 du Décret de gouvernance]<sup>1</sup>.
+
+Cette agence porte le nom " Vlaams Agentschap voor Personen met een Handicap ", dénommée ci-après l'agence.
+
+Le Gouvernement flamand détermine le domaine politique homogène dont l'agence fait partie.
+
+Le Gouvernement flamand détermine le lieu d'établissement de l'agence.
+
+Les dispositions du [<sup>1</sup> Décret de gouvernance ]<sup>1</sup> s'appliquent à l'agence.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.103, 017; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE III. - Mission et tâches.
+
+#### Art. 4
+
+§ 1er. L'agence a pour mission de promouvoir l'intégration sociale et la participation à la société de personnes handicapées, en leur accordant un soutien, ce qui leur permet d'optimiser leur autonomie et leur qualité de vie.
+
+Lors de l'accomplissement de sa tâche, l'agence prend comme point de départ le droit d'autodétermination, la liberté de choix, les possibilités et l'expertise du vécu de la personne handicapée, ainsi que son entourage.
+
+L'agence stimule l'intégration et la participation sociale de personnes handicapées et participe à la mise en oeuvre de la politique inclusive en faveur du groupe cible.
+
+[<sup>1</sup> § 1er/1. Lors de la réalisation de sa mission, l'agence vise à socialiser les soins en assurant que les personnes handicapées puissent occuper leur propre place sensée dans la société et en les soutenant au besoin lors de l'exercice de leur liberté de choix.]<sup>1</sup>
+
+§ 2. Dans leur action, l'agence [<sup>1</sup> , les organisations qui participent à la réalisation de la mission et des tâches de l'agence]<sup>1</sup> et les structures agréées pilotées respectent la conviction idéologique, philosophique et religieuse des personnes auxquelles elles s'adressent.
+
+[<sup>1</sup> L'agence participe à l'exécution de la Convention de l'ONU sur les droits de personnes handicapées, adoptée à New York le 13 décembre 2006, et respecte à tout moment les droits de personnes handicapées qui y sont concrétisés.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 22, 011; En vigueur : 01-01-2015&gt;
+
+#### Art. 5
+
+Les tâches essentielles de l'agence comprennent :
+
+1° l'organisation du soutien [<sup>1</sup> à l'exclusion du placement familial tel que visé à l'article 2, 11°, du décret du 29 juin 2012 portant organisation du placement familial]<sup>1</sup> des personnes handicapées [<sup>3</sup> , de personnes présumées être handicapées]<sup>3</sup> et de l'entourage où elles séjournent;
+
+2° la spécification des critères, en vue de la délimitation du groupe cible de personnes handicapées, l'organisation de l'indication et de l'affectation, [<sup>2</sup> à l'exception de l'indication et de la régie de l'aide à la jeunesse de soutien qui relèvent du champ d'application du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse]<sup>2</sup>.
+
+[<sup>3</sup> 3° l'orientation de personnes handicapées majeures vers des soins et du soutien non directement accessibles, lors de laquelle l'abîme entre le soutien pouvant être offert par les soins autonomes, les soins de proximité, le réseau social et les soins réguliers d'une part et le besoin de soutien de la personne handicapée d'autre part, joue un rôle déterminant.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2012-06-29/13, art. 34, 006; En vigueur : indéterminée et au plus tard le 01-01-2014&gt;
+
+(2)&lt;DCFL 2013-07-12/43, art. 80, 008; En vigueur : 01-03-2014&gt;
+
+(3)&lt;DCFL 2014-04-25/J0, art. 23, 011; En vigueur : 01-01-2015&gt;
+
+#### Art. 6
+
+Les tâches, visées à l'article 5, comprennent en tout cas :
+
+1° la programmation au niveau opérationnel, l'autorisation, l'agrément, le subventionnement de structures et l'imposition de sanctions administratives à des structures chargées du soutien des personnes handicapées (y compris le financement additionnel de projets d'infrastructure par des subventions de capital à charge de la répartition du bénéfice de la Loterie nationale octroyé à l'agence); [<sup>2</sup> La répartition du bénéfice de la Loterie Nationale accordée à l'agence peut également être affectée à d'autres fins que le financement complémentaire de projets d'infrastructure;]<sup>2</sup> &lt;DCFL 2007-12-21/35, art. 61, 004; En vigueur : 01-01-2007&gt;
+
+2° l'organisation du soutien personnel, matériel et financier direct et axé sur l'individu, en faveur de personnes handicapées, et le financement de ces formes de soutien;
+
+3° la promotion de la qualité du soutien aux personnes handicapées;
+
+4° la stimulation d'initiatives pour la promotion de l'intégration sociale des personnes handicapées;
+
+5° la fourniture d'informations et la sensibilisation pour ce qui est de tout ce qui se rapporte aux handicaps et à l'intégration sociale des personnes handicapées;
+
+6° l'opérationnalisation des critères pour la délimitation du groupe cible de personnes handicapées;
+
+7° l'organisation et le traitement des demandes de soutien.
+
+[<sup>1</sup> 8° l'organisation du processus de la régie des soins et du soutien axé sur des personnes ayant plus de seize ans, en ce qui concerne les soins et le soutien non directement accessibles pour des personnes handicapées majeures, en priorisant l'octroi de budgets pour le financement des soins et du soutien non directement accessibles, en tenant compte de l'abîme entre le soutien offert par les soins autonomes, les soins de proximité, le réseau social et les soins réguliers d'une part, et le besoin de soutien de la personne handicapée d'autre part ;
+
+9° l'optimisation des soins et du soutien par des offreurs de soins et de soutien en promouvant et organisant le partage des connaissances ;
+
+10° l'octroi d'autorisations à des offreurs de soins et de soutien ;
+
+11° la décision s'il existe un besoin de soins et de soutien clairement constaté chez une personne handicapée majeure.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 24, 011; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 93, 012; En vigueur : 01-01-2016&gt;
+
+#### Art. 7
+
+Dans le cadre des missions et tâches de l'agence, le Gouvernement flamand peut attribuer des tâches spécifiques à l'agence [<sup>2</sup> , en collaboration avec d'autres organisations ou non]<sup>2</sup>.
+
+[<sup>1</sup> L'agence peut agréer [<sup>3</sup> des associations de droit privé dotées de la personnalité juridique pour lesquelles il est interdit par loi de payer un avantage patrimonial à ses membres, ou des société dotées de la personnalité juridique et à finalité sociale]<sup>3</sup> [<sup>4</sup> Vlaams Agentschap voor Personen met een Handicap " (Agence flamande pour les Personnes handicapées), inséré par le décret du 20 décembre 2013 et modifié par le décret du 15 juillet 2016, le membre de phrase ]<sup>4</sup> qui mettent uniquement de l'infrastructure de logement à disposition de personnes handicapées qui ont un besoin de soins et de soutien clairement constaté.
+
+L'infrastructure de logement est enregistrée comme habitation dans le cadastre et est mise à disposition à l'aide d'une convention écrite. Le Gouvernement flamand peut concrétiser les conditions, visées à l'alinéa deux, détermine le mode de constatation du besoin de soins et de soutien, et peut également arrêter des règles pour l'attribution des habitations de location.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2013-12-20/08, art. 16, 009; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DCFL 2014-04-25/J0, art. 25, 011; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFL 2016-07-15/17, art. 50, 012; En vigueur : 29-08-2016&gt;
+
+(4)&lt;DCFL 2023-12-01/10, art. 6, 018; En vigueur : 20-01-2024&gt;
+
+#### Art. 8
+
+Dans le cadre des moyens attribués à l'agence et dans le cadre des tâches de l'agence, mentionnées aux articles 5, 6 et 7, le Gouvernement flamand peut fixer des modalités relatives aux critères, aux conditions, aux cas, aux montants, à l'organisation, aux normes d'agrément et aux conditions de subventionnement relatives :
+
+1° à la demande de soutien, l'indication et l'attribution;
+
+2° à l'autorisation, l'agrément et le subventionnement de structures [<sup>2</sup> ...]<sup>2</sup>;
+
+3° à la prise en charge des frais de soutien, supportés par la personne handicapée, y compris [<sup>2</sup> le financement qui suit la personne des soins et du soutien non directement accessibles]<sup>2</sup>;
+
+4° au subventionnement de projets auxquels aucune programmation ou subvention structurelle n'a été réservée;
+
+5° à l'organisation de possibilités de recours contre l'affectation par l'agence;
+
+[<sup>1</sup> 6° l'autorisation, l'agrément et la subvention d'organisations supportant le développement de connaissance, le transfert de connaissance, la dissémination de connaissance et l'expertise afin de favoriser la compétence des professionnels des structures.]<sup>1</sup>
+
+[<sup>2</sup> 7° l'agrément et le subventionnement d'organisations collaborant à l'indication ou à l'éclaircissement de la demande ;
+
+8° le subventionnement de structures en vue de la promotion du partage des connaissances, visé à l'article 6, 9° ;
+
+9° l'autorisation et le subventionnement d'organisations agissant comme intermédiaire entre les offreurs de soutien ou le fournisseur et les personnes handicapées ;
+
+10° le développement de critères sur la base desquels les soins et le soutien sans attribution par l'agence sont disponibles, en tenant compte au moins des caractéristiques durée, fréquence et intensité, afin de pouvoir distinguer ces soins et soutien des soins et soutien qui nécessitent bien une attribution par l'agence ;
+
+11° l'établissement des conditions d'accès aux soins et au soutien sans l'attribution par l'agence, l'établissement des conditions que les offreurs de ces soins et soutien doivent remplir, et le subventionnement de ces soins et soutien ;
+
+12° l'imposition de sanctions administratives à des structures, à des détenteurs d'autorisation et à d'autres organisations qui sont subventionnées directement ou indirectement par l'agence [<sup>4</sup> , y compris la désignation des membres du personnel compétents pour prendre les décisions dans ce cadre]<sup>4</sup>;
+
+13° la prise en charge des frais de soutien matériel de personnes handicapées.]<sup>2</sup>
+
+[<sup>3</sup> Le Gouvernement flamand peut mettre en place une commission chargée de déterminer si la personne qui demande le soutien ou pour laquelle le soutien est demandé est une personne en situation de handicap au sens de l'article 2, 2°. Le Gouvernement flamand fixe la composition, les missions et la méthode de travail de la commission et détermine les jetons de présence et les indemnités qui peuvent être accordés au président et aux membres de la commission.
+
+Le Gouvernement flamand peut confier la tâche visée à l'alinéa 2, à la commission pouvant être créée conformément à l'article 16, alinéa 4, du décret du 25 avril 2014 portant le financement qui suit la personne pour des personnes handicapées et portant réforme du mode de financement des soins et du soutien pour des personnes handicapées]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2013-06-21/17, art. 37, 007; En vigueur : 01-10-2011&gt;
+
+(2)&lt;DCFL 2014-04-25/J0, art. 26, 011; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFL 2023-12-01/10, art. 7, 018; En vigueur : indéterminée &gt;
+
+(4)&lt;DCFL 2024-03-22/15, art. 6, 019; En vigueur : 01-10-2025&gt;
+
+#### Art. 9
+
+Pour la réalisation de sa mission et de ses tâches, l'agence peut, tout en respectant les règles visées à l'article 8, développer, organiser et réaliser toutes activités possibles de quelque nature que ce soit. [<sup>1</sup> Pour l'exécution de sa mission et ses tâches, l'agence peut faire appel à d'autres organisations, de quelque nature que ce soit.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 27, 011; En vigueur : 01-01-2015&gt;
+
+#### Art. 10
+
+Sans préjudice du traitement des réclamations portant sur le fonctionnement et les services propres, tel que fixé dans le [<sup>1</sup> titre II, chapitre 5 du Décret de gouvernance]<sup>1</sup>, l'agence recueille et traite les réclamations prononcées contre des structures agréées par l'agence.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.104, 017; En vigueur : 01-01-2019&gt;
+
+#### Art. 11
+
+L'agence exécute ses tâches, mentionnées aux articles 5, 6, 7 et 8, à l'égard du groupe cible, en cohérence avec :
+
+1° la politique menée dans d'autres domaines politiques et à d'autres niveaux politiques;
+
+2° la politique en matière de l'aide sociale et de la santé, menée par la Communauté flamande.
+
+L'agence développe de l'expertise de terrain relative aux tâches mentionnées aux articles 5, 6 et 7. [<sup>2</sup> L'agence met à disposition ses connaissances et son expertise acquises, dans le cadre de l'application de l'article III.2, alinéa trois du Décret de gouvernance]<sup>2</sup>. L'agence veille à ce que ses services soient continuellement améliorés, sur la base de la situation la plus récente au niveau des savoirs et de l'expertise.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 116, 014; En vigueur : 25-05-2018&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.105, 017; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2025-12-19/84, art. 3, 020; En vigueur : 24-01-2026&gt;
+
+#### Art. 11/1
+
+[<sup>1</sup> § 1er. Les données à caractère personnel sont traitées, dans le cadre du présent décret, conformément à la réglementation sur la protection de personnes physiques lors du traitement de données à caractère personnel. Les données à caractère personnel sont traitées conformément à l'article 6, alinéa 1er, e), et à l'article 9, alinéa 2, h), du règlement général sur la protection des données.
+
+Les données relatives à la santé sont traitées conformément à l'article 9, alinéa 3, du règlement précité, par ou sous la responsabilité d'un professionnel lié par le secret professionnel ou par une autre personne liée par l'obligation de secret.
+
+§ 2. En vue de l'exécution des compétences et des tâches, réglées par ou en vertu du présent décret ou du décret du 25 avril 2014, l'agence traite les catégories suivantes de données à caractère personnel des personnes handicapées, présumées handicapées ou, le cas échéant, de leur représentant légal, afin d'examiner et d'évaluer une demande de soutien auprès de l'agence.
+
+Le traitement des données à caractère personnel dans le cadre de la finalité du traitement visée à l'alinéa 1er porte sur les catégories suivantes de données à caractère personnel :
+
+1\. les données d'identification, y compris le numéro de registre national ;
+
+2\. les informations sur la localisation ;
+
+3\. les coordonnées ;
+
+4\. les données relatives à l'état et à la capacité de la personne ;
+
+5\. les données relatives à la santé de la personne handicapée ou présumée handicapée et les données relatives aux facteurs sociaux ;
+
+6\. les données relatives aux soins et au soutien dont bénéficie déjà la personne handicapée ou présumée handicapée ;
+
+7\. les reconnaissances et les données d'indication concernant un soutien spécifique au handicap accordées à la personne handicapée ou présumée handicapée, délivrées par d'autres instances publiques ;
+
+8\. le statut d'internement si la personne handicapée ou présumée handicapée est internée, tel que visé à la loi du 5 mai 2014 relative à l'internement ;
+
+9\. les données relatives à la gestion des risques de personnes handicapées ou présumées handicapées qui sont détenues, tel que visé à la loi de principe du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus, ou qui sont internées, tel que visé à la loi du 5 mai 2014 relative à l'internement.
+
+En vue de l'exécution de leur mission, réglée par ou en vertu du présent décret ou du décret du 25 avril 2014, les organisations qui participent à la clarification de la demande traitent les données à caractère personnel des personnes visées à l'alinéa 1er qui s'adressent à elles pour accompagner le processus de clarification de la demande afin d'introduire une demande de soutien auprès de l'agence.
+
+En vue de l'exécution de leur mission, réglée par ou en vertu du présent décret ou du décret du 25 avril 2014, les organisations qui participent à l'indication traitent les données à caractère personnel des personnes visées à l'alinéa 1er qui s'adressent à elles afin de collecter et de fournir des informations, nécessaire à l'introduction d'une demande de soutien auprès de l'agence et à l'évaluation de la demande par l'agence.
+
+A cet égard, les organisations visées aux alinéas 3 et 4 traitent les catégories de données à caractère personnel visées à l'alinéa 2.
+
+Le Gouvernement flamand peut préciser davantage les données à caractère personnel visées à l'alinéa 2.
+
+§ 3. En vue de l'exécution des compétences et des tâches, réglées par ou en vertu du présent décret ou du décret du 25 avril 2014, l'agence traite les catégories suivantes de données à caractère personnel de personnes handicapées, présumées handicapées ou, le cas échéant, de leur représentant légal, afin de prendre en charge les frais liés à l'aide matérielle individuelle.
+
+Le traitement des données à caractère personnel dans le cadre de la finalité du traitement visée à l'alinéa 1er porte sur les catégories suivantes de données à caractère personnel :
+
+1° les données d'identification, y compris le numéro de registre national ;
+
+2° les informations sur la localisation ;
+
+3° les coordonnées ;
+
+4° les données relatives à l'état et aux capacités de la personne ;
+
+5° les données financières ;
+
+6° les données relatives aux soins et au soutien ou relatives aux interventions dont bénéficie déjà la personne handicapée et qui sont nécessaires au calcul de la prise en charge par l'agence afin d'éviter un double financement ;
+
+7° les reconnaissances et les données d'indication concernant un soutien spécifique au handicap accordé à la personne handicapée, délivrées par d'autres instances publiques.
+
+Le Gouvernement flamand peut préciser davantage les données à caractère personnel visées à l'alinéa 2.
+
+§ 4. En vue de l'exécution des compétences et des tâches, réglées par ou en vertu du présent décret ou du décret du 25 avril 2014, l'agence traite des données à caractère personnel afin de prendre en charge les frais du soutien, supportés par la personne handicapée ou présumée handicapée, y compris un budget pour des soins et du soutien non directement accessibles et le budget d'assistance personnelle.
+
+Le traitement des données à caractère personnel dans le cadre de la finalité du traitement visée à l'alinéa 1er porte sur les catégories suivantes de personnes concernées :
+
+1° la personne handicapée ou présumée handicapée ;
+
+2° le cas échéant, leur représentant légal ;
+
+3° l'assistant personnel registré auprès de l'agence par les titulaires de budget conformément à l'article 12, § 3, de l'arrêté du Gouvernement flamand du 15 décembre 2000 établissant les conditions d'octroi d'un budget d'assistance personnelle aux personnes handicapées ;
+
+4° la personne physique ou morale fournissant des soins et du soutien et registrée auprès de l'agence par les titulaires de budget conformément à l'article 17, § 1er, de l'arrêté du Gouvernement flamand du 24 juin 2016 relatif à l'affectation du budget pour les soins et le soutien non directement accessibles pour personnes handicapées majeures ainsi qu'aux frais liés à l'organisation pour les offreurs de soins autorisés.
+
+Le traitement des données à caractère personnel dans le cadre de la finalité du traitement visée à l'alinéa 1er porte sur les catégories suivantes de données à caractère personnel :
+
+1° les données d'identification, y compris le numéro de registre national ;
+
+2° les informations sur la localisation ;
+
+3° les coordonnées ;
+
+4° les données relatives à l'état et à la capacité des personnes, visées à l'alinéa 2, 1° et 2° ;
+
+5° les données financières ;
+
+6° les données d'emploi des personnes visées à l'alinéa 2, 3° et 4° ;
+
+7° les données relatives à la nature, la fréquence et la durée du soutien des personnes, visées à l'alinéa 2, 1° et 2°, par les personnes visées à l'alinéa 2, 3° et 4° ;
+
+8° les données relatives aux interventions dont bénéficie la personne handicapée ou présumée handicapée et qui sont nécessaires au calcul de la prise en charge par l'agence afin d'éviter un double financement ;
+
+9° les données relatives aux soins et au soutien dont bénéficie déjà la personne handicapée ou présumée handicapée de la part d'autres organisations agrées, autorisées ou subventionnées pour la prestation des soins et du soutien ;
+
+10° les reconnaissances et les données d'indication concernant un soutien spécifique au handicap accordé à la personne handicapée ou présumée handicapée, délivrées par d'autres instances publiques.
+
+En vue de l'exécution de leur mission, réglée par ou en vertu du présent décret ou du décret du 25 avril 2014, les organisations d'assistance traitent les catégories de données à caractère personnel, visées à l'alinéa 3, 1° à 7°, de personnes handicapées ou présumées handicapées qui s'adressent à elles et, le cas échéant, de leur représentant légal, en vue d'assistance lors de l'organisation des soins et du soutien et lors de la justification des frais engagés dans le cadre de la prise en charge par l'agence des frais du soutien, supportés par la personne handicapée.
+
+En vue de l'exécution de leur mission, réglée par ou en vertu du présent décret ou du décret du 25 avril 2014, les organisations d'assistance traitent les catégories de données à caractère personnel, visées à l'alinéa 3, 1° à 7°, de personnes, visées à l'alinéa 2, 3° et 4°, qui fournissent du soutien aux personnes handicapées qui s'adressent à des organisations d'assistance en vue d'assistance lors de l'organisation des soins et du soutien et lors de la justification des frais engagés dans le cadre de la prise en charge des frais du soutien, supportés par la personne handicapée.
+
+Le Gouvernement flamand peut préciser davantage les données à caractère personnel visées à l'alinéa 3.
+
+§ 5. En vue de l'exécution des compétences et des tâches, réglées par ou en vertu du présent décret ou du décret du 25 avril 2014, l'agence traite des données à caractère personnel dans le cadre du subventionnement des organisations agréées, autorisées ou registrées pour soins, soutien, accompagnement, accueil de jour ou séjour, tant dans le cadre d'une aide directement accessible qu'indirectement accessible.
+
+Le traitement des données à caractère personnel dans le cadre de la finalité du traitement visée à l'alinéa 1er porte sur les catégories suivantes de personnes concernées :
+
+1° les personnes handicapées ;
+
+2° les personnes présumées handicapées ;
+
+3° le cas échéant, leur représentant légal ;
+
+4° les administrateurs des organisations agréées, autorisées ou registrées par l'agence ;
+
+5° le personnel employé des organisations agréées, autorisées ou registrées par l'agence.
+
+Le traitement des données à caractère personnel dans le cadre de la finalité du traitement visée à l'alinéa 1er porte sur les catégories suivantes de données à caractère personnel :
+
+1° les données d'identification, y compris le numéro de registre national ;
+
+2° les informations sur la localisation des personnes visées à l'alinéa 2, 1°, 2° et 3° ;
+
+3° les coordonnées des personnes visées à l'alinéa 2, 1°, 2° et 3° ;
+
+4° les données relatives à l'état et à la capacité des personnes, visées à l'alinéa 2, 1°, 2° et 3° ;
+
+5° les données d'emploi de personnes telles que visées à l'alinéa 2, 5° ;
+
+6° les données relatives à la nature, la fréquence et la durée du soutien des personnes, visées à l'alinéa 2, 1° et 2°, par des organisations agréées, autorisées ou registrées pour soins, soutien, accompagnement, accueil de jour ou séjour, tant dans le cadre d'une aide directement accessible qu'indirectement accessible ;
+
+7° les données relatives aux soins et au soutien dont bénéficie déjà la personne handicapée ou présumée handicapée de la part d'autres organisations agrées, autorisées ou subventionnées pour la prestation des soins et du soutien ;
+
+8° les données relatives aux interventions dont bénéficie la personne handicapée ou présumée handicapée et qui sont nécessaires au calcul de la prise en charge par l'agence afin d'éviter un double financement ;
+
+9° le statut d'internement si la personne handicapée ou présumée handicapée est internée, tel que visé à la loi du 5 mai 2014 relative à l'internement ;
+
+10° les données relatives à la gestion des risques de personnes handicapées ou présumées handicapées qui sont détenues, tel que visé à la loi de principe du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus, ou qui sont internées, tel que visé à la loi du 5 mai 2014 relative à l'internement.
+
+En vue de l'exécution de leur mission, réglée par ou en vertu du présent décret ou du décret du 25 avril 2014, les organisations agréées, autorisées ou registrées par l'agence traitent les données à caractère personnel des personnes handicapées, présumées handicapées ou, le cas échéant, leur représentant légal qui s'adressent à elles afin d'obtenir du soutien.
+
+Le traitement des données à caractère personnel dans le cadre de la finalité du traitement visée à l'alinéa 4 porte sur les catégories suivantes de données à caractère personnel :
+
+1° les données d'identification ;
+
+2° les informations sur la localisation ;
+
+3° les coordonnées ;
+
+4° les données relatives à l'état et à la capacité des personnes, visées à l'alinéa 2, 1°, 2° et 3° ;
+
+5° les données relatives à la santé des personnes visées à l'alinéa 2, 1° et 2° ;
+
+6° les données relatives à la nature, la fréquence et la durée du soutien des personnes, visées à l'alinéa 2, 1° et 2°, par des organisations agréées, autorisées ou registrées pour soins, soutien, accompagnement, accueil de jour ou séjour, tant dans le cadre d'une aide directement accessible qu'indirectement accessible ;
+
+7° les données financières ;
+
+8° les données relatives à la gestion des risques de personnes handicapées ou présumées handicapées qui sont détenues, tel que visé à la loi de principe du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus, ou qui sont internées, tel que visé à la loi du 5 mai 2014 relative à l'internement.
+
+En vue de l'exécution de leur mission, réglée par ou en vertu du présent décret ou du décret du 25 avril 2014, les organisations agréées, autorisées ou registrées par l'agence traitent les données à caractère personnel des personnes, visées à l'alinéa 2, 4° et 5°, afin de subventionner le soutien par l'agence.
+
+Le traitement des données à caractère personnel dans le cadre de la finalité du traitement visée à l'alinéa 6 porte sur les catégories suivantes de données à caractère personnel :
+
+1° les données d'identification, y compris le numéro de registre national ;
+
+2° les données d'emploi de personnes telles que visées à l'alinéa 2, 5°.
+
+Le Gouvernement flamand peut préciser davantage les données à caractère personnel visées aux alinéas 3, 5 et 7.
+
+§ 6. En vue du suivi et de la surveillance de l'accès au soutien auprès de l'agence, ainsi que pour soutenir la préparation des politiques, l'établissement de rapports et l'évaluation, l'agence traite les données d'identification des personnes handicapées ou présumées handicapées qui s'adressent à des organisations participant à l'indication.
+
+§ 7. Les autorités suivantes sont les responsables du traitement, visés à l'article 4, 7), du règlement général sur la protection des données :
+
+1° l'agence pour le traitement des données à caractère personnel, y compris les données relatives à la santé en vue de l'exécution des compétences et des tâches, réglées par ou en vertu du présent décret et du décret du 25 avril 2014 ;
+
+2° les organisations qui participent à l'indication et à la clarification de la demande, les organisations d'assistance et les organisations agréées, autorisées ou registrées par l'agence pour le traitement des données à caractère personnel en vue de l'exécution des missions qui leur sont accordées en vertu du présent décret ou du décret précité du 25 avril 2014.
+
+§ 8. Les données à caractère personnel traitées de la personne handicapée ou présumée handicapée sont conservées pour une période maximale de trente ans. Ce délai prend cours à partir de la date du décès de la personne handicapée ou présumée handicapée. A l'issue de ce délai, les données à caractère personnel traitées sont conservées conformément à l'article 89 du règlement général sur la protection des données.
+
+Les données à caractère personnel traitées du représentant légal sont conser-vées pour une période maximale de cinq ans après la fin de la mesure de protection judiciaire pour la personne handicapée ou présumée handicapée.
+
+Les données à caractère personnel traitées des administrateurs des organisations agréées, autorisées ou registrées par l'agence sont conservées pour une période maximale de trois ans après la fin du mandat d'administrateur.
+
+Les données à caractère personnel traitées du personnel, employés dans les organisations agréées, autorisées ou registrées par l'agence sont conservées pour une période maximale de quinze ans.
+
+Les données à caractère personnel traitées des personnes, visées au paragraphe 4, alinéa 2, 3° et 4°, sont conservées pour une période maximale de dix ans. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-12-19/84, art. 4, 020; En vigueur : 24-01-2026&gt;
+
+#### Art. 11/2.
+
+[<sup>1</sup> § 1er. En vue de l'exécution des compétences et des tâches, réglées par ou en vertu du présent décret ou du décret du 25 avril 2014, l'agence traite les données d'identification, y compris le numéro de registre national, des personnes suivantes, afin de réglementer l'accès aux informations au sein de l'agence, l'utilisation des applications de l'agence et la gestion de leurs données dans les applications de l'agence :
+
+1° la personne handicapée, présumée handicapée, et, le cas échéant, leur représentant légal ;
+
+2° les collaborateurs d'organisations qui participent à la clarification de la demande telles que visées à l'article 11/1, § 2, alinéa 3 ;
+
+3° les collaborateurs d'organisations qui participent à l'indication telles que visées à l'article 11/1, § 2, alinéa 4 ;
+
+4° les collaborateurs d'organisations d'assistance, telles que visées à l'article 11/1, § 4, alinéas 4 et 5 ;
+
+5° les collaborateurs d'organisations agréées, autorisées ou registrées par l'agence telles que visées à l'article 11/1, § 5, alinéas 4 et 6 ;
+
+6° les administrateurs d'organisations agréées, autorisées ou registrées par l'agence telles que visées à l'article 11/1, § 5, alinéa 6.
+
+Les personnes visées à l'alinéa 1er, 2° à 6°, n'ont accès aux informations détenues par l'agence, à l'utilisation des applications de l'agence et à la gestion de leurs données dans les applications de l'agence que dans la mesure où cela est nécessaire à l'accomplissement de leur mission, réglée par ou en vertu du présent décret ou du décret du 25 avril 2014.
+
+§ 2. Les collaborateurs d'organisations qui participent à la clarification de la demande, obtiennent, aux fins visées à l'article 11/1, paragraphe 2, alinéa 3, accès aux données à caractère personnel figurant dans les applications de l'agence de personnes qui s'adressent à elles. Ils ont accès aux catégories de données à caractère personnel visées à l'article 11/1, paragraphe 2, alinéa 2, 1° à 4° et 6°.
+
+Les collaborateurs d'organisations qui participent à l'indication, obtiennent, aux fins visées à l'article 11/1, paragraphe 2, alinéa 4, accès aux données à caractère personnel figurant dans les applications de l'agence de personnes qui s'adressent à elles. Ils ont accès aux catégories de données à caractère personnel visées à l'article 11/1, paragraphe 2, alinéa 2, 1° à 6°.
+
+Les organisations d'assistance obtiennent, aux fins visées à l'article 11/1, paragraphe 4, alinéas 4 et 5, accès aux données à caractère personnel figurant dans les applications de l'agence de personnes qui s'adressent à elles. Ils ont accès aux catégories de données à caractère personnel visées à l'article 11/1, paragraphe 4, alinéa 3, 1° à 7°.
+
+Les collaborateurs et les administrateurs des offreurs de soins agréés et autorisés par l'agence obtiennent, aux fins visées à l'article 11/1, paragraphe 5, alinéa 4, accès aux données à caractère personnel figurant dans les applications de l'agence de personnes qui s'adressent à elles. Ils ont accès aux catégories de données à caractère personnel visées à l'article 11/1, paragraphe 5, alinéa 5, 1° à 3°. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-12-19/84, art. 5, 020; En vigueur : 24-01-2026&gt;
+
+#### Art. 12
+
+Pour l'accomplissement de sa mission et ses tâches, l'agence collabore et conclut des accords de coopération avec [<sup>1</sup> d'autres pouvoirs publics, ]<sup>1</sup> des autorités, institutions, services et associations actifs dans le domaine des tâches assignées.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 28, 011; En vigueur : 01-01-2015&gt;
+
+#### Art. 13
+
+Les personnes handicapées ou leur représentant légal qui remplissent les conditions des [<sup>1</sup> articles 20 et 21]<sup>1</sup> peuvent introduire une demande de soutien auprès de l'agence.
+
+[<sup>3</sup> ...]<sup>3</sup>.
+
+[<sup>3</sup> Les personnes handicapées ou présumées être handicapées [<sup>4</sup> qui répondent aux conditions des articles 20 et 21, troisième et cinquième alinéas,]<sup>4</sup> peuvent utiliser le soutien sans demande ou attribution par l'agence, aux conditions et dans les cas fixés par le Gouvernement flamand en application de l'article 8, 10° et 11°.]<sup>3</sup>
+
+Le Gouvernement flamand fixe [<sup>2</sup> les cas où une demande doit être introduite auprès de l'agence et]<sup>2</sup> le mode d'introduction et de traitement de la demande, y compris les moyens de recours.
+
+Dans les limites des tâches de l'agence fixées aux articles 5, 6 et 7, le Gouvernement flamand peut définir les règles, conditions et critères pour la délimitation du groupe cible, ainsi qu'élaborer les modalités de l'organisation, des conditions et des critères de l'indication.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 37, 005; En vigueur : 16-04-2009&gt;
+
+(2)&lt;DCFL 2013-07-12/43, art. 81, 008; En vigueur : 01-03-2014&gt;
+
+(3)&lt;DCFL 2014-04-25/J0, art. 29, 011; En vigueur : 01-01-2015&gt;
+
+(4)&lt;DCFL 2016-07-15/17, art. 94, 012; En vigueur : 29-08-2016&gt;
+
+#### Art. 14
+
+Une personne handicapée ne reçoit pas d'allocation de l'agence, s'il a déjà reçu, en vertu d'autres lois, décrets, excepté le décret portant organisation de l'assurance soins, ordonnances ou dispositions réglementaires, ou en vertu du droit commun, une indemnité pour le même dommage et [<sup>1</sup> sur la base du même handicap]<sup>1</sup>. La personne handicapée doit faire valoir son droit à cette indemnité.
+
+Si cette indemnité est inférieure à l'allocation de l'agence, l'agence supplée la différence. [<sup>2</sup> Le Gouvernement flamand peut arrêter que certaines parties de l'indemnité ne sont pas prises en compte ou ne sont prises en compte que partiellement afin de combler la différence. En ce, le Gouvernement flamand tient particulièrement compte de la nature et de la durée de l'administration d'aide et de services matériels ou immatériels à la personne handicapée, pour lesquelles il peut arrêter les conditions.]<sup>2</sup>
+
+Dans l'attente de l'indemnisation effective en vertu d'autres lois, décrets, ordonnances ou dispositions réglementaires ou en vertu du droit commun, les allocations de l'agence sont accordées aux conditions fixées par le Gouvernement flamand.
+
+L'agence subroge la personne handicapée dans ses droits et actions contre des tiers redevables de l'indemnité visée au troisième alinéa, à concurrence du montant payé à ladite personne.
+
+Le contrat entre la personne handicapée et le tiers qui doit payer l'indemnité n'est pas opposable à l'agence, [<sup>1</sup> sauf si l'agence consente au contrat]<sup>1</sup>. Que le contrat date d'avant ou d'après l'intervention de l'agence ne joue aucun rôle. Le fait que la personne handicapée ou le tiers ait agi de bonne foi, n'influence pas non plus la validité du contrat à l'égard de l'agence.
+
+----------
+
+(1)&lt;DCFL 2009-03-20/36, art. 38, 005; En vigueur : 16-04-2009&gt;
+
+(2)&lt;DCFL 2013-06-21/17, art. 38, 007; En vigueur : 01-01-2016 (AGF 2015-11-27/26, art. 12)&gt;
+
+#### Art. 14/1
+
+[<sup>1</sup> L'article 14 ne s'applique pas au soutien octroyé en exécution de l'article 13, alinéa deux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/J0, art. 30, 011; En vigueur : 01-01-2015&gt;
+
+#### Art. 15
+
+§ 1er. (L'action en justice d'une structure agréée à fin de paiement d'une subvention de fonctionnement ou d'une augmentation de celle-ci se prescrit trois ans après la fin de l'année de fonctionnement pour laquelle la subvention de fonctionnement était calculée.) &lt;DCFL 2006-06-02/66, art. 25, 002; En vigueur : 01-01-2007&gt;
+
+§ 2. L'action en justice pour le remboursement d'allocations indûment payées se prescrit deux ans après la fin du mois pendant lequel l'allocation a été payée, n'importe si elle a été versée directement à la personne handicapée sinon par le biais d'un tiers ou d'une structure. Pour les allocations octroyées ou maintenues sur la base de données mensongères, incorrectes ou incomplètes, ce délai est de cinq ans.
+
+L'agence peut, dans les cas et aux conditions fixés par le Gouvernement flamand, renoncer à la réclamation de sommes indûment payées.
+
+§ 3. Sauf pour les raisons prévues dans le Code civil, la prescription est interrompue par une lettre recommandée ou par une reconnaissance du débiteur.
+
+§ 4. Si l'action en justice date d'avant l'entrée en vigueur du présent décret, les nouveaux délais de prescription fixés par le présent décret commencent le jour de l'entrée en vigueur du décret. La durée totale du délai de prescription ne peut toutefois dépasser le nouveau délai de prescription.
+
+## CHAPITRE IV. - [<sup>1</sup> Orientation vers le financement qui suit la personne]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016 (AGF 2015-11-27/27, art. 55)&gt;
+
+#### Art. 16
+
+[<sup>1</sup> Le financement qui suit la personne pour les personnes handicapées se compose d'un système de soutien échelonné pour des personnes handicapées. Le premier échelon comprend un budget d'assistance de base, [<sup>3</sup> tel que visé dans l'article 4, alinéa premier, 3° du décret du 18 mai 2018 relatif à la protection sociale flamande]<sup>3</sup>. Le deuxième échelon comprend un budget pour des soins et du soutien non directement accessibles, octroyé par l'agence.
+
+Le financement qui suit la personne, visé à l'alinéa premier, est réglé dans le décret du 25 avril 2014 portant le financement qui suit la personne pour des personnes handicapées et portant réforme du mode de financement des soins et du soutien pour des personnes handicapées, sans préjudice de l'application des dispositions du présent décret. L'article 21 ne s'applique toutefois pas au budget d'assistance de base, visé à l'alinéa premier, auquel s'appliquent les dispositions de [<sup>2</sup> la protection sociale flamande]<sup>2</sup>, visée à l'alinéa premier.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 31, art. 2, 011; En vigueur : 01-04-2016 (AGF 2015-11-27/27, art. 55)&gt;
+
+(2)&lt;DCFL 2016-06-24/16, art. 65, 013; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFL 2018-05-18/15, art. 162, 016; En vigueur : 01-01-2019&gt;
+
+#### Art. 17
+
+[<sup>1</sup> Une personne handicapée majeure qui souhaite utiliser des soins et du soutien non directement accessibles, établit un plan de soutien.
+
+Le plan de soutien se réalise lors d'un processus actif pendant lequel les besoins entiers de soins et de soutien sont répertoriés, après une phase d'éclaircissement de la demande. Le plan de soutien fait une distinction entre le soutien matériel, les soins et le soutien qui doivent être fournis par la personne handicapée elle-même, sa famille, son réseau social, des structures de bien-être et de santé, et des services spécifiques au handicap non directement accessibles.
+
+La personne handicapée, accompagnée ou non par un service Plan de Soutien ou un autre service directement accessible ou une organisation choisie par la personne handicapée, établit elle-même un plan de soutien.
+
+Le plan de soutien est soumis à l'approbation de l'agence. Si le plan de soutien ne répond pas aux exigences de processus minimales, fixées par le Gouvernement flamand, la personne handicapée se fait assister par un service Plan de Soutien afin d'établir un plan de soutien adapté.
+
+Le Gouvernement flamand arrêté le mode et la forme d'introduction du plan de soutien.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016&gt;
+
+#### Art. 17 DROIT FUTUR.
+
+[<sup>1</sup> Une personne majeure handicapée souhaitant affecter un budget pour des soins et du soutien non directement accessibles en fait une demande auprès de l'agence.
+
+Le Gouvernement flamand arrête le mode et la forme dont la demande visée à l'alinéa 1er est introduite et est traitée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-12-19/84, art. 6, 020; En vigueur : 01-01-2028&gt;
+
+#### Art. 18
+
+[<sup>1</sup> Si le besoin de soins et de soutien, tel que fixé sur la base du plan de soutien, dépasse une limite fixée par le Gouvernement flamand, le besoin de soins et de soutien est fixé supplémentairement à l'aide d'un instrument pour l'estimation de la lourdeur des soins. Le Gouvernement flamand établit l'instrument pour l'estimation de la lourdeur des soins.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016&gt;
+
+#### Art. 18 DROIT FUTUR.
+
+[<sup>1</sup> [<sup>2</sup> Le besoin de soins et de soutien est déterminé à l'aide d'un instrument pour l'estimation de la lourdeur des soins.]<sup>2</sup> Le Gouvernement flamand établit l'instrument pour l'estimation de la lourdeur des soins.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016&gt;
+
+(2)&lt;DCFL 2025-12-19/84, art. 7, 020; En vigueur : 01-01-2028&gt;
+
+#### Art. 18/1
+
+[<sup>1</sup> Sur la base du plan de soutien et, selon le cas, sur la base de l'estimation de la lourdeur des soins, l'agence octroie un budget qui est exprimé en catégories de budget. Dans les cas, visés à l'article 10, alinéa trois, du décret du 25 avril 2014 portant le financement qui suit la personne pour des personnes handicapées et portant réforme du mode de financement des soins et du soutien pour des personnes handicapées, l'agence impose des mesures accompagnatrices ou l'agence décide de convertir le budget de trésorerie en un voucher.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016&gt;
+
+#### Art. 18/1 DROIT FUTUR.
+
+[<sup>1</sup> Sur la base [<sup>2</sup> ...]<sup>2</sup> de l'estimation de la lourdeur des soins, l'agence octroie un budget qui est exprimé en catégories de budget. Dans les cas, visés à l'article 10, alinéa trois, du décret du 25 avril 2014 portant le financement qui suit la personne pour des personnes handicapées et portant réforme du mode de financement des soins et du soutien pour des personnes handicapées, l'agence impose des mesures accompagnatrices ou l'agence décide de convertir le budget de trésorerie en un voucher.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016&gt;
+
+(2)&lt;DCFL 2025-12-19/84, art. 8, 020; En vigueur : 01-01-2028&gt;
+
+#### Art. 18/2
+
+[<sup>1</sup> Pour les mineurs, l'orientation vers le budget pour des soins et du soutien non directement accessibles, se déroule selon les règles pour le financement qui suit la personne, fixées dans ou en exécution du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016 (AGF 2015-11-27/27, art. 55)&gt;
+
+#### Art. 19
+
+[<sup>1</sup> Le Gouvernement flamand arrête le mode dont la personne handicapée justifie l'affectation du budget par lequel des soins et du soutien non directement accessibles sont acquis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016 (AGF 2015-11-27/27, art. 55)&gt;
+
+#### Art. 19/1
+
+[<sup>1</sup> § 1er. Des offreurs de soins et de soutien non directement accessibles ne peuvent être autorisés par l'agence que s'ils offrent des soins et du soutien équivalents, indépendamment du fait que la personne handicapée finance ses soins et son soutien par un budget de trésorerie ou un voucher.
+
+§ 2. Le Gouvernement flamand arrête les conditions supplémentaires auxquelles l'agence peut accorder une autorisation, et tient compte à cet effet des exigences de qualité, visées au ou en exécution du décret du 17 octobre 2003 relatif à la qualité des établissements de santé et d'aide sociale.
+
+§ 3. En outre, le Gouvernement flamand peut imposer des conditions spécifiques, entre autres concernant l'output et l'offre.
+
+§ 4. Le Gouvernement flamand règle la procédure de demande, d'octroi, de modification, de suspension et d'abrogation de l'autorisation, y compris la possibilité d'introduire une réclamation. A cet effet, le Gouvernement flamand tient compte des dispositions reprises au ou en exécution du décret du 7 décembre 2007 portant création [<sup>2</sup> ...]<sup>2</sup>d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats-) Accueillants.
+
+La réclamation est traitée conformément aux règles fixées par ou en exécution du chapitre III du décret du 7 décembre 2007 portant création [<sup>2</sup> ...]<sup>2</sup>t d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats-) Accueillants.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/J0, art. 31, 011; En vigueur : 01-04-2016 (AGF 2015-11-27/27, art. 55)&gt;
+
+(2)&lt;DCFL 2023-12-01/10, art. 8, 018; En vigueur : 20-01-2024&gt;
+
+## HOOFDSTUK IV/1. [<sup>1</sup> - Prise en charge du budget d'assistance personnelle dans le cadre des services d'aide à la jeunesse non directement accessibles]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-07-15/17, art. 95, 012; En vigueur : 01-04-2016 (AGF 2017-07-14/11, art. 3)&gt;
+
+#### Art. 19/2
+
+[<sup>1</sup> L'agence peut, dans les limites de son budget et jusqu'à un montant maximal, prendre en charge les frais du soutien, supportés par la personne handicapée, par un budget d'assistance personnelle pour les mineurs handicapés et pour les majeurs handicapés qui demandent une continuation de l'aide à la jeunesse telle que visée à l'article 18, § 3, du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-07-15/17, art. 96, 012; En vigueur : 01-04-2016 (AGF 2017-07-14/11, art. 3)&gt;
+
+#### Art. 19/3
+
+[<sup>1</sup> Il appartient au titulaire du budget d'organiser lui-même l'assistance personnelle et le soutien.
+
+Les frais, visés à l'article 19/2 doivent être prouvés, sauf les exceptions relatives à certaines catégories de frais d'importance limitée, qui sont arrêtées par le Gouvernement flamand.
+
+Le titulaire du budget perçoit au cours de l'année des avances à concurrence d'un montant ne pouvant pas dépasser le plafond visé à l'article 19/2.
+
+Les frais pris en charge et les avances allouées sont réglés annuellement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-07-15/17, art. 97, 012; En vigueur : 01-04-2016 (AGF 2017-07-14/11, art. 3)&gt;
+
+#### Art. 19/4
+
+[<sup>1</sup> Le Gouvernement flamand détermine :
+
+1° les modalités du contrat avec l'assistant personnel ;
+
+2° le montant maximum et les conditions d'octroi des budgets ;
+
+3° les modalités quant aux preuves à fournir ;
+
+4° les modalités quant à l'octroi des avances ;
+
+5° les modalités quant au décompte annuel des frais.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-07-15/17, art. 98, 012; En vigueur : 01-04-2016 (AGF 2017-07-14/11, art. 3)&gt;
+
+## CHAPITRE V. - Ayants droit.
+
+#### Art. 20
+
+Le présent décret s'applique aux personnes handicapées qui, au moment de leur demande d'indication, n'ont pas encore accompli l'âge de soixante-cinq [<sup>1</sup> ans, aux]<sup>1</sup> structures octroyant un soutien aux personnes handicapées [<sup>1</sup> et aux organisations qui participant à la réalisation de la mission et des tâches de l'agence]<sup>1</sup>.
+
+[<sup>1</sup> Le présent décret s'applique également aux personnes qui utilisent le soutien directement accessible, et qui n'ont pas encore atteint l'âge de 65 ans au moment du début de ce soutien, et aux structures et organisations offrant ce soutien.
+
+Le présent décret s'applique également aux personnes chez qui le soutien est indiqué par des entités de la Communauté flamande ou de la Région flamande autres que l'agence, aux conditions fixées par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 32, 011; En vigueur : 01-01-2015&gt;
+
+#### Art. 21
+
+[<sup>3</sup> Une personne majeure handicapée introduisant une demande d'aide, doit résider effectivement et légalement en Belgique. Il doit en outre produire la preuve soit d'une résidence ininterrompue de cinq ans, soit d'une résidence non ininterrompue de dix ans en Belgique. Pour des mineurs prolongés et des déclarés inaptes, le représentant légal doit répondre à la condition de résidence antérieure.]<sup>3</sup>
+
+Le Gouvernement flamand peut élargir l'application des dispositions du présent décret à des personnes handicapées autres que celles mentionnées au premier alinéa, aux conditions fixées par lui.
+
+[<sup>2</sup> [<sup>3</sup> Pour pouvoir recevoir du soutien, la personne handicapée ou la personne présumée avoir un handicap a son domicile soit en région de langue néerlandaise, soit en région bilingue de Bruxelles-Capitale. Dans ce dernier cas, elle s'adresse à une structure en région de langue néerlandaise ou à une structure en région bilingue de Bruxelles-Capitale qui, de par son organisation, est censée appartenir exclusivement à la Communauté flamande.]<sup>3</sup>
+
+[<sup>3</sup> Le Gouvernement flamand peut spécifier le contenu de la notion `domicile' à spécifier.]<sup>3</sup>
+
+Il ne peut être accordé de soutien à une personne qui est déjà soutenue par la Région wallonne, la Commission Communautaire française de la Région de Bruxelles-Capitale, la Communauté germanophone ou le niveau fédéral.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 33, 011; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 99, 012; En vigueur : 29-08-2016&gt;
+
+## CHAPITRE V/1. [<sup>1</sup> Obligation pour certaines organisations de contrôler un extrait du casier judiciaire tel que visé à l'article 595 du Code d'instruction criminelle ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-12-19/84, art. 9, 020; En vigueur : 24-01-2026&gt;
+
+### Art. 21/1. [<sup>1</sup> § 1er. Les structures visées à l'article 6, 1°, autorisées ou agréées pour la prestation de soutien aux personnes majeures handicapées, contrôlent la bonne conduite de chaque nouveau collaborateur lors de son embauche, ce qui inclut au moins un comportement irréprochable vis-à-vis des personnes handicapées, si les conditions suivantes sont cumulativement remplies :
+
+1° l'activité que le collaborateur exécutera pour la structure, est liée à l'éducation, à la guidance psycho-médico-sociale, à l'aide à la jeunesse, à la protection infantile, à l'animation ou à l'encadrement de personnes majeures handicapées ;
+
+2° le collaborateur est une personne majeure au moment de l'embauche ;
+
+3° le collaborateur est embauché selon l'un des modes suivants :
+
+a) par le biais d'un contrat de travail tel que visé à la loi du 3 juillet 1978 relative aux contrats de travail ;
+
+b) par le biais d'une nomination unilatérale ;
+
+c) par le biais d'un contrat direct avec la personne physique concernée ou d'un contrat indirect via une personne morale ;
+
+d) conformément à la loi du 3 juillet 2005 relative aux droits des volontaires.
+
+En vue du contrôle visé à l'alinéa 1er, la personne concernée remet, avant son embauche, un extrait du casier judiciaire tel que visé à l'article 595 du Code d'instruction criminelle, ne datant pas de plus d'un mois au moment de la remise. Un document équivalent à l'extrait du casier judiciaire susmentionné et délivré par un autre Etat membre de l'Union européenne ou par un Etat y assimilé au niveau de l'accès à l'exercice d'activités professionnelles, est également accepté.
+
+§ 2. Aux fins de la protection de personnes handicapées, les structures, visées au paragraphe 1er, alinéa 1er, peuvent traiter les données à caractère personnel suivantes :
+
+1° les données d'identification figurant sur l'extrait du casier judiciaire visé à l'article 595 du Code d'instruction criminelle ;
+
+2° les condamnations figurant sur l'extrait du casier judiciaire visé à l'article 595 du Code d'instruction criminelle.
+
+Le traitement visé à l'alinéa 1er se limite au contrôle visé au paragraphe 1er.
+
+Les personnes dont les données à caractère personnel visées à l'alinéa 1er peuvent être traitées, sont les collaborateurs à embaucher, visés au paragraphe 1er.
+
+§ 3. Les structures, visées au paragraphe 1er, alinéa 1er, agissent chacune en tant que responsable de traitement visé à l'article 4, 7), du règlement général sur la protection des données visé au paragraphe 2, alinéa 1er.
+
+Les structures, visées au paragraphe 1er, alinéa 1er, prennent les mesures appropriées pour la sécurisation des données à caractère personnel visées au paragraphe 2, alinéa 1er. Les mesures visées à l'article 10, § 2, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, sont appliquées.
+
+Les extraits du casier judiciaire sont conservés pendant une durée n'excédant pas celle nécessaire aux fins du contrôle visé au paragraphe 1er. Les extraits du casier judiciaire sont détruits après que la décision finale sur l'embauche du collaborateur a été prise.
+
+Les personnes qui procèdent au contrôle, visé au paragraphe 1er, respectent le caractère confidentiel des données concernées.
+
+Les organisations, visées au paragraphe 1er, alinéa 1er, prennent les mesures appropriées en vue de la transparence à l'égard des personnes concernées. Ces mesures visent entre autres à rendre le règlement global en matière de traitement des données dans le cadre du présent décret suffisamment clair pour les personnes concernées. La communication à ce propos est mise à disposition sous forme concise, transparente, compréhensible et facilement accessible, et formulée en des termes clairs et simples. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-12-19/84, art. 10, 020; En vigueur : 24-01-2026&gt;
+
+## CHAPITRE VI. - Administration et fonctionnement.
+
+#### Art. 22
+
+Le Gouvernement flamand règle le fonctionnement de l'agence dans la mesure où cette réglementation ne porte pas atteinte à la structure de décision et de politique fixée dans le [<sup>1</sup> Décret de gouvernance]<sup>1</sup> ou dans le présent décret de création.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.106, 017; En vigueur : 01-01-2019&gt;
+
+#### Art. 23
+
+L'agence mettra toutes les informations à la disposition de l'entité par le Gouvernement chargée de l'inspection, si celle-ci le demande. L'agence et cette entité concluent un accord de coopération. Le Gouvernement flamand arrête les modalités de cet accord de coopération.
+
+[<sup>1</sup> Le Gouvernement flamand organise le contrôle sur le respect des dispositions du présent décret et de ses arrêtés d'exécution, [<sup>2</sup> sans préjudice de l'application du règlement relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel]<sup>2</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 34, 011; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2018-06-08/04, art. 117, 014; En vigueur : 25-05-2018&gt;
+
+(3)&lt;DCFL 2018-01-19/09, art. 23, 015; En vigueur : 01-01-2019&gt;
+
+#### Art. 24
+
+Entre le " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (VDAB) " (Office flamand de l'Emploi et de la Formation professionnelle) et l'agence est conclu un accord de coopération relatif au monitoring des mesures de soutien du VDAB à l'égard des personnes handicapées agréées par l'agence.
+
+Pour que l'accord de coopération devienne exécutable, une approbation préalable du Gouvernement flamand est requise.
+
+## CHAPITRE VII. - Comité consultatif.
+
+#### Art. 25
+
+Auprès de l'agence est créé un comité consultatif, qui fournit des conseils sur demande du chef de l'agence. Le comité consultatif fournit également d'initiative des conseils concernant toutes les matières qui sont importantes pour les tâches de l'agence.
+
+#### Art. 26
+
+Le comité consultatif se compose d'une représentation égale des catégories sociales suivantes du domaine de gestion :
+
+1° les usagers du soutien organisé par l'agence, fourni notamment par des structures;
+
+2° les structures actives dans les domaines de tâches précités;
+
+3° les travailleurs des structures.
+
+Ces représentants sont nommés sur la présentation des organisations de la société civile représentatives des catégories précitées.
+
+D'autres personnes à désigner par le Gouvernement flamand peuvent également siéger au comité consultatif, ainsi que des experts indépendants dans le champ d'action de l'agence.
+
+La qualité de membre du comité consultatif est incompatible avec la qualité de membre du personnel de l'agence.
+
+Le Gouvernement flamand arrête les modalités de la composition du comité consultatif et peut fixer une indemnité pour les membres dudit comité. Les membres sont nommés par le Gouvernement flamand pour une période de quatre ans.
+
+Le comité consultatif établit un règlement d'ordre intérieur et le soumet à l'approbation du Gouvernement flamand. Le règlement détermine le fonctionnement pratique, la déontologie, la mission d'information et d'établissement de rapports du comité, et la nature des dossiers et des rapports qui doivent être soumis au comité consultatif.
+
+## CHAPITRE VIII. - Moyens financiers.
+
+#### Art. 27
+
+L'agence autonomisée peut disposer des recettes suivantes :
+
+1° des dotations;
+
+2° des dons et legs en espèces;
+
+3° des recettes des propres participations et des prêts octroyés par l'agence à des tiers;
+
+4° des profits de la vente de propres participations;
+
+5° des recettes résultant des actes de gestion ou de disposition relatifs aux immeubles domaniaux propres;
+
+6° les subventions pour lesquelles l'agence entre en ligne de compte;
+
+7° des recettes de sponsoring;
+
+8° le recouvrement de paiements effectués indûment;
+
+9° les contributions de personnes pour qui une aide est organisée ou de débiteurs alimentaires;
+
+10° les indemnités pour d'autres prestations à des tiers, selon les conditions fixées dans le contrat de gestion;
+
+11° des prêts.
+
+Sauf dispositions contraires dans un décret, les recettes mentionnées à l'alinéa premier sont considérées comme des recettes destinées aux dépenses communes.
+
+#### Art. 28
+
+L'agence peut accepter des dons et des legs. Le chef de l'agence évalue préalablement l'opportunité et les risques liés à l'acceptation.
+
+#### Art. 29
+
+L'agence est autorisée à constituer un fonds de réserve. Dans le budget, le fonds de réserve se situe au niveau de la totalité de l'agence.
+
+L'agence peut utiliser les moyens du fonds de réserve pour les tâches suivantes :
+
+1° pour les tâches visées aux articles 5 et 6, et pour les tâches dont le Gouvernement flamand charge l'agence en application de l'article 7;
+
+2° pour l'acquisition et la gestion du patrimoine utilisé pour la réalisation des tâches visées aux articles 5 et 6, et des tâches dont le Gouvernement flamand charge l'agence en application de l'article 7.
+
+L'alimentation du fonds de réserve dépend d'une autorisation par le Parlement flamand dans le budget annuel. Cette autorisation ne peut concerner que la partie des crédits de dépenses qui est attribuée à l'agence dans le budget et qui n'est pas utilisée pendant l'année budgétaire même.
+
+## CHAPITRE IX. - Dispositions pénales.
+
+#### Art. 30
+
+Sans préjudice de l'application des peines prévues au Code pénal, sera puni d'un emprisonnement de huit jours à trois mois et d'une amende de 26 à 500 euros ou d'une de ces peines seulement :
+
+1° celui qui exerce une activité dans une structure ou qui y est associé et qui assure la gestion des fonds ou des biens d'une personne handicapée faisant appel à cette structure, à l'exception des cas fixés par le Gouvernement flamand;
+
+2° celui qui impose, à la personne handicapée, comme condition préalable à l'accueil ou au séjour dans une structure ou à l'accompagnement par une structure, le paiement d'une caution ou une autre obligation financière, excepté les cas fixés par le Gouvernement flamand;
+
+3° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 35, 011; En vigueur : 01-01-2015&gt;
+
+## CHAPITRE X. - Coordination.
+
+#### Art. 31
+
+§ 1er. Le Gouvernement flamand est chargé de modifier, compléter, remplacer ou abroger les dispositions légales et décrétales existantes relatives à l'agence, afin de les mettre en concordance avec les dispositions du présent décret [<sup>1</sup> ...]<sup>1</sup>.
+
+Les arrêtés pris à cet effet, cessent d'être en vigueur s'ils n'ont pas été ratifiés par décret dans les neuf mois suivant la date de leur entrée en vigueur. Le sanctionnement rétroagit à cette dernière date.
+
+La compétence assignée au Gouvernement flamand à cet effet, échoit neuf mois après l'entrée en vigueur du présent décret. Après cette date, les arrêtés établis et ratifiés en vertu du présent paragraphe ne peuvent être modifiés, complétés, remplacés ou abrogés que par décret.
+
+Le Gouvernement flamand peut coordonner les dispositions des décrets relatifs à l'agence, ainsi que les dispositions qui y ont expressément ou tacitement apporté des modifications jusqu'au moment de la coordination. A cet effet, il peut :
+
+1° réorganiser, notamment reclasser et renuméroter les dispositions à coordonner;
+
+2° renuméroter en conséquence les références dans les dispositions à coordonner;
+
+3° réécrire les dispositions à coordonner en vue de la concordance et l'harmonie de la terminologie, sans toucher aux principes y contenus.
+
+La coordination n'entre en vigueur qu'après sa ratification par décret.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.107, 017; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE XI. - Dispositions transitoires et finales.
+
+#### Art. 32
+
+Les règlements suivants sont abrogés :
+
+1° la loi du 16 avril 1963 relative au reclassement social des handicapés, modifiée par l'arrêté royal n° 27 du 27 juin 1967, les lois des 10 octobre 1967 et 21 novembre 1969, l'arrêté royal n° 14 du 23 octobre 1978, les lois des 6 juillet 1989, 22 décembre 1989 et 16 juillet 1990, et l'arrêté royal du 28 juin 1984, à l'exception de l'article 21;
+
+2° l'arrêté royal n° 81 du 10 novembre 1967 créant un Fonds de soins médico-socio-pédagogiques pour handicapés, modifié par les décrets des 20 décembre 1989, 22 décembre 1993 et 4 mai 1994, et par l'arrêté du Gouvernement flamand du 24 juillet 1991;
+
+3° le décret du 27 juin 1990 portant création d'un Fonds flamand pour l'intégration sociale des personnes handicapées, modifié par les décrets des 25 juillet 1992, 22 décembre 1993, 23 février 1994, 4 mai 1994, 21 décembre 1994, 15 juillet 1997, 7 juillet 1998, 30 mars 1999, 17 juillet 2000, 21 décembre 2001 et 8 mai 2002.
+
+#### Art. 33
+
+§ 1er. L'article 582, 2°, du Code judiciaire, complété par le décret du 12 novembre 1997 pour ce qui concerne la Communauté flamande, est complété par les mots " et par le décret du 7 mai 2004 portant création de la " Vlaams Agentschap voor personen met een Handicap " (Agence flamande pour les Personnes handicapées) ".
+
+§ 2. Les réclamations visées à l'article 582 du Code juridique sont, sous peine de non-recevabilité, introduites dans les trois mois à compter de la date de réception de la décision contestée. [<sup>1</sup> Le Gouvernement flamand établit le taux des honoraires et des frais pour les experts qui sont désignés dans le cadre des expertises médicales lors des actions, visées à l'article 582 du Code judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 36, 011; En vigueur : 01-01-2015&gt;
+
+#### Art. 33 DROIT FUTUR.
+
+§ 1er. L'article 582, 2°, du Code judiciaire, complété par le décret du 12 novembre 1997 pour ce qui concerne la Communauté flamande, est complété par les mots " et par le décret du 7 mai 2004 portant création de la " Vlaams Agentschap voor personen met een Handicap " (Agence flamande pour les Personnes handicapées) ".
+
+§ 2. Les réclamations visées à l'article 582 du Code juridique sont, sous peine de non-recevabilité, introduites dans les trois mois à compter de la date de réception de la décision contestée. [<sup>1</sup> Le Gouvernement flamand établit le taux des honoraires et des frais pour les experts qui sont désignés dans le cadre des expertises médicales lors des actions, visées à l'article 582 du Code judiciaire.]<sup>1</sup>
+
+[<sup>2</sup> Si la personne handicapée utilise les possibilités de recours visées à l'article 8, alinéa 1er, 5°, contre l'affectation par l'agence, les réclamations ne sont introduites, par dérogation à l'alinéa 1er, qu'après épuisement des possibilités de recours et sous peine d'irrecevabilité dans un délai de trois mois à compter de la date à laquelle la personne handicapée ou son représentant légal a reçu la décision relative au recours.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/J0, art. 36, 011; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2025-12-19/84, art. 11, 020; En vigueur : 01-01-2028&gt;
+
+#### Art. 34
+
+Pour les titulaires actuels du rang A2L de l'auteur de l'agence, il est prévu une fonction d'adjoint - dit directeur général - jusqu'à ce qu'il est désigné dans une autre fonction ou quitte l'agence ou son auteur.
+
+#### Art. 35
+
+Sauf dispositions contraires, le budget et les comptes sont rédigés et approuvés, et le contrôle par la Cour des Comptes est effectué conformément aux dispositions de la loi du 16 mars 1954 relative au contrôle des organismes d'intérêt public de la catégorie A.
+
+#### Art. 36
+
+Le Gouvernement flamand fixe la date d'entrée en vigueur du présent décret.
+
+(NOTE : Entrée en vigueur fixée le 01-04-2006 par AGF 2006-03-31/54, art. 77, 2°,à l'exception de :
+
+a) l'article 32, 1° et 2°;
+
+b) l'article 32, 3°, dans la mesure où il s'agit des dispositions mentionnées à l'article 62 d'AGF 2006-03-31/54)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.

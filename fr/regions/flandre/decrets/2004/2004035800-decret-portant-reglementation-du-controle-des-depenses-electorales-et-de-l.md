@@ -1,0 +1,171 @@
+---
+title: "[Décret portant réglementation du contrôle des dépenses électorales et de l'origine des fonds engagés pour l'élection du Parlement flamand.] <DCFL 2011-07-08/24 , art. 279, 004; En vigueur : 04-09-2011> (TRADUCTION)"
+identifier: "2004035800"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035800/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2004-05-07
+published: 2004-05-28
+entry_into_force: 2004-05-28
+last_amended: 2011-08-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035800/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 28-05-2004 et mise à jour au 25-08-2011"
+retrieved: 2026-10-12
+---
+
+# 7 MAI 2004. - [Décret portant réglementation du contrôle des dépenses électorales et de l'origine des fonds engagés pour l'élection du Parlement flamand.] &lt;DCFL 2011-07-08/24 , art. 279, 004; En vigueur : 04-09-2011&gt; (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+décret réglant le contrôle des dépenses électorales et l'origine des fonds engagés pour l'élection du Parlement flamand.
+
+## CHAPITRE Ier. - Dispositions générales.
+
+### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° la loi du 19 mai 1994 : la loi du 19 mai 1994 réglementant la campagne électorale, concernant la limitation et la déclaration des dépenses électorales engagées pour les élections (du Parlement flamand, du Parlement wallon, du Parlement de la Région de Bruxelles-Capitale et du Parlement) de la Communauté germanophone, et fixant le critère de contrôle des communications officielles des autorités publiques; &lt;DCFL 2006-06-23/49, art. 54, 003; En vigueur : 30-11-2006&gt;
+
+2° la loi du 4 juillet 1989 : la loi relative du 4 juillet 1989 à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales ainsi qu'au financement et à la comptabilité ouverte des partis politiques;
+
+3° le Code électoral : le Code électoral du 12 avril 1894;
+
+4° le bureau principal : le bureau principal de la circonscription électorale tel que visé à l'article 26quater de la loi spéciale du 8 août 1980 de réformes institutionnelles, et le bureau régional en ce qui concerne la circonscription électorale de Bruxelles, tel que visé à l'article 16 de la loi spéciale du 12 janvier 1989 relatives aux Institutions bruxelloises.
+
+### Art. 3
+
+Il est institué au sein du Parlement flamand une Commission flamande de Contrôle des Dépenses électorales, ci-après dénommée Commission de Contrôle des Dépenses électorales.
+
+Le règlement du Parlement flamand détermine la composition et le fonctionnement de la Commission de Contrôle des Dépenses électorales.
+
+## CHAPITRE II. - Contrôle des dépenses électorales et origine des fonds.
+
+### Art. 4
+
+Immédiatement après la réception des rapports des présidents des bureaux principaux, visés à l'article 94ter, § 2, du Code électoral, le président du Parlement flamand transmet une copie de ces rapports à la Cour des Comptes. La Cour des Comptes formule, dans les trente jours de la réception, un avis sur l'exactitude et l'exhaustivité des rapports et sur les montants totaux des dépenses électorales engagées par les candidats et les partis.
+
+L'avis de la Cour des Comptes est annexé au rapport final visé à l'article 6.
+
+### Art. 5
+
+La Commission de Contrôle des Dépenses électorales examine, dans le respect des droits de la défense et après avoir pris connaissance de l'avis de la Cour des Comptes, les rapports des présidents des bureaux principaux, visés à l'article 4.
+
+La Commission de Contrôle des Dépenses électorales demande toutes les informations complémentaires qu'elle estime nécessaires à l'accomplissement de sa tâche de contrôle.
+
+### Art. 6
+
+Au plus tard 180 jours suivant le jour des élections, la Commission de Contrôle des Dépenses électorales approuve, en réunion publique, un rapport final sur ses activités.
+
+Le rapport final mentionne :
+
+1° une évaluation de l'exactitude et l'exhaustivité des rapports visés à l'article 4;
+
+2° le montant total des dépenses électorales de chaque parti politique et l'origine des fonds qui ont été utilisés à cet effet;
+
+3° le montant total des dépenses électorales de chaque candidat et l'origine des fonds qui ont été utilisés à cet effet;
+
+4° les informations visées au 2° et 3° relatives aux autres élections organisées le jour de l'élection du Parlement flamand;
+
+5° les montants qui, le cas échéant, sont imputés aux dépenses électorales des candidats et les sanctions imposées, après que les communications, telles que visées à l'article 4bis de la loi du 4 juillet 1989 et à l'article 12 de la loi du 19 mai 1994, ont été vérifiées respectivement par les Chambres législatives ou l'organe désigné par eux, ou par les assemblées communautaires ou régionales ou l'organe désigné par eux;
+
+6° toute infraction visée à l'article 10, § 1er, de la loi du 19 mai 1994, y compris, le cas échéant, la décision d'introduire une réclamation devant le procureur du Roi;
+
+7° toute infraction visée à l'article 2, § 1er, et à l'article 5, § 1er, de la loi du 19 mai 1994, y compris, le cas échéant, les sanctions constatées par la Commission de Contrôle des Dépenses électorales en vertu de l'article 7 du présent décret.
+
+Préalablement à l'approbation du rapport final, la Commission de Contrôle des Dépenses électorales vote séparément les matières visées au deuxième alinéa, 6° et 7°.
+
+Le président du Parlement flamand envoie le rapport final de la Commission de Contrôle des Dépenses électorales sans délai aux services du Moniteur belge qui le publieront au Moniteur belge au plus tard 30 jours après la réception.
+
+## CHAPITRE III. - Sanctions.
+
+### Art. 7
+
+Pendant une période fixée par la Commission de Contrôle des Dépenses électorales qui dure au moins deux mois et au plus huit mois, un parti politique perd le droit au financement supplémentaire des partis alloué par le Parlement flamand, s'il :
+
+1° n'a pas introduit la déclaration, visée à l'article 6, premier alinéa, 2°, de la loi du 19 mai 1994;
+
+2° dépasse le montant maximal consenti par l'article 2, § 1er, de la loi du 19 mai 1994;
+
+3° contrevient aux dispositions prohibitives visées à l'article 5, § 1er, de la loi du 19 mai 1994.
+
+### Art. 8
+
+Le président du Parlement flamand transmet sans délai au parti politique à l'encontre duquel la Commission de Contrôle des Dépenses électorales a pris une sanction, un exemplaire du rapport final de la Commission de Contrôle des Dépenses électorales.
+
+## CHAPITRE IIIbis. - Dispositions spécifiques applicables aux élections des conseils provinciaux, des conseils communaux et des conseils de district en Région flamande. [<sup>1</sup> abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8bis
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8ter
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8quater
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8quinquies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8sexies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8septies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8octies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8novies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8decies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8undecies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8duodecies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+### Art. 8terdecies
+
+&lt;Abrogé par DCFL 2011-07-08/24, art. 283, 004; En vigueur : 04-09-2011&gt;
+
+## CHAPITRE IV. - Dispositions finales.
+
+### Art. 9
+
+Le décret du 3 mars 2004 réglant le contrôle des dépenses électorales engagées pour les élections du Parlement flamand, est abrogé.
+
+### Art. 10
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 mai 2004.
