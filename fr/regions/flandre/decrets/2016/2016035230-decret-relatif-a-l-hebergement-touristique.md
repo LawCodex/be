@@ -1,0 +1,387 @@
+---
+title: "Décret relatif à l'hébergement touristique"
+identifier: "2016035230"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2016/02/05/2016035230/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2016-02-05
+published: 2016-03-08
+entry_into_force: 2017-04-01
+last_amended: 2024-06-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2016/02/05/2016035230/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 08-03-2016 et mise à jour au 17-06-2024"
+retrieved: 2026-10-12
+---
+
+# 5 FEVRIER 2016. - Décret relatif à l'hébergement touristique
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+### Art. 1er
+
+Le présent décret règle une matière régionale.
+
+### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° touriste : toute personne qui, pour les loisirs, la détente, le développement personnel, la profession ou les affaires, se rend dans ou séjourne dans un environnement autre que son environnement quotidien ;
+
+2° hébergement touristique : toute construction, tout établissement, tout espace ou terrain, sous quelle que forme que ce soit, offrant à un ou plusieurs touristes, contre paiement, la possibilité de séjourner pour une ou plusieurs nuits, et qui est mis à disposition sur le marché touristique ;
+
+3° mettre à disposition sur marché touristique : proposer sous quelle que forme que ce soit au public un hébergement touristique, soit comme exploitant, soit par l'entremise d'un intermédiaire ;
+
+4° exploitant : toute personne physique ou morale qui exploite un hébergement touristique tel que visé au 2°, pour le compte de laquelle un hébergement touristique est exploité ou qui est autorisée à l'exploiter sur la base d'un accord d'exploitation valable ;
+
+5° intermédiaire : toute personne physique ou morale qui, contre rémunération, intervient pour mettre à disposition un hébergement touristique sur le marché touristique, pour assurer la promotion touristique d'un hébergement touristique ou pour proposer des services par voie desquels les exploitants et les touristes peuvent entrer directement en contact les uns avec les autres ;
+
+6° " Toerisme Vlaanderen " : l'agence autonomisée interne dotée de la personnalité juridique, créée par le décret du 19 mars 2004.
+
+### Art. 3
+
+Le présent décret n'est pas d'application aux hébergements touristiques suivants :
+
+1° aux terrains sur lequel le camping est pratiqué pendant au maximum 75 jours calendaires dans le cadre d'un événement ou par des groupes organisés de campeurs qui sont surveillés par un ou plusieurs accompagnateurs. Le propriétaire ou l'exploitant du terrain informe le bourgmestre de la commune où se situe le terrain, au préalable et par écrit lorsque le terrain est utilisé en tant que tel ;
+
+2° [<sup>1</sup> ...]<sup>1</sup>;
+
+3° à la zone de bivouac, dans la mesure où celle-ci est désignée dans un règlement d'accessibilité conformément au et en exécution du Décret forestier du 13 juin 1990 ou du décret du 21 octobre 1997 relatif à la conservation de la nature et le milieu naturel ;
+
+4° à l'établissement utilisé pour les activités d'une initiative d'animation des jeunes, agréée, subventionnée ou organisée par la Communauté flamande ou par les pouvoirs locaux, dans lequel il est séjourné ou à côté duquel le camping s'est pratiqué pendant au maximum soixante jours calendaires par an par des groupes de jeunes organisés qui sont surveillés par un ou plusieurs accompagnateurs. Le propriétaire ou l'exploitant de l'établissement informe le bourgmestre de la commune où se situe l'établissement, au préalable et par écrit lorsque l'établissement est utilisé en tant que tel.
+
+----------
+
+(1)&lt;DCFL 2022-02-11/07, art. 2, 005; En vigueur : 01-04-2017&gt;
+
+### Art. 4
+
+Un hébergement touristique situé en Région flamande ne peut être exploité que lorsqu'il satisfait aux conditions suivantes :
+
+1° [<sup>1</sup> l'hébergement touristique répond aux normes spécifiques en matière de protection contre l'incendie fixées par le Gouvernement flamand ; ]<sup>1</sup>
+
+2° les espaces accessibles aux touristes de l'hébergement touristique se trouvent dans un état suffisant de propreté et d'entretien. Toerisme Vlaanderen peut recueillir l'avis de l'autorité compétente en la matière sur cette condition ;
+
+3° la durée du séjour dans l'hébergement touristique mis à disposition sur le marché touristique ne peut être inférieure à une nuit ;
+
+4° l'exploitant dispose d'une assurance couvrant la responsabilité civile pour tous les dommages causés par lui-même ou ses préposés lors de l'exploitation de l'hébergement touristique ;
+
+5° l'exploitant ou la personne chargée de la gestion journalière ou de fait de l'hébergement touristique, ne peut être condamné en Belgique, par une décision judiciaire coulée en force de chose jugée pour une des infractions visées au livre II, titre VII, chapitres V, VI et VII, titre VIII, chapitres Ier, IV et VI, et titre IX, chapitres Ier et II, du Code pénal, ou condamné à l'étranger pour un fait correspondant à la qualification de l'une de ces infractions, sauf en cas de condamnation avec sursis et si l'intéressé n'a pas perdu le bénéfice du sursis ou sauf si l'intéressé n'a pas été gracié. Toerisme Vlaanderen peut demander à tout moment un extrait du casier judiciaire, délivré au nom de l'exploitant ou, le cas échéant, de la personne chargée de la gestion journalière ou de fait de l'hébergement touristique. La date de délivrance de cet extrait ne peut précéder de plus de trente jours calendaires la date de la demande. L'extrait du casier judiciaire peut être remplacé par tout document, délivré par l'autorité compétente à cet effet dans l'Etat d'origine ou de provenance de l'intéressé, qui a un but similaire ou dont il apparaît qu'il est satisfait aux mêmes conditions ;
+
+6° l'exploitant dispose d'un titre de propriété valide de l'hébergement touristique ou d'un contrat valide sur la base duquel l'exploitant est autorisé à exploiter l'hébergement touristique ;
+
+7° [<sup>1</sup> l'hébergement touristique répond aux conditions d'ouverture et d'exploitation fixées par le Gouvernement flamand et portant sur l'équipement, l'aménagement, les aspects de sécurité spécifiques de l'hébergement touristique et les informations qui doivent être mises à disposition des touristes et la façon selon laquelle celles-ci doivent être mises à disposition ;]<sup>1</sup>
+
+8° si l'hébergement touristique est proposé au marché touristique sous une dénomination déterminée par le Gouvernement flamand, l'hébergement doit satisfaire aux conditions supplémentaires correspondantes d'ouverture et d'exploitation fixées par le Gouvernement flamand.
+
+Un hébergement touristique peut être proposé au marché touristique sous différentes dénominations à condition que l'hébergement satisfasse aux conditions supplémentaires correspondantes d'ouverture et d'exploitation de cette dénomination. Toerisme Vlaanderen peut accorder une dérogation motivée à une ou plusieurs conditions supplémentaires d'ouverture ou d'exploitation ;
+
+9° [<sup>1</sup>[<sup>2</sup> l'hébergement touristique a été créé et est exploité conformément à la réglementation en matière d'aménagement du territoire et aux règles urbanistiques en vigueur]<sup>2</sup>;]<sup>1</sup>
+
+[<sup>2</sup> 10° l'hébergement touristique a été déclaré conformément à l'article 5. ]<sup>2</sup>
+
+[<sup>1</sup> Les normes en matière de protection contre l'incendie, visées à l'alinéa 1er, 1°, peuvent varier en fonction de la nature de l'exploitation de l'hébergement et de la capacité de l'hébergement touristique. Le Gouvernement flamand détermine les conditions et la manière dont il peut être dérogé à ces normes spécifiques en matière de protection contre l'incendie. Le respect des normes spécifiques en matière de protection contre l'incendie est contrôlé sur place par le service incendie compétent ou, si le Gouvernement flamand le détermine ainsi, par un autre service ou organisme désigné par le Gouvernement flamand. Le respect des normes spécifiques en matière de protection contre l'incendie est établi dans une attestation de sécurité d'incendie qui est délivrée par le bourgmestre de la commune où l'hébergement touristique se situe, ou si le Gouvernement flamand le détermine ainsi, par un autre service ou organisme désigné par le Gouvernement flamand. Si l'hébergement touristique ne satisfait pas entièrement aux normes spécifiques en matière de protection contre l'incendie, mais la sécurité des touristes hébergés, du personnel et des visiteurs n'est pas gravement compromise, le Gouvernement flamand peut prévoir une attestation de sécurité d'incendie temporaire. Dans ce cas, le Gouvernement flamand peut également fixer les conditions d'octroi d'une attestation de sécurité d'incendie temporaire. Le Gouvernement flamand détermine les modèles, le mode de délivrance et la durée de validité des attestations. L'exploitant d'un hébergement touristique peut former recours contre la décision de refus d'une attestation de sécurité d'incendie ou contre l'absence d'une pareille décision. Une Commission technique Sécurité Incendie pour l'hébergement touristique est créée en vue du traitement des recours et des demandes de dérogation aux normes spécifiques en matière de protection contre l'incendie, et de la décision à leur sujet. Le Gouvernement flamand fixe la composition et le fonctionnement de la Commission technique Sécurité Incendie pour l'hébergement touristique. Le recours et la demande de dérogation aux normes spécifiques en matière de protection contre l'incendie sont traités dans le délai et selon la procédure déterminés par le Gouvernement flamand.
+
+VISITFLANDERS peut accorder une dérogation motivée à une ou plusieurs conditions d'ouverture ou d'exploitation telles que visées à l'alinéa 1er, 7°. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-03-10/11, art. 2, 002; En vigueur : 01-04-2017&gt;
+
+(2)&lt;DCFL 2022-02-11/07, art. 3, 005; En vigueur : 01-04-2017&gt;
+
+### Art. 5
+
+[<sup>1</sup> L'exploitant ou la personne préposée à cet effet déclare l'exploitation de l'hébergement touristique auprès de Toerisme Vlaanderen. Le Gouvernement flamand détermine les modalités de cette déclaration.
+
+Toerisme Vlaanderen peut révoquer la déclaration s'il s'avère que l'hébergement touristique ne satisfait pas ou plus aux conditions visées à l'article 4, alinéa premier, 1° à 9°.
+
+Toerisme Vlaanderen met un registre des hébergements touristiques déclarés à la disposition du public. Ce registre mentionne les données suivantes :
+
+1° la dénomination sous laquelle l'hébergement touristique est proposé sur le marché du tourisme ;
+
+2° la situation de l'hébergement touristique ;
+
+3° la capacité de l'hébergement touristique ;
+
+4° le type d'hébergement ou, le cas échéant, la ou les dénomination(s) protégée(s) sous la(les)quelle(s) l'hébergement touristique est proposé sur le marché du tourisme ;
+
+5° les éventuels agréments et catégories de confort attribués à l'hébergement touristique sur la base du présent décret ;
+
+6° la date de la déclaration et de l'éventuel agrément de l'hébergement touristique ;
+
+7° le numéro de téléphone, l'adresse électronique et le site web de l'hébergement touristique tels que renseignés lors de la déclaration de ce dernier ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-02-11/07, art. 4, 005; En vigueur : 01-04-2017&gt;
+
+## CHAPITRE 2. - Agrément d'un hébergement touristique
+
+### Art. 6
+
+§ 1er. L'exploitant d'un hébergement touristique peut déposer volontairement une demande d'agrément à Toerisme Vlaanderen pour son hébergement touristique. Un agrément peut être obtenu tant comme hébergement touristique que sous une dénomination à déterminer en application de l'article 4, 8°. Cet agrément est obtenu si, après contrôle sur les lieux, il est constaté que l'hébergement touristique répond aux conditions visées à l'article 4, 1° à 9°.
+
+§ 2. La procédure d'octroi, de refus, de retrait ou de suspension de l'agrément est déterminée par le Gouvernement flamand.
+
+[<sup>1</sup> § 2/1. En cas d'ordre d'arrêt de l'exploitation de l'hébergement touristique, tel que visé à l'article 14, l'agrément et l'éventuelle catégorie de confort de l'hébergement touristique sont déchus de plein droit. ]<sup>1</sup>
+
+§ 3. Le même hébergement touristique peut obtenir un ou plusieurs agréments sous une dénomination à déterminer en application de l'article 4, 8°.
+
+§ 4. Pour la délivrance d'un agrément, une indemnité peut être réclamée. Le Gouvernement flamand précise la hauteur de l'indemnité.
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 6. Toerisme Vlaanderen transmet un panonceau d'agrément à chaque hébergement touristique agréé. Le panonceau d'agrément est affiché en un lieu aisément visible par le public. Le Gouvernement flamand détermine le modèle du panonceau d'agrément et les droits de reproduction du titulaire. Le panonceau d'agrément reste la propriété de Toerisme Vlaanderen.
+
+En cas de cessation de l'exploitation ou à la demande de Toerisme Vlaanderen, l'exploitant doit renvoyer le panonceau d'agrément dans les quatorze jours calendaires. Le vol, la perte ou la destruction du panonceau d'agrément doit être dénoncé à la police locale. L'exploitant reçoit un nouveau panonceau d'agrément s'il peut fournir un récépissé de déclaration.
+
+§ 7. Personne ne peut utiliser le panonceau d'agrément ou d'autres dessins ou panonceaux qui réfèrent au panonceau d'agrément, s'il ne dispose pas de l'agrément y afférent.
+
+----------
+
+(1)&lt;DCFL 2022-02-11/07, art. 5, 005; En vigueur : 01-04-2017&gt;
+
+(2)&lt;DCFL 2022-02-11/07, art. 6, 005; En vigueur : 01-04-2017&gt;
+
+## CHAPITRE 3. - Classement d'un hébergement touristique
+
+### Art. 7
+
+§ 1er. L'exploitant d'un hébergement touristique agréé peut décider librement de s'engager dans une démarche pour faire classer son hébergement touristique dans une catégorie de confort. Les normes de classement des hébergements touristiques en catégories de confort sont déterminées par le Gouvernement flamand. Le cas échéant, les normes de la catégorie de confort la plus basse correspondent aux conditions d'ouverture et d'exploitation visées à l'article 4, 7° et 8°. La catégorie de confort est accordée par Toerisme Vlaanderen, ou, si le Gouvernement flamand le détermine ainsi, par un autre service ou organisme désigné par le Gouvernement flamand. Toerisme Vlaanderen, ou ce service ou cet organisme, peut accorder une dérogation motivée à une ou plusieurs normes de classement des catégories de confort.
+
+§ 2. La procédure d'octroi, de refus, de retrait ou de suspension de la catégorie de confort et la dérogation à une ou plusieurs normes de classement des catégories de confort est fixée par le Gouvernement flamand.
+
+§ 3. Si un hébergement touristique dispose de plusieurs agréments, il peut obtenir une catégorie de confort pour chaque agrément.
+
+§ 4. Pour le classement dans une catégorie de confort, une indemnité peut être réclamée. Le Gouvernement flamand précise la hauteur de l'indemnité.
+
+§ 5. Le cas échéant, le panonceau d'agrément visé à l'article 6, § 6 mentionne la catégorie de confort attribuée.
+
+§ 6. L'exploitant de l'hébergement touristique qui a obtenu une catégorie de confort sur la base du présent décret, ne peut proposer sur le marché touristique son hébergement touristique en prétendant détenir une autre catégorie de confort que celle qui lui était reconnue sur la base du présent décret ni afficher un panonceau référant à une autre catégorie de confort.
+
+L'exploitant de l'hébergement touristique qui n'est pas classifié sur la base du présent décret, ne peut proposer sur le marché touristique son hébergement touristique d'une manière qui pourrait donner l'impression que l'hébergement touristique dispose d'une catégorie de confort attribuée sur la base du présent décret.
+
+### Art. 8
+
+Toerisme Vlaanderen ou, le cas échéant, le service ou l'organisme désigné par le Gouvernement flamand peut également, après contrôle sur les lieux, déterminer d'office la catégorie de confort d'un hébergement touristique, quand bien même cet hébergement touristique ne dispose pas d'un agrément ou aucune demande de catégorie de confort n'a été déposée.
+
+## CHAPITRE 4. - Procédure de recours
+
+### Art. 9
+
+§ 1er. L'exploitant d'un hébergement touristique peut introduire un recours auprès d'une commission de recours pour l'hébergement touristique contre les décisions suivantes:
+
+1° la décision de refus, de suspension ou de retrait de l'agrément ;
+
+2° la décision de refus, de suspension ou de retrait de la catégorie de confort attribuée ;
+
+3° la catégorie de confort obtenue.
+
+[<sup>1</sup> 4° la révocation de la déclaration.]<sup>1</sup>
+
+Le Gouvernement flamand détermine la composition et le fonctionnement de la commission de recours pour l'hébergement touristique.
+
+Le recours est traité dans le délai et suivant la procédure déterminée le Gouvernement flamand. Le droit de défense, notamment le droit d'être entendu, est garanti par cette procédure.
+
+§ 2. Le recours contre la décision de suspension ou de retrait de l'agrément [<sup>1</sup> et contre la révocation de la déclaration]<sup>1</sup> est suspensif, sauf si la décision est basée sur l'article 4, 1° ou 5°.
+
+§ 3. Dans la décision sur le recours, des dérogations aux conditions d'ouverture et d'exploitation, visées à l'article 4, 7° et 8°, et aux normes pour le classement des hébergements touristiques en catégories de confort, visées à l'article 7, § 1er, peuvent être accordées.
+
+§ 4. L'exploitant d'un hébergement touristique qui ne dispose pas d'un agrément ou d'une catégorie de confort peut également demander auprès d'une commission de recours pour son hébergement touristique des dérogations aux conditions d'ouverture et d'exploitation, visées à l'article 4, 7° et 8°, et aux normes de classement, visées à l'article 7, § 1er. La demande de dérogation est traitée dans le même délai et suivant la même procédure visée au paragraphe 1er.
+
+----------
+
+(1)&lt;DCFL 2022-02-11/07, art. 7, 005; En vigueur : 01-04-2017&gt;
+
+## CHAPITRE 4/1. [<sup>1</sup> Label " Toerisme voor Allen " (" Tourisme pour Tous ") ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-11/07, art. 8, 005; En vigueur : 01-04-2017&gt;
+
+### Art. 9/1.
+
+[<sup>1</sup> Toerisme Vlaanderen attribue le label " Toerisme voor Allen " (" Tourisme pour Tous ") :
+
+1° aux hébergements touristiques qui ont été déclarés comme " résidence pour jeunes " conformément aux dispositions du présent décret ; ou
+
+2° aux hébergements touristiques qui ont été déclarés comme " hôtel pour jeunes " conformément aux dispositions du présent décret, et qui réalisent au moins 70 % de nuitées pour des enfants et des jeunes jusqu'à 30 ans inclus. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-11/07, art. 8, 005; En vigueur : 01-04-2017&gt;
+
+## CHAPITRE 5. [<sup>1</sup> Maintien]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 117, 006; En vigueur : 01-04-2026&gt;
+
+### Art. 10
+
+[<sup>1</sup> Le Décret-cadre Maintien flamand du 14 juillet 2023, y compris le chapitre 10, sections 8 et 10, s'applique au présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 118, 006; En vigueur : 01-04-2026&gt;
+
+### Art. 11
+
+[<sup>1</sup> Les intermédiaires communiquent, sur demande écrite, pour les hébergements touristiques situés en Région flamande pour lesquels ils se posent en intermédiaire ou mènent une politique de promotion, les données de l'exploitant et les coordonnées des hébergements touristiques aux superviseurs compétents.
+
+Les données visées à l'alinéa premier peuvent être collectées dans les cas suivants :
+
+1° par voie de sondage afin de vérifier si les hébergements touristiques pour lesquels l'intermédiaire se pose en intermédiaire ou mène une politique de promotion ont été déclarés auprès de Toerisme Vlaanderen. Lors d'un sondage, on collecte au maximum les données de tous les exploitants et hébergements touristiques d'une même ville ou commune. Plusieurs sondages peuvent être réalisés pour le même intermédiaire ;
+
+2° lorsque l'on doute qu'un hébergement touristique pour lequel l'intermédiaire se pose en intermédiaire ou mène une politique de promotion satisfasse aux conditions visées dans le présent décret et dans ses arrêtés d'exécution ;
+
+3° en cas de plainte émise à l'encontre d'un hébergement touristique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 119, 006; En vigueur : 01-04-2026&gt;
+
+### Art. 12
+
+§ 1er. Une amende administrative de 250 à 25.000 euros peut être imposée à:
+
+1° [<sup>1</sup> l'exploitant d'un hébergement touristique en Région flamande qui ne répond pas aux conditions visées à l'article 4, alinéa premier, 1° à 8° et 10° ]<sup>1</sup>;
+
+2° l'exploitant d'un hébergement touristique qui est indûment titulaire ou qui s'est approprié indûment du panonceau d'agrément visé à l'article 6, § 6, qui donne indûment l'impression que son hébergement touristique est agréé sur la base du présent décret, qui utilise indûment la catégorie de confort visée à l'article 7, § 1er, ou qui donne indûment l'impression qu'il dispose de la catégorie de confort sur la base du présent décret ;
+
+3° l'intermédiaire qui ne donne pas suite à la demande écrite visée à l'article 11 de communiquer les données de l'exploitant ou les coordonnées de l'hébergement touristique pour lequel il se pose en intermédiaire ou soutient la promotion.
+
+§ 2. [<sup>2</sup> Si une nouvelle infraction est constatée dans les cinq ans à compter de la date du rapport de constatation, les montants, visés au paragraphe 1er, sont doublés]<sup>2</sup>.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 6. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 7. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 8. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 9. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-02-11/07, art. 10, 005; En vigueur : 01-04-2017&gt;
+
+(2)&lt;DCFL 2024-04-26/52, art. 120, 006; En vigueur : 01-04-2026&gt;
+
+### Art. 13
+
+[<sup>1</sup> Le Gouvernement flamand ou son mandataire désigne les membres du personnel de Toerisme Vlaanderen qui interviennent comme une instance de réparation telle que visée à l'article 2, 15°, du Décret-cadre Maintien flamand du 14 juillet 2023.
+
+Le Gouvernement flamand ou son mandataire désigne les membres du personnel de l'Autorité flamande qui interviennent comme instance verbalisante telle que visée à l'article 2, 3°, du Décret-cadre Maintien flamand du 14 juillet 2023.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 121, 006; En vigueur : 01-04-2026&gt;
+
+### Art. 14
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 122, 006; En vigueur : 01-04-2026&gt;
+
+### Art. 14/1.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 122, 006; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE 6. [<sup>1</sup> Octroi de subventions ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-02-11/07, art. 12, 005; En vigueur : 01-04-2017&gt;
+
+### Art. 15
+
+[<sup>1</sup> Des subventions peuvent être attribuées pour moderniser ou agrandir un hébergement touristique existant, et pour construire ou aménager un nouvel hébergement touristique. Le Gouvernement flamand détermine les modalités d'octroi ou de refus de ces subventions. ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-02-11/07, art. 12, 005; En vigueur : 01-04-2017&gt;
+
+## CHAPITRE 6/1. [<sup>1</sup> Comité consultatif de l'hébergement touristique ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-11/07, art. 13, 005; En vigueur : 12-09-2022&gt;
+
+### Art. 15/1.
+
+[<sup>1</sup> Un comité consultatif composé au moins des membres suivants est créé :
+
+1° représentants du secteur de l'hébergement touristique ;
+
+2° représentants des autorités locales ou provinciales ;
+
+3° un ou plusieurs spécialiste(s) ayant une expertise pertinente.
+
+Le comité consultatif conseille le ministre flamand qui a le tourisme dans ses attributions sur l'exécution du présent décret.
+
+Le Gouvernement flamand détermine la composition et le fonctionnement du comité consultatif. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-11/07, art. 13, 005; En vigueur : 12-09-2022&gt;
+
+## CHAPITRE 7. - Dispositions modificatives
+
+### Art. 16
+
+Dans l'article 4.2.1., 5°, c) du Code flamand de l'Aménagement du Territoire du 15 mai 2009, le membre de phrase " à l'exception du camping sur un terrain ayant fait l'objet d'un permis ou sur un terrain réservé aux activités récréatives en plein air et de ce fait exempt de l'obligation de permis, dans le sens du décret du 10 juillet 2008 relatif à l'hébergement touristique " est remplacé par le membre de phrase : " à l'exception du camping sur un hébergement touristique qui satisfait aux conditions visées à l'article 4 du décret du 5 février 2016 relatif à l'hébergement touristique ".
+
+## CHAPITRE 8. - Dispositions finales
+
+### Art. 17
+
+Le décret du 10 juillet 2008 relatif à l'hébergement touristique, modifié par les décrets des 23 décembre 2010, 8 juillet 2011 et 25 avril 2014 est supprimé.
+
+### Art. 18
+
+Pour un hébergement touristique qui, à la date de l'entrée en vigueur du présent décret, est notifié ou agréé au titre du décret du 10 juillet 2008 relatif à l'hébergement touristique, l'exploitant est exempté de l'obligation de l'article 5.
+
+### Art. 19
+
+§ 1er. Les exploitants d'un hébergement touristique qui, à la date de l'entrée en vigueur du présent décret, est agréé en vertu du décret du 10 juillet 2008 relatif à l'hébergement touristique, reçoivent dans un an de la date d'entrée en vigueur du présent décret un courrier écrit par Toerisme Vlaanderen, leur demandant de lui faire savoir s'ils veulent obtenir une catégorie de confort sur base du présent décret.
+
+L'agrément de l'hébergement touristique, le classement de l'hébergement touristique dans une catégorie de confort et le recours contre la décision de refus d'agrément ou de catégorie de confort ou contre la catégorie de confort obtenue, se déroule, le cas échéant, de la même manière et suivant la même procédure telles que visées aux articles 6 à 9.
+
+L'agrément et la catégorie de confort décernés à l'hébergement touristique sur base du décret du 10 juillet 2008 relatif à l'hébergement touristique, restent valables jusqu'à la date limite pour réagir imposée par Toerisme Vlaanderen et mentionnée dans la lettre visée à l'alinéa 1er. Toerisme Vlaanderen a accordé un délai de deux ans au maximum à l'exploitant pour réagir à sa demande.
+
+L'exploitant restitue à Toerisme Vlaanderen le panonceau d'agrément obtenu pour l'hébergement touristique en vertu du décret du 10 juillet 2008 relatif à l'hébergement touristique au plus tard soixante jours calendaires après la même date visée à l'alinéa 3.
+
+§ 2. Les hébergements touristiques qui, à la date d'entrée en vigueur du présent décret sont agréés comme exploitation en vertu du décret du 18 juillet 2003 relatif aux résidences et associations actives dans le cadre de " Toerisme voor Allen " (" Tourisme pour Tous "), doivent dans les trois ans après l'entrée en vigueur du présent décret satisfaire à ses dispositions.
+
+La disposition transitoire visée à l'alinéa 1er ne s'applique pas aux hébergements touristiques qui, au titre du décret du 10 juillet 2008 relatif à l'hébergement touristique, étaient agréés ou soumis à l'obligation d'autorisation comme hébergement touristique de la catégorie terrain de récréation en plein air.
+
+### Art. 20
+
+Le présent décret entre en vigueur à une date à fixer par le Gouvernement flamand.
+
+(NOTE : Entrée en vigueur fixée au 01-04-2017 par AGF 2017-03-17/10, art. 37,1°)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 5 février 2016.
+
+Le Ministre-Président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le Ministre flamand de la Mobilité, des Travaux publics, de la Périphérie flamande de Bruxelles, du Tourisme et du Bien-Etre des Animaux,
+
+B. WEYTS

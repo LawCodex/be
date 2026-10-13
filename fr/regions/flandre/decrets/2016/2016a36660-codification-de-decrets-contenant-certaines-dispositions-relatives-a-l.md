@@ -1,0 +1,4015 @@
+---
+title: "Codification de décrets contenant certaines dispositions relatives à l'enseignement"
+identifier: "2016A36660"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/28/2016A36660/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2016-10-28
+published: 2016-12-29
+entry_into_force: 2017-01-01
+last_amended: 2026-08-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/28/2016A36660/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 29-12-2016 et mise à jour au 18-08-2026"
+retrieved: 2026-10-12
+---
+
+# 28 OCTOBRE 2016. - Codification de décrets contenant certaines dispositions relatives à l'enseignement
+
+## PARTIE Ière. DISPOSITION INTRODUCTIVE
+
+**Art. I.1**
+
+La codification de certaines dispositions relatives à l'enseignement règle uniquement des matières communautaires.
+
+## PARTIE II. ENSEIGNEMENT ARTISTIQUE À TEMPS PARTIEL
+
+#### Chapitre 1er. Définitions
+
+**Art. II.1**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 2. Agrément, financement, subventionnement d'écoles
+
+**Art. II.2**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.3**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.4**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.5**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.6**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.7**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.8**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.9**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.10**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.11**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.12**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 3. Organisation et structure
+
+**Art. II.13**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.14**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.15**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.16**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.17**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.18**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.19**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.20**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.21**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 4. Normes
+
+**Art. II.22**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.23**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.24**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.25**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.26**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.27**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.28**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.29**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 5. Personnel à charge du budget de fonctionnement ou des fonds propres
+
+**Art. II.30**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 6. Droit d'inscription
+
+**Art. II.31**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.32**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.33**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.34**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.35**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.36**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.37**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.38**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 7. Qualifications professionnelles, compétences de base et objectifs finaux spécifiques
+
+**Art. II.39**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.40**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.41**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.42**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 8. Cadre administratif
+
+**Art. II.43**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 9. Budget de fonctionnement
+
+**Art. II.44**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.45**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.46**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 10. Utilisation des heures de cours
+
+**Art. II.47**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 11. Bonne administration
+
+**Art. II.48**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.49**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.50**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.51**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.52**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+#### Chapitre 12. Projets temporaires de l'enseignement artistique à temps partiel
+
+##### Section 1ère. Projets temporaires
+
+**Art. II.53**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.54**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159;L2, 003; En vigueur : 31-08-2019&gt;
+
+**Art. II.55**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.56**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+##### Section 2. Projet temporaire coopération régionale Zuid-Limburg
+
+**Art. II.57**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+##### Section 3. Projets-pilotes réforme de l'enseignement artistique à temps partiel
+
+**Art. II.58**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+##### Section 4. Arrêt et conversion organique d'expériences et de projets temporaires
+
+**Art. II.59**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+**Art. II.60**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L1, 003; En vigueur : 01-09-2018&gt;
+
+## PARTIE III. INTERNATS ET HOMES D'ACCUEIL POUR ENFANTS DONT LES PARENTS N'ONT PAS DE RÉSIDENCE FIXE.
+
+#### Chapitre 1er.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.1**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.2**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.2/1**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.3**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.4**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.5**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.6**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.7**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 135, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 2.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+##### Section 1ère.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.8**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.9**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.10**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.11**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+##### Section 2.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.12**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.13**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.14**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 136, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 3.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+##### Section 1ère.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.15**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.16**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.17**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.18**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.19**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+##### Section 2.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.20**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+##### Section 3.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.20./1**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.20./2**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 137, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 4.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+##### Section 1ère.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+###### Sous-section 1ère.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.21**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.22**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+###### Sous-section 2.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.23**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.24**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.25**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.26**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.27**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.28**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.29**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.30**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.30/1**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+###### Sous-section 3.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.31**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.32**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.33**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.34**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+###### Sous-section 4.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.34/1**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 138, 024; En vigueur : 01-09-2023&gt;
+
+##### Section 2. Enseignement subventionné
+
+**Art. III.35**
+
+§ 1er. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 4. Le Gouvernement flamand fixe un règlement pour la régularisation des emplois TCT existants dans les internats libres subventionnés.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 139, 024; En vigueur : 01-09-2023&gt;
+
+##### Section 3.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 140, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.36**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 140, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 5.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 141, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.37**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 141, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 6.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.38**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.39**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.40**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.41**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.42**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.43**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.44**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 7.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.45**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 142, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 8. [<sup>1</sup> Encadrement initial, aide à la décision politique et professionnalisation]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-02-25/10, art. 36, 017; En vigueur : 01-09-2021&gt;
+
+**Art. III.46**
+
+[<sup>1</sup> 1er. Des heures sont octroyées aux semi-internats tels que visés dans l'arrêté royal du 21 août 1978 portant organisation des semi-internats dans l'enseignement spécial de l'Etat et déterminant les normes du personnel pour l'accompagnement initial, l'appui à la gestion et la professionnalisation.
+
+§ 2. Le nombre d'heures pour l'accompagnement initial, l'appui à la gestion et la professionnalisation auxquelles le semi-internat a droit est de 58 heures x B/C, où :
+
+1° B : le nombre total d'heures octroyées au semi-internat l'année scolaire précédente ;
+
+2° C : le nombre total d'heures octroyées à tous les semi-internats l'année scolaire précédente, tous établissements confondus.
+
+Les heures visées à l'alinéa 1er sont arrondies comme suit au sein d'un semi-internat : si la première décimale est supérieure à quatre, l'arrondi est opéré à l'entier supérieur. Si le premier chiffre après la virgule est inférieur ou égal à quatre, le nombre est arrondi au nombre entier inférieur.
+
+§ 3. Pour déterminer B et C, les fonctions attribuées dans des semi-internats sont converties en heures, une fonction à temps plein étant convertie en 38 heures.
+
+§ 4. Les heures peuvent être mises en commun.
+
+Les semi-internats qui choisissent de mettre les heures en commun créent à cet effet un ou plusieurs partenariats d'accompagnement initial, d'appui à la gestion et de professionnalisation dans le cadre desquels des accords au sujet de l'utilisation de ces heures sont pris.
+
+§ 5. Concernant le partenariat visé au paragraphe 4, le Gouvernement flamand peut arrêter les mesures suivantes :
+
+1° la durée de la coopération ;
+
+2° la forme de la convention par laquelle le partenariat est créé ;
+
+3° le mode et le moment de communication du partenariat à l'Autorité.
+
+§ 6. Les heures permettent l'organisation d'emplois dans des fonctions de recrutement dans chaque établissement conformément aux dispositions applicables à l'encadrement octroyé, énoncées dans l'arrêté royal du 21 août 1978 portant organisation des semi-internats dans l'enseignement spécial de l'Etat et déterminant les normes du personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 144, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.47**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 145, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.48**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 146, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 9.
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 147, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.49**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 147, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.50**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 147, 024; En vigueur : 01-09-2023&gt;
+
+**Art. III.51**
+
+&lt;Abrogé par DCFL 2023-06-16/12, art. 147, 024; En vigueur : 01-09-2023&gt;
+
+## PARTIE IV. PROJETS OU ÉTABLISSEMENTS SPÉCIFIQUES
+
+#### Chapitre 1er. Vue d'ensemble
+
+**Art. IV.1**
+
+Les projets ou établissements spécifiques abordés dans la présente partie IV sont les suivants :
+
+1° services présentant des besoins en matière d'enseignement,
+
+2° garderies de l'enseignement communautaire situées dans la Région bilingue de Bruxelles-Capitale,
+
+3° [<sup>2</sup> ...]<sup>2</sup>,
+
+4° éducation culturelle,
+
+5° transport scolaire,
+
+6° comptabilité des écoles,
+
+7° outils didactiques spéciaux dans l'éducation des adultes et l'enseignement supérieur,
+
+8° programmes européens et internationaux,
+
+9° projets temporaires d'initiation aux arts.
+
+[<sup>1</sup> 10° organisation centrale de l'enseignement synchrone via internet.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 137, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2026-06-19/04, art. 11, 033; En vigueur : 01-09-2026&gt;
+
+#### Chapitre 2. Services présentant des besoins en matière d'enseignement
+
+##### Section 1ère. Dispositions générales
+
+**Art. IV.2**
+
+Pour l'application du présent chapitre, on entend par :
+
+1° [<sup>1</sup> 1° service :
+
+a) un service de neuropsychiatrie infantile, tel que visé à l'article 2 de l'arrêté royal du 23 octobre 1964 portant fixation des normes auxquelles les hôpitaux et leurs services doivent répondre ;
+
+b) une catégorie de services ou de structures déterminés par le Gouvernement flamand, dont le fonctionnement empêche les jeunes qui y résident de fréquenter l'école ;]<sup>1</sup>
+
+2° parents : les personnes exerçant l'autorité parentale ou ayant de droit ou de fait la garde du mineur. Dans le cas où le jeune est majeur, il faut entendre par cette notion le (la) majeur(e) ;
+
+3° membre du personnel pédagogique : le membre du personnel d'un service qui a la charge d'enseigner.
+
+[<sup>1</sup> 4° place : une place ou un lit qui donne lieu à un séjour de jour dans le service visé au point 1°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-12-20/13, art. 77, 012; En vigueur : 01-01-2020&gt;
+
+##### Section 2. Subventionnement
+
+**Art. IV.3**
+
+Le Gouvernement flamand octroie annuellement des enveloppes de subventions à des services d'enseignement.
+
+Les enveloppes de subventions contiennent des moyens d'aide aux frais annuels de personnel et de fonctionnement liés à la dispensation de l'enseignement que supportent les services.
+
+**Art. IV.4**
+
+Les enveloppes de subventions sont accordées à condition que :
+
+1° le service soit agréé par le Gouvernement flamand pour au moins [<sup>1</sup> neuf ]<sup>1</sup> lits d'hospitalisation de jour et de nuit et/ou places d'hospitalisation de jour ;
+
+2° le service dispose d'un matériel didactique suffisant, d'un équipement scolaire adapté et de locaux répondant aux conditions d'hygiène, de sécurité et de salubrité pour dispenser un enseignement ;
+
+3° le service ne bénéficie d'aucun autre financement ou subventionnement de la Communauté flamande pour dispenser un enseignement ;
+
+4° l'enseignement soit dispensé conformément aux principes visés à la Section 3 ;
+
+5° le service introduise auprès de l'Agence de Services d'Enseignement une demande dont il ressort qu'il satisfait aux dispositions des points 1°, 2°, 3° et 4°. Le Gouvernement flamand peut fixer la forme dans laquelle la demande doit être introduite.
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 64, 006; En vigueur : 01-01-2019&gt;
+
+**Art. IV.5**
+
+Les enveloppes de subventions sont fixées en multipliant le nombre de [<sup>1</sup> places]<sup>1</sup> par un montant déterminé par le Gouvernement flamand. Pour l'année budgétaire 2002, le montant est fixé à 3.000 euros.
+
+----------
+
+(1)&lt;DCFL 2019-12-20/13, art. 78, 012; En vigueur : 01-01-2020&gt;
+
+**Art. IV.6**
+
+§ 1er. Le Gouvernement flamand octroie les enveloppes de subventions dans les limites des crédits budgétaires disponibles.
+
+[<sup>1</sup> A partir de 2019, l'enveloppe subventionnelle s'élève à 1.469.000 euros au minimum. Ce montant est indexé sur la base de l'indice santé. ]<sup>1</sup>
+
+§ 2. Le Gouvernement flamand peut fixer des modalités relatives à l'octroi des enveloppes de subventions et préciser les dispositions de l'article relatives aux conditions d'octroi de subventions dans le cadre de l'article IV.4.
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 65, 006; En vigueur : 01-01-2019&gt;
+
+##### Section 3. Fonctionnement
+
+###### Sous-section 1ère. Organisation
+
+**Art. IV.7**
+
+Le service n'est pas une école ou un service d'enseignement.
+
+**Art. IV.8**
+
+Le service organise un enseignement pendant toute l'année calendrier.
+
+**Art. IV.9**
+
+Le service désigne au sein de son propre personnel un responsable pour l'organisation de l'enseignement.
+
+**Art. IV.10**
+
+Le service organise l'enseignement en considération :
+
+1° des dispositions relatives au régime linguistique dans l'enseignement et aux connaissances linguistiques du personnel ;
+
+2° des dispositions relatives à la bonne administration dans l'enseignement secondaire.
+
+**Art. IV.11**
+
+Lors de l'admission d'un jeune dans un service, les parents reçoivent des informations sur :
+
+1° la possibilité de suivre un enseignement dans le service ;
+
+2° l'objectif et le contenu de l'offre d'enseignement ;
+
+3° la façon dont les parents peuvent entrer en contact avec le membre du personnel pédagogique et le responsable de l'organisation de l'enseignement.
+
+**Art. IV.12**
+
+Le service collabore au contrôle de l'obligation scolaire.
+
+###### Sous-section 2. Membres du personnel pédagogique
+
+**Art. IV.13**
+
+Les membres du personnel pédagogique sont titulaires d'un des certificats d'études suivants ou d'un titre y assimilé :
+
+1° diplôme de formation initiale des enseignants pour l'enseignement maternel ;
+
+2° diplôme de formation initiale des enseignants pour l'enseignement primaire ;
+
+3° diplôme de formation initiale des enseignants pour l'enseignement secondaire groupe 1 ;
+
+4° diplôme de formation initiale des enseignants de niveau académique ;
+
+5° certificat d'aptitude pédagogique.
+
+Le service peut déroger à l'obligation visée à l'alinéa 1er :
+
+1° en cas de pénurie de candidats. Une pénurie de candidats n'est réputée exister que si la vacance a été notifiée au préalable au Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (Office flamand de l'Emploi et de la Formation professionnelle) ou à l'Office bruxellois de l'Emploi-Actiris et si le service déclare sur l'honneur n'avoir pu trouver aucun autre candidat apte à exercer les prestations en fonction principale ;
+
+2° vis-à-vis des membres du personnel du service qui, avant le 1er mars 2002, dispensaient l'enseignement aux jeunes admis dans le service
+
+###### Sous-section 3. Offre d'enseignement
+
+**Art. IV.14**
+
+L'enseignement par des services est dispensé à la demande des parents. L'enseignement vise à limiter les retards scolaires et, si possible, à préparer l'intégration ou la réintégration des jeunes dans une école ou un centre. Il répond aux dispositions de l'article 29, 1er, de la Convention relative aux droits de l'enfant.
+
+**Art. IV.15**
+
+Un plan d'action individuel est dressé pour chaque jeune auquel est dispensé un enseignement.
+
+Le plan d'action comprend le planning pédagogique et didactique pour une période déterminée et indique comment l'enseignement est intégré dans l'ensemble de actes médicaux et/ou thérapeutiques du service. Le plan d'action tient compte des objectifs finaux, objectifs de développement et/ou objectifs finaux spécifiques en vigueur.
+
+Le plan d'action est établi en concertation avec l'école ou le centre où le jeune est inscrit.
+
+**Art. IV.16**
+
+Le service ne peut pas délivrer les certificats visés aux articles 53 à 57 du décret du 25 février 1997 relatif à l'enseignement fondamental ni les certificats d'études visés aux articles 254 à 256 du Code de l'enseignement secondaire.
+
+##### Section 4. Contrôle
+
+**Art. IV.17**
+
+Le Gouvernement flamand définit la façon dont l'Inspection de l'enseignement et les services de vérification de l'Agence de Services d'Enseignement contrôlent le respect des conditions de subventionnement.
+
+**Art. IV.18**
+
+Le Gouvernement flamand définit les règles relatives à la réduction ou à la répétition des enveloppes de subventions en cas de non-respect des conditions de subventionnement par les services.
+
+#### Chapitre 3. Garderies de l'enseignement communautaire situées dans la Région bilingue de Bruxelles-Capitale
+
+**Art. IV.19**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 12, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.20**
+
+[<sup>1</sup> § 1er. Les dispositions du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'Enseignement communautaire et de ses arrêtés d'exécution s'appliquent aux membres du personnel nommés à titre définitif dans les prégardiennats et les crèches de l'enseignement communautaire en région bilingue de Bruxelles-Capitale.
+
+§ 2. Les obligations de réaffectation ou de remise au travail applicables à l'enseignement fondamental ordinaire et à l'enseignement spécialisé, prévues par l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente, s'appliquent aux membres du personnel nommés à titre définitif, visés au paragraphe 1er, qui ont été mis en disponibilité par défaut d'emploi. Aux fins de l'application de l'arrêté précité, la fonction de puériculteur est considérée comme " la même fonction " de puériculteur dans l'enseignement fondamental ordinaire et dans l'enseignement spécialisé, et la fonction d'infirmier est considérée comme " la même fonction " d'infirmier dans l'enseignement spécialisé.
+
+§ 3. Les membres du personnel nommés à titre définitif, visés au paragraphe 1er, se voient attribuer les échelles de traitement suivantes :
+
+1° l'échelle de traitement 143 pour ceux qui sont nommés à la fonction de puériculteur sur la base d'un titre de qualification requis ou jugé suffisant ;
+
+2° l'échelle de traitement 229 pour ceux qui sont nommés à la fonction de puériculteur sur la base d'un autre titre de qualification ;
+
+3° l'échelle de traitement 337 pour ceux qui sont nommés à la fonction d'infirmier.
+
+Si le salaire ainsi fixé est inférieur au salaire dont bénéficiait le membre du personnel au 1er septembre 2002, celui-ci continue de bénéficier de ce dernier salaire jusqu'à ce qu'il obtienne un salaire au moins équivalent sur la base des échelles de traitement visées à l'alinéa 1er.
+
+Les échelles de traitement, visées à l'alinéa 1er, sont fixées par l'arrêté du Gouvernement flamand du 5 octobre 2018 portant les échelles de traitement de certains membres du personnel de l'enseignement.
+
+Les titres de qualification visés à l'alinéa 1er sont ceux fixés par le Gouvernement flamand pour la fonction correspondante dans l'enseignement ordinaire ou spécialisé.
+
+§ 4. Le régime de prestations des membres du personnel nommés à titre définitif, visés au paragraphe 1er, s'élève à 36 heures par semaine pour un emploi à temps plein.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-19/04, art. 13, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV_20.DROIT_FUTUR**
+
+[<sup>1</sup> § 1er. Les dispositions du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'Enseignement communautaire et de ses arrêtés d'exécution s'appliquent aux membres du personnel nommés à titre définitif dans les prégardiennats et les crèches de l'enseignement communautaire en région bilingue de Bruxelles-Capitale.
+
+§ 2. Les obligations de réaffectation ou de remise au travail applicables à l'enseignement fondamental ordinaire et à l'enseignement spécialisé, prévues par l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente, s'appliquent aux membres du personnel nommés à titre définitif, visés au paragraphe 1er, qui ont été mis en disponibilité par défaut d'emploi. Aux fins de l'application de l'arrêté précité, la fonction de puériculteur est considérée comme " la même fonction " de puériculteur dans l'enseignement fondamental ordinaire et dans l'enseignement spécialisé, et la fonction d'infirmier est considérée comme " la même fonction " d'infirmier dans l'enseignement spécialisé.
+
+§ 3. Les membres du personnel nommés à titre définitif, visés au paragraphe 1er, se voient attribuer les échelles de traitement suivantes :
+
+1° l'échelle de traitement 143 pour ceux qui sont nommés à la fonction de puériculteur sur la base d'un titre de qualification requis ou jugé suffisant ;
+
+2° l'échelle de traitement 229 pour ceux qui sont nommés à la fonction de puériculteur sur la base d'un autre titre de qualification ;
+
+3° l'échelle de traitement 337 pour ceux qui sont nommés à la fonction d'infirmier.
+
+Si le salaire ainsi fixé est inférieur au salaire dont bénéficiait le membre du personnel au 1er septembre 2002, celui-ci continue de bénéficier de ce dernier salaire jusqu'à ce qu'il obtienne un salaire au moins équivalent sur la base des échelles de traitement visées à l'alinéa 1er.
+
+Les échelles de traitement, visées à l'alinéa 1er, sont fixées par l'arrêté du Gouvernement flamand du 5 octobre 2018 portant les échelles de traitement de certains membres du personnel de l'enseignement.
+
+Les titres de qualification visés à l'alinéa 1er sont ceux fixés par le Gouvernement flamand pour la fonction correspondante dans l'enseignement ordinaire ou spécialisé.
+
+§ 4. Le régime de prestations des membres du personnel nommés à titre définitif, visés au paragraphe 1er, s'élève à 36 heures par semaine pour un emploi à temps plein.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-19/04, art. 13, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.21**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 14, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.22**
+
+&lt;Abrogé par DCFL 2017-06-16/24, art. IX.20,4°, 002; En vigueur : 01-01-2017&gt;
+
+**Art. IV.23**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 14, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.24**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 14, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.25**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 14, 033; En vigueur : 01-09-2026&gt;
+
+#### Chapitre 4.
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 15, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.26**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 15, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.27**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 15, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.28**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 15, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.29**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 15, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.30**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 15, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.31**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 15, 033; En vigueur : 01-09-2026&gt;
+
+**Art. IV.32**
+
+&lt;Abrogé par DCFL 2026-06-19/04, art. 15, 033; En vigueur : 01-09-2026&gt;
+
+#### Chapitre 5. Education culturelle dans l'enseignement
+
+**Art. IV.33**
+
+Le Gouvernement flamand peut accorder, chaque année, des subventions aux projets visant à stimuler l'éducation culturelle dans l'enseignement. Les subventions peuvent être octroyées à des écoles, centres, internats, homes d'accueil et établissements de l'enseignement fondamental, de l'enseignement secondaire, de l'apprentissage, de l'enseignement artistique à temps partiel, de l'éducation des adultes, de l'enseignement secondaire professionnel à temps partiel, de l'éducation de base et de l'enseignement supérieur.
+
+Le Gouvernement flamand accorde une subvention maximale de cinq mille euros par projet d'éducation culturelle et par an. Le Gouvernement flamand peut approuver plusieurs projets d'un même bénéficiaire pour la même implantation à condition que le montant total de subventions octroyé durant l'année budgétaire au bénéficiaire par implantation n'excède pas cinq mille euros.
+
+Pour être éligible au subventionnement d'un projet d'éducation culturelle, le projet doit en tout cas :
+
+1° être lancé et terminé dans la période à déterminer par le Gouvernement flamand, sans que cette période puisse excéder cinq mois ;
+
+2° améliorer les chances d'épanouissement de l'élève ;
+
+3° constituer une plus-value pour la vision culturelle de l'école, du centre, de l'internat, du home d'accueil ou de l'établissement ;
+
+4° être adapté à l'école, au centre, à l'internat, au home d'accueil ou à l'établissement ;
+
+5° être développé avec l'apport qualitatif d'un partenaire externe et en collaboration avec ce dernier.
+
+Le Gouvernement flamand détermine les conditions d'octroi de ces subventions et les modalités de sélection et d'évaluation des projets.
+
+**Art. IV.33bis**
+
+[<sup>1</sup>Afin de consolider, d'accroître et d'élargir l'éducation culturelle dans le secteur de l'enseignement, le Gouvernement flamand subventionne annuellement l'A.S.B.L. publiq, inscrite sous le numéro d'entreprise 0475.250.609, à condition que publiq mette en oeuvre les objectifs stratégiques suivants :
+
+1° publiq se concentre en priorité sur une exploitation active d'une plateforme numérique intégrant divers outils favorisant l'éducation culturelle ;
+
+2° publiq s'engage à utiliser les technologies de l'information et de la communication pour renforcer l'éducation culturelle ;
+
+3° publiq s'adresse en priorité et directement aux partenaires existants et potentiels de l'éducation culturelle, ainsi qu'aux administrations locales et à tous les organisateurs d'activités culturelles.
+
+Pour l'exécution des missions visées à l'alinéa 1er, le Gouvernement flamand accorde à l'A.S.B.L., pour une période maximale de cinq ans, une subvention dont il détermine le montant. La subvention est fixée et indexée annuellement en tenant compte des crédits budgétaires disponibles.
+
+La subvention est accordée pour soutenir les frais de personnel, d'investissement et de fonctionnement.
+
+La subvention est accordée à condition que le Gouvernement flamand conclue avec publiq un contrat de gestion d'une durée maximale de cinq ans dans lequel les missions qui lui sont assignées sont concrétisées par des objectifs stratégiques et opérationnels.
+
+Le Gouvernement flamand peut modaliser l'élaboration et l'approbation du contrat de gestion, visé à l'alinéa 4. Le Gouvernement flamand arrête le contenu du contrat de gestion.
+
+L'administration peut se concerter régulièrement avec publiq sur la mise en oeuvre du contrat de gestion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/12, art. 129, 024; En vigueur : 01-09-2023&gt;
+
+#### Chapitre 6. Transport scolaire
+
+**Art. IV.34**
+
+Il est créé auprès de la Communauté flamande un Service de transport scolaire chargé d'assumer les obligations de la Communauté en matière de transport vers les écoles de libre choix. La forme juridique et les modalités de gestion de ce service seront réglées par décret.
+
+Le transport visé à l'alinéa précédent sera commun et s'organisera pour les écoles de libre choix dans les mêmes conditions, suivant les mêmes critères et en concertation avec les autorités scolaires concernées.
+
+Le Gouvernement flamand fixe le nombre de parents nécessaires pour que la Communauté flamande doive assumer les obligations prévues au présent article. Il détermine de même ce qu'il faut entendre par distance raisonnable.
+
+À l'exception des élèves de l'enseignement fondamental, les élèves bénéficiant du transport vers une école de libre choix sont tenus d'en acquitter le prix à concurrence du montant correspondant à la distance raisonnable visée à l'alinéa 1er. Ce montant doit, dans tous les réseaux d'enseignement, être fixé suivant le tarif de la SNCB et/ou de de Lijn.
+
+Les contributions à acquitter par les élèves sont perçues par la personne physique ou morale qui prend en charge le coût du transport.
+
+L'enseignement communautaire est autorisé à prendre à charge de sa dotation une partie ou l'intégralité du ticket modérateur imposé aux élèves bénéficiaires dans la mesure où des raisons sociales le justifient.
+
+**Art. IV.35**
+
+Le Gouvernement flamand prend en charge, suivant des modalités à fixer par le Gouvernement flamand, par type d'enseignement spécial et par niveau d'enseignement et sur avis des divisions compétentes pour l'enseignement spécial du Conseil flamand de l'Enseignement, les frais de déplacement des handicapés se rendant de leur résidence, du home ou de la famille d'accueil à l'école ou à l'implantation d'enseignement spécial la plus proche où est dispensé un enseignement auquel ils ont été déclarés aptes et ce, au sein d'un groupement au choix, ou de leur résidence au home, à l'école ou à la famille d'accueil, ainsi que les frais de voyage de retour, et ce pendant toute la durée de leur fréquentation de l'enseignement spécial.
+
+Par groupement, il faut entendre : une répartition des écoles et implantations dans l'enseignement fondamental spécial et l'enseignement secondaire spécial, selon qu'elles appartiennent à l'enseignement communautaire, à l'enseignement officiel subventionné, à l'enseignement libre subventionné en fonction des différents cultes, ou à l'enseignement libre non confessionnel subventionné
+
+**Art. IV.35/1**
+
+[<sup>1</sup> § 1er. Pour l'application au sein de l'enseignement spécial, une dérogation collective à l'article IV.35 est autorisée dans les régions géographiques suivantes :
+
+1° Louvain - Heverlee ;
+
+2° Hooglede - Izegem - Ingelmunster - Roulers - Moorslede - Torhout ;
+
+3° Anvers - Brasschaat - Schilde - Schoten.
+
+§ 2. Si les écoles d'enseignement spécial des régions énoncées au paragraphe 1er optent collectivement pour une dérogation à l'article IV.35, l'octroi du droit au transport scolaire se fait selon le critère et le cadre réglementaire associé élaborés dans cette région pendant la durée du projet pilote Transport scolaire enseignement spécial de septembre 2017 à juin 2022.
+
+Les régions énoncées au paragraphe 1er décrivent la méthode utilisée pour l'octroi du droit au transport dans un plan de travail. Ce document fait partie intégrante du fonctionnement du transport scolaire dans les régions et contient au moins toutes les dispositions suivantes :
+
+1° des dispositions sur les modalités d'octroi du droit au transport ;
+
+2° des dispositions précisant qui octroie le droit au transport ;
+
+3° des dispositions sur les modalités d'introduction par l'administration scolaire d'une demande de transport scolaire ;
+
+4° des dispositions sur la procédure de recours en cas de désaccord ;
+
+5° des dispositions sur les points centraux d'embarquement et de débarquement et précisant qui peut les utiliser ;
+
+6° des dispositions sur le coaching de mobilité et précisant qui peut le suivre ;
+
+7° des dispositions sur le transport par ses propres moyens et précisant qui peut l'utiliser ;
+
+8° des dispositions sur la garde d'enfants et précisant qui peut y recourir ;
+
+9° des dispositions sur les modes de transport collectifs, individuels et alternatifs tels qu'ils ont déjà été testés ;
+
+10° des dispositions sur la manière d'assurer l'égalité juridique pour les élèves qui ont déjà été scolarisés ou non dans la région géographique.
+
+§ 3. Par région visée au paragraphe 1er, un plan de travail pour application aux inscriptions à partir de l'année scolaire 2022-2023 est soumis à l'approbation du Gouvernement flamand durant l'année scolaire 2021-2022.
+
+Pour l'année scolaire 2023-2024, un nouveau plan de travail est élaboré dans lequel sont intégrés les résultats d'évaluation de la phase pilote qui court jusqu'en juin 2022. Le rapport final de la phase d'évaluation est transmis aux régions.
+
+Le plan de travail visé aux alinéas 1er et 2 est valable au moins une année scolaire. Si le Gouvernement flamand ou l'une des régions énoncées au paragraphe 1er désire modifier des éléments du plan de travail pour l'année scolaire suivante, ce n'est possible que d'un commun accord. En cas de modification, le plan de travail est à nouveau soumis au Gouvernement flamand.
+
+§ 4. Le Gouvernement flamand contrôle le fonctionnement du transport scolaire dans les régions énoncées au paragraphe 1er.
+
+§ 5. Le régime transitoire décrit dans le présent article sera valable quatre années scolaires à partir de l'année scolaire 2022-2023.
+
+Le Gouvernement flamand peut mettre fin au régime transitoire plus tôt si un nouveau cadre réglementaire pour le transport scolaire entre en vigueur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-08/10, art. 75, 019; En vigueur : 01-01-2022&gt;
+
+**Art. IV.35/2**
+
+[<sup>1</sup>Les écoles impliquées dans l'organisation du transport scolaire zonal organisé en vertu de la loi du 15 juillet 1983 portant création du Service national de Transport scolaire, coopèrent à l'organisation du transport scolaire zonal collectif.
+
+Elles nomment des accompagnateurs de bus et reçoivent pour ce faire une allocation à charge de la Communauté flamande. Le Gouvernement flamand détermine le montant de cette allocation, le mode d'attribution et les mesures de contrôle, et fixe le salaire et les conditions de travail minimums des accompagnateurs de bus.]<sup>1</sup>
+
+[<sup>2</sup> Sous réserve de l'approbation préalable de l'Agence de Services d'Enseignement, les écoles visées à l'alinéa 1er peuvent désigner des surveillants de parking et recevoir une allocation de la Communauté flamande à cet effet. Le Gouvernement flamand détermine le montant de cette allocation, le mode d'attribution et les mesures de contrôle, et fixe les conditions de salaire et de travail minimums des surveillants de parking.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/17, art. 130, 023; En vigueur : 01-09-2023&gt;
+
+(2)&lt;DCFL 2025-07-18/31, art. 75, 030; En vigueur : 01-09-2024&gt;
+
+**Art. IV.35/3**
+
+[<sup>1</sup> Le personnel employé dans le cadre d'un contrat de travail en tant qu'accompagnateur de bus [<sup>2</sup> ou en tant que surveillant de parking]<sup>2</sup> dans une école fondamentale ou secondaire peut se voir octroyer une indemnité de sécurité d'existence pendant les mois de juillet et d'août. Le Gouvernement flamand en détermine les modalités. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/17, art. 131, 023; En vigueur : 01-09-2023&gt;
+
+(2)&lt;DCFL 2025-07-18/31, art. 76, 030; En vigueur : 01-09-2024&gt;
+
+#### Chapitre 7. Comptabilité des écoles
+
+**Art. IV.36**
+
+§ 1er. Les associations représentatives d'autorités scolaires ou les autorités scolaires des écoles libres subventionnées définissent, pour les autorités scolaires qui le souhaitent, les obligations comptables en matière de comptabilité simplifiée et de comptabilité en partie double, telles que prévues par [<sup>1</sup> les obligations légales des associations sans but lucratif]<sup>1</sup>.
+
+Ces obligations comptables doivent, en ordre secondaire, tenir compte du fait, que les soldes, fixés conformément au Système européen des comptes, peuvent êtres dérivés par la Communauté flamande des comptes rendus, de sorte que la Communauté flamande puisse satisfaire aux obligations européennes en vigueur en la matière.
+
+§ 2. La comptabilité simplifiée visée au § 1er comprend, compte tenu de la nature et du volume des autorités scolaires, au moins toutes les opérations relatives aux mutations en espèces ou sur comptes.
+
+§ 3. Les règles de la comptabilité simplifiée visées au § 1er comprennent au moins :
+
+1° des règles de base pour tenir une comptabilité simplifiée ;
+
+2° l'état des recettes et dépenses ;
+
+3° les comptes annuels ;
+
+4° l'inventaire.
+
+§ 4. La comptabilité en partie double visée au § 1er reprend, compte tenu de la nature et de l'importance de l'école, l'ensemble des opérations, avoirs et dettes, droits et engagements de quelque nature qu'ils soient, relatifs aux allocations accordées par l'autorité subsidiante et aux fonds propres de chaque autorité scolaire.
+
+§ 5. Les règles de la comptabilité économique visées au § 1er comprennent au moins :
+
+1° la forme et le contenu des comptes annuels ;
+
+2° les règles d'évaluation ;
+
+3° la structure des comptes annuels ;
+
+4° le schéma du bilan ;
+
+5° le schéma du compte de résultats ;
+
+6° le contenu de l'annexe ;
+
+7° le contenu des rubriques du bilan et du compte de résultats ;
+
+8° le plan comptable minimum.
+
+§ 6. Les règles visées au § 1er sont communiquées au Gouvernement flamand par chaque association représentative d'autorités scolaires ou les autorités scolaires des écoles libres subventionnées.
+
+§ 7. Les associations représentatives d'autorités scolaires ou les autorités scolaires des écoles libres subventionnées remplissent les obligations visées au § 6 pour la première fois dans les 30 jours de l'entrée en vigueur de ces dispositions.
+
+§ 8. Le présent article ne s'applique plus à l'enseignement secondaire
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 236, 016; En vigueur : 01-09-2021&gt;
+
+**Art. IV.37**
+
+§ 1er. Une intervention pour le remboursement des factures relatives à la désignation d'un commissaire pour le contrôle de la comptabilité est accordée aux autorités scolaires et aux autorités des centres d'éducation des adultes et des centres d'éducation de base de l'enseignement libre subventionné qui, en vertu [<sup>1</sup> des obligations légales des associations sans but lucratif]<sup>1</sup>, sont tenus de désigner un ou plusieurs commissaires.
+
+§ 2. Dans les limites des crédits budgétaires disponibles, la facture produite en paiement des commissaires sera remboursée à concurrence de 90 % maximum.
+
+§ 3. L'intervention est payée après présentation des pièces justificatives des frais occasionnés par la désignation d'un commissaire et de la pièce justificative du dépôt des comptes annuels auprès de la Banque nationale de Belgique.
+
+§ 4. Ces documents relatifs aux frais encourus pour l'année calendrier X sont introduits au plus tard le 31 mars de l'année calendrier X + 2, en deux exemplaires auprès de l'Agence de Services d'Enseignement pour ce qui est des autorités scolaires de l'enseignement fondamental et secondaire et auprès de I'Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelage (Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Études) pour ce qui est des centres d'éducation des adultes et des centres d'éducation de base.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 237, 016; En vigueur : 01-09-2021&gt;
+
+#### Chapitre 8. Outils didactiques spéciaux pour l'éducation des adultes et l'enseignement supérieur
+
+**Art. IV.38**
+
+§ 1er. [<sup>2</sup> § 1er. Des outils didactiques spéciaux peuvent être mis à disposition des apprenants et des élèves à besoins éducatifs spécifiques qui suivent une formation dans l'éducation des adultes financée ou subventionnée et y satisfont aux conditions d'admission, et des étudiants souffrant d'une limitation fonctionnelle inscrits dans une institution d'enseignement supérieur enregistrée d'office, telle que visée aux articles II.1er à II.3 du Code de l'Enseignement supérieur du 11 octobre 2013, ou dans un institut supérieur ou un autre établissement des beaux-arts, tel que visé à l'article III.119 du Code précité.]<sup>2</sup>.
+
+§ 2. Si ces outils didactiques spéciaux visés au § 1er revêtent la forme d'interprètes en [<sup>1</sup> Langue des signes flamande ou une autre langue des signes]<sup>1</sup> ou de preneurs de notes, le Gouvernement flamand détermine :
+
+1° la procédure de demande et d'attribution de preneurs de notes et d'interprètes en [<sup>1</sup> Langue des signes flamande ou une autre langue des signes]<sup>1</sup> auprès de l'Agence de Services d'Enseignement ; celle-ci prévoira également un recours interne à cet effet ;
+
+2° les conditions de diplôme pour les interprètes en [<sup>1</sup> Langue des signes flamande ou une autre langue des signes]<sup>1</sup> et preneurs de notes ;
+
+3° les coûts salariaux à indexer des interprètes en [<sup>1</sup> Langue des signes flamande ou une autre langue des signes]<sup>1</sup> et les coûts salariaux des preneurs de notes.
+
+4° la définition du groupe-cible.
+
+§ 3. Si ces outils didactiques spéciaux visés au § 1er revêtent la forme d'interprètes en [<sup>1</sup> Langue des signes flamande ou une autre langue des signes]<sup>1</sup> ou de preneurs de notes, le Gouvernement flamand octroie à un bureau central d'interprètes, pour la prestation de ces heures d'interprétation, une subvention qui consiste, d'une part, en un budget de fonctionnement pour ce bureau d'interprètes et, d'autre part, en rémunérations et frais de déplacement pour les interprètes. Le Gouvernement flamand détermine les conditions de fonctionnement de ce bureau d'interprètes.
+
+§ 4. La procédure de demande et d'attribution et de recours interne et le fonctionnement du bureau central d'interprètes à déterminer par le Gouvernement flamand sont évalués tous les trois ans. La première évaluation a lieu dans l'année scolaire 2015-2016. Durant cette évaluation, la participation du groupe-cible est assurée.
+
+§ 5. Si ces outils didactiques spéciaux revêtent une autre forme que celle visée aux §§ 2 à 4, le Gouvernement flamand détermine la procédure de demande et les critères d'attribution de ces outils
+
+[<sup>3</sup> Les certificats médicaux pour les demandes de moyens spéciaux d'aide à l'enseignement seront conservés pendant une durée maximale de 110 ans après la naissance de la personne concernée en raison du caractère permanent du handicap fonctionnel des personnes concernées et du droit à l'apprentissage tout au long de la vie. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 171, 015; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 132, 023; En vigueur : 01-10-2023&gt;
+
+(3)&lt;DCFL 2024-05-17/20, art. 13, 026; En vigueur : 21-06-2024&gt;
+
+#### Chapitre 9. Programmes européens et internationaux
+
+##### Section 1ère. EPOS
+
+**Art. IV.39**
+
+Le Gouvernement flamand est autorisé à adhérer à l'asbl EPOS et à contribuer à son fonctionnement.
+
+**Art. IV.40**
+
+L'asbl EPOS est chargée de la mise en oeuvre en Flandre de programmes et d'actions européens et internationaux en matière d'enseignement, de formation, d'éducation et d'apprentissage tout au long de la vie.
+
+**Art. IV.41**
+
+Le Gouvernement flamand contribue annuellement, dans les limites du budget de la Communauté flamande, aux moyens financiers de l'asbl.
+
+**Art. IV.42**
+
+1° La subvention est affectée au fonctionnement de l'asbl et aux activités qui sont développées en Flandre dans le cadre des programmes et actions européens et internationaux en matière d'enseignement, de formation, d'éducation et d'apprentissage tout au long de la vie.
+
+2° L'asbl soumet annuellement au Gouvernement flamand un rapport d'activités et un rapport financier.
+
+3° A partir de l'année académique 2011-2012, l'asbl EPOS doit réinvestir les moyens non utilisés octroyés dans le cadre de la mobilité Erasmus dans cette action au cours des années académiques suivantes. L'asbl gérera ces moyens sur un compte exclusivement destiné à cet effet.
+
+##### Section 2. ÉPON
+
+**Art. IV.43**
+
+Le Gouvernement flamand est autorisé à constituer l'asbl EPON et à contribuer à son fonctionnement.
+
+**Art. IV.44**
+
+L'asbl EPON assurera la gestion, au nom du Gouvernement flamand, de projets lancés dans le cadre de programmes européens. Il s'agit de programmes notamment dans le cadre du Fonds social européen, des initiatives communautaires, des projets développés dans le cadre de l'Année européenne de l'éducation et de la formation tout au long de la vie, du CEDEFOP, etc.
+
+**Art. IV.45**
+
+§ 1er. Le Gouvernement flamand contribue annuellement, dans les limites du budget de la Communauté flamande, aux moyens financiers de l'asbl. La subvention doit être affectée, comme par le passé, au préfinancement et/ou au cofinancement de projets.
+
+§ 2. L'asbl est tenue de soumettre, avant le 1er avril, les comptes certifiés par son réviseur d'entreprises auxquels est joint explicitement un document concernant la situation des moyens financiers dont elle dispose au 31 décembre et le total des dépenses de trésorerie réalisées au cours de l'exercice budgétaire précédent.
+
+La subvention sera payée en deux tranches :
+
+1° une première tranche de 80 pour cent après production des documents précités ;
+
+2° le solde après avis de l'Inspection des Finances, compte tenu de la constitution de réserves et du besoin de préfinancement de projets européens l'année suivante.
+
+#### Chapitre 10. Projets temporaires d'initiation aux arts
+
+**Art. IV.46**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L2, 003; En vigueur : 31-08-2019&gt;
+
+**Art. IV.47**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L2, 003; En vigueur : 31-08-2019&gt;
+
+**Art. IV.48**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L2, 003; En vigueur : 31-08-2019&gt;
+
+**Art. IV.49**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L2, 003; En vigueur : 31-08-2019&gt;
+
+**Art. IV.50**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L2, 003; En vigueur : 31-08-2019&gt;
+
+**Art. IV.51**
+
+&lt;Abrogé par DCFL 2018-03-09/12, art. 159,L2, 003; En vigueur : 31-08-2019&gt;
+
+#### Chapitre 11. [<sup>1</sup> - Organisation centrale de l'enseignement synchrone via internet ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 138, 010; En vigueur : 01-09-2019&gt;
+
+**Art. IV.52**
+
+[<sup>1</sup> Le Gouvernement garantit l'organisation centrale de l'enseignement synchrone via internet, à dénommer SIO dans le présent chapitre, conformément à l'article 36/1 du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 117/1 du Code de l'enseignement secondaire.
+
+[<sup>2</sup> Le Gouvernement détermine la mission de l'organisation centrale et la mission d'une ou de plusieurs organisations assumant une mission partielle. Le Gouvernement flamand conclut une convention-cadre avec l'organisation centrale sélectionnée.]<sup>2</sup>
+
+Le Gouvernement détermine les éléments fondamentaux du modèle d'indemnité de l'organisateur central. Le modèle d'indemnité peut être basé, entre autres, sur :
+
+\- le fonctionnement général et les missions partielles de l'organisateur central, tels que définis par le Gouvernement ;
+
+\- les parcours SIO que l'organisateur central complète ;
+
+\- des achats ou indemnités spécifiques nécessaires à l'exécution de la mission et des missions partielles de l'organisateur central.
+
+La convention-cadre a une durée maximale de 5 années calendaires.
+
+L'organisation centrale inclut une représentation du Gouvernement dans l'organe d'administration.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 172, 015; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 238, 016; En vigueur : 01-09-2021&gt;
+
+**Art. IV.53**
+
+[<sup>1</sup> Une organisation qui souhaite jouer le rôle d'organisateur central, que ce soit ou non en coopération avec d'autres partenaires pour des sous-tâches spécifiques, doit soumettre un dossier de demande en réponse à un appel du Gouvernement flamand.
+
+Le Gouvernement flamand détermine la procédure de désignation de l'organisateur central et la manière dont l'organisation doit décrire sa coopération avec d'autres partenaires pour des sous-tâches spécifiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 140, 010; En vigueur : 01-09-2019&gt;
+
+**Art. IV.53/1**
+
+[<sup>1</sup> Dans les limites des crédits disponibles, le Gouvernement flamand subventionne chaque année une A.S.B.L. pour l'organisation du réseau d'enseignement d'experts de l'islam (" Onderwijsnetwerk Islamexperten ").
+
+La subvention, visée à l'alinéa 1er, est destinée à couvrir les coûts salariaux du personnel concerné et les coûts de fonctionnement du projet présenté. Ce projet inclut des activités dans le domaine de la diversité idéologique, de la polarisation, de la radicalisation et de l'extrémisme au sein du fonctionnement des établissements d'enseignement, des centres de formation et des centres d'encadrement des élèves reconnus par la Communauté flamande.
+
+Le Gouvernement flamand conclut avec l'A.S.B.L. sélectionnée un contrat de gestion d'une durée maximale de quatre ans, dans lequel la structure et les objectifs, la réalisation, l'évaluation et l'utilisation de la subvention sont décrits plus en détail. A chaque nouveau contrat de gestion, le Gouvernement flamand justifie son choix de l'A.S.B.L. spécifique à laquelle il octroie les subventions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/17, art. 133, 023; En vigueur : 01-05-2023&gt;
+
+#### Chapitre 12. [<sup>1</sup> - Netwerk Islamexperten (Réseau d'experts en islam) ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 141, 010; En vigueur : 01-05-2019&gt;
+
+**Art. IV.54**
+
+[<sup>1</sup> Dans la limite des crédits disponibles, le Gouvernement flamand subventionne chaque année l'A.S.B.L. reconnue par l'Exécutif des Musulmans de Belgique, qui agit en tant qu'instance reconnue pour l'enseignement religieux islamique dans la Communauté flamande.
+
+La subvention est destinée à couvrir les coûts salariaux du personnel concerné et les coûts de fonctionnement du projet présenté. Ce projet doit inclure des activités dans le domaine de la diversité idéologique, de la polarisation, de la radicalisation et de l'extrémisme au sein du fonctionnement des établissements d'enseignement, des centres de formation et des centres d'encadrement des élèves reconnus par la Communauté flamande.
+
+Le Gouvernement flamand conclut avec l'A.S.B.L. précitée une convention de gestion d'une durée maximale de quatre ans, dans laquelle la structure et les objectifs, la réalisation, l'évaluation et l'utilisation de la subvention seront décrits plus en détail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 142, 010; En vigueur : 01-05-2019&gt;
+
+#### Chapitre 13. [<sup>1</sup> Amélioration des conditions de travail et des circonstances de travail pour MVDP+]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-25/10, art. 43, 017; En vigueur : 01-09-2021&gt;
+
+**Art. IV.54**
+
+[<sup>1</sup> Le présent chapitre s'applique à MVDP+, notamment :
+
+1° aux personnel de maîtrise, gens de métier et de service, au personnel d'entretien et aux employés contractuels rémunérés avec les moyens de fonctionnement ou les propres moyens des autorités scolaires ;
+
+2° aux accompagnateurs de bus du transport scolaire zonal, mentionné dans la loi du 15 juillet 1983 portant création du Service national de Transport scolaire ;
+
+3° aux accompagnateurs de bus qui ne relèvent pas du transport scolaire zonal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-25/10, art. 44, 017; En vigueur : 01-09-2021&gt;
+
+**Art. IV.55**
+
+[<sup>1</sup> § 1er. Pour l'application du présent chapitre, on entend par :
+
+1° OVSG : Onderwijsvereniging van Steden en Gemeenten (association d'enseignement des villes et communes) ;
+
+2° POV : Provinciaal Onderwijs Vlaanderen (Enseignement provincial flamand) ;
+
+3° TWF-VOV : Tewerkstellingsfonds voor het Vrij Onderwijs Vlaanderen.
+
+§ 2. Le présent chapitre vise à améliorer les conditions et circonstances de travail des membres du personnel, visés à l'article IV.54.
+
+Les moyens suivants sont prévus :
+
+1° subventions pour l'enseignement subventionné aux TWF-VOV, OVSG et POV ;
+
+2° dotations pour l'enseignement communautaire.
+
+§ 3. Le budget visant à améliorer les conditions et circonstances de travail des membres du personnel, visés à l'article IV.54, est arrêté dans le budget annuel.
+
+Le budget est arrêté comme suit :
+
+1° dans l'année budgétaire 2021, 500 000 euros sont octroyés au TWF-VOV afin de permettre une augmentation de salaire ;
+
+2° à partir de l'année budgétaire 2022, 1 700 000 euros sont octroyés au TWF-VOV afin de permettre une augmentation de salaire ;
+
+3° dans l'année budgétaire 2021, 283 000 euros sont octroyés à l'Enseignement communautaire afin de permettre une augmentation de salaire ;
+
+4° à partir de l'année budgétaire 2022, 850 000 euros sont octroyés à l'Enseignement communautaire afin de permettre une augmentation de salaire ;
+
+5° à partir de l'année budgétaire 2021, 700 000 euros sont octroyés au TWF-VOV afin de permettre une augmentation de l'allocation de fin d'année ;
+
+6° à partir de l'année budgétaire 2022, 375 000 euros sont octroyés à l'Enseignement communautaire afin de permettre une augmentation de l'allocation de fin d'année ;
+
+7° dans l'année budgétaire 2021, 98 000 euros sont prévus pour la mise à disposition du PlusPas aux TWF-VOV, OVSG, POV et l'Enseignement communautaire ;
+
+8° à partir de l'année budgétaire 2022, 95 000 euros sont prévus pour la mise à disposition du PlusPas aux TWF-VOV, OVSG, POV et l'Enseignement communautaire ;
+
+9° à partir de l'année budgétaire 2022, 420 000 euros sont octroyés au TWF-VOV pour la modernisation de la classification des fonctions dans l'enseignement subventionné ;
+
+10° dans l'année budgétaire 2021, 142 000 euros sont octroyés à l'Enseignement communautaire pour la formation et l'amélioration des conditions de salaire et de travail des membres du personnel de l'accueil préscolaire et postscolaire dans l'Enseignement communautaire ;
+
+11° à partir de l'année budgétaire 2022, 655 000 euros sont octroyés à l'Enseignement communautaire pour la formation et l'amélioration des conditions de salaire et de travail des membres du personnel de l'accueil préscolaire et postscolaire dans l'Enseignement communautaire.
+
+A partir de l'année budgétaire 2022, ces montants sont adaptés à l'évolution de l'indice santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-25/10, art. 45, 017; En vigueur : 01-09-2021&gt;
+
+## PARTIE V. STATUT DU PERSONNEL ENSEIGNANT
+
+### Titre 1er. Statut administratif
+
+#### Chapitre 1er. Titres de capacité
+
+##### Section 1ère. Dispositions générales relatives aux titres de capacité
+
+**Art. V.1**
+
+Le présent titre s'applique aux :
+
+1° membres du personnel visés à l'article 2, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° membres du personnel visés à l'article 4, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+3° membres de l'inspection de l'enseignement organisée par la Communauté flamande ;
+
+4° membres du personnel des services d'encadrement pédagogique ;
+
+5° membres du personnel visés à l'article 10 du décret du 1er décembre 1993 relatif à l'inspection et à l'encadrement des cours philosophiques ;
+
+6° membres du personnel des centres d'éducation de base visés [<sup>1</sup> à l'article 3 du décret du 7 juillet 2017 relatif au statut des membres du personnel de l'éducation de base]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 143, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.2**
+
+Le Gouvernement flamand détermine les titres de capacité donnant accès à chaque fonction [<sup>1</sup> ...]<sup>1</sup>.
+
+A cet égard, il peut tenir compte du cours ou de la spécialité à enseigner, de la formation, du module, du niveau d'enseignement, de la forme d'enseignement, du degré, de l'enseignement professionnel supérieur du niveau de qualification 5, du cycle ou de la forme d'éducation.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 144, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.3**
+
+Un certificat d'études et/ou les compétences acquises au travers d'activités qu'exerce ou qu'a exercées le membre du personnel, au sein ou en dehors de l'enseignement valent titre de capacité. Ils peuvent éventuellement être complétés d'un certificat d'aptitude pédagogique.
+
+Dans l'enseignement libre subventionné, le Gouvernement flamand peut déclarer la qualité de ministre du culte équivalente à un titre de capacité.
+
+**Art. V.4**
+
+Outre les titres de capacité requis, le Gouvernement flamand peut définir pour une fonction [<sup>1</sup> ...]<sup>1</sup>, les titres jugés suffisants et d'autres titres de capacité. A cet égard, il peut tenir compte notamment de la situation sur le marché du travail de l'enseignement.
+
+Un financement ou un subventionnement est accordé temporairement aux personnes possédant un autre titre de capacité. Le Gouvernement flamand fixe les conditions dans lesquelles ils sont accordés.
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 145, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.5**
+
+Jusqu'à ce que le Gouvernement flamand fixe les titres de capacité en exécution des présentes dispositions, la réglementation en vigueur en matière des titres de capacité reste applicable et le Gouvernement flamand est autorisé à modifier, à abroger et/ou à remplacer en tout ou en partie les dispositions en vigueur.
+
+##### Section 2. Diplôme de soins infirmiers
+
+**Art. V.6**
+
+Le titulaire d'un diplôme obtenu conformément à l'arrêté du-Régent du 11 juillet 1945 réorganisant les études et les examens d'infirmiers et d'infirmières, qui a obtenu l'assimilation visée à l'article 25 de l'arrêté royal du 17 août 1957 portant fixation des conditions de collation des diplômes d'accoucheuse, d'infirmier ou d'infirmière, modifié par l'arrêté royal du 11 juillet 1960, est censé être en possession du diplôme d'une école technique supérieure du premier degré.
+
+#### Chapitre 2. Dispositions en matière d'ancienneté
+
+##### Section 1ère. Services CST et ACS
+
+**Art. V.7**
+
+§ 1er. Les services prestés en qualité de membre du personnel contractuel subventionné dans le cadre des projets mentionnés ci-après entrent en ligne de compte pour l'application de l'article 4 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire et de l'article 6 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves.
+
+Il s'agit des projets suivants :
+
+\- le soutien d'écoles maternelles comportant des migrants dans des zones d'éducation prioritaires, inscrit sous les numéros de projet I.24, II.1O et III.12 dans la convention ACS 8285 ;
+
+\- le développement de méthodes de travail et d'instruments répondant aux besoins différenciés de l'accompagnement PMS des migrants, inscrit sous les numéros de projet I.9 et III.3 dans les conventions ACS 7636 et 8285.
+
+Les services précités sont considérés comme prestés dans « une fonction » au sens des deux décrets précités relatifs au statut des membres du personnel.
+
+§ 2. Cette ancienneté ne peut être invoquée qu'à des fins de recrutement pour des fonctions d'instituteur maternel, d'assistant social et de surveillant-éducateur, tant dans des internats que des externats.
+
+Pour l'année scolaire 1996-1997, cette ancienneté ne peut être utilisée afin de bénéficier du régime de priorité applicable aux candidats qui étaient en service auprès du pouvoir organisateur ou de l'organe de direction local au cours de l'année scolaire 1995-1996 et qui peuvent se prévaloir, pour l'année scolaire 1996-1997, de la priorité visée à l'article 23, § 1er, 1°, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres PMS subventionnés ou à l'article 21 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire.
+
+L'ancienneté est également admise pour l'application de la réglementation relative à la mise en disponibilité par défaut d'emploi, la réaffectation et la remise au travail.
+
+Les membres du personnel peuvent acquérir une ancienneté de deux ans maximum par application du présent article.
+
+**Art. V.8**
+
+Le Gouvernement flamand fixe, pour les membres du personnel travaillant dans l'enseignement professionnel à temps partiel, les conditions dans lesquelles les services prestés en tant que chômeur mis au travail, travailleur du Cadre spécial temporaire et agent contractuel subventionné entrent en ligne de compte pour le statut pécuniaire et administratif, pour la réglementation en matière de surnombre, de mise en disponibilité par défaut d'emploi, de réaffectation et de remise au travail, pour la nomination définitive ainsi que pour l'agrément, là où cet agrément existe.
+
+**Art. V.9**
+
+§ 1er. Les dispositions de l'article V.8 et de l'article 1er de l'arrêté du Gouvernement flamand du 7 novembre 1990 concernant la prise en considération de l'ancienneté de service des membres du personnel de l'enseignement secondaire professionnel à temps partiel s'appliquent, à partir du 1er avril 1991, aux dispositions de l'article 4 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire et, à partir du 1er juin 1991, aux dispositions de l'article 6 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves.
+
+Pour les membres du personnel technique des centres d'encadrement des élèves de l'enseignement communautaire et des centres subventionnés d'encadrement des élèves, les services visés doivent avoir été fournis, dans une fonction financée ou subventionnée, dans un centre d'encadrement des élèves qui était chargé des missions en faveur des élèves de l'enseignement professionnel secondaire à temps partiel et des participants aux formations agréées en vue de satisfaire à l'obligation scolaire à temps partiel.
+
+§ 2. Les services prestés dans le cadre spécial temporaire ou en qualité de membre du personnel contractuel subventionné dans le cadre des projets mentionnés ci-après entrent en ligne de compte pour l'application de l'article 4 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire et de l'article 6 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves.
+
+Il s'agit des projets suivants :
+
+\- « accompagnement d'enseignants participant à des projets réalisés en exécution de la directive CE 77/486 » ;
+
+\- « élèves migrants au niveau de l'enseignement secondaire » ;
+
+\- « soutien aux écoles fondamentales comptant plus de 30 % d'enfants ne maîtrisant pas la langue de l'enseignement » ;
+
+\- « développement de méthodes de travail et d'instruments répondant aux besoins différenciés de l'accompagnement PMS d'enfants de migrants ».
+
+Les membres du personnel peuvent acquérir une ancienneté de deux ans maximum par application de l'alinéa 1er.
+
+Les services susvisés sont considérés comme prestés dans « une fonction » au sens des décrets précités.
+
+##### Section 2. Internat de l'enseignement secondaire
+
+**Art. V.10**
+
+Les services prestés en qualité de membre du personnel temporaire dans la fonction de surveillant-éducateur au sein d'un internat attaché à un établissement d'enseignement supérieur sont réputés avoir été prestés dans la fonction de surveillant-éducateur au sein d'un internat attaché à un établissement d'enseignement secondaire de plein exercice.
+
+#### Chapitre 3. Dispositions relatives à la désignation et à la nomination définitive
+
+##### Section 1ère. Nominations incompatibles ou en dehors des normes
+
+**Art. V.11**
+
+Si un membre du personnel de l'enseignement communautaire ou de l'enseignement subventionné a été nommé au mépris du statut administratif ou en dehors des normes, le Gouvernement flamand peut recouvrer le traitement correspondant à la période, dans le délai d'un an à dater de la réception, par les services administratifs du Gouvernement flamand, de la décision portant cette nomination.
+
+Dans l'enseignement communautaire, les membres du personnel ainsi nommés illégalement sont démissionnaires d'office.
+
+Dans l'enseignement subventionné, cette nomination est inopposable à l'autorité de paiement. En outre, dans l'enseignement officiel subventionné, le membre du personnel nommé irrégulièrement à titre définitif est réputé pour sa part avoir été désigné dans une fonction qui a été supprimée à partir du moment où l'autorité scolaire est informée par l'autorité compétente du fait que la nomination ne remplit pas les conditions.
+
+Le membre du personnel est licencié avec un délai de préavis dont la durée est fixée selon le nombre de jours de travail nécessaires pour pouvoir prétendre aux allocations de chômage et de l'assurance maladie-invalidité obligatoire. Au cours du préavis, le membre du personnel est réputé avoir été désigné à titre temporaire et bénéficie du traitement brut de la fonction dans laquelle il a été nommé à titre définitif.
+
+##### Section 2. Agrément de nomination à titre définitif
+
+**Art. V.12**
+
+Pour les membres du personnel de l'enseignement maternel, primaire et fondamental subventionné définitivement nommés par l'autorité scolaire avant le 1er juin 1991, pour lesquels aucune demande d'agrément de nomination à titre définitif n'avait été introduite, qui étaient rémunérés comme membres du personnel définitivement nommés et qui remplissent les conditions d'agrément d'une nomination définitive en vigueur au 1er juin 1991, la nomination à titre définitif est réputée avoir été agréée.
+
+**Art. V.13**
+
+À défaut de confirmation formelle, le membre du personnel qui a travaillé dans l'ancien enseignement de l'Etat et était rémunéré pour ses prestations dans l'enseignement l'Etat comme membre du personnel nommé à titre définitif dans une fonction accessoire est considéré comme effectivement nommé à titre définitif pour les prestations ainsi rémunérées.
+
+**Art. V.14**
+
+À partir de l'entrée en vigueur des arrêtés du Gouvernement flamand visés dans les dispositions réglementaires en matière de mise en disponibilité, de réaffectation et de remise au travail, l'agrément de la nomination définitive, visé dans la loi sur les pensions du 30 janvier 1954, s'entend pour les membres du personnel visés dans les arrêtés susvisés de la nomination à titre définitif au sens des même arrêtés.
+
+##### Section 3. Personnel de l'enseignement communautaire
+
+###### Sous-section 1ère.. Messager-huissier ou surveillant
+
+**Art. V.15**
+
+Les membres du personnel occupés comme messager-huissier ou surveillant dans une école ou un centre de l'enseignement communautaire sont nommés à titre définitif, respectivement dans la fonction de messager-huissier au 1er septembre 1999 ou dans la fonction de surveillant au 1er janvier 2001.
+
+A partir de la date de leur nomination à titre définitif, les dispositions relatives au statut des membres du personnel de l'enseignement communautaire s'appliquent à eux.
+
+Un remplaçant du membre du personnel nommé à titre définitif en exécution du présent article ne peut être financé, à partir du 1er septembre 1999 ou à partir du 1er janvier 2001, à charge du budget de la Communauté flamande que si le membre du personnel est autorisé à interrompre sa carrière professionnelle en vertu de la réglementation en vigueur relative à l'interruption de la carrière.
+
+###### Sous-section 2. Personnel de maîtrise, de métier et de service
+
+**Art. V.16**
+
+Dans les limites de la compétence qui lui est dévolue par l'article 23, § 1er, 4°, h, du décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire, le conseil d'administration du groupe d'écoles définit annuellement, après négociation au sein du comité de base du groupe d'écoles, un cadre organique pour le personnel de maîtrise, de métier et de service contractuel.
+
+###### Sous-section 3. Correspondant comptable
+
+**Art. V.17**
+
+Par dérogation aux dispositions du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, les membres du personnel désignés à titre temporaire dans la fonction de correspondant comptable ou nommés à titre définitif dans la même fonction ou dans celle de premier correspondant comptable et qui, au 1er septembre 1990, exerçaient la fonction d'éducateur-économe dans un établissement d'enseignement secondaire spécial de l'enseignement communautaire issu de la transformation d'une section d'enseignement primaire spécial pour élèves de 13 ans et plus (4ème degré) dans l'ancien enseignement de l'Etat, peuvent continuer à exercer cette fonction.
+
+À partir du 1er septembre 2006, les membres du personnel visés à l'alinéa 1er ont droit à une désignation dans une fonction du personnel d'appui si, en application de l'article 100quinquies du décret relatif au statut des membres du personnel de l'enseignement communautaire, ils sont nommés par concordance à une fonction du personnel d'appui. En ce qui concerne leur statut administratif et pécuniaire, ils continuent à appartenir au personnel administratif. Par dérogation à cette dernière disposition, leur traitement est fixé dans le barème 125 attribué aux membres du personnel de l'enseignement spécial.
+
+Pour déterminer le nombre de jours d'ancienneté de service visée à l'article 97, § 1er, du décret précité, les membres du personnel désignés à titre temporaire dans la fonction de correspondant comptable, mais qui exercent la fonction d'éducateur-économe, sont réputés prester leurs services dans une fonction administrative.
+
+Pour l'application du même article 97 :
+
+\- ces membres du personnel sont réputés occuper, au 1er avril 1991, un emploi de correspondant comptable en fonction principale ;
+
+\- l'emploi que les membres du personnel concernés sont réputés occuper est considéré comme un emploi auquel il ne devait pas être pourvu par réaffectation à cette date ;
+
+\- l'emploi que les membres du personnel concernés sont réputés occuper est réputé satisfaire à la disposition du § 4 de l'article 97.
+
+Sans préjudice de la protection juridique organisée par la loi en vertu de l'article 146 de la Constitution, le statut des membres du personnel qui, en tant que correspondant comptable ou premier correspondant comptable, ont exercé, pendant la période du 1er septembre 1990 au 31 mars 1991, la fonction d'éducateur-économe dans un établissement visé à l'alinéa 1er, est confirmé.
+
+###### Sous-section 4. Contremaître, chef d'atelier, conseiller technique ou conseiller-coordinateur technique
+
+**Art. V.18**
+
+Sans préjudice de la protection juridique organisée par la loi en vertu de l'article 146 de la Constitution, les emplois dans la fonction de contremaître, chef d'atelier, conseiller technique ou de conseiller-coordinateur technique, qui étaient créés ou maintenus avant le 1er septembre 2008, sont considérés comme créés ou maintenus selon les dispositions de l'article 25 de la codification relative à l'enseignement secondaire.
+
+#### Chapitre 4. Contrôle de l'absence pour maladie
+
+**Art. V.19**
+
+À l'exclusion de l'enseignement universitaire ainsi que, à partir d'une date à déterminer par le Gouvernement flamand, de l'enseignement supérieur non universitaire, il est procédé au contrôle de l'absence pour maladie des membres du personnel de l'enseignement financé ou subventionné par la Communauté flamande et dont le traitement ou la subvention-traitement est complètement ou partiellement à charge de la Communauté flamande, suivant les règles que détermine le Gouvernement flamand.
+
+Le Gouvernement flamand peut désigner la personne ou l'établissement chargé du contrôle médical de l'absence pour maladie.
+
+Le membre du personnel qui ne respecte pas les dispositions prévues par ou en vertu du présent article, peut, sans préjudice des dispositions des décrets sur le statut, être sanctionné financièrement suivant les conditions fixées par le Gouvernement flamand.
+
+Le Gouvernement flamand garantit en tout cas le droit à la défense du membre du personnel concerné.
+
+#### Chapitre 5. Fonctionnement des organisations syndicales
+
+##### Section 1ère. Accompagnement de comités locaux
+
+**Art. V.20**
+
+§ 1er. Les organisations syndicales affiliées à une centrale syndicale représentée au Sociaal-Economische Raad van Vlaanderen (Conseil socio-économique de la Flandre) peuvent disposer de membres du personnel de l'enseignement, en congé pour mission spéciale conformément aux dispositions réglementaires applicables. Ces membres du personnel doivent être chargés par ces organisations syndicales de l'accompagnement d'innovations dans l'enseignement quant à leurs conséquences pour les membres du personnel ainsi que de l'accompagnement et de l'appui des comités locaux dans l'enseignement spécial, l'éducation des adultes, l'enseignement artistique à temps partiel et les centres d'encadrement des élèves.
+
+§ 2. Le nombre total de membres du personnel provenant de l'enseignement ne peut pas dépasser six pour les différentes organisations syndicales confondues visées au § 1er.
+
+§ 3. Le Gouvernement flamand détermine le mode de répartition du nombre de membres du personnel visé au présent article entre les organisations concernées et fixe la procédure de demande.
+
+**Art. V.21**
+
+§ 1er. Chaque année, un montant est mis à disposition, dans les limites des crédits budgétaires prévus, des organisations syndicales représentatives affiliées à une organisation syndicale représentée au Conseil socio-économique de la Flandre pour le soutien des activités syndicales de leurs délégués syndicaux.
+
+§ 2. Le Gouvernement flamand détermine le montant et le mode de répartition de ce montant entre les organisations syndicales concernées et fixe la procédure de demande.
+
+##### Section 2. Médiateurs
+
+**Art. V.22**
+
+Le Comité sectoriel X ou la sous-section « Communauté flamande » de la section 2 du Comité des services publics provinciaux et locaux se posent en médiateur, à la demande d'un délégué des organisations syndicales représentatives, d'un délégué de l'autorité scolaire et/ou d'un délégué des associations représentatives des autorités scolaires et/ou de l'enseignement communautaire dans tout différend, conflit ou conflit imminent de nature collective qui se produit dans leur zone d'action respective.
+
+Le Comité sectoriel X et la sous-section « Communauté flamande » de la section 2 du Comité des services publics provinciaux et locaux peuvent notamment désigner un médiateur à cet effet.
+
+Le Comité sectoriel X et la sous-section « Communauté flamande » de la section 2 du Comité des services publics provinciaux et locaux adoptent chacun, dans un délai de six mois à compter du 1er avril 2008, un règlement d'ordre intérieur relatif à la procédure de médiation. Les règlements deviennent exécutoires après ratification par le Gouvernement flamand.
+
+Dans tout différend, conflit ou conflit imminent de nature collective qui se produit dans une communauté scolaire transréseau, le Comité sectoriel X, la sous-section « Communauté flamande » de la section 2 du Comité des services publics provinciaux et locaux, les commissions paritaires centrales de l'enseignement libre subventionné et le Vlaams Onderhandelingscomité voor de basiseducatie (Comité flamand de négociation de l'éducation de base) peuvent se poser en médiateur dans une réunion commune et désigner un médiateur en commun.
+
+##### Section 3. Prime syndicale
+
+**Art. V.23**
+
+§ 1er. La présente section s'applique aux :
+
+1° membres du personnel contractuels désignés dans un établissement ou un centre visé à l'article 4, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, qui tombent sous le coup de l'arrêté royal du 20 décembre 1989 instituant la Commission paritaire pour les employés des institutions de l'enseignement libre subventionné et fixant sa dénomination, sa compétence et le nombre de ses membres ;
+
+2° membres du personnel contractuels des hautes écoles libres tombant sous le coup de l'arrêté royal du 20 décembre 1989 instituant la Commission paritaire pour les employés des institutions de l'enseignement libre subventionné et fixant sa dénomination, sa compétence et le nombre de ses membres ;
+
+3° membres du personnel des universités libres ;
+
+4° membres du personnel, visés à l'article 127, § 1er, 2° et 3°, du décret du 15 juin 2007 relatif à l'éducation des adultes ;
+
+5° membres du personnel occupés auprès du Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs (Centre flamand d'Aide à l'Education des Adultes).
+
+§ 2. Pour l'application de la présente section, on entend par « organisation syndicale représentative » une association du personnel qui déploie des activités en faveur de l'enseignement et qui est affiliée à une organisation syndicale représentée au Conseil socio-économique de la Flandre.
+
+**Art. V.24**
+
+Les membres du personnel visés à l'article V.23, § 1er, reçoivent une prime syndicale annuelle lorsqu'ils sont affiliés à une organisation syndicale représentative en tant que membre cotisant. Le Gouvernement flamand fixe les conditions auxquelles doivent satisfaire les membres du personnel afin d'être considérés comme membre cotisant.
+
+Le Gouvernement flamand détermine le montant, les conditions d'octroi et les modalités de paiement de la prime syndicale, y compris les mesures visant à en prévenir l'octroi et le paiement cumulés.
+
+**Art. V.25**
+
+L'autorité flamande transfère aux organismes de paiement les sommes nécessaires au paiement des primes syndicales et aux frais de fonctionnement administratifs y liés. Un seul organisme de paiement est créé sous la forme d'association sans but lucratif par organisation syndicale représentée au Conseil socio-économique de la Flandre.
+
+Le Gouvernement flamand détermine le montant et les modalités de versement des sommes visées à l'alinéa 1er.
+
+Le Gouvernement flamand arrête les mesures de contrôle relatives à l'octroi et au paiement des primes syndicales.
+
+Le Gouvernement flamand règle également le contrôle des organismes de paiement visés à l'alinéa 1er.
+
+**Art. V.26**
+
+Les dispositions de la présente section ne s'appliquent pas aux membres du personnel qui, à la date du 30 août 2011, peuvent percevoir une prime syndicale sur la base d'autres dispositions légales, réglementaires ou conventionnelles.
+
+#### Chapitre 6. Régimes des congés
+
+##### Section 1ère. Régime des congés et vacances annuelles
+
+**Art. V.27**
+
+§ 1er.[<sup>2</sup> § 1er. le Gouvernement flamand détermine le régime des congés pour :
+
+1° les membres du personnel visés à l'article 2, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° les membres du personnel visés à l'article 4, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves.]<sup>2</sup>.
+
+§ 2. Les infractions à cette réglementation peuvent donner lieu à des sanctions.
+
+La sanction visée peut consister, dans l'enseignement subventionné, en un recouvrement partiel du budget de fonctionnement.
+
+Dans l'enseignement communautaire cette sanction peut consister en une retenue partielle du budget de fonctionnement octroyé à l'Enseignement communautaire.
+
+§ 3. Le Gouvernement flamand arrête les modalités d'application des sanctions.
+
+----------
+
+(1)&lt;DCFL 2018-03-09/12, art. 161, 003; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2023-06-16/12, art. 148, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.28**
+
+Le Gouvernement flamand fixe la durée et la période des vacances annuelles en ce qui concerne :
+
+1° les membres du personnel visés à l'article 2, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° les membres du personnel visés à l'article 4, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+3° les membres du personnel des garderies de l'enseignement communautaire situées dans la Région bilingue de Bruxelles-Capitale, visés à la partie IV de la présente codification.
+
+##### Section 2. Congé politique
+
+**Art. V.29**
+
+La présente section s'applique aux :
+
+1° membres du personnel visés à l'article 2, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° membres du personnel visés à l'article 4, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+3° membres de l'Inspection de l'enseignement visés au décret du 8 mai 2009 relatif à la qualité de l'enseignement;
+
+[<sup>1</sup> 4° membres du personnel visés à l'article 3, § 1er, du décret du 7 juillet 2017 relatif au statut des membres du personnel dans l'éducation de base.]<sup>1</sup>
+
+La section s'applique aux membres du personnel précités dans la mesure où
+
+\- soit ils ont été nommés à titre définitif ou admis au stage ;
+
+\- soit ils ont été nommés à titre définitif et leur nomination a été agréée, là où l'agrément existe ;
+
+\- soit ils ont été désignés comme membre du personnel temporaire.
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. IX.20,5°, 002; En vigueur : 01-01-2018&gt;
+
+**Art. V.30**
+
+[<sup>1</sup> Les membres du personnel visés à l'article V.29 sont envoyés en congé politique d'office et sans qu'ils puissent s'y soustraire, pour l'exercice des mandats politiques suivants :
+
+1° bourgmestre d'une commune de plus de 50.000 habitants ;
+
+2° échevin ou président du comité spécial du service social d'une commune de plus de 80.000 habitants ;
+
+3° membre de la députation d'un conseil provincial ;
+
+4° président d'une agglomération ou d'une fédération de communes ;
+
+5° membre de la Chambre des représentants ou du Sénat ;
+
+6° membre du Parlement flamand ;
+
+7° membre du Parlement de Bruxelles-Capitale ;
+
+8° membre du Parlement européen ;
+
+9° membre du Gouvernement fédéral ;
+
+10° membre du Gouvernement flamand ou du Gouvernement de Bruxelles-Capitale ;
+
+11° secrétaire d'Etat de la Région de Bruxelles-Capitale ;
+
+12° membre de la Commission communautaire flamande.
+
+Le congé politique d'office débute à la date de la prestation de serment pour un des mandats précités.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/18, art. 4, 007; En vigueur : 01-01-2019&gt;
+
+**Art. V.31**
+
+[<sup>1</sup> A sa demande, un congé politique à temps plein ou à temps partiel est attribué au membre du personnel pour l'exercice d'un mandat de :
+
+1° bourgmestre, échevin ou conseiller communal ;
+
+2° conseiller provincial n'étant pas membre de la députation d'un conseil provincial ;
+
+3° président ou membre du comité spécial du service social ;
+
+4° président, membre du bureau permanent ou membre du conseil de l'aide sociale qui sert la commune de Fourons, ou d'une commune telle que visée à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966 ;
+
+5° bourgmestre de district, d'échevin de district ou de membre du conseil de district.
+
+Le Gouvernement flamand peut définir des conditions applicables aux membres du personnel qui prennent ce congé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/18, art. 5, 007; En vigueur : 01-01-2019&gt;
+
+**Art. V.32**
+
+[<sup>1</sup> Pour l'application de l'article V.30, alinéa premier, 1° et 2°, le nombre d'habitants est déterminé conformément aux dispositions du décret du 22 décembre 2017 sur l'administration locale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/18, art. 6, 007; En vigueur : 01-01-2019&gt;
+
+**Art. V.33**
+
+Pendant les périodes de congé politique à sa demande ou d'office, le membre du personnel se trouve en position de non-activité. Pendant ces périodes, le membre du personnel n'a pas droit à un traitement ni à une subvention-traitement. Il conserve néanmoins ses droits à l'avancement de traitement ou de subvention-traitement.
+
+**Art. V.34**
+
+Le congé politique se termine au plus tard le dernier jour du mois qui suit celui pendant lequel le mandat prend fin.
+
+**Art. V.35**
+
+Après sa réintégration dans l'enseignement ou dans le centre d'encadrement des élèves, le membre du personnel visé à l'article V.34 ne peut cumuler son traitement/sa subvention-traitement, son traitement d'attente/sa subvention-traitement d'attente avec des avantages liés à l'exercice d'un mandat politique visé à l'article V.30, alinéa 1er, et à l'article V.31 et qui constituent une indemnité de réadaptation.
+
+A la demande du membre du personnel concerné, le ministre flamand compétent en matière d'enseignement peut autoriser le report de la reprise de la charge pendant une période d'un an maximum.
+
+Pendant cette période le membre du personnel se trouve en position de non-activité et n'a pas droit à un traitement ou à une subvention-traitement. Il conserve cependant ses droits à l'avancement de traitement ou de subvention-traitement.
+
+**Art. V.36**
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 80, 025; En vigueur : 01-09-2023&gt;
+
+**Art. V.37**
+
+La présente section produit ses effets à partir du 1er janvier 1993, à l'exception de l'article V.30 qui entre en vigueur à la date de la prestation de serment pour l'un des mandats y visés après les élections suivantes pour le même mandat.
+
+Par dérogation à l'alinéa précédent, le membre du personnel qui exerce ou a exercé un mandat politique, comme prévu à l'article V.30, peut déjà obtenir à sa demande, pendant la période du 1er janvier 1989 jusqu'à la date de l'entrée en vigueur de l'article V.30, l'application des dispositions de la présente section.
+
+#### Chapitre 7. Conditions de travail secondaires pour les membres du personnel contractuels à charge du Ministère de l'Enseignement et de la Formation et les membres du personnel contractuels subventionnés
+
+**Art. V.38**
+
+Le présent chapitre s'applique aux membres du personnel contractuels à charge du Ministère de l'Enseignement et de la Formation et aux membres du personnel contractuels subventionnés, rémunérés par le Ministère flamand de l'Enseignement et de la Formation, et qui sont désignés dans :
+
+1° [<sup>1</sup> un établissement visé]<sup>1</sup> à l'article 2, § 1er du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° [<sup>1</sup> un établissement visé]<sup>1</sup> à l'article 4, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 149, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.39**
+
+Aux membres du personnel visés à l'article V.38 qui :
+
+1° ont été désignés dans [<sup>1</sup> un établissement visé]<sup>1</sup> à l'article V.38, 1°, s'appliquent les dispositions des articles 12bis,1er, 12sexies et 12septies, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° ont été désignés dans[<sup>1</sup> un établissement visé]<sup>1</sup> à l'article V.38, 2°, s'appliquent les dispositions des articles 17bis, § 1er, 17sexies et 17septies, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 150, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.40**
+
+Le présent chapitre ne s'applique pas aux services d'encadrement pédagogique.
+
+### Titre 2. Statut pécuniaire
+
+#### Chapitre 1er. Dispositions de base
+
+**Art. V.41**
+
+Le présent chapitre s'applique aux :
+
+1° membres du personnel visés à l'article 2, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° membres du personnel visés à l'article 4, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+3° membres de l'Inspection de l'enseignement visés au décret du 8 mai 2009 relatif à la qualité de l'enseignement.
+
+4° membres du personnel visés à l'article 10 du décret du 1er décembre 1993 relatif à l'inspection et à l'encadrement des cours philosophiques;
+
+[<sup>1</sup> 5° membres du personnel visés à l'article 3 du décret du 7 juillet 2017 relatif au statut des membres du personnel dans l'éducation de base.]<sup>1</sup>
+
+[<sup>2</sup> Pour l'application du présent chapitre, sont considérés comme établissements :
+
+1° un établissement tel que visé à l'article 2, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° un établissement tel que visé à l'article 4, § 1er, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+3° un centre d'éducation de base.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. IX.20,6°, 002; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2023-06-16/12, art. 151, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.42**
+
+Les autorités [<sup>1</sup> établissements]<sup>1</sup> subventionnés sont tenues d'accorder à leur personnel, engagé selon les dispositions décrétales prévues, une subvention-traitement au moins égale au traitement accordé aux intéressés pour l'enseignement communautaire.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 152, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.43**
+
+La Communauté flamande paie directement et mensuellement la subvention-traitement aux membres du personnel [<sup>1</sup> établissements]<sup>1</sup> subventionnés.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 153, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.44**
+
+[<sup>1</sup> Un traitement ou une subvention-traitement est accordé(e) aux membres du personnel visés à l'article V.41.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 154, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.45**
+
+[<sup>2</sup> Un établissement ou une partie de celui-ci]<sup>2</sup> ne reçoit un financement ou un subventionnement que pour les membres de son personnel :
+
+1° qui sont ressortissants d'un Etat membre de l'Union européenne ou de l'Association européenne de libre-échange, sauf dispense à accorder par le Gouvernement flamand ;
+
+2° qui jouissent des droits civils et politiques, sauf dispense à accorder par le Gouvernement flamand et allant de pair avec la dispense visée au 1° ;
+
+3° qui sont porteurs des titres fixés dans la réglementation ;
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° qui ont été engagés dans le respect de la réglementation relative à la mise en disponibilité par défaut d'emploi, à la réaffectation et à la remise au travail.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 239, 016; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFL 2023-06-16/12, art. 155, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.46**
+
+Si le tribunal du travail considère, aux termes d'un jugement ou d'un arrêt passé en force de chose jugée, qu'une décision prise par une autorité de l'enseignement libre subventionné et tendant à supprimer ou à réduire la charge d'un membre du personnel qu'elle a nommé à titre définitif est contraire au décret relatif au statut des membres du personnel de l'enseignement subventionné, ce membre du personnel reçoit la subvention-traitement pour tout ou partie de la charge dont il a été privé, comme s'il était resté en activité de service, tandis que l'autorité perd la subvention-traitement pour tout ou partie de l'emploi, tant qu'elle affecte cet emploi à un membre du personnel autre que le titulaire.
+
+La présente disposition sort également ses effets lorsque la chambre de recours, visée à l'article 69 du décret relatif au statut des membres du personnel de l'enseignement subventionné, annule le licenciement d'un membre du personnel nommé à titre définitif prononcé par l'autorité par mesure disciplinaire.
+
+La présente disposition sort également ses effets lorsque le collège de recours, visé à l'article 47septiesdecies du décret relatif au statut des membres du personnel de l'enseignement subventionné, a annulé l'une des évaluations ayant comme conclusion finale « insuffisant » qui ont conduit au licenciement, tel que visé au chapitre Vter du même décret, d'un membre du personnel nommé à titre définitif.
+
+La perte de la subvention-traitement octroyée pour un emploi prend fin pour l'autorité :
+
+1° soit au moment où l'acte irrégulier est rectifié par l'autorité ;
+
+2° soit si la même ou une autre autorité reprend le membre du personnel lésé, avec l'accord de ce dernier ;
+
+3° soit au moment où le membre du personnel lésé refuse sans motif valable d'accepter un emploi offert, dans la même fonction et avec la même situation statutaire, par l'autorité scolaire ou par une autre autorité ;
+
+4° soit au moment où le membre du personnel lésé se trouve, pour des raisons étrangères au litige, dans les conditions requises pour la cessation définitive de ses fonctions.
+
+La subvention-traitement qui a été octroyée à l'autorité au cours de la période entre le licenciement illégitime et la signification, aux services du Gouvernement flamand compétents en matière d'enseignement, du jugement ou de l'arrêt ou de la décision des chambres de recours précitées ou du collège de recours précité est réclamée à cette autorité et est ensuite attribuée au membre du personnel indûment licencié.
+
+Dès la signification précitée, les services du Gouvernement flamand compétents en matière d'enseignement paient la subvention-traitement directement au membre du personnel indûment licencié jusqu'au moment où il est satisfait à l'une des quatre conditions précitées.
+
+**Art. V.47**
+
+§ 1er. Le traitement annuel ou la subvention-traitement, ci-après dénommés « traitement », des membres du personnel cités [<sup>1</sup> à l'article V.41]<sup>1</sup> est fixé dans un barème des salaires composé :
+
+1° d'un traitement minimum ;
+
+2° d'échelons résultant d'augmentations périodiques de traitement ;
+
+3° d'un traitement maximum.
+
+Pour certaines fonctions, le barème des salaires peut être remplacé par un montant fixe.
+
+Le traitement minimum, les augmentations périodiques de traitement et le traitement maximum sont exprimés en un nombre d'unités monétaires.
+
+Le traitement, augmenté de l'allocation éventuelle de foyer ou de résidence, n'est jamais inférieur à la rémunération minimale garantie.
+
+§ 2. Le Gouvernement flamand fixe pour chaque fonction le barème des salaires. Pour ce faire, il peut tenir compte :
+
+1° de la nature de la fonction ;
+
+2° du niveau d'enseignement ;
+
+3° de la forme d'enseignement ;
+
+4° du degré ;
+
+5° de l'enseignement professionnel supérieur du niveau de
+
+qualification 5 ;
+
+6° du cycle ou de la forme d'enseignement où la fonction est exercée ; 7° des titres qui y donnent accès ;
+
+8° du cours à enseigner, de la spécialité, de la formation ou du module ;
+
+9° du nombre d'élèves dans l'école de l'enseignement fondamental où la fonction de directeur est exercée ;
+
+10° du suivi d'une formation.
+
+Il échelonne les barèmes des salaires et détermine comment ils sont indiqués.
+
+§ 3. Le Gouvernement flamand fixe les conditions de passage aux échelons suivants au sein d'un même barème des salaires, y compris les conditions d'ancienneté.
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. IX.19, 002; En vigueur : 01-01-2017&gt;
+
+**Art. V.48**
+
+Le Gouvernement flamand détermine le mode de fixation du traitement des membres du personnel.
+
+Pour la fixation du traitement d'un membre du personnel, il peut être tenu compte, en plus du barème des salaires, des autres activités que le membre du personnel exerce ou a exercées tant dans l'enseignement qu'en dehors. Le Gouvernement détermine la manière dont il est tenu compte de ces éléments pour la fixation du traitement d'un membre du personnel. Il détermine également la manière dont le volume des prestations fournies est pris en compte.
+
+**Art. V.49**
+
+À chaque modification du régime de rémunération d'une fonction, tout traitement établi en tenant compte de cette fonction est à nouveau fixé suivant le nouveau régime de rémunération.
+
+Si le traitement ainsi fixé est inférieur à celui dont le membre du personnel bénéficiait dans sa fonction à l'entrée en vigueur de la modification, ce dernier traitement lui est maintenu dans cette fonction jusqu'à ce qu'il obtienne un traitement au moins égal, sous réserve d'autres dispositions plus favorables arrêtées par le Gouvernement flamand
+
+**Art. V.50**
+
+§ 1er. Le traitement est payé à terme échu, à savoir le dernier jour ouvrable du mois, sauf le paiement du traitement du mois de décembre, qui a lieu le premier jour ouvrable du mois de janvier de l'année suivante. Il en est de même des allocations ainsi que de tout autre élément de la rémunération payé en même temps que le traitement.
+
+§ 2. En cas de départ à la retraite ou de décès d'un membre du personnel nommé à titre définitif ou admis au stage, le traitement du mois en question est payé intégralement au membre du personnel ou à ses ayants droit selon le cas.
+
+**Art. V.51**
+
+Par dérogation aux dispositions du présent chapitre, un membre du personnel remplaçant temporairement un membre du personnel cité à [<sup>1</sup> l'article V.41]<sup>1</sup> ne reçoit un traitement que lorsque le remplacement répond aux conditions spécifiques fixées par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. IX.19, 002; En vigueur : 01-01-2017&gt;
+
+**Art. V.52**
+
+Le traitement suit l'évolution de l'indice des prix à la consommation, conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public ou conformément à toute disposition qui la modifierait. A partir du 1er janvier 1994, la liaison à l'indice des prix à la consommation est remplacée par la liaison à l'indice des prix calculé et nommé pour l'application de l'article 2 de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays.
+
+**Art. V.53**
+
+Le membre du personnel a droit à une rémunération minimale garantie, une allocation de foyer ou de résidence, un pécule de vacances annuel et une allocation de fin d'année.
+
+Le Gouvernement flamand fixe les conditions à remplir en la matière.
+
+Il est loisible au Gouvernement de créer, par voie d'arrêté, d'autres allocations, indemnités, suppléments et compléments de traitement pour des prestations supplémentaires, des prestations à l'intérieur d'une certaine circonscription géographique, des compétences spéciales, la possession d'aptitudes spécifiques et l'indemnisation de frais. Il définit les catégories de bénéficiaires ainsi que les conditions d'octroi y afférentes.
+
+**Art. V.54**
+
+En attendant que le Gouvernement flamand établisse un nouveau régime de rémunération en exécution des présentes dispositions, les dispositions légales, décrétales ou réglementaires applicables au moment de l'entrée en vigueur du présent décret restent valables.
+
+Jusqu'au moment de l'entrée en vigueur du nouveau régime de rémunération, le Gouvernement flamand est autorisé à modifier, à abroger et/ou à remplacer en tout ou en partie les dispositions en vigueur.
+
+#### Chapitre 2. Rémunération en fonction accessoire
+
+##### Section 1ère.
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 81, 025; En vigueur : 01-09-2023&gt;
+
+**Art. V.55**
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 81, 025; En vigueur : 01-09-2023&gt;
+
+##### Section 2.
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 82, 025; En vigueur : 01-09-2023&gt;
+
+**Art. V.56**
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 82, 025; En vigueur : 01-09-2023&gt;
+
+##### Section 3.
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 83, 025; En vigueur : 01-09-2023&gt;
+
+**Art. V.57**
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 83, 025; En vigueur : 01-09-2023&gt;
+
+##### Section 4.
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 84, 025; En vigueur : 01-09-2023&gt;
+
+**Art. V.58**
+
+&lt;Abrogé par DCFL 2023-11-23/33, art. 84, 025; En vigueur : 01-09-2023&gt;
+
+##### Section 5. Enseignement artistique
+
+**Art. V.59**
+
+§ 1er. Le présent article s'applique aux membres du personnel qui, à la date d'entrée en vigueur du décret du 13 juillet 1994 relatif aux instituts supérieurs en Communauté flamande, étaient effectivement en service dans l'enseignement artistique supérieur ou étaient titulaires d'une fonction non exclusive, telle que définie à l'article 5 de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique, et étaient aussi effectivement en service ou étaient titulaires d'une fonction dans un autre niveau/une autre forme d'enseignement.
+
+§ 2. Par dérogation aux dispositions légales, décrétales et réglementaires existantes en matière de régime de rémunération, le traitement ou la subvention-traitement octroyé(e) aux membres du personnel visés au § 1er pour leurs charges dans d'autres niveaux/formes d'enseignement est fixé(e) comme suit :
+
+1\. selon les principes régissant la rémunération de la fonction principale dans :
+
+\- l'arrêté royal précité du 15 avril 1958 ;
+
+\- l'arrêté royal du 10 mars 1965 portant statut pécuniaire du personnel des cours à horaire réduit relevant du Ministère de l'Education nationale et de la Culture.
+
+2\. jusqu'à concurrence des prestations maximales définies à l'article 77 de la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977, des prestations dans un/des établissement(s) d'enseignement supérieur et les autres niveaux/formes d'enseignement confondus.
+
+Pour le calcul du traitement ou de la subvention-traitement, les prestations fournies dans l'institut supérieur en Communauté flamande sont toujours prises en compte en premier lieu, le cas échéant par dérogation aux dispositions du :
+
+\- Titre III : fonctions principales à prestations incomplètes de l'arrêté royal précité du 15 avril 1958 ;
+
+\- Titre IV} : fonctions à prestations incomplètes de l'arrêté royal précité du 10 mars 1965.
+
+§ 3. Le traitement ou la subvention-traitement, fixé(e) conformément aux dispositions du § 2, est accordé(e) aux membres du personnel concernés à titre personnel. Ils restent donc rémunérés aussi longtemps qu'outre une charge dans l'enseignement supérieur, ils sont effectivement en service ou sont titulaires d'une fonction dans un autre niveau/une autre forme d'enseignement, quelles que soient les modifications qui se produisent au niveau des charges dans l'enseignement supérieur ou dans les autres niveaux/formes d'enseignement.
+
+§ 4. Le présent article ne s'applique plus dès que le membre du personnel concerné cesse d'être titulaire d'une ou de plusieurs fonctions dans l'enseignement supérieur ou dans un ou plusieurs autres niveaux d'enseignement.
+
+#### Chapitre 3. Frais de transport
+
+**Art. V.60**
+
+§ 1er. Le présent chapitre s'applique aux :
+
+1° membres du personnel visés au décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° membres du personnel visés au décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+3° personnes occupées en tant que contractuels subventionnés dans les établissements d'enseignement et les centres d'encadrement des élèves ;
+
+4° contractuels payés à charge du Département de l'Enseignement, à l'exception des contractuels des centres d'éducation de base ;
+
+5° contractuels rémunérés avec le budget de fonctionnement [<sup>2</sup> établissements]<sup>2</sup> ;
+
+6° membres du personnel des garderies bruxelloises de l'enseignement communautaire situées dans la région bilingue de Bruxelles-Capitale.
+
+[<sup>1</sup> 7° membres du personnel visés à l'article 3 du décret du 7 juillet 2017 relatif au statut des membres du personnel dans l'éducation de base.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. Les dispositions du présent chapitre s'appliquent aux membres du personnel des instituts supérieurs en Communauté flamande, à l'exception de l'article V.62 en ce qui concerne les frais de transport et les indemnités vélo exposés à partir de l'année calendrier 2015.
+
+----------
+
+(1)&lt;DCFL 2022-02-25/10, art. 46, 017; En vigueur : 01-01-2022&gt;
+
+(2)&lt;DCFL 2023-06-16/12, art. 156, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.61**
+
+Les membres du personnel [<sup>1</sup> , visés à l'article V.60, § 1er, 1° à 6°,]<sup>1</sup> ont droit, selon les modalités déterminées par le Gouvernement flamand, au remboursement total des frais de transports en commun sur le chemin du travail [<sup>1</sup> ...]<sup>1</sup>, à charge de l'employeur.
+
+[<sup>1</sup> Conformément aux modalités arrêtées par le Gouvernement flamand, les membres du personnel visés à l'article V.60 ont droit à une indemnité vélo mensuelle, à charge de l'employeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-02-25/10, art. 47, 017; En vigueur : 01-01-2022&gt;
+
+**Art. V.62**
+
+Selon les modalités déterminées par le Gouvernement flamand, les frais de transport et les indemnités vélo supportés par l'employeur sont remboursés par le Ministère flamand de l'Enseignement et de la Formation.
+
+**Art. V.63**
+
+Les interventions dans les frais de transport des membres du personnel, visées à l'article 10 de l'arrêté du Gouvernement flamand du 22 juillet 1993 relatif à l'intervention des employeurs du secteur de l'enseignement dans les frais de transport de leurs membres du personnel, sont payées au même moment que l'avance sur le budget de fonctionnement de l'année scolaire suivante, pour autant que la demande de remboursement ne soit pas frauduleuse et soit introduite auprès du Ministère flamand de l'Enseignement et de la Formation au plus tard le 10 décembre suivant l'année scolaire à laquelle se rapporte le remboursement.
+
+#### Chapitre 4. Répétitions
+
+**Art. V.64**
+
+Les traitements et les rémunérations y assimilées des membres du personnel de l'enseignement communautaire ainsi que le budget de fonctionnement et les moyens d'investissement accordés au mépris de dispositions légales, décrétales ou réglementaires peuvent être recouvrés ou déduits du budget de fonctionnement octroyé à l'enseignement communautaire ou à ses établissements, sauf si la faute est due à l'autorité de paiement.
+
+**Art. V.65**
+
+Sont définitivement acquises les sommes payées indûment par la Communauté flamande en matière de traitements, d'avances sur ceux-ci ainsi que d'indemnités, d'allocations ou de prestations qui sont accessoires ou similaires aux traitements, lorsque le remboursement n'en a pas été réclamé aux autorités scolaires ou à leurs membres du personnel dans un délai de deux ans à partir du 1er janvier de l'année du paiement, sous la forme définie à l'article 16, § 2, alinéa 1er, de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes.
+
+À compter de la demande visée à l'alinéa 1er, la répétition de l'indu peut être poursuivie pendant le délai prévu à l'article 16, § 2, alinéa 2, de la loi précitée.
+
+En matière de traitements, d'avances sur ceux-ci ainsi que d'indemnités, d'allocations ou de prestations qui sont accessoires ou similaires aux traitements, aucun remboursement des sommes payées indûment par la Communauté flamande dont le total ne dépasse pas 25 euros n'est réclamé aux autorités scolaires ou à leurs membres du personnel.
+
+Le Gouvernement flamand peut modifier le montant fixé à l'alinéa précédent. Le présent article ne s'applique pas à l'enseignement supérieur.
+
+#### Chapitre 5. Dispositions diverses
+
+##### Section 1ère. Contractuels Département Enseignement et Formation
+
+**Art. V.66**
+
+§ 1er. La Communauté flamande peut verser un traitement annuel ou une subvention-traitement annuelle pour certaines catégories de membres du personnel de l'enseignement qui sont engagés via un contrat de travail au sens de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+Le Gouvernement flamand définit les catégories de personnel auxquelles la présente disposition est applicable.
+
+§ 2. Les dispositions de base relatives au statut pécuniaire mentionnées aux articles V.41 à V.54 s'appliquent aux membres du personnel visés au § 1er.
+
+§ 3. Le Gouvernement flamand peut préciser les conditions de paiement.
+
+§ 4. Le Gouvernement flamand fixe le régime des prestations, le régime des vacances, le régime des congés des membres du personnel visés au paragraphe
+
+##### Section 2. Allocation pour une charge au département de l'enseignement
+
+**Art. V.67**
+
+§ 1er. Les dispositions du présent article s'appliquent aux membres du personnel appartenant à l'enseignement financé ou subventionné ou aux centres d'encadrement des élèves financés ou subventionnés et bénéficiant en cette qualité d'un traitement ou d'une subvention-traitement du Ministère flamand de l'Enseignement et de la Formation.
+
+Les membres du personnel visés à l'alinéa 1er qui sont appelés par le ministre flamand en charge de l'enseignement ou son délégué à exercer une charge auprès du Département Enseignement et Formation dans un projet temporaire, auprès du Dienst Beroepsopleiding (Service de la Formation professionnelle), auprès du magazine « Klasse » ou dans un jury ainsi que les membres du personnel auxquels le ministre flamand en charge de l'enseignement a accordé un congé pour mission spéciale dans le cadre d'une charge auprès de l'école internationale Ferney-Voltaire obtiennent, pour la durée de leur charge, une allocation, étant entendu que le montant annuel est fixé comme suit :
+
+Membres du personnel titulaires d'un diplôme d'une formation de base de deux cycles : 3.402,83 euros ;
+
+Autres : 2.381,98 euros.
+
+§ 2. L'allocation visée au § 1er est payée chaque mois à terme échu. L'allocation mensuelle correspond à 1/12ème du montant annuel. Si elle n'est pas entièrement due, elle est payée en jours ouvrables, conformément à la réglementation prévue par le statut pécuniaire du personnel de la Communauté flamande.
+
+§ 3. Les allocations visées aux §§ 1er et 2 sont liées aux fluctuations de l'indice des prix à la consommation, conformément aux conditions fixées par la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation.
+
+§ 4. Concernant l'octroi des indemnités pour frais de voyage ainsi que du régime des congés, les dispositions du Ministère flamand de l'Enseignement et de la Formation s'appliquent à ces membres du personnel
+
+##### Section 3. Professeur de sténodactylographie
+
+**Art. V.68**
+
+Le professeur de cours spéciaux (sténodactylographie), porteur du diplôme d'une école technique supérieure du premier degré (secrétariat ou commerce), complété du certificat d'aptitude pédagogique ou du certificat de cours normaux techniques moyens, est assimilé, quant au barème des salaires, au porteur du diplôme d'agrégé de l'enseignement secondaire inférieur (secrétariat ou commerce), pour autant qu'il soit entré en service avant le 1er septembre 1989.
+
+Le professeur de cours spéciaux (dessin, travaux manuels, éducation plastique), porteur du diplôme d'une école technique supérieure du premier degré (dessin, éducation plastique) ou du diplôme d'enseignement supérieur A7/A1, complétés l'un et l'autre du certificat d'aptitude pédagogique ou du certificat de cours normaux techniques moyens, est assimilé, quant au barème des salaires, au porteur du diplôme d'agrégé de l'enseignement secondaire inférieur (arts plastiques), pour autant qu'il soit entré en service avant le le' septembre 1989.
+
+##### Section 4. Enseignement spécial
+
+**Art. V.69**
+
+Les traitements ou subventions-traitements qui étaient versés, sur la base des mesures prises en exécution de la loi du 6 juillet 1970 sur l'enseignement spécial et intégré, jusqu'au 31 août 1990 aux membres du personnel ayant exercé, dans l'enseignement spécial, maternel, fondamental et secondaire, une fonction de recrutement ou de promotion de la catégorie du personnel directeur et enseignant ou une fonction de recrutement de la catégorie du personnel paramédical sont définitivement acquis dans le chef de ces membres du personnel sauf si, pour ce qui est de l'enseignement subventionné, le membre du personnel concerné était occupé dans un emploi non admissible au subventionnement.
+
+Pour ce qui est des membres du personnel ayant exercé, dans l'enseignement secondaire spécial des formes d'enseignement 1, 2 et 3, une fonction de recrutement dans la catégorie du personnel directeur et enseignant, les rémunérations qui leur étaient versées avant l'entrée en vigueur du présent article sur la base d'un barème des salaires plus élevé que celui auquel ils avaient droit selon la réglementation en vigueur avant le 1er septembre 1990 ne sont plus recouvrables.
+
+Les traitements ou subventions-traitements qui étaient versés jusqu'au 31 août 1990 aux membres du personnel mentionnés ci-après leur sont également définitivement acquis :
+
+1° les membres du personnel désignés dans un emploi admissible au subventionnement qui, sur la base de la réglementation en vigueur avant le 1er septembre 1990, ne sont pas en possession d'un titre requis ou jugé suffisant et qui ne peuvent pas davantage puiser leur compétence dans les mesures prises en exécution de la loi du 6 juillet 1970 sur l'enseignement spécial et intégré, lorsque :
+
+\- soit ils exercent la fonction de directeur dans une école subventionnée d'enseignement secondaire spécial où, outre une forme d'enseignement 4 avec enseignement secondaire supérieur, une ou plusieurs autres formes d'enseignement sont organisées, et qu'ils sont détenteurs du diplôme d'agrégé de l'enseignement secondaire inférieur ; ils obtiennent le barème des salaires 348 ;
+
+\- soit ils exercent la fonction de professeur de formation professionnelle dans la forme d'enseignement 2 d'un établissement subventionné d'enseignement secondaire spécial et qu'ils sont détenteurs du diplôme d'enseignant ; ils obtiennent le barème des salaires 384 ;
+
+\- soit ils exercent la fonction d'éducateur-économe dans une école subventionnée d'enseignement secondaire spécial et qu'ils sont en possession d'un titre jugé suffisant pour la fonction de surveillant-éducateur. Ils sont réputés être également en possession d'un titre jugé suffisant pour la fonction d'éducateur-économe et obtiennent le barème des salaires 125.
+
+2° les membres du personnel qui, avant le 1er septembre 1974, exerçaient dans une section d'enseignement spécial attachée à une école d'application, qui y étaient nommés à titre définitif et agréés, là où l'agrément existe, dans la fonction de sélection soit d'institutrice maternelle dans une école d'application pour institutrices maternelles, soit d'instituteur ou maître de cours spéciaux dans une école primaire d'application, soit de professeur de cours généraux ou de professeur de cours spéciaux dans une école secondaire d'application, et qui, suite à l'autonomisation de la section d'enseignement spécial, ont été chargés de l'exercice de la fonction de recrutement d'institutrice maternelle, d'instituteur, de maître de cours spéciaux, de professeur de cours généraux ou de professeur de cours spéciaux respectivement ; ils obtiennent le barème des salaires attaché à la fonction de sélection exercée avant le 1er septembre 1974. A partir du 1er septembre 1980, cet avantage en termes de régime de rémunération reste également acquis aux membres du personnel précités qui sont passés à un autre établissement d'enseignement spécial en application des mesures prises en exécution des articles 8, 9 et 10 de l'arrêté royal du 28 juin 1978 portant définition des types et organisation de l'enseignement spécial et déterminant les conditions d'admission et de maintien dans les divers niveaux d'enseignement spécial.
+
+Les nominations à titre définitif faites dans les fonctions de l'enseignement spécial subventionné par les autorités scolaires sont réputées répondre à la réglementation en vigueur à condition toutefois que les membres du personnel concernés satisfassent aux conditions de subventionnement et qu'ils aient été nommés dans le respect de la réglementation relative à la mise en disponibilité par défaut d'emploi et à la réaffectation.
+
+Les nominations à titre définitif agréées dans les fonctions de l'enseignement spécial subventionné, là où l'agrément existe, sont réputées avoir été agréées dans le respect des dispositions de l'arrêté royal du 13 février 1968 portant agréation de la nomination définitive des membres du personnel des établissements officiels et libres subventionnés d'enseignement maternel, primaire, spécial secondaire et supérieur de type court et de type long, de plein exercice, et des homes pour enfants dont les parents n'ont pas de résidence fixe.
+
+##### Section 5. Confirmation des arrêtés d'exécution
+
+**Art. V.70**
+
+L'article 2, 2°, alinéa 1er, de l'arrêté du Gouvernement flamand du 8 juin 1994 modifiant l'arrêté royal du 27 juin 1974 fixant au 1er avril 1972 les échelles des fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement de l'Etat, des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, des membres du personnel du service d'inspection de l'enseignement par correspondance et de l'enseignement primaire subventionné et les échelles des grades du personnel des centres psycho-médico-sociaux de l'Etat produit ses effets à compter du 1er septembre 1976.
+
+**Art. V.71**
+
+L'arrêté ministériel du 23 septembre 1994 relatif à la mise en disponibilité pour mission spéciale auprès d'une école européenne est sanctionné.
+
+### Titre 3. Mise en disponibilité par défaut d'emploi
+
+#### Chapitre 1er. Définitions
+
+**Art. V.72**
+
+§ 1er. Pour l'application du présent titre, les définitions données aux notions de « fonction » et d'« emploi » figurant respectivement aux articles 3 et 5 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire et du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves sont applicables.
+
+§ 2. Pour l'application du présent titre, il faut entendre par la notion "pouvoir organisateur », pour ce qui est de l'enseignement communautaire, le conseil local et, à partir du 1er janvier 2000, le groupe d'écoles, sauf stipulation contraire. A défaut du conseil local et, à partir du 1er janvier 2000, du groupe d'écoles, il faut entendre par « pouvoir organisateur » le conseil central et, à partir du 1er janvier 2003, le Conseil de l'enseignement communautaire.
+
+**Art. V.73**
+
+Pour l'attribution des barèmes des salaires, il faut entendre par diplôme universitaire », le diplôme légal des grades académiques de licencié, docteur, pharmacien, d'ingénieur ou d'agrégé ou un diplôme scientifique des mêmes grades, délivré par une université belge ou une institution y assimilée, par une institution y habilitée par la loi ou par décret, par le Jury central ou par un jury d'État ou de la Communauté flamande de l'enseignement universitaire, si la durée des études est de quatre années au moins, même si une partie de ces études n'a pas été suivie dans une des établissements d'enseignement visés.
+
+Sont assimilés à diplôme universitaire les diplômes de fin d'études obtenus conformément à un régime étranger et qui, en vertu d'accords de réciprocité, de traités, de conventions internationales ou conformément à la procédure d'octroi d'équivalence prescrite par la loi ou par décret, ont été déclarés équivalents à l'un des diplômes mentionnés à l'alinéa 1er.
+
+#### Chapitre 2. Champ d'application
+
+**Art. V.74**
+
+§ 1er. Le Gouvernement flamand peut déclarer, dans les limites qu'il détermine, les dispositions du présent titre applicables aux :
+
+1° membres du personnel, [<sup>1</sup> établissements]<sup>1</sup> et autorités auxquels s'appliquent les dispositions du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+2° membres du personnel, [<sup>1</sup> établissements]<sup>1</sup> et autorités auxquels s'appliquent les dispositions du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+3° membres du personnel auxquels s'appliquent les dispositions du décret du 1er décembre 1993 relatif à l'inspection et à l'encadrement des cours philosophiques.
+
+§ 2. Le régime visé au § 1er s'applique uniquement aux membres du personnel qui, au moment de la mise en disponibilité par défaut d'emploi :
+
+1° sont nommés à titre définitif ;
+
+2° exercent l'emploi de la fonction dans laquelle ils sont nommés à titre définitif :
+
+dans l'enseignement communautaire en fonction principale ou en fonction accessoire. Dans ce dernier cas, les dispositions de l'arrêté royal n° 68 du 20 juillet 1982 réglant la situation pécuniaire des membres du personnel chargés d'une fonction accessoire dans l'enseignement de l'Etat s'appliquent ;
+
+\- dans l'enseignement subventionné en fonction principale ;
+
+3° bénéficient, à la veille de la mesure à prendre, d'un traitement ou d'une subvention-traitement à charge de la Communauté flamande.
+
+Les membres du personnel nommés à titre définitif qui sont en congé régulier ou dont l'absence est justifiée ou qui sont mis en disponibilité pour un autre motif que le défaut d'emploi visé ici sont assimilés aux personnes visées à l'alinéa 1er pour l'application du présent régime.
+
+§ 3. Le régime instauré par le présent titre ne s'applique pas aux membres du personnel admis au stage dans une fonction de sélection ou de promotion dans l'enseignement communautaire, par application du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 157, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V.75**
+
+§ 1er. Les membres du personnel peuvent être mis en disponibilité par défaut d'emploi par suite :
+
+\- de l'application des normes en vigueur ;
+
+\- d'une modification de la population scolaire ;
+
+\- d'une décision prise par la Communauté flamande ou par un pouvoir organisateur ayant trait à l'organisation de l'enseignement, de l'inspection de l'enseignement, de l'école ou du centre, de l'internat ou du home d'accueil ;
+
+\- d'une rétrogradation d'un membre du personnel nommé à titre définitif dans une fonction de sélection ou de promotion ;
+
+\- de la renonciation volontaire par un membre du personnel à sa nomination définitive dans une fonction de sélection ou de promotion, conformément à l'article 43ter du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+\- de la renonciation volontaire, par un membre du personnel à sa nomination définitive dans une fonction de sélection ou de promotion, conformément à l'article 53, a), du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+\- du choix fait par le directeur d'une école maternelle d'être mis immédiatement en disponibilité dans sa fonction en cas de transformation d'une école maternelle en école fondamentale ou de la décision du pouvoir organisateur de ne pas nommer ce membre du personnel à titre définitif dans la fonction de directeur de l'école fondamentale, après une période d'essai d'un an ;
+
+\- d'une décision du conseil d'administration en application de l'article 73quinquies decies, § 2, ou de l'article 73sexies decies, § 2, du décret relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+\- d'une décision du pouvoir organisateur en application de l'article 47quinquies decies, § 2, ou de l'article 47sexies decies, § 2, du décret relatif au statut de certains membres du personnel de l'enseignement subventionné ;
+
+\- d'une transformation d'une formation de l'enseignement professionnel supérieur de niveau 5 au sens de l'article 161 du décret du 30 avril 2009 relatif à l'enseignement secondaire après secondaire et l'enseignement supérieur professionnel ;
+
+\- d'une limitation de la portée de la nomination définitive d'un enseignant dans le cadre de la réinsertion après incapacité de travail conformément à l'article 55vicies/4 du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement communautaire ;
+
+\- d'une limitation de la portée de la nomination définitive d'un enseignant dans le cadre de la réinsertion après incapacité de travail conformément à l'article 44quinquies decies/4 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné ;
+
+\- d'une nouvelle nomination définitive dans le cadre de la réinsertion après incapacité de travail conformément à l'article 55vicies/6 du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement communautaire ;
+
+\- d'une nouvelle nomination définitive dans le cadre de la réinsertion après incapacité de travail conformément à l'article 44quinquies decies/6 du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné.
+
+[<sup>2</sup> - une nomination à titre définitif d'un autre membre du personnel à leur emploi ayant été déclaré vacant en application de l'article 28, § 1er, alinéa 1er, 4° ou 5°, ou de l'article 100terdecies du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ou de l'article 33, § 1er, alinéa 1er, 4° et 5°, ou de l'article 84undevicies du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné.]<sup>2</sup>
+
+§ 2. Un membre du personnel victime d'un accident du travail ou atteint d'une maladie professionnelle et jugé inapte à exercer sa fonction par le Service de Santé administratif, doit, à sa demande, être mis en disponibilité par défaut d'emploi par le pouvoir organisateur à compter du premier jour calendrier du mois suivant sa demande, si, en application de l'article 6, § 2, de la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public, le membre du personnel peut exercer d'autres fonctions prévues dans la réglementation de l'enseignement.
+
+Par dérogation à la réglementation existante :
+
+\- le membre du personnel reçoit, pendant toute la durée de la mise en disponibilité par défaut d'emploi, l'intégralité de son traitement selon la fonction de nomination ;
+
+\- les périodes de mise en disponibilité par défaut d'emploi sans réaffectation ou remise au travail sont considérées comme congé de maladie et valorisées pour le droit au congé rémunéré.
+
+L'emploi du membre du personnel, visé à l'article V.74, § 1er, 1° et 2°, devient définitivement vacant au moment de la mise en disponibilité par défaut d'emploi et peut entrer en ligne de compte pour une affectation définitive, une mutation ou une nomination à titre définitif. Il en va de même pour les emplois des membres du personnel qui, au moment de l'entrée en vigueur de la présente disposition, ont déjà été mis en disponibilité par défaut d'emploi.
+
+Une mise en disponibilité par défaut d'emploi conformément aux dispositions du présent paragraphe n'est pas considérée comme une mise en disponibilité par défaut d'emploi nouvelle ou supplémentaire pour l'application de :
+
+\- la réglementation relative à un transfert d'heures-enseignant, d'heures de cours, de périodes ou d'autres moyens d'encadrement ;
+
+\- la réglementation relative à une redistribution d'heures-enseignant, d'heures de cours, de périodes, ou d'autres moyens d'encadrement par le pouvoir organisateur ;
+
+\- l'article 23, alinéa 2, 2°, et l'article 88, alinéa 2, 2°, du décret relatif au statut des membres du personnel de l'enseignement communautaire et l'article 21, § 1er, alinéa 2, 2°, et l'article 62, alinéa 2, 2°, du décret relatif au statut des membres du personnel de l'enseignement subventionné.
+
+§ 3. La mise en disponibilité est prononcée par le pouvoir organisateur, conformément aux modalités à déterminer par le Gouvernement flamand et pour autant que les conditions à fixer par le Gouvernement flamand soient remplies.
+
+§ 4. La mise en disponibilité peut être prononcée par défaut complet ou partiel d'emploi. Le Gouvernement flamand détermine ce qu'il faut entendre par « défaut complet ou partiel d'emploi ».
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 6. Pour ce qui est des membres du personnel mis en disponibilité par défaut d'emploi au plus tard à compter du 1er août 2012, en vertu d'une décision d'inaptitude définitive de la Commission des pensions ou d'un avis ou d'une décision de reclassement conformément à la législation relative à la surveillance de la santé des travailleurs, et pour ce qui est des membres du personnel qui ont déjà été ou sont mis en disponibilité sur la base du paragraphe 2, les obligations relatives à l'affectation et à la remise au travail restent maintenues telles qu'elles s'appliquaient au cours de l'année scolaire 2011-2012.
+
+§ 7. Pour ce qui est des membres du personnel mis en disponibilité par défaut d'emploi entre le 1er août 2012 et le 1er septembre 2014, en vertu d'une décision d'inaptitude définitive de la Commission des pensions ou d'un avis ou d'une décision de reclassement conformément à la législation relative à la surveillance de la santé des travailleurs, les obligations relatives à la réaffectation et à la remise au travail restent maintenues telles qu'elles s'appliquaient au cours de l'année scolaire 2013-2014.
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. IX.19, 002; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFL 2018-07-06/20, art. 30, 004; En vigueur : 01-10-2018&gt;
+
+**Art. V.76**
+
+§ 1er. Les membres du personnel mis en disponibilité par défaut complet d'emploi et qui n'ont pas obtenu de réaffectation ni de remise au travail obtiennent, à leur demande et aux conditions à déterminer par le Gouvernement flamand, un traitement d'attente ou une subvention-traitement d'attente, selon le cas.
+
+§ 2. Les membres du personnel mis en disponibilité par défaut complet d'emploi et qui ont obtenu et accepté une réaffectation ou une remise au travail pour une partie ou pour l'intégralité de la charge pour laquelle ils ont été mis en disponibilité obtiennent, à leur demande et aux conditions à déterminer par le Gouvernement flamand, un traitement ou une subvention-traitement, selon le cas.
+
+§ 3. Les membres du personnel mis en disponibilité par défaut partiel d'emploi obtiennent, à leur demande et aux conditions à déterminer par le Gouvernement flamand, un traitement ou une subvention-traitement, selon le cas.
+
+**Art. V.77**
+
+Un pouvoir organisateur est tenu, aux conditions à déterminer par le Gouvernement flamand, de faire appel, à titre de réaffectation dans la même fonction et de remise au travail dans une autre fonction, à des membres du personnel mis en disponibilité par défaut.
+
+Le Gouvernement flamand détermine, par secteur d'enseignement et compte tenu de la fonction exercée, de la formation, du module, du cours ou de la spécialité et du titre dont le membre du personnel est porteur, ce qu'il faut entendre par « la même fonction ». Il détermine également, sur la base des mêmes éléments, ce qu'il faut entendre par « une autre fonction ».
+
+Si un membre du personnel est désigné ou maintenu en service au mépris des dispositions à arrêter par le Gouvernement flamand, le membre du personnel concerné ne reçoit pas, dans l'enseignement communautaire, de traitement du Ministère flamand de l'Enseignement et de la Formation et ce, aux conditions à déterminer par le Gouvernement flamand.
+
+Si un membre du personnel est désigné ou maintenu en service au mépris des dispositions à arrêter par le Gouvernement flamand, le pouvoir organisateur concerné perd, dans l'enseignement subventionné et dans les centres subventionnés d'encadrement des élèves, l'avantage de la subvention-traitement destinée à ce membre du personnel et ce, aux conditions à déterminer par le Gouvernement flamand.
+
+**Art. V.78**
+
+§ 1er. Sans préjudice des avantages accordés dans le cadre de la rationalisation et de la programmation, le membre du personnel mis en disponibilité, engagé soit par un autre pouvoir organisateur, soit par le même pouvoir organisateur, conserve tous les droits liés à sa nomination définitive auprès du pouvoir organisateur qui l'a mis en disponibilité jusqu'à ce qu'il soit à nouveau titulaire nommé à titre définitif auprès du pouvoir organisateur qui l'a engagé.
+
+Le traitement ou la subvention-traitement attribués à un membre du personnel en disponibilité qui a été réaffecté ou remis au travail ne peuvent être inférieurs au traitement d'attente, à la subvention-traitement d'attente, au traitement ou à la subvention-traitement auxquels il pourrait prétendre s'il était resté en disponibilité par défaut d'emploi.
+
+§ 2. Les membres du personnel auxquels s'appliquent les dispositions du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire conservent en outre tous les droits liés à l'emploi leur attribué par le conseil d'administration, conformément à l'article 39 du même décret, jusqu'à ce qu'ils obtiennent une nouvelle affectation.
+
+§ 3. Les membres du personnel auxquels s'appliquent les dispositions du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves conservent en outre tous les droits auprès de l'établissement auquel ils ont été affectés par le pouvoir organisateur, conformément à l'article 31 du même décret, jusqu'à ce qu'ils obtiennent une nouvelle affectation.
+
+**Art. V.79**
+
+§ 1er. Le membre du personnel mis en disponibilité par défaut complet ou partiel d'emploi est tenu, aux conditions à déterminer par le Gouvernement, d'accepter l'emploi dans lequel il est réaffecté ou remis au travail.
+
+§ 2. Si le membre du personnel visé au § 1er n'intègre pas l'emploi attribué à la date fixée par le Gouvernement flamand, sans motif valable, il perd l'avantage des dispositions relatives à la mise en disponibilité par défaut d'emploi. Le Gouvernement flamand détermine ce qu'il faut entendre par « motif valable ».
+
+Par dérogation à l'alinéa précédent et aux conditions à déterminer par le Gouvernement flamand, un membre du personnel peut toutefois être autorisé à refuser un emploi qui lui proposé tout en conservant l'avantage des dispositions du présent décret et de ses arrêtés d'exécution pris par le Gouvernement flamand.
+
+§ 3. Les membres du personnel mentionnés ci-après, qui ont été mis en disponibilité par défaut d'emploi, restent, dans l'attente d'une réaffectation ou d'une remise au travail, disponibles pour l'exécution de tâches pédagogiques à raison du nombre maximum d'heures pour lesquelles ils ont été mis en disponibilité :
+
+\- ceux mis en disponibilité par défaut complet d'emploi s'ils bénéficient des avantages accordés dans le cadre des mesures de rationalisation et de programmation ;
+
+\- ceux mis en disponibilité par défaut complet d'emploi qui ont accepté une réaffectation ou une remise au travail pour une partie de la charge pour laquelle ils ont été mis en disponibilité par défaut d'emploi ;
+
+\- ceux mis en disponibilité par défaut partiel d'emploi.
+
+Ils restent en premier lieu à la disposition du directeur de [<sup>1</sup> l'établissement]<sup>1</sup> où ils étaient occupés avant leur mise en disponibilité ou du pouvoir organisateur qui les a mis en disponibilité. Ils exécutent les tâches pédagogiques au prorata des prestations qui leur valent l'avantage de la mise en disponibilité par défaut d'emploi.
+
+Si le pouvoir organisateur ne fait pas appel au membre du personnel mis en disponibilité par défaut d'emploi, il doit prendre des dispositions pour faire exécuter à ce membre du personnel les tâches susvisées auprès d'un autre pouvoir organisateur, également au prorata des prestations qui lui valent cet avantage.
+
+Si le pouvoir organisateur ne respecte pas cette obligation, le traitement d'attente, les subventions-traitements d'attente, le traitement ou les subventions-traitements du membre du personnel concerné lui seront réclamés. Dans des circonstances exceptionnelles, quand l'exécution de tâches pédagogiques s'avère impossible ou inopportune, le Gouvernement flamand peut accorder des dérogations individuelles aux dispositions du présent paragraphe. De telles décisions doivent être motivées.
+
+§ 4. Tout membre du personnel mis en disponibilité par défaut d'emploi et ne pouvant être réaffecté ni remis au travail peut, aux conditions à déterminer par le Gouvernement flamand, être rappelé en service tant par le directeur ou le pouvoir organisateur qui l'a mis en disponibilité que par un autre pouvoir organisateur, à condition que le membre du personnel dont il reprend, en tout ou en partie, les prestations, reçoive, dans la même proportion, une autre charge dans [<sup>1</sup> l'établissement]<sup>1</sup>. L'application de la présente disposition ne peut avoir pour effet de diminuer le total des prestations des membres du personnel rémunérés à charge de la Communauté flamande.
+
+§ 5. Les membres du personnel conservent le bénéfice de la mise en disponibilité par défaut d'emploi aux conditions à déterminer par le Gouvernement flamand s'ils acceptent une mise au travail dans un service de l'Etat, d'une Communauté ou d'une Région, dans un autre service public, dans une institution ou entreprise de droit privé.
+
+Un membre du personnel conserve également le bénéfice de la mise en disponibilité par défaut d'emploi aux conditions à déterminer par le Gouvernement flamand s'il accepte un parcours de professionnalisation qui lui est proposé par son pouvoir organisateur. Pour la détermination de ces conditions, le Gouvernement flamand tient au moins compte des critères suivants :
+
+\- le pouvoir organisateur propose à un membre du personnel le parcours de professionnalisation, s'il estime que le membre du personnel mis en disponibilité ne dispose pas de compétences suffisantes pour la poursuite de la relation d'emploi ;
+
+\- le pouvoir organisateur élabore ce parcours de professionnalisation, en concertation avec le membre du personnel et consigne tous les arrangements en la matière par écrit ;
+
+\- le parcours de professionnalisation est limité dans le temps avec une durée de deux années scolaires maximum et vise une réintégration du membre du personnel dans les plus brefs délais ;
+
+\- pendant la durée du parcours de professionnalisation, le membre du personnel conserve son traitement sous forme d'un traitement d'attente ou d'une subvention-traitement d'attente ;
+
+\- si aucun emploi approprié ne peut être proposé au membre du personnel qui a terminé avec succès le parcours de professionnalisation, celui-ci reste en disponibilité par défaut d'emploi avec maintien de l'intégralité de son traitement d'attente ou de sa subvention-traitement d'attente pendant deux années scolaires complètes maximum, conformément aux dispositions de l'article 29 de l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente ;
+
+\- si le membre du personnel refuse de suivre le parcours de professionnalisation ou ne le termine pas avec succès, il reste en disponibilité par défaut d'emploi et le traitement d'attente du membre du personnel est aussitôt progressivement supprimé. Dans ce cas, la période de deux années scolaires complètes visée à l'article 29, § 1er, de l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente n'est pas applicable.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 158, 024; En vigueur : 01-09-2023&gt;
+
+**Art. V_79.DROIT_FUTUR**
+
+§ 1er. Le membre du personnel mis en disponibilité par défaut complet ou partiel d'emploi est tenu, aux conditions à déterminer par le Gouvernement, d'accepter l'emploi dans lequel il est réaffecté ou remis au travail.
+
+§ 2. Si le membre du personnel visé au § 1er n'intègre pas l'emploi attribué à la date fixée par le Gouvernement flamand, sans motif valable, il perd l'avantage des dispositions relatives à la mise en disponibilité par défaut d'emploi. Le Gouvernement flamand détermine ce qu'il faut entendre par « motif valable ».
+
+Par dérogation à l'alinéa précédent et aux conditions à déterminer par le Gouvernement flamand, un membre du personnel peut toutefois être autorisé à refuser un emploi qui lui proposé tout en conservant l'avantage des dispositions du présent décret et de ses arrêtés d'exécution pris par le Gouvernement flamand.
+
+§ 3. Les membres du personnel mentionnés ci-après, qui ont été mis en disponibilité par défaut d'emploi, restent, dans l'attente d'une réaffectation ou d'une remise au travail, disponibles pour l'exécution de tâches pédagogiques à raison du nombre maximum d'heures pour lesquelles ils ont été mis en disponibilité :
+
+\- ceux mis en disponibilité par défaut complet d'emploi [<sup>2</sup> ...]<sup>2</sup> ;
+
+\- ceux mis en disponibilité par défaut complet d'emploi qui ont accepté une réaffectation ou une remise au travail pour une partie de la charge pour laquelle ils ont été mis en disponibilité par défaut d'emploi ;
+
+\- ceux mis en disponibilité par défaut partiel d'emploi.
+
+Ils restent en premier lieu à la disposition du directeur de [<sup>1</sup> l'établissement]<sup>1</sup> où ils étaient occupés avant leur mise en disponibilité ou du pouvoir organisateur qui les a mis en disponibilité. Ils exécutent les tâches pédagogiques au prorata des prestations qui leur valent l'avantage de la mise en disponibilité par défaut d'emploi.
+
+Si le pouvoir organisateur ne fait pas appel au membre du personnel mis en disponibilité par défaut d'emploi, il doit prendre des dispositions pour faire exécuter à ce membre du personnel les tâches susvisées auprès d'un autre pouvoir organisateur, également au prorata des prestations qui lui valent cet avantage.
+
+Si le pouvoir organisateur ne respecte pas cette obligation, le traitement d'attente, les subventions-traitements d'attente, le traitement ou les subventions-traitements du membre du personnel concerné lui seront réclamés. Dans des circonstances exceptionnelles, quand l'exécution de tâches pédagogiques s'avère impossible ou inopportune, le Gouvernement flamand peut accorder des dérogations individuelles aux dispositions du présent paragraphe. De telles décisions doivent être motivées.
+
+§ 4. Tout membre du personnel mis en disponibilité par défaut d'emploi et ne pouvant être réaffecté ni remis au travail peut, aux conditions à déterminer par le Gouvernement flamand, être rappelé en service tant par le directeur ou le pouvoir organisateur qui l'a mis en disponibilité que par un autre pouvoir organisateur, à condition que le membre du personnel dont il reprend, en tout ou en partie, les prestations, reçoive, dans la même proportion, une autre charge dans [<sup>1</sup> l'établissement]<sup>1</sup>. L'application de la présente disposition ne peut avoir pour effet de diminuer le total des prestations des membres du personnel rémunérés à charge de la Communauté flamande.
+
+§ 5. Les membres du personnel conservent le bénéfice de la mise en disponibilité par défaut d'emploi aux conditions à déterminer par le Gouvernement flamand s'ils acceptent une mise au travail dans un service de l'Etat, d'une Communauté ou d'une Région, dans un autre service public, dans une institution ou entreprise de droit privé.
+
+Un membre du personnel conserve également le bénéfice de la mise en disponibilité par défaut d'emploi aux conditions à déterminer par le Gouvernement flamand s'il accepte un parcours de professionnalisation qui lui est proposé par son pouvoir organisateur. Pour la détermination de ces conditions, le Gouvernement flamand tient au moins compte des critères suivants :
+
+\- le pouvoir organisateur propose à un membre du personnel le parcours de professionnalisation, s'il estime que le membre du personnel mis en disponibilité ne dispose pas de compétences suffisantes pour la poursuite de la relation d'emploi ;
+
+\- le pouvoir organisateur élabore ce parcours de professionnalisation, en concertation avec le membre du personnel et consigne tous les arrangements en la matière par écrit ;
+
+\- le parcours de professionnalisation est limité dans le temps avec une durée de deux années scolaires maximum et vise une réintégration du membre du personnel dans les plus brefs délais ;
+
+\- pendant la durée du parcours de professionnalisation, le membre du personnel conserve son traitement sous forme d'un traitement d'attente ou d'une subvention-traitement d'attente ;
+
+\- si aucun emploi approprié ne peut être proposé au membre du personnel qui a terminé avec succès le parcours de professionnalisation, celui-ci reste en disponibilité par défaut d'emploi avec maintien de l'intégralité de son traitement d'attente ou de sa subvention-traitement d'attente pendant deux années scolaires complètes maximum, conformément aux dispositions de l'article 29 de l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente ;
+
+\- si le membre du personnel refuse de suivre le parcours de professionnalisation ou ne le termine pas avec succès, il reste en disponibilité par défaut d'emploi et le traitement d'attente du membre du personnel est aussitôt progressivement supprimé. Dans ce cas, la période de deux années scolaires complètes visée à l'article 29, § 1er, de l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente n'est pas applicable.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 158, 024; En vigueur : 01-09-2023&gt;
+
+(2)&lt;DCFL 2025-06-06/20, art. 65, 029; En vigueur : 01-09-2025&gt;
+
+**Art. V.80**
+
+Pour l'application du présent titre et de ses arrêtés d'exécution pris par le Gouvernement flamand, les commissions de réaffectation suivantes peuvent être instituées par le Gouvernement flamand :
+
+\- une commission de réaffectation par communauté scolaire ;
+
+\- des commissions de réaffectation zonales par niveau et par réseau d'enseignement, compétentes pour les réaffectations et les remises au travail dans ces zones ;
+
+\- des commissions de réaffectation interprovinciales compétentes pour les réaffectations et les remises au travail dans un réseau d'enseignement ;
+
+\- une commission de réaffectation flamande comportant deux chambres dont l'une est compétente pour l'enseignement communautaire et l'autre pour l'enseignement subventionné.
+
+Les commissions de réaffectation sont composées paritairement de représentants du Conseil de l'enseignement communautaire ou des associations représentatives des autorités scolaires, d'une part, et des organisations syndicales représentatives, d'autre part.
+
+En outre, le Gouvernement flamand peut désigner des fonctionnaires et des membres de l'inspection qui siégeront dans ces commissions de réaffectation.
+
+Les décisions de ces commissions de réaffectation peuvent faire l'objet de réclamations. Le Gouvernement flamand définit les modalités des réclamations et précise le fonctionnement desdites commissions.
+
+## PARTIE VI. INFORMATISATION DE L'ENSEIGNEMENT
+
+#### Chapitre 1er. Régime de subventions
+
+**Art. VI.1**
+
+[<sup>1</sup> § 1er. Dans le cadre du renforcement de l'infrastructure numérique et de la promotion de la littératie numérique dans l'enseignement, le Gouvernement flamand peut, pour l'informatisation de l'enseignement, allouer un budget de fonctionnement annuel aux :
+
+1° écoles de l'enseignement fondamental ordinaire et spécialisé ;
+
+2° écoles et centres de l'enseignement secondaire à temps plein, de l'enseignement secondaire spécialisé et de l'enseignement secondaire professionnel à temps partiel ;
+
+3° académies d'enseignement artistique à temps partiel ;
+
+4° aux centres d'éducation des adultes ;
+
+5° centres d'éducation de base.
+
+Le budget de fonctionnement visé à l'alinéa 1er, est accordé en vue de :
+
+1° passer des tests flamands par des moyens numériques ;
+
+2° la mise à disposition d'une infrastructure TIC suffisante et appropriée pour les élèves ou les apprenants et le personnel ;
+
+3° promouvoir l'égalité d'accès aux ressources numériques.
+
+§ 2. Le budget de fonctionnement visé au paragraphe 1er, est octroyé pour une période de trois années scolaires au maximum et peut être utilisé jusqu'au 31 décembre de la troisième année suivant l'année scolaire au cours de laquelle le budget de fonctionnement est alloué. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-12-19/56, art. 95, 031; En vigueur : 01-01-2026&gt;
+
+**Art. VI.2**
+
+[<sup>1</sup> Les budgets de fonctionnement visés à l'article VI.1, sont alloués dans le cadre du crédit budgétaire global fixé par le législateur décrétal à cet effet.
+
+Dans le cadre de ce crédit, le Gouvernement flamand détermine annuellement la clé de répartition et le montant par établissement sur la base d'un ou plusieurs des critères suivants :
+
+1° le nombre d'étudiants pondérés par type d'établissement ;
+
+2° le nombre de membres du personnel chargés d'une mission d'enseignement dans des fonctions de recrutement du personnel directeur et enseignant ;
+
+3° les besoins spécifiques en matière de numérisation, déterminés par le Gouvernement flamand.
+
+Le Gouvernement flamand détermine les nombres d'élèves pondérés visés à l'alinéa 1er, 1°, sur la base d'un ou de plusieurs des critères suivants, à savoir le niveau d'enseignement, le type d'enseignement et le contexte socio-économique.
+
+Le Gouvernement flamand peut octroyer des montants forfaitaires aux écoles hospitalières et aux centres d'éducation de base. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-12-19/56, art. 96, 031; En vigueur : 01-01-2026&gt;
+
+**Art. VI.3**
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand détermine les éléments suivants :
+
+1° le calcul, l'octroi et le paiement des budgets de fonctionnement visés à l'article VI.1 ;
+
+2° l'utilisation des budgets de fonctionnement visés à l'article VI.1. selon une liste de référence ;
+
+3° l'obligation d'élaborer un plan stratégique TIC et une politique de professionnalisation dans le domaine des TIC ;
+
+4° les corrections sociales en vue de garantir l'égalité d'accès aux ressources numériques ;
+
+5° l'établissement de rapports et l'obligation de rendre compte ;
+
+6° le contrôle et l'évaluation de la politique de numérisation.
+
+§ 2. Le Gouvernement flamand définit un mécanisme de contrôle par l'intermédiaire des services compétents, qui contrôlent aléatoirement l'utilisation correcte des fonds et le respect de la réglementation relative aux marchés publics et la répercussion des coûts sur la facture scolaire. Ce contrôle ne porte pas sur le caractère opportun de l'utilisation.
+
+§ 3. Si les éléments déterminés par le Gouvernement flamand sur la base du paragraphe 1er ne sont pas utilisés conformément aux règles établies, une récupération partielle ou une retenue du budget de fonctionnement peut être imposée à la direction de l'école concernée. La récupération ou la retenue ne peut excéder 10 % du budget de fonctionnement de l'établissement dans lequel l'infraction a été constatée, conformément aux dispositions du décret relatif à l'enseignement fondamental du 25 février 1997 et du Code de l'enseignement secondaire.
+
+La sanction doit être proportionnée, précédée d'un avis indiquant les constatations et un délai d'audition, et est expressément motivée.
+
+Cette disposition ne porte pas préjudice aux régimes de sanctions éventuellement prévus par une autre réglementation décrétale applicable à l'établissement concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-12-19/56, art. 97, 031; En vigueur : 01-01-2026&gt;
+
+#### Chapitre 2. Coordinateurs TIC
+
+**Art. VI.4**
+
+Dans les limites des crédits budgétaires prévus, le Gouvernement flamand accorde annuellement des moyens à la coordination des TIC dans l'enseignement.
+
+Ces moyens se composent :
+
+1° du budget de fonctionnement qui est affecté uniquement au soutien logistique et matériel des coordinateurs TIC ;
+
+2° d'enveloppes de points qui sont affectées uniquement à l'encadrement du personnel dans le domaine de la coordination des TIC. [<sup>1</sup> Dans l'enseignement fondamental, l'article 153sexies, § 4, du décret du 25 février 1997 relatif à l'enseignement fondamental est entièrement d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 240, 016; En vigueur : 01-09-2021&gt;
+
+**Art. VI.5**
+
+§ 1er. [<sup>3</sup> Les moyens sont alloués à chaque école d'enseignement fondamental ordinaire ou spécial, à chaque école d'enseignement secondaire ordinaire ou spécial, à chaque centre d'éducation des adultes, à chaque académie et chaque centre d'éducation de base. Les écoles, académies et centres peuvent choisir d'utiliser les moyens au niveau :
+
+1° d'un centre d'enseignement dans l'enseignement fondamental ou secondaire, ou
+
+2° d'un groupe d'écoles, ou
+
+3° d'une plateforme de coopération qui peut consister en :
+
+a) un ou plusieurs centres d'enseignement dans l'enseignement fondamental ou secondaire, et/ou
+
+b) un ou plusieurs groupes d'écoles, et/ou
+
+c) une ou plusieurs écoles d'enseignement fondamental ordinaire et/ou spécial, pour autant qu'elles n'appartiennent pas à un centre d'enseignement de l'enseignement fondamental, et/ou
+
+d) une ou plusieurs écoles de l'enseignement secondaire ordinaire, pour autant qu'elles n'appartiennent pas à un centre d'enseignement dans l'enseignement secondaire, et/ou
+
+e) une ou plusieurs écoles de l'enseignement secondaire spécial, et/ou
+
+f) un ou plusieurs centres d'éducation des adultes, et/ou
+
+g) une ou plusieurs académies, et/ou
+
+h) un ou plusieurs centres d'éducation de base.
+
+L'utilisation visée à l'alinéa premier ne peut avoir pour conséquence que des membres du personnel supplémentaires doivent être mis en disponibilité par défaut d'emploi. Le non-respect de cette disposition a pour conséquence qu'une mise en disponibilité par défaut d'emploi n'a aucun effet à l'égard des pouvoirs publics. Aux fins de contrôle, le pouvoir organisateur des établissements qui mettent des moyens en commun doivent fournir à l'agence compétente une déclaration sur l'honneur attestant du respect de cette disposition.
+
+Le centre d'enseignement, le groupe d'écoles, ou la plateforme de coopération conclut des accords portant sur l'utilisation des moyens.
+
+Si les écoles, académies ou centres décident d'utiliser les moyens, visés à l'alinéa 1er, dans une plateforme de coopération, les emplois ainsi créés ne peuvent être déclarés vacants. La direction de l'école ou du centre ne peut en aucun cas nommer à titre définitif, affecter ou muter un membre du personnel dans cet emploi.]<sup>3</sup>
+
+§ 2. À partir du 1er septembre 2005, un accord concernant la création d'une plate-forme de coopération visée au § 1er, 3°, est toujours conclu pour la durée de six années scolaires, à l'exception de l'accord qui entre en vigueur au 1er septembre 2011 et qui ne vaut que pour la durée de trois années scolaires.
+
+[<sup>2</sup> Pendant la période précitée, cet accord peut être modifié en application de l'article 125quinquies, § 3 ou § 4, du décret du 25 février 1997 relatif à l'enseignement fondamental ou de l'article 51, alinéa 3, du Code de l'Enseignement secondaire du 17 décembre 2010.]<sup>2</sup>
+
+Une modification d'un accord entre en vigueur à la même date que celle à laquelle la modification entre en vigueur dans la communauté scolaire.
+
+Le Gouvernement flamand peut fixer le nombre minimum d'[<sup>2</sup> écoles, académies ou centres]<sup>2</sup> ou d'élèves ou d'heures de cours/apprenant à impliquer dans une plate-forme de coopération. Si la plate-forme de coopération comprend une communauté scolaire et/ou un groupe d'écoles, il est possible de déroger à la présente réglementation.
+
+L'Agence concernée du Ministère flamand de l'Enseignement et de la Formation est informée de la plate-forme de coopération par l'autorité scolaire ou du centre en question, au plus tard le 1er mai précédant l'entrée en vigueur de l'accord de coopération.
+
+[<sup>3</sup> La plateforme de coopération pourra être supprimée le 31 août 2021. Les nouvelles plateformes créées à la suite de cette suppression sont valables pour une période de cinq années scolaires. Par dérogation à l'alinéa quatre, la composition de cette plateforme de coopération peut être communiquée au plus tard le 1er octobre 2021 à l'Agence concernée du Ministre flamand de l'Enseignement et de la Formation.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 146, 010; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 173, 015; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 241, 016; En vigueur : 01-09-2021&gt;
+
+**Art. VI.6**
+
+Les moyens sont calculés en multipliant, pour chaque [<sup>1</sup> école, académie ou centre]<sup>1</sup>, le nombre d'élèves/apprenants réguliers à la date habituelle de comptage ou le [<sup>1</sup> le nombre moyen d'heures de cours/apprenant réalisées des périodes de référence du 1er janvier n-3 au 31 décembre n-1]<sup>1</sup> par un coefficient et un facteur de pondération, déterminés par le Gouvernement flamand.
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 174, 015; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-11-23/33, art. 85, 025; En vigueur : 01-09-2023&gt;
+
+**Art. VI.7**
+
+§ 1er. [<sup>2</sup> Les points de l'enveloppe peuvent être utilisés pour la création d'un ou plusieurs emplois dans la fonction de coordinateur TIC. Dans l'enseignement fondamental, l'article 153sexies, § 4, du décret du 25 février 1997 relatif à l'enseignement fondamental est entièrement d'application. Le Gouvernement flamand détermine le nombre de points à prendre en considération pour un membre du personnel désigné à cette fonction.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Les dispositions du décret sur le statut du personnel de l'enseignement communautaire, du décret sur le statut du personnel de l'enseignement subventionné et du décret sur le statut de l'éducation de base continuent de s'appliquer.]<sup>2</sup>
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 175, 015; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 242, 016; En vigueur : 01-09-2021&gt;
+
+#### Chapitre 3. Eun partnership
+
+**Art. VI.8**
+
+§ 1er. Le Gouvernement flamand est autorisé à adhérer à l'asbl internationale Eun Partnership et à contribuer à son fonctionnement.
+
+§ 2. L'asbl internationale Eun Partnership a pour but de soutenir et de promouvoir l'utilisation des technologies de l'information et de la communication dans les écoles. Eun Partnership réalise son objectif en encourageant la coopération entre les écoles en Europe et en fournissant des services spécifiques aux écoles et aux autres acteurs de l'enseignement.
+
+§ 3. Une subvention est accordée à l'asbl précitée dans les limites des crédits inscrits à cet effet au budget de la Communauté flamand.
+
+#### Chapitre 4. [<sup>1</sup> - Justification numérique de l'affectation des moyens]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 147, 010; En vigueur : 01-09-2019&gt;
+
+**Art. VI.9**
+
+[<sup>1</sup> Les établissements financés ou subventionnés par le Ministère flamand de l'Enseignement et de la Formation ou l'Agence de l'Infrastructure dans l'Enseignement peuvent mettre à disposition par voie électronique les pièces justificatives relatives à la subvention à justifier et peuvent remplacer par des copies électroniques les documents administratifs analogiques qu'ils établissent ou reçoivent par application des dispositions légales ou réglementaires.
+
+Le Gouvernement flamand fixe les modalités de ce remplacement.
+
+Les copies électroniques établies et conservées conformément à l'alinéa 1er restent valables au même titre que les originaux aux fins des dispositions légales et réglementaires visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 148, 010; En vigueur : 01-09-2019&gt;
+
+#### Chapitre 5. [<sup>1</sup> Comptes d'élèves uniques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/17, art. 134, 023; En vigueur : 01-09-2023&gt;
+
+**Art. VI.10**
+
+[<sup>1</sup>§ 1er. Le Gouvernement flamand fournit une application informatique qui vise à permettre aux élèves de s'identifier pour utiliser les ressources éducatives numériques et les applications qui requièrent une identification. Grâce à l'application informatique susmentionnée, les élèves se connectent à différents fournisseurs de services en utilisant le même compte. L'école décide des moyens didactiques ou des applications que l'élève utilise. Les fournisseurs de services demandent l'utilisation de l'application informatique au responsable du traitement visé au paragraphe 2. Au cours de cette procédure de demande et lors de la mise en oeuvre, les traitements prévus ou exécutés par les fournisseurs de services sont évalués.
+
+§ 2. L'entité chargée par le Gouvernement flamand de la préparation de la politique flamande de l'enseignement est le responsable du traitement tel que visé à l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données). Le responsable du traitement précité traite les données pour satisfaire à une obligation légale qui incombe au responsable du traitement.
+
+§ 3. Le responsable du traitement, visé au paragraphe 2, utilise dans l'application informatique, visée au paragraphe 1er, les données administratives disponibles auprès des entités du domaine politique Enseignement et Formation, visé à l'article 7 de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, conformément à la réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel applicable à la communication des données à caractère personnel, telle que précisée au niveau fédéral ou flamand, le cas échéant.
+
+§ 4. Les catégories suivantes de données à caractère personnel sont traitées dans l'application informatique, visée au paragraphe 1er :
+
+1° le numéro d'identification à la sécurité sociale, à savoir le numéro d'identification du Registre national ou le numéro d'identification de la Banque-Carrefour, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la sécurité sociale ;
+
+2° les données à caractère personnel officielles suivantes, telles que connues au registre national : les nom et prénom et la date de naissance ;
+
+3° l'identificateur unique pour l'application informatique ;
+
+4° l'identificateur unique dans les données administratives qui sont disponibles auprès des entités du domaine politique Enseignement et Formation, visé à l'article 7 de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ;
+
+5° la date d'inscription et la date de commencement ;
+
+6° les données d'inscription suivantes : les institutions, le numéro d'implantation, le numéro matricule, le type d'enseignement et le groupe administratif ;
+
+7° les données avec lesquelles l'élève se connecte au fournisseur de services.
+
+Les données des journaux d'audit et des journaux techniques sont gérées par l'organisme responsable de la gestion flamande des accès et des utilisateurs, en tant que responsable du traitement.
+
+§ 5. Les personnes concernées sont les élèves qui doivent utiliser le moyen didactique ou l'application dans le cadre de leur enseignement. Les fournisseurs de services sont les destinataires des données nécessaires à l'identification des utilisateurs ou au contrôle des conditions d'utilisation. Les fournisseurs de services recevront le nom et le prénom ainsi que l'identifiant unique pour l'application informatique, à moins qu'ils ne démontrent, au cours de la procédure de demande, qu'ils ont le droit de recevoir également d'autres données.
+
+§ 6. Les données ne seront pas conservées par le responsable du traitement pendant plus de douze ans après la création du compte d'élève. Le responsable du traitement, visé au paragraphe 2, prend les mesures nécessaires pour garantir l'exactitude des données à caractère personnel. Le responsable du traitement, visé au paragraphe 2, précise dans une déclaration de confidentialité les traitements effectués et, dans un souci de transparence et de garantie des droits des personnes concernées, visées au paragraphe 5, inclut dans la communication avec ces dernières ou leur établissement d'enseignement une référence à l'emplacement de sa déclaration de confidentialité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/17, art. 135, 023; En vigueur : 01-09-2023&gt;
+
+## PARTIE VII. COMMISSION DE BONNE ADMINISTRATION
+
+#### Chapitre 1er. Création et composition
+
+**Art. VII.1**
+
+Il est institué auprès du Ministère flamand de l'Enseignement et de la Formation une commission indépendante, la Commission de bonne administration, ci-après dénommée « la Commission ».
+
+**Art. VII.2**
+
+La Commission se compose d'une chambre pour l'enseignement fondamental et d'une chambre pour l'enseignement secondaire, [<sup>1</sup> l'école IC, visée à l'article 2, 10°, du décret du 17 mai 2024 relatif à l'enseignement dans les institutions communautaires créées en exécution du droit en matière de délinquance juvénile,]<sup>1</sup> les centres d'encadrement des élèves, l'enseignement artistique à temps partiel et l'éducation des adultes, qui sont présidées par une personne indépendante désignée par le Gouvernement flamand et assistée d'un fonctionnaire du Ministère flamand de l'Enseignement et de la Formation faisant fonction de secrétaire.
+
+Chaque chambre comporte :
+
+1° un membre répondant aux conditions de l'article 205 du Code judiciaire ;
+
+2° un expert en matière de protection des consommateurs ;
+
+3° deux membres familiarisés avec le secteur de l'enseignement.
+
+Le Gouvernement flamand désigne les membres et leurs suppléants et fixe les modalités de leur rémunération.
+
+----------
+
+(1)&lt;DCFL 2026-07-03/10, art. 37, 035; En vigueur : 01-09-2026&gt;
+
+**Art. VII.3**
+
+Les membres de la Commission jouissent des droits civils et politiques et offrent toutes les garanties leur permettant d'exercer leur mission en toute indépendance.
+
+Les membres du cabinet d'un ministre du Gouvernement fédéral, du Gouvernement flamand ou du Gouvernement de la Région de Bruxelles-Capitale, les délégués de l'enseignement communautaire ou le personnel des services administratifs de l'enseignement communautaire ou les membres des associations représentatives d'autorités scolaires de l'enseignement subventionné, d'une autorité scolaire ou de centre, d'un centre d'encadrement des élèves, à l'exception de l'enseignement supérieur, ne peuvent pas faire partie de la Commission.
+
+**Art. VII.4**
+
+Dans le mois de sa création, la Commission établit son règlement d'ordre intérieur. Ce règlement est ratifié par le Gouvernement flamand.
+
+#### Chapitre 2. Compétence
+
+**Art. VII.5**
+
+La Commission statue sur le bien-fondé des plaintes d'intéressés relatives :
+
+1° [<sup>3</sup> aux principes de droit international et constitutionnels de gratuité de l'enseignement, aux principes visés à l'article 27 du décret Enseignement fondamental du 25 février 1997, à l'article 35 du Code de l'Enseignement secondaire du 17 décembre 2010, à l'article 32 du décret du 17 mai 2024 relatif à l'enseignement dans les institutions communautaires créées en exécution du droit en matière de délinquance juvénile et à l'article 8, 3°, du décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves, au régime de contribution visé aux articles 27bis et 27ter, § 1er, du décret Enseignement fondamental du 25 février 1997, et au régime concernant l'intervention personnelle visée aux articles 38 à 41 du décret du 16 juin 2023 relatif aux internats de l'enseignement]<sup>3</sup>;
+
+2° [<sup>3</sup> aux dispositions de l'article 51 du décret Enseignement fondamental du 25 février 1997, des articles 7 à 10 du Code de l'Enseignement secondaire du 17 décembre 2010, des articles 30 et 31 du décret du 17 mai 2024 relatif à l'enseignement dans les institutions communautaires créées en exécution du droit en matière de délinquance juvénile, de l'article 14bis du décret du 1er décembre 1998 relatif aux centres d'encadrement des élèves, des articles II.48 à II.52 de la présente codification, des articles 120 à 125 du décret du 15 juin 2007 relatif à l'éducation des adultes et des articles 48 à 52 du décret du 16 juin 2023 relatif aux internats de l'enseignement]<sup>3</sup> ;
+
+3° au non-respect des dispositions relatives aux compétences et aux processus décisionnels visés aux articles 18 à 22 du décret du 2 avril 2004 relatif à la participation à l'école et au Vlaamse Onderwijsraad (Conseil flamand de l'Enseignement).
+
+Lorsque la Commission estime qu'une plainte est fondée, elle peut décider :
+
+1° d'imposer un remboursement partiel du budget de fonctionnement de l'école ou du centre, du centre d'encadrement des élèves concerné ou de l'école d'enseignement artistique à temps partiel concernée. La répétition ou la retenue ne peut toutefois dépasser 10 pour cent de ce budget de fonctionnement et ne peut avoir pour effet de réduire la part du budget de fonctionnement destinée aux affaires du personnel à un montant inférieur, en chiffres absolus, au montant de cette part si la mesure n'avait pas été prise ;
+
+2° d'infliger au centre d'éducation des adultes concerné une sanction financière conformément aux dispositions de l'article 118 du décret du 15 juin 2007 relatif à l'éducation des adultes.
+
+Cette sanction ne devient exécutoire que le lendemain de l'expiration du délai de recours auprès du Gouvernement flamand.
+
+Avant d'infliger une sanction, la Commission invite l'autorité scolaire ou l'autorité concernée à retirer ou à revoir l'acte juridique attaqué ou à pourvoir à une satisfaction adéquate.
+
+----------
+
+(1)&lt;DCFL 2023-06-16/12, art. 159, 024; En vigueur : 01-09-2023&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 163, 027; En vigueur : 01-09-2024&gt;
+
+(3)&lt;DCFL 2026-07-03/10, art. 38, 035; En vigueur : 01-09-2026&gt;
+
+**Art. VII.6**
+
+La Commission peut traiter les questions d'intéressés au sujet des affaires visées à l'article VII.5, alinéa 1er.
+
+**Art. VII.7**
+
+Les décisions de la Commission sont motivées. Le Gouvernement flamand fixe les modalités de publicité de ces décisions.
+
+#### Chapitre 3. Procédure de plainte
+
+**Art. VII.8**
+
+Les plaintes visées à l'article VII.5 sont introduites par lettre recommandée auprès de la Commission.
+
+Toute plainte introduite après l'expiration d'un délai de soixante jours calendrier suivant la constatation ou la prise de connaissance des faits contestés est irrecevable.
+
+**Art. VII.9**
+
+Dès qu'une plainte est introduite, la Commission la notifie par écrit aux intéressés.
+
+**Art. VII.10**
+
+Les intéressés sont entendus par la Commission. La Commission peut entendre des témoins d'office ou à la demande des intéressés.
+
+**Art. VII.11**
+
+Les séances de la Commission sont publiques, à moins que cette publicité ne soit dangereuse pour l'ordre public ou les bonnes moeurs.
+
+**Art. VII.12**
+
+La Commission statue dans le délai de soixante jours calendrier prenant cours le lendemain de la signification de la plainte.
+
+La décision est envoyée aux intéressés par courrier recommandé au plus tard le dernier jour de ce délai. Le Gouvernement flamand est immédiatement informé de la décision.
+
+**Art. VII.13**
+
+Les intéressés peuvent introduire un recours contre une décision de la Commission auprès du Gouvernement flamand. Le recours doit être formé par courrier recommandé dans le délai de soixante jours calendrier prenant cours le lendemain de la signification de la décision.
+
+Le recours suspend de plein droit la force exécutoire de la décision prise.
+
+**Art. VII.14**
+
+Le Gouvernement flamand statue en dernier ressort sur le recours formé par un intéressé contre une décision de la Commission.
+
+Le Gouvernement flamand peut confirmer la décision de la Commission, la modifier ou l'annuler du chef de violation de la loi ou du décret ou de conflit avec l'intérêt général, auquel cas il peut prendre une nouvelle décision.
+
+Le Gouvernement flamand se prononce sur un recours dans le délai de soixante jours calendrier prenant cours le lendemain de la signification du recours.
+
+La décision du Gouvernement flamand est envoyée aux intéressés par courrier recommandé au plus tard le dernier jour du délai visé à l'alinéa précédent.
+
+**Art. VII.15**
+
+Le Gouvernement flamand fixe les modalités de la recevabilité et de la procédure. Il garantit à cet égard le droit d'être entendu.
+
+## PARTIE VIII. PLATE-FORME LOCALE DE CONCERTATION ET COMMISSION DES DROITS DE L'ÉLÈVE
+
+#### Chapitre 1er. Plate-forme locale de concertation
+
+##### Section 1ère. Définitions
+
+**Art. VIII.1**
+
+Pour l'application de la présente partie VIII, on entend par :
+
+1° [<sup>2</sup> primo-arrivant allophone : l'élève visé à l'article 3, 4° quater du décret du 25 février 1997 relatif à l'enseignement fondamental, ou l'élève visé à l'article 3, 2° /1, a) et c), du Code de l'Enseignement secondaire du 17 décembre 2010]<sup>2</sup> ;
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° élève : tout apprenant qui remplit les conditions d'admission fixées par ou en vertu d'une loi ou d'un décret ou qui est considéré comme élève libre conformément à l'article 252 de la codification relative à l'enseignement secondaire ;
+
+5° [<sup>1</sup> ...]<sup>1</sup>
+
+6° année d'accueil : l'année d'accueil pour primo-arrivants allophones visés à l'article 135 de la codification relative à l'enseignement secondaire ;
+
+7° [<sup>1</sup> ...]<sup>1</sup>
+
+Le Gouvernement flamand calcule la proportion en pourcentage sur la base des données chiffrées disponibles provenant d'un recensement triennal organisé de manière centralisée le premier jour de classe de février, à moins que la plate-forme locale de concertation ne décide de procéder entre-temps à un recomptage le premier jour de classe de février ;
+
+8° école : un ensemble pédagogique où est organisé un enseignement et qui est dirigé par un directeur ; par « école » et « école d'enseignement secondaire ordinaire », on entend également un centre autonome d'enseignement secondaire professionnel à temps partiel et, pour ce qui est de la formation en apprentissage, également un centre de formation des indépendants et des petites et moyennes entreprises.
+
+----------
+
+(1)&lt;DCFL 2022-02-04/50, art. 52, 020; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFL 2026-06-05/33, art. 24, 034; En vigueur : 01-09-2026&gt;
+
+##### Section 2. Création et composition
+
+**Art. VIII.2**
+
+[<sup>1</sup> Pour l'application de la réglementation relative à l'inscription des élèves, telle que visée au chapitre IV, sections 3 et 4 du décret sur l'enseignement fondamental pour les inscriptions dans l'enseignement fondamental spécial telles que visées aux chapitres IV/1 et IV/3 du décret sur l'enseignement fondamental pour les inscriptions dans l'enseignement fondamental ordinaire telles que visées à la partie III, titre 2, chapitres 1/1 et 1/2 du Code de l'enseignement secondaire du 17 décembre 2010 pour les inscriptions dans l'enseignement secondaire spécial et telles que visées dans la partie IV, titre 2, chapitres 1/1 et 1/2 du Code de l'enseignement secondaire du 17 décembre 2010 pour les inscriptions dans l'enseignement ordinaire, des plateformes locales de concertation sont établies pour l'enseignement fondamental et pour l'enseignement secondaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-08/11, art. 49, 021; En vigueur : 01-09-2022&gt;
+
+**Art. VIII.3**
+
+§ 1er. La zone d'action d'une plate-forme locale de concertation coïncide en principe avec le territoire d'une commune.
+
+Le Gouvernement flamand peut limiter cette zone d'action au territoire des organes territoriaux intracommunaux créés en vertu de l'article 41 de la Constitution ou l'étendre au territoire de différentes communes limitrophes.
+
+Une action centrée sur un quartier spécifique de la plate-forme locale de concertation n'entraîne pas la création d'une plate-forme locale de concertation au niveau du quartier.
+
+§ 2. Le Gouvernement flamand détermine les communes ou régions où une plate-forme locale de concertation doit être créée par priorité.
+
+Pour l'application de la réglementation relative à l'égalité des chances en éducation, des plates-formes locales de concertation peuvent également être établies dans des communes ou régions autres que celles visées à l'alinéa 1er pour autant qu'elles remplissent toutes les conditions du présent chapitre.
+
+**Art. VIII.4**
+
+[<sup>1</sup> § 1er. Une plate-forme locale de concertation pour l'enseignement fondamental comprend tous les participants ayant voix délibérative mentionnés ci-après, qui sont présents dans la zone d'action et qui se manifestent :
+
+1° les directions et autorités scolaires de toutes les écoles situées dans la zone d'action ;
+
+2° les directions et autorités scolaires des écoles d'enseignement spécial situées en dehors de la zone d'action lorsqu'il existe entre ces écoles et les écoles situées dans la zone d'action des flux d'élèves fréquents ;
+
+3° les directions et autorités scolaires des centres d'encadrement des élèves qui accompagnent les écoles situées dans la zone d'action ;
+
+4° un représentant de chaque organisation syndicale représentative qui défend les intérêts professionnels du personnel des écoles situées dans la zone d'action ;
+
+5° deux représentants d'associations de parents reconnues ;
+
+6° au total, dix représentants au plus de :
+
+a) partenaires socioculturels et/ou socio-économiques ;
+
+b) d'organisations de minorités ethnoculturelles ;
+
+c) d'une association où des personnes en situation de pauvreté prennent la parole ;
+
+7° un représentant de l'Agence de l'Intégration et de l'Insertion civique;
+
+8° un représentant du service d'intégration ;
+
+9° un représentant de l'animation des relations école-collectivité ;
+
+10° un représentant de l'administration communale ou des administrations communales concernées - dans la région bilingue de Bruxelles-Capitale : de la Commission communautaire flamande. Cette personne n'agit pas en qualité de représentant de la commune ou de la Commission communautaire flamande comme autorité scolaire.
+
+Le Gouvernement flamand désigne les organes qui seront chargés de coordonner la désignation des participants visés à l'alinéa 1er, 4°, 5°, 6°, b) et c), et 7°. Les participants visés à l'alinéa 1er, 2°, 3°, 4°, 5°, 7°, 8° et 10°, désignent lors de leur première réunion les participants visés à l'alinéa 1er, 6°, a), b) et c), et 9°. Ils sont convoqués à cette fin par l'expert visé au paragraphe 3.
+
+Le nombre total de participants visés à l'alinéa 1er, 4° à 10°, est toujours inférieur au nombre total de participants visés à l'alinéa 1er, 1° à 3°.
+
+§ 2. De concert avec la plate-forme locale de concertation, le Gouvernement flamand désigne un président qui connaît bien le secteur de l'enseignement au sens large. Le président ne siège pas au sein d'une autorité scolaire et n'est pas membre du personnel de l'un ou l'une des écoles, groupes d'écoles, communautés scolaires ou centres d'encadrement des élèves concernés, à l'exception du représentant de l'administration locale concernée ou, le cas échéant, des administrations locales concernées.
+
+Le Gouvernement flamand arrête les modalités de rémunération du président.
+
+§ 3. Le Gouvernement flamand pourvoit au subventionnement, compte tenu de l'article VIII.3, § 2, alinéa 1er, d'un expert qui fournit un soutien de fond et organisationnel à la plate-forme locale de concertation. Il précise les conditions de recrutement et de fonctionnement de l'expert.
+
+L'expert ne peut pas être désigné en qualité président.
+
+§ 4. Les autorités scolaires visées à l'article VIII.4, § 1er, 1°, 2° et 3°, peuvent se faire représenter respectivement par une direction de l'école de leur propre autorité scolaire ou par une direction d'un centre d'encadrement des élèves de leur propre autorité scolaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-02-04/50, art. 54, 020; En vigueur : 01-09-2022&gt;
+
+**Art. VIII.4/1**
+
+[<sup>1</sup> § 1er. Une plate-forme locale de concertation comprend tous les participants ayant voix délibérative mentionnés ci-après qui sont présents dans la zone d'action et qui se manifestent :
+
+1° les directions et autorités scolaires de toutes les écoles situées dans la zone d'action ;
+
+2° les directions et autorités scolaires des écoles d'enseignement spécial situées en dehors de la zone d'action lorsqu'il existe entre ces écoles et les écoles situées dans la zone d'action des flux d'élèves fréquents ;
+
+3° les directions et autorités scolaires des centres d'encadrement des élèves qui accompagnent les écoles situées dans la zone d'action ;
+
+4° un représentant local de chaque organisation syndicale représentative qui défend les intérêts professionnels des personnels des écoles situées dans la zone d'action ;
+
+5° deux représentants locaux d'associations de parents reconnues ;
+
+6° deux représentants locaux de conseils élèves ;
+
+7° au total au maximum dix représentants de :
+
+a) partenaires socioculturels et/ou socio-économiques locaux ;
+
+b) représentants d'organisations de minorités ethnoculturelles ;
+
+c) d'une association où des personnes en situation de pauvreté prennent la parole ;
+
+8° un représentant de l' " Agentschap Integratie en Inburgering " ;
+
+9° un représentant du service d'intégration ;
+
+10° un représentant de l'animation des relations école-collectivité ;
+
+11° un représentant de l'administration communale ou des administrations communales concernées - dans la région bilingue de Bruxelles-Capitale : de la Commission communautaire flamande. Cette personne n'agit pas en la qualité de représentant de la commune, respectivement de la Commission communautaire flamande comme autorité scolaire.
+
+Le Gouvernement flamand désigne les organes qui seront chargés de coordonner la désignation des participants visés au premier alinéa, 4°, 5°, 6°, 7°, b) et c) et 8°.
+
+Les participants visés au premier alinéa, 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9° et 11°, désignent lors de leur première réunion les participants visés au premier alinéa, 7°, a), b) et c) et 10°. Ils sont convoqués à cette fin par l'expert visé au § 3.
+
+Le nombre total de participants, visés à l'alinéa premier, 4° à 11°, est toujours inférieur au nombre total de participants, visés à l'alinéa premier, 1° à 3°.
+
+§ 2. De concert avec la plate-forme locale de concertation, le Gouvernement flamand désigne un président qui connaît bien le vaste domaine de l'enseignement. Le président ne peut siéger dans une autorité scolaire ou être membre du personnel d'une ou d'un des écoles, groupes d'écoles, centres d'enseignement ou centres d'accompagnement d'élèves concernés, à l'exception du représentant de l'administration locale concernée ou, le cas échéant, des administrations locales concernées.
+
+Le Gouvernement flamand arrête les modalités de rémunération du président.
+
+§ 3. Le Gouvernement flamand se charge, dans le respect de l'article VIII.3, § 2., alinéa premier, du subventionnement d'un expert qui s'occupe de l'appui organisationnel et sur le plan du contenu de la plate-forme locale de concertation. Il précise les conditions de recrutement et de fonctionnement de l'expert.
+
+L'expert ne peut pas être désigné comme président.
+
+§ 4. Les autorités scolaires, telles que visées à l'article VIII.4/1, § 1er, 1°, 2° et 3°, peuvent se faire représenter respectivement par une direction de l'école de leur propre autorité scolaire ou par une direction d'un centre d'encadrement des élèves de la propre autorité scolaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-05-17/47, art. IV.2, 011; En vigueur : 01-09-2022&gt;
+
+##### Section 3. Compétence
+
+**Art. VIII.5**
+
+[<sup>1</sup> Une plate-forme locale de concertation pour l'enseignement fondamental remplit les missions suivantes :
+
+1° l'analyse de l'environnement concernant l'inégalité des chances en éducation au sein de la zone d'action. Les participants à la concertation locale fournissent à cet effet les données quantitatives et qualitatives nécessaires ;
+
+2° la prise d'engagements en vue de réaliser les objectifs en matière d'égalité des chances ;
+
+3° [<sup>2</sup> la prise d'engagements en matière d'accueil, d'offre et d'orientation des primo-arrivants allophones vers la classe de héros de la langue ou vers l'enseignement d'accueil pour primo-arrivants allophones, et en matière de suivi des primo-arrivants allophones lors de la transition vers l'offre régulière de l'enseignement financé ou subventionné]<sup>2</sup>;
+
+4° la prise d'engagements relatifs à l'exercice de la compétence de médiation ;
+
+5° la prise d'engagements relatifs à l'application de la priorité telle que prévue aux chapitres IV/1 et IV/3 du décret relatif à l'enseignement fondamental ;
+
+6° la prise d'engagements relatifs à la communication quant à la politique d'inscription menée par les écoles et son harmonisation avec la communication menée par l'Autorité flamande ;
+
+7° la prise d'engagements concernant les dates de début des inscriptions ;
+
+8° la prise d'engagements relatifs à l'augmentation de la fréquentation de l'enseignement maternel ;
+
+9° l'élaboration de dispositions complémentaires sur l'engagement positif des parents vis-à-vis de la langue d'enseignement.
+
+Une plate-forme locale de concertation peut décider de se charger de missions additionnelles.
+
+Le Gouvernement flamand peut attribuer des missions additionnelles aux plates-formes locales de concertation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-02-04/50, art. 55, 020; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFL 2026-06-05/33, art. 25, 034; En vigueur : 01-09-2026&gt;
+
+**Art. VIII.5/1**
+
+[<sup>1</sup> Une plate-forme locale de concertation pour l'enseignement secondaire remplit les missions suivantes :
+
+1° l'analyse de l'environnement concernant l'inégalité des chances en éducation au sein de la zone d'action. Les participants à la concertation locale fournissent à cet effet les données quantitatives et qualitatives nécessaires ;
+
+2° la prise d'engagements en vue de réaliser les objectifs en matière d'égalité des chances ;
+
+3° la prise d'engagements en matière d'accueil, d'offre et d'orientation d'élèves vers l'enseignement d'accueil pour primo-arrivants allophones et de suivi d'anciens primo-arrivants allophones dans l'enseignement financé ou subventionné ;
+
+4° la prise d'engagements relatifs à l'exercice de la compétence de médiation ;
+
+5° [<sup>2</sup> la prise d'engagements relatifs à l'application de la priorité visée à la partie IV, titre 2, chapitres 1/1 et 1/2, du Code de l'enseignement secondaire du 17 décembre 2010 ;]<sup>2</sup>
+
+6° la prise d'engagements relatifs à la communication relative à la politique d'inscription des écoles et la mise en adéquation de cette communication avec la communication menée par l'autorité flamande ;
+
+7° l'établissement des critères et procédures suivant lesquels les écoles d'enseignement secondaire peuvent refuser l'inscription d'un élève qui a été définitivement exclu ailleurs, conformément à l'article 253/25, § 4 et à l'article 253/56, § 4 du Code de l'enseignement secondaire ;
+
+8° l'élaboration de dispositions complémentaires sur l'engagement positif des parents vis-à-vis de la langue d'enseignement ;
+
+9° le suivi des effets dans le cadre de la possibilité d'accorder une priorité maximale de 20% aux groupes sous-représentés, [<sup>2</sup> visés aux articles 253/15 et 253/46]<sup>2</sup> du Code de l'enseignement secondaire pendant les années scolaires 2019-2020, 2020-2021, 2021-2022 et 2022-2023.
+
+Une plate-forme locale de concertation peut décider de se charger de missions additionnelles.
+
+Le Gouvernement flamand peut attribuer des missions additionnelles aux plateformes locales de concertation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-05-17/47, art. IV.4, 011; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFL 2022-02-04/50, art. 56, 020; En vigueur : 01-09-2022&gt;
+
+##### Section 4. Fonctionnement
+
+**Art. VIII.6**
+
+Le fonctionnement d'une plate-forme locale de concertation est défini dans un règlement d'ordre intérieur fixé de commun accord qui :
+
+1° prévoit la création d'un organe qui prépare les discussions et décisions de la plate-forme locale de concertation et qui peut être autorisé à exercer les compétences de la plate-forme locale de concertation. Le règlement d'ordre intérieur fixe les modalités de représentation des différents participants dans cet organe ;
+
+2° répond aux exigences minimales définies par le Gouvernement flamand. Le Gouvernement veille à ce que la charge du planning administratif ne soit pas trop lourde pour les écoles et les centres d'encadrement des élèves.
+
+#### Chapitre 2. Commission des droits de l'élève
+
+##### Section 1ère. Création et composition
+
+**Art. VIII.7**
+
+Il est institué auprès de l'Agence de Services d'Enseignement une commission indépendante, la Commission des droits de l'élève, ci-après dénommée « la Commission ».
+
+**Art. VIII.8**
+
+§ 1er. La Commission se compose d'un président et de six membres et est assistée d'un fonctionnaire de l'Agence de Services d'Enseignement faisant fonction de secrétaire.
+
+Le président est un juriste.
+
+Deux membres sont familiarisés avec la réglementation de l'enseignement et le secteur de l'enseignement au sens large.
+
+Deux membres font preuve d'une expertise spéciale ou d'un mérite spécial au niveau de la protection des droits de l'enfant.
+
+Deux membres se sont familiarisés avec le droit constitutionnel et administratif.
+
+§ 2. Les membres de la Commission jouissent des droits civils et politiques et offrent toutes les garanties leur permettant d'exercer leur mission en toute indépendance.
+
+La qualité de membre de la Commission est inconciliable avec :
+
+1° la qualité de membre d'une assemblée législative, d'un conseil provincial, d'un conseil communal ou d'un conseil d'un centre public d'aide sociale, d'un gouvernement, d'une députation permanente, ou la qualité de bourgmestre ;
+
+2° la qualité de membre du personnel de l'enseignement ou d'un centre d'encadrement des élèves, à l'exception de l'enseignement supérieur ;
+
+3° les délégués de l'enseignement communautaire ou les membres des services administratifs de l'enseignement communautaire ou les membres des associations représentatives des autorités scolaires de l'enseignement subventionné, d'une autorité scolaire ou de centre, d'un centre d'encadrement des élèves, à l'exception de l'enseignement supérieur ;
+
+4° la qualité de membre du personnel des services d'encadrement pédagogique ;
+
+5° la qualité de dirigeant responsable, de mandataire permanent ou de délégué permanent d'une organisation syndicale qui défend les intérêts professionnels du personnel de l'enseignement ;
+
+6° la qualité de membre du personnel de l'inspection de l'enseignement de la Communauté flamande ;
+
+7° la fonction de membre du cabinet d'un ministre du Gouvernement fédéral, du Gouvernement flamand ou du Gouvernement de la Région de Bruxelles-Capitale ;
+
+8° la qualité de membre de la Vlaamse Bemiddelingscommissie (Commission de médiation flamande).
+
+§ 3. Le Gouvernement flamand désigne les membres et leurs suppléants et fixe les modalités de leur rémunération.
+
+[<sup>1</sup> § 4. Pour l'inscription ou l'annulation d'une inscription pour l'année scolaire 2020-2021 et au-delà, la composition de la Commission, par dérogation aux paragraphes 1 et 2, est élargie avec des membres ayant une expertise dans le domaine de la réalisation pratique d'aménagements raisonnables si la Commission émet un avis sur le fond et statue de jure sur des plaintes relatives à l'application des article s 37/11, §§ 2 et 3, et 37/48, §§ 2 et 3, du décret relatif à l'enseignement fondamental du 25 février 1997 et des article s 253/6, §§ 2 et 3, et 253/37, §§ 2 et 3, du Code de l'enseignement secondaire. Par dérogation aux paragraphes 1er et 2, la participation des personnes handicapées ou d'une organisation qui les représente, d'une représentation des personnels et d'une représentation des dispensateurs d'enseignement est assurée dans cette composition. Ces membres siègent avec un mandat consultatif]<sup>1</sup>
+
+[<sup>2</sup> La composition visée à l'alinéa 1er est également valable si, pour l'année scolaire 2023-2024 et au-delà, la Commission émet des avis et statue en droit sur les plaintes relatives à l'application de l'alternative appropriée conformément à l'article 37/43/4 du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 295/15 du Code de l'enseignement secondaire.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-05-17/47, art. IV.5, 011; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFL 2022-02-04/50, art. 57, 020; En vigueur : 01-09-2022&gt;
+
+##### Section 2. Compétence
+
+**Art. VIII.9**
+
+[<sup>1</sup> [<sup>2</sup> [<sup>3</sup> La Commission émet des avis sur le fond et se prononce en droit conformément à la loi sur le droit à l'inscription pour une inscription jusqu'à l'année scolaire 2022-2023 incluse dans l'enseignement ordinaire et jusqu'à l'année scolaire [<sup>5</sup> 2028-2029]<sup>5</sup> incluse dans l'enseignement spécial, conformément à l'article 37quaterdecies et 37sedecies du décret sur l'enseignement fondamental du 25 février 1997, et à l'article 110/14 et 110/16 du Code sur l'enseignement secondaire du 17 décembre 2010. La Commission émet des avis sur le fond et se prononce en droit sur le droit à l'inscription pour l'année scolaire 2023-2024 et suivante dans l'enseignement ordinaire et pour l'année scolaire [<sup>5</sup> 2029-2030]<sup>5</sup> et suivante dans l'enseignement spécial conformément aux articles 37/14, 37/33, 37/34, 37/68, 37/69 et 37/70 du décret sur l'enseignement fondamental du 25 février 1997, et l'article 253/10 253/28, 253/30, 253/31, 235/59, 253/60 et 253/61 du Code de l'enseignement secondaire du 17 décembre 2010, ainsi qu'en cas de refus ou de radiation fondés sur une inscription dans une autre école conformément à l'article 37/43/4 du décret sur l'enseignement fondamental du 25 février 1997 et à l'article 295/15 du Codex de l'enseignement secondaire du 17 décembre 2010.]<sup>3</sup>]<sup>2</sup>
+
+Aucun recours contre une décision de la Commission ne peut être introduit auprès du Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-05-17/47, art. IV.6, 011; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DCFL 2022-02-04/50, art. 58, 020; En vigueur : 01-09-2022&gt;
+
+(3)&lt;DCFL 2022-07-08/11, art. 50, 021; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCFL 2024-12-20/51, art. 9, 028; En vigueur : 01-09-2024&gt;
+
+(5)&lt;DCFL 2026-07-17/17, art. 10, 036; En vigueur : 01-09-2026&gt;
+
+**Art. VIII.10**
+
+[<sup>1</sup> La Commission examine une proposition de procédure de préinscription dans l'enseignement ordinaire au regard des principes des dispositions relatives à l'égalité des chances en éducation, ainsi que des dispositions relatives aux procédures de préinscription et au droit d'inscription, telles qu'énoncées aux chapitres IV/1 et IV/3 du décret du 25 février 1997 relatif à l'enseignement fondamental, et à la partie IV, titre 2, chapitres 1/1 et 1/2 du Code sur l'enseignement secondaire.
+
+La Commission examine une proposition de procédure de préinscription dans l'enseignement spécial au regard des principes des dispositions relatives à l'égalité des chances en éducation, ainsi que des dispositions relatives aux procédures de préinscription et au droit d'inscription, telles qu'énoncées au chapitre IV, sections 3 et 4 du décret du 25 février 1997 relatif à l'enseignement fondamental, et à la partie III, titre 2, chapitres 1/1 et 1/2 du Code sur l'enseignement secondaire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-08/11, art. 51, 021; En vigueur : 01-09-2022&gt;
+
+##### Section 3. Fonctionnement
+
+**Art. VIII.11**
+
+Dans le mois de sa création, la Commission établit son règlement d'ordre intérieur. Elle garantit à cet égard le droit d'être entendu. Le règlement est ratifié par le Gouvernement flamand.
+
+**Art. VIII.12**
+
+Les séances de la Commission sont publiques, à moins que cette publicité ne soit dangereuse pour l'ordre public ou les bonnes mceurs.
+
+## PARTIE IX. INVESTISSEMENTS IMMOBILIERS
+
+#### Chapitre 1er. Répartition des moyens destinés aux investissements immobiliers
+
+**Art. IX.1**
+
+§ 1er. Les moyens fixés annuellement par le décret contenant le budget de la Communauté flamande et affectés aux investissements immobiliers dans l'enseignement sont répartis entre l'enseignement libre subventionné, l'enseignement officiel subventionné et l'enseignement communautaire à raison de la valeur de remplacement des bâtiments scolaires de chacun de ces réseaux. A cet égard, il est tenu compte d'un taux de couverture de 100 % dans l'enseignement communautaire. Dans l'enseignement subventionné, ce taux de couverture est de 70 % pour l'enseignement fondamental et de 60 % pour les autres niveaux d'enseignement et les centres d'encadrement des élèves.
+
+À cet effet, la valeur de remplacement des bâtiments scolaires est établie, par réseau d'enseignement, sur la base du mode de calcul suivant :
+
+superficie requise x prix unitaire/délai d'amortissement
+
+Par réseau d'enseignement, la superficie requise est égale à la somme des produits de la superficie moyenne par niveau d'enseignement et du nombre d'élèves au niveau d'enseignement correspondant.
+
+Cette superficie moyenne par niveau d'enseignement est calculée sur la base d'une même superficie par élève dans tous les réseaux, compte tenu des différences objectives relatives à la taille de l'école.
+
+Conformément à la formule visée au § 2, la valeur des paramètres est chaque fois établie pour une période de cinq ans.
+
+Le prix unitaire au mètre carré, à savoir 641,42 euros et le délai d'amortissement, couvrant une période de 50 ans, sont les mêmes pour tous les réseaux et niveaux d'enseignement.
+
+#### Chapitre 2. Moyens pour travaux d'infrastructure à partir de 2005
+
+**Art. IX.2**
+
+Pour l'année 2005, les autorisations d'engagement suivantes sont accordées au budget de la Communauté flamande :
+
+1° à l'enseignement communautaire, un montant de 31.247.603 euros à affecter aux petits et gros travaux d'infrastructure pour accomplir les missions visées aux articles 23 et 26 du décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire et à l'article 13, § 2, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement ;
+
+2° à l'Agion (Agence de l'Infrastructure dans l'Enseignement), un montant de 20.740.299 euros pour l'enseignement officiel subventionné à l'exception des instituts supérieurs de droit public et un montant de 87.092.343 euros pour l'enseignement libre subventionné à l'exception des instituts supérieurs libres subventionnés, pour accomplir les missions visées à l'article 13, § 2, et à l'article 17 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement ;
+
+3° à partir de l'année budgétaire 2006, ces montants seront adaptés selon le facteur d'adaptation appliqué aux subventions d'investissement dans le décret budgétaire
+
+**Art. IX.3**
+
+Les crédits d'ordonnancement nécessaires sont inscrits annuellement au budget de la Communauté flamande afin de respecter les engagements contractés par l'enseignement communautaire et l'Agion sur la base des autorisations d'engagement mentionnées à l'article précédent.
+
+Ce crédit d'ordonnancement est fixé, dans les limites des moyens disponibles de la Communauté flamande, à l'aide du calendrier de paiement établi par l'enseignement communautaire et l'Agion.
+
+#### Chapitre 3. Entretien du propriétaire
+
+**Art. IX.4**
+
+Afin de permettre à l'enseignement communautaire de pourvoir à l'entretien du propriétaire de ses bâtiments, un crédit de 7.809.000 euros est inscrit annuellement à la dotation de l'enseignement communautaire. A partir de l'année budgétaire 2012, ce montant est adapté à l'évolution de l'indice santé.
+
+Le crédit est réparti entre les conseils scolaires, les conseils d'administration et, à défaut, entre les écoles ou centres, selon des critères objectifs à déterminer par l'enseignement communautaire.
+
+**Art. IX.5**
+
+Le conseil central, les conseils scolaires locaux, les conseils d'administration et, à défaut, les écoles ou centres de l'enseignement communautaire ainsi que les autorités scolaires de l'enseignement subventionné peuvent conclure, pour l'achat d'équipement, des conventions d'emprunt et des conventions de crédit-bail auprès d'établissements financiers agréés à cet effet par le Gouvernement flamand.
+
+#### Chapitre 4. [<sup>1</sup> Répartition des moyens pour le désamiantage]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-12-12/20, art. 2, 032; En vigueur : 19-01-2026&gt;
+
+**Art. IX.6**
+
+[<sup>1</sup> Les budgets libérés pour l'enlèvement de matériaux contenant et susceptibles de contenir de l'amiante dans les bâtiments destinés à l'enseignement, sont répartis selon la clé de répartition visée à l'article IX.1, § 1er, accordée à l'Agence de l'Infrastructure dans l'Enseignement et à l'Enseignement communautaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-12-12/20, art. 3, 032; En vigueur : 19-01-2026&gt;
+
+## PARTIE X. ORGANISATION DE L'ENSEIGNEMENT COMMUNAUTAIRE
+
+#### Chapitre 1er. Personnel
+
+**Art. X.1**
+
+§ 1er. Les membres du personnel nommés à titre définitif, stagiaires et contractuels occupés au 31 mars 1999 dans les services administratifs de I'ARGO (Conseil autonome de l'enseignement communautaire) sont transférés à l'organisme visé à l'article 3 du décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire.
+
+§ 2. Le Gouvernement flamand fixe la date et les modalités du transfert des membres du personnel visés au § 1er. Le transfert de ces membres du personnel s'effectue au moins dans leur grade ou dans un grade équivalent. Ils conservent au moins la rémunération, l'ancienneté administrative et pécuniaire, les allocations et indemnités réglementaires et la qualité dont ils bénéficiaient.
+
+§ 3. Tant que le Gouvernement flamand n'a pas mis en oeuvre l'article 67, 2, du décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire, les membres du personnel transférés au nouvel organisme ainsi que les membres du personnel engagés par cet organisme restent soumis au statut juridique des membres du personnel des services administratifs de l'ARGO.
+
+Le Gouvernement flamand dispose de la compétence pour définir le statut juridique des services administratifs de l'ARGO.
+
+§ 4. Le Conseil de l'enseignement communautaire est autorisé, en ce qui concerne le personnel de ses services administratifs, à participer au régime des pensions, instauré par la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit.
+
+#### Chapitre 2. Biens immobiliers
+
+**Art. X.2**
+
+Le Conseil de l'enseignement communautaire visé à l'article 5 §A, du décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire - jusqu'au 31 décembre 2002 : le conseil central visé à l'article 5, § 1er, 1°, du décret spécial du 19 décembre 1988 relatif au Conseil autonome de l'Enseignement communautaire - peut, conformément à la législation relative aux expropriations pour cause d'utilité publique et après autorisation du Gouvernement flamand, exproprier, en nom et pour compte propres, des biens immeubles nécessaires à la réalisation de sa mission.
+
+**Art. X.3**
+
+§ 1er. Les biens immeubles dont l'Enseignement communautaire est propriétaire sont destinés à l'enseignement et appartiennent au domaine public.
+
+§ 2. Les dispositions du § 1er ne portent aucunement atteinte au droit dont jouit l'enseignement communautaire, conformément aux dispositions applicables en la matière du décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire, de :
+
+1° gérer et notamment de désaffecter ses biens immeubles ; et
+
+2° disposer de ces biens.
+
+Les produits liés aux actes de gestion ou de disposition visés à l'alinéa 1er sont affectés conformément aux dispositions de l'article 13, § 2, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.
+
+## PARTIE X/1. [<sup>1</sup> - Mesure transitoire en cas de fusion de communes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 120, 005; En vigueur : 01-01-2019&gt;
+
+**Art. X.1/1**
+
+[<sup>1</sup> Dans le présent article, il faut entendre par établissements :
+
+1° les écoles d'enseignement fondamental ordinaire et spécial ;
+
+2° les établissements d'enseignement artistique à temps partiel.
+
+Les communes qui fusionnent conformément au décret Fusion volontaire de Communes du 24 juin 2016, sont considérées, pour l'application de la réglementation de l'enseignement, comme n'ayant pas fait l'objet d'une fusion pendant une période de six années scolaires, prenant cours le 1er septembre après la fusion, pour :
+
+1° le calcul du financement et du subventionnement des établissements et des centres d'enseignement sur leur territoire ;
+
+2° l'obtention des normes de programmation et de rationalisation des établissements sur leur territoire ;
+
+3° l'obtention de la norme pour les centres d'enseignement de l'enseignement fondamental ;
+
+4° les délimitations régionales pour les zones d'enseignement et les régions LOP.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 121, 005; En vigueur : 01-01-2019&gt;
+
+## PARTIE X/2. [<sup>1</sup> Approbation des objectifs pédagogiques de remplacement ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/17, art. 136, 023; En vigueur : 01-09-2021&gt;
+
+**Art. X/2.1**
+
+[<sup>1</sup> Les objectifs de développement et objectifs finaux de remplacement de l'enseignement fondamental, qui ont été introduits à l'initiative des huit autorités scolaires des écoles à facilités francophones dans les communes de Drogenbos, Linkebeek, Kraainem, Rhode-Saint-Genèse, Wemmel et Wezembeek-Oppem, et déclarés équivalents dans leur intégralité en application de l'arrêté du gouvernement flamand du 18 décembre 2020 relatif aux objectifs finaux de remplacement à l'initiative des écoles à facilités francophones dans les communes de Drogenbos, Linkebeek, Kraainem, Rhode-Saint-Genèse, Wemmel et Wezembeek-Oppem, sont approuvés sur la base du contexte institutionnel spécifique sur la base duquel ces écoles ont été créées. Les objectifs pédagogiques de remplacement sont les socles de compétences décrétales de la Fédération Wallonie-Bruxelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/17, art. 137, 023; En vigueur : 01-09-2021&gt;
+
+## Partie X/3. [<sup>1</sup> Données à caractère personnel en matière d'enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/31, art. 77, 030; En vigueur : 01-09-2025&gt;
+
+**Art. X/3.1**
+
+[<sup>1</sup> § 1er. Les services compétents de la Communauté flamande, chargés du contrôle de l'obligation scolaire et du soutien financier des établissements, traitent les données à caractère personnel des élèves scolarisables relevant du système d'enseignement à domicile et de leurs parents.
+
+Les données précitées sont traitées aux fins suivantes :
+
+1° le contrôle de l'obligation scolaire et de l'enseignement à domicile ;
+
+2° le soutien de la politique de l'enseignement ;
+
+3° l'enregistrement des titres et le suivi de la progression des études et des parcours d'enseignement ;
+
+4° le soutien des plateformes locales de concertation, visées à la partie VIII, chapitre 1er.
+
+Le traitement des données à caractère personnel, visées au paragraphe 2, est nécessaire à l'accomplissement d'une tâche d'intérêt général au sens de l'article 6.1, e), du règlement général sur la protection des données. Le traitement des données à caractère personnel, visées au paragraphe 2, peut également conduire au traitement de données concernant la santé, la race ou l'origine ethnique, les convictions politiques, les convictions religieuses ou philosophiques comme les catégories particulières de données à caractère personnel, visées à l'article 9, paragraphe 1er, du règlement général sur la protection des données. Les traitements précités sont des traitements nécessaires pour des motifs d'intérêt public important, tels que visés à l'article 9, paragraphe 2, g), du règlement général sur la protection des données. Les motifs d'intérêt général et d'intérêt public important concernent la garantie du droit à l'enseignement des élèves scolarisables, et de la santé et de l'intégrité des élèves scolarisables.
+
+§ 2. Aux fins visées au paragraphe 1er, alinéa 2, les services compétents de la Communauté flamande traitent les données suivantes des élèves scolarisables qui relèvent du système d'enseignement à domicile :
+
+1° les données d'identification : les prénom et nom, le sexe, la date de naissance, le lieu de naissance, la nationalité, le numéro d'identification du Registre national ou le numéro d'identification de la Banque Carrefour de la Sécurité sociale, visée à l'article 8, § 1er, 1° et 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° domicile : adresse de domicile, résidence principale et informations relatives à l'absence temporaire ;
+
+3° données relatives au parcours d'enseignement : parcours d'enseignement précédent et titres, participation et résultats de participation au jury de l'enseignement fondamental et secondaire, dérogation au jury telle que visée à l'article 26bis/2, § 2, alinéa 1er, 1°, du décret du 25 février 1997 relatif à l'enseignement fondamental et telle que visée à l'article 110/30, § 2, alinéa 1er, 1°, du Code de l'Enseignement secondaire du 17 décembre 2010 ;
+
+4° santé : les données relatives à la participation aux contacts systématiques et la coopération aux mesures prophylactiques tel que visé à l'article 6, § 4, du décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves ;
+
+5° données relatives à l'enseignement à domicile : les données telles que visées à l'article 26bis/1, § 1er, du décret relatif à l'enseignement fondamental du 25 février 1997 et à l'article 110/29, § 1er, du Code de l'enseignement secondaire du 17 décembre 2010 ;
+
+6° les prénom et nom, le niveau de formation et le domaine des enseignants et l'adresse où l'enseignement à domicile est dispensé si un enseignement à domicile commun est organisé, conformément à l'article 26bis/1, § 1er, alinéa 3, du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 110/29, § 1er, alinéa 2, du Code de l'Enseignement secondaire du 17 décembre 2010.
+
+Aux fins visées au paragraphe 1er, alinéa 2, les services compétents de la Communauté flamande traitent les données suivantes des parents des élèves scolarisables qui suivent un enseignement à domicile : les données à caractère personnel, visées à l'alinéa 1er, 1° et 2°, les coordonnées, l'adresse e-mail et le numéro de téléphone et, dans la mesure où les parents agissent comme enseignant tel que visé à l'article 26bis/1, § 1er, 2°, du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 110/29, § 1er, 2°, du Code de l'Enseignement secondaire du 17 décembre 2010, les données à caractère personnel visées à l'alinéa 1er, 5°.
+
+Aux fins visées au paragraphe 1er, alinéa 2, les services compétents de la Communauté flamande traitent les données suivantes de l'organisateur de l'enseignement à domicile commun et des enseignants, visés à l'article 26bis/1, § 1er, alinéa 3, du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 110/29, § 1er, alinéa 2, du Code de l'Enseignement secondaire du 17 décembre 2010 : les données à caractère personnel, visées à l'alinéa 1er, 1°, 2°, 5° et 6°, et les coordonnées, l'adresse e-mail et le numéro de téléphone.
+
+Aux fins visées au paragraphe 1er, alinéa 2, les services compétents de la Communauté flamande traitent les données suivantes d'autres personnes du réseau social de l'élève scolarisable qui jouent un rôle dans le respect des conditions de l'enseignement à domicile : les données à caractère personnel, visées à l'alinéa 1er, 1° et 5°.
+
+§ 3. Les services compétents de la Communauté flamande sont le responsable du traitement pour les données visées aux paragraphes 1er et 2. Les membres du personnel des services compétents de la Communauté flamande ont accès aux données traitées dans la mesure où cela est nécessaire à l'exécution de leurs tâches.
+
+§ 4. Les services compétents de la Communauté flamande fournissent les données, visées au présent article, à d'autres services publics compétents pour l'enseignement, l'aide à la jeunesse, la justice, l'intérieur et le bien-être, lorsque cela est nécessaire à l'exécution de leurs missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/31, art. 78, 030; En vigueur : 01-09-2025&gt;
+
+**Art. X/2**
+
+[<sup>1</sup> § 1er. L'inspection de l'enseignement traite les données à caractère personnel d'élèves scolarisables qui relèvent du système d'enseignement à domicile, et de leurs parents.
+
+Les données précitées sont traitées en vue du contrôle de l'enseignement à domicile, visé à l'article 26ter du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 110/31 du Code de l'Enseignement secondaire du 17 décembre 2010.
+
+Le traitement des données à caractère personnel, visées au paragraphe 2, est nécessaire à l'accomplissement d'une tâche d'intérêt général au sens de l'article 6.1, e), du règlement général sur la protection des données. Le traitement des données à caractère personnel, visées au paragraphe 2, peut également conduire au traitement de données concernant la santé, la race ou l'origine ethnique, les convictions politiques, les convictions religieuses ou philosophiques comme les catégories particulières de données à caractère personnel, visées à l'article 9, paragraphe 1er, du règlement général sur la protection des données. Les traitements précités sont des traitements nécessaires pour des motifs d'intérêt public important, tels que visés à l'article 9, paragraphe 2, g), du règlement général sur la protection des données. Les motifs d'intérêt général et d'intérêt public important concernent la garantie du droit à l'enseignement des élèves scolarisables, et de la santé et de l'intégrité des élèves scolarisables.
+
+§ 2. Aux fins visées au paragraphe 1er, alinéa 2, l'inspection de l'enseignement traite les données suivantes des élèves scolarisables qui relèvent du système d'enseignement à domicile :
+
+1° les données d'identification : les prénom et nom, le sexe, la date de naissance, le lieu de naissance, la nationalité, le numéro d'identification du Registre national ou le numéro d'identification de la Banque Carrefour de la Sécurité sociale, visée à l'article 8, § 1er, 1° et 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+
+2° domicile : adresse de domicile, résidence principale et informations relatives à l'absence temporaire ;
+
+3° données relatives au parcours d'enseignement : parcours d'enseignement précédent et titres, participation et résultats de participation au jury de l'enseignement fondamental et secondaire, dérogation au jury telle que visée à l'article 26bis/2, § 2, alinéa 1er, 1°, du décret du 25 février 1997 relatif à l'enseignement fondamental et telle que visée à l'article 110/30, § 2, alinéa 1er, 1°, du Code de l'Enseignement secondaire du 17 décembre 2010 ;
+
+4° santé : les données relatives à la participation aux contacts systématiques et la coopération aux mesures prophylactiques tel que visé à l'article 6, § 4, du décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves ;
+
+5° données relatives à l'enseignement à domicile : les données telles que visées à l'article 26bis/1, § 1er, du décret relatif à l'enseignement fondamental du 25 février 1997 et à l'article 110/29, § 1er, du Code de l'enseignement secondaire du 17 décembre 2010 ;
+
+6° les prénom et nom, le niveau de formation et le domaine des enseignants et l'adresse où l'enseignement à domicile est dispensé si un enseignement à domicile commun est organisé, conformément à l'article 26bis/1, § 1er, alinéa 3, du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 110/29, § 1er, alinéa 2, du Code de l'Enseignement secondaire du 17 décembre 2010.
+
+Aux fins visées au paragraphe 1er, l'inspection de l'enseignement traite les données suivantes des parents des élèves scolarisables qui suivent un enseignement à domicile : les données à caractère personnel, visées à l'alinéa 1er, 1° et 2°, les coordonnées, l'adresse e-mail et le numéro de téléphone et, dans la mesure où les parents agissent comme enseignant tel que visé à l'article 26bis/1, § 1er, 2°, du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 110/29, § 1er, 2°, du Code de l'Enseignement secondaire du 17 décembre 2010, les données à caractère personnel visées à l'alinéa 1er, 5°.
+
+Aux fins visées au paragraphe 1er, l'inspection de l'enseignement traite les données suivantes de l'organisateur de l'enseignement à domicile commun et des enseignants, visés à l'article 26bis/1, § 1er, alinéa 3, du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 110/29, § 1er, alinéa 2, du Code de l'Enseignement secondaire du 17 décembre 2010 : les données à caractère personnel, visées à l'alinéa 1er, 1°, 2°, 5° et 6°, et les coordonnées, l'adresse e-mail et le numéro de téléphone.
+
+Aux fins visées au paragraphe 1er, l'inspection de l'enseignement traite les données suivantes d'autres personnes du réseau social de l'élève scolarisable qui jouent un rôle dans le respect des conditions de l'enseignement à domicile : les données à caractère personnel, visées à l'alinéa 1er, 1° et 5°.
+
+§ 3. L'inspection de l'enseignement est le responsable du traitement pour les données visées aux paragraphes 1er et 2. Les membres du personnel de l'inspection de l'enseignement ont accès aux données traitées dans la mesure où cela est nécessaire à l'exécution de leurs tâches.
+
+§ 4. L'inspection de l'enseignement fournit les données, visées au présent article, à d'autres services publics compétents pour l'enseignement, l'aide à la jeunesse, la justice, l'intérieur et le bien-être, lorsque cela est nécessaire à l'exécution de leurs missions, conformément à l'article 8 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives.
+
+§ 5. L'inspection de l'enseignement fournit les données relatives à ses conclusions du contrôle, visé à l'article 26ter du décret du 25 février 1997 relatif à l'enseignement fondamental et à l'article 110/31 du Code de l'Enseignement secondaire du 17 décembre 2010, aux services compétents de la Communauté flamande.
+
+L'inspection de l'enseignement et les services compétents de la Communauté flamande sont les responsables du traitement de ces données. L'inspection de l'enseignement veille à ce que les données à caractère personnel transférées soient correctes.
+
+§ 6. Si l'inspection de l'enseignement estime que les possibilités de développement ou l'intégrité d'un élève scolarisable qui relève du système d'enseignement à domicile, ne sont pas garanties, elle fournit les données à caractère personnel visées au paragraphe 2 aux structures mandatées visées au chapitre 8, section 2, du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse.
+
+L'inspection de l'enseignement et les structures mandatées sont les responsables du traitement. L'inspection de l'enseignement veille à ce que les données à caractère personnel transférées soient correctes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/31, art. 79, 030; En vigueur : 01-09-2025&gt;
+
+## PARTIE XI. DISPOSITIONS RELATIVES À LA CODIFICATION DE LA RÉGLEMENTATION DE L'ENSEIGNEMENT
+
+**Art. XI.1**
+
+Le Gouvernement flamand peut coordonner les dispositions des décrets suivants, en considération des modifications qui y sont expressément ou tacitement apportées jusqu'à la date de la coordination :
+
+1° l'arrêté royal du 20 août 1957 portant coordination des lois sur l'enseignement primaire ;
+
+2° la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement ;
+
+2°bis l'arrêté royal du 18 avril 1967 fixant les règles de calcul du nombre d'éducateurs dans l'enseignement de l'Etat ;
+
+3° la loi du 6 juillet 1970 sur l'enseignement spécial et intégré ; 4° la loi du 7 juillet 1970 relative à la structure générale de
+
+l'enseignement supérieur ;
+
+5° la loi du 19 juillet 1971 relative à l'octroi d'allocations d'études ;
+
+5°bis l'arrêté royal n° 2 du 21 août 1978 fixant le nombre maximum de périodes par semaine de l'enseignement secondaire à temps plein ;
+
+5°ter l'arrêté royal n° 65 du 20 juillet 1982 fixant la façon de déterminer les fonctions du personnel directeur et enseignant dans les établissements d'enseignement spécial ;
+
+5°quater l'arrêté royal n° 66 du 20 juillet 1982 fixant la façon de déterminer les fonctions du personnel administratif et du personnel auxiliaire d'éducation dans les établissements d'enseignement spécial, à l'exception des internats ou semi-internats ;
+
+5°quinquies l'arrêté royal n° 67 du 20 juillet 1982 fixant la façon de déterminer les fonctions du personnel paramédical, médical, social, psychologique et orthopédagogique dans l'enseignement secondaire spécial ;
+
+5°quinquies/1 l'arrêté royal n° 184 du 30 décembre 1982 fixant la façon de déterminer, pour les instituts d'enseignement spécial de l'Etat et les homes d'accueil de l'Etat, les fonctions du personnel paramédical et du personnel attribué dans le cadre de leur internat ;
+
+5°sexies l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux ;
+
+5°sexies/1 l'arrêté royal n° 456 du 10 septembre 1986 portant rationalisation et programmation des internats de l'enseignement organisé ou subventionné par l'Etat ;
+
+6° le décret spécial du 19 décembre 1988 relatif au Conseil autonome de l'enseignement communautaire ;
+
+7° le décret spécial du 19 décembre 1988 relatif aux instituts supérieurs autonomes flamands ;
+
+8° le décret du 5 juillet 1989 relatif à l'enseignement ;
+
+9° le décret du 12 juillet 1990 portant organisation de l'éducation de base pour adultes peu scolarisés ;
+
+10° le décret du 31 juillet 1990 relatif à l'enseignement II ;
+
+11° le décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ;
+
+12° le décret du 7 mars 1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves ;
+
+13° le décret du 12 juin 1991 relatif aux universités dans la Communauté flamande ;
+
+14° le décret spécial du 26 juin 1991 relatif à l'« Universiteit Gent » et à l'« Universitair Centrum Antwerpen » ;
+
+15° le décret du 17 juillet 1991 relatif à l'inspection, au D.V.O. (Dienst voor Onderwijsontwikkeling-Service d'Études) et aux services d'encadrement pédagogique ;
+
+16° le décret du 9 avril 1992 relatif à l'enseignement III ;
+
+17° le décret du 28 avril 1993 relatif à l'enseignement IV ;
+
+18° le décret du 15 décembre 1993 relatif à l'enseignement V ;
+
+19° le décret du 13 juillet 1994 relatif aux instituts supérieurs en Communauté flamande ;
+
+20° le décret du 21 décembre 1994 relatif à l'enseignement VI ;
+
+21° le décret du 16 avril 1996 relatif à la formation des enseignants et à la formation continuée ;
+
+22° le décret du 8 juillet 1996 relatif à l'enseignement VII ;
+
+22°bis l'arrêté royal n° 439 du 11 août 1986 portant rationalisation et programmation de l'enseignement spécial ;
+
+23° le décret du 25 février 1997 relatif à l'enseignement fondamental ;
+
+24° le décret du 15 juillet 1997 relatif à l'enseignement VIII ;
+
+25° le décret du 9 juin 1998 relatif à la « Hogere Zeevaartschool » ;
+
+26° le décret du 14 juillet 1998 contenant diverses mesures relatives à l'enseignement secondaire et modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental ;
+
+27° le décret du 14 juillet 1998 relatif à l'enseignement IX ;
+
+28° le décret du 1er décembre 1998 relatif aux centres d'encadrement des élèves ;
+
+29° le décret du 2 mars 1999 réglant certaines matières relatives à l'éducation des adultes ;
+
+30° le décret du 18 mai 1999 relatif à l'enseignement X ;
+
+31° le décret du 18 mai 1999 relatif à l'enseignement XI ;
+
+32° le décret du 8 juin 2000 portant des mesures urgentes relatives à la fonction d'enseignant ;
+
+33° le décret du 20 octobre 2000 relatif à l'enseignement XII - Ensor ;
+
+33°bis le décret du 8 juin 2000 portant des mesures urgentes relatives à la fonction d'enseignant ;
+
+34° le décret du 16 février 2001 réglant les allocations d'études
+
+supérieures en Communauté flamande ;
+
+35° le décret du 20 avril 2001 ajustant la réglementation de l'enseignement tertiaire ;
+
+36° le décret du 13 juillet 2001 relatif à l'enseignement XIII - Mosaïque ;
+
+36°bis le décret du 28 juin 2002 relatif à l'égalité des chances en éducation I ;
+
+36°ter le décret du 18 janvier 2002 relatif aux objectifs finaux, aux objectifs de développement et aux objectifs finaux spécifiques dans l'enseignement secondaire ordinaire et spécial à temps plein ; 36°quater les dispositions décrétales de l'arrêté du Gouvernement flamand du 6 décembre 2002 relatif à l'organisation de l'enseignement secondaire spécial de la forme d'enseignement 3 ;
+
+37° le décret relatif à l'enseignement XIV ;
+
+38° le décret relatif à l'enseignement XV ;
+
+[<sup>1</sup> 38° bis le décret du 9 décembre 2005 relatif à l'organisation de projets temporaires dans l'enseignement ;]<sup>1</sup>
+
+39° le décret relatif à l'enseignement XVI ;
+
+[<sup>1</sup> 39° bis le décret du 7 juillet 2006 relatif au mouvement de rattrapage pour l'infrastructure scolaire ;]<sup>1</sup>
+
+40° le décret relatif à l'enseignement XVII ;
+
+41° le décret du 16 mai 2007 portant des mesures urgentes pour l'enseignement ;
+
+[<sup>1</sup> 41° bis le décret du 7 décembre 2007 relatif aux performances énergétiques dans les écoles ;]<sup>1</sup>
+
+42° le décret relatif à l'enseignement XVIII ;
+
+42°bis le décret du 6 juin 2008 instituant une interdiction de fumer dans les établissements d'enseignement et les centres d'encadrement des élèves ;
+
+43° le décret du 4 juillet 2008 relatif aux budgets de fonctionnement dans l'enseignement secondaire et modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental en ce qui concerne les budgets de fonctionnement ;
+
+44° le décret du 10 juillet 2008 portant diverses mesures urgentes relatives à l'enseignement artistique à temps partiel ;
+
+44°bis le décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande ;
+
+45° le décret du 8 mai 2009 relatif à l'enseignement XIX ;
+
+46° le décret relatif à l'enseignement XX ;
+
+47° le décret relatif à l'enseignement XXI ;
+
+48° le décret relatif à l'enseignement XXII ;
+
+49° le décret relatif à l'enseignement XXIII ;
+
+50° le décret relatif à l'enseignement XXIV ;
+
+51° le décret relatif à l'enseignement XXV ;
+
+52° le décret du 21 mars 2014 relatif à des mesures pour les élèves à besoins éducatifs spécifiques ;
+
+53° le décret relatif à l'enseignement XXVI;
+
+[<sup>1</sup> 54° le décret du 10 juin 2016 réglant certains aspects des formations en alternance ;
+
+55° le décret du 25 novembre 2016 relatif au financement alternatif de l'infrastructure scolaire par le biais de conventions DBFM spécifiques d'un projet ;
+
+56° le décret relatif à l'enseignement XXVII.]<sup>1</sup>
+
+À cette fin, le Gouvernement peut :
+
+1° modifier l'ordre, la numérotation et, en général, la présentation des dispositions à coordonner ;
+
+2° modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec la numérotation nouvelle ;
+
+3° modifier la rédaction des dispositions à coordonner en vue d'en unifier la terminologie, d'assurer leur concordance et de les mettre en conformité avec l'état actuel de la réglementation, notamment par l'harmonisation du cadre de définitions, sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions ;
+
+4° adapter les références aux dispositions coordonnées dans les dispositions ne faisant pas l'objet de la coordination.
+
+[<sup>2</sup> 57° le décret relatif à l'enseignement XXVIII.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. IX.19, 002; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFL 2018-06-15/18, art. 123, 005; En vigueur : 01-09-2018&gt;
+
+## PARTIE XII. ADAPTATIONS DES RÉFÉRENCES AUX ARTICLES REPRIS DANS LA CODIFICATION.
+
+**Art. XII.1**
+
+Dans les lois, décrets, arrêtés royaux et arrêtés du Gouvernement flamand visés ci-après, les références aux articles repris dans la codification de certaines dispositions relatives à l'enseignement ont été adaptées soit en procédant à des suppressions, soit en insérant une référence à un article de la codification :
+
+1° À l'article 6 de la loi du 30/07/1963 concernant le régime linguistique dans l'enseignement, le membre de phrase « l'article 4 de la loi du 29 mai 1959 modifiant la législation relative à l'enseignement gardien, primaire, moyen, normal, technique et artistique » et le membre de phrase « l'article 4 de la loi du 29 mai 1959 » sont chaque fois remplacés par le membre de phrase « l'article IV.34 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+2° À l'article 2 de la loi du 15/07/1983 portant création du Service national de Transport scolaire, le membre de phrase « l'article 20 de la loi du 6 juillet 1970 [sur l'enseignement spécialisé] » est remplacé par le membre de phrase « l'article IV.35 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+3° À l'article 2 de l'annexe à loi du 15/07/1983 portant création du Service national de Transport scolaire, le membre de phrase « l'article 4 de la loi du 29 mai 1959 » est remplacé par le membre de phrase « l'article IV.34 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+4° [<sup>1</sup> dans l'article 4, § 1er, de la loi du 15 juillet 1983 portant création du Service national de Transport scolaire, le membre de phrase " l'article 4 de la loi du 29 mai 1959 " est remplacé par le membre de phrase " l'article IV.34 de la codification de certaines dispositions relatives à l'enseignement " ;]<sup>1</sup>
+
+5° À l'article 4 du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, le § 2 est abrogé ;
+
+6° À l'article 5 du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, les modifications suivantes sont apportées :
+
+1° au point 1°, la notion « établissements d'enseignement artistique à temps partiel » est remplacée par la notion « écoles d'enseignement artistique à temps partiel » ;
+
+2° le point 28° est remplacé par ce qui suit
+
+« 28° le pouvoir organisateur : les autorités scolaires de l'enseignement fondamental et de l'enseignement secondaire à temps plein, les autorités des centres d'enseignement secondaire professionnel à temps partiel, les autorités des centres d'éducation des adultes et des centres d'encadrement des élèves, les autorités scolaires de l'enseignement artistique à temps partiel, des internats et les autorités des homes d'accueil pour enfants dont les parents n'ont pas de résidence fixe, des internats autonomes et des services d'encadrement pédagogique ;
+
+7° À l'article 6, § 5, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, le membre de phrase l'article 100/1 du décret du 31 juillet 1990 relatif à l'enseignement II ou l'article XI.1 du décret du 21 décembre 2012 relatif à l'enseignement XXII » est remplacé par le membre de phrase « les articles II.30 et III.36 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+8° À l'article 19, § 1ter, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, le membre de phrase l'article 28, § 1er, 1°, 2° et 4°, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement » est remplacé par le membre de phrase « l'article V.46, § 1ter, 1°, 2° et 4°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+9° À l'article 33, § 1ter, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, le membre de phrase l'article 5, § 1ter, du décret du 9 avril 1992 relatif à l'enseignement III » est remplacé par le membre de phrase « l'article V.77 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+10° À l'article 39bis, § 4, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, le point h) est remplacé par ce qui suit :
+
+« h) congé politique tel que défini aux articles V.29 et suivants de la codification de certaines dispositions relatives à l'enseignement » ;
+
+11° À l'article 44quinquies decies du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, le membre de phrase « l'article 71 du décret du 15 juillet 1997 relatif à l'enseignement VIII » est remplacé par le membre de phrase « l'article 11 du Code de l'enseignement secondaire » ;
+
+12° À l'article 51quater, § 2, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, le membre de phrase « l'article X.57 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « l'article V.16 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+13° À l'article 74bis/1, § 1er, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, les modifications suivantes sont apportées :
+
+1° au point 2°, le membre de phrase « article 91, 6° et 8°, du décret du 31 juillet 1990 relatif à l'enseignement II » est remplacé par le membre de phrase « article II.1, 6° et 8°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+2° au point 3°, le membre de phrase « article 91, 6° et 9°, du décret du 31 juillet 1990 relatif à l'enseignement II » est remplacé par le membre de phrase « article II.1, 6° et 9°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+14° À l'article 84quinquies decies du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement subventionné et des centres subventionnés d'encadrement des élèves, le membre de phrase « chapitre IX du décret du 13 juillet 2001 relatif à l'enseignement XIII - Mosaïque » est remplacé par le membre de phrase « les dispositions relatives au statut pécuniaire reprises dans la codification de certaines dispositions relatives à l'enseignement » ;
+
+15° À l'article 3 du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, les modifications suivantes sont apportées :
+
+1° au point 3°, la notion « établissements d'enseignement artistique à temps partiel » est remplacée par la notion « écoles d'enseignement artistique à temps partiel » ;
+
+2° au point 42°, le membre de phrase « article 29 du décret du 9 avril 1992 relatif à l'enseignement III » est remplacé par le membre de phrase « articles III.38 et suivants de la codification de certaines dispositions relatives à l'enseignement » ;
+
+16° À l'article 4, § 3, 3°, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le membre de phrase « en application de l'article 201 du décret du 31 juillet 1990 relatif à l'enseignement II » est abrogé ;
+
+17° À l'article 4, § 5, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le membre de phrase « l'article 100/1 du décret du 31 juillet 1990 relatif à l'enseignement II ou l'article XI.1 du décret du 21 décembre 2012 relatif à l'enseignement XXII » est remplacé par le membre de phrase « les articles II.30 ou III.36 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+18° À l'article 28, § 1er, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le membre de phrase « l'article 5, § 1ter, du décret du 9 avril 1992 relatif à l'enseignement III » est remplacé par le membre de phrase l'article V.77, § 1ter de la codification de certaines dispositions relatives à l'enseignement » ;
+
+19° À l'article 42bis, § 4, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le point h) est remplacé par ce qui suit :
+
+h) congé politique tel que visé aux articles V.29 et suivants de la codification de certaines dispositions relatives à l'enseignement » ;
+
+20° À l'article [<sup>1</sup> 56/1]<sup>1</sup>, § 1er, 2°, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le membre de phrase « l'article 91, 6° et 8°, du décret du 31 juillet 1990 relatif à l'enseignement II » est remplacé par le membre de phrase l'article II.1, 6° et 8°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+21° À l'article [<sup>1</sup> 56/1]<sup>1</sup>, § 1er, 3°, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le membre de phrase « l'article 91, 6° et 9°, du décret du 31 juillet 1990 relatif à l'enseignement II » est remplacé par le membre de phrase l'article II.1, 6° et 9°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+22° À l'article 77quater, §2, 3°, du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le membre de phrase « l'article X.57 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase l'article V.16 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+23° À l'article 103septies du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le membre de phrase « chapitre IX du décret du 13 juillet 2001 relatif à l'enseignement XIII - Mosaïque » est remplacé par le membre de phrase « les dispositions relatives au statut pécuniaire reprises dans la codification de certaines dispositions relatives à l'enseignement » ;
+
+24° À l'article 103decies du décret du 27/03/1991 relatif au statut de certains membres du personnel de l'enseignement communautaire, le membre de phrase « l'article 29 du décret du 9 avril 1992 relatif à l'enseignement III » est remplacé par le membre de phrase « les articles III.38 et suivants de la codification de certaines dispositions relatives à l'enseignement » ;
+
+25° À l'article 25 et à l'article 31 du décret du 1/12/1993 relatif à l'inspection et à l'encadrement des cours philosophiques, le membre de phrase « visé à l'article 9, alinéas 4 et 5 et à l'article 10, § 2, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement » est abrogé ;
+
+26° À l'article 27ter et à l'article 52 du décret du 25/02/1997 relatif à l'enseignement fondamental, le membre de phrase « visée à l'article V.21 du décret du 13 juillet 2001 relatif à l'enseignement XIII - Mosaïque » est abrogé ;
+
+27° À l'article 27quater du décret du 25/02/1997 relatif à l'enseignement fondamental, le membre de phrase « visés à l'article 21 de l'arrêté royal du 20 août 1957 portant coordination des lois sur l'enseignement primaire » est abrogé ;
+
+28° À l'article 34, § 3, du décret du 25/02/1997 relatif à l'enseignement fondamental, le membre de phrase « à l'article X.1, 2°, du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « à l'article IV.2 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+29° À l'article 37, § 2, 3°, et § 3, 9°, du décret du 25/02/1997 relatif à l'enseignement fondamental, le membre de phrase « au chapitre IV, section Ière, du décret du 28 juin 2002 relatif à l'égalité des chances en éducation I » est remplacé par le membre de phrase « à la partie VIII de la codification de certaines dispositions relatives à l'enseignement ».
+
+30° À l'article 37vicies semel du décret du 25/02/1997 relatif à l'enseignement fondamental, le membre de phrase « participants visés à l'article IV.3, § 1er, 1°, 2° et 3°, du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I, et, d'autre part, plus de la moitié des participants visés à l'article IV.3, § 1er, 4° à 12° inclus, du décret précité » est remplacé par le membre de phrase « participants visés à l'article VIII.4, § 1er, 1°, 2° et 3° et, d'autre part, plus de la moitié des participants visés à l'article VIII.4, 1er, 4° à 12° inclus, de la codification de certaines dispositions relatives à l'enseignement ».
+
+31° À l'article 68 du décret du 25/02/1997 relatif à l'enseignement fondamental, le membre de phrase « conformément à l'article IV.2, § 2, premier alinéa, du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I », le membre de phrase « l'article IV.4, premier alinéa, 1°, du même décret » et le membre de phrase « l'article IV.4, premier alinéa, du même décret » sont remplacés respectivement par les membres de phrase « conformément à l'article VIII.3, § 2, alinéa 1er, de la codification de certaines dispositions relatives à l'enseignement », « l'article VIII.5, alinéa 1er, 1°, de la même codification », « l'article VIII.5, alinéa 1er, de la même codification » ;
+
+32° À l'article 74 du décret du 25/02/1997 relatif à l'enseignement fondamental, le membre de phrase « Le Gouvernement fixe les titres de capacité, en tenant compte de la Sous-section lère de la Section 5 du Chapitre X du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « Le Gouvernement détermine les titres de capacité donnant accès à une fonction d'enseignement. » ;
+
+33° À l'article 153sexies, § 5, du décret du 25/02/1997 relatif à l'enseignement fondamental, le membre de phrase « à l'article X.53 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « à l'article IV.5 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+34° À l'article 2 du décret du 30/04/2004 relatif à l'obtention d'un titre de compétence professionnelle, les points 11° et 13° sont remplacés par ce qui suit :
+
+« 11° diplôme : un certificat d'études reconnu par la Communauté flamande et délivré par l'autorité d'une école ou d'un centre à un élève ou apprenant régulier qui a terminé l'enseignement avec fruit ;
+
+13° certificat d'études reconnu : un certificat, un certificat partiel, un diplôme ou une attestation tels que visés dans les décrets relatifs aux différents niveaux de l'enseignement ; » ;
+
+35° À l'article 2, 3°, du décret du 30/11/2007 relatif à la politique locale d'encadrement de l'enseignement, le membre de phrase « l'enseignement visé au titre V du décret du 31 juillet 1990 relatif à l'enseignement-II » est remplacé par le membre de phrase « l'enseignement artistique à temps partiel » ;
+
+36° À l'article 2, 6°, du décret du 30/11/2007 relatif à la politique locale d'encadrement de l'enseignement, le membre de phrase « au chapitre IV, section 1ère, du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I » est remplacé par le membre de phrase « aux articles VIII.2 et suivants de la codification de certaines dispositions relatives à l'enseignement » ;
+
+37° À l'article 2 du décret du 6/06/2008 instituant une interdiction de fumer dans les établissements d'enseignement et les centres d'encadrement des élèves, le point 7° est remplacé par ce qui suit :
+
+« 7° inspection de l'enseignement : l'inspection de l'enseignement telle que visée au décret relatif à la qualité de l'enseignement ; » ;
+
+38° À l'article 11, 3°, du décret du 10/07/2008 relatif au système d'apprentissage et de travail, le membre de phrase « une plateforme locale de concertation, créée conformément à l'article IV.2, § 2, premier alinéa, du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I. Il convient d'entendre par collaborer, fournir les données visées à l'article IV.4, premier alinéa, 1°, du même décret, et respecter les accords intervenus dans le cadre de l'article IV.4, premier alinéa, du même décret » est remplacé par le membre de phrase « une plateforme locale de concertation, créée conformément à l'article VIII.3, § 2, alinéa 1er, de la codification de certaines dispositions relatives à l'enseignement. Il convient d'entendre par collaborer, fournir les données visées à l'article VIII.5, alinéa 1er, 1°, et respecter les accords intervenus dans le cadre de l'article VIII.5, alinéa 1er, de la même codification » ;
+
+39° À l'article 37 du décret du 10/07/2008 relatif au système d'apprentissage et de travail, le membre de phrase « et aux dispositions du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I » est remplacé par le membre de phrase « et avec les dispositions en matière d'égalité des chances de la codification de certaines dispositions relatives à l'enseignement » ;
+
+40° À l'article 2, 7°, du décret du 8/05/2009 relatif à la qualité de l'enseignement, le membre de phrase « l'enseignement visé au titre V du décret du 31 juillet 1990 relatif à l'enseignement-II » est remplacé par le membre de phrase « l'enseignement artistique à temps partiel » ;
+
+41° À l'article 41, § 5, a), du décret du 8/05/2009 relatif à la qualité de l'enseignement, le membre de phrase « l'article 24, § 2, 6°, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement » est remplacé par le membre de phrase « aux dispositions relatives à l'hygiène et à la salubrité des locaux ; » ;
+
+42° À l'article 153 du décret du 8/05/2009 relatif à la qualité de l'enseignement, le membre de phrase « Sans préjudice de l'application du chapitre IX du décret du 13 juillet 2001 relatif à l'enseignement XIII¬Mosaïque » est remplacé par le membre de phrase « Sans préjudice de l'application des dispositions relatives au statut pécuniaire visées dans la codification de certaines dispositions relatives à l'enseignement » ;
+
+43° À l'article 16, § 1er, A, x, de l'arrêté royal du 15/04/1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique, le membre de phrase « au chapitre X, section 1ère du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « aux articles IV.2 à IV.18 inclus de la codification de certaines dispositions relatives à l'enseignement » ;
+
+44° À l'article 16, § 1er, B, e, de l'arrêté royal du 15/04/1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique, le membre de phrase « l'article 28, 1° à 5° inclus, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement » est remplacé par le membre de phrase « l'article V.46 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+45° À l'article 16, § 1er, i, de l'arrêté royal du 15/04/1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique, le membre de phrase « articles 22 à 30 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « aux articles IV.19 à IV.25 inclus de la codification de certaines dispositions relatives à l'enseignement » ;
+
+46° À l'article 16, § 1er, B, n, de l'arrêté royal du 15/04/1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique, le membre de phrase « au chapitre X, section 1ère, du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « aux articles IV.2 à IV.18 inclus de la codification de certaines dispositions relatives à l'enseignement » ;
+
+47° Dans l'arrêté royal du 14/03/1960 portant application de l'article 4 de la loi du 29 mai 1959, le membre de phrase « [de] l'article 4 de la loi du 29 mai 1959 » dans l'intitulé est remplacé par le membre de phrase « des dispositions relatives au transport scolaire » et est chaque fois remplacé dans les articles 1er et 2 par le membre de phrase « l'article IV.34 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+48° À l'article 1er de l'arrêté royal du 14/04/1977 relatif aux absences de longue durée justifiées par des raisons familiales, des membres du personnel subsidiés, le membre de phrase « conformément à la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement » est abrogé ;
+
+49° À l'article 1er de l'arrêté royal du 16/12/1981 concernant le congé syndical dans l'enseignement subventionné, le membre de phrase « établissements subventionnés conformément à la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement » est remplacé par le membre de phrase « écoles, centres, internats et homes d'accueil subventionnés » ;
+
+50° À l'article 2 de l'arrêté royal du 16/12/1981 concernant le congé syndical dans l'enseignement subventionné, le membre de phrase, « une organisation syndicale visée à l'article 45 de la loi du 29 mai 1959, tel que modifié » est remplacé par le membre de phrase « une organisation syndicale représenté au Conseil National du Travail » ;
+
+51° À l'article 4 de l'arrêté royal du 16/04/1985 fixant les sanctions visées à l'article 9 de la loi du 15 juillet 1983 portant création du Service national de transport scolaire, le membre de phrase « en vertu de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement » est abrogé ;
+
+52° À l'article 1er de l'arrêté du Gouvernement flamand du 26/04/1990 relatif aux congés pour prestations réduites justifiés par des raisons sociales ou familiales et aux absences pour prestations réduites justifiées par des raisons de convenances personnelles, accordés aux membres du personnel de l'enseignement et des centres d'encadrement des élèves, les points 3° à 6° sont remplacés par les points 3° et 4°, libellés comme suit :
+
+« 3° les membres de l'Inspection de l'enseignement visés au décret relatif à la qualité de l'enseignement [<sup>1</sup> et au décret relatif à l'inspection et à l'encadrement des cours philosophiques]<sup>1</sup>;
+
+4° les membres du personnel des services d'encadrement pédagogique visés au décret relatif à la qualité de l'enseignement ; » ;
+
+53° À l'article 13ter de l'arrêté du Gouvernement flamand du 27/06/1990 relatif aux titres, aux échelles de traitement et au statut pécuniaire dans l'enseignement fondamental ordinaire, le membre de phrase « tel que visé à l'article X.55, alinéa 2, 4° du décret du 14 février 2003 relatif à l'enseignement XIV, tel que modifié par le décret du 10 juillet 2003 relatif au paysage de l'enseignement fondamental » et deux fois le membre de phrase « tel que défini à l'article X.55, alinéa 1er, 1° à 3°, du décret du 14 février 2003 relatif à l'enseignement XIV, tel que modifié par le décret du 10 juillet 2003 relatif au paysage de l'enseignement fondamental » sont remplacés respectivement par le membre de phrase « tel que visé à l'article VII, de la codification de certaines dispositions relatives à l'enseignement » et deux fois par le membre de phrase « l'article VI.7, § 1er, 1° à 3°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+54° À l'article 45, § 3, de l'arrêté de l'Exécutif flamand du 31/07/1990 portant organisation de l'enseignement artistique à temps partiel, orientation « Arts plastiques », le membre de phrase « l'article 95 du décret du 31 juillet 1990 relatif à l'enseignement II » est remplacé par le membre de phrase « l'article II.21 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+55° À l'article 1er de l'arrêté de l'Exécutif flamand du 31/07/1990 relatif à la procédure et aux modalités en matière d'autonomie locale et de réglementation de la participation dans les établissements d'enseignement subventionnés de la Communauté flamande, le point a) est abrogé ;
+
+56° À l'article 1er de l'arrêté de l'Exécutif flamand du 31/07/1990 déterminant et classant les fonctions des membres du personnel directeur et enseignant des établissements d'enseignement artistique à temps partiel, le paragraphe 1er est remplacé par ce qui suit :
+
+« § 1er. La réglementation relative aux titres et le traitement ou la subvention-traitement entrent en vigueur, en ce qui concerne les membres du personnel visés au § 2, le 1er septembre 1990. » ;
+
+57° À l'article 40, § 3, de l'arrêté de l'Exécutif flamand du 31 juillet 1990 portant organisation de l'enseignement artistique à temps partiel, orientation « Arts plastiques », le membre de phrase « l'article 91, 7°, du décret relatif à l'enseignement » est remplacé par le membre de phrase « l'article II.1,7°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+58° Aux articles 1er et 2 de l'arrêté de l'Exécutif flamand du 31/07/1990 fixant pour les établissements d'enseignement libres subventionnés par la Communauté flamande l'équivalence de certains titres à caractère religieux ou idéologique avec les titres requis ou les titres jugés équivalents, le membre de phrase « l'article X.41 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « l'article V.3 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+59° À l'article 48, § 3, de l'arrêté de l'Exécutif flamand du 31/07/1990 portant organisation de l'enseignement artistique à temps partiel, orientation « Musique », « Arts de la parole » et « Danse », le membre de phrase « l'article 91, 7°, du décret du 31 juillet 1990 relatif à l'enseignement II » est remplacé par le membre de phrase « l'article II.1, 7°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+60° À l'article 54, § 3, de l'arrêté de l'Exécutif flamand du 31 juillet 1990 portant organisation de l'enseignement artistique à temps partiel, orientation « Musique », « Arts de la parole » et « Danse », le membre de phrase « articles 93bis, 93ter et 95 du décret du 31 juillet 1990 relatif à l'enseignement II » est remplacé par le membre de phrase « articles II.17, II.18, II.21 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+61° L'intitulé de l'arrêté de l'Exécutif flamand du 7/11/1990 pris « en exécution de l'article 191 du décret du 31 juillet 1990 relatif à l'enseignement-II » est remplacé par l'intitulé suivant « en considération des services pour les membres du personnel de l'enseignement secondaire professionnel à temps partiel » ;
+
+62° À l'article 1er de l'arrêté de l'Exécutif flamand du 19/12/1991 relatif au congé accordé aux membres du personnel de l'enseignement et des centres psycho-médico-sociaux pour accomplir certaines prestations au bénéfice de groupes politiques reconnus dans les chambres législatives de l'Etat, des Communautés ou des Régions, ou au bénéfice des présidents de ces groupes, les points 5°, 6°, 7°, 8° sont remplacés par les points 5°, 6°, libellés comme suit :
+
+« 5° membres de l'Inspection de l'enseignement visés au décret relatif à la qualité de l'enseignement ;
+
+6° membres du personnel des services d'encadrement pédagogique visés au décret relatif à la qualité de l'enseignement ; » ;
+
+63° À l'article 2, 4°, 1, de l'arrêté du 7/09/1994 du Gouvernement flamand réglant la procédure pour les projets de recherche scientifique appliquée à la gestion et à la pratique de l'enseignement, au point 4°, le membre de phrase « les universités [mentionnées] à l'article 3 du décret du 12 juin 1991 relatif aux universités dans la Communauté flamande » est remplacé par le membre de phrase « les universités mentionnées dans le Code de l'enseignement supérieur » ;
+
+64° À l'article 1er de l'arrêté du Gouvernement flamand du 28/07/1995 relatif au congé pour l'exercice d'une fonction auprès d'un cabinet ministériel d'un membre d'un gouvernement de communauté ou de région, d'un membre du Gouvernement fédéral ou d'un secrétaire d'état régional, et auprès d'un secrétariat, de la cellule de coordination générale de la politique et d'une cellule de politique générale auprès d'un membre du Gouvernement fédéral, par des membres du personnel de l'enseignement et des centres d'encadrement des élèves, les points 3°, 4°, 5°, 6° sont remplacés par les points 3°, 4°, libellés comme suit :
+
+3° les membres de l'Inspection de l'enseignement visés au décret relatif à la qualité de l'enseignement ;
+
+4° les membres du personnel des services d'encadrement pédagogique visés au décret relatif à la qualité de l'enseignement ; » ;
+
+65° À l'article 1er de l'arrêté du Gouvernement flamand du 3/06/1997 relatif à l'octroi d'une indemnité pour frais funéraires en cas de décès de membres du personnel de l'enseignement et des centres psycho-médico¬sociaux, les modifications suivantes sont apportées :
+
+1° les points 3°, 4°, 5°, 6° sont remplacés par les points 3°, 4°, libellés comme suit :
+
+3° les membres de l'Inspection de l'enseignement visés au décret relatif à la qualité de l'enseignement ;
+
+4° les membres du personnel des services d'encadrement pédagogique visés au décret relatif à la qualité de l'enseignement ; » ;
+
+2° le point 8° est remplacé par ce qui suit :
+
+« 8° les membres du personnel des instituts supérieurs en Communauté flamande. » ;
+
+66° À l'article 26quater de l'arrêté du Gouvernement flamand du 17/06/1997 relatif à la charge du personnel dans l'enseignement fondamental, le membre de phrase « article X.52 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « article VI.4 de la codification de certaines dispositions relatives à l'enseignement ».
+
+67° Dans l'intitulé et à l'article 1er de l'arrêté du Gouvernement flamand du 13/04/1999 fixant le nombre de points pour l'enseignement secondaire et les internats, visé à l'article 3, § 2, du décret du 31 juillet 1990 relatif à l'enseignement-II, le membre de phrase « , visé à l'article 3, § 2, du décret du 31 juillet 1990 relatif à l'enseignement-II » est chaque fois abrogé ;
+
+68° À l'article 1er de l'arrêté du Gouvernement flamand du 28/06/2002 relatif aux plates-formes locales de concertation concernant l'égalité des chances en éducation, les points 1°, 3°, 4°, 6°, 7° sont remplacés par ce qui suit :
+
+1° décret : le décret portant codification de certaines dispositions relatives à l'enseignement ;
+
+3° expert : l'expert visé à l'article VIII.4, § 3, de la codification de certaines dispositions relatives à l'enseignement ;
+
+4° plate-forme locale de concertation : une plate-forme locale de concertation visée à l'article VIII.2 de la codification de certaines dispositions relatives à l'enseignement ;
+
+6° président : le président visé à l'article VIII.4, § 2, de la codification de certaines dispositions relatives à l'enseignement ;
+
+7° zone d'action : la zone d'action visée à l'article VIII.3, § 1er, de la codification de certaines dispositions relatives à l'enseignement ; » ;
+
+69° À l'article 2 de l'arrêté du Gouvernement flamand du 28/06/2002 relatif aux plates-formes locales de concertation concernant l'égalité des chances en éducation, le membre de phrase « l'article IV.2, § 2, premier alinéa, du décret » est remplacé par le membre de phrase « l'article VIII.3, § 2, alinéa 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+70° À l'article 3 de l'arrêté du Gouvernement flamand du 28/06/2002 relatif aux plates-formes locales de concertation concernant l'égalité des chances en éducation, le membre de phrase « aux dispositions de l'article IV.3, § 2, du décret » est remplacé par le membre de phrase « à l'article VIII.4, § 2, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+71° À l'article 9 de l'arrêté du Gouvernement flamand du 28/06/2002 relatif aux plates-formes locales de concertation concernant l'égalité des chances en éducation, le membre de phrase « aux dispositions de l'article IV.3, § 3, du décret » est remplacé par le membre de phrase « à l'article VIII.4, § 3, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+72° À l'article 12 de l'arrêté du Gouvernement flamand du 28/06/2002 relatif aux plates-formes locales de concertation concernant l'égalité des chances en éducation, le membre de phrase « l'article IV.3, § 1er, premier alinéa, 4°, 5°, 6°, 8°, 9° et 10° du décret » est remplacé par le membre de phrase « l'article VIII.4, § 1er, alinéa 1er, 4°, 5°, 6°, 8°, 9° et 10°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+73° À l'article 13 de l'arrêté du Gouvernement flamand du 28/06/2002 relatif aux plates-formes locales de concertation concernant l'égalité des chances en éducation, les membres de phrase « des articles I.3 et IV.4 du décret » ; « l'article IV.4, premier alinéa, 1° » ; « l'article IV.5, 1°, du décret » ; « l'article IV.6 du décret » sont remplacés respectivement par le membre de phrase « de l'article VIII.5 de la codification de certaines dispositions relatives à l'enseignement » ; « l'article VIII.5, alinéa 1er, 1°, de la codification de certaines dispositions relatives à l'enseignement » ; « l'article VIII.6, 1°, de la codification de certaines dispositions relatives à l'enseignement » ; « l'article VIII.8 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+74° À l'article 13, 12° et à l'article 14, 2° de l'arrêté du Gouvernement flamand du 28/06/2002 relatif aux plates-formes locales de concertation concernant l'égalité des chances en éducation, les membres de phrase « au sens des articles V.2 et V.5 du décret » et « visée aux articles V.2 et V.5 du décret » sont abrogés ;
+
+75° À l'article 14 de l'arrêté du Gouvernement flamand du 28/06/2002 relatif aux plates-formes locales de concertation concernant l'égalité des chances en éducation, le membre de phrase « l'article III.5, § 1er, du décret » est remplacé par le membre de phrase « l'article 110/7 du Code de l'enseignement secondaire ou à l'article 37septies du décret relatif à l'enseignement fondamental » ;
+
+76° À l'article 2 de l'arrêté du Gouvernement flamand du 6/09/2002 relatif à l'offre d'encadrement intégrée dans l'enseignement secondaire ordinaire, au point 2°, le membre de phrase « le décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I » est remplacé par le membre de phrase « la codification de certaines dispositions relatives à l'enseignement » ;
+
+77° À l'article 3 de l'arrêté du Gouvernement flamand du 6/09/2002 relatif à l'offre d'encadrement intégrée dans l'enseignement secondaire ordinaire, le membre de phrase « au même article VI.3 » est abrogé ;
+
+78° À l'article 1er, 1°, a), de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission de bonne administration, le membre de phrase « - à l'article 3, 7° du décret du 2 mars 1999 réglant certaines matières relatives à l'éducation des adultes » est remplacé par le membre de phrase « - à l'article 2, 5° du décret du 15 juin 2007 relatif à l'éducation des adultes ; » ;
+
+79° À l'article 1er de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission de bonne administration, les points 2°, 3°, 4°, 5° sont remplacés par ce qui suit :
+
+« 2° intéressés : les intéressés visés à l'article VII.9 de la codification de certaines dispositions relatives à l'enseignement ;
+
+3° Commission : la Commission de bonne administration, visée dans la codification de certaines dispositions relatives à l'enseignement ;
+
+4° décret : la codification de certaines dispositions relatives à l'enseignement ;
+
+5° membres : le président de la Commission et les personnes visées à l'article VII.2, alinéa 2, de la codification de certaines dispositions relatives à l'enseignement ; » ;
+
+80° À l'article 3 de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission de bonne administration, le membre de phrase articles V.22 et V.23 du décret » est remplacé par le membre de phrase articles VII.2 et VII.3 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+81° À l'article 5 de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission de bonne administration, le membre de phrase l'article V.25, alinéa premier du décret » est remplacé deux fois par le membre de phrase « l'article VII.5, alinéa 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+82° À l'article 6 de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission de bonne administration, le membre de phrase articles V.25, V.26 et V.28 du décret » est remplacé par le membre de phrase « articles VII.5, VII.6, VII.8 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+83° À l'article 10 et à l'article 15 de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission de bonne administration, le membre de phrase « l'article V.29 du décret » est chaque fois remplacé par le membre de phrase « l'article VII.9 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+84° À l'article 14 de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission de bonne administration, le membre de phrase l'article V.32, alinéa premier du décret » est remplacé par le membre de phrase « l'article VII.12, alinéa 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+85° À l'article 16 de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission de bonne administration, le membre de phrase l'article V.32, alinéa 2 du décret » est remplacé deux fois par le membre de phrase « l'article VII.12, alinéa 2, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+86° À l'article 1er de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission des droits de l'élève, au point 2°, le membre de phrase « le décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I » est remplacé par le membre de phrase « le décret portant codification de certaines dispositions relatives à l'enseignement » ;
+
+87° À l'article 5 de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission des droits de l'élève, le membre de phrase l'article IV.7, § 1er, alinéas 3, 4 et 5 du décret » est remplacé par le membre de phrase « l'article VIII.9, § 1er, alinéas 3, 4 et 5, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+88° À l'article 12 de l'arrêté du Gouvernement flamand du 27/09/2002 relatif à la Commission des droits de l'élève, le membre de phrase l'article V.4, § 2, alinéa premier du décret » est abrogé deux fois ;
+
+89° Aux articles 20bis et 27bis de l'arrêté du Gouvernement flamand du 24/1/2003 déterminant et classant les fonctions dans l'enseignement spécial, le membre de phrase « l'enveloppe de points destinée aux TIC visée à l'article X.52 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase l'article VI.4 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+90° À l'article 1er de l'arrêté du Gouvernement flamand du 21/02/2003 relatif au congé de protection de la maternité des membres du personnel de l'enseignement, les points 3°, 4°, 5° sont remplacés par les points 3°, 4°, libellés comme suit :
+
+3° les membres de l'Inspection de l'enseignement visés au décret relatif à la qualité de l'enseignement ;
+
+4° les membres des services d'encadrement pédagogique visés au décret relatif à la qualité de l'enseignement ; » ;
+
+91° À l'article 1er de l'arrêté du Gouvernement flamand du 21/02/2003 fixant l'équivalence des titres flamands et néerlandais d'enseignement secondaire à temps plein, le membre de phrase « dans le décret du 31 juillet 1990 relatif à l'enseignement-II, titre IV, Chapitre Ier, Section 2 » est remplacé par le membre de phrase « dans le Code de l'enseignement secondaire » ;
+
+92° À l'article 4 de l'arrêté du Gouvernement flamand du 19/09/2003 portant la formation du personnel des centres d'encadrement des élèves, le membre de phrase « visé à l'article 6 du décret du 17 juillet 1991 relatif à l'inspection, au Service d'Études et aux services d'encadrement pédagogique » est remplacé par le membre de phrase « visé au décret relatif à la qualité de l'enseignement » ;
+
+93° À l'article 1er, 3°, de l'arrêté du Gouvernement flamand du 21/11/2003 portant les échelles de traitement de certains membres du personnel de l'enseignement, le membre de phrase « à l'article 4 du décret du 17 juillet 1991 relatif à l'inspection, au Service d'Études et aux services d'encadrement pédagogique » est remplacé par le membre de phrase « au décret relatif à la qualité de l'enseignement » ;
+
+94° À l'article 1er de l'arrêté du Gouvernement flamand du 21/11/2003 portant les échelles de traitement de certains membres du personnel de l'enseignement, les points 4° et 5° sont abrogés ;
+
+95° À l'article 1er, 6°, de l'arrêté du Gouvernement flamand du 21/11/2003 portant les échelles de traitement de certains membres du personnel de l'enseignement, le membre de phrase « visés à l'article 88, du décret du 17 juillet 1991 relatif à l'inspection, au Service d'Études et aux services d'encadrement pédagogique » est remplacé par le membre de phrase « visés au décret relatif à la qualité de l'enseignement » ;
+
+96° Aux articles 2 et 3 de l'arrêté du Gouvernement flamand du 5/12/2003 relatif à la coordination TIC dans l'enseignement, le membre de phrase « l'article X.54 du décret du 14 février 2003 relatif à l'enseignement XIV », et le membre de phrase « l'article X.54 du même décret » sont chaque fois remplacés par le membre de phrase l'article VI.6 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+97° À l'article 4 de l'arrêté du Gouvernement flamand du 5/12/2003 relatif à la coordination TIC dans l'enseignement, le membre de phrase l'article X.53, § 2, deuxième alinéa, du même décret » est remplacé par le membre de phrase « l'article VI.5, § 2, alinéa 2, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+98° À l'article 5 de l'arrêté du Gouvernement flamand du 5/12/2003 relatif à la coordination TIC dans l'enseignement, le membre de phrase l'article X.53, § 1er, du même décret » est remplacé par le membre de phrase « l'article VI.5, § 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+99° À l'article 6 de l'arrêté du Gouvernement flamand du 5/12/2003 relatif à la coordination TIC dans l'enseignement, le membre de phrase l'article X.55, premier alinéa, 4°, du même décret » est remplacé par le membre de phrase « l'article VI.7, alinéa 1er, 4°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+100° À l'article 7 de l'arrêté du Gouvernement flamand du 5/12/2003 relatif à la coordination TIC dans l'enseignement, le membre de phrase l'article X.53, § 1er, » est remplacé par le membre de phrase l'article VI.5, § 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+101° À l'article 1er de l'arrêté du Gouvernement flamand du 5/03/2004 relatif aux services présentant des besoins en matière d'enseignement, le membre de phrase « au chapitre X du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « à l'article VI.2 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+102° À l'article 2 de l'arrêté du Gouvernement flamand du 5/03/2004 relatif aux services présentant des besoins en matière d'enseignement, le membre de phrase « le décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « le décret portant codification de certaines dispositions relatives à l'enseignement » ;
+
+103° À l'article 4 de l'arrêté du Gouvernement flamand du 5/03/2004 relatif aux services présentant des besoins en matière d'enseignement, le membre de phrase « l'article X.4 du décret » est remplacé par le membre de phrase « l'article IV.5 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+104° À l'article 7 de l'arrêté du Gouvernement flamand du 5/03/2004 relatif aux services présentant des besoins en matière d'enseignement, le membre de phrase « tel que visé à l'article 4, § 1er, troisième alinéa, du décret relatif à l'inspection, au Service d'Études et aux services d'encadrement pédagogique » est abrogé ;
+
+105° À l'article 8 de l'arrêté du Gouvernement flamand du 5/03/2004 relatif aux services présentant des besoins en matière d'enseignement, le membre de phrase « l'article X.2 du décret » est remplacé par le membre de phrase « l'article IV.3 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+106° Aux articles 10bis et 11bis de l'arrêté du Gouvernement flamand du 25/06/2004 déterminant et classant les fonctions dans l'enseignement fondamental ordinaire, le membre de phrase « l'article X.52 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé deux fois par le membre de phrase « l'article VI.4 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+107° À l'article 1er, 5°, de l'arrêté du Gouvernement flamand du 29/10/2004 portant des dispositions pécuniaires et administratives applicables aux membres du personnel contractuels de l'enseignement payés par le Ministère flamand de l'Enseignement et de la Formation, le membre de phrase « au sens du chapitre IX. - Régime pécuniaire du décret du 13 juillet 2001 relatif à l'enseignement XIII - Mosaïque » est remplacé par le membre de phrase « au sens des dispositions relatives au statut pécuniaire visées dans la codification de certaines dispositions relatives à l'enseignement » ;
+
+108° À l'article 8 de l'arrêté du Gouvernement flamand du 29/10/2004 portant des dispositions pécuniaires et administratives applicables aux membres du personnel contractuels de l'enseignement payés par le Ministère flamand de l'Enseignement et de la Formation, le membre de phrase « l'article X.28 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase l'article IV.24 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+109° À l'article 1er de l'Arrêté du Gouvernement flamand du 23/09/2005 portant exécution du décret du 30 avril 2004 relatif à l'obtention d'un titre de compétence professionnelle, le point 10° est remplacé par ce qui suit :
+
+10° l'inspection de l'enseignement telle que visée au décret relatif à la qualité de l'enseignement ; » ;
+
+110° À l'article 2 de l'arrêté du Gouvernement flamand du 3/02/2006 relatif aux mesures de contrôle concernant l'affectation des moyens de fonctionnement dans l'enseignement libre subventionné, le membre de phrase « et l'article 3quater du décret du 31 juillet 1990 relatif à l'enseignement-II » est remplacé par le membre de phrase « et aux articles II.44, II.45, [<sup>1</sup> III.18, III.19, III.20]<sup>1</sup> de la codification de certaines dispositions relatives à l'enseignement » ;
+
+111° À l'article 15 de l'arrêté du Gouvernement flamand du 23/03/2007 relatif à l'organisation de projets temporaires dans l'enseignement artistique à temps partiel, les membres de phrase « l'article 100bis du décret du 31 juillet 1990 relatif à l'enseignement-II, les droits d'inscription tels que fixés au Chapitre Vbis du Titre V. - Enseignement artistique à temps partiel du même décret » ; « articles 90 et 94, § 3, du décret du 31 juillet 1990 relatif à l'enseignement-II » ; « l'article 91 du décret du 31 juillet 1990 relatif à l'enseignement-II » sont remplacés respectivement par le membre de phrase « l'article II.32 de la codification de certaines dispositions relatives à l'enseignement, les droits d'inscription tels que fixés dans la même codification, partie II » ; articles II.13 II.20, § 3, de la codification de certaines dispositions relatives à l'enseignement » ; l'article II.1 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+112° L'article 1er de l'arrêté du Gouvernement flamand du 27/04/2007 relatif à l'octroi d'un congé politique à la demande du membre du personnel est remplacé par ce qui suit :
+
+Art. 1er. Dans le présent arrêté, on entend par le décret : le décret portant codification de certaines dispositions relatives à l'enseignement. » ;
+
+113° À l'article 2 de l'arrêté du Gouvernement flamand du 27/04/2007 relatif à l'octroi d'un congé politique à la demande du membre du personnel, les membres de phrase « l'article 29 du décret, modifié par le décret du 7 juillet 2006 » et « l'article 31 du décret » sont remplacés respectivement par le membre de phrase « l'article V.29 de la codification de certaines dispositions relatives à l'enseignement » et « l'article V.31 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+114° À l'article 5, § 2, 3°, de l'arrêté du Gouvernement flamand du 27/04/2007 relatif à l'octroi d'un congé politique à la demande du membre du personnel, le membre de phrase « du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I, tels que visés à l'article VI.21 dudit décret » est remplacé par le membre de phrase « de la réglementation relative à l'égalité des chances en éducation » ;
+
+115° À l'article 5, § 2, 11°, de l'arrêté du Gouvernement flamand du 27/04/2007 relatif à l'octroi d'un congé politique à la demande du membre du personnel, le membre de phrase « l'article 156 du décret du 14 juillet 1998 contenant diverses mesures relatives à l'enseignement secondaire et modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental » est remplacé par le membre de phrase « l'article 69 du Code de l'enseignement secondaire » ;
+
+116° À l'article 6, § 1er, de l'arrêté du Gouvernement flamand du 27/04/2007 relatif à l'octroi d'un congé politique à la demande du membre du personnel, le membre de phrase « l'article 34, alinéa premier, du décret » est remplacé par le membre de phrase « l'article V.34, alinéa 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+117° À l'article 1er, 3°, de l'arrêté du Gouvernement flamand du 15/06/2007 portant approbation de projets temporaires dans l'enseignement artistique à temps partiel à partir de l'année scolaire 2007-2008, le point 3° est remplacé par ce qui suit :
+
+« 3° décret : la codification de certaines dispositions relatives à l'enseignement ; » ;
+
+118° À l'article 4, § 1er, de l'arrêté du Gouvernement flamand du 15/06/2007 portant approbation de projets temporaires dans l'enseignement artistique à temps partiel à partir de l'année scolaire 2007-2008, les membres de phrase suivants sont remplacés par le membre de phrase qui suit :
+
+1° au point 1°, « l'article 100bis du décret de l'Enseignement II » est remplacé par « l'article II.32 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+2° au point 2°, « l'article 91 du décret de l'Enseignement II » est remplacé par « l'article II.1 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+3° au point 5°, « l'article 91 du décret de l'Enseignement II » est remplacé par « l'article II.1 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+4° au point 9°, « aux articles 90 et 94, § 3, du décret de l'Enseignement II » est remplacé par « à l'article II.13 et à l'article II.20, § 3, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+5° au point 9°, « l'article 91 du décret de l'Enseignement II » est remplacé par « l'article II.1 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+6° au point 9°, « articles 100bis, ter et quater du décret de l'Enseignement II » est remplacé par « articles II.32 à II.35 inclus de la codification de certaines dispositions relatives à l'enseignement » ;
+
+7° au point 10°, « l'article 90 du décret de l'Enseignement II » est remplacé par « l'article II.13 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+119° À l'article 1er de l'arrêté du Gouvernement flamand du 13/07/2007 relatif au congé annuel de vacances des membres du personnel engagés dans les garderies de l'enseignement communautaire dans la Région bilingue de Bruxelles-Capitale, le membre de phrase « l'article X.22 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « l'article IV.20 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+120° À [<sup>1</sup> l'article 2]<sup>1</sup> de l'arrêté du Gouvernement flamand du 21/09/2007 relatif à l'encadrement administratif dans l'enseignement artistique à temps partiel et modifiant l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente, au point 1°, le membre de phrase « le décret du 31 juillet 1990 relatif à l'Enseignement II » est remplacé par le membre de phrase « la codification de certaines dispositions relatives à l'enseignement » ;
+
+121° À l'article 2, 4°, de l'arrêté du Gouvernement flamand du 21/09/2007 relatif à l'encadrement administratif dans l'enseignement artistique à temps partiel et modifiant l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente, le membre de phrase « articles 98 et 98bis, du décret » est remplacé par le membre de phrase « articles II.27 et II.28 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+122° À l'article 3 de l'arrêté du Gouvernement flamand du 21/09/2007 relatif à l'encadrement administratif dans l'enseignement artistique à temps partiel et modifiant l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente, les membres de phrase « articles 98 et 98bis du décret », l'article 98, § 2 du décret », « l'article 98bis, § 1er du décret » sont remplacés respectivement par les membres de phrase « articles II.27 et II.28 de la codification de certaines dispositions relatives à l'enseignement », « l'article II.27, § 2, de la codification de certaines dispositions relatives à l'enseignement », « l'article II.28, § 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+123° À l'article 4, de l'arrêté du Gouvernement flamand du 21/09/2007 relatif à l'encadrement administratif dans l'enseignement artistique à temps partiel et modifiant l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente, les membres de phrase « l'article 96 du décret » et l'article 98bis, § 1er, du décret » sont remplacés respectivement par les membres de phrase « l'article II.22 de la codification de certaines dispositions relatives à l'enseignement » et « l'article II.28, § 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+124° À l'article 1er, § 2, de l'arrêté du Gouvernement flamand du 15/02/2008 relatif au congé de maladie, au congé pour prestations réduites en cas de maladie, au congé de longue durée pour prestations réduites pour raisons médicales et à la mise en disponibilité pour cause de maladie pour certains personnels de l'enseignement et des centres d'encadrement des élèves, le membre de phrase « visés au décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par « visés à [<sup>1</sup> l'article V.60]<sup>1</sup> de la codification de certaines dispositions relatives à l'enseignement » ;
+
+125° Aux articles 7, 17 et 21 de l'arrêté du Gouvernement flamand du 15/02/2008 relatif au congé de maladie, au congé pour prestations réduites en cas de maladie, au congé de longue durée pour prestations réduites pour raisons médicales et à la mise en disponibilité pour cause de maladie pour certains personnels de l'enseignement et des centres d'encadrement des élèves, le membre de phrase « l'article 57 du décret du 15 décembre 1993 relatif à l'enseignement-V » est remplacé par l'article V.19 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+126° À l'article 3/1, 4°, de l'arrêté du Gouvernement flamand du 19/06/2009 fixant les conditions d'octroi de subventions et fixant les modalités de sélection, la durée et l'évaluation de programmes « time-out » de courte et de longue durée, le membre de phrase « visée à l'article 49, premier alinéa, 1°, b) du décret du 31 juin 1990 relatif à l'enseignement-II, remplacé par le décret du 30 avril 2009, ou dans l'année préparatoire à l'enseignement professionnel, visée à l'article 19, premier alinéa, 1°, d) du même décret » est remplacé par le membre de phrase « visée à l'article 124, alinéa 1er , 1°, b), du Code de l'enseignement secondaire, ou l'année préparatoire à l'enseignement professionnel » ;
+
+127° À l'article 3/1, 5°, de l'arrêté du Gouvernement flamand du 19/06/2009 fixant les conditions d'octroi de subventions et fixant les modalités de sélection, la durée et l'évaluation de programmes « time¬out » de courte et de longue durée, le membre de phrase « visé à l'article 48, 3°, du décret du 31 juin 1990 relatif à l'enseignement-II et à l'article 49, premier alinéa, 2° du même décret, remplacé par le décret du 30 avril 2009 » est remplacé par le membre de phrase « visé à l'article 3, 26°, du Code de l'enseignement secondaire et à l'article 124, alinéa 1er, 2°, du même code » ;
+
+128° À l'article 3/1, 5°, de l'arrêté du Gouvernement flamand du 19/06/2009 fixant les conditions d'octroi de subventions et fixant les modalités de sélection, la durée et l'évaluation de programmes « time¬out » de courte et de longue durée, le membre de phrase « visées à l'article 3, § 8, 1°, premier alinéa, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement » est abrogé ;
+
+129° À l'article 3 de l'arrêté du Gouvernement flamand 3/07/2009 relatif au congé de circonstance, au congé pour cas de force majeure, au congé parental non rémunéré et au congé de naissance en cas de décès ou hospitalisation de la mère pour certains membres du personnel de l'enseignement et des centres d'encadrement des élèves et modifiant l'arrêté du Gouvernement flamand du 26 avril 1990 relatif aux congés pour prestations réduites justifiés par des raisons sociales ou familiales et aux absences pour prestations réduites justifiées par des raisons personnelles, accordés aux membres du personnel de l'enseignement et des centres d'encadrement des élèves, le membre de phrase « l'article X.22 du décret du 14 février 2003 relatif à l'enseignement XIV » est remplacé par le membre de phrase « l'article IV.19 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+130° À l'article 1er de l'arrêté du Gouvernement flamand du 4/09/2009 relatif à la création et l'organisation d'académies des arts dans l'enseignement artistique à temps partiel, le membre de phrase « des articles 91, 11° et 93ter du Décret du 31 juillet 1990 relatif à l'enseignement II » est remplacé par le membre de phrase « de l'article II.1, 11° et de l'article II.18 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+131° À l'article 2 de l'arrêté du Gouvernement flamand du 4/09/2009 relatif à la création et l'organisation d'académies des arts dans l'enseignement artistique à temps partiel, au point 5°, le membre de phrase « le décret du 31 juillet 1990 relatif à l'enseignement - II » est remplacé par le membre de phrase « la codification de certaines dispositions relatives à l'enseignement » ;
+
+132° À l'article 7, § 4, de l'arrêté du Gouvernement flamand du 4/09/2009 relatif à la création et l'organisation d'académies des arts dans l'enseignement artistique à temps partiel, le membre de phrase « l'article 93ter § 1er, 1°, 2° et 3° et § 2 » est remplacé par le membre de phrase l'article II.18, § 1er, 1°, 2°, 3° et § 2, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+133° À l'article 14, § 1er et § 2, de l'arrêté du Gouvernement flamand du 4/09/2009 relatif à la création et l'organisation d'académies des arts dans l'enseignement artistique à temps partiel, le membre de phrase l'article 93ter, § 1er 1°, 2° et 3° du décret » est remplacé par le membre de phrase « l'article II.18, § 1er, 1°, 2° et 3°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+134° À l'article 14, § 4, de l'arrêté du Gouvernement flamand du 4/09/2009 relatif à la création et l'organisation d'académies des arts dans l'enseignement artistique à temps partiel, le membre de phrase l'article 93ter § 1er, 1°, 2° et 3° et § 2 du décret » est remplacé par le membre de phrase « l'article II.18, § 1er, 1°, 2°, 3° et § 2, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+135° À l'article 15, de l'arrêté du Gouvernement flamand du 4/09/2009 relatif à la création et l'organisation d'académies des arts dans l'enseignement artistique à temps partiel, le membre de phrase « l'article 93ter, § 1er, 4° » est remplacé par le membre de phrase « l'article II.18, § 1er, 4°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+136° À l'article 1er de l'arrêté du Gouvernement flamand du 30/10/2009 relatif à l'offre d'appui à l'égalité des chances en éducation dans l'enseignement secondaire spécial, le point 5° est abrogé et le point 3° est remplacé par ce qui suit :
+
+3° décret : le décret portant codification de certaines dispositions relatives à l'enseignement ; » ;
+
+137° À l'article 2 de l'arrêté du Gouvernement flamand du 8/07/2011 relatif à la prise en charge complète par l'employeur du secteur de l'enseignement des frais de transport en commun du domicile au lieu du travail et vice versa et à l'octroi d'une indemnité vélo pour la migration pendulaire, le membre de phrase « l'article XI.1 du décret du 13 juillet 2001 relatif à l'enseignement XIII - Mosaïque » est remplacé par le membre de phrase « l'article V.61 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+138° À l'article 11, de l'arrêté du Gouvernement flamand du 9/09/2011 relatif à l'interruption de carrière des membres du personnel de l'enseignement et des centres d'encadrement des élèves, au point 11°, le membre de phrase « l'article 156 du décret du 14 juillet 1998 contenant diverses mesures relatives à l'enseignement secondaire et modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental » est remplacé par le membre de phrase « l'article 69 du Code de l'enseignement secondaire » ;
+
+139° À l'article 1er de l'arrêté du Gouvernement flamand du 2/03/2012 relatif à l'octroi et au paiement d'une prime syndicale à certains membres de l'enseignement, le membre de phrase « l'article XI.4 du décret du 1er juillet 2011 relatif à l'enseignement XXI » est remplacé par le membre de phrase « « l'article V.23 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+140° À l'article 2 de l'arrêté du Gouvernement flamand du 2/03/2012 relatif à l'octroi et au paiement d'une prime syndicale à certains membres de l'enseignement, au point 1°, le membre de phrase « le décret du 1er juillet 2011 relatif à l'enseignement XXI » et au point 5° le membre de phrase « l'article XI.6 du décret » sont remplacés respectivement par le membre de phrase « le décret portant la codification de certaines dispositions relatives à l'enseignement » et « l'article V.25 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+141° À l'article 4 de l'arrêté du Gouvernement flamand du 2/03/2012 relatif à l'octroi et au paiement d'une prime syndicale à certains membres de l'enseignement, le membre de phrase « l'article XI.5 du décret » est remplacé par le membre de phrase « l'article V.24 de la codification de certaines dispositions relatives à l'enseignement » ;
+
+142° Aux articles 13 et 16 de l'arrêté du Gouvernement flamand du 2/03/2012 relatif à l'octroi et au paiement d'une prime syndicale à certains membres de l'enseignement, le membre de phrase « l'article XI.6, alinéa premier, du décret » est remplacé par le membre de phrase « l'article V.25, alinéa 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+143° À l'article 14 de l'arrêté du Gouvernement flamand du 2/03/2012 relatif à l'octroi et au paiement d'une prime syndicale à certains membres de l'enseignement, le membre de phrase « l'article XI.6, alinéa premier, du décret » est remplacé par le membre de phrase « l'article V.25, alinéa 1er, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+144° À l'article 2 de l'arrêté du Gouvernement flamand du 13/07/2012 fixant le modèle de registre d'inscription et le modèle de communication d'inscription non réalisée, la cellule provinciale de médiation pour les communes situées en dehors de la zone d'action de la plate-forme locale de concertation (LOP), ainsi que la procédure pour l'approbation par le Gouvernement flamand de la procédure de préinscription après une décision négative de la part de la 'Commissie inzake Leerlingenrechten' (Commission des droits de l'élève), les points 2° et 5° sont remplacés par ce qui suit :
+
+« 2° CLR : la Commission des droits de l'élève, visée dans la codification de certaines dispositions relatives à l'enseignement ;
+
+5° initiateur : l'autorité scolaire, plusieurs autorités scolaires ensemble ou la LOP telles que visées dans la codification de certaines dispositions relatives à l'enseignement, associées à la procédure de préinscription ; » ;
+
+145° À l'article 1er, 4°, de l'arrêté du Gouvernement flamand du 29/05/2015 relatif à l'octroi de subventions de projet de 301.000 euros au maximum pour la réalisation de projets pilotes dans l'année scolaire 2015-2016 en préparation à la réforme de l'enseignement artistique à temps partiel, le membre de phrase « l'article 91, 11°, du décret du 31 juillet 1990 relatif à l'enseignement-II » est remplacé par le membre de phrase « l'article II.1,11°, de la codification de certaines dispositions relatives à l'enseignement » ;
+
+146° À l'article 5 de l'arrêté du Gouvernement flamand du 29/05/2015 relatif à l'octroi de subventions de projet de 301.000 euros au maximum pour la réalisation de projets pilotes dans l'année scolaire 2015-2016 en préparation à la réforme de l'enseignement artistique à temps partiel, le membre de phrase « l'article 8ter du décret du 10 juillet 2008 portant diverses mesures urgentes relatives à l'enseignement artistique à temps partiel » est remplacé par le membre de phrase « [<sup>1</sup> l'article II.58]<sup>1</sup> de la codification de certaines dispositions relatives à l'enseignement ».
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. IX.19, 002; En vigueur : 01-01-2017&gt;
+
+## PARTIE XIII. ENTRÉE EN VIGUEUR
+
+**Art. XIII.1**
+
+Les dispositions de la présente codification entrent en vigueur le 1er janvier 2017.
+
+## ANNEXES.
+
+**Art. N1**
+
+ADDENDA I. TABLE DES MATIÈRES CODIFICATION
+
+**Art. N2**
+
+ADDENDA II. DISPOSITIONS NON REPRISES DANS LA CODIFICATION (abrogé pour l'avenir)
+
+**Art. N3**
+
+ADDENDA III. TABLE DE CONCORDANCE DES ARTICLES ANCIENS ET NOUVEAUX
+
+---
+
+Vu pour être joint à l'arrêté du Gouvernement flamand du 28 octobre 2016 portant codification de certaines dispositions relatives à l'enseignement.
+
+Le ministre-président du Gouvernement flamand,
+
+Geert BOURGEOIS
+
+La ministre flamande de l'Enseignement,
+
+Hilde CREVITS

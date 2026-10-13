@@ -1,0 +1,1161 @@
+---
+title: "Decreet houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016"
+identifier: "2016036458"
+eli: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/08/2016036458/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: nl
+date: 2016-07-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/08/2016036458/justel"
+department: "Vlaamse Overheid"
+retrieved: 2026-10-12
+---
+
+# 8 JULI 2016. - Decreet houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016
+
+Het VLAAMS PARLEMENT Parlement heeft aangenomen en Wij, REGERING, bekrachtigen hetgeen volgt :
+
+Decreet houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016
+
+## KREDIETEN LOPEND JAAR
+
+## Art. 1
+
+De kredieten ingeschreven onder afdeling 1 voor de uitgaven met betrekking tot de werkingskosten van de organen en diensten van de Vlaamse Gemeenschap worden voor het begrotingsjaar 2016 aangepast ten bedrage van :
+
+(in duizend euro)
+
+<table><tr><td> </td><td>Vastleggingskredieten </td><td>Vereffeningskredieten</td></tr><tr><td>Vermeerderingen </td><td>711.823 </td><td>715.658</td></tr><tr><td>Verminderingen </td><td>- </td><td>-</td></tr></table>
+
+## Art. 2
+
+De kredieten ingeschreven onder afdeling 1 voor de uitgaven met betrekking tot de bevoegdheden verleend bij artikel 127 tot 129 van de Grondwet worden voor het begrotingsjaar 2016 aangepast ten bedrage van :
+
+(in duizend euro)
+
+<table><tr><td> </td><td>Vastleggingskredieten </td><td>Vereffeningskredieten</td></tr><tr><td>Vermeerderingen </td><td>78.723 </td><td>84.436</td></tr><tr><td>Verminderingen </td><td>- </td><td>-</td></tr></table>
+
+## Art. 3
+
+De kredieten ingeschreven onder afdeling 1 voor de uitgaven met betrekking tot de bevoegdheden verleend bij artikel 39 van de Grondwet worden voor het begrotingsjaar 2016 aangepast ten bedrage van :
+
+(in duizend euro)
+
+<table><tr><td> </td><td>Vastleggingskredieten </td><td>Vereffeningskredieten</td></tr><tr><td>Vermeerderingen </td><td>- </td><td>-</td></tr><tr><td>Verminderingen </td><td>293.632 </td><td>233.274</td></tr></table>
+
+## Art. 4
+
+De raming van de variabele kredieten ingeschreven onder afdeling 1 voor de uitgaven met betrekking tot de werkingskosten van de organen en diensten van de Vlaamse Gemeenschap wordt voor het begrotingsjaar 2016 aangepast ten bedrage van :
+
+(in duizend euro)
+
+<table><tr><td> </td><td>Variabele kredieten</td></tr><tr><td>Vermeerderingen </td><td>4.642</td></tr><tr><td>Verminderingen </td><td>-</td></tr></table>
+
+## Art. 5
+
+De raming van de variabele kredieten ingeschreven onder afdeling 1 voor de uitgaven met betrekking tot de bevoegdheden verleend bij artikel 127 tot 129 van de Grondwet wordt voor het begrotingsjaar 2016 aangepast ten bedrage van :
+
+(in duizend euro)
+
+<table><tr><td> </td><td>Variabele kredieten</td></tr><tr><td>Vermeerderingen </td><td>10.824</td></tr><tr><td>Verminderingen </td><td>-</td></tr></table>
+
+## Art. 6
+
+De raming van de variabele kredieten ingeschreven onder afdeling 1 voor de uitgaven met betrekking tot de bevoegdheden verleend bij artikel 39 van de Grondwet wordt voor het begrotingsjaar 2016 aangepast ten bedrage van :
+
+(in duizend euro)
+
+<table><tr><td> </td><td>Variabele kredieten</td></tr><tr><td>Vermeerderingen </td><td>47.666</td></tr><tr><td>Verminderingen </td><td>-</td></tr></table>
+
+## Art. 7
+
+De raming van de terugbetalingen van leningen voorzien onder titel III wordt voor het begrotingsjaar 2016 aangepast ten bedrage van :
+
+(in duizend euro)
+
+<table><tr><td> </td><td>Kasuitgaven</td></tr><tr><td>Vermeerderingen </td><td>726</td></tr><tr><td>Verminderingen </td><td>-</td></tr></table>
+
+## Art. 8
+
+In uitvoering van artikel 10, § 1, 2°, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt de raming van de kasuitgaven aangepast ten bedrage van :
+
+(in duizend euro)
+
+<table><tr><td> </td><td>Kasuitgaven</td></tr><tr><td>Vermeerderingen </td><td>696.469</td></tr><tr><td>Verminderingen </td><td>-</td></tr></table>
+
+## OVERDRACHTEN KREDIETEN
+
+## Art. 9
+
+§ 1. In afwijking van de bepalingen van artikel 13, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt het onbelast kredietsaldo in vastleggingskrediet op 31 december 2015 overgedragen naar het begrotingsjaar 2016 voor onderstaande begrotingsartikelen en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2016.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>DEPARTEMENT FB - DEELNEMINGEN AAN BEDRIJVEN - NIET VERDEELD </td><td>CB0-1CEX2AA-PA</td></tr><tr><td>VOOR DE AANLEG VAN BEDRIJVENTERRREINEN EN VOOR DE HERINGEBRUIKNAME VAN INDUSTRIELE SITES (PRO MEMORIE) </td><td>EC0-1EDA2ZZ-WT</td></tr></table>
+
+§ 2. In afwijking van de bepalingen van artikel 13, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt het onbelast kredietsaldo in vastleggingskrediet op 31 december 2016 overgedragen naar het begrotingsjaar 2017 voor onderstaande begrotingsartikelen en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2017.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>DEPARTEMENT FB - DEELNEMINGEN AAN BEDRIJVEN - NIET VERDEELD </td><td>CB0-1CEX2AA-PA</td></tr><tr><td>TOEPASSING VAN KLEINSCHALIGE EROSIEBESTRIJDINGSINSTRUMENTEN EN UITVOERING VAN KLEINSCHALIGE EROSIEBESTRIJDINGSMAATREGELEN </td><td>LB0-1LCH2AE-WT</td></tr><tr><td>AAN HET EVA VVM DE LIJN IN HET KADER VAN DE STATIONSOMGEVINGEN </td><td>MB0-1MEF5AY-IS</td></tr><tr><td>AAN HET EVA VVM DE LIJN IN HET KADER VAN HET PROJECT MASTERPLAN ANTWERPEN </td><td>MB0-1MEF5AY-IS</td></tr><tr><td>PARTICIPATIES - ONDERSTEUNEN VAN EEN KWALITEITSVOL ONROERENDERFGOEDBEHEER </td><td>NF0-1NFA2AI-PA</td></tr><tr><td>AUDIT VLAANDEREN - LONEN<br>  (overdracht voor begrotingsartikel beperkt tot kredietsaldo op basisallocatie Audit Lokalen Besturen na verrekening gemeenschappelijke kosten) </td><td>PF0-1PAA2ZZ-LO</td></tr><tr><td>AUDIT VLAANDEREN - WERKING EN TOELAGEN<br>  (overdracht voor begrotingsartikel beperkt tot kredietsaldo op basisallocaties Audit Lokalen Besturen na verrekening gemeenschappelijke kosten) </td><td>PF0-1PAA2ZZ-WT</td></tr></table>
+
+§ 3. In de tabel van artikel 9, § 2, van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt volgende overdracht geschrapt :
+
+"
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>UITVOERING SALK-PROJECTEN </td><td>MDU-3MHF2AD-WT</td></tr><tr><td>AAN HET EVA VVM DE LIJN IN HET KADER VAN HETPROJECT BRABO II </td><td>MB0-1MEF5AY-IS</td></tr></table>
+
+".
+
+## Art. 10
+
+Artikel 9, § 3, van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt geschrapt.
+
+## SUBSIDIES
+
+## Art. 11
+
+De tabel in artikel 11, § 1, van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGS-<br>  ARTIKEL </td><td>VAK (BEGROTINGS- ARTIKEL)</td></tr><tr><td>TOT DEKKING VAN HET AANDEEL IN DE INTRESTLASTEN VAN LENINGEN AANGEGAAN BIJ FORTIS BANK VOORTSPRUITEND UIT DE WAARBORG BETREFFENDE DESCHULDVORDER. WAARVAN SPRAKE IN ARTIKEL 6BIS, VAN DE WETVAN 23 DECEMBER 1963 OP DEZIEKENHUIZEN (SECTOR 58.10) </td><td>CB0-1CEB2AA-WT </td><td> </td></tr><tr><td>AAN HET STEUNPUNT FISCALITEIT EN BEGROTING </td><td>CB0-1CFB2AG-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN PERSONEN, VERENIGINGEN EN INSTELLINGEN IN BUITENLAND EN BINNENLAND IN KADER VAN DE ACTIVITEITEN VAN DE ALGEMEEN AFGEVAARDIGDEN VAN DE VLAAMSE REGERING </td><td>DB0-1DDA2AB-WT </td><td> </td></tr><tr><td>ACTIVITEITEN TER ONDERSTEUNING VAN DE VLAAMS-NEDERLANDSE CULTURELE SAMENWERKING IN DERDE LANDEN </td><td>DB0-1DDA2AB-WT </td><td> </td></tr><tr><td>DE SON VLAMINGEN IN DE WERELD </td><td>DB0-1DDA2AC-WT </td><td> </td></tr><tr><td>HET FLANDERS CENTER (OSAKA - JAPAN) </td><td>DB0-1DDA2AC-WT </td><td> </td></tr><tr><td>HET VLAAMS HUIS IN NEW YORK </td><td>DB0-1DDA2AC-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN INTERNATIONALE ORGANISATIES EN AAN BINNENLANDSE PROMOTOREN TER UITVOERING VAN HET MULTILATERAAL BELEID </td><td>DB0-1DDA2AD-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN PERSONEN VOOR STAGES BIJ INTERNATIONALE ORGANISATIES </td><td>DB0-1DDA2AD-WT </td><td> </td></tr><tr><td>DE GEMENGDE COMMISSIE VLAANDEREN-NEDERLAND TER UITVOERING VAN HET VERDRAG VAN 17 JANUARI 95 INZAKE DE SAMENWERKING OP HET GEBIED VAN CULTUUR, ONDERWIJS, WETENSCHAPPEN EN WELZIJN </td><td>DB0-1DDA2AE-WT </td><td> </td></tr><tr><td>DE UITVOERING VAN DE INTERNATIONALE VERDRAGEN EN AKKOORDEN DOOR VLAANDEREN AFGESLOTEN </td><td>DB0-1DDA2AE-WT </td><td> </td></tr><tr><td>PERSONEN, VERENIGINGEN EN INSTELLINGEN IN BUITENLAND EN BINNENLAND (EVENTUEEL IN SAMENWERKING MET ANDERE BELEIDSDOMEINEN) </td><td>DB0-1DDA2AE-WT </td><td> </td></tr><tr><td>PROJECTEN EN ACTIVITEITEN IN HET KADER VAN SAMENWERKING MET PARTNERS IN HET BUITENLAND(EU + NIET-EU) </td><td>DB0-1DDA2AE-WT </td><td> </td></tr><tr><td>PROVINCIE WEST-VLAANDEREN IN VERBAND MET DE AANSTELLING VAN EEN COORDINATOR VAN DE GRENSOVERSCHRIJDENDE EN INTERREGIONALE SAMENWERKING TUSSEN VLAANDEREN EN NOORD-FRANKRIJK </td><td>DB0-1DDA2AE-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN PERSONEN, VERENIGINGEN EN INSTELLINGEN IN BUITENLAND EN BINNENLAND IN KADER VAN DE HERDENKING VAN DE EERSTE WERELDOORLOG </td><td>DB0-1DDA2AF-WT </td><td> </td></tr><tr><td>COFINANCIERING VAN HET STEUNPUNT BUITENLANDS BELEID, INTERNATIONAAL ONDERNEMEN EN ONTWIKKELINGSSAMENWERKING </td><td>DB0-1DDA2AH-WT </td><td> </td></tr><tr><td>HET VLAAMS - EUROPEES VERBINDINGSAGENTSCHAP (VZW) </td><td>DB0-1DDA2AX-IS </td><td> </td></tr><tr><td>SUBSIDIES TER ONDERSTEUNING VAN ALLERHANDE INITIATIEVEN IN VERBAND MET DE REALISATIES VAN PROJECTEN, PROGRAMMA'S EN INVESTERINGEN IN HET KADER VAN DE VLAAMSE SAMENWERKING MET REGIO'S EN LANDEN IN ONTWIKKELING </td><td>DB0-1DEA2AA-WT </td><td> </td></tr><tr><td>SUBSIDIES VOOR PARTICIPATIE IN VERBAND MET HUMANITAIRE BIJSTAND </td><td>DB0-1DEA2AA-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN GEMEENTEBESTUREN INZAKE EEN SENSIBILISATIEBELEID VOOR ONTWIKKELINGSSAMENWERKING </td><td>DB0-1DEA2AB-WT </td><td> </td></tr><tr><td>SUBSIDIES VOOR REALISATIE VAN PROJECTEN, PROGRAMMA'S EN INVESTERINGEN IN HET KADER VAN SENSIBILISATIE EN EDUCATIE INZAKE ONTWIKKELINGSSAMENWERKING </td><td>DB0-1DEA2AB-WT </td><td> </td></tr><tr><td>ALLERHANDE SUBSIDIES IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD ``SOCIAL PROFIT'' </td><td>DB0-1DEA2AC-WT </td><td> </td></tr><tr><td>SUBSIDIE AAN DE VZW VVOB </td><td>DB0-1DEA2AD-WT </td><td> </td></tr><tr><td>SUBSIDIES VOOR ALLERHANDE INITIATIEVEN INZAKE ONTWIKKELINGSSAMENWERKING </td><td>DB0-1DEA4AF-WT </td><td> </td></tr><tr><td>DE CONCEPTIE, VOORBEREIDING EN UITVOERING VAN ACTIES MET BETREKKING TOT ECONOMIE </td><td>EB0-1ECG2AA-WT </td><td> </td></tr><tr><td>STRATEGISCH PROJECTENORGANISATIE KEMPEN VZW </td><td>EB0-1ECG2AA-WT </td><td> </td></tr><tr><td>STUDIEEN ONTWIKKELINGSCENTRUM KEMPEN VZW </td><td>EB0-1ECG2AA-WT </td><td> </td></tr><tr><td>HET BABBAGE INSTITUUT VOOR KENNIS EN INFORMATIE TECHNOLOGIE </td><td>EB0-1ECG2AA-WT </td><td> </td></tr><tr><td>KONINKLIJKE VLAAMSE CHEMISCHE VERENIGING VZW </td><td>EB0-1ECG2AA-WT </td><td> </td></tr><tr><td>AAN HET EUROPACOLLEGE VOOR UNITED NATIONS UNIVERSITY (UNU) IN HET KADER VAN HET PROGRAMMA REGIONALE INTEGRATIESTUDIES </td><td>EB0-1EEG2AA-WT </td><td> </td></tr><tr><td>KONINKLIJKE MAATSCHAPPIJ VOOR DIERKUNDE IN ANTWERPEN (KMDA) </td><td>EB0-1EEG2AA-WT </td><td> </td></tr><tr><td>UNESCO VOOR DE ONDERSTEUNING VAN HET VLAAMS UNESCOTRUSTFONDS WETENSCHAPPEN </td><td>EB0-1EEG2AA-WT </td><td> </td></tr><tr><td>VLAAMS INSTITUUT VOOR DE ZEE VZW VOOR INVESTERINGSUITGAVEN </td><td>EB0-1EEG2AA-WT </td><td> </td></tr><tr><td>SUBSIDIE UNICRIS </td><td>EB0-1EEG2AA-WT </td><td> </td></tr><tr><td>HET VERRICHTEN VAN WETENSCHAPPELIJK ONDERZOEK DOOR DE INSTELLINGEN VAN POSTINITIEEL ONDERWIJS EN HOGERE INSTITUTEN VOOR SCHONE KUNSTEN </td><td>EB0-1EEG2AB-WT </td><td> </td></tr><tr><td>HET VERRICHTEN VAN WETENSCHAPPELIJK ONDERZOEK DOOR DE INSTELLINGEN VAN POSTINITIEEL ONDERWIJS EN HOGERE INSTITUTEN VOOR SCHONE KUNSTEN - AMS </td><td>EB0-1EEG2AB-WT </td><td> </td></tr><tr><td>HET VERRICHTEN VAN WETENSCHAPPELIJK ONDERZOEK DOOR DE INSTELLINGEN VAN POSTINITIEEL ONDERWIJS EN HOGERE INSTITUTEN VOOR SCHONE KUNSTEN - ITG </td><td>EB0-1EEG2AB-WT </td><td> </td></tr><tr><td>HET VERRICHTEN VAN WETENSCHAPPELIJK ONDERZOEK DOOR DE INSTELLINGEN VAN POSTINITIEEL ONDERWIJS EN HOGERE INSTITUTEN VOOR SCHONE KUNSTEN - ORPHEUS INSTITUUT VZW </td><td>EB0-1EEG2AB-WT </td><td> </td></tr><tr><td>HET VERRICHTEN VAN WETENSCHAPPELIJK ONDERZOEK DOOR DE INSTELLINGEN VAN POSTINITIEEL ONDERWIJS EN HOGERE INSTITUTEN VOOR SCHONE KUNSTEN - VLERICK LEUVEN GENT MANAGEMENTSCHOOL </td><td>EB0-1EEG2AB-WT </td><td> </td></tr><tr><td>ACTIEPLAN ``MENSELIJK KAPITAAL VOOR WETENSCHAP, TECHNOLOGIE EN INNOVATIE'' </td><td>EB0-1EEG2AC-WT </td><td> </td></tr><tr><td>BIJZONDERE ONDERZOEKSFONDSEN VOOR DE AANSTELLING VAN BIJKOMENDE ZAP-MANDATEN </td><td>EB0-1EEG2AC-WT </td><td> </td></tr><tr><td>UNIVERSITAIRE INTERFACEDIENSTEN </td><td>EB0-1EEG2AE-WT </td><td> </td></tr><tr><td>INTERNATIONALE WETENSCHAPPELIJKE EN INNOVATIESAMENWERKING </td><td>EB0-1EEG2AF-WT </td><td> </td></tr><tr><td>NEDERLANDSE TAALUNIE VOOR DE FINANCIERING VAN VLAAMS/ NEDERLANDSE INITIATIEVEN OP HET VLAK VAN TAALEN SPRAAKTECHNOLOGIE (PRO MEMORIE) </td><td>EB0-1EEG2AF-WT </td><td> </td></tr><tr><td>BEVORDERING VAN DE VLAAMSE INFORMATIEMAATSCHAPPIJ IN HET KADER VAN DE LISSABONSTRATEGIE </td><td>EB0-1EEG2AG-WT </td><td> </td></tr><tr><td>DE CONCEPTIE, VOORBEREIDING EN UITVOERING VAN ACTIES MET BETREKKING TOT WETENSCHAP EN INNOVATIE </td><td>EB0-1EEG2AG-WT </td><td> </td></tr><tr><td>IMEC VZW EN VIB IKV NERF ACTIVITEITEN </td><td>EB0-1EFG2AB-WT </td><td> </td></tr><tr><td>STRATEGISCH ONDERZOEKSCENTRUM MAAKINDUSTRIE </td><td>EB0-1EFG2AB-WT </td><td> </td></tr><tr><td>BEKENDMAKING VAN HET WETENSCHAPSBELEID EN HET WETENSCHAPPELIJK ONDERZOEK </td><td>EB0-1EGG2AA-WT </td><td> </td></tr><tr><td>EXPERTISECELLEN VOOR DE POPULARISERING VAN WETENSCHAP, TECHNIEK EN TECHNOLOGISCHE INNOVATIE IN DE SCHOOT VAN DE ASSOCIATIES </td><td>EB0-1EGG2AA-WT </td><td> </td></tr><tr><td>POPULARISERING VAN WETENSCHAP, TECHNIEK EN INNOVATIE </td><td>EB0-1EGG2AA-WT </td><td> </td></tr><tr><td>SOCIETY ROGER VAN OVERSTRAETEN </td><td>EB0-1EGG2AA-WT </td><td> </td></tr><tr><td>VLAAMSE VOLKSSTERRENWACHTEN (PRO MEMORIE) </td><td>EB0-1EGG2AA-WT </td><td> </td></tr><tr><td>DE UITVOERING VAN EU-PROJECTEN EN BIJZONDERE OPDRACHTEN VAN HET IVA AGENTSCHAP ONDERNEMEN (FONDS) </td><td>EC0-1EAG4ZZ-WT </td><td> </td></tr><tr><td>ERKENDE REGIONALE SAMENWERKINGSVERBANDEN </td><td>EC0-1ECG2AA-WT </td><td> </td></tr><tr><td>STICHTING ONDERWIJS EN ONDERNEMEN </td><td>EC0-1ECG2AA-WT </td><td> </td></tr><tr><td>STRUCTURELE PARTNERS ONDERNEMEND ONDERWIJS </td><td>EC0-1ECG2AA-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN DE VZW DYZO </td><td>EC0-1ECG2AA-WT </td><td> </td></tr><tr><td>SUBSIDIES KADEREND IN HET BELEID VAN DESIGN VLAANDEREN </td><td>EC0-1ECG2AA-WT </td><td> </td></tr><tr><td>VZW VLAAMS CENTRUM VOOR KWALITEITZORG </td><td>EC0-1ECG2AA-WT </td><td> </td></tr><tr><td>VZW VLAAMSE JONGE ONDERNEMINGEN </td><td>EC0-1ECG2AA-WT </td><td> </td></tr><tr><td>BEHEERSVERGOEDING NV WAARBORGBEHEER </td><td>EC0-1ECG2AX-IS </td><td> </td></tr><tr><td>PILOOTPROJECT LEERLINGENVERVOER </td><td>FB0-1FGE2AE-WT </td><td> </td></tr><tr><td>KATHOLIEK ONDERWIJS VLAANDEREN VOOR DE VERBETERING VAN DE ARBEIDSOMSTANDIGHEDEN VAN HET ONDERHOUDSPERSONEEL EN DE BUSBEGELEIDERS </td><td>FB0-1FGE2AK-WT </td><td> </td></tr><tr><td>NASCHOLING INTERNATIONALE PROJECTEN </td><td>FB0-1FHE2AA-WT </td><td> </td></tr><tr><td>TER BEVORDERING VAN HET BELEIDSVOEREND VERMOGEN </td><td>FB0-1FHE2AA-WT </td><td> </td></tr><tr><td>VZW VLAAMS AUDIOVISUEEL FONDS VOOR HET BEHEER GAMEFONDS </td><td>FB0-1FHE2AB-IS </td><td> </td></tr><tr><td>ALLERHANDE SUBSIDIES NIEUWE ONDERWIJSMEDIA </td><td>FB0-1FHE2AB-WT </td><td> </td></tr><tr><td>COFINANCIERING ``STEUNPUNT STUDIE- EN SCHOOLLOOPBANEN'' </td><td>FB0-1FHE2AB-WT </td><td> </td></tr><tr><td>ONDERWIJSKUNDIG BELEIDS- EN PRAKTIJKGERICHT WETENSCHAPPELIJK ONDERZOEK (OBPWO) </td><td>FB0-1FHE2AB-WT </td><td> </td></tr><tr><td>UNIVERSITAIR STEUNPUNT TOETSONTWIKKELING EN PEILINGEN </td><td>FB0-1FHE2AB-WT </td><td> </td></tr><tr><td>STEUNPUNT BELEIDSGERICHT ONDERWIJSONDERZOEK </td><td>FB0-1FHE2AB-WT </td><td> </td></tr><tr><td>EUROPESE EN INTERNATIONALE SAMENWERKING </td><td>FB0-1FHE2AC-WT </td><td> </td></tr><tr><td>SAMENWERKING MET ONTWIKKELINGSLANDEN EN LANDEN IN TRANSITIE </td><td>FB0-1FHE2AC-WT </td><td> </td></tr><tr><td>VERSTERKEN VAN DE INTERNATIONALISERING VAN HET VLAAMS HOGER ONDERWIJS </td><td>FB0-1FHE2AC-WT </td><td> </td></tr><tr><td>VZW EPOS </td><td>FB0-1FHE2AC-WT </td><td> </td></tr><tr><td>VZW EPOS SAMENWERKING TUSSEN DE 3 GEMEENSCHAPPEN </td><td>FB0-1FHE2AC-WT </td><td> </td></tr><tr><td>ONDERWIJS - WERK </td><td>FB0-1FHE2AD-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN VZW HET BEROEPENHUIS </td><td>FB0-1FHE2AD-WT </td><td> </td></tr><tr><td>VOORBEREIDING VAN EEN GEINTEGREERD ONDERWIJS- EN VORMINGSBELEID </td><td>FB0-1FHE2AD-WT </td><td> </td></tr><tr><td>SUBSIDIES VOOR DE ONDERSTEUNING VAN VLAANDERENBREDE PROJECTEN TEN BEHOEVE VAN TECHNISCHE SCHOLEN </td><td>FB0-1FHE2AD-WT </td><td> </td></tr><tr><td>VERSTERKEN BRUSSELBELEID </td><td>FB0-1FHE2AE-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN OCB-TAALVAARDIGHEIDSONDERWIJS/TALENBELEID EN BREDE SCHOOLONDERSTEUNING </td><td>FB0-1FHE2AE-WT </td><td> </td></tr><tr><td>ALLERHANDE SUBSIDIES IHKV TRANSVERSALE SAMENWERKING </td><td>FB0-1FHE2AE-WT </td><td> </td></tr><tr><td>AAN DE VZW DIESLEKTIKUS VOOR DE WERKING VAN ADIBIB VLAANDEREN </td><td>FB0-1FHE2AJ-WT </td><td> </td></tr><tr><td>KOSTENBEHEERSING SECUNDAIR ONDERWIJS </td><td>FB0-1FHE2AJ-WT </td><td> </td></tr><tr><td>STEUNPUNT INCLUSIEF HOGER ONDERWIJS </td><td>FB0-1FHE2AJ-WT </td><td> </td></tr><tr><td>SUBSIDIES IN HET KADER VAN HET GELIJKEKANSENBELEID </td><td>FB0-1FHE2AJ-WT </td><td> </td></tr><tr><td>VZW CAVARIA - IMPULSEN VOOR EEN HOLEBIBELEID IN HET ONDERWIJS </td><td>FB0-1FHE2AJ-WT </td><td> </td></tr><tr><td>KONING BOUDEWIJNSTICHTING VOOR BURGERSCHAPSVORMING </td><td>FB0-1FHE2AM-WT </td><td> </td></tr><tr><td>OPSTARTFINANCIERING OPTIE `ISLAMITISCHE THEOLOGIE EN GODSDIENSTWETENSCHAPPEN' KUL </td><td>FB0-1FHE2AM-WT </td><td> </td></tr><tr><td>PROJECTEN ONDERWIJS </td><td>FB0-1FHE2AM-WT </td><td> </td></tr><tr><td>SPECIFIEKE PROJECTEN IN HET KADER VAN DE LERARENOPLEIDING </td><td>FB0-1FHE2AM-WT </td><td> </td></tr><tr><td>SUBSIDIES INZAKE ONDERWIJS EN VORMING </td><td>FB0-1FHE2AM-WT </td><td> </td></tr><tr><td>SUBSIDIES AAN HET AGENTSCHAP INBURGERING EN INTEGRATIE </td><td>FB0-1FHE2AU-IS </td><td> </td></tr><tr><td>AANDEEL SALARISKOSTEN VOOR DE NEDERLANDSTALIGE PEUTERTUINEN, KINDERDAGVERBLIJVEN EN VOOREN NASCHOOLS TOEZICHT VAN DE SCHOLEN VAN HET GEMEENSCHAPSONDERWIJS IN BRUSSEL-HOOFDSTAD </td><td>FC0-1FDE2AG-WT </td><td> </td></tr><tr><td>OPLEIDING STARTBANERS ANTISOCIAAL GEDRAG EN VERKEERSVEILIGHEID </td><td>FC0-1FGE2AK-WT </td><td> </td></tr><tr><td>SOCIALE DIENST GEMEENSCHAPSONDERWIJS VZW </td><td>FC0-1FGE2AK-WT </td><td> </td></tr><tr><td>SUBSIDIES MET BETREKKING TOT DE FINANCIELE CONTROLE VAN HET GESUBSIDIEERD ONDERWIJS </td><td>FC0-1FGE2AK-WT </td><td> </td></tr><tr><td>VZW ``HUIZEN VAN HET NEDERLANDS'' </td><td>FD0-1FFC2AE-WT </td><td> </td></tr><tr><td>VZW DE LINK </td><td>FD0-1FFE2AE-WT </td><td> </td></tr><tr><td>UNIVERSITAIRE TALENCENTRA IN HET KADER VAN HET VLAAMSE INBURGERINGSBELEID </td><td>FD0-1FFE2AE-WT </td><td> </td></tr><tr><td>VZW ``CONSORTIA VOOR VOLWASSENENONDERWIJS'' (PRO MEMORIE) </td><td>FD0-1FFE2AE-WT </td><td> </td></tr><tr><td>BIJDRAGE AAN DE KONING BOUDEWIJNSTICHTING VOOR HET KINDERARMOEDEFONDS </td><td>GB0-1GCC2AH-WT </td><td> </td></tr><tr><td>EXPERIMENTELE EN PROJECTMATIGE SUBSIDIES IN HET KADER VAN ARMOEDEBESTRIJDING </td><td>GB0-1GCC2AH-WT </td><td> </td></tr><tr><td>ONDERZOEK IN HET KADER VAN ARMOEDEBESTRIJDING </td><td>GB0-1GCC2AH-WT </td><td> </td></tr><tr><td>STRUCTURELE WERKINGSSUBSIDIES IN HET KADER VAN ARMOEDEBESTRIJDING </td><td>GB0-1GCC2AH-WT </td><td> </td></tr><tr><td>UITVOERING VAN DE SAMENWERKINGSOVEREENKOMST ``BESTENDIGING ARMOEDEBELEID EN STEUNPUNT ARMOEDE'' </td><td>GB0-1GCC2AH-WT </td><td> </td></tr><tr><td>BIJDRAGEN EN LIDMAATSCHAPSGELDEN VOOR INTERNATIONALE ORGANISATIES </td><td>GB0-1GCD2AA-WT </td><td> </td></tr><tr><td>SUBSIDIES IN HET KADER VAN FLANDERS' CARE </td><td>GB0-1GCD2AA-WT </td><td> </td></tr><tr><td>VZW KENNISCENTRUM SOCIAAL EUROPA TER ONDERSTEUNING AAN EEN STIMULERENDE EN SENSIBILISERENDE ACTIE NAAR DE EUROPESE WERKELIJKHEID </td><td>GB0-1GCD2AA-WT </td><td> </td></tr><tr><td>ARMOEDEBESTRIJDING EN SAMENLEVINGSOPBOUW </td><td>GB0-1GCD2AB-WT </td><td> </td></tr><tr><td>CARITAS CATHOLICA VLAANDEREN VZW </td><td>GB0-1GCD2AB-WT </td><td> </td></tr><tr><td>CENTRUM VOOR RELATIEVORMING EN ZWANGERSCHAPSPROBLEMEN (CRZ) </td><td>GB0-1GCD2AB-WT </td><td> </td></tr><tr><td>KAREL DE GROTE HOGESCHOOL VOOR HET INITIATIEF BIND-KRACHT </td><td>GB0-1GCD2AB-WT </td><td> </td></tr><tr><td>VLAAMSE GEMEENSCHAPSCOMMISSIE VOOR VZW HET PUNT </td><td>GB0-1GCD2AC-WT </td><td> </td></tr><tr><td>VLAAMS STEUNPUNT VRIJWILLIGERSWERK VZW </td><td>GB0-1GCD2AC-WT </td><td> </td></tr><tr><td>ALGEMEEN EN FORENSISCH WELZIJNSWERK </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>ALGEMEEN WELZIJNSBELEID GEFINANCIERD MET DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>DE RODE ANTRACIET VZW </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>FARA VZW </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>PLURALISTISCH OVERLEG WELZIJNSWERK </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>PROJECTEN VOOR OPVANG EN BEGELEIDING VAN VERKEERSSLACHTOFFERS </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>PAYOKE VZW </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>PROJECTEN WONEN-WELZIJN </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>RONDPUNT </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>SOM VZW </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>KONINGIN FABIOLA HOME VZW </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>SUGGNOME VZW </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>TREFPUNT ZELFHULP </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>VERENIGING VAN INSTELLINGEN VOOR WELZIJNSWERK </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>VERENIGING VAN VLAAMSE STEDEN EN GEMEENTEN VOOR LOKAAL SOCIAAL BELEID </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>VLAAMSE GEMEENSCHAPSCOMMISSIE </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>WELZIJNSBELEID </td><td>GB0-1GCD2AD-WT </td><td> </td></tr><tr><td>FONDSEN VOOR BESTAANSZEKERHEID IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT </td><td>GB0-1GCD2AE-WT </td><td> </td></tr><tr><td>TWEEDE PENSIOENPIJLER IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT </td><td>GB0-1GCD2AE-WT </td><td> </td></tr><tr><td>VLAAMS INTERSECTORAAL AKKOORD SOCIAL PROFIT </td><td>GB0-1GCD2AE-WT </td><td> </td></tr><tr><td>BEVORDEREN VAN DE INZETBAARHEID VAN HULPMIDDELEN </td><td>GB0-1GCD2AJ-WT </td><td> </td></tr><tr><td>SUBSIDIE JUSTITIEEL BELEID </td><td>GB0-1GCD2AK-WT </td><td> </td></tr><tr><td>LEEFLOON VOOR PERSONEN ONDER ELEKTRONISCH TOEZICHT </td><td>GB0-1GCD2AK-WT </td><td> </td></tr><tr><td>INTEGRALE JEUGDHULPVERLENING (DECREET VAN 12 JULI 2013) </td><td>GB0-1GED2AA-WT </td><td> </td></tr><tr><td>ACADEMISCHE PRIJZEN VAN DE KONINKLIJKE ACADEMIE VOOR GENEESKUNDE </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>DEMONSTRATIEPROJECTEN VLAANDEREN MEDISCH CENTRUM </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>EPIDEMIOLOGISCH ONDERZOEK EN INDICATORENVERZAMELING </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>HET ZORG- EN GEZONDHEIDSBELEID, GEFINANCIERD MET DE NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>INVESTERINGSSUBSIDIES VOOR OUDERENVOORZIENINGEN GEFINANCIERD MET DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (PRO MEMORIE) </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>LASTEN UIT HET VERLEDEN IN HET KADER VAN HET SPECIAAL ONDERSTANDSFONDS </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>SUBSIDIES IN VERBAND MET HET GEZONDHEIDSBELEID (PRO MEMORIE) </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>VOORZIENINGEN IN DE GEZONDHEIDSZORG IN UITVOERING VAN HET SOCIAAL AKKOORD </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>WETENSCHAPPELIJK INSTITUUT VOLKSGEZONDHEID </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>STEUNPUNT MILIEU EN GEZONDHEID </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>SUBSIDIES IMINDS </td><td>GE0-1GDD2AA-WT </td><td> </td></tr><tr><td>EERSTELIJNSGEZONDHEIDSZORG </td><td>GE0-1GDD2AB-WT </td><td> </td></tr><tr><td>GEINTEGREERDE DIENSTEN THUISZORG (GDT) </td><td>GE0-1GDD2AB-WT </td><td> </td></tr><tr><td>PALLIATIEVE SAMENWERKINGSVERBANDEN EN MULTIDISCIPLINAIRE EQUIPES </td><td>GE0-1GDD2AB-WT </td><td> </td></tr><tr><td>ORGANISATIE EERSTELIJNSZORG </td><td>GE0-1GDD2AB-WT </td><td> </td></tr><tr><td>LOKALE MULTIDISCIPLINAIRE NETWERKEN </td><td>GE0-1GDD2AB-WT </td><td> </td></tr><tr><td>HUISARTSENKRINGEN </td><td>GE0-1GDD2AB-WT </td><td> </td></tr><tr><td>IMPULSEOFONDS </td><td>GE0-1GDD2AB-WT </td><td> </td></tr><tr><td>ANDERE INITIATIEVEN IN DE RESIDENTIELE EN GESPECIALISEERDE ZORG </td><td>GE0-1GDD2AC-WT </td><td> </td></tr><tr><td>ERKENDE CENTRA VOOR MENSELIJKE ERFELIJKHEID </td><td>GE0-1GDD2AC-WT </td><td> </td></tr><tr><td>GEESTELIJKE GEZONDHEID KADEREND IN HET DECREET VAN 18 MEI 1999 </td><td>GE0-1GDD2AC-WT </td><td> </td></tr><tr><td>VOORZIENINGEN IN DE GEZONDHEIDSZORG IN UITVOERING VAN HET SOCIAAL AKKOORD </td><td>GE0-1GDD2AC-WT </td><td> </td></tr><tr><td>OVERLEGPLATFORMS GEESTELIJKE GEZONDHEIDSZORG EN OVERLEG IN THUISSITUATIE </td><td>GE0-1GDD2AC-WT </td><td> </td></tr><tr><td>PVT </td><td>GE0-1GDD2AC-WT </td><td> </td></tr><tr><td>INITIATIEVEN BESCHUT WONEN </td><td>GE0-1GDD2AC-WT </td><td> </td></tr><tr><td>DOTATIE IN HET KADER VAN SAMENWERKINGSAKKOORDEN PREVENTIE VAN MIDDELENGEBRUIK </td><td>GE0-1GDD2AE-WT </td><td> </td></tr><tr><td>HET RAADGEVEND COMITE VOOR BIO-ETHIEK </td><td>GE0-1GDD2AE-WT </td><td> </td></tr><tr><td>PREVENTIEVE GEZONDHEIDSBELEID (TEN DELE EU-COFINANCIERING) </td><td>GE0-1GDD2AE-WT </td><td> </td></tr><tr><td>SUBSIDIES IN VERBAND MET INFECTIEZIEKTEN EN VACCINATIES </td><td>GE0-1GDD2AE-WT </td><td> </td></tr><tr><td>ZIEKTEPREVENTIE - INFECTIEZIEKTEN EN VACCINATIES </td><td>GE0-1GDD2AE-WT </td><td> </td></tr><tr><td>MILIEUGEZONDHEIDSZORG </td><td>GE0-1GDD2AE-WT </td><td> </td></tr><tr><td>DAGVERZORGINGSCENTRA, CENTRA VOOR KORTVERBLIJF EN BIJHORENDE PROJECTEN </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>LUIK OUDERENZORG VAN HET LIMBURGPLAN (PRO MEMORIE) </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>ONDERSTEUNING VAN PROJECTEN IN DE OUDERENZORG (PRO MEMORIE) </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>SOMMIGE ERKENDE EN GESUBSIDIEERDE WOONZORGVOORZIENINGEN EN VERENIGINGEN (INCL. ONDERHOUDSKOSTEN VESTA) </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>WOONZORGCENTRA ROB RVT CVK </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>CENTRA VOOR DAGVERBLIJF (CVD) </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>ZORGVERNIEUWING </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>SOCIAAL AKKOORD </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>ANIMATIEWERKING </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>REGULARISATIE PROJECTGESCO'S OUDERENZORG </td><td>GE0-1GDD2AF-WT </td><td> </td></tr><tr><td>ANIMATIEWERKING IN DE ERKENDE RUSTHUIZEN IN AANSLUITING OP DE REGULARISATIE VAN DE DAC-STATUTEN </td><td>GE0-1GDD2AH-WT </td><td> </td></tr><tr><td>NETWERKEN VOOR DE ZORG VOOR DEMENTERENDE PERSONEN EN HUN OMGEVING </td><td>GE0-1GDD2AH-WT </td><td> </td></tr><tr><td>TEGEMOETKOMING IN DE EINDE-OPSTALVERGOEDING BIJ ONROERENDE LEASINGOVEREENKOMST VAN OPENBARE SERVICEFLAT/BEVAK </td><td>GE0-1GDD2AH-WT </td><td> </td></tr><tr><td>TEGEMOETKOMING IN DE EINDE-OPSTALVERGOEDING BIJ ONROERENDE LEASINGOVEREENKOMSTEN VAN PRIVATE SERVICEFLAT/BEVAK </td><td>GE0-1GDD2AH-WT </td><td> </td></tr><tr><td>DE ERKENDE EN/OF GESUBSIDIEERDE THUISZORGVOORZIENINGEN EN -VERENIGINGEN (EXCL. DE DIENSTEN VOOR GEZINSZORG EN AANVULLENDE THUISZORG EN DE DIENSTEN VOOR LOGISTIEKE HULP) </td><td>GE0-1GDD2AI-WT </td><td> </td></tr><tr><td>GEÏSOLEERDE G EN SP DIENSTEN </td><td>GE0-1GDD2AJ-WT </td><td> </td></tr><tr><td>REVALIDATIECONVENTIES </td><td>GE0-1GDD2AJ-WT </td><td> </td></tr><tr><td>MAF </td><td>GE0-1GDD2AK-WT </td><td> </td></tr><tr><td>TEGEMOETKOMING HULP AAN BEJAARDEN (THAB) </td><td>GE0-1GDD2AL-WT </td><td> </td></tr><tr><td>IVA VLAAMSE MILIEUMAATSCHAPPIJ </td><td>GE0-1GDD2AW-IS </td><td> </td></tr><tr><td>DE VOI VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK </td><td>GE0-1GDD2AX-IS </td><td> </td></tr><tr><td>DEELNAME AAN EURIMAGES </td><td>HB0-1HCI2AA-WT </td><td>834</td></tr><tr><td>DEELNAME AAN HET EUROPEES AUDIOVISUEEL OBSERVATORIUM </td><td>HB0-1HCI2AA-WT </td><td> </td></tr><tr><td>OPSTART PROJECT WAALSE KROOK </td><td>HB0-1HCI2AC-WT </td><td>4.147</td></tr><tr><td>VLAAMS INSTITUUT VOOR ARCHIVERING </td><td>HB0-1HCI2AC-WT </td><td> </td></tr><tr><td>LANCERINGSCAMPAGNE LEESBEVORDERING </td><td>HB0-1HCI2AC-WT </td><td> </td></tr><tr><td>WETENSCHAPPELIJKE STEUNPUNTEN EN JEUGDONDERZOEKSPLATFORM </td><td>HB0-1HCI2AH-WT </td><td>1.387</td></tr><tr><td>TOEKENNING VAN PRIJZEN VAN DE VLAAMSE GEMEENSCHAP </td><td>HB0-1HCI2AH-WT </td><td> </td></tr><tr><td>TRANSITIENETWERK CULTUUR </td><td>HB0-1HCI2AH-WT </td><td> </td></tr><tr><td>VZW VITAMINE C </td><td>HB0-1HCI2AI-WT </td><td>72</td></tr><tr><td>REGULARISATIE GESCO'S </td><td>HB0-1HCI2AJ-WT </td><td>14.412</td></tr><tr><td>UITVOERING VAN DE VLAAMSE INTERSECTORALE AKKOORDEN (PC329.1) </td><td>HB0-1HCX2AF-WT </td><td>30.918</td></tr><tr><td>UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD VIA4 - KUNSTEN (PC304) </td><td>HB0-1HCX2AF-WT </td><td> </td></tr><tr><td>VLAAMS HUIS VOOR AMATEURKUNSTEN </td><td>HB0-1HDI2AB-WT </td><td>7.624</td></tr><tr><td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR SOCIAAL CULTUREEL WERK (PRO MEMORIE) </td><td>HB0-1HDI2AC-WT </td><td>51.466</td></tr><tr><td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR HET PARTICIPATIEBELEID </td><td>HB0-1HDI2AE-WT </td><td>6.765</td></tr><tr><td>EXPERTISECENTRUM VOOR ISLAMITISCHE CULTUREN IN VLAANDEREN </td><td>HB0-1HDI2AE-WT </td><td> </td></tr><tr><td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR ALGEMEEN CULTUURBELEID </td><td>HB0-1HDI2AE-WT </td><td> </td></tr><tr><td>VLAAMSE VRIJETIJDSPAS </td><td>HB0-1HDI2AE-WT </td><td> </td></tr><tr><td>mmMECHELEN FEEST VZW VOOR STADSPROJECT MECHELEN </td><td>HB0-1HDI2AE-WT </td><td> </td></tr><tr><td>VZW CULTUURCONNECT </td><td>HB0-1HDI2AH-WT </td><td>13.162</td></tr><tr><td>VZW DE RAND VOOR DE WERKING VAN HET MUSEUM FELIX DE BOECK </td><td>HB0-1HEI2AA-WT </td><td>1.246</td></tr><tr><td>STUDIECENTRUM VOOR VLAAMSE MUZIEK VZW </td><td>HB0-1HEI2AC-WT </td><td>28.083</td></tr><tr><td>SUBSIDIES VOOR INTERNATIONAAL KUNSTENBELEID </td><td>HB0-1HEI2AE-WT </td><td>500</td></tr><tr><td>DIVERSE BRUSSELSE PODIA </td><td>HB0-1HEI2AF-WT </td><td>8.163</td></tr><tr><td>HET KUNSTENLOKET </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>SPREIDING VAN KUNSTWERKEN </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>VERBETEREN ARBEIDSOMSTANDIGHEDEN KUNSTENAARSWERKNEMERS </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>VZW CENTRUM VOOR DE BIBLIOGRAFIE VAN DE NEERLANDISTIEK </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>VZW CONCERTGEBOUW BRUGGE </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>VZW STICHTING ONS ERFDEEL </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>VZW THEATER STAP </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>SOCIAAL PASSIEF INTERCOMMUNALE MAATSCHAPPIJ VOOR OPERA VOOR VLAANDEREN (OVV) </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>SOCIAAL PASSIEF VZW VLAAMSE OPERASTICHTING (VIOS) </td><td>HB0-1HEI2AF-WT </td><td> </td></tr><tr><td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR KUNSTEN </td><td>HB0-1HEI2AG-WT </td><td>6.500</td></tr><tr><td>VZW DE SINGEL BEHEERSCOMMISSIE INFRASTRUCTUUR </td><td>HB0-1HEI2AN-IS </td><td>2.018</td></tr><tr><td>VLAAMSE OPERA DEELS GEFINANCIERD IN UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET </td><td>HB0-1HEI2AW-IS </td><td>23.848</td></tr><tr><td>INVESTERINGSKREDIETEN KLEINSCHALIGE SPORTINFRASTRUCTUUR </td><td>HB0-1HFG5AY-IS </td><td>17.824</td></tr><tr><td>COFINANCIERING PROJECTEN TAALSIMULERING VIA HET JEUGDWERK </td><td>HB0-1HGI2AB-WT </td><td>359</td></tr><tr><td>EUROPEES JEUGDORKEST </td><td>HB0-1HGI2AB-WT </td><td> </td></tr><tr><td>EUROPEES MUZIEKFESTIVAL VOOR DE JEUGD TE NEERPELT </td><td>HB0-1HGI2AB-WT </td><td> </td></tr><tr><td>INTERNATIONALE JEUGDSAMENWERKING ZUID-AFRIKA </td><td>HB0-1HGI2AB-WT </td><td> </td></tr><tr><td>PROJECTOPROEP IN HET KADER VAN DE PREVENTIE VAN RADICALISERING </td><td>HB0-1HGI2AB-WT </td><td> </td></tr><tr><td>SUBSIDIES IKV HET MEDIA-EDUCATIEPROJECT NIEUWSMEDIA IN DE KLAS </td><td>HB0-1HHI2AB-WT </td><td>1.689</td></tr><tr><td>SUBSIDIES VOOR PROJECTEN MEDIAWIJSHEID </td><td>HB0-1HHI2AB-WT </td><td> </td></tr><tr><td>ALLERHANDE SUBSIDIES IN HET KADER VAN COFINANCIERING MEDIA </td><td>HB0-1HHI2AC-WT </td><td>404</td></tr><tr><td>ONDERSTEUNING VAN ALLERHANDE MEDIAINITIATIEVEN IN HET BINNENLAND </td><td>HB0-1HHI2AC-WT </td><td> </td></tr><tr><td>OPLEIDINGSSTEUN TER BEVORDERING VAN EEN DIVERS EN KWALITEITSVOL AANBOD IN EEN DUURZAAM EN PLURIFORM VLAAMS MEDIALANDSCHAP </td><td>HB0-1HHI2AF-WT </td><td>1.653</td></tr><tr><td>VLAAMSE VERENIGING VAN BEROEPSJOURNALISTEN </td><td>HB0-1HHI2AF-WT </td><td> </td></tr><tr><td>VZW JOURNALISMFUND.EU </td><td>HB0-1HHI2AF-WT </td><td> </td></tr><tr><td>ONDERSTEUNING REGIONALE TELEVISIE-INITIATIEVEN </td><td>HB0-1HHI2AG-WT </td><td>1.876</td></tr><tr><td>STICHTING HET BESTE VAN VLAANDEREN EN NEDERLAND </td><td>HB0-1HHI2AH-WT </td><td>1.635</td></tr><tr><td>VLAAMS MAROKKAANS CULTURENHUIS </td><td>HB0-1HII2AL-WT </td><td>7.081</td></tr><tr><td>BILATERALE SAMENWERKING </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>INTERNATIONALE EN INTERREGIONALE CULTURELE SAMENWERKING </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>INTERNATIONALE ONDERSTEUNING POP EN ROCK </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>STICHTING ``DE BRAKKE GROND'' </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>STICHTING ``DE BRAKKE GROND'' VOOR KLEIN ONDERHOUD </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>VLAAMS NEDERLANDS HUIS </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>VZW TAPIS PLEIN </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>PROJECTMATIGE SAMENWERKING TUSSEN VLAAMSE GEMEENSCHAP EN HET PALEIS VOOR SCHONE KUNSTEN </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>BIJDRAGE AAN DE NEDERLANDSE TAALUNIE </td><td>HB0-1HII2AL-WT </td><td> </td></tr><tr><td>UITGAVEN IN HET KADER VAN INTERNATIONALE ONTWIKKELINGSSAMENWERKING </td><td>JB0-1JDG2AA-WT </td><td> </td></tr><tr><td>UITGAVEN IN HET KADER VAN TEWERKSTELLINGSBELEID </td><td>JB0-1JDG2AA-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR INITIATIEVEN IN HET KADER VAN HET TEWERKSTELLINGSBELEID </td><td>JB0-1JDG2AA-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR UITVOERING VAN DE SECTORCONVENANTS IN HET KADER VAN HET VLAAMS WERKGELEGENHEIDSAKKOORD </td><td>JB0-1JDG2AB-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR BEVORDERING VAN EVENREDIGE ARBEIDSDEELNAME EN DIVERSITEIT </td><td>JB0-1JDG2AC-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR ERSV'S TER COORDINATIE VAN HET SOCIO-ECONOMISCH STREEKONTWIKKELINGSBELEID EN TER FINANCIERING VAN DE PROJECTONTWIKKELAARS EAD </td><td>JB0-1JDG2AC-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR GESUBSIDIEERDE CONTRACTUELEN TEWERKGESTELD BIJ DE VLAAMSE OVERHEID </td><td>JB0-1JDG2AD-IS </td><td> </td></tr><tr><td>UITGAVEN VOOR GESUBSIDIEERDE CONTRACTUELEN TEWERKGESTELD BIJ VZW'S </td><td>JB0-1JDG2AD-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR HET DERDE ARBEIDSCIRCUIT </td><td>JB0-1JDG2AD-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR VLAAMSE WERKERVARINGSMAATREGELEN MET TEN DELE COFINANCIERING VANUIT DE EUROPESE UNIE (ESF) </td><td>JB0-1JDG2AD-WT </td><td> </td></tr><tr><td>UITGAVEN IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD (VIA) VOOR ZORG-, OPLEIDINGS- EN LOOPBAANKREDIET EN STEUN AAN WERKNEMERS VAN ONDERNEMINGEN IN MOEILIJKHEDEN </td><td>JB0-1JDG2AE-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR HET STIMULEREN VAN DE ARBEIDSHERVERDELING EN DE ARBEIDSDUURVERMINDERING IN DE OPENBARE SECTOR </td><td>JB0-1JDG2AE-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR HET STIMULEREN VAN DE ARBEIDSHERVERDELING EN DE ARBEIDSDUURVERMINDERING IN DE PRIVESECTOR </td><td>JB0-1JDG2AE-WT </td><td> </td></tr><tr><td>UITGAVEN IN HET KADER VAN HET VLAAMS INTERSECTORAAL AKKOORD (VIA) VOOR DE LANDINGSBANEN </td><td>JB0-1JDG2AG-WT </td><td> </td></tr><tr><td>WERKING EN TOELAGEN - BEVORDEREN VAN TRANSITIES NAAR WERK EN FACILITEREN VAN WERK - VLAAMSE COFINANCIERING ESF OP 2014-2020 </td><td>JB0-1JDG2AT-WT </td><td> </td></tr><tr><td>UITGAVEN IN HET KADER VAN MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN (PRO MEMORIE) </td><td>JB0-1JDG5AF-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR BETALING VLAAMSE COFINANCIERING IN HET KADER VAN HET ESF DOELSTELLING 2 PROGRAMMA 2007-2013 UIT TE KEREN VIA HET ESF AGENTSCHAP VLAANDEREN VZW </td><td>JB0-1JDG5AF-WT </td><td> </td></tr><tr><td>BESCHUTTE WERKPLAATSEN </td><td>JB0-1JEC2AA-WT </td><td> </td></tr><tr><td>INVESTERINGSUITGAVEN BESCHUTTE EN SOCIALE WERKPLAATSEN </td><td>JB0-1JEC2AA-WT </td><td> </td></tr><tr><td>INVOEG- EN ONDERSTEUNINGSMAATREGELEN SOCIALE ECONOMIE EN MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN </td><td>JB0-1JEC2AA-WT </td><td> </td></tr><tr><td>NATIONALE LOTERIJMIDDELEN VOOR INVESTERINGSUITGAVEN BOUW EN UITRUSTING VAN BESCHUTTE WERKPLAATSEN </td><td>JB0-1JEC2AA-WT </td><td> </td></tr><tr><td>SOCIALE WERKPLAATSEN INBEGREPEN KREDIETEN VOOR UITVOERING VAN DE VLAAMSE INTERSECTORALE AKKOORDEN (VIA) VOOR DE SOCIAL PROFIT </td><td>JB0-1JEC2AA-WT </td><td> </td></tr><tr><td>MAATWERKBEDRIJVEN/ -AFDELINGEN </td><td>JB0-1JEC2AA-WT </td><td> </td></tr><tr><td>LOKALE DIENSTENECONOMIE IKV DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORDONDERNEMEN BIJ LOKALE OVERHEDEN </td><td>JB0-1JEC2AB-WT </td><td> </td></tr><tr><td>LOKALE DIENSTENECONOMIE IKV DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN BIJ VZW'S </td><td>JB0-1JEC2AB-WT </td><td> </td></tr><tr><td>BEDRIJFS-, PRODUCTEN PROCESINNOVATIE VOOR SOCIALE ECONOMIE </td><td>JB0-1JEC2AC-WT </td><td> </td></tr><tr><td>ONDERSTEUNINGSMAATREGELEN VOOR LOKALE BESTUREN VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN </td><td>JB0-1JEC2AC-WT </td><td> </td></tr><tr><td>ONDERSTEUNINGSMAATREGELEN VOOR VZW'S VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN </td><td>JB0-1JEC2AC-WT </td><td> </td></tr><tr><td>VOOR DE BETALING VAN DE VLAAMSE COFINANCIERING IN HET KADER VAN ESF DOELSTELLING 2 PROGRAMMA 2007-2013 UIT TE KEREN VIA HET ESF AGENTSCHAP VLAANDEREN VZW (PRO MEMORIE) </td><td>JB0-1JEC2AC-WT </td><td> </td></tr><tr><td>ARBEIDSZORG </td><td>JB0-1JEC2AD-WT </td><td> </td></tr><tr><td>INITIATIEVEN SOCIALE ECONOMIE (FONDS) </td><td>JB0-1JEC4AC-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR INTELLECTUELE, MORELE EN SOCIALE VORMING EN SOCIALE PROMOTIE VOOR WERKNEMERS </td><td>JB0-1JFG2AA-WT </td><td> </td></tr><tr><td>UITGAVEN VOOR OVERIGE SOCIALE UITKERINGEN, SOCIALE PROMOTIE VOOR JONGE ZELFSTANDIGEN EN HELPERS </td><td>JB0-1JFG2AA-WT </td><td> </td></tr><tr><td>BIOFORUM VLAANDEREN VZW </td><td>KB0-1KDH2AC-WT </td><td> </td></tr><tr><td>BOEREN OP EEN KRUISPUNT VZW </td><td>KB0-1KDH2AC-WT </td><td> </td></tr><tr><td>LANDEN TUINBOUWBELEID (GEDEELTELIJK MET EU COFINANCIERING) INCLUSIEF VOOR COFINANCIERING VAN LANDBOUWGERELATEERDE IWT PROJECTEN </td><td>KB0-1KDH2AC-WT </td><td> </td></tr><tr><td>LANDBOUWEDUCATIE </td><td>KB0-1KDH2AC-WT </td><td> </td></tr><tr><td>MAATREGELEN IN HET KADER VAN HET PDPO (GEDEELTELIJK MET EUCOFINANCIERING) </td><td>KB0-1KDH2AC-WT </td><td> </td></tr><tr><td>PRAKTIJKCENTRA LANDEN TUINBOUW, AAN LANDBOUWKAMERS, LANDBOUWCOMICEN, TUINBOUWVERENIGINGEN, WAARSCHUWINGSDIENSTEN EN SUBSIDIES IN HET BELANG VAN LANDEN TUINBOUW </td><td>KB0-1KDH2AC-WT </td><td> </td></tr><tr><td>STIMULERING BIOLOGISCHE LANDBOUW (GEDEELTELIJK MET EU COFINANCIERING) </td><td>KB0-1KDH2AC-WT </td><td> </td></tr><tr><td>VEETEELTVERENIGINGEN IN DE FOKKERIJSECTOREN RUNDVEE, VARKENS, PAARDEN EN EZELS, KLEINE HERKAUWERS, PLUIMVEE EN KONIJNEN, GENETISCHE DIVERSITEIT, AAN DE VLAAMSE CONFEDERATIE VAN HET PAARD EN AAN HET VLAAMS FOKKERIJCENTRUM </td><td>KB0-1KDH2AC-WT </td><td> </td></tr><tr><td>BEDRIJFSADVIESSYSTEMEN VOOR LANDEN TUINBOUWERS (EU-COFINANCIERING) </td><td>KB0-1KDH2AG-WT </td><td> </td></tr><tr><td>DIENSTEN VOOR BEDRIJFSVERZORGING </td><td>KB0-1KDH2AG-WT </td><td> </td></tr><tr><td>EUROPESE SCHOOLFRUITREGELING (EU-COFINANCIERING) </td><td>KB0-1KDH2AG-WT </td><td> </td></tr><tr><td>LANDBOUWVORMINGSACTIVITEITEN (GEDEELTELIJK MET EU-COFINANCIERING) </td><td>KB0-1KDH2AG-WT </td><td> </td></tr><tr><td>TOEPASSEN VAN MILIEUVRIENDELIJKE LANDBOUWPRODUCTIEMETHODEN, BEDRIJFSBEGELEIDING (EU-COFINANCIERING) </td><td>KB0-1KDH2AG-WT </td><td> </td></tr><tr><td>ZORGBOERDERIJEN </td><td>KB0-1KDH2AG-WT </td><td> </td></tr><tr><td>FONDS VOOR SCHEEPSJONGENS </td><td>KB0-1KDH2AT-IS </td><td> </td></tr><tr><td>VLAAMS INFOCENTRUM LANDEN TUINBOUW (VILT) </td><td>KB0-1KDH2AU-IS </td><td> </td></tr><tr><td>EIGEN VERMOGEN ILVO VOOR ONDERHOUD EN WERKEN AAN ONROERENDE GOEDEREN </td><td>KB0-1KDH2AY-IS </td><td> </td></tr><tr><td>EIGEN VERMOGEN ILVO VOOR STUDIES EN INVESTERINGEN IN HET KADER VAN IHD/PAS </td><td>KB0-1KDH2AY-IS </td><td> </td></tr><tr><td>LANDBOUWVORMINGSBELEID (GEDEELTELIJK MET EU COFINANCIERING) (FONDS) </td><td>KB0-1KDH4AC-WT </td><td> </td></tr><tr><td>ACTIES VAN HET FONDS VOOR LANDBOUW EN VISSERIJ (FONDS) </td><td>KB0-1KDH4AD-WT </td><td> </td></tr><tr><td>EIGEN VERMOGEN ILVO </td><td>KB0-1KDH4AY-IS </td><td> </td></tr><tr><td>EVA VLAAMS PROMOTIE-CENTRUM VOOR AGRO- EN VISSERIJMARKETING (VLAM) </td><td>KB0-1KGH2AA-WT </td><td> </td></tr><tr><td>UITREIKING VAN DE JAARLIJKSE PRIJS ``RUDI VERHEYEN'' VOOR EEN BIJZONDERE VERDIENSTE INZAKE DE DOORWERKING VAN DE EXACTE EN/OF HUMANE WETENSCHAPPEN IN HET MILIEU- EN NATUURBELEID </td><td>LB0-1LCH2AA-WT </td><td> </td></tr><tr><td>MULTILATERALE VERDRAGEN - VLAAMSE BIJDRAGEN RECHTSTREEKS AAN HET VERDRAGSSECRETARIAAT </td><td>LB0-1LCH2AB-WT </td><td> </td></tr><tr><td>AAN DE PROVINCIES EN DE VLAAMSE GEMEENSCHAPSCOMMISSIE INZAKE DE SALARISSEN EN TOELAGEN VAN DE PROVINCIALE BEGELEIDERS MBT HET PROJECT ``MILIEUZORG OP SCHOOL'' </td><td>LB0-1LCH2AC-WT </td><td> </td></tr><tr><td>NATUURVERENIGINGEN IN HET KADER VAN DE REGULARISATIE VAN DE DACSTATUTEN EN DE UITVOERING VAN DE VLAAMSE INTERPROFESSIONELE AKKOORDEN </td><td>LB0-1LCH2AC-WT </td><td> </td></tr><tr><td>VZW MILIEUBOOT </td><td>LB0-1LCH2AC-WT </td><td> </td></tr><tr><td>AAN DE WATERGROEP MET BETREKKING TOT ONDERSTEUNENDE TEWERKSTELLINGSMAATREGELEN (STARTBANEN, INTEGRATIEPREMIE EN ANDERE) EN OVERIGE PROVISIEVERDELINGEN </td><td>LB0-1LCH2AD-WT </td><td> </td></tr><tr><td>INITIATIEVEN DIE HET BELEID INZAKE LAND- EN BODEMBESCHERMING, ONDERGROND EN NATUURLIJKE RIJKDOMMEN ONDERSTEUNEN (UITGAVEN IN HET KADER VAN INTERREG) </td><td>LB0-1LCH2AE-WT </td><td> </td></tr><tr><td>TOEPASSING VAN KLEINSCHALIGE EROSIEBESTRIJDINGSINSTRUMENTEN EN UITVOERING VAN KLEINSCHALIGE EROSIEBESTRIJDINGSMAATREGELEN </td><td>LB0-1LCH2AE-WT </td><td> </td></tr><tr><td>AANSCHAFFEN VAN TOESTELLEN VOOR HET METEN VAN GELUIDSVERONTREINIGING </td><td>LB0-1LCH2AG-WT </td><td> </td></tr><tr><td>STEUNPUNT MILIEU EN GEZONDHEID </td><td>LB0-1LCH2AG-WT </td><td> </td></tr><tr><td>VLAAMSE BIJDRAGE TER UITVOERING IRENA VERDRAG EN ANDERE INTERNATIONALE VERDRAGEN (IEA, ...) </td><td>LB0-1LEB2AA-WT </td><td> </td></tr><tr><td>HET UITWERKEN EN UITVOEREN VAN HET ACTIEPLAN "CLEAN POWER FOR TRANSPORT'' </td><td>LB0-1LEB2AD-WT </td><td> </td></tr><tr><td>IMPULSPROJECTEN ENERGIEBELEID </td><td>LB0-1LEB4AC-WT </td><td> </td></tr><tr><td>BELEID EN ONDERZOEK INZAKE DIERENWELZIJN </td><td>LB0-1LFF2AA-WT </td><td> </td></tr><tr><td>VLAAMS DIERENWELZIJNFONDS (PROGRAMMADECREET BO 2015) </td><td>LB0-1LFF4AA-WT </td><td> </td></tr><tr><td>AAN LAGERE OVERHEDEN EN VERENIGINGEN OPENBAAR BELANG - VOOR WERKZAAMHEDEN IN BOS- EN GROENDOMEINEN EN ANDERE INITIATIEVEN IN UITVOERING VAN BOSDECREET, INITIATIEVEN IKV HARMONISCH PARK- EN GROENBEHEER EN INSTANDHOUDINGSWERKEN PARKEN MET CULT. HIST. WAARDE </td><td>LD0-1LCH2AF-WT </td><td> </td></tr><tr><td>MAATSCHAPPIJEN EN VERENIGINGEN IN VERBAND MET BEVORDERING BOSBOUW, GROENVOORZIENING, JACHT, VISSERIJ EN VINKENKWEEK; PLATFORM NATUURGEBRUIK &amp; NATUURRECREATIE IN BUITENGEBIED ENZ </td><td>LD0-1LCH2AF-WT </td><td> </td></tr><tr><td>NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ VOOR DE AANKOOP EN BEHEER/ INRICHTING VAN NATUURGEBIEDEN </td><td>LD0-1LCH2AF-WT </td><td> </td></tr><tr><td>NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ VOOR DIERENWELZIJN </td><td>LD0-1LCH2AF-WT </td><td> </td></tr><tr><td>NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ VOOR ONDERSTEUNING VAN BOSGROEPEN EN PROJECTEN BEHEERSEENHEDEN EN DE PROMOTIE VAN DE VINKENKWEEK </td><td>LD0-1LCH2AF-WT </td><td> </td></tr><tr><td>PRIVEBOSEIGENAARS VOOR DE UITVOERING VAN BOSWERKZAAMHEDEN IN BOS EN GROENDOMEINEN EN ANDERE INITIATIEVEN IN UITVOERING VAN HET BOSDECREET (ART. 13, 85 EN 87VAN HET BOSDECREET VAN 13 JUNI 1990) </td><td>LD0-1LCH2AF-WT </td><td> </td></tr><tr><td>AAN GEZINNEN AANKOOP TERREINEN VOOR BOSAANLEG, WAARVAN DE FINANCIELE MIDDELEN WERDEN GEGENEREERD VIA HET BETALEN VAN BOSBEHOUDSBIJDRAGE ALS COMPENSATIEMAATREGEL, DOOR DE AANVRAGER VAN EEN STED. VERGUNNING TOT ONTBOSSING OF VERKAVELINGSVERGUNNING (FONDS) </td><td>LD0-1LCH4AF-WT </td><td> </td></tr><tr><td>AAN VZW'S AANKOOP TERREINEN VOOR BOSAANLEG, WAARVAN DE FINANCIELE MIDDELEN WERDEN GEGENEREERD VIA HET BETALEN VAN BOSBEHOUDSBIJDRAGE ALS COMPENSATIEMAATREGEL, DOOR DE AANVRAGER VAN EEN STED. VERGUNNING TOT ONTBOSSING OF VERKAVELINGSVERGUNNING (FONDS) </td><td>LD0-1LCH4AF-WT </td><td> </td></tr><tr><td>AAN PROVINCIES EN GEMEENTEN - AANKOOP TERREINEN VOOR BOSAANLEG, WAARVAN DE FINANCIELE MIDDELEN WERDEN GEGENEREERD VIA HET BETALEN VAN BOSBEHOUDSBIJDRAGE ALS COMPENSATIEMAATREGEL, DOOR DE AANVRAGER VAN EEN STED. VERGUNNING TOT ONTBOSSING OF VERKAVELINGSVERGUNNING (FONDS) </td><td>LD0-1LCH4AF-WT </td><td> </td></tr><tr><td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE, EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU COFINANCIERING) </td><td>LE0-1LEB2AA-WT </td><td> </td></tr><tr><td>VZW COGEN VLAANDEREN VOOR DE ONDERSTEUNING VAN WARMTEKRACHTKOPPELING </td><td>LE0-1LEB2AA-WT </td><td> </td></tr><tr><td>VZW ODE VLAANDEREN VOOR DE ONDERSTEUNING VAN DUURZAME ENERGIEBRONNEN </td><td>LE0-1LEB2AA-WT </td><td> </td></tr><tr><td>BESTRIJDING VAN DE ENERGIEARMOEDE (INCLUSIEF UITVOERING SOCIALE DAKISOLATIEPROJECTEN) </td><td>LE0-1LEB2AB-WT </td><td> </td></tr><tr><td>ENERGIESCANS </td><td>LE0-1LEB2AB-WT </td><td> </td></tr><tr><td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE, EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU COFINANCIERING) </td><td>LE0-1LEB2AB-WT </td><td> </td></tr><tr><td>PREMIES TER VERBETERING VAN DE ENERGIEPRESTATIES VAN EEN WONING </td><td>LE0-1LEB2AB-WT </td><td> </td></tr><tr><td>REG-DEMONSTRATIEPROJECTEN, ONTWIKKELING NIEUWE MATERIALEN, PROCEDES OF PRODUCTEN, INCL. COMMERCIALISERING ERVAN (ART. 6 EN 7 KONINKLIJK BESLUIT VAN 10 FEBRUARI 1983) </td><td>LE0-1LEB2AB-WT </td><td> </td></tr><tr><td>RENTESUBSIDIES AAN OVERHEIDSBEDRIJVEN EN LOKALE ENTITEITEN VOOR LENINGEN VOOR ENERGIEBESPARENDE INVESTERINGEN </td><td>LE0-1LEB2AB-WT </td><td> </td></tr><tr><td>HET UITWERKEN EN UITVOEREN VAN HET ACTIEPLAN "CLEAN POWER FOR TRANSPORT'' </td><td>LE0-1LEB2AD-WT </td><td> </td></tr><tr><td>ENERGIEFONDS (DECREET 8 MEI 2009) (INCLUSIEF UITGAVEN MET EU COFINANCIERING) (FONDS) </td><td>LE0-1LEB4AC-WT </td><td> </td></tr><tr><td>ENERGIEFONDS (DECREET 8 MEI 2009) (INCLUSIEF UITGAVEN MET EU COFINANCIERING) (FONDS) (PRO MEMORIE) </td><td>LE0-1LEB4ZZ-PR </td><td> </td></tr><tr><td>DE EXPLOITATIE VAN DE LUCHTHAVEN KORTRIJK - WEVELGEM </td><td>MB0-1MDF2AB-WT </td><td> </td></tr><tr><td>IN HET KADER VAN DE LUCHTHAVENS </td><td>MB0-1MDF2AB-WT </td><td> </td></tr><tr><td>FIETSBERAAD VLAANDEREN </td><td>MB0-1MFF2AA-WT </td><td> </td></tr><tr><td>IN HET KADER VAN MOBILITEIT VAN PERSONEN MET EEN HANDICAP IN VLAANDEREN </td><td>MB0-1MFF2AA-WT </td><td> </td></tr><tr><td>ONTWIKKELINGSSAMENWERKING </td><td>MB0-1MFF2AA-WT </td><td> </td></tr><tr><td>IN HET KADER VAN BASISBEREIKBAARHEID </td><td>MB0-1MFF2AA-WT </td><td> </td></tr><tr><td>IN HET KADER VAN HET VERKEERSVEILIGHEIDSPLAN OF IN FUNCTIE VAN DUURZAME MOBILITEIT </td><td>MB0-1MFF2AB-WT </td><td> </td></tr><tr><td>INSTELLINGEN, ORGANISATIES, VERENIGINGEN ACTIEF OP HET VLAK VAN WOON-WERKVERKEER </td><td>MB0-1MFF2AC-WT </td><td> </td></tr><tr><td>DE HAVENBUS POM WEST-VLAANDEREN </td><td>MB0-1MFF2AC-WT </td><td> </td></tr><tr><td>DE VZW MAX MOBIEL </td><td>MB0-1MFF2AC-WT </td><td> </td></tr><tr><td>NV BLUE MOBILITY </td><td>MB0-1MFF2AC-WT </td><td> </td></tr><tr><td>VZW CENTRUM VOOR POSITIEVE AANWENDING/TAXISTOP </td><td>MB0-1MFF2AC-WT </td><td> </td></tr><tr><td>I-BUS VZW </td><td>MB0-1MFF2AC-WT </td><td> </td></tr><tr><td>MAATSCHAPPIJ VOOR HET HAVEN-, GROND- EN INDUSTRIALISATIEBELEID VOOR HET LINKERSCHELDEOEVERGEBIED </td><td>MB0-1MFF2AC-WT </td><td> </td></tr><tr><td>BELGISCH INSTITUUT VOOR DE VERKEERSVEILIGHEID VZW </td><td>MB0-1MFF4AB-WT </td><td> </td></tr><tr><td>DE V.Z.W. PROMOTIE BINNENVAART VLAANDEREN </td><td>MB0-1MIF2AE-WT </td><td> </td></tr><tr><td>INSTELLINGEN, ORGANISATIES EN VERENIGINGEN ACTIEF OP HET VLAK VAN DE HAVENS EN DE LOGISTIEK </td><td>MB0-1MIF2AE-WT </td><td> </td></tr><tr><td>SUBSIDIERING OPLEIDINGEN AAN ONDERWIJSINSTELLINGEN </td><td>NC0-1NDH2AA-WT </td><td> </td></tr><tr><td>AAN DE RIJN SCHELDE DELTA SAMENWERKINGSORGANISATIE </td><td>NC0-1NDH2AA-WT </td><td> </td></tr><tr><td>VOOR INTERGEWESTELIJKE EN INTERNATIONALE PROJECTEN ALSMEDE DE COFINANCIERING VOOR COMMUNAUTAIRE INITIATIEVEN INZAKE RUIMTELIJKE ORDENING </td><td>NC0-1NDH2AA-WT </td><td> </td></tr><tr><td>AAN DE VLAAMSE VERENIGING VOOR RUIMTE EN PLANNING </td><td>NC0-1NDH2AB-WT </td><td> </td></tr><tr><td>AAN ORGANISATIES DIE BIJDRAGEN TOT DE DOORWERKING VAN DE OPTIES VAN HET RUIMTELIJK BELEID </td><td>NC0-1NDH2AB-WT </td><td> </td></tr><tr><td>PILOOTPROJECTEN IN HET KADER VAN INTERNE STAATSHERVORMING EN VERSTERKING VAN DE LOKALE HANDHAVING </td><td>NC0-1NDH2AC-WT </td><td> </td></tr><tr><td>SUBSIDIE VOOR PROJECTEN IN HET KADER VAN INTERGEMEENTELIJKE SAMENWERKING EN VERSTERKING VAN DE LOKALE HANDHAVING </td><td>NC0-1NDH2AC-WT </td><td> </td></tr><tr><td>SUBSIDIES VOOR PILOOTPROJECTEN IN ONTVOOGDE GEMEENTEN TER VERHOGING VAN EEN STRATEGISCH EN DAADKRACHTIG LOKAAL RUIMTELIJK BELEID EN TER VERHOGING VAN DE LOKALE BESTUURSKRACHT </td><td>NC0-1NDH2AC-WT </td><td> </td></tr><tr><td>VOOR WONEN GEFINANCIERD MET DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (PRO MEMORIE) </td><td>NE0-1NEC2AA-WT </td><td> </td></tr><tr><td>GESCO'S VOOR SHM'S </td><td>NE0-1NEC2AA-WT </td><td> </td></tr><tr><td>DE BOUW EN/OF VERBOUWING VAN SOCIALE HUURWONINGEN DOOR GEMEENTEN, OCMW'S, DE VHM OF HAAR ERKENDE MAATSCHAPP. IN HET KADER VAN INBREIDINGSPROJ. IN KANSARME BUURTEN (ART. 22, 1ste lid 4°, B.V.R. 19 DECEMBER 1996) (ANTW GENT) (PRO MEMORIE) </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>DE BOUW EN/OF VERBOUWING VAN SOCIALE HUURWONINGEN DOOR GEMEENTEN,OCMW'S, DE VLAAMSE HUISVESTINGSMAATSCHAPPIJ OF HAAR ERKENDE MAATSCHAPP. IN HET KADER VAN INBREIDINGSPROJ. IN KANSARME BUURTEN EXCL. ANTWERPEN EN GENT (PRO MEMORIE) </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>GESCO'S VOOR SVK'S EN HUURDERSBONDEN </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>MET BETREKKING TOT PROEFPROJECTEN ENERGIEZUINIG BOUWEN (PRO MEMORIE) </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>VOOR HET VERSTREKKEN VAN TAALCURSUSSEN EN VOOR DE ORGANISATIE VAN SPECIFIEKE TAALBELEIDSACTIES IN HET KADER VAN HET SOCIAAL HUURSTELSEL </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>VOOR PERSONEELSEN WERKINGSKOSTEN AAN DE SAMENWERKINGSEN OVERLEGSTRUCTUUR VAN DE HUURDIENSTEN </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>VOOR UITGAVEN MET BETREKKING TOT RATIONEEL ENERGIEVERBRUIK EN GROENE WARMTE (PRO MEMORIE) </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>COMPENSATIE MINDER-INKOMSTEN VAN GEMEENTEN VOOR DE BIJSTELLING VAN DE ONROERENDE VOORHEFFING VAN 2,5% NAAR 1,6% OP WONINGEN DIE WORDEN VERHUURD AAN SVK'S </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>COMPENSATIE MINDER-INKOMSTEN VAN PROVINCIES VOOR DE BIJSTELLING VAN DE ONROERENDE VOORHEFFING VAN 2,5% NAAR 1,6% OP WONINGEN DIE WORDEN VERHUURD AAN SVK'S </td><td>NE0-1NEC2AB-WT </td><td> </td></tr><tr><td>IN HET KADER VAN DE GEWESTELIJKE SOCIALE CORRECTIE </td><td>NE0-1NEC2AC-IS </td><td> </td></tr><tr><td>VOOR UITGAVEN MET BETREKKING TOT RATIONEEL ENERGIEGEBRUIK (PRO MEMORIE) </td><td>NE0-1NEC2AC-IS </td><td> </td></tr><tr><td>IN HET KADER VAN HET BOUWRIJP MAKEN VAN GRONDEN EN DE AANLEG VAN DE INFRASTRUCTUUR VOOR SOCIALE WOONWIJKEN EN SERVICEFLATS </td><td>NE0-1NEC2AC-IS </td><td> </td></tr><tr><td>BOUW EN DE RENOVATIE VAN KOOPWONINGEN IN HET KADER VAN SOCIALE WOONPROJECTEN (UP BESLUIT VAN 18 JULI 2008, HDSTK III, AFD II, ONDERAFD IV EN VI) </td><td>NE0-1NEC2AC-IS </td><td> </td></tr><tr><td>ALGEMENE WERKINGSKOSTEN (VERGOED AAN ANDERE SECTOREN DAN DE OVERHEIDSSECTOR) - TEGEMOETKOMING IN DE BEVEILIGING VAN WONINGEN DOOR OPTISCHE ROOKMELDERS </td><td>NE0-1NEC2AG-WT </td><td> </td></tr><tr><td>INVESTERINGSSUBSIDIE OP BASIS VAN EEN OPEN OPROEP AAN LOKALE OVERHEDEN VOOR DE BOUW VAN TRANSITWONINGEN/VERBOUWING TOT TRANSITWONINGEN </td><td>NE0-1NEC2AK-WT </td><td> </td></tr><tr><td>EXPERIMENTELE PROJECTEN IN HET KADER VAN HET VOEREN VAN EEN LOKAAL WOONBELEID (PRO MEMORIE) </td><td>NE0-1NEC2AL-WT </td><td> </td></tr><tr><td>UITGAVEN TER UITVOERING VAN HET FONDS VOOR DE HUISVESTING MET INBEGRIP VAN ADL-PROJECTEN, VAN SUBSIDIES VOOR BIJDRAGE TOT VERBETERING VAN DE SOCIALE HUISVESTING EN DE INTERNATIONALE SAMENWERKING, VAN ZENDINGSREIZEN VAN DE VL. MIN. (FONDS) </td><td>NE0-1NEC4AA-WT </td><td> </td></tr><tr><td>PROJECT SUBSIDIE KMDA, BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO WERELDERFGOED </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>PROJECTSUBSIDIE ERFGOEDACADEMIE VZW </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>PROJECTSUBSIDIE REGIONAAL LANDSCHAP KEMPEN EN MAASLAND BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO WERELDERFGOED VAN DE HOGE KEMPEN EN DE AANGRENZENDE MIJNSITES </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>PROJECTSUBSIDIE VZW KEMPENS LANDSCHAP BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO WERELDERFGOED VAN DE LANDLOPERSKOLONIES WORTEL EN MERKSPLAS </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>RESTAURATIE LAM GODS </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>STAD LEUVEN VOOR RESTAURATIE EN LANDSCHAPSBEHEER VAN DE ABDIJ VAN PARK </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>HET ORGEL IN VLAANDEREN VZW </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>PROJECTSUBSIDIES ONROEREND ERFGOED WO I </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>PROJECTSUBSIDIES VZW NATUURPUNT </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>CONVENANT PROVINCIE OOST-VLAANDEREN PROVINCIAAL ERFGOEDCENTRUM (PEC) ENAME </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>AAN CASUEELE - HOOGHUIS VZW (INVESTERINGSSUBSIDIE) </td><td>NF0-1NFA2AC-WT </td><td> </td></tr><tr><td>AAN INTERGEMEENTELIJKE ARCHEOLOGISCHE DIENSTEN EN AAN INTERGEMEENTELIJKE ERFGOEDVERENIGINGEN OP HET VLAK VAN MONUMENTEN EN/OF LANDSCHAPPEN </td><td>NF0-1NFA2AD-WT </td><td> </td></tr><tr><td>CENTRUM VOOR RELIGIEUZE KUNST EN CULTUUR (CRKC) </td><td>NF0-1NFA2AD-WT </td><td> </td></tr><tr><td>MONUMENTENWACHT VLAANDEREN </td><td>NF0-1NFA2AD-WT </td><td> </td></tr><tr><td>SUBSIDIE AAN DE NIEUWE ERFGOEDVERENIGING (HERITA) </td><td>NF0-1NFA2AD-WT </td><td> </td></tr><tr><td>VOOR DE REGULARISATIE VAN DE GEWEZEN DAC'ERS TEWERKGESTELD BIJ VZW'S EN ANDERE INSTELLINGEN </td><td>NF0-1NFA2AD-WT </td><td> </td></tr><tr><td>IN HET KADER VAN EEN VLAAMS BELEID DUURZAME ONTWIKKELING </td><td>PA0-1PEA2AA-WT </td><td> </td></tr><tr><td>ONDERSTEUNING VAN DE STRUCTURELE ONDERBOUWING VAN DUURZAAM BOUWEN EN WONEN IN VLAANDEREN </td><td>PA0-1PEA2AA-WT </td><td> </td></tr><tr><td>AAN BELEIDSDOMEIN OVERSTIJGENDE PROJECTEN EN EVENEMENTEN DIE DE UITSTRALING VAN VLAANDEREN BEVORDEREN </td><td>PA0-1PEA2AG-WT </td><td> </td></tr><tr><td>AAN DE VZW VLAANDEREN-EUROPA </td><td>PA0-1PEA2AG-WT </td><td> </td></tr><tr><td>AAN DE VZW VOEREN 2000 </td><td>PA0-1PEA2AG-WT </td><td> </td></tr><tr><td>AAN DE VZW KAZERNE DOSSIN </td><td>PA0-1PEA2AH-WT </td><td> </td></tr><tr><td>VOOR DE ONDERSTEUNING VAN PROJECTEN IN HET KADER VAN HET BOUWMEESTERSCHAP </td><td>PA0-1PEA2AJ-WT </td><td> </td></tr><tr><td>AAN LOKALE OVERHEDEN EN UNIVERSITEITEN, EN ANDERE INSTELLINGEN IN HET BINNENLAND IN HET KADER VAN HET VERBETEREN VAN HET INTERBESTUURLIJK GEGEVENSVERKEER </td><td>PC0-1PJC2AA-WT </td><td> </td></tr><tr><td>AAN LOKALE OVERHEDEN EN UNIVERSITEITEN, EN ANDERE INSTELLINGEN IN HET BINNENLAND IN HET KADER VAN HET VERBETEREN VAN HET INTERBESTUURLIJK GEGEVENSVERKEER </td><td>PC0-1PJC2AB-WT </td><td> </td></tr><tr><td>ALGEMENE ONDERSTEUNING GELIJKEKANSENBELEID </td><td>PJ0-1PFC2AA-WT </td><td> </td></tr><tr><td>AAN DE VZW NEDERLANDSTALIGE VROUWENRAAD </td><td>PJ0-1PFC2AB-WT </td><td> </td></tr><tr><td>AAN DE VZW CAVARIA </td><td>PJ0-1PFC2AB-WT </td><td> </td></tr><tr><td>AAN DE VZW ELLA </td><td>PJ0-1PFC2AB-WT </td><td> </td></tr><tr><td>AAN DE VZW ROSA </td><td>PJ0-1PFC2AB-WT </td><td> </td></tr><tr><td>AAN DE VZW THE BELGIAN PRIDE </td><td>PJ0-1PFC2AB-WT </td><td> </td></tr><tr><td>AAN DE VZW VROUWEN OVERLEG KOMITEE (VOK) </td><td>PJ0-1PFC2AB-WT </td><td> </td></tr><tr><td>AAN DE VZW GELIJKE RECHTEN VOOR IEDERE PERSOON MET EEN HANDICAP </td><td>PJ0-1PFC2AB-WT </td><td> </td></tr><tr><td>BELEIDSVOORBEREIDEND ONDERZOEK </td><td>PJ0-1PFC2AE-WT </td><td> </td></tr><tr><td>AAN DE VLAAMSE GEMEENSCHAPSCOMMISSIE VOOR GEMEENSCHAPSINFRASTRUCTUUR </td><td>PJ0-1PGI2AA-WT </td><td> </td></tr><tr><td>AAN INITIATIEVEN IN HET KADER VAN DE VERSTERKING VAN DE VLAAMSE INBRENG IN BRUSSEL EN VAN DE VERSTERKING VAN DE BAND TUSSEN BRUSSEL EN DE REST VAN VLAANDEREN </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN BR(IK - ALLES VOOR STADSSTUDENTEN VZW </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN BRIO </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN BRUKSELBINNENSTEBUITEN VZW </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN DE VLAAMSE GEMEENSCHAPSCOMISSIE IN BRUSSEL VOOR DE ONDERSTEUNING VAN DE BREDE SCHOOL IN BRUSSEL </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN HET HUIS VOOR GEZONDHEID VZW </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN KENNISCENTRUM WOONZORG BRUSSEL VZW </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN KUUMBA VZW </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN STUDIO GLOBO VZW </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN VLAAMS-BRUSSELSE MEDIA VZW </td><td>PJ0-1PGI2AB-WT </td><td> </td></tr><tr><td>AAN HUIS VAN HET NEDERLANDS BRUSSEL VZW </td><td>PJ0-1PGI2AC-WT </td><td> </td></tr><tr><td>AAN BRIO </td><td>PJ0-1PHF2AA-WT </td><td> </td></tr><tr><td>VOOR ALLERHANDE INITIATIEVEN DIE HET VLAAMSE KARAKTER EN/OF DE INTEGRATIE BEVORDEREN VAN ANDERSTALIGEN </td><td>PJ0-1PHF2AA-WT </td><td> </td></tr><tr><td>AAN VZW RTVB </td><td>PJ0-1PHF2AA-WT </td><td> </td></tr><tr><td>AAN VZW MUSEUM FELIX DE BOECK </td><td>PJ0-1PHF2AA-WT </td><td> </td></tr><tr><td>ONDERSTEUNING BELEID BINNENLAND </td><td>PJ0-1PMC2AA-WT </td><td> </td></tr><tr><td>ONDERSTEUNING BELEIDSGERICHT ONDERZOEK </td><td>PJ0-1PMC2AF-WT </td><td> </td></tr><tr><td>ONDERSTEUNING NAAR DUURZAME EN CREATIEVE STEDEN </td><td>PJ0-1PNC2AB-WT </td><td> </td></tr><tr><td>PRIJS THUIS IN DE STAD/SLIM IN DE STAD </td><td>PJ0-1PNC2AB-WT </td><td> </td></tr><tr><td>SPECIFIEKE BIJDRAGEN AAN STEDEN EN THEMATISCHE PROJECTEN IKV HET STEDENBELEID </td><td>PJ0-1PNC2AB-WT </td><td> </td></tr><tr><td>ONDERSTEUNING NAAR DUURZAME EN CREATIEVE STEDEN </td><td>PJ0-1PNC2AC-WT </td><td> </td></tr><tr><td>THEMATISCHE PROJECTEN IKV HET STEDENBELEID </td><td>PJ0-1PNC2AC-WT </td><td> </td></tr><tr><td>GROOTSTEDENBELEID </td><td>PJ0-1PNC2AD-WT </td><td> </td></tr><tr><td>INTEGRATIE EN INBURGERINGSBELEID </td><td>PJ0-1POC2AA-WT </td><td> </td></tr><tr><td>BELEIDSVOORBEREIDEND ONDERZOEK </td><td>PJ0-1POC2AB-WT </td><td></td></tr></table>
+
+".
+
+## LENINGSMACHTIGINGEN
+
+## Art. 12
+
+Artikel 12 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 12. De Vlaamse Regering wordt gemachtigd om voor te consolideren instellingen met een gewaarborgde leningsmachtiging - of te consolideren alternatief gefinancierde investeringsschema's de bedragen voor de gewaarborgde leningsmachtiging of de investeringsbedragen van de alternatief gefinancierde investeringsschema's waarvoor het Vlaams Parlement een machtiging heeft verleend al dan niet gedeeltelijk in te schrijven op nieuw te creëren begrotingsartikels, om zo zelf voor deze financiering te zorgen en deze bedragen te kunnen doorgeven. De beslissingen die met toepassing van die bepaling worden genomen, moeten binnen vijftien kalenderdagen worden meegedeeld en verantwoord door de Vlaamse Regering aan het Vlaams Parlement, met afschrift aan het Rekenhof.''.
+
+## VASTLEGGINGSMACHTIGINGEN
+
+## Art. 13
+
+Artikel 13 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 13. Het Vlaams Agentschap voor Internationaal Ondernemen (begrotingsartikel DB0-1DFA5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 12.350.000 euro :
+
+1° ter ondersteuning van de activiteiten van ondernemingen, ondernemersorganisaties, clusters en kamers van koophandel die bijdragen tot de bevordering van het internationaal ondernemen door ondernemingen, ondernemersorganisaties, clusters en gemengde kamers van koophandel;
+
+2° voor het ter beschikking stellen van Vlaamse uitrustingsgoederen met het oog op de exportbevordering aan landen of regio's aangeduid door de Vlaamse Regering;
+
+3° ter ondersteuning van de activiteiten van bedrijfsgroeperingen, clusters en kamers van koophandel die bijdragen tot de bevordering van het internationaal ondernemen.".
+
+## Art. 14
+
+Artikel 14 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 14. Het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO) (begrotingsartikel EB0-1EEG5AT-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 321.606.000 euro voor :
+
+1° het fundamenteel onderzoek;
+
+2° het strategisch basisonderzoek;
+
+3° het klinisch-wetenschappelijk onderzoek;
+
+4° de investeringen in zware, middelzware en bijzondere onderzoeksinfrastructuur.
+
+Het bedrag aan machtiging dat tijdens een bepaald begrotingsjaar niet is aangewend op de vastleggingsmachtiging van het FWO, wordt overgedragen naar het volgende begrotingsjaar, met behoud van bestemming.
+
+Het bedrag aan machtiging op begrotingsartikel EB0-1EEG5AW-IS dat niet werd vastgelegd wordt op 31 december 2015 éénmalig overgedragen naar en samengevoegd met de overeenstemmende machtiging op begrotingsartikel EB0-1EEG5AT-IS voor het begrotingsartikel 2016.".
+
+## Art. 15
+
+Artikel 15 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 15. § 1. Het Gemeenschapsonderwijs (begrotingsartikel FC0-1FGE5AV-WT) wordt gemachtigd verbintenissen aan te gaan voor een bedrag van 12.456.000 euro voor kleine infrastructuurwerken in schoolgebouwen van het Gemeenschapsonderwijs.
+
+§ 2. Het Gemeenschapsonderwijs (begrotingsartikel FC0-1FGE5AV-IS) wordt gemachtigd verbintenissen aan te gaan voor een bedrag van 41.722.000 euro voor grote infrastructuurwerken in schoolgebouwen van het Gemeenschapsonderwijs.
+
+§ 3. Het GO! wordt gemachtigd voor dezelfde doeleinden als vermeld in paragraaf 1 en paragraaf 2 verbintenissen aan te gaan voor maximaal het bedrag dat in het kader van de inhaalbeweging voor schoolinfrastructuur aan GO! wordt uitgekeerd. De verdeling van deze inkomsten volgt de verdeling van de infrastructuurkredieten zoals die staan opgenomen in artikel 169octies van het decreet betreffende het onderwijs VI.".
+
+## Art. 16
+
+Artikel 16 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 16. § 1. Het Agentschap voor Infrastructuur in het Onderwijs (begrotingsartikel FC0-1FGE5AW-IS) wordt gemachtigd de hiernavolgende verbintenissen aan te gaan ten belope van 199.579.000 euro voor het beheer, het onderhoud en de investeringen in schoolgebouwen :
+
+1° voor het gesubsidieerd officieel onderwijs met uitzondering van het hoger onderwijs;
+
+2° voor het gesubsidieerd vrij onderwijs met uitzondering van het hoger onderwijs.
+
+§ 2. De verbintenissen, vermeld in paragraaf 1 hiervoor, worden in een globaal pakket, per vrijgegeven investeringsschijf, opgenomen en vastgelegd, rekening houdend met een door de Vlaamse minister bevoegd voor Financiën en Begroting, op voorstel van het Agentschap voor Infrastructuur in het Onderwijs jaarlijks vast te stellen percentage dat volgens de statistische gegevens inzake saldi en ordonnanties effectief wordt vereffend. Deze te vereffenen bedragen kunnen de in paragraaf 1 vermelde machtiging nooit overschrijden.
+
+§ 3. Het Agentschap voor Infrastructuur in het Onderwijs wordt gemachtigd voor dezelfde doeleinden als vermeld in paragraaf 1 verbintenissen aan te gaan voor maximaal het bedrag dat in het kader van de inhaalbeweging voor schoolinfrastructuur aan AGIOn wordt uitgekeerd. De verdeling van deze inkomsten volgt de verdeling van de infrastructuurkredieten zoals die staan opgenomen in artikel 169octies van het decreet betreffende het onderwijs VI.".
+
+## Art. 17
+
+Artikel 19 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 19. § 1. De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (begrotingsartikel JB0-1JDG5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 46.184.000 euro :
+
+1° voor de uitgaven in het kader van de tewerkstellingspremie;
+
+2° voor de investeringen (beroepsopleiding).
+
+§ 2. De in paragraaf 1 bedoelde machtiging kan verhoogd worden met bijkomend verkregen middelen uit provisionele kredieten ingeschreven onder begrotingsartikel JB0-1JBG2ZZ-PR.
+
+§ 3. In afwijking van artikel 38, § 4, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof kunnen uitgaven op de vastleggingsmachtiging in het kader van de tewerkstellingspremie (begrotingsartikel JB0-1JDG5AY-IS) eveneens gefinancierd worden door terugvorderingen van tewerkstellingspremies.".
+
+## Art. 18
+
+Artikel 20 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 20. § 1. De Vlaamse Landmaatschappij (begrotingsartikel LB0-1LCH5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 1.698.000 euro :
+
+1° voor de investeringen eigen werking - Mestbank;
+
+2° voor de investeringen eigen werking.
+
+§ 2. De Vlaamse Landmaatschappij (begrotingsartikel LD0-1LCH5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 3.603.000 euro :
+
+1° voor de uitgaven in het kader van natuurinrichting met inbegrip van voorschotten (EU cofinanciering);
+
+2° voor projectdotaties natuurinrichting.
+
+§ 3. De Vlaamse Landmaatschappij (begrotingsartikel KB0-1KDH5AV-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 8.010.000 euro voor de uitgaven in het kader van het plattelandsfonds.".
+
+## Art. 19
+
+Artikel 21 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 21. De Luchthavenontwikkelingsmaatschappij Antwerpen (begrotingsartikel MB0-1MDF5AQ-IS) wordt gemachtigd verbintenissen aan te gaan ten belope
+
+van 842.000 euro voor investeringen in het kader van de instandhouding van de basisinfrastructuur van de Luchthaven Antwerpen. Het bedrag van de machtiging kan aangevuld worden vanuit de provisie bedoeld onder begrotingsartikel MBU3MFF2ZZ-PR.".
+
+## Art. 20
+
+Artikel 22 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 22. De Luchthavenontwikkelingsmaatschappij Oostende-Brugge (begrotingsartikel MB0-1MDF5AR-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 1.887.000 euro voor investeringen in het kader van de instandhouding van de basisinfrastructuur van de Luchthaven Oostende-Brugge. Het bedrag van de machtiging kan aangevuld worden vanuit de provisie bedoeld onder begrotingsartikel MBU-3MFF2ZZ-PR.".
+
+## Art. 21
+
+Artikel 23 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 23. De Vlaamse Vervoermaatschappij - De Lijn (begrotingsartikel MB01MEF5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 160.399.000 euro :
+
+1° voor investeringen stationsomgevingen;
+
+2° voor de investeringen in het kader van Masterplanprojecten (Brabo 1 en Brabo 2, inclusief aanverwante investeringen);
+
+3° voor investeringen.".
+
+## Art. 22
+
+Artikel 24 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 24. Waterwegen en Zeekanaal NV wordt gemachtigd voor een bedrag van 131.598.000 euro verbintenissen aan te gaan voor investeringen in het kader van het beheer en exploitatie van waterwegen en voor investeringen in het kader van het beheer, exploitatie en commercialisatie van aan waterwegen gelegen gronden (begrotingsartikel MB0-1MIF5AV-IS).".
+
+## Art. 23
+
+Artikel 25 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 25. De nv De Scheepvaart wordt gemachtigd voor een bedrag van
+
+58.083.000 euro verbintenissen aan te gaan voor investeringen in het kader van het beheer en exploitatie van waterwegen en voor investeringen in het kader van het beheer, exploitatie en commercialisatie van aan waterwegen gelegen gronden (begrotingsartikel MB0-1MIF5AW-IS).".
+
+## Art. 24
+
+Artikel 26 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 26. § 1. De minister die bevoegd is voor de huisvesting wordt ertoe gemachtigd de VMSW in staat te stellen verbintenissen aan te gaan in het kader van het gedeelte van het deelprogramma FS3 2016 voor een bedrag van maximaal 830.420.000 euro (NE0-1NEC5AD-IS).
+
+§ 2. De minister die bevoegd is voor de huisvesting wordt ertoe gemachtigd de VMSW in staat te stellen verbintenissen aan te gaan in het kader van het gedeelte
+
+van het programma 2016 Bijzondere Sociale Leningen VMSW voor een bedrag van maximaal 453.490.000 euro (NE0-1NEC5AH-IS).
+
+§ 3. De Vlaamse minister die bevoegd is voor de huisvesting wordt ertoe gemachtigd de VMSW in staat te stellen verbintenissen aan te gaan in het kader van het rollend grondfonds van de VMSW voor een bedrag van het niet opgenomen gedeelte van de verbintenissenmachtiging van de jaren 2011, 2012, 2013 en 2014 en dit beperkt tot een bedrag van 5.000.000 euro.
+
+§ 4. De minister die bevoegd is voor de huisvesting wordt ertoe gemachtigd de VMSW in staat te stellen voor een bedrag van maximaal 10.000.000 euro verbintenissen aan te gaan, in het kader van het programma grondaankopen 2016, voor het verstrekken van bulletleningen met een overheidstussenkomst van 100% in de interestlasten (NE0-1NEC5AU-IS).
+
+§ 5. De minister die bevoegd is voor de huisvesting wordt ertoe gemachtigd de VMSW in staat te stellen voor een bedrag van maximaal 220.000.000 euro verbintenissen aan te gaan voor het verstrekken van marktconforme leningen voor de financiering van verrichtingen die onder de opdrachten van de initiatiefnemers vallen en die niet onder de programma's vermeld onder de paragrafen 1 tot en met 3 worden gefinancierd.".
+
+## WAARBORG
+
+## Art. 25
+
+De leningen die de Hogere Zeevaartschool (HZS) aangaat in functie van het vernieuwbouwproject "Fundamenten voor de toekomst" worden door de Vlaamse Gemeenschap gewaarborgd ten belope van een krediet van 15.000.000 euro op 20 jaar (2017-2037).
+
+## VOORSCHOTTEN
+
+## Art. 26
+
+Artikel 39 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 39. Binnen de perken van de begrotingskredieten op begrotingsartikel MBU3MIF2AL-WT, met jaarlijks maximaal krediet van 4.200.000 euro, worden de uitgaven gefinancierd die gedaan worden voor de uitvoering van het gezamenlijk onderzoek binnen de Vlaams Nederlandse Scheldecommissie in het kader van gemaakte afspraken tussen het Vlaamse Gewest en het Koninkrijk der Nederlanden.
+
+De modaliteiten van uitbetaling en verantwoording worden geregeld in een memorandum dat door deze overheden wordt afgesloten.
+
+Deze uitgaven worden bepaald op basis van een kostenraming voorgelegd door de bevoegde ambtenaren van Nederland en het Vlaamse Gewest, en jaarlijks afgerekend in functie van de gemaakte kosten. De rapportage over de gemaakte kosten wordt gestaafd met de verantwoordingsstukken.".
+
+## OVERSCHRIJVINGEN
+
+## Art. 27
+
+Artikel 48 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 48. De minister die bevoegd is voor Cultuur wordt ertoe gemachtigd, mits akkoord van de minister bevoegd voor Financiën en Begroting, zowel het vastleggings- als het vereffeningskrediet ingeschreven onder onderstaand begrotingsartikel in het kader van de VIA Akkoorden geheel of gedeeltelijk over te schrijven naar bestaande of eventueel nieuw in te schrijven vastleggings- als vereffeningskredieten van de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>UITVOERING VAN DE VLAAMSE INTERSECTORALE AKKOORDEN (PC 329.1) </td><td>HB0-1HCX2AF-WT</td></tr></table>
+
+".
+
+## Art. 28
+
+Artikel 50 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 50. Zowel de vastleggings- als de vereffeningskredieten ingeschreven onder de onderstaande begrotingsartikelen kunnen bij besluit van de Vlaamse Regering overgeschreven worden naar de door de Vlaamse Regering aan te duiden programma's en begrotingsartikels.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>GESUBSIDIEERDE CONTRACTUELEN TEWERKGESTELD BIJ VZW'S </td><td>JB0-1JDG2AD-WT</td></tr><tr><td>DERDE ARBEIDSCIRCUIT </td><td>JB0-1JDG2AD-WT</td></tr><tr><td>GESUBSIDIEERDE CONTRACTUELEN TEWERKGESTELD BIJ DE VLAAMSE OVERHEID </td><td>JB0-1JDG2AD-IS</td></tr><tr><td>GESUBSIDIEERDE CONTRACTUELEN TEWERKGESTELD BIJ DE PROVINCIALE EN PLAATSELIJKE OVERHEIDSDIENSTEN </td><td>JB0-1JDG2AD-WT</td></tr><tr><td>ACTIVEREN VAN TALENTEN VIA RSZ BIJDRAGEVERMINDERINGEN - DOELGROEPKORTINGEN </td><td>JB0-1JDG2AO-WT</td></tr><tr><td>ACTIVEREN VAN TALENTEN VIA DIBISS BIJDRAGEVERMINDERINGEN - (SECTORALE) DOELGROEPKORTINGEN </td><td>JB0-1JDG2AQ-WT</td></tr><tr><td>WERKING EN TOELAGEN - ACTIVEREN VAN TALENTEN - STARTBAANOVEREENKOMSTEN VLAAMSE GEMEENSCHAP </td><td>JB0-1JDG2AN-WT</td></tr></table>
+
+".
+
+## Art. 29
+
+De minister die bevoegd is voor Cultuur wordt ertoe gemachtigd, mits akkoord van de minister bevoegd voor Begroting, zowel vastleggings- als vereffeningskrediet, ingeschreven onder de beleidsprogramma's HD, HE, HG van de entiteit HB0 gedeeltelijk over te schrijven naar begrotingsartikel HB0-1HCI2AH-WT en dit met het oog op het aanvullen van de middelen voor de vergoeding van de leden van de Raden en Commissies, die georganiseerd worden binnen de entiteit HB0.
+
+## Art. 30
+
+De minister die bevoegd is voor Onderwijs wordt ertoe gemachtigd, mits akkoord van de minister bevoegd voor Begroting, zowel het vastleggings- als het vereffeningskrediet ingeschreven onder begrotingsartikel FD0-1FFE2AC-WT geheel of gedeeltelijk over te schrijven naar het begrotingsartikel FD0-1FEE2AA-WT voor de overdracht van de opleiding Bachelor in de toegepaste psychologie van het CVO Provincie Antwerpen naar de Artesis Plantijn Hogeschool Antwerpen.
+
+## Art. 31
+
+De minister die bevoegd is voor het gelijkekansen- en integratiebeleid, wordt ertoe gemachtigd, mits akkoord van de minister die bevoegd is voor Begroting, zowel het vastleggings- als het vereffeningskrediet ingeschreven onder begrotingsartikel PJ0-1POC2AA-WT gedeeltelijk over te schrijven naar begrotingsartikel JB0-1JDG2AT-WT voor de cofinanciering en het beheer van de projecten in het kader van het AMIF - Fonds voor asiel, migratie en integratie.
+
+## Art. 32
+
+De Vlaamse Regering wordt ertoe gemachtigd om in 2016, mits akkoord van de minister bevoegd voor Begroting, zowel het vastleggings- als het vereffeningskrediet over te schrijven van diverse door de Vlaamse Regering aan te duiden begrotingsartikels van de algemene uitgavenbegroting van de Vlaamse Gemeenschap naar de passende begrotingsartikels van Het Facilitair Bedrijf (entiteit PH0), het Agentschap Overheidspersoneel (entiteit PG0) en het Departement Financiën en Begroting (entiteit CB0) in het kader van de overname van de gebouwverantwoordelijkheid van grote kantoorgebouwen door Het Facilitair Bedrijf of in kader van de instap van beleidsdomeinen in de centrale dienstverlening voor facilitaire ondersteuning, personeelsadministratie en het boekhoudkantoor.
+
+## BEPERKING AANTAL ENTITEITEN
+
+## Art. 33
+
+In artikel 51 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 worden, na paragraaf 4, een paragraaf 4/1 en 4/2 ingevoegd :
+
+" § 4/1. De annulatie van openstaande vastleggingen die naar aanleiding van de opheffing van het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven ontstaan zijn uit de overdracht van vastleggingskredieten en openstaande vastleggingen naar de uitgavenbegroting van de Vlaamse ministeries of van de rechtspersonen bedoeld in artikel 4 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, geeft aanleiding tot een gelijke vrijgave van vastleggingskredieten op dezelfde basisallocaties en begrotingsartikelen van de uitgavenbegroting van de Vlaamse ministeries of van de bedoelde rechtspersoon.
+
+§ 4/2. In afwijking van de bepalingen van artikel 13, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt het onbelast kredietsaldo in vastleggingskrediet op 31 december 2016 overgedragen naar het begrotingsjaar 2017 voor onderstaande basisallocaties en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2017 voor het bedrag dat naar aanleiding van de opheffing van het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven werd overgeheveld.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>TOERISTISCHE INFRASTRUCTUUR </td><td>DB0-1DGF2AY-IS</td></tr><tr><td>ONDERZOEK DOOR AGENTSCHAPPEN (EX-FFEU) </td><td>EB0-1EEG2AH-WT</td></tr><tr><td>PLANTENTUIN MEISE INVESTERINGSSUBSIDIES (FFEU) </td><td>EB0-1EEG5AU-IS</td></tr><tr><td>GEMEENSCHAPSONDERWIJS - INVESTERINGSPROJECTEN </td><td>FC0-1FGE2AV-IS</td></tr><tr><td>AGION - INVESTERINGSPROJECTEN </td><td>FC0-1FGE2AW-IS</td></tr><tr><td>INVESTERINGEN HOGER ONDERWIJS </td><td>FD0-1FGE2AI-WT</td></tr><tr><td>LNE DAB MINAFONDS - FFEU PROJECT ``BROWNFIELDS EN WATERBEHEERSING (PROJECT 2003)'' </td><td>LBC-3LCH2AD-WT</td></tr><tr><td>LNE DAB MINAFONDS - FFEU PROJECTEN ``BODEMSANERING VIA OVAM (PROJECTEN 2007 EN 2008)'' </td><td>LBC-3LCH2AE-WT</td></tr><tr><td>LNE DAB MINAFONDS - FFEU PROJECT ``DUURZAME MILIEU-INVESTERINGEN (PROJECT 2002)'' </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>EVA WATERWEGEN EN ZEEKANAAL NV - INVESTERINGSBIJDRAGEN </td><td>MB0-1MIF5AV-IS</td></tr><tr><td>EVA NV DE SCHEEPVAART - INVESTERINGSBIJDRAGEN </td><td>MB0-1MIF5AW-IS</td></tr><tr><td>COMBIMOBILITEIT </td><td>MBU-3MFF2AE-WT</td></tr><tr><td>FFEU - FIETSPADEN </td><td>MDU-3MHF2AG-WT</td></tr><tr><td>FFEU - GEVAARLIJKE PUNTEN </td><td>MDU-3MHF2AG-WT</td></tr><tr><td>FFEU - MISSING LINKS </td><td>MDU-3MHF2AG-WT</td></tr><tr><td>SOCIALE HUISVESTING </td><td>NE0-1NEC2AC-IS</td></tr><tr><td>AANDEEL VAN HET VLAAMSE GEWEST IN DE TOEKENNING VAN EEN RESTAURATIEPREMIE TOEGEKEND VIA DE FFEU-PROTOCOLLEN 2012 EN 2013 (BVR 14 DECEMBER 2001) </td><td>NF0-1NFA2AI-WT</td></tr><tr><td>HOLOCAUST MUSEUM MECHELEN </td><td>PA0-1PEA2AH-WT</td></tr><tr><td>ONDERSTEUNING STADSVERNIEUWINGSPROJECTEN </td><td>PJ0-1PNC2AB-WT</td></tr></table>
+
+".
+
+## PROVISIONELE KREDIETEN
+
+## Art. 34
+
+Artikel 52 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt geschrapt.
+
+## Art. 35
+
+Artikel 53 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt geschrapt.
+
+## Art. 36
+
+Artikel 60 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt geschrapt.
+
+## VRIJSTELLING VOORAFGAAND VISUM CONTROLEUR VAN DE VASTLEGGINGEN
+
+## Art. 37
+
+Artikel 65 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 65. In uitvoering van artikel 7, § 1, 28°, en § 2, van het besluit van de Vlaamse Regering van 14 oktober 2011 betreffende de boekhoudregels en de aanrekeningsregels die van toepassing zijn op de Vlaamse ministeries, en betreffende de controle op de vastleggingskredieten, mogen volgende uitgaven gelijktijdig aangerekend worden op het vastleggingskrediet en op het vereffeningskrediet, onverminderd de bepalingen van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof :
+
+1° de pensioenen voor de vastbenoemde personeelsleden van de VRT en de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden uitbetaald door de Vlaamse Gemeenschap;
+
+2° de betaling van de moratoriumintresten verschuldigd aan belastingplichtigen in het kader van de inning van de erfen registratiebelasting door het Vlaamse Gewest en van de planbatenheffing;
+
+3° het vervangend leefloon voor personen onder elektronisch toezicht;
+
+4° de werkingskosten, ongeacht het bedrag, op onderstaande begrotingsartikelen :
+
+<table><tr><td>Begrotingsartikel</td></tr><tr><td>DB0-1DAX2ZZ-WT</td></tr><tr><td>EB0-1EAG2ZZ-WT</td></tr><tr><td>EC0-1EAG2ZZ-WT</td></tr><tr><td>EC0-1EAG4ZZ-WT</td></tr><tr><td>FB0-1FAE2ZZ-WT</td></tr><tr><td>FC0-1FAE2ZZ-WT</td></tr><tr><td>GB0-1GAD2ZZ-WT</td></tr><tr><td>GD0-1GAD2ZZ-WT</td></tr><tr><td>GE0-1GAD2ZZ-WT</td></tr><tr><td>HB0-1HAI2ZZ-WT</td></tr><tr><td>JB0-1JAX2ZZ-WT</td></tr><tr><td>JB0-1JAX4ZZ-WT</td></tr><tr><td>KB0-1KAH2ZZ-WT</td></tr><tr><td>KD0-1KAH2ZZ-WT</td></tr><tr><td>LB0-1LAX2ZZ-WT</td></tr><tr><td>LD0-1LAH2ZZ-WT</td></tr><tr><td>LE0-1LAB2ZZ-WT</td></tr><tr><td>MB0-1MAF2ZZ-WT</td></tr><tr><td>MC0-1MAF2ZZ-WT</td></tr><tr><td>MD0-1MAF2ZZ-WT</td></tr><tr><td>PA0-1PAX2ZZ-WT</td></tr><tr><td>PB0-1PAC2ZZ-WT</td></tr><tr><td>PF0-1PAA2ZZ-WT</td></tr></table>
+
+5° de subsidies en loontegemoetkomingen, ongeacht het bedrag, op onderstaande begrotingsartikelen :
+
+<table><tr><td>Begrotingsartikel</td></tr><tr><td>JB0-1JDG2AL-WT</td></tr><tr><td>JB0-1JEC2AA-WT</td></tr><tr><td>JB0-1JFG2AB-WT</td></tr></table>
+
+".
+
+## DIVERSE ANDERE BEPALINGEN
+
+## Art. 38
+
+Artikel 67 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 67. § 1. De dotatie aan het Gemeenschapsonderwijs bestemd voor het centraal niveau, is de som van :
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>Aan het gemeenschapsonderwijs - schoolinfrastructuur </td><td>FB0-1FGE2AJ-IS</td></tr><tr><td>Aan het gemeenschapsonderwijs - infrastructuur </td><td>FC0-1FGE2AV-IS</td></tr><tr><td>Aan het gemeenschapsonderwijs - het Vormingsfonds MVD-personeel </td><td>FC0-1FGE2AX-IS</td></tr><tr><td>Aan het gemeenschapsonderwijs - algemene werking administratie </td><td>FC0-1FGE2AX-IS</td></tr><tr><td>Aan het gemeenschapsonderwijs - personeel in overtal </td><td>FC0-1FGE2AX-IS</td></tr><tr><td>Aan het gemeenschapsonderwijs - conventie onderwijs </td><td>FC0-1FGE2AX-IS</td></tr><tr><td>Aan het gemeenschapsonderwijs - CFO </td><td>FC0-1FGE2AX-IS</td></tr><tr><td>Aan het gemeenschapsonderwijs - Grote infrastructuurwerken </td><td>FC0-1FGEI5AV-IS</td></tr></table>
+
+§ 2. De toegekende middelen, in strijd met bestaande wettelijke, decretale of reglementaire bepalingen betreffende de investeringsmiddelen bedoeld in artikel 17 van dit decreet worden in mindering gebracht op de laatste schijf van de aan het Gemeenschapsonderwijs of aan de aan zijn instellingen toegekende werkingsmiddelen, conform artikel 192 van het decreet betreffende het onderwijs-II van 31 juli 1990.".
+
+## Art. 39
+
+Artikel 80 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt geschrapt.
+
+## Art. 40
+
+Artikel 81 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt geschrapt.
+
+## Art. 41
+
+Artikel 86 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt geschrapt.
+
+## Art. 42
+
+Aan de gemeente Ranst, Gustaaf Peetersstraat 7 te 2520 Ranst, wordt het saldo vastgelegd en uitbetaald, groot 12.284,89 euro, van de bij ministerieel besluit van 8 juni 1999 toegekende restauratiepremie voor de restauratie van het oud-gemeentehuis te Emblem (Ranst).
+
+## Art. 43
+
+Aan de heer Robert Depondt, Biezenstraat 3 te 8377 Meetkerke, wordt het saldo uitbetaald, groot 33.863,39 euro, van de op 11 juni 2009 toegekende premie voor de restauratie van de molentechniek van de Stenen Poldermolen van de Moeren te Zuienkerke (Meetkerke).
+
+## Art. 44
+
+De Vlaamse minister, bevoegd voor Onroerend Erfgoed, wordt ertoe gemachtigd om, binnen de perken van de onder begrotingsartikel NF0-1NFA2AI-PA ingeschreven kredieten, leningen te verstrekken ter ondersteuning van investeringen in beschermd onroerend erfgoed en met het oog op het behoud en de versterking van de erfgoedwaarde van onroerende goederen opgenomen in een vastgestelde inventaris. Hij kan hiervoor de modaliteiten bepalen evenals de procedure voor aanvraag en toekenning. Voor het verstrekken van deze leningen kan hij ook gebruikmaken van de diensten van het Participatiefonds Vlaanderen.
+
+## COFINANCIERING
+
+## Art. 45
+
+Artikel 91 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 91. Ten laste van de hierna vermelde begrotingsartikelen mogen op een thesaurierekening begrotingsgelden worden gestort in de rekening van de gewone rekenplichtige belast met de betaling van uitgaven waarvan derden de cofinanciering voor hun rekening nemen.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>WERKING EN TOELAGEN - VLAAMSE SAMENWERKING MET REGIO'S EN LANDEN IN ONTWIKKELING </td><td>DB0-1DEA2AA-WT</td></tr><tr><td>PREVENTIEVE GEZONDHEIDSBELEID (TEN DELE EU-COFINANCIERING) </td><td>GE0-1GDD2AE-WT</td></tr><tr><td>WERKING LANDBOUW-, ZEEVISSERIJEN AGRARISCH PLATTELANDSBELEID </td><td>KB0-1KDH2AA-WT</td></tr><tr><td>TOELAGEN LANDBOUW-, ZEEVISSERIJEN AGRARISCH PLATTELANDSBELEID </td><td>KB0-1KDH2AC-WT</td></tr><tr><td>TOELAGEN LANDBOUW-, ZEEVISSERIJEN AGRARISCH PLATTELANDSBELEID </td><td>KB0-1KDH4AC-WT</td></tr><tr><td>UITVOERING GBCS EN ERKENNING VLAAMS BETAALORGAAN </td><td>KB0-1KDH2AF-WT</td></tr><tr><td>UITVOERING LANDBOUWEN AGRARISCH PLATTELANDSBELEID </td><td>KB0-1KDH2AG-WT</td></tr><tr><td>WERKING EN TOELAGEN - LANDBOUW EN NATUUR : PARTNERS IN EEN MULTIFUNCTIONEEL LANDELIJK GEBIED </td><td>LB0-1LCH2AH-WT</td></tr><tr><td>INTERNE STROMEN - VLM </td><td>LB0-1LCH2AY-IS</td></tr><tr><td>WERKING EN TOELAGEN IMPULSPROJECTEN ENERGIEBELEID </td><td>LB0-1LEB4AC-WT</td></tr><tr><td>LANDBOUW EN NATUUR : PARTNERS IN EEN MULTIFUNCTIONEEL LANDELIJK GEBIED </td><td>LBC-3LCH2AH-WT</td></tr><tr><td>INTERNE STROMEN VLM </td><td>LBC-3LCH2AY-IS</td></tr><tr><td>HET EINDENERGIEVERBRUIK EFFICIENTER MAKEN </td><td>LE0-1LEB2AB-WT</td></tr><tr><td>IMPULSPROJECTEN ENERGIEBELEID </td><td>LE0-1LEB4AC-WT</td></tr><tr><td>PROVISIES </td><td>LE0-1LEB4ZZ-PR</td></tr></table>
+
+".
+
+## DIENSTEN MET AFZONDERLIJK BEHEER
+
+## Art. 46
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Catering en Schoonmaak".
+
+De begroting beloopt voor de ontvangsten 17.328.000 euro.
+
+De begroting beloopt voor de uitgaven 10.147.000 euro in vastleggingen en 17.328.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 47
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "ICT".
+
+De begroting beloopt voor de ontvangsten 67.441.000 euro.
+
+De begroting beloopt voor de uitgaven 45.717.000 euro in vastleggingen en67.441.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 48
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer ``Overheidspersoneel''.
+
+De begroting beloopt voor de ontvangsten 10.761.000 euro.
+
+De begroting beloopt voor de uitgaven 5.333.000 euro in vastleggingen en 10.761.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 49
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Fonds Microfinanciering".
+
+De begroting beloopt voor de ontvangsten 1.056.000 euro.
+
+De begroting beloopt voor de uitgaven 123.000 euro in vastleggingen en 1.056.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 50
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer ``Fonds Inschrijvingsgelden Centra voor Volwassenenonderwijs''.
+
+De begroting beloopt voor de ontvangsten 13.353.000 euro.
+
+De begroting beloopt voor de uitgaven 5.605.000 euro in vastleggingen en 13.353.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 51
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "CICOV".
+
+De begroting beloopt voor de ontvangsten 789.000 euro.
+
+De begroting beloopt voor de uitgaven 526.000 euro in vastleggingen en 789.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 52
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Landcommanderij Alden Biesen".
+
+De begroting beloopt voor de ontvangsten 1.360.000 euro.
+
+De begroting beloopt voor de uitgaven 1.156.000 euro in vastleggingen en 1.360.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+De Vlaamse minister bevoegd voor Cultuur kan aan het instellingshoofd van de DAB "Landcommanderij Alden Biesen" een kasvoorschot voor dringende uitgaven ter beschikking stellen van maximaal 12.000 euro. Het instellingshoofd is er toe gehouden de aanwending van dit kasvoorschot te verantwoorden.
+
+De Vlaamse minister bevoegd voor Cultuur wordt gemachtigd om aan de DAB toestemming te geven om bijkomende verbintenissen aan te gaan ten belope van de eventueel door de DAB gerealiseerde meerontvangsten, voortvloeiend uit de werking 2016.
+
+## Art. 53
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Kasteel van Gaasbeek".
+
+De begroting beloopt voor de ontvangsten 1.421.000 euro.
+
+De begroting beloopt voor de uitgaven 995.000 euro in vastleggingen en 1.421.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+De Vlaamse minister bevoegd voor Cultuur kan aan het instellingshoofd van de DAB "Kasteel van Gaasbeek" een kasvoorschot voor dringende uitgaven ter beschikking stellen van maximaal 12.000 euro. Het instellingshoofd is er toe gehouden de aanwending van dit kasvoorschot te verantwoorden.
+
+De Vlaamse minister bevoegd voor Cultuur wordt gemachtigd om aan de DAB toestemming te geven om bijkomende verbintenissen aan te gaan ten belope van de eventueel door de DAB gerealiseerde meerontvangsten voortvloeiend uit de werking van 2016.
+
+## Art. 54
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer ``Koninklijk Museum voor Schone Kunsten Antwerpen" (KMSKA).
+
+De begroting beloopt voor de ontvangsten 4.587.000 euro.
+
+De begroting beloopt voor de uitgaven 3.034.000 euro in vastleggingen en 4.587.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+De Vlaamse minister bevoegd voor Cultuur kan aan het instellingshoofd van de DAB "Koninklijk Museum voor Schone Kunsten Antwerpen" een kasvoorschot voor dringende uitgaven ter beschikking stellen van maximaal 12.000 euro. Het instellingshoofd is er toe gehouden de aanwending van dit kasvoorschot te verantwoorden.
+
+De Vlaamse minister bevoegd voor Cultuur wordt ertoe gemachtigd om aan de DAB toestemming te geven om bijkomende verbintenissen aan te gaan ten belope van de eventueel door de DAB gerealiseerde meerontvangsten voortvloeiend uit de werking van het jaar 2016.
+
+## Art. 55
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Uitleendienst Kampeermateriaal voor de Jeugd".
+
+De begroting beloopt voor de ontvangsten 1.400.000 euro.
+
+De begroting beloopt voor de uitgaven 1.221.000 euro in vastleggingen en 1.400.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 56
+
+§ 1. Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Fonds voor Preventie en Sanering inzake Leefmilieu en Natuurbehoud", afgekort Minafonds.
+
+De begroting beloopt voor de ontvangsten 627.147.000 euro.
+
+De begroting beloopt voor de uitgaven 451.330.000 euro in vastleggingen en 627.147.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden geraamd op respectievelijk 0 euro en 0 euro.
+
+§ 2. De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren werden vastgelegd ten laste van de vastleggingskredieten van artikels waarvan de nummering inmiddels werd gewijzigd of overgegaan zijn in andere begrotingsartikelen van het Minafonds, of die werden overgeheveld naar de toenmalige programma's 61.10, 61.20, 61.30 of 61.50 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap, mogen worden aangerekend op de overeenstemmende begrotingsartikelen van de begroting voor het jaar 2016, waarop de vastleggingen worden geacht te zijn aangerekend en waarnaar zij worden overgebracht.
+
+§ 3. Binnen de perken van de kredieten op onderstaande begrotingsartikelen van de DAB Minafonds wordt de minister bevoegd voor het plattelandsbeleid gemachtigd om subsidies toe te kennen.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>COFINANCIERING VLAAMSE GEWEST VOOR PLATTELANDSPROJECTEN EN LEADERGROEPEN INGEVOLGE HET PLATTELANDSONTWIKKELINGSPROGRAMMA VOOR VLAANDEREN </td><td>LBC-3LCH2AK-WT</td></tr><tr><td>PROJECTSUBSIDIES IN HET KADER VAN GEINTEGREERD PLATTELANDSBELEID VOOR VLAANDEREN </td><td>LBC-3LCH2AK-WT</td></tr><tr><td>PLATTELAND PLUS </td><td>LBC-3LCH2AK-WT</td></tr><tr><td>EVA VLAAMSE LANDMAATSCHAPPIJ VOOR PLATTELANDSBELEID </td><td>LBC-3LCH2AY-IS</td></tr></table>
+
+§ 4. Binnen de perken van de kredieten op onderstaande begrotingsartikelen van de DAB Minafonds wordt de minister bevoegd voor het leefmilieu gemachtigd om subsidies toe te kennen.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>UITVOERING VAN HET MILIEUBELEIDSPLAN 1997-2002 EN HET MILIEUJAARPROGRAMMA 2003 </td><td>LBC-3LCH2AA-WT</td></tr><tr><td>MILIEUCONVENANTEN EN SAMENWERKINGSOVEREENKOMSTEN MET HET VLAAMSE GEWEST </td><td>LBC-3LCH2AA-WT</td></tr><tr><td>SUPRAEN INTERNATIONAAL MILIEUBELEID EN ONTWIKKELINGSSAMENWERKING </td><td>LBC-3LCH2AB-WT</td></tr><tr><td>PROJECTEN MBT INFORMATIE, SENSIBILISERING, NATUUREN MILIEU-EDUCATIE, EN NATUURTECHN. MILIEUBOUW, PROJECT VAKBONDSORGANISATIES, PROJECTEN ROND DRAAGVLAKVERBREDING LANDBOUW EN MILIEU EN PROJECT CONSULENTEN </td><td>LBC-3LCH2AC-WT</td></tr><tr><td>PROJECTSUBSIDIES INZAKE DUURZAAM MILIEUEN NATUURBELEID </td><td>LBC-3LCH2AC-WT</td></tr><tr><td>MILIEUCONVENANTEN EN SAMENWERKINGSOVEREENKOMSTEN MET HET VLAAMSE GEWEST </td><td>LBC-3LCH2AC-WT</td></tr><tr><td>STEUN AAN LOKALE OVERHEDEN DOOR DE VLAAMSE OVERHEID IN HET KADER VAN HET VLAAMSE MILIEUBELEIDSPLAN 2011-2015 (MAATREGELENPAKKET 13) </td><td>LBC-3LCH2AC-WT</td></tr><tr><td>VOOR DE AANLEG VAN GEMEENTELIJKE RIOLERINGEN, DE BOUW VAN KLEINSCHALIGE RIOOLWATERZUIVERINGSINSTALLATIES MET INBEGRIP VAN DE AANLEG VAN INDIVIDUELE WATERZUIVERINGSINSTALLATIES EN DE AANLEG VAN PRIVATE WATERZUIVERINGSINSTALLATIES </td><td>LBC-3LCH2AD-WT</td></tr><tr><td>VOOR DE AANLEG VAN RIOLERINGEN (BVR 1 FEBRUARI 2002) EN AANVULLENDE BIJDRAGE AAN GEMEENTEBESTUREN VOOR DE AANLEG OF VERBETERING VAN RIOLERINGEN </td><td>LBC-3LCH2AD-WT</td></tr><tr><td>DRINKWATERMAATSCHAPPIJEN EN OPENBARE BESTUREN VOOR DE UITBOUW VAN TWEEDECIRCUITWATER TER BESCHERMING VAN HET GRONDWATER (PRO MEMORIE) </td><td>LBC-3LCH2AD-WT</td></tr><tr><td>OVERDRACHT FINANCIELE FONDSEN BODEMSANERING </td><td>LBC-3LCH2AE-WT</td></tr><tr><td>ERKENDE KRINGLOOPCENTRA </td><td>LBC-3LCH2AO-WT</td></tr><tr><td>ONDERSTEUNING VAN PREVENTIE (COMPOST.V.A.TEN, INFORMATIESTANDS, DEMOPLAATSEN COMPOSTMEESTERS, ...) EN SELECTIEVE INZAMELING </td><td>LBC-3LCH2AO-WT</td></tr><tr><td>ONDERSTEUNING PREVENTIE, SELECTIEVE INZAMELING (CONTAINERPARKEN, CONTAINERS, DIFTARSYSTEMEN,...) EN HET BOUWEN VAN INSTALLATIES (GROENEN GFT-COMPOSTERING, SORT. GROFVUIL) (DECR. 23 DECEMBER 2011 IN VERBAND MET VOORKOMING EN BEHEER AFVALSTOFFEN) </td><td>LBC-3LCH2AO-WT</td></tr><tr><td>IN HET KADER VAN FLANKERENDE MAATREGELEN MAP AAN PRAKTIJKCENTRA, WATERGROEPERINGEN EN ANDERE ACTOREN </td><td>LBC-3LCH2AJ-WT</td></tr><tr><td>VERGOEDINGEN (INCLUSIEF BEHEERSOVEREENKOMSTEN) INGEVOLGE GEBIEDSGERICHTE VERSCHERPINGEN IN UITVOERING VAN HET MESTDECREET VAN 23 JANUARI 1991 EN INGEVOLGE HET PLATTELANDSONTWIKKELINGSPROGRAMMA VOOR VLAANDEREN MET TEN DELE COFINANCIERING </td><td>LBC-3LCH2AL-WT</td></tr><tr><td>PREMIES VOOR DE AANKOOP EN INSTALLATIE VAN EMISSIEVERMINDERENDE VOORZIENINGEN IN VOERTUIGEN MET EEN DIESELMOTOR </td><td>LBC-3LCH2AM-WT</td></tr><tr><td>CONVENANT MET UMICORE (WERKINGSDOTATIE BBF) </td><td>LBC-3LCH2AV-IS</td></tr><tr><td>CONVENANT MET UMICORE (INVESTERINGSDOTATIE BBF) </td><td>LBC-3LCH2AV-IS</td></tr><tr><td>UITEENLOPENDE ACTOREN VOOR HET NATUUR-, BOSEN GROENBEHEER VIA GROENE, DUURZAME JOBS TOEGANKELIJK VOOR KANSENGROEPEN </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>VERBETERING EN INSTANDHOUDING VAN DE NATUURKWALITEIT IN DE OPEN RUIMTEN (DECREET VAN 21 OKTOBER 1997 BETREFFENDE HET NATUURBEHOUD EN HET NATUURLIJK MILIEU) </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>VLAAMS FONDS TROPISCH BOS </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>BOSBEHEER, DE GROENVOORZIENING, DE VISSERIJ, DE JACHT EN DE VOGELBESCHERMING EN AAN WILDBEHEEREENHEDEN </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>VZW FAIR TIMBER EN VZW PEFC BELGIE VOOR DE ONDERSTEUNING AAN LOKALE OVERHEDEN OP VLAK VAN DUURZAAM GEEXPLOITEERD HOUT IN HET KADER VAN DE SAMENWERKINGSOVEREENKOMST (2008-2013) </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>GROEN IN DE ST<b> Opheffing : </b> ONDERSTEUNING VAN VOORBEELDSTELLENDE PROJECTEN VAN PARTICULIEREN EN VERENIGINGEN TER VERGROENING VAN DE STAD </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>GROEN IN DE ST<b> Opheffing : </b> ONDERSTEUNING VAN VOORBEELDSTELLENDE PROJECTEN VAN ONDERWIJSINSTELLINGEN TER VERGROENING VAN DE STAD </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>VZW NATUURVERENIGING DEN BUNT VOOR HET ORGANISEREN VAN BOSKLASSEN IN HET BOSHUIS TE RAVELS </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>SUPRA- EN INTERNATIONAAL NATUUR- EN BOSBELEID </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>NATUURVERENIGINGEN VOOR DE VERWERVING VAN NATUURGEBIEDEN </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>VERBETERING VAN DE NATUURKWALITEIT IN DE OPEN RUIMTEN (DECREET VAN 21 OKTOBER 1997 BETREFFENDE HET NATUURBEHOUD EN HET NATUURLIJK MILIEU) </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>BOSBEHEER, DE GROENVOORZIENING, DE VISSERIJ, DE JACHT EN DE VOGELBESCHERMING (O.A. SUBSIDIES VOOR DE BEBOSSING VAN LANDBOUWGRONDEN) </td><td>LBC-3LCH2AF-WT</td></tr><tr><td>VERBETERING EN INSTANDHOUDING VAN DE NATUURKWALITEIT EN HET VERHOGEN VAN DE BIODIVERSITEIT (INCLUSIEF UITGAVEN MET EU COFINANCIERING) </td><td>LBC-3LCH2AF-WT</td></tr></table>
+
+§ 5. De Vlaamse minister bevoegd voor het leefmilieu wordt ertoe gemachtigd om in het kader van het intersyndicaal project voor de versterkte milieuwerkingen van de vakbonden i.c. ACV, ABVV en ACLVB een gezamenlijke subsidie van maximaal 170.000 euro toe te kennen ten laste van het begrotingsartikel LBC-3LCH2AC-WT.
+
+In hetzelfde kader wordt de Vlaamse minister bevoegd voor het leefmilieu er eveneens toe gemachtigd om de werkgeversorganisaties, onder andere Voka, NEOS en UNIZO, een gezamenlijke subsidie van maximaal 80.000 euro toe te kennen ten laste van het begrotingsartikel LBC-3LCH2AC-WT.
+
+§ 6. Daarnaast wordt aan de vzw Bond Beter Leefmilieu Vlaanderen een subsidie toegekend van maximaal 32.000 euro en dit voor het project "Milieukoopwijzer". Tevens wordt aan de provincie Oost-Vlaanderen een subsidie toegekend van maximaal 37.000 euro voor het bezoekerscentrum Bastion VIII in Dendermonde en een subsidie van maximaal 88.000 euro aan de provincie Limburg voor het bezoekerscentrum De Watersnip in Beringen.
+
+§ 7. Aan de Vlaamse Architectenorganisatie wordt een subsidie toegekend ten bedrage van maximum 143.000 euro voor het project "consulent waterbewust bouwen".
+
+§ 8. De minister die bevoegd is voor het leefmilieu wordt ertoe gemachtigd, na advies van de Inspectie van Financiën, om bij de uitbetaling van subsidies verrekeningen uit te voeren van terugvorderingen van eerder uitbetaalde subsidies voor andere niet of gedeeltelijk uitgevoerde engagementen binnen het onderstaande begrotingsartikel.
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>MILIEUCONVENANTEN EN SAMENWERKINGSOVEREENKOMSTEN MET HET VLAAMSE GEWEST </td><td>LBC-3LCH2AC-WT</td></tr></table>
+
+§ 9. De Vlaamse minister bevoegd voor het leefmilieu wordt ertoe gemachtigd om ten laste van de begroting van het Minafonds aan het Transitienetwerk Plan C een subsidie toe te kennen ten bedrage van maximaal 300.000 euro voor het project "duurzaam materialenbeheer". De subsidie zal aangerekend worden op begrotingsartikel LBC-3LCH2AO-WT.
+
+## Art. 57
+
+§ 1. Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Vlaams Infrastructuurfonds".
+
+De begroting beloopt voor de ontvangsten 825.542.000 euro en voor de uitgaven 625.954.000 euro in vastleggingen en 825.542.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+§ 2. De minister die bevoegd is voor Openbare Werken wordt ertoe gemachtigd het gedeelte van de uitgaven die ten laste van het Vlaamse Gewest voortvloeien uit gecombineerde werken en projecten tussen enerzijds het Ministerie van de Vlaamse Gemeenschap, administratie Wegen en Verkeer en anderzijds de nv Aquafin, Dijkstraat 8 te Aartselaar, en voor welke laatstgenoemde instantie optreedt als opdrachtgever, ten laste te brengen van de begroting van de DAB "Vlaams Infrastructuurfonds".
+
+Deze machtiging is onderworpen aan onderstaande voorwaarden :
+
+1° de gecombineerde werken en projecten dienen te geschieden op basis van een overeenkomst;
+
+2° de inbreng in de gecombineerde werken en projecten van de nv Aquafin dient minimaal 70% te zijn;
+
+3° de administratieve en begrotingscontrole is van toepassing op het aandeel van het Vlaamse Gewest.
+
+§ 3. De DAB "Vlaams Infrastructuurfonds" wordt ertoe gemachtigd de uitgaven voortvloeiend uit vonnissen en arresten van de hoven en rechtbanken, alsmede in voorkomend geval, van dadingen en andere minnelijke regelingen, aangaande geschillen gerezen ingevolge beslissingen van de krachtige bevoegde overheden en/ of rechtsvoorgangers, inzake de aangelegenheden thans bedoeld in artikel 6, § 1, X, 1ste tot en met 5de, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij de bijzondere wet van 8 augustus 1988, ten laste te brengen van zijn begroting.
+
+§ 4. Binnen de perken van de kredieten geopend op de volgende begrotingsartikelen van de DAB "Vlaams Infrastructuurfonds", wordt de bevoegde minister ertoe gemachtigd de volgende subsidies toe te kennen :
+
+<table><tr><td>OMSCHRIJVING </td><td>BEGROTINGSARTIKEL</td></tr><tr><td>VZW IMINDS </td><td>MBU-3MFF2AA-WT</td></tr><tr><td>IN HET KADER VAN DE COFINANCIERING DOOR HET VLAAMSE GEWEST VAN EUROPESE STEUNPROGRAMMA'S </td><td>MBU-3MFF2AA-WT</td></tr><tr><td>MOBILITEITS&amp; BEREIKBAARHEIDSMANAGERS (MBM) </td><td>MBU-3MFF2AA-WT</td></tr><tr><td>TER ONDERSTEUNING VAN HET BOVENLOKAAL FIETSBELEID EN DE UITVOERING VAN HET VERKEERSVEILIGHEIDSPLAN TUSSEN DE VIJF VLAAMSE PROVINCIES EN DE VLAAMSE OVERHEID </td><td>MBU-3MFF2AD-WT</td></tr><tr><td>COEN PREFINANCIERING DOOR HET VLAAMSE GEWEST VAN WERKEN UITGEVOERD DOOR DE NMBS EN DE KOSTEN VERBONDEN AAN SPECIFIEKE STUDIES </td><td>MBU-3MFF2AE-WT</td></tr><tr><td>FFEU-COFINANCIERING </td><td>MBU-3MFF2AE-WT</td></tr><tr><td>AAN DE VZW CARGO COMMUNITY SYSTEM VOOR DE UITBOUW VAN HET CCS EN AAN BEDRIJVEN IN HET KADER VAN COFINANCIERING DOOR HET VLAAMSE GEWEST VAN EUROPESE STEUNPROGRAMMA'S </td><td>MBU-3MIF2AL-WT</td></tr><tr><td>INTERCOMMUNALE KUSTREDDINGSDIENSTEN WEST-VLAANDEREN </td><td>MCU-3MIF2AD-WT</td></tr><tr><td>IN HET KADER VAN DE COFINANCIERING DOOR HETVLAAMSE GEWEST VAN EUROPESE STEUNPROGRAMMA'S </td><td>MDU-3MHF2AD-WT</td></tr><tr><td>INVESTERINGSSUBSIDIES TER ONDERSTEUNING VAN HET FIETSEN DOORTOCHTENBELEID EN SCHOOLOMGEVINGEN EN OVERDRACHT VAN WEGEN </td><td>MDU-3MHF2AD-WT</td></tr><tr><td>AANLEGGEN VAN RIOLERINGEN EN GESCHEIDEN AFVOERSYSTEMEN VAN HEMELWATER DIE UITGEVOERD WORDEN IN COMBINATIE MET WEGENISWERKEN DOOR HET VLAAMSE GEWEST </td><td>MDU-3MHF2AD-WT</td></tr></table>
+
+§ 5. De bevoegde minister wordt ertoe gemachtigd om, binnen de perken van de ingeschreven kredieten op de begrotingsartikelen MBU-3MIF2AL-WT, MCU-3MIF2ADWT en MDU-3MHF2AD-WT, de kosten verbonden aan de verplaatsing van gas-, water en elektriciteitsleidingen en rioleringen in het kader van de verbetering van de infrastructuur van het openbaar vervoer, aan de nutsbedrijven te betalen.
+
+§ 6. De bevoegde minister wordt ertoe gemachtigd om, binnen de perken van de ingeschreven kredieten op de begrotingsartikelen MBU-3MIF2AL-WT en MCU-3MIF2AA-WT, de verschuldigde milieuheffingen voor het storten van baggerspecie te betalen aan de instanties gemachtigd tot het innen van deze heffingen.
+
+§ 7. De bevoegde minister wordt ertoe gemachtigd om, binnen de perken van de ingeschreven kredieten op de begrotingsartikelen MBU-3MIF2AL-WT en MCU3MIF2AD-WT, aan de havenbesturen voorschotten uit te keren op de door het Vlaamse Gewest verschuldigde bedragen ingevolge het sluiten van financieringsovereenkomsten tussen het Vlaamse Gewest en de havenbesturen.
+
+Deze voorschotten kunnen aan de havenbesturen worden betaald conform de bepalingen van de artikelen 9, 10, 11 en 12 van het besluit van de Vlaamse Regering van 10 november 1993 betreffende het subsidiëringbesluit van de investeringen in de zeehavens voor de in bijlage II van het besluit van de Vlaamse Regering van 13 juli 2001 opgesomde projecten en volgens artikel 8 van ditzelfde besluit voor de andere projecten.
+
+§ 8. De bevoegde minister wordt ertoe gemachtigd om, binnen de perken van de begroting van het Vlaams Infrastructuurfonds, kosten aan te rekenen en voorschotten toe te staan in het kader van de onteigeningen ingevolge het flankerend sociaal beleid in de zeehavengebieden op de begrotingsartikelen MBU-3MIF2AL-WT en MBU-3MIF2AU-IS, en voor de realisatie van globale begeleidingsplannen in de Vlaamse zeehavens op begrotingsartikel MBU-3MIF2AL-WT.
+
+§ 9. De bevoegde minister wordt ertoe gemachtigd met de NMBS en spoorwegoperatoren, de EVA's nv De Scheepvaart en Waterwegen en Zeekanaal NV en de binnenvaartexploitanten, onderhandelingen te voeren en gezamenlijke initiatieven te nemen voor het bevorderen van het intermodaal vervoer via de binnenvaart en/ of het spoor, zoals onder meer de opstarting van shuttles en/of bloktreinen gaande van en naar de Vlaamse zeehavens, met inbegrip van de daaraan verbonden kosten voor specifieke studies. De samenwerkingsakkoorden mogen de duur van drie jaar niet overschrijden behalve met instemming van de Vlaamse Regering.
+
+§ 10. De bevoegde minister wordt ertoe gemachtigd om, binnen de perken van de ingeschreven kredieten, kosten aan te rekenen in verband met de aanstelling van een sociaal bemiddelaar en twee regeringscommissarissen in uitvoering van het Havendecreet voor de lonen, sociale lasten en toelagen op begrotingsartikel MBU-3MFF2ZZ-LO, en voor de werkingskosten op MBU-3MFF2AA-WT. Tevens wordt hij gemachtigd om kosten aan te rekenen voor werkingskosten van de Lange Termijnvisie Westerschelde op begrotingsartikel MBU-3MFF2AA-WT.
+
+§ 11. De bevoegde minister wordt ertoe gemachtigd om de ontvangsten uit overdracht van gronden naar Waterwegen en Zeekanaal NV, toe te wijzen aan het Vlaams Infrastructuurfonds.
+
+§ 12. De vereffeningen van de uitgaven die in de loop van de vorige begrotingsjaren werden vastgelegd ten laste van vastleggingskredieten en vastleggingsmachtigingen van basisallocaties of begrotingsartikelen die afgeschaft zijn of overgegaan in andere basisallocaties of begrotingsartikelen, mogen worden aangerekend op de overeenstemmende begrotingsartikelen van de begroting voor het jaar 2016.
+
+§ 13. Het IVA Wegen en Verkeer wordt gemachtigd om de ontvangsten in het kader van de beteugeling van de aantasting van de wegeninfrastructuur door overgewicht of door overtollige asdruk, te innen door middel van betalingen met bankkaarten. De daaraan verbonden kosten komen in mindering van de ontvangsten.
+
+§ 14. De bevoegde minister wordt ertoe gemachtigd om, binnen de perken van de kredieten ingeschreven op begrotingsartikel MDU-3MHF2AC-WT, de kosten verbonden aan de verplichte verkeersomleiding via de Liefkenshoektunnel ten gevolge
+
+van verkeersincidenten op de ring rond Antwerpen, de toegangswegen naar deze ring of in de Kennedytunnel, aan de nv Tunnel Liefkenshoek te betalen.
+
+§ 15. De begunstigde van de vastleggingen aangerekend op het VIF die betrekking hebben op uitgaven die ten gevolge van het besluit van de Vlaamse Regering van 19 december 2004 betreffende de rechtsopvolging naar aanleiding van de omzetting van de Dienst voor de Scheepvaart in een publiek vormgegeven verzelfstandigd agentschap De Scheepvaart, en naar aanleiding van de kwalificatie van de nv Zeekanaal en Watergebonden Grondbeheer Vlaanderen, waarvan de naam gewijzigd werd in Waterwegen en Zeekanaal als publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, ten laste zijn genomen van het EVA Waterwegen en Zeekanaal NV respectievelijk het EVA NV De Scheepvaart, wordt gewijzigd in Waterwegen en Zeekanaal NV, respectievelijk NV De Scheepvaart, elk wat hun bevoegdheden betreft.
+
+§ 16. Het Departement Mobiliteit en Openbare Werken wordt ertoe gemachtigd om, voor de terbeschikkingstelling van de zeesluis met aanhorigheden door de Deurganckdoksluis NV aan het Gemeentelijk Havenbedrijf Antwerpen, voor 20 jaar verbintenissen aan te gaan ten laste van de Vlaamse uitgavenbegroting die resulteren in een totale subsidie van maximaal 18.055.024,08 euro per jaar. Deze jaarlijkse subsidies zullen worden aangerekend op begrotingsartikel MBU-3MIF2AF-WT.
+
+## Art. 58
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Loodswezen".
+
+De begroting beloopt voor de ontvangsten 123.312.000 euro.
+
+De begroting beloopt voor de uitgaven 101.785.000 euro in vastleggingen en 123.312.000 in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 59
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Vloot".
+
+De begroting beloopt voor de ontvangsten 130.342.000 euro.
+
+De begroting beloopt voor de uitgaven 68.309.000 euro in vastleggingen en 130.342.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 60
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Grondfonds".
+
+De begroting beloopt voor de ontvangsten 42.716.000 euro.
+
+De begroting beloopt voor de uitgaven 7.192.000 euro in vastleggingen en 42.716.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 61
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Herstelfonds".
+
+De begroting beloopt voor de ontvangsten 20.489.000 euro.
+
+De begroting beloopt voor de uitgaven 0 euro in vastleggingen en 20.489.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 62
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer ``Fonds voor de financiering van het urgentieplan voor de sociale huisvesting''.
+
+De begroting beloopt voor de ontvangsten 14.639.000 euro.
+
+De begroting beloopt voor de uitgaven 14.639.000 euro in vastleggingen en 14.639.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden geraamd op 0 euro en 0 euro.
+
+## Art. 63
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer "Vlaams Instituut voor het Onroerend Erfgoed".
+
+De begroting beloopt voor de ontvangsten 2.611.000 euro.
+
+De begroting beloopt voor de uitgaven 197.000 euro in vastleggingen en 2.611.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 64
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer ``Digitale Drukkerij''.
+
+De begroting beloopt voor de ontvangsten 1.619.000 euro.
+
+De begroting beloopt voor de uitgaven 1.277.000 euro in vastleggingen en 1.619.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden geraamd op 0 euro en 0 euro.
+
+## Art. 65
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer ``Audit Vlaanderen''.
+
+De begroting beloopt voor de ontvangsten 477.000 euro.
+
+De begroting beloopt voor de uitgaven 250.000 euro in vastleggingen en 477.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden geraamd op 0 euro en 0 euro.
+
+## Art. 66
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van de Dienst met Afzonderlijk Beheer ``Fonds ter Bestrijding van de Uithuiszettingen''.
+
+De begroting beloopt voor de ontvangsten 7.207.000 euro.
+
+De begroting beloopt voor de uitgaven 150.000 euro in vastleggingen en 7.207.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden geraamd op 0 euro en 0 euro.
+
+## VLAAMSE RECHTSPERSONEN
+
+## Art. 67
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Vlaams Brusselfonds.
+
+De begroting beloopt voor de ontvangsten 4.001.000 euro en voor de uitgaven 3.207.000 euro in vastleggingen en 4.001.000 euro in vereffeningen.
+
+Het Vlaams Brusselfonds (begrotingsartikel PJ0-1PGI5AX-IS) wordt ertoe gemachtigd ten laste van zijn begroting een bedrag vast te leggen van 2.631.000 euro.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 68
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Vlaams Fonds voor de Lastendelging.
+
+De begroting beloopt voor de ontvangsten 233.161.000 euro en voor de uitgaven 26.159.000 euro in vastleggingen en 233.161.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+De Vlaamse minister die bevoegd is voor Begroting wordt ertoe gemachtigd om voor het Vlaams Fonds voor de Lastendelging het provisionele krediet ingeschreven onder begrotingsartikel CBG-1CEB2ZZ-PR, zowel in vastleggingsals in vereffeningskrediet, binnen hetzelfde programma geheel of gedeeltelijk over te schrijven naar de passende bestaande ISof WT-artikelen of eventueel nieuw in te schrijven ISof WT-begrotingsartikelen van de uitgavenbegroting van het Vlaams Fonds voor de Lastendelging.
+
+## Art. 69
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van IVA Toerisme Vlaanderen.
+
+De begroting beloopt voor de ontvangsten 102.810.000 euro en voor de uitgaven 71.269.000 euro in vastleggingen en 102.810.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+Toerisme Vlaanderen (begrotingsartikel DB0-1DGF5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 34.003.000 euro in het kader van :
+
+1° de financiering van het IVA "Toerisme Vlaanderen" met de netto opbrengst van de winst van de Nationale Loterij;
+
+2° de toekenning van gereglementeerde subsidies aan derden;
+
+3° de financiering van eigen investeringen;
+
+4° de toekenning van subsidies op naam. Binnen de perken van de ingeschreven kredieten op de begroting van Toerisme Vlaanderen wordt het agentschap gemachtigd om subsidies op naam toe te kennen aan volgende organisaties :
+
+\- vzw Toeristische attracties
+
+\- vzw Centrum Ronde van Vlaanderen
+
+\- vzw Tourist Info For Young People
+
+\- vzw Grote Route Paden
+
+\- vzw Toerisme Voerstreek
+
+\- VZW LIVING STONE DIALOOG, Viavia Tourism Academy
+
+\- VZW Bond Beter Leefmilieu VLAANDEREN
+
+\- vzw Cultuurnet Vlaanderen
+
+\- VZW KONINKLIJKE MAATSCHAPPIJ VOOR DIERKUNDE VAN ANTWERPEN
+
+\- VZW FED. HO. RE. CA. VLAANDEREN
+
+\- vzw Renners in Aantocht;
+
+5° de financiering van de projecten vrijetijdseconomie in het kader van het Strategisch Actieplan Limburg in het Kwadraat (SALK).
+
+## Art. 70
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Fonds Flankerend Economisch en Innovatiebeleid.
+
+De begroting beloopt voor de ontvangsten 589.953.000 euro en voor de uitgaven 572.690.000 euro in vastleggingen en 589.953.000 euro in vereffeningen.
+
+Het Fonds (begrotingsartikel EC0-1ECG5AY-IS) wordt gemachtigd ten laste van zijn begroting een bedrag van 558.449.000 euro vast te leggen.
+
+De minister die bevoegd is voor Economie wordt er tevens toe gemachtigd uitgaven kleiner of gelijk aan 500.000 euro aan te gaan die passen in het sociaal, economisch en regionaal beleid van de Vlaamse Regering.
+
+De Vlaamse minister bevoegd voor Economie wordt er tevens toe gemachtigd de kredieten, vastgelegd tijdens de vorige begrotingsjaren op het artikel 85.01 (vastleggingsnummer 40004028) van het Fonds voor Flankerend Economisch en Innovatiebeleid in het kader van de Talentenbank, ten belope van maximaal 3 miljoen euro aan te wenden voor de toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapbevorderende diensten. Het saldo van de vastlegging mag aangewend worden voor de Winwinlening.
+
+De Vlaamse Regering wordt ertoe gemachtigd een bedrag van maximum 57.907.200 euro, vastgelegd tijdens het begrotingsjaar 2011 - vastleggingsnummers 00.033.285 en 00.033-286 - en aangerekend op artikel 5112.5117 van de begroting van het Fonds Flankerend Economisch Beleid, over te dragen en te herbestemmen op de begroting van het Fonds Flankerend Economisch en Innovatiebeleid voor het begrotingsjaar 2016.
+
+De Vlaamse Regering wordt ertoe gemachtigd, in geval van herbestemming van de vastleggingen met vastleggingsnummers 00.033.285 en 00.033-286 buiten de begroting van het Fonds Flankerend Economisch en Innovatiebeleid en mits akkoord van de minister bevoegd voor Financiën en Begroting, de vastleggingsmachtiging ingeschreven onder het begrotingsartikel EC0-1ECG5AY-IS maximaal ten bedrage van het in dit lid bedoelde herbestemde vastleggingsbedrag over te schrijven naar de passende bestaande of eventueel nieuw in te schrijven vastleggingsmachtigingen en vastleggingskredieten van de algemene uitgavenbegroting van de Vlaamse Gemeenschap. In geval van herbestemming buiten de begroting van het Fonds Flankerend Economisch en Innovatiebeleid wordt bovendien de Vlaamse Regering ertoe gemachtigd, mits akkoord van de minister bevoegd voor Financiën en Begroting, de vastleggingsmachtiging van het Fonds Flankerend Economisch en Innovatiebeleid te verhogen met een bedrag gelijk aan het bedrag van de in dit lid bedoelde herbestemming.
+
+In geval van een tekort met betrekking tot de verliesfinanciering van de waarborgregeling van de nv Waarborgbeheer, wordt het Fonds Flankerend Economisch en Innovatiebeleid ertoe gemachtigd om een compenserende toelage over te dragen naar het begrotingsartikel EC0-1ECG2AI-WT.
+
+De minister die bevoegd is voor Innovatie wordt ertoe gemachtigd om voor het Fonds voor het Flankerend Economisch en Innovatiebeleid het provisionele krediet ingeschreven onder begrotingsartikel ECH-1EEG5ZZ-PR, zowel in IS- of vereffeningskrediet, binnen hetzelfde programma geheel of gedeeltelijk over te schrijven naar de passende bestaande IS- of WT-artikelen of eventueel nieuw in te schrijven IS- of WT-begrotingsartikelen van de uitgavenbegroting van het Fonds Flankerend Economisch en Innovatiebeleid.
+
+De minister die bevoegd is voor Innovatie wordt ertoe gemachtigd om voor het Fonds voor het Flankerend Economisch en Innovatiebeleid het provisionele krediet ingeschreven onder begrotingsartikel ECH-1EFG5ZZ-PR, zowel in IS- of vereffeningskrediet, binnen hetzelfde programma geheel of gedeeltelijk over te schrijven naar de passende bestaande IS- of WT-artikelen of eventueel nieuw in te schrijven IS- of WT-begrotingsartikelen van de uitgavenbegroting van het Fonds Flankerend Economisch en Innovatiebeleid.
+
+## Art. 71
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het IVA Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden.
+
+De begroting beloopt voor de ontvangsten 767.381.000 euro en voor de uitgaven 789.662.000 euro in vastleggingen en 767.381.000 euro in vereffeningen.
+
+Het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden (begrotingsartikel GB0-1GID5AY-IS) wordt gemachtigd ten laste van zijn begroting verbintenissen vast te leggen voor een bedrag van 100.000.000 euro voor de aankoop, bouw, verbouwing en uitrusting van instellingen die hiervoor in aanmerking komen.
+
+De ontvangsten en uitgaven voor de orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, wordt gemachtigd om principiële akkoorden - zoals bepaald in het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden - te verlenen die op kruissnelheid resulteren in een (gecumuleerd) bedrag van 212.013.391,43 euro aan totale jaarlijkse gebruikstoelagen. De Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, en de Vlaamse minister bevoegd voor Financiën en Begroting, stellen, op voorstel van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, de correctiemethode vast voor de berekening van de raming van de overgang van de reeds verleende - en eventueel nog te verlenen - principiële akkoorden naar de uiteindelijk te verwachten respectievelijke gebruikstoelage.
+
+Het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden wordt ertoe gemachtigd een totaal bedrag van 100.000.000 euro te waarborgen voor investeringen als vermeld in artikel 7ter en artikel 8, eerste lid, van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden.
+
+Het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden wordt ertoe gemachtigd voor een bedrag van 115.196.000 euro verbintenissen vast te leggen in het kader van de forfaitarisering van de financiering van de ziekenhuisinfrastructuur.
+
+## Art. 72
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het IVA Fonds Jongerenwelzijn.
+
+De begroting beloopt voor de ontvangsten 422.727.000 euro en voor de uitgaven 406.353.000 euro aan vastleggingen en 422.727.000 euro aan vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+Het Fonds Jongerenwelzijn (begrotingsartikel GB0-1GED5AY-IS) wordt gemachtigd ten laste van zijn begroting een bedrag van 4.337.000 euro vast te leggen voor uitgaven voor investeringen, onderhoudswerken en uitrusting van de gemeenschapsinstellingen.
+
+Het onbelaste kredietsaldo op de vastleggingsmachtiging (begrotingsartikel GB0-1GED5AY-IS) wordt op 31 december 2015 overgedragen naar het begrotingsjaar 2016 en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2016.
+
+Het onbelaste kredietsaldo op de vastleggingsmachtiging (begrotingsartikel GB0-1GED5AY-IS) wordt op 31 december 2016 overgedragen naar het begrotingsjaar 2017 en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2017.
+
+De rekenplichtige van de Gemeenschapsinstelling "De Zande", van de Gemeenschapsinstelling "De Kempen", van het gesloten centrum "De Grubbe" en van het federaal detentiecentrum Tongeren wordt ertoe verplicht het kasgeld dat niet nodig is voor te verwachten uitgaven regelmatig te storten op de financiële rekening van het Fonds Jongerenwelzijn. In geen geval mag de rekenplichtige een geldsom in kas houden groter dan 3500 euro.
+
+## Art. 73
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het IVA Kind en Gezin.
+
+De begroting beloopt voor de ontvangsten 848.635.000 euro en voor de uitgaven 848.635.000 euro.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 74
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het IVA Vlaams Agentschap voor Personen met een Handicap.
+
+De begroting beloopt voor de ontvangsten 1.512.369.000 euro en voor de uitgaven 1.512.369.000 euro.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 75
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het IVA Vlaams Zorgfonds.
+
+De begroting beloopt voor de ontvangsten 756.962.000 euro en voor de uitgaven 756.962.000 euro.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 76
+
+§ 1. Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Agentschap Sport Vlaanderen.
+
+De begroting beloopt voor de ontvangsten 152.544.000 euro en voor de uitgaven 145.140.000 euro in vastleggingen en 152.544.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+§ 2. Het Agentschap Sport Vlaanderen (begrotingsartikel HB0-1HFG5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van maximaal 26.563.000 euro :
+
+1° voor eigen investeringen;
+
+2° voor investeringen in kleinschalige sportinfrastructuur;
+
+3° voor de uitvoering van het globaal Sportinfrastructuurplan Vlaanderen;
+
+4° voor investeringen met FFEU-kredieten.
+
+Het onbelast kredietsaldo op begrotingsartikel HB0-1HFG2AE-WT wordt op 31 december 2015 eenmalig overgedragen naar het begrotingsjaar 2016 en samengevoegd met de overeenstemmende kredieten op begrotingsartikel HB0-1HFG5AY-IS voor het begrotingsjaar 2016.
+
+Het onbelast kredietsaldo op de vastleggingsmachtiging dat bestemd is voor de uitvoering van het globaal sportinfrastructuurbeleidsplan Vlaanderen wordt op 31 december 2016 overgedragen naar het begrotingsjaar 2017 en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2017.
+
+Het onbelast kredietsaldo op de vastleggingsmachtiging (begrotingsartikel HB01HFG5AY-IS) wordt op 31 december 2016 overgedragen naar het begrotingsjaar 2017 en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2017 voor het bedrag dat naar aanleiding van de opheffing van het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven werd overgeheveld.
+
+§ 3. Het Agentschap Sport Vlaanderen (begrotingsartikel HB0-1HFG5AV-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van maximaal 606.000 euro voor tewerkstelling sport via de vzw Vlabus en voor de middelen voor de regularisatie gesco's.
+
+§ 4. Het Agentschap Sport Vlaanderen kan binnen het toegekende budget en binnen de perken van het ingeschreven krediet op de begroting van het agentschap, subsidies verlenen aan de volgende organisaties :
+
+\- ALLERLEI INITIATIEVEN IN VERBAND MET TOPSPORT
+
+\- ORGANISATIE VAN FLANDERS CLASSICS
+
+\- ALLERLEI INITIATIEVEN IN VERBAND MET SPORT EN SPORTMANIFESTATIES
+
+\- BELGIAN HOMELESS CUP
+
+\- INITIATIEVEN G-SPORT VLAANDEREN
+
+\- SOCIALE EN EXPERIMENTELE PROJECTEN EN UITZONDERLIJKE INITIATIEVEN BINNEN HET SPORTBELEID
+
+\- SOCIALE MAATREGELEN TOEGANKELIJKHEID SPORT
+
+\- TEN BEHOEVE VAN DE CAMPAGNE VENTOURIST-VENTOUSIAST
+
+\- VZW DE RAND VOOR SPORTONTWIKKELING IN DE RAND
+
+\- VZW VLAAMSE WIELERSCHOOL
+
+\- INTERNATIONALE SPORTPROJECTEN
+
+\- VOOR AANVULLENDE TEWERKSTELLING IN DE SECTOR SPORT
+
+\- ALS TEGEMOETKOMING VOOR FLANKERENDE MAATREGELEN IN HET KADER VAN FINANCIERING VOETBALSTADIONS
+
+\- KATHOLIEKE UNIVERSITEIT LEUVEN VOOR RENOVATIE ATLETIEKPLATFORM DE NAYER LEUVEN
+
+\- SPORTINFRASTRUCTUUR VAN DE PARTICULIERE SECTOR
+
+\- SPORTINFRASTRUCTUUR VAN LOKALE OVERHEDEN
+
+\- VLAAMSE JUDOFEDERATIE VZW VOOR KRACHTZAAL TOPSPORT WILRIJK
+
+\- VZW VAL VOOR OVERKAPPING ATLETIEKPISTE HEUSDEN-ZOLDER
+
+\- VZW VLAAMSE LIGA PAARDENSPORT VOOR WAREGEM EVENTING PARCOURS
+
+\- VZW SPORTIMONIUM
+
+\- VZW WIELERCLUB EDDY MERCKXVRIENDEN
+
+\- INVESTERINGSKREDIETEN KLEINSCHALIGE SPORTINFRASTRUCTUUR.
+
+## Art. 77
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Fonds Culturele Infrastructuur (FoCI).
+
+De begroting beloopt voor de ontvangsten 31.490.000 euro en voor de uitgaven 24.396.000 euro in vastleggingen en 31.490.000 in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk op 0 euro en 0 euro geraamd.
+
+Het fonds wordt gemachtigd ten laste van zijn begroting een bedrag van 11.610.000 euro vast te leggen (begrotingsartikel HB0-1HCI5AY-IS).
+
+Het onbelaste kredietsaldo op de vastleggingsmachtiging (begrotingsartikel HB0-1HCI5AY-IS) wordt op 31 december 2016 overgedragen naar het begrotingsjaar 2017 en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2017 voor het bedrag dat naar aanleiding van de opheffing van het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven werd overgeheveld.
+
+## Art. 78
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Topstukkenfonds.
+
+De begroting beloopt voor de ontvangsten 1.758.000 euro, en voor de uitgaven 563.000 euro in vastleggingen en 1.758.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+Het Topstukkenfonds (begrotingsartikel HB0-1HEI5AY-IS) wordt gemachtigd ten laste van zijn begroting een bedrag van 563.000 euro vast te leggen. Het onbelast kredietsaldo op de vastleggingsmachtiging (begrotingsartikel HB0-1HEI5AY-IS) wordt op 31 december 2016 overgedragen naar het begrotingsjaar 2017 en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2017.
+
+## Art. 79
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Vlaams Landbouwinvesteringsfonds.
+
+De begroting beloopt voor de ontvangsten 160.541.000 euro en voor de uitgaven 127.507.000 euro in vastleggingen en 160.541.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+Het Vlaams Landbouwinvesteringsfonds (begrotingsartikel KB0-1KDH5AW-IS) wordt gemachtigd ten laste van zijn begroting een bedrag van 126.024.000 euro vast te leggen.
+
+Het Vlaams Landbouwinvesteringsfonds wordt ertoe gemachtigd zijn waarborg te verlenen aan leningen bestemd voor investeringen in de land- en tuinbouw voor een totaal gewaarborgd bedrag van 40.000.000 euro.
+
+Het Vlaams Landbouwinvesteringsfonds wordt in 2015 en 2016 gemachtigd, voor een plafond van 60.000.000 euro, uitgaven vast te leggen met betrekking tot de publieke opslag van landbouwproducten in het kader van een Europese interventieregeling.
+
+De Vlaamse minister, bevoegd voor de landbouw, wordt ertoe gemachtigd af te zien van verdere terugvordering in hierna genoemd ambtshalve dossier : Dossiernaam : VLIF-dossier 1-93-0534/7 en 1-94-0852/2 van CAERS Walter - DE HOUWER Christine te 2270 Herenthout - Bedrag : 128.352,43 euro.
+
+## Art. 80
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Financieringsinstrument voor de Vlaamse Visserijen Aquacultuursector.
+
+De begroting beloopt voor de ontvangsten 3.978.000 euro en voor de uitgaven 2.978.000 euro in vastleggingen en 3.978.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+Het Financieringsinstrument voor de Vlaamse visserij- en Aquacultuursector (begrotingsartikel KB0-1KDH5AX-IS) wordt gemachtigd ten laste van zijn begroting een bedrag van 2.976.000 euro vast te leggen.
+
+Het Financieringsinstrument voor de Vlaamse visserij- en Aquacultuursector wordt ertoe gemachtigd zijn waarborg te verlenen aan leningen bestemd voor investeringen in de visserij- en Aquacultuursector voor een totaal gewaarborgd bedrag van 10.000.000 euro.
+
+## Art. 81
+
+§ 1. Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het IVA Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest (OVAM).
+
+De begroting beloopt voor de ontvangsten 108.997.000 euro en voor de uitgaven 104.246.000 euro aan vastleggingen en 108.997.000 euro aan vereffeningen.
+
+De ontvangsten en de uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+§ 2. De Openbare Vlaamse Afvalstoffenmaatschappij (begrotingsartikel LB0-1LCH5AV-IS) wordt gemachtigd ten laste van zijn begroting een bedrag van 234.000 euro vast te leggen voor de aankoop van installaties, machines en uitrusting, kantoormeubilair, hardware en software.
+
+§ 3. De Vlaamse minister bevoegd voor het leefmilieu wordt ertoe gemachtigd om ten laste van de begroting van OVAM aan het steunpunt duurzaam materialenbeheer een subsidie toe te kennen ten bedrage van maximaal 192.000 euro.
+
+§ 4. De Vlaamse minister bevoegd voor het leefmilieu wordt ertoe gemachtigd om ten laste van de begroting van OVAM aan United Nations Environment Assembly of the United Nations Environment Programme (UNEP) een subsidie toe te kennen ten bedrage van maximaal 40.000 euro voor internationaal lidgeld.
+
+§ 5. De Vlaamse minister bevoegd voor het leefmilieu wordt ertoe gemachtigd om ten laste van de begroting van OVAM aan Vlaco vzw een subsidie toe te kennen ten bedrage van maximaal 575.000 euro voor werkingsbijdragen.
+
+§ 6. De Vlaamse minister bevoegd voor het leefmilieu wordt ertoe gemachtigd om inzake afval en materialenbeleid ten laste van de begroting van OVAM voor maximaal 30.000 euro toe te kennen aan voorbeeldevenementen, 2700 euro aan prijzen ecodesign studenten, 6000 euro aan prijzen ecodesign award pro en 6000 euro aan prijzen groeneventaward.
+
+§ 7. De Vlaamse minister bevoegd voor Leefmilieu en Natuur, wordt, als bestuurder van de OVAM, ertoe gemachtigd af te zien van verdere terugvordering in hierna genoemde ambtshalve dossiers :
+
+<table><tr><td>Dossiernaam </td><td>Locatie </td><td>Onderzoeken </td><td>Werken buiten begroting</td></tr><tr><td>Nv Bocapaint </td><td>Roeselare </td><td> </td><td>10.194,25</td></tr><tr><td>Immo Dewal </td><td>Kortrijk </td><td>120.173,81 </td><td>144.963,84</td></tr><tr><td>Gemeente Wortegem-Petegem </td><td>Wortegem-Petegem </td><td> </td><td>64.492,92</td></tr><tr><td>Papierfabriek De Naeyer nv </td><td>Willebroek </td><td>60.323,90 </td><td>15.453,67</td></tr><tr><td>Tassignon </td><td>Halle </td><td>8.495,48 </td><td>2.058,97</td></tr><tr><td>VUM </td><td>Dilbeek </td><td>32.907,77 </td><td> </td></tr><tr><td>Bvba Forrest Motor </td><td>Wevelgem </td><td>15.347,04 </td><td>6.787,50</td></tr><tr><td>Roquepine </td><td>Harelbeke </td><td> </td><td>2.458,72</td></tr><tr><td>Jespers </td><td>Antwerpen </td><td>9.500,20 </td><td>33.730,81</td></tr><tr><td>Christiane Ernst </td><td>Gent </td><td>8.042,93 </td><td>5.142,50</td></tr><tr><td>Shopping Center 1 </td><td>Genk </td><td> </td><td>34.777,86</td></tr><tr><td>Oude Dokken </td><td>Gent </td><td> </td><td>7.478,82</td></tr><tr><td>Nv Candico </td><td>Merksem </td><td> </td><td>12.577,96</td></tr><tr><td>Nv World Wide Homes </td><td>Maldegem </td><td>23.524,82 </td><td>188.024,97</td></tr><tr><td>Bvba Snel-Press </td><td>Waregem </td><td> </td><td>35.252,14</td></tr><tr><td>De Backer </td><td>Oostende </td><td>10.166,30 </td><td>5.008,79</td></tr><tr><td>Autohandel Sint-Laurens </td><td>Wielsbeke </td><td>10.279,56 </td><td>94.041,16</td></tr><tr><td>Kortrijkse Textielmaatschappij </td><td>Kortrijk </td><td>12.353,58 </td><td> </td></tr><tr><td>Jean Pauwels Ster Taxi </td><td>Sint-Niklaas </td><td>11.812,23 </td><td>46.446,67</td></tr><tr><td>De Gussem-Bulté </td><td>Wichelen-Huilaart </td><td> </td><td>112.062,92</td></tr><tr><td>B &amp; C NV, De Merodelei </td><td>Turnhout </td><td>6.369,44 </td><td>118.541,74</td></tr><tr><td>Cockerill Mechanical Industries nv </td><td>Willebroek </td><td>15.277,94 </td><td> </td></tr><tr><td>Marnix de St. Aldegonde </td><td>Bornem </td><td>17.822,37 </td><td> </td></tr><tr><td>Texaco </td><td>Wachtebeke </td><td>22.231,70 </td><td> </td></tr><tr><td>Dirk Braem </td><td>Boom </td><td>11.777,99 </td><td> </td></tr><tr><td>Watteyne </td><td>Brugge </td><td>17.478,94 </td><td>18.034,79</td></tr><tr><td>SESSELLE KORTE MOEIE </td><td>Eeklo </td><td> </td><td>21.154,26</td></tr><tr><td>Agnes Dossche </td><td>Assebroek </td><td>29.638,07 </td><td> </td></tr><tr><td>Bvba Galvani </td><td>Lier </td><td> </td><td>67.006,37</td></tr><tr><td>Nv Green Manor </td><td>Hingene </td><td>31.921,00 </td><td> </td></tr><tr><td>Van Welie </td><td>Tienen </td><td> </td><td>25.323,44</td></tr><tr><td>Bvba Heyman </td><td>Nieuwkerke </td><td> </td><td>144.842,99</td></tr><tr><td>Despriet gebroeders </td><td>Lokeren </td><td>10.536,08 </td><td>59.214,75</td></tr><tr><td>Gebroeders D'Heedene </td><td>Menen </td><td> </td><td>14.495,44</td></tr><tr><td>Nv Isobar </td><td>Kuurne </td><td> </td><td>40.801,21</td></tr><tr><td>Nv Verkrieck Nv Lakkerij Verschueren </td><td>Sint-Niklaas </td><td>9.907,48 </td><td>21.429,84</td></tr><tr><td>Monique Schets </td><td>Roosdaal </td><td>15.789,41 </td><td>23.083,71</td></tr><tr><td>Inves SA-Defawes </td><td>Wondelgem </td><td>6.594,17 </td><td> </td></tr><tr><td>Agfa Gevaert </td><td>Berchem </td><td>29.975,39 </td><td> </td></tr><tr><td>ARS Immo Nv </td><td>Lokeren </td><td>9.469,68 </td><td> </td></tr><tr><td>Benecor </td><td>Antwerpen </td><td>9.724,77 </td><td>4.530,35</td></tr><tr><td>Heirbaan 1 (Antverpia) </td><td>Mortsel </td><td>13.686,92 </td><td> </td></tr><tr><td>Bvba Improve </td><td>Gent </td><td>26.114,45 </td><td> </td></tr><tr><td>Mees-Dom </td><td>Herentals </td><td>14.027,52 </td><td> </td></tr><tr><td>Eeckelaert </td><td>Antwerpen </td><td>22.171,19 </td><td> </td></tr><tr><td>Tragel </td><td>Aalst </td><td>36.459,60 </td><td>27.907,44</td></tr><tr><td>Keif </td><td>Antwerpen </td><td>25.654,12 </td><td> </td></tr><tr><td>Silverans-Willems </td><td>Merksem </td><td>9.504,31 </td><td> </td></tr><tr><td>Nv Decorwood (in faling) </td><td>Rijmenam </td><td> </td><td>158.604,58</td></tr><tr><td>Usul </td><td>Boom </td><td>3.966,38 </td><td>11.270,07</td></tr><tr><td>Bochar-De Hauwere </td><td>Lebbeke </td><td>15.097,22 </td><td>77.967,29</td></tr><tr><td>Van Kooten-Akzo Nobel Coatings nv </td><td>Vilvoorde </td><td>19.011,29 </td><td> </td></tr><tr><td>Parochiale Werken Sint-Martinus </td><td>Ronse </td><td>23.005,15 </td><td> </td></tr><tr><td>Nv Fourny-Willimmo </td><td>Willebroek </td><td>36.157,02 </td><td> </td></tr><tr><td>Nv Robesta </td><td>Mechelen </td><td>24.880,63 </td><td> </td></tr><tr><td>Pakize Eke </td><td>Gent </td><td>7.314,33 </td><td>25.811,63</td></tr><tr><td>Nv Tissages Bruggeman </td><td>Sint-Niklaas </td><td>21.049,82 </td><td>15.978,61</td></tr><tr><td>Jimmy Janssens </td><td>Begijnendijk </td><td> </td><td>10.801,33</td></tr><tr><td>Dael Reklame </td><td>Ieper </td><td> </td><td>30.303,24</td></tr><tr><td>Silverans-Willems </td><td>Merksem </td><td>6.603,21 </td><td>56.034,47</td></tr><tr><td>Yigit-Uysal </td><td>Antwerpen </td><td>7.921,87 </td><td> </td></tr><tr><td>Chris Van De Ven </td><td>Melsele </td><td>4.334,22 </td><td> </td></tr><tr><td>Heyman </td><td>Lede </td><td>10.763,56 </td><td> </td></tr><tr><td>Joyce Invest </td><td>Blankenberge </td><td> </td><td>593.661,41</td></tr><tr><td>Slegers-Jansen </td><td>Ravels </td><td>10.160,01 </td><td> </td></tr><tr><td>SCHOLLAERT-DE BOOSER DE BAETS) </td><td>Gent </td><td>18.132,95 </td><td>40.478,52</td></tr><tr><td>Onze Woning </td><td>Antwerpen </td><td>26.252,62 </td><td>80.683,39</td></tr><tr><td>Onze Woning </td><td>Antwerpen </td><td>17.146,85 </td><td>70.317,71</td></tr><tr><td>Nv Space-Weld Belgium </td><td>Deerlijk </td><td>22.838,14 </td><td> </td></tr><tr><td>Nv Colruyt </td><td>Waregem </td><td>46.434,74 </td><td> </td></tr><tr><td>Bvba Strohm </td><td>Gent </td><td> </td><td>404.296,45</td></tr><tr><td>NV Quality Homes </td><td>Deerlijk </td><td>13.420,35 </td><td> </td></tr><tr><td>Bvba OPC </td><td>Roeselare </td><td>23.273,44 </td><td> </td></tr><tr><td>Monique Van de Poel </td><td>Antwerpen </td><td> </td><td>393.605,27</td></tr><tr><td>Studie- en adviesgroep </td><td>Vichte </td><td>19.309,30 </td><td> </td></tr><tr><td>New Invest </td><td>Veurne </td><td>471,90 </td><td>24.773,53</td></tr><tr><td>Mondy-Seynhave </td><td>Kortrijk </td><td> </td><td>183.591,84</td></tr><tr><td>De Baets </td><td>Drongen </td><td>10.812,73 </td><td> </td></tr><tr><td>Pidpa </td><td>Turnhout </td><td> </td><td>653.581,68</td></tr><tr><td>NV Libert Paints </td><td>Gent </td><td>7.072,97 </td><td> </td></tr><tr><td>Wesley De Wettinck </td><td>Hemiksem </td><td>3.854,46 </td><td> </td></tr><tr><td>Dewispelaere-Goderis </td><td>Nieuwpoort-Ramskapelle </td><td>13.323,60 </td><td> </td></tr><tr><td>Oud Geleg </td><td>Brecht </td><td> </td><td>29.307,14</td></tr><tr><td>De Weerdt-Tempst </td><td>Borsbeek </td><td>22.580,12 </td><td> </td></tr><tr><td>Christiane Mees </td><td>Willebroek </td><td>12.206,48 </td><td> </td></tr><tr><td>Nv Fedimmo </td><td>Antwerpen </td><td>37.519,70 </td><td>19.284,84</td></tr><tr><td>t Bruggeske </td><td>Kapellen </td><td>34.603,33 </td><td>139.242,35</td></tr><tr><td>Nv Inbev Belgium </td><td>Leuven </td><td>70.932,91 </td><td>19.423,75</td></tr><tr><td>Hanifi Dogru </td><td>Hoboken </td><td>619,52 </td><td>9.119,05</td></tr><tr><td>Regie der Gebouwen/Algifin </td><td>Oudenaarde </td><td> </td><td>545.746,22</td></tr><tr><td>Edgard Dewulf </td><td>Izegem </td><td>11.841,53 </td><td> </td></tr><tr><td>Provincie Antwerpen </td><td>Ranst </td><td>15.615,01 </td><td> </td></tr><tr><td>Deprez Gaston </td><td>Aalst </td><td> </td><td>236.703,61</td></tr><tr><td>Van Eeckhout-Van Oost </td><td>Roeselare </td><td>44.334,25 </td><td> </td></tr><tr><td>NV Lekkenhof </td><td>Roeselare </td><td>13.310,11 </td><td> </td></tr><tr><td>Van Hoeyveld </td><td>Lubbeek </td><td>9.297,76 </td><td> </td></tr><tr><td>Raes-Van Overloop </td><td>Sint-Niklaas </td><td> </td><td>37.170,92</td></tr><tr><td>Else Colebrants </td><td>Mechelen </td><td> </td><td>9.318,62</td></tr><tr><td>Oude Dokken </td><td>Gent </td><td> </td><td>289.192,03</td></tr><tr><td>Site Mechelsesteenweg </td><td>Dendermonde </td><td>23.878,75 </td><td> </td></tr><tr><td>Coppens-Goethals </td><td>Sint-Amandsberg </td><td> </td><td>4.819,37</td></tr><tr><td>Nv Westfields - Nv Woodimex </td><td>Kortrijk </td><td>29.367,49 </td><td> </td></tr><tr><td>SKB Neerpelt </td><td>Neerpelt </td><td>39.894,31 </td><td>38.985,96</td></tr><tr><td>Emiel Roete </td><td>Evergem </td><td>7.463,16 </td><td> </td></tr><tr><td>NV Wilbexo </td><td>Deurne </td><td>39.995,58 </td><td> </td></tr><tr><td>Nv C.B.M. </td><td>Gent </td><td>68.788,96 </td><td> </td></tr><tr><td>Bvba Chromage Central </td><td>Gent </td><td>19.037,54 </td><td> </td></tr><tr><td>Ludovic Standaert </td><td>Wuustwezel </td><td> </td><td>24.494,92</td></tr><tr><td>Immo Bruyninx </td><td>Hasselt </td><td> </td><td>22.173,25</td></tr><tr><td>Pol Product </td><td>Meerle </td><td> </td><td>12.700,54</td></tr><tr><td>Site Baasrode </td><td>Baasrode </td><td> </td><td>46.256,50</td></tr><tr><td>Nv Vannerco </td><td>Ranst </td><td> </td><td>60.223,74</td></tr><tr><td>Scholengroep Sint-Michiel </td><td>Roeselare </td><td> </td><td>13.710,85</td></tr><tr><td>Site Hondiuslaan, Gasstraat </td><td>Duffel </td><td> </td><td>694.566,21</td></tr><tr><td>Van Vooren-Dendooven </td><td>Zuienkerke </td><td> </td><td>1.066.440,88</td></tr><tr><td>Balmatt </td><td>Mol </td><td>151.292,53 </td><td>609.325,94</td></tr><tr><td>Herk-De-Stad </td><td>A1 Offirent </td><td>58.498,95 </td><td>150.179,91</td></tr><tr><td>BALIM nv/ PRB (Poudreries Réunies de Belgique) </td><td>Balen </td><td> </td><td>50.021,67</td></tr><tr><td>TOTAAL 2016 </td><td> </td><td>1.838.746,91 </td><td>8.367.490,09</td></tr></table>
+
+## Art. 82
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het IVA Vlaamse Milieumaatschappij.
+
+De begroting beloopt voor de ontvangsten 182.582.000 euro en voor de uitgaven 119.973.000 aan vastleggingen en 182.582.000 euro aan vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+Het IVA Vlaamse Milieumaatschappij (begrotingsartikel LB0-1LCH5AW-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 18.290.000 euro :
+
+1° voor de aankoop van rollend en varend materieel, installaties, machines en uitrusting, kantoormeubilair, hardware en software;
+
+2° voor de subsidies aan polders en wateringen voor de verbetering van de onbevaarbare waterlopen en de waterhuishouding en voor de aankoop van en infrastructuurwerken aan administratieve gebouwen;
+
+3° voor investeringen in het kader van het operationeel beheer van watersystemen.
+
+## Art. 83
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Grindfonds.
+
+De begroting beloopt voor de ontvangsten 21.520.000 euro en voor de uitgaven 21.520.000 euro.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 84
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Pendelfonds.
+
+De begroting beloopt voor de ontvangsten 14.650.000 euro en voor de uitgaven 14.650.000 euro.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 85
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Vlaams Financieringsfonds voor gronden woonbeleid voor Vlaams-Brabant.
+
+De begroting beloopt voor de ontvangsten 43.869.000 euro en voor de uitgaven 43.869.000 euro.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+Het Vlaams Financieringsfonds voor gronden woonbeleid voor Vlaams-Brabant (begrotingsartikel NE0-1NEC5AY-IS) wordt ertoe gemachtigd ten laste van zijn begroting een verbintenissenmachtiging in te schrijven ten belope van 3.856.000 euro.
+
+## Art. 86
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Rubiconfonds.
+
+De begroting beloopt voor de ontvangsten 2.724.000 euro en voor de uitgaven 0 euro in vastleggingen en 2.724.000 euro in vereffeningen.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 87
+
+Goedgekeurd wordt de bij dit decreet gevoegde aangepaste begroting voor het jaar 2016 van het Garantiefonds voor Huisvesting.
+
+De begroting beloopt voor de ontvangsten 1.267.000 euro en voor de uitgaven 1.267.000 euro.
+
+De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en 0 euro.
+
+## Art. 88
+
+De tabel van artikel 134 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"
+
+<table><tr><td>Vlaamse openbare instellingen sui generis</td></tr><tr><td>Gemeenschapsonderwijs (GO!)</td></tr><tr><td>Koninklijke Academie Nederlandse Taalen Letterkunde</td></tr><tr><td>Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten</td></tr><tr><td>VZW</td></tr><tr><td>Vlaams Europees Verbindingsagentschap</td></tr><tr><td>Vlaams Infocentrum Land-&amp; tuinbouw</td></tr><tr><td>EVA van publiek recht (private stichting)</td></tr><tr><td>Agentschap Integratie en Inburgering</td></tr><tr><td>Agentschap Toegankelijk Vlaanderen</td></tr><tr><td>EVA privaatrecht (VZW)</td></tr><tr><td>De Rand vzw</td></tr><tr><td>Muntpunt vzw</td></tr><tr><td>Vlaams Instituut voor de Zee</td></tr><tr><td>Epon</td></tr><tr><td>De Singel</td></tr><tr><td>Beheerscommissie Kunstcampus</td></tr><tr><td>Museum van Hedendaagse Kunsten Antwerpen</td></tr><tr><td>Kunsthuis Opera Vlaanderen Ballet Vlaanderen</td></tr><tr><td>Vlaams Audiovisueel Fonds</td></tr><tr><td>iMinds</td></tr><tr><td>Vereniging van Vlaamse Cultuur- en gemeenschapscentra</td></tr><tr><td>Fonds voor Scheepsjongens</td></tr><tr><td>Vlaamse Stichting Verkeerskunde</td></tr><tr><td>Vlaanderen Connect</td></tr><tr><td>EVA privaatrecht (NV)</td></tr><tr><td>Participatiemaatschappij Vlaanderen</td></tr><tr><td>Vlaams Energiebedrijf</td></tr><tr><td>Vlaamse Havens</td></tr><tr><td>Limburgse Reconversiemaatschappij</td></tr><tr><td>Vlaamse Participatiemaatschappij</td></tr><tr><td>EVA privaatrecht (NV)</td></tr><tr><td>Fonds Wetenschappelijk Onderzoek Vlaanderen</td></tr><tr><td>Strategisch onderzoekscentrum (vzw)</td></tr><tr><td>Vlaams Interuniversitair Instituut voor Biotechnologie</td></tr><tr><td>NV</td></tr><tr><td>Diestsepoort NV</td></tr><tr><td>LAK Invest NV</td></tr><tr><td>Waarborgbeheer NV</td></tr><tr><td>Gigarant NV</td></tr><tr><td>NV PMV re vinci</td></tr><tr><td>Biotech Fonds Vlaanderen</td></tr><tr><td>Nautinvest Vlaanderen</td></tr><tr><td>ARKIMEDES MANAGEMENT</td></tr><tr><td>ARKIMEDESFONDS II</td></tr><tr><td>NOVOVIL</td></tr><tr><td>NOVAGORA</td></tr><tr><td>PMV beheer nv</td></tr><tr><td>MIJNEN</td></tr><tr><td>ALGEMENE DIENSTEN VENNOOTSCHAP</td></tr><tr><td>LRM BEHEER</td></tr><tr><td>KMOFIN</td></tr><tr><td>KMOFIN II</td></tr><tr><td>Participatiefonds Vlaanderen</td></tr><tr><td>School Invest</td></tr><tr><td>UP 36 Invest</td></tr><tr><td>Vlaamse Milieuholding</td></tr><tr><td>Lijninvest NV</td></tr><tr><td>Beheersmaatschappij Antwerpen Mobiel NV</td></tr><tr><td>Via Invest</td></tr><tr><td>Wandelaar Invest</td></tr><tr><td>Vlaamse Erfgoedkluis</td></tr><tr><td>Mijnschade en Benaming Limburgs Mijngebied</td></tr><tr><td>ARKimedesfonds I</td></tr><tr><td>GIMVINDUS</td></tr><tr><td>Site-Ontwikkeling Vlaanderen</td></tr><tr><td>H.W.P.</td></tr><tr><td>Greenville</td></tr><tr><td>Brustem Industriepark</td></tr><tr><td>Sustainable Energy Ventures</td></tr><tr><td>iVenture</td></tr><tr><td>Tunnel Liefkenshoek</td></tr><tr><td>Site Kanaal</td></tr><tr><td>Domus Flandria</td></tr><tr><td>Coöperatieve vennootschap met beperkte aansprakelijkheid</td></tr><tr><td>Vlaams Woningfonds van de grote gezinnen</td></tr><tr><td>Onderlinge verzekeringsvereniging</td></tr><tr><td>Pensioenfonds VRT voor statutairen</td></tr><tr><td>Stichting van openbaar nut</td></tr><tr><td>Stichting Vlaamse Schoolsport</td></tr><tr><td>Commanditaire vennootschap op aandelen</td></tr><tr><td>PMV-TINA</td></tr><tr><td>Vlaams Innovatiefonds</td></tr><tr><td>STROOMinvest cultuur investeringsfonds Limburg</td></tr><tr><td>Universiteiten en hogescholen</td></tr><tr><td>Instituut voor Tropische Geneeskunde</td></tr><tr><td>Universiteit Gent</td></tr><tr><td>Universiteit Antwerpen</td></tr><tr><td>Universiteit Hasselt</td></tr><tr><td>Vrije Universiteit Brussel</td></tr><tr><td>Katholieke Universiteit te Leuven</td></tr><tr><td>Faculteit voor Protestantse Godgeleerdheid te Brussel</td></tr><tr><td>Evangelische Theologische Faculteit te Heverlee</td></tr><tr><td>vzw associatie K.U. Leuven</td></tr><tr><td>vzw associatie Universiteit en Hogescholen Antwerpen</td></tr><tr><td>vzw associatie Universiteit Gent</td></tr><tr><td>vzw associatie Univ. En Hogescholen Limburg</td></tr><tr><td>vzw Universitaire Associatie Brussel</td></tr><tr><td>ODISEE (voordien : HUB-KAHO)</td></tr><tr><td>Erasmushogeschool Brussel</td></tr><tr><td>Artesis Plantijn Hogeschool Antwerpen</td></tr><tr><td>Karel de Grote Hogeschool - Katholieke Hogeschool Antwerpen</td></tr><tr><td>Thomas More Mechelen - Antwerpen</td></tr><tr><td>Hogere Zeevaartschool</td></tr><tr><td>Thomas More Kempen</td></tr><tr><td>UC Leuven</td></tr><tr><td>UC Limburg</td></tr><tr><td>Hogeschool PXL</td></tr><tr><td>Hogeschool West-Vlaanderen</td></tr><tr><td>Katholieke Hogeschool Vives Zuid</td></tr><tr><td>Hogeschool Gent</td></tr><tr><td>Katholieke Hogeschool Vives Noord</td></tr><tr><td>Arteveldehogeschool</td></tr><tr><td>LUCA School of Arts</td></tr><tr><td>Instellingen van autonoom onderwijs (netoverschrijdende samenwerkingsverbanden of fusies)</td></tr><tr><td>VZW's ``Sociale Voorzieningen'' van instellingen van autonoom onderwijs</td></tr><tr><td>Raden</td></tr><tr><td>Vlaamse Interuniversitaire Raad</td></tr><tr><td>Vlaamse Hogescholenraad</td></tr><tr><td>Publieke rechtspersonen sui generis</td></tr><tr><td>Koninklijke Academie voor Geneeskunde van België</td></tr><tr><td>Erkende kredietmaatschappijen</td></tr><tr><td>Onesto Kredietmaatschappij</td></tr><tr><td>Onesto Woonpunt</td></tr><tr><td>Sociale Kredietmaatschappij Sociaal Woonkrediet voor Vlaanderen (Sokrema)</td></tr><tr><td>Demer en Dijle</td></tr><tr><td>Elk Zijn Huis</td></tr><tr><td>Kredietmaatschappij Onze Thuis</td></tr><tr><td>Landwaarts Sociaal Woonkrediet</td></tr><tr><td>Volkskrediet de Toren</td></tr><tr><td>Eigen Heerd is Goud Weerd</td></tr><tr><td>Ons Eigen Huis</td></tr><tr><td>De Meiboom - Eigen Huis</td></tr><tr><td>Kredietmaatschappij voor Sociale Woningen</td></tr><tr><td>West-Vlaams Woonkrediet (het vroegere Eigen Huis-Thuis Best en Eigen Haard)</td></tr><tr><td>Mijn Huis</td></tr><tr><td>Klein Eigenaarskrediet</td></tr><tr><td>Kempische Heerd (Kempens Woonkrediet)</td></tr><tr><td>Vennootschap voor Sociaal Woonkrediet Eigen Huis</td></tr><tr><td>Uw Eigen Huis der Vlaanderen</td></tr><tr><td>Indomi nv</td></tr></table>
+
+".
+
+## THESAURIEBEHEER
+
+## Art. 89
+
+§ 1. De uitgaven van Toerisme Vlaanderen aangaande vooruitbetaalde kosten met betrekking tot uitgaven die vastgelegd en vereffend worden vanuit begrotingsartikel DF0-1DGF2AN-WT en/of DF0-1DGF2AO-WT en/of DF0-1DGF2APWT en/of DF0-1DGF2AQ-WT mogen aangerekend worden op basisallocatie 5DG300 die betrekking heeft op vooruitbetaalde kosten.
+
+§ 2. De basisallocatie 5DG300 wordt aangezuiverd in het volgende begrotingsjaar, in vastleggingsen in vereffeningskrediet, door de kredieten voorzien op begrotingsartikel DF0-1DGF2AN-WT of DF0-1DGF2AO-WT of DG0-1DGF2AP of DF0-1DGF2AO-WT.
+
+§ 3. De basisallocatie 5DG300 met betrekking tot vooruitbetaalde kosten mag jaaroverschrijdend een negatief saldo vertonen van 500.000 euro.
+
+## Art. 90
+
+§ 1. De uitgaven van Toerisme Vlaanderen aangaande vooruitbetaalde kosten met betrekking tot huurgelden, belastingen, retributies en andere vergoedingen die vastgelegd en vereffend worden vanuit begrotingsartikel DF0-1DAF2ZZ-WT mogen aangerekend worden op basisallocatie 5DA302 die betrekking heeft op vooruitbetaalde kosten.
+
+§ 2. De basisallocatie 5DA302 wordt aangezuiverd in het volgende begrotingsjaar, in vastleggingsen in vereffeningskrediet, door de kredieten voorzien op begrotingsartikel DF0-1DAF2ZZ-WT.
+
+§ 3. De basisallocatie 5DA302 met betrekking tot vooruitbetaalde kosten mag jaaroverschrijdend een negatief saldo vertonen van 500.000 euro.
+
+## Art. 91
+
+§ 1. De uitgaven met betrekking tot specifieke projecten in het kader van Flanders' Care mogen aangerekend worden op orderekening 8G042200.
+
+§ 2. De orderekening wordt aangezuiverd door subsidiëring vanuit het Interreg Europe programma voor een bedrag van 462.825 euro.
+
+§ 3. De orderekening 8G042200 mag jaaroverschrijdend een negatief saldo vertonen van maximaal 200.000 euro.
+
+## Art. 92
+
+Artikel 152 van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016 wordt vervangen door wat volgt :
+
+"Art. 152. § 1. De Schatkist mag voorschotten toekennen wanneer de verrichtingen met betrekking tot de orderekening "Hospitalisatieverzekering" een debetpositie veroorzaken.
+
+§ 2. De orderekening PG0-8P091900 mag een debetsaldo vertonen van maximaal 300.000 euro.
+
+§ 3. De orderekening zal budgettair worden aangezuiverd.".
+
+## BIJLAGE.
+
+## Art. N
+
+(Beeld niet opgenomen om technische redenen, zie B.St. van 10-11-2016, p. 73784)
+
+---
+
+Kondigen dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Brussel, 8 juli 2016.
+
+De minister-president van de Vlaamse Regering,
+
+Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed,
+
+G. BOURGEOIS
+
+De Vlaamse minister van Onderwijs,
+
+H. CREVITS
+
+De Vlaamse minister van Begroting, Financiën en Energie,
+
+B. TOMMELEIN
+
+De Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en viceminister-president van de Vlaamse Regering,
+
+L. HOMANS
+
+De Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn,
+
+B. WEYTS
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,
+
+J. VANDEURZEN
+
+De Vlaamse minister van Werk, Economie, Innovatie en Sport,
+
+Ph. MUYTERS
+
+De Vlaamse minister van Omgeving, Natuur en Landbouw,
+
+J. SCHAUVLIEGE
+
+De Vlaamse minister van Cultuur, Media, Jeugd en Brussel,
+
+S. GATZ

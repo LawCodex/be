@@ -1,0 +1,685 @@
+---
+title: "Décret relatif à la politique d'implantation commerciale intégrale"
+identifier: "2016036197"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036197/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2016-07-15
+published: 2016-07-29
+entry_into_force: 2016-07-29
+last_amended: 2024-06-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036197/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 29-07-2016 et mise à jour au 17-06-2024"
+retrieved: 2026-10-12
+---
+
+# 15 JUILLET 2016. - Décret relatif à la politique d'implantation commerciale intégrale
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret relatif à la politique d'implantation commerciale intégrale
+
+## CHAPITRE 1er. . - Dispositions générales
+
+##### Art. 1er
+
+Le présent décret règle une matière régionale.
+
+##### Art. 2
+
+Pour l'application du présent décret, on entend par :
+
+1° administration compétente : l'entité au sein de l'administration flamande chargée par le Gouvernement flamand de l'exécution des tâches visées par le présent décret;
+
+2°[<sup>1</sup> 2° ensemble commercial : un ensemble de commerces de détail situés dans le même bâtiment ou dans des bâtiments contigus pour lesquels un permis d'environnement pour des actes urbanistiques a été obtenu ensemble, indépendamment du fait que :
+
+a) les commerces de détail sont situés sur une seule parcelle ou sur des parcelles contiguës ;
+
+b) la même personne est le développeur, le propriétaire ou l'exploitant des commerces de détail.]<sup>1</sup>;
+
+3° noyau commercial principal : une zone délimitée dans un règlement communal sur l'urbanisme ou un plan d'exécution spatial communal où une politique d'encouragement du commerce de détail est menée par l'intermédiaire de prescriptions urbanistiques;
+
+4° commerce de détail : une entité de distribution dont l'activité consiste [<sup>1</sup>, en tout ou en partie,]<sup>1</sup> à mettre en vente ou à revendre des biens aux consommateurs[<sup>1</sup> ...]<sup>1</sup>;
+
+5° ruban de commerces de détail : une succession d'au moins trois petits commerces situés sur une route d'accès ou de pénétration sans parking commun ou entrée ou sortie commune;
+
+6° zone de commerces de détail : une zone spécifiquement délimitée par un plan d'aménagement ou un plan d'exécution spatial pour l'implantation de petites entreprises de commerce de détail et d'ensembles commerciaux;
+
+7° superficie commerciale nette : la superficie destinée à la mise en vente ou à la vente accessible au public, y compris les superficies non couvertes. Cette superficie inclut également les zones des caisses, les zones qui se trouvent derrière les caisses et le hall d'entrée;
+
+8° zone pauvre en commerces : une zone délimitée dans un règlement communal ou provincial sur l'urbanisme ou un plan d'exécution spatial communal ou provincial où des limitations sont imposées au commerce de détail par l'intermédiaire de prescriptions urbanistiques;
+
+----------
+
+(1)&lt;DCFL 2023-07-07/09, art. 3, 009; En vigueur : 09-08-2023&gt;
+
+##### Art. 3
+
+Pour l'application du présent décret, les catégories suivantes sont considérées comme catégories d'activités de commerce de détail :
+
+1° vente de denrées alimentaires;
+
+2° vente de biens d'équipement personnel;
+
+3° vente de plantes, fleurs et matériel d'agriculture et d'horticulture;
+
+4°[<sup>1</sup> la vente de matériel de transport et d'acheminement ; ]<sup>1</sup>
+
+[<sup>1</sup> 5° la vente de biens volumineux qui ne relèvent pas des catégories visées aux points 1° à 4° ;
+
+6° vente de biens non volumineux qui ne relèvent pas des catégories visées aux points 1° à 4°.]<sup>1</sup>
+
+[<sup>1</sup> A l'alinéa 1er, on entend par biens volumineux : les biens dont la somme de la hauteur, de la largeur et de la profondeur est supérieure ou égale à 2,5 mètres.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-07-07/09, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+##### Art. 4
+
+La Région flamande mène, en coopération avec les communes et provinces, une politique d'implantation commerciale intégrale axée sur :
+
+1° la création de possibilités d'implantation durables pour le commerce de détail, y compris la prévention de rubans de commerces de détail non désirés ;
+
+2° la garantie d'une offre accessible pour les consommateurs;
+
+3° la garantie et le renforcement de la viabilité dans l'environnement urbain, y compris le renforcement de noyaux commerciaux principaux ;
+
+4° la réalisation d'une mobilité durable.
+
+## CHAPITRE 2. - Développement d'une vision
+
+##### Art. 5
+
+Le Gouvernement flamand peut, en exécution des objectifs visés à l'article 4, fixer un cadre politique flamand d'implantation commerciale intégrale. Il communique ce cadre politique.
+
+Il demande à cette fin l'avis du Comité pour le Commerce de détail visé à l'article 8.
+
+##### Art. 6
+
+Les provinces et communes peuvent, en exécution des objectifs visés à l'article 4, développer une vision locale sur le plan de la politique d'implantation commerciale intégrale. Elles communiquent cette vision locale.
+
+Les Provinces et communes peuvent solliciter à cette fin l'avis du Comité pour le Commerce de détail visé à l'article 8.
+
+La vision provinciale s'oriente en fonction du cadre politique flamand d'implantation commerciale intégrale, s'il existe. La vision communale s'oriente en fonction du cadre politique flamand et de la vision provinciale, s'ils existent.
+
+Les provinces et communes adaptent au besoin leur vision locale au cadre politique flamand politique d'implantation intégrale après publication de ce dernier.
+
+Les communes adaptent au besoin leur vision locale au cadre politique flamand d'implantation commerciale intégrale ou à la vision locale de la province après publication de ces derniers.
+
+##### Art. 7
+
+Les autorités peuvent intégrer la vision en matière de politique d'implantation commerciale intégrale dans les schémas de structure d'aménagement.
+
+##### Art. 8
+
+Le Comité pour le Commerce de détail se compose :
+
+1° de quatre représentants de l'administration flamande, dont un représentant de l'administration compétente qui préside les séances ;
+
+2° d'un représentant d'organisations représentatives des consommateurs;
+
+3° de quatre représentants d'organisations représentatives des patrons et des travailleurs.
+
+[<sup>1</sup> Les représentants visés à l'alinéa 1er, 2° et 3°, ont une fonction générale au sein de l'organisation ou sont actifs au niveau interprofessionnel ou pour l'ensemble de la Région flamande. ]<sup>1</sup>
+
+Le Gouvernement flamand définit les modalités plus précises concernant la composition et le fonctionnement du Comité pour le Commerce de détail.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/09, art. 5, 009; En vigueur : 09-08-2023&gt;
+
+##### Art. 9
+
+Le Comité pour le commerce de détail peut formuler des avis, émettre des remarques ou soumettre des propositions concernant toutes les matières relatives à une politique d'implantation commerciale intégrale, de sa propre initiative ou à la demande du Gouvernement flamand.
+
+Les provinces ou communes peuvent solliciter l'avis du Comité pour le commerce de détail au sujet des matières visées à l'article 6.
+
+## CHAPITRE 3. - Planning
+
+##### Art. 10
+
+§ 1er. En vue de la réalisation des objectifs visés à l'article 4, les plans communaux d'exécution spatiale et les règlements communaux sur l'urbanisme peuvent :
+
+1° délimiter des noyaux commerciaux principaux " et des zones pauvres en magasins ;
+
+2° inclure des normes concernant la superficie des catégories d'activités de commerce de détail visées à l'article 3;
+
+3° différencier ces normes selon qu'il s'agit de commerces au détail et ensembles de commerces existants ou nouveaux;
+
+4° raccourcir les délais d'application de l'obligation de permis d'environnement aux activités de commerce de détail fixés par l'article 11 premier alinéa, 2°, à :
+
+a) 1, 30, 60, 90, 120 ou 150 jours par an dans le cas où les activités commerciales sont compatibles avec les prescriptions urbanistiques;
+
+b) 1, 30 ou 60 jours par an dans tous les autres cas.
+
+En vue de la réalisation des objectifs visés à l'article 4, les plans communaux d'exécution spatiale et les règlements provinciaux sur l'urbanisme peuvent :
+
+1° délimiter des zones pauvres en commerces ayant un impact au-delà des frontières communales, en concertation avec les communes concernées et à la demande d'au moins une commune concernée;
+
+2° inclure des normes concernant la superficie des catégories d'activités de commerce de détail visées à l'article 3;
+
+3° différencier ces normes selon qu'il s'agit de commerces au détail et d'ensembles de commerces existants ou nouveaux.
+
+Les normes visées aux premier et deuxième alinéas ne peuvent :
+
+1° imposer de limitations aux permis socio-économiques et aux permis d'environnement en vigueur pour les activités de commerce de détail;
+
+2° interdire les agrandissements d'établissements commerciaux existants et autorisés non soumis à l'obligation d'autorisation.
+
+§ 2. En vue de la réalisation des objectifs visés à l'article 4, les plans d'exécution spatiale et les règlements sur l'urbanisme peuvent délimiter des zones de commerce de détail.
+
+## CHAPITRE 4. - Permis d'environnement pour activités de commerce de détail
+
+##### Art. 11
+
+Nul ne peut, sans permis d'environnement préalable pour les activités de commerce de détail :
+
+1° réaliser des activités de commerce de détail dans un commerce de détail ou un ensemble commercial dont la superficie commerciale nette excède 400 m|F2 dans une structure à construire à neuf et non exemptée de permis;
+
+2° réaliser des activités de commerce de détail dans un commerce de détail ou un ensemble commercial d'une superficie commerciale nette de plus de 400 m|F2 dans un immeuble existant, autorisé ou autorisé en principal, ou dans des structures temporairement autorisées ou exemptées d'autorisation si les activités commerciales sont exécutées :
+
+a) pendant plus de cent quatre-vingts jours par an dans le cas où les activités commerciales sont compatibles avec les prescriptions urbanistiques en vigueur;
+
+b) pendant plus de nonante jours par an dans tous les autres cas.
+
+à condition que les activités de commerce de détail soient en concordance avec les conditions expresses d'un permis d'environnement pour les actions d'urbanisme;
+
+3° agrandir un commerce de détail ou un ensemble commercial si, de ce fait, la superficie commerciale nette :
+
+a) excède de plus de 300 m|F2 celle de la superficie commerciale nette autorisée, ou
+
+b) excède de plus de 20% celle de la superficie commerciale nette autorisée;
+
+4° fusionner des commerces au détail ou des ensembles commerciaux dont la superficie commerciale nette s'établit, après fusion, à plus de 400 m|F2;
+
+5° apporter une modification significative aux catégories d'activités de commerce de détail visées à l'article 3 dans un commerce de détail ou un ensemble commercial dont la superficie commerciale nette excède 400 m|F2.
+
+[<sup>1</sup> 6° scinder un commerce de détail de plus de 400 mètres carrés, qu'il se trouve ou non dans un ensemble commercial.]<sup>1</sup>
+
+Par modification significative aux catégories de commerce de détail visées au premier alinéa, 5°, on entend une modification par laquelle une catégorie d'activités de commerce de détail excède le nombre autorisé de mètres carrés de superficie commerciale nette d'au moins une des superficies suivantes :
+
+1° 10 pour cent de la superficie commerciale nette totale autorisée;
+
+2° 300 mètres carrés.
+
+Le permis fixe le nombre de mètres carrés de la superficie commerciale nette totale par catégorie d'activités de commerce de détail.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/09, art. 6, 009; En vigueur : 04-03-2024&gt;
+
+##### Art. 12
+
+Le permis est délivré conformément à la procédure habituelle et simplifiée visée dans le décret du 25 avril 2014 relatif au permis d'environnement.
+
+##### Art. 13
+
+Un permis d'environnement pour les activités de commerce de détail est refusé si la demande est inconciliable avec les prescriptions urbanistiques ou les prescriptions de lotissement, pour autant qu'il n'y ait pas été dérogé valablement.
+
+Un permis d'environnement pour les activités de commerce de détail peut être refusé si la demande est inconciliable avec les objectifs de la politique d'implantation commerciale intégrale visés à l'article 4.
+
+En évaluant la demande de permis, l'autorité chargée de délivrer le permis d'environnement pour les activités de commerce de détail tient compte de la situation existante des environs et des développements stratégiques souhaités concernant les objectifs de la politique d'implantation commerciale intégrale visée à l'article 4.
+
+L'évaluation d'une demande d'obtention d'un permis d'environnement pour activités de commerce de détail ne peut être réalisée sur la base de l'application au cas par cas de critères économiques dans le cadre desquels la délivrance du permis est subordonnée à la preuve qu'il existe un besoin économique ou une demande du marché, d'une évaluation des conséquences possibles ou actuelles de l'activité ou d'une évaluation de l'adéquation de l'activité aux objectifs de planification économique fixés par l'instance compétente ; cette interdiction ne porte pas sur les exigences de planification qui ne visent pas un objectif économique, mais qui découlent de raisons impérieuses d'intérêt général.
+
+## CHAPITRE 5. - Conventions d'implantation commerciale
+
+##### Art. 14
+
+§ 1er. Une ou plusieurs communes et un ou plusieurs promoteurs ou exploitants de commerces au détail ou d'ensembles de commerces peuvent conclure des conventions d'implantation commerciale sur une base volontaire.
+
+Les conventions d'implantation commerciale sont des conventions de droit civil permettant d'établir des accords concernant :
+
+1° une politique rationnelle en matière d'offre et d'emplacement;
+
+2° des initiatives communes et leur financement;
+
+3° la participation à la politique de renforcement des noyaux urbains des communes concernées;
+
+4° des obligations de moyens de la part des communes au niveau de la facilitation de la stabilité de la politique en matière d'implantation commerciale locale.
+
+Les conventions visées au deuxième alinéa ne portent pas sur le contenu des approbations, habilitations, permis ou subsides.
+
+Les promoteurs et exploitants parties à une convention d'implantation commerciale incluent les dispositions pertinentes à titre contraignant dans leurs conventions ultérieures relatives au commerce de détail ou à l'ensemble commercial, y compris :
+
+1° les conventions de transfert du droit de propriété à des tiers;
+
+2° les conventions de transfert de tout droit d'usage ou de jouissance à des tiers;
+
+3° l'établissement d'un droit d'usufruit, d'emphytéose ou de superficie;
+
+4° la fusion ou la scission de personnes morales.
+
+§ 2. Une convention d'implantation commerciale peut désigner le Comité pour le commerce de détail visé à l'article 8 comme instance médiatrice pour les litiges découlant de l'application de la convention.
+
+## CHAPITRE 6. - Maintien de la politique d'implantation commerciale
+
+### Section 1re.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 123, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 15
+
+[<sup>1</sup> Le Décret-cadre Maintien flamand du 14 juillet 2023, y compris le chapitre 10, sections 6, 7, 9 [1 , 10 et 13]1, s'applique au présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 124, 010; En vigueur : 01-04-2026&gt;
+
+### Section 2.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 126, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 16
+
+[<sup>1</sup> Le non-respect de l'obligation d'autorisation, visée à l'article 11, ou le fait de contrevenir à un permis d'environnement pour les activités de commerce de détail constitue une infraction qui est sanctionnée par une amende administrative de minimum 1 200 euros et maximum 80 000 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 126, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 17
+
+[<sup>1</sup> § 1er. Les personnes suivantes sont une instance de réparation telle que visée à l'article 2, 15°, du Décret-cadre Maintien flamand du 14 juillet 2023 :
+
+1° les membres du personnel de l'administration compétente désignée à cet effet par le Gouvernement flamand ou son mandataire ;
+
+2° les membres du personnel de la commune désignés à cet effet par le collège des bourgmestre et échevins, même s'il s'agit de membres du personnel d'une autre commune ;
+
+3° les membres du personnel d'une intercommunale désignés à cet effet par l'intercommunale ;
+
+4° le bourgmestre ou son suppléant.
+
+Le Gouvernement flamand peut déterminer les exigences de formation et d'expérience et d'autres conditions auxquelles des catégories d'instances de réparation doivent satisfaire, et limiter leurs compétences sur le plan du contenu, géographique ou temporel.
+
+§ 2. Le Gouvernement flamand ou son mandataire désigne les membres du personnel de l'Autorité flamande qui interviennent comme instance verbalisante telle que visée à l'article 2, 3°, du Décret-cadre Maintien flamand du 14 juillet 2023.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 127, 010; En vigueur : 01-04-2026&gt;
+
+### Section 3.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 18
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 19
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 20
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 21
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+### Section 4.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+#### Sous-section 1.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 22
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+#### Sous-section 2.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 23
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+#### Sous-section 3.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 24
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+#### Sous-section 4.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 25
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+##### Art. 26
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 128, 010; En vigueur : 01-04-2026&gt;
+
+### Section 5. - Dispositions diverses
+
+##### Art. 27
+
+Le tribunal peut annuler le titre d'acquisition de propriété, d'acquisition d'un droit réel de jouissance ou de location d'un bien qui constitue un emplacement pour l'exploitation d'activités de commerce de détail à la requête d'un cocontractant, si ces activités de commerce de détail font ou peuvent faire l'objet d'une mesure administrative telle que mentionnée dans le présent chapitre, sans préjudice de leurs droits à demander indemnisation.
+
+La requête en annulation sur la base du premier alinéa ne peut être introduite à l'égard du titre mentionné au premier paragraphe si ce titre mentionne explicitement l'infraction et que la partie concernée a expressément renoncé dans ce titre à la requête en annulation. La requête en annulation sur la base du premier alinéa ne peut pas davantage être introduite par le contrevenant.
+
+## CHAPITRE 7. - Dispositions modificatives
+
+### Section 1re. - Modifications du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement
+
+##### Art. 28
+
+A l'article 16.1.1 du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement remplacé par le décret du 21 décembre 2007 et modifié par les décrets des 12 décembre 2008, 30 avril 2009, 8 mai 2009, 23 décembre 2010, 23 décembre 2010, 8 février 2013, 14 février 2014, 28 février 2014 et 28 mars 2014, est ajouté un quatrième alinéa qui s'énonce comme suit :
+
+" Le chapitre IV, sections III et V, du présent titre s'applique au chapitre VI du décret du 15 juillet 2016 relatif à la politique d'implantation commerciale intégrale. ".
+
+##### Art. 29
+
+A l'article 16.4.19 du décret contenant des dispositions générales concernant la politique de l'environnement, remplacé par le décret du 21 décembre 2007 et modifié par les décrets des 30 avril 2009, du 23 décembre 2010 et du 4 avril 2014, sont apportées les modifications suivantes :
+
+1° au paragraphe 2, 3°, la partie de phrase " 12 juillet 2013. " est remplacée par la partie de phrase " 12 juillet 2013; " ;
+
+2° au paragraphe 2 est ajouté un point 4°, qui s'énonce comme suit :
+
+" 4° les recours introduits contre les décisions du fonctionnaire régional visé à l'article 19, premier alinéa du décret du 15 juillet 2016 relatif à la politique d'implantation commerciale intégrale, concernant l'imposition d'une amende administrative exclusive et, le cas échéant, d'un dessaisissement d'avantages tel que mentionné à l'article 18 du décret susmentionné. ".
+
+### Section 2. - Modifications du Code flamand de l'Aménagement du Territoire
+
+##### Art. 30
+
+Un nouvel alinéa est inséré entre les sixième et septième alinéas de l'article 2.3.1. du Code flamand de l'Aménagement du Territoire. Il est rédigé comme suit :
+
+" Le Gouvernement flamand soumet le projet de règlement régional sur l'urbanisme à une enquête publique. L'enquête publique durera trente jours et sera au minimum annoncée par un avis au Moniteur Belge. Le Gouvernement flamand peut déterminer les modalités de l'enquête publique. ".
+
+##### Art. 31
+
+Les modifications suivantes sont apportées à l'article 2.3.2 du même décret :
+
+1° au paragraphe 1er, un nouvel alinéa est inséré entre les quatrième et cinquième alinéas, qui est rédigé suit :
+
+" La députation soumet le projet de règlement provincial sur l'urbanisme à une enquête publique. L'enquête publique durera trente jours et sera au minimum annoncée par un avis au Moniteur Belge. Le Gouvernement flamand détermine les modalités de l'enquête publique. " ;
+
+2° au paragraphe 2, un nouvel alinéa inséré entre les sixième et septième alinéas, qui est rédigé comme suit :
+
+" Le collège des bourgmestre et échevins soumet le projet de règlement communal sur l'urbanisme à une enquête publique. L'enquête publique durera trente jours et sera au minimum annoncée par un avis au Moniteur belge. Le Gouvernement flamand peut déterminer les modalités de l'enquête publique. ".
+
+##### Art. 32
+
+Les modifications suivantes sont apportées à l'article 5.6.7 de ce même code, remplacé par le décret du 25 avril 2014 :
+
+1° au paragraphe 1er, premier alinéa, les mots " ou pour des activités de commerce de détail " sont insérés entre les mots " d'une exploitation ou d'une activité classée " et les mots " peut faire l'objet d'un avis favorable ";
+
+2° au paragraphe 2, les mots suivants " ou pour des activités de commerce de détail " sont insérés entre les mots " d'une exploitation ou d'une activité classée " et les mots " peut faire l'objet d'un avis défavorable "
+
+### Section 3. - Modifications du décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes
+
+##### Art. 33
+
+[<sup>1</sup> Dans l'article 21 du décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, le paragraphe 2 est remplacé par ce qui suit :
+
+" § 2. Le fonctionnaire dirigeant du Département de l'Environnement et de l'Aménagement du Territoire ou de l'Agence de l'Innovation et de l'Entrepreneuriat, ou en leur absence leurs mandataires intervenant en application de l'article 105, § 2, respectivement 5° à 7°, du décret du 25 avril 2014 relatif au permis d'environnement sont exemptés du paiement de tout droit de rôle. ". ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-10-27/06, art. 41, 003; En vigueur : 07-12-2017&gt;
+
+### Section 4. - Modifications du décret du 25 avril 2014 relatif au permis d'environnement ;
+
+##### Art. 34
+
+A l'article 2, du décret du 25 avril 2014 relatif au permis d'environnement sont apportées les modifications suivantes :
+
+1° à l'alinéa 1er, le point 8° est remplacé par ce qui suit :
+
+" 8° projet : l'ensemble des éléments suivants, ou au moins l'un d'eux, soumis à l'obligation d'autorisation ou de notification visée à l'article 5 :
+
+a) actions d'urbanisme;
+
+b) l'exploitation d'installations ou d'activités classées ;
+
+c) activités de commerce de détail;
+
+ou le lotissement de terrains. ".
+
+2° le deuxième alinéa est remplacé par ce qui suit :
+
+" Sauf définition contraire dans le présent décret, les définitions suivantes sont applicables au présent décret :
+
+1° les définitions visées aux articles 1.1.2 et 4.1.1 du Code flamand de l'Aménagement du Territoire (VCRO) ;
+
+2° les définitions visées aux articles 5.1.1 et 5.1.2 du décret sur la politique de l'environnement (DABM) ;
+
+3° les définitions énumérées à l'article 2 du décret du 15 juillet relatif à la politique d'implantation commerciale intégrale.
+
+##### Art. 35
+
+A l'article 3 du même décret, les premier et deuxième alinéas sont remplacés par ce qui suit :
+
+" Le présent décret vise un octroi de permis efficace, ciblé et intégré qui contribue aux objectifs visés à :
+
+1° l'article 1.1.4 du VCRO;
+
+2° l'article 5.1.3 du DABM;
+
+3° l'article 4 du décret du 15 juillet relatif à la politique d'implantation commerciale intégrale.
+
+Ce décret n'affecte en rien les obligations de contenu constatées par ou en vertu :
+
+1° du titre IV du VCRO;
+
+2° du titre IV du DABM;
+
+3° du décret du 15 juillet relatif à la politique d'implantation commerciale intégrale.
+
+##### Art. 36
+
+A l'article 5,1° du même décret, est ajouté un point d) qui s'énonce comme suit :
+
+" d) les activités de commerce de détail soumises à l'obligation d'autorisation visées à l'article 11 du décret du 15 juillet relatif à la politique d'implantation commerciale intégrale.
+
+##### Art. 37
+
+A l'article 18 du même décret, le deuxième alinéa est remplacé par ce qui suit :
+
+" Si le projet contient des éléments soumis à plusieurs obligations d'autorisation, par ou en vertu des décrets visés à l'article 5, et que ces aspects sont indissociablement liés, la demande d'autorisation est introduite pour l'ensemble des aspects concernés.
+
+##### Art. 38
+
+Un article 27/1 est ajouté au même décret, modifié par le décret du 18 décembre 2015. Il s'énonce comme suit :
+
+" Art. 27/1. Si le projet inclut des activités de commerce de détail soumises à l'obligation d'autorisation, dont la superficie commerciale nette excède 20 000 mètres carrés, et situées à une distance de moins de vingt kilomètres d'une autre région ou de plusieurs autres régions, et que le collège des bourgmestre et échevins ou la députation est l'autorité compétente, le fonctionnaire environnement communal ou provincial en informe le Gouvernement flamand par envoi sécurisé, en vue de répondre aux obligations reprises à l'article 6, § 5bis de la Loi spéciale de réformes institutionnelles du 8 août 1980. ".
+
+##### Art. 39
+
+A l'article 29 du même décret sont apportées les modifications suivantes :
+
+1° entre les mots " la requête " et les mots " aux motifs de l'évaluation " est insérée la partie de phrase " le cas échéant ";
+
+2° les mots " visé au titre IV du VCRO et au titre V du DABM " sont remplacés par la partie de phrase " défini par ou en vertu " :
+
+1° du titre IV du VCRO;
+
+2° du titre IV du DABM;
+
+3° le décret du 15 juillet relatif à la politique d'implantation commerciale intégrale ".
+
+##### Art. 40
+
+A l'article 37 du même décret, le deuxième alinéa est remplacé par ce qui suit :
+
+" Si le projet contient des éléments soumis à plusieurs obligations d'autorisation, par ou en vertu des décrets visés à l'article 5, et que ces aspects sont indissociablement liés, la demande d'autorisation est introduite pour l'ensemble des aspects concernés.
+
+##### Art. 41
+
+Un article 43/1 est ajouté au même décret, modifié par le décret du 18 décembre 2015. Il s'énonce comme suit :
+
+" Art. 43/1. Si le projet inclut des activités soumises à l'obligation d'autorisation dont la superficie commerciale nette excède 20 000 mètres carrés, et situées à une distance de moins de vingt kilomètres d'une autre région ou de plusieurs autres régions, et que le collège des bourgmestre et échevins ou la députation est l'autorité compétente, le fonctionnaire environnement communal ou provincial en informe le Gouvernement flamand par envoi sécurisé, en vue de répondre aux obligations reprises à l'article 6, § 5bis de la Loi spéciale de réformes institutionnelles du 8 août 1980. ".
+
+##### Art. 42
+
+A l'article 44 du même décret sont apportées les modifications suivantes :
+
+1° Entre les mots " la requête " et les mots " aux motifs de l'évaluation " est insérée la partie de phrase " le cas échéant ";
+
+2° les mots " visé au titre IV du VCRO et au titre V du DABM " sont remplacés par la partie de phrase " définis par ou en vertu "
+
+1° du titre IV du VCRO;
+
+2° du titre IV du DABM;
+
+3° le décret du 15 juillet 2016 relatif à la politique intégrale d'implantation commerciale ".
+
+##### Art. 43
+
+A l'article 53 du même décret, est ajouté un point 7° qui s'énonce comme suit :
+
+" 7° le fonctionnaire dirigeant de l'Agence de l'Innovation et de l'Entrepreunariat, ou en son absence son mandataire, si le projet inclut des activités de commerce de détail soumises à obligation d'autorisation. ".
+
+##### Art. 44
+
+Un article 57/1 est ajouté au même décret. Il s'énonce comme suit :
+
+" Art. 57/1. Les recours en matière de permis d'environnement qui incluent uniquement des activités de commerce de détail et qui sont uniquement basés sur des critères économiques en fonction d'objectifs économiques sont irrecevables. ".
+
+##### Art. 45
+
+Un point 10 est ajouté à l'article 68, deuxième alinéa, du même décret. Il s'énonce comme suit :
+
+" 10° pour les projets qui incluent des activités de commerce de détail et ne sont pas autorisés pour plus de 12 mois dans un bâtiment existant, autorisé ou autorisé en principal, ou dans des structures temporairement autorisées ou exemptées d'autorisation. ".
+
+##### Art. 46
+
+Un article 73/1 est ajouté au même décret. Il s'énonce comme suit :
+
+" Art. 73/1. L'autorité compétente peut soumettre l'exécution d'activités de commerce de détail à des conditions. ".
+
+##### Art. 47
+
+L'intitulé de la section 1ère du chapitre 8 du même décret est remplacé par ce qui suit :
+
+" Section 1re. Expiration du permis d'environnement pour l'exécution d'actions d'urbanisme, l'exploitation d'une installation ou d'une activité classée, ou l'exécution d'activités de commerce de détail ".
+
+##### Art. 48
+
+A l'article 99 du même décret sont apportées les modifications suivantes :
+
+1° un point 5° est ajouté au paragraphe 1er, premier alinéa. Il s'énonce comme suit :
+
+" 5° si les activités de commerce de détail ne commencent pas dans les cinq ans suivant l'octroi du permis d'environnement définitif. " ;
+
+2° un paragraphe 2/1 est inséré entre les paragraphes 2 et 3, qui s'énonce comme suit :
+
+" § 2/1. Le permis d'environnement pour l'exécution d'activités de commerce de détail expire de plein droit si les activités de commerce de détail sont interrompues pendant plus de cinq années consécutives. ".
+
+##### Art. 49
+
+A l'article 105, § 2, premier alinéa, du même décret est ajouté un point 7° qui s'énonce comme suit :
+
+" 7° le fonctionnaire dirigeant de l'Agence de l'Innovation et de l'Entrepreunariat, ou en son absence son mandataire, si le projet inclut des activités de commerce de détail soumises à obligation d'autorisation. ".
+
+##### Art. 50
+
+L'article 106 du même décret est remplacé par ce qui suit :
+
+" Art. 106. Une notification ne peut être émise pour les actes d'urbanisme soumis à obligation de notification, une exploitation soumise à obligation de notification d'installations ou d'activités classées qu'inclut le projet, ou une combinaison de celles-ci. ".
+
+## CHAPITRE 8. - Disposition abrogatoire
+
+##### Art. 51
+
+La loi du 13 août 2004 relative à l'autorisation d'implantations commerciales, modifiée par les lois du 27 décembre 2005, du 22 décembre 2009 et du 29 mars 2012 est abrogée.
+
+## CHAPITRE 9. - Dispositions finales
+
+##### Art. 52
+
+L'échéance prévue à l'article 13 de la loi du 13 août 2004 relative à l'autorisation d'implantations commerciales pour les autorisations d'implantations commerciales encore valables octroyées en application de la loi du 29 juin 1975 sur les implantations commerciales et la loi du 13 août 2004 relative à l'autorisation d'implantations commerciales est suspendue tant qu'un recours en annulation de l'autorisation est en instance auprès du Conseil d'Etat et tant qu'un appel en annulation d'éventuels autres permis, habilitations ou autorisations requis pour le projet est en instance au Conseil d'Etat ou au Conseil de Contestations d'Autorisation.
+
+La même échéance, si elle s'applique à un permis socio-économique pour une exploitation commerciale pour laquelle un permis d'urbanisme ou un permis d'environnement sont également requis, est suspendue tant que le permis d'urbanisme ou le permis d'environnement n'ont pas été définitivement octroyés. Dans ce cas, l'échéance prévue à l'article 13 de la loi du 13 août 2004 relative à l'autorisation d'implantations commerciales ne commence qu'au jour où le permis d'urbanisme et/ou le permis d'environnement sont définitivement délivrés.
+
+##### Art. 53
+
+Toutes les autorisations encore valables pour les implantations commerciales délivrées en application de la loi du 29 juin 1975 sur les implantations commerciales et de la loi du 13 août 2004 relative à l'autorisation d'implantations commerciales sont considérées, à dater du jour de l'entrée en vigueur de l'article 11, comme un permis d'environnement pour les activités de commerce de détail conformément au présent décret et au décret du 25 avril 2014 relatif au permis d'environnement.
+
+Si ces autorisations d'implantations commerciales incluent des catégories d'activités de commerce de détail plus détaillées que celles prévues à l'article 3, celles-ci sont ramenées de plein droit à dater du jour d'entrée en vigueur de l'article 11 aux catégories d'activités de commerce de détail énumérées à l'article 3.
+
+Les autorisations mentionnées à l'alinéa 1er expirent si les activités de commerce de détail ne commencent pas dans les cinq ans suivant l'octroi de celles-ci ou sont interrompues pendant plus de cinq années consécutives à dater de l'entrée en vigueur de l'article 11.
+
+Ces échéances de cinq ans sont suspendues tant qu'un recours en annulation de l'autorisation est en instance au Conseil d'Etat et tant qu'un recours en annulation d'éventuels autres permis, habilitations ou autorisations nécessaires au projet est en instance au Conseil d'Etat ou au Conseil de Contestations d'Autorisation.
+
+##### Art. 54
+
+Les implantations commerciales qui sont autorisées en principal pour l'urbanisme ou sont censées l'être et n'étaient pas tenues de demander une autorisation pour implantation commerciale sur la base de la loi du 29 juillet 1975 sur les implantations commerciales sont, à dater du jour d'entrée en vigueur de l'article 11, censées disposer pour l'application du présent décret d'un permis d'environnement pour activités de commerce de détail.
+
+Si les implantations commerciales visées au premier alinéa n'ont pas été, depuis lors, tenues d'obtenir une autorisation pour des modifications notables de l'assortiment, les catégories d'activités de commerce de détail présentes au jour d'entrée en vigueur de l'article 11 telles qu'énumérées à l'article 3, elles sont censées être autorisées avec les superficies et pourcentages présents à ce moment.
+
+Les autorisations mentionnées à l'alinéa 1er expirent si les activités de commerce de détail sont interrompues pendant plus de cinq années consécutives à dater de l'entrée en vigueur de l'article 11.
+
+##### Art. 55
+
+Les demandes d'autorisation d'implantations commerciales mentionnées à la loi du 13 août 2004 relative à l'autorisation d'implantations commerciales introduites avant la date d'entrée en vigueur de l'article 11 du présent décret sont traitées selon les règles de procédure de la loi du 13 août 2004 relative à l'autorisation d'implantations commerciales en vigueur au moment de l'introduction de la demande.
+
+##### Art. 56
+
+[<sup>1</sup> Les articles 30 et 31]<sup>1</sup> du présent décret ne s'appliquent pas aux projets de règlements qui ont déjà été établis une première fois par le Gouvernement flamand, la députation ou le collège des bourgmestre et échevins pour l'entrée en vigueur des modalités relatives à l'enquête publique visées à ces articles.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 121, 002; En vigueur : 17-07-2017&gt;
+
+##### Art. 57
+
+Les ordres d'interruption imposés avant la date d'entrée en vigueur de l'article 23 du présent décret sont considérés de plein droit comme un ordre de cessation comme prévu à l'article 23 lorsque les faits peuvent encore faire l'objet d'une amende administrative telle que visée à l'article 18.
+
+##### Art. 58
+
+Le président du tribunal de commerce siégeant comme en référé peut toujours accéder aux requêtes qui lui sont soumises régulièrement si les faits sont censés avérés et qu'ils peuvent encore faire l'objet d'une amende administrative telle que visée à l'article 18 au moment du jugement.
+
+##### Art. 59
+
+Le présent décret entre en vigueur à la date de publication au Moniteur belge, à l'exception de :
+
+1° l'article 10, § 1er. Ce paragraphe entre en vigueur à une date à fixer par le Gouvernement flamand, et au plus tôt à la date d'entrée en vigueur de l'arrêté du Gouvernement flamand donnant exécution aux dispositions des articles 2.3.1 et 2.3.2 du Code flamand de l'Aménagement du territoire tel que modifié par les articles 30 et 31 du présent décret.
+
+2° les chapitres 4 et 6. Ces chapitres entreront en vigueur [<sup>1</sup> à une date à fixer pour chaque article par le Gouvernement flamand]<sup>1</sup>
+
+3° les chapitres 7 et 8. Ces chapitres entreront en vigueur à une date à fixer par article par le Gouvernement flamand.
+
+4° l'article 52. Le présent article produit ses effets à partir du 1er juillet 2014.
+
+(NOTE : Entrée en vigueur des art. 10, § 1er; 30; 31 fixée au 01-05-2017 par AGF 2017-02-10/15, art. 2)
+
+(NOTE : Entrée en vigueur des articles 11 ; 12 ; 13 ; 32 à 51 fixée au 01-08-2018 par AGF 2018-03-09/09, art. 80)
+
+(NOTE : par son arrêt n° 51/2018 du 26-04-2018 (M.B. 22-05-2018, p. 41917), la Cour constitutionnelle a annulé l'article 59, 4°)
+
+----------
+
+(1)&lt;DCFL 2017-12-08/06, art. 213, 004; En vigueur : 30-12-2017&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 juillet 2016.
+
+Le Ministre-président du Gouvernement flamand,
+
+G. BOURGEOIS
+
+Le ministre flamand de l'Emploi, de l'Economie, de l'Innovation et des Sports,
+
+Ph. MUYTERS
+
+La Ministre flamande de l'Environnement, de la Nature et de l'Agriculture
+
+J. SCHAUVLIEGE
