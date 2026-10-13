@@ -1,0 +1,73 @@
+---
+title: "Décret modifiant le décret Patrimoine immobilier du 12 juillet 2013, en ce qui concerne les subventions aux acteurs et le Prêt patrimonial"
+identifier: "2026004430"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004430/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2026-06-05
+published: 2026-06-17
+entry_into_force: 2027-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004430/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 5 JUIN 2026. - Décret modifiant le décret Patrimoine immobilier du 12 juillet 2013, en ce qui concerne les subventions aux acteurs et le Prêt patrimonial
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret modifiant le décret Patrimoine immobilier du 12 juillet 2013, en ce qui concerne les subventions aux acteurs et le Prêt patrimonial
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Dans l'article 10.1.1, alinéa 1er, du décret Patrimoine immobilier du 12 juillet 2013, modifié par le décret du 10 juin 2022, le point 1° est remplacé par ce qui suit :
+
+" 1° accorder des subventions aux communes agréées du patrimoine immobilier, aux services intercommunaux agréés du patrimoine immobilier, aux dépôts agréés du patrimoine immobilier et à d'autres acteurs qui contribuent à la politique en matière de patrimoine immobilier ; ".
+
+## Art. 3
+
+Dans l'article 10.4.1 du même décret, inséré par le décret du 15 juillet 2016 et modifié par le décret du 10 juin 2022, à l'alinéa 1er, le membre de phrase " Aucune prime, subvention ou allocation n'est accordée aux entreprises " est remplacé par le membre de phrase " N'ont pas droit aux primes, subventions, prêts ou allocations les entreprises " et à l'alinéa 2, le membre de phrase " Les primes, subventions ou allocations accordées " est remplacé par le membre de phrase " Les primes, subventions, prêts ou allocations accordés ".
+
+## Art. 4
+
+Le chapitre 10 du même décret, modifié en dernier lieu par le décret du 26 avril 2024, est complété par une section 6 rédigée comme suit :
+
+" Section 6. Prêt patrimonial ".
+
+## Art. 5
+
+Dans le même décret, modifié en dernier lieu par le décret du 17 mai 2024, la section 6, ajoutée par l'article 4, est complétée par un article 10.6.1 rédigé comme suit :
+
+" Art. 10.6.1. Le Gouvernement flamand peut accorder des prêts patrimoniaux dans les limites des crédits inscrits à cet effet au budget de la Communauté flamande.
+
+Le Gouvernement flamand peut arrêter les modalités des prêts patrimoniaux ainsi que la procédure concernant la demande et l'octroi.
+
+Lors de l'octroi des prêts patrimoniaux, visés à l'alinéa 1er, le Gouvernement flamand peut recourir aux services d'un partenaire et conclure, dans ce cadre, un accord de coopération. ".
+
+## Art. 6
+
+Le présent décret entre en vigueur le 31 décembre 2027.
+
+Le Gouvernement flamand peut arrêter, pour chaque disposition du présent décret, une date d'entrée en vigueur antérieure à la date visée à l'alinéa 1er.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 5 juin 2026.
+
+Le Ministre-Président du Gouvernement flamand,
+
+M. DIEPENDAELE
+
+Le Ministre flamand du Budget et des Finances, du Vlaamse Rand, du Patrimoine immobilier et du Bien-Etre des animaux,
+
+B. WEYTS
