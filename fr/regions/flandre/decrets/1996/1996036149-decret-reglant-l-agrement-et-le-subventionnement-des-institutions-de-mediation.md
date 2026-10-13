@@ -1,0 +1,205 @@
+---
+title: "[Décret réglant l'agrément et le subventionnement des institutions de médiation de dettes [...]] (TRADUCTION) <DCFL 2008-07-10/47 , art. 2, 003; En vigueur : 23-08-2008> <Intitulé modifié par DCFL 2017-02-17/06 , art. 16, 005; En vigueur : 01-01-2018>"
+identifier: "1996036149"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996036149/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1996-07-24
+published: 1996-10-05
+entry_into_force: 1997-05-30
+last_amended: 2024-05-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996036149/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 05-10-1996 et mise à jour au 21-05-2024"
+retrieved: 2026-10-12
+---
+
+# 24 JUILLET 1996. - [Décret réglant l'agrément et le subventionnement des institutions de médiation de dettes [...]] (TRADUCTION) &lt;DCFL 2008-07-10/47 , art. 2, 003; En vigueur : 23-08-2008&gt; &lt;Intitulé modifié par DCFL 2017-02-17/06 , art. 16, 005; En vigueur : 01-01-2018&gt;
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-10/47, art. 3, 003; En vigueur : 23-08-2008&gt;
+
+### Art. 1
+
+Le présent décret règle une matière communautaire.
+
+### Art. 2
+
+[<sup>1</sup> Dans le présent décret on entend par médiation de dettes, les services visés à l'article 1er, 13° de la loi du 12 juin 1991 relative au crédit à la consommation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-10/47, art. 4, 003; En vigueur : 23-08-2008&gt;
+
+## CHAPITRE II. [<sup>1</sup> - Institutions de médiation de dettes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2008-07-10/47, art. 5, 003; En vigueur : 23-08-2008&gt;
+
+### Art. 3
+
+[<sup>1</sup> Le Gouvernement flamand fixe la procédure de la demande d'agrément d'institutions de médiation de dettes, du renouvellement de l'agrément et de la publication de l'agrément et du renouvellement.]<sup>1</sup>
+
+L'institution ayant introduit une demande doit être entendue si elle le demande.
+
+----------
+
+(1)&lt;DCFL 2008-07-10/47, art. 6, 003; En vigueur : 23-08-2008&gt;
+
+### Art. 3bis.
+
+[<sup>1</sup> Le Département Soins (Departement Zorg), visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, agit pour les traitements mentionnés dans le présent article en tant que responsable du traitement visé à l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), et traite, conformément à l'article 6, paragraphe 1er, e), du règlement précité, des données à caractère personnel en vue de l'exécution de la procédure, visée à l'article 3 du présent décret.
+
+Le responsable du traitement, visé à l'alinéa 1er, traite les données à caractère personnel relatives aux personnes concernées dans les procédures suivantes :
+
+1° la procédure pour les demandes d'agrément des institutions pratiquant la médiation de dettes ;
+
+2° la procédure pour le renouvellement de l'agrément des institutions pratiquant la médiation de dettes ;
+
+3° la procédure pour la publication de l'agrément des institutions pratiquant la médiation de dettes et le renouvellement de l'agrément des institutions pratiquant la médiation de dettes ;
+
+4° la procédure du rapport annuel, visé à l'article 9, § 1er, 5°.
+
+Pour les finalités, visées à l'alinéa 1er, le responsable de traitement, visé à l'alinéa 1er, traite des données à caractère personnel issues des catégories de données suivantes :
+
+1° nom, prénom, type d'emploi, volume d'emploi consacré à la médiation de dettes ;
+
+2° des données relatives à la profession, la compétence professionnelle, l'éducation et la formation, telles que visées à l'article 5 ;
+
+3° le numéro d'identification de la sécurité sociale, lorsque la base de données de titres d'apprentissage et de compétence professionnelle, visée à l'article 20 du décret du 30 avril 2009 relatif à la structure des certifications, est utilisée pour le traitement des données, tel que visé au point 2°.
+
+Seuls les collaborateurs du responsable du traitement chargés des procédures, visées à l'alinéa 2, ou de la gestion de l'application pour collecter des données ont accès aux données traitées.
+
+La durée maximale de conservation pour les données à caractère personnel traitées sur la base du présent décret s'élève à deux ans suivant l'année au cours de laquelle les institutions, telles que visées à l'article 9, ont transmis ces données au Département Soins. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/23, art. 2, 006; En vigueur : 31-05-2024&gt;
+
+### Art. 4
+
+Initialement, l'agrément des institutions de médiation de dettes est attribué pour une période de trois ans; ensuite il est renouvelable pour [<sup>1</sup> une période de durée indéterminée]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2013-06-21/17, art. 34, 004; En vigueur : 24-08-2013&gt;
+
+### Art. 5
+
+Entrent seules en ligne de compte pour l'agrément, les institutions qui, en vue de la médiation de dettes, remplissent simultanément les deux conditions suivantes :
+
+1° disposer d'un assistant social qui a suivi une formation spécialisée en la matière d'au moins soixante heures ou qui a une expérience professionnelle utile d'au moins trois ans;
+
+2° fournir la preuve que soit elles occupent un docteur ou licencié en droit ayant suivi la formation susmentionnée ou disposant de l'expérience professionnelle susmentionnée, soit elles ont conclu un accord, avec un docteur ou licencié en droit remplissant au moins une de ces conditions, ou avec un ordre d'avocats à un barreau.
+
+Le Gouvernement flamand fixe le contenu de la formation spécialisée précitée.
+
+### Art. 6
+
+Sans préjudice des dispositions de l'article 5, entrent en ligne de compte pour l'agrément :
+
+1° les centres publics d'aide sociale;
+
+2° [<sup>1</sup> les centres d'aide sociale générale autonomes agréés en vertu du décret du 19 décembre 1997 relatif à l'aide sociale générale]<sup>1</sup> par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2008-07-10/47, art. 7, 003; En vigueur : 23-08-2008&gt;
+
+### Art. 7
+
+Le Gouvernement flamand déterminera les cas dans lesquels les frais liés à la procédure de médiation de dettes peuvent être imputés au débiteur. Le Gouvernement flamand déterminera également les catégories de débiteurs auxquelles ces frais peuvent être imputés, ainsi que les conditions et le montant maximal. La médiation tant que telle est gratuite.
+
+### Art. 8
+
+Même si les conditions prévues aux articles 5, 6 et 7 sont remplies, le Gouvernement flamand peut refuser l'agrément aux institutions :
+
+1° du chef desquelles il est constaté qu'elles, ou un de leurs organes, mandataires ou préposés font preuve d'un manque d'honorabilité ou de désintéressement;
+
+2° au sein desquelles les fonctions de président, administrateur, directeur ou mandataire ont été confiées à des personnes déchues de leurs droits civils et politiques;
+
+3° au sein desquelles les fonctions de président, administrateur, directeur ou mandataire ont été confiées à une personne non réhabilitée qui a été condamnée à une peine de prison d'au moins un mois, même avec sursis, pour une infraction visée à l'arrêté royal n° 22 du 24 octobre 1934 portant interdiction pour certains condamnés et pour les faillis d'exercer certaines fonctions, professions ou activités et accordant la compétence aux tribunaux de commerce de prononcer une telle interdiction;
+
+4° au sein desquelles les fonctions de président, administrateur, directeur ou mandataire ont été confiées à une personne qui au cours de la période de 5 ans préalable à la demande d'agrément ou de renouvellement de l'agrément a été rendue responsable pour les engagements ou les dettes de la société faillie, en application des articles 35, 6°; 63ter, 123, deuxième alinéa, 7°, ou 133bis des lois coordonnées sur les sociétés commerciales;
+
+5° qui s'avèrent insuffisamment indépendantes vis-à-vis de personnes ou d'institutions exerçant des activités de prêteur ou d'intermédiaire de crédit comme visées à la loi du 12 juin 1991 relative au crédit à la consommation.
+
+### Art. 9
+
+[§ 1er.] Pour garder ou pour renouveler leur agrément, les institutions [<sup>1</sup> de médiation de dettes]<sup>1</sup> agréées sont tenues de respecter les obligations suivantes : &lt;DCFL 2006-04-28/53, art. 1, 002; En vigueur : 01-06-2006&gt;
+
+1° faire mention de leur agrément comme intermédiaire de dettes, en indiquant le numéro d'agrément, dans leurs documents officiels et dans leur correspondance;
+
+2° communiquer sans tarder au Gouvernement flamand toute modification apportée aux statuts ainsi que les nominations d'administrateurs;
+
+3° informer le Gouvernement flamand sans tarder de la cessation des activités de médiation de dettes; lors d'un arrêt définitif des activités, l'agrément est supprimé d'office;
+
+4° prévenir le Gouvernement flamand sans tarder dans tous les cas où elles ne remplissent plus les conditions d'agrément fixées par le présent décret;
+
+5° transmettre un rapport annuel au Gouvernement flamand dans le courant du premier trimestre qui suit la fin de chaque exercice;
+
+6° se soumettre au contrôle des fonctionnaires et des agents désignés par le Gouvernement flamand;
+
+7° utiliser le contrat modèle en matière de médiation de dettes qui a été rédigé par le Gouvernement flamand.
+
+[§ 2. Le rapport annuel visé au § 1er, 5°, comprend un enregistrement standardisé relatif à la médiation de dettes offerte. Le Gouvernement flamand détermine les modalités de cet enregistrement à l'aide d'un modèle.
+
+En outre, le Gouvernement flamand détermine les conditions minimales auxquelles le rapport annuel doit répondre.] &lt;DCFL 2006-04-28/53, art. 1, 002; En vigueur : 01-06-2006&gt; &lt;Erratum, M.B. 20-02-2008, p. 10.702&gt;
+
+----------
+
+(1)&lt;DCFL 2008-07-10/47, art. 8, 003; En vigueur : 23-08-2008&gt;
+
+### Art. 10
+
+Lorsque les dispositions du présent décret ne sont pas respectées, le Gouvernement flamand peut immédiatement retirer ou suspendre l'agrément, pour un délai fixé par lui.
+
+### Art. 10bis
+
+[<sup>1</sup> Le Gouvernement flamand peut subventionner les institutions agréées de médiation de dettes et les partenariats de coopération d'institutions agréées de médiation de dettes dans les limites des crédits budgétaires disponibles. Il arrête les règles relatives aux conditions, à la demande, à l'établissement, à l'octroi et à la liquidation de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2013-06-21/17, art. 35, 004; En vigueur : 01-01-2014 (AGF 2014-01-31/14, art. 7)&gt;
+
+## CHAPITRE III.
+
+&lt;Abrogé par DCFL 2017-02-17/06, art. 17, 005; En vigueur : 01-01-2018&gt;
+
+### Art. 10ter
+
+&lt;Abrogé par DCFL 2017-02-17/06, art. 17, 005; En vigueur : 01-01-2018&gt;
+
+## CHAPITRE IV. [<sup>1</sup> - Disposition finale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2008-07-10/47, art. 11, 003; En vigueur : 23-08-2008&gt;
+
+### Art. 11
+
+Le présent décret entre en vigueur à la date fixée par le Gouvernement flamand. (NOTE : entrée en vigueur fixée au 30 mai 1997 par l'AGF 1997-03-25/40, art. 16.)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 24 juillet 1996.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand de la Culture, de la Famille et de l'Aide sociale,
+
+L. MARTENS

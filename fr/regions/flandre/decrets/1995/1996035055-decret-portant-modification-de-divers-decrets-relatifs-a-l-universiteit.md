@@ -1,0 +1,491 @@
+---
+title: "Décret portant modification de divers décrets relatifs à l'\"Universiteit Antwerpen\". (TRADUCTION)"
+identifier: "1996035055"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996035055/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1995-12-22
+published: 1996-02-01
+entry_into_force: 1996-01-01
+last_amended: 2017-08-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996035055/justel"
+department: "Communauté flamande"
+justel_note: "Consultation des versions antérieures à partir du 01-02-1996 et mise à jour au 18-08-2017"
+retrieved: 2026-10-12
+---
+
+# 22 DECEMBRE 1995. - Décret portant modification de divers décrets relatifs à l'"Universiteit Antwerpen". (TRADUCTION)
+
+Le Conseil flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE I. - Généralités.
+
+##### Art. 1
+
+Le présent décret régit une matière visée à l'article 127 de la Constitution.
+
+## TITRE II.
+
+### CHAPITRE I. - Dispositions générales.
+
+##### Art. 2
+
+Par le présent décret est créée la "(...) Universiteit Antwerpen" (Université (...) d'Anvers), dénommée ci-après UA. Elle est dotée de la personnalité civile et a son siège administratif dans l'arrondissement administratif d'Anvers. &lt;DCFL 2003-04-04/08, art. 4, 003; En vigueur : 01-10-2003&gt;
+
+(Alinéa 2 abrogé) &lt;DCFL 2003-04-04/08, art. 4, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 3
+
+&lt;DCFL 2003-04-04/08, art. 5, 003; En vigueur : 01-10-2003&gt; Le présent décret s'applique également :
+
+\- à l' " Universitair Centrum Antwerpen ", dénommé ci-après RUCA;
+
+\- les " Universitaire Faculteiten Sint-Ignatius te Antwerpen ", dénommées ci-après UFSIA;
+
+\- l' " Universitaire Instelling Antwerpen ", dénommé ci-après UIA;
+
+\- la " Confederale Universiteit Antwerpen ", dénommée ci-après UA.
+
+##### Art. 3bis
+
+&lt;Inséré par DCFL 2003-04-04/08, art. 6; En vigueur : 01-10-2003&gt; Le but de l' " Universiteit Antwerpen " est de dispenser un enseignement académique et d'effectuer des recherches et des services scientifiques dans une perspective pluraliste, basée sur la liberté académique et l'autonomie administrative.
+
+### CHAPITRE II. - La structure administrative. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+#### Section 1. - Dispositions générales. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 4
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; Les organes de direction de l'université sont le Conseil d'administration et le Collège administratif.
+
+##### Art. 5
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; § 1er. Le Conseil d'administration décide sur la division en facultés et les organes y assimilés, dans les écoles, instituts et autres entités académiques.
+
+La direction académique des facultés et des organes y assimilés incombe à un doyen. Les modalités de désignation du doyen sont réglées dans un règlement relatif à la structure académique.
+
+§ 2. La structure administrative académique comprend au moins :
+
+1° un Collège des Doyens;
+
+2° un Conseil de l'enseignement;
+
+3° un Conseil de la recherche;
+
+4° un Conseil pour les Services scientifiques et sociaux.
+
+Les modalités relatives à la structure administrative académique sont fixées par le Conseil d'administration dans un règlement.
+
+##### Art. 6
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; Les membres des organes de direction agissent, en tant que membre de l'organe de direction concerné, seulement dans l'intérêt général.
+
+##### Art. 6bis
+
+[<sup>1</sup> Le conseil d'administration fixe les règles fondamentales relatives à l'organisation des directives et des élections dans le règlement d'ordre intérieur ou le règlement administratif. Ces règles fondamentales prévoient suffisamment de garanties pour que les deux sexes soient représentés sur une base d'équivalence au sein du conseil d'administration, des différents organes de direction de l'université pouvant prendre des décisions exécutoires, dans les différents conseils consultatifs auxquels le règlement organique pourvoit et dans les commissions de sélection. Au maximum deux tiers des membres des organes, conseils et commissions susmentionnés peuvent être du même sexe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-07-13/19, art. 2, 006; En vigueur : 01-10-2013&gt;
+
+#### Section 2. - Le Conseil d'administration. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 7
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; § 1er. Le Conseil d'administration comprend :
+
+1° les membres d'office, notamment le recteur, le président du Conseil de la recherche, le président du Conseil de l'enseignement et le président du Conseil pour les Services scientifiques et sociaux;
+
+2° un membre du personnel académique autonome du domaine scientifique sciences humaines', élu au sein de et par les membres du personnel académique autonome de ce domaine scientifique;
+
+3° un membre du personnel académique autonome du domaine scientifique sciences', élu au sein de et par les membres du personnel académique autonome de ce domaine scientifique;
+
+4° un membre du personnel académique autonome du domaine scientifique médecine et sciences pharmaceutiques, biomédicales et vétérinaires', élu au sein de et par les membres du personnel académique autonome de ce domaine scientifique;
+
+5° trois membres du personnel académique autonome, élus au sein de et par les membres du personnel académique autonome;
+
+6° trois membres du personnel académique assistant et spécial, élus au sein de et par les membres du personnel académique assistant et spécial;
+
+7° trois membres du personnel administratif et technique, élus au sein de et par les membres du personnel administratif et technique;
+
+8° (trois étudiants désignés en tenant compte de [<sup>2</sup> l'article II.327 du Code de l'Enseignement supérieur]<sup>2</sup>;) &lt;DCFL 2004-03-19/84, art. 2.73, 004; En vigueur : 01-09-2004 et 01-09-2005, voir DCFL 2004-03-19/84, art. 2.77, 3°, b&gt;
+
+9° trois membres désignés respectivement par le ministre qui a l'enseignement dans ses attributions, par le gouverneur de la province d'Anvers et par le provincial de la Société de Jésus;
+
+10° trois membres des milieux public, politique, socio-économique, philosophique et culturel, cooptés par les membres du Conseil d'administration, visés aux 1° à 9°, tenant compte du profil de l'université.
+
+[<sup>3</sup> 11° drie leden uit het economische afnameveld van afgestudeerden van de universiteit, gecoöpteerd door de leden van de raad van bestuur, bedoeld in punt 1° tot 9°.]<sup>3</sup>
+
+§ 2. Les membres, visés au § 1er, 2° au 7° inclus, sont désignés, après élection au sein de la catégorie du personnel concernée, pour une période de quatre ans. Cette période ne peut être renouvelée qu'une fois, sauf après une interruption de quatre ans.
+
+(Les étudiants sont désignés pour une période de deux ans. Cette période ne peut être renouvelée qu'une fois, sauf après une interruption de deux ans.) &lt;DCFL 2004-03-19/84, art. 2.73, 004; En vigueur : 01-09-2004 et 01-09-2005, voir DCFL 2004-03-19/84, art. 2.77, 3°, b&gt;
+
+§ 3. Les membres, visés au § 1er, 9° et 10°, sont désignés pour une période de quatre ans. Cette période ne peut être renouvelée qu'une fois, sauf après une interruption de quatre ans.
+
+§ 4. Les modalités concernant l'élection par les catégories, l'éligibilité, le droit de suffrage et les élections sont reprises dans un règlement à rédiger par le Conseil d'administration [<sup>1</sup> en tenant compte de la disposition reprise à l'article 6bis]<sup>1</sup>.
+
+La qualité de membre du Conseil d'administration n'est pas compatible avec le mandat de doyen, d'administrateur général et d'administrateur.
+
+§ 5. Si une catégorie omet de désigner des membres, le Conseil d'administration continue son travail avec les autres membres.
+
+§ 6. Le Conseil d'administration élit un président parmi ses membres. Le mandat de président n'est pas compatible avec le mandat de recteur, de président du Conseil de l'enseignement, du Conseil de la recherche ou du Conseil pour les services scientifiques et sociaux, ou avec la qualité de membre du Collège administratif. Le mandat est de quatre ans et est une fois renouvelable, sauf après une interruption de quatre ans.
+
+§ 7. Le Conseil d'administration peut déterminer qui, hors des membres, assiste à la séance du Conseil d'administration.
+
+[<sup>1</sup> § 8. Pour l'application du présent article :
+
+1° les membres du personnel enseignant du groupe 3 qui sont repris dans le cadre d'intégration [<sup>2</sup> visé à l'article V.209 du Code de l'Enseignement supérieur]<sup>2</sup>, sont classés dans la catégorie du personnel académique autonome;
+
+2° les membres du personnel enseignant des groupes 1 et 2 qui sont repris dans le cadre d'intégration [<sup>2</sup> visé à l'article V.209 du Code de l'Enseignement supérieur]<sup>2</sup>, sont classés dans la catégorie du personnel académique assistant;
+
+3° les membres du personnel administratif et technique qui sont repris dans le cadre d'intégration [<sup>2</sup> visé à l'article V.209 du Code de l'Enseignement supérieur]<sup>2</sup>, sont classés dans la catégorie du personnel administratif et technique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-07-13/19, art. 3, 006; En vigueur : 01-10-2013&gt;
+
+(2)&lt;DCFL 2015-06-19/33, art. IV.1, 007; En vigueur : 01-09-2015&gt;
+
+(3)&lt;DCFL 2017-06-16/24, art. VI.37, 008; En vigueur : 01-09-2017&gt;
+
+#### Section 3. - Le Collège administratif. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 8
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; § 1er. Le Collège administratif comprend :
+
+1° le recteur, qui est président;
+
+2° le président du Conseil de l'enseignement, le président du Conseil de la recherche et le président du Conseil pour les services scientifiques et sociaux;
+
+3° l'administrateur général;
+
+4° chaque fois un membre appartenant aux membres visés à l'article 7, § 1er, 5° au 8° inclus. Ces membres sont désignés par le Conseil d'administration parmi ses membres.
+
+Les administrateurs sont des membres du Collège administratif ayant voix consultative.
+
+§ 2. Les modalités concernant la désignation des membres visés au § 1er, 4°, sont fixées par le Conseil d'administration [<sup>1</sup> en tenant compte de la disposition reprise à l'article 6bis]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2012-07-13/19, art. 4, 006; En vigueur : 01-10-2013&gt;
+
+#### Section 4. - Le recteur. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 9
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; § 1er. Le recteur est nommé par le Conseil d'administration pour une période de 4 ans, à partir d'une liste proposée par un collège électoral dont la composition est fixée par le Conseil d'administration. Dans ce collège électoral sont représentées les catégories du personnel académique autonome, du personnel académique assistant et spécial, du personnel administratif et technique, et des étudiants. Le recteur est élu parmi les professeurs ordinaires. L'élection a lieu pendant l'année académique précédant l'expiration du mandat du recteur en service [<sup>1</sup> et les professeurs]<sup>1</sup>.
+
+La liste de candidats pour le mandat de recteur comprend au moins un et au plus trois candidats classés. Les modalités de la procédure sont fixées par le Conseil d'administration.
+
+Les candidats ne peuvent pas atteindre la limite d'âge de la mise à la retraite durant la période de leur mandat. Le mandat de recteur peut être renouvelé une fois.
+
+§ 2. Le recteur a la direction académique de l'université et représente l'université sur le plan académique.
+
+----------
+
+(1)&lt;DCFL 2012-07-13/19, art. 5, 006; En vigueur : 01-10-2013&gt;
+
+#### Section 5. - L'administrateur général et les administrateurs. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 10
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; Le cadre organique prévoit, à charge des allocations de fonctionnement, une fonction d'administrateur général et deux fonctions d'administrateur. Il est conclu un contrat de travail de durée indéterminée avec l'administrateur général et les administrateurs. La mission de l'administrateur général et des administrateurs est fixée pour des périodes de six ans renouvelables de façon illimitée. Les fonctions sont liées à l'échelle de traitement de professeur ordinaire.
+
+Le Conseil d'administration peut leur attribuer une rémunération conformément à [<sup>1</sup> l'article V.39 du Code de l'Enseignement supérieur]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/33, art. IV.2, 007; En vigueur : 01-09-2015&gt;
+
+##### Art. 11
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; L'administrateur général est désigné par le Conseil d'administration au scrutin secret, sur la proposition du Collège administratif. Il doit être porteur d'un doctorat obtenu sur présentation d'une thèse et il doit avoir un profil académique par excellence.
+
+##### Art. 12
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; Les administrateurs sont désignés par le Conseil d'administration au scrutin secret, sur la proposition du Collège administratif. Les administrateurs doivent être porteur d'un diplôme du deuxième cycle d'une formation académique.
+
+##### Art. 13
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; Si l'administrateur général ou un administrateur appartiennent, avant leur première désignation, au personnel académique autonome ou au personnel administratif et technique à temps plein d'une institution visée à l'article 3, les autorités universitaires peuvent, par dérogation aux dispositions de la présente section, décider de ne pas conclure un contrat de travail mais de modifier [<sup>1</sup> dans l'intérêt général]<sup>1</sup> la charge de l'intéressé pour des périodes de six ans renouvelables de façon illimitée.
+
+[<sup>1</sup> Sous réserve des dispositions de l'alinéa premier, les personnels d'une université ou d'un institut supérieur qui sont rémunérés à charge des allocations de fonctionnement ou les fonctionnaires d'un ministère ou d'une institution de la Communauté flamande qui assument le mandat d'administrateur ou d'administrateur général, obtiennent pour la durée du mandat un congé pour l'exercice d'un mandat dont l'intérêt général est reconnu. Le congé est assimilé à une période d'activité de service. Il n'est pas rémunéré.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2007-06-22/40, art. 5.24, 005; En vigueur : 01-10-2003&gt;
+
+### CHAPITRE III. - Les compétences des organes de direction. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+#### Section 1re. - Le Conseil d'administration. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 14
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; § 1er. Le Conseil d'administration exerce les compétences suivantes :
+
+1° établir des directives pour l'aménagement, l'orientation, l'organisation, la coordination et le contrôle qualitatif de l'enseignement académique, des recherches et des services scientifiques, et contrôler les lignes directrices de la réglementation de l'enseignement;
+
+2° établir les structures de gestion académiques conformément à l'article 5 du présent décret;
+
+3° établir le règlement de gestion, le règlement des examens, le règlement disciplinaire et les règlements pour l'élection du recteur, des présidents, des conseils de faculté et des doyens, et le règlement relatif à la structure académique;
+
+4° fixer et approuver annuellement le budget, le compte annuel et le rapport annuel de l'université, ainsi que fixer les principes d'attribution des moyens;
+
+5° déterminer le cadre organique;
+
+6° désigner et nommer le recteur, les présidents, l'administrateur général, les administrateurs et les doyens;
+
+7° nommer, désigner pour la première fois et promouvoir les membres du personnel académique autonome et des cadres supérieurs;
+
+8° établir le règlement de réunion, tenant compte du § 2 du présent article;
+
+9° contrôler l'exécution de la charte relative à la création de l' " Universtiteit Antwerpen ";
+
+10° toute autre compétence réservée spécifiquement au Conseil d'administration en vertu du présent ou d'autres décrets.
+
+§ 2. Les décisions du Conseil d'administration sont prises à la majorité simple des votes exprimés. Les abstentions, les votes nuls et les bulletins blancs sont censés ne pas être exprimés. Le Conseil d'administration ne peut se réunir valablement que si au moins la moitié des membres est présente. Les membres absents peuvent se faire représenter par un autre membre, qui ne peut détenir qu'une seule procuration. Si le quorum n'est pas atteint après une première convocation, le Conseil peut se réunir valablement après une deuxième convocation écrite avec le même ordre du jour, quel que soit le nombre de présents.
+
+(§ 3. Pour l'exercice des compétences des étudiants dans le Conseil d'administration, il est tenu compte des dispositions [<sup>1</sup> de l'article II.317, § 2, alinéa premier, 1°, et de l'article II.355, § 2, du Code de l'Enseignement supérieur]<sup>1</sup>.) &lt;DCFL 2004-03-19/84, art. 2.74, 004; En vigueur : 01-09-2004 et 01-09-2005, voir DCFL 2004-03-19/84, art. 2.77, 3°, b&gt;
+
+[<sup>2</sup> § 4. De raad van bestuur kan zijn bevoegdheden zoals vermeld onder paragraaf 1, 7°, delegeren aan het bestuurscollege.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2015-06-19/33, art. IV.3, 007; En vigueur : 01-09-2015&gt;
+
+(2)&lt;DCFL 2017-06-16/24, art. VI.37, 008; En vigueur : 01-09-2017&gt;
+
+#### Section 2. - Le Collège administratif. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 15
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; § 1er. Le Collège administratif est compétent pour toutes les affaires concernant l'université qui ne sont pas confiées au Conseil d'administration en vertu du présent décret. Le Collège administratif est entre autres chargé des tâches suivantes :
+
+1° préparer et exécuter les décisions du Conseil d'administration;
+
+2° disposer des Finances et des biens mobiliers et immobiliers de l'université, dans les limites des crédits budgétaires et du plan de gestion ou de financement établi par le Conseil d'administration;
+
+3° conclure des conventions et passer d'autres actes juridiques;
+
+4° maintenir l'ordre académique, et, le cas échéant, prendre des mesures disciplinaires conformément au règlement disciplinaire en vigueur;
+
+5° fixer des emplois vacants et décider sur la déclaration de vacances d'emploi;
+
+6° nommer ou désigner le personnel académique assistant et spécial et le personnel administratif et technique, autre que visé à l'article 14, § 1er, 7°;
+
+7° la haute direction des services administratifs;
+
+8° établir le règlement de réunion;
+
+9° prendre des arrangements concernant le remplacement du recteur en cas d'empêchement ou d'absence.
+
+§ 2. Le Collège administratif peut déléguer une partie de ses compétences à d'autres organes ou personnes. Un rapport concernant l'exercice de ces compétences est présenté au Collège administratif.
+
+§ 3. Le Collège administratif rend compte au Conseil d'administration.
+
+Le Collège administratif informe le Conseil d'administration des décisions qu'il a prises. Il renseigne le Conseil à sa demande sur les actes qu'il a accomplis. Le règlement de gestion, visé à l'article 14, § 1er, 3°, comprend des modalités concernant les matières visées au présent article.
+
+#### Section 3. - Le Collège de Gestion. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 16
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; § 1er. L'administrateur général et les administrateurs forment le Collège de Gestion, qui est chargé, sous la surveillance du Collège administratif, de la coordination et de l'exécution de la gestion journalière de l'université sur le plan administratif, technique, financier et social.
+
+Le Collège administratif délègue à cet effet des compétences spécifiques sur le plan administratif, technique, financier et social au Collège de Gestion, qui à son tour peut subdéléguer certaines de ces compétences à l'administrateur général et/ou aux administrateurs.
+
+§ 2. Au Collège de Gestion peuvent être ajoutés des experts, nommés par le Conseil d'administration, sur la proposition du Collège administratif.
+
+§ 3. Le Collège d'administration se réunit sous la présidence de l'administrateur général.
+
+### CHAPITRE IV. - Le Collège des Doyens. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 17
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; Les doyens forment un collège, présidé par le recteur. Le Collège des Doyens conseille, sur demande ou d'initiative, les autorités universitaires concernant toutes les affaires académiques stratégiques.
+
+### CHAPITRE IVbis. - Le Conseil supérieur. &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 18
+
+&lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt; Le Conseil d'administration crée un Conseil supérieur de l' " Universiteit Antwerpen ", composé de représentants d'instances publiques, de milieux politique, socio-économique, religieux, philosophique et culturel, ayant pour mission de fournir des conseils à l' " Universiteit Antwerpen " concernant l'orientation générale, le caractère pluraliste, l'élargissement et le développement de l'université et l'intégration de celle-ci dans la société plus étendue.
+
+Le Conseil d'administration fixe les modalités concernant la composition du Conseil supérieur, le mode de désignation des membres et la durée de leur mandat.
+
+### CHAPITRE IVter. - Statut du personnel. &lt;DCFL 2003-04-04/08, art. 8, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 19
+
+&lt;DCFL 2003-04-04/08, art. 8, 003; En vigueur : 01-10-2003&gt; § 1er. Les membres du personnel qui sont occupés par la RUCA, l'UFSIA et l'UIA à la date de l'entrée en vigueur du décret du 4 avril 2003 portant dispositions visant à créer une " Universiteit Antwerpen " et à modifier le décret du 22 décembre 1995 portant modification de divers décrets relatifs à l' " Universiteit Antwerpen ", entrent en service de l' " Universiteit Antwerpen " à cette date. Ils maintiennent tous les droits et obligations dont ils jouissaient dans leur institution d'origine et le statut concernant le droit du travail et le droit social qui s'appliquait à eux. Les journées de maladie, enregistrées depuis le 1er janvier 1994 dans l'institution d'origine, sont prises en compte dans le calcul du nombre total de journées de maladie prises.
+
+Pour les membres du personnel qui entrent en service dans une certaine catégorie après l'entrée en vigueur du décret du 4 avril 2003 portant dispositions visant à créer une " Universiteit Antwerpen " et à modifier le décret du 22 décembre 1995 portant modification de divers décrets relatifs à l' " Universiteit Antwerpen ", le Conseil d'administration prend, dans les six mois, tous les arrangements en exécution [<sup>1</sup> de la partie 5, titre 1er, du Code de l'Enseignement supérieur]<sup>1</sup>. Les membres du personnel rémunérés à charge de la section Ire du budget, jouiront du même statut administratif et du même statut concernant le droit social que celui qui s'applique aux universités de la Communauté flamande. Les autorités universitaires développent un statut pour les membres du personnel à charge des autres sections du budget. Ce statut est défini dans un règlement portant statut du personnel. Les conditions de travail secondaires sont réglées dans une convention collective de conditions de travail.
+
+Les membres du personnel de la RUCA, de l'UFSIA et de l'UIA, visés au premier alinéa, qui sont rémunérés à charge de la section Ire du budget, ont la possibilité d'entrer dans le statut dans les vingt-quatre mois de l'entrée en vigueur de celui-ci, visé à l'alinéa précédent. Sinon, ils continuent à relever de façon extinctive du statut qui s'appliquait dans leur institution d'origine. Les membres du personnel, visés au premier alinéa, qui sont rémunérés à charge d'autres sections du budget, ont également la possibilité d'entrer dans ce statut dans les vingt-quatre mois de l'entrée en vigueur du statut, visé à l'alinéa précédent. Sinon, ils continuent à relever de façon extinctive du statut qui s'appliquait dans leur institution d'origine.
+
+§ 2. Les réglementations des conditions de travail secondaires peuvent être harmonisées dans une convention collective de conditions de travail, tel que prévu à l'article 20, sans que l'équilibre total de droits et obligations des membres du personnel et de l'université soit rompu.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/33, art. IV.4, 007; En vigueur : 01-09-2015&gt;
+
+##### Art. 20
+
+&lt;DCFL 2003-04-04/08, art. 8, 003; En vigueur : 01-10-2003&gt; Le Conseil d'administration peut fixer les réglementations des conditions de travail secondaires dans une convention collective de conditions de travail au niveau de l'institution.
+
+### CHAPITRE IVquater. - Infrastructure et finances. &lt;DCFL 2003-04-04/08, art. 8, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 21
+
+&lt;DCFL 2003-04-04/08, art. 8, 003; En vigueur : 01-10-2003&gt; Tous les biens mobiliers et immobiliers, l'actif et le passif, les droits et obligations, y compris tous les droits et obligations du patrimoine, de l'UA, de la RUCA, de l'UIA, et, à condition qu'il soit décidé à un transfert par l'assemblée générale, de l'UFSIA, sont transférés de droit et sans frais, quelle que soit leur nature, à l' " Universiteit Antwerpen ". Le transfert de biens se fait dans l'état où ils se trouvent. L' " Universiteit Antwerpen " est titulaire des droits et obligations qui sont créés en vertu des activités des institutions précitées. Le transfert inclut tous les droits et obligations liés aux procédures pendantes et futurs.
+
+Le Gouvernement flamand peut décider de reprendre des charges du passé, résultant d'obligations datant d'avant l'entrée en vigueur du décret spécial du 26 juin 1991 relatif à l' " Universiteit Gent " et à l' " Universitair Centrum Antwerpen ".
+
+##### Art. 22
+
+&lt;DCFL 2003-04-04/08, art. 8, 003; En vigueur : 01-10-2003&gt; L' " Universiteit Antwerpen " peut, [<sup>1</sup> conformément au Décret flamand sur les Expropriations du 24 février 2017]<sup>1</sup> et après autorisation du Gouvernement flamand, procéder à l'expropriation de biens immobiliers qui sont directement ou indirectement requis pour l'enseignement, la recherche, les services scientifiques et l'administration de l'université.
+
+----------
+
+(1)&lt;DCFL 2017-02-24/22, art. 85, 009; En vigueur : 01-01-2018&gt;
+
+##### Art. 23
+
+(...) &lt;DCFL 2003-04-04/08, art. 7, 003; En vigueur : 01-10-2003&gt;
+
+### CHAPITRE V. - Dispositions modificatives pour les institutions citées à l'article 3.
+
+##### Art. 24
+
+(Abrogé) &lt;DCFL 2003-04-04/08, art. 12, 003; En vigueur : 01-10-2003&gt;
+
+##### Art. 25
+
+Dans la loi du 7 avril 1971 portant création et fonctionnement de "l'Universitaire Instelling Antwerpen", les modifications suivantes sont apportées :
+
+a) à l'article 11, le § 1er, 6°, est remplacé par :
+
+"6° il détermine la procédure disciplinaire, tout en assurant le respect du droit de défense;";
+
+b) le 2° de l'article 14 est supprimé;
+
+c) l'article 34 est supprimé;
+
+d) l'article 18 est supprimé.
+
+##### Art. 26
+
+Les modifications suivantes sont apportées au décret du 21 décembre 1976 portant l'organisation de la coopération interuniversitaire flamande :
+
+1° à l'article 2, a), les mots "et l'"Universiteit Antwerpen," sont ajoutés immédiatement après les mots "la "Vrije Universiteit Brussel";
+
+2° à l'article 2, a), les mots "ou le Conseil" sont ajoutés immédiatement après les mots "conseil d'administration";
+
+3° à l'article 2, c), les mots "le "Rijksuniversitair Centrum Antwerpen" et "et les "Universitaire Faculteiten Sint-Ignatius te Antwerpen" sont supprimés;
+
+4° l'article 2, b) est supprimé, tandis que l'article 2, c) en devient l'article 2, b);
+
+5° à l'article 3, les mots "deux vice-présidents" sont remplacés par les mots "trois vice-présidents";
+
+6° à l'article 3; le deuxième alinéa est remplacé par la disposition suivante :
+
+"Quatre de ces personnes doivent représenter respectivement les institutions visées à l'article 2, a). La cinquième personne représente une des institutions citées à l'article 2, b).".
+
+##### Art. 27
+
+A partir de la date stipulée à l'article 29, les modifications à la loi du 7 avril 1971 portant création et fonctionnement de l'"Universitaire Instelling Antwerpen" mentionnées dans cet article entrent en vigueur.
+
+Dans la loi précitée, le chapitre II, § 3, est remplacé par ce qui suit :
+
+"§ 3. Le Recteur
+
+Art. 8. Le Recteur est nommé par le Conseil d'administration, sur une liste présentée par l'assemblée générale des conseils de facultés visés à l'article 9 et choisi parmi les professeurs ordinaires pendant le mois de mai qui précède l'expiration du mandat du Recteur en fonction.
+
+Sur la liste doivent figurer au moins un et au plus trois candidats classés dans l'ordre.
+
+Il ne peut être procédé au vote que si au moins la moitié des membres sont présents ou, après un deuxième appel, si le quorum n'a pas été atteint.
+
+Le Conseil d'administration définit la procédure à suivre ensuite.
+
+La durée du mandat du Recteur est de quatre ans et peut être renouvelé deux fois.".
+
+Dans la loi précitée, l'article 13 est remplacé par ce qui suit :
+
+"Art. 13. Le recteur est chargé de la direction générale de l'institution universitaire. Il préside le Conseil d'administration et le Bureau permanent et représente l'institution universitaire dans tous les actes judiciaires et extrajudiciaires.
+
+Le Conseil d'administration prévoit un régime de remplacement du Recteur en cas d'absence ou d'empêchement de celui-ci.
+
+L'administrateur est chargé, sous la direction du Recteur, de la gestion journalière de l'institution universitaire au niveau administratif, technique et financier et coordonne le fonctionnement des services administratifs.
+
+L'administrateur délégué de l'"Universitair Ziekenhuis Antwerpen", appelé ci-après "UZA", est chargé de la coordination et de l'exécution de la gestion journalière de l'"UZA".
+
+Dans la loi précitée, le titre du chapitre II, section 3, et l'article 16 sont remplacés par ce qui suit :
+
+"Section 3. - Du statut du Recteur, de l'administrateur et de l'administrateur délégué de l'UZA
+
+Art. 16. Le Recteur, l'administrateur et l'administrateur délégué de l'UZA bénéficient d'une allocation conformément aux dispositions de l'article 100 du décret du 12 juin 1991 relatif aux universités dans la Communauté flamande.
+
+L'emploi d'administrateur est conféré par le Conseil d'administration, après un appel public, publié au Moniteur belge, aux candidats porteurs d'un diplôme du deuxième cycle d'une formation académique. Le Conseil d'administration désigne l'administrateur au scrutin secret et à la majorité simple des voix, abstentions non comprises.
+
+Les droits et les devoirs de l'administrateur figurent dans une convention de travail à durée illimitée conclue avec le Conseil d'administration. L'administrateur bénéficie de l'échelle de traitement A 311 du Ministère de la Communauté flamande.
+
+L'administrateur délégué de l'UZA est nommé par le Conseil d'administration pour une période de quatre ans. Il bénéficie de l'échelle de traitement de professeur ordinaire ou de professeur extraordinaire si l'emploi n'est pas exercé à temps plein.".
+
+Dans la loi précitée, les modifications suivantes sont apportées :
+
+a) à l'article 6, A. - 3° est remplacé par :
+
+"3° le Recteur et l'administrateur de l'"Universitair Centrum Antwerpen" :
+
+\- il est ajouté in fine :
+
+"l'administrateur et l'administrateur délégué de l'UZA assistent aux réunions du Conseil d'administration avec voix consultative.";
+
+C. b) est supprimé :
+
+b) à l'article 7, la deuxième phrase est remplacée par :
+
+"Le Recteur fait d'office partie du bureau permanent et l'administrateur assiste aux réunions avec voix consultative.";
+
+c) à l'article 14, la première phrase est remplacée par :
+
+"L'assemblée générale des conseils de facultés est présidée par le Recteur ou par son suppléant.";
+
+d) à l'article 17, "le président" et "le vice-président" sont remplacés par "l'administrateur" et "l'administrateur délégué de l'UZA".
+
+Au 4° de l'article 8 du présent décret, "le président" sera remplacé par "l'administrateur" à partir du 1er octobre 1999.
+
+### CHAPITRE VI. - Le "Hoge Raad van de Universiteit Antwerpen" (Conseil supérieur de l'UA).
+
+##### Art. 28
+
+(Abrogé) &lt;DCFL 2003-04-04/08, art. 13, 003; En vigueur : 01-10-2003&gt;
+
+### CHAPITRE VII. - Dispositions transitoires.
+
+##### Art. 29
+
+(Abrogé) &lt;DCFL 2003-04-04/08, art. 13, 003; En vigueur : 01-10-2003&gt;
+
+### CHAPITRE VIII. - Disposition particulière.
+
+##### Art. 30
+
+(Abrogé) &lt;DCFL 2003-04-04/08, art. 13, 003; En vigueur : 01-10-2003&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 22 décembre 1995.
+
+Le Ministre-Président du Gouvernement flamand,
+
+L. VAN DEN BRANDE
+
+Le Ministre flamand de l'Enseignement et de la Fonction publique,
+
+L. VAN DEN BOSSCHE

@@ -1,0 +1,7375 @@
+---
+title: "Décret contenant des dispositions générales concernant la politique de l'environnement. (Cité comme : DABM) <TRADUCTION>"
+identifier: "1995035716"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/05/1995035716/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 1995-04-05
+published: 1995-06-03
+entry_into_force: 1995-06-13
+last_amended: 2026-08-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/05/1995035716/justel"
+department: "Communauté flamande"
+justel_notes:
+  - "art. 16.1.1. et 16.4.19 modifiés avec effet à une date indéterminée par DCFL 2016-07-15/08 , art. 28 et 29; En vigueur : indéterminée "
+  - "Consultation des versions antérieures à partir du 03-06-1995 et mise à jour au 04-08-2026"
+retrieved: 2026-10-12
+---
+
+# 5 AVRIL 1995. - Décret contenant des dispositions générales concernant la politique de l'environnement. (Cité comme : DABM) &lt;TRADUCTION&gt;
+
+Le Conseil flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE I. - Dispositions générales.
+
+### CHAPITRE I. - Dispositions préliminaires.
+
+**Art. 1.1.1**
+
+Le présent décret règle une matière visée à l'article 39 de la Constitution.
+
+**Art. 1.1.2**
+
+(NOTE : voir plus loin une forme de l'article 1.1.2 entrant en vigueur à une date indéterminée.) § 1. Sauf dispositions contraires explicites, on entend par :
+
+1° environnement : l'atmosphère, le sol, l'eau, la flore, la faune et les autres organismes à part l'homme, les écosystèmes, les paysages et le climat ;
+
+2° facteurs polluants : les matières solides, les liquides, les gaz, les micro-organismes, les formes d'énergie telles que la chaleur, les radiations, la lumière, le bruit et autres vibrations ;
+
+3° émission : toute introduction par l'homme de facteurs polluants dans l'atmosphère, le sol ou l'eau ;
+
+4° polluer : occasionner une émission ayant ou susceptible d'avoir directement ou indirectement des effets préjudiciables sur l'homme ou l'environnement ;
+
+5° pollution : la présence de facteurs polluants engendrée par l'homme dans l'atmosphère, le sol ou l'eau ayant ou susceptible d'avoir directement ou indirectement des effets préjudiciables sur l'homme ou l'environnement ;
+
+6° prélèvement : l'enlèvement par l'homme de sol, d'eau, d'air ou de lumière ayant ou susceptible d'avoir directement ou indirectement, des effets préjudiciables sur l'homme ou l'environnement ;
+
+7° immiscions : la modification de la présence de facteurs polluants dans l'atmosphère, le sol ou l'eau autour d'une ou de plusieurs sources polluantes à la suite d'émissions provenant de cette source ou de ces sources.
+
+(8° unité environnementale : différents établissements et/ou activités, en ce compris leur terrain d'exploitation et les autres biens immeubles auxquels ils sont liés, qu'il convient de considérer comme un ensemble en vue de l'évaluation du préjudice qu'ils sont susceptibles de causer à l'homme ou à l'environnement. Un élément susceptible de démontrer la présence d'une unité environnementale est la cohésion interne en termes géographiques, matériels ou opérationnels des établissements ou activités, allant de pair avec une séparation relative entre l'ensemble de ces établissements et activités et d'autres établissements et activités.
+
+Le fait que plusieurs établissements ont un statut différent en matière de propriété n'empêche pas qu'ils puissent constituer une seule unité environnementale.) &lt;DCFL 2002-12-18/60, art. 4, 004; En vigueur : 13-02-2003&gt;
+
+§ 2. Sauf dispositions contraires explicites :
+
+1° l'atmosphère n'inclut pas l'air des espaces clos;
+
+2° le sol comprend la partie fixe de la terre y compris les eaux souterraines, les micro-organismes et autres éléments qui y sont présents;
+
+3° l'eau ne comprend pas l'eau potable et les eaux souterraines;
+
+4° les radiations ne comprennent pas les radiations ionisantes.
+
+**Art. 1.1.3**
+
+&lt;Inséré par DCFL 2004-02-06/36, art. 3; En vigueur : indéterminée &gt; Sauf dispositions contraires explicites, on entend par "meilleures techniques disponibles n'entraînant pas de coûts excessifs" et "meilleures techniques disponibles" " :
+
+1° "On entend par "techniques" :
+
+a) toute aide technique et toute technologie ainsi que le mode de conception, de construction, d'entretien, de manipulation et de démantèlement d'installations;
+
+b) l'utilisation de matières premières et de matières auxiliaires;
+
+c) l'occupation de personnel qualifié dans un établissement ou pour une activité;
+
+d) les immeubles abritant un établissement ou une activité;
+
+2° "Disponibles : développées à une telle échelle que les techniques en question peuvent être appliquées de manière techniquement faisable dans le contexte industriel intéressé, indépendamment de la question si ces techniques sont oui ou non appliquées ou produites sur le territoire national, à la condition qu'elles soient accessibles à l'exploitant dans des conditions raisonnables;
+
+3° "Meilleures : les techniques les plus efficaces pour réaliser un niveau élevé de protection de l'environnement dans son ensemble;
+
+4° "Coûts excessifs" sont des dépenses :
+
+a) injustifiées par rapport à leur résultat sur le plan de la protection de l'homme ou de l'environnement; ou,
+
+b) économiquement non faisables dans le contexte industriel concerné.
+
+### CHAPITRE II. - Objectifs et principes.
+
+**Art. 1.2.1**
+
+§ 1. Au bénéfice des générations actuelles et futures, la politique de l'environnement a pour but :
+
+1° la gestion de l'environnement par l'utilisation durable des matières premières et de la nature ;
+
+2° la protection de l'homme et de l'environnement contre la pollution et en particulier des écosystèmes qui sont importants pour l'activité de la biosphère et qui ont trait au ravitaillement, à la santé et aux autres aspects de la vie humaine ;
+
+3° la conservation de la nature et la promotion de la diversité biologique et paysagère notamment par le maintien, le rétablissement et le développement d'habitats naturels, d'écosystèmes et de paysages à valeur écologique et la préservation des espèces sauvages notamment celles qui sont menacées, vulnérables, rares ou endémiques.
+
+§ 2. La politique de l'environnement vise un niveau élevé de protection sur la base d'une évaluation des différentes activités sociales. Elle repose notamment sur le principe de la prévoyance, le principe de l'action préventive, le principe que les atteintes à l'environnement doivent par priorité être combattues à la source, le principe du standstill et le principe que le pollueur paie.
+
+§ 3. Les objectifs et principes visés aux §§ 1er et 2, doivent être incorporés dans l'élaboration et la mise en oeuvre de la politique de la Région flamande dans d'autres domaines. Lors de la mise en oeuvre de la politique il est tenu compte des aspects socio-économiques, de la dimension internationale et des données scientifiques et techniques.
+
+## TITRE II. - Prise de décision et participation.
+
+### CHAPITRE I.- Planification environnementale.
+
+#### Section 1. - Dispositions préliminaires.
+
+**Art. 2.1.1**
+
+Par planification environnementale on entend l'ensemble des activités visant à coordonner la préparation, l'élaboration et l'exécution des décisions dans le domaine de l'environnement.
+
+**Art. 2.1.2**
+
+[<sup>1</sup> La planification environnementale au niveau régional comprend les plans et programmes établis en exécution de la législation thématique et [<sup>2</sup> la réalisation de rapports]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2020-12-04/08, art. 2, 073; En vigueur : 01-01-2021&gt;
+
+#### Section 2. - Planification environnementale au niveau régional.
+
+##### Sous-section 1. [<sup>1</sup> - Rapports.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-12-04/08, art. 3, 073; En vigueur : 01-01-2021&gt;
+
+**Art. 2.1.3**
+
+[<sup>1</sup> Les rapports comprennent au moins]<sup>1</sup> :
+
+1° une description, une analyse et une évaluation de l'état existant de l'environnement [<sup>1</sup> et de l'aménagement du territoire]<sup>1</sup> ;
+
+2° une description, une analyse et une évaluation de la politique de l'environnement menée jusqu'alors (dans la mesure où celles-ci sont pertinentes pour la vérification des résultats de la politique de l'environnement menée à la lumière des objectifs politiques fixés dans la législation ou planification environnementale); &lt;DCFL 2005-05-07/63, art. 2, 008; En vigueur : 01-04-2006&gt;
+
+[<sup>1</sup> 2° /1 une description et évaluation de la politique d'aménagement du territoire menée jusqu'alors à la lumière des objectifs, visés à l'article 1.1.4 du Code flamand de l'Aménagement du Territoire ;]<sup>1</sup>
+
+3° une description de l'évolution escomptée de l'environnement [<sup>1</sup> et de l'aménagement du territoire]<sup>1</sup> en cas d'une politique inchangée et en cas d'une politique adaptée sur la base d'un nombre de scénarios censés pertinents.
+
+----------
+
+(1)&lt;DCFL 2020-12-04/08, art. 4, 073; En vigueur : 01-01-2021&gt;
+
+**Art. 2.1.4**
+
+[<sup>1</sup> § 1er. La réalisation des rapports visés à l'article 2.1.3 se fait continuellement sur la base d'un programme de travail pluriannuel.
+
+§ 2. Le Département de l'Environnement et de l'Aménagement du Territoire établit le programme de travail pluriannuel et le soumet pour avis au Conseil consultatif stratégique de l'Aménagement du Territoire et du Patrimoine immobilier, au Conseil flamand de l'Environnement et de la Nature, et au Conseil socio-économique de la Flandre.
+
+Le programme de travail pluriannuel est communiqué au Gouvernement flamand et est ensuite publié sur le site web du Département de l'Environnement et de l'Aménagement du Territoire.
+
+§ 3. Le Gouvernement flamand peut arrêter des modalités relatives à la réalisation de rapports.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-12-04/08, art. 5, 073; En vigueur : 01-01-2021&gt;
+
+**Art. 2.1.5**
+
+[<sup>1</sup> § 1er. Le Département de l'Environnement et de l'Aménagement du Territoire est chargé de la réalisation des rapports visés à l'article 2.1.3. Le Gouvernement flamand peut demander d'établir des rapports spécifiques sur des sujets spécifiques.
+
+Pour la réalisation des rapports, le Département de l'Environnement et de l'Aménagement du Territoire peut s'engager dans des partenariats avec d'autres organismes publics et instituts scientifiques.
+
+Le Gouvernement flamand peut arrêter des modalités relatives à l'accompagnement et le soutien sociétal et scientifique des rapports et relatives aux rapports spécifiques.
+
+§ 2. Les services de l'Autorité flamande, les organismes relevant de la Région flamande, les pouvoirs subordonnées soumis à la tutelle administrative de la Région flamande, et les personnes morales de droit public et de droit privé chargées de missions d'utilité publique en matière d'environnement ou d'aménagement du territoire, mettent à la disposition du Département de l'Environnement et de l'Aménagement du Territoire, soit sur simple de ce département, soit d'initiative, toutes les informations dont ils disposent et qui peuvent être utiles à la réalisation des rapports.
+
+§ 3. Le Gouvernement flamand peut arrêter les conditions auxquelles les informations sont mises à disposition du Département de l'Environnement et de l'Aménagement du Territoire conformément au paragraphe 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-12-04/08, art. 6, 073; En vigueur : 01-01-2021&gt;
+
+**Art. 2.1.6**
+
+[<sup>1</sup> Les résultats des rapports visés à l'article 2.1.3 sont communiquées aux provinces et communes. Les résultats sont largement diffusés de la manière déterminée par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-12-04/08, art. 7, 073; En vigueur : 01-01-2021&gt;
+
+##### Sous-section 2.
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+**Art. 2.1.7**
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+**Art. 2.1.8**
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+**Art. 2.1.9**
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+**Art. 2.1.10**
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+**Art. 2.1.11**
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+**Art. 2.1.12**
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+##### Sous-section 3.
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+**Art. 2.1.13**
+
+&lt;Abrogé par DCFL 2017-06-30/08, art. 42, 057; En vigueur : 17-07-2017&gt;
+
+**Art. 2.1.14**
+
+(abrogé) &lt;DCFL 2006-04-28/34, art. 6, 012; En vigueur : 24-06-2006&gt;
+
+#### Section 3. - Planification environnementale au niveau provincial.
+
+##### Sous-section 1. - Le plan provincial d'orientation environnementale.
+
+**Art. 2.1.15**
+
+§ 1er. (Le conseil provincial peut établir dans le courant du premier semestre de l'année qui suit les élections provinciales un plan provincial d'orientation environnementale en vue de la protection et de la gestion de l'environnement sur le territoire de la province.
+
+Le plan provincial d'orientation environnementale met en exécution au niveau provincial le plan régional d'orientation environnementale. Dans les limites des pouvoirs provinciaux, le plan provincial d'orientation environnementale peut également compléter le plan régional d'orientation environnementale. Le plan provincial d'orientation environnementale doit être conforme aux dispositions obligatoires du plan régional d'orientation environnementale.) &lt;DCFL 2006-04-28/34, art. 7, 012; En vigueur : 24-06-2006&gt;
+
+§ 2. Le plan provincial d'orientation environnementale comprend un plan d'action tel que visé à l'article 2.1.7, § 3. Les dispositions du plan provincial d'orientation environnementale sont indicatives sauf les dispositions du plan d'action désignées par le conseil provincial comme obligatoires. Ces dispositions sont obligatoires pour la province et les communes sur son territoire et pour les organismes qui en relèvent.
+
+§ 3. (A l'entrée en vigueur de chaque nouveau plan régional d'orientation environnementale, le plan provincial d'orientation environnementale existant peut être revu. Les dispositions du plan provincial d'orientation environnementale qui sont contraires aux dispositions obligatoires du nouveau plan régional d'orientation environnementale, perdent de plein droit leur validité.) &lt;DCFL 2006-04-28/34, art. 7, 012; En vigueur : 24-06-2006&gt;
+
+**Art. 2.1.16**
+
+§ 1. La députation [<sup>1</sup> ...]<sup>1</sup> établit le projet de plan.
+
+§ 2. Elle associe à l'élaboration du plan les organes publics, organismes et organisations de droit privé les plus intéressés. Sont en tout cas concernées les administrations représentées dans la commission provinciale [<sup>1</sup> du permis d'environnement]<sup>1</sup> et la "Gewestelijke Ontwikkelingsmaatschappij" (Société de Développement régional).
+
+§ 3. Le Gouvernement flamand peut arrêter les modalités de consultation et de participation des organes, organismes et organisations visés au § 2.}
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 136, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 2.1.17**
+
+§ 1. Le projet de plan est communiqué au Gouvernement flamand, aux membres du conseil provincial, aux administrations représentées dans la commission provinciale [<sup>1</sup> du permis d'environnement ]<sup>1</sup>, à la "Gewestelijke Ontwikkelingsmaatschappij", aux communes et aux organes consultatifs ou organisations désignés par la députation [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. Le projet de plan peut être consulté à la maison communale pendant soixante jours. La députation [<sup>1</sup> ...]<sup>1</sup> en informe le public par des publications dans la presse et des annonces à la radio et à la télévision.
+
+Chacun peut adresser pendant ce délai ses observations écrites à la députation permanente.
+
+Dans le même délai, les organismes, organes ou organisations visés au § 1er, à l'exception du conseil provincial, notifient leur avis motivé à la députation permanente. Lorsqu'un avis n'est pas émis dans le délai prescrit au premier alinéa, il n'y a pas lieu d'en tenir compte.
+
+§ 3. Dans les soixante jours de l'expiration du délai visé au § 2, le conseil provincial examine les avis émis et fixe le plan par un arrêté motivé tout en communiquant en général ses considérations au sujet des observations et avis introduits.
+
+§ 4. Le plan est communiqué aux instances visées au § 1er. Il peut être consulté à la province et dans les communes.
+
+§ 5. Le Gouvernement flamand peut annuler par arrêté motivé dans un délai de trois mois de la notification visée au § 4, les dispositions du plan contraires aux dispositions obligatoires du plan régional d'orientation environnementale.
+
+§ 6. Le Gouvernement flamand peut arrêter les modalités de la procédure prévue aux §§ 1er à 4.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 137, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 2.1.17bis**
+
+&lt;Inséré par DCFL 2006-04-28/34, art. 8; En vigueur : 24-06-2006&gt; § 1er. Lors de la révision du plan en vue de son concordance avec le plan régional d'orientation environnementale, mentionnée à l'article 2.1.15, § 3, il suffit que le conseil provincial fixe le plan par décision motivée. Le plan revu est communiqué aux instances, mentionnées à l'article 2.1.17, § 1er.
+
+§ 2. Le Gouvernement flamand peut, dans un délai de trois mois après la notification, visée au § 1er, annuler par arrêté motivé les dispositions du plan qui sont contraires aux dispositions obligatoires du plan régional d'orientation environnementale.
+
+**Art. 2.1.18**
+
+§ 1er. (Le Gouvernement flamand peut accorder aux provinces une subvention pour l'exécution d'un plan provincial d'orientation environnementale ou d'un programme environnemental annuel. Il arrête les conditions et les modalités en la matière.) &lt;DCFL 2006-04-28/34, art. 9, 012; En vigueur : 24-06-2006&gt;
+
+§ 2. Le Gouvernement flamand peut décider, après évaluation de l'exécution volontaire des dispositions de la présente sous-section, que les provinces sont tenues à établir un plan d'orientation environnementale à partir d'une date qu'il précise.
+
+**Art. 2.1.18bis**
+
+&lt;Inséré par DCFL 2006-04-28/34, art. 10; En vigueur : 24-06-2006&gt; Un plan d'orientation environnementale, tel que mentionné à l'article 2.1.15, est établi pour la première fois en 2007. A ce moment, il peut être opté pour une ratification ou actualisation du plan provincial d'orientation environnementale existant, le cas échéant en combinaison avec une prolongation de la période de plan. Dans ce cas suffit une procédure de révision telle que mentionnée à l'article 2.1.17bis.
+
+##### Sous-section 2. - Le programme environnemental annuel provincial.
+
+**Art. 2.1.19**
+
+§ 1. La députation [<sup>1</sup> ...]<sup>1</sup> peut arrêter chaque année un programme environnemental annuel.
+
+§ 2. (abrogé) &lt;DCFL 2006-04-28/34, art. 11, 012; En vigueur : 24-06-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 138, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 2.1.20**
+
+(abrogé) &lt;DCFL 2006-04-28/34, art. 12, 012; En vigueur : 24-06-2006&gt;
+
+#### Section 4. - Planification environnementale au niveau communal.
+
+##### Sous-section 1. - Le plan communal d'orientation environnementale.
+
+**Art. 2.1.21**
+
+§ 1er. (Le conseil communal peut établir dans le courant du deuxième semestre de l'année qui suit les élections communales un plan communal d'orientation environnementale en vue de la protection et de la gestion de l'environnement sur le territoire de la province.
+
+Le plan communal d'orientation environnementale met en exécution au niveau communal le plan régional et le plan provincial d'orientation environnementale. Dans les limites des pouvoirs communaux, le plan communal d'orientation environnementale peut également compléter le plan régional et le plan provincial d'orientation environnementale. Le plan communal d'orientation environnementale doit être conforme aux dispositions contraignantes du plan régional et du plan provincial d'orientation environnementale.) &lt;DCFL 2006-04-28/34, art. 13, 012; En vigueur : 24-06-2006&gt;
+
+§ 2. Le plan communal d'orientation environnementale comprend un plan d'action tel que visé à l'article 2 1.7., § 3. Les dispositions du plan communal d'orientation environnementale sont indicatives sauf les dispositions du plan d'action désignées par le conseil communal comme obligatoires. Ces dispositions sont obligatoires pour la commune et les organismes qui en relèvent.
+
+§ 3. (A l'entrée en vigueur de chaque nouveau plan régional ou plan provincial d'orientation environnementale, le plan communal d'orientation environnementale existant peut être revu.
+
+Les dispositions du plan communal d'orientation environnementale existant qui sont contraires aux dispositions obligatoires du nouveau plan régional ou du plan provincial d'orientation environnementale, perdent de plein droit leur validité.) &lt;DCFL 2006-04-28/34, art. 13, 012; En vigueur : 24-06-2006&gt;
+
+**Art. 2.1.22**
+
+§ 1. Le collège des bourgmestre et échevins établit le projet de plan.
+
+§ 2. Elle associe à l'élaboration du plan les organes publics, organismes et organisations de droit privé les plus intéressés.
+
+§ 3. Le Gouvernement flamand peut arrêter les modalités de consultation et de participation des organes, organismes et organisations visés au § 2.
+
+**Art. 2.1.23**
+
+§ 1. Le projet de plan est communiqué au Gouvernement flamand, aux conseillers communaux, aux administrations représentées dans la commission provinciale [<sup>1</sup> du permis d'environnement]<sup>1</sup>, à la députation [<sup>1</sup> ...]<sup>1</sup> du conseil provincial et aux organes consultatifs ou organisations désignés par le collège des bourgmestre et échevins.
+
+§ 2. Le projet de plan peut être consulté à l'administration communale pendant soixante jours. Le collège des bourgmestre et échevins en informe le public par affichage et par des annonces dans au moins deux journaux et/ou hebdomadaires dont un à caractère régional. Chacun peut adresser pendant ce délai ses observations écrites au collège des bourgmestre et échevins.
+
+§ 3. Dans le même délai, les organismes, organes ou organisations visés au § 1er, notifient leur avis motivé au collège des bourgmestre et échevins.
+
+La députation [<sup>1</sup> ...]<sup>1</sup> examine le projet de plan en particulier quant à sa compatibilité avec le plan régional d'orientation environnementale et dans la mesure où il existe, avec le plan provincial d'orientation environnementale et veille à la coordination des plans communaux d'orientation environnementale au sein de la province.
+
+§ 4. Dans les soixante jours de l'expiration du délai visé au § 2, le conseil communal examine les observations introduites et les avis émis et fixe le plan par un arrêté motivé tout en communiquant en général ses considérations au sujet des observations introduites et des avis émis.
+
+§ 5. Le plan est communiqué aux instances visées au § 1er. Il peut être consulté à la commune.
+
+§ 6. La députation [<sup>1</sup> ...]<sup>1</sup> peut annuler par arrêté motivé dans un délai de trois mois de la notification visée au § 5, les dispositions du plan contraires aux dispositions obligatoires du plan régional d'orientation environnementale et dans la mesure où il existe, du plan provincial d'orientation environnementale.
+
+§ 7. Le Gouvernement flamand peut arrêter les modalités de la procédure prévue aux §§ 1er à 4 inclus.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 139, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 2.1.23bis**
+
+&lt;Inséré par DCFL 2006-04-28/34, art. 14; En vigueur : 24-06-2006&gt; § 1er. Lors de la révision du plan en vue de son concordance avec le plan régional ou le plan provincial d'orientation environnementale, mentionnée à l'article 2.1.21, § 3, il suffit que le conseil communal fixe le plan par décision motivée. Le plan revu est communiqué aux instances, mentionnées à l'article 2.1.23, § 1er.
+
+§ 2. La députation [<sup>1</sup> ...]<sup>1</sup> peut, dans un délai de trois mois après la notification, visée au § 1er, annuler par décision motivée les dispositions du plan qui sont contraires aux dispositions obligatoires du plan régional ou du plan provincial d'orientation environnementale.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 140, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 2.1.24**
+
+§ 1er. (Le Gouvernement flamand peut accorder aux communes une subvention pour l'exécution d'un plan communal d'orientation environnementale ou d'un programme environnemental annuel. Il arrête les conditions et les modalités en la matière.) &lt;DCFL 2006-04-28/34, art. 15, 012; En vigueur : 24-06-2006&gt;
+
+§ 2. Le Gouvernement flamand peut décider, après évaluation de l'exécution volontaire des dispositions de la présente sous-section, que les communes sont tenues à établir un plan d'orientation environnementale à partir d'une date qu'il précise.
+
+**Art. 2.1.24bis**
+
+&lt;Inséré par DCFL 2006-04-28/34, art. 16; En vigueur : 24-06-2006&gt; Un plan communal d'orientation environnementale, tel que mentionné à l'article 2.1.21, est établi pour la première fois en 2007. A ce moment, il peut être opté pour une ratification ou actualisation du plan communal d'orientation environnementale existant, le cas échéant en combinaison avec une prolongation de la période de plan. Dans ce cas suffit une procédure de révision telle que mentionnée à l'article 2.1.23bis.
+
+##### Sous-section 2. - Le programme environnemental annuel communal.
+
+**Art. 2.1.25**
+
+§ 1er. Le collège des bourgmestre et échevins peut arrêter chaque année un programme environnemental annuel.
+
+§ 2. (abroge) &lt;DCFL 2006-04-28/34, art. 17, 012; En vigueur : 24-06-2006&gt;
+
+**Art. 2.1.26**
+
+(abrogé) &lt;DCFL 2006-04-28/34, art. 18, 012; En vigueur : 24-06-2006&gt;
+
+### CHAPITRE II. - Normes environnementales qualitatives.
+
+#### Section 1. - Généralités.
+
+**Art. 2.2.1**
+
+En vue de la protection de l'environnement, le Gouvernement flamand arrête des normes environnementales qualitatives qui déterminent les exigences de qualité auxquelles doivent répondre les éléments de l'environnement dans les délais qu'il fixe.
+
+Les normes environnementales qualitatives précisent les quantités admissibles maximales de facteurs polluants dans l'atmosphère, l'eau (sédiment ou biota) ou le sol. Elles peuvent également préciser les éléments naturels ou autres que l'environnement doit contenir en vue de la protection des écosystèmes et de la promotion de la diversité biologique. &lt;DCFL 2003-07-18/72, art. 75, 005; En vigueur : 24-11-2003&gt;
+
+**Art. 2.2.2**
+
+&lt;DCFL 2004-04-30/45, art. 4, 007; En vigueur : 01-06-2009&gt; Chaque projet d'arrêté fixant ou modifiant les normes environnementales qualitatives est communiqué par le Gouvernement flamand au Conseil de l'Environnement et de la Nature de la Flandre qui émet un avis motivé dans un délai de deux mois après la réception du projet.
+
+Dans la mesure où des obligations internationales imposent d'autres délais, le Gouvernement flamand peut écourter le délai d'avis fixé à l'alinéa précédent, tout en respectant le délai minimum [<sup>1</sup> visé à l'article III.103, § 2, du Décret de gouvernance du 7 décembre 2018]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.12, 065; En vigueur : 01-01-2019&gt;
+
+**Art. 2.2.3**
+
+§ 1. Les normes visées à l'article 2.2.1. peuvent être subdivisées en normes environnementales qualitatives de base et en normes environnementales qualitatives particulières.
+
+Les normes environnementales qualitatives de base définissent les exigences de qualité auxquelles l'élément concerné de l'environnement doit répondre dans toute la Région flamande.
+
+Les normes environnementales qualitatives particulières définissent les exigences de qualité auxquelles doit répondre l'élément concerné de l'environnement dans les zones nécessitant une protection spéciale, soit à cause de leur destination, soit en raison des fonctions qu'elles remplissent ou qu'elles doivent remplir.
+
+§ 2. Lorsque la Région flamande à l'intention d'arrêter des normes environnementales qualitatives particulières pour les zones limitrophes des Etats voisins ou d'autres Régions, elle se concerte avec les autorités compétentes de ces Etats ou Régions.
+
+§ 3. Lorsqu'une zone déterminée fait à la fois l'objet de normes environnementales qualitatives de base et de normes environnementales qualitatives particulières, la norme environnementale qualitative la plus stricte est d'application.
+
+§ 4. Le Gouvernement flamand évalue et revoit au besoin, à des intervalles réguliers, les normes environnementales qualitatives ainsi que les zones soumises à des normes environnementales qualitatives particulières.
+
+**Art. 2.2.4**
+
+Les normes environnementales qualitatives visées à l'article 2.2.1. peuvent être fixées sous la forme de valeurs limites et de valeurs indicatives.
+
+Les valeurs limites ne peuvent pas être dépassées, sauf dans le cas de force majeure. Sans préjudice des autres dispositions du présent décret, les règlements qu'ils arrêtent prescrivent les mesures que les pouvoirs désignés à cet effet doivent prendre en cas de dépassement ou de dépassement imminent des valeurs afin de sauvegarder les intérêts protégés par elles.
+
+Les valeurs indicatives déterminent le niveau de qualité de l'environnement qui doit être atteint ou maintenu dans la mesure du possible.
+
+Les valeurs limites et les valeurs indicatives peuvent être appliquées séparément ou conjointement.
+
+**Art. 2.2.5**
+
+§ 1. Lorsque dans une zone déterminée la qualité effective d'un élément de l'environnement est meilleure que celle prescrite par la valeur limite ou la valeur indicative d'application, les mesures nécessaires doivent être prises pour maintenir cette qualité.
+
+§ 2. La qualité effective d'un élément de l'environnement dans une zone déterminée qui est soumise à une valeur limite ou à une valeur indicative, est fixée conformément à l'article 2.2.6., §§ 1er et 2.
+
+**Art. 2.2.6**
+
+§ 1. Le Gouvernement flamand désigne les organismes ou les personnes chargés de mesurer la qualité des divers éléments de l'environnement qui sont soumis à des normes environnementales qualitatives conformément à l'article 2.2.1..
+
+§ 2. Le Gouvernement flamand arrête les modalités concernant le lieu et la fréquence d'échantillonnage, les méthodes d'échantillonnage et d'analyse applicables ou les autres méthodes de mesure ou de détermination, la vérification des résultats obtenus à la lumière des normes prescrites ainsi que le mode et la fréquence de rapportage de ces résultats.
+
+§ 3. S'il ressort des résultats visés au § 2 que les valeurs limites ou les valeurs indicatives d'application n'ont pas été respectées, le Gouvernement flamand fait examiner les causes s'y rapportant.
+
+§ 4. La population peut disposer, sur simple demande, des résultats de mesure concrets non interprétés. Le Gouvernement flamand arrête les modalités et désigne l'autorité auprès de laquelle ces données peuvent être obtenues.
+
+**Art. 2.2.7**
+
+§ 1. S'il ressort de l'examen visé à l'article 2.2.6., § 3, que le dépassement d'une valeur limite ne peut pas être attribué à des circonstances fortuites et passagères ou que l'environnement a été atteint de façon durable, le Gouvernement flamand ou une administration ou organisme désignés par lui établit un programme de rétablissement.
+
+§ 2. Le programme de rétablissement comprend :
+
+1° un inventaire de toutes les sources décelables de pollution ou de nuisance avec indication de leur part dans la pollution ou la nuisance dont la zone concernée fait l'objet ;
+
+2° la réduction des émissions à réaliser à ces sources ou les autres mesures à prendre afin de répondre aux normes environnementales qualitatives ;
+
+3° les instruments politiques à utiliser pour atteindre cet objectif avec indication des autorités compétentes en la matière ;
+
+4° le délai dans lequel le rétablissement doit être réalisé.
+
+§ 3. Le programme de rétablissement est transmis pour suite voulue aux autorités visées au § 2, 3°. Lorsque la cause de dépassement de la norme se situe dans un Etat voisin ou dans une autre Région, le Gouvernement flamand se concerte avec les autorités compétentes de cet Etat voisin ou de cette Région.
+
+§ 4. A des intervalles réguliers, le Gouvernement flamand ou une administration ou organisme désignés par lui, évalue l'état d'avancement du programme de rétablissement.
+
+§ 5. Les dispositions du présent article ne sont pas applicables à l'assainissement du sol visé au décret du 22 février 1995 relatif à l'assainissement du sol.
+
+#### Section 2. - Dispositions spéciales.
+
+**Art. 2.2.8**
+
+§ 1. Le Gouvernement flamand arrête un régime spécial relatif aux situations temporaires d'accroissement de la pollution atmosphérique suite à des circonstances météorologiques particulières.
+
+§ 2. Ce régime spécial prévoit des valeurs limites pour la pollution atmosphérique dont le dépassement entraîne, selon le cas, le déclenchement d'une phase d'alerte ou d'une phase d'alarme.
+
+§ 3. Au cours de la phase d'alerte, les autorités concernées et les exploitants de sources polluantes importantes sont informés du fait que la phase d'alarme peut être déclenchée en fonction de l'évolution ultérieure de la situation dans l'avenir immédiat.
+
+§ 4. Au cours de la phase d'alarme, les exploitants et les autorités compétentes prennent les mesures de sécurité prescrites par le Gouvernement flamand en tenant compte de la gravité de la situation, en ce qui concerne les sources significatives de pollution.
+
+§ 5. Le Gouvernement flamand arrête également le mode d'information du public et les mesures que les autorités compétentes peuvent prendre à l'encontre du public.
+
+## TITRE III. - (Protection de l'environnement au sein des entreprises.) &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt;
+
+### CHAPITRE I. - (Objectifs et définitions.) &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt;
+
+**Art. 3.1.1**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; La protection de l'environnement au sein des entreprises a pour but de poursuivre des processus de production durables et de maîtriser et de limiter dans tous ses aspects l'impact d'une entreprise sur l'environnement afin de contribuer à la réalisation des objectifs définis à l'article 1.2.1 du présent décret.
+
+**Art. 3.1.2**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; Dans ce titre on entend par :
+
+1° [<sup>1</sup> établissements et activités : les établissements et activités mentionnés à l'article 5.1.1, 8°, et à l'article 5.1.1, 1°;]<sup>1</sup>
+
+2° [<sup>1</sup> autorité délivrant l'autorisation : l'autorité qui peut délivrer le permis d'environnement, visé dans le décret du 25 avril 2014 relatif au permis d'environnement;]<sup>1</sup>
+
+3° (abrogé) &lt;DCFL 2007-12-21/82, art. 2, 020; En vigueur : 01-05-2009&gt;
+
+4° (...); &lt;DVR 2002-12-18/60, art. 4, 004; En vigueur : 13-02-2003&gt;
+
+5° site : tout terrain sur lequel sont exercées, en un lieu donné, sous le contrôle d'une entreprise, des activités industrielles y compris tout stockage de matières premières, sous-produits, produits intermédiaires, produits finis et déchets que comportent ces activités ainsi que tout équipement et toute infrastructure fixes ou non intervenant dans l'exercice de ces activités.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 141, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE II. - (Coordinateur environnemental.) &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 04-01-1996&gt;
+
+**Art. 3.2.1**
+
+§ 1. § 1. &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 04-01-1996&gt; Les exploitants des [<sup>3</sup> établissements et activités]<sup>3</sup> de première classe doivent désigner un coordinateur environnemental.
+
+Le Gouvernement flamand peut dispenser certaines catégories d'[<sup>3</sup> établissements et activités]<sup>3</sup> de cette obligation.
+
+§ 2. [<sup>3</sup> Le Gouvernement flamand désigne les établissements ou activités de deuxième classe pour lesquels l'exploitant doit désigner un coordinateur environnemental.]<sup>3</sup>.
+
+§ 3. L'autorité délivrant l'autorisation peut obliger les exploitants des [<sup>3</sup> établissements et activités]<sup>3</sup> non visés aux §§ 1er ou 2, à désigner un coordinateur environnemental si la nature de l'[<sup>3</sup> établissement ou activité]<sup>3</sup>, la nature de ses effets sur l'environnement ou le lieu où il est situé ou exercé le justifient.
+
+§ 4. Le coordinateur environnemental peut être employé ou non par l'exploitant.
+
+Dans la mesure où cela ne compromet pas un bon accomplissement des missions et où [<sup>2</sup> la division [<sup>4</sup> compétente]<sup>4</sup>]<sup>2</sup> donne son accord, un ou plusieurs [<sup>3</sup> établissements et activités]<sup>3</sup> relèveront conjointement d'un coordinateur environnemental ou d'une personne non employée par l'exploitant.
+
+Un tel accord n'est toutefois pas requis lorsque la désignation d'un coordinateur environnemental concerne plusieurs [<sup>3</sup> établissements et activités]<sup>3</sup> à la fois qui constituent un site d'activité sous le contrôle de la même personne ou personne morale. [<sup>2</sup> Cet accord n'est également pas requis s'il s'agit d'une désignation commune d'une personne qui est uniquement agréée en tant que coordinateur environnemental. [<sup>4</sup> ...]<sup>4</sup>.]<sup>2</sup>
+
+§ 5. Lorsque l'autorité délivrant l'autorisation estime que les différents [<sup>3</sup> établissements et activités]<sup>3</sup> constituent une unité environnementale, elle peut imposer la désignation d'un coordinateur environnemental commun.
+
+Le fait que plusieurs établissements possèdent un statut de propriété différent, n'empêche pas qu'ils constituent une unité environnementale.
+
+[<sup>1</sup> § 6. L'accord est donné si les conditions fixées par le Gouvernement flamand et publiées préalablement à la demande de l'accord ont été remplies.
+
+§ 7. Le Gouvernement flamand arrête les modalités de la demande, du refus ou de l'octroi et de la publication des accords. A sa demande, le demandeur d'un accord est entendu par l'administration désignée par le Gouvernement flamand. L'administration précitée peut également entendre le demandeur de sa propre initiative.
+
+§ 8. Le Gouvernement flamand peut arrêter que l'accord est réputé obtenu tacitement lorsque l'administration ne notifie pas de décision au demandeur dans le délai fixé par celui-là.
+
+Le Gouvernement flamand ne peut prendre cette décision qu'après le constat que la pondération des intérêts par l'administration visée au § 4, lors de ses décisions au sujet des demandes d'accord sur la désignation multiple de coordinateurs environnementaux, n'est pas indispensable dans tous les cas, pour des raisons obligatoires d'intérêt général, y compris l'intérêt légitime d'une tierce partie.
+
+§ 9. Le Gouvernement flamand peut fixer des conditions d'emploi relatives aux accords.
+
+§ 10. Sans préjudice de l'application des dispositions du titre XVI l'administration désignée par le Gouvernement flamand peut suspendre ou annuler l'accord.
+
+Le Gouvernement flamand définit les cas dans lesquels l'on peut procéder à la suspension ou à l'annulation. Les exploitants et le coordinateur environnemental sont entendus à leur demande. Le Gouvernement flamand arrête les modalités de la procédure à suivre en cas de suspension ou d'annulation de l'accord.
+
+§ 11. La personne qui n'est pas employée par l'exploitant et qui en vertu du § 4 veut être désignée en tant que coordinateur environnemental de deux ou plusieurs [<sup>3</sup> établissements et activités]<sup>3</sup> ne constituant pas une unité environnementale, doit être agréée comme coordinateur environnemental préalablement à la désignation.
+
+Les dispositions du [<sup>3</sup> titre V, chapitre 6]<sup>3</sup> s'appliquent à l'agrément comme coordinateur environnemental.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-03-27/53, art. 10, 023; En vigueur : 01-01-2011, voir AGF 2010-11-19/21, art. 104&gt;
+
+(2)&lt;DCFL 2010-12-23/39, art. 95, 028; En vigueur : 28-02-2011&gt;
+
+(3)&lt;DCFL 2014-04-25/M4, art. 142, 049; En vigueur : 23-02-2017&gt;
+
+(4)&lt;DCFL 2019-04-26/31, art. 56, 069; En vigueur : 29-06-2019&gt;
+
+**Art. 3.2.2**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 04-01-1996&gt; § 1. Le coordinateur environnemental a les missions suivantes :
+
+a) il contribue au développement, l'introduction, l'application et l'évaluation de méthodes de production et de produits propices à l'environnement;
+
+b) il veille au respect de la législation environnementale notamment par un contrôle régulier dans les ateliers, des travaux d'épuration et des [<sup>1</sup> flux de matériaux]<sup>1</sup>; il rapporte les déficiences constatées à la direction de l'entreprise et fait des propositions pour y remédier;
+
+c) il veille à l'exécution des mesures d'émission et d'immixtion prescrites et de l'enregistrement de leurs résultats ou les assure lui-même;
+
+d) [<sup>1</sup> il veille à la tenue du registre des déchets et des matériaux et à l'observation de l'obligation de déclaration visées aux articles 6, 23 à 25 inclus et 30 du décret du 23 décembre 2011 relatif à la gestion durable des flux de matériaux et de déchets;]<sup>1</sup>
+
+e) il fait des propositions et contribue à la communication interne et externe quant aux effets pour l'homme et l'environnement des produits, des déchets et des dispositions et mesures prises pour limiter ces effets.
+
+[<sup>2</sup> f) il offre sa collaboration et procure des informations pour l'exécution des évaluations, visées à l'article 5.4.11.]<sup>2</sup>
+
+§ 2. Le coordinateur environnemental rend un avis sur tout investissement envisagé qui peut être significatif sur le plan de l'environnement. Son avis est recueilli à temps et il est soumis à l'organe décideur. Il est entendu à sa demande.
+
+§ 3. Le coordinateur environnemental dresse annuellement un rapport de ses activités à l'intention de la direction de l'entreprise et, le cas échéant, du conseil d'entreprise et du comité de sécurité, d'hygiène et d'embellissement des lieux de travail ou à défaut desdits organes, de la représentation syndicale. Ce rapport contient entre autres une énumération des avis rendus par lui et les suites s'y rapportant.
+
+----------
+
+(1)&lt;DCFL 2011-12-23/33, art. 70, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+(2)&lt;DCFL 2014-04-25/M4, art. 143, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 3.2.3**
+
+§ 1. &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 04-01-1996&gt; Peut seulement être désigné comme coordinateur environnemental, une personne possédant les qualifications et les qualités requises pour accomplir dûment les missions visées à l'article 3.2.2.
+
+§ 2. Le Gouvernement flamand peut arrêter par voie de conditions générales ou [<sup>2</sup> conditions environnementales sectorielles]<sup>2</sup>, les modalités en matière de formation et d'expérience professionnelle ainsi que les autres conditions auxquelles le coordinateur environnemental doit répondre. Le Gouvernement flamand peut, au besoin, prendre des mesures transitoires en relation avec ces conditions au bénéfice des personnes exerçant déjà, en qualité d'employé de l'exploitant, les missions du coordinateur environnemental, avant l'entrée en vigueur du présent décret.
+
+§ 3. [<sup>3</sup> L'exploitant tient le dossier de désignation au siège d'exploitation à la disposition de la division compétente]<sup>3</sup>. Lorsque le coordinateur environnemental ne satisfait pas aux conditions visées au § 1er et, le cas échéant, à celles visées au § 2, [<sup>1</sup> la division compétente]<sup>1</sup> peut exiger que l'exploitant désigne une autre personne dans un délai qu'elle fixe.
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 96, 028; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2014-04-25/M4, art. 144, 049; En vigueur : 23-02-2017&gt;
+
+(3)&lt;DCFL 2019-04-26/31, art. 57, 069; En vigueur : 29-06-2019&gt;
+
+**Art. 3.2.4**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 04-01-1996&gt; L'exploitant est tenu à faire le nécessaire pour que le coordinateur environnemental puisse dûment accomplir sa mission. Si nécessaire, il met à sa disposition du personnel, des locaux, du matériel et des moyens.
+
+**Art. 3.2.5**
+
+[<sup>1</sup> Le Gouvernement flamand détermine les informations qui, dans le cadre de l'application du décret du 25 avril 2014 relatif au permis d'environnement et du titre V, doit être mise à disposition du Comité pour la prévention et la protection au travail ou, à défaut, à la délégation syndicale ou aux travailleurs par l'autorité délivrant l'autorisation, l'exploitant ou le coordinateur environnemental.
+
+Le Gouvernement flamand peut promulguer des règles en vue de la concertation relative à la protection de l'environnement au sein de l'entreprise entre l'exploitant, le délégué ou le coordinateur environnemental, d'une part, et le Comité pour la prévention et la protection au travail ou, à défaut, la délégation syndicale ou les travailleurs, d'autre part.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 145, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE III. - (EMAS et l'audit environnemental imposé par décret.) &lt;DCFL 2004-02-06/36, art. 4, 006; En vigueur : 09-03-2004&gt;
+
+**Art. 3.3.1**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; § 1. En vue de l'application en Région flamande du [<sup>1</sup> Règlement (CE) n° 1221/2009 du Parlement européen et du Conseil du 25 novembre 2009 concernant la participation volontaire des organisations à un système communautaire de management environnemental et d'audit (EMAS), abrogeant le Règlement (CE) n° 761/2001 et les Décisions de la Commission 2001/681/CE et 2006/193/CE,]<sup>1</sup> le Gouvernement flamand désigne l'instance qui, en ce qui concerne la Région flamande, est chargée d'agréer les vérificateurs environnementaux indépendants et de contrôler leurs activités. Il en informe (la Commission européenne). &lt;DCFL 2004-02-06/36, art. 5, 006; En vigueur : 09-03-2004&gt;
+
+§ 2. [<sup>1</sup> Le Gouvernement flamand désigne l'instance compétente telle que visée à l'article 11 du Règlement (CE) n° 1221/2009 du Parlement européen et du Conseil du 25 novembre 2009 concernant la participation volontaire des organisations à un système communautaire de management environnemental et d'audit (EMAS), abrogeant le Règlement (CE) n° 761/2001 et les Décisions de la Commission 2001/681/CE et 2006/193/CE.
+
+L'instance compétente est chargée de l'exécution des tâches qui lui sont confiées en vertu de ce Règlement.]<sup>1</sup>
+
+§ 3. Le Gouvernement flamand peut mettre à charge du demandeur de l'enregistrement, une participation dans les frais d'enregistrement (d'une organisation) dont il fixe le montant. &lt;DCFL 2004-02-06/36, art. 5, 006; En vigueur : 09-03-2004&gt;
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 98, 028; En vigueur : 28-02-2011&gt;
+
+**Art. 3.3.2**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; § 1. Le Gouvernement flamand désigne au moyen de [conditions environnementales] sectorielles, les catégories d'[<sup>2</sup> établissements ou activités]<sup>2</sup> soumises à un audit environnemental périodique ou unique [imposé par décret]. &lt;DCFL 2004-02-06/36, art. 6, 006; En vigueur : 09-03-2004&gt;
+
+[Le Gouvernement flamand peut toutefois exempter de cette obligation, dans les conditions qu'il fixe, les [<sup>2</sup> établissements ou activités]<sup>2</sup> qui disposent d'un système de protection de l'environnement interne qui offre des garanties équivalentes.] &lt;DCFL 2004-02-06/36, art. 6, 006; En vigueur : 09-03-2004&gt;
+
+§ 2. L'audit environnemental [imposé par décret] comporte une évaluation systématique, documentée et objective de la gestion, de l'organisation et de l'équipement de l'établissement ou activité concernés dans le domaine de la protection de l'environnement. &lt;DCFL 2004-02-06/36, art. 6, 006; En vigueur : 09-03-2004&gt;
+
+§ 3. L'audit environnemental [imposé par décret] porte sur : &lt;DCFL 2004-02-06/36, art. 6, 006; En vigueur : 09-03-2004&gt;
+
+\- les émissions et les immiscions ainsi que leurs incidences sur l'environnement;
+
+\- la gestion de l'énergie;
+
+\- la gestion des matières premières;
+
+\- la prévention et la gestion des déchets;
+
+[<sup></sup> la gestion du sol;] &lt;DCFL 2004-02-06/36, art. 6, 006; En vigueur : 09-03-2004&gt;
+
+\- les méthodes de production et la gestion des produits;
+
+\- la sécurité externe;
+
+\- l'information, la formation et la participation du personnel à la protection de l'environnement au sein des entreprises;
+
+\- l'information externe;
+
+\- les propositions et les avis du coordinateur environnemental tel que visés à l'article 3.2.2, § 3, et les suites y données.
+
+[Le Gouvernement flamand peut poser des exigences complémentaires concernant le contenu de l'audit environnemental imposé par décret. Il peut à cet effet donner son aval à des directives dont l'application a été recommandée.] &lt;DCFL 2004-02-06/36, art. 6, 006; En vigueur : 09-03-2004&gt;
+
+§ 4. Le Gouvernement flamand détermine les éléments de l'audit environnemental [imposé par décret] qui seront communiqués à l'administration désignée par le Gouvernement flamand. &lt;DCFL 2004-02-06/36, art. 6, 006; En vigueur : 09-03-2004&gt;
+
+§ 5. [<sup>1</sup> Pour la validation de l'audit environnemental imposé par décret, il est fait appel à un vérificateur environnemental agréé en application du [<sup>2</sup> titre V, chapitre 6]<sup>2</sup>.]<sup>1</sup>
+
+§ 6. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2009-03-27/53, art. 11, 023; En vigueur : indéterminée &gt;
+
+(2)&lt;DCFL 2014-04-25/M4, art. 146, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 3.3.3**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; Sauf dispositions contraires, l'audit environnemental est supporté par l'exploitant.
+
+Le Gouvernement flamand peut subventionner l'exécution d'un audit environnemental (imposé par décret) ou volontaire dans les limites des crédits budgétaires. Il arrête les modalités d'octroi des subventions. &lt;DCFL 2004-02-06/36, art. 7, 006; En vigueur : 09-03-2004&gt;
+
+### CHAPITRE IV. - (Obligations de mesure et d'enregistrement.) &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt;
+
+**Art. 3.4.1**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; § 1. Le Gouvernement flamand peut imposer, par voie de conditions générales ou [<sup>1</sup> conditions environnementales sectorielles]<sup>1</sup>, à l'exploitant d'un [<sup>1</sup> établissement ou activité]<sup>1</sup> dont les émissions, quant à leur nature ou importance, dépassent les seuils prescrits par le Gouvernement, l'obligation de mesurer, calculer et enregistrer en permanence ou périodiquement les valeurs d'émission ou d'immiscions. L'autorité délivrant l'autorisation peut imposer la même obligation à l'exploitant d'un [<sup>1</sup> établissement ou activité]<sup>1</sup>.
+
+Dans les zones soumises à des normes environnementales qualitatives telles que visées à l'article 2.2.3, § 3, du présent décret, des seuils plus bas peuvent être fixés ou des obligations plus strictes imposées.
+
+§ 2. Sans préjudice de l'article 3.5.1 l'exploitant tient ces données à la disposition des (surveillants). Il les conserve pendant au moins 5 ans. &lt;DCFL 2007-12-21/82, art. 3, 020; En vigueur : 01-05-2009&gt;
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 147, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 3.4.2**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; § 1. Le Gouvernement flamand peut obliger, par voie de conditions générales ou [<sup>1</sup> conditions environnementales sectorielles]<sup>1</sup>, l'exploitant d'un [<sup>1</sup> établissement ou activité]<sup>1</sup> comportant des risques de pollution du sol ou des eaux souterraines, à construire des puits témoins. L'autorité délivrant l'autorisation peut imposer la même obligation à l'exploitant d'un [<sup>1</sup> établissement ou activité ]<sup>1</sup>.
+
+§ 2. L'exploitant d'un tel [<sup>1</sup> établissement ou activité]<sup>1</sup> peut être obligé à mesurer et à enregistrer à des intervalles réguliers la qualité des eaux souterraines.
+
+§ 3. L'exploitant tient ces données à la disposition des (surveillants). Il les conserve pendant au moins 5 ans. &lt;DCFL 2007-12-21/82, art. 3, 020; En vigueur : 01-05-2009&gt;
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 148, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 3.4.3**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; § 1. [<sup>1</sup> Sans préjudice de l'application de l'article 23, alinéa premier, et l'article 30 du décret du 23 décembre 2011 relatives à la gestion durable de cycles de matériaux et de déchets]<sup>1</sup>, [<sup>2</sup> l'exploitant d'un établissement ou d'une activité peut être obligé, par voie de conditions générales ou environnementales sectorielles]<sup>2</sup>, à :
+
+a) tenir un registre des (substances) dangereux présents; (Erratum. Voir M.B. 27.10.1995, p. 30453)
+
+b) établir des bilans d'énergie et des matières premières.
+
+§ 2. L'exploitant tient ces données à la disposition des (surveillants). Il les conserve pendant au moins 5 ans. &lt;DCFL 2007-12-21/82, art. 3, 020; En vigueur : 01-05-2009&gt;
+
+----------
+
+(1)&lt;DCFL 2011-12-23/33, art. 71, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+(2)&lt;DCFL 2014-04-25/M4, art. 149, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE V. - (Rapport environnemental annuel.) &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt;
+
+**Art. 3.5.1**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; Le Gouvernement flamand désigne par voie de conditions générales ou [<sup>2</sup> conditions environnementales sectorielles]<sup>2</sup>, les catégories d'[<sup>2</sup> établissements ou activités]<sup>2</sup> dont les exploitants sont tenus à adresser annuellement un rapport environnemental annuel à l'autorité désignée à cet effet. Il détermine les données relatives aux émissions et immiscions mesurées ou calculées que doit contenir le rapport environnemental annuel.
+
+[<sup>1</sup> Le Gouvernement flamand peut également prescrire qu'en application de l'article 23, alinéa deux, du décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets, les données à fournir pour les [<sup>2</sup> établissements ou activités]<sup>2</sup>, visés à l'alinéa premier, doivent être reprises au rapport environnemental annuel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2011-12-23/33, art. 72, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+(2)&lt;DCFL 2014-04-25/M4, art. 150, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 3.5.2**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; Lorsque les données visées à l'article 3.5.1 sont basées sur des calculs, l'exploitant fournit les données de base sur lesquelles a été effectué le calcul ainsi que la méthode de calcul appliquée.
+
+**Art. 3.5.3**
+
+&lt;Inséré par DCFL 2004-02-06/33, art. 7; En vigueur : 01-03-2004&gt; Le Gouvernement flamand peut arrêter que la transmission de données prescrites par la réglementation en matière d'environnement, au Gouvernement flamand ou aux personnes morales relevant de la Région flamande, se fera par le biais d'un rapport environnemental annuel intégré.
+
+Le Gouvernement flamand détermine le contenu du rapport environnemental annuel intégré ainsi que les modalités et le délai de sa transmission. Il détermine à quel organisme ou service, le rapport environnemental annuel intégré est transmis. Il peut charger cet organisme ou service de faire parvenir le rapport ou le contenu, en tout ou en partie, à d'autres organismes ou services. Il peut échelonner l'application de l'obligation d'établissement d'un rapport environnemental annuel intégré.
+
+### CHAPITRE VI. - (Politique d'entreprise visant à prévenir les accidents graves et à limiter leurs effets pour l'homme et l'environnement.) &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt;
+
+**Art. 3.6.1**
+
+(Abrogé) &lt;DCFL 2000-07-17/45, art. 3, 003; En vigueur : 21-08-2000&gt;
+
+**Art. 3.6.2**
+
+(Abrogé) &lt;DCFL 2000-07-17/45, art. 3, 003; En vigueur : 21-08-2000&gt;
+
+### CHAPITRE VII. - (Obligation de déclaration et d'alerte en cas d'émissions et d'incidents accidentels.) &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt;
+
+**Art. 3.7.1**
+
+&lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt; § 1. En cas d'émissions accidentelles susceptibles de générer une pollution, l'exploitant d'un [<sup>1</sup> établissement ou activité]<sup>1</sup> prend les mesures nécessaires pour :
+
+\- en informer sans délai (les surveillants compétents); &lt;DCFL 2007-12-21/82, art. 4, 020; En vigueur : 01-05-2009&gt;
+
+\- alerter sans tarder des tiers susceptibles de subir des préjudices suite à l'émission avec indication des mesures à prendre pour écarter ou limiter le danger; cette disposition n'est toutefois pas d'application lorsque les prescriptions arrêtées par le pouvoir fédéral sont d'application dans le cadre de la protection civile;
+
+\- limiter dans la mesure du possible les effets pour l'homme et l'environnement.
+
+§ 2. An cas où l'émission menacerait d'endommager une installation d'épuration des eaux usées, l'exploitant avertit également le gestionnaire de l'installation concernée.
+
+§ 3. Lorsque les dispositifs d'épuration d'un [<sup>1</sup> établissement ou activité]<sup>1</sup> font défaut en raison d'un incident ou de toute autre cause ou si, pour une raison quelconque les normes d'émission ou d'immiscions sont dépassées, l'exploitant en informe sans tarder (les surveillants compétents). &lt;DCFL 2007-12-21/82, art. 4, 020; En vigueur : 01-05-2009&gt;
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 151, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE VIII. - (Surveillance et sanctions.) &lt;Inséré par DCFL 1995-04-19/34, art. 2; En vigueur : 14-07-1995&gt;
+
+**Art. 3.8.1**
+
+(abrogé) &lt;DCFL 2007-12-21/82, art. 5, 020; En vigueur : 01-05-2009&gt;
+
+**Art. 3.8.2**
+
+(abrogé) &lt;DCFL 2007-12-21/82, art. 6, 020; En vigueur : 01-05-2009&gt;
+
+**Art. 3.8.3**
+
+(abrogé) &lt;DCFL 2007-12-21/82, art. 7, 020; En vigueur : 01-05-2009&gt;
+
+## Titre IV. [<sup>1</sup> Rapports d'incidence sur l'environnement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 3, 086; En vigueur : 01-12-2025&gt;
+
+### Chapitre 1er. [<sup>1</sup> Définitions, dispositions générales et dispositions relatives aux incidences environnementales des actions d'autres pays ou régions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 4, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 1re. [<sup>1</sup> Définitions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 5, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.1**
+
+[<sup>1</sup> Dans le présent titre, on entend par :
+
+1° action : un plan, un programme ou un projet ;
+
+2° public concerné : toute personne physique ou morale, ainsi que toute association, toute organisation ou tout groupe doté de la personnalité morale qui est affecté ou qui risque d'être affecté par le processus décisionnel concernant l'action envisagée ou qui a un intérêt à faire valoir à cet égard, les organisations non gouvernementales qui oeuvrent en faveur de la protection de l'environnement étant réputées avoir un intérêt ;
+
+3° autorité compétente : l'autorité qui est compétente pour adopter un plan ou un programme ou pour statuer sur la demande d'autorisation d'un projet ;
+
+4° incidences environnementales transfrontalières ou transrégionales : les incidences environnementales d'une action envisagée se situant entièrement ou partiellement sur le territoire de la Région flamande, qui sont déclenchées sur le territoire d'une autre partie à la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, signée à Espoo le 25 février 1991, d'un autre Etat membre de l'Union européenne ou d'une autre région ;
+
+5° initiateur :
+
+a) pour ce qui concerne les obligations relatives aux plans d'exécution spatiale lorsque le plan d'exécution spatiale constitue le cadre pour un ou plusieurs projets d'une ou plusieurs personnes physiques ou morales de droit privé ou public : l'autorité qui prend l'initiative d'établir un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009, sauf si ces personnes physiques ou morales de droit privé ou public introduisent une demande écrite de reprise de ces obligations auprès de l'autorité qui prend l'initiative d'élaborer un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009 et que cette autorité accède à cette demande ;
+
+b) pour ce qui concerne les obligations relatives aux plans d'exécution spatiale autres que les plans d'exécution spatiale visés au point a) : l'autorité qui prend l'initiative d'établir un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009 ;
+
+c) pour ce qui concerne les obligations relatives aux plans et programmes autres que les plans et programmes visés aux points a) et b) : l'autorité qui prend l'initiative d'établir ou de modifier un plan ou programme ;
+
+d) pour ce qui concerne les obligations liées aux projets : le demandeur d'une autorisation pour un projet ;
+
+6° évaluation environnementale : le processus qui est constitué des étapes suivantes :
+
+a) l'élaboration et la rédaction d'un rapport sur les incidences environnementales ;
+
+b) la réalisation de consultations avec les organes consultatifs et le public concerné ;
+
+c) l'examen par l'autorité compétente des informations présentées dans le rapport sur les incidences environnementales et, le cas échéant, de toute information complémentaire fournie par l'initiateur, ainsi que de toute information pertinente reçue dans le cadre des consultations visées au point b) ;
+
+d) pour les projets : la conclusion motivée de l'autorité compétente sur les incidences notables de l'action sur l'environnement. Cette conclusion tient compte des résultats de l'examen visé au point c), de la décision relative à l'approbation ou au rejet du RIE du projet et, le cas échéant, de son propre examen complémentaire ;
+
+e) pour les plans et programmes : la déclaration résumant la manière dont les considérations environnementales ont été intégrées dans le plan ou programme et la manière dont le processus décisionnel tient compte du rapport sur les incidences environnementales rédigé et des résultats des consultations, visées au point b), ainsi que les raisons du choix du plan ou programme tel qu'adopté, compte tenu des autres alternatives raisonnables abordées ;
+
+f) l'intégration de la conclusion motivée de l'autorité compétente dans la décision relative à la demande d'autorisation pour le projet ;
+
+g) la fourniture d'informations sur la décision relative à l'action ;
+
+7° rapport sur les incidences environnementales, en abrégé RIE : un ensemble d'informations environnementales, quel que soit le support, dans lequel sont analysées et évaluées dans leur cohérence interne de manière systématique et scientifiquement étayée les conséquences notables prévisibles pour l'homme et l'environnement d'une action envisagée et des alternatives à prendre raisonnablement en compte . Le rapport sur les incidences environnementales indique de quelle façon les incidences environnementales notables peuvent être évitées, limitées, remédiées ou compensées ;
+
+8° RIE de plan : un rapport sur les incidences environnementales relatif à un plan ou programme ;
+
+9° RIE du projet : un rapport sur les incidences environnementales relatif à un projet ;
+
+10° rapport d'incidence sur l'environnement, en abrégé R.I.E. : la réalisation d'une évaluation environnementale ou la vérification, par le biais d'un screening, de la nécessité d'une évaluation environnementale ;
+
+11° résumé non technique : un résumé du rapport sur les incidences environnementales qui est suffisamment compréhensible et qui fournit au public et à l'autorité, impliqués dans le processus décisionnel, des informations suffisantes pour leur permettre de se forger une opinion sur les incidences environnementales notables probables d'une action envisagée ;
+
+12° plan ou programme : un plan ou programme, en ce compris un plan ou programme cofinancé par l'Union européenne, et ses modifications, qui remplit toutes les conditions suivantes :
+
+a) il a été élaboré et/ou adopté par une autorité au niveau régional, provincial ou communal ou il a été élaboré par une autorité en vue d'être adopté par le biais d'une procédure législative par le Parlement flamand ou le Gouvernement flamand ;
+
+b) il est prescrit en vertu de dispositions législatives, réglementaires ou administratives ;
+
+13° projet :
+
+a) la réalisation de travaux de construction ou d'autres installations ou ouvrages ;
+
+b) d'autres interventions dans le milieu naturel ou le paysage, en ce compris celles destinées à l'exploitation des ressources du sol ;
+
+14° public : une ou plusieurs personnes physiques ou morales et leurs associations, organisations ou groupes ;
+
+15° scoping : un ensemble d'informations environnementales, quel que soit le support, qui définit le champ d'application, le niveau de détail et l'approche de fond du rapport sur les incidences environnementales ;
+
+16° avis de cadrage : un avis sur le champ d'application, le niveau de détail et l'approche de fond des informations qui doivent être présentées par l'initiateur dans le rapport sur les incidences environnementales ;
+
+17° screening : un ensemble d'informations environnementales, quel que soit le support, qui indique si une action envisagée est susceptible d'avoir des incidences environnementales notables ;
+
+18° autorisation : la décision de l'autorité compétente accordant à l'initiateur le droit de réaliser le projet ;
+
+19° Centre d'Expertise flamand pour les rapports d'incidence sur l'environnement, en abrégé Centre d'Expertise flamand R.I.E. : l'autorité au sein du Département Environnement en charge des tâches relatives aux rapports des incidences sur l'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 6, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4_1.1.DROIT_FUTUR**
+
+[<sup>1</sup> Dans le présent titre, on entend par :
+
+1° action : un plan, un programme ou un projet ;
+
+2° public concerné : toute personne physique ou morale, ainsi que toute association, toute organisation ou tout groupe doté de la personnalité morale qui est affecté ou qui risque d'être affecté par le processus décisionnel concernant l'action envisagée ou qui a un intérêt à faire valoir à cet égard, les organisations non gouvernementales qui oeuvrent en faveur de la protection de l'environnement étant réputées avoir un intérêt ;
+
+3° autorité compétente : l'autorité qui est compétente pour adopter un plan ou un programme ou pour statuer sur la demande d'autorisation d'un projet ;
+
+4° incidences environnementales transfrontalières ou transrégionales : les incidences environnementales d'une action envisagée se situant entièrement ou partiellement sur le territoire de la Région flamande, qui sont déclenchées sur le territoire d'une autre partie à la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, signée à Espoo le 25 février 1991, d'un autre Etat membre de l'Union européenne ou d'une autre région ;
+
+5° initiateur :
+
+a) pour ce qui concerne les obligations relatives aux plans d'exécution spatiale lorsque le plan d'exécution spatiale constitue le cadre pour un ou plusieurs projets d'une ou plusieurs personnes physiques ou morales de droit privé ou public : l'autorité qui prend l'initiative d'établir un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009, sauf si ces personnes physiques ou morales de droit privé ou public introduisent une demande écrite de reprise de ces obligations auprès de l'autorité qui prend l'initiative d'élaborer un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009 et que cette autorité accède à cette demande ;
+
+b) pour ce qui concerne les obligations relatives aux plans d'exécution spatiale autres que les plans d'exécution spatiale visés au point a) : l'autorité qui prend l'initiative d'établir un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009 ;
+
+c) pour ce qui concerne les obligations relatives aux plans et programmes autres que les plans et programmes visés aux points a) et b) : l'autorité qui prend l'initiative d'établir ou de modifier un plan ou programme ;
+
+d) pour ce qui concerne les obligations liées aux projets : le demandeur d'une autorisation pour un projet ;
+
+6° évaluation environnementale : le processus qui est constitué des étapes suivantes :
+
+a) l'élaboration et la rédaction d'un rapport sur les incidences environnementales ;
+
+b) la réalisation de consultations avec les organes consultatifs et le public concerné ;
+
+c) l'examen par l'autorité compétente des informations présentées dans le rapport sur les incidences environnementales et, le cas échéant, de toute information complémentaire fournie par l'initiateur, ainsi que de toute information pertinente reçue dans le cadre des consultations visées au point b) ;
+
+d) pour les projets : la conclusion motivée de l'autorité compétente sur les incidences notables de l'action sur l'environnement. Cette conclusion tient compte des résultats de l'examen visé au point c), [<sup>2</sup> ...]<sup>2</sup> et, le cas échéant, de son propre examen complémentaire ;
+
+e) pour les plans et programmes : la déclaration résumant la manière dont les considérations environnementales ont été intégrées dans le plan ou programme et la manière dont le processus décisionnel tient compte du rapport sur les incidences environnementales rédigé et des résultats des consultations, visées au point b), ainsi que les raisons du choix du plan ou programme tel qu'adopté, compte tenu des autres alternatives raisonnables abordées ;
+
+f) l'intégration de la conclusion motivée de l'autorité compétente dans la décision relative à la demande d'autorisation pour le projet ;
+
+g) la fourniture d'informations sur la décision relative à l'action ;
+
+7° rapport sur les incidences environnementales, en abrégé RIE : un ensemble d'informations environnementales, quel que soit le support, dans lequel sont analysées et évaluées dans leur cohérence interne de manière systématique et scientifiquement étayée les conséquences notables prévisibles pour l'homme et l'environnement d'une action envisagée et des alternatives à prendre raisonnablement en compte . Le rapport sur les incidences environnementales indique de quelle façon les incidences environnementales notables peuvent être évitées, limitées, remédiées ou compensées ;
+
+8° RIE de plan : un rapport sur les incidences environnementales relatif à un plan ou programme ;
+
+9° RIE du projet : un rapport sur les incidences environnementales relatif à un projet ;
+
+10° rapport d'incidence sur l'environnement, en abrégé R.I.E. : la réalisation d'une évaluation environnementale ou la vérification, par le biais d'un screening, de la nécessité d'une évaluation environnementale ;
+
+11° résumé non technique : un résumé du rapport sur les incidences environnementales qui est suffisamment compréhensible et qui fournit au public et à l'autorité, impliqués dans le processus décisionnel, des informations suffisantes pour leur permettre de se forger une opinion sur les incidences environnementales notables probables d'une action envisagée ;
+
+12° plan ou programme : un plan ou programme, en ce compris un plan ou programme cofinancé par l'Union européenne, et ses modifications, qui remplit toutes les conditions suivantes :
+
+a) il a été élaboré et/ou adopté par une autorité au niveau régional, provincial ou communal ou il a été élaboré par une autorité en vue d'être adopté par le biais d'une procédure législative par le Parlement flamand ou le Gouvernement flamand ;
+
+b) il est prescrit en vertu de dispositions législatives, réglementaires ou administratives ;
+
+13° projet :
+
+a) la réalisation de travaux de construction ou d'autres installations ou ouvrages ;
+
+b) d'autres interventions dans le milieu naturel ou le paysage, en ce compris celles destinées à l'exploitation des ressources du sol ;
+
+14° public : une ou plusieurs personnes physiques ou morales et leurs associations, organisations ou groupes ;
+
+15° scoping : un ensemble d'informations environnementales, quel que soit le support, qui définit le champ d'application, le niveau de détail et l'approche de fond du rapport sur les incidences environnementales ;
+
+16° avis de cadrage : un avis sur le champ d'application, le niveau de détail et l'approche de fond des informations qui doivent être présentées par l'initiateur dans le rapport sur les incidences environnementales ;
+
+17° screening : un ensemble d'informations environnementales, quel que soit le support, qui indique si une action envisagée est susceptible d'avoir des incidences environnementales notables ;
+
+18° autorisation : la décision de l'autorité compétente accordant à l'initiateur le droit de réaliser le projet ;
+
+19° Centre d'Expertise flamand pour les rapports d'incidence sur l'environnement, en abrégé Centre d'Expertise flamand R.I.E. : l'autorité au sein du Département Environnement en charge des tâches relatives aux rapports des incidences sur l'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 6, 086; En vigueur : 01-12-2025&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 7, 086; En vigueur : indéterminée &gt;
+
+#### Section 2. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 8, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.2**
+
+[<sup>1</sup> Sauf dispositions contraires dans la réglementation sectorielle pour les plans, les programmes et les projets, il peut être passé outre l'exigence d'un avis pour les demandes d'avis, visées dans le présent titre, si aucun avis n'est émis dans le délai fixé par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 9, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.3**
+
+[<sup>1</sup> Les procédures, visées dans le présent titre, ainsi que l'évaluation environnementale et la mise à disposition des informations environnementales pertinentes peuvent se dérouler entièrement ou partiellement par voie numérique conformément aux règles fixées par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 10, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.4**
+
+[<sup>1</sup> Pour un plan ou programme qui, conformément à l'article 4.3.2, relève du champ d'application du présent titre, le Gouvernement flamand peut déterminer la manière dont les dispositions relatives au screening ou à l'évaluation environnementale sont intégrées dans le processus décisionnel relatif au plan ou programme.
+
+Si un décret ou une décision du Gouvernement flamand ne spécifie pas de mode d'intégration, un plan ou programme relevant du champ d'application du présent titre, conformément à l'article 4.3.2, est soumis aux dispositions prévues par le présent titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 11, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.5**
+
+[<sup>1</sup> Pour un projet qui, conformément à l'article 4.3.3, relève du champ d'application du présent titre, le Gouvernement flamand peut déterminer la manière dont les dispositions relatives au screening ou à l'évaluation environnementale sont intégrées dans le processus décisionnel relatif au projet.
+
+Si un décret ou une décision du Gouvernement flamand ne spécifie pas de mode d'intégration, un projet relevant du champ d'application du présent titre, conformément à l'article 4.3.3, est soumis aux dispositions prévues par le présent titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 12, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 3. [<sup>1</sup> Incidences environnementales des actions d'autres pays ou régions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 13, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.6**
+
+[<sup>1</sup> Si une autorité compétente en Région flamande détermine qu'une action envisagée dans une autre partie à la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, signée à Espoo le 25 février 1991, un autre Etat membre de l'Union européenne ou une autre région ou l'autorité fédérale est susceptible d'avoir des incidences environnementales notables probables sur son territoire, ou si la Région flamande en est informée par les autorités compétentes d'une autre partie à la Convention susmentionnée, d'un autre Etat membre de l'Union européenne ou d'une autre région ou de l'autorité fédérale, cette autorité prend contact avec les autorités compétentes de l'Etat ou de la région concerné(e) ou de l'autorité fédérale pour faire savoir si elle souhaite participer à l'évaluation environnementale de l'action envisagée dans l'Etat ou la région concerné(e) ou l'autorité fédérale.
+
+Le Gouvernement flamand fixe la manière dont les organes consultatifs, qu'il désigne, et le public concerné en Région flamande sont informés de l'action envisagée dans un délai raisonnable, ont l'opportunité de se prononcer sur les incidences environnementales notables probables de l'action envisagée et sont tenus au courant des informations relatives à la décision sur l'action envisagée fournies par les autorités compétentes des Etats ou régions concernés ou de l'autorité fédérale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 14, 086; En vigueur : 01-12-2025&gt;
+
+### Chapitre 2. [<sup>1</sup> Objectif et caractéristiques de l'évaluation environnementale et relations entre les évaluations des incidences ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 15, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 1re. [<sup>1</sup> Objectif et caractéristiques de l'évaluation environnementale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 16, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.1**
+
+[<sup>1</sup> Afin d'assurer un niveau élevé de protection de l'environnement, l'évaluation environnementale vise, dans le cadre du processus décisionnel relatif à des actions susceptibles d'avoir des incidences environnementales notables, à réserver à l'intérêt environnemental et à la santé humaine une place équivalente aux intérêts sociaux, économiques et sociétaux autres.
+
+Afin de réaliser l'objectif visé à l'alinéa 1er, l'évaluation environnementale présente les caractéristiques essentielles suivantes :
+
+1° l'analyse et l'évaluation systématiques et scientifiquement étayées des conséquences notables probables pour l'homme et l'environnement d'une action envisagée et des alternatives à prendre raisonnablement en compte pour l'action en question ou des parties de celle-ci, ainsi que la description et l'évaluation des mesures possibles pour éviter, limiter, remédier ou, dans la mesure du possible, compenser de manière cohérente les conséquences de l'action envisagée ;
+
+2° l'évaluation de la qualité des informations rassemblées ;
+
+3° la consultation du public concerné et la fourniture d'informations sur les répercussions de l'évaluation environnementale sur le processus décisionnel relatif à l'action envisagée.
+
+Le Centre d'Expertise flamand R.I.E. et l'autorité compétente disposent ou ont accès à une expertise suffisante pour examiner le rapport sur les incidences environnementales et en évaluer la qualité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 17, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 2. [<sup>1</sup> Relations entre les évaluations des incidences]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 18, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.2**
+
+[<sup>1</sup> Pour les plans et programmes faisant partie d'une hiérarchie de plans et programmes, il sera tenu compte de l'évaluation environnementale réalisée à différents niveaux de la hiérarchie afin d'éviter le chevauchement des évaluations environnementales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 19, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.3**
+
+[<sup>1</sup> Afin d'éviter le chevauchement des évaluations environnementales, l'évaluation environnementale tiendra compte du stade du processus décisionnel plus vaste auquel l'action envisagée intervient et de la mesure dans laquelle certains aspects peuvent être mieux évalués à d'autres niveaux du processus décisionnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 20, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.4**
+
+[<sup>1</sup> Le cas échéant, les évaluations environnementales tiendront compte des éléments suivants :
+
+1° les informations pertinentes sur les incidences environnementales issues des rapports sur les incidences environnementales résultant des évaluations environnementales réalisées, en vertu du présent titre, à des stades antérieurs du processus décisionnel plus vaste ;
+
+2° les résultats et informations pertinentes disponibles sur les incidences environnementales obtenus à partir d'autres évaluations pertinentes réalisées en vertu de la législation, si et dans la mesure où ces informations permettent à l'autorité compétente de se prononcer en connaissance de cause sur les incidences environnementales notables de l'action envisagée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 21, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.5**
+
+[<sup>1</sup> Le chapitre 4, section 2, n'est pas obligatoirement appliqué si les incidences environnementales notables prévisibles d'une action envisagée ont déjà été examinées dans un rapport sur les incidences environnementales conforme aux dispositions du chapitre 4, section 2, et si l'autorité compétente est en mesure de se prononcer en connaissance de cause sur les incidences environnementales notables de l'action envisagée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 22, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.6**
+
+[<sup>1</sup> Lorsque différentes évaluations des incidences environnementales sont réalisées, en vertu du présent titre ou d'une autre réglementation régionale ou fédérale, le Centre d'Expertise flamand R.I.E. émettra, d'initiative ou à la demande de l'initiateur ou des initiateurs, un avis sur la possibilité d'adéquation ou d'intégration des différents rapports et, dans la mesure du possible, des différentes évaluations. L'objectif est d'assurer, dans la mesure du possible, l'exécution simultanée des différentes évaluations.
+
+Le Gouvernement flamand fixe les modalités concernant l'adéquation et l'intégration des évaluations et des rapports dans les cas visés au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 23, 086; En vigueur : 01-12-2025&gt;
+
+### Chapitre 3. [<sup>1</sup> Champ d'application et screening]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 24, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 1re. [<sup>1</sup> Champ d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 25, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.1**
+
+[<sup>1</sup> Les plans et programmes suivants ne nécessitent pas de rapport d'incidence sur l'environnement :
+
+1° les plans ou programmes destinés exclusivement à la défense nationale ou aux situations d'urgence ;
+
+2° les plans et programmes financiers ou budgétaires.
+
+Pour les projets ou les parties de projets ayant pour seul objet la défense, ou pour les projets ayant pour seul objet la réponse à des situations d'urgence à caractère civil, un rapport d'incidence sur l'environnement n'est pas requis si le Gouvernement flamand décide au cas par cas que l'application d'un rapport d'incidence sur l'environnement va à l'encontre de ces besoins.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 26, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.2**
+
+[<sup>1</sup> § 1er. Une évaluation environnementale sera réalisée pour les plans et programmes suivants :
+
+1° les plans ou programmes en cours de préparation pour l'agriculture, la sylviculture, la pêche, l'énergie, l'industrie, le transport, le développement régional, la gestion des déchets, la gestion de l'eau, les télécommunications, le tourisme et l'aménagement du territoire ou l'utilisation du sol et qui constituent le cadre pour l'octroi d'autorisations futures pour un projet tel que visé aux annexes I et II de l'arrêté du Gouvernement flamand du 10 décembre 2004 établissant les catégories de projets soumises à l'évaluation des incidences sur l'environnement ;
+
+2° les plans ou programmes pour lesquels, compte tenu de l'incidence possible sur les régions, une évaluation appropriée est requise en vertu de l'article 36ter, § 3, alinéa 1er, du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel.
+
+§ 2. Pour les plans ou programmes, visés au paragraphe 1er, qui déterminent l'utilisation de petites zones au niveau provincial ou communal, ou pour les modifications mineures apportées à ces plans ou programmes, une évaluation environnementale n'est requise que si le screening montre que le plan ou le programme peut avoir des incidences environnementales notables.
+
+Pour les plans ou programmes autres que les plans ou programmes, visés au paragraphe 1er, qui constituent le cadre pour l'octroi d'autorisations futures pour des projets, une évaluation environnementale est requise s'il s'avère sur la base du screening que le plan ou le programme peut avoir des incidences environnementales notables.
+
+§ 3. Si aucune évaluation environnementale n'est requise en vertu du paragraphe 1er ou 2, une autorité peut volontairement procéder à une évaluation environnementale lorsque les dispositions du chapitre 4 s'appliquent mutatis mutandis.
+
+Si un décret ou une décision du Gouvernement flamand prévoit un mode d'intégration, l'évaluation environnementale, visée à l'alinéa 1er, sera réalisée conformément à ces dispositions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 27, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.3**
+
+[<sup>1</sup> § 1er. Avant qu'une autorisation ne puisse être accordée, le rapport d'incidence sur l'environnement suivant sera réalisé pour les projets soumis à autorisation suivants :
+
+1° une évaluation environnementale : pour les catégories de projets que le Gouvernement flamand désigne comme des projets soumis de plein droit à une évaluation environnementale ;
+
+2° une évaluation environnementale ou un screening : pour les catégories de projets autres que les projets, visés au point 1°, que le Gouvernement flamand désigne sur la base des critères, visés à l'annexe I, jointe au présent décret.
+
+§ 2. [<sup>2</sup> Les projets suivants n'entrent pas dans le champ d'application du présent titre :
+
+1° le renouvellement pur et simple du permis, visé à l'article 70 du décret du 25 avril 2014 relatif au permis d'environnement ;
+
+2° la conversion, visée à l'article 390 du décret précité ;
+
+3° les projets pour lesquels des dispositions spécifiques s'appliquent dans le cadre de la réglementation européenne, visées au chapitre 10/1, section 2, du décret précité. Cette dérogation ne s'applique pas aux projets suivants :
+
+a) des projets ayant des incidences environnementales transfrontalières ou transrégionales potentiellement significatives ou si les autorités compétentes des états ou régions concernés en font la demande, en vertu de l'article 4.4.3, § 6, ou de l'article 4.4.7, § 4, du présent décret ;
+
+b) des projets susceptibles d'entraîner des incidences environnementales négatives imprévues significatives ;
+
+c) des projets situés en dehors des zones d'accélération des énergies renouvelables telles que visées à l'article 2.2.5, § 2/1, du Code flamand de l'Aménagement du Territoire]<sup>2</sup>.
+
+§ 3. L'initiateur d'un projet envisagé peut dans tous les cas effectuer une évaluation environnementale conformément au chapitre 4.
+
+Si un décret ou une décision du Gouvernement flamand prévoit un mode d'intégration, l'évaluation environnementale, visée à l'alinéa 1er, sera réalisée conformément à ces dispositions.
+
+§ 4. Dans les cas autres que ceux visés aux paragraphes 1er à 3, l'initiateur peut demander au Centre d'Expertise flamand R.I.E. d'émettre un avis sur la qualité d'un RIE du projet qu'il a élaboré.
+
+§ 5. Le Gouvernement flamand peut, à la demande motivée de l'initiateur, dispenser exceptionnellement un projet bien spécifique devant être soumis à une évaluation environnementale de l'obligation d'évaluation environnementale si l'application des dispositions relatives à l'évaluation environnementale va à l'encontre de l'objet du projet et si les objectifs du présent titre sont réalisés.
+
+Dans le cas visé à l'alinéa 1er, le Gouvernement flamand vérifie si aucune autre forme d'évaluation n'est appropriée et met à la disposition du public les informations rassemblées ainsi que les données relatives à la dispense et les raisons de la dispense.
+
+Avant que la décision d'autorisation ne soit prise, le Gouvernement flamand informe la Commission européenne des raisons de la dispense, visée à l'alinéa 1er, et lui fournit toutes les informations mises à la disposition de la population.
+
+Si le projet est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, les autorités compétentes en question seront informées des raisons de la dispense, visée à l'alinéa 1er, avant que la décision d'autorisation ne soit prise.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant la dispense et le contenu de la demande motivée, visés à l'alinéa 1er, ainsi que concernant la notification, visée à l'alinéa 4.
+
+§ 6. Un projet adopté par un décret spécifique peut être dispensé par le décret en question des dispositions relatives à la consultation publique sur le RIE du projet, telles que fixées au chapitre 4 du présent titre, si les objectifs, visés à l'article 4.2.1, sont réalisés.
+
+Si le projet est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, les autorités compétentes en question seront informées de la dispense, visée à l'alinéa 1er, avant que la décision d'autorisation ne soit prise.
+
+A compter du 16 mai 2025, le Centre d'Expertise flamand R.I.E. informera la Commission européenne tous les deux ans de chaque cas dans lequel la dispense, visée à l'alinéa 1er, a été accordée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 28, 086; En vigueur : 01-12-2025&gt;
+
+(2)&lt;DCFL 2026-03-06/10, art. 3, 088; En vigueur : 06-04-2026&gt;
+
+**Art. 4_3.3.DROIT_FUTUR.**
+
+[<sup>1</sup> § 1er. Avant qu'une autorisation ne puisse être accordée, le rapport d'incidence sur l'environnement suivant sera réalisé pour les projets soumis à autorisation suivants :
+
+1° une évaluation environnementale : pour les catégories de projets que le Gouvernement flamand désigne comme des projets soumis de plein droit à une évaluation environnementale ;
+
+2° une évaluation environnementale ou un screening : pour les catégories de projets autres que les projets, visés au point 1°, que le Gouvernement flamand désigne sur la base des critères, visés à l'annexe I, jointe au présent décret.
+
+§ 2. [<sup>3</sup> Les projets suivants n'entrent pas dans le champ d'application du présent titre :
+
+1° le renouvellement pur et simple du permis, visé à l'article 91 du décret du 25 avril 2014 relatif au permis d'environnement ;
+
+2° les projets pour lesquels des dispositions spécifiques s'appliquent dans le cadre de la réglementation européenne, visées au chapitre 10/1, section 2, du décret précité. Cette dérogation ne s'applique pas aux projets suivants :
+
+a) des projets ayant des incidences environnementales transfrontalières ou transrégionales potentiellement significatives ou si les autorités compétentes des états ou régions concernés en font la demande, en vertu de l'article 4.4.3, § 6, ou de l'article 4.4.7, § 4, du présent décret ;
+
+b) des projets susceptibles d'entraîner des incidences environnementales négatives imprévues significatives ;
+
+des projets situés en dehors des zones d'accélération des énergies renouvelables telles que visées à l'article 2.2.5, § 2/1, du Code flamand de l'Aménagement du Territoire]<sup>3</sup>.
+
+§ 3. L'initiateur d'un projet envisagé peut dans tous les cas effectuer une évaluation environnementale conformément au chapitre 4.
+
+Si un décret ou une décision du Gouvernement flamand prévoit un mode d'intégration, l'évaluation environnementale, visée à l'alinéa 1er, sera réalisée conformément à ces dispositions.
+
+§ 4. Dans les cas autres que ceux visés aux paragraphes 1er à 3, l'initiateur peut demander au Centre d'Expertise flamand R.I.E. d'émettre un avis sur la qualité d'un RIE du projet qu'il a élaboré.
+
+§ 5. Le Gouvernement flamand peut, à la demande motivée de l'initiateur, dispenser exceptionnellement un projet bien spécifique devant être soumis à une évaluation environnementale de l'obligation d'évaluation environnementale si l'application des dispositions relatives à l'évaluation environnementale va à l'encontre de l'objet du projet et si les objectifs du présent titre sont réalisés.
+
+Dans le cas visé à l'alinéa 1er, le Gouvernement flamand vérifie si aucune autre forme d'évaluation n'est appropriée et met à la disposition du public les informations rassemblées ainsi que les données relatives à la dispense et les raisons de la dispense.
+
+Avant que la décision d'autorisation ne soit prise, le Gouvernement flamand informe la Commission européenne des raisons de la dispense, visée à l'alinéa 1er, et lui fournit toutes les informations mises à la disposition de la population.
+
+Si le projet est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, les autorités compétentes en question seront informées des raisons de la dispense, visée à l'alinéa 1er, avant que la décision d'autorisation ne soit prise.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant la dispense et le contenu de la demande motivée, visés à l'alinéa 1er, ainsi que concernant la notification, visée à l'alinéa 4.
+
+§ 6. Un projet adopté par un décret spécifique peut être dispensé par le décret en question des dispositions relatives à la consultation publique sur le RIE du projet, telles que fixées au chapitre 4 du présent titre, si les objectifs, visés à l'article 4.2.1, sont réalisés.
+
+Si le projet est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, les autorités compétentes en question seront informées de la dispense, visée à l'alinéa 1er, avant que la décision d'autorisation ne soit prise.
+
+A compter du 16 mai 2025, le Centre d'Expertise flamand R.I.E. informera la Commission européenne tous les deux ans de chaque cas dans lequel la dispense, visée à l'alinéa 1er, a été accordée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 28, 086; En vigueur : 01-12-2025&gt;
+
+(2)&lt;DCFL 2026-03-06/10, art. 3, 088; En vigueur : 06-04-2026&gt;
+
+(3)&lt;DCFL 2026-03-06/10, art. 4, 088; En vigueur : indéterminée &gt;
+
+**Art. 4.3.4**
+
+[<sup>1</sup> Le Gouvernement flamand peut spécifier les critères, visés à l'annexe I, jointe au présent décret. Ces critères doivent permettre de déterminer si une action envisagée est susceptible ou non d'avoir des incidences environnementales notables.
+
+Toute définition ou remplacement des critères, visés à l'alinéa 1er, est notifié(e) à la Commission européenne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 29, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 2. [<sup>1</sup> Screening des plans, programmes et projets]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 30, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.5**
+
+[<sup>1</sup> § 1er. Pour les plans ou programmes, visés à l'article 4.3.2, § 2, l'initiateur vérifie, à l'aide des critères, visés à l'annexe I, jointe au présent décret, dans le cadre d'un screening si le plan ou programme envisagé est susceptible d'avoir des incidences environnementales notables. Le Gouvernement flamand fixe d'autres modalités concernant la forme et le contenu du screening précité.
+
+L'initiateur consulte les organes désignés par le Gouvernement flamand et le Centre d'Expertise flamand R.I.E. au sujet du screening, visé à l'alinéa 1er. Les autorités susmentionnées et le Centre d'Expertise flamand R.I.E. émettent leur avis de la manière et dans les délais fixés par le Gouvernement flamand.
+
+§ 2. Si aucune évaluation environnementale n'est réalisée pour un plan ou programme, visé à l'article 4.3.2, § 2, l'autorité compétente motivera, à l'aide des critères, visés à l'annexe I, jointe au présent décret, les motifs pour lesquels le plan ou programme envisagé est susceptible d'avoir des incidences environnementales notables. A cet égard, l'autorité compétente tient compte du screening et des avis émis, visés au paragraphe 1er.
+
+Le Gouvernement flamand fixe d'autres modalités concernant le mode de publication du screening et de la motivation, visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 31, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.6**
+
+[<sup>1</sup> § 1er. Pour les projets que le Gouvernement flamand désigne conformément à l'article 4.3.3, § 1er, 2°, l'initiateur vérifie, à l'aide des critères, visés à l'annexe I, jointe au présent décret, dans le cadre d'un screening si le projet envisagé est susceptible d'avoir des incidences environnementales notables.
+
+§ 2. L'autorité compétente décide dès que possible et au plus tard dans un délai de nonante jours à compter de la date à laquelle l'initiateur a soumis le screening à l'autorité compétente si le projet doit être soumis à une évaluation environnementale conformément au chapitre 4.
+
+Si l'autorité compétente décide que le projet doit être soumis à une évaluation environnementale conformément au chapitre 4, l'autorité compétente mentionne les principales raisons qui motivent sa décision. Dans cette motivation, il est fait référence aux critères pertinents, visés à l'annexe I, jointe au présent décret.
+
+Si l'autorité compétente décide que le projet ne doit pas être soumis à une évaluation environnementale conformément au chapitre 4, l'autorité compétente mentionne les principales raisons qui motivent sa décision. Dans cette motivation, il est fait référence aux critères pertinents, visés à l'annexe I, jointe au présent décret, et, si l'initiateur les a proposées, les mesures prévues pour éviter ou prévenir ce qui aurait autrement pu avoir des incidences environnementales négatives notables.
+
+Si l'autorité compétente est également l'initiateur, elle assure en tout état de cause une séparation appropriée des fonctions conflictuelles dans l'organisation des compétences administratives, de sorte que la tâche, visée à l'alinéa 1er, puisse être accomplie de manière objective.
+
+§ 3. Si la vérification, visée au paragraphe 1er, ou la décision de l'autorité compétente, visée au paragraphe 2, montre que le projet envisagé est susceptible d'avoir des incidences environnementales notables, l'initiateur soumet le projet envisagé à une évaluation environnementale conformément au chapitre 4.
+
+§ 4. Le screening, visé au paragraphe 1er, comprend au moins les éléments suivants :
+
+1° une description et une clarification du projet envisagé, en ce compris en particulier :
+
+a) une description des caractéristiques physiques de l'ensemble du projet et, le cas échéant, des travaux de démolition ;
+
+b) une description de la localisation du projet, en accordant une attention particulière à la sensibilité environnementale des zones susceptibles d'être affectées par le projet ;
+
+2° une description des incidences environnementales notables probables du projet envisagé ;
+
+3° si des informations sur ces incidences sont disponibles : une description des incidences environnementales notables probable du projet envisagé résultant :
+
+a) des résidus et émissions attendus ainsi que de la production de déchets, le cas échéant ;
+
+b) de l'utilisation des ressources naturelles, en particulier le sol, les terres, l'eau et la biodiversité ;
+
+4° le cas échéant, une description des caractéristiques du projet envisagé ou des mesures prévues pour éviter ou prévenir ce qui aurait autrement pu avoir des incidences environnementales notables.
+
+Lors de l'élaboration du screening, visé au paragraphe 1er, il est tenu compte, le cas échéant, des critères, visés à l'annexe I, jointe au présent décret, ainsi que, le cas échéant, des résultats disponibles d'autres évaluations pertinentes des incidences environnementales réalisées en application du présent titre ou en application d'une autre réglementation.
+
+Si l'initiateur décide que le projet ne doit pas être soumis à une évaluation environnementale conformément au chapitre 4, il mentionne les principales raisons qui motivent sa décision. Dans cette motivation, il est fait référence aux critères pertinents, visés à l'annexe I, jointe au présent décret.
+
+Le Gouvernement flamand fixe la forme et le contenu du screening, visé au paragraphe 1er.
+
+§ 5. La décision, visée au paragraphe 2, est publiée selon les modalités prévues par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 32, 086; En vigueur : 01-12-2025&gt;
+
+### Chapitre 4. [<sup>1</sup> Evaluation environnementale des plans, programmes et projets]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 33, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 1ere. [<sup>1</sup> Publicité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 34, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.1**
+
+[<sup>1</sup> Les obligations de publicité active, visées dans le présent chapitre , sont sans préjudice de l'application des articles II.3 et II.4 du décret administratif du 7 décembre 2018.
+
+A chaque étape de l'évaluation environnementale, visée aux section s 2 à 5, l'initiateur peut, conformément aux modalités fixées par le Gouvernement flamand, demander la soustraction intégrale ou partielle de certaines informations environnementales à la publicité. Cette demande sera traitée par l'autorité publique concernée conformément à l'article II.36 du décret administratif du 7 décembre 2018.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 35, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 2. [<sup>1</sup> Notification et scoping]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 36, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.2**
+
+[<sup>1</sup> § 1er. L'initiateur notifie au Centre d'Expertise flamand R.I.E. son intention d'élaborer un RIE de plan pour un plan ou programme envisagé.
+
+Le Centre d'Expertise flamand R.I.E. publie la notification, visée à l'alinéa 1er.
+
+Le Gouvernement flamand détermine le contenu de la notification, visée à l'alinéa 1er, et fixe les modalités de cette notification et de sa publication, ainsi que le délai pour ce faire.
+
+§ 2. L'initiateur demande un avis de cadrage sur une proposition de cadrage au Centre d'Expertise flamand R.I.E. et aux organes consultatifs désignés par le Gouvernement flamand.
+
+Le Gouvernement flamand détermine le contenu de la proposition de cadrage et fixe d'autres modalités concernant les modalités et les délais dans lesquels le Centre d'Expertise flamand R.I.E. et les organes consultatifs doivent émettre leur avis de cadrage, visé à l'alinéa 1er.
+
+§ 3. L'initiateur peut organiser la participation au scoping.
+
+§ 4. L'initiateur peut demander au Centre d'Expertise flamand R.I.E. d'émettre un avis de cadrage intégré sur la proposition de cadrage. Dans ce cas, la demande d'avis au centre d'expertise flamand, visée au paragraphe 2, n'est pas obligatoire.
+
+Le Centre d'Expertise flamand R.I.E. tient compte des avis, visés au paragraphe 2, dans le cadre de l'avis de cadrage intégré, visé à l'alinéa 1er.
+
+Le Gouvernement flamand fixe d'autres modalités concernant la façon et les délais dans lesquels le Centre d'Expertise flamand R.I.E. émet l'avis de cadrage intégré, visé à l'alinéa 1er, et le met à la disposition des organes consultatifs consultés et du public concerné.
+
+§ 5. Si la notification, visée au paragraphe 1er, ou l'avis, visé au paragraphe 2 ou 4, montre que le plan ou programme est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, le Centre d'Expertise flamand R.I.E. communiquera les informations fournies par l'initiateur aux autorités compétentes en question, ainsi que le délai dans lequel l'autorité compétente peut faire savoir si elle souhaite participer à l'évaluation environnementale du plan ou programme envisagé. Le Gouvernement flamand fixe le délai précité.
+
+La communication, visée à l'alinéa 1er, a lieu au plus tard au moment où la notification est publiée conformément au paragraphe 1er, alinéa 2, ou au moment où le Centre d'Expertise flamand R.I.E. émet l'avis de cadrage.
+
+Le Gouvernement flamand fixe d'autres modalités concernant la façon dont les informations, visées à l'alinéa 1er, sont communiquées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 37, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.3**
+
+[<sup>1</sup> § 1er. L'initiateur notifie au Centre d'Expertise flamand R.I.E. son intention d'élaborer un RIE du projet pour un projet envisagé.
+
+Le Centre d'Expertise flamand R.I.E. publie la notification, visée à l'alinéa 1er.
+
+Le Gouvernement flamand fixe d'autres modalités concernant les informations à inclure dans la notification, visée à l'alinéa 1er, la manière dont cette notification doit être effectuée et publiée, ainsi que le délai pour ce faire.
+
+§ 2. L'initiateur peut consulter le Centre d'Expertise flamand R.I.E. et les organes consultatifs désignés par le Gouvernement flamand à propos d'une proposition de cadrage. La proposition de cadrage contient au moins :
+
+1° des informations sur les caractéristiques spécifiques du projet, en ce compris sa localisation et sa capacité technique ;
+
+2° des informations sur les incidences environnementales notables prévisibles.
+
+Le Gouvernement flamand fixe d'autres modalités concernant les informations complémentaires à inclure dans la proposition de cadrage et les modalités et les délais dans lesquels le Centre d'Expertise flamand R.I.E. et les organes consultatifs doivent émettre leur avis.
+
+§ 3. L'initiateur peut organiser la participation au scoping.
+
+§ 4. A la demande de l'initiateur, le Centre d'Expertise flamand R.I.E. émet un avis de cadrage intégré sur la proposition de cadrage.
+
+Le Centre d'Expertise flamand R.I.E. tient compte des avis des organes consultatifs, visés au paragraphe 2, dans le cadre de l'avis de cadrage intégré, visé à l'alinéa 1er.
+
+Le Gouvernement flamand fixe la façon et les délais dans lesquels le Centre d'Expertise flamand R.I.E. émet l'avis de cadrage intégré, visé à l'alinéa 1er, et le met à la disposition des organes consultatifs consultés et du public concerné.
+
+§ 5. Le Gouvernement flamand peut déterminer quels projets doivent être soumis à un avis de cadrage intégré. Dans ce cas, le Centre d'Expertise flamand R.I.E. fournira un avis de cadrage intégré conformément au paragraphe 4, alinéas 2 et 3.
+
+§ 6. Si la notification, visée au paragraphe 1er, ou, par la suite, l'avis, visé au paragraphe 2, 4 ou 5, montre que le projet est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, le Centre d'Expertise flamand R.I.E. communiquera les informations fournies par l'initiateur aux autorités compétentes en question, ainsi que le délai dans lequel l'autorité compétente peut faire savoir si elle souhaite participer à l'évaluation environnementale du projet. Le Gouvernement flamand fixe le délai précité.
+
+La communication, visée à l'alinéa 1er, a lieu au plus tard au moment où la notification est publiée conformément au paragraphe 1er, alinéa 2, ou au moment où le Centre d'Expertise flamand R.I.E. émet l'avis de cadrage.
+
+Le Gouvernement flamand fixe d'autres modalités concernant la façon dont les informations, visées à l'alinéa 1er, sont communiquées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 38, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 3. [<sup>1</sup> Contenu du RIE]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 39, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.4**
+
+[<sup>1</sup> Le RIE de plan comprend au moins toutes les données suivantes :
+
+1° un résumé du contenu, une description des objectifs principaux du plan ou programme et les liens avec d'autres plans et programmes pertinents ;
+
+2° des informations sur le processus décisionnel ;
+
+3° les aspects pertinents de la situation environnementale existante ainsi que son évolution probable si le plan ou programme n'est pas mis en oeuvre ;
+
+4° les caractéristiques environnementales des zones susceptibles d'être touchées de manière notable ;
+
+5° tous les problèmes environnementaux existants liés au plan ou programme, en particulier ceux qui concernent les zones revêtant une importance particulière pour l'environnement, telles que les zones de protection spéciale visées dans le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel ;
+
+6° les objectifs de la protection de l'environnement pertinents et la manière dont ces objectifs et les considérations environnementales sont pris en compte au cours de l'élaboration du plan ou programme ;
+
+7° le scoping motivé, pour lequel il est tenu compte des dispositions du chapitre 2, section 2, du présent titre ;
+
+8° une description et une évaluation étayée, conformément au scoping, des incidences environnementales notables probables du plan ou programme et des alternatives raisonnables examinées sur, selon le cas, la santé et la sécurité humaines, l'aménagement du territoire, la biodiversité, la faune et la flore, les réserves d'énergie et de matières premières, le sol, l'eau, l'atmosphère, les facteurs climatiques, le bruit, la lumière, les biens matériels, le patrimoine culturel, en ce compris le patrimoine architectural et archéologique, le paysage, les réserves naturelles, la mobilité et le lien entre les facteurs énumérés. La description des incidences environnementales comprend les effets directs et, le cas échéant, les effets indirects, secondaires, cumulatifs et synergiques, permanents et temporaires, positifs et négatifs, à court, à moyen et à long terme, du plan ou programme. Le cas échéant, compte tenu du contenu et du niveau de détail du plan ou programme, les incidences environnementales notables sont notamment évaluées compte tenu des normes de qualité environnementale établies conformément au titre II, chapitre II, du présent décret ;
+
+9° les mesures pour éviter, limiter et, dans la mesure du possible, compenser toute incidence négative notable de la mise en oeuvre du plan ou programme sur l'environnement ;
+
+10° une déclaration résumant les raisons pour lesquelles, compte tenu de l'objectif et du champ d'application géographique du plan ou programme, les alternatives raisonnables envisagées ont été sélectionnées et une description de la manière dont l'évaluation a été effectuée, en ce compris les difficultés rencontrées, telles que les déficiences techniques ou le manque de savoir-faire, lors de la collecte des informations requises ;
+
+11° une description des mesures de suivi ;
+
+12° un résumé non technique des données, visées aux points 1° à 10° ;
+
+13° les informations utiles sur les incidences environnementales des plans et programmes obtenues à d'autres niveaux du processus décisionnel ou en vertu d'autres législations et qui peuvent être utilisées pour fournir les données, visées aux points 1° à 10°.
+
+Le RIE de plan contient les informations qui peuvent être raisonnablement exigées pour parvenir à une déclaration environnementale pour le plan ou programme envisagé. Dans le RIE de plan, il est tenu compte :
+
+1° des connaissances et méthodes d'évaluation existantes ;
+
+2° du contenu et du niveau de détail du plan ou programme.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant le contenu du RIE de plan.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 40, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.5**
+
+[<sup>1</sup> § 1er. Lors de l'évaluation environnementale d'un projet, les incidences notables directes et indirectes d'un projet sont identifiées, décrites et évaluées de manière appropriée, au cas par cas, en fonction des facteurs suivants :
+
+1° la population et la santé humaine ;
+
+2° la biodiversité, en accordant une attention particulière aux espèces et habitats protégés, visés aux annexes I à IV du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel ;
+
+3° les terres, le sol, l'eau, l'air et le climat ;
+
+4° les biens matériels, le patrimoine culturel et le paysage ;
+
+5° le lien entre les facteurs, visés aux points 1° à 4°.
+
+Les incidences sur les facteurs, visés à l'alinéa 1er, comprennent les incidences prévues qui découlent de la sensibilité du projet aux risques d'accidents majeurs et/ou de catastrophes en rapport avec le projet en question.
+
+§ 2. Le RIE du projet comprend au moins toutes les données suivantes :
+
+1° une description du projet contenant des informations sur la localisation, la conception, l'ampleur et d'autres caractéristiques pertinentes du projet ;
+
+2° le scoping motivé, pour lequel il est tenu compte des dispositions du chapitre 2, section 2, du présent titre ;
+
+3° une description des incidences environnementales notables probables du projet ;
+
+4° une description des caractéristiques du projet ou des mesures prévues pour éviter, prévenir ou limiter et, dans la mesure du possible, compenser les incidences environnementales négatives notables probables ;
+
+5° une description des alternatives raisonnables examinées par l'initiateur et qui, compte tenu notamment de l'objet et du champ d'application géographique du projet, sont pertinentes pour le projet et ses caractéristiques spécifiques, en précisant les principales raisons de l'option choisie, compte tenu des incidences environnementales du projet ;
+
+6° un résumé non technique des données, visées aux points 1° à 5° ;
+
+7° toute information complémentaire, visée à l'annexe II, jointe au présent décret, qui est pertinente pour les caractéristiques spécifiques d'un projet ou type de projet particulier et pour les aspects environnementaux susceptibles d'être affectés par ce projet ou type de projet.
+
+Le RIE du projet contient les informations qui peuvent être raisonnablement exigées pour parvenir à une conclusion motivée sur les incidences environnementales notables du projet envisagé. Dans le RIE du projet, il est tenu compte :
+
+1° des connaissances et méthodes d'évaluation existantes ;
+
+2° du contenu et du niveau de détail du projet.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant le contenu du RIE du projet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 41, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 4. [<sup>1</sup> Consultation sur le RIE]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 42, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.6**
+
+[<sup>1</sup> § 1er. L'autorité compétente organise une enquête publique sur le projet de plan ou programme ainsi que sur le RIE de plan, en donnant au public concerné l'occasion de formuler des remarques et avis sur le projet de plan ou programme et sur le RIE de plan. L'enquête publique dure au moins soixante jours.
+
+Si l'obligation d'organiser une enquête publique sur le projet de plan ou programme s'applique déjà en application d'une réglementation autre que le présent titre, les règles de procédure et les délais de cette réglementation s'appliquent à l'organisation de l'enquête publique. Si, conformément à la législation en question, l'enquête publique ne s'adresse pas au public concerné, elle sera étendue à cette fin.
+
+L'enquête publique a lieu en tout état de cause avant que le plan ou programme ne soit adopté ou soumis à la procédure législative.
+
+Le Gouvernement flamand fixe d'autres modalités concernant l'enquête publique.
+
+§ 2. L'autorité compétente met le projet de plan ou programme, ainsi que le RIE du plan, à la disposition du Centre d'Expertise flamand R.I.E. et des organes désignés par le Gouvernement flamand, pour avis.
+
+Le Centre d'Expertise flamand R.I.E. émet un avis sur la qualité du RIE du plan, en vérifiant au moins son exhaustivité compte tenu des données requises, visées à l'article 4.4.4, et en le confrontant à son avis de cadrage ou, le cas échéant, à l'avis de scoping intégré, visé à l'article 4.4.2, § 4.
+
+Le Gouvernement flamand détermine la manière dont la demande d'avis est introduite, ainsi que les modalités et les délais dans lesquels le Centre d'Expertise flamand R.I.E. et les organes consultés communiquent leurs avis.
+
+§ 3. S'il s'avère que le plan ou programme est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, l'autorité compétente communiquera le projet de plan ou programme et le RIE de plan aux autorités compétentes en question, pour avis.
+
+Le Gouvernement flamand fixe d'autres modalités afin de convenir de règles détaillées et d'un délai raisonnable avec les autorités compétentes pour garantir que les organes consultatifs et le public concerné dans l'Etat ou la région concerné(e) soient informés dans un délai raisonnable et aient l'occasion de faire connaître leur avis, et détermine les modalités de concertation à ce sujet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 43, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.7**
+
+[<sup>1</sup> § 1er. L'initiateur remet le RIE du projet à l'autorité compétente pour prendre une décision sur la demande d'autorisation du projet en première instance administrative. Le RIE du projet est soumis à l'enquête publique prévue dans la procédure d'autorisation en question afin que le public concerné puisse formuler des remarques et avis sur le RIE du projet. L'enquête publique dure au moins trente jours.
+
+Si la réglementation de la procédure d'autorisation en question ne prévoit pas l'organisation d'une enquête publique, l'autorité compétente organisera une enquête publique qui donne au public concerné l'occasion de formuler des remarques et avis sur la demande d'autorisation et le RIE du projet. L'enquête publique dure au moins trente jours.
+
+Le Gouvernement flamand fixe les modalités de l'enquête publique.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant la collaboration et l'échange d'informations du Centre d'Expertise flamand R.I.E. avec les administrations impliquées dans la procédure d'autorisation.
+
+§ 2. L'autorité compétente met la demande d'autorisation et le RIE du projet à la disposition des organes désignés par le Gouvernement flamand, pour avis.
+
+Le Gouvernement flamand détermine la manière dont la demande d'avis, visée à l'alinéa 1er, est introduite, ainsi que les modalités et les délais dans lesquels les organes consultés communiquent les avis précités.
+
+§ 3. L'autorité compétente met le RIE du projet à la disposition du Centre d'Expertise flamand R.I.E.
+
+Après clôture de l'enquête publique de la procédure d'autorisation, le Centre d'Expertise flamand R.I.E. confronte le RIE du projet :
+
+1° aux données requises, visées à l'article 4.4.5, § 2 ;
+
+2° le cas échéant, à son avis de cadrage ou à l'avis de cadrage intégré, visé à l'article 4.4.3, §§ 4 et 5 ;
+
+3° aux remarques et avis, visés aux paragraphes 1er et 2 ;
+
+4° le cas échéant, au résultat de la consultation transfrontalière ou transré-gionale, visée au paragraphe 4 du présent article et à l'article 4.4.3, § 6.
+
+Outre les avis visés au paragraphe 2, le Centre d'Expertise flamand R.I.E. peut également recueillir l'avis de tout service, institution ou organisation développant des activités dans le domaine de l'énergie, de l'environnement, de la politique de l'eau, de la rénovation rurale, de la conservation de la nature, de l'aménagement du territoire, de la sécurité ou de la mobilité, qu'il juge utile pour l'évaluation, visée à l'alinéa 2.
+
+Le résultat de l'évaluation, visée à l'alinéa 2, débouche sur la décision d'approbation ou de rejet du RIE du projet.
+
+Le Gouvernement flamand détermine la manière dont le RIE du projet est mis à disposition, ainsi que les modalités et les délais dans lesquels le Centre d'Expertise flamand R.I.E. communique sa décision d'approbation ou de rejet.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant la décision d'approbation ou de rejet du RIE du projet et sa publication.
+
+§ 4. S'il s'avère que le projet est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, l'autorité compétente communiquera toutes les informations suivantes aux autorités compétentes des états ou régions concernés :
+
+1° une description du projet contenant toutes les informations disponibles sur ses incidences transfrontalières probables ;
+
+2° le RIE du projet ;
+
+3° des informations sur la nature de la décision qui peut être prise.
+
+La communication, visée à l'alinéa 1er, a lieu dès que possible et au plus tard au début de l'enquête publique. La communication susmentionnée permet aux organes consultatifs pertinents et au public concerné dans les Etats ou régions concernés d'être informés dans un délai raisonnable et d'avoir l'occasion de faire connaître leurs avis et remarques.
+
+Le Gouvernement flamand détermine la manière dont les informations, visées à l'alinéa 1er, sont communiquées, les modalités et les délais dans lesquels les remarques et avis, visés à l'alinéa 2, sont formulés, ainsi que les modalités de concertation à ce sujet.
+
+§ 5. L'autorité compétente met à la disposition du public concerné les avis, visés au paragraphe 2, le RIE du projet, la décision d'approbation ou de rejet du RIE du projet, visée au paragraphe 3, alinéa 4, et, le cas échéant, l'avis de cadrage intégré, visé à l'article 4.4.3, § 4.
+
+Le Gouvernement flamand détermine les modalités et les délais dans lesquels les informations, visées à l'alinéa 1er, sont mises à disposition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 44, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4_4.7.DROIT_FUTUR**
+
+[<sup>1</sup> § 1er. L'initiateur remet le RIE du projet à l'autorité compétente pour prendre une décision sur la demande d'autorisation du projet en première instance administrative. Le RIE du projet est soumis à l'enquête publique prévue dans la procédure d'autorisation en question afin que le public concerné puisse formuler des remarques et avis sur le RIE du projet. L'enquête publique dure au moins trente jours.
+
+Si la réglementation de la procédure d'autorisation en question ne prévoit pas l'organisation d'une enquête publique, l'autorité compétente organisera une enquête publique qui donne au public concerné l'occasion de formuler des remarques et avis sur la demande d'autorisation et le RIE du projet. L'enquête publique dure au moins trente jours.
+
+Le Gouvernement flamand fixe les modalités de l'enquête publique.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant la collaboration et l'échange d'informations du Centre d'Expertise flamand R.I.E. avec les administrations impliquées dans la procédure d'autorisation.
+
+§ 2. L'autorité compétente met la demande d'autorisation et le RIE du projet à la disposition du Centre d'Expertise flamand R.I.E. et des organes désignés par le Gouvernement flamand, pour avis.
+
+Le Centre d'Expertise flamand R.I.E. émet un avis sur la qualité du RIE du projet, en vérifiant au moins son exhaustivité compte tenu des données requises, visées à l'article 4.4.5, § 2, et en le confrontant, le cas échéant, à son avis de cadrage ou à l'avis de cadrage intégré, visé à l'article 4.4.3, §§ 4 et 5.
+
+Le Gouvernement flamand détermine la manière dont la demande d'avis est introduite, ainsi que les modalités et les délais dans lesquels le Centre d'Expertise flamand R.I.E. et les organes consultés communiquent leurs avis.
+
+§ 3. S'il s'avère que le projet est susceptible d'avoir des incidences environnementales transfrontalières ou transrégionales notables, ou si les autorités compétentes des Etats ou régions concernés en font la demande, l'autorité compétente communiquera toutes les informations suivantes aux autorités compétentes des états ou régions concernés :
+
+1° une description du projet contenant toutes les informations disponibles sur ses incidences transfrontalières probables ;
+
+2° le RIE du projet ;
+
+3° des informations sur la nature de la décision qui peut être prise.
+
+La communication, visée à l'alinéa 1er, a lieu dès que possible et au plus tard au début de l'enquête publique. La communication permet aux organes consultatifs pertinents et au public concerné dans les Etats ou régions concernés d'être informés dans un délai raisonnable et d'avoir l'occasion de faire connaître leurs avis et remarques.
+
+Le Gouvernement flamand détermine la manière dont les informations, visées à l'alinéa 1er, sont communiquées, les modalités et les délais dans lesquels les remarques et avis, visés à l'alinéa 2, sont émis, ainsi que les modalités de concertation à ce sujet.
+
+§ 4. L'autorité compétente met à la disposition du public concerné les avis, visés au paragraphe 2, le RIE du projet, l'avis relatif à la qualité, visé au paragraphe 2, alinéa 2, et, le cas échéant, l'avis de cadrage intégré, visé à l'article 4.4.3, § 4.
+
+Le Gouvernement flamand détermine les modalités et les délais dans lesquels les informations, visées à l'alinéa 1er, sont mises à disposition.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/53, art. 1, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 5. [<sup>1</sup> Processus décisionnel]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 46, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.8**
+
+[<sup>1</sup> § 1er. Lors de sa décision relative au plan ou programme envisagé et, le cas échéant, lors de son élaboration, l'autorité compétente tient compte de tous les éléments suivants :
+
+1° le RIE de plan ;
+
+2° les remarques et avis, ainsi que le résultat de la consultation transfrontalière ou transrégionale, visée à l'article 4.4.2, §§ 2 à 5, et à l'article 4.4.6.
+
+L'autorité compétente motive sa décision notamment en établissant la déclaration, visée à l'article 4.1.1, 6°, e), et, le cas échéant, en ce qui concerne l'actualité du RIE.
+
+§ 2. Lors de l'adoption d'un plan ou programme, l'autorité compétente informe le public, les organes consultés conformément à l'article 4.4.6, § 2, et, le cas échéant, les autorités compétentes des Etats ou régions concernés en application de l'article 4.4.6, § 3, de tous les éléments suivants :
+
+1° le plan ou programme tel qu'il a été adopté ;
+
+2° la déclaration, visée à l'article 4.1.1, 6°, e) ;
+
+3° les mesures de suivi décidées en application de l'article 4.5.4.
+
+Le Gouvernement flamand détermine les modalités et les délais dans lesquels la notification, visée à l'alinéa 1er, s'effectue.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 47, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.9**
+
+[<sup>1</sup> § 1er. Lors de sa décision relative au projet envisagé et, le cas échéant, lors de son élaboration, l'autorité compétente tient compte de tous les éléments suivants :
+
+1° le RIE du projet ;
+
+2° les remarques et avis, la décision relative à l'approbation ou au rejet du RIE du projet et le résultat de la consultation transfrontalière ou transrégionale, visée à l'article 4.4.3, §§ 2 à 6, et à l'article 4.4.7, §§ 1er à 4.
+
+L'autorité compétente ne peut accorder l'autorisation que si le RIE du projet est approuvé.
+
+L'autorité compétente motive sa décision relative au projet envisagé notamment par les points suivants :
+
+1° le contenu de la décision d'autorisation et les éventuelles conditions d'autorisation y liées ;
+
+2° le choix de l'action envisagée, d'une alternative particulière ou d'alternatives partielles particulières ;
+
+3° l'acceptabilité des conséquences prévisibles ou probables de l'alternative choisie pour l'homme ou l'environnement ;
+
+4° la conclusion motivée sur les incidences notables de l'action sur l'environnement ;
+
+5° le cas échéant, une description des principales mesures proposées dans le RIE du projet pour éviter, prévenir ou limiter et, dans la mesure du possible, compenser les incidences environnementales négatives notables ;
+
+6° le cas échéant, les mesures de suivi ;
+
+7° après avoir étudié les remarques et les avis du public concerné, les principales raisons et considérations sur lesquelles la décision est fondée, en ce compris les informations relatives à la consultation publique, visée à l'alinéa 1er, 2°, et le RIE du projet ;
+
+8° le cas échéant, l'actualité du RIE du projet.
+
+§ 2. Une fois qu'une décision a été prise sur la demande d'autorisation, l'autorité compétente en informe le public concerné conformément aux dispositions de la procédure d'autorisation en question. L'autorité compétente informe le public, les organes consultés conformément à l'article 4.4.7, § 2, et, le cas échéant, les autorités compétentes des Etats ou régions concernés en application de l'article 4.4.7, § 4, dans le délai fixé par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 48, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4_4.9.DROIT_FUTUR**
+
+[<sup>1</sup> § 1er. Lors de sa décision relative au projet envisagé et, le cas échéant, lors de son élaboration, l'autorité compétente tient compte de tous les éléments suivants :
+
+1° le RIE du projet ;
+
+2° [<sup>2</sup> les remarques et avis, ainsi que le résultat de la consultation transfrontalière ou transrégionale, visée à l'article 4.4.3, §§ 2 à 6, et à l'article 4.4.7, §§ 1er à 3]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+L'autorité compétente motive sa décision relative au projet envisagé notamment par les points suivants :
+
+1° le contenu de la décision d'autorisation et les éventuelles conditions d'autorisation y liées ;
+
+2° le choix de l'action envisagée, d'une alternative particulière ou d'alternatives partielles particulières ;
+
+3° l'acceptabilité des conséquences prévisibles ou probables de l'alternative choisie pour l'homme ou l'environnement ;
+
+4° la conclusion motivée sur les incidences notables de l'action sur l'environnement ;
+
+5° le cas échéant, une description des principales mesures proposées dans le RIE du projet pour éviter, prévenir ou limiter et, dans la mesure du possible, compenser les incidences environnementales négatives notables ;
+
+6° le cas échéant, les mesures de suivi ;
+
+7° après avoir étudié les remarques et les avis du public concerné, les principales raisons et considérations sur lesquelles la décision est fondée, en ce compris les informations relatives à la consultation publique, visée à l'alinéa 1er, 2°, et le RIE du projet ;
+
+8° le cas échéant, l'actualité du RIE du projet.
+
+§ 2. Une fois qu'une décision a été prise sur la demande d'autorisation, l'autorité compétente en informe le public concerné conformément aux dispositions de la procédure d'autorisation en question. L'autorité compétente informe le public, les organes consultés conformément à l'article 4.4.7, § 2, et, le cas échéant, les autorités compétentes des Etats ou régions concernés en application de l'article 4.4.7, § 4, dans le délai fixé par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 48, 086; En vigueur : 01-12-2025&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 49, 086; En vigueur : indéterminée &gt;
+
+### Chapitre 5. [<sup>1</sup> Gestion de la qualité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 50, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 1re. [<sup>1</sup> Experts RIE et coordinateurs RIE]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 51, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.1**
+
+[<sup>1</sup> § 1er. Le rapport sur les incidences environnementales est établi sous la responsabilité et aux frais de l'initiateur. A cette fin, l'initiateur fait appel à un coordinateur RIE agréé, qui réunit une équipe d'experts. Cette équipe est composée d'experts RIE agréés lorsqu'il s'agit d'un RIE du projet.
+
+§ 2. L'initiateur met toutes les informations pertinentes à la disposition du coordinateur RIE et lui apporte toute sa collaboration afin qu'il puisse dûment s'acquitter de sa mission.
+
+§ 3. Le coordinateur RIE agréé et les experts ne peuvent avoir aucun intérêt personnel à la réalisation du plan, programme ou projet envisagé ou de ses alternatives. Ils exécutent sa mission en toute indépendance.
+
+L'indépendance du coordinateur RIE agréé et des experts est évaluée au niveau de la personne physique individuelle.
+
+Si le coordinateur RIE agréé et les experts participent à l'élaboration d'un RIE de plan pour un plan ou programme, l'exigence d'indépendance du coordinateur RIE agréé et des experts ne les empêche pas de procéder ultérieurement à l'évaluation environnementale d'un projet pour lequel le plan ou programme précédemment adopté constitue le cadre pour l'octroi d'autorisations.
+
+L'exigence d'indépendance du coordinateur RIE agréé et des experts n'empêche pas non plus un coordinateur RIE ou un expert de travailler pour l'autorité qui élabore le plan ou programme, à condition qu'une séparation fonctionnelle soit assurée au niveau de l'administration entre, d'une part, le coordinateur RIE et les experts et, d'autre part, les personnes physiques chargées de l'élaboration du plan ou programme.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 52, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.2**
+
+[<sup>1</sup> Les dispositions du titre V, chapitre VI, s'appliquent à l'agrément des coordinateurs et des experts.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 53, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 2. [<sup>1</sup> Centre d'Expertise flamand R.I.E.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 52, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.3**
+
+[<sup>1</sup> § 1er. Le Centre d'Expertise flamand R.I.E. collecte, gère et met à jour les arguments et informations scientifiques nécessaires pour assurer la qualité et l'uniformité de l'évaluation environnementale, et il met également ces arguments et informations scientifiques à la disposition :
+
+1° du public ;
+
+2° des initiateurs ;
+
+3° des coordinateurs RIE agréés ;
+
+4° des experts ;
+
+5° des autorités compétentes.
+
+Le Centre d'Expertise flamand R.I.E. facilite la collaboration entre les experts RIE agréés, les coordinateurs RIE agréés et les organes consultatifs afin d'entretenir un réseau de connaissances sur les rapports d'incidences sur l'environnement.
+
+Le Centre d'Expertise flamand R.I.E. accomplit ses tâches de manière objective et indépendante et veille à ne pas se trouver dans une situation donnant lieu à un conflit d'intérêts.
+
+§ 2. A la demande du Centre d'Expertise flamand R.I.E., l'initiateur fournit au Centre d'Expertise flamand R.I.E. les données utilisées pour élaborer le rapport sur les incidences environnementales. Le Gouvernement flamand fixe les conditions pour la fourniture précitée de données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 55, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 3. [<sup>1</sup> Suivi]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 56, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.4**
+
+[<sup>1</sup> L'autorité compétente vérifie les conséquences notables pour l'environnement de la mise en oeuvre des plans et programmes pour lesquels un RIE de plan a été élaboré, notamment pour pouvoir identifier les conséquences négatives imprévues à un stade précoce et prendre les mesures correctives appropriées.
+
+Pour se conformer aux dispositions de l'alinéa 1er, les dispositifs de suivi existants peuvent être utilisés, le cas échéant, afin d'éviter le chevauchement du suivi.
+
+Les résultats du suivi, visés à l'alinéa 1er, sont mis à la disposition des organes, visés à l'article 4.4.6, § 2, et du public.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant le suivi et la mise à disposition de ses résultats, visés aux alinéas 1er et 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 57, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.5**
+
+[<sup>1</sup> Une évaluation ou une étude de suivi des incidences environnementales négatives notables résultant du développement et de l'exploitation des projets est organisée pour les projets ou catégories de projets mis en oeuvre au cours d'une période donnée qui sont susceptibles d'avoir des incidences environnementales négatives notables et pour lesquels un RIE du projet a été élaboré.
+
+Pour se conformer aux dispositions de l'alinéa 1er, les dispositifs de suivi existants peuvent être utilisés conformément à une autre législation, le cas échéant, afin d'éviter le chevauchement du suivi.
+
+Le type de paramètres suivis et la durée du suivi sont proportionnels à la nature, la localisation et l'ampleur du projet, ainsi qu'à l'importance des incidences environnementales.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant la procédure d'évaluation et de suivi, visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 58, 086; En vigueur : 01-12-2025&gt;
+
+## TITRE IV.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+### CHAPITRE I.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section I.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.1**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.2**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.3**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section III.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.4**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section IV.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.5**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.6**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section V.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.1.7**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section I.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+##### Sous-section 1re.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.1**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.2**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+##### Sous-section 2.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.3**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+##### Sous-section 3.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.4**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 2.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.5**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.6**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.7**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 3.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.8**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 4.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.9**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 5.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.10**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.2.11**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section I.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.1**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.2**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.3**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.4**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.5**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section III.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.6**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.7**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section IV.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.8**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.3.9**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+### CHAPITRE IV.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.1**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.2**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.3**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.4**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.4.5**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+### CHAPITRE V.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section I.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.1**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.2**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.3**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.4**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section III.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.5**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.6**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section IV.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.7**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.5.8**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+### CHAPITRE VI.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section I.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.6.1**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.6.2**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.6.3**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.6.3bis**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+#### Section III.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.6.4**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+### CHAPITRE VII.
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.7.1**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4.7.2**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 2, 086; En vigueur : 01-12-2025&gt;
+
+## Titre IV/1. [<sup>1</sup> Rapports de sécurité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 59, 086; En vigueur : 01-12-2025&gt;
+
+### Chapitre 1er. [<sup>1</sup> Définitions, dispositions procédurales, objectifs et caractéristiques des rapports de sécurité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 60, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 1re. [<sup>1</sup> Définitions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 61, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.1.1**
+
+[<sup>1</sup> Dans le présent titre, on entend par :
+
+1° action : un plan d'exécution spatiale ou projet ;
+
+2° administration : les services désignés par le Gouvernement flamand qui sont compétents pour l'environnement ;
+
+3° signification : l'envoi par courrier recommandé ou électronique ;
+
+4° initiateur :
+
+a) pour ce qui concerne les obligations relatives aux plans d'exécution spatiale lorsque le plan d'exécution spatiale constitue le cadre pour un ou plusieurs projets d'une ou plusieurs personnes physiques ou morales de droit privé ou public : l'autorité qui prend l'initiative d'établir un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009, sauf si ces personnes physiques ou morales de droit privé ou public introduisent une demande écrite de reprise de ces obligations auprès de l'autorité qui prend l'initiative d'élaborer un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009 et que cette autorité accède à cette demande ;
+
+b) pour ce qui concerne les obligations relatives aux plans d'exécution spatiale autres que les plans d'exécution spatiale visés au point a) : l'autorité qui prend l'initiative d'établir un plan d'exécution spatiale conformément aux articles 2.2.7, 2.2.12 et 2.2.18 du Code flamand de l'Aménagement du Territoire du 15 mai 2009 ;
+
+c) pour ce qui concerne les obligations liées aux projets : le demandeur d'une autorisation pour un projet ;
+
+5° rapport de sécurité environnementale, en abrégé RSE : un document public dans lequel, outre une description du système de gestion de la sécurité d'un établissement, sont identifiés, analysés et évalués dans leur cohérence interne de manière systématique et scientifiquement étayée les scénarios d'accidents majeurs d'un projet et des alternatives à prendre raisonnablement en compte, et qui démontre quelles mesures peuvent être prises et seront prises pour éviter ces accidents majeurs et en limiter les conséquences pour l'homme et l'environnement ;
+
+6° public : une ou plusieurs personnes physiques ou morales et leurs associations, organisations ou groupes ;
+
+7° projet : une activité envisagée soumise à autorisation ou une activité soumise à autorisation pour laquelle une nouvelle autorisation doit être sollicitée à l'expiration de la validité de l'autorisation en cours et qui consiste dans l'exploitation d'un établissement. Il s'agit de l'ensemble de la zone gérée par un exploitant où se trouvent des substances dangereuses dans un ou plusieurs établissements, en ce compris l'infrastructure ou les activités communes ou correspondantes ;
+
+8° rapport : un RSS ou un RSE ;
+
+9° rapport de sécurité spatiale, en abrégé RSS : un document public qui comporte, par rapport à un avant-projet de plan d'exécution spatiale et des alternatives à prendre raisonnablement en compte, une évaluation scientifique des évolutions prévues pour ce qui concerne des établissements nouveaux ou existants et leur environnement, lorsque leur lieu d'établissement ou les développements mêmes sont susceptibles d'augmenter le risque d'accidents majeurs ou d'en aggraver les conséquences ;
+
+10° accord de coopération du 16 février 2016 : l'accord de coopération du 16 février 2016 conclu entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses ;
+
+11° note de sécurité : un document public dans lequel il est démontré que la modification d'un établissement autorisé ne comporte aucun risque supplémentaire d'accidents majeurs pour l'homme et l'environnement par rapport à la situation existante telle que décrite dans un RSE approuvé pour cet établissement, et dans lequel il est démontré, par rapport à cette modification, quelles mesures ont été prises ou pourront être prises pour éviter les accidents majeurs et en limiter les conséquences pour l'homme et l'environnement ;
+
+12° rapports de sécurité, en abrégé R.S. : la procédure qui aboutit ou non à l'établissement et à l'approbation d'un rapport de sécurité spatiale ou d'un rapport de sécurité environnementale par rapport à une action envisagée et, le cas échéant, à son utilisation comme instrument lors du processus décisionnel concernant cette action.
+
+Les définitions figurant à l'article 2 de l'accord de coopération du 16 février 2016 s'appliquent à toutes les dispositions du présent titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 62, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 2. [<sup>1</sup> Dispositions générales sur les procédures]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 63, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.1.2**
+
+[<sup>1</sup> Les délais commencent à courir :
+
+1° en cas de signification : le troisième jour ouvrable suivant le jour de l'envoi.
+
+2° en cas de remise contre accusé de réception : le jour suivant la date de l'accusé de réception.
+
+Par accusé de réception, on entend l'accusé de réception écrit ou électronique d'un envoi.
+
+Les significations et communications de la même décision ou du même document à plus d'une personne ont lieu le même jour.
+
+Les délais expirent le dernier jour à minuit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 64, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 3. [<sup>1</sup> Objectif et caractéristiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 65, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.1.3**
+
+[<sup>1</sup> Le rapport de sécurité vise, dans le cadre du processus décisionnel relatif à des actions susceptibles de déclencher un accident majeur, à réserver à l'intérêt environnemental, ainsi qu'à la sécurité et à la santé humaines une place équivalente aux intérêts sociaux, économiques et sociétaux autres.
+
+Pour réaliser l'objectif, visé à l'alinéa 1er, le rapport de sécurité présente les caractéristiques essentielles suivantes :
+
+1° l'analyse et l'évaluation systématiques et scientifiquement étayées des conséquences probables pour l'homme et l'environnement d'une action envisagée et des alternatives à prendre raisonnablement en compte pour l'action en question ou des parties de celle-ci, ainsi que la description et l'évaluation des mesures possibles pour éviter, limiter, remédier ou, dans la mesure du possible, compenser de manière cohérente les conséquences de l'action envisagée ;
+
+2° l'évaluation de la qualité des informations rassemblées ;
+
+3° la publicité active des rapports de sécurité et du processus décisionnel relatif à l'action envisagée.
+
+L'administration dispose d'une expertise suffisante pour examiner les rapports. Si nécessaire, elle a accès à une expertise suffisante pour examiner les rapports.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 66, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 4. [<sup>1</sup> Relations entre les rapports]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 67, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.1.4**
+
+[<sup>1</sup> Le cas échéant, les rapports ultérieurs, élaborés en vertu du présent titre tiennent compte des rapports élaborés en vertu du présent titre à des stades antérieurs du processus décisionnel ainsi que des rapports approuvés qui en découlent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 68, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.1.5**
+
+[<sup>1</sup> § 1er. Lorsque différents rapports doivent être réalisés, en vertu du présent titre ou du titre IV ou d'une autre réglementation régionale ou fédérale, l'administration prendra, d'initiative ou à la demande de l'initiateur ou des initiateurs, une décision sur la possibilité d'adéquation ou d'intégration des différents rapports et, dans la mesure du possible, des différentes présentations des rapports. On vise une mise en oeuvre simultanée des différents rapports.
+
+L'administration prend une décision sur l'opportunité de l'adéquation ou de l'intégration au plus tard lors de l'émission de son avis, visé à l'article 4/1.3.2, § 4.
+
+§ 2. Le Gouvernement flamand peut fixer d'autres modalités concernant l'adéquation et l'intégration des évaluations et des rapports dans les cas, visés au présent article.
+
+L'adéquation ou l'intégration, visée au paragraphe 1er, peuvent se rapporter aux évaluations dans différents domaines politiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 69, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 5. [<sup>1</sup> Répercussions dans le processus décisionnel]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 70, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.1.6**
+
+[<sup>1</sup> Dans sa décision relative à l'action envisagée et, le cas échéant, dans l'élaboration de celle-ci, l'autorité tient compte du ou des rapports approuvés ainsi que des remarques et commentaires émis le ou les concernant.
+
+L'autorité motive chaque décision relative à l'action envisagée notamment par les points suivants :
+
+1° le choix de l'action envisagée, d'une alternative particulière ou d'alternatives partielles particulières, sauf en ce qui concerne le RSE ;
+
+2° l'acceptabilité des conséquences prévisibles ou probables de l'alternative choisie pour l'homme ou l'environnement ;
+
+3° les mesures proposées dans le ou les rapports.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 71, 086; En vigueur : 01-12-2025&gt;
+
+### Chapitre 2. [<sup>1</sup> Rapports de sécurité concernant les plans d'exécution spatiale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 72, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.2.1**
+
+[<sup>1</sup> L'évaluation des incidences sur la sécurité, visée dans le présent chapitre , se rapporte à l'établissement des plans d'exécution spatiale, visés au chapitre II, titre II du Code flamand de l'Aménagement du Territoire du 15 mai 2009, afin d'exécuter les obligations, visées à l'article 25 de l'accord de coopération du 16 février 2016.
+
+Le Gouvernement flamand fixe les critères permettant de déterminer si un RSS est nécessaire pour un plan d'exécution spatiale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 73, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.2.2**
+
+[<sup>1</sup> § 1er. Le RSS est établi sous la responsabilité et aux frais de l'initiateur.
+
+A cette fin, l'initiateur fait appel à un expert e.s. agréé. Il met à la disposition de l'expert e.s. agréé toutes les informations pertinentes disponibles. Il apporte toute sa collaboration afin que l'expert e.s. agréé puisse dûment s'acquitter de sa mission.
+
+§ 2. Pendant l'établissement du RSS, l'expert e.s. agréé se concerte avec l'administration. Le cas échéant, l'expert e.s. agréé doit respecter les instructions écrites intégrées dans la note de cadrage de l'administration, visée à l'article 2.2.4, § 3, du Code flamand de l'Aménagement du Territoire du 15 mai 2009.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 74, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.2.3**
+
+[<sup>1</sup> Le RSS comprend au moins les volets suivants :
+
+1° un volet général qui contient toutes les informations suivantes :
+
+a) une description des objectifs et lignes de force de l'avant-projet de plan d'exécution spatiale, en ce compris une carte à une échelle adaptée ;
+
+b) un aperçu des motifs de l'établissement du plan d'exécution spatiale ;
+
+c) une description des alternatives examinées pour l'avant-projet de plan d'exécution spatiale ou un résumé succinct des alternatives à prendre raisonnablement en compte pour certaines parties du plan, chaque fois en ce compris les considérations en la matière de l'initiateur ;
+
+d) une comparaison entre les alternatives décrites et l'avant-projet de plan d'exécution spatiale ou de certaines parties de ce plan ;
+
+2° un volet concernant l'impact du plan d'exécution spatiale sur les risques d'accidents majeurs pour l'homme et l'environnement qui contient les informations suivantes :
+
+a) une description des méthodiques utilisées pour déterminer et évaluer les risques d'accidents majeurs pour l'homme et l'environnement, en ce compris une énumération et définition des critères pertinents qui sont utilisés dans le RSS pour la délimitation des zones à risque ;
+
+b) le cas échéant, des informations sur les risques d'accidents majeurs pour l'homme et l'environnement liés aux établissements existants et sur les mesures de sécurité qu'ont adoptées ou que peuvent adopter des établissements existants afin d'éviter des accidents majeurs et d'en limiter les conséquences pour l'homme et l'environnement ;
+
+c) pour l'avant-projet de plan d'exécution spatiale et les alternatives décrites, une évaluation scientifique de l'impact des développements pris en considération autour d'établissements existants ou de l'implantation éventuelle de nouveaux établissements sur les risques d'accidents majeurs pour l'homme et l'environnement, en ce compris les zones à risque délimitées ;
+
+d) sur la base de l'évaluation scientifique visée au point c), des recommandations sur :
+
+1\) les prescriptions urbanistiques prévues, notamment compte tenu de l'exigence de conserver à long terme également une distance appropriée entre les établissements relevant de l'accord de coopération du 16 février 2016 et certaines zones sensibles, telles que visées à l'article 25, § 2, de l'accord de coopération précité ;
+
+2\) les mesures complémentaires que peuvent prendre des établissements existants pour éviter des accidents majeurs et d'en atténuer les conséquences pour l'homme et l'environnement afin de ne pas augmenter les risques ;
+
+e) une évaluation globale de l'avant-projet de plan d'exécution spatiale et des alternatives décrites dans le cadre de la politique de prévention d'accidents majeurs et de limitation de leurs conséquences pour l'homme et l'environnement ;
+
+3° un relevé des difficultés, lacunes techniques ou connaissances manquantes constatées éventuellement par l'initiateur ou l'expert agréé lors de la collecte et du traitement des informations requises et des implications qui en découlent pour la valeur scientifique du rapport ;
+
+4° un résumé non technique des données fournies telles que décrites du point 1° jusqu'à 3° inclus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 75, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.2.4**
+
+[<sup>1</sup> Le Gouvernement flamand peut fixer d'autres modalités concernant l'élaboration, l'analyse et l'utilisation ultérieure du RSS.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 76, 086; En vigueur : 01-12-2025&gt;
+
+### Chapitre 3. [<sup>1</sup> Evaluation des incidences sur la sécurité concernant l'exploitation d'établissements]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 77, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 1re. [<sup>1</sup> Champ d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 78, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.3.1**
+
+[<sup>1</sup> § 1er. Les dispositions du présent chapitre s'appliquent à tous les établissements qui répondent à toutes les conditions suivantes :
+
+1° les établissements pour lesquels un rapport de sécurité doit être établi conformément à l'article 8 de l'accord de coopération du 16 février 2016 ou pour lesquels le rapport de sécurité doit être réévalué suite à une modification de l'établissement conformément à l'article 10 de l'accord de coopération précité ;
+
+2° les établissements pour lesquels une demande d'autorisation doit être introduite pour leur exploitation ou leur modification conformément à l'article 5 du décret du 25 avril 2014 relatif au permis d'environnement.
+
+Le simple renouvellement du permis d'environnement ne nécessite pas l'établissement d'un RSE.
+
+§ 2. Le Gouvernement flamand peut désigner d'autres catégories d'établissements pour lesquels un RSE doit être établi conformément aux dispositions du présent chapitre . Le Gouvernement flamand peut, par dérogation à l'article 4/1.3.4, déterminer que pour les catégories d'établissements susmentionnées, le RSE ne doit pas contenir certaines données.
+
+§ 3. Par dérogation au paragraphe 1er, l'administration peut décider au cas par cas, après une demande motivée de l'initiateur, que pour les modifications apportées à un établissement autorisé, un RSE déjà approuvé pour cet établissement ne doit pas être mis à jour.
+
+§ 4. La demande motivée, visée au paragraphe 3, comprend au moins toutes les données suivantes :
+
+1° une description et une clarification de l'établissement autorisé, ainsi que des modifications demandées dans le cadre de la demande d'autorisation ;
+
+2° la justification de la demande et toutes les données pertinentes à l'appui de la demande ;
+
+3° une note de sécurité dans laquelle au moins tous les éléments suivants sont démontrés :
+
+a) la preuve que les modifications prévues ne créent pas un risque significatif supplémentaire d'accidents majeurs pour l'homme et l'environnement par rapport à la situation existante, et la preuve qu'un nouveau RSE ne peut raisonnablement contenir d'informations nouvelles ou supplémentaires en la matière ;
+
+b) en ce qui concerne les modifications prévues : la preuve que les mesures de sécurité nécessaires ont été prises ou peuvent être prises pour éviter des accidents majeurs et pour limiter d'une manière jugée suffisante les conséquences d'accidents majeurs probables pour l'homme et l'environnement, et la preuve qu'un nouveau RSE ne peut raisonnablement contenir d'informations nouvelles ou supplémentaires en la matière ;
+
+Pour l'établissement de la note de sécurité, visée à l'alinéa 1er, 3°, l'initiateur fait appel à un expert agréé.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant les informations et les modalités auxquelles la demande motivée, visée au paragraphe 3, doit répondre.
+
+§ 5. L'administration statue sur la demande motivée, visée au paragraphe 3, dans un délai de vingt jours à compter de la date de réception de cette demande motivée. Elle transmet immédiatement la décision à l'initiateur. Le cas échéant, la décision contient également les conditions dont elle est assortie. Si la décision ne peut être prise dans le délai susmentionné, l'administration en informe l'initiateur par écrit dans ce délai. Dans cette notification, l'administration indique la date à laquelle la décision sera prise au plus tard.
+
+§ 6. En cas de décision positive, l'initiateur joint cette décision et la note de sécurité à la demande d'autorisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 79, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 2. [<sup>1</sup> Notification et délimitation du contenu du RSE envisagé]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 80, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.3.2**
+
+[<sup>1</sup> § 1er. Avant d'introduire la demande d'autorisation, l'initiateur notifie à l'administration son intention d'établir un RSE.
+
+La notification, visée à l'alinéa 1er, comprend au moins les éléments suivants :
+
+1° une description du projet, en ce compris une description succincte des alternatives envisagées pour le projet ou pour des parties du projet ;
+
+2° la raison de l'obligation d'évaluation de l'établissement ;
+
+3° les autorisations qui doivent être demandées et, le cas échéant, la situation actuelle en matière d'autorisation ;
+
+4° une description du déroulement du processus avec, le cas échéant, une description du trajet de participation ;
+
+5° le cas échéant, les données dont l'administration a besoin pour l'échange transfrontalier d'informations, visé au paragraphe 2 ;
+
+6° les données pertinentes concernant l'expert agréé proposé, visé à l'article 4/1.3.3, le cas échéant complétées de la liste des experts qui assisteront l'expert agréé, ainsi que la répartition des tâches entre les experts ;
+
+7° conformément à l'article 4/1.3.4 et au livre d'instructions e.s., visé à l'article 4/1.4.2, une description de l'approche de fond, en ce compris la méthodologie du RSE ;
+
+8° le cas échéant, une demande d'avis sur l'information fournie conformément à l'article 4/1.3.4 ;
+
+9° le cas échéant, les motifs de la demande de soustraction à la publication de la notification ou de ses parties indiquées.
+
+L'administration peut toujours demander à l'initiateur de fournir des informations complémentaires. La procédure ne peut être poursuivie que lorsque l'administration a reçu les informations complémentaires qu'elle a demandées.
+
+Le Gouvernement flamand peut arrêter d'autres modalités concernant les informations qui doivent être reprises dans la notification, visée à l'alinéa 1er. Il peut s'agir tant d'informations complémentaires qui ne sont pas mentionnées dans l'alinéa 2 que d'une clarification des éléments, visés à l'alinéa 2.
+
+§ 2. S'il ressort de la notification, visée au paragraphe 1er, qu'à la suite d'un accident majeur, le projet peut avoir des incidences considérables pour l'homme ou l'environnement dans d'autres Etats membres de l'Union européenne ou dans des parties à la Convention sur les effets transfrontières des accidents industriels, signée à Helsinki le 17 mars 1992, ou dans d'autres régions, ou si les autorités compétentes de ces Etats membres, parties à la convention ou régions en font la demande, l'administration notifie le projet aux autorités compétentes des Etats membres, parties à la convention ou régions en question, avec la demande de communiquer leurs commentaires à l'administration.
+
+La notification, visée à l'alinéa 1er, comprend au moins toutes les informations suivantes :
+
+1° une copie de la notification, visée au paragraphe 1er ;
+
+2° une description de la procédure d'évaluation qui est applicable au projet envisagé ;
+
+3° l'information relative à l'obligation d'autorisation à laquelle le projet envisagé est soumis.
+
+L'administration informe l'initiateur du fait que le projet a été notifié aux autorités compétentes des Etats membres, parties à la convention ou régions en question.
+
+§ 3. L'administration prend une décision concernant les auteurs du RSE, visé à l'article 4/1.3.3, et communique sa décision à l'initiateur dans le délai et de la manière fixés par le Gouvernement flamand.
+
+§ 4. Lorsque la notification, visée au paragraphe 1er, contient une demande d'avis telle que mentionnée au paragraphe 1er, alinéa 2, 8°, l'administration émet un avis sur l'information que l'initiateur doit fournir, conformément à l'article 4/1.3.4.
+
+§ 5. L'administration émet la notification, visée au paragraphe 1er, dans le délai fixé par le Gouvernement flamand et publié sur son site web.
+
+Dans la notification, visée au paragraphe 1er, l'initiateur peut demander la soustraction intégrale ou partielle de certaines informations à la publication. La demande susmentionnée est traitée par l'organisme public concerné conformément à l'article II.36 du décret administratif du 7 décembre 2018. L'administration peut soustraire intégralement ou partiellement les données en question à la publication. Si elle décide de soustraire intégralement ou partiellement les données indiquées à la publication, elle doit reprendre dans une annexe les données qui sont soustraites à la publication. L'annexe n'est pas publiée.
+
+§ 6. Le Gouvernement flamand fixe les modalités concernant la procédure de notification, la procédure transfrontalière et transrégionale et la procédure pour les avis rendus par l'administration.
+
+§ 7. L'initiateur peut, préalablement à l'introduction de la demande d'autorisation, demander à l'administration d'examiner la qualité du contenu du RSE.
+
+Dans le cas, visé à l'alinéa 1er, l'administration confronte le contenu du RSE aux éléments suivants :
+
+1° la décision, visée au paragraphe 3 ;
+
+2° la description de l'approche de fond du RSE, visée au paragraphe 1er, alinéa 2, 7° ;
+
+3° le cas échéant, l'avis, visé au paragraphe 4 ;
+
+4° les données requises, visées à l'article 4/1.3.4 ;
+
+5° le cas échéant, les avis, remarques et commentaires des autorités compétentes, visées au paragraphe 2.
+
+Le résultat de l'examen mène à l'approbation ou au rejet provisoire du RSE.
+
+L'administration communique sa décision à l'initiateur concernant l'approbation ou le rejet provisoire du RSE dans un délai déterminé par le Gouvernement flamand.
+
+Le Gouvernement flamand peut fixer d'autres règles pour l'approbation ou le rejet provisoire du RSE et sa publication.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 81, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 3. [<sup>1</sup> Etablissement du RSE]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 82, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.3.3**
+
+[<sup>1</sup> § 1er. Le RSE est établi sous la responsabilité et aux frais de l'initiateur.
+
+A cette fin, l'initiateur fait appel à un expert agréé. Il met à la disposition de l'expert agréé toutes les informations pertinentes disponibles. Il apporte toute sa collaboration afin que l'expert agréé puisse dûment s'acquitter de sa mission.
+
+§ 2. L'expert agréé ne peut avoir aucun intérêt à l'exploitation en question. Il exécute sa mission en toute indépendance.
+
+§ 3. Pendant l'établissement du RSE, l'expert agréé se concerte avec l'administration. Le cas échéant, l'expert agréé respecte l'avis, visé à l'article 4/1.3.2, § 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 83, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.3.4**
+
+[<sup>1</sup> Le RSE comprend au moins toutes les données suivantes dans la mesure où celles-ci sont disponibles :
+
+1° des informations sur le système de gestion et l'organisation de l'établissement en vue de la prévention d'accidents majeurs. Ces informations couvrent les points, visés à l'annexe 2, jointe à l'accord de coopération du 16 février 2016 ;
+
+2° une présentation des environs de l'établissement qui comprend déjà les éléments suivants :
+
+a) une description du site, en ce compris la situation géographique, les données météorologiques, géologiques et hydrographiques, ainsi que les éléments de l'historique du site pertinents pour la sécurité ;
+
+b) une identification des sources de danger externes et des objets environnementaux sensibles, ainsi que les informations disponibles concernant ces sources ;
+
+c) une description des zones susceptibles d'être touchées par un accident majeur ;
+
+3° une description de l'établissement qui comprend tous les éléments suivants :
+
+a) l'identification des installations et activités au sein de l'établissement susceptibles de provoquer un accident majeur ;
+
+b) la description des activités et produits des parties de l'établissement qui sont importantes du point de vue de la sécurité ;
+
+c) une description des procédés et méthodes de travail ;
+
+d) une description des substances dangereuses qui comprend tous les éléments suivants :
+
+1\) une liste des substances dangereuses qui comprend tous les éléments suivants :
+
+i) la description des substances dangereuses : nom chimique, numéro CAS et nom selon la nomenclature IUPAC ;
+
+ii) la quantité maximale de substances dangereuses présentes ou pouvant être présentes ;
+
+2\) les propriétés et données physiques, chimiques et toxicologiques, tant du point de vue des dangers immédiats que des dangers ultérieurs pour l'homme et l'environnement ;
+
+3\) le comportement physique ou chimique dans des conditions d'utilisation normale ou lors d'accidents prévisibles ;
+
+4° une identification et une analyse des accidents majeurs avec les conséquences potentielles pour l'homme et l'environnement et les moyens de prévention, qui comprennent tous les éléments suivants :
+
+a) une description détaillée des scénarios pour des accidents majeurs potentiels et les circonstances dans lesquelles ces accidents peuvent se produire, en ce compris un résumé des incidents susceptibles de jouer un rôle important lors du déclenchement de ces scénarios, indépendamment du fait que ces causes se situent en dehors ou au sein de l'établissement ;
+
+b) une description des causes possibles d'accidents majeurs et des circonstances dans lesquelles un tel accident majeur pourrait se produire, accompagnée d'une description des mesures préventives adoptées ;
+
+c) une quantification des risques, telle qu'indiquée dans le livre d'instructions e.s., visé à l'article 4/1.4.2, liés aux scénarios décrits au point a) ;
+
+d) une évaluation de l'ampleur et de la gravité des conséquences potentielles des accidents majeurs identifiés ;
+
+e) une description des paramètres techniques qui sont importants pour la sécurité des installations et des appareils prévus pour assurer la sécurité des installations ;
+
+5° un aperçu des mesures de protection et d'intervention pour atténuer les conséquences d'un accident majeur, qui comprend l'ensemble des éléments suivants :
+
+a) une description des paramètres techniques qui sont importants pour la sécurité des installations et des appareils prévus pour assurer la sécurité des installations ;
+
+b) une description des appareils aménagés sur les installations pour atténuer les conséquences d'accidents majeurs ;
+
+c) l'organisation de l'alarme et de l'intervention ;
+
+d) une description des moyens internes ou externes pouvant être mis en oeuvre ;
+
+e) une description du plan d'urgence interne, visé à l'article 11 de l'accord de coopération du 16 février 2016 ;
+
+6° une description et une évaluation des mesures de prévention et de limitation des conséquences d'ordre technique et organisationnel que prendra l'initiateur, en ce compris le délai dans lequel ces mesures se réaliseront ;
+
+7° un aperçu des alternatives pouvant être raisonnablement prises en considération en termes de situation, d'implantation, de procédé et de quantités de substances dangereuses, en ce compris l'alternative zéro et la fermeture de l'établissement ;
+
+8° une indication des difficultés, lacunes techniques ou connaissances manquantes constatées, le cas échéant, par l'initiateur ou l'expert lors de la collecte et du traitement des informations requises et de leurs conséquences pour la valeur scientifique du rapport ;
+
+9° un résumé non technique des données fournies, telles que décrites aux points 1° jusqu'à 8° inclus. Le résumé non technique est un résumé qui est suffisamment compréhensible pour le public et qui permet de se forger une idée suffisante des accidents majeurs potentiels, des mesures possibles ou des mesures à prendre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 84, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 4. [<sup>1</sup> L'analyse et l'utilisation du RSE]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 85, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.3.5**
+
+[<sup>1</sup> § 1er. L'initiateur transmet le RSE à l'autorité compétente pour prendre une décision sur la demande d'autorisation du projet en première instance administrative, et ce, de la manière visée dans la réglementation relative à la procédure d'autorisation en question.
+
+Avant d'introduire la demande d'autorisation auprès de l'autorité, visée à l'alinéa 1er, l'initiateur peut demander à l'administration, conformément à l'article II.36 du décret administratif du 7 décembre 2018, de soustraire certaines parties du RSE à l'enquête publique dans le cadre de la procédure d'autorisation. Il joint également à sa demande le RSE finalisé et indique de quelles données il s'agit et sur quels motifs la soustraction à la publicité doit se fonder. L'administration procède à une mise en balance des intérêts conformément à l'article II.36 en question. L'administration peut soustraire à la publicité tout ou partie des données visées. Lorsqu'elle décide de soustraire intégralement ou partiellement les données indiquées à la publicité, elle est tenue de reprendre les données pertinentes dans une annexe. L'annexe au RSE ne sera pas mise à la disposition du public pendant la procédure d'autorisation.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant la collaboration et l'échange d'informations de l'administration avec les administrations impliquées dans la procédure d'autorisation.
+
+§ 2. Après avoir consulté les organes consultatifs et à l'issue de l'enquête publique de la procédure d'autorisation, l'administration confronte le RSE sur le fond aux éléments suivants :
+
+1° la décision, visée à l'article 4/1.3.2, § 3 ;
+
+2° la description de l'approche de fond du RSE, visée à l'article 4/1.3.2, § 1er, alinéa 2, 7° ;
+
+3° le cas échéant, l'avis, visé à l'article 4/1.3.2, § 4 ;
+
+4° les données requises conformément à l'article 4/1.3.4 ;
+
+5° les avis, remarques et commentaires des organes et du public sur le RSE, communiqués à la suite de l'enquête publique ;
+
+6° le cas échéant, les avis, remarques et commentaires des autorités compétentes, visées à l'article 4/1.3.2, § 2, et du public sur le RSE, communiqués à la suite de l'enquête publique dans un contexte transfrontière.
+
+Le résultat de l'analyse est intégré dans le rapport RSE et débouche sur l'approbation ou le rejet du RSE.
+
+Le Gouvernement flamand fixe les modalités concernant la consultation des organes consultatifs, visés à l'alinéa 1er, et des autorités compétentes, visées à l'alinéa 1er, 6°, par l'administration.
+
+§ 3. L'administration communique sa décision concernant l'approbation ou le rejet du RSE aux acteurs suivants :
+
+1° l'initiateur ;
+
+2° les administrations, les institutions publiques et les organismes publics désignés par le Gouvernement flamand ;
+
+3° le cas échéant, les autorités compétentes, visées à l'article 4/1.3.2, § 2 ;
+
+4° l'autorité compétente pour prendre une décision sur la demande d'autorisation du projet en première instance.
+
+La décision, visée à l'alinéa 1er, contient également une copie du rapport RSE, visé au paragraphe 2, alinéa 2.
+
+§ 4. Le Gouvernement flamand peut fixer d'autres modalités concernant l'approbation ou le rejet du RSE et sa publication.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 86, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.3.6**
+
+[<sup>1</sup> § 1er. Dès signification de la décision, visée à l'article 4/1.3.5, § 3, le RSE, le rapport RSE, visé à l'article 4/1.3.5, § 2, alinéa 2, et, le cas échéant, l'avis, visé à l'article 4/1.3.2, § 4, peuvent être consultés auprès de l'administration.
+
+§ 2. L'initiateur peut demander à l'administration d'examiner si, conformément à l'article II.36 du décret administratif du 7 décembre 2018, elle doit soustraire à la consultation les données contenues dans les pièces visées au paragraphe 1er. Il soumet sa demande à l'administration au plus tard au moment de la remise du RSE finalisé à l'administration. Il précise dans sa demande les données en question et les motifs de la soustraction à la consultation.
+
+L'administration prend une décision concernant la demande de l'initiateur, visée à l'alinéa 1er, au plus tard au moment de l'approbation ou du rejet du RSE. Elle fera une pondération des intérêts conformément à l'article II.36 du décret administratif du 7 décembre 2018. L'administration peut soustraire intégralement ou partiellement les données visées à l'alinéa 1er, à la mise en consultation. Lorsqu'elle décide d'une soustraction intégrale ou partielle des données indiquées à la mise en consultation, elle doit reprendre les données pertinentes dans une annexe. L'annexe ne pourra pas être consultée par le public.
+
+§ 3. Lors du processus décisionnel ultérieur concernant le projet envisagé, il convient de tenir compte de la nécessité de garder les activités à risque isolées et à une distance appropriée des zones suivantes :
+
+1° zones d'habitation ;
+
+2° zones fréquentées par le public ;
+
+3° zones vulnérables en termes spatiaux ;
+
+4° zones vulnérables particulières à définir par le Gouvernement flamand.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant l'utilisation du RSE lors de toute décision ultérieure concernant le projet envisagé et concernant la publication de l'arrêté relatif au projet.
+
+§ 4. Le Gouvernement flamand peut déterminer d'autres règles concernant les modalités selon lesquelles les autorités compétentes et les citoyens des Etats membres, des parties à la convention ou des régions, visées à l'article 4/1.3.2, § 2, peuvent faire part de leurs commentaires sur le RSE et le projet envisagé, et sur les modalités de concertation à ce sujet.
+
+La décision relative à la demande d'autorisation concernant le projet envisagé est envoyée aux autorités compétentes des Etats membres, parties à la convention ou régions concernés, visés à l'article 4/1.3.2, § 2.
+
+§ 5. Le Gouvernement flamand peut fixer d'autres modalités concernant :
+
+1° la manière dont l'autorité qui est informée par les autorités compétentes des Etats membres, parties à la convention ou régions, visées à l'article 4/1.3.2, § 2, d'une demande d'autorisation comprenant ou non un RSE, en informe l'administration ou la province concernée où les incidences peuvent se produire ;
+
+2° l'enquête publique qui doit, le cas échéant, être organisée.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant la fourniture d'un avis sur la demande d'autorisation, visée à l'alinéa 1er, à l'autorité compétente des Etats membres, parties à la convention ou régions, visées à l'article 4/1.3.2, § 2.
+
+Le Gouvernement flamand peut fixer d'autres modalités concernant :
+
+1° la manière dont l'autorité qui est informée par les autorités compétentes des Etats membres, parties à la convention ou régions, visées à l'article 4/1.3.2, § 2, d'une décision sur une demande d'autorisation comprenant ou non un RSE, en informe l'administration ou la province concernée où les incidences peuvent se produire ;
+
+2° le cas échéant, la mise de la décision, visée au point 1°, à la disposition du public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 87, 086; En vigueur : 01-12-2025&gt;
+
+### Chapitre 4. [<sup>1</sup> Aspects de la gestion de la qualité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 88, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 1re. [<sup>1</sup> L'agrément des experts e.s.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 89, 086; En vigueur : 01-12-2025&gt;
+
+**Art. 4/1.4.1**
+
+[<sup>1</sup> § 1er. Les dispositions du titre V, chapitre VI, s'appliquent à l'agrément des experts e.s.
+
+§ 2. L'expert e.s. agréé ne peut avoir aucun intérêt personnel à la réalisation de l'action envisagée ou de ses alternatives. Il exécute sa mission en toute indépendance.
+
+L'indépendance de l'expert e.s. agréé est évaluée au niveau de la personne physique individuelle.
+
+Si l'expert e.s. agréé participe à l'élaboration d'un RSS, l'exigence d'indépendance de l'expert e.s. agréé ne l'empêche pas de procéder ultérieurement à l'évaluation d'un projet pour lequel le plan d'exécution spatiale précédemment adopté constitue le cadre pour l'octroi d'autorisations.
+
+§ 3. Le Gouvernement flamand peut déterminer les autres conditions d'exercice de la mission de l'expert e.s. agréé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 90, 086; En vigueur : 01-12-2025&gt;
+
+#### Section 2. [<sup>1</sup> Les livres d'instructions et l'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 91, 086; En vigueur : 01-12-2025&gt;
+
+###### Art. 4/1.4.2. [<sup>1</sup> § 1er. L'administration élabore un livre d'instructions sur l'évaluation des incidences sur la sécurité. Ce livre d'instructions e.s. est l'ouvrage de référence sur lequel l'administration, l'initiateur et les experts s'appuient pour le bon déroulement de l'évaluation et le contenu d'un RSS, d'un RSE ou d'une note de sécurité, en ce compris les aspects méthodologiques.
+
+Les directives particulières et, le cas échéant, les directives particulières complémentaires, visées à l'alinéa 3, peuvent de manière motivée compléter le livre d'instructions e.s., contenir des dispositions plus strictes ou y déroger dans le sens de dispositions moins sévères.
+
+L'avis, visé à l'article 4/1.3.2, § 4, comprend les directives particulières et, le cas échéant, les directives particulières complémentaires, visées à l'alinéa 2.
+
+§ 2. L'administration est responsable de la mise à jour régulière des livres d'instructions sur la base des développements scientifiques et sociétaux, et de l'évaluation des expériences en matière d'évaluation des incidences sur la sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/53, art. 92, 086; En vigueur : 01-12-2025&gt;
+
+## TITRE V - [<sup>1</sup> Exploitation des établissements et activités et personnes agréées]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 174, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE 1ER - [<sup>1</sup> Définitions et objectif ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 175, 049; En vigueur : 23-02-2017&gt;
+
+#### Section 1re - [<sup>1</sup> Définitions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 176, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.1.1**
+
+[<sup>1</sup> Dans ce titre, il y a lieu d'entendre par :
+
+1° activités : les travaux et actes, visés dans la liste de classification ;
+
+2° décret du 25 avril 2014 : le décret relatif au permis d'environnement ;
+
+3° émission : l'émission directe ou indirecte, dans l'air, l'eau ou le sol, de poussières, vibrations, chaleur, lumière ou bruits à partir de sources ponctuelles ou de sources diffuses des installations ou activités ;
+
+4° exploitant : la personne physique ou morale qui exploite une installation classée ou pour le compte de laquelle cette installation est exploitée ;
+
+5° exploitation : l'installation, la mise en service, l'utilisation ou le maintien d'installations classées ou le commencement et l'exécution d'activités classées ;
+
+6° installation réputée incommode : une unité technique fixe dans laquelle se déroulent les opérations et procédés indiqués dans la liste de classification, désignée par la lettre X dans la quatrième colonne de la liste de classification, ainsi que d'autres activités connexes, ayant un rapport technique direct avec les activités à exécuter à cet endroit et qui sont susceptibles d'influencer les émissions et la pollution ;
+
+7° liste de classification : la liste établie par le Gouvernement flamand, qui se compose de rubriques qui contiennent une description des établissements et activités présentant un risque ou des nuisances sérieux pour l'homme ou l'environnement ;
+
+8° établissement classé ou activité classée : un établissement ou une activité et ses compléments en un lieu déterminé ou, le cas échéant, plusieurs établissement ou activités et leurs compléments en un lieu déterminé qui, aux fins de leur exploitation, sont considérés comme un ensemble technique cohérent. Le fait que différents établissements et activités ont un statut différent en matière de propriété n'empêche pas qu'ils puissent, de par leur cohésion technique, être considérés comme un seul établissement ou activité ;
+
+9° établissements : les entreprises, lieux de travail, lieux de stockage, installations, machines et appareils, tels que décrits dans la liste de classification ;
+
+10° établissements ou activités mobiles ou déplaçables : les établissements ou activités désignés par le Gouvernement flamand qui, de par leur nature, peuvent, au sein d'un établissement autorisé ou non, être utilisés en différents endroits ;
+
+11° établissements ou activités temporaires : les établissements ou activités désignés par le Gouvernement flamand qui sont utilisés pendant un an au maximum, s'ils concernent un chantier de construction, ou trois mois au maximum, dans les autres cas, et donc l'exploitation n'entraîne pas de conséquences permanentes pour l'homme et l'environnement ;
+
+12° changements à un établissement classé ou une activité classée :
+
+a) modification : le déplacement, à l'intérieur [<sup>2</sup> des établissement ou activité classés]<sup>2</sup> autorisé ou notifié, ou l'emploi d'une autre méthode d'exploitation ;
+
+b) extension : l'agrandissement en capacité, en force motrice ou en surface sur les parcelles auxquelles a trait l'autorisation ou notification en vigueur ;
+
+c) ajout : l'agrandissement en capacité de stockage, en force motrice ou en surface sur les parcelles auxquelles à trait l'autorisation ou notification en vigueur ;
+
+[<sup>2</sup> d) la scission d'un établissement classé ou d'une activité classée en plusieurs établissements ou activités classés, pour autant que la définition d'un établissement classé ou d'une activité classée, visée au point 8°, ne soit pas affectée.]<sup>2</sup>
+
+13° pollution : l'introduction directe ou indirecte, par l'activité humaine, de substances, de vibrations, de chaleur ou de bruit dans l'air, l'eau ou le sol, susceptibles de porter atteinte à la santé humaine ou à la qualité de l'environnement, d'entraîner des détériorations des biens matériels, une détérioration ou une entrave à l'agrément de l'environnement ou à d'autresutilisations légitimes de ce dernier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 177, 049; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2017-12-08/06, art. 2, 059; En vigueur : 30-12-2017&gt;
+
+#### Section 2. - [<sup>1</sup> Définitions d'organismes génétiquement modifiés ou d'organismes pathogènes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 178, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.1.2**
+
+[<sup>1</sup> Au chapitre V, il convient d'entendre par :
+
+1° micro-organisme génétiquement modifié (MGM) ou organisme génétiquement modifié (OGM) : un micro-organisme ou un organisme dont le matériel génétique est modifié d'une manière qui ne s'effectue pas naturellement, par multiplication ou recombinaison naturelle ;
+
+2° organismes pathogènes : phytopathogènes, pathogènes humains ou zoopathogènes ;
+
+3° utilisation confinée : toute opération dans laquelle des organismes sont génétiquement modifiés ou dans laquelle des OGM ou organismes pathogènes sont cultivés, stockés, transportés, détruits, éliminés ou utilisés de toute autre manière, et pour laquelle des mesures de confinement spécifiques sont prises pour limiter le contact de ces organismes avec l'ensemble de la population et l'environnement ;
+
+4° notification : la remise des documents contenant les données exigées en vue de l'exercice d'activités de classe de risque 1 ou 2 ;
+
+5° permission : la remise des documents contenant les données exigées en vue de l'obtention d'une permission pour l'exercice d'activités de classe de risque 3 ou 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 179, 049; En vigueur : 23-02-2017&gt;
+
+#### Section 3. - [<sup>1</sup> Objectif]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 180, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.1.3**
+
+[<sup>1</sup> Le présent titre a pour but :
+
+1° de protéger l'homme et l'environnement contre les risques et nuisances inacceptables découlant de l'exploitation d'établissements ou activités classés.
+
+Les nuisances et risques comprennent :
+
+a) les nuisances et les risques découlant de l'introduction directe ou indirecte de poussières, vibrations, chaleur, lumière ou bruits dans l'air, l'eau ou le sol, de nature à porter atteinte à la santé humaine ou à la qualité de l'environnement ;
+
+b) les risques d'accident découlant de l'exploitation et leurs conséquences pour la santé humaine et l'environnement ;
+
+c) les risques et les nuisances découlant de l'épuisement de ressources renouvelables et non renouvelables, le gaspillage de matériaux et d'énergie en général et les effets nocifs pour l'homme et l'environnement, liés à l'utilisation et la consommation de matériaux ;
+
+d) les entraves à la mobilité.
+
+La protection vaut également pour les personnes qui se trouvent à l'intérieur de l'établissement et qui ne jouissent pas de la même protection que les travailleurs ou les personnes y assimilées, tels que visés à l'article 2 de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail ;
+
+2° introduire une reconnaissance pour l'exercice de certaines fonctions, la dispense de formations, le prélèvement d'échantillons et l'exécution de mesures, d'épreuves et d'analyses par des personnes morales ou physiques.
+
+Le présent titre contribue à la réalisation des objectifs décrits à l'article 1.2.1 du présent décret.
+
+Le présent titre vise en outre à encourager un processus d'amélioration permanente de l'exploitation d'établissements et activités classés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 181, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE 2. - [<sup>1</sup> Principes généraux en matière d'obligation d'autorisation et de notification]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 182, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.2.1**
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand établit la liste de classification.
+
+§ 2. Dans la liste de classification, le Gouvernement flamand détermine, pour chaque établissement ou activité, s'il relève de la première, deuxième ou troisième classe. Les établissements ou activités de la première classe sont ceux qui présentent les risques ou nuisances les plus importants. Les établissements ou activités de la troisième classe sont ceux qui présentent les risques ou nuisances les moins importants.
+
+Dans la liste de classification, le Gouvernement flamand désigne en outre les établissements et activités qui sont temporaires, mobiles ou déplaçables.
+
+§ 3. Un établissement classé ou une activité classée relève de la première classe s'il comporte au moins un établissement ou une activité qui relève de la première classe.
+
+Le cas échéant, un établissement classé ou une activité classée de la première classe contient également tous les établissements et activités des deuxième et troisième classes exploités conjointement à l'endroit en question.
+
+§ 4. Un établissement classé ou une activité classée relève de la deuxième classe s'il comporte au moins un établissement ou une activité qui relève de la deuxième classe, sans contenir d'établissement ou activité de la première classe.
+
+Le cas échéant, un établissement classé ou une activité classée de la deuxième classe contient également tous les établissements et activités de la troisième classe exploités conjointement à l'endroit en question.
+
+§ 5. Un établissement classé ou une activité classée de la troisième classe comporte exclusivement des établissements ou activités classés de la troisième classe.
+
+§ 6. Pour l'exploitation d'un établissement classé ou d'une activité classée de la première ou deuxième classe ou pour sa modification, un permis d'environnement, tel que visé à l'article 6, premier alinéa, du décret du 25 avril 2014 relatif au permis d'environnement, est requis.
+
+Pour l'exploitation d'un établissement classé ou d'une activité classée de la troisième classe ou pour sa modification, un acte de notification, tel que visé à l'article 6, deuxième alinéa, du décret du 25 avril 2014 relatif au permis d'environnement, est requis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 183, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.2.2**
+
+[<sup>1</sup> Le Gouvernement flamand tient une banque de données des permis d'environnement qui octroient une permission pour l'exploitation d'établissements et activités classés.
+
+Le Gouvernement flamand détermine le contenu de cette banque de données, les données qui sont fournies par les communes et les provinces à la division susmentionnée et la manière dont ces données sont transmises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 184, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE 3. - [<sup>1</sup> Critères d'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 185, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.3.1**
+
+[<sup>1</sup> L'autorité délivrant l'autorisation refuse le permis d'environnement pour l'exploitation d'un établissement classé ou d'une activité classée lorsque l'exploitation :
+
+1° implique des risques ou nuisances inacceptables pour l'homme et l'environnement, qui ne peuvent être réduits à un niveau acceptable par des conditions environnementales générales, sectorielles ou particulières ;
+
+2° est en conflit avec :
+
+a) une disposition légale, décrétale ou réglementaire, instituée en protection de l'homme et de l'environnement contre les risques et les nuisances découlant de l'exploitation d'un établissement ou d'une activité classé, pour autant qu'il ne puisse y être dérogé de manière valable ;
+
+b) une prescription urbanistique ou une prescription de lotissement, pour autant qu'il ne puisse y être dérogé de manière valable ;
+
+c) le bon aménagement du territoire.]<sup></sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 186, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE 4. - [<sup>1</sup> Conditions environnementales et évaluations ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 187, 049; En vigueur : 23-02-2017&gt;
+
+#### Section 1re. - [<sup>1</sup> Généralités ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 188, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.1**
+
+[<sup>1</sup> Le Gouvernement flamand fixe les conditions environnementales générales et sectorielles. Les conditions environnementales générales et sectorielles visent à prévenir et limiter les nuisances et risques inacceptables que peuvent provoquer les établissements et activités concernés. Le cas échéant, elles visent également la réparation des dégâts occasionnés à l'environnement par l'exploitation de l'établissement ou de l'activité.
+
+Le Gouvernement flamand peut fixer des conditions pour la protection de l'homme et de l'environnement contre certaines formes de nuisance et de risque découlant d'établissements ou activités non classés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 189, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.2**
+
+[<sup>1</sup> Les conditions environnementales générales s'appliquent à tous les établissements ou activités classés.
+
+Les conditions environnementales sectorielles s'appliquent à certains types d'établissements ou activités classés.
+
+Les conditions environnementales pour les établissements ou activités non classés s'appliquent aux établissements ou activités non classés que désigne le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 190, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.3**
+
+[<sup>1</sup> § 1er. En cas d'adoption de conditions environnementales générales et sectorielles, une approche intégrée est adoptée et la protection de l'homme et de l'environnement contre les risques et les nuisances découlant de l'exploitation d'établissements et activités classés est garantie.
+
+Les conditions environnementales, visées au premier alinéa, se fondent sur les meilleures techniques disponibles. Le Gouvernement flamand fixe le mode de détermination des meilleures techniques disponibles.
+
+§ 2. En cas d'adoption de conditions environnementales générales et sectorielles, le Gouvernement flamand tient compte :
+
+1° des normes de qualité environnementale en vigueur, y compris des normes de qualité environnementale particulières ;
+
+2° de l'état existant de l'environnement et de la santé de l'homme, dans la mesure où cette santé est influencée par l'état de l'environnement, chaque fois pour autant que les établissements et activités concernés puissent causer des risques ou nuisances ;
+
+3° de la localisation de ces établissements ou activités dans ou à proximité des zones nécessitant une protection spéciale ou d'objets sensibles aux nuisances ;
+
+4° du fait que les nuisances ou les risques découlant de l'exploitation des établissements et activités classés doivent être limités à un niveau acceptable.
+
+§ 3. En vue de la protection de l'homme et de l'environnement, les conditions environnementales peuvent contenir des dispositions restreignant l'admissibilité de certains établissement et activités classés dans ou à proximité de certaines zones ou certains objets sensibles aux nuisances ou les interdisant.
+
+§ 4. Lorsque c'est possible, les conditions environnementales générales et sectorielles mentionnent les objectifs concrets que les intéressés doivent réaliser, de la manière qu'ils déterminent. Elles peuvent également indiquer quels moyens doivent être utilisés. Lorsque c'est possible, elles précisent en outre le niveau de protection ou l'objectif à atteindre de cette manière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 191, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.4**
+
+[<sup>1</sup> L'avant-projet d'arrêté du Gouvernement flamand fixant les conditions environnementales générales et sectorielles est publié pour une durée de trente jours sur le site web [<sup>2</sup> du Département de l'Environnement et de l'Aménagement du Territoire]<sup>2</sup>.
+
+L'avant-projet d'arrêté peut, durant le même délai, être consulté auprès [<sup>2</sup> du Département de l'Environnement et de l'Aménagement du Territoire]<sup>2</sup>.
+
+Pendant ce délai, toute personne peut communiquer ses remarques [<sup>2</sup> au département mentionné ci-dessus]<sup>2</sup>.
+
+Le Gouvernement flamand fixe les modalités en matière de publication et de participation de la population.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 192, 049; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2017-10-27/06, art. 12, 058; En vigueur : 07-12-2017&gt;
+
+#### Section 2. - [<sup>1</sup> Proportion réciproque entre les conditions environnementales générales, les conditions environnementales sectorielles et les conditions environnementales particulières, visées aux articles 72 et 113 du décret du 25 avril 2014 relatif au permis d'environnement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 193, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.5**
+
+[<sup>1</sup> Les conditions environnementales sectorielles complètent les conditions environnementales générales ou stipulent des exigences complémentaires.
+
+Les conditions environnementales sectorielles peuvent être plus sévères que les conditions environnementales générales.
+
+Pour des raisons techniques, les conditions environnementales sectorielles peuvent déroger dans un sens moins restrictif aux conditions environnementales générales, dans les cas fixés par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 194, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.6**
+
+[<sup>1</sup> Les conditions environnementales particulières, visées aux articles 72 et 113 du décret du 25 avril 2014 relatif au permis d'environnement, complètent les conditions environnementales générales et sectorielles ou stipulent des exigences complémentaires.
+
+Les conditions environnementales particulières susmentionnées peuvent être plus sévères que les conditions environnementales générales et sectorielles, sauf disposition contraire du Gouvernement flamand.
+
+Pour des raisons techniques, les conditions environnementales particulières susmentionnées peuvent déroger dans un sens moins restrictif aux conditions environnementales générales et sectorielles, dans les cas fixés par le Gouvernement flamand dans les conditions environnementales générales et sectorielles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 195, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.6/1**
+
+[<sup>1</sup> La transposition, en vue du respect des meilleures techniques disponibles, de toutes nouvelles conclusions sur les MTD et des mesures dans la transposition des directives européennes ou provenant des plans et des programmes approuvés par le Gouvernement flamand en ce qui concerne l'exploitation des installations ou activités classées, a lieu si possible et de préférence au moyen de conditions environnementales générales ou sectorielles ou une autre réglementation sectorielle.
+
+En vue de la transposition visée au premier alinéa, le Gouvernement flamand fixe, pour les autorités concernées, des missions de politiques et directives qui indiquent quelles prescriptions et normes sont instaurées, que ce soit via des conditions environnementales générales ou sectorielles, ou via des conditions environnementales particulières dans le permis d'environnement pour l'exploitation d'un établissement classé ou d'une activité classée.
+
+Les directives sur les conditions environnementales particulières mentionnent les critères pour les cas où il est recommandé de procéder à une évaluation ciblée en vue de l'application éventuelle de l'article 82, premier alinéa, 2°, du décret du 25 avril 2014 relatif au permis d'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-12-18/24, art. 28, 048; En vigueur : 01-01-2018&gt;
+
+**Art. 5.4.7**
+
+[<sup>1</sup> Sauf disposition contraire du Gouvernement flamand, les conditions environnementales générales et sectorielles sont, éventuellement à l'issue d'un délai de transition à déterminer par le Gouvernement flamand, applicables aux établissements et activités qui, à la date d'entrée en vigueur de l'arrêté établissant les conditions environnementales, sont autorisés ou pour lesquels il existe un acte de notification. Par dérogation à cette disposition, les conditions environnementales particulières plus restrictives de l'autorisation en cours à cette date ou de la décision en vigueur restent d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 196, 049; En vigueur : 23-02-2017&gt;
+
+#### Section 3. - [<sup>1</sup> Dérogation aux conditions environnementales générales et sectorielles]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 197, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.8**
+
+[<sup>1</sup> Le Gouvernement flamand détermine par qui, dans quels cas, les conditions sous lesquelles et les limites dans lesquelles une dérogation aux conditions environnementales générales ou sectorielles peut être accordée et fixe les règles en matière d'introduction et de traitement de la demande de dérogation et sur la décision à cet égard, y compris sur sa publication.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 198, 049; En vigueur : 23-02-2017&gt;
+
+#### Section 4. - [<sup>1</sup> Obligations de l'exploitant]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 199, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.9**
+
+[<sup>1</sup> § 1er. L'exploitant d'un établissement classé ou d'une activité classée est tenu au respect des conditions environnementales générales, sectorielles et particulières.
+
+§ 2. Quelle que soit l'autorisation environnementale octroyée, l'exploitant prend toujours les mesures nécessaires en vue de prévenir les dommages, nuisances, incidents et accidents qui ont des effets importants sur l'homme ou l'environnement.
+
+Quelle que soit l'autorisation environnementale octroyée, l'exploitant prend immédiatement, en cas d'incident ou d'accident qui a des effets importants sur l'homme ou l'environnement, les mesures nécessaires en vue d'en atténuer les conséquences pour l'homme et l'environnement et de prévenir d'autres incidents ou accidents possibles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 200, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.4.10**
+
+[<sup>1</sup> Le Gouvernement flamand peut fixer d'autres modalités relatives aux obligations de l'exploitant, visées à l'article 5.4.9.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 201, 049; En vigueur : 23-02-2017&gt;
+
+#### Section 5. - [<sup>1</sup> Evaluations ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 202, 049; En vigueur : 01-01-2018&gt;
+
+**Art. 5.4.11**
+
+[<sup>1</sup> § 1. Les conditions environnementales applicables à un établissement classé ou à une activité classée sont soumises à :
+
+1° une évaluation générale dans les cas et pour les aspects que le Gouvernement flamand détermine pour la transposition de la réglementation européenne ;
+
+2° une évaluation ciblée dans les cas et pour les aspects que le Gouvernement flamand détermine pour la transposition de la réglementation européenne ou dans les directives, mentionnées à l'article 5.4.6/1, troisième alinéa.
+
+Lors de l'exécution d'une évaluation mentionnée au premier alinéa, il est examiné si les conditions environnementales sont ajustées, et ce conformément à l'article 82, 2°, a), du décret du 25 avril 2014 relatif au permis d'environnement, si une demande doit être introduite auprès de l'autorité concernée. La conclusion d'une évaluation n'exclut pas l'application de l'article 82, 1°, 2°, b) à f), du décret du 25 avril 2014 relatif au permis d'environnement.
+
+§ 2. L'exécution des évaluations générales, mentionnées au paragraphe 1, premier alinéa, des installations réputées incommodes par suite des évolutions sur le plan des meilleures techniques disponibles ou de la communication de toutes nouvelles conclusions en matière de MTD, a lieu sur la base d'un programme glissant pluriannuel pour cinq années civiles consécutives qui est établi par [<sup>2</sup> le Département de l'Environnement et de l'Aménagement du Territoire]<sup>2</sup>. Le programme glissant pluriannuel est actualisé chaque année et adapté à l'approche en termes de programme de maintien environnemental.
+
+Le programme glissant pluriannuel et son degré d'exécution sont publiés chaque année de la façon déterminée par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 29, 048; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2017-10-27/06, art. 13, 058; En vigueur : 01-01-2018&gt;
+
+**Art. 5.4.12**
+
+[<sup>1</sup> § 1er. Le service compétent de la commune est chargé de la coordination et de l'exécution des évaluations des établissements et activités classés qui relèvent de projets pour lesquels le collège des bourgmestre et échevins est compétent pour prendre une décision en première instance administrative concernant la demande d'autorisation.
+
+Le Gouvernement flamand détermine les cas dans lesquels la commission provinciale du permis d'environnement, visée à l'article 16, § 1er, premier alinéa, du décret du 25 avril 2014 relatif au permis d'environnement, remet, pour l'exécution des évaluations, un avis au collège des bourgmestre et échevins.
+
+§ 2. Les commissions provinciale et régionale du permis d'environnement, visées à l'article 16, § 1er, du décret du 25 avril 2014 relatif au permis d'environnement, sont chargées de la coordination et de l'exécution des évaluations des établissements et activités classés qui relèvent de projets pour lesquels, respectivement, la députation et la Région flamande sont compétentes pour prendre une décision en première instance administrative concernant la demande d'autorisation.
+
+Les instances d'avis qui, conformément à l'article 24, premier alinéa, [<sup>2</sup> ...]<sup>2</sup> du décret du 25 avril 2014 relatif au permis d'environnement, sont désignées pour rendre un avis concernant l'établissement ou l'activité classé, rendent un avis dans le cadre de l'évaluation de la commission provinciale ou régionale du permis d'environnement.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Le Gouvernement flamand arrête les délais dans lesquels les avis dont question aux paragraphes 1 et 2 doivent être rendus. Si aucun avis n'est rendu dans le délai fixé, l'instance d'avis ou la commission consultative provinciale du permis d'environnement sera réputée être d'avis qu'aucune modification des conditions en matière d'environnement ne doit être apportée.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 204, 049; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2015-12-18/24, art. 150&gt;
+
+**Art. 5.4.13**
+
+[<sup>1</sup> Le service compétent de la commune et les commissions provinciale et régionale du permis d'environnement peuvent, en vue de l'exécution des évaluations, demander des informations à l'exploitant ou au contrôleur compétent, visé au titre XVI.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 205, 049; En vigueur : 01-01-2018&gt;
+
+**Art. 5.4.14**
+
+[<sup>1</sup> Le Gouvernement flamand fixe les modalités d'exécution des évaluations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 206, 049; En vigueur : 01-01-2018&gt;
+
+#### Section 6. [<sup>1</sup> - Validation spéciale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-17/03, art. 2, 072; En vigueur : 24-07-2020&gt;
+
+##### Sous-section 1re. [<sup>1</sup> Validation spéciale des conditions environnementales sectorielles pour les éoliennes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-03-21/06, art. 2, 082; En vigueur : 03-04-2025&gt;
+
+**Art. 5.4.15**
+
+[<sup>1</sup> La section 5.20.6 du chapitre 5.20 de la partie 5 de l'arrêté du Gouvernement flamand du 1er juin 1995 fixant les dispositions générales et sectorielles en matière d'hygiène et d'environnement, insérée par l'arrêté du Gouvernement flamand du 23 décembre 2011 modifiant l'arrêté du Gouvernement flamand du 6 février 1991 fixant le règlement flamand relatif à l'autorisation écologique et modifiant l'arrêté du Gouvernement flamand du 1er juin 1995 fixant les dispositions générales et sectorielles en matière d'hygiène de l'environnement, pour ce qui concerne l'actualisation des arrêtés précités par rapport à l'évolution de la technique, et modifiée en dernier lieu par l'arrêté du Gouvernement flamand du 3 mai 2019 modifiant divers arrêtés en matière d'environnement et d'agriculture, est déclarée valable à partir de la date de son entrée en vigueur. La validation vaut jusqu'à la date d'entrée en vigueur des nouvelles normes sectorielles pour les installations destinées à l'exploitation de l'énergie éolienne pour la production d'électricité que le Gouvernement adopte après l'exécution d'une évaluation des incidences sur l'environnement, et cesse en tout cas d'exister après une période d'au maximum trois ans à partir de l'entrée en vigueur du présent article.
+
+La circulaire EME/2006/01-RO2006/02 du 12 mai 2006 relatif à un cadre d'évaluation et conditions annexes pour l'implantation d'éoliennes est déclarée valable à partir de la date de son entrée en vigueur. La validation vaut jusqu'à la date d'entrée en vigueur de la circulaire RO/2014/02 du 25 avril 2014 relatif à un cadre d'évaluation et conditions annexes pour l'implantation d'éoliennes.
+
+La validation, visée aux alinéas 1er et 2, est limitée à la violation des dispositions internationales, européennes et nationales relatives à l'obligation d'exécution d'une évaluation de l'impact sur l'environnement pour certains plans et programmes, notamment l'article 7 de la Convention du 25 juin 1988 sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement, les articles 2 à 9 de la directive 2001/42/CE du Parlement européen et du Conseil du 27 juin 2001 relative à l'évaluation des incidences de certains plans et programmes sur l'environnement, et le chapitre II du titre IV du présent décret, en raison de l'absence d'une évaluation de l'impact sur l'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-17/03, art. 3, 072; En vigueur : 24-07-2020&gt;
+
+**Art. 5.4.16**
+
+[<sup>1</sup> Le Gouvernement flamand établit de nouvelles normes sectorielles pour les installations destinées à l'exploitation de l'énergie éolienne pour la production d'électricité, qui entrent en vigueur dans un délai maximal de trois ans à partir de l'entrée en vigueur du présent article. Ces normes sectorielles sont soumises à une évaluation préalable des incidences sur l'environnement conformément au titre IV, chapitre II.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-17/03, art. 4, 072; En vigueur : 24-07-2020&gt;
+
+##### Sous-section 2. [<sup>1</sup> Validation spéciale des dispositions générales et sectorielles en matière d'hygiène de l'environnement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-03-21/06, art. 3, 082; En vigueur : 03-04-2025&gt;
+
+**Art. 5.4.17**
+
+[<sup>1</sup> L'arrêté du Gouvernement flamand du 19 janvier 1999 modifiant l'arrêté du Gouvernement flamand du 1er juin 1995 fixant les dispositions générales et sectorielles en matière d'hygiène de l'environnement est déclaré valable à partir de la date de son entrée en vigueur.
+
+La validation visée à l'alinéa 1er est limitée à l'absence de la justification requise dans le cadre du principe de standstill en matière de protection de l'environnement, découlant de l'article 1.2.1, § 2, et à l'absence de l'urgence requise et d'une justification cohérente à cet effet, pour demander le traitement d'urgence de la demande d'avis auprès de la section de Législation du Conseil d'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-03-21/06, art. 4, 082; En vigueur : 03-04-2025&gt;
+
+### CHAPITRE 5. - [<sup>1</sup> Organismes génétiquement modifiés ou organismes pathogènes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 207, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.5.1**
+
+[<sup>1</sup> § 1er. Toute personne physique ou morale qui introduit un dossier de notification ou une demande de permission ayant trait à des organismes génétiquement modifiés, des micro-organismes génétiquement modifiés ou des pathogènes, est sujette à une taxe de dossier.
+
+Le produit de la taxe de dossier, dont question au premier alinéa, est directement et intégralement versé au [<sup>2</sup> Fonds pour l'environnement]<sup>2</sup>.
+
+§ 2. La taxe de dossier s'élève à :
+
+1° pour une demande de permission afférente à une première utilisation ou à une utilisation confinée subséquente de niveau 2, 3 ou 4 : 500 euros ;
+
+2° pour une notification d'une première utilisation confinée d'un niveau de risque 1 ou pour une notification d'une utilisation confinée subséquente d'un niveau de risque 2 : 100 euros.
+
+§ 3. Le Gouvernement flamand peut fixer d'autres règles en matière de taxe de dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 208, 049; En vigueur : 23-02-2017 remplacé lui-même par DCFL 2015-12-18/24, art. 151&gt;
+
+(2)&lt;DCFL 2017-12-22/08, art. 77, 060; En vigueur : 01-01-2018&gt;
+
+**Art. 5.5.2**
+
+[<sup>1</sup> § 1er. Pour l'utilisation confinée d'organisme génétiquement modifiés ou d'organismes pathogènes, classés dans la première ou deuxième classe, outre le permis d'environnement pour l'établissement destiné à l'utilisation confinée d'organismes génétiquement modifiés ou d'organismes pathogènes, une notification ou permission est requise.
+
+Le Gouvernement flamand détermine le mode de notification et la manière dont la permission est demandée et traitée. Le Gouvernement flamand désigne l'autorité qui délivre les permissions et reçoit les notifications. L'autorité qui délivre la permission peut imposer des conditions à cette délivrance.
+
+§ 2. L'octroi de la permission est subordonné à la délivrance du permis d'environnement à l'établissement destiné à l'utilisation confinée d'organismes génétiquement modifiés ou d'organismes pathogènes.
+
+La notification pour l'utilisation confinée appartenant à la première ou la deuxième classe, prend effet au plus tôt après la délivrance du permis d'environnement à l'établissement destiné à l'utilisation confinée d'organismes génétiquement modifiés ou d'organismes pathogènes.
+
+§ 3. Si le permis d'environnement, visé au § 1er, expire, le droit de continuer l'utilisation confinée prend fin.
+
+En cas d'expiration, retrait, suspension, suppression ou annulation du permis d'environnement, visé au § 1er, le droit de continuer l'utilisation confinée est suspendu tant que le permis d'environnement est suspendu ou jusqu'à ce que le permis d'environnement, visé au § 1er, soit obtenu.
+
+Le droit de continuer l'utilisation confinée prend fin en tout cas si la date ultime mentionnée dans la permission a expiré.
+
+§ 4. Les conditions qui sont attachées à la permission par l'autorité compétente sont considérées comme les conditions, visées à l'article 72 du décret du 25 avril 2014 relatif au permis d'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 209, 049; En vigueur : 23-02-2017&gt;
+
+### CHAPITRE 6. - [<sup>1</sup> Agréments]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 210, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.6.1**
+
+[<sup>1</sup> Les dispositions du présent chapitre s'appliquent aux agréments prescrits par ou en vertu du titre V et des autres titres du présent décret, pour autant que ces titres fassent référence à l'application des dispositions du présent chapitre.
+
+Les dispositions du présent chapitre s'appliquent aux agréments prescrits par ou en vertu d'autres lois et décrets, pour autant que ces lois et décrets fassent référence à l'application des dispositions du présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 211, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.6.2**
+
+[<sup>1</sup> L'exercice de certaines fonctions, la dispense de formations, le prélèvement d'échantillons et l'exécution de mesures, d'épreuves et d'analyses par des personnes morales ou physiques peuvent être subordonnés à l'obtention préalable d'un agrément.
+
+Les agréments, mentionnés au premier alinéa, sont classés dans des catégories selon leur nature.
+
+Les personnes morales ou physiques titulaires d'un titre spécifique qui a été accordé par l'Autorité flamande, ou une organisation agréée par celle-ci, obtiennent de plein droit un agrément tel que visé au premier alinéa.
+
+Les personnes morales ou physiques titulaires d'un titre spécifique accordé par une autorité ou une organisation autre que l'autorité ou l'organisation visées au troisième alinéa dans un autre Etat membre de l'Espace économique européen ou en Belgique, obtiennent de plein droit un agrément, tel que visé au premier alinéa, si l'équivalence du titre à l'égard de l'agrément spécifique a été établie au préalable.
+
+Par dérogation au premier alinéa, seule une notification préalable peut être exigée de la personne non établie en Région flamande lors de l'exercice temporaire et occasionnel par celle-ci des actes soumis à l'agrément, visés au premier alinéa. Cette procédure est instituée à condition que l'exercice temporaire et occasionnel des actes spécifiques soit raisonnable de par la nature des actes et que les conditions n'aient trait qu'à la détention de qualifications professionnelles.
+
+Le Gouvernement flamand définit les fonctions, formations et actes, visés au premier alinéa, qui sont soumis à l'agrément, le cas échéant, à l'obligation de notification visée au cinquième alinéa. En outre, il arrête les modalités de la mise en oeuvre des dispositions des alinéa 2 à 5 inclus]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 212, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.6.3**
+
+[<sup>1</sup> Le Gouvernement flamand arrête, pour les différentes catégories d'agrément, les modalités relatives à la demande, au refus ou à l'octroi et à la publication des agréments. Il détermine les avis recueillis et la manière dont ils sont émis. En outre, il désigne les autorités et organisations amenées à se prononcer de manière motivée sur les demandes d'agrément.
+
+A sa demande, le demandeur d'un agrément est entendu par les autorités ou organisations visées au premier alinéa. Ces autorités ou organisations peuvent entendre le demandeur au sujet de sa prétention à un agrément de leur propre initiative.
+
+L'agrément est octroyé si les conditions définies par le Gouvernement flamand par catégorie d'agrément ou par agrément et publiées préalablement à la demande d'agrément, ont été remplies.
+
+Lors de l'application des conditions, visées au troisième alinéa, il est tenu compte de conditions équivalentes que le demandeur a déjà remplies dans un autre Etat membre européen ou une autre région en Belgique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 213, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.6.4**
+
+[<sup>1</sup> § 1er. L'autorité ou l'organisation qui doit se prononcer sur la demande d'agrément confirme, dans les trente jours, la réception du dossier du demandeur et l'informe, le cas échéant, au sujet des documents manquants. Dans un délai de nonante jours après l'introduction du dossier complet, l'autorité ou organisation compétente rend sa décision. L'autorité ou organisation compétente peut prolonger ce délai de trente jours au maximum.
+
+§ 2. Le Gouvernement flamand peut désigner les agréments qui sont considérés comme tacitement accordés lorsqu'aucune décision quant à la demande d'agrément n'a été notifiée dans le délai qu'il a fixé.
+
+Le Gouvernement flamand ne peut prendre cette décision qu'après le constat que la pondération des intérêts par les autorités et organisations, visées à l'article 5.6.3, premier alinéa, lors de leurs décisions au sujet des demandes d'agrément, n'est pas indispensable dans tous les cas, pour des raisons obligatoires d'intérêt général, y compris l'intérêt légitime d'une tierce partie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 214, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.6.5**
+
+[<sup>1</sup> L'emploi d'agréments peut être soumis à des conditions d'emploi. Ces conditions d'emploi peuvent comprendre des évaluations périodiques dont les résultats peuvent entraîner [<sup>2</sup> la suspension ou]<sup>2</sup> la déchéance de droit de l'agrément.
+
+Le Gouvernement flamand définit les conditions d'emploi de même que les modalités de [<sup>2</sup> la suspension ou de]<sup>2</sup> la déchéance de droit des agréments.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 215, 049; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2017-12-08/06, art. 3, 059; En vigueur : 30-12-2017&gt;
+
+**Art. 5.6.6**
+
+[<sup>1</sup> Sans préjudice de l'application des dispositions du titre XVI, l'agrément peut être suspendu ou annulé par les autorités désignées par le Gouvernement flamand.
+
+Le Gouvernement flamand définit les cas dans lesquels on peut procéder à la suspension ou à l'annulation. Le détenteur d'un agrément est entendu à sa demande. Le Gouvernement flamand arrête les modalités de la procédure à suivre en cas de suspension ou d'annulation de l'agrément.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 216, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.6.7**
+
+[<sup>1</sup> Toute personne morale ou physique qui a soumis une demande d'agrément peut être sujette à une redevance pour le traitement de la demande d'agrément. Une pareille redevance peut être demandée pour l'exercice du suivi des conditions d'agrément et d'emploi. Le Gouvernement flamand définit les agréments ou les obligations de suivi pour lesquels une redevance est due et fixe les montants, de même que le mode de paiement de la redevance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-04-25/M4, art. 217, 049; En vigueur : 23-02-2017&gt;
+
+**Art. 5.6.8**
+
+[<sup>1</sup>§ 1er. Le Gouvernement flamand désigne les autorités et les organisations qui agissent en tant que responsables du traitement tel que visé à l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, ou en tant que receveur pour le traitement des données à caractère personnel dans le cadre du présent chapitre et des missions de surveillance visées au titre XVI du présent décret, en ce qui concerne les agréments.
+
+Les autorités et organisations visées à l'alinéa 1er, traitent des données à caractère personnel pour l'exécution des tâches visées au présent chapitre, et des missions de surveillance visées au titre XVI du présent décret, en ce qui concerne les agréments. Le traitement des données à caractère personnel est nécessaire pour et lors de l'exécution d'une tâche d'intérêt général confiée aux responsables du traitement.
+
+§ 2. Le traitement des données à caractère personnel visé au paragraphe 1er, concerne les catégories suivantes de données à caractère personnel :
+
+1° le nom ;
+
+2° le numéro de registre national ou le numéro BIS si l'on ne dispose pas d'un numéro de registre national ;
+
+3° les données d'adresse ;
+
+4° les coordonnées ;
+
+5° les données relatives à la formation et à l'expérience ;
+
+6° les données professionnelles ;
+
+7° le numéro de certificat ;
+
+8° le numéro d'agrément ;
+
+9° les données relatives aux condamnations pénales et aux infractions telles que visées à l'article 10, du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE, en ce qui concerne les infractions à la législation environnementale en rapport avec l'utilisation d'un agrément ;
+
+10° les données relatives aux agréments suspendus et abrogés ;
+
+11° les données relatives aux contrôles effectuées de maintien environnemental ;
+
+12° les données relatives aux infractions à la législation environnementale.
+
+Les responsables du traitement prennent les mesures appropriées pour garantir l'exactitude des données à caractère personnel. Seules les personnes qui ont un besoin spécifique en vertu de leur fonction, rôle ou responsabilité de traiter ces données à caractère personnel ont accès à ces données.
+
+§ 3. Le traitement des données à caractère personnel visé au paragraphe 1er, concerne les catégories suivantes de personnes concernées :
+
+1° les personnes titulaires d'un titre visé à l'article 5.6.2, alinéa 3, accordé par une personne morale agréée conformément à l'article 5.6.3 ;
+
+2° les personnes agréées ;
+
+3° les personnes visées à une demande d'agrément ;
+
+4° les personnes soumises à un contrôle dans le cadre d'un agrément ;
+
+5° les prestataires de services pour l'exercice temporaire et occasionnel des actes soumis à l'agrément tels que visés à l'article 5.6.2 ;
+
+6° les parties intéressées dans le cadre d'un contrôle de la personne agréée.
+
+Pour les catégories de personnes concernées visées à l'alinéa 1er, 1° à 5°, les données à caractère personnel relatives aux condamnations pénales et aux infractions telles que les infractions à la législation environnementale, les données relatives aux agréments suspendus et abrogés et les données relatives aux contrôles effectués dans le cadre de maintien environnemental peuvent être traitées.
+
+Les responsables du traitement prennent des mesures pour fournir aux personnes concernées les informations visées aux articles 13 et 14 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) et les communications visées aux articles 15 à 22 et à l'article 34 du règlement (UE) 2016/679 précité concernant le traitement des données à caractère personnel d'une façon concise, transparente, compréhensible et aisément accessible.
+
+§ 4. La durée maximale de conservation des données à caractère personnel traitées sur la base du présent chapitre, en ce qui concerne les agréments, est de 20 ans après l'expiration de l'agrément.
+
+Le Gouvernement flamand peut préciser les règles relatives au traitement des données à caractère personnel, à la protection de ces données et aux garanties appropriées pour les droits et libertés des personnes concernées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/29, art. 30, 081; En vigueur : 20-07-2024&gt;
+
+## TITRE VI. [<sup>1</sup> - Conventions environnementales ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 2, 036; En vigueur : 01-01-2013&gt;
+
+### CHAPITRE Ier. - [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 3, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.1.1**
+
+[<sup>1</sup> Par convention environnementale, il faut entendre toute convention passée entre la Région flamande, dénommée ci-après la Région, qui est représentée à cet effet par le Gouvernement flamand, d'une part et une ou plusieurs organisations représentatives de coordination d'entreprises, dénommée ci-après l'organisation, d'autre part, en vue de prévenir la pollution de l'environnement, d'en limiter ou neutraliser les effets ou de promouvoir une gestion efficace de l'environnement. Le cas échéant, la Région et l'organisation peuvent également demander à d'autres acteurs d'être partenaire dans une convention environnementale.
+
+La Région pourra uniquement conclure des conventions environnementales avec des organisations qui sont à même d'établir qu'elles :
+
+1° jouissent de la personnalité civile;
+
+2° sont représentatives d'entreprises qui exercent une activité commune ou sont confrontées à un problème écologique commun ou sont implantées dans la même région;
+
+3° sont mandatés par leurs membres pour passer une convention environnementale avec la Région et de les engager par ce fait au sens de l'article 6.1.4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 4, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.1.2**
+
+[<sup>1</sup> Aucune convention environnementale ne peut remplacer la législation ou la réglementation en vigueur ni y déroger dans un sens moins restrictif.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 5, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.1.3**
+
+[<sup>1</sup> § 1er. Pendant la durée de validité de la convention environnementale, la Région ne mettra pas en vigueur par un arrêté d'exécution des règlements énonçant relativement aux questions réglées par la convention environnementale des conditions plus restrictives que celles requises par celle-ci. La Région conserve néanmoins le pouvoir de prendre des dispositions réglementaires en cas d'urgence ou afin de satisfaire à des obligations de droit international ou européen. Avant d'user de cette compétence, la Région se concertera avec les autres parties contractantes de la convention environnementale.
+
+La Région est habilitée à porter dans un règlement, intégralement ou en partie, les dispositions d'une convention environnementale, même pendant la durée de validité de celle-ci.
+
+§ 2. Une convention environnementale ne portera pas atteinte à la compétence d'autres autorités que la Région.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 6, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.1.4**
+
+[<sup>1</sup> La convention environnementale est obligatoire pour les parties contractantes. Suivant les clauses de la convention, elle sera également obligatoire pour tous les membres de l'organisation ou une partie de ses membres définis en des termes généraux.
+
+La convention est obligatoire de droit pour les entreprises qui adhèrent à l'organisation après la conclusion de la convention. Les membres d'un organisme qui a conclu une convention environnementale ne peuvent se soustraite à leurs obligations en renonçant à leur affiliation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 7, 036; En vigueur : 01-01-2013&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Réalisation, affiliation, modification et fin]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 8, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.2.1**
+
+[<sup>1</sup> § 1er. Avant le début des négociations sur une convention environnementale, une note de départ est élaborée. La note de départ motive le choix pour l'instrument 'convention environnementale' et décrit les principaux objectifs et les lignes directrices pour la convention environnementale qui fera l'objet des négociations.
+
+Le Gouvernement flamand arrête les modalités de l'élaboration de la note de départ.
+
+§ 2. Une consultation est organisée sur la note de départ, au sein de laquelle chacun peut formuler des objections et des remarques pendant au moins trente jours. A cet effet,
+
+1° la note de départ est transmise au Conseil Mina et au Président du Parlement flamand;
+
+2° le site web sur lequel la note de départ est disponible, est notifié aux autres intéressés. Le Conseil Mina rend un avis dans les trente jours suivant la réception de la note de départ.
+
+Le Gouvernement flamand :
+
+1° arrête les modalités relatives à l'organisation de la consultation et relatives au mode de traitement des objections et remarques formulées;
+
+2° approuve la note de départ. Si le Conseil Mina rend avis sur la note de départ, le Gouvernement flamand explique dans un rapport de quelle manière il a été ou non tenu compte des remarques et suggestions d'adaptation de l'avis du Conseil Mina.
+
+§ 3. Le projet de convention environnementale est communiqué au Gouvernement flamand.
+
+§ 4. Une consultation est organisée sur le projet de convention environnementale, au sein de laquelle chacun peut formuler des objections et des remarques pendant au moins trente jours. A cet effet,
+
+1° une synthèse du projet de convention environnementale est publiée au Moniteur belge, à l'initiative de la Région. La synthèse mentionnera au moins l'objet et la portée générale de la convention environnementale et indiquer le site web sur lequel le projet de la convention est disponible.
+
+2° le projet de convention environnementale est transmise au Conseil Mina et au Président du Parlement flamand;
+
+3° le site web sur lequel la convention environnementale est disponible, est notifié aux autres intéressés.
+
+Le Gouvernement flamand :
+
+1° arrête les modalités relatives à l'organisation de la consultation et relatives au mode de traitement des objections et remarques formulées;
+
+2° approuve la convention environnementale.
+
+§ 5. Une convention environnementale est publiée entièrement au Moniteur belge après la signature par les parties.
+
+Sauf stipulation contraire, une convention environnementale entre en vigueur le lendemain de sa publication au Moniteur belge.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 9, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.2.2**
+
+[<sup>1</sup> Une organisation regroupant des entreprises qui satisfait aux conditions visées à l'article 6.1.1, peut uniquement adhérer à une convention environnementale avec l'assentiment de la Région. Le Gouvernement flamand fixe la procédure à cet effet. L'affiliation est publiée au Moniteur belge. La convention environnementale devient obligatoire pour l'organisation adhérente le jour de la publication. Suivant les clauses de l'acte d'adhérence, la convention sera également obligatoire pour tous les membres de l'organisation adhérente ou une partie de ses membres définis en des termes généraux. Du fait de son adhérence, l'organisation adhérente devient une des parties contractantes de la convention environnementale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 10, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.2.3**
+
+[<sup>1</sup> Toute convention environnementale est conclue pour une certaine période qui ne pourra en aucun cas être supérieure à huit ans. Une convention environnementale ne peut être renouvelée tacitement.
+
+Les parties peuvent convenir de la renouveler pendant le délai de validité. Dans ce cas, les dispositions de l'article 6.2.1, § 4, doivent être appliquées. Les modifications sont publiées au Moniteur belge. Elles sont obligatoires pour quiconque était déjà lié auparavant par la convention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 11, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.2.4**
+
+[<sup>1</sup> Les parties peuvent résilier à tout moment la convention environnementale, moyennant le respect d'un délai de préavis. Sauf stipulation contraire dans la convention, ce délai est de six mois. En aucun cas le délai de préavis détermine dans la convention ne peut dépasser un an. Tout délai supérieur est réduit de droit à un an. Lorsque le préavis n'émane pas de la Région, la convention environnementale doit être résiliée conjointement par les autres parties. La notification de ce préavis se fait, sous peine de nullité, soit par lettre recommandée, soit par exploit d'huissier. Le délai de préavis prend cours à partir du premier jour du moins suivant la notification.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 12, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.2.5**
+
+[<sup>1</sup> Une convention environnementale prend fin de l'accord des parties contractantes ou à l'expiration du délai de validité ou par résiliation. La promulgation de la réglementation telle que visée à l'article 6.1.3 ne met pas fin à la convention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 13, 036; En vigueur : 01-01-2013&gt;
+
+### CHAPITRE III. [<sup>1</sup> - Contrôle et rapport]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 14, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.3.1**
+
+[<sup>1</sup> La convention environnementale détermine les modalités de contrôle quant au respect de ses dispositions.
+
+En cas d'infraction aux dispositions d'une convention environnementale, quiconque est lié par la convention peut requérir des mesures coercitives en nature ou équivalentes contre le contrevenant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 15, 036; En vigueur : 01-01-2013&gt;
+
+**Art. 6.3.2**
+
+[<sup>1</sup> L'organisation soumet un rapport annuel sur l'exécution de la convention environnementale. Tous les deux ans, le Gouvernement flamand présente un rapport au Parlement flamand sur l'exécution de la convention environnementale.
+
+La forme et les conditions qui doivent être respectées par rapport à ce rapport sont déterminées par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-11-16/04, art. 16, 036; En vigueur : 01-01-2013&gt;
+
+## TITRE VIII. [<sup>1</sup> - Climat]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 2, 041; En vigueur : 06-05-2014&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 3, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.1.1**
+
+[<sup>1</sup> Le présent décret prévoit, pour ce qui concerne les compétences de la Région flamande, la transposition de la Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la Directive 96/61/CE du Conseil, telle que modifiée jusqu'à ce jour.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 4, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.1.2**
+
+[<sup>1</sup> Dans le présent titre, on entend par:
+
+1° [<sup>3</sup> autorité compétente: l'instance désignée conformément à l'article 18 de la directive 2003/87/CE, à savoir [<sup>4</sup> la VEKA]<sup>4</sup>;]<sup>3</sup>
+
+2° établissement BKG : une unité fixe technique dans laquelle une ou plusieurs des activités et processus, tels que décrits à la liste de classification à l'annexe Ire, du titre Ier du VLAREM, et désignés par la lettre Y dans la quatrième colonne de la liste de classification a l'annexe Ire, du titre Ier du VLAREM, ainsi que d'autres activités s'y rapportant directement et réalisées au même endroit qui ont un lien techniques avec les activités précitées et qui sont susceptibles d'avoir des incidences sur les émissions et la pollution ;
+
+3° gaz à effet de serre : dioxyde de carbone (CO2), méthane (CH4), protoxyde d'azote (N2O), hydrocarbures fluorés (HFC), hydrocarbures perfluorés (PFC) ou hexafluorure de soufre (SF6) ;
+
+[<sup>5</sup> 3° /1 CORSIA : Carbon Offsetting and Reduction Scheme for International Aviation, le régime de compensation et de réduction du carbone pour l'aviation internationale tel que décidé par l'Organisation de l'aviation civile internationale (OACI) le 27 juin 2018 ;
+
+3° /2 exploitant d'aéronefs CORSIA : un transporteur aérien relevant de l'article 1er du règlement délégué (UE) 2019/1603, et répondant à l'un des critères suivants :
+
+a) il dispose d'une licence d'exploitation valable et accordée par la Belgique conformément au règlement (CE) 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté ;
+
+b) il ne dispose pas d'une licence d'exploitation accordée par un Etat membre de l'Union européenne, ou d'une licence équivalente accordée par un pays tiers, ou d'un code OACI, et le siège social de la personne morale est situé en Belgique.
+
+N'est pas considéré comme un exploitant d'aéronefs CORSIA : un transporteur aérien figurant à l'annexe du règlement (CE) 748/2009 de la Commission du 5 août 2009 concernant la liste des exploitants d'aéronefs ayant exercé une activité aérienne visée à l'annexe Ire de la directive 2003/87/CE à compter du 1er janvier 2006 et précisant l'Etat membre responsable de chaque exploitant d'aéronefs, qui a un Etat membre responsable autre que la Belgique conformément à ladite annexe ;]<sup>5</sup>
+
+4° première période d'engagement : la période qui court du 1er janvier 2008 au 31 décembre 2012 inclus ;
+
+5° [<sup>6</sup> 5° émission : l'émission de gaz à effet de serre provenant de sources présentes dans une installation GES, l'émission de gaz à effet de serre provenant d'un aéronef exerçant une activité aérienne, ou l'émission de CO2 résultant de la combustion de combustibles destinés à la consommation]<sup>6</sup> ;
+
+6° quota d'émission : un droit transférable autorisant l'émission d'une tonne d'équivalent-CO2 de gaz à effet de serre au cours d'une certaine période commerciale ;
+
+[<sup>5</sup> 6° /1 règlement délégué (UE) 2019/1603 : le règlement délégué (UE) 2019/1603 de la Commission du 18 juillet 2019 complétant la directive 2003/87/CE du Parlement européen et du Conseil en ce qui concerne les mesures adoptées par l'Organisation de l'aviation civile internationale relatives à la surveillance, à la déclaration et à la vérification des émissions de l'aviation aux fins de l'application d'un mécanisme de marché mondial ;]<sup>5</sup>
+
+7° période commerciale : la première période d'engagement ou la deuxième période d'engagement ;
+
+[<sup>6</sup> 7° /1 lignes directrices du GIEC : les lignes directrices élaborées par le Groupe d'experts intergouvernemental sur l'évolution du climat pour les inventaires nationaux de gaz à effet de serre de 2006, ou les révisions ultérieures de ces lignes directrices ;]<sup>6</sup>
+
+8° fonds climatique : le " Vlaams Klimaatfonds " (Fonds climatique flamand), créé par l'article 14 du décret du 13 juillet 2012 contenant diverses mesures d'accompagnement du deuxième ajustement du budget 2012 :
+
+9° gestionnaire d'aéroport : la personne morale de droit public ou de droit privé qui est responsable pour l'aéroport auquel sont imputées la plupart des activités aériennes de l'exploitant d'aéronefs pendant l'année de référence [<sup>2</sup> Dans le cas où autant d'activités aériennes sont attribuées à plusieurs aérodromes, le gestionnaire d'aérodrome est la personne morale de droit public ou la personne morale de droit privé responsable de l'aérodrome pour lequel les émissions de CO2 des activités aériennes qui lui sont attribuées sont les plus grandes.]<sup>2</sup>;
+
+10° activité aérienne : une activité telle que mentionnée à l'annexe VI au présent décret ;
+
+[<sup>6</sup> 10° /1 plan de surveillance : un document destiné à la surveillance des émissions ;]<sup>6</sup>
+
+11° Commission nationale Climat : la commission, visée à l'article 3 de l'accord de coopération du 14 novembre 2002 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'établissement, l'exécution et au suivi d'un Plan national Climat, ainsi que l'établissement de rapports, dans le cadre de la Convention-cadre des Nations Unies sur les Changements climatiques et du Protocole de Kyoto ;
+
+12° période : la durée pour laquelle un volume fixe de droits d'émissions est attribué, destiné pour couvrir les émissions d'une activité aéronautique, en l'occurrence du 1er janvier au 31 décembre 2012 inclus (première période), du 1er janvier 2013 au 31 décembre 2020 inclus (deuxième période) etc. ;
+
+13° Protocole de Kyoto : le Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements climatiques, fait à Kyoto le 11 décembre 1997 et approuvé par le décret du 22 février 2002 ;
+
+14° année de référence : en ce qui concerne l'exploitant d'aéronefs ayant commencé son exploitation dans la Communauté après le 1er janvier 2006, la première année calendaire de cette exploitation; dans tous les autres cas, l'année calendaire ayant commencée le 1er janvier 2006 ;
+
+15° Directive 2003/87/CE : Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la Directive 96/61/CE du Conseil ;
+
+16° accord de coopération du 2 septembre 2006 : l'accord de coopération du 2 septembre 2013 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'intégration d'activités aériennes dans le système communautaire d'échange de quotas d'émissions de gaz à effet de serre conformément à la Directive 2008/101/CE du Parlement européen et du Conseil du 19 novembre 2008 modifiant la Directive 2003/87/CE afin d'intégrer les activités aériennes dans le système communautaire d'échange de quotas d'émission de gaz à effet de serre ;
+
+17° tonne d'équivalent-CO2 : une tonne métrique de dioxyde de carbone (CO2) ou une quantité de tout autre gaz à effet de serre ayant un potentiel de réchauffement planétaire équivalent ;
+
+18° deuxième période d'engagement : la période qui court du 1er janvier 2013 au 31 décembre 2020 inclus ;
+
+[<sup>4</sup> 18° /1 VEKA : l'agence visée au titre II de l'Arrêté relatif à l'énergie du 19 novembre 2010 ;]<sup>4</sup>
+
+19° [<sup>5</sup> règlement d'exécution (UE) 2018/2067 : le règlement d'exécution (UE) 2018/2067 de la Commission du 19 décembre 2018 concernant la vérification des données et l'accréditation des vérificateurs conformément à la directive 2003/87/CE du Parlement européen et du Conseil ;]<sup>5</sup>
+
+20° exploitant d'aéronefs : la personne exploitant un aéronef au moment où ce dernier effectue une activité aéronautique à définir par le Gouvernement flamand, ou, lorsque cette personne n'est pas connue ou n'est pas identifiée par le propriétaire de l'aéronef, le propriétaire de l'aéronef.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 5, 041; En vigueur : 06-05-2014&gt;
+
+(2)&lt;DCFL 2016-11-18/11, art. 2, 051; En vigueur : 23-12-2016&gt;
+
+(3)&lt;DCFL 2017-10-27/06, art. 14, 058; En vigueur : 07-12-2017&gt;
+
+(4)&lt;DCFL 2020-12-04/08, art. 8, 073; En vigueur : 01-01-2021&gt;
+
+(5)&lt;DCFL 2022-07-08/16, art. 2, 076; En vigueur : 23-09-2022&gt;
+
+(6)&lt;DCFL 2026-04-03/19, art. 3, 090; En vigueur : 10-05-2026&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Dispositions relatives aux établissements BKG]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 6, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.2.1**
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand impose comme condition d'exploitation aux établissements BKG et qui sont régis par la Directive 2003/87/CE, la détention d'une autorisation d'émettre des gaz à effet de serre. Sur la base des conditions applicables à l'établissement BKG, qui sont reprises à ladite autorisation d'émettre des gaz à effet de serre, un certain nombre de quotas, à l'exception des quotas octroyés aux exploitants des aéronefs, est soumis annuellement auprès du registre national conformément à la quantité des gaz à effet de serre émis dans l'année précédente.
+
+Dans le premier alinéa, on entend par registre national : le registre tel que défini dans l'accord de coopération du 18 juin 2008 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'organisation et à la gestion administrative du système de registre normalisé et sécurisé de la Belgique conformément à la Directive 2003/87/CE du Parlement européen et du Conseil et de la décision n° 280/2004/CE du Parlement européen et du Conseil.
+
+§ 2. Le Gouvernement flamand arrête les conditions de l'autorisation d'émettre des gaz à effet de serre et les règles pour le contrôle et le rapportage des émissions, la vérification de ces rapports et la restitution des quotas d'émission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 7, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.2.2**
+
+[<sup>1</sup> En conformité avec la Directive 2003/87/CE, le Gouvernement flamand arrête :
+
+1° la quantité globale de quotas d'émission alloués par période commerciale aux établissements BKG établis en Région flamande ;
+
+2° le mode d'allocation des quotas aux établissements BKG en question ;
+
+3° les modalités de l'attribution, de la demande d'une attribution, la prolongation, la cessation de l'attribution, la suspension de l'attribution, la validité et l'annulation des quotas d'émission ;
+
+4° les règles pour l'établissement et le contrôle d'un registre sous la forme d'une base de données électronique par voie de laquelle les droits d'émission sont émis, conservés, transférés et annulés ;
+
+5° les modalités pour la fixation des limites d'un établissement BKG ;
+
+6° les modalités pour l'utilisation de mécanismes flexibles par les établissements BKG.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 8, 041; En vigueur : 06-05-2014&gt;
+
+### CHAPITRE III. [<sup>1</sup> - Dispositions relatives aux exploitants d'aéronefs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 9, 041; En vigueur : 06-05-2014&gt;
+
+#### Section 1re. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 10, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.3.1**
+
+[<sup>1</sup> Une activité aéronautique est attribuée à un aéroport lorsque cette activité départ de cet aéroport ou lorsqu'elle atterrit à cet aéroport, à condition que le vol ne départe pas d'un état membre auquel s'applique le Traité instituant la Communauté européenne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 11, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.3.2**
+
+[<sup>1</sup> L'autorité compétente de chaque exploitant d'aéronefs, relevant de la compétence administrative de la Belgique, est mentionnée à la liste qui est publiée par l'administrateur du registre conformément à l'article 4 de l'accord de coopération du 2 septembre 2013.
+
+[<sup>2</sup> Dans l'alinéa 1er on entend par administrateur de registre : l'administrateur national belge au sens du règlement (UE) 389/2013 de la Commission du 2 mai 2013 établissant un registre de l'Union conformément à la directive 2003/87/CE du Parlement européen et du Conseil et aux décisions 280/2004/CE et 406/2009/CE du Parlement européen et du Conseil et abrogeant les règlements (UE) 920/2010 et 1193/2011 de la Commission.]<sup>2</sup>
+
+La Région flamande est l'autorité compétente pour chaque exploitant d'aéronefs relevant de la compétence administrative de la Belgique et à laquelle s'applique que l'aéroport qui est géré par le gestionnaire d'aéroport de l'exploitant d'aéronefs concerné, est situé sur le territoire de la Région flamande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 12, 041; En vigueur : 06-05-2014&gt;
+
+(2)&lt;DCFL 2022-07-08/16, art. 3, 076; En vigueur : 23-09-2022&gt;
+
+**Art. 8.3.3**
+
+[<sup>1</sup> En exécution de l'article 22 de l'accord de coopération du 2 septembre 2013, le Gouvernement flamand peut déterminer de déléguer les tâches des gestionnaires d'aéroport des aéroports situés sur le territoire de la Région flamande, à l'exception de Bruxelles National aéroport, portant sur l'exécution de l'accord de coopération du 2 septembre 2003, à l'autorité compétence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 13, 041; En vigueur : 06-05-2014&gt;
+
+#### Section 1bis. [<sup>1</sup> - Dérogations applicables par anticipation de la mise en oeuvre, d'ici 2020, d'une convention internationale sur l'application d'un mécanisme de marché mondial]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-11-18/11, art. 3, 051; En vigueur : 23-12-2016&gt;
+
+**Art. 8.3.3bis**
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 8.3.6, l'autorité compétente considère que les exigences visées aux articles précités sont satisfaites et ne prend aucune mesure à l'encontre des exploitants d'aéronefs en ce qui concerne :
+
+1° toutes les émissions de vols à destination et en provenance d'aérodromes situés dans des pays en dehors de l'Espace économique européen pour chaque année civile du 1er janvier 2013 au 31 décembre [<sup>2</sup> 2023]<sup>2</sup> inclus ;
+
+2° toutes les émissions de vols reliant un aérodrome situé dans une région ultrapériphérique au sens de l'article 349 du Traité sur le fonctionnement de l'Union européenne, et un aérodrome situé dans une autre région de l'Espace économique européen pour chaque année civile du 1er janvier 2013 au 31 décembre [<sup>2</sup> 2023]<sup>2</sup> inclus ;
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+Aux fins de l'article 8.3.6, §§ 2 et 3, les émissions vérifiées dues à des vols autres que les émissions visées à l'alinéa 1er [<sup>2</sup> ...]<sup>2</sup>, sont considérées comme des émissions vérifiées de l'exploitant d'aéronef.
+
+§ 2. Par dérogation à l'article 8.3.4, § 6, et à l'article 8.3.5, § 6, les exploitants d'aéronefs bénéficiant des dérogations temporaires visées au paragraphe 1er, alinéa 1er [<sup>2</sup> ...]<sup>2</sup>, reçoivent [<sup>2</sup> chaque année]<sup>2</sup>, à titre gratuit, un nombre de quotas réduit en proportion de la réduction de l'obligation de restitution des quotas visée au paragraphe 1er, alinéa 1er [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>2</sup> L'autorité compétente calcule le nombre de quotas d'émission alloués à titre gratuit conformément à l'alinéa 1er et publie ces chiffres au Moniteur belge.]<sup>2</sup>
+
+§ 3. Par dérogation à l'article 8.3.6, § 1er, les exploitants d'aéronefs ne sont pas tenus de présenter des plans de surveillance comportant des mesures de suivi et de déclaration des émissions pour les vols faisant objet des dérogations temporaires visées au paragraphe 1er, alinéa 1er [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. Par dérogation à l'article 8.3.6, §§ 2 et 4, [<sup>2</sup> les émissions d'un exploitant d'aéronefs ayant des émissions annuelles totales inférieures à 25 000 tonnes de CO2 ou d'un exploitant d'aéronefs ayant des émissions annuelles totales inférieures à 3 000 tonnes de CO2 provenant de vols autres que ceux visés au paragraphe 1er,]<sup>2</sup> sont considérées comme des émissions vérifiées si elles ont été déterminées à l'aide de l'outil pour petits émetteurs approuvé par le règlement (UE) n° 606/2010 de la Commission du 9 juillet 2010 portant approbation d'un instrument simplifié mis au point par l'Organisation européenne pour la sécurité de la navigation aérienne (Eurocontrol) afin d'estimer la consommation de carburant de certains exploitants d'aéronefs qui sont des petits émetteurs et sur lequel Eurocontrol enregistre des données provenant de son dispositif d'aide pour le SEQE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-11-18/11, art. 4, 051; En vigueur : 23-12-2016&gt;
+
+(2)&lt;DCFL 2022-07-08/16, art. 4, 076; En vigueur : 23-09-2022&gt;
+
+#### Section 1ter. [<sup>1</sup> - Mise en oeuvre de CORSIA.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-08/16, art. 5, 076; En vigueur : 23-09-2022&gt;
+
+**Art. 8.3.3ter**
+
+[<sup>1</sup> § 1er. Un exploitant d'aéronefs CORSIA qui s'est vu attribuer la Région flamande comme autorité compétente en vertu de l'article 8.3.2 a également la Région flamande comme autorité compétente aux fins de la mise en oeuvre de CORSIA.
+
+§ 2. Un exploitant d'aéronefs CORSIA auquel aucune autorité compétente n'a été attribuée en vertu de l'article 8.3.2 a la Région flamande comme autorité compétente aux fins de la mise en oeuvre de CORSIA, si :
+
+1° soit le siège social de la personne morale de l'exploitant d'aéronefs CORSIA est situé sur le territoire de la Région flamande ;
+
+2° soit la Commission nationale Climat a déterminé que la Région flamande est l'autorité compétente en vertu de l'article 20/2, § 2, alinéa 2 de l'accord de coopération du 2 septembre 2013.
+
+§ 3. L'autorité compétente de chaque exploitant d'aéronefs CORSIA est précisée sur la liste des exploitants d'aéronefs CORSIA publiée par l'administrateur du registre conformément à l'article 20/2, § 3 de l'accord de coopération du 2 septembre 2013.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-08/16, art. 6, 076; En vigueur : 23-09-2022&gt;
+
+**Art. 8.3.3quater**
+
+[<sup>1</sup> § 1. L'exploitant d'aéronefs CORSIA tel que visé à l'article 8.3.3ter, § 1er, soumet les plans de surveillance et les rapports sur les émissions pour la mise en oeuvre de CORSIA au gestionnaire de l'aéroport, qui les transmet immédiatement à l'autorité compétente.
+
+§ 2. L'exploitant d'aéronefs CORSIA tel que visé à l'article 8.3.3ter, § 2, soumet à l'autorité compétente les plans de surveillance et les rapports sur les émissions pour la mise en oeuvre de CORSIA.
+
+§ 3. L'autorité compétente est chargée d'approuver les plans de surveillance et les rapports sur les émissions pour la mise en oeuvre de CORSIA.
+
+§ 4. L'autorité compétente est chargée de calculer les obligations de compensation de carbone des exploitants d'aéronefs CORSIA conformément aux règles énoncées au chapitre 3 de l'annexe 16 de la convention relative à l'aviation civile internationale, volume IV - Régime de compensation et de réduction de carbone pour l'aviation internationale, adoptée par l'Organisation de l'aviation civile internationale (OACI) le 27 juin 2018.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-08/16, art. 7, 076; En vigueur : 23-09-2022&gt;
+
+#### Section 2. [<sup>1</sup> - Allocation de quotas d'émission à titre gratuit]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 14, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.3.4**
+
+[<sup>1</sup> § 1er. Un exploitant d'aéronefs dispose d'un plan de suivi des données relatives aux tonnes-kilomètres pour l'année de contrôle. Le plan de suivi des données relatives aux tonnes/kilomètres introduit par l'exploitant d'aéronefs est vérifié dans les quatre mois après son introduction et, le cas échéant, approuvé par l'autorité compétente et ratifié par la Commission nationale Climat.
+
+A l'alinéa premier, on entend par année de contrôle : pour les périodes du 1er janvier au 31 décembre 2012 inclus et du 1er janvier 2013 au 31 décembre 2020 inclus, l'année 2010 ; pour les périodes ultérieures, l'année civile qui se termine vingt-quatre mois avant le début de chaque période.
+
+§ 2 Afin de pouvoir faire l'objet d'une allocation gratuite de quotas d'émission pour la période, un exploitant d'aéronefs introduit un rapport vérifié sur les données relatives aux tonnes/kilomètres au plus tard vingt-et-un mois avant le début de la période.
+
+§ 3. Le rapport sur les données relatives aux tonnes/kilomètres, visé au paragraphe 2, ne peut avoir trait aux données relatives aux tonnes kilomètres pour la période pour laquelle l'exploitant d'aéronefs dispose d'un plan de monitoring approuvé sur les données relatives aux tonnes/kilomètres.
+
+L'autorité compétente contrôle si le rapport sur les données relatives aux tonnes/kilomètres a été vérifié conformément aux critères visés à l'annexe V de la Directive 2003/87/CE et du [<sup>3</sup> règlement d'exécution (UE) 2018/2067]<sup>3</sup>.
+
+§ 4. Le Gouvernement flamand peut arrêter les modalités et procédures relatives au contenu, à l'introduction, à la vérification et à l'approbation d'un plan de suivi des données relatives aux tonnes/kilomètres, tel que visé aux §§ 1er et 3.
+
+Le Gouvernement flamand peut arrêter les modalités et procédures relatives au contenu, à l'introduction, à la vérification et au contrôle du rapport sur les données relatives aux tonnes/kilomètres, tel que visé aux §§ 2 et 3.
+
+§ 5. L'autorité compétente transmet les rapports vérifiés sur les données relatives aux tonnes/kilomètres, reçus conformément au paragraphe 2, à la Commission nationale Climat au moins dix-neuf mois avant le début de la période sur laquelle portent les rapports. La Commission nationale Climat, à son tour, les transmet à la Commission européenne.
+
+§ 6. Dans les trois mois suivant la date à laquelle la Commission européenne prend sa décision relative aux Quotas d'émission, l'autorité compétente calcule et publie au Moniteur belge, les quantités suivantes :
+
+1° la quantité totale des quotas d'émission allouée pour la période concernée à chaque exploitant d'aéronefs dont le rapport sur les données relatives aux tonnes/kilomètres est introduite auprès de la Commission européenne conformément au paragraphe 5, [<sup>2</sup> calculée en multipliant les données relatives aux tonnes/kilomètres, reprises dans le rapport sur les données relatives aux tonnes/kilomètres, par le référentiel défini conformément à l'arrêté 2011/638/UE de la Commission du 26 septembre 2011 relative aux référentiels à utiliser pour allouer à titre gratuit des quotas d'émission de gaz à effet de serre aux exploitants d'aéronefs conformément à l'article 3sexies de la directive 2003/87/CE du Parlement européen et du Conseil ;]<sup>2</sup>;
+
+2° la quantité de quotas d'émission allouée pour chaque année de la période concernée à chaque exploitant d'aéronefs [<sup>2</sup> , qui est fixée en divisant la quantité totale des quotas d'émission calculée, visée au point 1°, pour la période concernée par le nombre d'années durant la période dans laquelle cet exploitant d'aéronefs exerce une activité aérienne telle que visée à l'annexe VI au présent décret]<sup>2</sup>.
+
+A l'alinéa premier, on entend par la décision relative aux Quotas d'émission : la décision de la Commission européenne, visé à l'article 3sexies, alinéa trois, de la Directive 2003/87/CE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 15, 041; En vigueur : 06-05-2014&gt;
+
+(2)&lt;DCFL 2016-11-18/11, art. 5, 051; En vigueur : 23-12-2016&gt;
+
+(3)&lt;DCFL 2022-07-08/16, art. 8, 076; En vigueur : 23-09-2022&gt;
+
+#### Section 3. [<sup>1</sup> - Allocation de quotas d'émission à titre gratuit de la réserve spéciale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 16, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.3.5**
+
+[<sup>1</sup> § 1er. Dans le présent article, on entend par la réserve spéciale : 3% de la quantité totale des quotas d'émission à allouer pour la période 2013-2020.
+
+§ 2. Un exploitant d'aéronefs est éligible à une allocation de quotas d'émission à titre gratuit de la réserve spéciale pour la période lorsqu'il introduit une demande avant le 30 juin pendant la troisième année de la période et lorsqu'il s'agit d'un exploitant d'aéronefs répondant aux conditions suivantes :
+
+1° il s'agit d'un exploitant d'aéronefs qui commence une activité aéronautique après l'année pour laquelle des données relatives aux tonnes/kilomètres ont été introduites conformément à l'article 8.3.4, § 2, ou
+
+2° il s'agit d'un exploitant d'aéronefs dont le nombre de tonnes/kilomètres a augmenté en moyenne de plus de 18% par an entre l'année de référence 2010, pour laquelle des données relatives aux tonnes/kilomètres ont été introduites, conformément à l'article 8.3.4, § 2, et la deuxième année de la période, et dont la l'activité supplémentaire visée au point 1°, ou l'activité supplémentaire visée à ce point n'est pas une continuation entière ou partielle d'une activité aéronautique effectuée auparavant par un autre exploitant d'aéronefs.
+
+La demande comporte un rapport vérifié des données relatives aux tonnes/kilomètres pour la deuxième année de la période et des preuves certifiant que l'exploitant d'aéronefs répond aux critères visés aux points 1° ou 2°.
+
+§ 3. Le rapport sur les données relatives aux tonnes/kilomètres, visé au paragraphe 2, ne peut avoir trait qu'aux données relatives aux tonnes kilomètres pour la période pour laquelle l'exploitant d'aéronefs dispose d'un plan de monitoring approuvé sur les données relatives aux tonnes/kilomètres.
+
+L'autorité compétente contrôle si le rapport sur les données relatives aux tonnes/kilomètres a été vérifié conformément aux critères visés à l'annexe V de la Directive 2003/87/CE et du [<sup>2</sup> règlement d'exécution (UE) 2018/2067]<sup>2</sup>.
+
+§ 4. Le Gouvernement flamand peut arrêter les modalités et procédures relatives au contenu, à l'introduction, à la vérification et au contrôle du rapport sur les données relatives aux tonnes/kilomètres, tel que visé aux §§ 2 et 3.
+
+Le Gouvernement flamand peut arrêter les modalités et procédures relatives au contenu, à l'introduction et à l'approbation de la demande en vue de pouvoir faire l'objet d'une allocation gratuite des quotas d'émission provenant de la réserve spéciale pour la période 2013-2020 et peut arrêter les modalités d'une allocation gratuite des quotas d'émission provenant de la réserve spéciale pour la période.
+
+§ 5. L'autorité compétente transmet les demandes reçues conformément au paragraphe 2 à la Commission nationale Climat au plus tard le 30 septembre de la troisième année de la période à laquelle elles on trait. La Commission nationale Climat, à son tour, transmet les demandes à la Commission européenne.
+
+§ 6. Dans les trois mois suivant la date à laquelle la Commission européenne prend sa Décision relative aux quotas d'émission spéciaux de réserve, l'autorité compétente calcule et publie au Moniteur belge, les quantités suivantes :
+
+1° la quantité totale des quotas d'émission allouée pour la période concernée à chaque exploitant d'aéronefs dont la demande est introduite auprès de la Commission européenne conformément au paragraphe 5 ;
+
+2° la quantité de quotas d'émission allouée à chaque exploitant d'aéronefs pour chaque année calendaire entière restante pendant la période.
+
+A l'alinéa premier, on entend par l'Arrêté relatif aux quotas d'émission de réserve spéciaux : la décision de la Commission européenne, visée à l'article 3septies, alinéa cinq, de la Directive 2003/87/CE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 17, 041; En vigueur : 06-05-2014&gt;
+
+(2)&lt;DCFL 2022-07-08/16, art. 9, 076; En vigueur : 23-09-2022&gt;
+
+#### Section 4. [<sup>1</sup> - Plan de surveillance des émissions et rapport sur les émissions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 18, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.3.6**
+
+[<sup>1</sup> § 1er. Un exploitant d'aéronefs dispose annuellement au plus tard le 1er janvier d'un plan de surveillance des émissions. Le plan de surveillance des émissions est vérifié dans les quatre mois après son introduction par l'exploitant d'aéronefs et, le cas échéant, approuvé par l'autorité compétente. Les plans de surveillance des émissions approuvés sont présentés par l'autorité compétente pour ratification à la Commission nationale climat.
+
+En dérogation à l'alinéa premier, le Gouvernement flamand décide à partir de quel moment un exploitant d'aéronefs commençant une activité aéronautique après le 31 décembre 2012, doit disposer d'un plan de surveillance des émissions approuvé. L'exploitant d'aéronefs adapte son plan de surveillance des émissions approuvé, et le présente à nouveau pour approbation à l'autorité compétente, si des modifications arrêtées par le Gouvernement flamand surviennent pendant l'année calendaire courante ayant un impact sur la méthodologie de surveillance. Le plan de surveillance des émissions est vérifié dans les quatre mois après son introduction par l'exploitant d'aéronefs et, le cas échéant, approuvé par l'autorité compétente.
+
+Le Gouvernement flamand peut arrêter les modalités et procédures relatives au contenu, à l'introduction, à la vérification et à l'approbation d'un plan de surveillance des émissions et relatives à leur modification ou correction.
+
+§ 2. Chaque année, au plus tard le deuxième jeudi du mois de mars, l'exploitant d'aéronefs introduit un rapport satisfaisant vérifié des émissions, ensemble avec le rapport de vérification. L'autorité compétente contrôle si le rapport sur les émissions a été vérifié conformément aux critères, visés à l'annexe V de la Directive 2003/87/CE et du Règlement n° 600/2012 et l'approuve, le cas échéant.
+
+Un exploitant d'aéronefs dont le rapport sur les émissions de l'année calendaire précédente n'a pas été vérifié comme étant satisfaisant au plus tard le 31 mars de l'année courante, ne peut plus transférer des quotas d'émission, jusqu'à ce que le rapport ait été vérifié comme étant satisfaisant.
+
+§ 3. Le Gouvernement flamand peut arrêter les modalités et procédures relatives au contenu, à l'introduction, à la vérification et à l'approbation d'un rapport sur les émissions.
+
+§ 4. Un exploitant d'aéronefs doit annuellement restituer au plus tard le 30 avril des quotas d'émission en vue de couvrir les émissions CO2 de l'année précédente.
+
+Le Gouvernement flamand peut arrêter des modalités et des procédures pour la restitution de quotas d'émission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 19, 041; En vigueur : 06-05-2014&gt;
+
+### CHAPITRE III.bis [<sup>1</sup> Dispositions relatives au secteur du bâtiment, au secteur du transport routier et à d'autres secteurs ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 4, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6bis**
+
+[<sup>1</sup> Dans le présent chapitre, on entend par :
+
+1° autres secteurs : toutes les émissions résultant de la combustion et de l'évaporation de combustibles dans l'industrie de transformation et de traitement, dans le secteur de la construction et dans les industries énergétiques, à l'exception des installations de cogénération et des centrales thermiques relevant du secteur du bâtiment, conformément aux lignes directrices du GIEC, et plus précisément aux codes de catégorie de source 1A2 et 1A1 ;
+
+2° combustible : tout produit énergétique tel que visé à l'article 415, § 1er, de la loi-programme du 27 décembre 2004, à l'exception de l'électricité et y compris les combustibles visés aux tableaux A et C de l'annexe Ire à la directive 2003/96/CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité, et tout autre produit destiné à être utilisé, mis en vente ou utilisé comme carburant ou combustible tel que visé aux articles 416 et 417 de la loi précitée, y compris pour la production d'électricité ;
+
+3° consommateur final : toute personne physique ou morale qui est le consommateur final de combustible et dont la consommation annuelle de combustible ne dépasse pas 1 tonne de CO2 ;
+
+4° secteur du bâtiment : toutes les émissions résultant de la combustion et de l'évaporation de combustibles dans les bâtiments commerciaux et institutionnels, dans les bâtiments résidentiels, ainsi que celles provenant des installations de cogénération et des centrales thermiques, à condition qu'elles produisent de la chaleur, directement ou via des réseaux de chauffage urbain, pour les bâtiments commerciaux et institutionnels et les bâtiments résidentiels, conformément aux lignes directrices du GIEC, plus précisément les codes de catégorie de source 1A4a, 1A4b, 1A1a ii et 1A1a iii ;
+
+5° entité réglementée : chacune des personnes physiques ou morales suivantes identifiées sur la base du siège social ou de la résidence habituelle, à l'exception du consommateur final des combustibles qui exerce les activités visées à l'article 8.3.6ter., § 1er, alinéa 1er :
+
+a) si le combustible passe par un entrepôt fiscal tel que visé à l'article 5, § 1er, 9°, de la loi du 22 décembre 2009 : l'entrepositaire agréé visé à l'article 5, § 1er, 8°, de la loi précitée, qui doit payer les accises en vertu de l'article 7 de la loi précitée ;
+
+b) si le point a) ne s'applique pas, toute autre personne physique ou morale qui doit payer les accises sur les combustibles en vertu de l'article 7 de la loi du 22 décembre 2009 ou des articles 421, 422, 424, § 1er et § 2, et de l'article 425 de la loi-programme du 27 décembre 2004 ;
+
+c) si les points a) et b) ne s'appliquent pas, toute autre personne physique ou morale tenue d'être enregistrée par les autorités belges compétentes concernées pour payer les accises, y compris les personnes physiques ou morales exemptées du paiement des accises visées à l'article 425, alinéa 1er, de la loi-programme du 27 décembre 2004 ;
+
+d) si les points a), b) et c) ne s'appliquent pas ou si plusieurs personnes physiques ou morales sont tenues solidairement de payer les mêmes accises : toute autre personne physique ou morale désignée par les autorités compétentes ;
+
+6° mise à la consommation : la mise à la consommation telle que visée à l'article 6, § 2, de la loi du 22 décembre 2009 ;
+
+7° secteur du transport routier : toutes les émissions résultant de la combustion et de l'évaporation des carburants dans les véhicules, à l'exception de l'utilisation de véhicules agricoles sur les routes revêtues et sur les terrains non revêtus, conformément aux lignes directrices du GIEC, plus précisément au code de catégorie de source 1A3b ;
+
+8° loi du 22 décembre 2009 : la loi du 22 décembre 2009 relative au régime général d'accise. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 5, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6ter.**
+
+[<sup>1</sup> § 1er. Le présent chapitre s'applique à la mise à la consommation de combustibles utilisés pour la combustion dans le secteur du bâtiment, le secteur du transport routier et d'autres secteurs, à l'exclusion des éléments suivants :
+
+1° la mise à la consommation de combustibles utilisés par des installations GES, par des exploitants aériens dans le cadre d'activités aériennes ou par des compagnies maritimes dans le cadre d'activités de transport maritime, sauf s'ils sont utilisés pour la combustion dans le cadre des activités de transport de gaz à effet de serre pour stockage géologique dans un site de stockage pour lequel une autorisation est accordée en vertu de la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone et modifiant la directive 85/337/CEE du Conseil, les directives 2000/60/CE, 2001/80/CE, 2004/35/CE, 2006/12/CE et 2008/1/CE et le règlement (CE) n° 1013/2006 du Parlement européen et du Conseil ;
+
+2° uniquement la mise à la consommation de combustibles pour lesquels le facteur d'émission est égal à zéro, conformément aux actes d'exécution visés à l'article 14, de la directive 2003/87/UE ;
+
+3° la mise à la consommation de déchets dangereux ou urbains utilisés comme combustibles.
+
+Les entreprises responsables de la mise à la consommation de carburants visés à l'alinéa 1er, points 1° à 3°, démontrent au moyen de pièces justificatives, qu'elles relèvent d'un ou de plusieurs des éléments visés à l'alinéa 1er.
+
+Le Gouvernement flamand arrête la procédure de déclaration à suivre pour les cas visés à l'alinéa 1er, 2°. Le Gouvernement flamand peut déterminer les pièces justificatives requises pour démontrer que le facteur d'émission du combustible concerné est égal à zéro.
+
+Le Gouvernement flamand détermine la procédure et les pièces justificatives nécessaires pour répondre à la condition visée à l'alinéa 1er. Le Gouvernement flamand peut imposer aux entreprises visées à l'alinéa 2, une obligation de rapportage périodique concernant la condition visée à l'alinéa 1er.
+
+Sans préjudice de l'application de l'alinéa 1er, l'article 8.3.6quinquies s'applique aux émissions de tous les carburants mis à la consommation.
+
+§ 2. Le Gouvernement flamand peut, en tenant compte de l'impact de l'extension sur le marché intérieur, d'éventuelles distorsions de concurrence, de l'intégrité environnementale du système d'échange de quotas d'émission mis en place en vertu du chapitre IIIbis, et de la fiabilité du système de surveillance et de rapportage mis en place en application du présent chapitre, étendre le champ d'application visé au § 1er, alinéa 1er, à d'autres secteurs que le secteur du bâtiment, le secteur du transport routier et d'autres secteurs.
+
+L'extension visée à l'alinéa 1er, est soumise au préalable à l'approbation de la Commission européenne. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 6, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6quater.**
+
+[<sup>1</sup> r. § 1er. Lorsque plusieurs personnes physiques ou morales sont tenues solidairement de payer les mêmes accises ou si les accises sont payées en plusieurs étapes, le Gouvernement flamand peut fixer les critères sur la base desquels l'autorité compétente désigne l'entité réglementée.
+
+Lorsqu'un carburant est simultanément importé et mis à la consommation conformément à l'article 6, § 2, d), de la loi du 22 décembre 2009, l'autorité compétente désigne le déclarant, tel que défini à l'article 5, 15° du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l'Union, en tant qu'entité réglementée.
+
+Lorsque le déclarant visé à l'alinéa 1er, est un représentant en douane indirect, ce dernier et la personne physique ou morale représentée peuvent conclure un accord écrit précisant les modalités d'exécution des obligations qui incombent au représentant en douane indirect en vertu du présent décret et de ses arrêtés d'application.
+
+§ 2. Le Gouvernement flamand peut définir les critères sur la base desquels l'autorité compétente désigne l'entité réglementée lorsqu'un carburant est importé d'un autre Etat membre de l'Union européenne ou d'un Etat membre faisant partie de l'Espace économique européen.
+
+§ 3. En cas d'utilisation mixte telle que prévue à l'article 53 de l'arrêté royal du 28 juin 2015 concernant la taxation des produits énergétiques et de l'électricité, l'autorité compétente désigne le titulaire de la plaque d'immatriculation, visé à l'article 53, § 1er, 2°, de cet arrêté royal, comme entité réglementée, pour les volumes de carburant consommés par le titulaire auxquels l'exonération visée à l'article 429, § 2, i), de la loi-programme du 27 décembre 2004 ne s'applique pas.
+
+Par dérogation à l'alinéa 1er, le Gouvernement flamand peut établir des règles spécifiques afin de centraliser les obligations visées aux articles 8.3.6quinquies, 8.3.6sexies, 8.3.6septies et 8.3.6octies du présent décret sous l'organisation du domaine politique de l'Emploi, de l'Economie, des Sciences, de l'Innovation, de l'Agriculture et de l'Economie sociale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 7, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6quinquies.**
+
+[<sup>1</sup> § 1er. A compter du 1er janvier 2025, chaque entité réglementée surveille, pour chaque année civile, les émissions correspondant aux quantités de carburant mises à la consommation, sur la base d'un plan de surveillance approuvé par l'autorité compétente, et déclare ces émissions l'année suivante, à compter de 2026, à l'autorité compétente au moyen d'un rapport annuel d'émission vérifié.
+
+Toute entité réglementée qui, au 1er janvier 2025, exerce une activité telle que visée à l'article 8.3.6ter, § 1er, alinéa 1er, déclare ses émissions historiques pour l'année 2024.
+
+§ 2. Conformément à l'article 30 septies de la directive 2003/87/CE et aux actes d'exécution visés à l'article 14, paragraphe 1er, à l'article 15 et à l'article 30 septies, paragraphes 3 et 5, de la directive 2003/87/CE adoptés par la Commission européenne, le Gouvernement flamand fixe tous les éléments suivants :
+
+1° les conditions et la procédure d'approbation du plan de surveillance visé au paragraphe 1er ;
+
+2° les conditions et la procédure de modification du plan de surveillance visé au paragraphe 1er ;
+
+3° les conditions et la procédure de vérification du rapportage visé au paragraphe 1er.
+
+Le Gouvernement flamand peut autoriser des mesures simplifiées de surveillance, de rapportage et de vérification pour des entités réglementées dont les émissions annuelles correspondant aux quantités de combustibles mis à la consommation sont inférieures à 1 000 tonnes d'équivalent CO2 conformément aux actes d'exécution visés à l'article 14, alinéa 1er, de la directive 2023/87/CE. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 8, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6sexies.**
+
+[<sup>1</sup> § 1er. A compter du 1er janvier 2025, l'exercice par une entité réglementée de l'activité visée à l'article 8.3.6ter, § 1, alinéa 1er, est soumis à l'octroi préalable d'un permis d'émission de gaz à effet de serre par l'autorité compétente.
+
+Une déclaration d'approbation du plan de surveillance délivrée par l'autorité compétente à une entité réglementée, telle que visée à l'article 7 de l'arrêté du Gouvernement flamand du 20 décembre 2024 relatif à la surveillance et à la déclaration des émissions de gaz à effet de serre des combustibles mis à la consommation et modifiant l'arrêté du Gouvernement flamand du 6 septembre 2019 relatif au système d'échange de quotas de gaz à effet de serre pour les installations fixes pour la période 2021-2030 est convertie en permis d'émission de gaz à effet de serre tel que visé à l'alinéa 1er.
+
+§ 2. Le Gouvernement flamand arrête les conditions et la procédure de demande du permis d'émission de gaz à effet de serre visé au paragraphe 1er. Cette demande comprend au moins les éléments suivants :
+
+1° l'entité réglementée, à savoir au moins le nom et l'adresse ;
+
+2° le type de combustible mis à la consommation par l'entité réglementée et la manière dont ces combustibles sont mis à la consommation ;
+
+3° l'utilisation finale ou les utilisations finales des combustibles mis à la consommation ;
+
+4° un plan de surveillance conforme aux actes d'exécution visés aux articles 14 et 30 septies de la directive 2003/87/CE, adoptés par la Commission européenne ;
+
+5° un résumé non technique de l'information visée aux points 1° à 4°.
+
+Le permis d'émission de gaz à effet de serre visé au paragraphe 1er, ne peut être délivré que si l'autorité compétente a la certitude que l'entité réglementée est en mesure de surveiller et de rapporter les émissions correspondant aux quantités de combustibles mises à la consommation.
+
+§ 3. Le Gouvernement flamand détermine la méthode d'octroi, le contenu et la validité du permis d'émission de gaz à effet de serre visé au paragraphe 1er. Ce permis d'émission de gaz à effet de serre comporte au moins les éléments suivants :
+
+1° le nom et l'adresse de l'entité réglementée ;
+
+2° une description de la manière dont l'entité réglementée met à la consommation les combustibles ;
+
+3° une liste des combustibles que l'entité réglementée met à la consommation ;
+
+4° un plan de surveillance conforme aux actes d'exécution visés aux articles 14 et 30septies de la directive 2003/87/CE, adoptés par la Commission européenne ;
+
+5° les obligations en matière de rapport conformément aux actes d'exécution visés aux articles 14 et 30 septies de la directive 2003/87/CE, adoptés par la Commission européenne ;
+
+6° une référence à l'obligation de restitution visée à l'article 8.3.6septies, § 1er, alinéa 1er.
+
+§ 4. " Le Gouvernement flamand fixe les conditions et la procédure de modification, de suspension et de révocation d'un permis d'émission de gaz à effet de serre. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 9, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6septies.**
+
+[<sup>1</sup> § 1er. A compter du 1er janvier 2029, pour les émissions de CO2 résultant de la combustion de combustibles mis à la consommation en 2028, l'entité réglementée remet chaque année, au plus tard le 31 mai, une quantité de quotas d'émission correspondant à la quantité d'émissions qu'elle a générées au cours de l'année civile précédente, majorée de la quantité d'émissions qu'elle a générées au cours des années précédentes et pour lesquelles aucun quota d'émission n'a encore été restitué.
+
+Par dérogation à l'alinéa 1er, l'obligation de restituer des quotas d'émission prend effet le 1er janvier 2029 si la Commission européenne a publié, au plus tard le 15 juillet 2026, au Journal officiel de l'Union européenne, un avis indiquant que les conditions visées à l'article 30duodecies de la directive 2003/87/CE, sont remplies.
+
+§ 2. Le Gouvernement flamand fixe, pour les droits d'émission visés au paragraphe 1er, les conditions et les procédures relatives :
+
+1° au transfert ;
+
+2° à la restitution ;
+
+3° à l'allocation ;
+
+4° à l'annulation. . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 10, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6octies.**
+
+[<sup>1</sup> Le Gouvernement flamand peut imposer aux entités réglementées des obligations de communiquer à l'autorité compétente des données précises, complètes et cohérentes concernant l'impact du système d'échange de quotas d'émission, afin d'étayer le rapportage conformément aux actes d'exécution visés à l'article 30septies, paragraphe 3, de la directive 2003/87/CE, et, le cas échéant, afin d'étayer les éventuelles mesures sociales d'accompagnement prises en application de l'article 30quinquies de la directive 2003/87/CE.
+
+Le Gouvernement flamand détermine la catégorisation ainsi que le délai et le mode de rapportage des données nécessaires visées à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 11, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6novies.**
+
+[<sup>1</sup> Une entité réglementée peut former un recours administratif contre les décisions de l'autorité compétente prises conformément au présent chapitre.
+
+Le Gouvernement flamand arrête les conditions et la procédure du recours administratif visé à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 12, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.3.6decies.**
+
+[<sup>1</sup> Dans le cadre de l'identification des personnes physiques ou morales qui relèvent de la définition d'une entité réglementée, de l'identification des personnes physiques ou morales qui ne relèvent pas de la définition d'une entité réglementée et de la détermination des volumes de combustible, l'autorité compétente peut faire appel aux services compétents du Service public fédéral Finances afin d'obtenir chaque année les données, données à caractère personnel ou catégories de données à caractère personnel suivantes :
+
+1° le rapport de toutes les déclarations AC4 introduites et validées pour la mise en service de produits énergétiques provenant de l'application AC4 de l'année précédente, à l'exception des déclarations annulées. Le rapport précité contient les données suivantes :
+
+a) les numéros d'identification des déclarations AC4 ;
+
+b) les données des destinataires, à savoir l'adresse, le nom, les coordonnées, le statut, les numéros d'autorisation, le type d'identification et l'identification, dont les numéros de T.V.A. ;
+
+c) les données des déclarants ou de leurs représentants, à savoir l'adresse, le nom, les coordonnées, le statut du demandeur, le type d'identification et l'identification, dont les numéros de T.V.A. ;
+
+d) les codes de marchandises ;
+
+e) la description des produits énergétiques ;
+
+f) les codes nationaux supplémentaires ;
+
+g) le régime demandé et préalable ;
+
+h) les poids, les quantités, les bases d'imposition et les calculs de l'impôt ;
+
+i) la date de déclaration ;
+
+2° le rapport de toutes les déclarations d'importation introduites et validées pour une déclaration simultanée pour la libre circulation et de consommation de produits énergétiques provenant du système PLDA de l'année précédente, à l'exception des déclarations annulées. Le rapport précité contient les données suivantes :
+
+a) les numéros d'identification des déclarations d'importation ;
+
+b) les données des destinataires, à savoir l'adresse, le nom, les coordonnées, le type d'identification et l'identification, dont les numéros de T.V.A. ;
+
+c) les données des déclarants ou de leurs représentants, à savoir l'adresse, le nom, les coordonnées, le statut du déclarant, le type d'identification et l'identification, dont les numéros de T.V.A. ;
+
+d) les codes de marchandises ;
+
+e) la description des produits énergétiques ;
+
+f) les codes nationaux supplémentaires ;
+
+g) les régimes demandés et préalables ;
+
+h) les poids, les quantités et le calcul de l'impôt ;
+
+i) la date de déclaration ;
+
+3° le rapport de tous les titulaires d'autorisations, destinataires certifiés et destinataires certifiés temporairement issus des données SEED de l'année précédente. Le rapport précité contient les données suivantes :
+
+a) le type et les numéros de référence des autorisations ;
+
+b) les coordonnées des demandeurs de l'autorisation, à savoir l'adresse, le nom, les coordonnées et les numéros d'identification nationaux ;
+
+c) la date de début et de fin des autorisations ;
+
+d) le statut des autorisations ;
+
+e) les codes d'accise et la description des produits énergétiques auxquels les autorisations se rapportent.
+
+Les personnes concernées par le traitement des données à caractère personnel, visées aux alinéas 1er et 2 :
+
+1° les destinataires des déclarations AC4 et des déclarations d'importation ;
+
+2° les déclarants des déclarations AC4 et des déclarations d'importation ;
+
+3° les demandeurs de l'autorisation, visés à l'alinéa 1er, 3°.
+
+Pour le traitement de données à caractère personnel dans le cadre de l'identification des entités réglementées, l'autorité compétente est le responsable du traitement, visé à l'article 4, 7), du règlement général sur la protection des données.
+
+La période de conservation commence à partir de la réception des données à caractère personnel et ne dépasse pas la durée nécessaire pour l'application des règles établies par ou en vertu du présent chapitre, et n'excède pas vingt ans. Après la période précitée de vingt ans, les données à caractère personnel sont rendues anonymes.
+
+Le Gouvernement flamand peut préciser les conditions et modalités relatives à l'échange de données entre les services compétents du Service public fédéral Finances et l'autorité compétente. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 13, 090; En vigueur : 10-05-2026&gt;
+
+### CHAPITRE IV. [<sup>1</sup> - Programmes d'aide pour l'application des mécanismes de flexibilité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 20, 041; En vigueur : 06-05-2014&gt;
+
+#### Section 1re. [<sup>1</sup> Disposition générale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 21, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.4.1**
+
+[<sup>1</sup> Le Gouvernement flamand peut octroyer des interventions pour les frais administratifs découlant de la préparation et la participation aux mécanismes de flexibilité de la Mise en oeuvre conjointe et du Développement propre, visé au Protocole de Kyoto.
+
+Le Gouvernement flamand peut également octroyer des interventions pour l'exécution de projets dans le cadre des mécanismes de flexibilité, visés à l'alinéa premier, en vue de l'acquisition de droits d'émission par les autorités flamandes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 22, 041; En vigueur : 06-05-2014&gt;
+
+#### Section 2. [<sup>1</sup> - Importance de l'intervention]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 23, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.4.2**
+
+[<sup>1</sup> Le Gouvernement flamand fixe l'importance des interventions et des frais éligibles, visés à la présente section, ainsi que les modalités relatives à la demande, l'évaluation des demandes et l'octroi des interventions.
+
+Les interventions, visées à l'alinéa précédent, peuvent prendre la forme d'une subvention, d'un prêt au taux d'intérêt réduit, d'une avance ou d'un autre avantage pécuniaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 24, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.4.3**
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand arrête les conditions d'exécution et les règles pour l'application des mécanismes de flexibilité, prévus par le Protocole de Kyoto ou élaborés dans la législation ou les accords européens ou internationaux.
+
+En ce qui concerne l'achat, l'application et la vente de quotas d'émission, découlant des mécanismes de flexibilité prévus par le Protocole de Kyoto ou élaborés dans la législation ou les accord européens ou internationaux, le Gouvernement flamand arrête :
+
+1° les objectifs quantitatifs ;
+
+2° la stratégie ;
+
+3° la nature des quotas d'émission ;
+
+4° les canaux à engager ;
+
+5° le mode de financement.
+
+Le Gouvernement flamand peut également arrêter la conditionnalité qualitative pour la vente et l'application des quotas d'émission, découlant des mécanismes de flexibilité, prévus au Protocole de Kyoto ou élaborés dans la législation ou les accords européens ou internationaux.
+
+§ 2. Le Gouvernement flamand arrête les modalités pour l'approbation de projets dans le cadre des mécanismes de flexibilité de Mise en oeuvre conjointe et de Développement propre, visé au Protocole de Kyoto, ainsi que les conditions de participation d'une organisation privée ou publique à ces projets. Pour le traitement administratif de ces demandes de projet, le Gouvernement flamand peut arrêter de faire imputer les frais fixes et les frais de dossier à l'auteur de la demande d'approbation du projet. Le Gouvernement flamand fixe également l'importance et le mode de paiement de ces frais. Les recettes découlant de ces frais sont attribuées au " Klimaatfonds.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 25, 041; En vigueur : 06-05-2014&gt;
+
+### CHAPITRE V. [<sup>1</sup> - Sanctions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 26, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.5.1**
+
+[<sup>1</sup> [<sup>3</sup> La VEKA]<sup>3</sup> impose une amende administrative à [<sup>4</sup> l'exploitant d'une installation GES, l'exploitant d'aéronefs ou l'entité réglementée ]<sup>4</sup> pour chaque tonne d'équivalent de CO2 émise et pour laquelle aucun quota d'émission n'a été restitué sur la base de l'article [<sup></sup>de l'article 8.2.1, § 1er, de l'article 8.3.6, § 4, ou de l'article 8.3.6septies ]<sup>4</sup>. L'amende administrative s'élève à 100 euros par tonne d'équivalent de CO2 émise. Le paiement de l'amende pour dépassement d'émissions ne décharge pas [<sup>4</sup> l'exploitant d'une installation GES, l'exploitant d'aéronefs ou l'entité réglementée ]<sup>4</sup> de l'obligation de restituer une quantité de droits d'émission égale au dépassement d'émissions lors de la restitution des droits d'émission se rapportant à l'année calendaire suivante.
+
+A l'alinéa premier, on entend par exploitant d'un établissement BKG : le(s) titulaire(s) de l'autorisation environnementale ou des autorisations environnementale de l'établissement BKG.
+
+L'amende administrative, visée à l'alinéa premier, est augmentée à partir du 1er janvier 2014 conformément à l'indice européen des prix à la consommation.
+
+Le Gouvernement flamand prend des mesures pour assurer la publication des noms [<sup>4</sup> des exploitants, des exploitants d'aéronefs ou des entités réglementées ]<sup>4</sup> qui restituent insuffisamment de quotas d'émission pour satisfaire aux obligations imposées en vertu [<sup>4</sup> de l'article 8.2.1, § 1er, de l'article 8.3.6, § 4, ou de l'article 8.3.6septies]<sup>4</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 27, 041; En vigueur : 06-05-2014&gt;
+
+(2)&lt;DCFL 2017-10-27/06, art. 15, 058; En vigueur : 07-12-2017&gt;
+
+(3)&lt;DCFL 2020-12-04/08, art. 9, 073; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DCFL 2026-04-03/19, art. 14, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.5.2**
+
+[<sup>1</sup> § 1er. Une amende administrative s'élevant à au minimum 5000 euros et à au maximum 450.000 euros sera imposée à un exploitant d'aéronefs qui ne dispose pas au 1er janvier de chaque année d'un plan de surveillance d'émissions approuvé, conformément à l'article 8.3.6, § 1er, alinéa premier.
+
+En dérogation à l'alinéa premier, une amende administrative s'élevant à au minimum 5000 euros et à au maximum 450.000 euros peut être imposée à un exploitant d'aéronefs, tel que visé à l'article 8.3.6, § 1er, alinéa deux, à partir du moment que l'exploitant d'aéronefs doit disposer d'un plan de surveillance d'émissions approuvé, et par après annuellement au 1er janvier, tel qu'arrêté par le Gouvernement flamand.
+
+Le Gouvernement flamand arrête les modalités du calcul de l'amende administrative.
+
+§ 2. Une amende administrative s'élevant à au minimum 5000 euros et à au maximum 450.000 euros peut être imposée à un exploitant d'aéronefs qui n'a pas introduit pas au 31 mars de chaque année un rapport d'émissions vérifié, conformément à l'article 8.3.6, § 2, du présent décret.
+
+Le Gouvernement flamand arrête les modalités du calcul de l'amende administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 28, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.5.3**
+
+[<sup>1</sup> L'autorité compétente peut conseiller l'autorité fédérale de charger la Commission nationale Climat de demander à la Commission européenne d'imposer une interdiction d'exploitation à un exploitant d'aéronefs qui ne répond pas aux dispositions du chapitre III lorsque le respect de ce qui a été stipulé par ou en vertu du chapitre III, ne peut être garanti par d'autres mesures de maintien.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 29, 041; En vigueur : 06-05-2014&gt;
+
+**Art. 8.5.3bis.**
+
+[<sup>1</sup> § 1er. Une entité réglementée qui, au 1er janvier de chaque année, ne dispose pas d'un plan de surveillance approuvé tel que visé à l'article 8.3.6quinquies, § 1er, alinéa 1er, peut se voir infliger une amende administrative qui s'élève au minimum à 5 000 euros et au maximum à 450 000 euros.
+
+Le Gouvernement flamand arrête les modalités relatives au calcul de l'amende administrative.
+
+§ 2. Une entité réglementée qui, au plus tard le 14 avril de chaque année, n'a pas soumis, conformément à l'article 8.3.6quinquies, § 1er, alinéa 1er, du présent décret, une déclaration d'émissions vérifiée conformément au règlement d'exécution (UE) 2018/2067, peut se voir infliger une amende administrative qui s'élève au minimum à 5 000 euros et au maximum à 450 000 euros.
+
+Le Gouvernement flamand arrête les modalités relatives au calcul de l'amende administrative. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-04-03/19, art. 15, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.5.4**
+
+[<sup>1</sup> § 1er. L'intéressé est informé de la décision d'imposition d'une amende administrative par lettre recommandée. La notification motivée indique le montant de l'amende administrative.
+
+§ 2. Lorsque l'intéressé n'est pas d'accord avec l'amende administrative imposée aux termes [<sup>2</sup> de l'article 8.5.1, 8.5.2 ou 8.5.3/1,]<sup>2</sup> il peut en faire part, par lettre recommandée, dans les dix jours calendaires après la notification visée au § 1er, aux fonctionnaires désignés à cet effet par le Gouvernement flamand. Passé ce délai, la décision devient définitive.
+
+Sur sa demande, l'intéressé peut consulter les documents sur la base desquels la décision d'imposition d'une amende administrative en vertu [<sup>2</sup> de l'article 8.5.1, 8.5.2 ou 8.5.3/1, ]<sup>2</sup> a été prise et en recevoir une copie.
+
+Sur sa demande, l'intéressé peut oralement justifier sa défense relative à la décision d'imposition d'une amende administrative en vertu [<sup>2</sup> de l'article 8.5.1, 8.5.2 ou 8.5.3/1]<sup>2</sup>.
+
+Les fonctionnaires compétents peuvent révoquer leur décision ou adapter le montant de l'amende administrative si ces contre-arguments s'avèrent être fondés. Dans ce cas, une nouvelle notification sera envoyée.
+
+§ 3. L'amende administrative est payée dans les soixante jours calendaires après la notification de la décision définitive. Les fonctionnaires désignés à cet effet par le Gouvernement flamand, peuvent accorder un délai de sursis de paiement qu'ils déterminent.
+
+§ 4. Si l'intéressé manque de régler l'amende administrative, celle-ci est recouvrée par voie de contrainte. La contrainte est visée et déclarée exécutoire par un fonctionnaire désigné à cet effet par le Gouvernement flamand. La contrainte est notifiée par exploit d'huissier de justice ou par lettre recommandée. Les dispositions, visées à la partie V du Code judiciaire, s'appliquent à la contrainte.
+
+§ 5. La demande en paiement de l'amende administrative se prescrit après cinq ans, à compter du jour où elle est née. La prescription est interrompue selon le mode et aux conditions fixés à l'article 2244 et suivants du Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 30, 041; En vigueur : 06-05-2014&gt;
+
+(2)&lt;DCFL 2026-04-03/19, art. 16, 090; En vigueur : 10-05-2026&gt;
+
+**Art. 8.5.5**
+
+[<sup>1</sup> Les recettes découlant du produit des amendes administratives, visées au présent décret, sont directement attribuées au Fonds climatique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 31, 041; En vigueur : 06-05-2014&gt;
+
+## TITRE X. - Agences. &lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+### CHAPITRE Ier. - Dispositions introductives. &lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.1.1**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; Pour l'application du présent titre, il faut entendre par :
+
+1° [<sup>2</sup> le Décret de gouvernance : le Décret de gouvernance du 7 décembre 2018]<sup>2</sup>;
+
+2° [<sup>1</sup> Décret sur les Matériaux, le décret du 23 décembre 2011 relatif à la gestion durable des cycles de matériaux et des déchets;]<sup>1</sup>
+
+3° accord de coopération sur les déchets d'emballages : accord de coopération du 30 mai 1996 concernant la prévention et la gestion des déchets d'emballages;
+
+4° décret sur l'assainissement du sol : décret du 22 février 1995 relatif à l'assainissement du sol;
+
+5° loi sur les eaux de surface : loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution;
+
+6° décret sur la politique intégrée de l'eau : le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau;
+
+7° l'OVAM : " Openbare Vlaamse Afvalstoffenmaatschappij " (Société publique des déchets pour la Région flamande);
+
+8° (VMM : Vlaamse Milieumaatschappij (Société flamande de l'Environnement);) &lt;DCFL 2005-12-23/57, art. 3, 2°; En vigueur : 31-03-2006&gt;
+
+9° (...) &lt;DCFL 2005-12-23/57, art. 3, 2°; En vigueur : 31-03-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2011-12-23/33, art. 73, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.21, 065; En vigueur : 01-01-2019&gt;
+
+### CHAPITRE II. - ("La Vlaamse Milieumaatschappij" (Société flamande de l'Environnement)"). &lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006 et modifié par DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+#### Section 1re. - Création. &lt;Insérée par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.2.1**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; § 1er. Il est créé une agence autonomisée interne dotée de la personnalité juridique telle que visée [<sup>1</sup> aux articles III.4 à III.6 du Décret de gouvernance]<sup>1</sup>. Cette agence porte le nom (" Vlaamse Milieumaatschappij "). C'est le successeur en droit de la " Vlaamse Milieumaatschappij " (Société flamande de l'Environnement), visée à l'article 32bis, § 1er, de la loi sur les eaux de surface. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+§ 2. Le Gouvernement flamand détermine le domaine politique homogène dont l'agence fait partie.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.22, 065; En vigueur : 01-01-2019&gt;
+
+#### Section 2. - Mission, tâches et compétences. &lt;Insérée par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.2.2**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; La (" Vlaamse Milieumaatschappij ") a pour mission de contribuer à la réalisation des objectifs de la politique de l'environnement, visée à l'article 1.2.1, § 1er, en prévenant, en réduisant et en supprimant les effets nocifs pour les systèmes d'eau, la pollution de l'atmosphère (...), et à la réalisation des objectifs de la politique intégrée de l'eau, visée à l'article 5 du décret sur la politique intégrée de l'eau. &lt;DCFL 2005-12-23/57, art. 3, 4° et 5°; En vigueur : 31-03-2006&gt;
+
+**Art. 10.2.3**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; § 1er. La (" Vlaamse Milieumaatschappij ") a pour mission de contribuer à la politique intégrée de l'eau, visée à l'article 4 du décret sur la politique intégrée de l'eau. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+La (" Vlaamse Milieumaatschappij ") accomplit cette tâche en effectuant les activités suivantes : &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+1° la collecte, l'évaluation et le traitement de données et d'informations :
+
+a) en mesurant la situation - notamment la quantité, la qualité et la valeur écologique - des systèmes d'eau; l'agence n'est cependant pas compétente pour le mesurage de la quantité d'eau des voies d'eau;
+
+b) en inventoriant les émissions directes ou indirectes des facteurs de pollution dans les systèmes d'eau et les sources de celles-ci;
+
+c) en inventoriant d'autres formes et sources d'effets nocifs pour les systèmes d'eau;
+
+d) par la modélisation et le développement de scénarios;
+
+e) en évaluant les données et informations visées ci-dessus;
+
+f) en traitant les données et informations visées ci-dessus en vue d'établir des rapports et d'informer à ce sujet;
+
+2° l'établissement et l'ajustement continuel de bilans hydrologiques et de bilans des charges polluantes par bassin hydrographique et par bassin;
+
+3° la coordination et l'organisation de la planification de la politique intégrée de l'eau, en collaboration avec le domaine politique et sous la coordination du Gouvernement flamand :
+
+a) assurer le secrétariat et le soutien la cellule de planification de la Commission de Coordination de la Politique intégrée de l'Eau (CPIE), visée à l'article 25 du décret sur la politique intégrée de l'eau, en vue :
+
+b) d'établir la note de politique de l'eau;
+
+c) de fixer les plans de gestion des bassins hydrographiques, y compris les programmes des mesures;
+
+d) de l'organisation de l'enquête publique relative aux plans de gestion des bassins hydrographiques;
+
+e) [<sup>1</sup> de participer aux activités des secrétariats des bassins, visés à l'article 28 du décret sur la politique intégrée de l'eau, entre autres par la coordination de l'établissement des plans de gestion des bassins hydrographiques, des rapports de suivi des bassins et des programmes de mise en oeuvre en matière d'eau;]<sup>1</sup>
+
+4° assurer la contribution du domaine politique à la planification de la politique intégrée de l'eau, en collaboration avec le domaine politique;
+
+5° [<sup>1</sup> ...]<sup>1</sup>;
+
+6° réaliser des analyses et des évaluations des caractéristiques des bassins hydrographiques, des effets de l'activité humaine sur l'état de l'eau souterraine et de surface et de l'utilisation des eaux, visées à l'article 60 du décret sur la politique intégrée de l'eau;
+
+7° émettre des avis relatifs à l'évaluation aquatique, visée à l'article 8, § 3, du décret sur la politique intégrée de l'eau, au cas où la (" Vlaamse Milieumaatschappij ") est désignée par le Gouvernement flamand comme instance consultative; &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+8° [<sup>6</sup> l'exercice du contrôle de la Société, visée à l'article 2.6.1.1.1, § 1er, du décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018, visé au titre II, chapitre VI, section 1, sous-sections 1 et 2, du décret précité, et l'établissement, le contrôle et le suivi des programmes de subventionnement pour l'épuration des eaux usées déversées dans les égouts publics et les collecteurs ; ]<sup>6</sup>
+
+[<sup>6</sup> 8° bis le pilotage de l'élaboration du réseau d'égouts communal, y compris le subventionnement et le contrôle de l'élaboration et de la gestion de l'infrastructure d'épuration ;]<sup>6</sup>
+
+9° la gestion des eaux souterraines, à l'exception des dispositions à ce sujet à l'article 31, § 2, troisième alinéa, du décret sur la politique intégrée de l'eau, et des propositions de délimitation des zones de captage d'eau et des zones de protection;
+
+10° en ce qui concerne les cours d'eau non navigables :
+
+a) la coordination de l'exécution de la loi relative aux cours d'eau non navigables;
+
+b) tenir l'Atlas hydrographique flamand;
+
+c) la gestion des cours d'eau non navigables de première catégorie [<sup>1</sup> ...]<sup>1</sup>;
+
+d) la gestion des propriétés de la Région flamande des cours d'eau non navigables non classés;
+
+11° contribuer à la normalisation et à la caractérisation des sols d'eau, et la gestion des sols d'eau des cours d'eau de première catégorie, dans la mesure où celle-ci n'est pas transférée à l'agence d'eau conformément à l'article 31, § 2, troisième alinéa, du décret sur la politique intégrée de l'eau;
+
+12° le contrôle et le suivi du fonctionnement des polders et wateringues et l'encadrement technique et subventionnement de leur gestion de l'eau;
+
+13° [<sup>3</sup> ...]<sup>3</sup>;
+
+14° [<sup>5</sup> contribuer à la préparation politique, au contrôle et au suivi des aspects suivants concernant les eaux destinées à l'utilisation humaine :
+
+a) la qualité et la fourniture ;
+
+b) la prestation de services, y compris les obligations de service public ;
+
+c) les tarifs associés aux aspects visés aux points a) et b) ;]<sup>5</sup>
+
+15° organiser, contrôler, suivre et agir d'office au sujet de la dératisation dans la Région flamande, la lutte effective contre les rats dans ou dans les environs des masses d'eau de surface qui relèvent de la compétence de la Région flamande ou dans des zones pour lesquelles un accord a été conclu;
+
+16° l'imposition, la perception et le recouvrement de la redevance sur la pollution des eaux, visée à la loi sur les eaux de surface et de la redevance sur le captage d'eaux souterraines, visée au décret du 24 janvier 1984 portant des mesures en matière de gestion des eaux souterraines;
+
+17° le développement d'instruments et l'élaboration de mesures en vue de prévenir, réduire ou supprimer les effets nocifs pour les systèmes d'eau.
+
+(18° le contrôle sur les sociétés de distribution d'eau relativement à l'imputation des frais résultant de l'obligation d'assainissement.) &lt;DCFL 2004-12-24/31, art. 82, 009; En vigueur : 01-01-2005&gt;
+
+(19° communiquer sur simple demande des exploitants d'un réseau public de distribution d'eau, de la société visée à l'article 32septies, § 1er, les communes, les régies communales, les intercommunales, les structures de coopération communales ou les entités désignées par la commune après enquête du marché qui sont chargées par les communes et assurent l'aménagement, l'adaptation, l'entretien ou l'exploitation d'infrastructures sanitaires communales, les données dont dispose la Société sur des redevables, visés à l'article 35quinquies et l'article 35septies de la Loi sur les Eaux de surface, dans la mesure où ils sont nécessaires dans le cadre de l'imputation de la cotisation, visée à l'article 16bis, § 1er du décret du 24 mai 2002 relatif aux eaux destinées à l'utilisation humaine et l'indemnité, visée à l'article 16quinquies, § 1er du décret du 24 mai 2002 relatif aux eaux destinées à l'utilisation humaine et l'article 32septies, § 4 de la Loi sur les Eaux de surface;) &lt;DCFL 2005-12-23/34, art. 55, 011 ; En vigueur : 01-01-2006&gt;
+
+(20° établir des plans de zonage pour l'assainissement des eaux usées. Les plans de zonage font une distinction entre les zones d'assainissement collectif et les zones d'assainissement individuel. En exécution d'un ou plusieurs plans de zonage, il est établi un plan d'exécution couvrant la zone par zone d'épuration qui règle l'exécution et le calendrier des projets concernant l'obligation d'assainissement communale et supracommunale ainsi que l'harmonisation nécessaire des projets. Ces plans de zonage et d'exécution deviennent obligatoires pour tiers après approbation par le Gouvernement flamand;) &lt;DCFL 2005-12-23/34, art. 55, 011 ; En vigueur : 01-01-2006&gt;
+
+(21° l'appui du développement de circuits d'eau grise en vue de la protection des nappes aquifères vulnérables par le subventionnement de fournisseurs d'eau grise.) &lt;DCFL 2006-06-30/62, art. 37, 015; En vigueur : 13-12-2006&gt;
+
+([<sup>6</sup> En ce qui concerne la mission définie à l'alinéa 2, 8° et 8° bis, un recours peut être introduit auprès du ministre flamand chargé de l'environnement, contre les décisions de la Société flamande de l'Environnement.]<sup>6</sup> Le Gouvernement flamand arrêté les conditions en la matière.) &lt;DCFL 2004-12-24/31, art. 82, 009; En vigueur : 01-01-2005&gt;
+
+§ 2. Les tâches de la (" Vlaamse Milieumaatschappij ") relatives à la pollution de l'atmosphère sont : &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+1° la collecte, l'évaluation et le traitement de données et d'informations :
+
+a) en mesurant la pollution de l'atmosphère;
+
+b) en inventoriant les émissions des facteurs de pollution dans l'atmosphère et les sources pertinentes de celles-ci;
+
+c) par la modélisation et (la contribution au développement) de scénarios; &lt;DCFL 2007-12-07/51, art. 59, 019; En vigueur : 14-01-2008&gt;
+
+d) en évaluant les données et informations visées ci-dessus;
+
+e) en traitant les données et informations visées ci-dessus en vue d'établir des rapports et d'informer à ce sujet;
+
+2° [<sup>4</sup> la préparation de la politique, le suivi, l'évaluation et le compte rendu sur la mise en oeuvre et l'avancement de la politique, et le développement et l'utilisation des instruments et l'élaboration et la mise en oeuvre des mesures visant à prévenir et à réduire la pollution de l'atmosphère, à l'exception de la pollution causée par les gaz à effet de serre ;]<sup>4</sup>
+
+3° (...) &lt;DCFL 2005-12-23/57, art. 3, 6°; En vigueur : 31-03-2006&gt;
+
+§ 3. (...) &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+§ 4. Dans le cadre de sa mission et de ses tâches, la (" Vlaamse Milieumaatschappij ") contribue à la politique concernant les établissements et activités classés, visés au [<sup>2</sup> décret du 25 avril 2014 relatif au permis d'environnement ]<sup>2</sup>. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 30, 048; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DCFL 2014-04-25/M4, art. 218, 049; En vigueur : 23-02-2017&gt;
+
+(3)&lt;DCFL 2018-07-06/20, art. 8, 063; En vigueur : 09-09-2018&gt;
+
+(4)&lt;DCFL 2020-12-04/08, art. 10, 073; En vigueur : 01-01-2021&gt;
+
+(5)&lt;DCFL 2022-06-24/16, art. 6, 077; En vigueur : 26-09-2022&gt;
+
+(6)&lt;DCFL 2022-10-21/10, art. 2, 078; En vigueur : 23-01-2023&gt;
+
+**Art. 10.2.4**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; § 1er. La (" Vlaamse Milieumaatschappij ") peut exercer toute activité qui contribue directement ou indirectement à la réalisation de sa mission ou de ses tâches. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+§ 2. La (" Vlaamse Milieumaatschappij ") peut acquérir les biens immobiliers qui sont utiles à l'accomplissement de sa mission et de ses tâches. Elle peut également aliéner ces biens du moment qu'ils ne sont plus utiles. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+Le Gouvernement flamand peut autoriser la (" Vlaamse Milieumaatschappij ") à exproprier quand il estime que l'acquisition des biens en question est nécessaire à l'intérêt public. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+§ 3. La (" Vlaamse Milieumaatschappij ") peut faire effectuer de la recherche scientifique dans la mesure où cela est utile à l'accomplissement de ses tâches. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+§ 4. La (" Vlaamse Milieumaatschappij ") peut créer, s'il est souhaitable, des laboratoires pour effectuer des analyses ou mesurages de l'air, de l'eau ou des nuisances, mais elle peut aussi bien les faire effectuer par des laboratoires agréés par le Gouvernement flamand ou accrédités selon les normes internationales en vigueur. Le Gouvernement flamand peut désigner un laboratoire de référence. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+(§ 5. Le Gouvernement flamand peut arrêter les modalités concernant les missions citées aux §§ 1er à 3 inclus de l'article X.2.3.) &lt;DCFL 2004-12-24/31, art. 83, 009; En vigueur : 01-01-2005&gt;
+
+[<sup>1</sup> § 6. Par dérogation aux paragraphes précédents du présent article, la " Vlaamse Milieumaatschappij " est autorisée, après approbation par le Gouvernement flamand, de vendre [<sup>2</sup> l'infrastructure d'épuration des eaux d'égout et/ou les terrains y afférents]<sup>2</sup> à la SA Aquafin.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/15, art. 55, 027; En vigueur : 28-07-2010&gt;
+
+(2)&lt;DCFL 2011-07-08/06, art. 23, 029; En vigueur : 04-08-2011&gt;
+
+#### Section 3. - Moyens financiers. &lt;Insérée par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.2.5**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; § 1er. La (" Vlaamse Milieumaatschappij ") peut disposer des recettes suivantes : &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+1° des dotations;
+
+2° des prêts;
+
+3° des prélèvements fiscaux dans la mesure où ils sont attribués par décret à la (" Vlaamse Milieumaatschappij "); &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+4° des rétributions dans la mesure où ils sont attribués par décret à la (" Vlaamse Milieumaatschappij "); &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+5° des recettes résultant des actes de gestion ou de disposition relatifs aux immeubles domaniaux propres;
+
+6° des prix, des dons et des legs en espèces;
+
+7° des recettes des propres participations et des prêts octroyés par (la " Vlaamse Milieumaatschappij ") à des tiers; &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+8° des profits de la vente de propres participations;
+
+9° les subventions pour lesquelles la (" Vlaamse Milieumaatschappij ") entre en ligne de compte comme bénéficiaire; &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+10° les recouvrements de dépenses indues;
+
+11° des indemnités pour prestations à des tiers [<sup>4</sup> ...]<sup>4</sup>;
+
+12° des produits résultant des droits intellectuels;
+
+13° (les recettes provenant de :
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+b) les contributions volontaires, contractuelles, réglementaires ou décrétales de personnes physiques, personnes morales, administrations publiques et institutions pour la réalisation des objectifs mentionnés aux articles 5, 8, 9 et 13 de la loi du 28 décembre 1967 sur les cours d'eau non navigables, du Titre V de la loi du 5 juillet 1956 relative aux wateringues et du Titre V de la loi du 3 juin 1957 relative aux polders;
+
+c) le produit des amendes administratives et tous les montants perçus par les services de la Région flamande à charge des contrevenants de la législation et de la réglementation en matière d'économie hydraulique, des polders et des wateringues;
+
+d) le produit des concessions, location et aliénations de propriétés, installations et dépendances acquises en vue de la réalisation des objectifs en matière d'économie hydraulique, des polders et des wateringues.) &lt;DCFL 2006-12-22/31, art. 42, §3, 016; En vigueur : 01-04-2006&gt;
+
+[<sup>1</sup> e) la quote-part d'autorités co-mandantes dans des projets en matière d'économie hydraulique où la Société flamande de l'Environnement agit, conformément à la réglementation relative aux marchés publics dans le cadre d'un marché unique, en tant qu'autorité adjudicatrice et préfinance la quote-part des autorités co-mandantes;]<sup>1</sup>
+
+14° (Les contributions des personnes physiques ou morales de droit privé ou public dont les activités puissent occasionner ou aggraver les dommages prévus par le décret du 24 janvier 1984 portant de mesures en matière de gestion des eaux souterraines et, à titre complémentaire, par les prêts à court terme auxquels la Région flamande peut attacher sa garantie régionale. Le Gouvernement flamand détermine la quote-part de chaque type de revenu et les critères de détermination des redevables, le montant et les modalités de perception.) &lt;DCFL 2006-12-22/31, art. 42, §3, 016; En vigueur : 01-04-2006&gt;
+
+§ 2. Sauf dispositions contraires dans un décret, les recettes visées au § 1er sont à considérer comme des recettes destinées aux dépenses communes.
+
+[<sup>3</sup> Par dérogation à l'alinéa 1er, les recettes mentionnées au paragraphe 1er, 13° et 14°, sont considérées comme des recettes attribuées. Elles peuvent être affectées à la gestion en matière de régulation des débits, et aux Polders et Wateringues, à l'exception toutefois des charges salariales et des frais de fonctionnement de la Vlaamse Milieumaatschappij.]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. La (" Vlaamse Milieumaatschappij ") peut accepter des dons et des legs. Le chef de l'agence évalue préalablement l'opportunité et les risques liés à l'acceptation. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+§ 4. La (" Vlaamse Milieumaatschappij ") peut réaliser, à l'intérieur du pays et à l'étranger, la connaissance qu'elle a acquise lors de l'accomplissement de sa mission et de ses tâches. &lt;DCFL 2005-12-23/57, art. 3, 4°; En vigueur : 31-03-2006&gt;
+
+(§ 5. 1° Il est créé auprès de la " Vlaamse Milieumaatschappij " un Fonds de l'Economie hydraulique;
+
+2° Le Fonds de l'Economie hydraulique est alimenté par les recettes visées au § 1er, 13° [<sup>3</sup> et 14°]<sup>3</sup>;
+
+3° Le solde disponible au 12 mai 2006 et les créances, engagements et obligations non réglés à cette date du Fonds de l'Economie hydraulique, créé par le décret du 22 novembre 1995, article 17, sont transférés au Fonds de l'Economie hydraulique créé par le présent décret;
+
+[<sup>3</sup> 3° /1 le solde disponible au 12 mai 2006 et les créances, engagements et obligations impayés à cette date du Schadefonds, créé par le décret du 24 janvier 1984 et modifié par le décret du 12 décembre 1990, sont transférés au Fonds voor de Waterhuishouding, créé par le présent décret;]<sup>3</sup>
+
+4° [<sup>3</sup> les moyens du Fonds voor de Waterhuishouding peuvent être affectés à tout ce qui est utile dans le cadre de la gestion en matière de régulation des débits, et aux polders et wateringues, à l'exception toutefois des charges salariales et des frais de fonctionnement de la Vlaamse Milieumaatschappij.]<sup>3</sup>
+
+§ 6. [<sup>3</sup> ...]<sup>3</sup> [<sup>5</sup> § 6. Une redevance visée au paragraphe 1er, 4°, est versée à la Société flamande de l'Environnement pour effectuer des mesures, des simulations et des analyses pour les entreprises de ferraille disposant d'une installation de broyage IED (Prévention et Réduction intégrées de la Pollution).
+
+Cette rétribution est versée si les mesures, simulations et analyses effectuées par la Société flamande de l'Environnement s'inscrivent dans le cadre des :
+
+1° obligations imposées aux entreprises de ferraille disposant d'une installation de broyage IED en application de l'arrêté du Gouvernement flamand du 1er juin 1995 fixant les dispositions générales et sectorielles en matière d'hygiène de l'environnement ;
+
+2° obligations imposées aux entreprises de ferraille disposant d'une installation de broyage IED dans le permis d'environnement accordé à l'entreprise de ferraille pour l'exploitation d'un établissement ou d'une activité classé(e).
+
+La redevance visée à l'alinéa 1er, pour une installation de broyage dotée d'un site de mesure s'élève à 15 480,39 euros par an, hors T.V.A., en tant que prix unitaire.
+
+Le montant visé à l'alinéa 3, couvre l'ensemble des éléments suivants :
+
+1° l'échantillonnage, y compris des visites de contrôle sur un site de mesure ;
+
+2° les coûts d'analyse pour un site de mesure, y compris les coûts partagés pour l'analyse des blancs de terrain et des doublons ;
+
+3° la contribution à la Société flamande de l'Environnement pour le traitement administratif, l'établissement de rapports et les tâches correspondantes.
+
+L'analyse et le rapport des données de mesure sont effectués sur une base trimestrielle. Si une installation de broyage reste sous le seuil annuel applicable pendant trois années civiles consécutives, une campagne de contrôle d'un trimestre sera ensuite suffisante.
+
+Si une installation de broyage dispose de deux sites de mesure, un supplément de 4035,00 euros par an, ou de 1008,75 euros par trimestre, hors T.V.A., est appliqué au prix unitaire annuel visé à l'alinéa 3.
+
+Toute augmentation du prix de revient du laboratoire externe sera répercutée sur les entreprises visées à l'alinéa 1er. Avant d'appliquer les augmentations de prix, la Société flamande de l'Environnement en informe les entreprises visées à l'alinéa 1er.
+
+L'entreprise qui fait appel à la Société flamande de l'Environnement pour faire effectuer les mesures, simulations et analyses verse la redevance due après réception de la facture au numéro de compte de la Société flamande de l'Environnement, en indiquant le nom de l'entreprise et le numéro d'achat de la facture.
+
+Le montant de la redevance est adapté annuellement en fonction de l'évolution de l'indice santé selon la formule suivante :
+
+Ph = Pa \* Ih/Ia
+
+où Ph = prix initial
+
+Pa = indice santé au 1er janvier 2024
+
+Ih = indice santé au 1er janvier 2024
+
+Ia = indice santé au 1er janvier de la facturation.]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFL 2012-12-21/01, art. 52, 037; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DCFL 2014-12-19/18, art. 79, 045; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFL 2018-07-06/20, art. 9, 063; En vigueur : 09-09-2018&gt;
+
+(4)&lt;DCFL 2018-12-07/05, art. IV.23, 065; En vigueur : 01-01-2019&gt;
+
+(5)&lt;DCFL 2025-12-19/56, art. 84, 089; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE III. - La " Openbare Vlaamse Afvalstoffenmaatschappij " (Société publique des déchets pour la Région flamande). &lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+#### Section 1re. - Création. &lt;Insérée par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.3.1**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; § 1er. Il est créé une agence autonomisée interne dotée de la personnalité juridique telle que visée [<sup>1</sup> aux articles III.4 à III.6 du Décret de gouvernance]<sup>1</sup>. Cette agence porte le nom " Openbare Vlaamse Afvalstoffenmaatschappij ". C'est le successeur en droit de la " Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest ", visée à l'article 38 du décret sur les déchets.
+
+§ 2. Le Gouvernement flamand détermine le domaine politique homogène dont l'agence fait partie.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.24, 065; En vigueur : 01-01-2019&gt;
+
+#### Section 2. Mission, tâches et compétences. &lt;Insérée par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.3.2**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; L'OVAM a pour mission de contribuer à la réalisation des objectifs de la politique de l'environnement, visée à l'article 1.2.1, § 1er, en contribuant à la gestion durable des [<sup>1</sup> cycles de matériaux]<sup>1</sup> et à la réalisation des objectifs de la politique des déchets, [<sup>1</sup> visés à l'article 4 du décret sur les matériaux]<sup>1</sup>, et en mettant en oeuvre une politique d'assainissement du sol, conformément au décret sur l'assainissement du sol.
+
+----------
+
+(1)&lt;DCFL 2011-12-23/33, art. 74, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+**Art. 10.3.3**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; § 1er. Les tâches de l'OVAM relatives à la gestion durable des [<sup>1</sup> cycles des matériaux]<sup>1</sup> et des déchets sont :
+
+1° le développement d'instruments et l'élaboration de mesures en vue de promouvoir l'utilisation économe des matières premières, entre autres en fermant les [<sup>1</sup> cycles des matériaux]<sup>1</sup> autant que possible;
+
+2° la promotion de la qualité des produits et des processus de production en prêtant une attention particulière à la prévention qualitative et quantitative en ce qui concerne l'utilisation de matières premières, la diffusion de substances dangereuses pour l'environnement et la prévention de déchets;
+
+3° le développement d'instruments et l'élaboration de mesures en vue de la promotion d'un comportement de consommation durable, en ce qui concerne l'utilisation de matières premières, la diffusion de substances dangereuses pour l'environnement et la prévention de déchets;
+
+4° le développement d'instruments et l'élaboration de mesures en vue d'une gestion sure des substances dangereuses pour l'environnement et en vue de la prévention et, si nécessaire, la réduction de fuites de substances dangereuses pour l'environnement de leurs cycles;
+
+5° en complément aux tâches précédentes, le pilotage et la coordination de la collecte de déchets et l'élimination sûre ainsi que l'élimination d'office de ceux-ci;
+
+6° le développement d'instruments et l'élaboration de mesures en vue de garantir le fonctionnement correct du marché des déchets.
+
+[<sup>4</sup> 7° le développement d'outils et de mesures permettant d'aboutir à une politique de désamiantage, notamment par le biais de projets pilotes, d'analyses politiques, d'inventaires de matériaux contenant de l'amiante, jusqu'à une transition volontaire vers l'enlèvement des matériaux contenant de l'amiante.]<sup>4</sup>
+
+§ 2. L'OVAM accomplit ces tâches en effectuant les activités suivantes :
+
+1° la collecte, l'évaluation et le traitement de données et d'informations :
+
+a) en inventoriant [<sup>4</sup> les déchets, les matériaux et les cycles de matériaux]<sup>4</sup>, en réservant une attention particulière aux substances dangereuses pour l'environnement;
+
+b) en inventoriant les sources pertinentes de déchets et de processus générant des déchets;
+
+c) par la modélisation et le développement de scénarios;
+
+d) en évaluant les données et informations visées ci-dessus;
+
+e) en traitant les données et informations visées ci-dessus en vue d'établir des rapports et d'informer à ce sujet;
+
+2° [<sup>1</sup> l'élaboration de programmes de prévention et de plans d'exécution, visés aux articles 17 et 18 du décret sur les matériaux, ainsi que le contrôle et le suivi de l'exécution des plans de prévention et d'exécution précités et la préparation et la co-élaboration de programmes conformément aux prescriptions internationales et européennes en vigueur, dont l'exécution relève du champ d'application du décret sur les Matériaux;]<sup>1</sup>
+
+3° [<sup>1</sup> la conclusion de conventions avec les communes ou associations de communes en vue de promouvoir ou d'encadrer l'organisation de la collecte sélective ou le ramassage des ordures ménagères, visée à l'article 27, du décret sur les matériaux;]<sup>1</sup>
+
+4° [<sup>1</sup> la préparation des négociations en vue de conclure des conventions en matière de la gestion environnementale, visées au décret sur les Matériaux;]<sup>1</sup>
+
+5° [<sup>5</sup> le traitement des demandes et l'octroi, la suspension et la suppression des agréments visés à l'article 7, 9, 32/1 et 33 du décret sur les matériaux ;]<sup>5</sup>
+
+6° contribuer à la politique concernant les établissements et activités classés, visés au [<sup>3</sup> titre V]<sup>3</sup>;
+
+7° [<sup>1</sup> effectuer des tâches dans le cadre de la responsabilité du producteur, visée à l'article 21 du décret sur les matériaux, et de l'obligation de reprise, visée à l'accord de coopération sur les déchets d'emballages;]<sup>1</sup>
+
+8° [<sup>1</sup> l'imposition, la perception et le recouvrement la redevance écologique sur l'élimination des déchets, visée aux articles 44 à 65 inclus du décret sur les matériaux;]<sup>1</sup>
+
+9° [<sup>1</sup> le traitement des demandes de subvention [<sup>4</sup> et l'octroi des subventions]<sup>4</sup>, visé à l'article 15 du Décret sur les matériaux;]<sup>1</sup>
+
+10° le suivi et le contrôle des [<sup>1</sup> flux de matériaux]<sup>1</sup>.
+
+(11° l'intervention en tant qu'autorité compétente pour la Région flamande dans le cadre de la réglementation européenne à propos du transfert de déchets.) &lt;DC
+
+[<sup>1</sup> 12° rendre des avis au Gouvernement flamand sur les dérogations à l'hiérarchie telle que visée à l'article 8 du décret sur les matériaux.]<sup>1</sup>
+
+[<sup>2</sup> 13° l'intervention en tant qu'autorité compétente pour la Région flamande dans le cadre de la réglementation européenne relative au recyclage des navires au sens de l'article 3, alinéa 1, 11, du règlement du Parlement européen et du Conseil du 20 novembre 2013 relatif au recyclage des navires et modifiant le règlement (CE) n° 1013/2006 et la directive 2009/16/CE.]<sup>2</sup>
+
+[<sup>4</sup> 14° la remise des certificats d'inventaires d'amiante, visée à l'article 33/11 du Décret sur les matériaux.]<sup>4</sup>
+
+[<sup>4</sup> 15° la gestion de la base de données des certificats d'inventaires d'amiante visée à l'article 33/10 du Décret sur les matériaux.]<sup>4</sup>
+
+[<sup>4</sup> 16° le démantèlement, la collecte, le transport ou le traitement des matériaux contenant de l'amiante, ainsi que son allègement, son préfinancement ou financement, visés à l'article 33/8 du Décret sur les matériaux.]<sup>4</sup>
+
+[<sup>4</sup> 17° la création d'un inventaire d'amiante conformément à l'article 33/12 du Décret sur les matériaux, et son allègement, son préfinancement ou financement, visés à l'article 33/8 du Décret sur les matériaux.]<sup>4</sup>
+
+[<sup>4</sup> 18° le traitement des demandes et l'octroi, la suspension et le retrait de l'agrément visé à l'article 33/16 du Décret sur les matériaux.]<sup>4</sup>
+
+[<sup>4</sup> 19° la perception des rétributions visées à l'article 66, § 1er, du Décret sur les matériaux.]<sup>4</sup>
+
+[<sup>6</sup> 20° l'exécution des tâches dans le cadre des déchets particuliers, visés aux articles 22 et 32 du Décret sur les Matériaux ;
+
+21° l'exécution des tâches dans le cadre du contrôle, du maintien et des mesures de sécurité tels que visés au titre XVI ;
+
+22° la désignation d'une organisation pour reprendre les tâches de l'organisme de certification amiante, visé à l'article 33/16 du Décret sur les Matériaux.]<sup>6</sup>
+
+§ 3. Les tâches de l'OVAM relatives à l'assainissement du sol sont :
+
+1° le développement d'instruments et l'élaboration de mesures en vue de prévenir la pollution du sol récente;
+
+2° le développement d'instruments et l'élaboration de mesures en vue de stimuler les assainissements individuels et collectifs;
+
+3° l'assainissement de la pollution du sol historique et récente, y compris le soin de redonner à des terrains abandonnés, dans la mesure du possible, une fonction utile;
+
+4° le développement d'instruments et l'élaboration de mesures en vue de garantir le fonctionnement correct du marché de l'assainissement du sol.
+
+§ 4. L'OVAM accomplit ces tâches en effectuant les activités suivantes :
+
+1° la collecte, l'évaluation et le traitement de données et d'informations :
+
+a) en collectant des données sur la pollution du sol;
+
+b) en collectant des données sur les facteurs, établissements et activités donnant lieu ou pouvant donner lieu à la pollution du sol;
+
+c) en inventoriant les sols pollués;
+
+d) par la modélisation et le développement de scénarios;
+
+e) en évaluant les données visées ci-dessus;
+
+f) en traitant les données et informations visées ci-dessus en vue d'établir des rapports et d'informer à ce sujet;
+
+2° recevoir et effectuer des reconnaissances d'orientation du sol, imposer ou effectuer des reconnaissances descriptives du sol, des projets et des travaux d'assainissement du sol, et imposer des mesures de surveillance et de contrôle après l'exécution de l'assainissement du sol, constituer une banque de données pour l'identification et l'inventaire des terrains pollués ou éventuellement pollués, proposer des restrictions d'utilisation et imposer des mesures de précaution, imposer des mesures coercitives, demander de constituer des sûretés financières, délivrer des attestations du sol, visé au décret sur l'assainissement du sol;
+
+3° contribuer au maintien de la réglementation relative à l'assainissement du sol;
+
+4° la gestion de la réglementation relative aux terres excavées, visée au décret sur l'assainissement du sol.
+
+----------
+
+(1)&lt;DCFL 2011-12-23/33, art. 75, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+(2)&lt;DCFL 2015-12-18/24, art. 31, 048; En vigueur : 08-01-2016&gt;
+
+(3)&lt;DCFL 2014-04-25/M4, art. 219, 049; En vigueur : 23-02-2017&gt;
+
+(4)&lt;DCFL 2019-03-29/23, art. 2, 068; En vigueur : 27-04-2019&gt;
+
+(5)&lt;DCFL 2019-04-26/31, art. 61, 069; En vigueur : 29-06-2019&gt;
+
+(6)&lt;DCFL 2021-02-26/27, art. 2, 074; En vigueur : 11-04-2021&gt;
+
+**Art. 10.3.4**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; § 1er. L'OVAM peut exercer toute activité qui contribue directement ou indirectement à la réalisation de sa mission ou de ses tâches.
+
+§ 2. L'OVAM peut acquérir les biens immobiliers qui sont utiles à l'accomplissement de sa mission et de ses tâches. Elle peut également aliéner ces biens du moment qu'ils ne sont plus utiles.
+
+Le Gouvernement flamand peut autoriser l'OVAM à exproprier quand il estime que l'acquisition des biens en question est nécessaire à l'intérêt public.
+
+§ 3. L'OVAM peut faire effectuer de la recherche scientifique dans la mesure où cela est utile à l'accomplissement de sa mission ou de ses tâches.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 5. L'OVAM peut mettre les produits obtenus par la récupération et la régénération, et les déchets réutilisables, sur le marché et les vendre.
+
+[<sup>1</sup> § 6. Le Gouvernement flamand peut arrêter les modalités des tâches visées à l'article 10.3.3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 37, 021; En vigueur : 14-02-2009&gt;
+
+(2)&lt;DCFL 2011-12-23/33, art. 76, 031; En vigueur : 03-05-2013. Voir AGF 2013-03-01/22, art. 192&gt;
+
+#### Section 3. Moyens financiers. &lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.3.5**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; § 1er. L'OVAM peut disposer des recettes suivantes :
+
+1° des dotations;
+
+2° des prêts;
+
+3° des prélèvements fiscaux dans la mesure où ils sont attribués par décret à l'OVAM;
+
+4° des rétributions dans la mesure où elles sont attribuées par décret à l'OVAM;
+
+5° des recettes résultant des actes de gestion ou de disposition relatifs aux immeubles domaniaux propres;
+
+6° des prix, des dons et des legs en espèces;
+
+7° des recettes des propres participations et des prêts octroyés par l'OVAM à des tiers;
+
+8° des profits de la vente de propres participations;
+
+9° les subventions pour lesquelles l'OVAM entre en ligne de compte comme bénéficiaire;
+
+10° les recouvrements de dépenses indues;
+
+11° des indemnités pour prestations à des tiers [<sup>1</sup> ...]<sup>1</sup>;
+
+12° des produits résultant des droits intellectuels;
+
+13° des recettes provenant de la mise sur le marché et de la vente de produits obtenus par la récupération et la régénération et de déchets réutilisables;
+
+14° des moyens recouvrés de l'élimination d'office de déchets et de l'assainissement du sol d'office.
+
+§ 2. Sauf dispositions contraires dans un décret, les recettes visées au § 1er sont à considérer comme des recettes destinées aux dépenses communes.
+
+§ 3. L'OVAM peut accepter des dons et des legs. Le chef de l'agence évalue préalablement l'opportunité et les risques liés à l'acceptation.
+
+§ 4. L'OVAM peut réaliser, à l'intérieur du pays et à l'étranger, la connaissance qu'elle a acquise lors de l'accomplissement de sa mission et de ses tâches.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.25, 065; En vigueur : 01-01-2019&gt;
+
+### CHAPITRE IV. - L' " Agentschap voor Natuur en Bos " (Agence de la Nature et des Forêts).
+
+(NOTE : dans le texte du titre 10, le chapitre IV comprenant les articles 10.4.1 à 10.4.5 inclus, inséré par &lt;DCFL 2004-05-07/63, art. 5; En vigueur : indéterminée &gt; sont abrogés par &lt;DCFL 2005-12-23/57, art. 3, 7°; En vigueur : 31-03-2006&gt;)
+
+### CHAPITRE V. - L' " Instituut voor Natuur- en Bosonderzoek " (Institut de Recherche des Forêts et de la Nature).
+
+(NOTE : dans le texte du titre 10, le chapitre V comprenant les articles 10.5.1 à 10.5.5 inclus, inséré par &lt;DCFL 2004-05-07/63, art. 5; En vigueur : indéterminée &gt; sont abroges par &lt;DCFL 2005-12-23/57, art. 3, 7°; En vigueur : 31-03-2006&gt;)
+
+### CHAPITRE VI. - Dispositions communes. &lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+#### Section 1re. - Administration et fonctionnement. &lt;Insérée par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.6.1**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; Les dispositions [<sup>1</sup> du Décret de gouvernance]<sup>1</sup> s'appliquent aux agences visées au présent titre.
+
+Les agences visées au présent titre poursuivent leur mission et accomplissent leurs tâches en vue de contribuer à la préparation de la politique, y compris à la planification environnementale et à la réglementation ou en vue de mettre en oeuvre la politique fixée. La préparation et l'exécution de la politique font l'objet des cycles de politique et de gestion pilotés par le Gouvernement flamand et le Département.
+
+Le Gouvernement flamand peut arrêter des modalités concernant l'administration et le fonctionnement des agences, visées au présent titre.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.26, 065; En vigueur : 01-01-2019&gt;
+
+#### Section 2. - Comité consultatif. &lt;Insérée par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.6.2**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; Le Gouvernement flamand peut créer, sur la proposition du chef d'une des agences visées au présent titre, un comité consultatif.
+
+Le Gouvernement flamand peut arrêter des modalités concernant la tâche, la composition et le fonctionnement du comité consultatif et fixer une indemnité pour les membres dudit comité.
+
+#### Section 3. - Rapports avec d'autres niveaux administratifs, domaines politiques et acteurs, la coopération et la coordination au niveau du contenu. &lt;Insérée par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt;
+
+**Art. 10.6.3**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; Dans le cadre de leur mission et de leurs tâches, les agences visées au présent titre contribuent, en coopération avec le domaine politique et sous la coordination du Gouvernement flamand et du Département :
+
+1° à la coopération et prise de décision internationales, européennes, supra régionales et interrégionales en matière d'environnement;
+
+2° à la promotion de la réalisation des objectifs de la politique de l'environnement par d'autres domaines politiques et l'élaboration de possibilités de coopération à cet effet;
+
+3° à la réalisation de possibilités de coopération avec des autorités locales;
+
+4° à la réalisation de formes de coopération avec des organisations non gouvernementales et des groupes d'intérêt.
+
+**Art. 10.6.4**
+
+&lt;Inséré par DCFL 2004-05-07/63, art. 5; En vigueur : 01-04-2006&gt; Dans le cadre de leur mission et de leurs tâches, les agences visées au présent titre contribuent, en coopération avec le domaine politique et sous la coordination du Gouvernement flamand et du Département :
+
+1° à la transposition et application complètes du droit environnemental international et européen et des accords de coopération avec les autres régions;
+
+2° à la stratégie de communication et de planification du domaine politique, y compris la sensibilisation et la fourniture d'informations;
+
+3° à la réalisation d'une large assise sociale pour leur mission et à la promotion de la participation sociale à celle-ci;
+
+4° à la politique des groupes cibles coordonnée du domaine politique;
+
+5° à l'élaboration d'instruments intègres le mieux possible pour la politique de l'environnement;
+
+6° à la détermination du besoin d'information, à la collecte intégrée de données et d'informations et à la gestion intégrée de l'information;
+
+7° au pilotage intégré de la recherche scientifique.
+
+## TITRE XI. - Conseils stratégiques. &lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt;
+
+### CHAPITRE Ier. - Dispositions introductives. &lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt;
+
+**Art. 11.1.1**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Définitions.
+
+Dans le présent décret on entend par projets d'arrêté du Gouvernement flamand d'importance stratégique : des projets d'arrêté réglementaire ou organique qui mettent en oeuvre le contenu d'un décret et qui sont considérés par le Gouvernement flamand comme des arrêtés d'exécution de base.
+
+**Art. 11.1.2**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Création.
+
+Il est créé un conseil consultatif stratégique pour la politique de l'environnement, [<sup>2</sup> tel que visé à l'article III.93, premier alinéa du Décret de gouvernance du 7 décembre 2018]<sup>2</sup>.
+
+[<sup>1</sup> Ce Conseil fait office de conseil consultatif stratégique du domaine politique de l'Environnement, de la Nature et de l'Energie.]<sup>1</sup>
+
+Le conseil consultatif stratégique porte le nom de Conseil de l'Environnement et de la Nature de la Flandre, ci-après dénommé Conseil MiNa. Il possède la personnalité juridique.
+
+Les dispositions du [<sup>2</sup> titre III, chapitre 3, section 7, du Décret de gouvernance du 7 décembre 2018]<sup>2</sup> sont applicables au Conseil MiNa.
+
+----------
+
+(1)&lt;DCFL 2008-12-19/14, art. 27, 022; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.27, 065; En vigueur : 01-01-2019&gt;
+
+### CHAPITRE II. - Missions. &lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt;
+
+**Art. 11.2.1**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Mission.
+
+Le Conseil MiNa a, compte tenu des objectifs et principes formulés à l'article 1.2.1 du présent décret, les missions suivantes :
+
+1° émettre des avis, d'initiative ou sur demande, sur les lignes de force de la politique de l'environnement ou sur la politique relative à l'aspect environnemental du développement durable;
+
+2° contribuer à la formation d'une vision politique sur la politique de l'environnement ou sur la politique relative à l'aspect environnemental du développement durable;
+
+3° suivre et interpréter les développements sociaux et politiques concernant l'environnement et l'aspect environnemental du développement durable aux différents niveaux politiques et dans les divers domaines politiques;
+
+4° émettre des avis sur des avant-projets de décret relatifs à la politique de l'environnement ou des avant-projets de décret relatifs à d'autres domaines politiques qui ont des incidences majeures sur l'environnement;
+
+5° émettre des avis, d'initiative ou sur demande, sur des projets de décret relatifs à la politique de l'environnement ou des projets de décret relatifs à d'autres domaines politiques qui ont des incidences majeures sur l'environnement;
+
+6° émettre des avis, d'initiative ou sur demande, sur des projets d'arrêté du Gouvernement flamand relatifs à la politique de l'environnement;
+
+7° fournir des réflexions sur les notes d'orientation présentées au Parlement flamand concernant la politique de l'environnement et l'aspect environnemental du développement durable en Flandre;
+
+8° émettre des avis, d'initiative ou sur demande, sur des projets d'accord de coopération d'importance stratégique pour la politique de l'environnement ou l'aspect environnemental du développement durable que la Région flamande veut passer avec l'Etat ou d'autres régions ainsi que les plans nationaux d'importance stratégique pour la politique de l'environnement ou pour la politique relative à l'aspect environnemental du développement durable;
+
+9° émettre des avis, d'initiative ou sur demande sur des intentions politiques, plans politiques et réglementations en préparation au niveau de l'Union européenne ainsi que sur des traités internationaux en voie de préparation qui ont une importance stratégique pour la politique de l'environnement ou pour la politique relative à l'aspect environnemental du développement durable
+
+§ 2. Le Gouvernement flamand est obligé de demander un avis sur :
+
+1° les avant-projets de décret visés au § 1er, 4°;
+
+2° les projets d'arrêté du Gouvernement flamand qui ont une importance stratégique, visés au § 1er, 6°.
+
+§ 3. Le Gouvernement flamand peut, moyennant motivation, déroger aux avis d'un conseil consultatif stratégique visés au § 2, et en informe le Conseil MiNa.
+
+§ 4. Les avis du Conseil MiNa sont publics.
+
+### CHAPITRE III. - Composition et organisation. &lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt;
+
+**Art. 11.3.1**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Composition.
+
+§ 1er. Le Conseil MiNa est composé de représentants de la société civile qui sont actifs dans ou peuvent être saisis par la politique de l'environnement, d'experts indépendants en matière d'environnement ou de la politique de l'environnement ainsi que de représentants des villes, communes et provinces.
+
+§ 2. Les organisations ou groupements suivants de la société civile sont représentés dans le Conseil MiNa :
+
+1° les associations de défense de l'environnement, à savoir toute organisation qui est créée à l'initiative privée et sans but lucratif, qui opère principalement en Flandre et qui a pour objectif central et explicite la promotion de la protection de l'environnement ou de la conservation de la nature au sens de l'article 1.2.1 du présent décret, et entreprend à cet effet de larges activités politiques.
+
+2° les organisations socio-économiques, à savoir toute organisation qui est créée à l'initiative privée et sans but lucratif, qui opère principalement en Flandre et qui a pour objectif central et explicite la défense des intérêts des employeurs et des travailleurs dans les entreprises ou certains secteurs ou branches économiques spécifiques;
+
+3° les organisations agricoles, à savoir toute organisation qui est créée à l'initiative privée et sans but lucratif, à l'exclusion des organisations prévues sous 1° et 2°, qui représentent le secteur agricole au niveau flamand;
+
+4° les organisations liées à l'espace libre, à savoir toute organisation qui est créée à l'initiative privée et sans but lucratif, à l'exclusion des organisations prévues sous 1°, 2° et 3°, qui représentent un intérêt spécifique au niveau flamand qui a trait à l'utilisation économique ou récréatif de l'environnement et de la nature en l'espace libre en Flandre;
+
+5° les organisations socioculturelles qui représentent les intérêts des consommateurs et des ménages, à savoir toute organisation qui est créée à l'initiative privée et sans but lucratif, à l'exclusion des associations de défense de l'environnement qui représentent au niveau flamand les intérêts des consommateurs, des ménages ou d'autres groupes dans la société et qui a par conséquent intérêt au bon état de l'environnement ou de la nature en Flandre.
+
+§ 3. Par experts indépendants on entend : académiciens, experts environnementaux qui travaillent pour un bureau conseil indépendant ou comme indépendant ou autres personnes qui ont acquis de l'autorité pour cause de leur expérience, engagement ou expertise pour ce qui concerne la réalisation des objectifs prévus à l'article 1.2.1 du présent décret.
+
+**Art. 11.3.2**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Mode de composition.
+
+§ 1er. Le Conseil MiNa est composé de vingt-quatre membres qui sont nommés par le Gouvernement flamand pour un délai de quatre ans.
+
+Parmi ceux, dix-huit représentants sont nommés sur la proposition de la société civile, à savoir :
+
+1° pour les associations de défense de l'environnement : huit représentants sur la proposition d'une organisation de coordination, visée à l'article 11, § 2, alinéa premier, du décret du 29 avril 1991 et fixant les règles générales relatives à l'agrément et au subventionnement des associations écologiques, ou sur la proposition d'associations de membres régionales qui sont agréées comme telles en vertu du même décret, après avis d'une organisation de coordination;.
+
+2° pour les organisations socio-économiques : six représentants sur la proposition des organisations socio-économiques représentées dans le Conseil socio-économique de la Flandre, y compris un représentant d'une organisation agricole;
+
+3° pour les organisations liées à l'espace libre : deux représentants sur la proposition de ces organisations;
+
+4° pour les organisations socioculturelles qui représentent les intérêts des consommateurs et des ménages : deux représentants sur la proposition de ces organisations.
+
+Deux membres sont nommés sur la proposition des organisations qui représentent les villes et communes flamandes ou les provinces flamandes.
+
+Les quatre autres membres sont des experts indépendants. Ils sont désignés après un appel public à candidatures.
+
+§ 2. Les organisations qui représentent la société civile ainsi que les organisations qui représentent les villes, communes ou provinces, proposent à chaque présentation tant un membre effectif qu'un suppléant. Aucun suppléant n'est désigné pour les experts indépendants.
+
+§ 3. Les représentants de la société civile et leurs suppléants, ainsi que les représentants des villes, communes et provinces et leurs suppléants, sont proposés sur des listes doubles qui prévoient une représentation équilibrée d'hommes et de femmes.
+
+§ 4. Le président du Conseil MiNa est nommé par le Gouvernement flamand parmi ses membres. Le président représente le conseil en justice, sans préjudice de la possibilité de délégation de cette compétence.
+
+§ 5. Les organisations proposant peuvent à tout moment procéder au remplacement des membres et suppléants proposés par elles, suivant la procédure citée au § 3. Lorsqu'un représentant de la société civile prend démission, son suppléant le remplace de plein droit, et le Gouvernement flamand désigne un nouveau suppléant sur la proposition de l'organisation qui a proposé le membre démissionnaire, suivant la même procédure.
+
+§ 6. Lorsqu'un expert indépendant prend démission, le Gouvernement flamand désigne un nouveau membre après un appel public à candidatures.
+
+§ 7. Lorsqu'il ressort du rapport annuel qu'un membre du conseil ne s'investit pas dans les activités de ce dernier, ce membre est démis de plein droit. [<sup>1</sup> Un membre du conseil ne s'investit manifestement pas dans les activités du conseil, lorsque dans une année d'activité il n'a participé ni aux réunions des commissions de travail, ni à celles du conseil.]<sup>1</sup> Le Gouvernement flamand désigne à ce moment et pour le restant de la durée du mandat concerné pour la catégorie en question, telle que définie à l'article 11.3.1, § 2, un nouveau membre, après appel public à candidatures.
+
+----------
+
+(1)&lt;DCFL 2012-04-20/11, art. 29, 033; En vigueur : 01-06-2012&gt;
+
+**Art. 11.3.3**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Indépendance.
+
+Les membres du Conseil MiNa exercent leurs fonctions en toute indépendance vis-à-vis des autorités flamandes.
+
+### CHAPITRE IV. - Fonctionnement. &lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt;
+
+**Art. 11.4.1**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Fonctionnement interne.
+
+Le fonctionnement du Conseil MiNa est régi par [<sup>2</sup> les articles III.99 à III.104 du Décret de gouvernance du 7 décembre 2018]<sup>2</sup>.
+
+[<sup>1</sup> Le Conseil règle son fonctionnement dans un règlement d'ordre intérieur qui fixe au minimum la composition, le fonctionnement et les compétence du bureau journalier, ainsi que les compétences du président et du directeur. Le directeur fait d'office partie du bureau journalier. Ni le bureau journalier, ni le président, ni le directeur ne peuvent être chargé de formuler un avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2007-05-25/39, art. 47, 016; En vigueur : 29-06-2007&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.28, 065; En vigueur : 01-01-2019&gt;
+
+**Art. 11.4.2**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Commissions de travail permanentes.
+
+§ 1er. Il est créé au sein du Conseil MiNa des commissions de travail permanentes pour la politique de la nature, la politique forestière, la politique de la chasse, la politique de la pêche fluviale, [<sup>1</sup> ...]<sup>1</sup>, l'Education à la Nature et à l'Environnement (NME) et le Développement durable.
+
+§ 2. Le Gouvernement flamand peut également créer au sein du Conseil MiNa d'autres commissions de travail permanentes concernant des éléments ou aspects de la politique de l'environnement pour lesquels existe une expertise spécifique et qui s'adressent à des groupes cibles ou groupes sociaux spécifiques.
+
+§ 3. La composition de ces commissions de travail permanentes s'effectue dans le respect d'une représentation équilibrée d'hommes et de femmes, [<sup>2</sup> ...]<sup>2</sup> , de la manière suivante :
+
+1° la moitié des membres sont sélectionnes et nommés par le Gouvernement flamand sur la base de leur expertise spécifique et de leur représentativité spécifique qui a trait aux sujets traités par la commission de travail permanente;
+
+2° la moitié des membres sont sélectionnés et nommés par le Gouvernement flamand sur la base de leur expertise spécifique et d'une proposition du Conseil MiNa.
+
+Les commissions de travail permanentes comptent au maximum 16 membres.
+
+§ 4. Le Conseil MiNa délègue aux commissions de travail permanentes la préparation des activités définies à l'article 11.2.1, dans la mesure où celles-ci ont trait à la politique qui fait l'objet de la mission de la commission de travail.
+
+§ 5. Le Conseil MiNa prend toujours la décision finale sur les projets d'avis et autres projets de documents qui sont élaborés dans les commissions de travail permanentes.
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 99, 028; En vigueur : 28-02-2011&gt;
+
+(2)&lt;DCFL 2010-12-23/39, art. 100, 028; En vigueur : 28-02-2011&gt;
+
+**Art. 11.4.3**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Moyens financiers.
+
+Le Conseil MiNa finance son fonctionnement et l'exécution de sa mission par :
+
+1° des dotations;
+
+2° des recettes propres :
+
+**Art. 11.4.4**
+
+&lt;Inséré par DCFL 2004-04-30/45, art. 2; En vigueur : indéterminée &gt; Coopération.
+
+§ 1er. Pour l'examen de matières particulières, le Conseil MiNa peut faire appel à des tiers experts, contre paiement ou non.
+
+§ 2. Pour l'accomplissement de sa mission, le Conseil MiNa peut constituer entre autres les formes de coopération suivantes :
+
+1° une coopération avec d'autres organes consultatifs similaires hors de la Région flamande pour échanger des informations et des idées sur la politique de l'environnement interrégionale, nationale, européenne et internationale et la politique relative à l'aspect environnemental du développement durable;
+
+2° une coopération avec d'autres conseils consultatifs stratégiques de la Région flamande ou de la Communauté flamande afin de conseiller sur les matières politiques qui concernent plusieurs domaines politiques;
+
+3° une coopération avec des conseils consultatifs environnementaux provinciaux et communaux pour échanger des informations et des idées sur la politique de l'environnement flamande, provinciale ou communale.
+
+## TITRE XII. - [<sup>1</sup> Ressources génétiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 2, 067; En vigueur : 22-04-2019&gt;
+
+### CHAPITRE Ier. - [<sup>1</sup> Dispositions introductives]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 3, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.1.1**
+
+[<sup>1</sup> Pour l'application du présent titre, les définitions visées à l'article 3 du règlement (UE) n° 511/2014 s'appliquent et dans ce titre, on entend par :
+
+1° Règlement (UE) n° 511/2014 : le Règlement (UE) n° 511/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux mesures concernant le respect par les utilisateurs dans l'Union du protocole de Nagoya sur l'accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation ;
+
+2° Règlement d'exécution (UE) 2015/1866 : le règlement d'exécution (UE) 2015/1866 de la Commission du 13 octobre 2015 portant modalités d'application du règlement (UE) n° 511/2014 du Parlement européen et du Conseil en ce qui concerne le registre des collections, la surveillance du respect des règles par l'utilisateur et les bonnes pratiques ;
+
+3° ressources génétiques flamandes : les ressources génétiques visées à l'article 2 du Règlement (UE) n° 511/2014, présentes in situ en Région flamande ou conservées ex situ en Région flamande, à l'exception des ressources génétiques conservées par les institutions de recherche qui relèvent de la compétence fédérale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 4, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.1.2**
+
+[<sup>1</sup> Le présent titre s'applique aux ressources génétiques, aux connaissances traditionnelles relatives aux ressources génétiques et aux avantages qui en découlent, visés à l'article 2 du règlement (UE) n° 511/2014.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 5, 067; En vigueur : 22-04-2019&gt;
+
+### CHAPITRE II. - [<sup>1</sup> Obligations des utilisateurs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 6, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.2.1**
+
+[<sup>1</sup> L'accès aux ressources génétiques flamandes, aux connaissances traditionnelles sur ces ressources et aux avantages qui en découlent, visés à l'article 2 du règlement (UE) n° 511/2014, et leur utilisation sont libres.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 7, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.2.2**
+
+[<sup>1</sup> Lors de l'accès aux et de l'utilisation des ressources génétiques non flamandes, des connaissances traditionnelles sur ces ressources et des avantages qui en découlent, visés à l'article 2 du règlement (UE) n° 511/2014, les utilisateurs respectent le règlement (UE) n° 511/2014 et son règlement d'exécution (UE) 2015/1866.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 8, 067; En vigueur : 22-04-2019&gt;
+
+### CHAPITRE III. - [<sup>1</sup> Instance compétente]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 9, 067; En vigueur : 22-04-2019&gt;
+
+#### Section I. - [<sup>1</sup> Désignation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 10, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.3.1**
+
+[<sup>1</sup> Pour chacune des tâches visées à la section 2, le Gouvernement flamand désigne l'instance ou les instances compétentes pour les accomplir.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 11, 067; En vigueur : 22-04-2019&gt;
+
+#### Section II. - [<sup>1</sup> Tâches]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 1, 067; En vigueur : 22-04-2019&gt;
+
+##### Sous-section I. - [<sup>1</sup> Collections]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 13, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.3.2**
+
+[<sup>1</sup> L'instance compétente :
+
+1° examine les demandes d'inscription d'une collection ou d'une partie de collection au registre visé à l'article 5, alinéa 2, du règlement (UE) n° 511/2014 et à l'article 3, alinéas 2 à 4, du règlement d'exécution (UE) 2015/1866 ;
+
+2° est responsable de la vérification, visée à l'article 5, alinéa 4, du règlement (UE) n° 511/2014 et à l'article 4 du règlement d'exécution (UE) 2015/1866, d'une collection flamande ou de partie d'une collection flamande. Une collection flamande est une collection telle que visée à l'article 3, 9°, du Règlement (UE) n° 511/2014, qui est située sur le territoire de la Région flamande, à l'exception des collections conservées par les institutions fédérales de recherche scientifique.
+
+Le Gouvernement flamand peut arrêter des modalités procédurales concernant l'introduction de la demande d'inscription au registre des collections dans l'UE, visée à l'article 5, alinéa 2, du règlement (UE) n° 511/2014, le traitement de la demande par l'instance compétente visée à l'alinéa 1er, 1°, ainsi que le contrôle périodique et la vérification régulière des collections inscrites au registre des collections de l'UE et l'adoption des mesures et actions réparatrices, des mesures et actions correctives, et des mesures intermédiaires telles que visées à l'alinéa 1er, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 14, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.3.3**
+
+[<sup>1</sup> La décision de refus de la demande d'inscription au registre des collections dans l'UE visée à l'article 12.3.2 peut faire l'objet d'un recours auprès du Gouvernement flamand ou de son délégué.
+
+Le Gouvernement flamand peut arrêter des modalités procédurales relatives à ce recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 15, 067; En vigueur : 22-04-2019&gt;
+
+##### Sous-section II. - [<sup>1</sup> Contrôle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 1, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.3.4**
+
+[<sup>1</sup> Conformément à l'article 5 du règlement d'exécution (UE) 2015/1866, chaque bénéficiaire de ressources financières, établi en Région flamande, qui sont utilisées pour la recherche relative à l'utilisation des ressources génétiques ou des connaissances traditionnelles relatives aux ressources génétiques doit soumettre la déclaration de diligence visée à l'article 7, alinéa 1er, du règlement (UE) n° 511/2014.
+
+En application de l'article 5, alinéas 1 à 3 et 5, du règlement d'exécution (UE) 2015/1866, la déclaration de diligence visée à l'alinéa 1er est soumise à l'instance compétente dans les cas suivants :
+
+1° le projet de recherche reçoit des fonds de plus d'une source ou concerne plus d'un bénéficiaire des fonds et le(s) bénéficiaire(s) décide(nt) de ne soumettre qu'une seule déclaration, par le coordinateur du projet établi en Région flamande ;
+
+2° le projet de recherche est réalisé dans un Etat membre de l'Union européenne, a un coordinateur de projet qui n'est pas établi dans l'Union, reçoit des fonds de plus d'une source ou concerne plus d'un bénéficiaire des fonds, et le ou les bénéficiaires décident de soumettre la seule déclaration en Région flamande par le coordinateur de projet ;
+
+3° dans les cas autres que ceux visés aux points 1° ou 2°, si l'une des conditions suivantes est remplie :
+
+a) si le bénéficiaire des fonds est établi dans la Région flamande ;
+
+b) si le bénéficiaire des fonds n'est pas établi dans l'Union européenne mais que la recherche est effectuée dans la Région flamande.
+
+En ce qui concerne l'utilisation des ressources génétiques ou des connaissances traditionnelles relatives aux ressources génétiques, tout utilisateur établi en Région flamande soumet à l'instance compétente la déclaration de diligence visée à l'alinéa 1er, conformément à l'article 7, alinéa 2, du règlement (UE) n° 511/2014 et à l'article 6 du règlement d'exécution (UE) 2015/1866.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 17, 067; En vigueur : 22-04-2019&gt;
+
+### CHAPITRE IV. - [<sup>1</sup> Dispositions de sanction]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 18, 067; En vigueur : 22-04-2019&gt;
+
+**Art. 12.4.1**
+
+[<sup>1</sup> Les infractions aux articles 4 et 7 du règlement (UE) n° 511/2014 sont sanctionnées conformément aux dispositions du titre XVI du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-22/09, art. 19, 067; En vigueur : 22-04-2019&gt;
+
+## TITRE XV. - Dommages environnementaux. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007
+
+### CHAPITRE Ier. - Dispositions introductives. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007
+
+#### Section Ire. - Définitions. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007
+
+**Art. 15.1.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Pour l'application du présent titre, il faut entendre par :
+
+1° dommage environnemental : les dommages causés aux espèces et habitats naturels protégés, les dommages affectant les eaux et les dommages affectant les sols;
+
+2° dommage : une modification négative mesurable d'une ressource naturelle ou une détérioration mesurable d'une fonction d'écosystème, qui peut survenir de manière directe ou indirecte;
+
+3° ressources naturelles : espèces et habitats naturels, eaux et sols protégés;
+
+4° fonctions et fonctions d'écosystèmes : les fonctions assurées par les ressources naturelles au bénéfice d'autres ressources naturelles ou du public;
+
+5° décret sur la Conservation de la Nature : le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel;
+
+6° dommages aux espèces et habitats naturels : toute forme de dommage ayant des incidences négatives significatives ou affectant gravement le maintien d'un état de conservation favorable de ces espèces ou habitats. Ces incidences sont déterminées à l'aide des critères mentionnés dans l'annexe III. Ces dommages n'englobent pas les incidences négatives précédemment identifiées qui résultent d'un acte de l'exploitant qui a été expressément autorisé conformément aux dispositions de l'article 36ter, §§ 3, 4 et 5, ou aux dispositions prises en exécution des articles 51 et 56 du décret sur la Conservation de la Nature en ce qui concerne les espèces ornithologiques visées à l'annexe IV du décret sur la Conservation de la Nature et les oiseaux migrateurs réguliers et non mentionnés dans ladite annexe, et en ce qui concerne les espèces animalières et végétales mentionnées dans l'annexe III du décret sur la Conservation de la Nature;
+
+7° espèces et habitats naturels protégés :
+
+a) les espèces ornithologiques visées à l'annexe IV du décret sur la Conservation de la Nature, les oiseaux migrateurs réguliers et non mentionnés dans l'annexe IV, les espèces animalières et végétales mentionnées dans l'annexe II ou III du décret sur la Conservation de la Nature;
+
+b) les habitats des espèces ornithologiques visées à l'annexe IV du décret sur la Conservation de la Nature, les habitats des oiseaux migrateurs réguliers et non mentionnés dans l'annexe IV, les habitats des espèces animalières et végétales mentionnées dans l'annexe II du décret sur la Conservation de la Nature, les habitats mentionnés dans l'annexe Ire du décret sur la Conservation de la Nature et les sites de reproduction et aires de repos des espèces mentionnées dans l'annexe III du décret sur la Conservation de la Nature;
+
+c) les espèces et habitats, non mentionnés dans les annexes Ire, II, III et IV du décret sur la Conservation de la Nature, qui sont désignés par le Gouvernement flamand, sur avis de l'instance compétente, pour faire l'objet de l'application du présent titre;
+
+8° état de conservation d'un habitat naturel : l'ensemble des influences agissant sur l'habitat naturel concerné ainsi que sur les espèces typiques qu'il abrite, qui peuvent affecter à long terme la répartition naturelle, la structure et les fonctions de cet habitat ainsi que la survie à long terme de ses espèces typiques sur le territoire de la Région flamande ou dans l'aire de répartition naturelle de cet habitat;
+
+9° état de conservation d'une espèce : l'ensemble des influences qui, agissant sur l'espèce concernée, peuvent affecter à long terme la répartition et l'importance de ses populations sur le territoire de la Région flamande ou dans l'aire de répartition naturelle de cette espèce;
+
+10° état de conservation favorable d'un habitat naturel : état qui se produit lorsqu'il est répondu aux conditions suivantes :
+
+a) l'aire de répartition naturelle de l'habitat et sa superficie sont stables ou en augmentation;
+
+b) la structure et les fonctions spécifiques nécessaires à son maintien à long terme existent et sont susceptibles de continuer à exister dans un avenir prévisible;
+
+c) l'état de conservation des espèces typiques que l'habitat abrite est favorable conformément à la définition visée sous 11°;
+
+11° état de conservation d'une espèce : état qui se produit lorsqu'il est répondu aux conditions suivantes :
+
+a) les données relatives à la dynamique des populations de l'espèce concernée indiquent qu'elle se maintient comme élément viable de son habitat et qu'elle est susceptible de continuer à exister à long terme;
+
+b) l'aire de répartition naturelle de l'espèce ne diminue pas ou semble ne pas diminuer dans un avenir prévisible;
+
+c) il existe et il continuera probablement d'exister un habitat suffisamment grand pour maintenir à long terme les populations qu'il abrite;
+
+12° décret sur la Politique intégrée de l'Eau : le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau[<sup>2</sup>, coordonné le 15 juin 2018]<sup>2</sup>;
+
+13° dommages affectant les eaux : tout dommage qui affecte de manière significative et négative l'état écologique, le potentiel écologique ou l'état chimique ou quantitatif des eaux de surface, tels que définis dans le décret sur la Politique intégrée de l'Eau, à l'exception des incidences négatives auxquelles s'applique l'article 56 du décret sur la Politique intégrée de l'Eau;
+
+14° eau : toutes les eaux de surfaces et souterraines auxquelles s'applique le décret sur la Politique intégrée de l'Eau;
+
+15° décret relatif au sol : décret du 27 octobre 2006 relatif à l'assainissement du sol et à la protection du sol;
+
+16° dommages affectant les sols : nouvelle contamination du sol dépassant les normes d'assainissement de sol, conformes aux dispositions du décret relatif au sol;
+
+17° exploitant : toute personne physique ou morale qui exerce ou contrôle une activité professionnelle ou qui a reçu par délégation un pouvoir économique important sur le fonctionnement technique d'une telle activité, y compris le titulaire d'un permis ou d'une autorisation pour une telle activité ou la personne faisant enregistrer ou notifiant une telle activité;
+
+18° activité professionnelle : toute activité exercée dans le cadre d'une activité économique, d'une affaire ou d'une entreprise, indépendamment de son caractère privé ou public, lucratif ou non lucratif;
+
+19° mesures : mesures préventives, restrictives et de réparation;
+
+20° menace immédiate de dommage : une probabilité suffisante de survenance d'un dommage environnemental dans un avenir proche;
+
+21° mesures préventives : toute mesure prise en réponse à un événement, un acte ou une omission qui a créé une menace immédiate de dommage environnemental, afin de prévenir ou de limiter ce dommage à un minimum;
+
+22° mesures restrictives : mesures visant à immédiatement maîtriser, réduire, enlever ou gérer les substances polluantes ou autres facteurs nuisibles afin de limiter ou d'éviter les dommages environnementaux et les incidences négatives sur la santé humaine ou afin de limiter ou d'éviter la détérioration continuée de fonctions;
+
+23° mesures de réparation : mesures, y compris les mesures transitoires visant à restaurer, réhabiliter ou remplacer les ressources naturelles endommagées ou les fonctions d'écosystème détériorés ou à fournir une alternative équivalente à ces ressources ou fonctions, telles que prévues aux articles 15.3.3 à 15.3.11 compris;
+
+24° état de référence : l'état des ressources naturelles ou des fonctions d'écosystèmes, au moment du dommage, qui aurait existé si le dommage environnemental n'était pas survenu, reconstruit à l'aide des meilleures informations disponibles;
+
+25° régénération : dans le cas des eaux, des espèces et habitats naturels protégés, le retour des ressources naturelles endommagées ou des fonctions d'écosystème détériorés à leur état de référence; dans le cas de dommages affectant les sols, l'élimination de tout risque considérable d'incidence négative sur la santé humaine, conformément au dispositions concernées du décret sur le sol. La régénération comprend également la régénération naturelle;
+
+26° mesures de réparation primaires : les mesures permettant de restaurer ou de réparer les ressources naturelles et les fonctions d'écosystème détériorés dans l'état de référence;
+
+27° mesures de réparation complémentaires : mesures relatives aux ressources naturelles ou aux écosystèmes en compensation du fait que les mesures de réparation primaires ne mènent pas à la réparation complète des ressources naturelles et des fonctions d'écosystème détériorées. Elles ont pour but de créer un même niveau de ressources naturelles ou de fonctions d'écosystèmes, si nécessaire à un autre endroit, qui existerait lorsqu'au cas où l'endroit contaminé serait remis en son d'état de référence. L'autre location doit, là où possible et approprié, être géographiquement liée à la location contaminée, compte tenu des intérêts de la population atteinte. Ces mesures sont conçues de sorte que les ressources naturelles supplémentaires ou fonctions d'écosystème répondent aux préférences et au schéma dans le temps des mesures de réparation;
+
+28° mesures de réparation compensatoires : mesures en compensation des pertes intérimaires de ressources naturelles ou de fonctions d'écosystème qui se produisent entre le moment où les dommages commencent à se manifester et le moment où les mesures de réparation primaires ont produit leur plein effet. Cette compensation implique que des améliorations complémentaires sont apportées aux habitats naturels et aux espèces ou aux eaux dans la location adaptée ou alternative. Ces mesures ne consistent pas en une compensation financière pour le public. Ces mesures sont conçues de sorte que les ressources naturelles supplémentaires ou fonctions d'écosystème répondent aux préférences et au schéma dans le temps des mesures de réparation;
+
+29° pertes intérimaires : pertes qui sont la conséquence du fait que les ressources naturelles ou fonctions de ressources naturelles contaminées ne peuvent pas remplir leur fonction écologique ou ne peuvent pas remplir des fonctions pour d'autres ressources naturelles ou pour le public jusqu'à ce que les mesures primaires ou complémentaires aient produit leurs effets. Ces mesures ne consistent pas en une compensation financière pour le public;
+
+30° coûts : les coûts justifiés par la nécessité d'assurer une mise en oeuvre correcte et effective du présent titre. Ces coûts comprennent également les coûts de l'évaluation des dommages environnementaux, de la menace imminente de tels dommages et les coûts de mesures alternatives, ainsi que les coûts administratifs, judiciaires et d'exécution, les coûts de collecte des données et les autres frais généraux, et les coûts de la surveillance et du suivi.
+
+----------
+
+(1)&lt;Inséré par DCFL 2008-12-12/09, art. 155, 021; En vigueur :14-02-2009&gt;{BR
+
+(2)&lt;DCFL 2024-05-17/29, art. 31, 081; En vigueur : 20-07-2024&gt;
+
+#### Section II. - Domaine d'application. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.1.2**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La présente directive s'applique aux dommages causés à l'environnement par l'une des activités professionnelles énumérées à l'annexe IV, et à la menace immédiate de tels dommages découlant de l'une de ces activités professionnelles.
+
+Ce titre s'applique également aux dommages causés aux espèces et habitats naturels protéges par l'une des activités professionnelles autres que celles énumérées à l'annexe IV ainsi qu'à la menace immédiate de tels dommages découlant de l'une de ces autres activités professionnelles, lorsque l'exploitant a commis une faute ou une négligence.
+
+#### Section III. - Rapport avec d'autres droits. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.1.3**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le présent titre s'applique sans préjudice de dispositions plus strictes relatives à l'activité professionnelle relevant du champ d'application du présent titre.
+
+**Art. 15.1.4**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le présent titre s'applique sans préjudice du droit de responsabilité applicable, du droit d'accès au juge et de la législation sur les conflits de juridiction.
+
+**Art. 15.1.5**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le présent titre ne s'applique pas aux cas de lésion corporelle, de dommages à une propriété privée ou à une perte économique et ne confère donc aux personnes aucun droit à indemnisation à la suite d'un dommage environnemental ou d'une menace immédiate d'un tel dommage.
+
+#### Section IV. - Exceptions. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.1.6**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; § 1er. Le présent titre ne s'applique pas aux dommages environnementaux ou à une menace immédiate de tels dommages causés par :
+
+1° un conflit armé, des hostilités, une guerre civile ou une insurrection;
+
+2° un phénomène naturel de nature exceptionnelle, inévitable et irrésistible.
+
+§ 2. Le présent titre ne s'applique pas aux activités menées principalement dans l'intérêt de la défense nationale ou de la sécurité internationale.
+
+§ 3. Le présent titre ne s'applique pas aux activités dont l'unique objet est d'assurer la protection contre les catastrophes naturelles.
+
+§ 4. Le présent titre ne s'applique pas :
+
+1° aux dommages causés par une émission, un événement ou un incident ayant eu lieu avant le 30 avril 2007;
+
+2° aux dommages causés par une émission, un événement ou un incident ayant eu lieu le 30 avril 2007 ou après, si les dommages sont causés par une activité spécifique qui a eu lieu et qui a pris fin avant cette date;
+
+3° aux dommages causés par une émission, un événement ou un incident ayant eu lieu il y a plus de trente années.
+
+§ 5. Le présent titre ne s'applique pas aux risques, ni aux dommages environnementaux nucléaires, ni à la menace immédiate de tels dommages qui peuvent résulter d'activités relevant du traité instituant la Communauté européenne de l'énergie atomique ou d'un incident ou d'une activité à l'égard desquels la responsabilité ou l'indemnisation relèvent du champ d'application d'une des conventions internationales suivantes, y compris toute modification future de ces conventions :
+
+1° la Convention de Paris du 29 juillet 1960 sur la responsabilité civile dans le domaine de l'énergie nucléaire ainsi que la Convention de Bruxelles du 31 janvier 1963 complétant la Convention de Paris;
+
+2° la Convention de Vienne du 21 mai 1963 sur la responsabilité civile dans le domaine des dommages nucléaires;
+
+3° la Convention du 12 septembre 1997 sur le financement complémentaire en relation avec les dommages nucléaires;
+
+4° le protocole conjoint du 21 septembre 1988 concernant l'application de la Convention de Vienne et de la convention de Paris;
+
+5° la Convention de Bruxelles du 17 décembre 1971 relative à la responsabilité civile dans le domaine du transport maritime des matières nucléaires.
+
+§ 6. Le présent titre ne s'applique pas aux dommages environnementaux ou à la menace immédiate de tels dommages qui peuvent résulter d'un incident à l'égard desquels la responsabilité ou l'indemnisation relèvent du champ d'application d'une des conventions internationales suivantes, y compris toute modification future de ces conventions :
+
+1° la convention internationale du 27 novembre 1992 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures;
+
+2° la convention internationale du 27 novembre 1992 portant création d'un Fonds international d'indemnisation pour les dommages dus à la pollution par les hydrocarbures.
+
+§ 7. La présente directive s'applique uniquement aux dommages environnementaux ou à la menace immédiate de tels dommages causés par une pollution à caractère diffus, lorsqu'il est possible d'établir un lien de causalité entre les dommages et les activités des exploitants individuels.
+
+### CHAPITRE II. - Actions préventives. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.2.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Lorsqu'un dommage environnemental n'est pas encore survenu, mais qu'il existe une menace immédiate qu'un tel dommage survienne, l'exploitant prend immédiatement les mesures préventives nécessaires.
+
+**Art. 15.2.2**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Les exploitants sont tenus d'informer l'autorité compétente de tous les aspects pertinents dans les meilleurs délais lorsqu'une menace immédiate de dommage environnemental ne disparaît pas en dépit des mesures préventives prises par l'exploitant concerné.
+
+**Art. 15.2.3**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'autorité compétente peut, à tout moment :
+
+1° obliger l'exploitant à fournir des informations sur une menace immédiate de dommage environnemental ou dans le cas ou une telle menace immédiate est suspectée;
+
+2° obliger l'exploitant à prendre les mesures préventives nécessaires;
+
+3° donner à l'exploitant les instructions à suivre quant aux mesures préventives nécessaires à prendre.
+
+**Art. 15.2.4**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le Gouvernement flamand peut arrêter les modalités en exécution des dispositions du présent chapitre, notamment en ce qui concerne le contenu et la procédure de l'obligation d'information de l'exploitant.
+
+### CHAPITRE III. - Actions de réparation. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+#### Section Ire. - Obligations de base. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.3.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Lorsqu'un dommage environnemental s'est produit :
+
+1° l'exploitant informe sans tarder l'autorité compétente de tous les aspects pertinents de la situation;
+
+2° l'exploitant prend toutes les mesures d'endiguement;
+
+3° l'exploitant prend toutes les mesures de réparation nécessaires conformément aux articles 15.3.3 à 15.3.11 compris.
+
+**Art. 15.3.2**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'autorité compétente peut, à tout moment :
+
+1° obliger l'exploitant à fournir des informations complémentaires concernant tout dommage s'étant produit;
+
+2° obliger l'exploitant à prendre les mesures de réparation nécessaires ainsi que les mesures d'endiguement nécessaires;
+
+3° donner à l'exploitant les instructions à suivre quant aux mesures de réparation nécessaires ainsi qu'aux mesures d'endiguement nécessaires à prendre.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 32, 048; En vigueur : 08-01-2016&gt;
+
+#### Section II. - Choix et définition des mesures de réparation. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.3.3**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Les exploitants déterminent, conformément aux articles 15.3.4 à 15.3.11 compris, les mesures de réparation possibles et les soumettent à l'approbation de l'autorité compétente.
+
+##### Sous-section Ire. - Réparation de dommages aux habitats naturels, aux espèces protégés et aux eaux. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.3.4**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; En vue de la définition des mesures de réparation primaires, des options comprenant des actions pour rapprocher directement les ressources naturelles et les fonctions d'écosystème de leur état de référence d'une manière directe et accélérée, ou par une régénération naturelle, sont à envisager.
+
+**Art. 15.3.5**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Lors de la détermination de l'ampleur des mesures de réparation complémentaire et compensatoire, les approches allant dans le sens d'une équivalence des ressources ou des fonctions d'écosystème sont à utiliser en priorité. Dans de telles approches, les actions fournissant des ressources naturelles ou des fonctions d'écosystème de type, qualité et quantité équivalents à ceux endommagés sont à utiliser en priorité. Lorsque cela est impossible, d'autres ressources naturelles ou fonctions d'écosystème sont fournis.
+
+**Art. 15.3.6**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Lorsqu'il est impossible d'utiliser les approches conformément à l'article 15.3.5 sur la base d'une équivalence des ressources naturelles ou de fonctions d'écosystème, des techniques d'évaluation alternatives sont utilisées.
+
+S'il est possible d'évaluer les pertes en ressources ou en fonctions d'écosystème, mais qu'il est impossible d'évaluer en temps utile ou à un coût raisonnable les ressources naturelles ou fonctions d'écosystème de remplacement, l'instance compétente peut opter pour des mesures de réparation dont le coût est équivalent à la valeur monétaire estimée des ressources naturelles ou fonctions d'écosystème perdus.
+
+**Art. 15.3.7**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Les options de réparation raisonnables sont évaluées à l'aide des meilleures technologies disponibles, sur la base des critères suivants :
+
+1° l'effet de chaque option sur la santé humaine et la sécurité;
+
+2° le coût de la mise en oeuvre des différentes options;
+
+3° les perspectives de réussite de chaque option;
+
+4° la mesure dans laquelle chaque option empêchera tout dommage ultérieur et la mesure dans laquelle la mise en oeuvre de cette option évitera des dommages collatéraux;
+
+5° la mesure dans laquelle chaque option a des effets favorables pour chaque composant des ressources naturelles ou fonctions d'écosystème pertinents en question;
+
+6° la mesure dans laquelle chaque option tient compte des aspects sociaux, économiques et culturels pertinents et des autres facteurs pertinents spécifiques au lieu;
+
+7° le délai nécessaire à la réparation effective du dommage environnemental;
+
+8° la mesure dans laquelle chaque option permet la remise en état du site du dommage environnemental;
+
+9° le lien géographique avec le site endommagé.
+
+**Art. 15.3.8**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Lors de l'évaluation des différentes options de réparation, des mesures de réparation primaires qui ne rétablissent pas entièrement l'état de référence des eaux ou des espèces ou habitats naturels protégés endommagés, ou qui le rétablissent plus lentement, peuvent être choisies. Une telle décision ne peut être prise que si les ressources naturelles ou les fonctions d'écosystème faisant l'objet de cette décision, sont compensés par un renforcement des actions complémentaires ou compensatoires aptes à créer un niveau de ressources naturelles ou de fonctions d'écosystème services semblable au niveau existant à l'origine.
+
+**Art. 15.3.9**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Nonobstant les prescriptions visées à l'article 15.3.8, l'instance compétente est habilitée à décider que conformément à l'article 15.8.10 aucune mesure de réparation supplémentaire ne doit être prise si :
+
+1° les mesures de réparation déjà prises garantissent qu'il ne subsiste aucun risque grave d'incidence négative sur la santé humaine, les eaux ou les espèces et habitats naturels protégés;
+
+2° le coût des mesures de réparation à prendre pour rétablir l'état de référence ou un niveau équivalent serait disproportionné par rapport aux bénéfices environnementaux escomptés.
+
+**Art. 15.3.10**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La réparation de dommages à l'eau, aux espèces et habitats naturels implique également que chaque risque grave d'incidence négative sur la santé humaine soit éliminé.
+
+##### Sous-section II. - Réparation de dommage au sol. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.3.11**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La réparation de dommage au sol se fait conformément aux dispositions pertinentes du Décret relatif au sol.
+
+#### Section III. - Mise en oeuvre détaillée. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.3.12**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le Gouvernement flamand peut arrêter les modalités en exécution des dispositions du présent chapitre, notamment en ce qui concerne le contenu et la procédure de l'obligation d'information de l'exploitant en en ce qui concerne la mise en oeuvre des techniques d'évaluation.
+
+### CHAPITRE IV. - Coûts liés à la prévention et à la réparation. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+#### Section Ire. - Obligation de l'exploitant. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.4.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'exploitant supporte les coûts des mesures prises conformément au titre présent, sans préjudice de l'application ultérieure des articles 15.5.1 à 15.5.6 compris.
+
+Les mesures prises par l'instance compétente sur la base des articles 15.8.4 à 15.8.7 compris sont sans effet sur cette obligation de l'exploitation concerné sur la base du titre présent ainsi que sur les mesures en matière d'aide de l'état.
+
+#### Section II. - Recouvrement des coûts en cas de parties multiples. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.4.2**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Lorsqu'un seul et même dommage ou une menace immédiate sont causés par de multiples parties, ces dernières sont solidairement tenues de supporter les coûts.
+
+### CHAPITRE V. - Moyens de défense. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+#### Section Ire. - Dispositions générales. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.5.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; § 1er. Dans les cas où l'exploitant considère qu'il répond aux conditions visées aux articles 15.5.3, 15.5.4, 15.5.5 ou 15.5.6, l'exploitant notifie son point de vue motivé de remboursement des frais encourus auprès de l'instance compétente par lettre recommandée.
+
+Il le fait, sous peine d'irrecevabilité, dans un délai de nonante jours suivant la mise en oeuvre finale des mesures.
+
+§ 2. L'instance compétente examine le point de vue motivé et juge si l'exploitant répond aux conditions posées.
+
+L'instance communique sa décision audit exploitant dans un délai de soixante jours suivant la réception du point de vue motivé.
+
+§ 3. Si l'instance compétente juge que la demande de l'exploitant de remboursement est fondée, l'instance compétente prend les mesures appropriées dans les limites des crédits prévus à cet effet au Fonds MiNa.
+
+§ 4. Dans les cas où l'exploitant fait appel au moyen de défense visé à l'article 15.5.3, l'exploitant doit en première instance recouvrer les frais à charge du tiers. Quand le tiers responsable ne peut pas être identifié ou si ce dernier n'est pas solvable afin de supporter entièrement ou partiellement les coûts, l'exploitant peut recouvrer ses coûts ou leur partie inexigible conformément aux mesures visées au § 1er, alinéa deux.
+
+**Art. 15.5.2**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Les dispositions du présent chapitre ne s'appliquent pas aux dommages au sol.
+
+#### Section II. - Tiers responsable et contrainte de l'autorité. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.5.3**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Un exploitant n'est pas obliger à supporter les coûts des mesures prises conformément au présent titre s'il est en mesure de prouver que le dommage environnemental ou la menace immédiate d'un tel dommage ont été causés par un tiers malgré que les mesures de sécurité appropriées aient été prises et pour autant que le tiers concerné ne soit pas le prédécesseur en droits, le représentant, le désigné ou l'agent exécutant de l'exploitant.
+
+**Art. 15.5.4**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Un exploitant n'est pas obliger à supporter les coûts des mesures prises conformément au présent titre s'il est en mesure de prouver que le dommage environnemental ou la menace immédiate d'un tel dommage résultent du suivi d'un ordre ou d'une instruction contraignant d'une autorité publique, sauf s'il s'agit d'un ordre ou d'une instruction suite à une émission ou à un incident causés par les activités de l'exploitant-même.
+
+#### Section III. - Autorisation. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.5.5**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'exploitant ne doit pas supporter les frais des mesures de réparation prises sur la base du titre présent, s'il est mesure de prouver qu'il :
+
+1° n'est pas en défaut ou qu'il n'a pas commis de négligence;
+
+2° que le dommage environnemental a été causé par une émission ou par un événement qui a explicitement été autorisé sur la base, et entièrement conforme aux conditions, d'une autorisation qui a été octroyée par ou en vertu des dispositions fédérales et régionales applicables et d'arrêtés d'exécution mettant en oeuvre les mesures légales de la Communauté visées à l'annexe IV, telles qu'appliquées à la date de l'émission ou de l'événement.
+
+#### Section IV. - Etat des connaissances scientifiques et techniques. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.5.6**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'exploitant ne doit pas supporter les frais des mesures de réparation prises sur la base du titre présent, s'il est mesure de prouver qu'il :
+
+1° n'est pas en défaut ou qu'il n'a pas commis de négligence;
+
+2° que le dommage environnemental a été causé par des émissions ou activités ou tout mode d'utilisation d'un produit dans le cadre d'une activité dont l'exploitant est en mesures de prouver qu'elle n'était pas considérée comme susceptible de causer des dommages à l'environnement au regard de l'état des connaissances scientifiques et techniques au moment où l'émission ou l'activité a eu lieu.
+
+### CHAPITRE VI. - Demandes de mesures. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.6.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Les personnes suivantes ayant connaissance de cas de dommage environnemental peuvent introduire des observations auprès de l'instance compétente et demander à l'instance compétente de prendre des mesures en vertu du présent titre :
+
+1° personnes physiques et morales touchées ou risquant d'être touchées par le dommage environnemental;
+
+2° personnes physiques et morales ayant un intérêt à l'égard du processus décisionnel environnemental relatif au dommage;
+
+[<sup>1</sup> 2° /1 les personnes physiques et morales qui dénoncent une infraction à un droit, lorsque le code de procédure administrative pose une telle condition ;]<sup>1</sup>
+
+3° personnes morales telles que visées à l'article [<sup>1</sup> 1]<sup>1</sup> de la loi du 12 janvier 1993 concernant un droit d'action en matière de protection de l'environnement.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/29, art. 32, 081; En vigueur : 20-07-2024&gt;
+
+**Art. 15.6.2**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La demande de mesures est accompagnée des informations et données pertinentes venant étayer les observations présentées en relation avec le dommage environnemental en question.
+
+**Art. 15.6.3**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Les personnes visées à l'article 15.6.1 sont informées par l'instance compétente dans les plus brefs délais et en tout cas dans un délai de trente jours de sa décision de prendre des mesures ou non en indiquant les raisons qui motivent cette décision.
+
+**Art. 15.6.4**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le Gouvernement flamand peut arrêter les modalités de l'introduction, du traitement et de la notification d'une demande de mesures.
+
+### CHAPITRE VII. - Recours. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.7.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; § 1er. Les personnes visées à l'article 15.6.1 peuvent engager une procédure de recours auprès du Gouvernement flamand concernant la décision telle que visée à l'article 15.6.3.
+
+Les exploitants vis-à-vis desquels l'instance compétente a entrepris des actions préventives conformément à l'article 15.2.3, ou des actions de réparation dans le sens de l'article 15.3.2, peuvent également engager une procédure de recours auprès du Gouvernement flamand concernant cette décision.
+
+§ 2. Sous peine d'irrecevabilité, le recours est notifié par envoi recommandé contre récépissé ou délivré contre récépissé au Gouvernement flamand dans les trente jours suivant la réception de la décision contestée.
+
+Le Gouvernement flamand se prononce sur la recevabilité dans un délai de quinze jours après réception du recours.
+
+§ 3. Dans un délai de nonante jours suivant la déclaration de recevabilité du recours, le Gouvernement flamand décide du recours après avoir comparer celui-ci aux prescriptions de droit matériel et procédural du présent titre.
+
+§ 4. Ce recours n'est pas suspensif.
+
+§ 5. Si la décision sur le recours formé n'advient pas dans un délai de nonante jours, le recours est réputé être rejeté.
+
+§ 6. Le Gouvernement flamand peut arrêter les modalités relatives à la manière ont le recours visé au présent article doit être formé, publié et traité.
+
+### CHAPITRE VIII. - Instance compétente. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+#### Section Ire. - Désignation. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.8.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le Gouvernement flamand désigne [<sup>2</sup> le Département de l'Environnement et de l'Aménagement du Territoire au sein du domaine politique de l'Environnement et de l'Aménagement du Territoire]<sup>2</sup> en tant qu'instance compétente responsable de l'exécution des différentes tâches prévues aux articles 15.8.2 à [<sup>1</sup> 15.8.19]<sup>1</sup> compris.
+
+Cette instance compétente peut ordonner ou déléguer une ou plusieurs tâches à des autorités publiques ou à des tiers.
+
+Le Gouvernement flamand peut arrêter les modalités relatives à l'organisation et au fonctionnement de l'instance compétente.
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 33, 048; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DCFL 2017-10-27/06, art. 16, 058; En vigueur : 07-12-2017&gt;
+
+#### Section II. - Tâches. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+##### Sous-section Ire. - Tâches générales. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.8.2**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La compétence d'évaluer la nature, l'ampleur et la gravité du dommage incombe à l'instance compétente.
+
+La constatation du dommage au sol se fait conformément aux dispositions pertinentes du Décret relatif au sol.
+
+**Art. 15.8.3**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La compétence d'identification de l'exploitant ayant causé le dommage ou la menace immédiate de dommage, incombe à l'instance compétente.
+
+La désignation de la personne tenue de prévenir et de réparer, à ses propres frais, le dommage au sol, se fait conformément aux dispositions pertinentes du Décret relatif au sol.
+
+**Art. 15.8.3bis**
+
+[<sup>1</sup> A l'exception des articles 15.8.2, 15.8.3 et 15.8.8, le Gouvernement flamand peut définir les cas dans lesquels l'instance compétente peut déléguer ou ordonner la mise en oeuvre des mesures nécessaires à des tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-28/11, art. 45, 040; En vigueur : 04-04-2014&gt;
+
+**Art. 15.8.3ter**
+
+[<sup>1</sup> L'instance compétente informe immédiatement l'exploitant concerné de toute décision imposant des mesures.
+
+La décision mentionnée au premier alinéa précise les motifs sur lesquels elle est fondée, les moyens de recours y compris les délais s'appliquant à ces moyens de recours, qui sont à la disposition de l'exploitant concerné.
+
+Le Gouvernement flamand peut arrêter les modalités du mode de notification.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-12-18/24, art. 34, 048; En vigueur : 08-01-2016&gt;
+
+##### Sous-section II. - Actions préventives. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.8.4**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'instance compétente peut à tout moment :
+
+1° obliger l'exploitant à fournir des informations sur une menace immédiate de dommage environnemental ou dans le cas où une telle menace immédiate est suspectée;
+
+2° obliger l'exploitant à prendre les mesures préventives nécessaires;
+
+3° donner à l'exploitant les instructions à suivre quant aux mesures préventives nécessaires à prendre.
+
+4° prendre elle-même les mesures préventives nécessaires.
+
+[<sup>1</sup> Si les mesures mentionnées au premier alinéa comportent des actes, établissements ou activités soumis à l'obligation de notification ou d'autorisation en vertu du décret du 28 juin 1985 relatif au permis d'environnement, ou de l'article 4.2.1 et de l'article 4.2.2 du Code flamand de l'Aménagement du Territoire, ou de l'article 5.2.1 de ce décret, la décision par laquelle les mesures préventives sont instaurées ou la décision pour prendre d'office des mesures préventives tient lieu d'acte de notification ou de permis d'environnement, de déclaration ou autorisation urbanistique ou d'autorisation, respectivement, de notification ou de permis d'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 35, 048; En vigueur : 08-01-2016&gt;
+
+**Art. 15.8.5**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'instance compétente exige que les mesures préventives soient prises par l'exploitant. Si l'exploitant ne respecte pas les obligations visées aux articles 15.2.1 et 15.2.3, 2° et 3°, ou ne peut être identifié, l'instance compétente peut prendre elle-même ces mesures.
+
+##### Sous-section III. - Actions de réparation. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.8.6**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'instance compétente peut à tout moment :
+
+1° obliger l'exploitant à fournir des informations complémentaires concernant tout dommage s'étant produit. L'instance compétente est autorisée à demander de l'exploitant qu'il fasse lui-même une évaluation et qu'il fournisse toutes les informations et données complémentaires;
+
+2° obliger l'exploitant à prendre les mesures de réparation nécessaires ainsi que les mesures d'endiguement nécessaires;
+
+3° donner à l'exploitant les instructions à suivre quant aux mesures de réparation nécessaires ainsi qu'aux mesures d'endiguement nécessaires à prendre.
+
+4° prendre elle-même les mesures de réparation nécessaires ainsi que toute mesure d'endiguement.
+
+[<sup>1</sup> Si les mesures mentionnées au premier alinéa comportent des actes, établissements ou activités soumis à l'obligation de notification ou d'autorisation en vertu du décret du 28 juin 1985 relatif au permis d'environnement, ou de l'article 4.2.1 et de l'article 4.2.2 du Code flamand de l'Aménagement du Territoire, ou de l'article 5.2.1 de ce décret, la décision imposant des mesures de restriction ou de réparation ou la décision pour prendre d'office des mesures de restriction ou de réparation tient lieu d'acte de notification ou de permis d'environnement, de déclaration ou autorisation urbanistique ou d'autorisation, respectivement, de notification ou de permis d'environnement. ".
+
+Le Gouvernement flamand décide quelles sont les instances devant émettre un avis préalable en la matière, lorsqu'il s'agit de mesures de réparation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 36, 048; En vigueur : 08-01-2016&gt;
+
+**Art. 15.8.7**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'instance compétente exige que les mesures d'endiguement et de réparation soient prises par l'exploitant. Si l'exploitant ne respecte pas les obligations visées aux articles 15.3.1 et 15.3.2, 2° et 3°, ou ne peut être identifié, l'instance compétente peut prendre elle-même ces mesures.
+
+**Art. 15.8.8**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La compétence de définir quelles sont les mesures de réparation à mettre en oeuvre conformément aux articles 15.3.3 à 15.3.11, incombe à l'instance compétente.
+
+##### Sous-section IV. - [<sup>1</sup> Détermination des mesures de confinement et de réparation]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 37, 048; En vigueur : 08-01-2016&gt;
+
+**Art. 15.8.9**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Si nécessaire, l'instance compétente coopère avec l'exploitant.
+
+**Art. 15.8.10**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Lorsque plusieurs cas de dommage environnemental se sont produits de telle manière que l'instance compétente ne peut faire en sorte que les mesures de réparation [<sup>1</sup> mesures de confinement et]<sup>1</sup> nécessaires soient prises simultanément, l'instance compétente est habilitée à décider quel dommage environnemental doit être réparé en premier.
+
+En prenant cette décision, l'instance compétente tient entre autres compte de la nature, de l'ampleur, de la gravité des du dommage environnemental et de la possibilité de régénération naturelle. Les risques pour la santé humaine sont également pris en compte.
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 38, 048; En vigueur : 08-01-2016&gt;
+
+**Art. 15.8.11**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'autorité compétente invite les personnes, visées à l'article 15.6.1, et, en tout cas, les personnes sur le terrain desquelles des mesures de réparation et d'endiguement sont prises, ainsi que l'exploitant à présenter leurs remarques. L'instance compétente tient compte de ces remarques.
+
+Le Gouvernement flamand peut arrêter les modalités du mode de notification.
+
+##### Sous-section V. - Recouvrement des coûts. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.8.12**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007 Sans préjudice de l'application des articles 15.5.1 à 15.5.6 compris, l'instance compétente recouvre les coûts qu'elle a supportés liés aux mesures prises sur la base du présent titre, auprès de l'exploitant qui a causé le dommage ou la menace immédiate de dommage.
+
+Ces coûts sont recouvrés et perçus par l'instance compétente au bénéfice du Fonds MiNa.
+
+**Art. 15.8.13**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La Région flamande peut recouvrer ces frais par le biais d'une contrainte. La contrainte est visée par l'instance compétente et déclarée exécutoire.
+
+Les dispositions de la partie V du Code judiciaire portant saisies conservatoires et voies d'exécution s'appliquent à la contrainte.
+
+La contrainte est notifiée au débiteur par exploit d'huissier.
+
+Dans un délai de trente jours suivant la réception de la contrainte, le débiteur peut faire opposition auprès de la Région flamande par exploit d'huissier.
+
+L'opposition suspend l'exécutoire. La Région flamande peut demander au juge d'abroger la suspension de l'exécutoire.
+
+**Art. 15.8.14**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; La Région flamande recouvre les frais entre autres par une sûreté réelle ou par d'autres garanties appropriées.
+
+Sur la base d'une contrainte déclarée exécutoire et en vue de la certitude de recouvrement des coûts, la Région flamande bénéficie d'un privilège général sur tous les biens immobiliers de l'exploitant et peut grever d'une hypothèque légale tous les biens de l'exploitant pouvant en faire l'objet et situés et enregistrés dans la Région flamande.
+
+Ce privilège prend rang immédiatement après les privilèges visés aux articles 19 et 20 de la loi du 16 décembre 1851 et à l'article 23 du [<sup>1</sup> Code des privilèges maritimes déterminés et des dispositions diverses]<sup>1</sup>.
+
+Le rang de l'hypothèque légale est fixé par la date de l'inscription prise en vertu de la contrainte déclarée exécutoire et notifiée.
+
+L'hypothèque est inscrite sur la demande de l'instance compétente. L'inscription a lieu, nonobstant opposition, contestation ou recours, sur présentation d'une copie de la contrainte déclarée conforme par ce fonctionnaire et faisant mention de sa notification.
+
+[<sup>1</sup> L'article XX.113, alinéa 2, du Code de droit économique]<sup>1</sup> ne s'applique pas à l'hypothèque légale en matière des coûts des mesures.
+
+Le Gouvernement flamand peut accepter d'autres formes de sûreté financière.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/29, art. 33, 081; En vigueur : 20-07-2024&gt;
+
+**Art. 15.8.15**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; En dérogation à l'[<sup>1</sup> article 15.8.12]<sup>1</sup> , le Gouvernement flamand peut décider de renoncer au recouvrement lorsque les coûts du recouvrement sont supérieurs au montant à recouvrer ou lorsque l'exploitant ne peut pas être identifié.
+
+----------
+
+(1)&lt;DCFL 2008-12-12/72, art. 156, 021; En vigueur : 14-02-2009&gt;
+
+**Art. 15.8.16**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'instance compétente a le droit d'introduire une procédure contre l'exploitant en vue du recouvrement des coûts relatifs à toutes les mesures prises sur la base du présent titre, avant qu'un délai de cinq ans ne s'est écoulé, à compter à partir de la date à laquelle les mesures ont entièrement été prises ou à la date à laquelle l'exploitant a été identifié si cette date tombe plus tard.
+
+**Art. 15.8.17**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le Gouvernement flamand peut arrêter les modalités et procédures en vue de déterminer les coûts et d'assurer le recouvrement des coûts.
+
+##### Sous-section VI. - Traitement des demandes de mesures. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.8.18**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'instance compétente prend en considération les observations et les demandes de mesure rendant acceptable l'existence de dommages environnementaux. L'article 15.8.11 s'applique par analogie.
+
+**Art. 15.8.19**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; L'instance compétente informe dans les plus brefs délais possibles les personnes visées à l'article 15.6.1 de la décision de prendre ou de ne pas prendre des mesures ainsi que de la motivation de cette décision.
+
+**Art. 15.8.20**
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 39, 048; En vigueur : 08-01-2016&gt;
+
+**Art. 15.8.21**
+
+[<sup>1</sup> Si les mesures comportent des actes, établissements ou activités soumis à l'obligation de notification ou d'autorisation en vertu du titre V ou de l'article 4.2.1 du Code flamand de l'Aménagement du Territoire, la décision visée à l'article 15.8.20 tient lieu d'acte de notification ou de permis d'environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 220, 049; En vigueur : 23-02-2017 ; abrogé lui-même par DCFL 2015-12-18/24, art. 152&gt;
+
+**Art. 15.8.22**
+
+&lt;Abrogé par DCFL 2014-02-28/11, art. 46, 040; En vigueur : 04-04-2014&gt;
+
+### CHAPITRE IX. - Sûretés financières. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.9.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Le Gouvernement flamand prend des mesures en vue d'encourager les acteurs économiques et financiers appropriés de développer des instruments et marchés d'instruments de sûreté financière, y compris des mécanismes financiers pour des cas d'insolvabilité pour que les exploitants puissent utiliser des garanties financières afin de respecter leurs responsabilités en vertu du présent titre.
+
+### CHAPITRE X. - Coopération avec les régions, l'autorité fédérale et les autres états membres. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.10.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; Lorsqu'un dommage environnemental affecte ou menace d'affecter une ou plusieurs régions, l'autorité fédérale ou d'autres états membres de l'Union européenne, l'instance compétente coopère avec les instances compétentes des autres régions, de l'autorité fédérale ou des autres états membres, notamment par un échange approprié d'informations, en vue de prendre les mesures nécessaires relatives à ce dommage environnemental ou à la menace immédiate de dommage environnemental.
+
+Lorsqu'un dommage environnemental s'est produit conformément à l'alinéa premier, l'instance compétente fournit des informations suffisantes aux instances compétentes des autres régions, de l'autorité fédérale ou des autres états membres de l'Union européenne.
+
+Lorsque l'instance compétente identifie un dommage dont la cause est extérieure à ses frontières, elle peut en informer les instances compétentes de toutes les régions concernées, de l'autorité fédérale ou des états membres de l'Union européenne, le cas échéant la Commission européenne; elle peut faire des recommandations relatives à l'adoption des mesures nécessaires et tenter de recouvrer les frais des mesures adoptées.
+
+Cette coopération ne porte pas préjudice aux formes de coopération existantes et futures.
+
+### CHAPITRE XI. - Rapport et évaluation. &lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt;
+
+**Art. 15.11.1**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 2; En vigueur : 30-04-2007&gt; A partir de la date de l'entrée en vigueur du titre présent, l'instance compétente transmet un rapport biennal sur l'application du présent titre au Gouvernement flamand.
+
+Ce rapport contient au moins les informations suivantes :
+
+1° les mesures prises en vue de la promotion de l'utilisation d'instruments de sûreté financière et leurs résultats;
+
+2° les cas de dommages environnementaux, le type de dommages environnementaux, les dates auxquelles les dommages environnementaux sont survenus ou auxquelles ils ont été découverts;
+
+3° les résultats des processus de réparation;
+
+4° les résultats des procédures de recours;
+
+5° l'estimation des coûts administratifs supplémentaires qui doivent annuellement être supportés par l'autorité publique;
+
+6° les évaluation des moyens de défense visés aux articles 15.5.1 à 15.5.6, notamment en ce qui concerne l'application de l'état des connaissances scientifiques et technologiques;
+
+7° la non application de la procédure pour les demandes de mesures dans les cas de menace immédiate de dommage environnemental.
+
+Le Gouvernement flamand peut déterminer les modalités en la matière.
+
+## TITRE XVI. [<sup>1</sup> Maintien environnemental]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 17, 084; En vigueur : 01-04-2026&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> Dispositions générales et définitions]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 18, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.1.1**
+
+[<sup>16</sup> § 1.]<sup>16</sup> &lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt; [<sup>1</sup> [<sup>3</sup> Les dispositions du présent titre s'appliquent aux lois et décrets suivants en ce qui concerne les compétences de la Région flamande, y compris leurs arrêtés d'exécution et les obligations imposées en vertu des lois et décrets suivants et leurs arrêtés d'exécution :]<sup>3</sup>
+
+1° [<sup>7</sup> tous les [<sup>11</sup> ...]<sup>11</sup> titres du présent décret, à l'exception du titre Ier - Dispositions générales, titre II - Délibération et participation, titre X - Agences, titre XI - Conseils consultatifs stratégiques et titre VIII - Climat;]<sup>7</sup>
+
+2° le Code forestier du 19 décembre 1854;
+
+3° la loi du 1er juillet 1954 sur la pêche fluviale;
+
+4° la loi sur la Chasse du 28 février 1882;
+
+5° la loi du 28 décembre 1964 relative à la lutte contre la pollution atmosphérique;
+
+[<sup>13</sup> 5° /1 la loi du 28 décembre 1967 relative aux cours d'eau non navigables ;]<sup>13</sup>
+
+[<sup>15</sup> 5° /2 la loi du 24 décembre 1970 relative aux mesures de sécurité à prendre lors de l'établissement et dans l'exploitation des installations de distribution de gaz]<sup>15</sup>
+
+6° [<sup>6</sup> la loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution [<sup>16</sup> ...]<sup>16</sup>;]<sup>6</sup>
+
+[<sup>3</sup> 6°/1 [<sup>11</sup> ...]<sup>11</sup>;]<sup>3</sup>
+
+7° la loi du 12 juillet 1973 sur la conservation de la nature;
+
+8° la loi du 18 juillet 1973 relative à la lutte contre le bruit;
+
+9° la loi du 10 janvier 1977 organisant la réparation des dommages provoqués par des prises et des pompages d'eau souterraine;
+
+10° [<sup>4</sup> le décret du 23 décembre 2011 relatif à la gestion durable des cycles de matériaux et des déchets;]<sup>4</sup>
+
+11° la loi du 28 juillet 1981 portant approbation de la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, et des Annexes, faites à Washington le 3 mars 1973;
+
+12° [<sup>6</sup> le décret du 24 janvier 1984 portant des mesures en matière de gestion des eaux souterraines [<sup>16</sup> ...]<sup>16</sup>;]<sup>6</sup>
+
+13° [<sup>16</sup> ...]<sup>16</sup>;
+
+[<sup>3</sup> 13°bis la loi du 12 juillet 1985 relative à la protection de l'homme et de l'environnement contre les effets nocifs et les nuisances provoquées par les radiations non ionisantes, les infrasons et les ultrasons;]<sup>3</sup>
+
+14° le Décret forestier du 13 juin 1990;
+
+15° le Décret sur la chasse du 24 juillet 1991;
+
+16° le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel;
+
+17° le décret du 4 avril 2003 relatif aux minerais de surface;
+
+[<sup>3</sup> 17°bis le décret du 18 [<sup>11</sup> juillet]<sup>11</sup> 2003 relatif à la politique intégrée de l'eau, en ce qui concerne les articles 8, 10 à 17 compris, 62 à 70 du titre Ier]<sup>3</sup>
+
+18° le décret du 27 octobre 2006 relatif à l'assainissement du sol et à la protection du sol;
+
+19° le décret du 22 décembre 2006 concernant la protection des eaux contre la pollution par les nitrates à partir de sources agricoles, avec maintient de l'application de l'article [<sup>10</sup> article 61, § 2]<sup>10</sup>, du décret;
+
+[<sup>2</sup> 19°bis le décret du 8 mei 2009 concernant le sous-sol profond;]<sup>2</sup>
+
+[<sup>9</sup> 19° ter : le décret du 25 avril 2014 relatif au permis d'environnement pour autant qu'il concerne les projets visés à l'article 5, 1°, c, et 2°, b.]<sup>9</sup>
+
+20° [<sup>11</sup> ...]<sup>11</sup> [<sup>17</sup> le Décret sur l'Energie du 8 mai 2009, en ce qui concerne l'article 4.1.11/8]<sup>17</sup>;]<sup>3</sup>]<sup>1</sup>
+
+[<sup>5</sup> 21° le décret du 8 février 2013 relatif à une utilisation durable des pesticides en Région flamande;]<sup>5</sup>
+
+[<sup>8</sup> 22° le décret du 28 mars 2014 relatif à la prévention, la surveillance et la lutte contre les maladies chez les animaux vivant à l'état sauvage;]<sup>8</sup>
+
+[<sup>12</sup> 23° le décret du 21 décembre 2018 relatif à la qualité de l'air à l'intérieur de véhicules.]<sup>12</sup>
+
+[<sup>14</sup> 24° le décret du 26 janvier 2024 sur l'approche programmatique de l'azote.]<sup>14</sup>
+
+[<sup>18</sup> 25° le décret du 3 juillet 2026 portant dérogation à l'obligation de permis d'environnement, à la notification environnementale et à d'autres autorisations en cas de situation exceptionnelle liée à la défense, dans la mesure où ils concernent une matière réglée par les autres règlementations relevant du champ d'application du présent titre.]<sup>18</sup>
+
+[<sup>16</sup> ...]<sup>16</sup>
+
+[<sup>11</sup> Les dispositions du présent titre s'appliquent également à la réglementation environnementale de l'Union européenne et internationale, déterminée par le Gouvernement flamand, ainsi qu'aux dispositions arrêtées et aux obligations imposées par ou en vertu de la réglementation précitée, en ce qui concerne les compétences de la Région flamande.]<sup>11</sup>
+
+[<sup>16</sup> § 2. Le Décret-cadre Maintien flamand du 14 juillet 2023, y compris le chapitre 10, sections 2, 3, 4, 6, 7, 9, 10, 11 [1 , 12 et 13]1, s'applique au présent titre et à la réglementation visée au paragraphe 1er.]<sup>16</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/87, art. 2, 024; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCFL 2009-05-08/15, art. 71, 026; En vigueur : 06-09-2011&gt;
+
+(3)&lt;DCFL 2010-12-23/39, art. 49, 028; En vigueur : 28-02-2011&gt;
+
+(4)&lt;DCFL 2011-12-23/33, art. 77, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+(5)&lt;DCFL 2013-02-08/01, art. 12, 035; En vigueur : 04-03-2013&gt;
+
+(6)&lt;DCFL 2014-02-28/11, art. 48, 040; En vigueur : 01-01-2014&gt;
+
+(7)&lt;DCFL 2014-02-14/27, art. 32, 041; En vigueur : 06-05-2014&gt;
+
+(8)&lt;DCFL 2014-03-28/37, art. 11, 042; En vigueur : 01-01-2015&gt;
+
+(9)&lt;DCFL 2014-04-25/I9, art. 118, 043; En vigueur : 01-03-2018&gt;
+
+(10)&lt;DCFL 2015-06-12/15, art. 48, 047; En vigueur : 01-01-2015&gt;
+
+(11)&lt;DCFL 2018-06-08/08, art. 2, 062; En vigueur : 12-07-2018&gt;
+
+(12)&lt;DCFL 2018-12-21/68, art. 6, 066; En vigueur : 09-02-2019&gt;
+
+(13)&lt;DCFL 2019-04-26/31, art. 62, 069; En vigueur : 29-06-2019&gt;
+
+(14)&lt;DCFL 2024-01-26/27, art. 64, 080; En vigueur : 23-02-2024&gt;
+
+(15)&lt;DCFL 2024-05-17/09, art. 6, 083; En vigueur : 01-04-2025&gt;
+
+(16)&lt;DCFL 2024-04-26/52, art. 19, 084; En vigueur : 01-04-2026&gt;
+
+(17)&lt;DCFL 2025-12-19/59, art. 2, 087; En vigueur : 01-01-2026&gt;
+
+(18)&lt;DCFL 2026-07-03/08, art. 10, 091; En vigueur : 14-08-2026&gt;
+
+**Art. 16.1.2**
+
+&lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt; Sauf explicitement stipulé pour l'application du présent décret, on entend par : [<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>4</sup> 7° prescription environnementale : toute disposition comportant une obligation, que le régime s'applique de manière générale ou individuelle, à condition que la disposition relève du champ d'application visé à l'article 16.1.1.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/87, art. 3, 024; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCFL 2013-11-22/36, art. 2, 039; En vigueur : 31-01-2014&gt;
+
+(3)&lt;DCFL 2017-10-27/06, art. 17, 058; En vigueur : 07-12-2017&gt;
+
+(4)&lt;DCFL 2018-06-08/08, art. 3, 062; En vigueur : 12-07-2018&gt;
+
+(5)&lt;DCFL 2024-03-22/15, art. 2, 085; En vigueur : 01-10-2025&gt;
+
+(6)&lt;DCFL 2024-04-26/52, art. 20, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.1.3**
+
+[<sup>1</sup> § 1er. Les personnes suivantes sont une instance de réparation telle que visée à l'article 2, 15°, du Décret-cadre Maintien flamand du 14 juillet 2023 :
+
+1° les membres du personnel des départements et des agences, visés à l'article I.3, 2°, a) à d), du Décret de gouvernance du 7 décembre 2018, désignés à cet effet par le Gouvernement flamand ou son mandataire ;
+
+2° les membres du personnel de la commune désignés à cet effet par le collège des bourgmestre et échevins, même s'il s'agit de membres du personnel d'une autre commune ;
+
+3° les membres du personnel d'une intercommunale désignés à cet effet par l'intercommunale ;
+
+4° le bourgmestre ou son suppléant.
+
+Le Gouvernement flamand peut déterminer les exigences de formation et d'expérience et d'autres conditions auxquelles des catégories d'instances de réparation doivent satisfaire, et limiter leurs compétences sur le plan du contenu, géographique ou temporel.
+
+§ 2. Le Gouvernement flamand ou son mandataire désigne les membres du personnel de l'Autorité flamande qui interviennent comme instance verbalisante telle que visée à l'article 2, 3°, du Décret-cadre Maintien flamand du 14 juillet 2023.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Les membres du personnel désignés par le Gouvernement flamand ou son mandataire sont compétents pour le maintien des prescriptions environ-nementales visées à l'article 16.1.1, § 1er, alinéa 1er, 5° /2 et 20°.
+
+L'alinéa 1er est abrogé à la date fixée par le Gouvernement flamand.
+
+§ 4. Par dérogation à l'article 16.6.6, § 1er, le non-respect des prescriptions environnementales, visées à l'article 16.1.1, § 1er, alinéa 1er, 5° /2 et 20°, est assimilé à une infraction.
+
+Le Gouvernement flamand est habilité à régler la cessation de l'application de l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 21, 084; En vigueur : 01-04-2026&gt;
+
+(2)&lt;DCFL 2025-12-19/59, art. 3, 087; En vigueur : 01-04-2026&gt;
+
+**Art. 16.1.4**
+
+[<sup>1</sup> Outre les fins, visées à l'article 63, § 1er, du Décret-cadre Maintien flamand du 14 juillet 2023, des mesures de sécurité peuvent également être imposées pour la maîtrise d'un risque considérable pour l'homme ou l'environnement, indépendamment de l'existence ou de la menace d'un délit, d'une infraction ou d'une violation des normes.
+
+Les superviseurs qui sont habilités à porter des armes dans le cadre de l'exécution de leurs fonctions, disposent des compétences, visées aux articles 28 et 37bis de la loi sur la fonction de police du 5 août 1992, si la protection de leur intégrité physique ou l'exécution de leurs missions en tant qu'officier de police judiciaire l'exige.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/52, art. 22, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.1.5**
+
+[<sup>1</sup> Les recettes qui sont obtenues en application du présent titre, et qui sont attribuées à l'Autorité flamande conformément à l'article 73 du Décret-cadre Maintien flamand du 14 juillet 2023, reviennent au Fonds Mina.
+
+Par dérogation à l'alinéa 1er, les montants qui sont recouvrés aux fins de remboursement des frais encourus pour l'exécution de mesures par les superviseurs et les instances de réparation de l'OVAM dans le cadre de la surveillance de l'application du Décret relatif au sol du 27 octobre 2006 et de l'application de l'article 12 du décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets, reviennent à l'OVAM.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/52, art. 23, 084; En vigueur : 01-04-2026&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 24, 084; En vigueur : 01-04-2026&gt;
+
+#### Section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 24, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.2.1**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 24, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.2.2**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 24, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.2.3**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 24, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.2.4**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 24, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.2.5**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 24, 084; En vigueur : 01-04-2026&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFL 2021-02-26/18, art. 8, 075; En vigueur : 01-04-2021&gt;
+
+**Art. 16.2.6**
+
+&lt;Abrogé par DCFL 2021-02-26/18, art. 8, 075; En vigueur : 01-04-2021&gt;
+
+**Art. 16.2.7**
+
+&lt;Abrogé par DCFL 2021-02-26/18, art. 8, 075; En vigueur : 01-04-2021&gt;
+
+**Art. 16_2.7.DROIT_FUTUR**
+
+&lt;Abrogé par DCFL 2021-02-26/18, art. 8, 075; En vigueur : 01-04-2021&gt;
+
+**Art. 16.2.8**
+
+&lt;Abrogé par DCFL 2021-02-26/18, art. 8, 075; En vigueur : 01-04-2021&gt;
+
+**Art. 16.2.9**
+
+&lt;Abrogé par DCFL 2021-02-26/18, art. 8, 075; En vigueur : 01-04-2021&gt;
+
+**Art. 16.2.10**
+
+&lt;Abrogé par DCFL 2021-02-26/18, art. 8, 075; En vigueur : 01-04-2021&gt;
+
+**Art. 16.2.11**
+
+&lt;Abrogé par DCFL 2021-02-26/18, art. 8, 075; En vigueur : 01-04-2021&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+#### Section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.1**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.2**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.3**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.4**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.4bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.5**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.6**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.7**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section IIbis.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.7bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section III.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.8**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.9**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>2</sup> § 4. Par dérogation à l'article 16.3.1, § 1er, 1°, et au paragraphe 2, alinéa 1er, du présent article, les membres du personnel désignés par le Gouverne-ment flamand ou son mandataire sont compétents pour le maintien des prescriptions environnementales reprises dans ou édictées en vertu de la réglementation visée à l'article 16.1.1, alinéa 1er, 5° /2 et 20°.
+
+§ 5. Par dérogation à l'article 16.1.2, 1°, f), le non-respect des prescriptions environnementales visées à l'article 16.1.1, alinéa 1er, 5° /2 et 20°, est assimilé à une infraction environnementale.
+
+Le Gouvernement flamand est habilité à régler la cessation de l'application de l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+(2)&lt;DCFL 2025-12-19/59, art. 4, 087; En vigueur : 01-01-2026&gt;
+
+#### Section III.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.10**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.11**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.11bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.12**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section III.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.13**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section IV.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.14**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.15**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.16**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section V.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.17**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section VI.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.18**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section VII.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.19**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section VII.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.20**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.21**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+#### Section IV.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.22**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.23**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.23bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section III.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.24**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.24bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.25**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.26**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section IIIbis.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.26bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section IV.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.3.27**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 25, 084; En vigueur : 01-04-2026&gt;
+
+### CHAPITRE IV. - Maintien administratif. &lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt;
+
+#### Section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.1**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.2**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.3**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.4**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.5**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.6**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.7**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.7bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.8**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.8bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.9**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.10**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section III.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.11**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.12**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.13**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.14**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.15**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section IV.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.16**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section V.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.17**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section VI.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.18**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section VII.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.18bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.18ter**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.18quater**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 26, 084; En vigueur : 01-04-2026&gt;
+
+#### Section III. - [<sup>1</sup> [<sup>2</sup> Le collège de maintien]<sup>2</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 61, 1°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45) &gt;
+
+(2)&lt;DCFL 2014-04-25/I9, art. 131, 043; En vigueur : 01-03-2018&gt;
+
+##### Sous-section Ire. - [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 61, 2°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+##### A.
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 61, 3°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.19**
+
+&lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt; § 1er. Un [<sup>5</sup> collège de maintien]<sup>5</sup> est créé [<sup>1</sup> ...]<sup>1</sup>.
+
+Le [<sup>3</sup>[<sup>5</sup> collège de maintien]<sup>5</sup>]<sup>3</sup> est une juridiction administrative telle que visée à l'article 161 de la Constitution.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+§ 2. [<sup>6</sup> ...]<sup>6</sup>
+
+§ 3. [<sup>6</sup> ...]<sup>6</sup>
+
+§ 4. [<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2009-04-30/87, art. 13, 024; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCFL 2010-12-23/39, art. 62, 028; En vigueur : 28-02-2011&gt;
+
+(3)&lt;DCFL 2014-04-25/I9, art. 132, 043; En vigueur : 01-03-2018&gt;
+
+(4)&lt;DCFL 2014-04-04/89, art. 64, 044; En vigueur : 01-01-2015&gt;
+
+(5)&lt;DCFL 2016-05-04/15, art. 2, 050; En vigueur : 01-09-2016&gt;
+
+(6)&lt;DCFL 2024-04-26/52, art. 27, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.20**
+
+&lt;Abrogé par DCFL 2014-04-04/89, art. 65, 044; En vigueur : 01-11-2014&gt;
+
+##### [<sup>1</sup> Sous-section II]<sup>1</sup>. (ancien B devient Sous-section II.) Composition. &lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt;
+
+----------
+
+(1)&lt;DCFL 2010-12-23/39, art. 61, 4°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.21**
+
+&lt;Abrogé par DCFL 2014-04-04/89, art. 66, 044; En vigueur : 01-11-2014&gt;
+
+**Art. 16.4.22**
+
+&lt;Abrogé par DCFL 2014-04-04/89, art. 67, 044; En vigueur : 01-11-2014&gt;
+
+##### [<sup>1</sup> Sous-section III]<sup>1</sup>.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 28, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.23**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 28, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.24**
+
+&lt;Abrogé par DCFL 2014-04-04/89, art. 68, 044; En vigueur : 01-01-2015&gt;
+
+#### Section IV.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.25**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.26**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.27**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.28**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.29**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.30**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+##### Sous-section II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.31**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.32**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.33**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.34**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.35**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.36**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.37**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.38**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.39**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+##### [<sup>1</sup> Sous-section III]<sup>1</sup>.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.40**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.41**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.42**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.43**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.4.44**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 29, 084; En vigueur : 01-04-2026&gt;
+
+#### Section V.
+
+&lt;Abrogé par DCFL 2018-06-08/08, art. 38, 062; En vigueur : 12-07-2018&gt;
+
+#### A.
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 61, 11°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.45**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 68, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+#### B.
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 61, 12°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.46**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 69, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.47**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 70, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.48**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 71, 028; En vigueur : 28-02-2011&gt;
+
+**Art. 16.4.49**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 72, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+#### C.
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 61, 13°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.50**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 73, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+#### D.
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 61, 14°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.51**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 74, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.52**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 75, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.53**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 76, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+#### E.
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 61, 15°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.54**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 77, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.55**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 78, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.56**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 79, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.57**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 80, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.58**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 81, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.59**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 82, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+#### F.
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 61, 16°, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.60**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 83, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45) (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.61**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 84, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.62**
+
+&lt;Abrogé par DCFL 2014-04-04/89, art. 71, 044; En vigueur : 01-01-2015&gt;
+
+**Art. 16.4.63**
+
+&lt;Abrogé par DCFL 2014-04-04/89, art. 71, 044; En vigueur : 01-01-2015&gt;
+
+**Art. 16.4.64**
+
+&lt;Abrogé par DCFL 2010-12-23/39, art. 87, 028; En vigueur : 22-07-2011 (voir AGF 2011-05-27/12, art. 45)&gt;
+
+**Art. 16.4.65**
+
+&lt;Abrogé par DCFL 2014-04-04/89, art. 71, 044; En vigueur : 01-01-2015&gt;
+
+### CHAPITRE V.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 31, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.1**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 31, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.2**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 31, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.2bis**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 31, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.3**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 31, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.4**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 31, 084; En vigueur : 01-04-2026&gt;
+
+### CHAPITRE Vbis.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.5**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.6**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.7**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.8**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.9**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.10**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.11**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.5.12**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 32, 084; En vigueur : 01-04-2026&gt;
+
+### CHAPITRE VI. [<sup>1</sup> Délits et infractions]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 33, 084; En vigueur : 01-04-2026&gt;
+
+#### Section Ire. [<sup>1</sup> Délits ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/52, art. 34, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.6.1**
+
+&lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt; § 1er. Toute atteinte délibérée ou commise suite à un défaut de précaution ou de prudence [<sup>10</sup> aux prescriptions environnementales maintenues]<sup>10</sup> en vertu du présent titre est punissable par un emprisonnement d'un mois jusqu'à deux ans et d'une amende de 100 à 250.000 euros ou par une de ces peines seulement.
+
+Ces peines ne valent pas pour :
+
+1° [<sup>12</sup> les comportements qui sont définis comme une infraction, telle que visée à la section II ]<sup>12</sup>;
+
+2° [<sup>7</sup> ...]<sup>7</sup>
+
+3° [<sup>6</sup> [<sup>8</sup> l'infraction à l'obligation de de déclaration et de paiement des redevances environnementales, visées à l'article 50 du décret du 23 décembre 2001 relatif à la gestion durable de cycles de matériaux et de déchets, et l'obligation de paiement de l'amende administrative, visée à l'article 58 du décret précité;]<sup>8</sup> ]<sup>6</sup>
+
+4° [<sup>7</sup> ...]<sup>7</sup>
+
+[<sup>2</sup> 5° le non-respect d'obligations administratives dans le cadre de la procédure de demande, telle qu'une procédure de demande d'un permis ou d'une autorisation, de demande d'une subvention ou d'obtention d'un agrément, sauf si des informations n'ont pas été ou partiellement été communiquées délibérément ou si des fausses informations ont été communiquées délibérément;
+
+6° [<sup>12</sup> le non-respect de formalités administratives qui doivent être prises en compte dans le cas d'une notification, à l'exception de la négligence d'une notification préalable de l'activité en question]<sup>12</sup>.]<sup>2</sup>
+
+§ 2. [<sup>12</sup> Les personnes suivantes sont sanctionnées d'un emprisonnement d'un mois à un an et d'une amende de 100 euros à 100 000 euros ou de l'une de ces peines seulement :
+
+1° les personnes qui délibérément n'exécutent pas, ne paient pas ou ignorent des mesures administratives, des mesures de réparation judiciaires ou des mesures de sécurité non abrogées qui ont été imposées régulièrement conformément au présent titre avant la date de l'entrée en vigueur de l'article 19, 5°, du décret du 26 avril 2024 modifiant divers décrets, en ce qui concerne la mise en oeuvre du Décret-cadre Maintien flamand du 14 juillet 2023 ;
+
+2° les personnes qui n'exécutent pas ou ignorent un ordre, tel que visé à l'article 61, § 6, du Décret relatif aux engrais du 22 décembre 2006]<sup>12</sup>.
+
+----------
+
+(1)&lt;DCFL 2009-04-30/87, art. 29, 024; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCFL 2009-04-30/87, art. 30, 024; En vigueur : 25-06-2009&gt;
+
+(3)&lt;DCFL 2009-04-30/87, art. 31, 024; En vigueur : 25-06-2009&gt;
+
+(4)&lt;DCFL 2010-12-23/39, art. 92, 028; En vigueur : 28-02-2011&gt;
+
+(5)&lt;DCFL 2011-12-23/33, art. 78, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+(6)&lt;DCFL 2013-11-22/36, art. 43, 039; En vigueur : 31-01-2014&gt;
+
+(7)&lt;DCFL 2014-02-28/11, art. 49,1°, 040; En vigueur : 01-01-2014&gt;
+
+(8)&lt;DCFL 2014-02-28/11, art. 49,2°, 040; En vigueur : 04-04-2014&gt;
+
+(9)&lt;DCFL 2014-04-25/I9, art. 139, 043; En vigueur : 01-03-2018&gt;
+
+(10)&lt;DCFL 2018-06-08/08, art. 42, 062; En vigueur : 12-07-2018&gt;
+
+(11)&lt;DCFL 2019-05-24/05, art. 2, 070; En vigueur : 01-01-2019&gt;
+
+(12)&lt;DCFL 2024-04-26/52, art. 35, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.6.2**
+
+&lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt; § 1er. Toute personne propageant ou répandant [<sup>2</sup> , délibérément et contrairement aux prescriptions environnementales,]<sup>2</sup> des substances, des micro-organismes, des sons ou d'autres vibrations ou radiations, directement ou indirectement dans ou sur l'eau, le sol ou l'atmosphère, sera punie d'un emprisonnement d'un mois jusqu'à cinq ans et d'une amende de 100 à 500.000 euros ou de l'une de ces peines seulement.
+
+Toute personne propageant ou répandant [<sup>2</sup> , par défaut de précaution ou de prudence et contrairement aux prescriptions environnementales,]<sup>2</sup> des substances, des micro-organismes, des sons ou d'autres vibrations ou radiations, directement ou indirectement dans ou sur l'eau, le sol ou l'atmosphère, sera punie d'un emprisonnement d'un mois jusqu'à trois ans et d'une amende de 100 à 350.000 euros ou de l'une de ces peines seulement.
+
+§ 2. En dérogation aux peines visées au § 1er, les communes peut définir des sanctions communales contre des formes limitées de nuisances publiques conformément à l'article 119bis de la Nouvelle Loi communale.
+
+Lorsque la commune n'a pas défini des sanctions communales conformément à l'article 119bis de la Nouvelle Loi communale, les formes limitées de nuisances publiques sont punies d'une amende [<sup>2</sup> de 43,75 euros maximum]<sup>2</sup> dans cette commune.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/I9, art. 140, 043; En vigueur : 01-03-2018&gt;
+
+(2)&lt;DCFL 2018-06-08/08, art. 43, 062; En vigueur : 12-07-2018&gt;
+
+**Art. 16.6.3**
+
+&lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt; § 1er. Toute personne gérant, abandonnant ou transportant [<sup>2</sup> , délibérément et contrairement aux prescriptions environnementales,]<sup>2</sup> des déchets, sera punie d'un emprisonnement d'un mois jusqu'à cinq ans et d'une amende de 100 à 500.000 euros ou de l'une de ces peines seulement.
+
+Toute personne gérant, abandonnant ou transportant [<sup>2</sup> , par défaut de précaution ou de prudence et contrairement aux prescriptions environnementales,]<sup>2</sup> des déchets, sera punie d'un emprisonnement d'un mois jusqu'à trois ans et d'une amende de 100 à 350 000 euros ou de l'une de ces peines seulement.
+
+§ 2. En dérogation aux peines visées au § 1er, les communes peut définir des sanctions communales contre des formes limitées de nuisances publiques conformément à l'article 119bis de la Nouvelle Loi communale.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/I9, art. 141, 043; En vigueur : 01-03-2018&gt;
+
+(2)&lt;DCFL 2018-06-08/08, art. 44, 062; En vigueur : 12-07-2018&gt;
+
+**Art. 16.6.3bis**
+
+&lt;Abrogé par DCFL 2018-06-08/08, art. 45, 062; En vigueur : 12-07-2018&gt;
+
+**Art. 16.6.3ter**
+
+[<sup>1</sup> Toute personne qui délibérément, contrairement aux [<sup>3</sup> prescriptions environnementales]<sup>3</sup> :
+
+1° possède, capture, s'approprie, endommage, tue ou commercialise des spécimens d'espèces protégées vivantes d'animaux ou de plantes sauvages, telles que visées aux annexes Ire, II et III du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, ou qui possède des oeufs de ces animaux ou des parties ou des produits dérivés de ces espèces d'animaux ou de plantes, ou
+
+2° endommage les nids, lieux de repos ou de reproduction des ces espèces d'animaux;
+
+3° [<sup>2</sup> ...]<sup>2</sup>.
+
+est punie d'un emprisonnement d'un mois jusqu'à cinq ans et d'une amende de 100 à 500 000 euros ou de l'une de ses peines seulement.
+
+Toute personne qui par manque de précaution ou de prudence, contrairement aux [<sup>3</sup> prescriptions environnementales]<sup>3</sup> :
+
+1° possède, capture, s'approprie, endommage, tue ou commercialise des spécimens d'espèces protégées vivantes d'animaux ou de plantes sauvages, telles que visées aux annexes Ire, II et III du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, ou qui possède des oeufs de ces animaux ou des parties ou des produits dérivés de ces espèces d'animaux ou de plantes, ou
+
+2° endommage les nids, lieux de repos ou de reproduction des ces espèces d'animaux;
+
+3° [<sup>2</sup> ...]<sup>2</sup>.
+
+est punie d'un emprisonnement d'un mois jusqu'à trois ans et d'une amende de 100 à 350.000 euros ou de l'une de ses peines seulement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2009-04-30/87, art. 33, 024; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCFL 2015-12-18/24, art. 40, 048; En vigueur : 08-01-2016&gt;
+
+(3)&lt;DCFL 2018-06-08/08, art. 46, 062; En vigueur : 12-07-2018&gt;
+
+**Art. 16.6.3quater**
+
+[<sup>1</sup> Toute personne qui délibérément, contrairement aux [<sup>2</sup> prescriptions environnementales]<sup>2</sup>, cause des dégâts signifiants à un habitat visé à l'annexe Ire, à un habitat d'une espèce visée aux annexes II ou III, ou à l'habitat d'une espèce visée à l'annexe IV du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, à l'intérieur du périmètre d'une zone de protection spéciale définitivement fixée et délimitée sur la base de l'article 36bis du même décret, est punie d'un emprisonnement d'un mois jusqu'à cinq ans et d'une amende de 100 à 500. 000 euros ou de l'une de ses peines seulement.
+
+Toute personne qui par manque de précaution ou de prudence, contrairement aux [<sup>2</sup> prescriptions environnementales]<sup>2</sup>, cause des dégâts signifiants à un habitat visé à l'annexe Ire, à un habitat d'une espèce visée aux annexes II ou III, ou à l'habitat d'une espèce visée à l'annexe IV du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, à l'intérieur du périmètre d'une zone de protection spéciale définitivement fixée et délimitée sur la base de l'article 36bis du même décret, est punie d'un emprisonnement d'un mois jusqu'à trois ans et d'une amende de 100 à 350.000 euros ou de l'une de ses peines seulement.
+
+Toute personne qui délibérément ne respecte pas les [<sup>2</sup> prescriptions environnementales]<sup>2</sup> de l'article 25, § 3, 2°, du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, est punie d'un emprisonnement d'un mois jusqu'à cinq ans et d'une amende de 100 à 500 .000 euros ou de l'une de ses peines seulement.
+
+Toute personne qui par manque de précaution ou de prudence, ne respecte pas les [<sup>2</sup> prescriptions environnementales]<sup>2</sup> de l'article 25, § 3, 2°, du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, est punie d'un emprisonnement d'un mois jusqu'à trois ans et d'une amende de 100 à 350.000 euros ou de l'une de ses peines seulement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2009-04-30/87, art. 34, 024; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCFL 2018-06-08/08, art. 47, 062; En vigueur : 12-07-2018&gt;
+
+**Art. 16.6.3quinquies**
+
+[<sup>1</sup> [<sup>2</sup> Toute personne qui délibérément,]<sup>2</sup> contrairement aux [<sup>3</sup> prescriptions environnementales]<sup>3</sup>, effectue des actes causant la disparition entière ou partielle d'une superficie d'arbres, telle que visée à l'article 3, §§ 1er et 2, du Décret forestier du 13 juin 1990, et associe à ce terrain une autre affectation ou utilisation, est punie d'un emprisonnement d'un mois jusqu'à cinq ans et d'une amende de 100 à 500 .000 euros ou de l'une de ses peines seulement.
+
+Toute personne qui par manque de précaution ou de prudence, contrairement aux [<sup>3</sup> prescriptions environnementales]<sup>3</sup>, effectue des actes causant la disparition entière ou partielle d'une superficie d'arbres, telle que visée à l'article 3, §§ 1er et 2, du Décret forestier du 13 juin 1990, et associe à ce terrain une autre affectation ou utilisation, est punie d'un emprisonnement d'un mois jusqu'à trois ans et d'une amende de 100 à 350 000 euros ou de l'une de ses peines seulement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2009-04-30/87, art. 35, 024; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCFL 2013-11-22/36, art. 44, 039; En vigueur : 31-01-2014&gt;
+
+(3)&lt;DCFL 2018-06-08/08, art. 48, 062; En vigueur : 12-07-2018&gt;
+
+**Art. 16.6.3sexies**
+
+&lt;Abrogé par DCFL 2018-06-08/08, art. 49, 062; En vigueur : 12-07-2018&gt;
+
+**Art. 16.6.3septies**
+
+&lt;Abrogé par DCFL 2013-11-22/36, art. 45, 039; En vigueur : 31-01-2014&gt;
+
+**Art. 16.6.4**
+
+&lt;Inséré par DCFL 2007-12-21/82, art. 9; En vigueur : 01-05-2009&gt; Toute personne abandonnant des déchets contrairement aux dispositions du décret [<sup>1</sup> du décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets]<sup>1</sup>, sera condamnée par le juge pénal à la collecte, au transport et au traitement de ces déchets dans un délai imposé par ce dernier.
+
+Tout en maintenant l'application des dispositions de l'alinéa premier, le condamné peut être obligé à rembourser les frais de la collecte, du transport et du traitement des déchets par la commune, par la Société publique des Déchets de la Région flamande ou par la Région flamande.
+
+----------
+
+(1)&lt;DCFL 2011-12-23/33, art. 79, 031; En vigueur : 01-06-2012 (voir AGF 2012-02-17/18, art. 12.3)&gt;
+
+**Art. 16.6.5**
+
+[<sup>1</sup> Les délits, visés à la présente section, qui font l'objet de poursuites administratives, sont sanctionnés par une amende administrative alternative de 50 euros à 2 000 000 d'euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 36, 084; En vigueur : 01-04-2026&gt;
+
+#### Section II. [<sup>1</sup> Infractions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/52, art. 37, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.6.6**
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand fixe la liste d'infractions à la réglementation flamande auxquelles s'applique le présent titre. La liste précitée comprend une description de la base juridique et de l'obligation légale concrète.
+
+Les infractions, visées à l'alinéa 1er, peuvent n'être que des comportements qui sont contraires à une prescription environnementale et qui remplissent toutes les conditions suivantes :
+
+1° le comportement ne concerne pas des émissions telles que visées à l'article 16.6.2 ;
+
+2° le comportement ne concerne pas l'abandon, la gestion ou le transport de déchets tels que visés à l'article 16.6.3 ;
+
+3° le comportement ne nuit pas à la santé ou ne cause pas la mort ;
+
+4° le comportement n'implique pas la violation de l'obligation de disposer d'une autorisation écologique, d'un permis d'environnement pour l'exploitation de l'établissement classé ou de l'activité classée ou d'un agrément ;
+
+5° le comportement n'implique pas la violation de l'obligation d'établir un rapport de sécurité ou un rapport sur les incidences sur l'environnement.
+
+§ 2. Les infractions, visées au paragraphe 1er, alinéa 1er, sont sanctionnées d'une amende administrative de 50 euros à 400 000 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 38, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.6.7**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 39, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.6.8**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 39, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.6.9**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 39, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.6.10**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 39, 084; En vigueur : 01-04-2026&gt;
+
+### CHAPITRE VII.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+#### Section Ire.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.1**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.2**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.3**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.4**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+#### Section II.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.5**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+#### Section III.
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.6**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.7**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.8**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+**Art. 16.7.9**
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 40, 084; En vigueur : 01-04-2026&gt;
+
+#### ANNEXES.
+
+**Art. N1**
+
+[<sup>1</sup> Annexe I.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/53, art. 93, 086; En vigueur : 01-12-2025&gt;
+
+**Art. N2**
+
+[<sup>1</sup> Annexe II.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/53, art. 94, 086; En vigueur : 01-12-2025&gt;
+
+**Art. N2bis**
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 95, 086; En vigueur : 01-12-2025&gt;
+
+**Art. N3**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 3; En vigueur : 30-04-2007&gt; ANNEXE III. Critères visant à définir les incidences négatives telles que visées à l'article 15.1.1, 6°
+
+L'étendue d'un dommage qui a des incidences négatives sur la réalisation ou le maintien d'un état de maintien favorable des espèces ou des habitats naturels doit être évaluée à l'aide de l'état de référence, compte tenu des fonctions suite aux services rendus par les agréments qu'ils procurent et à leur capacité de régénération naturelle.
+
+L'étendue des modifications négatives signifiantes survenues à l'état de référence, est définie au moyen des données mesurables telles que :
+
+a) le nombre d'individus, leur densité ou la surface couverte;
+
+b) le rôle des individus concernés ou de la zone atteinte par rapport à la conservation de l'espèce ou de l'habitat, la rareté de l'espèce ou de l'habitat tels qu'appréciés à un niveau local, régional ou supérieur, y compris au niveau communautaire;
+
+c) la capacité de multiplication de l'espèce selon la dynamique propre à cette espèce ou à cette population, sa viabilité ou la capacité de régénération naturelle de l'habitat selon les dynamiques propres aux espèces qui le caractérisent ou à leurs populations;
+
+d) la capacité de l'espèce ou de l'habitat de se rétablir en un temps limité après la survenance d'un dommage, sans intervention autre que des mesures de protection renforcées, en un état conduisant du fait de la seule dynamique de l'espèce ou de l'habitat à un état jugé équivalent ou supérieur à l'état de référence.
+
+Les incidences sur la santé humaine sont nécessairement qualifiées d'incidences négatives significatives.
+
+Ne sont pas qualifiées d'incidences négatives significatives :
+
+a) les variations négatives inférieures aux fluctuations naturelles considérées comme normales pour l'espèce ou l'habitat concernés;
+
+b) les variations négatives dues à des causes naturelles ou résultant des interventions liées à la gestion normale des sites telle que définie dans les dossiers d'habitat, les documents d'objectif ou pratiquée antérieurement par les propriétaires ou exploitants;
+
+c) les dommages causés aux espèces ou aux habitats, pour lesquels il est établi que les espèces ou les habitats se rétabliront en un temps limité et sans intervention soit à l'état de référence, soit en un état conduisant du fait de la seule dynamique de l'espèce ou de l'habitat à un état jugé équivalent ou supérieur à l'état de référence. "
+
+**Art. N4**
+
+&lt;inséré par DCFL 2007-12-21/80, art. 4; En vigueur : 30-04-2007&gt; ANNEXE IV. Activités visées à l'article 15.1.2
+
+Le Gouvernement flamand est autorisé à modifier l'annexe afin de garantir la conformité au droit européen en la matière.
+
+1\. L'exploitation d'installations GPBV, notamment celles telles que définies au point 16° de l'article 1er du titre Ier de l'arrêté du Gouvernement flamand du 6 février 1991 fixant le règlement flamand relatif à l'autorisation écologique, à appeler VLAREM ci-après, à l'exception des installations ou parties d'installations utilisées pour la recherche, le développement et l'expérimentation de nouveaux produits et procédés.
+
+2\. Toutes les activités de gestion des déchets, notamment le ramassage, le transport, la valorisation et l'élimination des déchets et des déchets dangereux, y compris la surveillance de ces opérations et le traitement ultérieur des sites d'élimination, notamment celles auxquelles la rubrique 2 de l'annexe 1re du titre I du VLAREM s'applique, ou celles soumises à une autre obligation d'autorisation ou d'enregistrement.
+
+Ces activités comportent, entre autres, l'exploitation de décharges et l'exploitation d'installations d'incinération.
+
+L'épandage, à des fins agricoles, de boues d'épuration provenant de stations d'épuration des eaux urbaines résiduaires, à conditions qu'elles soient traitées conformément à une norme agréée, ne relève pas de ces activités.
+
+3\. Tout rejet effectué dans les eaux de surface auquel les sous-rubriques 3.4 et 3.6.3, de l'annexe 1re du titre Ier du VLAREM s'appliquent et qui est soumis à une autorisation préalable.
+
+4\. Tout rejet de substances dans les eaux souterraines auquel les sous-rubriques 52.1.1°, 52.2.2° et 52.2.3°, de l'annexe 1re du titre I du VLAREM s'appliquent et qui est soumis à une autorisation préalable.
+
+5\. Le rejet ou l'introduction de substances polluantes dans les eaux de surface ou souterraines auquel les sous-rubriques 3.4, 3.6.3, 52.1.1°, 52.2.2° et 52.2.3°, de l'annexe 1re du titre Ier du VLAREM s'appliquent et qui est soumis à un permis ou à une obligation d'autorisation ou d'enregistrement préalable.
+
+6\. Tout captage et endiguement d'eau entres autres ceux auxquels les rubriques et sous-rubriques 53.2, 53.2.1°.b) et c), 53.4.2°.b) et c), 53.6, 53.7, 53.8.2° et 3°, 53.9 et 56, de l'annexe 1re du titre Ier du VLAREM s'appliquent et qui sont soumis à une autorisation préalable.
+
+7\. La fabrication, l'utilisation, le stockage, le traitement, la décharge, le rejet dans l'environnement et le transport sur le site de l'entreprise de :
+
+a) substances dangereuses;
+
+b) préparations dangereuses;
+
+c) produits phytopharmaceutiques;
+
+d) les produits biocides tels que définis à l'article 8 du titre Ier du VLAREM.
+
+8\. Le transport par route, chemin de fer, voie de navigation intérieure, mer ou air de marchandises dangereuses ou polluantes, entre autres celles, telles que définies, soit dans l'annexe de l'arrêté royal du 9 mars 2003 relatif au transport des marchandises dangereuses par route, à l'exception des matières explosibles ou dangereuses, soit dans l'annexe de l'arrêté royal du 11 décembre 1998 relatif au transport de marchandises dangereuses par chemin de fer, soit dans le décret du 16 juin 2006 relatif à l'assistance à la navigation sur les voies d'accès maritimes et à l'organisation du " Maritiem Reddings- en Coördinatiecentrum " (Centre de Coordination et de Sauvetage maritimes).
+
+9\. Dans le cadre du rejet dans l'air de substances polluantes, l'exploitation d'installations, entre autres celles auxquelles la rubrique 20 du titre Ier du VLAREM s'applique et qui sont soumises à l'obligation d'autorisation, à l'exception des sous-rubriques précédées du chiffre 3 dans la troisième colonne.
+
+10\. L'utilisation confinée, y compris le transport, de micro-organismes génétiquement modifiés, entre autres ceux auxquels la rubrique 51 du titre Ier du VLAREM s'applique.
+
+11\. Toute dissémination volontaire dans l'environnement, tout transport ou mise sur le marche d'organismes génétiquement modifiés tels qu'entre autres visés au chapitre II de l'arrêté royal du 21 février 2005 réglementant la dissémination volontaire dans l'environnement ainsi que la mise sur le marché d'organismes génétiquement modifies ou de produits en contenant.
+
+12\. [<sup>2</sup> Tout transfert transfrontalier de déchets à l'intérieur, à l'entrée et à la sortie de l'Union européenne pour lequel une autorisation est requise ou qui est interdit au sens du règlement (CE) no. 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets.]<sup>2</sup>
+
+13\. La gestion d'installations de valorisation de déchets, entre ceux auxquels la rubrique 2.3.11 du titre Ier du VLAREM s'applique.
+
+[<sup>1</sup> 14. L'exploitation de sites de stockage, conformément au décret du 8 mai 2009 concernant le sous-sol profond.]<sup>1</sup>
+
+----------
+
+(1)&lt;AGF 2011-07-15/41, art. 15, 030; En vigueur : 06-09-2011&gt;
+
+(2)&lt;AGF 2016-12-16/08, art. 1, 052; En vigueur : 29-01-2017&gt;
+
+**Art. N5**
+
+&lt;Abrogé par DCFL 2018-06-08/08, art. 52, 062; En vigueur : 12-07-2018&gt;
+
+**Art. N6**
+
+[<sup>1</sup> Annexe VI. Liste des activités aériennes
+
+Tous les vols au départ et à l'arrivée d'un aérodrome situé sur le territoire [<sup>2</sup> d'un Etat membre de l'Espace économique européen]<sup>2</sup> relèvent de l'" activité aérienne ".
+
+On entend par " vol ", un secteur de vol, c'est-à-dire un vol ou une série de vols qui débute et se termine sur un poste de stationnement pour aéronefs.
+
+On entend par " aérodrome ", un terrain ou un plan d'eau (bâtiments, installations et matériels y compris), destiné à être utilisé intégralement ou en partie pour l'arrivée, le départ et le roulage des aéronefs.
+
+Lorsqu'un exploitant d'aéronef effectue une activité aérienne, visée à la présente annexe, il relève du champ d'application du système européen d'échange de quotas d'émission, qu'il figure ou non sur la liste des exploitants d'aéronefs publiée par la Commission en application de l'article 18 bis, paragraphe 3, de la Directive 2003/87/CE.
+
+Ne relèvent pas de cette activité :
+
+1° les vols exclusivement effectués aux fins de transport, en mission officielle, d'un monarque régnant et de sa proche famille, de chefs d'Etat, de chefs de gouvernement et de ministres, à condition que cette situation soit dûment établie par l'indication du statut dans le plan de vol.
+
+Cette exception sera interprétée en fonction exclusivement de l'objet du vol.
+
+" La proche famille " comprend exclusivement le conjoint, tout partenaire considéré comme l'équivalent du conjoint, les enfants et les parents.
+
+" Les Ministres du gouvernement " sont les membres du gouvernement figurant au journal national officiel du pays concerné. Les membres des gouvernements régionaux ou locaux d'un pays ne sont pas couverts par l'exception prévue audit point.
+
+On entend par " mission officielle " une mission dans laquelle la personne concernée agit à titre officiel.
+
+Les vols pour la mise en place ou le convoyage des aéronefs ne sont pas concernés par la présente exemption.
+
+Les vols qui, selon le Service Central des Redevances de route d'Eurocontrol (Central Route Charge Office, CRCO), sont identifiés comme étant des exemptions des redevances de route (ci-après " code d'exemption SCRR ") et être classifiés " S ", sont présumés des vols exclusivement effectués aux fins du transport, en mission officielle, d'un monarque régnant et de sa proche famille, de chefs d'Etat, de chefs de gouvernements et de ministres, à condition que cette situation soit dûment établie par l'indication du statut dans le plan de vol ;
+
+2° des vols militaires qui sont effectués par des aéronefs militaires et des vols effectués par les services de douane et de la police.
+
+On entend par " vols militaires " des vols directement liés à la conduite d'activités militaires.
+
+Les vols militaires effectués par des aéronefs immatriculés en tant qu'aéronefs civils ne sont pas concernés par la présente exemption. Vice versa, les vols civils effectués par des aéronefs militaires ne relèvent pas du point 2°.
+
+Les vols portant le code d'exception SCRR " M " ou " X " sont présumés être des vols militaires exemptés.
+
+Les vols effectués par les services des douanes et de la police sont exemptés, qu'ils soient réalisés par des aéronefs immatriculés en tant qu'aéronefs civils ou en tant qu'aéronefs militaires.
+
+Les vols portant le code d'exemption SCRR " P " sont présumés être des vols exemptés, effectués par les services des douanes et de la police.
+
+3° les vols liés à la recherche et au sauvetage, les vols de lutte contre le feu, les vols humanitaires et les vols de services médicaux d'urgence moyennant l'autorisation de l'autorité compétence.
+
+En ce qui concerne les catégories de vols visées ci-après, les vols pour la mise en place ou le convoyage des aéronefs et les vols transportant exclusivement des équipements et du personnel, ne sont pas concernés par la présente exception. Ces exceptions ne font pas de distinction entre les vols financés par des ressources publiques et les vols financés par des ressources privées.
+
+" Les vols liés à la recherche et au sauvetage " sont des vols offrant des services de recherche et de sauvetage. On entend par " Service de recherche et de sauvetage " l'exécution de tâche de surveillance, de communication, de coordination, de recherche et de sauvetage, ainsi que l'assistance médicale initiale ou l'évacuation médicale, au moyen de l'utilisation de ressources publiques et privées, y compris les aéronefs, navires et autres équipements et installations.
+
+Les vols portant le code d'exception SCRR " R " et les vols classifiés STS/SAR dans la case 18 du plan de vol sont présumés être des vols de recherche et de sauvetage exemptés.
+
+On entend par " Vols de lutte contre le feu " les vols effectués exclusivement en vue d'exécuter des services aériens de lutte contre le feu, c'est-à-dire l'utilisation d'aéronefs ou d'autres ressources aériennes pour combattre les incendies.
+
+Les vols classifiés STS/SAR dans la case 18 du plan de vol sont présumés être des vols de lutte contre le feu exemptés.
+
+On entend par " Vols humanitaires " les vols effectués exclusivement à des fins humanitaires pour le transport du personnel et de biens humanitaires (aliments, vêtements, abris, médicaments et autres objets), pendant ou après une urgence et/ou une catastrophe, et/ou utilisés pour évacuer des personnes d'un lieu où leur vie ou leur santé est menacée par cette urgence et/ou cette catastrophe vers un lieu sûr situé dans le même Etat ou un autre Etat disposé à recevoir ces personnes.
+
+Les vols portant le code d'exception SCRR " H " et les vols classifiés STS/HUM dans la case 18 du plan de vol sont présumés être des vols humanitaires exemptés.
+
+On entend par " Vols de services médicaux d'urgence " les vols effectués exclusivement pour faciliter l'assistance médicale d'urgence, lorsque l'acheminement immédiat et rapide de personnel médical, de fournitures médicales, y compris d'équipement, de sang, d'organes, de médicaments ou le transport des personnes malades ou blessées et des autres personnes directement impliquées se révèlent essentiels.
+
+Les vols classifiés STS/MEDEVAC ou STS/HOSP dans la case 18 du plan de vol sont présumés être des vols médicaux d'urgence exemptés.
+
+[<sup>3</sup> 3° /1]<sup>3</sup> les vols effectués exclusivement selon les règles de vol à vue telles que définies à l'annexe 2 de la convention de Chicago.
+
+4° les vols se terminant à l'aérodrome d'où l'aéronef avait décollé et au cours desquels aucun atterrissage intermédiaire n'a été effectué ;
+
+5° les vols d'entraînement effectués exclusivement aux fins d'obtention d'une licence, ou d'une évaluation dans le cas du personnel navigant de pilotage, lorsque cela est corroboré par une remarque adéquate sur le plan de vol, à condition que les vols ne servent pas au transport de passagers ou de marchandises, ni pour la mise en place ou le convoyage des aéronefs.
+
+Les vols portant le code d'exception SCRR " T " et les vols classifiés " RMK/ vol d'entraînement " dans la case 18 du plan de vol sont présumés être des vols exemptés conformément au point 5°.
+
+6° les vols effectués exclusivement aux fins de travaux de recherche scientifique ou de contrôles, d'essais ou de certification d'aéronefs ou d'équipements qu'ils soient embarqués ou au sol.
+
+En ce qui concerne les catégories de vols visées ci-après, les vols pour la mise en place ou le convoyage des aéronefs et les vols transportant exclusivement des équipements et du personnel, ne sont pas concernés par la présente exception.
+
+Ne relèvent pas de cette catégorie les vols dont le but exclusif est de réaliser des travaux de recherche scientifique. Pour que l'exception soit applicable, les travaux de recherche scientifique doivent s'effectuer partiellement ou intégralement en vol. Le transport de scientifiques ou d'équipement de recherche n'est pas suffisant en soi pour que le vol soit considéré comme étant une exception.
+
+Les vols portant le code d'exception SCRR " N " et les vols classifiés " STS/FLTCK " dans la case 18 du plan de vol sont présumés exemptés conformément au point 6°.
+
+7° les vols effectués par des aéronefs dont la masse maximale certifiée au décollage est inférieure à 5.700 kg ;
+
+8° les vols effectués dans le cadre d'obligations de service public imposées conformément au Règlement (CEE) n° 2408/92 aux liaisons au sein des régions ultrapériphériques spécifiées à l'article 299, paragraphe 2, du traité ou aux liaisons dont la capacité offerte ne dépasse pas 30.000 sièges par an
+
+Ceci sera interprété comme étant applicable aux régions, énumérées à l'article du 299 (2) du Traité CE. Il s'agit exclusivement des vols de service public au sein d'une seule région ultrapériphérique et des vols entre deux régions ultrapériphériques ;
+
+9° les vols qui, à l'exception de ce point, relèveraient de cette activité, réalisés par un transporteur aérien commercial effectuant :
+
+\- soit moins de 243 vols par période pendant trois périodes consécutives de quatre mois ;
+
+\- soit des vols produisant des émissions totales inférieures à 10 000 tonnes par an.
+
+[<sup>3</sup> Les vols visés aux points 11° et 12° ou les vols effectués exclusivement aux fins de transporter, en mission officielle, des monarques régnants et leur proche famille, des chefs d'Etat, des chefs de gouvernement et des ministres d'un Etat membre ne peuvent pas être exclus en vertu du présent point.]<sup>3</sup>
+
+[<sup>2</sup> 10° à partir du 1er janvier 2013 au 31 décembre [<sup>3</sup> 2030]<sup>3</sup> inclus, les vols qui, à l'exception de ce point, relèveraient de cette activité et qui sont exercés par un exploitant d'aéronefs non commercial réalisant des vols dont le total annuel des émissions est inférieur à 1.000 tonnes par an [<sup>3</sup> , y compris les émissions des vols visés aux points 11° et 12°]<sup>3</sup>;]<sup>2</sup>
+
+[<sup>3</sup> 11° les vols au départ d'aérodromes situés en Suisse vers des aérodromes situés sur le territoire d'un Etat membre de l'Espace économique européen ;
+
+12° les vols au départ d'aérodromes situés au Royaume-Uni vers des aérodromes situés sur le territoire d'un Etat membre de l'Espace économique européen.]<sup>3</sup>
+
+Tous les transporteurs aériens commerciaux doivent être titulaires d'un certificat de transporteur aérien (AOC) en vertu de l'annexe 6, partie Ire, de la Convention de Chicago. Les opérateurs qui ne sont pas titulaires d'un tel certificat ne sont pas considérés comme étant des transporteurs aériens commerciaux.
+
+Pour l'application de la règle de minimis, l'aspect commercial concerne l'exploitant d'aéronefs et non les vols en question. Cela signifie notamment que les vols effectués par un opérateur de transport aérien commercial doivent être pris en compte pour décider si ledit opérateur se situe au-dessus ou au-dessous des seuils d'exemption, même si ces vols ne sont pas effectués contre rémunération.
+
+Seuls les vols au départ et à l'arrivée d'un aérodrome situé sur le territoire d'un Etat membre soumis aux dispositions du traité doivent être pris en compte pour décider si ledit exploitant d'aéronef se situe au-dessus ou au-dessous des seuils d'exemption de la règle de minimis. Les vols exclus en vertu des points 1° à 10° inclus ne sont pas pris en compte aux mêmes fins.
+
+Les vols effectués par un exploitant d'aéronefs commercial réalisant moins de 243 vols par période, pendant trois périodes consécutives de quatre mois, sont exclus. Les périodes de quatre mois sont les suivantes: de janvier à avril inclus ; de mai à août inclus ; de septembre à décembre inclus. C'est l'heure locale de départ du vol qui détermine quelle période de quatre mois doit être prise en compte pour décider si l'exploitant aérien se situe au-dessus ou au-dessous des seuils d'exclusion de la règle de minimis.
+
+Un exploitant d'aéronefs commercial réalisant 243 vols par période ou davantage est inclus dans le système européen d'échange de quotas d'émission pour toute l'année calendaire au cours de laquelle il a atteint ou dépassé le seuil de 243 vols.
+
+Un exploitant d'aéronefs commercial réalisant des vols dont le total annuel des émissions est égal ou supérieur à 10 000 tonnes par an est inclus dans le système européen d'échange de quotas d'émission pour l'année calendaire au cours de laquelle il a atteint ou dépassé le seuil de 10 000 tonnes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-02-14/27, art. 33, 041; En vigueur : 06-05-2014&gt;
+
+(2)&lt;DCFL 2016-11-18/11, art. 6, 051; En vigueur : 23-12-2016&gt;
+
+(3)&lt;DCFL 2022-07-08/16, art. 10, 076; En vigueur : 23-09-2022&gt;
