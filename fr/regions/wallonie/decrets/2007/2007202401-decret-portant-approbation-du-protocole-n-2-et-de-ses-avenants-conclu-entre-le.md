@@ -1,0 +1,89 @@
+---
+title: "Décret portant approbation du protocole n° 2 et de ses avenants, conclu entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées."
+identifier: "2007202401"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/12/2007202401/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2007-07-12
+published: 2007-07-26
+entry_into_force: 2007-08-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/12/2007202401/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 12 JUILLET 2007. - Décret portant approbation du protocole n° 2 et de ses avenants, conclu entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées.
+
+Le Parlement wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle, en vertu de l'article 138 de la Constitution, une matière visée à l'article 128, § 1er, de celle-ci.
+
+## Art. 2
+
+Le protocole n° 2 conclu le 1er janvier 2003 entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées est approuvé.
+
+## Art. 3
+
+L'avenant n° 1 au protocole n° 2 conclu le 1er janvier 2003 entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées et qui concerne l'exécution du point 6 de ce protocole : nouvelles alternatives, conclu le 8 décembre 2003, est approuvé.
+
+## Art. 4
+
+L'avenant n° 2 au protocole n° 2 conclu le 1er janvier 2003 entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées et qui concerne l'exécution du point 9 de ce protocole : transfert et échange d'informations entre les services dépendant de l'autorité fédérale et les services dépendant des Communautés et Régions, conclu le 24 mai 2004, est approuvé.
+
+## Art. 5
+
+L'avenant n° 3 au protocole n° 2 conclu le 1er janvier 2003 entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées, conclu le 13 juin 2005, est approuvé.
+
+## Art. 6
+
+L'avenant n° 4 au protocole n° 2 conclu le 1er janvier 2003 entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées et qui concerne la définition commune de la notion de court-séjour, conclu le 13 juin 2005, est approuvé.
+
+## Art. 7
+
+L'avenant n° 5 au protocole n° 2 conclu le 1er janvier 2003 entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées, et portant sur les prix qui sont appliqués en institutions d'accueil ou d'hébergement pour personnes âgées, conclu le 13 juin 2005, est approuvé.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 12 juillet 2007.
+
+Le Ministre-Président,
+
+E. DI RUPO
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances, de l'Equipement et du Patrimoine,
+
+M. DAERDEN
+
+La Ministre de la Formation,
+
+Mme M. ARENA
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de l'Economie, de l'Emploi et du Commerce extérieur,
+
+J.-C. MARCOURT
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme Ch. VIENNE
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN.

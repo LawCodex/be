@@ -1,0 +1,441 @@
+---
+title: "Décret relatif à la tutelle d'approbation de la Région wallonne sur les règlements complémentaires relatifs aux voies publiques et à la circulation des transports en commun"
+identifier: "2008200085"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/19/2008200085/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2007-12-19
+published: 2008-01-14
+entry_into_force: 2008-01-01
+last_amended: 2025-01-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/19/2008200085/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 14-01-2008 et mise à jour au 24-01-2025"
+retrieved: 2026-10-12
+---
+
+# 19 DECEMBRE 2007. - Décret relatif à la tutelle d'approbation de la Région wallonne sur les règlements complémentaires relatifs aux voies publiques et à la circulation des transports en commun
+
+Le Parlement wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Définitions
+
+### Art. 1
+
+[<sup>1</sup> Au sens du présent décret, l'on entend par :
+
+1° l'agent d'approbation : l'agent désigné par le Gouvernement;
+
+2° la consultation préalable : la consultation par la commune du service technique compétent désigné par le Gouvernement préalablement à la délibération du conseil communal relative à un règlement complémentaire, afin d'obtenir un avis technique relatif au placement de la signalisation ainsi qu'à l'opportunité de la mesure;
+
+3° un règlement complémentaire : un règlement visant à adapter les règlements généraux relatifs à la police de la circulation routière aux circonstances locales ou particulières par des mesures ayant un caractère périodique ou permanent.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE II. [<sup>1</sup> - Les règlements complémentaires sur voirie régionale ou déterminant les mesures à caractère zonal portant sur plusieurs communes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 2
+
+[<sup>1</sup> Le Gouvernement arrête les règlements complémentaires relatifs :
+
+1° aux voiries régionales;
+
+2° aux carrefours dont une voirie régionale fait partie;
+
+3° à la détermination de mesures à caractère zonal lorsque ces dernières s'étendent sur le territoire de plusieurs communes;
+
+4° aux routes et chemins forestiers, ouverts à la circulation publique dans la forêt domaniale au sens de l'article 3, 11°, du décret du 15 juillet 2008 relatif au Code forestier.
+
+Les règlements complémentaires visés à l'alinéa 1er sont arrêtés après avis des conseils communaux intéressés.
+
+A défaut de réception de l'avis visé à l'alinéa 2 dans les soixante jours à dater de la demande, le Gouvernement arrête d'office le règlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 2bis
+
+&lt;Abrogé par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 2ter
+
+&lt;Abrogé par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 2quater
+
+&lt;Abrogé par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 3
+
+[<sup>1</sup> § 1er. Les conseils communaux peuvent arrêter les règlements complémentaires relatifs aux voiries régionales, à l'exception des autoroutes, que le Gouvernement s'est abstenu de prendre.
+
+Le Gouvernement peut remplacer le règlement complémentaire visé à l'alinéa 1er par sa propre décision.
+
+§ 2. Les règlements complémentaires visés au paragraphe 1er sont soumis à l'agent d'approbation, sauf exceptions prévues par le Gouvernement.
+
+Le règlement complémentaire visé au paragraphe 1er, alinéa 1er, entre en vigueur, si l'agent d'approbation ne se prononce pas, dans :
+
+1° les vingt jours de la réception du règlement complémentaire, en cas de consultation préalable;
+
+2° les soixante jours de la réception du règlement complémentaire, en l'absence de consultation préalable.
+
+Un recours est ouvert à l'encontre de la décision d'improbation auprès du Gouvernement. Il est introduit dans les soixante jours de la réception de la décision. A défaut de décision dans les quarante-cinq jours de la réception du recours, la décision d'improbation devient définitive.
+
+§ 3. Le Gouvernement peut :
+
+1° limiter les mesures pouvant faire l'objet des règlements complémentaires visés au paragraphe 1er;
+
+2° réduire les délais visés au paragraphe 2, alinéa 2.
+
+Les délais visés au paragraphe 2 ou adoptés en vertu de l'alinéa 1er sont suspendus du 16 juillet au 15 août et du 25 au 31 décembre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE III. [<sup>1</sup> - Les règlements complémentaires communaux]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 4
+
+[<sup>1</sup> § 1er. Sans préjudice des articles 2 et 5, alinéa 3, les conseils communaux arrêtent les règlements complémentaires relatifs :
+
+1° aux voiries communales;
+
+2° à des mesures à caractère zonal visant à la fois des voiries communales et régionales situées sur le territoire de leur commune.
+
+§ 2. Les règlements complémentaires visés au paragraphe 1er et à l'article 12 sont soumis à l'agent d'approbation, qui, selon le cas, approuve tout ou partie du règlement complémentaire ou ne l'approuve pas.
+
+Un règlement complémentaire entre en vigueur si l'agent d'approbation ne se prononce pas dans :
+
+1° les vingt jours de la réception du règlement complémentaire, en cas de consultation préalable;
+
+2° les soixante jours de la réception du règlement complémentaire, en l'absence de consultation préalable.
+
+Un recours est ouvert à l'encontre de la décision d'improbation ou d'approbation partielle auprès du Gouvernement. Il est introduit dans les soixante jours de la réception de la décision. A défaut de décision dans les quarante-cinq jours de la réception du recours, la décision d'improbation ou d'approbation partielle devient définitive.
+
+§ 3. Le Gouvernement peut :
+
+1° déterminer les règlements complémentaires qui ne sont pas soumis à l'agent d'approbation;
+
+2° réduire les délais visés au paragraphe 2, alinéa 2.
+
+Les délais visés au paragraphe 2 ou adoptés en vertu de l'alinéa 1er sont suspendus du 16 juillet au 15 août et du 25 au 31 décembre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 5
+
+[<sup>1</sup> En vue de maîtriser les coûts d'exploitation des sociétés de transport en commun, le Gouvernement peut inviter les conseils communaux à délibérer sur les mesures qu'il propose pour faciliter la circulation des transports en commun sur le territoire de la commune.
+
+Les règlements complémentaires arrêtés sur invitation du Gouvernement sont soumis à approbation conformément à l'article 4, § 2.
+
+Si les conseils communaux ne donnent pas suite à l'invitation du Gouvernement dans le délai qu'il fixe, ou si le Gouvernement ne marque pas son accord sur le règlement complémentaire arrêté par les conseils communaux, le Gouvernement peut arrêter le règlement complémentaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE IV. [<sup>1</sup> - Les rétributions, taxes ou redevances de stationnement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 6
+
+[<sup>1</sup> Lorsque le Gouvernement ou un conseil communal arrête un règlement complémentaire relatif aux stationnements à durée limitée, aux stationnements payants et aux stationnements sur les emplacements réservés aux titulaires d'une carte de stationnement communale, il peut établir des rétributions ou taxe de stationnement ou déterminer les redevances de stationnement dans le cadre de concessions ou contrats de gestion concernant le stationnement sur la voie publique, applicables aux véhicules à moteur, leurs remorques ou éléments.
+
+La disposition visée à l'alinéa 1er ne s'applique pas au stationnement alterné semi-mensuel et à la limitation du stationnement de longue durée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 7
+
+[<sup>1</sup> En vue de l'encaissement des rétributions, des taxes ou des redevances de stationnement visées à l'article 6 et en vue d'exercer leur mission de gestion de la politique de stationnement dont leur mission de délivrance des cartes communales de stationnement visée à l'article 27.1.4 du Code de la Route, le Gouvernement, les communes et leurs concessionnaires, ou les régies autonomes communales peuvent demander les données à caractère personnel relatives au véhicule à l'autorité chargée de l'immatriculation des véhicules.
+
+Les données visées à l'alinéa 1er peuvent avoir trait aux éléments suivants :
+
+1° à l'identité des titulaires du numéro de la plaque d'immatriculation;
+
+2° à l'identité des conducteurs individuels des véhicules;
+
+3° aux caractéristiques techniques suivantes des véhicules :
+
+a) le type de carburant ou la source d'énergie;
+
+b) le type du véhicule;
+
+c) la masse maximale autorisée;
+
+d) la marque et le modèle;
+
+e) les dimensions, à savoir la longueur et la largeur.
+
+Le Gouvernement arrête, le cas échéant, les catégories de données complémentaires rendues nécessaires par l'évolution de la politique de stationnement. Les données visées à l'alinéa premier sont conservées au maximum trois ans. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-12-18/05, art. 14, 007; En vigueur : 01-01-2025&gt;
+
+### Art. 8
+
+[<sup>1</sup> Les rétributions, les taxes ou les redevances de stationnements visées à l'article 6 sont mises à charge du titulaire du numéro de la plaque d'immatriculation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE V. [<sup>1</sup> - L'autorité en charge du placement de la signalisation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 9
+
+[<sup>1</sup> Le placement des signaux routiers qui imposent une obligation ou qui marquent une interdiction incombe à l'autorité qui a pris la mesure. Toute autre signalisation incombe à l'autorité qui a la gestion de la voirie.
+
+Par dérogation à l'alinéa 1er, le placement des signaux routiers formalisant les règlements complémentaires arrêtés en vertu de l'article 2, 2° et 3°, et de l'article 5, alinéa 3, incombe à l'autorité qui a la gestion de la voirie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE VI. [<sup>1</sup> - La signalisation des obstacles et des chantiers]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 10
+
+[<sup>1</sup> § 1er. La signalisation des obstacles à la circulation incombe à celui qui crée l'obstacle.
+
+La personne visée à l'alinéa 1er enlève la signalisation routière dès que l'obstacle est évacué.
+
+En cas de carence de la personne visée à l'alinéa 1er ou si l'obstacle n'est pas dû au fait d'un tiers, l'autorité qui a la gestion de la voirie assume cette obligation.
+
+§ 2. La signalisation des chantiers établis sur la voie publique incombe à celui qui exécute les travaux.
+
+S'il est fait usage de signaux lumineux de circulation, de signaux relatifs à la priorité, de signaux d'interdiction, de signaux d'obligation, de signaux relatifs à l'arrêt et au stationnement, de marques longitudinales provisoires indiquant les bandes de circulation ou de marques transversales, cette signalisation peut être placée uniquement moyennant autorisation donnée :
+
+1° par le Gouvernement, lorsqu'il s'agit d'une autoroute;
+
+2° par le bourgmestre, lorsqu'il s'agit d'une autre voirie publique, sauf dérogations prévues par le Gouvernement et selon les modalités qu'il détermine.
+
+L'autorisation visée à l'alinéa 1er détermine dans chaque cas, la signalisation routière à utiliser.
+
+Celui qui exécute les travaux enlève la signalisation routière dès que ceux-ci sont terminés.
+
+§ 3. En cas d'urgence, les gestionnaires de voirie, les services de police et d'intervention peuvent, sans attendre l'autorisation visée au paragraphe 2, alinéa 2, placer des signaux destinés à interdire ou régler temporairement la circulation.
+
+Ces signaux et dispositifs sont enlevés dès que la situation est redevenue normale.
+
+§ 4. Le Gouvernement peut arrêter des règles générales en vue de déterminer la signalisation routière à utiliser pour les chantiers courants et les interventions d'urgence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE VII. [<sup>1</sup> - La prise en charge des frais liés à la signalisation routière]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 11
+
+[<sup>1</sup> Les frais liés au placement, à l'entretien et au renouvellement de la signalisation routière sont à charge de l'autorité qui l'a placée.
+
+Par dérogation à l'alinéa 1er, les frais :
+
+1° résultant du placement des dispositifs de commande à distance des signaux lumineux de circulation par les véhicules des transports en commun incombent au Gouvernement, les charges résultant de l'entretien et du renouvellement de ces dispositifs incombent à la société de transports en commun désignée par le Gouvernement;
+
+2° de la signalisation des obstacles, placée par l'autorité qui a la gestion de la voirie en cas de carence de celui qui crée l'obstacle, incombent à ce dernier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE VIII. [<sup>1</sup> - La circulation dans les ports]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 12
+
+[<sup>1</sup> Les conseils communaux peuvent arrêter des règlements complémentaires suspendant ou modifiant l'application des dispositions de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique et de tout règlement déterminé par le Gouvernement pour le trafic s'effectuant entre les quais d'embarquement et de débarquement, les dépôts, les hangars et les magasins établis dans les ports maritimes ou fluviaux.
+
+Le Gouvernement peut soumettre la mise en circulation de véhicules ou combinaisons de véhicules à un régime d'autorisation et imposer des redevances en vue de couvrir, en tout ou en partie, les frais d'administration, de contrôle, de surveillance ou les frais liés à l'utilisation de l'infrastructure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE IX. [<sup>1</sup> - Le contrôle de la signalisation et l'exécution d'office]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 13
+
+[<sup>1</sup> Si la signalisation routière établie n'est pas conforme à la réglementation en matière de placement et d'exigences techniques de la signalisation routière, aux conditions fixées par les règlements complémentaires ou n'est pas entretenue, le Gouvernement peut, après avoir adressé deux avertissements écrits consécutifs aux autorités défaillantes d'avoir à assumer leurs obligations, imposer l'exécution de mesure d'office. Toute dépense occasionnée par l'exécution d'office de ces mesures peut être récupéré à charge de l'autorité défaillante.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE X. [<sup>1</sup> - La publicité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 14
+
+[<sup>1</sup> Les mesures prises pour régler la circulation en vertu du présent décret ou des articles 2 et 3 de la loi du 12 juillet 1956 établissant le statut des autoroutes, sont portées à la connaissance des usagers par des agents portant les insignes de leurs fonctions et qui sont postés sur place ou par une signalisation appropriée. Elles peuvent également l'être au moyen d'autres formes de publicité dont les modalités sont déterminées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE XI. [<sup>1</sup> - La banque de données de la signalisation routière]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2023&gt;
+
+### Art. 15
+
+[<sup>1</sup> Les règlements complémentaires et les emplacements des signaux routiers sont repris dans une banque de données. Le Gouvernement fixe les modalités de la gestion, du fonctionnement et de l'accès à la banque de données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2023&gt;
+
+## CHAPITRE XII. [<sup>1</sup> - Les sanctions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 16
+
+[<sup>1</sup> En cas d'infraction à l'article 10, § 1er, du présent décret ou à ses règlements d'application, les sanctions prévues par et en vertu de l'article 29, § 2, de la loi du 16 mars 1968 relative à la police de la circulation routière sont applicables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE XIII. [<sup>1</sup> - Les dispositions abrogatoires et finales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 17
+
+[<sup>1</sup> Dans la loi du 16 mars 1968 relative à la police de la circulation routière, les articles suivants sont abrogés :
+
+1° l'article 2, modifié par le décret du 19 décembre 2007;
+
+2° l'article 3, remplacé par la loi du 12 juillet 1973, à l'exception des voies militaires visées au paragraphe 1er, alinéa 1er, 4° ;
+
+3° l'article 12, alinéa 1er, modifié par l'arrêté royal du 30 décembre 1982 et modifié par la loi du 20 juillet 2005;
+
+4° les articles 13 et 14;
+
+5° l'article 17, remplacé par l'arrêté royal du 30 décembre 1982 et modifié par la loi du 20 juillet 2005;
+
+6° les articles 18, 19 et 20.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 18
+
+[<sup>1</sup> Les articles 57 et 78 de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique sont abrogés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+### Art. 19
+
+[<sup>1</sup> Les articles 1er à 18 qui précèdent entrent en vigueur le 1er janvier 2019 à l'exception de l'article 15 qui entre en vigueur [<sup>3</sup> [<sup>4</sup> à la date déterminée par le Gouvernement]<sup>4</sup>]<sup>3</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 89, 004; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DRW 2022-12-21/67, art. 252, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DRW 2023-12-13/13, art. 222, 006; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DRW 2024-12-18/05, art. 15, 007; En vigueur : 01-01-2025&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 19 décembre 2007.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances et de l'Equipement,
+
+M. DAERDEN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+Le Ministre de l'Economie, de l'Emploi, du Commerce extérieur et du Patrimoine,
+
+J.-C. MARCOURT
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de la Formation,
+
+M. TARABELLA
+
+Le Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+P. MAGNETTE
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN.

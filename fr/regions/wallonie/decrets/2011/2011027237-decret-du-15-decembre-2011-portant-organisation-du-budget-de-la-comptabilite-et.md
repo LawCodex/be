@@ -1,0 +1,2459 @@
+---
+title: "[Décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes.] <DRW 2015-12-17/10 , art. 2, 003; En vigueur : 08-01-2016>"
+identifier: "2011027237"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/15/2011027237/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2011-12-15
+published: 2011-12-29
+entry_into_force: 2012-01-01
+last_amended: 2026-07-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/15/2011027237/justel"
+department: "Service public de Wallonie"
+justel_note: "Consultation des versions antérieures à partir du 29-12-2011 et mise à jour au 17-07-2026"
+retrieved: 2026-10-12
+---
+
+# 15 DECEMBRE 2011. - [Décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes.] &lt;DRW 2015-12-17/10 , art. 2, 003; En vigueur : 08-01-2016&gt;
+
+Le Parlement wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Livre Ier. [<sup>1</sup> Objet, définitions et champ d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 3, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 1er
+
+Le présent décret fixe les dispositions relatives au budget et à la comptabilité des services visés à l'article 3 [<sup>1</sup> et transpose partiellement la Directive 2011/85/UE du 8 novembre 2011 sur les exigences applicables aux cadres budgétaires des Etats membres]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 4, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 2
+
+Pour l'application du présent décret, on entend par :
+
+1° loi de dispositions générales : la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des Communautés et des Régions, ainsi qu'à l'organisation du contrôle de la [<sup>3</sup> Cour des comptes ]<sup>3</sup>;
+
+2° Parlement : le Parlement wallon;
+
+3° Gouvernement : le Gouvernement wallon;
+
+4° Ministre du Budget : le Ministre du Gouvernement [<sup>2</sup> ...]<sup>2</sup> ayant le budget dans ses attributions;
+
+5° [<sup>2</sup> service administratif à comptabilité autonome : unité d'administration publique dont la gestion et la comptabilité sont séparées par une loi ou un décret de celles des services d'administration générale, sans que la personnalité juridique ne lui soit accordée, et qui dispose d'une trésorerie et d'une comptabilité autonomes;]<sup>2</sup>
+
+6° ordonnateur : autorité compétente désignée par arrêté du Gouvernement et habilitée :
+
+a) à constater les droits à la charge des tiers et à donner l'ordre de leur recouvrement;
+
+b) dans la limite des crédits autorisés et disponibles, à engager et à liquider toute dépense imputable au budget ainsi qu'à en émettre l'ordre de paiement;
+
+7° receveur : toute personne habilitée à procéder au recouvrement des droits constatés à la charge des tiers;
+
+8° trésorier : toute personne habilitée à :
+
+a) percevoir les recettes;
+
+b) payer les dépenses imputées au budget;
+
+c) exécuter des opérations financières non liées au budget;
+
+9° classification économique : classification des recettes et des dépenses budgétaires en fonction des critères macro-économiques permettant de délivrer à l'Institut des comptes nationaux les données nécessaires à la réalisation de ses missions, telles que définies à l'article 108 de la loi du 21 décembre 1994 portant des dispositions sociales et diverses. Cette classification est compatible avec le système européen des comptes nationaux et régionaux (SEC), lequel définit les normes comptables visant à une description quantitative cohérente, fiable et comparable des économies des Etats membres de l'Union européenne. Elle se compose de codes numériques de quatre chiffres au maximum et de libellés explicatifs;
+
+10° droit constaté : droit réunissant toutes les conditions suivantes :
+
+a) son montant est déterminé de manière exacte;
+
+b) l'identité du débiteur ou du créancier est déterminable;
+
+c) l'obligation de payer existe;
+
+d) une pièce justificative est en possession de l' [<sup>2</sup> unité d'administration publique]<sup>2</sup> telle que visée à l'article 3;
+
+11° engagement budgétaire : réservation par l'ordonnateur du crédit nécessaire à l'exécution d'un engagement juridique. L'engagement budgétaire implique la vérification de la régularité de l'imputation budgétaire, de la disponibilité de crédits, de la conformité de la dépense aux lois, décrets, arrêtés d'exécution, jugements et contrats ainsi que du respect du principe de bonne gestion financière défini sous 14° ;
+
+12° [<sup>4</sup> engagement juridique : l'acte par lequel l'ordonnateur crée ou constate une obligation vis-à-vis d'un tiers]<sup>4</sup>;
+
+13 ° liquidation : acte par lequel l'ordonnateur s'assure de l'existence de droits constatés en faveur de tiers;
+
+[<sup>4</sup> 13°/1 obligations récurrentes : les dépenses nécessaires au fonctionnement des services dont les montants sont exigibles pendant l'année budgétaire, mais qui résultent, soit d'obligations dont les effets s'étendent sur plusieurs années et dont l'imputation sur l'année de leur naissance représenterait une charge sans lien économique avec celle-ci, soit d'obligations dont le montant exigible au cours de chaque exercice n'est pas connu au moment de leur naissance ; ]<sup>4</sup>
+
+14° principe de bonne gestion financière : principe regroupant :
+
+a) le principe d'économie, qui prescrit que les moyens mis en oeuvre par l'ordonnateur en vue de la réalisation des activités soient rendus disponibles en temps utile, dans les quantités et qualités appropriées et au meilleur prix;
+
+b) le principe d'efficience, qui vise le meilleur rapport entre les moyens mis en oeuvre et les résultats obtenus;
+
+c) le principe d'efficacité, qui vise l'atteinte des objectifs spécifiques fixés et l'obtention des résultats escomptés;
+
+[<sup>1</sup> 15 ° Accord de coopération : l'accord de coopération du 13 décembre 2013 entre l'Etat fédéral, les Communautés, les Régions et les Commissions communautaires relatif à la mise en oeuvre de l'article 3, § 1er, du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire;
+
+16° TFUE : le Traité sur le fonctionnement de l'Union européenne;
+
+17° Stratégie Europe 2020 : les cinq objectifs définis par le Conseil européen lors de sa réunion des 24 et 25 mars 2011, visant à stimuler une croissance qui soit intelligente, en investissant de façon plus efficace dans l'éducation, la recherche et l'innovation durable, en donnant la priorité à une économie à faibles émissions de carbone et à une industrie compétitive et inclusive, en mettant clairement l'accent sur la création d'emplois et la réduction de la pauvreté;
+
+18° IWEPS : Institut wallon de l'évaluation, de la prospective et de la statistique créé par le décret du 4 décembre 2003;
+
+19 ° CESW : [<sup>4</sup> Conseil économique, social et environnemental de Wallonie ]<sup>4</sup> créé par le décret du 25 mai 1983 modifiant, en ce qui regarde le Conseil économique régional pour la Wallonie, la loi-cadre du 15 juillet 1970 portant organisation de la planification et de la décentralisation économique et instaurant un Conseil économique et social de la Région wallonne;
+
+20° circonstances exceptionnelles : au sens de l'article 2, point 2, du Règlement (CE) n° 1467/97 du Conseil du 7 juillet 1997 visant à accélérer et à clarifier [<sup>2</sup> la mise en oeuvre]<sup>2</sup> de la procédure concernant les déficits excessifs, modifié par le Règlement (UE) n° 1177/2011 du Conseil du 8 novembre 2011, des faits inhabituels indépendants de la volonté de la Région wallonne et ayant des effets sensibles sur la situation financière des administrations publiques, ou à des périodes de grave récession économique telles que visées dans le pacte de stabilité et de croissance révisé, pour autant que l'écart temporaire de la Région wallonne ne mette pas en péril sa soutenabilité budgétaire à moyen terme;
+
+21°[<sup>4</sup> ...]<sup>4</sup>
+
+22° [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>2</sup> 23° budget économique : le budget visé à l'article 108, g), de la loi du 21 décembre 1994 portant des dispositions sociales et diverses, modifiée par la loi du 28 février 2014;
+
+24° ICN : l'Institut des comptes nationaux visé à l'article 107 de la loi du 21 décembre 1994 portant des dispositions sociales et diverses;
+
+25° périmètre de consolidation : le sous-secteur 1312 " Administrations d'Etats fédérés " du secteur 13 " Administrations publiques " au sens du Règlement (UE) n° 549/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au système européen des comptes nationaux et régionaux dans l'Union européenne, tel que défini par l'ICN;
+
+26° SEC : le Système européen des comptes nationaux et régionaux dans l'Union européenne au sens du Règlement (UE) n° 549/2013 du Parlement européen et du Conseil du 21 mai 2013 y relatif;
+
+27° unité d'administration publique : l'unité institutionnelle qui fait partie du périmètre de consolidation de la Région wallonne;
+
+28° Entreprise régionale : l'unité d'administration publique à caractère commercial, industriel ou financier bénéficiant d'un régime d'autonomie, sans que la personnalité juridique ne lui soit accordée;
+
+29° Organisme : l'unité d'administration publique, distincte des services d'administration générale, qui est dotée de la personnalité juridique et dont l'objet est l'exercice de missions d'intérêt général;
+
+30° Agence wallonne de la santé, de la protection sociale, du handicap et des familles : l'unité d'administration publique créée et organisée par le Code wallon de l'Action sociale et de la Santé;
+
+31° Ministre de tutelle : le Ministre du Gouvernement qui s'est vu attribuer un pouvoir de gestion ou de contrôle particulier sur un organisme, en vertu du décret ou d'un arrêté l'organisant et, le cas échéant, de l'arrêté portant répartition des compétences au sein du Gouvernement;
+
+32° transfert financier : le montant inscrit au budget des dépenses visé à l'article 10 en faveur de certaines unités d'administration publique;
+
+33° contrat de gestion : la convention passée entre le Gouvernement et l'organe de gestion d'un organisme en vue de définir les règles et conditions spéciales en vertu desquelles cet organisme exerce ses missions de service public.]<sup>2</sup>
+
+[<sup>4</sup> 34° Commission wallonne pour l'Energie : la Commission instituée par l'article 43 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité. ]<sup>4</sup>
+
+[<sup>4</sup> 35° Dotation : un crédit qui figure au budget général des dépenses, mais dont l'affectation est déterminée par l'institution à laquelle il est alloué. Son bénéficiaire ne doit pas justifier que l'utilisation qu'il en fait correspond à une finalité déterminée. ]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2013-12-23/03, art. 1, 002; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2015-12-17/10, art. 5, 003; En vigueur : 08-01-2016&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+(4)&lt;DRW 2024-04-25/54, art. 2, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 3
+
+[<sup>1</sup> § 1er. Les dispositions du présent décret sont applicables aux unités d'administration publique réparties selon les catégories suivantes :
+
+1° [<sup>7</sup> les services d'administration générale, qui regroupent les services publics de Wallonie, les cabinets ministériels et les services y assimilés pour leur fonctionnement ]<sup>7</sup>;
+
+2° les entreprises régionales;
+
+3° les services administratifs à comptabilité autonome;
+
+4° les organismes, classés selon les types suivants :
+
+a) sont de type 1, les organismes qui sont directement soumis à l'autorité d'un Ministre de tutelle et dont la gestion courante est confiée à des fonctionnaires désignés ou à des mandataires;
+
+b) sont de type 2, les organismes qui sont gérés de manière autonome par les organes de gestion désignés conformément à leur statut juridique, sans préjudice des pouvoirs de tutelle et de contrôle du Gouvernement;
+
+c) sont de type 3, les organismes qui :
+
+(1) [<sup>5</sup> sont administrés conformément au Code des sociétés et des associations]<sup>5</sup>;
+
+(2) et subissent une influence déterminante de la Région wallonne, soit en concluant avec elle un contrat de gestion, soit que la Région désigne, directement ou indirectement, plus de la moitié des membres de leur organe d'administration, de gestion ou de direction ou qu'elle désigne une ou plusieurs personnes chargées d'exercer la tutelle administrative du Gouvernement en leur sein, soit qu'elle détient, directement ou indirectement, la majorité du capital souscrit, soit qu'elle dispose, directement ou indirectement, de la majorité des voix attachées aux parts émises par l'organisme constitué sous forme de société;
+
+5° l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles;
+
+6° le Parlement et le Service du Médiateur [<sup>4</sup> et la Commission wallonne pour l'Energie]<sup>4</sup> [<sup>6</sup> [<sup>8</sup> et la Commission wallonne pour l'Energie]<sup>8</sup> ]<sup>6</sup>.
+
+§ 2. La liste et le classement des organismes visés au paragraphe 1er, 4°, sont annexés au présent décret.
+
+Au moins une fois par an, sur proposition du Gouvernement, le décret actualise la liste mentionnée à l'alinéa 1er.]<sup>1</sup>
+
+[<sup>7</sup> Les services d'administration générale, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles, les services administratifs à comptabilité autonome, les entreprises régionales ainsi que les organismes classifiés dans le périmètre de consolidation tel que défini à l'article 2, 25°, forment ensemble l'Entité régionale. ]<sup>7</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 6, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2020-12-17/52, art. 180, 011; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2021-12-22/21, art. 175, 013; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DRW 2022-12-21/67, art. 182, 014; En vigueur : 01-01-2023&gt;
+
+(5)&lt;DRW 2023-04-06/06, art. 135, 015; En vigueur : 02-11-2023&gt;
+
+(6)&lt;DRW 2023-12-13/13, art. 166, 020; En vigueur : 01-01-2024&gt;
+
+(7)&lt;DRW 2024-04-25/54, art. 3, 021; En vigueur : 01-01-2025&gt;
+
+(8)&lt;DRW 2024-12-18/05, art. 18, 022; En vigueur : 01-01-2025&gt;
+
+## Livre II. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 7, 003; En vigueur : 08-01-2016&gt;
+
+### Titre II. [<sup>1</sup> Dispositions relatives au budget]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 8, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. - Dispositions générales
+
+###### Art. 4
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Conformément aux dispositions de l'article 3 de la loi de dispositions générales, le budget est l'acte qui prévoit et autorise, pour chaque année budgétaire et dans des décrets, toutes les recettes et toutes les dépenses [<sup>2</sup> des services d'administration générale]<sup>2</sup> sans compensation entre elles. L'année budgétaire débute le 1er janvier et se termine le 31 décembre suivant.
+
+L'ensemble des recettes couvre l'ensemble des dépenses. Par dérogation à ce principe, un décret peut créer un fonds budgétaire en lui affectant des recettes, qu'il identifie, pour couvrir des dépenses, dont il définit l'objet.
+
+[<sup>1</sup> § 2. Conformément à l'article 16/9 de la loi de dispositions générales, [<sup>3</sup> la programmation budgétaire annuelle et pluriannuelle est élaborée ]<sup>3</sup> sur la base des prévisions macroéconomiques du budget économique établies par l'ICN. Les éventuelles dérogations à ces prévisions sont explicitement mentionnées et justifiées dans les documents informatifs et justificatifs du budget.
+
+§ 3.[<sup>3</sup> Tous les trois ans, une évaluation objective et globale des prévisions budgétaires utilisées lors de la confection du budget sera réalisée par un organisme indépendant. Si un écart significatif sur une période d'au moins quatre années consécutives ressort de l'évaluation, le Gouvernement adopte les mesures nécessaires pour corriger cet écart et en assure la publicité.
+
+L'organisme indépendant sera désigné dans un accord de coopération. ]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 9, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2026-07-02/13, art. 2, 028; En vigueur : 01-01-2026&gt;
+
+#### CHAPITRE II. - Dispositions relatives à la structure, à la spécialisation et au contenu du budget
+
+##### Section 1re. - Des recettes
+
+###### Art. 5
+
+§ 1er. Au budget, sont portées en recettes :
+
+1° l'estimation des droits qui seront constatés au profit [<sup>1</sup> des services d'administration générale]<sup>1</sup> au cours de l'année budgétaire conformément aux dispositions de l'article 4, alinéa 1er, 1°, de la loi de dispositions générales, y compris les droits afférents aux recettes affectées visées à l'article 4, alinéa 2;
+
+2° l'estimation des recettes à percevoir au comptant, le cas échéant.
+
+§ 2. Le budget, en recettes, autorise l'enrôlement et la perception des impôts et des taxes en vertu et conformément aux lois, décrets, arrêtés et tarifs en vigueur.
+
+Sans préjudice des dispositions de l'article 2 de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, les recettes, autres que les impôts et les taxes précités, sont les créances établies en vertu et conformément aux lois, décrets, arrêtés, conventions, arrêts et jugements.
+
+§ 3. Les montants estimés des recettes ne sont pas limitatifs.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 6
+
+Outre l'autorisation visée à l'article 5, § 2, le budget, en recettes, contient au moins :
+
+1° l'estimation globale du montant des droits et recettes visés à l'article 5, § 1er;
+
+2° les habilitations données au Gouvernement de procéder aux opérations de gestion de la trésorerie et de la dette consolidée ainsi qu'aux opérations de couverture des besoins de financement découlant de l'exécution du budget. Le Gouvernement assure cette gestion financière dans le respect des principes de prudence et d'efficience. Il veille à la conformité des besoins ou de la capacité de financement aux objectifs nationaux et européens;
+
+3° les conditions dans lesquelles le recouvrement des recettes non fiscales peut être abandonné;
+
+4° en annexe, un tableau répartissant les montants visés au 1° entre subdivisions et par [<sup>1</sup> adresse budgétaire ]<sup>1</sup>selon les règles suivantes :
+
+a) une subdivision distincte comprend les estimations des recettes générales tandis que les recettes spécifiques, y compris les recettes affectées aux fonds budgétaires, sont prévues dans les subdivisions correspondantes aux divisions organiques du budget des dépenses visées à l'article 8, § 1er;
+
+b) [<sup>2</sup> les estimations de recettes des subdivisions sont réparties par adresse budgétaire]<sup>2</sup>.
+
+[<sup>2</sup> Concernant l'alinéa 1er, 4°, b), chaque adresse budgétaire est composée d'un centre financier correspondant à la division organique, d'un compte budgétaire et d'un domaine fonctionnel. Les positions 2 à 5 du compte budgétaire sont codifiés selon la classification économique. Chaque adresse budgétaire identifie, par un libellé, la nature ou l'objet de la recette. Lorsqu'il s'agit d'un remboursement de dépenses, le code de l'adresse budgétaire doit être identique à celui de l'opération préalable de dépenses.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 6, 021; En vigueur : 01-01-2025&gt;
+
+##### Section 2. - Des dépenses
+
+###### Art. 7
+
+Au budget, sont portés en dépenses :
+
+1° conformément aux dispositions de l'article 4, 2°, de la loi de dispositions générales :
+
+a) [<sup>1</sup> les crédits d'engagement à concurrence desquels des sommes peuvent être engagées du chef d'obligations nées ou contractées au cours de l'année budgétaire et, pour les obligations récurrentes, les sommes qui seront exigibles au cours de l'année budgétaire ]<sup>1</sup>;
+
+b) les crédits de liquidation, [<sup>1</sup> ...]<sup>1</sup> à concurrence desquels des sommes peuvent être liquidées au cours de l'année budgétaire, du chef des droits constatés en vue d'apurer des obligations préalablement engagées. Les crédits de liquidation peuvent être non limitatifs pour les dépenses désignées dans le budget;
+
+2° les dépenses prévisionnelles à la charge des fonds budgétaires, visés à l'article 4, alinéa 2, et fixées dans le respect des moyens disponibles que sont, pour chacun des fonds, les recettes affectées majorées, le cas échéant, du report réel ou estimé des recettes non utilisées au cours des années précédentes.
+
+Les dépenses prévisionnelles à la charge des fonds budgétaires sont :
+
+a) pour l'engagement, les sommes pouvant être engagées du chef d'obligations nées ou contractées au cours de l'année budgétaire et, pour les obligations récurrentes dont les effets s'étendent sur plusieurs années, les sommes qui seront exigibles au cours de l'année budgétaire;
+
+b) pour la liquidation, les sommes pouvant être liquidées au cours de l'année budgétaire du chef des droits constatés en vue d'apurer des obligations préalablement engagées.
+
+Toutefois, en cours d'exécution du budget, ces dépenses seront limitées par le montant des recettes affectées réellement perçues augmentées, le cas échéant, du solde réel reporté de l'exercice précédent;
+
+3° le cas échéant, une provision de crédits d'engagement réservée spécifiquement aux dépenses de personnel administratif qui n'ont pu être déterminées avec précision au moment du vote du budget. L'utilisation par le Gouvernement d'une telle provision doit être dûment justifiée.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 7, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 8
+
+§ 1er. Le budget, en dépenses, est subdivisé en divisions organiques, en programmes et en [<sup>2</sup> adresses budgétaires ]<sup>2</sup>.
+
+Une division organique regroupe les programmes concourant à la réalisation d'une politique publique définie.
+
+Chaque division organique comprend un programme fonctionnel et un ou plusieurs programmes opérationnels. Les crédits à inscrire dans ces deux types de programmes sont régis par les règles suivantes :
+
+1° les crédits du programme fonctionnel sont destinés à couvrir les dépenses générales de fonctionnement au sein de la division organique;
+
+2° les crédits d'un programme opérationnel sont destinés au financement d'une activité ou d'un ensemble cohérent d'activités spécifiques permettant de rencontrer un ou plusieurs des objectifs de la politique publique définie assignée à la division organique. Un programme opérationnel peut contenir les dépenses prévisionnelles à la charge d'un ou de plusieurs fonds budgétaires, à la condition de les distinguer des crédits, mais ne peut, en aucun cas, être alimenté par des crédits de liquidation non limitatifs.
+
+[<sup>3</sup> Les crédits des programmes et les dépenses prévisionnelles à la charge des fonds budgétaires sont répartis en adresses budgétaires. Chaque adresse budgétaire est composée d'un centre financier, correspondant à la division organique, d'un compte budgétaire et d'un domaine fonctionnel. Les positions 2 à 5 du compte budgétaire sont codifiées selon la classification économique. Le domaine fonctionnel est composé du numéro de programme composé des trois premières positions du domaine fonctionnel, suivi d'un numéro d'identification au sein du programme. Chaque adresse budgétaire identifie, par un libellé, la nature, l'objet ou le mode opératoire de la dépense. ]<sup>3</sup>.
+
+§ 2. Les crédits d'engagement sont autorisés et plafonnés par programme.
+
+§ 3. D'une part, les crédits de liquidation de chacun des programmes fonctionnels sont autorisés et plafonnés par programme, excepté s'ils sont non limitatifs, auquel cas ils sont plafonnés dans la limite du montant total des programmes fonctionnels de toutes les divisions organiques. D'autre part, les crédits de liquidation des programmes opérationnels sont autorisés par programme, mais plafonnés dans la limite du montant total des programmes opérationnels de la division organique.
+
+§ 4. Le budget, en dépenses, contient au moins :
+
+1° les dispositions fixant les conditions générales relatives aux dépenses;
+
+2° les dispositions fixant, conformément à l'article 7, 1°, b), les dépenses pour lesquelles les crédits peuvent être non limitatifs;
+
+3° les dispositions fixant, conformément à l'article 3, dernier alinéa, de la loi de dispositions générales, la nature des dépenses autorisées en l'absence d'un décret organique;
+
+4° les dispositions accordant au Gouvernement des habilitations de gestion;
+
+5° le tableau de synthèse, présenté par division organique et programme, des crédits d'engagement et des crédits de liquidation, en distinguant les crédits non limitatifs visés au 2° ainsi que, le cas échéant, des dépenses prévisionnelles à la charge des fonds budgétaires;
+
+6° en annexe, le tableau détaillant par [<sup>1</sup> adresse budgétaire ]<sup>1</sup> les crédits et les dépenses visées au 5°.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 41, 021; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 8, 021; En vigueur : 01-01-2025&gt;
+
+##### Section 3. - Des documents informatifs et justificatifs du budget
+
+###### Art. 9
+
+§ 1er. Le budget est accompagné des documents informatifs et justificatifs suivants :
+
+1° [<sup>1</sup> l'exposé général qui présente notamment :
+
+a) les lignes directrices du budget;
+
+b) une synthèse des recettes et des dépenses;
+
+c) un rapport financier;
+
+[<sup>3</sup> c/1) un rapport sur les revues des dépenses effectuées pendant l'année en cours, les actions qui y sont liées et un calendrier pour les revues de dépenses à effectuer. Par revue de dépenses, on entend un réexamen des dépenses du point de vue de l'efficacité, l'efficience et la cohérence avec la politique gouvernementale, afin d'identifier les possibilités de politiques plus efficaces et les marges de manoeuvre qui peuvent être utilisées pour de nouvelles dépenses de fonctionnement et d'intervention ou pour le contrôle global des dépenses.]<sup>3</sup>
+
+d) conformément aux articles 16/11 et 16/12 de la loi de dispositions générales et dans le respect des modalités fixées par le Gouvernement :
+
+(1) le cadre budgétaire à moyen terme et la programmation budgétaire pluriannuelle tels que définis à l'alinéa 3, ses éventuelles actualisations ainsi que l'explication de tout écart du budget annuel par rapport au cadre budgétaire;
+
+(2)[<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>4</sup>(2) des informations sur tous les organismes et fonds qui ne sont pas repris dans le budget mais qui font partie du périmètre de consolidation tel que défini par l'Institut des Comptes nationaux, ainsi que les montants correspondant à l'impact combiné de ces organismes et fonds sur le solde des pouvoirs publics et la dette publique ; ]<sup>4</sup>
+
+(4) l'impact, de manière détaillée, des dépenses fiscales sur les recettes en joignant un inventaire desdites dépenses qui reprend toutes les réductions, diminutions et exceptions au régime général de prélèvement des impôts qui s'appliquent pendant l'année budgétaire au profit des contribuables ou d'activités économiques, sociales ou culturelles.
+
+Le cadre budgétaire à moyen terme couvre la législature, ou au moins une période minimale de trois ans. Un nouveau Gouvernement peut actualiser le cadre budgétaire à moyen terme, défini par un Gouvernement précédent, pour tenir compte de ses nouvelles priorités d'action.
+
+Dans ce cas, le nouveau Gouvernement souligne les différences avec le précédent cadre budgétaire à moyen terme.
+
+La programmation budgétaire pluriannuelle, basée sur les prévisions du budget économique, comprend les éléments suivants :
+
+a) [<sup>4</sup> des objectifs budgétaires généraux et transparents à moyen terme pour le déficit public, la dette publique et tout autre indicateur budgétaire, tel que les dépenses, afin d'assurer leur cohérence avec les règles budgétaires chiffrées en vigueur telles que prévues dans l'accord de coopération entre l'Etat fédéral et les entités fédérées relatif à la gouvernance économique ]<sup>4</sup>;
+
+b) des prévisions pour chaque poste majeur de dépenses et de recettes, à politique inchangée;
+
+c) [<sup>4</sup> une description des mesures politiques envisagées à moyen terme, y compris les réformes et les investissements, ayant un impact sur les finances des administrations publiques et la croissance durable et inclusive, ventilées par poste de dépenses et de recettes importantes, qui montre comment l'ajustement aux objectifs budgétaires à moyen terme est réalisé en comparaison avec les projections à politique inchangée ]<sup>4</sup>;
+
+d) [<sup>4</sup> une évaluation de l'effet que, vu leur impact direct à moyen et à long terme sur les finances des administrations publiques, les politiques envisagées sont susceptibles d'avoir sur la soutenabilité à moyen et à long terme des finances publiques ainsi que sur la croissance durable et inclusive. Dans la mesure du possible, l'évaluation tient compte des risques macrobudgétaires dus au changement climatique, de leur impact sur l'environnement et de leurs effets distributifs ]<sup>4</sup>;
+
+[<sup>4</sup> e) des informations sur tous les organismes et fonds qui ne sont pas repris dans le budget mais qui font partie du périmètre de consolidation tel que défini par l'Institut des Comptes nationaux, ainsi que les montants correspondant à l'impact combiné de ces organismes et fonds sur le solde des pouvoirs publics et la dette publique. ]<sup>4</sup>
+
+2° un exposé particulier qui justifie et commente les recettes et les dépenses en regard des objectifs de la politique publique définie. Il fait apparaître notamment :
+
+a) en recettes, par subdivision, le fondement légal et la justification de chacun des [<sup>2</sup> adresses budgétaires ]<sup>2</sup> inscrits au budget;
+
+b) en dépenses, par division organique, la manière dont l'activité ou l'ensemble d'activités spécifiques de chacun des programmes contribue à la réalisation des objectifs de la division et, par article de base, le fondement légal et les moyens projetés dans le budget.
+
+§ 2. En ce qui concerne les dépenses, l'exposé particulier fournit en outre :
+
+1° lorsqu'il s'agit de dépenses dont l'exécution est programmée sur plusieurs années budgétaires, le plan de liquidation envisagé et chiffré;
+
+2° lorsqu'il s'agit de dépenses prévisionnelles à la charge d'un fonds budgétaire, les montants suivants en les distinguant pour l'engagement et pour la liquidation :
+
+a) le solde reporté de l'année précédente, réel ou estimé;
+
+b) la prévision d'encaissement des recettes affectées durant l'année budgétaire;
+
+c) la prévision des moyens disponibles, obtenue par l'addition des deux montants précités;
+
+d) la prévision, par article de base codifié selon la classification économique, des moyens qui seront utilisés durant l'année budgétaire;
+
+e) le solde final se dégageant des prévisions des opérations de l'année budgétaire;
+
+3° lorsqu'il s'agit de dépenses relatives au financement d'une première tranche d'obligations pluriannuelles, prises en exécution d'un contrat conclu par le Gouvernement, une synthèse du plan financier et de ses paramètres éventuels d'adaptation annuelle.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 10, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 9, 021; En vigueur : 01-01-2025&gt;
+
+(4)&lt;DRW 2026-07-02/13, art. 3, 028; En vigueur : 01-01-2026&gt;
+
+#### CHAPITRE III. - Dispositions relatives à la confection du budget et des ajustements, au calendrier budgétaire et à l'approbation par le Parlement
+
+###### Art. 10
+
+§ 1er. [<sup>1</sup> Considérant le cadre budgétaire à moyen terme visé à l'article 9, § 1er, 1°, le Gouvernement établit les projets de décret, l'un contenant les recettes du budget et l'autre les dépenses du budget, et les documents visés à l'article 9 ainsi que, le cas échéant, les projets de décret d'ajustement du budget et les documents visés au paragraphe 4.]<sup>1</sup>
+
+§ 2. Le Gouvernement dépose, au plus tard à la mi-novembre de l'année précédente, les projets de décret du budget de l'année budgétaire accompagnés des documents visés à l'article 9, devant le Parlement qui les adopte au plus tard le 31 décembre suivant. Le décret contenant les recettes du budget doit être publié au Moniteur belge du 31 décembre au plus tard.
+
+§ 3. Durant le premier quadrimestre de l'année budgétaire en cours, le Gouvernement contrôle l'exécution budgétaire en vue, le cas échéant, d'ajuster le budget des recettes et des dépenses.
+
+Durant l'année budgétaire, le Gouvernement peut déposer des projets d'ajustement du budget des recettes et des dépenses.
+
+A l'occasion du renouvellement intégral du Parlement, le Gouvernement procède à un contrôle budgétaire et, le cas échéant, dépose des projets d'ajustement du budget des recettes et des dépenses en vue de l'adapter aux objectifs de sa déclaration de politique.
+
+§ 4. L'ajustement du budget s'opère de la manière suivante :
+
+1° le budget des recettes et des dépenses est ajusté conformément aux dispositions des articles 5, 6, 7 et 8, en faisant apparaître, dans les tableaux, la comparaison entre les montants initiaux et ajustés;
+
+2° l'exposé général visé à l'article 9, § 1er, 1°, peut se limiter à la présentation d'une synthèse des recettes et des dépenses ajustées, à la motivation des actualisations et, le cas échéant, à une mise à jour du rapport financier;
+
+3° les exposés particuliers visés à l'article 9, § 1er, 2° et § 2, sont actualisés, en faisant apparaître la comparaison entre les montants initiaux et ajustés. Pour le surplus, ils peuvent se limiter à la justification des actualisations.
+
+§ 5. Le Gouvernement dépose devant le Parlement les projets de décret d'ajustement du budget, accompagnés des documents visés au § 4, 2° et 3°. Les crédits faisant l'objet dans ces projets d'une annulation ou d'une réduction sont alors, à due concurrence, rendus indisponibles pour engager ou liquider des dépenses.
+
+Les ajustements doivent être votés au plus tard le 31 décembre de l'année budgétaire en cours.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 11, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 11
+
+Tant pour le budget que lors d'un ajustement, l'approbation du Parlement porte, successivement, sur :
+
+1° le dispositif en ce qui concerne le budget en recettes;
+
+2° le dispositif et le tableau de synthèse visé à l'article 8, § 4, 5°, en ce qui concerne le budget en dépenses.
+
+#### CHAPITRE IV. - Dispositions réglant l'absence ou l'insuffisance de crédits
+
+###### Art. 12
+
+§ 1er. Dans l'hypothèse exceptionnelle où il apparaît que le décret contenant les dépenses du budget ne sera pas voté pour le 31 décembre précédant l'année budgétaire, alors que le projet a été déposé au Parlement conformément à l'article 10, § 2, le Gouvernement assure, par une délibération motivée, portée immédiatement à la connaissance du Parlement, et directement exécutoire à partir du 1er janvier de l'année budgétaire concernée, la continuité des services en ouvrant des crédits d'engagement et des crédits de liquidation.
+
+Cette délibération couvre une période qu'elle détermine et qui ne peut être inférieure à un mois, ni excéder trois mois, sauf si des obligations légales ou contractuelles requièrent une période d'une autre durée. Les crédits doivent être équivalents en nature et proportionnels, pour la période concernée, aux montants autorisés de l'année précédente. Toutefois, les crédits destinés aux dépenses liées automatiquement ou contractuellement à l'indice des prix à la consommation ou à l'indice santé peuvent être majorés des augmentations strictement liées à cette indexation.
+
+Dès le premier jour du mois suivant l'approbation du budget en dépenses par le Parlement, les effets de la délibération en cours cessent immédiatement et les dépenses exposées depuis le début de l'année budgétaire sont imputées à la charge des crédits du budget approuvé.
+
+§ 2. Dans l'hypothèse exceptionnelle où il apparaît que le projet de décret contenant les dépenses du budget n'a pas été déposé au Parlement conformément à l'article 10, § 2, et que le décret ne sera dès lors pas voté pour le 31 décembre précédant l'année budgétaire, un décret doit ouvrir les crédits provisoires nécessaires au fonctionnement des services et à valoir sur le budget de cette année budgétaire.
+
+Le décret ouvrant des crédits provisoires fixe la période à laquelle ces crédits se rapportent. La période pour laquelle des crédits d'engagement et de liquidation sont alloués ne peut être inférieure à un mois, ni excéder trois mois, sauf si des obligations légales ou contractuelles requièrent qu'ils le soient pour une période d'une autre durée.
+
+Les crédits doivent être équivalents en nature et proportionnels, pour la période concernée, aux montants autorisés de l'année précédente. Toutefois, les crédits destinés aux dépenses liées automatiquement ou contractuellement à l'indice des prix à la consommation ou à l'indice santé peuvent être majorés des augmentations strictement liées à cette indexation.
+
+Dès le premier jour du mois suivant l'approbation du budget en dépenses par le Parlement, les effets des décrets ouvrant des crédits provisoires cessent immédiatement et les dépenses exposées depuis le début de l'année budgétaire sont imputées à la charge des crédits du budget approuvé.
+
+§ 3. L'absence de vote du budget en dépenses pour le 31 décembre de l'année précédant l'année budgétaire n'affecte pas les dépenses des fonds budgétaires. Leurs recettes reportées et perçues dès le début de l'année budgétaire sont immédiatement disponibles pour couvrir les dépenses.
+
+###### Art. 13
+
+Dans les cas d'urgence résultant de circonstances exceptionnelles ou imprévisibles et à défaut ou en cas d'insuffisance de crédits, le Gouvernement autorise par une délibération motivée ouvrant les crédits nécessaires répartis en [<sup>1</sup> adresse budgétaire ]<sup>1</sup> :
+
+1° soit l'engagement de la dépense;
+
+2° soit sa liquidation;
+
+3° soit son engagement et sa liquidation.
+
+Conjointement à cette délibération, le Gouvernement dépose au Parlement un projet de décret d'ajustement du budget conformément aux dispositions de l'article 10, §§ 1er, 4 et 5. Ce dépôt rend la délibération exécutoire. Toutefois, le dépôt immédiat d'un projet de décret spécifique d'ajustement n'est pas requis dès lors que la délibération porte sur un montant inférieur à un seuil fixé, annuellement, dans les dispositions visées à l'article 8, § 4, 4°. Dans ce cas, la délibération est exécutoire à la date fixée par le Gouvernement.
+
+Toutes les délibérations doivent faire l'objet d'une régularisation par voie d'ajustement du budget dont le projet devra être approuvé, au plus tard, le 31 décembre de l'année en cours.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 14
+
+Les délibérations visées aux articles 12, § 1er, 13 et 23, § 2, sont transmises sans délai à la [<sup>1</sup> Cour des comptes ]<sup>1</sup> qui, le cas échéant, communique ses observations au Parlement et en informe le Ministre du Budget.
+
+Les crédits ouverts par ces délibérations et par les décrets de crédits provisoires visés à l'article 12, § 2, ainsi que leur utilisation sont comptabilisés distinctement dans la comptabilité budgétaire.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+### Titre II. [<sup>1</sup> Dispositions relatives à l'exécution du budget et à la comptabilité budgétaire]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 12, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. - Dispositions générales
+
+###### Art. 15
+
+La comptabilité budgétaire doit permettre un suivi permanent du respect des autorisations budgétaires accordées par le Parlement et de l'exécution du budget. Elle est intégrée à la comptabilité générale visée [<sup>1</sup> au Titre III du présent Livre]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 13, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 16
+
+§ 1er. Sont seuls imputés au budget d'une année budgétaire déterminée :
+
+1° en recettes, les droits constatés durant cette année budgétaire, y compris ceux afférents à des recettes affectées, ainsi que les recettes perçues au comptant;
+
+2° [<sup>2</sup> en dépenses,
+
+a) à la charge des crédits d'engagement, les sommes qui peuvent être engagées du chef d'obligations nées ou contractées au cours de l'année budgétaire et, pour les obligations récurrentes, les sommes exigibles pendant l'année budgétaire ;
+
+b) à la charge des crédits de liquidation, les sommes qui sont liquidées au cours de l'année budgétaire du chef de droits constatés découlant des obligations préalablement engagées]<sup>2</sup>
+
+3° en dépenses, à la charge des crédits de liquidation, les sommes qui sont liquidées au cours de l'année budgétaire du chef de droits constatés découlant des obligations préalablement engagées;
+
+4° à la charge des fonds budgétaires,
+
+a) sur les moyens disponibles pour l'engagement, les sommes qui sont engagées durant l'année budgétaire;
+
+b) sur les moyens disponibles pour la liquidation, les sommes qui sont liquidées au cours de l'année budgétaire du chef de droits constatés découlant des obligations préalablement engagées.
+
+§ 2. [<sup>1</sup> Les droits constatés au 31 décembre de l'année budgétaire considérée peuvent être imputés à charge des crédits d'engagement et de liquidation du budget jusqu'au 31 janvier de l'année suivante. A défaut, ils sont imputés à charge des crédits d'engagement et de liquidation de l'année budgétaire suivante.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 14, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 10, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 17
+
+Le Gouvernement fournit périodiquement au Parlement une situation de l'exécution du budget, ventilée :
+
+1° par subdivision en ce qui concerne les recettes;
+
+2° par division organique, par programme et par [<sup>1</sup> adresse budgétaire ]<sup>1</sup> en ce qui concerne les dépenses.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 18
+
+Tout décret susceptible d'entraîner une dépense non prévue au budget ouvre les crédits d'engagement et de liquidation nécessaires à son exécution pendant l'année budgétaire en cours et, s'il y a lieu, pendant l'année suivante. A défaut, son entrée en vigueur est postposée au budget qui y procède.
+
+###### Art. 18/1.
+
+[<sup>1</sup> Des fonds d'attribution sont ouverts dans la comptabilité des services d'administration générale pour les parts du produit d'impôts, perceptions et versements attribués à d'autres autorités publiques. Ils mentionnent l'estimation des recettes qui ne sont pas comptabilisées au budget des recettes et que le Gouvernement peut mettre directement à la disposition des autorités concernées, conformément aux lois, décrets et arrêtés qui en règlent l'attribution.
+
+Les opérations effectuées sur les fonds d'attribution pendant l'année budgétaire sont évaluées conformément au tableau y afférent annexé au décret budgétaire annuel . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 11, 021; En vigueur : 01-01-2025&gt;
+
+#### CHAPITRE II. - Dispositions relatives aux recettes budgétaires
+
+###### Art. 19
+
+§ 1er. Sans préjudice des dispositions en matière de taxes et d'impôts, chacun dans leurs compétences, les ordonnateurs constatent les droits à la charge des tiers. Ils leur notifient au moins l'objet de la créance, la somme à payer, les modalités de paiement et la date d'échéance.
+
+§ 2. Les droits constatés sont imputés dans la comptabilité et sont simultanément communiqués à un receveur. Pour les recettes non fiscales, [<sup>1</sup> les services d'administration générale]<sup>1</sup> peut désigner un receveur centralisateur.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 20
+
+Les fonctions de receveur et de trésorier sont compatibles entre elles, mais sont incompatibles avec celle d'ordonnateur.
+
+Le receveur rend compte de sa gestion conformément aux dispositions de l'article 39 en sa qualité de comptable au sens de la loi de dispositions générales.
+
+#### CHAPITRE III. - Dispositions relatives aux dépenses budgétaires
+
+###### Art. 21
+
+§ 1er. Dans la limite des montants fixés à chacun des [<sup>1</sup> adresses budgétaires ]<sup>1</sup>, les ordonnateurs peuvent utiliser les crédits de dépenses conformément au principe de bonne gestion financière.
+
+Toute dépense fait successivement l'objet d'un engagement, d'une liquidation, d'un ordre de paiement à l'intervention de l'ordonnateur et d'un paiement à l'intervention du trésorier.
+
+§ 2. A défaut de délais de paiement fixés dans la législation relative aux marchés publics de travaux, de fournitures et de services, dans toutes autres dispositions légales et réglementaires fixant des délais particuliers ou encore d'échéance préalablement fixée conventionnellement avec le tiers créancier, le délai entre la liquidation de la dépense et le paiement de la somme exigible ne peut excéder vingt jours.
+
+§ 3. Lorsque le montant du droit constaté ne peut être payé entre les mains du créancier en raison d'une saisie-arrêt, une opposition, une cession ou une délégation à charge des créances de la Région wallonne ou tout autre obstacle juridique ou administratif dûment notifié ou rendu opposable, la somme est enregistrée sur un compte d'attente, jusqu'au moment où le gestionnaire du contentieux [<sup>2</sup> de la trésorerie ]<sup>2</sup>, désigné par arrêté du Gouvernement, donne les ordres de paiement en faveur des bénéficiaires légalement déterminés. Dans cette hypothèse, les dispositions visées au § 2 ne sont pas applicables.
+
+§ 4. Lorsqu'un ordonnateur cesse sa fonction, il transmet de manière complète et sans délai les données comptables et budgétaires des matières relevant de sa compétence à son successeur. Les modalités de cette procédure sont arrêtées par le Gouvernement, conformément aux dispositions de l'article 41, alinéa 2.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 12, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 22
+
+§ 1er. [<sup>1</sup> Les contrats et les marchés publics de travaux, de fournitures et de services tels que définis par la législation en vigueur, ainsi que les arrêtés d'octroi de subvention et, s'il échet, de prix ne peuvent pas être notifiés aux tiers avant que ces contrats, marchés publics et arrêtés aient fait l'objet d'un engagement budgétaire]<sup>1</sup>.
+
+L'engagement budgétaire doit être confirmé par l'engagement juridique corrélatif.
+
+§ 2. Si le montant de l'engagement juridique diffère de celui de l'engagement budgétaire, ce dernier doit être, selon le cas, immédiatement complété par l'ordonnateur ou extourné d'office à due concurrence.
+
+§ 3. Les dépenses autres que celles visées au § 1er ne peuvent [<sup>1</sup> faire l'objet d'un engagement budgétaire ]<sup>1</sup> qu'à l'appui d'une pièce justificative émanant d'un ordonnateur et constatant l'existence et l'étendue exacte de l'obligation.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 13, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 23
+
+§ 1er. Toute liquidation d'une dépense non préalablement engagée, en infraction à l'article 21, § 1er, [<sup>1</sup> ...]<sup>1</sup> mais réunissant les conditions de la constatation du droit en faveur du tiers, doit être précédée d'un [<sup>1</sup> engagement dérogatoire]<sup>1</sup>, à la charge des crédits de l'année budgétaire en cours. Le Gouvernement en arrête les modalités.
+
+§ 2. Si après épuisement de toutes les possibilités de nouvelle répartition des crédits, telles qu'elles sont prévues à l'article 26, il s'avère :
+
+1° soit, qu'il n'existe pas de crédit d'engagement spécialisé ou qu'il est insuffisant pour la régularisation visée au § 1er;
+
+2° soit, qu'une dépense régulièrement engagée ne peut être liquidée en raison d'une insuffisance de crédits de liquidation alors que les droits du tiers sont incontestablement constatés et sans préjudice des dispositions de l'article 16, § 2,
+
+le Gouvernement ouvre le crédit nécessaire en adoptant une délibération budgétaire en se conformant à la procédure et aux modalités prévues aux articles 13 et 14.
+
+Toutefois, si la délibération satisfait à la condition de seuil fixée à l'article 13, alinéa 3, elle doit en outre prévoir de compenser le montant ouvert par un blocage de crédits autorisés à due concurrence.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 14, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 24
+
+§ 1er. Au moins une fois par année budgétaire, la situation de l'encours des engagements [<sup>1</sup> budgétaires ]<sup>1</sup>fait l'objet d'une vérification [<sup>1</sup> par l'ordonnateur compétent ]<sup>1</sup>.
+
+Les engagements [<sup>1</sup> budgétaires ]<sup>1</sup> doivent être annulés, d'une part, si à l'appui de pièces justificatives, il est constaté qu'ils sont devenus sans objet et, d'autre part, d'office, s'ils n'ont pas été suivis d'une mise en oeuvre dans un délai de cinq ans suivant l'année de leur imputation, excepté dans les cas où les ordonnateurs justifient leur maintien au-delà de cette période.
+
+§ 2. [<sup>1</sup> Au moins une fois par an ]<sup>1</sup>, la situation de l'encours des dépenses à liquider fait l'objet d'une vérification en vue de détecter les anomalies qui pourraient occasionner des retards dans la séquence de la liquidation et du paiement.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 15, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 25
+
+[<sup>1</sup> Les obligations nécessaires pour assurer le fonctionnement continu des services peuvent être contractées à partir du 1er novembre, à charge des crédits de l'année budgétaire suivante, dans la limite du tiers des crédits d'engagement votés pour les dépenses correspondantes de l'année en cours. Les actes d'engagement stipulent que les fournitures ne peuvent être livrées, ni les services prestés, avant l'ouverture de l'année budgétaire ]<sup>1</sup>.
+
+Ces engagements sont imputés dans les engagements hors bilan de la comptabilité générale de l'année en cours, jusqu'à l'ouverture de l'année budgétaire suivante au début de laquelle ils sont immédiatement imputés dans la comptabilité budgétaire.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 16, 021; En vigueur : 01-01-2025&gt;
+
+#### CHAPITRE IV. - Dispositions relatives à la nouvelle répartition des crédits en cours d'année budgétaire
+
+###### Art. 26
+
+§ 1er. Sans préjudice de l'article 27, durant l'année budgétaire, les ordonnateurs[<sup>2</sup> ] primaires -2 peuvent solliciter une modification de la répartition des crédits des programmes entre les [<sup>1</sup> adresses budgétaires ]<sup>1</sup> en suivant la procédure et les modalités arrêtées par le Gouvernement et moyennant le respect des règles suivantes :
+
+1° en ce qui concerne les crédits d'engagement, une nouvelle répartition peut intervenir entre les [<sup>1</sup> adresses budgétaires ]<sup>1</sup> d'un même programme;
+
+2° en ce qui concerne les crédits de liquidation limitatifs, une nouvelle répartition peut intervenir entre les [<sup>1</sup> adresses budgétaires ]<sup>1</sup> du programme fonctionnel et entre les [<sup>1</sup> adresses budgétaires ]<sup>1</sup> de tous les programmes opérationnels d'une même division organique;
+
+3° en ce qui concerne les crédits de liquidation non limitatifs, une nouvelle répartition peut intervenir uniquement entre les [<sup>1</sup> adresses budgétaires ]<sup>1</sup> alimentés par des crédits de cette nature dûment autorisés;
+
+4° tant pour les crédits d'engagement que pour les crédits de liquidation, les augmentations de crédits doivent être compensées par des diminutions équivalentes de crédits lors de toute nouvelle répartition.
+
+§ 2. Dans des cas d'urgence résultant de circonstances exceptionnelles ou imprévisibles et d'une insuffisance de crédits d'engagement au sein d'un programme fonctionnel d'une division organique empêchant la liquidation des rémunérations du personnel administratif, par dérogation aux dispositions du § 1er, 1°, le Gouvernement autorise par une délibération motivée, un transfert vers ce programme et en provenance d'un ou de plusieurs autres programmes fonctionnels des crédits d'engagement nécessaires. Ce transfert est immédiatement exécutoire.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 17, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 27
+
+[<sup>1</sup> Les ordonnateurs peuvent solliciter une modification de la répartition des dépenses prévisionnelles d'un fonds budgétaire exclusivement entre les adresses budgétaires du programme opérationnel dédié au fonds et en suivant la procédure et les modalités arrêtées par le Gouvernement]<sup>1</sup>.
+
+[<sup>1</sup> Tant pour les crédits d'engagement que pour les crédits de liquidation, les augmentations de crédits doivent être compensées par des diminutions équivalentes de crédits lors de toute nouvelle répartition au sein du fonds concerné.]<sup>1</sup>
+
+Aucun transfert de moyens ne peut avoir lieu entre les fonds budgétaires.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 18, 021; En vigueur : 01-01-2025&gt;
+
+#### CHAPITRE V. - Dispositions relatives au compte d'exécution du budget
+
+###### Art. 28
+
+§ 1er. Les crédits autorisés d'engagement et de liquidation inscrits aux [<sup>1</sup> adresses budgétaires ]<sup>1</sup> non utilisés au terme de l'année budgétaire tombent en annulation.
+
+§ 2. Sont reportés à l'année suivante :
+
+1° le solde des moyens des fonds budgétaires non utilisés, en engagement et en liquidation, au terme de l'année budgétaire;
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+4° le solde des dépenses demeurant à liquider au terme de l'année budgétaire, après application des dispositions de l'article 16, § 2.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 19, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 29
+
+§ 1er. Le compte d'exécution du budget est présenté :
+
+1° en ce qui concerne les recettes, conformément au tableau visé à l'article 6, 4° ;
+
+2° en ce qui concerne les crédits de dépenses, conformément au tableau visé à l'article 8, § 4, 5°.
+
+§ 2. Sont portées dans le compte d'exécution du budget, en regard des estimations ou autorisations selon le cas, les imputations opérées conformément à l'article 16 dans la comptabilité budgétaire. En dépenses, la différence entre les crédits autorisés et les imputations détermine les crédits à annuler visés à l'article 28, § 1er.
+
+§ 3. Dans le compte d'exécution du budget, la détermination des soldes visés à l'article 28, § 2, 2° à 4° fait l'objet d'un compte rendu.
+
+§ 4. Le solde budgétaire est obtenu par différence entre les recettes imputées et les dépenses liquidées.
+
+§ 5. Doivent figurer dans une annexe au compte d'exécution du budget :
+
+1° les imputations visées au § 2, détaillées par [<sup>1</sup> adresse budgétaire ]<sup>1</sup>, conformément au tableau visé à l'article 8, § 4, 6° ;
+
+2° un relevé des dépassements des crédits de liquidation non limitatifs autorisés conformément à l'article 8, § 4, 2° ;
+
+3° en ce qui concerne les fonds budgétaires, le détail des imputations de l'année en suivant le même schéma d'informations que celui repris à l'article 9, § 2, 2°, de manière à fixer le solde visé à l'article 28, § 2, 1°.
+
+[<sup>2</sup> § 6. Les missions que le Gouvernement délègue à des unités d'administration publique sont enregistrées dans le compte d'exécution du budget des services d'administration générale, sur des adresses budgétaires distinctes de celles relevant des services d'administration générale.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 20, 021; En vigueur : 01-01-2025&gt;
+
+### Titre III. [<sup>1</sup> Dispositions relatives à la comptabilité générale]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 15, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. - Dispositions générales
+
+###### Art. 30
+
+Conformément aux dispositions de l'article 6 de la loi de dispositions générales, dans un système informatisé de livres et de comptes, [<sup>2</sup> les services d'administration générale]<sup>2</sup> tient une comptabilité générale selon les règles usuelles de la comptabilité en partie double en suivant le plan comptable arrêté conformément à l'article 5 de la loi de dispositions générales.
+
+Cette comptabilité générale s'étend à l'ensemble des avoirs, des droits, des dettes et des obligations et engagements de toute nature [<sup>1</sup> des services d'administration générale]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 21, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 31
+
+L'exercice comptable s'étend du 1er janvier au 31 décembre. Il coïncide avec l'année budgétaire.
+
+###### Art. 32
+
+§ 1er. Toute opération comptable est inscrite, sans retard, de manière fidèle et complète et par ordre de date, soit dans le livre journal central soit dans des livres journaux auxiliaires spécialisés.
+
+Dans ce dernier cas, les mouvements totaux imputés font, mensuellement au moins, l'objet d'une écriture récapitulative dans le livre journal central.
+
+§ 2. Lorsque l'opération résulte d'une relation avec un tiers, les droits [<sup>1</sup> ...]<sup>1</sup>e doivent avoir été constatés préalablement.
+
+§ 3. Toute écriture s'appuie sur une pièce justificative datée et portant un indice de référence à celle-ci.
+
+Le Gouvernement détermine les conditions auxquelles doivent répondre les pièces justificatives.
+
+Toutes les pièces justificatives référencées doivent être conservées de manière méthodique tout en garantissant leur inaltérabilité et leur accessibilité.
+
+§ 4. Le système informatisé de livres et de comptes doit garantir la régularité et l'irréversibilité des écritures.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 22, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 33
+
+Dans le respect des dispositions [<sup>1</sup> des articles 74 et 75]<sup>1</sup>, le Gouvernement fixe les délais et les modalités de conservation des livres, des pièces justificatives et des pièces comptables, étant entendu que ceux-ci doivent au minimum rester disponibles tant que le décret portant approbation du compte général visé à l'article 44, § 2, n'a pas été approuvé par le Parlement.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 16, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 34
+
+[<sup>1</sup> Les services d'administration générale]<sup>1</sup> [<sup>2</sup> procèdent ]<sup>2</sup> au moins une fois par an, et en fin d'exercice, aux opérations de relevé, de vérification, d'examen et d'évaluation nécessaires pour établir à la date du 31 décembre un inventaire complet de [<sup>2</sup> leurs avoirs, droits, dettes, obligations et engagements, y compris leurs droits ]<sup>2</sup> et engagements hors bilan et, dans ce cas, sans préjudice des dispositions de l'article 24, § 1er.
+
+Les comptes sont mis en concordance avec les données de l'inventaire, dont les pièces justificatives sont conservées suivant les mêmes règles que celles visées à l'article 33, avant l'établissement du compte général visé à l'article 41.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 23, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 35
+
+La comptabilité générale doit permettre l'établissement, au 31 décembre, du bilan et des comptes de résultats ainsi que, périodiquement et au 31 décembre, de situations des flux de trésorerie en les distinguant selon qu'ils concernent des opérations budgétaires, des opérations liées au financement et des opérations de gestion de fonds appartenant à des tiers.
+
+Le résultat obtenu par différence entre les charges et les produits de l'exercice est reporté.
+
+###### Art. 36
+
+&lt;Abrogé par DRW 2024-04-25/54, art. 24, 021; En vigueur : 01-01-2025&gt;
+
+#### CHAPITRE II. - Règles d'organisation des services comptables et financiers
+
+###### Art. 37
+
+Le Gouvernement fixe les règles relatives à l'organisation de la comptabilité, en assurant le respect du principe de la séparation des fonctions.
+
+###### Art. 38
+
+§ 1er. Les entrées et les sorties de fonds s'effectuent à l'intervention de trésoriers. Elles sont centralisées.
+
+§ 2.[<sup>1</sup> ]<sup>1</sup>
+
+§ 3. Le système central d'encaissement et de décaissement des fonds doit être directement relié à la comptabilité générale et offrir toutes les garanties de sécurité contre toute forme de fraude.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 25, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 39
+
+Conformément aux dispositions de l'article 10, §§ 1er et 3, de la loi de dispositions générales, les receveurs et les trésoriers sont justiciables de la [<sup>1</sup> Cour des comptes ]<sup>1</sup>, en leur qualité de comptables au sens de ladite loi.
+
+Sans préjudice de l'application des dispositions visées aux articles 7 et 8 de la loi du 29 octobre 1846 relative à l'organisation de la Cour des Comptes, ils dressent, au 31 décembre de chaque année, un compte de leur gestion annuelle qui est transmis, à l'intervention du Ministre du Budget, à la [<sup>1</sup> Cour des comptes ]<sup>1</sup> avant le 1er mars de l'année qui suit celle pour laquelle il est établi.
+
+Si un receveur ou un trésorier ne rend pas son compte annuel dans le délai légal ou, dans les autres cas, dans celui fixé par l'entité dont il dépend, ou s'il est décédé sans l'avoir rendu, [<sup>2</sup> les services d'administration générale]<sup>2</sup> l'établit d'office.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 26, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 40
+
+Un crédit d'engagement et de liquidation est prévu annuellement au budget pour couvrir les éventuelles pertes résultant de déficits, quelles qu'en soient l'origine et la cause. Si ce déficit est récupérable, le droit est constaté et imputé en comptabilité conformément aux dispositions de l'article 19.
+
+### Titre IV. [<sup>1</sup> Dispositions relatives au compte général et aux rapportages obligatoires]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 27, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 41
+
+Pour le [<sup>2</sup> [<sup>3</sup> 15 juin]<sup>3</sup>]<sup>2</sup>, le Gouvernement établit le compte général [<sup>4</sup> des services d'administration générale]<sup>4</sup> relatif à l'année budgétaire et comptable écoulée.
+
+Il peut décider et déterminer le contenu, la forme, les modalités, la destination et la périodicité de rapports intermédiaires.
+
+----------
+
+(1)&lt;DRW 2021-12-22/21, art. 163, 013; En vigueur : 01-01-2022&gt;
+
+(2)&lt;DRW 2022-12-21/67, art. 171, 014; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DRW 2023-12-13/13, art. 156, 020; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DRW 2024-04-25/54, art. 28, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 42
+
+Conformément aux dispositions de l'article 9 de la loi de dispositions générales, le compte général [<sup>1</sup> [<sup>2</sup> des services d'administration générale]<sup>2</sup>]<sup>1</sup> comprend :
+
+1° le compte annuel, composé :
+
+a) du bilan;
+
+b) des comptes de résultats établis sur la base des charges et produits;
+
+c) du compte de récapitulation des opérations budgétaires de l'année classées par destination en suivant la classification économique et dans le respect des normes nationales et européennes de la comptabilité nationale;
+
+d) de la situation des flux de trésorerie;
+
+2° le compte d'exécution du budget établi conformément à l'article 29;
+
+3° l'annexe visée à l'article 43.
+
+Les montants y repris sont ceux arrêtés au 31 décembre de l'année comptable et budgétaire écoulée.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 18, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 43
+
+L'annexe fournit au moins :
+
+1° les informations utiles à l'appréciation des données relatives aux actifs immobilisés, aux créances et à la dette;
+
+2° un commentaire visant à réconcilier le solde budgétaire, tel que visé à l'article 29, § 4, et le résultat de l'exercice [<sup>2</sup> des services d'administration générale]<sup>2</sup>, tel que visé à l'article 35, alinéa 2;
+
+3° un état des droits et engagements hors bilan;
+
+4° [<sup>1</sup> un rapport sur les transferts de biens immeubles visés aux articles 57 et 63 ainsi que sur les aliénations à titre onéreux des biens immeubles effectuées en vertu du titre VIII du présent livre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 19, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 44
+
+[<sup>1</sup> § 1er. [<sup>5</sup>. § 1er. [<sup>7</sup> Le Gouvernement transmet à la [<sup>6</sup> Cour des comptes]<sup>6</sup> le compte général des services d'administration générale établi conformément aux articles 41 à 43 au plus tard le 30 juin, et les comptes généraux annuels des organismes de type 1 et des entreprises régionales établis conformément à l'article 97 au plus tard le 15 avril.
+
+La Cour des comptes fait parvenir ces comptes généraux, accompagnés de ses observations et des certifications qu'elle délivre conformément aux article 52 et 102, § 1er, au Parlement au plus tard à la fin du mois de juin suivant pour les comptes généraux annuels des organismes de type 1 et des entreprises régionales, et pour le 31 octobre pour le compte général des services d'administration générale.]<sup>7</sup>]<sup>6</sup>]<sup>5</sup>.
+
+§ 2. Pour le [<sup>4</sup> [<sup>7</sup> 30 novembre]<sup>7</sup>]<sup>4</sup> au plus tard, le Gouvernement dépose au Parlement le projet de décret portant approbation du compte général de l'entité auquel sont annexés les comptes généraux des organismes de type 1 et des entreprises régionales. L'approbation de ce projet intervient au plus tard le [<sup></sup> 31 décembre]<sup>7</sup> suivant.
+
+Les comptes généraux des organismes de type 1 et des entreprises régionales susvisés sont approuvés par le vote des dispositions les concernant.
+
+§ 3. Les observations et les certifications de la [<sup>6</sup> Cour des comptes ]<sup>6</sup> ainsi que les comptes généraux visés supra, excepté la partie de l'annexe au compte d'exécution du budget de l'entité visée à l'article 29, § 5, 1°, sont publiés en annexe du décret portant son approbation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 20, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2021-07-15/48, art. 23, 012; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2021-12-22/21, art. 163, 013; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DRW 2022-12-21/67, art. 171, 014; En vigueur : 01-01-2023&gt;
+
+(5)&lt;DRW 2023-12-13/13, art. 156, 020; En vigueur : 01-01-2024&gt;
+
+(6)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+(7)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 44/1.
+
+[<sup>1</sup> Conformément aux dispositions de l'article 9 de la loi de dispositions générales, le compte général de l'entité régionale comprend :
+
+1° le compte annuel, composé :
+
+a) du bilan ;
+
+b) des comptes de résultats établis sur la base des charges et produits ;
+
+c) du compte de récapitulation des opérations budgétaires de l'année classées par destination en suivant la classification économique et dans le respect des normes nationales et européennes de la comptabilité nationale ;
+
+d) de son annexe ;
+
+2° le compte d'exécution du budget, dans la même forme que celle du budget.
+
+Le Gouvernement arrête les modalités de consolidation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 30, 021; En vigueur : 01-01-2030&gt;
+
+###### Art. 44/2.
+
+[<sup>1</sup> Le compte général de l'entité régionale est établi par le Gouvernement et envoyé pour certification à la Cour des comptes avant le 30 septembre de l'année qui suit celle à laquelle elle se rapporte. La Cour des comptes transmet cette certification au Parlement au plus tard le 30 novembre en annexe du compte général de l'entité régionale et y joint ses observations. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 31, 021; En vigueur : 01-01-2030&gt;
+
+###### Art. 44/3.
+
+[<sup>1</sup> L'annexe au compte annuel comprend notamment un commentaire relatif aux règles de consolidation et aux règles d'évaluation retenues et un rapport sur les ventes ou autres aliénations éventuelles des biens meubles et immeubles au cours de l'année.
+
+Le Gouvernement arrête la forme et le contenu de cette annexe. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 32, 021; En vigueur : 01-01-2030&gt;
+
+###### Art. 45
+
+L'exercice comptable et budgétaire est définitivement clos par le vote du décret portant approbation du compte général de cet exercice.
+
+###### Art. 45/1
+
+[<sup>1</sup> [<sup>2</sup> § 1er. Conformément à l'article 16/10 de la loi de dispositions générales, les données budgétaires afférentes aux dépenses et recettes sur la base des droits constatés, ou sur base caisse sont trimestriellement communiquées à l'opérateur désigné à cet effet dans un accord de coopération. Cet aperçu inclut les recettes et les dépenses de toutes les unités d'administration publique faisant partie du périmètre de consolidation tel que défini par l'Institut des comptes nationaux]<sup>2</sup>.
+
+§ 2. Chaque unité d'administration publique transmet [<sup>2</sup> mensuellement]<sup>2</sup> au service désigné par le Gouvernement, systématiquement et pour le [<sup>2</sup> dix-huit ]<sup>2</sup> du mois suivant, les données nécessaires visées au paragraphe 1er.
+
+§ 3. Les données budgétaires en recettes et en dépenses visées au paragraphe 2 sont :
+
+1° établies en droits constatés sur la base de la comptabilité budgétaire ou, si ces données ne sont pas disponibles, sur celle de la comptabilité générale;
+
+2° arrêtées à la fin de chaque mois précédent. Distinctement, les montants mensuels sont cumulés de mois en mois;
+
+3° présentées selon le modèle arrêté par le Gouvernement.
+
+§ 4. Les données budgétaires sont consolidées par les services visés au paragraphe 2 en vue d'établir le regroupement économique du sous-secteur 1312 relevant de la Région wallonne. Elles sont communiquées pour publication à l'autorité fédérale compétente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 21, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2026-07-02/13, art. 4, 028; En vigueur : 01-01-2026&gt;
+
+###### Art. 45/2
+
+[<sup>1</sup> Conformément à l'article 16/14 de la loi de dispositions générales, le Gouvernement publie des informations pertinentes sur les engagements conditionnels susceptibles d'avoir un impact élevé sur le budget, dont les garanties publiques, les prêts improductifs et les passifs découlant de l'activité d'entreprises publiques. Pour autant que possible, le Gouvernement publie également des informations sur les passifs conditionnels liés aux catastrophes et au climat. Dans la mesure du possible, les informations publiées tiennent compte des informations sur les coûts budgétaires liés aux catastrophes et aux chocs climatiques. Le Gouvernement publie des informations sur les participations au capital de sociétés privées et publiques dans la mesure où il s'agit de montants économiquement significatifs. Le Gouvernement fixe les modalités de publication de ces informations ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-07-02/13, art. 5, 028; En vigueur : 01-01-2026&gt;
+
+###### Art. 45/3
+
+[<sup>1</sup> Complémentairement au prescrit des articles 45/1 et 45/2, chaque unité d'administration publique transmet au Gouvernement les données la concernant permettant de satisfaire aux autres exigences régionales, belges, européennes ou internationales en matière de rapportage. Le Gouvernement fixe la portée, la périodicité et les modalités de ces demandes d'informations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 23, 003; En vigueur : 08-01-2016&gt;
+
+### Titre V. [<sup>1</sup> Dispositions relatives à la surveillance et au contrôle]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 35, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. - Le contrôle et l'audit internes
+
+###### Art. 46
+
+[<sup>2</sup> Les services d'administration générale mettent en place un système de contrôle interne de leurs processus et leurs activités selon les modalités à fixer par le Gouvernement. ]<sup>2</sup>
+
+Ce contrôle interne vise à donner une assurance raisonnable d'une maîtrise des risques concernant notamment :
+
+1° la conformité des décisions aux lois, décrets, arrêtés, circulaires, règlements et contrats;
+
+2° le respect des phases d'engagements et de liquidation des dépenses et de la correcte constatation des droits à l'égard des tiers;
+
+3° la prévention et la détection des fraudes et des erreurs;
+
+4° l'accomplissement des objectifs assignés;
+
+5° la fiabilité et l'intégrité des données opérationnelles et financières;
+
+6° la bonne gestion financière;
+
+7° la protection du patrimoine;
+
+8° la conservation des pièces et des valeurs détenues par les trésoriers;
+
+9° la gestion des approvisionnements et des fournitures nécessaires au fonctionnement et à l'activité [<sup>1</sup> des services d'administration générale]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 33, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 47
+
+Afin de s'assurer du bon fonctionnement des services et d'évaluer le système de contrôle interne [<sup>1</sup> dans les domaines budgétaires et comptables ]<sup>1</sup>, le Gouvernement organise l'audit interne en lui attribuant l'indépendance nécessaire à sa fonction et fixe les modalités de ses interventions. L'audit interne remplit également une fonction de conseil.
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 34, 021; En vigueur : 01-01-2030&gt;
+
+#### CHAPITRE II. - Le contrôle administratif et budgétaire
+
+###### Art. 48
+
+§ 1er. Conformément aux dispositions de l'article 51 de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, le Gouvernement surveille l'exécution du budget en organisant un contrôle administratif, budgétaire et de gestion selon les modalités qu'il fixe.
+
+§ 2. Pour l'assister dans le cadre de ce contrôle, le Gouvernement dispose d'inspecteurs des finances qui sont mis à sa disposition et placés sous son autorité.
+
+Les inspecteurs des finances assument également la fonction de conseiller budgétaire et financier du Gouvernement. Selon les modalités fixées par ce dernier, ils réalisent, en outre, des enquêtes budgétaires et financières spécifiques.
+
+###### Art. 49
+
+Les inspecteurs des finances rendent leurs avis préalables ou formulent leurs recommandations, d'initiative ou sur demande, en toute indépendance et conformément à la déontologie du Corps interfédéral de l'Inspection des Finances.
+
+Disposant de pouvoirs d'investigation les plus larges, ils accomplissent leur mission sur pièces et sur place. Ils ont accès à tous les dossiers, archives et informations qu'ils jugent utiles à son exercice.
+
+Ils ne peuvent ni participer à la direction ou à la gestion des services, ni donner d'ordres tendant à empêcher ou à suspendre des opérations.
+
+#### CHAPITRE III. - Le contrôle externe et la certification du compte général
+
+###### Art. 50
+
+Conformément à l'article 10, § 1er, de la loi de dispositions générales, la [<sup>1</sup> Cour des comptes ]<sup>1</sup> :
+
+1° est chargée du contrôle de la comptabilité générale et de la comptabilité budgétaire [<sup>2</sup> des services d'administration générale]<sup>2</sup>;
+
+2° veille à ce qu'aucun crédit de dépenses du budget ne soit dépassé et qu'aucun transfert n'ait lieu;
+
+3° examine la légalité et la régularité des dépenses et des recettes. En ce qui concerne ces dernières, la Cour exerce un contrôle général sur les opérations relatives à l'établissement et au recouvrement;
+
+4° contrôle le bon emploi des deniers publics; elle s'assure du respect des principes d'économie, d'efficacité et d'efficience.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 51
+
+Pour l'accomplissement des missions visées à l'article 50, [<sup>1</sup> Cour des comptes ]<sup>1</sup> :
+
+1° est habilitée, conformément à l'article 10, § 1er, de la loi de dispositions générales, à se faire communiquer tous documents et renseignements, de quelque nature que ce soit, relatifs à la gestion[<sup>2</sup> des services d'administration générale]<sup>2</sup>. Elle peut organiser un contrôle sur place;
+
+2° dispose de l'accès direct et continu, en consultation, au système comptable informatisé;
+
+3° correspond directement avec les ministres compétents qui sont tenus de lui répondre dans un délai maximum d'un mois. A leur demande, elle peut accorder une prolongation de ce délai;
+
+4° communique, le cas échéant, ses observations au Parlement et en informe le Ministre du Budget et, dans les situations qui l'exigent, le ministre fonctionnellement compétent.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 52
+
+§ 1er. Dans le cadre du contrôle de la comptabilité générale et de la comptabilité budgétaire visé à l'article 50, 1°, [<sup>1</sup> Cour des comptes ]<sup>1</sup> procède à la certification du compte général en émettant une opinion :
+
+1° sur le respect des dispositions du présent décret et de ses arrêtés d'exécution quant à la tenue de la comptabilité et l'établissement du compte général;
+
+2° sur la régularité, la sincérité et la fidélité du compte général.
+
+Conformément aux dispositions de l'article 44, § 1er, cette certification accompagne les observations de la Cour lors du dépôt du compte général au Parlement.
+
+§ 2. En application des dispositions de l'article 50, 3°, relatives à l'examen de la légalité et de la régularité des dépenses et des recettes, la [<sup>1</sup> Cour des comptes ]<sup>1</sup> est, notamment, habilitée à effectuer :
+
+1° une analyse des projets de budget et d'ajustement du budget visés à l'article 10 qui lui sont transmis d'office par le Ministre du Budget;
+
+2° une vérification auprès des ordonnateurs, des opérations relatives à la constatation des droits à la charge des tiers.
+
+§ 3. Le Parlement peut charger la Cour des Comptes de procéder à des contrôles spécifiques de certains programmes de dépenses ainsi qu'à des audits financiers et à des analyses de gestion.
+
+§ 4. Lorsque la [<sup>1</sup> Cour des comptes ]<sup>1</sup> contrôle le bon emploi des deniers publics comme visé à l'article 50, 4°, elle soumet ses conclusions provisoires au ministre fonctionnellement compétent et prévoit un débat contradictoire avant de déposer son rapport final.
+
+En outre, lorsqu'elle exerce ce contrôle sur place, elle en informe préalablement l'autorité administrative compétente.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+#### CHAPITRE IV. [<sup>1</sup> Le contrôle externe du système comptable et l'approche intégrée d'audit]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 25, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 52/1
+
+(1)&lt;Abrogé par DRW 2024-04-25/54, art. 36, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 52/2
+
+[<sup>1</sup> Sans préjudice de l'application de dispositions légales spécifiques, le Gouvernement arrête des modalités de la collaboration entre les différents intervenants en charge des contrôles et des audits des unités d'administration publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 27, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 52/3.
+
+[<sup>1</sup> § 1er. Un comité chargé du suivi budgétaire et financier est mis en place au sein de certains organismes visés à l'article 3, § 1er, 4°, a) à c), et 5°, dont la liste est fixée par le Gouvernement et insérée annuellement dans le décret contenant le budget général de la Région wallonne.
+
+§ 2. Le comité visé au paragraphe 1er est composé au moins de :
+
+1° deux membres de l'organe de gestion de l'organisme ;
+
+2° deux membres reconnus pour leurs compétences budgétaires, désignés par le Gouvernement ;
+
+3° un Inspecteur des Finances désigné par le Gouvernement ;
+
+4° un délégué de l'Administration du budget de la Région, désigné par le Gouvernement ;
+
+5° un membre désigné par le Ministre du Budget ;
+
+6° un représentant du Centre stratégique d'expertise fiscale, financière et budgétaire.
+
+Pour chaque membre effectif visé à l'alinéa 1er, un membre suppléant est désigné. Il ne siège qu'en l'absence du membre effectif correspondant.
+
+La qualité de membre du comité est incompatible avec le mandat ou les fonctions de :
+
+\- membre de l'organe de gestion, sauf pour ce qui concerne les membres visés à l'alinéa 1er, 1° ;
+
+\- membre du Gouvernement de l'Etat fédéral, d'une Région, d'une Communauté ou Secrétaire d'Etat bruxellois ;
+
+\- membre du Parlement européen, des Chambres législatives fédérales ou d'un parlement de Région ou de Communauté ;
+
+\- gouverneur de province ;
+
+\- membre du personnel de l'organisme, ou d'une de ses filiales ;
+
+\- conseiller externe ou consultant régulier de l'organisme.
+
+Par dérogation à l'alinéa 3, des membres de la direction générale de l'organisme assistent aux réunions du comité avec voix consultative. En outre, assistent également aux réunions de ce dernier, avec voix consultative, le responsable du service financier et de la gestion journalière de l'organisme ou leur délégué et les commissaires désignés par le Gouvernement.
+
+Le président est désigné par le Gouvernement parmi les membres effectifs visés à l'alinéa 1er, 2° à 6°.
+
+Les mandats des membres visés à l'alinéa 1er prennent cours dans les six mois qui suivent la date de prestation de serment des membres du Gouvernement à la suite du renouvellement du Parlement wallon. Ils peuvent être renouvelés. Ils prennent fin en cas de décès, de démission, d'incapacité civile ou, lorsque le membre perd la qualité en raison de laquelle il a été désigné.
+
+Lorsque le mandat d'un des membres effectifs visés à l'alinéa 1er, 1° à 6°, ou d'un de leurs suppléants prend fin pour l'un des motifs évoqués à l'alinéa précédent, le nouveau membre achève le mandat de son prédécesseur.
+
+§ 3. Le comité est chargé de :
+
+1° rendre des avis dans le cadre de la procédure d'élaboration du budget de l'organisme, au Gouvernement et à l'organe de gestion de l'organisme ;
+
+2° formuler au Gouvernement et à l'organe de gestion de l'organisme des avis motivés en vue de l'établissement du rapport annuel sur la mise en oeuvre du contrat de gestion, dans un délai ne dépassant pas un mois à partir de la formulation de la demande ;
+
+3° faire trimestriellement rapport au Gouvernement et à l'organe d'administration de l'organisme sur les recettes, les dépenses, en ce compris les programmes d'investissements, et l'évolution de la trésorerie de l'organisme, en particulier sur les prévisions en la matière et sur les différents aspects de leur évolution ;
+
+4° donner un avis sur toute question budgétaire que lui soumettent le Gouvernement et l'organe d'administration de l'organisme.
+
+Le comité dispose des pouvoirs d'investigation les plus larges dans le cadre de sa mission, sans toutefois avoir accès aux données individuelles. Il examine les opérations ayant une incidence financière ou budgétaire, a accès à tous les dossiers et archives et reçoit des services de l'organisme tous les renseignements qu'il demande.
+
+Les avis et rapports visés à l'alinéa 1er sont transmis par le président du comité au service désigné par le Gouvernement, pour traitement et archivage. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 38, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 52/4.
+
+[<sup>1</sup> § 1er. Le comité établit un règlement d'ordre intérieur qu'il soumet à l'approbation du Gouvernement wallon.
+
+§ 2. Les membres effectifs et suppléants ne sont pas rémunérés. Ils ont droit au remboursement des frais de parcours qu'ils ont exposés pour les besoins inhérents à l'exercice de leur mandat dans les formes et conditions fixées par l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la Fonction publique wallonne.
+
+Les indemnités auxquelles ils peuvent prétendre à ce titre sont à charge de l'organisme ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 52/5.
+
+[<sup>1</sup> . Si un organisme visé à l'article 52/3, § 1er, dispose d'un comité d'audit ou d'un comité de suivi budgétaire et financier, ses missions sont élargies aux missions fixées à l'article 52/3, § 3, et la composition du comité existant est, le cas échéant, élargie aux membres visés à l'article 52/3, § 2.
+
+§ 2. L'organisme visé à l'article 52/3, § 1er, dispose d'un délai de douze mois à compter de la date à laquelle il est repris dans la liste pour se conformer aux articles 52/3 et 52/4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 39, 021; En vigueur : 01-01-2025&gt;
+
+### Titre VI. [<sup>1</sup> Dispositions relatives au recouvrement des droits constatés de nature non fiscale]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 28, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 53
+
+Si les droits constatés de nature non fiscale communiqués au receveur et notifiés aux débiteurs sont contestés par ces derniers, le receveur en suspend le recouvrement et en informe les ordonnateurs concernés qui peuvent, après examen, les annuler, totalement ou partiellement, ou les confirmer.
+
+Les ordonnateurs informent le receveur de leurs décisions pour exécution et, le cas échéant, le département de la comptabilité pour l'enregistrement des implications de ces décisions en comptabilités budgétaire et générale.
+
+###### Art. 54
+
+Dans le respect des règles à arrêter par le Gouvernement, notamment en ce qui concerne l'application d'intérêts de retard, le receveur peut, sous sa responsabilité, accorder des facilités et des délais de paiement aux débiteurs défaillants qui se trouvent dans une situation d'impécuniosité dûment justifiée.
+
+###### Art. 55
+
+Le receveur doit engager, dans un délai maximum de douze mois, une procédure en récupération des droits constatés non contestés qui, à leur échéance et sans préjudice des dispositions de l'article 54, n'ont pas été acquittés par les débiteurs sauf à justifier que ces droits se trouvent dans un des cas visés à l'article 56. Les sommes à récupérer sont majorées de plein droit des intérêts de retard à un taux identique au taux légal selon les modalités à arrêter par le Gouvernement.
+
+Le receveur peut en confier le recouvrement à l'administration fédérale compétente, conformément aux dispositions légales en vigueur, ou à tout service habilité par décret à y procéder.
+
+###### Art. 56
+
+§ 1er. Sans préjudice des articles 54 et 55, sont définitivement déclarés irrécouvrables par le receveur, et imputés comme tels dans son compte de gestion, les droits constatés :
+
+1° satisfaisant aux conditions fixées en vertu de l'article 6, 3° ;
+
+2° prescrits en vertu des dispositions du [<sup>1</sup> Titre X]<sup>1</sup>;
+
+3° dont les frais de récupération estimés par le receveur dépassent le montant des droits;
+
+4° à l'encontre de débiteurs dont l'insolvabilité est attestée par voie d'huissier ou par les administrations fiscales;
+
+5° produits à la faillite ou à la mise en liquidation d'une personne morale, sur production de l'attestation d'irrécouvrabilité délivrée par le curateur ou le liquidateur;
+
+6° à charge d'un Etat étranger, ou d'une personne résidant à l'étranger, qui ne peuvent être recouvrés par les voies légales existantes;
+
+7° à l'encontre de débiteurs qui n'ont plus de domicile connu et restent introuvables à l'issue d'une période de cinq années consécutives prenant cours à la date de la mise en demeure par lettre recommandée;
+
+8° à l'encontre de débiteurs décédés sans laisser d'héritiers connus ou dont les héritiers ont renoncé à toute succession;
+
+9° qui, sur la base des éléments probants en possession du receveur, ne sont pas susceptibles d'être recouvrés dans les cinq années suivant leur date d'exigibilité.
+
+§ 2. La perte des créances correspondant aux droits constatés visés au § 1er est enregistrée dans [<sup>2</sup> les comptabilités générale et budgétaire]<sup>2</sup>.
+
+§ 3. Tout paiement obtenu ultérieurement à la déclaration d'irrécouvrabilité visée au § 1er est imputé en comptabilité générale et en comptabilité budgétaire comme une recette perçue au comptant.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 29, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 40, 021; En vigueur : 01-01-2025&gt;
+
+### Titre VII. [<sup>1</sup> Dispositions relatives à l'octroi des subventions et des prix]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 30, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. - Dispositions relatives à l'octroi, à l'emploi et au contrôle des subventions
+
+###### Art. 57
+
+Par subvention accordée directement ou indirectement par [<sup>1</sup> les services d'administration générale]<sup>1</sup>, [<sup>2</sup> dénommés ]<sup>2</sup> ci-après, l'instance subsidiante, il faut entendre toute forme de soutien financier que cette instance accorde, dans une finalité directe ou indirecte d'intérêt général, à une activité organisée par un tiers, quelle que soit la dénomination de cette activité, à l'exception des dotations [<sup>2</sup> , constituant des transferts financiers non affectés pour lesquels aucune obligation de justification des moyens utilisés n'est requise .]<sup>2</sup>.
+
+Le soutien financier peut consister :
+
+1° soit en l'octroi d'avantages financiers;
+
+2° soit en l'octroi d'avantages en nature sous la forme de transfert de biens ou de fourniture de prestations dont la charge financière est partiellement ou totalement couverte par l'instance subsidiante.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 41, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 58
+
+Une subvention ne peut être octroyée que sur la base d'un décret ou d'une disposition spéciale figurant dans le budget des dépenses. Ces subventions peuvent être octroyées aux conditions fixées par le Gouvernement.
+
+Une convention peut être conclue entre le bénéficiaire de la subvention et l'instance subsidiante afin de fixer la portée de l'activité que le bénéficiaire s'engage à exécuter et le soutien financier y relatif qui lui sera alloué.
+
+###### Art. 59
+
+§ 1er. Une subvention peut être octroyée :
+
+1° soit directement au bénéficiaire qui prend en charge l'organisation de l'activité;
+
+2° soit indirectement à l'intervention d'une personne morale qui sert d'instance subsidiante intermédiaire pour le bénéficiaire.
+
+§ 2. Le bénéficiaire d'une subvention peut être :
+
+1° une personne physique qui agit en son nom propre;
+
+2° une personne morale;
+
+3° une association ou organisation sans personnalité juridique.
+
+Sans préjudice de leur responsabilité individuelle propre, des bénéficiaires peuvent s'associer en vue de l'exécution de l'activité visée par la subvention.
+
+###### Art. 60
+
+§ 1er. On distingue deux types de subventions :
+
+1° une subvention générale qui finance une activité structurelle ayant un caractère continu et permanent. Cette subvention générale peut concerner toute ou seulement une partie de l'activité du bénéficiaire;
+
+2° une subvention de projet qui finance les coûts spécifiques découlant d'une activité qui doit être limitée tant quant à son objet qu'à sa durée.
+
+§ 2. Les subventions visées au § 1er peuvent couvrir notamment les dépenses de personnel, de frais généraux, d'équipement, d'investissement et d'intérêts.
+
+###### Art. 61
+
+Sans préjudice des régimes de subventions organisés par des décrets existants et leurs arrêtés d'exécution et, conformément aux dispositions des articles 11 à 14 de la loi de dispositions générales, le Gouvernement détermine les règles concernant l'octroi, la justification et le contrôle de l'emploi des subventions, en ce compris toute avance de fonds récupérable consentie sans intérêt, ainsi que les incompatibilités dans le respect des principes suivants :
+
+1° toute décision allouant une subvention précise la nature, l'étendue et les modalités de l'utilisation et des justifications à fournir par le bénéficiaire de la subvention;
+
+2° toute subvention doit être utilisée aux fins pour lesquelles elle est accordée;
+
+3° tout bénéficiaire d'une subvention doit justifier de l'emploi des sommes reçues, à moins qu'un décret ne l'en dispense;
+
+4° le bénéficiaire reconnaît à l'instance subsidiante, par le seul fait de l'acceptation de la subvention, le droit de faire procéder sur place au contrôle de l'emploi des fonds attribués. Dans le cadre de l'organisation et de la coordination des contrôles, le Gouvernement peut, notamment, faire appel aux inspecteurs des finances visés aux articles 48 et 49;
+
+5° le bénéficiaire est tenu de rembourser sans délai le montant de la subvention lorsqu'il :
+
+a) ne respecte pas les conditions d'octroi de la subvention;
+
+b) n'utilise pas la subvention aux fins pour lesquelles elle est accordée;
+
+c) met obstacle au contrôle de l'instance subsidiante.
+
+Lorsque le bénéficiaire reste en défaut de fournir les justifications visées au 3°, il est tenu de rembourser à concurrence de la partie non justifiée;
+
+6° l'instance subsidiante peut surseoir au paiement des subventions aussi longtemps que, pour des subventions analogues reçues antérieurement, le bénéficiaire reste en défaut de produire les justifications requises ou de se soumettre au contrôle, sur pièces ou sur place, de l'instance subsidiante. Dans cette hypothèse, lorsqu'une subvention est payée par fractions, chaque fraction est considérée comme une subvention indépendante.
+
+###### Art. 62
+
+Sans préjudice des règles fixées par le Gouvernement en application de l'article 61 :
+
+1° la liquidation de la subvention doit être effectuée en tenant compte de la réalisation effective de toutes les recettes et dépenses qui découlent de l'activité subsidiée à moins qu'il n'en soit disposé autrement dans un décret, un règlement ou la décision de l'octroi de ladite subvention;
+
+2° le montant d'une subvention générale au sens de l'article 60, § 1er, 1°, ne peut dépasser les coûts réels engendrés par l'activité subsidiée sauf disposition décrétale contraire;
+
+3° le montant d'une subvention de projet au sens de l'article 60, § 1er, 2°, ne peut dépasser les coûts réels du projet.
+
+#### CHAPITRE II. - Dispositions relatives à l'octroi de prix
+
+###### Art. 63
+
+Par prix accordé par [<sup>1</sup> les services d'administration générale]<sup>1</sup> ou par une personne morale de droit public subventionnée directement ou indirectement par [<sup>2</sup> les premiers]<sup>2</sup>, il faut entendre toute forme de soutien financier que cette instance accorde à un tiers en reconnaissance ou en récompense de ses mérites.
+
+Ce prix peut consister :
+
+1° soit en l'octroi d'avantages financiers;
+
+2° soit en l'octroi d'avantages en nature sous la forme de transfert de biens ou de fourniture de prestations dont la charge financière est totalement couverte par cette instance.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 42, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 64
+
+Un prix ne peut être octroyé qu'en vertu d'un décret qui a instauré ce prix et en a déterminé les règles d'attribution ou d'une disposition spéciale figurant dans le budget des dépenses habilitant le Gouvernement à en fixer les modalités.
+
+Son octroi est basé sur un acte unilatéral [<sup>1</sup> des services d'administration générale]<sup>1</sup> ou de la personne morale de droit public subventionnée sans que le bénéficiaire ne soit tenu de l'accepter, ni de fournir la justification de son emploi.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 65
+
+Le remboursement d'un prix ne peut être exigé que si le bénéficiaire a communiqué des informations mensongères ou a agi en contravention avec des dispositions légales qui étaient d'application.
+
+### Titre VIII. [<sup>1</sup> Dispositions relatives aux biens désaffectés]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 31, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 66
+
+§ 1er. [<sup>3</sup> [<sup>4</sup> § 1er. Sans préjudice de l'application de dispositions légales particulières, les biens meubles appartenant [<sup>5</sup> aux services d'administration générale]<sup>5</sup> qui sont susceptibles d'être vendus, qui sont désaffectés et qui ne peuvent être réemployés, doivent être aliénés à titre onéreux.
+
+Sans préjudice de l'application de dispositions légales particulières, les biens immeubles appartenant à l'entité qui sont susceptibles d'être vendus, qui sont désaffectés et qui ne peuvent être réemployés, peuvent être aliénés à titre onéreux ou être échangés contre des biens immeubles de valeur équivalente]<sup>4</sup>.]<sup>3</sup>
+
+§ 2. Dans le respect des formes légalement prescrites, le Gouvernement :
+
+1° arrête la procédure à suivre pour l'application du § 1er;
+
+2° décide de la cession à titre gratuit des biens meubles désaffectés dont l'aliénation à titre onéreux occasionnerait des frais supérieurs au produit estimé;
+
+3° fixe la procédure et les conditions relatives à la mise au rebut des biens meubles désaffectés.
+
+----------
+
+(1)&lt;DRW 2021-07-15/48, art. 24, 012; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DRW 2021-12-22/21, art. 112, 013; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2022-12-21/67, art. 121, 014; En vigueur : 01-01-2023&gt;
+
+(4)&lt;DRW 2023-12-13/13, art. 109, 020; En vigueur : 01-01-2024&gt;
+
+(5)&lt;DRW 2024-04-25/54, art. 43, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 67
+
+Les biens meubles complètement amortis en comptabilité générale continuent de figurer, avec une valeur nulle, à l'inventaire visé à l'article 34 tant qu'ils sont encore utilement affectés aux activités d'intérêt général ou de service public et, dans le cas inverse, tant qu'ils ne sont pas réalisés financièrement, cédés à titre gratuit ou mis au rebut.
+
+### Titre IX. [<sup>1</sup> Dispositions applicables aux services administratifs à comptabilité autonome]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 32, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 68
+
+Chaque service administratif à comptabilité autonome est soumis à des dispositions à fixer par le Gouvernement dans le respect des règles minimales suivantes :
+
+1° l'année budgétaire débute le 1er janvier et se termine le 31 décembre suivant;
+
+2° [<sup>1</sup> un budget annuel est établi par le service administratif à comptabilité autonome dans les formes et selon les modalités fixées par le Gouvernement. Ce budget comporte l'ensemble des recettes et des dépenses telles que définies à l'article 4 de la loi de dispositions générales, déclinées en [<sup>3</sup> adresses budgétaires ]<sup>3</sup> en suivant la classification économique;]<sup>1</sup>
+
+[<sup>1</sup> 2°/1 Conformément aux articles 16/11 et 16/12 de la loi de dispositions générales, le budget annuel est documenté au travers de notes justificatives et explicatives. Lors de l'élaboration de son budget initial, le service administratif à comptabilité autonome y joint une projection pluriannuelle sur trois ans au moins de ses recettes et de ses dépenses à politique inchangée et, le cas échéant, corrigées pour atteindre l'objectif budgétaire qui lui est assigné;]<sup>1</sup>
+
+[<sup>1</sup> 2°/2 Le service administratif à comptabilité autonome démontre la manière dont l'objectif qui lui a été fixé par le Gouvernement est atteint;]<sup>1</sup>
+
+3° les recettes peuvent comporter des dotations en provenance du budget de la Région wallonne;
+
+4° les crédits de dépenses sont limitatifs, mais peuvent être redistribués entre les [<sup>3</sup> adresses budgétaires ]<sup>3</sup>. Toutefois, les crédits de liquidation peuvent être non limitatifs pour les dépenses de fonctionnement liées au volume d'activités susceptible de générer des recettes propres [<sup>1</sup> et à concurrence maximum de leurs réalisations]<sup>1</sup>;
+
+5° les crédits d'engagement doivent être en tout état de cause limités aux moyens constitués par la dotation annuelle, les recettes propres et le montant de la réserve bilantaire après déduction du montant nécessaire à la couverture de l'encours des engagements reportés des exercices antérieurs;
+
+6° les décaissements ne peuvent engendrer un dépassement de la trésorerie disponible;
+
+7° les opérations internes de régularisation entre exercices sont prévues et imputées au budget;
+
+8° à la fin de l'année budgétaire, les crédits d'engagement et la part des crédits de liquidation non concernés par les opérations visées au 7° tombent d'office en annulation;
+
+9° les fonctions de receveur et de trésorier sont compatibles entre elles, mais sont incompatibles avec celles d'ordonnateur;
+
+10° [<sup>1</sup> en cas de cessation de fonction, le receveur ou le trésorier transmet de manière complète et sans délai les données comptables et budgétaires au responsable du service;]<sup>1</sup>
+
+11° conformément aux dispositions de l'article 10, §§ 1er et 3, de la loi de dispositions générales, les receveurs et les trésoriers sont justiciables de la [<sup>2</sup> Cour des comptes ]<sup>2</sup>, en leur qualité de comptables au sens de ladite loi;
+
+12° la trésorerie disponible en fin d'exercice peut être utilisée dès le commencement de l'année suivante;
+
+13° il doit être tenu un inventaire physique des biens immeubles et meubles constitutifs du patrimoine;
+
+14° arrêté au 31 décembre de chaque année, le compte annuel comporte au moins le compte d'exécution du budget [<sup>4</sup> , le compte de récapitulation des opérations budgétaires conformément à la classification économique]<sup>4</sup> et une situation des actifs et des passifs ou un bilan, dressé après une mise en concordance avec l'inventaire physique.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 33, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 5, 021; En vigueur : 01-01-2025&gt;
+
+(4)&lt;DRW 2026-03-26/06, art. 24, 027; En vigueur : 01-04-2026&gt;
+
+###### Art. 69
+
+[<sup>1</sup> L'avant-projet de budget annuel des recettes et des dépenses de chaque service administratif à comptabilité autonome est transmis aux Ministres fonctionnellement compétents selon les modalités fixées par le Gouvernement.
+
+Le projet de budget du service administratif à comptabilité autonome est inséré dans le projet de décret contenant les dépenses du budget de la Région wallonne. Parmi les dispositions de ce projet de décret, il est fait mention, pour approbation par le Parlement, du total des recettes et du total des dépenses des services administratifs concernés.
+
+A défaut d'approbation, au 1er janvier de l'année budgétaire, du projet de budget visé à l'alinéa 2, les dispositions de l'article 12 sont applicables aux services administratifs à comptabilité autonome.]<sup>1</sup>
+
+Le budget annuel des services peut être ajusté, le cas échéant, durant l'année budgétaire, en même temps que le budget de la Région wallonne.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 34, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 69/1
+
+[<sup>1</sup> Conformément aux dispositions de l'article 6 de la loi de dispositions générales, chaque service administratif à comptabilité autonome tient une comptabilité générale selon les règles usuelles de la comptabilité en partie double. Les dispositions des articles 30 à 35 sont applicables aux services administratifs à comptabilité autonome, selon les modalités fixées par le Gouvernement.
+
+La comptabilité budgétaire doit permettre un suivi permanent du respect des autorisations budgétaires accordées par le Parlement et de l'exécution du budget. Elle est intégrée à la comptabilité générale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 35, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 70
+
+Chaque service administratif à comptabilité autonome met en place un contrôle interne dont les objectifs sont notamment ceux visés à l'article 46 et dont l'évaluation peut être auditée conformément aux dispositions de l'article 47.
+
+###### Art. 71
+
+[<sup>1</sup> Conformément aux dispositions de l'article 51 de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, le contrôle administratif et budgétaire visé aux articles 48 et 49 est applicable aux services administratifs à comptabilité autonome, selon les modalités fixées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 36, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 72
+
+[<sup>1</sup> La [<sup>2</sup> Cour des comptes ]<sup>2</sup> :
+
+1° exerce son contrôle sur les services administratifs à comptabilité autonome, conformément à l'article 10, § 1er et 3, de la loi de dispositions générales;
+
+2° procède à la certification des comptes annuels des services administratifs à comptabilité autonome établis selon les modalités fixées à l'article 73, conformément aux dispositions prévues à l'article 52, § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 37, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 73
+
+[<sup>1</sup> Le compte annuel de chaque service administratif à comptabilité autonome est transmis, pour le 31 mars de l'année qui suit l'année budgétaire, aux Ministres fonctionnellement compétents et au Ministre du Budget qui est chargé de le soumettre à la [<sup>2</sup> Cour des comptes ]<sup>2</sup>, au plus tard le 15 avril suivant. La Cour fait parvenir les comptes annuels accompagnés de ses observations au Parlement au plus tard à la fin du mois de juin suivant et en informe conjointement le Ministre du Budget qui communique ces observations aux Ministres fonctionnellement compétents.]<sup>1</sup>
+
+[<sup>4</sup> Par dérogation à l'alinéa 1er, le compte annuel de l'Organisme payeur de Wallonie est transmis, pour le 31 mai de l'année qui suit l'année budgétaire, aux Ministres fonctionnellement compétents et au Ministre du Budget qui est chargé de le soumettre à la Cour des comptes, au plus tard le 15 juin suivant. La Cour fait parvenir les comptes annuels accompagnés de ses observations au Parlement au plus tard à la fin du mois de septembre suivant et en informe conjointement le Ministre du Budget qui communique ces observations aux Ministres fonctionnellement compétents.]<sup>4</sup>
+
+Les comptes annuels des services administratifs à comptabilité autonome sont joints, dans une forme agrégée, au compte général et approuvés par une mention figurant dans le décret portant approbation du compte général visé à l'article 44, § 2.
+
+[<sup>3</sup> Les comptes annuels des services administratifs à comptabilité autonome sont consolidés avec le compte annuel des services d'administration générale. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 38, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 44, 021; En vigueur : 01-01-2025&gt;
+
+(4)&lt;DRW 2026-03-26/06, art. 25, 027; En vigueur : 01-04-2026&gt;
+
+### Titre X. [<sup>1</sup> Dispositions en matière de prescription]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 39, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 74
+
+Conformément aux dispositions de l'article 15 de la loi de dispositions générales et sans préjudice des dispositions visées à l'article 75, les règles de prescription du droit commun sont applicables aux [<sup>1</sup> unités d'administration publique, à l'exception des organismes de type 3]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 40, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 75
+
+Conformément aux dispositions de l'article 16 de la loi de dispositions générales :
+
+1° sont définitivement acquises à ceux qui les ont reçues, les sommes payées indûment par les [<sup>1</sup> unités d'administration publique visées à l'article 74]<sup>1</sup> en matière de traitements, d'avances sur ceux-ci ainsi que d'indemnités, d'allocations ou de prestations qui sont accessoires ou similaires aux traitements, lorsque le remboursement n'en a pas été réclamé dans un délai maximum de cinq ans à partir du 1er janvier de l'année du paiement.
+
+2° pour être valable, la réclamation doit être notifiée au débiteur par lettre recommandée à la poste et contenir :
+
+a) le montant total de la somme réclamée avec, par année, le relevé des paiements indus;
+
+b) la mention des dispositions en violation desquelles les paiements ont été faits.
+
+A dater du dépôt de la lettre recommandée à la poste, la répétition de l'indû peut être poursuivie pendant le délai prévu par le droit commun pour la prescription des actions personnelles;
+
+3° le délai fixé au 1° est porté à dix ans lorsque les sommes indues ont été obtenues par des manoeuvres frauduleuses ou par des déclarations fausses ou sciemment incomplètes.
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 41, 003; En vigueur : 08-01-2016&gt;
+
+### Titre XI. [<sup>1</sup> Dispositions relatives aux objectifs budgétaires, économiques et environnementaux]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 42, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 76
+
+[<sup>1</sup> En poursuivant les objectifs et obligations budgétaires visés à l'article 2 de l'accord de coopération, le Gouvernement veille également à atteindre les objectifs et à respecter les prescrits visés aux articles 8, 9, 11, 14, 106.2 et 153 du TFUE et de l'article 2 du Protocole (n° 26) sur les Services d'intérêt général annexé à celui-ci, ainsi que les objectifs sociaux et environnementaux que l'Union européenne s'est fixés dans sa Stratégie Europe 2020.
+
+Le budget s'inscrit dans une convergence vers les objectifs sociaux, économiques, environnementaux et budgétaires visés à l'alinéa 1er, en prenant en compte le calendrier proposé par la Commission européenne conformément aux règles du droit de l'Union européenne applicables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-12-23/03, art. 3, 002; En vigueur : 01-01-2014&gt;
+
+###### Art. 77
+
+[<sup>1</sup> L'IWEPS réalise, au moins une fois l'an, une évaluation rendue publique du respect des objectifs sociaux, économiques et environnementaux et des prescrits visés à l'alinéa 1er de l'article 76.
+
+Les partenaires sociaux, par la voix du CESW, ont également la possibilité de formuler un avis à tout moment, à destination du Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-12-23/03, art. 3, 002; En vigueur : 01-01-2014&gt;
+
+###### Art. 78
+
+[<sup>1</sup> § 1er. Le budget peut s'écarter temporairement de l'objectif budgétaire visé à l'alinéa 1er de l'article 76 en cas de circonstances exceptionnelles, pour autant que l'écart temporaire ne mette pas en péril la soutenabilité budgétaire de la Région wallonne à long terme.
+
+§ 2. Le Gouvernement adopte un mécanisme de correction conforme à l'accord de coopération, applicable en cas d'écart important constaté par la Section " Besoins de Financement " du Conseil supérieur des finances visée aux articles 8 et 9 de l'arrêté royal du 3 avril 2006 relatif au Conseil supérieur des finances.
+
+[<sup>3</sup> L'importance d'un écart par rapport à l'objectif budgétaire à moyen terme ou par rapport à la trajectoire d'ajustement appropriée en vue de la réalisation de cet objectif est mesurée en application de critères nationaux ou en application de l'article 6, point 3, du Règlement (CE) n° 1466/97 du Conseil du 7 juillet 1997 relatif au renforcement de la surveillance des positions budgétaires ainsi que de la surveillance et de la coordination des politiques économiques, modifié par le Règlement (UE) n° 1175/2011 du Parlement européen et du Conseil du 16 novembre 2011.]<sup>3</sup>
+
+En cas de mise en oeuvre du mécanisme de correction prévu à l'alinéa 1er, le Gouvernement élabore un projet de plan de correction qui :
+
+1° doit tendre vers l'objectif budgétaire en contribuant concomitamment à atteindre les objectifs sociaux, [<sup>2</sup> économiques]<sup>2</sup> et environnementaux, et à respecter les prescrits visés à l'alinéa 1er de l'article 76;
+
+2° s'appuie aussi bien sur un effort en recettes qu'en dépenses et peut, le cas échéant, immuniser certaines dépenses.
+
+Le Gouvernement veille, en particulier, à préserver les missions de service public et la capacité d'investissement dans les outils qui favorisent le développement durable de la Région wallonne. Le projet de plan de correction ne porte aucune atteinte à la compétence de la Région wallonne de fournir, faire exécuter et organiser des services non économiques d'intérêt général.
+
+§ 3. Chaque projet de plan de correction fait l'objet d'une évaluation ex ante des impacts sociaux, environnementaux et économiques par l'IWEPS et d'un avis préalable des partenaires sociaux réunis au sein du CESW, selon les modalités fixées par le Gouvernement. Cette évaluation comprend notamment une analyse de l'impact redistributif des mesures projetées, notamment sur base du coefficient de GINI, et une analyse des effets de genre desdites mesures.
+
+[<sup>3</sup> Le coefficient de GINI mesure le degré d'inégalité de la distribution des revenus dans une société donnée en se basant sur la courbe de Lorenz. ]<sup>3</sup>
+
+§ 4. Le projet de plan de correction, l'évaluation ex ante et l'avis des partenaires sociaux sont transmis au Parlement simultanément au dépôt du projet d'ajustement du budget de l'année en cours établi conformément à l'article 10, § 4.
+
+Selon les modalités fixées par le Gouvernement, le plan de correction fait l'objet d'une évaluation ex post par l'IWEPS sur les impacts évalués ex ante. Cette évaluation mentionne si les mesures prises pour atteindre l'objectif budgétaire annuel doivent être modifiées, en vue d'atteindre les objectifs et de respecter le prescrit des articles visés à l'alinéa 1er de l'article 76.
+
+Le Gouvernement communique l'évaluation visée à l'alinéa 2 au CESW et au Parlement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-12-23/03, art. 3, 002; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2015-12-17/10, art. 43, 003; En vigueur : 08-01-2016&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 45, 021; En vigueur : 01-01-2025&gt;
+
+## Livre III. [<sup>1</sup> Dispositions applicables aux organismes, à l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles, aux entreprises régionales, au Parlement, au Service du Médiateur et à la Commission wallonne pour l'Energie ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 46, 021; En vigueur : 01-01-2025&gt;
+
+### Titre Ier. [<sup>1</sup> Dispositions relatives à la structure et au contenu du budget]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 45, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. [<sup>1</sup> Disposition commune]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 46, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 79
+
+[<sup>1</sup> § 1er. Pour chaque organisme et entreprise régionale ainsi que pour l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles, un budget annuel est établi. Ce budget comprend toutes les recettes et toutes les dépenses, quelles qu'en soient l'origine et la cause. L'année budgétaire coïncide avec l'année civile.
+
+Par recettes, l'on entend les droits constatés par l'organisme ou l'entreprise régionale ou l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles du chef de ses relations avec les tiers.
+
+Par dépenses, l'on entend tous les droits constatés à l'égard des tiers à charge de l'organisme ou de l'entreprise régionale ou de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles.
+
+§ 2. Les dispositions du paragraphe 1er s'appliquent au Parlement et au Service du Médiateur [<sup>5</sup> et la Commission wallonne pour l'Energie ]<sup>5</sup> [<sup>4</sup> et la Commission wallonne pour l'Energie]<sup>4</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 47, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2020-12-17/52, art. 180, 011; En vigueur : 01-01-2021&gt;
+
+(3)&lt;DRW 2021-12-22/21, art. 175, 013; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DRW 2022-12-21/67, art. 182, 014; En vigueur : 01-01-2023&gt;
+
+(5)&lt;DRW 2023-12-13/13, art. 166, 020; En vigueur : 01-01-2024&gt;
+
+#### CHAPITRE II. [<sup>1</sup> Dispositions spécifiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 48, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 80
+
+[<sup>1</sup> Conformément aux articles 16/11 et 16/12 de la loi de dispositions générales, tous les organismes ainsi que les entreprises régionales et l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles documentent d'office leur budget au travers de notes justificatives et explicatives. Lors de l'élaboration de leur budget initial, ils y joignent une projection pluriannuelle sur trois ans au moins de leurs recettes et de leurs dépenses à politique inchangée et, le cas échéant, corrigées pour atteindre l'objectif budgétaire qui leur est assigné.
+
+Le Gouvernement fixe les formes des documents requis à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 49, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 81
+
+[<sup>1</sup> § 1er. Tous les organismes et entreprises régionales ainsi que l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles transmettent leur budget initial et leur budget ajusté selon les instructions, en ce compris le calendrier, décidées par le Gouvernement conformément à l'article 10 et diffusées par le Ministre du Budget.
+
+Le Gouvernement peut, par délibération motivée, empêcher ou suspendre les transferts financiers aux organismes, aux entreprises régionales et à l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles qui en bénéficient, lorsqu'ils sont en défaut de déposer leur budget.
+
+§ 2. Les budgets des organismes, des entreprises régionales et de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles doivent se conformer aux objectifs budgétaires et financiers de la Région wallonne tels que définis par le Gouvernement. A cette fin, ils sont, le cas échéant, ajustés à la suite de l'ajustement du budget des dépenses visé à l'article 10.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 50, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 82
+
+[<sup>1</sup> § 1er. Tous les organismes de type 1 et 2, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et les entreprises régionales démontrent la manière dont l'objectif qui leur a été fixé par le Gouvernement est atteint, en distinguant le cas échéant les ressources complémentaires que sont notamment les recettes propres ou les prélèvements sur les réserves ou le recours à l'emprunt.
+
+§ 2. L'inscription au budget d'un prélèvement sur les réserves ou d'un recours à l'emprunt requière l'accord préalable du Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 51, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 83
+
+[<sup>1</sup> Pour les organismes de type 1 et 2 et les entreprises régionales, toutes les dépenses doivent être préalablement engagées pour pouvoir être liquidées. Chaque dépense est dotée au budget d'un crédit d'engagement et d'un crédit de liquidation.
+
+Ces crédits sont limitatifs, excepté pour les crédits de liquidation lorsque le libellé précise qu'ils sont non limitatifs. Cette faculté est limitée aux dépenses dont le volume peut varier durant l'année budgétaire en fonction de recettes propres affectées, aux dépenses appartenant au sous-groupe 11 de la classification économique ou aux dépenses consécutives à des procédures ou décisions judiciaires. L'accord préalable du Ministre de tutelle et du Ministre du Budget est requis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 52, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 84
+
+[<sup>1</sup> § 1er. Pour l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles, toutes les dépenses du budget de gestion visé par le Code wallon de l'Action sociale et de la Santé doivent être préalablement engagées pour pouvoir être liquidées. Chaque dépense est dotée au budget d'un crédit d'engagement et d'un crédit de liquidation.
+
+Les crédits inscrits à ce budget de gestion sont limitatifs, excepté pour les crédits de liquidation lorsque le libellé précise qu'ils sont non limitatifs. Cette faculté est limitée aux dépenses dont le volume peut varier durant l'année budgétaire en fonction de recettes propres affectées, aux dépenses appartenant au sous-groupe 11 de la classification économique ou aux dépenses consécutives à des procédures ou décisions judiciaires. L'accord préalable du Ministre de tutelle et du Ministre du Budget est requis.
+
+§ 2. Les crédits alloués aux missions paritaires de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles telles que définies par le Code wallon de l'Action sociale et de la Santé, sont [<sup>2</sup> non]<sup>2</sup> limitatifs, excepté les dérogations et aux conditions prévues par le même Code.
+
+§ 3. Les crédits alloués aux missions autres que paritaires de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles telles que définies par le Code wallon de l'Action sociale et de la Santé, sont limitatifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 53, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 47, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 85
+
+[<sup>1</sup> Lorsque l'organisme est autorisé à recourir à l'emprunt, le montant maximum pouvant bénéficier de la garantie de la Région est inscrit au dispositif du décret contenant les dépenses du budget de la Région.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 54, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 86
+
+[<sup>1</sup> Le Gouvernement peut arrêter des structures budgétaires spécifiques à chaque catégorie d'organismes et pour les entreprises régionales ainsi que pour l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles. Elles intègrent la classification économique des recettes et des dépenses.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 55, 003; En vigueur : 08-01-2016&gt;
+
+### Titre II. [<sup>1</sup> Dispositions relatives à l'approbation du budget]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 56, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 87
+
+[<sup>1</sup> § 1er. Le Ministre de tutelle établit le projet de budget des organismes de type 1 et des entreprises régionales et le transmet au Ministre du Budget.
+
+Le Gouvernement fixe les formes et les modalités de ce projet de budget, lequel est inséré dans le projet de décret contenant les dépenses du budget visé à l'article 10.
+
+Les dispositions du projet de décret visé à l'alinéa 2 mentionnent par organisme de type 1 et par entreprise régionale le total des recettes et le total des dépenses figurant dans leur budget individuel.
+
+Le vote du budget des dépenses entraîne l'approbation de chacun des budgets.
+
+§ 2. Les organes de gestion établissent le projet de budget des organismes de type 2, lequel est approuvé par le Ministre de tutelle qui le transmet au Ministre du Budget. Il est accompagné d'un exposé particulier qui justifie et commente les recettes et les dépenses au regard des missions qui sont dévolues à l'organisme concerné.
+
+Le budget des organismes de type 2 et son exposé particulier ou, à défaut, un projet de budget établi par les organes de gestion, est joint à l'exposé particulier visé à l'article 9, § 1er, 2°.
+
+Le Ministre de tutelle communique le budget définitif au Parlement dans les deux mois qui suivent son approbation.
+
+§ 3. Les organes de gestion établissent et approuvent le budget des organismes de type 3 et le transmettent aux Ministres de tutelle qui le communiquent au Ministre du Budget.
+
+[<sup>2</sup> Le budget des organismes de type 3 et son exposé particulier ou, à défaut, un projet de budget établi par les organes de gestion, est joint à l'exposé particulier visé à l'article 9, § 1er, 2°.
+
+Le Ministre de tutelle communique le budget définitif au Parlement dans les deux mois qui suivent son approbation.]<sup>2</sup>
+
+§ 4. Conformément au Code wallon de l'Action sociale et de la Santé, le projet de budget de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles est constitué d'une partie relative à la gestion, d'une partie relative aux missions paritaires et d'une partie relative aux missions autres que paritaires.
+
+Le Conseil général, conformément au Code wallon de l'Action sociale et de la Santé, établit la partie du projet de budget relative à la gestion ainsi que celle relative aux missions paritaires. Elles sont accompagnées d'un exposé particulier qui justifie et commente les recettes et les dépenses au regard des missions qui sont dévolues à l'Agence.
+
+Le Ministre de tutelle établit sur proposition du Conseil général, conformément au Code wallon de l'Action sociale et de la Santé, la partie du projet de budget relative aux missions autres que paritaires, laquelle est accompagnée d'un exposé particulier qui justifie et commente les recettes et les dépenses.
+
+Le Gouvernement approuve le projet de budget.
+
+Le budget ou, à défaut, un projet de budget, est joint à l'exposé particulier visé à l'article 9, § 1er, 2°.
+
+Le budget définitif est communiqué au Parlement.
+
+§ 5. Les règles énoncées aux paragraphes 1er à 4 s'appliquent pour les ajustements desdits budgets en cours d'année.
+
+§ 6. Le budget du Parlement et le budget du Service du Médiateur [<sup>6</sup> et la Commission wallonne pour l'Energie ]<sup>6</sup> [<sup>5</sup> et la Commission wallonne pour l'Energie]<sup>5</sup> sont établis conformément aux règles qui leur sont applicables et approuvés par le Parlement.
+
+Il est procédé de la même manière pour les ajustements des budgets en cours d'année.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 57, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2017-02-16/32, art. 1, 005; En vigueur : 08-04-2017&gt;
+
+(3)&lt;DRW 2020-12-17/52, art. 180, 011; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DRW 2021-12-22/21, art. 175, 013; En vigueur : 01-01-2022&gt;
+
+(5)&lt;DRW 2022-12-21/67, art. 182, 014; En vigueur : 01-01-2023&gt;
+
+(6)&lt;DRW 2023-12-13/13, art. 166, 020; En vigueur : 01-01-2024&gt;
+
+###### Art. 88
+
+[<sup>1</sup> Les budgets des organismes de type 1 et des entreprises régionales d'une année budgétaire sont approuvés au plus tard le 31 décembre de l'année précédente.
+
+Les ajustements sont approuvés au plus tard le 31 décembre de l'année budgétaire en cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 58, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 89
+
+[<sup>1</sup> § 1er. A défaut d'approbation, au 1er janvier de l'année budgétaire, du budget conformément à l'article 88, les dispositions de l'article 12 s'appliquent aux organismes de type 1et aux entreprises régionales.
+
+§ 2. Pour les organismes de type 2, le défaut d'approbation au premier jour de l'année budgétaire ne fait pas obstacle à l'utilisation des crédits prévus au projet de budget, à moins qu'il ne s'agisse de dépenses d'un principe nouveau non autorisées par le budget de l'année précédente.
+
+§ 3. Pour l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles, le défaut d'approbation au premier jour de l'année budgétaire ne fait pas obstacle à l'utilisation des crédits prévus au projet de budget.
+
+La disposition visée à l'alinéa précédent ne s'applique pas aux dépenses d'un principe nouveau, non autorisées par le budget de l'année précédente, inscrites au budget des missions, ni aux dépenses inscrites au budget de gestion pour lesquelles les commissaires du Gouvernement ont remis un avis défavorable par défaut de conformité avec les dispositions légales et réglementaires ou avec les dispositions du contrat de gestion qui ont une portée budgétaire ou financière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 59, 003; En vigueur : 08-01-2016&gt;
+
+### Titre III. [<sup>1</sup> Dispositions relatives à l'exécution du budget et à la comptabilité budgétaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 60, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. [<sup>1</sup> Disposition commune]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 61, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 90
+
+[<sup>1</sup> La comptabilité budgétaire doit permettre un suivi permanent du respect des autorisations budgétaires accordées par le Parlement et de l'exécution du budget. Elle est intégrée à la comptabilité générale visée au chapitre IV du présent titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 62, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE II. [<sup>1</sup> Dispositions particulières]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 63, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 91
+
+[<sup>1</sup> § 1er. Pour une année budgétaire déterminée, sont imputés au budget des organismes de type 1 et 2, de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et des entreprises régionales :
+
+1° en recettes, les droits constatés en faveur de l'organisme, de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles ou de l'entreprise régionale durant cette année budgétaire;
+
+2° en dépenses,
+
+a) à la charge des crédits d'engagement, les sommes qui sont engagées au cours de l'année budgétaire;
+
+b) à la charge des crédits de liquidation, les sommes qui sont liquidées au cours de l'année budgétaire du chef de droits constatés découlant des obligations préalablement engagées;
+
+Le solde budgétaire est obtenu par différence entre les recettes imputées et les dépenses liquidées.
+
+§ 2. Pour les organismes de type 1 et les entreprises régionales, les droits constatés au 31 décembre de l'année budgétaire considérée peuvent être imputés à charge des crédits d'engagement et de liquidation du budget jusqu'au 31 janvier de l'année suivante. A défaut, ils sont imputés à charge des crédits d'engagement et de liquidation de l'année budgétaire suivante.
+
+§ 3. Les crédits de liquidation non utilisés au terme de l'année budgétaire tombent en annulation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 64, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 92
+
+[<sup>1</sup> A défaut de dispositions légales ou réglementaires particulières, les organismes de type 1 et 2, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et les entreprises régionales enregistrent dans leur comptabilité budgétaire, d'une part, à la charge des crédits d'engagement, les sommes engagées et, d'autre part, à la charge des crédits de liquidation, les sommes liquidées au cours de l'année budgétaire.
+
+Les contrats et les marchés de travaux, de fournitures et de services ainsi que tout autre acte faisant naître des obligations non conditionnelles à l'égard des tiers ne sont notifiés aux tiers qu'après que leur montant ait été imputé sur les crédits d'engagement prévus.
+
+Les obligations conditionnelles sont enregistrées dans la classe 0 de la comptabilité générale jusqu'à la réalisation des conditions. Les autres dépenses sont imputées à la charge des crédits d'engagement à l'appui d'une pièce justificative interne constatant l'existence et l'étendue exacte de l'obligation.
+
+Les crédits autorisés d'engagement non utilisés au terme de l'année budgétaire tombent en annulation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 65, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 93
+
+[<sup>1</sup> § 1er. A la condition de respecter le montant total des crédits autorisés, les crédits d'engagement et les crédits de liquidation limitatifs inscrits dans les budgets des organismes de type 1 et des entreprises régionales peuvent être redistribués durant l'année budgétaire moyennant l'accord préalable du Ministre du Budget et du Ministre de tutelle.
+
+Toutefois, sont exclus de toute redistribution les crédits inscrits aux articles de dépenses appartenant aux groupes 8 et 9 de la classification économique ainsi que les crédits de liquidation non limitatifs sauf pour couvrir des dépenses du sous-groupe 11 de la classification économique.
+
+§ 2. A la condition de respecter le montant total des crédits autorisés, les crédits d'engagement et les crédits de liquidation limitatifs inscrits dans les budgets des organismes de type 2 peuvent être redistribués durant l'année budgétaire moyennant l'accord préalable des organes de gestion et du Ministre de tutelle.
+
+Toutefois, sont exclus de toute redistribution les crédits inscrits aux articles de dépenses appartenant aux groupes 8 et 9 de la classification économique ainsi que les crédits de liquidation non limitatifs sauf pour couvrir des dépenses du sous-groupe 11 de la classification économique.
+
+§ 3. A la condition de respecter le montant total des crédits autorisés, les crédits d'engagement et les crédits de liquidation limitatifs inscrits dans les budgets de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles peuvent être redistribués durant l'année budgétaire moyennant l'accord du Conseil général, conformément au Code wallon de l'Action sociale et de la Santé, et du Ministre de tutelle [<sup>2</sup> pour ce qui concerne le budget de gestion, moyennant l'accord du ou des Comités de branche concernés et du Ministre de tutelle pour ce qui concerne le budget des missions paritaires ]<sup>2</sup> et moyennant l'accord du Ministre du Budget et du Ministre de tutelle pour ce qui concerne le budget des missions autres que paritaires]<sup>1</sup>.
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 66, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 48, 021; En vigueur : 01-01-2025&gt;
+
+### Titre IV. [<sup>1</sup> Dispositions relatives à la comptabilité générale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 67, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 94
+
+[<sup>1</sup> § 1er. Conformément aux dispositions de l'article 6 de la loi de dispositions générales, les organismes, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et les entreprises régionales tiennent une comptabilité générale selon les règles usuelles de la comptabilité en partie double.
+
+§ 2. Les règles relatives à la tenue de la comptabilité générale [<sup>2</sup> des services d'administration générale]<sup>2</sup>, visées aux articles 30 et 32 à 35, s'appliquent aux organismes de type 1 et 2, à l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et aux entreprises régionales.
+
+Par dérogation à l'article 30 et à défaut de disposer d'un plan comptable spécifique en vertu de dispositions organiques ou réglementaires, les organismes de type 1 et 2, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles ou les entreprises régionales tiennent leur comptabilité générale en suivant, soit :
+
+1° le plan comptable arrêté conformément à l'article 5 de la loi de dispositions générales;
+
+2° le plan comptable minimum normalisé conforme à l'arrêté royal du 12 septembre 1983 déterminant la teneur et la présentation d'un plan comptable minimum normalisé ou conformément au plan comptable normalisé annexé à l'arrêté royal du 19 décembre 2003 relatif aux obligations comptables et à la publicité des comptes annuels de certaines associations sans but lucratif, associations internationales sans but lucratif et fondations.
+
+Concernant le 2°, les unités d'administration publique concernées :
+
+a) établissent un lien avec le plan comptable visé au 1°, au moyen d'un tableau de correspondance, univoque et permanent, pour tous les comptes utilisés;
+
+b) complètent les informations à figurer dans les droits et engagements hors bilan en fonction des rubriques reprises dans la classe 0 du plan comptable visé au 1°.
+
+Le Gouvernement fixe le modèle du tableau de correspondance visé sous a).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 68, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 95
+
+[<sup>1</sup> Chaque organisme de type 1 et 2 et chaque entreprise régionale ainsi que l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles déterminent, dans le respect des dispositions du droit comptable auquel il est soumis, les règles d'évaluation, d'amortissements, de constitution de provision pour risques et charges ainsi que les règles de réduction de valeur et de réévaluation. Ces règles sont approuvées par l'autorité compétente et justifiées dans l'annexe au compte général. Leur application doit être constante d'un exercice à l'autre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 69, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 96
+
+[<sup>1</sup> En ce qui concerne les organismes de type 1 et 2, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles ainsi que les entreprises régionales, les opérations à enregistrer dans la comptabilité générale et qui requièrent un enregistrement en comptabilité budgétaire doivent avoir été constatées préalablement et sont imputées simultanément dans ladite comptabilité budgétaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 70, 003; En vigueur : 08-01-2016&gt;
+
+### Titre V. [<sup>1</sup> Dispositions relatives au rapportage]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 71, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. [<sup>1</sup> Du compte général annuel]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 72, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 97
+
+[<sup>1</sup> § . 1er. Chaque année, les organismes de type 1 et 2, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et les entreprises régionales dressent leur compte général relatif à l'année budgétaire et comptable écoulée :
+
+1° pour le 31 mars, en ce qui concerne les organismes de type 1 et les entreprises régionales;
+
+2° pour le 30 avril, en ce qui concerne les organismes de type 2 et [<sup>2</sup> pour le 30 juin en ce qui concerne]<sup>2</sup> l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles.
+
+Le compte général comprend :
+
+1° [<sup>5</sup> le compte annuel composé :
+
+a) du bilan ;
+
+b) du compte de résultats établi sur la base des charges et des produits]<sup>5</sup>;
+
+2° [<sup>5</sup> ...]<sup>5</sup>;
+
+3° le compte d'exécution du budget établi dans le même format obligatoire que le budget approuvé et faisant apparaître les estimations de recettes et les dépenses autorisées, et en regard de celles-ci, respectivement, les droits constatés imputés en recettes et les droits constatés imputés en dépenses;
+
+4° une annexe comportant notamment :
+
+a) un résumé des règles d'évaluation et d'amortissement;
+
+b) un relevé explicatif des variations des immobilisations incorporelles, corporelles et financières;
+
+c) un état des créances et des dettes;
+
+d) un état de la trésorerie et des placements;
+
+e) un relevé détaillé des droits et engagements hors bilan;
+
+f) le cas échéant, une justification de la constitution d'une provision pour risques et charges;
+
+g) un rapport permettant de réconcilier le solde budgétaire et le résultat issu de la différence entre les charges et les produits enregistrés dans la comptabilité générale.
+
+[<sup>3</sup> 4°/1 le compte de récapitulation des opérations budgétaires conformément à la classification économique ;]<sup>3</sup>
+
+§ 2. Les montants repris dans le rapport visé au paragraphe 1er, alinéa 2, 4°, g), sont ceux arrêtés au 31 décembre de l'année comptable et budgétaire écoulée.
+
+§ 3. Les autorités qui approuvent le budget des organismes, de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et des entreprises régionales remplissent la même mission à l'égard de leur compte général annuel.]<sup>1</sup>
+
+[<sup>4</sup> § 4. Les comptes annuels des organismes, des entreprises régionales et de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles sont consolidés avec le compte annuel des services d'administration générale conformément à l'article 44/1. ]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 73, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 49,a, 021; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 49,b, 021; En vigueur : 01-01-2025&gt;
+
+(4)&lt;DRW 2024-04-25/54, art. 49,c, 021; En vigueur : 01-01-2025&gt;
+
+(5)&lt;DRW 2026-03-26/06, art. 26, 027; En vigueur : 01-04-2026&gt;
+
+###### Art. 97/1.
+
+[<sup>1</sup> Chaque année, les organismes de type 3 dressent pour le 30 juin leur compte général qui comprend :
+
+1° [<sup>2</sup> le compte annuel composé :
+
+a) du bilan ;
+
+b) du compte de résultats établi sur la base des charges et des produits]<sup>2</sup> ;
+
+2° [<sup>2</sup> ...]<sup>2</sup> ;
+
+3° le compte de récapitulation des opérations budgétaires conformément à la classification économique ;
+
+4° l'annexe .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 50, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2026-03-26/06, art. 27, 027; En vigueur : 01-04-2026&gt;
+
+#### CHAPITRE II. [<sup>1</sup> Des comptes intermédiaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 74, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 98
+
+&lt;Abrogé par DRW 2024-04-25/54, art. 51, 021; En vigueur : 01-01-2025&gt;
+
+### Titre VI. [<sup>1</sup> Dispositions relatives aux contrôles]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 76, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. [<sup>1</sup> Disposition générale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 77, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 99
+
+[<sup>1</sup> § 1er. Chaque organisme de type 1 et 2 et chaque entreprise régionale ainsi que l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles appliquent, dans leur organisation administrative, le principe de la séparation des fonctions entre les fonctions de décision, d'exécution, d'enregistrement, de paiement et de surveillance.
+
+§ 2. Les procédures budgétaires et comptables sont décrites et établies par écrit pour constituer une documentation claire, formalisée et à jour à tous les niveaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 78, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE II. [<sup>1</sup> Du contrôle et de l'audit internes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 79, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 100
+
+[<sup>1</sup> § 1er. Le système de comptabilité publique intègre un contrôle et un audit internes.
+
+Les objectifs fixés par l'article 46 s'appliquent aux organismes, à l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et aux entreprises régionales.
+
+Les règles relatives à l'audit interne énoncées à l'article 47 s'appliquent aux organismes de type 1 et aux entreprises régionales.
+
+§ 2. Chaque membre du personnel participe, en fonction des missions et des responsabilités qui lui incombent, au bon fonctionnement du contrôle interne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 80, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE III. [<sup>1</sup> Du contrôle administratif et budgétaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 81, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 101
+
+[<sup>1</sup> Le Gouvernement surveille l'exécution du budget et la gestion financière des organismes de type 1, des entreprises régionales et de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles en ce qui concerne son budget des missions autres que paritaires telles que définies par le Code wallon de l'Action sociale et de la Santé.
+
+Le Gouvernement fixe les modalités de ce contrôle, notamment le recours éventuel à l'assistance des inspecteurs des finances mis à sa disposition et à l'application des articles 48 et 49.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 82, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE IV. [<sup>1</sup> Du contrôle externe et de la certification du compte général]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 83, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 102
+
+[<sup>1</sup> § 1er. Conformément à l'article 10, [<sup>3</sup> , 2 et 3]<sup>3</sup>, de la loi de dispositions générales, les organismes de type 1 et 2, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles et les entreprises régionales sont soumis au contrôle de la [<sup>2</sup> Cour des comptes ]<sup>2</sup> tel que défini à l'article 50. "
+
+§ 2. [<sup>3</sup> En application du principe du single audit, ce contrôle de la Cour des comptes s'appuie principalement sur les contrôles interne et externe existants ]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>3</sup> § 3. La Cour des comptes et les acteurs du contrôle interne et externe concluent entre eux des accords de collaboration afin d'assurer que leurs calendriers et leurs processus de contrôle, ainsi que l'échange de leurs résultats soient définis de manière efficace, en veillant à minimiser les chevauchements entre leurs contrôles respectifs.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 84, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2024-04-25/54, art. 1, 021; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 52, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 102/1.
+
+[<sup>1</sup> § 1er. Si les comptes de l'unité visée à l'article 102, § 1er, sont contrôlés et certifiés conformément à la législation applicable par un commissaire qui est un réviseur d'entreprises, le contrôle de la Cour des comptes est mené sur la base des travaux réalisés par le réviseur d'entreprises.
+
+§ 2. Sans préjudice de l'application des exceptions à l'obligation du secret visées à l'article 86 de la loi du 7 décembre 2016 portant organisation de la profession et de la supervision publique des réviseurs d'entreprises, ne sont pas soumises à l'obligation du secret :
+
+1° l'échange d'informations entre le réviseur d'entreprises, la Cour des comptes et, le cas échéant, le Service commun d'audit et l'Inspection des Finances, sur la stratégie et le calendrier d'audit, le monitoring et l'analyse des risques, le contrôle et le rapportage, et les méthodes de contrôle concernant les unités de la Région wallonne qui relèvent de leur domaine de contrôle commun ;
+
+2° la communication à la Cour des comptes et, le cas échéant, au Service commun d'audit et à l'Inspection des Finances, d'informations provenant des documents de travail du réviseur d'entreprises concernant les unités de la Région wallonne qui relèvent de leur domaine de contrôle commun.
+
+§ 3. Les acteurs du contrôle interne et externe visés au paragraphe 2 concluent avec l'Institut des réviseurs d'entreprises un protocole d'accord fixant les modalités d'échange d'information définis au paragraphe 2, 1° et 2°. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-25/54, art. 53, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 103
+
+[<sup>1</sup> § 1er. Les dispositions de l'article 52, § 1er, relatives à la certification exercée par la Cour des comptes s'appliquent aux comptes généraux des organismes de type 1 et des entreprises régionales.
+
+§ 2. Les comptes généraux des organismes de type 2 et de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles sont certifiés par au moins un commissaire aux comptes inscrit au registre public de l'Institut des réviseurs d'entreprise.
+
+Les organismes de type 2 transmettent leur compte général, accompagné du rapport de certification, au plus tard le 30 avril suivant l'exercice auquel il se rapporte, au Gouvernement et à la Cour des comptes.
+
+L'Agence wallonne de la santé, de la protection sociale, du handicap et des familles transmet son compte général, accompagné du rapport de certification, au plus tard le 30 juin suivant l'exercice auquel il se rapporte, au Gouvernement et à la Cour des comptes.
+
+Les organismes de type 3 transmettent leur compte [<sup>2</sup> général]<sup>2</sup>, accompagné du rapport de certification, au plus tard le 30 juin suivant l'exercice auquel ils se rapportent, au Gouvernement et à la Cour des comptes.
+
+§ 3. Les comptes des organismes de type 1, 2 et 3, des services administratifs à comptabilité autonome, des entreprises régionales et de l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles sont consolidés annuellement avec le compte général des services d'administration générale conformément aux articles 44/1 à 44/3.
+
+§ 4. La Cour des comptes contrôle la régularité, la sincérité et la fidélité des comptes des organismes de type 2 et 3 si elle considère que ces comptes sont significatifs pour la certification du compte général de l'entité régionale prévu aux articles 44/1 à 44/3. La Cour des comptes transmet au Parlement et au Gouvernement au mois de janvier de chaque année la liste des organismes dont elle considère les comptes significatifs.
+
+§ 5. La Cour des comptes peut publier les comptes et ses rapports y relatifs dans ses cahiers d'observations ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-04-25/54, art. 54, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;DRW 2026-03-26/06, art. 28, 027; En vigueur : 01-04-2026&gt;
+
+## Livre IV. [<sup>1</sup> Dispositions diverses, transitoires et finales]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 86, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE Ier. [<sup>1</sup> Dispositions diverses]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 87, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 104
+
+[<sup>2</sup>Art. 79 devient Art. 104]<sup>2</sup> § 1er. Le Gouvernement est habilité à confier au service qu'il désignera les missions :
+
+1° de saisir la Commission de la comptabilité publique pour avis, d'examiner les avis de ladite Commission et d'en assurer la mise en oeuvre;
+
+2° de suivre l'évolution de la législation européenne ayant trait à la comptabilité, et plus particulièrement au système européen des comptes nationaux et régionaux dans la Communauté;
+
+3° de proposer les adaptations aux décrets et textes réglementaires découlant des modifications des cadres légaux belge et international;
+
+4° de contribuer à l'harmonisation du cadre légal budgétaire et comptable des organismes classés dans le secteur des administrations publiques relevant de la Région wallonne;
+
+5° d'accompagner les travaux de regroupement économique des recettes et des dépenses de la Région wallonne;
+
+6° de procéder à l'étude permanente des processus budgétaires et comptables en vue de participer à la simplification et à l'amélioration du service pour les usagers;
+
+7° d'analyser l'incidence de toute modification à caractère budgétaire et comptable sur les applications logicielles de support.
+
+§ 2. Outre les missions visées au § 1er, le Gouvernement peut charger ledit service d'études en matière de budget et de comptabilité.
+
+----------
+
+(1)&lt;DRW 2013-12-23/03, art. 4,2°, 002; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2015-12-17/10, art. 88, 003; En vigueur : 08-01-2016&gt;
+
+#### CHAPITRE II. [<sup>1</sup> Dispositions transitoires]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 89, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 105
+
+[<sup>2</sup> Art. 80 devient Art. 105]<sup>2</sup> Restent soumis aux dispositions des lois coordonnées le 17 juillet 1991 sur la comptabilité de l'Etat :
+
+1° l'exécution du budget voté antérieurement à la date d'entrée en vigueur du présent décret et les ajustements de ce budget;
+
+2° l'établissement des comptes généraux et des comptes de comptables relatifs aux années budgétaires antérieures à la date d'entrée en vigueur du présent décret, y compris ceux découlant du cas visé au 1° ;
+
+3° la prescription, telle que réglée à l'article 100, alinéa 1er, des créances nées à la charge [<sup>3</sup> des services d'administration générale]<sup>3</sup> avant l'entrée en vigueur du présent décret.
+
+----------
+
+(1)&lt;DRW 2013-12-23/03, art. 4,2°, 002; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2015-12-17/10, art. 88, 003; En vigueur : 08-01-2016&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 4, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 106
+
+[<sup>2</sup> Art. 81 devient Art. 106]<sup>2</sup> Sans préjudice des dispositions visées à l'article 5, alinéa 1er de la loi de dispositions générales, le bilan d'ouverture établi au 1er janvier prend notamment en considération les valeurs, arrêtées au 31 décembre de l'année précédente, des éléments suivants :
+
+1° le solde des engagements juridiques valides;
+
+2° les droits constatés à recouvrer figurant dans les comptes de gestion des receveurs;
+
+3° les avoirs sur les comptes financiers validés par les extraits délivrés par les organismes financiers;
+
+4° les espèces et les valeurs en portefeuille fixées par les comptes des comptables en deniers;
+
+5° la situation de la dette consolidée et des autres dettes.
+
+----------
+
+(1)&lt;DRW 2013-12-23/03, art. 4,2°, 002; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2015-12-17/10, art. 88, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 107
+
+&lt;Abrogé par DRW 2024-04-25/54, art. 55, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 108
+
+[<sup>2</sup> Art. 83 devient Art. 108]<sup>2</sup> [<sup>3</sup> Sans préjudice de la mise en application par le Gouvernement des dispositions du chapitre 2 du titre 3 du Livre III du Code de droit économique relatif à la comptabilité des entreprises, les entreprises régionales demeurent soumises aux dispositions du titre III des lois coordonnées du 17 juillet 1991 sur la comptabilité de l'Etat qui sont relatives au budget et à son exécution, au contrôle ainsi qu'aux règles de gestion et de trésorerie pour les exercices comptables et budgétaires antérieurs à la date d'entrée en vigueur visée à l'article 114 du présent décret.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2013-12-23/03, art. 4,2°, 002; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DRW 2015-12-17/10, art. 88, 003; En vigueur : 08-01-2016&gt;
+
+(3)&lt;DRW 2015-12-17/10, art. 90, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 109
+
+[<sup>1</sup> Les obligations relatives au compte général annuel ou au compte annuel des organismes et des entreprises régionales se rapportant aux années budgétaires antérieures à la date d'entrée en vigueur visée à l'article 114 du présent décret restent celles applicables aux unités d'administration publique avant cette date.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 91, 003; En vigueur : 08-01-2016&gt;
+
+### Titre III. [<sup>1</sup> Dispositions abrogatoires et finales]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-17/10, art. 92, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 110
+
+[<sup>1</sup> La loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt publics est abrogée pour les matières visées par le présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 93, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 111
+
+[<sup>1</sup> Sous réserve de non-conformité ou de contradiction avec les dispositions du présent décret, les dispositions applicables aux unités d'administration publique visées par ledit décret, de nature légale et réglementaire, de portée organique et statutaire, ainsi que les stipulations contenues dans les contrat de gestion ou toute autre convention restent d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 94, 003; En vigueur : 08-01-2016&gt;
+
+###### Art. 112
+
+[<sup>1</sup> § 1er. Entrent en vigueur :
+
+1° le 1er janvier 2016 :
+
+a) les dispositions qui sont applicables [<sup>3</sup> aux services d'administration générale]<sup>3</sup>;
+
+b) les articles 45/1 à 45/3 en ce qui concerne les organismes, les entreprises régionales, l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles, le Parlement, le Service du Médiateur et les services administratifs à comptabilité autonome;
+
+c) les dispositions du Livre III qui sont applicables à l'Agence wallonne de la santé, de la protection sociale, du handicap et des familles. Le budget initial de l'Agence pour l'exercice 2016 est élaboré et approuvé par le Gouvernement;
+
+2° [<sup>2</sup> le 1er janvier 2017, les dispositions des Livres II et III qui sont applicables aux organismes, aux entreprises régionales, au Parlement, au Service du Médiateur et aux services administratifs à comptabilité autonome, à l'exception de l'Institut du Patrimoine wallon]<sup>2</sup>
+
+§ 2. Par dérogation au paragraphe 1er et en application notamment de l'article 10, § 1er/1, de la loi de dispositions générales, le Gouvernement fixe la date d'entrée en vigueur des articles 52, 52/1, et 103 et ce, au plus tard le 1er janvier 2020.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2015-12-17/10, art. 95, 003; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DRW 2017-07-12/20, art. 41, 006; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DRW 2024-04-25/54, art. 35, 021; En vigueur : 01-01-2025&gt;
+
+### ANNEXE.
+
+###### Art. N
+
+[<sup>2</sup> [<sup>3</sup> Les organismes visés à l'article 3, § 1er, 4°, du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes sont classés de la façon suivante :]<sup>3</sup>
+
+<table><tr><td>[<sup><font>1</font></sup> No BCE</td><td>DENOMINATION</td><td>TYPE</td></tr><tr><td>0</td><td>Fonds d'égalisation des budgets de la Région wallonne</td><td>Type 1</td></tr><tr><td>0</td><td>Fonds bas carbone et résilience</td><td>Type 1</td></tr><tr><td>241530493</td><td>Institut scientifique de Service public - Wissenschaftliches Institut Offentlicher Dienststelle - Wetenschappelijk Instituut van Openbare Dienst</td><td>Type 1</td></tr><tr><td>254714773</td><td>Centre régional d'aide aux communes</td><td>Type 1</td></tr><tr><td>262172984</td><td>LE CENTRE WALLON DE RECHERCHES AGRONOMIQUES</td><td>Type 1</td></tr><tr><td>772472960</td><td>Fonds wallon des calamités naturelles</td><td>Type 1</td></tr><tr><td>810888623</td><td>Wallonie-Bruxelles International</td><td>Type 1</td></tr><tr><td>866518618</td><td>IWEPS</td><td>Type 1</td></tr><tr><td>898739543</td><td>COMMISSARIAT GENERAL AU TOURISME</td><td>Type 1</td></tr><tr><td>202414452</td><td>PORT AUTONOME DE LIEGE</td><td>Type 2</td></tr><tr><td>208201095</td><td>Port Autonome de Charleroi</td><td>Type 2</td></tr><tr><td>218569902</td><td>PORT AUTONOME DE NAMUR</td><td>Type 2</td></tr><tr><td>236363165</td><td>Office wallon de la Formation professionnelle et de l'Emploi</td><td>Type 2</td></tr><tr><td>267314479</td><td>Agence wallonne à l'Exportation et aux Investissements étrangers</td><td>Type 2</td></tr><tr><td>267400492</td><td>AGENCE WALLONNE POUR LA PROMOTION D'UNE AGRICULTURE DE QUALITE</td><td>Type 2</td></tr><tr><td>475273274</td><td>PORT AUTONOME DU CENTRE ET DE L'OUEST</td><td>Type 2</td></tr><tr><td>693771021</td><td>Caisse publique wallonne d'allocations familialesFAMIWAL</td><td>Type 2</td></tr><tr><td>849413657</td><td>Ecole d'administration publique commune à la Communauté française et à la Région wallonne</td><td>Type 2</td></tr><tr><td>869559171</td><td>Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises</td><td>Type 2</td></tr><tr><td>202268754</td><td>CREDIT SOCIAL LOGEMENT</td><td>Type 3</td></tr><tr><td>216754517</td><td>Conseil Economique Social et Environnemental de Wallonie</td><td>Type 3</td></tr><tr><td>231550084</td><td>SOCIETE WALLONNE DU LOGEMENT</td><td>Type 3</td></tr><tr><td>240365703</td><td>SOCIETE DE GESTION DU FRI DE LA REGION WALLONNE</td><td>Type 3</td></tr><tr><td>242069339</td><td>Opérateur de Transport de Wallonie</td><td>Type 3</td></tr><tr><td>243929462</td><td>SPAQuE</td><td>Type 3</td></tr><tr><td>252151302</td><td>SOCIETE WALLONNE DE FINANCEMENT COMPLEMENTAIRE DES INFRASTRUCTURES</td><td>Type 3</td></tr><tr><td>260639790</td><td>SOCIETE D'ASSAINISSEMENT ET DE RENOVATION DES SITES INDUSTRIELS DU BRABANT WALLON</td><td>Type 3</td></tr><tr><td>401122615</td><td>SOCIETE TERRIENNE DE CREDIT SOCIAL DU HAINAUT</td><td>Type 3</td></tr><tr><td>401228127</td><td>Crédit à l'épargne immobilière</td><td>Type 3</td></tr><tr><td>401412625</td><td>PROXIPRET</td><td>Type 3</td></tr><tr><td>401465578</td><td>CREDIALYS</td><td>Type 3</td></tr><tr><td>401553373</td><td>LA MAISON OUVRIERE DE L'ARRONDISSEMENT DE CHARLEROI ET DU SUD-HAINAUT</td><td>Type 3</td></tr><tr><td>401609593</td><td>LE CREDIT SOCIAL ET LES PETITS PROPRIETAIRES REUNIS</td><td>Type 3</td></tr><tr><td>401632260</td><td>BUILDING</td><td>Type 3</td></tr><tr><td>401731339</td><td>Tous Propriétaires</td><td>Type 3</td></tr><tr><td>401778057</td><td>La Prévoyance</td><td>Type 3</td></tr><tr><td>402324326</td><td>'' SOCIETE DE CREDIT POUR HABITATIONS SOCIALES '' en abrégé '' S.C.H.S '' en langue allemande '' EIGENHEIMKREDITGESELLSCHAFT '' en abrégé '' E.H.K.G ''</td><td>Type 3</td></tr><tr><td>402439340</td><td>Le Travailleur chez Lui</td><td>Type 3</td></tr><tr><td>402495065</td><td>CREDISSIMO HAINAUT</td><td>Type 3</td></tr><tr><td>402509715</td><td>LE PETIT PROPRIETAIRE</td><td>Type 3</td></tr><tr><td>403977482</td><td>CREDISSIMO</td><td>Type 3</td></tr><tr><td>404370630</td><td>CREDIT SOCIAL DU Belgique</td><td>Type 3</td></tr><tr><td>405631729</td><td>LE CREDIT HYPOTHECAIRE O. BRICOULT</td><td>Type 3</td></tr><tr><td>413193670</td><td>Abbaye de Villers-la-Ville</td><td>Type 3</td></tr><tr><td>413255038</td><td>ASBL Domaine régional Solvay - Château de La Hulpe</td><td>Type 3</td></tr><tr><td>415371816</td><td>SOGESTIMMO</td><td>Type 3</td></tr><tr><td>419202029</td><td>B.E. Fin</td><td>Type 3</td></tr><tr><td>421102536</td><td>Fonds du Logement des Familles nombreuses de Wallonie</td><td>Type 3</td></tr><tr><td>426091207</td><td>SOCIETE WALLONNE DE LOCATIONFINANCEMENT</td><td>Type 3</td></tr><tr><td>426516918</td><td>WE Environnement</td><td>Type 3</td></tr><tr><td>427724963</td><td>IMMOWAL</td><td>Type 3</td></tr><tr><td>433766083</td><td>SERVICE SOCIAL DES SERVICES DU GOUVERNEMENT WALLON</td><td>Type 3</td></tr><tr><td>435532572</td><td>SOCIETE DE RENOVATION ET D'ASSAINISSEMENT DES SITES INDUSTRIELS</td><td>Type 3</td></tr><tr><td>450305870</td><td>Contrat de Rivière Haute Meuse</td><td>Type 3</td></tr><tr><td>452116307</td><td>SPARAXIS</td><td>Type 3</td></tr><tr><td>454183890</td><td>SOCARIS</td><td>Type 3</td></tr><tr><td>455653441</td><td>W. ALTER.</td><td>Type 3</td></tr><tr><td>458220674</td><td>TECHNIFUTUR</td><td>Type 3</td></tr><tr><td>462311896</td><td>SPARKOH !</td><td>Type 3</td></tr><tr><td>463308424</td><td>CONTRAT DE RIVIERE OURTHE</td><td>Type 3</td></tr><tr><td>466071439</td><td>WSL</td><td>Type 3</td></tr><tr><td>466557627</td><td>SOCIETE DE FINANCEMENT DES EAUX</td><td>Type 3</td></tr><tr><td>471517988</td><td>Société d'Investissement Agricole de Wallonie</td><td>Type 3</td></tr><tr><td>472062970</td><td>WALLIMAGE</td><td>Type 3</td></tr><tr><td>473771754</td><td>SOCIETE WALLONNE DU CREDIT SOCIAL</td><td>Type 3</td></tr><tr><td>475247837</td><td>SOCIETE WALLONNE DES AEROPORTS</td><td>Type 3</td></tr><tr><td>475355824</td><td>ASBL Contrat de Rivière pour l'Amblève</td><td>Type 3</td></tr><tr><td>475627325</td><td>SECRETARIAT CONJOINT DU PROGRAMME INTERREG IV Belgique - WALLONIE - VLAANDEREN</td><td>Type 3</td></tr><tr><td>476800629</td><td>EQUIPE TECHNIQUE INTERREG Belgique - WALLONIE - VLAANDEREN</td><td>Type 3</td></tr><tr><td>478614430</td><td>LE POLE DE RECONVERSION</td><td>Type 3</td></tr><tr><td>480028848</td><td>SAMANDA</td><td>Type 3</td></tr><tr><td>480753576</td><td>TRIAGE-LAVOIR DU CENTRE</td><td>Type 3</td></tr><tr><td>539960891</td><td>Agence Wallonne pour la sécurité routière</td><td>Type 3</td></tr><tr><td>544978266</td><td>123CDI</td><td>Type 3</td></tr><tr><td>553753006</td><td>ESPACE FINANCEMENT</td><td>Type 3</td></tr><tr><td>554780018</td><td>FONDS DE PARTICIPATION WALLONIE</td><td>Type 3</td></tr><tr><td>568575002</td><td>AGENCE DU NUMERIQUE</td><td>Type 3</td></tr><tr><td>652991825</td><td>Contrat de rivière Moselle ASBL</td><td>Type 3</td></tr><tr><td>657816980</td><td>WALLONIA OFFSHORE WIND</td><td>Type 3</td></tr><tr><td>657881714</td><td>VAL SAINT-LAMBERT OFFICE PARK</td><td>Type 3</td></tr><tr><td>667687820</td><td>IMBC 2020</td><td>Type 3</td></tr><tr><td>667964566</td><td>FONDS DE CAPITAL A RISQUE 2020</td><td>Type 3</td></tr><tr><td>669741844</td><td>NAMUR INVEST INNIVATION ET CROISSANCE</td><td>Type 3</td></tr><tr><td>669955343</td><td>B2START</td><td>Type 3</td></tr><tr><td>670937716</td><td>Belgique DEVELOPPEMENT EUROPE DEUX</td><td>Type 3</td></tr><tr><td>672421123</td><td>WAPI 2020</td><td>Type 3</td></tr><tr><td>695982819</td><td>Parentia Wallonie</td><td>Type 3</td></tr><tr><td>697584804</td><td>Caisse Wallonne d'Allocations Familiales Camille</td><td>Type 3</td></tr><tr><td>697754256</td><td>Kidslife Wallonie</td><td>Type 3</td></tr><tr><td>697784445</td><td>INFINO WALLONIE</td><td>Type 3</td></tr><tr><td>705942145</td><td>SOCIETE WALLONNE D'INVESTISSEMENT ET DE CONSEIL DANS LES SECTEURS DE LA SANTE, DES HOPITAUX, DE L'HEBERGEMENT DES PERSONNES AGEES, DE L'ACCUEIL DES PERSONNES HANDICAPEES</td><td>Type 3</td></tr><tr><td>713671758</td><td>Société Mutualiste Régionale des Mutualités Chrétiennes pour la Région wallonne</td><td>Type 3</td></tr><tr><td>713674629</td><td>Société Mutualiste Régionale de l'Union Nationale des Mutualités Neutres pour la Région wallonne</td><td>Type 3</td></tr><tr><td>713670867</td><td>Société Mutualiste Régionale des Mutualités Socialistes - Solidaris pour la Région wallonne</td><td>Type 3</td></tr><tr><td>715609778</td><td>Société Mutualiste Régionale de l'Union Nationale des Mutualités Libérales pour la Région wallonne</td><td>Type 3</td></tr><tr><td>713671461</td><td>Société Mutualiste Régionale des Mutualités Libres pour la Région wallonne</td><td>Type 3</td></tr><tr><td>787693943</td><td>FormaForm</td><td>Type 3</td></tr><tr><td>793254815</td><td>Alternativ'ES Wallonia</td><td>Type 3</td></tr><tr><td>793630244</td><td>Wallonie Entreprendre</td><td>Type 3</td></tr><tr><td>807763936</td><td>Société de Financement de Projets Structurants de l'Est du Brabant Wallon</td><td>Type 3</td></tr><tr><td>808269425</td><td>Agence wallonne de lutte contre la maltraitance des ainés</td><td>Type 3</td></tr><tr><td>812008774</td><td>NOVALLIA</td><td>Type 3</td></tr><tr><td>812367476</td><td>WEL Research Institute</td><td>Type 3</td></tr><tr><td>816595290</td><td>Filière Bois Wallonie</td><td>Type 3</td></tr><tr><td>816917469</td><td>SOCIETE MIXTE DE DEVELOPPEMENT IMMOBILIER</td><td>Type 3</td></tr><tr><td>817847382</td><td>CONTRAT DE RIVIERE DU SOUS-BASSIN SEMOIS-CHIERS</td><td>Type 3</td></tr><tr><td>817922707</td><td>Contrat de rivière Dyle-Gette</td><td>Type 3</td></tr><tr><td>823228409</td><td>FuturoCité</td><td>Type 3</td></tr><tr><td>826929552</td><td>Contrat de Rivière de la Meuse Aval et affluents</td><td>Type 3</td></tr><tr><td>828207477</td><td>Contrat Rivière Dendre</td><td>Type 3</td></tr><tr><td>830804802</td><td>CONTRAT RIVIERE SAMBRE &amp; AFFLUENTS</td><td>Type 3</td></tr><tr><td>836794452</td><td>Contrat de Rivière Escaut-Lys</td><td>Type 3</td></tr><tr><td>841609612</td><td>Centre d'Etudes en Habitat Durable de Wallonie asbl</td><td>Type 3</td></tr><tr><td>843107667</td><td>Durobor Real Estate</td><td>Type 3</td></tr><tr><td>847284310</td><td>IMMO-DIGUE</td><td>Type 3</td></tr><tr><td>851101358</td><td>CONTRAT DE RIVIERE DU SOUS-BASSIN HYDROGRAPHIQUE DE LA VESDRE</td><td>Type 3</td></tr><tr><td>860662588</td><td>SOCIETE WALLONNE DE FINANCEMENT DE L'EXPORTATION ET DE L'INTERNALISATION DES ENTREPRISES WALLONNES - SOFINEX</td><td>Type 3</td></tr><tr><td>861927053</td><td>SOCIETE DES CAUTIONS MUTUELLES DE WALLONIE</td><td>Type 3</td></tr><tr><td>862775210</td><td>La Terrienne du Crédit Social</td><td>Type 3</td></tr><tr><td>865732522</td><td>ARCEO</td><td>Type 3</td></tr><tr><td>867271753</td><td>Epicuris</td><td>Type 3</td></tr><tr><td>871229947</td><td>GEPART</td><td>Type 3</td></tr><tr><td>872191039</td><td>Contrat de rivière Senne</td><td>Type 3</td></tr><tr><td>873260316</td><td>SOCIETE LIEGEOISE DE GESTION FONCIERE</td><td>Type 3</td></tr><tr><td>873769961</td><td>FINANCIERE D'ENTREPRISE ET DE RENOVATION IMMOBILIERE</td><td>Type 3</td></tr><tr><td>877938090</td><td>SOCIETE WALLONNE POUR LE FINANCEMENT DES INFRASTUCTURES DES POLES DE COMPETITIVITES</td><td>Type 3</td></tr><tr><td>880827009</td><td>Contrat de Rivière du sous-bassin hydrographique de la haine</td><td>Type 3</td></tr><tr><td>881746727</td><td>WE Accompagnement et Stratégie</td><td>Type 3</td></tr><tr><td>888366085</td><td>WALLONIE - Belgique tourisme</td><td>Type 3</td></tr><tr><td>890497612</td><td>HOCCINVEST - FONDS SPIN-OFF/SPIN-OUT</td><td>Type 3</td></tr><tr><td>894160351</td><td>Contrat de rivière pour la Lesse</td><td>Type 3]<sup><font>1</font></sup></td></tr><tr><td colspan="3">(<font>1</font>)&lt;DRW <a>2025-12-19/B5</a>, art. 60, 026; En vigueur : 01-01-2026&gt; </td></tr></table>
+
+]<sup>2</sup>.
+
+----------
+
+(1)&lt;DRW 2023-12-13/13, art. 87, 020; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DRW 2024-12-18/09, art. 67, 023; En vigueur : 01-01-2025&gt;
+
+(3)&lt;DRW 2025-12-19/B5, art. 60, 026; En vigueur : 01-01-2026&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 15 décembre 2011.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Développement durable et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Ministre du Budget, des Finances, de l'Emploi, de la Formation et des Sports,
+
+A. ANTOINE
+
+Le Ministre de l'Economie, des P.M.E., du Commerce extérieur et des Technologies nouvelles,
+
+J.-C. MARCOURT
+
+Le Ministre des Pouvoirs locaux et de la Ville,
+
+P. FURLAN
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire et de la Mobilité,
+
+Ph. HENRY
+
+Le Ministre des Travaux publics, de l'Agriculture, de la Ruralité, de la Nature, de la Forêt et du Patrimoine,
+
+B. LUTGEN

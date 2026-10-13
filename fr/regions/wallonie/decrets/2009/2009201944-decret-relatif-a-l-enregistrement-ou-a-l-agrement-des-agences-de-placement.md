@@ -1,0 +1,581 @@
+---
+title: "Décret relatif à l'enregistrement ou à l'agrément des agences de placement"
+identifier: "2009201944"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009201944/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2009-04-03
+published: 2009-05-05
+entry_into_force: 2009-12-28
+last_amended: 2026-04-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009201944/justel"
+department: "Service public de Wallonie"
+justel_note: "Consultation des versions antérieures à partir du 05-05-2009 et mise à jour au 21-04-2026"
+retrieved: 2026-10-12
+---
+
+# 3 AVRIL 2009. - Décret relatif à l'enregistrement ou à l'agrément des agences de placement
+
+Le Parlement wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Définitions et champ d'application
+
+#### Art. 1er
+
+Pour l'application du présent décret, on entend par :
+
+1° "services de placement" : le service visé au point 7° presté par une agence de travail intérimaire ou les services visés aux points 8° à 14° prestés par une agence de placement;
+
+2° "agence de placement" : la personne physique ou la personne morale ou qui preste elle-même, pour son compte ou pour compte d'un tiers, ou fait prester par un tiers, les services de placement visés aux points 8° à 14°, sous quelque dénomination que ce soit, à titre principal ou accessoire, à titre onéreux ou gratuit;
+
+3° "agence de travail intérimaire" : la personne physique ou la personne morale constituée sous une forme commerciale qui preste elle-même, pour son compte ou pour compte d'un tiers, ou fait prester par un tiers le service visé au point 7°;
+
+4° "travailleur" : la personne physique prestant ou cherchant à prester une activité professionnelle sous l'autorité d'un employeur ou à titre indépendant;
+
+5° "employeur" : toute personne physique ou morale faisant appel aux services prestés par une agence de placement ou fixant les tâches et qui en supervise l'exécution;
+
+6° "utilisateur" : toute personne physique ou morale pour laquelle et sous le contrôle et la direction de laquelle un travailleur intérimaire travaille de manière temporaire;
+
+7° "service de travail intérimaire" : l'embauche de travailleurs, effectuée par une agence de travail intérimaire, afin de les mettre à disposition d'utilisateurs en vue de l'exécution d'un travail temporaire autorisé par ou en vertu du Chapitre II de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs;
+
+8° "service de recherche d'emploi" : le service presté, sans que l'agence de placement ne devienne partie aux relations de travail, pour le compte d'un travailleur et ayant pour objet de lui procurer un emploi;
+
+9° "service de recrutement et de sélection" : le service presté, sans que l'agence de placement ne devienne partie aux relations de travail, pour le compte de l'employeur, ayant pour objet l'engagement d'un travailleur;
+
+10° "service d'insertion" : le service presté, sans que l'agence de placement ne devienne partie aux relations de travail, pour le compte d'un travailleur, ayant pour objet de l'aider à rechercher lui-même un emploi ou à l'accompagner dans cette recherche pour qu'il s'insère à terme dans un emploi durable et de qualité;
+
+11° "service d'outplacement" : un ensemble de services et de conseils de guidance fournis individuellement ou en groupe par une agence de placement contre paiement et à la demande d'un employeur afin de permettre à un travailleur de retrouver lui-même et le plus rapidement possible un emploi auprès d'un nouvel employeur ou de développer une activité professionnelle en tant qu'indépendant, sans que l'agence de placement ne devienne partie aux relations de travail;
+
+12° "service de placement de sportifs professionnels" : le service presté consistant en la recherche d'emploi ou le recrutement et la sélection pour le compte de sportifs professionnels ou de personnes assimilées se trouvant dans les conditions prévues par l'article 2, § 1er, de la loi du 24 février 1978 relative au contrat de travail de sportif rémunéré ou pour le compte d'employeurs et ayant pour objet l'engagement de sportifs professionnels ou de personnes assimilées, sans que l'agence de placement ne devienne partie aux relations de travail;
+
+13° "service de placement d'artistes de spectacle" : le service presté consistant en la recherche d'emploi ou le recrutement et la sélection pour le compte de personnes qui fournissent des prestations artistiques et/ou produisent des oeuvres artistiques, à savoir la création et/ou l'exécution ou l'interprétation d'oeuvres artistiques dans le secteur de l'audiovisuel et des arts plastiques, de la musique, de la littérature, du spectacle, du théâtre et de la chorégraphie, sans que l'agence de placement ne devienne partie aux relations de travail;
+
+14° "autres services de placement" : les services définis par le Gouvernement, après avis du Conseil économique et social de la Région wallonne;
+
+15° "unité d'établissement" : le lieu d'activité, géographiquement identifiable par une adresse, où s'exerce l'activité de l'agence de placement ou de l'agence de travail intérimaire ou à partir duquel elle est exercée.
+
+[<sup>1</sup> 16° une demande discriminatoire : une demande qui, si elle est acceptée, crée une discrimination au sens du décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discriminati]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-04-29/24, art. 1, 006; En vigueur : 27-09-2024&gt;
+
+#### Art. 2
+
+Le présent décret s'applique, sur le territoire de la Région de langue française, à toute agence de placement et à toute agence de travail intérimaire.
+
+Il ne s'applique pas :
+
+1° aux services publics de l'emploi au sens de la Convention de l'Organisation internationale du travail n° 88 sur le service public de l'emploi complétée par la recommandation n° 83 qui sont des services d'intérêt général non économiques au sens de l'article 2.2. a), de la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur;
+
+2° au bureau de sélection des services publics fédéraux ou régionaux;
+
+3° aux services de placement des gens de mer agréés en vertu de la convention n° 9 concernant le placement des marins, adoptée le 10 juillet 1920 par la Conférence générale de l'Organisation internationale du Travail et approuvée par la loi du 6 septembre 1924;
+
+4° aux centres publics d'action sociale lorsqu'ils prestent un service d'insertion;
+
+5° aux Universités et Hautes Ecoles, aux Ecoles supérieures des Arts et aux Instituts supérieurs d'Architecture lorsqu'elles prestent un service de recherche d'emploi;
+
+6° aux Missions régionales pour l'emploi visées par le décret du 11 mars 2004 relatif à l'agrément et au subventionnement des missions régionales pour l'emploi lorsqu'elles prestent un service de recherche d'emploi ou un service d'insertion;
+
+7° aux entreprises d'insertion visées par le décret du 18 décembre 2003 relatif aux conditions auxquelles les entreprises d'insertion sont agréées et subventionnées lorsqu'elles prestent un service d'insertion.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-03-26/06, art. 19, 007; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE II. - Enregistrement préalable de l'agence de placement
+
+#### Art. 3
+
+§ 1er. La prestation de services de placement visés à l'article 1er, 8° à 14°, est subordonnée à un enregistrement préalable de l'agence de placement.
+
+L'enregistrement préalable comprend les données suivantes :
+
+1° le nom, la dénomination ou la raison sociale;
+
+2° l'adresse du siège [<sup>1</sup> ...]<sup>1</sup> et, le cas échéant, l'adresse des différentes unités d'établissement en Région de langue française;
+
+3° la forme juridique;
+
+4° la date de création de l'agence;
+
+5° le ou les type(s) des services de placement au sens de l'article 1er, 8° à 14°, exercé(s) par l'agence;
+
+6° les données permettant d'identifier la ou les personne(s) pouvant juridiquement engager l'agence de placement;
+
+7° le cas échéant, la preuve d'une immatriculation, d'un agrément, d'un enregistrement, d'une déclaration préalable ou de toute formalité équivalente en tant qu'organe exerçant dans une Communauté, une Région ou un Etat des services visés à l'article 1er, 8° à 14°;
+
+8° le cas échéant, la preuve d'une déclaration préalable pour les travailleurs salariés et indépendants détachés, tels que visée au chapitre 8 du Titre IV de la loi-programme (I) du 27 décembre 2006.
+
+Le Gouvernement peut modifier les données visées à l'alinéa 2. Dans ce cas, sa décision motivée doit prendre exclusivement en considération les modifications apportées aux législations et réglementations adoptées au niveau communautaire, fédéral ou régional.
+
+Le Gouvernement détermine la procédure d'enregistrement préalable et peut dispenser l'agence de placement de fournir certaines données visées à l'alinéa 2.
+
+§ 2. En cas de fusion, d'absorption, de scission ou de modifications intervenues au niveau de l'agence de placement enregistrée, celle-ci est tenue de mettre à jour les données visées à l'alinéa 2 dans les trente jours suivant les modifications intervenues.
+
+Si la fusion, l'absorption ou la scission aboutissent à la création d'une ou de plusieurs nouvelle(s) personnalité(s) juridique(s), la ou les nouvelle(s) agence(s) issues de la transformation juridique sont tenue(s) de s'enregistrer conformément à l'article 3, § 1er.
+
+----------
+
+(1)&lt;DRW 2023-04-06/06, art. 131, 005; En vigueur : 02-11-2023&gt;
+
+## CHAPITRE III. - Agrément préalable de l'agence de travail intérimaire
+
+### Section 1re. - Conditions d'octroi de l'agrément préalable
+
+#### Art. 4
+
+La prestation de services de travail intérimaire est subordonnée à un agrément préalable de l'agence de travail intérimaire.
+
+Les conditions d'agrément préalable en tant qu'agence de travail intérimaire sont les suivantes :
+
+1° être une personne physique ou être régulièrement constituée sous la forme d'une personne morale [<sup>1</sup> ayant adoptée une des formes de sociétés visées à l'article 1:5, § 2, du Code des sociétés et des associations]<sup>1</sup>soit en vertu du droit d'un Etat membre ou régie par celui-ci, quelle que soit sa forme juridique et, le cas échéant, être régulièrement enregistrée à la Banque-Carrefour des Entreprises ou avoir satisfait à la déclaration préalable, visée à l'article 139 de la loi-programme (I) du 27 décembre 2006;
+
+2° s'engager à respecter les dispositions de la ou des convention(s) collective(s) de travail conclue(s) au sein de la Commission paritaire pour le travail intérimaire, relative(s) à l'institution d'un fonds de sécurité d'existence pour les intérimaires et à la fixation de ses statuts;
+
+3° ne pas se trouver en état de faillite ou d'insolvabilité notoire, ni faire l'objet d'une procédure de déclaration de faillite, ni avoir demandé ou obtenu un concordat judiciaire;
+
+4° ne pas compter, parmi ses administrateurs, gérants, mandataires ou autres personnes habilitées à engager l'agence de travail intérimaire, des personnes :
+
+a) qui ont été privées de leurs droits civils et politiques;
+
+b) qui, pendant la période de cinq ans précédant la demande d'agrément, ont été sanctionnées par ou en vertu des articles 18 et 25 du décret du 13 mars 2003 relatif à l'agrément des agences de placement ainsi que par ou en vertu du chapitre VIII du présent décret;
+
+5° ne pas concentrer plus de 40 % de son activité à destination d'un seul client ou de plusieurs clients ayant un actionnariat commun;
+
+6° ne pas être partenaires de ses utilisateurs qui peuvent être considérés comme des entreprises liées au sens de l'annexe Ire du Règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aide compatibles avec le marché commun en application des articles 87 et 88 du traité (JOUE 9 août 2008, L. 214/3);
+
+7° ne pas être redevable d'arriérés d'impôts, d'arriérés de cotisations à percevoir par l'Office national de la Sécurité sociale, par un fonds de sécurité d'existence ou pour le compte de celui-ci;
+
+8° être en conformité avec les réglementations sociales, fiscales et commerciales qui lui sont applicables et respecter les conventions collectives de travail applicables.
+
+----------
+
+(1)&lt;DRW 2023-04-06/06, art. 130, 005; En vigueur : 02-11-2023&gt;
+
+#### Art. 5
+
+L'agence de travail intérimaire agréée ou enregistrée soit en Région de Bruxelles-Capitale, soit en Région flamande, soit en Communauté germanophone est dispensée, selon la procédure fixée par le Gouvernement, d'agrément ou d'enregistrement. Néanmoins, elle doit satisfaire aux obligations prévues à l'article 11 du présent décret.
+
+Le Gouvernement peut, selon les modalités qu'il détermine, dispenser l'agence de travail intérimaire de démontrer le respect de ces obligations.
+
+#### Art. 6
+
+L'agence de travail intérimaire qui a son siège [<sup>1</sup> ...]<sup>1</sup> à l'étranger et au sein de l'Espace économique européen et qui est agréée ou enregistrée, selon la procédure fixée par le Gouvernement, soit en Région de Bruxelles-Capitale, soit en Région flamande, soit en Communauté germanophone, est dispensée d'agrément ou d'enregistrement. Néanmoins, elle doit satisfaire aux obligations prévues à l'article 11 du présent décret.
+
+L'agence de travail intérimaire qui a son siège [<sup>1</sup> ...]<sup>1</sup> à l'étranger et au sein de l'Espace économique européen et qui n'est pas agréée ou enregistrée soit en Région de Bruxelles-Capitale, soit en Région flamande, soit en Communauté germanophone, est tenue de démontrer qu'elle respecte, sur son territoire, des conditions équivalentes à celles déterminées par le présent décret.
+
+Le Gouvernement peut, selon les modalités qu'il détermine, dispenser l'agence de travail intérimaire de démontrer le respect des obligations visées aux alinéas 1er et 2.
+
+----------
+
+(1)&lt;DRW 2023-04-06/06, art. 132, 005; En vigueur : 02-11-2023&gt;
+
+#### Art. 7
+
+Pour obtenir l'agrément, l'agence de travail intérimaire qui a son siège [<sup>1</sup> ...]<sup>1</sup>à l'étranger et en dehors de l'Espace économique européen doit, selon la procédure fixée par le Gouvernement, démontrer qu'elle satisfait aux conditions déterminées par le présent décret.
+
+----------
+
+(1)&lt;DRW 2023-04-06/06, art. 133, 005; En vigueur : 02-11-2023&gt;
+
+### Section 2. - Procédure d'octroi de l'agrément préalable
+
+#### Art. 8
+
+§ 1er. L'agrément préalable est octroyé par le Gouvernement, après avis de la Commission consultative et de concertation en matière de placement visée à l'article 14, conformément aux conditions définies dans le présent chapitre.
+
+La demande d'agrément préalable introduite par l'agence de travail intérimaire est accompagnée des documents suivants :
+
+1° les statuts coordonnés de la société ou la date de parution au Moniteur belge de ceux-ci ou le projet d'acte s'il s'agit d'une agence de travail intérimaire en constitution;
+
+2° la liste nominative des administrateurs, associés et des actionnaires majoritaires de la société, la liste des personnes physiques qui sont autorisées à engager l'agence de travail intérimaire à l'égard de tiers ainsi que, le cas échéant, l'organigramme des organes sociaux de l'agence de travail intérimaire;
+
+3° une attestation sur l'honneur signée par la ou les personne(s) habilitée(s) à engager l'agence de travail intérimaire précisant que celle-ci répond aux conditions visées à l'article 4, alinéa 2, 3° et 4°;
+
+4° une copie des derniers comptes annuels ou du plan financier s'il s'agit d'une agence de travail intérimaire en création;
+
+5° la preuve que l'agence de travail intérimaire possède un capital conforme aux dispositions légales ou réglementaires applicables à sa forme juridique;
+
+6° une attestation sur l'honneur dont il ressort que l'agence de travail intérimaire, au moment où elle introduit sa demande, n'est redevable d'aucun arriéré d'impôt, quelle qu'en soit la nature, ou bénéficie d'un plan d'apurement dûment respecté;
+
+7° une attestation sur l'honneur dont il ressort que l'agence de travail intérimaire, au moment où elle introduit sa demande, n'est redevable d'aucun arriéré auprès de l'Office national de la Sécurité sociale ou bénéficie d'un plan d'apurement dûment respecté.
+
+Le Gouvernement détermine la procédure de demande d'agrément et peut dispenser l'agence de travail intérimaire de joindre à sa demande certains documents visés à l'alinéa 2.
+
+Lorsque la demande d'agrément émane d'une agence de travail intérimaire visée aux articles 5 et 6, elle est accompagnée des documents dont il ressort qu'elle répond à des conditions équivalentes à celles déterminées à l'article 4.
+
+Lorsque la demande d'agrément en tant qu'agence de travail intérimaire émane d'une agence de travail intérimaire visée à l'article 7, elle est accompagnée, outre les documents visés à l'alinéa 2, de la preuve par tous moyens de droit qu'elle exerce effectivement des services de travail intérimaire dans son pays d'origine.
+
+§ 2. L'agrément est accordé par le Gouvernement pour une période de deux ans. A l'issue de cette période, l'agrément peut être renouvelé pour une durée indéterminée.
+
+§ 3. Toutes les décisions sont notifiées par les Services du Gouvernement wallon aux demandeurs d'agrément. Toutes les décisions sont, en outre, communiquées par les Services du Gouvernement wallon à la Commission consultative et de concertation en matière de placement visée à l'article 14.
+
+§ 4. La décision d'octroi, de refus ou de renouvellement d'agrément est prise par le Gouvernement dans un délai de quatre-vingt jours, calculé à dater de la réception du dossier complet par les Services du Gouvernement wallon. A défaut, la décision est réputée favorable.
+
+#### Art. 9
+
+En cas de fusion, d'absorption ou de scission de l'agence de travail intérimaire agréée, la nouvelle agence en informe les Services du Gouvernement wallon par tout moyen procurant date certaine dans un délai de trente jours à dater de l'entrée en vigueur de l'une des transformations susvisées.
+
+Dans un délai de trente jours à compter de la réception de cette information, le Gouvernement invite, après avis de la Commission consultative et de concertation en matière de placement visée à l'article 14, l'agence de travail intérimaire agréée à introduire, selon les modalités qu'il détermine, une nouvelle demande d'agrément ou l'en dispense.
+
+L'avis de la Commission est remis dans les trente jours de sa saisine. A défaut d'avoir été remis dans ce délai, il n'est plus requis.
+
+A défaut d'avoir reçu l'invitation visée à l'alinéa 2 dans le délai imparti, l'agence de travail intérimaire est dispensée d'introduire une nouvelle demande et peut poursuivre ses activités.
+
+## CHAPITRE IV. - Obligations à charge de l'agence de placement enregistrée et de l'agence de travail intérimaire agréée
+
+### Section 1re - Obligations à charge de l'agence de placement enregistrée
+
+#### Art. 10
+
+§ 1er. L'agence de placement enregistrée conformément à l'article 3 est tenue de respecter les obligations suivantes :
+
+1° ne pas prester un des services de placement visés à l'article 1er, 8° à 14°, pour lequel elle n'a pas été préalablement enregistrée;
+
+2° ne pas accepter ou demander une quelconque indemnité de la part du travailleur, ni poser au travailleur comme condition à la fourniture de services de placement l'obligation d'effectuer des dépenses de toute nature;
+
+3° ne pas collaborer avec une agence de placement qui ne dispose pas d'un enregistrement conforme au présent décret;
+
+4° annuler son enregistrement dans les trente jours de la cessation de ses activités;
+
+5° [<sup>4</sup> ...]<sup>4</sup>;
+
+[<sup>1</sup> 6° [<sup>3</sup> se conformer au décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination, à la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie, à la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes et la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination ]<sup>3</sup>.]<sup>1</sup>
+
+§ 2. Le Gouvernement peut déterminer, dans l'intérêt des travailleurs concernés ou en vue d'apporter une meilleure adéquation entre l'offre et la demande en matière d'emploi, et après avis du Conseil économique et social de la Région wallonne, les catégories de travailleurs pour lesquelles l'agence de placement enregistrée peut accepter ou demander une quelconque indemnité de la part du travailleur avec son accord préalable formulé par écrit.
+
+Par dérogation au § 1er, 2°, l'agence de placement enregistrée qui fournit des services de recherche d'emploi peut percevoir de la part du travailleur des indemnités, à la condition que celles-ci soient dûment fixées dans une convention conclue entre l'agence de placement enregistrée et le travailleur.
+
+Par dérogation au § 1er, 2°, l'agence de placement d'artistes de spectacle ou de sportifs rémunérés enregistrée peut également percevoir de la part du travailleur, avec son accord préalable formulé par écrit, des indemnités aux conditions suivantes :
+
+1° l'indemnité doit être fixée dans une convention conclue entre l'agence de placement enregistrée et le travailleur, ladite convention devant prévoir une clause de résiliation;
+
+2° le travailleur doit recevoir une copie de cette convention;
+
+3° l'indemnité se calcule sur la base, soit d'un pourcentage du revenu brut total du candidat, soit d'un montant forfaitaire fixé.
+
+§ 3. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 4. [<sup>4</sup> ...]<sup>4</sup>
+
+§ 5. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 6. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 7. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 8. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 9. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 10. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 11. [<sup>4</sup> ...]<sup>4</sup>.
+
+§ 12. [<sup>4</sup> ...]<sup>4</sup>.
+
+----------
+
+(1)&lt;DRW 2014-02-20/15, art. 19bis, 002; En vigueur : 23-03-2014&gt;
+
+(2)&lt;DRW 2023-04-06/06, art. 134, 005; En vigueur : 02-11-2023&gt;
+
+(3)&lt;DRW 2024-04-29/24, art. 10, 006; En vigueur : 27-09-2024&gt;
+
+(4)&lt;DRW 2026-03-26/06, art. 20, 007; En vigueur : 01-04-2026&gt;
+
+#### Art. 10/1.
+
+[<sup>1</sup> . § 1er. L'agence de placement enregistrée refuse toute demande discriminatoire de la part d'un employeur.
+
+L'agence de placement enregistrée signale dans les plus brefs délais, au moyen du formulaire numérique mis en place, toute demande discriminatoire qu'elle reçoit de la part d'un employeur aux inspecteurs visés par le décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations. L'agence de placement enregistrée fournit tous les détails pertinents concernant la demande discriminatoire, y compris les coordonnées de l'employeur, la nature de la discrimination présumée et toute autre information permettant de faciliter l'enquête.
+
+§ 2. L'agence de placement enregistrée qui échoue à un test de situation est présumée avoir pratiqué une discrimination dans ses activités de placement.
+
+Le test de situation est celui visé à l'article 10/1 du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations, à l'article 10/1 du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la reconversion et au recyclage professionnels ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations ou à l'article 42/1 du Code pénal social ]<sup>1</sup>.
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-29/24, art. 11, 006; En vigueur : 27-09-2024&gt;
+
+### Section 2. - Obligations à charge de l'agence de travail intérimaire agréée
+
+#### Art. 11
+
+§ 1er. L'agence de travail intérimaire agréée est tenue, outre les conditions d'agrément visées à l'article 4, de respecter les obligations suivantes :
+
+1° faire mention, dans tout document ayant un caractère contractuel adressé au travailleur, des coordonnées des Services chargés du contrôle et de la surveillance des dispositions du présent décret;
+
+2° faire mention, dans les annonces et dans toute communication, du numéro de l'agrément;
+
+3° ne pas accepter ou demander une quelconque indemnité de la part du travailleur, ni poser au travailleur comme condition à la fourniture de services de travail intérimaire l'obligation d'effectuer des dépenses de toute nature;
+
+4° fournir, à la demande du demandeur d'emploi qui utilise les services de l'agence de travail intérimaire agréée, une attestation mentionnant la date et l'heure de la visite de celui-ci à l'agence de travail intérimaire;
+
+5° assurer une formation adéquate à son personnel et contrôler régulièrement qu'il respecte, notamment, les dispositions suivantes :
+
+a) la présente réglementation;
+
+b) la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination;
+
+c) la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes;
+
+d) le décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination, [<sup>2</sup> ...]<sup>2</sup>;
+
+e) les règles relatives au secret professionnel au sens de l'article 458 du Code pénal;
+
+f) la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;
+
+6° ne pas collaborer avec une agence de travail intérimaire qui ne dispose pas d'un agrément conforme au présent décret;
+
+7° avertir les Services que le Gouvernement désigne de la cessation de ses activités;
+
+8° [<sup>3</sup> ...]<sup>3</sup>;
+
+[<sup>1</sup> 9° le respect de la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination et le décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination.]<sup>1</sup>
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>.
+
+§ 3. [<sup>3</sup> ...]<sup>3</sup>.
+
+§ 4. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 5. [<sup>3</sup> ...]<sup>3</sup>.
+
+----------
+
+(1)&lt;DRW 2014-02-20/15, art. 19ter, 002; En vigueur : 23-03-2014&gt;
+
+(2)&lt;DRW 2024-04-29/24, art. 12, 006; En vigueur : 27-09-2024&gt;
+
+(3)&lt;DRW 2026-03-26/06, art. 21, 007; En vigueur : 01-04-2026&gt;
+
+#### Art. 11/1.
+
+[<sup>1</sup> § 1er. L'agence de travail intérimaire agréée refuse toute demande discriminatoire de la part d'un utilisateur.
+
+L'agence de travail intérimaire agréée signale dans les plus brefs délais, au moyen du formulaire numérique mis en place, toute demande discriminatoire qu'elle reçoit de la part d'un employeur aux inspecteurs visés par le décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations. L'agence de travail intérimaire agréée fournit tous les détails pertinents concernant la demande discriminatoire, y compris les coordonnées de l'utilisateur, la nature de la discrimination présumée et toute autre information permettant de faciliter l'enquête.
+
+§ 2. L'agence de travail intérimaire agréée qui échoue à un test de situation est présumée avoir pratiqué une discrimination dans ses activités de service de travail intérimaire.
+
+Le test de situation est celui visé à l'article 10/1 du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations, à l'article 10/1 du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la reconversion et au recyclage professionnels ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations ou à l'article 42/1 du Code pénal social. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-29/24, art. 13, 006; En vigueur : 27-09-2024&gt;
+
+#### Art. 12
+
+&lt;Abrogé par DRW 2026-03-26/06, art. 22, 007; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE V. - Suspension et retrait de l'enregistrement de l'agence de placement ou de l'agrément de l'agence de travail intérimaire
+
+#### Art. 13
+
+Le Gouvernement peut, après avis de la Commission consultative et de concertation en matière de placement visée à l'article 14, suspendre ou retirer l'enregistrement à l'agence de placement enregistrée qui ne respecte pas les dispositions [<sup>1</sup> des articles 10 et 10/1 ]<sup>1</sup>.
+
+Le Gouvernement peut, après avis de la Commission consultative et de concertation en matière de placement visée à l'article 14, suspendre ou retirer l'agrément à l'agence de travail intérimaire agréée qui ne respecte pas les dispositions établies par ou en vertu du présent décret.
+
+Le Gouvernement peut également suspendre ou retirer l'enregistrement ou l'agrément en cas de cessation temporaire ou définitive de l'un des services de placement visés à l'article 1er, 8° à 14°, ou des services de travail intérimaire visé à l'article 1er, 7°.
+
+Le Gouvernement détermine les procédures de suspension ou de retrait de l'enregistrement ou de l'agrément.
+
+Dès que la suspension ou le retrait de son enregistrement ou de son agrément lui est notifié, l'agence de placement enregistrée ou l'agence de travail intérimaire agréée n'est plus autorisée à prester des services de placement ou de travail intérimaire.
+
+----------
+
+(1)&lt;DRW 2024-04-29/24, art. 14, 006; En vigueur : 27-09-2024&gt;
+
+## CHAPITRE VI. - Commission consultative et de concertation en matière de placement
+
+#### Art. 14
+
+§ 1er. Il est instauré, au sein du Conseil économique et social de la Région wallonne, une Commission consultative et de concertation en matière de placement, ci-après dénommée la "Commission".
+
+[<sup>1</sup> Ce rapport devra également comporter notamment le nombre d'agences de placement et d'agences de travail intérimaire, la répartition géographique des agences de placement et des agences de travail intérimaire, le nombre de suspensions et de retraits de l'enregistrement de l'agence de placement ou de l'agrément de l'agence de travail intérimaire en application de l'article 13 et le nombre de sanctions prises en vertu du chapitre VII du présent décret.]<sup>1</sup>
+
+§ 2. Les missions de la Commission sont les suivantes :
+
+1° remettre des avis motivés concernant l'agrément des agences de travail intérimaire;
+
+2° remettre des avis motivés conformément à l'article 9;
+
+3° remettre des avis motivés, d'initiative ou sur demande du Gouvernement, concernant la suspension ou le retrait de l'agrément des agences de travail intérimaire et l'enregistrement des agences de placement;
+
+4° remettre, d'initiative ou sur demande du Gouvernement, tout avis sur toutes questions relatives au placement en général ou au travail intérimaire;
+
+5° remettre, selon les modalités déterminées par le Gouvernement, annuellement au Gouvernement ainsi qu'au Parlement wallon un rapport d'activités.
+
+§ 3. La Commission est composée comme suit :
+
+1° un Président et un Vice-Président;
+
+2° quatre membres effectifs et autant de suppléants représentant les organisations représentatives des employeurs;
+
+3° quatre membres effectifs et autant de suppléants représentant les organisations représentatives des travailleurs;
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+5° deux membres effectifs et autant de suppléants représentant les Services du Gouvernement wallon.
+
+[<sup>2</sup> En outre, peuvent être invités à assister à la Commission les membres du Gouvernement, ou leurs délégués, afin d'éclairer cette dernière sur une question qui lui est soumise.]<sup>2</sup>
+
+Seuls les membres visés à l'alinéa 1er, 1° à 3°, ont voix délibérative.
+
+Le Gouvernement nomme le Président, le Vice-Président et les membres visés à l'alinéa 1er, 4°, et désigne les membres visés à l'alinéa 1er, 2°, 3°, et 5°, sur proposition des organismes qu'ils représentent.
+
+§ 4. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2014-02-20/15, art. 19quater, 002; En vigueur : 23-03-2014&gt;
+
+(2)&lt;DRW 2018-07-17/03, art. 25, 003; En vigueur : 15-10-2018&gt;
+
+(3)&lt;DRW 2026-03-26/06, art. 23, 007; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE VII. - Contrôle et sanctions
+
+#### Art. 15
+
+[<sup>1</sup> Le contrôle de l'application du présent décret et de ses mesures d'exécution s'exerce conformément aux dispositions du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 147, 004; En vigueur : 01-07-2019&gt;
+
+#### Art. 16
+
+§ 1er. [<sup>1</sup> Sont punis soit d'un emprisonnement de huit jours à un an et d'une amende de 100 euros à 5.000 euros ou de l'une de ces peines seulement, soit d'une amende administrative de 300 à 3.000 euros :]<sup>1</sup>
+
+1° la personne qui exploite une agence de travail intérimaire sans agrément conforme au présent décret;
+
+2° la personne qui exploite une agence de placement sans enregistrement préalable;
+
+3° la personne, titulaire d'un enregistrement, qui exploite une agence de placement et réclame au travailleur des commissions, cotisations, droits d'admission ou d'inscription autres que ceux autorisés par ou en vertu du décret;
+
+4° la personne, titulaire d'un agrément, qui exploite une agence de travail intérimaire et réclame au travailleur des commissions, cotisations, droits d'admission ou d'inscription;
+
+5° la personne qui utilise sciemment des services de travail intérimaire ou des services de placement qui ne respecte pas les règles fixées par le présent décret, que ce soit en nom personnel ou pour le compte d'un commettant ou d'un mandant;
+
+6° la personne, titulaire d'un enregistrement, qui exploite une agence de placement et qui ne respecte pas les obligations prévues par ou en vertu du présent décret;
+
+7° la personne, titulaire d'un agrément, qui exploite une agence de travail intérimaire et qui ne respecte pas les obligations prévues par ou en vertu du présent décret.
+
+§ 2. [<sup>1</sup> Les dispositions du chapitre 9 du décret du 28 février 2019 relatif au contrôle des législations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations s'appliquent aux amendes administratives déterminées par le paragraphe 1er.]<sup>1</sup>
+
+[<sup>2</sup> § 3. L'agence de placement ou l'agence de travail intérimaire, son préposé, ou son mandataire qui, n'a pas dénoncé une demande discriminatoire en contravention avec l'article 10/1, § 1er, alinéa 2, ou avec l'article 11/1, § 1er, alinéa 2, est punie d'une amende administrative de 50 à 500 euros.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 148, 004; En vigueur : 01-07-2019&gt;
+
+(2)&lt;DRW 2024-04-29/24, art. 15, 006; En vigueur : 27-09-2024&gt;
+
+#### Art. 17
+
+En cas de récidive, la peine d'emprisonnement et l'amende visées à l'article 16, § 1er, peuvent être portées au double du maximum.
+
+#### Art. 18
+
+Les personnes responsables juridiquement de l'agence de travail intérimaire ou de l'agence de placement, titulaires ou non d'un agrément ou d'un enregistrement, sont civilement responsables du paiement des amendes pénales ou des amendes administratives auxquelles sont condamnés leurs préposés ou mandataires.
+
+#### Art. 19
+
+Toutes les dispositions du Livre Ier du Code pénal, à l'exception du chapitre V, s'appliquent aux infractions constatées en vertu du présent décret. En cas de récidive, l'article 85 du Code pénal ne sera toutefois pas d'application.
+
+## CHAPITRE VIII. - Dispositions abrogatoires, transitoires et finales
+
+#### Art. 20
+
+L'article 1er, 18° et 32°, de la loi du 30 juin 1971, relative aux amendes administratives applicables en cas d'infraction à certaines lois sociales est abrogé en ce qui concerne les compétences de la Région wallonne et dans le cadre du placement des travailleurs.
+
+#### Art. 21
+
+Les délais prévus dans le présent décret sont comptés comme suit : le jour de l'acte qui est le point de départ du délai n'y est pas compris. Le jour de l'échéance est compté dans le délai.
+
+Toutefois, lorsque ce jour est un samedi, un dimanche ou un jour férié légal, le jour de l'échéance est reporté au plus prochain jour ouvrable.
+
+#### Art. 22
+
+Le décret du 13 mars 2003 relatif à l'agrément des agences de placement est abrogé.
+
+#### Art. 23
+
+L'article 1er du décret du 6 novembre 2008 portant rationalisation de la fonction consultative est complété comme suit :
+
+"- Commission consultative et de concertation en matière de placement;".
+
+#### Art. 24
+
+A l'article 3 de l'arrêté du Gouvernement wallon du 3 juin 2004 portant exécution du décret du 13 mars 2003 relatif à l'agrément des agences de placement sont apportées les modifications suivantes :
+
+1° le liminaire de l'article 3, § 1er, est remplacé par la disposition suivante :
+
+"§ 1er. Dans le respect de l'article 7 du décret, la demande d'agrément préalable introduite par l'agence de placement est accompagnée des documents suivants :";
+
+2° le point 13° du § 1er est abrogé.
+
+#### Art. 25
+
+Les agences de placement qui étaient agréées en vertu du décret du 13 mars 2003 relatif à l'agrément des agences de placement peuvent continuer à exercer leur activité sur le territoire de la Région de langue française après l'entrée en vigueur du présent décret jusqu'à ce qu'elles soient enregistrées ou jusqu'à ce qu'une décision ait été prise sur leur demande d'agrément, à condition de s'enregistrer ou d'introduire la demande d'agrément dans un délai de six mois à dater de l'entrée en vigueur du présent décret.
+
+Néanmoins, les agences de placement qui prestaient des services de travail intérimaire et qui étaient agréées pour une durée indéterminée continuent à bénéficier d'un agrément d'une durée indéterminée dans le cadre du présent décret. Les agences de placement qui prestaient des services de recherche d'emploi, de recrutement et de sélection, d'insertion et d'outplacement et qui étaient agréées à durée indéterminée sont considérées comme enregistrées.
+
+#### Art. 26
+
+Le présent décret entre en vigueur à la date fixée par le Gouvernement et au plus tard le 28 décembre 2009.
+
+(NOTE : Entrée en vigueur fixée au 28-12-2009 par ARW 2009-12-10/11, art.17, à l'exception de l'art. 24)
+
+(NOTE : l'article 24 entre en vigueur au 01-05-2009 par AGW 2009-04-30/23, art. 1)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 3 avril 2009.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances et de l'Equipement,
+
+M. DAERDEN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+Le Ministre de l'Economie, de l'Emploi, du Commerce extérieur et du Patrimoine,
+
+J.-C. MARCOURT
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations extérieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de la Formation,
+
+M. TARABELLA
+
+Le Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+D. DONFUT
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN

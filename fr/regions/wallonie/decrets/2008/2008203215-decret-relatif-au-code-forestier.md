@@ -1,0 +1,1451 @@
+---
+title: "Décret relatif au Code forestier"
+identifier: "2008203215"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/15/2008203215/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2008-07-15
+published: 2008-09-12
+entry_into_force: 2008-09-12
+last_amended: 2026-08-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/15/2008203215/justel"
+department: "Service public de Wallonie"
+justel_note: "Consultation des versions antérieures à partir du 12-09-2008 et mise à jour au 25-08-2026"
+retrieved: 2026-10-12
+---
+
+# 15 JUILLET 2008. - Décret relatif au Code forestier
+
+Le Parlement wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE 1er. - Dispositions générales.
+
+##### Art. 1
+
+Les bois et forêts représentent un patrimoine naturel, économique, social, culturel et paysager. Il convient de garantir leur développement durable en assurant la coexistence harmonieuse de leurs fonctions économiques, écologiques et sociales.
+
+Le développement durable des bois et forêts implique la nécessité d'appliquer de manière équilibrée et appropriée les principes suivants :
+
+1° le maintien et l'amélioration des ressources forestières et leur contribution au cycle du carbone;
+
+2° le maintien de la santé et de la vitalité des écosystèmes forestiers;
+
+3° le maintien et l'encouragement des fonctions de production des bois et forêts;
+
+4° le maintien, la conservation et l'amélioration de la diversité biologique dans les écosystèmes forestiers;
+
+5° le maintien et l'amélioration des fonctions de protection dans la gestion des bois et forêts, notamment le sol et l'eau;
+
+6° le maintien et l'amélioration d'autres bénéfices et conditions socio-économiques.
+
+Le développement durable des bois et forêts implique plus particulièrement le maintien d'un équilibre entre les peuplements résineux et les peuplements feuillus, et la promotion d'une forêt mélangée et d'âges multiples, adaptée aux changements climatiques et capable d'en atténuer certains effets.
+
+##### Art. 2
+
+Le présent Code s'applique aux bois et forêts.
+
+Y sont assimilés :
+
+1° les terrains accessoires des bois et forêts tels que espaces couverts d'habitats naturels, dépôts de bois, gagnages, marais, étangs, coupe-feu;
+
+2° les vergers à graines pour le matériel de reproduction générative, ainsi que les pieds-mères, les parcs à pieds-mères et les explants de base pour le matériel de reproduction végétative.
+
+[<sup>1</sup> 3° les cultures de sapins de Noël en zone forestière.]<sup>1</sup>
+
+Le présent Code ne s'applique pas :
+
+1° aux bois et forêts gérés par l'Etat à des fins militaires ou pénitentiaires;
+
+2° aux bois et forêts situés en zone de parc, en zone d'habitat ou en zone d'habitat à caractère rural au plan de secteur;
+
+3° aux plantations d'alignement et aux rideaux d'arbres ou d'arbrisseaux, d'une largeur maximale de dix mètres, calculée à partir du centre des pieds, en bordure :
+
+a) des voiries terrestres autres que les sentiers et chemins;
+
+b) des voies hydrauliques;
+
+c) des terrains agricoles.
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 200, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 3
+
+Au sens du présent Code il faut entendre par :
+
+1° agent : [<sup>1</sup> [<sup>2</sup> le personnel]<sup>2</sup>, statutaire ou contractuel,]<sup>1</sup> des services du Gouvernement à qui celui-ci reconnaît la qualité d'ingénieur de la nature et des forêts ou de préposé de la nature et des forêts;
+
+2° aire : zone balisée, accessible aux piétons ou affectée soit au stationnement momentané de véhicules, soit à l'exercice de certaines activités récréatives, soit à la résidence temporaire, sans contrepartie financière;
+
+3° arbre de place : arbre élite qui est destiné à faire partie du peuplement final;
+
+4° ayant droit : toute personne qui s'est vu conférer un droit personnel portant sur les bois et forêts par leur propriétaire;
+
+5° balisage : pose pendant une durée de moins de onze jours dans les bois et forêts de signes qui sont destinés à encourager ou à permettre la circulation sur une voie ouverte à la circulation du public ou dans une aire, et pose pendant une durée de plus de dix jours dans les bois et forêts de signes qui sont destinés à encourager ou à permettre la circulation dans une aire;
+
+6° bois et forêts privés : bois et forêts non bénéficiaires du régime forestier;
+
+7° chemin : voie ouverte à la circulation du public, en terre ou empierrée, plus large qu'un sentier, qui n'est pas aménagée pour la circulation des véhicules en général;
+
+8° coupe urgente : coupe destinée à l'enlèvement des chablis ou justifiée par des raisons sanitaires ou de sécurité impératives;
+
+9° explant de base : fragment d'organe ou de tissu prélevé sur un arbre sélectionné et conservé in vitro en vue de multiplications végétatives ultérieures;
+
+10° exploitation : coupe et débardage d'arbres, à l'exclusion des coupes urgentes, ou récolte de produits de la forêt autre qu'un prélèvement, ainsi que leur enlèvement hors de la propriété;
+
+11° forêt domaniale : bois et forêts dont la Région wallonne est propriétaire;
+
+12° matériel de base :
+
+a) source de graines : les arbres situés dans une zone de récolte de graines;
+
+b) peuplement : une population délimitée d'arbres dont la composition est suffisamment uniforme;
+
+c) verger à graines : une plantation isolée ou gérée de manière à prévenir ou à réduire les pollinisations extérieures en vue de récoltes fréquentes et abondantes de graines;
+
+d) clone : un groupe d'individus issu à l'origine d'un individu unique par multiplication végétative, par exemple par bouturage, micropropagation, greffe, marcottage ou division;
+
+e) mélange clonal : un mélange, dans des proportions déterminées de clones identifiés.
+
+13° matériel forestier de reproduction : semences, parties de plantes ou plants destinés à la foresterie;
+
+14° parc à pieds-mères : plantation de clones gérée en vue de produire des récoltes de boutures;
+
+15° paroi : arbre en bordure d'une parcelle et qui en matérialise la limite;
+
+16° pied cornier : arbre marquant le coin d'une parcelle;
+
+17° piéton : toute personne qui circule à pied [<sup>2</sup> ou à laquelle la qualité de piéton est reconnue en vertu des règles de circulation routière]<sup>2</sup>, ainsi que toute personne de mobilité réduite circulant en fauteuil roulant ou tout cycliste âgé de moins de neuf ans;
+
+18° prélèvement : récolte d'une petite quantité de produits de la forêt, effectuée pour les besoins propres de la personne qui y procède ou pour les besoins d'une association scientifique, caritative ou de jeunesse qui y procède, sans but de lucre, ainsi que leur enlèvement hors de la propriété;
+
+19° produits de la forêt : produits provenant des arbres et arbustes, végétations et sols des bois et forêts, à l'exclusion des grumes et houppiers;
+
+20° propriétaire : titulaire d'un droit de propriété ou d'un droit réel démembré emportant la jouissance d'arbres ou de produits de la forêt;
+
+21° récolement : opération de contrôle consistant à recompter le nombre de bois mis en vente après abattage;
+
+22° rémanents : résidus laissés sur place après l'exécution d'une coupe ou d'une opération d'amélioration;
+
+23° résidence temporaire : résidence pendant une période inférieure à quarante-huit heures à l'exception de la résidence dans une caravane ou dans un motor-home;
+
+24° route : voie ouverte à la circulation du public, à revêtement hydrocarboné, bétonnée ou pavée, dont l'assiette est aménagée pour la circulation des véhicules en général;
+
+25° sentier : voie ouverte à la circulation du public, étroite, dont la largeur, inférieure à un mètre, n'excède pas celle nécessaire à la circulation des piétons;
+
+26° surface terrière d'un peuplement : somme des superficies des sections orthogonales des tiges du peuplement à un mètre cinquante du sol;
+
+27° travaux de réaménagement : travaux de remise en état du parterre de l'exploitation et des voies utilisées pour le déplacement des arbres et produits de la forêt à l'occasion de l'exploitation;
+
+28° voie ouverte à la circulation du public : voie publique ou voie dont l'inaccessibilité n'est pas matérialisée sur le terrain par une barrière ou un panneau;
+
+29° voie publique : voie dont l'assiette est publique ou qui fait l'objet d'une servitude publique de passage;
+
+30° volume bois fort tige : volume de la tige principale de l'arbre, jusqu'à la découpe de vingt-deux centimètres de circonférence;
+
+[<sup>2</sup> 31° le véhicule à moteur : le véhicule qui est considéré comme véhicule à moteur en vertu des règles de circulation routière; les engins de déplacement motorisés qui ne sont pas considérés comme des véhicules à moteur sont assimilés à des piétons ou des cyclistes, conformément aux règles établies en matière de circulation routière]<sup>2</sup>;
+
+[<sup>3</sup> 32° phénomènes sanitaires et sinistres forestiers : l'ensemble des phénomènes relevant d'une des deux catégories suivantes :
+
+a) phénomène affectant la santé des forêts : phénomène d'origine biotique, abiotique ou anthropique, qui impacte ou risque sérieusement d'impacter le bon état, la vitalité et la résilience d'une ou de plusieurs composantes biotiques ou abiotiques des bois et forêts, ou leurs fonctions multiples ;
+
+b) de provenance forestière : phénomène d'origine biotique, abiotique ou anthropique, qui trouve son origine dans le milieu forestier et qui impacte ou risque sérieusement d'impacter la santé publique, la sécurité publique, des biens ou des activités économiques, sans nécessairement affecter le fonctionnement de l'écosystème forestier ou les fonctions des bois et forêts ;
+
+33° crise sanitaire : situation exceptionnelle caractérisée par la survenance ou la menace sérieuse et imminente de survenance d'un phénomène sanitaire ou sinistre forestier qui, par son intensité, son caractère imprévisible, son extension géographique, sa rapidité d'évolution, sa durée ou son caractère cumulatif, dépasse les capacités normales de gestion ou de prévention des acteurs concernés, et présente un risque grave pour le fonctionnement et la santé des écosystèmes forestiers, ou pour la santé publique, la sécurité publique, les biens ou les activités économiques]<sup>3</sup>.
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 101, 002; En vigueur : 04-12-2011&gt;
+
+(2)&lt;DRW 2018-07-17/04, art. 201, 004; En vigueur : 18-10-2018&gt;
+
+(3)&lt;DRW 2026-07-16/31, art. 1, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 4
+
+Pour l'application du présent Code, le jour de réception de l'acte, qui est le point de départ d'un délai n'y est pas inclus.
+
+Le jour de l'échéance est compté dans le délai. Toutefois, lorsque ce jour est un samedi, un dimanche ou un jour férié légal, le jour de l'échéance est reporté au jour ouvrable suivant.
+
+##### Art. 5
+
+Un recours contre les décisions de l'agent désigné comme tel par le Gouvernement prévues aux articles 20, alinéa 2, 21, alinéa 2, 22, alinéas 2 et 3, 25, alinéa 1er, 26, alinéa 4, 38, paragraphe 3, alinéas 1er et 2, 43, alinéa 2, 62 et 66, alinéa 1er est ouvert auprès du Gouvernement au demandeur.
+
+Un recours contre les décisions de l'agent désigné comme tel par le Gouvernement prévues à l'article 26, alinéa 8, 39, alinéa 2, 67 et 69, alinéa 2, est ouvert auprès du Gouvernement à la personne qui s'est vue notifiée la décision.
+
+Sous peine d'irrecevabilité, le recours visé aux alinéas 1er et 2 est motivé et est envoyé à l'administration de la nature et des forêts dans les quinze jours de la réception de l'acte par lettre recommandée avec accusé de réception.
+
+Le Gouvernement envoie sa décision au requérant par lettre recommandée avec accusé de réception dans un délai de trente jours qui court à dater du premier jour qui suit la réception du recours. A défaut de l'envoi de la décision endéans ce délai, la décision de l'agent désigné comme tel par le Gouvernement est confirmée.
+
+Le délai pour former recours et le recours ne sont pas suspensifs de la décision de l'agent désigné comme tel par le Gouvernement.
+
+## TITRE 2. [<sup>1</sup> - Pôle "Ruralité", section "Forêt et Filière bois"]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 53, 003; En vigueur : 04-07-2017&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Le pôle "Ruralité", section "Forêt et Filière bois", visé à l'article 2/6, §§ 1er, 2 et 6, du décret du 6 novembre 2008 portant rationalisation de la fonction consultative, est chargé des missions qui lui sont attribuées par ou en vertu du présent Code.
+
+Il a en outre pour mission de donner un avis, d'initiative ou à la demande du Gouvernement, sur toutes les questions d'intérêt général relatives aux bois et forêts et à la filière bois]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 53, 003; En vigueur : 04-07-2017&gt;
+
+## TITRE 3. - Dispositions communes à l'ensemble des bois et forêts.
+
+### CHAPITRE Ier. - Du plan quinquennal de recherches forestières.
+
+##### Art. 7
+
+Le Gouvernement adopte, après avis du [<sup>1</sup> pôle "Ruralité", section "Forêt et Filière bois"]<sup>1</sup>, un plan quinquennal de recherches forestières qui définit les lignes directrices des recherches, à réaliser ou à faire réaliser par lui, pour assurer ou promouvoir les objectifs visés à l'article 1er.
+
+Le plan est proposé par le Ministère de la Région wallonne.
+
+Il le communique au Parlement wallon et le publie au Moniteur belge.
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 53, 003; En vigueur : 04-07-2017&gt;
+
+### CHAPITRE II. - De la cellule d'inventaire permanent des ressources forestières.
+
+##### Art. 8
+
+Une cellule d'inventaire permanent des ressources forestières est maintenue au sein du Ministère de la Région wallonne afin de récolter et de mettre à disposition des données relatives à l'état ainsi qu'à l'évolution de paramètres quantitatifs et qualitatifs portant sur la production ligneuse, la santé des peuplements, la biodiversité et les conditions écologiques du milieu :
+
+1° des bois et forêts, y compris ceux situés dans les zones exclues du champ d'application du présent Code par l'article 2, alinéa 3, 2° et 3°;
+
+2° des ressources forestières situées en dehors des bois et forêts.
+
+##### Art. 9
+
+Il est institué un comité d'accompagnement chargé de proposer au Gouvernement la nature des données à récolter, les modalités de cette récolte, ainsi que les types de résultats à fournir, les modalités de leur diffusion et les actions éventuelles à mener.
+
+Le comité organise la diffusion des résultats et veille, notamment, à la confidentialité des données recueillies.
+
+Le comité comprend des délégués des acteurs de la filière bois, des facultés universitaires situées sur le territoire de la Région wallonne organisant la formation des ingénieurs dans le domaine de la nature et des forêts, des administrations concernées et des associations de protection de l'environnement. Le Gouvernement en détermine la composition et le mode de fonctionnement.
+
+##### Art. 10
+
+Le Gouvernement arrête la nature des données à récolter et les modalités de cette récolte, ainsi que les résultats à fournir et les modalités de leur diffusion. Les agents désignés comme tels par le Gouvernement sont autorisés à pénétrer dans les bois et forêts des propriétaires tant publics que privés, pour y procéder aux opérations nécessaires, du lever au coucher du soleil et moyennant information préalable du propriétaire au plus tard une semaine à l'avance.
+
+Ces opérations consistent à collecter et à traiter des données administratives, des mesures de natures topographiques, dendrométriques et sylvicoles relatives au matériel ligneux ainsi que des observations pédologiques, phytosociologiques, phytosanitaires et relatives à la biodiversité.
+
+Les agents désignés comme tels par le Gouvernement sont autorisés à enquêter auprès des propriétaires afin de réunir les informations de nature technique et sylvicole ainsi que celles relatives à la structure des propriétés, nécessaires à l'objectif du présent chapitre. [<sup>1</sup> Pour faciliter la réalisation de leur mission, ils peuvent consulter des données cadastrales.]<sup>1</sup>
+
+Les propriétaires sollicités sont tenus de fournir les renseignements demandés.
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 202, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 11
+
+Les renseignements individuels recueillis en application de l'article 10 ne peuvent être utilisés à d'autres fins que celles en vue desquelles la cellule est maintenue. Celle-ci ne peut divulguer des données de nature à révéler des situations individuelles.
+
+### CHAPITRE III. - De la génétique forestière.
+
+##### Art. 12
+
+Le Gouvernement fixe la procédure d'agrément et de contrôle du matériel de base pour la production du matériel forestier de reproduction.
+
+Il organise le contrôle de qualité et d'origine du matériel de reproduction mis sur le marché ainsi que sa commercialisation.
+
+### CHAPITRE IV. - De la circulation du public dans les bois et forêts.
+
+#### Section 1re. - Dispositions générales.
+
+##### Art. 13
+
+Le présent chapitre réglemente la circulation dans les bois et forêts et sur les voies ouvertes à la circulation du public qui les traversent, à l'exclusion :
+
+1° des routes, autres que les routes de remembrement, qui permettent aisément le croisement de deux véhicules automobiles sur toute leur longueur;
+
+2° des réserves naturelles et forestières, sauf en ce qui concerne les routes, chemins et sentiers;
+
+3° des voiries constituant le Réseau autonome des voies lentes.
+
+##### Art. 14
+
+Le Gouvernement peut temporairement limiter ou interdire la circulation en cas de risque d'incendie, de menace pour la faune et la flore, de risque de perturbation significative de la quiétude de la faune, ou pour des raisons d'ordre sanitaire ou liées à la sécurité des personnes. Il fixe les modalités de limitation et d'interdiction de la circulation.
+
+##### Art. 14bis
+
+[<sup>1</sup> Pour toute action de chasse en battue, les titulaires du droit de chasse concernés informent le public selon les modalités fixées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 203, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 15
+
+Pour toute action de chasse en battue, la circulation dans les bois et forêts est interdite aux jours et aux endroits où cette action présente un danger pour la sécurité des personnes et selon les modalités fixées par le Gouvernement.
+
+##### Art. 16
+
+Le Gouvernement peut déterminer, dans un but de conservation de la nature, ou de protection du sol, les conditions techniques auxquelles doivent répondre les véhicules automobiles et engins autorisés à circuler dans les bois et forêts hors des voies ouvertes à la circulation du public ainsi que leurs conditions d'utilisation.
+
+##### Art. 17
+
+Sans préjudice des articles 14 et 15, il est interdit de dissuader la circulation sur les voies publiques qui traversent les bois et forêts, par la pose de panneau, d'entrave, d'enseigne, de signe ou d'affiche.
+
+#### Section 2. - Dispositions particulières à certains modes de locomotion ou à certaines activités.
+
+##### Art. 18
+
+Les chiens et autres animaux de compagnie doivent être tenus en laisse.
+
+##### Art. 19
+
+Sans préjudice de l'article 27, la résidence temporaire est interdite en dehors des aires affectées à cet effet.
+
+##### Art. 20
+
+Sans préjudice de l'article 27, l'accès des piétons est interdit en dehors des routes, chemins, sentiers et aires.
+
+L'accès des piétons peut être autorisé par l'agent désigné comme tel par le Gouvernement aux conditions que cet agent détermine pour des raisons médicales, pédagogiques, scientifiques, culturelles ou de conservation de la nature.
+
+##### Art. 21
+
+Sans préjudice des articles 27 et 28, l'accès des cyclistes, skieurs et conducteurs d'animaux de trait, de charge, de monture ou d'élevage est interdit en dehors :
+
+1° des routes;
+
+2° des chemins;
+
+3° des sentiers balisés à cet usage conformément à l'article 26, alinéa 4;
+
+4° des aires affectées à cet usage;
+
+5° des itinéraires permanents soumis aux obligations que prescrivent le décret du 1er avril 2004 relatif aux itinéraires touristiques balisés, aux cartes de promenades et aux descriptifs de promenades, ou les dispositions équivalentes en Communauté germanophone.
+
+L'accès des cyclistes, skieurs et conducteurs d'animaux de trait, de charge, de monture ou d'élevage aux sentiers et aux aires non visés à l'alinéa 1er, peut être autorisé par l'agent désigné comme tel par le Gouvernement, aux conditions que cet agent détermine, pour des raisons médicales, pédagogiques, scientifiques, culturelles, ou de conservation de la nature.
+
+##### Art. 22
+
+Sans préjudice des articles 27 et 28, l'accès des véhicules à moteur est interdit en dehors :
+
+1° des routes;
+
+2° des chemins balisés à cet usage conformément à l'article 26, alinéa 4;
+
+3° des sentiers balisés à cet usage, conformément à l'article 26, alinéa 4;
+
+4° des aires affectées à cet usage.
+
+L'interdiction visée à alinéa précédent ne s'applique pas aux véhicules à moteur utilisés par des personnes à mobilité réduite [<sup>1</sup> ...]<sup>1</sup>.
+
+L'accès des véhicules à moteur aux aires, chemins et sentiers non visés à l'alinéa 1er, peut être autorisé par l'agent désigné comme tel par le Gouvernement aux conditions que cet agent détermine, pour des raisons médicales, pédagogiques, scientifiques, culturelles, ou de conservation de la nature.
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 204, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 23
+
+Sans préjudice de l'alinéa 2, les articles 18 à 22 ne s'appliquent pas au propriétaire, à ses ayants droit dans les limites de ce que requiert l'exercice des droits qui leur ont été conférés, ainsi qu'à l'autorité gestionnaire de la voie publique et à ses ayants droit, aux agents désignés en application de l'article 10 et aux fonctionnaires et agents chargés de rechercher et de constater les infractions.
+
+Dans les bois et forêts des personnes morales de droit public, la décision du propriétaire ou de l'autorité gestionnaire de laisser circuler les ayants droit en vue d'exercer des activités de sports moteurs non soumises à permis d'environnement, hors des voies et des aires sur lesquelles ils sont autorisés à circuler en vertu de l'article 22 est soumise à l'approbation du Gouvernement.
+
+##### Art. 24
+
+Pour l'accès aux propriétés qui ne sont pas desservies par une voie appropriée, les articles 20 à 22 ne s'appliquent pas au propriétaire, ni à ses ayants droit dans les limites de ce que requiert l'exercice des droits qui leur ont été conférés, pour autant que l'accès s'effectue par la voie la moins dommageable et la plus directe.
+
+#### Section 3. - Dispositions particulières aux balisages, aux balises, aux aires et aux zones délimitées accessibles aux activités de jeunesse et aux mouvements encadrés à vocation pédagogique ou thérapeutique.
+
+##### Art. 25
+
+L'affectation et le balisage de l'aire sont soumis à l'autorisation de l'agent désigné comme tel par le Gouvernement qui vérifie que l'accord préalable du propriétaire a été donné.
+
+Le Gouvernement définit les modalités et les conditions générales de l'affectation et du balisage de l'aire.
+
+##### Art. 26
+
+Le Gouvernement définit les modalités et les conditions générales du balisage des sentiers, chemins et routes. Il peut interdire et limiter le balisage visé à l'alinéa 4 aux périodes et dans les lieux qu'il détermine.
+
+Tout balisage à l'exception du balisage réalisé avec un matériau directement prélevé dans la nature ou avec un matériau à base de calcium dilué rapidement par la pluie est soumis à l'accord préalable du propriétaire ou de l'autorité gestionnaire de la voie publique.
+
+Le balisage des sentiers, chemins et routes est soumis à notification à l'agent désigné comme tel par le Gouvernement, à l'exception du balisage visé à l'alinéa 4.
+
+Sont soumis à l'autorisation de l'agent désigné comme tel par le Gouvernement :
+
+1° le balisage d'un sentier ou d'un chemin qui permet la circulation des véhicules à moteurs;
+
+2° le balisage d'un sentier qui permet la circulation des usagers visés à l'article 21, alinéa 1er.
+
+Le balisage d'un sentier ou d'un chemin qui permet l'accès des véhicules à moteur ne peut en tout cas être autorisé qu'en vue de permettre la circulation en dehors des jours fériés, des dimanches et des mercredis après-midi et pour des activités rassemblant au maximum trois cents personnes.
+
+Le Gouvernement peut déroger à l'alinéa 5 pour des organismes de renommée internationale qu'il énumère et dont il fixe le nombre maximal d'activités par année civile.
+
+Sans préjudice des alinéas 5 et 6, l'autorisation détermine, sur la base des conditions générales fixées par le Gouvernement, la personne ou le groupe de personnes bénéficiant de cette autorisation, le nombre de personnes pouvant circuler, les conditions d'utilisation et la caution ou la garantie à constituer par le bénéficiaire de l'autorisation afin de couvrir d'éventuels dégâts au profit du propriétaire.
+
+L'autorisation est susceptible d'être retirée en cas d'urgence ou d'abus, par l'agent désigné comme tel par le Gouvernement.
+
+##### Art. 27
+
+Les participants aux activités de jeunesse organisées soit par des mouvements de jeunesse, soit par des associations organisant des activités destinées aux jeunes, et les participants aux mouvements encadrés à vocation pédagogique ou thérapeutique ont accès aux zones délimitées des bois et forêts des personnes morales de droit public en fonction de l'article 57, alinéa 2, 7°, aux conditions que le Gouvernement détermine et aux éventuelles conditions complémentaires fixées par le propriétaire.
+
+##### Art. 28
+
+Pour la pose, l'entretien et l'enlèvement des balises des itinéraires permanents soumis aux obligations que prescrivent le décret du 1er avril 2004 relatif aux itinéraires touristiques balisés, aux cartes de promenades et aux descriptifs de promenades ou les dispositions équivalentes en Communauté germanophone, et du balisage des aires, des sentiers et des chemins, tout moyen de locomotion peut être autorisé aux conditions générales fixées par le Gouvernement.
+
+##### Art. 29
+
+Il est interdit d'enlever, de détruire ou de détériorer volontairement de quelque façon que ce soit des balises.
+
+### CHAPITRE V. - Des subventions.
+
+##### Art. 30
+
+Le Gouvernement peut, aux conditions qu'il détermine, allouer des subventions aux personnes de droit public et de droit privé en vue de favoriser [<sup>1</sup> ou de compenser]<sup>1</sup> dans les bois et forêts :
+
+1° [<sup>1</sup> les mesures et travaux]<sup>1</sup> forestiers visant à l'amélioration du patrimoine, tels que : boisement, reboisement, conversion, transformation et enrichissement de peuplements, dépressage, dégagement, protection contre le gibier, restauration de l'état sanitaire, élagage, éclaircie, création et amélioration des infrastructures facilitant l'exploitation forestière, notamment les voiries, les zones de dépôt de bois, les franchissements des cours d'eau;
+
+2° [<sup>1</sup> les mesures et travaux]<sup>1</sup> destinés à développer leur ouverture au public et leur aménagement récréatif et touristique;
+
+3° [<sup>1</sup> les mesures et travaux]<sup>1</sup> destinés à les protéger, les maintenir ou les restaurer [<sup>1</sup> , ou à maintenir ou augmenter leur résilience face aux phénomènes sanitaires et sinistres forestiers et au changement climatique]<sup>1</sup>;
+
+4° [<sup>1</sup> les mesures et travaux]<sup>1</sup> destinés au maintien ou au développement de la biodiversité;
+
+5° le groupement ou le regroupement, en gestion ou en propriété;
+
+[<sup>1</sup> 6° les mesures et travaux destinés au maintien ou au développement du rôle des bois et forêts dans le cadre de la lutte contre les changements climatiques et leurs conséquences ;
+
+7° les mesures et travaux destinés à faciliter la lutte contre les incendies ou à en minimiser les conséquences]<sup>1</sup>.
+
+Le Gouvernement peut également, aux conditions qu'il détermine, allouer des subventions aux personnes de droit public et de droit privé en vue de mener les activités de recherches en exécution du plan quinquennal visé à l'article 7, ainsi que les activités de formation et de sensibilisation aux différentes fonctions des bois et forêts.
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 2, 010; En vigueur : 04-09-2026&gt;
+
+### CHAPITRE VI. - De la conservation des bois et forêts.
+
+##### Art. 31
+
+Lorsque le Gouvernement constate un risque d'une modification significative de l'équilibre, à l'échelle de la Région wallonne, entre les surfaces des peuplements feuillus et des peuplements résineux, il prend les mesures suivantes :
+
+1° il alloue des subventions, aux conditions qu'il détermine, aux personnes de droit public et de droit privé;
+
+2° il limite par des dispositions générales les conditions d'octroi de la dérogation prévue à l'article 38, § 3, alinéa 2;
+
+3° il précise et complète par des dispositions générales le contenu du plan d'aménagement.
+
+##### Art. 32
+
+Il est interdit d'abattre, d'enlever ou d'arracher des arbres sans l'autorisation du propriétaire.
+
+##### Art. 33
+
+Sans préjudice de l'article 49, § 2, il est interdit d'élaguer des arbres sans l'autorisation du propriétaire.
+
+##### Art. 34
+
+Il est interdit d'éhouper, d'écorcer, de mutiler ou de faire périr des arbres sans l'autorisation du propriétaire.
+
+Il est interdit de saigner des arbres ou d'en enlever la sève, sans l'autorisation du propriétaire.
+
+##### Art. 35
+
+Sans motif légitime, il est interdit d'accomplir tout acte de nature à, de manière significative, perturber la quiétude qui règne dans les bois et forêts, déranger le comportement des animaux sauvages ou nuire aux interactions entre les êtres vivants, animaux et végétaux et leur environnement naturel.
+
+##### Art. 36
+
+Le Gouvernement peut, dans des circonstances exceptionnelles et pour une période déterminée, prendre toutes les mesures nécessaires en vue de protéger les écosystèmes contre des organismes vivants ou des phénomènes naturels ou résultants d'activités humaines.
+
+##### Art. 37
+
+L'exploitant notifie à la commune concernée au plus tard deux jours ouvrables avant le début des opérations de débardage et de transport, les voies communales qui seront utilisées pour ces opérations jusqu'à ce que soit atteinte une route qui permette aisément le croisement de deux véhicules automobiles sur toute sa longueur.
+
+La commune ou l'exploitant peut demander l'établissement d'un état des lieux contradictoire.
+
+##### Art. 38
+
+§ 1er. Est interdite dans les bois et forêts toute coupe de plus de cinq hectares dans les peuplements présentant une surface terrière de plus de cinquante pour cent de résineux, ainsi que toute coupe de plus de trois hectares dans les peuplements présentant une surface terrière de plus de cinquante pour cent de feuillus.
+
+Les superficies visées à l'alinéa 1er s'entendent d'un seul tenant et appartenant à un même propriétaire. Sont considérés comme étant d'une superficie d'un seul tenant les espaces appartenant à un même propriétaire séparés, en l'un de leurs points, de moins de cinquante mètres.
+
+L'interdiction visée à l'alinéa 1er s'applique à toute coupe qui ne laisse pas, pour chaque hectare, un volume bois fort tige du matériel ligneux d'au moins septante-cinq mètres cubes dans les futaies et d'au moins vingt-cinq mètres cubes dans les taillis sous futaie.
+
+§ 2. Est interdite dans les bois et forêts, toute coupe nouvelle, distante, en l'un de ses points, de moins de cinquante mètres d'une coupe antérieure vieille de moins de trois ans entamée après l'entrée en vigueur du présent Code dont les effets cumulés avec cette coupe antérieure aboutiraient, sur les biens d'un même propriétaire, aux effets d'une coupe visée au paragraphe § 1er.
+
+Pour l'application de l'alinéa 1er, il est pris en considération le statut de propriété existant au moment de la coupe antérieure vieille de moins de trois ans.
+
+§ 3. Par dérogation aux paragraphes 1er et 2, les coupes urgentes de résineux et de feuillus, sur une surface supérieure respectivement à cinq hectares et à trois hectares, peuvent être autorisées par l'agent désigné comme tel par le Gouvernement, selon les modalités qui peuvent être fixées par le Gouvernement.
+
+Par dérogation aux paragraphes 1er et 2, les coupes non urgentes de résineux et de feuillus sur une surface supérieure respectivement à cinq hectares et à trois hectares peuvent être autorisées par l'agent désigné comme tel par le Gouvernement, selon les modalités et aux conditions fixées par le Gouvernement. La demande d'autorisation contient un document simple de gestion d'une durée de validité qui ne peut être inférieure à vingt ans et dont le contenu est fixé par le Gouvernement, ainsi que l'engagement du propriétaire à le respecter.
+
+##### Art. 39
+
+Lorsqu'une coupe interdite par l'article 38 est commencée ou sur le point d'être commencée, l'agent désigné comme tel par le Gouvernement peut ordonner verbalement et sur place l'interruption ou l'interdiction de la coupe.
+
+L'ordre doit, sous peine de péremption, être confirmé par écrit dans les cinq jours et être notifié par lettre recommandée avec accusé de réception au propriétaire concerné.
+
+##### Art. 40
+
+A l'exception des régénérations artificielles le long d'allées ou sur des surfaces inférieures à cinquante ares d'un seul tenant par tranche de cinq hectares de bois et forêts d'un même propriétaire, toute régénération artificielle au moyen d'essences qui ne sont pas en conditions optimales ou tolérées, selon le fichier écologique des essences édité par le Gouvernement, est interdite, sauf dérogation arrêtée par le Gouvernement.
+
+##### Art. 41
+
+Le Gouvernement peut fixer les conditions d'épandage des amendements et des fertilisants du sol.
+
+##### Art. 42
+
+Toute utilisation d'herbicides, fongicides et insecticides est interdite, sauf les exceptions fixées par le Gouvernement.
+
+##### Art. 43
+
+Pour toute nouvelle régénération, il est interdit de drainer ou d'entretenir un drain sur une bande de vingt-cinq mètres de part et d'autre des cours d'eau, à moins de vingt-cinq mètres autour des sources et des zones de suintement, à moins de cent mètres autour des puits de captage, à moins de cent mètres autour des lacs de barrage et dans les sols tourbeux, paratourbeux et hydromorphes à nappe permanente, tels que déterminés par la carte pédologique de Wallonie.
+
+Sur les sols tourbeux, paratourbeux et hydromorphes à nappe permanente, les plantations de peupliers peuvent être drainées moyennant l'autorisation préalable de l'agent désigné comme tel par le Gouvernement.
+
+##### Art. 44
+
+Il est interdit de brûler des rémanents durant toute l'année, sauf sur des surfaces inférieures à cinquante ares, sur les pentes supérieures à dix pour cent et dans les cas et aux conditions fixées par le Gouvernement.
+
+##### Art. 44 DROIT FUTUR.
+
+Il est interdit de brûler des rémanents durant toute l'année, sauf [<sup>1</sup> ...]<sup>1</sup> dans les cas et aux conditions fixées par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 3, 010; En vigueur : 01-01-2028&gt;
+
+##### Art. 45
+
+Sans préjudice de l'article 44, il est interdit de porter et d'allumer du feu, sauf dans les zones spécialement aménagées à cet effet et sauf dans le cadre d'une activité [<sup>1</sup> sylvicole, cynégétique ou de lutte sanitaire]<sup>1</sup>.
+
+Le Gouvernement peut interdire de porter ou d'allumer du feu dans les cas où il reconnaît l'urgence ou la nécessité.
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 4, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 46
+
+Il est interdit d'occasionner des dégâts au sol provoquant une altération prolongée de celui-ci. Le Gouvernement détermine les dégâts au sol concernés par l'interdiction.
+
+##### Art. 47
+
+Le Gouvernement peut imposer l'utilisation d'huile [<sup>1</sup> biodégradable ou]<sup>1</sup> végétale pour les tronçonneuses et les engins d'exploitation dans les cas qu'il détermine.
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 205, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 48
+
+Il ne peut être établi aucune nouvelle concession de droit d'usage, de quelque nature et sous quelque prétexte que ce soit.
+
+Les bois et forêts peuvent être affranchis de tout droit d'usage, moyennant le commun accord du propriétaire et des usagers.
+
+L'exercice des droits d'usage peut toujours être réduit, suivant l'état et la possibilité des bois et forêts, conformément aux dispositions arrêtées par le Gouvernement.
+
+##### Art. 49
+
+§ 1er. Il n'est permis de planter des arbres à haute tige qu'à la distance consacrée par les usages constants et reconnus, et, à défaut d'usages, qu'à la distance de deux mètres de la ligne séparative de deux héritages pour les arbres à haute tige.
+
+Le voisin peut exiger que les arbres plantés à une distance moindre que la distance légale soient arrachés.
+
+§ 2. Celui sur la propriété duquel avancent les branches des arbres du voisin peut contraindre celui-ci à couper ces branches.
+
+Si ce sont les racines qui avancent sur son héritage, il a le droit de les y couper lui-même.
+
+Le présent paragraphe n'est applicable qu'aux arbres de lisière des bois et forêts.
+
+##### Art. 50
+
+Aucun prélèvement de produits de la forêt ne peut avoir lieu sans le consentement du propriétaire et sans respecter les conditions générales qui peuvent être arrêtées par le Gouvernement.
+
+##### Art. 51
+
+Le Gouvernement peut organiser un régime d'agrément des acheteurs, exploitants de coupe ou de produits de la forêt et entrepreneurs de travaux forestiers. Le régime d'agrément est indicatif.
+
+Le Gouvernement arrête la procédure de délivrance de l'agrément et les conditions de son octroi et de son retrait, et organise la diffusion de la liste des personnes agréées.
+
+### Chapitre VII [<sup>1</sup> Des phénomènes sanitaires et sinistres forestiers]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/31, art. 5, 010; En vigueur : 04-09-2026&gt;
+
+#### Section 1e [<sup>1</sup> De la surveillance, de la détection, du suivi, de la gestion préventive et de l'atténuation des phénomènes sanitaires et sinistres forestiers]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/31, art. 6, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 51/1.
+
+[<sup>1</sup> § 1er. Un Observatoire de la Santé des Forêts est institué au sein du Service public de Wallonie afin de :
+
+1° surveiller l'état sanitaire des forêts ;
+
+2° détecter et suivre l'évolution des phénomènes sanitaires et sinistres forestiers de tout ordre ;
+
+3° collecter les données permettant de les documenter ;
+
+4° informer et appuyer les acteurs du monde forestier en les conseillant quant à la gestion préventive et aux mesures à mettre en oeuvre pour atténuer les conséquences dommageables de ces phénomènes.
+
+L'Observatoire adresse annuellement un rapport d'activités au Parlement de Wallonie et au ministre qui a les forêts dans ses attributions.
+
+Le Gouvernement peut désigner des correspondants observateurs au sein des agents contractuels et statutaires du DNF en qualité de correspondant observateur pour les bois et forêts bénéficiant du régime forestier afin de :
+
+1° surveiller l'état sanitaire des forêts ;
+
+2° détecter et suivre l'évolution des phénomènes sanitaires et sinistres forestiers de tout ordre ;
+
+3° collecter les données permettant de les documenter ;
+
+4° informer l'Observatoire de la Santé des Forêts.
+
+§ 2. Le personnel statutaire ou contractuel de l'Observatoire de la santé des forêts est autorisé à pénétrer dans les bois et forêts des propriétaires tant publics que privés non constitutifs d'un domicile, y compris ceux situés dans les zones exclues par l'article 2, alinéa 3, 2° et 3°, pour y procéder aux opérations nécessaires à la détection et au suivi des phénomènes sanitaires et sinistres forestiers, de 8h à 18h.
+
+Ce droit d'accès est exercé dans le cadre exclusif des missions visées au paragraphe 1er.
+
+Cet accès est conditionné à l'information préalable du propriétaire au plus tard une semaine à l'avance, sauf circonstances de force majeure ou raisons impérieuses dûment justifiées, ou suspicion sérieuse d'un phénomène sanitaire ou sinistre forestier dont l'évolution pourrait être très rapide et qui risquerait d'occasionner des dommages importants si ce délai n'était pas respecté. Dans ce cas, l'information a lieu dans les meilleurs délais possibles, sauf impossibilité étayée par des éléments probants. L'envoi au propriétaire privé d'un compte rendu conforme à l'article 94 est impératif en toutes circonstances après la visite.
+
+L'Observatoire wallon des Forêts informe le titulaire du droit de chasse si celui-ci n'est pas exercé par le propriétaire.
+
+Les opérations nécessaires à la détection et au suivi des phénomènes sanitaires et sinistres forestiers comportent l'observation, l'établissement de reportages photographiques et la prise de mesures ou d'échantillons.
+
+§ 3. Pour permettre l'identification du propriétaire d'une parcelle concernée par un phénomène sanitaire ou sinistre forestier, ainsi que l'envoi de l'information préalable à toute visite, l'envoi du compte rendu, et la communication éventuelle de conseils de prévention ou de gestion, les agents visés au paragraphe 2 sont autorisés à consulter les données du registre cadastral permettant de connaître le nom du propriétaire et son numéro de registre national, et les données du registre national permettant d'associer ce nom et ce numéro à une adresse de contact.
+
+Si cette démarche ne permet pas d'identifier le propriétaire avec suffisamment de certitude, ou en cas d'urgence justifiée par des raisons impérieuses, les agents visés au paragraphe 2 peuvent interroger la commune, les voisins ou l'occupant.
+
+Le cas échéant, pour identifier le titulaire du droit de chasse, les agents visés au paragraphe 2 peuvent interroger le propriétaire, la commune, le voisin, ou l'occupant.
+
+Le traitement des données personnelles récoltées en application du présent paragraphe relève de l'Observatoire de la santé des forêts. Les données sont conservées jusqu'à l'envoi du compte rendu et des conseils éventuels, et ne peuvent être utilisées à d'autres fins que celles énoncées à l'alinéa 1er.
+
+§ 4. Les données scientifiques récoltées sur les parcelles visitées sont utilisées pour le suivi des phénomènes sanitaires et sinistres forestiers wallons, notamment leur évolution dans le temps et sur le territoire de la Wallonie. Elles peuvent faire l'objet d'un traitement ultérieur à des fins historiques, statistiques ou scientifiques.
+
+Les données scientifiques récoltées sur les parcelles visitées servent également à :
+
+1° élaborer une politique de gestion préventive ou d'atténuation des risques propre à chaque phénomène sanitaire ou sinistre forestier identifié ;
+
+2° avertir le Gouvernement en cas d'imminence ou de survenance d'une crise sanitaire ;
+
+3° élaborer une politique de gestion de crise en cas de crise sanitaire avérée, propre au phénomène sanitaire ou au sinistre forestier observé.
+
+Aucune donnée de nature à révéler des situations individuelles, comme des données de géolocalisation précises des parcelles concernées, ne peut être divulguée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/31, art. 7, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 51/2.
+
+[<sup>1</sup> § 1er. Le Gouvernement peut définir des mesures de prévention, d'atténuation des risques ou de gestion courante des phénomènes sanitaires et sinistres forestiers identifiés :
+
+1° la surveillance périodique des peuplements et le signalement aux agents de toute observation anormale ;
+
+2° le respect de mesures d'hygiène et de mesures de biosécurité ;
+
+3° le respect de mesures imposées par une réglementation européenne ;
+
+4° toute autre mesure pertinente et proportionnée au regard du risque identifié et de sa prévalence.
+
+En cas d'absence de mise en oeuvre ou de refus manifeste d'exécution des mesures visées à l'alinéa 1er, le Gouvernement peut imposer leur exécution aux propriétaires publics et privés ainsi qu'à tout ayant-droit.
+
+Les mesures peuvent concerner l'ensemble du territoire wallon ou une partie de celui-ci correspondant à une ou plusieurs zones dont les limites sont arrêtées par le Gouvernement, en fonction de la localisation de l'origine d'un foyer et des obstacles naturels et artificiels à la dissémination du risque.
+
+§ 2. Le service du SPW ARNE désigné par le Gouvernement est autorisé à consulter les données du registre cadastral permettant de connaître le nom du propriétaire et son numéro de registre national, et les données du registre national permettant d'associer ce nom et ce numéro à une adresse de contact pour procéder aux opérations et suivis nécessaires à la mise en place des mesures de gestion préventive, d'atténuation des risques visées au paragraphe 1er.
+
+Si cette démarche ne permet pas d'identifier le propriétaire avec suffisamment de certitude, les agents visés à l'alinéa 1er peuvent interroger la commune, les voisins ou l'occupant.
+
+Le traitement des données personnelles récoltées en application du présent paragraphe relève du service du SPW ARNE visé à l'alinéa 1er. Les données sont conservées jusqu'à l'envoi du compte rendu et des conseils éventuels, et ne peuvent être utilisées à d'autres fins que celles énoncées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/31, art. 8, 010; En vigueur : 04-09-2026&gt;
+
+#### Section 2 [<sup>1</sup> De la gestion des crises sanitaires qui requièrent des moyens de lutte exceptionnels]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/31, art. 9, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 51/3.
+
+[<sup>1</sup> § 1er. Le Gouvernement peut déterminer des critères et des seuils d'entrée et de sortie propres à chaque phénomène sanitaire ou sinistre forestier, permettant d'établir quand ce phénomène sanitaire ou sinistre forestier doit être qualifié de crise sanitaire qui requiert des moyens de lutte exceptionnels.
+
+Le Gouvernement détermine la procédure de confirmation de la survenance d'une telle crise sanitaire et de l'établissement de son étendue géographique et temporelle.
+
+Dans le cadre de cette procédure, le Gouvernement peut autoriser l'Observatoire de la santé des forêts à reconnaître lui-même, moyennant confirmation ultérieure par le Gouvernement, endéans un délai de maximum six semaines, la survenance d'une crise sanitaire et son étendue géographique, en cas d'urgence ou de circonstances exceptionnelles, pour un ou plusieurs phénomènes sanitaires ou sinistres forestiers déterminés.
+
+Le délai visé à l'alinéa 3 peut être prolongé dans des circonstances spécifiques dument motivées pour une durée supplémentaire de maximum six semaines.
+
+§ 2. Le Gouvernement peut prévoir que, lorsque la survenance d'une crise sanitaire est confirmée, des mesures spécifiques s'appliquent jusqu'à ce que la situation de crise confirmée soit éteinte, et dans ce cadre, il peut :
+
+1° prévoir des mesures de gestion spécifiques, éventuellement plus contraignantes que les mesures de gestion préventive, d'atténuation des risques ou de gestion courante ;
+
+2° prévoir des dérogations spécifiques aux articles 18 à 28, 38, 42, 45, 78, 79, 80, 83 et 85, dûment justifiées par une analyse de risques en ce qui concerne les articles 38 et 42 ;
+
+3° imposer aux propriétaires publics et privés ou aux ayants droit de mettre en oeuvre des mesures de gestion spécifiques endéans un délai imposé et à défaut d'exécution dans ce délai, prévoir une procédure d'exécution d'office desdites mesures, le cas échéant aux frais du propriétaire ou ayant droit défaillant ;
+
+4° octroyer des défraiements pour compenser les contraintes supplémentaires imposées aux propriétaires publics et privés ou aux ayants droit.
+
+Les mesures peuvent concerner l'ensemble du territoire wallon ou une partie de celui-ci correspondant à une ou plusieurs zones dont les limites sont arrêtées conformément au paragraphe 1er, en fonction de la localisation de l'origine d'un foyer et des obstacles naturels et artificiels à la dissémination du phénomène sanitaire concerné.
+
+§ 3. Le personnel statutaire ou contractuel du Département de la nature et des forêts est autorisé à pénétrer dans les bois et forêts des propriétaires tant publics que privés non constitutifs d'un domicile, y compris ceux situés dans les zones exclues par l'article 2, alinéa 3, 2° et 3°, dans le cadre de la mise en oeuvre des mesures spécifiques visées au paragraphe 2.
+
+Cet accès est conditionné à l'information du propriétaire dans les meilleurs délais possibles, sauf impossibilité étayée par des éléments probants, et à l'envoi au propriétaire privé d'un compte rendu conforme à l'article 94 après la visite.
+
+Pour permettre l'identification de ce propriétaire, ainsi que l'envoi de l'information relative à toute visite, l'envoi du compte rendu, et la communication éventuelle de conseils et de mesures obligatoires de gestion en lien avec la crise sanitaire observée, les agents visés à l'alinéa 1er sont autorisés à consulter les données du registre cadastral permettant de connaître le nom du propriétaire et son numéro de registre national, et les données du registre national permettant d'associer ce nom et ce numéro à une adresse de contact.
+
+Si cette démarche ne permet pas d'identifier le propriétaire avec suffisamment de certitude, ou en cas d'urgence justifiée par des raisons impérieuses, les agents visés à l'alinéa 1er peuvent interroger la commune, les voisins ou l'occupant.
+
+Le traitement des données personnelles récoltées en application du présent paragraphe relève du Département de la Nature et des Forêts. Les données sont conservées jusqu'à l'envoi du compte rendu et des conseils éventuels, et ne peuvent être utilisées à d'autres fins que celles énoncées au présent paragraphe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/31, art. 10, 010; En vigueur : 04-09-2026&gt;
+
+#### Section 3. [<sup>1</sup> De la restauration, de la réparation et des compensations consécutives à une crise sanitaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/31, art. 11, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 51/4.
+
+[<sup>1</sup> § 1er. Le Gouvernement peut octroyer, dans le respect de la réglementation européenne en matière d'aides d'état, à toute personne physique ou morale de droit public ou de droit privé impactée par un phénomène sanitaire ou sinistre forestier, ou par les mesures de prévention ou de gestion adoptées concernant ce phénomène sanitaire ou sinistre forestier, des aides destinées à la restauration, la réparation ou la compensation des dommages causés par des phénomènes sanitaires ou sinistres forestiers aux forêts, personnes, biens et activités économiques, que ceux-ci aient une origine biotique, abiotique ou anthropique.
+
+Le Gouvernement précise les bénéficiaires visés.
+
+§ 2. Pour les aides visées au paragraphe 1er, le Gouvernement détermine :
+
+1° la procédure d'octroi de l'aide, en ce compris les instances à consulter ;
+
+2° les conditions d'octroi de l'aide ;
+
+3° les dommages pris en compte ;
+
+4° les montants de l'aide, les abattements, les majorations et diminutions, et les exclusions ;
+
+5° les méthodes d'évaluation et de liquidation du dommage ;
+
+6° les mesures d'expertise et de contrôle.
+
+Concernant l'alinéa 1er, 4°, le Gouvernement peut déterminer un montant minimal et un montant maximal d'aide par bénéficiaire et par aide.
+
+L'introduction d'une action en responsabilité en vue de la réparation du dommage, ne fait pas obstacle à l'obtention de l'aide.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-16/31, art. 12, 010; En vigueur : 04-09-2026&gt;
+
+## TITRE 4. - Du régime forestier.
+
+### CHAPITRE Ier. - Champ d'application du régime forestier.
+
+##### Art. 52
+
+Le régime forestier s'applique aux bois et forêts des personnes morales de droit public à savoir :
+
+1° les bois et forêts de la Région wallonne;
+
+2° les bois et forêts des autres personnes morales de droit public belge;
+
+3° les bois et forêts dans lesquels les personnes morales de droit public belge ont des droits indivis entre elles ou avec des particuliers.
+
+Le régime forestier ne s'applique pas aux bois et forêts des dépendances de la voie publique.
+
+Toutes les dispositions du présent titre, relatives aux forêts domaniales, sont applicables aux bois et forêts dans lesquels la Région wallonne a la qualité de propriétaire indivis soit avec d'autres personnes morales de droit public, soit avec des particuliers.
+
+[<sup>1</sup> Pour permettre l'établissement et l'actualisation annuelle de la liste des propriétés visées par la présente disposition, la consultation du cadastre ou du registre national est autorisée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 206, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 53
+
+Les bois et forêts des personnes morales de droit public, autres que les forêts domaniales, ne peuvent faire l'objet d'une cession sans une autorisation du Gouvernement sauf pour sortir d'indivision avec des particuliers.
+
+Les bois et forêts visés à l'alinéa précédent continuent de bénéficier du régime forestier, nonobstant toute cession, sauf autorisation du Gouvernement.
+
+##### Art. 54
+
+Les bois et forêts des personnes morales de droit public ne peuvent faire l'objet d'une affectation à un usage incompatible avec les fonctions énumérées à l'article 1er, sans autorisation du Gouvernement.
+
+Les bois et forêts visés à l'alinéa 1er sortent du champ d'application du régime forestier dès l'octroi de l'autorisation du Gouvernement.
+
+Au terme de l'affectation à un usage incompatible avec les fonctions énumérées à l'article 1er, le Gouvernement est chargé de constater l'existence des circonstances et conditions justifiant que le bien concerné bénéficie à nouveau du régime forestier.
+
+##### Art. 55
+
+Les propriétaires de bois et forêts des personnes morales de droit public sont tenus de notifier à l'agent désigné comme tel par le Gouvernement, tout acte de procédure juridictionnelle concernant les bois et forêts, dans les deux jours de sa signification ou de sa notification.
+
+### CHAPITRE II. - Des agents.
+
+##### Art. 56
+
+Le Gouvernement arrête les documents d'identification dont les agents doivent être porteurs.
+
+Toutes les opérations de surveillance et de gestion des bois et forêts des personnes morales de droit public sont faites par les agents. Ceux-ci sont associés aux opérations de délimitation et d'abornement des bois et forêts des personnes morales de droit public.
+
+Les fonctionnaires des services du Gouvernement auxquels celui-ci reconnaît la qualité de préposé de la nature et des forêts sont des gardes forestiers au sens des dispositions qui reconnaissent un statut propre à ceux-ci.
+
+### CHAPITRE III. - Des plans d'aménagement.
+
+##### Art. 57
+
+[<sup>1</sup> Au plus tard pour le [<sup>3</sup> [<sup>4</sup> 31 décembre 2026]<sup>4</sup>]<sup>3</sup>,]<sup>1</sup> tous les bois et forêts des personnes morales de droit public, d'une superficie supérieure à vingt hectares d'un seul tenant, sont soumis à un plan d'aménagement.
+
+Le plan d'aménagement contient au minimum :
+
+1° la description de l'état des bois et forêts concernés et l'identification de zones à vocation prioritaire de protection afin de maintenir la qualité de l'eau et des sols ainsi que de zones à vocation prioritaire de conservation, notamment les forêts historiques, afin de préserver les faciès caractéristiques, rares ou sensibles;
+
+2° la détermination et la hiérarchisation des objectifs spécifiques de gestion durable des bois et forêts, y compris l'équilibre entre la faune et la flore;
+
+3° le rappel des mesures de conservation liées au réseau Natura 2000 et aux autres espaces naturels protégés, le cas échéant;
+
+4° la planification dans le temps et dans l'espace des actes de gestion en vue d'assurer la pérennité des bois et forêts et, le cas échéant, de promouvoir une forêt mélangée et d'âges multiples;
+
+5° le volume de bois à récolter pour qu'il corresponde à l'estimation de l'accroissement de la forêt;
+
+6° des mesures liées à la biodiversité;
+
+7° par massif de bois et forêts de plus de cent hectares d'un seul tenant, la délimitation d'une ou de plusieurs zones accessibles aux activités de jeunesse et aux mouvements encadrés à vocation pédagogique ou thérapeutique, et d'une ou plusieurs zones de dépôt de bois;
+
+8° les moyens financiers à affecter aux travaux forestiers et une estimation des recettes de la forêt;
+
+9° les modes d'exploitation envisagés dans les peuplements, en ce compris le débardage au cheval, en vue d'assurer la protection des sols et des cours d'eau;
+
+10° des mesures liées à l'intérêt paysager des massifs forestiers et à leurs éléments culturels.
+
+Le plan d'amenagement fixe la durée de sa validité.
+
+Le Gouvernement peut préciser et compléter par des règles générales le contenu du plan d'aménagement.
+
+----------
+
+(1)&lt;DRW 2020-04-16/15, art. 1, 005; En vigueur : 07-05-2020&gt;
+
+(2)&lt;DRW 2023-12-13/13, art. 257, 007; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DRW 2024-12-18/09, art. 149, 008; En vigueur : 01-01-2025&gt;
+
+(4)&lt;DRW 2025-12-19/B5, art. 131, 009; En vigueur : 01-01-2026&gt;
+
+##### Art. 58
+
+Les articles 59 et 60 transposent partiellement la directive 2001/42/CE du Parlement européen et du Conseil du 27 juin 2001 relative à l'évaluation des incidences de certains plans et programmes sur l'environnement et la directive 2003/35/CE du Parlement européen et du Conseil du 26 mai 2003 prévoyant la participation du public lors de l'élaboration de certains plans et programmes relatifs à l'environnement et modifiant, en ce qui concerne la participation du public et l'accès à la justice, les directives 85/337/CEE et 96/61/CE du Conseil, en ce qui concerne la détermination de règles communes de participation du public à l'élaboration de plans et programmes relatifs à l'environnement et au processus décisionnel d'activités particulières.
+
+##### Art. 59
+
+§ 1er. Le projet de plan d'aménagement est élaboré par l'agent désigné comme tel par le Gouvernement, conformément aux articles D.49 à D.57 et D.61 du livre Ier du Code de l'Environnement et aux dispositions prises pour leur exécution, et après avoir pris l'avis du propriétaire.
+
+§ 2. Le projet de plan d'aménagement est soumis à une enquête publique organisée selon les modalités fixées par le titre III de la partie III du livre Ier du Code de l'Environnement.
+
+§ 3. Le propriétaire prend en considération, le cas échéant, le rapport sur les incidences environnementales, les résultats des avis exprimés en vertu de l'article D.57 du livre Ier du Code de l'Environnement, pendant l'élaboration du plan d'aménagement et avant qu'il ne soit adopte, après avoir pris l'avis de l'agent désigné comme tel par le Gouvernement.
+
+Il détermine également, après avoir pris l'avis de l'agent désigné comme tel par le Gouvernement, les mesures de suivi des incidences non négligeables sur l'environnement de la mise en oeuvre du plan d'aménagement, afin d'identifier notamment, à un stade précoce, les impacts négatifs imprévus et d'être en mesure d'engager les actions correctrices qu'il juge appropriées.
+
+§ 4. Lorsqu'il adopte le plan d'aménagement, le propriétaire produit, dans son préambule, après avoir pris l'avis de l'agent désigné comme tel par le Gouvernement, une déclaration environnementale résumant la manière dont les considérations environnementales ont été intégrées dans le plan d'aménagement et dont le rapport sur les incidences environnementales et les avis émis en application de l'article D.57 du livre Ier du Code de l'environnement ont été pris en considération, ainsi que les raisons du choix du plan d'aménagement tel qu'adopté, compte tenu des autres solutions raisonnables envisagées.
+
+Le propriétaire transmet une copie du plan d'aménagement tel qu'il a été adopté et des mesures arrêtées concernant le suivi par lettre recommandée avec accusé de réception à l'agent désigné comme tel par le Gouvernement.
+
+##### Art. 60
+
+Dans le mois de la réception de la copie du plan d'aménagement adopté, de la déclaration environnementale et des mesures arrêtées concernant le suivi, l'agent désigné comme tel par le Gouvernement peut, par lettre recommandée avec accusé de réception, introduire un recours auprès du Gouvernement lorsque le plan d'aménagement adopté ou les mesures arrêtées concernant le suivi ne sont pas conformes aux avis qu'il a donnés en application de l'article 59.
+
+Le recours est adressé en même temps au Gouvernement et au propriétaire.
+
+Le [<sup>1</sup> pôle "Ruralité", section "Forêt et Filière bois"]<sup>1</sup>, après avoir entendu le propriétaire et l'agent désigné comme tel par le Gouvernement, rend au Gouvernement un avis motivé dans les deux mois de la réception du dossier comprenant le recours, le plan d'aménagement et les mesures arrêtées concernant le suivi adopté par le propriétaire, et les avis donnés par l'agent désigné comme tel par le Gouvernement en application de l'article 59, § 3. A défaut d'avis dans ce délai, la procédure est poursuivie. Les délais sont suspendus entre le 16 juillet et le 15 août à dater de la reception de la notification par le [<sup>1</sup> pôle "Ruralité", section "Forêt et Filière bois"]<sup>1</sup>.
+
+A défaut de décision d'approbation ou de rejet du Gouvernement dans les trois mois de la réception du recours, la décision du propriétaire est réputée confirmée.
+
+Le Gouvernement transmet sa décision par lettre recommandée avec accusé de réception au propriétaire et à l'agent désigné comme tel par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 53, 003; En vigueur : 04-07-2017&gt;
+
+##### Art. 61
+
+Chaque année, l'agent désigné comme tel par le Gouvernement présente au propriétaire une synthèse du suivi du plan d'aménagement.
+
+##### Art. 62
+
+Sans préjudice de l'article 70, aussi longtemps qu'une décision définitive sur le plan d'aménagement et les mesures arrêtées concernant le suivi n'est pas publiée au Moniteur belge ou lorsque les bois et forêts ne sont pas soumis à un plan d'aménagement publié au Moniteur belge, aucune vente ou exploitation de coupe, d'arbres ou de produits de la forêt ne peut être réalisée sans l'autorisation de l'agent désigné comme tel par le Gouvernement.
+
+##### Art. 63
+
+Le Gouvernement se substitue au propriétaire s'il n'a pas adopté un plan d'aménagement et les mesures arrêtées concernant le suivi dans les six mois à compter de la réception de la mise en demeure faite par lettre recommandée avec accusé de réception par l'agent désigné comme tel par le Gouvernement.
+
+##### Art. 64
+
+[<sup>1</sup> § 1er. Lorsque les bois et forêts des personnes morales de droit public font partie du périmètre d'un site Natura 2000, le plan d'aménagement existant est révisé, pour le rendre conforme aux règles et objectifs et enjeux biologiques de ce statut.
+
+Dans cette hypothèse, le projet de révision du plan d'aménagement est élaboré par l'agent désigné par le Gouvernement et approuvé par le propriétaire.
+
+L'agent désigné par le Gouvernement sollicite l'avis de la commission de conservation pour les sites Natura 2000. L'avis motivé est rendu dans les soixante jours de la demande, sauf dispositions contraires. Les délais sont suspendus entre le 16 juillet et le 15 août. A défaut d'avis dans le délai, la procédure est poursuivie.
+
+§ 2. Lorsque les bois et forêts des personnes morales de droit public sont reconnus en réserve naturelle ou en réserve forestière, le plan de gestion de la réserve naturelle ou de la réserve forestière est substitué au plan d'aménagement forestier et est réputé constituer un plan d'aménagement pour les terrains concernés.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 13, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 65
+
+Pendant la période de validité du plan d'aménagement, la décision de procéder à sa révision globale ou partielle appartient au propriétaire ou à l'agent désigné comme tel par le Gouvernement qui notifie par lettre recommandée avec accusé de réception sa décision au Gouvernement.
+
+Dans les quatre mois de la réception de cette notification, le Gouvernement approuve ou refuse la décision de procéder à la révision globale ou partielle du plan d'aménagement.
+
+A défaut d'approbation ou de refus par le Gouvernement endéans le délai de quatre mois, la décision est réputée approuvée.
+
+Les dispositions réglant l'élaboration et l'adoption des plans d'aménagement sont applicables à leur révision.
+
+##### Art. 66
+
+Sans préjudice de l'article 70, il ne peut être fait aucune vente ou exploitation de coupe, d'arbres ou de produits de la forêt au-delà de ce qui est réglé par le plan d'aménagement, sans autorisation de l'agent désigné comme tel par le Gouvernement.
+
+S'il résulte de la vente ou de l'exploitation d'une coupe, d'arbres ou de produits de la forêt, une anticipation sur les ventes et exploitations réglées par le plan d'aménagement, ces dernières sont réduites, pendant les années suivantes, d'une quantité déterminée par l'agent désigné comme tel par le Gouvernement jusqu'à ce que la programmation de l'exploitation soit rétablie.
+
+##### Art. 67
+
+Lorsque les travaux, ventes ou exploitations prévus par le plan d'aménagement ne sont pas réalisés par le proprietaire, l'agent désigné comme tel par le Gouvernement peut le contraindre, par lettre recommandée, à procéder à tout ou partie de ceux-ci dans le délai qu'il détermine. Si, à l'expiration de ce délai, ils n'ont pas été réalisés, le Gouvernement peut les faire exécuter aux frais du propriétaire.
+
+##### Art. 68
+
+Les travaux sont proposés par l'agent désigné comme tel par le Gouvernement au propriétaire qui les approuve.
+
+##### Art. 69
+
+Sans préjudice de l'article 70, l'agent désigné comme tel par le Gouvernement peut ordonner verbalement et sur place l'interruption ou l'interdiction de :
+
+1° tout travail entrepris ou sur le point d'être entrepris en violation de l'article 68;
+
+2° toute vente ou exploitation de coupe, d'arbres ou de produits de la forêt, entreprise ou sur le point d'être entreprise, non reglée par le plan l'aménagement et non autorisée par l'agent désigné comme tel par le Gouvernement en vertu de l'article 66;
+
+3° toute vente ou exploitation de coupe, d'arbres ou de produits de la foret entreprise ou sur le point d'être entreprise, non autorisée par l'agent désigné comme tel par le Gouvernement en vertu de l'article 62.
+
+L'ordre doit, à peine de péremption, être confirmé par écrit dans les cinq jours et être notifié par lettre recommandée avec accusé de réception au propriétaire, à charge, le cas échéant, pour ce dernier d'en avertir immédiatement l'entrepreneur ou l'acheteur de la coupe.
+
+##### Art. 70
+
+Dans les forêts domaniales, [<sup>1</sup> en cas de crise sanitaire ou]<sup>1</sup> lorsque des circonstances urgentes nécessitent l'exécution de travaux, d'exploitations, de prélèvements ou d'abattages d'arbres pour prévenir des désastres ou en diminuer les effets, l'agent désigné comme tel par le Gouvernement y fait pourvoir sans délai.
+
+Dans les autres bois et forêts des personnes morales de droit public, ces opérations sont ordonnées par le propriétaire après concertation avec l'agent désigné comme tel par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 14, 010; En vigueur : 04-09-2026&gt;
+
+### CHAPITRE IV. - De la conservation des bois et forêts.
+
+##### Art. 71
+
+Dans les bois et forêts des personnes morales de droit public, par massif appartenant à un même propriétaire, sont appliquées les mesures de conservation suivantes :
+
+1° dans les peuplements feuillus, le maintien d'arbres morts ou chablis d'un diamètre supérieur à quarante centimètres, à concurrence de deux arbres par hectare, sauf les arbres à forte valeur économique unitaire ou les arbres présentant une menace pour la sécurité;
+
+2° dans les peuplements résineux, le maintien des quilles d'arbres cassés et des arbres desséchés, y compris dans les mises à blanc, à concurrence de deux arbres par hectare;
+
+3° le maintien d'au moins un arbre d'intérêt biologique par superficie de deux hectares; on entend par arbre d'intérêt biologique un arbre de dimensions exceptionnelles ou un arbre à cavité;
+
+4° la création d'un cordon d'espèces feuillues arbustives d'au moins dix mètres de large pour les nouvelles régénérations en lisière externe de massif;
+
+5° l'interdiction de planter des résineux sur une largeur de douze mètres de part et d'autre de tous les cours d'eau. Cette distance est portée à vingt-cinq metres dans le cas des sols alluviaux, des sols hydromorphes à nappe temporaire et à nappe permanente, et des sols tourbeux et paratourbeux tels que détermines par la carte pédologique de Wallonie.
+
+Dans les bois et forêts des personnes morales de droit public, par propriétaire de plus de cent hectares de bois et forêts, en un ou plusieurs massifs, est appliquée la mesure de conservation suivante :
+
+\- la mise en place de réserves intégrales dans les peuplements feuillus, à concurrence de trois pour cent de la superficie totale de ces peuplements.
+
+### CHAPITRE V. - Des ventes de coupe, d'arbres ou de produits de la forêt.
+
+#### Section 1re. - Dispositions générales.
+
+##### Art. 72
+
+Les empreintes dont les agents font usage tant pour la marque des bois de délit et des chablis que pour les opérations de balivage et de martelage sont arrêtées par le Gouvernement.
+
+##### Art. 73
+
+Toute vente de coupe, d'arbres ou de produits de la forêt, réglée ou non réglée par le plan d'aménagement, ne peut avoir lieu dans les bois et forêts des personnes morales de droit public que par voie d'adjudication publique.
+
+Le jour, l'heure et le lieu de la vente sont annonces au moins quinze jours à l'avance par tous les moyens usuels de publicité adaptés à l'importance de la vente. Le Gouvernement définit les modalités de publicite obligatoire.
+
+##### Art. 74
+
+Par dérogation à l'article 73, une vente peut avoir lieu de gré à gré aux conditions générales fixées par le Gouvernement lorsqu'elle porte sur l'un des objets suivants :
+
+1° les coupes et arbres abattus pour lesquels aucune offre suffisante n'a été obtenue lors de deux ventes publiques organisées selon la procédure prescrite à l'article 73;
+
+2° [<sup>1</sup> les bois chablis, cassés et scolytés]<sup>1</sup> dans les coupes déjà adjugées lorsqu'ils sont proposés aux adjudicataires de celles-ci;
+
+3° les arbres à abattre d'urgence et les arbres abattus à enlever d'urgence pour des raisons sanitaires ou de sécurité;
+
+4° les bois de délit;
+
+5° les coupes et arbres abattus de valeur peu importante fixée par le Gouvernement;
+
+6° les produits de la forêt de valeur peu importante fixée par le Gouvernement;
+
+7° les bois destinés à la recherche scientifique;
+
+8° les coupes de bois de chauffage réservées aux habitants d'une commune.
+
+Sont applicables aux ventes de gré à gré, à l'exception de celles visées à l'alinéa 1er 3°, 6° et 7°, les dispositions concernant les ventes par adjudication publique prévues aux articles 75, 77 et 78.
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 15, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 75
+
+Toute vente effectuée en violation des articles 73, 74 et 77 ou de leurs arrêtés d'execution est nulle de plein droit.
+
+##### Art. 76
+
+Toutes les contestations qui peuvent s'élever, pendant les opérations de l'adjudication, sur la validité des soumissions, des enchères ou des rabais, sur la solvabilité des enchérisseurs ou des cautions sont tranchées immédiatement par le président de séance.
+
+##### Art. 77
+
+Chaque adjudicataire est tenu de fournir, au moment de la vente, et séance tenante, les cautions et garanties exigées par le cahier des charges. A défaut par l'adjudicataire de fournir ces cautions et garanties, il est déchu de son adjudication. Il est procédé immédiatement à une nouvelle adjudication. L'adjudicataire déchu est tenu au paiement de la différence en moins entre son prix et celui de la revente, sans pouvoir réclamer l'excédent, s'il y en a.
+
+Les adjudicataires et les cautions sont tenus solidairement au paiement tant du prix que des dommages et intérêts, restitutions et amendes auxquels le marché pourrait donner lieu contre l'adjudicataire.
+
+##### Art. 78
+
+Les ventes de coupe, d'arbres ou de produits de la foret, leur exploitation et les travaux de reamenagement sont faits conformément à un cahier des charges arrête par le Gouvernement, sans prejudice de clauses complémentaires arrêtées par le propriétaire, lesquelles ne peuvent déroger au cahier des charges que dans les cas déterminés par le Gouvernement.
+
+#### Section 2. - Dispositions particulières aux bois et forêts autres que les forêts domaniales.
+
+##### Art. 79
+
+Les ventes de coupe, d'arbres ou de produits de la forêt, de personnes morales de droit public, visées à l'article 52, alinéa 1er, autres que la Région wallonne, sont faites à la diligence du collège communal ou de l'organe compétent de la personne morale de droit public, en présence de l'agent désigné comme tel par le Gouvernement qui remet un avis au propriétaire séance tenante.
+
+[<sup>1</sup> La vente ne devient définitive qu'après validation de la vente, le cas échéant en séance, par le collège communal ou son délégué, ou par l'organe compétent de la personne morale de droit public ou son délégué]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 16, 010; En vigueur : 04-09-2026&gt;
+
+### CHAPITRE VI. - Des exploitations.
+
+##### Art. 80
+
+L'acheteur ne peut commencer l'exploitation sans un permis d'exploiter délivré par l'agent désigné comme tel par le Gouvernement, conformément aux dispositions du cahier des charges.
+
+Le permis d'exploiter n'est pas délivré si les prescriptions des articles 73 à 77, 79 et les dispositions du cahier des charges relatives à son octroi n'ont pas été respectées.
+
+##### Art. 81
+
+L'acheteur est tenu de respecter tous les arbres non marqués suite à une opération de martelage. Il en est de même pour tous les arbres marqués en réserve suite à une opération de balivage.
+
+L'empreinte employée par l'agent sur l'arbre ou, le cas échéant, sur sa souche ou sur la souche d'un arbre voisin, est le seul moyen de preuve dont l'exploitant peut se servir pour établir la délivrance de l'arbre abattu.
+
+##### Art. 82
+
+§ 1er. Si des arbres réservés sont cassés ou renversés par le vent ou d'autres accidents, l'acheteur les laisse sur place et avertit sur le champ l'agent désigné comme tel par le Gouvernement qui peut soit compenser les arbres cassés ou renversés par le marquage d'autres arbres en réserve, soit, avec l'accord du propriétaire, négocier le rachat de gré à gré de tout ou partie de l'objet de la vente.
+
+§ 2. L'acheteur s'assure que les arbres réservés ne sont pas endommagés par l'exploitation.
+
+Dès qu'un arbre réservé est endommagé, l'acheteur prévient l'agent désigné comme tel par le Gouvernement qui détermine si l'arbre endommagé doit être abattu, marque, le cas échéant, un autre arbre en réserve, et évalue le dommage.
+
+§ 3. Le présent article ne concerne pas les arbres réserves, de moins de deux décimètres de tour à un mètre cinquante du sol.
+
+##### Art. 83
+
+Aucune exploitation, à l'exception du chargement, du déchargement et du transport, ne peut être effectuée avant une heure avant le lever ou après une heure après le coucher du soleil.
+
+L'agent désigné comme tel par le Gouvernement peut autoriser une exploitation dans les mises à blanc, en dehors des heures prévues à l'alinéa précédent.
+
+##### Art. 84
+
+Le déplacement des arbres et des produits de la forêt se fait par les voies désignées dans le cahier des charges ou, à défaut, par celles qui sont désignées par l'agent désigné comme tel par le Gouvernement.
+
+En cas de nécessité, l'agent désigné comme tel par le Gouvernement peut en désigner d'autres.
+
+##### Art. 85
+
+L'exploitation est effectuee dans les délais fixés par le cahier des charges, à moins que l'acheteur n'ait obtenu de l'agent désigné comme tel par le Gouvernement une prorogation de délai.
+
+En cas de force majeure, le Gouvernement peut décider de reporter de deux années maximum le délai d'exploitation des mises à blanc et d'un an maximum le délai d'exploitation des éclaircies.
+
+Le report ne peut donner lieu à paiement par l'acquéreur d'indemnités quelconques.
+
+##### Art. 86
+
+Si l'acheteur ne fait pas, dans les délais fixés, les travaux de réaménagement, ces travaux peuvent être exécutés à ses frais, à la diligence de l'agent désigné comme tel par le Gouvernement, sur l'autorisation du propriétaire. Il remet au propriétaire le décompte des frais qui le réclame à l'acheteur.
+
+##### Art. 87
+
+A l'expiration du délai fixé par le cahier des charges ou à l'expiration du délai accorde en application de l'article 85, alinéa 1er ou 2, le vendeur peut accorder, par lettre recommandée avec accusé de réception, un ultime délai d'exploitation d'une durée de deux mois. A l'expiration de ce délai, les arbres non abattus sont considérés comme abandonnés par l'acheteur et redeviennent de plein droit la propriéte du vendeur, sans intervention prealable du juge, sans indemnité et sans préjudice de dommages et intérêts.
+
+##### Art. 88
+
+Sauf autorisation préalable de l'agent désigné comme tel par le Gouvernement, l'acheteur ne peut deposer sur le parterre ou sur les zones de dépôt de l'exploitation d'autres arbres ou produits de la forêt que ceux qui en proviennent.
+
+##### Art. 89
+
+Le Gouvernement peut imposer l'exclusion de l'acheteur ou de l'exploitant pour une période de trois ans maximum pour faute grave dans l'exploitation ou dans l'execution des travaux de réaménagement.
+
+Après avoir entendu les moyens de défense de l'acheteur ou de l'exploitant, l'agent désigné comme tel par le Gouvernement peut proposer son exclusion dans un avis motivé au Gouvernement. Il notifie l'avis au Gouvernement et en transmet, simultanément, copie à l'acheteur ou l'exploitant. Le Gouvernement notifie, par recommandé avec accusé de réception, sa décision endéans les trois mois de la réception de l'avis motivé.
+
+L'exclusion ne concerne que les bois et forêts des personnes morales de droit public situés en Région wallonne.
+
+##### Art. 90
+
+Après l'exploitation et les travaux éventuels de reaménagement, l'acheteur ou la caution sollicite la décharge, nonobstant l'organisation ultérieure d'un récolement prévu à l'alinéa 3.
+
+L'agent désigné comme tel par le Gouvernement délivre ou refuse la décharge. S'il envisage de refuser la décharge, il ne la refuse qu'après avoir entendu l'acheteur ou la caution.
+
+L'agent désigné comme tel par le Gouvernement peut procéder au récolement du nombre de bois délivrés. L'acheteur ou la caution sont avertis, sans frais et au plus tard le dixième jour qui précède, de la date et de l'heure du récolement. Si aucun des deux ne se présente, le proces-verbal du récolement est réputé contradictoire.
+
+##### Art. 91
+
+Les articles du présent chapitre sont applicables à l'entrepreneur de l'exploitation.
+
+Les articles du présent chapitre ne sont pas applicables aux exploitations visées à l'article 74, alinéa 1er, 3°, 6° et 7°.
+
+## TITRE 5. - De la surveillance, des incriminations, des sanctions et des mesures de réparation dans les bois et forêts.
+
+### CHAPITRE Ier. - De la surveillance dans les bois et forêts des personnes morales de droit public.
+
+##### Art. 92
+
+&lt;Abrogé par DRW 2018-07-17/04, art. 207, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 93
+
+&lt;Abrogé par DRW 2018-07-17/04, art. 208, 004; En vigueur : 18-10-2018&gt;
+
+### CHAPITRE II. - De la surveillance dans les bois et forêts privés.
+
+##### Art. 94
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Chaque visite de bois et forêts privés fait l'objet d'un compte rendu qui précise le motif, l'objet, le jour et l'heure de la visite, ainsi que l'identité du propriétaire. Le supérieur hiérarchique de niveau 1 de l'agent tient à la disposition du propriétaire le compte rendu dans la seule mesure où il concerne sa propriété.
+
+Hors les cas de flagrant délit, les agents avertissent le propriétaire préalablement à toute visite lorsque celui-ci a fourni au supérieur hiérarchique visé à l'alinéa 2 une carte détaillée de sa propriété ainsi que ses coordonnées complètes. Le Gouvernement peut déterminer le contenu de la carte détaillée de la propriété et des coordonnées complètes ainsi que la périodicité de l'actualisation de ces documents.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 209, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 95
+
+&lt;Abrogé par DRW 2018-07-17/04, art. 210, 004; En vigueur : 18-10-2018&gt;
+
+### CHAPITRE III. - Des incriminations, des sanctions et des mesures de réparation dans les bois et forêts.
+
+##### Art. 96
+
+L'amende pour abattage, enlèvement ou arrachage d'arbres ayant 2 décimetres de tour et au-dessus est de 0,5 euro par centimetre de tour. La circonférence est mesurée à un mètre cinquante du sol.
+
+Les amendes sont majorees d'un tiers pour l'abattage, l'enlèvement ou l'arrachage de parois, pieds corniers et arbres de place.
+
+Si les arbres ont été enlevés et façonnés, le tour en est mesuré sur la souche. Si la souche a également été enlevée, le tour en est estimé par l'agent désigné comme tel par le Gouvernement.
+
+##### Art. 97
+
+Dans le cadre d'une exploitation, les amendes visées à l'article 96 pour abattage, enlèvement ou arrachage d'arbres de réserve, ayant deux décimètres de tour et au-dessus, effectué par l'acheteur ou par l'exploitant sur le parterre de l'exploitation, sont d'un tiers en sus, et, en-dehors du parterre de l'exploitation, sont d'une moitié en sus.
+
+##### Art. 98
+
+Sans préjudice de l'article 84 et, le cas échéant, du cahier des charges, l'amende pour abattage, arrachage ou enlèvement d'arbres ayant moins de deux décimètres de tour à un mètre cinquante du sol est de 0,5 euro par centimètre de tour. L'amende ne pourra, toutefois, être inferieure a 0,5 euro par arbre.
+
+##### Art. 99
+
+Sans préjudice de l'article 49, § 2, tout élagage est puni comme si l'arbre avait été abattu.
+
+##### Art. 100
+
+Sans préjudice de l'article 84 et, le cas échéant, du cahier des charges, quiconque éhoupe, écorce, mutile ou fait périr des arbres est puni comme s'il les avait abattus.
+
+Il en est de même de celui qui saigne des arbres ou en enlève la sève.
+
+##### Art. 101
+
+Quiconque enlève des chablis ou bois de délit est condamné aux mêmes peines que s'il les avait abattus par le pied.
+
+##### Art. 102
+
+Est puni d'une amende de 25 à 100 euros :
+
+1° celui qui contrevient aux articles 10 et 11 ou aux arrêtés pris pour leur exécution ou leur application;
+
+2° sans préjudice de l'article 105, 2°, celui qui contrevient aux articles 14 à 21, 23 à 29 ou aux arrêtés pris pour leur exécution ou leur application;
+
+3° celui qui contrevient aux articles 35, 37, 41, 45, 47, 48, 49, 50, 71, alinéa 1er, 1° à 3°, 83 et 84 ou aux arrêtés pris pour leur exécution ou leur application.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+En cas de récidive du contrevenant dans un délai de deux ans à dater de l'avertissement qui lui a été adressé, l'agent ne peut plus adresser un avertissement et dresse procès-verbal conformément à l'article 93 ou à l'article 94, alinéa 4.
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 211, 004; En vigueur : 18-10-2018&gt;
+
+##### Art. 103
+
+Est puni d'une amende de 40 à 1.000 euros celui qui contrevient [<sup>1</sup> aux articles 22, 40, 42, 43, 44, 46, 51/2, 62, 66, 68, 71, alinéa 1er, 4° et 5°, 71, alinéa 2, 80 et 88]<sup>1</sup> ou aux arrêtés pris pour leur exécution ou leur application [<sup>1</sup> , en s'opposant, en enfreignant, en ne respectant pas ou en n'exécutant pas les mesures prévues]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 17, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 104
+
+Est puni d'une amende de 300 à 3.000 euros celui qui contrevient [<sup>1</sup> aux articles 51/3, 73, 74 et 85]<sup>1</sup>, ou aux clauses du cahier des charges arrêtées par le Gouvernement en exécution de l'article 78 qui sont relatives à l'exploitation et aux travaux de réaménagement ou aux arrêtés pris pour leur exécution ou leur application.
+
+----------
+
+(1)&lt;DRW 2026-07-16/31, art. 18, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 105
+
+Est puni d'une amende de 400 à 5.000 euros celui qui :
+
+1° contrevient aux articles 38 et 69 ou aux arrêtés pris pour leur exécution ou leur application;
+
+2° celui qui, en qualité d'organisateur, contrevient aux articles 14 à 29 ou aux arrêtés pris pour leur exécution ou leur application.
+
+##### Art. 106
+
+Est puni d'une amende de 400 à 10.000 euros celui qui contrevient à l'article 39 ou aux arrêtés pris pour leur exécution ou leur application.
+
+##### Art. 107
+
+Les peines pour les infractions prévues par le présent Code ou ses arrêtés d'exécution sont doublées :
+
+1° si l'infraction a été commise la nuit;
+
+2° si l'infraction a été commise en bande ou en réunion;
+
+3° lorsque le contrevenant est porteur d'un outil de coupe, d'extraction ou d'une arme;
+
+4° lorsque l'infraction est perpétrée entre le 1er mars et le 30 juin ;
+
+5° si l'infraction a été commise dans un milieu naturel protegé en application de la loi sur la conservation de la nature.
+
+##### Art. 108
+
+[<sup>1</sup> Les infractions prévues par le présent Code font l'objet soit de poursuites pénales, soit d'une [<sup>2</sup> perception immédiate]<sup>2</sup> ou de poursuites administratives, conformément aux titres IV et VI de la Partie VIII de la partie décrétale du Livre Ier du Code de l'Environnement, sauf si le ministère public envisage de faire usage ou fait usage des pouvoirs que lui attribuent les articles 216bis et 216ter du Code d'instruction criminelle.
+
+Pour l'application de ces mêmes titres IV et VI de la Partie VIII de la partie décrétale du Livre Ier du Code de l'Environnement, les infractions à la présente loi sont assimilées à des infractions de quatrième catégorie, à l'exception des infractions visées aux articles :
+
+1° 103 et 104 qui sont assimilées à des infractions de troisième catégorie ;
+
+2° 105 et 106 qui sont assimilées à des infractions de deuxième catégorie.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-24/09, art. 84, 006; En vigueur : 01-07-2022&gt;
+
+(2)&lt;DRW 2026-07-16/31, art. 19, 010; En vigueur : 04-09-2026&gt;
+
+##### Art. 109
+
+&lt;Abrogé par DRW 2018-07-17/04, art. 213, 004; En vigueur : 18-10-2018&gt;
+
+## TITRE 6. - Dispositions modificatives et abrogatoires.
+
+##### Art. 110
+
+La loi du 19 décembre 1854 contenant le Code forestier est abrogée à l'exception de l'article 177.
+
+##### Art. 111
+
+La loi du 8 août 1862 qui exempte temporairement des frais de régie et de surveillance des terrains incultes boisés pour le compte des communes et des établissements publics est abrogée.
+
+##### Art. 112
+
+A l'article 24 de la loi du 28 février 1882 sur la chasse, les mots "gardes forestiers" sont remplacés par les mots "agents, au sens de l'article 3, 1°, du Code forestier".
+
+Dans l'article 25 de la même loi, sont supprimés les termes "ou dans les hypothèses prévues par l'article 120 du Code forestier".
+
+##### Art. 113
+
+L'article 40 du Code rural du 7 octobre 1886 est abrogé.
+
+A l'article 41 du même Code, les mots "autres que ceux dont il est question à l'article précédent," sont supprimés.
+
+L'article 67 du même Code est complété par l'alinéa suivant : "Les agents, au sens de l'article 3, 1°, du Code forestier, ont également qualité pour constater, dans les champs, les délits et contraventions qui ont pour objet la police forestière, de même que les délits de chasse et de pêche.".
+
+Dans l'article 89, 8°, du même Code, les mots "des bois," sont supprimés et le point final est remplacé par un point virgule.
+
+Le même article est complété par le point suivant :
+
+"9° ceux qui portent ou allument du feu à moins de vingt-cinq mètres des bois et forêts, sauf autorisation du propriétaire de ceux-ci.".
+
+##### Art. 114
+
+L'article 1er, alinéa 4, de la loi du 31 mai 1923 relative à l'aliénation d'immeubles domaniaux est remplacé par la disposition suivante :
+
+"Les forêts domaniales d'une superficie de plus d'un hectare ne peuvent faire l'objet d'une cession qu'en vertu d'un décret, à l'exception des échanges, des expropriations pour cause d'utilité publique et des cessions pour sortir d'indivision avec des particuliers.".
+
+##### Art. 115
+
+La loi du 28 décembre 1931 relative à la protection des bois et forêts appartenant à des particuliers est abrogée.
+
+##### Art. 116
+
+Il est inséré dans le Code des droits de succession, pour ce qui concerne la Région wallonne, un article 55ter, rédigé comme suit :
+
+"Est exempte des droits de succession et de mutation par décès :
+
+1° la valeur des arbres sur pied croissant dans les bois et forêts au sens de l'article 2, alinéas 1er et 2, du Code forestier et pour lesquels les droits de succession et de mutation par décès sont réputés localisés en Region wallonne;
+
+2° la valeur d'actions et de parts d'un groupement forestier au sens de la loi du 6 mai 1999 visant à promouvoir la création de sociétés civiles de groupements forestiers, en ce qu'elle procède d'arbres sur pied croissant dans les bois et forêts, au sens de l'article 2, alinéas 1er et 2, du Code forestier et pour lesquels les droits de succession et de mutation par décès sont reputés localisés en Région wallonne. ".
+
+##### Art. 117
+
+Il est inséré dans le Code des droits d'enregistrement, d'hypothèque et de greffe, pour ce qui concerne la Région wallonne, un article 131quater, rédigé comme suit :
+
+"Par dérogation à l'article 131, est exempte de droit de donation :
+
+1° la valeur des arbres croissant sur pied dans les bois et forêts au sens de l'article 2, alinéas 1er et 2, du Code forestier pour lesquels les droits de donation sont réputés localisés en Région wallonne;
+
+2° la valeur d'actions et de parts d'un groupement forestier au sens de la loi du 6 mai 1999 visant à promouvoir la création de sociétés civiles de groupements forestiers, en ce qu'elle procède d'arbres sur pied croissant dans les bois et forêts, au sens de l'article 2, alinéas 1er et 2, du Code forestier et pour lesquels les droits de donation sont réputés localisés en Région wallonne.".
+
+##### Art. 118
+
+La loi du 12 juillet 1952 autorisant le Roi à soumettre au régime forestier des bois et forêts, propriétés des provinces est abrogée.
+
+##### Art. 119
+
+L'article 29, alinéa 1er de la loi de la loi du 1er juillet 1954 sur la pêche fluviale est remplacé par les termes :
+
+"Les infractions à la présente loi sont recherchées et constatées conformément aux articles 92 à 95 du Code forestier, sans préjudice des articles 30 a 34 de la présente loi.".
+
+A l'article 29, alinéa 2, de la même loi, les termes "ou dans les hypothèses prévues par l'article 120 du Code forestier" sont supprimés.
+
+L'article 30 de la même loi est remplacé par les termes :
+
+"Le Gouvernement peut, en se conformant à l'article 56, alinéa 1er, du Code forestier, désigner des fonctionnaires de l'administration qui ont la qualité d'agent de la pêche.
+
+Les agents de la pêche sont assimilés aux préposés de la nature et des forêts, au sens de l'article 3, 1°, du Code forestier.".
+
+A l'article 32, alinéa 1er, de la même loi, le terme "également" est supprimé et les termes "par les agents au sens de l'article 3, 1°, du Code forestier, par les agents de la pêche," sont insérés après le terme "constatées".
+
+A l'article 32, alinéa 2, de la même loi, les termes ", ceux des ingénieurs de la nature et des forêts" sont insérés après les termes "des officiers de police judiciaire".
+
+L'article 32, alinéa 3, de la même loi est abrogé.
+
+##### Art. 120
+
+Dans l'article 572, 3°, du Code judiciaire, les mots "des agents et préposés à l'administration forestière" sont remplacés par les mots "des agents au sens du Code forestier".
+
+##### Art. 121
+
+L'article 22 de la loi du 12 juillet 1973 sur la conservation de la nature est abroge.
+
+##### Art. 122
+
+L'article 6 du décret du 18 juillet 1996 du Conseil régional wallon modifiant le Code forestier pour ce qui concerne l'adjudication publique et la vente de gré à gré des coupes en forêts soumises au régime forestier est abrogé.
+
+##### Art. 123
+
+L'article D.29-1, § 4, a., 11°, du livre Ier du Code de l'Environnement est abrogé.
+
+L'article D.53 du même livre est complété par les termes suivants :
+
+"§ 6. Les plans d'aménagement au sens de l'article 57 du Code forestier sont soumis à une évaluation des incidences conformément aux articles D.49 à D.57 et D.61 du présent livre et aux articles 59 et 60 du Code forestier.".
+
+A l'article D.138, alinéa 2, du même livre, sont insérés les termes "aux infractions prévues à l'article 102 du Code forestier," entre les termes "applicables" et "à la loi".
+
+A l'article D.159, § 2, du même livre, le point final est remplace par un point virgule et il est ajouté un 7° libelle comme suit : "7° les infractions prévues à l'article 102 du Code forestier.".
+
+A l'article D.160, § 2, du même livre, le point final est remplacé par un point virgule et il est ajouté un 4° libellé comme suit : "4° de 25 euros à 500 euros pour une infraction prévue à l'article 102 du Code forestier.".
+
+A l'article D.162, alinéa 4, du même livre, sont insérés après les termes "quatrième catégorie", les termes "et pour celles prévues à l'article 102 du Code forestier".
+
+L'article D.164, alinéa 2, du même livre est complété par les termes ", ou d'infractions prévues à l'article 102 du Code forestier.".
+
+## TITRE 7. - Dispositions finales et transitoires.
+
+##### Art. 124
+
+Les bois et forêts qui ne bénéficient pas du régime forestier avant l'entrée en vigueur du présent Code ne sont soumis à un plan d'amenagement que dans les cinq ans à partir de la date à laquelle ils bénéficient du régime forestier.
+
+Les aménagements adoptés au plus tard la veille de l'entrée en vigueur du présent décret, sont réputés constituer des plans d'aménagement au sens de l'article 57 du présent Code.
+
+##### Art. 125
+
+Le régime visé au titre IV s'applique aux bois et forêts qui n'ont pas fait l'objet d'une soustraction au régime forestier avant l'entrée en vigueur du présent Code.
+
+##### Art. 126
+
+Aucun frais de régie et de gardiennat du en application de la loi du 19 décembre 1854 portant le Code forestier ne pourra être réclamé au profit de la Région wallonne à dater de l'entrée en vigueur du présent Code.
+
+##### Art. 127
+
+La mesure visée à l'article 71, alinéa 2, n'est d'application qu'un an apres la date d'entrée en vigueur du présent Code.
+
+##### Art. 128
+
+L'article 38, § 1er et § 3, ne s'applique pas aux coupes de bois dont les ventes ont été conclues avant la date d'entrée en vigueur de l'article 38 aux conditions suivantes :
+
+1° le bordereau d'achat ou le document qui en tient lieu détermine la localisation du parterre de la coupe;
+
+2° l'exploitation est terminée au terme de l'année qui suit celle l'entrée en vigueur de l'article 38.
+
+##### Art. 129
+
+Le présent Code entre en vigueur à la date fixée par le Gouvernement sauf les articles 38, 39, 40, 43, 116, 117 et 128 et sauf les articles 1er, 2, 3, 4, 5, 92 à 95, 103, 105 à 107, 109 et 129 dans la seule mesure de l'application des articles 38, 39, 40, 43, 116, 117 et 128, qui entrent en vigueur le jour de la publication au Moniteur belge.
+
+(NOTE : Entrée en vigueur de l'article 6 fixée au 13-01-2009 par ARW 2008-12-12/49, art. 2)
+
+(NOTE : Entrée en vigueur de l'art. 85, alinéas 2 et 3 ainsi que des articles 1er, 2, 3, 4, 5, 92, 93 et 104 fixée au 28-05-2009 par ARW 2009-04-23/25, art. 1)
+
+(NOTE : Entrée en vigueur fixée au 14-09-2009 - sauf les art. 6, 38, 39, 40, 43, 116, 117 et 128 et 46, sauf l'article 15 et l'article 110 en tant que ce dernier se rapporte à l'article 188 du titre XIV de la loi du 19 décembre 1854 contenant le Code forestier, dans la seule mesure de son application à un but de chasse, sauf l'article 56, alinéa 1er qui entre en vigueur à la date de l'entrée en vigueur de l'arrêté ministériel (AM 2009-12-10/46) pris en exécution de l'article 30 de l'ARW 2009-05-27/58 - par ARW 2009-05-27/58, art. 35)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publie au Moniteur belge.
+
+Namur, le 15 juillet 2008.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Logement, des Transports et du Développement territorial,
+
+A. ANTOINE
+
+Le Ministre du Budget, des Finances et de l'Equipement,
+
+M. DAERDEN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+Ph. COURARD
+
+Le Ministre de l'Economie, de l'Emploi, du Commerce extérieur et du Patrimoine,
+
+J.-C. MARCOURT
+
+La Ministre de la Recherche, des Technologies nouvelles et des Relations exterieures,
+
+Mme M.-D. SIMONET
+
+Le Ministre de la Formation,
+
+M. TARABELLA
+
+Le Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+D. DONFUT
+
+Le Ministre de l'Agriculture, de la Ruralité, de l'Environnement et du Tourisme,
+
+B. LUTGEN.
