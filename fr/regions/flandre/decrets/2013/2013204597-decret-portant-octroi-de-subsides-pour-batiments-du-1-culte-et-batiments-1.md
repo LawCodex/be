@@ -1,0 +1,207 @@
+---
+title: "Décret portant octroi de subsides pour bâtiments du [ 1 culte et bâtiments ] 1 destinés à l'exercice public de l'assistance morale non confessionnelle [ 1 ...] ( 1 )<DCFL 2024-02-09/18 , art.12 , 003; En vigueur : 15-03-2024>"
+identifier: "2013204597"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013204597/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2013-07-12
+published: 2013-08-13
+entry_into_force: 2013-08-23
+last_amended: 2024-03-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013204597/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 13-08-2013 et mise à jour au 05-03-2024"
+retrieved: 2026-10-12
+---
+
+# 12 JUILLET 2013. - Décret portant octroi de subsides pour bâtiments du [ 1 culte et bâtiments ] 1 destinés à l'exercice public de l'assistance morale non confessionnelle [ 1 ...] ( 1 )&lt;DCFL 2024-02-09/18 , art.12 , 003; En vigueur : 15-03-2024&gt;
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+### Art. 1er
+
+Le présent décret règle une matière régionale.
+
+### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° décret du 7 mai 2004 : le décret du 7 mai 2004 relatif à l'organisation matérielle et au fonctionnement des cultes reconnus;
+
+2° bâtiment du culte : les bâtiments visés aux articles 4, 81, 117, 153, 189 et 232 du décret du 7 mai 2004, y compris les presbytères et les séminaires diocésains;
+
+[<sup>1</sup> 2° /1 ancien bâtiment du culte : un bâtiment qui, au moment de la demande de subvention, a été retiré du culte il y a cinq ans au maximum.]<sup>1</sup>
+
+3° administration communale ou provinciale concernée : l'administration communale ou provinciale qui, en application de l'article 52/1 du décret du 7 mai 2004, doit combler les éventuels déficits de l'exploitation de l'administration du culte qui, en application des articles 4, 81, 117, 153, 189 ou 232 du décret du 7 mai 2004, est chargée de l'entretien et de la conservation du bâtiment du culte pour lequel le subventionnement est demandé ou l'administration provinciale qui doit intervenir dans les déficits de l'institution pour l'assistance morale du Conseil laïque central, qui, en application de l'article 26, 4° de la loi du 21 juin 2002 relative au Conseil central des communautés philosophiques non confessionnelles de Belgique, charge les délégués et les institutions de la gestion des intérêts matériels et financiers des communautés philosophiques non confessionnelles reconnues.
+
+----------
+
+(1)&lt;DCFL 2022-11-10/22, art. 3, 002; En vigueur : 29-01-2023&gt;
+
+### Art. 3
+
+Dans les limites du budget approuvé, le Gouvernement flamand peut octroyer un subventionnement aux personnes morales de droit public, visées dans le présent décret, pour les investissements visés dans le présent décret.
+
+### Art. 4
+
+Le subventionnement octroyé s'élève à maximum 30 % du prix de revient des travaux tels que déterminés lors du décompte final, mais il se limite au montant de l'adjudication approuvée à l'origine. La base du subventionnement sera majorée de 7 % en guise d'intervention dans les frais généraux.
+
+Le Gouvernement flamand peut fixer un montant minimum pour les investissements qui entrent en considération pour le subventionnement.
+
+## CHAPITRE 2. [<sup>1</sup> - Subventionnement pour bâtiments du culte et anciens bâtiments du culte]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-11-10/22, art. 4, 002; En vigueur : 29-01-2023&gt;
+
+### Art. 5
+
+Le subventionnement pour des bâtiments du culte peut être octroyé pour :
+
+1° une construction neuve;
+
+2° un achat et des travaux de transformation;
+
+3° des travaux de rénovation;
+
+4° [<sup>1</sup> des études, des plans de mesurage et l'accompagnement de parcours pour destination secondaire ou réaffectation]<sup>1</sup>;
+
+5° [<sup>1</sup> des investissements d'adaptation pour destination secondaire.]<sup>1</sup>
+
+[<sup>1</sup> Le subventionnement pour des anciens bâtiments du culte peut être octroyé pour :
+
+1° des études, des plans de mesurage et l'accompagnement de parcours pour réaffectation ;
+
+2° des investissements de base nécessaires, permettant une réaffectation jusqu'un montant de subvention maximal de 250 000 euros.]<sup>1</sup>
+
+Le Gouvernement flamand peut fixer des priorités pour l'octroi du subventionnement.
+
+----------
+
+(1)&lt;DCFL 2022-11-10/22, art. 5, 002; En vigueur : 29-01-2023&gt;
+
+### Art. 6
+
+Seuls les investissements à des bâtiments du culte [<sup>1</sup> ou à des anciens bâtiments du culte]<sup>1</sup> qui appartiennent à une personne morale de droit public et qui ne sont pas protégés comme monuments [<sup>1</sup> en application du Décret relatif au patrimoine immobilier du 12 juillet 2013]<sup>1</sup> entrent en considération pour ce subventionnement.
+
+Pour les investissements visés à l'article 5, alinéa premier, 3°, pour l'application de l'alinéa premier du présent article, est assimilé à une propriété un droit réel qui satisfait aux conditions suivantes :
+
+1° le droit réel assure à l'administration du culte de la jouissance du bien pendant encore trente ans au moins;
+
+2° à la fin du droit réel, le propriétaire sera redevable d'une indemnité à l'administration du culte égale à la plus-value qui sera créée à ce moment par les travaux de transformation apportés aux bâtiments ou par des bâtiments nouvellement créés;
+
+3° le droit réel ne peut être aliéné ou grevé d'un droit matériel que moyennant le consentement de l'administration communale ou provinciale concernée.
+
+----------
+
+(1)&lt;DCFL 2022-11-10/22, art. 6, 002; En vigueur : 29-01-2023&gt;
+
+### Art. 7
+
+Le subventionnement pour les investissements, visés à l'article 5, peut être demandé par :
+
+1° l'administration du culte qui, en application des articles 4, 81, 117, 153, 189 ou 232 du décret du 7 mai 2004, est chargée de l'entretien et de la conservation du bâtiment du culte pour lequel le subventionnement est demandé;
+
+2° le séminaire diocésain, pour les investissements au niveau d'un séminaire diocésain;
+
+3° l'administration communale ou provinciale ou l'administration du culte qui est propriétaire du bâtiment du culte [<sup>1</sup> ou de l'ancien bâtiment du culte]<sup>1</sup> pour lequel le subventionnement est demandé;
+
+4° l'administration communale ou provinciale concernée.
+
+----------
+
+(1)&lt;DCFL 2022-11-10/22, art. 7, 002; En vigueur : 29-01-2023&gt;
+
+### Art. 8
+
+[<sup>1</sup> La demande de subvention pour les bâtiments du culte ou les anciens bâtiments du culte catholique romain s'inscrit dans le dernier plan politique approuvé en matière d'églises, visé à l'article 33/2 du décret du 7 mai 2004.
+
+La demande de subvention pour les bâtiments du culte ou les anciens bâtiments du culte des autres cultes reconnus est accompagnée d'un avis positif de l'organe représentatif reconnu du culte et du collège des bourgmestre et échevins ou de la députation de l'administration communale ou provinciale concernée. Ces avis doivent démontrer que les investissements pour lesquels la subvention est demandée s'inscrivent dans une vision à long terme relative au bâtiment.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-11-10/22, art. 8, 002; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE 3. - Subventionnement pour des bâtiments pour l'exercice public de l'assistance morale non confessionnelle
+
+### Art. 9
+
+Le subventionnement pour des bâtiments pour l'exercice public d'assistance morale non confessionnelle peut être octroyé pour :
+
+1° une construction neuve;
+
+2° un achat et des travaux de transformation;
+
+3° des travaux de rénovation;
+
+4° des études de réaffectation;
+
+5° des études et investissements d'adaptation pour destination secondaire.
+
+Le Gouvernement flamand peut fixer des priorités pour l'octroi du subventionnement.
+
+### Art. 10
+
+Seuls les investissements dans des bâtiments pour l'exercice public d'assistance morale non confessionnelle qui appartiennent à une personne morale de droit public et qui ne sont pas protégés comme monuments en application du décret du 3 mars 1976 relatif à la protection de monuments et de sites urbains et ruraux entrent en considération pour ce subventionnement.
+
+Pour les investissements visés à l'article 9, alinéa premier, 3°, pour l'application de l'alinéa premier du présent article, est assimilé à une propriété un droit réel qui satisfait aux conditions suivantes :
+
+1° le droit réel assure l'institution pour l'assistance morale du Conseil laïque central de la jouissance du bien pendant encore trente ans au moins;
+
+2° à la fin du droit matériel, le propriétaire sera redevable d'une indemnité à l'institution pour l'assistance morale du Conseil laïque central égale à la plus-value qui sera créée à ce moment par les travaux de transformation apportés aux bâtiments ou par des bâtiments nouvellement créés;
+
+3° le droit matériel ne peut être aliéné ou grevé d'un droit réel que moyennant le consentement de l'administration provinciale concernée.
+
+### Art. 11
+
+Le subventionnement pour les investissements, visés à l'article 9, peut être demandé par :
+
+1° l'institution pour l'assistance morale du Conseil laïque central qui est chargée de la gestion du bâtiment pour l'exercice public de l'assistance non confessionnelle pour lequel le subventionnement est demandé;
+
+2° l'administration communale ou provinciale qui est propriétaire du bâtiment pour l'exercice public de l'assistance morale non confessionnelle pour lequel le subventionnement est demandé;
+
+3° l'administration provinciale concernée.
+
+### Art. 12
+
+A la demande de subventionnement doit être joint un avis du Conseil laïque central ainsi qu'un avis de la députation de l'administration provinciale concernée. De ces avis, il doit ressortir que le bâtiment pour lequel le subventionnement est demandé reste un bâtiment pour l'exercice public de l'assistance morale non confessionnelle, tant pour le Conseil laïque central que pour le conseil provincial, dans la vision à long terme sur les bâtiments destinés à l'exercice public de l'assistance morale non confessionnelle dans cette province et il doit ressortir que les investissements pour lesquels le subventionnement est demandé s'intègrent dans cette vision à long terme.
+
+## CHAPITRE 4.
+
+&lt;Abrogé par DCFL 2024-02-09/18, art. 13, 003; En vigueur : 15-03-2024&gt;
+
+### Art. 13
+
+&lt;Abrogé par DCFL 2024-02-09/18, art. 13, 003; En vigueur : 15-03-2024&gt;
+
+### Art. 14
+
+&lt;Abrogé par DCFL 2024-02-09/18, art. 13, 003; En vigueur : 15-03-2024&gt;
+
+## CHAPITRE 5. - Dispositions finales
+
+### Art. 15
+
+Le Gouvernement flamand peut fixer les règles de procédure détaillées pour la demande, l'octroi et le paiement de ces subsides.
+
+### Art. 16
+
+A l'article 5 de l'arrêté royal du 23 juillet 1981 relatif à l'octroi de subsides pour certains travaux, fournitures et services exécutés dans la Région flamande par des pouvoirs subordonnés ou des personnes morales assimilées ou à leur initiative, modifié par les arrêtés du Gouvernement flamand du 18 janvier 2002 et du 29 mars 2002, les points 6°, 8° et 9°sont abrogés.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 12 juillet 2013.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand de la Gouvernance publique, de l'Administration intérieure, de l'Intégration civique, du Tourisme et de la Périphérie flamande de Bruxelles,
+
+G. BOURGEOIS

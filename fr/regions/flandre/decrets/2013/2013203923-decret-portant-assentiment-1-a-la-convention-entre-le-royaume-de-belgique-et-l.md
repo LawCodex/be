@@ -1,0 +1,47 @@
+---
+title: "Décret portant assentiment : 1° à la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et au Protocole, les deux signés à Bruxelles le 28 juin 1974, tels que modifiés par la Convention additionnelle du 23 juin 1993 et le Protocole du 19 janvier 2010; 2° à la Convention additionnelle modifiant la Convention visée au 1°, signée à Bruxelles le 23 juin 1993; 3° au Protocole, signé à Bruxelles le 19 janvier 2010, modifiant la Convention visée au 1°, telle que modifiée par la Convention additionnelle visée au 2°"
+identifier: "2013203923"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203923/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2013-06-07
+published: 2013-07-10
+entry_into_force: 2013-07-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203923/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 7 JUIN 2013. - Décret portant assentiment : 1° à la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et au Protocole, les deux signés à Bruxelles le 28 juin 1974, tels que modifiés par la Convention additionnelle du 23 juin 1993 et le Protocole du 19 janvier 2010; 2° à la Convention additionnelle modifiant la Convention visée au 1°, signée à Bruxelles le 23 juin 1993; 3° au Protocole, signé à Bruxelles le 19 janvier 2010, modifiant la Convention visée au 1°, telle que modifiée par la Convention additionnelle visée au 2°
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire et régionale.
+
+## Art. 2
+
+Sortiront leur plein et entier effet :
+
+1° la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et le Protocole, les deux signés à Bruxelles le 28 juin 1974, tels que modifiés par la Convention additionnelle du 23 juin 1993 et le Protocole du 19 janvier 2010;
+
+2° la Convention additionnelle, signée à Bruxelles le 23 juin 1993, modifiant la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et le Protocole, signé à Bruxelles le 28 juin 1974;
+
+3° le Protocole, signé à Bruxelles le 19 janvier 2010, modifiant la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et le Protocole, les deux signés à Bruxelles le 28 juin 1974, tels que modifiés par la Convention additionnelle du 23 juin 1993.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 juin 2013.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand des Finances, du Budget, de l'Emploi, de l'Aménagement du Territoire et des Sports,
+
+Ph. MUYTERS

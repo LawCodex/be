@@ -1,0 +1,1930 @@
+---
+title: "Décret relatif à la politique flamande d'intégration et d'intégration civique"
+identifier: "2013204197"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013204197/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2013-06-07
+published: 2013-07-26
+last_amended: 2024-06-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013204197/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 26-07-2013 et mise à jour au 06-06-2024"
+retrieved: 2026-10-12
+---
+
+# 7 JUIN 2013. - Décret relatif à la politique flamande d'intégration et d'intégration civique
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Chapitre 1er. - Dispositions générales
+
+##### Art. 1er
+
+Le présent décret règle une matière communautaire et régionale.
+
+##### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° [<sup>7</sup> règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;]<sup>7</sup>;
+
+[<sup>7</sup> 1° /1 jeune enfant allophone : la personne qui remplit simultanément les conditions suivantes :
+
+a) à la date du 31 décembre suivant le début de l'année scolaire, avoir atteint au moins l'âge de deux ans et six mois d'une part, et ne pas avoir atteint l'âge de cinq ans d'autre part ;
+
+b) ne pas avoir le néerlandais comme langue familiale ou langue maternelle ;
+
+c) ne pas être inscrit dans l'enseignement maternel ;]<sup>7</sup>
+
+2° attestation d'intégration civique : une attestation délivrée à l'intégrant qui a atteint au moins pour chaque partie de son [<sup>6</sup> parcours d'insertion civique]<sup>6</sup> les objectifs du [<sup>6</sup> parcours d'insertion civique]<sup>6</sup>;
+
+3° attestation de dispense : une attestation délivrée à l'intégrant qui est dispensé de l'obligation d'intégration civique;
+
+[<sup>6</sup> 3° /1 âge de travailler : toutes les personnes entre l'âge de quinze ans et l'âge de la retraite qui ne sont plus soumises à l'obligation scolaire à temps plein ;]<sup>6</sup>
+
+4° centre : dans la mesure où elles offrent des formations de néerlandais comme deuxième langue, une des entités suivantes :
+
+a) le centre, visé à l'article 2, 4°, du décret du 15 juin 2007 relatif à l'éducation des adultes;
+
+b) un centre de langues, établi par une université, tel que visé à l'article 4 du décret du 4 avril 2003 relatif à la restructuration de l'enseignement supérieur en Flandre;
+
+[<sup>1</sup> c) un centre agréé pour la formation des indépendants et des petites et moyennes entreprises, [<sup>5</sup> tel que visé à l'article 26/2 du décret du 16 mars 2012 relatif à la politique d'aide économique]<sup>5</sup> ;
+
+d) un centre de formation professionnelle tel que visé à l'article 64 de l'arrêté du Gouvernement flamand du 5 juin 2009 portant organisation de l'emploi et de la formation professionnelle;]<sup>1</sup>
+
+[<sup>6</sup> e) les fournisseurs privés qui proposent le néerlandais comme deuxième langue conformément au Cadre européen commun de référence pour les langues ;]<sup>6</sup>
+
+5° [<sup>3</sup> ...]<sup>3</sup>
+
+6° AAE : l'agence autonomisée externe de droit privé, visée à l'article 16;
+
+[<sup>7</sup> 6° /1 handicap : une déficience physique, mentale, intellectuelle ou sensorielle de longue durée qui, en interaction avec divers obstacles, peut empêcher des personnes de participer à la société à part entière, de manière effective et sur un pied d'égalité avec autrui ; ]<sup>7</sup>
+
+7° intégrant : une personne appartenant au groupe cible de l'intégration civique, visée à l'article 26, § 1er;
+
+8° intégration civique : un parcours accompagné vers l'intégration, lors duquel l'autorité offre aux intégrants un programme spécifique à leur mesure, qui renforce leur autonomie en vue de la participation à la vie professionnelle et sociale et à l'éducation;
+
+9° politique d'intégration civique : la partie de la politique d'intégration qui est concrétisée dans un parcours d'intégration civique offert à l'intégrant, et un parcours d'orientation offert au primo-arrivant mineur et au bambin allophone;
+
+10° contrat d'intégration civique : une convention entre l'intégrant et l'AAE dans laquelle les deux parties contractent des engagements relatifs au parcours d'intégration civique;
+
+11° obligation d'intégration civique : les obligations imposées aux intégrants au statut obligatoire en application de l'article 27, § 3;
+
+12° parcours d'intégration civique : le parcours, visé à l'article 28;
+
+13° intégration : un processus dynamique et interactif dans lequel des individus, des groupes, des communautés et des structures, chacun dans le contexte du caractère contraignant des droits et obligations inhérents à notre état de droit démocratique, interagissent et gèrent la migration et ses conséquences dans la société de manière constructive;
+
+14° politique d'intégration : la politique qui répond, par des initiatives mutuellement convenues, aux situations et dynamiques liées aux conséquences de la migration, dans le but de réaliser une participation indépendante et proportionnelle, l'accessibilité de toutes les structures, une citoyenneté active et partagée de chacun et une cohésion sociale;
+
+15° candidat-immigrant : l'étranger qui a obtenu, à l'étranger, un visa de séjour de longue durée en Belgique et exprime sa volonté d'être inscrit au Registre national dans une commune de la région de langue néerlandaise ou de la région bilingue de Bruxelles-Capitale, ou l'étranger non soumis à l'obligation de visa qui exprime, auprès du poste diplomatique ou consulaire compétent à l'étranger, sa volonté d'obtenir un séjour de longue durée en Belgique et d'être inscrit au Registre national dans une commune de la région de langue néerlandaise ou de la région bilingue de Bruxelles-Capitale;
+
+[<sup>4</sup> 15° /1 séjour de longue durée : chaque séjour légal qui ne se limite pas à trois mois au maximum, tel que visé au titre Ier, chapitre II, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ; ]<sup>4</sup>
+
+16° revenu d'intégration : un revenu indexé payé en application de la législation relative au droit à l'intégration sociale;
+
+17° trajectoire de vie : la trajectoire complète qu'une personne physique individuelle peut parcourir pendant sa vie, assumant des rôles différents, notamment d'enfant, d'étudiant, de citoyen, de travailleur, d'utilisateur de loisirs, d'époux(se), de soignant familial, de parent ou de retraité;
+
+18° administration locale : [<sup>6</sup> un CPAS,]<sup>6</sup> une commune, une province ou une agence autonomisée externe d'une commune ou d'une province;
+
+19° services sociaux : les services sociaux sous forme d'une allocation du CPAS, pris en charge, en tout ou en partie, par les autorités fédérales, en vertu de l'article 5 de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale;
+
+20° primo-arrivant mineur : la personne qui répond simultanément aux conditions suivantes :
+
+a) en date du 31 décembre suivant le début de l'année scolaire, avoir atteint au moins l'âge de cinq ans d'une part, et ne pas avoir atteint l'âge de dix-huit ans d'autre part;
+
+b) ne pas avoir le néerlandais comme langue familiale ou langue maternelle;
+
+c) ne pas avoir une maîtrise suffisante de la langue d'enseignement pour pouvoir suivre les cours avec fruit;
+
+d) être inscrit pendant neuf mois au maximum (sans compter les mois de vacances de juillet et d'août) dans une école ayant le néerlandais comme langue d'enseignement;
+
+e) résider de manière ininterrompue en Belgique depuis un an au maximum;
+
+21° CPAS : un centre public d'aide sociale;
+
+[<sup>4</sup> 21° /1 personne d'origine étrangère : une personne qui séjourne légalement et de longue durée en Belgique et qui ne possédait pas la nationalité belge à sa naissance ou dont au moins un des parents n'avait pas la nationalité belge à la naissance, en particulier celle qui se trouve dans une position défavorisée constatable ; ]<sup>4</sup>
+
+22° structure régulière : une structure, notamment dans les secteurs de l'enseignement, de l'emploi, de l'aide sociale et de la culture, qui est agréée, financée ou subventionnée par la Communauté flamande, la Région flamande, la Commission communautaire flamande, la Région de Bruxelles-Capitale, la Commission communautaire commune ou une administration locale;
+
+[<sup>4</sup> 22° /1 [<sup>6</sup> ...]<sup>6</sup>]<sup>4</sup>
+
+23° parcours d'orientation : le parcours, visé à l'article 36;
+
+24° VDAB : l'agence autonomisée externe de droit public " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding " (Office flamand de l'Emploi et de la Formation professionnelle);
+
+[<sup>4</sup> 24° /1 demandeur d'emploi inscrit obligatoirement : le demandeur d'emploi inscrit obligatoirement, visé à l'article 2, 11° du décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding " (Office flamand de l'Emploi et de la Formation professionnelle) ; ]<sup>4</sup>
+
+25° intégrant au statut obligatoire : un intégrant tel que visé à l'article 27, § 1er, dans la mesure où il n'est pas dispensé de l'obligation d'intégration civique;
+
+26° [<sup>6</sup> programme de formation : la partie " orientation sociale " ou la partie " néerlandais comme deuxième langue ", visée à l'article 29, § 1er, alinéa 2, 1° et 2° ;]<sup>6</sup>
+
+27° étranger en séjour légal : une personne qui ne fournit pas la preuve qu'elle possède la nationalité belge et qui est autorisée ou admise à séjourner ou à s'établir en Belgique ou qui peut séjourner en Belgique selon un document valable, en application des dispositions de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+28° [<sup>4</sup> ...]<sup>4</sup>
+
+29° [<sup>4</sup> ...]<sup>4</sup>
+
+30° autonomie : par autonomie des personnes, on entend que ces personnes sont capables de développer activement leur trajectoire de vie et acquièrent à cet effet une compétence linguistique de base du néerlandais;
+
+[<sup>2</sup> 31° communes périphériques : les communes périphériques, visées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.]<sup>2</sup>
+
+Pour toute référence à des personnes, la forme masculine sera utilisée ci-dessous. La forme masculine réfère aux hommes comme aux femmes.
+
+----------
+
+(1)&lt;DCFL 2015-05-29/17, art. 2, 003; En vigueur : 29-02-2016&gt;
+
+(2)&lt;DCFL 2015-07-03/12, art. 33, 002; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DCFL 2017-12-22/08, art. 43, 004; En vigueur : 01-01-2018&gt;
+
+(4)&lt;DCFL 2019-01-18/05, art. 2, 005; En vigueur : 29-07-2019&gt;
+
+(5)&lt;DCFL 2020-06-19/14, art. 64, 009; En vigueur : 31-12-2021&gt;
+
+(6)&lt;DCFL 2021-07-09/17, art. 2, 010; En vigueur : 01-03-2022&gt;
+
+(7)&lt;DCFL 2024-05-03/27, art. 2, 011; En vigueur : 16-06-2024&gt;
+
+## CHAPITRE 2. - Objectifs, points de départ et missions de la politique flamande d'intégration
+
+##### Art. 3
+
+[<sup>1</sup> La politique flamande d'intégration s'adresse à la société entière et prête une attention particulière, selon le cas :
+
+1° au groupe cible spécial des personnes d'origine étrangère ;
+
+2° aux primo-arrivants mineurs visés à l'article 2, alinéa 1er, 20°, pour l'objectif visé à l'article 4, § 2, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 3, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 4
+
+§ 1er. La politique flamande d'intégration est une politique inclusive. Elle est réalisée au sein de la politique générale des différents domaines politiques, pour la plupart par le biais de mesures générales et seulement si nécessaire par le biais d'une offre spécifique.
+
+La politique flamande d'intégration est une politique étayée, harmonisée et coordonnée qui se rapporte à la réglementation et au contexte fédéraux, européens et internationaux.
+
+§ 2. La politique flamande d'intégration répond aux situations et dynamiques liées aux conséquences de la migration, en vue de :
+
+1° la participation indépendante et proportionnelle des personnes, visées à l'article 3 [<sup>1</sup> , 1°]<sup>1</sup>;
+
+2° l'accessibilité de toutes les structures à tous, et plus particulièrement pour les personnes, visées à l'article 3 [<sup>1</sup> , 1°]<sup>1</sup>;
+
+3° une citoyenneté active et partagée de chacun;
+
+4° le renforcement de la cohésion sociale.
+
+[<sup>1</sup> Les objectifs de la politique flamande d'intégration comprennent également l'accompagnement et l'orientation humains des personnes, visées à l'article 3, 2°, du présent décret, vers l'enseignement maternel et l'enseignement pour les jeunes scolarisables, visés à la loi du 29 juin 1983 concernant l'obligation scolaire.]<sup>1</sup>
+
+§ 3. La politique flamande d'intégration soutient le processus de l'intégration et se base à cet effet sur les points de départ suivants :
+
+1° égalité de chacun;
+
+2° respect de l'individualité, des compétences et des ambitions de chacun;
+
+3° attention pour la différenciation;
+
+4° migration comme opportunité pour la société;
+
+5° attention pour l'antidiscrimination et la lutte contre le racisme;
+
+6° citoyenneté active de chacun;
+
+7° empowerment [<sup>1</sup> du groupe cible, visé à l'article 3, 1°]<sup>1</sup> spéciaux;
+
+8° bonne connaissance de la langue ambiante;
+
+[<sup>1</sup> 9° y compris la vie en société, non pas les uns à côté des autres, mais les uns avec les autres.]<sup>1</sup>
+
+§ 4. Les objectifs, visés au paragraphe 2, sont réalisés de manière intégrée. Cela implique une méthode :
+
+1° qui assure l'harmonisation avec le contexte local et supralocal;
+
+[<sup>1</sup> 1° /1 qui assure l'harmonisation entre les différents domaines politiques visés à l'article 6, alinéa premier ;]<sup>1</sup>
+
+2° qui assure l'insertion dans la politique d'intégration inclusive locale et supralocale;
+
+3° qui donne la priorité à une approche orientée sur les résultats;
+
+4° qui implique une collaboration étroite avec des structures, en vue de l'ancrage structurel;
+
+5° qui implique une participation maximale [<sup>1</sup> du groupe cible, visé à l'article 3, 1°]<sup>1</sup> spéciaux.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 4, 010; En vigueur : 01-03-2022&gt;
+
+## CHAPITRE 3. - Organisation de la politique flamande horizontale inclusive d'intégration
+
+##### Art. 5
+
+§ 1er. Dans les [<sup>2</sup> six]<sup>2</sup> mois de son entrée en fonction, le Gouvernement flamand établit les objectifs [<sup>2</sup> ...]<sup>2</sup> et priorités politiques, par lesquels les objectifs de la politique flamande de l'intégration, visés à l'article 4, seront réalisés dans chaque domaine politique pertinent. [<sup>2</sup> Le Gouvernement flamand établit également une analyse du contexte social dans lequel ces objectifs doivent être réalisés.]<sup>2</sup>
+
+Dans les six mois de l'établissement des objectifs [<sup>2</sup> ...]<sup>2</sup> par le Gouvernement flamand, il établit un plan d'action intégré. [<sup>2</sup> Ce plan d'action reprend uniquement les actions qui sont prises en complément de la politique régulière au sein des domaines, et dans le cadre desquelles une collaboration entre les domaines politiques est requise.]<sup>2</sup>
+
+Le plan d'action intégré comporte au moins :
+
+1° [<sup>2</sup> une description succincte des objectifs formulés et des domaines politiques auxquels ils s'appliquent ;]<sup>2</sup>
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+3° les actions concrètes qui doivent être entreprises pour réaliser les objectifs formulés;
+
+4° le calendrier, établi pour l'exécution de ces actions;
+
+5° la mention des indicateurs à l'aide desquels l'avancement est mesuré;
+
+6° les moyens et les instruments affectés.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. Le Gouvernement flamand peut harmoniser le plan d'action intégré, visé au paragraphe 1er, alinéas deux et trois, [<sup>2</sup> ...]<sup>2</sup> avec le plan d'action, visé à [<sup>3</sup> l'article 8]<sup>3</sup> du décret du 10 juillet 2008 portant le cadre de la politique flamande de l'égalité des chances et de traitement.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-01-18/05, art. 4, 005; En vigueur : 29-07-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 5, 010; En vigueur : 01-03-2022&gt;
+
+(3)&lt;DCFL 2024-05-03/27, art. 3, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Le Gouvernement flamand détermine les domaines politiques ainsi que les départements concernés et agences autonomisées internes et externes du Gouvernement flamand qui sont pertinents pour la politique d'intégration.
+
+Dans le cadre des domaines politiques que le Gouvernement flamand désigne comme pertinents, le Gouvernement flamand ainsi que les départements concernés et les agences autonomisées internes et externes du Gouvernement flamand préparent la politique flamande d'intégration, visée à l'article 4. Ils mettent également en oeuvre la politique d'intégration précitée et l'évaluent.
+
+Dans le cadre de l'évaluation de la politique flamande d'intégration, visée à l'alinéa 2, il est tenu compte de la définition des personnes d'origine étrangère, visée à l'article 2, 21° /1.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 6, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 7
+
+[<sup>1</sup> Le Gouvernement flamand détermine la manière dont les départements et les agences autonomisées internes et externes façonnent la politique d'intégration.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 7, 010; En vigueur : 01-03-2022&gt;
+
+## CHAPITRE 4. - Organisation de participation
+
+##### Art. 8
+
+[<sup>1</sup> Le Gouvernement flamand agrée une seule organisation de participation.
+
+L'organisation de participation accomplit les missions générales suivantes, avec une répartition locale suffisante, en vue de l'empowerment et l'émancipation des personnes visées à l'[<sup>2</sup> article 3]<sup>2</sup>, et de l'image correcte des personnes visées à l'[<sup>2</sup> article 3]<sup>2</sup> :
+
+1° défendre les intérêts des personnes visées à l'[<sup>2</sup> article 3]<sup>2</sup> ;
+
+2° représenter les personnes visées à l'[<sup>2</sup> article 3]<sup>2</sup>, vis-à-vis des autorités flamandes ;
+
+3° émettre des recommandations politiques ;
+
+4° sensibiliser des acteurs locaux et les soutenir lors de la prise d'initiatives visant à promouvoir la participation à la politique des personnes visées à l'article 3, alinéa 1er.
+
+Outre les missions, visées à l'alinéa 2, l'organisation de participation peut prendre d'autres initiatives visant à promouvoir l'empowerment et l'émancipation des personnes visées à l'[<sup>2</sup> article 3]<sup>2</sup>, et l'image correcte des personnes visées à l'[<sup>2</sup> article 3]<sup>2</sup> ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2019-01-18/05, art. 6, 005; En vigueur : 29-07-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 8, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 9
+
+[<sup>1</sup> Pour l'exécution pratique et concrète des missions, visées à l'article 8, alinéa 2, l'organisation de participation conclut un contrat de coopération avec le Gouvernement flamand pour une période de cinq ans.
+
+Ce contrat de coopération comprend des accords sur les missions à réaliser, y compris les objectifs stratégiques et opérationnels et la manière dont ceux-ci seront mesurés ou appréciés.
+
+Le Gouvernement flamand définit le mode d'établissement du contrat de coopération. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-01-18/05, art. 7, 005; En vigueur : 29-07-2019&gt;
+
+##### Art. 10
+
+L'organisation de participation est agréée aux conditions suivantes :
+
+1° l'organisation de participation est une association sans but lucratif;
+
+2° l'organisation de participation est indépendante dans l'exercice de sa mission. Cette mission comprend entre autres la formulation indépendante et la communication d'avis et de recommandations et la composition indépendante de ses organes.
+
+Le Gouvernement flamand arrête les modalités et la procédure de l'agrément.
+
+##### Art. 11
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement flamand accorde annuellement à l'organisation de participation agréée une subvention de fonctionnement et une subvention d'investissement afin d'élaborer des activités avec une répartition locale suffisante.
+
+Les subventions sont octroyées sur la base [<sup>1</sup> du contrat de coopération, visé à l'article 9 ]<sup>1</sup>. Le Gouvernement flamand peut arrêter les modalités relatives à l'octroi, au recouvrement et à la justification des subventions, à l'introduction des demandes et des pièces justificatives, à la demande de données unique, et aux incompatibilités et à la procédure de contrôle de l'utilisation des subventions.
+
+----------
+
+(1)&lt;DCFL 2019-01-18/05, art. 8, 005; En vigueur : 29-07-2019&gt;
+
+## Chapitre 5. La politique locale d'intégration
+
+##### Art. 12
+
+A l'intérieur des limites de leur territoire, les villes et communes ont le rôle de régisseur sur la politique d'intégration. Cela signifie qu'au sein des limites du principe de subsidiarité, elles assurent l'élaboration, le pilotage, l'harmonisation et l'exécution de la politique locale d'intégration inclusive. Elles coordonnent les acteurs pertinents dans la propre ville ou commune et associent les personnes visées à l'article 3 [<sup>2</sup> , 1°]<sup>2</sup>, et leurs organisations à cette politique.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2019-01-18/05, art. 9, 005; En vigueur : 29-07-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 9, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 13
+
+&lt;Retiré par DCFL 2017-12-22/08, art. 44, 004; En vigueur : 29-02-2016&gt;
+
+##### Art. 14
+
+&lt;Retiré par DCFL 2017-12-22/08, art. 44, 004; En vigueur : 29-02-2016&gt;
+
+##### Art. 15
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement flamand peut attribuer des moyens à la Commission communautaire flamande pour la prise en charge du rôle de régisseur, visé à l'article 47, alinéa deux.
+
+## CHAPITRE 6. - Exécution de la politique flamande d'intégration
+
+### Section 1re. - Agence autonomisée externe de droit privé
+
+#### Sous-section 1re. - Autorisation de création
+
+##### Art. 16
+
+§ 1er. Le Gouvernement flamand est autorisé à créer, au nom de la Communauté flamande et aux conditions fixées dans le présent décret, une agence autonomisée externe de droit privé, [<sup>1</sup> au sens de l'article III.14 du Décret de gouvernance]<sup>1</sup>, sous forme d'une fondation privée, soit à collaborer à sa création, et à charger celle-ci des tâches, visées à l'article 17.
+
+Sauf en cas de dispositions contraires dans le présent décret, les dispositions du [<sup>1</sup> Décret de gouvernance du 7 décembre 2018]<sup>13</sup> s'appliquent à l'AAE.
+
+Les statuts de l'AAE et toute modification sont soumis à l'approbation du Gouvernement flamand et communiqués au Parlement flamand.
+
+§ 2. Le Gouvernement flamand détermine le domaine politique homogène dont l'AAE fait partie. Les statuts de l'AAE stipulent que les membres [<sup>2</sup> de l'organe de gestion]<sup>2</sup> sont nommés et licenciés par le Gouvernement flamand.
+
+§ 3. L'AAE réalise la politique flamande d'intégration et d'intégration civique sur le terrain, et son ressort comprend la région de langue néerlandaise entière ainsi que la région bilingue de Bruxelles-Capitale.
+
+§ 4. Le Gouvernement flamand peut confier l'aide à la décision politique et la préparation politique de la politique flamande d'intégration à un département ou à une agence autonomisée interne sans personnalité juridique.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.227, 006; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 10, 010; En vigueur : 01-03-2022&gt;
+
+#### Sous-section 2. - La mission, les tâches et les tâches essentielles de l'AAE
+
+##### Art. 17
+
+L'AAE a pour mission de soutenir, d'encourager et d'accompagner l'intégration.
+
+A cet effet, l'AAE remplit les tâches essentielles suivantes, conformément aux sections 3 [<sup>1</sup> à 9 incluse]<sup>1</sup> :
+
+1° des services de conseil et l'accompagnement sur mesure en fonction de l'empowerment de citoyens individuels des groupes cibles spéciaux en vue d'une participation proportionnelle, d'une citoyenneté active et d'une cohésion sociale via :
+
+a) la proposition de parcours d'intégration civique aux intégrants et de parcours d'orientation aux primo-arrivants mineurs et aux bambins allophones;
+
+b) la proposition d'une offre de formation et d'accompagnement spécifique sous forme de parcours sur mesure, soit individuellement, soit en groupe, en collaboration avec des structures régulières, afin d'atteindre et de renforcer les personnes, visées à l'article 3, alinéa premier, 1° et 2°;
+
+2° des services de conseil et le soutien de la pratique sur mesure, en fonction du développement structurel de l'intégration en vue d'une participation indépendante et proportionnelle, de l'accessibilité de toutes les structures, d'une citoyenneté active et d'une cohésion sociale via :
+
+a) [<sup>4</sup> ...]<sup>4</sup>
+
+b) la politique linguistique;
+
+c) la promotion de la langue;
+
+d) des activités d'intégration;
+
+e) des services juridiques relatives au statut d'étrangers;
+
+3° des services de conseil et le soutien de la pratique sur mesure, en fonction de l'assise sociale, de la création de l'image et de la réciprocité de l'intégration, et en fonction de la cohésion sociale;
+
+4° des services de conseil et le soutien de la pratique sur mesure, en fonction d'une politique étayée, harmonisée, coordonnée et inclusive;
+
+[<sup>1</sup> 5° des services de conseil et accompagnement sur mesure en fonction d'une prestation de services optimale pour ce qui est du néerlandais pour allophones qui ont satisfait à l'obligation scolaire à temps plein et qui veulent apprendre le néerlandais en vue d'une autonomie sociale, professionnelle et éducative ;
+
+6° [<sup>2</sup> la délivrance de preuves du niveau linguistique du néerlandais ;]<sup>2</sup>
+
+7° la prise de la régie d'une offre du néerlandais comme deuxième langue adaptée aux et axée sur les besoins.]<sup>1</sup>
+
+En fonction de la réalisation des objectifs de la politique flamande d'intégration, visés à l'article 4, l'AAE remplit également les tâches suivantes :
+
+1° la collecte, le traitement et la mise à disposition de données;
+
+2° le lancement de projets ciblés, expérimentaux en fonction de la réalisation des tâches essentielles, visées à l'alinéa deux;
+
+3° la collecte et la mise à disposition d'expertise.
+
+En outre, l'AAE peut effectuer toutes autres activités et tâches susceptibles de contribuer directement ou indirectement à la réalisation de la mission et des tâches essentielles susvisées de l'AAE.
+
+L'AAE remplit sa mission, ses tâches et tâches essentielles d'une manière intégrée, telle que visée à l'article 4, § 4. Afin de réaliser les objectifs de la politique flamande d'intégration d'une manière intégrée, l'AAE travaillera simultanément à a réalisation des [<sup>1</sup> sept]<sup>1</sup> tâches essentielles.
+
+----------
+
+(1)&lt;DCFL 2015-05-29/17, art. 3, 003; En vigueur : 07-09-2015 (voir AGF 2015-09-11/17, art. 3)&gt;
+
+(2)&lt;DCFL 2015-05-29/17, art. 3, 003; En vigueur : indéterminée &gt;
+
+(3)&lt;DCFL 2019-01-18/05, art. 10, 005; En vigueur : 29-07-2019&gt;
+
+(4)&lt;DCFL 2021-07-09/17, art. 11, 010; En vigueur : 01-03-2022&gt;
+
+#### Sous-section 3. - Fonctionnement et moyens
+
+##### Art. 18
+
+§ 1er. Le Gouvernement flamand est autorisé à mettre à disposition de l'AAE des membres du personnel statutaires [<sup>1</sup> des départements, des AAI sans personnalité juridique, des AAI dotées de la personnalité juridique et des AAE de droit public au sens du Décret de gouvernance du 7 décembre 2018]<sup>1</sup>, conformément aux modalités fixées dans l'accord de coopération.
+
+§ 2. Le Gouvernement flamand peut également mettre à disposition de l'AAE des bâtiments et d'autres infrastructures ou d'autres moyens, conformément aux modalités fixées dans l'accord de coopération. La mise à disposition vaut jusqu'à révocation, sans que l'AAE puisse demander indemnisation de la Communauté flamande.
+
+§ 3. [<sup>2</sup> Des subventions de fonctionnement, des subventions d'investissement et des subventions de projet générales peuvent être annuellement accordées à l'AAE, à charge du budget général des dépenses et dans les limites des crédits budgétaires disponibles de la Communauté flamande. "
+
+Le Gouvernement flamand peut arrêter les règles et modalités du mode de financement de l'AAE.
+
+Les règles et modalités relatives à l'octroi, au recouvrement et à la justification des subventions, à l'introduction des demandes et des pièces justificatives, à la demande de données unique, et aux incompatibilités et à la procédure de contrôle de l'utilisation des subventions, sont arrêtées dans l'accord de coopération, visé à l'article 19.]<sup>2</sup>
+
+§ 4. Moyennant l'accord des entités concernées, l'AAE est autorisée à procéder à la reprise de membres du personnel et de bâtiments et d'autres infrastructures d'entités existantes.
+
+§ 5. L'AAE est autorisée à procéder au recouvrement des subventions que les entités existantes ont affectées à la constitution d'une réserve et/ou à l'acquisition de bâtiments et d'autres infrastructures, que les entités existantes ne peuvent plus affecter à l'objectif pour lequel elles ont été octroyées.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.228, 006; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 12, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 19
+
+L'AAE et le Gouvernement flamand concluent un accord de coopération tel que visé à [<sup>1</sup> l'article III.16 du Décret de gouvernance du 7 décembre 2018]<sup>1</sup>.
+
+L'accord de coopération, visé à l'alinéa premier, arrête entre autres les éléments suivants :
+
+1° les lignes directrices, la description et l'approche des tâches et tâches essentielles à effectuer;
+
+2° les obligations d'information et de rapportage sur les tâches et tâches essentielles et la situation financière, y compris au minimum l'établissement d'un rapport annuel;
+
+3° les conditions et modalités relatives à la mise à disposition éventuelle, à l'AAE, de membres du personnel statutaires, de bâtiments et d'autres infrastructures ou d'autres moyens, tels que visés à l'article 18;
+
+4° les règles et les modalités relatives à l'octroi, au recouvrement et à la justification des subventions, à l'introduction des demandes et des pièces justificatives, à la demande de données unique, et aux incompatibilités et à la procédure de contrôle de l'utilisation des subventions;
+
+5° les modalités relatives à la gestion, à la surveillance et au fonctionnement de l'AAE;
+
+6° la durée et les possibilités de résiliation et de prolongation de l'accord de coopération;
+
+7° les lieux d'implantation locaux et régionaux de l'AAE en vue d'activités facilement accessibles et d'une répartition locale suffisante;
+
+8° la manière dont [<sup>2</sup> l'organe de gestion]<sup>2</sup> garantira l'indépendance et la qualité des services juridiques.
+
+L'accord de coopération contient une clause d'antidiscrimination et une clause de diversité.
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.229, 006; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 13, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 20
+
+§ 1er. Le Gouvernement flamand met un système informatique uniforme de suivi des clients à la disposition de l'AAE. Ce système doit permettre à l'AAE de remplir les tâches et tâches essentielles confiées à l'AAE par ou en vertu du présent décret[<sup>4</sup> ...]<sup>4</sup>:
+
+1° [<sup>4</sup> ...]<sup>4</sup>]<sup>1</sup>;
+
+2° [<sup>1</sup>[<sup>4</sup> ...]<sup>4</sup>]<sup>3</sup>;]<sup>1</sup>
+
+3° [<sup>4</sup> ...]<sup>4</sup>:
+
+4° [<sup>4</sup> ...]<sup>4</sup>]5° [<sup>1</sup> [<sup>4</sup> ...]<sup>4</sup>]<sup>3</sup> ;]<sup>1</sup>
+
+5° [<sup>4</sup> ...]<sup>4</sup>]<sup>1</sup>;
+
+6° [<sup>1</sup> [<sup>4</sup> ...]<sup>4</sup>]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>2</sup> 7°[<sup>4</sup> ...]<sup>4</sup>]<sup>3</sup>;]<sup>2</sup>
+
+[<sup>3</sup> 8°[<sup>4</sup> ...]<sup>4</sup>.]<sup>3</sup>
+
+[<sup>2</sup> [<sup>4</sup> ...]<sup>4</sup>.
+
+[<sup>4</sup> ...]<sup>4</sup>.
+
+[<sup>3</sup> [<sup>4</sup> ...]<sup>4</sup>]<sup>3</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>]<sup>3</sup>.]<sup>2</sup>
+
+Le Gouvernement flamand peut arrêter les modalités relatives à la mise à disposition, à l'adaptation et à l'utilisation du système informatique de suivi des clients et de l'échange électronique de données.
+
+§ 2. Le Gouvernement flamand met un système uniforme d'enregistrement à la disposition de l'AAE pour les services d'interprétariat et de traduction sociaux [<sup>3</sup> qui relève de la politique linguistique, visée à l'article 17, alinéa 2, 2°, b) du présent décret]<sup>3</sup>.
+
+Le Gouvernement flamand peut arrêter les modalités relatives à la mise à disposition, à l'adaptation et à l'utilisation du système d'enregistrement.
+
+----------
+
+(1)&lt;DCFL 2015-05-29/17, art. 4, 003; En vigueur : 29-02-2016&gt;
+
+(2)&lt;DCFL 2019-01-18/05, art. 11, 005; En vigueur : 29-07-2019&gt;
+
+(3)&lt;DCFL 2021-07-09/17, art. 14, 010; En vigueur : 01-03-2022&gt;
+
+(4)&lt;DCFL 2024-05-03/27, art. 4, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 21
+
+&lt;Abrogé par DCFL 2024-05-03/27, art. 5, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 22
+
+Pour l'inspection des tâches essentielles, visées à l'article 17, alinéa deux, le [<sup>1</sup> département ou l'agence autonomisée interne sans personnalité juridique, visés à l'article 16, § 4]<sup>1</sup> peut faire appel à l'inspection telle que visée à la partie II, titre IV, du décret du 8 mai 2009 relatif à la qualité de l'enseignement. Le Gouvernement flamand peut arrêter les modalités.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 15, 010; En vigueur : 01-03-2022&gt;
+
+#### Sous-section 4. - Surveillance et contrôle
+
+##### Art. 23
+
+L'accord de coopération et le rapport annuel de l'AAE sont transmis au Gouvernement flamand qui les communique au Parlement flamand.
+
+##### Art. 24
+
+§ 1er. Le Gouvernement flamand désigne un commissaire du gouvernement auprès de l'AAE.
+
+Le commissaire du gouvernement surveille la conformité des opérations et du fonctionnement de l'AAE aux principes légaux, aux statuts et à l'accord de coopération.
+
+Contre chaque décision du [<sup>1</sup> organe de gestion]<sup>1</sup> qu'il estime contraire au décret, aux statuts et à l'accord de coopération, le commissaire du gouvernement du Gouvernement flamand introduit un recours auprès du Ministre compétent. Ce recours est motivé. Il est exercé dans les cinq jours francs qui suivent la réception, par le commissaire du gouvernement, de la copie de la décision.
+
+Ce recours est notifié dans le même délai au [<sup>1</sup> organe de gestion]<sup>1</sup>. L'exécution de la décision est suspendue par le recours.
+
+§ 2. Le commissaire du gouvernement siège avec voix consultative dans le [<sup>1</sup> organe de gestion]<sup>1</sup> de l'AAE.
+
+Au moins cinq jours ouvrables avant la date des séances, le commissaire du gouvernement reçoit l'ordre du jour complet des réunions du [<sup>1</sup> organe de gestion]<sup>1</sup> de l'AAE, ainsi que tous les documents y afférents. En cas d'urgence motivée, il peut être dérogé à cette disposition.
+
+Le commissaire du gouvernement peut, à tout moment et sur place, consulter tous les documents et écrits de l'AAE.
+
+Le commissaire du gouvernement peut demander aux administrateurs de lui communiquer toutes les informations et tous les éclaircissements et effectuer toutes les vérifications qu'il juge nécessaires pour l'exercice de son mandat.
+
+§ 3. Les frais liés à l'exercice de la fonction de commissaire du gouvernement viennent à charge de la Communauté flamande.
+
+Le Gouvernement flamand peut arrêter les conditions statutaires auxquelles le commissaire du gouvernement est désigné.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 16, 010; En vigueur : 01-03-2022&gt;
+
+### Section 2. Attribution éventuelle de l'exécution de tâches ou de tâches essentielles à d'autres organisations
+
+##### Art. 25
+
+§ 1er. Par dérogation à l'article 16, § 3, par arrêté du Gouvernement flamand et pour certains domaines, l'exécution d'une ou de plusieurs tâches ou tâches essentielles telles que visées à l'article 17, peut être attribuée à :
+
+1° une administration locale;
+
+2° la Commission communautaire flamande;
+
+3° une association sans but lucratif.
+
+Le cas échéant, toute référence à l'AAE est lue, pour l'exécution des tâches ou des tâches essentielles, comme une référence à l'administration locale concernée, à la Commission communautaire flamande ou à une association sans but lucratif.
+
+Le Gouvernement flamand arrêtera le mode et les conditions d'attribution des tâches et des tâches essentielles précitées.
+
+§ 2. Le cas échéant, dans les limites des crédits budgétaires disponibles, le Gouvernement flamand accordera une subvention de fonctionnement et une subvention d'investissement générales aux instances auxquelles ont été attribuées une ou plusieurs tâches ou tâches essentielles en application du paragraphe 1er. Les subventions accordées à une administration locale relèvent des principes, visés au décret du 15 juillet 2011 [<sup>1</sup> fixant les règles générales selon lesquelles des obligations périodiques de planification et de reporting peuvent être imposées aux administrations locales dans la Communauté flamande et la Région flamande]<sup>1</sup>.
+
+Le Gouvernement flamand peut arrêter les modalités relatives à l'octroi, au recouvrement et à la justification de ces subventions, à l'introduction des demandes et des pièces justificatives, à la demande de données unique, et aux incompatibilités et à la procédure de contrôle de l'utilisation de ces subventions.
+
+§ 3. Les instances auxquelles ont été attribuées une ou plusieurs tâches ou tâches essentielles en application du paragraphe 1er, assurent l'harmonisation nécessaire avec l'AAE en fonction de la coordination des tâches et tâches essentielles visées au présent décret, qui sont exécutées par toutes les personnes concernées.
+
+[<sup>1</sup> L'AAE coordonne l'harmonisation avec les instances visées à l'alinéa premier pour exécuter les tâches et tâches essentielles visées à l'article 17. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 17, 010; En vigueur : 01-03-2022&gt;
+
+### Section 3. - Intégration civique
+
+#### Sous-section 1re. - Groupe cible de l'intégration civique
+
+##### Art. 26
+
+§ 1er. Appartiennent au groupe cible de l'intégration civique, les catégories de personnes suivantes :
+
+1° tout étranger en séjour légal, ayant acquis l'âge de dix-huit ans accomplis, inscrit au Registre national dans une commune de la région de langue néerlandaise ou dans une commune de la région bilingue de Bruxelles-Capitale, à l'exception de l'étranger en séjour légal qui réside ici à titre temporaire et du [<sup>1</sup> demandeur de protection internationale qui n'est pas inscrit au registre national en une autre qualité]<sup>1</sup>;
+
+2° tout Belge majeur, né hors de Belgique, dont au moins un parent est né hors de Belgique, et inscrit au Registre national dans une commune de la région de langue néerlandaise ou par une commune de la région bilingue de Bruxelles-Capitale;
+
+3° tout étranger mineur en séjour légal, qui est inscrit au Registre national dans une commune de la région de langue néerlandaise ou dans une commune de la région bilingue de Bruxelles-Capitale [<sup>1</sup> , à l'exception du demandeur mineur de protection internationale accompagné qui n'est pas inscrit au registre national dans une autre qualité]<sup>1</sup>, qui a satisfait à l'obligation scolaire à temps partiel ou qui, n'ayant pas acquis l'âge de dis-huit ans accomplis, en bénéficie de suivre un parcours d'intégration civique en complément à l'obligation scolaire.
+
+Le Gouvernement flamand fixe les catégories d'étrangers résidant ici à titre temporaire, visés à l'alinéa premier, 1°.
+
+Par [<sup>1</sup> demandeur de protection internationale]<sup>1</sup>, visé à l'alinéa premier, 1° [<sup>1</sup> et 3°]<sup>1</sup>, on entend l'étranger qui a introduit une [<sup>1</sup> demande de protection internationale]<sup>1</sup>, soit de reconnaissance du statut de réfugié, soit d'octroi du statut de protection subsidiaire conformément à l'article 49/3 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
+
+§ 2. Tout intégrant a droit à un parcours d'intégration civique. Lors de l'exercice de ce droit, la priorité sera toutefois accordée aux intégrants, visés au paragraphe 3. Le Gouvernement flamand détermine les modalités en la matière.
+
+§ 3. Sans préjudice de l'application de l'alinéa deux, le Gouvernement flamand est autorisé à établir une liste des catégories d'intégrants qui ont droit par priorité au parcours d'intégration civique ou à des éléments déterminés dudit parcours.
+
+Les catégories suivantes d'intégrants font en tout cas partie des catégories prioritaires pour un parcours d'intégration civique :
+
+1° les étrangers, visés au paragraphe 1er, alinéa premier, 1°, qui sont inscrits pour la première fois avec un titre de séjour de plus de trois mois au Registre national dans une commune de la région de langue néerlandaise ou dans une commune de la région bilingue de Bruxelles-Capitale, et les Belges, visés au paragraphe 1er, alinéa premier, 2°, qui sont inscrits pour la première fois au Registre national dans une commune de la région de langue néerlandaise ou dans une commune de la région bilingue de Bruxelles-Capitale;
+
+2° les intégrants au statut obligatoire, visés à l'article 27, § 1er, 2°, et § 6.
+
+§ 4. Appartient également au groupe cible de la politique flamande d'intégration civique, le candidat-immigrant, ayant acquis l'âge de dix-huit ans accomplis
+
+Appartiennent également au groupe cible de la politique flamande d'intégration civique, le primo-arrivant mineur et le bambin allophone.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 18, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 27
+
+§ 1er. Dans la mesure où elles sont inscrites au Registre national dans une commune de la région de langue néerlandaise, disposent d'un titre de séjour de plus de trois mois, ont acquis l'âge de dix-huit ans accomplis, et ne sont pas dispensées conformément au § 2, les catégories suivantes de personnes sont obligées de suivre un parcours d'intégration civique, et d'observer les obligations définies au § 3 :
+
+1° [<sup>1</sup> chaque intégrant tel que visé à l'article 26, § 1er, alinéa premier, 1°, qui appartient à une des catégories suivantes. Il conserve sa qualité d'intégrant au statut obligatoire tant qu'il n'a pas rempli les obligations visées au paragraphe 3 :
+
+a) l'intégrant qui a été inscrit pour la première fois avec un titre de séjour de plus de trois mois au Registre national dans une commune belge ;
+
+b) l'intégrant qui, au cours des cinq dernières années, a été inscrit pour la première fois au Registre national dans une commune belge, notamment dans une commune de la région bilingue de Bruxelles-Capitale, de la région linguistique française ou de la région germanophone, à condition qu'il ait atteint l'âge de dix-huit ans accomplis ;]<sup>1</sup>
+
+2°[<sup>3</sup> chaque personne suivant un parcours d'insertion civique qui est ministre ou suppléant du ministre d'un culte reconnu par l'autorité fédérale auprès d'une communauté religieuse locale reconnue par la Région flamande]<sup>3</sup>;
+
+3°[<sup>1</sup> chaque intégrant tel que visé à l'article 26, § 1er, alinéa premier, 2°, qui a la nationalité belge et qui appartient à une des catégories suivantes. Il conserve sa qualité d'intégrant au statut obligatoire tant qu'il n'a pas rempli les obligations visées au paragraphe 3 :
+
+a) l'intégrant qui a été inscrit pour la première fois au Registre national dans une commune belge ;
+
+b) l'intégrant qui, au cours des cinq dernières années, a été inscrit pour la première fois au Registre national dans une commune belge, notamment dans une commune de la région bilingue de Bruxelles-Capitale, de la région linguistique française ou de la région germanophone, à condition qu'il ait atteint l'âge de dix-huit ans accomplis.]<sup>1</sup>
+
+§ 2. L'intégrant, visé aux paragraphes 1er, 5 et 6, est dispensé de l'obligation d'intégration civique si ou dès qu'il appartient à une des catégories suivantes :
+
+1° les personnes ayant la nationalité d'un des Etats de l'UE+, à l'exception des personnes ayant la seule nationalité belge ou ayant la nationalité belge et la nationalité d'un Etat hors UE+, mais non la nationalité d'un autre Etat de l'UE+;
+
+2° sans préjudice de l'application du point 1°, et à l'exception de membres de la famille, dans le sens sousvisé, de personnes ayant la nationalité belge, mais non pas la nationalité d'un autre Etat de l'UE+ :
+
+a) un membre de la famille de personnes ayant la nationalité d'un Etat de l'UE, qui remplit les conditions de la Directive 2004/38/UE relative au droit des citoyens de Union et des membres de leurs familles de circuler et de séjourner librement sur le territoire des Etats membres. Par UE on entend l'Union européenne, c.à.d. le groupe de pays adhérant à l'ordre juridique créé par le Traité du 7 février 1992 sur l'Union européenne, et le Traité du 25 mars 1957 instituant la Communauté européenne;
+
+b) un membre de la famille d'une personne ayant la nationalité d'un des Etats de l'EEE qui, en vertu de la convention relative à l'EEE, a le droit d'entrer en Belgique et de séjourner en Belgique. Par EEE on entend l'Espace économique européen, à savoir le groupe de pays adhérant à l'ordre juridique créé par l'accord du 2 mai 1992 portant création de l'Espace économique européen;
+
+c) un membre de la famille tel que visé à l'article 3 de l'annexe I de l'accord entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, sur la libre circulation des personnes, qui a le droit d'entrer en Belgique et de séjourner en Belgique.
+
+Si nécessaire, le membre de la famille visé aux a), b) et c), est tenu de fournir lui-même la preuve de son statut;
+
+3° les Belges et les membres de leurs familles, dans le sens sousvisé, qui ont fait appel au droit découlant du droit européen de s'établir dans un Etat UE+, ensuite rentrent en Belgique, et seraient tenus, par l'exercice de leur droit de libre circulation des personnes, à l'intégration civique obligatoire;
+
+4° l'intégrant ayant acquis une attestation d'intégration civique;
+
+5° l'intégrant qui prouve, à l'aide d'un certificat médical, qu'il est gravement malade ou a un handicap [<sup>3</sup> ...]<sup>3</sup> qui rend toute participation ou continuation de la participation au parcours d'intégration civique impossible à titre permanent;
+
+6° l'intégrant qui démontre à l'aide d'une attestation de fréquentation régulière des cours, qu'il a accompli une année scolaire entière d'enseignement d'accueil. Par année scolaire entière d'enseignement d'accueil, on entend une année scolaire d'enseignement d'accueil qui compte au moins neuf mois (les mois de vacances de juillet et août non compris) de fréquentation régulière des cours, répartis sur un ou deux années scolaires.
+
+L'intégrant, visé au paragraphe 1er, 1° et 3°, est dispensé de l'obligation d'intégration civique dès l'âge de 65 ans.
+
+L'intégrant, visé au paragraphe 1er, 1° et 3°, est dispensé de l'obligation d'intégration civique s'il peut fournir la preuve d'être en possession de :
+
+1° un certificat d'enseignement fondamental ou d'un certificat ou diplôme de l'enseignement secondaire ou d'un diplôme de l'enseignement supérieur dans un établissement d'enseignement financé, organisé ou subventionné par la Communauté flamande, la Communauté française ou la Communauté germanophone;
+
+2° un diplôme, certificat ou autre document, obtenu comme preuve d'accomplissement d'une formation comparable aux formations visées au point 1°, suivie dans un établissement d'enseignement financé, organisé ou subventionné par les Pays-Bas, à l'exception des formations suivies dans un établissement d'enseignement à Bonaire, Saint-Eustache ou Saba;
+
+3° un diplôme, certificat ou autre document, obtenu comme preuve d'accomplissement d'une des formations néerlandophones fixées par le Gouvernement flamand, dans un établissement d'enseignement à Bonaire, Saint-Eustache, Saba, Aruba, Curaçao ou à la Saint-Martin ou au Surinam.
+
+Le Gouvernement flamand dispense d'autres catégories de personnes de l'obligation d'intégration civique dans la mesure où c'est prescrit par des traités internationaux ou supranationaux.
+
+Le Gouvernement flamand peut dispenser d'autres catégories de personnes de l'obligation d'intégration civique, soit sur la base de lois, de décrets ou d'arrêtés, soit sur la base du caractère provisoire du séjour, qui peut devenir permanent.
+
+§ 3. L'intégrant au statut obligatoire est tenu de :
+
+1° se présenter à l'AAE dans un délai de trois mois au maximum du début de l'obligation d'intégration civique conformément au paragraphe 1er;
+
+2° [<sup>2</sup> pour atteindre les objectifs des parties du parcours d'insertion civique.]<sup>2</sup>
+
+Le Gouvernement flamand peut raccourcir le délai, visé à l'alinéa premier, 1°.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, 2°, l'intégrant au statut obligatoire ne doit pas atteindre les objectifs des programmes de formation s'il lui est impossible d'atteindre ces objectifs en raison de capacités d'apprentissage limitées. Le Gouvernement flamand règle les modalités d'exécution.
+
+Pour les catégories spécifiques suivantes, le Gouvernement flamand peut prévoir un report du délai dans lequel l'intégrant doit se présenter :
+
+1° pour les intégrants visés à l'article 26, § 1er, qui travaillent ou étudient et peuvent prouver qu'ils ne sont pas en mesure de combiner ce travail ou la formation avec le fait de suivre un parcours d'insertion civique ;
+
+2° pour les intégrants qui, pour des raisons médicales ou personnelles, sont dans l'impossibilité de satisfaire à l'obligation de présentation dans les temps, visée à l'alinéa 1er, 1°.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par des raisons médicales ou personnelles telles que visées à l'alinéa 4, 2°.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par les notions de travail et d'études, visées à l'alinéa 4, 1°.]<sup>2</sup>
+
+§ 4. Le Gouvernement flamand arrête les modalités et conditions des dispenses visées au paragraphe 2, alinéa premier à trois inclus.
+
+[<sup>2</sup> Le Gouvernement flamand arrête les modalités et conditions des obligations visées au paragraphe 3.]<sup>2</sup>
+
+§ 5. L'intégrant qui remplit les conditions de l'alinéa deux, n'est tenu qu'à suivre la formation de " néerlandais comme deuxième langue ", fixée à l'[<sup>2</sup> article 31, § 1er]<sup>2</sup>, et à remplir les obligations, visées au paragraphe 3, alinéa premier, 1° et 2°. Si nécessaire, l'intéressé est tenu de fournir lui-même la preuve de son statut. Le Gouvernement flamand détermine les modalités en la matière.
+
+Les conditions visées à l'alinéa premier, sont les suivantes :
+
+1° être ressortissant d'un pays non membre de l'UE+;
+
+2° être inscrit au Registre national dans une commune de la région de langue néerlandaise;
+
+3° fournir la preuve d'être, selon la législation d'un Etat membre de l'UE, résident ressortissant de cet Etat membre;
+
+4° fournir la preuve d'avoir rempli les conditions d'intégration, conformément à l'article 5, alinéa deux, de la Directive 2003/109/CE du 25 novembre 2003 relative au statut des ressortissants de pays tiers résidents de longue durée, afin d'obtenir le statut de résident de longue durée dans le sens de cette Directive.
+
+[<sup>2</sup> § 5/1. Le Gouvernement flamand peut déterminer d'autres catégories qui sont dispensées d'une ou de plusieurs parties du parcours d'insertion civique, visé à l'article 29, § 1er, alinéa 2.]<sup>2</sup>
+
+§ 6. Le primo-arrivant mineur, visé à l'article 26, § 4, alinéa deux, qui est inscrit au Registre national dans une commune de la région de langue néerlandaise et qui atteint l'âge de dix-huit ans au moment où il n'est pas encore inscrit pour la première fois avec un titre de séjour de plus de trois mois au Registre national depuis douze mois consécutifs, dans une commune belge, et qui en tant qu'intégrant n'est pas dispensé de l'obligation d'intégration civique conformément au paragraphe 2, est obligé, conformément au paragraphe 3, alinéa premier, 1°, de se présenter à l'AAE dans un délai de trois mois au maximum après qu'il a atteint l'âge de dix-huit ans.
+
+Si, lorsqu'il se présente, il n'est pas capable de démontrer qu'il est inscrit dans l'enseignement d'accueil ou pour une formation conduisant à un diplôme, certificat de fin d'études, certificat ou autre document dans un établissement d'enseignement tel que visé au paragraphe 2, alinéa trois, l'obligation d'intégration civique, visée au paragraphe 3, alinéa premier, 2°, est applicable par analogie. Si, lorsqu'il se présente, il peut démontrer qu'il est inscrit dans l'enseignement d'accueil ou pour une formation conduisant à un diplôme, certificat de fin d'études, certificat ou autre document dans un établissement d'enseignement tel que visé au paragraphe 2, alinéa trois, l'obligation d'intégration civique, est suspendue jusqu'au 31 août de l'année scolaire en question. S'il peut démontrer, au plus tard le 31 août de la même année qu'il est de nouveau inscrit dans une formation conduisant à un diplôme, certificat de fin d'études, certificat ou autre document dans l'établissement d'enseignement tel que visé au paragraphe 2, alinéa trois, ou s'il peut présenter une attestation de fréquentation régulière des cours telle que visée au paragraphe 2, alinéa premier, 6°, il est dispensé de l'obligation d'intégration civique et l'AAE délivre une attestation de dispense. S'il ne peut pas démontrer, au plus tard le 31 août de la même année, qu'il est de nouveau inscrit pour une formation conduisant à un diplôme, certificat de fin d'études, certificat ou autre document dans un établissement d'enseignement tel que visé au paragraphe 2, alinéa trois, l'obligation d'intégration civique, visée au paragraphe 3, alinéa premier, 2°, est applicable par analogie.
+
+§ 7. Dans les paragraphes 2 et 5 on entend par UE+ : les pays de l'UE, complétés par les pays de l'EEE et de la Suisse.
+
+----------
+
+(1)&lt;DCFL 2015-05-29/17, art. 5, 003; En vigueur : 29-02-2016&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 19, 010; En vigueur : 01-03-2022&gt;
+
+(3)&lt;DCFL 2024-05-03/27, art. 6, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 27 DROIT FUTUR
+
+§ 1er. Dans la mesure où elles sont inscrites au Registre national dans une commune de la région de langue néerlandaise, disposent d'un titre de séjour de plus de trois mois, ont acquis l'âge de dix-huit ans accomplis, et ne sont pas dispensées conformément au § 2, les catégories suivantes de personnes sont obligées de suivre un parcours d'intégration civique, et d'observer les obligations définies au § 3 :
+
+1° [<sup>1</sup> chaque intégrant tel que visé à l'article 26, § 1er, alinéa premier, 1°, qui appartient à une des catégories suivantes. Il conserve sa qualité d'intégrant au statut obligatoire tant qu'il n'a pas rempli les obligations visées au paragraphe 3 :
+
+a) l'intégrant qui a été inscrit pour la première fois avec un titre de séjour de plus de trois mois au Registre national dans une commune belge ;
+
+b) l'intégrant qui, au cours des cinq dernières années, a été inscrit pour la première fois au Registre national dans une commune belge, notamment dans une commune de la région bilingue de Bruxelles-Capitale, de la région linguistique française ou de la région germanophone, à condition qu'il ait atteint l'âge de dix-huit ans accomplis ;]<sup>1</sup>
+
+2°[<sup>4</sup> chaque personne suivant un parcours d'insertion civique qui est ministre ou suppléant du ministre d'un culte reconnu par l'autorité fédérale auprès d'une communauté religieuse locale reconnue par la Région flamande ; ]<sup>4</sup>;
+
+3°[<sup>1</sup> chaque intégrant tel que visé à l'article 26, § 1er, alinéa premier, 2°, qui a la nationalité belge et qui appartient à une des catégories suivantes. Il conserve sa qualité d'intégrant au statut obligatoire tant qu'il n'a pas rempli les obligations visées au paragraphe 3 :
+
+a) l'intégrant qui a été inscrit pour la première fois au Registre national dans une commune belge ;
+
+b) l'intégrant qui, au cours des cinq dernières années, a été inscrit pour la première fois au Registre national dans une commune belge, notamment dans une commune de la région bilingue de Bruxelles-Capitale, de la région linguistique française ou de la région germanophone, à condition qu'il ait atteint l'âge de dix-huit ans accomplis.]<sup>1</sup>
+
+§ 2. L'intégrant, visé aux paragraphes 1er, 5 et 6, est dispensé de l'obligation d'intégration civique si ou dès qu'il appartient à une des catégories suivantes :
+
+1° les personnes ayant la nationalité d'un des Etats de l'UE+, à l'exception des personnes ayant la seule nationalité belge ou ayant la nationalité belge et la nationalité d'un Etat hors UE+, mais non la nationalité d'un autre Etat de l'UE+;
+
+2° sans préjudice de l'application du point 1°, et à l'exception de membres de la famille, dans le sens sousvisé, de personnes ayant la nationalité belge, mais non pas la nationalité d'un autre Etat de l'UE+ :
+
+a) un membre de la famille de personnes ayant la nationalité d'un Etat de l'UE, qui remplit les conditions de la Directive 2004/38/UE relative au droit des citoyens de Union et des membres de leurs familles de circuler et de séjourner librement sur le territoire des Etats membres. Par UE on entend l'Union européenne, c.à.d. le groupe de pays adhérant à l'ordre juridique créé par le Traité du 7 février 1992 sur l'Union européenne, et le Traité du 25 mars 1957 instituant la Communauté européenne;
+
+b) un membre de la famille d'une personne ayant la nationalité d'un des Etats de l'EEE qui, en vertu de la convention relative à l'EEE, a le droit d'entrer en Belgique et de séjourner en Belgique. Par EEE on entend l'Espace économique européen, à savoir le groupe de pays adhérant à l'ordre juridique créé par l'accord du 2 mai 1992 portant création de l'Espace économique européen;
+
+c) un membre de la famille tel que visé à l'article 3 de l'annexe I de l'accord entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, sur la libre circulation des personnes, qui a le droit d'entrer en Belgique et de séjourner en Belgique.
+
+Si nécessaire, le membre de la famille visé aux a), b) et c), est tenu de fournir lui-même la preuve de son statut;
+
+3° les Belges et les membres de leurs familles, dans le sens sousvisé, qui ont fait appel au droit découlant du droit européen de s'établir dans un Etat UE+, ensuite rentrent en Belgique, et seraient tenus, par l'exercice de leur droit de libre circulation des personnes, à l'intégration civique obligatoire;
+
+4° l'intégrant ayant acquis une attestation d'intégration civique;
+
+5° l'intégrant qui prouve, à l'aide d'un certificat médical, qu'il est gravement malade ou a un handicap [<sup>4</sup> ...]<sup>4</sup> qui rend toute participation ou continuation de la participation au parcours d'intégration civique impossible à titre permanent;
+
+6° l'intégrant qui démontre à l'aide d'une attestation de fréquentation régulière des cours, qu'il a accompli une année scolaire entière d'enseignement d'accueil. Par année scolaire entière d'enseignement d'accueil, on entend une année scolaire d'enseignement d'accueil qui compte au moins neuf mois (les mois de vacances de juillet et août non compris) de fréquentation régulière des cours, répartis sur un ou deux années scolaires.
+
+[<sup>2</sup> 7° les personnes ayant la nationalité britannique et les membres de leur famille. Pour l'application de ce point, on entend par membres de famille :
+
+a) l'époux ;
+
+b) le partenaire avec lequel la personne de nationalité britannique a conclu un partenariat enregistré conformément à la législation d'un Etat membre de l'UE visée au point 2°, a), pour autant que la législation belge assimile le partenariat enregistré à un mariage et que les conditions de la législation belge soient remplies ;
+
+c) les descendants directs et ceux de l'époux ou du partenaire visé au point b), qui sont âgés de moins de 21 ans et qu'ils ont à charge ;
+
+d) les ascendants directs et ceux de l'époux ou du partenaire visé au point b), qu'ils ont à charge.]<sup>2</sup>
+
+L'intégrant, visé au paragraphe 1er, 1° et 3°, est dispensé de l'obligation d'intégration civique dès l'âge de 65 ans.
+
+L'intégrant, visé au paragraphe 1er, 1° et 3°, est dispensé de l'obligation d'intégration civique s'il peut fournir la preuve d'être en possession de :
+
+1° un certificat d'enseignement fondamental ou d'un certificat ou diplôme de l'enseignement secondaire ou d'un diplôme de l'enseignement supérieur dans un établissement d'enseignement financé, organisé ou subventionné par la Communauté flamande, la Communauté française ou la Communauté germanophone;
+
+2° un diplôme, certificat ou autre document, obtenu comme preuve d'accomplissement d'une formation comparable aux formations visées au point 1°, suivie dans un établissement d'enseignement financé, organisé ou subventionné par les Pays-Bas, à l'exception des formations suivies dans un établissement d'enseignement à Bonaire, Saint-Eustache ou Saba;
+
+3° un diplôme, certificat ou autre document, obtenu comme preuve d'accomplissement d'une des formations néerlandophones fixées par le Gouvernement flamand, dans un établissement d'enseignement à Bonaire, Saint-Eustache, Saba, Aruba, Curaçao ou à la Saint-Martin ou au Surinam.
+
+Le Gouvernement flamand dispense d'autres catégories de personnes de l'obligation d'intégration civique dans la mesure où c'est prescrit par des traités internationaux ou supranationaux.
+
+Le Gouvernement flamand peut dispenser d'autres catégories de personnes de l'obligation d'intégration civique, soit sur la base de lois, de décrets ou d'arrêtés, soit sur la base du caractère provisoire du séjour, qui peut devenir permanent.
+
+§ 3. L'intégrant au statut obligatoire est tenu de :
+
+1° se présenter à l'AAE dans un délai de trois mois au maximum du début de l'obligation d'intégration civique conformément au paragraphe 1er;
+
+2° [<sup>3</sup> pour atteindre les objectifs des parties du parcours d'insertion civique.]<sup>3</sup>
+
+Le Gouvernement flamand peut raccourcir le délai, visé à l'alinéa premier, 1°.
+
+[<sup>3</sup> Par dérogation à l'alinéa 1er, 2°, l'intégrant au statut obligatoire ne doit pas atteindre les objectifs des programmes de formation s'il lui est impossible d'atteindre ces objectifs en raison de capacités d'apprentissage limitées. Le Gouvernement flamand règle les modalités d'exécution.
+
+Pour les catégories spécifiques suivantes, le Gouvernement flamand peut prévoir un report du délai dans lequel l'intégrant doit se présenter :
+
+1° pour les intégrants visés à l'article 26, § 1er, qui travaillent ou étudient et peuvent prouver qu'ils ne sont pas en mesure de combiner ce travail ou la formation avec le fait de suivre un parcours d'insertion civique ;
+
+2° pour les intégrants qui, pour des raisons médicales ou personnelles, sont dans l'impossibilité de satisfaire à l'obligation de présentation dans les temps, visée à l'alinéa 1er, 1°.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par des raisons médicales ou personnelles telles que visées à l'alinéa 4, 2°.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par les notions de travail et d'études, visées à l'alinéa 4, 1°.]<sup>3</sup>
+
+§ 4. Le Gouvernement flamand arrête les modalités et conditions des dispenses visées au paragraphe 2, alinéa premier à trois inclus.
+
+[<sup>3</sup> Le Gouvernement flamand arrête les modalités et conditions des obligations visées au paragraphe 3.]<sup>3</sup>
+
+§ 5. L'intégrant qui remplit les conditions de l'alinéa deux, n'est tenu qu'à suivre la formation de " néerlandais comme deuxième langue ", fixée à l'[<sup>3</sup> article 31, § 1er]<sup>3</sup>, et à remplir les obligations, visées au paragraphe 3, alinéa premier, 1° et 2°. Si nécessaire, l'intéressé est tenu de fournir lui-même la preuve de son statut. Le Gouvernement flamand détermine les modalités en la matière.
+
+Les conditions visées à l'alinéa premier, sont les suivantes :
+
+1° être ressortissant d'un pays non membre de l'UE+;
+
+2° être inscrit au Registre national dans une commune de la région de langue néerlandaise;
+
+3° fournir la preuve d'être, selon la législation d'un Etat membre de l'UE, résident ressortissant de cet Etat membre;
+
+4° fournir la preuve d'avoir rempli les conditions d'intégration, conformément à l'article 5, alinéa deux, de la Directive 2003/109/CE du 25 novembre 2003 relative au statut des ressortissants de pays tiers résidents de longue durée, afin d'obtenir le statut de résident de longue durée dans le sens de cette Directive.
+
+[<sup>3</sup> § 5/1. Le Gouvernement flamand peut déterminer d'autres catégories qui sont dispensées d'une ou de plusieurs parties du parcours d'insertion civique, visé à l'article 29, § 1er, alinéa 2.]<sup>3</sup>
+
+§ 6. Le primo-arrivant mineur, visé à l'article 26, § 4, alinéa deux, qui est inscrit au Registre national dans une commune de la région de langue néerlandaise et qui atteint l'âge de dix-huit ans au moment où il n'est pas encore inscrit pour la première fois avec un titre de séjour de plus de trois mois au Registre national depuis douze mois consécutifs, dans une commune belge, et qui en tant qu'intégrant n'est pas dispensé de l'obligation d'intégration civique conformément au paragraphe 2, est obligé, conformément au paragraphe 3, alinéa premier, 1°, de se présenter à l'AAE dans un délai de trois mois au maximum après qu'il a atteint l'âge de dix-huit ans.
+
+Si, lorsqu'il se présente, il n'est pas capable de démontrer qu'il est inscrit dans l'enseignement d'accueil ou pour une formation conduisant à un diplôme, certificat de fin d'études, certificat ou autre document dans un établissement d'enseignement tel que visé au paragraphe 2, alinéa trois, l'obligation d'intégration civique, visée au paragraphe 3, alinéa premier, 2°, est applicable par analogie. Si, lorsqu'il se présente, il peut démontrer qu'il est inscrit dans l'enseignement d'accueil ou pour une formation conduisant à un diplôme, certificat de fin d'études, certificat ou autre document dans un établissement d'enseignement tel que visé au paragraphe 2, alinéa trois, l'obligation d'intégration civique, est suspendue jusqu'au 31 août de l'année scolaire en question. S'il peut démontrer, au plus tard le 31 août de la même année qu'il est de nouveau inscrit dans une formation conduisant à un diplôme, certificat de fin d'études, certificat ou autre document dans l'établissement d'enseignement tel que visé au paragraphe 2, alinéa trois, ou s'il peut présenter une attestation de fréquentation régulière des cours telle que visée au paragraphe 2, alinéa premier, 6°, il est dispensé de l'obligation d'intégration civique et l'AAE délivre une attestation de dispense. S'il ne peut pas démontrer, au plus tard le 31 août de la même année, qu'il est de nouveau inscrit pour une formation conduisant à un diplôme, certificat de fin d'études, certificat ou autre document dans un établissement d'enseignement tel que visé au paragraphe 2, alinéa trois, l'obligation d'intégration civique, visée au paragraphe 3, alinéa premier, 2°, est applicable par analogie.
+
+§ 7. Dans les paragraphes 2 et 5 on entend par UE+ : les pays de l'UE, complétés par les pays de l'EEE et de la Suisse.
+
+----------
+
+(1)&lt;DCFL 2015-05-29/17, art. 5, 003; En vigueur : 29-02-2016&gt;
+
+(2)&lt;DCFL 2019-03-22/06, art. 3, 007; En vigueur : indéterminée &gt;
+
+(3)&lt;DCFL 2021-07-09/17, art. 19, 010; En vigueur : 01-03-2022&gt;
+
+(4)&lt;DCFL 2024-05-03/27, art. 6, 011; En vigueur : 16-06-2024&gt;
+
+#### Sous-section 2. - Le parcours d'intégration civique
+
+##### Art. 28
+
+[<sup>1</sup> § 1er. La commune où l'intégrant est inscrit au registre national pour la première fois avec un titre de séjour de plus de trois mois, informe ladite personne sur la politique d'insertion civique et la renvoie à l'AAE.
+
+La commune attire l'attention des intégrants au statut obligatoire, visés à [<sup>2</sup> l'article 27, § 1er, § 5 et § 6, ]<sup>2</sup> sur les obligations visées à l'article 27, § 3, qui, le cas échéant, leur sont applicables, et leur signale également les sanctions visées à l'article 40.
+
+§ 2. L'AAE informe l'intégrant au statut obligatoire, visé à l'article 27, § 1er, 1° et 3°, § 5 et § 6, de son obligation d'insertion civique.
+
+Sous réserve d'application du paragraphe 1er, l'AAE informe l'intégrant, visé à[<sup>2</sup> l'article 46/7, § 1er, alinéa 1er, 6°, a),]<sup>2</sup>de la politique d'insertion civique.
+
+§ 3. [<sup>2</sup> § 3. Le Gouvernement flamand arrête les modalités d'exécution des paragraphes 1er et 2.]<sup>2</sup>.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 20, 010; En vigueur : 01-03-2022&gt;
+
+(2)&lt;DCFL 2024-05-03/27, art. 7, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 29
+
+[<sup>1</sup> § 1er. Le parcours d'insertion civique permet aux intégrants d'accroître leur autonomie.
+
+Le parcours d'intégration se compose des éléments suivants :
+
+1° un programme de formation "orientation sociale" tel que visé à l'article 30 ;
+
+2° un programme de formation "néerlandais comme deuxième langue" tel que visé à l'article 31 ;
+
+3° une inscription auprès du VDAB ou d'Actiris telle que visée à l'article 32 ;
+
+4° un parcours de participation et de réseau tel que visé à l'article 33.
+
+L'inscription auprès du VDAB ou d'Actiris, visée à l'alinéa 2, 3°, relève uniquement du parcours d'insertion civique d'intégrants en âge de travailler qui ont légalement accès au marché de l'emploi.
+
+Le parcours de participation et de réseau, visé à l'alinéa 2, 4°, peut être repris dans le contrat d'insertion civique par un intégrant qui n'est pas obligé de suivre le parcours d'insertion civique.
+
+Sous réserve des dispositions de la présente sous-section, le Gouvernement flamand détermine :
+
+1° l'organisation du parcours d'insertion civique ;
+
+2° le contenu, les conditions et les critères de qualité des programmes de formation ainsi que du parcours de participation et de réseau pour les intégrants.
+
+§ 2. L'AAE garde une vue d'ensemble du parcours d'insertion civique, visé au paragraphe 1er, alinéa 2, et en fait rapport au Gouvernement flamand et aux communes concernées de la région de langue néerlandaise.
+
+§ 3. Le parcours d'insertion civique, visé au paragraphe 1er, alinéa 2, prend cours à la présentation auprès de l'AAE et se termine au moment où les objectifs des parties du parcours d'insertion civique ont été atteints et où l'intégrant a été orienté vers les structures régulières.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 21, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 30
+
+[<sup>1</sup> § 1er. L'AAE organise le programme de formation "orientation sociale", visé à l'article 29, § 1er, alinéa 2, 1°, pour les intégrants.
+
+§ 2. Le programme de formation "orientation sociale", visé à l'article 29, § 1er, alinéa 2, 1°, vise à accroître l'autonomie dans les meilleurs délais, d'une part en fournissant les connaissances relatives aux droits et obligations et les connaissances et la compréhension de notre société et de ses valeurs de base, et d'autre part en donnant une impulsion au développement de certaines compétences requises pour l'autonomie des intégrants.
+
+L'intégrant démontre qu'il a atteint l'objectif du programme de formation "orientation sociale" en réussissant un test organisé par l'AAE. Le Gouvernement flamand arrête les modalités et conditions de ce test.
+
+§ 3. La participation au programme de formation "orientation sociale", visé à l'article 29, § 1er, alinéa 2, 1°, est subordonnée au paiement unique d'une rétribution. Le Gouvernement flamand arrête le montant de la rétribution et les modalités de cette rétribution.
+
+La participation au test, visé au paragraphe 2, alinéa 2, est subordonnée au paiement d'une rétribution. Le Gouvernement flamand fixe le montant de la rétribution et arrête les modalités de cette rétribution.
+
+[<sup>2</sup> Par dérogation aux alinéas premier et deux, les catégories suivantes d'intégrants au statut obligatoire, qui ne sont pas des intégrants au statut obligatoire, sont exemptées des rétributions visées aux alinéas premier et deux :
+
+1° les intégrants inscrits au Registre national dans une commune de la région bilingue de Bruxelles-Capitale ;
+
+2° les intégrants qui ne sont pas titulaires d'un diplôme de l'enseignement secondaire et qui sont inscrits aux modules d'alphabétisation néerlandais et Apprendre à apprendre ou Gestion de son propre apprentissage, à une formation dans les domaines d'apprentissage de l'éducation de base ou une formation dans les disciplines formation générale supplémentaire ou formation générale ;
+
+3° les intégrants qui acquièrent un revenu par le biais de services sociaux ou d'un revenu d'intégration sociale ou qui sont à charge des catégories précitées ;
+
+4° les intégrants détenus, conformément à l'article 2, 16° bis, du décret du 15 juin 2007 relatif à l'éducation des adultes ;
+
+5° les intégrants demandeurs d'emploi, conformément à l'article 2, 47° bis, du décret du 15 juin 2007 relatif à l'éducation des adultes ;
+
+6° les intégrants demandeurs d'emploi inoccupés inscrits obligatoirement qui n'ont pas encore acquis le droit à une allocation d'insertion ;
+
+7° les intégrants inscrits à une formation telle que visée à l'article 64bis du décret du 15 juin 2007 relatif à l'éducation des adultes ;
+
+8° les intégrants mineurs tels que visés à l'article 26, § 1er, alinéa premier, 3° du présent décret.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa deux, les intégrants qui ont déjà obtenu une attestation d'intégration civique délivrée par la Communauté germanophone, la Communauté française, la Commission communautaire française ou la Commission communautaire commune sont dispensés de la rétributions dans le cadre de l'obtention d'une dispense pour le programme de formation orientation sociale visé à l'article 34/1, § 1er, alinéa premier, du présent décret.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 22, 010; En vigueur : 01-03-2022&gt;
+
+(2)&lt;DCFL 2022-06-24/08, art. 9, 013; En vigueur : 01-09-2023&gt;
+
+##### Art. 31
+
+[<sup>1</sup> § 1er. Le programme de formation "néerlandais comme deuxième langue", visé à l'article 29, § 1er, alinéa 2, 2°, offert par les centres, visés à l'article 2, alinéa 1er, 4°, a) à E), vise la maîtrise du néerlandais le plus rapidement possible au niveau de compétences linguistiques A2, tel que défini dans le Cadre européen commun de référence pour les langues, comme tremplin vers un cours complémentaire.
+
+Si l'intégrant suit un programme de formation "néerlandais comme deuxième langue" auprès des centres visés à l'article 2, alinéa 1er, 4°, a) et b), du présent décret, ce programme de formation offre le niveau linguistique de la formation "néerlandais comme deuxième langue" qui comprend la formation NT2 Breakthrough/Waystage R1.
+
+Pour les intégrants qui suivent une formation du domaine d'apprentissage "alfabetisering Nederlands tweede taal", visé à l'article 6, 1°, du décret du 15 juin 2007 relatif à l'éducation des adultes, le Gouvernement flamand dérogera aux dispositions visées à l'alinéa premier.
+
+[<sup>2</sup> Le Gouvernement flamand peut déroger aux dispositions visées à l'alinéa 1er, pour certaines catégories de personnes suivant un parcours d'insertion civique qui, en raison d'un handicap, ne sont pas en mesure de maîtriser le néerlandais comme deuxième langue au niveau de compétence linguistique A2.]<sup>2</sup>
+
+§ 2. Le Gouvernement flamand détermine la manière dont le niveau de compétences linguistiques, visé au paragraphe 1er, alinéa 1er, est fixé.
+
+§ 3. Le programme de formation "néerlandais comme deuxième langue", offert au sein des centres visés à l'article 2, alinéa 1er, 4°, a) à d) inclus, relève des dispositions en matière de contrôle de qualité qui sont applicables à ces centres.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 23, 010; En vigueur : 01-03-2022&gt;
+
+(2)&lt;DCFL 2024-05-03/27, art. 8, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 32
+
+[<sup>1</sup> § 1er. L'inscription auprès du VDAB ou d'Actiris, visée à l'article 29, § 1er, alinéa 2, 3°, vise à renforcer l'autonomie économique de l'intégrant.
+
+§ 2. Les intégrants inscrits au registre national dans une commune de la région de langue néerlandaise sont tenus de s'inscrire auprès du VDAB. Les intégrants inscrits au registre national dans une commune de la région bilingue de Bruxelles-Capitale satisfont à la condition de l'article 29, § 1er, alinéa 2, 3°, en s'inscrivant auprès d'Actiris.
+
+§ 3. L'intégrant démontre, de l'une des manières suivantes, qu'il a atteint l'objectif de l'inscription auprès du VDAB ou d'Actiris :
+
+1° en s'inscrivant auprès du VDAB ou d'Actiris dans les soixante jours maximum suivant la signature du contrat d'insertion civique ;
+
+2° en démontrant qu'il travaille au moment de la signature du contrat d'insertion civique ;
+
+3° en démontrant qu'il travaille avant que le délai de soixante jours maximum soit écoulé après la signature du contrat d'insertion civique.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par la notion de travail, visée à l'alinéa premier.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 24, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 33
+
+[<sup>1</sup> § 1er. Le parcours de participation et de réseau, visé à l'article 29, § 1er, alinéa 2, 4°, vise à réaliser une meilleure participation et intégration en créant un réseau.
+
+§ 2. L'intégrant démontre, de l'une des manières suivantes, qu'il a atteint l'objectif du parcours de participation et de réseau :
+
+1° en démontrant qu'il a participé pendant au minimum quarante heures au parcours de participation et de réseau pendant la durée du contrat d'insertion civique, visé à l'article 34/2, § 1er, 4° ;
+
+2° en démontrant qu'il travaille ou étudie au moment de la signature du contrat d'insertion civique ;
+
+3° en démontrant qu'il travaille ou étudie après la signature du contrat d'insertion civique et avant que le parcours d'intégration ne se termine.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par les notions de travail et d'études, visées à l'alinéa premier.
+
+Le Gouvernement flamand arrête les modalités et conditions du parcours de participation et de réseau.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 25, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 34
+
+[<sup>1</sup> Le parcours d'insertion civique est soutenu par l'accompagnement de parcours qui est offert sur mesure par l'AAE et qui, en application de l'article 34/4, oriente le plus rapidement possible les intégrants vers les structures régulières en vue de la participation aussi bien à la vie professionnelle et sociale qu'à l'éducation.
+
+L'accompagnement de parcours est une méthodologie visant à accompagner les intégrants individuellement et à leur mesure pendant le parcours d'insertion civique. L'accompagnement de parcours garantit l'approche intégrale du parcours d'insertion civique qui est réalisé en concertation avec l'intégrant concerné.
+
+L'accompagnement de parcours comprend l'orientation de carrière qui vise à soutenir et accompagner un processus individuel, lors duquel l'intégrant prend en charge sa propre trajectoire de vie et acquiert notamment une meilleure compréhension du marché de l'emploi et du système d'enseignement. Dans ce contexte, les compétences déjà présentes sont transposées dans le cadre de notre société.
+
+Le Gouvernement flamand arrête les modalités et règles relatives à l'accompagnement de parcours.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 26, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 34/1
+
+[<sup>1</sup> § 1er. Avant que le parcours d'insertion civique puisse être entamé, l'AAE vérifie, en concertation avec l'intégrant, quels éléments font partie du parcours d'insertion civique de ce dernier et si les objectifs des parties, visés à l'article 29, § 1er, alinéa 2, ont déjà été atteints. Si les objectifs ont déjà été atteints, l'AAE accorde à la personne concernée une dispense pour les parties dont les objectifs ont été atteints.
+
+Les intégrants qui ont atteint tous les objectifs de toutes les parties du parcours d'insertion civique qui leur sont applicables ne signent pas de contrat d'insertion civique et reçoivent immédiatement un certificat d'insertion civique tel que visé à l'article 34/3, alinéa premier. S'il s'agit d'un intégrant tel que visé dans le paragraphe 2, l'AAE en informe le VDAB ou le CPAS, selon le cas.
+
+§ 2. Par dérogation au paragraphe 1er, l'AAE offre à un intégrant qui est un demandeur d'emploi inscrit obligatoirement et n'appartient pas aux catégories prioritaires, visées à l'article 26, § 3, et qui est renvoyé à l'AAE par le VDAB, les parties du parcours d'insertion civique que le VDAB a désignées lors du renvoi. Le Gouvernement flamand peut préciser ce qu'il faut entendre par "renvoi".
+
+Par dérogation au paragraphe 1er, l'AAE offre à un intégrant qui acquiert des revenus par le biais de services sociaux ou d'un revenu d'intégration sociale, dans la mesure où il n'appartient pas aux catégories prioritaires, visées à l'article 26, § 3, et qui est renvoyé à l'AAE par un CPAS, les parties du parcours d'insertion civique que le CPAS a désignées lors du renvoi.
+
+§ 3. Au plus tard trente jours après la présentation, les parties pour lesquelles l'AAE dispense l'intégrant sont clairement identifiées.
+
+Au plus tard nonante jours après la présentation, l'intégrant signe le contrat d'insertion civique, visé à l'article 34/2.
+
+Pour les catégories spécifiques suivantes, le Gouvernement flamand peut prévoir un report du délai, visé à l'alinéa 2 :
+
+1° pour les intégrants visés à l'article 26, § 1er, qui travaillent ou étudient et peuvent prouver qu'ils ne sont pas en mesure de combiner ce travail ou la formation avec le fait de suivre un parcours d'insertion civique ;
+
+2° pour les intégrants qui, pour des raisons médicales ou personnelles, sont temporairement dans l'impossibilité de signer le contrat d'insertion civique.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par des raisons médicales et personnelles telles que visées à l'alinéa 3, 2°.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par les notions de travail et d'études telles que visées à l'alinéa 3, 1°.
+
+§ 4. L'AAE définit les programmes de formation et le parcours de participation et de réseau en concertation avec l'intégrant et tient compte des aspects suivants :
+
+1° les connaissances, les aptitudes et les compétences déjà acquises par l'intégrant ;
+
+2° la situation personnelle de l'intégrant.
+
+Au moins un des deux programmes de formation est entamé dans les nonante jours suivant la signature du contrat d'insertion civique par l'intégrant. Pour les catégories spécifiques suivantes, le Gouvernement flamand peut déroger au délai précité :
+
+1° pour les intégrants visés à l'article 26, § 1er, qui travaillent ou étudient et peuvent prouver qu'ils ne sont pas en mesure de combiner ce travail ou la formation avec le fait de suivre un parcours d'insertion civique ;
+
+2° pour les intégrants qui, pour des raisons médicales ou personnelles, ne peuvent pas respecter ce délai.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par des raisons médicales et personnelles telles que visées à l'alinéa 2, 2°.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par les notions de travail et d'études telles que visées à l'alinéa 2, 1°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/17, art. 27, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 34/2
+
+[<sup>1</sup> § 1er. Pour pouvoir entamer le parcours d'insertion civique, l'intégrant signe un contrat d'insertion civique qui comprend au moins les éléments suivants :
+
+1° une disposition relative aux droits et obligations essentiels qui doivent être respectés dans notre société ;
+
+2° les éléments qui font partie du parcours d'insertion civique de l'intégrant, avec une indication des parties pour lesquelles l'intégrant est dispensé et celles pour lesquelles il ne l'est pas ;
+
+3° la mention du cours spécifique auquel l'intégrant est inscrit, pour au moins un programme de formation ;
+
+4° le délai dans lequel le parcours d'insertion civique est terminé, la durée du programme de formation " néerlandais comme deuxième langue " étant utilisé comme délai pour le parcours d'insertion civique entier.
+
+§ 2. Le Gouvernement flamand fixe le contenu de la disposition relative aux droits et obligations essentiels, visée au paragraphe 1er, 1°.
+
+§ 3. Pour les catégories spécifiques suivantes, le Gouvernement flamand peut prévoir une suspension du parcours d'intégration pour les intégrants :
+
+1° les intégrants visés à l'article 26, § 1er, qui travaillent ou étudient et peuvent prouver qu'ils ne sont pas en mesure de combiner ce travail ou la formation avec le fait de suivre un parcours d'insertion civique ;
+
+2° pour les intégrants qui, pour des raisons médicales ou personnelles, doivent interrompre leur parcours d'insertion civique.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par des raisons médicales ou personnelles telles que visées à l'alinéa 1er, 2°.
+
+Le Gouvernement flamand précise ce qu'il faut entendre par les notions de travail et d'études telles que visées à l'alinéa 1er, 1°. "
+
+§ 4. Le Gouvernement flamand peut déterminer les modalités du contrat d'insertion civique et peut compléter les éléments du contrat d'insertion civique, visés au paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/17, art. 28, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 34/3
+
+[<sup>1</sup> Si l'intégrant a atteint au moins les objectifs pour chaque partie du parcours d'insertion civique, tels que repris dans le contrat d'insertion civique, visé à l'article 34/2, § 1er, l'AAE délivre à cette personne un certificat d'insertion civique. S'il s'agit d'un intégrant tel que visé à l'article 34/1, § 2, l'AAE en informe le VDAB ou le CPAS, selon le cas.
+
+Si l'AAE constate qu'un intégrant est dispensé de l'obligation d'insertion civique en application de l'article 27, § 2, elle délivre à cette personne une attestation de dispense.
+
+Le Gouvernement flamand arrête les modalités pour le certificat d'insertion civique, visé à l'alinéa 1er, et l'attestation de dispense, visée à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/17, art. 29, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 34/4
+
+[<sup>1</sup> Conformément à l'article 34, l'intégrant est orienté le plus rapidement possible vers les structures régulières.
+
+L'orientation, visée à l'alinéa 1er, se déroule selon un accord de coopération conclu avec les structures régulières. L'accord de coopération comprend au moins un règlement relatif à la rétroaction des résultats de cette personne à l'AAE.
+
+Le Gouvernement flamand peut arrêter les modalités pour l'orientation.
+
+L'intégrant a droit à la participation à une offre qui correspond à son parcours d'insertion civique et à sa trajectoire de vie. L'offre vise à réaliser une participation à part entière de l'intégrant à la société.
+
+Les structures régulières vers lesquelles sont orientés les intégrants développent une offre qui répond aux besoins.
+
+Les structures régulières en région bilingue de Bruxelles-Capitale peuvent collaborer à l'exécution de la politique flamande d'insertion civique en coopération avec la Commission communautaire flamande et l'AAE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/17, art. 30, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 34/5
+
+[<sup>1</sup> § 1er. L'intégrant au statut obligatoire à qui un certificat d'insertion civique a été délivré, tel que visé à l'article 34/3, alinéa 1er, est tenu de disposer, dans les 24 mois suivant la délivrance du certificat d'insertion civique, de compétences linguistiques du néerlandais correspondant au niveau B1 oral du Cadre européen de référence pour les langues.
+
+Le Gouvernement flamand détermine la manière dont les compétences linguistiques sont établies.
+
+§ 2. Par dérogation au paragraphe 1er, l'intégrant est dispensé de l'obligation visée au paragraphe 1er dans les cas suivants :
+
+1° l'intégrant n'est plus en âge de travailler ;
+
+2° l'intégrant peut démontrer qu'il a travaillé ou étudié sans interruption pendant 6 mois au cours de la période de 24 mois suivant la délivrance du certificat d'insertion civique. Le Gouvernement flamand détermine ce qu'il faut entendre par 6 mois de travail et d'études sans interruption et détermine la manière dont cela peut être démontré ;
+
+3° l'intégrant peut démontrer qu'il ne peut à titre permanent pas satisfaire à l'obligation visée au paragraphe 1er, alinéa 1er, parce qu'il est gravement malade ou a un handicap [<sup>2</sup> ...]<sup>2</sup> ou dispose de capacités d'apprentissage limitées. Le Gouvernement flamand détermine la manière dont l'intégrant peut le démontrer.
+
+Le Gouvernement flamand détermine un régime de report pour l'intégrant qui, pour des raisons médicales ou personnelles, ne peut temporairement pas satisfaire à l'obligation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/17, art. 31, 010; En vigueur : 01-03-2022&gt;
+
+(2)&lt;DCFL 2024-05-03/27, art. 9, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 34/6
+
+[<sup>1</sup> Au pays d'origine, un coffret d'introduction en vue de l'insertion civique peut être offert au candidat-immigrant, qui lui permet de mieux se préparer à son établissement en région de langue néerlandaise ou en région bilingue de Bruxelles-Capitale.
+
+Dans l'alinéa premier, on entend par "coffret d'introduction en vue de l'insertion civique" un paquet d'information gratuit qui est mis à la disposition du candidat-immigrant de sorte qu'il peut se préparer, dans son pays d'origine, à son établissement en région de langue néerlandaise ou en région bilingue de Bruxelles-Capitale.
+
+Les autres dispositions du présent décret ne s'appliquent pas au candidat-immigrant, visé à l'alinéa premier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/17, art. 32, 010; En vigueur : 01-03-2022&gt;
+
+#### Sous-section 3. - Le parcours d'orientation pour les primo-arrivants mineurs et les bambins allophones
+
+##### Art. 35
+
+§ 1er. La commune dans laquelle un primo-arrivant mineur ou un bambin allophone est inscrit, renvoie ce primo-arrivant ou ce bambin à l'AAE et informe le primo-arrivant mineur ou le bambin allophone des dispositions en vigueur concernant l'obligation scolaire et le droit à l'enseignement.
+
+La commune où le primo-arrivant mineur s'inscrit, informe cette personne sur l'offre socioculturelle de la commune et, si celle-ci le souhaite, la met en contact avec les services locaux concernés.
+
+§ 2. L'AAE informe les primo-arrivants mineurs et les bambins allophones, dans la mesure où ils ne sont pas encore inscrits dans une école ou n'ont pas encore rempli l'obligation scolaire, sur le parcours d'orientation. Le Gouvernement flamand règle les modalités d'exécution.
+
+##### Art. 36
+
+§ 1er. Le parcours d'orientation pour primo-arrivants mineurs qui se présentent ou sont présentés à l'AAE, comprend un aiguillage actif par l'AAE :
+
+1° vers l'offre d'enseignement la plus appropriée;
+
+2° au besoin, vers des structures de santé et d'aide sociale.
+
+Le parcours d'orientation pour bambins allophones qui se présentent ou sont présentés à l'AAE, comprend un aiguillage actif par l'AAE vers l'enseignement maternel.
+
+Le Gouvernement flamand arrête les modalités relatives à l'orientation, visée aux alinéas premier et deux.
+
+§ 2. Dans la région bilingue de Bruxelles-Capitale, l'AAE peut informer le primo-arrivant mineur qui se présente ou est présenté à l'AAE, pendant un délai de soixante jours suivant la présentation, sur l'offre socioculturelle de langue néerlandaise et éventuellement le mettre en contact avec les services locaux concernés.
+
+##### Art. 37
+
+L'aiguillage actif, par l'AAE, de primo-arrivants mineurs vers l'offre d'enseignement la plus appropriée doit être réalisé dans les soixante jours suivant le jour auquel le primo-arrivant mineur a été inscrit au registre des étrangers, au registre d'attente ou au registre de la population de la commune de la résidence, selon le cas.
+
+L'AAE présente les primo-arrivants mineurs qui n'ont pas été orientés dans le délai, visé à l'alinéa premier, à la plate-forme locale de concertation, dans le cadre de l'exécution de ses missions, telles que visées au décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I, chapitre IV, section 1re, sous-section 2, ou au Département de l'Enseignement et de la Formation, dans le cadre du contrôle de l'obligation scolaire. En outre, l'AAE réalise après tout l'orientation des primo-arrivants mineurs dans les soixante jours suivant leur présentation à l'AAE.
+
+Pour les bambins allophones, l'AAE réalise l'orientation vers l'offre d'enseignement appropriée dans les soixante jours suivant leur présentation à l'AAE.
+
+##### Art. 38
+
+L'exécution des missions de l'AAE et des communes, visées aux articles 35, 36 et 37, se déroule toujours via les personnes qui exercent l'autorité parentale du primo-arrivant mineur ou du bambin allophone.
+
+#### Sous-section 4. - Sanction
+
+##### Art. 39
+
+§ 1er. [<sup>2</sup> L'AAE contrôle si l'intégrant au statut obligatoire :
+
+1° s'est présenté auprès de l'AAE ;
+
+2° a atteint les objectifs de chaque partie de son parcours d'insertion civique ;
+
+3° a participé régulièrement aux programmes de formation ;
+
+4° a respecté son obligation visée à l'article 34/5.
+
+Le Gouvernement flamand règle le contrôle visé au premier alinéa.
+
+L'AAE informe le département ou l'agence autonomisée interne sans personnalité juridique que le Gouvernement flamand désigne, en vue d'une application de la sanction visée à l'article 40, lorsqu'un intégrant au statut obligatoire :
+
+1° ne s'est pas présenté auprès de l'AAE dans les nonante jours suivant le début de l'obligation d'insertion civique ;
+
+2° termine prématurément de manière illégitime le parcours d'insertion civique ;
+
+3° n'a pas atteint les objectifs des parties du parcours d'insertion civique et n'a pas participé régulièrement aux programmes de formation ;
+
+4° n'a pas respecté son obligation visée à l'article 34/5.]<sup>2</sup>
+
+§ 2. Les centres qui proposent le programme de néerlandais comme deuxième langue, sont tenus de coopérer au contrôle de la participation régulière au programme de néerlandais comme deuxième langue par les intégrants. Le non-respect des obligations peut donner lieu à des sanctions. Les sanctions tombent sous l'application des dispositions applicables à ces centres, visés aux articles 118 et 119 du décret du 15 juin 2007 relatif à l'éducation des adultes.
+
+§ 3. [<sup>2</sup> Par dérogation au paragraphe 1er, un intégrant qui est renvoyé à l'AAE par le VDAB, et qui est demandeur d'emploi inscrit obligatoirement est notifié, dans les cas visés au paragraphe 1er, alinéa 3, par l'AAE au VDAB concerné, en vue d'une application des sanctions visées à la réglementation pertinente en la matière. " ; Le Gouvernement flamand peut préciser ce qu'il faut entendre par "renvoi".
+
+" Par dérogation au paragraphe 1er, un intégrant pour qui la participation à un cours d'intégration est reprise comme condition d'octroi ou de maintien des revenus provenant de services sociaux ou d'un revenu d'intégration, est notifié, dans les cas visés au paragraphe 1er, alinéa 3, par l'AAE au CPAS concerné, en vue d'une application des sanctions visées à la réglementation pertinente en la matière.]<sup>2</sup>
+
+§ 4. Sans préjudice de l'application de [<sup>3</sup> l'article ]<sup>3</sup> [<sup>2</sup> 27, § 3, alinéa 4, 1°, de l'article 34/1, § 3, alinéa 3, 1°, et § 4, alinéa 2, 1°, et de l'article 34/2, § 3, alinéa 1er, 1°]<sup>2</sup>, le Gouvernement flamand fixe les critères à l'aide desquels l'AAE peut juger si quelqu'un a terminé prématurément de manière illégitime [<sup>2</sup> le parcours d'insertion civique]<sup>2</sup>.
+
+Sans préjudice de l'application de [<sup>3</sup> l'article ]<sup>3</sup> [<sup>2</sup> 27, § 3, alinéa 4, 1°, de l'article 34/1, § 3, alinéa 3, 1°, et § 4, alinéa 2, 1°, et de l'article 34/2, § 3, alinéa 1er, 1°]<sup>2</sup>, le Gouvernement flamand fixe les critères à l'aide desquels l'AAE peut juger si quelqu'un a participé régulièrement ou non [<sup>2</sup> au programme de formation]<sup>2</sup>.
+
+Pour les intégrants, visés à l'article [<sup>2</sup> 27, § 3, alinéa 4, 1°, à l'article 34/1, § 3, alinéa 3, 1°, et § 4, alinéa 2, 1°, et à l'article 34/2, § 3, alinéa 1er, 1°]<sup>2</sup>, le Gouvernement flamand peut déroger aux dispositions visées aux alinéas premier et deux.
+
+§ 5. Par dérogation au [<sup>2</sup> paragraphe 1er, alinéa 3,]<sup>2</sup> et au [<sup>2</sup> paragraphe 3,]<sup>2</sup> l'AAE ne doit pas notifier au département ou à l'agence autonomisée interne sans personnalité juridique, visé(e) au [<sup>2</sup> paragraphe 1er, alinéa 3,]<sup>2</sup> au VDAB ou au CPAS, qu'un intégrant a terminé prématurément de manière illégitime ou n'a pas suivi régulièrement [<sup>2</sup> un programme de formation]<sup>2</sup> dans la mesure où il s'agit d'un intégrant qui est dans l'impossibilité, en raison de ses capacités d'apprentissage restreintes, d'atteindre [<sup>2</sup> les objectifs, visés à l'article 30, § 2, alinéa 1er, et à l'article 31, § 1er]<sup>2</sup>.
+
+Le Gouvernement flamand arrête les modalités d'exécution de l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFL 2019-01-18/05, art. 14, 005; En vigueur : 29-07-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 33, 010; En vigueur : 01-03-2022&gt;
+
+(3)&lt;DCFL 2024-05-03/27, art. 10, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 40
+
+§ 1er. Une amende administrative de 50 à 5000 euros peut être imposée [<sup>2</sup> ...]<sup>2</sup> aux intégrants au statut obligatoire qui, en application de l'article 39, § 1er, alinéas trois [<sup>2</sup> ...]<sup>2</sup>, ont été notifiés au département ou à l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand.
+
+Le Gouvernement flamand fixe le montant de l'amende administrative et les marges éventuellement applicables. Il est tenu compte de la gravité de l'infraction et, le cas échéant, des circonstances atténuantes.
+
+§ 2. L'AAE constate une infraction. Les constatations font foi jusqu'à preuve du contraire.
+
+[<sup>4</sup> Le Gouvernement flamand ou son délégué désigne, au sein du département ou de l'agence autonomisée interne sans personnalité juridique, visé(e) à l'article 39, § 1er, alinéa 3, les membres du personnel qui imposent l'amende administrative.]<sup>4</sup> Une amende administrative ne peut être imposée que dans le délai de deux ans suivant la constatation d'une infraction.
+
+Une amende administrative ne peut être imposée qu'après que :
+
+1° l'intégrant concerné a reçu une sommation écrite de l'AAE à se mettre en ordre;
+
+2° l'intégrant concerné ne s'est pas mis en ordre dans le délai fixé par le Gouvernement flamand;
+
+3° l'intégrant, assisté ou non par un conseil, a eu l'occasion d'être entendu [<sup>4</sup> par les membres du personnel du département ou de l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand ou son délégué conformément à l'alinéa 2]<sup>4</sup>.
+
+L'intéressé est informé de la décision par lettre recommandée à la poste ou contre récépissé. La notification mentionne la façon de former recours contre la décision.
+
+[<sup>1</sup> Contre la décision de l'imposition d'une amende administrative, l'intéressé peut introduire un recours par voie de requête auprès du tribunal de police. Sous peine de déchéance, le recours est introduit dans les quinze jours à partir du troisième jour ouvrable après le jour auquel la lettre, visée à l'alinéa 4, est remise aux services postaux. Par jour ouvrable, on entend chaque jour, exceptés le samedi, dimanche ou jour férié légal. Un appel contre le jugement du tribunal de police peut être institué auprès du tribunal de première instance. Le recours auprès du tribunal de police ainsi que, le cas échéant, l'appel auprès du tribunal de première instance, suspend l'exécution de la décision]<sup>1</sup>.
+
+Le Gouvernement flamand arrête le délai et les modalités du paiement de l'amende administrative.
+
+Sans préjudice de l'application [<sup>3</sup> du décret du 19 avril 2024 réglementant le recouvrement des créances non fiscales]<sup>3</sup>, le Gouvernement flamand désigne les membres du personnel habilités à délivrer une contrainte et la déclarer exécutoire en vue du recouvrement de l'amende administrative. Une contrainte est signifiée par exploit d'huissier avec injonction de payer.
+
+La requête en paiement de l'amende administrative se prescrit après cinq ans, à compter du jour où elle s'est formée. La prescription est interrompue selon le mode et aux conditions fixés à l'article 2244 du Code civil.
+
+----------
+
+(1)&lt;DCFL 2019-01-18/05, art. 15, 005; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 34, 010; En vigueur : 01-03-2022&gt;
+
+(3)&lt;DCFL 2024-04-19/44, art. 26, 012; En vigueur : 08-12-2024&gt;
+
+(4)&lt;DCFL 2024-03-22/15, art. 10, 014; En vigueur : 01-10-2025&gt;
+
+### Section 4.
+
+&lt;Abrogé par DCFL 2021-07-09/17, art. 35, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 41
+
+&lt;Abrogé par DCFL 2021-07-09/17, art. 35, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 42
+
+&lt;Abrogé par DCFL 2021-07-09/17, art. 35, 010; En vigueur : 01-03-2022&gt;
+
+### Section 5. - Politique linguistique
+
+##### Art. 43
+
+La politique linguistique, visée à l'article 17, alinéa deux, 2°, b), comprend un ensemble cohérent et structurel de mesures au niveau organisationnel, orientées sur l'élimination des obstacles linguistiques pour les allophones d'une part, et la création d'opportunités maximales d'apprentissage de néerlandais pour l'allophone d'autre part.
+
+En exécution de l'alinéa premier, l'AAE peut lancer tant des projets de politique linguistique que des actions de politique linguistique.
+
+Par projet de politique linguistique, on entend l'ensemble d'actions connexes de politique linguistique visant à atteindre, au sein d'une organisation temporaire, en coopération avec la structure, l'organisation, le service public ou le pouvoir public en question, dans les conditions prévues et dans un délai clairement délimité, un résultat défini au préalable en ce qui concerne la politique linguistique.
+
+##### Art. 43/1
+
+[<sup>1</sup> § 1er. Les services d'interprétariat et de traduction sociaux relèvent de la politique linguistique visée à l'article 17, alinéa 2, 2°, b).
+
+§ 2. L'interprétariat social est un instrument qui soutient la communication orale des usagers, visés à l'article 43/2, § 1er, avec des clients allophones en transposant entièrement et fidèlement le message oral d'une langue source dans une langue cible. On distingue les formes suivantes d'interprétariat social :
+
+1° l'interprétariat social à distance, par lequel l'interprète social interprète à distance la conversation entre l'usager et le(s) client(s) allophone(s) ;
+
+2° l'interprétariat social sur place, par lequel l'interprète social est physiquement présent à la conversation entre l'usager et le(s) client(s) allophone(s).
+
+La traduction sociale est un instrument qui soutient la communication écrite des usagers avec des clients allophones en transposant entièrement et fidèlement le message écrit d'une langue source dans une langue cible.
+
+§ 3. Dans le présent paragraphe, on entend par "Registre flamand d'interprètes et traducteurs sociaux" la base de données centrale des interprètes et traducteurs sociaux certifiés qui est gérée par l'AAE.
+
+L'interprétariat et la traduction sociaux sont faits par des interprètes et des traducteurs qui sont repris au registre flamand d'interprètes et traducteurs sociaux.
+
+L'engagement d'interprètes et de traducteurs autres que ceux repris au registre flamand d'interprètes et traducteurs sociaux ne peut être admis que si aucun interprète ou traducteur n'est disponible dans le registre précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/17, art. 36, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 43/2
+
+[<sup>1</sup> § 1er. Les usagers qui peuvent faire appel à l'interprétariat et la traduction sociaux sont les structures, organisations et pouvoirs publics actifs en région de langue néerlandaise ou en région bilingue de Bruxelles-Capitale.
+
+§ 2. L'AAE offre tant l'interprétariat social que la traduction sociale. En développant, en appliquant et en ajustant des instruments de qualité, l'AAE assure le processus continu d'amélioration et d'assurance de la qualité de l'interprétariat et de traduction sociaux.
+
+§ 3. Les modalités des services d'interprétariat et de traduction sociaux de l'AAE aux usagers sont réglées dans des accords de coopération avec les usagers, visés au paragraphe 1er.
+
+Seuls les usagers, visés au paragraphe 1er, qui ont signé un accord de coopération, peuvent faire appel aux services d'interprétariat et de traduction sociaux. L'accord de coopération détermine les modalités et la tarification des prestations d'interprétariat et de traduction.
+
+L'accord de coopération, visé à l'alinéa premier, détermine si l'usager, visé au paragraphe 1er, ou le service public-utilisateur de services, selon le cas, payera les prestations d'interprétariat et de traduction à effectuer. Le service public-utilisateur de services doit être partie à l'accord de coopération dans la mesure où il peut être tenu de payer les prestations d'interprétariat et de traduction.
+
+A l'alinéa 3, on entend par "service public-utilisateur de services" le service public qui subventionne les structures sociales qui font appel à un interprète social ou à un traducteur social. Le service public-utilisateur de services peut également être un usager lui-même.
+
+Le Gouvernement flamand peut déterminer les modalités des services d'interprétariat et de traduction sociaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/17, art. 37, 010; En vigueur : 01-03-2022&gt;
+
+### Section 6. - Promotion de la langue
+
+##### Art. 44
+
+La promotion de la langue, visée à l'article 17, alinéa deux, 2°, c), comprend l'ensemble d'actions qui visent d'une part à encourager les allophones à apprendre, à exercer et à utiliser le néerlandais, et d'autre part à encourager et soutenir les néerlandophones à offrir aux allophones des opportunités maximales d'apprentissage, d'exercice et d'utilisation du néerlandais.
+
+En exécution de l'alinéa premier, l'AAE peut lancer tant des actions de promotion de la langue.
+
+### Section 7. - Activités d'intégration
+
+##### Art. 45
+
+Les activités d'intégration, visées à l'article 17, alinéa deux, 2°, d), comprennent un ensemble cohérent et structurel de mesures, à la mesure et alignées sur la demande du client afin de :
+
+1° mieux aligner, au niveau de l'organisation, la structure organisationnelle, la politique et l'accessibilité des services sur les conséquences de la migration dans la société;
+
+2° soutenir la politique d'intégration, visée à l'article 2, alinéa premier, 14°, aux niveaux flamand, régional et local.
+
+En exécution de l'alinéa premier, l'AAE peut lancer tant des projets d'activités d'intégration que des actions d'activités d'intégration.
+
+Par projet d'activités d'intégration, on entend l'ensemble d'actions connexes d'activités d'intégration visant à atteindre, au sein d'une organisation temporaire, en coopération avec la structure, l'organisation, le service public ou le pouvoir public en question, dans les conditions prévues et dans un délai clairement délimité, un résultat défini au préalable en ce qui concerne la meilleure gestion des conséquences de la migration.
+
+### Section 8. - Services juridiques
+
+##### Art. 46
+
+Les services juridiques, visés à l'article 17, alinéa deux, 2°, e), comprennent les tâches suivantes concernant le droit des étrangers et le droit international privé :
+
+1° suivre les développements aux autres niveaux politiques et développer une expertise si ceux-ci requièrent une transposition en politique flamande;
+
+2° soutenir les structures, organisations et pouvoirs publics [<sup>1</sup> actifs en région de langue néerlandaise ou en région bilingue de Bruxelles-Capitale]<sup>1</sup>.
+
+[<sup>1</sup> Le Gouvernement flamand détermine ce qu'il faut entendre par structures, organisations et pouvoirs publics actifs en région de langue néerlandaise ou en région bilingue de Bruxelles-Capitale, visés à l'alinéa 1er, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 38, 010; En vigueur : 01-03-2022&gt;
+
+### Section 9. - [<sup>1</sup> Prestation de services pour ce qui est du néerlandais pour allophones1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFL 2015-05-29/17, art. 7, 003; En vigueur : 29-02-2016 (à l'exception des dispositions relatives à la délivrance de preuves du niveau linguistique du néerlandais)&gt;
+
+##### Art. 46/1
+
+[<sup>1</sup> Les services de conseil et l'accompagnement sur mesure en fonction d'une prestation de services optimale pour ce qui est du néerlandais pour allophones, visés à l'article 17, deuxième alinéa, 5°, impliquent les tâches suivantes :
+
+1° [<sup>2</sup> un entretien préliminaire coordonné et objectivé, éventuellement un test et l'orientation de l'allophone vers l'offre la plus appropriée de néerlandais comme deuxième langue [<sup>3</sup> auprès d'un centre tel que visé à l'article 2, alinéa 1er, 4°.]<sup>3</sup> Cette orientation se fait de façon experte et neutre. Les règles suivantes s'appliquent à cette orientation :
+
+a) l'orientation vers un centre tel que visé à l'article 2, alinéa 1er, 4°, a), d'allophones qui ne disposent pas d'un titre " Nederlands tweede taal " (néerlandais deuxième langue), est contraignante pour le centre, au moins quant à la définition du niveau et à la rapidité d'apprentissage. Il peut être dérogé au caractère contraignant dans les cas fixés par le Gouvernement flamand. L'orientation peut comprendre l'inscription directe dans le module le plus approprié. La concertation régionale, visée à l'article 46/3, alinéa 1er, 4°, a), peut conclure des accords supplémentaires ;
+
+b) l'orientation vers un centre tel que visé à l'article 2, alinéa 1er, 4°, b), c) et d), se fait conformément aux règles fixées par le Gouvernement flamand ;
+
+c) l'orientation vers un offreur de néerlandais comme deuxième langue ne peut avoir lieu que si l'offre de néerlandais comme deuxième langue est organisée conformément aux niveaux de connaissance linguistique établis dans le Cadre européen commun de Référence pour les Langues ;
+
+d) chaque centre, visé à l'article 2, alinéa 1er, 4°, [<sup>3</sup> ...]<sup>3</sup> est responsable de prévoir, dans le cadre de référence pour la qualité de l'enseignement de néerlandais comme deuxième langue, une offre qualitative de néerlandais comme deuxième langue]<sup>2</sup> ;
+
+2° recueillir et fournir des informations sur l'offre du néerlandais comme deuxième langue du centre visé à l'article 2, 4° [<sup>3</sup> ...]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-05-29/17, art. 7, 003; En vigueur : 29-02-2016 (à l'exception des dispositions relatives à la délivrance de preuves du niveau linguistique du néerlandais)&gt;
+
+(2)&lt;DCFL 2019-01-18/05, art. 16, 005; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2021-07-09/17, art. 39, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 46/2
+
+[<sup>1</sup> La délivrance des preuves du niveau linguistique du néerlandais, visée à l'article 17, deuxième alinéa, 6°, implique les tâches suivantes :
+
+1° tester la connaissance du néerlandais pour allophones de façon autorisée, objective, neutre et accessible à tous ;
+
+2° délivrance de preuves du niveau linguistique du néerlandais à l'aide des niveaux de connaissance linguistique fixés par le Cadre européen commun de référence pour les Langues. Ces niveaux de connaissance linguistique peuvent être fixés séparément pour chacune des quatre aptitudes : lire, écouter, parler et écrire.
+
+[<sup>2</sup> La participation aux épreuves est subordonnée au paiement d'une rétribution. Le Gouvernement flamand arrête le montant de la rétribution. Le Gouvernement flamand peut accorder des dispenses.]<sup>2</sup>
+
+Le Gouvernement flamand détermine les modalités en la matière. Le présent article ne peut entrer en vigueur qu'après que les modalités soient fixées.3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-05-29/17, art. 7, 003; En vigueur : 29-02-2016 (à l'exception des dispositions relatives à la délivrance de preuves du niveau linguistique du néerlandais)&gt;
+
+(2)&lt;DCFL 2017-12-22/08, art. 3, 004; En vigueur : 01-03-2022&gt;
+
+##### Art. 46/3
+
+[<sup>1</sup> La régie d'une offre du néerlandais comme deuxième langue adaptée aux et axée sur les besoins, visée à l'article 17, deuxième alinéa, 7°, implique au moins les tâches suivantes :
+
+1° acquérir un aperçu aussi complet que possible de la demande de cours de néerlandais comme deuxième langue, de l'offre, de l'abandon et de la raison de l'abandon, de la transition et des listes d'attente, ainsi qu'optimiser l'adéquation de l'offre du néerlandais comme deuxième langue entre les différents centres visés à l'article 2, 4° ;
+
+2° rédiger des critères objectifs et mesurables d'une offre du néerlandais comme deuxième langue adaptée aux et axée sur les besoins ;
+
+[<sup>2</sup> 2° /1 préparer, sur la base des critères visés au point 2°, le plan pour une offre adaptée aux besoins de néerlandais comme deuxième langue dans l'année scolaire suivante ;]<sup>2</sup>
+
+3° signaler les points névralgiques dans l'offre et formuler des propositions d'amélioration ;
+
+[<sup>2</sup> 3° /1 établir et ensuite actualiser au moins tous les cinq ans un Cadre flamand d'accords NT2 ; ]<sup>2</sup>
+
+4° [<sup>2</sup> en vue des tâches visées aux points 1°, 2°, 2° /1, 3° et 3° /1, l'AAE organise, sur une base structurelle :
+
+a) la concertation régionale avec les centres, visés à l'article 2, alinéa 1er, 4°. La concertation régionale approuve le plan, visé au point 2° /1 ;
+
+b) la concertation au niveau flamand avec les dispensateurs d'enseignement, la Fédération d'Education de base, les centres visés à l'article 2, alinéa 1er, 4°, b), le VDAB, [<sup>3</sup> Agence de l'Innovation et de l'Entrepreneuriat]<sup>3</sup>, le domaine politique de l'Enseignement et de la Formation, et le département ou l'agence autonomisée interne sans personnalité juridique, visés à l'article 16, § 4. Cette concertation approuve le projet du Cadre flamand d'accords NT2 et son actualisation, visés au point 3° /1.
+
+Le Gouvernement flamand peut arrêter les modalités relatives à l'organisation de la concertation régionale et de la concertation au niveau flamand]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> Les services d'encadrement pédagogique, visés à l'article 14 du décret du 8 mai 2009 relatif à la qualité de l'enseignement, et le Centre flamand d'Aide à l'Education des Adultes, visé à l'article 44 du décret du 15 juin 2007 relatif à l'éducation des adultes, organisent ensemble une offre d'appui pour les formateurs de néerlandais comme deuxième langue. La proposition d'offre d'appui est discutée à la concertation régionale, visée à l'alinéa 1er, 4°, a).]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-05-29/17, art. 7, 003; En vigueur : 29-02-2016 (à l'exception des dispositions relatives à la délivrance de preuves du niveau linguistique du néerlandais)&gt;
+
+(2)&lt;DCFL 2019-01-18/05, art. 17, 005; En vigueur : 29-07-2019&gt;
+
+(3)&lt;DCFL 2020-06-19/14, art. 65, 009; En vigueur : 31-12-2021&gt;
+
+### Section 10. [<sup>1</sup> Dispositions concernant le traitement des données à caractère personnel]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 11, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 46/4
+
+[<sup>1</sup> Les données à caractère personnel sont traitées, dans le cadre du présent décret, conformément à la réglementation sur la protection de personnes physiques lors du traitement de données à caractère personnel.
+
+Le traitement des données à caractère personnel dans le cadre du présent décret est nécessaire pour l'accomplissement des tâches d'intérêt général attribuées à l'AAE et au département ou à l'agence autonomisée externe sans personnalité juridique, désigné(e) par le Gouvernement flamand, visé(e) à l'article 16, § 4, du présent décret, et est basé sur l'article 6, paragraphe 1er, e), du règlement général sur la protection des données.
+
+Le traitement des données à caractère personnel dans le cadre du présent décret concernant la santé et des convictions religieuses ou philosophiques est basé sur l'article 9, paragraphe 2, g), du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 12, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 46/5
+
+[<sup>1</sup>L'AAE agit en tant que responsable du traitement tel que visé à l'article 4, 7), du règlement général sur la protection des données, pour le traitement de données à caractère personnel via le système informatique uniforme de suivi des clients, visé à l'article 20 du présent décret, en vue de la réalisation de la mission, des tâches et des tâches principales attribuées à l'AAE par ou en vertu du présent décret.
+
+Le département ou l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand, visé(e) à l'article 16, § 4, du présent décret, et l'AAE agissent en tant que responsables conjoints du traitement tels que visés à l'article 26 du règlement général sur la protection des données, pour le traitement de données à caractère personnel via le système informatique uniforme de suivi des clients, visé à l'article 20 du présent décret, en vue de l'organisation de la procédure de sanction, visée aux articles 39 et 40 du présent décret.
+
+Le département ou l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand, visé(e) à l'article 16, § 4, du présent décret, agit en tant que responsable du traitement tel que visé à l'article 4, 7), du règlement général sur la protection des données, pour le traitement de données à caractère personnel via le système informatique uniforme de suivi des clients, visé à l'article 20 du présent décret, en vue du suivi et de l'évaluation de la politique flamande d'intégration et d'insertion civique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 12, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 46/6
+
+[<sup>1</sup> Conformément au présent décret, les responsables du traitement visés à l'article 46/5 peuvent traiter des données à caractère personnel des personnes suivantes :
+
+1° personnes en insertion civique ;
+
+2° allophones ;
+
+3° jeunes enfants allophones ;
+
+4° primo-arrivants mineurs ;
+
+5° personnes d'origine étrangère ;
+
+6° candidats immigrants ;
+
+7° membres de famille des personnes visées aux points 1° à 6°.
+
+Les responsables du traitement, visés à l'article 46/5, traitent le cas échéant les catégories suivantes de données à caractère personnel des personnes visées à l'alinéa 1er :
+
+1° les coordonnées et les données d'identification ;
+
+2° le numéro de registre national ;
+
+3° la langue maternelle et les langues de contact ;
+
+4° les données relatives à l'accompagnement individuel ;
+
+5° les données relatives à la situation personnelle, y compris les données relatives à la santé ;
+
+6° les données relatives à la résidence ;
+
+7° l'état civil, les données relatives à la filiation et les données relatives à la composition du ménage ;
+
+8° les données relatives aux aptitudes, certificats et diplômes ;
+
+9° les données relatives à la délivrance des preuves du niveau linguistique du néerlandais, visées à l'article 46/2 ;
+
+10° les données relatives au parcours ;
+
+11° les données relatives au programme de formation orientation sociale, visé à l'article 30 ;
+
+12° les données relatives à NT2 ;
+
+13° les données relatives au parcours vers l'emploi, visé à l'article 32 ;
+
+14° les données relatives à la participation au parcours de participation et réseau, visé à l'article 33 ;
+
+15° les données relatives aux infractions à l'obligation d'insertion civique commises par la personne en insertion civique au statut obligatoire telle que visée à l'article 39, et les données relatives aux amendes administratives telles que visées à l'article 40 ;
+
+16° les données relatives aux convictions religieuses ou philosophiques dans le cadre de l'obligation d'insertion civique du ministre du culte reconnu, visé à l'article 27, § 1er, 2° ;
+
+17° les données relatives à l'obligation d'obtenir le niveau linguistique B1 oral, visé à l'article 34/5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 14, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 46/7
+
+[<sup>1</sup> § 1er. Le traitement des données à caractère personnel par l'AAE via le système informatique uniforme de suivi des clients, visé à l'article 20, a pour but de permettre à l'AAE d'accomplir les tâches et les tâches principales attribuées à l'AAE par ou en vertu du présent décret, et notamment de :
+
+1° soutenir l'AAE lors de la mise en oeuvre des parcours d'insertion civique et des parcours d'orientation et lors de l'organisation du coffret d'introduction pour les candidats immigrants ;
+
+2° soutenir l'AAE lors de la mise en oeuvre d'une offre de formation et d'accompagnement spécifique et sur mesure, axée sur le parcours ;
+
+3° soutenir l'AAE lors de l'orientation des allophones vers l'offre NT2 la plus appropriée ;
+
+4° permettre à l'AAE d'enregistrer le dossier individuel des personnes visées à l'article 46/6, alinéa 1er, et de suivre le parcours de ces personnes ;
+
+5° permettre à l'AAE de tester la connaissance du néerlandais des allophones et de délivrer des preuves du niveau linguistique du néerlandais tel que visé à l'article 46/2 ;
+
+6° permettre à l'AAE de fournir au moins une fois par mois une liste reprenant les catégories suivantes de personnes :
+
+a) les personnes en insertion civique qui appartiennent à cette catégorie pour la première fois au cours de la période écoulée ;
+
+b) les primo-arrivants mineurs qui appartiennent à cette catégorie pour la première fois au cours de la période écoulée ;
+
+c) les jeunes enfants allophones qui appartiennent à cette catégorie pour la première fois au cours de la période écoulée ;
+
+7° permettre à l'AAE de mettre à disposition une seule fois une liste des personnes en insertion civique qui sont inscrites au Registre national depuis plus de 12 mois ;
+
+8° permettre à l'AAE d'évaluer la mise en oeuvre de l'insertion civique, visée à la section 3, l'offre NT2 fournie par les centres et les services fournis aux allophones, visés à la section 9 ;
+
+9° permettre à l'AAE de contrôler l'obligation d'insertion civique, visée à l'article 39 ;
+
+10° permettre à l'AAE de contrôler et de suivre l'obligation d'obtenir la compétence linguistique en néerlandais B1 oral, visée à l'article 34/5.
+
+Le traitement des données à caractère personnel par l'AAE est limité à ce qui est nécessaire pour atteindre les finalités visées à l'alinéa 1er.
+
+§ 2. Le traitement des données à caractère personnel par le département ou l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand, visé(e) à l'article 16, § 4, via le système informatique uniforme de suivi des clients, visé à l'article 20, a pour but :
+
+1° d'imposer des amendes administratives, telles que visées à l'article 40 ;
+
+2° d'effectuer le suivi et l'évaluation de la politique flamande d'intégration et d'insertion civique.
+
+Le traitement des données à caractère personnel par le département ou l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand, visé(e) à l'article 16, § 4, est limité à ce qui est nécessaire pour atteindre les finalités visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 15, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 46/8
+
+[<sup>1</sup> Conformément à la réglementation applicable relative à la protection des personnes physiques lors du traitement de données à caractère personnel, l'AAE peut communiquer les données à caractère personnel traitées à d'autres entités, si les finalités des traitements des autres entités sont compatibles aux finalités visées au présent décret. En tout cas, les communications aux entités suivantes aux finalités suivantes sont considérées comme compatibles :
+
+1° aux centres et à l'administration flamande de l'enseignement dans le cadre de la mise en oeuvre :
+
+a) des parcours d'insertion civique ;
+
+b) de l'offre de formation et d'accompagnement spécifique et sur mesure, axée sur le parcours ;
+
+c) de la connaissance linguistique du néerlandais ;
+
+d) des parcours NT2 ;
+
+2° au VDAB, dans le cadre de la mise en oeuvre :
+
+a) des parcours d'insertion civique ;
+
+b) de l'offre de formation et d'accompagnement spécifique et sur mesure, axée sur le parcours ;
+
+c) de l'évaluation de l'exécution de l'insertion civique, visée à l'article 46/7, § 1er, alinéa 1er, 8°, du présent décret ;
+
+3° à Actiris, dans le cadre de la mise en oeuvre des parcours d'insertion civique et de l'offre de formation et d'accompagnement spécifique et sur mesure, axée sur le parcours ;
+
+4° à l'administration locale :
+
+a) dans le cadre de la mise en oeuvre :
+
+1\) des parcours d'insertion civique ;
+
+2\) de l'offre de formation et d'accompagnement spécifique et sur mesure, axée sur le parcours ;
+
+b) en vue de l'insertion dans la politique d'intégration inclusive locale, visée à l'article 4, § 4, 2°, du présent décret ;
+
+5° au CPAS, dans le cadre de la mise en oeuvre des parcours d'insertion civique et de l'offre de formation et d'accompagnement spécifique et sur mesure, axée sur le parcours ;
+
+6° à la Banque Carrefour de la sécurité sociale, dans le cadre :
+
+a) de la connaissance linguistique du néerlandais et des parcours NT2 ;
+
+b) de l'évaluation de l'exécution de l'insertion civique, visée à l'article 46/7, § 1er, alinéa 1er, 8°, du présent décret ;
+
+7° à la Commission communautaire commune dans le cadre de l'obligation d'insertion civique dans la région bilingue de Bruxelles-Capitale ;
+
+8° à l'Agence du Service flamand des Impôts, dans le cadre du recouvrement par voie de contrainte de la rétribution, visée à l'article 30, § 3, du présent décret, et à l'article 27/3 de l'arrêté du Gouvernement flamand du 29 janvier 2016 portant exécution du décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'insertion civique ;
+
+9° à l'instance compétente, visée à l'article 18 du Décret de reconnaissance des Communautés religieuses locales du 22 octobre 2021, en vue du contrôle :
+
+a) des critères de reconnaissance, visés à l'article 7, 8°, du Décret de reconnaissance des Communautés religieuses locales du 22 octobre 2021 ;
+
+b) de l'obligation, visée à l'article 16, 7°, du Décret de reconnaissance des Communautés religieuses locales du 22 octobre 2021 ;
+
+10° à l'Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes dans le cadre de la tâche, visée à l'article 17, alinéa 2, 7°, du présent décret, en vue de l'établissement d'un plan des besoins tel que visé à l'article 46/3, alinéa 1er, 2° /1, du présent décret ;
+
+11° aux bailleurs sociaux, en vue de contrôler l'obligation de connaissance linguistique des candidats locataires d'un logement social, visée à l'article 6.20, alinéa 1er, 5° et 6°, du Code flamand du Logement de 2021 ;
+
+12° à l'Agence de Services d'Enseignement dans le cadre de la tâche, visée à l'article 17, alinéa 2, 1°, a), du présent décret, en ce qui concerne la scolarité obligatoire des mineurs ;
+
+13° à l'Office des étrangers, en vue du partage d'informations de données à caractère personnel de personnes en insertion civique qui relèvent de l'application de l'article 1/2 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ;
+
+14° au SPF Economie, dans le cadre de la mise en oeuvre :
+
+a) des parcours d'insertion civique ;
+
+b) de l'offre de formation et d'accompagnement spécifique et sur mesure, axée sur le parcours ;
+
+c) de la connaissance linguistique du néerlandais ;
+
+d) des parcours NT2 ;
+
+15° à la plate-forme locale de concertation et au Département de l'Enseignement et de la Formation, dans le cadre du parcours d'orientation pour les primo-arrivants mineurs et les jeunes enfants allophones ;
+
+16° aux instances avec laquelle l'AAE conclut des accords d'échange d'informations en vue d'accomplir les tâches et les tâches principales attribuées à l'AAE par ou en vertu du présent décret.
+
+Conformément à la réglementation applicable relative à la protection des personnes physiques lors du traitement de données à caractère personnel, le département ou l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand, visé(e) à l'article 16, § 4, du présent décret, peut communiquer les données à caractère personnel traitées à d'autres entités, si les finalités des traitements des autres entités sont compatibles aux finalités visées au présent décret. En tout cas, les communications aux entités suivantes aux finalités suivantes sont considérées comme compatibles :
+
+1° à l'Agence du Service flamand des Impôts, en vue du recouvrement par voie de contrainte de l'amende administrative, visée à l'article 40 du présent décret, et à l'article 44 de l'arrêté du Gouvernement flamand du 29 janvier 2016 portant exécution du décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'insertion civique ;
+
+2° à l'Agence de Gestion des Infrastructures, dans le cadre de l'imposition d'une amende administrative, visée à l'article 40 du présent décret, et au chapitre 4, section 3, sous-section 3, de l'arrêté du Gouvernement flamand du 29 janvier 2016 portant exécution du décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'insertion civique ;
+
+3° au VDAB et à la Banque Carrefour de la sécurité sociale dans le cadre du suivi et de l'évaluation de la politique flamande d'intégration et d'insertion civique, visés à l'article 46/7, § 2, alinéa 1er, 2°, du présent décret ;
+
+4° aux administrations locales, en vue du contrôle des données relatives à la résidence dans le cadre de l'imposition d'une amende administrative, visée à l'article 40 du présent décret, et au chapitre 4, section 3, sous-section 3, de l'arrêté du Gouvernement flamand du 29 janvier 2016 portant exécution du décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'insertion civique ;
+
+5° aux instances avec lesquelles le département ou l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand, visé(e) à l'article 16, § 4, du présent décret, conclut des accords d'échange d'informations pour accomplir les tâches attribuées par ou en vertu du présent décret au département ou à l'agence autonomisée interne sans personnalité juridique, désigné(e) par le Gouvernement flamand.
+
+Des protocoles sont établis pour la communication de données à caractère personnel aux instances visées aux alinéas 1er et 2, conformément à l'article 8 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 16, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 46/9
+
+[<sup>1</sup> Les données à caractère personnel traitées via le système informatique uniforme de suivi des clients, visé à l'article 20, ne sont pas conservées plus longtemps que nécessaire à la réalisation des objectifs visés à l'article 46/7.
+
+La durée de conservation est déterminée par les responsables du traitement, visés à l'article 46/5, sur la base des critères suivants :
+
+1° la pertinence de la conservation des données à caractère personnel pour les objectifs du traitement, visés à l'article 46/7 ;
+
+2° la mesure dans laquelle des mesures empêchant l'identification de la personne, visée à l'article 46/6, alinéa 1er, peuvent être mises en place ;
+
+3° le fait qu'il existe toujours un dossier d'infraction ouvert de la personne en insertion civique au statut obligatoire ;
+
+4° le fait que les décisions peuvent encore faire l'objet d'un recours administratif ou juridictionnel ;
+
+5° l'utilité de conserver les données à caractère personnel pour la personne visée à l'article 46/6, alinéa 1er.
+
+En tout état de cause, les données à caractère personnel, visées à l'alinéa 1er, sont conservées durant une période maximale de 90 ans. Cette période de conservation commence à partir du premier traitement des données à caractère personnel de la personne visée à l'article 46/6, alinéa 1er. Le Gouvernement flamand peut fixer une durée de conservation plus courte pour des données à caractère personnel spécifiques.
+
+Les durées de conservation sont communiquées par les responsables du traitement visés à l'article 46/5 aux personnes visées à l'article 46/6, alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 17, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 46/10
+
+[<sup>1</sup> Le Gouvernement flamand peut imposer des mesures techniques et organisationnelles telles que visées à l'article 5, paragraphe 1, f), du règlement général sur la protection des données pour le traitement des données à caractère personnel visées à l'article 46/6, alinéa 2, du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 18, 011; En vigueur : 16-06-2024&gt;
+
+## CHAPITRE 7. - Dispositions complémentaires
+
+##### Art. 47
+
+La politique de l'intégration au niveau de la région bilingue de Bruxelles-Capitale est menée en concertation avec la Commission communautaire flamande.
+
+La Commission communautaire flamande a le rôle de régisseur sur la politique d'intégration en région bilingue de Bruxelles-Capitale. Cela signifie que la Commission communautaire flamande assure le développement, le pilotage, l'harmonisation et l'exécution de la politique de l'intégration inclusive, qu'elle coordonne les acteurs pertinents à cet effet et qu'elle associe les personnes, visées à l'[<sup>1</sup> article 3, 1°]<sup>1</sup>, et leurs organisations à cette politique.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 40, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 48
+
+Les articles suivants ne s'appliquent pas en région bilingue de Bruxelles-Capitale :
+
+1° l'article 12;
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° l'article 25, § 1er, alinéa premier, 1°;
+
+5° l'article 27;
+
+6° l'article [<sup>2</sup> 28]<sup>2</sup>, § 1er :
+
+7° l'article [<sup>2</sup> 28]<sup>2</sup>, § 2, alinéa 1er;
+
+8°[<sup>3</sup> ...]<sup>3</sup>
+
+9° [<sup>2</sup> article 34/3, alinéa 2 ;]<sup>2</sup>
+
+10° [<sup>2</sup> article 34/4, alinéa 5 ;]<sup>2</sup>
+
+[<sup>2</sup> 10° /1 article 34/5 ;]<sup>2</sup>
+
+11° l'article 35;
+
+12° l'article 39, § 1er, alinéa premier, 1°, alinéas trois [<sup>2</sup> ...]<sup>2</sup>, et § 3;
+
+13° l'article 40.
+
+----------
+
+(1)&lt;DCFL 2017-12-22/08, art. 45, 004; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2021-07-09/17, art. 41, 010; En vigueur : 01-03-2022&gt;
+
+(3)&lt;DCFL 2024-05-03/27, art. 19, 011; En vigueur : 16-06-2024&gt;
+
+##### Art. 49
+
+&lt;Abrogé par DCFL 2021-07-09/17, art. 42, 010; En vigueur : 01-03-2022&gt;
+
+##### Art. 50
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement flamand affecte au maximum 10 % du budget total qui est prévu annuellement pour l'exécution du présent décret, au subventionnement de projets expérimentaux, complémentaires ou innovateurs, visant à renforcer la politique de l'intégration.
+
+Pour l'octroi d'une subvention de projet, l'introduction des demandes de subvention, l'évaluation des demandes, l'octroi et le paiement de la subvention, le contrôle du respect des conditions de subventionnement et l'évaluation des projets menés, le Gouvernement flamand peut arrêter des modalités.
+
+##### Art. 51
+
+Au plus tard trois ans après l'entrée en vigueur du présent décret, et ensuite tous les trois ans, le Gouvernement flamand évaluera l'exécution de [<sup>1</sup> parties de]<sup>1</sup> la politique flamande d'intégration et il soumettra l'évaluation au Parlement flamand.
+
+[<sup>1</sup> La politique flamande d'intégration est étayée scientifiquement par le biais d'un monitoring, d'une étude exploratoire et d'évaluation de politique ainsi que d'études statistiques. A cet effet, des analyses sont effectuées sur la base de données administratives et des enquêtes peuvent être effectuées auprès de personnes d'origine belge et étrangère.
+
+Pour pouvoir atteindre l'objectif visé à l'alinéa 2, des instituts de recherche ou le département ou l'agence autonomisée interne sans personnalité juridique, visés à l'article 16, § 4, du présent décret, peuvent traiter des données à caractère personnel de personnes d'origine belge et étrangère, conformément au Règlement général sur la protection des données et au titre 4 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel.
+
+En vue de réaliser l'objectif visé à l'alinéa 2, le département ou l'agence autonomisée interne sans personnalité juridique, visé(e) à l'article 16, § 4, du présent décret, effectuera périodiquement des enquêtes auprès de personnes d'origine belge et étrangère. Pour l'exécution de ces enquêtes, le département ou l'agence autonomisée interne sans personnalité juridique, visés à l'article 16, § 4, du présent décret, agira en tant que responsable du traitement pour les données à caractère personnel suivantes :
+
+1° des caractéristiques personnelles et des données d'identification provenant du registre national sur la base de l'échantillonnage ;
+
+2° les données à caractère personnel demandées sur la base du consentement.
+
+Les données visées à l'alinéa 4, 1°, sont détruites lorsque le travail de terrain a été finalisé et que la qualité de l'échantillon et des données demandées a été contrôlée.
+
+Les données visées à l'alinéa 4, 2°, sont conservées pour une plus longue durée à des fins de recherche scientifique et historique ultérieure et à des fins statistiques.
+
+Les données visées à l'alinéa 4, 2°, peuvent être transmises à des instituts de recherche à des fins de recherche scientifique et statistique ultérieure.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/17, art. 43, 010; En vigueur : 01-03-2022&gt;
+
+## CHAPITRE 8. - Modification
+
+##### Art. 52
+
+Le Gouvernement flamand est chargé de modifier ou de supprimer les dispositions légales et décrétales existantes afin de les mettre en concordance avec les dispositions du présent décret.
+
+Les arrêtés pris à cet effet, cessent d'être en vigueur s'ils n'ont pas été ratifiés par décret dans les neuf mois suivant la date de leur entrée en vigueur. La ratification rétroagit à cette dernière date.
+
+La compétence assignée au Gouvernement flamand à cet effet, échoit neuf mois après l'entrée en vigueur du présent décret. Après cette date, les arrêtés établis et ratifiés en vertu du présent paragraphe ne peuvent être modifiés, complétés, remplacés ou abrogés que par décret.
+
+## CHAPITRE 9. - Dispositions abrogatoires
+
+##### Art. 53
+
+Les règlements suivants sont abrogés :
+
+1° le décret du 28 avril 1998 relatif à la politique flamande de l'intégration, modifié par les décrets des 30 avril 2009, 23 décembre 2010 et 6 juillet 2012;
+
+2° le décret du 28 février 2003 relatif à la politique flamande d'intégration civique, modifié par les décrets des 14 juillet 2006, 1er février 2008 et 17 février 2012.
+
+## CHAPITRE 10. - Dispositions transitoires
+
+##### Art. 54
+
+Le Forum des Minorités, agréé sur la base du décret du 28 avril 1998 relatif à la politique flamande d'intégration, agit, jusqu'à l'agrément, visé à l'article 10, comme organisation de participation telle que visée à l'article 8.
+
+##### Art. 55
+
+Les règlements suivants restent d'application jusqu'au moment de leur abrogation par le Gouvernement flamand :
+
+1° l'arrêté du Gouvernement flamand du 26 octobre 2012 portant exécution de diverses dispositions du décret du 28 avril 1998 relatif à la politique flamande de l'intégration;
+
+2° l'arrêté du Gouvernement flamand du 15 juin 2012 portant agrément et subventionnement d'un service central flamand pour l'interprétariat social par téléphone et la traduction sociale, visés aux articles 45/1 et 45/3 du décret du 28 avril 1998 relatif à la politique flamande d'intégration et fixant les règles pour le paiement des prestations d'interprétariat social, visées aux articles 45/3, alinéa quatre, et 45/4, § 1, du décret précité;
+
+3° l'arrêté du Gouvernement flamand du 12 novembre 2010 portant exécution du décret relatif à la politique flamande d'intégration;
+
+4° l'arrêté du Gouvernement flamand du 12 septembre 2008 relatif à l'imposition d'une amende administrative aux intégrants ayant droit et aux intégrants au statut obligatoire;
+
+5° l'arrêté du Gouvernement flamand du 27 juin 2008 fixant les objectifs pour le programme de formation 'orientation sociale' au sein du parcours d'intégration civique primaire;
+
+6° l'arrêté du Gouvernement flamand du 15 décembre 2006 portant exécution de la politique flamande d'intégration civique;
+
+7° l'arrêté du Gouvernement flamand du 15 juillet 2002 relatif à l'agrément et au subventionnement des centres et services pour la politique flamande des minorités.
+
+##### Art. 55/1
+
+[<sup>1</sup> L'obligation d'insertion civique, visée à l'article 27, § 1er, 2°, du présent décret, ne s'applique pas au ministre ou au suppléant du ministre d'une communauté religieuse locale qui a été reconnue par la Région flamande avant le 1er janvier 2007, si cette personne était déjà ministre ou suppléant du ministre d'une communauté religieuse locale avant l'entrée en vigueur du décret du 3 mai 2024 modifiant le décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'insertion civique, en ce qui concerne le traitement des données à caractère personnel, l'obligation d'insertion civique pour les ministres des cultes reconnus et une dérogation au niveau linguistique pour NT2 pour des personnes handicapées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/27, art. 20, 011; En vigueur : 16-06-2024&gt;
+
+## CHAPITRE 11. - Entrée en vigueur
+
+##### Art. 56
+
+Le Gouvernement flamand fixe, pour chacune des dispositions du présent décret, la date d'entrée en vigueur.
+
+(NOTE : Entrée en vigueur des articles 2,6°, 16, 17,L1, 18, 19, 24 en 25,§§1,3 fixée au 04-11-2013 par AGF 2013-09-06/24, art. 1)
+
+(NOTE : Entrée en vigueur de l'article 29, §1, L3 fixée au 01-09-2014 par AGF 2014-02-28/22, art. 1)
+
+(NOTE : Entrée en vigueur des articles 2,L1,18°, 25,§2 fixée au 21-07-2014 par AGF 2014-03-21/51, art. 5)
+
+(NOTE : Entrée en vigueur fixée au 29-02-2016 par AGF 2016-01-29/17, art. 81 pour les dispositions suivantes :
+
+1° l'article 1er ;
+
+2° l'article 2, alinéa 1er, 1° à 5° inclus, 7° à 17° inclus, 19° à 30° inclus, et alinéa 2 ;
+
+3° les articles 3 à 7 inclus ;
+
+4° l'article 15 ;
+
+5° l'article 17, alinéa 2, 1° à 4° inclus, et alinéas 3 à 5 inclus ;
+
+6° les articles 20 à 23 inclus ;
+
+7° les articles 26 à 28 inclus ;
+
+8° l'article 29, § 1er, alinéas 1er, 2 et 4, §§ 2 et 3 ;
+
+9° les articles 30 à 48 inclus ;
+
+10° les articles 50 à 52 inclus ;
+
+11° l'article 53, 2° ;
+
+12° l'article 55.)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 juin 2013
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand de la Gouvernance publique, de l'Administration intérieure, de l'Intégration civique, du Tourisme et de la Périphérie flamande de Bruxelles,
+
+G. BOURGEOIS

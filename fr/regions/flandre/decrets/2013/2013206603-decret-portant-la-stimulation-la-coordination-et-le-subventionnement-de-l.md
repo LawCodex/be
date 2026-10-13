@@ -1,0 +1,447 @@
+---
+title: "Décret portant la stimulation, la coordination et le subventionnement de l'emploi dans le secteur du sport"
+identifier: "2013206603"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/08/2013206603/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2013-11-08
+published: 2013-12-04
+entry_into_force: 2014-01-01
+last_amended: 2024-03-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/08/2013206603/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 04-12-2013 et mise à jour au 13-03-2024"
+retrieved: 2026-10-12
+---
+
+# 8 NOVEMBRE 2013. - Décret portant la stimulation, la coordination et le subventionnement de l'emploi dans le secteur du sport
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+##### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+##### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° [<sup>1</sup> agence " Sport Vlaanderen " (Sport Flandre) : l'agence établie par le décret du 7 mai 2004 relatif à l'agence autonomisée interne dotée de la personnalité juridique " Sport Vlaanderen " (Sport Flandre) ";]<sup>1</sup>
+
+2° [<sup>3</sup> ...]<sup>3</sup>;
+
+3° Ministre : le Ministre flamand chargé de l'éducation physique, des sports et de la vie en plein air;
+
+[<sup>3</sup> 3° /1 olympiade : la période de quatre ans qui commence le 1er janvier de l'année suivant les Jeux olympiques d'été tels qu'initialement planifiés, et qui prend fin le 31 décembre de l'année des Jeux olympiques d'été tels qu'initialement planifiés ;]<sup>3</sup>
+
+4° accompagnateur sportif : [<sup>3</sup> la personne qui est employée et qui exerce dans la discipline une fonction exécutive liée au sport]<sup>3</sup>. Cela signifie les enseignants et les accompagnateurs d'une activité sportive, les membres du jury et les arbitres;
+
+5° [<sup>3</sup> collaborateur sportif : la personne qui est employée et qui exerce dans la discipline une fonction de coordination ou une fonction administrative liée au sport. ]<sup>3</sup>;
+
+6° [<sup>3</sup> ...]<sup>3</sup>;
+
+7° [<sup>3</sup> ...]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 19, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2020-06-26/29, art. 4, 003; En vigueur : 01-10-2020&gt;
+
+(3)&lt;DCFL 2024-02-23/06, art. 2, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 3
+
+Dans les limites du budget et aux conditions visées au présent décret, le Gouvernement flamand octroie des subventions pour l'emploi dans le secteur du sport.
+
+Dans les limites budgétaires,[<sup>1</sup> les subventions accordées sur la base du présent décret]<sup>1</sup>, sont annuellement ajustés à l'évolution de l'indice de santé. Par indice santé, il convient d'entendre l'indice des prix visé à l'article 2, alinéa premier, de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays, confirmé par l'article 90 de la loi du 30 mars 1994 portant des dispositions sociales.
+
+----------
+
+(1)&lt;DCFL 2024-02-23/06, art. 3, 004; En vigueur : 01-09-2024&gt;
+
+## CHAPITRE 2. - Agrément et subventionnement d'une organisation pour [<sup>1</sup> la coordination, la stimulation et le soutien de l'emploi]<sup>1</sup> d'accompagnateurs sportifs et d'assistants aux sports
+
+----------
+
+(1)&lt;DCFL 2024-02-23/06, art. 5, 004; En vigueur : 01-09-2024&gt;
+
+### Section 1re. - Agrément comme organisation pour [<sup>1</sup> la coordination, la stimulation et le soutien de l'emploi]<sup>1</sup> et d'assistants aux sports
+
+----------
+
+(1)&lt;DCFL 2024-02-23/06, art. 5, 004; En vigueur : 01-09-2024&gt;
+
+#### Sous-section 1re. - Conditions d'agrément
+
+##### Art. 4
+
+Pour obtenir et conserver l'agrément comme organisation pour [<sup>1</sup> la coordination, la stimulation et le soutien de l'emploi]<sup>1</sup> d'accompagnateurs sportifs et d'assistants aux sports, l'organisation remplit les conditions suivantes :
+
+1° [<sup>1</sup> être une association sans but lucratif, conformément au Code des Sociétés et Associations du 23 mars 2019 ;]<sup>1</sup>;
+
+2° avoir son siège en région de langue néerlandaise ou dans la région bilingue de Bruxelles-Capitale;
+
+3° avoir pour objectif principal dans ses statuts l'emploi dans le secteur du sport, en coordonnant la demande d'emploi dans les sports et en la comblant par des employés qualifiés ou spécialisés;
+
+4°[<sup>1</sup> avoir un minimum de cinq ans de fonctionnement qualitatif dans toutes les provinces flamandes en tant qu'organisation soutenant l'emploi d'accompagnateurs sportifs et d'assistants aux sports dans le secteur du sport sans but lucratif. ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-02-23/06, art. 6, 004; En vigueur : 01-09-2024&gt;
+
+#### Sous-section 2. - Procédure d'agrément
+
+##### Art. 5
+
+La demande d'agrément doit être introduite auprès de [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> au plus tard le [<sup>2</sup> 10 septembre]<sup>2</sup>.[<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>1</sup>[<sup>2</sup> L'agence Sport Flandre informe l'organisation avant le 1er octobre de l'irrecevabilité de sa demande d'agrément et en précise le motif.]<sup>2</sup>. Une demande est irrecevable lorsqu'elle n'a pas été introduite à temps ou s'il s'avère que l'organisation ne peut pas satisfaire aux conditions d'agrément.
+
+[<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> examine la demande d'agrément et rend un avis au Ministre en ce qui concerne l'agrément avant le [<sup>2</sup> 15 octobre]<sup>2</sup>.
+
+Avant le 1er novembre, le Ministre informe l'organisation[<sup>2</sup> ...]<sup>2</sup> de sa décision de l'agréer pour [<sup>2</sup> la durée de l'olympiade ]<sup>2</sup> ou de son intention de ne pas l'agréer.
+
+L'agrément prend cours le 1er janvier suivant la demande d'agrément[<sup>2</sup> et s'applique pour la durée de l'olympiade]<sup>2</sup>.
+
+L'organisation qui reçoit l'avis de l'intention du Ministre de ne pas prendre son agrément en considération peut introduire une réclamation motivée à cet égard qui doit être envoyée à [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> [<sup>2</sup> dans un délai de quinze jours suivant la communication de l'avis]<sup>2</sup>. Lorsque l'organisation en fait la demande, elle peut être entendue.
+
+Dans un délai de trente jours suivant la réception de la réclamation,[<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> rédige un avis motivé. Le Ministre décide d'agréer ou non l'organisation, au plus tard trente jours après la réception de cet avis.
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 20, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2024-02-23/06, art. 7, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 6
+
+§ 1er. Lorsque [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup>constate que l'organisation ne répond plus à une condition d'agrément ou à plusieurs conditions d'agrément, [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup>informe l'organisation des infractions constatées.
+
+§ 2. L'organisation a l'opportunité de communiquer son point de vue concernant ces infractions [<sup>2</sup> à l'agence Sport Flandre]<sup>2</sup>. Ensuite, [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup>rédige un avis motivé concernant les éventuelles sanctions.
+
+§ 3. Le ministre décide, après avoir pris connaissance de l'avis, visé au paragraphe 2 et, le cas échéant, du point de vue communiqué par l'organisation, soit de suspendre l'agrément et d'accorder à l'organisation un délai durant lequel elle doit régulariser les infractions constatées, soit de retirer l'agrément. Dans ce contexte, le Ministre tient compte de la nature de l'infraction constatée et de la possibilité de régularisation.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. L'agrément de l'organisation est suspendu à partir de la date [<sup>2</sup> mentionnée dans la décision ]<sup>2</sup>. La [<sup>2</sup> décision]<sup>2</sup> mentionne également le délai durant lequel elle doit régulariser les infractions constatées.
+
+Lorsque [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> constate qu'à l'expiration du délai fixé dans la lettre, l'organisation ne répond à nouveau pas à toutes les conditions d'agrément, le Ministre peut immédiatement prendre une décision de retirer l'agrément.
+
+La décision de retirer l'agrément produit ses effets rétroactivement à partir de la date à laquelle l'agrément de l'organisation a été suspendu.
+
+Lorsque [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> constate que l'organisation a régularisé à temps les infractions constatées, la suspension est levée. L'organisation est informée de la décision du Ministre concernant la date de levée de la suspension.
+
+§ 5. Par dérogation aux paragraphes 1 à 4 inclus, le Ministre peut retirer l'agrément immédiatement en cas d'urgence, dans la mesure où cela sert l'intérêt de la Communauté flamande et lorsque cela est justifié par des faits graves. Dans un tel cas, l'organisation est informée [<sup>2</sup> ...]<sup>2</sup> de la décision du Ministre de retirer son agrément immédiatement.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 20, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2024-02-23/06, art. 8, 004; En vigueur : 01-09-2024&gt;
+
+### Section 2. - Subventionnement d'une organisation pour la coordination et l'emploi d'un pool d'accompagnateurs sportifs et d'assistants aux sports
+
+#### Sous-section 1re. - Conditions de subventionnement
+
+##### Art. 7
+
+[<sup>1</sup> § 1er. Une organisation agréée pour la coordination, la stimulation et le soutien de l'emploi d'accompagnateurs sportifs et d'assistants aux sports est subventionnée par période du plan directeur.
+
+Pour être éligible au subventionnement, une organisation agréée accomplit les missions suivantes pour la coordination, la stimulation et le soutien de l'emploi d'accompagnateurs sportifs et d'assistants aux sports :
+
+1° être un centre de connaissance en matière d'emploi d'accompagnateurs sportifs et d'assistants aux sports;
+
+2° être le point de contact pour l'emploi d'accompagnateurs sportifs et d'assistants aux sports ;
+
+3° prendre des initiatives en vue d'accroître l'emploi d'accompagnateurs sportifs et d'assistants aux sports qualifiés, en mettant l'accent sur le secteur du sport à but non lucratif ;
+
+4° mettre à disposition des accompagnateurs sportifs et des assistants aux sports qualifiés dans toutes les provinces flamandes et dans la région bilingue de Bruxelles-Capitale, en mettant l'accent sur le secteur du sport à but non lucratif ;
+
+5° développer, structurer et gérer l'organisation pour une exécution de qualité des missions visées aux points 1° à 4°.
+
+Pour la mission visée à l'alinéa 2, 1°, l'organisation identifie les besoins et les opportunités des clubs sportifs en termes d'emploi d'accompagnateurs sportifs et d'assistants aux sports, ainsi que les évolutions de l'emploi dans le secteur du sport à but non lucratif, en mettant l'accent sur les clubs sportifs.
+
+Pour la mission visée à l'alinéa 2, 3°, l'organisation prend au moins des initiatives destinées à :
+
+1° stimuler et soutenir les clubs sportifs, les fédérations sportives agréées et les autorités locales dans leurs efforts visant à attirer, retenir et rémunérer légalement les accompagnateurs sportifs et les assistants aux sports diplômés pour leurs prestations. L'organisation peut mener une politique d'aide financière appropriée pour le secteur sportif à but non lucratif, en mettant l'accent sur les clubs sportifs. Cette politique est concrétisée dans l'accord de coopération visé au paragraphe 3 ;
+
+2° stimuler et soutenir les clubs sportifs dans leurs efforts visant à aligner leur politique et leur gestion sur la réalisation de l'emploi d'accompagnateurs sportifs et d'assistants aux sports qualifiés.
+
+Pour la mission visée à l'alinéa 2, 4°, le Gouvernement flamand détermine les conditions relatives aux qualifications minimales que doivent remplir les accompagnateurs sportifs permanents et occasionnels.
+
+Si l'organisation emploie des accompagnateurs sportifs et des assistants aux sports, elle prend des initiatives pour accroître les compétences de ces accompagnateurs sportifs et assistants aux sports en leur permettant de suivre des recyclages et en les guidant dans l'accomplissement de leurs tâches.
+
+Le Gouvernement flamand peut préciser les missions visées à l'alinéa 2.
+
+Dans le cadre de ses missions visées à l'alinéa 2, l'organisation se concentre sur les clubs sportifs. Le Gouvernement flamand peut déterminer la part minimale de la subvention à utiliser pour le groupe cible précité.
+
+Le Gouvernement flamand peut déterminer la part maximale ou minimale de la subvention qui peut ou doit être consacrée à la mission visée à l'alinéa 2.
+
+§ 2. Pour être éligible à un subventionnement, l'organisation agréée établit pour la coordination, la stimulation et le soutien de l'emploi d'accompagnateurs sportifs et d'assistants aux sports un plan de gestion pour l'olympiade suivante ainsi qu'un plan d'action annuel. Le Gouvernement flamand précise les conditions auxquelles le plan de gestion et le plan d'action annuel doivent satisfaire.
+
+§ 3. L'agence Sport Flandre peut conclure un accord de coopération avec l'organisation pour la coordination, la stimulation et le soutien de l'emploi d'accompagnateurs sportifs et d'assistants aux sports en vue d'optimiser la mise en oeuvre pratique et concrète des missions visées au paragraphe 1er, alinéa 2. L'accord de coopération est valable pour la durée restante de l'olympiade. L'accord de coopération vise à accompagner et à encadrer l'organisation afin qu'elle optimise ses missions visées au paragraphe 1er. La mise en oeuvre de l'accord de coopération fait l'objet d'un suivi intermédiaire et est ajustée par l'agence Sport Flandre en concertation avec l'organisation.
+
+L'accord de coopération, visé à l'alinéa 1er, comprend au moins des dispositions relatives aux accords à réaliser entre l'organisation et l'agence Sport Flandre, y compris les objectifs poursuivis et la manière dont ceux-ci seront mesurés ou évalués sur la base d'indicateurs d'avancement quantitatifs ou qualitatifs. Dans la mesure où les accords inclus dans l'accord de coopération ne sont pas réalisés, la subvention peut être corrigée proportionnellement et ce, de la manière visée à l'article 18/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-02-23/06, art. 10, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 8
+
+Le Gouvernement flamand prévoit une subvention [<sup>2</sup> pour l'exécution des missions visées à l'article 7, § 1er, alinéa 2 ]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2020-06-26/29, art. 5, 003; En vigueur : 27-07-2020&gt;
+
+(2)&lt;DCFL 2024-02-23/06, art. 11, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 9
+
+Pour être éligible au subventionnement, l'assemblée générale et[<sup>1</sup> l'organe d'administration]<sup>1</sup> de l'organisation subventionnée pour [<sup>1</sup> la coordination, la stimulation et le soutien de l'emploi d'accompagnateurs sportifs et d'assistants aux sports]<sup>1</sup> d'accompagnateurs sportifs et d'assistants aux sports se compose [<sup>1</sup> au moins]<sup>1</sup> de représentants du secteur sportif non-marchand[<sup>1</sup> ...]<sup>1</sup>.[<sup>1</sup> L'assemblée générale ou l'organe d'administration peut être complété par des experts sans droit de vote désignés par le Gouvernement flamand.]<sup>1</sup>
+
+[<sup>1</sup> Les représentants du secteur sportif à but non lucratif sont des représentants des communes et des fédérations sportives flamandes agréées, éventuellement complétés par un représentant de la Commission communautaire flamande ou par un ou plusieurs représentants des clubs sportifs affiliés aux fédérations sportives flamandes agréées.]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-02-23/06, art. 12, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 10
+
+&lt;Abrogé par DCFL 2024-02-23/06, art. 15, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 11
+
+Les subventions, visées à l'article 8, pour une organisation pour [<sup>1</sup> la coordination, la stimulation et le soutien de l'emploi d'accompagnateurs sportifs et d'assistants aux sports]<sup>1</sup> d'accompagnateurs sportifs et d'assistants aux sports sont accordées annuellement et comprennent des subventions de fonctionnement et des subventions de personnel. La subvention est affectée à l'accomplissement des missions, visées à l'article 7, § 1er. Le Gouvernement flamand peut arrêter le rapport entre les subventions de fonctionnement et les subventions de personnel.
+
+----------
+
+(1)&lt;DCFL 2024-02-23/06, art. 14, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 12
+
+L'organisation pour [<sup>1</sup> la coordination, la stimulation et le soutien de l'emploi d'accompagnateurs sportifs et d'assistants aux sports]<sup>1</sup> d'accompagnateurs sportifs et d'assistants aux sports établit un rapport annuel qui se compose d'un rapport d'activité et d'un rapport financier, concernant l'exécution du plan de de politique pendant l'année écoulée.
+
+Le Gouvernement détermine les modalités auxquelles le rapport d'activité et le rapport financier doivent satisfaire.
+
+----------
+
+(1)&lt;DCFL 2024-02-23/06, art. 14, 004; En vigueur : 01-09-2024&gt;
+
+#### Sous-section 2. - Procédure de subventionnement
+
+##### Art. 13
+
+L'organisation transmet le plan de politique approuvé par l'assemblée générale, visé à l'article 7, § 2, à [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup>, au plus tard le 15 novembre de l'année qui précède la période du plan directeur.
+
+Avant le 15 janvier, [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> rend un avis au Ministre en ce qui concerne le subventionnement de l'organisation.
+
+Avant le 15 février, le Ministre informe l'organisation[<sup>2</sup> ...]<sup>2</sup> de sa décision de la subventionner ou de son intention de ne pas la subventionner.
+
+L'organisation qui reçoit l'avis de l'intention du Ministre de ne pas la subventionner, peut faire une réclamation motivée à cet égard qui doit être envoyée à [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> [<sup>2</sup> dans un délai de quinze jours suivant la communication de l'avis]<sup>2</sup>. Lorsque l'organisation en fait la demande, elle peut être entendue.
+
+Dans un délai de trente jours suivant la réception de la réclamation, [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> rédige un avis motivé. Le Ministre décide de subventionner ou non l'organisation, au plus tard trente jours après la réception de cet avis.
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 20, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2024-02-23/06, art. 15, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 14
+
+Le plan de politique est chaque fois traduit en un plan d'action annuel, visé à l'article 7, § 2. Le plan d'action annuel est transmis à [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup>avant le 15 novembre de l'année précédente.
+
+[<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> peut éventuellement demander des informations supplémentaires. Avant le 15 janvier, [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> rend un avis au Ministre en ce qui concerne le plan d'action annuel. Avant le 15 février, le Ministre décide de l'approbation du plan d'action annuel.
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 20, 002; En vigueur : 01-01-2016&gt;
+
+##### Art. 15
+
+Le rapport annuel, visé à l'article 12, doit être approuvé par [<sup>2</sup> l'organe d'administration]<sup>2</sup> de l'organisation.
+
+Le rapport annuel doit être transmis à [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> chaque année, avant le 1er avril de l'année suivant l'année à laquelle le rapport a trait.
+
+Avant le 1er juin de l'année suivant l'année à laquelle le rapport a trait, [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup>rend un avis au Ministre en ce qui concerne le rapport annuel.
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 20, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2024-02-23/06, art. 16, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 16
+
+§ 1er. Lorsque le Ministre a accepté le plan de politique pour subventionnement et lorsqu'il a été satisfait à toutes les conditions de subventionnement, chaque année, durant le premier trimestre, une avance est payée pour l'année budgétaire concernée de la période du plan directeur. L'avance s'élève à [<sup>2</sup> 90 %]<sup>2</sup> de la subvention à laquelle aura droit l'organisation pour l'année en question.
+
+Après que le Ministre a accepté le rapport annuel, le solde des subventions est payé avant le 1er juillet de l'année suivant l'année budgétaire concernée de la période du plan directeur.
+
+§ 2. L'organisation est tenue au remboursement immédiat de la subvention si elle ne respecte pas les conditions de subventionnement, si elle n'affecte pas la subvention aux missions pour lesquelles elle est subventionnée ou si elle empêche le contrôle par Bloso sur l'affectation des subventions.
+
+Le paiement de la subvention peut être suspendu tant que l'organisation omet de fournir la justification ou d'autoriser le contrôle par [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> sur l'affectation des subventions.
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 20, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2024-02-23/06, art. 17, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 17
+
+[<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> peut à tout moment effectuer un contrôle sur l'exécution des missions de l'organisation et l'affectation des subventions.
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 20, 002; En vigueur : 01-01-2016&gt;
+
+##### Art. 18
+
+Lorsque [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> constate que l'organisation ne satisfait plus aux conditions de subventionnement, ou lorsque des faits graves justifient le retrait du subventionnement dans l'intérêt de la Communauté flamande, Bloso informe l'organisation des infractions constatées.
+
+L'organisation a l'opportunité de communiquer son point de vue concernant ces infractions [<sup>2</sup> à l'agence Sport Flandre]<sup>2</sup>. Ensuite, [<sup>1</sup> l'agence Sport Flandre]<sup>1</sup> rédige un avis motivé concernant les éventuelles sanctions.
+
+Après avoir pris connaissance de cet avis et, le cas échéant, du point de vue communiqué par l'organisation, le Ministre décide de retirer le subventionnement, entièrement ou partiellement et, le cas échéant, de recouvrer l'avance. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2015-12-04/08, art. 20, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2024-02-23/06, art. 18, 004; En vigueur : 01-09-2024&gt;
+
+#### Sous-section 3. [<sup>1</sup> Procédure spécifique pour la correction proportionnelle de la subvention en cas de non-respect de l'accord de coopération visé à l'article 7, § 3]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-02-23/06, art. 19, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 18/1
+
+[<sup>1</sup> Si l'agence Sport Flandre constate que l'organisation ne réalise pas les accords repris dans l'accord de coopération, visé à l'article 7, § 3, pour la coordination, la stimulation et le soutien de l'emploi d'accompagnateurs sportifs et d'assistants aux sports, elle l'informe des infractions constatées.
+
+L'organisation visée à l'alinéa 1er, a la possibilité de communiquer à l'agence Sport Flandre son point de vue sur les infractions visées à l'alinéa 1er. L'agence Sport Flandre rédige ensuite un avis concernant les sanctions possibles.
+
+Sans préjudice de l'application de l'article 13 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes, le ministre décide, après avoir pris connaissance de l'avis, visé à l'alinéa 2, et, le cas échéant, du point de vue de l'organisation, visé à l'alinéa 2, d'une correction proportionnelle de la subvention, visée à l'article 8, à partir de l'année d'activités suivante et jusqu'à ce qu'il soit établi, lors de l'évaluation annuelle, qu'il a été remédié aux infractions, visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-02-23/06, art. 20, 004; En vigueur : 01-09-2024&gt;
+
+## CHAPITRE 3.
+
+&lt;Abrogé par DCFL 2024-02-23/06, art. 21, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 19
+
+&lt;Abrogé par DCFL 2024-02-23/06, art. 21, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 20
+
+&lt;Abrogé par DCFL 2024-02-23/06, art. 21, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 21
+
+&lt;Abrogé par DCFL 2024-02-23/06, art. 21, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 21/1
+
+&lt;Abrogé par DCFL 2024-02-23/06, art. 21, 004; En vigueur : 01-09-2024&gt;
+
+##### Art. 21/2
+
+&lt;Abrogé par DCFL 2024-02-23/06, art. 21, 004; En vigueur : 01-09-2024&gt;
+
+## CHAPITRE 4. - Dispositions modificatives
+
+##### Art. 22
+
+Les articles 28 à 33 inclus du décret du 6 juillet 2012 portant la promotion et le subventionnement d'une politique sportive locale sont abrogés.
+
+##### Art. 23
+
+Dans l'article 34 du même décret, le membre de phrase " les organisations visées aux articles 24 et 30 " est remplacé par le membre de phrase " l'organisation, visée à l'article 24, ".
+
+##### Art. 24
+
+L'article 36 du même décret est abrogé.
+
+##### Art. 25
+
+Dans l'article 21, alinéa premier, de l'arrêté du Gouvernement flamand du 16 novembre 2012 portant exécution du décret du 6 juillet 2012 portant la promotion et le subventionnement d'une politique sportive locale, le membre de phrase " ou comme organisation pour la coordination et l'accompagnement d'un pool d'animateurs sportifs, visés à l'article 28 du décret précité, " est abrogé.
+
+##### Art. 26
+
+A l'article 34 du même arrêté sont apportées les modifications suivantes :
+
+1° dans la phrase introductive, les mots " ou à l'organisation pour la coordination et l'accompagnement d'un pool d'animateurs sportifs " sont abrogés;
+
+2° dans le point 1°, le membre de phrase " ou comme organisation pour la coordination et l'accompagnement d'un pool d'animateurs sportifs, " est abrogé.
+
+##### Art. 27
+
+Dans l'article 35 du même arrêté, les mots " ou à l'organisation pour la coordination et l'accompagnement d'un pool d'animateurs sportifs " sont abrogés.
+
+## CHAPITRE 5. - Dispositions finales
+
+##### Art. 28
+
+Par dérogation à l'article 5, la mesure transitoire suivante s'applique à l'association sans but lucratif qui souhaite entrer en ligne de compte pour l'agrément comme organisation pour la coordination et l'emploi d'un pool d'accompagnateurs sportifs et d'assistants aux sports :
+
+1° la demande d'agrément est introduite auprès de Bloso au plus tard le 31 janvier 2014;
+
+2° avant le 8 février 2014, Bloso informe l'organisation lorsque sa demande d'agrément est irrecevable;
+
+3° avant le 15 février 2014, Bloso rend un avis au Ministre en ce qui concerne l'agrément;
+
+4° avant le 1er mars 2014, le Ministre communique à l'organisation sa décision de l'agréer ou son intention de ne pas l'agréer.
+
+##### Art. 29
+
+Par dérogation aux articles 13 et 14, la mesure de transition suivante s'applique à l'organisation pour la coordination et l'emploi d'un pool d'accompagnateurs sportifs et d'assistants aux sports qui souhaite être éligible au subventionnement pour l'année de subvention 2014 :
+
+1° l'organisation transmet le plan de politique approuvé par l'assemblée générale et le plan d'action annuel 2014 à Bloso, au plus tard le 31 janvier 2014;
+
+2° avant le 15 février 2014, Bloso rend un avis au Ministre en ce qui concerne le subventionnement de l'organisation et le plan d'action annuel;
+
+3° avant le 1er mars 2014, le Ministre communique sa décision à l'organisation de la subventionner ou son intention de ne pas la subventionner et décide de l'approbation du plan d'action annuel.
+
+##### Art. 30
+
+Par dérogation à l'article 8, le montant de la subvention établie pour la coordination et l'emploi d'un pool d'accompagnateurs sportifs et d'assistants aux sports pour les années 2014 et 2015 est fixé à 870.000 euros par an.
+
+##### Art. 31
+
+Le présent décret entre en vigueur le 1er janvier 2014.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 8 novembre 2013.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand des Finances, du Budget, du Travail, de l'Aménagement du Territoire et des Sports,
+
+Ph. MUYTERS

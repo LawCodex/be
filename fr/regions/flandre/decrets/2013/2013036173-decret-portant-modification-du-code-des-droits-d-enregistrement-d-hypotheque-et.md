@@ -1,0 +1,51 @@
+---
+title: "Décret portant modification du Code des droits d'enregistrement, d'hypothèque et de greffe, en ce qui concerne l'assimilation des acquisitions entre beaux-enfants et beaux-parents et entre enfants d'accueil et parents d'accueil"
+identifier: "2013036173"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/06/2013036173/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2013-12-06
+published: 2014-01-07
+entry_into_force: 2014-01-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/06/2013036173/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 6 DECEMBRE 2013. - Décret portant modification du Code des droits d'enregistrement, d'hypothèque et de greffe, en ce qui concerne l'assimilation des acquisitions entre beaux-enfants et beaux-parents et entre enfants d'accueil et parents d'accueil
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Le Code des droits d'enregistrement, d'hypothèque et de greffe est complété par un article 132.3, rédigé comme suit :
+
+" Art. 132.3. Pour l'application de la présente section, une donation entre un beau-parent et un bel-enfant est assimilée à une donation en ligne directe.
+
+La même assimilation s'applique à la donation entre un enfant d'une personne qui cohabite ou cohabitait avec le donateur au moment du décès de cette personne et du donateur.
+
+La même assimilation s'applique à la donation entre une personne qui cohabite ou cohabitait avec un parent du donateur au moment du décès de ce parent et du donateur.
+
+Une donation entre des personnes divorcées ou séparées de corps, et une donation entre ex-cohabitants n'est assimilée à une donation entre conjoints ou cohabitants que s'il y a des descendants communs.
+
+Une donation entre des personnes entre lesquelles il existe ou a existé une relation de parent d'accueil et d'enfant d'accueil, est assimilée à une donation en ligne directe. Pour l'application de la présente disposition, une telle relation est censée exister ou avoir existé lorsque quelqu'un a, avant d'avoir atteint l'âge de vingt-et-un ans et pendant trois années consécutives, reçu essentiellement de cette personne ou de cette personne et de son conjoint, les secours et les soins que les enfants reçoivent normalement de leurs parents. L'inscription de l'enfant d'accueil au registre de la population ou au registre des étrangers à l'adresse du parent d'accueil vaut comme une [présomption réfragable] de cohabitation chez le parent d'accueil. ". &lt;Erratum, M.B. 23-01-2014,p. 5650&gt;.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge .
+
+Bruxelles, le 6 décembre 2013.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand des Finances, du Budget, de l'Emploi, de l'Aménagement du Territoire et des Sports,
+
+Ph. MUYTERS

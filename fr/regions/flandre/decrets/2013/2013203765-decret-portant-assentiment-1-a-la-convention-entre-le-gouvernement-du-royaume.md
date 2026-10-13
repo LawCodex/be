@@ -1,0 +1,45 @@
+---
+title: "Décret portant assentiment : 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et au Protocole, signés à Singapour le 6 novembre 2006, signés à Bruxelles le 6 novembre 2006, telle que modifiée par le protocole du 16 juillet 2009; 2° au protocole modifiant la Convention, visée au 1°, signé à Bruxelles le 16 juillet 2009"
+identifier: "2013203765"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203765/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2013-06-07
+published: 2013-07-04
+entry_into_force: 2013-07-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203765/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 7 JUIN 2013. - Décret portant assentiment : 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et au Protocole, signés à Singapour le 6 novembre 2006, signés à Bruxelles le 6 novembre 2006, telle que modifiée par le protocole du 16 juillet 2009; 2° au protocole modifiant la Convention, visée au 1°, signé à Bruxelles le 16 juillet 2009
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire et régionale.
+
+## Art. 2
+
+Sortiront leur plein et entier effet :
+
+1° la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, et au Protocole, signés à Bruxelles le 6 novembre 2006, telle que modifiée par le Protocole du 16 juillet 2009;
+
+2° au Protocole, signé à Bruxelles le 16 juillet 2009, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 6 novembre 2006.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 juin 2013.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand des Finances, du Budget, du Travail, de l'Aménagement du Territoire et des Sports,
+
+Ph. MUYTERS

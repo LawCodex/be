@@ -1,0 +1,1689 @@
+---
+title: "Décret relatif à la politique de l'agriculture et de la pêche"
+identifier: "2013204905"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/28/2013204905/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2013-06-28
+published: 2013-09-12
+entry_into_force: 2014-01-01
+last_amended: 2026-08-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/28/2013204905/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 12-09-2013 et mise à jour au 10-08-2026"
+retrieved: 2026-10-12
+---
+
+# 28 JUIN 2013. - Décret relatif à la politique de l'agriculture et de la pêche
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+##### Art. 1er
+
+Le présent décret règle une matière communautaire et régionale.
+
+##### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° aquaculture : l'élevage ou la culture d'organismes aquatiques, plus particulièrement de toutes les espèces vivant dans l'eau et qui font partie des eucaryotes, y compris l'ensemble des parties, gamètes, spermatozoïdes, ovules ou propagules de tels organismes qui ont des chances de survie et de reproduction et pour lesquels des techniques sont utilisées afin de renforcer la croissance des organismes en question au-delà des capacités naturelles de l'environnement;
+
+2° consignes d'étiquetage : les indications et la forme des marques, sceaux, labels, emballages, étiquettes, factures, certificats, attestations, petits panneaux, signes, dénominations qui doivent ou peuvent être apposés pour désigner des propriétés déterminées en termes de technique de qualité ou d'élevage;
+
+3° animal reproducteur : tout animal, repris dans un livre généalogique ou un registre, qui est destiné à l'élevage;
+
+[<sup>2</sup> 3° /1 Fonds contrôle et maintien Décret Agriculture : le Fonds contrôle et maintien Décret Agriculture (" Fonds toezicht en handhaving Landbouwdecreet "), créé par le décret du 6 juillet 2018 contenant diverses mesures d'accompagnement du budget 2018 ; ]<sup>2</sup>
+
+4° matières premières : terme générique désignant, d'une part, le matériel d'élevage/de culture, d'origine animale ou végétale et, d'autre part, toute matière qui est destinée à protéger, à améliorer ou à favoriser la production végétale et animale, y compris tout substrat pour la culture de végétaux ou les aliments pour animaux. La politique relative aux matières premières menée en exécution du présent décret se limite aux aspects qualitatifs de ces matières premières;
+
+5° propriétés essentielles : d'une part, les normes de qualité qui ont été fixées pour les matières premières et la production et, d'autre part, toutes les consignes d'étiquetage;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> 6° /1 membre du personnel : les membres du personnel contractuels et statutaires ;]<sup>1</sup>
+
+7° registre : tout support d'information, tenu à jour par une association ou une organisation d'éleveurs ou par une entreprise privée agréée à cet effet dans l'Etat membre où elle est établie ou qui est agréée dans un pays tiers où des animaux reproducteurs sont repris avec leurs données zootechniques;
+
+8° livre généalogique : tout support d'information tenu à jour par une association ou une organisation d'éleveurs qui est officiellement agréée à cet effet dans l'Etat membre où elle a été fondée ou qui est agréée dans un pays tiers où les animaux reproducteurs d'une race déterminée sont inscrits ou enregistrés avec mention de leur ascendance.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 98, 002; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 11, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 3
+
+§ 1er. Le présent décret s'applique aux activités qui sont exécutées dans les secteurs de :
+
+1° l'agriculture, en ce compris la culture et l'élevage de bétail;
+
+2° l'horticulture, en ce compris la culture maraîchère, la culture fruitière, la viticulture, la floriculture et la sylviculture;
+
+3° la tenue ou l'élevage d'animaux destinés à la consommation humaine, à la gestion rurale ou qui sont au service de l'agriculture, de l'horticulture ou de la pêche;
+
+4° l'aquaculture et la pêche en mer, pour autant que la pêche en mer soit exercée par :
+
+a) les bateaux de pêche belges dans les eaux communautaires ou en haute mer;
+
+b) d'autres bateaux de pêche dans la mer territoriale et la zone économique exclusive;
+
+5° la gestion rurale et le développement rural;
+
+6° les activités agricoles et horticoles dans un environnement urbain;
+
+7° le secteur des services, de l'encadrement, de la fourniture, des débouchés et de la transformation pour des entreprises agricoles, horticoles et de pêche;
+
+8° l'agriculture biologique.
+
+Les activités, visées à l'alinéa premier, englobent entre autres :
+
+1° le soutien, entre autres par la fourniture, la transformation, la commercialisation, la promotion et d'autres formes d'encadrement de produits animaux et végétaux, de cultures, d'animaux, de denrées alimentaires, d'autres produits et services en fonction de l'agriculture, de l'horticulture et de la pêche;
+
+2° la formulation d'avis aux acteurs qui sont actifs dans les secteurs visés au paragraphe 1er ;
+
+3° la diversification des activités agricoles, soit l'ensemble des activités économiques au sein du secteur agraire en faveur de la production de cultures et d'animaux ainsi que de produits agricoles;
+
+4° la réorientation et la promotion des activités agricoles, soit l'ensemble des activités économiques au sein du secteur agraire en faveur de la production de cultures et d'animaux, dans le sens de l'agriculture à objectif élargi. On entend par-là une agriculture qui reprend des activités non-agricoles dans ses tâches;
+
+5° la conservation des terres en bon état d'un point de vue agricole et environnemental.
+
+§ 2. Le présent décret s'applique à la coexistence de cultures génétiquement modifiées, de cultures conventionnelles et biologiques, pour autant que le décret du 3 avril 2009 portant l'organisation de la coexistence de cultures génétiquement modifiées et de cultures conventionnelles et biologiques et ses arrêtés d'exécution n'y dérogent pas.
+
+[<sup>1</sup> § 3. Le présent décret s'applique aux personnes exerçant les activités visées au paragraphe 1er.
+
+Si le feu bactérien a été constaté, le présent décret s'applique également aux personnes qui n'exercent pas les activités visées au paragraphe 1er, si elles effectuent des actes ou omettent d'effectuer des actes qui ont un impact sur la qualité des activités visées au paragraphe 1er, ou qui peuvent avoir une répercussion économique sur les activités visées au paragraphe 1er]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 12, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 4
+
+Le Gouvernement flamand peut, dans les limites des compétences visées à l'article 6, § 1er, V, et à l'article 6, § 1er, VI, de la loi spéciale du 8 août 1980 de réformes institutionnelles, à l'égard des activités, visées à l'article 3, § 1er, et des produits qui sont le résultat de ces activités :
+
+1° [<sup>3</sup> prendre toutes les mesures en vue de l'exécution des actes européens et autres actes internationaux qui concrétisent la politique européenne et internationale de l'agriculture et de la pêche et qui :
+
+a) règlent la garantie et la répartition du revenu des acteurs évoluant dans le secteur agricole ;
+
+b) règlent la gestion de la flotte de pêche et des stocks halieutiques et qui définissent les conditions à cet effet ;
+
+c) règlent la production aquacole, tant sur terre qu'en mer, et qui définissent les conditions à cet effet ;
+
+d) soutiennent ou stabilisent le fonctionnement du marché des produits de l'agriculture, de la pêche et de l'aquaculture ;
+
+e) stimulent le développement des zones rurales européennes et soutiennent des communautés rurales viables et qui définissent les conditions à cet effet ;
+
+f) dynamisent le secteur de la pêche et assurent des communautés de pêche viables ;
+
+g) forment le cadre à l'intérieur duquel le secteur de l'agriculture, de l'aquaculture et de la pêche peut être soutenu par l'octroi d'aides d'Etat ;
+
+h) autorisent la publicité et la promotion de la commercialisation des produits de l'agriculture, de la pêche et de l'aquaculture à l'intérieur du marché européen ;
+
+i) garantissent la qualité et la diversité des produits européens de l'agriculture, de la pêche et de l'aquaculture ;
+
+j) forment à cet égard le cadre de financement et de surveillance ;]<sup>3</sup>
+
+[<sup>4</sup> k) mettent en place des programmes volontaires en faveur du climat, de l'environnement et du bien-être des animaux, pour lesquels un soutien est fourni ; ]<sup>4</sup>
+
+2° fixer les conditions pour :
+
+a) tous les actes qui sont posés dans le cadre des activités visées à l'article 3, § 1er, et soumettre ces actes ou l'auteur de ces actes à un contrôle, une agréation ou une autorisation préalable, et fixer les conditions d'octroi, de modification, de maintien, de prolongation, de limitation, d'extension, de suspension, de levée ou de retrait de l'agrément ou de l'autorisation;
+
+b) la composition, la qualité, les propriétés, l'authenticité ou la pureté de la race, la répartition, la quantité, la mesure, le poids, la forme, l'état, l'origine, la provenance et l'analyse des produits qui sont le résultat des activités visées à l'article 3, § 1er, pour autant qu'elles soient imposés en vue de l'amélioration de la qualité ou des propriétés en matière de technique d'élevage;
+
+c) les consignes d'étiquetage;
+
+d) l'octroi d'un soutien en vue de l'exercice d'activités agricoles, de pêche en mer et d'aquaculture dans un cadre socialement justifié et qui tient compte des attentes sociales sur le plan de la conservation de la nature, de la protection de l'environnement, de la santé et du bien-être des animaux, de la fourniture d'aliments, de la sécurité alimentaire et de la qualité des aliments, de même que des intérêts des consommateurs;
+
+3° prendre toutes les mesures en vue de l'introduction et de l'exécution de systèmes de qualité, de l'octroi de labels de qualité et d'appellations d'origine de nature régionale ou locale;
+
+4° prendre toutes les mesures en vue de la surveillance de la qualité vis-à-vis des activités visées à l'article 3, § 1er;
+
+5° fixer les indemnités, [<sup>1</sup> ...]<sup>1</sup> droits, taxes, retenues et suppléments qui sont requis pour l'exécution des mesures visées dans le présent décret, ses arrêtés d'exécution, la politique agricole commune européenne [<sup>4</sup> , la politique commune européenne de la pêche, la politique européenne relative à la commercialisation de matériel de reproduction des végétaux ou la politique européenne relative à la santé des végétaux, qui déterminent la qualité du matériel de reproduction des végétaux, et leur montant]<sup>4</sup>. L'arrêté relatif aux cotisations obligatoires est abrogé de plein droit avec effet rétroactif jusqu'à la date de son entrée en vigueur dans la mesure où il n'est pas [<sup>2</sup> sanctionné par décret dans l'année suivant sa publication]<sup>2</sup>. [<sup>2</sup> ...]<sup>2</sup> [<sup>2</sup> Ce délai d'un an sera suspendu]<sup>2</sup> pendant les congés parlementaires et en cas de dissolution du parlement;
+
+[<sup>1</sup> 5° /1 fixer les rétributions requises pour l'exécution des mesures visées dans le présent décret, ses arrêtés d'exécution, la politique agricole commune européenne [<sup>4</sup> , la politique commune européenne de la pêche, la politique européenne relative à la commercialisation de matériel de reproduction des végétaux ou la politique européenne relative à la santé des végétaux, qui déterminent la qualité du matériel de reproduction des végétaux, ]<sup>4</sup> et fixer le montant des rétributions précitées ;]<sup>1</sup>
+
+6° diversifier la politique en matière d'agriculture, de pêche en mer ou d'aquaculture à l'égard d'un secteur, d'un secteur partiel, d'un groupe cible ou d'une région à déterminer;
+
+7° soutenir la gestion des risques;
+
+8° prendre toutes les mesures en vue de l'organisation de la répartition et du pesage de boeufs, de porcs et de moutons abattus.
+
+[<sup>4</sup> 9° prennent toutes les mesures pour l'introduction et la mise en oeuvre de la politique européenne relative à la commercialisation de matériel de reproduction des végétaux ou de la politique européenne relative à la santé des végétaux, qui déterminent la qualité du matériel de reproduction des végétaux et qui :
+
+a) règlent les enregistrements et agréments des opérateurs professionnels ;
+
+b) garantissent la traçabilité de végétaux, de produits végétaux et d'autres matériaux ;
+
+c) imposent des exigences de certification pour des matériels de reproduction des végétaux et autres végétaux destinés à la plantation qui sont mis en circulation dans l'Union européenne, qui sont introduits dans l'Union européenne et qui sont exportés à partir du territoire de l'Union européenne ;
+
+d) règlent la certification pour des matériels de reproduction des végétaux et autres végétaux destinés à la plantation qui sont mis en circulation dans l'Union européenne, qui sont introduits dans l'Union européenne et qui sont exportés à partir du territoire de l'Union européenne ;]<sup>4</sup>
+
+[<sup>4</sup> 10° autorisent des autorités locales à prendre des mesures de lutte contre le feu bactérien, et les autorisent à faire respecter ces mesures.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 99,1°, 002; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DCFL 2017-06-30/08, art. 99,2°,3°,4°, 002; En vigueur : 17-07-2017&gt;
+
+(3)&lt;DCFL 2019-04-26/31, art. 123, 005; En vigueur : 29-06-2019&gt;
+
+(4)&lt;DCFL 2024-03-29/37, art. 13, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 5
+
+§ 1er. Tout acquéreur professionnel direct de matières premières ou de produits qui sont le résultat des activités visées à l'article 3, § 1er, a le droit, nonobstant toute clause contraire, contradictoirement ou, sinon, en présence de témoins, d'exiger un prélèvement d'échantillons en vue de leur examen par une station d'examen ou par un laboratoire.
+
+§ 2. Le Gouvernement flamand peut, pour chaque analyse, prescrite légalement ou non, concernant la qualité des matières premières ou des produits, fixer le mode et les conditions de prélèvement d'échantillons, déterminer les méthodes d'analyse, fixer le tarif des analyses, de même que déterminer les conditions pour l'aménagement et le fonctionnement des laboratoires d'analyse en vue de leur [<sup>1</sup> désignation ou ]<sup>1</sup> agrément [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 14, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Le Gouvernement flamand peut exécuter toutes les obligations découlant de l'application de l'encadrement européen des aides d'Etat. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/31, art. 124, 005; En vigueur : 29-06-2019&gt;
+
+##### Art. 7
+
+§ 1er. Les données qui, conformément au champ d'application visé à l'article 3, sont fournies à une entité [<sup>2</sup> du domaine politique de l'Emploi, de l'Economie, des Sciences, de l'Innovation, de l'Agriculture et de l'Economie sociale, créé par l'arrêté du Gouvernement flamand du 15 septembre 2023,]<sup>2</sup> peuvent être mises à la disposition des autres entités du domaine de politique si cette mise à disposition s'inscrit dans le champ d'application visé à l'article 3.
+
+Au sein du domaine de politique de l'Agriculture et de la Pêche, des données peuvent être échangées aux fins suivantes :
+
+1° étude et analyse dans le cadre de la recherche scientifique;
+
+2° étude et analyse dans le cadre de la préparation de la politique;
+
+3° étude et analyse dans le cadre du soutien de la politique;
+
+4° étude et analyse dans le cadre de l'exécution de la politique;
+
+5° étude et analyse dans le cadre de l'évaluation de la politique;
+
+6° établissement d'études d'impact de l'agriculture;
+
+7° établissement de rapports sur les effets de l'agriculture;
+
+8° gestion de la base de données pour l'aide de minimis, visée à l'article 6;
+
+9° tenue de comptabilités d'économie d'entreprise;
+
+10° encaissement de taxes de promotion;
+
+11° communication avec les exécutants des activités, visées à l'article 3, § 1er, alinéa premier d'autres autorités, la société civile et la société;
+
+12° détermination de la diminution des valeurs d'utilisation;
+
+13° avis dans le cadre de l'aménagement du territoire;
+
+14° organisation d'activités d'information;
+
+15° exécution par les entités des missions qui leur sont confiées;
+
+16° simplification administrative.
+
+§ 2. Les entités du domaine de politique de l'Agriculture et de la Pêche peuvent demander directement à des tiers les données dont elles ont besoin à des fins déterminées, explicitement décrites et justifiées ou pour l'exécution des missions qui leur sont confiées.
+
+Après accord de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire, les entités [<sup>2</sup> du domaine politique, visé au paragraphe 1er, alinéa 1er, ]<sup>2</sup> peuvent demander les données suivantes auprès de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire :
+
+1° données d'identification et d'enregistrement issues du secteur animal dans le cadre de l'aide directe aux revenus de l'UE, de l'aide dans le cadre du développement rural et de la production biologique;
+
+2° données de contrôle issues du secteur animal et végétal dans le cadre du contrôle des conditions annexes en tant que condition pour l'octroi d'une aide dans le cadre de l'aide directe aux revenus de l'UE et de l'aide pour le développement rural;
+
+3° [<sup>2</sup> données issues du secteur végétal dans le cadre des :
+
+a) commerce de matériels de reproduction des végétaux ;
+
+b) contrôle des prescriptions de commercialisation, de qualité, et de santé des végétaux d'opérateurs professionnels, de producteurs et de fournisseurs ;
+
+c) santé des végétaux du matériel de reproduction ]<sup>2</sup>;
+
+4° toutes les informations qui découlent des constatations qu'a faites ou reçues l'Agence fédérale pour la Sécurité de la Chaîne alimentaire par le biais du "Rapid Alert System", qui sont de nature telle à mettre en évidence la fraude dans les secteurs de la production biologique et intégrée [<sup>2</sup> dans les secteurs des matériels de reproduction des végétaux ]<sup>2</sup>;
+
+5° données de contrôle des contrôles de conformité relatifs aux normes commerciales d'application aux légumes et aux fruits.
+
+Après accord de l'autorité compétente, les entités [<sup>2</sup> du domaine politique, visé au paragraphe 1er, alinéa 1er]<sup>2</sup> peuvent demander des données fiscales auprès de l'autorité compétente.
+
+[<sup>2</sup> Avec l'accord de l'autorité compétente, les entités du domaine politique visé au paragraphe 1er, alinéa 1er, peuvent demander à l'autorité compétente d'une autre région ou d'un autre Etat membre de l'Union européenne des données sur la qualité et la santé des matériels de reproduction des végétaux. ]<sup>2</sup>
+
+[<sup>1</sup> Les entités [<sup>2</sup> du domaine politique, visé au paragraphe 1er, alinéa 1er,]<sup>2</sup> peuvent demander directement à des tiers les données nécessaires à la gestion du réseau de surveillance agricole et à la fourniture d'un soutien politique, y compris la préparation d'études, de rapports et de chiffres.]<sup>1</sup>
+
+§ 3. Les données qui, dans le champ d'application visé à l'article 3, sont fournies à l'entité [<sup>2</sup> visé au paragraphe 1er, alinéa 1er, ]<sup>2</sup> peuvent, après accord de l'entité qui les a fournies, être mises à la disposition de tiers en vue du traitement par ces tiers à des fins déterminées, explicitement décrites et justifiées.
+
+Les données visées au paragraphe 2, alinéa deux, peuvent être transmises à des organes de contrôle agréés en matière de production biologique, aux centres de promotion de méthodes de production plus durables et à d'autres organes désignés par le Gouvernement flamand.
+
+§ 4. Si, lors de l'échange des données visées à l'article 6 et dans le présent article, des données à caractère personnel sont échangées par la voie électronique, cet échange peut uniquement avoir lieu [<sup>1</sup> sous réserve des règles relatives à la protection des personnes physiques à l'égard du traitement des données personnelles applicables à la communication de données personnelles, telles qu'elles sont ou seront précisées au niveau fédéral ou flamand, selon le cas]<sup>1</sup>.
+
+[<sup>2</sup> § 5. Pour l'application et l'exécution du présent décret et notamment à l'égard des activités visées à l'article 3 et au chapitre 3 du présent décret, des données à caractère personnel peuvent être traitées, tel que visé à l'article 4, 2), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données). Ces données à caractère personnel sont traitées afin de respecter les tâches et les obligations découlant de l'application du présent décret, et afin d'accomplir des tâches d'intérêt public.
+
+Les données à caractère personnel traitées peuvent concerner les catégories de données suivantes :
+
+1° les données d'identification ;
+
+2° les données relatives à des particularités financières ;
+
+3° les données sur les modes de vie ;
+
+4° les données sur les habitudes de consommation ;
+
+5° les images et les enregistrements vidéo ;
+
+6° les données sur l'éducation, la formation, la profession, la compétence professionnelle, le salaire, l'expérience professionnelle, les données académiques et les emplois ;
+
+7° les données relatives aux caractéristiques personnelles ;
+
+8° les données judiciaires ;
+
+9° les données relatives à la composition de ménage ;
+
+10° les données relatives au contrôle par des organismes de contrôle et aux examens effectués par des laboratoires désignés et agréés.
+
+[<sup>3</sup> 11° données d'entreprise.]<sup>3</sup>
+
+Pour l'identification de personnes physiques, les données suivantes sont traitées :
+
+1° le numéro du registre national, si les données concernent une personne physique inscrite au registre national ;
+
+2° le numéro d'identification de la Banque-Carrefour de la Sécurité Sociale, si les données concernent une personne physique non inscrite au Registre national.
+
+Les numéros d'identification autres que ceux visés à l'alinéa 3, sont utilisés si certaines données relatives à une personne physique sont liées à un identificateur unique par d'autres moyens.
+
+Les données des catégories suivantes de personnes sont traitées :
+
+1° les acteurs qui effectuent ou font effectuer des activités telles que visées à l'article 3 ;
+
+2° les responsables légaux, préposés ou représentants des acteurs visés au point 1°.
+
+Le Gouvernement flamand détermine les traitements ultérieurs, en indiquant les catégories de données traitées, et peut compléter les catégories visées à l'alinéa 2, en indiquant les catégories de personnes concernées par le traitement, les obligations légalement exécutoires qui justifient le traitement et montrent l'objectif du traitement envisagé ou un autre fondement tel que visé à l'article 6 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données). Le Gouvernement flamand désigne également le responsable du traitement tel que visé à l'article 4, 7), du règlement précité.
+
+Toutes les données à caractère personnel qui sont traitées en exécution du présent décret et de ses arrêtés d'exécution, seront traitées par l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, conformément aux dispositions du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données). Les données à caractère personnel seront traitées exclusivement aux fins indiquées.
+
+Les données à caractère personnel traitées conformément au présent décret ne sont pas conservées plus longtemps qu'il n'est nécessaire aux fins pour lesquelles elles sont traitées. La durée de conservation des données à caractère personnel est déterminée conformément à l'article III. 87 du Décret de gouvernance du 7 décembre 2018.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 139, 003; En vigueur : 25-05-2018&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 15, 007; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFL 2026-06-26/21, art. 107, 009; En vigueur : 20-08-2026&gt;
+
+##### Art. 7/1
+
+[<sup>1</sup> § 1er. Si une obligation d'identification, d'enregistrement ou d'agrément et une désignation par le Gouvernement flamand sont prévues pour les acteurs qui exercent ou font exercer des activités telles que visées à l'article 3, ou pour leurs responsables légaux, préposés ou représentants, cela se fait sur la base des éléments suivants :
+
+1° le numéro du registre national, si les données concernent une personne physique inscrite au registre national ;
+
+2° le numéro d'identification de la Banque-Carrefour de la Sécurité sociale lorsque les données ont trait à une personne physique qui n'est pas reprise dans le Registre national ;
+
+3° l'identification, telle que reprise dans la Banque-Carrefour des Entreprises du SPF Economie, PME, Classes moyennes et Energie en ce qui concerne les sujets tenus de s'inscrire ;
+
+4° l'identification conformément à une source de données étrangère dans laquelle les données de base des entreprises et de leurs unités d'établissement sont collectées.
+
+Pour les obligations visées à l'alinéa 1er, les données d'identification et les coordonnées sont traitées. Ces données sont collectées par le biais des sources de données authentiques visées à l'alinéa 1er, ou par une demande adressée aux personnes visées à l'alinéa 1er. Le traitement a également lieu dans le cadre d'autres obligations de contrôle et d'autres actes nécessaires à l'exécution du présent décret, tels que la communication avec les personnes visées à l'alinéa 1er.
+
+§ 2. Le Gouvernement flamand peut autoriser l'utilisation d'autres sources de données que celles visées au paragraphe 1er ou imposer l'utilisation d'une ou plusieurs de ces autres sources de données à l'exclusion d'autres sources de données. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 16, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 7/2
+
+[<sup>1</sup> . L'échange de messages en exécution du présent décret, de ses arrêtés d'exécution, de la politique agricole commune européenne, de la politique commune européenne de la pêche et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles, s'effectue de manière non analogique. Sauf disposition contraire du Gouvernement flamand, l'entité désignée par le Gouvernement flamand comme l'entité compétente pour une certaine matière choisit et publie la procédure électronique à suivre. L'entité compétente peut imposer des restrictions et des exigences techniques.
+
+Le gouvernement flamand peut déterminer quand l'échange analogique reste possible.
+
+Les personnes physiques qui n'ont pas la qualité d'entrepreneur doivent consentir explicitement et préalablement à l'échange électronique et doivent pouvoir retirer leur consentement à tout moment.
+
+Le moment de l'envoi et de la réception de messages échangés par voie électronique est déterminé par l'article II. 23 du Décret de gouvernance du 7 décembre 2018. Sauf disposition contraire du Gouvernement flamand, pour les envois émanant de l'entité compétente désignée visée à l'alinéa 1er, le lendemain du jour de l'envoi est le point de départ des délais imposés dans le cadre des procédures en exécution du présent décret, de ses arrêtés d'exécution, de la politique agricole commune européenne, de la politique commune européenne de la pêche et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles. S'il est stipulé que certains messages doivent être communiqués ou soumis à l'entité compétente avant une certaine date, les messages doivent être reçus par l'entité compétente à la date limite d'introduction. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 17, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 8
+
+Le Gouvernement flamand peut, pour les activités visées à l'article 3, § 1er, et pour les produits qui sont le résultat de ces activités, prévoir une obligation de fourniture de données déterminées à des fins statistiques.
+
+Le Gouvernement flamand peut préciser les conditions et la procédure d'application à la fourniture de données.
+
+Le Gouvernement flamand détermine quelle entité peut demander les données visées à l'alinéa premier.
+
+##### Art. 8/1
+
+[<sup>1</sup> Le Gouvernement flamand peut organiser la représentation officielle de l'agriculture au niveau local. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 18, 007; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE 2. - Soutien et promotion d'un secteur de l'agriculture, de la pêche en mer et de l'aquaculture économiquement efficace et durable
+
+### Section 1re. - Dispositions générales
+
+##### Art. 9
+
+Le Gouvernement flamand peut prendre les mesures suivantes :
+
+1° mesures de soutien pour les activités visées à l'article 3, § 1er ;
+
+2° mesure en vue du soutien des études scientifiques et axées sur la pratique qui sont menées;
+
+3° pour les activités visées à l'article 3, § 1er, des mesures en vue de l'information du consommateur;
+
+4° pour les activités visées à l'article 3, § 1er, des mesures en vue de la promotion de l'entrepreneuriat et de l'innovation;
+
+5° des mesures d'accompagnement en vue de l'amélioration de la viabilité d'entreprises existantes qui sont confrontées à l'évolution de facteurs de l'environnement.
+
+[<sup>1</sup> 6° des mesures de réduction, de cessation ou de réorientation des activités visées à l'article 3, § 1er.]<sup>1</sup>
+
+Le Gouvernement flamand peut déterminer la nature, le contenu, l'application, la procédure de demande, les conditions et le contrôle du respect des conditions pour les mesures visées à l'alinéa premier.
+
+Dans le présent chapitre, la notion d'activités agricoles englobe l'ensemble des activités économiques au sein du secteur agraire en faveur de la production de cultures et d'animaux.
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 19, 007; En vigueur : 01-01-2024&gt;
+
+### Section 2. - Promotion de méthodes de production agricole durables
+
+##### Art. 10
+
+§ 1er. Le Gouvernement flamand peut prendre les mesures de soutien suivantes :
+
+1° [<sup>1</sup> promotion de l'application d'activités agricoles et de la transformation primaire qui apportent une contribution positive à la protection de l'environnement, à l'atténuation du changement climatique et à l'adaptation à celui-ci, à l'énergie durable, au renforcement des écosystèmes, au respect des normes d'hygiène, à la santé animale, au bien-être animal, à l'amélioration de la qualité, à la préservation des habitats et des espèces et à l'amélioration paysagère ]<sup>1</sup>;
+
+2° promotion de la participation à des systèmes d'assurance qualité et de certification pour l'agriculture durable et des débouchés des produits de qualité résultant de ces systèmes;
+
+3° promotion de la diversité génétique d'animaux et de cultures agricoles;
+
+4° préservation de la biodiversité ;
+
+5° promotion de la diversification des activités agricoles et des produits agricoles;
+
+6° réorientation et promotion des activités agricoles et de la transformation primaire dans le sens d'une agriculture à objectif élargi, c'est-à-dire d'une agriculture qui englobe des activités non agricoles dans ses tâches.
+
+[<sup>2</sup> 7° apport d'un soutien aux revenus agricoles viables et à la résilience pour garantir la sécurité alimentaire ;
+
+8° renforcement de l'orientation vers le marché et de la compétitivité ;
+
+9° amélioration de la position des agriculteurs dans la chaîne de valeur ;
+
+10° amélioration de la façon de répondre aux attentes de la société en matière d'alimentation et de santé]<sup>2</sup>
+
+Les mesures de soutien visées à l'alinéa premier, 1° et 3°, peuvent uniquement être accordées si la méthode de production agricole fournit un résultat positif par rapport aux normes minimales dans le domaine du cadre de vie, de la nature, du paysage, de l'hygiène et du bien-être animal. Un soutien temporaire pourra néanmoins être accordé pour des adaptations en fonction de nouvelles normes qui sont basées sur la réglementation communautaire relative à l'environnement, à la santé de l'homme, de l'animal ou de la plante et au bien-être animal.
+
+§ 2. Une association peut être agréée en tant que centre de promotion de méthodes de production agricole durables pour l'exécution d'une mesure de soutien telle que visée au paragraphe 1er, si elle satisfait aux conditions suivantes :
+
+1° elle a été fondée sous la forme d'une association sans but lucratif et son objet statutaire porte sur la promotion de méthodes de production agricole durables telles que visées au paragraphe 1er;
+
+2° elle met à disposition, sur simple demande, toutes les données qui sont nécessaires en vue du contrôle et de l'exécution de la mesure de soutien en question;
+
+3° elle est représentative, de manière démontrable, de la mesure de soutien en question en Flandre et bénéficie d'un savoir-faire suffisant;
+
+4° elle offre toutes les garanties pour une organisation et une planification adéquates de la mesure de soutien;
+
+5° elle accepte le contrôle administratif et financier de l'autorité flamande et de l'Union européenne.
+
+Le Gouvernement flamand peut fixer en détail des règles pour les conditions visées à l'alinéa premier et des conditions et règles complémentaires pour l'agrément et les conséquences de cet agrément.
+
+L'agrément peut être suspendu ou supprimé si les conditions visées à l'alinéa premier ne sont pas remplies. Le Gouvernement flamand peut fixer en détail les règles de suspension et de suppression et peut également déterminer d'autres cas qui entraînent la suspension ou la suppression de l'agrément en tant que centre.
+
+§ 3. Le Gouvernement flamand peut déterminer la nature, le contenu, l'application, la procédure de demande, les conditions et le contrôle du respect des conditions pour les mesures de soutien visées au paragraphe 1er.
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 20,1°, 007; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 20,2°, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 11
+
+Dans les limites des crédits budgétaires accordés annuellement, des subventions peuvent être octroyés pour l'exécution des mesures de soutien visées à l'article 10, § 1er, si les conditions fixées par le Gouvernement flamand sont remplies.
+
+En ce qui concerne les subventions visés à l'alinéa premier, le Gouvernement flamand peut déterminer :
+
+1° qui entre en ligne de compte pour un subventionnement;
+
+2° les règles auxquelles les [<sup>1</sup> bénéficiaires ]<sup>1</sup> doivent satisfaire;
+
+[<sup>1</sup> 2° /1 que les bénéficiaires doivent être agréés ou enregistrés pour être éligibles au subventionnement, et les conditions qu'ils doivent remplir le cas échéant ; ]<sup>1</sup>
+
+3° la nature des mesures de soutien en vue de la promotion de l'agriculture durable.
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 21, 007; En vigueur : indéterminée &gt;
+
+### Section 3. - Formation agricole
+
+##### Art. 12
+
+[<sup>1</sup> Dans le cadre de la formation agricole, des activités postscolaires peuvent être organisées.
+
+Le Gouvernement flamand peut déterminer les groupes cibles des activités postscolaires, visées à l'alinéa 1er, ainsi que les objectifs auxquels ces activités doivent contribuer.
+
+Dans le cadre des activités postscolaires, visées à l'alinéa 1er, des examens peuvent être organisés et des certificats et des attestations peuvent être délivrés.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-08/05, art. 7, 008; En vigueur : 06-10-2023&gt;
+
+##### Art. 13
+
+Le Gouvernement flamand peut accorder une indemnité pour promotion sociale à des personnes qui exercent des activités agricoles ou des activités dans le domaine de la transformation primaire et qui ont achevé leur formation agricole avec succès. Le Gouvernement flamand peut fixer les conditions et règles détaillées à cet effet.
+
+##### Art. 14
+
+&lt;Abrogé par DCFL 2022-07-08/05, art. 8, 008; En vigueur : 06-10-2023&gt;
+
+##### Art. 15
+
+Dans les limites des crédits budgétaires accordés annuellement, des subventions peuvent être octroyés pour l'organisation des activités de formation postscolaire visées à l'article 12, § 1er, pour autant toutefois que les conditions fixées par le Gouvernement flamand soient remplies.
+
+En ce qui concerne les subventions visés à l'alinéa premier, le Gouvernement flamand peut déterminer :
+
+1° qui entre en ligne de compte pour un subventionnement;
+
+2° les règles auxquelles les [<sup>1</sup> bénéficiaires]<sup>1</sup> doivent satisfaire;
+
+[<sup>1</sup> 2° /1 que les bénéficiaires doivent être agréés ou enregistrés pour être éligibles au subventionnement, et les conditions qu'ils doivent remplir le cas échéant ;]<sup>1</sup>
+
+3° la nature des activités postscolaires;
+
+4° les exigences de qualité auxquelles l'encadrement doit satisfaire;
+
+5° les exigences de qualité auxquelles les enseignants doivent satisfaire;
+
+6° [<sup>1</sup> la manière dont les examens sont organisés, et les conditions auxquelles une attestation ou un certificat peut être obtenu(e).]<sup>1</sup>
+
+Le subventionnement de l'organisation d'activités de formation postscolaire visées à l'article 12, peut être subordonné au type de centre, au type d'activité de formation ou aux qualifications de l'enseignant.
+
+Pour entrer en ligne de compte pour un subventionnement, les participants aux activités de formation postscolaire visées à l'article 12 ne peuvent plus être scolarisables au début des activités, conformément à la loi du 29 juin 1983 concernant l'obligation scolaire.
+
+----------
+
+(1)&lt;DCFL 2022-07-08/05, art. 9, 008; En vigueur : 06-10-2023&gt;
+
+### Section 4. - Actions de sensibilisation en vue de la promotion d'une agriculture durable
+
+##### Art. 16
+
+[<sup>1</sup> Dans les limites des crédits budgétaires annuellement autorisés, des subventions peuvent être accordées pour l'organisation d'actions de sensibilisation visant à promouvoir une agriculture durable.
+
+En ce qui concerne les subventions visées à l'alinéa 1er, le Gouvernement flamand peut déterminer :
+
+1° qui entre en ligne de compte pour un subventionnement ;
+
+2° que les bénéficiaires doivent être agréés ou enregistrés pour être éligibles au subventionnement, et les conditions qu'ils doivent remplir le cas échéant ;
+
+3° les règles auxquelles les actions de sensibilisation doivent répondre ;
+
+4° les obligations que les bénéficiaires doivent respecter ;
+
+5° les conditions d'octroi de la subvention ;
+
+6° la procédure à suivre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-08/05, art. 10, 008; En vigueur : 21-04-2023&gt;
+
+##### Art. 17
+
+&lt;Abrogé par DCFL 2022-07-08/05, art. 11, 008; En vigueur : 21-04-2023&gt;
+
+##### Art. 18
+
+&lt;Abrogé par DCFL 2022-07-08/05, art. 11, 008; En vigueur : 21-04-2023&gt;
+
+### Section 5. - Education agricole
+
+##### Art. 19
+
+Pour favoriser la connaissance, le dialogue et la formation d'une vision en matière d'agriculture durable et de consommation durable de produits agricoles au sein de la population en général ou de groupes cibles déterminés et d'ainsi renforcer la portée sociale de l'agriculture durable, des activités d'éducation agricole et de formation d'une vision relatives à l'agriculture durable et à la consommation durable de produits agricoles peuvent être organisées.
+
+Le Gouvernement flamand peut fixer les conditions d'application à l'organisation et au soutien des activités visées à l'alinéa premier.
+
+##### Art. 20
+
+&lt;Abrogé par 2024-03-29/37, art. 22, 007; En vigueur : 5555-55-55
+
+##### Art. 21
+
+Dans les limites des crédits budgétaires accordés annuellement, des subventions peuvent être octroyés pour l'organisation d'activités d'éducation agricole visées à l'article 19, § 1er, pour autant toutefois que les conditions fixées par le Gouvernement flamand soient remplies.
+
+En ce qui concerne les subventions visés à l'alinéa premier, le Gouvernement flamand peut déterminer :
+
+1° qui entre en ligne de compte pour un subventionnement;
+
+2° les règles auxquelles les [<sup>1</sup> bénéficiaires ]<sup>1</sup>doivent satisfaire;
+
+2° /1 que les bénéficiaires doivent être agréés ou enregistrés pour être éligibles au subventionnement, et les conditions qu'ils doivent remplir le cas échéant ; "
+
+3° la nature et la qualité des activités d'éducation agricole.
+
+Le subventionnement de l'organisation d'activités d'éducation agricole visées à l'article 19 peut être subordonné au type de [<sup>1</sup> bénéficiaire]<sup>1</sup>.
+
+----------
+
+(1) DCFL2024-03-29/37, art. 23, 007; En vigueur : 5555-55-55&gt;
+
+### Section 6. - Le Fonds flamand d'investissement agricole
+
+##### Art. 22
+
+A l'article 12 du décret du 22 décembre 1993 contenant diverses mesures d'accompagnement du budget 1994, modifié par les décrets des 24 décembre 2004 et 23 juin 2006, les modifications suivantes sont apportées :
+
+1° le terme "Fonds" est remplacé dans chaque cas par le terme "VLIF";
+
+2° le paragraphe 3 est remplacé par ce qui suit :
+
+" § 3. Le VLIF a pour objet le soutien des activités suivantes :
+
+1° l'exécution d'opérations d'investissement;
+
+2° la conversion ou la diversification d'entreprises et la conversion de l'exploitation agricole;
+
+3° l'installation de jeunes agriculteurs et horticulteurs;
+
+4° la transformation et la commercialisation de produits agricoles et horticole ;
+
+5° l'exploitation d'entreprises qui sont confrontées aux conséquences de maladies animales et de maladies de végétaux, de catastrophes naturelles et d'autres événements exceptionnels;
+
+6° la collaboration entre agriculteurs et horticulteurs;
+
+7° la collaboration entre le secteur de la fourniture, de la production, des débouchés et de la transformation;
+
+8° la fourniture de services en vue de la réalisation des activités visées aux point 1° à 5° inclus ou l'encadrement desdites activités.
+
+Les activités visées à l'alinéa premier bénéficient d'un soutien si les dossiers de demande d'un soutien démontrent une réelle contribution à la durabilité des activités concernées ainsi qu'au moins une contribution réelle à l'un des objectifs suivants :
+
+1° améliorer la structure d'entreprises agricoles et horticoles;
+
+2° assurer et renforcer la rentabilité d'entreprises agricoles et horticoles;
+
+3° réduire les prix de revient;
+
+4° favoriser la diversification d'activités agricoles et de produits agricoles;
+
+5° favoriser l'agriculture à objectifs élargis;
+
+6° la conversion à des systèmes spécifiques d'agriculture durable;
+
+7° aider à favoriser les activités économiques du secteur des services, de l'encadrement, de la fourniture, des débouchés et de la transformation de l'agriculture et de l'horticulture;
+
+8° favoriser l'entrepreneuriat;
+
+9° favoriser l'innovation.
+
+Le VLIF peut accorder des interventions à :
+
+1° des agriculteurs et horticulteurs, de même qu'à leurs associations et sociétés;
+
+2° des indépendants, sociétés et associations pour la fourniture de services, la recherche, l'encadrement et la fourniture en faveur du secteur agricole et horticole;
+
+3° des indépendants, sociétés et associations pour les débouchés et la transformation de produits agricoles et horticole ;
+
+4° des coopérations de consommateurs qui ont pour but l'exploitation d'une entreprise agricole ou horticole, et des personnes morales dont l'objet social porte sur une activité agricole ou horticole. ";
+
+3° au paragraphe 4, d), les termes "Communauté européenne" sont remplacés par les termes "Union européenne";
+
+4° le paragraphe 5 est remplacé par ce qui suit :
+
+" § 5. Le VLIF est autorisé à accorder une garantie pour des prêts destinés à des investissements dans l'agriculture et l'horticulture.
+
+Le Parlement flamand fixe annuellement le montant maximum pour lequel le VLIF peut accorder une garantie au cours de l'année en question.
+
+La garantie de la Région flamande est accordée à des prêts qui sont garantis par le VLIF. ";
+
+5° le paragraphe 6 est remplacé par ce qui suit :
+
+" § 6. Le Gouvernement flamand peut, vis-à-vis du VLIF :
+
+1° fixer le fonctionnement et la gestion du VLIF et, conformément aux principes généraux en vigueur, déléguer certaines de ses compétences au fonctionnaire dirigeant qu'elle désigne à cet effet;
+
+2° fixer les conditions auxquelles le VLIF peut accorder la garantie visée au paragraphe 5 et établir la procédure à cet effet;
+
+3° fixer les règles et conditions détaillées auxquelles les indépendants, associations et sociétés doivent satisfaire pour entrer en ligne de compte pour une intervention pour la fourniture de services, l'accompagnement et la fourniture en faveur du secteur agricole et horticole, conformément aux objectifs visés au paragraphe 3;
+
+4° limiter l'octroi d'un soutien à des indépendants, sociétés et associations issus du secteur de l'approvisionnement agricole et du secteur agroalimentaire à un pourcentage annuel maximum du budget total fixé du VLIF ";
+
+6° le paragraphe 8 est abrogé.
+
+### Section 7. - Pêche en mer et aquaculture
+
+#### Sous-section 1re. - Dispositions générales
+
+##### Art. 23
+
+Sans préjudice de l'application du décret du 13 mai 1997 portant création d'un Instrument de Financement destiné au secteur flamand de la pêche et de l'aquaculture, le Gouvernement flamand peut encourager une pêche en mer et une aquaculture durables en favorisant une pêche en mer et une aquaculture économiquement efficaces, écologiques et socialement acceptables.
+
+##### Art. 24
+
+Pour la pêche en mer, le Gouvernement flamand règle :
+
+1° la préservation, la gestion et l'exploitation d'organismes aquatiques vivants;
+
+2° la limitation de l'impact environnemental;
+
+3° l'accès à l'eau et aux ressources aquatiques;
+
+4° la politique structurelle et la gestion de la capacité d'une flotte;
+
+5° la politique de marché, y compris l'agrément d'organisations de producteurs;
+
+6° l'introduction et l'exécution de mesures de contrôle, y compris le contrôle de la pêche illégale, non signalée et non réglementée, et également le maintien desdites mesures.
+
+#### Sous-section 2. - L'Instrument de Financement pour le secteur flamand de la pêche et de l'aquaculture
+
+##### Art. 25
+
+A l'article 4, alinéa trois, du décret du 13 mai 1997 portant création d'un Instrument de Financement destiné au secteur flamand de la pêche et de l'aquaculture, remplacé par le décret du 21 octobre 2005 et modifié par les décrets des 19 décembre 2008 et 9 juillet 2010, les modifications suivantes sont apportées :
+
+1° le terme "ou" est abrogé dans chaque cas;
+
+2° le point 4 est remplacé par ce qui suit :
+
+" 4° favoriser la durabilité du secteur de la pêche et de l'aquaculture; ".
+
+##### Art. 26
+
+A l'article 9, e), du même décret, modifié par le décret du 19 décembre 2008, les termes "Communauté européenne" sont remplacés par les termes "Union européenne".
+
+##### Art. 27
+
+L'article 11 du même décret, modifié par le décret du 19 décembre 2008, est remplacé par ce qui suit :
+
+" Art. 11. Le Gouvernement flamand établit annuellement un rapport relatif aux activités du FIVA. Ce rapport traite du fonctionnement et de la gestion du FIVA et des développements au sein du secteur flamand de la pêche et de l'aquaculture. Le rapport est communiqué annuellement au Parlement flamand pour le 30 juin au plus tard. ".
+
+### Section 8. - Centres de pratique
+
+##### Art. 28
+
+Le Gouvernement flamand peut, en vue de préserver la compétitivité des entreprises agricoles et horticoles, et plus particulièrement afin d'améliorer les méthodes de production et en améliorant la qualité des produits agricoles et horticoles, fixer les conditions relatives :
+
+1° à la forme juridique, aux tâches et au fonctionnement d'associations qui contribuent à la diffusion de la connaissance dans des secteurs partiels de l'agriculture et de l'horticulture, entre autres en testant les résultats de la recherche scientifique par la démonstration et la communication des conclusions de travaux d'expérimentation;
+
+2° à l'agrément et au subventionnement des associations visées au point 1°.
+
+### Section 9. - Soutien et promotion d'associations, de groupements et d'accords de coopération
+
+##### Art. 29
+
+§ 1er. Le Gouvernement flamand peut, pour les activités visées à l'article 3, § 1er, et pour les produits qui sont le résultat de ces activités, fixer les conditions auxquelles :
+
+1° les organisations professionnelles représentatives, organisations de producteurs, unions d'organisations de producteurs, groupements de producteurs, organisations sectorielles, organisations interprofessionnelles et organisations d'acteurs du marché sont agréés, au sein desquels des producteurs, acheteurs, transformateurs ou distributeurs de produits ou de matières premières déterminés sont représentés sur une base exclusive ou non-exclusive;
+
+2° sont approuvées les conventions qui fixent les organisations professionnelles représentatives, organisations de producteurs, unions d'organisations de producteurs, groupements de producteurs, organisations sectorielles, organisations interprofessionnelles et organisations d'acteurs du marché;
+
+3° les membres affiliés ou autres représentants du monde des entreprises en question peuvent se voir imposer le paiement d'un montant déterminé à des organisations professionnelles représentatives, à des organisations de producteurs, à des unions d'organisations de producteurs, à des groupements de producteurs, à des organisations sectorielles, à des organisations interprofessionnelles et à des organisations d'acteurs du marché pour les frais administratifs et autres qui sont engagés pour l'exécution de la mission des organisations ou pour le financement d'une participation au capital d'entreprises du secteur en question. Pour le secteur du sucre, ces frais peuvent être payés sous la forme de retenues effectuées par les fabricants de sucre sur les paiements des betteraves;
+
+4° les parties peuvent rechercher de commun accord une solution à l'amiable en cas de litige entre les divers maillons de la chaîne et concernant l'assistance qui peut leur être accordée à cet effet.
+
+§ 2. Les organisations professionnelles représentatives, organisations de producteurs, unions d'organisations de producteurs, groupements de producteurs, organisations sectorielles, organisations interprofessionnelles et organisations d'acteurs du marché agréés visés au paragraphe 1er se soumettent au contrôle de leur comptabilité, de leurs structures, de leurs activités et de leurs objectifs, ainsi qu'au contrôle de l'application des conventions du monde des entreprises et des règles communes approuvées.
+
+Le Gouvernement flamand détermine qui exerce le contrôle visé à l'alinéa premier.
+
+§ 3. Les conventions visées au paragraphe 1er, 2°, peuvent être déclarées généralement obligatoires aux conditions fixées par le Gouvernement flamand.
+
+[<sup>1</sup> § 4. Les unions représentatives d'organisations de producteurs et d'organisations sectorielles peuvent, sur demande expresse, demander à l'entité compétente des données à caractère personnel concernant des acteurs du marché dans le champ d'application pour lequel les différentes organisations ont été agréées ou d'autres représentants du secteur concerné, afin de pouvoir percevoir le montant, visé au paragraphe 1er, 3°, ou d'appliquer les accords déclarés généralement obligatoires, visés au paragraphe 3.
+
+Les organisations de producteurs représentatives peuvent, sur demande expresse, demander à l'entité compétente des données à caractère personnel des membres affiliés ou d'autres représentants du secteur concerné, afin de pouvoir percevoir le montant visé au paragraphe 1er, 3°, ou d'appliquer les accords déclarés généralement obligatoires, visés au paragraphe 3. Dans ce dernier cas, les données à caractère personnel des membres non affiliés peuvent également être demandées.
+
+Aux fins visées aux alinéas 1er et 2, les organisations de producteurs, les unions d'organisations de producteurs et les organisations sectorielles représentatives agissent en tant que responsable du traitement tel que visé à l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
+
+Les catégories de personnes concernées dont les données peuvent être traitées sont :
+
+1° les personnes physiques ou leurs groupements, les personnes morales ou leurs groupements, qui exercent ou font exercer les activités au sens de l'article 3 ;
+
+2° les responsables légaux, préposés ou représentants des acteurs visés au point 1°.
+
+Les catégories de données à caractère personnel qui peuvent être traitées sont :
+
+1° les données d'identification, visées à l'article 7, § 5, alinéa 2, 1° ;
+
+2° les données d'entreprise, visées à l'article 7, § 5, alinéa 2, 11°.
+
+Seuls les membres du personnel, les préposés ou les représentants des organisations concernées ou des prestataires de services avec lesquels ces organisations ont conclu un contrat de sous-traitance, chargés du recouvrement des montants, visés au paragraphe 1er, 3°, et de l'exécution des contrats, visés au paragraphe 3, ont accès aux données.
+
+Les données ne peuvent être conservées plus longtemps que nécessaire aux fins de leur traitement, avec un délai maximum de conservation de dix ans.
+
+Les organisations concernées traitent les données conformément au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
+
+Les organisations concernées prennent, conformément à l'article 12 du règlement général sur la protection des données, des mesures appropriées pour informer l'intéressé du traitement de ses données à caractère personnel conformément aux articles 13 et 14 du règlement précité, et pour informer l'intéressé des droits visés aux articles 15 à 22 et à l'article 34 du règlement précité.
+
+Conformément à l'article 32 du règlement général sur la protection des données, les organisations concernées prennent les mesures techniques et organisationnelles appropriées destinées à garantir un niveau De sécurité adapté au risque, de manière à ce que les données à caractère personnel soient notamment protégées contre tout traitement non autorisé ou illicite, ainsi que contre toute perte, destruction ou altération accidentelle.
+
+Le Gouvernement flamand peut préciser les conditions pour la demande et la communication des données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-26/21, art. 108, 009; En vigueur : 20-08-2026&gt;
+
+##### Art. 30
+
+Le Gouvernement flamand peut, dans le cadre des organisations communes des marchés, à l'égard des acteurs qui sont actifs dans les secteurs visés à l'article 3, § 1er, fixer les conditions :
+
+1° auxquelles les agréments d'associations ou de groupements de ces acteurs sont obtenus, modifiés, conservés, prolongés, limités, étendus, suspendus ou retirés;
+
+2° auxquelles les formes de collaboration et les accords interprofessionnels sont conclus;
+
+3° auxquelles les acteurs doivent satisfaire dans le cadre de leur affiliation à des formes de collaboration, à des associations ou à des groupements déterminés;
+
+4° pour l'exercice de la mission des associations, groupements ou partenariats, également dans le cadre d'une intervention, et pour l'affiliation à ces associations, groupements ou partenariats;
+
+5° pour les actions ou dépenses qu'ils effectuent ou que les associations, groupements ou partenariats effectuent;
+
+6° pour l'octroi de subventions, de primes ou d'autres mesures de soutien, éventuellement sous la forme d'avances.
+
+### Section 10. - Le Fonds flamand pour l'Agriculture et la Pêche
+
+##### Art. 31
+
+A l'article 2 du décret du 19 mai 2006 relatif à la fondation et au fonctionnement du Fonds pour l'Agriculture et la Pêche, le point 6° est remplacé par ce qui suit :
+
+" 6° Fonds flamand pour l'Agriculture : Fonds flamand pour l'Agriculture et la Pêche; ".
+
+##### Art. 32
+
+A l'article 3 du même décret, les modifications suivantes sont apportées :
+
+1° au paragraphe 1er, les termes " il est créé un Fonds pour l'Agriculture et la Pêche, dénommé ci-après "le Fonds" " sont remplacés par les termes " il est créé un Fonds flamand pour l'Agriculture. ";
+
+2° les paragraphes 2 et 3 sont abrogés.
+
+##### Art. 33
+
+L'article 4 du même décret, modifié par le décret du 3 avril 2009, est remplacé par ce qui suit :
+
+" Art. 4. Le Fonds flamand pour l'Agriculture peut affecter ses moyens au préfinancement ou au financement :
+
+1° des dépenses en vue de l'exécution du décret du 28 juin 2013 relatif à la politique en matière d'agriculture et de pêche et de ses arrêtés d'exécution;
+
+2° des frais qui sont liés à des missions, programmes ou projets exécutés pour le compte du Fonds flamand pour l'Agriculture;
+
+3° les dépenses du et pour le rassemblement de données et la formulation d'avis dans le cadre de la politique commune en matière d'agriculture et de pêche;
+
+4° des dépenses du domaine de politique de l'Agriculture et de la Pêche en exécution de la politique de développement rural;
+
+5° des dépenses du domaine de politique de l'Agriculture et de la Pêche afin d'indemniser un dommage, notamment en vue d'amortir les frais de destruction, d'enlèvement du commerce, du traitement ou de la transformation ou de changement d'affectation, autre que l'affectation normale, des produits provenant de l'agriculture et de la pêche ou de matières premières visés à l'article 2, 3°, du décret du 28 juin 2013 relatif à la politique en matière d'agriculture et de pêche et, le cas échéant pour l'amortissement de toute perte de revenu y associée, à condition que :
+
+a) le dommage découle d'une décision de l'Union européenne, de l'autorité fédérale ou flamande, sans que le dommage n'ait été provoqué par la partie lésée;
+
+b) le dommage ne découle pas de programmes de lutte relatifs à la santé des animaux ou des végétaux;
+
+6° des dépenses en vue du dédommagement de la perte économique visée à l'article 14 du décret du 3 avril 2009 portant l'organisation de la coexistence de cultures génétiquement modifiées et de cultures conventionnelles et biologiques et dans ses arrêtés d'exécution. "
+
+##### Art. 34
+
+L'article 5 du même décret est remplacé par ce qui suit :
+
+" Art. 5. Les moyens du Fonds flamand pour l'Agriculture se composent :
+
+1° des cotisations obligatoires, imposées en application de l'alinéa deux et de l'article 8, § 1er, à charge de personnes physiques et de personnes morales qui exécutent des activités dans les secteurs visés à l'article 3 du décret du 28 juin 2013 relatif à la politique en matière d'agriculture et de pêche;
+
+2° des indemnités, rétributions, droits, taxes, retenues et majorations visés à l'article 4, 5°, du décret du 28 juin 2013 relatif à la politique en matière d'agriculture et de pêche;
+
+3° des cotisations et amendes, imposées dans le cadre du décret du 3 avril 2009 portant l'organisation de la coexistence de cultures génétiquement modifiées et de cultures conventionnelles et biologiques;
+
+4° des amendes administratives et exclusivement administratives, imposées en exécution du décret relatif à la politique en matière d'agriculture et de pêche;
+
+5° des paiements des frais d'expertise et des montants qui correspondent à l'avantage économique, devant être payés en exécution du décret relatif à la politique en matière d'agriculture et de pêche;
+
+6° des cotisations volontaires, de même que des recettes exceptionnelles;
+
+7° des recettes provenant de services fournis à des tiers, y compris des organismes publics;
+
+8° des recettes provenant de la participation de l'Union européenne aux dépenses du Fonds flamand pour l'agriculture;
+
+9° des remboursements des subventions ou avances et des intérêts reçus liés à des dépenses du Fonds flamand pour l'agriculture;
+
+10° de l'aide de l'Union européenne en vue de l'exécution du règlement de contrôle en vigueur dans le cadre de la politique commune en matière de pêche;
+
+11° des cotisations obligatoires imposées aux entreprises ou aux personnes qui, eu égard à la nature de leurs activités, peuvent causer des dégâts à des végétaux ou animaux et à des produits végétaux ou animaux ou à des produits provenant de la pêche;
+
+12° d'autres moyens qui lui ont été attribués par décret;
+
+13° en cas de retard de paiement, des intérêts sur les montants visés au point 1° à 12° inclus.
+
+Les cotisations obligatoires, rétributions, droits et indemnités visés à l'alinéa premier, 1° et 2°, peuvent être imposés sur des végétaux ou produits végétaux, des animaux ou produits animaux ou des produits provenant de la pêche qui sont produits, récoltés, débarqués, négociés, transportés, traités ou transformés. Ils peuvent également être imposés aux entreprises qui produisent, commercialisent, transportent, traitent ou transforment des végétaux ou produits végétaux, des animaux ou des produits animaux ou des produits provenant de la pêche. "
+
+##### Art. 35
+
+L'article 6 du même décret est remplacé par ce qui suit :
+
+" Art. 6. Le Gouvernement flamand fixe :
+
+1° le contenu du règlement particulier relatif à la gestion du Fonds flamand pour l'Agriculture;
+
+2° la personne ou l'instance chargée de la gestion du Fonds flamand pour l'Agriculture et les compétences de cette personne ou instance;
+
+3° les compétences de l'agent comptable qui perçoit les montants visés à l'article 5. ".
+
+##### Art. 36
+
+L'article 7 du même décret est remplacé par ce qui suit :
+
+" Art. 7. § 1er. Un conseil est créé au sein du Fonds flamand pour l'Agriculture.
+
+Le Gouvernement flamand détermine l'organisation, la composition et le fonctionnement de ce conseil.
+
+§ 2. Lors de la fixation des recettes et des dépenses, il est tenu compte de l'avis du conseil et d'une répartition proportionnelle entre les secteurs et sous-secteurs.
+
+Le conseil formule un avis concernant :
+
+1° le programme des dépenses du Fonds flamand pour l'Agriculture qui est établi par le ministre;
+
+2° toutes les questions dont l'examen est ordonné au conseil par le ministre.
+
+Le conseil peut présenter toute proposition au ministre concernant le champ d'application du Fonds flamand pour l'Agriculture.
+
+§ 3. Le conseil ne formule aucun avis concernant les moyens qui sont reçus et les dépenses qui sont faites en exécution du décret du 3 avril 2009 portant l'organisation de la coexistence de cultures génétiquement modifiées et de cultures conventionnelles et biologiques. ".
+
+##### Art. 37
+
+L'article 8 du même décret, modifié par le décret du 19 décembre 2008, est remplacé par ce qui suit :
+
+" Art. 8. Le Gouvernement flamand arrête, après avis du conseil, le montant :
+
+1° des cotisations obligatoires, visées à l'article 5, alinéa premier, 1° et 11°, ainsi que les modalités de leur perception;
+
+2° des indemnités, rétributions, droits, taxes, retenues et majorations visés à l'article 5, alinéa premier, 2°, ainsi que les modalités de leur perception.
+
+L'arrêté relatif aux cotisations obligatoires visées à l'alinéa premier, 1°, est abrogé de plein droit avec effet rétroactif jusqu'à la date de son entrée en vigueur s'il n'est pas présenté pour ratification au Parlement flamand dans le mois suivant l'approbation par le Gouvernement flamand. L'arrêté sera ratifié par décret dans les six mois suivant son approbation. Ces périodes seront suspendues pendant les congés parlementaires et en cas de dissolution du parlement. ".
+
+##### Art. 38
+
+L'article 10 du même décret est remplacé par ce qui suit :
+
+" Art. 10. Lorsque les cotisations et rétributions obligatoires visées à l'article 5, alinéa premier, 1°, 2° et 11°, restent impayées après la date limite qui a été fixée suivant la procédure de paiement, il est d'abord envoyé une sommation écrite par lettre recommandée.
+
+A partir de la date de l'envoi de la sommation, l'autorité peut décider qu'aucun contrôle ne sera plus effectué et qu'aucune prestation administrative ne sera plus livrée tant que les montants dus n'auront pas été réglés. En cas de non-paiement dans les trente jours calendrier suivant la date de paiement limite, la personne ou l'entreprise en question sera mise en demeure par lettre recommandée, même si la cotisation fait l'objet d'un litige devant les tribunaux. A compter de la date de cette mise en demeure, le montant dû sera majoré de l'intérêt légal.
+
+La mise en demeure comprend le texte suivant :
+
+" Après la mise en demeure, les agréments, autorisations ou licences peuvent être suspendus par lettre recommandée à partir du trentième jour ouvrable suivant le jour de la notification de la mise en demeure lorsqu'aucun paiement n'a été reçu à ce jour. Cette mesure prend fin de plein droit le premier jour ouvrable suivant le jour où les cotisations ou rétributions obligatoires dues sont effectivement créditées sur le compte du Fonds flamand pour l'Agriculture. "
+
+### Section 11. - Promotion de la production animale
+
+##### Art. 39
+
+Le Gouvernement flamand peut encourager la production animale en accordant un soutien aux associations et organisations pour l'exécution de projets qui s'inscrivent dans la politique pour une production animale durable.
+
+##### Art. 40
+
+Le Gouvernement flamand peut organiser l'élevage :
+
+1° en fixant les conditions pour les tâches d'élevage suivantes :
+
+a) l'établissement de livres généalogiques et leur actualisation;
+
+b) l'établissement de registres et leur actualisation;
+
+c) la reprise d'animaux reproducteurs dans un livre généalogique ou un registre;
+
+d) l'autorisation d'animaux reproducteurs à la reproduction;
+
+e) l'exécution de l'examen des prestations des animaux reproducteurs, qui sont mesurables, héréditaires et pertinentes d'un point de vue économique, écologique ou social pour l'estimation de la valeur d'élevage des animaux reproducteurs, à savoir les examens des prestations et le calcul et l'évaluation de la valeur d'élevage;
+
+f) l'établissement et la délivrance de certificats;
+
+g) la conservation de la diversité génétique;
+
+2° en agréant des associations et organisations d'éleveurs, entre autres pour l'exécution des tâches d'élevage visées au point 1°, et en fixant les conditions d'agrément;
+
+3° en agréant des entreprises, entre autres pour l'exécution de la tâche d'élevage visée au point 1°, et en fixant les conditions d'agrément;
+
+4° en agréant des associations pour la coordination de l'élevage;
+
+5° en agréant des associations et organisations d'éleveurs pour l'organisation d'une gestion simplifiée;
+
+6° dans les limites de la zootechnique, en agréant des centres de politique pour la récolte ou le stockage de sperme, d'ovules ou d'embryons et en fixant les conditions zootechniques à ce propos, en vue de leur commercialisation sous la forme d'une vente, d'une détention en vue d'une vente, d'une offre en vue d'une vente et de toute mise à disposition, de toute livraison ou de tout transfert à des tiers, contre rémunération ou non, en vue de l'utilisation et en vue de l'établissement et de la délivrance de certificats joints au sperme, aux ovules et aux embryons vendus;
+
+7° en attribuant des missions à des associations, organisations et entreprises;
+
+8° en fixant les conditions d'application à la participation à des concours pour équidés;
+
+9° en réglementant l'insémination artificielle sur le plan zootechnique et en la soumettant à un agrément;
+
+10° en accordant des subventions pour le but visé dans la présente section dans les limites des crédits budgétaires et en fixant les conditions auxquelles les associations et organisations agréées d'éleveurs doivent satisfaire pour obtenir les subventions;
+
+11° en affectant maximum 20 % des prix ou gains provenant de concours avec des équidés au maintien, au développement et à l'amélioration de l'élevage d'équidés ainsi qu'à l'accueil de vieux chevaux et de chevaux négligés.
+
+##### Art. 41
+
+En vue du soutien de sa politique, le Gouvernement flamand peut acquérir des bâtiments et des terres et les mettre à la disposition des associations et organisations d'éleveurs pour l'exécution des activités pour lesquelles elles ont été agréées. Il peut, dans les limites de ses crédits budgétaires, ordonner le réaménagement des bâtiments et terres concernés.
+
+##### Art. 42
+
+En cas de suppression de son agrément, l'association ou l'organisation doit transmettre toutes ses données en matière de technique d'élevage. Le Gouvernement flamand peut fixer les modalités relatives au transfert de données.
+
+## CHAPITRE 3. - Dispositions en termes de contrôle et de sanctions
+
+### Section 1re. - Dispositions générales en termes de sanctions
+
+#### Sous-section 1re. - Surveillance
+
+##### Art. 43
+
+La présente sous-section s'applique également aux autres sections du chapitre 3 et au décret du 19 mai 2006 relatif à la fondation et au fonctionnement du Fonds pour l'Agriculture et la Pêche, à moins que les dispositions des autres sections du chapitre 3 et du décret du 19 mai 2006 n'y dérogent, auquel cas les dispositions susvisées prévaudront sur la présente section.
+
+##### Art. 44
+
+[<sup>2</sup> Sans préjudice des compétences des officiers de police judiciaire et de l'application de la section 2, les membres du personnel de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, contrôlent le présent décret, ses arrêtés d'exécution, la politique agricole commune européenne, la politique commune européenne de la pêche, et les autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles]<sup>2</sup>.
+
+En exécution de l'alinéa premier, le Gouvernement flamand peut fixer plus en détail la mission spécifique de surveillance des différents surveillants.
+
+Les résultats de contrôles exécutés dans le cadre de la mission de surveillance peuvent être communiqués, dans [<sup>2</sup> l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023 ]<sup>2</sup>, aux organes de contrôle visés à l'article 45 et à des tiers. Le Gouvernement flamand peut fixer des modalités détaillées à ce propos.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 103, 002; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 24, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 44/1
+
+[<sup>1</sup> Dans le cadre d'une enquête effectuée par l'Office européen de lutte antifraude institué par la décision de la Commission européenne du 28 avril 1999, instituant l'Office européen de lutte antifraude (OLAF), les membres du personnel statutaires et contractuels que désigne le Gouvernement flamand peuvent prêter leur concours aux surveillants de l'OLAF. Dans le cadre de leurs enquêtes, les surveillants de l'OLAF peuvent appliquer les possibilités de surveillance visées aux articles 43 à 54 et aux articles 64 et 65.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/31, art. 128, 005; En vigueur : 29-06-2019&gt;
+
+##### Art. 45
+
+Le Gouvernement flamand peut confier la mission de surveillance pour des affaires qu'il détermine à un ou à plusieurs organes de contrôle.
+
+Le Gouvernement flamand peut régler les modalités de l'agrément des organes de contrôle et de la surveillance de ces organes de contrôle et fixer les missions des organes de contrôle.
+
+Les résultats de contrôles exécutés dans le cadre de la mission de surveillance peuvent être communiqués à des entités [<sup>1</sup> l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023 ]<sup>1</sup>, aux organes de contrôle et à des tiers. Le Gouvernement flamand peut fixer des modalités détaillées à ce propos.
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 25, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 45/1
+
+[<sup>1</sup> En application de l'article 23, paragraphe 1, e) et h), du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), le contrôleur compétent ou l'organe de contrôle compétent, visés au présent chapitre 3 peut décider de ne pas appliquer les obligations et droits énoncés aux articles 12 à 22 dudit règlement au traitement des données à caractère personnel dans le cadre d'une enquête qui concerne une personne physique déterminée, si les conditions énoncées aux alinéas 2 à 10 sont remplies.
+
+La possibilité de dérogation visée à l'alinéa premier ne s'applique que pendant la période au cours de laquelle l'intéressé fait l'objet d'un contrôle, d'une enquête ou des activités préparatoires y afférentes, dans le cadre des missions décrétales et réglementaires du contrôleur compétent ou de l'organe de contrôle compétent, visés au présent chapitre 3, à condition qu'il soit ou puisse être nécessaire pour le bon déroulement de l'enquête que les obligations et droits visés aux articles 12 à 22 dudit règlement ne soient pas appliqués. La durée des activités préparatoires ne peut, le cas échéant, dépasser un an à compter de la date de réception d'une demande d'exercice d'un des droits visés aux articles 12 à 22 dudit règlement.
+
+Les données à caractère personnel visées à l'alinéa 1er ne seront pas conservées plus longtemps que les finalités pour lesquelles elles sont traitées le requièrent.
+
+La possibilité de dérogation visée à l'alinéa premier ne s'applique pas aux données qui ne sont pas liées à l'objet de l'enquête ou du contrôle justifiant le refus ou la restriction des droits, visés à l'alinéa premier.
+
+Si, dans le cas visé à l'alinéa premier, l'intéressé soumet une demande sur la base des articles 12 à 22 dudit règlement au cours de la période visée au deuxième alinéa, le fonctionnaire à la protection des données compétent en accuse réception.
+
+Le fonctionnaire à la protection des données compétent informe l'intéressé par écrit de tout refus ou restriction des droits, visés à l'alinéa premier, dans les meilleurs délais et en tout état de cause dans un délai d'un mois à compter du jour suivant celui de la réception de la demande. Il n'est pas nécessaire de fournir des informations complémentaires sur les motifs détaillés d'un tel refus ou d'une telle restriction lorsque cela porterait atteinte aux missions décrétales et réglementaires du contrôleur compétent ou de l'organe de contrôle compétent, visés au présent chapitre 3, sans préjudice de l'application de l'alinéa 8. Si nécessaire, le délai précité peut être prolongé de deux mois, compte tenu du nombre de demandes et de leur complexité. Le responsable du traitement informe l'intéressé de cette prolongation et des raisons du report dans un délai d'un mois à compter du jour suivant celui où il a reçu la demande.
+
+Le fonctionnaire à la protection des données compétent informe également l'intéressé sur la possibilité d'introduire une demande auprès de la commission de contrôle flamande pour le traitement des données à caractère personnel conformément à l'article 10/5 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, et de former un recours en justice.
+
+Le fonctionnaire à la protection des données compétent consigne les motifs factuels ou juridiques sur lesquels la décision est fondée. Il tient ces informations à la disposition de la commission de contrôle flamande précitée.
+
+Une fois l'enquête terminée, les droits énoncés aux articles 13 à 22 du règlement précité sont, le cas échéant, appliqués à nouveau conformément à l'article 12 du règlement précité.
+
+Si un dossier contenant des données à caractère personnel visées à l'alinéa premier a été transmis au Ministère public et peut conduire à des activités sous la direction du Ministère public ou d'un juge d'instruction, et qu'il existe une incertitude quant au secret de l'enquête sous la direction du Ministère public ou d'un juge d'instruction, le fonctionnaire à la protection des données compétent ne peut répondre à la demande de l'intéressé conformément aux articles 12 à 22 du règlement précité qu'après que le Ministère public ou, le cas échéant, le juge d'instruction, a confirmé qu'une réponse ne compromet pas ou n'est pas susceptible de compromettre l'enquête.]<sup>1</sup>
+
+----------
+
+(1)&lt;AGF 2019-07-19/22, art. 26, 006; En vigueur : 12-09-2019&gt;
+
+##### Art. 46
+
+Dans l'exercice de leur mission, les surveillants ont libre accès à tout moment à tout endroit. Les surveillants ne peuvent procéder à la visite des lieux non accessibles au public avant cinq heures du matin et après neuf heures du soir, si ce n'est en vertu d'une autorisation du juge au tribunal de police.
+
+Les surveillants n'ont accès à des locaux servant d'habitation qu'après autorisation écrite préalable de l'habitant ou après autorisation écrite préalable du juge au tribunal de police. Dans ce dernier cas, ils peuvent uniquement accéder aux locaux servant d'habitation entre cinq heures du matin et neuf heures du soir.
+
+##### Art. 47
+
+Les surveillants peuvent demander de consulter les documents pertinents et autres supports d'information pertinents. A cet effet, ils peuvent demander que les supports d'information leur soient présentés à l'endroit qu'ils désignent.
+
+Ils peuvent se faire remettre gratuitement une copie des documents et autres supports d'informations ou en réaliser eux-mêmes une copie. S'ils ne peuvent pas réaliser des copies sur place, ils peuvent emporter les supports d'information à cet effet pour une courte durée.
+
+S'ils conservent ou emportent des documents ou autres supports d'information pendant quelque temps en vue de les consulter ou d'en réaliser une copie, ils doivent fournir une preuve écrite accompagnée d'un inventaire des supports d'informations en question.
+
+##### Art. 48
+
+Les surveillants peuvent dresser des constats à l'aide de moyens audiovisuels.
+
+##### Art. 49
+
+§ 1er. Les surveillants peuvent examiner ou faire examiner des choses, sans préjudice de l'application de l'article 5, § 2, par un laboratoire [<sup>2</sup> désigné ou ]<sup>2</sup> agréé à cet effet. Ils peuvent entre autres tester ou faire tester des choses, en prélever ou en faire prélever des échantillons, les mesurer [<sup>1</sup> à l'aide de moyens techniques]<sup>1</sup> ou les faire mesurer. A cet effet, ils peuvent ouvrir ou faire ouvrir des emballages.
+
+Si l'examen ne peut pas avoir lieu sur place, ils peuvent :
+
+1° emporter les choses à cette fin contre une preuve écrite qu'ils doivent remettre;
+
+2° exiger, gratuitement du détenteur de ces choses, les emballages qui sont nécessaires pour le transport et la conservation des choses à examiner.
+
+La partie contrôlée peut, dans le cadre de cet examen, exiger le prélèvement et l'examen d'un contre-échantillon. Les conditions et la procédure à cet effet pourront être fixées par le Gouvernement flamand.
+
+§ 2. Les surveillants peuvent exiger, gratuitement du détenteur des choses à examiner, les moyens techniques et le personnel nécessaires afin d'exécuter l'expérimentation, le prélèvement d'échantillons ou le mesurage.
+
+§ 3. Le Gouvernement flamand fixe les modalités détaillées pour l'exécution des examens et des analyses correspondantes.
+
+[<sup>1</sup> Le Gouvernement flamand peut arrêter les prescriptions techniques auxquelles les moyens techniques visés au paragraphe 1er, alinéa 1er, doivent répondre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 104, 002; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 26, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 49/1
+
+[<sup>1</sup> Le surveillant a les droits suivants :
+
+1° contrôler et vérifier la nature et l'étendue des biens ou des activités exercées, y compris les systèmes et méthodes de production, d'emballage et d'expédition ;
+
+2° contrôler et vérifier l'état d'avancement des travaux et investissements financés, ainsi que l'utilisation et la destination des investissements réalisés ;
+
+3° contrôler et vérifier l'exécution financière et technique des projets subventionnés.
+
+Le surveillant est autorisé à ouvrir des emballages lors de l'exercice des droits visés à l'alinéa 1er ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 27, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 50
+
+Les surveillants peuvent examiner ou faire examiner les moyens de transport et leur chargement et peuvent, à cet effet, exiger la consultation des documents prescrits légalement.
+
+En vue de l'exercice des examens, ils peuvent exiger de l'administrateur et des accompagnants de moyens de transport qu'ils arrêtent, sur-le-champ et gratuitement, leur moyen de transport et qu'ils l'acheminent vers l'endroit désigné.
+
+##### Art. 51
+
+Dans l'exécution de leur mission de surveillance, les surveillants peuvent requérir l'aide de la police.
+
+##### Art. 52
+
+Dans l'exercice de leurs droits de surveillance, les surveillants peuvent se faire assister par des personnes qu'ils ont désignées à cet effet sur la base de leur expertise.
+
+##### Art. 53
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+En cas de constatation d'infractions qui donnent lieu à une sanction plus lourde qu'un avertissement, le surveillant dresse un procès-verbal.
+
+[<sup>1</sup> Les procès-verbaux dressés par les surveillants revêtent une valeur probante jusqu'à preuve du contraire Le surveillant en envoie une copie par recommandé dans le délai de vingt jours suivant la date de verbalisation à la ou aux personnes à charge desquelles le procès-verbal a été dressé, pour autant que l'identité du contrevenant soit connue. Si une enquête approfondie s'impose également pour découvrir l'identité du contrevenant et son lieu de résidence, une copie du procès-verbal est envoyée à cette personne dans le délai de vingt jours à compter de la date à laquelle l'identité du contrevenant et son lieu de résidence sont connus.]<sup>1</sup>
+
+Si les délais visés à l'alinéa [<sup>2</sup> 2]<sup>2</sup> ne sont pas respectés, le procès-verbal perd sa valeur particulière de preuve jusqu'à preuve du contraire.
+
+[<sup>3</sup> Le paiement de l'aide peut être suspendu pendant l'examen du respect du présent décret, de ses arrêtés d'exécution, de la politique agricole commune européenne, de la politique commune européenne de la pêche et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles.]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 105, 002; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2019-04-26/31, art. 129, 005; En vigueur : 29-06-2019&gt;
+
+(3)&lt;DCFL 2024-03-29/37, art. 28, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 54
+
+[<sup>1</sup> Les surveillants peuvent saisir conservatoirement, par mesure administrative, les produits, matières premières et moyens de production résultant des activités visées à l'article 3, § 1er, ou utilisés pour ces activités, dont ils soupçonnent que l'utilisation ou la production ne satisfait pas aux dispositions du présent décret, de ses arrêtés d'exécution et des dispositions [<sup>2</sup> de la politique agricole commune européenne, de la politique commune européenne de la pêche et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles, ]<sup>2</sup>, lorsque cela est nécessaire à l'information, à l'enquête ou à l'établissement de la preuve des infractions ou lorsqu'il existe un danger qu'avec ces choses, les infractions persistent ou que de nouvelles infractions soient commises.
+
+La durée de la saisie conservatoire ne peut pas excéder trente jours, à moins qu'une période plus longue ne soit nécessaire pour analyser l'échantillon. Les surveillants remettent au saisi une copie de la preuve écrite de la saisie accompagnée d'un inventaire des biens saisis. La saisie conservatoire est levée par décision de la personne qui l'a pratiquée, par l'expiration du délai ou par la saisie visée à l'article 62.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/31, art. 130, 005; En vigueur : 29-06-2019&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 29, 007; En vigueur : 01-04-2024&gt;
+
+#### Sous-section 2. - Maintien
+
+##### Art. 55
+
+[<sup>2</sup> Si une infraction au présent décret, à ses arrêtés d'exécution, à la politique agricole commune européenne et à la politique européenne commune de la pêche, et aux autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles, est constatée, le chef de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, et les membres du personnel désignés par le chef, peuvent adresser un avertissement au contrevenant et le sommer de mettre un terme à l'infraction]<sup>2</sup>.
+
+L'original de l'avertissement est envoyé au contrevenant dans les quinze jours suivant la constatation de l'infraction.
+
+L'avertissement mentionne :
+
+1° les faits mis à charge et les dispositions légales enfreintes;
+
+2° le cas échéant, le délai durant lequel il doit être mis fin à l'infraction;
+
+3° que, si aucune suite n'est donnée à l'avertissement, un procès-verbal sera dressé et qu'une amende administrative exclusive, telle que visée à l'article 56, pourra être imposée.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 103, 002; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 30, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 55/1
+
+[<sup>1</sup> § 1er. Une infraction peut être punie d'une sanction administrative et d'une amende administrative exclusive conformément aux dispositions du présent décret. La sanction administrative et l'amende administrative exclusive peuvent être imposées à la personne qui a commis, ordonné ou collaboré à l'infraction.
+
+§ 2. Une sanction administrative et une amende administrative exclusive peuvent être imposées à une personne morale pour les infractions suivantes :
+
+1° des infractions qui sont intrinsèquement liées à la réalisation de son objectif ou à la considération de ses intérêts ;
+
+2° des infractions qui, comme le montrent les circonstances concrètes, ont été commises pour son compte.
+
+L'imposition d'une sanction administrative et d'une amende administrative exclusive à des personnes morales n'exclut pas l'imposition d'une sanction administrative et d'une amende administrative exclusive à des personnes physiques pour les mêmes faits.
+
+Sont assimilées aux personnes morales telles que visées aux alinéas 1er et 2 :
+
+1° les sociétés ;
+
+2° les personnes morales en cours de constitution.
+
+§ 3. La personne morale est civilement responsable des sanctions administratives et des amendes administratives exclusives imposées aux membres de leurs organes et aux personnes dont elles sont responsables, conformément à l'article 1384 du Code civil. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 31, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 56
+
+§ 1er. Peuvent faire l'objet d'une amende administrative exclusive de minimum 25 euros et de maximum 1.000 euros :
+
+1° [<sup>1</sup> les infractions aux obligations administratives découlant du présent décret, de ses arrêtés d'exécution, de la politique agricole commune européenne [<sup>2</sup> , de la politique commune européenne de la pêche et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles]<sup>2</sup>; ]<sup>1</sup>
+
+2° l'introduction impropre de demandes de soutien;
+
+3° la fourniture d'informations erronées ou incomplètes, sans l'intention d'obtenir ou de conserver indûment une indemnité ou un soutien, qui est à charge, entièrement ou en partie, de l'autorité flamande, de l'Union européenne ou d'une autre institution internationale.
+
+§ 2. Les personnes qui, dans un délai de trente jours à compter de la mise en demeure, ne paient pas les cotisations et rétributions obligatoires, imposées en exécution du présent décret, de ses arrêtés d'exécution, et du décret du 19 mai 2006 relatif à la fondation et au fonctionnement du Fonds pour l'agriculture et la pêche et de ses arrêtés d'exécution, pourront faire l'objet d'une amende administrative exclusive de minimum 100 euros et de maximum 5.000 euros.
+
+§ 3. Peuvent faire l'objet d'une amende administrative exclusive de minimum 100 euros et de maximum [<sup>1</sup> 250.000 euros]<sup>1</sup> :
+
+1° [<sup>2</sup> , à la politique agricole commune européenne, à la politique commune européenne de la pêche, et aux autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles]<sup>2</sup>;
+
+2° le fait d'empêcher ou de ne pas collaborer à un contrôle en exécution du présent décret, de ses arrêtés d'exécution ou de la politique agricole commune européenne [<sup>2</sup> ou de la politique agricole commune européenne " sont remplacés par le membre de phrase " , de la politique agricole commune européenne, de la politique commune européenne de la pêche et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles]<sup>2</sup>;
+
+3° [<sup>2</sup> 3° le fait de déposer délibérément de fausses déclarations ou des déclarations incomplètes afin d'obtenir ou de conserver une indemnité, une aide, un agrément, une autorisation ou un certificat, accordés en exécution du présent décret, de ses arrêtés d'exécution, de la politique agricole commune européenne, de la politique commune européenne de la pêche et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles ;
+
+4° le fait de prétexter une situation déterminée en vue d'obtenir ou de conserver une indemnité, une aide, un agrément, une autorisation ou un certificat, accordés en exécution du présent décret, de ses arrêtés d'exécution, de la politique agricole commune européenne, de la politique commune européenne de la pêche et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles ]<sup>2</sup>;
+
+§ 4. En cas de concours d'infractions, [<sup>2</sup> , visées aux paragraphes 1er à 3 ]<sup>2</sup> les montants des amendes administratives exclusives seront additionnés, sans qu'ils puissent toutefois excéder conjointement le double du montant maximum visé au paragraphe trois.
+
+En cas de récidive dans les trois ans suivant l'imposition d'une amende administrative exclusive pour une des infractions visées aux paragraphes précédents, l'amende administrative exclusive pourra être doublée.
+
+§ 5. Si une infraction a trait au soutien accordé en exécution du présent décret, de ses arrêtés d'exécution [<sup>2</sup> de la politique agricole commune européenne ou de la politique commune européenne de la pêche, et des autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles]<sup>2</sup>, un refus ou une diminution du soutien pourront être imposés, et ce, en sus des sanctions visées aux paragraphes précédent.
+
+Si une infraction grave à indiquer par le Gouvernement flamand a trait au soutien accordé en exécution du présent décret, de ses arrêtés d'exécution ou de la politique agricole commune européenne, une exclusion de soutien pourra être imposée pour une durée de maximum cinq ans, et ce, en sus des sanctions visées aux paragraphes précédents.
+
+§ 6. Les amendes administratives exclusives visées dans le présent article peuvent être majorées d'un montant qui correspond à l'avantage économique qui découle du fait que l'infraction a été commise. En outre, les frais d'expertise pourront également être mis à charge du contrevenant.
+
+Les amendes administratives exclusives n'entravent aucunement la possibilité de non-paiement du soutien octroyé ou de réclamation du soutien payé, de retrait de l'agrément éventuel et du remboursement des frais pour l'examen.
+
+----------
+
+(1)&lt;DCFL 2019-04-26/31, art. 131, 005; En vigueur : 29-06-2019&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 32, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 57
+
+[<sup>1</sup> . Le chef de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, et les membres du personnel désignés par le chef, imposent l'amende administrative exclusive visée à l'article 56, et la recouvrent. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 33, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 58
+
+§ 1er. Après réception du procès-verbal visé à l'article 53, [<sup>2</sup> le chef de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, et les membres du personnel désignés par le chef ]<sup>2</sup> informent, dans un délai de soixante jours, le contrevenant présumé de l'intention d'imposer une amende administrative exclusive.
+
+Le contrevenant présumé peut, dans un délai de trente jours suivant la notification de cet avis, communiquer sa défense par écrit. Si le contrevenant présumé souhaite expliquer verbalement sa défense écrite, il doit en adresser expressément la demande dans la défense écrite.
+
+§ 2. Dans un délai de nonante jours à compter de la notification de l'intention d'imposer une amende administrative exclusive et après avoir, le cas échéant, entendu le contrevenant présumé, [<sup>2</sup> le chef de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, et les membres du personnel désignés par le chef ]<sup>2</sup> décident de l'imposition des amendes administratives exclusives visées à l'article 56.
+
+La décision visée à l'alinéa premier fixe le montant de l'amende administrative exclusive.
+
+Le contrevenant est informé immédiatement de cette décision.
+
+§ 3. Le Gouvernement flamande peut développer plus en détail la procédure pour l'imposition de l'amende administrative exclusive.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 103, 002; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 34, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 58/1
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Le chef de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, et les membres du personnel désignés par le chef peuvent]<sup>2</sup>peut décider que la décision d'infliger une amende administrative exclusive telle que visée à l'article 56 ne sera pas ou que partiellement mise en oeuvre si, durant la période de cinq ans précédant la nouvelle infraction :
+
+1° [<sup>2</sup> aucune amende administrative exclusive telle que visée à l`article 56 n'a été infligée au contrevenant pour des faits comparables. ]<sup>2</sup>;
+
+2° le contrevenant n'a pas été condamné à une amende pénale de 50 à 500 euros, de 100 à 1000 euros, de 600 à 6000 euros ou à un emprisonnement de six mois à trois ans.
+
+Une sanction pénale ou une amende administrative exclusive prononcée ou infligée antérieurement pour des faits découlant de la même intention délictueuse ne fait pas obstacle à l'octroi du sursis.
+
+§ 2.[<sup>2</sup> Le chef de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, et les membres du personnel désignés par le chef accordent]<sup>2</sup> accorde le sursis par la même décision que celle par laquelle il inflige l'amende administrative exclusive.
+
+§ 3. La période de référence ne peut pas être inférieure à un an et ne peut pas excéder trois ans à partir de la date de la notification de la décision d'infliger l'amende administrative exclusive.
+
+§ 4. Le sursis est révoqué de plus droit si, durant la période de référence, une nouvelle infraction est commise, qui donne lieu à une amende administrative exclusive supérieure à celle pour laquelle le sursis a été accordé.
+
+§ 5. Le sursis peut être est révoqué si, durant la période de référence, une nouvelle infraction est commise, qui donne lieu à une amende administrative exclusive identique ou inférieure à celle pour laquelle le sursis a été accordé.
+
+§ 6. Le sursis est révoqué par la même décision que celle par laquelle l'amende administrative exclusive est infligée pour la nouvelle infraction commise durant la période de référence.
+
+La révocation du sursis dans la décision est mentionnée tant lorsque la révocation a lieu de plein droit que lorsque l'administration compétente évalue la révocation.
+
+§ 7. L'amende administrative exclusive qui devient exécutoire par suite de la révocation du sursis est jointe sans restriction à l'amende administrative exclusive infligée du chef de la nouvelle infraction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-26/31, art. 132, 005; En vigueur : 29-06-2019&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 35, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 59
+
+[<sup>1</sup> La personne à laquelle une amende administrative exclusive, telle que visée à l'article 56, a été infligée peut, à peine de déchéance, former un recours, dans le délai de soixante jours à compter de la notification de la décision, devant le Conseil d'Etat, qui statue avec compétence de pleine juridiction. Ce recours suspend la décisio]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/31, art. 133, 005; En vigueur : 29-06-2019&gt;
+
+##### Art. 60
+
+La compétence d'imposition d'une amende administrative exclusive échoit cinq ans après le fait donnant lieu à une infraction telle que visée dans le présent décret et trois ans après la constatation de l'infraction visée dans le présent décret.
+
+Le délai visé à l'alinéa premier est interrompu par la procédure visée à l'article 58 et par le recours visé à l'article 59. Avec ces faits commence un nouveau délai d'une durée identique, même pour des personnes qui n'y étaient pas impliquées.
+
+##### Art. 61
+
+Les amendes administratives exclusives visées à l'article 56 sont versées [<sup>1</sup> au "[<sup>2</sup> Fonds contrôle et maintien Décret Agriculture ]<sup>2</sup> "]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2018-07-06/20, art. 18, 004; En vigueur : 09-09-2018&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 36, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 62
+
+§ 1er. En cas d'infraction, les surveillants peuvent saisir les matières premières, les produits ainsi que les moyens de production.
+
+§ 2. Les produits ou matières premières saisis peuvent être :
+
+1° vendus ou offerts à une organisation caritative;
+
+2° restitués au propriétaire contre paiement d'une indemnité;
+
+3° dénaturés ou transformés et affectés à une autre utilisation, aux frais du contrevenant;
+
+4° détruits, aux frais du contrevenant.
+
+Le Gouvernement flamand peut fixer les conditions de la vente, de la restitution, de la dénaturation, de la transformation, de la réaffectation ou de la destruction.
+
+##### Art. 63
+
+En cas de restitution de produits ou de matières premières saisis, tels que visés à l'article 62, § 2, alinéa premier, 2°, l'indemnité reçue sera bloquée jusqu'à ce que l'amende administrative exclusive visée à l'article 56 ait été imposée. L'indemnité reçue tient lieu des produits ou matières premières saisis et sera calculée en fonction du montant à payer pour l'amende administrative exclusive.
+
+Sauf disposition expresse contraire, la présente sous-section s'applique également aux autres sections du chapitre 3.
+
+### Section 2. - Sanctions spéciales
+
+#### Sous-section 1re. - Maintien en matière de politique de la pêche en mer
+
+##### Art. 64
+
+§ 1er. En ce qui concerne la pêche en mer et sans préjudice des compétences des officiers de la police judiciaire, [<sup>2</sup> le chef de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, et les membres du personnel désignés par le chef ]<sup>2</sup>surveillent le respect du présent décret, de ses arrêtés d'exécution, de la politique européenne commune de la pêche et des [<sup>2</sup> autres actes européens et internationaux qui concrétisent la politique agricole et de la pêche maritime, visée à l'article 6, § 1er, V, de la loi spéciale du 8 août 1980 de réformes institutionnelles]<sup>2</sup>. Ils constatent les infractions dans des procès-verbaux qui ont valeur de preuve jusqu'à preuve du contraire.
+
+Les surveillants visés à l'alinéa premier ont, à cet effet, le droit de visiter en tout temps les bateaux de pêche, d'exiger la présentation de tous les documents de bord et de toutes les pièces justificatives, et également de se rendre dans tous les locaux et endroits à bord où des engins ou produits de pêche peuvent se trouver. Ils peuvent saisir tous les documents et pièces justificatives pour examen. Ils ont, dans l'exercice de leur mission, libre accès aux usines, entrepôts, débarras, bureaux, moyens de transport, bâtiments d'entreprise, criées, marchés, marchés au poisson et exploitations situées en plein air. Ils ne peuvent procéder à la visite des lieux servant d'habitation si ce n'est en vertu d'une autorisation du juge au tribunal de police.
+
+§ 2. Lorsqu'une infraction telle que visée au paragraphe 1er, alinéa premier, est constatée, [<sup>2</sup> le chef de l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023, et les membres du personnel désignés par le chef ]<sup>2</sup> peuvent adresser un avertissement au contrevenant et le sommer de mettre fin à l'infraction.
+
+L'original de l'avertissement est envoyé au contrevenant dans les quinze jours suivant la constatation de l'infraction.
+
+L'avertissement mentionne :
+
+1° les faits mis à charge et les dispositions légales enfreintes;
+
+2° le cas échéant, le délai dans lequel il doit être mis fin à l'infraction;
+
+3° que, si aucune suite n'est donnée à l'avertissement, un procès-verbal sera établi et envoyé au procureur du Roi.
+
+§ 3. [<sup>2</sup> Conformément à l'article 50, le surveillant visé au paragraphe 1er, alinéa 1er, peut diriger ou faire diriger un bateau de pêche vers un port belge aux frais et risques du propriétaire ou de l'exploitant et, dans la mesure du nécessaire, le mettre à la chaîne à la charge et aux risques du propriétaire ou de l'exploitan]<sup>2</sup>.
+
+§ 4. Lorsqu'il est procédé à la mise à la chaîne d'un bateau de pêche en exécution du présent décret, de ses arrêtés d'exécution et de la politique européenne commune de la pêche et des actes internationaux, le bateau de pêche est immédiatement libéré en échange du dépôt, par le propriétaire ou la personne agissant pour son compte, d'une caution ou d'une garantie bancaire qui correspond à un montant qui est fixé par l'agent verbalisant et qui ne peut pas être supérieur à l'amende maximale visée à l'article [<sup>2</sup> 56, § 3 ]<sup>2</sup>. La caution ou la garantie bancaire doit, contre récépissé, être remise à l'agent verbalisant qui la conserve selon les conditions et la procédure que peut déterminer le Gouvernement flamand.
+
+[<sup>2</sup> L'amende administrative exclusive, visée à l'article 56 ]<sup>2</sup>, de même que tous les autres frais, seront récupérés sur la caution. La partie résiduelle sera immédiatement remboursée. L'intérêt de la somme donnée en consignation sera ajouté à la caution.
+
+§ 5. Dans le cas de la mise à la chaîne d'un bateau de pêche étranger, l'état du pavillon est immédiatement notifié par l'intermédiaire de son représentant diplomatique des mesures prises et des éventuelles sanctions prononcées par la suite.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 103, 002; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 37, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 65
+
+§ 1er. Lorsqu'une infraction, telle que visée à l'article 64, § 1er, alinéa premier, est constatée, les surveillants visés à l'article 64, § 1er, alinéa premier, ont en outre le droit de procéder à la saisie immédiate des produits de la pêche, des engins de pêche et d'autres moyens de production.
+
+§ 2. Les surveillants, visés à l'article 64, § 1er, alinéa premier, peuvent :
+
+1° vendre les produits de la pêche saisis ou les offrir à une organisation caritative;
+
+2° les dénaturer, les transformer et les affecter à une autre utilisation, aux frais du contrevenant;
+
+3° les rejeter ou les faire rejeter à la mer ;
+
+4° les détruire, aux frais du contrevenant.
+
+En cas de vente de produits de la pêche saisis visés à l'alinéa premier, 1°, la somme obtenue sera déposée au [<sup>1</sup> compte du Fonds contrôle et maintien Décret Agriculture]<sup>1</sup> jusqu'à ce qu'il ait été statué définitivement sur le [<sup>1</sup> l'infraction ]<sup>1</sup>. Cette somme tient lieu des produits de la pêche saisis, tant en ce qui concerne la confiscation que la restitution éventuelle.
+
+Le Gouvernement flamand peut déterminer les conditions de la vente, de la restitution, de la dénaturation, de la transformation, de la réaffectation ou de la destruction.
+
+§ 3. Les surveillants visés à l'article 64, § 1er, alinéa premier, peuvent restituer les engins de pêche et les autres moyens de production saisis au contrevenant contre dépôt d'une caution ou d'une garantie bancaire qui correspond à un montant fixé par le surveillant et ne peut pas excéder un cinquième de du montant maximum de l'amende maximale visée à l'article [<sup>1</sup> 56, § 3 ]<sup>1</sup>.
+
+La possibilité visée à l'alinéa premier ne peut pas être utilisée si les engins de pêche ou les moyens de production ne satisfont pas à la réglementation européenne ou flamande.
+
+Les engins de pêche et autres moyens de production saisis sont mis sous séquestre [<sup>1</sup> auprès de l'instance désignée par le Gouvernement flamand]<sup>1</sup>. La caution ou la garantie bancaire doit, contre récépissé, être remise au surveillant qui la dépose [<sup>1</sup> " à l'instance désignée par le Gouvernement flamand ]<sup>1</sup> jusqu'à ce qu'il ait été statué définitivement sur [<sup>1</sup> l'infraction ]<sup>1</sup>. Cette somme tient lieu des engins de pêche et autres moyens de production saisis, tant en ce qui concerne la confiscation que la restitution éventuelle.
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 38, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 66
+
+En cas [<sup>1</sup> d'imposition d'une amende administrative exclusive, les personnes visées à l'article 57, peuvent toujours ordonner la confiscation administrative ]<sup>1</sup> des produits de la pêche, des engins de pêche et des autres moyens de production saisis.
+
+La confiscation [<sup>1</sup> administrative]<sup>1</sup> est toujours prononcée et la destruction est toujours ordonnée dans le cas où s'il s'agit d'engins de pêche ou de moyens de production qui ne satisfont pas à la réglementation européenne ou flamande et dans le cas où la nature du produit de pêche l'impose.
+
+Si [<sup>1</sup> les personnes, visées à l'article 57, ordonnent]<sup>1</sup> la destruction des produits de la pêche, des engins de pêche ou des moyens de production, les frais en sont pour le compte du [<sup>1</sup> contrevenant]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 39, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 67
+
+[<sup>1</sup> . Si une infraction concerne une infraction grave dans le cadre de la pêche illégale, non signalée et non réglementée, l'amende administrative exclusive visée à l'article 56 est majorée d'un montant correspondant à un minimum de cinq fois et à un maximum de huit fois la valeur des produits de la pêche obtenus en commettant l'infraction grave.
+
+En cas de récidive d'une infraction grave au cours d'une période de cinq ans, l'amende administrative visée à l'alinéa 1er n'est pas inférieure à huit fois la valeur des produits de la pêche obtenus en commettant l'infraction grave. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 40, 007; En vigueur : 01-04-2024&gt;
+
+##### Art. 68
+
+&lt;Abrogé par DCFL 2024-03-29/37, art. 41, 007; En vigueur : 01-04-2024&gt;
+
+#### Sous-section 2. - Maintien de la politique en matière d'entreprises avicoles spécialisées
+
+##### Art. 69
+
+Sans préjudice de l'application des dispositions du chapitre 3, section 1re, le Gouvernement flamand peut, pour le maintien de la politique en matière d'entreprises avicoles spécialisées :
+
+1° fixer les infractions et les sanctions administratives correspondantes;
+
+2° transférer la fixation des infractions et des sanctions administratives correspondantes à un ou plusieurs organes de contrôle;
+
+3° transférer certaines tâches de contrôle à un ou plusieurs organes de contrôle;
+
+4° fixer plus en détail l'approbation des organes de contrôle et la surveillance de ces organes de contrôle;
+
+5° fixer les missions des organes de contrôle;
+
+6° autoriser les organes de contrôle à appliquer les sanctions administratives visées au point 1° et au point 2°.
+
+#### Sous-section 3. - Maintien de la politique en matière d'agriculture durable
+
+##### Art. 70
+
+Sans préjudice de l'application des dispositions du chapitre 3, section 1re, les bénéficiaires des mesures de soutien suivantes sont soumis au contrôle et aux sanctions administratives, pouvant être fixés par le Gouvernement flamand :
+
+1° la promotion de méthodes de production agricole durables visées à l'article 10;
+
+2° l'organisation d'activités de formation postscolaire visées à l'article 12;
+
+3° l'organisation d'activités de sensibilisation visées à l'article 16;
+
+4° l'organisation d'activités d'éducation agricole visées à l'article 19.
+
+##### Art. 71
+
+Sans préjudice de l'application des dispositions du chapitre 3, section 1re, les mesures et organisations suivantes sont soumises au contrôle et aux sanctions administratives, pouvant être fixés par le Gouvernement flamand :
+
+1° l'exécution des mesures de soutien visées à l'article 10;
+
+2° les activités de formation postscolaire visées à l'article 12;
+
+3° l'organisation des actions de sensibilisation visées à l'article 16;
+
+4° l'organisation d'activités d'éducation agricole visées à l'article 19;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 5, 007; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 4. - Maintien de la politique en matière de production biologique et d'étiquetage de produits biologiques
+
+##### Art. 72
+
+Sans préjudice de l'application des dispositions du chapitre 3, section 1re, le Gouvernement flamand peut, pour le maintien de la politique en matière de production biologique et d'étiquetage de produits biologiques :
+
+1° fixer les infractions et les sanctions administratives correspondantes;
+
+2° transférer certaines tâches de contrôle à un ou plusieurs organes de contrôle;
+
+3° fixer plus en détail l'agrément des organes de contrôle et la surveillance de ces organes de contrôle;
+
+4° fixer les missions des organes de contrôle;
+
+5° autoriser les organes de contrôle à appliquer les sanctions administratives visées au point 1°.
+
+#### Sous-section 5. - Maintien de la politique relative à l'introduction et à l'exécution de systèmes de qualité
+
+##### Art. 73
+
+Sans préjudice de l'application des dispositions du chapitre 3, section 1re, le Gouvernement flamand peut, pour le maintien de la politique relative à l'introduction et à l'exécution de systèmes de qualité :
+
+1° fixer les infractions et les sanctions administratives correspondantes;
+
+2° transférer certaines tâches de contrôle à un ou plusieurs organes de contrôle;
+
+3° fixer plus en détail l'agrément des organes de contrôle et la surveillance de ces organes de contrôle;
+
+4° fixer les missions des organes de contrôle;
+
+5° autoriser les organes de contrôle à appliquer les sanctions administratives visées au point 1°.
+
+----------
+
+(1) Pas en version française
+
+#### Sous-section 6. - Maintien de la politique en vue de l'exécution de l'organisation commune des marchés ayant trait aux légumes et aux fruits
+
+##### Art. 74
+
+Sans préjudice de l'application des dispositions du chapitre 3, section 1re, le Gouvernement flamand peut, pour le maintien de la politique en vue de l'exécution de l'organisation communes des marchés ayant trait aux légumes et aux fruits, fixer les infractions et les sanctions administratives correspondantes.
+
+#### Sous-section 7. [<sup>1</sup> Maintien de la politique relative à la production de matériel de reproduction des végétaux ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 44, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 74/1
+
+[<sup>1</sup> Sans préjudice de l'application des dispositions de la section 1re, le Gouvernement flamand peut, pour le maintien de la politique relative à la production de matériel de reproduction des végétaux et de la politique relative à la santé des végétaux :
+
+1° déterminer les infractions et les sanctions administratives correspondantes ;
+
+2° transférer certaines tâches de contrôle à un ou plusieurs organismes de contrôle ;
+
+3° régler les modalités de l'agrément des organismes de contrôle et de la surveillance de ces organismes de contrôle ;
+
+4° établir les missions des organismes de contrôle ;
+
+5° autoriser les organismes de contrôle à appliquer les sanctions administratives visées au point 1°. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 45, 007; En vigueur : 01-01-2024&gt;
+
+### Section 3. - Recouvrement d'un soutien indûment payé et amendes administratives exclusives [<sup>1</sup> , cotisations et redevances obligatoires et tout autre recouvrement et prélèvement non fiscal ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 46, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 75
+
+§ 1er. [<sup>2</sup> A défaut de paiement des amendes administratives exclusives, de tous soutien et accessoires indûment payés, des cotisations et redevances obligatoires imposées en exécution du présent décret, de ses arrêtés d'exécution et du décret du 19 mai 2006 relatif à la création et au fonctionnement du Fonds pour l'Agriculture et la Pêche, de tout autre recouvrement et prélèvement non fiscal, les membres du personnel désignés à cet effet par le Gouvernement flamand peuvent décerner une contrainte]<sup>2</sup>.
+
+Cette contrainte est visée et rendue exécutoire par le [<sup>1</sup> membre du personnel]<sup>1</sup> désigné à cet effet par le Gouvernement flamand.
+
+§ 2. La contrainte est signifiée par exploit d'huissier ou par lettre recommandée.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 107, 002; En vigueur : 17-07-2017&gt;
+
+(2)&lt;DCFL 2024-03-29/37, art. 47, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 76
+
+Les dispositions de la partie V du Code judiciaire portant saisie conservatoire et moyens d'exécution s'appliquent à la contrainte.
+
+Dans un délai de trente jours à compter de la signification de la contrainte, l'intéressé peut, par exploit d'huissier, introduire une opposition motivée portant citation de la Région flamande, auprès du tribunal de première instance de l'arrondissement du lieu de résidence du [<sup>1</sup> membre du personnel]<sup>1</sup> qui a prononcé la contrainte.
+
+L'opposition suspend l'exécution de la contrainte.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 108, 002; En vigueur : 17-07-2017&gt;
+
+##### Art. 77
+
+§ 1er. Sur la base de la contrainte rendue exécutoire et en garantie du paiement de tous soutien et accessoires indûment payés, des amendes administratives exclusives, des amendes administratives, et des frais, la Région flamande bénéficie d'un privilège général sur tous les biens immobiliers de l'intéressé et peut prendre une hypothèque légale sur tous les biens de l'intéressé qui sont susceptibles d'être hypothéqués et qui se situent en Région flamande.
+
+§ 2. Le privilège visé au paragraphe 1er prend rang immédiatement après les privilèges visés aux articles 19 et 20 de la loi du 16 décembre 1851 et à l'article 23 du livre II du Code de commerce.
+
+§ 3. Le rang de l'hypothèque légale est déterminé par la datation de l'inscription qui est prise en vertu de la contrainte rendue exécutoire et signifiée.
+
+§ 4. L'hypothèque est inscrite sur demande du [<sup>1</sup> membre du personnel]<sup>1</sup> visé à l'article 75, § 1er, alinéa deux.
+
+L'inscription a lieu, nonobstant opposition, contestation ou recours, sur présentation d'une copie de la contrainte qui est déclarée conforme par ce [<sup>1</sup> membre du personnel]<sup>1</sup> et qui fait mention de sa signification.
+
+§ 5. L'article 19, alinéa deux, de la loi sur les faillites du 8 août 1997 ne s'applique pas à l'hypothèque légale concernant le soutien et les accessoires dus indûment payés, les amendes administratives exclusives et les amendes administratives pour lesquels une contrainte a été prononcée et dont la signification à l'intéressé a eu lieu avant le jugement de déclaration de faillite.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 109, 002; En vigueur : 17-07-2017&gt;
+
+### Section 4. [<sup>1</sup> Compensation de dettes et créances ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 48, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 77/1
+
+[<sup>1</sup> Conformément aux dispositions européennes, l'organisme payeur flamand compense toute créance encore ouverte à l'encontre d'un bénéficiaire par tout paiement qu'il effectuera à l'avenir en faveur du même bénéficiaire.
+
+Dans l'alinéa 1er, on entend par organisme payeur flamand : l'organisme payeur flamand pour le Fonds européen agricole pour le développement rural et le Fonds européen agricole de garantie, créé par l'arrêté du Gouvernement flamand du 28 mars 2003.
+
+Le Gouvernement flamand peut désigner d'autres organismes qui peuvent compenser les créances impayées à l'égard d'un bénéficiaire par tout paiement qu'ils sont tenus d'effectuer à l'avenir en faveur du même bénéficiaire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 49, 007; En vigueur : 01-01-2024&gt;
+
+##### Art. 77/2
+
+[<sup>1</sup> Les organismes désignés par le Gouvernement flamand peuvent décider de ne pas poursuivre la récupération des aides indûment versées et d'autres recouvrements non fiscaux dans le cadre des politiques agricole et de la pêche dans les situations suivantes :
+
+1° si le principal à recouvrer, hors intérêts, ne dépasse pas 100,00 euros ;
+
+2° si le recouvrement s'avère impossible en raison de l'insolvabilité établie et reconnue du débiteur ou des personnes juridiquement responsables du motif de recouvrement.
+
+Dans des cas dûment motivés, l'organisme désigné par le Gouvernement flamand peut décider de ne pas poursuivre la récupération des aides indûment versées et d'autres recouvrements non fiscaux dans le cadre des politiques agricole et de la pêche si le total des frais de recouvrement déjà encourus et de ceux encore à prévoir dépasse le montant à recouvrer. . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 50, 007; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE 4. - Dispositions finales
+
+##### Art. 78
+
+L'article 10 du décret du 17 mars 1998 contenant diverses orientations politiques est abrogé.
+
+##### Art. 79
+
+Pour son application en Région flamande, l'article 37 de la loi du 5 février 1999 portant des dispositions diverses et relatives à la qualité des produits agricoles est abrogé.
+
+##### Art. 80
+
+Les articles 9, 11, 12 et 13 du décret du 19 mai 2006 relatif à la fondation et au fonctionnement du Fonds pour l'Agriculture et la Pêche sont abrogés.
+
+##### Art. 81
+
+Pour leur application en Région flamande, les réglementations suivantes sont abrogées :
+
+1° la loi du 20 juin 1956 relative à l'amélioration des races d'animaux domestiques utiles à l'agriculture, modifiée par l'arrêté royal n° 426 du 5 août 1986, les lois du 24 mars 1987 et du 23 mars 1998, et le décret du 12 décembre 2008;
+
+2° la loi du 12 avril 1957 autorisant le Roi à prescrire des mesures en vue de la conservation des ressources biologiques de la mer, modifiée par les lois du 3 mai 1999 et du 22 avril 1999 et le décret du 19 décembre 2008;
+
+3° la loi du 11 juillet 1969 relative aux pesticides et aux matières premières pour l'agriculture, l'horticulture, la sylviculture et l'élevage, modifiée par les lois du 21 décembre 1998 et du 5 février 1999, les décrets du 19 décembre 2008 et du 18 décembre 2009 et l'arrêté royal du 22 février 2001;
+
+4° la loi du 2 avril 1971 relative à la lutte contre les organismes nuisibles aux végétaux et aux produits végétaux, modifiée par la loi du 5 février 1999 et l'arrêté royal du 22 février 2001;
+
+5° la loi du 28 mars 1975 relative au commerce des produits de l'agriculture, de l'horticulture et de la pêche maritime, modifiée par les lois du 29 décembre 1990, du 5 février 1999, les décrets du 19 décembre 2008 et du 18 décembre 2009 et les arrêtés royaux du 25 octobre 1995 et du 22 février 2001;
+
+6° le décret du 3 mars 2004 relatif au subventionnement de méthodes de production agricole plus durables et à l'agrément de centres pour une agriculture plus durable, modifié par le décret du 22 avril 2005.
+
+##### Art. 82
+
+Le Gouvernement flamand est chargé de la coordination des dispositions du présent décret, de l'article 12 du décret du 22 décembre 1993 contenant diverses mesures d'accompagnement du budget 1994, du décret du 13 mai 1997 portant création d'un Instrument de Financement destiné au secteur flamand de la pêche et de l'aquaculture, du décret du 19 mai 2006 relatif à la fondation et au fonctionnement du Fonds pour l'Agriculture et la Pêche, de l'article 40 du décret du 30 juin 2006. Vu le décret du 30 juin 2006 ajustant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2006, du décret du 3 avril 2009 portant l'organisation de la coexistence de cultures génétiquement modifiées et de cultures conventionnelles et biologiques, et du décret du 6 juillet 2007 portant fondation du Conseil consultatif stratégique pour l'Agriculture et la Pêche, compte tenu des modifications qui y ont été expressément ou tacitement apportées jusqu'au moment de la coordination.
+
+A cet effet, le Gouvernement flamand peut :
+
+1° modifier l'ordre et la numérotation des dispositions à coordonner et, en général, les textes au niveau de forme;
+
+2° mettre en concordance les références qui figurent dans les dispositions à coordonner avec la nouvelle numérotation;
+
+3° sans porter préjudice au contenu des dispositions à coordonner, en modifier la rédaction afin de les mettre en concordance et d'uniformiser la terminologie;
+
+4° dans les dispositions qui ne sont pas reprises dans la coordination, adapter les références aux dispositions coordonnées.
+
+La coordination portera le titre suivant :" Code flamand pour l'Agriculture et la Pêche ".
+
+##### Art. 83
+
+Le présent décret entre en vigueur le 1er janvier 2014.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 28 juin 2013.
+
+Le Ministre-Président du Gouvernement flamand,
+
+Ministre flamand de l'Economie, de la Politique extérieure, de l'Agriculture et de la Ruralité,
+
+K. PEETERS
