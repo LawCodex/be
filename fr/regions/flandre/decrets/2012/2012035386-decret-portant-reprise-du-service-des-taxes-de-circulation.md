@@ -1,0 +1,41 @@
+---
+title: "Décret portant reprise du Service des taxes de circulation"
+identifier: "2012035386"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/16/2012035386/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2012-03-16
+published: 2012-04-05
+entry_into_force: 2012-04-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/16/2012035386/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 16 MARS 2012. - Décret portant reprise du Service des taxes de circulation
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+A partir du 1er janvier 2011, la Région flamande assure le service de la taxe de circulation sur les véhicules automobiles, la taxe de mise en circulation et l'eurovignette, visée à l'article 3, alinéa premier, 10° à 12° de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 16 mars 2012.
+
+Le ministre-président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand des Finances, du Budget, du Travail, de l'Aménagement du Territoire et des Sports
+
+Ph. MUYTERS

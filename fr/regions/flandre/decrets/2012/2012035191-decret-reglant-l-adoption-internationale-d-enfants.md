@@ -1,0 +1,1765 @@
+---
+title: "Décret réglant l'adoption internationale d'enfants"
+identifier: "2012035191"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/20/2012035191/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2012-01-20
+published: 2012-03-02
+entry_into_force: 2013-01-01
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/20/2012035191/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 02-03-2012 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 20 JANVIER 2012. - Décret réglant l'adoption internationale d'enfants
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret réglant l'adoption internationale d'enfants
+
+## CHAPITRE 1er. - Dispositions générales et définitions
+
+#### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+#### Art. 2
+
+Le présent décret est applicable à l'adoption internationale d'un enfant, soit une personne âgée de moins de dix-huit ans.
+
+#### Art. 3
+
+Dans le présent décret, on entend par :
+
+1° adoption internationale : l'adoption telle que définie à l'article 360.2 du Code civil;
+
+2° adoptant : une personne ou des personnes telles que visées à l'article 343, § 1er du Code civil;
+
+3° parent d'origine : un parent qui a décidé de céder un enfant;
+
+4° [<sup>4</sup> accompagnement de l'adoption : l'ensemble des activités pour la préparation, l'accompagnement et les soins dans le cadre d'un trajet d'adoption]<sup>4</sup>;
+
+5° [<sup>4</sup> 5° service d'adoption : un organisme autorisé par le Gouvernement flamand, qui est impliqué dans différentes phases du trajet d'adoption et qui dispense des soins et un accompagnement ]<sup>4</sup>;
+
+6°[<sup>4</sup> ...]<sup>4</sup>
+
+7°[<sup>4</sup> ...]<sup>4</sup>;
+
+8° Centre flamand de l'Adoption : la division désignée au sein de [<sup>3</sup> l'agence]<sup>3</sup>, qui interviendra comme autorité centrale, et est chargée de l'application des obligations et missions imposées par la Convention de La Haye, mentionnées dans le présent décret [<sup>4</sup> , dans l'ancien Code civil et dans le Code judiciaire]<sup>4</sup>;
+
+9° fonctionnaire flamand à l'adoption : le fonctionnaire, nommé au sein du Centre flamand de l'Adoption, qui exécute les missions lui confiées par le présent décret;
+
+10° Convention de La Haye : la convention sur la protection des enfants et la coopération en matière d'adoption internationale, signée à La Haye le 29 mai 1993;
+
+11° accord de coopération : l'Accord de coopération du 12 décembre 2005 entre l'Etat fédéral, la Communauté flamande et la Commission communautaire commune relatif à la mise en oeuvre de la loi du 24 avril 2003 réformant l'adoption;
+
+12° Point d'Appui à l'Adoption : une institution agréée par le Gouvernement flamand qui exécute les missions visées à l'article 7, § 2;
+
+[<sup>3</sup> 13° agence : l'agence autonomisée interne dotée de la personnalité juridique " Opgroeien regie " (Grandir régie), créée par l'article 3 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie (" Opgroeien regie ") ;]<sup>3</sup>
+
+[<sup>2</sup> 14° centre de filiation : le centre de filiation visé dans le décret du 26 avril 2019 portant création d'un centre de filiation et d'une banque de données ADN.]<sup>2</sup>
+
+[<sup>4</sup> 15° autorité centrale fédérale : l'autorité centrale fédérale visée à l'article 360-1, 2°, de l'ancien Code civil ;
+
+16° règlement général sur la protection des données : règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la Directive 95/46/CE (règlement général sur la protection des données). ]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2018-03-16/04, art. 2, 008; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2019-04-26/29, art. 39, 011; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCFL 2021-05-21/21, art. 7, 012; En vigueur : 18-04-2019&gt;
+
+(4)&lt;DCFL 2024-05-17/28, art. 2, 013; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE 2. [<sup>1</sup> Le trajet préalable et le Point d'Appui à l'Adoption ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 3,013; En vigueur : 20-07-2024&gt;
+
+### Section 1re. [<sup>1</sup> Parties du trajet préalable ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 4, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 4
+
+Les candidats adoptants doivent suivre la session d'information auprès du Point d'Appui à l'Adoption. Le Centre flamand de l'Adoption établit, en concertation avec le comité d'avis, le programme et la méthode de la session d'information selon les dispositions du Gouvernement flamand.
+
+### Section 2. - La préparation
+
+#### Art. 5
+
+La préparation, visée à l'article 346.2, alinéa premier, et à l'article 361.1, alinéa deux, du Code civil est suivie dans le Point d'Appui à l'Adoption agréé par le Gouvernement flamand.
+
+Après sa présentation, le Centre flamand de l'Adoption renvoie l'adoptant au Point d'Appui à l'Adoption, en tenant compte du principe de la gestion de l'afflux. La préparation est assurée dans un délai raisonnable après que l'adoptant s'est présenté auprès du Point d'Appui à l'Adoption. A l'issue de la préparation, le Point d'Appui à l'Adoption délivre à l'adoptant un certificat attestant qu'il a suivi la préparation. Lorsque l'adoptant ne dépose pas la requête, visée à l'article 1231-27 du Code judiciaire, de manière recevable au greffe du [<sup>1</sup> tribunal de la famille]<sup>1</sup>, le certificat de préparation échoit.
+
+Le Gouvernement flamand arrête les principes de la gestion de l'afflux.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 8, 012; En vigueur : 01-09-2014&gt;
+
+#### Art. 6
+
+Le Gouvernement flamand arrête le contenu général et la durée minimale de la préparation.
+
+Le Centre flamand de l'Adoption approuve les programmes de préparation et fixe les moments auxquels la préparation est assurée.
+
+Le Centre flamand de l'Adoption peut fixer les modalités du programme de préparation et de la participation des candidats adoptants.
+
+### Section 3. - Agrément du Point d'Appui à l'Adoption
+
+#### Art. 7
+
+§ 1er. Le Gouvernement flamand agrée le Point d'Appui à l'Adoption sur l'avis du Centre flamand de l'Adoption.
+
+L'agrément est accordé pour deux ans au minimum et cinq ans au maximum et est renouvelable pour les mêmes périodes.
+
+§ 2. Le Point d'Appui à l'Adoption a les tâches suivantes :
+
+1° fournir des informations aux adoptants sur tous les aspects de l'adoption;
+
+2° agir comme point d'information sur le suivi post-adoptif et promouvoir l'expertise en matière d'adoption au niveau de l'offre d'aide existante [<sup>3</sup> , ainsi qu'établir un réseau composé de services d'aide sociale et de santé généraux et spécialisés existants, sensibles à l'adoption, [<sup>4</sup> ...]<sup>4</sup>, en vue d'une orientation efficace]<sup>3</sup>;
+
+3° faire fonction de point d'information et d'orientation pour adoptés, adoptants et parents d'origine;
+
+4° faire fonction de centre de formation et d'expertise;
+
+5° mettre sur pied un centre de documentation et d'information;
+
+6° organiser la préparation, visée à l'article 5.
+
+[<sup>5</sup> 7° assurer des soins (de suivi) individuels au candidat adoptant, à l'adopté et au parent d'origine. ]<sup>5</sup>
+
+§ 3. Pour être agréé, le Point d'Appui à l'Adoption doit remplir les conditions suivantes :
+
+1° ne poursuivre que des objectifs sans but lucratif;
+
+2° disposer d'une équipe composée comme fixé par le Gouvernement flamand;
+
+3° s'engager à participer régulièrement à la concertation entre les différents acteurs de l'adoption internationale;
+
+4° pourvoir au recyclage des intervenants;
+
+5° respecter la vie privée de l'adoptant et respecter, sans aucune forme de discrimination, sa conviction idéologique, religieuse et philosophique.
+
+§ 4. Pour maintenir son agrément ou obtenir [<sup>2</sup> un renouvellement]<sup>2</sup> de son agrément, le Point d'Appui à l'Adoption agréé doit respecter les prescriptions suivantes :
+
+1° observer la discrétion et le secret professionnel quant aux informations obtenues sur les adoptants;
+
+2° accepter et enregistrer tout adoptant renvoyé par le Centre flamand de l'Adoption en vue de suivre un programme de préparation;
+
+3° établir un rapport annuel et le transmettre, au cours du premier trimestre suivant la fin de chaque exercice, au Centre flamand de l'Adoption. Le Gouvernement flamand arrête le contenu du rapport annuel.
+
+§ 5. Le Gouvernement flamand peut arrêter les [<sup>1</sup> conditions supplémentaires et]<sup>1</sup> modalités relatives aux paragraphes 3 et 4.
+
+§ 6. Le Gouvernement flamand arrête la procédure de l'agrément et [<sup>2</sup> du renouvellement]<sup>2</sup> de l'agrément du Point d'Appui à l'Adoption et prévoit une [<sup>2</sup> procédure de réclamation]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2013-06-21/17, art. 40, 002; En vigueur : 03-12-2012&gt;
+
+(2)&lt;DCFL 2015-07-03/16, art. 28, 005; En vigueur : 24-03-2016 (AGF 2016-02-19/24, art. 44)&gt;
+
+(3)&lt;DCFL 2018-03-16/04, art. 3, 008; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFL 2024-05-17/28, art. 7,1°, 013; En vigueur : 20-07-2024&gt;
+
+(5)&lt;DCFL 2024-05-17/28, art. 7,3°, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 8
+
+L'agrément du Point d'Appui à l'Adoption peut être [<sup>1</sup> abrogé]<sup>1</sup> ou suspendu par le Gouvernement flamand, pour le délai qu'il détermine, en cas de non-respect des dispositions du présent décret. En cas de cessation des activités, l'agrément est supprimé d'office.
+
+Le Gouvernement flamand fixe la procédure de suspension et [<sup>1</sup> d'abrogation]<sup>1</sup> de l'agrément.
+
+----------
+
+(1)&lt;DCFL 2015-07-03/16, art. 29, 005; En vigueur : 24-03-2016 (AGF 2016-02-19/24, art. 44)&gt;
+
+### Section 4. - Les frais de préparation et le subventionnement du Point d'Appui à l'Adoption
+
+#### Art. 9
+
+Une partie du coût de la préparation est à charge de l'adoptant. Le Gouvernement flamand arrête le montant contribué par l'adoptant à la préparation.
+
+Le Point d'Appui à l'Adoption reçoit une subvention annuelle pour frais de personnel et de fonctionnement.
+
+Le Gouvernement flamand arrête les modalités de subventionnement du Point d'Appui à l'Adoption.
+
+## CHAPITRE 3. - Enquête sociale
+
+### Section 1re. - L'enquête sociale
+
+#### Art. 10
+
+L'enquête sociale ordonnée [<sup>2</sup> par le tribunal de la famille en vertu de l'article 1231-1/4 du Code judiciaire]<sup>2</sup>, est menée par un service d'enquête sociale [<sup>1</sup> ...]<sup>1</sup> agréé par le Gouvernement flamand.
+
+Après que le [<sup>3</sup> tribunal de la famille]<sup>3</sup> a ordonné l'enquête sociale, le Centre flamand de l'Adoption renvoie l'adoptant à un service d'enquête sociale [<sup>1</sup> ...]<sup>1</sup>. Ce service prend immédiatement contact avec l'adoptant. Le service notifie toute nouvelle demande au Centre flamand de l'Adoption.
+
+Le Centre flamand de l'Adoption peut arrêter des modalités quant à la manière dont l'enquête sociale est menée conformément à [<sup>2</sup> l'article 1231-1/4]<sup>2</sup> du Code judiciaire et aux dispositions de l'accord de coopération.
+
+----------
+
+(1)&lt;DCFL 2015-07-03/16, art. 30, 005; En vigueur : 24-03-2016 (AGF 2016-02-19/24, art. 44)&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 9,1°, 012; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCFL 2021-05-21/21, art. 9,2°, 012; En vigueur : 01-09-2014&gt;
+
+### Section 2. - L'agrément [<sup>1</sup> du service]<sup>1</sup> d'enquête sociale en matière d'adoption internationale
+
+----------
+
+(1)&lt;DCFL 2018-03-16/04, art. 4, 008; En vigueur : 01-09-2018&gt;
+
+#### Art. 11
+
+§ 1er. [<sup>2</sup> Le Gouvernement flamand peut agréer un seul service d'enquête sociale sur l'avis du " Vlaams Centrum voor Adoptie.]<sup>2</sup>
+
+§ 2. Pour être agréé, le service d'enquête sociale en matière d'adoption internationale doit remplir les conditions suivantes :
+
+1° disposer d'une équipe composée comme fixé par le Gouvernement flamand;
+
+2° respecter la vie privée de l'adoptant et respecter, sans aucune forme de discrimination, sa conviction idéologique, religieuse et philosophique;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° respecter des critères scientifiquement étayés;
+
+5° s'engager à participer régulièrement à la concertation entre les différents acteurs de l'adoption internationale.
+
+§ 3. L'agrément est accordé pour deux ans au minimum et cinq ans au maximum et est renouvelable pour les mêmes périodes. Pour maintenir son agrément ou pour obtenir un nouvel agrément, le service d'enquête sociale en matière d'adoption internationale agréé doit remplir les obligations suivantes :
+
+1° observer la discrétion et le secret professionnel quant aux informations obtenues sur les adoptants;
+
+2° enregistrer toute personne qui se présente à l'enquête sociale;
+
+3° limiter les questions aux informations pertinentes pour l'obtention d'un jugement d'aptitude d'adoption internationale;
+
+4° ajuster en permanence le fonctionnement en fonction de critères scientifiquement étayés, conformément aux directives du Centre flamand de l'Adoption;
+
+5° établir un rapport annuel et l'envoyer, au cours du premier trimestre suivant la fin de chaque exercice, au Centre flamand de l'Adoption. Le Gouvernement flamand arrête le contenu du rapport annuel;
+
+6° exécuter de manière qualitative les missions définies à l'article 10 du présent décret.
+
+§ 4. Le Gouvernement flamand arrête la procédure de la demande et du renouvellement de l'agrément [<sup>2</sup> du service]<sup>2</sup> d'enquête sociale [<sup>1</sup> ...]<sup>1</sup>. Il prévoit en outre une [<sup>1</sup> procédure de réclamation]<sup>1</sup>.
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-07-03/16, art. 31, 005; En vigueur : 24-03-2016 (AGF 2016-02-19/24, art. 44)&gt;
+
+(2)&lt;DCFL 2018-03-16/04, art. 5, 008; En vigueur : 01-09-2018&gt;
+
+#### Art. 12
+
+L'agrément [<sup>2</sup> , visé à l'article 11, § 1er,]<sup>2</sup> [<sup>1</sup> ...]<sup>1</sup> peut être [<sup>1</sup> abrogé]<sup>1</sup> ou suspendu par le Gouvernement flamand, pour le délai qu'il détermine, en cas de non-respect des dispositions du présent décret. En cas de cessation des activités, l'agrément est supprimé d'office.
+
+Le Gouvernement flamand fixe la procédure de suspension et [<sup>1</sup> d'abrogation]<sup>1</sup> de l'agrément.
+
+----------
+
+(1)&lt;DCFL 2015-07-03/16, art. 32, 005; En vigueur : 24-03-2016 (AGF 2016-02-19/24, art. 44)&gt;
+
+(2)&lt;DCFL 2018-03-16/04, art. 6, 008; En vigueur : 01-09-2018&gt;
+
+### Section 3. - Le subventionnement [<sup>1</sup> du service]<sup>1</sup> d'enquête sociale en matière d'adoption internationale
+
+----------
+
+(1)&lt;DCFL 2018-03-16/04, art. 7, 008; En vigueur : 01-09-2018&gt;
+
+#### Art. 13
+
+Il est octroyé [<sup>2</sup> au service]<sup>2</sup> d'enquête sociale [<sup>1</sup> ...]<sup>1</sup> agréés les subventions suivantes :
+
+1° une subvention annuelle pour frais de personnel et de fonctionnement;
+
+2° une subvention annuelle sur la base du nombre d'enquêtes réalisées.
+
+Le Gouvernement flamand arrête les modalités de subventionnement du service d'enquête sociale [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-07-03/16, art. 33, 005; En vigueur : 24-03-2016 (AGF 2016-02-19/24, art. 44)&gt;
+
+(2)&lt;DCFL 2018-03-16/04, art. 8, 008; En vigueur : 01-09-2018&gt;
+
+## CHAPITRE 4. [<sup>1</sup> Accompagnement de l'adoption ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 9, 013; En vigueur : 31-12-2025&gt;
+
+### Section 1re. [<sup>1</sup> Accompagnement de l'adoption par le service d'adoption autorisé ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art.10, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 14
+
+[<sup>1</sup> L'adoptant dont la capacité et l'aptitude à adopter ont été constatées dans le cadre d'une adoption internationale, conformément à l'article 1231-1/7 du Code judiciaire, fait appel au service d'adoption autorisé pour l'accompagnement de l'adoption pour la poursuite du trajet d'adoption. Le candidat adoptant conclut à cet effet un contrat avec le service d'adoption précité.
+
+La poursuite du trajet d'adoption, visé à l'alinéa 1er, s'effectue sous le contrôle du Centre flamand de l'Adoption, conformément à l'article 20, § 2.
+
+Le Gouvernement flamand peut fixer les modalités du contenu du contrat visé à l'alinéa 1er ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 11, 013; En vigueur : 20-07-2024&gt;
+
+### Section 2. - Les missions [<sup>1</sup> du service]<sup>1</sup> d'adoption
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 12, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 15
+
+[<sup>1</sup> § 1er. Le service d'adoption a les missions suivantes :
+
+1° informer, préparer et accompagner le candidat adoptant dans la constitution du dossier et la procédure dans le pays d'origine ;
+
+2° offrir un soutien administratif et en matière de procédure au candidat adoptant et à l'adopté ;
+
+3° fournir des soins et un accompagnement au candidat adoptant et à l'adopté ;
+
+4° rendre avis au Centre flamand de l'Adoption concernant les besoins de l'enfant et le matching qui s'ensuit.
+
+Le service d'adoption a des tâches distinctes dans le cadre du trajet d'une adoption intrafamiliale, conformément aux règles et spécifications fixées par le Gouvernement flamand.
+
+Dans l'alinéa 2, on entend par adoption intrafamiliale : l'adoption d'un enfant apparenté jusqu'au quatrième degré à l'adoptant, à son conjoint/sa conjointe ou à la personne avec laquelle il/elle cohabite, même décédés, ou d'un enfant qui est biologiquement apparenté jusqu'au quatrième degré à un enfant adopté de l'adoptant ou des adoptants, ou d'un enfant qui a partagé la vie quotidienne de manière durable avec l'adoptant ou les adoptants liés par une relation, à l'instar de parents, avant que les adoptants aient entrepris des démarches en vue d'une adoption.
+
+Le service d'adoption collabore avec le Centre flamand de l'Adoption afin de suivre et accompagner le trajet d'adoption dans les pays d'origine.
+
+§ 2. La tâche d'information et de préparation visée au paragraphe 1er, alinéa 1er, 1°, comprend :
+
+1° informer le candidat adoptant, en concertation avec le Centre flamand de l'Adoption, sur les pays d'origine avec lesquels il existe une coopération en cours ;
+
+2° offrir une formation complémentaire au candidat adoptant, en concertation avec le Point d'Appui à l'Adoption, concernant des sujets spécifiques à l'adoption fixés par le Gouvernement flamand ;
+
+3° affiner la motivation de l'adoption, renforcer la solidité du candidat adoptant et cartographier les compétences et les limites du candidat adoptant en fonction des profils des enfants des différents pays d'origine.
+
+§ 3. La tâche d'accompagnement visée au paragraphe 1er, alinéa 1er, 1°, et l'accompagnement administratif et en matière de procédure visé au paragraphe 1er, alinéa 1er, 2°, comprend :
+
+1° accompagner le candidat adoptant dans la constitution du dossier qui doit être envoyé au pays d'origine ;
+
+2° établir le rapport, visé à l'article 361-2/1 de l'ancien Code civil, de la manière déterminée par le Gouvernement flamand ;
+
+3° assurer le suivi des dossiers d'adoption individuels et informer le candidat adoptant et le Centre flamand de l'Adoption de l'avancement judiciaire ou administratif du dossier d'adoption ;
+
+4° réaliser le suivi de l'adoption conformément aux instructions et dispositions légales de l'Etat d'origine.
+
+§ 4. Les soins et l'accompagnement visés au paragraphe 1er, alinéa 1er, 3°, comprennent :
+
+1° établir un plan de soins adapté aux besoins de l'enfant adoptif ;
+
+2° prendre en charge l'exigence de suivi et les rapports de suivi imposés par le pays d'origine ;
+
+3° fournir une assistance socio-psychologique et une assistance dans le cadre de la préparation pour l'arrivée de l'enfant en Belgique au candidat adoptant ;
+
+4° suivre et soutenir l'attachement et la constitution de la famille dans la période qui suit l'arrivée de l'enfant en Belgique ;
+
+5° prévoir une offre de soutien structurée pour l'adopté et la famille adoptive, adaptée aux besoins et à la maturité de l'adopté, comprenant au minimum, en concertation avec le Point d'Appui à l'Adoption ou avec d'autres partenaires, des visites à domicile, des entretiens individuels, une formation et des activités de groupe ;
+
+6° prévoir un renvoi et un suivi en cas de questions ou de problèmes nécessitant une aide spécialisée en deuxième ou troisième ligne ;
+
+7° développer une étroite collaboration avec le centre de filiation dans le cadre de la recherche des origines.
+
+§ 5. La coopération avec le Centre flamand de l'Adoption dans le cadre de coopérations internationales, visée au paragraphe 1er, alinéa 4, comprend :
+
+1° signaler au Centre flamand de l'Adoption toutes les anomalies et irrégularités éventuelles qui surviennent pendant la procédure judiciaire ou administrative dans le pays d'origine ou après l'arrivée en Belgique ;
+
+2° informer le Centre flamand de l'Adoption de l'arrivée de l'enfant en Belgique ;
+
+3° organiser et évaluer le déroulement des trajets d'adoption dans les pays d'origine sur le plan pratique ;
+
+4° proposer au Centre flamand de l'Adoption, dans le cadre du calendrier visé au paragraphe 7, de nouvelles coopérations avec des pays d'origine, qui sont examinées par le Centre flamand de l'Adoption dans un délai raisonnable.
+
+§ 6. Le service d'adoption transmet tous les documents disponibles contenant des informations concernant l'origine et l'identité de l'adopté au Centre flamand de l'Adoption, y compris après le prononcé de l'adoption.
+
+Le service d'adoption et le Centre flamand de l'Adoption concluent des accords concernant le délai dans lequel une copie des documents visés à l'alinéa 1er est transmise au Centre flamand de l'Adoption.
+
+§ 7. Le service d'adoption et le Centre flamand de l'Adoption établissent, au cours du premier trimestre de chaque année calendrier, un calendrier dans le cadre des coopérations internationales, visées au paragraphe 5, et aussi une évaluation approfondie des coopérations en cours avec les pays d'origine.
+
+§ 8. Le service d'adoption informe avec soin le Centre flamand de l'Adoption concernant l'exécution des tâches visées aux paragraphes 1 à 6.
+
+§ 9. Le Gouvernement flamand peut spécifier et développer les tâches du service d'adoption visées aux paragraphes 1er à 8 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 13, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 15/1
+
+[<sup>1</sup> § 1er. Un Comité d'avis adoption internationale est constitué, qui a les missions suivantes :
+
+1° rendre avis dans des dossiers d'adoption concrets, conformément à l'article 15/2 ;
+
+2° rendre avis, d'initiative, à la demande du Parlement flamand, du Gouvernement flamand, du fonctionnaire dirigeant de l'agence, du fonctionnaire flamand à l'adoption ou du service d'adoption autorisé concernant l'approche globale et le déroulement de trajets d'adoption internationale.
+
+§ 2. Le Comité d'avis adoption internationale comprend au minimum :
+
+1° un représentant du service d'enquête sociale, visé à l'article 11, § 1er, du présent décret ;
+
+2° un représentant du service d'adoption ;
+
+3° un collaborateur du Centre flamand de l'Adoption ;
+
+4° deux experts indépendants en adoption internationale.
+
+Pour la délivrance d'avis visée au paragraphe 1er, 2°, le Comité d'avis adoption internationale se compose, outre les membres visés à l'alinéa 1er, également au moins de deux experts indépendants en matière d'adoption, d'un représentant du secteur du placement familial et au moins deux représentants de parents adoptifs ou adoptés.
+
+Les avis faisant suite à la délivrance d'avis visée au paragraphe 1er, 2°, sont publiés sur le site web de l'agence.
+
+§ 3. Le Gouvernement flamand détermine la composition du Comité d'avis adoption internationale. Le Gouvernement flamand peut arrêter des modalités pour la mission, l'indemnité des membres et le fonctionnement du Comité d'avis adoption internationale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/28, art. 14, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 15/2
+
+[<sup>1</sup> . § 1er. Si le Centre flamand de l'Adoption ou le service d'adoption obtient auprès d'un pays d'origine une proposition de correspondance entre un enfant et un candidat adoptant comme visé à l'article 361-4, 3°, c), de l'ancien Code civil, le service d'adoption a pour mission de vérifier l'adoptabilité psychosociale de l'enfant sur la base de l'étude de l'enfant, visée à l'article 361-3, 2°, de l'ancien Code civil, et de rendre avis à ce sujet au Centre flamand de l'Adoption, complémentairement au contrôle visé à l'article 20, § 2, 2°, e). Dans le cadre des avis susmentionnés, le service d'adoption examine si le candidat adoptant correspond suffisamment aux caractéristiques et besoins de l'enfant.
+
+Le service d'adoption et le Centre flamand de l'Adoption peuvent demander l'avis complémentaire d'experts externes concernant l'adoptabilité médicale ou psychosociale ou soumettre le dossier au Comité d'avis adoption internationale, visé à l'article 15/1. Le cas échéant, les experts externes précités sont associés à l'évaluation par le Comité d'avis adoption internationale précité.
+
+Si le Centre flamand de l'Adoption ne veut pas suivre l'avis du Comité d'avis adoption internationale, visé à l'article 15/1, le Centre flamand de l'Adoption informe le Comité d'avis adoption internationale des motifs.
+
+§ 2. Si le Centre flamand de l'Adoption ou le service d'adoption se voit demander par un pays d'origine de chercher un candidat adoptant pour un enfant, avec ou sans special needs, le Centre flamand de l'Adoption effectue le contrôle visé à l'article 20, § 2, 2°, e), et le service d'adoption, après contrôle de l'adoptabilité psychosociale de l'enfant, se met à la recherche de la meilleure correspondance possible à caractère familial pour l'enfant.
+
+Dans le premier alinéa, on entend par special needs : les besoins relevant d'une des catégories suivantes :
+
+1° fratrie ;
+
+2° problèmes médicaux ou physiques ;
+
+3° contexte compromettant supplémentaire, problèmes comportementaux ou émotionnels ;
+
+4° difficultés de développement ;
+
+5° avoir plus de six ans.
+
+Si le service d'adoption décide qu'un candidat adoptant approprié peut être trouvé qui correspond suffisamment aux caractéristiques et besoins de l'enfant, une proposition de placement est soumise au Comité d'avis adoption internationale, visé à l'article 15/1.
+
+Si le Centre flamand de l'Adoption, dans le cadre de la décision finale concernant la correspondance, ne veut pas suivre l'avis du Comité d'avis adoption internationale, le Centre flamand de l'Adoption informe le Comité d'avis adoption internationale des motifs.
+
+§ 3. Le Gouvernement flamand peut spécifier et développer les modalités pour la mission et l'indemnité des experts externes, visés au paragraphe 1er, alinéa 2, et aussi la procédure de délivrance d'avis, visée aux paragraphes 1er et 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/28, art. 15, 013; En vigueur : 20-07-2024&gt;
+
+### Section 3. [<sup>1</sup> Autorisation du service d'adoption ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 16, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 16
+
+[<sup>1</sup> . § 1er. Le Gouvernement flamand autorise un seul service d'adoption sur avis du Centre flamand de l'Adoption.
+
+§ 2. Un service d'adoption répondant à toutes les conditions suivantes peut être autorisé conformément au paragraphe 1er :
+
+1° il est organisé en tant qu'association sans but lucratif ou en tant que personne morale de droit public ;
+
+2° il a son siège dans la région de langue néerlandaise ou dans la région bilingue de Bruxelles-Capitale ;
+
+3° il a l'accompagnement de l'adoption et la dispensation de soins comme visé à l'article 15 et 15/2 du présent décret comme unique tâche et n'exerce parallèlement pas d'autres activités en matière de protection d'enfants et de jeunes ;
+
+4° il dispose d'une équipe interdisciplinaire ayant suffisamment d'expertise pour exécuter de manière qualitative les missions visées à l'article 15 et 15/2 du présent décret et peut faire appel à un médecin et un juriste ayant de l'expertise en matière de droits de l'enfant et de droit de la famille. L'expertise ressort également de la présence de responsables de pays qui ont des connaissances de la langue, de la législation, de la culture et des usages dans les pays d'origine avec lesquels il est coopéré, et des psychologues et assistants sociaux qui assurent les soins et l'accompagnement ;
+
+5° il est dirigé par une personne disposant des qualifications telles qu'arrêtées par le Gouvernement flamand ;
+
+6° il dispose d'une infrastructure adaptée et de moyens de fonctionnement pour accomplir ses missions de manière qualitative et assurer la continuité du service ;
+
+7° il prend en considération l'intérêt de l'enfant et ses droits fondamentaux nationaux et internationaux et travaille conformément aux principes de fonctionnement pour l'adoption internationale, visés au paragraphe 5 ;
+
+8° il prévoit une politique de qualité intégrée et intégrale visant à déterminer, planifier, évaluer et améliorer de manière systématique la qualité des prestations de services ainsi que du fonctionnement interne ;
+
+9° il peut faire appel à un fonctionnaire pour la protection des données, tel que visé à l'article 37 du règlement général sur la protection des données.
+
+Le Gouvernement flamand peut préciser les conditions visées à l'alinéa 1er, en ce compris les qualifications et la composition de l'équipe interdisciplinaire visée au point 4°.
+
+§ 3. L'autorisation d'un service d'adoption est octroyée pour 2 ans au minimum et 5 ans au maximum et est renouvelable pour les mêmes périodes. Pour maintenir son autorisation ou pour obtenir une nouvelle autorisation, le service d'adoption autorisé remplit les obligations suivantes :
+
+1° il exécute de manière qualitative les missions visées dans le présent décret et ses dispositions d'exécution en vue d'assurer la qualité des soins conformément au décret du 5 mai 2023 sur la qualité des soins dans le domaine politique du Bien-être, de la Santé publique et de la Famille ;
+
+2° il établit un rapport annuel et envoie celui-ci au cours du premier trimestre suivant la fin de chaque exercice, au Centre flamand de l'Adoption. Le Gouvernement flamand arrête le contenu du rapport annuel précité ;
+
+3° il participe régulièrement à la concertation entre les différents acteurs en cas d'adoption, à la demande du Centre flamand de l'Adoption ;
+
+4° il traite les données à caractère personnel de tous les intéressés dont les données à caractère personnel sont traitées dans le respect de la législation relative à la protection des personnes physiques dans le cadre du traitement des données à caractère personnel, en particulier le règlement général sur la protection des données ;
+
+5° il veille à ce que les collaborateurs individuels au sein du service traitent de manière strictement confidentielle toutes les informations qu'il obtient dans le cadre de l'exercice de ses missions et des activités liées, et il veille à ce que ces informations puissent uniquement être partagées dans la mesure où le présent décret ou une autre législation le prévoit ;
+
+6° en cas de cessation des activités ou d'abrogation de l'autorisation, il met toutes les données nécessaires à la reprise des activités à la disposition du Centre flamand de l'Adoption dans la forme et les délais fixés par le Centre flamand de l'Adoption ;
+
+7° il assure une transparence et un partage d'informations maximaux à l'égard du Centre flamand de l'Adoption ;
+
+8° il tient une comptabilité suivant le plan comptable normalisé et l'organise de manière à permettre le contrôle financier de l'utilisation des subventions ;
+
+9° il transmet chaque année, au cours du premier trimestre suivant la fin de chaque exercice, un rapport administratif et financier avec comptes annuels et bilan au Centre flamand de l'Adoption. Le Gouvernement flamand arrête le contenu du rapport précité ;
+
+10° il réalise une stratégie afin de veiller à et évaluer la qualité des services avec des parties prenantes internes et externes ;
+
+11° il informe le Centre flamand de l'Adoption d'une cessation des activités au moins six mois avant la cessation effective.
+
+§ 4. Pour obtenir ou maintenir son autorisation, ou pour obtenir une nouvelle autorisation, le service d'adoption dispose d'un pouvoir gestionnel fort afin d'organiser des services de qualité dans le cadre desquels au minimum les aspects suivants sont réalisés :
+
+1° disposer d'un conseil d'administration composé de :
+
+a) membres ayant une expertise juridique, administrative ou financière et ayant connaissance des aspects éthiques liés à la pratique de l'adoption internationale ;
+
+b) membres liés professionnellement à la thématique de l'adoption ainsi que des membres qui sont exposés à la thématique en tant qu'experts du vécu ;
+
+2° un responsable qui dispose des compétences et de l'expérience afin de garantir des services professionnels ;
+
+3° une attitude réflective, proactive et réactive, à la fois des membres du conseil d'administration et du responsable de l'organisation, en vue d'une amélioration continue du propre fonctionnement, en tenant compte du feed-back et de la contribution des parents adoptifs, des adoptés, du Centre flamand de l'Adoption, des collaborateurs et de l'expertise pertinente d'organisations externes ;
+
+Le Gouvernement flamand peut préciser les aspect visés à l'alinéa 1er.
+
+§ 5. Le respect de la condition visée au paragraphe 2, alinéa 1er, 7°, ressort d'un fonctionnement respectant les principes suivants :
+
+1° toute adoption internationale est réalisée dans le respect de la législation régionale, nationale et internationale en vigueur, en particulier de la Convention de La Haye et de la Convention internationale des Droits de l'Enfant adoptée à New York le 20 novembre 1989 ;
+
+2° l'intérêt de l'enfant constitue le point de départ de toute adoption internationale ;
+
+3° l'adoption est considérée comme faisant partie d'un système global d'aide à la jeunesse et de protection de la jeunesse dans le cadre duquel on veille à ce que cette mesure soit uniquement mise en oeuvre dans l'intérêt des soins pour un enfant et subsidiairement à d'autres possibilités d'accueil à caractère familial pour l'enfant ;
+
+4° la décision de coopération avec un pays d'origine relève de la compétence du Centre flamand de l'Adoption qui doit veiller, en tant qu'autorité centrale de l'adoption au sens de la Convention de La Haye, à un déroulement du processus minutieux, conformément à la réglementation en vigueur en la matière ;
+
+5° chaque acteur impliqué professionnellement dans le processus d'adoption coopère à une exécution loyale de la politique d'adoption en vigueur en Flandre et veille à une coopération constructive avec l'ensemble des partenaires au sein de la chaîne d'adoption ;
+
+6° toute adoption est réalisée dans le respect de la vie privée de l'adoptant et de l'adopté, sans aucune forme de discrimination et dans le respect de l'idéologie et des convictions philosophiques de chacun ;
+
+7° la réalisation d'une adoption internationale ne peut entraîner de profit financier pour les intéressés dans le processus d'adoption et les intermédiaires éventuels.
+
+§ 6. Le Gouvernement flamand arrête la procédure de la demande et du renouvellement de l'autorisation du service d'adoption. Si plusieurs demandes d'autorisation recevables remplissent les conditions d'autorisation, la procédure comparative est appliquée, dans le cadre de laquelle les demandes sont comparées sur la base de critères de comparaison fixés par le Gouvernement flamand, et l'autorisation n'est accordée qu'à la demande la mieux classée. Le Gouvernement flamand arrête une procédure de réclamation.
+
+Le Gouvernement flamand fixe les modalités pour la procédure à suivre en cas de cessation volontaire des activités et fixe les mesures nécessaires afin de garantir la continuité des services]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 17, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 17
+
+[<sup>1</sup> § 1er. Lorsqu'il est constaté que le service d'adoption n'observe pas les dispositions du présent décret ou les dispositions d'exécution de celui-ci, ou en cas de présomption grave que l'accompagnement de l'adoption ne se fait pas dans l'intérêt de l'enfant, le service d'adoption est mis en demeure par écrit par l'agence. La mise en demeure précitée mentionne le délai dans lequel le service d'adoption doit satisfaire aux dispositions non respectées, et peut contenir des conditions spécifiques afin de satisfaire aux dispositions non respectées.
+
+En cas de nécessité impérieuse ou si la réparation de l'infraction n'est plus possible, la mise en demeure visée à l'alinéa 1er peut être omise et il peut être procédé immédiatement à la suspension ou l'abrogation de l'autorisation.
+
+§ 2. Dans les cas suivants, l'agence peut suspendre, abroger l'autorisation du service d'agrément ou prendre des mesures administratives :
+
+1° le service d'adoption n'observe pas les dispositions du présent décret ou ses dispositions d'exécution, ou il existe une présomption grave que l'accompagnement de l'adoption ne se fait pas dans l'intérêt de l'enfant ou en cas de nécessité impérieuse ou si la réparation de l'infraction n'est plus possible ;
+
+2° le service d'adoption omet de donner la suite requise à la mise en demeure visée au paragraphe 1er ;
+
+3° le service d'adoption empêche le contrôle réglé par ou en vertu du présent décret.
+
+La suspension de l'autorisation entraîne de plein droit la suspension de l'exercice de l'accompagnement de l'adoption à partir du jour mentionné dans la décision de suspension jusqu'au moment où l'agence constate que le service d'adoption répond à nouveau aux conditions d'autorisation et au plus tard jusqu'à la date mentionnée dans la décision de suspension. Si, à la date de fin de la suspension, la cause de la mesure n'est pas éliminée, l'agence peut prolonger la suspension, abroger l'autorisation ou imposer une autre mesure administrative.
+
+Pendant la suspension, le Centre flamand de l'Adoption peut prendre des mesures pour conclure les dossiers d'adoption en cours et confier temporairement et partiellement les tâches visées aux articles 15 à 15/2 du présent décret au Point d'Appui à l'Adoption et au service d'adoption nationale visé à l'article 13 du décret adoption nationale du 3 juillet 2015. A cette fin, le service d'adoption transmet, à la demande du Centre flamand de l'Adoption, tous les dossiers d'adoption en cours et les contrats en cours avec des candidats adoptants ainsi que toutes les informations utiles relatives à la coopération actuelle avec les pays d'origine.
+
+L'abrogation de l'autorisation entraîne de plein droit la cessation de toutes les activités du service d'adoption et le transfert au Centre flamand de l'Adoption des dossiers et documents suivants :
+
+1° tous les dossiers d'adoption en cours ;
+
+2° les contrats en cours avec les candidats adoptants ;
+
+3° les informations et documents relatifs à la coopération actuelle avec les pays d'origine ;
+
+4° les informations archivées relatives aux dossiers d'adoption conclus et les documents relatifs à la coopération conclue avec les pays d'origine.
+
+Les mesures administratives sont des mesures temporaires, dans le cadre desquelles l'exercice de l'accompagnement de l'adoption n'est pas entièrement suspendu, sauf si l'agence, simultanément avec la mesure administrative, impose une suspension. Si, à la date de fin de la mesure administrative, la cause de la mesure n'est pas éliminée, l'agence peut prolonger la mesure ou imposer une autre mesure administrative ou abroger l'autorisation.
+
+§ 3. Les mesures administratives visées au paragraphe 2 peuvent consister :
+
+1° dans le fait d'imposer un soutien ou un accompagnement spécifique par un partenaire externe en termes d'organisation et de fonctionnement du service d'adoption afin de remédier aux manquements constatés. Le partenaire externe précité est désigné par le Centre flamand de l'Adoption ;
+
+2° dans le fait d'imposer, dans le chef des membres de l'équipe du service d'adoption, une formation spécifique pour renforcer les compétences et l'expertise en termes de contenu requises pour pouvoir réaliser des adoptions dans l'intérêt des enfants concernés ;
+
+3° en une interdiction de conclure de nouveaux contrats avec des candidats adoptants ;
+
+4° en une interdiction de développer ou d'exercer des activités dans un pays d'origine déterminé.
+
+§ 4. Dans la décision de prendre une mesure telle que visée au paragraphe 2, alinéa 1er, les éléments suivants sont décrits de manière transparente :
+
+1° le contenu de la mesure administrative ;
+
+2° les conditions qui doivent le cas échéant être remplies et le délai dans lequel elles doivent être remplies.
+
+Le cas échéant, l'agence peut mettre les frais de certaines mesures administratives intégralement ou partiellement à charge du service d'adoption.
+
+§ 5. Le Gouvernement flamand peut imposer des modalités pour la mise en demeure et la suspension ou l'abrogation de l'autorisation ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 18, 013; En vigueur : 20-07-2024&gt;
+
+### Section 4. [<sup>1</sup> Frais de l'accompagnement de l'adoption et subventionnement du service d'adoption ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 19, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 18
+
+[<sup>1</sup> L'accompagnement de l'adoption par le service d'adoption est gratuit. Le candidat adoptant peut uniquement être tenu de payer au service d'adoption ou au Centre flamand de l'Adoption les frais directement liés à son trajet d'adoption ou à payer au service d'adoption ou au Centre flamand de l'Adoption les frais liés aux obligations de suivi des pays d'origine.
+
+Le Gouvernement flamand arrête les modalités et les conditions relatives à la facturation des frais visée à l'alinéa 1er ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 20, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 19
+
+Il est octroyé [<sup>1</sup> au service d'adoption autorisé ]<sup>1</sup> les subventions suivantes :
+
+1° une subvention annuelle pour frais de personnel et de fonctionnement;
+
+2° une subvention annuelle pour frais de dossier.
+
+Le Gouvernement flamand arrête les modalités de subventionnement du service d'adoption.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 21, 013; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE 5. - Le Centre flamand de l'Adoption et le fonctionnaire flamand à l'adoption.
+
+#### Art. 20
+
+[<sup>1</sup> § 1er. Le Centre flamand de l'Adoption est la division désignée au sein de l'agence qui intervient comme autorité centrale en matière d'adoption internationale. Avec les services et les partenaires concernés, le Centre flamand de l'Adoption développe une vision et une politique soutenues sur tous les aspects de l'adoption internationale, y compris un cadre de coopération avec les pays d'origine, ainsi qu'un cadre pour les soins et l'accompagnement des familles adoptives, des parents d'origine et des adoptés.
+
+Le Centre flamand de l'Adoption intervient en tant que point d'information et d'orientation autour de l'adoption pour les adoptés, adoptants et parents d'origine.
+
+§ 2. Le Centre flamand de l'Adoption a les missions suivantes :
+
+1° dans le cadre de la préparation et de l'enregistrement :
+
+a) enregistrer les adoptants qui se présentent pour une adoption, renvoyer l'adoptant vers la préparation et l'enquête sociale ;
+
+b) le renvoi au service d'adoption autorisé du candidat adoptant dont l'aptitude à adopter a été constatée, conformément à l'article 1231-1/7 du Code judiciaire ;
+
+c) avec le Point d'Appui à l'Adoption et le service d'adoption autorisé, fournir des informations sur l'adoption au candidat adoptant et au parent d'origine ;
+
+d) la conservation des dossiers d'adoption ;
+
+2° dans le cadre de l'adoption internationale :
+
+a) effectuer un screening des pays d'origine afin d'entamer de nouvelles coopérations et évaluer les coopérations en cours dans le cadre des adoptions internationales, entre autres sur la base des avis des ambassades et consulats belges et des partenaires externes, en veillant à ce que l'intérêt de l'enfant soit la considération primordiale, que ses droits fondamentaux soient garantis et que les règles de droit des communautés, des autorités fédérales et internationales soient respectées ;
+
+b) conclure et évaluer des protocoles de coopération bilatérale dans le cadre des coopérations avec les pays d'origine, dans le respect et la considération des obligations et missions imposés par la Convention de La Haye ;
+
+c) exécuter les missions de l'autorité centrale compétente de la communauté, visée aux articles 361-3 à 361-6, 362-1 à 362-4, 363-2 à 363-4 et 368-6 à 368-8 de l'ancien Code civil ;
+
+d) dans le cadre d'une adoption internationale telle que visée à l'article 360-2, alinéa 1er, 1° et 3°, de l'ancien Code civil, transmettre le rapport et l'avis, visés à l'article 361-2/1 de l'ancien Code civil à l'autorité ou l'instance pour l'adoption compétente dans le pays d'origine et en informer le service d'adoption autorisé ;
+
+e) dans le cadre d'une adoption internationale telle que visée à l'article 360-2, alinéa 1er, 1° et 3°, de l'ancien Code civil, réceptionner les documents visés à l'article 361-3, 2°, et à l'article 361-5, 1° et 2°, de l'ancien Code civil qui proviennent du pays d'origine, contrôler leur exhaustivité, et sur cette base, contrôler l'adoptabilité juridique de l'enfant ;
+
+f) transmettre les documents visés au point e) en temps opportun au service d'adoption autorisé dans le cadre de ses missions ;
+
+g) accomplir les missions visées aux articles 4, 5, 7, 8, 9, 11, 15, 16, 17, 18, 19, 20, 21, 22, 30 et 33 de la Convention de La Haye ;
+
+h) établir et entretenir des contacts avec des autorités, instances et personnes dans les pays d'origine ayant des attributions en matière d'adoption ;
+
+i) élaborer ou appuyer des programmes nationaux ou étrangers qui soutiennent les objectifs de la Convention de La Haye et de la Convention internationale des Droits de l'Enfant adoptée à New York le 20 novembre 1989 ;
+
+j) conclure des accords de travail avec l'autorité centrale fédérale et les autorités en matière d'adoption des autres communautés, dans le cadre de ses missions visées dans l'ancien Code civil ;
+
+k) fournir des informations à des autorités, instances et services nationaux et internationaux sur la réglementation en matière d'adoption ;
+
+l) organiser la concertation annuelle avec le service d'adoption, visée à l'article 15, § 7, du présent décret ;
+
+3° dans le cadre des soins :
+
+a) en collaboration avec le Point d'Appui à l'Adoption, établir des réseaux entre des services et projets existants qui jouent un rôle pour les soins et l'adoption ;
+
+b) élaborer, en collaboration avec les services visés au point a), et les services de placement familial visés à l'article 7 du décret du 29 juin 2012 portant organisation du placement familial, une vision et politique globale du suivi post-adoptif ;
+
+4° dans le cadre de la politique des établissements :
+
+a) fournir des conseils à l'agence dans le cadre de l'agrément, l'autorisation et le subventionnement du service d'adoption, conformément au présent décret ;
+
+b) rendre avis d'initiative ou à la demande du Gouvernement flamand en matière d'initiatives et de projets spécifiques de suivi ;
+
+c) organiser une concertation structurelle entre tous les partenaires concernés sur le terrain ;
+
+d) exercer le contrôle sur le service d'adoption agréé et le service d'adoption autorisé.
+
+Dans le cadre de sa mission, visée à l'alinéa 1er, 2°, b) et h), le Centre flamand de l'Adoption implique le service d'adoption autorisé dans la préparation du protocole de coopération.
+
+Dans le cadre du rapportage, le Centre flamand de l'Adoption publie chaque année un rapport d'activité avant le 31 mai de l'année calendrier suivante. Ce rapport d'activité est transmis au Gouvernement flamand et au Parlement flamand.
+
+Le Gouvernement flamand peut arrêter les modalités du fonctionnement et des missions du Centre flamand de l'Adoption.
+
+§ 3. Dans le cadre de l'accomplissement de ses tâches, le Centre flamand de l'Adoption collabore avec des autorités, instances, institutions, services et associations actifs dans le domaine des tâches assignées et avec lesquels des accords de coopération sont conclus via l'agence.
+
+§ 4. Le Centre flamand de l'Adoption exécute les tâches mentionnées au paragraphe 2, dans la mesure où il s'agit de tâches d'exécution de la politique, en cohérence avec :
+
+1° la politique menée par d'autres domaines et niveaux politiques.
+
+2° la politique de la Communauté flamande en matière d'aide sociale, de santé et de protection de la jeunesse.
+
+Le Centre flamand de l'Adoption développe de l'expertise de terrain relative aux tâches visées au paragraphe 2. Dans cette optique, il a la possibilité d'arrêter des directives techniques contraignantes pour les organisations autorisées ou agréées par le présent décret, conformément au présent décret et à ses dispositions d'exécution et pour autantqu'il s'agisse de tâches de mise en oeuvre de la politique.
+
+Le Centre flamand de l'Adoption mettra à disposition ses connaissances et son expertise acquises, dans le cadre de l'application de l'article III.2, alinéa 3 du décret de gouvernance du 7 décembre 2018.
+
+Le Centre flamand de l'Adoption optimalise en permanence ses services et les modernise sur la base des développements actuels en matière de connaissance et d'expertise.
+
+§ 5. Sans préjudice de l'application du traitement des réclamations portant sur le fonctionnement et les services propres, visé dans le titre II, chapitre 5, du décret de gouvernance du 7 décembre 2018, l'agence recueille, traite et, éventuellement, sanctionne les réclamations contre des partenaires, y compris les parents. Le Gouvernement flamand arrête les modalités de l'imposition d'une sanction ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 22, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 20/1.
+
+[<sup>1</sup> Le Gouvernement flamand détermine les conséquences juridiques à l'égard des candidats adoptants si une coopération en matière d'adoption avec un pays d'origine est suspendue ou arrêtée, par le Centre flamand de l'Adoption ou non. Une des conséquences juridiques possibles est que les candidats adoptants sont repris sur une autre liste d'attente pour l'adoption internationale ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 23, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 21
+
+[<sup>1</sup> Un fonctionnaire flamand à l'adoption est nommé au sein du Centre flamand de l'Adoption.
+
+Le fonctionnaire flamand à l'adoption est chargé des tâches suivantes :
+
+1° assumer la direction, le fonctionnement et la représentation généraux du Centre flamand de l'Adoption conformément à la mission et aux objectifs du Centre flamand de l'Adoption, visés à l'article 20 ;
+
+2° exercer des pouvoirs de décision comme visé à l'article 17, b) et c), de la Convention de La Haye.
+
+Le Gouvernement flamand peut arrêter des modalités pour le profil, la fonction de mandat et l'ensemble des tâches du fonctionnaire flamand à l'adoption. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 24, 013; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE 6.
+
+&lt;Abrogé par DCFL 2024-05-17/28, art. 25, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 22
+
+&lt;Abrogé par DCFL 2024-05-17/28, art. 25, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 23
+
+&lt;Abrogé par DCFL 2024-05-17/28, art. 25, 013; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE 7.
+
+&lt;Abrogé par DCFL 2024-05-17/28, art. 26, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 24
+
+&lt;Abrogé par DCFL 2024-05-17/28, art. 26, 013; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE 8. - Le droit de consultation
+
+#### Art. 25
+
+[<sup>1</sup> § 1er. Tout adopté a le droit d'être informé sur son origine et sur son adoption. Si l'adopté est mineur, le contenu des informations fournies est adapté à son âge et à sa maturité.
+
+§ 2. Dès l'âge de douze ans, l'adopté a le droit de consulter son dossier d'adoption tel que visé au paragraphe 3.
+
+Si l'adopté est mineur, la consultation a lieu sous accompagnement professionnel d'un collaborateur du service d'adoption ou centre de filiation et en présence de son parent, tuteur ou d'une personne de confiance majeure.
+
+§ 3. [<sup>3</sup> L'adopté a le droit de consulter :
+
+1° les pièces visées à l'article 361-3, 2°, a) et b), de l'ancien Code civil ;
+
+2° les documents relatifs à la procédure judiciaire et administrative par laquelle l'adoption est réalisée ;
+
+3° les documents concernant le suivi.
+
+L'adopté a, par ailleurs, accès à la partie du dossier contenant les données au sujet de l'adoptant qui concernent la motivation de l'adoption, les raisons de l'acceptation du candidat adoptant et la raison du placement chez l'adoptant]<sup>3</sup>.
+
+§ 4. L'adopté a droit à des explications sur les données de son dossier d'adoption. Si certaines données concernent également un tiers et qu'une consultation complète des données par l'adopté risque de porter atteinte au droit dudit tiers à la protection de sa vie privée, l'accès à ces données est accordé par le biais d'un entretien, d'une consultation partielle ou d'un rapport.
+
+§ 5. L'adopté introduit sa demande de consultation par écrit auprès du centre de filiation. Le centre de filiation enregistre la demande et envoie, dans le mois suivant la date de la demande, un accusé de réception au demandeur l'informant de la suite du déroulement de la demande.
+
+L'accès peut être accordé, au choix de l'adopté, par le centre de filiation, le Centre flamand de l'Adoption ou le service d'adoption qui a réalisé l'adoption.
+
+Si l'accès est accordé par le centre de filiation, le Centre flamand de l'Adoption ou le service d'adoption transmet dans les plus brefs délais une copie des pièces du dossier d'adoption au centre de filiation. Le centre de filiation collabore étroitement, lors de tout accès qu'il accorde, avec le Centre flamand de l'Adoption et avec le service d'adoption qui a réalisé l'adoption.
+
+§ 6. L'accès est accordé dans le mois suivant l'envoi par le centre de filiation d'un accusé de réception au demandeur.
+
+Le délai visé à l'alinéa 1er ne s'applique pas si le service d'adoption ou le Centre flamand de l'Adoption n'est pas en possession du dossier d'adoption et qu'il faut continuer à vérifier où se trouvent les pièces relatives à l'adoption. L'adopté en est informé. Si seul un nombre limité de pièces relatives à l'adoption est disponible, l'accès à ces pièces est déjà accordé.
+
+§ 7. Si la notification de certaines données du dossier risque de porter atteinte à l'intégrité physique ou psychique d'une tierce personne, l'instance qui accorde l'accès contacte la personne concernée pour l'informer de la demande d'accès et vérifier quelles informations peuvent être fournies à l'adopté. Dans l'impossibilité de contacter la personne concernée, l'instance qui accorde l'accès met en balance les différents intérêts avant de décider si, comment et dans quelle mesure l'adopté peut être mis au courant de ces informations. Cette mise en balance est décrite et conservée dans le dossier d'adoption.
+
+§ 8. Tout adopté peut demander au centre de filiation de demander de plus amples informations à son sujet. Le centre de filiation collabore à cet effet avec le Centre flamand de l'Adoption et avec le service d'adoption qui a réalisé l'adoption. A cet égard, on explore la possibilité de demander des informations supplémentaires via les autorités compétentes ou les personnes de contact dans le pays d'origine. Le cas échéant, le centre de filiation renvoie l'adopté vers les personnes, services ou organismes susceptibles de lui fournir de plus amples informations.
+
+Le centre de filiation est autorisé à demander, au nom de l'adopté, toutes informations ou pièces relatives à sa filiation et à son adoption auprès de toute instance qui en dispose.
+
+§ 9. L'adopté désireux de contacter des membres de sa famille biologique peut solliciter l'assistance du centre de filiation à cet effet. Le centre de filiation collabore à cet effet avec le Centre flamand de l'Adoption ou avec le service d'adoption qui a réalisé l'adoption. Le centre de filiation vérifie si un contact est possible et de quelle manière ce contact peut être établi. Le cas échéant, il renvoie vers d'autres services ou organismes, en Belgique ou à l'étranger, susceptibles d'aider l'adopté à établir le contact.
+
+§ 10. Les parents d'origine et les parents biologiques jusqu'au troisième degré de l'adopté ont droit à des informations générales et non identifiantes au sujet de l'adopté.
+
+Si les demandeurs désirent des informations plus concrètes permettant l'identification de l'adopté ou des membres de sa famille, cela n'est possible qu'après consentement exprès et éclairé de l'adopté et, s'il est encore mineur, des adoptants. Le consentement exprès et éclairé de l'adopté mineur est requis s'il possède la maturité nécessaire et toujours à partir de l'âge de douze ans.
+
+§ 11. Le Gouvernement flamand peut fixer les modalités de l'exercice du droit d'accès et les modalités d'assistance, par le centre de filiation, de l'adopté désireux d'obtenir de plus amples informations à son sujet ou de contacter des membres de sa famille biologique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-26/29, art. 42, 011; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 11, 012; En vigueur : 28-06-2021&gt;
+
+(3)&lt;DCFL 2025-12-19/57, art. 11, 014; En vigueur : 09-01-2026&gt;
+
+## CHAPITRE 9. - Le contrôle
+
+#### Art. 26
+
+§ 1er. Le Centre flamand de l'Adoption exerce le contrôle du respect des dispositions du présent décret. Le Point d'Appui à l'Adoption, les services d'enquête sociale, [<sup>2</sup> le service]<sup>2</sup> d'adoption e[<sup>4</sup> ...]<sup>4</sup> coopèrent à l'exercice du contrôle.
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. Le Gouvernement flamand peut fixer des règles comptables.
+
+§ 4. Le Gouvernement flamand peut arrêter les modalités relatives au contrôle et à la compétence du Centre flamand de l'Adoption.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/31, art. 3, 004; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2018-03-16/04, art. 14, 008; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCFL 2018-01-19/09, art. 30, 009; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCFL 2024-05-17/28, art. 27, 013; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE 10. - Dispositions pénales
+
+#### Art. 27
+
+§ 1er.[<sup>1</sup>§ 1er. Toute personne ou organisation qui se profile en tant que service d'adoption et qui accomplit en cette qualité des missions comme visé à l'article 15 ou 15/2 sans détenir l'autorisation requise est sanctionnée d'une peine de prison d'un à cinq ans et d'une amende de 12,50 euros à 620 euros ]<sup>1</sup>.
+
+§ 2. Toute personne qui obtient un profit matériel illicite comme intermédiaire d'une adoption, ou qui, sciemment, a aidé une personne à commettre cette infraction, est sanctionnée d'une peine de prison d'un mois à un an et d'une amende de 2,5 euros à 25 euros ou de l'une de ces deux peines.
+
+§ 3.[<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. Toute personne en possession d'un dossier d'adoption d'un tiers, qui n'a pas remis ce dossier au Centre flamand de l'Adoption après l'entrée en vigueur du présent décret, est passible d'une peine de prison d'un mois ou d'une amende de 2,5 euros à 25 euros.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/28, art. 28, 013; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE 10/1. [<sup>1</sup> Coopération, confidentialité, traitement et protection des données à caractère personnel ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/28, art. 29, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 27/1.
+
+[<sup>1</sup> § 1er. Le Centre flamand de l'Adoption traite, aux fins de l'exécution du présent décret et de ses arrêtés d'exécution, des données à caractère personnel du candidat adoptant, de l'adopté et du parent d'origine, et plus particulièrement :
+
+1° pour la tâche visée à l'article 20, § 2, alinéa 1er, 1°, a), du présent décret : données d'identification du candidat adoptant ;
+
+2° pour les tâches visées à l'article 20, § 2, alinéa 1er, 1°, b), et 2°, d), du présent décret : les catégories suivantes de données à caractère personnel du candidat adoptant :
+
+a) données d'identification ;
+
+b) données relatives à la situation socio-économique et aux activités professionnelles ;
+
+c) caractéristiques personnelles ;
+
+d) données relatives aux loisirs et centres d'intérêt ;
+
+e) capacités socio-psychologiques ;
+
+f) caractéristiques du logement ;
+
+g) données physiques ;
+
+h) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+i) données relatives au mariage actuel ou précédent ou à la forme de cohabitation ;
+
+j) données relatives à l'emploi actuel ;
+
+k) données relatives à la carrière ;
+
+l) données relatives à l'organisation du travail ;
+
+m) données relatives à la santé physique ou mentale ;
+
+n) illustrations ;
+
+o) données raciales ou ethniques ;
+
+p) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+q) données sur le niveau d'éducation ;
+
+r) données relatives aux connaissances linguistiques ;
+
+s) données relatives à la capacité légale, aux motivations, conceptions et attentes concernant l'adoption ;
+
+t) données judiciaires telles que visées à l'article 10 du règlement général sur la protection des données, dans la mesure où celles-ci résultent de l'enquête de moralité visée à l'article 1231-1/5 du Code judiciaire ;
+
+u) données relatives aux convictions philosophiques ou religieuses ;
+
+v) numéro de Registre national ;
+
+3° pour les tâches visées à l'article 20, § 2, alinéa 1er, 2°, e) et f), du présent décret : les catégories suivantes de données à caractère personnel :
+
+a) de l'adopté :
+
+1\) données d'identification ;
+
+2\) caractéristiques personnelles ;
+
+3\) détails sur les autres membres de la famille ou du ménage ;
+
+4\) données relatives aux loisirs et centres d'intérêt ;
+
+5\) caractéristiques du logement ;
+
+6\) données physiques ;
+
+7\) capacités socio-psychologiques ;
+
+8\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9\) données relatives à la forme de cohabitation précédente et actuelle ;
+
+10\) données relatives à la santé physique ou mentale ;
+
+11\) illustrations ;
+
+12\) prises de vue ;
+
+13\) données raciales ou ethniques ;
+
+14\) données relatives au cursus scolaire ;
+
+15\) données relatives aux connaissances linguistiques ;
+
+16\) numéro de Registre national ;
+
+17\) données relatives aux convictions philosophiques ou religieuses ;
+
+18\) données relatives aux événements traumatisants ou exceptionnels ;
+
+b) du parent d'origine :
+
+1\) données d'identification ;
+
+2\) données relatives au mariage ou à la forme actuelle de cohabitation ;
+
+3\) données sur le niveau d'éducation ;
+
+4\) caractéristiques personnelles ;
+
+5\) données raciales ou ethniques ;
+
+6\) données relatives aux événements traumatisants ou exceptionnels ;
+
+7\) données relatives aux loisirs et centres d'intérêt ;
+
+8\) données relatives à l'emploi actuel ;
+
+9\) données relatives à la carrière ;
+
+10\) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+11\) données relatives aux convictions philosophiques ou religieuses ;
+
+12\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+13\) illustrations ;
+
+14\) prises de vue ;
+
+4° pour les tâches visées à l'article 20, § 2, alinéa 1er, 1°, d), et 2°, c), g) et i), du présent décret : les catégories suivantes de données à caractère personnel :
+
+a) du candidat adoptant :
+
+1\) données d'identification ;
+
+2\) données relatives à la situation socio-économique et aux activités professionnelles ;
+
+3\) caractéristiques personnelles ;
+
+4\) données relatives aux loisirs et centres d'intérêt ;
+
+5\) capacités socio-psychologiques ;
+
+6\) caractéristiques du logement ;
+
+7\) données physiques ;
+
+8\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9\) données relatives au mariage actuel ou précédent ou à la forme de cohabitation ;
+
+10\) données relatives à l'emploi actuel ;
+
+11\) données relatives à la carrière ;
+
+12\) données relatives à l'organisation du travail ;
+
+13\) données relatives à la santé physique ou mentale ;
+
+14\) illustrations ;
+
+15\) données raciales ou ethniques ;
+
+16\) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+17\) données sur le niveau d'éducation ;
+
+18\) données relatives aux connaissances linguistiques ;
+
+19\) données relatives à la capacité légale, aux motivations, conceptions et attentes concernant l'adoption ;
+
+20\) données judiciaires telles que visées à l'article 10 du règlement général sur la protection des données, dans la mesure où celles-ci résultent de l'enquête de moralité visée à l'article 1231-1/5 du Code judiciaire ;
+
+21\) données relatives aux convictions philosophiques ou religieuses ;
+
+22\) numéro de Registre national ;
+
+b) de l'adopté :
+
+1\) données d'identification ;
+
+2\) caractéristiques personnelles ;
+
+3\) détails sur les autres membres de la famille ou du ménage ;
+
+4\) données relatives aux loisirs et centres d'intérêt ;
+
+5\) caractéristiques du logement ;
+
+6\) données physiques ;
+
+7\) capacités socio-psychologiques ;
+
+8\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9\) données relatives à la forme de cohabitation précédente et actuelle ;
+
+10\) données relatives à la santé physique ou mentale ;
+
+11\) illustrations ;
+
+12\) prises de vue ;
+
+13\) données raciales ou ethniques ;
+
+14\) données relatives au cursus scolaire ;
+
+15\) données relatives aux connaissances linguistiques ;
+
+16\) numéro de Registre national ;
+
+17\) données relatives aux convictions philosophiques ou religieuses ;
+
+18\) données relatives aux événements traumatisants ou exceptionnels ;
+
+c) du parent d'origine :
+
+1\) données d'identification ;
+
+2\) données relatives au mariage ou à la forme actuelle de cohabitation ;
+
+3\) données sur le niveau d'éducation ;
+
+4\) caractéristiques personnelles ;
+
+5\) données raciales ou ethniques ;
+
+6\) données relatives aux événements traumatisants ou exceptionnels ;
+
+7\) données relatives aux loisirs et centres d'intérêt ;
+
+8\) données relatives à l'emploi actuel ;
+
+9\) données relatives à la carrière ;
+
+10\) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+11\) données relatives aux convictions philosophiques ou religieuses ;
+
+12\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+13\) illustrations ;
+
+14\) prises de vue.
+
+Le traitement visé à l'alinéa 1er s'effectue conformément à l'article 6, alinéa 1er, c) et e), et à l'article 9, alinéa 2, g), du règlement général sur la protection des données. Le Centre flamand de l'Adoption est responsable du traitement comme visé à l'article 4, 7), du règlement précité, pour les données à caractère personnel qu'il traite.
+
+L'accès aux données est limité au fonctionnaire flamand à l'adoption et aux membres du personnel du Centre flamand de l'Adoption directement impliqués dans les missions relatives à l'enregistrement des adoptants qui se présentent pour une adoption et à l'orientation vers la préparation, l'enquête sociale et le service d'adoption, les missions relatives à la conservation des dossiers d'adoption, les demandes d'information, de recherche ou relatives à la filiation de l'adopté ou du parent d'origine, les missions qui découlent des tâches en tant qu'autorité centrale conformément à la Convention de La Haye ainsi que la mission de contrôle de l'exhaustivité du dossier de l'enfant et de l'adoptabilité juridique de celui-ci. Le candidat adoptant, l'adopté et le parent d'origine dont les données à caractère personnel sont traitées peuvent également accéder à leurs données, conformément à l'article 15 du règlement général sur la protection des données.
+
+Les dossiers d'adoption qui aboutissent à une décision d'adoption et qui contiennent les données à caractère personnel visées à l'alinéa 1er, 4°, sont conservés à perpétuité par le Centre flamand de l'Adoption.
+
+Les dossiers d'adoption qui n'aboutissent pas à une décision d'adoption sont conservés durant sept ans, le délai de conservation commençant à courir à partir de l'arrêt du trajet d'adoption.
+
+§ 2. Le service d'adoption traite, aux fins de l'exécution du présent décret et de ses arrêtés d'exécution, des données à caractère personnel du candidat adoptant, de l'adopté et du parent d'origine, et plus particulièrement :
+
+1° pour la tâche visée à l'article 15, § 2, 2°, du présent décret : données d'identification du candidat adoptant ;
+
+2° pour la tâche visée à l'article 15, § 4, 6°, du présent décret : les données d'identification du candidat adoptant et de l'adopté ;
+
+3° pour les missions visées à l'article 15, § 2, 3°, à l'article 15, § 3, 1° et 2°, et à l'article 15, § 4, 3°, du présent décret : les catégories suivantes de données à caractère personnel du candidat adoptant :
+
+a) données d'identification ;
+
+b) données relatives à la situation socio-économique et aux activités professionnelles ;
+
+c) caractéristiques personnelles ;
+
+d) données relatives aux loisirs et centres d'intérêt ;
+
+e) capacités socio-psychologiques ;
+
+f) caractéristiques du logement ;
+
+g) données physiques ;
+
+h) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+i) données relatives au mariage actuel ou précédent ou à la forme de cohabitation ;
+
+j) données relatives à l'emploi actuel ;
+
+k) données relatives à la carrière ;
+
+l) données relatives à l'organisation du travail ;
+
+m) données relatives à la santé physique ou mentale ;
+
+n) illustrations ;
+
+o) données raciales ou ethniques ;
+
+p) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+q) données sur le niveau d'éducation ;
+
+r) données relatives aux connaissances linguistiques ;
+
+s) données relatives à la capacité légale, aux motivations, conceptions et attentes concernant l'adoption ;
+
+t) données judiciaires telles que visées à l'article 10 du règlement général sur la protection des données, dans la mesure où celles-ci résultent de l'enquête de moralité visée à l'article 1231-1/5 du Code judiciaire ;
+
+u) données relatives aux convictions philosophiques ou religieuses ;
+
+v) numéro de Registre national ;
+
+4° pour les missions visées à l'article 15, § 3, 3° et 4°, à l'article 15, § 4, 2° et 4°, à l'article 15, § 5, 1°, et à l'article 15/2, du présent décret : les catégories suivantes de données à caractère personnel :
+
+a) du candidat adoptant :
+
+1\) données d'identification ;
+
+2\) données relatives à la situation socio-économique et aux activités professionnelles ;
+
+3\) caractéristiques personnelles ;
+
+4\) données relatives aux loisirs et centres d'intérêt ;
+
+5\) capacités socio-psychologiques ;
+
+6\) caractéristiques du logement ;
+
+7\) données physiques ;
+
+8\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9\) données relatives au mariage actuel ou précédent ou à la forme de cohabitation ;
+
+10\) données relatives à l'emploi actuel ;
+
+11\) données relatives à la carrière ;
+
+12\) données relatives à l'organisation du travail ;
+
+13\) données relatives à la santé physique ou mentale ;
+
+14\) illustrations ;
+
+15\) données raciales ou ethniques ;
+
+16\) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+17\) données sur le niveau d'éducation ;
+
+18\) données relatives aux connaissances linguistiques ;
+
+19\) données relatives à la capacité légale, aux motivations, conceptions et attentes concernant l'adoption ;
+
+20\) données judiciaires telles que visées à l'article 10 du règlement général sur la protection des données, dans la mesure où celles-ci résultent de l'enquête de moralité visée à l'article 1231-1/5 du Code judiciaire ;
+
+21\) données relatives aux convictions philosophiques ou religieuses ;
+
+22\) numéro de Registre national ;
+
+b) de l'adopté :
+
+1\) données d'identification ;
+
+2\) caractéristiques personnelles ;
+
+3\) détails sur les autres membres de la famille ou du ménage ;
+
+4\) données relatives aux loisirs et centres d'intérêt ;
+
+5\) caractéristiques du logement ;
+
+6\) données physiques ;
+
+7\) capacités socio-psychologiques ;
+
+8\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9\) données relatives à la forme de cohabitation précédente et actuelle ;
+
+10\) données relatives à la santé physique ou mentale ;
+
+11\) illustrations ;
+
+12\) prises de vue ;
+
+13\) données raciales ou ethniques ;
+
+14\) données relatives au cursus scolaire ;
+
+15\) données relatives aux connaissances linguistiques ;
+
+16\) numéro de Registre national ;
+
+17\) données relatives aux convictions philosophiques ou religieuses ;
+
+18\) données relatives aux événements traumatisants ou exceptionnels.
+
+c) du parent d'origine :
+
+1\) données d'identification ;
+
+2\) données relatives au mariage ou à la forme actuelle de cohabitation ;
+
+3\) données sur le niveau d'éducation ;
+
+4\) caractéristiques personnelles ;
+
+5\) données raciales ou ethniques ;
+
+6\) données relatives aux événements traumatisants ou exceptionnels ;
+
+7\) données relatives aux loisirs et centres d'intérêt ;
+
+8\) données relatives à l'emploi actuel ;
+
+9\) données relatives à la carrière ;
+
+10\) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+11\) données relatives aux convictions philosophiques ou religieuses ;
+
+12\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+13\) illustrations ;
+
+14\) prises de vue ;
+
+5° pour la tâche visée à l'article 15, § 5, 2°, du présent décret : les données d'identification de l'adopté ;
+
+6° pour les missions visées à l'article 15, § 4, 7°, et à l'article 15, § 6, du présent décret : les catégories suivantes de données à caractère personnel :
+
+a) de l'adopté :
+
+1\) données d'identification ;
+
+2\) caractéristiques personnelles ;
+
+3\) détails sur les autres membres de la famille ou du ménage ;
+
+4\) données relatives aux loisirs et centres d'intérêt ;
+
+5\) caractéristiques du logement ;
+
+6\) données physiques ;
+
+7\) capacités socio-psychologiques ;
+
+8\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9\) données relatives à la forme de cohabitation précédente et actuelle ;
+
+10\) données relatives à la santé physique ou mentale ;
+
+11\) illustrations ;
+
+12\) prises de vue ;
+
+13\) données raciales ou ethniques ;
+
+14\) données relatives au cursus scolaire ;
+
+15\) données relatives aux connaissances linguistiques ;
+
+16\) numéro de Registre national ;
+
+17\) données relatives aux convictions philosophiques ou religieuses ;
+
+18\) données relatives aux événements traumatisants ou exceptionnels ;
+
+b) du parent d'origine :
+
+1\) données d'identification ;
+
+2\) données relatives au mariage ou à la forme actuelle de cohabitation ;
+
+3\) données sur le niveau d'éducation ;
+
+4\) caractéristiques personnelles ;
+
+5\) données raciales ou ethniques ;
+
+6\) données relatives aux événements traumatisants ou exceptionnels ;
+
+7\) données relatives aux loisirs et centres d'intérêt ;
+
+8\) données relatives à l'emploi actuel ;
+
+9\) données relatives à la carrière ;
+
+10\) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+11\) données relatives aux convictions philosophiques ou religieuses ;
+
+12\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+13\) illustrations ;
+
+14\) prises de vue ;
+
+7° pour la tâche visée à l'article 15, § 7 du présent décret : les catégories suivantes de données à caractère personnel :
+
+a) du candidat adoptant :
+
+1\) données d'identification ;
+
+2\) données relatives à la situation socio-économique et aux activités professionnelles ;
+
+3\) caractéristiques personnelles ;
+
+4\) données relatives aux loisirs et centres d'intérêt ;
+
+5\) capacités socio-psychologiques ;
+
+6\) caractéristiques du logement ;
+
+7\) données physiques ;
+
+8\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9\) données relatives au mariage actuel ou précédent ou à la forme de cohabitation ;
+
+10\) données relatives à l'emploi actuel ;
+
+11\) données relatives à la carrière ;
+
+12\) données relatives à l'organisation du travail ;
+
+13\) données relatives à la santé physique ou mentale ;
+
+14\) illustrations ;
+
+15\) données raciales ou ethniques ;
+
+16\) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+17\) données sur le niveau d'éducation ;
+
+18\) données relatives aux connaissances linguistiques ;
+
+19\) données relatives à la capacité légale, aux motivations, conceptions et attentes concernant l'adoption ;
+
+20\) données judiciaires telles que visées à l'article 10 du règlement général sur la protection des données, dans la mesure où celles-ci résultent de l'enquête de moralité visée à l'article 1231-1/5 du Code judiciaire ;
+
+21\) données relatives aux convictions philosophiques ou religieuses ;
+
+22\) numéro de Registre national ;
+
+b) de l'adopté :
+
+1\) données d'identification ;
+
+2\) caractéristiques personnelles ;
+
+3\) détails sur les autres membres de la famille ou du ménage ;
+
+4\) données relatives aux loisirs et centres d'intérêt ;
+
+5\) caractéristiques du logement ;
+
+6\) données physiques ;
+
+7\) capacités socio-psychologiques ;
+
+8\) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9\) données relatives à la forme de cohabitation précédente et actuelle ;
+
+10\) données relatives à la santé physique ou mentale ;
+
+11\) illustrations ;
+
+12\) prises de vue ;
+
+13\) données raciales ou ethniques ;
+
+14\) données relatives au cursus scolaire ;
+
+15\) données relatives aux connaissances linguistiques ;
+
+16\) numéro de Registre national ;
+
+17\) données relatives aux convictions philosophiques ou religieuses ;
+
+18\) données relatives aux événements traumatisants ou exceptionnels.
+
+Le traitement visé à l'alinéa 1er s'effectue conformément à l'article 6, alinéa 1er, c) et e), et à l'article 9, alinéa 2, g), du règlement général sur la protection des données. Le service d'adoption est responsable du traitement comme visé à l'article 4, 7), du règlement précité, pour les données à caractère personnel qu'il traite.
+
+L'accès aux données est limité au responsable du service, aux responsables nationaux qui sont directement impliqués dans les missions relatives à la coopération internationale avec le Centre flamand de l'Adoption, à la constitution des dossiers pour le pays d'origine, au soutien procédural et administratif du candidat adoptant et de l'adopté et à l'émission d'avis sur les besoins de l'enfant et le matching qui s'ensuit, comme précisé à l'article 15, § 2, § 3, § 5 et § 6, au médecin et au juriste qui doivent le cas échéant fournir des avis médicaux ou juridiques et aux psychologues et assistants sociaux qui sont chargés des missions relatives à la préparation, aux soins et à l''accompagnement précisées à l'article 15, § 2, et § 4. Le candidat adoptant, l'adopté et le parent d'origine dont les données à caractère personnel sont traitées peuvent également accéder à leurs données, conformément à l'article 15 du règlement général sur la protection des données.
+
+Les données à caractère personnel qui sont traitées par le service d'adoption sont conservées jusqu'au moment où l'adopté a atteint l'âge de dix-huit ans. Les données à caractère personnel dans les dossiers qui n'aboutissent pas à une décision d'adoption, sont conservées durant sept ans à partir de l'arrêt du trajet d'adoption. Dans le cadre de la durée de conservation de sept ans, les données à caractère personnel sont, là où cela est possible, pseudonymisées.
+
+§ 3. Le service d'enquête sociale visé à l'article 11, § 1, du présent décret traite, en exécution de la tâche visée à l'article 10 du présent décret et en exécution de l'enquête sociale visée à l'article 1231-1/4 et 1231-1/11 du Code judiciaire, les catégories suivantes de données à caractère personnel du candidat adoptant :
+
+1° données d'identification ;
+
+2° données relatives aux ressources financières et aux activités professionnelles ;
+
+3° caractéristiques personnelles ;
+
+4° données relatives aux loisirs et centres d'intérêt ;
+
+5° capacités socio-psychologiques ;
+
+6° caractéristiques du logement ;
+
+7° données physiques ;
+
+8° données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+9° données relatives au mariage actuel, au mariage précédent ou à la forme de cohabitation ;
+
+10° données relatives à l'emploi actuel ;
+
+11° données relatives à la carrière ;
+
+12° données relatives à l'organisation du travail ;
+
+13° données relatives à la santé physique ou mentale ;
+
+14° données raciales ou ethniques ;
+
+15° données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+16° données sur le niveau d'éducation ;
+
+17° données relatives aux connaissances linguistiques ;
+
+18° données relatives à la capacité légale, aux motivations, conceptions et attentes concernant l'adoption ;
+
+19° données judiciaires telles que visées à l'article 10 du règlement général sur la protection des données, dans la mesure où celles-ci résultent de l'enquête de moralité visée à l'article 1231-1/5 du Code judiciaire ;
+
+20° données relatives aux convictions philosophiques ou religieuses ;
+
+21° numéro de Registre national.
+
+Le traitement visé à l'alinéa 1er s'effectue conformément à l'article 6, alinéa 1er, c) et e), et à l'article 9, alinéa 2, g), du règlement général sur la protection des données. Le service d'enquête sociale visé à l'article 11, § 1er, du présent décret est responsable du traitement tel que visé à l'article 4, 7), du règlement précité.
+
+L'accès aux données est limité au coordinateur du service et aux membres de l'équipe multidisciplinaire qui sont directement impliqués dans les missions relatives à l'enquête sociale ordonnée par le tribunal de la famille. Le candidat adoptant dont les données à caractère personnel sont traitées peut également accéder à ses données, conformément à l'article 15 du règlement général sur la protection des données.
+
+Les données sont conservées pendant sept ans à partir de la date à laquelle le rapport de l'enquête sociale est transmis au Centre flamand de l'Adoption. Lorsque cela est possible, ces données sont pseudonymisées.
+
+§ 4. Le Comité d'avis adoption internationale, visé à l'article 15/1 du présent décret, traite les catégories de données à caractère personnel suivantes lorsque le traitement est nécessaire afin d'exécuter la tâche visée à l'article 15/1, § 1, 1°, et à l'article 15/2 du présent décret :
+
+1° du candidat adoptant :
+
+a) données d'identification ;
+
+b) données relatives aux ressources financières et aux activités professionnelles ;
+
+c) caractéristiques personnelles ;
+
+d) données relatives aux loisirs et centres d'intérêt ;
+
+e) capacités socio-psychologiques ;
+
+f) caractéristiques du logement ;
+
+g) données physiques ;
+
+h) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+i) données relatives au mariage actuel ou précédent ou à la forme de cohabitation ;
+
+j) données relatives à l'emploi actuel ;
+
+k) données relatives à la carrière ;
+
+l) données relatives à l'organisation du travail ;
+
+m) données relatives à la santé physique ou mentale ;
+
+n) illustrations ;
+
+o) données raciales ou ethniques ;
+
+p) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+q) données sur le niveau d'éducation ;
+
+r) données relatives aux connaissances linguistiques ;
+
+s) données relatives à la capacité légale à adopter ;
+
+t) données judiciaires telles que visées à l'article 10 du règlement général sur la protection des données, dans la mesure où celles-ci résultent de l'enquête de moralité visée à l'article 1231-1/5 du Code judiciaire ;
+
+u) données relatives aux convictions philosophiques ou religieuses ;
+
+v) numéro de Registre national ;
+
+w) données relatives aux événements traumatisants ou exceptionnels ;
+
+2° de l'adopté
+
+a) données d'identification ;
+
+b) caractéristiques personnelles ;
+
+c) détails sur les autres membres de la famille ou du ménage ;
+
+d) données relatives aux loisirs et centres d'intérêt ;
+
+e) caractéristiques du logement ;
+
+f) données physiques ;
+
+g) capacités socio-psychologiques ;
+
+h) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+i) données relatives à la forme de cohabitation précédente et actuelle ;
+
+j) données relatives à la santé physique ou mentale ;
+
+k) illustrations ;
+
+l) prises de vue ;
+
+m) données raciales ou ethniques ;
+
+n) données relatives au cursus scolaire ;
+
+o) données relatives aux connaissances linguistiques ;
+
+p) numéro de Registre national ;
+
+q) données relatives aux convictions philosophiques ou religieuses ;
+
+r) données relatives aux événements traumatisants ou exceptionnels ;
+
+3° du parent d'origine :
+
+a) données d'identification ;
+
+b) données relatives au mariage ou à la forme actuelle de cohabitation ;
+
+c) données sur le niveau d'éducation ;
+
+d) caractéristiques personnelles ;
+
+e) données raciales ou ethniques ;
+
+f) données relatives aux événements traumatisants ou exceptionnels ;
+
+g) données relatives aux loisirs et centres d'intérêt ;
+
+h) données relatives à l'emploi actuel ;
+
+i) données relatives à la carrière ;
+
+j) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+k) données relatives aux convictions philosophiques ou religieuses ;
+
+l) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+m) illustrations.
+
+Dans le cadre de la mission visée à l'article 15/1, § 1er, 2°, du présent décret, les données à caractère personnel visées à l'alinéa 1er sont pseudonymisées.
+
+Dans le cadre de la publication des avis qui résultent de l'article 15/1, § 1er, 2°, du présent décret, les données d'identification et les données relatives à l'emploi actuel des membres du Comité d'avis, ainsi que des experts indépendants concernés, des représentants du secteur du placement familial et des représentants de parents adoptifs ou d'adoptés sont traitées.
+
+L'accès aux données est limité aux membres du Comité d'avis adoption internationale qui siègent au moment de la demande d'avis concrète et qui sont directement impliqués dans la délivrance d'avis dans des dossiers d'adoption concrets, conformément à l'article 15/2 du présent décret. Le candidat adoptant, l'adopté et le parent d'origine dont les données à caractère personnel sont traitées peuvent également accéder à leurs données, conformément à l'article 15 du règlement général sur la protection des données.
+
+Le traitement de données à caractère personnel s'effectue conformément à l'article 6, alinéa 1er, c) et e), et à l'article 9, alinéa 2, g), du règlement général sur la protection des données. Le Centre flamand de l'Adoption est responsable du traitement comme visé à l'article 4, 7), du règlement précité.
+
+Les données sont conservées jusqu'à un an après que le Comité d'avis adoption internationale, visé à l'article 15/1, a rendu son avis au Centre flamand de l'Adoption.
+
+§ 5. Le Point d'Appui à l'Adoption peut, aux fins de l'exécution de la mission visée à l'article 7, § 2, 7°, du présent décret, traiter les catégories suivantes de données à caractère personnel :
+
+1° du candidat adoptant :
+
+a) données d'identification ;
+
+b) données relatives au mariage ou à la forme actuelle de cohabitation ;
+
+c) caractéristiques personnelles ;
+
+d) données relatives aux événements traumatisants ou exceptionnels ;
+
+e) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+f) données relatives aux convictions philosophiques ou religieuses ;
+
+2° de l'adopté :
+
+a) données d'identification ;
+
+b) données relatives au mariage ou à la forme actuelle de cohabitation ;
+
+c) données sur le niveau d'éducation ;
+
+d) caractéristiques personnelles ;
+
+e) données raciales ou ethniques ;
+
+f) données relatives aux événements traumatisants ou exceptionnels ;
+
+g) données relatives aux loisirs et centres d'intérêt ;
+
+h) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+i) données relatives aux convictions philosophiques ou religieuses ;
+
+j) données relatives aux habitudes, au style de vie et aux contacts sociaux ;
+
+3° du parent d'origine :
+
+a) données d'identification ;
+
+b) données relatives au mariage ou à la forme actuelle de cohabitation ;
+
+c) données sur le niveau d'éducation ;
+
+d) caractéristiques personnelles ;
+
+e) données raciales ou ethniques ;
+
+f) données relatives aux événements traumatisants ou exceptionnels ;
+
+g) données relatives à la situation relationnelle actuelle et précédente dans la mesure où celles-ci peuvent être pertinentes dans le cadre de la déclaration d'un éventuel besoin de soins ou de soutien ;
+
+h) données relatives aux convictions philosophiques ou religieuses ;
+
+i) illustrations.
+
+Dans le cadre des missions visées à l'article 7, § 2, 2° et 3°, du présent décret, les données d'identification du candidat adoptant sont traitées.
+
+Dans le cadre des tâches visées aux articles 5, 7, § 2, 6°, et 7, § 4, 2°, du présent décret, les données d'identification et le numéro de registre national du candidat adoptant sont traitées aussi longtemps que le Point d'Appui à l'Adoption reste chargé de ces missions.
+
+Le traitement visé à l'alinéa 1er s'effectue conformément à l'article 6, alinéa 1er, c) et e), et 9, alinéa 2, g), du règlement général sur la protection des données. Le Point d'Appui à l'Adoption est responsable du traitement comme visé à l'article 4, 7), du règlement précité.
+
+L'accès aux données est limité aux membres du personnel du service qui sont directement impliqués dans les missions relatives à l'organisation de la préparation et de l'offre de soins de suivi. Le candidat adoptant, l'adopté et le parent d'origine dont les données à caractère personnel sont traitées peuvent également accéder à leurs données, conformément à l'article 15 du règlement général sur la protection des données.
+
+Les données qui sont traitées dans le cadre d'une demande de suivi et d'expertise telle que visée à l'article 7, § 2, 7°, du présent décret sont conservées durant sept ans à partir de la dernière question posée dans le dossier en question.
+
+Les données collectées dans le cadre du programme de préparation visé à l'article 5, à l'article 7, § 2, 2°, 3° et 6°, et à l'article 7, § 4, 2°, du présent décret sont conservées durant sept ans après l'achèvement de la préparation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/28, art. 30, 013; En vigueur : 20-07-2024&gt;
+
+#### Art. 27/2.
+
+[<sup>1</sup> § 1er. Dans le cadre de l'exécution du présent décret et de ses dispositions d'exécution, le Centre flamand de l'Adoption échange les données à caractère personnel suivantes avec les instances suivantes :
+
+1° avec le Point d'Appui à l'Adoption : les données d'identification du candidat adoptant, dans le cadre de la mission visée à l'article 20, § 2, 1°, a) et c), du présent décret ;
+
+2° avec le service d'enquête sociale, visé à l'article 11, § 1er, du présent décret : les données visées à l'article 27/1, § 1er, alinéa 1er, 2°, du présent décret, dans le cadre de l'enquête sociale visée à l'article 1231-1/4 et 1231/-1/11 du Code judiciaire, et en exécution des dispositions de l'accord de coopération ;
+
+3° avec le tribunal de la famille :
+
+a) les données visées à l'article 27/1, § 1er, alinéa 1er, 2°, du présent décret, dans le cadre de l'enquête sociale visée à l'article 1231-1/4 du Code judiciaire et de l'examen visé à l'article 1231-1/11 du Code judiciaire ;
+
+b) les données visées à l'article 27/1, § 1er, alinéa 1er, 3°, du présent décret, dans le cadre de l'enquête sociale visée à l'article 1231-35 du Code judiciaire ;
+
+4° avec le service d'adoption nationale visé à l'article 13 du décret adoption nationale du 3 juillet 2015 : les données visées à l'article 27/1, § 1er, alinéa 1er, 3°, du présent décret, dans le cadre de l'enquête sociale visée à l'article 1231-35 du Code judiciaire ;
+
+5° avec l'autorité centrale fédérale : les données visées à l'article 27/1, § 1er, alinéa 1er, 1° à 3°, du présent décret, en exécution des articles 346-2/1, 361-2, 361-6, 362-1, 362-3, 363-2, 363-3, 365-6 de l'ancien Code civil, des articles 1231-34, 1231-35 et 1231-42 du Code judiciaire et des articles 6/1, 9 et 10 de l'accord de coopération ;
+
+6° avec le service d'adoption autorisé : les données visées à l'article 27, § 1er, alinéa 1er, 1° à 3°, du présent décret, dans le cadre des missions visées à l'article 14, à l'article 15, § 1er, alinéa 1er, 4°, à l'article 15, § 1er, alinéa 4, § 3, 1° à 3°, § 5, 1° et 2°, § 6 et § 8, et à l'article 15/2, § 1 et § 2, du présent décret ;
+
+7° avec l'autorité compétente en matière d'adoption dans le pays d'origine : les données visées à l'article 27/1, § 1er, alinéa 1er, 1° à 3°, du présent décret, en exécution des articles 361-2/1, 361-3, 361-4, 361-5 et 363-4 de l'ancien Code civil et en exécution des dispositions de la Convention de La Haye ;
+
+8° avec l'agence : les données visées à l'article 27/1, § 1er, alinéa 1er, 2°, a), et 3°, a), 1) et 10), du présent décret, dans le cadre de la constatation des conséquences de l'affection dont résulte un besoin de soutien spécifique comme visé à l'article 16 du décret de 2018 relatif au Panier de croissance et dans l'arrêté du Gouvernement flamand du 7 décembre 2018 concernant les modalités d'obtention d'une allocation de soins.
+
+§ 2. Le service d'adoption autorisé échange, dans le cadre de l'exécution de la mission visée à l'article 15, § 1er, alinéa 1er, 1°, § 3, 1°, 3° et 4°, § 4, 2° et 7°, et à l'article 15/2, § 1er, alinéa 1er, et § 2, alinéa 1er, du présent décret, les données à caractère personnel visées à l'article 27/1, § 2, alinéa 1er, 4°, du présent décret avec l'autorité compétente pour l'adoption dans le pays d'origine.
+
+§ 3. Le service d'adoption autorisé échange, dans le cadre de l'exécution de la mission visée à l'article 15, § 4, 7°, du présent décret, les données à caractère personnel visées à l'article 27/1, § 1er, alinéa 1er, 3°, du présent décret avec le centre de filiation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/28, art. 31, 013; En vigueur : 20-07-2024&gt;
+
+## CHAPITRE 11. - Dispositions finales
+
+#### Art. 28
+
+Le décret du 15 juillet 2005 réglant l'adoption internationale d'enfants est abrogé.
+
+#### Art. 29
+
+Le Gouvernement flamand fixe les mesures nécessaires au déroulement cohérent de la transition du décret mentionné à l'article 28, au présent décret.
+
+#### Art. 30
+
+Le présent décret entre en vigueur à la date fixée par le Gouvernement flamand, et au plus tard le 1er janvier 2013.
+
+(NOTE : entrée en vigueur des art. 20 et 21 fixée au 01-09-2012 par AGF 2012-07-13/08, art. 11, 1°)
+
+(NOTE : entrée en vigueur des articles 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 26, 29 et 30 fixée au 03-12-2012 par AGF 2012-10-12/14, art. 72, 1°)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 20 janvier 2012.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand du Bien-être, de la Santé publique et de la Famille,
+
+J. VANDEURZEN

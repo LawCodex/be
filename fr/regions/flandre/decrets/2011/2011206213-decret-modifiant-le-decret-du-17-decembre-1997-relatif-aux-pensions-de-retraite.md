@@ -1,0 +1,51 @@
+---
+title: "Décret modifiant le décret du 17 décembre 1997 relatif aux pensions de retraite allouées aux agents définitifs et admis au stage de la \" Vlaamse Maatschappij voor Watervoorziening \" (Société flamande de Distribution d'Eau) et aux pensions de survie allouées aux ayants droit de ces membres du personnel"
+identifier: "2011206213"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/18/2011206213/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2011-11-18
+published: 2011-12-16
+entry_into_force: 2007-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/18/2011206213/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 18 NOVEMBRE 2011. - Décret modifiant le décret du 17 décembre 1997 relatif aux pensions de retraite allouées aux agents définitifs et admis au stage de la " Vlaamse Maatschappij voor Watervoorziening " (Société flamande de Distribution d'Eau) et aux pensions de survie allouées aux ayants droit de ces membres du personnel
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+DECRET modifiant le décret du 17 décembre 1997 relatif aux pensions de retraite allouées aux agents définitifs et admis au stage de la " Vlaamse Maatschappij voor Watervoorziening " (Société flamande de Distribution d'Eau) et aux pensions de survie allouées aux ayants droit de ces membres du personnel
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Au décret du 17 décembre 1997 relatif aux pensions de retraite allouées aux agents définitifs et admis au stage de la " Vlaamse Maatschappij voor Watervoorziening " (Société flamande de Distribution d'Eau) et aux pensions de survie allouées aux ayants droit de ces membres du personnel, modifié par le décret du 4 avril 2003, il est ajouté un article 3/1, rédigé comme suit :
+
+" Art. 3/1. La péréquation des pensions, visée à l'article 2, se déroule de la même manière que prévue à l'article 12 de la loi du 9 juillet 1969 modifiant et complétant la législation relative aux pensions de retraite et de survie des agents du secteur public.
+
+Pour la fixation et le calcul de leur péréquation, les pensions, visées à l'article 2, sont rattachées à la corbeille de péréquation, visée à l'article 12, § 3, 3°, de la même loi. ".
+
+## Art. 3
+
+Le présent décret produit ses effets le 1er janvier 2007.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 18 novembre 2011.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+La Ministre flamande de l'Environnement, de la Nature et de la Culture,
+
+J. SCHAUVLIEGE

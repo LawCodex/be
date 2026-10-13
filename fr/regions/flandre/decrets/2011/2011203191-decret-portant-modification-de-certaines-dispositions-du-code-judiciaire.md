@@ -1,0 +1,57 @@
+---
+title: "Décret portant modification de certaines dispositions du Code judiciaire"
+identifier: "2011203191"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/10/2011203191/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2011-06-10
+published: 2011-07-04
+entry_into_force: 2011-07-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/10/2011203191/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 10 JUIN 2011. - Décret portant modification de certaines dispositions du Code judiciaire
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret portant modification de certaines dispositions du Code judiciaire.
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire et régionale.
+
+## Art. 2
+
+A l'article 578 du Code judiciaire, la disposition sous le point 18°, inséré par le décret du 10 juillet 2008, est renuméroté en point 20°.
+
+## Art. 3
+
+A l'article 581 du même Code, modifié en dernier lieu par le décret du 10 juillet 2008, les mots " 11° de litiges de discrimination, au sens du décret du 10 juillet 2008 portant le cadre de la politique flamande d'égalité des chances et de traitement. " sont remplacés par les mots " 12° des litiges de discrimination, au sens du décret du 10 juillet 2008 portant le cadre de la politique flamande d'égalité des chances et de traitement. ".
+
+## Art. 4
+
+A l'article 585 du même Code, la disposition sous le point 10°, inséré par le décret du 10 juillet 2008, est renuméroté en point 14°.
+
+## Art. 5
+
+A l'article 587bis du même Code, la disposition sous le point 3°, inséré par le décret du 10 juillet 2008, est renuméroté en point 5°.
+
+## Art. 6
+
+A l'article 588 du même Code, la disposition sous le point 15°, inséré par le décret du 10 juillet 2008, est renuméroté en point 18°.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge .
+
+Bruxelles, le 10 juin 2011.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand de l'Enseignement, de la Jeunesse, de l'Egalité des Chances et de Bruxelles,
+
+P. SMET

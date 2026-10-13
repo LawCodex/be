@@ -1,0 +1,45 @@
+---
+title: "Décret portant assentiment à l'accord de coopération du 3 décembre 2009 entre l'Etat fédéral et les Régions concernant la mise en oeuvre de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, signée à Strasbourg le 9 septembre 1996"
+identifier: "2011202738"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/13/2011202738/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2011-05-13
+published: 2011-06-15
+entry_into_force: 2011-06-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/13/2011202738/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 13 MAI 2011. - Décret portant assentiment à l'accord de coopération du 3 décembre 2009 entre l'Etat fédéral et les Régions concernant la mise en oeuvre de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, signée à Strasbourg le 9 septembre 1996
+
+Le Parlement Flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Il est porté assentiment à l'accord de coopération du 3 décembre 2009 entre l'Etat fédéral et les Régions concernant la mise en oeuvre de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, signée à Strasbourg le 9 septembre 1996.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 13 mai 2011.
+
+Le Ministre-Président du Gouvernement flamand, Ministre flamand de l'Economie, de la Politique extérieure, de l'Agriculture et de la Ruralité,
+
+K. PEETERS.
+
+La Ministre flamande de la Mobilité et des Travaux publics,
+
+H. CREVITS.
+
+La Ministre flamande de l'Environnement, de la Nature et de la Culture,
+
+J. SCHAUVLIEGE.

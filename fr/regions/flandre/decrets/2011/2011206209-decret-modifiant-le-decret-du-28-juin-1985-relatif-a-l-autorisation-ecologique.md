@@ -1,0 +1,91 @@
+---
+title: "Décret modifiant le décret du 28 juin 1985 relatif à l'autorisation écologique et le Code flamand de l'Aménagement du Territoire en ce qui concerne les possibilités de recours"
+identifier: "2011206209"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/18/2011206209/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2011-11-18
+published: 2011-12-19
+entry_into_force: 2011-12-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/18/2011206209/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 18 NOVEMBRE 2011. - Décret modifiant le décret du 28 juin 1985 relatif à l'autorisation écologique et le Code flamand de l'Aménagement du Territoire en ce qui concerne les possibilités de recours
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition introductive
+
+### Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## CHAPITRE 2. - Modifications au décret du 28 juin 1985 relatif à l'autorisation écologique
+
+### Art. 2
+
+A l'article 24 du décret du 28 juin 1985 relatif à l'autorisation écologique, modifié par les décrets des 18 mai 1999, 26 mars 2004, 19 mai 2006 et 12 décembre 2008, sont apportées les modifications suivantes :
+
+1° le paragraphe 1er, point 3°, est remplacé par la disposition suivante :
+
+" 3° le fonctionnaire dirigeant des organismes publics consultatifs ou, en son absence, son mandataire; ";
+
+2° le paragraphe 1er, point 7°, est abrogé;
+
+3° le paragraphe 1er est complété par un alinéa deux, rédigé comme suit :
+
+" Lorsque, dans le cas visé à l'alinéa premier, 3°, l'organisme public consultatif est une entité ou division au sein d'un département ou d'une agence, la compétence de former recours est attribuée au fonctionnaire dirigeant du département ou de l'agence, ou en son absence, son mandataire. ";
+
+4° dans le paragraphe 3, les mots "les organismes publics consultatifs et le fonctionnaire urbaniste régional" sont chaque fois remplacés par les mots "le fonctionnaire dirigeant d'un organisme public consultatif ou, en son absence, son mandataire."
+
+## CHAPITRE 3. - Modifications au Code flamand de l'Aménagement du Territoire
+
+### Art. 3
+
+Dans l'article 4.7.21, § 2, du Code flamand de l'Aménagement du Territoire sont apportées les modifications suivantes :
+
+les points 4° et 5° sont remplacés par les dispositions suivantes :
+
+" 4° le fonctionnaire dirigeant du département ou, en son absence, son mandataire, sauf dans les cas visés à l'article 4.7.19, § 1er, alinéa trois;
+
+5° le fonctionnaire dirigeant ou, en son absence, son mandataire, du département ou de l'agence dont relève l'instance consultative, désignée en vertu de l'article 4.7.16, § 1er, alinéa premier, à condition que l'instance ait émis son avis en temps voulu ou que son avis n'ait, à tort, pas été sollicité. "
+
+### Art. 4
+
+Dans l'article 4.8.16, § 1er, du Code flamand de l'Aménagement du Territoire sont apportées les modifications suivantes :
+
+les points 5° et 6° sont remplacés par les dispositions suivantes :
+
+" 5° le fonctionnaire dirigeant du département ou, en son absence, son mandataire, pour les autorisations délivrées selon la procédure régulière, sauf dans les cas visés à l'article 4.7.19, § 1er, alinéa trois;
+
+6° le fonctionnaire dirigeant ou, en son absence, son mandataire, du département ou de l'agence dont relève l'instance consultative, désignée en vertu de l'article 4.7.16, § 1er, alinéa premier, respectivement l'article 4.7.26, § 4, 2°, à condition que l'instance ait émis son avis en temps voulu ou que son avis n'ait, à tort, pas été sollicité. "
+
+## CHAPITRE 4. - Disposition finale
+
+### Art. 5
+
+L'article 2 entre en vigueur à une date à fixer par le Gouvernement flamand.
+
+(NOTE : entrée en vigueur de l'art. 2 fixée au 08-03-2012 par AGF %2012-01-13/08, art. 2)
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 18 novembre 2011.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+La Ministre flamande de l'Environnement, de la Nature et de la Culture,
+
+J. SCHAUVLIEGE
+
+Le Ministre flamand des Finances, du Budget, du Travail, de l'Aménagement du Territoire et des Sports
+
+Ph. MUYTERS

@@ -1,0 +1,669 @@
+---
+title: "DECRET relatif à la politique d'aide économique"
+identifier: "2012202237"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/16/2012202237/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2012-03-16
+published: 2012-04-27
+entry_into_force: 2012-05-07
+last_amended: 2026-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/16/2012202237/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 27-04-2012 et mise à jour au 28-07-2026"
+retrieved: 2026-10-12
+---
+
+# 16 MARS 2012. - DECRET relatif à la politique d'aide économique
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Généralités
+
+### Section 1re. - Dispositions générales
+
+#### Art. 1er
+
+[<sup>1</sup> Le présent décret règle une matière régionale, à l'exception du chapitre 6/1, qui règle une matière communautaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-06-19/14, art. 49, 009; En vigueur : 01-01-2021&gt;
+
+#### Art. 2
+
+En ce qui concerne les catégories d'aide, visées aux présent décret, et dans le respect des règles, visées au présent décret, le Gouvernement flamand peut accorder une aide à des projets en matière de politique d'aide économique dans les limites budgétaires fixées.
+
+### Section 2. - Définitions
+
+#### Art. 3
+
+Dans le présent décret, on entend par :
+
+1° [<sup>2</sup> entreprise : toute entité, quel que soit son statut légal, exerçant une activité économique ;]<sup>2</sup>
+
+2° petites entreprises : les entreprises qui, compte tenu du partenaire et des entreprises associées telles que visées à l'annexe Ire du Règlement général d'Exemption par Catégorie, répondent cumulativement à toutes les conditions suivantes :
+
+a) employer moins de 50 personnes actives;
+
+b) réaliser un chiffre d'affaires ou un total du bilan annuel de 10 millions d'euros au maximum;
+
+3° moyennes entreprises : les entreprises qui, compte tenu du partenaire et des entreprises associées telles que visées à l'annexe Ire du Règlement général d'Exemption par Catégorie, répondent cumulativement à toutes les conditions suivantes :
+
+a) employer moins de 250 personnes actives;
+
+b) réaliser un chiffre d'affaires de 50 millions d'euros au maximum ou un total du bilan annuel de 43 millions d'euros au maximum;
+
+c) ne sont pas une petite entreprise :
+
+4° grandes entreprises : les entreprises qui ne relèvent pas de la catégorie des petites ou moyennes entreprises;
+
+5° aide : [<sup>3</sup> toute forme de financement, y compris l'aide d'Etat]<sup>3</sup>. [<sup>3</sup> L'aide d'Etat est toute mesure qui répond à tous les critères de l'article 107 du Traité sur le fonctionnement de l'Union européenne]<sup>3</sup>;
+
+6° intensité d'aide : le montant de l'aide, exprimé comme un pourcentage des frais ou investissements admissibles du projet, avant la déduction des impôts ou autres taxes;
+
+7° [<sup>1</sup> carte d'aide régionale : une carte des zones qui ont un retard au niveau socio-économique et qui répondent aux conditions, visées dans les [<sup>4</sup> lignes directrices européennes concernant les aides à finalité régionale (Journal officiel du 29 avril 2021, C 153/1)]<sup>4</sup>. Ces zones sont fixées pour la Flandre sur la carte d'aide à finalité régionale de la Région flamande, approuvée par la Commission européenne[<sup>4</sup> le 18 juillet 2022 pour la période du 1er janvier 2022 au 31 décembre 2027 inclus]<sup>4</sup>. Si la carte d'aide à finalité régionale fait l'objet d'une révision par la Commission européenne ou par le Gouvernement flamand, la nouvelle carte d'aide à finalité régionale sera prise en considération ;]<sup>1</sup>
+
+8° [<sup>1</sup> règlement général d'exemption par catégorie : Règlement (CE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aide compatibles avec le marché commun en application des articles 107 et 108 du Traité (Journal Officiel du 26 juin 2014, L 187, p. 1- 78), et ses modifications ultérieures ;]<sup>1</sup>
+
+9° [<sup>4</sup> le règlement de minimis : règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis, et ses modifications ultérieures ]<sup>4</sup>;
+
+10° [<sup>1</sup> lignes directrices relatives à l'environnement : [<sup>4</sup> lignes directrices concernant les aides d'Etat au climat, à la protection de l'environnement et à l'énergie 2022 ]<sup>4</sup>, et ses modifications ultérieures ;]<sup>1</sup>
+
+11° [<sup>1</sup> lignes directrices concernant les aides au sauvetage et à la restructuration : lignes directrices concernant les aides au sauvetage et à la restructuration d'entreprises non financières en difficulté (Journal officiel du 31 juillet 2014, C 249, p. 1 - 28), et ses modifications ultérieures ;]<sup>1</sup>
+
+12° Traité sur le fonctionnement de l'Union européenne : le Traité instituant la Communauté économique européenne, signé à Rome le 25 mars 1957, dernièrement modifié par le Traité de Lisbonne modifiant le traité sur l'Union européenne et le traité instituant la Communauté européenne, signé à Lisbonne le 13 décembre 2007 (Journal officiel du 30 mars 2010, C 83), et ses modifications ultérieures.
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 1, 004; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2015-11-20/20, art. 28, 005; En vigueur : 01-04-2016 (fixée au indéterminée (une date à fixer par le ministre flamand compétent pour l'économie) et au plus tard le 01-07-2016 par AGF 2016-02-05/12, art. 28) (AM 2016-03-07/15, art. 6)&gt;
+
+(3)&lt;DCFL 2019-03-15/12, art. 24, 007; En vigueur : 18-04-2019&gt;
+
+(4)&lt;AGF 2024-05-17/45, art. 1, 011; En vigueur : 05-08-2024&gt;
+
+### Section 3. - Conditions générales
+
+#### Art. 4
+
+Le cumul d'aide, tel que cité à l'article 107, du Traité sur le fonctionnement de l'Union européenne, quelle qu'en soit la source, soit provenant du niveau européen, fédéral, flamand provincial ou communal, et octroyée sous quelle forme que ce soit, relative aux mêmes investissements ou frais, ne peut pas résulter en un dépassement des plafonds européens maximaux en vigueur.
+
+Le Gouvernement flamand peut imposer une interdiction de cumul pour les mêmes investissements ou frais.
+
+[<sup>1</sup> Le présent article ne s'applique pas au chapitre 6/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-06-19/14, art. 50, 009; En vigueur : 01-01-2021&gt;
+
+#### Art. 5
+
+Une aide ne peut être accordée que si elle a un effet encourageant. Le Gouvernement flamand détermine quand il a été répondu à ces conditions.
+
+[<sup>1</sup> Le présent article ne s'applique pas au chapitre 6/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-06-19/14, art. 51, 009; En vigueur : 01-01-2021&gt;
+
+### Section 4. - Conditions relatives à l'aide accordée conformément aux chapitres 2 et 3
+
+#### Art. 6
+
+[<sup>1</sup> Pour les petites et moyennes entreprises le projet doit avoir trait à un investissement initial tel que visé à l'article 2, point 49, l'article 14, point 3 et l'article 17, point 3, du règlement général d'exemption par catégorie.
+
+Pour les grandes entreprises le projet doit avoir trait à un investissement initial pour une nouvelle activité économique telle que visée à l'article 2, points 50 et 51, et l'article 14, point 3, du règlement général d'exemption par catégorie.]<sup>1</sup>
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 2, 004; En vigueur : 01-01-2015&gt;
+
+#### Art. 7
+
+Les investissements doivent être exploités par l'entreprise pendant cinq ans et doivent rester maintenus, à l'exception des installations ou équipements qui sont démodés et remplacés à cause des évolutions techniques rapides, à condition que les activités économiques restent maintenues dans l'entreprise pendant la période fixée dans le présent article.
+
+Le Gouvernement flamand peut décider que les investissements doivent être exploités et maintenus pendant trois ans par des petites et moyennes entreprises.
+
+#### Art. 8
+
+Les investissements doivent être inscrits dans l'actif du bilan d'entreprise, être amortis comme actifs fixes, à l'exception des terrains, et doivent être acquis de tiers à des conditions conformes au marché. Par tiers, il faut entendre une entreprise qui n'est pas un partenaire ou une entreprise associée telle que vise à l'annexe Ire du Règlement général d'exemption par catégorie.
+
+#### Art. 9
+
+&lt;Abrogé par DCFL 2019-03-15/12, art. 25, 007; En vigueur : 18-04-2019&gt;
+
+## CHAPITRE 2. - Aide à l'investissement
+
+### Section 1re. - Champ d'application
+
+#### Art. 10
+
+Le Gouvernement flamand peut accorder une aide à des petites et moyennes entreprises pour les investissements dans la Région flamande aux conditions, visées au Règlement général d'exemption par catégorie, au présent décret et aux arrêtés d'exécution. Il ne peut accorder son aide qu'aux grandes entreprises pour les investissements situés sur la carte d'aide à finalité régionale aux conditions visées au Règlement général d'exemption par catégorie, au présent décret et aux arrêtés d'exécution.
+
+### Section 2. - Intensité d'aide
+
+#### Art. 11
+
+L'intensité des aides est calculée comme un pourcentage des investissements admissibles.
+
+Le Gouvernement flamand peut prendre les investissements matériels suivants en considération : investissements dans des terrains, bâtiments, machines, installations et équipements.
+
+Le Gouvernement flamand peut prendre les investissements immatériels suivants en considération : les actifs résultant d'un transfert de technologie sous forme d'acquisition de droits de brevet, de licences, de savoir-faire ou de connaissances techniques non brevetées
+
+#### Art. 12
+
+Le Gouvernement flamand peut accorder une aide à l'investissement aux petites et aux moyennes entreprises sur l'ensemble du territoire de la Région flamande. L'intensité d'aide maximale est fixée à [<sup>1</sup> l'article 17, point 6,]<sup>1</sup> du Règlement général d'exemption par catégorie.
+
+Le Gouvernement flamand peut, dans les zones qui sont reprises sur la carte d'aide à finalité régionale, accorder une aide à l'investissement régionales, compte tenu des pourcentages d'aide maximaux fixés par la Commission européenne lors de l'acceptation de la carte d'aide à finalité régionale, avec maintien de la possibilité d'appliquer les pourcentages d'aide plus élevés aux petites et moyennes entreprises.
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 3, 004; En vigueur : 01-01-2015&gt;
+
+## CHAPITRE 3. - Aide aux investissements écologiques [<sup>1</sup> et des études environnementales]<sup>1</sup>
+
+----------
+
+(1)&lt;AGF 2024-05-17/45, art. 2, 011; En vigueur : 05-08-2024&gt;
+
+### Section 1re. - Définitions
+
+#### Art. 13
+
+Les définitions de [<sup>1</sup> l'article 2, points 101 [<sup>2</sup> à 131ter]<sup>2</sup> inclus,]<sup>1</sup> du Règlement général d'exemption par catégorie s'appliquent au présent chapitre.
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 4, 004; En vigueur : 01-01-2015&gt;
+
+(2)&lt;AGF 2024-05-17/45, art. 3, 011; En vigueur : 05-08-2024&gt;
+
+### Section 2. - Champ d'application
+
+#### Art. 14
+
+Le Gouvernement flamand peut accorder une aide aux entreprises pour les investissements écologiques [<sup>1</sup> et des études environnementales]<sup>1</sup> dans la Région flamande aux conditions, visées au Règlement général d'exemption par catégorie, au présent décret et aux arrêtés d'exécution.
+
+En dérogation à l'alinéa premier, le Gouvernement flamand peut accorder une aide aux entreprises pour des investissements écologiques aux conditions, visées aux lignes directrices en matière d'environnement et aux arrêtés d'exécution.
+
+----------
+
+(1)&lt;AGF 2024-05-17/45, art. 4, 011; En vigueur : 05-08-2024&gt;
+
+### Section 3. - Intensité d'aide
+
+#### Art. 15
+
+[<sup>1</sup> Le Gouvernement flamand peut octroyer une aide aux fins et dans les limites visées au chapitre III, partie 7, du Règlement général d'exemption par catégorie. ]<sup>1</sup>
+
+----------
+
+(1)&lt;AGF 2024-05-17/45, art. 5, 011; En vigueur : 05-08-2024&gt;
+
+#### Art. 16
+
+§ 1er. L'intensité des aides est calculée comme un pourcentage des investissements écologiques admissibles.
+
+§ 2. Le Gouvernement flamand peut prendre en considération les investissements matériels suivants : investissements dans des terrains si ces derniers sont absolument nécessaires pour répondre aux objectifs environnementaux, dans des bâtiments, installations et équipements, ayant comme objectif de limiter ou d'éliminer la pollution et les nuisances, et investissements en faveur de l'adaptation de procédés de production en vue de la protection de l'environnement.
+
+Le Gouvernement flamand peut prendre les investissements immatériels suivants en considération : les actifs résultant d'un transfert de technologie sous forme d'acquisition de droits de brevet, de licences, de savoir-faire ou de connaissances techniques non brevetées.
+
+[<sup>1</sup> Le Gouvernement flamand peut prendre en considération les frais d'une étude environnementale ou d'un service de consultance s'ils sont en lien avec les investissements écologiques visés au chapitre III, partie 7, du Règlement général d'exemption par catégorie. ]<sup>1</sup>
+
+§ 3. Seuls les investissements supplémentaires qui sont nécessaires en vue d'atteindre un niveau de protection de l'environnement surpassant les normes communautaires en question, sont pris en considération.
+
+[<sup>1</sup> Dans les cas où c'est permis conformément au Règlement général d'exemption par catégorie, le Gouvernement flamand peut décider, en dérogation à l'alinéa 1er, de prendre l'intégralité des coûts d'investissement en considération. ]<sup>1</sup>
+
+Le Gouvernement flamand peut prendre en considération les bénéfices et le coûts d'exploitation pour déterminer les investissements supplémentaires.
+
+----------
+
+(1)&lt;AGF 2024-05-17/45, art. 6, 011; En vigueur : 05-08-2024&gt;
+
+## CHAPITRE 4. - Aides aux services externes de conseil, aux études et à la participation aux foires
+
+### Section 1re. - Champ d'application
+
+#### Art. 17
+
+§ 1er. Le Gouvernement flamand peut accorder une aide aux petites et moyennes entreprises en faveur de services externes de conseil, aux études et à la participation aux foires aux conditions, visées au Règlement général d'exemption par catégorie, au présent décret et aux arrêtés d'exécution.
+
+§ 2. Le Gouvernement flamand peut accorder une aide aux entreprises en faveur des études directement liées aux aides visées à l'article 15 aux investissements écologiques, aux conditions, visées au Règlement général d'exemption par catégorie, au présent décret et aux arrêtés d'exécution.
+
+### Section 2. - Intensité d'aide
+
+#### Art. 18
+
+§ 1er. L'intensité des aides est calculée comme un pourcentage des frais admissibles des services externes de conseil, des études et de la participation aux foires.
+
+§ 2. Le Gouvernement flamand fixe les frais admissibles des services externes de conseil, des études et de la participation aux foires.
+
+Les services de nature permanente ou périodique de l'entreprise et les services qui font partie des dépenses normales d'exploitation de l'entreprise, ne sont pas admissibles.
+
+#### Art. 19
+
+Le Gouvernement flamand peut accorder une aide aux petites et moyennes entreprises pour des services externes de conseil, des études et pour la participation aux foires. L'intensité d'aide maximale est fixée dans [<sup>1</sup> l'article 18, point 2 et l'article 19, point 3,]<sup>1</sup> du Règlement général d'exemption par catégorie.
+
+Le Gouvernement flamand peut accorder une aide aux entreprises pour les études environnementales qui ont un rapport directe aux investissements écologiques, visés à l'article 15. L'intensité d'aide maximale est fixée dans [<sup>1</sup> l'article 49, points 3 et 4]<sup>1</sup>, du Règlement général d'exemption par catégorie.
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 6, 004; En vigueur : 01-01-2015&gt;
+
+## CHAPITRE 5. - Aide à la formation
+
+### Section 1re. - Définitions
+
+#### Art. 20
+
+&lt;Abrogé par AGF 2015-03-20/08, art. 7, 004; En vigueur : 01-01-2015&gt;
+
+#### Art. 21
+
+Les employés, cités à [<sup>1</sup> l'article 2, points 3, 4 et 99,]<sup>1</sup> du Règlement général d'exemption par catégorie, peuvent être pris en considération par le Gouvernement flamand en tant que travailleurs extrêmement vulnérables et handicapés.
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 8, 004; En vigueur : 01-01-2015&gt;
+
+### Section 2. - Champ d'application
+
+#### Art. 22
+
+Le Gouvernement flamand peut accorder une aide aux entreprises pour la formation interne et externe des employés aux conditions, visées au Règlement général d'exemption par catégorie, au présent décret et aux arrêtés d'exécution.
+
+### Section 3. - Intensité d'aide
+
+#### Art. 23
+
+La subvention est calculée comme un pourcentage des frais admissibles de la formation.
+
+Le Gouvernement flamand peut prendre en considération les frais de formation, visés à [<sup>1</sup> l'article 31, points 2 et 3,]<sup>1</sup> du Règlement général d'exemption par catégorie.
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 9, 004; En vigueur : 01-01-2015&gt;
+
+#### Art. 24
+
+Le Gouvernement flamand peut accorder une aide en faveur de formation [<sup>1</sup> ...]<sup>1</sup>. L'intensité d'aide maximale est fixée dans [<sup>1</sup> l'article 31, points 4 et 5,]<sup>1</sup> du Règlement général d'exemption par catégorie.
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 10, 004; En vigueur : 01-01-2015&gt;
+
+## CHAPITRE 6. - Aide à la promotion de l'entrepreneuriat
+
+### Section 1re. - Champ d'application
+
+#### Art. 25
+
+§ 1er. Le Gouvernement flamand peut accorder une aide aux projets promouvant l'entrepreneuriat et coordonner les activités des bénéficiaires des ressources pour la promotion de l'entrepreneuriat à charge du budget flamand aux conditions mentionnées dans les arrêtés d'exécution.
+
+Les projets peuvent avoir trait à :
+
+1° la sensibilisation aux entrepreneurs, aux entreprises et à l'entrepreneuriat;
+
+2° l'apprentissage d'attitudes, de compétences et d'aptitudes en vue de stimuler l'esprit d'entreprise et la performance des entreprises.
+
+Le Gouvernement flamand peut clarifier et compléter cette liste conformément aux priorités politiques et aux besoins.
+
+§ 2. Cette aide peut être accordée aux :
+
+1° entreprises telles que visées à l'article 3, 1°, sans préjudice de l'application l'article 5 et des chapitres 12, 14 et 15;
+
+2° entités qui ne répondent pas au point 1°, sans préjudice de l'application de l'article 5 et des chapitres 14 et 15.
+
+§ 3. Le Gouvernement flamand peut concrétiser les bénéficiaires, visés au paragraphe 2, en fonction des besoins et des priorités politiques.
+
+### Section 2. - Intensité d'aide
+
+#### Art. 26
+
+L'intensité des aides est calculée comme un pourcentage des frais admissibles.
+
+Le Gouvernement flamand arrête les frais admissibles et l'intensité des aides.
+
+Le Gouvernement flamand détermine dans quelle mesure le cumul des aides sont permises, quelle qu'en soit la source ou la forme sous laquelle elles sont accordées, concernant les mêmes frais.
+
+## CHAPITRE 6/1. [<sup>1</sup> Aide à la formation d'entrepreneurs ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 52, 009; En vigueur : 01-01-2021&gt;
+
+### Section 1re. [<sup>1</sup> Définitions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 53, 009; En vigueur : 01-01-2021&gt;
+
+#### Art. 26/1.
+
+[<sup>1</sup> Dans le présent chapitre, on entend par département : [<sup>2</sup> le Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie Sociale, visé à l'article 29/1 de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 54, 009; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFL 2026-06-26/19, art. 40, 012; En vigueur : 07-08-2026&gt;
+
+### Section 2. [<sup>1</sup> Champ d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 55, 009; En vigueur : 01-01-2021&gt;
+
+#### Art. 26/2.
+
+[<sup>1</sup> § 1er. Dans le présent article, on entend par :
+
+1° centre reconnu : un centre de formation d'indépendants et des petites et moyennes entreprises qui est reconnu conformément aux conditions visées au paragraphe 5;
+
+2° parcours d'entrepreneuriat : un parcours qui répond aux conditions visées au paragraphe 3;
+
+3° parcours assigné : un parcours qui répond aux conditions visées au paragraphe 4.
+
+§ 2. Le Gouvernement flamand peut octroyer une aide aux centres reconnus pour l'exécution de parcours d'entrepreneuriat et de parcours assignés aux conditions visées au présent décret et à ses arrêtés d'exécution.
+
+§ 3. Le parcours d'entrepreneuriat, visé au paragraphe 2, est un service non économique d'intérêt général.
+
+Le parcours d'entrepreneuriat remplit toutes les conditions suivantes :
+
+1° le parcours mène à l'entrepreneuriat indépendant dans lequel une sortie comme collaborateur PME est possible;
+
+2° le parcours répond à un besoin sur le marché;
+
+3° le parcours est adapté à un profil de compétence professionnelle sectoriel, au profil générique d'entreprise ou à une autre réglementation dans laquelle sont reprises des exigences de compétence;
+
+4° le parcours augmente les chances d'emploi durable et d'efficacité économique;
+
+5° le parcours n'est pas offert par d'autres acteurs du marché privés ou l'accès est entravé par des barrières spécifiques qui entravent l'accès à la formation.
+
+Les parcours d'entrepreneuriat ne sont mis en oeuvre que par les centres reconnus et peuvent comprendre l'apprentissage sur le lieu de travail.
+
+Le Gouvernement flamand peut préciser et compléter les conditions visées aux alinéas 1er à 3 inclus.
+
+§ 4. Le parcours assigné visé au paragraphe 2, est un service d'intérêt économique général auquel s'applique la directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur.
+
+Le parcours assigné a pour objectif de renforcer l'intégration des participants à l'esprit d'entreprise en leur offrant des formations ou en leur proposant des techniques pour améliorer leurs compétences entrepreneuriales.
+
+Les trajets assignés peuvent être effectués par les centres reconnus, les organisations professionnelles et interprofessionnelles ou d'autres dispensateurs de formation privés ou publics.
+
+Le Gouvernement flamand peut préciser et compléter les conditions visées aux alinéas 1er à 3 inclus.
+
+§ 5. Un centre tel que visé au paragraphe 2 peut être reconnu pour dispenser l'apprentissage, les subdivisions structurelles de démarrage, les subdivisions structurelles duales et les parcours d'entrepreneuriat s'il répond à chacune des conditions suivantes :
+
+1° le centre est établi sous la forme d'une association sans but lucratif conformément au Code des Sociétés et des Associations;
+
+2° l'assemblée générale du centre est exclusivement accessible à toutes les organisations représentatives des classes moyennes, des travailleurs indépendants et des employeurs qui répondent aux conditions fixées par le Gouvernement flamand;
+
+3° les statuts sont préalablement approuvés par le Gouvernement flamand conformément aux conditions fixées par le Gouvernement flamand;
+
+4° le centre a pour objectif :
+
+a) l'organisation de l'apprentissage, des subdivisions structurelles de démarrage, des subdivisions structurelles duales et des parcours d'entrepreneuriat;
+
+b) l'encadrement pédagogique des apprenants qui suivent la formation organisée par le centre;
+
+c) apporter au Gouvernement flamand et à l'Agence de l'Innovation et d'Entrepreneuriat sa collaboration pour certaines réalisations dans le domaine de la formation, de l'éducation et de l'accompagnement, y compris l'innovation et le développement (de produits);
+
+d) la conclusion d'accords de coopération avec ou la participation dans les autres centres ou des tiers en vue du fonctionnement optimal d'un centre en soi ou des centres dans leur ensemble;
+
+5° dans le cadre de l'apprentissage, des subdivisions structurelles de démarrage et des subdivisions structurelles duales, le centre est tenu de :
+
+a) permettre le contrôle par l'inspection de l'enseignement;
+
+b) répondre aux dispositions relatives à la structure et à l'organisation de l'enseignement qui sont rendues explicitement applicables par le Code de l'Enseignement secondaire, par la réglementation décrétale relative au système d'apprentissage et de travail et par la réglementation d'application, selon le cas, à l'apprentissage, aux subdivisions structurelles duales ou aux subdivisions structurelles de démarrage, organisées par le centre;
+
+c) mener une politique efficace pour faire connaître et faire respecter l'interdiction de fumer, contrôler le respect de l'interdiction et infliger des sanctions aux contrevenants, conformément à la propre politique de sanctions, visée au règlement de centre ou de travail;
+
+d) conclure des accords de coopération avec un centre d'encadrement des élèves;
+
+e) mener une politique d'encadrement des élèves.
+
+Le Gouvernement flamand peut préciser et compléter les conditions visées à l'alinéa 1er.
+
+Le Gouvernement flamand peut, sur la proposition d'un collège, supprimer progressivement et totalement ou partiellement la reconnaissance en ce qui concerne l'apprentissage d'un centre s'il n'est plus satisfait aux conditions de reconnaissance visées au présent article. Ce collège est composé pour moitié de membres de l'inspection de l'enseignement et pour moitié de membres de l'inspection du département.
+
+Le Gouvernement flamand arrête les dispositions complémentaires relatives au fonctionnement et à l'organisation de ce collège, en désigne les membres et règle la procédure de recours.
+
+Le Gouvernement flamand demande l'avis du conseil d'administration de l'Office flamand de l'Emploi et de la Formation professionnelle concernant le respect par un centre des conditions de reconnaissance relatives à l'apprentissage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 56, 009; En vigueur : 01-01-2021&gt;
+
+### Section 3. [<sup>1</sup> Aide]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 57, 009; En vigueur : 01-01-2021&gt;
+
+#### Art. 26/3.
+
+[<sup>1</sup> Le Gouvernement flamand arrête la forme de l'aide visée à l'article 26/2, § 2.
+
+Le montant d'aide est subordonné aux conditions fixées par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 58, 009; En vigueur : 01-01-2021&gt;
+
+### Section 4. [<sup>1</sup> Contrôle et sanctions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 59, 009; En vigueur : 01-01-2021&gt;
+
+#### Art. 26/4.
+
+[<sup>1</sup> Le département exerce le contrôle des parcours d'entrepreneuriat, visés à l'article 26/2, § 2.
+
+Le Gouvernement flamand arrête les modalités et les règles en matière du contrôle et des sanctions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-06-19/14, art. 60, 009; En vigueur : 01-01-2021&gt;
+
+## CHAPITRE 7. - [<sup>1</sup> Aide à l'innovation]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-11-20/20, art. 29, 005; En vigueur : 10-12-2015&gt;
+
+### Section 1re. - [<sup>1</sup> Champ d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-11-20/20, art. 29, 005; En vigueur : 10-12-2015&gt;
+
+#### Art. 27
+
+[<sup>1</sup> Le Gouvernement flamand peut accorder des aides à des projets visant à encourager l'innovation :
+
+1° aux entreprises aux conditions visées au présent décret, le règlement général d'exemption par catégorie et ses arrêtés d'exécution ;
+
+2° aux entités qui ne sont pas des entreprises, aux conditions visées au présent décret et aux arrêtés d'exécution.
+
+Le Gouvernement flamand peut concrétiser les bénéficiaires, visés à l'alinéa premier, en fonction des besoins et des priorités politiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-11-20/20, art. 29, 005; En vigueur : 10-12-2015&gt;
+
+### Section 2. - [<sup>1</sup> Intensité des aides]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-11-20/20, art. 29, 005; En vigueur : 10-12-2015&gt;
+
+#### Art. 28
+
+[<sup>1</sup> L'intensité des aides est calculée comme un pourcentage des frais éligibles.
+
+Le Gouvernement flamand arrête les frais éligibles et l'intensité des aides.
+
+Le Gouvernement flamand détermine dans quelle mesure le cumul des aides est permis, quelle que soit la source ou la forme sous laquelle elles sont accordées, concernant les mêmes frais.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-11-20/20, art. 29, 005; En vigueur : 10-12-2015&gt;
+
+#### Art. 29
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 82, 002; En vigueur : 26-08-2012&gt;
+
+## CHAPITRE 8.
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 83, 002; En vigueur : 26-08-2012&gt;
+
+### Section 1re.
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 83, 002; En vigueur : 26-08-2012&gt;
+
+#### Art. 30
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 83, 002; En vigueur : 26-08-2012&gt;
+
+### Section 2.
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 83, 002; En vigueur : 26-08-2012&gt;
+
+#### Art. 31
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 83, 002; En vigueur : 26-08-2012&gt;
+
+### Section 3.
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 83, 002; En vigueur : 26-08-2012&gt;
+
+#### Art. 32
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 83, 002; En vigueur : 26-08-2012&gt;
+
+#### Art. 33
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 83, 002; En vigueur : 26-08-2012&gt;
+
+## CHAPITRE 9.
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 84, 002; En vigueur : 26-08-2012&gt;
+
+#### Art. 34
+
+&lt;Abrogé par DCFL 2012-07-13/31, art. 84, 002; En vigueur : 26-08-2012&gt;
+
+## CHAPITRE 10. - Aide aux entreprises atteintes par une catastrophe ou crise publique
+
+#### Art. 35
+
+Le Gouvernement flamand peut accorder une aide aux entreprises dont les activités économiques sont sérieusement compromises par une catastrophe ou crise publique qui est reconnue comme telle par un arrêté du Gouvernement flamand.
+
+Dans ce cas, le Gouvernement flamand arrêté les conditions auxquelles une aide peut être accordée ainsi que l'ampleur de l'aide.
+
+## CHAPITRE 11. - Aide de sauvetage et de restructuration
+
+#### Art. 36
+
+Le Gouvernement flamand peut accorder des aides aux entreprises aux conditions mentionnées dans les lignes directrices en matière d'aide de sauvetage et de de restructuration.
+
+## CHAPITRE 12. - L'aide minimis
+
+#### Art. 37
+
+Le Gouvernement flamand peut accorder des aides aux entreprises aux conditions prescrites dans le règlement de minimis.
+
+## CHAPITRE 12/1. [<sup>1</sup> - Aide à des projets à cofinancement européen]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-07-03/03, art. 52, 003; En vigueur : 01-01-2015&gt;
+
+#### Art. 37/1
+
+[<sup>1</sup> Le Gouvernement flamand peut accorder des aides aux entreprises aux conditions énoncées dans le règlement (UE) 2021/1060 du Parlement européen et du Conseil du 24 juin 2021 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires maritimes, la pêche et l'aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds " Asile, migration et intégration ", au Fonds pour la sécurité intérieure et à l'instrument de soutien financier à la gestion des frontières et à la politique des visas (le " règlement portant dispositions communes relatives aux fonds structurels ").]<sup>1</sup>
+
+----------
+
+(1)&lt;AGF 2022-12-23/36, art. 1, 010; En vigueur : 01-01-2023&gt;
+
+#### Art. 37/2
+
+[<sup>1</sup> Le Gouvernement flamand est autorisé, en exécution du règlement portant dispositions communes relatives aux fonds structurels, à instituer le comité de suivi et à en arrêter la composition et le fonctionnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;AGF 2022-12-23/36, art. 1, 010; En vigueur : 01-01-2023&gt;
+
+## CHAPITRE 13. - Règlementation européenne
+
+#### Art. 38
+
+De Vlaamse Regering wordt gemachtigd om het decreet aan te passen aan de toekomstige strengere of soepelere Europese reglementering.
+
+Er kan op basis van een steunregeling als vermeld in dit decreet, pas steun toegekend worden na de inwerkingtreding van de desbetreffende uitvoeringsbesluiten.
+
+[<sup>1</sup> Le Gouvernement flamand peut, sous la condition de signalement ou notification à la Commission européenne, accorder une aide aux entreprises. Cette aide est directement basée sur respectivement l'article 107 du Traité sur le fonctionnement de l'Union européenne et le Règlement général d'exemption par catégorie, lorsque cette aide ne relève pas des catégories d'aide visées au présent décret.]<sup>1</sup>
+
+[<sup>2</sup> Le présent article ne s'applique pas au chapitre 6/1.]<sup>2</sup>
+
+----------
+
+(1)&lt;AGF 2015-03-20/08, art. 11, 004; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 61, 009; En vigueur : 01-01-2021&gt;
+
+## CHAPITRE 14. - Paiement de l'aide
+
+#### Art. 39
+
+Sans préjudice de l'application de l'article 15 de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des Comptes, les créances à l'égard de la Région flamande résultant du présent décret et de ses arrêtés d'exécution, sont prescrites et échues à jamais en faveur de la Région flamande si elles ne sont pas transmises dans un délai de [<sup>1</sup> douze]<sup>1</sup> mois après la terminaison du projet.
+
+[<sup>2</sup> Le présent article ne s'applique pas au chapitre 6/1.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2015-12-18/23, art. 34, 006; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 62, 009; En vigueur : 01-01-2021&gt;
+
+## CHAPITRE 15. - Recouvrement
+
+#### Art. 40
+
+Le Gouvernement flamand détermine les cas de recouvrement sans préjudice de l'application des dispositions de la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et des régions, ainsi qu'à l'organisation du contrôle de la Cour des Comptes, [<sup>1</sup> du Code flamand des Finances publiques du 29 mars 2019]<sup>1</sup> et de la loi du 7 juin 1994 modifiant l'arrêté royal du 31 mai 1933 concernant les déclarations à faire en matière de subventions, indemnités et allocations de toute nature, qui sont, en tout ou en partie, à charge de l'Etat.
+
+Le Gouvernement flamand fixe le taux d'intérêt dû en cas de recouvrement.
+
+Le Gouvernement flamand arrête les délais dans lesquels les faits donnant lieu au recouvrement doivent se produire, ainsi que le délai dans lequel il peut recouvrer l'aide.
+
+[<sup>2</sup> Le présent article ne s'applique pas au chapitre 6/1.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-29/45, art. 149, 008; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 63, 009; En vigueur : 01-01-2021&gt;
+
+## CHAPITRE 16. - Disposition finale
+
+#### Art. 41
+
+Le décret du 31 janvier 2003 relatif relatif à la politique d'aide économique, modifié par les décrets des 19 décembre 2003, 15 juillet 2005, 23 décembre 2005, 21 novembre 2008 et 19 décembre 2008, est abrogé.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 16 mars 2012.
+
+Le Ministre-Président du Gouvernement flamand, Ministre flamand de l'Economie, de la Politique extérieure, de l'Agriculture et de la Ruralité,
+
+K. PEETERS

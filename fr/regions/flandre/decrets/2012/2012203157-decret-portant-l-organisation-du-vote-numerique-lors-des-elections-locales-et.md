@@ -1,0 +1,429 @@
+---
+title: "Décret portant l'organisation du vote numérique lors des élections locales et provinciales (cité comme : le décret relatif à l'organisation d'élections numériques du 25 mai 2012)"
+identifier: "2012203157"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/25/2012203157/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2012-05-25
+published: 2012-06-08
+entry_into_force: 2012-06-18
+last_amended: 2026-08-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/25/2012203157/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 08-06-2012 et mise à jour au 20-08-2026"
+retrieved: 2026-10-12
+---
+
+# 25 MAI 2012. - Décret portant l'organisation du vote numérique lors des élections locales et provinciales (cité comme : le décret relatif à l'organisation d'élections numériques du 25 mai 2012)
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions introductives
+
+#### Art. 1er
+
+Le présent décret règle une matière régionale.
+
+#### Art. 2
+
+Dans le présent décret, on entend par décret relatif à l'organisation des élections locales et provinciales : le décret relatif à l'organisation des élections locales et provinciales du 8 juillet 2011.
+
+#### Art. 3
+
+Le présent décret s'applique à l'organisation des élections, visées à l'article 3 du décret relatif à l'organisation des élections locales et provinciales, dans les communes et districts urbains où on vote à l'aide d'un système de vote numérique, à l'exception des articles 4, § 2; 8; 9, § 1er; 25 et 27, s'appliquant à l'organisation d'élections sur l'ensemble du territoire de la Région flamande.
+
+#### Art. 4
+
+§ 1er. Lors des élections locales et provinciales, il n'est pas autorisé d'utiliser un autre système de vote numérique que le système de vote numérique déterminé par le Gouvernement flamand.
+
+Le Gouvernement flamand désigne les communes pouvant utiliser le système de vote numérique, visé à l'alinéa premier, lors de l'organisation de l'élection des organes, visés à l'article 3 du décret relatif à l'organisation des élections locales et provinciales.
+
+[<sup>1</sup> Le Gouvernement flamand désigne les communes pouvant utiliser un module audio lors du scrutin pour les élections des organes visés à l'article 3 du décret électoral local et provincial.]<sup>1</sup>
+
+§ 2. Le Gouvernement flamand met le logiciel à disposition des bureaux de vote faisant usage du système de vote numérique, des bureaux principaux de la commune, des bureaux principaux du district urbain, des bureaux principaux du district provincial et des bureaux principaux de la province.
+
+Le Gouvernement flamand détermine que les systèmes numériques et processus de la gestion des candidats garantissent l'intégrité des données et le scrutin secret en ce qui concerne le vote numérique, le traitement des votes ainsi que pour le calcul des sièges. A cet effet, le Gouvernement flamand demande l'avis de l'organe qu'il a reconnu.
+
+§ 3. Lors de la semaine suivant le jour des élections, le Gouvernement flamand rend public le code source du logiciel de vote.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 74, 002; En vigueur : 24-08-2017&gt;
+
+#### Art. 5
+
+Le présent décret est cité comme : le décret relatif à l'organisation d'élections numériques du 25 mai 2012.
+
+## CHAPITRE 2. - Avant le jour des élections
+
+#### Art. 6
+
+&lt;Abrogé par DCFL 2017-06-30/30, art. 75, 002; En vigueur : 24-08-2017&gt;
+
+#### Art. 7
+
+Par dérogation à l'article 48 du décret relatif à l'organisation des élections locales et provinciales, les bureaux de vote comprennent le président, cinq assesseurs, cinq assesseurs suppléants et un secrétaire. Le Gouvernement flamand peut décider d'y déroger.
+
+#### Art. 8
+
+L'administration communale et l'administration du district urbain prévoient respectivement les bureaux principaux de la commune et les bureaux principaux du district urbain du matériel pour la gestion des candidats et la gestion des résultats. L'administration provinciale prévoit les bureaux principaux du district provincial et les bureaux principaux de la province de ce matériel. Le Gouvernement flamand met à disposition le logiciel à cet effet.
+
+#### Art. 9
+
+§ 1er. Sans préjudice de l'application de l'article 98 du décret relatif à l'organisation des élections locales et provinciales et dès que les listes de candidats soient clôturées définitivement ou, en cas d'appel, dès que les bureaux principaux aient pris connaissance de la décision de la cour d'appel, les présidents du bureau principal de la commune, du bureau principal du district urbain et du bureau principal du district provincial envoient ces listes, et le numéro qui leur a été attribué, au Gouvernement flamand.
+
+Les données, visées à l'alinéa premier, sont envoyées de manière numérique et signée à l'aide du logiciel de vote, visé à l'article 4, § 2.
+
+§ 2. Le Gouvernement flamand soumet les versions imprimées sur lesquelles figurent les numéros d'ordre et les noms de liste des listes proposées, ainsi que les versions imprimées sur lesquelles figurent les noms des candidats, tels qu'ils apparaîtront à l'écran des ordinateurs de vote, à l'approbation des présidents des bureaux principaux, visés au paragraphe 1er. Le cas échéant, chaque président apporte les corrections aux documents, valide les documents en les signant et renvoie les documents validés au Gouvernement flamand.
+
+[<sup>1</sup> Pour les communes visées à l'article 4, § 1, troisième alinéa, le Gouvernement flamand soumet la version audio des listes présentées avec les noms des candidats tels qu'ils pourront être entendus par l'électeur à l'approbation des présidents des bureaux principaux visés au paragraphe 1. Chaque président envoie ses éventuelles remarques par écrit au Gouvernement flamand.]<sup>1</sup>
+
+§ 3. Le Gouvernement flamand veille à ce que les supports d'information contenant le logiciel et les listes de candidats dans une enveloppe scellée, soient transmis, contre récépissé, aux présidents des bureaux principaux de la commune ou, le cas échéant, des bureaux principaux du district urbain, au plus tard le troisième jour avant le jour des élections.
+
+Par bureau de vote, les éléments de sécurité nécessaires pour l'utilisation des supports d'information sont transmis aux présidents des bureaux principaux, visés à l'alinéa premier, dans une enveloppe scellée séparée, contre récépissé.
+
+Le président du bureau principal de la commune ou, le cas échéant, du bureau principal du district urbain, transmet à chaque président du bureau de vote les enveloppes, visées aux alinéas premier et deux, qui lui sont destinées, contre récépissé, au plus tôt le jour avant le jour des élections.
+
+[<sup>2</sup> § 4. Le Gouvernement flamand désigne l'entité qui agit en tant que responsable du traitement, tel que visé à l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), pour le traitement des données à caractère personnel que le Gouvernement flamand reçoit conformément aux paragraphes 1er à 3.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 76, 002; En vigueur : 24-08-2017&gt;
+
+(2)&lt;DCFL 2023-10-27/19, art. 80, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 10
+
+Le système de vote numérique comprend par bureau de vote :
+
+1° par dérogation à l'article 124 du décret relatif à l'organisation des élections locales et provinciales, une urne numérique avec scanner;
+
+2° un ou plusieurs ordinateurs de vote avec écran tactile intégré et imprimante intégrée;
+
+3° un ordinateur pour le président avec une unité de disque optique pour des cartes à puce [<sup>1</sup> ...]<sup>1</sup>;
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° des cartes à puce.
+
+Chaque isoloir du local de vote est muni d'un ordinateur de vote. [<sup>1</sup> Dans chaque local de vote des communes visées à l'article 4, § 1, troisième alinéa, un isoloir est muni d'un module audio que l'électeur peut utiliser lors de son vote.]<sup>1</sup>.
+
+Le Gouvernement flamand détermine les règles selon lesquelles les candidats d'une liste de candidats sont affichés à l'écran de l'ordinateur de vote.
+
+Par dérogation à l'article 123, § 2, du décret relatif à l'organisation des élections locales et provinciales, il y a au moins un isoloir par [<sup>1</sup> deux cents]<sup>1</sup> électeurs. [<sup>1</sup> ...]<sup>1</sup>.
+
+Dans chaque local de vote, toutes les listes de candidats pour chacune des élections sont affichées sur un panneau d'affichage à cet effet.[<sup>2</sup> ...]<sup>2</sup>
+
+Sans préjudice de l'application de l'article 125 du décret relatif à l'organisation des élections locales et provinciales, un exemplaire du présent décret peut être consulté dans le local de vote.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 77, 002; En vigueur : 24-08-2017&gt;
+
+(2)&lt;DCFL 2023-10-27/19, art. 81, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 11
+
+§ 1er. L'administration communale assure l'entretien et la conservation du matériel. Elle gère ces biens en bon père de famille. Elle fait réparer ou remplacer tout le matériel hors service dans les meilleurs délais. Les frais en sont à la charge de la commune. La commune conclut un contrat d'entretien à cet effet.
+
+Les frais de l'assistance technique le jour des élections locales et provinciales sont à la charge des autorités flamandes.
+
+§ 2. Le logiciel de vote, les éléments de sécurité et les supports d'information sont fournis gratuitement pour les élections locales et provinciales par les autorités flamandes.
+
+§ 3. Le matériel de vote, qui est la propriété des autorités flamandes, peut être utilisé gratuitement par les communes pour des élections organisées par les autorités fédérales.
+
+[<sup>1</sup> § 4. L'administration communale désigne un coordinateur chargé :
+
+1° de l'organisation de la formation des présidents des bureaux de vote ;
+
+2° de la réalisation des essais techniques obligatoires des appareils ;
+
+3° de l'installation des appareils dans les bureaux de vote ;
+
+4° des consommables logistiques nécessaires le jour des élections ;
+
+5° de l'aide à l'utilisation des appareils par les membres du bureau ;
+
+6° de la coordination du signalement et de la résolution des problèmes techniques avant le jour des élections et le jour des élections.]<sup>1</sup>
+
+[<sup>2</sup> Le membre du personnel, visé à l'alinéa 1er, communique, dans les vingt-quatre heures après sa désignation, à l'agence, créée par l'arrêté du Gouvernement flamand du 28 octobre 2005 portant création de l'agence autonomisée interne " Agentschap Binnenlands Bestuur " (Agence de l'Administration intérieure), ses prénom et nom, numéro de registre national, adresse e-mail et numéro de téléphone, de sorte que l'agence peut le contacter si nécessaire pour l'organisation des élections et qu'une authentification de cette personne est possible afin de lui donner accès aux applications électorales numériques qui sont mises à sa disposition pour l'exercice de sa fonction. Les données précitées sont conservées jusqu'au jour des élections.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 78, 002; En vigueur : 24-08-2017&gt;
+
+(2)&lt;DCFL 2023-10-27/19, art. 82, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 12
+
+§ 1er. [<sup>1</sup> Le Parlement flamand compose un collège d'au moins quatre experts et désigne ces experts pour une période de six ans, au plus tard trois mois avant le jour des élections.
+
+Un des experts visés à l'alinéa 1er a un diplôme de licencié en droit ou un diplôme de master en droit. Les autres experts sont des spécialistes en informatique.
+
+Si aucun nouvel expert n'est désigné conformément à l'alinéa 1er, les experts désignés continuent à exercer leurs fonctions jusqu'à ce qu'il soit procédé à une nouvelle désignation. Les experts désignés par la suite n'exercent leurs fonctions que pour la durée restante du délai de six ans visé à l'alinéa 1er.]<sup>1</sup>
+
+§ 2. Lors des élections, les experts veillent à l'utilisation, le bon fonctionnement et l'intégrité des processus numériques concernant les candidats, le vote et la répartition des sièges, ainsi qu'aux procédures pour la création, la distribution et l'utilisation du matériel, du logiciel et des supports d'information numériques. Les experts reçoivent du Gouvernement flamand le matériel, ainsi que toutes les données, renseignements et informations nécessaires à l'exercice de cette mission[<sup>1</sup> et ont également accès aux locaux de vote le jour des élections.]<sup>1</sup>
+
+Ils effectuent le contrôle avant le jour des élections, le jour des élections même et après le jour des élections jusqu'à l'introduction du rapport, visé au paragraphe 3.
+
+§ 3. Ils transmettent un rapport au Gouvernement flamand et au Parlement flamand au plus tard dix jours après le jour des élections. Leur rapport peut contenir des recommandations concernant le matériel et le logiciel utilisés et les procédures appliquées[<sup>1</sup>, ainsi que des recommandations concernant des affaires juridiques ]<sup>1</sup>.
+
+§ 4. Les experts sont tenus au secret. Toute atteinte portée au secret, à l'exception du cas d'être appelé en justice à porter témoignage devant un tribunal ou une commission d'enquête parlementaire et à l'exception du cas où la loi oblige à rendre public ces secrets, est punie [<sup>2</sup> d'une peine telle que visée à l'article 352 du Code pénal]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2023-10-27/19, art. 83, 004; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFL 2026-07-17/28, art. 39, 005; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE 3. - Le jour des élections
+
+### Section 1re. - Avant et lors du vote
+
+#### Art. 13
+
+Par dérogation à l'article 126, alinéa premier, du décret relatif à l'organisation des élections locales et provinciales, le président installe le bureau de vote à sept heures au plus tard.
+
+#### Art. 14
+
+En présence des membres du bureau de vote, le président vérifie avant l'ouverture du bureau de vote si le compteur des votes exprimés est à zéro et si l'urne est vide, et il scelle l'urne. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 79, 002; En vigueur : 24-08-2017&gt;
+
+#### Art. 15
+
+Par dérogation à l'article 134, alinéa premier, du décret relatif à l'organisation des élections locales et provinciales, les électeurs sont admis au vote de huit à quinze heures.
+
+#### Art. 16
+
+§ 1er. Par dérogation à l'article 138, alinéa premier, du décret relatif à l'organisation des élections locales et provinciales, l'électeur reçoit du président du bureau de vote ou d'un assesseur désigné une carte à puce initiée préalablement par le président ou l'assesseur qui permet de voter une fois par élection pour laquelle l'électeur a été [<sup>2</sup> invité]<sup>2</sup>.
+
+§ 2. Pour voter, l'électeur introduit d'abord la carte à puce dans l'ordinateur de vote.
+
+Lorsque différentes élections ont lieu au même moment, elles sont affichées à l'écran de l'ordinateur de vote dans l'ordre suivant :
+
+1° l'élection du conseil communal;
+
+2° le cas échéant : l'élection du conseil du district urbain ou du conseil d'aide sociale;
+
+3° l'élection du conseil provincial;
+
+Lorsque l'électeur peut choisir la langue des opérations de vote, en vertu des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, il est d'abord invité à faire ce choix. Après sa confirmation, ce choix est définitif pour toutes les opérations de vote.
+
+§ 3. Pour chaque élection, le numéro d'ordre et le nom de liste de toutes les listes de candidats s'affichent à l'écran.
+
+L'électeur indique sur l'écran tactile la liste de son choix ou remet un bulletin blanc.
+
+Le numéro d'ordre, le nom et un prénom ou le prénom usuel des candidats pour cette liste s'affichent à l'écran après que l'électeur a indiqué une liste.
+
+L'électeur exprime son vote en touchant l'écran tactile :
+
+1° la case en tête de la liste [<sup>1</sup> ...]<sup>1</sup>;
+
+2° la case avec le nom d'un ou de plusieurs candidats de la même liste, ou la case en tête de la liste en combinaison avec la case d'un ou de plusieurs candidats au sein de la même liste [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 4. Après que l'électeur a exprimé son vote conformément au paragraphe 3, il est invité à le confirmer. Tant que le vote n'a pas été confirmé, l'électeur peut recommencer l'opération de vote pour l'élection.
+
+§ 5. Le cas échéant, l'électeur est ensuite invité, par le biais d'une instruction s'affichant à l'écran, à voter pour l'élection suivante, selon la même procédure.
+
+----------
+
+(1)&lt;DCFL 2021-07-16/11, art. 23, 003; En vigueur : 14-08-2021&gt;
+
+(2)&lt;DCFL 2023-10-27/19, art. 84, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 17
+
+§ 1er. Lorsque l'électeur a exprimé son vote pour toutes les élections pour lesquelles il a été [<sup>2</sup> invité]<sup>2</sup>, l'ordinateur de vote imprime un bulletin de vote en papier sur lequel est imprimé le vote exprimé (ou sont exprimés les votes exprimés) en version textuelle et en code à barres bidimensionnel. L'électeur arrache le bulletin de vote de l'ordinateur de vote et enlève la carte à puce. L'électeur peut vérifier son vote sur le bulletin de vote de manière visuelle et plie le bulletin en deux parties égales avec le côté imprimé à l'intérieur. Des données concernant le vote ne sont sauvegardées ni sur l'ordinateur de vote, ni sur la carte à puce. [<sup>1</sup> ...]<sup>1</sup>.
+
+Par dérogation à l'article 138, § 3, alinéas premier et deux, du décret relatif à l'organisation des élections locales et provinciales, l'électeur remet la carte à puce au président du bureau de vote ou à l'assesseur que ce dernier a désigné et balaye le code à barres du bulletin de vote. [<sup>1</sup> Après que le président ou l'assesseur désigné par lui a constaté que l'électeur a effectivement balayé le code à barres, l'électeur replie le bulletin de vote avec le côté imprimé à l'intérieur et le dépose dans l'urne.]<sup>1</sup>
+
+§ 2. Par dérogation à l'article 139 du décret relatif à l'organisation des élections locales et provinciales, le bulletin de vote est annulé :
+
+1° lorsque l'électeur plie son bulletin de vote de sorte que le vote qu'il a exprimé est révélé;
+
+2° lorsque l'électeur a endommagé le bulletin de vote [<sup>1</sup> ...]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° sur la demande explicite de l'électeur;
+
+5° lorsque le code à barres ne peut être lu par l'urne numérique.
+
+Dans ce cas, le président rend le bulletin de vote immédiatement inutilisable et l'électeur reçoit une autre carte à puce avec laquelle il peut à nouveau exprimer son vote, conformément à l'article 16.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 80, 002; En vigueur : 24-08-2017&gt;
+
+(2)&lt;DCFL 2023-10-27/19, art. 85, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 18
+
+[<sup>1</sup> Pour les communes visées à l'article 4, § 1, troisième alinéa, l'électeur peut demander au président du bureau de vote d'utiliser le module audio.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 81, 002; En vigueur : 24-08-2017&gt;
+
+#### Art. 19
+
+Le balayage du bulletin de vote imprimé par l'urne numérique génère le vote de l'électeur en forme numérique. Le bulletin de vote imprimé même est purement destiné à des fins de contrôle et d'audit.
+
+C'est uniquement en cas d'un recomptage éventuel [<sup>1</sup> , conformément à l'article 24, troisième alinéa,]<sup>1</sup> que le président du bureau principal compétent peut décider de ne pas accepter des bulletins de vote dont le texte du vote est devenu illisible ou dont la correspondance entre le texte et le code à barres ne peut plus être vérifié. Le bureau principal en fait mention dans le procès-verbal.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 82, 002; En vigueur : 24-08-2017&gt;
+
+#### Art. 20
+
+L'électeur qui éprouve des difficultés pour exprimer son vote, peut se faire assister par le président ou par un membre du bureau de vote désigné par le président.
+
+Lorsque le président ou un membre du bureau de vote conteste la réalité de ces difficultés, le bureau de vote se prononce à ce sujet et sa décision motivée est reprise dans le procès-verbal.
+
+### Section 2. - Après le vote
+
+#### Art. 21
+
+[<sup>1</sup> Par dérogation aux articles 142 et 144 du décret électoral local et provincial, le président débranche les ordinateurs de vote à la fin du vote, établit le procès-verbal et clôture l'application.]<sup>1</sup>
+
+Le procès-verbal comprend le nombre de votes enregistrés par élection. Le cas échéant, il mentionne en outre les difficultés et les incidents qui se sont produits lors des opérations de vote.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 83, 002; En vigueur : 24-08-2017&gt;
+
+#### Art. 22
+
+Les données de vote du bureau de vote sont toujours sauvegardées sur deux supports d'information originaux, connectés à l'ordinateur, sous forme cryptée et ne pouvant être falsifiée. Les données ne sont sauvegardées sur aucun autre support dans l'ordinateur du président que sur ces deux supports d'information.
+
+Les deux supports d'information sont mis ensemble dans une enveloppe sur lequel est écrit la date de l'élection et l'identification du bureau de vote et le destinataire. Cette enveloppe est scellée et signée au verso par le président et les membres du bureau de vote. Lorsque les témoins le demandent, ils peuvent signer également.
+
+[<sup>1</sup> En cas de vote numérique, le Gouvernement flamand publie les données de vote des bureaux de vote individuels où au moins cinq cent électeurs ont émis leur vote.]<sup>1</sup>
+
+[<sup>1</sup> Les données de vote d'un bureau de vote individuel où moins de cinq cent électeurs ont émis leur vote, ne sont pas publiées. Dans ce cas, la publication des données de vote est considérée comme la révélation du secret du vote, visée à l'article 241 du Décret électoral local et provincial.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-10-27/19, art. 86, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 23
+
+§ 1er. Les urnes scellées sont ouvertes immédiatement après le vote. Par dérogation à l'article 145, alinéas premier et deux, du décret relatif à l'organisation des élections locales et provinciales, les bulletins de vote sont mis dans l'enveloppe destinée à cet effet.
+
+[<sup>1</sup> Les bulletins de vote annulés conformément à l'article 17, § 2, sont mis dans une enveloppe scellée séparée.]<sup>1</sup>
+
+Les enveloppes, visées aux alinéas premier et deux, sont remis au président du bureau principal de la commune ou, le cas échéant, du bureau principal du district urbain, avec le procès-verbal, visé à l'article 21, et les supports d'information, visés à l'article 22, contre récépissé.
+
+§ 2. Le président du bureau de vote transmet les pièces suivantes au président du bureau principal de la commune ou, le cas échéant, du bureau principal du district urbain, contre récépissé :
+
+1° l'enveloppe scellée avec les deux exemplaires des listes de contrôle;
+
+2° les lettres de désignation des témoins, visés à l'article 116 du décret relatif à l'organisation des élections locales et provinciales;
+
+3° les procurations et les attestations y afférentes, visées à l'article 56, § 2, décret relatif à l'organisation des élections locales et provinciales;
+
+4° [<sup>2</sup> la liste des électeurs qui ne figuraient pas sur les listes de contrôle, mais qui ont tout de même voté, visée à l'article 143, alinéa 1er, 2°, du décret électoral local et provincial, et les documents qu'a reçus le président de ces électeurs conformément à l'article 137, § 3, du décret précité ;]<sup>2</sup>
+
+[<sup>2</sup> 5° la liste des électeurs qui ont exercé une procuration pour un autre électeur, visée à l'article 143, alinéa 1er, 1°, du décret électoral local et provincial ;]<sup>2</sup>
+
+[<sup>2</sup> 6° la liste indiquant la composition du bureau de vote, qui a été transmise conformément à l'article 50, alinéa 6, du décret électoral local et provincial.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 84, 002; En vigueur : 24-08-2017&gt;
+
+(2)&lt;DCFL 2023-10-27/19, art. 87, 004; En vigueur : 01-01-2024&gt;
+
+#### Art. 24
+
+Immédiatement après la réception des supports d'information, visés à l'article 22, le président du bureau principal de la commune ou, le cas échéant, du bureau principal du district urbain, télécharge les données de ces supports vers le système pour le traitement et l'agrégation des votes.
+
+Lorsqu'il s'avère que l'enregistrement par le biais du support d'information originel est impossible, le président du bureau principal recommence l'opération d'enregistrement à l'aide de la copie de ce support.
+
+Lorsqu'il s'avère que cette opération est également impossible, le président du bureau principal de la commune concernée ou, le cas échéant, du district urbain, réclame un système de vote numérique et le bureau principal rebalaye tous les bulletins de vote du bureau de vote.
+
+#### Art. 25
+
+Lorsque les résultats de tous les bureaux de vote sont enregistrés, le président du bureau principal de la commune imprime le procès-verbal des élections du conseil communal et, le cas échéant, des élections du conseil d'aide sociale, ainsi que le procès-verbal du comptage général des élections du conseil provincial pour sa commune. Les membres du bureau principal et les témoins signent ces procès-verbaux.
+
+Lorsque les résultats de tous les bureaux de vote ont été enregistrés, le président du bureau principal du district urbain imprime, le cas échéant, le procès verbal des élections du conseil du district urbain, ainsi que les procès-verbaux du comptage général des élections du conseil communal et des élections du conseil provincial. Les membres du bureau principal et les témoins signent ces procès-verbaux.
+
+#### Art. 26
+
+§ 1er.[<sup>1</sup> les procès-verbaux du bureau principal communal, visés à l'article 25, alinéa 1er, du présent décret, les procès-verbaux du bureau principal communal d'arrêt provisoire et d'arrêt définitif, accompagnés des actes de présentation, visés à l'article 68, § 1er, du décret électoral local et provincial, et les documents transmis au président du bureau principal communal conformément aux articles 89, 90 et 91 du décret électoral local et provincial ;]<sup>1</sup>
+
+1° les procès-verbaux du bureau principal de la commune, visé à l'article 25, alinéa premier, le cas échéant complété par les procès-verbaux du comptage général des élections du conseil communal, reçus du président des bureaux principaux du district urbain, conformément à l'article 162, alinéa deux, du décret relatif à l'organisation des élections locales et provinciales;
+
+2° les pièces qui lui ont été transmises, conformément à l'article 23.
+
+Le président transmet les supports d'information, visés à l'article 22, contre récépissé.
+
+§ 2. Par dérogation aux articles 175 et 176 du décret relatif à l'organisation des élections locales et provinciales, le président du bureau principal du district urbain transmet dans un délai de trois jours suivant les élections les pièces suivantes au gouverneur de la province :
+
+1° les procès-verbaux du bureau principal du district urbain, visé à l'article 25, alinéa deux;
+
+2° les pièces qui lui ont été transmises, conformément à l'article 23.
+
+Le président transmet les supports d'information, visés à l'article 22, contre récépissé.
+
+----------
+
+(1)&lt;DCFL 2023-10-27/19, art. 88, 004; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE 4. - Dispositions générales
+
+#### Art. 27
+
+Pour l'exécution de leurs missions, décrites au décret relatif à l'organisation des élections locales et provinciales, les bureaux principaux de la commune, les bureaux principaux du district urbain, les bureaux principaux du district provincial et l'Agence de l'Administration intérieure ont :
+
+1° accès au Registre national des personnes physiques, institué par la loi du 8 août 1983 organisant un Registre national des personnes physiques;
+
+2° le droit d'utiliser le numéro d'identification du Registre national.
+
+## CHAPITRE 5. - Dispositions finales
+
+#### Art. 28
+
+Les articles suivants du décret relatif à l'organisation des élections locales et provinciales ne s'appliquent pas à des élections où il est fait usage d'un système de vote numérique :
+
+1° [<sup>1</sup> l'article 42, alinéas deux, trois, quatre, cinq et six ;]<sup>1</sup>
+
+2° l'article 43;
+
+3° [<sup>1</sup> l'article 44, § 1, alinéa trois, 1° et 3° ;]<sup>1</sup>
+
+4° les articles 45, 46 et 47;
+
+5° les articles 121 et 122;
+
+6° les articles 150 à 160 inclus.
+
+----------
+
+(1)&lt;DCFL 2017-06-30/30, art. 85, 002; En vigueur : 24-08-2017&gt;
+
+#### Art. 29
+
+La loi organisant le vote automatisé du 11 avril 1994, modifiée en dernier lieu par la loi du 12 août 2000 et par le décret du 10 février 2006, est abrogée pour les élections locales et provinciales en Région flamande.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 mai 2012.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand des Affaires administratives, de l'Administration intérieure, de l'Intégration civique, du Tourisme et de la Périphérie flamande de Bruxelles,
+
+G. BOURGEOIS

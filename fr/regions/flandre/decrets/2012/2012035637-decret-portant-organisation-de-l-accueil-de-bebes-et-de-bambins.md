@@ -1,0 +1,1123 @@
+---
+title: "Décret portant organisation de l'accueil de bébés et de bambins"
+identifier: "2012035637"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/20/2012035637/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2012-04-20
+published: 2012-06-15
+entry_into_force: 2014-01-01
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/20/2012035637/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 15-06-2012 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 20 AVRIL 2012. - Décret portant organisation de l'accueil de bébés et de bambins
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+### Section 1re. - Délimitation et définitions
+
+##### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+##### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° [<sup>4</sup> agence : l'agence autonomisée interne dotée de la personnalité juridique " Opgroeien regie " (Grandir régie), créée par l'article 3 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie (" Opgroeien regie ") ;]<sup>4</sup>
+
+[<sup>6</sup> 1° /1 règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ; ]<sup>6</sup>
+
+2° accueil d'enfants : accueil de bébés et de bambins, [<sup>6</sup> en dehors de l'habitation familiale de l'enfant, ]<sup>6</sup> à savoir l'éducation à titre de profession et moyennant rémunération, la contribution au développement et la garde de bébés et de bambins jusqu'à ce qu'ils vont à l'école maternelle, visée à l'article 3, 26°, du décret relatif à l'enseignement fondamental du 25 février 1997;
+
+3° emplacement d'accueil d'enfants : une implantation où l'on organise l'accueil d'enfants;
+
+4° organisateur : la personne physique ou morale qui organise l'accueil d'enfants;
+
+5° responsable : la personne désignée par l'organisateur pour régler quotidiennement le fonctionnement qualitatif de l'emplacement d'accueil d'enfants;
+
+6° accompagnateur d'enfants : la personne désignée par l'organisateur pour éduquer les enfants, contribuer à leur développement et en prendre soin;
+
+7° condition de départ : la condition que doit remplir un organisateur d'accueil d'enfants avant le début des activités de l'emplacement d'accueil d'enfants pour obtenir une autorisation;
+
+8° condition de fonctionnement : la condition que doit remplir un organisateur d'un emplacement d'accueil d'enfants autorisé pour maintenir l'autorisation;
+
+9° administration locale : l'administration communale et l'administration du centre public d'aide sociale. Pour les communes de la région bilingue de Bruxelles-Capitale, les missions de l'administration locale sont reprises par la Commission communautaire flamande;
+
+10° guichet local en matière d'accueil d'enfants : un point d'appui et d'information neutre pour les familles ayant une demande d'accueil d'enfants, sous forme d'un réseau d'acteurs pertinents pour l'accueil d'enfants;
+
+11° surveillant : l'organisation qui désigne une ou plusieurs personnes chargée de la surveillance, afin d'établir sur place si l'organisateur respecte les dispositions du présent décret et de ses arrêtés d'exécution, afin de conseiller [<sup>4</sup> l'agence]<sup>4</sup> à ce sujet;
+
+12° personne [<sup>3</sup> privée]<sup>3</sup> chargée de la surveillance : le membre du personnel [<sup>3</sup> privé]<sup>3</sup> du surveillant qui exerce la surveillance;
+
+13° [<sup>5</sup> ...]<sup>5</sup>
+
+14° le nombre d'enfants présents simultanément : tous les bébés, bambins et enfants fréquentant l'enseignement fondamental, et, en ce qui concerne les enfants appartenant à la famille de l'accompagnateur d'enfants de l'accueil familial, jusqu'à la fin de l'école maternelle, qui sont simultanément présents dans l'emplacement d'accueil d'enfants;
+
+15° région de soins : région de soins au niveau de la petite ville telle que visée à l'article 2, 5°, du décret du 23 mai 2003 relatif à la répartition en régions de soins et relatif à la coopération et à la programmation de structures de santé et de structures d'aide sociale. Les communes appartenant à la région bilingue de Bruxelles-Capitale sont considérées comme une seule région de soins distincte;
+
+16° qualification : un ensemble complet et intégré de compétences;
+
+17° compétence : la capacité d'appliquer des savoirs, aptitudes et attitudes de façon intégrée dans l'action pour des activités sociales.
+
+[<sup>3</sup> 18° surveillant privé : un surveillant de droit privé des sociétés ou des associations.]<sup>3</sup>
+
+[<sup>6</sup> 19° les principes de précaution, de prévention et de minutie, ci-après dénommés le principe de précaution : la possibilité de prendre des mesures administratives, indépendamment de la constatation d'une infraction aux dispositions, si, dans le cadre de l'accueil d'enfants tel que visé au présent décret ou à ses arrêtés d'exécution :
+
+a) il y a un risque de violation de l'intégrité physique ou psychique des enfants ;
+
+b) il y a une constatation d'un événement grave d'atteinte à l'intégrité physique ou psychique des enfants ;
+
+20° pouvoir gestionnel : la mesure dans laquelle l'organisateur est en mesure de mener une politique autonome, compte tenu de la marge de manoeuvre politique disponible, des propres objectifs et du contexte local, et la mesure dans laquelle les activités du responsable et des collaborateurs sont alignées en vue de contribuer à l'épanouissement des enfants.]<sup>6</sup>
+
+Entre autres les activités suivantes ne sont pas considérées comme l'accueil d'enfants relatif aux bébés et aux bambins :
+
+1° [<sup>2</sup> aide à la jeunesse telle que visée à l'article 2, § 1er, 30°, du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse;]<sup>2</sup>
+
+2° l'offre de soins exclusifs à des enfants handicapés;
+
+3° l'offre de soins de santé à des enfants;
+
+4° la garde d'enfants de clients ou de visiteurs.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/31, art. 4, 004; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2016-07-15/17, art. 80, 005; En vigueur : 29-08-2016&gt;
+
+(3)&lt;DCFL 2018-01-19/09, art. 31, 009; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCFL 2021-05-21/21, art. 13, 012; En vigueur : 18-04-2019&gt;
+
+(5)&lt;DCFL 2023-04-21/07, art. 7, 013; En vigueur : 01-06-2023&gt;
+
+(6)&lt;DCFL 2024-04-19/13, art. 2, 015; En vigueur : 01-01-2024&gt;
+
+### Section 2. - Objectifs et principes
+
+##### Art. 3
+
+Dans le cadre de l'accueil d'enfants, la Communauté flamande vise à offrir aux familles des services ayant une fonction économique, pédagogique et sociale, qui sont qualitatifs, disponibles, abordable et directement accessibles à chaque enfant sans distinction, à titre de complément à l'éducation de l'enfant au sein de sa famille, en respectant la capacité de l'enfant, son environnement familial et la liberté de choix de la famille.
+
+Au sein de l'offre disponible d'accueil d'enfants, chaque famille ayant un besoin d'accueil d'enfants a droit à l'accueil. [<sup>1</sup> ...]<sup>1</sup>
+
+Dans la Communauté flamande l'accueil d'enfants est élaboré dans le but de pouvoir offrir, à toutes les familles ayant un besoin d'accueil d'enfants, une place d'accueil qualitative et abordable, dans un délai raisonnable et à une distance raisonnable.
+
+[<sup>1</sup> La Communauté flamande élabore un cadre de financement en vue d'un développement durable de l'accueil d'enfants, tant sur le plan qualitatif que quantitatif.
+
+Le développement des aspects précités dans l'accueil d'enfants se fait dans un cadre budgétaire convenu.]<sup>1</sup>
+
+Des guichets locaux, tels que visés à l'article 13 doivent promouvoir l'accessibilité des emplacements d'accueil d'enfants, visée à l'alinéa premier, pour toutes les familles.
+
+Tant que l'offre ne suffit pas pour toutes les familles ayant un besoin d'accueil d'enfants, le Gouvernement flamand détermine, en fonction de l'accessibilité, les groupes pouvant utiliser par priorité l'offre pour laquelle l'organisateur reçoit une subvention telle que visée aux articles 8 et 9.
+
+Lors de la programmation des [<sup>2</sup> subventions]<sup>2</sup>, telle que visée aux articles 8 et 9, le Gouvernement flamand tient compte d'une estimation scientifiquement étayée du besoin d'accueil d'enfants qui est basée au moins sur :
+
+1° la natalité constatée et la prévision de la natalité future dans la Région flamande et la Région de Bruxelles-Capitale;
+
+2° le nombre d'enfants faisant appel à l'accueil d'enfants;
+
+3° les caractéristiques familiales et la situation de travail des familles ayant des enfants non scolarisés, surtout dans le cadre de la stimulation du taux d'activité;
+
+4° le nombre de places dans des emplacements d'accueil d'enfants autorisés et leur occupation;
+
+5° les caractéristiques de la commune.
+
+----------
+
+(1)&lt;DCFL 2024-04-19/13, art. 3, 015; En vigueur : 18-05-2024&gt;
+
+(2)&lt;DCFL 2025-12-19/57, art. 12, 020; En vigueur : 09-01-2026&gt;
+
+## CHAPITRE 2. - Système d'autorisation
+
+### Section 1re. - Obligation d'autorisation
+
+##### Art. 4
+
+Un organisateur doit disposer d'une ou de plusieurs autorisations suivantes de [<sup>2</sup> l'agence]<sup>2</sup> afin de pouvoir organiser l'accueil d'enfants :
+
+1° autorisation pour l'accueil familial, lorsque l'accueil d'enfants a lieu en dehors du logement familial de l'enfant, pour un maximum de huit enfants présents simultanément;
+
+2° autorisation pour l'accueil d'un groupe d'enfants, lorsque l'accueil d'enfants a lieu en dehors du logement familial de l'enfant, et lorsqu'un maximum de neuf enfants peuvent être présents simultanément;
+
+3° autorisation pour l'accueil à domicile, lorsque l'organisateur de l'accueil d'enfants n'accueille les enfants que dans leur propre logement familial.
+
+Une personne physique qui organise l'accueil d'enfants dans un emplacement d'accueil d'enfants dans la région bilingue de Bruxelles-Capitale peut demander volontairement une autorisation auprès de [<sup>2</sup> l'agence]<sup>2</sup>.
+
+Une autorisation est accordée par [<sup>2</sup> l'agence]<sup>2</sup> lorsqu'un examen approprié, effectué par un surveillant ou par [<sup>2</sup> l'agence]<sup>2</sup>, tel que visé à l'article 16, démontre que l'organisateur de l'emplacement d'accueil d'enfants remplit les conditions de départ, visées au présent décret et à ses arrêtés d'exécution. [<sup>3</sup> L'examen approprié porte au moins sur la présence du pouvoir gestionnel, visé à l'article 6, § 1er. ]<sup>3</sup>
+
+Lorsque l'organisateur remplit les conditions, visées au présent décret et à ses arrêtés d'exécution, une autorisation à durée indéterminée s'applique, sans préjudice de l'application de l'article 19.
+
+L'organisateur informe [<sup>2</sup> l'agence]<sup>2</sup> et les familles des enfants à accueillir à temps de la cessation temporaire ou définitive de l'accueil d'enfants ou de toute modification ayant des effets pour l'autorisation.
+
+Le Gouvernement flamand détermine la procédure de demande, d'octroi [<sup>1</sup> et de modification]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup> de l'autorisation, y compris la possibilité de déposer une réclamation, ainsi que la procédure d'imposer une sanction lorsqu'une cessation ou une modification qui a des effets pour l'autorisation, n'est pas communiquée ou n'est pas communiquée à temps.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 81, 005; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 14, 012; En vigueur : 18-04-2019&gt;
+
+(3)&lt;DCFL 2024-04-19/13, art. 4,2°, 015; En vigueur : 01-01-2024&gt;
+
+##### Art. 5
+
+[<sup>1</sup> L'autorisation comporte]<sup>1</sup> au moins les données suivantes :
+
+1° l'organisateur;
+
+2° l'implantation;
+
+3° le nombre de places d'accueil autorisées, à savoir le nombre maximal autorisé d'enfants présents simultanément dans l'emplacement d'accueil d'enfants;
+
+4° la date d'octroi de l'autorisation.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le Gouvernement flamand peut déterminer des données supplémentaires à reprendre.
+
+Lorsque les données, visées aux alinéas premier et deux, reprises sur l'autorisation délivrée, ne correspondent plus à la réalité ou s'il y a lieu d'une autre manière de modifier ces données, une autorisation nouvelle ou adaptée doit être demandée selon la procédure visée à l'article 4, alinéa six.
+
+----------
+
+(1)&lt;DCFL 2024-04-19/13, art. 5, 015; En vigueur : 01-01-2026&gt;
+
+### Section 2. - Conditions d'autorisation
+
+##### Art. 6
+
+§ 1er. [<sup>4</sup> L'organisateur fait preuve de l'intégrité et dispose du pouvoir gestionnel lui permettant d'organiser une garde d'enfants de manière légitime, en tenant compte des normes et valeurs en vigueur, de qualité et durable.
+
+Le respect des conditions visées à l'alinéa 1er, est attesté par la manière dont les aspects suivants sont présents dans le fonctionnement autorisé :
+
+1° une direction claire, dans un environnement de travail structuré, où les compétences et les responsabilités sont clairement attribuées et où l'organisateur veille à ce que l'ensemble des collaborateurs connaissent et appliquent au moins l'approche intégrée visée au point 2° ;
+
+2° une approche intégrée de tous les thèmes suivants :
+
+a) l'infrastructure, au moins l'espace destiné à l'accueil d'enfants, son équipement et son aménagement ;
+
+b) la santé et la sécurité, y compris les exigences spécifiques en matière de sécurité incendie pour les milieux d'accueil d'enfants, sans préjudice de l'application des normes de base fédérales en matière de sécurité incendie des bâtiments ;
+
+c) les contacts avec les enfants et les familles, dont au moins :
+
+1\) le respect de l'intégrité et de la non-discrimination ;
+
+2\) une politique pédagogique visant à encourager le développement physique, cognitif, social, émotionnel, communicatif, créatif et moral de chaque enfant, et à assurer le bien-être et la participation de chaque enfant ;
+
+3\) l'engagement et la participation des familles ;
+
+4\) le règlement d'ordre intérieur et la convention écrite ;
+
+5\) la fiche d'information et le registre de présence ;
+
+d) les personnes employées au sein du milieu d'accueil d'enfants, au moins en ce qui concerne :
+
+1\) le responsable, comme sa qualification et sa connaissance active de la langue néerlandaise ;
+
+2\) l'accompagnateur d'enfants, comme sa qualification, le nombre d'accompagnateurs d'enfants par rapport au nombre d'enfants présents simultanément, et pour au moins un des accompagnateurs d'enfants la connaissance active de la langue néerlandaise ;
+
+3\) d'autres personnes en contact direct et régulier ;
+
+e) la gestion organisationnelle du milieu d'accueil d'enfants, au moins la politique du personnel, le fonctionnement général et financier, la division en groupes de vie et le traitement des plaintes ;
+
+f) la coopération avec l'agence, le guichet local en matière d'accueil d'enfants et l'administration locale ;
+
+3° une attitude réflective, proactive et réactive en vue d'une amélioration continue du propre fonctionnement, en tenant compte du feed-back et de la contribution des familles, des collaborateurs et de l'expertise pertinente d'organisations externes ;
+
+4° une attitude innovante, en portant une attention à la modernisation, compte tenu des évolutions de l'environnement, de la société et des réglementations ;
+
+5° une communication efficace et toute la transparence requise, en veillant à ce que les informations nécessaires et correctes parviennent aux bonnes personnes en temps voulu et de manière claire, dont les personnes employées au sein du milieu d'accueil et les familles des enfants gardés ;
+
+6° une coopération et une communication transparente avec l'agence, l'administration locale, le guichet local en matière d'accueil d'enfants et d'autres partenaires locaux.
+
+L'organisateur fournit un soutien pour lui-même et ses collaborateurs pour toutes les conditions visées aux alinéas 1er et 2.
+
+L'organisateur est capable de démontrer le respect de toutes les conditions visées aux alinéas 1er, 2 et 3, sur la base, entre autres, d'une documentation]<sup>4</sup>
+
+§ 2. [<sup>4</sup> ...]<sup>4</sup>
+
+§ 3. [<sup>4</sup> ...]<sup>4</sup>
+
+§ 4. [<sup>4</sup> Lors de la désignation de chaque nouveau responsable et accompagnateur d'enfants, et pour toute autre personne majeure ayant un contact direct et régulier avec les enfants gardés dans le milieu d'accueil d'enfants, l'organisateur vérifie la bonne conduite de la personne concernée, ce qui implique au moins un comportement irréprochable vis-à-vis des mineurs.
+
+Lorsque l'organisateur est une personne morale, l'organisateur dispose d'un extrait du casier judiciaire central au nom de la personne morale. L'organisateur vérifie la bonne conduite des gérants et des administrateurs, ce qui implique au moins un comportement irréprochable vis-à-vis des mineurs.
+
+L'article 3, alinéas 2 à 5, l'article 4, alinéa 1er, 1°, et l'article 5, § 1er, § 2 et § 3, alinéas 1er, 2 et 5, du décret du 3 juin 2022 portant l'obligation pour certaines organisations de contrôler un extrait du casier judiciaire tel que visé à l'article 596, alinéa 2, du Code d'instruction criminelle, pour certains nouveaux collaborateurs, s'appliquent au contrôle visé aux alinéas 1er et 2.
+
+L'organisateur veille, par le biais d'un document écrit, à ce que toute personne telle que visée aux alinéas 1er et 2, qui fait l'objet d'une enquête pénale ou d'une condamnation pour des faits à l'encontre de mineurs qui ont un impact sur la bonne conduite de la personne en question et, plus particulièrement, sur son comportement irréprochable vis-à-vis des mineurs, le signale obligatoirement à l'organisateur. Par document écrit, on peut également entendre le règlement de travail d'un organisateur.
+
+L'organisateur procède à un nouveau contrôle tel que visé à l'alinéa 1er au moment où il est informé, soit par l'obligation de notification, soit par d'autres moyens, de l'ouverture d'une enquête pénale ou de la survenance d'une nouvelle condamnation pour des faits à l'encontre des mineurs qui ont un impact sur la bonne conduite de la personne en question et, plus particulièrement, sur son comportement irréprochable vis-à-vis des mineurs. Le résultat du contrôle ou le non-respect de l'obligation de notification peut avoir des conséquences concernant le droit du travail ou contractuelles pour le responsable, l'accompagnateur d'enfants ou les personnes majeures qui sont en contact direct et régulier avec les enfants gardés dans le milieu d'accueil d'enfants.
+
+L'organisateur demande un nouvel extrait de casier judiciaire après chaque période de trois ans]<sup>4</sup>.
+
+§ 5. Le Gouvernement flamand arrête les modalités concernant les paragraphes 1er à 4 inclus, en faisant une distinction entre les conditions de départ et les conditions de fonctionnement.
+
+Le Gouvernement flamand arrête les compétences pour l'accueil d'enfants.
+
+§ 6. Le respect des prescriptions spécifiques en matière de sécurité incendie, visées à l'article 6, paragraphe 1er, 2°, est établi dans une attestation sur la sécurité incendie. Cette attestation est délivrée par le bourgmestre de la commune dans laquelle l'emplacement d'accueil d'enfants est situé, avec la collaboration du service d'incendie territorialement compétent. Le Gouvernement flamand peut prévoir plusieurs attestations qui diffèrent selon la mesure dans laquelle les prescriptions spécifiques en matière de sécurité incendie ont été prises en considération.
+
+Le Gouvernement flamand arrête les modalités, au moins le modèle et la durée de validité de l'attestation ou de chacune des attestations, les règles de délivrance et de prolongation de l'attestation ou des attestations. Le Gouvernement flamand peut en outre prévoir la possibilité de recours contre une décision du bourgmestre de refus d'une attestation permettant l'organisation d'un emplacement d'accueil d'enfants, ou contre l'absence d'une décision du bourgmestre sur la délivrance ou la prolongation d'une attestation.
+
+§ 7. Le Gouvernement flamand peut, sur demande d'un organisateur, accorder une dérogation sur le respect de certaines conditions d'autorisation fixées en exécution des paragraphes 1er à 4 inclus, à condition que la sécurité des enfants et des collaborateurs, et la qualité de l'accueil d'enfants soient suffisamment assurées. Le Gouvernement flamand arrête les règles pour accorder cette dérogation.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 82, 005; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2017-07-07/16, art. 2, 006; En vigueur : 11-08-2017&gt;
+
+(3)&lt;DCFL 2021-05-21/21, art. 14, 012; En vigueur : 18-04-2019&gt;
+
+(4)&lt;DCFL 2024-04-19/13, art. 6, 015; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE 3. - Subventionnement
+
+##### Art. 7
+
+[<sup>2</sup> L'organisateur disposant d'une autorisation ]<sup>2</sup> peut recevoir une subvention de base de [<sup>1</sup> l'agence]<sup>1</sup>.
+
+Le Gouvernement flamand arrête les modalités relatives à la subvention de base, comprenant au moins les conditions de la connaissance linguistique active du néerlandais pour les accompagnateurs d'enfants, et l'utilisation du néerlandais dans le fonctionnement de l'emplacement d'accueil d'enfants.
+
+(NOTE : par son arrêt 97/2014 du 30 juin 2014 (M.B 22-07-2014?P. 54875), la Cour constitutionnelle a annulé cet article 7,alinéa 2)
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 14, 012; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/13, art. 7, 015; En vigueur : 01-01-2026&gt;
+
+##### Art. 8
+
+§ [<sup>7</sup> § 1er.[<sup>8</sup> L'organisateur disposant d'une autorisation]<sup>8</sup> peut recevoir, outre la subvention visée à l'article 7, une subvention de l'agence pour l'organisation de l'accueil d'enfants [<sup>8</sup> et de l'accueil d'enfants scolarisés dans l'accueil autorisé]<sup>8</sup> pour lequel les familles paient sur la base du revenu, et pour la mise en oeuvre des conditions d'accès prioritaire à l'accueil d'enfants pour les familles pour lesquelles la garde d'enfants est nécessaire pour travailler ou pour suivre une formation en vue d'un emploi.
+
+[<sup>10</sup> Lors de l'attribution de la priorité visée à l'alinéa 1er, l'organisateur donne la priorité absolue aux :
+
+1° ménages qui au total travaillent au moins à 4/5e temps, soit qui suivent une formation de jour à 4/5e temps en vue de l'emploi, soit qui combinent travail et formation en vue de l'emploi dans une proportion de 4/5e ;
+
+2° frères et soeurs d'enfants utilisant déjà au même moment les mêmes services de garde d'enfants ;
+
+3° enfants placés, tels que visés à l'article 2, 10°, du décret du 29 juin 2012 portant organisation du placement familial, dans la famille et qui sont éligibles à la garde d'enfants visée à l'article 2, 2°.]<sup>10</sup>
+
+[<sup>11</sup> La participation financière des familles à la garde d'un enfant placé tel que visé à l'alinéa 2, 3°, ou d'un enfant d'une mère qui, au moment de la demande, est inscrite dans un établissement d'enseignement reconnu, financé ou subventionné par la Communauté flamande pour l'enseignement secondaire ordinaire ou spécial ou en apprentissage, correspond au tarif de revenu minimum, quel que soit le revenu de la famille d'accueil ou de la famille de la mère.]<sup>11</sup>
+
+L'organisateur peut déroger à la priorité visée à l'alinéa 1er, de 10 % maximum du nombre total d'enfants accueillis sur base annuelle dans le milieu d'accueil, dans l'intérêt de l'enfant ou en raison d'une situation de santé ou de bien-être de la famille.]<sup>7</sup>]<sup>5</sup>]<sup>2</sup>
+
+§ 2. Sous réserve des dispositions du § 1er, il s'applique à l'égard des emplacements d'accueil d'enfants dans la région bilingue de Bruxelles-Capitale une priorité pour les enfants dont au moins un des parents maîtrise suffisamment le néerlandais, à concurrence d'au maximum 55 pour cent de leur capacité d'accueil.
+
+Pour pouvoir bénéficier de cette règle prioritaire, le parent démontre d'une des manières suivantes qu'il maîtrise suffisamment le néerlandais :
+
+1° en produisant au moins le diplôme néerlandophone de l'enseignement secondaire ou un titre néerlandophone équivalent;
+
+2° en produisant le certificat néerlandophone de la deuxième année du troisième degré de l'enseignement secondaire ou un titre néerlandophone équivalent;
+
+3° en produisant la preuve qu'il maîtrise au moins le néerlandais au niveau B1 du Cadre européen commun de référence pour les Langues. Ceci se fait au vu d'une des pièces suivantes :
+
+a) un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande ou un titre néerlandophone équivalent, démontrant le niveau requis de la connaissance du néerlandais;
+
+b) une attestation de fixation du niveau, effectuée par une "Huis van het Nederlands" (Maison du néerlandais), démontrant le niveau requis de la connaissance du néerlandais;
+
+4° en produisant la preuve d'une connaissance suffisante du néerlandais après avoir subi un examen linguistique auprès du bureau de sélection de l'Autorité fédérale;
+
+5° en produisant la preuve qu'il a suivi, pendant neuf ans, comme élève régulier, les cours de l'enseignement primaire et secondaire en langue néerlandaise. Ceci se fait au vu d'attestations délivrées à cet effet par les autorités scolaires intéressées.
+
+§ 3. Le Gouvernement flamand détermine :
+
+1° les modalités relatives au prix de l'accueil d'enfants [<sup>8</sup> ou de l'accueil d'enfants scolarisés]<sup>8</sup> pour les familles, y compris le principe que les familles paieront pour les jours d'accueil qu'elles ont réservés;
+
+2° [<sup>7</sup> les détails des critères de priorité et la manière dont ils seront formellement adoptés]<sup>7</sup>;
+
+3° [<sup>7</sup> ...]<sup>7</sup>
+
+[<sup>8</sup> Dans le présent article, on entend par l'accueil d'enfants scolarisés : l'accueil d'enfants fréquentant l'école fondamentale et ayant recours à l'accueil d'enfants dans un milieu d'accueil qui dispose d'une autorisation pour l'accueil de la petite enfance, et qui accueille principalement la petite enfance.]<sup>8</sup>
+
+[<sup>3</sup> Le Gouvernement flamand peut charger les Centres Publics d'Aide Sociale de statuer dans les cas individuels sur une réduction du prix de l'accueil d'enfants pour les familles. Pour les familles faisant appel à un organisateur, établi dans la Région bilingue de Bruxelles-Capitale, qui doit être censé appartenant exclusivement à la Communauté flamande à cause de son organisation, et pour lequel le Centre Public d'Aide Sociale ne prend aucune décision, le Gouvernement flamand peut charger un organisateur de décider dans des cas individuels sur une réduction du prix de l'accueil d'enfants pour les familles. Le Gouvernement flamand arrête les modalités, notamment les cas dans lesquels le Centre Public d'Aide Sociale ou l'organisateur, lorsqu'il est fait appel à un organisateur, établi dans la Région bilingue de Bruxelles-Capitale, peut prendre une décision et sur quoi.]<sup>3</sup>
+
+[<sup>4</sup> [<sup>6</sup> L'agence]<sup>6</sup> peut prendre des mesures à l'égard des familles qui ne fournissent pas les données correctes, requises pour le calcul du prix de l'accueil des enfants, ou qui négligent de communiquer une modification de ces données. Ces mesures consistent en la détermination du tarif correct sur la base des revenus pour l'avenir et en la détermination d'une indemnisation à charge du titulaire du contrat pour le passé. Le Gouvernement flamand arrête les modalités à ce sujet, notamment la façon dont ce tarif sur la base des revenus sera facturé à l'égard du titulaire du contrat ainsi que le montant de l'indemnisation. [<sup>6</sup> L'agence]<sup>6</sup> peut décider de renoncer à cette indemnisation en cas de force majeure, bonne foi ou dans les cas qui valent d'être pris en considération.]<sup>4</sup>
+
+(NOTE : par son arrêt n° 72/2025 du 30 avril 2025 ( ACC 2025-04-30/06, art. M, 019; En vigueur : 17-05-2024; M.B. 26-05-2025, p. 5011), la Cour Constitutionnelle a annulé le présent article § 1er, alinéas 1er, 2 et 4, et § 3, 2° et 3°)
+
+----------
+
+(1)&lt;DCFL 2012-06-29/13, art. 50, 002; En vigueur : indéterminée et au plus tard le 01-01-2014&gt;
+
+(2)&lt;DCFL 2012-06-29/13, art. 51, 002; En vigueur : indéterminée et au plus tard le 01-01-2014&gt;
+
+(3)&lt;DCFL 2016-07-15/17, art. 83,1°, 005; En vigueur : 01-01-2015&gt;
+
+(4)&lt;DCFL 2016-07-15/17, art. 83,2°, 005; En vigueur : 29-08-2016&gt;
+
+(5)&lt;DCFL 2018-03-23/04, art. 2, 007; En vigueur : 01-07-2018&gt;
+
+(6)&lt;DCFL 2021-05-21/21, art. 15, 012; En vigueur : 18-04-2019&gt;
+
+(7)&lt;DCFL 2023-12-22/12, art. 5, 014; En vigueur : 01-01-2024&gt;
+
+(8)&lt;DCFL 2024-04-19/13, art. 8, 015; En vigueur : 01-01-2026&gt;
+
+(9)&lt;DCFL 2024-05-17/10, art. 2, 016; En vigueur : 01-09-2024&gt;
+
+(10)&lt;DCFL 2024-12-20/52, art. 2, 017; En vigueur : 24-01-2025&gt;
+
+(11)&lt;DCFL 2024-12-20/52, art. 3, 017; En vigueur : 24-01-2025&gt;
+
+##### Art. 9
+
+[<sup>2</sup> L'organisateur disposant d'une autorisation]<sup>2</sup> peut recevoir, outre la subvention visée à l'article 8, une subvention de [<sup>1</sup> l'agence]<sup>1</sup> pour la réalisation de missions d'accueil d'enfants à l'appui de familles vulnérables, comprenant la lutte contre la pauvreté dans des familles, et pour la réalisation de l'accès pour ces familles. Les familles vulnérables sont les familles répondant au moins à plusieurs des critères de base mentionnés ci-après :
+
+1° la situation de travail;
+
+2° la situation financière;
+
+3° la composition du ménage;
+
+4° la santé et la situation de soins;
+
+5° le niveau de formation.
+
+Le Gouvernement flamand détermine les missions et les règles, comprenant au moins les groupes qui ont par priorité accès à l'accueil d'enfants à la subvention, et que les organisateurs d'accueil d'enfants à la subvention collaborent mutuellement et avec le guichet local en matière d'accueil d'enfants en vue d'une politique d'admission orientée sur les familles vulnérables, ainsi que les critères de base, visés à l'alinéa premier, et le mode dont ils sont établis formellement.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 16, 012; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/13, art. 9, 015; En vigueur : 01-01-2026&gt;
+
+##### Art. 10
+
+[<sup>2</sup> L'organisateur disposant d'une autorisation ]<sup>2</sup> peut recevoir [<sup>3</sup> ...]<sup>3</sup> une subvention de [<sup>1</sup> l'agence]<sup>1</sup> pour :
+
+1° l'organisation de l'accueil d'enfants aux heurs d'ouverture flexibles;
+
+2° l'organisation de l'accueil inclusif d'enfants pour des enfants ayant des besoins spécifiques en soins;
+
+3° le soutien de missions spécifiques;
+
+4° le soutien unique d'autres missions.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 16, 012; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/13, art. 10, 015; En vigueur : 01-01-2026&gt;
+
+(3)&lt;DCFL 2025-12-19/57, art. 13, 020; En vigueur : 09-01-2026&gt;
+
+##### Art. 11
+
+[<sup>1</sup> L'agence]<sup>1</sup> peut accorder une subvention à :
+
+1° [<sup>2</sup> l'organisateur du guichet local en matière d'accueil d'enfants, visé à l'article 13 ]<sup>2</sup>;
+
+2° [<sup>2</sup> les organisations désignées pour le soutien des organisateurs, lors de la réalisation des conditions, visées à l'article 6, § 1er]<sup>2</sup>
+
+[<sup>3</sup> 3° les organisations ou experts responsables de l'examen et des conseils, visés à l'article 19, alinéa 5, 3° et 4°]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 17, 012; En vigueur : 18-04-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/13, art. 11, 015; En vigueur : 18-05-2024&gt;
+
+(3)&lt;DCFL 2025-12-19/57, art. 14, 020; En vigueur : 01-01-2026&gt;
+
+##### Art. 12
+
+§ 1er. Les subventions, visées aux articles 7 à 11 inclus, ne peuvent être accordées que dans les limites du budget engagé à cet effet.
+
+Le Gouvernement flamand arrête les règles de programmation, au moins pour les subventions visées aux articles 8, 9 et 10, 1° et 2°, [<sup>2</sup> ...]<sup>2</sup> et arrête les modalités [<sup>2</sup> pour les subventions, visées aux articles 7 à 11]<sup>2</sup>.
+
+§ 2. La décision sur les subventions, visées aux articles 7 à 9 inclus, et à l'article 10, 1° et 2°, comprend au moins les données suivantes :
+
+1° l'organisateur;
+
+2° le nombre de places faisant l'objet d'une subvention, qui ne peut jamais dépasser le nombre de places d'accueil autorisées, visé à l'article 5, alinéa premier, 3°.
+
+[<sup>1</sup> § 3. Le Gouvernement flamand arrête la procédure pour la demande, l'octroi et la modification de la subvention, y compris la possibilité de former un recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 84, 005; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2025-12-19/57, art. 15, 020; En vigueur : 09-01-2026&gt;
+
+## CHAPITRE 4. - Guichet local en matière d'accueil d'enfants
+
+##### Art. 13
+
+Au sein d'une commune, il y a un guichet local en matière d'accueil d'enfants chargé des missions suivantes :
+
+1° [<sup>1</sup> coordonner l'enregistrement des demandes d'accueil d'enfants et de la préférence des familles pour des places d'accueil d'enfants, de sorte qu'une famille ne doive poser qu'une seule question sur la disponibilité des places d'accueil;]<sup>1</sup>
+
+2° informer les familles dans un délai raisonnable sur les places d'accueil d'enfants disponibles et, au besoin, les mettre en contact avec les emplacements d'accueil d'enfants, portant une attention particulière aux familles socialement vulnérables;
+
+3° collaborer avec tous les emplacements d'accueil d'enfants au sein de la zone d'action, avec les instances travaillant avec des familles qui peuvent avoir des demandes d'accueil d'enfants, et avec d'autres guichets locaux en matière d'accueil d'enfants en fonction des missions, visées aux points 1° et 2° ;
+
+4° informer l'administration locale ou les administrations locales, les organisateurs d'accueil d'enfants et [<sup>2</sup> l'agence]<sup>2</sup> sur les demandes de places d'accueil d'enfants;
+
+[<sup>3</sup> 5° offrir un soutien aux familles lors de la demande du tarif sur base des revenus, tel que visé à l'article 8 ;]<sup>3</sup>
+
+[<sup>4</sup> L'administration locale organise le guichet local en matière d'accueil d'enfants. Si une administration locale n'assume pas cette mission, un autre acteur peut assumer l'organisation. Dans les villes et communes où il y a une Maison de l'Enfant, l'administration locale peut organiser le guichet local en matière d'accueil d'enfants en coopération avec la Maison de l'Enfant. Si un acteur autre que l'administration locale organise le guichet local en matière d'accueil d'enfants, celui-ci doit être membre du partenariat Maison de l'Enfant et organiser le guichet local en matière d'accueil d'enfants dans ce contexte]<sup>4</sup>.
+
+Le guichet local en matière d'accueil d'enfants peut concerner plusieurs communes au sein des limites de la région de soins.
+
+[<sup>4</sup> Le Gouvernement flamand arrête les modalités, y compris la séparation du rôle de l'organisateur de l'accueil d'enfants et du rôle de l'organisateur du guichet local en matière d'accueil d'enfants, la neutralité des services du guichet local en matière d'accueil d'enfants devant être garantie]<sup>4</sup>.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 85, 005; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 18,1°,3°, 012; En vigueur : 18-04-2019&gt;
+
+(3)&lt;DCFL 2021-05-21/21, art. 18,2°, 012; En vigueur : 28-06-2021&gt;
+
+(4)&lt;DCFL 2024-04-19/13, art. 12, 015; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 5. - Projets innovateurs
+
+##### Art. 14
+
+Le Gouvernement flamand peut arrêter des modalités en vue de l'organisation et du subventionnement par [<sup>1</sup> l'agence]<sup>1</sup> de projets innovateurs en matière d'accueil d'enfants qui ne relèvent pas de l'application des dispositions du présent décret.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 19, 012; En vigueur : 18-04-2019&gt;
+
+## CHAPITRE 6. - Maintien
+
+### Section 1re. - Surveillance
+
+#### Sous-section 1re. - Surveillants
+
+##### Art. 15
+
+Le Gouvernement flamand peut désigner des surveillants [<sup>1</sup> privé]<sup>1</sup> outre l'Inspection des Soins. Cette désignation se fait sur la base des règles fixées par le Gouvernement flamand en ce qui concerne :
+
+1° la mission de surveillance;
+
+2° les conditions qui doivent être remplies par le surveillant [<sup>1</sup> privé]<sup>1</sup> et la (les) personne(s) [<sup>1</sup> privé(e)(s)]<sup>1</sup> chargée(s) de la surveillance, au moins concernant l'expertise requise, les qualifications requises et l'indépendance à l'égard de l'organisateur;
+
+3° l'autorisation préalable du Gouvernement flamand;
+
+4° le contrôle du surveillant [<sup>1</sup> privé]<sup>1</sup>;
+
+5° le prix chargé pour la surveillance, et la personne payant ce prix;
+
+6° la relation avec l'Inspection des Soins et avec [<sup>2</sup> l'agence]<sup>2</sup>.
+
+[<sup>3</sup> A l'alinéa 1er, il y a lieu d'entendre par Inspection des Soins : la division de l'Inspection des Soins du Département des Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande.]<sup>3</sup>
+
+Lors de l'exercice de sa mission de surveillance, la personne [<sup>1</sup> privée]<sup>1</sup> chargée de la surveillance porte une légitimation qu'elle produise immédiatement sur demande. Le Gouvernement flamand arrête le contenu et le modèle de la légitimation, et détermine l'organe de gestion qui délivre la légitimation.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2018-01-19/09, art. 32, 009; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 20, 012; En vigueur : 18-04-2019&gt;
+
+(3)&lt;DCFL 2023-04-21/07, art. 8, 013; En vigueur : 01-06-2023&gt;
+
+(4)&lt;DCFL 2024-04-19/13, art. 13, 015; En vigueur : 18-05-2024&gt;
+
+#### Sous-section 1/1 [<sup>1</sup> Sous-section 1/1. Le principe de précaution ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/13, art. 14, 015; En vigueur : 18-05-2024&gt;
+
+##### Art. 15/1.
+
+[<sup>1</sup> L'agence exerce le contrôle sur la base de toutes les informations disponibles, en utilisant le principe de précaution. L'agence peut faire appel à des organisations ou à des experts pour la conseiller en vertu du principe de précaution.
+
+Le Gouvernement flamand arrête les modalités relatives à l'application du principe de précaution, qui comprennent au moins les éléments de l'évaluation des risques sur la base desquels l'agence peut imposer une mesure administrative et la procédure de communication vis-à-vis de l'organisateur .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/13, art. 14, 015; En vigueur : 18-05-2024&gt;
+
+#### Sous-section 2. - Droits de surveillance
+
+##### Art. 16
+
+La personne chargée de la surveillance dispose des droits de surveillance suivants, dont elle fait uniquement usage lorsqu'il est pertinent et nécessaire pour l'accomplissement de la mission de surveillance :
+
+1° le droit d'accès aux locaux utilisés pour l'accueil d'enfants pendant les heures d'ouverture de l'emplacement d'accueil d'enfants. La demande d'une autorisation comprend une autorisation de toutes les personnes physiques majeures habitant les locaux de faire effectuer des visites de contrôle dans les locaux occupés servant à l'accueil d'enfants;
+
+2° le droit de demander la consultation de documents et d'autres supports d'information relatifs à l'accueil d'enfants. A cet effet, elle peut se faire présenter ces supports d'informations à l'endroit qu'elle désigne. Elle peut se faire transmettre une copie gratuite de tous les documents et d'autres supports d'informations ou en faire une copie elle-même. Lorsqu'elle ne peut pas faire des copies sur place, elle peut emporter les supports d'information pour peu de temps afin de les consulter ou de les copier, contre récépissé avec un inventaire des supports d'information en question;
+
+3° le droit de constater des violations possibles des dispositions du présent décret et de ses arrêtés d'exécution dans les locaux utilisés pour l'accueil d'enfants, à l'aide de moyens audiovisuels. Des personnes et objets identifiables ne peuvent figurer sur les moyens audiovisuels que s'il est pertinent et nécessaire;
+
+4° le droit d'examen d'affaires, comme le droit d'échantillonnage et d'analyse;
+
+5° le droit d'exiger, lors de l'exercice de sa mission de surveillance, l'assistance de la police.
+
+Le Gouvernement flamand arrête les modalités.
+
+Les personnes [<sup>1</sup> privées]<sup>1</sup> chargées de la surveillance exercent les compétences, visées à l'alinéa premier, en vue de la surveillance du respect des dispositions du présent décret et de ses arrêtés d'exécution.
+
+Lors de l'exercice des compétences, visées à l'alinéa premier, le surveillant [<sup>1</sup> privé]<sup>1</sup> et la personne [<sup>1</sup> privée]<sup>1</sup> chargée de la surveillance veillent à ce que les moyens utilisés par la personne chargée de la surveillance, soient appropriés et nécessaires pour la surveillance du respect des dispositions du présent décret et de ses arrêtés d'exécution.
+
+----------
+
+(1)&lt;DCFL 2018-01-19/09, art. 33, 009; En vigueur : 01-01-2019&gt;
+
+##### Art. 17
+
+La personne [<sup>1</sup> privée]<sup>1</sup> chargée de la surveillance établit un rapport de sa visite de surveillance et constate, le cas échéant, des infractions dans un rapport de constatation. Si une copie des rapports est envoyée à l'organisateur, ces rapports font foi jusqu'à preuve du contraire.
+
+L'organisateur a le droit de transmettre des remarques écrites sur le contenu du rapport du surveillant [<sup>1</sup> privé]<sup>1</sup>, dans un délai de quatorze jours calendaires après la notification écrite.
+
+Le surveillant [<sup>1</sup> privé]<sup>1</sup> joint les remarques écrites éventuelles de l'organisateur au rapport de constatation qu'il transmet à [<sup>2</sup> l'agence]<sup>2</sup>.
+
+Sur la base du rapport de constatation reçu du surveillant [<sup>1</sup> privé]<sup>1</sup>, [<sup>2</sup> l'agence entreprend]<sup>2</sup> au besoin des démarches ultérieures selon les dispositions, visées aux articles 18 à 22 inclus. [<sup>2</sup> L'agence en informe]<sup>2</sup> l'organisateur.
+
+Le Gouvernement flamand arrête les modalités.
+
+----------
+
+(1)&lt;DCFL 2018-01-19/09, art. 34, 009; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 21, 012; En vigueur : 18-04-2019&gt;
+
+### Section 2. - Sommation
+
+##### Art. 18
+
+Lorsqu'il est constaté qu'un organisateur ne respecte pas les dispositions du présent décret et de ses arrêtés d'exécution, [<sup>1</sup> ou empêche le contrôle réglé en vertu du présent décret,]<sup>1</sup> l'organisateur reçoit une sommation écrite de [<sup>4</sup> l'agence]<sup>4</sup>. Cette sommation mentionne un délai dans lequel l'organisateur doit répondre aux dispositions non respectées, [<sup>1</sup> ou aux exigences relatives au contrôle]<sup>1</sup> et peut contenir des conditions spécifiques pour répondre aux dispositions non respectées. [<sup>5</sup> Même lorsque le principe de précaution est appliqué, l'organisateur reçoit une sommation écrite de l'agence.]<sup>5</sup>
+
+[<sup>5</sup> La sommation peut être omise et l'agence peut immédiatement prendre une mesure administrative telle que visée à la section 3 :
+
+1° en cas d'urgence ;
+
+2° si la réparation de l'infraction n'est plus possible ;
+
+3° en cas de non-respect d'une mesure conservatoire telle que visée à l'article 19 ;
+
+4° lors de la cessation de la subvention en cas d'abrogation ou de modification simultanée de l'autorisation]<sup>5</sup>.
+
+Le Gouvernement flamand arrête les modalités.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 86, 005; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2018-01-19/09, art. 35, 009; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2019-03-01/38, art. 25, 010; En vigueur : 18-04-2019&gt;
+
+(4)&lt;DCFL 2021-05-21/21, art. 22, 012; En vigueur : 18-04-2019&gt;
+
+(5)&lt;DCFL 2024-04-19/13, art. 15, 015; En vigueur : 01-01-2026&gt;
+
+### Section 3. - Mesures administratives
+
+##### Art. 19
+
+[<sup>1</sup> L'agence peut modifier, suspendre ou abroger l'autorisation ou peut prendre des mesures conservatoires si elle constate :
+
+1° qu'il y a une infraction aux dispositions visées au présent décret ou à ses arrêtés d'exécution ;
+
+2° qu'une mesure doit être prise sur la base du principe de précaution ;
+
+3° que le contrôle réglementé par ou en vertu du présent décret est empêché.
+
+La suspension de l'autorisation entraîne de plein droit la suspension de l'exercice de l'accueil d'enfants à partir du jour mentionné dans la décision de suspension jusqu'au moment où l'agence constate que l'organisateur remplit à nouveau les conditions d'autorisation et au plus tard jusqu'à la date mentionnée dans la décision de suspension. Si, à la date de fin de la suspension, le motif de la mesure n'a pas été éliminé, l'agence peut prolonger la suspension ou imposer une autre mesure administrative.
+
+L'abrogation de l'autorisation entraîne de plein droit la fermeture du milieu d'accueil d'enfants.
+
+Les mesures conservatoires sont des mesures administratives temporaires qui ne suspendent pas complètement l'exercice de l'accueil d'enfants, sauf si l'agence impose une suspension en même temps que la mesure conservatoire. Si, à la date de fin de la mesure conservatoire, le motif de la mesure conservatoire n'a pas été éliminé, l'agence peut prolonger la mesure conservatoire ou imposer une autre mesure administrative.
+
+L'agence peut prendre une ou plusieurs mesures conservatoires, qui peuvent consister en :
+
+1° la modification de l'autorisation, liée ou non à l'interdiction d'occuper certains espaces du milieu d'accueil d'enfants ;
+
+2° la limitation des jours et heures d'ouverture ;
+
+3° l'examen et les conseils à l'agence des risques relatifs à la personne de l'organisateur ou d'une personne travaillant dans le milieu d'accueil d'enfants, par une organisation ou un expert tel que visé à [<sup>2</sup> l'article 15/1, alinéa 1er]<sup>2</sup> ;
+
+4° l'examen et les conseils à l'agence des compétences de l'organisateur en ce qui concerne le pouvoir gestionnel, par une organisation telle que visée à l'article 11 ;
+
+5° l'imposition d'une interdiction à un organisateur de demander une autorisation si le dossier de maintien contient des éléments indiquant l'inaptitude à agir en tant qu'organisateur d'un milieu d'accueil d'enfants ;
+
+6° l'imposition d'une interdiction à une personne d'être employée en tant que responsable d'un milieu d'accueil d'enfants si le dossier de maintien contient des éléments indiquant l'inaptitude à exercer une telle fonction ;
+
+7° l'imposition d'une interdiction d'assumer des activités avec les enfants accueillis à l'égard d'une ou plusieurs personnes travaillant dans le milieu d'accueil d'enfants ;
+
+8° l'imposition d'un soutien spécifique, sur le lieu du travail ou non, ou d'une formation spécifique ;
+
+9° l'imposition d'une interdiction de conclure de nouveaux contrats avec des familles ;
+
+10° la demande au juge de désigner un administrateur provisoire ayant des compétences dans l'organisation d'une structure de soins et autorisé à prendre, au nom et pour le compte de l'organisateur, les mesures nécessaires pour répondre aux infractions ou aux risques constatés en termes de qualité et de durabilité de l'accueil d'enfants.
+
+La décision visée à l'alinéa 1er décrit de manière transparente ce que la mesure administrative implique, la justification du choix de la mesure administrative imposée et, le cas échéant, les conditions qui doivent être remplies et le délai dans lequel elles doivent l'être.
+
+Le cas échéant, l'agence peut mettre à la charge de l'organisateur tout ou partie du coût de certaines mesures conservatoires.
+
+L'agence peut, en cas de suspension d'une autorisation [<sup>2</sup> à la suite d'un événement grave tel que visé à l'article 2, alinéa 1er, 19°, b),]<sup>2</sup> démontrant que l'événement est dû à une cause entièrement extérieure à l'organisateur ou à ses collaborateurs, verser un montant forfaitaire unique pour la perte de revenus subie.
+
+Le Gouvernement flamand arrête les modalités qui contiennent au moins la possibilité d'introduire une objection contre les mesures administratives, visées à l'alinéa 1er, qui contiennent les paramètres pour la détermination des coûts de certaines mesures conservatoires et pour la détermination du montant forfaitaire unique visé aux alinéas 7 et 8, et la désignation d'un administrateur provisoire tel que visé à l'alinéa 5, 10°.
+
+Le Gouvernement flamand détermine la durée maximale de la première décision de suspension et des mesures conservatoires ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-04-19/13, art. 16, 015; En vigueur : 01-01-2026&gt;
+
+(2)&lt;DCFL 2025-12-19/57, art. 16, 020; En vigueur : 01-01-2026&gt;
+
+##### Art. 20
+
+[<sup>1</sup> [<sup>3</sup> L'agence]<sup>3</sup> peut diminuer, suspendre ou arrêter la subvention lorsque l'organisateur :
+
+1° ne respecte pas les dispositions du présent décret ou de ses arrêtés d'exécution ;
+
+2° empêche le contrôle réglé par ou en vertu du présent décret.
+
+[<sup>3</sup> L'agence]<sup>3</sup> décide du recouvrement de la subvention conformément à [<sup>2</sup> les articles 75 et 76 du Code flamand des Finances publiques du 29 mars 2019]<sup>2</sup>.]<sup>1</sup>
+
+Le Gouvernement flamand arrête les modalités, comprenant au moins la possibilité d'introduire une réclamation.
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 87, 005; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2019-03-29/45, art. 150, 011; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCFL 2021-05-21/21, art. 23, 012; En vigueur : 18-04-2019&gt;
+
+##### Art. 21
+
+Lorsque l'emplacement d'accueil d'enfants est organisé sans autorisation de [<sup>2</sup> l'agence]<sup>2</sup>, telle que visée à l'article 4, ou lorsque l'autorisation est annulée, [<sup>3</sup> , le membre du personnel compétent de l'agence transmet à l'organisateur un ordre de fermeture mentionnant la date à laquelle la fermeture prend cours]<sup>3</sup>. En cas de danger imminent et grave pour la santé ou la sécurité des enfants, la fermeture peut être imposée immédiatement.
+
+[<sup>1</sup> Lorsque l'exercice de l'accueil d'enfants doit être suspendu ou lorsqu'un emplacement d'accueil d'enfants doit fermer, [<sup>2</sup> l'agence]<sup>2</sup> en informe le bourgmestre de la commune de l'emplacement d'accueil d'enfants.
+
+Le bourgmestre vérifie si la suspension ou l'ordre de fermeture sont respectés. Lorsque tel n'est pas le cas, le bourgmestre procède à la fermeture de l'emplacement d'accueil d'enfants. Cette mesure est effectuée aux frais et aux risques de l'organisateur. Le bourgmestre informe [<sup>2</sup> l'agence]<sup>2</sup> sur ses constatations.]<sup>1</sup>
+
+[<sup>3</sup> Le Gouvernement flamand désigne les membres du personnel de l'agence qui sont compétents pour prendre les décisions conformément aux dispositions du présent article et arrête les modalités.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 88, 005; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 24, 012; En vigueur : 18-04-2019&gt;
+
+(3)&lt;DCFL 2024-03-22/15, art. 8, 018; En vigueur : 01-10-2025&gt;
+
+### Section 4. - Amende administrative
+
+##### Art. 22
+
+[<sup>3</sup> Le membre du personnel compétent de l'agence]<sup>3</sup> peut imposer une amende administrative de 100 à 100.000 euros lorsque l'organisateur :
+
+1° empêche la surveillance [<sup>1</sup> par le surveillant privé]<sup>1</sup> réglée par ou en vertu du présent décret;
+
+2° organise l'accueil d'enfants sans autorisation, telle que visée à l'article 4;
+
+3° ne respecte pas les dispositions du présent décret et de ses arrêtés d'exécution.
+
+L'amende administrative peut être imposée dans un délai de six mois, à compter du jour auquel [<sup>3</sup> le membre du personnel compétent de l'agence]<sup>3</sup> reçoit le rapport de constatation du surveillant, et à condition que l'organisateur concerné ait eu la possibilité d'être entendu sur l'infraction présumée et sur le montant de l'amende. L'organisateur peut se faire assister ou représenter par un avocat ou une tierce personne. Si une amende administrative est imposée, la décision mentionne le montant, le mode de paiement et le délai de paiement de celle-ci. L'avis à l'intéressé de la décision mentionne les modalités selon lesquelles et le délai endéans lequel un recours peut être introduit contre la décision.
+
+Sous peine de déchéance du droit à l'introduction d'un recours dans un délai d'un mois prenant cours le jour de la notification de la décision de lui imposer une amende administrative, l'intéressé peut introduire un recours contre cette décision par voie de requête auprès du Conseil d'Etat. Ce recours suspend l'exécution de la décision.
+
+[<sup>4</sup> ...]<sup>4</sup>.
+
+L'injonction à l'acquittement de l'amende administrative échoit après un délai de cinq ans, à compter de la date de la décision, visée à l'alinéa deux, ou dans le cas de recours, à compter de la date de la décision judiciaire passée en autorité de la chose jugée. La prescription est interrompue selon le mode et aux conditions fixés à l'article 2244 et suivants du Code civil.
+
+[<sup>3</sup> Le Gouvernement flamand désigne les membres du personnel de l'agence qui sont compétents, conformément aux dispositions de la présente section, pour imposer des amendes administratives, et arrête les modalités de l'imposition et du paiement de l'amende administrative.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2018-01-19/09, art. 37, 009; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2021-05-21/21, art. 25, 012; En vigueur : 18-04-2019&gt;
+
+(3)&lt;DCFL 2024-03-22/15, art. 9, 018; En vigueur : 01-10-2025&gt;
+
+(4)&lt;DCFL 2025-12-19/57, art. 17, 020; En vigueur : 09-01-2026&gt;
+
+##### Art. 23
+
+[<sup>1</sup> L'agence]<sup>1</sup> gère le budget provenant des amendes administratives, visées au présent décret et à ses arrêtés d'exécution, et le dépense en faveur du secteur de l'accueil d'enfants.
+
+Le Gouvernement flamand arrête les modalités.
+
+----------
+
+(1)&lt;DCFL 2021-05-21/21, art. 26, 012; En vigueur : 18-04-2019&gt;
+
+## CHAPITRE 6/1. [<sup>1</sup> Comité de contrôle du Maintien dans les Milieux d'accueil d'enfants ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/13, art. 17, 015; En vigueur : 01-01-2024&gt;
+
+##### Art. 23/1.
+
+[<sup>1</sup> Il est créé un Comité de contrôle du Maintien dans les Milieux d'accueil d'enfants, ci-après dénommé le Comité, qui a les missions suivantes :
+
+1° évaluer la politique de maintien et le maintien opérationnel, y compris l'application du principe de précaution, visé à l'article 15/1 ;
+
+2° de sa propre initiative, sur la base de l'évaluation visée au point 1°, formuler un avis à l'agence ;
+
+3° à la demande du ministre compétent ou du fonctionnaire dirigeant de l'agence, formuler un avis sur la politique de maintien ou certains de ses aspects.
+
+Afin de pouvoir accomplir les missions visées à l'alinéa 1er, le Comité a accès à toutes les informations pertinentes visées à l'article 24, alinéa 5, y compris les dossiers de maintien que l'agence transmet au Comité.
+
+Le Gouvernement flamand arrête les modalités, au moins en ce qui concerne la composition, la nomination des membres, la durée de leur mandat, le fonctionnement, le compte-rendu et la confidentialité des informations.
+
+Le Gouvernement flamand détermine la rémunération des membres du Comité ]<sup>1</sup>.
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/13, art. 17, 015; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE 7. - Collecte et traitement de données
+
+##### Art. 24
+
+En exécution du présent décret et de ses arrêtés d'exécution, [<sup>3</sup> l'agence]<sup>3</sup> traite au moins les types suivants de données à caractère personnel :
+
+1° de l'enfant et de la famille de l'enfant :
+
+a) [<sup>2</sup> les données relatives à la santé, visées à l'article 4, point 15), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données)]<sup>2</sup> de l'enfant dans le cadre du maintien des conditions d'autorisation et de subventionnement et dans le cadre de la préparation et de l'évaluation politique;
+
+b) données d'identification [<sup>6</sup> , y compris le numéro NISS, ]<sup>6</sup> dans le cadre du maintien des conditions d'autorisation et de subventionnement, l'enregistrement des présences, la communication des mesures prises concernant l'autorisation ou le subventionnement, et la facturation;
+
+c) données sur la demande d'accueil d'enfants dans le cadre du maintien des conditions d'autorisation et de subventionnement, la préparation et l'évaluation politique et la programmation;
+
+d) données sur l'utilisation de l'emplacement d'accueil d'enfants par les familles dans le cadre du maintien des conditions d'autorisation et de subventionnement, la préparation et l'évaluation politique, la facturation, la programmation et l'enregistrement des présences;
+
+e) données financières et données sur la composition du ménage dans le cadre du maintien des conditions d'autorisation et de subventionnement, la préparation et l'évaluation politique, la facturation et la détermination du prix de l'accueil d'enfants pour les familles;
+
+f) données sur la gestion des situations de crise dans l'emplacement d'accueil d'enfants;
+
+g) données sur le traitement des plaintes sur l'emplacement d'accueil d'enfants;
+
+h) données sur la vulnérabilité sociale dans le cadre du maintien des conditions d'autorisation et de subventionnement, la préparation et l'évaluation politique;
+
+[<sup>6</sup> i) l'indication si l'enfant est un enfant placé tel que visé à l'article 2, 10°, du décret du 29 juin 2012 portant organisation du placement familial, et bénéficie à ce titre de certains avantages, tels que l'attribution de la priorité ou une réduction de la cotisation parentale;]<sup>6</sup>
+
+2° des organisateurs, des responsables, des accompagnateurs d'enfants et d'autres collaborateurs éventuels dans le cadre du maintien des conditions d'autorisation et de subventionnement, au moins :
+
+a) les [<sup>2</sup> données relatives à la santé visées à l'article 4, point 15) du règlement précité, et les données à caractère personnel visées à l'article 10 du règlement précité]<sup>2</sup>, au moins une attestation d'aptitude médicale et [<sup>6</sup> , un extrait du casier judiciaire ou d'autres informations pénales]<sup>6</sup>;
+
+[<sup>6</sup> a/1) les données relatives à l'aptitude et les compétences, et les risques concernant ces personnes ;]<sup>6</sup>
+
+b) [<sup>1</sup> les données d'identification [<sup>6</sup> , y compris le numéro NISS,]<sup>6</sup> [<sup>5</sup>, les données de formation et les données d'emploi]<sup>5</sup>;]<sup>1</sup>
+
+c) les données sur des situations de crise dans l'emplacement d'accueil d'enfants;
+
+d) les données sur le traitement des plaintes sur l'emplacement d'accueil d'enfants;
+
+[<sup>6</sup> e) les données relatives à l'organisation et au fonctionnement financier de l'organisateur, telles que reprises dans les bases de données authentiques fédérales et flamandes;]<sup>6</sup>
+
+3° de toute personne majeure qui est en contact direct avec les enfants accueillis dans l'emplacement d'accueil d'enfants, les données visées au point 2°, a). [<sup>5</sup> L'agence transmet les données nécessaires à leurs missions aux organisations et experts visés à l'article 15/1 ou à [<sup>6</sup> l'article 11, 2° et 3°,]<sup>6</sup> ainsi qu'aux autorités judiciaires en vue des notifications par l'agence ou dans le cadre d'enquêtes pénales en cours.]<sup>5</sup>
+
+En exécution du présent décret et de ses arrêtés d'exécution, l'organisateur traite au moins les types suivants de données à caractère personnel :
+
+1° de l'enfant et de la famille de l'enfant :
+
+a) les [<sup>2</sup> données relatives à la santé, visées à l'article 4, point 15), du règlement précité]<sup>2</sup> dans le cadre des conditions d'autorisation et de subventionnement;
+
+b) les données d'identification [<sup>6</sup> , y compris le numéro NISS,]<sup>6</sup> dans le cadre des conditions d'autorisation et de subventionnement, l'enregistrement des présences et la facturation;
+
+c) les données sur la demande d'accueil d'enfants dans le cadre des conditions d'autorisation et de subventionnement et la politique de l'organisateur concernant l'emplacement d'accueil d'enfants;
+
+d) les données sur l'utilisation de l'emplacement d'accueil d'enfants par les familles dans le cadre des conditions d'autorisation et de subventionnement, l'enregistrement des présences, la facturation et la politique de l'emplacement d'accueil d'enfants;
+
+e) les données financières et les données sur la composition du ménage dans le cadre des conditions d'autorisation et de subventionnement, la facturation et la détermination du prix de l'accueil d'enfants pour les familles;
+
+f) les données sur la vulnérabilité sociale dans le cadre des conditions de subventionnement et la politique de l'organisateur concernant l'emplacement d'accueil d'enfants;
+
+2° des responsables, des accompagnateurs d'enfants et d'autres collaborateurs éventuels dans le cadre des conditions d'autorisation et de subventionnement, au moins :
+
+a) les [<sup>2</sup> données relatives à la santé, visées à l'article 4, point 15) du règlement précité, et les données à caractère personnel, visées à l'article 10 du règlement précité]<sup>2</sup>, au moins une attestation d'aptitude médicale et un extrait du casier judiciaire;
+
+b) [<sup>1</sup> les données d'identification [<sup>6</sup> , y compris le numéro NISS,]<sup>6</sup>, les données de formation et les données relatives à la capacité des accompagnateurs d'enfants]<sup>1</sup>
+
+3° des personnes, visées aux points 1° et 2° :
+
+a) les données sur la gestion des situations de crise dans l'emplacement d'accueil d'enfants;
+
+b) les données sur le traitement des plaintes sur l'emplacement d'accueil d'enfants;
+
+4° de toute personne majeure qui est en contact direct avec les enfants accueillis dans l'emplacement d'accueil d'enfants, les données visées au point 2°, a).
+
+En exécution du présent décret et de ses arrêtés d'exécution, le surveillant traite au moins les données à caractère personnel, visées aux alinéas premier et deux, dans le cadre des conditions d'autorisation et de subventionnement.
+
+En exécution du présent décret et de ses arrêtés d'exécution, le guichet local en matière d'accueil d'enfants traite au moins les données à caractère personnel de l'enfant et de la famille de l'enfant, notamment les données d'identification, [<sup>4</sup> les données financières et les données sur la situation familiale]<sup>4</sup> les données sur la demande d'accueil d'enfants et les données sur la vulnérabilité sociale de l'enfant et de la famille de l'enfant dans le cadre de la mission du guichet local en matière d'accueil d'enfants.
+
+[<sup>5</sup> Le Comité de contrôle du Maintien des Milieux d'accueil d'enfants traite les données à caractère personnel suivantes, si le traitement est nécessaire en vue de l'exécution de ses missions décrétales relatives au contrôle de la politique de maintien de l'agence :
+
+1° les données d'identification, visées à l'alinéa 1er, 1°, b), et 2°, b) ;
+
+2° les données de formation et les données d'emploi, visées à l'alinéa 1er, 2°, b) ;
+
+3° les données relatives à la santé, visées à l'alinéa 1er, 1°, a), et 2°, a) ;
+
+4° les données concernant l'extrait du casier judiciaire, visées à l'alinéa 1er, 2°, a) ;
+
+5° les données relatives aux situations de crise dans le milieu d'accueil d'enfants et relatives au traitement des plaintes, visées à l'alinéa 1er, 2°, c) et d) ;
+
+6° les données de toute personne majeure qui est en contact direct avec les enfants gardés dans le milieu d'accueil d'enfants, visées à l'alinéa 1er, 3° ;
+
+7° les documents relatifs au contrôle et au maintien des conditions d'autorisation des organisateurs.
+
+Les personnes dont les données à caractère personnel peuvent être traitées par le Comité de contrôle du Maintien dans les Milieux d'accueil d'enfants, sont les organisateurs autorisés d'accueil d'enfants, les personnes travaillant dans le milieu d'accueil d'enfants, les gérants et administrateurs associés au milieu d'accueil d'enfants et les personnes impliquées dans une notification ou plainte relative au milieu d'accueil d'enfants en question.
+
+Le traitement est nécessaire selon l'article 6.1, e), l'article 9, paragraphe 2, g), et l'article 10 du règlement général sur la protection des données. L'agence est le responsable du traitement. Les données sont conservées jusqu'à un an après que le Comité de Contrôle du Maintien des Milieux d'accueil d'enfants a terminé l'examen ou a émis l'avis au fonctionnaire dirigeant ou au ministre.
+
+Les organisations ou experts désignés par le Gouvernement flamand ou l'agence en exécution de l'article 15/1 traitent les données à caractère personnel suivantes en vue de l'exécution de leurs missions, visées au présent décret :
+
+1° les données d'identification, visées à l'alinéa 1er, 1°, b), et 2°, b) ;
+
+2° les données de formation et les données d'emploi, visées à l'alinéa 1er, 2°, b) ;
+
+3° les données relatives à la santé, visées à l'alinéa 1er, 1°, a), et 2°, a) ;
+
+4° les données concernant l'extrait du casier judiciaire, visées à l'alinéa 1er, 2°, a) ;
+
+5° les données relatives aux situations de crise dans le milieu d'accueil d'enfants et relatives au traitement des plaintes, visées à l'alinéa 1er, 2°, c) et d) ;
+
+6° les données de toute personne majeure qui est en contact direct avec les enfants gardés dans le milieu d'accueil d'enfants, visées à l'alinéa 1er, 3° ;
+
+7° les documents relatifs au contrôle et au maintien des conditions d'autorisation des organisateurs.
+
+Le traitement est nécessaire selon l'article 6.1, e), l'article 9, paragraphe 2, g), et l'article 10 du règlement général sur la protection des données. L'organisation ou l'expert est le responsable du traitement. Les données sont conservées jusqu'à dix ans après que l'organisation ou l'expert a terminé l'examen et a émis l'avis à l'agence.
+
+Les personnes dont les données à caractère personnel peuvent être traitées par les organisations ou experts désignés par le Gouvernement flamand en exécution de l'article 15/1, sont les organisateurs d'accueil d'enfants, les personnes travaillant dans leur milieu d'accueil d'enfants, les gérants et administrateurs associés au milieu d'accueil d'enfants et les mineurs ou personnes impliqués dans une notification ou plainte relative au milieu d'accueil d'enfants en question.
+
+Les organisations qui reçoivent une subvention pour le soutien d'organisateurs tels que visés à [<sup>6</sup> l'article 11, 2° et 3°,]<sup>6</sup> traitent les données à caractère personnel suivantes en vue de l'exécution de leurs missions :
+
+1° les données d'identification, visées à l'alinéa 1er, 1°, b), et 2°, b) ;
+
+2° les données de formation et les données d'emploi, visées à l'alinéa 1er, 2°, b) ;
+
+3° les données relatives aux situations de crise dans le milieu d'accueil d'enfants et relatives au traitement des plaintes, visées à l'alinéa 1er, 2°, c) et d) ;
+
+4° les documents relatifs au contrôle et au maintien des conditions d'autorisation des organisateurs, qui sont nécessaires pour la mission de l'organisation.
+
+Le traitement est nécessaire selon l'article 6.1, e), du règlement général sur la protection des données. L'organisation qui reçoit une subvention pour le soutien d'organisateurs tels que visés à [<sup>6</sup> l'article 11, 2° et 3°,]<sup>6</sup> est le responsable du traitement. Les données sont conservées jusqu'à dix ans après que l'organisation a terminé le soutien fourni à l'organisateur.
+
+Les personnes dont les données à caractère personnel peuvent être traitées par les organisations qui reçoivent une subvention pour le soutien d'organisateurs tels que visés à [<sup>6</sup> l'article 11, 2° et 3°,]<sup>6</sup> sont les organisateurs autorisés d'accueil d'enfants et les personnes travaillant dans leurs milieux d'accueil d'enfants.]<sup>5</sup>
+
+Le délai de conservation est de dix ans pour les données sur les plaintes et les situations de crise, et de cinq ans pour les autres données, visées aux alinéas premier à quatre inclus. Pour les données sur les responsables, les accompagnateurs d'enfants et les autres collaborateurs éventuels, le délai prend cours à partir de la fin de leur emploi.
+
+[<sup>5</sup> Par dérogation à l'alinéa 14 et par dérogation à l'article 5 du décret du 3 juin 2022 portant l'obligation pour certaines organisations de contrôler un extrait du casier judiciaire tel que visé à l'article 596, alinéa 2, du Code d'instruction criminelle, pour certains nouveaux collaborateurs, le délai de conservation de l'extrait du casier judiciaire est de trois ans et prend cours à partir de la désignation de la personne concernée. En cas de réception par l'organisateur d'un nouvel extrait du casier judiciaire, l'extrait précédent est détruit. L'organisateur prend les mesures appropriées pour la conservation sécurisée des extraits.
+
+Conformément à l'article 12 du règlement général sur la protection des données, chaque responsable du traitement prend des mesures appropriées pour fournir toute information visée aux articles 13 et 14 du règlement général sur la protection des données, ainsi que pour procéder à toute communication au titre des articles 15 à 22 et de l'article 34 du règlement général sur la protection des données, en ce qui concerne le traitement à la personne concernée d'une façon concise, transparente, compréhensible et aisément accessible, en des termes clairs et simples. Les informations sont fournies par écrit ou par d'autres moyens y compris par voie électronique. Lorsque la personne concernée en fait la demande, les informations peuvent être fournies oralement, à condition que l'identité de la personne concernée soit démontrée par d'autres moyens. ]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFL 2017-07-07/16, art. 3, 006; En vigueur : 11-08-2017&gt;
+
+(2)&lt;DCFL 2018-06-08/04, art. 113, 008; En vigueur : 25-05-2018&gt;
+
+(3)&lt;DCFL 2021-05-21/21, art. 27,1°, 012; En vigueur : 18-04-2019&gt;
+
+(4)&lt;DCFL 2021-05-21/21, art. 27,2°, 012; En vigueur : 28-06-2021&gt;
+
+(5)&lt;DCFL 2024-04-19/13, art. 18, 015; En vigueur : 18-05-2024&gt;
+
+(6)&lt;DCFL 2025-12-19/57, art. 18, 020; En vigueur : 09-01-2026&gt;
+
+##### Art. 24/1.
+
+[<sup>1</sup> § 1er. Dans le cadre de la publicité active de l'administration, le surveillant publie des rapports d'inspection des milieux autorisés d'accueil d'enfants sur son site web. Le rapport d'inspection mentionne le nom et l'adresse du milieu d'accueil d'enfants et le nom, le numéro d'entreprise, l'adresse d'établissement et, le cas échéant, les infractions constatées et la forme juridique de l'organisateur. Des informations d'ordre personnel de l'organisateur peuvent également être publiées, dans la mesure où ces informations ne portent pas atteinte de manière disproportionnée à la vie privée des personnes concernées.
+
+Les rapports d'inspection sont conservés pendant un délai de vingt ans, à compter du moment où le rapport d'inspection concerné est devenu définitif. Le Gouvernement flamand arrête les modalités relatives aux délais maximaux dans lesquels les rapports d'inspection sont activement publiés.
+
+§ 2. Dans le cadre de la publicité active de l'administration, l'agence publie les informations suivantes concernant un milieu autorisé d'accueil d'enfants sur son site web :
+
+1° le nom et l'adresse de l'organisateur ;
+
+2° la forme juridique de l'organisateur, lorsqu'il s'agit d'une personne morale ;
+
+3° le numéro d'entreprise de l'organisateur ;
+
+4° la capacité autorisée, le cas échéant par milieu d'accueil d'enfants ;
+
+5° le cas échéant, le nom et l'adresse du ou des milieux d'accueil d'enfants ;
+
+6° le cas échéant, le fait que l'agence a envoyé une sommation ou pris une mesure administrative, tant qu'elle est en vigueur, y compris un état de la réaction de l'organisateur ;
+
+7° le cas échéant, les infractions à la réglementation constatées et les notifications ayant donné lieu à la sommation ou à la mesure administrative ;
+
+8° le cas échéant, les constatations sur la base du principe de précaution ayant donné lieu à la sommation ou à la mesure administrative.
+
+En ce qui concerne les informations visées à l'alinéa 1er, 6°, 7° et 8°, le Gouvernement flamand détermine les mesures administratives, infractions et constatations sur la base du principe de précaution pour lesquelles l'organisateur se voit offrir la possibilité de réagir à la publication, ainsi que les modalités à cet égard.
+
+En ce qui concerne les informations visées à l'alinéa 1er, 7° et 8°, des informations d'ordre personnel peuvent également être publiées, dans la mesure où elles ne portent pas atteinte de manière disproportionnée à la vie privée des personnes concernées.
+
+Si l'autorisation d'un milieu d'accueil d'enfants est abrogée, l'agence en fait mention sur son site web pendant une période de six mois.
+
+§ 3. En exécution de ses missions visées à l'article 13, le guichet local en matière d'accueil d'enfants traite et publie les informations suivantes concernant les milieux autorisés d'accueil d'enfants sur son site web :
+
+1° le nom et l'adresse de l'organisateur ;
+
+2° la forme juridique de l'organisateur, lorsqu'il s'agit d'une personne morale ;
+
+3° le numéro d'entreprise de l'organisateur ;
+
+4° la capacité autorisée ;
+
+5° le nom et l'adresse du milieu d'accueil d'enfants.
+
+Dans le présent article, on entend par informations d'ordre personnel : des informations d'ordre personnel telles que visées à l'article II.40, § 3, alinéa 3, du décret de gouvernance du 7 décembre 2018. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/13, art. 19, 015; En vigueur : 18-05-2024&gt;
+
+## CHAPITRE 8. - Dispositions modificatives
+
+##### Art. 25
+
+Dans l'article 2, 1°, du décret du 17 octobre 2003 relatif à la qualité des structures de soins de santé et d'aide sociale, les mots " une organisation agréée par la Communauté flamande " sont remplacés par le membre de phrase " une organisation agréée ou, en ce qui concerne l'accueil de bébés et de bambins, autorisée par la Communauté flamande ".
+
+##### Art. 26
+
+Dans l'article 3, § 1er, du même décret, les mots " normes d'agrément " sont remplacés par le membre de phrase " normes d'agrément ou, en ce qui concerne l'accueil de bébés et de bambins, normes d'autorisation ".
+
+##### Art. 27
+
+Dans l'article 9 du même décret, les mots " normes d'agrément " sont remplacés par le membre de phrase " normes d'agrément ou, en ce qui concerne l'accueil de bébés et de bambins, normes d'autorisation ", et le mot " agrément " est chaque fois remplacé par le membre de phrase " agrément ou, en ce qui concerne l'accueil de bébés ou de bambins, autorisation ".
+
+##### Art. 28
+
+Dans l'article 2, 2°, du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Kind en Gezin ", modifié par le décret du 22 décembre 2006, les mots " l'accueil préscolaire d'enfants " sont remplacés par les mots " l'accueil de bébés et de bambins ".
+
+##### Art. 29
+
+Dans l'article 6 du même décret, le paragraphe 1er est remplacé par la disposition suivante :
+
+" § 1er. La tâche relative à la régie de l'accueil des enfants comprend en tout cas :
+
+1° la programmation au niveau opérationnel, aux niveaux local et régional, et au niveau de la Communauté flamande;
+
+2° la stimulation, l'admission, l'autorisation, l'agrément, le subventionnement et le maintien d'emplacements d'accueil d'enfants;
+
+3° la gestion d'un système d'information et d'enregistrement afin d'orienter la demande d'accueil d'enfants sur l'offre disponible en emplacements d'accueil d'enfants, et afin de collecter et de gérer les données d'enregistrement sur la demande, l'offre, l'utilisation et le subventionnement de l'accueil d'enfants;
+
+4° la promotion de la qualité des emplacements d'accueil d'enfants;
+
+5° le fait de conseiller le Gouvernement flamand sur les qualifications et les compétences pour l'accueil d'enfants;
+
+6° la gestion du budget provenant des amendes administratives. ".
+
+##### Art. 30
+
+Dans l'article 14, alinéa premier, du même décret, les mots " des enfants de moins de douze ans " sont remplacés par le membre de phrase " des enfants fréquentant l'enseignement fondamental, visé à l'article 3, 6°, du décret du 25 février 1997 relatif à l'enseignement fondamental ".
+
+##### Art. 31
+
+L'article 15 du même décret est remplacé par la disposition suivante :
+
+" Art. 15. Toute personne qui n'est pas dispensée par le Gouvernement flamand de l'obligation de déclaration, et qui accueille à titre permanent des enfants fréquentant l'enseignement fondamental, visé à l'article 3, 6°, du décret du 25 février 1997 relatif à l'enseignement fondamental, sans le notifier à l'agence, ou toute personne qui refuse l'accès visé à l'article 14, alinéa deux, peut être punie d'une amende administrative de 500 euros.
+
+L'amende administrative peut être imposée dans un délai de six mois, à compter du jour auquel Kind en Gezin reçoit le rapport de constatation du surveillant, et à condition que l'organisateur concerné ait eu la possibilité d'être entendu sur l'infraction présumée et sur le montant de l'amende. A cette occasion, l'organisateur peut se faire assister ou représenter par un avocat ou une tierce personne. Si une amende administrative est imposée, la décision mentionne le montant, le mode de paiement et le délai de paiement de celle-ci. L'avis à l'intéressé de la décision mentionne les modalités selon lesquelles et le délai endéans lequel un recours peut être introduit contre la décision.
+
+Sous peine de déchéance du droit à l'introduction d'un recours dans un délai d'un mois à partir de la notification de la décision de lui imposer une amende administrative, l'intéressé peut introduire un recours contre cette décision par voie de requête auprès du Conseil d'Etat. Ce recours suspend l'exécution de la décision.
+
+Si l'intéressé refuse de payer l'amende administrative, elle est recouvrée par voie de contrainte. Une contrainte est signifiée par exploit d'huissier avec injonction de payer.
+
+L'injonction à l'acquittement de l'amende administrative échoit après un délai de cinq ans, à compter de la date de la décision telle que visée à l'alinéa deux, ou dans le cas de recours, à compter de la date de la décision judiciaire passée en autorité de la chose jugée. La prescription est interrompue selon le mode et aux conditions fixés à l'article 2244 et suivants du Code civil.
+
+Le Gouvernement flamand arrête les modalités de l'imposition et du paiement de l'amende administrative. ".
+
+##### Art. 32
+
+L'article 24 du même décret est complété par un alinéa quatre, rédigé comme suit :
+
+" La disposition, visée à l'alinéa premier, ne s'applique pas à l'accueil d'enfants, visé au décret du 20 avril 2012 portant organisation de l'accueil de bébés et de bambins. ".
+
+##### Art. 33
+
+A l'article 12 du décret du 7 décembre 2007 portant création du Conseil consultatif stratégique pour la Politique flamande de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille, sont apportées les modifications suivantes :
+
+1° l'alinéa deux est remplacé par la disposition suivante :
+
+" La commission a pour mission de conseiller le Ministre flamand chargé de l'assistance aux personnes et de la politique de la santé, sur la réclamation contre une des décisions suivantes qui sont prises, en ce qui concerne une structure d'aide sociale, de santé publique et de la famille ou une de ses composants, par le département ou par une agence du domaine politique, ou contre l'intention de prendre une des décisions suivantes, exprimée et formellement signifiée par le département ou par l'agence :
+
+1° le refus d'accorder, de prolonger ou de modifier une admission, une autorisation ou un agrément;
+
+2° la modification contrainte, la suspension, l'annulation ou le retrait d'une admission, d'une autorisation ou d'un agrément;
+
+3° la fermeture;
+
+4° le refus, la diminution, l'arrêt ou la réclamation d'une subvention pour emplacements d'accueil d'enfants. ";
+
+2° l'alinéa trois est abrogé.
+
+##### Art. 34
+
+A l'article 15, alinéa deux, du même décret sont apportées les modifications suivantes :
+
+1° les mots " l'article 10 " sont remplacés par les mots " l'article 12 ";
+
+2° la phrase suivante est ajoutée :
+
+" Le Gouvernement flamand peut arrêter les modalités de la décision sur la réclamation. ".
+
+##### Art. 35
+
+Le décret du 7 mai 2004 portant octroi de titres-services pour la garde d'enfants, modifié par le décret du 22 décembre 2006, est abrogé.
+
+## CHAPITRE 9. - Dispositions finales
+
+##### Art. 36
+
+Pour les emplacements d'accueil d'enfants qui, à la date d'entrée en vigueur du présent décret, disposent d'un agrément, d'une permission ou d'un certificat de contrôle de " Kind en Gezin ", cette permission ou ce certificat de contrôle est transposé(e) en une autorisation de " Kind en Gezin " telle que visée à l'article 4, sans préjudice de l'application de l'article 19.
+
+Pour les emplacements d'accueil d'enfants qui, à la date d'entrée en vigueur du présent décret, sont subventionnés par " Kind en Gezin ", la subvention est transposée en une subvention telle que visée aux articles 7 à 11 inclus, sans préjudice de l'application de l'article 19.
+
+Le Gouvernement flamand arrête les conditions et délais nécessaires pour cette transposition, réglant également la cohérence avec l'accueil extrascolaire d'enfants, l'accueil des enfants fréquentant l'enseignement fondamental, visé à l'article 3, 6°, du décret du 25 février 1997 relatif à l'enseignement fondamental.
+
+Le Gouvernement flamand arrête les dispositions transitoires pour les emplacements d'accueil d'enfants qui sont notifiés à " Kind en Gezin " à la date d'entrée en vigueur du présent décret.
+
+##### Art. 37
+
+[<sup>1</sup> Le Gouvernement flamand arrête la date d'entrée en vigueur pour chaque disposition du présent décret, sans préjudice de l'application de l'alinéa deux.
+
+Le présent décret entre en vigueur le 1er janvier 2015 au plus tard.]<sup>1</sup>
+
+(NOTE : Entrée en vigueur des articles 33 et 34 fixée au 01-01-2014 par AGF 2013-07-12/41, art. 85)
+
+(NOTE : Entrée en vigueur :
+
+\- des articles 1er, 2, 5, 7 à 10 inclus, et 25 à 36 inclus fixée au 01-04-2014
+
+\- des articles 3, 4, 6, 11 à 24 inclus et 37 fixée au 01-04-2014, hormis en ce qui concerne l'autorisation pour l'accueil à domicile
+
+par AGF 2013-11-22/33, art. 75)
+
+----------
+
+(1)&lt;DCFL 2013-06-21/17, art. 78, 003; En vigueur : 24-08-2013&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 20 avril 2012.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand du Bien-être, de la Santé publique et de la Famille,
+
+J. VANDEURZEN
