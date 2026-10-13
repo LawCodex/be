@@ -1,0 +1,49 @@
+---
+title: "Décret modifiant le décret du 24 juillet 1996 réglant l'agrément des institutions de médiation de dettes dans la Communauté flamande, en vue d'une politique flamande justifiée en matière de surendettement (TRADUCTION)."
+identifier: "2006036354"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/28/2006036354/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2006-04-28
+published: 2006-09-20
+entry_into_force: 2006-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/28/2006036354/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 28 AVRIL 2006. - Décret modifiant le décret du 24 juillet 1996 réglant l'agrément des institutions de médiation de dettes dans la Communauté flamande, en vue d'une politique flamande justifiée en matière de surendettement (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+(A l'article 9 du décret du 24 juillet 1996 réglant l'agrément des institutions de médiation de dettes dans la Communauté flamande, dont le texte actuel formera le § 1er, il est ajouté un § 2, rédigé comme suit :
+
+" § 2. Le rapport annuel visé au § 1er, 5°, comprend un enregistrement standardisé relatif à la médiation de dettes offerte. Le Gouvernement flamand détermine les modalités de cet enregistrement à l'aide d'un modèle.
+
+En outre, le Gouvernement flamand détermine les conditions minimales auxquelles le rapport annuel doit répondre. ".) &lt;Erratum M.B. 20-02-2008, p. 10702&gt;
+
+## Art. 3
+
+Le présent décret entre en vigueur le 1er juin 2006.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 28 avril 2006.
+
+Le Ministre-Président du Gouvernement flamand,
+
+Y. LETERME
+
+La Ministre flamande du Bien-Etre, de la Santé publique et de la Famille,
+
+I. VERVOTTE.

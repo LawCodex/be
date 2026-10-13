@@ -1,0 +1,58 @@
+---
+title: "Décret ajoutant un alinéa trois à l'article 157 et modifiant les articles 159 et 161 des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION)."
+identifier: "2005036025"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005036025/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2005-07-15
+published: 2005-08-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005036025/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 15 JUILLET 2005. - Décret ajoutant un alinéa trois à l'article 157 et modifiant les articles 159 et 161 des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).
+
+Le Parlement flamand a adopté et nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+Dans l'article 2, 36°, des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005, les mots "par une autre communauté ou par un autre Etat membre de l'Union européenne" sont insérés entre les mots "titulaire de l'exclusivité : tout radiodiffuseur de la Communauté flamande ou agréé par elle" et les mots "qui a acquis pour la Communauté flamande les droits exclusifs de diffusion d'événements. ".
+
+## Art. 3
+
+A l'article 157 des mêmes décrets, il est ajouté un alinéa trois, rédigé comme suit :
+
+" Sans préjudice de l'application des dispositions du présent décret, le droit à la liberté d'information s'applique aux radiodiffuseurs qui relèvent des autres communautés et des autres Etats membres de l'Union européenne. ".
+
+## Art. 4
+
+Dans l'article 159, alinéa deux, des mêmes décrets, les mots "de la Communauté flamande ou agréé par elle" sont supprimés.
+
+## Art. 5
+
+Dans l'article 161, § 1er, alinéa deux, des mêmes décrets, la phrase "En outre, cette restriction n'est pas d'application si les droits de diffusion exclusifs pour la Communauté flamande n'ont pas été acquis par un radiodiffuseur de la Communauté flamande ou agréé par elle" est supprimée.
+
+## Art. 6
+
+Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 juillet 2005.
+
+Le Ministre-Président du Gouvernement flamand,
+
+Y. LETERME
+
+Le Ministre flamand des Affaires administratives, de la Politique extérieure, des Médias et du Tourisme,
+
+G. BOURGEOIS.

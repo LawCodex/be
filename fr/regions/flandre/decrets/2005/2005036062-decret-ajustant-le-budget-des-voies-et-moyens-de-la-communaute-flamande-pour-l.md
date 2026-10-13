@@ -1,0 +1,157 @@
+---
+title: "Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2005 (TRADUCTION)."
+identifier: "2005036062"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/24/2005036062/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2005-06-24
+published: 2005-09-22
+entry_into_force: 2005-10-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/24/2005036062/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 24 JUIN 2005. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2005 (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'estimation des recettes non affectées des organes et services de la Communauté flamande de l'année budgétaire 2005, est ajustée conformément aux indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en mille euros)
+
+Ajustements
+
+\-
+
+Augmentations Reductions
+
+\- -
+
+148.976
+
+\-
+
+## Art. 2
+
+L'estimation des recettes non affectées de la Communauté flamande relatives aux matières visées aux articles 127 à 129 de la Constitution, pour l'année budgétaire 2005, est ajustée selon les indications détaillées figurant au tableau annexé au présent arrêté, à concurrence de :
+
+(en mille euros)
+
+Ajustements
+
+\-
+
+Augmentations Reductions
+
+\- -
+
+\- 29.373
+
+## Art. 3
+
+L'estimation des recettes affectées des organes et services de la Communauté flamande de l'année budgétaire 2005, est ajustée conformément aux indications détaillées figurant au tableau annexé au présent décret, à concurrence de :
+
+(en mille euros)
+
+Ajustements
+
+\-
+
+Augmentations Reductions
+
+\- -
+
+201.167 -
+
+## Art. 4
+
+L'estimation des recettes non affectées de la Communauté flamande relatives aux matières visées à l'article 39 de la Constitution, pour l'année budgétaire 2005, est ajustée selon les indications détaillées figurant au tableau annexé au présent arrêté, à concurrence de :
+
+(en mille euros)
+
+Ajustements
+
+\-
+
+Augmentations Reductions
+
+\- -
+
+\- 13.992
+
+## Art. 5
+
+L'estimation des recettes affectées de la Communauté flamande relatives aux matières visées aux articles 127 à 129 de la Constitution, pour l'année budgétaire 2005, est ajustée selon les indications détaillées figurant au tableau annexé au présent arrêté, à concurrence de :
+
+(en mille euros)
+
+Ajustements
+
+\-
+
+Augmentations Reductions
+
+\- -
+
+3.551 -
+
+## Art. 6
+
+L'estimation des recettes affectées de la Communauté flamande relatives aux matières visées à l'article 39 de la Constitution, pour l'année budgétaire 2005, est ajustée selon les indications détaillées figurant au tableau annexé au présent arrêté, à concurrence de :
+
+(en mille euros)
+
+Ajustements
+
+\-
+
+Augmentations Reductions
+
+\- -
+
+153 -
+
+## Art. 7
+
+Par dérogation à l'article 28 de l'arrêté royal du 17 juillet 1991 portant coordination des lois sur la comptabilité de l'Etat, un montant de 29.000,00 euros est déduit pour l'année 2004 du montant à recouvrer du prêt sans intérêts consenti par la Communauté flamande à l'a.s.b.l. " De Warande " en application de la convention du 22 décembre 1986, modifiée par les conventions des 17 juin 1988 et 21 janvier 1997. Ce montant équivaut aux cotisations dues pour l'année 2004 pour les membres désignés par la Communauté flamande. Par conséquent, le solde du prêt sans intérêts restant à recouvrer au 31 décembre 2004 s'élève à 424.199,63 euros.
+
+## Art. 8
+
+Par dérogation à l'article 3 du décret du 23 janvier 1991 portant création du " Fonds voor Preventie en Sanering inzake Leefmilieu en Natuur " (Fonds de prévention et d'assainissement en matière de l'environnement et de la nature) comme service régional à gestion séparée, le produit intégral de la vente des immeubles suivants est affecté aux moyens généraux de la Communauté flamande :
+
+\- le bassin d'épargne et les installations de production d'eau potable et son mobilier, appartenant au complexe Blankaart I, situé sur le territoire des communes de Dixmude et Houthulst;
+
+\- le bassin d'épargne et les installations de production d'eau potable et son mobilier, appartenant au complexe Kluizen I, situé sur le territoire des communes d'Evergem;
+
+\- le bassin d'épargne et les installations de production d'eau potable et son mobilier, appartenant au complexe Kluizen II, situé sur le territoire de la commune d'Evergem.
+
+## Art. 9
+
+Le Gouvernement flamand est autorisé à vendre les actions de la " Vlaamse Maatschappij voor Watervoorziening " (Société flamande de Distribution d'Eau) appartenant à la Région flamande.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 24 juin 2005.
+
+Le Ministre-Président du Gouvernement flamand,
+
+Y. LETERME
+
+Le Ministre flamand des Finances et du Budget et de l'Aménagement du Territoire,
+
+D. VAN MECHELEN
+
+## ANNEXE.
+
+## Art. N
+
+Tableau budgétaire.
+
+(Tableau non repris pour motifs techniques. Voir M.B. 22-09-2005, p. 41218-41237).

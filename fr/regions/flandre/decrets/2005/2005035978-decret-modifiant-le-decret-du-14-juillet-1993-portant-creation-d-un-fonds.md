@@ -1,0 +1,69 @@
+---
+title: "Décret modifiant le décret du 14 juillet 1993 portant création d'un Fonds gravier et réglant l'exploitation de gravier (TRADUCTION)."
+identifier: "2005035978"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005035978/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2005-07-15
+published: 2005-08-16
+entry_into_force: 2005-08-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005035978/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 15 JUILLET 2005. - Décret modifiant le décret du 14 juillet 1993 portant création d'un Fonds gravier et réglant l'exploitation de gravier (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret modifiant le décret du 14 juillet 1993 portant création d'un Fonds gravier et réglant l'exploitation de gravier.
+
+## Art. 1
+
+Le présent décret règle une matière telle que visée à l'article 39 de la Constitution.
+
+## Art. 2
+
+Dans l'article 9, 7°, du décret du 14 juillet 1993 portant création d'un Fonds gravier et réglant l'exploitation de gravier, les mots "ou sur les conditions d'acquisition d'un droit d'exploitation relatif à ces terrains" sont insérés entre les mots "sur les conditions d'acquisition ou d'expropriation des terrains" et "comme prévue à l'article 17, § 3, et à l'article 18, 3°.".
+
+## Art. 3
+
+L'article 14 du même décret est remplacé par la disposition suivante :
+
+" Article 14. § 1er. A l'exception de l'exploitation de gravier comme production secondaire qui sert à l'exploitation du sable quartzeux sous-jacent, il est mis fin à toute activité d'exploitation de gravier dans la province de Limbourg dès que l'exploitation de gravier totale dans les zones d'exploitation de gravier désignées en vertu du présent décret, a atteint le quota attribué de 41 400 000 tonnes de gravier de carrière et 59 500 000 tonnes de gravier de vallée. Ces tonnages ne peuvent être corrigés que suite à des décisions prises antérieurement dans le cadre du décret au sujet de cas de force majeure.
+
+§ 2. Les titulaires d'une autorisation d'exploitation de gravier enlèvent tous les équipements et installations des zones d'exploitation de gravier intéressées un an après que les quotas attribués ont été exploités. Une exception peut être faite pour les travaux et activités destinés à l'achèvement et à l'équipement des zones d'exploitation de gravier intéressées. ".
+
+## Art. 4
+
+A l'article 16, § 1er, du même décret sont apportées les modifications suivantes :
+
+1° dans le § 1er les mots "vers le 1er janvier 2006" sont supprimés;
+
+2° les §§ 5 et 6 sont remplacés par la disposition suivante :
+
+" le titulaire d'une autorisation d'exploitation de gravier dans une zone d'exploitation de gravier ne peut reporter aux années suivantes la part inutilisée d'un quota de production à l'issue de la période bisannuelle qu'en cas de force majeure. A cet effet, il est entendu par le comité gravier, qui décide ensuite de la période de production encore autorisée après 2005. ".
+
+## Art. 5
+
+L'article 17, § 3, du même décret est remplacé par la disposition suivante :
+
+" § 3. La GOM acquiert, sur avis obligatoire du comité gravier, ou bien la propriété lors de l'achat ou de l'expropriation, ou bien le droit d'exploitation par accord avec le propriétaire, des zones d'exploitation de gravier désignées situées dans la province de Limbourg. ".
+
+## Art. 6
+
+Dans l'article 18, alinéa 1er, 3°, du même décret, les mots "ou le droit d'exploitation" sont insérés entre les mots "la propriété" et "de la zone concernée.".
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 15 juillet 2005.
+
+Le Ministre-Président du Gouvernement flamand,
+
+Y. LETERME.
+
+Le Ministre flamand des Travaux publics, de l'Energie, de l'Environnement et de la Nature,
+
+K. PEETERS.

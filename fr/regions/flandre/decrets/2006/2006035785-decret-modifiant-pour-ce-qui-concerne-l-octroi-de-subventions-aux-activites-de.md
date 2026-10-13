@@ -1,0 +1,65 @@
+---
+title: "Décret modifiant, pour ce qui concerne l'octroi de subventions aux activités de promotion de l'entrepreneuriat international, le décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public \"Vlaams Agentschap voor Internationaal Ondernemen\" (Agence flamande pour l'Entrepreneuriat international) (TRADUCTION)."
+identifier: "2006035785"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/28/2006035785/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2006-04-28
+published: 2006-06-15
+entry_into_force: 2006-06-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/28/2006035785/justel"
+department: "Communauté flamande"
+retrieved: 2026-10-12
+---
+
+# 28 AVRIL 2006. - Décret modifiant, pour ce qui concerne l'octroi de subventions aux activités de promotion de l'entrepreneuriat international, le décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public "Vlaams Agentschap voor Internationaal Ondernemen" (Agence flamande pour l'Entrepreneuriat international) (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret modifiant, pour ce qui concerne l'octroi de subventions aux activités de promotion de l'entrepreneuriat international, le décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public "Vlaams Agentschap voor Internationaal Ondernemen" (Agence flamande pour l'Entrepreneuriat international)
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Dans l'article 3, § 1er, alinéa 1er, du décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public "Vlaams Agentschap voor Internationaal Ondernemen", les mots "Flanders Investment and Trade" sont remplacés par les mots "Flanders Investment & Trade".
+
+## Art. 3
+
+Dans le même décret sont insérés un article 6bis et un article 6ter, rédigés comme suit :
+
+"Article 6bis. Dans les limites des crédits budgétaires de la Communauté flamande, des fonds sont inscrits au budget de l'agence que celle-ci ou le Gouvernement flamand peut affecter au soutien des activités des entreprises, des groupements d'entreprises et d'autres organisations qui contribuent à la promotion de l'entrepreneuriat international.
+
+Le Gouvernement flamand arrêté les conditions et les règles d'octroi de subventions, prêts, sûretés ou d'autres formes d'interventions à titre onéreux ou gratuit, dans les limites des crédits disponibles en vue de la réalisation de l'objectif fixé à l'alinéa précédent.
+
+Art. 6ter. Les biens, droits et obligations de l'Office belge du Commerce extérieur qui ont été transférés à la Région flamande en vertu de l'article 6 de l'arrêté royal du 2 mai 1991 transférant des biens, droits et obligations de l'Office belge du Commerce extérieur à la Région wallonne, à la Région flamande et à la Région de Bruxelles-Capitale, sont attribués à l'agence à partir de la date de transfert."
+
+## Art. 4
+
+Les dispositions suivantes du décret du 23 janvier 1991 portant création de "Export Vlaanderen", sont abrogées :
+
+1° l'article 22bis, inséré par le décret du 24 juillet 1996;
+
+2° l'article 23, § 2, modifié par le décret du 24 juillet 1996.
+
+## Art. 5
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 28 avril 2006.
+
+Le Ministre-Président du Gouvernement flamand,
+
+Y. LETERME
+
+La Ministre flamande de l'Economie, de l'Entreprise, des Sciences, de l'Innovation et du Commerce extérieur,
+
+F. MOERMAN.
