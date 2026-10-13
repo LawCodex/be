@@ -1,0 +1,128 @@
+---
+title: "Décret modifiant le Décret Energie du 8 mai 2009, en ce qui concerne le transfert des tâches du régulateur de l'énergie à la VEKA dans le cadre de la réforme vers un seul régulateur flamand coordinateur des services d'utilité publique"
+identifier: "2024004947"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024004947/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2024-04-26
+published: 2024-05-24
+last_amended: 2026-03-11
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024004947/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 24-05-2024 et mise à jour au 11-03-2026"
+retrieved: 2026-10-12
+---
+
+# 26 AVRIL 2024. - Décret modifiant le Décret Energie du 8 mai 2009, en ce qui concerne le transfert des tâches du régulateur de l'énergie à la VEKA dans le cadre de la réforme vers un seul régulateur flamand coordinateur des services d'utilité publique
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, ratifions ce qui suit :
+
+Décret modifiant le Décret l'Energie du 8 mai 2009, en ce qui concerne le transfert des tâches du régulateur de l'énergie à la VEKA dans le cadre de la réforme vers un seul régulateur flamand coordinateur des services d'utilité publique
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+&lt;Abrogé par DCFL 2026-02-27/07, art. 71, 002; En vigueur : 21-03-2026&gt;
+
+## Art. 3
+
+A l'article 7.1.4 du même décret, modifié par les décrets des 24 février 2017 et 19 avril 2024, les modifications suivantes sont apportées :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° il est ajouté des alinéas 3 à 5, rédigés comme suit :
+
+" La base de données sert à traiter et à suivre la demande, le traitement, l'octroi, la commercialisation, l'annulation et le dépôt des certificats d'énergie verte et des certificats de cogénération, ainsi qu'à contrôler le respect des obligations de certificats, à vendre de l'électricité en tant qu'électricité verte, et à contrôler et à assurer la transparence du marché des certificats, ainsi qu'à établir des rapports et à contrôler d'autres obligations qui s'appliquent par ou en vertu des titres V et VII du présent décret.
+
+Le Régulateur flamand des services d'utilité publique est le responsable du traitement, visé à l'article 4, 7) du règlement général sur la protection des données.
+
+Les données à caractère personnel traitées dans le cadre de l'octroi de certificats d'énergie verte ou de cogénération sont conservées jusqu'à un an après l'expiration de la période de validité des certificats d'énergie verte ou de cogénération visée à l'article 7.1.5. ".
+
+----------
+
+(1)&lt;DCFL 2026-02-27/07, art. 72, 002; En vigueur : 21-03-2026&gt;
+
+## Art. 4
+
+Dans l'article 7.1.12, alinéa 1er, du même décret, modifié par le décret du 19 avril 2024, les mots " du Régulateur flamand des services d'utilité publique " sont remplacés par les mots " du Régulateur flamand des services d'utilité publique et de la VEKA ".
+
+## Art. 5
+
+A l'article 7.1/1.1 du même décret, inséré par le décret du 13 juillet 2012 et modifié par les décrets des 26 avril 2019 et 19 avril 2024, les modifications suivantes sont apportées :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° il est ajouté des alinéas 3 à 5, rédigés comme suit :
+
+" La base de données sert à traiter et à suivre la demande, le traitement, l'octroi, la commercialisation, l'importation, l'exportation, l'annulation et le dépôt de garanties d'origine, ainsi qu'à contrôler le respect des obligations de certificats, à vendre de l'électricité en tant qu'électricité verte, et à contrôler et à assurer la transparence du marché, ainsi qu'à établir des rapports et à contrôler d'autres obligations qui s'appliquent par ou en vertu des titres V et VII du présent décret.
+
+Le Régulateur flamand des services d'utilité publique est le responsable du traitement, visé à l'article 4, 7), du règlement général sur la protection des données.
+
+Les données à caractère personnel traitées dans le cadre de l'octroi de garanties d'origine sont conservées jusqu'à un an après l'expiration de la période de validité des garanties d'origine. ".
+
+----------
+
+(1)&lt;DCFL 2026-02-27/07, art. 73, 002; En vigueur : 21-03-2026&gt;
+
+## Art. 6
+
+&lt;Abrogé par DCFL 2026-02-27/07, art. 74, 002; En vigueur : 21-03-2026&gt;
+
+## Art. 7
+
+&lt;Abrogé par DCFL 2026-02-27/07, art. 74, 002; En vigueur : 21-03-2026&gt;
+
+## Art. 8
+
+L'article 15.3.5/8 du même décret, inséré par le décret du 27 novembre 2015, est abrogé.
+
+## Art. 9
+
+L'article 15.3.5/10 du même décret, inséré par le décret du 24 février 2017, est abrogé.
+
+## Art. 10
+
+L'article 15.3.5/15 du même décret, inséré par le décret du 26 avril 2019, est abrogé.
+
+## Art. 11
+
+L'article 15.3.5/17 du même décret, inséré par le décret du 16 novembre 2018, est abrogé.
+
+## Art. 12
+
+Jusqu'à l'entrée en vigueur des articles 2, 3, 5, 6 et 7 du présent décret, le Régulateur flamand des services d'utilité publique reste responsable de l'octroi des certificats d'énergie verte, des certificats de cogénération et des garanties d'origine, ainsi que de la gestion de ces certificats et garanties d'origine dans une base de données centrale, tel que fixé par ou en vertu des articles 7.1.3 et 7.1.4 et du titre VII, chapitre I/1 du Décret l'Energie du 8 mai 2009.
+
+La VEKA est subrogée de plein droit dans les droits et obligations du Régulateur flamand des services d'utilité publique relatifs aux missions, tâches et compétences transférées, à l'exception des droits et obligations découlant des procédures pendantes et des procédures judiciaires futures relatives à ces missions, tâches et compétences qui ont été exécutées par le Régulateur flamand des services d'utilité publique avant l'entrée en vigueur des articles 2, 3, 5, 6 et 7 du présent décret.
+
+## Art. 13
+
+Le Gouvernement flamand arrête la date d'entrée en vigueur de chaque disposition du présent décret, à l'exception des articles 3, 4°, et 5, 4°, qui entrent en vigueur à la date d'entrée en vigueur du décret du 19 avril 2024 relatif à l'opérationnalisation d'un Régulateur flamand des services d'utilité publique.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 26 avril 2024.
+
+Le ministre-président du Gouvernement flamand,
+
+J. JAMBON
+
+La ministre flamande de la Justice et du Maintien, de l'Environnement et de l'Aménagement du Territoire, de l'Energie et du Tourisme,
+
+Z. DEMIR

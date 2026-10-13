@@ -1,0 +1,101 @@
+---
+title: "Décret modifiant le Code flamand du Logement de 2021, en ce qui concerne l'introduction d'un cadre de normes pour le logement temporaire de main-d'oeuvre"
+identifier: "2023040752"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/10/2023040752/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2023-02-10
+published: 2023-02-27
+entry_into_force: 2023-10-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/10/2023040752/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 10 FEVRIER 2023. - Décret modifiant le Code flamand du Logement de 2021, en ce qui concerne l'introduction d'un cadre de normes pour le logement temporaire de main-d'oeuvre
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+DECRET modifiant le Code flamand du Logement de 2021, en ce qui concerne l'introduction d'un cadre de normes pour le logement temporaire de main-d'oeuvre
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+A l'article 1.3, § 1er, alinéa 1er, du Code flamand du Logement de 2021, modifié par le décret du 9 juillet 2021, il est inséré un point 1° /2, rédigé comme suit :
+
+" 1° /2 main-d'oeuvre : une personne qui :
+
+a) réside et est logée en Région flamande uniquement pendant et en raison de son emploi effectif ;
+
+b) ou normalement inscrite dans les registres de la population de la Région flamande, mais qui, pendant et en raison de son emploi dans la Région flamande, est logée si loin de son domicile qu'il lui est impossible d'y retourner chaque jour ; ".
+
+## Art. 3
+
+A l'article 3.2 du même code, modifié par le décret du 16 juillet 2021, les modifications suivantes sont apportées :
+
+1° à l'alinéa 1er, le point 4° est remplacé par ce qui suit :
+
+" 4° imposer que les chambres d'un même bâtiment soient louées, mises à disposition ou mises à la location pour le logement d'étudiants ou de non-étudiants. Le conseil communal peut également imposer que les chambres d'un même bâtiment soient loués, mises à disposition ou mises à la location exclusivement pour le logement de main-d'oeuvre ; " ;
+
+2° l'alinéa 1er est complété par un point 5°, rédigé comme suit :
+
+" 5° prévoir qu'une autorisation préalable peut être délivrée pour la mise à la location, la mise à disposition ou la location d'une maison à chambres pour le logement de main-d'oeuvre, de sorte que les exigences et normes spécifiques des chambres pour main-d'oeuvre, déterminées par le Gouvernement flamand en application de l'article 3.1, § 3, s'appliquent. " ;
+
+3° il est ajouté un alinéa 4 et un alinéa 5, rédigés comme suit :
+
+" Une autorisation pour le logement de main-d'oeuvre telle que visée à l'alinéa 1er, 5°, remplit les conditions suivantes :
+
+1° elle ne peut être délivrée qu'après délivrance d'une attestation de conformité pour toutes les chambres de la maison de chambres ne datant pas de plus d'un an ;
+
+2° elle est valable pour une durée de cinq ans maximum ;
+
+3° elle peut être renouvelée si les conditions d'obtention de l'autorisation sont remplies.
+
+Dans le présent article, on entend par maison de chambres : tout bâtiment ou partie de bâtiment comprenant une ou plusieurs chambres ainsi que des espaces communs. ".
+
+## Art. 4
+
+L'article 3.9, alinéa 1er, du même code, modifié par le décret du 9 juillet 2021, est complété par un point 7°, rédigé comme suit :
+
+" 7° la période de validité d'une autorisation telle que visée à l'article 3.2, alinéa 1er, 5°, a expiré ou aucune autorisation telle que visée à l'article 3.2, alinéa 1er, 5°, n'est délivrée dans un délai d'un an suivant la délivrance d'une attestation de conformité pour les maisons de chambres destinées au logement de main-d'oeuvre. ".
+
+## Art. 5
+
+Le Gouvernement flamand est chargé :
+
+1° de fixer les conditions dans lesquelles une ordonnance telle que visée à l'article 3.2 du Code flamand du Logement de 2021 peut imposer que les chambres d'un même bâtiment soient louées, mises à disposition ou mises à la location exclusivement pour le logement de main-d'oeuvre ;
+
+2° de déterminer les exigences, normes et garanties spécifiques relatives aux chambres de main-d'oeuvre, figurant à l'article 3.2, alinéa 1er, 5°, du même code ;
+
+3° de déclarer les articles 3.6, 3.7, 3.8 et 3.9 du même code applicables aux chambres qui sont louées, mises à disposition ou mises à la location pour le logement de main-d'oeuvre au sens de l'article 3.2, alinéa 1er, 5°, du même code.
+
+## Art. 6
+
+Le présent décret entre en vigueur à une date à fixer par le Gouvernement flamand.
+
+(NOTE : Entrée en vigueur fixée au 01-10-2023 par AGF 2023-04-21/17, art. 4)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 10 février 2023.
+
+Le Ministre-Président du Gouvernement flamand,
+
+J. JAMBON
+
+Le Ministre flamand des Finances et du Budget, du Logement et du Patrimoine immobilier,
+
+M. DIEPENDAELE
+
+Le Ministre flamand de l'Economie, de l'Innovation, de l'Emploi, de l'Economie sociale et de l'Agriculture,
+
+J. BROUNS

@@ -1,0 +1,189 @@
+---
+title: "Décret relatif à la fusion volontaire des communes de Ham et Tessenderlo et portant modification de l'annexe au Décret électoral local et provincial du 8 juillet 2011 [...] (Intitulé modifié par <DCFL 2024-05-03/14 , art. 22, 002; En vigueur : 01-01-2025>)"
+identifier: "2024004727"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004727/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2024-04-19
+published: 2024-05-24
+entry_into_force: 2024-06-03
+last_amended: 2024-05-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004727/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 24-05-2024 et mise à jour au 24-05-2024"
+retrieved: 2026-10-12
+---
+
+# 19 AVRIL 2024. - Décret relatif à la fusion volontaire des communes de Ham et Tessenderlo et portant modification de l'annexe au Décret électoral local et provincial du 8 juillet 2011 [...] (Intitulé modifié par &lt;DCFL 2024-05-03/14 , art. 22, 002; En vigueur : 01-01-2025&gt;)
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret relatif à la fusion volontaire des communes de Ham et Tessenderlo et portant modification de l'annexe au Décret électoral local et provincial du 8 juillet 2011, en ce qui concerne la dissolution des communes à fusionner et l'insertion de la nouvelle commune
+
+## CHAPITRE 1er. - [<sup>1</sup> Dispositions]<sup>1</sup> introductives
+
+----------
+
+(1)&lt;DCFL 2024-05-03/14, art. 23, 002; En vigueur : 01-01-2025&gt;
+
+### Art. 1er
+
+Le présent décret règle des matières communautaire et régionale.
+
+### Art. 1/1.
+
+[<sup>1</sup> Contrairement à l'article 343, 2° et 9°, du décret du 22 décembre 2017 sur l'administration locale, pour l'application du présent décret, on entend par :
+
+1° nouvelle commune : la commune originale qui est conservée lors de la fusion et qui est instaurée comme telle dans le décret de fusion ;
+
+2° décret de fusion : le décret spécifique sur la base duquel l'une des communes originales est conservée et instaurée en tant que nouvelle commune et dont les frontières sont fixées, et sur la base duquel l'autre commune originale est abrogée.
+
+Contrairement à l'article 344, alinéa 2, du même décret, la commune originale de Ham est conservée et instaurée en tant que nouvelle commune de Tessenderlo-Ham. L'autre commune originale de Tessenderlo est abrogée.
+
+Contrairement à l'article 350, alinéa 1er, 1°, du même décret, les biens mobiliers de la commune originale abrogée de Tessenderlo sont transférés de plein droit à la nouvelle commune de Tessenderlo-Ham à la date de la fusion. Les biens sont transférés dans l'état où ils se trouvent, y compris les charges et obligations liées aux biens. A la date de la fusion, la nouvelle commune de Tessenderlo-Ham succède aux droits et obligations de la commune originale abrogée de Tessenderlo pour ce qui est des biens mobiliers qui lui ont été transférés, y compris aux droits et obligations découlant de procédures judiciaires en cours et futures.
+
+Contrairement à l'article 350, alinéa 1er, 2°, du même décret, les biens immobiliers de la commune originale abrogée de Tessenderlo sont transférés de plein droit à la nouvelle commune de Tessenderlo-Ham à la date de la fusion. La nouvelle commune de Tessenderlo-Ham succède aux droits, obligations et charges des biens immobiliers qui lui ont été transférés.
+
+Contrairement à l'article 350, alinéa 1er, 5°, du même décret, la nouvelle commune de Tessenderlo-Ham ne devient que le successeur de la commune originale abrogée de Tessenderlo et ne succède qu'aux droits, obligations et charges de la commune originale abrogée de Tessenderlo à la date de la fusion.
+
+Contrairement à l'article 363, alinéa 1er, du même décret, le personnel entier de la commune originale abrogée de Tessenderlo est transféré de plein droit à la nouvelle commune de Tessenderlo-Ham, quelle que soit leur relation de travail.
+
+Les garanties visées aux articles 364 et 365 du même décret s'appliquent mutatis mutandis au personnel de la commune originale de Ham, qui est instaurée en tant que nouvelle commune de Tessenderlo-Ham.
+
+Contrairement à l'article 371 du même décret, le CPAS de la commune originale de Ham, qui est instaurée en tant que nouvelle commune de Tessenderlo-Ham, est conservé et instauré en tant que nouveau CPAS. Le CPAS de la commune originale abrogée de Tessenderlo est abrogé à la date de la fusion.
+
+Contrairement à l'article 374 du même décret, les dispositions suivantes s'appliquent :
+
+1° à la date de la fusion, tous les biens mobiliers du CPAS de la commune originale abrogée de Tessenderlo sont transférés de plein droit au nouveau CPAS. Les biens sont transférés dans l'état où ils se trouvent, y compris les charges et obligations liées aux biens. A la date de la fusion, le nouveau CPAS succède aux droits et obligations du CPAS de la commune originale abrogée de Tessenderlo pour ce qui est des biens mobiliers qui ont été transférés à ce nouveau CPAS, y compris aux droits et obligations découlant de procédures judiciaires en cours et futures ;
+
+2° à la date de la fusion, tous les biens immobiliers du CPAS de la commune originale abrogée de Tessenderlo sont transférés de plein droit au nouveau CPAS. La nouvelle commune de Tessenderlo-Ham succède aux droits, obligations et charges des biens immobiliers qui ont été transférés à ce nouveau CPAS ;
+
+3° l'article 350, alinéa 1er, 3°, 4° et 5°, du même décret s'applique au nouveau CPAS, étant entendu que " la nouvelle commune " doit être lue comme " le nouveau CPAS " et que " les communes fusionnées " doivent être lues comme " les CPAS fusionnés".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-03/14, art. 24, 002; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE 2. - Dispositions relatives à la fusion
+
+### Art. 2
+
+Le 1er janvier 2025, les communes de Ham et Tessenderlo seront fusionnées en une nouvelle commune appelée Tessenderlo-Ham.
+
+[<sup>1</sup> La commune originale de Ham est instaurée en tant que nouvelle commune de Tessenderlo-Ham, visée à l'alinéa 1er. La commune originale de Tessenderlo est abrogée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-03/14, art. 25, 002; En vigueur : 01-01-2025&gt;
+
+### Art. 3
+
+Les limites de la nouvelle commune de Tessenderlo-Ham sont constituées par les limites extérieures des communes fusionnées de Ham et Tessenderlo, telles qu'elles sont maintenues par l'Administration Mesures et Evaluations au sein de l'Administration générale de la documentation patrimoniale du Service public fédéral Finances. Les limites intérieures entre les communes fusionnées deviennent caduques.
+
+### Art. 4
+
+En application de l'article 350, alinéa 1er, 5°, du décret du 22 décembre 2017 sur l'administration locale, la part et le pourcentage correspondant dans la dotation complémentaire, visée à l'article 19decies du décret du 5 juillet 2002 réglant la dotation et la répartition du Fonds flamand des Communes, sont égaux pour la nouvelle commune de Tessenderlo-Ham à la somme des parts et des pourcentages correspondants dans la dotation complémentaire des communes originelles de Ham et Tessenderlo, visés à l'annexe du décret du 5 juillet 2002.
+
+### Art. 5
+
+En application de l'article 350, alinéa 1er, 5°, du décret du 22 décembre 2017 sur l'administration locale, la part de la subvention, visée à l'article 10 du Décret-programme du 23 décembre 2021 accompagnant le budget 2022, est égale pour la nouvelle commune de Tessenderlo-Ham pour les années 2025 et 2026 à la somme des parts de la subvention des communes originelles de Ham et Tessenderlo, visées à l'annexe du décret précité.
+
+### Art. 6
+
+En application de l'article 350, alinéa 1er, 5°, du décret du 22 décembre 2017 sur l'administration locale, la part de la subvention, visée à l'article 27 du Décret-programme du 16 décembre 2022 accompagnant le budget 2023, est égale pour la nouvelle commune de Tessenderlo-Ham pour l'année 2025, à la somme des parts de la subvention des communes originelles de Ham et Tessenderlo, visées à l'annexe 2 du décret précité.
+
+## CHAPITRE 3. - Elections
+
+### Art. 7
+
+Par dérogation à l'article 218, § 3, alinéa 1er, du Décret électoral local et provincial du 8 juillet 2011, les électeurs des communes fusionnées de Ham et Tessenderlo seront convoqués le 13 octobre 2024.
+
+## CHAPITRE 4. - Cession des terrains à risque
+
+### Art. 8
+
+Dans le cadre de la fusion, visée à l'article 2, la cession des terrains à risque, visés à l'article 2, 13° et 18°, du décret relatif au sol du 27 octobre 2006, peut avoir lieu sans que les obligations, visées aux articles 102 à 115 du décret précité, ne soient remplies au préalable.
+
+Après la fusion, la nouvelle commune s'acquitte des obligations suivantes, visées à l'article 2 :
+
+1° pour les terrains à risque cédés sur lesquels aucune reconnaissance d'orientation du sol n'a encore été réalisée à la date de la fusion : la réalisation d'une reconnaissance d'orientation du sol sur les terrains à risque cédés et la remise du rapport à l'OVAM. La reconnaissance d'orientation du sol est réalisée et son rapport est remis à l'OVAM dans un délai de trois ans suivant la date de fusion des communes ;
+
+2° si, conformément à l'article 104, § 1er, ou à l'article 109, § 1er, du décret relatif au sol du 27 octobre 2006, une étude descriptive du sol est nécessaire : la réalisation de l'étude descriptive du sol et la remise du rapport à l'OVAM dans le délai fixé par l'OVAM ;
+
+3° si, conformément à l'article 104, § 2, ou à l'article 109, § 2, du décret relatif au sol du 27 octobre 2006, un assainissement du sol est nécessaire : la mise en oeuvre de l'assainissement du sol dans le délai fixé par l'OVAM.
+
+Dans un délai d'un an suivant la fusion visée à l'article 2, la nouvelle commune dresse un inventaire de tous ses terrains à risque couverts par les obligations respectives visées à l'alinéa 2, et le soumet à l'OVAM.
+
+Dans le présent paragraphe, on entend par OVAM : la Société publique des Déchets de la Région flamande, créée par l'article 10.3.1, § 1er, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement.
+
+§ 2. Le paragraphe 1er s'applique mutatis mutandis à la cession des terrains à risque des centres publics d'action sociale des communes à fusionner au nouveau centre public d'action sociale de la nouvelle commune.
+
+## CHAPITRE 5. - Disposition modificative
+
+### Art. 9
+
+Dans l'annexe au Décret électoral local et provincial du 8 juillet 2011, remplacé par le décret du 30 juin 2017 et modifié par les décrets du 4 mai 2018, les modifications suivantes sont apportées dans le tableau Province du Limbourg, arrondissement électoral provincial du Limbourg :
+
+1° la ligne suivante est abrogée :
+
+"
+
+<table><tr><td> </td><td>Ham</td></tr></table>
+
+" ;
+
+2° la ligne suivante est abrogée :
+
+"
+
+<table><tr><td> </td><td>Tessenderlo</td></tr></table>
+
+" ;
+
+3° entre la ligne
+
+"
+
+<table><tr><td> </td><td>Saint-Trond</td></tr></table>
+
+"
+
+et la ligne
+
+"
+
+<table><tr><td> </td><td>Zonhoven</td></tr></table>
+
+"
+
+est insérée la ligne suivante :
+
+"
+
+<table><tr><td> </td><td>Tessenderlo-Ham</td></tr></table>
+
+".
+
+## CHAPITRE 6. - Entrée en vigueur
+
+### Art. 10
+
+Les articles 2 à 6 et l'article 9 entrent en vigueur le 1er janvier 2025.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 19 avril 2024.
+
+Le ministre-président du Gouvernement flamand,
+
+J. JAMBON
+
+La ministre flamande de l'Administration intérieure, de la Gouvernance publique, de l'Insertion civique et de l'Egalité des Chances,
+
+G. RUTTEN

@@ -1,0 +1,259 @@
+---
+title: "Décret modifiant divers décrets par suite de la fusion du Département du Bien-être, de la Santé publique et de la Famille et de l'Agence autonomisée interne Soins et Santé pour former le Département Soins"
+identifier: "2023042279"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/21/2023042279/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2023-04-21
+published: 2023-05-16
+entry_into_force: 2023-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/21/2023042279/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 21 AVRIL 2023. - Décret modifiant divers décrets par suite de la fusion du Département du Bien-être, de la Santé publique et de la Famille et de l'Agence autonomisée interne Soins et Santé pour former le Département Soins
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret modifiant divers décrets par suite de la fusion du Département du Bien-être, de la Santé publique et de la Famille et de l'Agence autonomisée interne Soins et Santé pour former le Département Soins
+
+## CHAPITRE 1er. - Disposition introductive
+
+### Art. 1er
+
+Le présent décret règle des matières communautaire et régionale.
+
+## CHAPITRE 2. - Modification du décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant et portant création d'une Commission de surveillance en rapport avec les établissements privatifs de liberté pour enfants et jeunes
+
+### Art. 2
+
+Dans l'article 17, § 6, 2°, du décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant et portant création d'une Commission de surveillance en rapport avec les établissements privatifs de liberté pour enfants et jeunes, inséré par le décret du 3 février 2017 et modifié par les décrets des21 décembre 2018 et 10 juillet 2020, le point c) est remplacé par ce qui suit :
+
+" c) la division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ; ".
+
+## CHAPITRE 3. - Modifications du décret du 21 novembre 2003 relatif à la politique de santé préventive
+
+### Art. 3
+
+Dans l'article 45, § 5, du décret du 21 novembre 2003 relatif à la politique de santé préventive, remplacé par le décret du 23 décembre 2022, les mots " L'Agence des Soins et de la Santé (" Agentschap Zorg en Gezondheid ") " sont remplacés par le membre de phrase " Le Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+## CHAPITRE 4. - Modification du décret du 2 juin 2006 portant transformation du Fonds flamand de l'Infrastructure affectée aux Matières personnalisables (" Vlaams Infrastructuurfonds voor persoonsgebonden Aangelegenheden ") en agence autonomisée interne dotée de la personnalité juridique, et modifiant le décret du 23 février 1994 relatif à l'infrastructure affectée aux matières personnalisables
+
+### Art. 4
+
+Dans l'article 6, alinéa 2, du décret du 2 juin 2006 portant transformation du Fonds flamand de l'Infrastructure affectée aux Matières personnalisables en agence autonomisée interne dotée de la personnalité juridique, et modifiant le décret du 23 février 1994 relatif à l'infrastructure affectée aux matières personnalisables, inséré par le décret du 15 juillet 2016, le membre de phrase " , sur avis du comité consultatif établi par l'agence autonomisée interne " Zorg en Gezondheid ", " est abrogé.
+
+## CHAPITRE 5. - Modification du décret du 8 mai 2009 relatif à la qualité de l'enseignement
+
+### Art. 5
+
+Dans l'article 43bis, § 1er, alinéa 3, du décret du 8 mai 2009 relatif à la qualité de l'enseignement, inséré par le décret du 21 mars 2014 et modifié par le décret du 19 juin 2015, le membre de phrase " " Zorginspectie " du Département du Bien-être, de la Santé publique et de la Famille, visé à l'article 3, § 2, alinéa 3, de l'arrêté du Gouvernement flamand du 31 mars 2006 concernant le Département du Bien-être, de la Santé publique et de la Famille, relatif à l'entrée en vigueur de la réglementation créant des agences dans le domaine politique Aide sociale, Santé publique et Famille et modifiant la réglementation concernant ce domaine politique " est remplacé par le membre de phrase " la division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+## CHAPITRE 6. - Modification du décret du 23 décembre 2010 relatif à l'explorateur de droits (rechtenverkenner)
+
+### Art. 6
+
+Dans l'article 2, alinéa 4, du décret du 23 décembre 2010 relatif à l'explorateur de droits (rechtenverkenner), le membre de phrase " Département du Bien-être, de la Santé publique et de la Famille, division du Bien-être social, " est remplacé par le membre de phrase " Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, ".
+
+## CHAPITRE 7. - Modifications du décret du 20 avril 2012 portant organisation de l'accueil de bébés et de bambins
+
+### Art. 7
+
+Dans l'article 2, alinéa 1er, du décret du 20 avril 2012 portant organisation de l'accueil de bébés et de bambins, modifié par les décrets des 19 juin 2015, 19 janvier 2018 et 21 mai 2021, le point 13° est abrogé.
+
+### Art. 8
+
+Dans l'article 15 du même décret, modifié par les décrets des 19 janvier 2018 et 21 mai 2021, un alinéa rédigé comme suit est inséré, entre les alinéas 1er et 2 :
+
+" A l'alinéa 1er, il y a lieu d'entendre par Inspection des Soins : la division de l'Inspection des Soins du Département des Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande. ".
+
+## CHAPITRE 8. - Modification du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse
+
+### Art. 9
+
+Dans l'article 78, § 3, du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse, inséré par le décret du 17 juin 2016 et modifié par le décret du 15 mars 2019, les mots " l'Inspection des Soins " sont remplacés par le membre de phrase " la division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+## CHAPITRE 9. - Modifications de la Codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016
+
+### Art. 10
+
+Dans l'article III.20, § 6, de la Codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016, inséré par le décret du 24 juin 2022, le membre de phrase " L'Inspection des soins visée à l'article 3, § 2, alinéa 3, de l'arrêté du Gouvernement flamand du 31 mars 2006 concernant le Département de l'Aide sociale, de la Santé publique et de la Famille, relatif à l'entrée en vigueur de la réglementation créant des agences dans le domaine politique Aide sociale, Santé publique et Famille et modifiant la réglementation concernant ce domaine politique " est remplacé par le membre de phrase " La division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+### Art. 11
+
+Dans l'article III.30/1 de la même codification, inséré par le décret du 24 juin 2022, le membre de phrase " L'Inspection des Soins, visée à l'article 3, § 2, alinéa 3, de l'arrêté du Gouvernement flamand du 31 mars 2006 concernant le Département de l'Aide sociale, de la Santé publique et de la Famille, relatif à l'entrée en vigueur de la réglementation créant des agences dans le domaine politique Aide sociale, Santé publique et Famille et modifiant la réglementation concernant ce domaine politique " est remplacé par le membre de phrase " La division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+### Art. 12
+
+Dans l'article III.37, alinéa 2, de la même codification, inséré par le décret du 24 juin 2022, le membre de phrase " L'Inspection des Soins, visée à l'article 3, § 2, alinéa trois, de l'arrêté du Gouvernement flamand du 31 mars 2006 concernant le Département de l'Aide sociale, de la Santé publique et de la Famille, relatif à l'entrée en vigueur de la réglementation créant des agences dans le domaine politique Aide sociale, Santé publique et Famille et modifiant la réglementation concernant ce domaine politique " est remplacé par le membre de phrase " La division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+### Art. 13
+
+Dans l'article III.38, alinéa 5, de la même codification, modifié par le décret du 24 juin 2022, le membre de phrase " L'Inspection des Soins, visée à l'article 3, § 2, alinéa 3, de l'arrêté du Gouvernement flamand du 31 mars 2006 concernant le Département de l'Aide sociale, de la Santé publique et de la Famille, relatif à l'entrée en vigueur de la réglementation créant des agences dans le domaine politique Aide sociale, Santé publique et Famille et modifiant la réglementation concernant ce domaine politique " est remplacé par le membre de phrase " division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+## CHAPITRE 10. - Modification du décret du 7 juillet 2017 portant création d'une agence autonomisée externe de droit public Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale (" Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid "), établissant des normes d'autorisation pour des acteurs de paiement privés et modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Enfance et Famille (" Kind en Gezin ")
+
+### Art. 14
+
+Dans l'article 13 du décret du 7 juillet 2017 portant création d'une agence autonomisée externe de droit public Agence flamande de Paiement des Allocations dans le cadre de la Politique familiale, établissant des normes d'autorisation pour des acteurs de paiement privés et modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Enfance et Famille, modifié par les décrets des 21 mai 2021 et 10 novembre 2022, le membre de phrase " Zorginspectie, telle que visée à l'article 3, § 2, alinéa 3, de l'arrêté du Gouvernement flamand du 31 mars 2006 concernant le Département de l'Aide sociale, de la Santé publique et de la Famille, relatif à l'entrée en vigueur de la réglementation créant des agences dans le domaine politique Aide sociale, Santé publique et Famille et modifiant la réglementation concernant ce domaine politique " est remplacé par le membre de phrase " La division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande. ".
+
+## CHAPITRE 11. - Modification du décret du 19 janvier 2018 relatif au contrôle public dans le cadre de la politique de la santé et de l'aide sociale
+
+### Art. 15
+
+Dans l'article 5, § 4, du décret du 19 janvier 2018 relatif au contrôle public dans le cadre de la politique de la santé et de l'aide sociale, le membre de phrase " Département de l'Aide sociale, de la Santé publique et de la Famille " est remplacé par le membre de phrase " Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande, ".
+
+## CHAPITRE 12. - Modification du décret relatif au Panier de croissance de 2018
+
+### Art. 16
+
+Dans l'article 3, § 3, du décret relatif au Panier de croissance de 2018, le point 10° est remplacé par ce qui suit :
+
+" 10° Inspection des Soins : la division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande. ".
+
+## CHAPITRE 13. - Modifications du décret du 18 mai 2018 relatif à la protection sociale flamande
+
+### Art. 17
+
+A l'article 14 du décret du 18 mai 2018 relatif à la protection sociale flamande, les modifications suivantes sont apportées :
+
+1° les mots " une agence autonomisée interne " sont remplacés par les mots " le département " ;
+
+2° les mots " l'agence autonomisée interne " sont remplacés par les mots " le département ".
+
+## CHAPITRE 14. - Modifications du Décret sur les soins résidentiels du 15 février 2019
+
+### Art. 18
+
+Dans l'article 7, § 3, du décret sur les soins résidentiels du 15 février 2019, le membre de phrase " l'Inspection des Soins du Département du Bien-être, de la Santé publique et de la Famille " est remplacé par le membre de phrase " la division de l'Inspection des Soins du Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+### Art. 19
+
+A l'article 59 du même décret, modifié par le décret du 20 décembre 2019, les modifications suivantes sont apportées :
+
+1° au paragraphe 5, alinéa 1er, le membre de phrase
+
+" traitées par :
+
+1° l'" Agentschap Zorg en Gezondheid " (Agence flamande des Soins et de la Santé) ;
+
+2° le " Departement Welzijn, Volksgezondheid en Gezin " (Département du Bien-être, de la Santé publique et de la Famille) "
+
+est remplacé par le membre de phrase " traitées par le Département Soins visé à l'article 23, § 1, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande " ;
+
+2° au paragraphe 6, alinéa 1er, le point 1° est remplacé par ce qui suit :
+
+" 1° le Département Soins, pour le traitement des données à caractère personnel dans le cadre du financement approprié des structures de soins résidentiels, du suivi et du maintien en ce qui concerne les soins résidentiels offerts et la compétence et l'intégrité des membres du personnel, des bénévoles, des travailleurs associatifs et des administrateurs, et pour l'exercice du contrôle des conditions de reconnaissance et de la qualité des soins résidentiels offerts ; " ;
+
+3° dans le paragraphe 6, alinéa 1er, le point 2° est abrogé.
+
+## CHAPITRE 15. - Modifications du décret du 5 avril 2019 relatif à l'organisation et au soutien de l'offre de santé mentale
+
+### Art. 20
+
+A l'article 2 du décret du 5 avril 2019 relatif à l'organisation et au soutien de l'offre de santé mentale, les modifications suivantes sont apportées :
+
+1° le point 1° est abrogé ;
+
+2° il est inséré un point 4° /1, rédigé comme suit :
+
+" 4° /1 département : le Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ; " ;
+
+3° au point 35°, le membre de phrase " , visée à l'article 3, § 2, alinéa 3, de l'arrêté du Gouvernement flamand du 31 mars 2006 concernant le Département du Bien-être, de la Santé publique et de la Famille, relatif à l'entrée en vigueur de la réglementation créant des agences dans le domaine politique du Bien-être, de la Santé publique et de la Famille et modifiant la réglementation concernant ce domaine politique " est remplacé par les mots " du département ".
+
+### Art. 21
+
+Dans l'article 6, § 3, du même décret, les mots " L'agence " sont remplacés par les mots " La division fonctionnellement compétente du département ".
+
+### Art. 22
+
+Dans l'article 20 du même décret, les mots " de l'agence " sont chaque fois remplacés par les mots " du département ".
+
+### Art. 23
+
+A l'article 25 du même décret, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 2, alinéa 1er, les mots " l'agence " sont remplacés par les mots " la division fonctionnellement compétente du département " ;
+
+2° au paragraphe 4, alinéa 1er, le point 1° est remplacé par ce qui suit :
+
+" 1° le département, pour le traitement des données à caractère personnel dans le cadre de la recherche scientifique et du financement approprié, de la gestion et de l'assurance de normes de qualité élevées de l'offre de santé mentale, et pour le suivi de la qualité de l'offre de santé mentale ; " ;
+
+3° dans le paragraphe 4, alinéa 1er, le point 2° est abrogé.
+
+### Art. 24
+
+Dans l'article 27, alinéa 2, du même décret, les mots " l'agence " sont remplacés par les mots " le département ".
+
+### Art. 25
+
+Dans l'article 29, alinéa 1er, du même décret, les mots " par l'agence " sont chaque fois remplacés par les mots " par le département " et les mots " de l'agence " sont remplacés par les mots " du département ".
+
+## CHAPITRE 16. - Modifications du décret du 26 avril 2019 relatif à l'organisation des soins de première ligne, des plateformes régionales de soins, et du soutien des prestataires de soins de première ligne
+
+### Art. 26
+
+Dans l'article 11, alinéa 2, 4°, du décret du 26 avril 2019 relatif à l'organisation des soins de première ligne, des plateformes régionales de soins, et du soutien des prestataires de soins de première ligne, le membre de phrase " Département du Bien-être, de la Santé publique et de la Famille " est remplacé par le membre de phrase " Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+### Art. 27
+
+A l'article 27 du même décret, les modifications suivantes sont apportées :
+
+1° à l'alinéa 1er, les mots " par l'agence " sont chaque fois remplacés par les mots " par le Département Soins ", et les mots " de l'agence " sont remplacés par les mots " du Département Soins " ;
+
+2° l'alinéa 2 est remplacé par ce qui suit :
+
+" Dans l'alinéa 1er, on entend par Département Soins : le Département Soins, visé à l'article 23, § 1, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande. ".
+
+## CHAPITRE 17. - Modification du décret du 26 avril 2019 portant création d'un centre de filiation et d'une banque de données ADN
+
+### Art. 28
+
+Dans l'article 38, alinéa 2, du décret du 26 avril 2019 portant création d'un centre de filiation et d'une banque de données ADN, modifié par le décret du 21 mai 2021, les mots " l'Inspection des Soins " sont remplacés par le membre de phrase " la division de l'Inspection des Soins du Département des Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande ".
+
+## CHAPITRE 18. - Modifications du décret du 8 juillet 2022 portant création de la plateforme Vitalink
+
+### Art. 29
+
+A l'article 8 du décret du 8 juillet 2022 portant création de la plateforme Vitalink, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, le membre de phrase " agence : l'agence des Soins et de la Santé, créée par l'arrêté du Gouvernement flamand du 7 mai 2004 portant création de l'agence autonomisée interne Soins et Santé ", est remplacé par le membre de phrase : le Département Soins, visé à l'article 23, § 1er, de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande " ;
+
+2° dans l'alinéa 2, les mots " l'agence " sont remplacés par les mots " le département " ;
+
+3° dans les alinéas 3 et 5, les mots " l'agence " sont chaque fois remplacés par les mots " le département ".
+
+## CHAPITRE 19. - Entrée en vigueur
+
+### Art. 30
+
+Le Gouvernement flamand arrête, pour chaque disposition du présent décret, la date d'entrée en vigueur.
+
+(NOTE : Entrée en vigueur des articles 1 à 2; 4 à 30 fixée au 01-06-2023 par AGF 2023-05-12/06, art. 20)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 21 avril 2023.
+
+Le Ministre-Président du Gouvernement flamand,
+
+J. JAMBON
+
+La Ministre flamande du Bien-Etre, de la Santé publique et de la Famille,
+
+H. CREVITS
+
+Le Ministre flamand de l'Enseignement, des Sports, du Bien-Etre des animaux et du Vlaamse Rand,
+
+B. WEYTS
+
+Le Ministre flamand des Affaires bruxelloises, de la Jeunesse, des Médias et de la Lutte contre la Pauvreté,
+
+B. DALLE

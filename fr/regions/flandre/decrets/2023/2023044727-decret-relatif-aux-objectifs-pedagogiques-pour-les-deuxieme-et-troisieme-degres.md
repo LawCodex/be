@@ -1,0 +1,137 @@
+---
+title: "Décret relatif aux objectifs pédagogiques pour les deuxième et troisième degrés de l'enseignement secondaire"
+identifier: "2023044727"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/14/2023044727/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2023-07-14
+published: 2023-08-28
+entry_into_force: 2023-09-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/14/2023044727/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 14 JUILLET 2023. - Décret relatif aux objectifs pédagogiques pour les deuxième et troisième degrés de l'enseignement secondaire
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret relatif aux objectifs pédagogiques pour les deuxième et troisième degrés de l'enseignement secondaire
+
+## CHAPITRE 1er. - Disposition introductive
+
+### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## CHAPITRE 2. - Objectifs finaux des deuxième et troisième degrés et objectifs finaux spécifiques du troisième degré
+
+### Art. 2
+
+Le présent décret contient les objectifs pédagogiques du deuxième degré et, à l'exception de la troisième année d'études, du troisième degré de l'enseignement secondaire ordinaire à temps plein et de la forme d'enseignement 4 de l'enseignement secondaire spécial, dans la mesure où il s'agit des objectifs finaux des deuxième et troisième degrés et des objectifs finaux spécifiques du troisième degré.
+
+Les objectifs finaux sont formulés à partir des seize compétences clés visées à l'article 139, § 2 du Code de l'Enseignement secondaire du 17 décembre 2010. Les objectifs finaux spécifiques ont été développés à partir des subdivisions typiques d'un domaine scientifique déterminé.
+
+Outre l'intention, les éléments suivants, repris dans les annexes jointes au présent décret, font chaque fois partie intégrante de l'objectif final ou de l'objectif final spécifique dans lequel ils sont mentionnés :
+
+1° éléments (de connaissance) sous-jacents : un complément ou une précision des éléments (de connaissance) qui ne ressortent pas de l'intention, mais qui sont importants pour réaliser l'intention ;
+
+2° caractéristiques des textes : les exigences auxquelles les textes choisis et proposés dans la langue cible doivent satisfaire ;
+
+3° exigences minimales : les exigences auxquelles les textes produits par les élèves doivent satisfaire ;
+
+4° note de bas de page : précision en ce qui concerne le développement des élèves, le contexte ou le champ d'application.
+
+### Art. 3
+
+Les objectifs pédagogiques sont :
+
+1° les objectifs finaux pour les deuxième et troisième degrés de :
+
+a) la finalité transition, formes d'enseignement ESG/ESA/EST ;
+
+b) la double finalité, formes d'enseignement ESA/EST ;
+
+c) la finalité marché du travail, forme d'enseignement ESP ;
+
+2° les objectifs finaux spécifiques pour le troisième degré de :
+
+a) la finalité transition, formes d'enseignement ESG/ESA/EST ;
+
+b) la double finalité, formes d'enseignement ESA/EST.
+
+Les dispositions suivantes doivent être observées dans la mise en oeuvre des objectifs pédagogiques en question :
+
+1° les objectifs pédagogiques sont à atteindre au niveau de la population ;
+
+2° les objectifs pédagogiques sont atteints de manière autonome par l'élève, sauf mention contraire explicite ;
+
+3° les objectifs pédagogiques sont réalisés de manière cohérente au sein et au-delà des compétences clés et des domaines scientifiques.
+
+### Art. 4
+
+Les objectifs finaux des première et deuxième années d'études du deuxième degré figurent à l'annexe 1re jointe au présent décret.
+
+Les objectifs finaux des première et deuxième années d'études du troisième degré figurent à l'annexe 2 jointe au présent décret.
+
+Les objectifs finaux spécifiques pour le troisième degré figurent à l'annexe 3 jointe au présent décret.
+
+### Art. 5
+
+Les objectifs finaux entrent en vigueur :
+
+1° le 1er septembre 2023 : en première année d'études des deuxième et troisième degrés ;
+
+2° le 1er septembre 2024 : en deuxième année d'études des deuxième et troisième degrés.
+
+Les objectifs finaux spécifiques entrent en vigueur :
+
+1° le 1er septembre 2023 : en première année d'études du troisième degré ;
+
+2° le 1er septembre 2024 : en deuxième année d'études du troisième degré.
+
+## CHAPITRE 3. - Modifications du Code de l'Enseignement secondaire du 17 décembre 2010
+
+### Art. 6
+
+A l'article 147/3, § 2, du Code de l'Enseignement secondaire du 17 décembre 2010, inséré par le décret du 26 janvier 2018 et modifié par le décret du 9 juillet 2021, l'alinéa 2 est remplacé par ce qui suit :
+
+" Par dérogation au paragraphe 1er, alinéa 3, au cours de l'année scolaire 2023-2024, les programmes d'études pour les années d'études des deuxième et troisième degrés modernisés ne doivent pas avoir été approuvés par le Gouvernement flamand. ".
+
+## CHAPITRE 4. - Entrée en vigueur
+
+### Art. 7
+
+Le présent décret entre en vigueur le 1er septembre 2023.
+
+## ANNEXES.
+
+### Art. N1
+
+(Image non reprise pour des raisons techniques, voir M.B. du 28-08-2023, p. 69995)
+
+### Art. N2
+
+(Image non reprise pour des raisons techniques, voir M.B. du 28-08-2023, p. 70018)
+
+### Art. N3
+
+(Image non reprise pour des raisons techniques, voir M.B. du 28-08-2023, p. 70038)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 14 juillet 2023.
+
+Le ministre-président du Gouvernement flamand,
+
+J. JAMBON
+
+Le ministre flamand de l'Enseignement, des Sports, du Bien-Etre des Animaux et du Vlaamse Rand,
+
+B. WEYTS

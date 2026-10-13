@@ -1,0 +1,69 @@
+---
+title: "Décret modifiant le décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves, en ce qui concerne le traitement des données à caractère personnel par les centres d'encadrement des élèves"
+identifier: "2023047773"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/17/2023047773/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2023-11-17
+published: 2023-12-08
+entry_into_force: 2023-12-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/17/2023047773/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 17 NOVEMBRE 2023. - Décret modifiant le décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves, en ce qui concerne le traitement des données à caractère personnel par les centres d'encadrement des élèves
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret modifiant le décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves, en ce qui concerne le traitement des données à caractère personnel par les centres d'encadrement des élèves
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+Dans l'article 10 du décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves, modifié par le décret du 5 avril 2019, entre les alinéas 2 et 3, sont insérés trois alinéas, rédigés comme suit :
+
+" Les données à caractère personnel qui peuvent être traitées dans le dossier multidisciplinaire sont les suivantes :
+
+1° le numéro de registre national ou le numéro bis de l'élève et de son représentant ;
+
+2° le nom, l'adresse, le sexe et la date de naissance de l'élève ;
+
+3° les données relatives aux interventions et à l'encadrement par le centre, y compris les rapports ;
+
+4° les données relatives au parcours scolaire de l'élève, notamment ses présences ou son exclusion définitive de l'école ;
+
+5° les données relatives aux compétences d'apprentissage et d'étude de l'élève ;
+
+6° les données relatives aux besoins en matière de soins de l'élève ;
+
+7° les résultats des tests de l'élève et les données relatives à son développement physique ;
+
+8° les données relatives au comportement et au contexte de vie de l'élève, susceptibles d'avoir une incidence sur sa santé physique, sexuelle ou socio-émotionnelle ;
+
+9° la composition de la famille et les données relatives aux parents de l'élève, à ses tuteurs ou aux personnes chargées de son éducation.
+
+Le centre conserve le dossier multidisciplinaire de l'élève pendant une période maximale de dix ans à compter de la date du dernier contact systématique ou de la dernière vaccination effectifs.
+
+Par dérogation à l'alinéa 4, les données des élèves ayant terminé leur parcours scolaire dans l'enseignement spécialisé sont conservées jusqu'à ce que les personnes concernées atteignent l'âge de 30 ans. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 17 novembre 2023.
+
+Le ministre-président du Gouvernement flamand,
+
+J. JAMBON
+
+Le ministre flamand de l'Enseignement, des Sports, du Bien-Etre des animaux et du Vlaamse Rand,
+
+B. WEYTS
