@@ -1,0 +1,65 @@
+---
+title: "Décret modifiant le décret du 27 juin 1996 relatif aux déchets"
+identifier: "2012206551"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/08/2012206551/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2012-11-08
+published: 2012-11-20
+entry_into_force: 2012-11-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/08/2012206551/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 8 NOVEMBRE 2012. - Décret modifiant le décret du 27 juin 1996 relatif aux déchets
+
+Le Parlement wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. Dans le décret du 27 juin 1996 relatif aux déchets, il est ajouté un article 28bis rédigé comme suit :
+
+" Art. 28bis. Le Gouvernement détermine les activités pour lesquelles il prend en charge intégralement les coûts résultant de la collecte, du transport, de la transformation et de la destruction des animaux trouvés morts.
+
+Le Gouvernement peut établir les modalités d'un système d'abonnement pour organiser la contribution des exploitants agricoles qui exercent des activités relevant du secteur de l'élevage au financement de la transformation et de la destruction des animaux trouvés morts dans les exploitations agricoles et auquel peut souscrire l'exploitant agricole. "
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 8 novembre 2012.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Développement durable et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Ministre du Budget, des Finances, de l'Emploi, de la Formation et des Sports,
+
+A. ANTOINE
+
+Le Ministre de l'Economie, des P.M.E., du Commerce extérieur et des Technologies nouvelles,
+
+J.-C. MARCOURT
+
+Le Ministre des Pouvoirs locaux et de la Ville,
+
+P. FURLAN
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire et de la Mobilité,
+
+Ph. HENRY
+
+Le Ministre des Travaux publics, de l'Agriculture, de la Ruralité, de la Nature, de la Forêt et du Patrimoine,
+
+C. DI ANTONIO

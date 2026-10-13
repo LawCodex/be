@@ -1,0 +1,713 @@
+---
+title: "Décret relatif aux centres d'insertion socioprofessionnelle"
+identifier: "2013204704"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204704/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2013-07-10
+published: 2013-08-20
+entry_into_force: 2013-09-01
+last_amended: 2026-04-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204704/justel"
+department: "Service public de Wallonie"
+justel_note: "Consultation des versions antérieures à partir du 20-08-2013 et mise à jour au 17-04-2026"
+retrieved: 2026-10-12
+---
+
+# 10 JUILLET 2013. - Décret relatif aux centres d'insertion socioprofessionnelle
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Généralités
+
+#### Art. 1er
+
+Le présent décret règle, en application de l'article 138 de la Constitution, une matière visée à l'article 127, § 1er, de celle-ci.
+
+#### Art. 2
+
+Pour l'application du présent décret, on entend par :
+
+1° le "centre" : l'organisme agréé par le Gouvernement chargé d'organiser une ou plusieurs filières en vue de faciliter l'insertion socioprofessionnelle des stagiaires tels que définis [<sup>1</sup> aux articles 5 et 6 ]<sup>1</sup>;
+
+2° la "filière" : [<sup>1</sup> l'ensemble d'unités d'acquis d'apprentissage]<sup>1</sup> au sein d'un centre, sous la forme d'actions pédagogiques ou de formation, ayant pour objet l'acquisition de connaissances, de compétences et de comportements socioprofessionnels qui met en oeuvre un des deux cadres méthodologiques suivants :
+
+a) une démarche de formation et d'insertion qui comprend des cours, des exercices pratiques et, éventuellement, des stages en entreprise;
+
+b) [<sup>1</sup> une démarche " Entreprise de formation par le travail " qui consiste en une mise en situation réelle de travail par la production de biens et de services en lien avec un ou plusieurs métiers intégrant éventuellement des cours et des stages en entreprise;]<sup>1</sup>
+
+3° le "projet pédagogique" : le document élaboré par le centre déclinant les principes et orientations pédagogiques applicables à un centre et à chacune des filières qu'il organise;
+
+4° [<sup>1</sup> le " taux d'encadrement " : la proportion entre le nombre d'heures prestées par le personnel encadrant, à savoir les coordinateurs pédagogiques, les formateurs et le personnel chargé du suivi pédagogique ou de l'accompagnement social, et le nombre d'heures de formation prestées par les stagiaires;]<sup>1</sup>
+
+5° la "Commission" : la Commission consultative des centres d'insertion socioprofessionnelle, instituée au sein du Conseil économique et social de la Wallonie;
+
+6° le "Gouvernement" : le Gouvernement de la Région wallonne;
+
+7° l'"Office" : l'Office wallon de la Formation professionnelle et de l'Emploi tel que visé par le décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi;
+
+[<sup>1</sup> 8° les " heures de formation agréées " : le nombre d'heures fixé dans la décision d'agrément au regard de la durée du programme de la filière multiplié par le nombre de places prévues par filière au cours d'une année civile;]<sup>1</sup>
+
+[<sup>1</sup> 9° le " taux horaire " : le tarif unique, identique pour toutes les filières de formation, correspondant au subventionnement d'une heure de formation agréée et dont le montant est déterminé par le Gouvernement;]<sup>1</sup>
+
+[<sup>1</sup> 10° l' " Instance bassin E.F.E. " : l'une des Instances bassin Enseignement qualifiant - Formation - Emploi telles qu'instituées par l'article 3, points 2 à 10, par l'accord de coopération conclu le 20 mars 2014 entre la Communauté française, la Région wallonne et la Commission communautaire française relatif à la mise en oeuvre des bassins Enseignement qualifiant - Formation - Emploi. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 2, 004; En vigueur : 19-06-2016&gt;
+
+#### Art. 3
+
+Le Gouvernement peut, aux conditions du présent décret et dans les limites des crédits budgétaires, agréer des centres et les filières qu'ils organisent et leur octroyer des subventions.
+
+[<sup>1</sup> Sans préjudice de l'article 10, le Gouvernement fixe, selon les modalités qu'il détermine, pour chaque année civile, le nombre maximal d'heures de formation qu'il agrée et qu'il subventionne pour chaque territoire des Instances bassins E.F.E. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 3, 004; En vigueur : 19-06-2016&gt;
+
+## CHAPITRE II. - Finalité et missions générales des centres
+
+#### Art. 4
+
+Le centre a pour mission de favoriser, par une approche intégrée, l'insertion socioprofessionnelle du stagiaire visé aux articles 5 et 6, par l'acquisition de connaissances, de compétences et de comportements, nécessaires à son insertion directe ou indirecte sur le marché de l'emploi, à son émancipation sociale et à son développement personnel dans le respect du principe de non discrimination, de promotion de l'égalité des chances face à l'emploi et la formation et de la protection de la vie privée et des données à caractère personnel. Pour atteindre cette finalité, le centre organise une ou plusieurs filières agréées qui poursuivent un objectif prioritaire correspondant à l'une des catégories suivantes :
+
+1° l'orientation professionnelle : les actions pédagogiques structurées permettant au stagiaire d'envisager différentes alternatives qui favorisent son insertion socioprofessionnelle et de concevoir ou de confirmer son projet professionnel et personnel; [<sup>1</sup> ...]<sup>1</sup>
+
+2° la formation de base : la formation générale ou technique visant l'acquisition de connaissances élémentaires, de compétences générales et techniques et de comportements utiles à l'insertion socioprofessionnelle et qui ne sont pas directement liées à un métier déterminé; [<sup>1</sup> ...]<sup>1</sup>
+
+3° la formation professionnalisante : la formation visant l'acquisition de connaissances, de compétences et de comportements socioprofessionnels nécessaires à l'exercice d'un métier déterminé; [<sup>1</sup> ...]<sup>1</sup>
+
+Le centre développe des méthodes adaptées aux adultes, différenciées en fonction des stagiaires, favorisant leur participation et leur implication dans le processus de formation; il leur assure un accompagnement social et un suivi pédagogique pendant toute la durée de ce processus.
+
+[<sup>1</sup> Le Gouvernement détermine les modalités organisationnelles relatives aux filières, en ce compris celles du stage, du suivi pédagogique et de l'accompagnement social du stagiaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 4, 004; En vigueur : 19-06-2016&gt;
+
+## CHAPITRE III. - Le stagiaire
+
+#### Art. 5
+
+Pour l'application du présent décret, est considéré comme stagiaire :
+
+1° toute personne, non soumise à l'obligation scolaire, inscrite à l'Office en tant que demandeur d'emploi inoccupé qui dispose au maximum du certificat d'enseignement secondaire du deuxième degré ou d'un titre équivalent;
+
+2° toute personne, non soumise à l'obligation scolaire, inscrite à l'Office en tant que demandeur d'emploi inoccupé pendant au moins 18 mois au cours des 24 mois qui précèdent la date de son entrée en formation;
+
+3° toute personne, non soumise à l'obligation scolaire [<sup>1</sup> ...]<sup>1</sup> considérée comme médicalement apte à suivre un processus de formation et d'insertion socioprofessionnelle, et qui répond à une des conditions suivantes :
+
+a) [<sup>1</sup> avoir été enregistrée auprès de l'Agence pour une vie de qualité ou du " Dienstselle der Deutschsprachigen Gemeinschaft für Personen mit Behinderung " ou du " Fonds bruxellois pour les personnes handicapées " ou du " Vlaams fund voor sociale integratie van personen met een handicap ;]<sup>1</sup>
+
+b) [<sup>1</sup> avoir été victime d'un accident du travail et fournir une attestation démontrant qu'elle bénéficie d'une allocation calculée dans le cadre d'une incapacité de travail conformément à l'article 24 de la loi du 10 avril 1971 sur les accidents du travail et certifiant une incapacité d'au moins trente pour cent;]<sup>1</sup>
+
+c) [<sup>1</sup> avoir été victime d'une maladie professionnelle et fournir une attestation démontrant qu'il bénéficie d'une allocation calculée dans le cadre d'une incapacité de travail établie conformément à l'article 35 de la loi du 3 juin 1970 coordonnant les lois relatives à la prévention des maladies professionnelles et à la réparation des dommages résultant de celles-ci et certifiant une incapacité d'au moins trente pour cent;]<sup>1</sup>
+
+d) [<sup>1</sup> être reconnue avec au moins trente-trois pour cent d'inaptitude à titre permanent; ]<sup>1</sup>
+
+e) [<sup>1</sup> bénéficier d'indemnités d'incapacité de travail; ]<sup>1</sup>
+
+f) bénéficier d'une allocation de remplacement de revenu ou d'intégration en vertu de [<sup>2</sup> la loi du 27 février 1987 relative aux allocations aux personnes handicapées ]<sup>2</sup>.
+
+[<sup>1</sup> 3°bis toute personne, non soumise à l'obligation scolaire, inscrite à l'Office en tant que demandeur d'emploi inoccupé qui n'a pas exercé d'activité professionnelle pendant les trois années précédant son entrée en formation et qui n'a pas bénéficié d'allocations de chômage ou d'insertion au cours de cette même période;]<sup>1</sup>
+
+4° [<sup>1</sup> toute personne condamnée qui répond à l'une des conditions suivantes :
+
+a) exécuter sa peine privative de liberté selon un des modes visés par les articles 21, 22 et 24 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine;
+
+b) être incarcéré dans un établissement pénitentiaire et être susceptible, dans les trois ans, d'être libéré ou d'exécuter sa peine privative de liberté selon un des modes visés par les articles 21, 22 et 24 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine;
+
+c) être interné dans un établissement visé à l'article 3, 4°, de la loi du 5 mai 2014 relative à l'internement des personnes et bénéficier d'une permission de sortie ou d'un congé conformément aux articles 20 et 21 de la loi du 5 mai 2014 relative à l'internement des personnes;]<sup>1</sup>
+
+5° toute personne [<sup>1</sup> ...]<sup>1</sup> étrangère séjournant légalement sur le territoire belge, conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, y compris dans le cadre des recours prévus par les dispositions contenues dans le titre III de la loi précitée [<sup>1</sup> , non soumise à l'obligation scolaire ]<sup>1</sup> et qui dispose au maximum du certificat de l'enseignement secondaire du deuxième degré ou d'un titre équivalent;
+
+6° toute personne [<sup>1</sup> ...]<sup>1</sup> qui bénéficie de l'article 60, § 7, de la loi organique du 8 juillet 1976 des centres publics d'action sociale.
+
+[<sup>1</sup> 7° toute personne, inscrite à l'Office en tant que demandeur d'emploi inoccupé, bénéficiaire du revenu d'intégration tel que visé par l'article 10 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale ou d'une aide financière telle que visée par l'article 60, § 3, de la loi organique du 8 juillet 1976 des centres publics d'action sociale, pour autant que cette aide sociale soit équivalente au revenu d'intégration.]<sup>1</sup>
+
+Le Gouvernement peut adapter, après avis de la Commission, les catégories de public rentrant dans la notion de stagiaire en fonction des modifications législatives, décrétales ou réglementaires en lien direct avec l'alinéa 1er et de l'évolution du marché de l'emploi.
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 5, 004; En vigueur : 19-06-2016&gt;
+
+(2)&lt;DRW 2026-03-26/05, art. 36, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 6
+
+§ 1er. Le centre peut prendre en charge des personnes, non soumises à l'obligation scolaire, inscrites à l'Office comme demandeurs d'emploi inoccupés, qui ne répondent pas aux conditions visées à l'article 5 et qui disposent au maximum du certificat d'enseignement secondaire supérieur ou d'un titre équivalent pour autant que :
+
+1° lorsque le siège d'activité du centre est situé sur le territoire [<sup>1</sup> d'une instance bassin E.F.E. dans laquelle]<sup>1</sup> le taux de la demande d'emploi est supérieur d'au moins 15 pour cent au taux moyen de la demande d'emploi en Région wallonne de langue française, le nombre de ces stagiaires ne dépasse pas 20 pour cent du nombre total de stagiaires entrant annuellement en formation au sein de chaque filière;
+
+2° lorsque le siège d'activité du centre est situé sur le territoire [<sup>1</sup> d'une instance bassin E.F.E., dans laquelle]<sup>1</sup> le taux de la demande d'emploi se situe entre moins de 15 pour cent et plus de 15 pour cent du taux moyen de la demande d'emploi en Région wallonne de langue française, le nombre de ces stagiaires ne dépasse pas 20 pour cent du nombre total de stagiaires entrant annuellement en formation au sein de chaque filière; le Gouvernement peut, par décision motivée et après avis conforme [<sup>1</sup> de l'Instance bassin E.F.E.]<sup>1</sup>, prévoir des taux de dérogation supérieurs à 20 pour cent sans pour autant que ceux-ci ne dépassent 50 pour cent;
+
+3° lorsque le siège d'activité du centre est situé sur le territoire [<sup>1</sup> d'une instance bassin E.F.E., dans laquelle]<sup>1</sup> le taux de la demande d'emploi est inférieur d'au moins 15 pour cent au taux moyen de la demande d'emploi en Région wallonne de langue française, le nombre de ces stagiaires ne dépasse pas 40 pour cent du nombre total des stagiaires entrant annuellement en formation au sein de chaque filière; le Gouvernement peut, par décision motivée et après avis conforme [<sup>1</sup> de l'Instance bassin E.F.E.]<sup>1</sup>, prévoir des taux de dérogation supérieurs à 40 pour cent sans pour autant que ceux-ci ne dépassent 50 pour cent.
+
+§ 2. Les taux de référence mentionnés au paragraphe 1er sont calculés à la date du 30 juin de l'année qui précède celle pour laquelle ils sont applicables et sont établis pour une durée de deux ans.
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 6, 004; En vigueur : 19-06-2016&gt;
+
+#### Art. 7
+
+La situation du stagiaire est appréciée [<sup>1</sup> le jour]<sup>1</sup> de son entrée en formation.
+
+Le Gouvernement détermine les documents et attestations nécessaires à l'appréciation des conditions visées aux articles 5 et 6 [<sup>1</sup> ainsi que les délais de vérification de la situation visée à l'alinéa 1er]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 7, 004; En vigueur : 19-06-2016&gt;
+
+## CHAPITRE IV. - Agrément des centres et des filières
+
+### Section 1re. - Agrément et renouvellement d'agrément
+
+#### Art. 8
+
+Le Gouvernement [<sup>3</sup> peut agréer et renouveler]<sup>3</sup> l'agrément du centre qui remplit l'ensemble des conditions suivantes :
+
+1° être constitué sous la forme d'une association sans but lucratif [<sup>2</sup> conformément à l'article 1:2 du Code des sociétés et des associations]<sup>2</sup> ou être un centre public d'action sociale ou une association de centres publics d'action sociale au sens de la loi du 8 juillet 1976 organique des centres publics d'action sociale;
+
+2° élaborer un projet pédagogique qui précise, notamment, les éléments suivants :
+
+a) les modalités d'accueil et, au besoin, de réorientation du candidat stagiaire;
+
+b) les modalités relatives à l'établissement du contrat pédagogique et à l'élaboration du programme individuel de formation sur la base de l'identification des besoins du stagiaire;
+
+c) le suivi pédagogique du stagiaire et l'accompagnement social;
+
+d) l'évaluation formative et participative et la reconnaissance des connaissances et compétences acquises par le stagiaire;
+
+e) le partenariat avec d'autres opérateurs de formation, d'insertion ou de soutien psycho-médico-social permettant au stagiaire d'atteindre son objectif socioprofessionnel;
+
+f) les modalités de diffusion du contenu de l'offre de formation et, notamment, sa finalité, ses objectifs, son public et les conditions d'accès;
+
+g) les modalités relatives à l'établissement d'un projet post-formation du stagiaire déterminant les actions nécessaires à l'atteinte des objectifs définis dans le programme individuel du stagiaire;
+
+3° organiser une ou plusieurs filières qui répondent aux conditions énoncées à l'article 9;
+
+4° présenter un descriptif des moyens et ressources matériels, humains et financiers prévus pour le fonctionnement du centre permettant d'assurer la réalisation du projet pédagogique, la viabilité du centre et la faisabilité des filières;
+
+5° lorsqu'il s'agit de la première demande d'agrément, réaliser un plan prévisionnel des budgets relatifs au développement de l'activité du centre pour les deux premières années d'activités;
+
+6° [<sup>1</sup> s'insérer dans le dispositif de collaboration avec les partenaires de l'accompagnement, tel que prévu au chapitre 4, section 2, du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi et s'engager à conclure et mettre en oeuvre une convention de collaboration avec l'Office au sens du chapitre 4, section 2, du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi.]<sup>1</sup>
+
+Le renouvellement de l'agrément du centre [<sup>3</sup> peut être]<sup>3</sup> octroyé au regard de la mise en oeuvre du projet pédagogique, du respect des règles et obligations et de la qualité en matière de gestion administrative, financière et des ressources humaines sur la période pour laquelle le centre a été agréé précédemment.
+
+Le Gouvernement peut préciser les conditions d'agrément ou de renouvellement d'agrément du centre, en ce compris les éléments constitutifs du projet pédagogique.
+
+[<sup>3</sup> Les conditions d'agrément, de renouvellement d'agrément et d'octroi d'agrément sont prises par le Gouvernement sur la base d'un rapport émis par l'Administration et des disponibilités budgétaires.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2021-11-12/13, art. 48, 008; En vigueur : 01-09-2022&gt;
+
+(2)&lt;DRW 2023-04-06/05, art. 27, 011; En vigueur : 21-10-2023&gt;
+
+(3)&lt;DRW 2025-12-19/66, art. 2, 013; En vigueur : 01-01-2026&gt;
+
+#### Art. 9
+
+Simultanément à l'agrément du centre ou ultérieurement au cours de la période d'agrément du centre, [<sup>2</sup> dans la limite des budgets disponibles]<sup>2</sup>, le Gouvernement peut agréer ou renouveler l'agrément d'une ou plusieurs filières pour autant qu'elles remplissent l'ensemble des conditions suivantes :
+
+1° répondre à des besoins de formation insuffisamment rencontrés en tenant compte [<sup>1</sup> de l'analyse existante de l'offre de formation professionnelle et des besoins du marché de l'emploi établie par l'Instance bassin E.F.E.;]<sup>1</sup>
+
+2° s'inscrire dans le projet pédagogique du centre;
+
+3° s'insérer dans l'une des trois catégories de filières visées à l'article 4 et en définir le cadre méthodologique;
+
+4° définir les objectifs de la filière en termes de connaissances, de compétences et de comportements socioprofessionnels au regard des référentiels visés à l'article 15, 7° et 8°;
+
+5° présenter le programme de la filière définissant son contenu, son organisation, sa durée et le recours éventuel à des stages en entreprise;
+
+6° spécifier le public concerné par la filière et, au besoin, l'application de l'article 6.
+
+Le renouvellement d'agrément des filières est octroyé au regard de la mise en oeuvre du projet pédagogique, de l'analyse de la qualité pédagogique des formations et de l'évaluation de leurs résultats.
+
+Le Gouvernement précise les conditions d'agrément et de renouvellement d'agrément des filières.
+
+Si au cours de la période d'agrément ou de renouvellement d'agrément de la filière, des modifications de la décision d'agrément sont sollicitées par le centre, [<sup>1</sup> en ce compris sur le nombre d'heures de formation agréées, ce dernier introduit une demande de modification de la décision d'agrément conformément à la procédure prévue à l'article 11.]<sup>1</sup> Le Gouvernement peut prévoir une procédure simplifiée ou une dispense de procédure pour les modifications qu'il définit.
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 8, 004; En vigueur : 19-06-2016&gt;
+
+(2)&lt;DRW 2025-12-19/66, art. 3, 013; En vigueur : 01-01-2026&gt;
+
+#### Art. 10
+
+L'agrément initial du centre, en ce compris des filières qu'il organise, est accordé pour une durée de deux ans. L'agrément peut être renouvelé [<sup>2</sup> pour une durée de trois ans]<sup>2</sup>. [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>2</sup> En cas d'agrément de nouvelles filières au cours de la durée du renouvellement d'agrément du centre, l'agrément est accordé pour une durée de trois ans sans pouvoir excéder celle de la durée d'agrément du centre]<sup>2</sup>.
+
+[<sup>1</sup> L'agrément initial d'un centre ne peut excéder 12.000 heures de formation agréées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 9, 004; En vigueur : 19-06-2016&gt;
+
+(2)&lt;DRW 2025-12-19/66, art. 4, 013; En vigueur : 01-01-2026&gt;
+
+#### Art. 11
+
+Les demandes d'agrément et de renouvellement d'agrément des centres, en ce compris des filières qu'ils organisent, sont introduites auprès du service que le Gouvernement désigne et selon les modalités qu'il détermine.
+
+L'avis [<sup>1</sup> de l'Instance bassin E.F.E. territorialement compétente]<sup>1</sup> est requis pour l'agrément de chaque filière et porte sur l'opportunité d'agréer ou de renouveler l'agrément de celle-ci au regard [<sup>1</sup> de l'analyse existante de l'offre de formation professionnelle et des besoins du marché de l'emploi visée]<sup>1</sup> à l'article 9, alinéa 1er, 1°.
+
+Le Gouvernement octroie ou refuse l'agrément et le renouvellement d'agrément des centres et des filières qu'ils organisent.
+
+La décision de renouvellement d'agrément du centre n'entraîne pas nécessairement le renouvellement de chacune de ses filières et peut prévoir des conditions d'agrément autres que celles de l'agrément octroyé précédemment.
+
+Le Gouvernement précise les documents, les délais, les modalités et les procédures relatifs à l'agrément et au renouvellement d'agrément des centres et des filières. [<sup>1</sup> Il détermine la règle d'attribution du nombre d'heures de formation agréées par centre en cas de renouvellement d'agrément.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 10, 004; En vigueur : 19-06-2016&gt;
+
+#### Art. 12
+
+Le Gouvernement, après avis de la Commission, peut suspendre ou retirer l'agrément du centre lorsqu'il ne respecte pas les dispositions prévues par ou en vertu du présent décret. Le retrait ou la suspension d'agrément du centre entraîne le retrait ou la suspension d'agrément des filières qu'il organise sous réserve de l'application de l'article 13.
+
+Le Gouvernement, après avoir sollicité l'avis de la Commission, peut suspendre ou retirer l'agrément de filières lorsque la filière ne respecte pas les dispositions prévues par ou en vertu du présent décret.
+
+En cas de suspension d'agrément du centre ou d'une filière, la décision précise la date pour laquelle le centre doit se mettre en ordre par rapport aux conditions et obligations qu'il n'a pas respectées, ainsi que les modalités de l'éventuelle suspension du subventionnement telle que prévue à l'article 18, paragraphe 2, alinéa 1er, 1°.
+
+En cas de retrait d'agrément du centre ou d'une filière, le Gouvernement peut décider d'appliquer les sanctions visées à l'article 18, paragraphe 2.
+
+Le Gouvernement fixe les modalités et procédures relatives à la suspension et au retrait d'agrément du centre et de la filière.
+
+#### Art. 12bis
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 37, 014; En vigueur : 01-04-2026&gt;
+
+### Section 2. - Transfert de filière
+
+#### Art. 13
+
+[<sup>1</sup> Le Gouvernement peut autoriser le transfert d'une ou plusieurs filières de formation d'un centre, appelé le centre cédant, vers un autre centre, appelé le centre repreneur, qui accepte de reprendre la ou les filières concernées.
+
+Le transfert de filières peut être autorisé dans les hypothèses suivantes :
+
+1° en cas de dissolution ou de liquidation du centre cédant ;
+
+2° en cas de décision volontaire du centre cédant de ne plus organiser une ou plusieurs filières de formation ;
+
+3° en cas de décision de retrait d'agrément ou de décision de non-renouvellement d'agrément du centre cédant ou d'une ou plusieurs filières qu'il organise ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-03-26/05, art. 38, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 13bis
+
+[<sup>1</sup> Le centre repreneur est désigné en fonction, d'une part, de la réponse qu'il apporte aux besoins de formation insuffisamment rencontrés au regard de l'analyse existante de l'offre de formation professionnelle et des besoins du marché de l'emploi visée à l'article 9, alinéa 1er, 1°, et, d'autre part, de sa capacité de gestion administrative, financière et pédagogique, et s'il y a lieu, dans une perspective de transfert du personnel.
+
+Le transfert de personnel s'effectue dans le cadre et selon les conditions de l'agrément du centre repreneur.
+
+La décision de transfert du personnel précise les éléments de la décision d'agrément de la filière qui lui sont applicables.
+
+L'autorisation de transfert du personnel de filière ne peut pas entraîner l'augmentation du subventionnement prévu à l'article 17 tel qu'il avait été octroyé au centre cédant.
+
+L'autorisation de transfert du personnel de filière ne constitue pas une demande d'agrément d'une nouvelle filière de formation telle que prévue à l'article 9 du décret du 10 juillet 2013 précité.
+
+L'entité juridique bénéficiaire de l'agrément transféré respecte l'ensemble des conditions et obligations d'agrément prévues par ou en vertu du présent décret.
+
+Le Gouvernement fixe les conditions, modalités et procédures relatives aux demandes de transfert du personnel de la ou des filières concernées ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-03-26/05, art. 39, 014; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE V. - Obligations du centre
+
+#### Art. 14
+
+Le centre est tenu de :
+
+1° respecter les conditions prévues par ou en vertu du présent décret et de réaliser le projet pédagogique;
+
+2° [<sup>1</sup> accueillir au moins dix stagiaires et de réaliser, à partir de la troisième année d'agrément, au minimum 12.000 heures de formation par année civile; ]<sup>1</sup>
+
+3° respecter le taux d'encadrement déterminé par le Gouvernement en fonction, notamment, de la catégorie de la filière et de son cadre méthodologique;
+
+4° respecter le principe de gratuité de la formation pour les stagiaires visés aux articles 5 et 6, conformément à l'article 5 du décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi;
+
+5° respecter les obligations prévues par ou en vertu de l'arrêté du Gouvernement wallon du 8 février 2002 relatif à l'octroi de certains avantages aux stagiaires qui reçoivent une formation professionnelle;
+
+6° établir un rapport annuel d'activités du centre dont le contenu minimum et les modalités sont fixés par le Gouvernement;
+
+7° assurer les fonctions de direction, d'administration et d'accompagnement social du centre;
+
+8° distinguer dans sa comptabilité et, s'il y a lieu, au regard des différentes sources de subventionnement, les dépenses et les recettes réalisées en les distinguant en fonction du cadre méthodologique des filières; dans le cas d'un centre public d'action sociale ou d'une association de centres publics d'action sociale, le centre distingue également les dépenses et les recettes liées à ses activités agréées par le présent décret;
+
+9° pour les démarches "Entreprise de formation par le travail", établir un plan d'affectation des résultats d'exploitation destinés à la réalisation des missions prévues par le décret, selon les modalités déterminées par le Gouvernement;
+
+10° respecter les lois, décrets et règlements qui leur sont directement applicables, notamment la [<sup>1</sup> loi du 15 juin 2006 ]<sup>1</sup> relative aux marchés publics et à certains marchés de travaux, de fournitures et de services.
+
+[<sup>1</sup> 11° proposer des formations dont la durée du programme ne peut excéder 2.100 heures, pour chaque filière.]<sup>1</sup>
+
+Le Gouvernement peut préciser les obligations prévues à l'alinéa 1er.
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 13, 004; En vigueur : 19-06-2016&gt;
+
+#### Art. 14bis.
+
+[<sup>1</sup> Dans le cadre de son intervention auprès d'un chercheur d'emploi, chaque centre d'insertion socioprofessionnelle encode l'ensemble des données liées à son accompagnement dans le dossier unique du chercheur d'emploi. Le dossier unique du chercheur d'emploi est visé à l'article 1erbis, 16°, du décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi.
+
+L'Office traite les données collectées dans le cadre du présent décret conformément à l'article 4/1 du décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi.
+
+Les échanges de données entre le FOREm et le centre se font conformément à l'article 17, § 2, du décret du 12 novembre 2021 relatif à l'accompagnement orienté coaching et solutions des chercheurs d'emploi.
+
+Le Gouvernement peut préciser les catégories de données visées par les échanges. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-03-26/05, art. 41, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 14ter.
+
+[<sup>1</sup> Par dérogation aux articles 12, alinéa 2, et 14, le Gouvernement retire l'agrément des filières présentant un taux d'insertion à l'emploi et en formation qualifiante nul sur les années N-2 et N-3.
+
+Un centre peut demander une dérogation pour les filières dont les actions pédagogiques ou de formation sont dispensées en milieu carcéral ou visent l'alphabétisation ou le français langue étrangère, ou relèvent de l'orientation.
+
+Le Gouvernement définit les modalités de mise en oeuvre du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/66, art. 7, 013; En vigueur : 01-01-2026&gt;
+
+#### Art. 14quater.
+
+[<sup>1</sup> Par dérogation aux articles 12, alinéa 2, et 14, les filières agréées présentant un taux d'insertion à l'emploi ou en formation qualifiante nul pour l'année 2024 ne pourront plus accueillir de nouveaux stagiaires à partir du 1er mars 2026.
+
+Un centre peut demander une dérogation pour les filières dont les actions pédagogiques ou de formation sont dispensées en milieu carcéral ou visent l'alphabétisation ou le français langue étrangère, ou relèvent de l'orientation.
+
+Le Gouvernement définit les modalités de mise en oeuvre du présent article.
+
+Ne sont pas prises en compte les centres et les filières agréés pour la première fois en 2024.
+
+Pour l'application de l'article 17, § 5, les heures relatives aux filières visées à l'alinéa 1er ne sont pas prises en compte dans le calcul de la subvention.
+
+Par dérogation à l'article 9, alinéa 4, un centre ne peut solliciter de modification de l'agrément pour les filières visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/66, art. 8, 013; En vigueur : 01-01-2026&gt;
+
+#### Art. 14quinquies.
+
+[<sup>1</sup> Sans préjudice des dispositions applicables en matière de dépenses éligibles, le Gouvernement arrête les modalités selon lesquelles le coût des préavis donnés par le Centre à des travailleurs en conséquence des mesures visées aux articles 14 ter, 14 quater et 17, § 5, peut être pris en charge, dans la limite des crédits budgétaires disponibles. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/66, art. 9, 013; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE VI. - Coordination de l'action des centres
+
+#### Art. 15
+
+Le Gouvernement peut désigner une association sans but lucratif, suite à une procédure de sélection qu'il organise, qui remplit les missions suivantes :
+
+1° coordonner et soutenir le développement pédagogique et la gestion administrative des centres;
+
+2° représenter le secteur au niveau des instances régionales et communautaires compétentes en matière de formation et être leur interlocuteur représentatif auprès du Gouvernement;
+
+3° renforcer la coopération des centres au niveau sous-régional dans un objectif de cohérence de l'action locale en faveur des stagiaires;
+
+4° [<sup>1</sup> assurer la diffusion de l'information relative à l'offre de services des centres d'insertion socioprofessionnelle auprès des conseillers du dispositif Carrefours et Cités des Métiers]<sup>1</sup>;
+
+5° coordonner l'offre et les besoins de formation du personnel des centres et du personnel affecté dans le cadre du dispositif "Carrefour Emploi Formation Orientation";
+
+6° analyser l'évolution de l'offre de formation des centres et du public concerné et en informer le Gouvernement;
+
+7° participer à l'élaboration des référentiels de formation dans le cadre des travaux menés par le Service francophone des métiers et des qualifications en application de l'accord de coopération conclu le 27 mars 2009 entre la Communauté française, la Région wallonne et la Commission communautaire française concernant la création du Service francophone des Métiers et des Qualifications, en abrégé : "S.F.M.Q." et veiller à leur implémentation par les centres;
+
+8° coordonner et soutenir l'élaboration des référentiels de formation qui n'entrent pas dans le champ de compétences du S.F.M.Q. et la conception des outils méthodologiques ou pédagogiques afférents aux formations.
+
+Les statuts de l'association visée à l'alinéa 1er doivent être conformes aux missions précitées.
+
+L'association doit garantir, dans la composition de son assemblée générale, une représentation suffisante des centres au niveau de leur répartition géographique, de leurs cadres méthodologiques et des catégories de filières qu'ils organisent.
+
+Le Gouvernement confie à l'association les missions visées à l'alinéa 1er, et peut préciser celles-ci au regard de l'évolution des dispositions décrétales et réglementaires applicables aux centres et du contexte opérationnel dans lequel les centres s'inscrivent.
+
+L'association visée à l'alinéa 1er reçoit, annuellement et dans les limites des crédits budgétaires disponibles, un subventionnement pour lui permettre de réaliser ses missions. Le Gouvernement détermine les modalités relatives à l'octroi de cette subvention.
+
+L'association remet annuellement un rapport d'activités au Gouvernement.
+
+----------
+
+(1)&lt;DRW 2025-12-19/66, art. 5, 013; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE VII. - De la Commission des centres d'insertion socioprofessionnelle
+
+#### Art. 16
+
+§ 1er. Il est institué au sein du Conseil économique et social de la Wallonie, une Commission consultative qui est chargée :
+
+1° de remettre un avis sur la modification des catégories de public en application de l'article 5, alinéa 2;
+
+2° [<sup>3</sup> de remettre un avis motivé sur les demandes d'agrément ou de renouvellement d'agrément d'un centre ou d'une filière lorsque son avis est sollicité]<sup>3</sup>;
+
+3° de remettre un avis motivé sur la suspension ou le retrait d'agrément d'un centre ou d'une filière conformément à l'article 12;
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° de se réunir à la demande d'un de ses membres qui aurait pris connaissance de faits qui relèvent des infractions ou des manquements aux dispositions du décret, afin d'en analyser la situation et d'informer le Gouvernement des faits de la cause.
+
+La Commission remet les avis visés à l'alinéa 1er, 2° à 5°, sur la base de l'avis [<sup>1</sup> de l'Instance bassin E.F.E. ]<sup>1</sup> lorsqu'il est requis, du rapport réalisé par le service chargé de l'instruction des dossiers et désigné par le Gouvernement, et des besoins identifiés au regard [<sup>1</sup> de l'analyse existante de l'offre de formation professionnelle et des besoins du marché de l'emploi visée ]<sup>1</sup> à l'article 9, alinéa 1er, 1°.
+
+§ 2. Le service désigné par le Gouvernement est chargé :
+
+1° d'assurer les missions relatives à l'analyse des dossiers soumis à la Commission et à leur communication;
+
+2° de remettre annuellement, au Gouvernement, au Conseil économique et social de Wallonie, en ce compris à la Commission visée au paragraphe 1er, une synthèse portant sur les rapports annuels d'activités des centres [<sup>3</sup> visés à l'article 14, 6°]<sup>3</sup>, selon les modalités fixées par le Gouvernement.
+
+§ 3. Le Conseil économique et social de la Wallonie est chargé :
+
+1° d'assurer le secrétariat de la Commission;
+
+2° de remettre au Gouvernement tous les trois ans un rapport sur l'exécution du présent décret sur la base de la synthèse visée au paragraphe 2, 2°;
+
+3° de remettre, d'initiative ou sur demande du Gouvernement, des avis motivés ou des recommandations sur l'exécution du décret.
+
+§ 4. Sont désignés avec voix délibérative au sein de la Commission :
+
+1° deux représentants effectifs et deux représentants suppléants des organisations représentatives des employeurs;
+
+2° deux représentants effectifs et deux représentants suppléants des organisations représentatives des travailleurs;
+
+3° deux représentants effectifs et deux représentants suppléants de l'Office dont :
+
+a) un représentant effectif et un représentant suppléant de la Direction générale compétente en matière d'emploi;
+
+b) un représentant effectif et un représentant suppléant de la Direction générale compétente pour le recours à l'intervention de tiers et l'information et la connaissance du marché du travail;
+
+4° un représentant effectif et un représentant suppléant de l'Agence wallonne pour l'intégration des personnes handicapées;
+
+5° un représentant effectif et un représentant suppléant de l'Union des Villes, Communes et Provinces de la Région wallonne, Fédération des Centres publics d'action sociale;
+
+6° un représentant effectif et un représentant suppléant de l'association visée à l'article 15.
+
+En outre, sont désignés pour assister avec voix consultative à la Commission :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+4° un représentant effectif et un représentant suppléant du service visé à l'article 16, paragraphe 2;
+
+5° deux membres effectifs et deux membres suppléants représentant les centres, particulièrement en ce qui concerne les cadres méthodologiques et les catégories de filières, désignés sur proposition de l'association visée à l'article 15.
+
+[<sup>2</sup> En outre, peuvent être invités à assister à la Commission les membres du Gouvernement, ou leurs délégués, afin d'éclairer cette dernière sur une question qui lui est soumise.]<sup>2</sup>
+
+La Commission se réunit au minimum quatre fois par an.
+
+Les membres suppléants ne peuvent siéger qu'en l'absence des membres effectifs.
+
+Le Gouvernement peut adapter la composition et préciser les missions de la Commission au regard de l'évolution des dispositions décrétales et réglementaires applicables aux centres ou du contexte opérationnel dans lequel les centres s'inscrivent.
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 14, 004; En vigueur : 19-06-2016&gt;
+
+(2)&lt;DRW 2018-07-17/03, art. 23, 005; En vigueur : 15-10-2018&gt;
+
+(3)&lt;DRW 2026-03-26/05, art. 40, 014; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE VIII. - Financement
+
+#### Art. 17
+
+§ 1er. [<sup>1</sup> Le Gouvernement octroie annuellement au centre agréé qui respecte les conditions et obligations visées par ou en vertu du présent décret un subventionnement calculé en fonction du nombre d'heures de formation agréées multiplié par le taux horaire.]<sup>1</sup>
+
+§ 2. Le subventionnement [<sup>1</sup> visé au paragraphe 1er ]<sup>1</sup> peut être liquidé en tant que subventionnement sous la forme :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° d'une subvention visant à couvrir les frais de fonctionnement, [<sup>1</sup> les frais d'investissement]<sup>1</sup> et les charges salariales non encore couvertes par une autre subvention ou par l'aide visée au 1°;
+
+[<sup>1</sup> Le Gouvernement détermine le mode de répartition des subventions visées à l'alinéa 1er.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> La subvention visée au paragraphe 2, alinéa 1er, 2°, est liquidée selon les modalités suivantes :
+
+1° une première tranche qui correspond à une avance, représentant soixante-cinq pour cent du montant annuel qui a été octroyé lors de l'exercice précédent est versée dans le courant du premier trimestre [<sup>4</sup>[<sup>5</sup> ...]<sup>5</sup>-]<sup>4</sup>;
+
+2° une deuxième tranche, correspondant à quatre-vingt pour cent du montant annuel total de la subvention octroyée pour l'exercice en cours, diminuée du montant de la première tranche, est versée dans le courant du deuxième trimestre [<sup>4</sup>[<sup>5</sup> ...]<sup>5</sup>]<sup>4</sup>;
+
+3° le solde de vingt pour cent du montant annuel total de la subvention octroyée pour l'exercice en cours est versé dans le courant du premier semestre de l'année qui suit celle pour laquelle il est dû sur la base d'une déclaration de créance, d'un rapport d'activités, d'un décompte récapitulatif des frais à charge de la subvention et des pièces justificatives. [<sup>6</sup> ...]<sup>6</sup>. Le Gouvernement peut déterminer les modalités de versement du solde. ]<sup>1</sup>
+
+§ 4. Le Gouvernement précise la procédure relative à l'octroi et à la liquidation du subventionnement en ce compris les conditions d'éligibilité des dépenses. En ce qui concerne la liquidation [<sup>1</sup> du subventionnement visé au paragraphe 1er ]<sup>1</sup>, elle s'effectue sur la base des heures effectivement prestées par les stagiaires et des heures assimilées, dans les limites de la décision d'agrément. Le Gouvernement précise les heures assimilées aux heures effectivement prestées.
+
+§ 5. [<sup>7</sup> Le subventionnement est proportionnel au nombre d'heures de formation effectivement réalisées, calculé toutes filières confondues, sur une période de deux ans selon les modalités déterminées par le Gouvernement.]<sup>7</sup>
+
+§ 6. [<sup>6</sup> ...]<sup>6</sup> [<sup>7</sup> Le Gouvernement peut indexer le taux horaire en janvier de chaque année, comme à l'occasion de chaque ajustement budgétaire. L'indexation de ce taux horaire est réalisée selon le même mécanisme que celui appliqué à la catégorie de dépenses dont dépendent les subventions aux centres dans le budget wallon.
+
+Par dérogation à l'alinéa 1er, le taux horaire n'est pas indexé pour l'année 2026.]<sup>7</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/18, art. 15, 004; En vigueur : 19-06-2016&gt;
+
+(2)&lt;DRW 2021-06-10/15, art. 63, 007; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DRW 2022-12-21/67, art. 169, 009; En vigueur : 01-01-2023&gt;
+
+(4)&lt;DRW 2023-12-13/13, art. 154, 010; En vigueur : 01-01-2024&gt;
+
+(5)&lt;DRW 2024-12-18/09, art. 114, 012; En vigueur : 01-01-2025&gt;
+
+(6)&lt;DRW 2024-12-18/09, art. 160, 012; En vigueur : 01-01-2025&gt;
+
+(7)&lt;DRW 2025-12-19/66, art. 6, 013; En vigueur : 01-01-2026&gt;
+
+#### Art. 17bis
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 42, 014; En vigueur : 01-04-2026&gt;
+
+## CHAPITRE IX. - Du contrôle
+
+#### Art. 18
+
+§ 1er. [<sup>1</sup> Le contrôle de l'application du présent décret et de ses mesures d'exécution s'exerce conformément aux dispositions du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la reconversion et au recyclage professionnels ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations.]<sup>1</sup>
+
+§ 2. En cas de non-respect des obligations visées par ou en vertu du présent décret, de dissolution d'un centre et de suspension et de retrait d'agrément d'un centre, le Gouvernement peut, selon les modalités qu'il détermine :
+
+1° suspendre, tout ou partie, du subventionnement pendant un délai fixé permettant au centre de se conformer aux obligations non rencontrées;
+
+2° exiger le remboursement de tout ou partie du subventionnement, ainsi que les frais y afférant, proportionnellement aux infractions constatées;
+
+3° retirer ou mettre fin à la décision d'octroi de subventionnement.
+
+Le Gouvernement peut également renoncer, pour tout ou partie, au remboursement du subventionnement lorsque le coût de la récupération de celui-ci risque d'être supérieur à son montant ou en cas de circonstances liées à un cas de force majeure ou d'imprévision.
+
+[<sup>1</sup> § 3. Les opérateurs de formation agréés qui font l'objet du contrôle visés au paragraphe 1er peuvent être contrôlés selon une méthode particulière déterminée par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/20, art. 96, 006; En vigueur : 01-07-2019&gt;
+
+## CHAPITRE X. - Dispositions modificatives, transitoires et abrogatoires
+
+### Section 1re. Dispositions modificatives
+
+#### Art. 19
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 42, 014; En vigueur : 01-04-2026&gt;
+
+### Section 2.
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 42, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 20
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 42, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 21
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 42, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 22
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 42, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 23
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 42, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 24
+
+&lt;Abrogé par DRW 2026-03-26/05, art. 10, 014; En vigueur : 01-04-2026&gt;
+
+#### Art. 24bis
+
+[<sup>1</sup> § 1er. Le centre agréé bénéficie des subventions suivantes :
+
+1° lors de l'agrément initial ou de l'agrément d'une nouvelle filière de formation, d'une subvention, d'un montant forfaitaire de 12.500 euros, destinée à couvrir les frais de fonctionnement, de personnel et d'équipement;
+
+2° lors des deux premières années d'agrément, d'une subvention annuelle calculée, par heure de formation et par stagiaire, au prorata du nombre d'heures de formation prestées et couvrant, au minimum, les coûts salariaux d'un équivalent temps plein et demi pour les fonctions suivantes :
+
+a. coordinateur pédagogique ou de projets;
+
+b. formateur;
+
+c. assistant administratif ou financier;
+
+3° à partir de la troisième année d'agrément, d'une subvention annuelle calculée pour un nombre d'heures de formation, garanti pendant trois ans, à condition que le nombre d'heures de formation prestées par an soit au moins égal à 90 % du nombre d'heures pour lequel l'organisme a reçu son agrément.
+
+Les subventions visées aux points 2 et 3 de l'alinéa 1er peuvent être octroyées sous forme :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° d'une subvention visant à couvrir les charges salariales et les frais de fonctionnement non encore couverts par une autre subvention ou par l'aide visée au point 1°, dans la limite des normes d'encadrement et de financement définies par l'arrêté du Gouvernement wallon du 21 décembre 2006 portant exécution du décret du 1er avril 2004 relatif à l'agrément et au subventionnement des organismes d'insertion socioprofessionnelle et des entreprises de formation par le travail.
+
+Si la condition prévue en ce qui concerne la subvention visée au point 3° de l'alinéa 1er n'est pas remplie, et pour autant que la baisse du nombre d'heures de formation ne soit pas imputable au passage anticipé de stagiaires en formation qualifiante ou dans l'emploi, la subvention est, selon les modalités déterminées par l'arrêté du Gouvernement wallon du 21 décembre 2006 précité, revue à la baisse pour le reste de la durée d'agrément.
+
+§ 2. Le centre déjà agréé lors de l'entrée en vigueur du présent décret peut, après avis de la Commission, bénéficier des subventions telles que prévues au § 1er, alinéa 1er, 3°.
+
+§ 3. L'arrêté du Gouvernement wallon du 21 décembre 2006 précité détermine le montant des subventions visées au § 1er, alinéa 1er, 2° et 3°, en tenant compte des normes de financement liées à la typologie des actions, des secteurs professionnels et des stagiaires concernés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2013-12-11/12, art. 162, 002; En vigueur : 01-01-2014&gt;
+
+&lt;DRW 2014-12-11/17, art. 166, 003; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DRW 2021-06-10/15, art. 64, 007; En vigueur : 01-01-2022&gt;
+
+### Section 3. - Dispositions abrogatoires et finales
+
+#### Art. 25
+
+Le décret du 1er avril 2004 relatif à l'agrément et au subventionnement des organismes d'insertion socioprofessionnelle et des entreprises de formation par le travail, modifié par les décrets du 6 novembre 2008 et du 22 novembre 2007, est abrogé.
+
+#### Art. 26
+
+Le présent décret entre en vigueur le 1er janvier 2014, à l'exception des articles 20, 21, 23 et 24 qui entrent en vigueur le 1er septembre 2013 et de l'article 17 qui entre en vigueur le 1er janvier 2015. Le Gouvernement peut prévoir une date d'entrée en vigueur antérieure au 1er janvier 2014 et au 1er janvier 2015.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 10 juillet 2013.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Développement durable et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Ministre du Budget, des Finances, de l'Emploi, de la Formation et des Sports,
+
+A. ANTOINE
+
+Le Ministre de l'Economie, des P.M.E., du Commerce extérieur et des Technologies nouvelles,
+
+J.-Cl. MARCOURT
+
+Le Ministre des Pouvoirs locaux et de la Ville,
+
+P. FURLAN
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire et de la Mobilité,
+
+Ph. HENRY
+
+Le Ministre des Travaux publics, de l'Agriculture, de la Ruralité, de la Nature, de la Forêt et du Patrimoine,
+
+C. DI ANTONIO

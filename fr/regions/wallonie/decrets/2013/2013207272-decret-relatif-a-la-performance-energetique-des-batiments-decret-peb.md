@@ -1,0 +1,2361 @@
+---
+title: "Décret relatif à la performance énergétique des bâtiments.(Décret PEB)"
+identifier: "2013207272"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013207272/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2013-11-28
+published: 2013-12-27
+entry_into_force: 2015-05-01
+last_amended: 2026-07-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013207272/justel"
+department: "Service public de Wallonie"
+justel_note: "Consultation des versions antérieures à partir du 27-12-2013 et mise à jour au 30-07-2026"
+retrieved: 2026-10-12
+---
+
+# 28 NOVEMBRE 2013. - Décret relatif à la performance énergétique des bâtiments.(Décret PEB)
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Titre 1er. - Disposition générale et définitions
+
+###### Art. 1er
+
+[<sup>1</sup> Le présent décret a, notamment, pour objet de transposer partiellement la directive 2010/31/UE du Parlement européen et du Conseil du 19 mai 2010 sur la performance énergétique des bâtiments et la directive 2018/844/UE du Parlement européen et du Conseil du 30 mai 2018 modifiant la directive 2010/31/UE du Parlement européen et du Conseil du 19 mai 2010 sur la performance énergétique des bâtiments et la directive 2012/27/UE relative à l'efficacité énergétique.
+
+Il transpose également partiellement la directive 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation rationnelle de l'énergie produite à partir de sources renouvelables ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 1, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 2
+
+Au sens du présent décret, on entend par :
+
+1° performance énergétique d'un bâtiment (PEB) : quantité d'énergie effectivement consommée ou calculée pour répondre aux différents besoins énergétiques liés à une utilisation standardisée du bâtiment, qui inclut entre autres l'énergie utilisée pour le chauffage, la production d'eau chaude sanitaire, le système de refroidissement éventuel, la ventilation et l'éclairage;
+
+2° bâtiment : toute construction dotée d'un toit et de parois dans laquelle de l'énergie est utilisée pour réguler le climat intérieur;
+
+3° unité PEB : bâtiment ou partie de bâtiment destiné à être utilisé de manière autonome;
+
+4° unité résidentielle : unité PEB destinée au logement individuel ou collectif, occupée de manière permanente ou temporaire;
+
+5° unité de bureaux et de services : unité PEB destinée à des activités telles que :
+
+a) les travaux de gestion ou d'administration d'une entreprise, d'un service public, d'un indépendant ou d'un commerçant;
+
+b) l'exercice d'une profession libérale;
+
+c) la fourniture de services;
+
+6° unité destinée à l'enseignement : unité PEB destinée aux activités d'un établissement d'enseignement ou d'un centre psycho-médico-social qui ne relèvent pas du logement;
+
+7° unité industrielle : unité PEB destinée à l'exercice d'une activité d'artisanat, d'une activité liée à un processus de production ou de transformation de matières premières ou semi-finies, de conditionnement, de stockage ou de manipulation, ou d'une activité agro-économique;
+
+8° unité ayant une autre destination : unité PEB non visée par les catégories 4° à 7°;
+
+9° rénovation importante : travaux de rénovation, d'extension ou de démolition de l'enveloppe d'un bâtiment qui portent sur une surface dont l'ampleur est supérieure à 25 % de l'enveloppe existante;
+
+10° rénovation simple : rénovation qui emporte des travaux qui ne constituent pas une rénovation importante et qui sont de nature à influencer la performance énergétique du bâtiment;
+
+11° changement de destination : modification de la destination d'une unité PEB telle que définie aux 4° à 8°;
+
+12° superficie utile totale : somme des surfaces des différents niveaux du bâtiment calculées entre les murs ou parois extérieurs; l'épaisseur de ces murs ou parois n'est pas prise en compte dans cette somme;
+
+13° volume protégé : volume de tous les espaces d'un bâtiment qui est protégé, du point de vue thermique, de l'environnement extérieur (air ou eau), du sol et de tous les espaces adjacents;
+
+14° enveloppe : ensemble des parois du bâtiment qui détermine le volume protégé;
+
+15° [<sup>3</sup> système : équipement technique de chauffage des locaux, de refroidissement des locaux, de ventilation, de production d'eau chaude sanitaire, d'éclairage intégré, d'automatisation et de contrôle des bâtiments, de production d'électricité sur site d'un bâtiment ou d'une unité de bâtiment ou combinant plusieurs de ces systèmes, y compris les systèmes utilisant une énergie produite à partir de sources renouvelables]<sup>3</sup>;
+
+[<sup>3</sup> 15°/1 système d'automatisation et de contrôle : un système comprenant tous les produits, logiciels et services d'ingénierie à même de soutenir le fonctionnement efficace sur le plan énergétique, économique et sûr des systèmes visés au 15°, au moyen de commandes automatiques et facilitant la gestion manuelle de ces systèmes;]<sup>3</sup>
+
+16° permis : le permis d'urbanisme visé [<sup>2</sup> à l'article D.IV.4 du Code du développement territorial, ci-après CoDT]<sup>2</sup>, ou le permis unique visé à l'article 1er, 12°, du décret du 11 mars 1999 relatif au permis d'environnement [<sup>1</sup> ou le permis intégré au sens de l'article 1er, 5°, du décret relatif aux implantations commerciales lorsqu'il intègre des actes et travaux soumis à permis d'urbanisme]<sup>1</sup>;
+
+17° énergie produite à partir de sources renouvelables : énergie produite à partir de sources non fossiles renouvelables, à savoir énergie éolienne, solaire, aérothermique, géothermique, hydrothermique, marine et hydroélectrique, biomasse, gaz de décharge, gaz des stations d'épuration d'eaux usées et biogaz;
+
+18° énergie primaire : énergie provenant de sources renouvelables ou non renouvelables qui n'a subi aucun processus de conversion ni de transformation;
+
+19° cogénération à haut rendement : cogénération telle que définie à l'article 2, 8°, du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité;
+
+20° pompe à chaleur : une machine, un dispositif ou une installation qui transfère de la chaleur du milieu naturel environnant, comme l'air, l'eau ou le sol, vers des bâtiments ou des applications industrielles en renversant le flux naturel de chaleur de façon qu'il aille d'une température plus basse vers une température plus élevée. Dans le cas de pompes à chaleur réversibles, le transfert de la chaleur peut aussi se faire du bâtiment vers le milieu naturel;
+
+[<sup>3</sup> 20°/1 système de chauffage : une combinaison des composantes nécessaires pour assurer une forme de traitement de l'air intérieur, par laquelle la température est augmentée;
+
+20°/2 générateur de chaleur : la partie d'un système de chauffage qui produit de la chaleur utile à l'aide d'un ou plusieurs des processus suivants :
+
+a) combustion de combustibles;
+
+b) effet Joule, dans les éléments de chauffage d'un système de chauffage à résistance électrique;
+
+c) capture de la chaleur de l'air ambiant, de l'air extrait de la ventilation, de l'eau ou d'une source de chaleur souterraine à l'aide d'une pompe à chaleur;]<sup>3</sup>
+
+21° système de climatisation : une combinaison de toutes les composantes nécessaires pour assurer une forme de traitement de l'air dans un bâtiment, par laquelle la température est contrôlée ou peut être abaissée, éventuellement en conjugaison avec un contrôle de l'aération, de l'humidité et/ou de la pureté de l'air;
+
+22° certificat de performance énergétique (certificat PEB) : un certificat reconnu par la Wallonie qui indique la performance énergétique d'un bâtiment ou d'une unité de bâtiment calculée selon une méthode adoptée conformément à l'article 3;
+
+23° systèmes de chauffage urbains ou systèmes de refroidissement urbains : la distribution d'énergie thermique sous la forme de vapeur, d'eau chaude ou de fluides réfrigérants, à partir d'une installation centrale de production et à travers un réseau vers plusieurs bâtiments ou sites, pour le chauffage ou le refroidissement de locaux ou pour le chauffage ou le refroidissement industriel.
+
+[<sup>3</sup> 24° point de recharge : point de recharge tel que défini à l'article 2, 27°ter, du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité.]<sup>3</sup>
+
+[<sup>3</sup> ]<sup>25</sup>° infrastructure de raccordement : les conduits pour le passage des câbles électriques permettant de procéder à l'installation de points de recharge pour les véhicules électriques;]<sup>3</sup>
+
+[<sup>3</sup> 26° micro réseau isolé : le micro réseau isolé, tel que défini à l'article 2, point 27, de la directive 2009/72/CE du 13 juillet 2009 du Parlement européen et du Conseil concernant des règles communes pour le marché intérieur de l'électricité et abrogeant la directive 2003/54/CE ;]<sup>3</sup>
+
+[<sup>3</sup> 27° réseau de chaleur ou de froid efficace : le réseau de chaleur ou de froid utilisant au moins 50 % d'énergie renouvelable, 50 % de chaleur fatale, 75 % de chaleur issue de la cogénération ou 50 % d'une combinaison de ces types d'énergie ou de chaleur. ]<sup>3</sup>
+
+[<sup>4</sup> 28° le RGPD : le Règlement européen 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la Directive 95/46/CE (règlement général sur la protection des données);
+
+29° la signature électronique : la signature électronique au sens de l'article 3.12 du Règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE;
+
+30° le prêteur : le prêteur tel que visé à l'article I.9, 34°, du Code de droit économique;
+
+31° le responsable du traitement : au sens du RGPD, ce sont toutes les personnes et les autorités désignées par le Gouvernement, chacun pour les traitements qui les concernent, dans l'exercice de leurs finalités respectives;
+
+32° l'audit énergétique : l'audit réalisé conformément à l'arrêté du Gouvernement wallon du 15 novembre 2012 relatif à l'audit énergétique d'un logement;
+
+33° l'audit logement : l'audit réalisé conformément à l'arrêté du Gouvernement wallon du 4 avril 2019 relatif à l'audit logement.]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2015-02-05/07, art. 109, 002; En vigueur : 01-06-2015&gt;
+
+(2)&lt;DRW 2016-07-20/46, art. 58, 003; En vigueur : 01-06-2017&gt;
+
+(3)&lt;DRW 2020-12-17/50, art. 2, 005; En vigueur : 13-02-2021&gt;
+
+(4)&lt;DRW 2024-03-28/64, art. 1, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 2/1
+
+[<sup>1</sup> En vue d'identifier les personnes et les bâtiments ou unités de bâtiment, les fonctionnaires et les agents désignés par le Gouvernement utilisent, dans l'exercice des finalités qui leur incombent :
+
+1° le numéro d'identification au registre national des personnes physiques ou le numéro d'identification auprès de la Banque-Carrefour de la Sécurité sociale, pour consulter le registre national des personnes physiques organisé par la loi du 8 août 1983 ou la Banque carrefour de la sécurité sociale instituée par la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale;
+
+2° l'identifiant parcellaire cadastral de la parcelle cadastrale patrimoniale visé à l'article 10, pour consulter la documentation cadastrale organisée par l'arrêté royal du 30 juillet 2018 relatif à la constitution et la mise à jour de la documentation cadastrale et fixant les modalités pour la délivrance des extraits cadastraux. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 2, 006; En vigueur : 16-07-2024&gt;
+
+## Titre 2. - Méthode de calcul de la performance énergétique des bâtiments
+
+###### Art. 3
+
+La performance énergétique des bâtiments est déterminée sur la base de la méthode de calcul définie par le Gouvernement.
+
+Elle est exprimée par un ou plusieurs indicateurs numériques qui tiennent compte de l'énergie réellement consommée ou calculée sur la base de la méthode définie par le Gouvernement.
+
+La méthode de calcul tient compte, notamment, des caractéristiques techniques de l'isolation thermique et des installations, de la conception et de l'implantation, eu égard aux paramètres climatiques, à l'exposition solaire et à l'incidence des structures avoisinantes, de l'autoproduction d'énergie et d'autres facteurs, y compris le climat intérieur, qui influencent la demande d'énergie.
+
+Le Gouvernement détermine les modalités d'application de la méthode de calcul.
+
+###### Art. 4
+
+§ 1er. Pour l'application de la méthode de calcul, les unités PEB sont classées selon les destinations qui suivent :
+
+1° les unités résidentielles;
+
+2° les unités de bureaux et de services;
+
+3° les unités destinées à l'enseignement;
+
+4° les unités industrielles;
+
+5° les unités ayant une autre destination.
+
+§ 2. Parmi les destinations identifiées au § 1er, le Gouvernement peut distinguer des unités PEB spécifiques en fonction de leurs caractéristiques particulières ou de leur consommation d'énergie.
+
+###### Art. 5
+
+Pour établir la méthode de calcul de la performance énergétique, le Gouvernement tient compte des éléments identifiés à l'annexe 1re.
+
+###### Art. 6
+
+Le Gouvernement adapte les paramètres de la méthode de calcul selon qu'elle est appliquée à la détermination du niveau de performance énergétique atteint par :
+
+1° une unité PEB à construire ou à reconstruire;
+
+2° une unité PEB faisant l'objet d'une rénovation importante;
+
+3° une unité PEB faisant l'objet d'une rénovation simple;
+
+4° une unité PEB faisant l'objet d'un changement de destination;
+
+5° un système.
+
+###### Art. 7
+
+§ 1er. Lorsque, dans un bâtiment, il est fait usage d'un ou de plusieurs concepts ou technologies non pris en compte dans la méthode de calcul, le Gouvernement peut autoriser le recours à une méthode de calcul alternative permettant d'apprécier correctement si le bâtiment atteint les exigences PEB.
+
+Le Gouvernement ne peut accorder cette autorisation que si la performance énergétique de ces concepts et technologies est démontrée.
+
+§ 2. Une méthode alternative peut être établie pour l'utilisation d'un concept constructif ou d'une technologie non pris en compte dans la méthode de calcul à condition que l'application du système permette d'atteindre un niveau de performance énergétique au moins équivalent à celui des systèmes pris en considération dans la méthode de calcul.
+
+Le Gouvernement est habilité à fixer d'autres conditions pour autoriser le recours à une méthode alternative de calcul pour l'utilisation d'un concept constructif ou une technologie non pris en compte dans la méthode de calcul, ainsi que la procédure de délivrance et de retrait de l'autorisation.
+
+[<sup>1</sup> La demande d'autorisation de recourir à une méthode de calcul alternative contient au minimum les éléments suivants :
+
+1° le nom, le prénom, l'adresse, le numéro de téléphone et l'adresse de courrier électronique du demandeur, ou;
+
+2° lorsque le demandeur est une personne morale, sa dénomination sociale, son numéro d'entreprise et l'adresse de son siège social, le nom et le prénom des représentants légaux, ainsi que leur numéro de téléphone et leur adresse de courrier électronique;
+
+3° les informations nécessaires à la vérification du respect des conditions d'octroi de l'autorisation;
+
+4° la signature du demandeur.
+
+Le Gouvernement peut compléter ou préciser le contenu de la demande d'autorisation. ]<sup>1</sup>
+
+L'autorisation d'utiliser une méthode de calcul alternative pour un concept constructif ou une technologie non pris en compte par la méthode de calcul peut être appliquée par toute personne qui a recours au même concept constructif ou à la même technologie, pour autant que les conditions d'utilisation de l'autorisation soient respectées.
+
+Lorsqu'il modifie la méthode de calcul, le Gouvernement identifie les concepts constructifs et technologies que la méthode prend nouvellement en compte et retire, pour eux, l'autorisation d'utiliser une méthode de calcul alternative.
+
+§ 3. Une méthode alternative peut aussi être établie pour la réalisation d'un bâtiment faisant appel à un ou plusieurs concepts constructifs ou technologies non pris en compte par la méthode de calcul lorsque, en raison de cette conception, la méthode de calcul en vigueur ne permet pas d'apprécier correctement la performance énergétique de ce bâtiment.
+
+Le recours à une méthode alternative peut être autorisé lorsque le bâtiment respecte les exigences PEB en vigueur indépendamment du recours à la méthode alternative.
+
+Le Gouvernement est habilité à fixer d'autres conditions pour autoriser le recours à la méthode alternative visée à l'alinéa 1er, ainsi que la procédure de délivrance et de retrait de l'autorisation.
+
+[<sup>1</sup> La demande d'autorisation de recourir à une méthode de calcul alternative contient au minimum les éléments suivants :
+
+1° l'adresse et la référence cadastrale du bâtiment;
+
+2° le nom, le prénom, l'adresse, le numéro de téléphone et l'adresse de courrier électronique du demandeur, ou;
+
+3° lorsque le demandeur est une personne morale, sa dénomination sociale, son numéro d'entreprise et l'adresse de son siège social, le nom et le prénom des représentants légaux, ainsi que leur numéro de téléphone et leur adresse de courrier électronique;
+
+4° les informations nécessaires à la vérification du respect des conditions d'octroi de l'autorisation;
+
+5° la signature du demandeur.
+
+Le Gouvernement peut compléter ou préciser le contenu de la demande d'autorisation.]<sup>1</sup>
+
+[<sup>1</sup> § 4. La collecte et le traitement des informations visées au paragraphe 2, alinéa 3, et au paragraphe 3, alinéa 4, poursuivent les finalités suivantes :
+
+1° le traitement de la demande d'autorisation de recourir à une méthode de calcul alternative;
+
+2° l'exercice des contrôles visés au Titre 6;
+
+3° la réalisation de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments;
+
+4° l'assistance fournie aux personnes concernées en vue d'assurer le respect des exigences et des procédures PEB.
+
+Le Gouvernement conserve les informations visées au paragraphe 2, alinéa 3, et au paragraphe 3, alinéa 4, jusqu'au 31 décembre de l'année qui suit l'année au cours de laquelle le bâtiment est détruit.
+
+Par dérogation à l'alinéa 2, la durée de conservation des informations visées au paragraphe 2, alinéa 3, 1° et 2°, ne dépasse pas le 31 décembre de la cinquième année qui suit l'année au cours de laquelle la validité de l'autorisation prend fin.
+
+Par dérogation à l'alinéa 2, la durée de conservation des informations visées au paragraphe 3, alinéa 4, 2° et 3°, ne dépasse pas le 31 décembre de la cinquième année qui suit l'année au cours de laquelle la procédure PEB prend fin.
+
+Le Gouvernement désigne les fonctionnaires et les agents qui accèdent aux informations visées au paragraphe 2, alinéa 3 et au paragraphe 3, alinéa 4, en vue de l'exercice des finalités visées à l'alinéa 1er.
+
+Le Gouvernement fixe la durée de consultation et d'utilisation des informations visées au paragraphe 2, alinéa 3, et au paragraphe 3, alinéa 4, en considération de la durée nécessaire à l'exercice des finalités visées à l'alinéa 1er.
+
+Le Gouvernement organise, à l'expiration des délais visés aux alinéas 2, 3 et 4, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments, des informations visées au paragraphe 2, alinéa 3, et au paragraphe 3, alinéa 4. ]<sup>1</sup>
+
+----------
+
+(4)&lt;DRW 2024-03-28/64, art. 3, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 8
+
+Le Gouvernement évalue, au moins tous les cinq ans, la méthode de calcul de la performance énergétique des bâtiments et peut l'adapter en tenant compte des progrès techniques et technologiques réalisés dans le secteur du bâtiment.
+
+Le rapport est rendu public et est transmis au Parlement dans le mois suivant ses conclusions.
+
+## Titre 2/1. [<sup>1</sup> Stratégie de rénovation à long terme ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/50, art. 3, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 8/1
+
+[<sup>1</sup> § 1er. Le Gouvernement établit une stratégie de rénovation à long terme des bâtiments, pour soutenir la rénovation en vue de la constitution d'un parc immobilier à haute efficacité énergétique et décarboné d'ici à 2050, facilitant ainsi la transformation rentable de bâtiments existants en bâtiments dont la consommation d'énergie est quasi nulle.
+
+La stratégie de rénovation comprend au minimum :
+
+1° un aperçu du parc immobilier fondé, s'il y a lieu, sur un échantillonnage statistique et la proportion escomptée de bâtiments rénovés en 2020;
+
+2° l'inventaire des approches de rénovation rentables qui sont adaptées au type de bâtiment et à la zone climatique, compte tenu des seuils de déclenchement pertinents potentiels, le cas échéant, dans le cycle de vie du bâtiment;
+
+3° des politiques et des actions visant à stimuler des rénovations lourdes de bâtiments rentables, y compris des rénovations lourdes par étapes, et à soutenir des mesures et des rénovations ciblées rentables;
+
+4° un aperçu des politiques et des actions ciblant les segments les moins performants du parc immobilier, les dilemmes de divergence d'intérêts et les défaillances du marché, ainsi qu'une brève présentation des actions nationales pertinentes qui contribuent à atténuer la précarité énergétique;
+
+5° des politiques et des actions visant tous les bâtiments publics;
+
+6° un aperçu des initiatives visant à promouvoir les technologies intelligentes et des bâtiments et communautés bien connectés, ainsi que les compétences et la formation dans les secteurs de la construction et de l'efficacité énergétique;
+
+7° une estimation, fondée sur des éléments tangibles, des économies d'énergie attendues et des bénéfices plus larges escomptés, par exemple dans les domaines de la santé, de la sécurité et de la qualité de l'air.
+
+Le Gouvernement annexe à la stratégie de rénovation à long terme le détail de la mise en oeuvre de la stratégie de rénovation à long terme la plus récente, y compris sur les politiques et les actions prévues.
+
+Avant son adoption et au cours de sa mise en oeuvre, le Gouvernement soumet la stratégie de rénovation à une consultation publique s'adressant, de manière directe ou indirecte, à l'ensemble des parties prenantes, notamment les autorités locales, les organisations de la société civile, les entreprises du bâtiment et de la construction, les secteurs financiers et de l'investissement et les autres parties prenantes concernées, en ce compris le grand public.
+
+Le Gouvernement définit les modalités d'organisation de la consultation visée à l'alinéa 4.
+
+§ 2. La stratégie de rénovation à long terme intègre une feuille de route comportant des mesures et des indicateurs de progrès mesurables et des jalons indicatifs pour 2030, 2040 et 2050, en précisant la manière dont ces jalons contribuent à la réalisation des objectifs visés au paragraphe 1er, alinéa 1er.
+
+§ 3. Afin de soutenir la mobilisation des investissements dans les travaux de rénovation nécessaires à la réalisation des objectifs visés au paragraphe 1er, le Gouvernement facilite l'accès aux mécanismes appropriés visant à permettre :
+
+1° l'agrégation des projets afin de permettre l'accès des investisseurs et d'offrir des solutions globales aux clients potentiels;
+
+2° la réduction du risque lié aux opérations en matière d'efficacité énergétique perçu par les investisseurs et le secteur privé;
+
+3° l'utilisation de fonds publics pour attirer des investissements supplémentaires en provenance du secteur privé ou remédier à certaines défaillances du marché;
+
+4° l'orientation des investissements vers la constitution d'un parc de bâtiments publics efficace sur le plan énergétique;
+
+5° la mise en place d'outils de conseil accessibles et transparents concernant les rénovations pertinentes visant à améliorer l'efficacité énergétique et les instruments financiers disponibles. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/50, art. 4, 005; En vigueur : 13-02-2021&gt;
+
+## Titre 3. [<sup>1</sup> Exigences de performance énergétique des bâtiments et d'électromobilité ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 5, 005; En vigueur : 13-02-2021&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> Exigences de performance énergétique]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 6, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 9
+
+Des exigences PEB doivent être respectées :
+
+1° lors de la construction ou de la reconstruction d'une unité PEB;
+
+2° lors de la réalisation d'une rénovation importante;
+
+3° lors de la réalisation d'une rénovation simple;
+
+4° lors d'un changement de destination;
+
+5° lors de l'installation, du remplacement ou de la modernisation de systèmes [<sup>1</sup> , en ce compris les générateurs de chaleur ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 7, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 10
+
+Par exception à l'article 9, les exigences PEB ne sont pas applicables :
+
+1° aux unités PEB servant de lieu de culte et utilisées pour des activités religieuses ainsi qu'aux unités PEB servant à offrir une assistance morale selon une conception philosophique non confessionnelle, dans la mesure où l'application de certaines exigences minimales en matière de performance énergétique est de nature à influencer leur caractère ou leur apparence de manière incompatible avec l'usage du lieu;
+
+2° dans la mesure où l'application de certaines exigences minimales en matière de performance énergétique est de nature à modifier leur caractère ou leur apparence de manière incompatible avec les objectifs poursuivis par les mesures de protection visées, aux unités PEB comprises :
+
+a)[<sup>3</sup> dans un bien classé ou assimilé, au titre de monument ou d'ensemble architectural, au sens du Code wallon du Patrimoine]<sup>3</sup>;
+
+b) [<sup>3</sup> dans un bâtiment repris à l'inventaire régional du patrimoine au sens du Code wallon du Patrimoine]<sup>3</sup>;
+
+c) dans un bâtiment inscrit au titre de monument ou ensemble sur la liste visée à l'article 17 du décret de la Communauté germanophone du 23 juin 2008 relatif à la protection des monuments, du petit patrimoine, des ensembles et sites, ainsi qu'aux fouilles;
+
+d) dans un bâtiment repris à l'inventaire du petit patrimoine et des autres bâtiments significatifs visé à l'article 19 du même décret; ";
+
+3° aux unités industrielles, aux ateliers et aux unités agricoles non résidentielles, faibles consommateurs d'énergie dans des conditions normales d'exploitation;
+
+4° aux constructions provisoires prévues pour une durée d'utilisation de deux ans ou moins;
+
+5° aux bâtiments à construire d'une superficie utile totale inférieure à 50 m<sup>2</sup>;
+
+6° aux unités agricoles non résidentielles utilisées par des entreprises qui adhèrent à une convention environnementale sectorielle au sens des articles D.82 et suivants du Code de l'Environnement en matière de performance énergétique.
+
+Le Gouvernement peut définir les modalités d'application du présent article.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 59, 003; En vigueur : 01-06-2017&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 4, 006; En vigueur : 16-07-2024&gt;
+
+(3)&lt;DRW 2023-09-28/28, art. 16, 007; En vigueur : 01-06-2024&gt;
+
+### CHAPITRE II. - Détermination des exigences minimales de performance énergétique
+
+###### Art. 11
+
+§ 1er. Le Gouvernement détermine les exigences PEB.
+
+Il se fonde sur la méthode de calcul de la performance énergétique des bâtiments pour déterminer les exigences PEB.
+
+Les exigences PEB sont fixées à un niveau optimal en fonction de la durée de vie et des coûts d'investissement, de maintenance, de fonctionnement et, le cas échéant, d'élimination du bâtiment ou de l'élément soumis à exigence.
+
+§ 2. Les exigences PEB doivent tenir compte :
+
+1° des conditions générales qui caractérisent le climat intérieur;
+
+2° des particularités locales;
+
+3° de la destination du bâtiment;
+
+4° de son âge.
+
+§ 3. Les exigences PEB peuvent être différenciées en fonction :
+
+1° du type de bâtiment, à construire ou existant;
+
+2° de la superficie utile totale du bâtiment;
+
+3° de la nature des travaux envisagés.
+
+[<sup>1</sup> § 4. Le Gouvernement précise, au titre des exigences PEB, en cas de construction ou de rénovation importante, des niveaux minimaux d'énergie provenant de sources renouvelables.
+
+Le Gouvernement détermine les exemptions pour déroger à l'alinéa 1er.
+
+Pour l'application de l'alinéa 1er, le Gouvernement peut, notamment, tenir compte :
+
+1° de l'autoconsommation d'énergies renouvelables;
+
+2° du stockage local de l'énergie;
+
+3° de l'efficacité énergétique des bâtiments;
+
+4° de réseaux de chaleur et de froid efficaces. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 8, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 12
+
+§ 1er. Les exigences PEB sont établies pour le bâtiment dans son ensemble, pour une unité PEB, pour des éléments de l'enveloppe ou pour des systèmes.
+
+En cas de rénovation simple, de rénovation importante ou de changement de destination, les exigences PEB concernent les éléments de l'enveloppe qui ont un impact considérable sur sa performance énergétique et qui sont ajoutés, remplacés ou rénovés. Ces exigences sont techniquement, fonctionnellement et économiquement réalisables.
+
+En cas de rénovation simple, de rénovation importante ou de changement de destination, les exigences PEB peuvent concerner les éléments de l'enveloppe ajoutés, remplacés ou rénovés, lorsque ces travaux influencent la performance énergétique de l'élément. Ces exigences sont techniquement, fonctionnellement et économiquement réalisables.
+
+[<sup>1</sup> En cas de construction ou de rénovation importante, les exigences PEB intègrent des niveaux minimaux d'énergie provenant de sources renouvelables, dans la mesure où ces exigences sont techniquement, fonctionnellement et économiquement réalisables et dans la mesure où cela n'a pas d'incidence négative sur la qualité d'air intérieur. ]<sup>1</sup>
+
+En cas d'installation, de remplacement ou de modernisation d'un élément de système, les exigences PEB concernent l'intégration du système ou de l'élément du système dans l'unité PEB et son niveau de performance énergétique. Ces exigences sont techniquement, fonctionnellement et économiquement réalisables.
+
+[<sup>1</sup>[<sup>2</sup> Lors d'une intervention visée à l'alinéa 5, la performance énergétique de la partie modifiée ou, le cas échéant, de l'ensemble du système, est évaluée et documentée aux fins de la vérification des exigences et de la délivrance du certificat PEB]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 1er/1. A l'issue d'une intervention visée au paragraphe 1er, alinéa 5, le titulaire de droit réel sur le bâtiment ou l'unité PEB dispose d'un rapport d'évaluation.
+
+Le rapport d'évaluation contient au minimum les éléments suivants :
+
+1° l'adresse et la référence cadastrale du bâtiment ou de l'unité PEB concernée;
+
+2° le nom, le prénom, du titulaire de droit réel sur le bâtiment et de l'auteur du document, ou;
+
+3° lorsque les personnes visées au 2° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, ainsi que le nom et le prénom des représentants légaux;
+
+4° l'évaluation de la performance énergétique de la partie modifiée ou, le cas échéant, de l'ensemble du système;
+
+5° la signature de l'auteur du document.
+
+Le Gouvernement peut compléter ou préciser le contenu du rapport d'évaluation.
+
+§ 1er/2. Le Gouvernement organise une base de données dans laquelle les rapports d'évaluation sont enregistrés par leur auteur.
+
+La base de données contient en outre les éléments suivants :
+
+1° l'adresse du domicile, le numéro d'identification au registre national des personnes physiques ou, à défaut, le numéro d'identification auprès de la banque carrefour de la sécurité sociale du titulaire de droit réel sur le bâtiment et de l'auteur du rapport d'évaluation, ainsi que les autres informations nécessaires en vue de les contacter, ou;
+
+2° lorsque les personnes visées au 1° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, le nom et le prénom des représentants légaux et, le cas échéant, des personnes de contact, ainsi que les autres informations nécessaires en vue de les contacter.
+
+Le Gouvernement peut préciser les informations visées à l'alinéa 2.
+
+L'auteur du rapport d'évaluation collecte, traite et conserve les informations visées au paragraphe 1er/1, alinéa 2, et à l'alinéa 2 aux seules fins de l'établissement et de l'enregistrement du rapport sur la base de données.
+
+Par dérogation à l'alinéa 4, l'auteur du rapport ne conserve pas les informations visées à l'alinéa 2 au-delà de leur enregistrement dans la base de données.
+
+Toute communication des informations visées au paragraphe 1er/1, alinéa 2, et à l'alinéa 2 à des tiers est interdite.
+
+§ 1er/3. La collecte et le traitement des données visées au paragraphe 1er/2, alinéas 1er et 2, poursuivent les finalités suivantes :
+
+1° l'établissement et la correction des documents procéduraux relatifs aux exigences applicables aux systèmes;
+
+2° l'établissement et la mise à jour des certificats PEB; 3° l'exercice des contrôles visés au Titre 6;
+
+4° la réalisation de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments;
+
+5° l'assistance fournie aux personnes concernées pour leur permettre de respecter les exigences PEB;
+
+6° l'information visée à l'article 39/1.
+
+§ 1er/4. Les auteurs de rapports d'évaluation accèdent aux rapports d'évaluation en vue de l'exercice des finalités visées au paragraphe 1er/3, 1°.
+
+Les certificateurs PEB accèdent aux rapports d'évaluation en vue de l'exercice des finalités visées au paragraphe 1er/3, 2°.
+
+Les titulaires de droit réel sur le bâtiment ou l'unité PEB, ainsi que les personnes qu'ils désignent, accèdent aux rapports d'évaluation qui concernent ce bâtiment ou cette unité en vue de l'exercice des finalités visées au paragraphe 1er/3, 6°.
+
+Le Gouvernement désigne les fonctionnaires et les agents qui accèdent aux rapports d'évaluation et aux informations visées au paragraphe 1er/2, alinéas 1er et 2, en vue de l'exercice des finalités visées au paragraphe 1er/3, alinéa 1er, 3°, 4° et 5°.
+
+§ 1er/5. Le Gouvernement précise les informations auxquelles les personnes visées au paragraphe 1er/4 peuvent accéder, ainsi que les modalités d'accès à ces informations.
+
+Le Gouvernement fixe, pour chacune des personnes visées au paragraphe 1er/4, la durée de consultation et d'utilisation des informations, en considération de la durée nécessaire à l'exercice des finalités visées au paragraphe 1er/3.
+
+Le Gouvernement conserve les informations visées au paragraphe 1er/2, alinéas 1er et 2, jusqu'au 31 décembre de l'année qui suit l'année au cours de laquelle le bâtiment est détruit.
+
+Par dérogation à l'alinéa 3, la durée de conservation des informations visées au paragraphe 1er/2, alinéa 2, ne dépasse pas le 31 décembre de la cinquième année qui suit l'année au cours de laquelle le rapport d'évaluation est enregistré dans la base de données.
+
+Le Gouvernement organise, à l'expiration des délais visés aux alinéas 3 et 4, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments, des données visées au paragraphe 1er/2, alinéas 1er et 2.]<sup>2</sup>
+
+§ 2. Le Gouvernement détermine les modalités d'application du § 1er.
+
+Le Gouvernement peut soumettre au respect d'exigences PEB d'autres hypothèses que celles visées au § 1er. Ces exigences sont techniquement, fonctionnellement et économiquement réalisables.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 9, 005; En vigueur : 13-02-2021&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 5, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 13
+
+Le Gouvernement évalue les exigences PEB au moins tous les cinq ans et, au besoin, les adapte afin de tenir compte des progrès techniques et technologiques dans le secteur du bâtiment.
+
+Le rapport est rendu public et est transmis au Parlement dans le mois suivant ses conclusions.
+
+### CHAPITRE II/1 [<sup>1</sup> Exigences d'électromobilité ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/50, art. 10, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 13/1
+
+[<sup>1</sup> § 1er. Les bâtiments non résidentiels à construire ou faisant l'objet de travaux de rénovation importante, comprenant plus de dix emplacements de stationnement, sont équipés d'au moins un point de recharge, ainsi que de l'infrastructure de raccordement pour un emplacement de stationnement sur cinq au moins afin de permettre de procéder ultérieurement à l'installation de points de recharge pour les véhicules électriques, lorsque :
+
+1° le parc de stationnement est situé à l'intérieur du bâtiment et, dans le cas de rénovations importantes, les travaux de rénovation comprennent le parc de stationnement ou l'infrastructure électrique du bâtiment; ou
+
+2° le parc de stationnement jouxte le bâtiment et, dans le cas de rénovations importantes, les travaux de rénovation comprennent le parc de stationnement ou l'infrastructure électrique du parc de stationnement. Pour considérer qu'un parc de stationnement jouxte le bâtiment, les trois critères suivants sont respectés :
+
+a) il existe une connexion physique ou technique entre le parc de stationnement et le bâtiment;
+
+b) le parc de stationnement est utilisé exclusivement ou principalement par les occupants du bâtiment;
+
+c) le parc de stationnement et le bâtiment sont détenus par le même titulaire de droit réel.
+
+§ 2. Le Gouvernement fixe les exigences minimales d'installation de points de recharge applicables à partir du 1er janvier 2025 aux bâtiments non résidentiels disposant de plus de vingt emplacements de stationnement.
+
+§ 3. Le Gouvernement peut préciser les exigences visées aux § § 1 et 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/50, art. 11, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 13/2
+
+[<sup>1</sup> Les bâtiments résidentiels à construire ou faisant l'objet de travaux de rénovation importante, comprenant plus de dix emplacements de stationnement, sont équipés de l'infrastructure de raccordement pour chaque emplacement de stationnement afin de permettre de procéder ultérieurement à l'installation de points de recharge pour les véhicules électriques, lorsque :
+
+1° le parc de stationnement est situé à l'intérieur du bâtiment et, dans le cas de rénovations importantes, les travaux de rénovation comprennent le parc de stationnement ou l'infrastructure électrique du bâtiment; ou
+
+2° le parc de stationnement jouxte le bâtiment et, dans le cas de rénovations importantes, les travaux de rénovation comprennent le parc de stationnement ou l'infrastructure électrique du parc de stationnement. Pour considérer qu'un parc de stationnement jouxte le bâtiment, les trois critères suivants sont respectés :
+
+a) il existe une connexion physique ou technique entre le parc de stationnement et le bâtiment;
+
+b) le parc de stationnement est utilisé exclusivement ou principalement par les occupants du bâtiment;
+
+c) le parc de stationnement et le bâtiment sont détenus par le même titulaire de droit réel.
+
+Le Gouvernement peut préciser les exigences visées à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/50, art. 12, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 13/3
+
+[<sup>1</sup> § 1er." Dans les bâtiments comprenant des parties destinées au logement individuel et des parties non résidentielles ou destinées au logement collectif, les exigences de l'article 13/1 s'appliquent lorsque la somme des surfaces des parties non résidentielles ou destinées au logement collectif est supérieure ou égale à la somme des surfaces des parties destinées au logement individuel.
+
+Dans les bâtiments visés à l'alinéa 1er, les exigences de l'article 13/2 s'appliquent lorsque la somme des surfaces des parties destinées au logement individuel est supérieure à la somme des surfaces des parties non résidentielles ou destinées au logement collectif.
+
+Le Gouvernement peut déterminer les modalités d'application des alinéas 1er et 2.
+
+§ 2. Le Gouvernement peut déterminer, parmi les exceptions suivantes, les exceptions aux exigences visées aux articles 13/1 et 13/2, ainsi qu'au § 1er :
+
+1° lorsque l'infrastructure de raccordement nécessaire repose sur des micro réseaux isolés;
+
+2° lorsque les bâtiments sont possédés et occupés par des petites et moyennes entreprises, telles que définies à l'annexe, titre I, de la recommandation 2003/361/CE de la Commission du 6 mai 2003 concernant la définition des micro, petites et moyennes entreprises;
+
+3° lorsque le coût des installations de recharge et de raccordement représente plus de 7 % du coût total de la rénovation importante du bâtiment.
+
+L'exception visée à l'alinéa 1er, 3°, ne peut être appliquée aux exigences fixées en vertu de l'article 13/1, § 2.
+
+Le Gouvernement peut déterminer les modalités d'application des alinéas 1er et 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/50, art. 13, 005; En vigueur : 13-02-2021&gt;
+
+### CHAPITRE III. [<sup>1</sup> Documents procéduraux et base de données relatifs aux exigences PEB et d'électromobilité ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 6, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 14
+
+§ 1er. [<sup>1</sup> Le Gouvernement organise une base de données qui contient les documents procéduraux relatifs aux exigences PEB et d'électromobilité, ainsi que les données suivantes :
+
+1° les données nécessaires à l'évaluation de la performance énergétique du bâtiment ou de l'unité PEB;
+
+2° l'adresse du domicile, le numéro d'identification au registre national des personnes physiques ou, à défaut, le numéro d'identification auprès de la Banque - Carrefour de la Sécurité sociale du déclarant PEB et, lorsque leur intervention est requise, de l'architecte, du responsable PEB et de l'auteur de faisabilité technique, environnementale et économique, ainsi que les autres informations nécessaires en vue de les contacter, ou;
+
+3° lorsque les personnes visées au 2° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, le nom et le prénom des représentants légaux et, le cas échéant, des personnes de contact, ainsi que les autres informations nécessaires en vue de les contacter.
+
+La collecte et le traitement des informations visées à l'alinéa 1er poursuivent les finalités suivantes :
+
+1° l'établissement ou la correction des documents procéduraux relatifs aux exigences PEB et d'électromobilité, ainsi que le renouvèlement du certificat PEB établi sur base de l'article 33;
+
+2° les finalités d'information visées aux articles 28, 34, § 4, et 39/1, § 1er, alinéa 2;
+
+3° l'exercice des contrôles visés au Titre 5, chapitres IV et V;
+
+4° l'exercice des contrôles visés au Titre 6;
+
+5° la vérification, dans le cadre de l'analyse de la composition du dossier de demande de permis, que le projet pourra répondre aux exigences PEB et d'électromobilité, conformément à l'article 16, § 1er, alinéa 1er, 7° ;
+
+6° la réalisation de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments;
+
+7° l'assistance fournie aux personnes concernées pour leur permettre de respecter leurs obligations, ainsi que la réalisation de politiques publiques de sensibilisation et de mobilisation sur les enjeux climatiques;
+
+8° la vérification de la performance énergétique du bâtiment ou de l'unité PEB en vue du financement de sa construction, de son acquisition ou de sa rénovation énergétique par un crédit, ainsi que le respect des obligations de rapportage applicables au portefeuille de crédit des prêteurs.
+
+§ 2. Le Gouvernement peut compléter la liste des informations visées au paragraphe 1er, alinéa 1er.
+
+Le Gouvernement conserve les informations visées au paragraphe 1er, alinéa 1er, jusqu'au 31 décembre de l'année qui suit l'année au cours de laquelle le bâtiment est détruit.
+
+Par dérogation à l'alinéa 2, la durée de conservation des informations visées au paragraphe 1er, alinéa 1er, 2° et 3°, ne dépasse pas le 31 décembre de la cinquième année qui suit l'année au cours de laquelle la procédure PEB prend fin.
+
+Le Gouvernement organise, à l'expiration des délais visés aux alinéas 2 et 3, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments, des données visées au paragraphe 1er, alinéa 1er.
+
+§ 3. Les responsables PEB accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments pour lesquels ils sont désignés en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 1°.
+
+Lorsque le déclarant PEB désigne un nouveau responsable PEB, les informations enregistrées dans la base de données peuvent être réutilisées en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 1°, avec l'accord préalable du responsable PEB initial.
+
+Lorsque, dans l'hypothèse visée à l'article 28, § 2, le nouveau déclarant désigne un nouveau responsable PEB, les informations enregistrées dans la base de données peuvent être réutilisées en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 1°, avec l'accord préalable du responsable PEB et du déclarant PEB initiaux.
+
+§ 4. Les certificateurs PEB accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments pour lesquels ils sont désignés en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 1°.
+
+§ 5. Les officiers instrumentant accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments mis en vente ou en location pour lesquels ils sont désignés en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°.
+
+§ 6. Les agents immobiliers accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments mis en vente ou en location pour lesquels ils sont désignés en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°.
+
+§ 7. Les fonctionnaires et les agents visés à l'article 61 accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments qui se situent sur leur territoire ou qui relèvent de leur compétence, en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 4° et 5°.
+
+§ 8. Les titulaires de droit réel sur le bâtiment ou l'unité PEB accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments sur lesquels ils disposent d'un droit réel, en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°.
+
+§ 9. Les prêteurs accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments pour lesquels ils interviennent en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 8°.
+
+§ 10. Le Gouvernement désigne les autres fonctionnaires et les agents qui accèdent aux informations enregistrées dans la base de données en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°, 3°, 4°, 6° et 7°.
+
+Le Gouvernement précise les informations auxquelles les personnes visées aux paragraphes 3, 4, 5, 6, 7, 8 et 9 et à l'alinéa 1er peuvent accéder, ainsi que les modalités d'accès à ces informations.
+
+Le Gouvernement fixe, pour chacune des personnes visées aux paragraphes 3, 4, 5, 6, 7, 8 et 9, ainsi qu'à l'alinéa 1er, la durée de consultation et d'utilisation des informations, en considération de la durée nécessaire à l'exercice des finalités visées au paragraphe 1er ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 7, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 14/1
+
+[<sup>1</sup> . § 1er. Pour l'application de l'article 14, § 1er, alinéa 2, 6° et 7°, la communication de données à caractère personnel sur la base de l'article 6.1., c) ou e), du RGPD à toute autre autorité publique ou organisation privée, est formalisée pour chaque type de traitement par un protocole entre le responsable du traitement initial et le responsable du traitement destinataire des données.
+
+Ce protocole prévoit :
+
+1° l'identification de l'autorité publique qui communique les données à caractère personnel et celle du destinataire;
+
+2° l'identification du responsable du traitement des données au sein de l'autorité publique qui communique les données et l'identification du responsable du traitement des données au sein du destinataire;
+
+3° les coordonnées des délégués à la protection des données concernés au sein de l'autorité publique qui communique les données ainsi que, le cas échéant, les coordonnées du destinataire;
+
+4° les finalités pour lesquelles les données à caractère personnel sont communiquées;
+
+5° les catégories de données à caractère personnel communiquées et leur format;
+
+6° les catégories de destinataires;
+
+7° la base légale qui autorise la communication des données;
+
+8° les modalités de communication utilisées pour la communication des données;
+
+9° toute mesure spécifique qui encadre la communication des données conformément au principe de proportionnalité et aux exigences de protection des données dès la conception et par défaut;
+
+10° les restrictions légales applicables aux droits de la personne concernée par la communication des données;
+
+11° les modalités d'exercice des droits de la personne concernée auprès du destinataire;
+
+12° la périodicité de la communication des données; 13° la durée du protocole;
+
+14° les sanctions applicables en cas de non-respect du protocole.
+
+§ 2. Le protocole est adopté après les avis respectifs du délégué à la protection des données de l'autorité publique qui détient les données à caractère personnel et, le cas échéant, du destinataire. Ces avis sont annexés au protocole. Lorsqu'au moins un de ces avis n'est pas suivi par les responsables du traitement, le protocole mentionne, en ses dispositions introductives, la ou les raisons pour laquelle ou lesquelles cet ou ces avis n'ont pas été suivis.
+
+Le Gouvernement publie le protocole sur son site internet. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 8, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 15
+
+§ 1er. L'étude de faisabilité technique, environnementale et économique analyse la possibilité de recourir à des systèmes de substitution à haute efficacité énergétique tels que :
+
+1° les systèmes décentralisés d'approvisionnement en énergie basés sur des sources d'énergie renouvelables;
+
+2° la cogénération à haut rendement;
+
+3° les systèmes de chauffage ou de refroidissement urbains ou collectifs, s'ils existent;
+
+4° les pompes à chaleur.
+
+§ 2. [<sup>1</sup> L'étude de faisabilité technique, environnementale et économique contient :
+
+1° le numéro de dossier PEB;
+
+2° l'adresse et la référence cadastrale du terrain, du bâtiment ou de l'unité PEB concernée;
+
+3° le nom, le prénom, l'adresse du domicile, le numéro d'identification au registre national des personnes physiques ou, à défaut, le numéro d'identification auprès de la Banque-Carrefour de la Sécurité sociale, le numéro de téléphone et l'adresse de courrier électronique de l'auteur d'étude de faisabilité technique, environnementale et économique ou, le cas échéant, du responsable PEB, ou;
+
+4° lorsque les personnes visées au 3° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, ainsi que le nom, le prénom, le numéro de téléphone et l'adresse de courrier électronique des représentants légaux;
+
+5° le numéro d'agrément de l'auteur de l'étude de faisabilité technique, environnementale et économique ou, le cas échéant, du responsable PEB;
+
+6° la signature de l'auteur de l'étude de faisabilité technique, environnementale et économique ou, le cas échéant, du responsable PEB;
+
+7° la présentation des besoins énergétiques à satisfaire et les consommations d'énergie;
+
+8° une estimation du calcul de dimensionnement technique et les grandeurs de référence ainsi que les hypothèses de travail utilisées pour ce calcul;
+
+9° le cas échéant, une évaluation des contraintes d'utilisation en termes de maintenance, de disponibilité et de type de combustible envisagé;
+
+10° une évaluation des économies d'énergie;
+
+11° une estimation du coût économique et du temps de retour sur investissement]<sup>1</sup>.
+
+[<sup>1</sup> Le Gouvernement peut préciser et compléter le contenu de l'étude de faisabilité technique, environnementale et économique et déterminer sa forme et ses modalités d'application. Il est autorisé à distinguer le contenu, la forme et les modalités d'application de l'étude de faisabilité technique, environnementale et économique en fonction de la destination ou de la taille du bâtiment]<sup>1</sup>.
+
+§ 3. L'étude de faisabilité technique, environnementale et économique peut être établie :
+
+1° pour un bâtiment individuel;
+
+2° [<sup>1</sup> pour des typologies similaires de bâtiments]<sup>1</sup>;
+
+3° dans l'hypothèse d'un système de chauffage ou de refroidissement urbain ou collectif, pour l'ensemble des bâtiments connectés ou à connecter au système.
+
+§ 4. L'étude de faisabilité technique, environnementale et économique est établie au moyen des formulaires élaborés par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 9, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 16
+
+§ 1er. [<sup>2</sup> La déclaration PEB initiale contient :
+
+1° le numéro de dossier PEB;
+
+2° l'adresse et la référence cadastrale du terrain, du bâtiment ou de l'unité PEB concernée;
+
+3° le nom et le prénom du déclarant PEB, de l'architecte et du responsable PEB et, le cas échéant, de l'auteur d'étude de faisabilité technique, environnementale et économique, ou;
+
+4° lorsque les personnes visées au 3° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, ainsi que le nom et le prénom des représentants légaux;
+
+5° le numéro d'agrément du responsable PEB;
+
+6° une déclaration sur l'honneur du déclarant PEB et du responsable PEB et, lorsque son intervention est requise, de l'architecte, d'avoir pris connaissance des exigences PEB et d'électromobilité et des sanctions applicables en cas de non-respect de celles-ci;
+
+7° un descriptif des mesures à mettre en oeuvre qui démontre que le projet pourra répondre aux exigences PEB et d'électromobilité;
+
+8° une estimation du résultat attendu du calcul de la performance énergétique du bâtiment ou de l'unité PEB concernée PEB;
+
+9° le cas échéant, l'autorisation de recourir à une méthode de calcul alternative;
+
+10° lorsqu'une étude de faisabilité technique, environnementale et économique a été réalisée, les choix des techniques et des dispositifs envisagés en fonction des recommandations formulées dans cette étude;
+
+11° la signature du déclarant PEB, de l'architecte et du responsable PEB]<sup>2</sup>.
+
+[<sup>2</sup> Le Gouvernement peut préciser et compléter le contenu de la déclaration PEB initiale]<sup>2</sup>.
+
+La déclaration PEB initiale est établie à l'aide du logiciel associé à la méthode de calcul de la performance énergétique des bâtiments, mis à la disposition des responsables PEB par le Gouvernement. Le Gouvernement peut préciser sa forme et ses modalités d'application.
+
+§ 2. [<sup>2</sup> La déclaration PEB simplifiée contient :
+
+1° l'adresse et la référence cadastrale du terrain, du bâtiment ou de l'unité PEB concernée;
+
+2° le nom, le prénom, l'adresse du domicile, le numéro d'identification au registre national des personnes physiques ou, à défaut, le numéro d'identification auprès de la Banque - Carrefour de la Sécurité sociale, le numéro de téléphone et l'adresse de courrier électronique du déclarant PEB et, lorsque son intervention est requise, de l'architecte, ou;
+
+3° lorsque les personnes visées au 2° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, ainsi que le nom, le prénom, le numéro de téléphone et l'adresse de courrier électronique des représentants légaux;
+
+4° une déclaration sur l'honneur du déclarant PEB et, lorsque son intervention est requise, de l'architecte, d'avoir pris connaissance des exigences PEB et d'électromobilité et des sanctions applicables en cas de non - respect de celles-ci;
+
+5° un descriptif des mesures à mettre en oeuvre qui démontre la conformité du projet aux exigences PEB et d'électromobilité;
+
+6° une estimation du résultat attendu du calcul de la performance énergétique du bâtiment ou de l'unité PEB concernée PEB;
+
+7° le cas échéant, l'autorisation de recourir à une méthode de calcul alternative;
+
+8° la signature du déclarant PEB et, le cas échéant, de l'architecte]<sup>2</sup>.
+
+[<sup>2</sup> Lorsque la déclaration PEB simplifiée est enregistrée sur la base de données visée à l'article 14, elle contient également les données nécessaires à l'identification du dossier de procédure PEB.
+
+Par dérogation à l'alinéa 1er, 2°, lorsque la déclaration PEB simplifiée est enregistrée sur la base de données visée à l'article 14, l`adresse du domicile, le numéro d'identification au registre national des personnes physiques ou auprès de la banque - Carrefour de la sécurité sociale, le numéro de téléphone et l'adresse de courrier électronique du déclarant PEB et de l'architecte sont enregistrés dans la base de données et ne figurent pas dans la déclaration PEB simplifiée.
+
+Par dérogation à l'alinéa 1er, 3°, lorsque la déclaration PEB simplifiée est enregistrée sur la base de données visée à l'article 14, le numéro de téléphone et l'adresse de courrier électronique des représentants légaux sont enregistrés dans la base de données et ne figurent pas dans la déclaration PEB simplifiée]<sup>2</sup>
+
+Le Gouvernement peut [<sup>2</sup> préciser]<sup>2</sup> compléter le contenu de la déclaration PEB simplifiée.
+
+Il peut également déterminer sa forme et ses modalités d'application.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 16, 005; En vigueur : 13-02-2021&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 10, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 17
+
+§ 1er. [<sup>2</sup> La déclaration PEB provisoire contient :
+
+1° le numéro de dossier PEB;
+
+2° l'adresse et la référence cadastrale du bâtiment ou de l'unité concernée;
+
+3° le nom et le prénom du déclarant PEB, de l'architecte et du responsable PEB, ou;
+
+4° lorsque les personnes visées au 3° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, ainsi que le nom et le prénom des représentants légaux;
+
+5° le numéro d'agrément du responsable PEB;
+
+6° un descriptif de l'état du bâtiment et des mesures mises en oeuvre afin de respecter les exigences PEB et d'électromobilité;
+
+7° un descriptif des travaux restant à accomplir pour que les exigences PEB et d'électromobilité soient respectées;
+
+8° un exposé de la manière dont les conclusions de l'étude de faisabilité technique, environnementale et économique ont été prises en considération et, lorsque les conclusions de l'étude de faisabilité technique, environnementale et économique ne sont pas suivies, la justification technique ou socioéconomique de cette décision;
+
+9° une estimation du résultat attendu du calcul de la performance énergétique du bâtiment ou de l'unité PEB concernée PEB;
+
+10° la signature du déclarant PEB et du responsable PEB]<sup>2</sup>.
+
+Le Gouvernement peut [<sup>2</sup> préciser et ]<sup>2</sup> compléter le contenu de la déclaration PEB provisoire.
+
+§ 2. La déclaration PEB provisoire est établie à l'aide du logiciel associé à la méthode de calcul de la performance énergétique des bâtiments, mis à la disposition des responsables PEB par le Gouvernement. Le Gouvernement peut préciser sa forme et ses modalités d'application.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 17, 005; En vigueur : 13-02-2021&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 11, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 18
+
+§ 1er. [<sup>2</sup> La déclaration PEB finale contient :
+
+1° le numéro de dossier PEB;
+
+2° l'adresse et la référence cadastrale du terrain, du bâtiment ou de l'unité PEB concernée;
+
+3° le nom et le prénom du déclarant PEB, de l'architecte, du responsable PEB et, le cas échéant, de l'auteur d'étude de faisabilité technique, environnementale et économique, ou;
+
+4° lorsque les personnes visées au 3° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, ainsi que le nom et le prénom des représentants légaux;
+
+5° le numéro d'agrément du responsable PEB et, le cas échéant, de l'auteur d'étude de faisabilité technique, environnementale et économique;
+
+6° un descriptif des mesures mises en oeuvre afin de respecter les exigences PEB et d'électromobilité;
+
+7° un exposé de la manière dont les conclusions de l'étude de faisabilité technique, environnementale et économique ont été prises en considération et, lorsque les conclusions de l'étude de faisabilité technique, environnementale et économique ne sont pas suivies, la justification technique ou socioéconomique de cette décision;
+
+8° le résultat du calcul de la performance énergétique du bâtiment ou de l'unité PEB concernée;
+
+9° la signature du déclarant PEB, de l'architecte et du responsable PEB]<sup>2</sup>.
+
+Le Gouvernement peut [<sup>2</sup> préciser et]<sup>2</sup> compléter le contenu de la déclaration PEB finale.
+
+§ 2. La déclaration PEB finale est établie à l'aide du logiciel associé à la méthode de calcul de la performance énergétique des bâtiments, mis à la disposition des responsables PEB par le Gouvernement. Le Gouvernement peut préciser sa forme et ses modalités d'application.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 18, 005; En vigueur : 13-02-2021&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 12, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 18/1
+
+[<sup>1</sup> Le Gouvernement met en place une notice d'information relative aux droits et obligations des personnes concernées par la collecte et le traitement des données visées à l'article 14, § 1er, alinéa 1er, dans le cadre des procédures PEB et d'électromobilité.
+
+Le Gouvernement précise la forme et le contenu de la notice d'information ainsi que ses modalités d'application. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 13, 006; En vigueur : 16-07-2024&gt;
+
+### CHAPITRE IV. - Déclarant PEB, architecte, responsable PEB et auteur de l'étude de faisabilité technique, environnementale et économique
+
+###### Art. 19
+
+§ 1er. Le déclarant PEB est la personne physique ou morale tenue de respecter les exigences PEB [<sup>1</sup> et d'électromobilité]<sup>1</sup>.
+
+Lorsque cela est requis en exécution du chapitre V du présent titre, le déclarant est tenu de recourir aux services d'un responsable PEB et d'un auteur d'étude de faisabilité technique, environnementale et économique.
+
+§ 2. Sans préjudice de l'article 28, § 2, lorsque les travaux sont soumis à permis, le déclarant PEB est le demandeur de permis.
+
+A l'initiative du cédant et du cessionnaire, le responsable PEB notifie au Gouvernement la cession du permis intervenue conformément à la réglementation applicable.
+
+Le Gouvernement accuse réception de cette notification.
+
+Cet accusé de réception transfère la qualité de déclarant PEB au cessionnaire.
+
+[<sup>2</sup> La notification comprend au minimum les informations suivantes : 1° la référence du dossier PEB;
+
+2° l'adresse et la référence cadastrale du bâtiment ou de l'unité PEB concernée;
+
+3° le nom, le prénom et le numéro d'agrément du responsable PEB, ou;
+
+4° lorsque les personnes visées au 3° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise, l'adresse de leur siège social, ainsi que le nom et le prénom des représentants légaux;
+
+5° le nom, le prénom et l'adresse du domicile du cédant, ainsi que son numéro d'identification au registre national des personnes physiques ou, à défaut, son numéro d'identification auprès de la Banque - Carrefour de la Sécurité sociale, ou;
+
+6° lorsque le cédant est une personne morale, sa dénomination sociale, son numéro d'entreprise, l'adresse de son siège social, le nom et le prénom des représentants légaux et, le cas échéant, des personnes de contact, ainsi que les autres informations nécessaires en vue de les contacter;
+
+7° le nom, le prénom et l'adresse du domicile du cessionnaire, ainsi que son numéro d'identification au registre national des personnes physiques ou, à défaut, son numéro d'identification auprès de la banque - Carrefour de la sécurité sociale, ou;
+
+8° lorsque le cessionnaire est une personne morale, sa dénomination sociale, son numéro d'entreprise, l'adresse de son siège social, le nom et le prénom des représentants légaux et, le cas échéant, des personnes de contact, ainsi que les autres informations nécessaires en vue de les contacter;
+
+9° la signature du cédant, du cessionnaire et du responsable PEB.
+
+Le Gouvernement peut compléter le contenu de la notification et préciser ses modalités d'application.]<sup>2</sup>
+
+[<sup>2</sup> § 2/1. La collecte et le traitement des informations visées au paragraphe 2, alinéa 5, poursuivent les finalités suivantes :
+
+1° le traitement de la notification de cession du permis; 2° l'exercice des contrôles visés au Titre 6.
+
+Le Gouvernement désigne les fonctionnaires et les agents qui accèdent aux informations visées au paragraphe 2, alinéa 5, en vue de l'exercice des finalités visées à l'alinéa 1er.
+
+Le Gouvernement conserve les données visées au paragraphe 2, alinéa 5, jusqu'au 31 décembre de la cinquième année qui suit l'année au cours de laquelle la procédure PEB prend fin.
+
+Le Gouvernement fixe la durée de consultation et d'utilisation des informations visées au paragraphe 2, alinéa 5, en considération de la durée nécessaire à l'exercice des finalités visées à l'alinéa 1er. ]<sup>2</sup>
+
+§ 3. Lorsque les travaux ne sont pas soumis à permis, le déclarant PEB est le maître d'ouvrage.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 19, 005; En vigueur : 13-02-2021&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 14, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 20
+
+§ 1er. Le responsable PEB est une personne physique ou morale agréée par le Gouvernement.
+
+§ 2. Le responsable PEB assume les missions suivantes :
+
+1° il évalue les dispositions envisagées par l'architecte ou le déclarant PEB pour respecter les exigences PEB [<sup>1</sup> et d'électromobilité]<sup>1</sup>;
+
+2° à la demande de l'architecte ou du déclarant PEB, il l'assiste dans la conception des mesures à mettre en oeuvre pour atteindre les exigences PEB [<sup>1</sup> et d'électromobilité]<sup>1</sup>;
+
+3° dans le cadre de la réalisation des travaux, il constate les mesures mises en oeuvre pour respecter les exigences PEB [<sup>1</sup> et d'électromobilité]<sup>1</sup>. Lorsqu'il constate, en cours de réalisation du projet, que celui-ci s'écarte ou pourrait s'écarter des exigences PEB et [<sup>1</sup>et d'électromobilité ]<sup>1</sup> il en informe immédiatement le déclarant PEB et l'architecte;
+
+4° il remplit les documents procéduraux relatifs aux exigences PEB [<sup>1</sup> et d'électromobilité]<sup>1</sup> et, après avoir reçu l'aval du déclarant PEB et de l'architecte, les adresse au Gouvernement dans les formes requises.
+
+Par dérogation à l'article 21, pour les bâtiments d'une superficie utile totale de moins de 1 000 m<sup>2</sup>, le responsable PEB peut réaliser l'étude de faisabilité technique, environnementale et économique.
+
+§ 3. L'architecte, l'entrepreneur et le déclarant PEB sont tenus de fournir au responsable PEB tout document ou toute information nécessaire à l'accomplissement de ses missions.
+
+Le responsable PEB a librement accès au chantier dans une mesure nécessaire à l'exécution de ses missions.
+
+§ 4. [<sup>2</sup> Dans l'exercice de ses fonctions, le responsable PEB collecte et traite les données nécessaires, visées à l'article 14, § 1er, alinéa 1er, à l'aide du logiciel associé à la méthode de calcul de la performance énergétique et des formulaires mis à sa disposition ]<sup>2</sup>.
+
+Il conserve, pendant cinq ans, toutes les preuves des constats réalisés.
+
+[<sup>2</sup> Il collecte, traite et conserve les informations visées à l'alinéa 1er aux seules fins de l'exercice de ses missions réglementaires.
+
+Il ne conserve pas les informations visées à l'article 14, § 1er, alinéa 1er, 2°, au-delà de leur enregistrement dans la base de données PEB.
+
+Toute communication des informations visées à l'alinéa 1er à des tiers est interdite.
+
+Le Gouvernement peut préciser les modalités d'application du présent article. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 20, 005; En vigueur : 13-02-2021&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 15, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 21
+
+§ 1er. L'auteur de l'étude de faisabilité technique, environnementale et économique est une personne physique ou morale agréée par le Gouvernement.
+
+§ 2. L'auteur de l'étude de faisabilité technique, environnementale et économique assume les missions suivantes :
+
+1° il [<sup>1</sup> collecte les informations nécessaires et ]<sup>1</sup> élabore l'étude de faisabilité technique, environnementale et économique;
+
+2° après avoir reçu l'aval du déclarant PEB, il adresse l'étude au Gouvernement dans les formes requises.
+
+[<sup>1</sup> 3° il collecte et traite les données nécessaires, visées à l'article 14, § 1er, alinéa 1er.
+
+Il collecte, traite et conserve les informations visées à l'alinéa 1er aux seules fins de l'exercice de ses missions réglementaires.
+
+Il ne conserve pas les informations visées à l'article 14, § 1er, alinéa 1er, 2°, au-delà de leur enregistrement dans la base de données PEB.
+
+Toute communication des informations visées à l'alinéa 1er à des tiers est interdite.
+
+Le Gouvernement précise les modalités d'application du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 16, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 22
+
+L'architecte conçoit un projet qui respecte les exigences PEB [<sup>1</sup> et d'électromobilité]<sup>1</sup> et contrôle que l'exécution des travaux permet de respecter ces exigences.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 21, 005; En vigueur : 13-02-2021&gt;
+
+### CHAPITRE V. [<sup>1</sup> Procédures PEB et d'électromobilité ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 22, 005; En vigueur : 13-02-2021&gt;
+
+#### Section 1re. - Actes et travaux soumis à permis
+
+##### Sous-section 1re. - Construction de bâtiment
+
+###### Art. 23
+
+§ 1er. Lorsqu'une demande de permis a pour objet la construction d'un bâtiment, l'étude de faisabilité technique, environnementale et économique et la déclaration PEB initiale sont jointes, par le déclarant PEB, au dossier de demande de permis.
+
+Préalablement au dépôt de la demande, la déclaration PEB initiale est enregistrée par le responsable PEB et l'étude de faisabilité technique, environnementale et économique est enregistrée par l'auteur agréé dans la base de données visée à l'article 14. Avec l'accord de l'auteur agréé, le responsable PEB peut enregistrer l'étude de faisabilité technique, environnementale et économique dans la même base de données avec la déclaration PEB initiale.
+
+§ 2. [<sup>1</sup> Lorsque le déclarant PEB estime que sa demande peut bénéficier, en tout ou en partie, d'une des exceptions aux exigences PEB établies à l'article 10, ou d'une des exceptions aux exigences d'électromobilité établies en vertu de l'article 13/3, § 2, il établit une note justificative qui indique l'exception applicable.
+
+Lorsque la note justificative concerne une partie du projet, elle est intégrée dans la déclaration PEB initiale.
+
+Lorsque la note justificative concerne l'ensemble du projet, elle est jointe à la demande de permis, à la place de l'étude de faisabilité technique, environnementale et économique et de la déclaration PEB initiale.
+
+Le déclarant PEB qui ne joint pas de note justificative à sa demande renonce à l'exception]<sup>1</sup>.
+
+[<sup>2</sup> § 3. La note justificative contient au minimum les informations suivantes :
+
+1° l'adresse et la référence cadastrale du terrain, du bâtiment ou de l'unité PEB concernée;
+
+2° l'identification précise de la partie du projet concernée par l'exception;
+
+3° les informations nécessaires à la vérification de l'exception applicable.
+
+Lorsque l'exception s'applique à l'ensemble des travaux, la note justificative contient, outre les éléments visés à l'alinéa 1er, les informations suivantes :
+
+1° le nom, le prénom, l'adresse du domicile, le numéro d'identification au registre national des personnes physiques ou, à défaut, le numéro d'identification auprès de la Banque-Carrefour de la Sécurité sociale du déclarant PEB et, lorsque son intervention est requise, de l'architecte, et leur numéro de téléphone et leur adresse de courrier électronique, ou;
+
+2° lorsque les personnes visées au 1° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, le nom et le prénom des représentants légaux et, le cas échéant, des personnes de contact, ainsi que leur numéro de téléphone et leur adresse de courrier électronique.
+
+La collecte et le traitement des informations visées aux alinéas 1er et 2 poursuivent les finalités suivantes :
+
+1° l'établissement et la correction des documents procéduraux relatifs aux exigences PEB et d'électromobilité;
+
+2° l'exercice des contrôles visés au Titre 6;
+
+3° la vérification, dans le cadre de l'analyse de la composition du dossier de demande de permis, que le projet pourra répondre aux exigences PEB et d'électromobilité, conformément à l'article 16, § 1er, alinéa 1er, 7° ;
+
+4° la réalisation de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments;
+
+5° l'assistance fournie aux personnes concernées pour leur permettre de respecter leurs obligations.
+
+§ 4. Le Gouvernement peut compléter le contenu de la note justificative et préciser ses modalités d'application.
+
+Le Gouvernement conserve les informations visées au paragraphe 3, alinéas 1er et 2, jusqu'au 31 décembre de la cinquième année qui suit l'année au cours de laquelle la procédure PEB prend fin.
+
+Le Gouvernement organise, à l'expiration du délai visé à l'alinéa 2, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments, des informations visées au paragraphe 3, alinéas 1er et 2.
+
+§ 5. Les fonctionnaires et les agents visés à l'article 61 accèdent aux informations visées au paragraphe 3, alinéas 1er et 2, qui concernent les seuls bâtiments qui se situent sur leur territoire ou relevant de leur compétence, en vue de l'exercice des finalités visées au paragraphe 3, alinéa 3, 2° et 3°.
+
+Le Gouvernement désigne les autres fonctionnaires et les agents qui accèdent aux informations visées au paragraphe 3, alinéas 1er et 2, en vue de l'exercice des finalités visées au paragraphe 3, alinéa 3, 2°, 3°, 4° et 5°.
+
+Le Gouvernement précise les informations auxquelles les personnes visées aux alinéas 1er et 2 peuvent accéder, ainsi que les modalités d'accès à ces informations.
+
+Le Gouvernement fixe la durée de consultation et d'utilisation des informations en considération de la durée nécessaire à l'exercice des finalités visées au paragraphe 3, alinéa 3. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 17,2°, 006; En vigueur : 16-07-2024&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 17,3°, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 24
+
+La déclaration PEB finale est adressée au Gouvernement dans les douze mois de l'occupation du bâtiment ou de l'achèvement du chantier et, en tout cas, au terme du délai de validité du permis.
+
+Préalablement à sa notification au Gouvernement, la déclaration PEB finale est enregistrée par le responsable PEB dans la base de données visée à l'article 14.
+
+##### Sous-section 2. - Travaux de rénovation importante
+
+###### Art. 25
+
+§ 1er. Lorsqu'une demande de permis a pour objet des travaux de rénovation importante, la déclaration PEB initiale est jointe, par le déclarant PEB, au dossier de demande de permis.
+
+Préalablement au dépôt de la demande, elle est enregistrée par le responsable PEB dans la base de données visée à l'article 14.
+
+§ 2.[<sup>1</sup> § 2. Lorsque le déclarant PEB estime que sa demande peut bénéficier, en tout ou en partie, d'une des exceptions aux exigences PEB établies à l'article 10, ou d'une des exceptions aux exigences d'électromobilité établies en vertu de l'article 13/3, § 2, il établit une note justificative qui indique l'exception applicable.
+
+Lorsque la note justificative concerne une partie du projet, elle est intégrée dans la déclaration PEB initiale.
+
+Lorsque la note justificative concerne l'ensemble du projet, elle est jointe à la demande de permis, à la place de la déclaration PEB initiale.
+
+Le déclarant PEB qui ne joint pas de note justificative à sa demande renonce à l'exception]<sup>1</sup>.
+
+[<sup>2</sup> § 3. La note justificative contient au minimum les informations suivantes :
+
+1° l'adresse et la référence cadastrale du terrain, du bâtiment ou de l'unité PEB concernée;
+
+2° l'identification précise de la partie du projet concernée par l'exception;
+
+3° les informations nécessaires à la vérification de l'exception applicable.
+
+Lorsque l'exception s'applique à l'ensemble des travaux, la note justificative contient, outre les éléments visés à l'alinéa 1er, les informations suivantes :
+
+1° le nom, le prénom, l'adresse du domicile, le numéro d'identification au registre national des personnes physiques ou, à défaut, le numéro d'identification auprès de la BanqueCarrefour de la Sécurité sociale du déclarant PEB et, lorsque son intervention est requise, de l'architecte, et leur numéro de téléphone et leur adresse de courrier électronique, ou;
+
+2° lorsque les personnes visées au 1° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, le nom et le prénom des représentants légaux et, le cas échéant, des personnes de contact, ainsi que leur numéro de téléphone et leur adresse de courrier électronique.
+
+La collecte et le traitement des informations visées aux alinéas 1er et 2 poursuivent les finalités suivantes :
+
+1° l'établissement et la correction des documents procéduraux relatifs aux exigences PEB et d'électromobilité;
+
+2° l'exercice des contrôles visés au Titre 6;
+
+3° la vérification, dans le cadre de l'analyse de la composition du dossier de demande de permis, que le projet pourra répondre aux exigences PEB et d'électromobilité, conformément à l'article 16, § 1er, alinéa 1er, 7° ;
+
+4° la réalisation de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments;
+
+5° l'assistance fournie aux personnes concernées pour leur permettre de respecter leurs obligations.
+
+§ 4. Le Gouvernement peut compléter le contenu de la note justificative et préciser ses modalités d'application.
+
+Le Gouvernement conserve les informations visées au paragraphe 3, alinéas 1er et 2, jusqu'au 31 décembre de la cinquième année qui suit l'année au cours de laquelle la procédure PEB prend fin.
+
+Le Gouvernement organise, à l'expiration du délai visé à l'alinéa 2, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments, des données visées au paragraphe 3, alinéas 1er et 2.
+
+§ 5. Les fonctionnaires et les agents des communes visés à l'article 61 accèdent aux informations visées au paragraphe 3, alinéas 1er et 2, qui concernent les seuls bâtiments qui se situent sur leur territoire ou relevant de leur compétence, en vue de l'exercice des finalités visées au paragraphe 3, alinéa 3, 2° et 3°.
+
+Le Gouvernement désigne les autres fonctionnaires et les agents qui accèdent aux informations visées au paragraphe 3, alinéas 1er et 2, en vue de l'exercice des finalités visées au paragraphe 3, alinéa 3, 2°, 3°, 4° et 5°.
+
+Le Gouvernement précise les informations auxquelles les personnes visées aux alinéas 1er et 2, peuvent accéder, ainsi que les modalités d'accès à ces informations.
+
+Le Gouvernement fixe la durée de consultation et d'utilisation des informations en considération de la durée nécessaire à l'exercice des finalités visées au paragraphe 3, alinéa 3. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 19,2°, 006; En vigueur : 16-07-2024&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 19,3°, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 26
+
+La déclaration PEB finale est adressée au Gouvernement dans les douze mois de l'achèvement du chantier et, en tout cas, au terme du délai de validité du permis.
+
+Préalablement à sa notification au Gouvernement, la déclaration PEB finale est enregistrée par le responsable PEB dans la base de données visée à l'article 14.
+
+##### Sous-section 3. - Travaux de rénovation simple et changements de destination
+
+###### Art. 27
+
+Lorsqu'une demande de permis a pour objet des travaux de rénovation simple ou un changement de destination, la déclaration PEB simplifiée est jointe, par le déclarant PEB, au dossier de demande de permis.
+
+Lorsque le déclarant PEB estime que sa demande peut bénéficier, en tout ou en partie, d'une des exceptions aux exigences PEB établies à l'article 10, il joint à sa demande de permis, pour la partie concernée, à la place de la déclaration PEB simplifiée, une note justificative indiquant l'exception applicable.
+
+##### Sous-section 4. - Vente ou location en cours de procédure PEB
+
+###### Art. 28
+
+§ 1er. Toute personne qui met en vente ou en location un bâtiment ou une unité PEB faisant l'objet d'une procédure PEB est tenue de disposer d'une déclaration PEB provisoire avant la mise en vente ou en location.
+
+[<sup>1</sup> Une copie de la déclaration PEB provisoire est communiquée à tout candidat acquéreur ou locataire qui en fait la demande.]<sup>1</sup>
+
+A la demande du déclarant PEB, le responsable PEB établit la déclaration PEB provisoire, l'enregistre dans la base de données visée à l'article 14 puis la remet au déclarant PEB.
+
+Le Gouvernement précise les délais dans lesquels la déclaration PEB provisoire est établie, enregistrée dans la base de données et remise au déclarant PEB.
+
+§ 2. En cas de vente, la qualité de déclarant PEB est transférée à l'acquéreur, pour le bâtiment ou l'unité PEB concerné, aux conditions suivantes :
+
+1° la convention de vente reprend en annexe la déclaration PEB provisoire relative au bâtiment ou à l'unité PEB concerné;
+
+2° la convention de vente précise que la qualité de déclarant PEB est transférée à l'acquéreur en identifiant le bâtiment ou l'unité PEB concerné;
+
+3° le vendeur et l'acquéreur notifient conjointement au Gouvernement le transfert de la qualité de déclarant PEB.
+
+Le Gouvernement accuse réception de la notification. Cet accusé de réception transfère la qualité de déclarant PEB à l'acquéreur.
+
+[<sup>1</sup> La notification comprend au minimum les informations suivantes : 1° la référence du dossier PEB;
+
+2° l'adresse et la référence cadastrale du bâtiment ou de l'unité PEB concernée;
+
+3° le nom, le prénom, l'adresse du domicile du vendeur, ainsi que son numéro d'identification au registre national des personnes physiques ou, à défaut, son numéro d'identification auprès de la Banque-Carrefour de la Sécurité sociale, ou;
+
+4° lorsque le vendeur est une personne morale, sa dénomination sociale, son numéro d'entreprise et l'adresse de son siège social;
+
+5° le nom, le prénom, l'adresse du domicile de l'acquéreur, ainsi que son numéro d'identification au registre national des personnes physiques ou, à défaut, son numéro d'identification auprès de la banque - Carrefour de la sécurité sociale, ou;
+
+6° lorsque l'acquéreur est une personne morale, sa dénomination sociale, son numéro d'entreprise et l'adresse de son siège social;
+
+7° la signature du vendeur et de l'acquéreur.
+
+Le Gouvernement désigne les fonctionnaires et les agents qui accèdent aux informations visées à l'alinéa 3 en vue de l'exercice des contrôles visés au Titre 6.
+
+Le Gouvernement fixe la durée de consultation et d'utilisation des informations visées au paragraphe 2, alinéa 3, et au paragraphe 3, alinéa 4, en considération de la durée nécessaire à l'exercice des finalités visées à l'alinéa 1er.
+
+Le Gouvernement peut compléter le contenu de la notification et préciser ses modalités d'application.
+
+Le Gouvernement conserve les données visées à l'alinéa 3 jusqu'au 31 décembre de la cinquième année qui suit l'année au cours de laquelle la procédure PEB prend fin.
+
+Le Gouvernement organise, à l'expiration du délai visé à l'alinéa 7, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments, des données visées à l'alinéa 3 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 22, 006; En vigueur : 16-07-2024&gt;
+
+#### Section 2. - Actes et travaux non soumis à permis
+
+###### Art. 29
+
+Lorsque la construction d'une unité PEB, la réalisation d'une rénovation importante ou simple, le changement de destination, ou l'installation, le remplacement ou la modernisation de systèmes n'est pas soumis à permis, le Gouvernement peut déterminer les modalités d'application pour que les exigences PEB [<sup>1</sup> Procédures PEB et d'électromobilité1 soient respectées.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 23, 005; En vigueur : 13-02-2021&gt;
+
+## Titre 4. - Certificats de performance énergétique des bâtiments
+
+### CHAPITRE Ier. - Régime de la certification
+
+###### Art. 30
+
+§ 1er. Les certificats PEB sont établis sur la base de la méthode de calcul définie au titre 2, par des personnes agréées.
+
+En ce qui concerne le logement social, le Gouvernement est habilité à définir une méthode alternative pour l'établissement des certificats PEB.
+
+§ 2. [<sup>1</sup> Les certificats PEB contiennent :
+
+1° le code unique du certificat;
+
+2° l'adresse et la référence cadastrale du bâtiment ou de l'unité PEB;
+
+3° une photographie extérieure du bâtiment qui identifie l'unité PEB concernée;
+
+4° le nom et le prénom du certificateur PEB, ou;
+
+5° lorsque le certificateur PEB est une personne morale, sa dénomination sociale, son numéro d'entreprise et l'adresse de son siège social, ainsi que le nom et le prénom des représentants légaux;
+
+6° le numéro d'agrément du certificateur PEB;
+
+7° l'évaluation de la performance énergétique du bâtiment ou de l'unité PEB;
+
+8° des valeurs de référence telles que les exigences minimales en matière de performance énergétique;
+
+9° les recommandations techniquement réalisables qui visent l'amélioration optimale en fonction des coûts du bâtiment ou de l'unité PEB, et qui concernent la rénovation, en tout ou en partie, de l'enveloppe ou des systèmes techniques du bâtiment ou de l'unité PEB, et les mesures à prendre pour mettre en oeuvre les recommandations;
+
+10° le lieu où la personne intéressée peut trouver des informations complémentaires sur les éléments contenus dans le certificat PEB;
+
+11° dans l'hypothèse visée à l'article 35, l'identification de l'autorité publique occupant le bâtiment;
+
+12° la signature du certificateur PEB.
+
+Les recommandations et les mesures visées à l'alinéa 1er, 9°, visent à atteindre les objectifs de la trajectoire de rénovation du bâtiment ou de l'unité PEB, déterminés conformément à la stratégie de rénovation visée à l'article 8/1.
+
+Les recommandations et les mesures visées à l'alinéa 2 comprennent une estimation du coût des travaux.
+
+Le Gouvernement détermine les modalités d'application des alinéas 2 et 3. ]<sup>2</sup>
+
+§ 3. Les certificats PEB peuvent contenir :
+
+1° le délai d'amortissement des investissements recommandés et les avantages financiers qui peuvent en être retirés durant leur durée de vie économique;
+
+2° le pourcentage d'énergie produite à partir de sources renouvelables dans la consommation énergétique totale et la consommation énergétique annuelle.
+
+§ 4. Pour les unités PEB, la certification peut être établie sur la base :
+
+1° d'une certification commune pour l'ensemble du bâtiment;
+
+2° de l'évaluation d'une autre unité PEB représentative ayant les mêmes caractéristiques au regard de l'énergie, située dans le même bâtiment.
+
+Pour les habitations individuelles, la certification peut être établie sur la base de l'évaluation d'un autre bâtiment représentatif d'une conception et d'une taille semblables et dont les performances énergétiques avérées sont analogues, pour autant que cette similitude puisse être garantie par la personne agréée qui délivre le certificat PEB.
+
+§ 5. La durée de validité des certificats PEB est de dix ans au maximum.
+
+Le Gouvernement précise le contenu, la durée et les conditions de validité des certificats PEB.
+
+Il peut également déterminer leur forme et leurs modalités d'application.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 23, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 31
+
+§ 1er. Les unités résidentielles qui disposent d'une installation commune telle qu'une installation de chauffage, de production d'eau chaude sanitaire, de ventilation ou de panneaux solaires ou photovoltaïques font l'objet d'un rapport partiel des données relatives à ces éléments communs.
+
+Le rapport partiel est établi sur la base de la méthode de calcul définie au titre 2, par des personnes agréées.
+
+[<sup>1</sup> Le rapport partiel contient au minimum les informations suivantes : 1° le code unique du rapport partiel;
+
+2° l'adresse et la référence cadastrale des bâtiments ou unités concernés par le rapport partiel;
+
+3° le nom et le prénom du certificateur PEB ou du responsable PEB, ou;
+
+4° lorsque la personne visée au 3° est une personne morale, sa dénomination sociale, son numéro d'entreprise et l'adresse de son siège social;
+
+5° le numéro d'agrément du certificateur PEB ou du responsable PEB; 6° la signature du certificateur PEB ou du responsable PEB;
+
+7° la description des installations communes visées à l'alinéa 1er]<sup>1</sup>.
+
+Pour chaque unité PEB, le certificat PEB est établi en utilisant, d'une part, le rapport partiel et, d'autre part, les données propres à l'unité PEB.
+
+Les associations de copropriétaires sont tenues de disposer d'un rapport partiel et de le mettre gratuitement à disposition de tout propriétaire ou titulaire de droit réel d'une unité PEB reliée à l'installation commune.
+
+§ 2. Le Gouvernement peut étendre les obligations visées au § 1er à d'autres unités PEB et à d'autres personnes.
+
+§ 3. Le rapport partiel a une durée de validité de dix ans au maximum.
+
+Le Gouvernement précise le contenu, la durée et les conditions de validité des rapports partiels. Il détermine également leur forme et leurs modalités d'application.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 24, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 32
+
+§ 1er.[<sup>1</sup> Le Gouvernement organise et gère une base de données qui contient tous les certificats PEB et tous les rapports partiels, ainsi que les donées suivantes :
+
+1° les données nécessaires à l'évaluation de la performance énergétique du bâtiment ou de l'unité PEB;
+
+2° le nom, le prénom, l'adresse du domicile, le numéro d'identification au registre national des personnes physiques ou, à défaut, le numéro d'identification auprès de la Banque-Carrefour de la Sécurité sociale du certificateur PEB et du titulaire de droit réel sur le bâtiment ou l'unité PEB, ainsi que les autres informations nécessaires en vue de les contacter, ou;
+
+3° lorsque les personnes visées au 2° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, le nom et le prénom des représentants légaux et, le cas échéant, des personnes de contact, ainsi que les autres informations nécessaires en vue de les contacter, ou;
+
+4° dans l'hypothèse visée à l'article 31, la dénomination sociale, le numéro d'entreprise et l'adresse du siège social de l'association des copropriétaires, ainsi que le nom et le prénom des représentants légaux et, le cas échéant, des personnes de contact, ainsi que les autres informations nécessaires en vue de les contacter;
+
+5° dans l'hypothèse visée à l'article 35, les informations nécessaires en vue d'identifier et de contacter l'autorité publique qui occupe le bâtiment.
+
+La collecte et le traitement des informations visées à l'alinéa 1er poursuivent les finalités suivantes :
+
+1° l'établissement, la correction et la mise à jour ou le renouvèlement des certificats PEB et des rapports partiels;
+
+2° les finalités d'information visées aux articles 34, § 4, et 39/1, § 1er, alinéa 2;
+
+3° l'exercice des contrôles visés aux chapitres IV et V du Titre 5;
+
+4° l'exercice des contrôles visés au Titre 6;
+
+5° la réalisation de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments;
+
+6° l'assistance fournie aux personnes concernées pour leur permettre de respecter leurs obligations, ainsi que la réalisation de politiques publiques de sensibilisation et de mobilisation sur les enjeux climatiques;
+
+7° la vérification de la performance énergétique du bâtiment ou de l'unité PEB en vue du financement de sa construction, de son acquisition ou de sa rénovation énergétique par un crédit, ainsi que le respect des obligations de rapportage applicables au portefeuille de crédit des prêteurs.
+
+§ 2. Le Gouvernement peut compléter la liste des informations visées au paragraphe 1er, alinéa 1er.
+
+Par dérogation à l'alinéa 2, la durée de conservation des informations visées au paragraphe 1er, alinéa 1er, 2°, 3°, 4° et 5°, ne dépasse pas le 31 décembre de la cinquième année qui suit l'année au cours de laquelle la validité du certificat PEB ou du rapport partiel prennent fin.
+
+Le Gouvernement organise, à l'expiration des délais visés aux alinéas 2 et 3, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments, des données visées au paragraphe 1er, alinéa 1er.
+
+§ 3. Les certificateurs PEB accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments pour lesquels ils sont désignés en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 1°.
+
+§ 4. Les officiers instrumentant accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments mis en vente ou en location pour lesquels ils sont désignés en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°.
+
+§ 5. Les agents immobiliers accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments mis en vente ou en location pour lesquels ils sont désignés en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°.
+
+§ 6. Les candidats acquéreurs ou locataires accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments mis en vente ou en location, en vue de l'exercice de la finalité visée au paragraphe 1er, alinéa 2, 2°.
+
+§ 7. Les titulaires de droit réel sur le bâtiment ou l'unité PEB accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments sur lesquels ils disposent d'un droit réel, en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°.
+
+§ 8. Les prêteurs accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments pour lesquels ils interviennent en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 7°.
+
+§ 9. Le Gouvernement désigne les fonctionnaires et les agents qui accèdent aux informations enregistrées dans la base de données en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°, 3°, 4°, 5° et 6°.
+
+Le Gouvernement précise les informations auxquelles les personnes visées aux paragraphes 3, 4, 5, 6, 7 et 8 et à l'alinéa 1er, peuvent accéder, ainsi que les modalités d'accès à ces informations.
+
+Le Gouvernement fixe, pour chacune des personnes visées aux paragraphes 2, 3, 4, 5, 6, 7 et 8, ainsi qu'à l'alinéa 1er, la durée de consultation et d'utilisation des informations en considération de la durée nécessaire à l'exercice des finalités visées au paragraphe 1er ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 25, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 32/1
+
+[<sup>1</sup> § 1er. Pour l'application de l'article 32, § 1er, alinéa 2, 5° et 6°, la communication de données à caractère personnel sur la base de l'article 6.1., c) ou e), du RGPD à toute autre autorité publique ou organisation privée, est formalisée pour chaque type de traitement par un protocole entre le responsable du traitement initial et le responsable du traitement destinataire des données.
+
+Ce protocole prévoit notamment :
+
+1° l'identification de l'autorité publique qui communique les données à caractère personnel et celle du destinataire;
+
+2° l'identification du responsable du traitement des données au sein de l'autorité publique qui communique les données et l'identification du responsable du traitement des données au sein du destinataire;
+
+3° les coordonnées des délégués à la protection des données concernés au sein de l'autorité publique qui communique les données ainsi que, le cas échéant, les coordonnées du destinataire;
+
+4° les finalités pour lesquelles les données à caractère personnel sont communiquées;
+
+5° les catégories de données à caractère personnel communiquées et leur format;
+
+6° les catégories de destinataires;
+
+7° la base légale qui autorise la communication des données;
+
+8° les modalités de communication utilisées pour la communication des données;
+
+9° toute mesure spécifique qui encadre la communication des données conformément au principe de proportionnalité et aux exigences de protection des données dès la conception et par défaut;
+
+10° les restrictions légales applicables aux droits de la personne concernée;
+
+11° les modalités d'exercice des droits de la personne concernée auprès du destinataire;
+
+12° la périodicité de la communication des données;
+
+13° la durée du protocole;
+
+14° les sanctions applicables en cas de non-respect du protocole.
+
+§ 2. Le protocole est adopté après les avis respectifs du délégué à la protection des données de l'autorité publique qui détient les données à caractère personnel et, le cas échéant, du destinataire. Ces avis sont annexés au protocole. Lorsqu'au moins un de ces avis n'est pas suivi par les responsables du traitement, le protocole mentionne, en ses dispositions introductives, la ou les raisons pour laquelle ou lesquelles cet ou ces avis n'ont pas été suivis.
+
+Le Gouvernement publie le protocole sur son site internet. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 26, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 32/2
+
+[<sup>1</sup> Le Gouvernement met en place une notice d'information relative aux droits et obligations des personnes concernées par la collecte et le traitement des données visées à l'article 32, § 1er, alinéa 1er, dans le cadre de la certification PEB.
+
+Le Gouvernement précise la forme et le contenu de la notice d'information ainsi que ses modalités d'application . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 27, 006; En vigueur : 16-07-2024&gt;
+
+### CHAPITRE II. - Obligations de disposer d'un certificat PEB
+
+###### Art. 33
+
+A l'issue d'une procédure PEB relative à la construction d'un bâtiment ou d'une unité PEB, le déclarant PEB dispose d'un certificat PEB du bâtiment ou de l'unité PEB.
+
+Lorsqu'il enregistre la déclaration PEB finale dans la base de données visée à l'article 14, le responsable PEB établit le certificat PEB du bâtiment ou de l'unité PEB qui a fait l'objet de la procédure PEB.
+
+Il enregistre le certificat PEB dans la base de données visée à l'article 32 puis le communique, sans délai, au déclarant PEB.
+
+Le certificat PEB établi à l'issue d'une procédure PEB est renouvelé selon les modalités déterminées par le Gouvernement.
+
+###### Art. 34
+
+§ 1er. [<sup>1</sup> Afin de permettre aux candidats acquéreurs et aux candidats locataires de s'informer sur la performance énergétique d'un bâtiment ou d'une unité PEB, toute personne qui met en vente ou en location un bâtiment ou une unité PEB dispose d'un certificat PEB avant la mise en vente ou en location.
+
+Dans l'hypothèse visée à l'alinéa 1er, le certificat PEB est communiqué à chaque candidat acquéreur ou locataire qui en fait la demande]<sup>1</sup>.
+
+Le Gouvernement détermine les modalités d'application de l'alinéa 1er lorsqu'un bâtiment ou une unité PEB est mis en vente de manière involontaire.
+
+§ 2. Par exception au § 1er, si le bâtiment est acquis pour être démoli, il ne doit pas être certifié lorsque la convention mentionne que le bien est acquis pour être démoli et que le récépissé du dépôt de la demande de permis de démolir le bien est joint à la convention.
+
+Le Gouvernement peut préciser les modalités d'application de l'alinéa 1er.
+
+§ 3. Préalablement à la mise en vente ou en location d'un bâtiment ou d'une unité PEB faisant l'objet d'une procédure PEB établie aux articles 23 et 24, si la déclaration PEB provisoire visée à l'article 28, § 1er, contient les éléments suffisants à l'établissement d'un certificat PEB, le responsable PEB établit un certificat PEB provisoire du bâtiment ou de l'unité PEB concernée lorsqu'il enregistre la déclaration PEB provisoire dans la base de données visée à l'article 14.
+
+Le Gouvernement est habilité à définir les éléments suffisants à l'établissement d'un certificat PEB provisoire.
+
+Le Gouvernement précise les délais dans lesquels le certificat PEB est établi, enregistré dans la base de données et communiqué au déclarant PEB.
+
+Le certificat PEB provisoire est valable tant qu'un certificat PEB visé à l'article 33 n'a pas été établi et au plus tard jusqu'au moment où la déclaration finale doit être adressée au Gouvernement en vertu de l'article 24.
+
+Lorsqu'un certificat PEB provisoire a été communiqué à [<sup>1</sup> un acquéreur ou à ]<sup>1</sup> un locataire, le certificat PEB visé à l'article 33 est transmis sans délai [<sup>1</sup> à l'acquéreur ou ]<sup>1</sup> au locataire lorsqu'il est établi.
+
+Le Gouvernement fixe les modalités de l'alinéa 5.
+
+§ 4.[<sup>1</sup> Le Gouvernement détermine le ou les indicateurs de performance énergétique et les informations visées à l'article 30, § 2, qui sont mentionnés dans toutes les publicités réalisées pour la vente ou la location du bâtiment ou de l'unité PEB ]<sup>1</sup> .
+
+Le certificat PEB est communiqué à l'acquéreur ou au locataire avant la signature de la convention qui atteste que cette communication a bien été réalisée.
+
+Le Gouvernement peut préciser les modalités d'application des alinéas 1er et 2.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 28, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 35
+
+Les bâtiments dont une superficie utile totale de plus de 250 m<sup>2</sup> est occupée par une autorité publique et fréquemment visitée par le public, doivent être certifiés. L'autorité publique doit afficher le certificat PEB de manière lisible et visible par le public, sauf la partie relative aux recommandations.
+
+Lorsqu'un certificat PEB a été établi sur la base des articles 33 ou 34 pour un bâtiment d'une superficie utile totale de plus de 500 m<sup>2</sup> fréquemment visitée par le public, il doit être affiché de manière lisible et visible par le public, sauf la partie relative aux recommandations.
+
+Le Gouvernement détermine dans quelles conditions un bâtiment est considéré comme fréquemment visité par le public.
+
+###### Art. 36
+
+Par exception aux articles 34 et 35, un certificat PEB n'est pas requis pour :
+
+1° les unités PEB servant de lieu de culte et utilisées pour des activités religieuses ainsi que les unités PEB servant à offrir une assistance morale selon une conception philosophique non confessionnelle;
+
+2° les unités industrielles, les ateliers et les unités agricoles non résidentielles, faibles consommateurs d'énergie;
+
+3° les bâtiments d'une superficie utile totale inférieure à 50 m<sup>2</sup>;
+
+4° les unités agricoles non résidentielles utilisées par des entreprises qui adhèrent à une convention environnementale sectorielle au sens des articles D.82 et suivants du Code de l'Environnement en matière de performance énergétique.
+
+Le Gouvernement peut définir les modalités d'application du présent article.
+
+### CHAPITRE III. - Statuts et missions des certificateurs PEB
+
+###### Art. 37
+
+Le Gouvernement agrée en qualité de certificateurs PEB des personnes physiques ou morales.
+
+###### Art. 38
+
+[<sup>1</sup> Dans l'exercice de leurs fonctions, les certificateurs PEB collectent et traitent les données nécessaires, visées à l'article 32, § 1er, alinéa 1er, à l'application à l'aide du logiciel associé à la méthode de calcul de la performance énergétique, selon le protocole établi par le Gouvernement et mis à leur disposition]<sup>1</sup>.
+
+Ils conservent, pendant trois ans, toutes les preuves des constats réalisés dans les bâtiments et sur les installations certifiées.
+
+Avant sa remise au donneur d'ordre, les certificateurs PEB enregistrent, dans la base de données visée à l'article 32, chaque certificat PEB et rapport partiel qu'ils établissent.
+
+[<sup>1</sup> Les certificateurs collectent, traitent et conservent les informations visées à l'alinéa 1er aux seules fins de l'exercice de leurs missions réglementaires.
+
+Les certificateurs ne conservent pas les informations visées à l'article 32,
+
+§ 1er, alinéa 1er, 2°, au-delà de leur enregistrement dans la base de données.
+
+Toute communication des informations visées à l'alinéa 1er à des tiers est interdite.
+
+Le Gouvernement peut préciser les modalités d'application du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 29, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 39
+
+Les certificateurs PEB exercent leur mission en toute indépendance.
+
+Le Gouvernement détermine les modalités d'application du présent article.
+
+## Titre 4/1. [<sup>1</sup> Passeport bâtiment ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/50, art. 24, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 39/1
+
+[<sup>1</sup> § 1er. Il est institué pour chaque bâtiment un dossier global intitulé " passeport bâtiment ".
+
+Le passeport bâtiment poursuit les finalités suivantes :
+
+1° centraliser les informations relatives à l'état du bâtiment;
+
+2° informer le titulaire de droit réel sur les travaux et interventions à réaliser en vue d'améliorer l'efficacité énergétique du bâtiment, ou d'en assurer la maintenance;
+
+3° visualiser l'état d'avancement du bâtiment par rapport à ses objectifs dans le cadre de la stratégie de rénovation;
+
+4° documenter et conserver les données relatives aux certifications, attestations, autorisations, travaux, interventions et inspections réalisées ou à réaliser dans le bâtiment;
+
+5° permettre la dématérialisation des échanges entre le Gouvernement, les entreprises et le titulaire de droit réel.
+
+[<sup>2</sup> 6° la réalisation de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments.]<sup>2</sup>
+
+Le Gouvernement met en place un système permettant d'assurer une communication adéquate et sécurisée entre les intervenants.
+
+§ 2.[<sup>2</sup> Le passeport bâtiment contient les informations suivantes : 1° l'adresse du bâtiment;
+
+2° l'identifiant parcellaire cadastral de la parcelle cadastrale patrimoniale visé à l'article 10 de l'arrêté royal du 30 juillet 2018 relatif à la constitution et la mise à jour de la documentation cadastrale et fixant les modalités pour la délivrance des extraits cadastraux;
+
+3° la localisation, la nature et la description de la parcelle cadastrale;
+
+4° en ce qui concerne les titulaires de droits réels sur le bâtiment :
+
+a) leur nom, leur prénom et leur numéro d'identification au registre national des personnes physiques ou, à défaut, leur numéro d'identification auprès de la Banque-Carrefour de la Sécurité sociale, ou;
+
+b) lorsqu'un titulaire de droit réel est une personne morale, sa dénomination sociale, son numéro d'entreprise et l'adresse de son siège social, ainsi que le nom et le prénom de ses représentants légaux, leur numéro d'identification au registre national des personnes physiques ou, à défaut, leur numéro d'identification auprès de la Banque-Carrefour de la Sécurité sociale;
+
+c) la nature du ou des droits réels;
+
+5° en ce qui concerne les personnes autorisées par un titulaire de droit réel à se connecter au passeport bâtiment :
+
+a) leur nom, leur prénom et leur numéro d'identification au registre national des personnes physiques ou, à défaut, leur numéro d'identification auprès de la BanqueCarrefour de la Sécurité sociale, ou;
+
+b) lorsque les personnes autorisées à se connecter au passeport bâtiment sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, ainsi que le nom et le prénom des représentants légaux, leur numéro d'identification au registre national des personnes physiques ou, à défaut, leur numéro d'identification auprès de la Banque-Carrefour de la Sécurité sociale;
+
+6° les documents de procédure PEB, les rapports d'évaluation des systèmes, ainsi que les certificats PEB et les rapports partiels;
+
+7° l'audit énergétique ou l'audit logement relatif au bâtiment.
+
+Les données visées à l'alinéa 1er, 1°, 2°, 3° et 4°, sont conservées dans le passeport bâtiment jusqu'au 31 décembre de l'année qui suit l'année au cours de laquelle le bâtiment est détruit.
+
+Les données visées à l'alinéa 1er, 5°, sont conservées dans le passeport bâtiment jusqu'au 31 décembre de l'année au cours de laquelle le titulaire de droit réel s'est connecté au passeport bâtiment ou, lorsqu'un titulaire de droit réel autorise une personne à accéder au passeport bâtiment, jusqu'au 31 décembre de l'année au cours de laquelle cette autorisation est révoquée.
+
+Les données visées à l'alinéa 1er, 6° et 7°, sont conservées dans le passeport bâtiment pendant la durée de la connexion au passeport bâtiment.
+
+Le Gouvernement peut compléter le contenu du passeport bâtiment pour y intégrer toute autre information nécessaire à l'exercice des finalités visées au paragraphe 1er, alinéa 2]<sup>2</sup>.
+
+[<sup>2</sup> Le Gouvernement peut déterminer les outils pouvant être intégrés dans le passeport bâtiment en vue d'assurer l'information, la maintenance, le monitoring tout au long du cycle de vie du bâtiment]<sup>2</sup>.
+
+Le Gouvernement détermine la forme du passeport bâtiment.
+
+Le contenu et la forme du passeport bâtiment peuvent être différenciés en fonction des caractéristiques du bâtiment, son âge ou sa destination.
+
+§ 3.[<sup>2</sup>Le contenu du passeport bâtiment est accessible à chaque titulaire d'un droit réel sur le bâtiment, aux personnes qu'il désigne ainsi qu'à l'autorité ou aux personnes désignées par le Gouvernement pour gérer le passeport bâtiment.
+
+Chaque titulaire de droit réel accède aux informations visées au paragraphe 2, alinéas 1er et 5.
+
+Par dérogation à l'alinéa 2, le titulaire de droit réel n'accède pas au numéro d'identification au registre national des personnes physiques ou au numéro d'identification auprès de la Banque - Carrefour de la Sécurité sociale des personnes visées au paragraphe 2, alinéa 1er, 4° et 5°.
+
+Les personnes autorisées par un titulaire de droit réel accèdent aux informations visées au paragraphe 2, alinéas 1er et 5.
+
+Par dérogation à l'alinéa 4, les personnes autorisées par un titulaire de droit réel n'accèdent pas aux informations suivantes :
+
+1° le numéro d'identification au registre national des personnes physiques ou le numéro d'identification auprès de la Banque- Carrefour de la Sécurité sociale des personnes visées au paragraphe 2, alinéa 1er, 4° et 5° ;
+
+2° le nom et le prénom des titulaires de droit réel autres que le titulaire de droit réel qui leur a octroyé l'autorisation d'accès;
+
+3° le nom et le prénom des autres personnes autorisées à accéder au passeport bâtiment.
+
+Le Gouvernement désigne les fonctionnaires et les agents qui peuvent accéder au passeport bâtiment, à la demande expresse d'un titulaire de droit réel, afin de mettre à sa disposition une copie imprimée du contenu du passeport bâtiment, ou en vue d'une assistance technique.
+
+Les fonctionnaires et les agents visés à l'alinéa 6 accèdent aux informations contenues dans le passeport bâtiment aux seules fins de la gestion technique du passeport bâtiment.
+
+Le Gouvernement définit les modalités d'accès au passeport bâtiment lors de la vente du bâtiment ou de tout autre acte déclaratif, translatif ou constitutif de droit réel ]<sup>2</sup>.
+
+§ 4. [<sup>2</sup> Le Gouvernement détermine les modalités de constitution, de sauvegarde, d'échange et de modification des données du passeport bâtiment, ainsi que les mesures techniques et organisationnelles mises en place pour garantir la sécurité des données contenues dans le passeport bâtiment]<sup>2</sup>.
+
+§ 5. [<sup>2</sup> Le Gouvernement organise, à l'expiration des délais visés au paragraphe 2, alinéas 2, 3 et 4, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives à la performance énergétique des bâtiments, des informations visées respectivement au paragraphe 2, alinéa 1er ]<sup>2</sup>. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2020-12-17/50, art. 25, 005; En vigueur : 13-02-2021&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 30, 006; En vigueur : 16-07-2024&gt;
+
+## Titre 5. - Agréments
+
+### CHAPITRE Ier. - Conditions d'agrément
+
+###### Art. 40
+
+§ 1er. Peut être agréée en qualité de responsable PEB toute personne physique répondant, au moins, aux conditions suivantes :
+
+1° être titulaire d'un diplôme d'architecte, d'ingénieur civil architecte, d'ingénieur civil ou d'ingénieur industriel de bio-ingénieur ou de tout autre diplôme déterminé par le Gouvernement;
+
+2° avoir suivi une formation et réussi un examen dont les contenus sont précisés par le Gouvernement;
+
+3° ne pas avoir fait l'objet, moins de trois ans avant l'introduction de la demande d'agrément, d'une décision de retrait d'agrément visée au chapitre V du présent titre.
+
+Peut aussi être agréée toute personne morale qui compte parmi son personnel, ses préposés ou mandataires, au moins un responsable PEB agréé.
+
+§ 2. Le Gouvernement est autorisé à déterminer d'autres conditions d'agrément.
+
+§ 3. En cas de modification d'un des éléments visés au § 1er, aliénas 1er ou 2, le titulaire de l'agrément en avise immédiatement le Gouvernement.
+
+###### Art. 41
+
+§ 1er. Peut être agréée en tant qu'auteur d'étude de faisabilité, toute personne physique qui :
+
+1° justifie de titres, de qualifications ou d'une expérience dans l'étude des systèmes alternatifs de production et d'utilisation d'énergie;
+
+2° n'a pas fait l'objet, moins de trois ans avant l'introduction de la demande d'agrément, d'une décision de retrait d'agrément visée au chapitre V du présent titre.
+
+Peut aussi être agréée toute personne morale qui compte parmi son personnel ou ses collaborateurs au moins un auteur d'étude de faisabilité agréé.
+
+§ 2. Le Gouvernement est autorisé à déterminer d'autres conditions d'agrément.
+
+§ 3. En cas de modification d'un des éléments visés au § 1er, aliénas 1er ou 2, le titulaire de l'agrément en avise immédiatement le Gouvernement.
+
+###### Art. 42
+
+§ 1er. Peut être agréée en tant que certificateur PEB, toute personne physique répondant au moins aux conditions suivantes :
+
+1° être titulaire d'un diplôme d'architecte, d'ingénieur architecte, d'ingénieur civil, de bio-ingénieur, d'ingénieur industriel, de gradué en construction ou de tout autre diplôme de l'enseignement supérieur sanctionnant une formation intégrant les aspects énergétiques des bâtiments ou justifier d'une expérience d'au moins deux ans quant aux aspects énergétiques des bâtiments;
+
+2° avoir suivi une formation et réussi un examen dont les contenus sont précisés par le Gouvernement;
+
+3° ne pas avoir fait l'objet, moins de trois ans avant l'introduction de la demande d'agrément, d'une décision de retrait d'agrément visée au chapitre V du présent titre.
+
+Peut aussi être agréée toute personne morale qui compte parmi son personnel ou ses collaborateurs au moins un certificateur PEB agréé.
+
+§ 2. Le Gouvernement est autorisé à déterminer d'autres conditions d'agrément.
+
+§ 3. En cas de modification d'un des éléments visés au § 1er, aliénas 1er ou 2, le titulaire de l'agrément en avise immédiatement le Gouvernement.
+
+### CHAPITRE II. - Procédure d'agrément
+
+###### Art. 43
+
+§ 1er. [<sup>1</sup> Le Gouvernement détermine les procédures d'agrément en tenant compte des éléments suivants :
+
+1° les demandes d'agrément sont introduites auprès du Gouvernement;
+
+2° le demandeur utilise le formulaire établi par le Gouvernement à cet effet.
+
+La demande d'agrément contient au minimum les informations suivantes : 1° les nom, le prénom, l'adresse du domicile, le numéro de téléphone et
+
+l'adresse de courrier électronique du demandeur ainsi que son numéro d'identification au registre national des personnes physiques ou, à défaut, son numéro d'identification auprès de la BanqueCarrefour de la Sécurité sociale, ou;
+
+2° lorsque le demandeur est une personne morale, sa dénomination sociale, son numéro d'entreprise, l'adresse de son siège social ainsi que le nom et le prénom, le numéro de téléphone et l'adresse de courrier électronique de ses représentants légaux et, le cas échéant, des personnes de contact;
+
+3° lorsque le demandeur est une personne morale, le nom, le prénom et le numéro d'agrément des personnes physiques faisant partie du personnel, des préposés ou mandataires de la personne morale conformément aux articles 40, § 1er, alinéa 2, 41, § 1er, alinéa 2, ou 42, § 1er, alinéa 2;
+
+4° les informations nécessaires à la vérification du respect des conditions d'obtention de l'agrément;
+
+5° la signature du demandeur.
+
+Le demandeur indique, dans sa demande, l'adresse, le numéro de téléphone et l'adresse de courrier électronique qu'il souhaite voir apparaître dans la liste officielle visée à l'article 45.
+
+Le Gouvernement peut compléter le contenu de la demande d'agrément]<sup>1</sup>.
+
+§ 2. Dans les dix jours qui suivent la réception du dossier de demande d'agrément, le Gouvernement adresse au demandeur un accusé de réception qui mentionne :
+
+1° la date à laquelle la demande a été reçue;
+
+2° le délai dans lequel la décision doit intervenir;
+
+3° les voies de recours et les instances compétentes ainsi que les formes et délais à respecter.
+
+Dans un délai de quarante jours à dater de l'envoi de l'accusé de réception, le Gouvernement notifie sa décision au demandeur.
+
+Par dérogation à l'alinéa 1er, si le dossier est incomplet, le Gouvernement en informe le demandeur dans les plus brefs délais. Cette notification relève les pièces manquantes et précise que le délai visé à l'alinéa 1er, 2°, commence à courir à dater de la réception de l'ensemble des pièces manquantes.
+
+§ 3. Un droit de dossier peut être demandé à toute personne qui introduit une demande d'agrément visée au présent chapitre. Le cas échéant, le droit est réclamé à la date de la demande.
+
+Le produit des droits est versé directement et intégralement au Fonds énergie et développement durable institué par le décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz.
+
+Le montant et les modalités de perception du droit de dossier sont déterminés par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 31, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 44
+
+L'agrément prend cours à la date de la signature de l'arrêté qui l'accorde.
+
+###### Art. 45
+
+Le Gouvernement publie et tient à jour la liste des responsables PEB, des auteurs d'étude de faisabilité technique, environnementale et économique et des certificateurs PEB agréés.
+
+[<sup>1</sup> La liste visée à l'alinéa 1er comprend les informations suivantes :
+
+1° lorsqu'il s'agit de personnes physiques, le nom, le prénom et le numéro d'agrément de chaque personne agréée, ou;
+
+2° lorsqu'il s'agit de personnes morales, la dénomination sociale, l'adresse du siège social et le numéro d'agrément de chaque personne agréée;
+
+3° les informations visées à l'article 43, § 1er, alinéa 3.
+
+Le Gouvernement peut compléter le contenu et déterminer les modalités de publication de la liste visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 32, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 45/1
+
+[<sup>1</sup> Le Gouvernement met en place une notice d'information relative aux droits et obligations des personnes concernées par la collecte et le traitement des données visées à l'article 49/1, § 1er, alinéa 1er, dans le cadre des procédures d'agréments et des procédures de contrôle des personnes agréées.
+
+Le Gouvernement précise la forme et le contenu de la notice d'information ainsi que ses modalités d'application. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 33, 006; En vigueur : 16-07-2024&gt;
+
+### CHAPITRE III. - Formation par des centres agréés
+
+###### Art. 46
+
+§ 1er. Les formations dont le suivi ou la réussite conditionnent certaines possibilités d'agrément sont organisées par des centres agréés.
+
+§ 2. Pour être agréés, les centres de formation répondent aux conditions suivantes :
+
+1° être à même d'organiser les formations et les examens;
+
+2° être à même d'organiser les formations continues;
+
+3° disposer du personnel enseignant qualifié;
+
+4° disposer des équipements techniques nécessaires au bon déroulement des formations et des examens;
+
+5° ne pas avoir fait l'objet, moins de trois ans avant l'introduction de la demande d'agrément, d'une décision de retrait d'agrément visée au chapitre VI du présent titre.
+
+Le Gouvernement peut imposer d'autres conditions d'agrément.
+
+§ 3. En cas de modification d'un des éléments visés au § 2, le titulaire de l'agrément en avise immédiatement le Gouvernement.
+
+###### Art. 47
+
+§ 1er. [<sup>1</sup> Le Gouvernement détermine les procédures d'agrément en tenant compte des éléments suivants :
+
+1° la demande d'agrément des centres de formation est introduite auprès du Gouvernement;
+
+2° le demandeur utilise le formulaire établi par le Gouvernement à cet effet.
+
+La demande d'agrément contient au minimum les informations suivantes : 1° la dénomination sociale, le numéro d'entreprise et l'adresse du siège social du centre de formation ainsi que le nom, le prénom, le numéro de téléphone et l'adresse de courrier électronique des représentants légaux;
+
+2° le nom, le prénom, le numéro de téléphone et l'adresse de courrier électronique des personnes responsables des formations et examens;
+
+3° le nom, le prénom et le numéro d'agrément des membres du personnel enseignant qualifié visé à l'article 46, § 2, alinéa 1er, 3° ;
+
+4° les informations nécessaires à la vérification du respect des conditions d'obtention de l'agrément;
+
+5° la signature des personnes visées aux 1°, 2° et 3°.
+
+Le demandeur indique, dans sa demande, l'adresse, les numéros de téléphone et les adresses de courrier électronique qu'il souhaite voir apparaître dans la liste officielle visée à l'article 49.
+
+Le Gouvernement peut compléter le contenu de la demande d'agrément]<sup>1</sup>.
+
+§ 2. Dans les dix jours qui suivent la réception du dossier de demande d'agrément, le Gouvernement adresse au demandeur un accusé de réception qui mentionne :
+
+1° la date à laquelle la demande a été reçue;
+
+2° le délai dans lequel la décision doit intervenir;
+
+3° les voies de recours et les instances compétentes ainsi que les formes et délais à respecter.
+
+Dans un délai de quarante jours à dater de l'envoi de l'accusé de réception, le Gouvernement notifie sa décision au demandeur.
+
+Par dérogation à l'alinéa 1er, si le dossier est incomplet, le Gouvernement en informe le demandeur dans les plus brefs délais. Cette notification relève les pièces manquantes et précise que le délai visé à l'alinéa 1er, 2°, commence à courir à dater de la réception de l'ensemble des pièces manquantes.
+
+§ 3. Un droit de dossier peut être demandé à toute personne qui introduit une demande d'agrément visée au présent chapitre. Le cas échéant, le droit est réclamé à la date de la demande.
+
+Le produit des droits est versé directement et intégralement au Fonds énergie et développement durable institué par le décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz.
+
+Le montant et les modalités de perception du droit de dossier sont déterminés par le Gouvernement.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 34, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 48
+
+L'agrément prend cours à la date de la signature de l'arrêté qui l'accorde.
+
+###### Art. 49
+
+Le Gouvernement publie et tient à jour la liste des centres de formation agréés.
+
+[<sup>1</sup> La liste visée à l'alinéa 1er comprend les informations suivantes :
+
+1° la dénomination sociale, l'adresse du siège social et le numéro d'agrément du centre de formation agréé;
+
+2° les informations visées à l'article 47, § 1er, alinéa 3.
+
+Le Gouvernement peut compléter le contenu et déterminer les modalités de publication de la liste visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 35, 006; En vigueur : 16-07-2024&gt;
+
+### CHAPITRE III/1. [<sup>1</sup> -Base de données relative aux agréments ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 36, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 49/1
+
+[<sup>1</sup> . § 1er. Le Gouvernement organise une base de données qui contient les informations nécessaires en vue d'identifier et de contacter les candidats à l'agrément et les personnes agréées, ainsi que les informations nécessaires à la vérification du respect des conditions d'obtention et d'exercice de l'agrément.
+
+La base de données contient les informations collectées au moyen des formulaires de demande d'agrément, visées à l'article 43, § 1er, alinéas 2 et 3, et à l'article 47, § 1er, alinéas 2 et 3, ainsi que les numéros d'agrément octroyés.
+
+La collecte et le traitement des données visées aux alinéas 1er et 2 poursuivent les finalités suivantes :
+
+1° le suivi des demandes d'agrément;
+
+2° la publication et la mise à jour de la liste des responsables PEB, des auteurs d'étude de faisabilité technique, environnementale et économique et des certificateurs PEB agréés, visée à l'article 45, ainsi que de la liste des centres de formation agréés, visée à l'article 49;
+
+3° l'organisation des formations permanentes visées à l'article 50; 4° l'exercice des contrôles visés au Titre 5, chapitres IV, V et VI; 5° l'exercice des contrôles visés au Titre 6;
+
+6° la réalisation de recherches, de statistiques ou d'analyses relatives au respect de la réglementation PEB;
+
+7° l'assistance fournie aux personnes concernées pour leur permettre de respecter leurs obligations.
+
+§ 2. Le Gouvernement peut compléter la liste des informations visées au paragraphe 1er, alinéas 1er et 2.
+
+Lorsque la demande d'agrément est incomplète, le Gouvernement conserve les informations visées au paragraphe 1er, alinéas 1er et 2, et au paragraphe 1er, alinéa 2, dans la base de données jusqu'au 31 décembre de la troisième année qui suit l'année au cours de laquelle le relevé des pièces manquantes visé au paragraphe 2, alinéa 3, du décret a été notifié.
+
+Lorsque l'agrément est octroyé, le Gouvernement conserve les informations visées au paragraphe 1er, alinéas 1er et 2, et au paragraphe 1er, alinéa 2, dans la base de données pendant la durée de validité de l'agrément et, en cas de fin ou de retrait de l'agrément, jusqu'au 31 décembre de la troisième année qui suit l'année au cours de laquelle l'agrément a pris fin ou au cours de laquelle la décision de retrait n'est plus susceptible de recours.
+
+Par dérogation à l'alinéa 4, lorsque l'agrément prend fin à la demande de la personne agréée, le Gouvernement conserve les informations visées au paragraphe 1er, alinéas 1er et 2, et au paragraphe 1er, alinéa 2, dans la base de données au plus tard jusqu'au 31 décembre de l'année qui suit l'année au cours de laquelle la décision de retrait d'agrément sur base volontaire est signée.
+
+Le Gouvernement organise, à l'expiration des délais visés aux alinéas 3, 4 et 5, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives au respect de la réglementation PEB, des données visées au paragraphe 1er, alinéas 1er et 2.
+
+§ 3. Le Gouvernement désigne les fonctionnaires et les agents qui accèdent aux informations enregistrées dans la base de données en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 3.
+
+Le Gouvernement fixe la durée de consultation et d'utilisation des informations visées au paragraphe 1er, alinéas 1er et 2, en considération de la durée nécessaire en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 3. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 37, 006; En vigueur : 16-07-2024&gt;
+
+### CHAPITRE IV. - Système de contrôle indépendant et mesures de surveillance administrative
+
+###### Art. 50
+
+Les auteurs d'étude de faisabilité technique, environnementale et économique, les responsables PEB et les certificateurs PEB sont tenus de suivre les formations permanentes organisées par le Gouvernement qui ont pour but de les informer de l'évolution de la réglementation PEB et des outils mis à leur disposition.
+
+###### Art. 51
+
+Le Gouvernement ou toute autre personne désignée par le Gouvernement est habilité à contrôler les études de faisabilité technique, environnementale et économique, les déclarations PEB initiales, les déclarations PEB provisoires, les déclarations PEB finales, les déclarations PEB simplifiées et les certificats PEB.
+
+Pour ce faire, il peut exiger de l'auteur du document qu'il lui remette tous les documents de preuve qu'il a conservés.
+
+Le contrôle est effectué, soit sur la base de ces documents, soit sur la base des données constatées dans le bâtiment et sur les installations, soit sur la base des informations enregistrées dans les bases de données visées aux articles 14 et 32, soit sur la base de toute information utile en possession du contrôleur.
+
+###### Art. 52
+
+Chaque année, un pourcentage statistiquement significatif des études de faisabilité technique, environnementale et économique, déclarations PEB initiales, déclarations PEB simplifiées, déclarations PEB provisoires, déclarations PEB finales et certificats PEB enregistrés dans la base de données est contrôlé.
+
+Le Gouvernement détermine la nature du contrôle à opérer.
+
+###### Art. 53
+
+Lorsque le Gouvernement constate qu'une étude de faisabilité technique, environnementale et économique, une déclaration PEB initiale, une déclaration PEB simplifiée, une déclaration PEB provisoire, une déclaration PEB finale ou un certificat PEB est erroné, sans préjudice des possibilités de sanctions, il peut imposer à l'auteur du document de le corriger [<sup>1</sup> d'informer la personne qui a commandé le document de l'erreur et de lui communiquer la version corrigée]<sup>1</sup>.
+
+Le Gouvernement peut aussi envoyer un avertissement à l'auteur agréé du document erroné et lui imposer de suivre une formation adéquate au vu des erreurs constatées.
+
+Le Gouvernement précise les modalités d'application du présent article.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 38, 006; En vigueur : 16-07-2024&gt;
+
+### CHAPITRE V. - Sanctions des acteurs agréés
+
+###### Art. 54
+
+Lorsque qu'un responsable PEB, un auteur d'étude de faisabilité technique, environnementale et économique ou un certificateur PEB manque à ses obligations, le Gouvernement peut le sanctionner en suspendant ou en retirant son agrément.
+
+###### Art. 55
+
+Les manquements qui peuvent donner lieu à une telle sanction sont :
+
+1° la mauvaise qualité des documents PEB ou certificats PEB établis par le responsable PEB, l'auteur d'étude de faisabilité technique, environnementale et économique ou le certificateur PEB;
+
+2° les manquements aux obligations visées aux articles 20, 21, 28, 33, 34, [<sup>1</sup> 38 ]<sup>1</sup> à 39, 50 ou 53;
+
+3° l'absence de notification, par le responsable PEB, l'auteur d'étude de faisabilité technique, environnementale et économique ou le certificateur PEB, au Gouvernement, de la modification de sa situation au regard des conditions d'agrément.
+
+----------
+
+(1)&lt;DRW 2024-03-28/64, art. 39, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 56
+
+Lorsque le Gouvernement a l'intention de sanctionner un responsable PEB, un auteur d'étude de faisabilité technique, environnementale et économique ou un certificateur PEB, le Gouvernement l'en informe.
+
+Cet envoi indique :
+
+1° les manquements constatés;
+
+2° la sanction éventuellement envisagée;
+
+3° la date de l'audition où le responsable PEB, l'auteur d'étude de faisabilité technique, environnemental et économique ou le certificateur PEB est invité à faire valoir ses observations, le cas échéant accompagné de son avocat;
+
+4° la manière dont le responsable PEB, l'auteur d'étude de faisabilité technique, environnemental et économique ou le certificateur PEB peut consulter le dossier complet relatif aux manquements qui lui sont reprochés.
+
+Il est dressé procès-verbal de l'audition.
+
+Le Gouvernement envoie sa décision au responsable PEB, à l'auteur d'étude de faisabilité technique, environnemental et économique ou au certificateur PEB dans un délai de quarante jours suivant l'audition.
+
+La suspension du responsable PEB ou du certificateur PEB dure tant que la personne sanctionnée n'a pas suivi et réussi une nouvelle formation visée aux articles 40 ou 42.
+
+La durée de la suspension de l'auteur d'étude de faisabilité technique, environnementale et économique est fixée par le Gouvernement.
+
+La sanction est proportionnée à la gravité des manquements qui fondent la décision.
+
+### CHAPITRE VI. - Sanctions des centres de formation agréés
+
+###### Art. 57
+
+Lorsque qu'un centre de formation agréé manque à ses obligations, le Gouvernement peut le sanctionner en suspendant ou en retirant son agrément.
+
+###### Art. 58
+
+Lorsque le Gouvernement a l'intention de sanctionner un centre de formation agréé, il l'en informe.
+
+Cet envoi indique :
+
+1° les manquements constatés;
+
+2° la sanction éventuellement envisagée;
+
+3° la date de l'audition où le représentant du centre de formation agréé est invité à faire valoir ses observations, le cas échéant accompagné de son avocat;
+
+4° la manière dont le représentant du centre de formation agréé peut consulter le dossier complet relatif aux manquements qui sont reprochés au centre.
+
+Il est dressé procès-verbal de l'audition.
+
+Le Gouvernement envoie sa décision au centre de formation agréé dans un délai de quarante jours suivant l'audition.
+
+La suspension dure tant que le centre sanctionné n'a pas démontré qu'il est en mesure de satisfaire aux exigences des articles 46 à 49.
+
+La sanction est proportionnée à la gravité des manquements qui fondent la décision.
+
+## Titre 6. - Manquements et amendes administratives
+
+###### Art. 59
+
+Sont sanctionnés d'une amende administrative les manquements suivants :
+
+1° le fait de ne pas désigner un auteur d'étude de faisabilité technique, environnementale et économique ou un responsable PEB lorsque cela est requis;
+
+2° le fait de ne pas respecter les exigences ou les procédures PEB [<sup>1</sup> et d'électromobilité]<sup>1</sup>;
+
+3° le fait de ne pas disposer d'un certificat PEB valable, de ne pas l'afficher [<sup>2</sup> , de ne pas le communiquer au candidat acquéreur ou locataire ]<sup>2</sup> ou de ne pas mentionner le ou les indicateurs de performance énergétique dans la publicité, dans les hypothèses où cela est requis.
+
+[<sup>1</sup> 4° le fait de ne pas respecter les obligations fixées en vertu de l'article 39/1. ]<sup>1</sup>
+
+[<sup>2</sup> 5° le fait de ne pas communiquer un document de preuve en application de l'article 51, alinéa 2;
+
+6° le fait de ne pas corriger un document en application de l'article 53, alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 26, 005; En vigueur : 13-02-2021&gt;
+
+(2)&lt;DRW 2024-03-28/64, art. 40, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 60
+
+Le montant de l'amende administrative est compris entre 250 euros et 50.000 euros.
+
+Le Gouvernement précise les modalités d'application et de calcul de l'amende administrative.
+
+###### Art. 61
+
+[<sup>1</sup> Les fonctionnaires et agents de la Région visés à l'article D.VII.3, alinéa 1er, 3°, du CoDT]<sup>1</sup> et les fonctionnaires ou agents désignés par le Gouvernement ont qualité pour rechercher et constater par procès-verbal les manquements visés à l'article 59.
+
+Les fonctionnaires ou agents prêtent serment devant le tribunal de première instance de leur résidence administrative. En cas de changement de résidence, ils ne doivent pas prêter de nouveau serment.
+
+Les fonctionnaires ou agents doivent remplir, au moins, les conditions suivantes pour pouvoir être désignés par le Gouvernement :
+
+1° n'avoir subi aucune condamnation pénale;
+
+2° disposer d'un certificat d'enseignement secondaire supérieur.
+
+Les fonctionnaires ou agents sont soumis au secret professionnel.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 60, 003; En vigueur : 01-06-2017&gt;
+
+###### Art. 62
+
+§ 1er. Les [<sup>1</sup> fonctionnaires et agents de la Région visés à l'article D.VII.3, alinéa 1er, 3°, du CoDT]<sup>1</sup> et les fonctionnaires et agents désignés par le Gouvernement constatent les manquements par procès-verbal faisant foi jusqu'à preuve du contraire.
+
+§ 2. Pour accomplir leur mission, les [<sup>1</sup> fonctionnaires et agents de la Région visés à l'article D.VII.3, alinéa 1er, 3°, du CoDT]<sup>1</sup> et les fonctionnaires ou agents désignés par le Gouvernement, disposent des prérogatives suivantes :
+
+1° pénétrer, à tout moment, dans les installations, locaux, terrains et autres lieux sauf s'ils constituent un domicile au sens de l'article 15 de la Constitution. Lorsqu'il s'agit d'un domicile au sens de l'article 15 de la Constitution, les [<sup>1</sup> fonctionnaires et agents de la Région visés à l'article D.VII.3, alinéa 1er, 3°, du CoDT]<sup>1</sup> et les fonctionnaires ou agents désignés par le Gouvernement peuvent y pénétrer moyennant l'autorisation préalable du juge d'instruction;
+
+2° procéder à tous examens, contrôles, enquêtes, et recueillir tous renseignements jugés nécessaires et notamment :
+
+a) interroger toute personne sur tout fait dont la connaissance est utile à l'exercice de la mission;
+
+b) se faire produire sans déplacement ou rechercher tout document, pièce ou titre utile à l'accomplissement de leur mission, en prendre copie photographique ou autre, ou l'emporter contre récépissé;
+
+c) contrôler l'identité de tout contrevenant;
+
+d) prélever des échantillons selon les modalités arrêtées par le Gouvernement;
+
+e) prendre toute mesure conservatoire nécessaire en vue de l'administration de la preuve;
+
+3° se faire accompagner d'experts techniques.
+
+§ 3. Les [<sup>1</sup> fonctionnaires et agents de la Région visés à l'article D.VII.3, alinéa 1er, 3°, du CoDT]<sup>1</sup> et les fonctionnaires ou agents désignés par le Gouvernement peuvent requérir la force publique dans l'exercice de leur mission.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 61, 003; En vigueur : 01-06-2017&gt;
+
+###### Art. 63
+
+[<sup>1</sup> Les fonctionnaires et agents de la Région visés à l'article D.VII.3, alinéa 1er, 3°, du CoDT]<sup>1</sup> et les fonctionnaires ou agents désignés par le Gouvernement qui dressent procès-verbal en informent immédiatement le contrevenant ainsi que les autres autorités visées à l'article 61.
+
+La notification du procès-verbal mentionne le lieu, la date et l'heure de l'audition préalable à laquelle le contrevenant est convié. Elle précise que le contrevenant peut se faire assister ou représenter par un avocat ou par un expert et la manière dont il peut consulter le dossier complet relatif aux manquements qui lui sont reprochés.
+
+Outre le procès-verbal, le dossier peut contenir le résultat de contrôles effectués sur la base des articles 51 et 52.
+
+Le contrevenant est entendu par l'autorité qui a dressé le procès-verbal.
+
+L'audition se tient au plus tôt vingt jours après l'envoi du procès-verbal. Il est dressé procès-verbal de l'audition.
+
+La décision [<sup>1</sup> du fonctionnaire ou agent de la Région visé à l'article D.VII.3, alinéa 1er, 3°, du CoDT]<sup>1</sup> ou du fonctionnaire ou agent désigné par le Gouvernement mentionne la faculté de recours et le délai d'introduction de celui-ci.
+
+Elle est notifiée, à peine de nullité, au contrevenant dans les trente jours de l'audition.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 62, 003; En vigueur : 01-06-2017&gt;
+
+###### Art. 64
+
+Le versement du montant de l'amende administrative se fait entre les mains du receveur de l'enregistrement au compte [<sup>1</sup> du Fonds énergie institué par le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité]<sup>1</sup>.
+
+Par dérogation à l'alinéa 1er, lorsque l'amende administrative est infligée par une personne désignée par le Gouvernement et qui est un fonctionnaire ou agent d'une commune dont celle-ci assume sans aide régionale la charge de la rémunération, le versement du montant de l'amende administrative se fait entre les mains du receveur communal à un compte spécial du budget de la commune.
+
+----------
+
+(1)&lt;DRW 2019-05-02/72, art. 3, 004; En vigueur : 19-09-2019&gt;
+
+###### Art. 65
+
+Si le contrevenant demeure en défaut de payer l'amende, l'autorité au profit de laquelle l'amende doit être payée requiert d'un huissier de justice qu'il procède à la signification de cette décision au débiteur de l'amende. La signification contient commandement de payer, à peine d'exécution par voie de saisie dans le respect des formes et délais prescrits par le Code judiciaire, de même qu'une justification des sommes exigées.
+
+## Titre 6/1. [<sup>1</sup> Titre 6/1 - Base de données relative aux contrôles]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 41, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 65/1
+
+[<sup>1</sup> Le Gouvernement organise une base de données qui contient les documents relatifs aux procédures de contrôle, ainsi que les données suivantes :
+
+1° les informations qui permettent d'identifier le dossier de contrôle et le manquement constaté ainsi que, le cas échéant, les informations relatives aux décisions de sanction déjà prononcées et aux recours introduits;
+
+2° le nom, le prénom et la qualité des agents de l'administration qui interviennent dans la procédure de contrôle;
+
+3° le nom, le prénom, l'adresse du domicile, le numéro de téléphone, l'adresse de courrier électronique du ou des contrevenants présumés ainsi que leur numéro d'identification au registre national des personnes physiques ou, à défaut, leur numéro d'identification auprès de la Banque - Carrefour de la Sécurité sociale, ou;
+
+4° lorsque les personnes visées au 3° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social ainsi que le nom, le prénom, le numéro de téléphone et l'adresse de courrier électronique des représentants légaux;
+
+5° le nom, le prénom, l'adresse du domicile, le numéro de téléphone et l'adresse de courrier électronique de la ou des personnes qui représentent ou qui assistent les personnes visées aux 3° et 4° ;
+
+6° le cas échéant, le nom, le prénom, l'adresse domicile, le numéro de téléphone et l'adresse de courrier électronique de la ou des personnes ayant introduit une réclamation relative au manquement constaté;
+
+7° le cas échéant, le nom, le prénom, l'adresse domicile, le numéro de téléphone, l'adresse de courrier électronique et la qualité de toute autre personne intervenant dans la procédure de contrôle.
+
+La collecte et le traitement des informations visées à l'alinéa 1er poursuivent les finalités suivantes :
+
+1° l'exercice des contrôles visés au Titre 5, chapitres IV et V; 2° l'exercice des contrôles visés au Titre 6;
+
+3° la réalisation de recherches, de statistiques ou d'analyses relatives au respect de la réglementation PEB.
+
+§ 2. Le Gouvernement peut compléter la liste des données visées au paragraphe 1er, alinéa 1er.
+
+Le Gouvernement conserve les informations visées au paragraphe 1er, alinéa 1er, jusqu'au 31 décembre de la troisième année qui suit l'année au cours de laquelle la décision relative à la sanction n'est plus susceptible de recours.
+
+Le Gouvernement organise, à l'expiration du délai visé à l'alinéa 2, la destruction ou l'anonymisation à des fins de recherches, de statistiques ou d'analyses relatives au respect de la réglementation PEB, des données visées au paragraphe 1er, alinéa 1er.
+
+§ 3. Les fonctionnaires et les agents visés à l'article 61 accèdent aux informations enregistrées dans la base de données qui concernent les seuls bâtiments qui se situent sur leur territoire ou qui relèvent de leur compétence, en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 2°.
+
+Le Gouvernement désigne les autres fonctionnaires et les agents qui accèdent aux informations enregistrées dans la base de données en vue de l'exercice des finalités visées au paragraphe 1er, alinéa 2, 1°, 2° et 3°.
+
+Le Gouvernement précise les informations auxquelles les personnes visées aux alinéas 1er et 2 peuvent accéder, ainsi que les modalités d'accès à ces informations.
+
+Le Gouvernement fixe la durée de consultation et d'utilisation des informations visées au paragraphe 1er, alinéa 1er, en considération de la durée nécessaire à l'exercice des finalités visées au paragraphe 1er, alinéa 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 42, 006; En vigueur : 16-07-2024&gt;
+
+###### Art. 65/2
+
+[<sup>1</sup> Le Gouvernement met en place une notice d'information relative aux droits et obligations des personnes concernées par la collecte et le traitement des données visées à l'article 65/1, § 1er, alinéa 1er, dans le cadre des procédures de contrôle visées aux chapitres IV et V du Titre 5 et au Titre 6, ou dans le cadre de la réalisation de recherches, de statistiques ou d'analyses relatives au respect de la réglementation PEB. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/64, art. 43, 006; En vigueur : 16-07-2024&gt;
+
+## Titre 7. - Dispositions transitoires et finales
+
+###### Art. 66
+
+Dans la limite des crédits inscrits à cette fin au budget de la Région wallonne, le Gouvernement peut accorder des aides relatives à la performance énergétique des bâtiments, selon la forme et les conditions d'octroi qu'il détermine.
+
+[<sup>1</sup> Le Gouvernement subordonne les mesures d'aide financière aux économies d'énergie visées ou réalisées, telles qu'elles sont déterminées par l'un ou plusieurs des critères suivants :
+
+a) la performance énergétique de l'équipement ou des matériaux utilisés pour la rénovation; dans ce cas, les équipements ou les matériaux utilisés pour la rénovation sont mis en place par un installateur disposant du niveau approprié de certification ou de qualification;
+
+b) les valeurs standard pour le calcul des économies d'énergie dans les bâtiments;
+
+c) l'amélioration réalisée grâce à cette rénovation et mesurée par une comparaison des certificats de performance énergétique délivrés avant et après la rénovation;
+
+d) les résultats d'un audit énergétique;
+
+e) les résultats de toute autre méthode pertinente, transparente et proportionnée qui démontre que la performance énergétique a été améliorée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 27, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 67
+
+[<sup>1</sup> ]<sup>1</sup>Les articles 13/1 à 13/3, à l'exclusion de l'article 13/1, § 2, s'appliquent uniquement au projet faisant l'objet d'une demande de permis d'urbanisme, unique ou intégré dont le récépissé est postérieur au 10 mars 2021.
+
+----------
+
+(1)&lt;DRW 2020-12-17/50, art. 28, 005; En vigueur : 13-02-2021&gt;
+
+###### Art. 68
+
+Les articles 237/1 à 237/39 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie, insérés par le décret-cadre du 19 avril 2007 modifiant le même Code en vue de promouvoir la performance énergétique des bâtiments, sont abrogés.
+
+###### Art. 69
+
+§ 1er Par dérogation à l'article 40, pour toute procédure PEB à introduire pendant les douze mois qui suivent l'entrée en vigueur du présent décret, le responsable PEB peut être l'architecte du projet.
+
+§ 2. Les architectes qui remplissent les conditions suivantes peuvent obtenir l'agrément en qualité de responsable PEB sans devoir suivre la formation visée à l'article 40, § 1er, 2° :
+
+1° à la date d'entrée en vigueur du présent décret, avoir réalisé, pour un de leurs projets, l'ensemble d'une mission PEB, comprenant l'établissement d'un engagement PEB, d'une déclaration PEB initiale et d'une déclaration PEB finale au sens de l'article 237/1, 10°, 11° et 12° du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie;
+
+2° avoir réalisé la mission PEB visée au 1° dans le respect des dispositions décrétales et réglementaires applicables;
+
+3° avoir réussi un examen sanctionnant une connaissance des exigences, des procédures et des outils applicables en vertu des dispositions décrétales et réglementaires en vigueur en matière de performance énergétique des bâtiments. Le Gouvernement détermine les conditions de cet examen.
+
+L'agrément visé à l'alinéa 1er doit être sollicité dans les douze mois de l'entrée en vigueur du présent décret.
+
+Le Gouvernement accorde l'agrément lorsqu'il constate que l'architecte réunit les conditions définies à l'alinéa 1er.
+
+L'agrément prend cours à la date de la signature de l'arrêté qui l'accorde.
+
+###### Art. 70
+
+La demande de permis à laquelle est joint un engagement PEB au sens de l'article 237/1, 10°, du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie, dont l'accusé de réception est antérieur à la date d'entrée en vigueur du présent décret reste soumise aux exigences et aux procédures PEB en vigueur à cette date.
+
+Toutefois, le certificat visé à l'article 237/28, § 1er, du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie est établi par le responsable PEB sur la base de l'article 33 du présent décret qui s'applique immédiatement aux procédures PEB en cours au moment de l'entrée en vigueur du présent décret.
+
+###### Art. 71
+
+Jusqu'au 8 juillet 2015, l'article 35, alinéa 1er, ne s'applique qu'aux bâtiments dont une superficie utile totale de plus de 500 m<sup>2</sup> est occupée par une autorité publique et fréquemment visitée par le public.
+
+###### Art. 71/1.
+
+[<sup>1</sup> § 1er. A partir du 1er janvier 2031, il est interdit d'installer une chaudière à combustible liquide ou au charbon et de remplacer un générateur de chaleur ou un corps de chauffe par une chaudière ou un corps de chauffe alimenté par un combustible liquide ou au charbon dans les bâtiments résidentiels et non-résidentiels existants.
+
+Par dérogation à l'alinéa 1er, le remplacement du brûleur des chaudières à combustible liquide est autorisé jusqu'au 31 décembre 2034.
+
+§ 2. A partir du 1er janvier 2031, l'installateur déclare au Gouvernement la liste des générateurs de chaleur alimentés par un combustible liquide ou au charbon qu'il a installés ou pour lesquels le corps de chauffe ou le brûleur a été remplacé au plus tard trois mois après les travaux dans les bâtiments résidentiels et non-résidentiels existants.
+
+La déclaration visée à l'alinéa 1er contient au minimum :
+
+1° l'adresse du bâtiment concerné ;
+
+2° le nom et le prénom du titulaire de droit réel sur le bâtiment et de l'auteur de la déclaration, ou ;
+
+3° lorsque les personnes visées au 2° sont des personnes morales, leur dénomination sociale, leur numéro d'entreprise et l'adresse de leur siège social, ainsi que le nom et le prénom des représentants légaux ;
+
+4° la description du ou des générateurs ainsi que des travaux effectués ;
+
+5° la signature de l'auteur de la déclaration.
+
+Le Gouvernement fixe les modalités d'enregistrement et de notification de la déclaration visée à l'alinéa 1er.
+
+§ 3. Le Gouvernement peut autoriser des dérogations aux exigences du paragraphe 1er lorsqu'il est démontré que ces exigences ne sont pas techniquement, économiquement ou fonctionnellement réalisables.
+
+Lorsque le Gouvernement octroie une dérogation, il peut fixer l'exigence minimale alternative à respecter.
+
+Le Gouvernement détermine la procédure et les modalités d'application du présent paragraphe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-07-02/17, art. 24, 008; En vigueur : 01-01-2026&gt;
+
+###### Art. 72
+
+Le présent décret peut aussi être identifié par les termes " décret PEB ".
+
+Le Gouvernement codifie le décret et les arrêtés d'application dans le Code wallon de la performance énergétique des bâtiments.
+
+###### Art. 73
+
+Le présent décret entre en vigueur à la date fixée par le Gouvernement
+
+(NOTE : Entrée en vigueur fixée au 01-05-2015 par ARW 2014-05-15/66, art. 100 )
+
+## ANNEXE.
+
+###### Art. N
+
+Eléments à prendre en considération par le Gouvernement pour définir la méthode de calcul de la performance énergétique des bâtiments
+
+1\. La performance énergétique d'un bâtiment est déterminée sur la base de l'énergie calculée ou réelle consommée annuellement afin de satisfaire les différents besoins relatifs à son utilisation normale et correspond aux besoins énergétiques de chauffage et de climatisation (énergie nécessaire pour éviter une température excessive) permettant de maintenir les conditions de température prévues du bâtiment, et aux besoins domestiques en eau chaude.
+
+2\. La performance énergétique d'un bâtiment est exprimée clairement et comporte un indicateur de performance énergétique et un indicateur numérique d'utilisation d'énergie primaire, basé sur les données relatives à l'énergie primaire par transporteur d'énergie, qui peuvent correspondre aux moyennes annuelles pondérées nationales ou régionales ou à une valeur précise pour la production sur place.
+
+La méthode de calcul de la performance énergétique des bâtiments devrait tenir compte des normes européennes et est compatible avec la législation de l'Union pertinente, y compris la Directive 2009/28/CE.
+
+3\. La méthode de calcul est déterminée en tenant au moins compte des éléments suivants :
+
+a) les caractéristiques thermiques réelles suivantes du bâtiment, y compris ses subdivisions internes :
+
+i) capacité thermique;
+
+ii) isolation thermique;
+
+iii) chauffage passif;
+
+iv) éléments de refroidissement;
+
+v) ponts thermiques.
+
+b) les équipements de chauffage et approvisionnement en eau chaude sanitaire, y compris leurs caractéristiques en matière d'isolation thermique;
+
+c) les installations de climatisation;
+
+d) la ventilation naturelle et mécanique, et, éventuellement, étanchéité à l'air;
+
+e) l'installation d'éclairage intégrée (principalement dans le secteur non résidentiel);
+
+f) la conception, l'emplacement et l'orientation du bâtiment, y compris le climat extérieur;
+
+g) les systèmes solaires passifs et la protection solaire;
+
+h) les conditions climatiques intérieures, y compris le climat intérieur prévu;
+
+i) les charges internes.
+
+4\. On tient compte dans le calcul, s'il y a lieu, de l'influence positive des éléments suivants :
+
+a) l'exposition solaire locale, les systèmes solaires actifs et autres systèmes de chauffage et de production d'électricité faisant appel aux énergies produites à partir de sources renouvelables;
+
+b) l'électricité produite par cogénération;
+
+c) les systèmes de chauffage et de refroidissement urbains ou collectifs;
+
+d) l'éclairage naturel.FR 18.6.2010 Journal officiel de l'Union européenne L 153/29.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 28 novembre 2013.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Développement durable et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Ministre du Budget, des Finances, de l'Emploi, de la Formation et des Sports,
+
+A. ANTOINE
+
+Le Ministre de l'Economie, des P.M.E., du Commerce extérieur et des Technologies nouvelles,
+
+J.-Cl. MARCOURT
+
+Le Ministre des Pouvoirs locaux et de la Ville,
+
+P. FURLAN
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire et de la Mobilité,
+
+Ph. HENRY
+
+Le Ministre des Travaux publics, de l'Agriculture, de la Ruralité, de la Nature, de la Forêt et du Patrimoine,
+
+C. DI ANTONIO

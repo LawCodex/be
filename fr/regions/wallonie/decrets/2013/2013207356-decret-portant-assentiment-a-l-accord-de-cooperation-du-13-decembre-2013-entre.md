@@ -1,0 +1,61 @@
+---
+title: "Décret portant assentiment à l'accord de coopération du 13 décembre 2013 entre l'Etat fédéral, les Communautés, les Régions et les Commissions communautaires relatif à la mise en oeuvre de l'article 3, § 1er, du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire"
+identifier: "2013207356"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/23/2013207356/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2013-12-23
+published: 2013-12-31
+entry_into_force: 2014-01-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/23/2013207356/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 23 DECEMBRE 2013. - Décret portant assentiment à l'accord de coopération du 13 décembre 2013 entre l'Etat fédéral, les Communautés, les Régions et les Commissions communautaires relatif à la mise en oeuvre de l'article 3, § 1er, du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'accord de coopération entre l'Etat fédéral, les Communautés, les Régions et les Commissions communautaires relatif à la mise en oeuvre de l'article 3, § 1er, du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, fait à Bruxelles le 13 décembre 2013, sortira son plein et entier effet.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 23 décembre 2013.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Développement durable et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Ministre du Budget, des Finances, de l'Emploi, de la Formation et des Sports,
+
+A. ANTOINE
+
+Le Ministre de l'Economie, des P.M.E., du Commerce extérieur et des Technologies nouvelles,
+
+J.-Cl. MARCOURT
+
+Le Ministre des Pouvoirs locaux et de la Ville,
+
+P. FURLAN
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire et de la Mobilité,
+
+Ph. HENRY
+
+Le Ministre des Travaux publics, de l'Agriculture, de la Ruralité, de la Nature, de la Forêt et du Patrimoine,
+
+C. DI ANTONIO

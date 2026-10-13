@@ -1,0 +1,61 @@
+---
+title: "Décret portant assentiment : 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, et au Protocole, signés à Bruxelles le 7 octobre 2009, et 2° à l'échange de lettres des 30 mai 2011 et 11 juillet 2011"
+identifier: "2013201741"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/07/2013201741/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2013-03-07
+published: 2013-03-26
+entry_into_force: 2013-04-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/07/2013201741/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 7 MARS 2013. - Décret portant assentiment : 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, et au Protocole, signés à Bruxelles le 7 octobre 2009, et 2° à l'échange de lettres des 30 mai 2011 et 11 juillet 2011
+
+Le Parlement wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. La Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, et au Protocole, signés à Bruxelles le 7 octobre 2009, ainsi que l'échange de lettres des 30 mai 2011 et 11 juillet 2011, sortiront leur plein et entier effet.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 7 mars 2013.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Développement durable et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Ministre du Budget, des Finances, de l'Emploi, de la Formation et des Sports,
+
+A. ANTOINE
+
+Le Ministre de l'Economie, des P.M.E., du Commerce extérieur et des Technologies nouvelles,
+
+J.-Cl. MARCOURT
+
+Le Ministre des Pouvoirs locaux et de la Ville,
+
+P. FURLAN
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire et de la Mobilité,
+
+Ph. HENRY
+
+Le Ministre des Travaux publics, de l'Agriculture, de la Ruralité, de la Nature, de la Forêt et du Patrimoine,
+
+C. DI ANTONIO

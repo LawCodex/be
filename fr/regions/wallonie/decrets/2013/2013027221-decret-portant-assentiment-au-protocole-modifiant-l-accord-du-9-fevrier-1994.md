@@ -1,0 +1,81 @@
+---
+title: "Décret portant assentiment au Protocole modifiant l'accord du 9 février 1994 relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, aux fins : 1) de satisfaire à la Directive 2006/38/CE du Parlement européen et du Conseil du 17 mai 2006 modifiant la Directive 1999/62/CE relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures et 2) de convenir, entre les Gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du grand-duché de Luxembourg, du Royaume des Pays-Bas et du Royaume de Suède, de l'introduction d'un système de \"paperless vignette\" dans leur système commun pour la perception du droit d'usage, signé à Bruxelles le 21 octobre 2010, et modifiant les articles 7bis et 12 de la loi du 27 décembre 1994 portant assentiment à l'accord précité et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993"
+identifier: "2013027221"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/10/2013027221/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2013-10-10
+published: 2013-10-30
+entry_into_force: 2013-11-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/10/2013027221/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 10 OCTOBRE 2013. - Décret portant assentiment au Protocole modifiant l'accord du 9 février 1994 relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, aux fins : 1) de satisfaire à la Directive 2006/38/CE du Parlement européen et du Conseil du 17 mai 2006 modifiant la Directive 1999/62/CE relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures et 2) de convenir, entre les Gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du grand-duché de Luxembourg, du Royaume des Pays-Bas et du Royaume de Suède, de l'introduction d'un système de "paperless vignette" dans leur système commun pour la perception du droit d'usage, signé à Bruxelles le 21 octobre 2010, et modifiant les articles 7bis et 12 de la loi du 27 décembre 1994 portant assentiment à l'accord précité et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Protocole modifiant l'accord du 9 février 1994 relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, aux fins : 1) de satisfaire à la Directive 2006/38/CE du Parlement européen et du Conseil du 17 mai 2006 modifiant la Directive 1999/62/CE relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures et 2) de convenir, entre les Gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du grand-duché de Luxembourg, du Royaume des Pays-Bas et du Royaume de Suède, de l'introduction d'un système de " paperless vignette " dans leur système commun pour la perception d'un droit d'usage, signé à Bruxelles le 21 octobre 2010
+
+### Art. 1er
+
+Le Protocole modifiant l'accord du 9 février 1994 relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, aux fins :
+
+1\) de satisfaire à la Directive 2006/38/CE du Parlement européen et du Conseil du 17 mai 2006 modifiant la Directive 1999/62/CE relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures et
+
+2\) de convenir, entre les Gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du grand-duché de Luxembourg, du Royaume des Pays-Bas et du Royaume de Suède, de l'introduction d'un système de " paperless vignette " dans leur système commun pour la perception d'un droit d'usage, signé à Bruxelles le 21 octobre 2010, sortira son plein et entier effet.
+
+## CHAPITRE II. - Eurovignette
+
+### Art. 2
+
+L'article 7bis de la loi du 27 décembre 1994 portant assentiment de l'accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994, entre les Gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du grand-duché de Luxembourg et du Royaume des Pays-Bas et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993, modifié par la loi du 13 mars 2001, est abrogé.
+
+### Art. 3
+
+Dans l'article 12, § 1er, alinéa 1er, de la même loi, modifié en dernier lieu par la loi du 13 mars 2001, le mot " annuelle " est abrogé.
+
+### Art. 4
+
+Les articles 2 et 3 du présent décret entrent en vigueur à la date d'entrée en vigueur de l'accord de coopération entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au Protocole signé à Bruxelles le 21 octobre 2010 par les Gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du grand-duché de Luxembourg, du Royaume du Pays-Bas et du Royaume de Suède modifiant l'accord du 9 février 1994 précité, en application de l'article 4, § 4, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 10 octobre 2013.
+
+Le Ministre-Président,
+
+R. DEMOTTE
+
+Le Ministre du Développement durable et de la Fonction publique,
+
+J.-M. NOLLET
+
+Le Ministre du Budget, des Finances, de l'Emploi, de la Formation et des Sports,
+
+A. ANTOINE
+
+Le Ministre de l'Economie, des P.M.E., du Commerce extérieur et des Technologies nouvelles,
+
+J.-Cl. MARCOURT
+
+Le Ministre des Pouvoirs locaux et de la Ville,
+
+P. FURLAN
+
+La Ministre de la Santé, de l'Action sociale et de l'Egalité des Chances,
+
+Mme E. TILLIEUX
+
+Le Ministre de l'Environnement, de l'Aménagement du Territoire et de la Mobilité,
+
+Ph. HENRY
+
+Le Ministre des Travaux publics, de l'Agriculture, de la Ruralité, de la Nature, de la Forêt et du Patrimoine,
+
+C. DI ANTONIO
