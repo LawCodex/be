@@ -1,0 +1,463 @@
+---
+title: "Décret relatif aux parcs naturels."
+identifier: "1985023997"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1985/07/16/1985023997/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1985-07-16
+published: 1985-12-12
+entry_into_force: 1985-12-22
+last_amended: 2023-10-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1985/07/16/1985023997/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 06-03-1999 et mise à jour au 23-10-2023"
+retrieved: 2026-10-12
+---
+
+# 16 JUILLET 1985. - Décret relatif aux parcs naturels.
+
+Le Conseil Régional Wallon a adopté et Nous, (Gouvernement), sanctionnons ce qui suit:
+
+(DRW 1999-02-25/35, art. 9, 002; ED: 16-03-1999)
+
+## CHAPITRE Ier. \_ Définition et création des parcs naturels.
+
+### Art. 1
+
+Un parc naturel est un territoire rural, d'un haut intérêt biologique et géographique, soumis conformément au présent décret à des mesures destinées à en protéger le milieu, en harmonie avec les aspirations de la population et le développement économique et social du territoire concerné.
+
+Tout parc naturel couvre une superficie minimum de [<sup>1</sup> 10 000 hectares]<sup>1</sup> d'un seul tenant. Un territoire demeure d'un seul tenant pour l'application du présent décret même lorsqu'il est traversé par des routes, des autoroutes, des voies navigables ou des voies ferrées.
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 1, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 2
+
+[<sup>1</sup> Les communes peuvent prendre l'initiative de créer un parc naturel sur leur territoire.
+
+La ou les provinces dont ces communes font partie peuvent être associées à la création d'un parc naturel.
+
+Les autorités qui prennent l'initiative de créer un parc naturel s'associent sous forme d'une association de projet au sens de l'article L1512-2 du Code de la démocratie locale et de la décentralisation ou en secteur "parc naturel" au sein d'une intercommunale ayant, dans [<sup>2</sup> son objet]<sup>2</sup>, l'aménagement du territoire ou/et le développement économique. L'association de projet ou l'intercommunale de développement économique et d'aménagement du territoire hébergeant le secteur "parc naturel" constitue le pouvoir organisateur du parc naturel.
+
+Le conseil d'administration de l'intercommunale peut déléguer, conformément à l'article L1523-18, § 1er, du Code de la démocratie locale et de la décentralisation une partie de ses pouvoirs au comité de gestion du secteur parc naturel.
+
+En dérogation à l'article L1523-18, § 2, du Code de la démocratie locale et de la décentralisation, l'organe de gestion du secteur est le comité de gestion de secteur composé de minimum quatre administrateurs désignés sur proposition des communes associées à ce secteur et de maximum deux membres par commune ou province représentant les communes ou provinces associées à ce secteur désignés à la proportionnelle de l'ensemble des conseils communaux des communes associées conformément aux articles 167 et 168 du Code électoral.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 2, 005; En vigueur : 11-08-2008&gt;
+
+(2)&lt;DRW 2023-04-06/06, art. 149, 010; En vigueur : 02-11-2023&gt;
+
+### Art. 3
+
+[<sup>1</sup> Le pouvoir organisateur institue un comité d'étude composé des communes du périmètre du parc naturel et d'autres milieux concernés, dont les promoteurs du parc naturel.
+
+Le comité d'étude établit un rapport relatif à la création du parc naturel comprenant au moins :
+
+1° les limites du parc naturel;
+
+2° le plan de gestion dont le contenu est fixé à l'article 8;
+
+3° les conséquences économiques, sociales et environnementales, pour les communes intéressées et pour leurs habitants, de la création du parc naturel;
+
+4° la proposition d'application du Règlement général sur les bâtisses en site rural sur tout ou partie du territoire des communes concernées, et cela après consultation de l'autorité désignée par le Gouvernement.
+
+Le rapport est transmis au pouvoir organisateur.
+
+Le Gouvernement fixe les modalités d'élaboration de ce rapport.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 3, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 4
+
+[<sup>1</sup> § 1er. Après réception du rapport visé à l'article 3, le pouvoir organisateur établit un projet de création du parc naturel portant sur la dénomination, les limites, le plan de gestion du parc naturel et l'inscription de tout ou partie du territoire du parc naturel dans un périmètre où s'applique le Règlement général sur les bâtisses en site rural.
+
+Le projet est notifié dans les dix jours de son établissement aux communes concernées ainsi qu'au Gouvernement wallon.
+
+Dans les deux mois de la notification du projet, les conseils communaux émettent un avis favorable ou défavorable. L'avis favorable peut être assorti de conditions. L'avis qui n'a pas été exprimé dans le délai est réputé favorable.
+
+§ 2. Le projet de création du parc naturel est soumis au système d'évaluation des incidences sur l'environnement organisé par le chapitre 2 de la partie V du Livre Ier du Code de l'Environnement.
+
+Le pouvoir organisateur fait procéder à l'étude d'incidences sur l'environnement du projet de création du parc naturel dans le mois de la réception des avis des conseils communaux des communes concernées visés au § 1er.
+
+§ 3. Dans le cadre de l'application de l'article D.57, § 3, du Livre Ier du Code de l'Environnement, le pouvoir organisateur consulte également le ou les Gouvernement(s) communautaire(s) concerné(s), le [<sup>3</sup> pôle "Ruralité", section "Nature"]<sup>3</sup>, le Conseil économique et social de la Région wallonne, la Commission royale des Monuments, Sites et Fouilles, excepté pour les projets de parcs naturels situés sur le territoire de la région de langue allemande, [<sup>2</sup> le pôle "Aménagement du territoire"]<sup>2</sup>, le cas échéant, la Commission consultative communale d'Aménagement du Territoire et de Mobilité et, le cas échéant, la Commission locale de Développement rural de chaque commune concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 4, 005; En vigueur : 11-08-2008&gt;
+
+(2)&lt;DRW 2016-07-20/46, art. 64, 006; En vigueur : 01-06-2017&gt;
+
+(3)&lt;DRW 2017-02-16/37, art. 51, 007; En vigueur : 04-07-2017&gt;
+
+### Art. 5
+
+[<sup>1</sup> Le pouvoir organisateur ne peut proposer la création d'un parc naturel au Gouvernement wallon que sur avis favorable de l'ensemble des communes concernées.
+
+Le pouvoir organisateur transmet au Gouvernement le projet de création du parc naturel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 5, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 6
+
+[<sup>1</sup> Après examen du projet, le Gouvernement peut arrêter la création du parc naturel dans les deux mois de la réception du projet visé à l'article 5. La décision du Gouvernement porte sur la dénomination, les limites et le plan de gestion du parc naturel et l'inscription de tout ou partie du territoire du parc naturel dans un périmètre où s'applique le Règlement général sur les bâtisses en site rural.
+
+L'avis final du comité d'étude visé à l'article 4, § 2, et le rapport sur les incidences environnementales du projet sont déposés à la maison communale de chacune des communes composant le pouvoir organisateur en vue d'en assurer la publicité.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 6, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 6/1
+
+[<sup>1</sup> Le Gouvernement peut déterminer les modalités de modification du périmètre d'un parc naturel sur base d'une demande du pouvoir organisateur et sur avis favorable des communes concernées et après le respect des procédure liées à la participation du public et des évaluations des incidences environnementales prévues au Livre du 1er du Code de l'Environnement.
+
+Le Gouvernement peut arrêter la modification du périmètre des parcs naturels existants.
+
+En application de l'alinéa 2, le Gouvernement tient compte de l'accord du parc naturel via son assemblée générale et des communes associées.
+
+Le Gouvernement organise les modalités de signature d'une convention entre les conseils communaux des communes concernées par l'extension et la Commission de gestion du parc naturel, comportant au minimum :
+
+1° les objectifs à atteindre;
+
+2° les domaines de collaboration;
+
+3° le calendrier de réalisation;
+
+4° le mode de fonctionnement et les aspects budgétaires;
+
+5° l'adaptation du plan de gestion du parc naturel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-07-17/04, art. 198, 008; En vigueur : 18-10-2018&gt;
+
+## CHAPITRE II. - [<sup>1</sup> Rôle du parc naturel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 7, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 7
+
+[<sup>1</sup> Le parc naturel vise à :
+
+1° assurer la protection, la gestion et la valorisation du patrimoine naturel et paysager du parc naturel;
+
+2° contribuer, dans les limites du périmètre du parc naturel, à définir et à orienter les projets d'aménagement du territoire suivant les principes du développement durable;
+
+3° encourager le développement durable sur le territoire du parc naturel, en contribuant au développement local, sur les plans économique et social, ainsi qu'à l'amélioration de la qualité de la vie;
+
+4° organiser l'accueil, l'éducation et l'information du public;
+
+5° participer à l'expérimentation de nouveaux modes de gestion de l'espace rural, au test de processus et méthodes innovants de planification, ainsi qu'à la mise en oeuvre de programmes européens et de coopération territoriale européenne;
+
+6° rechercher la collaboration entre les parcs naturels et, le cas échéant, la collaboration transfrontalière avec les zones similaires des régions ou pays limitrophes;
+
+7° susciter la mise en oeuvre d'opérations de développement rural dans les communes qui le composent et veiller à ce que la cohérence des projets transcommunaux dans le cadre des programmes communaux de développement rural soit assurée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 8, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 8
+
+[<sup>1</sup> Le plan de gestion visé à l'article 3, alinéa 2, 2°, définit :
+
+1° un échéancier des mesures à prendre, dans un délai de dix ans, pour mettre en oeuvre le rôle visé à l'article 7;
+
+2° une description des moyens financiers, matériels et humains nécessaires à la mise en oeuvre de ce rôle;
+
+3° les modifications éventuelles des plans d'aménagement du territoire en vigueur en vue d'en assurer la cohérence avec le rôle du parc naturel visé à l'article 7.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 9, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 9
+
+[<sup>1</sup> Dans un délai de trois ans à dater de la création du parc naturel en vertu de l'article 6, le pouvoir organisateur adopte une charte paysagère dont le contenu et les modalités d'élaboration sont fixés par le Gouvernement.
+
+Dès son entrée en vigueur, la charte paysagère fait partie intégrante du plan de gestion.
+
+Dans le cadre de son élaboration, la charte paysagère est soumise aux dispositions du Livre Ier du Code de l'Environnement relatives aux modalités de participation du public en matière d'environnement, ainsi qu'au système d'évaluation des incidences sur l'environnement organisé par le chapitre 2 de la partie V du Livre Ier du Code de l'Environnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 10, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 10
+
+&lt;Abrogé par DRW 2008-07-03/41, art. 11, 005; En vigueur : 11-08-2008&gt;
+
+## CHAPITRE III. - [<sup>1</sup> De La Commission de gestion des parcs naturels.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 12, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 11
+
+[<sup>1</sup> Lorsque la décision de création d'un parc naturel est adoptée en vertu de l'article 6, une commission de gestion du parc naturel est créée à l'initiative du pouvoir organisateur.
+
+Elle prend la forme d'une association sans but lucratif ayant pour objet la mise en oeuvre du plan de gestion visé à l'article 8.
+
+La commission de gestion est composée, de manière équilibrée, de membres représentant le pouvoir organisateur et de membres représentant notamment, au niveau local :
+
+1° les associations actives dans le domaine de la conservation de la nature;
+
+2° les différentes initiatives ayant un impact sur le territoire du parc naturel;
+
+3° les secteurs de l'économie, de l'artisanat, du tourisme et des loisirs.
+
+La commission de gestion peut inviter, en qualité d'expert, des représentants des administrations et des organes consultatifs directement concernés.
+
+Deux tiers au maximum des membres de la commission de gestion sont du même sexe.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 12, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 12
+
+[<sup>1</sup> La commission de gestion a pour missions :
+
+1° d'adresser aux autorités compétentes des propositions en vue de la réalisation du plan de gestion visé à l'article 8;
+
+2° d'exécuter le plan de gestion;
+
+3° de délivrer des avis aux administrations publiques;
+
+4° de proposer au pouvoir organisateur, s'il y a lieu, des modifications au plan de gestion;
+
+5° d'élaborer les rapports d'activités et d'évaluation visés aux articles 13, § 2, et 18;
+
+6° d'assurer le suivi de la charte paysagère visée à l'article 9.
+
+Les décisions de la commission de gestion sont soumises à la tutelle organisée par les articles L3111-1 à L3123-2 du Code de la Démocratie locale et de la Décentralisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 12, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 13
+
+[<sup>1</sup> § 1er. Le pouvoir organisateur met à la disposition de la commission de gestion les moyens administratifs et, sans préjudice de l'alinéa 2, les moyens financiers nécessaires à l'accomplissement de sa mission.
+
+Dans les limites des crédits budgétaires, le Gouvernement alloue aux commissions de gestion des parcs naturels des subventions destinées à couvrir leurs frais de fonctionnement et d'investissement.
+
+Le Gouvernement détermine les modalités d'octroi de ces subventions.
+
+§ 2. La commission de gestion rédige un rapport annuel d'activités concernant la mise en oeuvre du rôle et du plan de gestion visés respectivement aux articles 7 et 8, ainsi que l'affectation des moyens financiers alloués par la Région.
+
+Ce rapport est transmis à l'agent désigné par le Gouvernement au plus tard pour le 31 mars de chaque année.
+
+L'agent désigné par le Gouvernement peut convoquer le représentant de la commission de gestion afin de présenter le rapport annuel.
+
+Le rapport annuel d'activités est présenté par la commission de gestion du parc naturel aux conseils communaux concernés.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 12, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 14
+
+&lt;Abrogé par DRW 2016-07-20/46, art. 65, 006; En vigueur : 01-06-2017&gt;
+
+### Art. 15
+
+[<sup>1</sup> En ce qui concerne le territoire compris dans le parc naturel, les autorités compétentes sont tenues de demander l'avis de la commission de gestion dans les cas suivants :
+
+1° préalablement à tout engagement de dépense ordinaire ou extraordinaire et à toute décision de passation de marché public, relatives à des travaux [<sup>3</sup> visés aux articles D. 37 et D. 40 du Code de l'Environnement constituant le Code de l'Eau]<sup>3</sup>, ainsi que les barrages et les travaux de création ou de modification de voirie sur le domaine public;
+
+2° avant la clôture de l'enquête prévue par l'article 21 de la loi du 22 juillet 1970 relative au remembrement légal de biens ruraux;
+
+3° [<sup>2</sup> parallèlement à l'enquête publique réalisée dans le cadre de la procédure d'élaboration ou de révision des plans de secteur, des schémas de développement pluricommunaux, des schémas de développement communaux, des schémas d'orientation locaux et des guides communaux d'urbanisme visés par le Code du développement territorial;]<sup>2</sup>
+
+4° préalablement à l'inscription de tout ou partie du territoire du parc naturel dans un périmètre où s'applique le Règlement général sur les bâtisses en site rural;
+
+5° préalablement à tout arrêté portant l'aménagement ou la modification de l'aménagement des bois et forêts soumis au régime forestier;
+
+6° préalablement à toute décision établissant ou modifiant un plan de gestion pour des réserves naturelles pour lesquelles sont imposés l'établissement et le respect d'un plan de gestion;
+
+7° préalablement à la décision de pose d'un collecteur d'eaux usées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 12, 005; En vigueur : 11-08-2008&gt;
+
+(2)&lt;DRW 2016-07-20/46, art. 66, 006; En vigueur : 01-06-2017&gt;
+
+(3)&lt;DRW 2018-10-04/13, art. 4, 009; En vigueur : 15-12-2018&gt;
+
+### Art. 16
+
+[<sup>1</sup> Le Gouvernement règle la procédure relative aux demandes d'avis prévues [<sup>2</sup> à l'article 15]<sup>2</sup>.
+
+A cet effet, les commissions de gestion sont tenues de communiquer leur avis dans les cas prévus [<sup>2</sup> à l'article 15]<sup>2</sup> dans un délai de trente jours à compter de la demande de l'autorité compétente. A défaut, l'avis est réputé favorable.
+
+Le délai prescrit pour remettre les avis dans les cas visés aux [<sup>2</sup> à l'article 15]<sup>2</sup> est suspendu entre le 16 juillet et le 15 août.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 12, 005; En vigueur : 11-08-2008&gt;
+
+(2)&lt;DRW 2016-07-20/46, art. 67, 006; En vigueur : 01-06-2017&gt;
+
+## CHAPITRE IV. - [<sup>1</sup> Evaluation, modification et suppression des parcs naturels.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 13, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 17
+
+&lt;DRW 1999-02-25/35, art. 7, 002; En vigueur : 16-03-1999&gt; § 1er. Les limites d'un parc naturel peuvent être modifiées [<sup>1</sup> par le Gouvernement sur proposition du pouvoir organisateur]<sup>1</sup>. Cette modification peut entraîner celle de la dénomination et du plan de gestion du parc.
+
+Le pouvoir organisateur établit un projet sans avoir à consulter un Comité d'étude. Les articles 4 et 5 sont d'application pour le surplus.
+
+La Commission de gestion est consultée sur l'ensemble du projet.
+
+§ 2. [<sup>1</sup> Toute commune limitrophe d'un parc naturel peut demander l'intégration de tout ou partie de son territoire dans ce parc.
+
+Dans ce cas, le pouvoir organisateur prend en considération la demande, en informe le Gouvernement wallon, prend l'avis de chacune des autorités ayant pris l'initiative de créer le parc naturel concerné et consulte la commission de gestion.
+
+Le pouvoir organisateur élabore une proposition motivée en fonction du rôle prévu à l'article 7 du présent décret et en informe le Gouvernement.
+
+Lorsque la décision du pouvoir organisateur est favorable à la demande d'intégration adressée par une commune limitrophe, le pouvoir organisateur transmet au Gouvernement une proposition de modification des limites du parc au plus tard dans les six mois qui suivent la décision.
+
+Le Gouvernement statue conformément à l'article 6.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Le plan de gestion d'un parc naturel peut être modifié par le Gouvernement, sur proposition du pouvoir organisateur.]<sup>1</sup>
+
+Aucune modification ne peut cependant y être apportée pendant les trois premières années qui suivent la création du parc naturel en ce qui concerne [<sup>1</sup> les mesures visées à l'article 8, 1°]<sup>1</sup>.
+
+[<sup>1</sup> Le Gouvernement statue conformément aux modalités prévues à l'article 6.]<sup>1</sup>
+
+§ 4. Si la modification des limites du parc naturel a pour conséquence une modification de la composition [<sup>1</sup> du pouvoir organisateur ou]<sup>1</sup> de la Commission de gestion, cette modification doit être effectuée dans les [<sup>1</sup> nonante jours]<sup>1</sup> qui suivent l'entrée en vigueur de l'arrêté du Gouvernement qui décide [<sup>1</sup> ...]<sup>1</sup> la modification.
+
+§ 5. Si la modification des limites du parc naturel vise à l'intégration d'une partie du territoire d'une commune déjà membre du pouvoir organisateur, les consultations prévues à l'article 4, § 2, se limitent à la commune concernée et au [<sup>2</sup> pôle "Ruralité", section "Nature"]<sup>2</sup>.
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 14, 005; En vigueur : 11-08-2008&gt;
+
+(2)&lt;DRW 2017-02-16/37, art. 51, 007; En vigueur : 04-07-2017&gt;
+
+### Art. 18
+
+[<sup>1</sup> § 1er. Le parc naturel fait l'objet d'une évaluation décennale. Une évaluation intermédiaire est réalisée après une période de cinq ans.
+
+L'évaluation décennale et l'évaluation intermédiaire portent sur le fonctionnement du parc naturel et de la commission de gestion, ainsi que sur le bilan des actions menées par le parc naturel dans le cadre du rôle visé à l'article 7 et du plan de gestion visé à l'article 8.
+
+La cohérence entre le plan de gestion et les plans et programmes en vigueur, ainsi que l'adéquation des politiques communales par rapport aux objectifs du plan de gestion, sont également évaluées.
+
+L'agent désigné par le Gouvernement notifie à la commission de gestion, au moins cent quatre-vingts jours à l'avance, la date endéans laquelle doivent lui être transmis les rapports d'évaluation décennale et d'évaluation intermédiaire.
+
+§ 2. Les rapports d'évaluation décennale et d'évaluation intermédiaire sont élaborés par la commission de gestion sur la base d'une grille d'évaluation arrêtée par le Gouvernement.
+
+Les rapports sont soumis pour examen par la commission de gestion aux instances consultées à l'occasion de la création du parc naturel.
+
+Ces instances remettent leur avis à l'autorité désignée par le Gouvernement dans un délai de soixante jours à compter de la réception du rapport d'évaluation. A défaut, cet avis est réputé favorable.
+
+§ 3. Un comité de suivi composé des différents services de la Région wallonne concernés par les missions du parc naturel est institué pour l'ensemble des parcs naturels.
+
+Le comité de suivi remet un avis à l'agent désigné par le Gouvernement sur les rapports d'évaluation dans les cent quatre-vingts jours qui suivent leur dépôt par la commission de gestion du parc naturel.
+
+L'autorité désignée par le Gouvernement peut, dans les soixante jours qui suivent la réception de l'avis du comité de suivi, proposer au Gouvernement de réorienter ou de supprimer le parc naturel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 15, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 19
+
+[<sup>1</sup> Un parc naturel peut être supprimé par arrêté du Gouvernement wallon suite à une évaluation négative en application de l'article 18 ou sur proposition du pouvoir organisateur.
+
+Après que l'autorité ayant proposé la suppression du parc ou, le cas échéant, le pouvoir organisateur, a établi un projet de suppression, l'article 4, § 1er, alinéas 2 et 3, est applicable.
+
+La commission de gestion est consultée sur le projet.]<sup>1</sup>
+
+La suppression du parc naturel implique la reprise de l'actif et du passif de la commission de gestion par le pouvoir organisateur.
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 16, 005; En vigueur : 11-08-2008&gt;
+
+## CHAPITRE V. [<sup>1</sup> - Consultation du pôle "Ruralité", section "Nature"]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 51, 007; En vigueur : 04-07-2017&gt;
+
+### Art. 20
+
+Le [<sup>1</sup> pôle "Ruralité", section "Nature"]<sup>1</sup> donne au membre (du Gouvernement) qui a la conservation de la nature dans ses attributions, les avis qui lui sont demandés en matière de parcs naturels. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+(Le Gouvernement) est tenu de le consulter avant de prendre des mesures générales d'exécution du présent décret. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+----------
+
+(1)&lt;DRW 2017-02-16/37, art. 51, 007; En vigueur : 04-07-2017&gt;
+
+## CHAPITRE VI. \_ Dispositions pénales.
+
+### Art. 21
+
+Est punie d'une amende de vingt-six francs à cinq cents [<sup>1</sup> euros]<sup>1</sup>:
+
+1° toute personne qui attribue publiquement la dénomination de parc naturel à un territoire ou à un établissement qui ne constitue pas un parc naturel au sens du présent décret;
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-07-03/41, art. 18, 005; En vigueur : 11-08-2008&gt;
+
+### Art. 22
+
+Indépendamment des officiers de police judiciaire, les fonctionnaires et agents désignés à cette fin par (le Gouvernement) ont qualité pour rechercher et constater les infractions prévues par l'article 21. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+(Le Gouvernement) désigne les fonctionnaires et agents chargés de contrôler, conformément à l'arrêté royal n° 5 du 18 avril 1967 relatif au contrôle de l'octroi et de l'emploi des subventions, l'emploi des fonds attribués aux commissions de gestion. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+## CHAPITRE VII. \_ Dispositions finales.
+
+### Art. 23
+
+§ 1er. Les articles 25 à 31 de la loi du 12 juillet 1973 sur la conservation de la nature sont abrogés pour la Région Wallonne.
+
+§ 2. L'article 6, alinéas 1er et 2, et l'article 33 de la même loi cessent d'être applicables aux parcs naturels créés en vertu du présent décret.
+
+### Art. 24
+
+§ 1er. La création du parc naturel national Hautes-Fagnes-Eifel, par arrêté ministériel du 31 mai 1978, est confirmée. Les articles 3 à 10 du même arrêté sont abrogés.
+
+§ 2. A compter de l'entrée en vigueur du présent décret, (le Gouvernement) dispose d'un délai de deux mois pour désigner le pouvoir organisateur du parc naturel Hautes-Fagnes-Eifel parmi les autorités visées à l'article 2, et d'un délai de trois mois pour désigner les membres de la commission de gestion. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+Le Président de la commission de gestion du parc, nommé par (le Gouvernement), appartiendra au pouvoir organisateur. A cet égard, (le Gouvernement) pourra déroger à l'article 7, § 6, alinéa 1er du présent décret. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+Si le Président est un membre de la Communauté française, la vice-présidence revient de droit à un membre de la Communauté germanophone, désigné par la commission de gestion, et inversément.
+
+§ 3. La commission de gestion établit un projet de plan de gestion dans les six mois de sa constitution. Ce projet de plan de gestion est approuvé par (le Gouvernement) après consultation de toutes les communes intéressées. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+(Le Gouvernement) peut modifier les limites du parc naturel. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+(Le Gouvernement) arrête sa décision au plus tard six mois après que la commission de gestion lui a soumis le projet de plan de gestion. &lt;DRW 1999-02-25/35, art. 9, 002; En vigueur : 16-03-1999&gt;
+
+§ 4. L'article 17, § 3, est applicable à la modification éventuelle des limites du parc naturel, par application du § 3.
+
+## CHAPITRE VIII. \_ Disposition transitoire.
+
+### Art. 25
+
+(abrogé) &lt;DRW 1999-02-25/35, art. 8, 002; En vigueur : 16-03-1999&gt;

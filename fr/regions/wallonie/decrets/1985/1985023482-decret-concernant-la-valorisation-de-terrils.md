@@ -1,0 +1,159 @@
+---
+title: "Décret concernant la valorisation de terrils."
+identifier: "1985023482"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1985/05/09/1985023482/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1985-05-09
+published: 1985-07-03
+entry_into_force: 1985-07-13
+last_amended: 2024-07-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1985/05/09/1985023482/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 07-01-1989 et mise à jour au 19-07-2024"
+retrieved: 2026-10-12
+---
+
+# 9 MAI 1985. - Décret concernant la valorisation de terrils.
+
+## Art. 1
+
+&lt;DRW 1993-05-06/31, art. 1, 003; En vigueur : 1993-06-18&gt; Au sens du présent décret, il faut entendre par :
+
+1° " terril " : tout dépôt, temporaire ou permanent - à l'exclusion de l'assiette du terrain - de substances minérales résultant de l'activité des mines de houille;
+
+2° " administration " : la Direction générale ou le service extérieur concerné du Ministère de la Région wallonne désignés par l'Exécutif;
+
+3° " fonctionnaire délégué " : le fonctionnaire délégué (au sens du) [<sup>1</sup> Code du développement territorial]<sup>1</sup>. &lt;DRW 1999-03-11/39, art. 172, 005; En vigueur : 01-10-2002&gt;
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 83, 009; En vigueur : 01-06-2017&gt;
+
+## Art. 2
+
+(Le permis de valorisation de terrils emporte de droit délivrance du permis d'urbanisme, au sens [<sup>1</sup> de l'article D.IV.4 du Code du développement territorial]<sup>1</sup>, et du permis d'environnement, au sens de l'article 1er, 1°, du décret du 11 mars 1999 relatif au permis d'environnement, pour exploiter le terril.) &lt;DRW 1999-03-11/39, art. 173, 005; En vigueur : 01-10-2002&gt;
+
+Il faut entendre par " exploiter " : extraire, évacuer, éliminer, transformer ou utiliser les matières qui composent le terril.
+
+En l'absence d'exploitation au sens du précédent alinéa, les procédures relatives au permis de bâtir et au permis d'exploiter ne sont pas modifiées.
+
+----------
+
+(1)&lt;DRW 2016-07-20/46, art. 84, 009; En vigueur : 01-06-2017&gt;
+
+## Art. 3
+
+&lt;Abrogé par DRW 2024-03-14/32, art. 22, 012; En vigueur : 01-07-2024&gt;
+
+## Art. 4
+
+&lt;DRW 1993-05-06/31, art. 2, 003; En vigueur : 1993-06-18&gt; § 1. Les terrils ne peuvent être exploités qu'en vertu d'un permis de valorisation délivré par le collège des bourgmestre et échevins sur avis de l'Administration et sur avis du fonctionnaire délégué.
+
+Préalablement à ces avis, le collège des bourgmestre et échevins organise une enquête publique [<sup>1</sup> selon les modalités définies au Livre Ier du Code de l'Environnement]<sup>1</sup>.
+
+§ 2. Le permis de valorisation d'un terril s'étendant sur le territoire de plusieurs communes est octroyé par la députation permanente, sur avis des collèges des bourgmestre et échevins.
+
+§ 3. Un recours à l'Exécutif est ouvert au demandeur, à l'Administration et au fonctionnaire délégué.
+
+Un recours est également ouvert au collège des bourgmestre et échevins lorsque le permis de valorisation est octroyé par la députation permanente.
+
+Le recours n'est pas suspensif de la décision attaquée sauf s'il émane de l'Administration ou du fonctionnaire délégué, ou du collège des bourgmestre et échevins lorsque le permis de valorisation est octroyé par la députation permanente.
+
+§ 4. (L'exploitant peut solliciter la modification du permis de valorisation.
+
+Celui-ci peut également être modifié, suspendu ou retiré par l'autorité qui l'a octroyé, sur la proposition de l'administration ou du fonctionnaire délégué, ou d'office après avis de l'administration, et le cas échéant, du fonctionnaire délégué.
+
+Dans ce cas, l'exploitant est au préalable mis en mesure de faire valoir ses observations.
+
+Le recours prévu au § 3 est ouvert contre les décisions prises en vertu des alinéas 1er et 2.) &lt;DRW 1994-04-21/38, art. 1, 004; En vigueur : 1994-06-04&gt;
+
+§ 5. L'Exécutif détermine la procédure, les modalités et les délais relatifs à l'application du présent article.
+
+(Si le collège des bourgmestre et échevins ou la députation permanente ne statue pas dans les délais fixés, l'auteur de la demande ou de la proposition peut lui adresser un rappel par lettre recommandée à la poste.
+
+A défaut pour le collège des bourgmestre et échevins ou la députation permanente de notifier sa décision dans les trente jours de l'envoi qui lui a été adressé, son silence est réputé constituer une décision de rejet.) &lt;DRW 1994-04-21/38, art. 2, 004; En vigueur : 1994-06-04&gt;
+
+§ 6. Les prélèvements de matières effectués sur un terril en vue d'essai notamment de lavage ou de criblage, et pour autant que ces prélèvements n'excèdent pas mille tonnes, sont autorisés par le collège des bourgmestre et échevins, l'Administration et le fonctionnaire délégué étant informés.
+
+----------
+
+(1)&lt;DRW 2007-05-31/46, art. 47, 006; En vigueur : 08-03-2008&gt;
+
+## Art. 5
+
+&lt;DRW 1993-05-06/31, art. 3, 003; En vigueur : 1993-06-18&gt; Le permis de valorisation détermine notamment :
+
+1° les dispositions relatives à la salubrité et à la sécurité du voisinage;
+
+2° les dispositions de nature à sauvegarder l'environnement;
+
+3° les mesures à prévoir en vue du réaménagement du site après exploitation, en ce compris la fixation du montant et des modalités de cautionnement à constituer par l'exploitant, qui doivent être suffisants pour garantir un réaménagement du site dans tous les cas, y compris la faillite;
+
+4° les dispositions sur les itinéraires à suivre.
+
+## Art. 6
+
+Les exploitations de terril régulièrement commencées à la date d'entrée en vigueur du présent décret, doivent être communiquées par recommandé et par les soins de l'exploitant auprès de l'Exécutif Régional Wallon dans les trois mois de l'entrée en vigueur du présent décret.
+
+Il y sera joint copie des actes d'autorisation antérieurement délivrés ainsi que des conventions liant l'exploitant au propriétaire de terrils, ou une preuve ou un certificat authentifiés par notaire stipulant qu'il existe des conventions liant l'exploitant au propriétaire de terrils.
+
+A défaut de communication, l'exploitation pourra être arrêtée par l'Exécutif Régional Wallon aux frais, risques et périls de l'exploitant.
+
+## Art. 7
+
+Pour les terrils dont l'exploitation n'est pas commencée à la date d'entrée en vigueur du présent décret quoique dûment autorisée, l'Exécutif Régional Wallon, dans les deux mois de la réception des copies d'actes visées à l'article 6, fixe après consultation de l'exploitant le délai dans lequel l'exploitation doit débuter.
+
+Passé le délai fixé par l'Exécutif Régional Wallon, l'exploitation ne pourra plus être entreprise que conformément aux dispositions du présent décret.
+
+## Art. 8
+
+[<sup>1</sup> Commet une infraction de deuxième catégorie au sens de la partie VIII de la partie décrétale du Livre Ier du Code de l'Environnement celui qui contrevient aux articles 4, § 1er, et 5 du présent décret ainsi qu'aux arrêtés d'exécution des dispositions précitées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2008-06-05/36, art. 7, 007; En vigueur : 06-02-2009&gt;
+
+## Art. 9
+
+(Pendant une période transitoire qui prendra fin à la date de la publication de la classification visée à l'article 3 et, au plus tard, le 1er octobre 1989, l'article 3 ne sera pas applicable à l'octroi des permis de valorisation.) &lt;DRW 1988-12-16/31, art. 1, 002; En vigueur : 1989-01-17&gt;
+
+Pendant cette période, le plan d'incidence dont question à l'article 5 fait état de propositions d'alternative aux projets envisagés pour la destination des terrils pour lesquels une demande d'autorisation est introduite.
+
+Les autorisations sont accordées conformément aux articles 4 et 5 après justification du caractère urgent de la demande et de l'impossibilité d'attendre la classification prévue à l'article 3.
+
+## Art. 10
+
+&lt;DRW 1993-05-06/31, art. 5, 003; En vigueur : 1993-06-18&gt; Le permis de valorisation fixe la date du commencement des travaux.
+
+Si ceux-ci n'ont pas reçu un début d'exécution dans les douze mois de cette date, l'autorité qui a octroyé le permis de valorisation peut en déclarer la caducité, après avertissement et par simple notification à son titulaire.
+
+## Art. 11
+
+A la demande du titulaire du permis visé à l'article 4, l'Exécutif Régional Wallon peut déclarer qu'il y a utilité publique :
+
+\- à établir des bâtiments et installations et à procéder à tous travaux nécessaires à la recherche de matières contenues dans le terril qui a fait l'objet du permis de valorisation, à son exploitation ou à son aménagement ultérieur, sur tous terrains non bâtis généralement quelconques, et ce sans préjudice de l'indemnité due aux propriétaires. Ceux-ci peuvent, au terme de la recherche, de l'exploitation ou de l'aménagement, ou conserver les bâtiments et installations - moyennant rachat calculé en fonction de la destination du bien et de l'usage qui peut être fait des bâtiments et installations - ou demander la remise en état des lieux;
+
+\- à exproprier [<sup>1</sup> ...]<sup>1</sup> tout immeuble généralement quelconque nécessaire à la recherche des matières minérales contenues dans le terril qui a fait l'objet du permis de valorisation, à son exploitation ou à son aménagement ultérieur.
+
+----------
+
+(1)&lt;DRW 2018-11-22/12, art. 70, 011; En vigueur : 01-07-2019&gt;
+
+## Art. 12
+
+L'Exécutif Régional Wallon prend les arrêtés nécessaires à l'exécution du présent décret.
+
+## Art. 13
+
+L'arrêté royal du 21 mars 1975 relatif à la récupération des substances minérales dans les terrils est abrogé.
+
+## Art. 14
+
+&lt;inséré par DRW 1993-05-06/31, art. 6, En vigueur : 1993-06-18&gt; § 1. Les dispositions des articles 1er à 5 ne sont pas applicables aux demandes de permis de valorisation introduites avant l'entrée en vigueur du présent décret.
+
+§ 2. Dans le cas où, en application de l'article 4, alinéa 2, du décret du 9 mai 1985, le collège des bourgmestre et échevins a donné un avis favorable sur la demande de permis de valorisation, il est compétent pour modifier, assortir de conditions supplémentaires, suspendre ou retirer le permis octroyé avant l'entrée en vigueur du présent décret.

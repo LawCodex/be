@@ -1,0 +1,1577 @@
+---
+title: "Décret relatif au service de transport public de personnes en Région wallonne."
+identifier: "1990027228"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1989/12/21/1990027228/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1989-12-21
+published: 1990-03-08
+entry_into_force: 1990-01-01
+last_amended: 2026-09-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1989/12/21/1990027228/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 21-11-1991 et mise à jour au 28-09-2026"
+retrieved: 2026-10-12
+---
+
+# 21 DECEMBRE 1989. - Décret relatif au service de transport public de personnes en Région wallonne.
+
+## CHAPITRE I. [<sup>1</sup> - De l'Opérateur de Transport de Wallonie.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 1, 015; En vigueur : 26-04-2018&gt;
+
+### Section I. [<sup>1</sup> Création et missions ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 2, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 1
+
+[<sup>1</sup> § 1er. Il est créé un Opérateur de Transport de Wallonie, en abrégé l'OTW, dont le siège social est établi à Namur.
+
+L'OTW est une personne morale de droit public dont les statuts sont conformes au présent décret et pour le surplus, pour autant qu'il n'y soit pas dérogé, au Code des sociétés et des associations, en particulier aux dispositions relatives aux sociétés anonymes.
+
+§ 2. Le capital social de l'OTW est représenté par des actions de catégories A et B.
+
+Les actions de catégorie A confèrent tous les droits. Chaque commune wallonne détient une action de catégorie B qui lui a été attribuée en échange de ses participations dans le capital des anciennes sociétés d'exploitation. Les titulaires d'actions de catégorie B peuvent participer à l'assemblée générale avec voix consultative ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 3, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 1erbis
+
+[<sup>1</sup> Pour l'application du présent décret, l'on entend par :
+
+1° le règlement européen n° 1370/2007 : le règlement n° 1370/2007 du Parlement européen et du Conseil du 23 octobre 2007 relatif aux services publics de transport de voyageurs par chemin de fer et par route, et abrogeant les règlements (CEE) n° 1191/69 et (CEE) n° 1107/70 du Conseil ;
+
+2° les services réguliers : les services qui assurent le transport de voyageurs selon une fréquence et sur un trajet déterminés, les voyageurs pouvant être pris en charge et déposés à des arrêts préalablement fixés ;
+
+3° les services réguliers spécialisés : les services réguliers qui assurent le transport de catégories déterminées de voyageurs, à l'exclusion d'autres voyageurs ;
+
+4° les anciennes sociétés d'exploitation : les sociétés d'exploitation territoriales existant avant leur absorption par l'Opérateur de transport de Wallonie, intervenue avec effet au 1er janvier 2019 ;
+
+5° l'obligation de service public : l'exigence définie par le Gouvernement en vue de garantir des services d'intérêt général de transport de personnes et activités connexes ;
+
+6° la responsabilité sociétale : l'intégration par l'OTW de préoccupations sociales et environnementales à son activité commerciale et ses relations avec les parties prenantes dans une optique de développement durable ;
+
+7° l'autorité organisatrice de transport : le service de l'administration qui est désigné par le Gouvernement et dont les missions sont décrites à l'article 31/1 ;
+
+8° le schéma de développement du territoire : tel que visé à l'annexe à l'arrêté du Gouvernement wallon du 23 avril 2024 adoptant définitivement le schéma de développement du territoire et abrogeant l'arrêté du Gouvernement wallon du 27 mai 1999 adoptant définitivement le schéma de développement de l'espace régional.
+
+Concernant l'alinéa 1er, 3°, les services visés sont qualifiés de spécialisés quel que soit l'organisateur des transports.
+
+Concernant l'alinéa 1er, 4°, les sociétés visées sont les suivantes :
+
+1° le TEC Brabant wallon ;
+
+2° le TEC Charleroi ;
+
+3° le TEC Hainaut ;
+
+4° le TEC Liège-Verviers ;
+
+5° le TEC Namur-Luxembourg.
+
+Concernant l'alinéa 1er, 5°, ces services sont ceux qu'un opérateur n'assumerait pas, ou n'assumerait pas dans la même mesure ou dans les mêmes conditions, sans contrepartie. L'appréciation de cette obligation s'effectue au regard de l'intérêt commercial propre de l'opérateur ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 4, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 1erter
+
+[<sup>1</sup> Le Gouvernement est l'autorité locale compétente au sens du Règlement européen n° 1370/2007.
+
+L'OTW est un opérateur interne au sens de ce même règlement n° 1370/2007.
+
+Dans ce cadre et dans les limites fixées par le présent décret, le Gouvernement peut octroyer à l'OTW un droit exclusif dont il détermine le contenu et une compensation dont il fixe le mode de calcul. Ce droit exclusif et cette compensation sont contenus dans un contrat de service public conformément au chapitre III. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 5, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 2
+
+[<sup>1</sup> L'OTW a pour objet l'étude, la promotion, l'établissement et l'exploitation des services de transport public des personnes.
+
+L'OTW a pour mission :
+
+1° d'établir un plan de transport à l'échelle du territoire de la Région wallonne, de le mettre en oeuvre et de concerter régulièrement les parties prenantes locales dans le cadre de l'évolution de ses services ;
+
+2° de définir la politique commerciale applicable aux transports publics de personnes et de définir les structures tarifaires ;
+
+3° d'assurer la promotion de ses services et l'information de la clientèle, y compris de la clientèle potentielle ;
+
+4° d'acquérir tout moyen nécessaire à la réalisation de ses missions, en ce compris :
+
+a) les installations ;
+
+b) le matériel roulant ;
+
+c) l'équipement ;
+
+d) l'outillage ;
+
+5° de recruter le personnel et d'en assurer la gestion ;
+
+6° d'acquérir, d'aliéner ou de louer tous biens mobiliers et immobiliers nécessaires pour l'accomplissement de ses missions ;
+
+7° de vendre ou de céder des biens immobiliers ;
+
+8° d'examiner les projets de services réguliers spécialisés ;
+
+9° de transmettre à l'autorité organisatrice de transport ses besoins en nouvelles infrastructures de transport public ;
+
+10° de définir et réaliser le programme pluriannuel d'investissements en matière d'infrastructure de transports publics et pour lesquels l'OTW bénéficie de subventions selon les modalités arrêtées par le Gouvernement, les biens ainsi subventionnés étant, de plein droit et sans indemnité, transférés à la Région wallonne en cas de dissolution de l'OTW ;
+
+11° d'assurer, pour ce qui le concerne, les relations avec la S.N.C.B. ou tout autre organisme régional, national ou international de transports publics, en vue de concrétiser les objectifs d'intermodalité fixés ;
+
+12° d'exécuter toute mission d'intérêt général que lui confie le Gouvernement ;
+
+13° d'assurer la gestion des infrastructures de gare bus, de métro léger et de tramway.
+
+Ces missions sont encadrées par les obligations de service public qui sont précisées dans le contrat de service public approuvé par le Gouvernement. L'OTW exerce ses missions dans une logique d'efficience économique, de maitrise des coûts et de soutenabilité budgétaire ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 6, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 2bis
+
+[<sup>1</sup> L'OTW peut appliquer, dans le cadre de la fixation de ses tarifs, des régimes de réduction et de gratuité.
+
+Ces régimes sont encadrés comme suit :
+
+1° les catégories d'usagers pouvant bénéficier d'une réduction généralisée sont les suivantes :
+
+a) les personnes en situation de précarité ;
+
+b) les jeunes ou les étudiants ;
+
+c) les familles nombreuses ;
+
+2° les catégories pouvant bénéficier d'un tarif préférentiel sous conditions sont :
+
+a) les groupes de mouvement de jeunesse ;
+
+b) les personnes âgées ;
+
+3° les catégories d'usagers bénéficiant de la gratuité sont exclusivement :
+
+a) les enfants de moins de douze ans ;
+
+b) les anciens combattants, les victimes de guerre ou leurs ayants droit ;
+
+c) les personnes malvoyantes ou non voyantes disposant de la carte nationale de réduction pour les transports en commun ;
+
+d) les accompagnateurs des personnes en situation de handicap disposant de la carte nationale " accompagnateur gratuit " ;
+
+e) les travailleurs des opérateurs de transport public régionaux ainsi que les membres composant leur ménage.
+
+Le contrat de service public, ou à défaut l'OTW, précise les catégories d'usagers, les modalités et les conditions des régimes visés à l'alinéa 1er.
+
+L'OTW applique une indexation annuelle des tarifs sur base du dernier indice des prix à la consommation publié par le Service public fédéral Economie. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 7, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 3
+
+[<sup>1</sup> L'OTW]<sup>1</sup> est [<sup>2</sup> constitué]<sup>2</sup> pour une durée indéterminée. Sa dissolution ne peut être prononcée qu'en vertu d'un décret qui réglera en même temps le mode et les conditions de sa liquidation.
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 6, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 4
+
+§ 1. Lors de la constitution de [<sup>2</sup> l'OTW]<sup>2</sup>, la Région wallonne et les autres actionnaires de la Société nationale des Chemins de Fer Vicinaux qui relèvent de la Région wallonne sont actionnaires de droit et participent à la première assemblée générale; il leur est attribué un nombre de parts sociales équivalent à celui dont ils étaient titulaires au sein de la Société nationale des Chemins de Fer Vicinaux.
+
+§ 2. L'attribution des parts sociales et la réunion de la première assemblée générale se font à l'initiative du [<sup>1</sup> Gouvernement]<sup>1</sup>.
+
+§ 3. Le montant du capital initial, tel qu'il résulte de l'attribution des parts sociales en vertu du § 1er, est inscrit dans les statuts au plus tard un an après la constitution de la Société régionale.
+
+§ 4. Les parts sociales attribuées en vertu du § 1er, ne sont libérées que dans la même mesure où elles l'étaient avant la dissolution de la Société nationale des Chemins de Fer Vicinaux. Ces parts confèrent aux détenteurs les mêmes droits et obligations que les parts sociales de cette dernière.
+
+§ 5. Outre les titulaires de parts visés au présent article, ne peuvent être actionnaires que des personnes morales de droit public agréés par le <sup>&lt;font color=red&gt;1 Gouvernement]1. (§ 6. Les biens meubles et immeubles, qui relèvent des compétences visées à l'article 8, § 1er, X, 8°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, qui ont été transférés par l'Etat à la Région wallonne en vertu de l'article 57, § 2, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, et qui figureront sur la liste établie conformément au § 4 de la même disposition de cette loi spéciale, sont apportés au capital de [2 l'OTW]2, selon les modalités arrêtées par le [1 Gouvernement]1. Il en est de même des bien meubles et immeubles acquis ou réalisés par la Région wallonne à charge de l'article 81.28.32 de la section 51 du budget de la Région wallonne pour l'année 1989 et de l'article 71.01 de la section 54 des budgets de la Région wallonne pour les années 1990, 1991 et 1992. En cas de dissolution de [2 l'OTW]2, ces biens sont rétrocédés à la Région wallonne de plein droit et sans indemnité. Ces biens ne font l'objet d'aucun amortissement.) &lt;DRW 1992-11-26/34, art. 2, 003; En vigueur : 1993-01-01&gt; ---------- (1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt; (2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;</sup>
+
+### Section II. - Fonctionnement.
+
+#### Sous-section 1re. [<sup>1</sup> - Le conseil d'administration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 7, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 5
+
+[<sup>1</sup> § 1er. Un conseil d'administration administre l'OTW. La gestion journalière est confiée à un administrateur général et un administrateur général adjoint, nommés par le Gouvernement.
+
+§ 2. Le conseil d'administration est composé de :
+
+1° maximum quatre administrateurs domiciliés dans une commune localisée en province de Liège;
+
+2° maximum deux administrateurs domiciliés dans une commune localisée en province de Luxembourg;
+
+3° maximum deux administrateurs domiciliés dans une commune localisée en province de Namur;
+
+4° maximum cinq administrateurs domiciliés dans une commune localisée en province du Hainaut;
+
+5° maximum deux administrateurs domiciliés dans une commune localisée en province du Brabant wallon.
+
+Sur proposition du Ministre [<sup>7</sup> qui a la Mobilité ]<sup>7</sup> dans ses attributions, le Gouvernement nomme les membres du conseil d'administration.
+
+Assistent aux réunions du conseil d'administration, avec voix consultative :
+
+1° l'administrateur général de l'OTW et l'administrateur général adjoint;
+
+2° un représentant permanent pour chacune des trois organisations syndicales les plus représentatives.
+
+Sur proposition des organisations syndicales les plus représentatives, le Gouvernement nomme les représentants visés à l'alinéa 3, 2°.
+
+§ 3. [<sup>6</sup> ...]<sup>6</sup>
+
+§ 4. Les statuts de l'OTW règlent ce qui a trait aux attributions, aux émoluments et à la durée des fonctions du président, du vice-président, des administrateurs, de l'administrateur général et de l'administrateur général adjoint, et ce, dans le respect de la législation relative au statut de l'administrateur public.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 8, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2018-11-30/28, art. 184, 016; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DRW 2019-12-19/38, art. 180, 017; En vigueur : 01-01-2020&gt;
+
+(4)&lt;DRW 2020-12-17/52, art. 196, 018; En vigueur : 01-01-2021&gt;
+
+&lt;DRW 2021-12-22/21, art. 198, 019; En vigueur : 01-01-2022&gt;
+
+(5)&lt;DRW 2022-12-21/67, art. 199, 020; En vigueur : 01-01-2023&gt;
+
+(6)&lt;DRW 2024-12-18/05, art. 1, 023; En vigueur : 01-01-2025&gt;
+
+(7)&lt;DRW 2026-09-03/14, art. 1,1°, 024; En vigueur : 28-09-2026&gt;
+
+#### Sous-section 2. [<sup>1</sup> - L'administrateur général et l'administrateur général adjoint.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 9, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 5bis
+
+[<sup>1</sup> § 1er. La nomination de l'administrateur général et de l'administrateur général adjoint visés à l'article 5, § 1er, se fait après une procédure de recrutement.
+
+§ 2. La procédure de recrutement comprend :
+
+1° la proposition d'une description de fonction par le conseil d'administration de la société régionale à l'approbation du Gouvernement wallon;
+
+2° un appel à candidatures public, externe et interne, sur base de la description de fonction;
+
+3° des épreuves de sélection dont l'objet est de cerner leurs aptitudes de gestion d'organisation et leur personnalité;
+
+4° une sélection des trois meilleurs candidats jugés aptes à remplir la fonction;
+
+5° un rapport écrit et motivé reprenant notamment pour chacun des candidats retenus, ses forces et faiblesses;
+
+6° une désignation motivée du Gouvernement wallon.
+
+§ 3. L'appel à candidatures public visé au § 2, 2°, est lancé par le conseil d'administration de la société régionale, notamment par voie de publication dans les journaux de presse écrite quotidienne et par internet, selon les modalités qu'il détermine, sur proposition de l'administrateur général.
+
+Cet appel mentionne pour chaque emploi déclaré vacant :
+
+1° le délai dans lequel les candidatures doivent être introduites auprès de l'administrateur général;
+
+2° la description de fonction;
+
+3° les diplômes et expériences requis pour l'emploi;
+
+4° l'ensemble des critères sur base desquels les candidats seront évalués;
+
+5° les documents que doit contenir, à peine de nullité, l'acte de candidature.
+
+§ 4. Le jury de sélection est composé, sur la base d'une proposition du conseil d'administration de [<sup>2</sup> [<sup>5</sup> l'OTW ]<sup>5</sup>]<sup>2</sup> et à l'approbation du Gouvernement wallon, d'une personne issue du monde académique, de deux personnes issues du secteur privé commercial ou entreprise publique de transport autre que [<sup>5</sup> l'OTW ]<sup>5</sup> tels que de hauts managers, de quatre membres du conseil d'administration de [<sup>4</sup> [<sup>5</sup> l'OTW ]<sup>5</sup>]<sup>4</sup> dont le président du conseil d'administration de [<sup>4</sup> [<sup>5</sup> l'OTW ]<sup>5</sup>]<sup>4</sup> et l'administrateur général lorsqu'il ne s'agit pas de sa propre fonction.
+
+La présidence du jury est assurée par le membre issu du monde académique.
+
+Sur la base des résultats des épreuves, le jury sélectionne les trois meilleurs candidats jugés aptes à remplir la fonction, établit le rapport visé au § 2, 5°, et le communique au Ministre ayant la Mobilité dans ses attributions.]<sup>1</sup>
+
+[<sup>3</sup> § 5. L'exercice d'autres mandats publics par l'administrateur général et l'administrateur général adjoint doit se conformer aux dispositions générales applicables aux administrateurs publics.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-03-01/13, art. 4, 010; En vigueur : 15-03-2012&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 10, 015; En vigueur : 26-04-2018&gt;
+
+(4)&lt;DRW 2026-09-03/14, art. 1,2°, 024; En vigueur : 28-09-2026&gt;
+
+(5)&lt;DRW 2026-09-03/14, art. 8, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 5ter
+
+[<sup>1</sup> § 1er. L'administrateur général et l'administrateur général adjoint visés à l'article 5, § 1er, sont soumis à des évaluations périodiques organisées par le conseil d'administration.
+
+Les procédures d'évaluation et leurs modalités précises sont précisées dans les statuts de [<sup>2</sup> [<sup>4</sup> l'OTW]<sup>4</sup>]<sup>2</sup>.
+
+Les évaluations [<sup>3</sup> sont individuelles et]<sup>3</sup> portent sur la mise en oeuvre des compétences en référence au descriptif de fonction et aux objectifs fixés par le Gouvernement [<sup>5</sup> ...]<sup>5</sup> notamment en lien avec le contrat de service public, liés à la gestion [<sup>3</sup> [<sup>4</sup> l'OTW]<sup>4</sup>]<sup>3</sup>.
+
+§ 2. [<sup>3</sup> La procédure d'évaluation formelle contient, notamment, les principes d'évaluation suivants :]<sup>3</sup>
+
+1° le conseil d'administration de la SRWT instaure en son sein un comité d'évaluation;
+
+2° ce comité peut s'entourer de personnalités extérieures [<sup>3</sup> [<sup>4</sup> l'OTW]<sup>4</sup>]<sup>3</sup> dans le cadre de ces évaluations;
+
+3° ces évaluations sont périodiques; leur rythme est fixé par le conseil d'administration de la SRWT qui se réfère aux standards en la matière;
+
+4° le rapport d'évaluation est remis au conseil d'administration qui en tire les conclusions utiles.
+
+§ 3. Sur recours d'un des commissaires [<sup>3</sup> du Gouvernement]<sup>3</sup> tel que prévu à l'article 10, le Gouvernement [<sup>5</sup> ...]<sup>5</sup> peut annuler une décision du conseil d'administration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-03-01/13, art. 5, 010; En vigueur : 15-03-2012&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 11, 015; En vigueur : 26-04-2018&gt;
+
+(4)&lt;DRW 2026-09-03/14, art. 1,2°, 024; En vigueur : 28-09-2026&gt;
+
+(5)&lt;DRW 2026-09-03/14, art. 9, 024; En vigueur : 28-09-2026&gt;
+
+#### Sous-section 3. [<sup>1</sup> - Le comité de direction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 12, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 5quater
+
+[<sup>1</sup> § 1er. Un comité de direction est institué. Le Gouvernement fixe la composition du comité, qui comprend notamment l'administrateur général et l'administrateur général adjoint, visés à l'article 5bis, § 1er.
+
+Sans préjudice de l'article 5bis du présent décret, la nomination d'autres membres du comité de direction se fait à l'issue de la procédure de recrutement telle que prévue aux paragraphes 2, 3 et 4 de l'article 5bis du présent décret.
+
+Sans préjudice de l'article 5ter, les autres membres du comité de direction sont soumis à des évaluations périodiques telles que prévues à l'article 5ter du présent décret.
+
+§ 2. Le comité de direction est renouvelable tous les 5 ans. Lorsqu'un des membres du comité de direction a atteint l'âge de la pension ou n'est plus en mesure d'exercer ses fonctions, le conseil d'administration pourvoit à sa vacance.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Le comité de direction assiste l'administrateur général et l'administrateur général adjoint dans la gestion journalière de l'OTW.
+
+§ 4. Le comité de direction peut créer des comités spécialisés dont les rôles et responsabilités sont déterminés dans le règlement d'ordre intérieur de l'OTW.
+
+§ 5. Les statuts de l'OTW règlent ce qui a trait aux émoluments des membres du comité de direction.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 13,§1 - 13,§2, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 13,§3-13,§5, 015; En vigueur : 01-01-2019&gt;
+
+#### Sous-section 4. [<sup>1</sup> - Des directeurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 14, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 5quinquies
+
+[<sup>1</sup> § 1er. Les directeurs sont nommés après une procédure de recrutement basée sur un appel à candidatures, un descriptif du profil des fonctions et la constitution d'un jury approuvés par le conseil d'administration. Les statuts de l'OTW précisent cette procédure.
+
+§ 2. La procédure de recrutement comprend :
+
+1° une description de fonction arrêtée par le conseil d'administration;
+
+2° un appel à candidatures public, externe et interne pour les directeurs;
+
+3° des épreuves de sélection dont l'objet est de vérifier leurs aptitudes de gestion d'organisation et leur personnalité;
+
+4° une sélection des trois meilleurs candidats jugés aptes à remplir la fonction;
+
+5° un rapport écrit et motivé reprenant notamment pour chacun des candidats retenus, ses forces et faiblesses;
+
+6° une désignation motivée du conseil d'administration.
+
+Le jury visé au paragraphe 4 sélectionne les trois meilleurs candidats jugés aptes à remplir la fonction et établit le rapport visé au 5°.
+
+§ 3. L'appel à candidatures public visé au paragraphe 2, 2°, est lancé par le conseil d'administration, notamment par voie de publication dans les journaux de presse écrite quotidienne et par internet, selon les modalités qu'il détermine, sur proposition de l'administrateur général.
+
+L'appel visé à l'alinéa 1er mentionne pour chaque emploi déclaré vacant :
+
+1° le délai dans lequel les candidatures sont introduites auprès de l'administrateur général;
+
+2° la description de fonction;
+
+3° les diplômes et expériences requis pour l'emploi;
+
+4° l'ensemble des critères sur base desquels les candidats seront évalués;
+
+5° les documents que contient, à peine de nullité, l'acte de candidature.
+
+§ 4. Le jury de sélection est composé :
+
+1° d'une personne issue du monde académique;
+
+2° de deux personnes issues du secteur privé commercial ou d'une entreprise publique de transport autre que l'OTW tels que de hauts managers;
+
+3° de quatre membres du conseil d'administration de l'OTW dont le président du conseil d'administration, l'administrateur général et l'administrateur général adjoint;
+
+4° d'un représentant du Ministre [<sup>2</sup> de la Mobilité ]<sup>2</sup> ayant voix consultative;
+
+La personne visée au 1° préside le jury.
+
+§ 5. Les statuts de l'OTW règlent ce qui a trait aux attributions, aux émoluments et à la durée des fonctions de directeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 15, 015; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DRW 2026-09-03/14, art. 10, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 5sexies
+
+[<sup>1</sup> § 1er. Les directeurs sont soumis à des évaluations périodiques organisées par le conseil d'administration.
+
+Les statuts de l'OTW précisent les procédures d'évaluation, leurs modalités ainsi que les mesures pouvant être prises en cas d'évaluation négative.
+
+§ 2. La procédure d'évaluation contient, notamment, les principes d'évaluation suivants :
+
+1° le conseil d'administration instaure en son sein un comité d'évaluation;
+
+2° les statuts de l'OTW règlent ce qui a trait au fonctionnement du comité d'évaluation;
+
+3° le comité visé au 1° peut s'entourer de personnalités extérieures à l'OTW dans le cadre de ces évaluations;
+
+4° ces évaluations :
+
+a) sont périodiques;
+
+b) se réfèrent notamment à la description de fonction de la personne évaluée, dans une optique de cohérence avec les procédures de recrutement;
+
+c) sont consignées dans un rapport qui est remis au conseil d'administration qui en tire les conclusions utiles.
+
+Le conseil d'administration fixe le rythme des évaluations, en se référant aux standards en la matière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 16, 015; En vigueur : 01-01-2019&gt;
+
+#### Sous-section 5.
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 11, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 5septies
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 11, 024; En vigueur : 28-09-2026&gt;
+
+#### Sous-section 6.
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 11, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 5octies
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 11, 024; En vigueur : 28-09-2026&gt;
+
+#### Sous-section 7. [<sup>1</sup> - Le comité d'audit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 21, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 5nonies
+
+[<sup>1</sup> § 1er. Le conseil d'administration institue un comité d'audit chargé du suivi du contrôle interne des comptes et du processus d'élaboration de l'information financière, sans préjudice du contrôle externe existant et opéré par le collège des commissaires et la Cour des Comptes.
+
+§ 2. Ce comité est composé au minimum :
+
+1° d'un expert indépendant;
+
+2° du directeur de l'audit;
+
+3° d'un administrateur de l'OTW.
+
+§ 3. Les membres du comité d'audit sont nommés pour une période de cinq ans, renouvelable, sans préjudice des autres fonctions qu'ils exercent au sein de l'OTW.
+
+Lorsqu'un des membres du comité d'audit a atteint l'âge de la pension ou n'est plus en mesure d'exercer ses fonctions, le conseil d'administration pourvoit à sa vacance.
+
+§ 4. Le comité d'audit se réunit au moins quatre fois par an et communique son rapport au conseil d'administration.
+
+§ 5. Les statuts de l'OTW règlent ce qui a trait aux attributions et aux émoluments des membres du comité d'audit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 22, 015; En vigueur : 26-04-2018&gt;
+
+#### Sous-section 8. [<sup>1</sup> - Des dispositions diverses.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2018-03-29/20, art. 23, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 6
+
+L'assemblée générale des actionnaires, statuant à la majorité absolue des membres présents ou représentés, arrête et modifie les statuts de [<sup>2</sup> l'OTW]<sup>2</sup> sous réserve de l'approbation du [<sup>1</sup> Gouvernement]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 7
+
+Dans le respect des dispositions du présent décret, les pouvoirs des organes de [<sup>1</sup> l'OTW]<sup>1</sup> et le fonctionnement de ceux-ci sont réglés par ses statuts et pour le surplus par [<sup>2</sup> [<sup>3</sup> les dispositions générales du Code des sociétés et des associations et par les dispositions de ce Code applicables aux sociétés anonymes ]<sup>3</sup>]<sup>2</sup>.
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2023-04-06/06, art. 60, 021; En vigueur : 02-11-2023&gt;
+
+(3)&lt;DRW 2026-09-03/14, art. 12, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 8
+
+[<sup>3</sup> [<sup>4</sup> L'article 7:55 du Code des sociétés et des association]<sup>4</sup> n'est pas applicable aux actions représentatives du capital de catégories A et B de l'OTW.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 24,1°, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 24,2°, 015; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DRW 2023-04-06/06, art. 61, 021; En vigueur : 02-11-2023&gt;
+
+##### Art. 9
+
+[<sup>3</sup> Avec l'accord du Gouvernement, l'OTW]<sup>3</sup> peut prendre des participations directes ou indirectes dans des sociétés, associations ou institutions de droit public ou privé, en rapport avec son objet.) &lt;DRW 1997-12-17/44, art. 25, § 3, 005; En vigueur : 01-01-1998&gt;
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>, [<sup>2</sup> l'OTW]<sup>2</sup> peut constituer [<sup>3</sup> seul]<sup>3</sup> une société et souscrire en qualité de fondateur la totalité des actions de cette société.
+
+De même [<sup>3</sup> il]<sup>3</sup> peut détenir la totalité des actions d'une société existante pendant un délai supérieur à un an sans être [<sup>3</sup> réputé]<sup>3</sup> caution solidaire de toutes les obligations de la société nées après la réunion de toutes les actions entre ses mains.
+
+[<sup>2</sup> L'OTW]<sup>2</sup> qui est le seul actionnaire des sociétés visées à l'alinéa précédent garde le bénéfice de la séparation des patrimoines.
+
+----------
+
+(1)&lt;DRW 2012-03-01/13, art. 6, 010; En vigueur : 15-03-2012&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 25, 015; En vigueur : 26-04-2018&gt;
+
+(4)&lt;DRW 2023-04-06/06, art. 62, 021; En vigueur : 02-11-2023&gt;
+
+##### Art. 9bis
+
+&lt;Inséré par DRW 1997-12-17/44, art. 25, § 4; En vigueur : 01-01-1998&gt; [<sup>1</sup> L'OTW]<sup>1</sup> peut transiger et compromettre.
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+### Section 2/1.
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 13, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 9ter
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 13, 024; En vigueur : 28-09-2026&gt;
+
+### Section III. - Contrôle et surveillance.
+
+##### Art. 10
+
+§ 1. [<sup>3</sup> L'OTW]<sup>3</sup> est [<sup>5</sup> soumis ]<sup>5</sup> au pouvoir de contrôle du [<sup>1</sup> Gouvernement]<sup>1</sup>, à l'intervention de deux commissaires délégués nommés par ce dernier; les commissaires assistent avec voix consultative aux réunions des organes d'administration et de contrôle de [<sup>3</sup> l'OTW]<sup>3</sup> et disposent des pouvoirs les plus étendus pour l'accomplissement de leur mission.
+
+§ 2. Chacun des commissaires du [<sup>1</sup> Gouvernement]<sup>1</sup> dispose d'un délai de quatre jours francs pour prendre un recours motivé contre toute décision qu'il estime contraire à la législation, à la réglementation, aux statuts, au contrat de [<sup>4</sup> service public]<sup>4</sup> ou à l'intérêt général. Le recours est suspensif.
+
+Le délai de quatre jours court à partir du jour où la décision a été prise, sauf si le commissaire concerné n'a pas été régulièrement convoqué, conformément aux statuts, auquel cas le délai court à partir du jour où la décision lui a été notifiée par lettre recommandée.
+
+§ 3. Chaque commissaire exerce son recours auprès du [<sup>1</sup> Gouvernement]<sup>1</sup> dans les conditions et selon les modalités fixées par ce dernier. Si, dans un délai de 30 jours calendrier, commençant le même jour que le délai prévu au § 2, le [<sup>1</sup> Gouvernement]<sup>1</sup> n'a pas prononcé l'annulation de la décision, celle-ci devient définitive.
+
+§ 4. La décision d'annulation est motivée et notifiée à [<sup>3</sup> l'OTW]<sup>3</sup> par lettre recommandée.
+
+§ 5. Le [<sup>1</sup> Gouvernement]<sup>1</sup> règle ce qui a trait à la durée du mandat des commissaires et à leurs émoluments.
+
+[<sup>2</sup> § 6. [<sup>5</sup> Les Commissaires sont invités au dialogue constructif et périodique avec l'OTW visé à l'article 31/1, 3]<sup>5</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2012-03-01/13, art. 7, 010; En vigueur : 15-03-2012&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(4)&lt;DRW 2018-03-29/20, art. 28, 015; En vigueur : 26-04-2018&gt;
+
+(5)&lt;DRW 2026-09-03/14, art. 14, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 10bis
+
+(abrogé) &lt;DRW 1995-04-06/92, art. 1, 004; En vigueur : 01-01-1994&gt;
+
+##### Art. 11
+
+[<sup>1</sup> [<sup>3</sup> Le contrôle de la situation financière, des comptes généraux et de la régularité, au regard de la réglementation et des statuts, des opérations à constater dans les comptes généraux, est confié à un collège de commissaires aux comptes composé d'un commissaire-réviseur que le Gouvernement désigne parmi les membres de l'Institut des Réviseurs d'Entreprises, et d'un représentant de la Cour des Comptes]<sup>3</sup>.
+
+Leurs délibérations sont collégiales.
+
+Le contrôle du collège de commissaires aux comptes consiste en la vérification des comptes, au plus tard le 31 mai de l'année suivant l'exercice concerné.
+
+Leurs rapports et observations sont transmis aux organes statutaires de l'OTW et au Gouvernement.
+
+Les commissaires aux comptes sont nommés pour un terme de trois ans renouvelable une seule fois de façon successive. Ils peuvent être révoqués en cours de mandat uniquement pour de justes motifs.
+
+Pour le surplus, les commissaires aux comptes exercent leur mandat conformément [<sup>2</sup> au Code des sociétés et des associations]<sup>2</sup>.
+
+L'OTW est, en vertu de l'article 50 de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, soumis au contrôle de la Cour des Comptes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 29, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2023-04-06/06, art. 63, 021; En vigueur : 02-11-2023&gt;
+
+(3)&lt;DRW 2026-09-03/14, art. 15, 024; En vigueur : 28-09-2026&gt;
+
+### Section IV. - Budget et comptes.
+
+##### Art. 12
+
+[<sup>3</sup> L'OTW établit et approuve son budget à l'intervention de ses organes et le soumet au Ministre [<sup>4</sup> qui a la Mobilité ]<sup>4</sup> dans ses attributions qui le communique au Ministre du Budget.]<sup>3</sup>
+
+Le défaut d'approbation par le [<sup>1</sup> Gouvernement]<sup>1</sup> au premier jour de l'année budgétaire ne fait pas obstacle à l'utilisation des crédits inscrits au projet du budget de [<sup>2</sup> l'OTW]<sup>2</sup> sauf s'il s'agit de dépenses d'un principe nouveau que le budget de l'année précédente ne contenait pas.
+
+[<sup>3</sup> Aux fins de l'application de la présente disposition, l'OTW est considéré comme une unité d'administration publique de type 3, conformément à l'article 3, § 1er, 4°, c), du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 30, 015; En vigueur : 26-04-2018&gt;
+
+(4)&lt;DRW 2026-09-03/14, art. 1,1°, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 13
+
+[<sup>3</sup> §1.]<sup>3</sup> Les ressources de [<sup>1</sup> l'OTW]<sup>1</sup> sont les suivantes :
+
+1° les recettes propres de [<sup>1</sup> l'OTW]<sup>1</sup>;
+
+2° les crédits accordés par le budget régional;
+
+3° le produit des emprunts qu'[<sup>2</sup> il a été autorisé]<sup>2</sup> à émettre ou à contracter.
+
+[<sup>3</sup> § 2. Les provinces et les communes desservies ne peuvent pas assujettir l'OTW à des taxes et des redevances du chef des concessions et des autorisations qui lui sont octroyées.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 31, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2026-09-03/14, art. 16, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 14
+
+[<sup>2</sup> L'OTW]<sup>2</sup> est autorisé, de l'accord du [<sup>1</sup> Gouvernement]<sup>1</sup>, à contracter ou à émettre des emprunts; [<sup>3</sup> il]<sup>3</sup> communique au [<sup>1</sup> Gouvernement]<sup>1</sup> tout renseignement relatif à ces derniers.
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup> est autorisé à garantir envers les tiers, aux conditions à déterminer par lui, l'intérêt et l'amortissement de ces emprunts et obligations; les engagements garantis par la Région, ne peuvent dépasser les fixées par le décret contenant le budget des dépenses de la Région.
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 32, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 15
+
+Les comptes annuels de [<sup>2</sup> l'OTW]<sup>2</sup> sont établis conformément [<sup>3</sup> au Code de droit économique et à ses arrêtés d'exécution ]<sup>3</sup>, sauf dérogations fixées par le [<sup>1</sup> Gouvernement]<sup>1</sup>.
+
+Les comptes annuels sont établis pour le [<sup>3</sup> 31 mai]<sup>3</sup> au plus tard par le conseil d'administration, arrêtés par l'assemblée générale des actionnaires et approuvés par le [<sup>1</sup> Gouvernement]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2026-09-03/14, art. 17, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 16
+
+[<sup>1</sup> L'OTW présente au Ministre [<sup>2</sup> qui a la Mobilité ]<sup>2</sup> dans ses attributions des situations périodiques. Il lui adresse tous autres renseignements qu'il demande.
+
+L'OTW présente au Gouvernement un rapport annuel sur ses activités.
+
+Le Gouvernement transmet ce rapport au Parlement wallon.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 33, 015; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DRW 2026-09-03/14, art. 1,1°, 024; En vigueur : 28-09-2026&gt;
+
+### Section V. - Pouvoir d'expropriation.
+
+##### Art. 17
+
+[<sup>2</sup> L'OTW]<sup>2</sup> est habilitée à poursuivre, conformément à la législation en matière d'expropriation pour cause d'utilité publique, les acquisitions de biens immobiliers préalablement déclarées d'utilité publique par le [<sup>1</sup> Gouvernement]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+## CHAPITRE II. [<sup>1</sup> Des anciennes sociétés ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 18, 024; En vigueur : 28-09-2026&gt;
+
+### Section I. - (Création, capital, mission et durée.) &lt;DRW 1992-11-26/34, art. 4&gt;
+
+##### Art. 18
+
+[<sup>1</sup> L'OTW succède aux droits et aux obligations de la Société Régionale Wallonne du Transport et des anciennes sociétés d'exploitation qu'il a absorbées, avec effet au 1er janvier 2019. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 19, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 18bis
+
+&lt;Abrogé par DRW 2018-03-29/20, art. 34,2°, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 19
+
+&lt;Abrogé par DRW 2018-03-29/20, art. 34,3°, 015; En vigueur : 26-04-2018&gt;
+
+### Section II. - Fonctionnement.
+
+##### Art. 20
+
+&lt;Abrogé par DRW 2018-03-29/20, art. 34,3°, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 21
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 35,1°, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 35,2°, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 21bis
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-03-01/13, art. 9, 010; En vigueur : 15-03-2012&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(4)&lt;DRW 2018-03-29/20, art. 36, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 21ter
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-03-01/13, art. 10, 010; En vigueur : 15-03-2012&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 36, 015; En vigueur : 01-01-2019&gt;
+
+### Section III. - Contrôle et surveillance.
+
+##### Art. 22
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2012-03-01/13, art. 11, 010; En vigueur : 15-03-2012&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(4)&lt;DRW 2018-03-29/20, art. 36, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 23
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 36, 015; En vigueur : 01-01-2019&gt;
+
+### Section IV. - Budget et comptes.
+
+##### Art. 24
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2012-03-01/13, art. 12, 010; En vigueur : 15-03-2012&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(4)&lt;DRW 2018-03-29/20, art. 36, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 25
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 36, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 26
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 36, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 27
+
+&lt;Abrogé par DRW 2018-03-29/20, art. 37, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 28
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2010-07-22/10, art. 6, 009; En vigueur : 30-08-2010&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 36, 015; En vigueur : 01-01-2019&gt;
+
+##### Art. 29
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 20, 024; En vigueur : 28-09-2026&gt;
+
+### Section V. - Préservation des intérêts de certaines zones.
+
+##### Art. 30
+
+&lt;Abrogé par DRW 2018-03-29/20, art. 38, 015; En vigueur : 26-04-2018&gt;
+
+### Section VI.
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 20, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 31
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 20, 024; En vigueur : 28-09-2026&gt;
+
+## CHAPITRE IIbis. [<sup>1</sup> De l'autorité organisatrice de transport ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 21, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 31/1
+
+[<sup>1</sup> L'autorité organisatrice de transport :
+
+1° propose au Gouvernement, en concertation avec les acteurs de la mobilité, en particulier l'OTW, la méthodologie de définition des liaisons structurantes de transport public régional et de mobipôles, en cohérence avec le schéma de Développement du Territoire dans le cadre de la politique multimodale d'accessibilité au territoire de la Région ;
+
+2° rend un avis non contraignant à l'OTW sur les changements de réseau de l'opérateur répondant à la définition de liaisons structurantes de transport public ;
+
+3° conseille le Gouvernement dans l'élaboration du contrat de service public, assure le suivi et le contrôle de l'exécution du contrat de service public via un dialogue constructif et périodique avec l'opérateur et en fait rapport au Gouvernement et au moins une fois au terme de chaque semestre, réalise un rapport de synthèse relatif à l'exécution du contrat de service public qui est transmis au Parlement et est rendu public ;
+
+4° établit et publie, pour la Région wallonne, le rapport global annuel conformément à l'article 7, § 1er, du règlement européen n° 1370/2007 ;
+
+5° en matière d'infrastructures de transport public :
+
+a) organise et facilite la collaboration entre les gestionnaires de voiries régionales et l'OTW sur les voiries desservies par l'OTW, afin :
+
+(1) d'augmenter la vitesse commerciale des transports publics ;
+
+(2) d'assurer l'aboutissement des projets structurants décidés par le Gouvernement ;
+
+(3) d'améliorer la sécurité des usagers des transports publics ;
+
+b) formule au Gouvernement un avis préalable sur les projets structurants. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 22, 024; En vigueur : 28-09-2026&gt;
+
+## CHAPITRE III. [<sup>1</sup> - Des contrats de service public de l'OTW..]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 39, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 31bis
+
+&lt;Abrogé par DRW 2018-03-29/20, art. 40, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 31ter
+
+&lt;Abrogé par DRW 2018-03-29/20, art. 41, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 32
+
+[<sup>1</sup> Le Gouvernement et l'OTW concluent des contrats de service public d'une durée de cinq ans. A l'échéance des cinq années, le Gouvernement peut arrêter des règles générales provisoires tel que prévu à l'article 8, § 3, du décret du 12 février 2004 relatif au contrat de gestion et aux obligations d'information et ce, pour une durée maximale de dix ans prévue à l'article 4.3 du règlement européen n° 1370/2007. A défaut de signature d'un nouveau contrat au terme des cinq années prévues ou d'une décision du Gouvernement, le contrat est automatiquement prolongé pour une durée d'un an maximum et pour deux fois ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 23, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 33
+
+[<sup>1</sup> § 1er. Sans préjudice des dispositions prévues à l'article 4 du règlement européen [<sup>5</sup> n° 1370/2007]<sup>5</sup>, le contrat de service public précise [<sup>5</sup> au minimum ]<sup>5</sup>:
+
+1° [<sup>5</sup> les obligations de service public, en ce compris la responsabilité sociétale, et les missions déléguées à l'OTW ;]<sup>5</sup>;
+
+2° [<sup>5</sup> la délégation relative aux modalités visées à l'article 2bis]<sup>5</sup>;
+
+3° les zones géographiques concernées;
+
+4° les droits exclusifs [<sup>5</sup> accordés ]<sup>5</sup> et les paramètres de calcul de compensation;
+
+5° les modalités d'évolution de l'intervention régionale dans la couverture des charges d'exploitation, celles-ci ne pouvant avoir d'effet au-delà de la période prévue à l'article 32;
+
+6° les modalités de répartition des coûts liés à la fourniture des services et les modalités de répartition des recettes [<sup>5</sup> liées à la vente des titres de transport entre l'OTW et le Gouvernement ]<sup>5</sup>;
+
+7° [<sup>5</sup> les engagements des parties et les mécanismes d'ajustements en cas de non-respect de ceux-ci]<sup>5</sup>;
+
+[<sup>2</sup> 8° les modalités d'information en temps réel des usagers sur l'état du trafic.]<sup>2</sup>
+
+[<sup>3</sup> 9° les modalités visant à assurer la continuité du service public ainsi que les sanctions financières en cas de rupture de cette continuité du service public;
+
+10° les modalités de remboursement aux clients qui ont payé anticipativement des services qui n'auraient pas été prestés.]<sup>3</sup>
+
+[<sup>4</sup> 11° les modalités[<sup>5</sup> ...]<sup>5</sup> d'organisation [<sup>5</sup> du service ]<sup>5</sup> sur base de l'effectif disponible en cas de situation de discontinuité de service;
+
+12° les modalités visant à lutter contre toute forme de harcèlement ou violences basées sur le genre.]<sup>4</sup>
+
+[<sup>5</sup> 13° les objectifs pour contribuer aux orientations stratégiques régionales en matière de mobilité en application du décret du 1er avril 2004 relatif à la mobilité durable et à l'accessibilité ;
+
+14° les modalités de transmission de données entre l'OTW et l'autorité organisatrice de transport ;
+
+15° les modalités relatives au plan de transport, visé à l'article 2, alinéa 2, 1° ;
+
+16° les objectifs d'intermodalité, visés à l'article 2, alinéa 2, 11°. ]<sup>5</sup>
+
+§ 2. Toute clause résolutoire expresse dans les contrats de service public est réputée non écrite.
+
+Par dérogation [<sup>5</sup> aux dispositions du Livre 5 du Code civil relatives à la résolution du contrat pour inexécution ]<sup>5</sup>, la résolution du contrat ne peut jamais être demandée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2012-03-01/13, art. 18, 010; En vigueur : 15-03-2012&gt;
+
+(2)&lt;DRW 2015-06-04/03, art. 1, 012; En vigueur : 25-06-2015&gt;
+
+(3)&lt;DRW 2017-10-26/03, art. 1, 014; En vigueur : 10-11-2017&gt;
+
+(4)&lt;DRW 2018-03-29/20, art. 42, 015; En vigueur : 26-04-2018&gt;
+
+(5)&lt;DRW 2026-09-03/14, art. 24, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 33bis
+
+&lt;Abrogé par DRW 2017-02-16/37, art. 35, 013; En vigueur : 04-07-2017&gt;
+
+##### Art. 33ter
+
+[<sup>1</sup> Le contrat de service public précise dans quelle mesure et pour quels services la sous-traitance peut être envisagée. La mise en concurrence, après consultation du secteur professionnel concerné, le suivi et le contrôle des services sous-traités, ainsi que la définition d'une procédure et d'un cahier des charges harmonisés, sont assurés par l'OTW. Le cahier des charges est rédigé dans le respect de la réglementation sur les marchés publics en vigueur, après consultation du secteur professionnel concerné ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 25, 024; En vigueur : 28-09-2026&gt;
+
+## CHAPITRE IV.
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 26, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 34
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 26, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 35
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 26, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 36
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 26, 024; En vigueur : 28-09-2026&gt;
+
+## CHAPITRE IVbis. [<sup>1</sup> - Constatation des infractions et amendes administratives.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 44, 015; En vigueur : 26-04-2018&gt;
+
+### Section Itr. [<sup>1</sup> En ce qui concerne tous les services réguliers et réguliers spécialisés, à l'exception de ceux organisés par l'OTW ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 27, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 36bis
+
+[<sup>1</sup> Le Gouvernement peut établir des amendes administratives contre les infractions aux dispositions du Titre II de l'arrêté royal du 15 septembre 1976 portant règlement sur la police des transports de personnes par tram, prémétro, métro, autobus et autocar [<sup>2</sup> , en ce qui concerne tous les services réguliers et réguliers spécialisés, à l'exception de ceux organisés par l'OTW]<sup>2</sup>.
+
+Le montant de l'amende ne peut excéder 500 euros. Au 1er janvier de chaque année, ce montant de 500 euros sera automatiquement et de plein droit indexé sur la base de l'indice des prix à la consommation en vigueur six semaines avant la date de l'indexation (base 2004 = 100).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2007-12-06/45, art. 2, 007; En vigueur : 01-08-2008&gt;
+
+(2)&lt;DRW 2026-09-03/14, art. 28, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36ter
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 29, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater
+
+[<sup>1</sup> § 1er. Le Gouvernement désigne les membres du personnel [<sup>2</sup> ...]<sup>2</sup> qui sont chacun habilités à prononcer l'amende administrative visée à l'article 36bis.
+
+§ 2. Le contrevenant est informé, selon les modalités déterminées par le Gouvernement, de la sanction administrative qu'il risque d'encourir. Le Gouvernement détermine également la procédure applicable pour permettre au contrevenant de faire valoir ses observations par audition, les règles de notification de la décision d'appliquer l'amende et les modalités de paiement.
+
+§ 3. Le contrevenant dispose d'un droit de recours contre la décision d'appliquer l'amende. Ce recours est introduit, sous peine de forclusion, dans le mois de la notification de la décision d'appliquer l'amende par voie de requête devant le tribunal de police, selon la procédure civile. Le recours devant le Tribunal de police est un recours de pleine juridiction. Il est suspensif. Le jugement du tribunal n'est pas susceptible d'appel.
+
+§ 4. En cas de défaut de paiement de l'amende administrative dans les délais déterminés par le Gouvernement, l'amende peut être recouvrée par contrainte. La contrainte est visée et déclarée exécutoire par les membres du personnel de la société d'exploitation désignés à cet effet par le Gouvernement, lequel fixe également la procédure de notification et les délais applicables. La contrainte est régie par les dispositions contenues dans la cinquième partie du Code judiciaire relative à la saisie conservatoire et aux voies d'exécution.
+
+§ 5. L'existence d'une décision administrative ou judiciaire définitive intervenue en exécution du présent article éteint l'action publique.
+
+L'existence d'une décision pénale définitive statuant, pour un même fait érigé en infraction, dans le cadre d'une action publique en application des dispositions combinées de la loi du 6 mars 1818 concernant les peines à infliger pour les contraventions aux mesures générales d'administration intérieure, ainsi que les peines qui pourront être statuées par les règlements des autorités provinciales ou communales, et de l'arrêté royal du 15 septembre 1976 portant règlement sur la police des transports de personnes par tram, prémétro, métro, autobus et autocar, fait définitivement obstacle à toute poursuite suivant la procédure prévue par le présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2007-12-06/45, art. 4, 007; En vigueur : 01-08-2008&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 46, 015; En vigueur : 26-04-2018&gt;
+
+### Section II. [<sup>1</sup> En ce qui concerne les services réguliers et réguliers spécialisés de transport de personnes organisés par l'OTW ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 30, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 36quater/1
+
+[<sup>1</sup> Le Gouvernement peut ériger en infractions administratives les comportements qui sont de nature à entraver le bon fonctionnement du service de transport public organisé par l'OTW, ou à porter préjudice aux usagers du réseau de service de transport public organisé par l'OTW, à leur auteur, à l'OTW ou aux sociétés chargées de l'exploitation de services réguliers et services réguliers spécialisés en vertu de l'article 33ter, y compris lorsqu'un véhicule est impliqué. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 31, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/2
+
+[<sup>1</sup> § 1er. Le Gouvernement peut établir des amendes administratives contre les infractions visées à l'article 36quater/1. L'amende administrative s'élève au maximum à 500 euros. Au 1er janvier de chaque année, ce montant de 500 euros est, automatiquement et de plein droit, indexé sur la base de l'indice santé. Cette indexation est calculée en multipliant le montant de 500 euros par l'indice-santé du mois de novembre de l'année précédant celle au cours de laquelle l'indexation est appliquée, et en le divisant par l'indice-santé du mois de l'entrée en vigueur du présent article. Le résultat de ce calcul est arrondi à l'euro le plus proche.
+
+Les mineurs qui commettent une infraction visée à l'article 36quater/1 et ayant atteint l'âge de quatorze ans accomplis au moment des faits, peuvent être sanctionnés par une amende administrative dont le maximum ne peut dépasser 175 euros.
+
+§ 2. Le Gouvernement peut prévoir, en lieu et place de l'amende administrative, une ou plusieurs des mesures alternatives suivantes :
+
+1° la prestation citoyenne, applicable aux contrevenants majeurs ou mineurs, consistant en l'exécution, par le contrevenant, d'une prestation d'intérêt général au bénéfice de la collectivité ;
+
+2° la médiation locale, applicable aux contrevenants mineurs et dans les cas déterminés par le Gouvernement, consistant en une mesure visant, avec l'intervention d'un médiateur, à permettre au contrevenant de réparer ou d'indemniser le dommage causé ou de contribuer à l'apaisement du conflit. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 32, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/3
+
+[<sup>1</sup> § 1er. Le Gouvernement peut, à titre de sanction accessoire à l'amende administrative, prévoir :
+
+1° le retrait, temporaire ou définitif, d'un titre de transport ;
+
+2° le refus de délivrer un nouveau titre de transport ;
+
+3° la suspension temporaire de l'accès au service de transport à la demande organisé par l'OTW.
+
+La durée cumulée des mesures visées à l'alinéa 1er ne peut excéder trois ans.
+
+Par dérogation à l'alinéa 1er, le contrevenant conserve la possibilité de circuler sur le réseau de l'OTW au moyen d'un titre de transport sur support non rechargeable.
+
+§ 2. Sans préjudice des peines prévues par la loi, le juge peut, lors du prononcé de la condamnation, interdire l'accès à l'ensemble ou à une partie des exploitations de l'OTW, pour une durée comprise entre quinze jours et un an, à toute personne déclarée coupable :
+
+1° d'une infraction visée aux articles 193 à 197 et 237 du Code pénal ;
+
+2° d'une infraction visée à l'article 3 de la loi du 22 mai 2014 tendant à lutter contre le sexisme dans l'espace public.
+
+L'alinéa 1er ne s'applique que lorsque l'infraction a été commise à l'encontre :
+
+1° d'un membre du personnel de l'OTW, ou ;
+
+2° d'un membre du personnel des sociétés chargées de l'exploitation des services réguliers ou des services réguliers spécialisés en vertu de l'article 33ter.
+
+En cas de récidive, la durée maximale de l'interdiction d'accès visée à l'alinéa 1er est portée à deux ans. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 33, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/4
+
+[<sup>1</sup> § 1er. Le Gouvernement désigne les membres du personnel de l'OTW qui constatent les infractions visées à l'article36quater/1, en tant qu'agents constatateurs.
+
+A cet effet, et sans préjudice de la compétence reconnue par ou en vertu d'autres dispositions législatives ou réglementaires à d'autres personnes, les membres du personnel désignés ont la qualité d'agent de police judiciaire. Ils prêtent serment devant le Tribunal de première instance de leur résidence.
+
+Dans l'exercice de leurs missions, les agents constatateurs peuvent interroger toute personne sur tout fait dont la connaissance est utile à l'exercice de la surveillance, à la recherche ou à la constatation des infractions.
+
+Ils peuvent procéder à des contrôles d'identité afin de vérifier le respect des conditions de transport de l'OTW, des dispositions du présent décret et de ses arrêtés d'exécution, y compris à titre préventif, ou afin d'établir un constat d'infraction. Ils peuvent obtenir, sans déplacement ou recherche, la production de tout document utile à l'accomplissement de leurs missions. Ils peuvent en prendre copie par photographie ou par tout autre procédé technique assurant une reproduction fidèle du document, ou l'emporter contre récépissé.
+
+Lorsque la personne invitée à s'identifier au moyen d'une pièce d'identité valable, entendue comme tout document officiel émanant d'une autorité compétente comprenant une photographie et pouvant établir son identité, refuse de s'y conformer ou communique une identité manifestement douteuse, les agents constatateurs peuvent requérir l'assistance des services de police. Dans ce cas, ils peuvent maintenir la personne sur place jusqu'à leur arrivée. La rétention ne peut pas durer plus de trente minutes. Les modalités de transmission, par les services de police aux agents constatateurs, des données d'identification nécessaires à la rédaction de leur procès-verbal sont fixées par un protocole de collaboration conclu entre le Gouvernement et les autorités fédérales compétentes.
+
+§ 2. La désignation des membres du personnel de l'OTW visés au paragraphe 1er est attestée par une carte de légitimation leur permettant de justifier de leur qualité d'agent de police judiciaire sur le terrain.
+
+Les traitements de données à caractère personnel nécessaires à l'élaboration et à la gestion de cette carte poursuivent les finalités suivantes : attester la qualité d'agent de police judiciaire sur le terrain et suivre les cartes en circulation aux fins de garantir la sécurité juridique.
+
+Ils portent sur les catégories de données suivantes : les données d'identification, à savoir le nom, le prénom et la photo d'identité ; les données de désignation, à savoir la date de l'arrêté, la business unit et le matricule ; les données de la carte, à savoir le numéro, le statut et le motif de restitution. Les personnes concernées sont les membres du personnel désignés en application du paragraphe 1er.
+
+L'OTW est le responsable du traitement pour la désignation des membres du personnel comme agents de contrôle, la tenue du registre des désignations, ainsi que pour la collecte en amont des données à caractère personnel nécessaires à la confection de la carte de légitimation et leur transmission à l'administration désignée par le Gouvernement, ci-après dénommée l'administration. L'administration est le responsable du traitement pour la tenue du registre des cartes de légitimation en cours de validité et restituées, ainsi que pour la destruction des cartes de légitimation.
+
+L'accès aux données est limité aux agents de l'OTW et de l'administration préposés à la gestion et à la confection des cartes de légitimation, ainsi qu'à leurs suppléants, et fait l'objet d'une journalisation.
+
+Les données sont conservées pour la durée nécessaire à ces finalités, sans excéder ce qui est requis pour l'attestation de la qualité d'agent et l'établissement de la preuve devant les juridictions.
+
+Le Gouvernement détermine le modèle de la carte, les modalités de délivrance, de renouvellement, de restitution, de retrait et de destruction de celle-ci, ainsi que les modalités d'exécution des traitements visés à l'alinéa précédent, notamment les durées précises de conservation et les mesures techniques et organisationnelles applicables.
+
+Les données ne peuvent être traitées à d'autres fins que celles énoncées ci-dessus ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 34, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/5
+
+[<sup>1</sup> Les agents constatateurs, ainsi que toute personne liée par un contrat de travail à l'OTW ou aux sociétés chargées de l'exploitation de services réguliers et services réguliers spécialisés en vertu de l'article 33ter, confisquent, dans l'exercice de leurs fonctions, tout titre de transport qui a été falsifié ou contrefait, ou tout titre de transport nominatif qui est utilisé par une personne qui n'en est pas le titulaire. Le titulaire légitime d'un titre de transport nominatif confisqué en raison de son utilisation par un tiers peut récupérer ce titre dans un espace de vente LETEC. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 35, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/6.
+
+[<sup>1</sup> § 1er. Les infractions sont constatées au moyen de procès-verbaux faisant foi jusqu'à preuve du contraire par les agents constatateurs.
+
+Les procès-verbaux peuvent être établis par les agents constatateurs sur la base de déclarations faites par toute personne liée par un contrat de travail à l'OTW ou aux sociétés chargées de l'exploitation de services réguliers et services réguliers spécialisés en vertu de l'article 33ter, alors qu'ils sont dans l'exercice de leurs fonctions. Dans ce cas, les procès-verbaux ne font pas foi jusqu'à preuve du contraire.
+
+§ 2. En fonction de l'organisation interne et des moyens techniques disponibles, les procès-verbaux, ainsi que tous les actes de procédure et documents visés par le présent décret et ses arrêtés d'exécution, peuvent être établis, notifiés et conservés sous forme électronique. Ils ont la même valeur juridique et la même force probante que s'ils avaient été établis sur support papier, pour autant qu'ils aient été conservés de manière à en garantir l'intégrité. En cas de notification sous forme électronique, une copie de l'acte ou du document est également transmise au contrevenant par envoi postal.
+
+§ 3. Lorsqu'ils sont établis sous forme électronique, ces documents sont revêtus soit d'une signature électronique, soit d'un cachet électronique.
+
+Le Gouvernement détermine le niveau D'exigence de la signature ou du cachet électronique, simple, avancé ou qualifié, au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur, en fonction de la nature de l'acte et des nécessités techniques.
+
+A défaut de précision par le Gouvernement, la signature électronique qualifiée est requise pour le procès-verbal et la décision d'infliger une amende administrative. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 36, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/7
+
+[<sup>1</sup> Lors de la constatation d'une des infractions visées à l'article 36quater/1, les agents constatateurs visés à l'article 36quater/4 peuvent, moyennant l'accord de l'auteur de l'infraction, percevoir une somme immédiatement, suivant les modalités déterminées par le Gouvernement. Le Gouvernement fixe le montant de cette somme, qui ne peut pas être supérieur au maximum de l'amende prévue pour cette infraction, ainsi que les modalités de perception.
+
+En cas de perception immédiate, l'agent constatateur en fait mention au procès-verbal, dont une copie est envoyée au contrevenant.
+
+La perception immédiate éteint la possibilité d'infliger au contrevenant une amende administrative pour le même fait.
+
+Cet article n'est pas applicable lorsque le contrevenant est un mineur. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 37, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/8
+
+[<sup>1</sup> Le Gouvernement désigne les membres du personnel de l'OTW qui peuvent infliger les amendes et les mesures administratives visées à l'article 36quater/2, § 2, et à l'article 36quater/3, § 1er, en tant qu'agents sanctionnateurs.
+
+Les agents sanctionnateurs se trouvent dans un service différent et séparé des agents constatateurs, de manière à assurer leur totale indépendance d'action ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 38, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/9
+
+[<sup>1</sup> La compétence des agents constatateurs et sanctionnateurs s'étend sur l'ensemble du réseau de transport public exploité par l'OTW.
+
+Les personnes qui, avant la date d'entrée en vigueur du présent article, ont été désignées par le Gouvernement en tant qu'agent constatateur ou sanctionnateur au sein d'une des anciennes sociétés d'exploitation bénéficient de la compétence visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 39, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/10
+
+[<sup>1</sup> . Le contrevenant est informé, selon les modalités déterminées par le Gouvernement, de la sanction administrative dont il est passible. Le Gouvernement détermine également la procédure applicable pour permettre au contrevenant de faire valoir ses observations par audition, les règles de notification de la décision d'appliquer l'amende et les modalités de paiement.
+
+L'amende administrative est fixée dans le respect du principe de proportionnalité et en tenant compte d'une éventuelle récidive. L'amende administrative infligée à un mineur tient également compte des circonstances particulières du mineur, entre autres sa personnalité et son degré de maturité.
+
+Lorsque le contrevenant est mineur, l'agent sanctionnateur avise le bâtonnier de l'ordre des avocats dès que la procédure est entamée, afin qu'il soit veillé à ce que le mineur puisse être assisté d'un avocat pendant toute la procédure. Le bâtonnier ou le bureau d'aide juridique procède à la désignation d'un avocat, au plus tard dans les deux jours ouvrables à compter de cet avis.
+
+Les père, mère et tuteurs ou les personnes qui ont la garde du contrevenant mineur sont associés à la procédure dès qu'elle est entamée, et informés de chaque communication écrite ou décision de la même manière que le contrevenant mineur. Ces parties disposent des mêmes droits que le mineur. L'avocat du mineur est informé et associé à la procédure de la même manière. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 40, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/11
+
+[<sup>1</sup> § 1er. Le contrevenant dispose d'un droit de recours contre la décision d'appliquer l'amende.
+
+Ce recours est introduit, sous peine de forclusion, dans le mois de la réception de la décision d'appliquer l'amende par voie de requête devant le Tribunal de police, selon la procédure civile.
+
+Le recours devant le Tribunal de police est un recours de pleine juridiction. Il est suspensif.
+
+Le jugement du Tribunal de police n'est pas susceptible d'appel.
+
+§ 2. Lorsque la décision est prise à l'encontre d'un mineur, le recours est introduit gratuitement par requête écrite auprès du Tribunal de la jeunesse compétent.
+
+L'article 60 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié d'infraction et la réparation du dommage causé par ce fait est d'application.
+
+Le jugement du Tribunal de la jeunesse n'est pas susceptible d'appel.
+
+Le recours devant le tribunal de la jeunesse peut également être introduit par les père, mère, tuteurs ou les personnes qui ont la garde du mineur. Ce tribunal reste compétent si le contrevenant est devenu majeur au moment où il se prononce.
+
+Lorsque le Tribunal de la jeunesse décide de remplacer la sanction administrative par une mesure de garde, de préservation ou d'éducation visée à l'article 37 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié d'infraction et la réparation du dommage causé par ce fait, sa décision est susceptible d'appel. Dans ce cas, les procédures prévues par la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié d'infraction et la réparation du dommage causé par ce fait pour les faits qualifiés d'infractions sont d'application. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 41, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/12
+
+[<sup>1</sup> La décision d'infliger une amende administrative a force exécutoire à l'expiration du délai de recours visé à l'article 36quater/11, § 1er. Le recouvrement de l'amende administrative peut être poursuivi par voie amiable ou par voie d'exécution forcée. L'OTW peut assurer lui-même le recouvrement amiable de l'amende administrative ou confier celui-ci à un tiers mandaté. L'exécution forcée de la décision est régie par les dispositions contenues dans la cinquième partie du Code judiciaire relative à la saisie conservatoire et aux voies d'exécution.
+
+Chaque titulaire qui a l'autorité parentale sur le mineur, est civilement responsable du paiement de l'amende administrative. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 42, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/13
+
+[<sup>1</sup> L'existence d'une décision administrative ou judiciaire définitive intervenue en exécution du présent décret éteint l'action publique pour les faits qui ont donné lieu à cette décision.
+
+Lorsqu'un comportement érigé en infraction administrative par le Gouvernement constitue également une infraction pénale, l'agent sanctionnateur envoie le procès-verbal au procureur du Roi compétent et lui notifie, par tout moyen permettant d'en assurer la preuve, son intention d'imposer une amende administrative. Le procureur du Roi dispose d'un délai de deux mois, à compter du jour de l'envoi du procès-verbal, pour informer l'agent sanctionnateur qu'une information ou une instruction a été ouverte, que des poursuites ont été entamées ou qu'il estime devoir classer le dossier sans suite à défaut de charges suffisantes. Cette communication éteint la possibilité pour le fonctionnaire sanctionnateur d'imposer une amende administrative.
+
+L'agent sanctionnateur ne peut infliger une amende administrative qu'à l'échéance de ce délai, ou avant l'échéance de celui-ci si le procureur du Roi communique au préalable à l'agent sanctionnateur, par tout moyen permettant d'en assurer la preuve, qu'il ne compte pas poursuivre l'infraction. Les modalités de cette procédure et la concertation avec les autorités judiciaires sont fixées par le Gouvernement.
+
+Lorsque le contrevenant est un mineur, la possibilité d'infliger une amende administrative s'éteint également lorsqu'est mise en mouvement, à son encontre, la procédure prévue par la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, ou par les dispositions décrétales qui la complètent ou la remplacent, pour ces mêmes faits. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 43, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 36quater/14
+
+[<sup>1</sup> L'agent sanctionnateur ne peut plus infliger une amende administrative à l'expiration d'un délai de trois mois à compter du constat de l'infraction, ou à compter de l'expiration du délai prévu à l'article 36quater/13, alinéa 2. Ce délai est porté à douze mois lorsqu'intervient une prestation citoyenne ou une médiation.
+
+Les amendes administratives se prescrivent par cinq ans à compter de la date à laquelle elles doivent être payées. La prescription est interrompue selon le mode et aux conditions fixées aux articles 2242 et suivants de l'ancien Code civil. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 44, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quater/15
+
+[<sup>1</sup> L'amende administrative infligée par un agent sanctionnateur est perçue au bénéfice de l'OTW.
+
+L'application d'une amende administrative ne porte pas atteinte au droit de l'OTW de réclamer réparation du préjudice qu'elle aurait subi du fait de l'infraction. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 45, 024; En vigueur : 01-01-2028&gt;
+
+## CHAPITRE IVter [<sup>1</sup> Données à caractère personnel " ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 46, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 36quinquies
+
+[<sup>1</sup> § 1er. Dans le cadre des missions qui lui sont confiées par le présent décret et par le contrat de service public, l'OTW traite les données à caractère personnel nécessaires à l'accomplissement de ses missions d'intérêt public. Ces traitements reposent sur l'article 6, § 1er, point e), du règlement (UE) 2016/679 (RGPD).
+
+Lorsque l'OTW agit en vue d'exécuter un contrat conclu avec la personne concernée ou des mesures précontractuelles prises à la demande de celle-ci, le traitement repose sur l'article 6, § 1er, point b), du RGPD, et ne porte que sur les données strictement nécessaires à cette fin.
+
+§ 2. Les traitements visés au paragraphe 1er sont effectués aux seules finalités suivantes :
+
+1° la gestion et la délivrance des titres de transport, en ce compris les titres personnalisés et la billettique électronique, à l'exclusion de tout profilage des usagers ;
+
+2° la gestion de la relation avec la clientèle et l'information des usagers et usagers potentiels ;
+
+3° la gestion commerciale et tarifaire des services de transport public de personnes ;
+
+4° le contrôle du respect des conditions d'accès aux titres de transport et aux réductions tarifaires ;
+
+5° la prévention, la détection et la constatation des infractions au présent décret et à ses arrêtés d'exécution, ainsi que des fraudes relatives aux titres de transport et aux avantages tarifaires ;
+
+30805422826776° l'exercice des missions de constatation, de contrôle et de sanction confiées aux agents de l'OTW par le présent décret, en ce compris l'établissement, l'instruction et l'exécution des amendes administratives et des sanctions accessoires visées au chapitre IVbis, section II;
+
+7° l'exécution des obligations de service public déterminées par le présent décret et par le contrat de service public conclu entre l'OTW et la Région et des obligations légales lui incombant dans les lois particulières ;
+
+8° l'évaluation de l'adéquation de l'offre de transport à la demande, au moyen d'analyses statistiques réalisées sur la base de données collectées pour les finalités visées aux 1° à 7° et préalablement anonymisées.
+
+Pour l'ensemble de ces finalités, l'OTW agit en qualité de responsable de traitement. Pour les finalités relevant de la constatation et de la sanction des infractions, les agents constatateurs et les agents sanctionnateurs agissent sous la responsabilité de l'OTW.
+
+§ 3. Les catégories de personnes concernées et les catégories de données traitées sont, pour chaque finalité visée au paragraphe 2, les suivantes :
+
+<table><tr><td>Finalité ( § 2) </td><td>Catégories de personnes </td><td>Catégories de données </td></tr><tr><td>1°, 4° </td><td>Usagers, y compris usagers mineurs et leurs représentants légaux </td><td>Données d'identification ; données relatives aux titres de transport et à leur utilisation ; données justifiant le droit à un avantage tarifaire </td></tr><tr><td>2° </td><td>Usagers et usagers potentiels ayant pris contact avec l'OTW </td><td>Données d'identification et de contact ; contenu et historique des demandes </td></tr><tr><td>3° </td><td>Usagers </td><td>Données d'identification ; données relatives aux titres et aux paiements </td></tr><tr><td>5°, 6° </td><td>Auteurs présumés, y compris auteurs présumés mineurs et leurs représentants légaux ; le cas échéant, témoins et victimes (régis séparément, § 5) ; </td><td>Données d'identification ; faits constatés et circonstances ; données relatives aux véhicules lorsque nécessaires au contrôle ; suites administratives et judiciaires </td></tr><tr><td>7° </td><td>Usagers concernés par l'obligation de service public en cause </td><td>Données strictement nécessaires à l'obligation considérée, telle qu'identifiée par le décret ou le contrat de service public </td></tr><tr><td>8° </td><td>Aucune (données préalablement anonymisées) </td><td>Données anonymisées ; aucune donnée à caractère personnel n'est traitée à cette fin</td></tr></table>
+
+L'accès aux données relatives aux véhicules n'est autorisé que dans la mesure nécessaire à l'exercice des missions de contrôle.
+
+§ 4. Dans le respect des conditions prévues par les législations applicables, l'OTW peut accéder aux sources authentiques suivantes, pour les seules finalités indiquées :
+
+1° le Registre national des personnes physiques : pour l'identification correcte des usagers, la gestion des titres de transport personnalisés, la gestion de la relation clientèle, la constatation des infractions et fraudes (finalités visées au paragraphe 2, alinéa 1er, 1°, 2°, 4°, 5° et 6° ) et la gestion de sa mission d'auto-assurance ;
+
+2° la Banque-Carrefour des véhicules : pour la constatation des infractions et l'exercice des missions de contrôle (finalités visées au paragraphe 2, alinéa 1er, 5° et 6° ), la mission d'auto-assurance ainsi que pour la délivrance de titres de transport ;
+
+3° la Banque-Carrefour des Entreprises : pour la vérification des conditions tarifaires applicables aux personnes morales, la gestion de l'autoassurance et le recouvrement (finalités visées au paragraphe 2, alinéa 1er, 4° et 6° ) ;
+
+4° les bases de données cadastrales : pour la seule vérification de l'identité des propriétaires de biens situés sur la zone utile à l'aménagement des infrastructures de l'OTW (finalité visée au paragraphe 2, alinéa 1er, 7° ).
+
+§ 5. Il est créé, sous la responsabilité de l'OTW, une banque de données destinée à la constatation, à l'instruction, à la mise à jour et au suivi des infractions visées à l'article 36quater/1 et des amendes et sanctions qui s'y rapportent. Ces données, relatives à des infractions et à des sanctions au sens de l'article 10 du règlement (UE) 2016/679, font l'objet de garanties appropriées.
+
+La banque de données distingue, par des accès et des régimes de conservation propres :
+
+1° les données relatives aux auteurs présumés et sanctionnés ;
+
+2° les données relatives aux témoins ;
+
+3° le cas échéant, les données relatives aux victimes.
+
+Elle distingue également les faits constatés directement par un agent constatateur assermenté de ceux rapportés par un tiers.
+
+La séparation entre les agents constatateurs et les agents sanctionnateurs est garantie.
+
+Lorsque des données relatives à une infraction susceptible de poursuites pénales sont conservées, l'OTW met en place un dispositif d'actualisation permettant l'effacement des données en cas de classement sans suite pour absence d'infraction, de non-lieu ou d'acquittement, sur le modèle du flux d'information visé à l'article 646 du Code d'instruction criminelle.
+
+§ 6. Les données à caractère personnel sont conservées uniquement pour la durée nécessaire à la réalisation des finalités pour lesquelles elles sont traitées, et au maximum :
+
+1° pour les finalités visées au paragraphe 2, alinéa 1er, 1° à 4° : pendant la durée de la relation avec l'usager, puis 18 mois après le dernier usage du titre ;
+
+2° pour les finalités visées au paragraphe 2, alinéa 1er, 5° et 6° : jusqu'à l'extinction de l'action administrative et, le cas échéant, des voies de recours, et au maximum cinq ans à compter du caractère définitif de la décision, sans préjudice de l'effacement anticipé prévu au paragraphe 5, alinéa 3 ;
+
+3° les données relatives à une sanction ne peuvent plus être prises en compte au titre de la récidive au-delà des délais fixés au chapitre IVbis, section II.
+
+A l'échéance de ces délais, les données sont effacées ou anonymisées. Le Gouvernement peut uniquement abréger les délais de conservation visés au présent paragraphe.
+
+Les traitements statistiques sur ces données, dès lors que les résultats sont anonymisés sont considérés comme un traitement ultérieur compatible.
+
+§ 7. Le Gouvernement peut préciser et sans pouvoir étendre les finalités, les catégories de personnes, les catégories de données ou les durées fixées aux paragraphes 2 à 6 :
+
+1° les modalités techniques d'accès aux sources authentiques ;
+
+2° les mesures de sécurité et de confidentialité et les catégories de personnes nécessitant un accès ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2026-09-03/14, art. 47, 024; En vigueur : 01-01-2028&gt;
+
+##### Art. 36quinquies/1
+
+[<sup>1</sup> § 1er. Le présent article est pris en application des dispositions de l'article 3 de la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance.
+
+Pour l'application du présent article, on entend par caméra de surveillance fixe ou fixe temporaire, au sens de l'article 2 de la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance, tout système d'observation fixé à demeure ou pour une durée limitée à un emplacement, installé sur le réseau, dans les véhicules ou dans les infrastructures de l'OTW.
+
+L'usage de caméras mobiles, de type " dashcam ", est exclu du champ d'application du présent article.
+
+§ 2. L'OTW installe et utilise des caméras de surveillance aux seules finalités suivantes :
+
+1° la protection des biens de l'OTW ;
+
+2° la santé et la sécurité des travailleurs de l'OTW et des tiers présents sur le réseau, dans les véhicules ou en cause d'infraction ;
+
+3° la surveillance et le contrôle, c'est-à-dire la prévention, la constatation et la détection des infractions et des incivilités au sens de la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance ;
+
+4° le comptage des usagers, réalisé au moyen de dispositifs ne permettant pas l'identification des personnes.
+
+Les caméras ne peuvent être utilisées à des fins de contrôle individuel du travail des travailleurs.
+
+Les images traitées pour la finalité visée à l'alinéa 1er, 4°, ne constituent pas des données à caractère personnel.
+
+§ 3. L'OTW est le responsable du traitement. Lorsque, pour la finalité visée au paragraphe 2, alinéa 1er, 3°, les images sont traitées par les services d'inspection et de contrôle de l'OTW dans l'exercice de leurs missions de constatation, ces services agissent sous la responsabilité de l'OTW. Les opérations autorisées sont la captation, l'enregistrement, le visionnage en temps réel et en différé, la copie et la communication des images, dans les conditions et aux destinataires déterminés au présent article.
+
+§ 4. Les images peuvent être communiquées aux services de police pour les finalités visées au paragraphe 2 ou pour toute finalité prévue par la loi du 21 mars 2007.
+
+§ 5. Les images et données sont conservées pour une durée qui ne peut excéder trente jours, sauf lorsqu'elles sont nécessaires à la constatation d'une infraction ou au traitement d'une contestation, auquel cas elles sont conservées jusqu'à l'extinction de la procédure concernée. Elles ne peuvent être effacées avant l'expiration d'un délai de quarante-huit heures permettant à la personne concernée d'exercer ses droits.
+
+§ 6. Le Gouvernement détermine les mesures techniques et organisationnelles de sécurité et de confidentialité applicables et les modalités d'information du public, sans pouvoir étendre les finalités, les opérations, les destinataires ou les durées fixés au présent article. .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2026-09-03/14, art. 48, 024; En vigueur : 01-01-2028&gt;
+
+## Chapitre IVquater. [<sup>1</sup> - Servitudes légales d'utilité publique relatives à la réalisation et à l'exploitation d'un réseau de tramways sur le territoire de la Région wallonne.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-03-29/20, art. 48, 015; En vigueur : 26-04-2018&gt;
+
+### Section I. [<sup>1</sup> - Servitude légale d'utilité publique sur le domaine public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-11-22/11, art. 4, 011; En vigueur : 17-12-2012&gt;
+
+##### Art. 36sexies
+
+[<sup>1</sup> § 1er. Il est créé en faveur de [<sup>2</sup> l'OTW]<sup>2</sup> une servitude légale d'utilité publique lui permettant d'établir, à titre gratuit, sous, sur ou au-dessus du domaine public de toute personne morale de droit public, les ouvrages et équipements nécessaires y compris leurs accessoires et les zones de dégagement nécessaires à la réalisation et à l'exploitation du réseau de transport public de personnes par tramway [<sup>3</sup> sur le territoire de la Région wallonne]<sup>3</sup>.
+
+[<sup>2</sup> L'OTW]<sup>2</sup> n'est cependant pas [<sup>3</sup> autorisé]<sup>3</sup> à établir des ouvrages et équipements sur les voies ferrées gérées par la Société nationale des Chemins de fer belges.
+
+§ 2. [<sup>2</sup> L'OTW]<sup>2</sup>, propriétaire des ouvrages et équipements, peut sur ces biens :
+
+1° constituer des droits réels compatibles avec leur affectation publique;
+
+2° céder à toute personne de droit public ou privé, pour la durée qu'[<sup>3</sup> il]<sup>3</sup> détermine, un droit de superficie.
+
+§ 3. La mise en oeuvre de la servitude visée au § 1er est subordonnée à l'autorisation préalable du Gouvernement, quel que soit le domaine public concerné.
+
+Le Gouvernement statue sur la demande d'autorisation dans les 75 jours de la réception de la demande.
+
+Si la demande concerne en tout ou en partie le domaine public provincial, communal ou de toute autre personne morale de droit public, le Gouvernement statue après avoir pris l'avis du gestionnaire du domaine public concerné. Cet avis est donné dans les 45 jours de la réception de la demande d'avis. Passé ce délai, il est négligé.
+
+Les délais visés aux alinéas 2 et 3 sont suspendus entre le 15 juillet et le 15 août.
+
+En cas d'application de l'alinéa 3, le délai visé à l'alinéa 2 est augmenté de 45 jours.
+
+L'autorisation du Gouvernement est réputée acquise s'il n'a pas été statué sur la demande d'autorisation dans le délai visé à l'alinéa 2, le cas échéant prolongé conformément aux alinéas 4 et 5, et que le gestionnaire du domaine public consulté n'a pas formulé, en temps utile, ses observations dans le cadre de la procédure d'avis prévue à l'alinéa 3.
+
+§ 4. Le gestionnaire du domaine public, sur lequel est établie une voie ferrée de transport public de personnes par tramway ou tout autre type d'ouvrage ou d'équipement visé au paragraphe 1er, peut entreprendre ou autoriser des travaux de nature à perturber le bon fonctionnement de ce réseau de transport uniquement moyennant concertation préalable avec la Société régionale.
+
+Les travaux entraînant un déplacement de la voie ferrée sont subordonnés à l'autorisation préalable du Gouvernement. Le Gouvernement statue sur la demande dans les 75 jours de la réception de la demande et après avoir pris l'avis de [<sup>2</sup> l'OTW]<sup>2</sup>. Passé ce délai, l'autorisation est réputée accordée. Ce délai est suspendu entre le 15 juillet et le 15 août.
+
+Les travaux nécessités par un besoin urgent de sécurité publique peuvent être réalisés sans autorisation préalable du Gouvernement, après concertation préalable avec [<sup>2</sup> l'OTW]<sup>2</sup>.
+
+Les frais de remise en état de la voie et de ses équipements sont à charge du gestionnaire à l'origine des travaux visés à l'alinéa 1er.
+
+§ 5. [<sup>2</sup> L'OTW]<sup>2</sup> assure, à ses frais, l'entretien des voies ferrées des ouvrages et des équipements qu'[<sup>3</sup> il]<sup>3</sup> a érigés ou fait ériger sur le domaine public.
+
+[<sup>2</sup> L'OTW]<sup>2</sup> enlève les voies ferrées, ouvrages et équipements dont l'exploitation a pris fin et remet les fonds sur lesquels ces voies, ouvrages et équipements ont été érigés, dans leur pristin état.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-11-22/11, art. 5, 011; En vigueur : 17-12-2012&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 49, 015; En vigueur : 26-04-2018&gt;
+
+### Section II. [<sup>1</sup> - Servitude légale d'utilité publique sur le domaine privé des personnes morales de droit public et sur les propriétés privées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-11-22/11, art. 6, 011; En vigueur : 17-12-2012&gt;
+
+##### Art. 36septies
+
+[<sup>1</sup> § 1er. Il est créé en faveur de [<sup>2</sup> l'OTW]<sup>2</sup> une servitude légale d'utilité publique lui permettant, à titre gratuit et pour les besoins de l'installation et de l'exploitation du réseau de transport public de personnes par tramway [<sup>3</sup> sur le territoire de la Région wallonne]<sup>3</sup> :
+
+1° d'établir à demeure des supports et ancrages pour lignes électriques aériennes dans les murs et façades donnant sur la voie publique;
+
+2° de faire passer des lignes électriques sous des propriétés privées ou au-dessus sans attache ni contact;
+
+3° de couper, à ses frais, des branches d'arbres qui se trouvent à proximité des lignes électriques aériennes et qui pourraient occasionner des courts-circuits ou des dégâts aux installations.
+
+§ 2. Sans préjudice du paragraphe 1er et moyennant l'autorisation du Gouvernement, [<sup>2</sup> l'OTW]<sup>2</sup> a le droit d'établir tous les ouvrages et équipements nécessaires, y compris leurs accessoires à l'exploitation du réseau de transport public de personnes par tramway dans l'agglomération de Liège, sous, sur ou au-dessus des dépendances du domaine privé et des propriétés privées, en tout ou en partie non bâties, d'en assurer la surveillance et d'exécuter les travaux nécessaires à leur fonctionnement et à leur entretien, le tout aux conditions déterminées dans l'autorisation.
+
+L'occupation partielle du fonds privé respecte l'usage auquel celui-ci est affecté. Elle n'entraîne aucune dépossession mais est constitutive d'une servitude légale d'utilité publique interdisant tout acte de nature à nuire aux ouvrages et équipements nécessaires à l'exploitation du réseau de transport public de personnes par tramways visé à l'alinéa 1er.
+
+§ 3. [<sup>2</sup> L'OTW]<sup>2</sup> verse une juste indemnité au profit du propriétaire du fonds grevé de la servitude ou de titulaires de droits réels attachés à ce fonds.
+
+L'indemnité fait l'objet d'un paiement unique ou d'une redevance annuelle.
+
+§ 4. Le Gouvernement détermine :
+
+1° la procédure d'autorisation visée au § 2, notamment la forme de la demande, les documents qui doivent l'accompagner, l'instruction du dossier et les enquêtes à effectuer par les autorités saisies d'une telle demande ainsi que les délais dans lesquels l'autorité compétente doit statuer et notifier sa décision au demandeur;
+
+2° le mode de calcul des indemnités forfaitaires ou redevances visées au paragraphe 3, et leur mode d'indexation ainsi que leurs modalités d'exigibilité.
+
+§ 5. [<sup>2</sup> L'OTW]<sup>2</sup> assure l'entretien des voies ferrées de transport public de personnes par tramway et de tous autres ouvrages et équipements qu'[<sup>3</sup> il]<sup>3</sup> a érigés ou fait ériger sur les dépendances du domaine privé ou les propriétés privées en vertu du présent article.
+
+[<sup>2</sup> L'OTW]<sup>2</sup> enlève, à ses frais, les voies ferrées et autres ouvrages ou équipements dont l'exploitation a pris fin et remet dans leur état primitif les fonds sur lesquels ces voies, ouvrages et équipements ont été érigés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2012-11-22/11, art. 7, 011; En vigueur : 17-12-2012&gt;
+
+(2)&lt;DRW 2018-03-29/20, art. 2, 015; En vigueur : 26-04-2018&gt;
+
+(3)&lt;DRW 2018-03-29/20, art. 50, 015; En vigueur : 26-04-2018&gt;
+
+## CHAPITRE V. - Dispositions transitoires et finales.
+
+##### Art. 37
+
+&lt;Abrogé par DRW 2018-03-29/20, art. 51, 015; En vigueur : 26-04-2018&gt;
+
+##### Art. 38
+
+&lt;Abrogé par DRW 2012-03-01/13, art. 25, 010; En vigueur : 15-03-2012&gt;
+
+##### Art. 39
+
+&lt;Abrogé par DRW 2012-03-01/13, art. 25, 010; En vigueur : 15-03-2012&gt;
+
+##### Art. 40
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 49, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 41
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 49, 024; En vigueur : 28-09-2026&gt;
+
+##### Art. 42
+
+&lt;Abrogé par DRW 2026-09-03/14, art. 49, 024; En vigueur : 28-09-2026&gt;
