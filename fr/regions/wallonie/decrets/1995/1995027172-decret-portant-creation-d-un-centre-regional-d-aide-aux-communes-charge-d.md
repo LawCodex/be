@@ -1,0 +1,331 @@
+---
+title: "[Décret portant création d'un Centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et des provinces et d'apporter son concours au maintien de l'équilibre financier des communes et des provinces de la Région wallonne]. (Intitulé remplacé par DRW 1997-06-26/34, art. 12, 002; En vigueur : 19-07-1997)"
+identifier: "1995027172"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/23/1995027172/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1995-03-23
+published: 1995-04-05
+entry_into_force: 1995-03-23
+last_amended: 2025-01-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/23/1995027172/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 05-04-1995 et mise à jour au 24-01-2025"
+retrieved: 2026-10-12
+---
+
+# 23 MARS 1995. - [Décret portant création d'un Centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et des provinces et d'apporter son concours au maintien de l'équilibre financier des communes et des provinces de la Région wallonne]. (Intitulé remplacé par DRW 1997-06-26/34, art. 12, 002; En vigueur : 19-07-1997)
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Définition.
+
+### Art. 1
+
+&lt;DRW 2001-06-28/41, art. 1, 004; En vigueur : 01-01-2001&gt; Le présent décret règle principalement des matières visées à l'article 39 de la Constitution. En outre, les §§ 3 (,4 et 5) de l'article 5 et l'article 5bis règlent, en application de l'article 138 de la Constitution, des matières visées aux articles 127 et 128 de celle-ci. &lt;DRW 2003-12-18/92, art. 2, 006; En vigueur : 20-03-2004&gt;
+
+Au sens du présent décret, il faut entendre par le CRAC, le compte régional pour l'assainissement des communes et des provinces ouvert auprès de l'institution financière contractante.
+
+## CHAPITRE II. - (Du financement du compte régional pour l'assainissement des communes et des provinces.) &lt;DRW 1997-06-26/34, art. 14, 002; En vigueur : 19-07-1997&gt;
+
+### Art. 2
+
+§ 1. Le Gouvernement Wallon est autorisé à conclure avec le Crédit Communal de Belgique ou avec tout organisme financier agréé par celui-ci une convention en vue d'assainir structurellement la situation de certaines communes (et des provinces). &lt;DRW 1997-06-26/34, art. 15, 002; En vigueur : 19-07-1997&gt;
+
+§ 2. L'article 2 du décret du 20 juillet 1989 ne s'applique pas aux dispositions de l'article 20, § 4, du même décret. Le Gouvernement est autorisé, selon les modalités qu'il détermine, à affecter les montants visés à l'article 20, § 4, dudit décret. Complémentairement à la dotation générale visée à l'article 1er du décret du 20 juillet 1989, le Gouvernement est autorisé, selon les modalités qu'il détermine, à subventionner les (communes et, à titre exceptionnel et dûment justifié, les provinces, dans la stricte mesure où elles participent à une intercommunale de soins de santé) par des subventions complémentaires permettant d'alléger leurs charges de dettes de trésorerie. &lt;DRW 1997-06-26/34, art. 16, 002; En vigueur : 19-07-1997&gt;
+
+(§ 3. Une commune ou une province qui, en application de l'article 2, § 2, du présent décret, obtient une subvention du Gouvernement est tenue d'établir et d'adopter un plan de gestion conformément aux principes définis par le décret du 3 juin 1993 relatif aux principes généraux des plans de gestion des communes et des provinces.) &lt;DRW 1997-06-26/34, art. 17, 002; En vigueur : 19-07-1997&gt;
+
+### Art. 3
+
+Sont considérées comme communes en difficultés financières au sens de l'article 20, § 4, du décret du 20 juillet 1989 fixant les règles de financement général des communes, celles ayant conclu des prêts d'aide extraordinaires à long terme avec accès au C.R.A.C..
+
+## CHAPITRE III. - De la création.
+
+### Art. 4
+
+§ 1er. Il est créé un service autonome décentralisé doté de la personnalité juridique dénommé "Centre régional d'aide aux communes" et appelé ci-après "le Centre".
+
+§ 2. Son siège est situé à Namur.
+
+## CHAPITRE IV. - Des missions.
+
+### Art. 5
+
+§ 1. Le Centre a pour mission de conseiller les communes dans le suivi de leur plan de gestion conformément au décret du 3 juin 1993 relatif aux principes généraux des plans de gestion des communes (et des provinces). &lt;DRW 1997-06-26/34, art. 18, 002; En vigueur : 19-07-1997&gt;
+
+(§ 1bis. Le Centre a aussi pour mission de conseiller les provinces dans le suivi de leur plan de gestion.) &lt;DRW 1997-06-26/34, art. 19, 002; En vigueur : 19-07-1997&gt;
+
+§ 2. Il a, en outre, pour missions :
+
+a) d'assurer le suivi des crédits et débits du C.R.A.C., et de prendre toutes mesures financières positives de gestion de solde dudit compte ;
+
+b) d'examiner les situations budgétaires des communes (et des provinces) sollicitant l'accès au C.R.A.C. ; &lt;DRW 1997-06-26/34, art. 20, 002; En vigueur : 19-07-1997&gt;
+
+c) d'aider à la gestion de trésorerie des communes (et des provinces) ; &lt;DRW 1997-06-26/34, art. 21, 002; En vigueur : 19-07-1997&gt;
+
+d) de délivrer des avis au Gouvernement wallon ou au Ministre qu'il délègue à cette fin sur les problèmes relatifs à la situation financière des communes (et des provinces) ; &lt;DRW 1997-06-26/34, art. 22, 002; En vigueur : 19-07-1997&gt;
+
+e) toutes missions en rapport avec son objet qui lui sont confiées par le Gouvernement wallon.
+
+(§ 3. De l'accord du Gouvernement wallon, le Centre est habilité à assurer le financement de grandes infrastructures sportives et d'infrastructures spécifiques de haut niveau, telles que définies aux sections 2 et 3 du chapitre II du décret du 25 février 1999 relatif aux subventions octroyées à certains investissements en matière d'infrastructures sportives, qui ont pour maître d'ouvrage une commune, une province (, une régie communale ou provinciale autonome) ou une association de communes. Ce mode de financement s'effectue en dérogation avec le mode de liquidation des subventions visé dans le décret précité. &lt;DRW 2001-06-28/41, art. 2, 004; En vigueur : 01-01-2001&gt; &lt;DRW 2007-02-15/33, art. 2, 009; En vigueur : 04-03-2007&gt;
+
+§ 4. (De l'accord du Gouvernement wallon, le Centre est habilité à assurer, au bénéfice des communes, des provinces, des associations de communes, des établissements d'utilité publique, des centres publics d'aide sociale, des associations créées en vertu du chapitre XII de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, des associations sans but lucratif et des sociétés à finalité sociale, le financement des investissements subventionnés en application de :
+
+1° l'article 46 de la loi sur les hôpitaux coordonnée par l'arrêté royal du 7 août 1987, à l'exception des investissements réalisés par les hôpitaux universitaires et par les centres hospitaliers psychiatriques créés par le décret du 6 avril 1995 relatif à la gestion des hôpitaux psychiatriques de la Région wallonne;
+
+2° [<sup>1</sup> le décret du 7 novembre 2007 relatif aux subsides pour investissements dans les établissements d'accueil pour personnes âgées;]<sup>1</sup>;
+
+3° l'article 15, 3°, du décret du 6 avril 1995 relatif à l'intégration des personnes handicapées.
+
+Ce mode de financement s'effectue en dérogation avec le mode de liquidation des subventions visé dans les législations précitées.) &lt;DRW 2001-06-28/41, art. 2, 004; En vigueur : 01-01-2001&gt;
+
+§ (5). Le C.R.A.C. est ouvert au nom du Centre. &lt;DRW 2001-06-28/41, art. 2, 004; En vigueur : 01-01-2001&gt;
+
+(NOTE : le législateur ne semble pas avoir tenu compte de la nouvelle numérotation des paragraphes de l'art. 5 par DRW 2001-06-28/41, art. 2 ; En vigueur : 01-01-2001 et introduit à nouveau un § 5 :
+
+(§ 5. De l'accord du Gouvernement wallon, le Centre est habilité à assurer le financement d'équipements touristiques, tels que définis par l'arrêté royal du 14 février 1967 déterminant les conditions d'octroi des subventions allouées par l'Etat pour le développement de l'équipement touristique, qui ont pour maître d'ouvrage une commune, une province, une association de communes, une association sans but lucratif ou une fondation d'utilité publique. Ce mode de financement effectue en dérogation avec le mode de liquidation des subventions visé dans l'arrêté royal précité.) &lt;DRW 2003-12-18/92, art. 3, 006; En vigueur : 20-03-2004&gt;)
+
+[<sup>6</sup> [<sup>8</sup> [<sup>10</sup> Le Centre est également habilité à assurer le financement d'équipements en matière de tourisme social tels que définis par le Livre III du Code wallon du Tourisme.]<sup>10</sup>]<sup>8</sup> ]<sup>6</sup>
+
+(§ 6. De l'accord du Gouvernement wallon, le Centre est habilité à assurer le financement d'installations de gestion des déchets, telles que définies par l'article 1er, 2°, de l'arrêté du Gouvernement wallon du 30 avril 1998 relatif à l'octroi de subventions aux pouvoirs subordonnés en matière de prévention et de gestion des déchets, aux taux fixés par l'article 11 de l'arrêté précité. Ce mode de financement s'effectue en dérogation avec le mode de liquidation des subventions visé dans l'arrêté précité.) &lt;DRW 2003-12-18/68, art. 37, 005; En vigueur : 04-06-2004&gt;
+
+(§ 7. De l'accord du Gouvernement, le Centre est habilité à assurer au bénéfice des pouvoirs locaux ou des régies autonomes, et des sociétés de logement de service public, à l'intervention de la Société wallonne du Logement, le financement des opérations visées aux articles 29, 30, 35 à 38, 44 à 50, 54, 55, 58, 59, 59bis, 60 à 78 et 78bis du Code wallon du Logement.
+
+Ce mode de financement s'effectue en dérogation avec le mode de liquidation des aides prévues dans les articles visés à l'alinéa 1er du présent paragraphe.) &lt;DRW 2006-04-27/36, art. 1, 007; En vigueur : 15-05-2006&gt;
+
+(§ 8. De l'accord du Gouvernement, le Centre est habilité à assurer au bénéfice des communes, des provinces, des associations de communes et des zones de police, le financement des investissements tels que prévus à l'article L3341-1 du Code de la démocratie locale et de la décentralisation.
+
+Ce mode de financement s'effectue en dérogation au mode de liquidation des subventions prévues à l'alinéa 1er du présent paragraphe.
+
+§ 9. De l'accord du Gouvernement, le Centre est habilité à assurer au bénéfice des communes, des provinces, des associations de communes [<sup>2</sup> , des écoles, des centres publics d'action sociale]<sup>2</sup> et des zones de police [<sup>12</sup> et de secours]<sup>12</sup>, le financement des investissements dans [<sup>12</sup> des nouvelles constructions et des travaux de rénovation permettant l'amélioration de la performance énergétique du bâtiment]<sup>12</sup>, conformément aux dispositions reprises à l'article 3, § 2, C, de l'arrêté du Gouvernement wallon du 10 avril 2003 relatif à l'octroi des subventions aux personnes de droit public et aux organismes non commerciaux pour la réalisation d'études et de travaux visant l'amélioration de la performance énergétique des bâtiments. Ce mode de financement et le traitement administratif de celui-ci s'effectuent conformément au mode de liquidation des subventions visé par l'arrêté précité.) &lt;DRW 2007-01-18/38, art. 1, 008; En vigueur : 18-02-2007&gt;
+
+[<sup>3</sup> § 10. En vertu de l'accord de coopération du 3 février 2011 conclu entre la Communauté française et la Région wallonne sur le financement des investissements subventionnés en vertu de l'article 7, § 4, du décret du 5 février 1990 de la Communauté française, et de l'accord du Gouvernement, le Centre est habilité à assurer le financement des investissements visés à l'article susmentionné, en faveur des bénéficiaires désignés au même article.]<sup>3</sup>
+
+[<sup>4</sup> § 11. De l'accord et aux conditions du Gouvernement wallon, le Centre régional d'aide aux communes est habilité à assurer, au bénéfice des communes, des provinces, des associations de communes, des établissements d'utilité publique, des centres publics d'action sociale, des associations créées en vertu du chapitre XII de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, des associations sans but lucratif et des sociétés à finalité sociale, la liquidation des investissements subventionnés en application des articles L3341-1 à L3341-15 du Code de la démocratie locale.
+
+Ce mode de liquidation s'effectue en dérogation avec le mode de liquidation des subventions visées dans la législation précitée.]<sup>4</sup>
+
+[<sup>5</sup> § 12. De l'accord et aux conditions du Gouvernement wallon, le Centre régional d'aide aux communes est habilité à assurer, au bénéfice des communes, la liquidation des investissements subventionnés en application de l'article 4 du décret-programme du 10 décembre 2009 portant diverses mesures concernant la redevance de voirie, la rémunération de la garantie régionale, les dotations et subventions à certains organismes sous contrat de gestion, et un projet pilote relatif au droit de tirage, en faveur des communes, pour les subsides d'investissement relatifs aux travaux d'entretien de voirie.
+
+Cette possibilité ne modifie pas les moyens d'action attribués au Ministre des Pouvoirs locaux pour financer ses politiques de travaux subsidiés et, notamment, celles prévues par l'article 4 susvisé.]<sup>5</sup>
+
+[<sup>7</sup> § 13. [<sup>9</sup> [<sup>10</sup> De l'accord et aux conditions du Gouvernement, le Centre régional d'aide aux communes est habilité à assurer, au bénéfice des pouvoirs organisateurs des structures de l'enfance, la liquidation des investissements ayant bénéficié de l'octroi d'une subvention par le Gouvernement.]<sup>10</sup>]<sup>9</sup> ]<sup>7</sup>
+
+[<sup>11</sup> § 14. De l'accord et aux conditions du Gouvernement wallon, le Centre régional d'aide aux communes est habilité à assurer, au bénéfice des communes, le financement des investissements subventionnés en application des articles 172 et 173 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie.]<sup>11</sup>
+
+[<sup>15</sup> [<sup>16</sup> § 15. De l'accord et aux conditions du Gouvernement wallon, le Centre régional d'aide aux communes est habilité à assurer, au bénéfice des pouvoirs organisateurs des structures d'accueil des gens du voyage, la liquidation des investissements ayant bénéficié de l'octroi d'une subvention par le Gouvernement wallon. ]<sup>16</sup>]<sup>15</sup>
+
+----------
+
+(1)&lt;DRW 2007-11-07/36, art. 6, 010; En vigueur : 14-06-2008&gt;
+
+(2)&lt;DRW 2007-04-19/34, art. 16, 011; En vigueur : 29-05-2007&gt;
+
+(3)&lt;DRW 2011-10-27/04, art. 2, 013; En vigueur : 04-12-2011&gt;
+
+(4)&lt;DRW 2011-10-27/04, art. 4, 013; En vigueur : 04-12-2011&gt;
+
+(5)&lt;DRW 2011-10-27/04, art. 5, 013; En vigueur : 04-12-2011&gt;
+
+(6)&lt;DRW 2012-12-19/18, art. 92, 014; En vigueur : 01-01-2013&gt;
+
+(7)&lt;DRW 2013-07-10/43, art. 10, 015; En vigueur : 01-01-2013&gt;
+
+(8)&lt;DRW 2015-12-17/55, art. 91, 019; En vigueur : 01-01-2016&gt;
+
+(9)&lt;DRW 2015-12-17/55, art. 97, 019; En vigueur : 01-01-2016&gt;
+
+(10)&lt;DRW 2016-12-21/02, art. 5, 020; En vigueur : 01-01-2017&gt;
+
+(11)&lt;DRW 2016-12-21/02, art. 36, 020; En vigueur : 01-01-2017&gt;
+
+(12)&lt;DRW 2018-07-17/04, art. 441, 021; En vigueur : 18-10-2018&gt;
+
+(13)&lt;DRW 2020-12-17/52, art. 211, 022; En vigueur : 01-01-2021&gt;
+
+&lt;DRW 2021-12-22/21, art. 212, 023; En vigueur : 01-01-2022&gt;
+
+(14)&lt;DRW 2022-12-21/67, art. 213, 024; En vigueur : 01-01-2023&gt;
+
+(15)&lt;DRW 2023-12-13/13, art. 191, 026; En vigueur : 01-01-2024&gt;
+
+(16)&lt;DRW 2024-12-18/05, art. 5, 027; En vigueur : 01-01-2025&gt;
+
+### Art. 5bis
+
+&lt;Inséré par DRW 2001-06-28/41, art. 4, 004; En vigueur : 01-01-2001&gt; Aux fins de l'exécution des missions confiées au Centre par (l'article 5, §§ 3, 4, 6 et 7, 8 [<sup>1</sup> 9 et 10]<sup>1</sup>, du présent décret), le Centre est autorisé à conclure une convention de financement avec tout organisme financier. A la date de publication du décret du 28 juin 2001, modifiant le décret du 23 mars 1995 portant création d'un centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et des provinces et d'apporter son concours au maintien de l'équilibre financier des communes et des provinces de la Région wallonne, le Centre est autorisé à succéder à la Région wallonne dans le cadre d'une procédure d'attribution du marché qu'elle aurait initiée. &lt;DRW 2007-01-18/38, art. 2, 008; En vigueur : 18-02-2007&gt;
+
+----------
+
+(1)&lt;DRW 2011-10-27/04, art. 3, 013; En vigueur : 04-12-2011&gt;
+
+### Art. 5ter
+
+&lt;Inséré par DRW 2003-12-18/92, art. 4; En vigueur : 20-03-2004&gt; Aux fins de l'exécution des missions confiées au Centre par l'article 5, § 5, du présent décret, le Centre est autorisé à conclure une convention de financement avec tout organisme financier. A la date de publication du décret du 18 décembre 2003 modifiant le décret du 23 mars 1995, portant création d'un Centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et des provinces et d'apporter son concours au maintien de l'équilibre financier des communes et des provinces de la Région wallonne, le Centre est autorisé à succéder à la Région wallonne dans le cadre d'une procédure d'attribution du marché qu'elle aurait initiée.
+
+### Art. 6
+
+Le Centre est soumis à l'autorité du Gouvernement wallon.
+
+## CHAPITRE V. - De la gestion.
+
+### Art. 7
+
+§ 1. La gestion du Centre est confiée conjointement aux fonctionnaires dirigeants, a savoir le directeur général, le 1er directeur général adjoint et le 2e directeur général adjoint.
+
+§ 2. [<sup>1</sup> Le directeur général est désigné]<sup>1</sup> par le Gouvernement pour un mandat aux conditions fixées par le livre II de l'arrêté du Gouvernement wallon portant le Code de la Fonction publique wallonne.
+
+[<sup>2</sup> Sauf exception prévue par le Gouvernement en application de l'article 14 du présent décret ou de l'article 2 du décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne, conformément aux articles 10, § 3, alinéa 2, et 339, 2°, de l'arrêté du Gouvernement wallon du 18 décembre 2003 portant le Code de la fonction publique wallonne, les directeurs généraux adjoints, et, le cas échéant, les autres fonctionnaires généraux de rang A3 sont désignés par le Gouvernement pour un mandat aux conditions fixées par le Titre II du Livre II du même Code.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2015-12-03/05, art. 1, 018; En vigueur : 21-12-2015&gt;
+
+(2)&lt;DRW 2023-06-28/10, art. 2, 025; En vigueur : 16-10-2023&gt;
+
+### Art. 8
+
+[<sup>1</sup> § 1er. Il est créé un Comité de suivi financier composé comme suit :
+
+1° le Ministre ayant le budget dans ses attributions ou son délégué;
+
+2° le Ministre ayant la tutelle des pouvoirs locaux dans ses attributions ou son délégué;
+
+3° le Ministre ayant les infrastructures sportives dans ses attributions ou son délégué;
+
+4° le Ministre ayant l'aide aux personnes ou la santé dans ses attributions ou son délégué;
+
+5° le Ministre ayant le tourisme dans ses attributions ou son délégué;
+
+6° le Ministre ayant l'énergie dans ses attributions ou son délégué;
+
+7° l'Inspecteur général de la Division de la Trésorerie du Service public de Wallonie ou son délégué;
+
+8° le fonctionnaire dirigeant ou le fonctionnaire dirigeant adjoint du C.R.A.C;
+
+9° l'Inspection des Finances;
+
+10° la Cellule d'Informations Financières.
+
+La Présidence du Comité est assurée par le Ministre ayant les Pouvoirs locaux dans ses attributions ou son délégué.
+
+Les membres ne sont pas rémunérés pour assister aux réunions.
+
+§ 2. Ce Comité est chargé du suivi des missions du Centre régional d'Aides aux Communes (C.R.A.C.) dans le cadre de l'octroi des crédits d'aides extraordinaires et de financements alternatifs, de l'évolution des comptes y dédicacés et de l'empreinte Sec du Centre.
+
+§ 3. Le secrétariat du Comité de suivi financier est assuré par le C.R.A.C. Les réunions ne sont pas publiques. Toutefois, sur proposition, le Comité peut inviter toute personne dont l'expertise serait de nature à compléter son information. La présence des personnes précitées est limitée à la discussion du point au sujet duquel elles sont invitées à s'exprimer.
+
+§ 4. Le Comité de suivi financier arrête son règlement d'ordre intérieur.
+
+§ 5. Le Gouvernement peut élargir la composition du Comité de suivi financier en tenant compte de l'extension des missions du C.R.A.C., conformément à l'article 5, § 2, e. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2018-07-17/04, art. 442, 021; En vigueur : 18-10-2018&gt;
+
+### Art. 9
+
+Le projet de budget annuel du Centre est arrêté par le Gouvernement wallon.
+
+Il est annexé au projet de budget général des dépenses du Ministère de la Région wallonne, en vue de sa présentation au Conseil régional wallon.
+
+### Art. 10
+
+§ 1er. Les comptes du Centre sont établis sous l'autorité du Gouvernement wallon.
+
+Celui-ci les soumet au contrôle de la Cour des Comptes, au plus tard le 30 juin de l'année qui suit celle de la gestion. Ces comptes sont joints au budget général de la Région wallonne pour l'exercice suivant la date du dépôt du compte.
+
+§ 2. Le Gouvernement wallon organise le suivi des engagements budgétaires.
+
+### Art. 11
+
+Le Gouvernement wallon organise le contrôle administratif et budgétaire du Centre dans le respect de l'article 51 de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions.
+
+### Art. 12
+
+Le Centre est autorisé à être mandaté par les communes (et les provinces) pour contracter des emprunts et ce, à concurrence d'un montant fixé annuellement par le Gouvernement wallon. Le Gouvernement ou le Ministre qu'il délègue à cette fin en approuve les conditions et les modalités. Le Gouvernement peut accorder sa garantie à ces emprunts aux conditions et modalités qu'il détermine. &lt;DRW 1997-06-26/34, art. 23, 002; En vigueur : 19-07-1997&gt;
+
+### Art. 13
+
+Le Gouvernement wallon fixe les règles complémentaires relatives :
+
+1° à la présentation des budgets ;
+
+2° à la comptabilité ;
+
+3° à la reddition des comptes ;
+
+4° aux situations et rapports périodiques ;
+
+5° aux délégations accordées aux fonctionnaires dirigeants du Centre.
+
+## CHAPITRE VI. - Du personnel.
+
+### Art. 14
+
+(§ 1er. Sur la proposition du centre, le Gouvernement arrête le cadre du personnel.
+
+Il nomme et révoque les agents du centre.) &lt;DRW 1998-01-22/37, art. 14, 003; En vigueur : 14-02-1998&gt;
+
+§ 2. Le Gouvernement wallon peut mettre à disposition le personnel nécessaire à son fonctionnement.
+
+### Art. 15
+
+(Abrogé) &lt;DRW 1998-01-22/37, art. 15, 003; En vigueur : 14-02-1998&gt;
+
+### Art. 16
+
+Le Gouvernement wallon octroie les subventions nécessaires au fonctionnement du Centre. Il autorise la prise en charge des frais du Centre sur le débit du C.R.A.C..
+
+Le Centre est autorisé à percevoir tous revenus promérités, subventions et ressources généralement quelconques.
+
+## CHAPITRE VIIbis. - (Du rapport d'activités). &lt;Inséré par DRW 1997-06-26/34, art. 24; En vigueur : 19-07-1997&gt;
+
+### Art. 16bis
+
+&lt;Inséré par DRW 1997-06-26/34, art. 24; En vigueur : 19-07-1997&gt; Chaque année, au plus tard le 30 juin, le Centre adresse au Conseil régional wallon un rapport d'activités couvrant l'ensemble des missions qui lui sont confiées au sens (...) de l'article 5 du décret du 23 mars 1995 portant création d'un Centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et des provinces et d'apporter son concours au maintien de l'équilibre financier des communes et des provinces de la Région wallonne. &lt;DRW 2001-06-28/41, art. 6, 004; En vigueur : 01-01-2001&gt;
+
+## CHAPITRE VII. - Dispositions finales.
+
+### Art. 17
+
+Le présent décret entre en vigueur le jour de son vote par le Conseil régional wallon, sauf l'article 2 dont la date d'entrée en vigueur est fixée au 30 juillet 1992.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 23 mars 1995.
+
+Le Ministre-Président, chargé de l'Economie, des P.M.E., des Relations extérieures et du Tourisme,
+
+R. COLLIGNON
+
+Le Ministre du Développement technologique, de la Recherche scientifique, de l'Emploi et de la Formation,
+
+A. LIENARD
+
+Le Ministre des Affaires intérieures, de la Fonction publique et du Budget,
+
+B. ANSELME
+
+Le Ministre des Transports,
+
+A. BAUDSON
+
+Le Ministre des Travaux publics,
+
+J-P. GRAFE
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN

@@ -1,0 +1,71 @@
+---
+title: "DECRET modifiant le décret du 25 octobre 1984 instituant la Société régionale wallonne du Logement"
+identifier: "1994027666"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1994027666/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1994-11-24
+published: 1994-12-17
+entry_into_force: 1994-12-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1994027666/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 24 NOVEMBRE 1994. - DECRET modifiant le décret du 25 octobre 1984 instituant la Société régionale wallonne du Logement
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Au chapitre II, section 1, sous-section 1, du décret du 25 octobre 1984 instituant la Société régionale wallonne du Logement, est ajouté un article 11bis, rédigé comme suit :
+
+" Article 11bis. En vue de la réalisation de leur objet, les sociétés agréées sont habilitées à poursuivre, conformément à la législation en la matière et avec l'approbation de la Société régionale, l'expropriation d'immeubles bâtis ou non bâtis, préalablement déclarée d'utilité publique par le Gouvernement. "
+
+## Art. 2
+
+Au chapitre II, section 1, sous-section 1, du même décret, est ajouté un article 11ter, rédigé comme suit :
+
+" Article 11ter. Les acquisitions et les expropriations d'immeubles à réaliser par les sociétés agréées peuvent l'être à l'intervention de l'administration de la taxe sur la valeur ajoutée, de l'enregistrement et des domaines. "
+
+## Art. 3
+
+L'article 16 du même décret est remplacé par la disposition suivante :
+
+" Article 16. La Société régionale est habilitée à poursuivre, conformément à la législation en la matière, l'expropriation de biens immobiliers bâtis ou non bâtis, préalablement déclarée d'utilité publique par le Gouvernement. "
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 24 novembre 1994.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, des PME, des Relations extérieures et du Tourisme,
+
+R. COLLIGNON
+
+Le Ministre du Développement technologique, de la Recherche scientifique, de l'Emploi et de la Formation professionnelle,
+
+A. LIENARD
+
+Le Ministre des Affaires intérieures, de la Fonction publique et du Budget,
+
+B. ANSELME
+
+Le Ministre de l'Aménagement du Territoire, du Patrimoine et des Transports,
+
+A. BAUDSON
+
+Le Ministre des Travaux publics,
+
+J.-P. GRAFE
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN

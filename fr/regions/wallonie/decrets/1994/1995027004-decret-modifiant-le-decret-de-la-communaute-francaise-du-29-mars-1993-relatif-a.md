@@ -1,0 +1,83 @@
+---
+title: "DECRET modifiant le décret de la Communauté française du 29 mars 1993 relatif à l'agrément et au subventionnement des associations de santé intégrée"
+identifier: "1995027004"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1995027004/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1994-11-24
+published: 1995-01-18
+entry_into_force: 1995-01-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1995027004/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 24 NOVEMBRE 1994. - DECRET modifiant le décret de la Communauté française du 29 mars 1993 relatif à l'agrément et au subventionnement des associations de santé intégrée
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+A l'article 2, 1°, du décret du 29 mars 1993 relatif à l'agrément et au subventionnement des associations de santé intégrée, insérer, après le mot " lucratif ", les mots " ou, à défaut d'initiative privée, être organisé par une autorité publique ".
+
+## Art. 2
+
+L'article 2, 6°, du décret en question est remplacé par les dispositions suivantes :
+
+" S'il s'agit d'une association sans but lucratif, son assemblée générale doit être composée majoritairement par des membres de l'équipe, tout membre de l'équipe étant à sa demande membre de droit de l'assemblée générale;
+
+s'il s'agit d'une association créée à l'initiative d'une autorité publique, celle-ci doit confier la gestion de l'association de santé intégrée à un comité de gestion composé majoritairement des membres de l'équipe, tout membre de l'équipe étant à sa demande membre de droit du comité de gestion. "
+
+## Art. 3
+
+A l'article 5 du décret dont question, est ajouté le second alinéa suivant :
+
+" Si l'association est organisée par une autorité publique, les membres de l'équipe sont engagés contractuellement ou, s'ils sont nommés à titre définitif au sein des services de l'autorité publique concernée, mis à la disposition de l'association. "
+
+## Art. 4
+
+1. Dans le texte du décret, les termes "l'Exécutif" sont remplacés par les termes "le Gouvernement".
+
+2\. Dans le texte du décret, les termes "Communauté françcaise" sont remplacés par les termes "Région wallonne."
+
+3\. L'article 3, 3°, est remplacé par la disposition suivante : "Assistent en outre aux réunions de la commission, à titre consultatif, deux représentants de l'administration de la Région wallonne."
+
+## Art. 5
+
+Le présent décret règle, en application de l'article 138 de la Constitution, une matière visée à l'article 128, § 1, de celle-ci.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 24 novembre 1994.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, des P.M.E., des Relations extérieures et du Tourisme,
+
+R. COLLIGNON
+
+Le Ministre du Développement technologique, de la Recherche scientifique, de l'Emploi et de la Formation professionnelle,
+
+A. LIENARD
+
+Le Ministre des Affaires intérieures, de la Fonction publique et du Budget,
+
+B. ANSELME
+
+Le Ministre de l'Aménagement du Territoire, du Patrimoine et des Transports,
+
+A. BAUDSON
+
+Le Ministre des Travaux publics,
+
+J-P. GRAFE
+
+Le Ministre de L'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN

@@ -1,0 +1,685 @@
+---
+title: "[Décret relatif à la promotion de l'utilisation rationnelle de l'énergie, des économies d'énergie et des énergies renouvelables]. <Intitulé modifié par DRW 2016-05-26/17 , art. 2, 002; En vigueur : 19-06-2016>"
+identifier: "1994027603"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/09/1994027603/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1993-12-09
+published: 1994-01-12
+entry_into_force: 1994-01-22
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/09/1994027603/justel"
+department: "Région Wallonne"
+justel_note: "Consultation des versions antérieures à partir du 09-06-2016 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 9 DECEMBRE 1993. - [Décret relatif à la promotion de l'utilisation rationnelle de l'énergie, des économies d'énergie et des énergies renouvelables]. &lt;Intitulé modifié par DRW 2016-05-26/17 , art. 2, 002; En vigueur : 19-06-2016&gt;
+
+## CHAPITRE I. [<sup>1</sup> Des dispositions générales.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/17, art. 3, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 1
+
+Au sens du présent décret on entend par :
+
+1° " habitation " : immeuble ou partie d'immeuble où le bénéficiaire de la subvention a sa résidence principale, à l'exclusion des parties communes;
+
+2° " ménage à revenu modeste " : ménage disposant de revenus d'une nature et d'un montant déterminés par le Gouvernement;
+
+3° " guichet de l'énergie " :le service reconnu et subventionné par la Région wallonne, mis en place en vue de donner aux particuliers des informations personnalisées en matière d'utilisation rationnelle de l'énergie;
+
+4° " organismes non commerciaux " : écoles, hôpitaux, piscines, et autres services à la collectivité, associations sans but lucratif et associations de fait poursuivant un but philanthropique, scientifique, technique ou pédagogique, dans les domaines de l'énergie, de la protection de l'environnement ou de la lutte contre l'exclusion sociale;
+
+[<sup>1</sup> 5° " entreprise " : toute entité tenue de se faire inscrire dans la Banque-Carrefour des Entreprises;]<sup>1</sup>
+
+[<sup>1</sup> 6° " audit énergétique " : procédure systématique visant à acquérir une connaissance adéquate des caractéristiques de consommation énergétique d'un bâtiment ou d'un groupe de bâtiments, d'une activité ou d'une installation industrielle ou commerciale ou de services privés ou publics, de déterminer et de quantifier les économies d'énergie qui peuvent être réalisées d'une façon rentable et de rendre compte des résultats.]<sup>1</sup>
+
+[<sup>2</sup> 7° Ministre : le Ministre ayant l'Energie dans ses attributions;
+
+8° gestionnaire de réseau de distribution : le gestionnaire d'un réseau de distribution désigné conformément à l'article 10 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et à l'article 10 du décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz;
+
+9° bonus : l'écart, en faveur du gestionnaire de réseau de distribution, entre l'ensemble des charges nettes contrôlables budgétées et l'ensemble des charges nettes contrôlables réelles, lorsque ces dernières sont inférieures aux charges nettes contrôlables budgétées, telles que prévues dans la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution d'électricité et de gaz actifs en Région wallonne approuvée par la Commission wallonne pour l'énergie, ci-après dénommée la " CWaPE ".]<sup>2</sup>
+
+[<sup>3</sup> 10° `` passif régulatoire '' : dette tarifaire du gestionnaire de réseau de distribution à l'égard des utilisateurs de réseau dans leur ensemble, telle que constatée dans les soldes régulatoires approuvés par la CWaPE en application de la méthodologie tarifaire applicable aux gestionnaires des réseaux de distribution de gaz et d'électricité.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/17, art. 4, 002; En vigueur : 19-06-2016&gt;
+
+(2)&lt;DRW 2023-06-29/08, art. 1, 006; En vigueur : 01-07-2023&gt;
+
+(3)&lt;DRW 2025-12-19/70, art. 1, 008; En vigueur : 09-01-2026&gt;
+
+##### Art. 1_COMMUNAUTE_GERMANOPHONE
+
+Au sens du présent décret on entend par :
+
+1° [<sup>3</sup> 1° logement : le logement mentionné à l'article 1er, 3°, du Code wallon de l'habitation durable]<sup>3</sup>;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+4° " organismes non commerciaux " : écoles, hôpitaux, piscines, et autres services à la collectivité, associations sans but lucratif et associations de fait poursuivant un but philanthropique, scientifique, technique ou pédagogique, dans les domaines de l'énergie, de la protection de l'environnement ou de la lutte contre l'exclusion sociale;
+
+[<sup>1</sup> 5° " entreprise " : toute entité tenue de se faire inscrire dans la Banque-Carrefour des Entreprises;]<sup>1</sup>
+
+[<sup>1</sup> 6° " audit énergétique " : procédure systématique visant à acquérir une connaissance adéquate des caractéristiques de consommation énergétique d'un bâtiment ou d'un groupe de bâtiments, d'une activité ou d'une installation industrielle ou commerciale ou de services privés ou publics, de déterminer et de quantifier les économies d'énergie qui peuvent être réalisées d'une façon rentable et de rendre compte des résultats.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/17, art. 4, 002; En vigueur : 19-06-2016&gt;
+
+(2)&lt;DCG 2019-12-12/19, art. 375, 004; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCG 2021-12-13/12, art. 1, 005; En vigueur : 01-10-2021&gt;
+
+##### Art. 1/1
+
+[<sup>1</sup> Des auditeurs agréés par le Gouvernement selon les critères qu'il définit réalisent les audits énergétiques de manière indépendante.
+
+Le Gouvernement contrôle les audits énergétiques visés à l'alinéa premier et sanctionne les auditeurs qui manquent à leurs obligations par, soit l'envoi d'un avertissement, soit la suspension, soit le retrait d'agrément.
+
+Le Gouvernement établit la procédure de constatation, de poursuite et de sanctions des manquements.
+
+Sans préjudice des possibilités de sanctions, le Gouvernement peut imposer à l'auditeur énergétique agréé de corriger les audits énergétiques dont la mauvaise qualité est constatée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 5, 002; En vigueur : 19-06-2016&gt;
+
+## CHAPITRE II. [<sup>1</sup> Des subventions.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-05-26/17, art. 6, 002; En vigueur : 19-06-2016&gt;
+
+### Section I. [<sup>1</sup> De la subvention accordée aux ménages à revenu modeste, en vue de réaliser des économies d'énergie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 6, 002; En vigueur : 19-06-2016&gt;
+
+### Section I. COMMUNAUTE\_GERMANOPHONE.
+
+&lt;Abrogé par DCG 2021-12-13/12, art. 2, 005; En vigueur : 01-10-2021&gt;
+
+##### Art. 2
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement peut accorder des subventions aux ménages à revenu modeste, en vue de les encourager à effectuer des achats ou des travaux leur permettant de réaliser des économies d'énergie ou de l'utiliser rationnellement.
+
+Les fournitures et travaux doivent consister en des investissements mobiliers ou immobiliers permettant auxdits ménages de réduire de manière substantielle leurs dépenses en matière d'énergie ou d'acquérir un confort décent.
+
+##### Art. 2_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2021-12-13/12, art. 2, 005; En vigueur : 01-10-2021&gt;
+
+##### Art. 3
+
+Lorsque les travaux consistent en des investissements immobiliers à effectuer dans un immeuble dont un membre du ménage à revenu modeste est le locataire, la subvention est conditionnée à l'accord du bailleur d'assurer au locataire la jouissance de l'immeuble dans les conditions fixées par le Gouvernement.
+
+##### Art. 3_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2021-12-13/12, art. 2, 005; En vigueur : 01-10-2021&gt;
+
+##### Art. 4
+
+Le Gouvernement arrête les modalités d'instruction des dossiers et d'octroi des subventions, notamment en ce qui concerne :
+
+1° l'avis préalable du guichet de l'énergie du ressort;
+
+2° les achats et les types de travaux qui peuvent être couverts par les subventions ainsi que la manière dont leur bonne exécution est vérifiée;
+
+3° le montant maximal de la subvention.
+
+La subvention est versée directement à celui qui effectue le travail ou la fourniture.
+
+##### Art. 4_COMMUNAUTE_GERMANOPHONE
+
+&lt;Abrogé par DCG 2021-12-13/12, art. 2, 005; En vigueur : 01-10-2021&gt;
+
+### Section II. [<sup>1</sup> De la subvention accordée aux personnes physiques, en vue de réaliser des investissements tendant à économiser l'énergie ou à utiliser des énergies renouvelables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Intitulé du CHAPTIRE III remplacé par Section II par DRW 2016-05-26/17, art. 7, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 5
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement peut accorder des subventions aux personnes physiques, en vue de réaliser dans leur habitation des investissements ou des travaux leur permettant d'économiser l'énergie ou d'utiliser des énergies renouvelables.
+
+##### Art. 5_COMMUNAUTE_GERMANOPHONE
+
+[<sup>1</sup> Le Gouvernement peut, dans la limite des crédits budgétaires disponibles, octroyer aux personnes physiques des subventions afin de les soutenir dans la mise en oeuvre d'investissements ou de travaux dans leur logement qui permettent de faire des économies d'énergie ou d'utiliser des énergies renouvelables.]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2021-12-13/12, art. 3, 005; En vigueur : 01-10-2021&gt;
+
+##### Art. 6
+
+Le Gouvernement arrête le montant maximal des subventions ainsi que les conditions et modalités de leur octroi. Il détermine notamment les types d'investissements et travaux ainsi que les types d'énergies renouvelables qui peuvent être pris en considération.
+
+### Section III. [<sup>1</sup> De la subvention accordée aux personnes de droit public et aux organismes non commerciaux en vue de la promotion de l'utilisation rationnelle de l'énergie ou des énergies renouvelables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Intitulé du CHAPITRE IV remplacé par Section III par DRW 2016-05-26/17, art. 8, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 7
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement peut accorder des subventions aux personnes de droit public et aux organismes non commerciaux pour les inciter à l'utiliser rationnellement l'énergie ou les énergies renouvelables.
+
+Dans les mêmes limites, il peut leur accorder des subventions pour la promotion de l'utilisation rationnelle de l'énergie, des économies d'énergie ou des énergies renouvelables.
+
+##### Art. 8
+
+Le Gouvernement arrête le montant maximal des subventions, ainsi que les conditions et les modalités d'octroi. Il détermine notamment les types d'énergies renouvelables qui peuvent être pris en considération.
+
+##### Art. 8/1
+
+[<sup>1</sup> L'utilisation des subventions, octroyées dans le cadre de la présente section et relative à un marché de travaux, est subordonnée à l'insertion, dans les documents de marché relatifs à ces travaux, d'une ou de plusieurs clauses environnementales, d'une ou de plusieurs clauses sociales et d'une ou de plusieurs clauses éthiques visant à lutter contre le dumping social.
+
+Le Gouvernement précise la portée de ces clauses et en fixe les modalités d'insertion. Par dérogation à l'alinéa 1er, le Gouvernement peut fixer des seuils à partir desquels elles sont insérées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-05-02/67, art. 1, 003; En vigueur : 06-09-2019&gt;
+
+### Section IV. [<sup>1</sup> De la subvention accordée aux entreprises, en vue de la promotion de l'utilisation rationnelle de l'énergie ou des énergies renouvelables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Intitulé du Chapitre V remplacé par Section IV par DRW 2016-05-26/17, art. 9, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 9
+
+Dans les limites des crédits budgétaires disponibles, le Gouvernement peut accorder des subventions aux entreprises industrielles, agricoles ou commerciales ainsi qu'aux fédérations professionnelles, pour les inciter à utiliser rationnellement l'énergie ou les énergies renouvelables.
+
+##### Art. 10
+
+Le Gouvernement arrête le montant maximal des subventions, ainsi que les conditions et modalités d'octroi.
+
+Il détermine notamment les types d'énergies renouvelables qui peuvent être pris en considération.
+
+##### Art. 10/1
+
+[<sup>1</sup> Le Gouvernement peut prévoir que les subventions de la section III et de la présente section soient payées à un tiers prestataire de services reconnus par le Gouvernement.
+
+Les modalités et conditions de la reconnaissance du prestataire de services sont définies par le Gouvernement et concernent notamment :
+
+1° les domaines d'activités du prestataire;
+
+2° les exigences d'indépendance et d'impartialité du prestataire; 3° les exigences administratives et financières du prestataire.
+
+Le prestataire de services reconnus par le Gouvernement peut effectuer les demandes de subventions visées à l'alinéa 1er et percevoir cellesci dans les limites et aux conditions définies par le Gouvernement.
+
+Le Gouvernement peut prévoir un traitement électronique des subventions visées à l'alinéa 1er et de leur paiement via une plateforme digitale, selon les modalités déterminées par le Gouvernement. La subvention fait l'objet d'un paiement électronique dématérialisé et est versée au prestataire de service reconnu, après sa prestation, conformément aux modalités déterminées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-03-28/66, art. 2, 007; En vigueur : 11-08-2024&gt;
+
+### Section 5. [<sup>1</sup> Des subventions pour les gestionnaires de réseaux de distribution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 2, 006; En vigueur : 01-07-2023&gt;
+
+#### Sous-section I. [<sup>1</sup> Des projets subventionnés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 3, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10bis
+
+Art 10bis. [<sup>1</sup> Dans la limite des crédits budgétaires disponibles, le Gouvernement peut accorder des subventions aux gestionnaires de réseaux de distribution pour des projets visant à :
+
+1° améliorer l'efficience énergétique de leur réseau;
+
+2° accroître la capacité d'accueil des productions d'énergie renouvelable; 3° maîtriser les coûts liés à la transition énergétique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 4, 006; En vigueur : 01-07-2023&gt;
+
+#### Sous-section 2. [<sup>1</sup> Du montant des subventions]<sup>1</sup>.
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 5, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10ter
+
+[<sup>1</sup> Le Gouvernement arrête le montant global de la subvention accordée aux gestionnaires de réseaux de distribution visée à l'article 10bis ainsi que la répartition du budget entre le réseau électrique et le réseau de gaz.
+
+Pour chaque gestionnaire de réseau de distribution, par vecteur énergétique, le poids du gestionnaire de réseau de distribution est établi selon la formule suivante : le poids du gestionnaire de réseau de distribution est égal au nombre d'utilisateurs du réseau du gestionnaire de réseau de distribution estimé à la date du 1er janvier de l'année suivant l'octroi de la subvention, divisé par le nombre d'utilisateurs du réseau de l'ensemble des gestionnaires de réseaux de distribution à cette même date.
+
+L'estimation du nombre d'utilisateurs du réseau d'un gestionnaire de réseau au 1er janvier de l'année suivant l'octroi de la subvention de distribution est établie en considérant le nombre réel d'utilisateurs du réseau au 1er décembre de l'année précédant l'octroi de la subvention pour toutes les communes affiliées au gestionnaire de réseau au 1er janvier de l'année suivant l'octroi de la subvention.
+
+L'enveloppe budgétaire allouée à la subvention est répartie proportionnellement entre les gestionnaires de réseaux de distribution sur la base du poids obtenu par chaque gestionnaire de réseau de distribution en application de l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 6, 006; En vigueur : 01-07-2023&gt;
+
+#### Sous-section 3. [<sup>1</sup> Des coûts éligibles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 7, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10
+
+[<sup>1</sup> La subvention visée à l'article 10bis est octroyée sur base des coûts éligibles, hors T.V.A..]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 8, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10
+
+[<sup>1</sup> Le Gouvernement arrête les coûts éligibles liés au projet subventionné pour chaque subvention visée à l'article 10bis qu'il accorde.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 9, 006; En vigueur : 01-07-2023&gt;
+
+#### Sous-section 4. [<sup>1</sup> De la perte du bonus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 10, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10sexies
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Le gestionnaire de réseau de distribution qui reçoit une subvention en application de la présente section renonce au bonus éventuel constitué durant les périodes tarifaires concernées, calculé de manière globale, à concurrence du montant de la subvention liquidée durant celles-ci]<sup>2</sup>.
+
+La CWaPE vérifie, au regard des analyses effectuées conformément à la méthodologie tarifaire en vigueur, que les gestionnaires de réseaux de distribution ayant perçu une subvention en application de la présente section ne bénéficient pas d'un bonus durant la période visée à l'alinéa 1er.
+
+Si la CWaPE constate qu'un gestionnaire de réseau de distribution a perçu un bonus et une subvention durant la période visée à l'alinéa 1er, elle en informe le gestionnaire de réseau de distribution concerné et le Ministre, par courrier recommandé. [<sup>2</sup> Le bonus est transformé en passif régulatoire pour la période tarifaire suivant la dernière période tarifaire concernée à hauteur, au maximum, du montant de la subvention]<sup>2</sup>.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 11, 006; En vigueur : 01-07-2023&gt;
+
+(2)&lt;DRW 2025-12-19/70, art. 2, 008; En vigueur : 09-01-2026&gt;
+
+#### Sous-section 5. [<sup>1</sup> De la demande et de l'octroi de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 12, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10septies
+
+[<sup>1</sup> § 1er. Le gestionnaire de réseau de distribution introduit sa demande de subvention visée à l'article 10bis auprès du Ministre.
+
+La demande de subvention comprend en tout cas les informations suivantes :
+
+1° une description du projet faisant l'objet de la demande de subvention et un planning estimatif de la mise en oeuvre dudit projet;
+
+2° les bénéfices escomptés par la mise en oeuvre du projet, dans le cadre de la transition énergétique, conformément aux objectifs définis à l'article 10bis;
+
+3° une description détaillée de l'investissement à réaliser, en ce compris le rythme estimé des besoins de liquidation de la subvention;
+
+4° l'apport de cet investissement supplémentaire par rapport aux plans d'investissements approuvés par la CWaPE;
+
+5° la démonstration que le projet couvert par la demande de subvention n'est pas financé au travers des tarifs de distribution.
+
+L'introduction de cette demande de subvention est préalable à la commande et à la mise en oeuvre des travaux faisant l'objet de la subvention, lesquels auront lieu au plus tôt après la notification de la décision d'octroi de la subvention.
+
+Une copie du dossier de demande de subvention est envoyée par voie électronique à la CWaPE.
+
+§ 2. La CWaPE communique, dans les 30 jours de la réception de la copie du dossier de demande de subvention, au Ministre et au gestionnaire de réseau de distribution concerné, son analyse de la conformité du projet et des investissements réalisés [<sup>2</sup> au principe du raisonnable visé à l'article 10 octies, § 3, alinéa 3, et]<sup>2</sup> aux missions des gestionnaires de réseaux de distribution.
+
+§ 3. Dans le cadre des projets faisant l'objet d'une subvention, le Gouvernement peut, pour une durée limitée dans le tempset après avis de la CWaPE, autoriser le développement de projets pilotes exploités par un gestionnaire de réseau visant à tester de nouvelles missions conformes aux directives européennes.
+
+Ces projets répondent notamment aux conditions suivantes :
+
+1° avoir pour objet l'étude de la mise en oeuvre de solutions technologiques optimales pour le marché wallon de l'électricité et du gaz, notamment en matière d'efficacité énergétique, de flexibilité, d'optimisation du développement, de la gestion de la production décentralisée et de la promotion de l'autoconsommation locale et des circuits courts;
+
+2° présenter un caractère innovant;
+
+3° ne pas avoir pour effet ou pour but de déroger aux obligations imposées aux acteurs du marché régional de l'électricité et du gaz par ou en vertu du présent décret, du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité, du décret du 19 décembre 2022 relatif à l'organisation du marché régional du gaz, et des arrêtés d'exécution les concernant, sauf s'il est démontré qu'il est nécessaire de déroger à ces règles pour le bon fonctionnement du projet ou pour l'atteinte des objectifs poursuivis par celuici;
+
+4° ne pas avoir pour objectif d'éluder totalement ou partiellement, dans le chef des participants au projet pilote, toutes formes de taxes et charges dont ils seraient redevables s'ils n'étaient pas dans le périmètre du projet pilote;
+
+5° présenter un caractère reproductible à l'ensemble du marché wallon de manière non discriminatoire;
+
+6° assurer la publicité des résultats du projet pilote;
+
+7° avoir une durée limitée dans le temps qui n'excède pas cinq ans.
+
+La CWaPE peut assortir son analyse de conditions dérogeant à l'alinéa 2, 3° et 4°.
+
+§ 4. Sur la base du dossier de demande de subvention et de l'analyse de la CWaPE, le Gouvernement détermine les coûts éligibles, sélectionne les projets et le montant des subventions accordées aux gestionnaires de réseaux de distribution concernés. Le Gouvernement détermine la période d'éligibilité des dépenses.
+
+§ 5. Après acceptation de la subvention pour les projets d'investissements éligibles, le gestionnaire de réseau de distribution met à jour son plan d'adaptation afin d'y faire apparaître, de manière distincte, le projet financé par la subvention octroyée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 13, 006; En vigueur : 01-07-2023&gt;
+
+(2)&lt;DRW 2025-12-19/70, art. 3, 008; En vigueur : 09-01-2026&gt;
+
+#### Sous-section 6. [<sup>1</sup> Du rapport des gestionnaires de réseaux de distribution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 14, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10octies
+
+[<sup>1</sup> § 1er. Au terme d'un délai de six mois à dater de l'octroi de la subvention visée à l'article 10bis et ensuite semestriellement durant la période couverte par la subvention, le gestionnaire de réseau de distribution communique par voie électronique à la CWaPE et au Ministre un rapport d'état d'avancement.
+
+Le rapport d'état d'avancement comprend en tout cas les informations suivantes :
+
+1° un état de l'avancement du projet;
+
+2° un état des investissements réalisés accompagné de toutes les pièces justificatives;
+
+3° une description actualisée du projet faisant l'objet de la subvention et un planning de mise en oeuvre actualisé;
+
+4° une description détaillée actualisée de l'investissement à réaliser, en ce compris le rythme estimé des besoins de liquidation de la subvention.
+
+Concernant les 3° et 4°, le gestionnaire de réseau de distribution justifie toute modification et évolution par rapport aux informations contenues dans le dossier de demande de subvention ou dans un précédent rapport. Notamment, pour tout changement substantiel du projet ou de stratégie, le gestionnaire de réseau de distribution décrit :
+
+1° les bénéfices escomptés par la mise en oeuvre du projet modifié, dans le cadre de la transition énergétique, conformément aux objectifs définis à l'article 10bis;
+
+2° l'apport de cet investissement supplémentaire par rapport aux plans d'investissements approuvés par la CWaPE.
+
+Le gestionnaire de réseau démontre l'absence de financement par les tarifs de distribution.
+
+§ 2. Lorsque le projet est terminé, le gestionnaire de réseau de distribution communique par voie électronique à la CWaPE et au Ministre un rapport final.
+
+Le rapport final comprend en tout cas les informations suivantes : 1° une description du projet réalisé;
+
+2° une description des investissements réalisés accompagnée de toutes les pièces justificatives.
+
+Le gestionnaire de réseau de distribution justifie toute modification et évolution par rapport aux informations contenues dans le dossier de demande de subvention ou dans un précédent rapport. Notamment, pour tout changement substantiel du projet ou de stratégie, le gestionnaire de réseau de distribution démontre :
+
+1° les bénéfices escomptés par la mise en oeuvre du projet modifié, dans le cadre de la transition énergétique, conformément aux objectifs définis à l'article 10bis;
+
+2° l'apport de cet investissement supplémentaire par rapport aux plans d'investissements approuvés par la CWaPE;
+
+3° l'absence de financement par les tarifs de distribution.
+
+§ 3. [<sup>2</sup> Les éléments qui entrent dans le rapport d'état d'avancement que communique le gestionnaire de réseau de distribution sont raisonnables, quant à leur fondement et à leur montant, par rapport aux missions des gestionnaires de réseaux de distribution, à l'objet de la subvention, au présent décret et à l'arrêté d'octroi. Le caractère raisonnable est apprécié conformément à l'alinéa 3. A défaut, ces éléments ne sont pas pris en compte pour la déclaration de créance du gestionnaire de réseau de distribution, visée à l'article 10decies, § 2. ]<sup>2</sup>
+
+La CWaPE communique, dans les trente jours de la réception des rapports visés aux paragraphes 1er et 2, au Ministre et au gestionnaire de réseau de distribution concerné, son analyse de la conformité du projet et des investissements réalisés [<sup>2</sup> au principe du raisonnable, apprécié conformément à l'alinéa 3, et]<sup>2</sup> aux missions des gestionnaires de réseaux de distribution.
+
+[<sup>2</sup> Pour l'application du présent paragraphe, le caractère raisonnable est apprécié conformément à la méthodologie tarifaire applicable aux gestionnaires de réseau de distribution d'électricité et de gaz actifs en Région wallonne, adoptée par la CWaPE conformément à l'article 2, § 2, du décret du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution de gaz et d'électricité.]<sup>2</sup>
+
+§ 4. Après analyse de conformité positive des rapports visés aux paragraphes 1er et 2 par la CWaPE, le gestionnaire de réseau de distribution concerné met à jour son plan d'adaptation afin d'y faire apparaître, de manière distincte, le projet financé par la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 15, 006; En vigueur : 01-07-2023&gt;
+
+(2)&lt;DRW 2025-12-19/70, art. 4, 008; En vigueur : 09-01-2026&gt;
+
+#### Sous-section 7. [<sup>1</sup> De la liquidation de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 16, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10nonies
+
+[<sup>1</sup> La subvention visée à l'article 10bis est liquidée par avances et solde, dont le pourcentage et les modalités de paiement sont déterminés par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 17, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10decies
+
+[<sup>1</sup> § 1er. La première avance de la subvention visée à l'article 10bis est liquidée dans les trente jours de la notification de la décision d'octroi de la subvention au gestionnaire de réseau de distribution.
+
+§ 2. Lors de la remise d'un rapport d'état d'avancement visé à l'article 10octies, § 1er, ou lors de la remise du rapport final visé à l'article 10octies, § 2, le gestionnaire de réseau de distribution communique au Ministre une déclaration de créance relative aux montants justifiés, accompagnée des pièces justificatives.
+
+Après vérification de la concordance des montants repris dans la déclaration de créance visée à l'alinéa 1er avec les informations mentionnées dans les rapports visés à l'article 10octies, §§ 1er et 2, [<sup>2</sup> sur avis de la CWaPE, rendu conformément à l'article 10octies, § 3]<sup>2</sup> le montant des dépenses éligibles de façon à reconstituer l'avance visée au paragraphe 1er dans un délai de soixante jours à compter de la remise du rapport final visé à l'article 10octies, § 2.
+
+A la réception du rapport final, après vérification de la concordance des montants repris dans la déclaration de créance visée à l'alinéa 1er avec les informations mentionnées dans les rapports visés à l'article 10octies, §§ 1er et 2, [<sup>2</sup> sur avis de la CWaPE, rendu conformément à l'article 10octies, § 3]<sup>2</sup>, le Ministre met en liquidation le solde des dépenses en tenant compte du solde de l'avance.
+
+[<sup>2</sup> En cas de décision de refus du Ministre]<sup>2</sup>, le bénéficiaire de la subvention rembourse les montants déjà perçus qui sont en lien avec des investissements non conformes aux missions des gestionnaires de réseaux de distribution ou modifie son projet d'investissement afin que celui-ci soit conforme aux missions des gestionnaires de réseaux de distribution.
+
+Les montants payés ne peuvent pas dépasser le montant de la subvention initialement prévue pour chaque gestionnaire de réseau de distribution.
+
+Dans le cas où les dépenses justifiées par un gestionnaire de réseau de distribution sont inférieures aux avances reçues, la différence est remboursée par ce gestionnaire de réseau de distribution dans un délai de soixante jours à compter de la réception d'un courrier d'information.
+
+§ 3. Chaque gestionnaire de réseau de distribution garde à disposition les documents généraux et comptables nécessaires au contrôle de l'utilisation de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 18, 006; En vigueur : 01-07-2023&gt;
+
+(2)&lt;DRW 2025-12-19/70, art. 5, 008; En vigueur : 09-01-2026&gt;
+
+#### Sous-section 8. [<sup>1</sup> Des fraudes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 19, 006; En vigueur : 01-07-2023&gt;
+
+##### Art. 10undecies
+
+[<sup>1</sup> En cas de constat de fraude aux dispositions de la présente section, le bénéficiaire rembourse les sommes indûment perçues et ne reçoit pas de nouvelle subvention en application de la présente section pendant dix ans à dater de la découverte de la fraude.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2023-06-29/08, art. 20, 006; En vigueur : 01-07-2023&gt;
+
+### Section VI. [<sup>1</sup> Subvention ou autre incitation financière pour l'achat, le montage et la mise en service ou le remplacement de chaudières]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/70, art. 6, 008; En vigueur : 09-01-2026&gt;
+
+##### Art. 10duodecies
+
+[<sup>1</sup> La présente section transpose partiellement la directive (UE) 2024/1275 du Parlement européen et du Conseil du 24 avril 2024 sur la performance énergétique des bâtiments.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/70, art. 7, 008; En vigueur : 09-01-2026&gt;
+
+##### Art. 10terdecies
+
+[<sup>1</sup> Pour l'application de la présente section, l'on entend par :
+
+1° la chaudière : l'ensemble combiné formé par le corps de la chaudière et le brûleur, destiné à transmettre à des fluides la chaleur libérée par la combustion, pour assurer le chauffage et la production d'eau chaude sanitaire ;
+
+2° la chaudière autonome : la chaudière qui n'est pas combinée avec un autre générateur de chaleur sur un même circuit de distribution ;
+
+3° le combustible fossile : tout combustible à l'exception des combustibles renouvelables ;
+
+4° le combustible renouvelable : le biocarburant, le bioliquide, le combustible ou carburant issu de la biomasse, et le carburant renouvelable d'origine non biologique ;
+
+5° l'énergie renouvelable : l'énergie produite à partir de sources renouvelables au sens du décret du 28 novembre 2013 relatif à la performance énergétique des bâtiments, ou produite à partir de combustible renouvelable ;
+
+6° le système de chauffage hybride : la combinaison de deux générateurs de chaleur qui distribuent la chaleur sur un même circuit de distribution ;
+
+7° l'installation : l'achat, le montage, la mise en service ou le remplacement d'un équipement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/70, art. 7, 008; En vigueur : 09-01-2026&gt;
+
+##### Art. 10quaterdecies
+
+[<sup>1</sup> § 1er. Aucune subvention ou autre incitation financière est octroyée pour l'installation de chaudières autonomes qui consomment du combustible fossile à un moment de leur durée de vie.
+
+§ 2. Une subvention ou une autre incitation financière peut être octroyée pour l'installation d'un système de chauffage hybride qui consomme partiellement du combustible fossile, à la condition que ce système de chauffage hybride utilise une part considérable d'énergie renouvelable. Un système de chauffage hybride utilise une part considérable d'énergie renouvelable lorsque le générateur principal de chaleur du système consomme de l'énergie renouvelable. La subvention tient compte uniquement de la part du système de chauffage hybride qui utilise de l'énergie renouvelable.
+
+Le Gouvernement peut définir les modalités d'application du présent paragraphe.
+
+§ 3. Une subvention ou une incitation financière peut être octroyée pour un système de chauffage qui ne consomme pas de combustible fossile.
+
+Le Gouvernement met en place des mesures qui garantissent que, dans les programmes d'aide subsidiant ou incitant encore des chaudières placées seules et déclarées comme brûlant uniquement des combustibles renouvelables, cette condition est respectée à la fois lors de l'installation de l'appareil et tout au long de sa durée de vie ou d'utilisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/70, art. 7, 008; En vigueur : 09-01-2026&gt;
+
+##### Art. 10quinquiesdecies
+
+[<sup>1</sup> La présente section produit ses effets le 1er janvier 2025.
+
+Par dérogation à l'alinéa 1er, le dossier de demande de subvention ou d'incitation financière introduit avant la date d'entrée en vigueur du présent article reste soumis aux règles et procédures en vigueur jusqu'au 31 décembre 2024, sous réserve de la condition que le droit à la subvention ou l'incitation financière, le cas échéant conditionné au respect de conditions particulières, est acquis ou notifié au demandeur à l'entrée en vigueur du présent chapitre.
+
+Par dérogation à l'alinéa 1er, les dossiers de subvention ou d'incitation financière restent soumis aux règles et aux procédures en vigueur jusqu'au 31 décembre 2024, s'ils relèvent d'un régime adopté avant le 1er janvier 2025 et si ce régime bénéficie d'un programme de financement européen visé par :
+
+1° le règlement (UE) 2021/241 du Parlement européen et du Conseil du 12 février 2021 établissant la facilité pour la reprise et la résilience ;
+
+2° le règlement (UE) 2021/1058 du Parlement européen et du Conseil du 24 juin 2021 relatif au Fonds européen de développement régional et au Fonds de cohésion, l'article 7.1, point h), i), troisième tiret ; ou,
+
+3° le règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021 établissant des règles régissant l'aide aux plans stratégiques devant être établis par les Etats membres dans le cadre de la politique agricole commune (plans stratégiques relevant de la PAC) et financés par le Fonds européen agricole de garantie (FEAGA) et par le Fonds européen agricole pour le développement rural (Feader), et abrogeant les règlements (UE) n° 1305/2013 et (UE) n° 1307/2013, l'article 73.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2025-12-19/70, art. 7, 008; En vigueur : 09-01-2026&gt;
+
+## CHAPITRE III. [<sup>1</sup> Des obligations. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 10, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 11
+
+[<sup>1</sup> Les entreprises, que le Gouvernement identifie, réalisent périodiquement un audit énergétique des activités exercées par elles en Région wallonne{/art}.
+
+Le Gouvernement utilise les critères suivants pour identifier les entreprises tenues de réaliser un audit énergétique :
+
+1° le chiffre d'affaires;
+
+2° la valeur du total du bilan annuel;
+
+3° le nombre de personnes occupées.
+
+L'audit énergétique est représentatif, proportionnel, rentable et respecte les critères de l'annexe. Le Gouvernement peut préciser et compléter les critères minimaux pour les audits énergétiques.
+
+L'audit énergétique est effectué périodiquement selon les modalités et les conditions définies par le Gouvernement.
+
+Une subvention ne peut pas être accordée pour la réalisation d'un audit imposé en vertu du présent chapitre. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 11, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 12
+
+[<sup>1</sup> Aux conditions déterminées par le Gouvernement, est réputée remplir les obligations définies à l'article 11 :
+
+1° l'entreprise qui met en oeuvre un système de management de l'énergie ou de l'environnement certifié par un organisme indépendant conformément aux normes européennes ou internationales pertinentes, pour autant que le système de management concerné prévoie un audit énergétique conforme aux critères minimaux de l'annexe;
+
+2° l'entreprise partie à une convention environnementale au sens de l'article D.82, du Code de l'Environnement relative à la réduction des émissions spécifiques de gaz à effet de serre et à l'amélioration de l'efficience énergétique qui réalise valablement l'audit énergétique imposé par la convention environnementale, pour autant qu'il soit conforme aux critères minimaux de l'annexe. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 12, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 13
+
+[<sup>1</sup> L'entreprise transmet un rapport d'audit au Gouvernement, selon les modalités que le Gouvernement détermine.
+
+Le rapport d'audit démontre que l'audit énergétique réalisé respecte les critères minimaux de l'annexe et communique les résultats de l'audit énergétique. Le Gouvernement précise la forme et le contenu du rapport d'audit.
+
+L'entreprise conserve l'audit énergétique pendant dix ans et le fournit, sur simple demande, aux membres du personnel contractuel et agents désignés en vertu de l'article 15. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 13, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 14
+
+[<sup>1</sup> Ne pas communiquer le rapport d'audit ou communiquer un rapport d'audit qui ne répond pas au prescrit de l'article 13, alinéa 2, au Gouvernement est sanctionné d'une amende administrative dont le montant est compris entre 250 et 50.000 euros.
+
+Ne pas communiquer, sur simple demande, l'audit énergétique aux fonctionnaires et agents désignés en vertu de l'article 15 est sanctionné d'une amende administrative dont le montant est compris entre 250 et 50.000 euros.
+
+Le Gouvernement peut définir les modalités d'application et de calcul des amendes administratives.
+
+Un recours auprès du Gouvernement contre la décision visée aux alinéas 2 et 3 est organisé par le Gouvernement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 14, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 15
+
+[<sup>1</sup> Le Gouvernement désigne les membres du personnel contractuel et agents chargés du contrôle du respect de l'obligation d'audit énergétique.
+
+Les membres du personnel contractuel ou agents doivent remplir, au moins, les conditions suivantes pour pouvoir être désignés par le Gouvernement :
+
+1° n'avoir subi aucune condamnation pénale;
+
+2° disposer d'un certiIcat d'enseignement secondaire supérieur.
+
+Les membres du personnel contractuel ou agents préservent la confidentialité des informations commercialement sensibles dont ils ont connaissance au cours de l'exécution de leurs activités de contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 15, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 16
+
+[<sup>1</sup> Les membres du personnel contractuel et agents constatent les manquements par procès-verbal faisant foi jusqu'à preuve du contraire.
+
+Les membres du personnel contractuel et agents qui dressent procès-verbal en informent immédiatement le contrevenant.
+
+La notiIcation du procès-verbal invite le contrevenant à faire valoir ses observations, par écrit, dans un délai de vingt jours à dater de la réception du procès-verbal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 16, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. 17
+
+[<sup>1</sup> Le versement du montant de l'amende administrative se fait entre les mains du receveur de l'enregistrement au compte du Fonds énergie institué par le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité.
+
+Si le contrevenant demeure en défaut de payer l'amende, le Gouvernement requiert d'un huissier de justice qu'il procède à la signiIcation de cette décision au débiteur de l'amende.
+
+La signiIcation contient commandement de payer, à peine d'exécution par voie de saisie dans le respect des formes et délais prescrits par le Code judiciaire, de même qu'une justiIcation des sommes exigées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 17, 002; En vigueur : 19-06-2016&gt;
+
+## Annexe [<sup>1</sup> Critères minimaux pour les audits énergétiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 18, 002; En vigueur : 19-06-2016&gt;
+
+##### Art. N
+
+[<sup>1</sup> Les audits énergétiques visés au chapitre III :
+
+1° s'appuient sur des données opérationnelles actualisées, mesurées et traçables concernant la consommation d'énergie et, pour l'électricité, les profils de charge;
+
+2° comportent un examen détaillé du profil de consommation énergétique des bâtiments ou groupes de bâtiments, ainsi que des opérations ou installations industrielles, notamment le transport;
+
+3° s'appuient, dans la mesure du possible, sur une analyse du coût du cycle de vie plutôt que sur de simples délais d'amortissement pour tenir compte des économies à long terme, des valeurs résiduelles des investissements à long terme et des taux d'actualisation;
+
+4° sont proportionnés et suffisamment représentatifs pour permettre de dresser une image fiable de la performance énergétique globale et de recenser de manière sûre les possibilités d'amélioration les plus significatives.
+
+Les audits énergétiques donnent lieu à des calculs détaillés et validés concernant les mesures proposées afin que des informations claires soient disponibles en ce qui concerne les économies potentielles.
+
+Les données utilisées lors des audits énergétiques sont conservées à des fins d'analyse historique et de suivi des performances. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-05-26/17, art. 18, 002; En vigueur : 19-06-2016&gt;

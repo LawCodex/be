@@ -1,0 +1,73 @@
+---
+title: "Décret relatif à l'exercice du droit de préemption par le preneur en cas de vente publique."
+identifier: "1996027019"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996027019/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 1995-12-22
+published: 1996-01-27
+entry_into_force: 1996-02-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996027019/justel"
+department: "Région Wallonne"
+retrieved: 2026-10-12
+---
+
+# 22 DECEMBRE 1995. - Décret relatif à l'exercice du droit de préemption par le preneur en cas de vente publique.
+
+Le Conseil régional wallon a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'article 56, § 2.3, de la loi du 22 juillet 1970, est remplacé par ce qui suit :
+
+"En cas de vente publique, l'officier instrumentant est tenu de notifier à la Région wallonne, au moins trente jours à l'avance, les lieu, jour et heure de la vente.
+
+Lorsque la vente a eu lieu sans réserve de l'exercice éventuel du droit de surenchère, après avoir demandé à la fin des enchères au preneur s'il désire exercer son droit de préemption au prix de la dernière offre, et en cas de refus, d'absence ou de silence de celui-ci, l'officier instrumentant doit, avant l'adjudication, poser publiquement la même question au délégué de la Région wallonne.&lt;ERR. M.B. 28-09-1996&gt;
+
+En cas de refus, d'absence ou de silence de ce dernier, la vente se poursuit.
+
+Si le preneur a déclaré tenir en suspens sa réponse à la question de l'officier instrumentant et n'a pas, dans les dix jours de l'adjudication, notifié son acquiescement à celui-ci ou donné son acquiescement par acte de l'officier instrumentant, ce dernier notifie le montant de la dernière offre à la Région wallonne qui peut l'accepter dans le mois de sa notification.
+
+Lorsque la vente a lieu sous réserve de l'exercice éventuel du droit de surenchère, l'officier instrumentant notifie le montant de la dernière offre à la Région wallonne, s'il n'y a pas de surenchère ou si la surenchère est refusée par le notaire et si le preneur n'a pas notifié son acquiescement à l'officier instrumentant dans le délai légal.
+
+La Région wallonne peut exercer son droit de préemption dans le mois qui suit la notification.
+
+S'il s'agit de biens ruraux sur lesquels le preneur ne jouit pas du droit de préemption, la demande susvisée doit être adressée directement au délégué de la Région wallonne.
+
+En cas de revente par suite de surenchère, la même notification doit être faite à la Région wallonne huit jours à l'avance au moins.".
+
+Promulguons le présent décret ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 22 décembre 1995.
+
+Le Ministre-Président du Gouvernement wallon, chargé de l'Economie, du Commerce extérieur, des P.M.E., du Tourisme et du Patrimoine,
+
+R. COLLIGNON
+
+Le Ministre de l'Aménagement du Territoire, de l'Equipement et des Transports,
+
+M. LEBRUN
+
+Le Ministre des Affaires intérieures et de la Fonction publique,
+
+B. ANSELME
+
+Le Ministre du Budget et des Finances, de l'Emploi et de la Formation,
+
+J.-C. VAN CAUWENBERGHE
+
+Le Ministre de la Recherche, du Développement technologique, du Sport et des Relations internationales,
+
+J.-P. GRAFE
+
+Le Ministre de l'Action sociale, du Logement et de la Santé,
+
+W. TAMINIAUX
+
+Le Ministre de l'Environnement, des Ressources naturelles et de l'Agriculture,
+
+G. LUTGEN
