@@ -1,0 +1,1209 @@
+---
+title: "Décret relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française."
+identifier: "1996029338"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1996/09/09/1996029338/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1996-09-09
+published: 1996-10-15
+entry_into_force: 1995-09-01
+last_amended: 2025-01-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1996/09/09/1996029338/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 15-10-1996 et mise à jour au 09-01-2025"
+retrieved: 2026-10-12
+---
+
+# 9 SEPTEMBRE 1996. - Décret relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Définitions.
+
+##### Art. 1
+
+Il faut entendre par :
+
+1° [<sup>1</sup> a) décret Paysage : décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études;
+
+b) décret : [<sup>2</sup> décret du 21 février 2019 fixant l'organisation de l'enseignement supérieur en hautes écoles;]<sup>2</sup>]<sup>1</sup>
+
+2° Haute Ecole : Haute Ecole [<sup>1</sup> visée à l'article 11 du décret Paysage]<sup>1</sup>;
+
+3° Haute Ecole de la Communauté française : Haute Ecole organisée par la Communauté française;
+
+4° Haute Ecole officielle subventionnée : Haute Ecole relevant du réseau officiel subventionné et créée par une commune, une province ou une personne morale de droit public;
+
+5° Haute Ecole libre subventionnée : Haute Ecole relevant du réseau libre subventionné et créée sous la forme d'une personne morale de droit privé;
+
+6° [<sup>2</sup> Autorités de la haute école: les autorités de la haute école visées à l'article 2, 2°, du décret]<sup>2</sup>;
+
+7° [<sup>2</sup> Département : département visé à l'article 2, 3° du décret]<sup>2</sup>;
+
+8° [<sup>2</sup> ...]<sup>2</sup>;
+
+9° [<sup>2</sup> ...]<sup>2</sup>;
+
+10° [<sup>2</sup> ...]<sup>2</sup>;
+
+11° Cycle : cycle [<sup>1</sup> visé à l'article 15, § 1er, 26°, du décret Paysage]<sup>1</sup>;
+
+12° [<sup>1</sup> Domaine d'études : domaine d'études visé à l'article 15, § 1er, 28°, du décret Paysage;]<sup>1</sup>
+
+13° [<sup>1</sup> Année académique : année académique visée à l'article 15, § 1er, 6°, du décret Paysage;]<sup>1</sup>
+
+14° Gouvernement : Gouvernement de la Communauté française;
+
+15° [<sup>2</sup> réseau : un des réseaux visés à l'article 8 du décret]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 2, 054; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFR 2019-02-21/06, art. 51, 055; En vigueur : 24-03-2019&gt;
+
+## CHAPITRE II. - Du calcul de l'allocation annuelle globale.
+
+### Section 1. - Dispositions générales.
+
+##### Art. 2
+
+Dans les limites et aux conditions fixées par le présent décret, la Communauté française contribue au financement du fonctionnement des Hautes Ecoles au moyen d'allocations annuelles globales.
+
+##### Art. 3
+
+Ces allocations annuelles globales contribuent à la couverture des frais de personnel, de fonctionnement et d'équipement pour l'enseignement, la recherche appliquée, les services à la collectivité, la formation continuée et l'administration de la Haute Ecole.
+
+### Section 2. - Admissibilité au financement d'une Haute Ecole.
+
+##### Art. 4
+
+[<sup>1</sup> Pour être admissible au financement, la Haute Ecole doit satisfaire aux conditions fixées par ou en vertu du décret, du décret Paysage et du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 3, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 4bis
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 4, 054; En vigueur : 01-01-2018&gt;
+
+### Section 3. - Admissibilité au financement des étudiants.
+
+##### Art. 5
+
+&lt;Abrogé par DCFR 2014-04-11/22, art. 13, L2, 047; En vigueur : 15-09-2014, voir aussi les dispositions transitoires dans l'article 13, L4&gt;
+
+##### Art. 6
+
+&lt;Abrogé par DCFR 2014-04-11/22, art. 13, L2, 047; En vigueur : 15-09-2014, voir aussi les dispositions transitoires dans l'article 13, L4&gt;
+
+##### Art. 7
+
+&lt;Abrogé par DCFR 2014-04-11/22, art. 13, L2, 047; En vigueur : 15-09-2014, voir aussi les dispositions transitoires dans l'article 13, L4&gt;
+
+##### Art. 8
+
+&lt;Abrogé par DCFR 2014-04-11/22, art. 13, L2, 047; En vigueur : 15-09-2014, voir aussi les dispositions transitoires dans l'article 13, L4&gt;
+
+### Section 4. - Calcul des allocations annuelles globales.
+
+#### Sous-section 1. - Dispositions générales.
+
+##### Art. 9
+
+[<sup>1</sup> Le financement global des Hautes Ecoles est égal, pour l'année budgétaire 2018, à 448.660.000 euros. A partir de l'année 2019, ce montant est indexé conformément à l'article 9 bis.
+
+Pour l'année budgétaire 2018, un montant de 5.184.000 euros est ajouté au montant obtenu en application de l'alinéa 1er. A partir de l'année 2019, ce montant est indexé conformément à l'article 9 bis.
+
+Pour l'année budgétaire 2019, [<sup>2</sup> un montant de 910.000 euros]<sup>2</sup> est ajouté au montant obtenu en vertu des alinéas 1 et 2. A partir de l'année 2020, ce montant est indexé conformément à l'article 9 bis.]<sup>1</sup>
+
+[<sup>2</sup> Pour l'année budgétaire 2020, un montant de 620.000 euros est ajouté au montant obtenu en vertu des alinéas 1, 2 et 3. A partir de l'année 2021, ce montant est indexé conformément à l'article 9 bis.]<sup>2</sup>
+
+[<sup>3</sup> En 2020 ou 2021, un montant unique et exceptionnel de 3.250.000 euros est ajouté au montant obtenu en application des alinéas précédents.]<sup>3</sup>
+
+[<sup>4</sup> Pour l'année budgétaire 2021, un montant de 5.700.000 euros, incluant le montant de 2.800.000 euros visé à l'article 9, alinéa 3, du décret du 18 juillet 2008 oeuvrant à la promotion de la réussite et créant l'observatoire de l'enseignement supérieur, est ajouté au montant obtenu en application des alinéas 1 à 4. A partir de l'année 2022, ce montant est indexé conformément à l'article 9 bis.]<sup>4</sup>
+
+[<sup>5</sup> [<sup>6</sup> Pour l'année budgétaire 2022]<sup>6</sup>, un montant de 7.000.000 euros est ajouté au montant obtenu en application des alinéas 1 à 4 et 6.]<sup>5</sup> [<sup>6</sup> A partir de l'année 2024, ce montant est indexé conformément à l'article 9 bis.]<sup>6</sup>
+
+[<sup>6</sup> En 2022, un montant de 242.000 euros est ajouté au montant obtenu en application des alinéas 1 à 4 et 6 à 7.
+
+En 2022, un montant de 778.000 euros est ajouté au montant obtenu en application des alinéas 1 à 4 et 6 à 8.
+
+Pour l'année budgétaire 2023, un montant de 5.600.000 euros est ajouté au montant obtenu en application des alinéas 1 à 4, 6 et 7. A partir de l'année 2024, ce montant est indexé conformément à l'article 9 bis.
+
+Pour l'année budgétaire 2023, un montant de 355.000 euros est ajouté au montant obtenu en application des alinéas 1 à 4, 6, 7 et 10A partir de l'année 2024, ce montant est indexé conformément à l'article 9 bis.
+
+Pour l'année budgétaire 2023, un montant de 778.000 euros est ajouté au montant obtenu en application des alinéas 1 à 4, 6, 7,10 et 11.
+
+Pour l'année budgétaire 2024, un montant de 2.100.000 euros est ajouté au montant obtenu en application des alinéas 1 à 4, 6,7 et 10 à 12. A partir de l'année 2025, ce montant, hors le montant visé à l'alinéa 12, est indexé conformément à l'article 9 bis, le montant visé à l'alinéa 12 y restant intégré annuellement à sa valeur de 2023.]<sup>6</sup>
+
+[<sup>7</sup> A partir de l'année 2024, un montant de 648.900 euros est ajouté au montant obtenu en application des alinéas 1 à 4, 6, 7 et 10 à 13. A partir de l'année 2025, ce montant est indexé conformément à l'article 9 bis.]<sup>7</sup>
+
+[<sup>8</sup> Pour l'année budgétaire 2024, un montant de 3.000.000 euros est ajouté au montant obtenu en application des alinéas 1 à 4 et 6 à 7 et 10 à 14. A partir de l'année 2025, ce montant est indexé conformément à l'article 9bis.]<sup>8</sup>
+
+[<sup>9</sup> En 2024, un montant unique et exceptionnel de 1.625.000 euros est ajouté au montant obtenu en application des alinéas précédents.]<sup>9</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 5, 054; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFR 2019-12-18/15, art. 38, 057; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFR 2020-12-09/15, art. 16, 059; En vigueur : 01-12-2020&gt;
+
+(4)&lt;DCFR 2021-07-14/23, art. 111, 060; En vigueur : 27-08-2021&gt;
+
+(5)&lt;DCFR 2021-12-15/13, art. 52, 061; En vigueur : 01-01-2022&gt;
+
+(6)&lt;DCFR 2022-12-14/15, art. 54, 064; En vigueur : 01-01-2022&gt;
+
+(7)&lt;DCFR 2023-12-20/14, art. 28, 065; En vigueur : 01-01-2024&gt;
+
+(8)&lt;DCFR 2024-12-11/03, art. 44, 069; En vigueur : 01-01-2024&gt;
+
+(9)&lt;DCFR 2024-05-31/03, art. 7, 070; En vigueur : 14-09-2024&gt;
+
+##### Art. 9bis
+
+[<sup>1</sup> Pour une année budgétaire considérée, un montant est indexé en adaptant le montant définitif obtenu pour l'année précédant l'année budgétaire concernée à la variation de l'indice santé de l'année précédant l'année budgétaire concernée et aux augmentations intercalaires de traitements attribuées au cours de la pénultième année budgétaire précédant l'année budgétaire concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-11-29/06, art. 6, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 10
+
+[<sup>9</sup> ...]<sup>9</sup>
+
+A partir de l'année budgétaire 2013, un montant correspondant au coût moyen brut pondéré calculé annuellement en vertu de l'article 29, alinéa 5, pour la catégorie des membres du personnel administratif, est ajouté à l'allocation annuelle globale lorsqu'une Haute Ecole couvre sur celle-ci le coût d'un membre du personnel mis à disposition des Commissaires visés à la section 1re du chapitre 5.]<sup>5</sup>
+
+[<sup>10</sup> A partir de l'année budgétaire 2026, un montant déterminé en application de l'article 58, § 1er, alinéa 5, du décret du 7 février 2019 définissant la formation initiale des enseignants, est ajouté au montant déterminé en vertu des alinéas précédents.
+
+A partir de l'année budgétaire 2028, le montant déterminé en application de l'article 61, alinéa 5, du décret du 7 février 2019 définissant la formation initiale des enseignants, est ajouté au montant déterminé en vertu des alinéas précédents.
+
+A partir de l'année budgétaire 2029, un montant déterminé en application de l'article 59, alinéa 5, du décret du 7 février 2019 définissant la formation initiale des enseignants, est ajouté au montant déterminé en vertu des alinéas précédents.
+
+A partir de l'année budgétaire 2035, un montant déterminé en application de l'article 60, § 1er, alinéa 4, du décret du 7 février 2019 définissant la formation initiale des enseignants est, ajouté au montant déterminé en vertu des alinéas précédents.]<sup>10</sup>
+
+----------
+
+(1)&lt;DCFR 2008-07-18/64, art. 10, 032; En vigueur : 15-09-2008&gt;
+
+(2)&lt;DCFR 2008-05-09/75, art. 48, 031; En vigueur : 03-07-2008&gt;
+
+(3)&lt;DCFR 2012-07-12/27, art. 23, 044; En vigueur : 01-01-2012&gt;
+
+(4)&lt;DCFR 2013-07-17/33, art. 36, 045; En vigueur : 01-01-2013&gt;
+
+(5)&lt;DCFR 2013-07-17/33, art. 37, 045; En vigueur : 01-01-2013&gt;
+
+(6)&lt;DCFR 2013-12-18/18, art. 34, 046; En vigueur : 01-01-2013&gt;
+
+(7)&lt;DCFR 2016-06-16/24, art. 20, 052; En vigueur : 01-01-2016&gt;
+
+(8)&lt;DCFR 2017-07-19/15, art. 7, 053; En vigueur : 01-01-2017&gt;
+
+(9)&lt;DCFR 2018-11-29/06, art. 7, 054; En vigueur : 01-01-2018&gt;
+
+(10)&lt;DCFR 2019-02-07/10, art. 64, 058; En vigueur : 14-09-2022&gt;
+
+##### Art. 11
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 8, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 12
+
+[<sup>1</sup> Le financement global des Hautes Ecoles, calculé conformément à l'article 9, se compose d'une partie fixe et d'une partie variable. Les allocations annuelles globales des Hautes Ecoles visées à l'article 2 s'obtiennent après répartition des parties fixe et variable.
+
+A partir de l'année 2018, la partie fixe représente 13,5% du financement visé à l'article 9.
+
+A partir de l'année 2018, la partie variable représente 86,5% du financement visé à l'article 9.
+
+Toute variation du montant visé à l'article 9 ne résultant pas de l'application de l'article 9 bis, consécutive à l'évolution de l'organisation de l'enseignement dans les Hautes Ecoles et concernant certains cursus d'études à l'exclusion d'autres implique une révision des proportions des parts fixe et variable au bénéfice de la part variable.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 9, 054; En vigueur : 01-01-2018&gt;
+
+#### Sous-section 2. [<sup>1</sup> - De la partie fixe.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 10, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 13
+
+[<sup>1</sup> § 1er. La partie fixe du financement des Hautes Ecoles, calculée conformément à l'article 12, est répartie entre les Hautes Ecoles au prorata des clés suivantes :
+
+Haute Ecole Bruxelles-Brabant : 8,19 %;
+
+Haute Ecole en Hainaut : 5,34 %;
+
+Haute Ecole Charlemagne : 5,84 %;
+
+Haute Ecole Robert Schuman : 5,08 %;
+
+Haute Ecole Albert Jacquard : 3,54 %;
+
+Haute Ecole Francisco Ferrer : 3,72%;
+
+Haute Ecole de la Ville de Liège : 2,43%;
+
+Haute Ecole provinciale de Hainaut - Condorcet : 11,06 %;
+
+Haute Ecole de la Province de Liège : 7,66 %;
+
+Haute Ecole de la Province de Namur : 3,02 %;
+
+Haute Ecole Lucia de Brouckère : 2,71 %;
+
+[<sup>2</sup> Haute Ecole Galilée : 1,16 % ]<sup>2</sup>;
+
+Haute Ecole Leonard de Vinci : 4,63 %;
+
+[<sup>2</sup> Haute Ecole EPHEC : 3,79 % ]<sup>2</sup>;
+
+Haute Ecole " Groupe ICHEC - ISC. Saint Louis - ISFSC " : 2,65 %;
+
+Haute Ecole HELHa : 10,23 %;
+
+Haute Ecole libre mosane : 7,06 %;
+
+Haute Ecole Namur-Liège-Luxembourg : 9,15 %;
+
+Haute Ecole Ilya Prigogine : 2,74 %.
+
+En cas de fusion, dès l'année budgétaire qui suit l'année académique de la fusion, la clé de répartition de la partie fixe pour la Haute Ecole issue de la fusion s'obtient en additionnant les clés de répartition de la partie fixe des Hautes Ecoles fusionnées.
+
+Ces clés de répartition sont revues tous les dix ans. La première révision aura lieu en 2028.
+
+§ 2. La partie fixe du financement de chaque Haute Ecole permet de couvrir notamment les coûts de personnel suivants :
+
+1° une fraction de charge d'au moins 4/10 d'équivalent temps plein du personnel pour assurer l'évaluation de la qualité. Pour l'année 2018, ce coût est estimé à 25.000 euros;
+
+2° une fraction de charge d'au moins 1/10 d'équivalent temps plein du personnel pour l'accompagnement des candidats au Certificat d'aptitude pédagogique approprié à l'enseignement supérieur. Pour l'année 2018, ce coût est estimé à 6.000 euros;
+
+3° une fraction de charge d'au moins 5/10 équivalent temps plein du personnel pour la mission de coordinateur en sécurité. Pour l'année 2018, ce coût est estimé à 34.000 euros.
+
+Lorsqu'une Haute Ecole n'affecte pas de personnel pour l'une des missions prévues au premier alinéa, un montant correspondant au coût de cette mission, indexé conformément aux dispositions prévues à l'article 9bis, est déduit de son allocation annuelle globale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 11, 054; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFR 2023-12-20/14, art. 27, 065; En vigueur : 28-08-2023&gt;
+
+#### Sous-section 3.
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 12, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 14
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 12, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 14bis
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 12, 054; En vigueur : 01-01-2018&gt;
+
+#### Sous-section 4. - De la partie variable.
+
+##### Art. 15
+
+[<sup>1</sup> La partie variable du financement des Hautes Ecoles, calculée conformément à l'article 12, est répartie entre les Hautes Ecoles au prorata du nombre d'unités de charge d'enseignement de chaque Haute Ecole, calculées conformément à l'article 17.
+
+Pour déterminer la charge d'enseignement, les domaines d'étude, en référence à l'annexe III.2 du décret Paysage, sont classés pour le financement dans les groupes suivants :
+
+<table><tr><td colspan="2">[<sup><font>1</font></sup> Domaine d'étude</td><td colspan="2">Pondération par type d'enseignement</td></tr><tr><td colspan="2"></td><td>Type court</td><td>Type long</td></tr><tr><td>5</td><td>Information et communication</td><td>C</td><td>C</td></tr><tr><td>6</td><td>Sciences politiques et sociales</td><td>C</td><td>C</td></tr><tr><td>7</td><td>Sciences juridiques</td><td>A</td><td>B</td></tr><tr><td>9</td><td>Sciences économiques et de gestion</td><td>A</td><td>B</td></tr><tr><td>10</td><td>Sciences psychologiques</td><td>G</td><td>G</td></tr><tr><td> </td><td>Excepté : 1er cycle en logopédie, en coaching sportif et bachelier de spécialisation en éducation et rééducation des déficients sensoriels</td><td>F</td><td>C <br>  </td></tr><tr><td> </td><td>Excepté : 1er cycle en assistant en psychologie</td><td>C</td><td>C</td></tr><tr><td>10bis</td><td>Sciences de l'éducation et enseignement</td><td>G</td><td>G</td></tr><tr><td> </td><td>Excepté : 1er cycle en éducateur spécialisé en activités socio-sportives</td><td>C</td><td>C <br>  </td></tr><tr><td>14</td><td>Sciences biomédicales et pharmaceutiques</td><td>F</td><td>F</td></tr><tr><td>15</td><td>Sciences de la santé publique</td><td>F</td><td>F</td></tr><tr><td>16</td><td>Sciences de la motricité</td><td>F</td><td>F</td></tr><tr><td>17</td><td>Sciences</td><td>B</td><td>G</td></tr><tr><td> </td><td>[<sup><font>1</font></sup> Excepté : 1er cycle en informatique, orientation développement d'applications]<sup><font>1</font></sup></td><td>A</td><td>B <br>  </td></tr><tr><td>18</td><td>Sciences agronomiques et ingénierie biologique</td><td>C</td><td>G</td></tr><tr><td>19</td><td>Sciences de l'ingénieur et technologie</td><td>B</td><td>G</td></tr><tr><td>22</td><td>Arts plastiques, visuels et de l'espace</td><td>D</td><td> </td></tr><tr><td> </td><td>AESS</td><td>H</td><td> </td></tr><tr><td> </td><td>CAPAES</td><td>I</td><td>]<sup><font>1</font></sup></td></tr><tr><td colspan="4">(<font>1</font>)&lt;DCFR <a>2023-11-09/20</a>, art. 2, 067; En vigueur : 14-09-2022&gt;</td></tr></table>
+
+]<sup>1</sup>
+
+[<sup>2</sup> [<sup>3</sup> ...]<sup>3</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 13, 054; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFR 2019-02-07/10, art. 65, 058; En vigueur : 14-09-2022&gt;
+
+(3)&lt;DCFR 2023-11-09/20, art. 2, 067; En vigueur : 14-09-2022&gt;
+
+##### Art. 16
+
+Pour chaque groupe visé à l'article 15, une pondération est attribuée et varie selon le volume et [<sup>2</sup> le domaine d'étude]<sup>2</sup> de la manière suivante :
+
+1° par étudiant pris en compte pour le financement, qui suit sans préjudice des dispenses accordées la totalité du programme de l'année pour laquelle il est inscrit, la pondération suivante est attribuée :
+
+a) Groupe A : 1 point;
+
+b) Groupe B : 1,1 point;
+
+c) Groupe C : 1,15 point;
+
+d) Groupe D : 1,2 point;
+
+e) [<sup>1</sup> ...]<sup>1</sup>;
+
+f) Groupe F : 1,5 point;
+
+g) Groupe G : 1,65 point;
+
+(h) Groupe H : 0,5 point;) &lt;DCFR 2001-02-08/35, art. 24, 014; En vigueur : 01-09-2001&gt;
+
+(i) Groupe I : 0,5 point;) &lt;DCFR 2002-07-17/40, art. 15, 016; En vigueur : 01-09-2002&gt;
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+(3° [<sup>2</sup> ...]<sup>2</sup>
+
+(4° Les étudiants correspondant au Groupe H pris en compte pour le financement sont ceux qui ont réussi l'agrégation de l'enseignement secondaire supérieur lors de l'année académique précédant l'année budgétaire concernée;) &lt;DCFR 2001-02-08/35, art. 24, 014; En vigueur : 01-09-2001&gt;
+
+(5° Les étudiants correspondant au Groupe I pris en compte pour le financement sont ceux qui ont réussi la formation du CAPAES lors de l'année académique précédant l'année budgétaire concernée.) &lt;DCFR 2002-07-17/40, art. 15, 016; En vigueur : 01-09-2002&gt;
+
+----------
+
+(1)&lt;DCFR 2014-04-11/27, art. 11, 048; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2018-11-29/06, art. 14, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 17
+
+La charge d'enseignement d'une Haute Ecole est exprimée en un certain nombre d'unités de charge d'enseignement. Le nombre d'unités de charge d'enseignement est égal à la somme des produits du nombre d'étudiants pris en compte pour le financement dans chacun des groupes visés à l'article 15 d'une part et de la pondération correspondante par étudiant pris en compte pour le financement fixée à l'article 16 pour ce groupe, d'autre part. [<sup>1</sup> Les unités de charge d'enseignement pour les étudiants en année diplômante d'un master en 120 crédits sont divisées par deux, à l'exception des étudiants en études d'architecte paysagiste et d'ingénieur commercial.]<sup>1</sup>
+
+Le nombre d'étudiants par groupe à prendre en compte à l'alinéa premier est égal au nombre d'étudiants entrant en ligne de compte pour le financement, [<sup>1</sup> conformément au décret du 11 avril 2014 adaptant le financement des établissements de l'enseignement supérieur à la nouvelle organisation des études]<sup>1</sup>, des trois dernières années précédant l'année budgétaire pour laquelle l'allocation annuelle globale est calculée, divisé par trois. [<sup>2</sup> Toutefois, en lien avec le décret du 7 février 2019 définissant la formation initiale des enseignants, les dérogations suivantes sont appliquées aux modalités de calculs prévues par les alinéas précédents :
+
+1° pour les années académiques 2023-2024 à 2025-2026, pour les Hautes Ecoles qui organisent en codiplômation le premier cycle des sections 1 à 3 de la formation initiale des enseignants, le nombre d'étudiants inscrits dans le premier cycle des sections 1 à 3 du domaine 10bis et dans les cursus d'agrégé de l'enseignement secondaire inférieur ou en instituteur primaire ou préscolaire dans le domaine 10 est remplacé, pour chaque Haute Ecole concernée, par la moyenne du nombre d'étudiants inscrits en bachelier en agrégé de l'enseignement secondaire inférieur ou en instituteur primaire ou préscolaire dans le domaine 10 lors des années académiques 2020-2021 à 2022-2023. Les étudiants de premier cycle dans les sections 1 à 3 du domaine 10bis ne sont ainsi pris en compte qu'à partir des inscriptions lors de l'année académique 2026-2027, qui participent pour la première fois au calcul des unités de charges d'enseignement du budget 2028 ;
+
+2° le nombre d'étudiants en master de spécialisation en formation d'enseignants organisé en codiplômation n'est pris en compte qu'à partir des inscriptions de l'année académique 2024-2025, qui participent pour la première fois au calcul des unités de charge d'enseignement du budget 2026 ;
+
+3° le nombre d'étudiants dans le deuxième cycle des sections 1 à 3 n'est pris en compte qu'à partir des inscriptions de l'année académique 2027-2028 ;
+
+4° le nombre d'étudiants inscrits dans la formation menant au grade académique de master en enseignement section 5 n'est pris en compte qu'à partir de l'année académique 2026-2027 ;
+
+5° le nombre d'étudiants de master de spécialisation en enseignement sections 1 et 2 et le nombre d'étudiants de master de spécialisation en enseignement sections 3, 4 et 5 ne sont pris en compte qu'à partir des inscriptions de l'année académique 2033-2034, qui participent pour la première fois au calcul des unités de charge d'enseignement du budget 2035.
+
+Le calcul des moyennes triennales pour les étudiants visés à l'alinéa précédent, 2° à 5°, intègre, pour les deux années précédant la première année de leur prise en compte dans le calcul des unités de charges d'enseignement, le nombre d'étudiants inscrits lors de la première année d'organisation du cycle d'étude.]<sup>2</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 15, 054; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFR 2019-02-07/10, art. 66, 058; En vigueur : 14-09-2022&gt;
+
+(3)&lt;DCFR 2021-12-02/42, art. 11, 062; En vigueur : 14-09-2022&gt;
+
+##### Art. 18
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 16, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 19
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 17, 054; En vigueur : 01-01-2018&gt;
+
+#### Sous-section 5.
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 18, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 20
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 18, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 21
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 18, 054; En vigueur : 01-01-2018&gt;
+
+#### Sous-section 6. - (Administration financière et coordination administrative). &lt;Inséré par DCFR 2000-07-20/45, art. 13; En vigueur : 01-09-2000&gt;
+
+##### Art. 21bis
+
+&lt;Abrogé par DCFR 2018-11-29/06, art. 21, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 21ter
+
+(Abrogé) &lt;DCFR 2004-12-21/43, art. 7, 010; En vigueur : 01-01-2005&gt;
+
+### Section 5. - Allocation d'aide à la démocratisation de l'accès à l'enseignement supérieur. &lt;Insérée par DCFR 2005-07-20/60, art. 3; En vigueur : 01-01-2008&gt;
+
+##### Art. 21quater
+
+[<sup>1</sup> § 1er. Une allocation d'aide à la démocratisation de l'accès à l'enseignement supérieur est attribuée aux Hautes Ecoles. [<sup>3</sup> A partir de l'année budgétaire [<sup>5</sup> 2015]<sup>5</sup>, le montant global destiné à cet effet s'élève à [<sup>5</sup> 12.027.438 euros]<sup>5</sup>. A partir de l'année budgétaire [<sup>5</sup> 2017]<sup>5</sup>, ce montant est adapté annuellement au taux de fluctuation de l'indice des prix à la consommation de l'année budgétaire précédente.]<sup>3</sup>
+
+§ 2. Un coefficient réducteur est appliqué à ce montant, après indexation, de 0,6 en 2010 et de 0,8 en 2011. A partir de l'année budgétaire 2012 et pour les années suivantes, aucun coefficient réducteur ne peut être appliqué.
+
+§ 3. L'allocation est répartie de la manière suivante :
+
+a) chaque Haute Ecole reçoit le résultat de la multiplication du tiers de l'allocation par le rapport entre le nombre d'étudiants finançables inscrits dans cette Haute Ecole au cours de l'année académique précédente et le nombre d'étudiants finançables inscrits dans l'ensemble des Hautes Ecoles pour l'année académique précédente. [<sup>6</sup> Jusque et y compris lors de l'année budgétaire 2018, ce produit est un complément au montant des subsides sociaux visés à l'article 36 du décret. A partir de l'année budgétaire 2019, ce produit est intégré au montant des subsides sociaux et n'est plus accordé selon le mécanisme du présent article]<sup>6</sup>;
+
+b) les deux tiers restants sont répartis de la manière suivante :
+
+1° chaque Haute Ecole se voit attribuer respectivement 4, 2 et 1 points pour les étudiants boursiers, les étudiants de condition modeste ou les autres étudiants, inscrits dans la Haute Ecole au cours de l'année académique précédente;
+
+2° chaque Haute Ecole reçoit le résultat de la multiplication des deux tiers de l'allocation par le rapport entre le total des points reçus pour chaque étudiant de cette Haute Ecole et l'ensemble des points attribués aux Hautes Ecoles;
+
+3° ce produit est un complément de la recette constituée par les minervals perçus auprès des étudiants.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2010-07-19/11, art. 16, 038; En vigueur : 15-09-2010&gt;
+
+(2)&lt;DCFR 2012-07-12/27, art. 24, 044; En vigueur : 01-01-2012&gt;
+
+(3)&lt;DCFR 2013-07-17/33, art. 41, 045; En vigueur : 01-01-2013&gt;
+
+(4)&lt;DCFR 2013-12-18/18, art. 36, 046; En vigueur : 01-01-2013&gt;
+
+(5)&lt;DCFR 2014-12-18/21, art. 79, 050; En vigueur : 01-01-2015&gt;
+
+(6)&lt;DCFR 2019-02-21/06, art. 52, 055; En vigueur : 24-03-2019&gt;
+
+### Section 6. [<sup>1</sup> - Allocation pour la promotion de la réussite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par DCFR 2008-01-11/35, art. 44, 029; En vigueur : 01-01-2008&gt;
+
+##### Art. 21quinquies
+
+[<sup>2</sup> A partir de l'année budgétaire [<sup>4</sup> 2015]<sup>4</sup>, un montant de [<sup>4</sup> 527.000]<sup>4</sup>, réparti conformément à l'article 37bis du décret, est octroyé en faveur des Hautes Ecoles pour l'organisation d'initiatives menées en matière de promotion de la réussite.
+
+A partir de l'année budgétaire [<sup>4</sup> 2017]<sup>4</sup>, ce montant est adapté annuellement au taux de fluctuation de l'indice santé de l'année antérieure.
+
+Les moyens ainsi obtenus par les Hautes Ecoles sont exclusivement affectés aux frais de personnel.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2008-01-11/35, art. 44, 029; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DCFR 2013-07-17/33, art. 42, 045; En vigueur : 01-01-2013&gt;
+
+(3)&lt;DCFR 2013-12-18/18, art. 37, 046; En vigueur : 01-01-2013&gt;
+
+(4)&lt;DCFR 2014-12-18/21, art. 80, 050; En vigueur : 01-01-2015&gt;
+
+### Section 7. [<sup>1</sup> - Allocations complémentaires pour la promotion de l'accès aux Hautes Ecoles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 19, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 21sexies
+
+[<sup>1</sup> A partir de l'année académique 2010-2011, il est accordé annuellement à chaque Haute Ecole organisée ou subventionnée par la Communauté française une allocation complémentaire composée des quatre parties suivantes :
+
+1° le nombre d'étudiants réguliers finançables boursiers inscrits dans des études classées dans l'enseignement supérieur de type court multiplié par 76 EUR;
+
+2° le nombre d'étudiants réguliers finançables boursiers inscrits dans des études classées dans l'enseignement supérieur de type long multiplié par 85 EUR;
+
+3° le nombre d'étudiants réguliers finançables de condition modeste inscrits dans des études classées dans l'enseignement supérieur de type long multiplié par 55,5 EUR;
+
+4° la différence entre :
+
+\- d'une part, les nombres d'étudiants réguliers finançables ordinaires, de condition modeste et boursiers multipliés par les montants théoriques des plafonds totaux respectifs visés à l'article 12, § 2, alinéa 14, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, et multipliés par la formule d'indexation visée à l'article 12, § 2, alinéa 8, de la même loi;
+
+\- d'autre part, les nombres d'étudiants réguliers finançables ordinaires, de condition modeste et boursiers multipliés par les montants théoriques des plafonds totaux respectifs visés à l'article 12, § 2, alinéa 14, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, et multipliés par la formule d'indexation visée aux trois derniers alinéas de l'article 12, § 2, de la même loi.
+
+A titre provisionnel, un tiers de l'allocation complémentaire prévue à l'alinéa précédent est liquidée le 31 décembre au plus tard à chaque Haute Ecole, sur base des inscriptions des étudiants réguliers finançables arrêtées au 1er décembre. Le solde est liquidé le 1er juillet sur base des inscriptions des étudiants réguliers finançables définitivement contrôlées.
+
+[<sup>2</sup> A partir de l'année budgétaire 2023, un montant de 640.000 euros est alloué aux Hautes Ecoles qui organisent les sections " technique de l'image ", " communication appliquée " et " presse et information " et est réparti entre elles au prorata des montants de leurs frais appréciés aux coûts réels afférents aux biens et services fournis individuellement aux étudiants définis à l'article 12, § 2, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, exposés durant l'année académique 2021-2022.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>3</sup> A partir de l'année budgétaire 2025, un montant de 3.000.000 est déduit de la somme des allocations complémentaires visées à l'alinéa 1er. La déduction de ce montant est répartie entre les hautes écoles en fonction du rapport entre le nombre d'étudiants inscrits dans chaque institution lors des trois années académiques qui précèdent après paiement des droits d'inscription spécifiques et le nombre total d'étudiants inscrits lors de ces mêmes années académiques après paiement de ces droits dans l'ensemble des institutions concernées.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2010-07-19/11, art. 14, 038; En vigueur : 15-09-2010&gt;
+
+(2)&lt;DCFR 2022-12-14/15, art. 55, 064; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFR 2024-12-11/03, art. 45, 069; En vigueur : 01-01-2025&gt;
+
+### Section 8. [<sup>1</sup> - De la recherche en Hautes Ecoles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-11-29/06, art. 1, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 21septies
+
+&lt;Abrogé par DCFR 2024-04-04/40, art. 91,2°, 068; En vigueur : 01-01-2025&gt;
+
+## CHAPITRE III. - Gestion de la Haute Ecole.
+
+### Section 1. - Activités de la Haute Ecole.
+
+#### Sous-section 1. - [<sup>1</sup> Recettes résultant de l'enseignement dispensé par les Hautes Ecoles et du payement du droit d'inscription au jury de la Communauté française.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-19/61, art. 10, 036; En vigueur : 01-01-2010&gt;
+
+##### Art. 22
+
+Aux conditions à fixer par le Gouvernement, le pouvoir organisateur de la Haute Ecole peut aliéner ou donner en location des objets ou des services produits dans le cadre de l'enseignement dispensé.
+
+##### Art. 22bis
+
+[<sup>1</sup> Le produit des droits d'inscriptions au jury d'enseignement supérieur non universitaire de la Communauté française institué au siège de chaque Haute Ecole reste acquis à chacune d'elles et n'entre pas en ligne de compte pour le calcul de l'allocation globale visée au chapitre II du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-02-19/61, art. 11, 036; En vigueur : 01-01-2010&gt;
+
+#### Sous-section 2. - Concurrence et publicité déloyales.
+
+##### Art. 23
+
+&lt;Abrogé par DCFR 2019-05-03/44, art. 68, 056; En vigueur : 14-09-2019&gt;
+
+##### Art. 24
+
+&lt;Abrogé par DCFR 2019-05-03/44, art. 68, 056; En vigueur : 14-09-2019&gt;
+
+##### Art. 25
+
+&lt;Abrogé par DCFR 2019-05-03/44, art. 68, 056; En vigueur : 14-09-2019&gt;
+
+##### Art. 26
+
+&lt;Abrogé par DCFR 2019-05-03/44, art. 68, 056; En vigueur : 14-09-2019&gt;
+
+##### Art. 26bis
+
+&lt;Abrogé par DCFR 2019-05-03/44, art. 68, 056; En vigueur : 14-09-2019&gt;
+
+### Section 2. - Paiement de l'allocation annuelle globale.
+
+##### Art. 27
+
+Chaque année, avant le 1er septembre, le Gouvernement informe le pouvoir organisateur et les autorités de chaque Haute Ecole de l'allocation annuelle globale estimée pour l'année budgétaire suivante et du mode de calcul de l'allocation.
+
+##### Art. 28
+
+Dès que le budget général des Dépenses de la Communauté française est approuvé pour l'année budgétaire concernée, le Gouvernement fixe définitivement l'allocation annuelle globale et en communique son montant immédiatement au pouvoir organisateur et aux autorités de la Haute Ecole.
+
+En cas d'ajustement du budget de la Communauté française, le Gouvernement communique au pouvoir organisateur et aux autorités de la Haute Ecole le montant ajusté de l'allocation annuelle globale de la Haute Ecole.
+
+##### Art. 29
+
+La Communauté française met une partie de l'allocation annuelle globale à la disposition du pouvoir organisateur de la Haute Ecole pendant le premier mois des premier, deuxième, troisième et quatrième trimestres. Le montant est calculé comme suit :
+
+0,90 x 1/4 (AG - SHE).
+
+Dans cette formule :
+
+\- AG représente l'allocation annuelle globale de la Haute Ecole pour l'année budgétaire concernée;
+
+\- SHE représente, pour l'année budgétaire concernée, l'estimation des coûts salariaux annuels, calculés de manière forfaitaire conformément à l'alinéa 5, à payer par le département [<sup>2</sup> ...]<sup>2</sup>.
+
+Ce montant est estimé sur la base de l'effectif réel de l'année précédente ou, s'il échet, sur la base de cet effectif corrigé par les précisions relatives aux modifications du cadre transmises par le pouvoir organisateur de chaque Haute Ecole au moins deux mois avant la liquidation de la tranche concernée.
+
+A la fin de l'année budgétaire, le pouvoir organisateur de la Haute Ecole reçoit le solde de l'allocation annuelle globale.
+
+Chaque année, le Gouvernement calcule le coût moyen brut pondéré d'un membre du personnel d'une Haute Ecole pour les groupes de fonctions suivants :
+
+\- les maîtres-assistants, maîtres de formation pratique et maîtres principaux de formation pratique;
+
+\- les chargés de cours, professeurs, chefs de bureau d'études et chefs de travaux;
+
+\- les directeurs [<sup>3</sup> ...]<sup>3</sup> et directeurs-présidents;
+
+\- les membres du personnel auxiliaire placé dans un cadre d'extinction et les membres du personnel administratif.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> La liquidation de quinze pour-cent de la partie de l'allocation annuelle globale visée à l'alinéa premier du présent article est conditionnée à la transmission des informations visées à l'article 106 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2016-06-16/24, art. 21, 052; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFR 2018-11-29/06, art. 24, 054; En vigueur : 01-01-2018&gt;
+
+(3)&lt;DCFR 2019-02-21/06, art. 53, 055; En vigueur : 24-03-2019&gt;
+
+### Section 3. - Fixation du cadre du personnel.
+
+##### Art. 30
+
+Les professeurs invités et les autres membres du personnel contractuel ne figurent pas dans l'effectif du personnel pris en compte pour le calcul du SHE, visé à l'article 29, alinéa 2. Le pouvoir organisateur de la Haute Ecole les rémunère à charge de l'allocation annuelle globale ou d'autres recettes de la Haute Ecole.
+
+##### Art. 31
+
+§ 1. Lors de la fixation de son cadre du personnel, le pouvoir organisateur de la Haute Ecole tient compte des règles suivantes par rapport au personnel directeur et enseignant :
+
+\- le nombre d'emplois de maître principal de formation pratique ne peut excéder 20 p.c. du nombre total de maîtres de formation pratique et de maîtres principaux de formation pratique;
+
+\- le nombre d'emplois de maître-assistant est au moins égal à 30 p.c. du nombre total de maîtres-assistants, de chefs de travaux, de chefs de bureaux d'études, de chargés de cours et de professeurs;
+
+\- le nombre d'emplois de professeur ne peut excéder 25 p.c. du nombre total de maîtres-assistants, de chefs de travaux, de chefs de bureaux d'études, de chargés de cours et de professeurs;
+
+\- le nombre des membres du personnel enseignant nommés ou engagés à titre définitif ne peut excéder 70 p.c. du nombre des membres du personnel enseignant.
+
+(NOTE : Au § 1er, alinéa 1er, 4ème tiret, le chiffre " 70 " est remplacé par le chiffre " 75 " et les mots " ni être inférieur à 65 p.c. " sont insérés entre les mots " p.c. " et " du nombre " par &lt;DCFR 2006-06-30/38, art. 86, a, 023; En vigueur : 01-01-2009&gt;)
+
+Une nomination ou un engagement à titre définitif dans une fonction de personnel enseignant, une désignation ou un engagement à titre temporaire dans une fonction du personnel directeur et enseignant n'est possible qu'en tenant compte des nombres précités.
+
+Toutefois, une nomination ou un engagement à titre définitif dans une fonction de personnel ou enseignant reste possible dans la mesure où il n'est procédé annuellement à pareille nomination ou engagement qu'à raison d'un pourcent du nombre des membres du personnel enseignant.
+
+[La rémunération totale des professeurs invités ne peut excéder 10 % du montant des rémunérations des membres du personnel organique calculé au coût moyen brut pondéré.] &lt;DCFR 2006-06-30/38, art. 86, b, 023; En vigueur : 01-01-2007&gt;
+
+§ 2. [...] &lt;DCFR 2006-06-30/38, art. 86, c, 023; En vigueur : 01-01-2007&gt;
+
+§ 3. [Les coûts salariaux du cadre du personnel, y compris contractuel et professeurs invités, et des remplaçants calculés conformément à l'article 29, alinéa 5, ne peuvent être inférieurs à 85 p.c. de l'allocation annuelle globale.] &lt;DCFR 2006-06-30/38, art. 86, d, 023; En vigueur : 01-01-2007&gt;
+
+[<sup>1</sup> § 4 Les coûts salariaux des membres du personnel administratif désignés ou engagés à titre temporaire, engagés ou nommés à titre définitif [<sup>2</sup> conformément au décret du 20 juin 2008 relatif aux membres du personnel administratif des Hautes Ecoles, des Ecoles supérieures des Arts et des Instituts supérieurs d'Architecture organisés ou subventionnés par la Communauté française]<sup>2</sup> ne peuvent être inférieurs à 5 % de l'allocation annuelle globale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2008-06-20/52, art. 159, 033; En vigueur : 14-09-2008&gt;
+
+(2)&lt;DCFR 2009-02-19/51, art. 19, 035; En vigueur : 15-09-2009&gt;
+
+### Section 4. - Autres dispositions relatives à la gestion de la Haute Ecole.
+
+##### Art. 31bis
+
+[<sup>1</sup> Les Hautes Ecoles transmettent leurs budgets et leurs comptes selon la forme et les modalités arrêtées par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-11-29/06, art. 25, 054; En vigueur : 01-01-2018&gt;
+
+##### Art. 32
+
+Le pouvoir organisateur de la Haute Ecole reporte le solde non consommé de l'allocation annuelle globale de la Haute Ecole à l'année budgétaire suivante, pour autant qu'il garde l'affectation visée à l'article 3.
+
+##### Art. 33
+
+Si le pouvoir organisateur de la Haute Ecole a fait des dépenses qui vont à l'encontre de ce qui est stipulé par la loi ou le décret ou en vertu de ceux-ci, le Gouvernement peut déduire les montants en question d'une allocation annuelle globale ultérieure et en avertit le pouvoir organisateur et la direction de la Haute Ecole, dans les trois ans qui suivent l'année en cours de laquelle les dépenses ont été effectuées.
+
+##### Art. 34
+
+&lt;DCFR 2006-06-30/38, art. 87, 023; En vigueur : 01-01-2007&gt; Si un étudiant a été indûment admis ou refusé au financement ou si une pondération inexacte lui a été attribuée, le Gouvernement modifie proportionnellement le nombre d'unités de charge d'enseignement. Il déduit ou augmente les montants y afférents de l'allocation annuelle globale suivante. Cette rectification ne peut avoir lieu qu'au cours de l'année budgétaire suivant celle où l'erreur a été commise.
+
+### Section V- Patrimoine des Hautes Ecoles organisées par la Communauté française &lt;Insérée par DCFR 2006-06-30/38, art. 88; En vigueur : 01-01-2007&gt;
+
+##### Art. 34bis
+
+&lt;Inséré par DCFR 2006-06-30/38, art. 88; En vigueur : 01-01-2007&gt; Chaque Haute Ecole organisée par la Communauté française est constituée en [<sup>2</sup> service administratif à comptabilité autonome]<sup>2</sup>.
+
+Elle dispose de la personnalité juridique pour la gestion de son patrimoine propre. L'organe de cette personnalité juridique est le conseil d'administration.
+
+[<sup>1</sup> Le Conseil d'administration peut déléguer la gestion du patrimoine à une Commission du patrimoine, qui est composée comme suit :
+
+a) Le directeur-président;
+
+b) Un directeur [<sup>3</sup> ...]<sup>3</sup> et un membre du personnel enseignant ou administratif de la Haute Ecole, proposés par le Collège de direction;
+
+c) Trois représentants du personnel de la Haute Ecole nommés à titre définitif, membres du Conseil d'Administration, dont, au moins, un membre du personnel administratif, de maîtrise, gens de métier et de service, proposés par le Conseil d'administration;
+
+d) Deux étudiants membres du Conseil des étudiants et désignés par celui-ci;
+
+e) Deux personnes choisies par le Gouvernement, eu égard à leurs compétences particulières.
+
+Les membres visés aux points b, c et e de l'alinéa précédent sont désignés par le Gouvernement.
+
+Le Gouvernement fixe les missions de la Commission du patrimoine, ainsi que ses modalités d'organisation, de fonctionnement et de délibération.
+
+Le Gouvernement fixe la destination et la composition du patrimoine de la Haute Ecole, les modalités de gestion du patrimoine, les conditions de transferts financiers entre le patrimoine de la Haute Ecole et le [<sup>2</sup> service administratif à comptabilité autonome]<sup>2</sup>.
+
+Le Gouvernement fixe les modalités de communication de la comptabilité du patrimoine propre et de la reddition des comptes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2008-05-09/75, art. 49, 031; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DCFR 2018-11-29/06, art. 26, 054; En vigueur : 01-01-2018&gt;
+
+(3)&lt;DCFR 2019-02-21/06, art. 53, 055; En vigueur : 24-03-2019&gt;
+
+## CHAPITRE IV. - Contrôle des Hautes Ecoles.
+
+### Section 1re. - Des commissaires. &lt;Insérée par DCFR 2003-07-17/36, art. 1, 017; En vigueur : 15-09-2003&gt;
+
+##### Art. 35
+
+[<sup>1</sup> Le Gouvernement nomme cinq commissaires aux Hautes Ecoles après appel public aux candidatures.
+
+Le Gouvernement lance l'appel aux candidatures par la voie d'une publication dans deux quotidiens francophones.
+
+Cet appel aux candidatures indique, notamment :
+
+1° le mode et la date ultime d'introduction des candidatures;
+
+2° les documents que doit contenir, à peine de nullité, l'acte de candidature;
+
+3° la description de fonction et le profil de compétence de la fonction à pourvoir.
+
+Les candidatures doivent être introduites par lettre recommandée et comprennent :
+
+1° un curriculum vitae comprenant un exposé des titres et mérites;
+
+2° un projet écrit, sur base de la description de fonction.
+
+Un Collège d'experts, désignés par le Gouvernement, examine les dossiers déposés par les candidats. Les candidats présentent leur projet au cours d'une audition, destinée à évaluer l'ensemble de leurs compétences
+
+Dans le mois de l'audition, le Collège d'experts propose au Gouvernement une liste qui peut comprendre au maximum deux personnes disposant des qualités pour remplir la fonction de manière également satisfaisante sans qu'un classement ne soit établi entre ces personnes. Le Collège d'experts mentionne la motivation qui l'a conduit à sélectionner cette ou ces personne(s) et peut, le cas échéant, établir une recommandation.
+
+Au plus tard dans le mois de la réception de l'avis du Collège d'experts, le Gouvernement nomme, dans la liste transmise par le Collège d'experts, la personne qu'il juge la plus apte à occuper la fonction. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-04-11/33, art. 17, 049; En vigueur : 21-08-2014&gt;
+
+##### Art. 35bis
+
+[<sup>1</sup> Pour être nommé commissaire auprès des Hautes Ecoles, les conditions suivantes sont réunies :
+
+1° être belge;
+
+2° jouir des droits civils et politiques;
+
+3° être porteur d'un diplôme donnant accès aux emplois de niveau 1 des agents de l'Etat ou posséder une expérience professionnelle de cinq ans dans des fonctions en rapport avec les matières traitées par les commissaires dans leur fonction;
+
+4° satisfaire aux lois sur la milice et aux lois portant le statut des objecteurs de conscience;
+
+5° être de conduite irréprochable;
+
+6° être âgé de 30 ans au moins.
+
+Les commissaires sont nommés à titre définitif et affectés auprès de Hautes Ecoles fixées par le Gouvernement pour une période de cinq ans. Les personnes qui, le cas échéant, sont appelées à remplacer le titulaire de la fonction poursuivent cette affectation jusqu'au retour du titulaire.
+
+Le commissaire, ou s'il échet, son remplaçant est réputé titulaire du grade de directeur général adjoint du ministère de la Communauté française ou d'un grade équivalent de rang 15.
+
+Un commissaire auprès des Hautes Ecoles peut se voir confier par le Gouvernement des tâches de contrôle dans d'autres secteurs de l'enseignement supérieur hors université. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2014-04-11/33, art. 18, 049; En vigueur : 21-08-2014&gt;
+
+##### Art. 36
+
+&lt;DCFR 2003-07-17/36, art. 3, 017; En vigueur : 15-09-2003&gt; Chaque commissaire est affecté auprès de plusieurs Hautes Ecoles.
+
+Les Hautes Ecoles visées par chaque affectation relèvent au moins de deux réseaux d'enseignement et de deux caractères différents.
+
+(Aucune Haute Ecole ne peut être contrôlée plus de cinq années consécutives par un même commissaire du Gouvernement.) &lt;DCFR 2006-06-30/38, art. 90, 023; En vigueur : 01-01-2007&gt;
+
+Outre la liste des Hautes Ecoles qui y est expressément mentionnée, l'affectation peut intégrer tout développement utile à la mission de contrôle qu'elle confère.
+
+##### Art. 37
+
+La fonction de commissaire est incompatible avec toute fonction ou tout mandat susceptible de placer son titulaire en conflit fonctionnel permanent avec la fonction de commissaire auprès des Hautes Ecoles.
+
+##### Art. 38
+
+(Abrogé) &lt;DCFR 1997-03-17/43, art. 34, 004; En vigueur : 23-05-1997&gt;
+
+##### Art. 39
+
+&lt;DCFR 2003-07-17/36, art. 4, 017; En vigueur : 01-09-1996&gt; Les commissaires du Gouvernement auprès des Hautes Ecoles jouissent du statut pécuniaire du directeur de l'enseignement supérieur de type long en fonction avant le 1er septembre 1996.
+
+##### Art. 40
+
+Les commissaires auprès des Hautes Ecoles veillent à ce que le pouvoir organisateur ou les autorités de la Haute Ecole agissant par délégation prennent des décisions conformes aux lois, décrets, arrêtés et règlements pris en vertu de ces lois ou décrets.
+
+[<sup>1</sup> Les commissaires veillent également à ce que ces instances ne prennent aucune décision qui puisse compromettre les finances de la Haute Ecole ou nuire à sa soutenabilité financière.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2018-11-29/06, art. 27, 054; En vigueur : 14-09-2018&gt;
+
+##### Art. 41
+
+Le Gouvernement fixe la liste des tâches de contrôle des commissaires auprès des Hautes Ecoles.
+
+La liste de ces tâches comprend notamment le contrôle du nombre d'étudiants régulièrement inscrits de chaque Haute Ecole, qui sont pris en compte pour le financement, le contrôle du respect de la législation sur les marchés publics et le respect des conventions visées à l'article 52, 12° et 15°, du décret.
+
+Afin d'accomplir leurs missions, les commissaires auprès des Hautes Ecoles reçoivent copie, dans le délai de (dix) jours ouvrables, de toutes les décisions prises par le pouvoir organisateur ou les autorités de la Haute Ecole agissant par délégation sur les questions qui concernent leur compétence. [<sup>3</sup> Les commissaires obtiennent toutes les informations nécessaires à l'accomplissement de leurs missions de la part des entités dotées ou non de la personnalité juridique, distinctes des Hautes Ecoles et dont les moyens dépendent majoritairement de transferts financiers avec une ou plusieurs Hautes Ecoles et/ou dont le contrôle est assuré par des personnes physiques en leur qualité de membre d'une ou plusieurs Haute Ecoles.]<sup>3</sup> &lt;DCFR 2006-06-30/38, art. 91, 023; En vigueur : 01-01-2007&gt;
+
+(A leur demande, les commissaires peuvent en outre assister aux réunions du Conseil d'administration de la Haute Ecole, des organes de gestion [<sup>1</sup> , du Conseil social et, dans les Hautes Ecoles organisées par la Communauté française, de la Commission du patrimoine]<sup>1</sup>. Ils y ont voix consultative.) &lt;DCFR 2003-07-17/36, art. 5, 017; En vigueur : 15-09-2003&gt;
+
+Les commissaires auprès des Hautes Ecoles font au pouvoir organisateur ou aux autorités de la Haute Ecole agissant par délégation toutes observations qu'ils jugent nécessaires dans le cadre de leur mission.
+
+[<sup>2</sup> Dans les Hautes Ecoles organisées par la Communauté française, l'administrateur provisoire désigné en application de l'article 68 ter du décret du 5 août 1995 fixant l'organisation générale de l'enseignement supérieur en Hautes Ecoles consulte les commissaires préalablement à toute décision relevant des organes de gestion de la Haute Ecole, du Directeur-Président ou des Directeurs [<sup>4</sup> ...]<sup>4</sup>.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2008-05-09/75, art. 50, 031; En vigueur : 03-07-2008&gt;
+
+(2)&lt;DCFR 2014-04-11/33, art. 19, 049; En vigueur : 21-08-2014&gt;
+
+(3)&lt;DCFR 2018-11-29/06, art. 28, 054; En vigueur : 14-09-2018&gt;
+
+(4)&lt;DCFR 2019-02-21/06, art. 53, 055; En vigueur : 24-03-2019&gt;
+
+##### Art. 42
+
+§ 1. Les commissaires exercent un recours motivé auprès du Gouvernement contre toute décision du pouvoir organisateur ou des autorités de la Haute Ecole agissant par délégation, qu'ils estiment contraire aux lois, décrets, arrêtés et règlements pris en vertu de ces lois ou décrets, dans les (quinze) jours ouvrables qui suivent la réception de la copie de la décision. &lt;DCFR 2006-06-30/38, art. 92, 023; En vigueur : 01-01-2007&gt;
+
+Ce recours est notifié dans le même délai au pouvoir organisateur qui a pris la décision querellée ou aux pouvoirs organisateurs et aux autorités de la Haute Ecole agissant par délégation qui ont pris la décision querellée.
+
+L'exécution de la décision est suspendue par le recours.
+
+§ 2. La décision produit ses effets si, dans les trente jours du recours, le Gouvernement n'a pas fait usage des prérogatives définies (aux §§ 3 et 5). &lt;DCFR 2003-07-17/36, art. 6, 017; En vigueur : 15-09-2003&gt;
+
+§ 3. Dans les trente jours du recours, le Gouvernement notifie, s'il y a lieu, au pouvoir organisateur ou au pouvoir organisateur et aux autorités de la Haute Ecole agissant par délégation que la décision est contraire aux lois, décrets, arrêtés et règlements pris en vertu de ces lois ou décrets. Cette notification est motivée. Le Gouvernement invite dans le même acte le pouvoir organisateur ou les autorités de la Haute Ecole agissant par délégation à prendre dans les trente jours une nouvelle décision non entachée d'illégalité ou d'irrégularité, ou bien à retirer sa décision.
+
+§ 4. Si, à l'expiration de ce délai, aucune décision nouvelle n'a été prise, ou si le pouvoir organisateur n'a pas ou les autorités de la Haute Ecole agissant par délégation n'ont pas retiré la décision, le Gouvernement prononce dans les vingt jours l'annulation de la décision, si celle-ci a été prise par les autorités d'une Haute Ecole de la Communauté française. S'il s'agit d'une Haute Ecole subventionnée, le Gouvernement suspend, dans les vingt jours, l'octroi des allocations annuelles globales au pouvoir organisateur de la Haute Ecole en question.
+
+La mesure prise par le Gouvernement est motivée et notifiée dans un délai de sept jours ouvrables au pouvoir organisateur ou au pouvoir organisateur et aux autorités de la Haute Ecole agissant par délégation.
+
+(§ 5. Par dérogation aux paragraphes 3 et 4, alinéa 1er, le Gouvernement se prononce directement sur le recours d'un commissaire relatif à la régularité de l'inscription ou de l'admissibilité au financement d'un étudiant.) &lt;DCFR 2003-07-17/36, art. 6, 017; En vigueur : 15-09-2003&gt;
+
+##### Art. 42bis
+
+[<sup>1</sup> Dans le cadre strict des missions qui leur sont confiées en vertu du présent décret, les commissaires du Gouvernement auprès des Hautes Ecoles sont autorisés à utiliser le numéro de Registre national visé par l'article 2, § 3, de la loi du 8 août 1983 organisant un Registre national des personnes physiques ou, à défaut, le numéro d'identification de la Banque Carrefour de la Sécurité Sociale, tel que visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, des étudiants inscrits ou ayant introduit une demande d'admission ou d'inscription dans un établissement d'enseignement supérieur de plein exercice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-11-17/07, art. 2, 063; En vigueur : 30-01-2023&gt;
+
+##### Art. 43
+
+Chaque année, les commissaires auprès des Hautes Ecoles font rapport au Gouvernement, chacun pour ce, qui les concerne, sur le fonctionnement de chaque Haute Ecole.
+
+##### Art. 44
+
+Les articles 40, 41, 42 et 43 sont applicables aux décisions adoptées par le Conseil social en vertu des articles 89, 90 et 91 du décret.
+
+### Section 2. - Du Collège des commissaires. &lt;Inséré par DCFR 2003-07-17/36, art. 7; En vigueur : 15-09-2003&gt;
+
+##### Art. 44bis
+
+&lt;Inséré par DCFR 2003-07-17/36, art. 7; En vigueur : 15-09-2003&gt; § 1er. Il est institué un Collège des commissaires du Gouvernement auprès des Hautes Ecoles composé comme suit :
+
+1° des cinq commissaires auprès des Hautes Ecoles;
+
+2° de l'administrateur général dirigeant l'administration générale de l'Enseignement et de la Recherche scientifique du ministère de la Communauté française ou de son délégué.
+
+L'administrateur général dirigeant l'administration générale de l'Enseignement et de la Recherche scientifique du ministère de la Communauté française ou son délégué participe aux réunions du Collège avec voix consultative.
+
+Le Collège des commissaires peut inviter un délégué du Gouvernement à participer à ses réunions avec voix consultative.
+
+§ 2. Le Collège des commissaires décide, par consensus, de toutes les mesures utiles en vue :
+
+1° de la mise en oeuvre cohérente et de la coordination du contrôle des Hautes Ecoles;
+
+2° du bon fonctionnement général de ce contrôle notamment par l'affectation des moyens tant matériels qu'humains mis à disposition commune des commissaires;
+
+3° du règlement des questions ponctuelles qui lui sont soumises à cette fin par le Gouvernement.
+
+Si aucun consensus ne peut être dégagé au sein du Collège et si cette absence de consensus est de nature à être préjudiciable à la cohérence ou au bon fonctionnement du contrôle des Hautes Ecoles, le Gouvernement prend les décisions nécessaires pour y remédier.
+
+§ 3. Le Collège des commissaires est en outre chargé d'informer le Gouvernement et de lui donner avis, d'initiative ou à sa demande, sur toute question en rapport avec le contrôle des Hautes Ecoles.
+
+A défaut de consensus, les avis expriment les différentes opinions exposées au sein du Collège.
+
+§ 4. Le Collège des commissaires se réunit d'initiative au moins une fois par trimestre. Il se réunit en outre à tout moment à la demande du Gouvernement.
+
+§ 5. Pendant la durée de chaque affectation, le Collège des commissaires est présidé successivement, [<sup>1</sup> par période de deux ans]<sup>1</sup>, par chacun des commissaires, du plus ancien en fonction au plus jeune ou, à défaut d'applicabilité de ce critère, de la manière établie par le Collège lui-même.
+
+Le Collège des commissaires fixe les modalités d'organisation de son secrétariat compte tenu des moyens tant matériels qu'humains mis à disposition des commissaires et établit son règlement d'ordre intérieur.
+
+1,Ce règlement doit en tout cas compléter les modalités de présidence du Collège, organiser les procédures de fonctionnement par consensus et déterminer la forme que doivent revêtir les décisions prises par le Collège ainsi que la publicité qui doit leur être donnée.
+
+Ce règlement est soumis au Gouvernement pour approbation.
+
+§ 6. Le Collège des commissaires fait annuellement rapport au Gouvernement.
+
+Ce rapport contient la description de ses activités, son évaluation des procédures de contrôle pour l'année écoulée et ses suggestions pour l'année à venir.
+
+§ 7. Le Gouvernement peut fixer les modalités de coordination des travaux du Collège des commissaires avec ceux d'autres instances exerçant dans le secteur de l'enseignement des compétences analogues ou parallèles et créer les structures nécessaires à cette fin.
+
+----------
+
+(1)&lt;DCFR 2008-07-18/84, art. 9, 034; En vigueur : 15-09-2008&gt;
+
+##### Art. 44ter
+
+[<sup>1</sup> Le Gouvernement arrête le cadre, les statuts, les rémunérations et les indemnités du personnel mis à la disposition du collège des commissaires du Gouvernement. Ce personnel est également mis à la disposition du collège des délégués du Gouvernement auprès des Ecoles supérieures de Arts, visé à l'article 34undecies du décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants).
+
+Pour la gestion administrative et l'organisation des moyens matériels et humains mis à sa disposition, le collège des commissaires forme un collège commun avec le collège des délégués auprès des Ecoles Supérieures des Arts. Cette gestion s'opère sous la responsabilité du président du collège commun, choisi selon les modalités établies par les commissaires et délégués, et sous le contrôle du collège commun.
+
+Le personnel est recruté, nommé, promu ou désigné conformément aux dispositions arrêtées par le Gouvernement; il est placé sous l'autorité du Président du Collège commun.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-11-29/06, art. 29, 054; En vigueur : 14-09-2018&gt;
+
+### Section 3 - Du Collège réuni [<sup>1</sup> - Du collège réuni]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-10-24/09, art. 4, 066; En vigueur : 01-05-2024&gt;
+
+##### Art. 44quater
+
+[<sup>1</sup> En application et selon les règles prévues à l'article 6quater du décret du 12 juillet 1990 sur le contrôle des institutions universitaires, le Collège visé à l'article 6ter du même décret forme avec le Collège des commissaires du Gouvernement auprès des hautes écoles visé à l'article 44bis et le Collège des délégués auprès des écoles supérieures des arts visé par l'article 34undecies du décret du 20 décembre 2001 fixant les règles spécifiques à l'enseignement supérieur artistique organisé en Ecole supérieures des Arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants), le Collège réuni des commissaires et délégués du Gouvernement auprès des établissements d'enseignement supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2024-10-24/09, art. 5, 066; En vigueur : 01-05-2024&gt;
+
+## CHAPITRE V. - Dispositions transitoires, modificatives, abrogatoires et finales.
+
+### Section 1. - Dispositions transitoires.
+
+##### Art. 45
+
+Pour les mois de septembre 1996, octobre 1996, novembre 1996 et décembre 1996, le Gouvernement fixe par arrêté les moyens qui seront répartis entre les Hautes Ecoles selon les principes suivants :
+
+1° il calcule le montant budgétaire relatif à l'année civile 1996 pour les établissements d'enseignement supérieur qui se regroupent en Hautes Ecoles, disponible au 31 août 1996;
+
+2° il établit le montant total pour les huit premiers mois de l'année budgétaire 1996 des coûts salariaux et des dépenses de fonctionnement imputables en engagement à charge du budget 1996 pour les établissements d'enseignement supérieur qui se regroupent en Haute Ecole;
+
+3° il fixe avec quatre décimales le pourcentage des coûts salariaux et des dépenses de fonctionnement de chaque Haute Ecole dans le montant visé au 2°;
+
+4° il répartit le montant visé au 1° après déduction des coûts visés à l'article 11, 1° à 3°, en attribuant à chaque Haute Ecole le montant obtenu par la multiplication du montant visé au 1° après déduction des coûts visés à l'article 11, 1° à 3°, par la part relative de cette Haute Ecole telle que calculée au 3°.
+
+##### Art. 45bis
+
+&lt;Inséré par DCFR 2003-07-17/36, art. 8; En vigueur : 01-09-1996&gt; Jusqu'au 14 septembre 2003, par dérogation à l'article 39 du présent décret, le statut pécuniaire du directeur de l'enseignement supérieur de type court en fonction avant le 1er septembre 1996 est appliqué aux commissaires du Gouvernement auprès des Hautes Ecoles pendant les 6 premières années suivant leur désignation.
+
+### Section 2. - Dispositions modificatives.
+
+##### Art. 46
+
+Dans l'article 10, § 1er, du décret du 5 août 1995 fixant l'organisation générale de l'enseignement supérieur en Hautes Ecoles, les mots "il introduit" sont remplacés par les mots "elle introduit".
+
+##### Art. 47
+
+L'article 18, § 3, du même décret est remplacé par la disposition suivante :
+
+"§ 3. Les études relatives à la formation pédagogique des futurs enseignants telles qu'elles sont organisées actuellement par les établissements d'enseignement supérieur économique de type long sont sanctionnées par le grade d'agrégé de l'enseignement secondaire supérieur.".
+
+##### Art. 48
+
+L'alinéa 2 du § 1er de l'article 21 du même décret en devient l'article 21bis.
+
+##### Art. 49
+
+Dans l'article 43 du même décret, les mots "15 et 18" sont remplaces par les mots "15, 16, 18 et 19".
+
+##### Art. 50
+
+L'article 44 du même décret est remplacé par la disposition suivante :
+
+"Art. 44. Les grades visés aux articles 15, 16, 18 et 19 et les diplômes ou certificats qui les attestent sont délivrés soit par les jurys des Hautes Ecoles, soit par les jurys d'enseignement supérieur de la Communauté française.".
+
+##### Art. 51
+
+L'article 45 du même décret est complété par l'alinéa suivant :
+
+"A l'occasion du contreseing visé aux alinéas 1er et 2, un droit dont le montant est fixé par le Gouvernement, peut être perçu.".
+
+##### Art. 52
+
+L'article 49, § 3, du même décret est remplacé par la disposition suivante :
+
+"§ 3. Par dérogation au § 1er, alinéa 1er, les pouvoirs organisateurs des établissements d'enseignement supérieur existant au 1er janvier 1995 peuvent constituer, par zone, par réseau et par caractère, une Haute Ecole organisant uniquement des études supérieures de type court ou de type long lorsque le regroupement d'établissements d'enseignement supérieur organisant à la fois des études supérieures de type court et de type long, est, dans le même réseau de même caractère, impossible à réaliser dans la zone :
+
+a) compte tenu de l'absence de l'un des types d'enseignement;
+
+b) compte tenu de la présence d'un nombre insuffisant d'établissements disponibles d'enseignement supérieur de type court ou de type long qui se regroupent dans une autre Haute Ecole.".
+
+##### Art. 53
+
+Dans l'article 60 du décret du 5 août 1995 fixant l'organisation générale de l'enseignement supérieur en Hautes Ecoles, les mots "aux articles 58 et 59" sont remplacés par les mots "à l'article 59".
+
+##### Art. 54
+
+Dans l'article 66 du même décret, l'alinéa suivant est inséré entre l'alinéa 2 et l'alinéa 3 :
+
+"Le membre visé au 4° est élu pour une durée de cinq ans.".
+
+##### Art. 55
+
+L'article 75, alinéa 3, du même décret est remplacé par la disposition suivante :
+
+"La part de subsides sociaux qui couvrent les besoins sociaux en moyens financiers du Conseil des étudiants est fixée à 10 p.c.".
+
+##### Art. 56
+
+Dans l'article 89 du même décret, les §§ 1er et 3 sont remplacés respectivement par les dispositions suivantes et il est inséré un § 4, rédigé comme suit :
+
+"§ 1. La Communauté française intervient au moyen d'allocations annuelles dénommées subsides sociaux dans le financement des besoins sociaux des étudiants.".
+
+"§ 3. Les subsides sociaux visés au § 1er sont calculés sur la base du nombre d'étudiants subsidiables au 1er février de l'année précédant l'année budgétaire. Un montant de 2 000 francs est attribué par étudiant subsidiable pour le financement. Ce montant est adapté annuellement au taux de fluctuation de l'indice santé des prix à la consommation visé à l'article 9, alinéa 1er, du décret du 9 septembre 1996 relatif au financement des Hautes Ecoles organisées ou subventionnées par la Communauté française.".
+
+"§ 4. Les subsides sociaux font l'objet de liquidations trimestrielles.".
+
+##### Art. 57
+
+Dans l'article 101, alinéa 1er, du même décret, les mots "66, 4° et 5°", sont remplacés par les mots "66, 5° et 6°".
+
+##### Art. 58
+
+Dans l'article 12, § 2, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, telle que modifiée par la loi du 5 août 1978, l'arrêté royal n° 462 du 17 septembre 1986 et le décret du 12 juillet 1990, l'alinéa 3 est complété comme suit :
+
+"Pour les étudiants visés dans le présent alinéa, il ne peut être prélevé de droits complémentaires en plus du minerval qui leur est appliqué.".
+
+### Section 3. - Dispositions abrogatoires.
+
+##### Art. 59
+
+N'est pas applicable aux Hautes Ecoles l'arrêté royal du 12 janvier 1966 fixant les conditions requises pour la détermination du nombre d'emplois dans les établissements d'enseignement technique de l'Etat, tel que modifié par les arrêtés royaux des 5 juillet 1967, 19 août 1969, 2 décembre 1969, 15 avril 1977, l'arrêté royal n° 62 du 20 juillet 1982, l'arrêté royal n° 151 du 30 décembre 1982, l'arrêté royal n° 449 du 20 août 1986 et le décret du 16 avril 1991.
+
+##### Art. 60
+
+N'est pas applicable aux Hautes Ecoles l'arrêté royal du 15 décembre 1973 déterminant les normes de dédoublement et de regroupement d'années d'études dans l'enseignement technique secondaire, dans les enseignements supérieurs technique, économique, agricole, paramédical, social, pédagogique et artistique de type court, dans les enseignements supérieurs technique et agricole du deuxième degré, tel que modifié par les arrêtés royaux des 10 mars 1977 et 24 décembre 1980, l'arrêté royal n° 79 du 21 juillet 1982 et l'arrêté royal n° 80 du 21 juillet 1982, l'arrêté royal n° 268 du 31 décembre 1983, l'arrêté royal n° 298 du 31 mars 1984, la loi du 31 juillet 1989 et les décrets des 12 mars 1990, 16 avril 1991 et 29 juillet 1992.
+
+##### Art. 61
+
+N'est pas applicable aux Hautes Ecoles dans la loi du 18 février 1977 concernant l'organisation de l'enseignement supérieur et notamment des enseignements supérieur technique et supérieur agricole de type long, l'article 14, tel que modifié par l'arrêté royal n° 77 du 20 juillet 1982.
+
+Est abrogé dans cette même loi, l'article 17, tel que modifié par l'arrêté royal n° 77 du 20 juillet 1982, l'arrêté royal n° 460 du 17 septembre 1986 et le décret du 12 mars 1990.
+
+##### Art. 62
+
+Sont abrogés dans l'arrêté royal du 23 février 1977 portant exécution de l'article 4, § 4, de la loi du 18 février 1977 concernant l'organisation de l'enseignement supérieur et notamment des enseignements supérieurs technique et supérieur agricole de type long, les articles 1er à 7.
+
+##### Art. 63
+
+Ne sont pas applicables aux Hautes Ecoles dans l'arrêté royal du 14 décembre 1978 fixant les conditions pour la détermination du nombre d'emplois dans les fonctions du personnel administratif des établissements d'enseignement supérieur de type long :
+
+1° l'article 2, tel que modifié par l'arrêté royal n° 77 du 20 juillet 1982;
+
+2° l'article 3, tel que modifié par l'arrêté royal n° 77 du 20 juillet 1982;
+
+3° les articles 4 et 5.
+
+##### Art. 64
+
+Ne sont pas applicables aux Hautes Ecoles dans l'arrêté royal n° 78 du 21 juillet 1982 fixant les règles et les conditions de calcul du nombre d'emplois dans certaines fonctions du personnel auxiliaire d'éducation et du personnel administratif, notamment dans l'enseignement supérieur de type court :
+
+1° l'article 1er;
+
+2° l'article 2, tel que modifié par le décret du 29 juillet 1992;
+
+3° les articles 3, 4, 5 et 7, § 1er.
+
+##### Art. 65
+
+Ne sont pas applicables aux Hautes Ecoles dans l'arrêté royal n° 79 du 21 juillet 1982 fixant le nombre global de périodes admissibles dans l'enseignement supérieur de type court et de plein exercice, organisé ou subventionné par l'Etat :
+
+1° l'article 2bis, tel qu'inséré par l'arrêté royal n° 298 du 31 mars 1984;
+
+2° l'article 3, tel que remplacé par l'arrêté royal n° 298 du 31 mars 1984;
+
+3° l'article 4;
+
+4° l'article 5, tel que remplacé par l'arrêté royal n° 298 du 31 mars 1984 et modifié par la loi du 31 juillet 1984 et le décret du 29 juillet 1992.
+
+##### Art. 66
+
+Est abrogé l'arrêté royal n° 80 du 21 juillet 1982 fixant le nombre total de périodes supplémentaires admissibles dans l'enseignement supérieur pédagogique de type court et de plein exercice, organisé ou subventionné par l'Etat, tel que modifié par l'arrêté royal n° 268 du 31 décembre 1983.
+
+##### Art. 67
+
+N'est pas applicable aux Hautes Ecoles l'arrêté royal du 27 juillet 1982 fixant le coefficient qui détermine le nombre maximum d'unités d'encadrement pour l'enseignement supérieur de type long.
+
+##### Art. 68
+
+Ne sont pas applicables aux Hautes Ecoles dans l'arrêté royal n° 301 du 31 mars 1984 portant fixation de la population scolaire minimale des sections de l'enseignement supérieur de type court et de plein exercice, tel que modifié par l'arrêté royal n° 460 du 17 septembre 1986, le décret du 18 mai 1992 et le décret du 27 décembre 1993, les articles 1er à 6bis.
+
+##### Art. 69
+
+Ne sont pas applicables aux Hautes Ecoles dans l'arrêté royal n° 460 du 17 septembre 1986 établissant les plans de rationalisation et de programmation de l'enseignement supérieur de type court et modifiant la législation relative à l'organisation de l'enseignement supérieur de type long :
+
+1° l'article 4;
+
+2° l'article 5, tel que modifié par l'arrêté royal n° 541 du 31 mars 1987 et le décret du 27 décembre 1993;
+
+3° l'article 6;
+
+4° l'article 7, tel que modifié par l'arrêté royal n° 541 du 31 mars 1987 et le décret du 27 décembre 1993;
+
+5° les articles 8 à 12, 16, 17 et 19 à 22.
+
+##### Art. 70
+
+N'est pas applicable aux Hautes Ecoles à l'exception de l'article 6, § 2, l'arrêté royal du 6 novembre 1987 fixant les notions "d'étudiant régulièrement inscrit" et "d'étudiant entrant en ligne de compte pour le financement" dans l'enseignement supérieur de plein exercice, à l'exception de l'enseignement universitaire, tel que modifié par les arrêtés royaux des 14 septembre 1988 et 2 septembre 1991, par l'arrêté de l'Exécutif du 19 septembre 1991 et par l'arrêté du Gouvernement du 1er septembre 1994.
+
+##### Art. 71
+
+Est abrogé l'arrêté royal du 22 août 1988 fixant le coefficient qui détermine le nombre de périodes supplémentaires admissibles dans l'enseignement supérieur pédagogique de type court et de plein exercice.
+
+##### Art. 72
+
+Est abrogé l'arrêté de l'Exécutif de la Communauté française du 7 juin 1991 fixant le coefficient qui détermine le nombre de périodes supplémentaires admissibles dans l'enseignement supérieur pédagogique de type court et de plein exercice.
+
+##### Art. 73
+
+Ne sont pas applicables aux Hautes Ecoles, dans la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement :
+
+1° l'article 3, § 1er, alinéa 2, tel qu'introduit par l'arrêté royal n° 413 du 29 avril 1986 et tel que modifié jusqu'à présent, et alinéa 3, tel qu'introduit par la loi du 18 septembre 1981 et modifié jusqu'à présent;
+
+2° l'article 12ter, tel qu'introduit par la loi du 11 juillet 1973;
+
+3° l'article 32, tel que modifié jusqu'à présent;
+
+4° l'article 34, tel que modifié jusqu'à présent;
+
+5° l'article 35;
+
+6° l'article 36, tel que modifié par l'arrêté royal n° 413 du 29 avril 1986, l'arrêté royal n° 447 du 20 août 1986 et le décret du 1er février 1993;
+
+7° le Chapitre IX, tel que modifié par la loi du 11 juillet 1973.
+
+##### Art. 74
+
+Est abrogé dans le décret du 19 juillet 1993 organisant l'enseignement supérieur social de type long en communication appliquée, l'article 10.
+
+##### Art. 75
+
+Ne sont pas applicables aux Hautes Ecoles dans le décret du 5 août 1995 portant diverses mesures en matière d'enseignement supérieur, les articles 1 à 4.
+
+##### Art. 76
+
+L'article 58 du décret du 5 août 1995 fixant l'organisation générale de l'enseignement supérieur en Hautes Ecoles, est abrogé.
+
+### Section 4. - Dispositions finales.
+
+##### Art. 77
+
+Le Gouvernement peut coordonner les dispositions législatives et décrétales relatives à l'enseignement supérieur organisé au sein des Hautes Ecoles ainsi que les dispositions qui les auraient expressément ou implicitement modifiées au moment où cette coordination sera établie.
+
+A cette fin, il peut :
+
+1° modifier l'ordre, le numérotage et, en général, la présentation des dispositions à coordonner, sous d'autres divisions;
+
+2° modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec le numérotage nouveau;
+
+3° modifier la rédaction des dispositions à coordonner, en vue d'assurer leur concordance et d'en unifier la terminologie, sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+La coordination portera l'intitulé suivant :
+
+"Décret relatif à l'enseignement supérieur organisé au sein de Hautes Ecoles, coordonné le ....".
+
+##### Art. 78
+
+Le présent décret entre en vigueur le 1er septembre 1996, à l'exclusion des articles 47, 49, 50 et 52 qui produisent leurs effets au 1er septembre 1995, (et des articles 8, 5° et 31) qui entre en vigueur le 1er septembre 1997. &lt;DCFR 1996-12-02/36, art. 3, 002; En vigueur : 01-09-1996&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 9 septembre 1996.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+J.-P. GRAFE
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE

@@ -1,0 +1,121 @@
+---
+title: "Décret contenant le deuxième ajustement du budget général de la Communauté francaise pour l'année budgétaire 1996 et adaptant le décret contenant le budget général des dépenses de 1997."
+identifier: "1997029042"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997029042/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1996-12-20
+published: 1997-04-18
+entry_into_force: 1997-04-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997029042/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 20 DECEMBRE 1996. - Décret contenant le deuxième ajustement du budget général de la Communauté francaise pour l'année budgétaire 1996 et adaptant le décret contenant le budget général des dépenses de 1997.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## DISPOSITIONS RELATIVES AU BUDGET DE 1996.
+
+## CHAPITRE I. - Dispositions générales.
+
+### Art. 1
+
+Les crédits prévus au budget de la Communauté française de l'année budgétaire 1996 sont ajustés suivant les données détaillées aux tableaux annexés au présent décret à concurrence de :
+
+Tableau récapitulatif de l'ajustement.
+
+(Tableau non repris pour des raisons techniques, voir M.B. 18-04-1997, p. 9097).
+
+## CHAPITRE II. - Ministère de la Culture et des Affaires sociales - Tableau II.
+
+### Art. 2
+
+§ 1. Le programme 3 de la division organique 61 du budget de 1996 est supprimé avec effet au 1er janvier 1996. L'intitulé du programme 1 de la division 31 est remplacé par l'intitulé suivant avec effet au 1er janvier 1996 : " Information, promotion, rayonnement de la langue et de la culture française et de la Communauté française ".
+
+Le montant des crédits non dissociés du programme 1 de la division organique 31 est porté à 32 millions au budget initial 1996.
+
+Les engagements, ordonnancements et liquidations qui ont été effectués à charge des allocations de base 33.03 (PA 31) et 33.04 (PA 32) du programme 3 de la division organique 61 sont transférés à l'allocation de base 33.05 (PA 11) du programme 1 de la division organique 31.
+
+Le libellé de l'allocation de base précitée est adapté comme suit avec effet au 1er janvier 1996 : " Subventions allouées dans le cadre de l'information, de la promotion et du rayonnement, de la langue française, de la culture française, de la Communauté française, de la Démocratie et des Droits de l'Homme ".
+
+§ 2. Les dépenses engagées, ordonnancées et liquidées à charge des allocations de base du programme 3 de la division organique 61 du budget de 1995 et des crédits afférents aux mêmes allocations de base reportés à l'année 1996 par application de l'article 34 de l'arrêté royal du 17 juillet 1991 coordonnant les lois sur la comptabilité de l'Etat, sont régularisées à charge de l'allocation de base 33.05 (PA 11) du programme 1 de la division organique 31 du budget de 1996 sous la rubrique " crédits supplémentaires pour années antérieures ".
+
+Les ordonnancements et liquidations en cours pourront faire l'objet d'une régularisation à posteriori.
+
+### Art. 3
+
+Le Gouvernement de la Communauté française est habilité à garantir à concurrence de 540 millions de francs, les emprunts contractés par la Radio-Télévision belge de la Communauté française (RTBF) pour les besoins de financement de l'organisme.
+
+## DISPOSITIONS RELATIVES AU BUDGET DE 1997.
+
+## CHAPITRE III. - Ministère de la Culture et des Affaires sociales - Tableau I.
+
+### Art. 4
+
+Le programme 3 de la division organique 61 du budget de 1997 ainsi que les crédits inscrits sous les allocations de base 33.03 (PA 31) et 33.04 (PA 32) sont supprimés avec effet au 1er janvier 1997.
+
+L'intitulé du programme 1 de la division organique 31 est remplacé par l'intitulé suivant avec effet au 1er janvier 1997 : " Information, promotion, rayonnement de la langue et de la culture française et de la Communauté française ".
+
+Le montant du programme 1 de la division organique 31 est porté à 32 millions.
+
+Le libellé de l'allocation de base 33.05 (PA 11) du programme 1 de la division organique 31 est adapté comme suit avec effet au 1er janvier 1997 : " Subventions allouées dans le cadre de l'information, de la promotion et du rayonnement, de la langue française, de la culture française, de la Communauté française, de la Démocratie et des Droits de l'Homme ".
+
+Le montant de l'allocation de base 33.05 (PA 11) du programme 1 de la division organique 31 est porté à 12,5 millions avec effet au 1er janvier 1997.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 20 décembre 1996.
+
+La Ministre-Présidente du Gouvernement de la Communauté française chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+W. ANCION
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE
+
+## ANNEXE.
+
+### Art. N1
+
+Annexe I. TABLEAU I. - DOTATION AU CONSEIL DE LA COMMUNAUTE FRANCAISE.
+
+(Tableau non repris pour des raisons techniques, voir M.B. 18-04-1997, p. 9098).
+
+### Art. N2
+
+Annexe II. TABLEAU II. - MINISTERE DE LA CULTURE ET DES AFFAIRES SOCIALES.
+
+(Tableau non repris pour des raisons techniques, voir M.B. 18-04-1997, p. 9099-9106).
+
+### Art. N3
+
+Annexe III. - TABLEAU III. - MINISTERE DE L'EDUCATION, DE LA RECHERCHE ET DE LA FORMATION.
+
+(Tableau non repris pour des raisons techniques, voir M.B. 18-04-1997, p. 9106-9115).
+
+### Art. N4
+
+Annexe IV. TABLEAU IV. - DETTE PUBLIQUE DE LA COMMUNAUTE FRANCAISE.
+
+(Tableau non repris pour des raisons techniques, voir M.B. 18-04-1997, p. 9116).
+
+### Art. N5
+
+Annexe V. TABLEAU V. - DOTATIONS A LA REGION WALLONNE ET A LA COMMISSION COMMUNAUTAIRE FRANCAISE.
+
+(Tableau non repris pour des raisons techniques, voir M.B. 18-04-1997, p. 9116).

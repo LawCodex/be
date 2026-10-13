@@ -1,0 +1,4245 @@
+---
+title: "Décret organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française."
+identifier: "1998029331"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/02/1998029331/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1998-06-02
+published: 1998-08-29
+entry_into_force: 1998-09-01
+last_amended: 2026-08-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/02/1998029331/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 29-08-1998 et mise à jour au 07-08-2026"
+retrieved: 2026-10-12
+---
+
+# 2 JUIN 1998. - Décret organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Des définitions et des dispositions générales.
+
+##### Art. 1
+
+Pour l'application du présent décret, on entend par :
+
+1° le Gouvernement : le Gouvernement de la Communauté française;
+
+2° l'enseignement secondaire artistique à horaire réduit : l'enseignement dispensé par les établissements subventionnés par la Communauté française;
+
+3° l'établissement : l'implantation ou l'ensemble des implantations constituant un ensemble pédagogique d'enseignement secondaire artistique à horaire réduit ayant son siège à un endroit déterminé et placé sous l'autorité d'un même directeur;
+
+4° [<sup>2</sup> le domaine : la subdivision administrative regroupant l'ensemble des cours d'une orientation d'études artistique donnée ;]<sup>2</sup>
+
+5° [<sup>5</sup> la filière : la subdivision administrative d'un cours artistique de base, qui le structure en étapes d'enseignement.]<sup>5</sup>
+
+6° [<sup>5</sup> la compétence : l'aptitude à mettre en oeuvre un ensemble organisé de savoirs, de savoir-faire et de savoir-être permettant d'accomplir un certain nombre de tâches; ]<sup>5</sup>
+
+[<sup>1</sup> 7° le projet éducatif du pouvoir organisateur : le document définissant l'ensemble des valeurs, des choix de société et des références à partir desquels un pouvoir organisateur définit des objectifs éducatifs, en cohérence avec le projet éducatif de l'organe de représentation auquel adhère ce pouvoir organisateur;]<sup>1</sup>
+
+[<sup>1</sup> 8° le projet pédagogique du pouvoir organisateur : le document définissant les visées pédagogiques et les choix méthodologiques permettant à un pouvoir organisateur de mettre en place son projet éducatif, en cohérence avec le projet pédagogique de l'organe de représentation auquel adhère ce pouvoir organisateur;]<sup>1</sup>
+
+[<sup>2</sup> 9° le Service de l'inspection de l'enseignement artistique : le service visé à l'article 3, [<sup>3</sup> alinéa 3, 4°, du décret du 10 janvier 2019 relatif au service général de l'inspection ]<sup>3</sup>, ; "
+
+" 10° le Conseil général : le Conseil général de l'enseignement secondaire artistique à horaire réduit visé à l'article 121;]<sup>2</sup>
+
+[<sup>4</sup> 11° année scolaire: l'année scolaire visée à l'article 2bis.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 1, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2019-01-10/04, art. 1, 021; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2022-07-07/12, art. 1, 028; En vigueur : 29-08-2022&gt;
+
+(4)&lt;DCFR 2022-03-31/35, art. 206, 029; En vigueur : 29-08-2022&gt;
+
+(5)&lt;DCFR 2023-09-21/11, art. 1, 033; En vigueur : 28-08-2023&gt;
+
+##### Art. 2
+
+[<sup>2</sup> La Communauté française subventionne l'enseignement secondaire artistique à horaire réduit]<sup>2</sup>.
+
+[<sup>1</sup> Par l'intermédiaire des fédérations de pouvoirs organisateurs auxquelles ils sont affiliés, les pouvoirs organisateurs de l'enseignement artistique à horaire réduit participent à la négociation visée au Livre 1er, Titre 6, Chapitre 5, du Code de l'enseignement fondamental et de l'enseignement secondaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-05-03/54, art. 13, 025; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 46, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 2bis
+
+[<sup>1</sup> L'année scolaire commence le dernier lundi du mois d'août et se termine le premier vendredi du mois de juillet. Par exception, si le dernier lundi est un 30 août ou un 31 août, l'année scolaire commence l'avant-dernier lundi du mois d'août si cela est nécessaire pour que l'année scolaire comprenne le nombre de 37 semaines d'ouverture hors vacances scolaires.
+
+Par dérogation à l'alinéa 1er, pour les établissements dont le nombre de semaines d'ouverture est fixé à 29 ou 33 semaines en application de l'article 32, le Pouvoir organisateur fixe la date du début des cours entre le premier jour de l'année scolaire et le 15 septembre et la date de fin des cours entre le 31 mai et le dernier jour de l'année scolaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-03-31/35, art. 207, 029; En vigueur : 29-08-2022&gt;
+
+##### Art. 2ter
+
+[<sup>1</sup> Par dérogation à l'article 1.1.1-1, alinéa 2, du Code de l'enseignement fondamental et de l'enseignement secondaire, pour les pouvoirs organisateurs relevant de l'enseignement officiel et de l'enseignement libre non confessionnel, les dispositions relatives au respect du principe de neutralité définies au Livre 1er, Titre 7, Chapitre 4, du Code de l'enseignement fondamental et de l'enseignement secondaire, sont applicables. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-07-07/12, art. 2, 028; En vigueur : 29-08-2022&gt;
+
+## CHAPITRE II. - Des finalités et de l'organisation de l'enseignement [<sup>1</sup> secondaire]<sup>1</sup> artistique à horaire réduit.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 2, 019; En vigueur : 01-01-2015&gt;
+
+### Section 1. - Des finalités.
+
+##### Art. 3
+
+Les principales finalités de l'enseignement secondaire artistique à horaire réduit consistent à :
+
+1° concourir à l'épanouissement des élèves en promouvant une culture artistique par l'apprentissage des divers langages et pratiques artistiques;
+
+2° donner aux élèves les moyens et formations leur permettant d'atteindre l'autonomie artistique suscitant une faculté créatrice personnelle;
+
+3° offrir un enseignement préparant des élèves à rencontrer les exigences requises pour accéder à l'enseignement artistique de niveau supérieur.
+
+### Section 1rebis. [<sup>1</sup> Du projet pédagogique et artistique d'établissement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2014-11-20/08, art. 3, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 3bis
+
+[<sup>1</sup> Le projet pédagogique et artistique d'établissement définit l'ensemble des choix pédagogiques et artistiques, et des actions concrètes particulières que les membres du personnel de l'établissement repris à l'article 49 du même décret entendent mettre en oeuvre pour réaliser les projets éducatif et pédagogique du pouvoir organisateur visés à l'article 1er, 7° et 8°.
+
+Le projet pédagogique et artistique d'établissement est élaboré en tenant compte, notamment :
+
+1° des élèves inscrits dans l'établissement, de leurs caractéristiques tant culturelles que sociales, de leurs besoins et de leurs ressources dans les processus d'acquisition des compétences et connaissances;
+
+2° des aspirations des élèves en matière de formation artistique, de projet de vie professionnelle et de poursuite des études;
+
+3° de l'environnement social, culturel et économique de l'établissement;
+
+4° de l'environnement naturel, du quartier, de la ville, ou du village dans lesquels l'établissement est implanté.
+
+Le projet pédagogique et artistique d'établissement est un outil pour atteindre les objectifs du décret ainsi que les compétences requises.
+
+En outre, il établit la manière selon laquelle est favorisée la communication entre les élèves, les personnes investies de l'autorité parentale ou qui assument la garde en droit ou en fait du mineur, et les membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2014-11-20/08, art. 3, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 3ter
+
+[<sup>1</sup> Tout établissement dispose d'un projet pédagogique et artistique d'établissement. Celui-ci est adapté au moins tous les cinq ans. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2014-11-20/08, art. 3, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 3quater
+
+[<sup>1</sup> Le projet pédagogique et artistique d'établissement et ses modifications ultérieures sont soumis pour approbation au pouvoir organisateur, après avis de l'assemblée générale du Conseil des études et des organes de concertation locale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2014-11-20/08, art. 3, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 3quinquies
+
+[<sup>1</sup> Le pouvoir organisateur transmet le projet pédagogique et artistique d'établissement à l'administration dans le mois qui suit son approbation. Toute modification est également transmise dans les mêmes conditions. Le projet pédagogique et artistique d'établissement est fourni sur demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2014-11-20/08, art. 3, 019; En vigueur : 01-01-2015&gt;
+
+### Section 2. - De l'organisation générale.
+
+##### Art. 4
+
+§ 1er. En vue de rencontrer les finalités visées à l'article 3, les pouvoirs organisateurs peuvent organiser des établissements comportant [<sup>4</sup> un ou plusieurs des domaines suivants]<sup>4</sup> :
+
+1° domaine des " arts plastiques, visuels et de l'espace ";
+
+2° domaine de la " musique ";
+
+3° domaine des " arts de la parole et du théâtre ";
+
+4° domaine de la " danse ".
+
+§ 2. [<sup>7</sup> Dans chaque domaine visé au § 1er, peuvent être organisés :
+
+\- des cours artistiques de base ;
+
+\- des cours artistiques complémentaires ;
+
+\- des accompagnements de cours ;
+
+\- de la remédiation.
+
+Dans les cours artistiques de base, quatre filières peuvent être organisées :
+
+a) une filière préparatoire qui comprend les cours d'initiation aux pratiques artistiques ;
+
+b) une filière de formation qui, hors filière préparatoire, comprend les premières années des cours ;
+
+c) une filière de qualification qui comprend les années terminales des cours, dans une forme minimale d'organisation des études ;
+
+d) une filière de transition qui comprend les années terminales des cours, dans une forme renforcée d'organisation des études, représentant la structure maximale.
+
+Le Gouvernement fixe la liste des cours artistiques de base et complémentaires organisables et détermine les cours pouvant bénéficier de l'accompagnement et de la remédiation.
+
+Sur avis du Conseil des études visé à l'article 20, le Pouvoir organisateur choisit les cours artistiques de base, les cours artistiques complémentaires, les accompagnements et la remédiation qu'il organise.]<sup>7</sup>
+
+§ 3. [<sup>7</sup> Dans chaque domaine visé au § 1er,
+
+1° les cours artistiques de base sont définis en termes :
+
+a) de structure ;
+
+b) de conditions d'admission et d'obtention des certificats et diplômes ;
+
+c) d'objectifs d'éducation et de formation artistiques ;
+
+d) de compétences à exercer et à maitriser par les élèves ;
+
+2° les cours artistiques complémentaires sont définis en termes :
+
+a) de structure ;
+
+b) de conditions d'admission ;
+
+c) d'objectifs d'éducation et de formation artistiques ;
+
+d) de compétences à exercer par les élèves.
+
+La structure des cours comporte :
+
+\- le nombre d'années d'études organisables ;
+
+\- le nombre de périodes hebdomadaires de cours organisables.
+
+Les compétences prennent en compte :
+
+\- l'intelligence artistique de l'élève, à savoir sa capacité de perception de la cohérence d'un langage artistique ;
+
+\- la maitrise technique de l'élève, à savoir sa capacité de dominer l'utilisation des éléments techniques propres à chaque cours ou spécialité ;
+
+\- l'autonomie de l'élève, à savoir sa capacité de découvrir, de développer et de produire seul une activité artistique de qualité équivalente à celle que la formation lui a permis d'atteindre ;
+
+\- la créativité de l'élève, à savoir sa capacité de se servir librement d'un langage artistique connu de lui ou élaboré par lui en vue d'une réalisation originale.
+
+Tous les cours organisés ont pour objectifs :
+
+1° de faire acquérir les capacités permettant le maintien et la progression de l'élève dans le processus de l'enseignement secondaire artistique à horaire réduit ;
+
+2° de permettre la pratique d'une activité artistique.
+
+Le Gouvernement précise la structure des cours, les objectifs d'éducation et de formation artistiques et les compétences à exercer et à maitriser par les élèves.
+
+Les conditions d'admission sont fixées conformément aux dispositions de l'article 8.
+
+Les conditions d'obtention des certificats et diplômes sont fixées conformément aux dispositions de l'article 16.
+
+Sur avis du Conseil des études visé à l'article 20, le Pouvoir organisateur choisit les filières, années d'études et périodes de cours qu'il organise, dans le respect des dispositions de l'article 7. Il peut décider de réunir certaines années d'études en groupes d'années d'études.]<sup>7</sup>
+
+[<sup>5</sup> § 3bis. Le Gouvernement arrête la correspondance entre les cours et les fonctions d'enseignement. Ces arrêtés sont soumis à la confirmation du Parlement dans un délai de douze mois suivant leur adoption. A défaut d'une telle confirmation, ils cessent de produire leurs effets à l'issue de ce délai .]<sup>5</sup>
+
+§ 4. En fonction des critères définis au § 3, le pouvoir organisateur détermine le programme de chacun des cours qu'il soumet à l'approbation du Gouvernement. [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>4</sup> Le Pouvoir organisateur peut également adhérer à un programme de cours proposé par une ou plusieurs organisations représentatives de pouvoirs organisateurs et approuvé par le Gouvernement après avis du Conseil général.
+
+Chaque modification à un programme de cours doit être soumise à l'approbation du Gouvernement.]<sup>4</sup>
+
+[<sup>1</sup> Le Gouvernement fixe les règles d'approbation des programmes de cours.]<sup>1</sup>
+
+§ 5. Le pouvoir organisateur établit, pour le [<sup>6</sup> 20 octobre]<sup>6</sup> de chaque année scolaire au plus tard, la liste [<sup>2</sup> ...]<sup>2</sup> des cours qu'il organise dans chacun des domaines d'enseignement.
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 40, 013; En vigueur : 01-02-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 4, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2017-05-24/15, art. 21, 020; En vigueur : 03-07-2017&gt;
+
+(4)&lt;DCFR 2019-01-10/04, art. 2, 021; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFR 2022-07-07/12, art. 3, 028; En vigueur : 29-08-2022&gt;
+
+(6)&lt;DCFR 2022-03-31/35, art. 208, 029; En vigueur : 29-08-2022&gt;
+
+(7)&lt;DCFR 2023-09-21/11, art. 3, 033; En vigueur : 28-08-2023&gt;
+
+##### Art. 5
+
+En cas de dédoublement ou de regroupement dans un même cours, des classes ou des[<sup>1</sup> années d'études ]<sup>1</sup> visées à l'article 4, § 3, le chef d'établissement détermine, après consultation du Conseil des études visé à l'article 20, la composition des groupes d'élèves, dans le respect de la dotation de périodes de son établissement.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 5, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 6
+
+Seuls peuvent être admis au bénéfice des subventions, les cours artistiques de base, [<sup>1</sup> les cours artistiques complémentaires, les accompagnements et la remédiation]<sup>1</sup> visés à l'[<sup>4</sup> article 4, § 2]<sup>4</sup>, [<sup>3</sup> ainsi que l'encadrement pédagogique visé à l'article 100ter,]<sup>3</sup> organisés conformément aux dispositions du présent décret.
+
+[<sup>2</sup> L'approbation par le Gouvernement d'un programme de cours visé à l'article 4, § 4, est également requise pour l'admission aux subventions des cours artistiques de base ou complémentaires.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2017-05-24/15, art. 22, 020; En vigueur : 03-07-2017&gt;
+
+(2)&lt;DCFR 2019-01-10/04, art. 3, 021; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2024-05-16/79, art. 47, 032; En vigueur : 02-08-2024&gt;
+
+(4)&lt;DCFR 2023-09-21/11, art. 4, 033; En vigueur : 28-08-2023&gt;
+
+##### Art. 7
+
+[<sup>1</sup> Seuls peuvent être admis au bénéfice des subventions, les domaines d'enseignement qui comportent :
+
+1° au plus, la structure maximale définie à l'article 4, § 2;
+
+2° au moins, la structure minimale organisant :
+
+a) pour le domaine des arts plastiques, visuels et de l'espace, les filières préparatoire, de formation et de qualification;
+
+b) pour les domaines de la musique et de la danse ainsi que pour le domaine des arts de la parole et du théâtre, les filières de formation et de qualification.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 1, 016; En vigueur : 01-09-2009&gt;
+
+##### Art. 7bis
+
+[<sup>1</sup> Les services du Gouvernement sont chargés de vérifier que le Pouvoir organisateur respecte l'égalité de traitement entre les élèves inscrits dans ses établissements.
+
+En outre, par dérogation à l'article 1.1.1-1, alinéa 2 du Code de l'enseignement fondamental et de l'enseignement secondaire, les services du Gouvernement sont également chargés de vérifier le respect des conditions reprises à l'article 1.7.3-1, § 2 du Code précité.
+
+En cas de non-respect de l'alinéa précédent, la procédure prévue à l'article 1.7.3-1, § 3 du Code précité s'applique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2024-05-16/79, art. 48, 032; En vigueur : 02-08-2024&gt;
+
+### Section 3. - Des conditions d'admission et de la régularité des élèves.
+
+##### Art. 8
+
+§ 1er. Nul élève ne peut être admis à fréquenter, en qualité d'élève régulier, une année d'études d'un cours artistique de base s'il ne remplit les conditions suivantes :
+
+1° [<sup>1</sup> remplir les conditions en matière d'âge requis ou d'inscription dans l'enseignement de plein exercice ;]<sup>1</sup>
+
+2° [<sup>1</sup> remplir, s'il échet, pour un ou plusieurs autres cours, les conditions en matière :
+
+\- d'obtention de certificats ou diplômes ;
+
+\- de satisfaction aux conditions de passage visées à l'article 21, alinéa 2, 4°, a) ;
+
+\- de satisfaction aux conditions de validation visées à l'article 21, alinéa 2, 4°, b) ;
+
+\- de fréquentation de cours, filières ou années d'études ;
+
+ou en être dispensé par le Conseil de classe et d'admission conformément à l'article 21, alinéa 2, 1°.]<sup>1</sup>
+
+3° [<sup>1</sup> répondre, s'il échet, aux conditions fixées par les Conseils de classes et d'admission visés à l'article 21 ;]<sup>1</sup>
+
+4° ne pas avoir dépassé un nombre maximum d'années de fréquentation du cours limité :
+
+a) à deux années pour la même année d'études;
+
+b) au nombre total d'années d'études organisées dans les filières autres que la filière préparatoire augmenté de trois années scolaires. Cependant, lorsque l'élève commence ses études dans une année autre que celle de début, le nombre maximum d'années de fréquentation est amputé du nombre d'années d'études non suivies;
+
+5° s'engager à suivre toutes les périodes de cours hebdomadaires organisées pour le cours concerné.
+
+Les conditions visées [<sup>1</sup> aux 1° et 2°]<sup>1</sup> sont définies par le Gouvernement pour chacun des cours de base concernés.
+
+§ 2. Outre les conditions fixées au § 1er pour accéder à une année d'études autre que la première année, l'élève doit :
+
+1° soit être admis d'office dans cette année d'études par le Conseil de classe et d'admission conformément à l'article 21, 1°;
+
+2° soit remplir les conditions de passage fixées par le Conseil de classe et d'admission conformément à l'[<sup>1</sup> article 21, alinéa 2, 4°, a)]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2023-09-21/11, art. 5, 033; En vigueur : 26-08-2024&gt;
+
+##### Art. 9
+
+Nul élève ne peut être admis à fréquenter, en qualité d'élève régulier, une année d'études d'un cours artistique complémentaire s'il ne remplit les conditions visées à l'[<sup>2</sup> article 8, § 1er, 1°, 2° et 3°]<sup>2</sup>.
+
+Les conditions visées à l'[<sup>1</sup> article 8, § 1er, [<sup>2</sup> 1° et 2°]<sup>2</sup>]<sup>1</sup> sont définies par le Gouvernement pour chacun des cours complémentaires concernés.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 6, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2023-09-21/11, art. 6, 033; En vigueur : 26-08-2024&gt;
+
+##### Art. 10
+
+L'âge requis visé à l'article 8 doit être atteint au 31 décembre qui suit le début de l'année scolaire.
+
+##### Art. 11
+
+Dans chaque domaine d'enseignement, est considéré comme élève régulier celui qui, au 31 janvier de l'année scolaire en cours :
+
+1° remplit les conditions d'admission visées aux articles 8 et 9 et fréquente régulièrement depuis le 1er octobre les cours de l'année d'études à laquelle il appartient;
+
+2° suit effectivement un nombre minimum de périodes de cours de base ou complémentaires fixé à l'article 12;
+
+3° s'est acquitté, lorsqu'il échet, du droit d'inscription fixé par le Gouvernement en application de l'article 26 du décret-programme du 25 juillet 1996 portant diverses mesures concernant les fonds budgétaires, les bâtiments scolaires, l'enseignement et l'audiovisuel.
+
+##### Art. 12
+
+§ 1er. Pour les élèves réguliers, le nombre minimum de périodes de cours hebdomadaires à suivre visé à l'article 11, 2°, est fixé à :
+
+1° dans le domaine des arts plastiques, visuels et de l'espace :
+
+a) pour la filière préparatoire, 2 périodes [<sup>1</sup> ...]<sup>1</sup> ;
+
+b) pour la filière de formation, 3 périodes;
+
+c) pour la filière de qualification, 4 périodes;
+
+d) pour la filière de transition, 8 périodes;
+
+2° dans le domaine de la musique :
+
+a) pour la filière préparatoire, 1 période;
+
+b) pour la filière de formation, 2 périodes;
+
+c) pour la filière de qualification, 2 périodes;
+
+d) pour la filière de transition, 5 périodes.
+
+Toutefois ce nombre de périodes peut être réduit à deux à partir de la quatrième année d'études, lorsque l'élève a satisfait aux formations complémentaires imposées en application de l'[<sup>4</sup> article 8, § 1er, 2°]<sup>4</sup>;
+
+3° dans le domaine des arts de la parole et du théâtre :
+
+a) pour la filière préparatoire, 1 période;
+
+b) pour la filière de formation, 2 périodes;
+
+c) pour la filière de qualification, 2 périodes;
+
+d) pour la filière de transition, 5 périodes.
+
+Toutefois ce nombre de périodes peut être réduit à deux à partir de la quatrième année, lorsque l'élève a satisfait aux formations complémentaires imposées en application de l'[<sup>4</sup> article 8, § 1er, 2°]<sup>4</sup>;
+
+4° dans le domaine de la danse :
+
+a) pour la filière préparatoire, 1 période;
+
+b) pour la filière de formation, 1 période durant les quatre premières années d'études et 2 périodes à partir de la cinquième année;
+
+c) pour la filière de qualification, 2 périodes;
+
+d) pour la filière de transition, 5 périodes en 1ère et 2ème années et 7 périodes de la 3ème à la 8ème année.
+
+§ 2. Les différents cours du même domaine suivis dans un autre établissement d'enseignement [<sup>2</sup> secondaire artistique]<sup>2</sup> à horaire réduit peuvent être comptabilisés pour atteindre le nombre minimum de périodes de cours visé à l'article 11, 2°.
+
+Dans ce cas, pour l'application de l'article 11, l'élève est considéré comme régulier dans chacun des établissements où il fréquente un cours de base.
+
+§ 3. Pour l'application du § 1er, lorsque l'élève fréquente uniquement un ou plusieurs cours complémentaires, la durée minimale hebdomadaire de fréquentation des cours est fixée par référence au minimum imposé en filière de formation du domaine auquel se rattache(nt) le(s) cours complémentaire(s) concerné(s).
+
+§ 4. Les dispenses de fréquentation des cours accordées par le Conseil des études conformément à l'article 21 ne peuvent être prises en compte pour atteindre le nombre minimum de périodes de cours fixé au § 1er.
+
+[<sup>3</sup> § 5. La remédiation n'est pas prise en compte dans la durée minimale hebdomadaire de fréquentation des cours.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 41, 013; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 7, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2017-05-24/15, art. 23, 020; En vigueur : 03-07-2017&gt;
+
+(4)&lt;DCFR 2023-09-21/11, art. 7, 033; En vigueur : 26-08-2024&gt;
+
+##### Art. 13
+
+Par dérogation à l'article 12, pour tout élève inscrit à un cours de base d'une filière de formation, la durée minimale hebdomadaire de fréquentation des cours peut être atteinte en comptabilisant toute(s) autre(s) période(s) de cours régulièrement suivie(s) simultanément dans l'enseignement secondaire artistique à horaire réduit.
+
+Dans ce cas, pour l'application de l'article 11, l'élève est considéré comme régulier dans chacun des domaines dans lequel il fréquente un des cours de base visés à l'article 4, § 3, 1°.
+
+##### Art. 14
+
+§ 1er. Nul ne peut fréquenter en qualité d'élève régulier un même cours dans un autre établissement d'enseignement artistique subventionné ou organisé par la Communauté française
+
+§ 2. Pour l'application de l'article 11, l'élève ne peut être régulier lorsque, sur l'ensemble des cours organisés entre le 1er octobre et le 31 janvier de l'année scolaire concernée, il totalise plus de 20 % d'absences injustifiées.
+
+Le (Gouvernement) fixe les règles selon lesquelles les présences et absences des élèves sont comptabilisées et justifiées. &lt;DCFR 2003-07-17/40, art. 2, 005; En vigueur : 01-09-2003&gt;
+
+##### Art. 15
+
+Pour chaque élève, une fiche individuelle est établie et comporte au moins les éléments suivants :
+
+1° nom, prénom et adresse;
+
+2° date de naissance;
+
+3° études déjà suivies dans un établissement d'enseignement artistique et résultats obtenus;
+
+4° études en cours.
+
+### Section 4. - De la sanction des études.
+
+##### Art. 16
+
+Des certificats et diplômes sont délivrés pour chacun des cours artistiques de base visés à l'[<sup>3</sup> article 4, § 2]<sup>3</sup>.
+
+[<sup>3</sup> Un certificat est délivré à l'élève qui, à l'issue de chacune des filières de formation et de qualification, remplit les conditions d'obtention fixées par le Gouvernement.]<sup>3</sup>
+
+[<sup>3</sup> Un diplôme de fin d'études est délivré à l'élève qui, à l'issue de la filière de transition, remplit les conditions d'obtention fixées par le Gouvernement.]<sup>3</sup>
+
+[<sup>3</sup> Dans les cours artistiques complémentaires, une année de fréquentation est validée lorsque l'élève remplit les conditions de validation visées à l'article 21, alinéa 2, 4°, b).]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 2, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2019-01-10/04, art. 5, 021; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2023-09-21/11, art. 8, 033; En vigueur : 28-08-2023&gt;
+
+##### Art. 17
+
+&lt;Abrogé par DCFR 2023-09-21/11, art. 9, 033; En vigueur : 28-08-2023&gt;
+
+##### Art. 18
+
+Le certificat et le diplôme mentionnent notamment :
+
+[<sup>1</sup> 1° la dénomination de l'établissement;
+
+2° le domaine concerné;
+
+3° l'intitulé du cours de base et du ou des cours complémentaires suivis;
+
+4° la filière d'enseignement concernée.]<sup>1</sup>
+
+Le certificat et le diplôme sont reconnus par tous les établissements d'enseignement secondaire artistique à horaire réduit.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 8, 019; En vigueur : 01-01-2015&gt;
+
+### Section 5. - Du Conseil des études.
+
+##### Art. 19
+
+Le pouvoir organisateur institue dans chacun des établissements qu'il organise un Conseil des études composé d'une assemblée générale et des conseils de classes et d'admission.
+
+##### Art. 20
+
+[<sup>1</sup> L'assemblée générale est présidée par le chef d'établissement ou son délégué. Elle réunit tous les membres du personnel de l'établissement repris à l'article 49 du présent décret et rend des avis au pouvoir organisateur au sujet :]<sup>1</sup>
+
+1° des dédoublements ou regroupements des classes ou des années d'études d'un même cours;
+
+2° de la création ou de la suppression d'années d'études, cours ou filières d'enseignement;
+
+3° des modalités d'organisation des évaluations des élèves;
+
+4° [<sup>2</sup> du choix de l'utilisation des dotations, conformément à l'article 34;]<sup>2</sup>
+
+[<sup>1</sup> 5° du projet pédagogique et artistique d'établissement.]<sup>1</sup>
+
+[<sup>1</sup> L'assemblée générale se réunit au minimum une fois pendant l'année scolaire. Elle est convoquée par le pouvoir organisateur ou le chef d'établissement au moins huit jours calendrier avant sa réunion. Un ordre du jour est joint à la convocation.]<sup>1</sup>
+
+L'assemblée générale ne peut émettre valablement ses avis que lorsque deux tiers au moins des membres du personnel sont présents.
+
+[<sup>1</sup> Si le quorum requis n'est pas atteint, une seconde réunion se tient dans les quinze jours calendrier, avec le même ordre du jour que la réunion précédente. A cette fin, une convocation est envoyée par le pouvoir organisateur ou le chef d'établissement au moins huit jours calendrier avant la réunion. Quel que soit le nombre de membres du personnel présents, un avis valable est donné.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 9, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2017-05-24/15, art. 24, 020; En vigueur : 03-07-2017&gt;
+
+##### Art. 21
+
+Les Conseils de classes et d'admission regroupent [<sup>1</sup> ...]<sup>1</sup> un membre du personnel directeur ou son délégué qui les préside et l'ensemble des enseignants chargés de former un groupe déterminé d'élèves.
+
+[<sup>1</sup> Dans le respect du caractère spécifique des projets éducatif et pédagogique du pouvoir organisateur visés à l'article 1er, 7° et 8°, et du projet pédagogique et artistique d'établissement visé à l'article 3bis,]<sup>1</sup>, ils peuvent agir en tant que membres délégués de ce pouvoir organisateur en matière :
+
+1° d'admission des élèves en filière de transition ou dans une année d'études autre que celle de début et de dispense de fréquentation de cours, eu égard [<sup>4</sup> à un ou plusieurs des critères]<sup>4</sup> suivants :
+
+a) les études déjà suivies et sanctionnées par une attestation, un certificat ou un diplôme;
+
+b) les résultats d'épreuves ou de tests organisés par le Conseil des études;
+
+c) d'autres études suivies simultanément;
+
+d) de distinction ou prix obtenus;
+
+e) de l'exercice continu et attesté d'une activité en rapport avec la formation suivie;
+
+2° [<sup>3</sup> de suivi pédagogique des élèves :]<sup>3</sup>
+
+a) [<sup>2</sup> soit en imposant aux élèves qui ne maîtrisent pas certaines connaissances préalables requises ou qui éprouvent des difficultés au début ou en cours de formation de fréquenter :
+
+\- des cours [<sup>4</sup> supplémentaires]<sup>4</sup> dont la nature et la durée sont fixées dans les limites prévues par le présent décret et en fonction des périodes de cours subventionnables disponibles;
+
+\- de manière ponctuelle, la remédiation dont la nature est fixée dans les limites prévues par le présent décret et en fonction des périodes de cours subventionnables disponibles;]<sup>2</sup>
+
+b) soit en réorientant, le cas échéant, les élèves en cours d'études;
+
+c) soit en prenant toute disposition pour régler les litiges relatifs au déroulement des études;
+
+3° de critères d'évaluation des élèves, en fixant la nature et la périodicité des épreuves de contrôle ainsi que les éléments d'évaluation ou, s'il échet, les éléments de formation personnelle ou d'acquis professionnels fournis par l'élève, dûment vérifiés;
+
+4° [<sup>4</sup> de conditions :
+
+a) de passage d'une année d'études dans l'année d'études suivante dans les cours artistiques de base ;
+
+b) de validation d'une année de fréquentation dans les cours artistiques complémentaires ;]<sup>4</sup>
+
+5° de sanction des études, en appréciant les [<sup>4</sup> compétences fixées à l'article 4, § 3]<sup>4</sup>, et en délivrant après délibération les certificats et diplômes prévus à l'article 16.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 10, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2017-05-24/15, art. 25, 020; En vigueur : 03-07-2017&gt;
+
+(3)&lt;DCFR 2022-07-07/12, art. 4, 028; En vigueur : 29-08-2022&gt;
+
+(4)&lt;DCFR 2023-09-21/11, art. 10, 033; En vigueur : 28-08-2023&gt;
+
+##### Art. 22
+
+Le pouvoir organisateur fixe le règlement d'ordre intérieur du Conseil des études en précisant notamment :
+
+[<sup>1</sup> 1° les modalités et les critères d'évaluation;
+
+2° la valeur proportionnelle des évaluations et, le cas échéant, des épreuves qui composent celles-ci dans l'établissement du résultat final;
+
+3° les règles de fonctionnement de l'assemblée générale et de délibération des conseils de classes et d'admission; ]<sup>1</sup>
+
+4° les règles de prise de décision relatives à l'admission des élèves;
+
+5° les règles de procédure en matière disciplinaire;
+
+[<sup>2</sup> 6° s'il échet, les règles d'organisation de la remédiation.]<sup>2</sup> [<sup>3</sup> Pour l'application du 1°, on entend par :
+
+\- évaluation formative : l'évaluation effectuée en cours d'apprentissage et visant à apprécier le progrès accompli par l'élève, à mesurer les acquis de l'élève et à comprendre la nature des difficultés qu'il rencontre lors d'un apprentissage ; elle a pour but d'améliorer, de corriger ou de réajuster le cheminement de l'élève face aux apprentissages et aux attendus visés ; elle peut se fonder en partie sur l'auto-évaluation ;
+
+\- évaluation sommative : l'évaluation permettant d'établir un bilan des acquis des élèves par rapport au niveau de maitrise des compétences visées pour les élèves au terme d'une ou de plusieurs séquences d'apprentissage ;
+
+\- évaluation certificative : l'évaluation qui intervient dans la délivrance d'un certificat ou d'un diplôme.]<sup>3</sup>
+
+(Le règlement d'ordre intérieur est un document public, fourni par le directeur ou son représentant à toute personne, sur simple demande.) &lt;DCFR 2003-07-17/40, art. 4, 005; En vigueur : 01-09-2003&gt;
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 11, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2017-05-24/15, art. 26, 020; En vigueur : 03-07-2017&gt;
+
+(3)&lt;DCFR 2023-09-21/11, art. 11, 033; En vigueur : 28-08-2023&gt;
+
+### Section 6. - De l'organisation des humanités artistiques.
+
+##### Art. 23
+
+[<sup>1</sup> Dans les domaines des arts de la parole et du théâtre, de la musique et de la danse, après avis du Conseil général de concertation de l'enseignement secondaire ordinaire, les périodes d'enseignement des Humanités artistiques visées à l'article 1er de l'arrêté royal du 29 juin 1984 relatif à l'organisation de l'enseignement secondaire peuvent être organisées dans les établissements de l'enseignement secondaire artistique à horaire réduit dont le Gouvernement fixe la liste à concurrence d'un établissement par zone d'enseignement. Cette liste inclut les sept établissements repris ci-après :
+
+1° Conservatoire de Musique Arthur Grumiaux de Charleroi ;
+
+2° Académie intercommunale de Musique, de danse et des arts de la parole de Court-Saint-Etienne et Ottignies-Louvain-la-Neuve ;
+
+3° Académie de Musique Grétry de Liège ;
+
+4° Conservatoire de Musique de Huy ;
+
+5° Académie de Musique d'Ixelles ;
+
+6° Académie de Musique de Mons ;
+
+7° Conservatoire de Musique de Namur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/04, art. 6, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 23bis
+
+[<sup>1</sup> Les écoles visées à l'article 23 peuvent, dans la limite des crédits disponibles et sur avis du Service de l'Inspection de l'Enseignement artistique [<sup>2</sup> ...]<sup>2</sup>, [<sup>3</sup> organiser]<sup>3</sup> une " formation artistique transdisciplinaire en tronc commun " qui comprend les quatre domaines de l'enseignement secondaire artistique à horaire réduit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C3, art. 3, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2019-01-10/04, art. 7, 021; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2024-05-16/79, art. 49, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 24
+
+L'organisation, la structure, l'horaire des cours et la sanction des études des humanités artistiques sont régis sur base de la réglementation générale de l'enseignement secondaire de plein exercice.
+
+### Section 7. - Des organisations particulières.
+
+##### Art. 25
+
+Peuvent être reconnues comme particulières par le Gouvernement, les organisations d'enseignement qui ne peuvent être rattachées aux domaines d'enseignement visés à l'article 4, § 1er, ou qui mettent en oeuvre une structure de cours spécifique justifiée par la réalisation d'un[<sup>1</sup> projet pédagogique et artistique d'établissement particulier]<sup>1</sup>.
+
+Sont reconnues comme particulières à la date d'entrée en vigueur du présent décret les organisations d'enseignement artistique mises en oeuvre dans les établissements repris ci-après :
+
+1° enseignement spécifique de la rythmique et de l'expression corporelle à l'Institut de Rythmique Jacques Dalcroze de Belgique, de Bruxelles;
+
+2° enseignement spécifique de formations instrumentale et vocale pour chantres-organistes et chefs de choeurs à l'Académie de Musique Saint-Grégoire, de Tournai.
+
+Pour les enseignements visés à l'alinéa 1er, le Gouvernement précise les critères repris aux articles 4, § 3; 8, § 1er, 1° et 3°; 9 et 11, 2°, pour chacun des cours artistiques pouvant être organisés.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 12, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 26
+
+Par dérogation aux dispositions du présent chapitre et sur proposition du pouvoir organisateur ou du chef d'établissement mandaté par son pouvoir organisateur, des formations et activités spécifiques ne pouvant être reprises dans le cadre des cours artistiques visés à l'article 4, § 3, peuvent être organisées sous forme de charges de cours attribuées à des intervenants visés à l'article 59.
+
+##### Art. 27
+
+&lt;Abrogé par DCFR 2019-01-10/04, art. 8, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 28
+
+Pour l'application [<sup>1</sup> de l'article 26]<sup>1</sup>, le pouvoir organisateur ou le chef d'établissement mandaté à cet effet présente son projet dans les formes et délais fixés par le Gouvernement qui, sur avis de l'Inspection de l'enseignement secondaire artistique à horaire réduit, et dans un délai de soixante jours prenant cours à la date de réception du dossier, communique une décision motivée quant au subventionnement de la charge de cours concernée.
+
+----------
+
+(1)&lt;DCFR 2019-01-10/04, art. 9, 021; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE III. - Des dotations de périodes de cours et des subventions de fonctionnement.
+
+##### Art. 29
+
+A partir de l'année scolaire 1999-2000, le total des dotations octroyées en application des dispositions du présent chapitre est égal au total des périodes de cours attribuées pour l'année scolaire 1998-1999 (augmenté des 2400 périodes octroyées au 1er septembre 1999 conformément (à l'article 37, alinéa 3, et, à partir du 1er février 2004, augmenté des dotations de périodes pour les humanités artistiques visées à l'article 35) ). &lt;DCFR 2001-12-20/63, art. 11, 003; En vigueur : 01-01-2002&gt; &lt;DFG 2003-07-17/40, art. 6, 006; En vigueur : 01-02-2004&gt;
+
+Le total des dotations visé à l'alinéa 1er est annuellement diminué du nombre de périodes de cours utilisées pour le subventionnement des emplois des membres du personnel mis en disponibilité par défaut d'emploi ou en perte partielle de charge non comptabilisés à charge des dotations des établissements selon les modalités fixées à l'article 56.
+
+(Le montant affecté aux dotations de cours des humanités artistiques visées à l'alinéa 1er est égal à 750 000 euros par année budgétaire.
+
+A partir de l'année budgétaire 2005, le montant visé à l'alinéa 3 est adapté annuellement au taux de fluctuation de l'indice santé des prix à la consommation.
+
+Lors de l'admission aux subventions d'un nouvel établissement ou d'un nouveau domaine, le Gouvernement ajoute, dans les limites de ses possibilités budgétaires, au total des dotations visées à l'article 29, une dotation de périodes de cours calculée en fonction de la dotation due à cet établissement, en application de l'article 31, § 2, au moment de son admission.) &lt;DCFR 2003-07-17/40, art. 6, 006; En vigueur : 01-02-2004&gt;
+
+### Section 1. - Des dotations annuelles.
+
+##### Art. 30
+
+Chaque pouvoir organisateur dispose, par année scolaire et par établissement d'enseignement secondaire artistique, d'une dotation, calculée en périodes de cours/année d'une durée de 50 minutes et représentant le total des périodes attribuées pour chacun des domaines visés à l'article 4, § 1er.
+
+##### Art. 31
+
+§ 1er. Pour la durée de l'année scolaire 1998-1999, la dotation annuelle de périodes de cours de chacun des établissements est constituée du nombre total de périodes de cours subventionné durant l'année scolaire précédente adapté, s'il échet, à la mise en application du nouveau statut pécuniaire fixée par l'article 98.
+
+§ 2. A partir de l'année scolaire 1999-2000, la dotation annuelle de périodes de cours d'une année scolaire est fixée en fonction du nombre d'élèves réguliers de l'année scolaire précédente au sens de l'article 11 et par domaine.
+
+[<sup>4</sup> [<sup>5</sup> A partir du]<sup>5</sup> 1er septembre 2019, la dotation annuelle de périodes de cours d'une année scolaire est calculée sur la moyenne du nombre d'élèves réguliers des trois années scolaires précédentes au sens de l'article 11 et par domaine.]<sup>4</sup>
+
+[<sup>5</sup> Par dérogation à l'alinéa 2, la dotation annuelle attribuée à chacun des établissements, par domaine d'enseignement, pour l'année scolaire 2021-2022 est reconduite pour l'année scolaire 2022-2023.
+
+Par dérogation à l'alinéa 2, le nombre d'élèves à prendre en compte dans le calcul de la dotation annuelle, pour l'année scolaire 2023-2024, est la moyenne du nombre d'élèves réguliers aux 31 janvier 2023, 31 janvier 2020 et 31 janvier 2019.
+
+Par dérogation à l'alinéa 2, le nombre d'élèves à prendre en compte dans le calcul de la dotation annuelle, pour l'année scolaire 2024-2025, est la moyenne du nombre d'élèves réguliers aux 31 janvier 2024, 31 janvier 2023 et 31 janvier 2020.]<sup>5</sup>
+
+Pour l'application [<sup>4</sup> des alinéas 1 et 2]<sup>4</sup>, les élèves inscrits en filière préparatoire sont comptabilisés séparément.
+
+Par tranche complète de 10 élèves réguliers, la dotation visée [<sup>4</sup> aux alinéas 1 et 2]<sup>4</sup> est fixée :
+
+1° pour le domaine des arts plastiques, visuels et de l'espace à :
+
+a) 60 périodes de cours/année pour la filière préparatoire;
+
+b) 190 périodes de cours/année pour les autres filières;
+
+2° pour le domaine des arts de la parole et du théâtre à :
+
+a) 40 périodes de cours/année pour la filière préparatoire;
+
+b) 130 périodes de cours/année pour les autres filières;
+
+3° pour le domaine de la musique à :
+
+a) 60 périodes de cours/année pour la filière préparatoire;
+
+b) 240 périodes de cours/année pour les autres filières;
+
+4° pour le domaine de la danse à :
+
+a) 25 périodes de cours/année pour la filière préparatoire;
+
+b) 80 périodes de cours/année pour les (filières de formation, de qualification et de transition 1 à 4). &lt;DCFR 2003-07-17/40, art. 7, 005; En vigueur : 01-09-2003&gt;
+
+[c) 240 périodes de cours/année pour la filière de transition à partir de la cinquième année.] &lt;DCFR 2003-07-17/40, art. 7, 005; En vigueur : 01-09-2003&gt;
+
+§ 3. Durant une période transitoire portant sur quatre années scolaires et prenant cours au 1er septembre 1999, les augmentations et les réductions des périodes de cours subventionnables consécutives à l'application du § 2 sont annuellement limitées à 25 % de leur valeur.
+
+(Durant une période de quatre années scolaires et prenant cours au 1er septembre 2003, les augmentations et les réductions des périodes de cours subventionnables de chacun des domaines consécutives à l'application du § 2 sont :
+
+1° suspendues lorsque la différence, positive ou négative, entre la dotation attribuée pour l'année scolaire précédente, et la dotation calculée pour la nouvelle année scolaire est inférieure ou égale à 8 % - appelé indice de stabilité - de la valeur de la dotation attribuée pour l'année scolaire précédente;
+
+2° limitées dans les autres cas à la partie excédent 8 % de la valeur de la dotation attribuée pour l'année scolaire précédente.
+
+Dans chaque domaine de cours, l'addition des réductions de périodes de cours subventionnables consécutive à l'application du § 2 et de l'alinéa précédent constitue les périodes disponibles; dans chaque domaine de cours l'addition des augmentations de périodes de cours subventionnables consécutive à l'application du § 2 et de l'alinéa précédent constitue les périodes demandées. Les périodes de cours disponibles sont réparties, dans chaque domaine d'enseignement, proportionnellement à l'augmentation proméritée, en fonction d'un coefficient de redistribution calculé comme suit : la différence entre les périodes de cours fixées en application de l'article 33 et les périodes de cours accordées pour l'année scolaire précédente est ajoutée aux périodes disponibles; le résultat de cette addition est divisé par le nombre de périodes demandées.) &lt;DCFR 2003-07-17/40, art. 8, 005; En vigueur : 01-09-2003&gt;
+
+[A partir du 1er septembre 2007, le calcul de la dotation citi « l'alinéa 2 est maintenu avec une limitation des réductions de périodes « 25 % de leur valeur et une redistribution au prorata de ces réductions.] &lt;DCFR 2007-07-19/53, art. 1, 011; En vigueur : 01-09-2007&gt;
+
+[<sup>6</sup> A partir du 28 août 2023 et durant une période transitoire de 4 années scolaires, le calcul de la dotation précisé à l'alinéa 2 est modifié. Les augmentations et les réductions de périodes de cours subventionnables consécutives à l'application du § 2 sont :
+
+1° suspendues lorsque la différence entre la dotation calculée pour la nouvelle année scolaire et celle attribuée pour l'année scolaire précédente se situe dans un intervalle compris entre plus 8 % et moins 12 % de la valeur de la dotation attribuée pour l'année scolaire précédente ;
+
+2° limitées dans les autres cas à la partie excédant 8 % en positif et 12 % en négatif de la valeur de la dotation attribuée pour l'année scolaire précédente.
+
+Les effets de cette disposition seront évalués à l'issue de la deuxième année scolaire.
+
+Le maintien de la limitation des réductions de périodes à 25 % de leur valeur et la redistribution au prorata de ces réductions sont confirmés]<sup>6</sup>
+
+§ 4. [<sup>1</sup> Les Pouvoirs organisateurs peuvent, pour une année scolaire, transférer des périodes de cours entre les divers domaines d'enseignement et établissements qu'ils organisent, aux conditions :
+
+\- de garantir les droits du personnel dans le respect des décrets des 1er février 1993 et 6 juin 1994 fixant respectivement le statut des membres du personnel subsidiés de l'enseignement libre et de l'enseignement officiel subventionné;
+
+\- que ces transferts ne donnent pas lieu à des mises en disponibilité par défaut d'emploi ou à des pertes partielles de charge;
+
+\- qu'ils ne dépassent pas 8 % de la dotation du domaine d'origine. [<sup>2</sup> Toutefois, lorsque ces transferts n'ont pas pour résultat un nombre entier de périodes de cours hebdomadaires, ce résultat est arrondi à l'unité supérieure lorsque la première décimale est égale ou supérieure à 5.]<sup>2</sup>;
+
+\- que le pouvoir organisateur motive l'intention pédagogique et artistique du (des) transfert(s), en explique l'adéquation avec le [<sup>3</sup> projet pédagogique et artistique d'établissement visé à l'article 3bis ]<sup>3</sup>, les besoins spécifiques du domaine bénéficiaire ainsi qu'avec l'évolution, les conditions d'enseignement et les besoins spécifiques du domaine d'origine;
+
+\- que la demande soit accompagnée des procès-verbaux de la réunion du Conseil des études au cours de laquelle le point a été abordé et de celui de la COPALOC pour l'enseignement officiel subventionné ou, selon le cas pour l'enseignement libre subventionné, de la réunion du conseil d'entreprise, de l'instance de concertation locale, ou à défaut, de la délégation syndicale réunie pour le même objet.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 4, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2011-01-13/04, art. 24, 017; En vigueur : 01-09-2010&gt;
+
+(3)&lt;DCFR 2014-11-20/08, art. 13, 019; En vigueur : 01-01-2015&gt;
+
+(4)&lt;DCFR 2019-01-10/04, art. 10, 021; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFR 2022-07-07/12, art. 5, 028; En vigueur : 29-08-2022&gt;
+
+(6)&lt;DCFR 2023-07-20/48, art. 19, 030; En vigueur : 28-08-2023&gt;
+
+##### Art. 32
+
+[<sup>1</sup> Le nombre de semaines d'ouverture par année scolaire de l'établissement ou du domaine concerné de l'établissement, hors vacances scolaires, est fixé par le Pouvoir organisateur à 29, 33 ou 37.
+
+Les périodes de cours déterminées conformément à l'article 31 sont réparties en un nombre de périodes/semaines en divisant le nombre de périodes/année par:
+
+\- 32 pour tout établissement ou domaine concerné de l'établissement ouvert en 29 semaines;
+
+\- 36 pour tout établissement ou domaine concerné de l'établissement ouvert en 33 semaines;
+
+\- 40 pour tout établissement ou domaine concerné de l'établissement ouvert en 37 semaines.
+
+Lorsque, pour chaque domaine de cours dispensé dans un établissement, la division du nombre de périodes de cours/année par le nombre de semaines d'ouverture de l'établissement ne donne pas pour résultat un nombre entier, ce résultat est arrondi:
+
+\- à l'unité inférieure lorsque la première décimale consécutive au calcul est inférieure à 5;
+
+\- à l'unité supérieure dans les autres cas.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-03-31/35, art. 209, 029; En vigueur : 29-08-2022&gt;
+
+##### Art. 33
+
+[<sup>1</sup> Pour l'application de l'article 29, et en fonction de la moyenne du nombre d'élèves réguliers des trois dernières années scolaires, le Gouvernement fixe par domaine des coefficients d'ajustement des dotations visées à l'article 31, § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/04, art. 12, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 34
+
+Sans préjudice des dispositions relatives à l'organisation de l'enseignement et de l'article 31, § 4, le choix de l'utilisation des dotations par établissement et par domaine est de la compétence de chaque pouvoir organisateur [<sup>2</sup> pour autant que soit assurée à chaque élève la possibilité de mener à bonne fin les études qu'il a entreprises, dans les années terminales visées à l'article 4, § 2, alinéa 2, c) et d), selon les modalités qui lui ont été communiquées par l'établissement concerné]<sup>2</sup>.
+
+Par dérogation aux dispositions de l'article 31, § 2, lorsque le pouvoir organisateur ne communique pas, (dans un délai de [<sup>1</sup> cinquante jours]<sup>1</sup>) calendrier prenant cours le 1er février, les renseignements permettant de déterminer le nombre d'élèves réguliers à prendre en compte pour fixer la dotation annuelle, celle-ci est fixée, par reconduction et à titre provisoire, à la dotation annuelle de l'année précédente. &lt;DCFR 2003-07-17/40, art. 11, 005; En vigueur : 01-09-2003&gt;
+
+Dans ce cas, la fixation ultérieure de la dotation annuelle définitive ne peut donner lieu à aucune majoration du nombre de périodes de cours attribuées à titre provisoire.
+
+----------
+
+(1)&lt;DCFR 2022-03-31/35, art. 210, 029; En vigueur : 29-08-2022&gt;
+
+(2)&lt;DCFR 2023-09-21/11, art. 12, 033; En vigueur : 28-08-2023&gt;
+
+### Section 2. - Des dotations des humanités artistiques.
+
+##### Art. 35
+
+&lt;DCFR 2003-07-17/40, art. 12, 005; En vigueur : 01-09-2003&gt; Pour l'organisation des périodes d'enseignement visées à l'article 23, chaque pouvoir organisateur dispose d'une dotation annuelle de périodes de cours subventionnables, telle que précisée à l'article 29, calculée par domaine d'enseignement en fonction du nombre d'élèves régulièrement inscrits en humanités artistiques au 1er octobre de l'année scolaire en cours. Cette dotation est réservée à des périodes de cours de l'enseignement obligatoire.
+
+La dotation annuelle de périodes de cours est fixée comme suit :
+
+1° [<sup>1</sup> pour le domaine de la musique :
+
+\- 280 périodes-année par groupes complets de 4 élèves pour les élèves inscrits dans le 2e degré;
+
+\- 360 périodes-année par groupes complets de 3 élèves pour les élèves inscrits dans le 3e degré.]<sup>1</sup>
+
+2° pour le domaine des arts de la parole et du théâtre :
+
+\- 280 périodes-année par groupes complets de 5 élèves, pour les élèves inscrits dans le 2e degré;
+
+\- 360 périodes-année par groupes complets de 4 élèves, pour les élèves inscrits dans le 3e degré;
+
+3° pour le domaine de la danse :
+
+\- option danse classique :
+
+a) 880 périodes-année pour le deuxième degré par groupes comptant jusqu'à 12 élèves;
+
+b) 1120 périodes-année pour le troisième degré par groupes comptant jusqu'à 12 élèves;
+
+\- option danse contemporaine :
+
+a) 680 périodes-année pour le deuxième degré par groupes comptant jusqu'à 12 élèves;
+
+b) 880 périodes-année pour le troisième degré par groupes comptant jusqu'à 12 élèves.
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 42, 013; En vigueur : 01-09-2008&gt;
+
+##### Art. 36
+
+Les dotations annuelles visées à l'article 35 sont exclusivement réservées à l'organisation des périodes de cours des humanités artistiques visées à l'article 23.
+
+### Section 3. - Des dotations des organisations particulières.
+
+##### Art. 37
+
+Pour la durée de l'année scolaire 1998-1999, la dotation annuelle de périodes de cours de chacun des établissements visés à l'article 25 est fixée conformément à l'article 31, § 1er.
+
+A partir de l'année scolaire 1999-2000, la dotation annuelle de périodes de cours de chacun des établissements visés à l'article 25 est fixée conformément à l'article 31, § 2, 1er alinéa, comme suit :
+
+1° pour l'Institut de Rythmique Jaques Dalcroze de Belgique :
+
+a) 9 200 périodes pour les 200 premiers élèves réguliers;
+
+b) 200 périodes supplémentaires par tranche complète de 10 élèves réguliers supplémentaires;
+
+2° pour l'Académie de Musique Saint-Grégoire :
+
+a) 1 800 périodes pour les 100 premiers élèves réguliers;
+
+b) 100 périodes supplémentaires par tranche complète de 5 élèves réguliers supplémentaires.
+
+Les dotations annuelles de périodes de cours visées à l'alinéa 2 ne peuvent excéder les dotations calculées pour la durée de l'année scolaire 1998-1999 conformément à l'alinéa 1er (, augmentées au 1er septembre 1999 de 2 400 périodes octroyées à l'Institut de Rythmique JAQUES-DALCROZE de Belgique). &lt;DCFR 2001-12-20/63, art. 12, 003; En vigueur : 01-01-2002&gt;
+
+##### Art. 38
+
+&lt;Abrogé par DCFR 2019-01-10/04, art. 13, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 38bis
+
+[<sup>1</sup> Dans la limite des crédits alloués à cette fin [<sup>3</sup> ...]<sup>3</sup>, le Gouvernement peut [<sup>3</sup> après avis du Conseil général de l'enseignement secondaire artistique à horaire réduit, autoriser et, s'il échet,]<sup>3</sup> subventionner des initiatives artistiques et des expériences pilotes aux singularités artistiques innovantes.
+
+Les conditions préalables à l'octroi des subventions visées à l'alinéa 1er sont :
+
+1° produire le procès-verbal de la réunion du Conseil des études au cours de laquelle ce point a été abordé;
+
+2° justifier la singularité du projet prouvant qu'il ne peut être intégré dans la structure de l'établissement;
+
+3° démontrer de manière pertinente sa valeur prospective et son apport dans la formation artistique des élèves;
+
+4° mettre en relation les objectifs du projet avec les finalités et objectifs de l'enseignement secondaire artistique à horaire réduit tels que définis dans les articles 3 et 4 du présent décret;
+
+5° intégrer le projet d'expérimentation au [<sup>2</sup> projet pédagogique et artistique d'établissement visé à l'article 3bis]<sup>2</sup>;
+
+6° détailler le nombre de périodes à y consacrer, le programme des activités et leur périodicité ainsi que le nombre et le niveau des élèves concernés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C3, art. 6, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 14, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2023-09-21/11, art. 13, 033; En vigueur : 28-08-2023&gt;
+
+### Section 4. - Des subventions de fonctionnement.
+
+##### Art. 39
+
+[<sup>1</sup> La subvention du fonctionnement visée à l'article 32, § 2, alinéa 7, de la loi du 29 mai 1959 précitée, est calculée sur base d'un montant annuel fixé, à la date d'entrée en vigueur du précédent décret, par élève régulier au sens de l'article 11 :
+
+1° pour les domaines de la musique, des arts de la parole et du théâtre et de danse :
+
+a) 8,92 EUR pour l'élève inscrit dans la filière préparatoire ;
+
+b) 21,57 EUR pour l'élève inscrit dans les filières de formation, de qualification ou de transition ;
+
+2° pour le domaine des arts plastiques, visuels et de l'espace :
+
+a) 25,29 EUR pour l'élève inscrit dans la filière préparatoire ;
+
+b) 60,74 EUR pour l'élève inscrit dans les filières de formation, de qualification ou de transition ;
+
+3° pour l'élève régulièrement inscrit dans plusieurs domaines d'enseignement, la subvention de fonctionnement est calculée séparément pour chacun des domaines concernés ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2026-06-05/27, art. 1, 036; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE IV. - De la rationalisation et de la programmation de l'enseignement secondaire artistique à horaire réduit.
+
+##### Art. 40
+
+Une norme exprimée en un nombre minimum d'élèves réguliers est fixée pour :
+
+1° la rationalisation, c'est-à-dire le maintien et le subventionnement des établissements et des domaines [<sup>1</sup> ...]<sup>1</sup> visés à l'article 4, § 1er;
+
+2° la programmation, c'est-à-dire la création et l'admission aux subventions de nouveaux établissements et domaines visés à l'article 4, § 1er.
+
+La norme de rationalisation visée à l'alinéa 1er est fixée à :
+
+1° 350 élèves réguliers pour l'ensemble des domaines organises par l'établissement d'enseignement secondaire artistique à horaire réduit;
+
+2° 120 élèves réguliers pour le domaine des arts plastiques, visuels et de l'espace;
+
+3° 40 élèves réguliers pour le domaine des arts de la parole et du théâtre;
+
+4° 200 élèves réguliers pour le domaine de la musique;
+
+5° 40 élèves réguliers pour le domaine de la danse.
+
+La norme de programmation visée à l'alinéa 1er, 2°, est fixée à 250 % de la norme de rationalisation.
+
+La norme de rationalisation visée à l'alinéa 2, 1°, est fixée à 80 % de sa valeur pour l'établissement seul de son réseau à être situé ou à entretenir des implantations dans un rayon de 50 kilomètres.
+
+----------
+
+(1)&lt;DCFR 2019-01-10/04, art. 15, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 41
+
+Par dérogation à l'article 40, la norme de rationalisation pour le maintien des établissements visés à l'article 25 est fixée à :
+
+1° 200 élèves réguliers pour l'Institut de Rythmique Jacques Dalcroze de Belgique;
+
+2° 100 élèves réguliers pour l'Académie de Musique Saint-Grégoire.
+
+##### Art. 41bis
+
+[<sup>1</sup> Les conditions préalables auxquelles la programmation et l'admission aux subventions de nouveaux établissements et domaines peuvent être, dans la limite des crédits disponibles, proposées au Gouvernement sont :
+
+1\. être situé à plus de 30 km d'un établissement ou d'une implantation d'établissement organisant le ou les domaines concernés;
+
+2\. respecter [<sup>4</sup> l'article 1.7.3-1, § 2 du Code précité]<sup>4</sup> certaines dispositions de la législation de l'enseignement;
+
+3\. justifier d'un [<sup>2</sup> projet pédagogique et artistique d'établissement, tel que visé à l'article 3bis,]<sup>2</sup> démontrant de manière pertinente, les apports du nouveau domaine ou du nouvel établissement;
+
+4\. disposer pour les cours qui y seront organisés, des programmes de cours approuvés par le Ministre ayant l'Enseignement secondaire artistique à Horaire réduit dans ses attributions;
+
+5\. avoir reçu l'avis du [<sup>3</sup> Conseil général]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 7, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 15, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2019-01-10/04, art. 16, 021; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2024-05-16/79, art. 50, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 42
+
+La rationalisation et la programmation sont appliquées par réseau d'enseignement.
+
+Les réseaux d'enseignement visés à l'alinéa 1er sont :
+
+1° le réseau de l'enseignement officiel subventionné qui comprend les établissements visés à l'article 1er, 3°, organisés par les provinces, communes, les associations de communes ou toutes autres personnes morales de droit public;
+
+2° le réseau de l'enseignement libre subventionné qui comprend les établissements visés à l'article 1er, 3°, organisés par des personnes privées.
+
+##### Art. 43
+
+Tout établissement qui n'atteint pas la norme de rationalisation visée aux articles 40 et 41 est déclaré en voie de fermeture.
+
+Tout établissement qui, à partir de l'année scolaire 1997-1998 et durant deux années scolaires consécutives, n'atteint pas la norme de rationalisation visée aux articles 40 et 41 perd son autonomie au premier jour de l'année scolaire suivante.
+
+Il peut être fusionné avec un autre établissement d'enseignement secondaire artistique à horaire réduit dont il devient une implantation telle que prévue par [<sup>1</sup> l'article 1.7.3-1, § 2 du Code précité]<sup>1</sup>.
+
+A défaut de fusion, le pouvoir organisateur procède à la fermeture de tous les domaines qu'il organise dans l'établissement visé à l'alinéa 1er.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/79, art. 51, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 44
+
+Les pouvoirs organisateurs peuvent décider de procéder, à la fin d'une année scolaire, à la fusion des établissements d'enseignement secondaire artistique à horaire réduit qu'ils organisent afin de constituer un nouvel établissement pour autant que cet établissement atteigne, à la date de fusion, la norme de rationalisation visée à l'article 40.
+
+Un des sièges d'origine devient le siège du nouvel établissement, le ou les autres sièges d'origine devenant des implantations du nouvel établissement.
+
+##### Art. 45
+
+[<sup>1</sup> § 1. [<sup>4</sup> en référence à la dérogation prévue à l'article 1.7.3-1, § 2 du Code précité]<sup>4</sup>, la dérogation accordée dans des cas exceptionnels pour l'organisation de cours en dehors du territoire de la commune peut être, dans la limite des crédits disponibles, accordée dans les conditions suivantes :
+
+a) l'absence d'enseignement du (des) même(s) domaine(s) dans un rayon de 15 kilomètres;
+
+b) [<sup>2</sup> la mise en place d'un projet pédagogique en relation directe avec le projet pédagogique et artistique d'établissement visé à l'article 3bis et les projets éducatifs des communes concernées;]<sup>2</sup>
+
+c) l'avis favorable du Conseil des études;
+
+d) un projet de convention entre [<sup>3</sup> le pouvoir organisateur de l'établissement d'enseignement secondaire artistique à horaire réduit et l'autre partie]<sup>3</sup> accompagné des délibérations des conseils communaux ou conseils d'administration concernés;
+
+e) le respect des titres et fonctions fixés par le présent décret et des dispositions statutaires fixées par les décrets des 6 juin 1994 pour l'enseignement officiel subventionné et du 1er février 1993 pour l'enseignement libre subventionné;
+
+f) que la demande soit accompagnée de l'avis de la COPALOC pour l'enseignement officiel subventionné ou, selon le cas pour l'enseignement libre subventionné, de la réunion du conseil d'entreprise, de l'instance de concertation locale, ou à défaut, de la délégation syndicale réunie pour le même objet;
+
+g) l'avis du [<sup>3</sup> Conseil général]<sup>3</sup>.
+
+§ 2. Par dérogation à [<sup>4</sup> l'article 1.7.3-1, § 2 du Code précité]<sup>4</sup>, l'obligation pour un établissement d'organiser ses cours sur le territoire de la même commune n'est pas imposée pour les établissements issus des fusions visées aux articles 43 et 44. Dans ce cas, une dérogation n'est pas nécessaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 8, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 16, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2019-01-10/04, art. 17, 021; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2024-05-16/79, art. 52, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 46
+
+[<sup>1</sup> Tout domaine d'enseignement d'un établissement qui, à partir de l'année scolaire 1998-1999, n'atteint pas au 31 janvier de l'année scolaire en cours la norme de rationalisation visée à l'article 40 est déclaré en voie de fermeture.
+
+Tout domaine d'enseignement qui n'atteint pas la norme de rationalisation précitée durant deux années scolaires consécutives est déclaré définitivement fermé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 17, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 46bis
+
+[<sup>1</sup> Par dérogation aux articles 40, 41, 43, 44 et 46 du même décret, les normes de rationalisation ne sont pas d'application durant l'année scolaire 2021-2022. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-07-07/12, art. 6, 028; En vigueur : 01-09-2021&gt;
+
+##### Art. 47
+
+Un pouvoir organisateur en voie de cessation de ses activités dans l'enseignement secondaire artistique à horaire réduit par fermeture définitive d'un ou de plusieurs de ses domaines d'enseignement peut transférer au 31 août à un autre pouvoir organisateur du même réseau les dotations de périodes de cours auxquelles il aurait pu prétendre en application de l'article 31, § 2, à condition de garantir les droits du personnel dans les limites des décrets des 1er février 1993 et 6 juin 1994 précités.
+
+##### Art. 48
+
+&lt;DCFR 2003-07-17/40, art. 13, 005; En vigueur : 01-09-2003&gt; Par dérogation aux dispositions de l'article 44, une norme spécifique de rationalisation et de programmation est fixée par domaine d'enseignement pour le maintien et la création des humanités artistiques visées à l'article 23.
+
+La norme de rationalisation visée à l'alinéa 1er est fixée à un nombre minimum de 5 élèves régulièrement inscrits au 1er octobre de l'année scolaire en cours, en humanités artistiques, dans le domaine d'enseignement concerné, pour le deuxième degré et à 4 élèves pour le troisième degré.
+
+La norme de programmation visée à l'alinéa 1er est fixée à un nombre minimum de 10 élèves régulièrement inscrits au 1er octobre de l'année scolaire en cours, en humanités artistiques, dans le domaine d'enseignement concerné, pour le deuxième degré et à 8 élèves inscrits pour le troisième degré.
+
+Lorsque le domaine d'enseignement ne répond plus aux normes de rationalisation prévues à l'alinéa 2, le pouvoir organisateur concerné refuse toute nouvelle inscription et continue à organiser les périodes de cours permettant aux élèves restant inscrits de terminer le cycle d'études secondaires entrepris.
+
+## CHAPITRE V. - Des fonctions, des emplois subventionnés et du statut pécuniaire des membres du personnel.
+
+### Section 1. - Des fonctions.
+
+##### Art. 49
+
+Les fonctions que peuvent exercer les membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation des établissements d'enseignement secondaire artistique à horaire réduit comprennent des fonctions de recrutement, de sélection ou de promotion classées en deux catégories :
+
+1° la catégorie du personnel directeur et enseignant;
+
+2° la catégorie du personnel auxiliaire d'éducation.
+
+##### Art. 50
+
+Les fonctions que peuvent exercer les membres du personnel directeur sont classées en fonction de sélection et en fonction de promotion :
+
+1° fonction de sélection : [<sup>1</sup> directeur adjoint]<sup>1</sup>;
+
+2° fonction de promotion : directeur.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 143,29°, 023; En vigueur : 01-09-2019&gt;
+
+##### Art. 51
+
+§ 1er. Les fonctions que peuvent exercer les membres du personnel enseignant sont classées en fonction de recrutement.
+
+Lorsqu'une fonction comporte plusieurs spécialités, chacune de ses spécialités constitue une fonction distincte.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+§ 2. [<sup>6</sup> Les fonctions que peuvent exercer les membres du personnel enseignant dans le domaine des arts plastiques, visuels et de l'espace sont celles de professeur :
+
+1° d'aménagement d'intérieur et décoration ;
+
+2° d'art du livre : reliure ;
+
+3° d'art du livre : typographie et étude de la lettre ;
+
+4° d'art du verre ;
+
+5° d'arts monumentaux ;
+
+6° d'arts numériques ;
+
+7° de bijouterie ;
+
+8° de céramique ;
+
+9° de cinégraphie ;
+
+10° de cinéma d'animation ;
+
+11° de création textile ;
+
+12° de design ;
+
+13° de dessin ;
+
+14° de dessin d'architecture et maquettisme ;
+
+15° d'ébénisterie ;
+
+16° de ferronnerie ;
+
+17° de formation pluridisciplinaire ;
+
+18° de gravure ;
+
+19° d'histoire de l'art et analyse esthétique ;
+
+20° d'illustration et bande dessinée ;
+
+21° d'infographie ;
+
+22° de lithographie ;
+
+23° de métal ;
+
+24° de peinture ;
+
+25° de photographie ;
+
+26° de poterie ;
+
+27° de pratiques expérimentales ;
+
+28° de publicité et communication visuelle ;
+
+29° de restauration d'oeuvres et d'objets d'art ;
+
+30° de scénographie ;
+
+31° de sculpture ;
+
+32° de sérigraphie ;
+
+33° de stylisme, parures et masques ;
+
+34° de techniques artistiques ;
+
+35° de technologie de la terre et des émaux ;
+
+36° de vidéographie ;
+
+37° de vitrail.]<sup>6</sup>
+
+§ 3. [<sup>6</sup> Les fonctions que peuvent exercer les membres du personnel enseignant dans le domaine de la musique sont celles de professeur :
+
+1° de formation musicale ;
+
+2° de formation générale jazz ;
+
+3° de formation instrumentale, pour chacune des spécialités suivantes :
+
+1\) accordéon chromatique ;
+
+2\) accordéon diatonique ;
+
+3\) alto ;
+
+4\) basson ;
+
+5\) basson baroque et classique ;
+
+6\) carillon ;
+
+7\) clarinette ;
+
+8\) clavecin ;
+
+9\) contrebasse ;
+
+10\) cor ;
+
+11\) cor naturel ;
+
+12\) cornemuse et musette ;
+
+13\) cornet à bouquin ;
+
+14\) flûte à bec ;
+
+15\) flûte traversière ;
+
+16\) flûte traversière baroque et classique ;
+
+17\) guitare ;
+
+18\) guitare électrique ;
+
+19\) harpe ;
+
+20\) hautbois ;
+
+21\) hautbois baroque et classique ;
+
+22\) luth ;
+
+23\) mandoline ;
+
+24\) orgue ;
+
+25\) percussions ;
+
+26\) piano ;
+
+27\) pianoforte ;
+
+28\) saxophone ;
+
+29\) trombone à coulisse ;
+
+30\) trompette ;
+
+31\) trompette naturelle ;
+
+32\) tuba ;
+
+33\) viole de gambe ;
+
+34\) violon ;
+
+35\) violon baroque ;
+
+36\) violoncelle ;
+
+37\) violoncelle baroque ;
+
+4° de formation instrumentale jazz, pour chacune des spécialités suivantes :
+
+1\) accordéon jazz ;
+
+2\) batterie jazz ;
+
+3\) bois jazz ;
+
+4\) claviers jazz ;
+
+5\) contrebasse jazz ;
+
+6\) cuivres jazz ;
+
+7\) guitare jazz ;
+
+8\) guitare basse jazz ;
+
+9\) harmonica jazz ;
+
+10\) vibraphone jazz ;
+
+11\) violon jazz ;
+
+5° de formation instrumentale de tradition locale ;
+
+6° de chant ;
+
+7° de chant jazz ;
+
+8° de chant pop ;
+
+9° d'analyse et écriture musicales ;
+
+10° de création musicale numérique ;
+
+11° de composition de musique électroacoustique ;
+
+12° de chant choral ;
+
+13° de rythmes et rythmiques ;
+
+14° de lecture à vue instrumentale et transposition ;
+
+15° d'histoire de la musique et analyse musicale ;
+
+16° d'improvisation musicale ;
+
+17° de musique de chambre instrumentale ;
+
+18° d'art lyrique ;
+
+19° d'ensemble instrumental ;
+
+20° d'expression corporelle ;
+
+21° chargé de l'accompagnement au clavecin ;
+
+22° chargé de l'accompagnement à l'orgue ;
+
+23° chargé de l'accompagnement au piano.]<sup>6</sup>
+
+§ 4. Les fonctions que peuvent exercer les membres du personnel enseignant dans le domaine des arts de la parole et du théâtre sont celles de :
+
+1° professeur de diction - déclamation;
+
+2° professeur d'art dramatique;
+
+3° professeur d'histoire de la littérature et d'histoire du théâtre;
+
+4° professeur d'expression corporelle;
+
+5° professeur chargé de l'accompagnement au clavecin;
+
+6° professeur chargé de l'accompagnement à l'orgue;
+
+7° professeur chargé de l'accompagnement au piano;
+
+[<sup>1</sup> 8° [<sup>4</sup> ...]<sup>4</sup>]<sup>1</sup>
+
+§ 5. [<sup>6</sup> Les fonctions que peuvent exercer les membres du personnel enseignant dans le domaine de la danse sont celles de professeur :
+
+1° de danse classique ;
+
+2° de danse contemporaine ;
+
+3° de danse jazz ;
+
+4° de claquettes ;
+
+5° de danse traditionnelle ;
+
+6° de danses urbaines ;
+
+7° chargé de l'accompagnement au piano dans le domaine de la danse ;
+
+8° chargé de l'accompagnement aux percussions dans le domaine de la danse ;
+
+9° chargé de l'accompagnement des cours de danse traditionnelle.]<sup>6</sup>
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 43, 013; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCFR 2009-04-30/C3, art. 9, 016; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFR 2014-11-20/08, art. 18, 019; En vigueur : 01-01-2015&gt;
+
+(4)&lt;DCFR 2019-01-10/04, art. 18, 021; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFR 2022-07-07/12, art. 7, 028; En vigueur : 29-08-2022&gt;
+
+(6)&lt;DCFR 2023-09-21/11, art. 14, 033; En vigueur : 26-08-2024&gt;
+
+##### Art. 52
+
+La fonction de surveillant-éducateur que peuvent exercer les membres du personnel auxiliaire d'éducation est classée en fonction de recrutement.
+
+### Section 2. - Des emplois subventionnés.
+
+##### Art. 53
+
+Seuls sont subventionnés les emplois de directeur, [<sup>1</sup> directeur adjoint]<sup>1</sup>, professeur, surveillant-éducateur et intervenant créés et maintenus, dans les conditions fixées par le présent décret, pour l'ensemble des domaines d'un établissement d'enseignement secondaire artistique à horaire réduit.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 143,29°, 023; En vigueur : 01-09-2019&gt;
+
+##### Art. 54
+
+Dans tout établissement d'enseignement secondaire artistique à horaire réduit est crée et maintenu un emploi de directeur à prestations complètes visé à l'article 69, alinéa 2.
+
+Cet emploi ne peut être réparti sur plusieurs membres du personnel.
+
+Les activités de directeur d'un établissement d'enseignement secondaire artistique à horaire réduit sont limitées, indépendamment des heures d'ouverture de l'établissement qu'il dirige, au nombre de périodes constituant les prestations complètes.
+
+##### Art. 54bis
+
+[<sup>1</sup> L'emploi de directeur visé à l'article 54 ne peut être scindé.
+
+Sans préjudice de l'alinéa précédent, l'établissement dont le directeur obtient une réduction de son temps de travail en vertu soit:
+
+a) de l'article 19 de l'arrêté royal du 15 janvier 1974 pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements;
+
+b) de l'article 22ter de l'arrêté royal du 15 janvier 1974 précité;
+
+c) de l'article 10ter de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux;
+
+d) de l'article 10quatorduodecies/1 de l'arrêté royal n° 297 précité;
+
+e) de l'article 3, alinéa 1er de l'arrêté de l'exécutif de la Communauté française du 3 décembre 1992 relatif à l'interruption de la carrière professionnelle dans l'enseignement et les centres psycho-médico-sociaux,
+
+[<sup>2</sup> f) de l'article 10duodecies, § 8, de l'arrêté royal n° 297 précité, ]<sup>2</sup>
+
+se voit octroyer, pour seconder son directeur, un emploi temporaire de directeur adjoint à temps partiel à partir de la date d'activation de la disposition visée, et ce, respectivement à mi-temps (situations a et b), à quart-temps [<sup>2</sup> (situations c, d et f)]<sup>2</sup> ou à un cinquième-temps (situation e). Cet emploi ne peut faire l'objet d'une nomination ou d'un engagement à titre définitif. [<sup>2</sup> A l'exception de la situation où l'emploi temporaire octroyé dans le cadre du point f est maintenu dans le cadre du point d,]<sup>2</sup> il est supprimé dès que la disposition visée n'est plus d'application.
+
+Le directeur adjoint visé à l'alinéa précédent et qui:
+
+a) preste un mi-temps est tenu de prester 18 périodes par semaine réparties sur au minimum 3 jours par semaine quel que soit le nombre de jours d'ouverture hebdomadaire de l'établissement;
+
+b) preste un quart-temps est tenu de prester 9 périodes par semaine réparties sur au minimum 2 jours par semaine quel que soit le nombre de jours d'ouverture hebdomadaire de l'établissement;
+
+c) preste un cinquième-temps est tenu de prester 7 périodes par semaine réparties sur au minimum 2 jours par semaine quel que soit le nombre de jours d'ouverture hebdomadaire de l'établissement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-02-04/17, art. 29, 026; En vigueur : 03-02-2021&gt;
+
+(2)&lt;DCFR 2023-03-16/06, art. 24, 031; En vigueur : 29-08-2022&gt;
+
+##### Art. 55
+
+§ 1er. Dans un établissement d'enseignement secondaire artistique à horaire réduit, un emploi de [<sup>1</sup> directeur adjoint]<sup>1</sup> à prestations complètes peut être créé lorsque le nombre d'élèves réguliers est, durant deux années scolaires consécutives, supérieur à 1 100 dont 500 élèves au moins inscrits dans une filière autre que préparatoire.
+
+L'emploi visé à l'alinéa 1er est maintenu aussi longtemps que l'établissement compte 800 élèves réguliers.
+
+§ 2. Par dérogation au § 1er, un emploi de [<sup>1</sup> directeur adjoint]<sup>1</sup> est créé dans tout nouvel établissement issu de la fusion visée aux articles 43 et 44 afin de procéder, pour le directeur en fonction principale mis en disponibilité par défaut d'emploi et ne pouvant être réaffecté, à un rappel provisoire à l'activité ou en service dans l'emploi ainsi créé.
+
+Sans préjudice du § 1er, l'emploi de [<sup>1</sup> directeur adjoint]<sup>1</sup> visé à l'alinéa 1er est supprimé lorsqu'il est mis fin au rappel provisoire à l'activité ou en service du directeur mis en disponibilité.
+
+(§ 3. Les emplois de [<sup>1</sup> directeur adjoint]<sup>1</sup> peuvent être confiés à deux membres du personnel qui sont chargés chacun d'une demi charge, après avis préalable, dans l'enseignement officiel subventionné par la Communauté française, de la commission paritaire locale, et dans l'enseignement libre subventionné par la Communauté française, du conseil d'entreprise ou, à défaut, de la délégation syndicale, avec droit d'évocation du bureau de conciliation en cas de désaccord.) &lt;DCFR 2007-02-02/52, art. 126, 009; En vigueur : 01-09-2007&gt;
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 143,29°, 023; En vigueur : 01-09-2019&gt;
+
+##### Art. 56
+
+Sur avis du Conseil des études visé à l'article 19, les emplois à prestations complètes ou incomplètes des professeurs sont déterminés par chaque pouvoir organisateur concerné dans les limites des dotations annuelles prévues (aux articles 30, 31, 35 et 37). &lt;DCFR 2003-07-17/40, art. 16, 005; En vigueur : 01-09-2003&gt;
+
+[<sup>2</sup> Les emplois à prestations incomplètes peuvent être créés à raison d'une période hebdomadaire subventionnable à titre temporaire uniquement. Le membre du personnel désigné ou engagé à titre temporaire dans une fonction ne pourra être nommé ou engagé à titre définitif que lorsqu'au moins deux périodes définitivement vacantes dans la fonction concernée pourront lui être attribuées dans le respect des règles de priorité.]<sup>2</sup>
+
+[<sup>1</sup> Ces périodes sont déclarées vacantes après trois années d'organisation. A défaut, le pouvoir organisateur motive l'impossibilité de déclarer l'emploi vacant et soumet la motivation à l'organe de concertation compétent.]<sup>1</sup>
+
+Les dispositions reprises à l'alinéa 2 ne s'appliquent pas à l'emploi à prestations incomplètes pouvant être attribué à un membre du personnel engagé ou nommé à titre définitif qui peut bénéficier d'une extension de cet engagement ou de cette nomination en application de l'article 41bis du décret du 1er février 1993 précité ou de (l'article 33, alinéa 2), du décret du 6 juin 1994 précité. &lt;DCFR 1999-02-08/37, art. 44, 002; En vigueur : 01-09-1998&gt;
+
+En cas de diminution du nombre de périodes constituant un emploi à prestations complètes ou incomplètes visé à l'alinéa 1er, attribué à un membre du personnel engagé ou nommé à titre définitif, cet emploi est :
+
+1° soit totalement supprimé lorsque la diminution du nombre de périodes porte sur la totalité de la charge de l'emploi en cause;
+
+2° soit partiellement supprimé lorsque la diminution du nombre de périodes porte sur au moins [<sup>2</sup> deux]<sup>2</sup> périodes de cours hebdomadaires sans atteindre la totalité de la charge de l'emploi en cause;
+
+3° soit maintenu lorsque la diminution du nombre de périodes est inférieure à [<sup>2</sup> deux]<sup>2</sup> périodes de cours hebdomadaires sans atteindre la totalité de la charge de l'emploi en cause. Dans ce cas, et à concurrence de la diminution de périodes en cause, le membre du personnel est chargé d'activités d'enseignement en rapport avec la (les) fonction(s) qu'il exerce.
+
+Les emplois occupés par des membres du personnel mis en perte partielle de charge ou en disponibilité par défaut d'emploi et qui font l'objet d'une réaffectation, d'un rappel provisoire à l'activité ou d'une remise au travail dans un ou plusieurs emplois créés dans les limites des dotations annuelles visées à l'alinéa 1er sont comptabilisés à charge de ces dotations.
+
+Les emplois des membres du personnel mis en perte partielle de charge ou en disponibilité par défaut d'emploi qui n'ont pas fait l'objet d'une réaffectation, d'un rappel provisoire à l'activité ou d'une remise au travail et pour lesquels une subvention-traitement d'attente est octroyée ne sont pas comptabilisés à charge des dotations annuelles visées à l'alinéa 1er durant l'année scolaire pendant laquelle se produit la perte partielle de charge ou la disponibilité par défaut d'emploi.
+
+[<sup>1</sup> Dans un établissement qui ne subit pas de réduction de dotation de périodes de cours dans un domaine donné, les emplois des membres du personnel mis en perte partielle de charge ou en disponibilité par défaut d'emploi sont comptabilisés à charge des dotations de l'établissement à partir de la deuxième année scolaire, si à ce moment ces emplois ne font pas l'objet d'une réaffectation, d'un rappel provisoire à l'activité ou d'une remise au travail, dans les limites des dotations annuelles visées à l'alinéa 1er du domaine concerné.]<sup>1</sup>
+
+[<sup>3</sup> Lorsque, sur base de la correspondance entre les cours et les fonctions d'enseignement visée à l'article 4, § 3bis, un cours est associé à plusieurs fonctions, la désignation d'un membre du personnel dans une des fonctions correspondant à ce cours ne peut aboutir à la mise en disponibilité par défaut d'emploi ou à la perte partielle de charge d'un membre du personnel nommé ou engagé à titre définitif dans toutes les fonctions associées à ce cours. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 19, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2019-01-10/04, art. 19, 021; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2022-07-07/12, art. 8, 028; En vigueur : 29-08-2022&gt;
+
+##### Art. 57
+
+§ 1er. [<sup>1</sup> Chaque emploi visé aux articles 55, 56 et 60 comporte une charge horaire hebdomadaire prestée par le membre du personnel selon une grille-horaire établie par le chef d'établissement.]<sup>1</sup>
+
+Toute modification de la grille-horaire visée à l'alinéa 1er est du ressort du chef d'établissement [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. Pour l'application du paragraphe 1er, sont comptabilisées dans la charge de cours hebdomadaire, les prestations rendues concomitamment avec une ou plusieurs périodes de cours :
+
+1° pour le Conseil des études visé à l'article 19 ou lors de sessions d'évaluation ou d'examen organisées dans un des établissements où le professeur exerce des prestations;
+
+2° lors de participations à des activités pédagogiques ou de formation approuvées par le Gouvernement;
+
+3° lors de participations en qualité de membre des jurys des Commissions d'examen d'aptitude pédagogique à l'enseignement visées à l'article 110.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 20, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 58
+
+Sur avis du Conseil des études visé à l'article 19, les emplois de professeurs sont déterminés par chaque pouvoir organisateur concerné dans les limites des dotations annuelles prévues ([<sup>1</sup> aux articles 35 et 37]<sup>1</sup>). &lt;DCFR 2003-07-17/40, art. 17, 005; En vigueur : 01-09-2003&gt;
+
+Les emplois visés à l'alinéa 1er ne peuvent être proposés par le pouvoir organisateur pour un engagement ou une nomination à titre définitif.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/79, art. 53, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 59
+
+§ 1er. Sur avis du Conseil des études visé à l'article 19, les charges de cours des intervenants sont déterminées par chaque pouvoir organisateur concerné dans les limites des dotations de périodes de cours prévues aux articles 30, 31, 35, 37 et [<sup>2</sup> 38bis]<sup>2</sup>.
+
+Le nombre de périodes de cours annuellement attribuées aux charges de cours des intervenants dans un établissement ne peut excéder 4 % du total des dotations visées à l'alinéa 1er attribuées à cet établissement.
+
+§ 2. Un intervenant dans l'enseignement secondaire artistique à horaire réduit est un membre du personnel qui n'est pas soumis aux dispositions statutaires applicables aux catégories des personnels de l'enseignement et auquel sont attribuées, sur la base de ses compétences particulières, une ou plusieurs charges de cours.
+
+Le total des prestations de l'intervenant ne peut dépasser 320 périodes sur l'ensemble d'une année scolaire, en ce compris les périodes éventuellement prestées en fonction accessoire ou en fonction non exclusive en cumul avec une fonction principale.
+
+[<sup>1</sup> Pour la fonction visée au présent paragraphe, une période représente une activité d'enseignement d'une durée de cinquante minutes.]<sup>1</sup>
+
+§ 3. En cas de refus d'admission aux subventions de la charge de cours visée au § 1er, les périodes de cours en cause restent à disposition du pouvoir organisateur concerné.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 21, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 54, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 59bis
+
+[<sup>1</sup> 1er. Sur avis de l'assemblée générale du Conseil des études visée à l'article 19, les charges de remédiation sont déterminées par chaque Pouvoir organisateur concerné dans les limites des dotations de périodes de cours prévues aux articles 30, 31, 35 et 37.
+
+§ 2. Un professeur chargé de la remédiation dans l'enseignement secondaire artistique à horaire réduit est un membre du personnel soumis aux dispositions statutaires applicables aux catégories des personnels de l'enseignement.
+
+La remédiation est intégrée à l'horaire des enseignants dans les fonctions, visées à l'article 51, qu'ils exercent.
+
+§ 3. Dans un établissement d'enseignement secondaire artistique à horaire réduit, le nombre de périodes de cours attribué annuellement par domaine à la remédiation est limité à deux périodes hebdomadaires par tranche entamée de 500 élèves inscrits dans le domaine concerné]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-05-24/15, art. 28, 020; En vigueur : 03-07-2017&gt;
+
+##### Art. 60
+
+[<sup>1</sup> Pour le ou les établissements d'enseignement secondaire artistique à horaire réduit organisés par un même pouvoir organisateur, les emplois de surveillants-éducateurs peuvent être créés et maintenus à raison d'un emploi à quart temps (9 périodes) pour chaque tranche entamée de 350 élèves réguliers. ]<sup>1</sup>
+
+[<sup>1</sup> Le nombre total de périodes de surveillants-éducateurs obtenues par un pouvoir organisateur, visé à l'alinéa 1er, peut être réparti en un ou plusieurs emplois à quart temps, à mi-temps, à trois quarts temps ou à temps plein.]<sup>1</sup>
+
+[<sup>1</sup> Les emplois à quart temps (9 périodes) visés à l'alinéa 1er ne peuvent être fractionnés entre plusieurs membres du personnel. ]<sup>1</sup>
+
+Les prestations subventionnables visées au premier alinéa sont réparties par le Pouvoir organisateur entre les divers établissements autonomes qu'il organise en fonction des nécessités de fonctionnement de ceux-ci.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 22, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 61
+
+Les emplois subventionnables vises aux articles 55 et 60 sont fixes pour la durée de l'année scolaire en fonction du nombre d'élèves réguliers de l'année scolaire précédente au sens de l'article 11.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, pour l'année scolaire 2022-2023, ces emplois sont fixés en fonction du nombre d'élèves réguliers au 31 janvier 2020 au sens de l'article 11.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-07-07/12, art. 9, 028; En vigueur : 29-08-2022&gt;
+
+##### Art. 62
+
+Lorsque l'application de l'article 60 a pour effet de déterminer un nombre d'emplois ou de fractions d'emplois subventionnables de surveillants-éducateurs inférieur au nombre d'emplois ou de fractions d'emplois subventionnés au 31 janvier 1998, les emplois ou fractions d'emplois excédentaires subventionnes attribués à des membres du personnel nommés à titre définitif en fonction principale peuvent être maintenus aussi longtemps que ces membres du personnel restent titulaires de ceux-ci.
+
+##### Art. 63
+
+Pour la durée de l'année scolaire 1998-1999, les emplois subventionnables de surveillants-éducateurs sont ceux fixés et subventionnés au 31 août 1998, adaptés, s'il échet, à la mise en application du nouveau statut pécuniaire fixée par l'article 98.
+
+### Section 3. - Du statut pécuniaire.
+
+#### Sous-section 1. - De la terminologie et des règles générales de fixation des échelles.
+
+##### Art. 64
+
+Les traitements annuels des membres du personnel soumis aux dispositions du présent décret sont fixés par des échelles comprenant :
+
+1° un traitement minimum;
+
+2° des traitements dénommés " échelons " résultant des augmentations périodiques c'est-à-dire des augmentations annales et biennales;
+
+3° un traitement maximum.
+
+Les traitements et augmentations périodiques sont exprimés en un nombre d'unités monétaires correspondant à leur montant annuel.
+
+L'échelle de chaque fonction est rangée, soit dans la classe dite " 20 ans ", soit dans la classe dite " 21 ans ", soit dans la classe dite " 22 ans ", soit dans la classe dite " 24 ans ".
+
+Les échelles de traitement sont désignées par des numéros qui les identifient ainsi que par des indices qui mentionnent le traitement minimum, le traitement maximum, la classe, ainsi que le nombre et le montant des augmentations périodiques.
+
+##### Art. 65
+
+Pour chacune des fonctions visées à l'article 53, le Gouvernement fixe les échelles de traitement conformément à l'article 64.
+
+##### Art. 66
+
+L'article 64 ne s'applique pas aux membres du personnel engagés ou nommés à titre définitif et bénéficiant la veille de l'entrée en vigueur du présent décret d'un régime transitoire qui leur reste applicable jusqu'au terme de leur carrière.
+
+##### Art. 67
+
+Par dérogation à l'article 64, le traitement visé à l'article 72, alinéa 3, est calculé sur base des échelles de traitement appliquées au 31 janvier 1996.
+
+#### Sous-section 2. - Des fonctions principales.
+
+##### Art. 68
+
+Le membre du personnel directeur, du personnel enseignant et du personnel auxiliaire d'éducation occupé dans l'enseignement secondaire artistique à horaire réduit est considéré en fonction principale à prestations complètes ou incomplètes lorsqu'il ne se trouve dans aucune des situations visées à l'article 71.
+
+##### Art. 69
+
+Le membre du personnel directeur, du personnel enseignant et du personnel auxiliaire d'éducation occupé dans l'enseignement secondaire artistique à horaire réduit est considéré comme titulaire d'une fonction principale à prestations complètes dans cet enseignement lorsqu'il y preste au moins le nombre minimum de périodes requises pour sa fonction dans un ou plusieurs établissements.
+
+Le nombre de périodes visé à l'alinéa 1er est fixé à trente-six par semaine pour les fonctions de directeur, de [<sup>1</sup> directeur adjoint]<sup>1</sup> et de surveillant-éducateur.
+
+Pour les fonctions visées à l'alinéa 2, une période représente une durée d'activité de soixante minutes.
+
+Le nombre de périodes visé à l'alinéa 1er est fixé à vingt-quatre par semaine pour la fonction de professeur de cours artistiques.
+
+Pour la fonction visée à l'alinéa 4, une période représente une activité d'enseignement d'une durée de cinquante minutes.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 143,29°, 023; En vigueur : 01-09-2019&gt;
+
+##### Art. 70
+
+Le membre du personnel enseignant et du personnel auxiliaire d'éducation, qui exerce des fonctions principales à prestations incomplètes soit dans un ou plusieurs établissements d'enseignement secondaire artistique à horaire réduit, soit dans un ou plusieurs établissements d'enseignement secondaire artistique à horaire réduit et dans d'autres types d'enseignement organisés ou subventionnés par la Communauté française est considéré comme titulaire d'une fonction principale à prestations complètes lorsque la somme des valeurs relatives des fractions horaires de ses différentes fonctions atteint l'unité.
+
+Le membre du personnel exerçant la fonction de directeur est toujours titulaire d'une fonction à prestations complètes dans l'enseignement secondaire artistique à horaire réduit.
+
+#### Sous-section 3. - Des fonctions accessoires.
+
+##### Art. 71
+
+§ 1er. Pour l'application du présent décret, on entend par " fonction accessoire ", la fonction à prestations complètes ou incomplètes qu'exerce dans un ou plusieurs établissements d'enseignement secondaire artistique à horaire réduit, le membre du personnel :
+
+1° qui exerce déjà [<sup>1</sup> dans l'enseignement secondaire artistique à horaire réduit ou]<sup>1</sup> dans l'enseignement de plein exercice, en ce compris l'enseignement secondaire à horaire réduit, une fonction autre que non exclusive, à prestations complètes, au sens de l'article 4 de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du ministère de l'instruction publique;
+
+2° qui exerce déjà dans l'enseignement de promotion sociale une fonction principale à prestations complètes au sens des articles 8 à 10 de l'arrêté du Gouvernement de la Communauté française du 25 octobre 1993 portant statut pécuniaire des membres du personnel directeur et enseignant du personnel auxiliaire d'éducation de l'enseignement de promotion sociale de la Communauté française;
+
+3° qui exerce déjà une fonction principale à prestations complètes au sens de l'article 4, § 2, de l'arrêté royal du 15 avril 1958 précité, constituée de plusieurs fonctions principales à prestations incomplètes (...); &lt;DCFR 2006-01-27/50, art. 9, 008; En vigueur : 01-01-2006&gt;
+
+4° (...) &lt;DCFR 2006-01-27/50, art. 9, 008; En vigueur : 01-01-2006&gt;
+
+5° (...) &lt;DCFR 2006-01-27/50, art. 9, 008; En vigueur : 01-01-2006&gt;
+
+6° (...) &lt;DCFR 2006-01-27/50, art. 9, 008; En vigueur : 01-01-2006&gt;
+
+7° qui exerce une fonction non exclusive dans l'enseignement de plein exercice ou dans l'enseignement artistique pour laquelle il bénéficie d'un traitement complet dont le montant brut est égal ou supérieur au minimum de son échelle de traitement.
+
+§ 2. Pour l'application du § 1er, (...) 7°, on entend par minimum de l'échelle de traitement : &lt;DCFR 2006-01-27/50, art. 9, 008; En vigueur : 01-01-2006&gt;
+
+1° pour le membre du personnel qui exerce simultanément plusieurs fonctions dans l'enseignement secondaire artistique à horaire réduit, le minimum de l'échelle de traitement la moins élevée dont il bénéficie;
+
+2° pour le membre du personnel dont la rémunération est calculée conformément à l'article 72, alinéa 3, le minimum de l'échelle de traitement la moins élevée dont il bénéficiait au 31 janvier 1996.
+
+Pour l'application du § 1er, 7°, est qualifiée de non exclusive la fonction qu'exerce, dans l'enseignement artistique de la Communauté française, le professeur enseignant les cours artistiques et l'accompagnateur.
+
+§ 3. Dans les cas visés au § 1er, le caractère principal ou accessoire de la fonction est déterminé dès l'engagement du membre du personnel.
+
+Si dans le courant de l'année scolaire survient un événement de nature à modifier le caractère accessoire ou principal de la fonction dans l'enseignement secondaire artistique à horaire réduit, le membre du personnel est considéré comme titulaire soit d'une fonction principale à prestations complètes, soit d'une ou de plusieurs fonctions principales à prestations incomplètes visées à l'article 69, soit d'une fonction accessoire uniquement durant la période au cours de laquelle le caractère accessoire ou principal de la fonction est modifié.
+
+§ 4. (La Commission créée par la loi du 8 février 1974 modifiant l'arrêté royal du 15 avril 1958, modifié par arrêté royal du 10 mars 1965, portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique, conserve sa compétence d'avis, conformément aux dispositions applicables à la veille de l'entrée en vigueur de la présente disposition, pour les prestations effectuées avant le 1er janvier 2006 par le membre du personnel soumis au présent décret.) &lt;DCFR 2006-01-27/50, art. 9, 008; En vigueur : 01-01-2006&gt;
+
+----------
+
+(1)&lt;DCFR 2019-01-10/04, art. 20, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 71bis
+
+&lt;Inséré par DCFR 2006-01-27/50, art. 10; En vigueur : 01-01-2006&gt; § 1er. Lors de son entrée en fonction dans un établissement régi par le présent décret, le membre du personnel introduit une déclaration de cumul [<sup>1</sup> auprès de son pouvoir organisateur]<sup>1</sup>, suivant le modèle fixé par le Gouvernement.
+
+§ 2. Le membre du personnel soumis au présent décret introduit la déclaration de cumul visée au § 1er lorsqu'il débute une activité indépendante ou salariée, et lors de toute modification de ladite activité. Dès qu'il cesse ladite activité, le membre du personnel le déclare [<sup>1</sup> auprès de son pouvoir organisateur]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2021-07-19/12, art. 7, 027; En vigueur : 09-09-2021&gt;
+
+#### Sous-section 4. - Des règles générales de fixation du traitement.
+
+##### Art. 72
+
+En cas de modification du statut pécuniaire, tout traitement afférent à une fonction est fixé conformément à ce nouveau statut pécuniaire.
+
+Si le traitement mensuel brut à 100 % ainsi fixé est inférieur à celui dont le membre du personnel directeur et enseignant et du personnel auxiliaire d'éducation nommé à titre définitif bénéficiait dans sa fonction à l'entrée en vigueur de l'arrêté modificatif, le traitement mensuel brut à 100 % lui est maintenu dans cette fonction jusqu'à ce qu'il obtienne un traitement au moins égal.
+
+L'application de l'alinéa 2 ne peut cependant avoir pour effet de maintenir au membre du personnel concerné, titulaire de plusieurs emplois à prestations incomplètes, le bénéfice d'un traitement mensuel brut à 100 % supérieur à celui qui aurait été calculé le 31 août 1998 conformément à l'article 87, alinéas 2 et 3, sur base des prestations exercées à titre définitif au 31 janvier 1996 et dont il conserve la charge.
+
+Pour le membre du personnel qui n'exerçait pas de prestations à titre définitif au 31 janvier 1996, le traitement visé à l'alinéa 3 est calcule :
+
+1° pour le membre du personnel qui bénéficiait à cette date d'un traitement d'activité, sur base des prestations et échelles de traitement prises en compte pour le calcul de ce traitement;
+
+2° pour le membre du personnel qui bénéficiait à cette date d'un traitement d'attente, sur base des prestations et échelles de traitement prises en compte pour le calcul du dernier traitement d'activité;
+
+3° pour les membres du personnel dont la nomination ou l'engagement à titre définitif est postérieur au 31 janvier 1996, sur base des prestations et échelles de traitement prises en compte pour le calcul du traitement d'activité à la date de la nomination ou de l'engagement à titre définitif.
+
+Pour le membre du personnel qui bénéficie d'un traitement d'attente à la date d'entrée en vigueur du présent arrêté, l'application des dispositions des alinéas 3 et 4 est reportée à la date de fixation d'un nouveau traitement d'activité.
+
+Les dispositions de l'alinéa 2 ne sont plus applicables dès lors que la fonction principale exercée par le membre du personnel devient accessoire.
+
+##### Art. 73
+
+Le traitement d'un membre du personnel régi par les dispositions du présent décret est lié aux fluctuations de l'indice des prix à la consommation selon le régime applicable aux traitements du personnel du Gouvernement de la Communauté française
+
+##### Art. 74
+
+Pour la détermination de l'âge du membre du personnel en vue de la fixation de son traitement, l'anniversaire de la naissance qui a lieu à une date autre que le premier du mois est toujours reporté au premier du mois suivant.
+
+##### Art. 75
+
+Le traitement de tout membre du personnel est fixé dans l'(les) échelle(s) de sa (ses) fonction(s) compte tenu, s'il échet, du (des) diplôme(s) ou titre(s) dont il est titulaire.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, le traitement du membre du personnel est payé à concurrence de 90 % lorsque les cours sont répartis durant l'année scolaire sur 33 à 36 semaines d'ouverture de l'établissement ou du domaine de cet établissement et de 80 % pour 29 à 32 semaines d'ouverture.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2022-03-31/35, art. 211, 029; En vigueur : 29-08-2022&gt;
+
+##### Art. 76
+
+A l'exception du titulaire d'une fonction accessoire, le membre du personnel bénéficie à tout moment d'un traitement calculé d'après son ancienneté constituée du total des services admissibles visés à l'article 78.
+
+Pour la détermination du traitement est seule retenue l'ancienneté utile, c'est-à-dire celle acquise au moment où le membre du personnel compte le plus grand nombre d'années de services admissibles correspondant aux augmentations périodiques.
+
+Pour l'application des alinéas 1er et 2, le total de douze mois de services admissibles forme une année.
+
+##### Art. 77
+
+Les dispositions de la présente sous-section ne sont pas applicables aux membres du personnel bénéficiant d'un traitement calculé sur base du régime transitoire visé à l'article 66.
+
+#### Sous-section 5. - Des services admissibles.
+
+##### Art. 78
+
+§ 1er. Entrent en ligne de compte pour le calcul de l'ancienneté pécuniaire des membres du personnel directeur, du personnel enseignant et du personnel auxiliaire d'éducation soumis aux dispositions du présent décret et exerçant une fonction principale dans l'enseignement secondaire artistique à horaire réduit :
+
+1° les services admissibles visés à l'article 16 de l'arrêté royal du 15 avril 1958 précité, à l'exclusion des services visés à l'article 18 du même arrêté;
+
+2° les services effectifs d'enseignement que le membre du personnel a rendus :
+
+a) dans l'enseignement de promotion sociale organisé ou subventionné par l'Etat (ou par une des Communautés); &lt;DCFR 1999-02-08/37, art. 45, 1°, 002; En vigueur : 01-09-1998&gt;
+
+b) dans l'enseignement à horaire réduit organisé ou subventionné par l'Etat (ou par une des Communautés); &lt;DCFR 1999-02-08/37, art. 45, 2°, 002; En vigueur : 01-09-1998&gt;
+
+c) dans l'enseignement à horaire réduit inspecté par l'Etat ou par la Communauté française, pour autant que le membre du personnel produise les documents certifies exacts par l'autorité compétente prouvant l'inspection de ce cours pendant la période où les services ont été rendus;
+
+3° les services à la coopération rendus sous l'un des régimes visés à l'article 1er de la loi du 26 mars 1968 facilitant le recrutement dans les services publics des personnes ayant accompli des services à la coopération avec les pays en voie de développement.
+
+L'admissibilité des services visés à l'alinéa 1er est prouvée par toute voie de droit.
+
+§ 2. Dans les limites fixées par l'article 83, les services admissibles visés au § 1er sont valorisables non seulement lorsqu'ils ont été accomplis comme temporaires, stagiaires ou définitifs mais également en qualité de travailleur du cadre spécial temporaire (CST), d'agent contractuel subventionné (ACS), de chômeur mis au travail (CMT), de stagiaire " Education nationale " (STEN), de stagiaire " Communauté française " (STEC) et de stagiaire ONEM.
+
+Toutefois, les services accomplis comme chômeur mis au travail ne sont pris en considération qu'à partir du moment où le membre du personnel acquiert la qualité de définitif.
+
+§ 3. Les services visés aux §§ 1er et 2 sont admissibles à partir de l'âge de 20, de 21, de 22 ou de 24 ans, selon la classe de l'échelle de traitement.
+
+[<sup>1</sup> § 4. Par dérogation au § 3, sont admissibles les services effectifs repris au § 1er et § 2, accomplis avant le seuil d'âge, prestés par le membre du personnel entré en fonction postérieurement au 31 août 2008 ou qui, en fonction antérieurement, n'a pas atteint le seuil d'âge de son échelle à cette même date.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2008-12-12/01, art. 31, 014; En vigueur : 01-09-2008&gt;
+
+##### Art. 79
+
+Pour l'application de l'article 78, § 1er, le membre du personnel est réputé prester des services effectifs, tant qu'il se trouve dans une position administrative qui lui vaut de par son statut, son traitement d'activité ou, à défaut, la conservation de ses titres à l'avancement de traitement.
+
+##### Art. 80
+
+[<sup>1</sup> Ne sont pas considérés comme services admissibles les services que le membre du personnel a prestés, après le 1er septembre 1998, comme titulaire d'une fonction accessoire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 23, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 81
+
+§ 1er. Les services admissibles visés à l'article 78, § 1er et 2, se comptent par mois de calendrier, ceux qui ne couvrent pas tout le mois ne sont pas pris en compte.
+
+§ 2. Les services effectifs que le membre du personnel a prestés comme intérimaire ou comme temporaire dans un établissement d'enseignement de l'Etat, (d'une Communauté), d'une province, d'une commune ou d'une administration relevant d'une province ou d'une commune ou d'un établissement d'enseignement subventionné par l'Etat (ou par une des Communautés), interviennent pour une ancienneté égale au nombre de jours prestés, multiplié par 1,2. [<sup>1</sup> Le résultat de la multiplication sera limité à 360 jours maximum par année scolaire.]<sup>1</sup> &lt;DCFR 1999-02-08/37, art. 46, 002; En vigueur : 01-09-1998&gt;
+
+Trente jours forment un mois.
+
+§ 3. Les services effectifs prestés par un membre du personnel comme intérimaire dans une école primaire ou maternelle, soit provinciale ou communale, soit adoptée ou adaptable avant le 1er septembre 1958, restent soumis aux dispositions fixées par l'arrêté ministériel du 20 août 1959 fixant la durée des services admissibles prestés à titre intérimaire par les membres du personnel enseignant, scientifique ou assimilé du ministère de l'Instruction publique.
+
+§ 4. Pour l'application du présent article, sont réputés intérimaires ou temporaires, tous les services admissibles prestés pendant le mois au cours duquel le membre du personnel est désigné ou occupé pour la première fois en une qualité autre que celle d'intérimaire ou de temporaire.
+
+----------
+
+(1)&lt;DCFR 2022-03-31/35, art. 212, 029; En vigueur : 29-08-2022&gt;
+
+##### Art. 82
+
+La durée des services admissibles rendus dans deux ou plusieurs fonctions à prestations complètes ou incomplètes, exercées simultanément, ne peut jamais excéder la durée des services admissibles rendus dans une fonction à prestations complètes exercée pour la même période.
+
+La durée des services admissibles que compte un membre du personnel ne peut jamais excéder douze mois par année civile.
+
+##### Art. 83
+
+Les services admissibles prestés en qualité de chômeur mis au travail n'entrent en ligne de compte pour le calcul de l'ancienneté pécuniaire, qu'à concurrence de six ans lorsque le membre du personnel peut également faire valoir des services prestés antérieurement en qualité d'agent contractuel subventionné et à concurrence de deux ans dans le cas contraire.
+
+#### Sous-section 6. - Des modalités de paiement du traitement aux membres du personnel engagés ou nommés à titre définitif.
+
+##### Art. 84
+
+§ 1er. Le membre du personnel nommé à titre définitif exerçant une ou plusieurs fonctions au titre d'une fonction principale dans l'enseignement secondaire artistique à horaire réduit est paye mensuellement.
+
+Le traitement du membre du personnel visé à l'alinéa 1er est payé à terme échu, à savoir le dernier jour ouvrable du mois, [<sup>1</sup> ...]<sup>1</sup>.
+
+Il en est de même des allocations et de tout autre élément de la rémunération payés simultanément au traitement.
+
+§ 2. Le traitement du mois est égal à un douzième du traitement annuel au sens de l'article 64.
+
+§ 3. Lorsque le membre du personnel occupé dans l'enseignement secondaire artistique à horaire réduit fait l'objet en cours d'année scolaire d'une nomination définitive dans la (les) fonction(s) qu'il exerce et qu'il occupait jusqu'à cette date à titre temporaire, son traitement est régularisé de la manière suivante :
+
+1° depuis le premier jour de l'année scolaire en cours jusqu'au premier jour du mois de la prise d'effet de sa nomination définitive, le membre du personnel concerné est rémunéré en douzièmes à titre temporaire;
+
+2° il bénéficie du traitement à titre définitif au premier jour du mois de prise en compte de sa nomination définitive. Si la nomination intervient dans le courant du mois, la nouvelle rémunération prend cours le premier jour du mois suivant.
+
+§ 4. Lorsqu'un membre du personnel définitif est admis à la retraite ou décède, le traitement du mois entier est payé à l'intéressé ou à ses ayants-droit selon le cas.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 24, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 85
+
+Lorsque le traitement du mois n'est pas dû entièrement, il est fractionné en trentièmes, conformément aux règles applicables au personnel des ministères.
+
+Si le nombre réel de journées payables est égal ou inférieur à 15, le nombre de trentièmes dû est égal au nombre réel de journées payables.
+
+Si le nombre réel de journées payables est supérieur à 15, le nombre de trentièmes dû est égal à la différence entre 30 et le nombre réel de journées non payables.
+
+##### Art. 86
+
+Le membre du personnel soumis aux dispositions de la présente section et qui est titulaire d'une fonction principale à prestations incomplètes bénéficie d'un traitement égal au traitement qu'il obtiendrait, conformément aux dispositions de l'article 84, s'il exerçait la même fonction à prestations complètes, multiplié par le quotient de la division du nombre de périodes/semaine que comporte la fonction considérée par le nombre de périodes/semaine que comporte la même fonction en prestations complètes.
+
+##### Art. 87
+
+Le membre du personnel soumis aux dispositions de la présente section et qui est titulaire d'une fonction principale à prestations complètes bénéficie d'un traitement dont le montant annuel brut est calculé sur la base de l'échelle de traitement applicable à sa fonction en tenant compte de ses services admissibles.
+
+Si le membre du personnel visé à l'alinéa 1er est titulaire d'une fonction principale à prestations complètes constituée de plusieurs fonctions incomplètes lui donnant droit à des échelles différentes, son traitement sera limité au traitement qu'il obtiendrait pour une fonction à prestations complètes telle que définie à l'article 69.
+
+Pour l'application de l'alinéa 2, est seul retenu le plus petit nombre entier de périodes de cours nécessaire pour que la somme des valeurs relatives de ces périodes atteigne l'unité. Parmi les périodes prestées par le membre du personnel, sont d'abord choisies celles qui sont le mieux rémunérées.
+
+##### Art. 88
+
+Les membres du personnel directeur, du personnel enseignant et du personnel auxiliaire d'éducation occupés dans l'enseignement secondaire artistique à horaire réduit dans lequel ils prestent une ou plusieurs fonctions accessoires à titre définitif, à la veille de l'entrée en vigueur du présent décret, bénéficient d'une rémunération payée conformément à l'article 84.
+
+##### Art. 89
+
+Les membres du personnel qui, après application de l'article 88, sont rétribués pour l'exercice d'une fonction accessoire de directeur ou de [<sup>1</sup> directeur adjoint]<sup>1</sup> dans l'enseignement [<sup>2</sup> secondaire]<sup>2</sup> artistique à horaire réduit sont tenus, indépendamment de leur rémunération limitée, d'assurer les prestations complètes qui correspondent à l'emploi qu'ils occupent.
+
+Il en est de même lorsque la limitation de la rémunération résulte de l'application de l'article 77 de la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 143,29°, 023; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 55, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 90
+
+Pour les membres du personnel visés à l'article 88, toute diminution d'attribution a pour effet de faire perdre définitivement aux intéressés le bénéfice de la situation pécuniaire acquise à concurrence de cette diminution.
+
+##### Art. 91
+
+§ 1er. Le traitement dû pour les prestations visées à l'article 88 est établi sur base des mêmes dispositions applicables au titulaire d'une ou de plusieurs fonctions principales à prestations incomplètes visées à l'article 86.
+
+§ 2. Par dérogation au § 1er, l'ancienneté pécuniaire du membre du personnel nommé à titre définitif ou stagiaire au plus tard le 7 août 1982 dans l'enseignement [<sup>1</sup> secondaire]<sup>1</sup> artistique à horaire réduit et dont les prestations dans cet enseignement sont considérées comme une fonction accessoire depuis l'entrée en vigueur de l'arrêté royal n° 63 du 20 juillet 1982 modifiant les dispositions des statuts pécuniaires, est limitée à celle qu'il avait acquise au dernier jour de l'année scolaire 1981-1982.
+
+Le montant des augmentations périodiques comprises dans ce traitement est réduit de 50 %.
+
+§ 3. Par dérogation au § 1er, lorsque les prestations du membre du personnel visé au § 2 sont considérées comme accessoires à une date postérieure à celle de l'entrée en vigueur de l'arrêté royal n° 63 du 20 juillet 1982 précité, le traitement dû pour ces prestations correspond à 80 % du traitement minimum au sens de l'article 64 qui serait accordé à un membre du personnel exerçant les mêmes prestations en fonction principale dans l'enseignement secondaire artistique à horaire réduit.
+
+Sans préjudice des dispositions de la loi du 24 décembre 1976 précitée, les prestations qui peuvent encore être rémunérées selon les conditions fixées par le présent article ne peuvent dépasser le nombre de périodes dont le membre du personnel intéressé était chargé le dernier jour de l'année scolaire 1981-1982.
+
+§ 4. Pour le membre du personnel nommé ou engagé à titre définitif ou stagiaire à une date postérieure au 7 août 1982, il n'est pas octroyé de rémunération pour l'exercice d'une fonction accessoire.
+
+Il peut toutefois être octroyé temporairement un traitement fixé conformément au § 3 selon les conditions fixées à l'article 95, §§ 2, 3 et 4.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/79, art. 56, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 92
+
+Les membres du personnel visés à l'article 88 n'ont pas droit à une allocation de fin d'année ou à un pécule de vacances.
+
+#### Sous-section 7. - Des modalités de paiement du traitement aux membres du personnel temporaires.
+
+##### Art. 93
+
+§ 1er. Les membres du personnel temporaires bénéficient d'une rétribution journalière fixée à 1/360 du traitement annuel au sens de l'article 64.
+
+[<sup>2</sup> Sont payables, tous les jours compris du début à la fin de la ou des périodes de désignation y compris s'ils sont englobés dans la ou lesdites périodes, les congés d'automne (de Toussaint) et de détente (de Carnaval), ainsi que les vacances d'hiver (de Noël) et de printemps (de Pâques); le nombre total de jours ainsi payables durant l'année scolaire ne peut dépasser 313.]<sup>2</sup>
+
+En outre, est payable au cours des vacances d'été, une rémunération différée égale au [<sup>2</sup> résultat]<sup>2</sup> de la multiplication par [<sup>2</sup> 0,150160]<sup>2</sup> des rémunérations journalières payées conformément aux alinéas 1er et 2.
+
+§ 2. Le paragraphe 1er, alinéa 3, ne s'applique pas :
+
+1° (abrogé) &lt;DCFR 2003-04-10/63, art. 2, 004; En vigueur : 01-09-2002&gt;
+
+2° au membre du personnel visé par l'arrêté royal n° 294 du 31 mars 1984 fixant les conditions d'octroi de la rémunération différée à certains membres du personnel temporaire de l'enseignement qui ont d'autres revenus professionnels pendant les vacances d'été.
+
+----------
+
+(1)&lt;DCFR 2013-10-17/03, art. 21, 018; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 213, 029; En vigueur : 29-08-2022&gt;
+
+##### Art. 94
+
+Les dispositions des articles 86 et 87 sont applicables aux membres du personnel temporaires en fonction principale.
+
+##### Art. 95
+
+§ 1er. Il n'est plus octroyé de rémunération au membre du personnel temporaire titulaire d'une fonction accessoire.
+
+§ 2. Par dérogation au § 1er, il peut toutefois être octroyé temporairement un traitement, dans les limites fixées par la loi du 24 décembre 1976 précitée, pour des prestations à considérer comme fonction accessoire, à la condition qu'aucun autre candidat porteur d'un titre requis ou d'un titre jugé suffisant ne puisse être trouvé pour exercer les prestations en cause en fonction principale.
+
+§ 3. La dérogation visée au § 2 peut être accordée par le Gouvernement ou son délégué à la demande du pouvoir organisateur concerné adressée à l'Administration compétente.
+
+Sous peine de nullité, cette demande doit être adressée par lettre recommandée à la poste endéans les 30 jours calendrier suivant les faits qui ont donné lieu à la requête. Cette demande doit être accompagnée des documents repris ci-après attestant de l'impossibilité de recruter un candidat en fonction principale, à savoir :
+
+1° la description des prestations;
+
+2° l'échange de correspondances avec le FOREM ou [<sup>1</sup> ACTIRIS]<sup>1</sup> compétent;
+
+3° la liste des candidats éventuellement écartés avec justification de l'éviction.
+
+§ 4. En cas de décision défavorable, le traitement ne sera plus accordé à partir de la date fixée par le Gouvernement ou son délégué et au plus tard le premier jour de l'année scolaire qui suit la date de la décision.
+
+----------
+
+(1)&lt;DCFR 2024-05-16/79, art. 57, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 96
+
+Le traitement dû pour la fonction accessoire visée à l'article 95, § 2, correspond à quatre-vingts pour cent du traitement minimum au sens de l'article 64, qui serait accordé à un membre du personnel exerçant les mêmes prestations en fonction principale dans l'enseignement secondaire artistique à horaire réduit.
+
+##### Art. 97
+
+Les membres du personnel rémunérés conformément à l'article 95, § 2, n'ont pas droit à une allocation de fin d'année ou à un pécule de vacances.
+
+#### Sous-section 8. - De la mise en application du statut pécuniaire.
+
+##### Art. 98
+
+§ 1er. L'adaptation des périodes visées à l'article 69 s'établit comme suit :
+
+1° pour des fonctions à prestations complètes exercées dans un ou plusieurs établissements organisés par un même pouvoir organisateur :
+
+a) le volume des prestations hebdomadaires du directeur et du [<sup>1</sup> directeur adjoint]<sup>1</sup> est fixé à 36 périodes de 60 minutes;
+
+b) le volume des prestations hebdomadaires du professeur de cours artistiques comportant à la veille de l'entrée en vigueur du présent décret entre 20 et 24 périodes en régime organique et 24 périodes en régime transitoire est fixé à 24 périodes de 50 minutes;
+
+c) le volume des prestations hebdomadaires du professeur chargé de l'accompagnement comportant à la veille de l'entrée en vigueur du présent décret 24 périodes est fixé à 24 périodes de 50 minutes;
+
+d) le volume des prestations hebdomadaires du surveillant-éducateur comportant à la veille de l'entrée en vigueur du présent décret 32 périodes est fixé à 36 périodes de 60 minutes;
+
+2° pour l'ensemble des fonctions à prestations incomplètes exercées dans un ou plusieurs établissements organisés par un même pouvoir organisateur :
+
+a) le volume des prestations hebdomadaires du professeur de cours artistiques comportant à la veille de l'entrée en vigueur du présent décret X périodes en régime organique est fixe à X multiplié par 1,2.
+
+Le chiffre de périodes de 50 minutes ainsi obtenu est arrondi à l'unité supérieure;
+
+b) le volume des prestations hebdomadaires du professeur de cours artistiques en régime transitoire et du professeur chargé de l'accompagnement est transposé en un volume identique de périodes de 50 minutes;
+
+c) le volume des prestations hebdomadaires du surveillant-éducateur comportant à la veille de l'entrée en vigueur du présent décret X périodes est fixé à X multiplié par 1,125. Le chiffre de périodes de 60 minutes ainsi obtenu est arrondi à l'unité supérieure.
+
+On entend par régime organique et régime transitoire, les régimes de rémunération appliqués au membre du personnel la veille de l'entrée en vigueur du présent décret;
+
+3° lorsque le membre du personnel exerce une ou plusieurs fonctions à prestations complètes ou incomplètes dans plusieurs établissements organisés par des pouvoirs organisateurs différents, ces prestations sont globalisées pour l'application des 1° et 2°.
+
+Le complément global de périodes de cours ainsi obtenu est réparti en unités entières de périodes de cours au prorata des valeurs relatives des prestations exercées la veille de l'entrée en vigueur du présent décret dans chacun des établissements visés à l'alinéa 1er.
+
+Les valeurs relatives visées à l'alinéa 2 sont obtenues en divisant le nombre de périodes exercées dans chacun des établissements par le nombre de périodes que comporte la charge complète en application de l'article 69.
+
+La multiplication de la valeur relative calculée conformément à l'alinéa 3 par le nombre global de périodes de cours visé à l'alinéa 2 détermine le nombre de périodes de cours supplémentaires à ajouter aux prestations exercées dans chacun des établissements :
+
+a) en arrondissant ce nombre de périodes à l'unité supérieure lorsqu'il est supérieur ou égal à une demi-unité;
+
+b) en arrondissant ce nombre de périodes à l'unité inférieure lorsqu'il est inférieur à une demi-unité.
+
+Lorsqu'il résulte de l'application des dispositions visées à l'alinéa 4 que le complément global de périodes de cours n'est pas atteint, le solde est ajouté aux prestations exercées dans l'établissement présentant la plus grande des valeurs relatives visées à l'alinéa 2; en cas d'égalité de ces valeurs relatives, le solde est ajouté aux prestations exercées dans l'établissement ayant la plus petite dotation de périodes de cours au sens de l'article 31.
+
+Lorsqu'il résulte de l'application des dispositions visées à l'alinéa 4 que le complément global de périodes de cours est dépassé, la période de cours supplémentaire excédentaire est retranchée aux prestations exercées dans l'établissement présentant la plus petite des valeurs relatives visée à l'alinéa 2, en cas d'égalité de ces valeurs relatives, la période de cours supplémentaire est retranchée aux prestations exercées dans l'établissement ayant la plus grande dotation de périodes de cours au sens de l'article 31.
+
+§ 2. La non-conformité des prestations aux dispositions du § 1er entraîne l'inapplication de l'article 72, alinéas 2 et 3.
+
+§ 3. Le nombre de périodes constituant les prestations du membre du personnel enseignant ou surveillant-éducateur engagé ou nommé à titre définitif en fonction accessoire est inchangé.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 143,29°, 023; En vigueur : 01-09-2019&gt;
+
+### Section 4. - De la rétribution des intervenants.
+
+##### Art. 99
+
+L'engagement d'un intervenant par un pouvoir organisateur fait l'objet d'un contrat de travail conclu pour un travail nettement défini dont la rétribution est fixée à 700 francs pour chaque période de cours prestée.
+
+Le montant de la rétribution visée à l'alinéa 1er est fixé au 1er novembre 1993 et lié aux fluctuations de l'indice des prix à la consommation selon le régime visé à l'article 73.
+
+### Section 5. [<sup>1</sup> Disposition relative à l'indemnisation des frais informatiques ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2025-07-16/16, art. 76, 034; En vigueur : 25-08-2025&gt;
+
+### Art. 99bis. [<sup>1</sup> Les membres du personnel qui occupent une fonction enseignante ou une fonction de sélection sont indemnisés pour l'utilisation à des fins professionnelles de leur outil informatique privé et de leur connexion internet privée au titre de remboursement de frais propres à l'employeur, sauf s'ils bénéficient déjà d'une telle indemnité en application des articles 6, § 2, et 20, § 2, alinéa 1er, du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs ou de l'article 112bis du décret du 16 avril 1991 organisant l'Enseignement pour Adultes.
+
+Cette indemnisation leur est octroyée selon les mêmes modalités et conditions que celles prévues aux articles 6, § 2, alinéa 2, et 20, § 2, alinéa 2, du décret du 14 mars 2019 précité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2025-07-16/16, art. 76, 034; En vigueur : 25-08-2025&gt;
+
+## CHAPITRE VI. - Des titres de capacité.
+
+### Section 1. - Des titres requis et jugés suffisants.
+
+##### Art. 100
+
+§ 1er. Les titres de capacité prévus à l'article 2 du décret du 1er février 1993 fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné et à l'article 2 du décret du 6 juin 1994 fixant le statut des membres du personnel subsidié de l'enseignement officiel subventionné sont classés en titres requis, en titres jugés suffisants et en titres d'aptitude pédagogique à l'enseignement.
+
+§ 2. [<sup>1</sup> Les titres de capacité visés au § 1er peuvent être :
+
+\- des diplômes;
+
+\- des certificats;
+
+\- des titres étrangers tels que définis au § 3;
+
+\- une notoriété professionnelle, artistique ou scientifique telle que définie au § 4;
+
+\- la reconnaissance d'expérience utile telle que définie à l'article 100bis [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+§ 3. [<sup>3</sup> Les titres étrangers visés au § 2 du présent article sont ceux dont :
+
+1° l'équivalence peut être reconnue en vertu de la loi du 19 mars 1971 relative à l'équivalence des diplômes et certificats d'études étrangers, de l'article 4 de l'arrêté royal du 4 septembre 1972 déterminant les conditions et la procédure d'octroi de l'équivalence des diplômes et certificats d'études étrangers ou de l'article 92 du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études ;
+
+2° la reconnaissance des qualifications professionnelles peut être reconnue en vertu du décret du 19 octobre 2017 relatif à la reconnaissance des qualifications professionnelles pour l'exercice de fonctions enseignantes dans les établissements d'enseignement préscolaire, primaire, secondaire ordinaire et spécialisé, artistique, de promotion sociale et supérieur non universitaire, secondaire artistique à horaire réduit de la Communauté française.]<sup>3</sup>
+
+§ 4. [<sup>1</sup> La notoriété professionnelle, artistique ou scientifique visée au § 2 du présent article est celle obtenue en vertu de l'article 82, § 2, du décret du 20 décembre 2001 fixant les règles spécifiques à l'Enseignement supérieur artistique organisé en Ecoles supérieures des arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants).
+
+Dans ce cadre, sont prises en compte, les notoriétés obtenues pour les intitulés de spécialités de cours artistiques qui correspondent à un intitulé de spécialité de cours artistique organisé dans l'enseignement secondaire artistique à horaire réduit.]<sup>1</sup>
+
+[<sup>1</sup> § 5. Pour l'application du présent chapitre, le diplôme de l'enseignement artistique supérieur ou supérieur artistique de plein exercice est délivré dans la spécialité à enseigner soit lorsque son intitulé correspond à l'intitulé de la fonction en cause soit lorsque les cours principaux constituant la formation du récipiendaire sont en rapport avec la fonction en cause.
+
+Dans ce dernier cas, le Gouvernement décide, sur avis du Service de l'Inspection de l'Enseignement artistique, si le diplôme permet au récipiendaire d'exercer la fonction dans la spécialité considérée.
+
+[<sup>4</sup> Pour le domaine de la danse, à l'exception des fonctions relatives à l'accompagnement, le Gouvernement peut reconnaitre, sur avis du Service de l'Inspection de l'Enseignement artistique, que l'ensemble de la formation artistique suivie par le requérant lui permet d'exercer la fonction considérée. Le Gouvernement évalue tous les quatre ans le maintien de la nécessité de cette mesure.]<sup>4</sup>
+
+[<sup>2</sup> ...]<sup>2</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 10, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 25, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2019-01-10/04, art. 21, 021; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2023-09-21/11, art. 15, 033; En vigueur : 28-08-2023&gt;
+
+##### Art. 100bis
+
+[<sup>1</sup> L'expérience utile est prouvée conformément aux dispositions du présent article.
+
+§ 1. L'expérience utile visée au § 2 est constituée par les compétences artistiques acquises soit dans le cadre d'activités exercées pour son propre compte, soit dans un service ou un établissement public ou privé, soit dans un métier, une profession ou une pratique artistique.
+
+§ 2. [<sup>4</sup> Le Gouvernement crée une Commission de reconnaissance de l'expérience utile, ci-après dénommée la Commission, pour les membres du personnel enseignant de l'ensemble des domaines de l'enseignement secondaire artistique à horaire réduit et pour les membres du personnel exerçant une fonction de cours artistiques dans l'enseignement de plein exercice.
+
+La Commission décide si les compétences attestées ou déclarées et prouvées contribuent à assurer la formation requise pour la fonction à conférer.]<sup>4</sup>
+
+§ 3. La Commission est composée comme suit :
+
+1° un président : [<sup>4</sup> un fonctionnaire de rang 12 au moins au sein des services assurant la gestion des personnels de l'enseignement secondaire artistique à horaire réduit, ou son délégué de rang 10]<sup>4</sup> au moins]<sup>2</sup>;
+
+2° un membre effectif et son suppléant, titulaires d'un grade classé à l'un des rangs 10 à 12 de la Direction générale des personnels de l'Enseignement subventionné, nommés à titre définitif, désignés par le Gouvernement;
+
+3° quatre membres du Service d'Inspection de l'Enseignement artistique, représentant chacun un domaine d'enseignement artistique;
+
+4° quatre membres experts non enseignants et leurs suppléants représentant chacun un domaine d'enseignement artistique choisis par le Gouvernement sur avis du Service d'Inspection de l'Enseignement artistique;
+
+5° quatre membres experts enseignants et leurs suppléants représentant chacun un domaine d'enseignement artistique choisis par le Gouvernement sur avis du [<sup>3</sup> Conseil général]<sup>3</sup>;
+
+6° trois membres et leurs suppléants représentant les organisations syndicales siégeant au sein du Comité de négociation du secteur IX, du Comité des services publics provinciaux et locaux - section II et du Comité de négociation pour les statuts des personnels de l'enseignement libre subventionné, à raison d'un représentant par organisation syndicale, désignés par le Gouvernement sur proposition de leur organisation syndicale respective parmi les membres du personnels nommés ou engagés à titre définitif;
+
+7° deux membres et leurs suppléants représentant les organes de représentation et de coordination des Pouvoirs organisateurs, désignés par le Gouvernement sur proposition de leur fédération.
+
+La Commission élit son vice-président parmi les membres visés aux 2° et 3° du présent paragraphe.
+
+Le président, le vice-président, les membres effectifs et les membres suppléants de la Commission sont désignés par le Gouvernement, pour un terme de cinq ans renouvelable.
+
+La Commission peut consulter des experts supplémentaires avant de rendre [<sup>4</sup> sa décision]<sup>4</sup>.
+
+§ 4. La Commission établit son règlement d'ordre intérieur. Ce dernier est approuvé par le Gouvernement.
+
+[<sup>2</sup> Le secrétariat de chaque commission est assuré par les Services du Gouvernement.
+
+Le secrétariat n'a pas de voix délibérative.]<sup>2</sup>
+
+§ 5. La Commission délibère valablement si la moitié au moins des membres sont présents.
+
+[<sup>4</sup> Les décisions sont rendues ]<sup>4</sup> à la majorité absolue des membres présents. En cas de parité, la voix du président est prépondérante.
+
+§ 6. La demande doit comporter l'ensemble des éléments permettant à la Commission [<sup>4</sup> de rendre une décision]<sup>4</sup> en toute connaissance de cause ainsi que les pièces de nature à contrôler ces éléments :
+
+\- la copie des titres (diplômes, équivalences, notoriété...) détenus par le requérant;
+
+\- son curriculum vitae ;
+
+\- sa lettre de motivation;
+
+\- le cas échéant, une lettre du chef d'établissement et/ou du Pouvoir organisateur qui envisage de désigner le requérant en tant qu'enseignant;
+
+\- des lettres de recommandations;
+
+\- tout document de nature à justifier l'expérience de la spécialité relative à la carrière artistique du candidat, aux mérites, à l'expérience du métier et de la pratique artistique faisant l'objet de la demande tels que : publications, articles ou critiques de presse datés,..., attestations d'emploi, contrats, programmes de spectacles, CD, CD-Rom, site Internet, reproductions d'oeuvres réalisées, attestations de stages, de maître de stages, justifications et déclarations d'expériences diverses, etc.
+
+§ 7. Dans les quatre mois maximum qui suivent la date de réception de la demande, la Commission :
+
+1° soit [<sup>4</sup> prend une décision]<sup>4</sup>;
+
+2° [<sup>4</sup> soit, avertit le requérant par envoi recommandé qu'elle ne dispose pas des éléments suffisants lui permettant de prendre sa décision. Le requérant dispose alors d'un délai de quinze jours ouvrables scolaires à dater de la notification pour fournir des éléments complémentaires à la Commission. Dans ce cas, la Commission est tenue de prendre sa décision dans les six mois qui suivent la date de réception de la demande initiale.]<sup>4</sup>
+
+§ 8. Pour l'exercice des fonctions visées aux articles 105 à 108 du même décret, [<sup>4</sup> la Commission peut décider]<sup>4</sup>, que la reconnaissance d'expérience utile constitue un titre jugé suffisant lorsque :
+
+a) les titres de capacités correspondant aux fonctions à exercer dans l'enseignement secondaire artistique ne sont pas ou plus délivrés dans l'enseignement supérieur artistique;
+
+b) lorsque l'enseignement supérieur artistique n'organise pas le domaine considéré;
+
+c) [<sup>4</sup> Lorsqu'elle]<sup>4</sup> acte la disproportion entre les besoins en enseignants dans l'enseignement secondaire artistique et le nombre de titulaires de titres de capacité pour une spécialité de cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C3, art. 11, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2011-01-13/04, art. 25, 017; En vigueur : 01-02-2011&gt;
+
+(3)&lt;DCFR 2019-01-10/04, art. 22, 021; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2019-05-03/38, art. 37, 024; En vigueur : 01-09-2019&gt;
+
+##### Art. 100ter
+
+[<sup>1</sup> Pour toute fonction déclarée en pénurie par le Gouvernement en vertu du décret 12 mai 2004 relatif à la définition de la pénurie et à certaines Commissions dans l'enseignement organisé ou subventionné par la Communauté française, le Pouvoir organisateur est autorisé à organiser, pour un nombre de périodes correspondant aux périodes non pourvues, une activité d'encadrement pédagogique destinée à encadrer les élèves pendant les périodes durant lesquelles ils ne peuvent être pris en charge par un enseignant titulaire d'un titre requis ou d'un titre jugé suffisant.
+
+Pour l'exercice de l'activité pédagogique, le Pouvoir organisateur désigne ou engage le membre du personnel porteur d'un titre de capacité listé pour une fonction enseignante dans l'enseignement secondaire artistique à horaire réduit, à titre temporaire dans les périodes visées à l'alinéa 1er. Les services prestés dans cette activité sont, pour la fixation de la rémunération et du barème, réputés l'avoir été dans une fonction pour laquelle il est détenteur d'un titre requis ou d'un titre jugé suffisant et pour laquelle il génère uniquement de l'ancienneté de service.
+
+Le Pouvoir organisateur a l'obligation d'attester qu'il n'y a ni titre requis, ni titre jugé suffisant à l'appui de la désignation ou de l'engagement par l'échange de correspondances avec le FOREM ou Actiris. Cette obligation est renouvelée au début de chaque trimestre.
+
+La désignation ou l'engagement dans l'activité d'encadrement pédagogique prend fin dès qu'un candidat porteur d'un titre de capacité requis ou jugé suffisant peut être désigné ou engagé dans la fonction à pourvoir.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/46, art. 16, 022; En vigueur : 01-03-2019&gt;
+
+##### Art. 101
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+(Les titres jugés suffisants reconnus par application de l'article 6, § 5, de l'arrêté royal du 31 août 1978 relatif aux titres jugés suffisants dans les établissements subventionnés d'enseignement artistique qui dispensent un enseignement secondaire des arts plastiques, sont assimilés aux titres jugés suffisants repris à l'article 105.) &lt;DCFR 1999-02-08/37, art. 47, 002; En vigueur : 01-09-1998&gt;
+
+[<sup>2</sup> Pour l'application des dispositions de l'article 42, § 1er, 3°, du décret du 1er février 1993 précité et de l'article 30, 5°, du décret du 6 juin 1994 précité, pour :
+
+\- Les fonctions visées aux articles 105, 106, 107 et 108 du présent décret, le titre de capacité donne sans limitation de durée l'accès à l'exercice de la fonction à titre définitif lorsqu'il est constitué soit d'un titre requis, soit d'un titre jugé suffisant complété par le titre d'aptitude pédagogique à l'enseignement fixé par le présent décret ;
+
+\- La fonction de surveillant-éducateur visée à l'article 109 du présent décret, le titre de capacité donne sans limitation de durée l'accès à l'exercice de la fonction à titre définitif lorsqu'il est constitué soit d'un titre requis, soit d'un titre jugé suffisant. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 26, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 58, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 102
+
+Le titre d'aptitude pédagogique à l'enseignement visé à l'article 100, § 1er, peut être constitué d'un diplôme d'aptitude pédagogique à l'enseignement (en abrégé : DAPE) délivré par un établissement d'enseignement artistique supérieur ou d'un certificat d'aptitude pédagogique à l'enseignement (en abrégé : CAPE) délivre par les Commissions d'examen visées à l'article 110 [ou [<sup>2</sup> d'un diplôme d'agrégé de l'enseignement secondaire inférieur (en abrégé : AESI) ou d'un diplôme d'agrégé de l'enseignement secondaire supérieur (en abrégé : AESS) ou d'un diplôme de master à finalité didactique]<sup>2</sup>. &lt;DCFR 2007-05-11/62, art. 7, a), 010; En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 12, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2019-01-10/04, art. 23, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 103
+
+Les certificats d'aptitude pédagogique délivrés avant l'entrée en vigueur du présent décret sont, pour la durée de leur validité, assimilés au CAPE visé à l'article 102.
+
+##### Art. 104
+
+Par dérogation à l'article 101, le Ministre ou son délégué accorde dispense du titre d'aptitude pédagogique à l'enseignement visé à l'article 100, § 1er, sur demande du pouvoir organisateur :
+
+1° au membre du personnel qui, étant nommé ou engagé à titre définitif par un pouvoir organisateur et qui n'est pas titulaire d'un certificat d'aptitude à l'enseignement valide, présente sa candidature à la même fonction dans un autre pouvoir organisateur;
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+3°[<sup>2</sup> ...]<sup>2</sup>
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+5° [<sup>4</sup> au membre du personnel qui présente sa candidature à un emploi de professeur de formation pluridisciplinaire en étant nommé à titre définitif dans toute autre fonction du domaine des arts plastiques, visuels et de l'espace visée à l'article 51, § 2, à l'exception des fonctions de professeur d'histoire de l'art et analyse esthétique, de professeur de techniques artistiques et de professeur de technologie de la terre et des émaux.]<sup>4</sup>
+
+La dispense du titre d'aptitude pédagogique à l'enseignement est limitée dans ses effets au seul pouvoir organisateur qui l'a sollicitée.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 13, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 27, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2019-01-10/04, art. 24, 021; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2023-09-21/11, art. 16, 033; En vigueur : 26-08-2024&gt;
+
+##### Art. 104bis
+
+[<sup>1</sup> Pour la lecture des articles [<sup>2</sup> 105, 106, 107 et 108,]<sup>2</sup> le grade académique " diplôme de master " mentionné vise les diplômes de : master, master à finalité spécialisée ou master à finalité approfondie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C3, art. 14, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2026-07-17/06, art. 9, 037; En vigueur : 24-08-2026&gt;
+
+##### Art. 104ter
+
+[<sup>1</sup> Pour l'application des articles 105, 106 et 107, il y a lieu de tenir compte des correspondances entre les anciens grades et les nouveaux grades académiques délivrés par les établissements d'enseignement supérieur de plein exercice, tel que prévu
+
+a) par le décret du 31 mars 2004 définissant l'enseignement supérieur, favorisant son intégration à l'espace européen de l'enseignement supérieur et refinançant les universités, notamment l'article 184 ;
+
+b) par le décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études, notamment les articles 161 et 164.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/04, art. 25, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 105
+
+[<sup>1</sup> Les titres requis, les titres jugés suffisants et les titres d'aptitude pédagogique à l'enseignement pour les fonctions visées à l'article 51, § 2, que peuvent exercer les membres du personnel enseignant dans le domaine des arts plastiques, visuels et de l'espace sont fixés comme suit :
+
+1° professeur de formation pluridisciplinaire :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur ou supérieur artistique de plein exercice du domaine des arts plastiques, visuels et de l'espace, complété par un titre d'aptitude pédagogique;
+
+\- diplôme d'agrégé de l'enseignement secondaire supérieur du domaine des arts plastiques, visuels et de l'espace;
+
+\- diplôme de master didactique du domaine des arts plastiques, visuels et de l'espace;
+
+\- diplôme de licence ou de master du domaine des arts plastiques, visuels et de l'espace, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de gradué en arts plastiques, visuels et de l'espace, délivré au terme de l'enseignement supérieur artistique de type court, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de bachelier du domaine des arts plastiques, visuels et de l'espace, délivré au terme de l'enseignement supérieur artistique de type court et complété par un titre d'aptitude pédagogique;
+
+\- diplôme d'agrégé de l'enseignement secondaire inférieur en éducation plastique, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- diplôme d'enseignement artistique supérieur à horaire réduit ou diplôme d'enseignement secondaire artistique à horaire réduit (filière de transition) complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- la reconnaissance d'expérience utile, complétée par un titre d'aptitude pédagogique.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de formation pluridisciplinaire du domaine des arts plastiques, visuels et de l'espace;
+
+\- CAPE de création transdisciplinaire;
+
+[<sup>3</sup> - CAPE de pratiques expérimentales ;]<sup>3</sup>
+
+\- AESS du domaine des arts plastiques, visuels et de l'espace.
+
+[<sup>5</sup> - Master en enseignement section 5 : arts plastiques, visuels et de l'espace]<sup>5</sup>.
+
+2° professeur d'histoire de l'art et analyse esthétique :
+
+a) titres requis :
+
+\- diplôme d'agrégé de l'enseignement secondaire supérieur du groupe histoire de l'art et archéologie;
+
+\- diplôme de licence ou de master en histoire de l'art et archéologie complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur du 2 e ou du 3 e degré du domaine des arts plastiques, visuels et de l'espace, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master du domaine des arts plastiques, visuels et de l'espace, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en histoire de l'art et archéologie;
+
+\- diplôme de master didactique du domaine des arts plastiques, visuels et de l'espace.
+
+b) titres jugés suffisants :
+
+\- diplôme de licence ou de master en histoire de l'art et archéologie;
+
+\- diplôme de l'enseignement artistique supérieur du 2 e ou du 3 e degré du domaine des arts plastiques, visuels et de l'espace;
+
+\- diplôme de licence ou de master du domaine des arts plastiques, visuels et de l'espace.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de l'histoire de l'art et analyse esthétique;
+
+\- AESS du groupe histoire de l'art et archéologie;
+
+\- AESS du domaine des arts plastiques, visuels et de l'espace.
+
+[<sup>5</sup> - Master en enseignement section 5 : histoire de l'art et archéologie ;
+
+\- Master en enseignement section 5 : arts plastiques, visuels et de l'espace. ]<sup>5</sup>
+
+3° [<sup>4</sup> professeur :
+
+\- d'aménagement d'intérieur et décoration ;
+
+\- d'art du livre : reliure ;
+
+\- d'art du livre : typographie et étude de la lettre ;
+
+\- d'art du verre ;
+
+\- d'arts monumentaux ;
+
+\- d'arts numériques ;
+
+\- de bijouterie ;
+
+\- de céramique ;
+
+\- de cinégraphie ;
+
+\- de cinéma d'animation ;
+
+\- de création textile ;
+
+\- de design ;
+
+\- de dessin ;
+
+\- de dessin d'architecture et maquettisme ;
+
+\- d'ébénisterie ;
+
+\- de ferronnerie ;
+
+\- de gravure ;
+
+\- d'illustration et bande dessinée ;
+
+\- d'infographie ;
+
+\- de lithographie ;
+
+\- de métal ;
+
+\- de peinture ;
+
+\- de photographie ;
+
+\- de poterie ;
+
+\- de publicité et communication visuelle ;
+
+\- de restauration d'oeuvres et d'objets d'art ;
+
+\- de scénographie ;
+
+\- de sculpture ;
+
+\- de sérigraphie ;
+
+\- de stylisme, parures et masques ;
+
+\- de vidéographie ;
+
+\- de vitrail;]<sup>4</sup>
+
+a) titres requis :
+
+\- diplôme d'enseignement artistique supérieur ou supérieur artistique de plein exercice délivré dans la spécialité à enseigner, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique du domaine des arts plastiques, visuels et de l'espace, délivré dans l'option correspondant à la spécialité à enseigner;
+
+\- diplôme de licence ou de master du domaine des arts plastiques, visuels et de l'espace délivré dans l'option correspondant à la spécialité à enseigner, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique du domaine des arts du spectacle et techniques de diffusion et de communication délivré dans l'option correspondant à la spécialité à enseigner;
+
+\- diplôme de licence ou de master du domaine des arts du spectacle et techniques de diffusion et de communication délivré dans l'option correspondant à la spécialité à enseigner, complété par un titre d'aptitude pédagogique;
+
+\- diplôme d'enseignement artistique supérieur à horaire réduit ou diplôme d'enseignement secondaire artistique à horaire réduit (filière de transition) délivré dans la spécialité à enseigner, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- les diplômes précités, délivrés dans une autre spécialité que la spécialité à enseigner, complétés par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique;
+
+\- diplôme d'agrégé de l'enseignement secondaire inférieur en éducation plastique complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique;
+
+\- une [<sup>2</sup> la notoriété dans la spécialité à enseigner]<sup>2</sup> complétée par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- la reconnaissance d'expérience utile, complétée par un titre d'aptitude pédagogique, pour les spécialités suivantes : ferronnerie, ébénisterie, joaillerie-bijouterie, vitrail, dentelle, métal, art du verre.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) [<sup>4</sup> titres d'aptitude pédagogique à l'enseignement :
+
+\- AESS du domaine des arts plastiques, visuels et de l'espace ;
+
+\- AESS du domaine des arts du spectacle et techniques de diffusion et de communication ;
+
+[<sup>5</sup> - Master en enseignement section 5 : arts plastiques, visuels et de l'espace ;
+
+\- Master en enseignement section 5 : arts du spectacle et techniques de diffusion et de communication ; ]<sup>5</sup>
+
+\- CAPE du cours à enseigner ;
+
+\- autre CAPE :
+
+\- pour la fonction de professeur d'aménagement d'intérieur et décoration : CAPE de décoration ou CAPE d'ensemblier - décorateur ou CAPE d'ensemblier/décorateur - décoration ;
+
+\- pour la fonction de professeur d'art du livre : reliure : CAPE d'art du livre : reliure dorure/typographie et étude de la lettre ;
+
+\- pour la fonction de professeur d'art du livre : typographie et étude de la lettre : CAPE d'art du livre : reliure dorure/typographie et étude de la lettre ;
+
+\- pour la fonction de professeur d'arts monumentaux : CAPE de peinture monumentale ou CAPE de sculpture monumentale ;
+
+\- pour la fonction de professeur de cinégraphie : CAPE de cinégraphie, vidéographie et technique son ;
+
+\- pour la fonction de professeur d'illustration et bande dessinée : CAPE de dessin ;
+
+\- pour la fonction de professeur d'infographie : CAPE d'arts numériques ;
+
+\- pour la fonction de professeur de peinture : CAPE de peinture monumentale ;
+
+\- pour la fonction de professeur de sculpture : CAPE de sculpture monumentale ;
+
+\- pour la fonction de professeur de stylisme, parures et masques : CAPE de création de costumes, de décors et de masques ;
+
+\- pour la fonction de professeur de vidéographie : CAPE de cinégraphie, vidéographie et technique son.]<sup>4</sup>
+
+4° [<sup>4</sup> professeur de techniques artistiques :
+
+a) titres requis :
+
+\- diplôme de master en infographie ou en arts numériques, délivré par un établissement d'enseignement supérieur, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de licence ou de master du domaine des arts plastiques, visuels et de l'espace, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique du domaine des arts plastiques, visuels et de l'espace ;
+
+\- diplôme de licence ou de master du domaine des arts du spectacle et techniques de diffusion et de communication, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique du domaine des arts du spectacle et techniques de diffusion et de communication ;
+
+\- la reconnaissance d'expérience utile, complétée par un titre d'aptitude pédagogique ;
+
+\- une notoriété telle que visée à l'article 100, § 2, en relation avec la fonction et les cours à conférer, complétée par un titre d'aptitude pédagogique ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de techniques artistiques ;
+
+\- AESS délivré par une Ecole Supérieure des Arts ou en infographie ou en arts numériques par un établissement d'enseignement supérieur.]<sup>4</sup>
+
+[<sup>5</sup> - Master en enseignement section 5 : arts plastiques, visuels et de l'espace ;
+
+\- Master en enseignement section 5 : arts du spectacle et techniques de diffusion et de communication.]<sup>5</sup>
+
+5° [<sup>3</sup> professeur de pratiques expérimentales :
+
+a) titres requis :
+
+\- diplôme de l'enseignement supérieur artistique du 2e ou du 3e degré du domaine des arts plastiques, visuels et de l'espace, complété par la reconnaissance d'expérience utile en pratiques expérimentales et un titre d'aptitude pédagogique ;
+
+\- diplôme de master à finalité didactique du domaine des arts plastiques, visuels et de l'espace, complété par la reconnaissance d'expérience utile en pratiques expérimentales ;
+
+\- diplôme de licence ou de master du domaine des arts plastiques, visuels et de l'espace, complété par la reconnaissance d'expérience utile en pratiques expérimentales et un titre d'aptitude pédagogique ;
+
+\- une notoriété complétée par la reconnaissance d'expérience utile en pratiques expérimentales et un titre d'aptitude pédagogique ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de pratiques expérimentales ;
+
+\- AESS du domaine des arts plastiques, visuels et de l'espace;]<sup>3</sup>]<sup>1</sup>
+
+[<sup>5</sup> - Master en enseignement section 5 : arts plastiques, visuels et de l'espace.]<sup>5</sup>
+
+[<sup>4</sup> 6° professeur de technologie de la terre et des émaux :
+
+a) titres requis :
+
+\- diplôme d'ingénieur, de master en pharmacie ou de master en chimie, délivré par un établissement universitaire, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de licence ou de master du domaine des arts plastiques, visuels et de l'espace, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique du domaine des arts plastiques, visuels et de l'espace complété par la reconnaissance d'expérience utile ;
+
+\- la reconnaissance d'expérience utile, complétée par un titre d'aptitude pédagogique ;
+
+\- une notoriété telle que visée à l'article 100, § 2, en relation avec la fonction et le cours à conférer, complétée par un titre d'aptitude pédagogique ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de technologie de la terre et des émaux ;
+
+\- AESS du domaine des arts plastiques, visuels et de l'espace ;
+
+\- AESS délivrée par un établissement universitaire;]<sup>4</sup>
+
+[<sup>5</sup> - Master en enseignement section 5 : arts plastiques, visuels et de l'espace ;
+
+\- Master en enseignement section 5 : chimie, sciences pharmaceutiques ou sciences de l'ingénieur. ]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C3, art. 15, 016; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 29, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2019-01-10/04, art. 26, 021; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2023-09-21/11, art. 17, 033; En vigueur : 26-08-2024&gt;
+
+(5)&lt;DCFR 2026-07-17/06, art. 2, 037; En vigueur : 24-08-2026&gt;
+
+##### Art. 106
+
+[§ 1er.] Les titres requis, les titres jugés suffisants et les titres d'aptitude pédagogique à l'enseignement pour les fonctions visées à l'article 51, § 3, que peuvent exercer les membres du personnel enseignant dans le domaine de la musique sont fixés comme suit : &lt;DCFR 2003-07-17/40, art. 19, 005; En vigueur : 01-09-2003&gt;
+
+1° [<sup>1</sup> professeur de formation musicale :
+
+a) Titres requis :
+
+\- Diplôme de l'enseignement artistique supérieur délivré dans une spécialité de l'enseignement musical et complété par un titre d'aptitude pédagogique;
+
+\- Diplôme de licencié, section écriture et théorie musicale, option formation musicale, complété par un titre d'aptitude pédagogique;
+
+\- Diplôme de master à finalité didactique, section écriture et théorie musicale, option formation musicale;
+
+\- Diplôme de master à finalité spécialisée ou approfondie, section écriture et théorie musicale, option formation musicale, complété par un titre d'aptitude pédagogique;
+
+\- Diplôme de bachelier en formation musicale ou en éducation musicale, délivré au terme de l'Enseignement supérieur artistique de type court;
+
+\- Diplôme d'agrégé de l'enseignement secondaire inférieur en formation musicale ou en éducation musicale (AESI);
+
+[<sup>3</sup> - Diplôme de master en musique : éducation musicale ;
+
+\- Diplôme de master en musique : formation musicale (à finalité didactique).]<sup>3</sup>
+
+[<sup>6</sup> - tout diplôme de master en musique, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master didactique en musique, complété par la reconnaissance d'expérience utile.]<sup>6</sup>
+
+b) [<sup>6</sup> - les titres repris sub a) sans titre d'aptitude pédagogique.]<sup>6</sup>
+
+c) Titres d'aptitude pédagogique à l'enseignement :
+
+\- DAPE du solfège préparatoire;
+
+\- DAPE du solfège ordinaire;
+
+\- DAPE du solfège de perfectionnement;
+
+\- CAPE de la formation musicale;
+
+\- AESI en formation musicale ou en éducation musicale;
+
+\- AESS du domaine de la musique.]<sup>1</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+[<sup>2</sup> 2° professeur de chant [<sup>7</sup> choral]<sup>7</sup> :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur de direction chorale;
+
+\- diplôme de l'enseignement artistique supérieur de solfège, de pédagogie musicale, de chant ou d'art lyrique complété par le titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master, section écriture et théorie musicale, option direction chorale ou formation musicale ou éducation musicale, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique, section écriture et théorie musicale, option direction chorale ou option formation musicale ou option éducation musicale;
+
+\- diplôme de licence ou de master, section formation vocale, option chant ou art lyrique, complété par un titre d'aptitude pédagogique;
+
+[<sup>4</sup> - diplôme de master à finalité spécialisée, section formation vocale, option chant pop complété par un titre d'aptitude pédagogique;]<sup>4</sup>
+
+\- diplôme de master didactique, section formation vocale, option chant ou art lyrique.
+
+b) [<sup>7</sup> - les titres repris sub a) sans titre d'aptitude pédagogique.]<sup>7</sup>
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- DAPE des disciplines vocales;
+
+\- CAPE du chant ou de l'art lyrique;
+
+\- CAPE du chant d'ensemble;
+
+\- CAPE de formation vocale;
+
+[<sup>4</sup> CAPE de chant pop et ensemble pop ]<sup>4</sup>
+
+\- AESS du domaine de la musique;
+
+[<sup>7</sup> - CAPE du chant choral.]<sup>7</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musicologie ;
+
+\- Master en enseignement section 5 : musique.]<sup>8</sup>
+
+3° professeur d'histoire de la [<sup>7</sup> musique et analyse musicale]<sup>7</sup> :
+
+a) titres requis :
+
+\- diplôme d'agrégé de l'enseignement secondaire supérieur du groupe d'histoire de l'art et archéologie (section de musicologie);
+
+\- diplôme de licence ou de master du groupe d'histoire de l'art et d'archéologie (section ou orientation musicologie), complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en histoire de l'art et d'archéologie, orientation musicologie;
+
+\- diplôme de l'enseignement artistique supérieur d'histoire de la musique, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de lauréat de l'enseignement artistique supérieur (toutes spécialités) complété par un titre d'aptitude pédagogique;
+
+\- à l'exception des diplômes de licence ou de master des sections jazz et [<sup>4</sup> ...]<sup>4</sup> ou musique électroacoustique, tout diplôme de licence ou de master en musique complété par un titre d'aptitude pédagogique;
+
+\- à l'exception du master didactique des sections jazz et [<sup>4</sup> ...]<sup>4</sup> ou musique électroacoustique, tout master didactique en musique.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique :
+
+\- CAPE de l'histoire de la musique - analyse;
+
+\- AESS en musicologie;
+
+\- AESS du domaine de la musique.
+
+[<sup>8</sup> - Master en enseignement section 5 : musicologie ;
+
+\- Master en enseignement section 5 : musique.]<sup>8</sup>
+
+4° professeur [<sup>7</sup> d'analyse et écriture musicales]<sup>7</sup> :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'harmonie, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de lauréat de l'enseignement artistique supérieur (pédagogie musicale, orgue, clavecin, fugue et composition), complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master section écriture et théorie musicale, option écritures classiques ou composition ou direction d'orchestre ou direction chorale, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique section écriture et théorie musicale, option écritures classiques ou composition ou direction d'orchestre ou direction chorale.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de l'écriture musicale -analyse;
+
+\- AESS du domaine de la musique.
+
+[<sup>8</sup> - Master en enseignement section 5 : musique. ]<sup>8</sup>
+
+5° professeur de formation générale jazz :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'harmonie jazz, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur d'instrument, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en musique, section jazz [<sup>4</sup> ...]<sup>4</sup> complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique, section jazz [<sup>4</sup> ...]<sup>4</sup>;
+
+\- la reconnaissance d'expérience utile complétée par un titre d'aptitude pédagogique.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- DAPE de la discipline à enseigner;
+
+\- CAPE de formation générale jazz;
+
+\- AESS du domaine de la musique.
+
+[<sup>8</sup> - Master en enseignement section 5 : musique. "]<sup>8</sup>
+
+6° [<sup>8</sup> professeur de formation instrumentale, pour chacune des spécialités suivantes :
+
+\- accordéon chromatique ;
+
+\- alto ;
+
+\- basson ;
+
+\- basson baroque et classique ;
+
+\- clarinette ;
+
+\- clavecin ;
+
+\- contrebasse ;
+
+\- cor ;
+
+\- cor naturel ;
+
+\- cornemuse et musette ;
+
+\- flûte à bec ;
+
+\- flûte traversière ;
+
+\- flûte traversière baroque et classique ;
+
+\- guitare ;
+
+\- harpe ;
+
+\- hautbois ;
+
+\- hautbois baroque et classique ;
+
+\- luth ;
+
+\- mandoline ;
+
+\- orgue ;
+
+\- percussions ;
+
+\- piano ;
+
+\- pianoforte ;
+
+\- saxophone ;
+
+\- trombone à coulisse ;
+
+\- trompette ;
+
+\- trompette naturelle ;
+
+\- tuba ;
+
+\- viole de gambe ;
+
+\- violon ;
+
+\- violon baroque ;
+
+\- violoncelle ;
+
+\- violoncelle baroque.
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'instrument délivré pour la spécialité à enseigner, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de l'enseignement artistique supérieur d'instrument délivré pour une autre spécialité, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- diplôme de licence ou de master en musique, section musique ancienne, formation instrumentale, délivré dans l'option correspondant à la spécialité à enseigner, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique en musique, section musique ancienne, formation instrumentale, délivré dans l'option correspondant à la spécialité à enseigner ;
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, délivré dans l'option correspondant à la spécialité à enseigner, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique en musique, section formation instrumentale, délivré dans l'option correspondant à la spécialité à enseigner ;
+
+\- diplôme de licence ou de master section formation instrumentale, délivré dans une option correspondant à une autre spécialité à enseigner, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique en musique, section formation instrumentale, délivré dans une option correspondant à une autre spécialité à enseigner, complété par la reconnaissance d'expérience utile.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- DAPE de la discipline à enseigner ;
+
+\- CAPE de formation instrumentale, instruments classiques ou anciens, de la spécialité à enseigner ;
+
+\- AESS du domaine de la musique ;
+
+\- Master en enseignement section 5 : musique.]<sup>8</sup>
+
+[<sup>7</sup> 6° bis professeur de formation instrumentale, pour chacune des spécialités suivantes :
+
+\- accordéon diatonique ;
+
+\- carillon ;
+
+\- cornet à bouquin ;
+
+\- guitare électrique :
+
+a) titres requis :
+
+\- tout diplôme de master en musique, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master didactique en musique, complété par la reconnaissance d'expérience utile ;
+
+\- la reconnaissance d'expérience utile, complétée par un titre d'aptitude pédagogique ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de formation instrumentale de la spécialité à enseigner ;
+
+\- AESS du domaine de la musique.]<sup>7</sup>
+
+7° [<sup>3</sup> professeur de formation instrumentale jazz (diverses spécialités) [<sup>7</sup> ...]<sup>7</sup>]<sup>3</sup> :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'instrument jazz [<sup>3</sup> délivré pour la spécialité à enseigner]<sup>3</sup>, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur d'instrument, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en musique, section jazz [<sup>4</sup> ...]<sup>4</sup> délivré dans la spécialité à enseigner, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique, section jazz [<sup>4</sup> ...]<sup>4</sup> délivré dans la spécialité à enseigner;
+
+\- la reconnaissance d'expérience utile complétée par le certificat d'aptitude pédagogique.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de formation instrumentale jazz [<sup>7</sup> de la spécialité à enseigner]<sup>7</sup>;
+
+\- AESS du domaine de la musique.
+
+[<sup>8</sup> - Master en enseignement section 5 : musique. ]<sup>8</sup>
+
+8° professeur d'ensemble instrumental :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur de direction d'orchestre;
+
+\- diplôme de l'enseignement artistique supérieur de musique de chambre complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur d'instrument (diverses spécialités) complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en musique, section écriture et théorie musicale, option direction d'orchestre;
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, toutes options, complété par le titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique, section formation instrumentale, toutes options.
+
+b) titres jugés suffisants :
+
+\- diplôme de l'enseignement artistique supérieur de musique de chambre;
+
+\- diplôme de l'enseignement artistique supérieur d'instrument (diverses spécialités);
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, toutes options.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'ensemble instrumental;
+
+\- AESS du domaine de la musique.
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+9° professeur de musique de chambre instrumentale :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur de direction d'orchestre;
+
+\- diplôme de l'enseignement artistique supérieur de musique de chambre, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, toutes options excepté jazz [<sup>4</sup> ...]<sup>4</sup> complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique, section formation instrumentale, toutes options excepté jazz [<sup>4</sup> ...]<sup>4</sup>;
+
+\- diplôme de licence ou de master en musique, section musique ancienne, formation instrumentale, toutes options, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique, section musique ancienne : formation instrumentale, toutes options.
+
+b) titres jugés suffisants :
+
+\- diplôme de l'enseignement artistique supérieur de musique de chambre;
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, toutes options excepté jazz [<sup>4</sup> ...]<sup>4</sup>;
+
+\- diplôme de licence ou de master en musique ancienne, section formation instrumentale, toutes options.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de musique de chambre instrumentale;
+
+\- AESS du domaine de la musique.
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+10° professeur de lecture à [<sup>7</sup> vue et transposition]<sup>7</sup> :
+
+a) titres requis
+
+\- diplôme de l'enseignement artistique supérieur d'instrument complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur délivré dans une autre spécialité complété par le certificat de fin d'études des cours de transposition et un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en musique, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de lecture à vue - transposition;
+
+\- AESS du domaine de la musique.
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+11° [<sup>3</sup> professeur de chant [<sup>7</sup> ...]<sup>7</sup>]<sup>3</sup> :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur de chant ou d'art lyrique complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en musique, section formation vocale, option chant ou art lyrique, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique, section formation vocale, option chant ou art lyrique.
+
+b) titres jugés suffisants :
+
+\- Les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- DAPE des disciplines vocales;
+
+\- CAPE de formation vocale, chant et musique de chambre vocale;
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+12° professeur d'art lyrique :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'art lyrique complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en musique, section formation vocale, option art lyrique, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique, section formation vocale, option art lyrique.
+
+b) titres jugés suffisants :
+
+\- Les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'art lyrique;
+
+\- AESS du domaine de la musique.
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+13° professeur chargé de l'accompagnement au clavecin [<sup>7</sup> ...]<sup>7</sup> :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'instrument délivré dans la spécialité clavecin;
+
+\- diplôme de licence ou de master ou de master didactique en musique, section musique ancienne, formation instrumentale, option claviers, spécialité clavecin;
+
+\- diplôme de licence ou de master ou de master didactique en musique, section formation instrumentale, option claviers, spécialité clavecin.
+
+b) titres jugés suffisants :
+
+\- néant.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- néant.
+
+14° professeur chargé de l'accompagnement à l'orgue :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'instrument dans la spécialité orgue;
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, option claviers, spécialité orgue;
+
+\- diplôme de master didactique en musique, option claviers, spécialité orgue.
+
+b) titres jugés suffisants :
+
+\- néant;
+
+c) titres d'aptitude pédagogique :
+
+\- néant.
+
+15° professeur chargé de l'accompagnement au piano :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur de piano d'accompagnement;
+
+\- diplôme de l'enseignement artistique supérieur de piano, de piano jazz ou de claviers jazz, complété par le titre d'aptitude pédagogique;
+
+\- certificat final de piano d'accompagnement, complété par la reconnaissance d'expérience utile et par le titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en formation instrumentale, option claviers, spécialité accompagnement au piano;
+
+\- diplôme de licence ou de master en formation instrumentale, option claviers, spécialité piano, complété par le titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en formation instrumentale, option claviers, spécialité accompagnement au piano;
+
+\- diplôme de master didactique en formation instrumentale, option claviers, spécialité piano.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'accompagnement au piano.
+
+[<sup>4</sup> - AESS du domaine de la musique. ]<sup>4</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+16° [<sup>7</sup> professeur de rythmes et rythmiques :
+
+a) titres requis :
+
+\- diplôme de bachelier en rythmes et rythmiques complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de fin d'études de l'Institut de Rythmique Jaques-Dalcroze de Belgique, délivré dans la spécialité rythmique, complété par un titre d'aptitude pédagogique ;
+
+\- tout diplôme de l'enseignement artistique supérieur, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master en musique, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master didactique en musique, complété par la reconnaissance d'expérience utile ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de rythmique ;
+
+\- CAPE de pratique des rythmes musicaux du monde ;
+
+\- CAPE de rythmes et rythmiques ;
+
+\- AESS du domaine de la musique.]<sup>7</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+17° [<sup>6</sup> professeur d'expression corporelle :
+
+a) titres requis :
+
+\- diplôme de fin d'études de l'Institut de Rythmique Jaques-Dalcroze de Belgique, délivré dans la spécialité expression corporelle, complété par un titre d'aptitude pédagogique ;
+
+\- tout diplôme de l'enseignement artistique supérieur, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master en musique, en théâtre et arts de la parole ou en arts du spectacle et techniques de diffusion et communication, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master didactique en musique, en théâtre et arts de la parole ou en arts du spectacle et techniques de diffusion et communication complété par la reconnaissance d'expérience utile ;
+
+\- bachelier en arts du spectacle et techniques de diffusion et de communication : arts du cirque ;
+
+\- la reconnaissance d'expérience utile en danse contemporaine, complétée par un titre d'aptitude pédagogique ;
+
+[<sup>8</sup> - diplôme de master en danse : interprétation, complété par un titre d'aptitude pédagogique ]<sup>8</sup>
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'expression corporelle ;
+
+\- AESS du domaine de la musique ;
+
+\- AESS du domaine des arts de la parole et du théâtre.]<sup>6</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique ;
+
+\- Master en enseignement section 5 : arts de la parole et du théâtre ;
+
+\- Master en enseignement section 5 : arts du spectacle et techniques de diffusion et de communication ;
+
+\- Master en enseignement section 5 : danse.]<sup>8</sup>
+
+[<sup>1</sup> 18° [<sup>3</sup> professeur de chant jazz [<sup>7</sup> ...]<sup>7</sup>]<sup>3</sup> :
+
+a) Titres requis :
+
+\- Diplôme de l'enseignement artistique supérieur de formation vocale, chant jazz, complété par un titre d'aptitude pédagogique;
+
+\- Diplôme de licencié en musique, section jazz [<sup>4</sup> ...]<sup>4</sup>, option chant, complété par un titre d'aptitude pédagogique;
+
+\- Diplôme de master à finalité didactique en musique, section jazz [<sup>4</sup> ...]<sup>4</sup>, option chant;
+
+\- Diplôme de master à finalité spécialisée ou approfondie en musique, section jazz [<sup>4</sup> ...]<sup>4</sup>, option chant, complété par un titre d'aptitude pédagogique;
+
+\- La reconnaissance d'expérience utile complétée par un titre d'aptitude pédagogique.
+
+b) Titres jugés suffisants :
+
+\- Diplôme de l'enseignement artistique supérieur de formation vocale, chant jazz;
+
+\- Diplôme de licencié en musique, section jazz [<sup>4</sup> ...]<sup>4</sup>, option chant;
+
+\- Diplôme de master à finalité spécialisée ou approfondie en musique, section jazz [<sup>4</sup> ...]<sup>4</sup>, option chant;
+
+\- La reconnaissance d'expérience utile.
+
+c) Titres d'aptitude pédagogique :
+
+\- CAPE de formation vocale, jazz;
+
+\- AESS du domaine de la musique.]<sup>1</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+[<sup>1</sup> 19° professeur de [<sup>7</sup> composition de]<sup>7</sup> musique électroacoustique :
+
+a) Titres requis :
+
+\- Diplôme de master à finalité didactique en musique électroacoustique;
+
+\- Diplôme de master à finalité spécialisée ou approfondie en musique électro-acoustique complété par un titre d'aptitude pédagogique;
+
+\- Diplôme de licencié en musique électroacoustique complété par un titre d'aptitude pédagogique;
+
+\- Diplôme de l'enseignement supérieur artistique ou artistique supérieur délivré dans une autre spécialité complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique.
+
+b) Titres jugés suffisants :
+
+\- Licence en musique électroacoustique;
+
+\- Diplôme de l'enseignement supérieur artistique ou artistique supérieur délivré dans une autre spécialité complété par la reconnaissance d'expérience utile.
+
+c) Titres d'aptitude pédagogique :
+
+\- CAPE de musique électroacoustique;
+
+\- AESS du domaine de la musique.]<sup>1</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+[<sup>2</sup> 20° [<sup>7</sup> ...]<sup>7</sup>
+
+21° professeur d'improvisation [<sup>7</sup> musicale]<sup>7</sup> :
+
+a) titre requis :
+
+\- la reconnaissance d'expérience utile complétée par un titre d'aptitude pédagogique;
+
+[<sup>7</sup> - diplôme de l'enseignement supérieur artistique ou artistique supérieur, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master en musique, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master didactique en musique, complété par la reconnaissance d'expérience utile.]<sup>7</sup>
+
+b) titre jugé suffisant :
+
+\- la reconnaissance d'expérience utile.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'improvisation;
+
+\- AESS du domaine [<sup>7</sup> de la]<sup>7</sup> musique.°
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+22° professeur [<sup>7</sup> de formation instrumentale de tradition locale]<sup>7</sup> :
+
+a) titre requis :
+
+\- la reconnaissance d'expérience utile complétée par un titre d'aptitude pédagogique;
+
+[<sup>7</sup> - diplôme de l'enseignement supérieur artistique ou artistique supérieur, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master en musique, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master didactique en musique, complété par la reconnaissance d'expérience utile.]<sup>7</sup>
+
+b) titre jugé suffisant :
+
+\- la reconnaissance d'expérience utile.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'instruments patrimoniaux;
+
+\- AESS du domaine [<sup>7</sup> de la]<sup>7</sup> musique;
+
+[<sup>7</sup> - CAPE de formation instrumentale de tradition locale.]<sup>7</sup>]<sup>2</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+[<sup>3</sup> 23° professeur de création musicale numérique :
+
+a) titres requis :
+
+\- diplôme de master à finalité didactique en musique : composition, musiques appliquées et interactives ;
+
+\- diplôme de master à finalité didactique en musique : informatique musicale ;
+
+\- diplôme de master à finalité spécialisée ou approfondie en musique, musiques appliquées et interactives, complété par le titre d'aptitude pédagogique ;
+
+\- diplôme de master à finalité spécialisée ou approfondie en musique : informatique musicale, complété par le titre d'aptitude pédagogique ;
+
+\- diplôme de master à finalité didactique en musique, autres spécialités, complété par la reconnaissance de l'expérience utile en création musicale numérique ;
+
+\- diplôme de master à finalité spécialisée ou approfondie, autres spécialités, complété par la reconnaissance de l'expérience utile en création musicale numérique et le titre d'aptitude pédagogique;
+
+[<sup>4</sup> diplôme de l'enseignement artistique supérieur délivré dans une autre spécialité, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique.]<sup>4</sup>
+
+b) titres jugés suffisants :
+
+Les titres repris sub a), 3e, 4e et 6e tirets, sans le titre d'aptitude pédagogique ;
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de création musicale numérique ;
+
+\- AESS du domaine de la musique.]<sup>3</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+[<sup>4</sup> 24° professeur de chant pop [<sup>7</sup> ...]<sup>7</sup>:
+
+a) titres requis:
+
+\- diplôme de master à finalité spécialisée, section formation vocale, option chant pop, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur de chant ou d'art lyrique complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en musique, section formation vocale, option chant ou art lyrique complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en musique, section formation vocale, option chant ou art lyrique complété par la reconnaissance d'expérience utile;
+
+\- diplôme de l'enseignement artistique supérieur de formation vocale, chant jazz, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- diplôme de master à finalité didactique en musique, section jazz, option chant, complété par la reconnaissance d'expérience utile;
+
+\- diplôme de licencié en musique, section jazz, option chant, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- diplôme de master à finalité spécialisée ou approfondie en musique, section jazz, option chant, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique.
+
+b) titres jugés suffisants:
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique:
+
+\- DAPE des disciplines vocales;
+
+\- CAPE de chant pop et ensemble pop;
+
+\- CAPE de chant et musique de chambre vocale;
+
+\- CAPE d'art lyrique;
+
+\- CAPE de chant jazz et ensemble jazz;
+
+\- AESS du domaine de la musique. ]<sup>4</sup>
+
+[<sup>8</sup> - Master en enseignement section 5 : musique.]<sup>8</sup>
+
+[<sup>2</sup> § 2. ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 44, 013; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCFR 2009-04-30/C3, art. 16, 016; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFR 2019-01-10/04, art. 27, 021; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2022-07-07/12, art. 10, 028; En vigueur : 29-08-2022&gt;
+
+(5)&lt;DCFR 2024-05-16/79, art. 59, 032; En vigueur : 02-08-2024&gt;
+
+(6)&lt;DCFR 2023-09-21/11, art. 18,a,m, 033; En vigueur : 28-08-2023&gt;
+
+(7)&lt;DCFR 2023-09-21/11, art. 18,b-l;n-u, 033; En vigueur : 26-08-2024&gt;
+
+(8)&lt;DCFR 2026-07-17/06, art. 11, 037; En vigueur : 24-08-2026&gt;
+
+##### Art. 107
+
+[§ 1er.] Les titres requis, les titres jugés suffisants et les titres d'aptitude pédagogique à l'enseignement pour les fonctions visées à l'article 51, § 4, que peuvent exercer les membres du personnel enseignant dans le domaine des arts de la parole et du théâtre sont fixés comme suit : &lt;DCFR 2003-07-17/40, art. 22, 005; En vigueur : 01-09-2003&gt;
+
+[<sup>2</sup> 1° professeur de diction-déclamation :
+
+[<sup>3</sup> a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur de déclamation, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur du 3e degré délivré dans la spécialité " théâtre ", complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement supérieur artistique de type court délivré dans la spécialité " Interprétation dramatique " complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master du domaine du théâtre et des arts de la parole, option arts oratoires ou option art dramatique, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master du domaine des arts du spectacle et techniques de diffusion et de communication, option interprétation dramatique ou théâtre et techniques de communication, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique du domaine du théâtre et des arts de la parole, option arts oratoires ou option art dramatique;
+
+\- diplôme de master didactique du domaine des arts du spectacle et techniques de diffusion et de communication, option interprétation dramatique ou théâtre et techniques de communication.]<sup>3</sup>
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique :
+
+\- DAPE du français parlé;
+
+\- CAPE de diction-déclamation;
+
+\- AESS du domaine du théâtre et des arts de la parole;
+
+\- AESS du domaine des arts du spectacle et techniques de diffusion et de communication.
+
+[<sup>8</sup> Master en enseignement section 5 : arts de la parole et du théâtre ;
+
+\- Master en enseignement section 5 : arts du spectacle et techniques de diffusion et de communication.]<sup>8</sup>
+
+2° professeur d'art dramatique :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'art dramatique complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur du 3 e degré délivré dans la spécialité " théâtre ", complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement supérieur artistique de type court délivré dans la spécialité " Interprétation dramatique " complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master du domaine du théâtre et des arts de la parole, option art dramatique, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master du domaine du théâtre et des arts de la parole, option arts oratoires, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master du domaine des arts du spectacle et techniques de diffusion et de communication, option interprétation dramatique ou théâtre et techniques de communication, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique du domaine du théâtre et des arts de la parole, option art dramatique;
+
+\- diplôme de master didactique du domaine du théâtre et des arts de la parole, option arts oratoires, complété par la reconnaissance d'expérience [<sup>7</sup> utile]<sup>7</sup>;
+
+\- diplôme de master didactique du domaine des arts du spectacle et techniques de diffusion et de communication, option interprétation dramatique ou théâtre et techniques de communication.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique :
+
+\- CAPE d'art dramatique;
+
+\- AESS du domaine du théâtre et des arts de la parole;
+
+\- AESS du domaine des arts du spectacle et techniques de diffusion et de communication.
+
+[<sup>8</sup> - Master en enseignement section 5 : arts de la parole et du théâtre ;
+
+\- Master en enseignement section 5 : arts du spectacle et techniques de diffusion et de communication. ]<sup>8</sup>
+
+3° professeur d'histoire de la littérature et d'histoire du théâtre :
+
+a) titres requis :
+
+\- diplôme d'agrégé de l'enseignement secondaire supérieur du groupe philosophie et lettres, section philologie romane;
+
+\- diplôme de licence ou de master du groupe philosophie et lettres, section philologie romane, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur d'histoire de la littérature et du théâtre, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de l'enseignement artistique supérieur du 3e degré délivré dans la spécialité " théâtre " complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master du domaine du théâtre et des arts de la parole, [<sup>3</sup> ...]<sup>3</sup>, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master du domaine des arts du spectacle et techniques de diffusion et de communication, option théâtre et techniques de communication, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique du domaine du théâtre et des arts de la parole, option art dramatique;
+
+\- diplôme de master didactique du domaine des arts du spectacle et techniques de diffusion et de communication, option théâtre et techniques de communication;
+
+\- diplôme de master en langues et littératures françaises et romanes, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en langues et littératures françaises et romanes;
+
+\- diplôme de licence ou de master en arts du spectacle, délivré par une université, complété par un titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en arts du spectacle, délivré par une université;
+
+\- diplôme d'agrégé de l'enseignement secondaire supérieur en arts du spectacle, délivré par une université.
+
+[<sup>8</sup> - diplôme de master en danse : interprétation, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;
+
+\- diplôme de master en danse et pratiques chorégraphiques, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;]<sup>8</sup>
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique :
+
+\- CAPE d'histoire de la littérature et d'histoire du théâtre;
+
+\- AESS du domaine des arts du spectacle et techniques de diffusion et de communication;
+
+\- AESS du domaine du théâtre et des arts de la parole;
+
+\- AESS en arts du spectacle délivrée par une université;
+
+[<sup>7</sup> - AESS en langues et littératures romanes.]<sup>7</sup>
+
+[<sup>8</sup> - - Master en enseignement section 5 : danse. ;]<sup>8</sup>
+
+4° [<sup>7</sup> professeur d'expression corporelle :
+
+a) titres requis :
+
+\- diplôme de fin d'études de l'Institut de Rythmique Jaques-Dalcroze de Belgique, délivré dans la spécialité expression corporelle, complété par un titre d'aptitude pédagogique ;
+
+\- tout diplôme de l'enseignement artistique supérieur, complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master en musique, en théâtre et arts de la parole ou en arts du spectacle et techniques de diffusion et communication complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+\- tout diplôme de master didactique en musique, en théâtre et arts de la parole ou en arts du spectacle et techniques de diffusion et communication complété par la reconnaissance d'expérience utile ;
+
+\- bachelier en arts du spectacle et techniques de diffusion et de communication : arts du cirque ;
+
+\- la reconnaissance d'expérience utile en danse contemporaine, complétée par un titre d'aptitude pédagogique ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'expression corporelle ;
+
+\- AESS du domaine de la musique ;
+
+\- AESS du domaine des arts de la parole et du théâtre.]<sup>7</sup>
+
+5° professeur chargé de l'accompagnement au clavecin (continuo et accompagnement spécifique) :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'instrument délivré dans la spécialité clavecin;
+
+\- diplôme de licence ou de master ou de master didactique en musique, section musique ancienne, formation instrumentale, option claviers, spécialité clavecin;
+
+\- diplôme de licence ou de master ou de master didactique en musique, section formation instrumentale, option claviers, spécialité clavecin.
+
+b) titres jugés suffisants :
+
+\- néant.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- néant.
+
+6° professeur chargé de l'accompagnement à l'orgue :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur d'instrument dans la spécialité orgue;
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, option claviers, spécialité orgue;
+
+\- diplôme de master didactique en musique, option claviers, spécialité orgue.
+
+[<sup>8</sup> diplôme de master en danse : interprétation, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;
+
+\- diplôme de master en danse et pratiques chorégraphiques, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ; ]<sup>8</sup>
+
+b) titres jugés suffisants :
+
+\- néant.
+
+c) titres d'aptitude pédagogique :
+
+\- néant.
+
+[<sup>8</sup> Master en enseignement section 5 : danse. ]<sup>8</sup>
+
+7° professeur chargé de l'accompagnement au piano :
+
+a) titres requis :
+
+\- diplôme de l'enseignement artistique supérieur de piano d'accompagnement;
+
+\- diplôme de l'enseignement artistique supérieur de piano, de piano jazz ou de claviers jazz, complété par le titre d'aptitude pédagogique;
+
+\- certificat final de piano d'accompagnement, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique;
+
+\- diplôme de licence ou de master en formation instrumentale, option claviers, spécialité accompagnement au piano;
+
+\- diplôme de licence ou de master en formation instrumentale, option claviers, spécialité piano, complété par le titre d'aptitude pédagogique;
+
+\- diplôme de master didactique en formation instrumentale, option claviers, spécialité accompagnement au piano;
+
+\- diplôme de master didactique en formation instrumentale, option claviers, spécialité piano.
+
+b) titres jugés suffisants :
+
+\- diplôme de l'enseignement artistique supérieur de piano, de piano jazz ou de claviers jazz;
+
+\- certificat final de piano d'accompagnement complété par la reconnaissance de l'expérience utile;
+
+\- diplôme de licence ou de master en formation instrumentale, option clavier, spécialité piano.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'accompagnement au piano.]<sup>2</sup>
+
+[<sup>5</sup> AESS du domaine de la musique. ]<sup>5</sup>
+
+[<sup>8</sup> Master en enseignement section 5 : danse. ]<sup>8</sup>
+
+[<sup>1</sup> 8°. [<sup>4</sup> ...]<sup>4</sup>]<sup>1</sup>
+
+[<sup>8</sup> . Master en enseignement section 5 : musique ]<sup>8</sup>
+
+[<sup>8</sup> Master en enseignement section 5 : musique. ]<sup>8</sup>
+
+[<sup>2</sup> § 2. ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 45, 013; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCFR 2009-04-30/C3, art. 17, 016; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFR 2014-11-20/08, art. 30, 019; En vigueur : 01-01-2015&gt;
+
+(4)&lt;DCFR 2019-01-10/04, art. 28, 021; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFR 2022-07-07/12, art. 11, 028; En vigueur : 29-08-2022&gt;
+
+(6)&lt;DCFR 2024-05-16/79, art. 60, 032; En vigueur : 02-08-2024&gt;
+
+(7)&lt;DCFR 2023-09-21/11, art. 19, 033; En vigueur : 28-08-2023&gt;
+
+(8)&lt;DCFR 2026-07-17/06, art. 13, 037; En vigueur : 24-08-2026&gt;
+
+##### Art. 108
+
+[<sup>1</sup> Les titres requis, les titres jugés suffisants et les titres d'aptitude pédagogique à l'enseignement pour les fonctions visées à l'article 51, § 5, que peuvent exercer les membres du personnel enseignant dans le domaine de la danse sont fixés comme suit :
+
+1° professeur de danse classique :
+
+a) titres requis :
+
+\- la reconnaissance d'expérience utile, complétée par le titre d'aptitude pédagogique ;
+
+\- la reconnaissance de l'ensemble de la formation artistique telle que visée à l'article 100, § 5, alinéa 3, complétée par le titre d'aptitude pédagogique ;
+
+[<sup>2</sup> - diplôme de master en danse : interprétation, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;
+
+\- diplôme de master en danse et pratiques chorégraphiques, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;]<sup>2</sup>
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de danse classique ;
+
+[<sup>2</sup> ]<sup>2</sup>
+
+2° professeur de danse contemporaine :
+
+a) titres requis :
+
+\- la reconnaissance d'expérience utile, complétée par le titre d'aptitude pédagogique ;
+
+\- la reconnaissance de l'ensemble de la formation artistique telle que visée à l'article 100, § 5, alinéa 3, complétée par le titre d'aptitude pédagogique ;
+
+[<sup>2</sup> - diplôme de master en danse : interprétation, complété par le titre d'aptitude pédagogique ;
+
+\- diplôme de master en danse et pratiques chorégraphiques, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;]<sup>2</sup>
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de danse contemporaine ;
+
+3° professeur de danse jazz :
+
+a) titres requis :
+
+\- la reconnaissance d'expérience utile, complétée par le titre d'aptitude pédagogique ;
+
+\- la reconnaissance de l'ensemble de la formation artistique telle que visée à l'article 100, § 5, alinéa 3, complétée par le titre d'aptitude pédagogique ;
+
+[<sup>2</sup> - diplôme de master en danse : interprétation, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;
+
+\- diplôme de master en danse et pratiques chorégraphiques, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;]<sup>2</sup>
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de danse jazz ;
+
+[<sup>2</sup> Master en enseignement section 5 : danse. ]<sup>2</sup>
+
+4° professeur de claquettes :
+
+a) titres requis :
+
+\- la reconnaissance d'expérience utile, complétée par le titre d'aptitude pédagogique ;
+
+\- la reconnaissance de l'ensemble de la formation artistique telle que visée à l'article 100, § 5, alinéa 3, complétée par le titre d'aptitude pédagogique.
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de claquettes ;
+
+5° professeur de danse traditionnelle :
+
+a) titres requis :
+
+\- la reconnaissance d'expérience utile, complétée par le titre d'aptitude pédagogique ;
+
+\- la reconnaissance de l'ensemble de la formation artistique telle que visée à l'article 100, § 5, alinéa 3, complétée par le titre d'aptitude pédagogique ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de danse traditionnelle ;
+
+6° professeur de danses urbaines :
+
+a) titres requis :
+
+\- la reconnaissance d'expérience utile, complétée par le titre d'aptitude pédagogique ;
+
+\- la reconnaissance de l'ensemble de la formation artistique telle que visée à l'article 100, § 5, alinéa 3, complétée par le titre d'aptitude pédagogique ;
+
+[<sup>2</sup> - diplôme de master en danse : interprétation, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ;
+
+\- diplôme de master en danse et pratiques chorégraphiques, complété par la reconnaissance d'expérience utile et le titre d'aptitude pédagogique ; ]<sup>2</sup>
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE de danses urbaines ;
+
+[<sup>2</sup> - Master en enseignement section 5 : danse. ]<sup>2</sup>
+
+7° professeur chargé de l'accompagnement au piano dans le domaine de la danse :
+
+a) titres requis :
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, option claviers, spécialité piano ou accompagnement au piano, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de licence ou de master en musique, section jazz, spécialité piano jazz ou claviers jazz, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique en musique, section formation instrumentale, option claviers, spécialité piano ou accompagnement au piano ;
+
+\- diplôme de master didactique en musique, section jazz, spécialité piano jazz ou claviers jazz ;
+
+\- diplôme de l'enseignement artistique supérieur de piano, de piano jazz ou de claviers jazz, complété par un titre d'aptitude pédagogique ;
+
+\- certificat final de piano d'accompagnement complété par la reconnaissance d'expérience utile et un titre d'aptitude pédagogique ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique ;
+
+c) titre d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'accompagnement au piano des cours de danse classique ;
+
+\- CAPE d'accompagnement au piano dans le domaine de la danse ;
+
+\- AESS du domaine de la musique ;
+
+[<sup>2</sup> - Master en enseignement section 5 : musique. ]<sup>2</sup>
+
+8° professeur chargé de l'accompagnement aux percussions dans le domaine de la danse :
+
+a) titres requis :
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, option percussions, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique en musique, section formation instrumentale, option percussions ;
+
+\- diplôme de l'enseignement artistique supérieur de percussions, de percussions jazz ou de batterie jazz, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de master en musique, section jazz, option batterie jazz, complété par un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique en musique, section jazz, option batterie jazz;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'accompagnement des cours de danse contemporaine et de danse jazz ;
+
+\- CAPE d'accompagnement aux percussions dans le domaine de la danse ;
+
+\- AESS du domaine de la musique. " ;
+
+[<sup>2</sup> - Master en enseignement section 5 : musique.]<sup>2</sup>
+
+9° professeur chargé de l'accompagnement des cours de danse traditionnelle :
+
+a) titres requis :
+
+\- diplôme de licence ou de master en musique, section formation instrumentale, toutes options, complété par la reconnaissance d'expérience utile un titre d'aptitude pédagogique ;
+
+\- diplôme de master didactique en musique, section formation instrumentale, toutes options, complété par la reconnaissance d'expérience utile ;
+
+\- la reconnaissance d'expérience utile, complétée par un titre d'aptitude pédagogique ;
+
+b) titres jugés suffisants :
+
+\- les titres repris sub a) sans titre d'aptitude pédagogique.
+
+c) titres d'aptitude pédagogique à l'enseignement :
+
+\- CAPE d'accompagnement des cours de danse traditionnelle ;
+
+\- AESS du domaine de la musique.]<sup>1</sup>
+
+[<sup>2</sup> - Master en enseignement section 5 : musique. "]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2023-09-21/11, art. 20, 033; En vigueur : 28-08-2023&gt;
+
+(2)&lt;XX XX-XX-XX/XX, art. 1, 037; En vigueur : XX-XX-XXXX&gt;
+
+##### Art. 109
+
+Les titres requis et les titres jugés suffisants pour la fonction de surveillant-éducateur que peuvent exercer les membres du personnel auxiliaire d'éducation dans l'enseignement secondaire artistique à horaire réduit sont fixés comme suit :
+
+a) titres requis :
+
+\- le diplôme d'agrégé de l'enseignement secondaire supérieur;
+
+\- le diplôme d'agrégé de l'enseignement secondaire inférieur;
+
+\- le diplôme d'instituteur primaire;
+
+\- le diplôme d'institutrice gardienne;
+
+\- le diplôme d'éducateur délivré par un établissement d'enseignement supérieur pédagogique de type court et de plein exercice ou à l'issue d'une section " éducateurs spécialisés " organisée par l'enseignement supérieur pédagogique ou social de promotion sociale de type court;
+
+\- le diplôme d'assistant social délivré par un établissement d'enseignement supérieur social ou par une école ou une section de l'enseignement supérieur technique classée au premier degré;
+
+\- le diplôme de candidat délivré conformément à la loi sur la collation des grades académiques, complété par 36 mois de services prestés, à titre définitif, dans la fonction à prestations complètes de surveillant-éducateur d'internat;
+
+\- le diplôme d'école ou de cours techniques supérieurs du premier degré, complété par 36 mois de services prestés, à titre définitif, dans la fonction à prestations complètes de surveillant-éducateur d'internat;
+
+\- le diplôme homologué d'études moyennes du degré supérieur, complété par 36 mois de services prestés, à titre définitif, dans la fonction à prestations complètes de surveillant-éducateur d'internat;
+
+\- le diplôme d'école technique secondaire supérieur complété par 36 mois de services prestés, à titre définitif, dans la fonction à prestations complètes de surveillant-éducateur d'internat;
+
+[<sup>1</sup> - le diplôme de master en enseignement section 5 ; ]<sup>1</sup>
+
+b) titres jugés suffisants :
+
+\- diplôme d'assistant social ou de conseiller social;
+
+\- diplôme de candidat délivré par une université belge ou par un établissement y habilité par la loi;
+
+\- diplôme d'enseignement artistique supérieur de plein exercice;
+
+\- diplôme d'enseignement supérieur de type court de plein exercice;
+
+\- diplôme d'enseignement technique supérieur de plein exercice;
+
+\- (certificat d'enseignement secondaire supérieur, le cas échéant homologué s'il a été délivré par un établissement scolaire avant le 1er janvier 2008 ou revêtu du sceau de la Communauté française s'il a été délivré après cette date). &lt;DCFR 2008-04-25/38, art. 9, 012; En vigueur : 01-06-2008&gt;
+
+----------
+
+(1)&lt;DCFR 2026-07-17/06, art. 14, 037; En vigueur : 24-08-2026&gt;
+
+### Section 2. - Du certificat d'aptitude pédagogique à l'enseignement.
+
+##### Art. 110
+
+Le certificat d'aptitude pédagogique à l'enseignement visé à l'article 102 est délivré par une Commission d'examen constituée à l'initiative du pouvoir organisateur de l'établissement où la vacance d'emploi a été déclarée.
+
+[<sup>1</sup> Sur décision de deux ou plusieurs pouvoirs organisateurs appartenant ou non à un même réseau, des épreuves d'aptitude pédagogique à l'enseignement peuvent être regroupées en une seule session placée sous la responsabilité de l'un d'entre eux mandaté à cet effet.
+
+Les accords entre pouvoirs organisateurs sont constatés par une convention d'une durée limitée à l'épreuve concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 32, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 111
+
+Seuls peuvent être admis à présenter les épreuves d'aptitude pédagogique à l'enseignement les [<sup>1</sup> membres du personnel]<sup>1</sup> titulaires du titre jugé suffisant pour la fonction en cause [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 33, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 112
+
+La Commission d'examen se compose comme suit :
+
+1° le chef d'un établissement d'enseignement [<sup>2</sup> secondaire]<sup>2</sup> artistique à horaire réduit en qualité de président;
+
+2° [<sup>2</sup> un inspecteur de l'enseignement artistique]<sup>2</sup>, président suppléant et délégué de la Communauté française;
+
+3° [<sup>3</sup> six membres effectifs et quatre membres suppléants choisis parmi les membres du personnel directeur et enseignant de l'enseignement secondaire artistique à horaire réduit nommés ou engagés à titre définitif, les membres de l'enseignement supérieur artistique nommés ou engagés à titre définitif ou désignés à titre temporaire sur la base d'un contrat à durée indéterminée, les membres du service de l'inspection de l'enseignement artistique et les titulaires d'un diplôme universitaire en psychopédagogie ou en sciences de l'éducation]<sup>3</sup>;
+
+4° un secrétaire désigné par le Pouvoir organisateur, n'ayant pas voix délibérative.
+
+En cas d'indisponibilité de l'inspecteur, le délégué de la Communauté française est désigné par le ministre ou son délégué.
+
+Des membres des Pouvoirs organisateurs et des Organisations syndicales peuvent assister aux épreuves en qualité d'observateur.
+
+Nul ne peut siéger dans la Commission d'examen lorsqu'un des candidats est son conjoint, parent ou allié jusqu'au deuxième degré.
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 46, 013; En vigueur : 01-02-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 34, 019; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCFR 2019-01-10/04, art. 29, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 113
+
+Pour siéger valablement, la Commission d'examen doit être composée au moins :
+
+1° du président ou du président suppléant;
+
+2° de quatre [<sup>1</sup> ...]<sup>1</sup> visés à l'article 112, 3°, dont deux au moins désignés par le pouvoir organisateur et deux au moins désignés par le Ministre ou son délégué.
+
+[<sup>1</sup> La Commission est définitivement constituée dès la réunion préparatoire visée à l'article 116]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 35, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 114
+
+[<sup>2</sup> Deux mois au moins avant la date de l'examen, le pouvoir organisateur demande au Ministre ayant l'enseignement secondaire artistique à horaire réduit dans ses attributions de lui communiquer les noms et les coordonnées du délégué de la Communauté française et des membres choisis par celle-ci. Il communique simultanément la liste des candidats inscrits et des membres de la Commission d'examen qu'il a choisis.]<sup>2</sup>
+
+[<sup>2</sup> Un mois au moins avant la date de l'examen, le pouvoir organisateur avise chaque candidat de la date d'organisation des épreuves et communique, le cas échéant, la liste des documents et travaux écrits devant être présentés au président de la Commission d'examen, au plus tard 15 jours calendrier avant la date de l'examen, en autant d'exemplaires qu'il y a de membres de la Commission d'examen. ]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 46, 013; En vigueur : 01-02-2009&gt;
+
+(2)&lt;DCFR 2014-11-20/08, art. 36, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 115
+
+Pour chacun des CAPE requis pour l'engagement ou la nomination à titre définitif aux diverses fonctions de recrutement des membres du personnel enseignant, l'examen comprend trois épreuves :
+
+1° une épreuve artistique éliminatoire;
+
+2° une épreuve pédagogique;
+
+3° une épreuve de connaissances culturelles, techniques, théoriques et pratiques.
+
+Les programmes spécifiques et [<sup>1</sup> la valeur proportionnelle]<sup>1</sup> des épreuves visées à l'alinéa 1er sont fixés par le Gouvernement.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 37, 019; En vigueur : 01-01-2015&gt;
+
+##### Art. 116
+
+Avant l'ouverture de la session, la Commission d'examen détermine, lors d'une réunion préparatoire, son règlement d'ordre intérieur et la procédure suivant laquelle se déroulera la session.
+
+##### Art. 117
+
+Les cotes sont attribuées à l'issue de chaque épreuve par chaque membre de la Commission d'examen ayant voix délibérative. Ces cotes inscrites sur fiches nominatives font l'objet d'une délibération à l'issue de laquelle les cotes définitives sont actées au procès-verbal visé à l'article 119.
+
+Lorsque les cotes d'un membre de la Commission d'examen diffèrent de plus de 20 % en plus ou en moins de la moyenne des cotes, il est tenu de justifier sa cotation. Cette justification est inscrite au procès-verbal visé à l'article 119.
+
+##### Art. 118
+
+Sont déclarés aptes et reçoivent un certificat d'aptitude à l'enseignement les candidats ayant obtenu au moins 6/10 des points attribués à chacune des épreuves et 7/10 des points attribués à l'examen.
+
+Le certificat mentionnant l'intitulé de l'examen présenté est signé par le récipiendaire et par tous les membres de la Commission d'examen ayant voix délibérative et porte la date de l'examen. Il est valable pendant dix ans pour l'engagement ou la nomination à titre définitif pour tout emploi dont la vacance a été déclarée par un pouvoir organisateur de l'enseignement secondaire artistique à horaire réduit avant la date d'expiration de sa validité.
+
+##### Art. 119
+
+Un exemplaire du procès-verbal de l'examen établi par le secrétaire et signé par tous les membres de la Commission d'examen ayant siégé est adressé [<sup>2</sup> au service de l'inspection]<sup>2</sup> ainsi qu'au service du ministère ayant en charge l'enseignement [<sup>1</sup> secondaire]<sup>1</sup> artistique à horaire réduit.
+
+----------
+
+(1)&lt;DCFR 2014-11-20/08, art. 16, 019; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 61, 032; En vigueur : 02-08-2024&gt;
+
+##### Art. 120
+
+Les frais d'organisation des sessions d'examen d'aptitude sont à charge des pouvoirs organisateurs.
+
+## CHAPITRE VII. [<sup>1</sup> - Du conseil général de l'enseignement secondaire artistique à horaire réduit.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/04, art. 30, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 121
+
+[<sup>1</sup> § 1er. Il est créé, auprès des services du Gouvernement de la Communauté française, un Conseil général de l'enseignement secondaire artistique à horaire réduit, ci-après dénommé le " Conseil général ".
+
+§ 2. Le Conseil général a pour mission de remettre un avis :
+
+1° sur toute question relative au fonctionnement, à l'amélioration et à la qualité de l'enseignement secondaire artistique à horaire réduit soit à la demande du Gouvernement soit d'initiative ;
+
+2° sur tout nouveau programme de cours tel que visé à l'article 4, § 4, alinéa 2 ;
+
+3° sur tout dossier relatif à la création et l'admission aux subventions d'un nouvel établissement ou d'un nouveau domaine, visé à l'article 41bis ;
+
+4° sur toute demande de dérogation sur l'ouverture de cours en dehors du territoire de la commune visée à l'article 45, § 1er ;
+
+5° sur le choix, par le Gouvernement, des membres experts enseignants de la Commission de reconnaissance d'expérience utile ainsi que de leurs suppléants visés à l'article 100bis, § 3, 5°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-01-10/04, art. 30, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 121bis
+
+[<sup>1</sup> § 1er. Le Conseil général comprend :
+
+1° pour chacune des organisations représentatives des pouvoirs organisateurs, deux membres effectifs et deux membres suppléants ;
+
+2° pour chacune des organisations syndicales représentatives, un membre effectif et un membre suppléant ;
+
+3° pour le personnel directeur et enseignant de l'enseignement secondaire artistique à horaire réduit, huit membres effectifs et huit membres suppléants, à raison, respectivement, de deux par domaine d'enseignement ;
+
+4° pour le service de l'inspection de l'Enseignement artistique, quatre membres effectifs, dont l'inspecteur coordonnateur dudit service, à raison d'un inspecteur par domaine d'enseignement ;
+
+5° pour les services du Gouvernement de la Communauté française :
+
+\- le fonctionnaire général ayant l'organisation de l'enseignement secondaire artistique à horaire réduit dans ses attributions, ou son délégué ;
+
+\- le fonctionnaire général ayant la gestion des membres du personnel de l'enseignement secondaire artistique à horaire réduit dans ses attributions, ou son délégué ;
+
+6° un représentant du Gouvernement.
+
+§ 2. Les membres effectifs visés au § 1er, 1°, exercent, en alternance tous les deux ans, la présidence et la vice-présidence du Conseil général.
+
+§ 3. Les membres visés au § 1er, 1°, 2°, 3° et 5°, ainsi que l'inspecteur coordonnateur visé au 4°, ont une voix délibérative. Les autres membres visés au même paragraphe ont une voix consultative.
+
+§ 4. Le Gouvernement fixe les modalités de désignation des membres du Conseil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-01-10/04, art. 30, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 121ter
+
+[<sup>1</sup> § 1er. Le mandat des membres du Conseil général est fixé à quatre ans. Il est renouvelable, à l'exception du mandat des membres visés à l'article 121bis, § 1er, 3°, renouvelable une seule fois consécutivement.
+
+§ 2. Le mandat n'est pas rétribué.
+
+Les membres du Conseil général ont droit au remboursement de leurs frais de parcours conformément aux dispositions de l'arrêté royal du 18 janvier 1965 portant réglementation générale en matière de frais de parcours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-01-10/04, art. 30, 021; En vigueur : 01-09-2019&gt;
+
+##### Art. 121quater
+
+[<sup>1</sup> Le Gouvernement détermine les règles de fonctionnement du Conseil général.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-01-10/04, art. 30, 021; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE VIII. - Des dispositions abrogatoires, transitoires et finales.
+
+##### Art. 122
+
+Lorsqu'un pouvoir organisateur ne satisfait pas aux conditions fixées par l'article 7, 2°, et qu'il est fait application de l'article 24, § 7, de la loi du 29 mai 1959 précitée, une suspension de l'application de la notification basée sur le manquement constaté peut être accordée par le Gouvernement.
+
+Cette suspension produisant ses effets à la date d'entrée en vigueur du présent décret et limitée à deux années scolaires maximum, est accordée à la demande du pouvoir organisateur pour autant que celui-ci s'engage à satisfaire au prescrit de l'article 7, 2°, au terme de la période de suspension.
+
+##### Art. 123
+
+Pour les membres du personnel nommés ou engagés à titre définitif à une fonction non reprise à l'article 51, les pouvoirs organisateurs procèdent à une mise en conformité des intitulés des fonctions exercées avec la nomenclature des fonctions fixée par le présent décret.
+
+##### Art. 124
+
+(abrogé) &lt;DCFR 2003-07-17/40, art. 24, 005; En vigueur : 01-09-2003&gt;
+
+##### Art. 125
+
+Les établissements d'enseignement secondaire artistique à horaire réduit non repris à l'article 23 qui organisaient durant l'année scolaire 1997-1998 des périodes d'enseignement des humanités artistiques peuvent continuer à organiser à partir du 1er septembre 1998 les périodes de cours des humanités artistiques permettant aux élèves restant inscrits de terminer le cycle d'études secondaires entrepris.
+
+Les établissements visés à l'alinéa 1er bénéficient de dotations annuelles de périodes de cours conformément à l'article 35.
+
+##### Art. 126
+
+En cas de fusion d'établissements visée aux articles 43 et 44, et par dérogation aux dispositions de l'article 43 du décret du 1er février 1993 et de l'article 31 du décret du 6 juin 1994 précités, l'obligation de nommer ne s'impose pas au pouvoir organisateur durant une période transitoire ne pouvant excéder les trois années scolaires suivant la date de la fusion.
+
+##### Art. 127
+
+Sont abrogés :
+
+1° l'arrêté royal du 26 mars 1954 relatif aux conditions d'octroi par l'Etat de subventions aux conservatoires communaux, aux académies et écoles de musique communales et libres;
+
+2° (l'article 1er), alinéa 2, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement; &lt;DCFR 1999-02-08/37, art. 49, 002; En vigueur : 01-09-1998&gt;
+
+3° l'arrêté royal du 10 mars 1965 portant statut pécuniaire du personnel des cours à horaire réduit relevant du Ministre de l'Education nationale et de la Culture;
+
+4° l'arrêté royal du 26 janvier 1968 fixant les titres requis en vue de l'octroi des subventions aux établissements d'enseignement de la musique;
+
+5° l'arrêté royal du 21 avril 1969, fixant la structure, la composition et le fonctionnement du Conseil de perfectionnement de l'enseignement de l'architecture et des arts plastiques;
+
+6° l'arrêté royal du 9 septembre 1969 relatif au certificat d'aptitude à l'enseignement dans les établissements subventionnés d'enseignement de la musique;
+
+7° arrêté royal du 5 novembre 1969 instituant un Conseil de perfectionnement de l'enseignement de la musique;
+
+8° l'arrêté royal du 8 janvier 1971 déterminant les niveaux d'études dans les établissements subventionnés d'enseignement musical;
+
+9° l'arrêté royal du 5 août 1971 portant règlement général des études dans l'enseignement des arts plastiques à horaire réduit organisé par l'Etat;
+
+10° l'arrête royal du 12 août 1971 relatif à l'application de l'article premier, alinéa 2, de l'arrêté royal du 5 août 1971 précité;
+
+11° l'arrêté royal du 13 août 1971 portant application, en ce qui concerne l'enseignement des arts plastiques à horaire réduit subventionné, de l'article 24 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement;
+
+12° l'arrêté ministériel du 10 novembre 1971 pris en application de l'arrêté royal du 9 septembre 1969 relatif au certificat d'aptitude à l'enseignement;
+
+13° l'arrêté ministériel du 30 juin 1972 fixant l'horaire et le programme minimum des cours ainsi que le règlement des examens de l'enseignement musical subventionné d'expression française;
+
+14° l'arrêté ministériel du 9 novembre 1978 fixant les conditions requises pour la création d'emplois dans les établissements d'enseignement artistique à horaire réduit de l'Etat relevant du Ministre de la Culture néerlandaise et du Ministre de la Culture française;
+
+15° l'arrêté ministériel du 10 novembre 1978 portant exécution de l'article 4 de arrêté royal du 9 novembre 1978 précité;
+
+16° l'arrêté ministériel du 10 novembre 1978 portant assimilation des titres dans l'enseignement artistique en vue de l'octroi d'échelles de traitement;
+
+17° l'article de l'arrêté royal du 7 décembre 1978 pris en exécution de l'article 77, § 2, de la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977 et portant dérogation à certaines dispositions des arrêtés royaux fixant les conditions requises pour la création d'emplois dans les établissements d'enseignement technique ou artistique de l'Etat, de promotion sociale ou à horaire réduit;
+
+18° avec effet au 1er septembre 1992, l'arrête royal du 29 août 1985 portant harmonisation des dispositions des statuts pécuniaires applicables au personnel enseignant et assimile de l'enseignement de plein exercice et de l'enseignement secondaire artistique à horaire réduit.
+
+##### Art. 128
+
+L'enseignement secondaire artistique à horaire réduit est exclu du champ d'application des dispositions suivantes :
+
+1° la loi du 14 mai 1955 sur l'enseignement artistique;
+
+2° l'arrêté royal du 22 mars 1961 portant application de l'article 5 de la loi du 14 mai 1955 sur l'enseignement artistique et des articles 24, 27 et 32 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement;
+
+3° l'arrêté royal du 5 novembre 1973 relatif à l'organisation de l'enseignement des arts plastiques relevant du Ministre de la Culture française;
+
+4° l'arrêté royal du 5 mai 1976 portant assimilation des titres de l'enseignement artistique;
+
+5° l'arrêté royal du 31 août 1978 relatif aux titres jugés suffisants dans les établissements subventionnés d'enseignement artistique qui dispensent un enseignement secondaire des arts plastiques;
+
+6° l'arrêté royal n° 63 du 20 juillet 1982 modifiant les dispositions des statuts pécuniaires applicables au personnel enseignant et assimilé de plein exercice et de l'enseignement de promotion sociale ou à horaire réduit.
+
+##### Art. 129
+
+Le présent décret entre en vigueur le 1er septembre 1998 à l'exception des articles 38, 55 et 60 à 62 qui entrent en vigueur le 1er septembre 1999.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Donné à Bruxelles, le 2 juin 1998.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+W. ANCION
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE

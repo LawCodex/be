@@ -1,0 +1,1333 @@
+---
+title: "Décret relatif aux fonctions de promotion et de sélection."
+identifier: "1999029087"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/01/04/1999029087/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1999-01-04
+published: 1999-02-25
+entry_into_force: 1999-02-25
+last_amended: 2026-07-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/01/04/1999029087/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 25-02-1999 et mise à jour au 29-07-2026"
+retrieved: 2026-10-12
+---
+
+# 4 JANVIER 1999. - Décret relatif aux fonctions de promotion et de sélection.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+#### Art. 1
+
+§ 1. [<sup>3</sup> Le présent décret s'applique aux membres du personnel qui exercent leurs fonctions dans les établissements d'enseignement maternel, primaire, fondamental, secondaire ordinaire et spécialisé et de promotion sociale organisés par la Communauté française.]<sup>3</sup>
+
+§ 2. [<sup>3</sup> Le présent décret ne s'applique pas aux membres du personnel du Service général de l'Inspection créé par le décret du 10 janvier 2019 relatif au Service général de l'Inspection.]<sup>3</sup>
+
+§ 3. Sont applicables aux membres du personnel subsidiés des établissements d'enseignement subventionnés par la Communauté française les dispositions suivantes du présent décret :
+
+1° le chapitre II ainsi que les articles 43, 44 et 45;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>2</sup> § 4. Pour l'enseignement de promotion sociale, les articles 23, 24 et 26 sont appliqués uniquement aux membres du personnel qui exercent leurs fonctions dans les établissements d'enseignement organisé par la Communauté française.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2017-02-09/19, art. 30, 019; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFR 2017-02-09/19, art. 31, 019; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFR 2019-03-14/20, art. 65, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 2
+
+L'emploi dans le présent décret des noms masculins pour les différents titres et fonctions est épicène en vue d'assurer la lisibilité du texte nonobstant les dispositions du décret du 21 juin 1993 relatif à la féminisation des noms de métier.
+
+## CHAPITRE II. - Des fonctions de sélection et de promotion que peuvent exercer les membres du personnel [<sup>2</sup> ...]<sup>2</sup> dans l'enseignement maternel, primaire, fondamental et secondaire ordinaire et (spécialisé) [<sup>1</sup> et de promotion sociale]<sup>1</sup>. &lt;DCFR 2004-03-03/36, art. 260, 007; En vigueur : 01-09-2004&gt;
+
+----------
+
+(1)&lt;DCFR 2017-02-09/19, art. 32, 019; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFR 2019-03-14/20, art. 66, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 3
+
+Les fonctions de promotion que peuvent exercer les membres du personnel [<sup>1</sup> ...]<sup>1</sup> dans l'enseignement maternel, primaire ou fondamental sont celles de directeur d'école maternelle, de directeur d'école primaire et de directeur d'école fondamentale.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 67, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 4
+
+[<sup>1</sup> § 1er. Les fonctions de promotion que peuvent exercer les membres du personnel dans l'enseignement secondaire sont les suivantes :
+
+1° directeur de l'enseignement secondaire inférieur;
+
+2° directeur;
+
+3° chef de travaux d'atelier;
+
+4° directeur d'un centre technique et pédagogique;
+
+5° directeur d'un centre d'autoformation et de formation continuée;
+
+6° directeur d'un centre technique horticole de l'enseignement de la Communauté française;
+
+7° administrateur.
+
+§ 2. La fonction de promotion que peuvent exercer les membres du personnel dans l'enseignement de promotion sociale est la fonction de directeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 68, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 5
+
+[<sup>1</sup> § 1er. Les fonctions de sélection que peuvent exercer les membres du personnel dans l'enseignement secondaire sont les suivantes :
+
+1° directeur adjoint de l'enseignement secondaire inférieur;
+
+2° directeur adjoint;
+
+3° chef d'atelier;
+
+4° chef d'atelier d'un centre technique et pédagogique;
+
+5° coordonnateur d'un centre d'éducation et de formation en alternance;
+
+6° coordonnateur de centre de technologies avancées;
+
+7° secrétaire de direction.
+
+[<sup>3</sup> 8° coordonnateur d'un pôle territorial]<sup>3</sup>
+
+§ 2. Les fonctions de sélection que peuvent exercer les membres du personnel dans l'enseignement de promotion sociale sont les suivantes :
+
+1° directeur adjoint;
+
+2° chef d'atelier;
+
+3° secrétaire de direction.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Les fonctions de sélection que peuvent exercer les membres du personnel dans l'enseignement fondamental sont les suivantes:
+
+1° directeur adjoint d'une école maternelle;
+
+2° directeur adjoint d'une école primaire ou fondamentale.]<sup>2</sup>
+
+[<sup>3</sup> 3° coordonnateur d'un pôle territorial.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 69, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 31, 022; En vigueur : 03-02-2021&gt;
+
+(3)&lt;DCFR 2021-06-17/29, art. 44, 024; En vigueur : 01-09-2021&gt;
+
+#### Art. 6
+
+Dans les établissements n'organisant pas le 3e degré de l'enseignement secondaire [<sup>1</sup> ...]<sup>1</sup>, la fonction de promotion est la fonction de directeur de l'enseignement secondaire inférieur.
+
+Dans les établissements n'organisant pas le 3e degré de l'enseignement secondaire [<sup>1</sup> ...]<sup>1</sup>, la fonction de sélection est la fonction de sous-directeur de l'enseignement secondaire inférieur.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 70, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 7
+
+[<sup>1</sup> De commun accord avec le membre du personnel, le pouvoir organisateur peut désigner le titulaire d'une fonction de sélection ou de promotion dans un établissement d'enseignement secondaire supérieur pour exercer la fonction de sélection ou de promotion correspondante au niveau secondaire inférieur, lorsque des opérations de restructuration impliquent qu'un établissement d'enseignement secondaire supérieur se transforme en établissement d'enseignement secondaire inférieur.
+
+Il reste nommé ou engagé à titre définitif dans la fonction de sélection ou de promotion au niveau secondaire supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Rétabli par DCFR 2013-10-17/03, art. 22, 015; En vigueur : 01-09-2013&gt;
+
+## CHAPITRE IIbis. &lt;Inséré par DCFR 2001-12-20/64, art. 64; En vigueur : 01-02-2002&gt; - De la fonction de promotion de directeur d'un Centre de dépaysement et de plein air.
+
+#### Art. 7bis
+
+&lt;Inséré par DCFR 2001-12-20/64, art. 64; En vigueur : 01-02-2002&gt; La fonction de promotion de directeur d'un centre de dépaysement et de plein air peut être exercée par des membres du personnel de l'enseignement maternel, primaire ou fondamental et par des membres du personnel de l'enseignement secondaire du degré inférieur.
+
+## CHAPITRE IIter. [<sup>1</sup> De la fonction de sélection de coordonnateur d'un pôle territorial]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 45, 024; En vigueur : 01-09-2021&gt;
+
+#### Art. 7ter.
+
+[<sup>1</sup> La fonction de sélection de coordonnateur d'un pôle territorial peut être exercée par un membre du personnel de l'enseignement maternel, primaire, fondamental ou secondaire, ordinaire ou spécialisé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 46, 024; En vigueur : 01-09-2021&gt;
+
+## CHAPITRE III. [<sup>1</sup> - Conditions de nomination]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 71, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 8
+
+[<sup>1</sup> § 1er Tout membre du personnel peut être nommé dans une fonction de promotion ou de sélection [<sup>2</sup> à l'exception des fonctions de coordinateur d'un pôle territorial et de coordinateur de centre de technologies avancées]<sup>2</sup> aux conditions suivantes :
+
+1° répondre aux conditions reprises aux articles 10, 11, 12, 12bis, 12ter, 12quater et 12quinquies;
+
+2° compter une ancienneté de service dans l'enseignement organisé ou subventionné par la Communauté française de six ans exercée dans l'enseignement de plein exercice ou de 1800 jours de sélection exercés dans l'enseignement de promotion sociale;
+
+3° avoir été désigné dans l'emploi en application de la procédure prévue à l'article 28 pendant deux années au moins;
+
+4° être titulaire du brevet en rapport avec la fonction à conférer.
+
+§ 2. Pour être désigné à titre temporaire dans les fonctions de secrétaire de direction, de chef d'atelier, de chef de travaux d'atelier et de coordonnateur d'un centre d'éducation et de formation en alternance, le candidat doit également avoir acquis une ancienneté de service de trois ans dans une des fonctions de de la catégorie en cause au sein de l'enseignement organisé ou subventionné par la Communauté française.
+
+Par dérogation à l'alinéa précédent, les secrétaires de direction désignés sur base d'un des titres de capacité listés à l'annexe du présent décret ne doivent pas avoir acquis une ancienneté de service de trois ans au sein de l'enseignement organisé ou subventionné par la Communauté française.
+
+Si la personne recrutée dans les conditions de l'alinéa précédent n'exerce pas de fonction dans l'enseignement organisé ou subventionné par la Communauté française au moment de son recrutement, elle ne sera désignée que si elle rencontre également les conditions suivantes :
+
+1° jouir des droits civils et politiques;
+
+2° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+3° être de conduite irréprochable;
+
+4° satisfaire aux lois sur la milice.
+
+Les membres du personnel nommés ou engagés à titre définitif dans la même fonction de promotion ou de sélection en application des paragraphes 1er et 2 du présent article sont réputés remplir les conditions de désignation prévues au présent paragraphe.
+
+§ 3. Les dispositions du paragraphe 2, alinéa 1er, ne sont pas d'application en ce qui concerne l'accès à la fonction de sélection de chef d'atelier d'un centre technique et pédagogique, et aux fonctions de promotion de directeur d'un centre technique et pédagogique, de directeur d'un centre d'auto-formation et de formation continuée, de directeur d'un centre de dépaysement et de plein air ou d'un directeur d'un centre technique horticole de l'enseignement de la Communauté française.
+
+Le présent article n'est pas applicable aux fonctions de promotion de directeur, régies par le décret du 2 février 2007 fixant le statut des directeurs.
+
+La condition visée à l'alinéa 1er, 4°, n'est pas requise pour l'accès à la fonction de sélection de coordonnateur de centre de technologies avancées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 72, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 47, 024; En vigueur : 01-09-2021&gt;
+
+#### Art. 9
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 101, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 10
+
+[<sup>1</sup> Pour être nommés à la fonction de sélection de chef d'atelier dans l'enseignement organisé par la Communauté française, les membres du personnel doivent :
+
+1° avoir exercé, à la veille de leur désignation en qualité de chef d'atelier, la fonction de recrutement de professeur de cours techniques, de professeur de pratique professionnelle ou d'accompagnateur d'un centre d'éducation et de formation en alternance;
+
+2° être porteurs d'un des titres de capacité repris en annexe I du décret du 2 février 2007 fixant le statut des directeurs et directrices dans l'enseignement;
+
+3° être porteurs d'un titre pédagogique constituant un titre de capacité tel que défini à l'article 17 du décret 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 73, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 11
+
+[<sup>1</sup> Pour être nommés à la fonction de promotion de chef de travaux d'atelier dans l'enseignement de la Communauté française, les membres du personnel doivent :
+
+1° avoir exercé, à la veille de leur désignation en qualité de chef de travaux d'atelier, la fonction de recrutement de professeur de cours techniques ou de professeur de pratique professionnelle, de chef d'atelier ou d'accompagnateur d'un centre d'éducation et de formation en alternance;
+
+2° être porteurs d'un des titres de capacité repris en annexe II du décret du 2 février 2007 fixant le statut des directeurs et directrices dans l'enseignement;
+
+3° être porteurs d'un titre pédagogique constituant un titre de capacité tel que défini à l'article 17 du décret 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 74, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 12
+
+[<sup>1</sup> Pour être nommés à la fonction de sélection de directeur adjoint ou de directeur adjoint dans l'enseignement secondaire inférieur dans l'enseignement de la Communauté française, les membres du personnel doivent être porteurs d'un titre du niveau supérieur du niveau du 1er degré au moins et d'un titre pédagogique constituant un titre de capacité tel que défini à l'article 17 du décret 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa précédent, les membres du personnel ne possédant pas de titre pédagogique, ayant participé à une des sessions de la formation à la fonction de directeur adjoint, visées à l'article 19bis, avant le 1er septembre 2019 et titulaires, suite à cette participation, d'au moins une attestation de réussite, pourront être nommés dans la fonction de directeur adjoint, lorsqu'ils rempliront les autres conditions de l'article 8 et s'ils exerçaient, avant le 1er septembre 2019, une fonction du personnel auxiliaire d'éducation.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 75, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2024-05-16/79, art. 95, 026; En vigueur : 02-08-2024&gt;
+
+#### Art. 12bis
+
+[<sup>1</sup> Pour être nommés à la fonction de sélection de coordonnateur d'un centre d'éducation et de formation en alternance, les membres du personnel doivent :
+
+1° avoir exercé, à la veille de leur désignation en qualité de coordonnateur d'un centre d'éducation et de formation en alternance une fonction relevant de la catégorie du personnel directeur et enseignant;
+
+2° être porteurs d'un des titres de capacité repris en annexe I du décret du 2 février 2007 fixant le statut des directeurs et directrices dans l'enseignement;
+
+3° être porteurs d'un titre du niveau supérieur;
+
+4° être porteurs d'un titre pédagogique constituant un titre de capacité tel que défini à l'article 17 du décret 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 76, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 12ter
+
+[<sup>1</sup> - § 1 Pour être désignés à la fonction de sélection de coordonnateur de centre de technologies avancées relevant de l'enseignement de la Communauté française, les membres du personnel doivent :
+
+1° être nommés soit à la fonction de professeur de cours techniques (CT) ou de Pratiques professionnelles (PP) telle que définie à l'article 6 du Décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, au sein de l'enseignement organisé par la Communauté française ou au sein de l'enseignement libre ou officiel subventionné par la Communauté française;
+
+2° être porteur d'un titre requis ou suffisant pour l'exercice d'une fonction visée au 1°.
+
+Dans le cadre de l'application du présent article, le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup> met en concurrence la candidature des membres du personnel répondant aux conditions de l'alinéa 1er et de l'article 8, avec celle de personnes répondant à l'une des conditions suivantes :
+
+Etre porteur du grade académique de bachelier visé à l'article 69, § 1er, ou à l'article 70, § 1er, du décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études, ainsi que d'une expérience professionnelle utile de trois ans, d'un CESS de l'enseignement général, technique ou professionnel ainsi que d'une expérience professionnelle utile de 6 ans ou d'un certificat d'étude de l'enseignement professionnel ainsi que d'une expérience professionnelle utile de 9 ans. L'expérience utile doit avoir été acquise dans le domaine d'activité du centre de technologies avancées dans lequel le poste est à pourvoir et avoir été valorisée selon la procédure prévue aux articles 23 et 24 du décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française.
+
+§ 2. Le Chef de l'établissement auquel le centre de technologies avancées est rattaché informe le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup> de la vacance de cet emploi au sein de son établissement aussitôt que celle-ci lui est connue. Le profil de fonction pour le recrutement d'un coordonnateur de centre de technologies avancées est composé de deux parties : un profil générique déterminé par le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup> et un profil spécifique proposé par le Comité d'Accompagnement du Centre de Technologies Avancées dans les deux semaines qui suivent la communication de la vacance. Après approbation du profil spécifique, le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup> publie un appel aux candidats pour cet emploi dans les deux mois de la communication de sa vacance. Si ce délai échoit durant une période de vacances scolaires, il est prolongé jusqu'à l'issue de la première semaine qui suit cette période de vacances.
+
+§ 3. Au sein de chaque centre de technologies avancées est créée une Commission de recrutement dont la composition est fixée par le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup>. [<sup>2</sup> ...]<sup>2</sup>.
+
+Le président et son suppléant sont désignés par le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup>.
+
+Il préside les réunions de toutes les Commissions de recrutement des Centres de Technologies Avancées concernés, relevant d'établissements de l'Enseignement organisé par la Communauté française.
+
+Les candidatures à une fonction de coordonnateur de centres de technologies avancées sont examinées par la commission de recrutement du Centre de Technologies avancées concerné.
+
+Cette commission de recrutement délibère valablement si deux tiers au moins des membres sont présents.
+
+Elle remet un rapport motivé ainsi que son avis au [<sup>2</sup> Pouvoir organisateur]<sup>2</sup>.
+
+A compétences égales, la préférence est accordée au membre du personnel nommé à titre définitif tel que défini au § 1, premier alinéa du présent article.
+
+Le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup> désigne le coordonnateur de centre de technologies avancées en qualité de temporaire.
+
+§ 4. Le [<sup>2</sup> Pouvoir organisateur]<sup>2</sup> nomme le coordonnateur de centre de technologies avancées à titre définitif dans l'emploi vacant qu'il occupe lorsqu'il remplit les conditions suivantes :
+
+1° Compter, dans l'enseignement organisé par la Communauté française une ancienneté de service de 600 jours répartis sur trois années scolaires au moins, dont 300 répartis sur deux années scolaires au moins dans la fonction de Coordonnateur de Centre de technologies avancées ;
+
+2° Occuper l'emploi en fonction principale;
+
+3° Ne pas avoir fait l'objet au cours des deux dernières années d'un rapport défavorable tel que visé à l'article 75ter de l'arrêté royal du 22 mars 1969 pour une fonction de sélection et dont le gouvernement détermine la forme spécifique pour cette fonction.
+
+Ce rapport est soumis au membre du personnel, qui dispose de dix jours pour introduire un recours écrit au chef d'établissement.
+
+Dans les quinze jours de la réception du recours, le chef d'établissement notifie sa décision au membre du personnel intéressé. Celui-ci vise la décision et, dans les vingt jours qui suivent la réception de cette notification, a le droit d'introduire, par la voie hiérarchique, un recours devant la Chambre de recours.
+
+Celle-ci donne son avis au Ministre dans un délai maximum de trois mois à la date de la réception.
+
+Le Ministre prend sa décision et attribue le signalement dans le délai d'un mois à partir de la réception de l'avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2018-07-11/22, art. 2, 020; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFR 2026-06-11/18, art. 265, 028; En vigueur : 24-08-2026&gt;
+
+#### Art. 12quater
+
+[<sup>1</sup> Pour être nommés à la fonction de promotion d'administrateur dans l'enseignement de la Communauté française, les membres du personnel doivent être porteurs d'un [<sup>2</sup> titre de niveau bachelier]<sup>2</sup> au moins et [<sup>3</sup> et, soit d'un titre pédagogique constituant un titre de capacité tel que défini à l'article 17 du décret 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française, soit d'un titre de bachelier d'éducateur spécialisé en accompagnement psycho-éducatif]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>3</sup> Par dérogation à l'alinéa précédent, les membres du personnel ayant participé à une des sessions de formation à la fonction d'administrateur visées à l'article 19, avant le 1er septembre 2019, et titulaires d'au moins une attestation de réussite d'une des sessions peuvent également être nommés dans la fonction d'administrateur même s'ils ne sont pas porteurs d'un titre pédagogique constituant un titre de capacité tel que défini à l'article 17 du décret 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 77, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 32, 022; En vigueur : 03-02-2021&gt;
+
+(3)&lt;DCFR 2021-07-19/12, art. 73, 023; En vigueur : 01-09-2019&gt;
+
+#### Art. 12quinquies
+
+[<sup>1</sup> Pour être nommés à la fonction de sélection de secrétaire de direction dans l'enseignement organisé par la Communauté française, les membres du personnel doivent soit avoir exercé la fonction d'éducateur, d'éducateur d'internat, d'éducateur-secrétaire à la veille de leur désignation en qualité de secrétaire de direction soit être porteurs d'un des titres de capacité repris à l'annexe du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 78, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 12sexies.
+
+[<sup>1</sup> § 1er. Pour être désignés à la fonction de sélection de coordonnateur d'un pôle territorial relevant de l'enseignement organisé par la Communauté française, les membres du personnel doivent :
+
+1° être nommés ou engagés à titre définitif dans une fonction de recrutement, de sélection ou de promotion de la catégorie du personnel directeur et enseignant, du personnel paramédical, du personnel social, du personnel psychologique et du personnel auxiliaire d'éducation au sein de l'enseignement organisé ou subventionné par la Communauté française, de niveau fondamental ou secondaire, ordinaire ou spécialisé ;
+
+2° être porteurs d'un titre de niveau bachelier au moins ;
+
+3° répondre aux critères du profil de fonction visé au § 2 ;
+
+4° compter trois années d'ancienneté dans l'enseignement spécialisé ;
+
+5° être titulaires du brevet visé à l'article 21quater ou s'engager à suivre une formation permettant d'en disposer dans les deux années de la prise de fonction.
+
+A défaut de candidat répondant à la condition visée à l'alinéa 1er, les membres du personnel désignés à titre temporaire dans une fonction visée à l'alinéa 1er, 1°, ou désignés en qualité de membre du personnel technique des Centres psycho-médico-sociaux et/ou ne remplissant pas la condition visée au 4° peuvent également être désignés à la fonction de coordonnateur d'un pôle territorial.
+
+§ 2. Le directeur de l'école siège informe le pouvoir organisateur de la vacance de l'emploi de coordonnateur de pôle.
+
+Le profil de fonction pour le recrutement d'un coordonnateur de pôle est composé de deux parties :
+
+\- un profil générique sur proposition de la Commission permanente visée à l'article 22 ;
+
+\- un profil spécifique proposé par la commission de recrutement dans les quatre semaines qui suivent la communication de la vacance.
+
+Le profil de fonction spécifique reprend aussi les critères principaux de sélection des candidats et la pondération attribuée à chacun d'eux. Il peut comprendre des conditions de désignation complémentaires, soit obligatoires, soit constituant un atout pour le poste à pourvoir.
+
+Après approbation du profil, le pouvoir organisateur publie un appel à candidats pour cet emploi dans les deux mois de la communication de sa vacance. Si ce délai échoit durant une période de vacances scolaires, il est prolongé jusqu'à l'issue de la première semaine qui suit cette période de vacances.
+
+§ 3. Pour chaque fonction à pourvoir, le pouvoir organisateur crée une Commission de recrutement dont il arrête la composition et les règles de fonctionnement. Les candidatures à une fonction de coordonnateur de pôle territorial sont examinées par la Commission de recrutement concernée. Elle remet un rapport motivé ainsi que son avis au pouvoir organisateur. Le pouvoir organisateur désigne le coordonnateur en qualité de temporaire.
+
+§ 4. Dès l'entrée en fonction du coordonnateur de pôle, le directeur de l'école siège lui confie une lettre de mission approuvée préalablement par le pouvoir organisateur de l'école siège. Y sont spécifiées les missions du coordonnateur du pôle et les priorités qui lui sont assignées en fonction des besoins des écoles coopérantes du pôle.
+
+La lettre de mission a une durée de six ans. Le contenu de la lettre de mission peut être modifié avant son échéance par le directeur en raison de l'évolution des besoins et du fonctionnement du pôle ou d'un commun accord entre le coordonnateur du pôle et le directeur. La lettre de mission modifiée est soumise à l'approbation du pouvoir organisateur.
+
+§ 5. Le coordonnateur du pôle est évalué à au moins deux reprises avant de pouvoir être nommé à titre définitif. La première évaluation est initiée entre le 9e mois effectif et la fin du 12e mois effectif de la première année de la prise de fonction du coordonnateur de pôle. La seconde évaluation est initiée entre le 9e mois effectif et la fin du 12e mois effectif de la deuxième année. Si ce délai prend cours durant une période de vacances scolaires, sa prise de cours est reportée au premier jour qui suit cette période de vacances.
+
+L'évaluation se fonde sur la lettre de mission et sur le bon suivi de la formation permettant de disposer du brevet visé à l'article 21quater si le coordonnateur du pôle n'en disposait pas avant sa désignation. Elle tient compte du contexte global dans lequel est amené à évoluer le coordonnateur du pôle et des moyens qui sont mis à sa disposition. Le modèle de rapport d'évaluation et ses modalités sont fixés par le gouvernement sur proposition de la Commission permanente visée à l'article 22.
+
+La mention attribuée au terme de l'évaluation peut être " favorable ", " réservé " ou " défavorable ".
+
+Le rapport d'évaluation motivé du directeur de l'établissement siège du pôle territorial proposant l'une des mentions visées à l'alinéa 3 est soumis au coordonnateur du pôle qui dispose d'un délai de dix jours pour introduire une réclamation auprès du pouvoir organisateur. Dans les quinze jours de la réception du recours le pouvoir organisateur notifie sa décision au coordonnateur de pôle. En cas de mention " défavorable ", le coordonnateur de pôle dispose d'un délai de vingt jours pour adresser un recours à l'encontre de son évaluation devant la Chambre de recours compétente.
+
+La Chambre de recours dispose d'un délai de 45 jours pour rendre son avis sur la mention qui devrait être attribuée au coordonnateur de pôle.
+
+Le pouvoir organisateur attribue la mention définitive au coordonnateur de pôle dans le mois de la réception de l'avis de la Chambre de recours. S'il omet de se prononcer dans le délai requis, la décision est réputée conforme à l'avis.
+
+A défaut d'avoir été initiées dans les délais mentionnés à l'alinéa 1er, les évaluations du coordonnateur du pôle sont réputées " favorables ".
+
+§ 6. Si la première évaluation définitivement attribuée en application de la procédure prévue au paragraphe 5, est " réservé ", la seconde évaluation ne peut être que " favorable " ou " défavorable ".
+
+Si la seconde évaluation définitivement attribuée est " réservé ", la désignation temporaire est prolongée d'office de six mois. Le coordonnateur de pôle est évalué une troisième fois. La troisième évaluation est initiée six mois après que la seconde évaluation a été définitivement attribuée et la mention est attribuée endéans le mois qui suit ce délai. Elle ne peut être que " favorable " ou " défavorable ".
+
+Si la première, la seconde ou, le cas échéant, la troisième évaluation définitivement attribuée est " défavorable ", il est mis fin d'office à la désignation du coordonnateur de pôle.
+
+§ 7. Le pouvoir organisateur nomme le coordonnateur de pôle à titre définitif dans l'emploi vacant qu'il occupe après l'expiration d'un délai de deux ans, éventuellement prolongé de six mois en application du paragraphe 6 après que sa seconde ou, le cas échéant, troisième évaluation a été clôturée, s'il remplit les conditions suivantes :
+
+1° être titulaire du brevet visé à l'article 21quater ;
+
+2° ne pas avoir un rapport d'évaluation " défavorable " ;
+
+3° être d'une conduite irréprochable.
+
+Pour le calcul de la durée de deux ans, éventuellement prolongé de six mois, sont seuls pris en considération les services effectifs accomplis après la désignation, en ce compris les vacances annuelles, les congés prévus aux articles 5, 5bis [<sup>2</sup> , 6]<sup>2</sup> et 7 de l'arrêté royal du 15 janvier 1974, ainsi que les congés en vue de l'adoption et de la tutelle officieuse et les congés de maternité prévus respectivement, au chapitre IIbis et au chapitre XIII du même arrêté royal du 15 janvier 1974.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 48, 024; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFR 2023-07-20/47, art. 45, 025; En vigueur : 28-08-2023&gt;
+
+#### Art. 13
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 101, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 14
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 101, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 15
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 101, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 16
+
+Dans les établissements de la Communauté française qui organisent de l'enseignement de qualification dans un seul secteur, les emplois de chef d'atelier ne sont conférés qu'aux ayants droit qui ont exercé la fonction de recrutement correspondante de professeur de cours techniques ou de professeur de pratique professionnelle ou de professeur de cours techniques et de pratique professionnelle dans ce secteur.
+
+Dans les établissements de la Communauté française qui organisent de l'enseignement de qualification dans plusieurs secteurs, les emplois de chef d'atelier ne sont conférés qu'aux ayants droit qui ont exercé la fonction de recrutement correspondante de professeur de cours techniques ou de professeur de pratique professionnelle ou de professeur de cours techniques et de pratique professionnelle dans un de ces secteurs, en tenant compte de l'importance relative de ce secteur au sein de l'établissement.
+
+Par dérogation aux alinéas 1 et 2, la réaffectation et le rappel à l'activité de service se font quel que soit le secteur.
+
+Le [<sup>1</sup> pouvoir organisateur]<sup>1</sup> peut déroger aux alinéas 1 et 2 en cas de pénurie de candidats satisfaisant aux conditions fixées par ces dispositions.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 79, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 17
+
+Le calcul de l'ancienneté de service visée dans le présent chapitre ainsi qu'aux articles 27 et 28 est effectué selon les règles suivantes :
+
+1° les services effectifs rendus en qualité de temporaire et de temporaire prioritaire, dans une fonction à prestations complètes, interviennent pour une ancienneté égale au nombre de jours comptés du début à la fin de la période d'activité continue, y compris, s'ils sont englobés dans cette période, les congés de détente ainsi que les vacances d'hiver et du printemps, ce nombre de jours étant multiplié par 1,2;
+
+2° les services effectifs rendus à un titre autre que celui de temporaire, dans une fonction à prestations complètes, se comptent par mois du calendrier, ceux qui ne couvrent pas tout le mois étant négligés;
+
+3° les services admissibles rendus pendant le mois au cours duquel le membre du personnel est désigné pour la première fois à un titre autre que celui de temporaire, sont réputés avoir été rendus à titre de temporaire;
+
+4° les services effectifs rendus dans une fonction à prestations incomplètes comportant au moins la moitié du nombre d'heures requis pour la fonction à prestations complètes sont pris en considération au même titre que les services rendus dans une fonction à prestations complètes;
+
+5° le nombre de jours acquis dans une fonction à prestations incomplètes qui ne comporte pas la moitié du nombre d'heures requis pour la fonction à prestations complètes est réduit de moitié;
+
+6° trente jours forment un mois;
+
+7° la durée des services rendus dans deux ou plusieurs fonctions, à prestations complètes ou incomplètes, exercées simultanément, ne peut jamais dépasser la durée des services rendus dans une fonction à prestations complètes pendant la même période;
+
+8° la durée des services admissibles que compte le membre du personnel ne peut jamais dépasser douze mois pour une année civile.
+
+Le calcul de l'ancienneté de fonction visée dans le présent chapitre ainsi qu'aux articles 25, 27, 28 et 46 est effectué selon les règles suivantes :
+
+1° les services effectifs rendus à titre de temporaire, dans une fonction à prestations complètes, interviennent pour une ancienneté égale au nombre de jours comptés du début à la fin des services prestés, y compris, s'ils sont englobés dans la période d'activité continue, les congés de détente ainsi que les vacances d'hiver et du printemps; ce nombre de jours est multiplié par 1,2;
+
+2° les services effectifs rendus à un titre autre que celui de temporaire, dans une fonction à prestations complètes, se comptent par mois du calendrier, ceux qui ne couvrent pas tout le mois étant négligés. Les services admissibles rendus pendant le mois au cours duquel le membre du personnel est désigné pour la première fois à un titre autre que celui de temporaire, sont réputés avoir été rendus à titre de temporaire;
+
+3° les services effectifs rendus dans une fonction à prestations incomplètes interviennent pour une ancienneté égale à leur durée relative. La durée relative des services rendus dans une fonction à prestations incomplètes est égale au nombre de jours que représentent les mêmes services rendus dans une fonction à prestations complètes, multiplié par une fraction dont le numérateur est la valeur des prestations exprimée en heures hebdomadaires annuelles et dont le dénominateur est le nombre minimum d'heures de prestations, fixé pour que la fonction considérée soit à prestations complètes;
+
+4° trente jours forment un mois;
+
+5° la durée des services rendus à titre temporaire dans l'exercice d'une fonction supérieure intervient pour une ancienneté égale dans le calcul de l'ancienneté de la fonction où le membre du personnel a été nommé ou désigné jusqu'à solution statutaire;
+
+6° la durée des services rendus dans deux ou plusieurs fonctions, à prestations complètes ou incomplètes, exercées simultanément, ne peut jamais dépasser la durée des services rendus dans une fonction à prestations complètes exercée pendant la même période;
+
+7° la durée des services admissibles que compte le membre du personnel ne peut jamais dépasser douze mois pour une année civile.
+
+## CHAPITRE IIIbis.
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 80,2°, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 17bis
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 80,2°, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 17ter
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 80,2°, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 17quater
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 80,2°, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 17quinquies
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 80,2°, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 17sexies
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 80,2°, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 17septies
+
+[<sup>3</sup> ancien art. 17septies]<sup>3</sup> [<sup>1</sup> Pour le calcul de l'ancienneté de service visée [<sup>2</sup> à l'article 8, § 1er, 2°]<sup>2</sup>, les services effectifs rendus en fonction principale dans l'Enseignement de promotion sociale de la Communauté française à partir du 1er septembre 1998 sont admissibles et calculés selon les règles suivantes :
+
+1° les services effectifs rendus dans une fonction interviennent pour une ancienneté égale à 300 jours, si les services accomplis par année scolaire représentent au moins 50 % du nombre de périodes par année nécessaire pour former une charge dans cette fonction;
+
+2° les services effectifs rendus dans une fonction interviennent pour une ancienneté égale à 150 jours par année scolaire, si les services accomplis par année scolaire représentent moins de 50 % du nombre de périodes par année nécessaire pour former une charge complète dans cette fonction;
+
+3° la durée des services rendus dans deux ou plusieurs fonctions à prestations complètes ou incomplètes, exercées simultanément, ne dépasse pas la durée des services rendus dans une fonction à prestations complètes exercée pendant la même période;
+
+4° trente jours forment un mois;
+
+5° la durée des services admissibles que compte le membre du personnel ne dépasse pas douze mois par année civile.
+
+Les services effectifs que le membre du personnel a rendus en fonction principale dans l'enseignement organisé par la Communauté française avant le 1er septembre 1998 sont également admissibles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-09/19, art. 41, 019; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFR 2019-03-14/20, art. 81, 021; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2019-03-14/20, art. 82, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 17octies
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 80,2°, 021; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE IV. - Des brevets et des procédures permettant d'accéder à certaines fonctions de promotion et de sélection.
+
+#### Art. 18
+
+&lt;Abrogé par DCFR 2019-03-14/20, art. 101, 021; En vigueur : 01-09-2019&gt;
+
+### Section Ire. [<sup>1</sup> - Des brevets permettant d'accéder à certaines fonctions de promotion et de sélection]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 83, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 19
+
+Les brevets (...), [<sup>1</sup> ...]<sup>1</sup>, (de coordonnateur d'un centre d'éducation et de formation en alternance,) (...), [<sup>1</sup> ...]<sup>1</sup>, (...), d'administrateur, (...), sont délivrés au terme de trois sessions de formation sanctionnées chacune par une épreuve distincte. &lt;DCFR 2001-07-19/56, art. 5, 002; En vigueur : 25-02-1999&gt; &lt;DCFR 2002-03-27/39, art. 4, 004; En vigueur : 01-06-2002&gt; &lt;DCFR 2007-02-02/52, art. 52, 008; En vigueur : 01-01-2007&gt; &lt;DCFR 2007-03-08/46, art. 202, 4°, 009; En vigueur : 01-09-2007&gt;
+
+La première session de formation vise à développer chez les candidats :
+
+1° des aptitudes relationnelles, en particulier la gestion des ressources humaines : communication interne et externe, prise de parole en public, prise de décision, l'animation du Conseil de participation, la gestion des conflits, techniques de négociation, techniques d'évaluation du personnel, conduite et motivation des groupes, intégration de l'action éducative des partenaires extérieurs à l'école (Association de parents, service d'aide à la jeunesse, académies, associations, etc.);
+
+2° l'acquisition d'une méthode d'évaluation de sa propre action.
+
+La deuxième session vise à développer chez les candidats des aptitudes pédagogiques et porte notamment sur les objectifs généraux de l'éducation, leur mise en oeuvre, les socles de compétences, les compétences terminales, les profils de formation, les compétences transversales, la pédagogie différenciée, l'évaluation formative et certificative ainsi que sur les courants actuels de la pédagogie, l'enseignement spécial et l'enseignement à horaire réduit, les discriminations positives, la prévention de la violence, la problématique des élèves majeurs, l'évaluation d'une séquence pédagogique et de l'efficacité des membres du personnel.
+
+La troisième session vise à développer chez les candidats l'aptitude à maîtriser à livre ouvert les matières législatives et réglementaires ainsi que le développement des capacités de gestion administrative.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/92, art. 13, 012; En vigueur : 01-07-2009&gt;
+
+#### Art. 19bis
+
+[<sup>1</sup> [<sup>2</sup> Le brevet de directeur adjoint est délivré]<sup>2</sup> au terme de deux sessions de formation sanctionnées chacune par une épreuve distincte.
+
+La première session de formation vise à développer chez les candidats :
+
+1° Des aptitudes relationnelles, en particulier la gestion des ressources humaines : communication interne et externe, prise de parole en public, prise de décision, l'animation du Conseil de participation, la gestion des confiits, techniques de négociation, techniques d'évaluation du personnel, conduite et motivation des groupes, intégration de l'action éducative des partenaires extérieurs à l'école (association de parents, service d'aide à la jeunesse, académies, associations, etc.);
+
+2° L'acquisition d'une méthode d'évaluation de sa propre action.
+
+La deuxième session vise à développer chez les candidats l'aptitude à maîtriser à livre ouvert les matières législatives et réglementaires ainsi que le développement des capacités de gestion administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/92, art. 14, 012; En vigueur : 01-07-2009&gt;
+
+(2)&lt;DCFR 2019-03-14/20, art. 84, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 19ter
+
+[<sup>1</sup> [<sup>2</sup> Dans l'enseignement de promotion sociale organisé par la Communauté française, le brevet de directeur adjoint est délivré au terme de deux sessions de formation, sanctionnées chacune par une épreuve distincte.]<sup>2</sup>
+
+La première session de formation vise à développer chez les candidats :
+
+1° des aptitudes relationnelles, en particulier la gestion des ressources humaines: communication interne et externe, prise de parole en public, prise de décision, animation des organes de concertation et de participation, gestion des conflits, techniques de négociation, techniques d'évaluation du personnel, conduite et motivation des groupes, intégration de l'action éducative des partenaires extérieurs à l'école;
+
+2° l'acquisition d'une méthode d'évaluation de sa propre action.
+
+La deuxième session vise à développer chez les candidats l'aptitude à l'utilisation de matières législatives et réglementaires, de capacités de gestion administrative et de gestion pédagogique d'un établissement liées, notamment, aux objectifs généraux de l'enseignement de promotion sociale, à la mise en oeuvre des dossiers pédagogiques, aux profils de formation et de certification, à la place de l'enseignement de promotion sociale dans les bassins de vie et dans le paysage de l'enseignement supérieur et aux conventions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-09/19, art. 43, 019; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFR 2019-03-14/20, art. 85, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 20
+
+Les brevets de chef d'atelier et de chef de travaux d'atelier sont délivrés au terme de trois sessions de formation sanctionnées chacune par une épreuve distincte.
+
+La première session de formation vise à développer chez les candidats :
+
+1° des aptitudes relationnelles, en particulier la gestion des ressources humaines : communication interne et externe, prise de parole en public, prise de décision, l'animation du Conseil de participation, la conduite et la motivation des groupes, gestion des conflits, intégration de l'action éducative des partenaires extérieurs à l'école (association des parents, service d'aide à la jeunesse, académies, associations, etc.);
+
+2° l'acquisition d'une méthode d'évaluation de sa propre action.
+
+La deuxième session vise à développer chez les candidats des aptitudes pédagogiques et porte notamment sur les objectifs généraux de l'éducation, leur mise en oeuvre, les profils de formation, les compétences transversales, la pédagogie différenciée, l'évaluation formative et certificative ainsi que sur la gestion du travail en atelier, la formation en alternance, les stages en entreprises, l'enseignement (spécialisé) et l'enseignement à horaire réduit, les discriminations positives, la prévention de la violence et la problématique des élèves majeurs. &lt;DCFR 2004-03-03/36, art. 260, 007; En vigueur : 01-09-2004&gt;
+
+[<sup>1</sup> La deuxième session comporte une partie commune de trente heures pour les deux fonctions et une partie spécifique de quinze heures pour la fonction de chef de travaux d'atelier.]<sup>1</sup>
+
+La troisième session vise à développer chez les candidats l'aptitude à maîtriser à livre ouvert les matières législatives et réglementaires relatives à l'exercice de leur fonction.
+
+----------
+
+(1)&lt;DCFR 2013-02-28/15, art. 73, 014; En vigueur : 01-09-2012&gt;
+
+#### Art. 20bis
+
+[<sup>1</sup> Le brevet de chef d'atelier dans l'enseignement de promotion sociale de la Communauté française est délivré au terme de deux sessions de formation, sanctionnées chacune par une épreuve distincte.
+
+La première session de formation vise à développer chez les candidats :
+
+1° des aptitudes relationnelles, en particulier la gestion des ressources humaines : communication interne et externe, prise de parole en public, prise de décision, animation des organes de concertation et de participation, gestion des conflits, techniques de négociation, techniques d'évaluation du personnel, conduite et motivation des groupes, intégration de l'action éducative des partenaires extérieurs à l'école;
+
+2° l'acquisition d'une méthode d'évaluation de sa propre action.
+
+La deuxième session vise à développer chez les candidats des aptitudes d'ordre pédagogique et en matière d'action éducative des chargés de cours des cours techniques et des cours de pratique professionnelle, et porte, notamment, sur les objectifs généraux de l'enseignement de promotion sociale, la mise en oeuvre des dossiers pédagogiques, les profils de formation et de certification, la place de l'enseignement de promotion sociale dans les bassins de vie et dans le paysage de l'enseignement supérieur, les conventions, la gestion des ateliers dans le respect des dispositions légales, décrétales et réglementaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-09/19, art. 44, 019; En vigueur : 01-01-2017&gt;
+
+#### Art. 21
+
+[<sup>1</sup> le brevet]<sup>1</sup> de secrétaire de direction [<sup>1</sup> est délivré]<sup>1</sup> au terme de deux sessions de formation sanctionnées chacune par une épreuve distincte.
+
+La première session de formation vise à développer chez les candidats des aptitudes relationnelles.
+
+La seconde session vise à développer chez les candidats l'aptitude à maîtriser à livre ouvert les matières législatives et réglementaires, le développement des capacités de gestion administrative, la maîtrise des outils informatiques utilisés dans l'exercice de leur fonction.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/92, art. 15, 012; En vigueur : 01-07-2009&gt;
+
+#### Art. 21bis
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 21, les membres du personnel qui occupent temporairement le 1er septembre 2012 un emploi de secrétaire de direction, sont nommés à titre définitif au 1er janvier 2013 dans cet emploi et affectés à cet établissement, pour autant qu'à la date de la nomination, ils satisfassent aux dispositions suivantes :
+
+1° être de conduite irréprochable;
+
+2° jouir des droits civils et politiques;
+
+3° avoir satisfait aux lois sur la milice;
+
+4° être titulaire, à titre définitif, de l'une des fonctions de recrutement en rapport avec la fonction de secrétaire de direction et être porteur du titre requis pour cette fonction de recrutement;
+
+5° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+6° compter une ancienneté de service de 6 ans.
+
+Cette ancienneté est calculée conformément [<sup>2</sup> à l'article 17]<sup>2</sup> ;
+
+7° ne pas faire l'objet d'une suspension disciplinaire ou d'une mise en non-activité disciplinaire, de la démission disciplinaire ou de la révocation dans une fonction de membre du personnel directeur et enseignant, du personnel auxiliaire d'éducation ou du personnel administratif;
+
+8° compter une ancienneté de fonction de 2 ans calculée conformément aux articles 84 et 85 de l'arrêté royal du 22 mars 1969;
+
+9° occuper un emploi vacant au 1er septembre 2012;
+
+§ 2. Les membres du personnel qui occupent temporairement le 1er septembre 2012 un emploi d'éducateur économe ou d'éducateur chargé de la comptabilité, sont nommés à titre définitif au 1er janvier 2013 et affectés à cet établissement, pour autant qu'à la date de la nomination, ils satisfassent aux dispositions suivantes :
+
+1° être de conduite irréprochable;
+
+2° jouir des droits civils et politiques;
+
+3° avoir satisfait aux lois sur la milice;
+
+4° être titulaire, à titre définitif, de l'une des fonctions de recrutement en rapport avec les fonctions d'éducateur économe ou d'éducateur chargé de la comptabilité et être porteur du titre requis pour cette fonction de recrutement;
+
+5° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+6° compter une ancienneté de service de 6 ans.
+
+Cette ancienneté est calculée conformément [<sup>2</sup> à l'article 17]<sup>2</sup> ;
+
+7° ne pas faire l'objet d'une suspension disciplinaire ou d'une mise en non-activité disciplinaire, de la démission disciplinaire ou de la révocation dans une fonction de membre du personnel directeur et enseignant, du personnel auxiliaire d'éducation ou du personnel administratif;
+
+8° compter une ancienneté de fonction de 2 ans calculée conformément aux articles 84 et 85 de l'arrêté royal du 22 mars 1969;
+
+9° occuper un emploi vacant au 1er septembre 2012.
+
+10° avoir suivi ou dispensé une formation spécifique organisée par le [<sup>3</sup> pouvoir organisateur]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Par dérogation à l'article 19bis, les membres du personnel qui occupent temporairement le 1er septembre 2012 un emploi de sous-directeur ou de proviseur, sont nommés à titre définitif au 1er janvier 2013 dans un emploi vacant de sous-directeur ou de proviseur, pour autant qu'à la date de la nomination, ils satisfassent aux dispositions suivantes :
+
+1° être de conduite irréprochable;
+
+2° jouir des droits civils et politiques;
+
+3° avoir satisfait aux lois sur la milice;
+
+4° être titulaire, à titre définitif, de l'une des fonctions de recrutement en rapport avec la fonction de sous-directeur ou proviseur et être porteur du titre requis pour cette fonction de recrutement;
+
+5° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+6° compter une ancienneté de service de 6 ans. Cette ancienneté est calculée conformément à l'article 17;
+
+7° ne pas faire l'objet d'une suspension disciplinaire ou d'une mise en non-activité disciplinaire, de la démission disciplinaire ou de la révocation dans une fonction de membre du personnel directeur et enseignant, du personnel auxiliaire d'éducation ou du personnel administratif;
+
+8° compter une ancienneté de fonction de 2 ans calculée conformément aux articles 84 et 85 de l'arrêté royal du 22 mars 1969.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2013-02-28/15, art. 74, 014; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DCFR 2016-02-04/02, art. 78, 017; En vigueur : 03-03-2016&gt;
+
+(3)&lt;DCFR 2019-03-14/20, art. 86, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 21ter
+
+[<sup>1</sup> Le brevet de secrétaire de direction dans l'enseignement de promotion sociale de la Communauté française est délivré au terme de deux sessions de formation sanctionnées chacune par une épreuve distincte.
+
+La première session de formation vise à développer chez les candidats :
+
+1° des aptitudes relationnelles, en particulier la gestion des ressources humaines: communication interne et externe, prise de parole en public, prise de décision, animation des organes de concertation et de participation, gestion des conflits, techniques de négociation, techniques d'évaluation du personnel, conduite et motivation des groupes, intégration de l'action éducative des partenaires extérieurs à l'école;
+
+2° l'acquisition d'une méthode d'évaluation de sa propre action.
+
+La deuxième session vise à développer chez les candidats les aptitudes législatives et réglementaires, le développement de capacités de gestion administrative et informatique dans l'exercice de leur fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-09/19, art. 45, 019; En vigueur : 01-01-2017&gt;
+
+#### Art. 21quater.
+
+[<sup>1</sup> Les brevets de coordonnateur d'un pôle territorial, sont délivrés au terme de trois sessions de formation sanctionnées chacune par une épreuve distincte.
+
+La première session de formation vise à développer chez les candidats :
+
+1° des aptitudes relationnelles, en particulier la gestion des ressources humaines : communication interne et externe, prise de parole en public, prise de décision, animation des organes de concertation et de participation, gestion des conflits, techniques de négociation, techniques d'évaluation du personnel, conduite et motivation des groupes, intégration de l'action éducative des partenaires extérieurs aux pôles (écoles partenaires et coopérantes, parents, Centres PMS, SAI, Phare, Aviq...) ;
+
+2° l'acquisition d'une méthode d'évaluation de sa propre action et de l'action du pôle territorial.
+
+La deuxième session vise à développer chez les candidats des aptitudes pédagogiques et porte notamment sur les objectifs généraux de l'éducation, leur mise en oeuvre, sur les concepts de l'inclusion scolaire et de la pédagogie universelle, la pédagogie différenciée, l'évaluation diagnostique, formative et sommative, les référentiels en lien avec le niveau d'enseignement du pôle territorial, les plans de formation des membres du personnel du pôle territorial aux formations en cours de carrière, obligatoires ou volontaires.
+
+La troisième session vise à développer chez les candidats les aptitudes législatives et réglementaires, le développement de capacités de gestion administrative et informatique dans l'exercice de leur fonction.
+
+Le contenu et les thèmes de la formation sont adaptés, en fonction du niveau d'enseignement concerné.
+
+Le membre du personnel qui satisfait aux épreuves est titulaire du brevet en rapport avec la fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-06-17/29, art. 49, 024; En vigueur : 01-09-2021&gt;
+
+#### Art. 22
+
+§ 1. Il est créé une Commission permanente de la promotion et de la sélection, ci-après dénommée " la Commission permanente ".
+
+§ 2. La Commission permanente remet, d'initiative ou à la demande du [<sup>3</sup> pouvoir organisateur]<sup>3</sup>, des avis sur l'application des articles 19, [<sup>2</sup> 19ter]<sup>2</sup> 20 [<sup>2</sup> 20bis, [<sup>5</sup> 21, 21ter et 21quater]<sup>5</sup>. Elle adresse au [<sup>3</sup> pouvoir organisateur]<sup>3</sup>, selon les modalités que celui-ci détermine, les propositions déterminées aux articles 23, 24 et 27.
+
+§ 3. La Commission permanente comprend :
+
+1° trois [<sup>3</sup> représentants du pouvoir organisateur]<sup>3</sup>;
+
+2° [<sup>2</sup> quatre chefs d'établissement de l'enseignement de la Communauté française dont un issu de l'enseignement de promotion sociale]<sup>2</sup>
+
+3° [<sup>1</sup> trois membres du personnel nommés à titre définitif dans une fonction de promotion ou de sélection autre que celle prévue au 2°;]<sup>1</sup>
+
+4° [trois membres du personnel de [<sup>4</sup> l'enseignement organisé par la Communauté française]<sup>4</sup> choisis sur proposition des organisations représentant les enseignants du réseau de la Communauté française et affiliées à des organisations syndicales qui siègent au Conseil national du travail, chaque organisation disposant d'au moins un membre.] &lt;DCFR 2001-07-19/56, art. 6, 002; En vigueur : 23-08-2001&gt;
+
+Le [<sup>3</sup> pouvoir organisateur]<sup>3</sup> de la Communauté désigne les membres de la Commission permanente pour un terme de quatre ans; nul ne peut bénéficier d'une telle désignation s'il ne se trouve dans la position administrative de l'activité de service.
+
+Tout membre de la Commission permanente qui, avant le terme de son mandat cesse de satisfaire aux conditions énoncées aux alinéas 1 et 2, est remplacé. Le remplaçant achève le mandat de son prédécesseur.
+
+§ 4. La Commission permanente rend ses avis et émet ses propositions à la majorité des membres présents. En cas de parité des voix, celle du président est prépondérante.
+
+Le [<sup>3</sup> pouvoir organisateur]<sup>3</sup> désigne un secrétaire de la Commission permanente [<sup>3</sup> ...]<sup>3</sup>.
+
+Le [<sup>3</sup> pouvoir organisateur]<sup>3</sup> fixe les autres modalités de fonctionnement de la Commission permanente ainsi que son règlement d'ordre intérieur. Il désigne son président parmi les trois fonctionnaires généraux visés au paragraphe 3.
+
+[§ 5. La Commission permanente remplit également les fonctions qui lui sont attribuées conformément au chapitre II du titre II du décret du 2 février 2007 fixant le statut des directeurs.] &lt;DCFR 2007-02-02/52, art. 52, 008; En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;DCFR 2011-02-10/07, art. 38, 013; En vigueur : 07-03-2011&gt;
+
+(2)&lt;DCFR 2017-02-09/19, art. 46, 019; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFR 2019-03-14/20, art. 87, 021; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFR 2019-03-14/20, art. 99, 021; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFR 2021-06-17/29, art. 50, 024; En vigueur : 01-09-2021&gt;
+
+#### Art. 23
+
+Le [<sup>2</sup> pouvoir organisateur]<sup>2</sup> organise les sessions de formation visées aux articles 19, [<sup>1</sup> 19ter]<sup>1</sup> 20 [<sup>1</sup> 20bis, [<sup>4</sup> 21, 21ter et 21quater]<sup>4</sup> sur proposition de la Commission permanente. Des sessions de formation peuvent être organisées en commun pour des fonctions différentes.
+
+[<sup>3</sup> Les opérateurs de formation visés à l'article 24 peuvent]<sup>3</sup> dispenser les candidats de certaines formations :
+
+1° s'ils sont titulaires d'un autre brevet;
+
+2° s'ils fournissent la preuve qu'ils ont suivi des formations équivalentes.
+
+La formation est gratuite. Elle est par priorité organisée en dehors des périodes normales de fonctionnement des établissements scolaires. Les membres du personnel qui suivent une formation sont considérés comme en activité de service.
+
+[<sup>3</sup> Dans la limite des places disponibles et en fonction de l'ordre de l'inscription, tout membre du personnel est admis à la formation à laquelle il désire s'inscrire sauf si, à la date de l'introduction de sa demande de participation, l'intéressé ne satisfait pas ou plus à toutes les conditions énoncées à l'article 8, § 1er, 1°. ]<sup>3</sup>
+
+[<sup>1</sup> [<sup>3</sup> Sans préjudice des dispositions prévues à l'alinéa 4, les membres du personnel désignés dans une fonction de promotion ou de sélection en application de l'article 35, § 1er du décret du 2 février 2007 fixant le statut des directeurs et en application de l'article 28, § 1er du présent décret sont admis en priorité à la formation à la fonction de promotion ou de sélection concernée.]<sup>3</sup>]<sup>1</sup>
+
+L'intérêt du service ne peut être opposé au membre du personnel dont la demande de participation à une formation ne peut être rejetée pour l'un des motifs visés à l'alinéa 4.
+
+----------
+
+(1)&lt;DCFR 2017-02-09/19, art. 47, 019; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCFR 2019-03-14/20, art. 88, 021; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFR 2021-02-04/17, art. 33, 022; En vigueur : 03-02-2021&gt;
+
+(4)&lt;DCFR 2021-06-17/29, art. 51, 024; En vigueur : 01-09-2021&gt;
+
+#### Art. 24
+
+[<sup>1</sup> Sur proposition de la Commission permanente, le pouvoir organisateur peut agréer, notamment, les opérateurs de formation suivants :
+
+1° les Universités;
+
+2° les Hautes Ecoles;
+
+3° les établissements d'enseignement de promotion sociale.
+
+Les formations organisées par les opérateurs de formation visés à l'alinéa 1er sont certifiées par lesdits opérateurs de formation.
+
+Les membres du personnel qui obtiennent les attestations de réussite relatives aux trois ou deux épreuves des sessions respectivement visées aux articles 19, 19ter, 20, 20bis, [<sup>2</sup> 21, 21ter et 21quater]<sup>2</sup> sont titulaires du brevet en rapport avec la fonction considérée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 89, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-06-17/29, art. 52, 024; En vigueur : 01-09-2021&gt;
+
+#### Art. 25
+
+(alinéa 1 supprimé) &lt;DCFR 2007-02-02/52, art. 52, 008; En vigueur : 01-01-2007&gt;
+
+(alinéa 2 supprimé) &lt;DCFR 2007-02-02/52, art. 52, 008; En vigueur : 01-01-2007&gt;
+
+(Alinéa 3 supprimé) &lt;DCFR 2007-03-08/46, art. 202, 6°, 009; En vigueur : 01-09-2007&gt;
+
+#### Art. 26
+
+&lt;DCFR 2007-02-02/52, art. 52, 008; En vigueur : 01-01-2007&gt; Les membres du personnel qui satisfont aux [<sup>1</sup> ...]<sup>1</sup> épreuves sont titulaires du brevet en rapport avec la fonction.
+
+----------
+
+(1)&lt;DCFR 2017-02-09/19, art. 49, 019; En vigueur : 01-01-2017&gt;
+
+#### Art. 27
+
+[<sup>1</sup> Les voies de recours habituellement applicables au sein des Universités, Hautes Ecoles et Etablissements d'enseignement de promotion sociale sont d'application pour ce qui concerne les décisions prises par ces établissements dans le cadre de la certification des formations qu'ils dispensent en vertu du présent chapitre. Le cas échéant, les modalités d'application de ces voies de recours sont adaptées par les établissements aux spécificités du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 95, 011; En vigueur : 01-02-2009&gt;
+
+### Section II. [<sup>1</sup> De l'appel à candidatures]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 90, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 27bis
+
+[<sup>1</sup> Le modèle des appels à candidatures visé à l'article 28 est fixé par le Gouvernement, sur proposition conjointe de la Commission permanente de la promotion et de la sélection de l'enseignement organisé par la Communauté française, de la Commission paritaire centrale de l'enseignement officiel subventionné, de la Commission paritaire centrale de l'enseignement libre non confessionnel et de la Commission Paritaire Centrale de l'enseignement libre confessionnel.
+
+Le Gouvernement peut fixer le modèle d'initiative au cas où les Commissions visées à l'alinéa précédent ne lui ont pas adressé de proposition conjointe dans un délai de 30 jours après l'adoption du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 91, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 27ter
+
+[<sup>1</sup> Le pouvoir organisateur qui lance un appel à candidatures précise l'extension des destinataires auxquels l'appel s'adresse, soit aux seuls membres du personnel exerçant leurs fonctions au sein du pouvoir organisateur, soit à toute personne répondant aux conditions d'accès à la fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 92, 021; En vigueur : 01-09-2019&gt;
+
+### Section III. [<sup>1</sup> - Des Conditions générales d'accès et de dévolution des emplois de promotion et de sélection]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 93, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 28
+
+[<sup>1</sup> § 1er. Lorsque le pouvoir organisateur doit procéder à une désignation dans un emploi vacant ou dans un emploi qui n'est pas vacant mais dont le titulaire de la fonction est temporairement absent pour une durée de plus de 15 semaines :
+
+1° il arrête le profil de la fonction à pourvoir en tenant compte des besoins spécifiques liés à son projet éducatif et pédagogique ainsi que des caractéristiques propres de l'école dans laquelle le poste est à pourvoir.
+
+Au-delà de compétences comportementales et techniques au choix du pouvoir organisateur, le profil de fonction reprend en tout cas les compétences comportementales attendues suivantes :
+
+a) analyser l'information;
+
+b) résoudre des problèmes;
+
+c) travailler en équipe;
+
+d) s'adapter;
+
+e) faire preuve de fiabilité;
+
+f) avoir le sens de l'écoute et de la communication.
+
+Il reprend aussi les critères principaux de sélection des candidats et la pondération attribuée à chacun d'eux. Il peut comprendre des conditions de désignation complémentaires, soit obligatoires, soit constituant un atout pour le poste à pourvoir;
+
+2° il lance un appel à candidatures selon le modèle visé à l'article 31.
+
+Avant d'arrêter le profil de fonction, le pouvoir organisateur :
+
+a) consulte le directeur de l'établissement et le comité de concertation de base sur le profil de la fonction de promotion ou de sélection à pourvoir;
+
+b) reçoit des membres du personnel toute information que ceux-ci jugent utile de lui communiquer.
+
+Les candidatures introduites dans le cadre du présent paragraphe sont examinées par la Commission de sélection visée à l'article 28decies du présent décret. Au terme de cet examen, la Commission de sélection transmet au pouvoir organisateur le classement des candidats en indiquant les motifs qui fondent ce classement.
+
+Après transmission du classement établi en application de l'alinéa précédent, le pouvoir organisateur désigne un des candidats ayant répondu à l'appel dans l'emploi visé à l'alinéa 1er.
+
+§ 2. Pour être désigné en application du paragraphe 1er, tout candidat doit avoir répondu à l'appel à candidatures, répondre aux conditions des articles 8, § 1er, 1°, et 8, § 2.
+
+[<sup>2</sup> Sans préjudice de l'alinéa 1er, pour être désigné à titre temporaire dans la fonction de directeur adjoint dans l'enseignement maternel, dans l'enseignement primaire ou dans l'enseignement fondamental de la Communauté française, les membres du personnel doivent être porteurs d'un titre du niveau de bachelier et d'un titre pédagogique constituant un titre de capacité tel que listés à l'article 100 du décret du 2 février 2007 fixant le statut des directeurs et directrices dans l'enseignement.]<sup>2</sup>
+
+Dans le cas d'un appel à une désignation en tant que directeur adjoint, si le pouvoir organisateur atteste avoir lancé un appel à candidatures et n'avoir pas reçu de candidature valable après ce 1er appel, il peut lancer un second appel auquel pourront répondre les candidats ne comptant pas une ancienneté de service de 3 ans au sein de l'enseignement organisé ou subventionné par la Communauté française.
+
+[<sup>3</sup> Dans le cas d'un appel à une désignation à titre temporaire en tant que secrétaire de direction, si le pouvoir organisateur atteste avoir lancé un appel à candidatures, ouvert aux candidats de l'article 8, § 2, alinéa 1er et alinéa 2, et n'avoir pas reçu de candidature valable après ce 1er appel, il peut lancer un second appel auquel pourront répondre les candidats ne comptant pas une ancienneté de service de 3 ans au sein de l'enseignement organisé ou subventionné par la Communauté française.]<sup>3</sup>
+
+§ 3. Lorsqu'il doit procéder à une désignation temporaire dans un emploi non vacant pour une durée égale ou inférieure à quinze semaines, le pouvoir organisateur désigne un membre du personnel qui répond aux conditions mentionnées au paragraphe 2 sans faire application de la procédure prévue à l'alinéa 1er de ce même paragraphe.
+
+Cette désignation pour une durée de 15 semaines maximum peut être renouvelée pour autant que la durée totale de désignation n'excède pas 12 mois.
+
+Si l'absence du titulaire de la fonction se prolonge, le pouvoir organisateur lance un appel à candidatures au plus tard le dernier jour de la période de désignation visée à l'alinéa précédent.
+
+Par dérogation au paragraphe 1er, la désignation visée à l'alinéa 1er est prolongée pendant la période entre l'appel à candidatures et la désignation d'un candidat.
+
+Il désigne un candidat dans les trois mois qui suivent l'appel à candidatures. A défaut, au terme de ces trois mois, l'emploi n'est plus subventionné. ".
+
+§ 4. Le membre du personnel désigné dans un emploi de promotion en application du § 1er, est nommé dans cet emploi [<sup>2</sup> ...]<sup>2</sup> si celui-ci est vacant, sous réserve que l'emploi ait été disponible pour un changement d'affectation à titre définitif [<sup>2</sup> ...]<sup>2</sup> et à condition que le candidat remplisse toutes les conditions reprises à l'article 8.
+
+Le membre du personnel désigné dans un emploi de sélection en application du § 1er, est nommé dans cet emploi [<sup>2</sup> ...]<sup>2</sup> si celui-ci est vacant, sous réserve que l'emploi qu'il ait été disponible pour un changement d'affectation à titre définitif [<sup>2</sup> ...]<sup>2</sup> ou, pour l'enseignement de promotion sociale, au mois de février précédent et à condition que le candidat remplisse toutes les conditions reprises à l'article 8.
+
+§ 5. Conformément aux articles 78 et 92 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendants de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, il peut être mis fin à la désignation d'un membre du personnel qui s'est vu confier temporairement une fonction de sélection ou de promotion en application du présent article.
+
+§ 6. Le présent article n'est pas applicable aux fonctions de promotion de directeur, régies par le décret du 2 février 2007 fixant le statut des directeurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 94, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 34, 022; En vigueur : 03-02-2021&gt;
+
+(3)&lt;DCFR 2025-11-20/11, art. 27, 027; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE IVbis. - De la lettre de mission et de l'évaluation de certaines fonctions de promotion et de sélection. &lt;Inséré par DCFR 2007-02-02/52, art. 52; En vigueur : 01-01-2007&gt;
+
+#### Art. 28bis
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 52; En vigueur : 01-01-2007&gt; § 1er. Le présent chapitre s'applique aux membres du personnel titulaires d'une fonction de promotion ou de sélection telle que visée [<sup>3</sup> à l'article 4, § 1er, 3° et 4°]<sup>3</sup> et [<sup>1</sup> aux articles 5, § 1er, 1° à 3° et 5° [<sup>2</sup> , 5, § 2, 1° et 2° et 5, § 3, 1° et 2]<sup>2</sup>]<sup>1</sup> du présent décret ainsi qu'à l'article 7, c, 12° de l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique et du personnel social des établissements d'enseignement préscolaire, primaire, spécialisé, moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements dans l'enseignement de plein exercice.
+
+§ 2. Pour l'application du présent chapitre, il faut entendre par " directeur " le membre du personnel titulaire, à quelque titre que ce soit, de la fonction de promotion de directeur d'école maternelle, de directeur d'école primaire, de directeur d'école fondamentale, de directeur de l'enseignement secondaire inférieur ou de préfet des études ou directeur, telles qu'énumérées aux articles 3 et 4, 1° et 2° du présent décret.
+
+§ 3. Pour l'application du présent chapitre aux administrateurs, il faut entendre par " Commission " la Commission d'évaluation visée à l'article 37 du décret du 2 février 2007 fixant le statut des directeurs, à l'exception de l'article 28ter, dans lequel par " directeur " il faut entendre le [<sup>1</sup> pouvoir organisateur]<sup>1</sup> de la Communauté française, sur proposition de la Commission d'évaluation.
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 95, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 35, 022; En vigueur : 03-02-2021&gt;
+
+(3)&lt;DCFR 2023-07-20/44, art. 62, 029; En vigueur : 31-08-2026&gt;
+
+### Section Ire. - De la lettre de mission. &lt;Insérée par DCFR 2007-02-02/52, art. 52; En vigueur : 01-01-2007&gt;
+
+#### Art. 28ter
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 52; En vigueur : 01-01-2007&gt; Dès l'entrée en fonction du membre du personnel visé à l'article 28bis du présent décret, le directeur lui confie une lettre de mission, approuvée préalablement [<sup>2</sup> par le pouvoir organisateur]<sup>2</sup>.
+
+Le directeur y spécifie les missions du membre du personnel visé à l'article 28bis et les priorités qui lui sont assignées, [<sup>2</sup> ...]<sup>2</sup> en fonction des besoins de l'établissement au sein duquel il est affecté et en fonction des objectifs contenus dans la lettre de mission que ce dernier a lui-même reçue, conformément au chapitre III du titre II du décret du 2 février 2007 fixant le statut des directeurs.
+
+[<sup>1</sup> Préalablement à la rédaction de la lettre de mission, le pouvoir organisateur consulte l'organe local de concertation sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 96, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 36, 022; En vigueur : 03-02-2021&gt;
+
+#### Art. 28quater
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 52; En vigueur : 01-01-2007&gt; § 1er. La lettre de mission à une durée de six ans.
+
+§ 2. Le contenu de la lettre de mission peut être modifié avant son échéance, au plus tôt après deux ans, par le directeur, en raison de l'évolution des besoins et du fonctionnement de l'établissement.
+
+Par dérogation à l'alinéa 1er, le contenu de la lettre de mission peut être modifié avant son échéance, de commun accord entre le directeur et le membre du personnel visé à l'article 28bis.
+
+#### Art. 28quinquies
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 52; En vigueur : 01-01-2007&gt; § 1er. Par dérogation à l'article 28ter, alinéa 1er, le directeur, si besoin est, peut confier une lettre de mission au membre du personnel désigné à titre temporaire dans l'exercice d'une fonction visée à l'article 28bis du présent décret.
+
+Le directeur confie d'office une lettre de mission au membre du personnel désigné à titre temporaire dans l'exercice d'une fonction visée à l'article 28bis pour une durée égale ou supérieure à un an, ou dont la durée de la désignation a atteint au moins un an.
+
+§ 2. La lettre de mission visée au présent article peut consister dans la confirmation de la lettre de mission du membre du personnel visé à l'article 28bis faisant l'objet d'un remplacement ou dans un nouveau document.
+
+#### Art. 28quinquies/1.
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 28quater, après consultation préalable de l'organe local de concertation sociale, avec l'accord préalable du pouvoir organisateur, le directeur modifie d'office le contenu de la lettre de mission du chef de travaux d'atelier qui bénéficie d'une mise en disponibilité partielle pour convenances personnelles précédant la pension de retraite ou d'une interruption partielle de la carrière professionnelle après 58 ans.
+
+La lettre de mission modifiée précise les missions qu'il exerçait antérieurement et qu'il délèguera.
+
+Elle définit l'organisation de ses prestations et les modalités de concertation avec le chef d'atelier à temps partiel appelé à le seconder.
+
+§ 2. Après consultation préalable de l'organe local de concertation sociale et avec l'accord préalable du pouvoir organisateur, le directeur confie une lettre de mission au chef d'atelier à temps partiel visé au paragraphe précédent.
+
+§ 3. Après consultation préalable de l'organe local de concertation sociale, avec l'accord préalable du pouvoir organisateur, le directeur qui bénéficie d'une mise en disponibilité partielle pour convenances personnelles précédant la pension de retraite ou d'une interruption partielle de la carrière professionnelle après 58 ans confie une lettre de mission au directeur adjoint à temps partiel appelé à le seconder.
+
+§ 4. Il peut aussi, le cas échéant, apporter certaines modifications aux lettres de missions d'autres directeurs adjoints et chefs d'atelier en cohérence avec les dispositions prises en vertu des paragraphes précédents.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-02-04/17, art. 37, 022; En vigueur : 03-02-2021&gt;
+
+### Section II. [<sup>1</sup> - De l'évaluation des membres du personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/44, art. 63, 029; En vigueur : 31-08-2026&gt;
+
+#### Art. 28sexies
+
+&lt;Inséré par DCFR 2007-02-02/52, art. 52; En vigueur : 01-01-2007&gt; Cette section s'applique au membre du personnel nommé à titre définitif.
+
+Elle s'applique également au membre du personnel désigné à titre temporaire dans l'exercice d'une fonction visée à l'article 28bis pour une durée égale ou supérieure à un an, ou dont la durée de la désignation a atteint au moins un an. La dénomination " membre du personnel " visée à la présente section vise également ce membre du personnel.
+
+#### Art. 28septies
+
+[<sup>1</sup> Le Chapitre VIIIbis relatif à l'évaluation des membres du personnel de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement, gardien, primaire, spécial, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements est applicable aux membres du personnel visés à l'article 28bis du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/44, art. 64, 029; En vigueur : 31-08-2026&gt;
+
+#### Art. 28octies
+
+[<sup>1</sup> Pour les membres du personnel visés à l'article 28bis du même décret, un entretien de développement professionnel doit avoir lieu dans la mesure du possible une fois par an, et, au minimum, une fois tous les trois ans.
+
+Cet entretien de développement professionnel se fonde :
+
+\- sur la lettre de mission ;
+
+\- sur les compétences professionnelles mentionnées dans l'appel à candidatures ;
+
+\- sur la mise en oeuvre du contrat d'objectifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-07-20/44, art. 65, 029; En vigueur : 31-08-2026&gt;
+
+#### Art. 28novies
+
+&lt;Abrogé par DCFR 2023-07-20/44, art. 66, 029; En vigueur : 31-08-2026&gt;
+
+## CHAPITRE IVter. [<sup>1</sup> - Des Commissions de sélection]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 97, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 28decies
+
+[<sup>1</sup> § 1er. Le pouvoir organisateur crée une ou plusieurs commissions de sélection. Ces commissions sont composées du directeur de l'établissement concerné et de membres ou de délégués du pouvoir organisateur auxquels celui-ci peut adjoindre un ou plusieurs membres extérieurs au pouvoir organisateur, disposant d'une expérience en ressources humaines et en matière de sélection du personnel.
+
+§ 2. La sélection des candidats se fonde sur le profil de fonction élaboré par le pouvoir organisateur conformément à l'article 28 et annexé à l'appel à candidatures et, plus particulièrement, sur l'évaluation des compétences techniques et comportementales attendues des candidats, assorties d'indicateurs de maîtrise, et leur compatibilité avec le projet éducatif et pédagogique du pouvoir organisateur.
+
+La commission de sélection peut opérer un tri des candidatures sur dossier et n'entendre qe ules candidats retenus suite à cette sélection.
+
+Au terme des auditions, celle-ci établit un rapport classant les candidats et fournissant toutes informations utiles pour motiver le classement.
+
+Ce rapport est adressé au pouvoir organisateur qui, sur cette base, prend la décision [<sup>2</sup> de désignation]<sup>2</sup>.
+
+A la demande de tout candidat, le pouvoir organisateur lui communique les informations relatives à l'évaluation de ses compétences techniques et comportementales et à la compatibilité de ces compétences avec les critères de sélection définis et pondérés par le profil de fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 98, 021; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFR 2021-02-04/17, art. 38, 022; En vigueur : 03-02-2021&gt;
+
+## CHAPITRE V. - Dispositions modificatives.
+
+#### Art. 29
+
+L'article 19 du décret du 3 juillet 1991 organisant l'enseignement secondaire à horaire réduit est remplacé par la disposition suivante :
+
+" Article 19. Les élèves inscrits dans l'enseignement à horaire réduit sont pris en compte pour la fonction de chef d'atelier ou de chef de travaux d'atelier dans l'établissement où ils suivent la majorité de leurs heures de pratique professionnelle. Le nombre d'élèves est affecté du coefficient 0,5.
+
+L'alinéa premier n'est pas applicable aux établissements d'enseignement de promotion sociale qui dispensent des cours de pratique professionnelle à des élèves de l'enseignement secondaire à horaire réduit. "
+
+#### Art. 30
+
+Dans l'article 21quater inséré dans le décret du 29 juillet 1992 par le décret du 2 avril 1996 et complété par le décret du 24 juillet 1997 sont apportées les modifications suivantes :
+
+1° au 1er alinéa, les mots " ou de proviseur ou de sous-directeur chargé principalement du premier degré " sont supprimés;
+
+2° l'alinéa 3 est supprimé;
+
+3° à l'alinéa 4, les mots " ou de proviseur ou de sous-directeur chargé principalement du premier degré " sont supprimés.
+
+#### Art. 31
+
+Un article 21quinquies, rédigé comme suit, est inséré dans le chapitre 2bis du décret du 29 juillet 1992 portant organisation de l'enseignement secondaire de plein exercice :
+
+" Article 21quinquies. § 1. Il est créé un ou plusieurs emplois de chefs d'atelier ainsi qu'un ou deux emplois de chefs de travaux d'atelier lorsque l'établissement compte un nombre d'élèves au moins égal aux minima visés ci-après dans l'enseignement de qualification, professionnel, technique ou artistique, dans l'enseignement technique de transition des secteurs " agronomie ", " industrie " et " construction ", dans l'enseignement artistique de transition et en deuxième année de l'enseignement professionnel.
+
+§ 2. Pour fixer le nombre d'emplois de chef d'atelier ou de chef de travaux d'atelier, les nombres d'élèves visés sont affectés d'un coefficient.
+
+Celui-ci est l'unité sauf :
+
+1° dans l'enseignement professionnel du secteur " industrie ", où il est fixé à 1,5;
+
+2° dans l'enseignement professionnel des secteurs " construction " et " hôtellerie-alimentation " où il est fixé à 1,4;
+
+3° dans l'enseignement professionnel du secteur " agronomie ", où il est fixé à 1,3;
+
+4° dans l'enseignement professionnel du secteur " habillement " et du groupe " soins de beauté " dans le secteur " services aux personnes ", où il est de 1,2;
+
+5° dans l'enseignement technique et professionnel des secteurs " économie " et " sciences appliquées ", où il est de 0,2;
+
+6° dans l'enseignement technique et professionnel du secteur " services aux personnes " - à l'exception, dans l'enseignement professionnel, du groupe " soins de beauté " -, où il est de 0,5;
+
+7° dans l'enseignement technique et professionnel du secteur " arts appliqués " - à l'exception des groupes " industries graphiques ", " imprimerie ", " gravure-bijouterie ", " gravure-ciselure " et " bijouterie " -, où il est de 0,2;
+
+8° dans l'enseignement professionnel secondaire complémentaire, où il est de 0,5, à l'exception de la section " habillement " où il est de 1,2;
+
+9° dans l'enseignement artistique, où il est de 0,5;
+
+10° dans l'enseignement technique et professionnel du secteur " arts appliqués ", groupes " gravure-bijouterie ", " gravure-ciselure " et " bijouterie ", où il est de 0,5.
+
+Les résultats sont arrondis à l'unité supérieure.
+
+Les emplois de chef d'atelier ou de chefs de travaux d'atelier peuvent être soit créés, soit maintenus conformément au tableau suivant :
+
+<table><tr><td>Emplois</td><td>Norme de<br>  création</td><td>Norme de<br>  maintien</td></tr><tr><td>Chef d'atelier</td><td>180</td><td>150</td></tr><tr><td>Chef d'atelier</td><td>360</td><td>300</td></tr><tr><td>Chef de travaux d'atelier</td><td>540</td><td>450</td></tr><tr><td>Chef d'atelier</td><td>740</td><td>600</td></tr><tr><td>Chef d'atelier</td><td>940</td><td>750</td></tr><tr><td>Chef d'atelier</td><td>1 140</td><td>900</td></tr><tr><td>Chef d'atelier</td><td>1 340</td><td>1 080</td></tr><tr><td>Chef de travaux d'atelier</td><td>1 540</td><td>1 260</td></tr><tr><td>Chef d'atelier</td><td>1 740</td><td>1 440</td></tr></table>
+
+Il est créé ou maintenu un chef d'atelier supplémentaire respectivement par tranche complète de 200 et de 180.
+
+Dans chaque établissement, un emploi de chef d'atelier ainsi qu'un emploi de chef de travaux d'atelier peuvent être maintenus pendant deux années scolaires lorsque la norme n'est plus atteinte, quel que soit le nombre de dérogations obtenues à l'entrée en vigueur du décret par application de l'arrêté de l'Exécutif de la Communauté française du 4 novembre 1991 fixant les conditions requises pour la création et le maintien des emplois de chefs d'atelier et de chefs de travaux d'atelier dans les établissements d'enseignement secondaire, tel que modifié par l'arrêté du Gouvernement de la Communauté française du 30 octobre 1995.
+
+§ 3. Les emplois nouvellement créés ne sont considérés comme vacants pour une nomination définitive que lorsqu'ils correspondent à la norme de création et que celle-ci a été atteinte pendant les deux dernières années scolaires.
+
+Toutefois, le premier emploi de chef d'atelier et le premier emploi de chef de travaux d'atelier, existant au 30 juin 1998, même sous forme de maintien, sont réputés remplir la condition de vacance fixée au présent paragraphe.
+
+§ 4. Les membres du personnel nommés ou engagés à titre définitif, en activité de service à la date de prise d'effet du décret sont maintenus en activité de service dans leur fonction, sans limitation de durée.
+
+Les membres du personnel visés à l'alinéa 1 qui seraient en surnombre peuvent, au plus tard le 1er septembre 2000, bénéficier des dispositions applicables aux membres du personnel mis en disponibilité par défaut d'emploi prévues par l'article 10 de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux.
+
+Les membres du personnel visés à l'alinéa 1, placés en surnombre à partir de l'entrée en vigueur du décret et qui n'ont pas bénéficié des dispositions de l'alinéa 2, sont affectés au sein de leur pouvoir organisateur à tout emploi de leur fonction qui devient vacant ou provisoirement vacant.
+
+#### Art. 32
+
+Dans l'article 14 du décret du 5 août 1995 portant modification de la législation relative à l'organisation de l'enseignement secondaire de plein exercice, les mots " chargé à titre principal du premier degré " sont supprimés.
+
+## CHAPITRE VI. - Dispositions abrogatoires.
+
+#### Art. 33
+
+Dans l'article 6 de l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique, du personnel social des établissements d'enseignement préscolaire, primaire, (spécialisé), moyen, technique, artistique, de promotion sociale et supérieur non universitaire de la Communauté française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, les rubriques A, b), B, b), Bbis, b), C, b) et c), D, b) et c) sont supprimées. &lt;DCFR 2004-03-03/36, art. 260, 007; En vigueur : 01-09-2004&gt;
+
+#### Art. 34
+
+Les articles 79, 82, 83, 84, 86, 87, 88, 89, 90, 91, 93, 96, 97, 98, 99, 100, 101, 103, 104, 105, 106, 107, 107bis, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements ne sont plus d'application pour l'enseignement maternel, primaire, fondamental, secondaire, ordinaire et (spécialisé) à l'exception des dispositions propres aux fonctions (de chef d'atelier d'un centre technique et pédagogique, de directeur d'un centre technique et pédagogique, (de directeur d'un centre d'auto-formation et de formation continuée, de directeur d'un centre de dépaysement et de plein air et de directeur d'un centre technique horticole de [<sup>1</sup> l'enseignement organisé par la Communauté française]<sup>1</sup>).) &lt;DCFR 2001-12-20/64, art. 66, 003; En vigueur : 01-02-2002&gt; &lt;DCFR 2002-12-19/54, art. 33, 005; En vigueur : 01-01-2003&gt; &lt;DCFR 2004-03-03/36, art. 260, 007; En vigueur : 01-09-2004&gt;
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 99, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 35
+
+Dans l'article 1 de l'arrêté royal du 22 juillet 1969 déterminant les fonctions de recrutement dont doivent être titulaires les membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation et du personnel paramédical des établissements de l'enseignement de l'Etat, pour pouvoir être nommés aux fonctions de sélection, les rubriques C et D sont supprimées.
+
+#### Art. 36
+
+L'arrêté ministériel du 31juillet 1969 pris en exécution de l'article 93 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, (spécialisé), moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements est abrogé. &lt;DCFR 2004-03-03/36, art. 260, 007; En vigueur : 01-09-2004&gt;
+
+#### Art. 37
+
+Dans l'article 1 de l'arrêté royal du 31 juillet 1969 déterminant les fonctions de recrutement et les fonctions de sélection dont doivent être titulaires les membres du personnel de l'enseignement de l'Etat pour pouvoir être nommés aux fonctions de promotion de la catégorie du personnel directeur et enseignant des établissements d'enseignement de l'Etat, les rubriques A, B, Bbis, C et D sont supprimées.
+
+#### Art. 38
+
+Les articles 2, 3, 4, 5, 6, 7 de l'arrêté royal du 31 juillet 1969 déterminant les fonctions dont doivent être titulaires les membres du personnel de l'enseignement de l'Etat pour pouvoir être nommés aux fonctions du service d'inspection chargé de la surveillance des établissements d'enseignement de l'Etat et des internats dépendant de ces établissements sont abrogés.
+
+#### Art. 39
+
+Les articles 1, 2°, 2, 2°, 3, 4, 5, 6, 7 et 8 de l'arrêté royal du 31 juillet 1969 fixant le titre requis pour la nomination à la fonction d'inspecteur ou d'inspectrice de cours techniques et de pratique professionnelle sont abrogés.
+
+#### Art. 40
+
+L'arrêté royal du 31 juillet 1969 déterminant les règles selon lesquelles est fixée la composition des jurys de promotion prévus par l'arrêté royal du 2 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, (spécialisé), moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements n'est plus d'application pour l'enseignement maternel, primaire, fondamental, secondaire, ordinaire et (spécialisé) (sauf pour ce qui concerne les fonctions de directeur d'un centre technique et pédagogique, (de directeur d'un centre d'auto-formation et de formation continuée, de directeur d'un centre de dépaysement et de plein air et de directeur d'un centre technique horticole de [<sup>1</sup> l'enseignement organisé par la Communauté française]<sup>1</sup>)). &lt;DCFR 2001-12-20/64, art. 67, 003; En vigueur : 01-02-2002&gt; &lt;DCFR 2002-12-19/54, art. 34, 005; En vigueur : 01-01-2003&gt; &lt;DCFR 2004-03-03/36, art. 260, 007; En vigueur : 01-09-2004&gt;
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 99, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 41
+
+L'arrêté de l'Exécutif du 4 novembre 1991 fixant les conditions requises pour la création et le maintien des emplois de chefs d'atelier et de chef de travaux d'atelier dans les établissements d'enseignement secondaire est abrogé.
+
+#### Art. 42
+
+L'arrêté de l'Exécutif de la Communauté française du 17 février 1993 pris en exécution de l'article 79 de l'arrête royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, (spécialisé), moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements est abrogé. &lt;DCFR 2004-03-03/36, art. 260, 007; En vigueur : 01-09-2004&gt;
+
+## CHAPITRE VII. - Dispositions transitoires.
+
+#### Art. 43
+
+Les membres du personnel nommés ou engagés à titre définitif dans l'enseignement secondaire du degré inférieur ou dans l'enseignement secondaire du degré supérieur, à la fonction de chef d'atelier ou à la fonction de chef de travaux d'atelier en vertu des dispositions qui leur étaient applicables avant la date d'entrée en vigueur du décret sont réputés être nommés ou engagés à titre définitif, dans l'enseignement secondaire, respectivement à la fonction de chef d'atelier ou à la fonction de chef de travaux d'atelier.
+
+Ils conservent, en outre, le bénéfice de l'échelle barémique liée à leur nomination ou engagement, à moins que l'application des dispositions prévues en application de l'article 7 du décret leur soit plus favorable.
+
+(Les membres du personnel désignés ou engagés à titre temporaire à la date d'entrée en vigueur du présent décret dans l'enseignement secondaire du degré inférieur ou dans l'enseignement secondaire du degré supérieur, à la fonction de chef d'atelier ou à la fonction de chef de travaux d'atelier, sont réputés à la date d'entrée en vigueur du présent décret, être désignés ou engagés à titre temporaire à la fonction de chef d'atelier ou de chef de travaux d'atelier.) &lt;DCFR 2007-02-02/52, art. 52, 008; En vigueur : 01-01-2007&gt;
+
+#### Art. 44
+
+Les membres du personnel nommés ou engagés dans la fonction de directeur dans l'enseignement secondaire inférieur à la date d'entrée en vigueur du décret, mis en disponibilité par défaut d'emploi et qui ne peuvent pas être réaffectés ou rappelés à l'activité de service dans leur fonction sont, à leur demande, nommés ou engagés dans la fonction de proviseur ou sous-directeur lorsqu'un emploi reste vacant après la réaffectation des membres du personnel mis en disponibilité par défaut d'emploi dans cette fonction et la nomination des membres du personnel visés à l'article 46.
+
+Lorsque la nomination ou l'engagement se fait au sein d'un autre pouvoir organisateur, l'accord de celui-ci est requis.
+
+Dans [<sup>1</sup> l'enseignement organisé par la Communauté française]<sup>1</sup>, la première affectation des membres du personnel visés à l'alinéa 1 à la fonction de proviseur ou de sous-directeur se fait sur proposition de la Commission interzonale d'Affectation créée par l'article 14ter de l'arrêté royal du 22 mars 1996 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, (spécialisé), moyen, technique, de promotion sociale et artistique, de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargés de la surveillance de ces établissements. &lt;DCFR 2004-03-03/36, art. 260, 007; En vigueur : 01-09-2004&gt;
+
+----------
+
+(1)&lt;DCFR 2019-03-14/20, art. 99, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. 45
+
+§ 1. Les membres du personnel nommés ou engagés à titre définitif, à la date d'entrée en vigueur du décret à la fonction de proviseur ou sous-directeur chargé principalement du 1er degré sont réputes nommés ou engagés à titre définitif à la fonction de proviseur ou sous-directeur.
+
+Les membres du personnel désignés ou engagés à titre temporaire à la date d entrée en vigueur du décret à la fonction de proviseur ou sous-directeur chargé principalement du 1er degré sont réputés désignés ou engagés à titre temporaire à la fonction de proviseur ou sous-directeur.
+
+§ 2. Les membres du personnel nommés ou engagés à titre définitif à la date d'entrée en vigueur du décret à la fonction de proviseur ou sous-directeur dans l'enseignement secondaire du degré supérieur sont réputes nommés ou engagés à titre définitif à la fonction de proviseur ou sous-directeur.
+
+Les membres du personnel désignés ou engagés à titre temporaire à la date d'entrée en vigueur du décret à la fonction de proviseur ou sous-directeur dans l'enseignement secondaire du degré supérieur sont réputés désignés ou engagés à titre temporaire à la fonction de proviseur ou sous-directeur.
+
+#### Art. 45bis
+
+[<sup>1</sup> Les membres du personnel nommés à titre définitif dans l'enseignement de promotion sociale à la fonction de sous-directeur ou à la fonction de chef d'atelier ou à la fonction de secrétaire de direction en vertu des dispositions qui leur étaient applicables avant la date d'entrée en vigueur du décret sont réputés être nommés à titre définitif, dans l'enseignement de promotion sociale, respectivement à la fonction de sous-directeur ou à la fonction de chef d'atelier ou à la fonction de secrétaire de direction.
+
+Les membres du personnel désignés à titre temporaire à la date d'entrée en vigueur du présent décret dans l'enseignement de promotion sociale, à la fonction de sous-directeur ou à la fonction de chef d'atelier ou à la fonction de secrétaire de direction, sont réputés à la date d'entrée en vigueur du présent décret, être désignés à titre temporaire à la fonction de sous-directeur ou de chef d'atelier ou à la fonction de secrétaire de direction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2017-02-09/19, art. 51, 019; En vigueur : 01-01-2017&gt;
+
+#### Art. 46
+
+&lt;DCFR 2003-12-17/50, art. 41, 006; En vigueur : 09-02-2004&gt; Par dérogation à l'article 28, § 1er, alinéas 1er et 2, les membres du personnel de la Communauté qui ont été désignés à titre temporaire dans une fonction de sélection ou de promotion et y comptent au moins 1 050 jours d'ancienneté au 1er janvier 2004 sont prioritaires pour être affectés dans l'emploi qu'ils occupent, à titre définitif ou provisoire, selon que cet emploi est vacant ou non vacant, dès qu'ils ont obtenu le brevet en rapport avec la fonction qu'ils exercent.
+
+#### Art. 46bis
+
+&lt;Inséré par DCFR 2003-12-17/50, art. 42; En vigueur : 09-02-2004&gt; Par dérogation aux dispositions de l'article 28, § 2, alinéa 1er, du présent décret, les titulaires des brevets de promotion, qui ont introduit leur candidature à une fonction de promotion à la suite de l'appel lancé consécutivement à la délivrance des premiers brevets de promotion conformément aux dispositions du présent décret, sont nommés à ladite fonction de promotion à la date du 1er juillet, dans les emplois correspondant à ladite fonction, sous réserve que les emplois de la fonction de promotion considérée aient été disponibles pour un changement d'affectation dans le cadre de la procédure lancée au mois d'octobre précédent.
+
+#### Art. 47
+
+Les lauréats d'épreuves d'aptitude organisées selon les dispositions antérieures relatives à l'accès aux fonctions de promotion sont réputés être titulaires du brevet défini dans le décret pour la fonction correspondante.
+
+(Les lauréats des épreuves d'aptitude à la fonction d'inspecteur de cours généraux (langues anciennes) dans l'enseignement secondaire du degré inférieur ainsi que les lauréats des épreuves d'aptitude à la fonction d'inspecteur de cours généraux (latin-grec ou groupe philologie classique) dans l'enseignement secondaire du degré supérieur et dans l'enseignement supérieur non universitaire sont réputés être titulaires du brevet d'inspecteur de langues anciennes dans l'enseignement secondaire et dans l'enseignement supérieur non universitaire.) &lt;DCFR 2001-07-19/56, art. 10, 002; En vigueur : 25-02-1999&gt;
+
+#### Art. 48
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge, à l'exception des articles 29, 31 et 41 qui entrent en vigueur le 30 juin 1999.
+
+## ANNEXE. [<sup>1</sup> - Annexe au décret de la Communauté française du 4 janvier 1999 relatif aux fonctions de promotion et de sélection]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 100, 021; En vigueur : 01-09-2019&gt;
+
+#### Art. N
+
+[<sup>1</sup> Liste des titres de capacités permettant d'être nommé dans la fonction de secrétaire de direction]<sup>1</sup>
+
+<table><tr><td colspan="2">1) DIPLOMES DE L'ENSEIGNEMENT SUPERIEUR UNIVERSITAIRE</td></tr><tr><td>1<sup>ER</sup> CYCLE </td><td>2<sup>E</sup> CYCLE</td></tr><tr><td>- CANDIDAT/BACHELIER EN DROIT </td><td>- LICENCIE/MASTER EN DROIT</td></tr><tr><td>- CANDIDAT/BACHELIER EN SCIENCES POLITIQUES </td><td>- LICENCIE/MASTER EN SCIENCES POLITIQUES</td></tr><tr><td> </td><td>- LICENCIE/MASTER EN SCIENCES DU TRAVAIL</td></tr><tr><td>- CANDIDAT/BACHELIER EN SCIENCES ECONOMIQUES ET DE GESTION </td><td>- LICENCIE/MASTER EN SCIENCES ECONOMIQUES ET DE GESTION</td></tr><tr><td>- CANDIDAT/BACHELIER INGENIEUR DE GESTION </td><td>- INGENIEUR DE GESTION</td></tr><tr><td> </td><td>- MASTER EN GESTION DES RESSOURCES HUMAINES </td></tr><tr><td colspan="2">2) DIPLOMES DE L'ENSEIGNEMENT SUPERIEUR NON UNIVERSITAIRE DE PLEIN EXERCICE DE TYPE COURT </td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN DROIT </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN SECRETARIAT DE DIRECTION </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN SECRETARIAT </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN SECRETARIAT-LANGUES </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN RELATIONS PUBLIQUES </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN SCIENCES ADMINISTRATIVES ET GESTION PUBLIQUE </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN ADMINISTRATION ET GESTION DU PERSONNEL </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN GESTION DES RESSOURCES HUMAINES </td></tr><tr><td colspan="2">3) DIPLOMES DE L'ENSEIGNEMENT SUPERIEUR NON UNIVERSITAIRE DE PLEIN EXERCICE DE TYPE LONG </td></tr><tr><td colspan="2"></td></tr><tr><td>1<sup>ER</sup> CYCLE </td><td>2<sup>E</sup> CYCLE</td></tr><tr><td>- CANDIDAT EN SCIENCES ADMINISTRATIVES </td><td>- LICENCIE EN SCIENCES ADMINISTRATIVES</td></tr><tr><td>- BACHELIER EN GESTION PUBLIQUE </td><td>- MASTER EN GESTION PUBLIQUE</td></tr><tr><td colspan="2">4) DIPLOMES DE L'ENSEIGNEMENT SUPERIEUR DE PROMOTION SOCIALE DE TYPE COURT DE REGIME 1 </td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN SECRETARIAT </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN SECRETARIAT-LANGUES </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN SECRETARIAT DE DIRECTION </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN DROIT </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN RELATIONS PUBLIQUES </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN SCIENCES COMMERCIALES ET ADMINISTRATIVES </td></tr><tr><td colspan="2">- GRADUE/BACHELIER EN GESTION DES RESSOURCES HUMAINES</td></tr></table>
+
+----------
+
+(1)&lt;Inséré par DCFR 2019-03-14/20, art. 100, 021; En vigueur : 01-09-2019&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 4 janvier 1999.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+W. ANCION
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE

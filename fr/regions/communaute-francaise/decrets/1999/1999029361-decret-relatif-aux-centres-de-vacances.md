@@ -1,0 +1,515 @@
+---
+title: "Décret relatif aux centres de vacances."
+identifier: "1999029361"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/17/1999029361/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1999-05-17
+published: 1999-11-30
+entry_into_force: 2001-09-20
+last_amended: 2024-06-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/17/1999029361/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 30-11-1999 et mise à jour au 21-06-2024"
+retrieved: 2026-10-12
+---
+
+# 17 MAI 1999. - Décret relatif aux centres de vacances.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. [<sup>1</sup> - Champ d'application et objectifs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 5, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 1
+
+Le présent décret fixe les conditions générales d'agrément des [<sup>1</sup> pouvoirs organisateurs de]<sup>1</sup> centres de vacances, les conditions d'octroi de subventions aux centres de vacances [<sup>1</sup> ...]<sup>1</sup> , ainsi que les normes de qualification du personnel de ces centres.
+
+[<sup>1</sup> Il définit les conditions d'obtention du brevet d'animateur et de coordinateur de centres de vacances.]<sup>1</sup>
+
+Aucun organisateur d'activités pour enfants ne peut porter le titre de centre de vacances agréé par la Communauté française ou faire référence d'une quelconque manière à la Communauté française [<sup>1</sup> s'il n'est pas organisé par un pouvoir organisateur préalablement agréé]<sup>1</sup> en application du présent décret.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 2, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 2
+
+Pour l'application du présent décret il faut entendre par centre de vacances :
+
+1° les plaines de vacances qui sont des services d'accueil non résidentiels d'enfants, sans obligation d'affiliation;
+
+2° les séjours de vacances qui sont des services d'accueil résidentiels d'enfants;
+
+3° les camps de vacances qui sont des services d'accueil résidentiels d'enfants, organisés par des mouvements de jeunesse agréés dans le cadre du décret du 20 juin 1980 fixant les conditions de reconnaissance et d'octroi de subventions aux organisations de jeunesse.
+
+### Art. 3
+
+Les centres de vacances ont pour mission de contribuer à l'encadrement, l'éducation et l'épanouissement des enfants pendant les périodes de congés scolaires.
+
+Ils ont notamment pour objectifs de favoriser :
+
+1° le développement physique de l'enfant, selon ses capacités, par la pratique du sport, des jeux ou d'activités de plein air;
+
+2° la créativité de l'enfant, son accès et son initiation à la culture dans ses différentes dimensions, par des activités variées d'animation, d'expression, de création et de communication;
+
+3° l'intégration sociale de l'enfant, dans le respect des différences, dans un esprit de coopération et dans une approche multiculturelle;
+
+4° l'apprentissage de la citoyenneté et de la participation.
+
+[<sup>1</sup> Les centres de vacances veillent à ce que chaque enfant soit traité dans le respect de sa personne et de son individualité et ne soit soumis à aucune forme de violence physique ou psychique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2023-10-05/23, art. 17, 006; En vigueur : 02-02-2024&gt;
+
+### Art. 4
+
+Les centres de vacances sont organisés durant les congés scolaires [<sup>1</sup> d'une semaine au moins]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 3, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 4bis
+
+[<sup>1</sup> L'O.N.E. assure la mise en oeuvre, pour ce qui le concerne, des dispositions arrêtées par le Gouvernement en application des articles 5, § 7, 9, 11 à 13, 16 et 17bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 4, 004; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE II. [<sup>1</sup> - De la qualification de l'encadrement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 5, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 5
+
+[<sup>1</sup> § 1er. Dans les centres de vacances, les enfants et les jeunes sont encadrés par du personnel qualifié selon les normes d'encadrement minimal fixées à l'article 7, 8°.
+
+§ 2. Par personnel qualifié on entend :
+
+1° l'animateur breveté, âgé de dix-sept ans accomplis, titulaire du brevet d'animateur de centres de vacances homologué par la Communauté firançaise;
+
+2° le coordinateur qui est l'animateur visé au 1°, au § 3, au § 4 ou au § 5, âgé de dix-huit ans accomplis, et qui est titulaire du brevet de coordinateur de centres de vacances homologué par la Communauté française;
+
+3° le responsable qualifié, qui est l'animateur breveté, âgé de dix-huit ans au moins, désigné par les instances d'un mouvement de jeunesse reconnu par la Communauté française et qui peut faire preuve d'une expérience d'au moins un an d'animation, postérieure à l'acquisition du brevet d'animateur de centres de vacances.
+
+§ 3. Sont assimilées au personnel qualifié visé au § 2, 1°, les personnes qui justifient d'une expérience utile de cent cinquante heures de prestations au sein d'un centre de vacances agréé et qui sont porteuses de l'un des titres qui suivent :
+
+1° un diplôme ou certificat de fin d'études à orientation sociale ou pédagogique, au moins du niveau de l'enseignement technique secondaire supérieur;
+
+2° un diplôme ou certificat de fin d'études du niveau de l'enseignement supérieur social, pédagogique ou en éducation physique au moins de type court, de plein exercice ou de promotion sociale;
+
+3° un brevet d'instructeur en éducation physique, sport et vie en plein air délivré par la direction centrale des organisations de jeunesse et des organisations d'adultes selon les critères de l'arrêté ministériel du 20 mai 1976.
+
+§ 4. Sont assimilées au personnel qualifié visé au § 2, 1°, pour l'encadrement des enfants de six ans et moins, les personnes qui justifient d'une expérience utile de cent cinquante heures de prestations en centre de vacances agréé et qui sont porteuses d'un diplôme ou d'un certificat de fin d'études de puéricultrice.
+
+§ 5. Sont assimilées au personnel qualifié visé au § 2, 1°, les personnes qui justifient d'une expérience utile de cent cinquante heures de prestations en centre de vacances agréé et qui sont porteuses d'un certificat de qualification " auxiliaire de l'enfance " spécifique à l'enseignement secondaire supérieur de promotion sociale.
+
+§ 6. Sont assimilées au personnel qualifié visé au § 2, 2°, les personnes qui justifient d'une expérience utile de deux cent cinquante heures de prestations en centres de vacances agréé et qui sont porteuses d'un diplôme ou certificat de fin d'études du niveau de l'enseignement supérieur social ou pédagogique au moins.
+
+§ 7. Le Gouvernement détermine les conditions selon lesquelles l'expérience utile est réalisée et validée.
+
+§ 8. A partir du 1er octobre 2011, pour pouvoir être assimilées au personnel qualifié, les personnes visées aux paragraphes 3 à 6 doivent, en plus de l'expérience utile et du diplôme, titre ou certificat requis, justifier d'une formation complémentaire de 40 heures maximum, centrée sur les spécificités de l'accueil des enfants en centres de vacances.
+
+Une dérogation peut être octroyée par l'O.N.E. aux pouvoirs organisateurs pour les centres de vacances organisés entre le 1er octobre 2011 et le 30 septembre 2012 s'ils établissent qu'ils ne sont pas en mesure d'assurer l'encadrement requis avec du personnel remplissant les conditions visées à l'alinéa 1er.
+
+Les modalités de la formation complémentaire visée à l'alinéa 1er, en termes de définition de l'offre, des contenus, durée et publics cibles, sont définies par la commission générale d'avis et l'O.N.E.
+
+Cette offre de formation complémentaire est intégrée dans le programme triennal de formation arrêté tous les trois ans par le Gouvernement, sur proposition de l'O.N.E, et après avis de la commission générale d'avis relative aux centres de vacances.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 6, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 5bis
+
+[<sup>1</sup> § 1er Les brevets d'animateur de centres de vacances et de coordinateur de centres de vacances sont déterminés comme suit :
+
+1° Le brevet d'animateur de centre de vacances est délivré sur la base de l'acquisition d'une formation de trois cents heures comportant cent cinquante heures théoriques et cent cinquante heures de stage pratique au sein d'un centre de vacances agréé;
+
+2° Le brevet de coordinateur de centres de vacances est délivré sur la base de l'acquisition d'une formation de quatre cents heures comportant cent cinquante heures théoriques et deux cent cinquante heures de stage pratique au sein d'un centre de vacances agréé.
+
+§ 2. La formation d'animateur de centres de vacances :
+
+1° rend le participant capable d'assurer l'encadrement et l'animation d'un groupe d'enfants et/ou d'adolescents;
+
+2° rend le participant capable d'assurer la mission éducative d'un centre de vacances, sur base d'un projet pédagogique tel que défini à l'article 7, 3°;
+
+3° s'inscrit dans une démarche culturelle originale d'Education permanente qui a pour objectif de favoriser et développer chez les participants :
+
+\- des capacités de choix, d'analyse, d'action et d'évaluation;
+
+\- des attitudes de responsabilités et de participation active dans une perspective d'émancipation individuelle et de construction collective.
+
+La formation de coordinateur de centres de vacances :
+
+1° rend l'animateur de centres de vacances capable d'assurer la responsabilité d'un centre de vacances;
+
+2° rend l'animateur de centres de vacances capable de développer, avec son équipe d'animation, l'application d'un projet pédagogique défini par un pouvoir organisateur de centres de vacances;
+
+3° s'inscrit dans une démarche culturelle originale d'Education permanente qui a pour objectif de favoriser et développer chez les participants :
+
+\- des capacités de choix, d'analyse, d'action et d'évaluation;
+
+\- des attitudes de responsabilités et de participation active dans une perspective d'émancipation individuelle et de construction collective.
+
+Les contenus des formations portent notamment sur les matières suivantes en lien direct avec les fonctions exercées par les animateurs ou les coordinateurs de centres de vacances : l'expression, la créativité, santé et bien-être des enfants, les premiers soins, la prévention, la déontologie, la bien-traitance des enfants, les méthodes actives d'éducation, l'organisation d'activités, la communication, la psychologie de l'enfant et de l'adolescent, la gestion de groupe, l'éveil culturel, les Droits de l'Enfant, les méthodes et enjeux de l'Education permanente en centres de vacances, la gestion et le respect des différences, le lien entre le projet pédagogique du centre de vacances, sa mise en pratique et son évaluation.
+
+Le Gouvernement détermine les contenus et les modalités d'organisation des formations ainsi que les conditions selon lesquelles le stage pratique est réalisé et validé.
+
+§ 3. La formation est organisée par un organisme de formation habilité à cet effet par le Gouvernement, sur avis de la commission générale d'avis visée à l'article 17bis.
+
+L'habilitation repose sur :
+
+1° le respect des contenus et des modalités concernant l'organisation des formations;
+
+2° le respect des modalités concernant l'homologation des brevets;
+
+3° la constitution en asbl de l'organisme dont le siège social doit se situer en Communauté française ou le fait d'être pouvoir public;
+
+4° une expertise constatée dans l'organisation de centres de vacances en tant que pouvoir organisateur ou partenaire de pouvoir organisateur;
+
+5° la construction d'un projet de formation en lien avec les besoins des terrains;
+
+6° la mise en oeuvre, au sein des formations organisées dans le cadre de l'habilitation, de méthodes qui permettent de rencontrer les objectifs visés par l'Education permanente, tels que définis dans l'art. 5bis, § 2.
+
+7° l'acceptation par l'organisme de formation de se soumettre au contrôle organisé par le Gouvernement.
+
+En outre, l'organisme habilité participe activement au processus d'évaluation de la formation mise sur pied par la commission d'avis visée à l'article 17bis. Il s'engage également à limiter les frais de participation demandés aux participants selon un plafond déterminé par le Gouvernement sur avis de la commission d'avis visée à l'article 17bis.
+
+Cette habilitation est octroyée pour une période de 5 années renouvelables. Elle peut être retirée à l'organisme de formation qui ne remplit plus les conditions d'habilitation requises pour l'habilitation ou qui ne se soumet plus aux obligations qui lui incombent.
+
+Le Gouvernement détermine la procédure selon laquelle l'habilitation est octroyée et retirée.
+
+Le Gouvernement fixe la procédure de recours contre les décisions de refus ou de retrait d'habilitation.
+
+§ 4. L'obtention du brevet est soumise à la décision de l'équipe pédagogique mandatée par l'organisme de formation, au terme du parcours de formation comprenant la formation théorique et le stage pratique.
+
+§ 5. Les brevets qui répondent à toutes les conditions déterminées aux §§ 1 à 4 sont soumis à l'homologation de la Communauté française. Le Gouvernement en détermine la procédure.
+
+§ 6. Le Gouvernement détermine les modalités pratiques selon lesquelles une équivalence au brevet d'animateur ou au brevet de coordinateur visés au § 1er peut être délivrée lorsque toutes les conditions du présent article ne sont pas remplies. Ces équivalences sont octroyées sur avis conforme de la commission générale d'avis visée à l'article 17bis en tenant compte :
+
+1° des formations suivies en dehors de l'enseignement de la Communauté française, attestées par les organismes de formation. Pour être prises en compte, un lien doit pouvoir être établi entre les contenus et objectifs de ces formations et ceux déterminés pour l'obtention du brevet. Si ces formations ne sont pas assorties d'un titre valorisable, un minimum de 120 heures de formation doit pouvoir être pris en compte pour mener à une équivalence.
+
+2° des titres (diplômes et/ou certificats) acquis dans l'enseignement de la Communauté française, au minimum du niveau secondaire supérieur pour les animateurs et du niveau supérieur pour les coordinateurs. Pour être pris en compte, ces diplômes doivent être délivrés en fin d'études à finalité de type pédagogique, social ou artistique.
+
+3° de l'expérience acquise dans d'autres cadres que les centres de vacances et en centres de vacances.
+
+Pour toute équivalence,
+
+\- la majorité des contenus et objectifs de la formation doit avoir été abordée
+
+\- une expérience doit être acquise en centres de vacances, dont le nombre d'heures ne peut être inférieur au nombre d'heures requis pour le stage pratique du brevet visé par l'équivalence.
+
+Sur avis de la commission d'avis visée à l'article 17bis, le Gouvernement détermine le nombre d'heures requis en fonction de critères tenant compte des formations et/ou des titres obtenus.
+
+§ 7. Nul ne peut délivrer le brevet d'animateur de centres de vacances ou de coordinateur de centres de vacances ou faire référence d'une quelconque manière aux centres de vacances de la Communauté française dans les documents relatifs aux formations qu'il organise s'il n'y a été habilité préalablement en application du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 7, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 6
+
+Toute personne appelée à apporter son concours à l'encadrement d'un centre de vacances [<sup>1</sup> tel que défini à l'article 7, 8°]<sup>1</sup> doit être [<sup>1</sup> âgé de 16 ans accomplis et être]<sup>1</sup> de bonne vie et moeurs [<sup>1</sup> . Elle]<sup>1</sup> doit pouvoir en attester si elle est âgée de dix-huit ans et plus.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 8, 004; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE III. [<sup>1</sup> - De l'agrément]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 9, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 6bis
+
+[<sup>1</sup> Un pouvoir organisateur doit solliciter un agrément par type de centre de vacances visé à l'article 2 qu'il organise.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 10, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 7
+
+Pour être agréé [<sup>1</sup> , le pouvoir organisateur d'un ou plusieurs centres]<sup>1</sup> de vacances doit remplir les conditions suivantes :
+
+1° s'engager à accueillir au moins 15 enfants âgés de 30 mois à 15 ans;
+
+2° respecter les convictions idéologiques, philosophiques ou politiques des enfants et de leurs parents;
+
+3° [<sup>1</sup> dans le respect du code de qualité de l'accueil, définir un projet d'accueil lequel contient :
+
+a) un projet pédagogique qui rencontre les missions visées à l'article 3 et qui fixe les objectifs poursuivis, les méthodes et les moyens développés; ce projet tient compte des composantes socioculturelles de la société;
+
+b) un règlement d'ordre intérieur qui détermine les modalités pratiques de fonctionnement, d'organisation, de gestion des ressources humaines, de collaboration avec les différents partenaires et les parents; ce règlement précise également le dispositif mis en place pour que l'accès et la participation des enfants soient garantis et non empêchés par le montant de la participation financière éventuellement due par les parents; le pouvoir organisateur s'engage à ce que les parents ou les personnes qui exercent l'autorité parentale soient informés du contenu de ce règlement;]<sup>1</sup>
+
+4° être un pouvoir public, ou être constitué en association sans but lucratif, ou sous une autre forme associative, exclusive de la poursuite d'un gain matériel;
+
+5° [<sup>1</sup> s'engager à]<sup>1</sup> disposer d'une infrastructure fixe ou mobile, adaptée et offrant des garanties suffisantes d'hygiène et de sécurité;
+
+6° [<sup>1</sup> avoir des polices d'assurance couvrant :]<sup>1</sup>
+
+a) sa responsabilité civile. Cette police doit couvrir les dommages causés par le fait personnel du demandeur ainsi que par les personnes et biens dont il doit répondre;
+
+b) la responsabilité civile personnelle des enfants et des jeunes participant aux activités du centre de vacances;
+
+c) le dommage corporel causé aux enfants pris en charge soit par le fait d'autres enfants participant aux activités du centre de vacances, soit par l'effet d'un événement ne donnant pas lieu à responsabilité dans son chef;
+
+7° s'engager à se soumettre à l'inspection organisée par le Gouvernement;
+
+8° [<sup>1</sup> s'engager à assurer un encadrement dont les normes minimales sont :
+
+a) i) pour les plaines et séjours de vacances : un coordinateur ou un animateur qui effectue son stage pratique de 2 e cycle de formation de coordinateur de centres de vacances;
+
+ii) pour les camps de vacances : un responsable qualifié ou un coordinateur ou un animateur qui effectue son stage pratique de 2 e cycle de formation de coordinateur de centres de vacances;
+
+b) un animateur par groupe de huit enfants si l'un ou plusieurs des enfants sont âgés de moins de six ans;
+
+c) un animateur par groupe de douze enfants âgés de plus de six ans;
+
+d) un animateur sur trois au moins, au regard de l'encadrement minimal visé aux points b) et c), qui doit être soit qualifié, c'est-à-dire breveté ou assimilé, soit en 2 e stage pratique dans son cursus de formation en vue de l'obtention du brevet d'animateur;]<sup>1</sup>
+
+9° [<sup>1</sup> s'engager à proposer et à organiser des activités variées favorisant la participation de tous, dans une optique d'Education permanente et/ou non formelle, exclusive de toute forme d'offre d'animation spécialisée. Les activités doivent être considérées comme des moyens pour atteindre les objectifs fixés à l'article 3. Elles ne peuvent être considérées comme des fins en soi dans le but d'une recherche d'acquisition de savoirs ou de performances;]<sup>1</sup>
+
+[<sup>1</sup> 10° garantir un fonctionnement au minimum :
+
+a) pour les plaines de vacances, pendant trois périodes de cinq jours ouvrables, dont au moins deux consécutives durant les vacances d'été et au moins sept heures par jour;
+
+b) pour les séjours de vacances et les camps de vacances, pendant une période de huit jours consécutifs dont six jours pleins durant les vacances scolaires d'été ou de six jours consécutifs dont quatre jours pleins pendant les autres périodes de congés scolaires. La période de huit jours consécutifs peut être réduite à six jours consécutifs dont quatre jours pleins durant les vacances d'été, lorsque les enfants concernés ont moins de huit ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 11, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 8
+
+L'agrément peut être retiré à [<sup>1</sup> un pouvoir organisateur]<sup>1</sup> qui ne remplit plus les conditions d'agrément requises ou qui ne se soumet plus aux obligations qui lui incombent.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 12, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 9
+
+Le Gouvernement fixe la procédure d'octroi ou de retrait d'agrément. [<sup>1</sup> ...]<sup>1</sup> Cet agrément est accordé pour une période de trois années civiles renouvelable. Le Gouvernement fixe la procédure de recours contre les décisions de refus ou de retrait d'agrément.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 13, 004; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE IV. [<sup>1</sup> - Des subventions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 14, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 10
+
+[<sup>1</sup> Le centre de vacances, organisé par un pouvoir organisateur agréé répondant au prescrit de l'article 7 et organisé durant les congés scolaires de deux semaines consécutives au moins, peut se voir accorder une subvention, pouvant couvrir des frais d'encadrement et/ou de fonctionnement tels que visés aux articles 11 et 12, s'il remplit les conditions suivantes :
+
+1° avoir organisé au minimum :
+
+a) pour les plaines de vacances : trois périodes de cinq jours ouvrables, dont au moins deux consécutives durant les vacances d'été et au moins sept heures par jour;
+
+b) pour les séjours de vacances et les camps de vacances : une période de huit jours consécutifs dont six jours pleins durant les vacances d'été ou de six jours consécutifs dont quatre jours pleins pendant les autres périodes de congés scolaires. La période de huit jours consécutifs peut être réduite à six jours consécutifs dont quatre jours pleins durant les vacances d'été, lorsque les enfants concernés ont moins de huit ans;
+
+2° avoir accueilli :
+
+a) pour les séjours et les camps de vacances, au minimum 13 enfants âgés de 30 mois à 15 ans par journée d'animation;
+
+b) pour les plaines de vacances, une moyenne journalière égale ou supérieure à 13 enfants âgés de 30 mois à 15 ans par période de cinq jours;
+
+3° avoir mis en place un encadrement dont les normes minimales sont :
+
+a) i) pour les plaines et séjours de vacances : un coordinateur ou un animateur qui effectue son stage pratique de 2 e cycle de formation de coordinateur de centres de vacances;
+
+ii) pour les camps de vacances : un responsable qualifié ou un coordinateur ou un animateur qui effectue son stage pratique de 2 e cycle de formation de coordinateur de centres de vacances;
+
+b) un animateur par groupe de huit enfants si l'un ou plusieurs des enfants sont âgés de moins de six ans;
+
+c) un animateur par groupe de douze enfants âgés de plus de six ans;
+
+d) un animateur sur trois au moins, au regard de l'encadrement minimal visé aux points b) et c), doit être soit qualifié, c'est-à-dire breveté ou assimilé, soit en 2 e stage pratique du cycle de formation en vue de l'obtention du brevet d'animateur;]<sup>1</sup>
+
+[<sup>2</sup> 4° prendre les dispositions nécessaires pour que l'accès des enfants ne soit pas empêché par le montant de la participation financière éventuellement due par les parents.
+
+Dans cette logique, le gouvernement, sur proposition de l'O.N.E, fixe avant le début de l'année scolaire 2022-2023 un montant journalier maximal de participation aux frais. Ce montant peut varier selon qu'il s'agisse de plaines, de séjours et de camps de vacances.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 15, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFR 2022-03-31/35, art. 217, 005; En vigueur : 29-08-2022&gt;
+
+### Art. 11
+
+[<sup>1</sup> La présence de personnel, tel que visé à l'article 10, 3° ouvre le droit à une subvention d'encadrement, dont le montant et les modalités de liquidation sont déterminés par le Gouvernement.
+
+Les personnes en stage pratique dans le cadre de leur cursus de formation en vue de l'obtention du brevet d'animateur ou de coordinateur n'entrent pas dans le calcul de la dite subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 16, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 12
+
+Des subventions sont accordées pour les frais de fonctionnement des centres de vacances selon les modalités définies par le Gouvernement. Pour le calcul de ces subventions il est tenu compte notamment du nombre d'enfants accueillis au sein du centre de vacances.
+
+### Art. 13
+
+Les subventions sont versées après la réalisation effective des activités. [<sup>1</sup> Le Gouvernement fixe les modalités de liquidation des subventions. Il définit la procédure de recours en cas de contestation du montant de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 17, 004; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE V. [<sup>1</sup> - Dispositions particulières]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 18, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 14
+
+Le Gouvernement détermine des critères particuliers pour l'agrément et le subventionnement des centres de vacances qui accueillent des enfants issus de milieux ou de zones défavorisés. Ces critères tiennent compte notamment du nombre de participants et de leur âge.
+
+### Art. 15
+
+Le Gouvernement détermine des critères particuliers pour l'agrément et le subventionnement des centres de vacances qui intègrent également des enfants handicapés. Ces critères tiennent compte notamment du nombre de participants et de leur âge.
+
+### Art. 15bis
+
+Le Gouvernement détermine des critères particuliers pour l'agrément et le subventionnement des centres de vacances organisés en faveur d'enfants handicapés qui ne peuvent participer à des activités habituelles.
+
+### Art. 15ter
+
+&lt;Abrogé par DCFR 2024-04-18/33, art. 28, 007; En vigueur : 21-06-2024&gt;
+
+## CHAPITRE VI. [<sup>1</sup> - Du contrôle et de l'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 19, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 16
+
+Le Gouvernement organise le contrôle [<sup>1</sup> et l'accompagnement pédagogique]<sup>1</sup> des centres de vacances.
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 20, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 17
+
+[<sup>1</sup> L'application du présent décret fait l'objet d'une évaluation tous les 3 ans par la commission d'avis visée à l'article 17bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2009-04-30/C0, art. 21, 004; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE VII. [<sup>1</sup> - Commission d'avis]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 22, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 17bis
+
+[<sup>1</sup> § 1er. Une commission générale d'avis relative aux centres de vacances est créée, laquelle a pour mission de conseiller le Gouvernement par rapport à sa politique en matière de centres de vacances et de faciliter la concertation entre les différents acteurs administratifs, politiques ou associatifs appelés à y collaborer. Elle peut d'initiative ou à la demande du Gouvernement ou de l'O.N.E. se saisir de toute question relative à l'application du présent décret ou de ses arrêtés d'exécution.
+
+Elle se prononce sous forme d'avis.
+
+La commission générale d'avis comporte en son sein deux commissions, une commission relative à l'agrément et une commission relative à la formation, lesquelles sont chargées de préparer les avis de la commission générale dans les matières qui relèvent de leurs compétences.
+
+La commission relative à l'agrément est compétente pour préparer les avis notamment sur toute question relative aux agréments des pouvoirs organisateurs.
+
+La commission relative à la formation est compétente pour préparer les avis notamment sur toute demande et retrait d'habilitation des organismes de formation et toute question relative à la formation d'animateur et de coordinateur de centres de vacances.
+
+La commission relative à l'agrément et la commission relative à la formation sont exclusivement composées de membres de la commission générale d'avis.
+
+Le Gouvernement détermine les modalités de composition et d'organisation des deux commissions.
+
+§ 2. La commission générale d'avis est instituée par le Ministre de l'Enfance, auprès de l'ONE, pour une période de trois ans renouvelable. La commission générale d'avis se compose de :
+
+1° un délégué du Ministre de l'Enfance et un délégué du Ministre ayant la politique de la jeunesse dans ses attributions;
+
+2° trois agents de l'O.N.E., dont au moins un membre du service Centres de Vacances et un représentant des coordinateurs de milieux d'accueil;
+
+3° deux délégués de l'Union des Villes et des Communes de Wallonie et un délégué de l'Association de la ville et des communes de la Région bruxelloise;
+
+4° un représentant du Service de la Jeunesse et un représentant du service de l'inspection de la DG culture;
+
+5° six délégués de la Commission Consultative des Organisations de Jeunesse dont trois ont pour activités l'organisation de plaines de vacances, un l'organisation de séjours de vacances et un l'organisation de camps de vacances;
+
+6° quatre délégués d'organismes de formation habilités pour la formation d'animateurs et pour la formation de coordinateurs de centres de vacances, dont minimum trois doivent être issus d'organisations de jeunesse;
+
+7° deux délégués de pouvoirs organisateurs ou de groupement de pouvoirs organisateurs de centres de vacances associatifs non représentés en vertu des catégories 1° à 6° dont un représentatif de pouvoirs organisateurs actifs en Région bruxelloise et l'autre représentatif de pouvoirs organisateurs actifs en Région de langue française.
+
+Les membres visés aux 3°, 5°, 6° et 7° peuvent voir renouveler leur mandat deux fois au sein de la commission. A défaut de candidature, le délégué peut voir son mandat renouvelé une troisième fois.
+
+Les membres visés au 6° sont choisis par le Ministre ayant la politique de la jeunesse dans ses attributions sur la base d'un appel à candidatures adressé à tous les organismes de formation habilités. L'acte de candidature doit être motivé.
+
+Les membres visés au 7° sont choisis par le Ministre de l'Enfance sur la base d'un appel à candidatures adressé à tous les pouvoirs organisateurs de centres de vacances agréés. L'acte de candidature doit être motivé et la candidature soutenue par d'autres pouvoirs organisateurs de centres de vacances associatifs.
+
+Le Ministre de l'Enfance désigne un président au sein de la commission générale d'avis. Le secrétariat de la commission générale d'avis est assuré par l'O.N.E.
+
+§ 3. La commission générale d'avis, qui a son siège à l'O.N.E., se réunit au moins deux fois par an. Elle doit être convoquée dans un délai minimum de cinq jours ouvrables précédant la réunion.
+
+La commission générale d'avis siège valablement quel que soit le quorum de présence pour autant que cinq catégories de membres au moins soient représentées.
+
+Elle délibère à la majorité absolue des membres présents et à huis-clos.
+
+La commission générale d'avis adopte son propre règlement d'ordre intérieur. Dans tous les cas, celui-ci prévoit les règles déontologiques applicables, notamment lorsqu'un dossier concernant un des membres de la commission générale d'avis est mis à l'ordre du jour de la commission générale d'avis ou d'une des deux commissions. Ce règlement d'ordre intérieur est soumis à l'approbation du Ministre de l'Enfance et du Ministre ayant la politique de la jeunesse dans ses attributions.
+
+La commission générale d'avis rend compte annuellement de ses activités au Ministre de l'Enfance et au Ministre ayant la politique de la jeunesse dans ses attributions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 23, 004; En vigueur : 01-09-2009&gt;
+
+## CHAPITRE VIII. [<sup>1</sup> - Disposition finale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-04-30/C0, art. 24, 004; En vigueur : 01-09-2009&gt;
+
+### Art. 18
+
+Le Gouvernement fixe, pour chaque disposition du présent décret, la date d'entrée en vigueur du présent décret.
+
+(NOTE : entrée en vigueur fixée au 20-09-2001 par ACF 2001-09-20/39, art. 26 et par AGF 2004-03-17/39, art. 25.)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 17 mai 1999.
+
+La Ministre-Présidente du Gouvernement de la Communauté française chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+W. ANCION
+
+Le Ministre de la Culture et de l'Education permanente,
+
+C. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE

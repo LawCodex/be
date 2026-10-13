@@ -1,0 +1,91 @@
+---
+title: "Décret contenant le budget des Voies et Moyens de la Communauté francaise pour l'année budgétaire 1999."
+identifier: "1998029458"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/17/1998029458/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1998-07-17
+published: 1998-12-04
+entry_into_force: 1999-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/17/1998029458/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 17 JUILLET 1998. - Décret contenant le budget des Voies et Moyens de la Communauté francaise pour l'année budgétaire 1999.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Pour l'année budgétaire 1999, les moyens de la Communauté française sont évalués à 249 425,4 millions de francs, se décomposant comme suit :
+
+\- recettes courantes (Titre I) : 240 190,6 millions de francs;
+
+\- recettes en capital (Titre II) : 34,8 millions de francs;
+
+\- produits d'emprunts d'une durée supérieure à 1 an (Titre III) : 9 200 millions de francs.
+
+## Art. 2
+
+Le Gouvernement est autorisé à percevoir toute recette revenant à la Communauté.
+
+## Art. 3
+
+Le Ministre ayant dans ses attributions le Budget et les Finances est autorisé :
+
+\- à souscrire les emprunts visés à l'article 1er;
+
+\- à conclure toute opération de gestion financière et de trésorerie réalisée dans l'intérêt général du Trésor dans le respect des procédures arrêtées par le Gouvernement de la Communauté française.
+
+## Art. 4
+
+Le Ministre ayant dans ses attributions le Budget et les Finances est autorisé, moyennant information du Parlement, du Gouvernement et de la Cour des Comptes, à décider d'imputer une recette de l'exercice au budget d'une année antérieure dès lors que cette recette procédait de l'équilibre budgétaire de l'année concernée.
+
+## Art. 5
+
+Le recouvrement des recettes est opéré par les comptables de recettes désignés par arrêté du Gouvernement.
+
+## Art. 6
+
+Les montants non engagés au 31 décembre 1998 des allocations de base du budget ajusté de 1998, de même que les montants des allocations de base reportées du budget de 1997 et non ordonnancées à cette même date seront arrêtés dans le courant du 1er trimestre de 1999 et donneront lieu au versement, par virement dans les écritures, de leur total à l'article 08.03 du budget des Voies et Moyens de 1999.
+
+Ce total sera réduit à concurrence des dépassements de crédits constatés au 31 décembre 1998 ainsi que des insuffisances de réalisation de recettes générales enregistrées à la même date par rapport aux prévisions ajustées du budget des Voies et Moyens de 1998.
+
+Ce total sera augmenté à concurrence de l'excédent de recettes générales enregistré à la date du 31 décembre 1998 par rapport aux prévisions ajustées du budget des Voies et Moyens de 1998.
+
+## Art. 7
+
+Le présent décret entre en vigueur le 1er janvier 1999.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 17 juillet 1998.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Education, de l'Audiovisuel, de l'Aide à la jeunesse, de l'Enfance et de la Promotion de la santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+W. ANCION
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE
+
+## ANNEXE.
+
+## Art. N
+
+Budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1999.
+
+(Tableau non repris pour des raisons techniques. Voir M.B. 04-12-1998, p. 38845 - 38848).

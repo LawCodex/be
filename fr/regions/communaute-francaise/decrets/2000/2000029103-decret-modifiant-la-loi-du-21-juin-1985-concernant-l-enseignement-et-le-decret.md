@@ -1,0 +1,71 @@
+---
+title: "Décret modifiant la loi du 21 juin 1985 concernant l'enseignement et le décret du 14 juillet 1997 portant diverses mesures en matière d'enseignement universitaire."
+identifier: "2000029103"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/02/2000029103/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 2000-03-02
+published: 2000-03-14
+entry_into_force: 2000-03-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/02/2000029103/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 2 MARS 2000. - Décret modifiant la loi du 21 juin 1985 concernant l'enseignement et le décret du 14 juillet 1997 portant diverses mesures en matière d'enseignement universitaire.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'article 69 de la loi du 21 juin 1985 concernant l'enseignement est remplacé par la disposition suivante :
+
+" Article 69. L'article 16 produit ses effets le 1er octobre 1983, à l'exception des conséquences de cette disposition sur la possibilité pour les universités de réclamer un droit d'inscription complémentaire qui produisent leurs effets au 1er septembre 1976.
+
+L'article 17 produit ses effets le 21 mars 1984. ".
+
+## Art. 2
+
+A l'article 45 du décret du 14 juillet 1997 portant diverses mesures en matière d'enseignement universitaire, est ajouté l'alinéa suivant :
+
+" L'article 42 produit ses effets le 16 juillet 1985. ".
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 2 mars 2000.
+
+Le Ministre-Président, chargé des Relations internationales,
+
+H. HASQUIN
+
+Le Ministre du Budget, de la Culture et des Sports,
+
+R. COLLIGNON
+
+Le Ministre de l'Enfance, chargé de l'Enseignement fondamental, de l'accueil et des missions confiées à l'O.N.E.,
+
+J.-M. NOLLET
+
+Le Ministre de l'Enseignement secondaire, des Arts et des Lettres,
+
+P. HAZETTE
+
+La Ministre de l'Enseignement supérieur et de la Recherche scientifique,
+
+Mme F. DUPUIS
+
+La Ministre de l'Audiovisuel,
+
+Mme C. DE PERMENTIER
+
+Le Ministre de la Jeunesse, de la Fonction publique et de l'Enseignement de promotion sociale,
+
+Y. YLIEFF
+
+La Ministre de l'Aide à la Jeunesse et de la Santé,
+
+Mme N. MARECHAL

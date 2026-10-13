@@ -1,0 +1,731 @@
+---
+title: "Décret relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française."
+identifier: "1999029177"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/08/1999029177/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1999-02-08
+published: 1999-04-29
+entry_into_force: 1999-02-01
+last_amended: 2025-08-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/08/1999029177/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 29-04-1999 et mise à jour au 04-08-2025"
+retrieved: 2026-10-12
+---
+
+# 8 FEVRIER 1999. - Décret relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Champ d'application.
+
+#### Art. 1
+
+Le présent décret s'applique aux membres du personnel enseignant [<sup>1</sup> visés]<sup>1</sup> au décret du 24 juillet 1997 fixant le statut des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation des hautes écoles organisées ou subventionnées par la Communauté française.
+
+----------
+
+(1)&lt;DCFR 2022-01-27/25, art. 1, 020; En vigueur : 14-09-2021&gt;
+
+## CHAPITRE II. - Définitions.
+
+#### Art. 2
+
+[<sup>1</sup> Pour l'application du présent décret, il faut entendre par :
+
+1° Loi du 19 mars 1971 : la loi du 19 mars 1971 relative à l'équivalence des diplômes et certificats d'études étrangers;
+
+2° Loi du 7 juillet 1970 : la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur;
+
+3° Décret du 16 avril 1991 : le décret du 16 avril 1991 organisant l'enseignement de promotion sociale;
+
+4° Décret du 25 juillet 1996 : le décret du 25 juillet 1996 relatif aux charges et emplois des hautes écoles organisées ou subventionnées par la Communauté française;
+
+5° Décret du 9 septembre 1996 : le décret du 9 septembre 1996 relatif au financement des hautes écoles organisées ou subventionnées par la Communauté française;
+
+6° Décret du 24 juillet 1997 : le décret du 24 juillet 1997 fixant le statut des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation des hautes écoles organisées ou subventionnées par la Communauté française;
+
+7° Décret du 7 novembre 2013 : le décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études;
+
+8° Décret du 21 février 2019 : le décret du 21 février 2019 fixant l'organisation de l'enseignement supérieur en Hautes Ecoles;
+
+9° Arrêté de l'Exécutif de la Communauté française du 22 avril 1969 : l'arrêté de l'Exécutif de la Communauté française du 22 avril 1969 fixant les titres requis des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique, du personnel social des établissements d'enseignement préscolaire, primaire, spécial, moyen, technique, artistique et supérieur non universitaire de la Communauté française et des internats dépendant de ces établissements;
+
+10° Haute école : la haute école visée à l'article 11 du décret du 7 novembre 2013;
+
+11° Pouvoir organisateur : le pouvoir organisateur d'un établissement d'enseignement tel que défini à l'article 3, 2°, a), du décret du 3 mai 2019 portant les livres 1er et 2 du Code de l'enseignement fondamental et de l'enseignement secondaire, et mettant en place le tronc commun;
+
+12° Emploi vacant : l'emploi vacant tel que visé à l'article 9 du décret du 25 juillet 1996;
+
+13° Certificat d'aptitudes pédagogiques : le certificat d'aptitudes pédagogiques visé à l'article 16 de l'arrêté de l'Exécutif de la Communauté française du 22 avril 1969;
+
+14° Certificat d'aptitude pédagogique : le certificat d'aptitude pédagogique visé à l'arrêté du Gouvernement de la Communauté française du 18 juillet 1994 approuvant les dossiers de référence de l'enseignement supérieur pédagogique de promotion sociale de type court et de régime I délivrant le certificat d'aptitude pédagogique;
+
+15° Certificat d'aptitude pédagogique approprié à l'enseignement supérieur : le certificat d'aptitude pédagogique approprié à l'enseignement supérieur tel que visé par le décret du 17 juillet 2002 définissant le Certificat d'aptitude pédagogique approprié à l'Enseignement supérieur (CAPAES) en Hautes Ecoles et dans l'enseignement supérieur de promotion sociale et ses conditions d'obtention;
+
+16° Certificat de cours normaux techniques moyens : le certificat de cours normaux techniques moyens visé à l'article 17 de l'arrêté de l'Exécutif de la Communauté française du 22 avril 1969;
+
+17° Expérience utile de l'enseignement : l'expérience utile de l'enseignement est constituée par les services accomplis dans une fonction de la catégorie du personnel directeur et enseignant, à quelque niveau d'enseignement que ce soit;
+
+18° Expérience utile du métier : l'expérience utile du métier est constituée par les services accomplis soit dans le secteur privé ou public, soit dans un métier ou une profession. Ces services doivent avoir un rapport avec les cours à conférer;
+
+19° Chambre des Hautes écoles et de l'Enseignement supérieur de promotion sociale : la Chambre des Hautes écoles et de l'Enseignement supérieur de promotion sociale, telle que visée à l'article 37, alinéa 2, 2°, du décret du 7 novembre 2013;
+
+20° Titres de capacité : les titres délivrés conformément aux dispositions des articles 69 à 71 du décret du 7 novembre 2013;
+
+21° Titres requis : les titres de capacité dont la spécificité est précisée dans les annexes 1, 2 et 3;
+
+22° Temporaire à durée déterminée : le membre du personnel désigné ou engagé en cette qualité conformément aux dispositions de l'article 10, alinéa 1er, du décret du 25 juillet 1996;
+
+23° Temporaire à durée indéterminée : le membre du personnel désigné ou engagé en cette qualité conformément aux dispositions de l'article 10, alinéas 2 et 3, du décret du 25 juillet 1996;
+
+24° Nomination ou engagement à titre définitif : la nomination ou l'engagement à titre définitif effectués conformément aux dispositions de l'article 12, § 1er, du décret du 25 juillet 1996;
+
+25° Cours à conférer : un ensemble d'activités d'apprentissage telles que décrites à l'article 76 du décret du 7 novembre 2013.]<sup>1</sup>
+
+[<sup>2</sup> 26° décret du 7 février 2019 : le décret du 7 février 2019 définissant la formation initiale des enseignant.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2022-01-27/25, art. 2, 020; En vigueur : 14-09-2021&gt;
+
+(2)&lt;DCFR 2025-07-16/09, art. 1, 024; En vigueur : 01-10-2025&gt;
+
+#### Art. 3
+
+§ 1. Pour l'application du présent décret, il y a lieu d'entendre par titres du niveau supérieur du troisième degré :
+
+1° les diplômes d'agrégé de l'enseignement secondaire supérieur, de docteur, de maître, de licencié, [<sup>1</sup> de master,]<sup>1</sup> d'ingénieur ou de pharmacien, délivrés conformément à la législation des grades académiques;
+
+2° les autres diplômes d'agrégé de l'enseignement secondaire supérieur, d'architecte, d'ingénieur [<sup>2</sup> , de master]<sup>2</sup> ou de licencié délivrés par l'enseignement supérieur de type long, ou [<sup>3</sup> par un jury de la Communauté française, tel que visé à l'article 136 du décret du 7 novembre 2013]<sup>3</sup>;
+
+3° le diplôme d'enseignement technique supérieur du troisième degré;
+
+4° le diplôme d'enseignement artistique supérieur du troisième degré;
+
+5° le diplôme d'enseignement supérieur artistique du troisième degré;
+
+6° les diplômes délivrés par l'Ecole royale militaire, à l'issue d'un deuxième cycle d'études.
+
+Pour l'application du présent décret, il y a lieu d'entendre par titres du niveau supérieur du deuxième degré :
+
+1° le diplôme d'ingénieur-technicien;
+
+2° le diplôme universitaire de conducteur civil;
+
+3° le diplôme d'école ou de cours techniques supérieurs du deuxième degré;
+
+4° le diplôme d'enseignement artistique supérieur du deuxième degré.
+
+Pour l'application du présent décret, il y a lieu d'entendre par titres du niveau supérieur du premier degré :
+
+1° un des diplômes conférés [<sup>3</sup> conformément à l'article 69, § 1er, du décret du 7 novembre 2013]<sup>3</sup>;
+
+2° le diplôme d'école ou de cours techniques supérieurs du premier degré;
+
+3° le diplôme d'enseignement artistique supérieur du premier degré;
+
+4° le diplôme d'enseignement supérieur artistique du premier degré;
+
+5° les diplômes délivrés à l'issue d'un cycle de trois années d'études par des établissements classés en vertu de l'article 2 de la loi du 7 juillet 1970 dans l'enseignement supérieur artistique de type court.
+
+§ 2. Sont également pris en considération au même titre que les diplômes délivrés par l'enseignement de plein exercice :
+
+1° les diplômes correspondants délivrés par l'enseignement de promotion sociale de type long en vertu de l'article 62, [<sup>3</sup> ...]<sup>3</sup>, du décret du 16 avril 1991;
+
+2° les diplômes correspondants délivrés par l'enseignement de promotion sociale de type court en vertu de l'[<sup>3</sup> article 47 alinéa 1er]<sup>3</sup>, du décret du 16 avril 1991.
+
+----------
+
+(1)&lt;DCFR 2013-07-04/04, art. 1, 016; En vigueur : 01-06-2013&gt;
+
+(2)&lt;DCFR 2013-07-04/04, art. 2, 016; En vigueur : 01-06-2013&gt;
+
+(3)&lt;DCFR 2022-01-27/25, art. 3, 020; En vigueur : 14-09-2021&gt;
+
+## CHAPITRE III. - Des titres de capacité.
+
+#### Art. 4
+
+§ 1. Nul ne peut exercer les fonctions de professeur, de chef de bureau d'études ou de chargé de cours, s'il n'est porteur d'un diplôme de [<sup>2</sup> ...]<sup>2</sup> , docteur conféré après la soutenance d'une thèse [<sup>2</sup> ...]<sup>2</sup> ou s'il n'est porteur d'un des titres de capacité précisés au § 2, ou si les dispositions du § 3 ne lui ont pas été appliquées.
+
+Nul ne peut exercer les fonctions de chef de travaux ou de maître-assistant, s'il n'est porteur d'un des titres de capacité suivants :
+
+1° un diplôme de docteur en médecine, de docteur en médecine vétérinaire, de pharmacien, d'ingénieur, de maître ou de licencié [<sup>4</sup> ...]<sup>4</sup> [<sup>3</sup> ...]<sup>3</sup>;
+
+2° un diplôme d'architecte, d'ingénieur ou de licencié délivré par l'enseignement supérieur de type long, ou par un jury d'enseignement supérieur de la Communauté française, ou un titre dont le porteur a obtenu l'assimilation à un tel diplôme;
+
+3° un diplôme de fin d'études délivré par un établissement d'enseignement technique supérieur classé au troisième degré ou par un établissement d'enseignement artistique du niveau supérieur classé au troisième degré.
+
+[<sup>3</sup> 4° un diplôme délivré conformément aux dispositions du décret du 7 novembre 2013.]<sup>3</sup>
+
+Nul ne peut exercer la fonction de maître de formation pratique, s'il n'est porteur d'un titre de niveau supérieur du premier degré.
+
+§ 2. [<sup>1</sup> Les titres de capacité visés au paragraphe 1er peuvent aussi être des titres étrangers reconnus équivalents en application de la loi du 19 mars 1971 relative à l'équivalence des diplômes et certificats d'études étrangers ou [<sup>3</sup> de l'article 92 du décret du 7 novembre 2013]<sup>3</sup>.]<sup>1</sup>
+
+§ 3. Le Gouvernement peut, sur avis favorable [<sup>3</sup> de la Chambre des hautes écoles et de l'enseignement supérieur de promotion sociale]<sup>3</sup>, accepter qu'une notoriété professionnelle ou scientifique en relation avec la fonction et les cours à conférer tienne lieu, à titre personnel, des titres exigés au § 1.
+
+[<sup>3</sup> La Chambre des hautes écoles et de l'enseignement de promotion sociale]<sup>3</sup> donne son avis sur base de dossiers à introduire par les candidats. Ces dossiers comprennent notamment les documents relatifs aux titres et mérites, à l'expérience utile du métier et de l'enseignement, les mentions des publications scientifiques et des travaux pédagogiques ainsi que des justifications d'expériences professionnelles diverses.
+
+[<sup>3</sup> La notoriété professionnelle est le processus qui permet d'obtenir, à titre personnel et définitif, un titre de capacité en vue d'accéder aux fonctions des membres du personnel enseignant en Hautes Ecoles en tant que maître de formation pratique ou de maître assistant pour un ou des cours à conférer bien déterminé(s).
+
+La notoriété scientifique est le processus qui permet d'obtenir, à titre personnel et définitif, un titre de capacité en vue d'accéder à la fonction des membres du personnel enseignant en Hautes Ecoles en tant que chargé de cours pour un ou des cours à conférer bien déterminés. La notoriété scientifique marque un niveau de compétence scientifique comparable à celle d'un docteur qui vient compléter le grade académique initial du candidat. Elle doit être basée sur la production scientifique du candidat.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFR 2009-01-23/38, art. 16, 013; En vigueur : 01-02-2009&gt;
+
+(2)&lt;DCFR 2009-02-19/61, art. 46, 014; En vigueur : 15-09-2009&gt;
+
+(3)&lt;DCFR 2022-01-27/25, art. 4, 020; En vigueur : 14-09-2021&gt;
+
+(4)&lt;DCFR 2025-07-16/09, art. 2, 024; En vigueur : 01-10-2025&gt;
+
+## CHAPITRE IV. - Des cours à conférer et de la spécificité des titres requis.
+
+#### Art. 5
+
+La spécificité des titres requis pour l'exercice de la fonction de maître de formation pratique est précisée dans l'annexe 1 au présent décret en regard des cours à conférer.
+
+#### Art. 6
+
+La spécificité des titres requis pour l'exercice de la fonction de maître-assistant est précisée dans l'annexe 2 au présent décret en regard des cours à conférer.
+
+#### Art. 7
+
+[<sup>1</sup> Pour exercer la fonction de chargé de cours, dans le respect de l'article 4, § 1er, la spécificité du titre requis est précisée à l'annexe 2 au présent décret en regard du cours à conférer dans lequel il est classé. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2025-07-16/09, art. 3, 024; En vigueur : 01-10-2025&gt;
+
+## CHAPITRE V. - Dispositions complémentaires.
+
+#### Art. 8
+
+Pour l'exercice de la fonction de maître de formation pratique, une expérience utile du métier d'au moins deux ans est constitutive du titre requis tel que visé à l'article 5.
+
+[<sup>1</sup> Le Gouvernement détermine le modèle des documents permettant d'introduire valablement une demande de valorisation d'expérience utile à la Commission instituée à l'article 8/1.]<sup>1</sup>
+
+[<sup>2</sup> Dans le cadre de l'exercice des fonctions de maître assistant, de chargé de cours, de chef de travaux, de professeur et de chef de bureau d'études, une expérience utile du métier peut être valorisée à concurrence maximum de cinq années conformément à l'article 17, § 1er, alinéa 2, de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2021-07-19/12, art. 74, 019; En vigueur : 09-09-2021&gt;
+
+(2)&lt;DCFR 2025-07-16/09, art. 4, 024; En vigueur : 01-10-2025&gt;
+
+#### Art. 8/1
+
+[<sup>1</sup> Il est créé une commission de reconnaissance d'expérience utile, ci-après nommée la Commission.
+
+La Commission décide valablement si:
+
+1° les services attestés ou déclarés par le candidat à une désignation ou à un engagement à titre temporaire à la fonction de maître de formation pratique dans une Haute Ecole, constituent l'expérience utile visée à l'article 8 du présent décret et à l'article 17, § 1er, de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique;
+
+[<sup>2</sup> les services attestés ou déclarés par les membres du personnel désignés ou engagés dans une fonction de maître-assistant, de chargé de cours, de chef de travaux, de professeur et de chef de bureau d'études constituent l'expérience utile visée à l'article 17, § 1er, alinéa 2, de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique ]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-07-19/12, art. 75, 019; En vigueur : 01-02-2020&gt;
+
+(2)&lt;DCFR 2025-07-16/09, art. 5, 024; En vigueur : 01-10-2025&gt;
+
+#### Art. 8/2
+
+[<sup>1</sup> § 1er. La Commission est composée comme suit:
+
+1° un président et son suppléant: un agent de rang 10 au moins des services du Gouvernement;
+
+2° les membres suivants:
+
+a) un membre effectif et son suppléant, titulaires d'un grade classé à l'un des rangs 10 à 12 de la direction générale des personnels de l'enseignement de la Communauté française;
+
+b) un membre effectif et son suppléant, titulaires d'un grade classé à l'un des rangs 10 à 12 de la direction générale des personnels de l'enseignement subventionné;
+
+c) trois membres et leurs suppléants choisis parmi les membres du personnel directeur et enseignant des Hautes Ecoles et proposés par [<sup>2</sup> la chambre thématique des hautes écoles et de l'enseignement supérieur de promotion sociale]<sup>2</sup>, chaque réseau disposant d'au moins un mandat;
+
+d) trois membres et leurs suppléants représentant les organisations syndicales siégeant au sein du Comité de secteur IX ou du Comité des Services publics provinciaux et locaux, 2e section; ceux-ci sont désignés par leur organisation syndicale respective parmi les membres du personnel nommés ou engagés à titre définitif. Le S.L.F.P., la F.S.C.S.P. et la C.G.S.P. disposent chacun d'au moins un mandat.
+
+Le président et son suppléant, les membres effectifs et les membres suppléants sont désignés pour un terme de quatre ans renouvelable.
+
+§ 2. La Commission est assistée d'un secrétaire et d'un secrétaire suppléant désignés parmi les membres du personnel des services du Gouvernement de la Communauté française - Ministère de la Communauté française.
+
+Le secrétaire et le secrétaire suppléant n'ont pas voix délibérative.
+
+§ 3. La Commission établit son règlement d'ordre intérieur.
+
+§ 4. La Commission peut solliciter l'avis d'experts.
+
+§ 5. Le mandat des présidents et des membres est gratuit. Ils ont droit aux indemnités réglementaires pour les frais de parcours et de séjour.
+
+§ 6. Les experts visés au § 4 dont la résidence administrative n'est pas située à Bruxelles ont droit au remboursement de leurs frais de parcours et de séjour.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-07-19/12, art. 75, 019; En vigueur : 01-02-2020&gt;
+
+(2)&lt;DCFR 2025-07-16/09, art. 6, 024; En vigueur : 01-10-2025&gt;
+
+#### Art. 8/3
+
+[<sup>1</sup> § 1er. Toute personne qui sollicite la décision de la Commission doit introduire sa demande, par lettre recommandée à la poste ou par voie électronique et adressée au président de la Commission, Administration générale de l'Enseignement, Espace 27 septembre, boulevard Léopold II 44, à 1080 Bruxelles.
+
+La demande doit comporter tous les éléments permettant à la Commission d'émettre une décision en toute connaissance de cause ainsi que toutes les pièces de nature à contrôler ces éléments.
+
+§ 2. La Commission statue en prenant en considération, pour le ou les cours à conférer au sens du présent décret, les services rendus par le candidat soit dans une entreprise familiale ou dans le cadre d'activités qu'il a exercées pour son propre compte, soit dans un service ou un établissement public ou privé, soit dans un métier ou une profession.
+
+§ 3. Toute personne qui introduit une demande de reconnaissance d'expérience utile peut être entendue par la Commission, si cette dernière en exprime le souhait.
+
+§ 4. La Commission délibère valablement si la moitié au moins des membres sont présents.
+
+Les décisions sont prises à la majorité absolue des membres présents. En cas de parité, la voix du président est prépondérante.
+
+Tout membre effectif empêché d'assister à une réunion en avertit le président et invite son suppléant à siéger.
+
+§ 5. Dans les quatre mois qui suivent la date de réception de la demande, la Commission:
+
+\- [<sup>2</sup> soit prend une décision de valorisation d'expérience utile du métier telle que définie à l'article 8 alinéa 2 du présent décret, et à l'article 17, § 1er, alinéa 2, de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique ]<sup>2</sup>;
+
+\- soit averti le candidat par lettre recommandée à la poste ou par voie électronique qu'elle envisage de ne pas lui reconnaître cette expérience utile. Le candidat dispose alors d'un délai de quinze jours ouvrables à dater de la notification pour introduire un recours auprès de la Commission. Dans ce cas, la Commission est tenue de remettre sa décision dans les six mois qui suivent la date de réception de la demande initiale.
+
+Les délais prévus à l'alinéa précédent sont suspendus pendant les mois de juillet et août.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2021-07-19/12, art. 75, 019; En vigueur : 01-02-2020&gt;
+
+(2)&lt;DCFR 2025-07-16/09, art. 7, 024; En vigueur : 01-10-2025&gt;
+
+#### Art. 9
+
+§ 1. Nul ne peut être nommé ou engagé à titre définitif à la fonction de maître de formation pratique, de maître-assistant ou de chargé de cours, s'il ne peut faire la preuve d'une expérience utile de l'enseignement d'au moins six ans.
+
+Les trois dernières années doivent avoir été prestées dans une des fonctions visées à l'article 5 du décret du 25 juillet 1996 au sein d'une haute école relevant du pouvoir organisateur auprès duquel intervient la nomination ou l'engagement à titre définitif.
+
+Pour le calcul des trois ans ou des six ans visés à l'alinéa 1, les services rendus dans une fonction à prestations incomplètes sont pris en considération au même titre que les services rendus dans une fonction à prestations complètes.
+
+§ 2. (Le membre du personnel visé au § 1, alinéa 1, à l'exception des maîtres assistants chargés de la gestion administrative et juridique et des maîtres assistants chargés de la gestion financière et comptable, doit être porteur du certificat d'aptitude pédagogique approprié à l'enseignement supérieur [<sup>1</sup> ou porteur du grade académique de master de spécialisation en formation d'enseignants tel que visé par les articles 48 et 51 du décret du 7 février 2019 ]<sup>1</sup>, défini par le décret du 17 juillet 2002. ) &lt;DCFR 2002-07-17/40, art. 18, 008; En vigueur : 01-09-2002&gt;
+
+----------
+
+(1)&lt;DCFR 2025-07-16/09, art. 8, 024; En vigueur : 01-10-2025&gt;
+
+## CHAPITRE VI. - Dérogations.
+
+#### Art. 10
+
+§ 1. En cas de pénurie, dûment constatée [<sup>1</sup> ...]<sup>1</sup>, de candidats en possession des titres visés au présent décret, dérogation accordée à titre individuel aux conditions de titres requis peut être accordée par le Gouvernement, sur avis conforme et motivé du [<sup>1</sup> Pouvoir organisateur]<sup>1</sup>. Le [<sup>1</sup> Pouvoir organisateur]<sup>1</sup> statue sur base de dossiers à introduire par les candidats. Ces dossiers comprennent notamment les documents relatifs aux titres et mérites, à l'expérience utile du métier et de l'enseignement, les mentions des publications scientifiques ainsi que les justifications d'expériences professionnelles diverses. [<sup>1</sup> Le Pouvoir organisateur a l'obligation d'attester l'absence de candidat titre requis à l'appui de la désignation ou de l'engagement par la production d'une attestation fournie par les services régionaux de l'emploi]<sup>1</sup>. Si la dérogation n'est pas accordée, le pouvoir organisateur mettra fin immédiatement aux fonctions du ou de la temporaire.
+
+Par dérogation à l'article 10, alinéa 1, du décret du 25 juillet 1996, la reconduction de la désignation ou de l'engagement à durée déterminée n'est pas limitée à une année académique, pour autant que la pénurie soit constatée conformément à l'alinéa 1 au début de chaque année académique.
+
+Ces dérogations ne peuvent donner lieu à une désignation ou un engagement à titre temporaire pour une durée indéterminée ni à une nomination ou un engagement à titre définitif.
+
+§ 2. Outre les mentions prescrites par les articles 30, alinéa 1, 133, alinéa 2, et 215, alinéa 1, du décret du 24 juillet 1997 précité, tout acte de désignation ou d'engagement établi en vertu du paragraphe 1 comporte un rappel de la règle énoncée à l'alinéa 3 du même paragraphe.
+
+----------
+
+(1)&lt;DCFR 2022-01-27/25, art. 5, 020; En vigueur : 14-09-2021&gt;
+
+## CHAPITRE VII. - Dispositions modificatives, abrogatoires, transitoires et finales.
+
+### Section I. - Dispositions modificatives.
+
+#### Art. 11
+
+Dans l'article 4quater, alinéa 1, 3°, de l'arrêté de l'Exécutif de la Communauté française du 22 avril 1969 inséré par l'arrêté du Gouvernement de la Communauté française du 30 août 1996, les mots " ou au décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française " sont insérés entre les mots " déterminer à quel(s) titre(s), tel(s) que déterminé(s) au chapitre II du présent arrêté " et les mots " , ils correspondent ".
+
+#### Art. 12
+
+L'article 9, alinéa 2, du décret du 25 juillet 1996 est remplacé par la disposition suivante :
+
+" La publication prévue à l'article 8 comporte les caractéristiques de l'emploi concerné : la fonction, telle que mentionnée à l'article 5 et la charge telle que prévue à l'article 7, § 1, alinéa 3, sont détaillées avec précision ainsi que, pour les fonctions de rang 1, les cours à conférer tels que visés aux annexes 1, 2 et 3 du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 13
+
+L'article 12, § 1, 3°, du même décret est remplacé par la disposition suivante :
+
+" 3° être porteur d'un des titres requis visés au décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 14
+
+L'article 12, § 1, 8°, du même décret est remplacé par la disposition suivante :
+
+" 8° satisfaire à la condition d'expérience utile de l'enseignement visée à l'article 9, § 1, du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 15
+
+L'article 2, 24°, du décret du 24 juillet 1997 est remplacé par la disposition suivante :
+
+" 24° Extension de charge : Pour les fonctions de rang 1, la procédure selon laquelle le pouvoir organisateur étend la charge d'un membre du personnel nommé ou engagé à titre définitif ou d'un membre du personnel désigné à titre temporaire pour une durée indéterminée, dans la même fonction et les mêmes cours à conférer ou dans la même fonction et d'autres cours à conférer et à concurrence d'une charge complète maximum, respectivement à titre définitif ou à titre de temporaire pour une durée indéterminée, dans le respect de l'article 31 du décret du 9 septembre 1996.
+
+Pour les fonctions de rang 2, la procédure selon laquelle le pouvoir organisateur étend à titre définitif la charge d'un membre du personnel dans la même fonction, à concurrence d'une charge complète maximum. "
+
+#### Art. 16
+
+L'article 2, 26° du même décret est remplacé par la disposition suivante :
+
+" 26° Cours à conférer : Les cours auxquels le pouvoir organisateur souhaite pourvoir dans le respect du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 17
+
+Un article 20bis, rédigé comme suit, est inséré dans le même décret :
+
+" Article 20bis. Le Conseil d'administration détermine le cours dont, selon la législation relative aux titres des membres du personnel enseignant des hautes écoles, relève chaque élément du programme des études organisées dans la haute école concernée. "
+
+#### Art. 18
+
+Dans l'article 24, § 2, alinéa 2, du même décret, les mots " les titres de capacité " sont remplacés par les mots " les titres requis ".
+
+#### Art. 19
+
+L'article 28, 1°, du même décret est remplacé par la disposition suivante :
+
+" 1° la fonction et la charge visée à l'article 7, § 1, du décret du 25 juillet 1996. "
+
+#### Art. 20
+
+Dans l'article 29, § 2, alinéa 2, du même décret, les mots " selon les cours à conférer " sont remplacés par les mots : " selon la charge visée à l'article 28, 1° ".
+
+#### Art. 21
+
+Dans le titre II, chapitre II, du même décret, l'intitulé de la section III est remplacé par l'intitulé suivant :
+
+" Section III : De la nomination à titre définitif, de la disponibilité par défaut d'emploi, de la perte partielle de charge, de la mutation et de l'extension de charge. "
+
+#### Art. 22
+
+A l'article 35 du même décret, dont l'alinéa 1 actuel devient le paragraphe 1 et l'alinéa 2 actuel devient le paragraphe 2, le paragraphe 2 est complété par l'alinéa suivant :
+
+" Lorsqu'un membre du personnel en perte partielle de charge pose sa candidature pour un emploi vacant de la fonction à laquelle il a été nommé à titre définitif, mais pour d'autres cours à conférer pour lesquels il possède un titre requis ou bien pour lesquels il a obtenu une notoriété professionnelle ou scientifique et que l'emploi visé à l'article 22 lui est attribué, le membre du personnel devient immédiatement titulaire de ces cours à conférer à titre définitif. "
+
+#### Art. 23
+
+Dans le titre II, chapitre II, section III, du même décret est insérée une sous-section IV comprenant un article 40bis, rédigés comme suit :
+
+" Sous-section IV : De l'extension de charge.
+
+Article 40bis. Dans le respect de l'article 31 du décret du 9 septembre 1996, lorsque l'emploi visé à l'article 22 est attribué par extension de charge dans la même fonction et les mêmes cours à conférer, ou bien dans la même fonction et d'autres cours à conférer pour lesquels le membre du personnel possède un titre requis, cette extension de charge se fait, selon le cas, immédiatement à titre définitif ou au titre de temporaire à durée indéterminée. "
+
+#### Art. 24
+
+L'article 91 du même décret est complété par la disposition suivante :
+
+" 15° lorsqu'à l'issue de la sixième année académique qui suit la date de sa première désignation dans la fonction et les cours à conférer, le membre du personnel n'est pas titulaire d'un des titres pédagogiques visés à l'article 9, § 2, du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 25
+
+L'article 95 du même décret est complété par la disposition suivante :
+
+" 14° lorsqu'à l'issue de la sixième année académique qui suit la date de sa première désignation dans la fonction et les cours à conférer, le membre du personnel n'est pas titulaire d'un des titres pédagogiques visés à l'article 9, § 2, du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 26
+
+Un article 124bis, rédigé comme suit, est inséré dans le titre III, chapitre III, du même décret :
+
+" Article 124bis. Le pouvoir organisateur détermine le cours dont, selon la législation relative aux titres des membres du personnel enseignant des hautes écoles, relève chaque élément du programme des études qu'il organise. "
+
+#### Art. 27
+
+L'article 131, 1°, du même décret est remplacé par la disposition suivante :
+
+" 1° la fonction et la charge visée à l'article 7, § 1, du décret du 25 juillet 1996; "
+
+#### Art. 28
+
+Dans le titre III, chapitre III, du même décret, l'intitulé de la section III est remplacé par l'intitulé suivant :
+
+" Section III : De l'engagement à titre définitif, de la disponibilité par défaut d'emploi, de la perte partielle de charge, de la mutation et de l'extension de charge. "
+
+#### Art. 29
+
+A l'article 138 du même décret, dont l'alinéa 1 actuel devient le paragraphe 1 et l'alinéa 2 actuel devient le paragraphe 2, le paragraphe 2 est complété par l'alinéa suivant :
+
+" Lorsqu'un membre du personnel en perte partielle de charge pose sa candidature pour un emploi vacant de la fonction à laquelle il a été engagé à titre définitif, mais pour d'autres cours à conférer pour lesquels il possède un titre requis ou bien pour lesquels il a obtenu une notoriété professionnelle ou scientifique et que l'emploi visé à l'article 125 lui est attribué, le membre du personnel devient immédiatement titulaire de ces cours à conférer à titre définitif. "
+
+#### Art. 30
+
+Dans le titre III, chapitre III, section III, du même décret, est insérée une sous-section IV comprenant un article 143bis, rédigés comme suit :
+
+" Sous-section IV : De l'extension de charge.
+
+Article 143bis. Dans le respect de l'article 31 du décret du 9 septembre 1996, lorsque l'emploi visé à l'article 125 est attribué par extension de charge dans la même fonction et les mêmes cours à conférer, ou bien dans la même fonction et d'autres cours à conférer pour lesquels le membre du personnel possède un titre requis, cette extension de charge se fait, selon le cas, immédiatement à titre définitif ou au titre de temporaire à durée indéterminée. "
+
+#### Art. 31
+
+L'article 185 du même décret est complété par la disposition suivante :
+
+" 15° lorsqu'à l'issue de la sixième année académique qui suit la date de son premier engagement dans la fonction et les cours à conférer, le membre du personnel n'est pas titulaire d'un des titres pédagogiques visés à l'article 9, § 2, du décret du 8 février 1999 relatif aux fonctions et titres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 32
+
+L'article 189 du même décret est complété par la disposition suivante :
+
+" 14° lorsqu'à l'issue de la sixième année académique qui suit la date de son premier engagement dans la fonction et les cours à conférer, le membre du personnel n'est pas titulaire d'un des titres pédagogiques visés à l'article 9, § 2, du décret du 8 février 1999 relatif aux fonctions et titres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 33
+
+Un article 206bis, rédigé comme suit, est inséré dans le titre IV, chapitre II, du même décret :
+
+" Article 206bis. Le pouvoir organisateur détermine le cours dont, selon la législation relative aux titres des membres du personnel enseignant des hautes écoles, relève chaque élément du programme des études qu'il organise. "
+
+#### Art. 34
+
+L'article 213, 1°, du même décret est remplacé par la disposition suivante :
+
+" 1° la fonction et la charge visée à l'article 7, § 1, du décret du 25 juillet 1996. "
+
+#### Art. 35
+
+Dans le titre IV, chapitre Il, du même décret, l'intitulé de la section III est remplacé par l'intitulé suivant :
+
+" Section III : De la nomination à titre définitif, de la disponibilité par défaut d'emploi, de la perte partielle de charge, de la mutation et de l'extension de charge. "
+
+#### Art. 36
+
+A l'article 220 du même décret, dont l'alinéa 1 actuel devient le paragraphe 1 et l'alinéa 2 actuel devient le paragraphe 2, le paragraphe 2 est complété par l'alinéa suivant :
+
+" Lorsqu'un membre du personnel en perte partielle de charge pose sa candidature à un emploi vacant de la fonction à laquelle il a été nommé à titre définitif, mais pour d'autres cours à conférer pour lesquels il possède un titre requis ou bien pour lesquels il a obtenu une notoriété professionnelle ou scientifique et que l'emploi visé à l'article 207 lui est attribué, le membre du personnel devient immédiatement titulaire de ces cours à conférer à titre définitif. "
+
+#### Art. 37
+
+Dans le titre IV, chapitre II, section III, du même décret, est insérée une sous-section IV, comprenant un article 224bis, rédigés comme suit :
+
+" Sous-section IV : De l'extension de charge.
+
+Article 224bis. Dans le respect de l'article 31 du décret du 9 septembre 1996, lorsque l'emploi visé à l'article 207 est attribué par extension de charge dans la même fonction et les mêmes cours à conférer, ou bien dans la même fonction et d'autres cours à conférer pour lesquels le membre du personnel possède un titre requis, cette extension de charge se fait, selon le cas, immédiatement à titre définitif ou au titre de temporaire à durée indéterminée. "
+
+#### Art. 38
+
+L'article 264 du même décret est complété par la disposition suivante :
+
+" 15° lorsqu'à l'issue de la sixième année académique qui suit la date de sa première désignation dans la fonction et les cours à conférer, le membre du personnel n'est pas titulaire d'un des titres pédagogiques visés à l'article 9, § 2, du décret du 8 février 1999 relatif aux fonctions et titres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 39
+
+L'article 268 du même décret est complété par la disposition suivante :
+
+" 14° lorsqu'à l'issue de la sixième année académique qui suit la date de sa première désignation dans la fonction et les cours à conférer, le membre du personnel n'est pas titulaire d'un des titres pédagogiques visés à l'article 9, § 2, du décret du 8 février 1999 relatif aux fonctions et titres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française "
+
+#### Art. 40
+
+L'article 7 du décret du 30 juin 1998 portant création de l'enseignement supérieur de type long en kinésithérapie au sein des hautes écoles organisées ou subventionnées par la Communauté française est remplacé par la disposition suivante :
+
+" Art. 7. § 1. Par dérogation à l'article 10 de la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur, les maîtres-assistants et les maîtres de formation pratique qui ne sont pas titulaires d'un diplôme visé à l'article 10, §§ 2 et 3, de cette loi et qui sont engagés avant la date du 1er octobre 1998 dans l'enseignement conduisant dans l'enseignement supérieur paramédical de plein exercice au diplôme de gradué en kinésithérapie sont réputés à titre personnel et pour l'application du seul article 10 de la loi du 7 juillet 1970 précité posséder les titres de capacité pour exercer dans l'enseignement supérieur de type long.
+
+La situation statutaire et pécuniaire des membres du personnel visés à l'alinéa 1 n'est pas modifiée.
+
+Le présent paragraphe est applicable pendant l'année académique 1998-1999.
+
+§ 2. Jusqu'au 14 septembre 2001, le pouvoir organisateur conformément aux dispositions en vigueur, peut désigner ou engager à titre temporaire des membres du personnel porteurs du titre de gradué en kinésithérapie délivré par une haute école organisée ou subventionnée par la Communauté française ou par un jury institué par le Gouvernement de la Communauté française, conformément à l'article 43 du décret du 5 août 1995 fixant l'organisation générale de l'enseignement supérieur en hautes écoles dans la fonction de maître de formation pratique pour les cours à conférer " kinésithérapie. "
+
+### Section II. - Dispositions abrogatoires.
+
+#### Art. 41
+
+Sont inapplicables aux membres du personnel [<sup>1</sup> visés]<sup>1</sup> au présent décret :
+
+1° l'article 10, §§ 1 à 8, de la loi du 7 juillet 1970;
+
+2° l'article 17, § 4, de la loi du 7 juillet 1970;
+
+3° les articles 10, 11 et 12 de l'arrêté de l'Exécutif de la Communauté française du 22 avril 1969;
+
+4° l'arrêté ministériel du 30 avril 1969 déterminant les cours généraux, cours spéciaux, cours techniques et de pratique professionnelle dans les écoles normales gardiennes dont la langue de l'enseignement est la langue française ou la langue allemande;
+
+5° l'arrêté ministériel du 30 avril 1969 déterminant les cours généraux, cours spéciaux, cours techniques et de pratique professionnelle dans les écoles normales primaires dont la langue de l'enseignement est la langue française ou la langue allemande;
+
+6° l'arrêté ministériel du 30 avril 1969 déterminant les cours généraux et les cours spéciaux dans les écoles normales moyennes dont la langue de l'enseignement est la langue française ou la langue allemande.
+
+----------
+
+(1)&lt;DCFR 2022-01-27/25, art. 6, 020; En vigueur : 14-09-2021&gt;
+
+#### Art. 42
+
+Sont abrogés :
+
+1° l'arrêté ministériel du 30 avril 1969 précisant la spécificité des titres requis pour la fonction de maître-assistant (cours généraux) dans les écoles normales gardiennes dont la langue de l'enseignement est la langue française;
+
+2° l'arrêté ministériel du 30 avril 1969 précisant la spécificité des titres requis pour la fonction de maître-assistant dans les écoles normales primaires dont la langue de l'enseignement est la langue française;
+
+3° les articles 3, alinéas 2 et 3, 4, 34, 38, alinéa 1, 39, 40 et 48 du décret du 25 juillet 1996;
+
+4° les articles 298, 315 et 320, 1° et 2°, du décret du 24 juillet 1997.
+
+#### Art. 43
+
+Dans l'annexe 1 au présent décret, la mention " kinésithérapie : le diplôme de gradué en kinésithérapie " est abrogée.
+
+### Section III. - (Dispositions dérogatoires transitoires). &lt;DCFR 2004-03-03/44, art. 17, 010; En vigueur : 01-09-2003&gt;
+
+#### Art. 44
+
+Pour l'application du présent décret, les titres universitaires conférés conformément aux dispositions en vigueur avant l'application du décret du 5 septembre 1994, sont assimilés aux grades académiques fixés à l'article 6, §§ 1, 2 et 6, de ce décret.
+
+Pour l'application du présent décret, les titres de capacité conférés conformément aux dispositions en vigueur avant l'application du décret du 5 août 1995, sont assimilés aux titres conférés dans l'enseignement supérieur non universitaire conformément au chapitre III de ce décret.
+
+#### Art. 45
+
+§ 1. Les membres du personnel qui, avant l'entrée en vigueur du présent décret, ont été désignés ou engagés à titre temporaire pour une période indéterminée ainsi que les membres du personnel qui ont été nommés ou engagés à titre définitif avant la même date sont réputés avoir été, selon le cas, désignés ou engagés à titre temporaire pour une durée indéterminée, ou nommés ou engagés à titre définitif pour les cours visés aux annexes du présent décret qui correspondent aux prestations qu'ils ont effectuées.
+
+Les membres du personnel visés à l'alinéa 1 conservent le bénéfice de l'échelle barémique qui leur était applicable avant l'entrée en vigueur du présent décret.
+
+§ 2. Les membres du personnel qui, avant l'entrée en vigueur du présent décret, ont été désignés ou engagés à titre temporaire pour une durée déterminée sont réputés avoir été engagés à titre temporaire pour une durée déterminée pour les cours visés aux annexes du présent décret qui correspondent aux prestations qu'ils ont effectuées.
+
+Ils conservent le bénéfice de l'échelle barémique qui leur était applicable avant l'entrée en vigueur du présent décret.
+
+#### Art. 46
+
+Les membres du personnel désignés ou engagés à titre temporaire avant l'entrée en vigueur du présent décret alors qu'une spécificité des titres requis n'a pas été définie en application de la loi du 7 juillet 1970, peuvent être nommés ou engagés à titre définitif en dérogation des dispositions du chapitre IV du présent décret, en entendant par fonction pour laquelle le membre du personnel possède le titre requis, la spécificité qu'il a enseignée dans l'enseignement supérieur non universitaire pendant au moins 240 jours répartis sur deux années académiques au moins. (Cette mesure s'applique également aux membres du personnel qui ont acquis au cours de l'année académique 1998-1999 les titres requis selon l'ancienne réglementation.) &lt;DCFR 2004-03-03/44, art. 16, 010; En vigueur : 01-09-2003&gt;
+
+Par dérogation à l'article 9, § 2, alinéa 1, les membres du personnel désignés ou engagés à titre temporaire pour une durée indéterminée avant l'entrée en vigueur du présent décret, sont dispensés de la condition de possession d'un titre pédagogique pour être nommés ou engagés à titre définitif à une fonction de maître de formation pratique, maître-assistant ou chargé de cours.
+
+(Par dérogation à l'article 9, § 2, les maîtres de formation pratique, les maîtres assistants et les chargés de cours en fonction dans une haute école comme temporaires entre le 1er février 1999 et le 1er septembre 2002 sont réputés satisfaire aux conditions de titres requis pour être nommés ou engagés à titre définitif s'ils sont porteurs d'un des titres pédagogiques suivants : le diplôme d'instituteur(trice) préscolaire, le diplôme d'instituteur(trice) primaire, l'agrégation de l'enseignement secondaire inférieur, l'agrégation de l'enseignement secondaire supérieur, l'agrégation de l'enseignement supérieur, le certificat d'aptitude pédagogique, le certificat d'aptitudes pédagogiques, le certificat de cours normaux techniques moyens ou le diplôme d'aptitudes pédagogiques.) &lt;DCFR 2002-07-17/40, art. 19, 008; En vigueur : 01-09-2002&gt;
+
+(Par dérogation à l'article 8, alinéa 1er, une expérience utile du métier d'au moins un an est exigée pour les membres du personnel temporaire ayant fonctionné dans les hautes écoles avant l'entrée en vigueur du présent décret.) &lt;DCFR 1999-05-31/40, art. 25, 003; En vigueur : 01-02-1999&gt;
+
+(Par dérogation à l'article 8, alinéa 1er, aucune expérience utile du métier n'est exigée pour les membres du personnel temporaire ayant fonctionné dans des cours de bureautique, de coupe-couture ou d'économie domestique dans les Hautes Ecoles, avant l'entrée en vigueur du présent décret (, ainsi que les bibliothécaires de la catégorie du personnel auxiliaire d'éducation entrés en fonction avant la constitution des Hautes Ecoles).) &lt;DCFR 2000-07-20/45, art. 9, 004; En vigueur : 01-09-2000&gt; &lt;DCFR 2004-03-03/44, art. 16, 010; En vigueur : 01-09-2003&gt;
+
+(Les membres du personnel qui ont été désignés ou engagés à titre temporaire pour une durée indéterminée en dérogation des titres requis dans le respect des dispositions de l'article 313 du décret du 24 juillet 1997, peuvent accéder à une nomination ou à un engagement à titre définitif par dérogation à l'article 12, 3°, du décret du 25 juillet 1996.) &lt;DCFR 1999-05-31/40, art. 26, 003; En vigueur : 01-02-1999&gt;
+
+(Par dérogation à l'article 4, § 1er, alinéa 2 et à l'article 6, les membres du personnel en fonction avant le 1er février 1999, dont les cours de sténo-dactylographie, d'hôtellerie ou d'audiologie, cours pour lesquels il n'existe pas de cursus universitaires, étaient classés " cours techniques " selon l'ancienne législation, gardent à titre personnel leur droit à la nomination ou à la désignation à titre définitif comme maître-assistant sans précision de cours à conférer ou à une extension de leur nomination ou de leur désignation à titre définitif.) &lt;DCFR 2004-03-03/44, art. 16, 010; En vigueur : 01-09-2003&gt;
+
+#### Art. 47
+
+Les membres du personnel nommés à titre définitif après avoir fait l'objet d'une désignation à titre temporaire en application de l'article 20 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, de promotion sociale et artistique de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, les membres du personnel nommés ou engagés à titre définitif en application de l'article 17bis de la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur, ainsi que les membres du personnel nommés ou engagés à titre définitif en application de l'article 315 du décret du 24 juillet 1997 fixant le statut des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation des hautes écoles organisées ou subventionnées par la Communauté française, sont réputés satisfaire aux conditions de titres telles que fixées par le présent décret pour obtenir une extension de charge.
+
+#### Art. 48
+
+[<sup>1</sup> § 1er.] Par dérogation aux dispositions du présent décret et notamment à ses annexes 1 et 2, les membres du personnel visés à l'article 7 du décret du 30 juin 1998 portant création de l'enseignement supérieur de type long en kinésithérapie au sein des hautes écoles organisées ou subventionnées par la Communauté française, qui sont maîtres de formation pratique, conservent cette fonction à titre personnel.
+
+[<sup>1</sup> § 2. Les membres du personnel désignés ou engagés à titre temporaire conformément, selon le cas, aux dispositions de l'article 5 ou de l'article 6 et dans le respect des intitulés de cours à conférer et des titres fixés antérieurement, sont réputés répondre aux conditions de titres, tels que visés, selon le cas, aux annexes 1 ou 2 du présent décret.
+
+Les membres du personnel visés à l'alinéa 1er sont réputés remplir les conditions de titres fixées antérieurement à l'annexe 2 du présent décret, lorsque les jurys prévus dans cette même annexe n'étaient pas organisés.
+
+§ 3. Les membres du personnel nommés ou engagés à titre définitif conformément aux conditions de titres telles qu'elles étaient fixées antérieurement, sont réputés répondre aux conditions de titres, tels que visés, selon le cas, aux annexes 1 ou 2 du présent décret.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Par dérogation aux dispositions de l'article 4, § 1er, les docteurs en médecine, docteurs en médecine vétérinaire, pharmaciens, ingénieurs ou agrégés de l'enseignement supérieur engagés à temps partiel dans une fonction de professeur ou chargé de cours avant le 15 septembre 2009 peuvent prétendre à une désignation à temps plein dans la fonction qu'ils occupent. Les docteurs en médecine, docteurs en médecine vétérinaire, pharmaciens, ingénieurs ou agrégés de l'enseignement supérieur nommés ou engagés à titre définitif avant le 15 septembre 2009 dans une fonction de maître-assistant peuvent prétendre à une désignation dans une fonction de chargé de cours.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2009-02-19/61, art. 48, 014; En vigueur : 15-09-2009&gt;
+
+(2)&lt;DCFR 2012-03-23/05, art. 8, 015; En vigueur : 15-09-2011&gt;
+
+#### Art. 48bis
+
+[<sup>1</sup> Lorsque le membre du personnel enseignant est désigné ou engagé à titre temporaire à durée déterminée ou indéterminée à la fonction de maître de formation pratique, de maître-assistant ou de chargé de cours dans un " autre cours à conférer " et qu'un cours à conférer à l'intitulé similaire et aux titres requis correspondant est créé, il devient immédiatement titulaire de ce cours à conférer à titre temporaire à durée déterminée ou indéterminée.
+
+Le membre du personnel conserve le bénéfice de l'entièreté des droits acquis dans son ancien cours à conférer, dont l'ancienneté de service et l'ancienneté pécuniaire.
+
+Lorsque le membre du personnel enseignant a été nommé ou engagé à titre définitif à la fonction de maître de formation pratique, de maître-assistant ou de chargé de cours dans un " autre cours à conférer " avant l'année académique 2021 - 2022 et qu'un cours à conférer à l'intitulé similaire et aux titres requis correspondant est créé, il devient immédiatement titulaire de ce cours à conférer à titre définitif.
+
+La reconnaissance de notoriété professionnelle ou scientifique qui aurait été accordée à ce membre du personnel enseignant est réputée avoir été conférée pour la nouvelle catégorie de " cours à conférer " dont il est devenu titulaire à titre définitif en application de l'alinéa précédent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-01-27/25, art. 7, 020; En vigueur : 14-09-2021&gt;
+
+#### Art. 48ter
+
+[<sup>1</sup> Le membre du personnel désigné ou engagé à titre temporaire ou nommé ou engagé à titre définitif avant l'année académique 2025-2026, dans une mission ou une activité de technopédagogue, est réputé répondre aux conditions de titres pour le cours à conférer " Technopédagogie ", telles que visées à l'annexe 2 du présent décret.
+
+Le membre du personnel concerné conserve le bénéfice de l'entièreté des droits acquis dans son ancien cours à conférer, dont l'ancienneté de service et l'ancienneté pécuniaire.
+
+La reconnaissance de notoriété professionnelle ou scientifique accordée à ce membre du personnel enseignant est réputée conférée pour le cours à conférer " Technopédagogie " dont il est devenu titulaire en application du premier alinéa. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2025-07-16/09, art. 9, 024; En vigueur : 01-10-2025&gt;
+
+### Section IV. - Dispositions finales.
+
+#### Art. 49
+
+Le Gouvernement peut coordonner les dispositions législatives, décrétales et réglementaires relatives à l'enseignement supérieur organisé au sein des hautes écoles ainsi que les dispositions qui les auraient expressément ou implicitement modifiées au moment où cette coordination sera établie.
+
+A cette fin, il peut :
+
+1° modifier l'ordre, le numérotage et, en général, la présentation des dispositions à coordonner, sous d'autres divisions;
+
+2° modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec le numérotage nouveau;
+
+3° modifier la rédaction des dispositions à coordonner, en vue d'assurer leur concordance et d'en unifier la terminologie, sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+La coordination portera l'intitulé suivant :
+
+" Décret relatif à l'enseignement supérieur organisé au sein des hautes écoles coordonné le... "
+
+#### Art. 50
+
+Le présent décret entre en vigueur le 1er février 1999 à l'exception de l'article 3, § 2, 1°, dont le Gouvernement fixe la date d'entrée en vigueur et à l'exception de l'article 43 qui entre en vigueur le 15 septembre 2001.
+
+### Annexes.
+
+#### Art. N1
+
+[<sup>1</sup> Annexe 1. - Liste des titres requis pour les cours à conférer requérant un grade de bachelier "
+
+<table><tr><td>Cours à conférer </td><td>Titres requis </td></tr><tr><td>Ateliers de formation professionnelle </td><td>Un titre requis tel que fixé par le gouvernement en application des articles 7, 16 et 263 du décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française </td></tr><tr><td>Pratique en bureautique </td><td>a. le diplôme de Bachelier - AESI, orientation sciences économiques et sciences économiques appliquées, ou<br>   b. le diplôme de Bachelier : assistant de direction<br>   c. le diplôme de Bachelier - AESI complété par le diplôme permettant d'enseigner en secrétariat-bureautique dans l'enseignement secondaire et en bureautique dans l'enseignement supérieur de type court délivré par le jury institué par le Gouvernement, ou<br>   d. le diplôme de Bachelier : Instituteur(trice) primaire complété par le diplôme susvisé, ou<br>   e. le diplôme de cours techniques supérieurs du premier degré (Secrétariat ou commerce), complété par le diplôme susvisé. </td></tr><tr><td>Coupe et couture </td><td>a. le diplôme de Bachelier - AESI, orientation habillement, ou<br>   b. le diplôme de Bachelier en textile, orientation technique de mode </td></tr><tr><td>Pratique en diététique </td><td>le diplôme de Bachelier en diététique </td></tr><tr><td>Economie domestique </td><td>le diplôme de Bachelier - AESI, orientation économie familiale et sociale </td></tr><tr><td>Pratique de l'accompagnement psycho-éducatif </td><td>a. le diplôme de Bachelier : Educateur(trice) spécialisé(e) en accompagnement psycho-éducatif, ou<br>   b. le diplôme de Bachelier : Assistant en psychologie </td></tr><tr><td>Pratique des activités socio sportives </td><td>le diplôme de Bachelier : Educateur(trice) spécialisé(e) en activités socio sportives </td></tr><tr><td>Pratique en art, culture et techniques artistiques </td><td>a. un diplôme de Bachelier de l'enseignement supérieur artistique de type court, ou<br>   b. un diplôme de Bachelier de la catégorie arts appliqués, ou<br>   c. un diplôme de Bachelier-Agrégé(e) de l'enseignement secondaire inférieur dans l'orientation Arts plastiques </td></tr><tr><td>Pratique en art, culture et techniques artistiques dans une spécificité à préciser </td><td>Un ou des titre(s) en relation avec la spécificité visée que la Haute Ecole choisit parmi la liste ci-dessous<br>   a. un diplôme de Bachelier de l'enseignement supérieur artistique de type court, ou<br>   b. un diplôme de Bachelier de la catégorie arts appliqués, ou<br>   c. le diplôme de Bachelier en techniques graphiques, toutes orientations, ou<br>   d. le diplôme de Bachelier en techniques de l'image, toutes orientations </td></tr><tr><td>Pratique en audiologie </td><td>a. le diplôme de Bachelier en audiologie, ou<br>   b. le diplôme de Bachelier en logopédie </td></tr><tr><td>Pratique en bandagisterie, orthésiologie, prothésiologie </td><td>le diplôme de Bachelier en bandagisterie - orthésiologie - prothésiologie </td></tr><tr><td>Pratique en communication et écriture multimédia </td><td>a. le diplôme de Bachelier en communication, ou<br>   b. le diplôme de Bachelier en techniques de l'image, toutes orientations, ou<br>   c. le diplôme de Bachelier en techniques graphiques, toutes orientations, ou<br>   d. le diplôme de Bachelier en écritures multimédia, ou<br>   e. le diplôme de Bachelier en relations publiques </td></tr><tr><td>Pratique en ergothérapie </td><td>le diplôme de Bachelier en ergothérapie </td></tr><tr><td>Pratique en gestion des ressources humaines </td><td>a. le diplôme de Bachelier en gestion des ressources humaines, ou<br>   b. le diplôme de Bachelier : Conseiller social </td></tr><tr><td>Pratique en gestion hôtelière </td><td>le diplôme de Bachelier en gestion hôtelière </td></tr><tr><td>Pratique en logopédie </td><td>le diplôme de Bachelier en logopédie </td></tr><tr><td>Pratique en obstétrique </td><td>le diplôme de Bachelier : Sage-femme </td></tr><tr><td>Pratique en podologie - podothérapie </td><td>le diplôme de Bachelier en podologie - podothérapie </td></tr><tr><td>Pratique en psychologie </td><td>le diplôme de Bachelier : Assistant(e) en psychologie </td></tr><tr><td>Pratique en psychomotricité </td><td>a. le diplôme de Bachelier en psychomotricité, ou<br>   b. un diplôme de Bachelier complété par la spécialisation en psychomotricité </td></tr><tr><td>Pratique en service social </td><td>a. le diplôme de bachelier : Assistant(e) social(e), ou<br>   b. le diplôme de bachelier : Conseiller(e) social(e) </td></tr><tr><td>Pratique en soins infirmiers </td><td>le diplôme de Bachelier : infirmier responsable de soins généraux </td></tr><tr><td>Pratique en technologie en imagerie médicale </td><td>le diplôme de Bachelier : Technologue en imagerie médicale </td></tr><tr><td>Pratique en tourisme </td><td>le diplôme de Bachelier en Management du tourisme et des loisirs </td></tr><tr><td>Travaux pratiques en architecture des jardins et du paysage </td><td>le diplôme de Bachelier en architecture des jardins et du paysage </td></tr><tr><td>Travaux pratiques en bibliothéconomie </td><td>a. le diplôme de Bachelier : Bibliothécaire - Documentaliste, ou<br>   b. un diplôme de Bachelier complété par le certificat d'aptitude à tenir une bibliothèque publique, ou<br>   c. un diplôme de Bachelier complété par le brevet à tenir une bibliothèque publique </td></tr><tr><td>Travaux pratiques en chimie </td><td>le diplôme de Bachelier en chimie, toutes orientations </td></tr><tr><td>Travaux pratiques en construction </td><td>le diplôme de Bachelier en construction </td></tr><tr><td>Travaux pratiques en éco-packaging </td><td>le diplôme de Bachelier en éco-packaging </td></tr><tr><td>Travaux pratiques en électronique </td><td>a. le diplôme de Bachelier en électronique, toutes orientations, ou<br>   b. le diplôme de Bachelier en informatique et systèmes, toutes orientations, ou<br>   c. le diplôme de Bachelier en biotechnique </td></tr><tr><td>Travaux pratiques en informatique </td><td>a. le diplôme de Bachelier en informatique et systèmes, toutes orientations, ou<br>   b. le diplôme de Bachelier en informatique de gestion, ou<br>   c. le diplôme de Bachelier en biotechnique </td></tr><tr><td>Travaux pratiques en mécanique, moteurs thermiques et expertise automobile </td><td>a. le diplôme de Bachelier en électromécanique, toutes orientations, ou<br>   b. le diplôme de Bachelier en automobile </td></tr><tr><td>Travaux pratiques en menuiserie </td><td>a. un titre du niveau supérieur du deuxième degré, ou<br>   b. le diplôme d'école ou de cours techniques supérieurs du premier degré </td></tr><tr><td>Travaux pratiques en techniques graphiques et infographiques </td><td>le diplôme de Bachelier en techniques graphiques, toutes orientations </td></tr><tr><td>Autres cours à conférer </td><td>Un titre de niveau supérieur du premier degré </td></tr><tr><td>Expertise particulière en (à préciser) </td><td>la notoriété professionnelle reconnue par le Gouvernement, en relation avec l'expertise particulière visée</td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2020-05-28/24, art. 1, 018; En vigueur : 20-06-2020&gt;
+
+Modifié par :
+
+&lt;DCFR 2025-07-16/09, art. 10, 024; En vigueur : 01-10-2025&gt;
+
+#### Art. N2
+
+[<sup>1</sup> Annexe 2. - Liste des titres requis pour les cours à conférer requérant un grade de master "
+
+<table><tr><td>Cours à conférer</td><td>Titres requis</td></tr><tr><td>Agronomie</td><td>a. le diplôme de Médecin vétérinaire, ou<br>   b. le diplôme de Master : bioingénieur en chimie et bioindustries, ou<br>   c. le diplôme de Master : bioingénieur en sciences et technologies de l'environnement, ou<br>   d. le diplôme de Master : bioingénieur en gestion des forêts et des espaces naturels, ou<br>   e. le diplôme de Master : bioingénieur en sciences agronomiques, ou<br>   f. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations</td></tr><tr><td>Architecture des jardins et/ou du paysage</td><td>a. le diplôme de Master en architecture, ou<br>   b. le diplôme de Master : ingénieur civil architecte, ou<br>   c. le diplôme de Master : architecte paysagiste, ou<br>   d. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations, ou<br>   e. le diplôme de Master : bioingénieur en sciences et technologies de l'environnement<br>   f. le diplôme de Master : bioingénieur en gestion des forêts et des espaces naturels<br>   g. le diplôme de Master : bioingénieur en sciences agronomiques</td></tr><tr><td>Art, culture et techniques artistiques</td><td>a. un diplôme de Master de l'enseignement supérieur artistique, ou<br>   b. un diplôme de Master en architecture, ou<br>   c. le diplôme de Master en arts du spectacle, ou<br>   d. le diplôme de Master en gestion culturelle</td></tr><tr><td>Art, culture et techniques artistiques dans une spécificité à préciser</td><td>Un ou des titre(s) en relation avec la spécificité visée que la Haute Ecole choisit parmi la liste ci-dessous :<br>   a. un diplôme de Master de l'enseignement<br>   supérieur artistique avec une option en rapport avec la spécificité visée, ou<br>   b. un diplôme de Master en architecture, ou<br>   c. le diplôme de Master en arts du spectacle, ou<br>   d. le diplôme de Master en gestion culturelle, ou<br>   e. s'il n'existe pas de titre visé aux points précédents, le diplôme de Bachelier en techniques de l'image, toutes orientations ou le diplôme de Bachelier en techniques graphiques, toutes orientations, complété par un diplôme de Master en gestion globale du numérique</td></tr><tr><td>Audiologie</td><td>a. le diplôme de Master en logopédie, ou<br>   b. le diplôme de Bachelier en audiologie complété par le Master en sciences de la santé publique</td></tr><tr><td>Bandagisterie, orthésiologie, prothésiologie</td><td>le diplôme de Bachelier en bandagisterie - orthésiologie - prothésiologie<br>   complété par le Master en sciences de la santé publique</td></tr><tr><td>Bibliothéconomie</td><td>a. un diplôme de Master complété par le certificat d'aptitude à tenir une bibliothèque publique, ou<br>   b. un diplôme de Master complété par le brevet à tenir une bibliothèque publique, ou<br>   c. un diplôme de Master complété par le diplôme de Bachelier - Bibliothécaire - Documentaliste, ou<br>   d. le diplôme de Master en sciences et technologies de l'information et de la communication</td></tr><tr><td>Biochimie</td><td>a. le diplôme de Médecin, ou<br>   b. le diplôme de Médecin vétérinaire, ou<br>   c. le diplôme de Master en sciences pharmaceutiques, ou<br>   d. le diplôme de Master : bioingénieur en chimie et bioindustries, ou<br>   e. le diplôme de Master : bioingénieur en sciences et technologies de l'environnement, ou<br>   f. le diplôme de Master : bioingénieur en gestion des forêts et des espaces naturels, ou<br>   g. le diplôme de Master : bioingénieur en sciences agronomiques, ou<br>   h. le diplôme de Master en biochimie et biologie moléculaire et cellulaire, ou<br>   i. le diplôme de Master en sciences chimiques, ou<br>   j. le diplôme de Master en sciences biomédicales, ou<br>   k. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations, ou<br>   l. le diplôme de Master en sciences de l'ingénieur industriel, orientations chimie ou biochimie, ou<br>   m. le diplôme de Master en sciences agronomiques et industries du vivant, ou<br>   n. le diplôme de Master en génie analytique, orientation biochimie</td></tr><tr><td>Biologie</td><td>a. le diplôme de Médecin, ou<br>   b. le diplôme de Médecin vétérinaire, ou<br>   c. le diplôme de Master en sciences pharmaceutiques, ou<br>   d. le diplôme de Master en sciences biologiques, ou<br>   e. le diplôme de Master en biochimie et biologie moléculaire et cellulaire, ou<br>   f. le diplôme de Master en biologie des organismes et écologie, ou<br>   g. le diplôme de Master en bioinformatique et modélisation, ou<br>   h. le diplôme de Master : bioingénieur en chimie et bioindustries, ou<br>   i. le diplôme de Master : bioingénieur en sciences et technologies de l'environnement, ou<br>   j. le diplôme de Master : bioingénieur en gestion des forêts et des espaces naturels, ou<br>   k. le diplôme de Master : bioingénieur en sciences agronomiques, ou<br>   l. le diplôme de Master en sciences agronomiques et industries du vivant, ou<br>   m. le diplôme de Master ingénieur civil biomédical, ou<br>   n. le diplôme de Master en sciences de l'ingénieur industriel, orientation biochimie, ou<br>   o. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations, ou<br>   p. le diplôme de Master en génie analytique, orientation biochimie, ou<br>   q. le diplôme de Master en sciences biomédicales</td></tr><tr><td>Chimie</td><td>a. le diplôme de Médecin, ou<br>   b. le diplôme de Médecin vétérinaire, ou<br>   c. le diplôme de Master en sciences pharmaceutiques, ou<br>   d. le diplôme de Master : ingénieur civil en chimie et sciences des matériaux, ou<br>   e. le diplôme de Master : ingénieur civil biomédical, ou<br>   f. le diplôme de Master : bioingénieur en chimie et bioindustries, ou<br>   g. le diplôme de Master en sciences chimiques, ou<br>   h. le diplôme de Master en biochimie et biologie moléculaire et cellulaire, ou<br>   i. le diplôme de Master en sciences de l'ingénieur industriel, orientations chimie, biochimie, génie énergétique durable, industrie, ou<br>   j. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations, ou<br>   k. le diplôme de Master en génie analytique, orientation biochimie</td></tr><tr><td>Communication</td><td>a. le diplôme de Master en information et communication, ou<br>   b. le diplôme de Master en linguistique, ou<br>   c. le diplôme de Master en sciences et technologies de l'information et de la communication, ou<br>   d. le diplôme de Master en communication appliquée spécialisée - Animation socioculturelle et éducation permanente, ou<br>   e. le diplôme de Master en communication appliquée spécialisée - Education aux médias, ou<br>   f. le diplôme de master en communication appliquée spécialisée - Publicité et communication commerciale, ou<br>   g. le diplôme de Master en communication appliquée spécialisée - Relations publiques, ou<br>   h. le diplôme de Master en presse et information spécialisées, ou<br>   i. le diplôme de Master en communication appliquée - Animation socioculturelle et éducation permanente, ou<br>   j. le diplôme de Master en communication appliquée - Publicité et communication commerciale, ou<br>   k. le diplôme de Master en communication appliquée - Relations publiques ou<br>   l. le diplôme de Master en presse et information, ou<br>   m. le diplôme de Master en arts du spectacle et techniques de diffusion et de communication, toutes orientations, ou<br>   n. le diplôme de Master en journalisme, ou<br>   o. le diplôme de Master en communication, ou<br>   p. le diplôme de Master en communication multilingue, ou<br>   q. le diplôme de Master en Stratégie et analyse de la communication interactive et collaborative, ou<br>   r. le diplôme de Master en gestion globale du numérique</td></tr><tr><td>Construction</td><td>a. le diplôme de Master : ingénieur civil des constructions, ou<br>   b. Le diplôme de Master : ingénieur civil des mines et géologue, ou<br>   c. le diplôme de Master : ingénieur civil architecte, ou<br>   d. le diplôme de Master en architecture, ou<br>   e. le diplôme de Master en sciences de l'ingénieur industriel, orientations construction, génie énergétique durable, géomètre, industrie, ou<br>   f. le diplôme de Master en gestion de chantier spécialisé en construction durable</td></tr><tr><td>Dessin et éducation plastique</td><td>Un diplôme de Master du domaine des arts plastiques, visuels et de l'espace en relation avec la spécificité visée par la haute école</td></tr><tr><td>[<sup><font>2</font></sup> Didactique d'une discipline</td><td>a. le diplôme de master de spécialisation en enseignement sections 1 et 2 ou le diplôme de master de spécialisation en enseignement sections 3, 4 et 5, ou b. le diplôme de master en enseignement section 4, ou c. un diplôme de master qui correspond à un des titres requis correspondant à un des cours à conférer tel que définis dans la présente annexe, ledit cours faisant partie du programme de la formation initiale directe ou différée des enseignants tel que définie dans le décret du 7 février 2019, et être titulaire du Certificat d'aptitude pédagogique approprié à l'Enseignement supérieur ou avoir entamé la formation avant 2023-2024 ou être tenu de la suivre de part une entrée en fonction avant 2023-2024, ou d. un diplôme de master qui correspond à un des titres requis correspondant à un des cours à conférer tel que définis dans la présente annexe, ledit cours faisant partie du programme de la formation initiale directe ou différée des enseignants tel que définie dans le décret du 7 février 2019, complété par le grade académique de master en enseignement section 5 défini à l'article 31 du même décret. Le titre repris en a., b. ou d., est complété par le titre de master de spécialisation en formation d'enseignants tel que défini aux articles 51 et suivants du décret du 7 février 2019 définissant la formation initiale des enseignants. Pour les titres repris aux points b. et d., une expérience de 5 ans en qualité d'enseignant dans l'enseignement obligatoire est constitutive du titre requis.]<sup><font>2</font></sup></td></tr><tr><td>Diététique</td><td>a. le diplôme de Master en sciences biomédicales, ou<br>   b. le diplôme de Bachelier en diététique complété par le diplôme de Master en sciences de la santé publique</td></tr><tr><td>Droit</td><td>a. le diplôme de Master en droit, ou<br>   b. le diplôme de Master en criminologie, ou<br>   c. le diplôme de Master en administration publique, ou<br>   d. le diplôme de Master en gestion publique, toutes orientations, ou<br>   e. le diplôme de Master en sciences administratives</td></tr><tr><td>Education physique</td><td>le diplôme de Master en sciences de la motricité, toutes orientations</td></tr><tr><td>Electricité, électronique, informatique industrielle, télécommunications</td><td>a. le diplôme de Master : ingénieur civil physicien, ou<br>   b. le diplôme de Master : ingénieur civil électricien, ou<br>   c. le diplôme de Master : ingénieur civil en informatique, ou<br>   d. le diplôme de Master : ingénieur civil électromécanicien, ou<br>   e. le diplôme de Master en sciences physiques, ou<br>   f. le diplôme de Master en sciences spatiales, ou<br>   g. le diplôme de Master en sciences de l'ingénieur industriel, orientations Aérotechnique, Automatisation, Electricité,<br>   Electromécanique, Electronique, Génie énergétique durable, Industrie, Informatique, ou<br>   h. le diplôme de Master : ingénieur civil en aérospatiale</td></tr><tr><td>Electromécanique, mécanique, énergie</td><td>a. le diplôme de Master : ingénieur civil physicien, ou<br>   b. le diplôme de Master : ingénieur civil électromécanicien, ou<br>   c. le diplôme de Master : ingénieur civil mécanicien, ou<br>   d. le diplôme de Master en sciences de l'ingénieur industriel, orientations Aérotechnique, Automatisation, Electromécanique, Génies physique et nucléaire, Génie énergétique durable, Industrie, Mécanique, ou<br>   e. le diplôme de Master en sciences physiques, ou<br>   f. le diplôme de Master : ingénieur civil en aérospatiale, ou<br>   g. le diplôme de Master : ingénieur civil en chimie et sciences des matériaux</td></tr><tr><td>[<sup><font>3</font></sup> Enseignant praticien (2)</td><td>Selon le niveau d'enseignement et les disciplines concernés, le diplôme de master en enseignement section 1, 2 ou 3 complété par le titre de master de spécialisation en formation d'enseignants tel que défini aux articles 51 et suivants du décret du 7 février 2019 définissant la formation initiale des enseignants. Une expérience de 5 ans en qualité d'enseignant dans l'enseignement obligatoire à un niveau correspondant à celui auquel se préparent les futurs enseignants qu'ils encadrent est constitutive du titre requis.]<sup><font>3</font></sup></td></tr><tr><td>Ergothérapie</td><td>a. le diplôme de Bachelier en ergothérapie complété par le diplôme de Master en sciences de la santé publique, ou<br>   b. le diplôme de Bachelier en ergothérapie complété par le diplôme de Master en sciences du travail</td></tr><tr><td>Géographie</td><td>a. le diplôme de Master en sciences géographiques, toutes orientations, ou<br>   b. le diplôme de Master en sciences géologiques</td></tr><tr><td>Histoire</td><td>le diplôme de Master en histoire</td></tr><tr><td>Histoire de l'art</td><td>le diplôme de Master en histoire de l'art et archéologie, toutes orientations</td></tr><tr><td>Informatique de gestion</td><td>a. le diplôme de Master en sciences informatiques, ou<br>   b. le diplôme de Master en sciences et technologies de l'information et de la communication, ou<br>   c. le diplôme de Master : ingénieur civil biomédical, ou<br>   d. le diplôme de Master : ingénieur civil des constructions, ou<br>   e. le diplôme de Master : ingénieur civil des mines et géologue, ou<br>   f. le diplôme de Master : ingénieur civil électricien, ou<br>   g. le diplôme de Master : ingénieur civil électromécanicien, ou<br>   h. le diplôme de Master : ingénieur civil en aérospatiale, ou<br>   i. le diplôme de Master : ingénieur civil en chimie et science des matériaux, ou<br>   j. le diplôme de Master : ingénieur civil en informatique, ou<br>   k. le diplôme de Master : ingénieur civil en informatique et gestion, ou<br>   l. le diplôme de Master : ingénieur civil en mathématiques appliquées, ou<br>   m. le diplôme de Master : ingénieur civil en science des données, ou<br>   n. le diplôme de Master : ingénieur civil mécanicien, ou<br>   o. le diplôme de Master : ingénieur civil physicien, ou<br>   p. le diplôme de Master en sciences mathématiques, ou<br>   q. le diplôme de Master en statistiques, toutes orientations, ou<br>   r. le diplôme de Master en sciences actuarielles, ou<br>   s. le diplôme de Master en sciences physiques, ou<br>   t. le diplôme de Master en sciences spatiales, ou<br>   u. le diplôme de Master en sciences de l'ingénieur industriel, toutes orientations, ou<br>   v. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations, ou<br>   w. le diplôme de Master : ingénieur de gestion, ou<br>   x. le diplôme de Master : ingénieur commercial, ou<br>   y. le diplôme de Master en gestion de l'entreprise, ou<br>   z. le diplôme de Master en sciences commerciales, ou<br>   aa. le diplôme de Master en architecture des systèmes informatiques, ou<br>   ab. le diplôme de Master en gestion globale du numérique</td></tr><tr><td>Interprétation (avec mention de la langue concernée)</td><td>le diplôme de Master en interprétation</td></tr><tr><td>Kinésithérapie</td><td>a. le diplôme de Master en kinésithérapie et réadaptation, ou<br>   b. le diplôme de Master en kinésithérapie</td></tr><tr><td>Langue française</td><td>a. le diplôme de Master en langues et lettres françaises et romanes, orientation générale, ou<br>   b. le diplôme de Master en langues et lettres françaises et romanes, orientation français langue étrangère, ou<br>   c. le diplôme de Master en langues et lettres anciennes, orientation classiques, ou<br>   d. le diplôme de langues et lettres anciennes et modernes</td></tr><tr><td>Langue(s) étrangère(s)<br>   [avec mention de la (des) langue(s) étrangère(s)]</td><td>a. le diplôme de Master en langues et lettres modernes, orientation générale, ou<br>   b. le diplôme de Master en langues et lettres modernes, orientation germaniques, ou<br>   c. le diplôme de Master en langues et lettres modernes, orientation slaves, ou<br>   d. le diplôme de Master en langues et lettres modernes, orientation orientales, ou<br>   e. le diplôme de master en langues et lettres modernes, orientation arabes, ou<br>   f. le diplôme de Master en langues et lettres françaises et romanes, toutes orientations ou<br>   g. le diplôme de Master en traduction, ou<br>   h. le diplôme de Master en interprétation, ou<br>   i. le diplôme de Master en linguistique</td></tr><tr><td>Langues anciennes</td><td>a. le diplôme de Master en langues et lettres anciennes, orientation classiques, ou<br>   b. le diplôme de Master en langues et lettres anciennes, orientations orientales, ou<br>   c. le diplôme de Master en langues et lettres anciennes et modernes</td></tr><tr><td>Logopédie</td><td>le diplôme de Master en logopédie</td></tr><tr><td>Morale</td><td>a. le diplôme de Master en philosophie délivré par un établissement d'enseignement non confessionnel, ou<br>   b. le diplôme de Master en sciences des religions et de la laïcité</td></tr><tr><td>Musique et éducation musicale</td><td>Un diplôme du domaine de la musique en relation avec la spécificité visée par la haute école</td></tr><tr><td>Obstétrique</td><td>a. le diplôme de Bachelier : Sage-femme complété par le Master en sciences de la santé publique, ou<br>   b. le diplôme de Bachelier : Sage-femme complété par le Master en sciences de la famille et de la sexualité</td></tr><tr><td>Pédagogie et méthodologie</td><td>le diplôme de Master en sciences de l'éducation</td></tr><tr><td>Philosophie</td><td>a. le diplôme de Master en philosophie, ou<br>   b. le diplôme de Master en éthique</td></tr><tr><td>Physique</td><td>a. le diplôme de Master : ingénieur civil biomédical, ou<br>   b. le diplôme de Master : ingénieur civil des constructions, ou<br>   c. le diplôme de Master : ingénieur civil des mines et géologue, ou<br>   d. le diplôme de Master : ingénieur civil électricien, ou<br>   e. le diplôme de Master : ingénieur civil électromécanicien, ou<br>   f. le diplôme de Master : ingénieur civil en aérospatiale, ou<br>   g. le diplôme de Master : ingénieur civil en chimie et science des matériaux, ou<br>   h. le diplôme de Master : ingénieur civil en informatique, ou<br>   i. le diplôme de Master : ingénieur civil en informatique et gestion, ou<br>   j. le diplôme de Master : ingénieur civil en mathématiques appliquées, ou<br>   k. le diplôme de Master : ingénieur civil en science des données, ou<br>   l. le diplôme de Master : ingénieur civil mécanicien, ou<br>   m. le diplôme de Master : ingénieur civil physicien, ou<br>   n. le diplôme de Master en sciences physiques, ou<br>   o. le diplôme de Master en sciences spatiales, ou<br>   p. le diplôme de Master en sciences mathématiques, ou<br>   q. le diplôme de Master en statistiques, toutes orientations, ou<br>   r. le diplôme de Master en sciences actuarielles, ou<br>   s. le diplôme de Master en sciences de l'ingénieur industriel, toutes orientations, ou<br>   t. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations</td></tr><tr><td>Podologie - podothérapie</td><td>Le diplôme de Bachelier en podologie - podothérapie complété par un Master en sciences de la santé publique.</td></tr><tr><td>Psychologie</td><td>a. le diplôme de Master en sciences psychologiques, ou<br>   b. le diplôme de Master en sciences de l'éducation, ou<br>   c. le diplôme de Master en sciences de la famille et de la sexualité</td></tr><tr><td>Psychomotricité</td><td>a. Le diplôme de Bachelier en psychomotricité complété par un Master en sciences de la santé publique, ou<br>   b. Le diplôme de Master en kinésithérapie et réadaptation, ou<br>   c. le diplôme de Master en kinésithérapie, ou<br>   d. le diplôme de Master en sciences de la motricité, toutes orientations</td></tr><tr><td>Sciences biomédicales</td><td>a. le diplôme de Master en sciences biomédicales, ou<br>   b. le diplôme de Master en sciences pharmaceutiques, ou<br>   c. le diplôme de Médecin, ou<br>   d. le diplôme de Master en kinésithérapie, ou<br>   e. le diplôme de Master en kinésithérapie et réadaptation, ou<br>   f. le diplôme de Bachelier infirmier responsable de soins généraux complété par le Master en science de la santé publique, ou<br>   g. le diplôme de Master en sciences de la motricité, toutes orientations, ou<br>   h. le diplôme de Master : Ingénieur civil biomédical</td></tr><tr><td>Sciences économiques</td><td>a. le diplôme de Master en sciences économiques, toutes orientations, ou<br>   b. le diplôme de Master en sciences de gestion, ou<br>   c. le diplôme de Master : Ingénieur commercial, ou<br>   d. le diplôme de Master : Ingénieur de gestion, ou<br>   e. le diplôme de Master en administration publique, ou<br>   f. le diplôme de Master en gestion de l'entreprise, ou<br>   g. le diplôme de Master en sciences commerciales, ou<br>   h. le diplôme de Master en gestion publique, toutes orientations, ou<br>   i. le diplôme de Master en sciences administratives, ou<br>   j. le diplôme de Master en gestion des services généraux, ou<br>   k. le diplôme de Master en politique économique et sociale, ou<br>   l. le diplôme de Master : Ingénieur civil en informatique et gestion</td></tr><tr><td>Sciences mathématiques</td><td>a. le diplôme de Master : ingénieur civil biomédical, ou<br>   b. le diplôme de Master : ingénieur civil des constructions, ou<br>   c. le diplôme de Master : ingénieur civil des mines et géologue, ou<br>   d. le diplôme de Master : ingénieur civil électricien, ou<br>   e. le diplôme de Master : ingénieur civil électromécanicien, ou<br>   f. le diplôme de Master : ingénieur civil en aérospatiale, ou<br>   g. le diplôme de Master : ingénieur civil en chimie et science des matériaux, ou<br>   h. le diplôme de Master : ingénieur civil en informatique, ou<br>   i. le diplôme de Master : ingénieur civil en informatique et gestion, ou<br>   j. le diplôme de Master : ingénieur civil en mathématiques appliquées, ou<br>   k. le diplôme de Master : ingénieur civil en science des données, ou<br>   l. le diplôme de Master : ingénieur civil mécanicien, ou<br>   m. le diplôme de Master : ingénieur civil physicien, ou<br>   n. le diplôme de Master en sciences mathématiques, ou<br>   o. le diplôme de Master en statistiques, toutes orientations, ou<br>   p. le diplôme de Master en sciences actuarielles, ou<br>   q. le diplôme de Master en sciences physiques, ou<br>   r. le diplôme de Master en sciences spatiales, ou<br>   s. le diplôme de Master en sciences de l'ingénieur industriel, toutes orientations ou<br>   t. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations</td></tr><tr><td>Sciences politiques</td><td>a. le diplôme de Master en sciences politiques, toutes orientations, ou<br>   b. le diplôme de Master en administration publique, ou<br>   c. le diplôme de Master en gestion publique, toutes orientations, ou<br>   d. le diplôme de Master en sciences administratives, ou<br>   e. le diplôme de Master en études européennes</td></tr><tr><td>Sciences religieuses</td><td>a. le diplôme de Master en philosophie [délivré par un établissement d'enseignement confessionnel], ou<br>   b. le diplôme de Master en théologie, ou<br>   c. le diplôme de Master en études bibliques, ou<br>   d. le diplôme de Master en sciences des religions, ou<br>   e. le diplôme de Master en sciences des religions et de la laïcité</td></tr><tr><td>Sciences sociales</td><td>a. le diplôme de Master en sociologie, ou<br>   b. le diplôme de Master en anthropologie, ou<br>   c. le diplôme de Master en sciences du travail, ou<br>   d. le diplôme de Master en politique économique et sociale, ou<br>   e. le diplôme de Master en sciences politiques, toutes orientations, ou<br>   f. le diplôme de Master en gestion des ressources humaines, ou<br>   g. le diplôme de Master en sciences de la population et du développement, ou<br>   h. le diplôme de Master en ingénierie et action sociales</td></tr><tr><td>Sciences technologiques</td><td>a. le diplôme de Master : ingénieur civil biomédical, ou<br>   b. le diplôme de Master : ingénieur civil des constructions, ou<br>   c. le diplôme de Master : ingénieur civil des mines et géologue, ou<br>   d. le diplôme de Master : ingénieur civil électricien, ou<br>   e. le diplôme de Master : ingénieur civil électromécanicien, ou<br>   f. le diplôme de Master : ingénieur civil en aérospatiale, ou<br>   g. le diplôme de Master : ingénieur civil en chimie et science des matériaux, ou<br>   h. le diplôme de Master : ingénieur civil en informatique, ou<br>   i. le diplôme de Master : ingénieur civil en informatique et gestion, ou<br>   j. le diplôme de Master : ingénieur civil en mathématiques appliquées, ou<br>   k. le diplôme de Master : ingénieur civil en science des données, ou<br>   l. le diplôme de Master : ingénieur civil mécanicien, ou<br>   m. le diplôme de Master : ingénieur civil physicien, ou<br>   n. le diplôme de Master : bioingénieur en chimie et bioindustries, ou<br>   o. le diplôme de Master : bioingénieur en sciences et technologies de l'environnement, ou<br>   p. le diplôme de Master : bioingénieur en gestion des forêts et des espaces naturels, ou<br>   q. le diplôme de Master : bioingénieur en sciences agronomiques, ou<br>   r. le diplôme de Master en sciences de l'ingénieur industriel, toutes orientations, ou<br>   s. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations</td></tr><tr><td>Service social</td><td>le diplôme de Bachelier : assistant social complété par un Master de la liste prévue pour les cours à conférer '' Sciences sociales '', '' Psychologie '', '' Droit '' et Communication ''</td></tr><tr><td>Sociologie</td><td>a. le diplôme de Master en sociologie, ou<br>   b. le diplôme de Master en anthropologie, ou<br>   c. le diplôme de Master en sociologie et anthropologie</td></tr><tr><td>Soins infirmiers</td><td>a. le diplôme de Bachelier infirmier responsable en soins généraux complété par le Master en sciences de la santé publique, ou<br>   b. le diplôme de Bachelier infirmier responsable en soins généraux complété par le Master en sciences de la famille et de la sexualité.</td></tr><tr><td>Techniques de développements en informatique</td><td>a. le diplôme de Master : ingénieur civil en informatique, ou<br>   b. le diplôme de Master : ingénieur civil en informatique et gestion, ou<br>   c. le diplôme de Master en sciences de l'ingénieur industriel, orientations électronique ou informatique, ou<br>   d. le diplôme de Master en sciences informatiques, ou<br>   e. le diplôme de Master en sciences physiques, ou<br>   f. le diplôme de Master en sciences mathématiques, ou<br>   g. le diplôme de Master en architecture des systèmes informatiques</td></tr><tr><td>Techniques graphiques et infographiques</td><td>a. le diplôme de Master en architecture, ou<br>   b. le diplôme de Master : ingénieur civil architecte, ou<br>   c. le diplôme de Master : ingénieur civil en informatique, ou<br>   d. le diplôme de Master en sciences de l'ingénieur industriel, orientation informatique, ou<br>   e. le diplôme de Master en sciences informatiques, ou<br>   f. le diplôme de Master en sciences et technologies de l'information et de la communication, ou<br>   g. le diplôme de Master en arts plastiques, visuels et de l'espace, toutes orientations, ou<br>   h. le diplôme de Master en gestion globale du numérique</td></tr><tr><td>Technologie en imagerie médicale</td><td>Le diplôme de Bachelier : Technologue en imagerie médicale, complété par le Master en sciences de la santé publique</td></tr><tr><td>Textile, emballage et conditionnement</td><td>a. le diplôme de Master ingénieur civil en chimie et science des matériaux, ou<br>   b. le diplôme de Master en sciences chimiques, ou<br>   c. le diplôme de Master en sciences de l'ingénieur industriel, orientation chimie, ou<br>   d. le diplôme de Master en sciences de l'ingénieur industriel en agronomie, toutes orientations</td></tr><tr><td>Tourisme</td><td>le diplôme de Master en sciences et gestion du tourisme et des loisirs</td></tr><tr><td>Traduction (avec mention de la langue concernée)</td><td>le diplôme de Master en traduction</td></tr><tr><td>Expertise particulière en (préciser)</td><td>la notoriété professionnelle reconnue par le Gouvernement, en relation avec l'expertise particulière visée</td></tr><tr><td>Autres cours à conférer</td><td>a. un titre du niveau supérieur du troisième degré, ou<br>   b. pour les cours à conférer pour lesquels il n'existe pas de<br>   formation dans une institution universitaire, une Haute Ecole ou un établissement d'enseignement supérieur de type long :<br>   - un titre du niveau supérieur du deuxième degré<br>   - un titre du niveau supérieur du premier degré</td></tr><tr><td colspan="2">(<font>1</font>)&lt;DCFR <a>2021-12-02/42</a>, art. 15, 021; En vigueur : 14-09-2022&gt;</td></tr><tr><td colspan="2">(<font>2</font>)&lt;DCFR <a>2023-11-09/20</a>, art. 4, 022; En vigueur : 14-09-2023&gt;</td></tr><tr><td colspan="2">(<font>3</font>)&lt;DCFR <a>2022-07-20/17</a>, art. 4, 023; En vigueur : 14-09-2023&gt; </td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2020-05-28/24, art. 2, 018; En vigueur : 20-06-2020&gt;
+
+Modifié par :
+
+&lt;DCFR 2025-07-16/09, art. 10, 024; En vigueur : 01-10-2025&gt;
+
+#### Art. N3
+
+&lt;Abrogé par DCFR 2009-02-19/61, art. 51, 014; En vigueur : 15-09-2009&gt;
+
+Modifié par :
+
+&lt;DCFR 2025-07-16/09, art. 10, 024; En vigueur : 01-10-2025&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 8 février 1999.
+
+La Ministre-Présidente du Gouvernement de la Communauté française chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+W. ANCION
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE

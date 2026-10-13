@@ -1,0 +1,857 @@
+---
+title: "Décret relatif aux charges et emplois des Hautes Ecoles organisées ou subventionnées par la Communauté française."
+identifier: "1996029289"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996029289/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1996-07-25
+published: 1996-09-07
+entry_into_force: 1996-09-01
+last_amended: 2025-01-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996029289/justel"
+department: "Communauté française"
+justel_note: "Consultation des versions antérieures à partir du 07-09-1996 et mise à jour au 09-01-2025"
+retrieved: 2026-10-12
+---
+
+# 25 JUILLET 1996. - Décret relatif aux charges et emplois des Hautes Ecoles organisées ou subventionnées par la Communauté française.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Champ d'application.
+
+##### Art. 1
+
+Le présent décret s'applique aux membres des catégories du personnel directeur et enseignant et du personnel auxiliaire d'éducation des Hautes Ecoles organisées par la Communauté française et aux membres subsidiés des catégories du personnel directeur et enseignant et du personnel auxiliaire d'éducation des Hautes Ecoles subventionnées par la Communauté française ainsi qu'aux membres de la catégorie du personnel administratif des Hautes Ecoles (sauf pour ce qui est mentionné aux articles 10bis et 12, § 3). &lt;DCFR 2003-05-08/49, art. 109, 006; En vigueur : 01-09-2002&gt;
+
+Les professeurs de religion ne sont pas régis par le présent décret.
+
+## CHAPITRE II. - Définitions.
+
+##### Art. 2
+
+Pour l'application du présent décret, il faut entendre par :
+
+1\. Le Gouvernement : le Gouvernement de la Communauté française;
+
+2\. Le Décret : le décret du 5 août 1995 fixant l'organisation générale de l'enseignement supérieur en Hautes Ecoles;
+
+3\. Arrêté royal du 22 mars 1969 : arrêté royal fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, tel qu'il a été modifié.
+
+4\. Décret du 1er février 1993 : décret fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné, tel qu'il a été modifié.
+
+5\. Décret du 6 juin 1994 : décret fixant le statut des membres du personnel subsidié de l'enseignement officiel subventionné, tel qu'il a été modifié.
+
+6\. Haute Ecole : Haute Ecole visée à l'article 1er, 1°, du décret.
+
+7\. Haute Ecole de la Communauté française : Haute Ecole organisée par la Communauté française.
+
+8\. Haute Ecole officielle subventionnée : Haute Ecole relevant du réseau officiel subventionné et créée par une commune, une province, la Commission communautaire française ou une personne morale de droit public.
+
+9\. Haute Ecole libre subventionnée : Haute Ecole relevant du réseau libre subventionné et créée sous la forme d'une personne morale de droit privé.
+
+10\. Pouvoir organisateur : Pouvoir organisateur d'un établissement d'enseignement tel que défini à l'article 2 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.
+
+11\. Emploi organique : un emploi organisé ou subventionné dans le respect des normes décrétales et réglementaires.
+
+(12. services effectifs rendus : services rendus par le membre du personnel en fonction principale alors qu'il se trouve dans les positions administratives ou de service, d'activité de service ou de disponibilité par défaut d'emploi.) &lt;DCFR 1997-07-24/61, art. 275, 002; En vigueur : 01-09-1996&gt;
+
+[<sup>1</sup> 13. Organes de concertation locale : le Conseil d'entreprise, la Commission paritaire locale (COPALOC), le Comité de concertation de base (COCOBA).]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2014-04-11/33, art. 13, 019; En vigueur : 21-08-2014&gt;
+
+## CHAPITRE III. - Du personnel directeur et enseignant.
+
+### Section 1. - Dispositions générales.
+
+##### Art. 3
+
+Pour l'application du présent décret, les titres de capacité des membres du personnel peuvent être des diplômes, certificats et années d'expérience utile conformément à la législation en vigueur.
+
+(Alinéa 2 abrogé) &lt;DCFR 1999-02-08/41, art. 42, 004; En vigueur : 01-02-1999&gt;
+
+(Alinéa 3 abrogé) &lt;DCFR 1999-02-08/41, art. 42, 004; En vigueur : 01-02-1999&gt;
+
+##### Art. 4
+
+(Abrogé) &lt;DCFR 1999-02-08/41, art. 42, 004; En vigueur : 01-02-1999&gt;
+
+##### Art. 5
+
+Les fonctions que peuvent exercer les membres du personnel directeur et enseignant des Hautes Ecoles sont, ci-après, déterminées et classées en fonctions de rang 1, de rang 2 et en fonctions électives [<sup>1</sup> et non électives]<sup>1</sup> :
+
+A. Fonctions de rang 1 :
+
+1\. Maître de formation pratique;
+
+2\. Maître assistant;
+
+3\. Chargé de cours.
+
+B. Fonctions de rang 2 :
+
+1\. Maître principal de formation pratique;
+
+2\. Chef de travaux;
+
+3\. Professeur;
+
+4\. Chef de bureau d'études.
+
+C. Fonctions électives :
+
+1\. Directeur [<sup>1</sup> ...]<sup>1</sup>;
+
+2\. Directeur-président.
+
+[<sup>1</sup> D. Fonction non élective :]<sup>1</sup>
+
+[<sup>1</sup> 1. Directeur adjoint]<sup>1</sup>
+
+[<sup>1</sup> La fonction de directeur adjoint est accessible aux maîtres de formation pratique, maîtres principaux de formation pratique, maîtres assistants, chargés de cours, chefs de travaux, professeurs et chefs de bureau d'études, ainsi qu'aux membres du personnel administratif de niveau 1, définitifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-02-21/06, art. 46, 021; En vigueur : 24-03-2019&gt;
+
+##### Art. 6
+
+Les fonctions sont à prestations complètes ou à prestations incomplètes dans le respect de l'article 4 de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du ministère de l'Instruction publique.
+
+Les emplois organiques sont exercés soit en fonction principale soit en fonction accessoire dans le respect de l'article 5 du même arrêté.
+
+##### Art. 7
+
+§ 1. Le Gouvernement arrête les charges hebdomadaires à prestations complètes des maîtres de formation pratique, maîtres assistants, chargés de cours, maîtres principaux de formation pratique, chefs de travaux et professeurs. La charge minimum est de 24 heures/semaine et la charge maximum de 39 heures/semaine.
+
+Les prestations visées à l'alinéa 1er s'effectuent au profit de la Haute Ecole et pas nécessairement au sein de celle-ci. [<sup>1</sup> la gestion pédagogique des relations internationales; l'aide à la réussite; la recherche scientifique appliquée; la gestion de la qualité; la participations aux organes de décision et de consultation mis en place; l'accompagnement au Certificat d'Aptitude Pédagogique Approprié à l'Enseignement Supérieur (CAPAES); l'encadrement des étudiants en entreprise dans le cadre de l'enseignement supérieur en alternance; la participation aux activités de formation continuée; l'accompagnement de la Valorisation des Acquis de l'Expérience (VAE), les technologies de l'information et de la communication (TIC).]<sup>1</sup>
+
+Elles recouvrent notamment, et selon le cas : les heures de cours, données à des groupes d'étudiants; les préparations de cours théoriques, les corrections, les séances d'application, les travaux pratiques, les activités didactiques et autres activités figurant au programme d'études; la supervision de stages prévus au programme d'études; les examens et les délibérations; la formation continue du membre du personnel; la recherche appliquée; la participation aux réunions pédagogiques et la participation aux différents Conseils; les programmes de remédiation, les activités de tutorat et l'encadrement des mémoires ou autres travaux.
+
+[<sup>2</sup> Chaque année, en septembre puis en janvier, la répartition équitable des charges entre les membres du personnel, est discutée au sein de l'organe de concertation locale. Cet avis est transmis à l'organe de gestion.]<sup>2</sup>
+
+La charge des membres du personnel visés à l'alinéa 1er est divisible en dixièmes d'une fonction à prestations complètes, à l'exception de celle de professeur, qui est complète et indivisible.
+
+Les heures de prestations du chef de bureau d'études, du directeur [<sup>3</sup> ...]<sup>3</sup> et du directeur-président couvrent au moins les heures d'ouverture de la Haute Ecole.
+
+Les charges de chef de bureau d'études, de directeur [<sup>3</sup> ...]<sup>3</sup> et de directeur-président sont complètes et indivisibles.
+
+(Par dérogation aux alinéas 3 et 5, les charges de professeur, chef de bureau d'études, directeur [<sup>3</sup> ...]<sup>3</sup> et directeur-président peuvent être réduites d'office si ces membres du personnel sont mis en congé politique d'office, dans le respect des dispositions relatives à ce congé.) &lt;DCFR 1997-07-24/61, art. 276, 002; En vigueur : 01-09-1997&gt;
+
+§ 2. Le maître de formation pratique et le maître principal de formation pratique prestent au plus 750 heures/année de cours.
+
+Le maître assistant preste au plus 480 heures/année de cours.
+
+Le chargé de cours preste au plus 420 heures/année de cours.
+
+Le chef de travaux preste au plus 360 heures/année de cours.
+
+Le professeur preste au plus 360 heures/année de cours.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/33, art. 14, 019; En vigueur : 21-08-2014&gt;
+
+(2)&lt;DCFR 2014-04-11/33, art. 15, 019; En vigueur : 21-08-2014&gt;
+
+(3)&lt;DCFR 2019-02-21/06, art. 47, 021; En vigueur : 24-03-2019&gt;
+
+##### Art. 7bis
+
+&lt;Abrogé par DCFR 2008-06-20/52, art. 161, 014; En vigueur : 14-09-2008&gt;
+
+##### Art. 7ter
+
+[<sup>1</sup> § 1er. Chaque pouvoir organisateur confie la tâche consistant à assurer l'évaluation de la qualité à un ou plusieurs maîtres-assistants [<sup>2</sup> ou membres du personnel administratif de niveau 1]<sup>2</sup>. Dans chaque Haute Ecole, au moins un maître-assistant [<sup>2</sup> ou membre du personnel administratif de niveau 1]<sup>2</sup> se verra attribuer à cet effet une charge d'au moins 4/10 d'équivalent temps plein. "
+
+§ 2. Chaque Haute Ecole transmet au Gouvernement, pour le 15 octobre de l'année académique en cours, l'identité et la charge horaire des membres du personnel désignés dans ce cadre.
+
+En cas de fusion, les emplois attribués aux établissements fusionnés resteront acquis à l'établissement résultant de la fusion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2008-01-11/35, art. 45, 012; En vigueur : 01-09-2007&gt;
+
+(2)&lt;DCFR 2012-07-12/18, art. 37, 016; En vigueur : 11-08-2012&gt;
+
+##### Art. 7quater
+
+[<sup>1</sup> § 1er. Chaque Haute Ecole confie la tâche consistant à assurer les missions du Service interne de Prévention et de Protection au travail (SIPP) à un ou plusieurs membres du personnel. Dans chaque Haute Ecole, au moins un membre du personnel se verra attribuer à cet effet une charge d'au moins 5/10 d'équivalent temps plein.
+
+§ 2. Chaque Haute Ecole transmet au Gouvernement, pour le 15 octobre de l'année académique en cours, l'identité et la charge horaire des membres du personnel désignés dans ce cadre.
+
+En cas de fusion, les emplois attribués aux établissements fusionnés resteront acquis à l'établissement résultant de la fusion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2009-02-19/61, art. 52, 015; En vigueur : 15-09-2009&gt;
+
+##### Art. 7quinquies.
+
+[<sup>1</sup>§ 1er. Un montant d'un million d'euros est alloué annuellement aux hautes écoles dans le cadre de l'attribution de missions de recherche à un ou plusieurs membres de leur personnel.
+
+A partir de 2025, ce montant est indexé conformément à l'article 9bis du décret du 9 septembre 1996 relatif au financement des hautes écoles organisées ou subventionnées par la Communauté française.
+
+Ce montant est réparti selon la clé de répartition visée à l'article 17 du décret du 9 septembre 1996 relatif au financement des hautes écoles organisées ou subventionnées par la Communauté française.
+
+Selon les dates et modalités déterminées par le Gouvernement, les pouvoirs organisateurs introduisent leurs demandes de financement auprès de l'Administration en charge de l'Enseignement supérieur dans laquelle elles démontrent, documents probants à l'appui, respecter les conditions et la procédure énoncées au paragraphe 4 ainsi que la liste des membres du personnel s'étant vu octroyer une mission de recherche. Cette liste précise le volume de la charge et la durée de la mission.
+
+§ 2. Le pouvoir organisateur de chaque Haute Ecole peut confier la tâche de mission de recherche à un membre du personnel titulaire d'un bachelier, master ou doctorat. Cette mission n'est pas associée à une fonction spécifique. En cas d'attribution d'une mission de recherche à un membre du personnel nommé ou engagé à titre définitif dans la fonction de professeur ou de chef de bureau, ce dernier est remplacé à concurrence de la charge d'enseignement temporairement libérée.
+
+§ 3. Le pouvoir organisateur, sur propositions des autorités académiques de la Haute Ecole, détermine la charge consacrée aux missions de recherche. Celle-ci s'effectue à prestations complètes ou incomplètes, exprimées en dixièmes.
+
+§ 4. Chaque Haute Ecole peut lancer un appel à mission de recherche. En réponse à l'appel précité, un membre du personnel enseignant peut déposer une candidature auprès des autorités académiques de la Haute Ecole.
+
+Les autorités académiques de la Haute Ecole sélectionnent le(s) projet(s) de recherche sur base des critères minimaux suivants, précisés dans l'appel à mission de recherche :
+
+1° la qualité scientifique des projets ;
+
+2° leur impact sociétal ;
+
+3° leur qualité de mise en oeuvre.
+
+Si les autorités académiques de la Haute Ecole désirent ajouter d'autres critères que ceux visés à l'alinéa 2, ceux-ci sont portés à la connaissance des organes de concertation de la Haute Ecole.
+
+Les autorités académiques de la Haute Ecole proposent au pouvoir organisateur la part de charge de mission attribuée à chacun des projets sélectionnés.
+
+Tous les candidats sont informés des décisions prises et des conditions d'exercice de la mission de recherche.
+
+§ 5. Le Gouvernement détermine la façon dont la durée peut être fixée ainsi que les modalités de reconduction ou d'arrêt d'une mission.
+
+§ 6. Durant toute la période de mission de recherche, l'enseignant-chercheur reste titulaire de son emploi et de sa fonction initiale.
+
+Au terme de la mission de recherche, le membre du personnel exerce à nouveau sa charge d'enseignement.
+
+Les heures consacrées à la mission de recherche ne peuvent donner lieu à une vacance d'emploi.]<sup>1</sup>
+
+[<sup>2</sup> § 7. Par dérogation au paragraphe 1er, alinéa 4, pour l'année 2024, les pouvoirs organisateurs sont dispensés d'introduire leurs demandes de financement auprès de l'Administration en charge de l'Enseignement supérieur.
+
+Une première tranche de septante pour cent du montant prévu au paragraphe 1er est liquidée sous forme d'avance au profit des Hautes Ecoles avant le 31 décembre 2024. Le solde du montant prévu au paragraphe 1er est de trente pour cent maximum.
+
+Les pouvoirs organisateurs transmettent à l'Administration, pour le 31 mars 2025 au plus tard, les documents et pièces qui démontrent le respect des conditions et de la procédure énoncées au paragraphe 4 ainsi qu'une liste, selon le modèle transmis par l'Administration, des membres du personnel s'étant vu octroyer une mission de recherche à prestations complètes ou incomplètes, depuis le 1er janvier 2024 dont elles demandent l'imputation sur le montant alloué tel que défini au § 1er, alinéas 1 à 3.
+
+La liste des membres du personnel visée à l'alinéa 3 peut viser des :
+
+1° enseignants à qui la Haute Ecole a réduit en partie leur charge d'enseignement afin qu'ils puissent se consacrer à une mission de recherche et pour lesquels la Haute école engage un remplaçant ;
+
+2° enseignants en perte d'heures de cours de leur charge d'enseignement et débutant une mission de recherche ;
+
+3° personnes engagées spécifiquement par la Haute Ecole ou par leur Patrimoine pour réaliser une mission de recherche.
+
+Les pouvoirs organisateurs joignent à cet envoi les pièces justificatives relatives aux traitements et charges patronales et sociales des enseignants-chercheurs rémunérés par eux.
+
+§ 8. L'Administration vérifie les informations communiquées conformément au paragraphe 7 et calcule la différence entre le montant justifié et le montant visé au paragraphe 1er.
+
+L'Administration soit met en liquidation tout ou partie du solde du montant au paragraphe 7, alinéa 2, soit récupère le montant non justifié par rapport à l'enveloppe liquidée en vertu du paragraphe 7, alinéa 2.
+
+§ 9. Par dérogation au paragraphe 5, pour l'année 2024, la mission de recherche confiée au membre du personnel sélectionné est d'une durée de minimum trois mois et de maximum trois ans.
+
+Par dérogation à l'alinéa premier, pour rencontrer les besoins du projet de recherche, la mission peut être prorogée pour un an maximum par le pouvoir organisateur, au plus tard un mois avant la fin de la mission de recherche du membre du personnel concerné, sur proposition motivée des autorités académiques de la Haute école.
+
+La mission peut être suspendue dans les cas suivants :
+
+1° la survenance d'un cas de force majeure ;
+
+2° le congé de maternité, de paternité, parental ou d'adoption du membre du personnel en charge de la mission de recherche ;
+
+3° le congé de maladie d'une durée supérieure à 30 jours du membre de personnel en charge de la mission de recherche.
+
+Sur proposition motivée des autorités académiques, le pouvoir organisateur de la Haute école peut mettre fin à la mission de recherche lorsque :
+
+1° le membre du personnel en fait la demande auprès du pouvoir organisateur ;
+
+2° la mission de recherche est évaluée de manière défavorable par les autorités académiques ; "
+
+3° en cas de force majeure.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2023-12-20/14, art. 17, 023; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFR 2024-12-11/03, art. 56, 024; En vigueur : 01-01-2024&gt;
+
+### Section 2. - De la désignation ou de l'engagement à titre temporaire, de la nomination ou de l'engagement à titre définitif et du changement de fonctions.
+
+#### Sous-section 1. - Dispositions générales.
+
+##### Art. 8
+
+(Dans les hautes écoles de la Communauté française, le Conseil d'administration détermine tout emploi auquel il souhaite pourvoir et le Gouvernement le déclare vacant.
+
+Dans les hautes écoles libres subventionnées, le pouvoir organisateur détermine tout emploi auquel il souhaite pourvoir et le déclare vacant.
+
+Dans les hautes écoles officielles subventionnées, le pouvoir organisateur détermine tout emploi auquel il souhaite pourvoir et le déclare vacant.) &lt;DCFR 1997-07-24/61, art. 277, 002; En vigueur : 01-09-1996&gt;
+
+La désignation ou l'engagement à titre temporaire (dans un emploi vacant d'une fonction de rang 1) ne peuvent se faire qu'après appel publié au Moniteur belge. &lt;DCFR 1997-07-24/61, art. 277, 002; En vigueur : 01-09-1996&gt;
+
+##### Art. 9
+
+Par emploi vacant, il faut entendre tout emploi organique qui n'est pas attribué à un membre du personnel nommé ou engagé à titre définitif (ou à un membre du personnel désigné ou engagé à titre temporaire pour une durée indéterminée). &lt;DCFR 1997-07-24/61, art. 278, 002; En vigueur : 01-09-1996&gt;
+
+(La publication prévue à l'article 8 comporte les caractéristiques de l'emploi concerné : la fonction, telle que mentionnée à l'article 5 et la charge telle que prévue à l'article 7, § 1, alinéa 3, sont détaillées avec précision ainsi que, pour les fonctions de rang 1, les cours à conférer tels que visés aux annexes 1, 2 et 3 du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française.) &lt;DCFR 1999-02-08/41, art. 12, 004; En vigueur : 01-02-1999&gt;
+
+#### Sous-section 2. - De la désignation ou de l'engagement à titre temporaire.
+
+##### Art. 10
+
+(Pour tout emploi déclaré vacant selon la procédure visée à l'article 8,) les désignations ou engagements à titre temporaire sont effectués par le Pouvoir organisateur. Ils se font d'abord pour une durée détermine, d'une année académique maximum. Cette désignation ou cet engagement à durée déterminée est reconductible pour une année académique maximum. &lt;DCFR 1997-07-24/61, art. 279, 002; En vigueur : 01-09-1997&gt;
+
+A l'issue de la désignation ou de l'engagement ou des désignations ou des engagements visés à l'alinéa 1er, le membre du personnel qui fait l'objet d'une nouvelle désignation ou d'un nouvel engagement est désigné ou engagé pour une durée indéterminée, (pour autant que le membre du personnel occupe une fonction principale). &lt;DCFR 1997-07-24/61, art. 279, 002; En vigueur : 01-09-1997&gt;
+
+La désignation ou l'engagement pour une durée indéterminée ne peuvent toutefois avoir lieu que si la durée cumulée des désignations ou engagements à durée déterminée est d'une année académique minimum.
+
+##### Art. 10bis
+
+&lt;Inséré par DCFR 2003-05-08/49, art. 110; En vigueur : 01-09-2002&gt; Conformément à l'article 1er, alinéa 1er, le membre du personnel en congé de maternité, malade ou en incapacité de travail causée par un accident du travail visé à l'article 10, alinéa 2, est désigné ou engagé pour une durée indéterminée.
+
+Le nombre de jours visé à l'article 19 du décret du 5 juillet 2000 fixant le régime des congés et de disponibilité pour maladie ou infirmité est accordé au membre du personnel à partir de la première prise de fonction qui suit sa désignation ou son engagement et est calculé à compter de cette prise de fonction effective.
+
+Les absences pour maladie d'un membre du personnel désigné ou engagé conformément à l'alinéa 1er sont imputées au nombre de jours dont il peut bénéficier en application de l'article 20 du même décret.
+
+##### Art. 11
+
+Nul ne peut être désigné ou engagé à titre temporaire s'il ne remplit les conditions suivantes au moment de la désignation ou de l'engagement à titre temporaire :
+
+1° [<sup>1</sup> ...]<sup>1</sup>;
+
+2° jouir des droits civils et politiques;
+
+3° être porteur d'un des titres de capacité pour la fonction à conférer, dans le respect de la réglementation en vigueur;
+
+4° (a) s'il s'agit d'une désignation ou d'un engagement à durée déterminée, remettre, lors de l'entrée en fonction, un certificat médical, daté de moins de six mois, attestant que le candidat se trouve dans des conditions de santé telles qu'il ne puisse mettre en danger celle des étudiants et des autres membres du personnel;
+
+b) s'il s'agit d'une désignation ou d'un engagement à durée indéterminée, avoir satisfait à un examen médical vérifiant les aptitudes physiques fixées par le Gouvernement.) &lt;DCFR 1997-07-24/61, art. 280, 002; En vigueur : 01-09-1997&gt;
+
+5° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+6° être de conduite irréprochable;
+
+7° satisfaire aux lois sur la milice.
+
+Lors de sa première désignation ou de son premier engagement à titre temporaire dans l'enseignement, le membre du personnel prête serment suivant les règles fixées par le Gouvernement en exécution de l'article 28, 5°, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.
+
+----------
+
+(1)&lt;DCFR 2013-06-20/18, art. 2, 017; En vigueur : 27-07-2013&gt;
+
+#### Sous-section 3. - De la nomination ou de l'engagement à titre définitif et du changement de fonction.
+
+##### Art. 12
+
+§ 1. Nul ne peut être nommé ou engagé à titre définitif à une fonction de rang 1 par le pouvoir organisateur s'il ne remplit les conditions suivantes au moment de la nomination ou de l'engagement à titre définitif :
+
+1° [<sup>1</sup> ...]<sup>1</sup>;
+
+2° jouir des droits civils et politiques;
+
+(3° être porteur d'un des titres requis visés au décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française.) &lt;DCFR 1999-02-08/41, art. 13, 004; En vigueur : 01-02-1999&gt;
+
+4° posséder les aptitudes physiques requises contrôlées par le Service de santé administratif;
+
+5° satisfaire aux dispositions légales et réglementaires relatives au régime linguistique;
+
+6° être de conduite irréprochable;
+
+7° satisfaire aux lois sur la milice;
+
+(8° satisfaire à la condition d'expérience utile de l'enseignement visée à l'article 9, § 1, du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française.) &lt;DCFR 1999-02-08/41, art. 14, 004; En vigueur : 01-02-1999&gt;
+
+9° avoir été désigné ou engagé, à titre temporaire, pour une durée indéterminée;
+
+10° occuper cet emploi en fonction principale.
+
+11° [<sup>3</sup> ...]<sup>3</sup>.
+
+§ 2. Le membre du personnel nommé ou engagé à titre définitif à la fonction de maître assistant peut être nommé ou engagé à titre définitif à la fonction de chargé de cours (et inversement, sur base volontaire). &lt;DCFR 1997-07-24/61, art. 281, 002; En vigueur : 01-09-1997&gt;
+
+(§ 3. Conformément à l'article 1er, alinéa 1, le présent article est applicable aux membres du personnel en congé de maternité, en congé de maladie ou en incapacité de travail causée par un accident du travail.) &lt;DCFR 2003-05-08/49, art. 111, 006; En vigueur : 01-09-2002&gt;
+
+[<sup>2</sup> § 4. [<sup>3</sup> ...]<sup>3</sup>.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFR 2013-06-20/18, art. 2, 017; En vigueur : 27-07-2013&gt;
+
+(2)&lt;DCFR 2014-04-11/33, art. 16, 019; En vigueur : 21-08-2014&gt;
+
+(3)&lt;DCFR 2019-02-07/11, art. 8, 020; En vigueur : 14-09-2018&gt;
+
+##### Art. 13
+
+§ 1. Nul ne peut être nommé à titre définitif à une fonction de rang 2 par le Pouvoir organisateur s'il ne satisfait aux conditions suivantes au moment de la nomination ou de l'engagement à titre définitif :
+
+1\. Pour la fonction de maître principal de formation pratique :
+
+a) être nommé ou engagé à titre définitif dans la fonction de maître de formation pratique;
+
+b) avoir exercé cette fonction pendant quatre années au moins à partir de la nomination ou de l'engagement à titre définitif.
+
+(c) occuper la fonction visée sous a) à titre principal.) &lt;DCFR 1997-07-24/61, art. 282, a, 002; En vigueur : 01-09-1997&gt;
+
+2\. Pour la fonction de chef de travaux :
+
+a) être nommé ou engagé à titre définitif dans la fonction de maître assistant;
+
+b) avoir exercé cette fonction pendant quatre années au moins à partir de la nomination ou de l'engagement à titre définitif.
+
+(c) occuper la fonction visée sous a) à titre principal.) &lt;DCFR 1997-07-24/61, art. 282, b, 002; En vigueur : 01-09-1997&gt;
+
+3\. Pour la fonction de professeur et chef de bureau d'études :
+
+a) être nommé ou engagé à titre définitif dans la fonction de chargé de cours;
+
+b) avoir exercé cette fonction pendant quatre années au moins à partir de la nomination ou de l'engagement à titre définitif.
+
+(c) occuper la fonction visée sous c) à titre principal.) &lt;DCFR 1997-07-24/61, art. 282, a, 002; En vigueur : 01-09-1997&gt;
+
+§ 2. Le membre du personnel nommé ou engagé à titre définitif dans la fonction de professeur peut être nommé ou engagé à titre définitif à la fonction de chef de bureau d'études (et inversement, sur base volontaire). &lt;DCFR 1997-07-24/61, art. 282, 002; En vigueur : 01-09-1997&gt;
+
+§ 3. Le Pouvoir organisateur est tenu de communiquer les emplois vacants des fonctions de rang 2 aux membres de son personnel nommés ou engagés à titre définitif dans une fonction de rang 1.
+
+##### Art. 14
+
+&lt;DCFR 1997-07-24/61, art. 283, 002; En vigueur : 01-09-1997&gt; L'ancienneté de service visée à l'article 13 est calculée de la manière suivante :
+
+1° les services effectifs rendus à titre définitif dans la fonction concernée dans une fonction à prestations complètes, se comptent par mois du calendrier, ceux qui ne couvrent pas tout le mois étant négligés;
+
+2° les services effectifs rendus dans une fonction à prestations incomplètes comportant au moins la moitié du nombre d'heures requis de la fonction à prestations complètes sont pris en considération au même titre que les services rendus dans une fonction à prestations complètes;
+
+3° le nombre de jours acquis dans une fonction à prestations incomplètes qui ne comportent pas ce nombre d'heures est réduit de moitié;
+
+4° trente jours forment un mois;
+
+5° la durée des services effectifs rendus dans deux ou plusieurs fonctions à prestations complètes ou incomplètes exercées simultanément ne peut jamais dépasser la durée des services rendus dans une fonction à prestations complètes exercée pendant la même période;
+
+6° la durée des services effectifs rendus que compte le membre du personnel ne peut jamais dépasser douze mois pour une année civile;
+
+7° les congés de maternité, d'accueil en vue de l'adoption et de la tutelle officieuse sont pris en considération pour le calcul de l'ancienneté de service.
+
+### Section 3. - Des fonctions électives.
+
+##### Art. 15
+
+[<sup>1</sup> Le pouvoir organisateur ne peut désigner à une fonction élective de directeur-président ou de directeur un candidat qui ne satisfait pas à l'une des conditions suivantes :
+
+1° soit être nommé ou engagé à titre définitif dans une ou plusieurs fonctions suivantes : maître assistant, chargé de cours, chef de travaux, professeur, chef de bureau d'études ;
+
+2° soit être nommé ou engagé à titre définitif comme membre du personnel administratif de niveau 1.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-02-21/06, art. 48, 021; En vigueur : 24-03-2019&gt;
+
+##### Art. 16
+
+[<sup>1</sup> Le directeur-président ou le directeur qui a été désigné pour deux mandats au moins et qui est âgé de minimum 55 ans à la fin du dernier mandat bénéficie du barème de chef de travaux jusqu'à la fin de sa carrière.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2019-02-21/06, art. 49, 021; En vigueur : 24-03-2019&gt;
+
+### Section 4. - Des positions administratives et des positions de service.
+
+#### Sous-section 1. - Dispositions générales.
+
+##### Art. 17
+
+Le membre du personnel est totalement ou partiellement dans une des positions administratives ou de service suivantes : 1° en activité de service;
+
+2° en non-activité;
+
+3° en disponibilité.
+
+#### Sous-section 2. - De l'activité de service.
+
+##### Art. 18
+
+Le membre du personnel est toujours censé être en activité de service sauf disposition formelle le plaçant dans une autre position administrative ou de service.
+
+##### Art. 19
+
+Le membre du personnel en activité de service a droit selon le cas au traitement ou à une subvention-traitement et à l'avancement de traitement.
+
+##### Art. 20
+
+Le Gouvernement fixe le régime des vacances du personnel des Hautes Ecoles. Les membres du personnel ont droit à un minimum de neuf semaines de vacances par année académique.
+
+#### Sous-section 3. - De la non-activité.
+
+##### Art. 21
+
+Le membre du personnel est dans la position de non-activité : a) lorsque, aux conditions fixées par le Gouvernement, il accomplit en temps de paix, certaines prestations militaires ou est affecté à la protection civile ou à des tâches d'utilité publique en application de la loi portant le statut des objecteurs de conscience;
+
+b) lorsque, dans les Hautes Ecoles de la Communauté française, il est frappé de la sanction de suspension disciplinaire ou de la sanction de mise en non-activité disciplinaire;
+
+c) lorsque, dans les Hautes Ecoles libres subventionnées, il est frappé de la sanction de la suspension par mesure disciplinaire ou lorsqu'il a été suspendu préventivement;
+
+d) lorsque, dans les Hautes Ecoles officielles subventionnées, il est frappé d'une des sanctions disciplinaires analogues à celles visées au b);
+
+e) lorsque, pour des raisons familiales, il est autorisé par son Pouvoir organisateur à s'absenter pour une période de longue durée.
+
+##### Art. 22
+
+Le membre du personnel qui est dans la position de non-activité n'a pas droit au traitement ou à une subvention-traitement, sauf disposition formelle contraire. S'il se trouve en position de non-activité en raison des dispositions prévues à l'article 21, b), c) et d), il ne peut faire valoir ses titres à un avancement de rang, ni à une fonction élective.
+
+##### Art. 23
+
+Nul ne peut être mis ou maintenu en non-activité après la fin du mois où [<sup>1</sup> il remplit les conditions requises pour l'ouverture du droit à la pension de retraite]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFR 2014-04-11/25, art. 13, 018; En vigueur : 01-01-2013&gt;
+
+#### Sous-section 4. - De la disponibilité.
+
+##### Art. 24
+
+Le membre du personnel peut être mis en position de disponibilité aux conditions fixées par le Gouvernement :
+
+a) par défaut d'emploi;
+
+b) pour mission spéciale;
+
+c) pour maladie ou infirmité n'entraînant pas l'inaptitude définitive au service, mais provoquant des absences dont la durée excède celle des congés pour maladie ou infirmité;
+
+d) pour convenances personnelles;
+
+e) pour convenances personnelles précédant la pension de retraite.
+
+##### Art. 25
+
+Nul ne peut être mis ou maintenu en disponibilité après la fin du mois où [<sup>2</sup> il remplit les conditions requises pour l'ouverture du droit à la pension de retraite]<sup>2</sup> [<sup>1</sup> , sauf application de l'article 10ter, § 7, de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux]<sup>1</sup>.
+
+La disposition de l'alinéa 1er ne s'applique pas aux membres du personnel mis en disponibilité pour mission spéciale.
+
+----------
+
+(1)&lt;DCFR 2008-05-09/75, art. 16, 013; En vigueur : 01-09-1996&gt;
+
+(2)&lt;DCFR 2014-04-11/25, art. 14, 018; En vigueur : 01-01-2013&gt;
+
+##### Art. 26
+
+Des traitements ou subventions-traitements peuvent être alloués aux membres du personnel mis en disponibilité. Ces traitements ou subventions-traitements d'attente, les allocations et indemnités qui sont éventuellement allouées à ces membres du personnel sont soumis au régime de mobilité applicable aux rétributions des membres du personnel en activité de service.
+
+##### Art. 27
+
+§ 1. Lorsqu'un membre du personnel (en fonction principale) n'accomplit plus, au sein de la Haute Ecole, un nombre d'heures équivalent à celui qu'il prestait au moment de sa nomination ou de son engagement à titre définitif, il est déclaré en perte partielle de charge. &lt;DCFR 1997-07-24/61, art. 285, 002; En vigueur : 01-09-1997&gt;
+
+Le membre du personnel en perte partielle de charge reste à la disposition de la Haute Ecole jusqu'à concurrence du nombre d'heures correspondant aux prestations qu'il exerçait avant d'être déclaré en perte partielle de charge.
+
+Il conserve le bénéfice de son traitement ou de sa subvention-traitement et peut faire valoir ses titres à un avancement de rang ainsi qu'à une fonction élective.
+
+§ 2. (Dans le respect des articles 35 à 38, 138 à 141 et 220 à 223 du décret du ... 1997 fixant le statut des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation des hautes écoles organisées ou subventionnées par la Communauté française, lorsque est supprimé l'emploi d'un membre du personnel nommé ou engagé à titre définitif, en fonction principale, celui-ci est mis en disponibilité par défaut d'emploi.) &lt;DCFR 1997-07-24/61, art. 286, 002; En vigueur : 01-09-1997&gt;
+
+Le membre du personnel en disponibilité par défaut d'emploi reste à la disposition de la Haute Ecole, pour l'une ou l'autre des missions définies à l'article 7, § 1er. Il bénéficie d'un traitement ou d'une subvention-traitement d'attente égal à son dernier traitement ou à sa dernière subvention-traitement d'activité et peut faire valoir ses titres à un avancement de rang ainsi qu'à une fonction élective pendant deux années académiques.
+
+A partir de la troisième année académique, le traitement ou subvention-traitement d'attente est réduit chaque année de 10 p.c. sans qu'il puisse être inférieur à autant de fois un trentième du traitement que le membre du personnel compte d'années de service à la date de sa mise en disponibilité.
+
+Cette décision ne peut avoir pour effet de ramener le traitement ou la subvention-traitement d'attente à un montant inférieur au montant des allocations de chômage auxquelles le membre du personnel concerné aurait droit s'il bénéficiait du régime de sécurité sociale des travailleurs salariés.
+
+(Pour l'application de ce paragraphe, il faut entendre, par années de service, celles qui entrent en compte pour l'établissement de la pension de retraite.) &lt;DCFR 1997-07-24/61, art. 287, 002; En vigueur : 01-09-1996&gt;
+
+§ 3. Le membre du personnel en disponibilité par défaut d'emploi reste à disposition de la Haute Ecole jusqu'à concurrence du nombre d'heures correspondant aux prestations qu'il exerçait avant d'être mis en disponibilité.
+
+L'exercice des tâches que lui confie la Haute Ecole ne peut toutefois aboutir à maintenir l'emploi de la fonction supprimée.
+
+Par ailleurs, lorsque le traitement ou la subvention-traitement d'attente du membre du personnel en disponibilité par défaut d'emploi est réduit à un certain pourcentage, le nombre d'heures de prestations est réduit à due concurrence.
+
+§ 4. Le membre du personnel en disponibilité par défaut d'emploi reste cependant candidat à un changement d'affectation provisoire dans un emploi vacant d'une Haute Ecole du même Pouvoir organisateur, (...) au sein du même réseau et (...) dans une Haute Ecole d'un autre réseau. &lt;DCFR 1997-07-24/61, art. 288, 002; En vigueur : 01-09-1996&gt;
+
+(Le changement d'affectation provisoire ne peut toutefois se faire qu'avec l'accord, selon le cas, des pouvoirs organisateurs, des conseils d'administration ou des organes de gestion des deux hautes écoles concernées. Le changement d'affectation provisoire suspend la disponibilité par défaut d'emploi.) &lt;DCFR 1997-07-24/61, art. 288, 002; En vigueur : 01-09-1996&gt;
+
+Après une année académique dans la nouvelle Haute Ecole, le Pouvoir organisateur de celle-ci peut rendre le changement d'affectation définitif. (Si après cette première année le changement d'affectation provisoire n'est pas rendu définitif, il se poursuit sous réserve de l'accord annuel, selon le cas, des pouvoir organisateurs, des conseils d'administration ou des organes de gestion des deux hautes écoles concernées. En cas de désaccord, le membre du personnel concerné réintègre la haute école où il a été mis en disponibilité par défaut d'emploi.) &lt;DCFR 1997-07-24/61, art. 288, 002; En vigueur : 01-09-1996&gt;
+
+§ 5. Chaque année, les Hautes Ecoles communiquent au Gouvernement la liste des membres du personnel en disponibilité par défaut d'emploi en précisant ceux qui sont candidats à un changement d'affectation pour l'année académique suivante.
+
+Le Gouvernement communique aux différents Pouvoirs organisateurs la liste visée à l'alinéa 1er.
+
+## CHAPITRE IV. - Du personnel auxiliaire d'éducation.
+
+##### Art. 28
+
+A partir de l'année académique 1996-1997, sans préjudice des dispositions prévues au chapitre II de l'arrêté royal du 12 août 1991 relatif à l'octroi d'allocations d'interruption aux membres du personnel de l'enseignement et des centres psycho-médico-sociaux (et sans préjudice des dispositions en matière de mise en congé politique d'offre), aucun emploi de la catégorie du personnel auxiliaire d'éducation tel que défini à l'article 7 de l'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel paramédical, du personnel psychologique, du personnel social des établissements d'enseignement préscolaire, primaire, spécial, moyen technique, artistique et supérieur non-universitaire de la Communautaire française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, ne peut donner lieu à une désignation ou à un engagement à titre temporaire. &lt;DCFR 1997-07-24/61, art. 289, 002; En vigueur : 01-09-1997&gt;
+
+Les membres du personnel nommés ou engagés à titre définitif dans l'une des fonctions mentionnées à l'alinéa 1er conservent le bénéfice de leur nomination ou de leur engagement à titre définitif ainsi que l'avancement pécuniaire et les revalorisations barémiques.
+
+[<sup>1</sup> Pour l'application de l'alinéa précédent, les membres du personnel auxiliaire d'éducation qui ont bénéficié d'une nomination ou d'un engagement à titre définitif dans l'enseignement supérieur subventionné de type court sur la base des dispositions, selon le cas, de l'arrêté royal du 30 juillet 1975 relatif aux titres jugés suffisants dans les établissements subventionnés d'enseignement technique et d'enseignement professionnel secondaire de plein exercice et de promotion sociale, de l'arrêté royal du 30 juillet 1975 relatif aux titres jugés suffisants dans l'enseignement secondaire dispensé dans les établissements libres d'enseignement moyen ou d'enseignement normal subventionnés, y compris l'année postsecondaire psychopédagogique, de l'arrêté royal du 30 juillet 1975 relatif aux titres jugés suffisants dans l'enseignement secondaire dispensé dans les établissements d'enseignement moyen ou d'enseignement normal officiels subventionnés, de l'arrêté royal du 4 août 1975 relatif aux titres jugés suffisants dans les établissements libres subventionnés dispensant l'enseignement secondaire conformément à la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire ou de l'arrêté royal du 4 août 1975 relatif aux titres jugés suffisants dans les établissements officiels subventionnés dispensant l'enseignement secondaire conformément à la loi du 19 juillet 1971 relative à la structure générale et à l'organisation de l'enseignement secondaire, conservent à titre personnel le bénéfice de leur nomination ou de leur engagement à titre définitif ainsi que l'avancement pécuniaire et les revalorisations barémiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFR 2008-05-09/75, art. 17, 013; En vigueur : 01-09-1996&gt;
+
+##### Art. 29
+
+Dans les établissements d'enseignement supérieur de type court qui organisaient également de l'enseignement secondaire, les membres du personnel auxiliaire d'éducation et du personnel administratif nommés ou engagés à titre définitif à la date du 1er mars 1996 sont réputés être nommés ou engagés à titre définitif dans l'établissement d'enseignement supérieur, dans la limite du nombre d'emplois visés à l'alinéa 2.
+
+Le nombre d'emplois est déterminé suivant (les articles 3 et 18) de l'arrêté royal du 15 avril 1977 fixant les règles et les conditions de calcul du nombre d'emplois dans certaines fonctions du personnel auxiliaire d'éducation et du personnel administratif des établissements d'enseignement secondaire et d'enseignement supérieur, à l'exception de l'enseignement universitaire, sur base de la population exclusive d'étudiants de l'enseignement supérieur, lissée sur les trois années précédentes en prenant le 1er février 1994 comme date de référence. &lt;DCFR 1997-07-24/61, art. 290, 002; En vigueur : 01-09-1996&gt;
+
+Lorsque le nombre de membres du personnels visés à l'alinéa 1er est supérieur au nombre d'emplois disponibles, selon le calcul défini à l'alinéa 2, l'ancienneté de service détermine la dévolution de ces dits emplois.
+
+##### Art. 30
+
+Pendant la durée de leur activité au sein des Hautes Ecoles, ils sont soumis aux dispositions des articles 17 à 27.
+
+##### Art. 31
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+## CHAPITRE V. - Du personnel administratif.
+
+##### Art. 32
+
+Par rapport aux fonctions de la catégorie du personnel administratif visée dans (le décret du ... (Justel supplée : 12 mai 2004) fixant le statut des membres du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement organisé par la Communauté française), le Gouvernement peut définir de nouvelles fonctions ayant trait à la gestion administrative et à la gestion comptable des Hautes Ecoles. &lt;DCFR 2004-05-12/76, art. 330, 008; En vigueur : 01-09-2004&gt;
+
+Ces fonctions sont fixées conformément aux grades de l'annexe II de l'arrêté du Gouvernement de la Communauté française du 10 avril 1995 portant statut des agents des Services du Gouvernement de la Communauté française. Les traitements sont fixés conformément aux dispositions de l'arrêté du Gouvernement de la Communauté française du 10 avril 1995 portant statut pécuniaire des agents des Services du Gouvernement de la Communauté française.
+
+## CHAPITRE Vbis. [<sup>1</sup> - De l'indemnisation des frais informatiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-12-14/15, art. 80, 022; En vigueur : 01-01-2022&gt;
+
+##### Art. 32bis.
+
+[<sup>1</sup> Les membres du personnel visés par le présent décret, à l'exception du personnel administratif, sont indemnisés pour l'utilisation à des fins professionnelles de leur outil informatique privé et de leur connexion internet privée au titre de remboursement de frais propres à l'employeur, sauf s'ils bénéficient déjà d'une telle indemnité en application des articles 6 et 20 du décret du 14 mars 2019 portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs ou de l'article 112bis du décret du 16 avril 1991 organisant l'enseignement de promotion sociale.
+
+Cette indemnisation leur est octroyée selon les mêmes modalités et conditions que celles prévues aux articles 6, § 2, alinéa 2, et 20, § 2, alinéa 2, du décret du 14 mars 2019 précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2022-12-14/15, art. 80, 022; En vigueur : 01-01-2022&gt;
+
+## CHAPITRE VI. - Dispositions modificatives, abrogatoires, transitoires et finales.
+
+### Section 1. - Dispositions modificatives et abrogatoires.
+
+##### Art. 33
+
+Par fonctions de recrutement, de sélection et de promotion telles que visées dans l'arrêté royal du 22 mars 1969, le décret du 1er février 1993 et le décret du 6 juin 1994 ainsi que dans leurs arrêtés d'application et dans l'arrêté royal du 13 juin 1976 réglant l'octroi d'une allocation aux membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation et du personnel paramédical de l'enseignement de l'Etat désignés provisoirement à une fonction de sélection ou à une fonction de promotion, il y a lieu, pour les membres du personnel directeur et enseignant des Hautes Ecoles, d'entendre respectivement : fonctions de rang 1, de rang 2 et fonctions électives telles que visées à l'article 5 du présent décret.
+
+##### Art. 34
+
+(Abrogé) &lt;DCFR 1999-02-08/41, art. 42, 004; En vigueur : 01-02-1999&gt;
+
+##### Art. 35
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+##### Art. 36
+
+L'arrêté de l'Exécutif de la Communauté française du 2 octobre 1968 déterminant et classant les fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique, du personnel social des établissements d'enseignement préscolaire, primaire, spécial, moyen, technique, artistique et supérieur non universitaire de la Communauté française et les fonctions des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, tel qu'il a été modifié, n'est pas applicable à la catégorie du personnel directeur et enseignant des Hautes Ecoles.
+
+##### Art. 37
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+##### Art. 38
+
+(Alinéa 1 abrogé) &lt;DCFR 1999-02-08/41, art. 42, 004; En vigueur : 01-02-1999&gt;
+
+Le chapitre IIbis de ce même arrêté n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 39
+
+(Abrogé) &lt;DCFR 1999-02-08/41, art. 42, 004; En vigueur : 01-02-1999&gt;
+
+##### Art. 40
+
+(Abrogé) &lt;DCFR 1999-02-08/41, art. 42, 004; En vigueur : 01-02-1999&gt;
+
+##### Art. 41
+
+L'article 1er de l'arrêté royal du 22 juillet 1969 déterminant les fonctions de recrutement dont doivent être titulaires les membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation et du personnel paramédical des établissements de l'enseignement de l'Etat, pour pouvoir être nommés aux fonctions de sélection tel qu'il a été modifié, n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 42
+
+L'article 1er de l'arrêté royal du 31 juillet 1969 déterminant les fonctions de recrutement et les fonctions de sélection dont doivent être titulaires les membres du personnel de l'enseignement de l'Etat pour pouvoir être nommés aux fonctions de promotion de la catégorie du personnel directeur et enseignant des établissements d'enseignement de l'Etat tel qu'il a été modifié, n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 43
+
+L'arrêté royal du 31 juillet 1969 déterminant les fonctions de recrutement et les fonctions de sélection dont doivent être titulaires les membres du personnel de l'enseignement de l'Etat pour pouvoir être nommés aux fonctions de promotion de la catégorie du personnel auxiliaire d'éducation des établissements d'enseignement de l'Etat n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 44
+
+&lt;Abrogé par DCFR 2019-02-21/06, art. 50, 021; En vigueur : 24-03-2019&gt;
+
+##### Art. 45
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+##### Art. 45bis
+
+[<sup>1</sup> Le chapitre F de l'arrêté royal du 27 juin 1974 fixant au 1er avril 1972 les échelles des fonctions des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement de l'Etat, des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, des membres du personnel du service de l'inspection de l'enseignement par correspondance et de l'enseignement primaire subventionné et les échelles des grades du personnel des centres psycho-médico-sociaux de l'Etat tel qu'il a été modifié, est applicable aux Hautes Ecoles moyennant la modification suivante : l'intitulé de la fonction figurant ci-après en colonne de gauche est remplacé par l'intitulé repris en colonne de droite (voir Tableau 1 : Article 4).
+
+ASSISTANT-TECHNICIEN MAITRE DE FORMATION PRATIQUE (dans l'enseignement supérieur social de type long en communication appliquée)
+
+Tableau 1 : Article 4
+
+La présente disposition prend effet au 1er septembre 1996.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFR 2007-07-06/49, art. 4, 011; En vigueur : 24-08-2007&gt;
+
+##### Art. 46
+
+L'arrêté royal du 31 juillet 1969 déterminant les règles selon lesquelles est fixée la composition des jurys de promotion prévus par l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, tel qu'il a été modifié, n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 47
+
+L'arrêté ministériel du 30 septembre 1969 fixant le modèle du rapport sur la manière de servir des stagiaires prévu à l'article 48 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 48
+
+(Abrogé) &lt;DCFR 1999-02-08/41, art. 42, 004; En vigueur : 01-02-1999&gt;
+
+##### Art. 49
+
+L'arrêté royal du 23 novembre 1970 fixant les attributions des proviseurs et des sous-directeurs des établissements d'enseignement de l'Etat n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 50
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+##### Art. 51
+
+L'arrêté royal du 27 juillet 1976 réglementant la mise en disponibilité par défaut d'emploi, la réaffectation et l'octroi d'une subvention-traitement d'attente dans l'enseignement subventionné, tel qu'il a été modifié, n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 52
+
+Les articles 4 et 5 de l'arrêté royal n° 297 du 31 mars 1984 relatif aux charges, traitements, subventions-traitements et congés pour prestations réduites dans l'enseignement et les centres psycho-médico-sociaux tel qu'il a été modifié, ne sont pas applicables aux Hautes Ecoles.
+
+##### Art. 53
+
+L'article 29 de l'arrêté royal n° 460 du 17 septembre 1986 établissant les plans de rationalisation et de programmation de l'enseignement supérieur de type court et modifiant la législation relative à l'organisation de l'enseignement supérieur de type long est abrogé.
+
+##### Art. 54
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+##### Art. 55
+
+L'arrêté de l'Exécutif de la Communauté française du 17 février 1993 pris en exécution de l'article 79 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements de l'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements n'est pas applicable aux Hautes Ecoles.
+
+##### Art. 56
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+##### Art. 57
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+##### Art. 58
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+### Section 2. - Dispositions transitoires.
+
+##### Art. 59
+
+Les membres du personnel nommés ou engagés à titre définitif au plus tard le 1er juillet 1997 qui se sont portés candidats à une désignation ou un engagement à titre temporaire dans l'une des fonctions suivantes : professeur de cours généraux, professeur de psychologie, de pédagogie et méthodologie, professeur de morale, professeur de cours spéciaux, professeur de cours techniques, professeur de cours techniques et de pratique professionnelle, professeur de cours artistiques sont réputés nommés ou engagés à titre définitif à la nouvelle fonction correspondante mentionnée à l'article 38.
+
+##### Art. 60
+
+(Abrogé) &lt;DCFR 1997-07-24/61, art. 305, 002; En vigueur : 01-09-1997&gt;
+
+##### Art. 61
+
+A titre transitoire, les dispositions prévues respectivement aux articles 30 à 45 de l'arrêté royal du 22 mars 1969, aux articles 43; 45 à 47 du décret du 1er février 1993 et aux articles 31; 33 à 36 du décret du 6 juin 1994 pourront donner lieu à des nominations ou engagements à titre définitif au plus tard le 1er juillet 1997 dans les Hautes Ecoles de la Communauté française, le 1er octobre 1996 dans les Hautes Ecoles libres subventionnées et le 1er novembre 1996 dans les Hautes Ecoles officielles subventionnées.
+
+##### Art. 62
+
+§ 1. Le Gouvernement de la Communauté française fixe la date et les conditions auxquelles peuvent être nommés à titre définitif en fonction principale les membres du personnel qui occupent un emploi de directeur, sous-directeur, secrétaire de direction et éducateur économe dans un établissement d'enseignement supérieur de type court de la Communauté française.
+
+\- Pour fixer les conditions de nomination visées à l'alinéa 1er, le Gouvernement peut déroger, à titre exceptionnel dans l'enseignement supérieur de type court organisé par la Communauté française :
+
+\- aux articles 1er, 4 et 5 de la loi du 22 juin 1964 relative au statut des membres du personnel de l'enseignement de l'Etat;
+
+\- aux dispositions du chapitre 5 de la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur;
+
+\- aux articles 78, 80, 86 à 91, 92 et 97, 5° et 8°, de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du service d'inspection chargé de la surveillance de ces établissements ainsi qu'aux arrêtés pris en exécution de celui-ci.
+
+(§ 2. A titre exceptionnel et par dérogation à l'article 10, § 7, de la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur et à l'article 31 du décret du 9 septembre 1996 relatif au financement des hautes écoles organisées ou subventionnées par la Communauté française, les membres du personnel qui, avant l'entrée en vigueur du présent décret, occupent temporairement un emploi dans une fonction de sélection de sous-directeur ou dans une fonction de promotion de directeur dans l'enseignement officiel subventionné de type court, peuvent être nommés à titre définitif avant l'entrée en vigueur du présent décret, à condition qu'à la date de nomination, ils satisfassent, selon le cas, aux conditions de l'article 40 du décret du 6 juin 1994, à l'exception des 5° et 6° ou aux conditions de l'article 49 du décret du 6 juin 1994, à l'exception des 4° et 5°.
+
+Par dérogation aux articles 37, alinéa 1er et 45, alinéa 1er, du décret du 6 juin 1994, les membres du personnel visés ci-dessus peuvent être nommés à titre définitif au plus tard à la date où, dans le cas considéré, l'emploi deviendrait vacant. Dans tous les cas, cette possibilité devient caduque le 15 septembre 2001.) &lt;DCFR 1997-07-24/61, art. 291, 002; En vigueur : 15-06-1996&gt;
+
+##### Art. 62bis
+
+&lt;DFG 1998-07-17/34, art. 45, 003; En vigueur : 01-09-1998&gt; A titre exceptionnel et par dérogation à l'article 10, § 7, de la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur, à l'article 31 du décret du 9 septembre 1996 relatif au financement des hautes écoles organisées ou subventionnées par la Communauté française, et à l'article 13, § 1, 2, a) et b) et 3 a) et b), peuvent être nommés ou engagés à titre définitif au plus tard le 1er janvier 1999, les membres du personnel qui à cette date occupent à titre principal depuis deux années académiques au moins, une fonction de chef de travaux ou de chef de bureau d'études.
+
+##### Art. 63
+
+Pour les membres du personnel nommés ou engagés à titre définitif avant l'entrée en vigueur du présent décret et visés à l'article 27, § 1er, le Gouvernement peut autoriser un changement d'affectation tel que défini au § 4 du même article, et ce pour des raisons exceptionnelles.
+
+##### Art. 63bis
+
+&lt;Inséré par DCFR 1997-07-24/61, art. 293; En vigueur : 30-06-1996&gt; Par dérogation à l'article 27, les membres du personnel nommés à titre définitif dans un institut d'enseignement supérieur et qui ont été mis en disponibilité par défaut d'emploi au 30 juin 1996 par l'application de l'arrêté du Gouvernement de la Communauté française du 24 juillet 1996 portant fusion de l'Institut d'Enseignement supérieur économique de la Communauté française à Mouscron et de la Haute école provinciale du Hainaut occidental ou de l'arrêté du Gouvernement de la Communauté française du 24 juillet 1996 portant fusion de l'Institut d'Enseignement supérieur technique, paramédical et pédagogique de la Communauté française à Irchonwelz et de la Haute école provinciale du Hainaut occidental, obtiennent d'office un changement d'affection définitif dans la fonction correspondante, dans la Haute école de la Communauté française du Hainaut, à la date du 1er septembre 1996.
+
+##### Art. 64
+
+Par dérogation à l'article 7, les membres du personnel désignés ou engagés à titre temporaire et nommés ou engagés à titre définitif au plus tard le 30 juin 1996 dans la fonction de professeur de cours spéciaux telle que visée à l'article 10, 8°, de l'arrêté de l'Exécutif du 22 avril 1969 fixant les titres requis des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique, du personnel social des établissements d'enseignement préscolaire, primaire, spécial, moyen, technique, artistique et supérieur non universitaire de la Communauté française et des internats dépendant de ces établissements prestent au plus 480 heures/année de cours.
+
+##### Art. 65
+
+Par dérogation à l'article 28, les bibliothécaires nommés ou engagés à titre définitif dans l'enseignement supérieur (au plus tard le 1er janvier 1997 sont réputés exercer à la date du 1er septembre 1996) : &lt;DCFR 1997-07-24/61, art. 284, 002; En vigueur : 01-09-1996&gt;
+
+\- la fonction de maître assistant pour ceux qui sont porteurs d'un titre de niveau supérieur du deuxième ou troisième degré;
+
+\- la fonction de maître de formation pratique pour ceux qui ne sont pas porteurs d'un titre de niveau supérieur du deuxième ou troisième degré.
+
+(Ils conservent dans leur nouvelle fonction, l'ancienneté acquise au sein de leur pouvoir organisateur ou au sein des pouvoirs organisateurs constitutifs de la haute école.) &lt;DFG 2000-07-20/45, art. 8, 005; En vigueur : 01-09-2000&gt;
+
+Ils sont principalement chargés de la responsabilité du centre de documentation.
+
+##### Art. 65bis
+
+&lt;Inséré par DCFR 1999-02-08/37, art. 59; En vigueur : 01-09-1996&gt; La fonction d'assistant-technicien dans l'enseignement supérieur social de type long en communication appliquée telle que visée à l'article 16 du décret du 19 juillet 1993 organisant l'enseignement supérieur social de type long en communication appliquée, est remplacée par la fonction de maître de formation pratique.
+
+### Section 3. - Dispositions finales.
+
+##### Art. 66
+
+Le Gouvernement peut coordonner les dispositions législatives, décrétales et réglementaires relatives à l'enseignement supérieur organisé au sein des Hautes Ecoles ainsi que les dispositions qui les auraient expressément ou implicitement modifiées au moment où cette coordination sera établie.
+
+A cette fin, il peut :
+
+1° modifier l'ordre, le numérotage et, en général, la présentation des dispositions à coordonner, sous d'autres divisions;
+
+2° modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec le numérotage nouveau;
+
+3° modifier la rédaction des dispositions à coordonner, en vue d'assurer leur concordance et d'en unifier la terminologie, sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+La coordination portera l'intitulé suivant :
+
+"Décret relatif à l'enseignement supérieur organisé au sein des Hautes Ecoles, coordonné le ..."
+
+##### Art. 67
+
+Le présent décret entre en vigueur le 1er septembre 1996, à l'exception des articles 10, 11, 12, 13 et 14 qui entrent en vigueur le 1er septembre 1997 et de l'article 62 qui produit ses effets le 15 juin 1996.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 juillet 1996.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, et la Recherche scientifique, du Sport et des Relations internationales,
+
+J.-P. GRAFE
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VANCAUWENBERGE

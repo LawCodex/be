@@ -1,0 +1,51 @@
+---
+title: "Décret portant approbation de l'accord de coopération relatif à la coordination et à la gestion des aides octroyées par la Commission européenne dans le domaine des ressources humaines et à la création de l'Agence Fonds Social Européen, conclu à Bruxelles le 2 septembre 1998 entre le Gouvernement wallon, le Gouvernement de la Communauté française et la Commission communautaire française de la Région de Bruxelles-Capitale."
+identifier: "1999029514"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029514/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE FRANCAISE"
+jurisdiction: be
+region: communaute-francaise
+language: fr
+date: 1999-05-05
+published: 2000-01-06
+entry_into_force: 2000-01-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029514/justel"
+department: "Communauté française"
+retrieved: 2026-10-12
+---
+
+# 5 MAI 1999. - Décret portant approbation de l'accord de coopération relatif à la coordination et à la gestion des aides octroyées par la Commission européenne dans le domaine des ressources humaines et à la création de l'Agence Fonds Social Européen, conclu à Bruxelles le 2 septembre 1998 entre le Gouvernement wallon, le Gouvernement de la Communauté française et la Commission communautaire française de la Région de Bruxelles-Capitale.
+
+Le Conseil de la Communauté française a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+L'Accord de coopération conclu à Bruxelles, le 2 septembre 1998, entre le Gouvernement wallon, le Gouvernement de la Communauté française et la Commission communautaire française de la Région de Bruxelles-Capitale, conformément à l'article 92bis de la loi spéciale de réformes institutionnelles, instituant un régime de coopération dans la coordination et la gestion des aides octroyées par la Commission européenne dans le domaine des ressources humaines et à la création d'une Agence Fonds Social Européen est approuvé.
+
+## Art. 2
+
+Un service à gestion séparée au sens de l'article 140 des lois coordonnées sur la comptabilité de l'Etat est créé au sein des Services du Gouvernement de la Communauté française de Belgique. Il est dénommé " Agence Fonds Social Européen ".
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 5 mai 1999.
+
+La Ministre-Présidente du Gouvernement de la Communauté française, chargée de l'Education, de l'Audiovisuel, de l'Aide à la Jeunesse, de l'Enfance et de la Promotion de la Santé,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Enseignement supérieur, de la Recherche scientifique, du Sport et des Relations internationales,
+
+W. ANCION
+
+Le Ministre de la Culture et de l'Education permanente,
+
+Ch. PICQUE
+
+Le Ministre du Budget, des Finances et de la Fonction publique,
+
+J.-Cl. VAN CAUWENBERGHE
+
+(Pour l'accord, voir %%1998-09-02/40%%).
