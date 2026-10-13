@@ -1,0 +1,99 @@
+---
+title: "Décret modifiant certaines dispositions de la loi du 8 juillet 1976 organique des centres publics d'action sociale relatives aux receveurs régionaux"
+identifier: "2019204162"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019204162/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2019-05-02
+published: 2019-09-20
+entry_into_force: 2019-09-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019204162/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 2 MAI 2019. - Décret modifiant certaines dispositions de la loi du 8 juillet 1976 organique des centres publics d'action sociale relatives aux receveurs régionaux
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle, en application de l'article 138 de la Constitution, une matière visée à l'article 128 de celle-ci.
+
+## Art. 2
+
+A l'article 30, alinéa 7, de la loi du 8 juillet 1976 organique des centres publics d'action sociale, modifié par le décret du 29 mars 2018, le mot " receveur " est remplacé par les mots " directeur financier ".
+
+## Art. 3
+
+L'article 43 de la même loi, modifié en dernier lieu par le décret du 19 juillet 2018, est remplacé par ce qui suit :
+
+" Art. 43. § 1er. Tous les membres du personnel sont recrutés ou nommés par le conseil de l'action sociale.
+
+Le conseil de l'action sociale peut déléguer ce pouvoir au bureau permanent ou aux comités spéciaux.
+
+Sans préjudice des dispositions de l'article 56, les recrutements et nominations se font conformément à des conditions de recrutement et d'avancement fixées au préalable et dans les limites du cadre.
+
+§ 2. Dans les centres publics d'action sociale où l'exercice de la fonction de directeur financier ne requiert pas une activité à temps plein, cette fonction est confiée à un receveur régional ou à un directeur financier à temps partiel, sans préjudice de l'application de l'article L1124-21, § 2, du Code de la démocratie locale et de la décentralisation et de l'article 41ter, § 4.
+
+Par dérogation à l'alinéa 1er, un receveur régional peut être désigné, pour une période de quatre mois renouvelable une seule fois, aux fonctions de directeur financier dans tout centre public d'action sociale qui en ferait la demande, en cas de vacance de l'emploi ou en cas d'absence du titulaire pour une durée excédant trente jours.
+
+Le Gouvernement arrête les conditions et modalités suivant lesquelles cette fonction est confiée en vertu des alinéas 1er et 2.
+
+§ 3. Sauf disposition contraire prévue par la présente loi, les dispositions du Code de la démocratie locale et de la décentralisation, ou adoptées en vertu de celui-ci, concernant les receveurs régionaux exerçant leurs fonctions au sein d'une commune sont applicables au receveur régional exerçant ses fonctions au sein d'un centre public d'action sociale.
+
+§ 4. Lorsque le centre public d'action sociale décide de ne plus confier la fonction de directeur financier à un receveur régional, il communique sa décision de créer l'emploi de directeur financier au gouverneur.
+
+Le centre public d'action sociale ne peut pas publier la vacance visée à l'alinéa 1er avant que le gouverneur lui ait notifié sa décision de mettre fin à la mission de tout receveur régional dans le centre.
+
+Le centre public d'action sociale qui crée l'emploi de directeur financier peut toutefois nommer immédiatement à cet emploi un receveur régional. Cette délibération produit directement ses effets, sans préjudice toutefois des pouvoirs de l'autorité de tutelle.
+
+Les receveurs régionaux sont réputés satisfaire à toutes les conditions de nomination à l'emploi de directeur financier.
+
+§ 5. Dans la mesure où le centre applique l'article L1124-21, § 2 du Code de la démocratie locale et de la décentralisation, le directeur financier du centre est nommé par le conseil de l'action sociale. Dans ce cas, il exerce la fonction de directeur financier du centre dans les locaux de ce dernier et selon un horaire déterminé de commun accord par le centre et la commune. ".
+
+## Art. 4
+
+A l'article 46 de la même loi, remplacé par le décret du 18 avril 2013 et modifié par le décret du 19 juillet 2018, il est inséré un paragraphe 6bis rédigé comme suit :
+
+" § 6bis. En cas d'absence du receveur régional, le gouverneur ou le commissaire d'arrondissement délégué procède, s'il y a lieu, à la désignation d'un receveur régional faisant fonction. Cette désignation est opérée sur base volontaire. Si aucun receveur régional ne s'est porté volontaire, le gouverneur ou le commissaire d'arrondissement délégué peut désigner d'office un receveur régional dans le respect des conditions éventuellement fixées par le Gouvernement.
+
+Lors de son installation et de la cessation de ses fonctions, il est procédé, pour chacun des centres publics d'action sociale du ressort du receveur régional absent, à l'établissement du compte de fin de gestion et à la remise de l'encaisse et des pièces comptables, sous la surveillance du gouverneur ou du commissaire d'arrondissement délégué de la province dans laquelle se situe chacun des centres concernés. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 2 mai 2019.
+
+Le Ministre-Président,
+
+W. BORSUS
+
+La Ministre de l'Action sociale, de la Santé, de l'Egalité des Chances, de la Fonction publique et de la Simplification administrative,
+
+A. GREOLI
+
+Le Ministre de l'Economie, de l'Industrie, de la Recherche, de l'Innovation, du Numérique, de l'Emploi et de la Formation,
+
+P.-Y. JEHOLET
+
+Le Ministre de l'Environnement, de la Transition écologique, de l'Aménagement du Territoire, des Travaux publics, de la Mobilité, des Transports, du Bien-être animal et des Zonings,
+
+C. DI ANTONIO
+
+Le Ministre du Budget, des Finances, de l'Energie, du Climat et des Aéroports,
+
+J.-L. CRUCKE
+
+Le Ministre de l'Agriculture, de la Nature, de la Forêt, de la Ruralité, du Tourisme, du Patrimoine et délégué à la Grande Région,
+
+R. COLLIN
+
+La Ministre des Pouvoirs locaux, du Logement et des Infrastructures sportives,
+
+V. DE BUE

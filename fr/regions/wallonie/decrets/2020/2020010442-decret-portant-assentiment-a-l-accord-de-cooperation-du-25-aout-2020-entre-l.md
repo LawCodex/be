@@ -1,0 +1,67 @@
+---
+title: "Décret portant assentiment à l'accord de coopération du 25 août 2020 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune, concernant le traitement conjoint de données par Sciensano et les centres de contact désignés par les entités fédérées compétentes ou par les agences compétentes, par les services d'inspection d'hygiène et par les équipes mobiles dans le cadre d'un suivi des contacts auprès des personnes (présumées) infectées par le coronavirus COVID-19 se fondant sur une base de données auprès de Sciensano"
+identifier: "2020010442"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2020/09/30/2020010442/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2020-09-30
+published: 2020-10-15
+entry_into_force: 2020-10-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2020/09/30/2020010442/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 30 SEPTEMBRE 2020. - Décret portant assentiment à l'accord de coopération du 25 août 2020 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune, concernant le traitement conjoint de données par Sciensano et les centres de contact désignés par les entités fédérées compétentes ou par les agences compétentes, par les services d'inspection d'hygiène et par les équipes mobiles dans le cadre d'un suivi des contacts auprès des personnes (présumées) infectées par le coronavirus COVID-19 se fondant sur une base de données auprès de Sciensano
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle, en vertu de l'article 138 de la Constitution, des matières visées aux articles 127 et 128 de celle-ci.
+
+## Art. 2
+
+Assentiment est donné à l'accord de coopération du 25 août 2020 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune, concernant le traitement conjoint de données par Sciensano et les centres de contact désignés par les entités fédérées compétentes ou par les agences compétentes, par les services d'inspection d'hygiène et par les équipes mobiles dans le cadre d'un suivi des contacts auprès des personnes (présumées) infectées par le coronavirus COVID-19 se fondant sur une base de données auprès de Sciensano.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 30 septembre 2020.
+
+Le Ministre-Président du Gouvernement wallon,
+
+E. DI RUPO
+
+Le Ministre de l'Economie, du Commerce extérieur, de la Recherche et de l'Innovation, du Numérique, de l'Aménagement du territoire, de l'Agriculture, de l'IFAPME et des Centres de compétences,
+
+W. BORSUS
+
+Le Ministre du Climat, de l'Energie et de la Mobilité,
+
+Ph. HENRY
+
+La Ministre de l'Emploi, de la Formation, de la Santé, de l'Action sociale, de l'Egalité des chances et des Droits des femmes,
+
+C. MORREALE
+
+Le Ministre du Budget et des Finances, des Aéroports et des Infrastructures sportives,
+
+J.-L. CRUCKE
+
+Le Ministre du Logement, des Pouvoirs locaux et de la Ville,
+
+P.-Y. DERMAGNE
+
+La Ministre de la Fonction publique, de l'Informatique, de la Simplification administrative, en charge des allocations familiales, du Tourisme, du Patrimoine et de la Sécurité routière,
+
+V. DE BUE
+
+La Ministre de l'Environnement, de la Nature, de la Forêt, de la Ruralité et du Bien-être animal,
+
+C. TELLIER

@@ -1,0 +1,81 @@
+---
+title: "Décret spécial modifiant l'article 41 de la loi spéciale du 8 août 1980 de réformes institutionnelles afin de consacrer le droit pour l'auteur d'une pétition d'être entendu"
+identifier: "2020203745"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2020/09/03/2020203745/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2020-09-03
+published: 2020-09-10
+entry_into_force: 2020-09-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2020/09/03/2020203745/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 3 SEPTEMBRE 2020. - Décret spécial modifiant l'article 41 de la loi spéciale du 8 août 1980 de réformes institutionnelles afin de consacrer le droit pour l'auteur d'une pétition d'être entendu
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret spécial règle une matière visée à l'article 118, § 2, de la Constitution.
+
+## Art. 2
+
+Pour ce qui concerne la Région wallonne, l'article 41 de la loi spéciale de réformes institutionnelles du 8 août 1980 est remplacé par ce qui suit :
+
+" Conformément à l'article 28 de la Constitution, chacun a le droit d'adresser au Parlement des pétitions signées par une ou plusieurs personnes.
+
+Le Parlement a le droit de renvoyer au Gouvernement les pétitions qui lui sont adressées. Le Gouvernement est tenu de donner des explications sur leur contenu, chaque fois que le Parlement le demande.
+
+Pour autant qu'une pétition ait recueilli le nombre de signatures respectant les conditions fixées par le décret et qu'elle respecte les modalités visées à l'alinéa 4, l'auteur d'une pétition ou tout autre signataire désigné à cette fin par l'auteur de cette pétition a le droit d'être entendu. Par auteur de la pétition, il y a lieu d'entendre le premier signataire de la pétition.
+
+Pour ouvrir le droit à être entendu, la pétition doit formuler une question concrète à propos d'un sujet relevant d'une compétence exercée par la Région et qui n'est pas en contradiction avec les droits de l'homme et les libertés fondamentales garantis par le titre II de la Constitution et par les traités internationaux ratifiés par la Belgique.
+
+L'auteur d'une pétition a droit à une réponse dans les six mois suivant l'introduction de la pétition. "
+
+## Art. 3
+
+Le présent décret spécial entre en vigueur à la date d'entrée en vigueur du décret visé à l'article 41, alinéa 3, de la loi spéciale du 8 août 1980 de réformes institutionnelles, remplacé par l'article 2 du présent décret.
+
+---
+
+Promulguons le présent décret spécial, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 3 septembre 2020.
+
+Le Ministre-Président,
+
+E. DI RUPO
+
+Le Vice-Président et Ministre de l'Economie, du Commerce extérieur, de la Recherche et de l'Innovation, du Numérique, de l'Aménagement du territoire, de l'Agriculture, de l'IFAPME et des Centres de compétences,
+
+W. BORSUS
+
+Le Vice-Président et Ministre du Climat, de l'Energie et de la Mobilité,
+
+Ph. HENRY
+
+La Vice-Présidente et Ministre de l'Emploi, de la Formation, de la Santé, de l'Action sociale, de l'Egalité des chances et des Droits des femmes,
+
+C. MORREALE
+
+Le Ministre du Budget et des Finances, des Aéroports et des Infrastructures sportives,
+
+J.-L. CRUCKE
+
+Le Ministre du Logement, des Pouvoirs locaux et de la Ville,
+
+P.-Y. DERMAGNE
+
+La Ministre de la Fonction publique, de l'Informatique, de la Simplification administrative, en charge des allocations familiales, du Tourisme, du Patrimoine et de la Sécurité routière,
+
+V. DE BUE
+
+La Ministre de l'Environnement, de la Nature, de la Forêt, de la Ruralité et du Bien-être animal,
+
+C. TELLIER
