@@ -1,0 +1,591 @@
+---
+title: "Décret portant le statut de l'Universiteit Hasselt et du 'Hoge Raad voor het Hoger Onderwijs in Limburg' (Conseil supérieur de l'Enseignement supérieur au Limbourg) (TRADUCTION)"
+identifier: "2008036002"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008036002/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2008-06-20
+published: 2008-08-12
+entry_into_force: 2008-08-12
+last_amended: 2024-05-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008036002/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 12-08-2008 et mise à jour au 17-05-2024"
+retrieved: 2026-10-12
+---
+
+# 20 JUIN 2008. - Décret portant le statut de l'Universiteit Hasselt et du 'Hoge Raad voor het Hoger Onderwijs in Limburg' (Conseil supérieur de l'Enseignement supérieur au Limbourg) (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE Ier. - Dispositions introductives.
+
+###### Art. 1
+
+Le présent décret règle une matière communautaire.
+
+###### Art. 2
+
+Pour l'application du présent décret on entend par :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° personnel académique autonome : les membres du personnel [<sup>1</sup> visés aux articles V.3 et V.4 du Code de l'Enseignement supérieur]<sup>1</sup>;
+
+3° personnel académique assistant : les membres du personnel [<sup>1</sup> visés à l'article V.3 et aux articles V.5 à V.8 du Code de l'Enseignement supérieur]<sup>1</sup>, ainsi que tous les boursiers et collaborateurs scientifiques, c'est-à-dire du personnel académique spécial, quelle que soit la nature de leur emploi ou l'origine de leur rémunération;
+
+4° personnel administratif et technique : les membres du personnel [<sup>1</sup> visés aux articles V.47 à V.63 du Code de l'Enseignement supérieur]<sup>1</sup>, ainsi que les collaborateurs chargés du soutien du processus décisionnel, les collaborateurs administratifs et les collaborateurs techniques qui ne sont pas rémunérés à charge des allocations de fonctionnement;
+
+5° schools : les entités chargées de l'organisation de l'enseignement de la 'transnationale Universiteit Limburg'.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/33, art. IV.16, 004; En vigueur : 01-09-2015&gt;
+
+## TITRE II. - L'Universiteit Hasselt.
+
+### CHAPITRE Ier. - Dispositions générales.
+
+###### Art. 3
+
+L'Universiteit Hasselt est une institution universitaire dotée de la personnalité juridique.
+
+L'Universiteit Hasselt a son siège administratif dans l'arrondissement administratif de Hasselt.
+
+###### Art. 4
+
+La liberté académique est le principe de base de l'enseignement, de la recherche et des services scientifiques ayant un objectif social étendu à l'Universiteit Hasselt.
+
+### CHAPITRE II. - Les organes d'administration et de gestion et les fonctions d'administration et de gestion.
+
+#### Section 1re. - Disposition générale.
+
+###### Art. 5
+
+Les organes d'administration et de gestion et les fonctions d'administration et de gestion de l'Universiteit Hasselt sont :
+
+1° le conseil d'administration;
+
+2° le collège administratif;
+
+3° le président et le vice-président;
+
+4° le recteur et les deux vice-recteurs;
+
+5° [<sup>1</sup> les deux administrateurs]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-04-19/22, art. 2, 007; En vigueur : 01-07-2024&gt;
+
+###### Art. 5/1
+
+[<sup>1</sup> Le conseil d'administration fixe les règles fondamentales relatives à l'organisation des directives et des élections dans le règlement d'ordre intérieur ou le règlement administratif. Ces règles fondamentales prévoient suffisamment de garanties pour que les deux sexes soient représentés sur une base d'équivalence au sein du conseil d'administration, des différents organes de direction de l'université pouvant prendre des décisions exécutoires, dans les différents conseils consultatifs auxquels le règlement organique pourvoit et dans les commissions de sélection. Au maximum deux tiers des membres des organes, conseils et commissions susmentionnés peuvent être du même sexe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-07-13/19, art. 6, 002; En vigueur : 01-10-2013&gt;
+
+#### Section 2. - Le conseil d'administration.
+
+##### Sous-section 1re. - Composition.
+
+###### Art. 6
+
+Le conseil d'administration se compose :
+
+1° du président et du vice-président, désignés conformément à l'article 26, § 1er;
+
+2° du recteur et des deux vice-recteurs, désignés conformément à l'article 23, §§ 2 et 3;
+
+3° [<sup>1</sup> six personnes proposées par le conseil provincial du Limbourg. Au maximum deux tiers des personnes proposées peuvent être du même sexe ;]<sup>1</sup>
+
+4° de trois représentants du secteur social et de trois représentants du secteur économique;
+
+5° d'un membre du personnel académique autonome;
+
+6° d'un membre du personnel académique assistant;
+
+7° d'un membre du personnel administratif et technique;
+
+8° de trois étudiants;
+
+9° de quatre doyens ou vice-doyens :
+
+a) des facultés de l'Universiteit Hasselt;
+
+b) des schools de la 'transnationale Universiteit Limburg', si les doyens ou les vice-doyens de celles-ci sont nommés membre du personnel de l'Universiteit Hasselt.
+
+[<sup>4</sup> Deux tiers au maximum des personnes qui sont proposées pour la représentation, visée à l'alinéa 1er, 8°, sont du même sexe.]<sup>4</sup>
+
+[<sup>4</sup> Les administrateurs ]<sup>4</sup> [<sup>3</sup> et le commissaire du gouvernement]<sup>3</sup> assistent à la réunion avec voix consultative.
+
+[<sup>2</sup> Un représentant de la Hogeschool PXL, désigné par l'organe administratif de l'institut supérieur, peut assister aux séances du conseil d'administration avec voix délibérative.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/L8, art. VI.55, 003; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. VI.56, 003; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 134, 006; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2024-04-19/22, art. 3, 007; En vigueur : 01-07-2024&gt;
+
+###### Art. 7
+
+Les membres visés à l'article 6, alinéa premier, 4°, sont désignés comme suit :
+
+1° le président siégeant prend l'initiative de faire proposer trois représentants du secteur social et trois représentants du secteur économique [<sup>2</sup> desquels au maximum deux membres de chaque secteur sont du même sexe]<sup>2</sup>;
+
+2° les représentants proposés sont ensuite désignés par le conseil d'administration siégeant, au plus tard au mois de septembre de l'année académique dans laquelle les membres siégeants des secteurs social et économique mettent fin à leur mandat.
+
+Les membres visés à l'article 6, premier alinéa, 5°, 6° et 7°, sont élus au scrutin secret respectivement par [<sup>4</sup> le]<sup>4</sup> du personnel académique autonome, [<sup>4</sup> le]<sup>4</sup> du personnel académique assistant et [<sup>4</sup> le]<sup>4</sup> du personnel administratif et technique. Pour l'élection de ces membres, les électeurs disposent chaque fois d'une seule voix. Les candidats qui recueillent le plus grand nombre de voix sont élus. [<sup>4</sup> Les autres candidats sont classés comme successeurs dans l'ordre du nombre de voix. ]<sup>4</sup>
+
+Les membres visés à l'article 6, premier alinéa, 8°, sont désignés en tenant compte de [<sup>3</sup> l'article II.327 du Code de l'Enseignement supérieur]<sup>3</sup>.
+
+[<sup>1</sup> Pour l'application du présent article :
+
+1° les membres du personnel enseignant du groupe 3 qui sont repris dans le cadre d'intégration [<sup>3</sup> visé à l'article V.209 du Code de l'Enseignement supérieur]<sup>3</sup>, sont classés dans la catégorie du personnel académique autonome;
+
+2° les membres du personnel enseignant des groupes 1 et 2 qui sont repris dans le cadre d'intégration [<sup>3</sup> visé à l'article V.209 du Code de l'Enseignement supérieur]<sup>3</sup>, sont classés dans la catégorie du personnel académique assistant;
+
+3° les membres du personnel administratif et technique qui sont repris dans le cadre d'intégration [<sup>3</sup> visé à l'article V.209 du Code de l'Enseignement supérieur]<sup>3</sup>, sont classés dans la catégorie du personnel administratif et technique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-07-13/19, art. 7, 002; En vigueur : 01-10-2013&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. VI.57, 003; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFL 2015-06-19/33, art. IV.17, 004; En vigueur : 01-09-2015&gt;
+
+(4)&lt;DCFL 2024-04-19/22, art. 4, 007; En vigueur : 01-07-2024&gt;
+
+###### Art. 8
+
+Les mandats visés à l'article 6, premier alinéa, 3° et 4° sont incompatibles avec une charge auprès de l'Universiteit Hasselt.
+
+###### Art. 9
+
+La durée des mandats visés à l'article 6, premier alinéa, 3°, 4°, 5°, 6° et 7° est de quatre ans. Les mandats sont renouvelables.
+
+La durée des mandats visés à l'article 6, premier alinéa, 8°, est d'un an. Les mandats sont renouvelables.
+
+Les mandats visés à l'article 6, premier alinéa, 3° jusqu'à 8° inclus, courent jusqu'au 30 septembre inclus de l'année académique dans laquelle le mandat du recteur en service échoit.
+
+En cas de cessation prématurée d'un mandat en cours visé à l'article 6, premier alinéa, 3° jusqu'à 9° inclus, le mandat est assumé par un remplaçant pour la durée restante.
+
+###### Art. 10
+
+Tous les membres ayant droit de vote au sein du conseil d'administration ont des droits et des devoirs égaux.
+
+Les étudiants exercent leurs compétences comme membres du conseil d'administration, en tenant compte des dispositions de [<sup>1</sup> l'article II.317, § 2, alinéa premier, 1° et l'article II.355, § 2, du Code de l'Enseignement supérieur]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/33, art. IV.18, 004; En vigueur : 01-09-2015&gt;
+
+##### Sous-section 2. - Compétence.
+
+###### Art. 11
+
+Le conseil d'administration est l'organe supérieur d'administration et de gestion et possède de ce chef tous les pouvoirs de gestion et d'administration.
+
+Il détermine également l'organisation académique et administrative de l'université.
+
+###### Art. 12
+
+Le conseil d'administration est chargé :
+
+1° de la création et de l'organisation des facultés, des départements, [<sup>4</sup> les schools interfacultaires et les schools facultaires de l'Universiteit Hasselt,]<sup>4</sup>, des services, des instituts de recherche, des chaires et de tous les autres organes et unités d'organisation académiques que le conseil estime nécessaires;
+
+2° de l'établissement du règlement de gestion, des règlements pour l'élection du recteur, des vice-recteurs et des membres des autres organes académiques, du règlement d'enseignement et des examens, du statut de l'étudiant, du règlement du personnel, du règlement disciplinaire et de tous les autres règlements [<sup>1</sup> en tenant compte de la disposition reprise à l'article 5/1]<sup>1</sup>;
+
+3° de l'approbation des directives générales relatives à l'organisation, à la coordination et au contrôle qualitatif de l'enseignement académique, de la recherche scientifique et des services scientifiques et sociaux de l'Universiteit Hasselt;
+
+4° de l'approbation et l'ajustement éventuel du plan quinquennal d'investissement et de financement;
+
+[<sup>4</sup> 4° /1 de l'approbation, sur présentation du recteur, d'un plan stratégique quadriennal ;]<sup>4</sup>
+
+5° de l'établissement et l'approbation annuels du budget, des comptes annuels et du rapport annuel de l'université;
+
+6° de déterminer le cadre organique;
+
+7° de la désignation du président, du vice-président, du recteur, des vice-recteurs;
+
+8° de la désignation et l'évaluation [<sup>4</sup> des administrateurs]<sup>4</sup>;
+
+[<sup>2</sup> 9° l'expropriation de biens immobiliers qui sont directement ou indirectement requis pour l'enseignement, la recherche, la prestation de services scientifiques et l'administration de l'université, [<sup>3</sup> conformément au Décret flamand sur les Expropriations du 24 février 2017]<sup>3</sup> et après l'autorisation du Gouvernement flamand.]<sup>2</sup>
+
+Ces pouvoirs ne peuvent être délégués à aucun autre organe.
+
+----------
+
+(1)&lt;DCFL 2012-07-13/19, art. 8, 002; En vigueur : 01-10-2013&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. VI.58, 003; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFL 2017-02-24/22, art. 86, 005; En vigueur : 01-01-2018&gt;
+
+(4)&lt;DCFL 2024-04-19/22, art. 5, 007; En vigueur : 01-07-2024&gt;
+
+###### Art. 13
+
+§ 1er. Le conseil d'administration est chargé :
+
+1° de l'approbation des vacances d'emploi et de la décision quant à la déclaration de vacances d'emploi;
+
+2° de la nomination, la désignation, la promotion, la mutation ou du transfert des membres du personnel;
+
+3° de la rédaction du règlement d'ordre intérieur;
+
+4° de l'affectation des finances et des biens meubles et immeubles de l'Universiteit Hasselt;
+
+5° de la conclusion de conventions et la passation d'autres actes juridiques;
+
+6° du maintien de l'ordre académique, et, le cas échéant, de la prise de mesures disciplinaires conformément au règlement disciplinaire en vigueur;
+
+7° de l'approbation de la participation de l'Universiteit Hasselt dans des entreprises spin off et d'autres personnes juridiques;
+
+8° de toute autre compétence réservée spécifiquement au conseil d'administration par ou en vertu du présent décret ou d'autres décrets.
+
+§ 2. Le conseil d'administration est habilité à révoquer les attributions visées au § 1er qu'il confie :
+
+1° au collège administratif;
+
+2° aux membres du conseil d'administration;
+
+3° aux membres du personnel administratif;
+
+4° à un organe visé à l'article 35.
+
+Les personnes ou organes visés au premier alinéa soumettent au conseil d'administration un rapport sur les décisions prises.
+
+##### Sous-section 3. - Règles de fonctionnement.
+
+###### Art. 14
+
+Le conseil d'administration ne se réunit valablement que si plus de la moitié des membres sont présents. Si ce n'est pas le cas, le président convoque les membres à une seconde assemblée.
+
+Si à cette seconde assemblée le quorum de la moitié des membres n'est toujours pas atteint, l'assemblée a lieu quel que soit le nombre de membres présents.
+
+###### Art. 15
+
+Les membres du conseil d'administration s'abstiennent de participer au vote sur des questions ou des personnes qui les concernent personnellement ou concernent personnellement leurs conjoints, les personnes avec lesquelles ils/elles cohabitent ou leurs parents ou alliés jusqu'au troisième degré.
+
+###### Art. 16
+
+L'opération de vote concernant des personnes se fait toujours par bulletin secret, l'opération de vote concernant des questions se fait oralement et par appel nominal.
+
+Si, lors de la délibération sur une question, aucun membre ne demande un suffrage, la proposition est censée être adoptée.
+
+###### Art. 17
+
+Tout membre présent ayant voix délibérative dispose d'une seule voix.
+
+Une simple majorité des suffrages émis est requise pour délibérer valablement ou donner un avis.
+
+Les bulletins blancs, les votes nuls ou les abstentions sont censés ne pas être exprimés.
+
+###### Art. 18
+
+Les décisions du conseil d'administration sont publiques.
+
+Par dérogation au premier alinéa, le conseil d'administration peut définir, par arrêté motivé pris à la majorité des deux tiers, qu'une décision est gardée secrète.
+
+###### Art. 19
+
+Le conseil d'administration établit un règlement d'ordre intérieur, dans lequel sont fixées les règles de fonctionnement.
+
+#### Section 3. - Le collège administratif.
+
+##### Sous-section 1re. - Composition.
+
+###### Art. 20
+
+Le collège administratif se compose :
+
+1° [<sup>2</sup> le recteur, qui intervient également comme président du collège de direction ]<sup>2</sup>;
+
+2° [<sup>2</sup> les vice-recteurs]<sup>2</sup>;
+
+3° d'un étudiant, désigné conformément à l'article 7, troisième alinéa.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> Les administrateurs]<sup>2</sup> [<sup>1</sup> et le commissaire du gouvernement]<sup>1</sup> des Finances assistent aux réunions avec voix consultative.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 135, 006; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/22, art. 6, 007; En vigueur : 01-07-2024&gt;
+
+##### Sous-section 2. - Compétence.
+
+###### Art. 21
+
+§ [<sup>1</sup> Le collège administratif est compétent pour toutes les affaires que le conseil d'administration a confiées au collège administratif via un arrêté de délégation, tel que visé à l'article 13, § 2, alinéa 1er, 1°]<sup>1</sup>.
+
+§ 2. En cas d'urgence, le collège administratif prend par rapport aux matières relevant du conseil d'administration toutes les mesures nécessaires afin de sauvegarder les intérêts de l'institution.
+
+Pendant la réunion suivante, les décisions prises sont présentées au conseil d'administration qui est autorisé à les révoquer ou modifier pour autant que celles-ci ne soient pas encore mises en oeuvre.
+
+§ 3. [<sup>1</sup> Le collège administratif rend compte au conseil d'administration. ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-04-19/22, art. 7, 007; En vigueur : 01-07-2024&gt;
+
+##### Sous-section 3. - Règles de fonctionnement.
+
+###### Art. 22
+
+Le collège administratif établit un règlement d'ordre intérieur, dans lequel sont fixées les règles de fonctionnement.
+
+#### Section 4. - Le recteur et les vice-recteurs.
+
+##### Sous-section 1re. - Désignation.
+
+###### Art. 23
+
+§ 1er. Le recteur et le vice-recteur sont désignés par le conseil d'administration pour un délai de quatre ans. Les candidats doivent être rattachés à temps plein à l'Universiteit Hasselt et [<sup>1</sup> être au moins des professeurs]<sup>1</sup>.
+
+§ 2. Au cours du mois de mai de l'année académique dans laquelle expire le mandat du recteur en fonction, le recteur est proposé par l'assemblée générale des conseils de faculté, conformément à l'article 36.
+
+[<sup>3</sup> Le conseil d'administration siégeant prend connaissance des résultats de l'élection, les ratifie et désigne le recteur]<sup>3</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. Au plus tard au cours du mois de juillet qui précède l'expiration du mandat des vice-recteurs en fonction, le recteur désigné suivant le § 2 soumet les candidats vice-recteurs, ainsi que leurs domaines de compétence respectifs, au vote de l'assemblée générale des conseils de faculté, conformément à l'article 36.
+
+Le recteur propose les candidatures des vice-recteurs à la désignation du conseil d'administration siégeant.[<sup>3</sup> Le conseil d'administration siégeant prend connaissance des résultats de l'élection, les ratifie et désigne les vice-recteurs.]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+§ 4. Le mandat de recteur et de vice-recteur court jusque le 30 septembre inclus de l'année académique dans laquelle expire le mandat du recteur en service.
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 6. Il y a incompatibilité entre le mandat de recteur ou de vice-recteur et la (vice-)présidence d'une faculté, d'un département ou d'une school, ou la fonction de directeur d'une institution de recherche.
+
+§ 7. En cas de cessation prématurée d'un mandat en cours de recteur ou de vice-recteur, le mandat est assumé par un remplaçant pour la durée restante.
+
+§ 8. En cas de cessation prématurée d'un mandat en cours de recteur, le conseil d'administration est chargé de l'organisation immédiat de l'élection du recteur.
+
+----------
+
+(1)&lt;DCFL 2012-07-13/19, art. 9, 002; En vigueur : 01-10-2013&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. VI.59, 003; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFL 2024-04-19/22, art. 8, 007; En vigueur : 01-07-2024&gt;
+
+##### Sous-section II. - Compétence.
+
+###### Art. 24
+
+§ 1er. Le recteur est chargé de la direction académique et représente la communauté universitaire de l'Universiteit Hasselt dans des affaires académiques. Cette communauté se compose des groupements suivants :
+
+1° le personnel académique autonome;
+
+2° le personnel académique assistant;
+
+3° le personnel administratif et technique;
+
+4° les étudiants inscrits dans un programme d'enseignement de l'Universiteit Hasselt et les étudiants du campus Hasselt-Diepenbeek de la 'transnationale Universiteit Limburg'.
+
+Le recteur contresigne les diplômes et délivre les diplômes honorifiques.
+
+§ 2. Les vice-recteurs assistent le recteur et le remplacent en cas d'empêchement.
+
+##### Sous-section III. - Statut.
+
+###### Art. 25
+
+Le recteur et les vice-recteurs ont droit à une indemnité, conformément aux dispositions de [<sup>1</sup> l'article V.39 du Code de l'Enseignement supérieur]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/33, art. IV.19, 004; En vigueur : 01-09-2015&gt;
+
+#### Section 5. - Le président et le vice-président.
+
+##### Sous-section 1re. - Désignation.
+
+###### Art. 26
+
+§ 1er. Le président et le vice-président sont désignés pour un délai de quatre ans par le conseil d'administration nouvellement élu, lors de la première réunion du début de la nouvelle année académique. La réunion est présidée par le membre le plus âgé présent.
+
+En cas d'opposition de la part d'un tiers des membres du conseil d'administration, il est procédé à un deuxième vote à la majorité des deux tiers des voix.
+
+§ 2. Le mandat de président et de vice-président court jusque le 30 septembre inclus de l'année académique dans laquelle expire le mandat du recteur en service.
+
+Tant qu'aucun nouveau président et vice-président n'ont été élus aux conditions du § 1er, le président et le vice-président sortants continuent à assumer leur mandat à titre temporaire.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. Les mandats de président et de vice-président sont incompatibles avec un emploi auprès de l'Universiteit Hasselt.
+
+§ 5. Le président ou le vice-président peuvent être désignés parmi les membres visés à l'article 6, premier alinéa, 3° ou 4°. Le cas échéant, l'article 9, quatrième alinéa, s'applique au mandat ainsi devenu vacant.
+
+§ 6. En cas de cessation prématurée d'un mandat en cours de président ou de vice-président, le mandat est assumé par un remplaçant pour la durée restante.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/L8, art. VI.60, 003; En vigueur : 01-09-2014&gt;
+
+##### Sous-section 2. - Compétence.
+
+###### Art. 27
+
+§ 1er.[<sup>1</sup> Le président préside les séances du conseil d'administration.
+
+Le président veille à l'exécution des décisions prises par le conseil d'administration.
+
+Le président représente l'Universiteit Hasselt dans tous les actes judiciaires et extrajudiciaires ]<sup>1</sup>.
+
+§ 2. Le vice-président assiste le président et le remplace en cas d'empêchement.
+
+----------
+
+(1)&lt;DCFL 2024-04-19/22, art. 9, 007; En vigueur : 01-07-2024&gt;
+
+##### Sous-section 3. - Statut.
+
+###### Art. 28
+
+Le conseil d'administration fixe le traitement et le volume et le contenu de la fonction du président et du vice-président. Le traitement est fixé dans l'échelle de traitement du rang de professeur ordinaire conformément aux conditions de rémunération qui sont applicables aux membres du personnel académique autonome des universités en Communauté flamande.
+
+###### Art. 29
+
+Le recteur et les vice-recteurs ont droit à une indemnité, conformément aux dispositions de [<sup>1</sup> l'article V.39 du Code de l'Enseignement supérieur]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/33, art. IV.19, 004; En vigueur : 01-09-2015&gt;
+
+#### Section 6. - Représentation auprès de la 'transnationale Universiteit Limburg'.
+
+###### Art. 30
+
+Le recteur ou un des vice-recteurs et le président ou le vice-président sont les membres flamands du collège d'administration de la 'transnationale Universiteit Limburg'.
+
+###### Art. 31
+
+Le Gouvernement flamand désigne les membres flamands du conseil de contrôle de la 'transnationale Universiteit Limburg', dont au moins un membre fait partie des membres visés à l'article 6, premier alinéa, 3° et 4°.
+
+#### Section 7. [<sup>1</sup> Les administrateurs ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/22, art. 10, 007; En vigueur : 01-07-2024&gt;
+
+##### Sous-section 1re. - Désignation.
+
+###### Art. 32
+
+[<sup>1</sup> § 1er. Au cadre organique à charge des allocations de fonctionnement, deux fonctions d'administrateur sont inscrites : l'administrateur général et l'administrateur académique.
+
+§ 2. Le conseil d'administration désigne un nouvel administrateur dans l'un des mandats après un appel public à candidature publié au Moniteur belge. Tant que le conseil d'administration n'a pas désigné de nouvel administrateur, l'administrateur titulaire reste en fonction.
+
+La vacance d'emploi mentionne au moins le contenu et les exigences de la fonction et la procédure de sélection. L'administrateur est porteur d'un diplôme de master.
+
+§ 3. Les droits et devoirs des administrateurs, qui se chargent de ce mandat, sont fixés dans une convention conclue avec le conseil d'administration.
+
+§ 4. Les mandats d'administrateur sont d'une durée de six ans et sont renouvelables ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-04-19/22, art. 11, 007; En vigueur : 01-07-2024&gt;
+
+##### Sous-section 2.
+
+&lt;Abrogé par DCFL 2024-04-19/22, art. 13, 007; En vigueur : 01-07-2024&gt;
+
+###### Art. 33
+
+&lt;Abrogé par DCFL 2024-04-19/22, art. 13, 007; En vigueur : 01-07-2024&gt;
+
+##### Sous-section 3. - Statut.
+
+###### Art. 34
+
+[<sup>2</sup> Le conseil d'administration fixe le traitement des administrateurs dans une échelle de traitement du personnel académique autonome. Le conseil d'administration peut attribuer aux administrateurs une indemnité, conformément à l'article 100 du décret du 12 juin 1991 relatif aux universités dans la Communauté flamande]<sup>2</sup>.
+
+Les personnels d'une université ou d'un institut supérieur qui sont rémunérés à charge des allocations de fonctionnement ou les fonctionnaires de la Communauté flamande qui assument le mandat d'administrateur, obtiennent pour la durée du mandat un congé pour l'exercice d'un mandat dont l'intérêt général est reconnu. Le congé est assimilé à une période d'activité de service. Il n'est pas rémunéré.
+
+----------
+
+(1)&lt;DCFL 2015-06-19/33, art. IV.19, 004; En vigueur : 01-09-2015&gt;
+
+(2)&lt;DCFL 2024-04-19/22, art. 12, 007; En vigueur : 01-07-2024&gt;
+
+### CHAPITRE III. - Entités académiques.
+
+###### Art. 35
+
+Le conseil d'administration peut créer et organiser les facultés, départements, schools, services, instituts de recherche, chaires et tout autre organe et unité d'organisation académiques qu'il estime nécessaire.
+
+Il fixe le nom, la composition, le fonctionnement et les attributions de ces organes.
+
+Il détermine également à quels organes appartiennent les charges d'enseignement, de recherche et de services sociaux et la gestion scientifique et administrative qui y est liée.
+
+###### Art. 36
+
+L'assemblée générale des conseils de faculté se compose des membres des conseils de faculté.
+
+Elle arrête le règlement d'ordre intérieur qui est soumis à l'approbation du conseil d'administration.
+
+L'assemblée générale des conseils de faculté a notamment la tâche de proposer les candidats à la fonction de recteur. Pour cette proposition, les membres de l'assemblée générale disposent d'une voix. La liste proposée de candidats pour le mandat de recteur comprend au moins un et au plus trois candidats classés.
+
+Les décisions de l'assemblée générale des conseils de faculté sont motivées.
+
+Les dispositions des articles 14 à 18 inclus s'appliquent par analogie à l'assemblée générale des conseils de faculté.
+
+## TITRE III. - Le Conseil supérieur de l'enseignement supérieur au Limbourg.
+
+###### Art. 37
+
+Un Conseil supérieur consultatif de l'enseignement supérieur au Limbourg est créé par le Gouverneur ou le député de l'enseignement, en concertation avec les conseils d'administration respectifs des institutions d'enseignement supérieur limbourgeoises.
+
+Le Conseil supérieur a pour mission de développer l'enseignement supérieur au Limbourg dans tous ses aspects, et en particulier la recherche scientifique, les services sociaux et la participation dans l'enseignement supérieur.
+
+Le Conseil supérieur est composé de sept représentants de milieux sociaux, économiques et culturels, de cinq représentants des institutions d'enseignement supérieur, du Gouverneur et du député de l'enseignement; par ailleurs, chaque fraction politique est représentée dans le Conseil par un député du Parlement flamand élu dans la province du Limbourg.
+
+Le Conseil supérieur est présidé par le Gouverneur ou le député de l'enseignement. Le Conseil supérieur fixe le règlement d'ordre intérieur, stipulant les modalités relatives à la composition, au fonctionnement interne, à l'acceptation et la démission de nouveaux membres.
+
+## TITRE IV. - Dispositions finales.
+
+###### Art. 38
+
+Le décret du 7 mai 2004 relatif au 'Limburgs Universitair Centrum' et au 'Hoge Raad voor het Hoger Onderwijs in Limburg' (Conseil supérieur de l'Enseignement supérieur au Limbourg) est abrogé.
+
+###### Art. 39
+
+Si, avant la date de l'entrée en vigueur du présent décret, des élections de recteur et de vice-recteur ont déjà eu lieu conformément aux dispositions du décret du 7 mai 2004 visé à l'article 38, le recteur ainsi élu reste en fonction. Le cas échéant, le vice-recteur élu met son mandat à disposition et deux vice-recteurs sont désignés conformément à l'article 23, § 3. Les deux vice-recteurs deviennent ensuite membre du conseil d'administration, conformément à l'article 6, premier alinéa, 2°, et en même temps le nombre de doyens ou de vice-doyens est reporté de cinq à quatre, conformément à l'article 6, premier alinéa, 9°.
+
+Après l'entrée en vigueur du présent décret, le collège administratif siégeant est élargi d'un étudiant membre, conformément à l'article 20, premier alinéa, 4°.
+
+###### Art. 40
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 20 juin 2008.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand de l'Emploi, de l'Enseignement et de la Formation,
+
+Fr. VANDENBROUCKE.

@@ -1,0 +1,229 @@
+---
+title: "Décret relatif au bénévolat organisé dans le domaine politique \" Welzijn, Volksgezondheid en Gezin \""
+identifier: "2009035880"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009035880/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2009-04-03
+published: 2009-09-17
+entry_into_force: 2010-01-01
+last_amended: 2024-01-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009035880/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 17-09-2009 et mise à jour au 10-01-2024"
+retrieved: 2026-10-12
+---
+
+# 3 AVRIL 2009. - Décret relatif au bénévolat organisé dans le domaine politique " Welzijn, Volksgezondheid en Gezin "
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+Décret relatif au bénévolat organisé dans le domaine politique " Welzijn, Volksgezondheid en Gezin ".
+
+## CHAPITRE Ier. - Dispositions introductives
+
+#### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+#### Art. 2
+
+Le présent décret s'applique aux organisations affectant des bénévoles pour la réalisation de leur buts dans une ou plusieurs matières visées à l'article 5, § 1er, I et II, de la loi spéciale de réformes institutionnelles du 8 août 1980, ressortant au domaine politique " Welzijn, Volksgezondheid en Gezin " (Aide sociale, Santé publique et Famille).
+
+#### Art. 3
+
+Dans le présent décret, on entend par :
+
+1° bénévolat : toute activité :
+
+a) effectuée à titre non-rémunéré et sans obligation;
+
+b) effectuée au bénéfice d'une ou de plusieurs personnes autres que la personne effectuant l'activité, au bénéfice d'un groupe ou d'une organisation ou de l'ensemble de la société;
+
+c) organisée par une organisation autre que la famille ou l'association privée de celui ou de celle effectuant l'activité;
+
+d) non effectuée par la même personne et pour la même organisation dans le cadre d'un contrat de travail, un contrat de prestation de services ou une désignation statutaire;
+
+2° bénévole : une personne physique effectuant des activités telles que visées au 1° ou s'engageant à en effectuer;
+
+[<sup>1</sup> 2°/1 réglementation sectorielle : la réglementation portant sur une matière, telle que visée à l'article 2, à l'exception du présent décret et ses arrêtés d'exécution;]<sup>1</sup>
+
+3° [<sup>1</sup> organisation à bénévolat autonome : une organisation réalisant son but exclusivement ou principalement en affectant des bénévoles et qui n'est pas agréée ou subventionnée par l'Autorité flamande en vertu d'une réglementation sectorielle;]<sup>1</sup>
+
+4° [<sup>1</sup> organisation à bénévolat auxiliaire : une organisation active dans une matière telle que visée à l'article 2, agréée ou subventionnée à cet effet par l'Autorité flamande conformément à la réglementation sectorielle applicable à ces organisations, affectant également des bénévoles pour la réalisation de son but;]<sup>1</sup>
+
+5° organisation : une organisation à bénévolat à part entière agréée conformément au chapitre III, section Ière ou une organisation à bénévolat auxiliaire;
+
+6° indice de santé : l'indice des prix qui est calculé et dénommé pour l'application de l'article 2 de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays, confirmé par la loi du 30 mars 1994 portant dispositions sociales.
+
+----------
+
+(1)&lt;DCFL 2013-06-21/17, art. 76, 002; En vigueur : 24-08-2013&gt;
+
+## CHAPITRE II. - Dispositions relatives aux organisations à bénévolat à part entière et aux organisations au bénévolat auxiliaire
+
+#### Art. 4
+
+L'organisation recrute les bénévoles, leur réserve un accueil, une formation et du soutien appropriés afin qu'ils puissent effectuer le bénévolat de façon qualitative. Le Gouvernement flamand peut arrêter les modalités à cet effet.
+
+#### Art. 5
+
+Avant que le bénévole n'entame le bénévolat, une note d'accords à signer par l'organisation et le bénévole, est rédigée. Le bénévole en reçoit un exemplaire.
+
+La note d'accords mentionne au moins :
+
+1° les données visées à l'article 4 de la loi du 3 juillet 2005 relative aux droits des volontaires;
+
+2° la nature, la durée et la fréquence du bénévolat;
+
+3° le fonctionnement de l'organisation et la position du bénévole et du bénévolat au sein de l'organisation;
+
+4° la personne de contact au sein de l'organisation à la disposition du bénévole;
+
+5° les activités de formation à suivre par le bénévole.
+
+Le Gouvernement flamand peut préciser et compléter le contenu de la note d'accords.
+
+#### Art. 6
+
+L'organisation contracte une assurance pour couvrir :
+
+1° la responsabilité civile de l'organisation;
+
+2° la responsabilité civile de chaque bénévole pour les dommages causés à l'organisation, à d'autres bénévoles, au demandeur d'aide ou à des tiers lors de l'exercice du bénévolat ou survenus sur le chemin de l'endroit où s'effectue le bénévolat;
+
+3° les dommages corporels et matériels, subis par les bénévoles dans des accidents survenus lors de l'exercice du bénévolat ou survenus sur le chemin de l'endroit où s'effectue le bénévolat;
+
+4° d'autres risques auxquels le Gouvernement flamand peut élargir la couverture obligatoire.
+
+Le Gouvernement flamand arrête les dispositions relatives à l'ampleur de la couverture et aux modalités de l'assurance.
+
+#### Art. 7
+
+Les bénévoles peuvent uniquement obtenir une indemnisation de la part de l'organisation.
+
+L'organisation peut récupérer l'indemnisation à charge du demandeur d'aide, à condition qu'elle lui en ait mis au courant avant le début du bénévolat.
+
+## CHAPITRE III. - Organisations à bénévolat à part entière
+
+### Section Ire. - Agrément
+
+#### Art. 8
+
+Une organisation à bénévolat à part entière peut être agréée par le Gouvernement flamand si elle répond au moins aux condtions suivantes :
+
+1° elle a été créée sous la forme d'une personne morale ne visant aucun but lucratif ou comme une initiative spécifique d'une administration publique;
+
+2° elle répond aux dispositions du chapitre II;
+
+3° elle organise du bénévolat à part entière durant un an au moins;
+
+4° l'organisation du bénévolat est son objectif principal.
+
+Le Gouvernement peut arrêter des conditions d'agrément complémentaires.
+
+#### Art. 8/1.
+
+[<sup>1</sup> Les organisations à bénévolat autonome garantissent un droit de plainte à l'usager en mettant sur pied une procédure d'enregistrement et de traitement de plaintes qui répond aux obligations découlant de la réglementation relative à la protection de la vie privée à l'égard du traitement de données à caractère personnel et du cadre de base pour la procédure de plainte, fixé par le Gouvernement flamand.
+
+La procédure de plainte visée à l'alinéa 1er, décrit l'ensemble des aspects suivants :
+
+1° la manière dont le demandeur d'aide peut communiquer sa plainte ;
+
+2° le mode d'évaluation de la recevabilité de la plainte ;
+
+3° le mode de traitement de la plainte ;
+
+4° la manière dont le demandeur d'aide est informé du résultat de sa plainte.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-01/10, art. 9, 004; En vigueur : 20-01-2024&gt;
+
+#### Art. 9
+
+Le Gouvernement flamand arrête la procédure de l'agrément et du retrait de l'agrément d'une organisation à bénévolat à part entière. Il détermine l'échéance de l'agrément.
+
+### Section II. - Subventionnement
+
+#### Art. 10
+
+Les organisations à bénévolat à part entière, agréées conformément à la section Ière, reçoivent un subventionnement annuel du Gouvernement flamand dans les limites des crédits budgétaires disponibles.
+
+Le Gouvernement flamand arrête le montant du subventionnement, de même que les conditions et la procédure du subventionnement. Il arrête le mode selon lequel l'utilisation du subventionnement est justifiée.
+
+Le montant du subventionnement est lié aux fluctuations de l'indice de santé. Le Gouvernement flamand arrête les modalités relatives à l'indexation.
+
+#### Art. 11
+
+L'organisation à bénévolat à part entière utilise le subventionnement prioritairement dans le cadre de la couverture des frais de fonctionnement de l'organisation et du paiement de la prime de l'assurance, visée à l'article 6.
+
+## CHAPITRE IV. - Organisations à bénévolat auxiliaire
+
+#### Art. 12
+
+Les dispositions du chapitre II font office de conditions complémentaires d'agrément pour les organisations à bénévolat auxiliaire.
+
+#### Art. 13
+
+Le Gouvernement flamand peut octroyer un subventionnement annuel aux organisations à bénévolat auxiliaire dans les limites des crédits budgétaires disponibles.
+
+A cette occasion le Gouvernement flamand arrête le montant du subventionnement, de même que les conditions et la procédure du subventionnement du bénévolat auxiliaire par secteur.
+
+## CHAPITRE V. - Contrôle
+
+#### Art. 14
+
+Des fonctionnaires désignés par le Gouvernement flamand exercent le contrôle du respect des dispositions du présent décret et de ses arrêtés d'exécution. Ce contrôle implique le droit de visiter les organisations et de prendre acte sur les lieux de toutes les pièces et documents nécessaires à l'exercice de leur fonction.
+
+Ils dressent un rapport de leurs constats et en remettent une copie à l'organisation concernée. Le rapport fait foi jusqu'à preuve du contraire.
+
+Les alinéas premier et deux s'appliquent sans préjudice de l'application des règles sectorielles réglant le contrôle du respect des conditions d'agrément pour les organisations à bénévolat auxiliaire.
+
+## CHAPITRE V/1. [<sup>1</sup> - Politique de soutien]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-12-16/10, art. 60, 003; En vigueur : 01-01-2023&gt;
+
+#### Art. 14/1
+
+[<sup>1</sup> Le Gouvernement flamand peut, aux conditions qu'il arrête et dans les limites des crédits budgétaires, accorder une subvention à une ou plusieurs organisations fournissant des services d'appui ou complémentaires en matière, notamment, de développement de méthodologies, d'accompagnement et de coaching, de transfert d'expertise, d'action innovatrice, d'étayage documentaire et d'acquisition de connaissances et de promotion du bénévolat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-12-16/10, art. 61, 003; En vigueur : 01-01-2023&gt;
+
+## CHAPITRE VI. - Dispositions finales
+
+#### Art. 15
+
+Le décret du 23 mars 1994 relatif au bénévolat organisé dans le secteur de l'aide sociale et de la santé est abrogé.
+
+#### Art. 16
+
+Les organisations agréées à la date de l'entrée en vigueur du présent décret se conforment aux dispositions du chapitre II endéans un an après la date précitée.
+
+#### Art. 17
+
+Le Gouvernement flamand fixe la date d'entrée en vigueur du présent décret.
+
+(NOTE : Entrée en vigueur fixée au 01-01-2010 par AGF 2010-02-26/13, art. 10)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 3 avril 2009.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand du Bien-Etre, de la Santé publique et de la Famille,
+
+V. HEEREN

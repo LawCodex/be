@@ -1,0 +1,1205 @@
+---
+title: "Décret relatif à l'échange électronique de données administratives (TRADUCTION)"
+identifier: "2008036273"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008036273/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2008-07-18
+published: 2008-10-29
+entry_into_force: 2009-07-14
+last_amended: 2024-06-11
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008036273/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 29-10-2008 et mise à jour au 11-06-2024"
+retrieved: 2026-10-12
+---
+
+# 18 JUILLET 2008. - Décret relatif à l'échange électronique de données administratives (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret relatif à l'échange électronique de données administratives
+
+## CHAPITRE Ier. - Dispositions générales et définitions.
+
+#### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+#### Art. 2
+
+Pour l'application du présent décret on entend par :
+
+1° l'échange électronique de données administratives : l'échange de données au sein de et entre des services publics de manière électronique;
+
+2° [<sup>4</sup> [<sup>5</sup> source authentique de données : une source authentique de données, telle que visée à l'article 2, 1°, du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand ;]<sup>5</sup>]<sup>4</sup>
+
+3° [<sup>4</sup> ...]<sup>4</sup>
+
+4° [<sup>2</sup> règlement général sur la protection des données : le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données)]<sup>2</sup>
+
+5° [<sup>2</sup> ...]<sup>2</sup>
+
+6° traitement : [<sup>2</sup> le traitement visé à l'article 4, point 2), du règlement général sur la protection des données]<sup>2</sup>;
+
+7° communication : [<sup>2</sup> une ou plusieurs opérations telles que visées à l'article 4, point 2), du règlement général sur la protection des données]<sup>2</sup>, qui concernent la communication de données par transmission, diffusion ou toute autre forme de mise à disposition, dans la mesure où cela se fait de manière systématique et organisée. La communication aux personnes auxquelles se rapportent les données, à leurs représentants légaux, ainsi qu'à ceux qui ont été explicitement autorisés par elles pour traiter les données, n'est pas considérée comme une communication au sens du présent décret;
+
+8° [<sup>2</sup> ...]<sup>2</sup>
+
+9° [<sup>4</sup> ...]<sup>4</sup>
+
+10° [<sup>3</sup> instance : une instance de l'Autorité flamande au sens de l'article I.3, 1° du Décret de gouvernance du 7 décembre 2018, une instance d'une autorité locale au sens de l'article I.3, 5° du Décret de gouvernance du 7 décembre 2018, une institution investie d'une mission de service public au sens de l'article I.3, 6° du Décret de gouvernance du 7 décembre 2018 ou une instance environnementale au sens de l'article I.3, 7° du Décret de gouvernance du 7 décembre 2018 ;]<sup>3</sup>
+
+11° [<sup>3</sup> autorité externe : une instance d'une autorité externe au sens de l'article I.3, 8° du Décret de gouvernance du 7 décembre 2018]<sup>3</sup>
+
+12° [<sup>4</sup> ...]<sup>4</sup>
+
+13° [<sup>4</sup> ...]<sup>4</sup>
+
+14° données à caractère personnel : [<sup>2</sup> les données à caractère personnel visées à l'article 4, point 1), du règlement général sur la protection des données]<sup>2</sup>;
+
+15° [<sup>4</sup> ...]<sup>4</sup>
+
+16° [<sup>4</sup> ...]<sup>4</sup>
+
+17° [<sup>4</sup> ...]<sup>4</sup>
+
+18° [<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2012-07-13/14, art. 24, 005; En vigueur : 01-08-2012&gt;
+
+(2)&lt;DCFL 2018-06-08/04, art. 11, 009; En vigueur : 25-05-2018&gt;
+
+(3)&lt;DCFL 2018-12-07/05, art. IV.184, 010; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCFL 2018-12-07/05, art. IV.273,7°, 010; En vigueur : 01-01-2019&gt;
+
+(5)&lt;DCFL 2023-06-23/13, art. 2, 012; En vigueur : 21-08-2023&gt;
+
+## CHAPITRE II. [<sup>1</sup> Création de sources de données avec des données de base ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 3, 012; En vigueur : 21-08-2023&gt;
+
+### Section Ire. [<sup>1</sup> Champ d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 4, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 3
+
+[<sup>1</sup> Le présent chapitre s'applique aux instances, à l'exception des institutions investies d'une mission de service public, visées à l'article I.3, 6°, du Décret de gouvernance du 7 décembre 2018.
+
+Par dérogation à l'alinéa 1er, le Gouvernement flamand peut déterminer les institutions investies d'une mission de service public qui relèvent du champ d'application du présent chapitre. En outre, le Gouvernement flamand peut fixer un calendrier par source de données après l'avis de l'organe de pilotage de la Politique flamande de l'Information et des TIC, visé à l'article III.74 du Décret de gouvernance du 7 décembre 2018.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 5, 012; En vigueur : 21-08-2023&gt;
+
+### Section II. [<sup>1</sup> Création d'une source de données avec des données d'associations ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 6, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 4
+
+[<sup>1</sup> L'entité à désigner par le Gouvernement flamand, chargée de faciliter la numérisation dans les instances, ci-après dénommée l'entité, crée une source de données avec les données des associations qui interagissent avec les instances. Cette source de données est dénommée le registre des associations.
+
+Le Gouvernement flamand peut élargir l'objet du registre des associations, notamment les données des formes de coopération, visées à la partie 3, titre 3, du décret du 22 décembre 2017 sur l'administration locale, de l'association interlocale d'enseignement, visée au décret du 28 novembre 2008 relatif à l'association interlocale d'enseignement (ILOV), des associations d'aide sociale, visées à la partie 3, titre 4, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale, et des établissements de soins autonomes, visés à la partie 3, titre 4, chapitre 3, du décret du 22 décembre 2017 sur l'administration locale, qui interagissent avec les instances.
+
+Pour l'application de la présente section, on entend par :
+
+1° associations : les associations sans but lucratif, les associations internationales sans but lucratif, les fondations, les associations de fait et les sections d'organisations faîtières ;
+
+2° association de fait : une association sans personnalité juridique, telle que visée à l'article 1:2, combiné avec l'article 1:6, § 1er, du Code des sociétés et des associations du 23 mars 2019 ;
+
+3° association sans but lucratif : une association dotée de la personnalité juridique, telle que visée à l'article 1:2, combiné avec l'article 1:6, § 2, premier tiret, combiné avec l'article 9:1 du Code des sociétés et des associations du 23 mars 2019 ;
+
+4° association internationale sans but lucratif : une association dotée de la personnalité juridique, telle que visée à l'article 1:2, combiné avec l'article 1:6, § 2, deuxième tiret, combiné avec l'article 10:1 du Code des sociétés et des associations du 23 mars 2019 ;
+
+5° fondation : une fondation privée ou une fondation d'utilité publique, telle que visée à l'article 1:3, combiné avec l'article 1:7, combiné avec l'article 11:1, du Code des sociétés et des associations du 23 mars 2019 ;
+
+6° organisation faîtière : une organisation ayant la forme juridique d'une association sans but lucratif, d'une association internationale sans but lucratif ou d'une fondation, qui répond à l'une des caractéristiques suivantes :
+
+a) elle se subdivise en sections pour des raisons de fonctionnement opérationnel interne ;
+
+b) elle soutient ou contribue au fonctionnement d'associations de fait, d'associations sans but lucratif, d'associations internationales sans but lucratif et de fondations opérant avec l'organisation faîtière ou liées à celle-ci par leur but désintéressé ;
+
+7° section : une partie d'une organisation faîtière pour des raisons de fonctionnement opérationnel interne ;
+
+8° organe de pilotage : l'organe de pilotage de la Politique flamande de l'Information et des TIC, visé à l'article III.74 du Décret de gouvernance du 7 décembre 2018.
+
+L'entité visée à l'alinéa 1er, en tant que gestionnaire du registre des associations visé à l'alinéa 1er, est responsable de la coordination de la création, de la conservation, de la mise à disposition, de la sécurité, de l'accès et de l'utilisation des données en question.
+
+En ce qui concerne le traitement des données à caractère personnel en exécution de la présente section, l'entité est le responsable du traitement au sens de l'article 4, 7), du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 7, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 4 DROIT FUTUR
+
+[<sup>1</sup> L'entité à désigner par le Gouvernement flamand, chargée de faciliter la numérisation dans les instances, ci-après dénommée l'entité, crée une source de données avec les données des associations qui interagissent avec les instances. Cette source de données est dénommée le registre des associations.
+
+Le Gouvernement flamand peut élargir l'objet du registre des associations, notamment les données des formes de coopération, visées à la partie 3, titre 3, du décret du 22 décembre 2017 sur l'administration locale, de l'association interlocale d'enseignement, visée au décret du 28 novembre 2008 relatif à l'association interlocale d'enseignement (ILOV), des associations d'aide sociale, visées à la partie 3, titre 4, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale, et des établissements de soins autonomes, visés à la partie 3, titre 4, chapitre 3, du décret du 22 décembre 2017 sur l'administration locale, qui interagissent avec les instances.
+
+Pour l'application de la présente section, on entend par :
+
+1° associations : les associations sans but lucratif, les associations internationales sans but lucratif, les fondations, les associations de fait et les sections d'organisations faîtières ;
+
+2° association de fait : une association sans personnalité juridique, telle que visée à l'article 1:2, combiné avec l'article 1:6, § 1er, du Code des sociétés et des associations du 23 mars 2019 ;
+
+3° association sans but lucratif : une association dotée de la personnalité juridique, telle que visée à l'article 1:2, combiné avec l'article 1:6, § 2, premier tiret, combiné avec l'article 9:1 du Code des sociétés et des associations du 23 mars 2019 ;
+
+4° association internationale sans but lucratif : une association dotée de la personnalité juridique, telle que visée à l'article 1:2, combiné avec l'article 1:6, § 2, deuxième tiret, combiné avec l'article 10:1 du Code des sociétés et des associations du 23 mars 2019 ;
+
+5° fondation : une fondation privée ou une fondation d'utilité publique, telle que visée à l'article 1:3, combiné avec l'article 1:7, combiné avec l'article 11:1, du Code des sociétés et des associations du 23 mars 2019 ;
+
+6° organisation faîtière : une organisation ayant la forme juridique d'une association sans but lucratif, d'une association internationale sans but lucratif ou d'une fondation, qui répond à l'une des caractéristiques suivantes :
+
+a) elle se subdivise en sections pour des raisons de fonctionnement opérationnel interne ;
+
+b) elle soutient ou contribue au fonctionnement d'associations de fait, d'associations sans but lucratif, d'associations internationales sans but lucratif et de fondations opérant avec l'organisation faîtière ou liées à celle-ci par leur but désintéressé ;
+
+7° section : une partie d'une organisation faîtière pour des raisons de fonctionnement opérationnel interne ;
+
+8° organe de pilotage : l'organe de pilotage de la Politique flamande de l'Information et des TIC, visé à l'article III.74 du Décret de gouvernance du 7 décembre 2018.
+
+L'entité visée à l'alinéa 1er, en tant que gestionnaire du registre des associations visé à l'alinéa 1er, est responsable de la coordination de la création, de la conservation, de la mise à disposition, de la sécurité, de l'accès et de l'utilisation des données en question.
+
+En ce qui concerne le traitement des données à caractère personnel en exécution de la présente section, l'entité est le responsable du traitement au sens de l'article 4, 7), du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 7, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 4/1
+
+[<sup>1</sup> § 1er. Le registre des associations, visé à l'article 4, a pour objectif :
+
+1° de simplifier et d'optimiser les interactions entre les associations, d'une part, et les instances, les autorités externes, les organisations faîtières concernées et les citoyens, d'autre part ;
+
+2° de mettre à disposition dans la sphère publique des informations sur les associations visant à promouvoir la vie associative et à soutenir le développement de la politique.
+
+A cette fin, les données suivantes sur les associations peuvent être traitées dans le registre des associations :
+
+1° les noms et les dénominations ;
+
+2° le statut, à savoir actif ou inactif ;
+
+3° les coordonnées ;
+
+4° la description de l'objectif ;
+
+5° les classifications ;
+
+6° le cas échéant, la relation avec une organisation faîtière ou des sections ;
+
+7° le prénom, le nom, le numéro d'identification du Registre national, les coordonnées et la qualité des personnes physiques agissant en tant que représentants au nom et pour le compte de l'association, ou, si les représentants sont des personnes morales, la dénomination et le numéro d'entreprise ;
+
+8° le cas échéant, le prénom, le nom, le numéro d'identification de la Banque Carrefour de la sécurité sociale, les coordonnées et la qualité des personnes physiques agissant en tant que représentants au nom et pour le compte de l'association si les données se rapportent à une personne physique qui n'est pas inscrite au Registre national ;
+
+9° le cas échéant, l'agrément ;
+
+10° le cas échéant, le numéro de compte bancaire ;
+
+11° un code d'association unique ;
+
+12° le cas échéant, le numéro BCE.
+
+Pour les associations sans but lucratif, les associations internationales sans but lucratif et les fondations, les données visées aux points 1°, 2°, 3°, 7°, 8°, 10° et 12° proviennent de la Banque-Carrefour des Entreprises.
+
+Pour les associations de fait et les sections d'organisations faîtières, les données visées aux points 7° et 8° proviennent du Registre national ou, le cas échéant, des registres Banque-Carrefour visés à l'article 4 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale.
+
+Le Gouvernement flamand peut préciser les données visées à l'alinéa 2 et, après l'avis de l'organe de pilotage, les compléter par d'autres données nécessaires à l'identification des associations ou présentant un intérêt commun pour plusieurs instances.
+
+Par l'enregistrement qualitatif des données visées à l'alinéa 2, le registre des associations attribue une identification unique aux associations.
+
+§ 2. L'entité met les données, visées au paragraphe 1er, alinéa 2, à la disposition des instances, des autorités externes et des organisations faîtières concernées qui peuvent traiter les données de manière légitime dans le respect de la réglementation relative à la protection des personnes physiques lors du traitement de données à caractère personnel pour réaliser l'objectif, visé au paragraphe 1er, alinéa 1er, 1°. Par dérogation à l'article 3, les institutions investies d'une mission de service public qui répondent à la condition visée à l'article I.3, 6°, c), 3), du Décret de gouvernance du 7 décembre 2018 en ce qui concerne la gestion sous la tutelle de l'Autorité flamande mais non sous la tutelle d'une autorité locale ou d'une autre institution investie d'une mission de service public, et qui ne remplissent pas les conditions visées à l'article I.3, 6°, c), 1) ou 2), du Décret de gouvernance du 7 décembre 2018, peuvent consulter les données, visées au paragraphe 1er, pour l'objectif précité, visé au paragraphe 1er, alinéa 1er, dans la mesure où leurs services s'adressent principalement aux associations.
+
+L'entité met à la disposition du public les données des associations actives, visées au paragraphe 1er, alinéa 2, 1° à 6°, 9°, 11° et 12°, afin de réaliser l'objectif visé au paragraphe 1er, alinéa 1er, 2°. A la demande expresse des associations de fait, les données de l'association de fait concernée ne sont pas mises à la disposition du public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 8, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 4/2
+
+[<sup>1</sup> § 1er. Les instances et les organisations faîtières transmettent les données qu'elles ont validées, visées à l'article 4/1, à l'entité visée à l'article 4. Par dérogation à l'article 3, les institutions investies d'une mission de service public, visées à l'article 4/1, § 2, peuvent également transmettre les données précitées qu'elles ont validées, à l'entité précitée. Les instances, organisations faîtières et institutions investies d'une mission de service public précitées collaborent à la création et à la mise à jour du registre des associations et veillent en particulier à ce que les données dont elles ont connaissance du fait de leur service ou de leur fonctionnement puissent être reprises avec précision dans le registre des associations par l'entité. Elles utilisent le numéro d'identification du Registre national ou de la Banque Carrefour de la sécurité sociale pour identifier les représentants de manière unique.
+
+Le Gouvernement flamand détermine les données à fournir, les instances qui doivent les fournir, ainsi que la manière de les fournir. Pour ce faire, le Gouvernement flamand peut fixer un calendrier pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage.
+
+Le Gouvernement flamand détermine les données à fournir, les organisations faîtières qui doivent les fournir, ainsi que la manière de les fournir. Pour ce faire, le Gouvernement flamand peut fixer un calendrier après l'avis de l'organe de pilotage.
+
+Les instances, les organisations faîtières et les institutions investies d'une mission de service public telles que visées à l'article 4/1, § 2, ne sont pas soumises au respect de l'article 8 pour la fourniture des données.
+
+Le Gouvernement flamand peut déterminer les données à fournir, les associations qui doivent les fournir, ainsi que la manière de les fournir à l'entité visée à l'article 4. Pour ce faire, le Gouvernement flamand peut chaque fois fixer un calendrier après l'avis de l'organe de pilotage.
+
+§ 2. Les instances, les organisations faîtières et les institutions investies d'une mission de service public telles que visées à l'article 4/1, § 2, sont considérées comme des initiateurs de données. Par initiateur de données on entend une instance ou un tiers qui a la responsabilité finale exclusive d'enregistrer une ou plusieurs données dans le registre des associations, visé à l'article 4.
+
+L'entité et les initiateurs de données ne peuvent pas se facturer mutuellement des frais pour l'enregistrement ou faire valoir des droits sur les données fournies pour l'exécution de la mission qui leur est confiée dans le présent décret.
+
+§ 3. Sur la proposition de l'organe de pilotage, le Gouvernement flamand peut arrêter des modalités relatives à la manière dont les initiateurs de données exécutent la mission, visée au paragraphe 1er, par rapport à l'entité.
+
+L'entité est responsable des modalités d'exercice du droit à la rectification gratuite des données, comme le prévoit l'article 16 du règlement général sur la protection des données pour la rectification des données à caractère personnel. Les demandes d'ajustement des données inexactes, incomplètes ou incorrectes peuvent être introduites par les canaux d'accès déterminés par l'entité. Selon le cas, l'entité transmet à la Banque-Carrefour des Entreprises et aux initiateurs de données les notifications reçues concernant les données inexactes, incomplètes ou incorrectes. L'entité détermine, après consultation des instances et organisations faîtières concernées, la manière dont les demandes sont examinées, dont le résultat de l'examen est communiqué au demandeur et dont il est donné suite à ce résultat.
+
+§ 4. En ce qui concerne le traitement des données à caractère personnel en exécution de la présente section, les initiateurs de données et l'entité, respectivement, chacun dans la mesure où ce traitement est effectué sous sa propre responsabilité, sont les responsables du traitement tels que visés à l'article 4, 7), du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 9, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 4/3
+
+[<sup>1</sup>Les instances qui sont initiateurs de données consultent d'abord les données, visées à l'article 4/1 du présent décret, dont elles ont besoin pour l'exécution des missions d'intérêt général dont elles sont chargées ou pour l'accomplissement des obligations qui leur incombent, et qui sont disponibles auprès d'elles dans une source de données dont la gestion des données leur a été confiée conformément à l'article 6/1 du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand. Si les données précitées ne sont pas disponibles auprès de l'instance concernée, celle-ci, par l'intermédiaire de l'intégrateur de services flamand visé à l'article 3, § 1er, du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand, demande les données au registre des associations visé à l'article 4 du présent décret. Pour ce faire, le Gouvernement flamand fixe un calendrier pour chaque donnée et pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage.
+
+Les instances qui ne sont pas d'initiateur de données demandent les données au registre des associations, par l'intermédiaire de l'intégrateur de services flamand précité. Pour ce faire, le Gouvernement flamand fixe un calendrier pour chaque donnée et pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage.
+
+Si seules les données visées à l'article 4/1, § 1er, alinéa 3, doivent être consultées, les instances peuvent demander ces données à la Banque-Carrefour des Entreprises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 10, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 4/4
+
+[<sup>1</sup> Les données à caractère personnel, visées à l'article 4/1, qui ont été modifiées ou supprimées à la demande de l'initiateur de données, visé à l'article 4/2, § 2, ou de la personne physique concernée ou en cas de décès de celle-ci, sont conservées pendant une durée maximale de deux ans à partir du moment où la modification ou la suppression a eu lieu.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/20, art. 7, 013; En vigueur : 21-06-2024&gt;
+
+### Section II.
+
+&lt;Abrogé par DCFL 2012-07-13/14, art. 25, 005; En vigueur : 01-08-2012&gt;
+
+### Section III. [<sup>1</sup> Création d'une source de données avec des numéros de compte ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 12, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 5
+
+[<sup>1</sup>L'entité à désigner par le Gouvernement flamand, chargée de faciliter la numérisation dans les instances, ci-après dénommée l'entité, crée une source de données avec les numéros de compte utilisés par les personnes physiques, ni en qualité d'entrepreneur, ni en qualité de membre du personnel ou de collaborateur d'une instance, dans le cadre de la prestation de services par les instances.
+
+En ce qui concerne le traitement des données à caractère personnel en exécution de la présente section, l'entité est le responsable du traitement au sens de l'article 4, 7), du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 13, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 5/1
+
+[<sup>1</sup> L'objectif de cette source de données est de traiter les numéros de compte des citoyens qui interagissent avec les instances afin que ces dernières puissent les utiliser pour verser aux citoyens des interventions sous quelque forme que ce soit, accordées par une instance.
+
+La source de données n'est accessible qu'aux instances et uniquement pour l'objectif visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 14, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 5/2
+
+[<sup>1</sup> Le traitement du numéro de compte par l'entité est fondé sur le consentement du citoyen, conformément à l'article 4, 11) et à l'article 7 du règlement général sur la protection des données.
+
+Le citoyen donne son consentement soit par la communication volontaire, visée à l'article 5/4, 1°, soit par le consentement demandé à cet effet, visé à l'article 5/4, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 15, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 5/3
+
+[<sup>1</sup> Pour que les numéros de compte soient associés à la personne correcte, les moyens d'identification nécessaires sont traités, à savoir les prénoms, le nom, le numéro d'identification du Registre national et le numéro d'identification des registres Banque-Carrefour.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 16, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 5/4
+
+[<sup>1</sup>Le numéro de compte est communiqué à l'entité de la manière suivante :
+
+1° directement par le citoyen via l'accès axé sur le citoyen, visé à l'article II.7, alinéas 1er et 7, du Décret de gouvernance du 7 décembre 2018, le cas échéant via la plateforme de coffres-forts de données, visée à l'article 5, § 1er, 2°, du décret du 2 décembre 2022 autorisant la création de l'agence autonomisée externe de droit privé Service public flamand des données (" Vlaams Datanutsbedrijf ") sous forme de société anonyme, dans la mesure où le citoyen a activé son coffre-fort de données. Chaque instance prend les mesures nécessaires à cette fin pour que chaque citoyen puisse reprendre le numéro de compte directement dans la source de données visée à l'article 5. Le citoyen peut communiquer le numéro de compte standard et communiquer un numéro de compte distinct par prestation de services ;
+
+2° indirectement par une instance qui a déjà traité le numéro de compte dans le cadre d'une prestation de services déterminée, si le citoyen donne son consentement. A cette fin, chaque instance communique au citoyen, par le biais de l'accès axé sur le citoyen, visé à l'article II.7, alinéas 1er et 7, du Décret de gouvernance du 7 décembre 2018, les numéros de compte, avec les services correspondants, qui sont connus. L'utilisation du numéro de compte est limitée à la prestation de services dans le cadre de laquelle le numéro de compte a été traité à l'origine, sauf si le citoyen a consenti à ce que le numéro de compte soit également utilisé pour d'autres services. Dans ce dernier cas, le citoyen communique explicitement, via l'accès axé sur le citoyen visé à l'article II.7, alinéas 1er et 7, du Décret de gouvernance du 7 décembre 2018, les autres services pour lesquels le numéro de compte est utilisé. En outre, aux fins de la mise en oeuvre, le Gouvernement flamand fixe un calendrier pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage de la Politique flamande de l'Information et des TIC, visé à l'article III.74 du Décret de gouvernance du 7 décembre 2018.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 17, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 5/5
+
+[<sup>1</sup> Pour verser une intervention accordée par une instance, sous quelque forme que ce soit, à un citoyen, l'instance concernée consulte, par l'intermédiaire de l'intégrateur de services flamand visé à l'article 3, § 1er, du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand, la source de données avec les numéros de compte, visée à l'article 5, afin de vérifier si un numéro de compte est repris dans la source de données précitée pour le paiement de l'intervention accordée en question. L'article 8 ne s'applique pas à cette consultation. Le cas échéant, l'instance utilise ce numéro de compte pour le versement. Le Gouvernement flamand fixe un calendrier pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage.
+
+Chaque instance transmet ses nouveaux services aux citoyens à l'entité. L'entité communique ensuite les nouveaux services au citoyen par le biais de l'accès axé sur le citoyen visé à l'article II.7, alinéas 1er et 7, du Décret de gouvernance du 7 décembre 2018, à condition que le citoyen ait préalablement consenti à être informé des nouveaux services. Le cas échéant, le citoyen peut fournir son numéro de compte pour ces nouveaux services, conformément à l'article 5/4, 2°. Le Gouvernement flamand fixe un calendrier pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 18, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 5/6
+
+[<sup>1</sup> L'entité invite le citoyen à valider les données relatives à ses numéros de compte au moins une fois par an, conformément à l'article 5/4. Le citoyen communique immédiatement toute modification à l'entité conformément à l'article 5/4. En l'absence de validation ou de modification, l'instance ne peut être tenue responsable du versement erroné ou du non-versement de l'intervention concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 19, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 5/7
+
+[<sup>1</sup> Les numéros de compte, visés à l'article 5, qui ont été modifiés ou supprimés à la demande du citoyen ou en cas de décès de celui-ci, sont conservés pendant une durée maximale de deux ans à partir du moment où la modification ou la suppression a eu lieu. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/20, art. 8, 013; En vigueur : 21-06-2024&gt;
+
+### Section III. - Droits et obligations.
+
+### Section IV. [<sup>1</sup> Création d'une source de données avec les coordonnées des citoyens]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 21, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 6
+
+[<sup>1</sup> L'entité à désigner par le Gouvernement flamand, chargée de faciliter la numérisation dans les instances, ci-après dénommée l'entité, crée une source de données avec les coordonnées utilisées par les citoyens, ni en qualité d'entrepreneur, ni en qualité de membre du personnel ou de collaborateur d'une instance, dans le cadre de la prestation de services par les instances.
+
+Dans la présente section, on entend par coordonnées : adresse e-mail, numéro de téléphone ou numéro de GSM.
+
+En ce qui concerne le traitement des données à caractère personnel en exécution de la présente section, l'entité est le responsable du traitement au sens de l'article 4, 7), du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 22, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 7
+
+[<sup>1</sup>L'objectif de cette source de données est de traiter les coordonnées des citoyens qui interagissent avec les instances afin que ces dernières puissent les utiliser pour interagir avec le citoyen.
+
+La source de données n'est accessible qu'aux instances et uniquement pour l'objectif visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 23, 012; En vigueur : 21-08-2023&gt;
+
+### Section III/1. [<sup>1</sup> - Des documents administratifs faisant l'objet d'une réutilisation tel que visé à l'article 3 du décret du 27 avril 2007 portant réutilisation des informations du secteur public]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-06-12/07, art. 13, 007; En vigueur : 10-07-2015&gt;
+
+#### Art. 7/1
+
+[<sup>1</sup> Le traitement des coordonnées par l'entité est fondé sur le consentement du citoyen, conformément à l'article 4, 11) et à l'article 7 du règlement général sur la protection des données.
+
+Ce consentement est donné soit par la communication volontaire, visée à l'article 7/3, 1°, soit par le consentement demandé à cet effet, visé à l'article 7/3, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 24, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 7/2
+
+[<sup>1</sup>Pour que les coordonnées soient liées à la personne correcte, les moyens d'identification nécessaires sont traités, à savoir les prénoms, le nom, le numéro d'identification du Registre national et le numéro d'identification des registres Banque-Carrefour. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-06-23/13, art. 25, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 7/3
+
+[<sup>1</sup>Les coordonnées peuvent être fournies à l'entité de la manière suivante :
+
+1° directement par le citoyen via l'accès axé sur le citoyen, visé à l'article II.7, alinéas 1er et 7, du Décret de gouvernance du 7 décembre 2018, le cas échéant via la plateforme de coffres-forts de données, visée à l'article 5, § 1er, 2°, du décret du 2 décembre 2022 autorisant la création de l'agence autonomisée externe de droit privé Service public flamand des données (" Vlaams Datanutsbedrijf ") sous forme de société anonyme, si le citoyen a activé son coffre-fort de données. Chaque instance prend les mesures nécessaires pour que chaque citoyen puisse reprendre ses coordonnées directement dans la source de données visée à l'article 6. Le citoyen peut communiquer une préférence de coordonnées et communiquer des coordonnées par service ;
+
+2° indirectement par une instance qui a déjà traité des coordonnées dans le cadre d'une prestation de services déterminée, si le citoyen donne son consentement. A cette fin, chaque instance communique au citoyen, par le biais de l'accès axé sur le citoyen, visé à l'article II.7, alinéas 1er et 7, du Décret de gouvernance du 7 décembre 2018, les coordonnées, avec les services correspondants, qui sont connues. L'utilisation des coordonnées est limitée à la prestation de services dans le cadre de laquelle elles ont été traitées à l'origine, sauf si le citoyen a consenti à ce que les coordonnées soient également utilisées pour d'autres services. Dans ce dernier cas, le citoyen communique explicitement, via l'accès axé sur le citoyen visé à l'article II.7, alinéas 1er et 7, du Décret de gouvernance du 7 décembre 2018, les autres services pour lesquels les coordonnées peuvent être utilisées. Aux fins de la mise en oeuvre, le Gouvernement flamand fixe un calendrier pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 26, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 7/4
+
+[<sup>1</sup>Pour interagir avec un citoyen, l'instance concernée consulte, par l'intermédiaire de l'intégrateur de services flamand visé à l'article 3, § 1er, du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand, la source de données avec les coordonnées, visée à l'article 6, afin de vérifier si des coordonnées pour la prestation de services concernée sont reprises dans la source de données précitée. L'article 8 ne s'applique pas à cette consultation. Le cas échéant, l'instance utilise ces coordonnées pour interagir. Le Gouvernement flamand fixe un calendrier pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage.
+
+Chaque instance transmet ses nouveaux services aux citoyens à l'entité. L'entité communique ensuite les nouveaux services au citoyen par le biais de l'accès axé sur le citoyen, visé à l'article II.7, alinéas 1er et 7, du Décret de gouvernance du 7 décembre 2018, à condition que le citoyen ait préalablement consenti à être informé des nouveaux services. Le cas échéant, le citoyen peut fournir ses coordonnées pour ces nouveaux services, conformément à l'article 7/3, 2°. Le Gouvernement flamand fixe un calendrier pour chaque instance ou groupe d'instances après l'avis de l'organe de pilotage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 27, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 7/5
+
+[<sup>1</sup> L'entité invite le citoyen à valider ses coordonnées au moins une fois par an, conformément à l'article 7/3. Le citoyen communique immédiatement toute modification à l'entité conformément à l'article 7/3. En l'absence de validation ou de modification, l'instance ne peut être tenue responsable de la prise de contact erronée ou de la non-prise de contact.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 28, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 7/6
+
+[<sup>1</sup> Les coordonnées, visées à l'article 6, qui ont été modifiées ou supprimées à la demande du citoyen ou en cas de décès de celui-ci, sont conservées pendant une durée maximale de deux ans à partir du moment où la modification ou la suppression a eu lieu.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/20, art. 9, 013; En vigueur : 21-06-2024&gt;
+
+## CHAPITRE III. [<sup>1</sup> La protection des personnes physiques à l'égard du traitement des données à caractère personnel et la Commission de contrôle flamande du traitement des données à caractère personnel]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 14, 009; En vigueur : 26-06-2018&gt;
+
+### Section Ire. [<sup>1</sup> - La protection des personnes physiques à l'égard du traitement des données à caractère personnel]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 15, 009; En vigueur : 26-06-2018&gt;
+
+#### Art. 8
+
+[<sup>1</sup> § 1. Toute communication électronique de données à caractère personnel [<sup>3</sup> sur la base de l'article 6, alinéa 1er, c) et e), du règlement général sur la protection des données, ]<sup>3</sup> par une autorité à une autre autorité ou à une autorité extérieure[<sup>2</sup> ou à une organisation privée ]<sup>2</sup> nécessite un protocole conclu entre les [<sup>2</sup> responsables du traitement]<sup>2</sup> concernées.[<sup>2</sup> Aucun protocole n'est conclu entre des responsables conjoints du traitement.]<sup>2</sup>
+
+En tout état de cause, ce protocole prévoit ce qui suit :
+
+1° l'identification des responsables du traitement ;
+
+2° les finalités pour lesquelles les données personnelles sont communiquées ;
+
+3° les catégories et l'étendue des données personnelles communiquées conformément au principe de proportionnalité ;
+
+4° les catégories de destinataires et de tiers qui peuvent également obtenir les données ;
+
+5° la base juridique de la communication et de la collecte des données ;
+
+6° les mesures de sécurité de la communication, en tenant compte de l'état de la technique, des coûts de mise en oeuvre, ainsi que de la nature, de la portée, du contexte et des finalités du traitement, et des différents risques pour les droits et libertés des individus en termes de probabilité et de gravité ;
+
+7° la périodicité de la communication ;
+
+8° la durée de la communication ;
+
+9° les sanctions en cas de non-respect du protocole ;
+
+10° la description des finalités exactes pour lesquelles les données ont été collectées à l'origine par l'organisme qui gère les données demandées ;
+
+11° en cas de traitement ultérieur des données collectées, indication de l'analyse de compatibilité des finalités de ce traitement avec la finalité pour laquelle les données ont été initialement collectées conformément à l'article 6, quatrième alinéa du Règlement général sur la protection des données ;
+
+12° les accords concernant la garantie de la qualité des données et, le cas échéant, le respect du cadre juridique régissant l'accès à la source authentique des données ;
+
+13° des mesures spécifiques encadrant la communication des données telles que le choix du format de communication, l'enregistrement des accès afin qu'il soit possible de vérifier qui a eu accès à quelles données et quand et pourquoi et l'instauration d'un registre de référence en cas de communication automatique des changements apportés aux données.
+
+[<sup>2</sup> Le protocole est conclu par les responsables du traitement concernés après l'avis respectif du délégué à la protection des données de l'autorité de communication et des destinataires concernés, s'ils sont tenus par loi ou par décret de désigner un délégué à la protection des données ou s'ils ont volontairement désigné un délégué à la protection des données. Le protocole est ensuite immédiatement publié sur le site web de toutes les parties impliquées dans la communication.]<sup>2</sup>. Avant la conclusion d'un protocole, l'avis de la Commission de contrôle flamande visée à l'article 10 ou 10/1 peut être sollicité à la demande d'une partie concernée. La Commission de contrôle flamande rend son avis dans un délai de trente jours après que toutes les informations nécessaires à cet effet lui ont été communiquées. Dans les cas urgents pour lesquels des raisons particulières ont été données, le délai peut être ramené à 15 jours. Les avis de la Commission de contrôle flamande sont écrits et motivés. Ils sont communiqués à l'organisme concerné et publiés sur le site internet de la Commission de contrôle flamande.
+
+[<sup>2</sup> § 1/ 1. Si les responsables du traitement concernés ne parviennent pas à un accord sur la communication électronique de données à caractère personnel ou si au moins l'une de ces parties demande une délibération, une délibération préalable du Comité flamand pour la communication de données à caractère personnel, visé à l'article 9/1, peut être demandée sur la communication envisagée.
+
+Si les parties ne parviennent pas à un accord, la demande est introduite par les responsables du traitement concernés.
+
+Si une partie demande une délibération, elle en informe les autres responsables du traitement.
+
+La demande ne doit pas être motivée à l'égard du Comité flamand pour la communication de données à caractère personnel.
+
+Si le Comité flamand pour la communication de données à caractère personnel délibère sur la communication de données à caractère personnel, une exemption de l'obligation d'établir un protocole à ce sujet avec le destinataire des données à caractère personnel, s'applique par dérogation au paragraphe 1er.
+
+La délibération du Comité flamand pour la communication de données à caractère personnel n'oblige pas à la communication des données mais est contraignante en ce qui concerne les modalités de la communication si celle-ci est décidée. ;
+
+§ 1/2. Des protocoles généraux sur la communication électronique de données à caractère personnel peuvent être conclus avec des responsables du traitement du même secteur chargés d'accomplir les mêmes missions d'intérêt général ou de remplir les mêmes obligations qui leur incombent.
+
+Un protocole général est établi après l'avis du délégué à la protection des données de l'autorité de communication. Un protocole général contient les éléments visés au paragraphe 1er, alinéa 2, et les modalités à respecter par les responsables du traitement destinataires. En ce qui concerne le protocole général, l'avis du Comité flamand pour la communication de données à caractère personnel, visé à l'article 9/1, est demandé au préalable.
+
+Les responsables du traitement des instances ou organisations du secteur concerné peuvent adhérer à un protocole général après l'avis de leur délégué à la protection des données et après la confirmation par le responsable du traitement du respect des modalités du protocole général.
+
+Cet avis et cette confirmation sont transmis à l'autorité de communication. Cette autorité de communication publie le protocole général et la liste des responsables du traitement affiliés sur son site web. Les responsables du traitement affiliés publient le protocole général sur leur site web.
+
+L'autorité de communication avec laquelle les responsables du traitement du secteur concerné souhaitent conclure un protocole général peut décider de demander une délibération générale préalable au Comité flamand pour la communication de données à caractère personnel, visé à l'article 9/1, au lieu de conclure un protocole général.]<sup>2</sup>
+
+§ 2. La communication de données à caractère personnel, visé au paragraphe 1[<sup>2</sup> et au paragraphe 1/1]<sup>2</sup>, ne requiert pas de protocole si le Comité de sécurité de l'information, constitué en application de l'article 2 de la loi créant le Comité de sécurité de l'information et modifiant diverses lois relatives à l'exécution du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, est compétent pour délibérer relativement à cette communication.
+
+§ 3. La communication de données à caractère personnel au sein d'une autorité est soumise à la décision du responsable du traitement de cette autorité, après avis préalable du délégué à la protection des données de cette autorité. Le délégué à la protection des données indique au responsable du traitement quels types de données à caractère personnel peuvent être communiquées entre les entités au sein de l'instance concernée, à quelles fins spécifiques et comment cette communication doit avoir lieu. Cette fin, le délégué à la protection des données examine si les données sont adéquates et pertinentes, et limitées à ce qui est nécessaire aux fins pour lesquelles elles sont communiquées. Si le délégué à la protection des données considère que la communication, compte tenu de la nature, de la portée, du contexte et des objectifs de la communication, constitue probablement un risque élevé pour les droits et libertés des personnes physiques dont les données doivent être communiquées, l'avis [<sup>2</sup> du Comité flamand pour la communication de données à caractère personnel, visé à l'article 9/1]<sup>2</sup> peut être sollicité avant la communication.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 16, 009; En vigueur : 26-06-2018&gt;
+
+(2)&lt;DCFL 2023-06-23/13, art. 30,3°, 012; En vigueur : 21-08-2023&gt;
+
+(3)&lt;DCFL 2024-05-17/20, art. 2, 013; En vigueur : 21-06-2024&gt;
+
+#### Art. 9
+
+[<sup>1</sup> Conformément à l'article 37 du règlement général sur la protection des données, chaque autorité traitant des données à caractère personnel désigne un délégué à la protection des données.
+
+Le gouvernement flamand détermine de manière plus détaillée les tâches et le mode de désignation de ces délégués à la protection des données.
+
+Lorsque l'autorité fait appel à un sous-traitant visé à l'article 4, point 8), du règlement général sur la protection des données, le sous-traitant désigne également un délégué à la protection des données.
+
+Les conseillers à la sécurité désignés par les autorités conformément à l'article 9 du décret du 18 juillet 2008 sur l'échange électronique de données administratives et au décret du gouvernement flamand du 15 mai 2009 sur les conseillers à la sécurité, visés à l'article 9 du décret du 18 juillet 2008 sur l'échange électronique de données administratives, applicable au plus tard le 24 mai 2018, peuvent inclure le poste de délégué à la protection des données s'ils satisfont aux exigences énoncées à l'article 37, cinquième alinéa, du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 17, 009; En vigueur : 25-05-2018&gt;
+
+### Section I/2. [<sup>1</sup> Le Comité flamand pour la communication de données à caractère personnel ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 31, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 9/1
+
+[<sup>1</sup>§ 1er. Il est institué un Comité flamand pour la communication de données à caractère personnel, composé de membres nommés par le Gouvernement flamand.
+
+§ 2. Le Comité flamand de communication de données à caractère personnel est composé des trois membres effectifs suivants :
+
+1° un expert en matière de protection des données à caractère personnel, de réglementation en la matière et d'organisation de l'échange électronique de données administratives en Flandre ;
+
+2° un expert en technologies des données ;
+
+3° un expert en gestion électronique des identités et en sécurité de l'information.
+
+Le Gouvernement flamand désigne le président parmi les membres. Pour chaque membre effectif, un membre suppléant est désigné aux mêmes conditions.
+
+Lors de toute délibération du Comité flamand pour la communication de données à caractère personnel, les membres présents disposent ensemble de l'expertise précitée.
+
+§ 3. Pour être nommé membre effectif ou suppléant du Comité flamand pour la communication de données à caractère personnel et le rester, les candidats doivent remplir les conditions suivantes :
+
+1° être Belge ou ressortissant de l'Union européenne ;
+
+2° jouir des droits civils et politiques ;
+
+3° ne pas relever du pouvoir hiérarchique ou fonctionnel d'un ministre ou d'un secrétaire d'Etat du Gouvernement fédéral, du Gouvernement flamand ou d'un autre gouvernement communautaire ou régional ;
+
+4° ne pas être membre du Parlement européen, du Parlement fédéral, du Parlement flamand ou d'un autre conseil communautaire ou régional ;
+
+5° ne pas être membre du Gouvernement fédéral, du Gouvernement flamand ou d'un autre gouvernement communautaire ou régional, ni exercer une fonction dans une cellule politique ou le cabinet d'un ministre ;
+
+6° ne pas être membre ou membre du personnel de l'Autorité pour la protection des données, de la Commission de contrôle flamande du traitement des données à caractère personnel ou d'une autre autorité de contrôle en matière de protection des données ;
+
+7° ne pas être membre du conseil d'administration du Service public flamand des données ou d'une entreprise dans laquelle le Service public flamand des données a une participation ;
+
+8° ne pas être membre du personnel statutaire ou contractuel du Service public flamand des données ou d'une entreprise dans laquelle le Service public flamand des données a une participation ;
+
+9° ne pas avoir de poste ou de mandat de membre du personnel statutaire ou contractuel d'un intégrateur de services.
+
+§ 4. Les membres du Comité flamand pour la communication de données à caractère personnel sont nommés par le Gouvernement flamand pour un délai renouvelable de six ans. Ils peuvent être déchargés de leur mission par le Gouvernement flamand.
+
+Lorsque le mandat d'un membre effectif ou suppléant prend fin avant son terme, il est pourvu dans les meilleurs délais au remplacement de ce membre. Le nouveau membre achève le mandat de celui qu'il remplace.
+
+§ 5. Le mandat du membre du Comité flamand pour la communication de données à caractère personnel prend fin de plein droit s'il est déclaré définitivement inapte au travail.
+
+Le Gouvernement flamand met fin au mandat d'un membre du Comité flamand pour la communication de données à caractère personnel :
+
+1° à la demande du membre ;
+
+2° si le membre ne remplit plus les conditions visées au paragraphe 3.
+
+Le Gouvernement flamand peut mettre fin au mandat du membre du Comité flamand pour la communication de données à caractère personnel :
+
+1° si le membre atteint l'âge de 67 ans ;
+
+2° si le membre a gravement manqué à l'exercice de ses fonctions. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 32, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 9.2
+
+[<sup>1</sup> § 1er. Dans les limites de leurs compétences, les membres du Comité flamand pour la communication de données à caractère personnel ne reçoivent d'instructions de personne. Ils ne peuvent être relevés de leur charge en raison des opinions qu'ils émettent ou des actes qu'ils accomplissent pour remplir leurs fonctions.
+
+Les membres du Comité flamand pour la communication de données à caractère personnel sont impartiaux et objectifs et ne peuvent faire preuve de partialité, sous quelque forme que ce soit.
+
+§ 2. Les membres du Comité flamand pour la communication de données à caractère personnel et leurs collaborateurs sont tenus à une obligation de confidentialité pour tout ce dont ils ont pu avoir connaissance en raison de leurs fonctions. Tous les membres signent une déclaration sur la confidentialité et les conflits d'intérêts. Lorsque, dans un dossier donné, un conflit d'intérêts découlant des activités ou de la fonction d'un membre, rend un jugement impartial impossible, ce membre ne peut pas participer à la prise de décision dans ce dossier. Le membre informe le président ou, s'il est lui-même le président, le président suppléant, du conflit d'intérêts et de son abstention de participation à la prise de décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 33, 012; En vigueur : 11-08-2023&gt;
+
+#### Art. 9.3
+
+[<sup>1</sup> En cas d'empêchement ou d'absence du président ou au cas où il ne peut prendre part à la prise de décision à cause d'un conflit d'intérêts, sa fonction est exercée par un autre membre effectif ayant la même expertise.
+
+Les membres suppléants remplacent les membres effectifs ayant la même expertise en cas d'empêchement, d'absence ou dans l'attente de leur remplacement.
+
+Un membre suppléant ne peut participer à une réunion du Comité flamand pour la communication de données à caractère personnel que si ce membre effectif ne participe pas lui-même à cette réunion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 34, 012; En vigueur : 11-08-2023&gt;
+
+#### Art. 9.4
+
+[<sup>1</sup> Les membres, à l'exception du membre exerçant la présidence, ont droit, par séance du Comité flamand pour la communication de données à caractère personnel à laquelle ils assistent, à un jeton de présence d'un montant de 175,89 euros. Le jeton de présence suit l'évolution de l'indice santé conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public, telle que modifiée par l'arrêté royal n° 178 du 30 décembre 1982 et sans préjudice de l'application de l'article 2 de l'arrêté royal du 24 décembre 1993 en exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays. Le jeton de présence à 100 pour cent est lié à l'indice pivot 138,01.
+
+Le membre exerçant la présidence du Comité flamand pour la communication de données à caractère personnel a droit, par séance du Comité flamand pour la communication de données à caractère personnel à laquelle il assiste, à deux fois le jeton de présence visé à l'alinéa 1er.
+
+Les membres, y compris le membre exerçant la présidence, bénéficient des indemnités pour frais de séjour et de parcours conformément aux dispositions applicables au personnel des services de l'Autorité flamande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 35, 012; En vigueur : 11-08-2023&gt;
+
+#### Art. 9.5
+
+[<sup>1</sup> Le Comité flamand pour la communication de données à caractère personnel est établi et tient ses réunions à l'entité, chargée de faciliter la numérisation dans les instances, qui met à disposition les bureaux et moyens bureautiques nécessaires au fonctionnement et à la présidence, ainsi que du personnel spécialisé, dans la mesure requise par la réalisation des missions du Comité flamand pour la communication de données à caractère personnel. Le cas échéant, le président du Comité flamand pour la communication de données à caractère personnel a la responsabilité fonctionnelle de ce personnel en ce qui concerne les tâches qu'il assume pour le Comité flamand pour la communication de données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 36, 012; En vigueur : 11-08-2023&gt;
+
+#### Art. 9.6
+
+[<sup>1</sup> L'entité chargée de faciliter la numérisation dans les instances rédige un avis technique et juridique relatif à toute demande concernant la communication de données à caractère personnel dont elle a reçu une copie de la part du Comité flamand pour la communication de données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 37, 012; En vigueur : 11-08-2023&gt;
+
+#### Art. 9.7
+
+[<sup>1</sup> Les frais de fonctionnement du Comité flamand pour la communication de données à caractère personnel, y compris les indemnités et remboursements de frais versés au président et aux autres membres, dans la mesure où ils sont liés à l'exécution de ses missions, sont pris en charge par l'entité chargée de faciliter la numérisation dans les instances.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 38, 012; En vigueur : 11-08-2023&gt;
+
+#### Art. 9.8
+
+[<sup>1</sup>Le Comité flamand pour la communication de données à caractère personnel arrête son règlement d'ordre intérieur, contenant notamment les modalités d'introduction des demandes, d'envoi des demandes à l'entité chargée de faciliter la numérisation dans les instances, et de réception de l'avis technique et juridique de l'entité chargée de faciliter la numérisation dans les instances. Le règlement d'ordre intérieur mentionne qu'en cas de partage des voix, la voix du président est décisive.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 39, 012; En vigueur : 11-08-2023&gt;
+
+#### Art. 9.9
+
+[<sup>1</sup> Aux fins de la protection des données, le Comité flamand pour la communication de données à caractère personnel est chargé des tâches suivantes en ce qui concerne la communication de données par les instances :
+
+1° formuler les bonnes pratiques qu'il juge utiles pour la communication de données à caractère personnel par les instances ;
+
+2° accorder dans un délai de 30 jours à compter de la réception d'un dossier complet recevable des délibérations pour la communication de données à caractère personnel ;
+
+3° accorder dans un délai de 30 jours à compter de la réception d'un dossier complet recevable des délibérations générales à une certaine catégorie de bénéficiaires si plusieurs instances publiques ou privées ayant une mission d'intérêt général ont des besoins structurels similaires à l'égard de certaines données gérées par les instances. Il établit le cadre de la communication et définit notamment les conditions et les modalités que doit remplir un demandeur pour se joindre à la délibération générale ;
+
+4° tenir à jour et publier les délibérations, visées aux points 2° et 3°, sur le site web du Comité flamand pour la communication de données à caractère personnel ;
+
+5° publier annuellement sur le site web du Comité flamand pour la communication de données à caractère personnel un rapport concis sur l'exécution des missions au cours de l'année écoulée, avec une attention particulière pour les dossiers sur lesquels aucune décision n'a pu être prise dans les délais.
+
+La Commission de contrôle flamande du traitement des données à caractère personnel peut confronter toute délibération du Comité flamand pour la communication de données à caractère personnel, quel que soit le moment où elle a été rendue, au règlement général sur la protection des données. Sans préjudice de ses autres compétences, elle peut demander au Comité flamand pour la communication de données à caractère personnel, lorsqu'elle constate de manière motivée qu'une délibération n'est pas conforme au règlement général sur la protection des données, de reconsidérer cette délibération sur les points qu'elle a indiqués. Le cas échéant, le Comité flamand pour la communication de données à caractère personnel soumet les délibérations modifiées pour avis à la Commission de contrôle flamande du traitement des données à caractère personnel. Si celle-ci ne formule pas de remarques supplémentaires, la délibération modifiée est réputée être définitive.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/13, art. 40, 012; En vigueur : 11-08-2023&gt;
+
+### Section II. [<sup>1</sup> - La Commission de contrôle flamande pour le traitement des données à caractère personnel]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 18, 009; En vigueur : 25-05-2018&gt;
+
+#### Art. 10
+
+§ 1er. [<sup>2</sup> Il est créé une commission de contrôle flamande]<sup>2</sup> pour l'échange électronique de données administratives, qui se compose de [<sup>3</sup> trois]<sup>3</sup> membres effectifs et [<sup>3</sup> trois]<sup>3</sup> membres suppléants. La durée de leur mandat est de cinq ans et est renouvelable. [<sup>3</sup> Les trois membres sont respectivement un juriste, un informaticien et une personne ayant une expérience professionnelle dans la gestion des données à caractère personnel.]<sup>3</sup>
+
+Au sein de la commission de contrôle, le Parlement flamand peut créer des chambres pour des matières spécifiques.
+
+§ 2. [<sup>3</sup> La Commission de contrôle flamande demande à la Commission pour la protection de la vie privée, visée à l'article 114, § 1, deuxième alinéa, de la loi du 3 décembre 2017 instituant l'Autorité de protection des données, d'envoyer un membre pour assister à chaque délibération de la Commission de contrôle flamande de l'échange électronique de données administratives en tant qu'observateur.]<sup>3</sup>
+
+§ 3. Le suppléant remplace le membre dont il est le suppléant, lorsque ce membre ne peut participer à la décision de la commission de contrôle en raison d'un conflit d'intérêts, ou en attendant son remplacement.
+
+Si le mandat d'un membre de la commission de contrôle prend fin avant la date fixée, le Parlement flamand pourvoit dans les six mois à son remplacement.
+
+Le nouveau membre achève le mandat de son prédécesseur.
+
+§ 4. Pour pouvoir être désigné en tant que membre effectif ou suppléant, et le demeurer, le candidat doit répondre aux conditions suivantes :
+
+1° jouir des droits civils et politiques;
+
+2° ne pas être membre du Parlement européen, du Sénat, de la Chambre des représentants, du Parlement flamand ou d'un autre conseil communautaire ou régional;
+
+3° ne pas ressortir à l'autorité hiérarchique du Parlement flamand [<sup>1</sup> ...]<sup>1</sup>;
+
+4° garantir l'exercice indépendant de sa mission.
+
+§ 5. Le Parlement flamand règle la procédure en matière d'appel aux candidats et de candidature à une nomination en tant que membre ou membre suppléant.
+
+[<sup>2</sup> § 6. Les membres de la commission de contrôle sont équivalents et ont les mêmes compétences. Dans les limites de ses compétences, la commission de contrôle est entièrement indépendante et neutre et elle ne peut recevoir d'instructions ou d'ordres d'aucune autorité. Les membres de la commission de contrôle ne peuvent être déchus de leur mandat pour leurs opinions ou pour des actes posés dans le cadre de leur fonction au sein de la commission de contrôle.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2009-07-24/13, art. 2, 003; En vigueur : 14-07-2009&gt;
+
+(2)&lt;DCFL 2010-01-08/03, art. 2, 004; En vigueur : 01-01-2010&gt;
+
+(3)&lt;DCFL 2018-06-08/04, art. 19, 009; En vigueur : 25-05-2018&gt;
+
+#### Art. 10 DROIT FUTUR
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 187, 009; En vigueur : indéterminée , à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+#### Art. 10/1
+
+[<sup>1</sup> § 1er. Il est institué une Commission de contrôle flamande du traitement des données à caractère personnel. La Commission de contrôle flamande est un service autonome doté de la personnalité juridique et, en tant qu'autorité de contrôle du traitement des données à caractère personnel, elle est chargée de contrôler l'application de la réglementation générale en matière de protection des données par les organes.
+
+En termes d'organisation, de structure juridique et de prise de décision, la Commission de contrôle flamande est autonome et indépendante, sur le plan fonctionnel, des organes dont il supervise le traitement des données.
+
+La Commission de contrôle flamande est le successeur légal de la Commission de contrôle flamande, instituée par l'article 10 du décret du 18 juillet 2008 sur l'échange électronique de données administratives.
+
+Tous les actes officiels, annonces officielles ou autres documents officiels émis par la Commission de contrôle flamande doivent mentionner le nom du service, avec la mention " service autonome doté de la personnalité juridique " lisiblement et par écrit immédiatement avant ou après.
+
+§ 2. Elle se compose de trois membres effectifs et trois membres suppléants.
+
+La Commission de contrôle flamande demande à l'Autorité de protection des données visée à l'article 3 de la loi du 3 décembre 2017 instituant l'Autorité de protection des données de déléguer un membre pour assister à chaque délibération de la Commission de contrôle flamande en qualité d'observateur.
+
+§ 3. Les membres de la Commission de contrôle flamande ainsi qu'un suppléant pour chacun d'eux sont nommés par le Gouvernement flamand, à la suite d'un appel public à candidatures et sur la base d'une sélection comparative, pour une durée de six ans.
+
+L'appel public à candidatures indique le nombre de sièges vacants, les conditions de nomination et les modalités de présentation des candidatures.
+
+§ 4. Les membres de la Commission de contrôle flamande sont nommés sur la base de leurs qualifications, de leur expérience et de leurs compétences dans le domaine de l'expertise juridique et technologique en matière de traitement et de protection des données à caractère personnel.
+
+Le Gouvernement flamand désigne un président parmi ses membres.
+
+§ 5. Pour pouvoir être et rester membre, le candidat doit satisfaire aux conditions suivantes :
+
+1° être citoyen d'un Etat membre de l'Espace économique européen ;
+
+2° jouir des droits civils et politiques ;
+
+3° ne pas être membre du Parlement européen, du Sénat, de la Chambre des Représentants, du Parlement flamand ou de tout autre parlement communautaire ou régional, du conseil provincial, du conseil de district, du conseil municipal et du conseil de la protection sociale ;
+
+4° ne pas être membre du gouvernement fédéral et d'un gouvernement régional ou communautaire, secrétaire régional, gouverneur provincial, sous-gouverneur, vice-gouverneur, membre de la Députation, conseil de district, bourgmestre de district, bourgmestre ou échevin et ne pas être membre d'une députation permanente ou d'un collège des bourgmestre et échevins ;
+
+5° n'exercer aucune fonction dans un cabinet ou une cellule politique d'une institution visée aux points 3° et 4° ;
+
+6° offrir toutes les garanties en vue de l'exercice indépendant de sa mission ;
+
+7° être titulaire d'un diplôme donnant accès à un poste de niveau A dans les services du Gouvernement flamand ou équivalent par expérience ;
+
+8° avoir au moins cinq ans d'expérience professionnelle utile dans les domaines juridique, administratif ou informatique ;
+
+9° pendant la durée de son mandat, conformément à l'article 52, troisième alinéa, du règlement général sur la protection des données, ne commettre aucun acte incompatible avec ses fonctions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-08/04, art. 20, 009; En vigueur : 25-05-2018&gt;
+
+#### Art. 10/2
+
+[<sup>1</sup> § 1er. Les membres de la Commission de contrôle flamande peuvent exercer au maximum deux mandats, consécutifs ou non. Les mandats ne sont pas renouvelés automatiquement. Le Gouvernement flamand entame la procédure de nomination au plus tard six mois avant l'expiration des mandats.
+
+Si le mandat d'un membre expire avant la date fixée, le Gouvernement flamand entame la procédure de sélection dès que possible en vue de la nomination d'un nouveau membre. Le nouveau membre termine le mandat de son prédécesseur.
+
+§ 2. Dans les limites de ses compétences, la Commission de contrôle flamande est totalement indépendante et neutre et elle ne peut, pas plus que ses membres ni son personnel, ni solliciter ni recevoir d'instructions ou d'ordres du Parlement flamand ou de toute autre entité publique ou privée, directement ou indirectement, comme prévu à l'article 52, deuxième alinéa, du règlement général sur la protection des données. La Commission de contrôle flamande exerce ses fonctions et ses pouvoirs de manière impartiale, objective et transparente.
+
+[<sup>2</sup> La Commission de contrôle flamande peut demander à l'Autorité de protection des données, visée à l'article 3 de la loi du 3 décembre 2017 instituant l'Autorité de protection des données, de déléguer un membre pour assister à une délibération de la Commission de contrôle flamande en qualité d'observateur.]<sup>2</sup>
+
+[<sup>3</sup> Les membres de la Commission de contrôle flamande et ses membres du personnel ne sont pas civilement responsables de leurs décisions, actes ou comportements lors de l'exercice des missions de la Commission de contrôle flamande, sauf dans les cas prévus par la loi.]<sup>3</sup>
+
+§ 3. Le mandat du membre de la Commission de contrôle flamande prend fin de plein droit lorsqu'il est déclaré en incapacité de travail permanente.
+
+Le Gouvernement flamand met fin au mandat du membre de la Commission de contrôle flamande :
+
+1° à la demande du membre ;
+
+2° quand le membre ne satisfait plus aux conditions visées à l'article 7.
+
+Le Gouvernement flamand peut mettre fin au mandat du membre de la Commission de contrôle flamande :
+
+1° lorsque le membre atteint l'âge de 67 ans ;
+
+2° si le membre a commis une faute grave dans l'exercice de ses fonctions.
+
+§ 4. Avant de prendre une décision sur la fin du mandat visé au paragraphe 3, troisième alinéa, 2°, la personne concernée est entendue pour les motifs invoqués.
+
+Avant l'audience, le Gouvernement flamand constitue un dossier contenant tous les documents relatifs aux motifs invoqués.
+
+Au moins cinq jours avant l'audience, la personne concernée est convoqué par lettre recommandée, indiquant au moins
+
+1° les motifs graves invoqués ;
+
+2° le fait que l'abrogation d'un mandat est envisagée ;
+
+3° le lieu, la date et l'heure de l'audience ;
+
+4° le droit de la personne concernée de se faire assister d'une personne de son choix ;
+
+5° le lieu et le délai dans lequel le dossier peut être consulté ;
+
+6° le droit de faire citer des témoins à comparaître.
+
+La personne concernée et la personne qui l'assiste ont accès au dossier à partir du jour de l'envoi de l'avis d'audience jusqu'à la veille de l'audience.
+
+L'audition est consignée dans un procès-verbal.
+
+§ 5. Il est interdit aux membres d'assister à toute délibération ou décision sur des questions dans lesquelles ils ont un intérêt personnel ou direct.
+
+Avant le début de leur mandat, ils doivent remplir et signer une déclaration certifiant qu'il n'y a pas de conflit d'intérêts. Cette déclaration est conservée au secrétariat de la Commission de contrôle flamande pendant toute la durée de leur mandat.
+
+§ 6. Sauf exceptions légales, les membres et le personnel du comité de surveillance flamand sont tenus, pendant et après l'exercice de leurs mandats, statuts et accords respectifs, de préserver le caractère confidentiel des faits, actes ou informations dont ils ont eu connaissance en raison de leur position.
+
+§ 7. La Commission de contrôle flamande peut conclure des protocoles sur l'obligation de confidentialité avec des organismes tiers afin de garantir l'échange des données nécessaires à l'exercice de ses tâches et pouvoirs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-08/04, art. 21, 009; En vigueur : à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+(2)&lt;DCFL 2024-03-29/03, art. 2, 011; En vigueur : 08-04-2024&gt;
+
+(3)&lt;DCFL 2023-06-23/13, art. 41, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 10/3
+
+[<sup>1</sup> § 1er. Le président de la Commission de contrôle flamande dirige les travaux de la Commission de contrôle flamande.
+
+La Commission de contrôle flamande adopte des règles internes qui contiennent en tout état de cause d'autres règles relatives à la gestion financière et à l'organisation administrative ainsi qu'aux méthodes et procédures de travail en vue de l'exercice correct et prudent des différentes tâches et compétences visées aux articles 57 et 58 du règlement général sur la protection des données.
+
+Le règlement intérieur est soumis à l'approbation du Gouvernement flamand et, après approbation, est publié au Moniteur belge et sur le site Internet de la Commission de contrôle flamande.
+
+§ 2. La Commission de contrôle flamande dispose d'un personnel mis à disposition par les services du Gouvernement flamand compétents pour l'échange électronique de données administratives. A la date de la dissolution de la Commission flamande de contrôle de l'échange électronique de données administratives, le personnel statutaire et contractuel mis à la disposition de la Commission flamande de contrôle de l'échange électronique de données administratives sera transféré à la Commission flamande de contrôle du traitement des données personnelles, au moins en conservant leur capacité et leurs droits, leur ancienneté, leurs salaires, allocations et avantages et autres avantages qui leur ont été accordés conformément à la réglementation ou au contrat de travail.
+
+§ 3. Le personnel de la Commission de contrôle flamande est placé sous la direction et l'autorité du président de la Commission de contrôle flamande.
+
+§ 4. Le personnel de la Commission de contrôle flamande est soumis aux dispositions légales applicables au personnel des services du Gouvernement flamand.
+
+§ 5. [<sup>2</sup> Le président suppléant et les membres effectifs ou suppléants ont droit à un jeton de présence de 175,89 euros par séance. Le jeton de présence suit l'évolution de l'indice santé conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public, telle que modifiée par l'arrêté royal n° 178 du 30 décembre 1982 et sans préjudice de l'application de l'article 2 de l'arrêté royal du 24 décembre 1993 en exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays. Le jeton de présence à 100 pour cent est lié à l'indice pivot 138,01. ]<sup>2</sup> Le président a droit à une fois et demie le jeton de présence. Tous les membres ont droit à des indemnités de déplacement et de séjour conformément aux dispositions applicables au personnel des ministères.
+
+§ 6. La Commission de contrôle flamande est régie par les dispositions reprises [<sup>2</sup> à l'article 42, § 1er, alinéa 2, 1°, 2° et 4°, l'article 43, les articles 60 à 65, au chapitre 8, article 80, alinéa 3, et à l'article 110 du décret du 29 mars 2019 contenant le Code flamand des Finances publiques ]<sup>2</sup>.
+
+La Commission de contrôle flamande joint un plan de travail à sa proposition de budget annuel.
+
+§ 7. Conformément à l'article 59 du règlement général sur la protection des données, la Commission de contrôle flamande établit un rapport d'activité et le transmet au Gouvernement flamand, à la Commission européenne, au Conseil européen de la protection des données et à l'Autorité fédérale de protection des données.
+
+Le rapport est publié sur le site web de la Commission de contrôle flamande.
+
+§ 8. Le président de la Commission de contrôle flamande ou, le cas échéant, l'un des autres membres de la Commission de contrôle flamande, peut à sa propre demande ou non, être entendu à tout moment par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-08/04, art. 22, 009; En vigueur : à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+(2)&lt;DCFL 2023-06-23/13, art. 42, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 10/4
+
+[<sup>1</sup> § 1er. La Commission de contrôle flamande rend, soit de sa propre initiative, soit à la demande du Parlement flamand ou du Gouvernement flamand, des avis sur toute question relative au traitement des données à caractère personnel.
+
+La Commission de contrôle flamande rend son avis dans un délai de trente jours après que toutes les informations nécessaires à cet effet lui ont été communiquées. Dans les cas urgents pour lesquels des raisons particulières ont été données, le délai peut être ramené à 15 jours.
+
+Les avis de la Commission de contrôle flamande sont écrits et motivés. Ils sont communiquée à l'autorité concernée.
+
+§ 2. Les avis et recommandations concernant les questions relatives au traitement des données à caractère personnel sont publiés sur le site web de la Commission de contrôle flamande. Dans ses avis et recommandations, la Commission de contrôle flamande tient compte de l'état de l'art, des coûts de mise en oeuvre, ainsi que de la nature, de l'étendue, du contexte et des finalités du traitement, et des risques pour les droits et libertés des personnes qui varient en termes de probabilité et de gravité.
+
+§ 3. Conformément à l'article 35, paragraphe 4, du règlement général sur la protection des données, la Commission de contrôle flamande établit une liste des types de traitements pour lesquels une évaluation de l'impact sur la protection des données par les autorités est obligatoire et la rend accessible au public sur son site web.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-08/04, art. 23, 009; En vigueur : à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+#### Art. 10/5
+
+[<sup>1</sup> Lorsque la personne concernée, visée à l'article 4, point 1), du règlement général sur la protection des données, présente une demande sur la base des articles 12 à 22 du règlement précité dans le cadre d'une enquête la concernant conformément aux dispositions spécifiques prévues par la loi en application de l'article 23, alinéa premier, points e) et h) du règlement précité, la Commission de contrôle flamande effectue les vérifications nécessaires et examine en particulier s'il a été décidé correctement, en application de la disposition précitée du règlement, de ne pas appliquer les obligations et droits visés aux articles 12 à 22 du règlement précité au traitement des données à caractère personnel.
+
+La Commission de contrôle flamande saisit l'autorité concernée et, si le dossier a entre-temps été soumis par l'autorité au ministère public ou au juge d'instruction, la Commission de contrôle flamande saisit également le ministère public ou le juge d'instruction afin d'effectuer les vérifications nécessaires.
+
+La Commission de contrôle flamande informe uniquement la personne concernée que les vérifications nécessaires ont été effectuées. Si nécessaire, la Commission de contrôle flamande ordonne à l'autorité compétente d'accéder aux demandes de la personne concernée pour exercer les droits que lui confère le règlement général sur la protection des données, conformément à l'article 58, deuxième alinéa, point c), du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-08/04, art. 24, 009; En vigueur : à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+#### Art. 10/6
+
+[<sup>1</sup> § 1er. La Commission de contrôle flamande peut charger un ou plusieurs de ses membres d'effectuer une enquête sur place. Ces personnes disposent des pouvoirs d'enquête visés à l'article 58, alinéa premier, du règlement général sur la protection des données.
+
+§ 2. La Commission de contrôle flamande a accès, sans préavis, de jour comme de nuit, aux sites, structures, bâtiments et locaux, y compris tous les équipements, supports de données, systèmes informatiques et moyens de traitement des données.
+
+Lorsque l'entrée dans ces lieux présente les caractéristiques d'une perquisition, celle-ci ne peut être effectuée qu'à la condition que l'occupant ait donné son consentement écrit préalable ou qu'elle ait été autorisée par le tribunal de police.
+
+A la demande de l'occupant, la Commission de contrôle flamande qui souhaite procéder à une visite sur place doit immédiatement montrer l'autorisation accordée à cette fin.
+
+§ 3. En tout état de cause, les autorités sont tenues de soutenir la Commission de contrôle flamande dans l'exercice de ses fonctions, de fournir des informations et de permettre l'accès à tous les fichiers et systèmes informatiques chaque fois que la Commission de contrôle flamande en fait la demande.
+
+§ 4. La Commission de contrôle flamande a le droit :
+
+1° d'inclure l'identité et d'arrêter les personnes à identifier à cette fin ;
+
+2° d'exiger la présentation de documents d'identité ;
+
+3° à condition que l'identité ne puisse être établie conformément au point 1° ou 2°, d'établir l'identité par d'autres moyens.
+
+Les documents sont restitués à la personne concernée immédiatement après que l'identité a été vérifiée.
+
+§ 5. Dans l'exercice de leurs fonctions d'enquête, les membres de la Commission de contrôle flamande investis des pouvoirs de contrôle et d'inspection présentent leur carte d'authentification. La Commission de contrôle flamande décide du modèle de carte d'authentification.
+
+§ 6. Toute personne qui refuse de coopérer à l'exercice des pouvoirs d'enquête visés aux paragraphes 1 à 4 est passible d'une peine d'emprisonnement de six mois à un an et d'une amende de 26 à 20.000 euros, ou d'une seule de ces sanctions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-08/04, art. 25, 009; En vigueur : à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+#### Art. 10/7
+
+[<sup>1</sup> § 1er. La Commission de contrôle flamande prend les mesures correctives conformément à l'article 58, deuxième alinéa, du règlement général sur la protection des données. Lorsqu'elle envisage une mesure corrective, la Commission de contrôle flamande tient compte de la politique de sécurité de l'information et de l'état de la technique, des coûts de mise en oeuvre, ainsi que de la nature, de l'étendue, du contexte et des finalités du traitement, et des risques pour les droits et libertés des personnes qui varient en termes de probabilité et de gravité.
+
+Si la Commission de contrôle flamande estime qu'il existe des éléments suffisants pour imposer l'une quelconque de ces mesures correctives, elle en informe l'autorité concernée et, le cas échéant, l'invite à exercer son droit à la défense par écrit dans un délai de dix jours ouvrables.
+
+Si la Commission de contrôle flamande, après avoir pris connaissance de la défense écrite communiquée en temps utile, est toujours d'avis que [<sup>3</sup> les dispositions du règlement général sur la protection des données sont violées]<sup>3</sup>, elle doit imposer la mesure corrective appropriée.
+
+Une invitation préalable à exercer les droits de la défense n'est pas requise lorsque cela rendrait la mesure proposée inefficace ou lorsque tout retard ou retard supplémentaire porterait gravement atteinte [<sup>3</sup> aux droits de la personne concernée au niveau de la protection des données]<sup>3</sup>.
+
+§ 2. La Commission de contrôle flamande ne peut pas infliger d'amende administrative conformément à l'article 83, alinéas 1 et 2, du règlement général sur la protection des données pour les infractions visées à l'article 83, alinéas 4, 5 et 6, du règlement général sur la protection des données.
+
+§ 3. La Commission de contrôle flamande a le pouvoir de notifier les infractions à la réglementation générale sur la protection des données aux autorités judiciaires et, le cas échéant, d'intenter une action contre ces infractions ou d'engager une action en justice afin d'assurer le respect des dispositions de la réglementation générale sur la protection des données.
+
+La Commission de contrôle flamande est représentée en matière judiciaire et extrajudiciaire par le président et les autres membres, ou par l'un d'entre eux.
+
+La Commission de contrôle flamande coopère avec d'autres commissions de contrôle et la Commission européenne conformément au chapitre VII du règlement général sur la protection des données.
+
+[<sup>2</sup> En vue d'une application cohérente de la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, la Commission de contrôle flamande coopère avec l'Autorité de protection des données, visée dans la loi du 3 décembre 2017 instituant l'Autorité de protection des données, et avec les autorités de contrôle compétentes, visées aux titres 2 et 3 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, chargées du contrôle du traitement des données à caractère personnel.]<sup>2</sup>
+
+[<sup>2</sup> En application de l'article 51, paragraphe 3, et de l'article 68, paragraphe 4, du règlement général sur la protection des données et dans le cadre du mécanisme de contrôle de la cohérence, visé à l'article 63 du règlement général sur la protection des données, la Commission de contrôle flamande apporte sa coopération à l'Autorité de protection des données précitée en vue de jouer le rôle de représentant commun, tel que visé à l'article 116 de la loi du 3 décembre 2017 précitée.]<sup>2</sup>
+
+§ 4. La Commission de contrôle flamande organise une procédure de réclamation conformément aux exigences de l'article 57, alinéa premier, point f), et deuxième alinéa, du règlement général sur la protection des données. La Commission de contrôle flamande détermine les autres modalités de cette procédure de réclamation par le biais d'un règlement d'ordre intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-08/04, art. 26, 009; En vigueur : à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+(2)&lt;DCFL 2024-03-29/03, art. 3, 011; En vigueur : 08-04-2024&gt;
+
+(3)&lt;DCFL 2023-06-23/13, art. 43, 012; En vigueur : 21-08-2023&gt;
+
+#### Art. 11
+
+§ 1er. [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+La commission de contrôle présente un rapport annuel écrit au Parlement flamand concernant l'accomplissement de ses missions durant l'année précédente, y compris des recommandations pour l'application du présent décret. Le rapport de la commission de contrôle est rendu public par le Parlement flamand. Le président de la commission de contrôle peut être entendu à tout moment, d'initiative ou non, par le Parlement flamand.
+
+§ 2. La commission de contrôle établit son règlement d'ordre intérieur et le soumet à la validation du Parlement flamand. Ce règlement mentionne expressément que la voix du président est prépondérante en cas de partage des voix au sein de la commission de contrôle.
+
+§ 3. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2013-12-06/17, art. 2, 006; En vigueur : 24-01-2014&gt;
+
+(2)&lt;DCFL 2018-06-08/04, art. 27,1°, 009; En vigueur : 25-05-2018&gt;
+
+(3)&lt;DCFL 2018-06-08/04, art. 27,3°, 009; En vigueur : 25-05-2018&gt;
+
+(4)&lt;DCFL 2018-06-08/04, art. 27,2°, 009; En vigueur : 26-06-2018&gt;
+
+#### Art. 11 DROIT FUTUR
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 187, 009; En vigueur : indéterminée , à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+#### Art. 12
+
+[<sup>1</sup> § 1er. La commission de contrôle dispose d'un secrétariat, dont le personnel est mis à disposition par les services des autorités flamandes chargées de l'échange électronique de données administratives. Le président de la commission de contrôle désigne les membres du personnel de la commission de contrôle. Les membres du personnel de la commission de contrôle sont sous l'autorité et la conduite du président de la commission de contrôle.]<sup>1</sup>
+
+§ 2. Le président suppléant et les membres effectifs ou suppléants ont droit à des jetons de présence à concurrence de 223,18 euros (indice 1,2682). Ce montant suit l'évolution de l'indice des prix à la consommation.
+
+Le président a droit à une fois et demie le montant des jetons de présence.
+
+Tous les membres ont droit aux indemnités pour frais de parcours et de séjour conformément aux dispositions applicables au personnel des ministères.
+
+[<sup>1</sup> § 3. ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-01-08/03, art. 3, 004; En vigueur : 01-01-2010&gt;
+
+#### Art. 12 DROIT FUTUR
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 187, 009; En vigueur : indéterminée , à la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives : le 29-03-2019&gt;
+
+#### Art. 12/1
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 28, 009; En vigueur : 25-05-2018&gt;
+
+#### Art. 12/2
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 28, 009; En vigueur : 25-05-2018&gt;
+
+#### Art. 12/3
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 28, 009; En vigueur : 25-05-2018&gt;
+
+#### Art. 12/4
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 28, 009; En vigueur : 25-05-2018&gt;
+
+#### Art. 12/5
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 28, 009; En vigueur : 25-05-2018&gt;
+
+## CHAPITRE IV. - Amélioration de la qualité et digitalisation de formulaires.
+
+#### Art. 13
+
+&lt;Abrogé par DCFL 2018-12-07/05, art. IV.273,7°, 010; En vigueur : 01-01-2019&gt;
+
+#### Art. 14
+
+&lt;Abrogé par DCFL 2018-12-07/05, art. IV.273,7°, 010; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE V. - Dispositions modificatives.
+
+### Section Ire. - Modifications du décret du 17 juillet 2000 relatif au " Geografisch Informatie Systeem Vlaanderen " (Système d'information géographique de la Flandre).
+
+#### Art. 15
+
+L'article 12, § 2, du décret du 17 juillet 2000 relatif au " Geografisch Informatie Systeem Vlaanderen ", est complété par la phrase suivante :
+
+" Pour des informations géographiques, le Conseil GI est un forum de clients tel que visé à l'article 4, § 4, du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives. ".
+
+#### Art. 16
+
+Dans l'article 14 du même décret, modifié par les décrets des 16 avril 2004 et 7 mai 2004, le § 3 est remplacé par la disposition suivante :
+
+" § 3. Sous réserve de l'application des dispositions du décret du 16 avril 2004 relatif au " Grootschalig Referentie Bestand " (GRB), l'agence peut fixer, sur la proposition du comité directeur, une indemnité pour la prestation de services aux participants et à des tiers, ainsi que pour la tenue et la fourniture de fichiers de référence et thématiques à des tiers. La communication électronique de données des fichiers de référence et thématiques aux participants et aux instances, visées à l'article 2, 10°, du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, est gratuite. ".
+
+#### Art. 17
+
+L'article 19, § 1er, du même décret, remplacé par le décret du 16 avril 2004, est complété par les phrases suivantes :
+
+" En même temps, le Gouvernement flamand désigne, sur la proposition du comité directeur, le participant à GIS-Vlaanderen qui gère le fichier de référence conformément à l'article 4, § 1er, du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives.
+
+Ces fichiers de référence sont des sources authentiques de données telles que visées à l'article 4 du décret précité. Le Gouvernement flamand peut déterminer, sur la proposition du comité directeur, les conditions et le mode de traitement des données des fichiers de référence. ".
+
+#### Art. 18
+
+L'article 19, § 2, du même décret, remplacé par le décret du 16 avril 2004, est complété par les phrases suivantes :
+
+" Ces fichiers thématiques sont des sources authentiques de données telles que visées à l'article 4 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives. Le Gouvernement flamand peut déterminer, sur la proposition du comité directeur, les conditions et le mode de traitement des données des fichiers thématiques. ".
+
+#### Art. 19
+
+L'article 25 du même décret, modifié par le décret du 7 mai 2004, est complété par la phrase suivante :
+
+" L'agence est une entité telle que visée à l'article 4, § 3, du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives. ".
+
+### Section II. - Modification du décret du 21 novembre 2003 relatif à la politique de santé préventive.
+
+#### Art. 20
+
+Dans l'article 32, § 3, l'article 33, § 2, et l'article 45, § 1er, alinéas premier et deux, du décret du 21 novembre 2003 relatif à la politique de santé préventive, les mots " de la Commission de protection de la vie privée " sont remplacés par les mots " d'une chambre de la commission de contrôle telle que visée à l'article 10 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, qui veille spécifiquement à la protection de la vie privée à l'égard du traitement de données à caractère personnel relatives à la santé ".
+
+#### Art. 20/1
+
+[<sup>1</sup> Les qualifications reconnues, visées à l'article 19, et les titres d'apprentissage et de compétence professionnelle reconnus ou déclarés équivalents, visés à l'article 20, sont conservés pendant une durée maximale de 110 ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-05-17/20, art. 10, 013; En vigueur : 21-06-2024&gt;
+
+### Section III. - Modification du décret du 3 mars 2004 relatif aux soins de santé primaires et à la coopération entre les prestataires de soins.
+
+#### Art. 21
+
+Dans l'article 16, § 3, et l'article 17, § 2, du décret du 3 mars 2004 relatif aux soins de santé primaires et à la coopération entre les prestataires de soins, les mots " de la Commission de protection de la vie privée " sont remplacés par les mots " d'une chambre de la commission de contrôle telle que visée à l'article 10 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, qui veille spécifiquement à la protection de la vie privée à l'égard du traitement de données à caractère personnel relatives à la santé ".
+
+### Section IV. - Modifications du décret du 16 avril 2004 relatif au " Grootschalig Referentie Bestand " (GRB).
+
+#### Art. 22
+
+L'article 3, § 2, alinéa deux, du décret du 16 avril 2004 relatif au " Grootschalig Referentie Bestand " (GRB) est complété par la phrase suivante :
+
+" Le Conseil GRB est un forum de clients tel que visé à l'article 4, § 4, du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives. ".
+
+#### Art. 23
+
+&lt;Abrogé par DCFL 2009-02-20/43, art. 57, 002; En vigueur : 17-10-2010&gt;
+
+### Section V. - Modification du décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public " Agentschap voor Geografische Informatie Vlaanderen " (Agence de l'Information géographique de la Flandre).
+
+#### Art. 24
+
+L'article 5, 15°, du décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public " Agentschap voor Geografische Informatie Vlaanderen " (Agence de l'Information géographique de la Flandre), remplacé par le décret du 21 avril 2006, est complété par la phrase suivante :
+
+" L'agence est une entité telle que visée à l'article 4, § 3, du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives. ".
+
+### Section VI. - Modifications du décret du 16 juin 2006 relatif au système d'information Santé.
+
+#### Art. 25
+
+L'article 2 du décret du 16 juin 2006 relatif au système d'information Santé est complété par un point 24°, rédigé comme suit :
+
+" 24° la chambre : une chambre de la commission de contrôle telle que visée à l'article 10 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, qui veille spécifiquement à la protection de la vie privée à l'égard du traitement de données à caractère personnel relatives à la santé. ".
+
+#### Art. 26
+
+Dans l'article 20, alinéa deux, du même décret, les mots " la commission de contrôle visée à l'article 55 " sont remplacés par les mots " la chambre ".
+
+#### Art. 27
+
+Dans l'article 23, § 2, alinéa premier, l'article 25, alinéa deux, l'article 27, § 2, alinéa deux, l'article 28, alinéa deux, l'article 31, alinéa deux, l'article 38, §§ 2 et 3, l'article 39, l'article 40, § 3, l'article 42, § 2, 6°, l'article 53, l'article 54, l'article 70, alinéa deux, l'article 80, § 1er, et l'article 82, 2° et 3°, du même décret, les mots " commission de contrôle " sont chaque fois remplacés par le mot " chambre ".
+
+### Section VII. - Modification du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption.
+
+#### Art. 28
+
+&lt;Abrogé par DCFL 2009-02-20/43, art. 57, 002; En vigueur : 17-10-2010&gt;
+
+## CHAPITRE VI. - Dispositions finales.
+
+#### Art. 29
+
+L'article 83 du décret du 21 novembre 2003 relatif à la politique de santé préventive est abrogé.
+
+#### Art. 30
+
+Dans l'article 26 du décret du 3 mars 2004 relatif aux soins de santé primaires et à la coopération entre les prestataires de soins, l'alinéa premier est abrogé.
+
+#### Art. 31
+
+Le chapitre VI, comprenant les articles 55 à 69 inclus, et l'article 88 du décret du 16 juin 2006 relatif au système d'information Santé sont abrogés.
+
+#### Art. 32
+
+Les missions de la commission de contrôle ou d'une ou plusieurs chambres de la commission de contrôle peuvent être transférées, en exécution d'un accord de coopération conclu entre l'autorité fédérale, les communautés et les régions, à un comité sectoriel commun tel que visé à l'article 31bis de la loi sur la vie privée, créé au sein de la Commission de protection de la vie privée.
+
+Le Gouvernement flamand détermine à quel moment les tâches et compétences de la commission de contrôle ou d'une ou plusieurs chambres de la commission de contrôle, sont transférées au comité sectoriel commun, visé à l'alinéa premier.
+
+#### Art. 32 DROIT FUTUR
+
+&lt;Abrogé par DCFL 2018-06-08/04, art. 187, 009; En vigueur : 29-03-2019, la date de publication au Moniteur belge de la composition de la Commission de contrôle flamande du traitement des données à caractère personnel, visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives&gt;
+
+#### Art. 33
+
+Le Gouvernement flamand détermine pour chacun des articles la date d'entrée en vigueur, et l'article 31 entre en vigueur à la date d'entrée en vigueur des articles 25 à 27 inclus.
+
+(NOTE : Entrée en vigueur fixée au 14-07-2009, à l'exception des articles 8, 11, 20, 21, 25, 26, 27, 29, 30 et 31;
+
+les articles 8 et 11 entrent en vigueur à la date de la désignation des membres de la commission de contrôle et le 1er janvier 2010 au plus tard;
+
+les articles 20, 21, 25, 26, 27, 29, 30 et 31 entrent en vigueur à la date de la désignation des membres de la chambre de la commission de contrôle qui veille spécifiquement à la protection de la vie privée à l'égard du traitement de données à caractère personnel relatives à la santé et le 1er janvier 2010 au plus tard,
+
+par AGF 2009-05-15/25, art. 10.)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 18 juillet 2008.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand des Affaires administratives, de la Politique extérieure, des Médias et du Tourisme,
+
+G. BOURGEOIS.

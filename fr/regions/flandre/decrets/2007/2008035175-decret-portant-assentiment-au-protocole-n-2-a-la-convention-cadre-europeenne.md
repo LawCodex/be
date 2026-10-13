@@ -1,0 +1,45 @@
+---
+title: "Décret portant assentiment au protocole n° 2 à la convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998 (TRADUCTION)."
+identifier: "2008035175"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/21/2008035175/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2007-12-21
+published: 2008-02-06
+entry_into_force: 2008-02-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/21/2008035175/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 21 DECEMBRE 2007. - Décret portant assentiment au protocole n° 2 à la convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998 (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret portant assentiment au protocole n° 2 à la convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998.
+
+## Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+## Art. 2
+
+Le protocole n° 2 à la convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998, sortira son plein et entier effet.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 21 décembre 2007.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand des Affaires administratives, de la Politique extérieure, des Médias et du Tourisme,
+
+G. BOURGEOIS
+
+Le Ministre flamand des Affaires intérieures, de la Politique des Villes, du Logement et de l'Intégration civique,
+
+M. KEULEN.

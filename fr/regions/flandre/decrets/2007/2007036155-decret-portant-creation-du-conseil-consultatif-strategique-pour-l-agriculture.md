@@ -1,0 +1,283 @@
+---
+title: "Décret portant création du Conseil consultatif stratégique pour l'Agriculture et la Pêche (TRADUCTION)"
+identifier: "2007036155"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007036155/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2007-07-06
+published: 2007-07-20
+entry_into_force: 2008-10-12
+last_amended: 2024-04-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007036155/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 20-07-2007 et mise à jour au 30-04-2024"
+retrieved: 2026-10-12
+---
+
+# 6 JUILLET 2007. - Décret portant création du Conseil consultatif stratégique pour l'Agriculture et la Pêche (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret portant création du Conseil consultatif stratégique pour l'Agriculture et la Pêche
+
+## CHAPITRE Ier. - Dispositions générales.
+
+### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° [<sup>1</sup> [<sup>2</sup> Décret de gouvernance : le Décret de gouvernance du 7 décembre 2018]<sup>2</sup>;]<sup>1</sup>
+
+2° le conseil consultatif stratégique : le Conseil consultatif stratégique pour l'Agriculture et la Pêche;
+
+[<sup>1</sup> 3° SERV : le Conseil socio-économique de la Flandre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-07-03/01, art. 8, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.144, 003; En vigueur : 01-01-2019&gt;
+
+### Art. 3
+
+[<sup>1</sup> Auprès du SERV, le conseil consultatif stratégique est créé. Le conseil consultatif stratégique fait partie du domaine politique [<sup>3</sup> de l'Emploi, de l'Economie, des Sciences, de l'Innovation, de l'Agriculture et de l'Economie sociale]<sup>3</sup>.
+
+Le conseil consultatif stratégique n'est pas doté de la personnalité juridique.
+
+Les dispositions du [<sup>2</sup> titre III, chapitre 3, section 7 du Décret de gouvernance]<sup>2</sup> s'appliquent au conseil consultatif stratégique, sauf disposition contraire dans le présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-07-03/01, art. 9, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.145, 003; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2024-03-29/37, art. 5, 004; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE II. - Missions.
+
+### Art. 4
+
+§ 1er. Le conseil consultatif stratégique a les missions suivantes :
+
+1° émettre des avis, d'initiative ou sur demande, sur les lignes directrices de la politique concernant tous les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche;
+
+2° contribuer à l'élaboration d'une vision politique sur tous les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche;
+
+3° suivre et interpréter les développements dans le domaine de tous les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche;
+
+4° émettre des avis sur les avant-projets de décret concernant tous les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche et les avant-projets de décret d'autres domaines politiques ayant un impact notable sur la politique agricole, horticole, rurale et de la pêche;
+
+5° émettre des avis, d'initiative ou sur demande, sur les propositions de décret concernant tous les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche et les propositions de décret concernant des matières relevant d'autres domaines politiques ayant un impact notable sur la politique agricole, horticole, rurale et de la pêche;
+
+6° émettre des avis, d'initiative ou sur demande, sur les projets d'arrêté du Gouvernement flamand concernant tous les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche et les projets d'arrêté du Gouvernement flamand concernant des matières relevant d'autres domaines politiques ayant un impact notable sur la politique agricole, horticole, rurale et de la pêche;
+
+7° réfléchir sur les notes d'orientation déposées au Parlement flamand concernant les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche et les notes d'orientation déposées émanant d'autres domaines politiques ayant un impact notable sur la politique agricole, horticole, rurale et de la pêche;
+
+8° émettre des avis, d'initiative ou sur demande, sur des projets d'accord de coopération que la Communauté flamande ou la Région flamande souhaite conclure avec l'Etat ou avec d'autres Communautés et Régions;
+
+9° émettre des avis, d'initiative ou sur demande, sur des intentions politiques, plans politiques et réglementations en voie de préparation au niveau de l'Union européenne, ainsi que sur des traités internationaux en voie de préparation.
+
+§ 2. Le Gouvernement flamand est obligé de demander un avis sur :
+
+1° les avant-projets de décret concernant tous les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche;
+
+2° les projets d'arrêté du Gouvernement flamand qui ont un intérêt stratégique pour tous les aspects économiques, écologiques, sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche;
+
+§ 3. Conformément à [<sup>2</sup> l'article III.94, § 3 du Décret de gouvernance]<sup>2</sup>, le Gouvernement flamand explique et commente sa décision relative aux avis, visés au § 2, à l'attention du conseil consultatif stratégique.
+
+§ 4. Le conseil consultatif stratégique peut émettre des avis, d'initiative ou sur demande du Ministre flamand fonctionnellement compétent, sur des projets de réglementation d'intérêt stratégique concernant les aspects visés au § 1er, qui sont établis par l'autorité fédérale, les collègues-ministres chargés d'autres domaines politiques ou par l'Union européenne.
+
+§ 5. Les aspects sociaux et sociétaux de la politique agricole, horticole, rurale et de la pêche peuvent avoir trait au développement rural, à l'image de l'agriculture, à la formation agricole telle que la formation postscolaire, à l'information ou la vulgarisation agricole et aux recherches agricoles.
+
+----------
+
+(1)&lt;DCFL 2015-07-03/01, art. 10, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.146, 003; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE III. - Composition et organisation.
+
+### Art. 5
+
+§ 1er. Le conseil consultatif stratégique est composé de vingt représentants de la société civile qui sont actifs et experts dans le domaine de la politique agricole, horticole, rural et de la pêche.
+
+§ 2. Les organisations suivantes de la société civile sont représentées dans le conseil consultatif stratégique :
+
+1° six représentants des organisations agricoles générales;
+
+2° un représentant des organisations des jeunes agriculteurs;
+
+3° un représentant des associations de femmes;
+
+4° un représentant des organisations du tiers monde;
+
+5° un représentant des organisations environnementales siégeant dans le conseil Mina;
+
+6° un représentant du secteur de la production biologique;
+
+7° un représentant du secteur de la pêche;
+
+8° deux représentants du secteur des fournisseurs;
+
+9° deux représentants du secteur de la transformation;
+
+10° un représentant du commerce et de la distribution;
+
+11° un représentant des organisations des consommateurs;
+
+12° un représentant de la recherche agricole;
+
+13° un représentant de l'enseignement agricole.
+
+### Art. 6
+
+Le conseil consultatif stratégique se compose de vingt membres qui sont nommés par le Gouvernement flamand pour un délai de quatre ans, conformément à [<sup>2</sup> l'article III.96, § 1er du Décret de gouvernance]<sup>2</sup>.
+
+Le Gouvernement flamand détermine si la nomination de membres suppléants est nécessaire.
+
+Une commission de travail technique Pêche assistera le conseil consultatif stratégique dans le domaine de la politique de la pêche. Le conseil consultatif stratégique peut également créer d'autres commissions de travail techniques. Le Gouvernement flamand fixe la composition et le fonctionnement de ces commissions de travail techniques.
+
+Le président du conseil consultatif stratégique est nommé par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2015-07-03/01, art. 11, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.147, 003; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE IV. - [<sup>1</sup> - Fonctionnement]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-07-03/01, art. 12, 002; En vigueur : 01-01-2016&gt;
+
+### Art. 7
+
+[<sup>1</sup> § 1er. Par dérogation à [<sup>2</sup> l'article III.100 du Décret de gouvernance]<sup>2</sup>, le SERV met un secrétariat à disposition du conseil consultatif stratégique. Le secrétariat est composé de membres du personnel du SERV qui sont désignés à cet effet par les fonctionnaires dirigeants du SERV. Le secrétariat est responsable du soutien sur le contenu et en matière administrative. Le SERV assure également le logement et le support logistique du conseil consultatif stratégique.
+
+Le secrétariat est dirigé, sous l'autorité du président du conseil consultatif stratégique, par un secrétaire désigné parmi les membres du secrétariat par les fonctionnaires dirigeants du SERV.
+
+Le Gouvernement flamand arrête l'effectif minimal et la composition du secrétariat qui est responsable pour le soutien sur le contenu du conseil consultatif stratégique.
+
+§ 2. Les commissions de travail techniques sont assistées par le secrétariat, visé au paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-07-03/01, art. 12, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2018-12-07/05, art. IV.148, 003; En vigueur : 01-01-2019&gt;
+
+### Art. 7/1.
+
+[<sup>1</sup> Dans le présent chapitre, on entend par agence : l'Agence de l'Agriculture et de la Pêche, créée par l'arrêté du Gouvernement flamand du 15 septembre 2023.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 6, 004; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE V. - Rapport agricole et de la pêche.
+
+### Art. 8
+
+Le rapport agricole et de la pêche, ci-après dénommé le rapport, comporte :
+
+1° une description, analyse et évaluation de la situation de l'agriculture et de la pêche en Flandre;
+
+2° une description, analyse et évaluation de la politique agricole et de la pêche menée par le domaine politique;
+
+3° une description des perspectives de développement de l'agriculture et de la pêche flamandes.
+
+### Art. 9
+
+Le rapport est établi tous les deux ans.
+
+Sans préjudice de l'application de l'alinéa 1er, le premier rapport est finalisé au plus tard le 31 décembre 2008.
+
+### Art. 10
+
+[<sup>1</sup> L'agence est chargée]<sup>1</sup> d'établir le rapport.
+
+Un groupe de pilotage assistera [<sup>1</sup> l'agence]<sup>1</sup> dans l'établissement du rapport. Des représentants du conseil consultatif stratégique font partie du groupe de pilotage.
+
+----------
+
+(1)&lt;DCFL 2024-03-29/37, art. 7, 004; En vigueur : 01-01-2024&gt;
+
+### Art. 11
+
+Le rapport fera l'objet d'une large publicité.
+
+### Art. 11/1.
+
+[<sup>1</sup>Le site web relatif aux chiffres, géré par l'agence, décrit la situation du secteur de l'agriculture et de la pêche sur la base des chiffres les plus récents et d'indicateurs pertinents existants et nouveaux. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-29/37, art. 8, 004; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE VI. - Dispositions finales.
+
+### Art. 12
+
+Dans l'arrêté du Gouvernement flamand du 24 novembre 1993 portant l'encadrement à la pêche maritime et à l'aquiculture, les articles suivants sont abrogés :
+
+1° l'article 20, remplacé par l'arrêté du Gouvernement flamand du 26 mai 2000;
+
+2° l'article 20bis, inséré par l'arrêté du Gouvernement flamand du 26 mai 2000;
+
+3° l'article 20ter, inséré par l'arrêté du Gouvernement flamand du 26 mai 2000 et modifié par l'arrêté du Gouvernement flamand des 28 novembre 2003 et 28 avril 2006;
+
+4° l'article 20quater, inséré par l'arrêté du Gouvernement flamand du 26 mai 2000 et modifié par l'arrêté du Gouvernement flamand du 28 avril 2006;
+
+### Art. 13
+
+Les règlements suivants sont abrogés :
+
+1° la loi du 29 mars 1963 tendant à promouvoir la rentabilité de l'agriculture et son équivalence avec les autres secteurs de l'économie, modifié par la loi du 25 mai 1999;
+
+2° le décret du 18 mai 1999 portant création d'un Conseil flamand de l'Agriculture et de l'Horticulture;
+
+3° l'arrêté du Gouvernement flamand relatif à la désignation des organisations dans le Conseil flamand de l'Agriculture et de l'Horticulture.
+
+### Art. 14
+
+Le Gouvernement flamand est autorisé à prendre toutes les mesures pour modifier la représentation officielle de l'agriculture au niveau régional, entre autres les missions, la composition et le fonctionnement, y compris le financement, des structures ou organes représentatifs existants.
+
+### Art. 15
+
+Le Gouvernement flamand est chargé de coordonner les dispositions des lois et décrets relatifs au conseil consultatif stratégique, ainsi que les dispositions qui les auraient expressément ou implicitement modifiées au moment où la coordination est établie.
+
+A cette fin, le Gouvernement peut :
+
+1° modifier l'ordre et la numérotation des dispositions à coordonner et, en général, la présentation des textes;
+
+2° mettre en concordance la nouvelle numérotation et les références contenues dans les dispositions à coordonner;
+
+3° sans porter atteinte aux principes contenus dans les dispositions à coordonner, modifier leur rédaction en vue d'assurer leur concordance et d'en unifier la terminologie.
+
+4° adapter la présentation des références aux dispositions reprises dans la coordination, qui sont présentes dans d'autres dispositions non reprises dans la coordination.
+
+La coordination n'entre en vigueur qu'après sa ratification par le Parlement flamand.
+
+### Art. 16
+
+Le Gouvernement flamand fixe la date d'entrée en vigueur du présent décret.
+
+(NOTE : entrée en vigueur fixée au 12-10-2008 par AGF 2008-05-23/53, art. 20)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 6 juillet 2007.
+
+Le Ministre-Président du Gouvernement flamand, Ministre flamand des Réformes institutionnelles, des Ports, de l'Agriculture, de la Pêche en mer et de la Ruralité,
+
+K. PEETERS.

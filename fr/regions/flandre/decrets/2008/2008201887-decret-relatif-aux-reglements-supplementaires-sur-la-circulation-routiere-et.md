@@ -1,0 +1,283 @@
+---
+title: "Décret relatif aux règlements supplémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière (TRADUCTION)"
+identifier: "2008201887"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/16/2008201887/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2008-05-16
+published: 2008-06-10
+entry_into_force: 2009-04-05
+last_amended: 2023-11-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/16/2008201887/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 10-06-2008 et mise à jour au 27-11-2023"
+retrieved: 2026-10-12
+---
+
+# 16 MAI 2008. - Décret relatif aux règlements supplémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+#### Art. 1
+
+Le présent décret règle une matière régionale.
+
+#### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° route régionale : voie publique gérée par la Région flamande;
+
+2° autoroute : route régionale classée dans la catégorie des autoroutes conformément à l'article 1er de la loi du 12 juillet 1956 fixant le statut des autoroutes;
+
+3° route provinciale : voie publique gérée par la province;
+
+4° route communale : voie publique gérée par la commune;
+
+5° pose : la pose ou l'enlèvement de signalisation routière.
+
+## CHAPITRE II. - Les règlements supplémentaires sur les routes régionales et provinciales.
+
+#### Art. 3
+
+Le Gouvernement flamand arrête les règlements supplémentaires sur les routes régionales et provinciales.
+
+Le Gouvernement flamand arrête les règlements supplémentaires ayant trait à la désignation d'agglomérations quand ces dernières s'étendent sur plusieurs communes.
+
+#### Art. 4
+
+§ 1er. Sans préjudice de l'article 3 et sous réserve de l'article 6, la commune peut arrêter des règlements supplémentaires sur les routes régionales et provinciales qui se situent sur son territoire, à l'exception des autoroutes.
+
+En dérogation à l'article 43, § 2, 2°, du Décret communal du 15 juillet 2005, un conseil communal peut confier cette compétence au collège des bourgmestre et échevins.
+
+§ 2. Le règlement supplémentaire, visé au § 1er, est soumis à l'approbation du Gouvernement flamand.
+
+Lors de sa demande d'approbation, la commune mentionne les endroits où elle place la signalisation routière en exécution du règlement supplémentaire.
+
+Le Gouvernement peut :
+
+1° approuver;
+
+2° désapprouver;
+
+3° modifier;
+
+4° le règlement supplémentaire ou le remplacer par sa propre décision.
+
+Le règlement supplémentaire ne peut entrer en vigueur qu'après que le Gouvernement flamand a pris une décision telle que visée à l'alinéa trois, 1°, 3° ou 4°.
+
+Si le Gouvernement flamand n'a pas décidé dans un délai de soixante jours à partir de la notification du règlement supplémentaire, le règlement supplémentaire est réputé être approuvé.
+
+## CHAPITRE III. - Les règlements supplémentaires sur les routes communales.
+
+#### Art. 5
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Sous réserve de l'article 6, la commune arrête les règlements supplémentaires sur les routes communales qui se situent sur son territoire.
+
+En dérogation à l'article 43, § 2, 2°, du Décret communal du 15 juillet 2005, un conseil communal peut confier cette compétence au collège des bourgmestres et échevins.
+
+La commune communique le texte des règlements supplémentaires sur les routes communales au Gouvernement flamand.
+
+Lors de sa demande d'approbation, la commune mentionne les endroits où elle place la signalisation routière en exécution du règlement supplémentaire.
+
+[<sup>1</sup> § 2. Dans le présent paragraphe, on entend par :
+
+1° [<sup>2</sup> zone où s'applique un règlement pour la circulation de véhicules portuaires : zone fixée selon l'article 14bis, § 1, du décret du 2 mars 1999 portant sur la politique et la gestion des ports maritimes]<sup>2</sup>;
+
+2° véhicules portuaires : véhicules à moteur, remorques, voitures en remorque et tous les véhicules spécialisés à ou sans moteur, destinés exclusivement au traitement et au transport [<sup>2</sup> entre les quais de chargement et de déchargement, les entrepôts, les hangars et les magasins qui se situent au sein de la zone portuaire telle que décrite à l'article 2, 4°, du décret du 2 mars 1999]<sup>2</sup>, à l'exclusion de voitures particulières, de voitures mixtes et de minibus.
+
+Les règlements supplémentaires qui se rapportent aux voies communales qui se situent au sein de la [<sup>2</sup> zone où s'applique un règlement pour la circulation de véhicules portuaires]<sup>2</sup> peuvent entrer en vigueur après un délai de soixante jours de leur communication au Gouvernement flamand, à moins que l'exécution des règlements supplémentaires, en application de l'alinéa trois, soit suspendue par le Gouvernement flamand.
+
+Le Gouvernement flamand peut suspendre l'exécution des règlements supplémentaires qui se rapportent aux voies communales qui se situent au sein de la [<sup>2</sup> zone où s'applique un règlement pour la circulation de véhicules portuaires]<sup>2</sup>, dans un délai de soixante jours de leur communication, dans l'intérêt de la circulation de véhicules portuaires entre les quais de chargement et de déchargement, les entrepôts, les hangars et les magasins qui se situent au sein de la [<sup>2</sup> zone où s'applique un règlement pour la circulation de véhicules portuaires]<sup>2</sup>.
+
+En cas de suspension par le Gouvernement flamand, la commune dispose d'un délai de trente jours à partir de la notification de la suspension du règlement supplémentaire pour transmettre au Gouvernement flamand une demande motivée d'abrogation de la suspension.
+
+Lorsque, dans ce délai de trente jours, la commune n'a pas transmis de demande d'abrogation de la suspension au Gouvernement flamand, le règlement supplémentaire dont l'exécution est suspendue est censé n'avoir jamais existé.
+
+Lorsque la commune transmet une demande motivée d'abrogation de la suspension au Gouvernement flamand, le Gouvernement flamand dispose d'un délai de trente jours de la réception de la demande d'abrogation de la suspension pour procéder à l'annulation. A défaut d'annulation dans ce délai, la suspension est abrogée et le règlement supplémentaire peut entrer en vigueur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/33, art. 3, 003; En vigueur : 22-06-2014&gt;
+
+(2)&lt;DCFL 2017-12-22/20, art. 7, 004; En vigueur : 01-01-2018&gt;
+
+## CHAPITRE IV. - Les règlements supplémentaires dans les bois domaniaux, les bois et réserves naturelles et les zones de protection spéciales.
+
+#### Art. 6
+
+Le Gouvernement flamand fixe les règlements supplémentaires ayant trait aux routes ouvertes à la circulation publique dans les bois domaniaux et les réserves forestières tels que visés au décret forestier du 13 juin 1990, et dans les réserves naturelles, dans le VEN et parties de ce dernier, et dans les zones de protection spéciales et parties de ces dernières, telles que visées au décret du 21 octobre 1997 relatif à la conservation de la nature et de l'environnement naturel.
+
+En dérogation à l'alinéa premier, le Gouvernement flamand peut également autoriser les communes, aux conditions qu'il arrête, à fixer des règlements supplémentaires sur les routes visées à l'alinéa premier.
+
+## CHAPITRE V. - Pose et coût de la signalisation routière.
+
+### Section Ire. - Pose de la signalisation routière.
+
+#### Art. 7
+
+La signalisation routière est placée par l'autorité gérant la route.
+
+Toutefois, la signalisation sur un carrefour ou se croisent des routes de différents gestionnaires routiers, est placée par la plus haute autorité gérant une ou plusieurs routes qui se croisent.
+
+La signalisation routière ayant trait aux routes visées à l'article 6 du présent décret est placée par la Région flamande.
+
+En dérogation aux alinéas précédents, le Gouvernement flamand peut également autoriser les communes, aux conditions qu'il arrête, à placer une signalisation routière sur les routes provinciales ou régionales ou sur les routes visées à l'article 6, alinéa premier, du présent décret.
+
+#### Art. 8
+
+Les obstructions de la circulation sont signalées par la personne qui les a créées. Si elle manque à ce devoir, l'autorité gérant la route en question assumera cette obligation.
+
+Les travaux en exécution à une route sont signalés par la personne exécutant les travaux.
+
+#### Art. 9
+
+Conformément à l'article 15 des lois coordonnées du 16 mars 1968 relatives à la police de la circulation routière, la signalisation routière ayant trait aux passages à niveau du chemin de fer est placée par l'exploitant des chemins de fer en question. La signalisation se trouvant à une certaine distance de ces passages à niveau est placée par l'autorité gérant la route en question.
+
+### Section II. - Coût de la signalisation routière.
+
+#### Art. 10
+
+Les frais liés à la pose, l'entretien et le renouvellement de la signalisation routière sont à charge de l'autorité qui l'a placée.
+
+Les frais de la signalisation indiquant l'obstruction de la circulation faits par l'autorité gérant la route en question au cas où la personne ayant causé ces obstructions a négligé de placer cette signalisation, sont toutefois à charge de cette personne.
+
+## CHAPITRE V/1. [<sup>1</sup> - Les règlements supplémentaires sur le stationnement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/09, art. 2, 002; En vigueur : 05-08-2010&gt;
+
+#### Art. 10/1
+
+[<sup>1</sup> Lorsque le Gouvernement flamand ou la commune arrêtent un règlement complémentaire qui a trait aux stationnements à durée limitée, aux stationnements payants et aux stationnements réservés aux titulaires d'une carte [<sup>2</sup> ou autorisation]<sup>2</sup> de stationnement communale, ils peuvent établir des rétributions ou des taxes de stationnement applicables aux véhicules à moteurs, leurs remorques ou éléments.
+
+Cette disposition ne s'applique pas au stationnement alterné semi-mensuel et à la limitation du stationnement de longue durée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/09, art. 2, 002; En vigueur : 05-08-2010&gt;
+
+(2)&lt;DCFL 2023-11-10/06, art. 2, 007; En vigueur : 07-12-2023&gt;
+
+#### Art. 10/2
+
+[<sup>1</sup> En vue de l'encaissement des rétributions ou des taxes de stationnement, [<sup>4</sup> et en vue de la délivrance et la gestion de cartes et autorisations de stationnement]<sup>4</sup> des concessions ou des contrats de gestion peuvent être conclus.
+
+[<sup>2</sup> [<sup>3</sup> Pour la perception des rétributions ou des taxes de stationnement, [<sup>4</sup> et pour la délivrance et la gestion de cartes et autorisations de stationnement]<sup>4</sup> dans le cadre [<sup>4</sup> de la mise en oeuvre et]<sup>4</sup> du maintien de la politique en matière de stationnement comme mission d'intérêt général, les données personnelles suivantes sont traitées par l'instance désignée par le Gouvernement flamand, les villes et communes et leurs concessionnaires et les agences communales autonomisées :
+
+1° les plaques d'immatriculation ;
+
+2° les données d'identification des titulaires des plaques d'immatriculation ;
+
+3° les caractéristiques techniques suivantes des véhicules :
+
+a) le type de carburant ;
+
+b) la catégorie du véhicule ;
+
+c) la masse maximale autorisée ;
+
+d) la marque ;
+
+e) le type ;
+
+f) la couleur.]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>
+
+[<sup>4</sup> 4° les données d'identification du conducteur habituel du véhicule à moteur immatriculé au nom d'une personne morale, si cette personne morale a fait enregistrer le conducteur habituel dans la Banque Carrefour des véhicules. ]<sup>4</sup>
+
+[<sup>3</sup> Les instances visées à l'alinéa 2 ne collectent et ne traitent que les données personnelles nécessaires à l'identification du contrevenant et au contrôle et à la sanction des infractions aux règlements complémentaires visés à l'article 10/1 [<sup>4</sup>, ainsi qu'à la délivrance et la gestion des cartes et autorisations de stationnement ]<sup>4</sup>.
+
+Le Gouvernement flamand et les communes agissent en tant que responsable du traitement de leur rétribution ou taxe de stationnement respectivement instaurée, [<sup>4</sup> et pour la délivrance et la gestion de cartes et autorisations de stationnement ]<sup>4</sup> au sens de l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) et se conforment aux obligations visées à l'article 26 du règlement précité, qui leur incombent à cet égard.
+
+Les agences communales autonomisées et les concessionnaires agissent en tant que sous-traitant au sens de l'article 4, 7), du règlement précité.
+
+[<sup>4</sup> Les instances visées à l'alinéa 2 peuvent demander les données visées à l'alinéa 2 à l'autorité chargée de l'immatriculation des véhicules. Ces demandes sont effectuées par l'intermédiaire des intégrateurs de services compétents visés à l'article 3 du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand.
+
+Les instances visées à l'alinéa 2 doivent supprimer les données dès qu'elles ne sont plus nécessaires. En tout état de cause, pour la perception des rétributions ou des taxes de stationnement, les instances ne peuvent plus conserver les données sous une forme permettant l'identification des personnes concernées une fois que le montant dû pour la perception des rétributions ou taxes de stationnement a été perçu, à moins que la conservation ne soit obligatoire sur la base de la réglementation en vigueur. Elles ne conservent ces données que pendant dix ans]<sup>4</sup>.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/09, art. 2, 002; En vigueur : 05-08-2010&gt;
+
+(2)&lt;DCFL 2018-06-08/04, art. 148, 005; En vigueur : 25-05-2018&gt;
+
+(3)&lt;DCFL 2021-10-22/08, art. 2, 006; En vigueur : 03-12-2021&gt;
+
+(4)&lt;DCFL 2023-11-10/06, art. 3, 007; En vigueur : 07-12-2023&gt;
+
+#### Art. 10/3
+
+[<sup>1</sup> Les rétributions ou taxes visées à l'article 10/1 sont à charge du titulaire de la plaque d'immatriculation.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, les rétributions ou taxes visées à l'article 10/1 sont mises à charge du conducteur habituel du véhicule à moteur immatriculé au nom d'une personne morale, si cette dernière a fait enregistrer le conducteur habituel dans la Banque-Carrefour des Véhicules.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2010-07-09/09, art. 2, 002; En vigueur : 05-08-2010&gt;
+
+(2)&lt;DCFL 2023-11-10/06, art. 3, 007; En vigueur : 07-12-2023&gt;
+
+## CHAPITRE VI. - Banque de données des règlements supplémentaires.
+
+#### Art. 11
+
+Les règlements supplémentaires et les emplacements de la signalisation routière sont repris dans une banque de données gérée par le service publique désigné par le Gouvernement flamand.
+
+Le Gouvernement flamand arrête les modalités relatives à la gestion, au fonctionnement et à l'accès à la banque de données.
+
+## CHAPITRE VII. - Calcul des délais.
+
+#### Art. 12
+
+Vis-à-vis de l'adressé, les délais prenant cours à partir de la notification par lettre recommandée ou normale, sont calculés à partir du troisième ouvrable suivant le jour auquel la lettre a été remise à la poste, sauf preuve du contraire fournie par l'adressé.
+
+## CHAPITRE VIII. - Dispositions finales.
+
+#### Art. 13
+
+Les articles suivants des lois coordonnées du 16 mars 1968 relatives à la police de la circulation routière sont abrogés en ce qui concerne la Région flamande :
+
+\- article 2;
+
+\- article 2bis;
+
+\- article 3;
+
+\- article 7;
+
+\- article 13;
+
+\- article 14;
+
+\- article 17.
+
+#### Art. 14
+
+A l'article 12 des lois coordonnées du 16 mars 1968 relatives à la police de la circulation routière, les mots suivants sont insérés après le mots "en vertu des articles 2 et 3 de la loi du 12 juillet 1956 fixant le statut des autoroutes" : ", ou en vertu du décret du 16 mai 2008 relatif aux règlements supplémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière".
+
+#### Art. 15
+
+Le Gouvernement flamand fixe la date d'entrée en vigueur du présent décret.
+
+(NOTE : Entrée en vigueur fixée au 05-09-2009 par AGF 2009-01-23/44, art. 7)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 16 mai 2008.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+La Ministre flamande de la Mobilité, de l'Economie sociale et de l'Egalité des Chances,
+
+K. VAN BREMPT.

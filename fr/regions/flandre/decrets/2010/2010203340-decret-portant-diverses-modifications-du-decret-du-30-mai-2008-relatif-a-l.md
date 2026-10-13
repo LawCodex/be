@@ -1,0 +1,77 @@
+---
+title: "Décret portant diverses modifications du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales"
+identifier: "2010203340"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/28/2010203340/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2010-05-28
+published: 2010-06-24
+entry_into_force: 2010-06-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/28/2010203340/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 28 MAI 2010. - Décret portant diverses modifications du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Au décret du 30 mai relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales il est inséré un article 3/1, rédigé comme suit :
+
+" Art. 3/1. Sauf dispositions contraires dans le présent décret, l'autorité compétente ne peut pas déléguer l'attribution qui lui est conférée. "
+
+## Art. 3
+
+A l'article 4, § 3, du même décret sont apportées les modifications suivantes :
+
+1° le deuxième alinéa est remplacé par la disposition suivante :
+
+" Le gestionnaire financier assure sans délai l'envoi des feuilles d'imposition. Cet envoi s'opère sans frais pour le redevable. ";
+
+2° dans la version néerlandaise du décret, dans l'alinéa trois, 3°, le mot " belastingplichtige " est remplacé par le mot " belastingschuldige ".
+
+## Art. 4
+
+Dans l'article 7, § 1er, troisième alinéa, du même décret, les mots " ou au membre du personnel désigné à cet effet conformément à l'article 5 " sont insérés entre les mots " au redevable " et les mots " , par lettre recommandée à la poste, ".
+
+## Art. 5
+
+A l'article 8 du même décret, le deuxième alinéa est remplacé par la disposition suivante :
+
+" Si une infraction peut être sanctionnée d'un accroissement de la taxe, aucune amende administrative ne peut être imposée pour cette infraction. "
+
+## Art. 6
+
+L'article 9 du même arrêté est complété par un § 6, rédigé comme suit :
+
+" § 6. Les dispositions du présent article s'appliquent à chaque tiers auquel une amende administrative est imposée. "
+
+## Art. 7
+
+Dans l'article 11 du même décret, le numéro " 9 " est remplacé par le numéro " 9bis ".
+
+## Art. 8
+
+Le présent décret entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 28 mai 2010.
+
+Le Ministre-Président du Gouvernement flamand, Ministre flamand de l'Economie, de la Politique extérieure, de l'Agriculture et de la Ruralité,
+
+K. PEETERS
+
+Le Vice-Ministre-Président du Gouvernement flamand et Ministre flamand des Affaires administratives, de l'Administration intérieure, de l'Intégration civique, du Tourisme et de la Périphérie flamande de Bruxelles,
+
+G. BOURGEOIS

@@ -1,0 +1,1209 @@
+---
+title: "Décret portant le cadre de la politique flamande de l'égalité des chances et de traitement (TRADUCTION)"
+identifier: "2008203387"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/10/2008203387/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2008-07-10
+published: 2008-09-23
+entry_into_force: 2008-10-03
+last_amended: 2026-06-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/10/2008203387/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 23-09-2008 et mise à jour au 17-06-2026"
+retrieved: 2026-10-12
+---
+
+# 10 JUILLET 2008. - Décret portant le cadre de la politique flamande de l'égalité des chances et de traitement (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : Décret portant le cadre de la politique flamande de l'égalité des chances et de traitement.
+
+## CHAPITRE Ier. - Dispositions générales.
+
+#### Art. 1
+
+Le présent décret règle une matière communautaire et régionale.
+
+#### Art. 2
+
+Le présent décret crée un cadre pour la politique flamande de l'égalité des chances. En outre, le décret crée un cadre général de lutte contre la discrimination en ce qui concerne les compétences de la Communauté et de la Région flamandes.
+
+#### Art. 3
+
+Le présent décret transpose [<sup>3</sup> partiellement ]<sup>3</sup> les directives européennes suivantes :
+
+1° Directive 2000/43/CEE du Conseil du 29 juin 2000 relative à la mise en oeuvre du principe de l'égalité de traitement entre les personnes sans distinction de race ou d'origine ethnique;
+
+2° Directive 2000/78/CEE du Conseil du 27 novembre 2000 portant création d'un cadre général en faveur de l'égalité de traitement en matière d'emploi et de travail;
+
+3° Directive 2002/73/CEE du Parlement européen et du Conseil du 23 septembre 2002, modifiant la Directive 76/207/CEE du Conseil relative à la mise en oeuvre du principe de l'égalité de traitement entre hommes et femmes en ce qui concerne l'accès à l'emploi, à la formation et à la promotion professionnelles, et les conditions de travail;
+
+4° Directive 2004/113/CEE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de l'égalité de traitement entre les femmes et les hommes dans l'accès à des biens et services et la fourniture de biens et services;
+
+[<sup>1</sup> 5° directive 2006/54/CE du Parlement européen et du Conseil du 5 juillet 2006 relative à la mise en oeuvre du principe de l'égalité des chances et de l'égalité de traitement entre hommes et femmes en matière d'emploi et de travail (refonte).]<sup>1</sup>
+
+[<sup>3</sup> 6° directive 2010/41/UE du Parlement européen et du Conseil du 7 juillet 2010 concernant l'application du principe de l'égalité de traitement entre hommes et femmes exerçant une activité indépendante, et abrogeant la directive 86/613/CEE du Conseil ;
+
+7° directive 2011/98/UE du Parlement européen et du Conseil du 13 décembre 2011 établissant une procédure de demande unique en vue de la délivrance d'un permis combiné autorisant les ressortissants de pays tiers à résider et à travailler sur le territoire d'un Etat membre et établissant un socle commun de droits pour les travailleurs issus de pays tiers résidant légalement dans un Etat membre ;
+
+8° directive 2014/54/UE du Parlement européen et du Conseil du 16 avril 2014 relative à des mesures facilitant l'exercice des droits conférés aux travailleurs dans le contexte de la libre circulation des travailleurs ;
+
+9° directive (UE) 2016/801 du Parlement européen et du Conseil du 11 mai 2016 relative aux conditions d'entrée et de séjour des ressortissants de pays tiers à des fins de recherche, d'études, de formation, de volontariat et de programmes d'échange d'élèves ou de projets éducatifs et de travail au pair ;
+
+10° directive (UE) 2019/1158 du Parlement européen et du Conseil du 20 juin 2019 concernant l'équilibre entre vie professionnelle et vie privée des parents et des aidants et abrogeant la directive 2010/18/UE du Conseil ;
+
+11° directive (UE) 2023/970 du Parlement européen et du Conseil du 10 mai 2023 visant à renforcer l'application du principe de l'égalité des rémunérations entre les femmes et les hommes pour un même travail ou un travail de même valeur par la transparence des rémunérations et les mécanismes d'application du droit. ]<sup>3</sup>
+
+[<sup>4</sup> 12° directive (UE) 2024/1499 du Conseil du 7 mai 2024 relative aux normes applicables aux organismes pour l'égalité de traitement dans les domaines de l'égalité de traitement entre les personnes sans distinction de race ou d'origine ethnique, de l'égalité de traitement entre les personnes en matière d'emploi et de travail sans distinction de religion ou de convictions, de handicap, d'âge ou d'orientation sexuelle et de l'égalité de traitement entre les femmes et les hommes en matière de sécurité sociale ainsi que dans l'accès à des biens et services et la fourniture de biens et services, et modifiant les directives 2000/43/CE et 2004/113/CE ;
+
+13° directive (UE) 2024/1500 du Parlement européen et du Conseil du 14 mai 2024 relative aux normes applicables aux organismes pour l'égalité de traitement dans le domaine de l'égalité de traitement et de l'égalité des chances entre les femmes et les hommes en matière d'emploi et de travail, et modifiant les directives 2006/54/CE et 2010/41/UE. ]<sup>4</sup>
+
+Le présent décret porte application des conventions suivantes :
+
+1° Convention du 7 mars 1966 sur l'élimination de toutes les formes de discrimination raciale;
+
+2° Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes;
+
+[<sup>2</sup> 3° Convention du 13 décembre 2006 relative aux droits des personnes handicapées.]<sup>2</sup>
+
+[<sup>3</sup> 4° Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique, faite à Istanbul le 11 mai 2011]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/03, art. 3, 002; En vigueur : 11-04-2014&gt;
+
+(2)&lt;DCFL 2014-03-28/03, art. 4, 002; En vigueur : 11-04-2014&gt;
+
+(3)&lt;DCFL 2024-03-22/13, art. 5, 007; En vigueur : 01-06-2024&gt;
+
+(4)&lt;DCFL 2026-05-22/02, art. 2, 008; En vigueur : 07-06-2026&gt;
+
+#### Art. 4
+
+Le présent décret vaut nonobstant la protection et l'exercice des droits et libertés fondamentaux repris dans la Constitution et traités internationaux et conventions sur les droits de l'homme.
+
+## CHAPITRE II. - Objectifs.
+
+#### Art. 5
+
+La politique flamande d'égalité des chances et de traitement a pour objectif :
+
+1° de mettre en place une société tolérante reconnaissant et valorisant les différences entre personnes;
+
+2° de lutter contre et de prévenir la discrimination;
+
+3° de créer les conditions de sorte que tout un chacun puisse participer comme il se doit à la société flamande;
+
+4° de concrétiser l'égalité des chances de groupes sociaux confrontés à des retards ou à l'exclusion.
+
+#### Art. 6
+
+§ 1er. La politique flamande d'égalité des chances veut contribuer à concrétiser cette égalité des chances. Elle apporte sa contribution en :
+
+1° rendant visible les mécanismes d'infériorisation et d'exclusion portant sur les caractéristiques mentionnées à [<sup>2</sup> l'article 15bis ]<sup>2</sup>, en prévenant, diminuant ou jugulant leur impact, ainsi qu'en évitant l'apparition de nouveaux mécanismes similaires;
+
+2° stimulant la participation équilibrée dans tous les domaines sociaux;
+
+3° luttant contre et prévenant les préjugés;
+
+4° favorisant l'expertise relative aux mécanismes d'infériorisation et d'exclusion au sens du point 1°;
+
+5° soutenant, en vue de l'égalité des chances, l'élargissement de la portée des activités mentionnées aux points 1° à 4°.
+
+§ 2. La politique flamande de l'égalité des chances entreprend à cet égard de manière prioritaire des activités visant à concrétiser l'égalité des chances :
+
+1° [<sup>1</sup> indépendamment du genre, y compris sexe, identité de genre et expression de genre ;]<sup>1</sup>
+
+2° indépendamment de l'orientation sexuelle;
+
+3° indépendamment du handicap ou de l'état de santé;
+
+4° en favorisant l'accessibilité intégrale des infrastructures accessibles à un public;
+
+5° [<sup>2</sup> en favorisant l'inclusion numérique et l'accessibilité intégrale de l'information accessible à un public]<sup>2</sup>;
+
+6° indépendamment de la race, de la couleur de peau, de l'origine ethnique ou nationale, de la conviction religieuse ou philosophique;
+
+7° indépendamment de l'âge.
+
+[<sup>2</sup> L'inclusion numérique telle que visée à l'alinéa 1er, 5°, vise à garantir que chacun puisse participer pleinement à la société numérique. Cet objectif sera atteint :
+
+1° en renforçant l'accès à internet, au matériel et aux logiciels ;
+
+2° en renforçant les compétences numériques ;
+
+3° en mettant en place un réseau de soutien accessible pour des questions numériques ;
+
+4° en fournissant des informations et des services numériques conviviaux et accessibles.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/03, art. 5, 002; En vigueur : 11-04-2014&gt;
+
+(2)&lt;DCFL 2024-03-22/13, art. 6, 007; En vigueur : 01-06-2024&gt;
+
+## CHAPITRE III. - La politique flamande de l'égalité des chances.
+
+### Section Ire. - Principes de base.
+
+#### Art. 7
+
+La politique flamande de l'égalité des chances au sens de l'article 6, § 2, est une politique coordonnée et cohérente. En vue de l'application de cette politique, le Gouvernement flamand prévoit :
+
+1° la préparation et l'exécution d'une politique d'égalité des chances verticale et horizontale;
+
+2° la définition de mesures et d'actions dans les différents domaines politiques;
+
+3° le soutien et la coordination entre les différents domaines politiques;
+
+4° la rédaction de mesures et d'actions, conformément aux résolutions de la quatrième conférence mondiale des femmes qui a eu lieu du 4 au 14 septembre 1995 à Pékin.
+
+### Section II. - Organisation d'une politique d'égalité des chances horizontale.
+
+#### Art. 8
+
+[<sup>1</sup> § 1er. Dans les six mois suivant son entrée en fonction, le Gouvernement flamand fixe les objectifs et les priorités politiques par lesquels, dans chaque domaine politique pertinent, les objectifs de la politique flamande d'égalité des chances, visés aux articles 5 et 6, seront atteints. Le Gouvernement flamand établit également une analyse du contexte social dans lequel les objectifs précités doivent être réalisés.
+
+Dans les six mois après avoir fixé les objectifs, le Gouvernement flamand élabore un plan d'action intégré. Le plan d'action précité reprend uniquement les actions qui sont prises en complément de la politique régulière au sein des domaines, et qui requièrent une collaboration entre les domaines politiques.
+
+Le plan d'action intégré, visé à l'alinéa 2, comporte au moins l'ensemble des éléments suivants :
+
+1° une description succincte des objectifs formulés et des domaines politiques auxquels ils s'appliquent ;
+
+2° les actions concrètes à entreprendre pour atteindre les objectifs formulés ;
+
+3° le calendrier établi pour la mise en oeuvre des actions visées au point 2° ;
+
+4° la mention des indicateurs utilisés pour mesurer l'avancement ;
+
+5° les ressources et les instruments mis en oeuvre.
+
+§ 2. Le Gouvernement flamand peut aligner le plan d'action intégré visé au paragraphe 1er, alinéas 2 et 3, sur le plan d'action intégré visé à l'article 5, § 1er, alinéas 2 et 3, du décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'insertion civique ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 7, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 9
+
+&lt;Abrogé par DCFL 2024-03-22/13, art. 8, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 10
+
+[<sup>1</sup> Le Gouvernement flamand détermine les domaines politiques ainsi que les départements et agences autonomisées internes et externes de l'Aurorité flamande concernés qui sont pertinents pour la politique d'égalité des chances, visée aux articles 5 et 6.
+
+Dans le cadre des domaines politiques que le Gouvernement flamand désigne comme pertinents, le Gouvernement flamand ainsi que les départements concernés et les agences autonomisées internes et externes de l'Autorité flamande sont responsables de la préparation, de la mise en oeuvre et de l'évaluation de la politique flamande d'égalité des chances, visée aux articles 5 et 6 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 9, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 11
+
+[<sup>1</sup> Le Gouvernement flamand détermine la manière dont les départements et les agences autonomisées internes et externes façonnent la politique d'égalité des chances, visée aux articles 5 et 6 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 10, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 12
+
+&lt;Abrogé par DCFL 2024-03-22/13, art. 11, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 12bis.
+
+[<sup>1</sup> Le Gouvernement flamand peut créer un ou plusieurs conseils consultatifs ou conseils de participation à la politique en vue de la promotion de l'expertise, visée à l'article 6, § 1er, 4°, relative aux conditions, visées à l'article 6, § 2. [<sup>2</sup> Le Gouvernement flamand règle l'agrément, la mission, la composition, le fonctionnement, le subventionnement, le contrôle et la sanction de ces conseils consultatifs et conseils de participation à la politique.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-28/03, art. 9, 002; En vigueur : 11-04-2014&gt;
+
+(2)&lt;DCFL 2022-12-16/10, art. 20, 006; En vigueur : 01-01-2023&gt;
+
+#### Art. 13
+
+&lt;Abrogé par DCFL 2024-03-22/13, art. 11, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 13bis.
+
+[<sup>1</sup> Les provinces observent la perspective de l'égalité des chances telle que visée à l'article 6, § 2, dans le cadre de la préparation politique, du planning de la politique, de l'exécution de la politique et de l'évaluation de la politique de l'exécution de leurs compétences provinciales. Dans ce contexte, les provinces favorisent, dans le cadre de l'exécution de leurs compétences provinciales, l'accessibilité intégrale de l'infrastructure et de l'information qui sont accessibles à un public.
+
+Le Gouvernement flamand désigne un ou plusieurs organes où les provinces doivent prendre des avis dans le cadre de la promotion de l'accessibilité intégrale. Le Gouvernement flamand fixe les cas dans lesquels l'avis doit être pris, ainsi que les modalités.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-28/03, art. 10, 002; En vigueur : 11-04-2014&gt;
+
+#### Art. 14
+
+&lt;Abrogé par DCFL 2014-03-28/03, art. 11, 002; En vigueur : 11-04-2014&gt;
+
+### Section III. [<sup>1</sup> Coopération avec les organisations partenaires ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 12, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 14bis.
+
+[<sup>1</sup> Pour réaliser les objectifs de la politique d'égalité des chances pour les thèmes visés à l'article 6, § 2, alinéa 1er, 1° à 3°, le Gouvernement flamand agrée des organisations partenaires de l'égalité des chances. L'agrément est octroyé pour une période de 5 ans.
+
+Le Gouvernement flamand détermine les objectifs politiques qui mettent en oeuvre les thèmes visés à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 13, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 14ter.
+
+[<sup>1</sup> . Les organisations partenaires agréées pour l'égalité des chances, visées à l'article 14bis, remplissent au moins deux des quatre rôles suivants pour les thèmes visés à l'article 6, § 2, alinéa 1er, 1° à 3° :
+
+1° un rôle de défenseur d'intérêts avec une fonction de signal à l'Autorité flamande et de moteur du débat social ;
+
+2° un rôle de centre d'expertise pour le développement d'expertise orienté vers la pratique, la construction de connaissances et d'informations ;
+
+3° un rôle en termes de prestation de services, de soutien ou de fourniture d'informations ;
+
+4° un rôle d'organisation de réseau qui relie des personnes et des organisations et qui vise à renforcer l'égalité des chances.
+
+Le Gouvernement flamand précise les rôles visés à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 14, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 14quater.
+
+[<sup>1</sup> Toute organisation partenaire agréée pour l'égalité des chances, visée à l'article 14bis, conclut un accord de coopération avec le Gouvernement flamand pour une période de cinq ans. Par le biais de cet accord de coopération, le Gouvernement flamand impose à une organisation partenaire agréée les rôles visés à l'article 14ter. Cet accord de coopération comprendra également la mise en oeuvre pratique et concrète des rôles imposés, visés à l'article 14ter.
+
+L'accord de coopération visé à l'alinéa 1er comprendra également les objectifs stratégiques et opérationnels. Un ou plusieurs indicateurs sont définis pour chaque objectif opérationnel.
+
+Le Gouvernement flamand arrête le mode de réalisation de l'accord de coopération. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 15, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 14quinquies.
+
+[<sup>1</sup> Pour être agréée et conserver l'agrément, une organisation partenaire pour l'égalité des chances, telle que visée à l'article 14bis, doit remplir toutes les conditions suivantes :
+
+1° opérer dans la perspective des droits de l'homme ;
+
+2° avoir pour mission la promotion de l'égalité des chances telle que visée à l'article 6, § 1er ;
+
+3° avoir une expertise dans un ou plusieurs des thèmes visés à l'article 6, § 2, alinéa 1er, 1° à 3° ;
+
+4° opérer dans une perspective intersectionnelle ;
+
+5° être établie dans la région de langue néerlandaise ou dans la région bilingue de Bruxelles-Capitale ;
+
+6° ne pas avoir de but commercial ;
+
+7° être indépendante dans son fonctionnement en tant qu'organisation partenaire agréée. L'indépendance précitée comprend, entre autres, la formulation et la communication indépendantes de recommandations et de points de vue, ainsi que la composition indépendante de l'administration.
+
+Le Gouvernement flamand détermine les modalités et arrête la procédure d'agrément d'une organisation partenaire pour l'égalité des chances.
+
+Si une organisation partenaire pour l'égalité des chances ne remplit plus les conditions d'agrément, le Gouvernement flamand peut retirer l'agrément . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 16, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 14sexies.
+
+[<sup>1</sup> Dans les limites des crédits budgétaires disponibles, le Gouvernement flamand accorde annuellement aux organisations partenaires agréées pour l'égalité des chances, visées à l'article 14bis, une subvention générale de fonctionnement afin d'élaborer un fonctionnement ayant un impact suffisant.
+
+Les subventions visées à l'alinéa 1er sont accordées sur la base de l'accord de coopération, visé à l'article 14quater.
+
+Le montant de la subvention de fonctionnement visée à l'alinéa 1er est lié annuellement à l'indice des prix calculé et nommé pour l'application de l'article 2, § 1er, de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays. Une organisation partenaire agréée, telle que visée à l'article 14bis, peut constituer une réserve conformément à l'article 75 du Code flamand des Finances publiques du 29 mars 2019 et à l'article 72 de l'arrêté relatif au Code flamand des Finances publiques du 17 mai 2019.
+
+La subvention de fonctionnement visée à l'alinéa 1er ne peut être affectée qu'à des activités non économiques. La comptabilité d'une organisation partenaire agréée pour l'égalité des chances indique clairement quels coûts ont été encourus pour les activités économiques et quels coûts ont été encourus pour les activités non économiques. Dans la comptabilité, les revenus sont répartis entre la subvention reçue, les autres subventions reçues et les revenus propres ou autres.
+
+Le Gouvernement flamand détermine les modalités relatives à l'octroi, à la récupération et à la justification de la subvention visée à l'alinéa 1er, à l'introduction des demandes et des pièces justificatives, à la demande de données unique, ainsi qu'aux incompatibilités et à la procédure de contrôle de l'affectation de la subvention précitée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 17, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 14septies.
+
+[<sup>1</sup> . § 1er. Pour réaliser les objectifs stratégiques d'inclusion numérique, visés à l'article 6, § 2, alinéa 1er, 5°, le Gouvernement flamand peut agréer des organisations partenaires pour la mise en oeuvre et le soutien de la politique pendant cinq ans.
+
+§ 2. Pour être agréée et conserver l'agrément, une organisation partenaire pour l'inclusion numérique doit remplir toutes les conditions suivantes :
+
+1° être établie dans la région de langue néerlandaise ou dans la région bilingue de Bruxelles-Capitale ;
+
+2° avoir une expertise et une vision intégrée de l'inclusion numérique ;
+
+3° inclure dans son fonctionnement l'ensemble de la Communauté flamande et avoir une portée large concernant l'inclusion numérique au sein de la Communauté flamande ;
+
+4° être disposée à travailler en étroite collaboration avec l'Autorité flamande et à aligner ses propres activités en matière d'inclusion numérique sur la politique de l'Autorité flamande ;
+
+5° être disposée à coopérer avec d'autres partenaires de l'Autorité flamande.
+
+Le Gouvernement flamand détermine les modalités et arrête la procédure d'agrément d'une organisation partenaire pour l'inclusion numérique.
+
+Si une organisation partenaire pour l'inclusion numérique ne remplit plus les conditions d'agrément, le Gouvernement flamand peut retirer l'agrément.
+
+§ 3. Par le biais d'un accord de coopération, le Gouvernement flamand peut imposer à une organisation partenaire pour l'inclusion numérique telle que visée au paragraphe 1er, qui remplit les conditions d'agrément visées au paragraphe 2, une ou plusieurs des missions suivantes afin de mettre en oeuvre et soutenir la politique d'inclusion numérique :
+
+1° construire des informations, des connaissances et une expertise sur l'inclusion numérique qui sont constamment mises à jour et adaptées à l'évolution de la société ;
+
+2° diffuser des informations, des connaissances et de l'expertise telles que visées au point 1° auprès des partenaires de l'Autorité flamande et de la société en général.
+
+Le Gouvernement flamand peut préciser et étendre les missions visées à l'alinéa 1er.
+
+Pour la mise en oeuvre pratique et concrète des missions visées à l'alinéa 1er, une organisation partenaire conclut un accord de coopération tel que visé à l'alinéa 1er avec le Gouvernement flamand pour une période de cinq ans. L'accord de coopération précité comprend des accords sur les missions à réaliser, visées à l'alinéa 1er, y compris les objectifs stratégiques et opérationnels. Un ou plusieurs indicateurs sont définis pour chaque objectif opérationnel.
+
+Le Gouvernement flamand détermine le mode de réalisation de l'accord de coopération, visé à l'alinéa 1er.
+
+§ 4. Dans les limites des crédits budgétaires disponibles, le Gouvernement flamand peut accorder annuellement une subvention générale de fonctionnement à une organisation partenaire agréée pour l'inclusion numérique.
+
+La subvention visée à l'alinéa 1er est accordée sur la base de l'accord de coopération, visé au paragraphe 3.
+
+Le montant de la subvention de fonctionnement visée à l'alinéa 1er est lié annuellement à l'indice des prix calculé et nommé pour l'application de l'article 2, § 1er, de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays. Une organisation partenaire agréée pour l'inclusion numérique peut constituer une réserve conformément à l'article 75 du Code flamand des Finances publiques du 29 mars 2019 et à l'article 72 de l'arrêté relatif au Code flamand des Finances publiques du 17 mai 2019.
+
+La subvention de fonctionnement visée à l'alinéa 1er ne peut être affectée qu'à des activités non économiques. La comptabilité d'une organisation partenaire agréée pour l'inclusion numérique indique clairement quels coûts ont été encourus pour les activités économiques et quels coûts ont été encourus pour les activités non économiques. Dans la comptabilité, les revenus sont répartis entre la subvention reçue, les autres subventions reçues et les revenus propres ou autres.
+
+Le Gouvernement flamand peut déterminer les modalités relatives à l'octroi, à la récupération et à la justification de la subvention visée à l'alinéa 1er, à l'introduction des demandes et des pièces justificatives, à la demande de données unique, ainsi qu'aux incompatibilités et à la procédure de contrôle de l'affectation de la subvention précitée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 18, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 14octies.
+
+[<sup>1</sup> Afin de soutenir les autorités locales dans la mise en oeuvre d'une politique locale inclusive d'égalité des chances, le Gouvernement flamand peut agréer une organisation partenaire pendant cinq ans.
+
+§ 2. Pour être agréée et conserver l'agrément, l'organisation partenaire doit remplir toutes les conditions suivantes :
+
+1° être établie dans la région de langue néerlandaise ou dans la région bilingue de Bruxelles-Capitale ;
+
+2° avoir une expertise en matière de politique locale d'égalité des chances ;
+
+3° soutenir les autorités locales ;
+
+4° être disposée à accomplir la mission décrétale à l'égard des autorités locales de la Région flamande, ainsi que de la Commission communautaire flamande en tant qu'autorité locale flamande intérimaire ;
+
+5° avoir une large portée parmi les autorités locales ;
+
+6° être disposée à travailler en étroite collaboration avec l'Autorité flamande et à aligner ses propres activités en matière de politique locale d'égalité des chances sur la politique de l'Autorité flamande ;
+
+7° être disposée à coopérer avec les autres organisations agréées ou financées par l'Autorité flamande dans le cadre de la politique d'égalité des chances visée aux articles 5 et 6.
+
+Le Gouvernement flamand détermine les modalités et arrête la procédure d'agrément d'une organisation partenaire telle que visée à l'alinéa 1er.
+
+Si l'organisation partenaire ne remplit plus les conditions d'agrément, le Gouvernement flamand peut retirer l'agrément.
+
+§ 3. En vue de soutenir les autorités locales dans la mise en oeuvre d'une politique locale inclusive d'égalité des chances, l'organisation partenaire visée au paragraphe 1er, remplit les missions suivantes :
+
+1° recueillir des informations, des connaissances et de l'expertise sur la politique locale d'égalité des chances ;
+
+2° transformer les informations, les connaissances et l'expertise mentionnées au point 1° en outils utilisables pour les autorités locales ;
+
+3° partager les informations, les connaissances et l'expertise mentionnées au point 1° avec les autorités locales ;
+
+4° fournir un encadrement et un soutien aux autorités locales en matière de politique locale d'égalité des chances.
+
+Le Gouvernement flamand peut préciser et étendre les missions visées à l'alinéa 1er.
+
+Pour la mise en oeuvre pratique et concrète des missions visées à l'alinéa 1er, l'organisation partenaire visée au paragraphe 1er conclut un accord de coopération avec le Gouvernement flamand pour une période de cinq ans. L'accord de coopération précité comprend des accords sur les missions à réaliser, visées à l'alinéa 1er, y compris les objectifs stratégiques et opérationnels. Un ou plusieurs indicateurs sont définis pour chaque objectif opérationnel.
+
+Le Gouvernement flamand détermine le mode de réalisation de l'accord de coopération, visé à l'alinéa 3.
+
+§ 4. Dans les limites des crédits budgétaires disponibles, le Gouvernement flamand peut accorder annuellement une subvention générale de fonctionnement à l'organisation partenaire agréée, visée au paragraphe 1er.
+
+La subvention visée à l'alinéa 1er est accordée sur la base de l'accord de coopération, visé au paragraphe 3, alinéa 3.
+
+Le montant de la subvention de fonctionnement visée à l'alinéa 1er est lié annuellement à l'indice des prix calculé et nommé pour l'application de l'article 2, § 1er, de l'arrêté royal du 24 décembre 1993 portant exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays. L'organisation partenaire agréée, visée au paragraphe 1er, peut constituer une réserve conformément à l'article 75 du Code flamand des Finances publiques du 29 mars 2019 et à l'article 72 de l'arrêté relatif au Code flamand des Finances publiques du 17 mai 2019.
+
+La subvention de fonctionnement visée à l'alinéa 1er ne peut être affectée qu'à des activités non économiques. La comptabilité de l'organisation partenaire agréée, visée au paragraphe 1er, indique clairement quels coûts ont été encourus pour les activités économiques et quels coûts ont été encourus pour les activités non économiques. Dans la comptabilité, les revenus sont répartis entre la subvention reçue, les autres subventions reçues et les revenus propres ou autres.
+
+Le Gouvernement flamand peut déterminer les modalités relatives à l'octroi, à la récupération et à la justification de la subvention visée à l'alinéa 1er, à l'introduction des demandes et des pièces justificatives, à la demande de données unique, ainsi qu'aux incompatibilités et à la procédure de contrôle de l'affectation de la subvention précitée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 19, 007; En vigueur : 01-06-2024&gt;
+
+### Section IV. [<sup>1</sup> Agrément des experts en accessibilité ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 20, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 14nonies
+
+[<sup>1</sup> Le Gouvernement flamand peut désigner des personnes physiques ou morales comme experts en accessibilité. Le Gouvernement flamand détermine :
+
+1° les conditions d'agrément ;
+
+2° les modalités relatives à l'agrément et à sa durée, sa suspension et son retrait, ainsi que la procédure de recours administratif ;
+
+3° les missions des experts en accessibilité.
+
+L'agence La Flandre accessible (" Toegankelijk Vlaanderen "), visée au décret du 28 mars 2014 autorisant la création de l'agence autonomisée externe de droit privé " Toegankelijk Vlaanderen " (La Flandre accessible) sous forme d'une fondation privée, est désignée de plein droit comme un expert en accessibilité agréé. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 21, 007; En vigueur : 01-06-2024&gt;
+
+## CHAPITRE IV. - La politique flamande d'égalité de traitement.
+
+### Section Ire. - Formes de discrimination.
+
+#### Art. 15
+
+Sauf mention contraire, on entend dans le présent décret par discrimination :
+
+1° la discrimination directe;
+
+2° la discrimination indirecte;
+
+3° l'intimidation;
+
+4° l'intimidation de nature sexuelle;
+
+5° l'ordre de discriminer;
+
+6° le refus d'adaptations raisonnables pour une personne handicapée.
+
+[<sup>1</sup> Sauf en matière pénale, aucune des formes de discrimination visées à l'alinéa 1er ne requiert d'intention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 22, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 15bis.
+
+[<sup>1</sup> § 1er. Les caractéristiques de protection comprennent le sexe, les responsabilités familiales, l'âge, l'orientation sexuelle, l'état civil, la naissance, la fortune, la conviction religieuse ou philosophique, la conviction politique, la conviction syndicale, la langue, l'état de santé, le handicap, les caractéristiques physiques ou génétiques, la position sociale, la nationalité, la prétendue race, la couleur, l'ascendance, ou l'origine nationale ou ethnique.
+
+Par la caractéristique de protection " responsabilités familiales ", visée à l'alinéa 1er, on entend : la demande ou la prise d'un congé d'adoption, d'un congé de maternité, d'un congé d'allaitement, d'un congé de naissance, d'un congé parental, d'un congé pour soins, d'un congé parental d'accueil, d'une absence au travail pour des raisons de force majeure liée à des raisons familiales urgentes, en cas de maladie ou d'accident, de régimes de travail flexibles à des fins de soins, d'un crédit-temps, d'un crédit-soins ou d'autres régimes de congé légaux afin de permettre aux travailleurs de mieux concilier leur vie professionnelle et leur vie de famille.
+
+§ 2. Un traitement moins favorable dans une situation comparable fondé sur l'identité de genre, l'expression de genre, la grossesse, l'accouchement, la maternité, l'allaitement, l'adoption, la procréation médicalement assistée, la paternité et la co-maternité, le changement de sexe ou les caractéristiques sexuelles est assimilé à un traitement moins favorable dans une situation comparable fondé sur le sexe.
+
+§ 3. Un traitement moins favorable dans une situation comparable fondé sur la composition de ménage est assimilé à un traitement moins favorable dans une situation comparable fondé sur l'état civil. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 23, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 16
+
+§ 1er. Il est question de discrimination directe lorsque quelqu'un est traité de manière moins favorable qu'une autre personne dans une situation comparable sur la base d'une ou plusieurs caractéristiques de protection réelles ou supposées octroyées en propre ou par association, à moins que ce traitement défavorable se justifie dans un but légitime et que les moyens pour atteindre cet objectif sont adéquats et nécessaires.
+
+[<sup>2</sup> La règle de justification visée à l'alinéa 1er s'applique sous réserve des règles de justification particulières visées aux articles 23 à 25ter. ]<sup>2</sup>
+
+§ 2. Il est question de discrimination indirecte lorsqu'une disposition, un critère, une façon de faire d'apparence neutre peut léser des personnes répondant [<sup>2</sup> à une ou plusieurs caractéristiques de protection ]<sup>2</sup> [<sup>2</sup> réelles ou supposées ]<sup>2</sup> en propre ou par association, en comparaison à d'autres personnes, à moins que :
+
+\- cette disposition, ce critère ou cette façon de faire se justifie dans un but légitime et que les moyens pour atteindre cet objectif sont adéquats et nécessaires;
+
+\- Dans le cas d'une différence indirecte sur la base d'un handicap, il peut être démontré qu'aucune adaptation raisonnable ne peut être apportée.
+
+§3. [<sup>2</sup> ...]<sup>2</sup>.
+
+§4. [<sup>2</sup> ...]<sup>2</sup>.
+
+§5. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2014-03-28/03, art. 12, 002; En vigueur : 11-04-2014&gt;
+
+(2)&lt;DCFL 2024-03-22/13, art. 24, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 17
+
+§ 1er. [<sup>1</sup> Il est question d'intimidation lorsqu'un comportement indésirable se produit qui est lié à une ou plusieurs des caractéristiques visées à l'article 15bis, ]<sup>1</sup> et ayant pour objectif ou conséquence qu'il y a atteinte à l'intégrité de la personne et que l'on crée un environnement menaçant, hostile, offensant, humiliant ou blessant.
+
+§ 2. Il est question d'intimidation de nature sexuelle en cas d'une quelconque forme de harcèlement à connotation sexuelle, verbal, non verbal ou physique, [<sup>1</sup> , y compris des actes sexuels non désirés et des demandes de tels actes, des contacts physiques sexuellement explicites et des commentaires importuns de nature sexuelle,]<sup>1</sup> ayant pour objectif ou conséquence qu'il y a atteinte à l'intégrité de la personne, en particulier en cas de création d'une situation menaçante, hostile, offensante, humiliante ou blessante.
+
+[<sup>2</sup> § 3. L'intimidation ou l'intimidation de nature sexuelle comprend également tout traitement moins favorable reposant sur le fait que la personne concernée a rejeté de tels comportements, ou qu'elle les a subis sans protester. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 25, 007; En vigueur : 01-06-2024&gt;
+
+(2)&lt;DCFL 2026-05-22/02, art. 3, 008; En vigueur : 07-06-2026&gt;
+
+#### Art. 18
+
+Il est question d'ordre de discriminer pour toute façon de faire consistant à charger de discriminer une personne, un groupe, une communauté ou un de ses membres sur la base d'une ou plusieurs des caractéristiques mentionnées à [<sup>1</sup> l'article 15bis ]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 26, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 19
+
+Il est question de refus d'adaptations raisonnables pour une personne atteinte d'un handicap lorsque des adaptations sont refusées alors qu'elles ne représentent pas une charge exagérée ou dont la charge peut être compensée de manière suffisante par des mesures existantes. On entend par adaptation toute mesure concrète, de nature matérielle ou immatérielle qui neutralise l'influence limitative d'un environnement inadapté à la participation d'une personne atteinte d'un handicap.
+
+[<sup>1</sup> Le caractère raisonnable de l'adaptation visée à l'alinéa 1er est évalué, entre autres, sur la base des indicateurs suivants :
+
+1° l'impact financier de l'adaptation, en tenant compte des éventuelles interventions financières de soutien et de la capacité financière de la personne sur laquelle repose l'obligation d'adaptation ;
+
+2° l'impact organisationnel de l'adaptation ;
+
+3° la fréquence et la durée prévues de l'utilisation de l'adaptation par les personnes handicapées ;
+
+4° l'impact de l'adaptation sur la qualité de vie d'un utilisateur handicapé réel ou potentiel ou d'utilisateurs handicapés réels ou potentiels ;
+
+5° l'impact de l'adaptation sur l'environnement et sur les autres utilisateurs ;
+
+6° l'absence d'alternatives équivalentes ;
+
+7° le défaut de normes évidentes ou légalement requises. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 27, 007; En vigueur : 01-06-2024&gt;
+
+### Section II. - Champ d'application.
+
+#### Art. 20
+
+Dans les limites des compétences attribuées à la Communauté flamande et à la Région flamande, toute forme de discrimination est interdite, tant dans le secteur public que dans le secteur privé, en ce compris les instances publiques en ce qui concerne :
+
+1° les conditions d'accès au travail salarié ou indépendant ou à une profession, en ce compris les critères de sélection et de désignation, indépendamment de la nature de l'activité et à tous les niveaux de la hiérarchie, en ce compris les opportunités de promotion, les conditions de travail et salariales, en ce compris de licenciement et de rémunération;
+
+2° l'accès à toutes les formes et niveaux d'information de choix professionnel, formation professionnelle, formation continue et recyclage, en ce compris les cours de pratique professionnelle;
+
+3° l'outplacement et la remise au travail;
+
+4° les soins de santé.
+
+5° l'enseignement;
+
+6° l'offre, l'accès, la livraison et le recours aux biens et services disponibles au public - contre ou sans paiement - en ce compris le logement [<sup>3</sup> , la mobilité, l'enseignement, les sports et l'énergie, ainsi que lors de la conclusion, l'exécution ou la cessation d'accords en la matière ]<sup>3</sup>;
+
+7° les avantages sociaux [<sup>3</sup> et la protection sociale ]<sup>3</sup>;
+
+8° l'accès et la participation à l'activité économique, sociale, culturelle ou politique disponible en dehors de la sphère privée.
+
+[<sup>1</sup> Par le terme " rémunération " de l'alinéa premier, 1°, il faut entendre ce qui suit : le salaire ou traitement de base ou minimum ordinaire et tous les autres avantages en espèces ou en nature reçus par le travailleur, directement ou indirectement, du chef de son emploi, de son employeur.]<sup>1</sup>
+
+[<sup>4</sup> La discrimination en matière de rémunération désigne une discrimination dans le cadre des relations de travail en matière de rémunération fondée sur la caractéristique protégée du sexe ou fondée sur plusieurs caractéristiques protégées telles que visées à l'article 15bis, dont au moins l'une est le sexe.]<sup>4</sup>
+
+[<sup>3</sup> Les dispositions du présent décret s'appliquent à la discrimination dans le domaine des relations de travail telles que visées à l'alinéa 1er, 1° à 3°, si le décret du 8 mai 2002 relatif à la participation proportionnelle sur le marché de l'emploi ne prévoit pas une protection juridique plus large pour la personne lésée.]<sup>3</sup>.
+
+[<sup>2</sup> Lorsque, pour la fixation de la rémunération, un système d'évaluation des emplois est utilisé, ce système doit reposer sur des critères qui sont égaux pour les travailleurs masculins et féminins, et être dressé d'une telle manière que toute discrimination en raison de sexe est exclue.]<sup>2</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/03, art. 13, 002; En vigueur : 11-04-2014&gt;
+
+(2)&lt;DCFL 2014-03-28/03, art. 14, 002; En vigueur : 11-04-2014&gt;
+
+(3)&lt;DCFL 2024-03-22/13, art. 28, 007; En vigueur : 01-06-2024&gt;
+
+(4)&lt;DCFL 2026-05-22/02, art. 4, 008; En vigueur : 07-06-2026&gt;
+
+#### Art. 21
+
+§ 1er. Une situation dans le cadre de laquelle une personne serait traitée de manière moins favorable sur la base d'une ou plusieurs caractéristiques de protection réelles ou supposées octroyées en propre ou par association qu'une autre dans une situation comparable, n'engendre jamais un constat d'une quelconque forme de discrimination interdite par le présent décret si cette situation est prévue par ou en vertu d'un décret ou découle de son application.
+
+§ 2. Une situation dans le cadre de laquelle une disposition, un critère ou une façon de faire d'apparence neutre peut léser une personne bénéficiant d'une caractéristique de protection, n'engendre jamais un constat d'une quelconque forme de discrimination interdite par le présent décret si cette situation est prévue par ou en vertu d'un décret ou découle de son application.
+
+§ 3. Pour l'application du présent article, on entend par décret également une loi prévoyant une situation telle que visée aux § 1er à § 2, dans des affaires qui ressortent désormais des compétences des régions ou des communautés.
+
+### Section III. - Dispositions particulières.
+
+#### Art. 22
+
+Les dispositions relatives à la protection de la grossesse et de la maternité ne peuvent être considérées comme une forme de discrimination et ne sont en rien touchées par le présent décret.
+
+#### Art. 22bis.
+
+[<sup>1</sup> [<sup>2</sup> Un parent, un parent d'accueil, un tuteur ou un aidant proche qui occupe un emploi et qui a un congé dans le cadre des responsabilités familiales, tel que visé à l'article 15bis, § 1er, ]<sup>2</sup> a le droit de retourner à sa fonction ou à une fonction équivalente à des conditions et en des conditions qui ne sont pour elle/lui pas moins favorables et de profiter de toute amélioration des conditions de travail auxquelles elle/il peut prétendre lors de son absence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-28/03, art. 15, 002; En vigueur : 11-04-2014&gt;
+
+(2)&lt;DCFL 2024-03-22/13, art. 29, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 23
+
+Lorsque quelqu'un est traité de manière défavorable en raison de son âge par rapport à quelqu'un d'autre dans une situation comparable dans le domaine des relations de travail au sens de l'article 20, point 1° à 3°, il est question de discrimination au sens de l'article 16, § 1er, à moins que ce traitement défavorable se justifie de manière objective et raisonnable dans un but légitime, en ce compris les objectifs légitimes de la politique dans le domaine de l'emploi, du marché du travail ou de la formation professionnelle et que les moyens pour atteindre cet objectif sont adéquats et nécessaires.
+
+Ces différences de traitement peuvent entre autres concerner :
+
+1° la création de conditions particulières d'accès au travail et à la formation professionnelle, les conditions de travail particulières, en ce compris les conditions de licenciement et de rémunération des jeunes, des travailleurs âgés et des travailleurs avec personnes à charge, afin de favoriser leur intégration dans le processus de travail et d'assurer leur protection;
+
+2° la fixation de conditions minimales en ce qui concerne l'âge, la formation professionnelle ou l'ancienneté dans une fonction pour l'accès au travail ou à certains des avantages y afférents;
+
+3° la fixation d'un âge maximal pour le recrutement, basé sur les exigences de formation pour la fonction en question ou basé sur la nécessité d'un nombre raisonnable d'années de travail précédant la mise à la retraite.
+
+#### Art. 24
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Lorsque quelqu'un est traité de manière plus défavorable pour cause de race, de couleur de peau, d'origine ou de descendance ethnique ou nationale que quelqu'un d'autre dans une situation comparable, dans les domaines [<sup>2</sup> mentionnés à l'article 20, alinéa 1er, 4°, 5°, 6° et 7°]<sup>2</sup>, il est question de discrimination directe au sens de l'article 16, § 1er.
+
+[<sup>1</sup> § 2. La discrimination directe au sens de l'article 16, § 1er est réputée exister lorsqu'une personne est traitée moins favorablement, dans [<sup>2</sup> les domaines visés]<sup>2</sup> à l'article 20, alinéa 1er, 6° [<sup>2</sup> et 7° ]<sup>2</sup>, en raison de son sexe qu'une autre ne l'est, ne l'a été ou ne le serait dans une situation comparable.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, il n'y a pas question de discrimination directe au sens de l'article 16, § 1er, dans le domaine visé à l'article 20, alinéa 1er, 6°, si l'accès à, ou l'offre ou la fourniture de ceux-ci, uniquement ou principalement à des membres d'un sexe déterminé sont justifiés par un but légitime et si les moyens d'atteindre ce but sont appropriés et nécessaires]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/02, art. 2, 003; En vigueur : 16-06-2018&gt;
+
+(2)&lt;DCFL 2024-03-22/13, art. 30, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 25
+
+Lorsque quelqu'un est traité de manière plus défavorable pour cause de sexe, d'orientation sexuelle, de croyance ou de philosophie de vie, de handicap, de race, de couleur de peau, d'origine ou de descendance nationale ou ethnique que quelqu'un dans une situation comparable dans le domaine des relations de travail au sens de l'article 20, premier alinéa, 1° à 3°, il est question de discrimination directe.
+
+Sans préjudice de [<sup>2</sup> l'article 20, alinéa 4 ]<sup>2</sup>, il n'est pas question de discrimination directe lorsque la caractéristique visée au premier alinéa constitue une exigence professionnelle réelle et déterminante en raison de la nature des activités professionnelles spécifiques ou du contexte dans lequel elles sont appliquées et à condition que l'objectif soit légitime et que l'exigence soit adéquate et nécessaire.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 31, 007; En vigueur : 01-06-2024&gt;
+
+(2)&lt;DCFL 2026-05-22/02, art. 5, 008; En vigueur : 07-06-2026&gt;
+
+#### Art. 25bis.
+
+[<sup>1</sup> Si le traitement plus défavorable en raison d'une ou de plusieurs des caractéristiques de protection, visées à l'article 15bis, affecte plusieurs domaines tels que visés à l'article 20, alinéa 1er, la règle de justification qui offre la protection juridique la plus forte à la personne lésée s'applique . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 32, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 25ter.
+
+[<sup>1</sup> Si une personne est traitée de manière moins favorable qu'une autre personne ne l'est, ne l'a été ou ne le serait dans une situation comparable, en raison de sa conviction religieuse ou philosophique, dans les domaines visés à l'article 20, alinéa 1er, il n'y a pas question de discrimination de la part d'organisations publiques ou privées dont le fondement repose sur la conviction religieuse ou philosophique, à condition que, en raison des activités développées dans les domaines précités ou du contexte dans lequel celles-ci sont exercées, la conviction religieuse ou philosophique constitue une condition essentielle, légitime et justifiée au regard du fondement de l'organisation. Cette différence de traitement ne peut justifier une discrimination fondée sur un autre motif.
+
+Pourvu que les dispositions du présent décret soient par ailleurs respectées, le présent décret ne porte pas préjudice au droit des organisations publiques ou privées dont le fondement repose sur la conviction religieuse ou philosophique de requérir des personnes travaillant pour elles une attitude de bonne foi et de loyauté envers l'éthique de l'organisation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 33, 007; En vigueur : 01-06-2024&gt;
+
+### Section IV. - Action Positive.
+
+#### Art. 26
+
+Le présent décret n'empêche pas que pour garantir une égalité complète, des mesures temporaires spécifiques soient prises ou maintenues en vue de compenser une inégalité notoire ayant trait [<sup>2</sup> à l'une des caractéristiques visées à l'article 15bis,]<sup>2</sup> ou une combinaison de ces caractéristiques, pour autant que ces mesures se justifient objectivement par un but légitime et que les moyens pour atteindre ce but soient adéquats et nécessaires.
+
+[<sup>2</sup> Sans préjudice de l'application des conditions visées à l'alinéa 1er, le Gouvernement flamand peut, de manière générale ou pour des domaines ou des caractéristiques de protection spécifiques, préciser dans quelles situations et sous quelles conditions une mesure spécifique temporaire peut être maintenue ou prise.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/03, art. 16, 002; En vigueur : 11-04-2014&gt;
+
+(2)&lt;DCFL 2024-03-22/13, art. 34, 007; En vigueur : 01-06-2024&gt;
+
+### Section IVbis. [<sup>1</sup> Procédure pour les demandes d'adaptations raisonnables ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 36, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 26bis.
+
+[<sup>1</sup> § 1er. Toute personne soumise à l'interdiction de discrimination visée au présent décret prend les mesures appropriées pour faciliter la demande d'adaptations raisonnables telles que visées à l'article 19, comme la mise à disposition d'un formulaire de demande qui peut également être rempli par voie électronique, sans exclure d'autres moyens de communication. Le Gouvernement flamand établit un modèle du formulaire de demande précité.
+
+La personne visée à l'alinéa 1er fournit au demandeur d'adaptations raisonnables telles que visées à l'article 19, des informations sur la suite donnée à la demande dans les meilleurs délais et, en tout état de cause, dans les 30 jours suivant la réception de la demande précitée.
+
+§ 2. Dans des cas exceptionnels et si nécessaire, le délai visé au paragraphe 1er, alinéa 2, peut être prolongé de 30 jours. La prorogation précitée et la ou les raisons qui la motivent sont notifiées au demandeur dans le délai prévu au paragraphe 1er, alinéa 2.
+
+§ 3. Si la demande d'adaptations raisonnables visée au paragraphe 1er est à première vue excessive ou formulée d'une manière trop générale pour pouvoir être examinée, la personne visée au paragraphe 1er, alinéa 1er, invite le demandeur, dès que possible et au plus tard dans le délai visé au paragraphe 1er, alinéa 2, à préciser ou à compléter sa demande. La personne visée au paragraphe 1er, alinéa 1er, motive cette demande et, si possible, indique quelles informations supplémentaires sont nécessaires pour pouvoir examiner la demande. Un nouveau délai de 30 jours commence à courir à partir du moment où le demandeur a précisé ou complété sa demande. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 36, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 26ter.
+
+[<sup>1</sup> Si la personne visée à l'article 26bis, § 1er, alinéa 1er, décide de donner suite, en tout ou en partie, à la demande d'adaptations raisonnables visée à l'article 26bis, § 1er, alinéa 1er, elle exécute cette décision dans les meilleurs délais, et au plus tard dans les soixante jours à compter de la date à laquelle la décision précitée a été prise.
+
+Si la personne visée à l'article 26bis, § 1er, alinéa 1er, estime avoir besoin de plus de temps pour exécuter sa décision, elle peut prolonger de 30 jours le délai visé à l'alinéa 1er. La prorogation précitée et la ou les raisons qui la motivent sont notifiées au demandeur d'adaptations raisonnables telles que visées à l'article 19, dans le délai visé à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 37, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 26quater.
+
+[<sup>1</sup> Si la personne visée à l'article 26bis, § 1er, alinéa 1er, rejette, en tout ou en partie, la demande d'adaptations raisonnables visée à l'article 26bis, § 1er, alinéa 1er, elle informe le demandeur des raisons de ce rejet et l'informe de la possibilité d'introduire une plainte auprès de l'Institut flamand des droits de l'homme, visé au décret du 28 octobre 2022 portant création d'un Institut flamand des droits de l'homme, et d'introduire une requête auprès du juge conformément à la section V du présent décret.
+
+Si la personne visée à l'article 26bis, § 1er, alinéa 1er, ne communique pas de décision au demandeur des adaptations raisonnables telles que visées à l'article 19 dans les délais visés à l'article 26bis, la demande d'adaptations raisonnables visée à l'article 26bis, § 1er, alinéa 1er, est censée avoir été rejetée et le demandeur a le droit de déposer une plainte auprès de l'Institut flamand des droits de l'homme précité et d'introduire une requête auprès du juge conformément à la section V du présent décret. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 38, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 26quinquies.
+
+[<sup>1</sup> Art. 26quinquies. La fourniture des informations visées à la présente section et la réalisation des adaptations raisonnables visées à l'article 19 sont gratuites pour le demandeur d'adaptations raisonnables telles que visées à l'article 19. Si les demandes d'adaptations raisonnables telles que visées à l'article 26bis, § 1er, alinéa 1er, sont manifestement infondées ou excessives, notamment en raison de leur caractère répétitif, la personne visée à l'article 26bis, § 1er, alinéa 1er, peut prendre l'une des décisions suivantes :
+
+1° décider d'exiger le paiement de frais raisonnables compte tenu des coûts administratifs liés à la réponse aux demandes ;
+
+2° décider de ne pas répondre aux demandes.
+
+Il appartient à la personne visée à l'article 26bis, § 1er, alinéa 1er, de prouver le caractère manifestement infondé ou excessif de la demande visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 39, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 26sexies.
+
+[<sup>1</sup> La présente section ne porte pas atteinte aux dispositions décrétales qui prévoient une protection juridique plus large pour les personnes handicapées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 40, 007; En vigueur : 01-06-2024&gt;
+
+### Section V. - Sanctions et procédures.
+
+#### Art. 27
+
+§ 1er. Les dispositions contraires au présent décret et les dispositions en vertu desquelles une ou plusieurs parties contractantes renoncent d'avance aux droits garantis par le présent décret sont nulles.
+
+§ 2. Par disposition au sens du § 1er, on entend les dispositions administratives et les dispositions reprises dans les contrats individuels et conventions collectives ou les règlements, ainsi que les dispositions reprises dans des documents promulgués de manière unilatérale.
+
+#### Art. 27bis.
+
+[<sup>1</sup> Si le traitement défavorable est fondé sur plusieurs caractéristiques de protection telles que visées à l'article 15bis, l'évaluation de ce traitement défavorable tient compte du fait que plusieurs caractéristiques de protection sont en cause et de la vulnérabilité particulière de la personne lésée qui peut en résulter. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 41, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 28
+
+§ 1er. En cas de discrimination, la victime peut invoquer un dédommagement, conformément au droit de la responsabilité contractuelle et extracontractuelle.
+
+[<sup>1</sup> Si la victime réclame un dédommagement et que le tribunal constate une discrimination]<sup>1</sup> la personne qui a violé l'interdiction de discrimination doit verser un dédommagement à la victime qui au choix de celle-ci sera soit égale à un montant forfaitaire comme stipulé en § 2, soit au dommage réellement encouru par la victime. Dans ce dernier cas, la victime doit prouver l'importance du dommage encouru.
+
+[<sup>2</sup> Si la victime invoque une indemnisation pour le dommage réellement encouru en raison d'une discrimination en matière de rémunération, visée à l'article 20, alinéa 3, cette indemnisation comprend les éléments suivants :
+
+1° le recouvrement intégral des arriérés de la rémunération visée à l'article 20, alinéa 2 ;
+
+2° l'indemnisation pour les opportunités manquées ;
+
+3° l'indemnisation pour le préjudice moral ;
+
+4° l'indemnisation pour tout dommage causé par un traitement défavorable fondé sur plusieurs caractéristiques protégées telles que visées à l'article 15bis, dont l'une est le sexe, ou par d'autres facteurs pertinents ;
+
+5° les intérêts de retard. ]<sup>2</sup>
+
+§ 2. Le dédommagement forfaitaire mentionné [<sup>1</sup> au paragraphe 1er]<sup>1</sup>, est fixé comme suit :
+
+1° Si la victime réclame un dédommagement moral et matériel pour discrimination dans le cadre des relations de travail [<sup>1</sup> telles que visées à l'article 20, alinéa 1er, 1° à 3° ]<sup>1</sup>, le dédommagement forfaitaire pour dommage matériel et moral est égal à la rémunération brute de six mois, [<sup>1</sup> ...]<sup>1</sup>. [<sup>1</sup> ...]<sup>1</sup> Si le dommage matériel qui découle d'une discrimination dans le cadre des relations de travail [<sup>1</sup> telles que visées à l'article 20, alinéa 1er, 1° à 3° ]<sup>1</sup>, peut être réparé par le biais de l'application de sanction en annulation fixée à l'article 27, le dédommagement forfaitaire est fixé en vertu des dispositions du point 2°;
+
+2° [<sup>1</sup> Dans tous les cas autres que ceux visés au point 1°, l'indemnité forfaitaire pour dommage moral encouru à la suite d'un fait de discrimination, est fixée à 1950 euros ]<sup>1</sup>.
+
+[<sup>1</sup> A la demande d'une des parties, le juge peut, par décision spécialement motivée, réduire l'indemnité forfaitaire visée à l'alinéa 1er, 1°, à trois mois de rémunération brute ou la porter à neuf mois de rémunération brute.
+
+A la demande d'une des parties, le juge peut, par décision spécialement motivée, réduire l'indemnité forfaitaire visée à l'alinéa 1er, 2°, à un montant de 1 000 euros ou la porter à un montant de 3 900 euros.
+
+Lors de la décision visée aux alinéas 2 et 3, le juge tient compte des éléments suivants :
+
+1° la nature, la gravité et la durée de la violation de l'interdiction de discrimination ;
+
+2° le caractère unique ou répétitif de la discrimination à l'égard de la victime ;
+
+3° la vulnérabilité de la victime ;
+
+4° les mesures prises par le défendeur pour limiter les dommages subis par la victime ;
+
+5° le caractère intentionnel ou négligent de la violation de l'interdiction de discrimination ;
+
+6° toute autre circonstance qui rend le dommage moral subi par la victime plus ou moins grave que la moyenne.
+
+Les montants de l'indemnité forfaitaire, visés à l'alinéa 1er, 2°, et à l'alinéa 3, sont liés aux fluctuations de l'indice général des prix à la consommation du Royaume. Les montants sont adaptés annuellement au 1er janvier sur la base d'un coefficient obtenu en divisant la moyenne des indices mensuels de l'année précédente par la moyenne des indices de l'année 2022. La moyenne des indices mensuels est arrondie au centième supérieur ou inférieur selon que le chiffre des millièmes s'élève à cinq ou non, et le coefficient est arrondi au dix millième supérieur ou inférieur, selon que le chiffre des cent millièmes s'élève à cinq ou non. Après l'application du coefficient, le montant est arrondi au centième supérieur ou inférieur selon que le chiffre du millième s'élève à cinq ou non. Le Gouvernement flamand peut arrêter les modalités relatives à la publication de l'adaptation précitée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 42, 007; En vigueur : 01-06-2024&gt;
+
+(2)&lt;DCFL 2026-05-22/02, art. 6, 008; En vigueur : 07-06-2026&gt;
+
+#### Art. 29
+
+§ 1er. A la requête de la personne qui estime être victime de discrimination ou à la requête [<sup>1</sup> d'une des [<sup>2</sup> personnes morales ]<sup>2</sup>, associations ou organisations mentionnées à l'article 41]<sup>1</sup>, le président du tribunal de première instance ou, en fonction de la nature du fait, le président du tribunal du travail ou du tribunal du commerce, constate l'existence d'un fait tombant sous le droit pénal dépassant les dispositions du présent décret et en ordonne la suspension.
+
+[<sup>2</sup> Le président du tribunal a la possibilité d'imposer des mesures positives en vue de mettre fin à la violation des dispositions du présent décret ou d'empêcher la répétition d'actes similaires constituant une violation des dispositions du présent décret. Ce faisant, le président du tribunal peut imposer un délai dans lequel les mesures positives imposées doivent être mises en oeuvre. ]<sup>2</sup>
+
+Le président du tribunal peut prononcer l'annulation de la suspension, dès qu'il est prouvé qu'il a été mis un terme à l'infraction.
+
+§ 2. Sur requête de la victime, le président du tribunal [<sup>2</sup> octroie ]<sup>2</sup> à celle-ci le dédommagement forfaitaire tel que mentionné à l'article 28, § 2.
+
+[<sup>2</sup> § 2bis. Le président du tribunal peut, conformément à l'article 27, prononcer la nullité des dispositions contraires au présent décret et des dispositions en vertu desquelles une ou plusieurs parties contractantes renoncent aux droits garantis par le présent décret]<sup>2</sup>
+
+§ 3. Le président du tribunal peut ordonner que la décision qu'il prononce ou le résumé qu'il rédige soit affiché durant un délai qu'il fixe tant en dehors qu'à l'intérieur des locaux du contrevenant ou dans les locaux qui lui appartiennent et que le jugement ou son résumé soient publiés dans des journaux ou par d'autres moyens. Le contrevenant en assumera les frais.
+
+[<sup>2</sup> Toutefois, les mesures de publicité visées à l'alinéa 1er ne peuvent être imposées que si et dans la mesure où le président du tribunal les estime appropriées et nécessaires à la lumière d'un ou de plusieurs des objectifs suivants :
+
+1° assurer à la victime de la discrimination la réparation du dommage moral subi ;
+
+2° encourager le défendeur à cesser ou à ne pas répéter son comportement discriminatoire ;
+
+3° informer les autres personnes lésées par la discrimination constatée de l'infraction constatée afin qu'elles puissent, le cas échéant, faire valoir leurs droits à l'égard de l'auteur de l'infraction concernée ;
+
+4° informer les autres justiciables des comportements qui peuvent les exposer à des sanctions ;
+
+5° informer le public le plus largement possible de la décision et des motifs sur lesquels elle se fonde.]<sup>2</sup>.
+
+[<sup>2</sup> Le président du tribunal ne peut ordonner les mesures de publicité visées à l'alinéa 1er qu'après avoir entendu les parties à ce sujet. ]<sup>2</sup>
+
+[<sup>2</sup> Les mesures de publicité visées à l'alinéa 1er sont exécutées dans le respect des prescriptions en matière de pseudonymisation, visées à l'article 782, § 5, alinéa 3, du Code judiciaire, sauf décision contraire du président du tribunal à la demande expresse de la personne physique concernée. ]<sup>2</sup>
+
+§ 4. La requête est introduite et traitée comme en référé.
+
+Elle est introduite par requête écrite déposée en quatre exemplaires auprès du greffe du tribunal compétent ou adressée par pli recommandé à la Poste au greffe concerné.
+
+La requête mentionne les données suivantes :
+
+1° le jour, le mois et l'année;
+
+2° les noms et prénoms, la profession et le domicile du requérant;
+
+3° le nom et l'adresse de la personne physique ou morale à l'encontre de laquelle la procédure est introduite;
+
+4° l'objet et l'exposé des moyens de la procédure.
+
+Le greffier du tribunal en informe immédiatement la partie adverse par pli judiciaire et l'invite à comparaître au plus tôt dans les trois jours et au plus tard dans les huit jours après expédition du pli judiciaire auquel un exemplaire de la requête est joint.
+
+Il y a prononcé quant à la requête, nonobstant poursuite pour les mêmes faits devant une autre juridiction pénale.
+
+Si une requête en suspension est introduite pour des faits soumis au juge au pénal, il n'y aura prononcé sur les poursuites au pénal qu'après que la requête en suspension ait été coulée en décision passée en force de chose jugée. Durant la suspension, la prescription de l'action au pénal est suspendue.
+
+Le jugement est exécutable au provisoire, nonobstant tout moyen et sans aucune garantie. Il est immédiatement signifié par le greffier du tribunal à l'ensemble des parties ainsi qu'au procureur du Roi.
+
+[<sup>2</sup> En outre, le jugement est notifié à l'Institut flamand des droits de l'homme, visé au décret du 28 octobre 2022 portant création d'un Institut flamand des droits de l'homme, par le greffier du tribunal, dans un délai de huit jours à compter du jugement.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2022-10-28/04, art. 50, 005; En vigueur : 15-03-2023&gt;
+
+(2)&lt;DCFL 2024-03-22/13, art. 43, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 30
+
+Le juge peut, sur requête de la victime de discrimination [<sup>1</sup> ou de l'une des [<sup>2</sup> personnes morales "]<sup>2</sup>, associations ou organisations mentionnées à l'article 41 du présent décret, condamner]<sup>1</sup> ceux qui se sont rendus coupables de discrimination au paiement d'une astreinte s'il n'est pas mis un terme à cette discrimination. Le juge se prononce conformément aux articles 1385bis à 1385nonies du Code Judiciaire.
+
+----------
+
+(1)&lt;DCFL 2022-10-28/04, art. 51, 005; En vigueur : 15-03-2023&gt;
+
+(2)&lt;DCFL 2024-03-22/13, art. 44, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 31
+
+Est puni d'une peine de prison d'un mois à un an et d'une amende de cinquante à mille euros ou d'une seule de ces peines :
+
+1°celui qui dans les circonstances reprises à l'article 444 du Code pénal, dans l'intention particulière de procéder de la sorte, encourage à la discrimination, à la haine ou à la violence vis-à-vis d'une personne pour une ou plusieurs des caractéristiques de protection [<sup>1</sup> , visées à l'article 15bis ]<sup>1</sup>;
+
+2° celui qui dans les circonstances reprises à l'article 444 du Code pénal, dans l'intention particulière de procéder de la sorte, encourage à la discrimination, à la haine ou à la violence vis-à-vis d'un groupe, d'une communauté ou de ses membres pour une ou plusieurs des caractéristiques de protection au sens de l'article 16, § 3.
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 45, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 32
+
+Est puni d'une peine de prison de deux mois à deux ans, tout officier public ou fonctionnaire, tout détenteur ou agent de l'autorité publique qui se rend coupable de discrimination vis-à-vis d'une personne dans l'exercice de sa fonction pour une ou plusieurs des caractéristiques de protection.
+
+Ces mêmes peines sont appliquées pour les faits commis à l'encontre d'un groupe, d'une communauté ou de ses membres, pour une ou plusieurs des caractéristiques de protection.
+
+Si le suspect prouve qu'il a agi sur ordre de ses supérieurs, dans des affaires qui relèvent de leur compétence et dans le cadre desquelles en tant que subordonné il se devait d'obéir, les peines ne sont appliquées qu'aux supérieurs qui ont donné cet ordre.
+
+Si les officiers publics ou fonctionnaires suspectés d'avoir ordonné, admis ou facilité des actes susmentionnés de discrimination, prétendent que leur signature a été obtenue à leur insu, ils sont tenus dans ce cas de mettre immédiatement un terme à ces faits et de dénoncer les coupables, à défaut d'être eux-mêmes poursuivis.
+
+Si un des faits susmentionnés de discrimination a été commis au moyen d'une fausse signature d'un fonctionnaire public, les auteurs de cette fausse signature et les personnes qui en usent de manière malveillante et trompeuse sont punis d'une réclusion de dix à quinze ans.
+
+#### Art. 33
+
+Est punissable d'une peine de prison d'un mois à un an et d'une amende de quinze à mille euros ou d'une de ces peines, toute personne qui ne se plie pas à un jugement ou à un arrêt prononcé à la suite d'une requête en suspension, conformément à l'article 29.
+
+#### Art. 33bis.
+
+[<sup>1</sup> Tout acte de discrimination en matière de rémunération, visée à l'article 20, alinéa 3, vis-à-vis d'une personne, d'un groupe, d'une communauté ou de ses membres est puni d'une peine de niveau 1. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-05-22/02, art. 7, 008; En vigueur : 01-09-2026&gt;
+
+#### Art. 34
+
+En cas de violation des articles 31, 32 ou 33, le condamné pourra en outre, conformément à l'article 33 du code pénal être condamné la privation de leurs droits civils.
+
+#### Art. 35
+
+Toutes les dispositions du Livre I du code pénal, chapitre VII et l'article 85 non exclus, sont d'application aux délits mentionnés dans le présent décret.
+
+#### Art. 35bis.
+
+[<sup>1</sup> Les actions en justice intentées en vertu du présent décret se prescrivent cinq ans suivant le jour où elles ont été intentées. En cas de discriminations continues ou persistantes, le délai précité commence lorsque la situation illégale cesse d'exister. [<sup>2</sup> Les délais de prescription applicables dans le cadre de la discrimination en matière de rémunération, visée à l'article 20, alinéa 3, ne commencent pas à courir avant que le plaignant n'ait connaissance d'une violation ou qu'il puisse raisonnablement être supposé en avoir connaissance. ]<sup>2</sup>
+
+La prescription est suspendue tant qu'une plainte relative à l'objet de l'action en justice est en cours de traitement auprès de l'Institut flamand des droits de l'homme, visé au décret du 28 octobre 2022 portant création d'un Institut flamand des droits de l'homme, et est interrompue conformément aux articles 2244 à 2250 de l'ancien Code civil. ]<sup>1</sup>
+
+[<sup>2</sup> La suspension de la prescription, visée à l'alinéa 2, commence à courir le jour où l'Institut flamand des droits humains a reçu la plainte et prend fin trois mois après le jour où l'Institut flamand des droits humains a clos le traitement de la plainte. Le traitement de la plainte est réputé clos dans les cas, visés à l'article 28, § 8, alinéa 2, du décret du 28 octobre 2022 portant création d'un Institut flamand des droits humains.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 46, 007; En vigueur : 01-06-2024&gt;
+
+(2)&lt;DCFL 2026-05-22/02, art. 8, 008; En vigueur : 07-06-2026&gt;
+
+#### Art. 35ter.
+
+[<sup>1</sup> Le juge peut ordonner que sa décision ou le résumé qu'il rédige en vertu du présent décret soit affiché durant un délai qu'il fixe, tant à l'extérieur qu'à l'intérieur des établissements du contrevenant ou dans les locaux qui lui appartiennent et que le jugement ou l'arrêt ou le résumé de celui-ci soit publié dans des journaux ou de toute autre manière. Le contrevenant en assumera les frais.
+
+Toutefois, les mesures de publicité visées à l'alinéa 1er ne peuvent être imposées que si et dans la mesure où le juge les estime appropriées et nécessaires à la lumière d'un ou de plusieurs des objectifs suivants :
+
+1° assurer à la victime de la discrimination la réparation du dommage moral subi ;
+
+2° encourager le défendeur à cesser ou à ne pas répéter son comportement discriminatoire ;
+
+3° informer les autres personnes lésées par la discrimination constatée de l'infraction constatée afin qu'elles puissent, le cas échéant, faire valoir leurs droits à l'égard de l'auteur de l'infraction concernée ;
+
+4° informer les autres justiciables des comportements qui peuvent les exposer à des sanctions ;
+
+5° informer le public le plus largement possible de la décision et des motifs sur lesquels elle se fonde.
+
+Le juge ne peut ordonner les mesures de publicité visées à l'alinéa 1er qu'après avoir entendu les parties à ce sujet.
+
+Les mesures de publicité visées à l'alinéa 1er sont exécutées dans le respect des prescriptions en matière de pseudonymisation, visées à l'article 782, § 5, alinéa 3, du Code judiciaire, sauf décision contraire du juge à la demande expresse de la personne physique concernée.
+
+Tout jugement ou arrêt rendu par les cours et tribunaux sur la base du présent décret est notifié à l'Institut flamand des droits de l'homme, visé au décret du 28 octobre 2022 portant création d'un Institut flamand des droits de l'homme, par le greffier de la juridiction concernée, dans un délai de huit jours à compter du jugement.
+
+En outre, le greffier de la cour ou du tribunal où un recours, une opposition ou une tierce opposition a été formé contre un jugement ou un arrêt tel que visé à l'alinéa 5, en informe immédiatement l'Institut flamand des droits de l'homme précité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/13, art. 47, 007; En vigueur : 01-06-2024&gt;
+
+### Section VI. - Preuve.
+
+#### Art. 36
+
+§ 1er. [<sup>1</sup> Si une personne ou une des institutions, associations ou organisations, mentionnées à l'article 41]<sup>1</sup>, invoque dans une procédure au civil devant la juridiction compétente [<sup>2</sup> ou dans une procédure devant la chambre contentieuse de l'Institut flamand des droits de l'homme, visé au décret du 28 octobre 2022 portant création d'un Institut flamand des droits de l'homme, ]<sup>2</sup> la violation du présent décret et avance des faits qui peuvent faire supposer l'existence d'une discrimination directe, la charge de la preuve d'absence de discrimination incombera au défenseur.
+
+[<sup>3</sup> Si la discrimination alléguée concerne une discrimination en matière de rémunération dans le cadre des relations de travail et que l'employeur n'a pas respecté les obligations de transparence des rémunérations conformément au [<sup>4</sup> chapitre 2 du décret du 12 juin 2026 sur la transparence des rémunérations et les mesures en faveur de l'égalité des rémunérations ]<sup>4</sup> la charge de la preuve de l'absence de discrimination incombe à l'employeur, sauf si ce dernier démontre que la violation des obligations de transparence des rémunérations était manifestement non intentionnelle et avait un caractère mineur. ]<sup>3</sup>
+
+§ 2. On entend par faits qui peuvent faire supposer l'existence d'une discrimination directe sur la base d'une caractéristique de protection, entre autres et de manière non exclusive :
+
+1° les données dont il ressort un certain schéma de traitement défavorable à l'encontre de personnes détentrice d'une ou plusieurs caractéristiques de protection, entre autres via différents messages, indépendants les uns des autres, [<sup>1</sup> transmis à l'Institut flamand des droits de l'homme ou à l'une des [<sup>2</sup> personnes morales]<sup>2</sup>, associations ou organisations, mentionnées à l'article 41 du présent décret]<sup>1</sup>;
+
+2° les données dont il ressort que la situation de la victime de traitement défavorable est comparable à la situation de la personne de référence.
+
+§ 3. On entend par faits qui peuvent faire supposer l'existence d'une discrimination indirecte sur la base d'une caractéristique de protection, entre autres et de manière non exclusive :
+
+1° statistiques générales sur la situation d'un groupe auquel appartient la victime de discrimination ou des faits de notoriété publique;
+
+2° l'utilisation d'un critère supposé intrinsèque de différence;
+
+3° un matériau élémentaire statistique qui révèle un traitement défavorable.
+
+[<sup>2</sup> § 4. L'invocation de faits qui peuvent faire supposer l'existence d'une discrimination, n'exige pas la preuve d'une intention ou de tout autre motif spécifique de la part du défendeur. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2022-10-28/04, art. 52, 005; En vigueur : 15-03-2023&gt;
+
+(2)&lt;DCFL 2024-03-22/13, art. 48, 007; En vigueur : 01-06-2024&gt;
+
+(3)&lt;DCFL 2026-05-22/02, art. 9, 008; En vigueur : 07-06-2026&gt;
+
+(4)&lt;DCFL 2026-06-12/01, art. 11, 009; En vigueur : 07-06-2026&gt;
+
+### Section VII. - Protection et défense juridique.
+
+#### Art. 37
+
+§ 1er. Si [<sup>3</sup> un signalement est fait, ]<sup>3</sup> une plainte est introduite par ou à l'avantage d'une personne ou qu'une [<sup>3</sup> action en justice ]<sup>3</sup>est lancée en vue de faire respecter le présent décret, ceux qui font l'objet de cette plainte ou [<sup>3</sup> action en justice ]<sup>3</sup> ne peuvent prendre de mesures désavantageuses vis-à-vis de cette personne, sauf pour des motifs étrangers à cette plainte ou [<sup>3</sup> action en justice ]<sup>3</sup> [<sup>3</sup> , ou à son contenu "]<sup>3</sup>.
+
+§ 2.[<sup>3</sup> Pour l'application du présent article, on entend par signalement, plainte ou action en justice :
+
+1° un signalement effectué ou une plainte introduite par la personne concernée auprès de l'instance ou de l'organisation où la discrimination a eu lieu ou auprès des fonctionnaires chargés en vertu de l'article 39 du présent décret de surveiller l'exécution du présent décret et de ses arrêtés d'exécution ;
+
+2° un signalement effectué ou une plainte introduite par le personne concernée auprès de l'Institut flamand des droits de l'homme, visé au décret du 28 octobre 2022 portant création d'un Institut flamand des droits de l'homme, ou auprès d'une personne morale, association ou organisation telle que visée à l'article 41 du présent décret ;
+
+3° un signalement effectué ou une plainte introduite en faveur de la personne concernée par une personne morale, association ou organisation telle que mentionnée à l'article 41 du présent décret, auprès de l'instance ou de l'organisation où la discrimination a eu lieu ;
+
+4° un signalement effectué ou une plainte introduite auprès d'un service chargé de la surveillance des actes et du fonctionnement d'autorités administratives ou d'instances administratives ou qui intervient afin de régler les litiges de façon extrajudiciaire ;
+
+5° une déclaration introduite auprès des services de police, une plainte avec constitution de partie civile déposée auprès du juge d'instruction, ou une notification au procureur du Roi ;
+
+6° une action en justice engagée par la personne concernée ;
+
+7° une action en justice engagée en faveur de la personne concernée par une personne morale, association ou organisation telle que mentionnée à l'article 41 du présent décret]<sup>3</sup>.
+
+§ 3. [<sup>3</sup> Pour bénéficier de la protection visée au paragraphe 1er, la personne à laquelle se rapporte la violation alléguée doit prouver qu'un signalement a été effectué, qu'une plainte a été déposée ou qu'une action en justice a été intentée en raison d'une infraction au présent décret. Cette preuve peut être apportée par toute voie de recours.
+
+Lorsqu'une personne, dans les douze mois après avoir eu connaissance du signalement ou de la plainte ou après avoir pu raisonnablement avoir eu connaissance de ces démarches, prend une mesure préjudiciable à l'égard de la personne concernée par la violation alléguée, il incombe à la personne qui a pris la mesure préjudiciable de démontrer que la mesure préjudiciable n'est pas liée au dépôt ou au contenu du signalement ou de la plainte.
+
+Cette charge incombe également à celui ou celle contre qui l'action en justice est intentée lorsque la mesure préjudiciable est intervenue après que l'action en justice ait été intentée et ce, jusqu'à trois mois suivant le jour où la décision judiciaire est passée en force de chose jugée.
+
+Lorsque la personne concernée par la violation alléguée fait un signalement, introduit une plainte ou intente une action en justice ou lorsqu'une personne visée à l'article 38, accomplit les actes visés audit article, elle peut en demander la preuve écrite et datée à l'instance, à la personne morale, à l'association ou à l'organisation, visée au paragraphe 2.
+
+Cette preuve écrite, fournie par l'instance, la personne morale, l'association ou l'organisation, visée à l'alinéa 3, comprend l'identité de la personne, les actions entreprises, la date de l'action et la date à laquelle la preuve a été demandée]<sup>3</sup>.
+
+§ 4. Si par rapport à une personne, contrairement au [<sup>3</sup> paragraphe 1er ]<sup>3</sup>, des mesures désavantageuses sont prises, cette personne [<sup>3</sup> personnes morales, ]<sup>3</sup> ou les associations ou organisations invoquent au sens de l'article 41 la suppression ou le retrait de ces mesures.
+
+La requête est faite par pli recommandé dans les trente jours suivant le jour auquel le traitement désavantageux a été commis. La personne qui a pris la mesure désavantageuse doit se prononcer sur la requête dans les trente jours après signification par pli.
+
+La personne qui a pris ces mesures désavantageuses doit lever ou retirer ces mesures et indemniser ceux vis-à-vis de qui elles ont été prises pour la période durant laquelle ces mesures ont été d'application.
+
+§ 5. Si les mesures désavantageuses ne sont pas levées ou retirées après requête comme mentionnée au [<sup>3</sup> paragraphe 4]<sup>3</sup>, et s'il est considéré que le traitement désavantageux va à l'encontre des dispositions du [<sup>3</sup> paragraphe 1er]<sup>3</sup>, la personne qui a pris ces mesures doit alors verser une indemnité à la victime équivalente, au choix de celle-ci, soit à l'indemnité forfaitaire mentionnée à [<sup>3</sup> l'article 28, § 2 ]<sup>3</sup> soit équivalente aux dommages qu'a encourus la personne qui a subi ces mesures désavantageuses. Dans ce dernier cas, la personne vis-à-vis de laquelle des mesures désavantageuses ont été prises devra prouver le volume du dommage encouru.
+
+[<sup>3</sup> Le dédommagement visé au présent paragraphe peut être cumulé avec les dédommagements pour discrimination, prévus à l'article 28, § 2. ]<sup>3</sup>
+
+§ 6. La personne qui a pris ces mesures désavantageuses est tenue de verser la même indemnité sans que la personne vis-à-vis de laquelle les mesures désavantageuses ont été prises, [<sup>3</sup> associations ou organisations]<sup>3</sup> ou les associations ou organisations au sens de l'article 41 ne doive introduire une requête telle que mentionnée au[<sup>3</sup> paragraphe 4]<sup>3</sup> :
+
+1° si l'instance judiciaire compétente considère comme prouvés les faits de discrimination qui font l'objet d'un signalement;
+
+2° si la personne à l'encontre de laquelle les mesures désavantageuses ont été prises casse la relation de droit avec la personne qui a pris ces mesures car le comportement de cette dernière est contraire aux dispositions du [<sup>3</sup> paragraphe 1er ]<sup>3</sup> ce qui selon cette première personne est un motif pour rompre la relation de droit sans préavis ou fin de préavis;
+
+3° si la personne qui a pris les mesures désavantageuses a cessé la relation de droit pour motifs graves, à condition que l'organe judiciaire compétent considère ces motifs graves comme non fondés et contraires aux dispositions du [<sup>3</sup> paragraphe 1er]<sup>3</sup>
+
+[<sup>3</sup> Le dédommagement visé au présent paragraphe peut être cumulé avec les dédommagements pour discrimination, prévus à l'article 28, § 2.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/03, art. 17, 002; En vigueur : 07-07-2014 (AGF 2014-05-16/14, art. 1)&gt;
+
+(2)&lt;DCFL 2022-10-28/04, art. 53, 005; En vigueur : 15-03-2023&gt;
+
+(3)&lt;DCFL 2024-03-22/13, art. 49, 007; En vigueur : 01-06-2024&gt;
+
+#### Art. 38
+
+[<sup>1</sup> Les personnes qui apportent leur soutien à une victime de discrimination en la défendant ou en la représentant, ou en témoignant à son avantage, bénéficient de la même protection que celle mentionnée à l'article 37.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-03-19/08, art. 3, 004; En vigueur : 09-04-2021&gt;
+
+#### Art. 39
+
+Nonobstant les compétences des officiers de la police fédérale, les fonctionnaires désignés par le Gouvernement flamand assurent le contrôle de la mise en application du présent décret et de ses arrêtés d'exécution.
+
+#### Art. 40
+
+&lt;Abrogé par DCFL 2022-10-28/04, art. 54, 005; En vigueur : 15-03-2023&gt;
+
+#### Art. 41
+
+§ 1er. [<sup>1</sup> § 1er. En application des conditions visées à l'article 17 du Code judiciaire, toutes les personnes morales qui visent à protéger les droits de l'homme ou les libertés fondamentales reconnus dans la Constitution et dans les instruments internationaux qui lient la Belgique, peuvent ester en justice au nom de leur intérêt collectif dans tout litige pouvant découler du présent décret]<sup>1</sup>.
+
+[<sup>1</sup> § 1bis. Toutes les personnes morales de droit privé dont les statuts ont pour objet la défense du droit à ne pas être discriminé ou la lutte contre les discriminations peuvent ester en justice au nom et pour le compte d'une personne s'estimant victime d'une discrimination dans tout litige pouvant découler du présent décret. ]<sup>1</sup>
+
+§ 2. Dans tous les litiges dans le domaine des relations de travail[<sup>1</sup> visées à l'article 20, alinéa 1er, 1° à 3°]<sup>1</sup>, et dans tous les litiges relatifs aux aspects reliés au travail [<sup>1</sup> tels que visés à l'article 20, alinéa 1er, 7° ]<sup>1</sup>qui pourraient découler du présent décret, les associations et organisations suivantes peuvent ester en justice [<sup>1</sup> au nom de leur intérêt collectif ou au nom et pour le compte d'une personne s'estimant victime d'une discrimination]<sup>1</sup> :
+
+1° les organisations représentatives des travailleurs, employeurs, des classes moyennes et de l'agriculture qui siègent au conseil du SERV;
+
+2° les organisations représentatives des employeurs et travailleurs, telles que définies à l'article 3 de la loi du 5 décembre 1968 relative aux conventions collectives de travail et aux commissions paritaires;
+
+3° les organisations représentatives au sens de la loi du 19 décembre 1974 réglant les relations entre les autorités et les syndicats et son personnel;
+
+4° les organisations représentatives des indépendants.
+
+§ 3. [<sup>1</sup> Si l'action visée au paragraphe 1bis ou 2 est intentée au nom et pour le compte d'une personne s'estimant victime d'une discrimination, l'action n'est recevable que moyennant son consentement ]<sup>1</sup>.
+
+[<sup>2</sup> § 4. L'Institut flamand des droits humains, visé au décret du 28 octobre 2022 portant création d'un Institut flamand des droits humains, peut, d'office ou à la demande du collège juridictionnel saisi de l'affaire, déposer, dans un délai raisonnable fixé par ce collège juridictionnel, des remarques écrites concernant l'application de l'interdiction de discrimination. L'Institut flamand des droits humains décide de manière autonome, motivée, conforme à ses compétences et sur la base de l'intérêt collectif de déposer, ou non, des remarques.
+
+Le conseil d'administration de l'Institut flamand des droits humains fixe une procédure interne et un cadre d'évaluation pour l'application de cette possibilité. L'Institut flamand des droits humains rend compte chaque année au Parlement flamand de l'application de cette disposition par le biais de son rapport annuel, visé à l'article 43, § 1er, du décret du 28 octobre 2022 portant création d'un Institut flamand des droits humains.
+
+Avec l'accord du collège juridictionnel concerné, l'Institut flamand des droits humains peut également présenter ses remarques oralement.
+
+Aux seules fins de formuler ses remarques, l'Institut flamand des droits humains peut demander au collège juridictionnel concerné de lui transmettre ou de faire transmettre toutes les pièces nécessaires à l'appréciation de l'affaire.
+
+Lorsque l'Institut flamand des droits de l'homme soumet des remarques, les autres parties sont mises en mesure d'y répondre. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/13, art. 50, 007; En vigueur : 01-06-2024&gt;
+
+(2)&lt;DCFL 2026-05-22/02, art. 10, 008; En vigueur : 07-06-2026&gt;
+
+### Section VIII.
+
+&lt;Abrogé par DCFL 2014-03-28/03, art. 19, 002; En vigueur : 07-07-2014 (AGF 2014-05-16/14, art. 1)&gt;
+
+#### Art. 42
+
+&lt;Abrogé par DCFL 2014-03-28/03, art. 19, 002; En vigueur : 07-07-2014 (AGF 2014-05-16/14, art. 1)&gt;
+
+#### Art. 43
+
+&lt;Abrogé par DCFL 2014-03-28/03, art. 19, 002; En vigueur : 07-07-2014 (AGF 2014-05-16/14, art. 1)&gt;
+
+## CHAPITRE V. - Dispositions finales.
+
+#### Art. 44
+
+L'article 578 du Code judiciaire est complété d'un point 18°, formulé comme suit :
+
+"18° de litiges de discrimination, au sens du décret du 10 juillet 2008 portant le cadre de la politique flamande d'égalité des chances et de traitement. ".
+
+#### Art. 45
+
+L'article 581 du même code est complété d'un point 11°, rédigé comme suit :
+
+" 11° de litiges de discrimination, au sens du décret du 10 juillet 2008 portant le cadre de la politique flamande d'égalité des chances et de traitement. "
+
+#### Art. 46
+
+L'article 585 du même code est complété d'un point 10°, rédigé comme suit :
+
+" 10° des actions en suspension et fixe les mesures de publicité de sa décision qu'il juge nécessaire, conformément à l'article 30 du décret du 10 juillet 2008 portant le cadre de la politique flamande d'égalité des chances et de traitement. "
+
+#### Art. 47
+
+L'article 587bis du même code est complété d'un point 3°, rédigé comme suit :
+
+" 3° des actions en suspension et fixe les mesures de publicité de sa décision qu'il juge nécessaire, conformément à l'article 30 du décret du 10 juillet 2008 portant le cadre de la politique flamande d'égalité des chances et de traitement. "
+
+#### Art. 48
+
+L'article 588 du même code est complété d'un point 15°, rédigé comme suit :
+
+" 15° des actions en suspension et fixe les mesures de publicité de sa décision qu'il juge nécessaire, conformément à l'article 30 du décret du 10 juillet 2008 portant le cadre de la politique flamande d'égalité des chances et de traitement. "
+
+#### Art. 49
+
+[<sup>1</sup> Annuellement, dans le cadre de l'introduction de la note d'orientation politique sur l'égalité des chances, le Gouvernement flamand transmet un rapport au Parlement flamand sur l'application des chapitres III et IV.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/03, art. 20, 002; En vigueur : 11-04-2014&gt;
+
+#### Art. 50
+
+Le décret du 13 mai 1997 portant le suivi des résolutions de la conférence mondiale des femmes tenue du 4 au 14 septembre 1995 à Pékin est abrogé.
+
+#### Art. 51
+
+Les articles 6, § 2, 3°, 5°, 6° et 7°, l'article 40, 42 et 43 entrent en vigueur à une date à déterminer par le Gouvernement flamand.
+
+(NOTE : Entrée en vigueur des art. 42 et 43 fixée au 10-08-2009, par AGF 2009-07-03/43, art. 15)
+
+(NOTE : Entrée en vigueur de l'art. 6, § 2, 3° et 5°, fixée au 01-01-2011, par AGF 2010-12-17/22, art. 1)
+
+(NOTE : Entrée en vigueur de l'art. 40, fixée au : 07-07-2014, par AGF 2014-05-16/13, art. 1)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur Belge.
+
+Bruxelles, le 10 juillet 2008.
+
+Le ministre Président du Gouvernement flamand,
+
+K. Peeters
+
+Le ministre flamand de la Mobilité, de l'Economie sociale et de l'Egalité des Chances,
+
+K. Van Brempt.

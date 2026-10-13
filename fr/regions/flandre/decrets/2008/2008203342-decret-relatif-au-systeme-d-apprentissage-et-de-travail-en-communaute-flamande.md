@@ -1,0 +1,2607 @@
+---
+title: "Décret relatif au système d'apprentissage et de travail en Communauté flamande (TRADUCTION)"
+identifier: "2008203342"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/10/2008203342/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2008-07-10
+published: 2008-10-03
+entry_into_force: 2008-09-01
+last_amended: 2026-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/10/2008203342/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 03-10-2008 et mise à jour au 28-07-2026"
+retrieved: 2026-10-12
+---
+
+# 10 JUILLET 2008. - Décret relatif au système d'apprentissage et de travail en Communauté flamande (TRADUCTION)
+
+Le Parlement Flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions introductives.
+
+##### Art. 1
+
+Le présent décret règle une matière communautaire.
+
+##### Art. 2
+
+Le présent décret s'applique aux centres d'enseignement secondaire professionnel à temps partiel, [<sup>1</sup> ...]<sup>1</sup> et aux centres de formation des indépendants et des petites et moyennes entreprises subventionnés, financés et agréés par la Communauté flamande ainsi qu'[<sup>2</sup> au VDAB]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 72, 030; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 23, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 3
+
+Pour l'application du présent décret, on entend par :
+
+[<sup>8</sup> 1° composante de démarrage : la concrétisation de la composante apprentissage sur le lieu du travail qui, ensemble avec la composante apprentissage, assure l'engagement à temps plein pour les élèves disposés au travail dont les compétences axées sur l'emploi, axées sur la carrière ou spécialisées doivent être davantage renforcées ;]<sup>8</sup>
+
+[<sup>8</sup> 1°bis]<sup>8</sup> primo-arrivant allophone : un jeune qui répond à toutes les conditions suivantes :
+
+a) être primo-arrivant, c.-à-d. résider de manière ininterrompue en Belgique depuis un an au maximum;
+
+b) ne pas avoir le néerlandais comme langue maternelle ou comme langue familiale;
+
+c) être inscrit depuis neuf mois au maximum, à l'exclusion des mois de juillet et d'août, dans un établissement d'enseignement ayant le néerlandais comme langue d'enseignement;
+
+d) ne pas suffisamment maîtriser le néerlandais pour suivre avec fruit l'enseignement secondaire professionnel à temps partiel;
+
+e) ne pas avoir atteint l'âge de 18 ans le 31 décembre suivant le début de l'année scolaire;
+
+2° participation au marché de l'emploi : la participation à part entière au marché de l'emploi de jeunes dans le circuit économique régulier ou à des activités équivalentes telles que visées dans le présent décret;
+
+3° personnes concernées : les parents ou les personnes ayant le mineur d'âge de droit ou de fait sous leur garde, soit le jeune adulte lui-même;
+
+4° [<sup>8</sup> ...]<sup>8</sup>
+
+5° direction du centre : l'organe qui effectue les opérations de gestion pour le compte du centre, conformément aux compétences attribuées par la loi, le décret, le décret spécial ou les statuts;
+
+[<sup>3</sup> 5° bis mesures compensatoires : mesures par lesquelles le centre offre des moyens orthopédagogiques ou orthodidactiques, dont des moyens techniques, permettant d'atteindre les objectifs du programme d'études ou les objectifs étant déterminés pour le jeune après dispense ;]<sup>3</sup>
+
+[<sup>3</sup> 5° ter mesures différenciantes : mesures par lesquelles le centre apporte, au sein du programme d'études, une variation restreinte dans le processus d'apprentissage, afin de mieux répondre aux besoins de jeunes individuels ou de groupes de jeunes ;]<sup>3</sup>
+
+[<sup>3</sup> 5° quater mesures dispensatoires : mesures par lesquelles le centre ajoute des objectifs au programme d'études ou dispense le jeune de certains objectifs du programme d'études et les remplace, là où c'est possible, par des objectifs équivalents, dans la mesure où soit les objectifs pour la validation des études en fonction de la finalité de la subdivision concernée, soit les objectifs de transition à l'enseignement complémentaire envisagé ou au marché de l'emploi puissent encore être atteints dans une mesure suffisante ;]<sup>3</sup>
+
+6° objectifs finaux : les objectifs minimums jugés nécessaires et accessibles par l'autorité pour une population déterminée de jeunes dans l'enseignement secondaire ordinaire. Il convient d'entendre par objectifs minimum : un minimum de connaissance, de compréhension, d'aptitudes et d'attitudes, destinées à cette population de jeunes;
+
+[<sup>6</sup> 6° bis [<sup>10</sup> programme adapté individuellement : le programme adapté individuellement, visé à l'article 122/1/0 du Code de l'enseignement secondaire ;]<sup>10</sup>]<sup>6</sup>
+
+7° inscription : l'enregistrement dans le fichier d'élèves d'un centre d'enseignement secondaire professionnel à temps partiel ou d'un centre de formation des indépendants et des petites et moyennes entreprises, agréé, financé ou subventionné par la Communauté flamande, soit la réinsertion après désinscription;
+
+[<sup>3</sup> 7° bis jeune à besoins éducatifs spécifiques : élève posant des problèmes de participation importants et de longue durée dus à l'interférence entre :
+
+a) une ou plusieurs limitations de fonctionnement de nature mentale, psychique, physique ou sensorielle et ;
+
+b) des limitations dans l'exécution d'activités et ;
+
+c) des facteurs personnels et externes ;]<sup>3</sup>
+
+8° [<sup>9</sup> apprentissage : la formation visée à l'article 2, 15°, du décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public Office flamand de l'Emploi et de la Formation professionnelle;]<sup>9</sup>
+
+9° comité local : l'organe local de concertation ou de négociation compétent en matière de conditions de travail et de ressources humaines;
+
+10° module : la plus petite unité à certifier à certifier d'une formation dans l'enseignement secondaire professionnel correspondant à un contenu déterminé;
+
+[<sup>8</sup> 10° bis NAFT : NAFT (Naadloos flexibel traject - Parcours fluide et flexible), tel que fixé aux décrets et réglementations en vigueur relatifs à l'assistance spéciale à la jeunesse et à l'aide intégrale à la jeunesse ;]<sup>8</sup>
+
+[<sup>1</sup> [<sup>8</sup> 10° ter]<sup>8</sup> [<sup>9</sup> ...]<sup>9</sup>]<sup>1</sup>
+
+11° enseignement d'accueil : une offre d'enseignement spécifique et temporaire qui prépare les primo-arrivants allophones à une meilleure transition vers la participation au marché de l'emploi. Cette offre d'enseignement vise les aptitudes linguistiques, l'intégration civique et l'autonomie. [<sup>4</sup> Le Gouvernement flamand délimite le groupe cible, au moins en tenant compte des critères " âge ", " connaissance du néerlandais " et " temps de présence sur le territoire belge " des primo-arrivants allophones"]<sup>4</sup> ;
+
+12° [<sup>8</sup> ...]<sup>8</sup>
+
+13° [<sup>5</sup> ...]<sup>5</sup>
+
+[<sup>3</sup> 13° bis mesures correctrices : des mesures par lesquelles le centre fournit des formes effectives d'aide adaptée à l'apprentissage au sein du programme d'études ;]<sup>3</sup>
+
+14° centre d'enseignement : un établissement ou un groupe d'établissements qui assure l'organisation de l'enseignement au sein d'une certaine circonscription géographique;
+
+[<sup>2</sup> 14° /1 stage d'élève : une forme de formation de la composante apprentissage :
+
+a) en dehors d'une implantation du centre d'enseignement secondaire professionnel à temps partiel;
+
+b) dans un environnement professionnel réel auprès d'un employeur;
+
+c) dans des conditions similaires à celles des travailleurs réguliers de cet employeur;
+
+d) où un travail effectif est effectué qui s'aligne sur la formation suivie;
+
+e) dans le but d'acquérir une expérience professionnelle.]<sup>2</sup>
+
+15° [<sup>9</sup> ...]<sup>9</sup>;
+
+16° [<sup>7</sup> accompagnateur de parcours : le membre du personnel désigné qui est chargé de l'accompagnement de parcours dans le centre d'enseignement secondaire professionnel à temps partiel ; la personne mandatée qui est chargée de l'accompagnement de parcours dans le centre de formation des indépendants et des petites et moyennes entreprises ;]<sup>7</sup>
+
+17° [<sup>7</sup> ...]<sup>7</sup>
+
+18° accompagnement de parcours : un processus continu d'accompagnement et de suivi du développement personnel et de la formation des jeunes dans le cadre de la composante apprentissage et de la composante apprentissage sur le lieu du travail et ce, en concertation avec les intéressés, le but ultime étant de les orienter vers le marché de l'emploi;
+
+19° heure : soit une période de 50 minutes, soit, mais exclusivement dans le cas [<sup>8</sup> ...]<sup>8</sup> [<sup>8</sup> d'une composante de démarrage]<sup>8</sup> ou d'une participation au marché de l'emploi, une période de 60 minutes; pour arriver au nombre minimum d'engagements à temps plein, une heure est convertie en période de 50 minutes;
+
+20° VDAB : le Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding tel que visé dans le décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding" (Office flamand de l'Emploi et de la Formation professionnelle : le service qui est compétent en Région flamande pour les activités de placement et la formation professionnelle et qui est compétent en Région de Bruxelles-Capitale pour la formation professionnelle;
+
+21° [<sup>8</sup> ...]<sup>8</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.27, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2013-07-19/57, art. III.65, 015; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2014-03-21/59, art. III.74, 017; En vigueur : 01-01-2015&gt;
+
+(4)&lt;DCFL 2016-06-17/24, art. III.49, 020; En vigueur : 01-09-2016&gt;
+
+(5)&lt;DCFL 2016-06-10/10, art. 51, 021; En vigueur : 01-09-2016&gt;
+
+(6)&lt;DCFL 2017-06-16/24, art. III.22, 023; En vigueur : 01-09-2017&gt;
+
+(7)&lt;DCFL 2018-06-15/18, art. 52, 027; En vigueur : 01-09-2018&gt;
+
+(8)&lt;DCFL 2018-03-30/37, art. 85, 028; En vigueur : 01-09-2019&gt;
+
+(9)&lt;DCFL 2020-06-19/14, art. 24, 032; En vigueur : 31-12-2021&gt;
+
+(10)&lt;DCFL 2023-05-05/07, art. 122, 037; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE II. - Engagement à temps plein.
+
+##### Art. 4
+
+Le système d'apprentissage et de travail combine, pour chaque jeune individuel, une composante apprentissage et une composante apprentissage sur le lieu du travail. Cette combinaison couvre au minimum 28 heures par semaine, ce qui implique un engagement à temps plein du jeune, et répond à l'obligation scolaire à temps partiel à laquelle le jeune est, le cas échéant, soumis.
+
+##### Art. 5
+
+La composante apprentissage peut se concrétiser comme suit :
+
+1° par le biais de l'enseignement secondaire professionnel à temps partiel, organisé conformément aux dispositions du présent décret;
+
+2° par le biais de la formation théorique pendant l'apprentissage.
+
+##### Art. 6
+
+§ 1er. La concrétisation de la composante apprentissage sur le lieu du travail est fonction de la concrétisation de la composante apprentissage, conformément aux dispositions définies ci-après.
+
+Dans l'enseignement secondaire professionnel à temps partiel, la composante apprentissage sur le lieu du travail peut se concrétiser comme suit :
+
+1° par la participation au marché de l'emploi;
+
+2° [<sup>3</sup> par le biais d'une composante de démarrage]<sup>3</sup>;
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+Durant l'apprentissage, la composante apprentissage sur le lieu du travail peut se concrétiser comme suit :
+
+1° par le biais de la formation pratique pendant l'apprentissage, qui est assimilée à la participation au marché de l'emploi;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> 3° par le biais [<sup>5</sup> d'une composante de démarrage]<sup>5</sup>.]<sup>3</sup>
+
+§ 2. Entrent en ligne de compte pour la participation au marché de l'emploi visée au § 1er, alinéa deux, 1° :
+
+1° [<sup>4</sup> l'emploi régulier sur la base d'un contrat, visé à l'article 3 du décret du 10 juin 2016 réglant certains aspects des formations en alternance ;]<sup>4</sup>
+
+2° le fait de suivre une formation sportive dans l'enseignement secondaire professionnel à temps partiel, la formation devant conduire d'une part vers une qualification professionnelle claire qui se greffe au moins sur le sport exercé et qui est d'autre part organisée en concertation avec et après accord formel d'une fédération sportive agréée;
+
+3° le volontariat, tel que défini par la loi;
+
+4° le fait de suivre temporairement une formation ou un cours complémentaire qui est axé spécifiquement sur l'amélioration des perspectives d'emploi ou l'employabilité sur le marché de l'emploi;
+
+5° le fait d'exercer des activités sportives, culturelles ou sociales organisées par une instance publique ou agréées par ou au nom des autorités.
+
+La concrétisation de la composante apprentissage sur le lieu du travail par le biais de l'une des alternatives précitées ne peut aucunement porter préjudice à l'article 4 qui stipule que la combinaison de la composante apprentissage et la composante apprentissage sur le lieu du travail couvre au moins 28 heures par semaine.
+
+§ 3. Par dérogation à l'article 4 et sans préjudice des dispositions du § 4, il est admis dans les cas suivants de ne pas concrétiser temporairement la composante apprentissage sur le lieu du travail :
+
+1° pendant la période entre la conclusion d'un contrat et l'entrée en vigueur de celui-ci;
+
+2° pendant la période durant laquelle le jeune postule activement en vue de la concrétisation de la composante apprentissage sur le lieu du travail;
+
+3° pendant la période entre l'inscription et le screening tel que visé à l'article 62.
+
+La non concrétisation de la composante apprentissage sur le lieu du travail peut, de manière distincte pour l'enseignement secondaire professionnel à temps partiel et pour l'apprentissage, s'élever à un maximum de 30 jours par jeune par année scolaire. Pour l'application de cette disposition, seuls les cas visés aux 1° et 2° sont pris en compte et il convient d'entendre par jours : tous les jours de semaine de l'année scolaire, à l'exception des périodes de vacances non facultatives telle que définies dans l'arrêté du Gouvernement flamand du 31 août 2001 portant organisation de l'année scolaire dans l'enseignement secondaire.
+
+§ 4. Conformément aux dispositions de [<sup>1</sup> l'article 112, quatrième alinéa, du Code de l'Enseignement secondaire]<sup>1</sup>, le centre d'enseignement secondaire professionnel à temps partiel est habilité à imposer une certaine concrétisation de la participation au marché de l'emploi au jeune ou de l'en priver. Lors de cette décision, le centre tiendra de toute manière compte du profil du jeune, de la valeur ajoutée pour la composante apprentissage et de la durée de la participation au marché de l'emploi.
+
+S'il existe plusieurs alternatives concrètes, le centre statuera après concertation avec les intéressés. Quoi qu'il en soit, il faut toujours aspirer à une concrétisation de la composante apprentissage sur le lieu du travail par le biais des dispositions visées au § 2, 1°, permettant de réaliser un lien de fond avec la composante apprentissage.
+
+----------
+
+(1)&lt;DCFL 2014-04-04/85, art. IV.1, 016; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2016-06-10/10, art. 52, 021; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2018-03-30/37, art. 86,1°, 028; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2018-03-30/37, art. 87, 028; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2019-04-05/42, art. 52, 029; En vigueur : 01-09-2019&gt;
+
+##### Art. 6 DROIT FUTUR.
+
+§ 1er. La concrétisation de la composante apprentissage sur le lieu du travail est fonction de la concrétisation de la composante apprentissage, conformément aux dispositions définies ci-après.
+
+Dans l'enseignement secondaire professionnel à temps partiel, la composante apprentissage sur le lieu du travail peut se concrétiser comme suit :
+
+1° par la participation au marché de l'emploi;
+
+2° [<sup>3</sup> par le biais d'une composante de démarrage]<sup>3</sup>;
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+Durant l'apprentissage, la composante apprentissage sur le lieu du travail peut se concrétiser comme suit :
+
+1° par le biais de la formation pratique pendant l'apprentissage, qui est assimilée à la participation au marché de l'emploi;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> 3° par le biais [<sup>5</sup> d'une composante de démarrage]<sup>5</sup>.]<sup>3</sup>
+
+§ 2. Entrent en ligne de compte pour la participation au marché de l'emploi visée au § 1er, alinéa deux, 1° :
+
+1° [<sup>4</sup> l'emploi régulier sur la base d'un contrat, visé à l'article 3 du décret du 10 juin 2016 réglant certains aspects des formations en alternance ;]<sup>4</sup>
+
+2° le fait de suivre une formation sportive dans l'enseignement secondaire professionnel à temps partiel, la formation devant conduire d'une part vers une qualification professionnelle claire qui se greffe au moins sur le sport exercé et qui est d'autre part organisée en concertation avec et après accord formel d'une fédération sportive agréée;
+
+3° le volontariat, tel que défini par la loi;
+
+4° le fait de suivre temporairement une formation ou un cours complémentaire qui est axé spécifiquement sur l'amélioration des perspectives d'emploi ou l'employabilité sur le marché de l'emploi;
+
+5° le fait d'exercer des activités sportives, culturelles ou sociales organisées par une instance publique ou agréées par ou au nom des autorités.
+
+La concrétisation de la composante apprentissage sur le lieu du travail par le biais de l'une des alternatives précitées ne peut aucunement porter préjudice à l'article 4 qui stipule que la combinaison de la composante apprentissage et la composante apprentissage sur le lieu du travail couvre au moins 28 heures par semaine.
+
+§ 3. Par dérogation à l'article 4 et sans préjudice des dispositions du § 4, il est admis dans les cas suivants de ne pas concrétiser temporairement la composante apprentissage sur le lieu du travail :
+
+1° pendant la période entre la conclusion d'un contrat et l'entrée en vigueur de celui-ci;
+
+2° pendant la période durant laquelle le jeune postule activement en vue de la concrétisation de la composante apprentissage sur le lieu du travail;
+
+3° pendant la période entre l'inscription et le screening tel que visé à l'article 62.
+
+La non concrétisation de la composante apprentissage sur le lieu du travail peut, de manière distincte pour l'enseignement secondaire professionnel à temps partiel et pour l'apprentissage, s'élever à un maximum de 30 jours par jeune par année scolaire. Pour l'application de cette disposition, seuls les cas visés aux 1° et 2° sont pris en compte et il convient d'entendre par jours : tous les jours de semaine de l'année scolaire, à l'exception des périodes de vacances non facultatives telle que définies dans l'arrêté du Gouvernement flamand du 31 août 2001 portant organisation de l'année scolaire dans l'enseignement secondaire.
+
+§ 4. Conformément aux dispositions de [<sup>1</sup> l'article 112, quatrième alinéa, du Code de l'Enseignement secondaire]<sup>1</sup>, le centre d'enseignement secondaire professionnel à temps partiel est habilité à imposer une certaine concrétisation de la participation au marché de l'emploi au jeune ou de l'en priver. Lors de cette décision, le centre tiendra de toute manière compte du profil du jeune, de la valeur ajoutée pour la composante apprentissage et de la durée de la participation au marché de l'emploi.
+
+S'il existe plusieurs alternatives concrètes, le centre statuera après concertation avec les intéressés. Quoi qu'il en soit, il faut toujours aspirer à une concrétisation de la composante apprentissage sur le lieu du travail par le biais des dispositions visées au § 2, 1°, permettant de réaliser un lien de fond avec la composante apprentissage.
+
+[<sup>6</sup> § 5. Si la composante apprentissage sur le lieu du travail n'est pas concrétisée conformément aux paragraphes 1er à 3, ou par un NAFT, la formation est toujours organisée entièrement par le biais d'enseignement auprès du centre d'enseignement secondaire professionnel à temps partiel ou du centre de formation des indépendants et des petites et moyennes entreprises où l'élève est inscrit.]<sup>6</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-04/85, art. IV.1, 016; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2016-06-10/10, art. 52, 021; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2018-03-30/37, art. 86,1°, 028; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2018-03-30/37, art. 87, 028; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2019-04-05/42, art. 52, 029; En vigueur : 01-09-2019&gt;
+
+(6)&lt;DCFL 2020-07-03/39, art. 73, 030; En vigueur : 01-09-2021&gt;
+
+##### Art. 7
+
+Dans l'enseignement secondaire professionnel à temps partiel, par dérogation aux articles 5 et 6, § 1er, la composante apprentissage ou la composante apprentissage sur le lieu du travail peut être remplacée par un [<sup>1</sup> NAFT]<sup>1</sup> pour un jeune qui est inscrit dans un centre d'enseignement secondaire professionnel à temps partiel.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-03-30/37, art. 88, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 7 DROIT FUTUR.
+
+&lt;Abrogé par DCFL 2020-07-03/39, art. 74, 030; En vigueur : 01-09-2021&gt;
+
+## CHAPITRE III. - La composante apprentissage.
+
+### Section Ire. - Les centres de formation.
+
+#### Sous-section Ire. - Centres d'enseignement secondaire professionnel à temps partiel.
+
+##### Art. 8
+
+§ 1er. L'enseignement secondaire professionnel à temps partiel peut être agréé, financé ou subventionné par la Communauté flamande dans un maximum de 48 centres d'enseignement secondaire professionnel à temps partiel, répartis comme suit : 16 dans l'enseignement communautaire, 8 dans l'enseignement officiel subventionné, 24 dans l'enseignement libre subventionné.
+
+Un centre d'enseignement secondaire professionnel à temps partiel est soit rattaché à un établissement d'enseignement secondaire professionnel ou technique ordinaire à temps plein, soit autonome, au choix de la direction du centre et moyennant maintien de l'application des normes de programmation et de rationalisation. Pour l'application du décret spécial du 14 juillet 1998 relatif à l'Enseignement communautaire, un centre autonome pour l'enseignement secondaire professionnel à temps partiel est assimilé à une école. Lorsqu'un centre d'enseignement secondaire professionnel à temps partiel est rattaché à un établissement d'enseignement secondaire technique ou professionnel ordinaire à temps plein, il convient d'entendre par direction du centre, le pouvoir organisateur de cet établissement.
+
+§ 2. Les dispositions du § 1er ne sont pas d'application lorsque l'enseignement secondaire professionnel à temps partiel est exclusivement organisé sous forme d'enseignement de la pêche maritime.
+
+Le cas échéant, l'enseignement secondaire professionnel à temps partiel peut être agréé, financé ou subventionné par la Communauté flamande dans un maximum de trois centres d'enseignement secondaire professionnel à temps partiel, répartis comme suit : un dans l'enseignement communautaire, un dans l'enseignement officiel subventionné, un dans l'enseignement libre subventionné.
+
+Un pareil centre d'enseignement secondaire professionnel à temps partiel est toujours rattaché à un établissement d'enseignement secondaire ordinaire à temps plein qui organise la discipline 'maritieme opleidingen' (formations maritimes).
+
+[<sup>1</sup> § 3. [<sup>2</sup> Sans préjudice des dispositions de l'article 8, §§ 1er et 2, la création d'un centre d'enseignement secondaire professionnel à temps partiel agréé, financé ou subventionné suite à la scission d'un centre existant, est communiquée par écrit par l'autorité du centre au service compétent de la Communauté flamande, au plus tard le 1er mai de l'année scolaire précédente. [<sup>3</sup> Sans préjudice de l'application des paragraphes 1er et 2, l'article 14, § 2 ou, le cas échéant, l'article 15, § 2, du Code de l'Enseignement secondaire du 17 décembre 2010 s'applique à la création d'un centre qui ne résulte pas de la scission d'un centre existant]<sup>3</sup>.]<sup>2</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-12-18/05, art. 6, 005; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. III.54, 018; En vigueur : 01-03-2014&gt;
+
+(3)&lt;DCFL 2018-03-23/08, art. 13, 025; En vigueur : 01-09-2018&gt;
+
+##### Art. 9
+
+Un centre d'enseignement secondaire professionnel à temps partiel qui est rattaché à un établissement d'enseignement secondaire professionnel ou technique ordinaire à temps plein qui a adhéré à un centre d'enseignement, relève de plein droit de ce même centre d'enseignement.
+
+Un centre d'enseignement secondaire professionnel à temps partiel qui n'est plus rattaché à un établissement d'enseignement secondaire professionnel ou technique ordinaire à plein temps qui a adhéré à un centre d'enseignement et qui devient autonome, continue à relever de plein droit de ce centre d'enseignement pour la durée restante de la formation du centre d'enseignement en question. Dans les autres cas, la direction d'un centre autonome pour l'enseignement secondaire professionnel à temps partiel statue sur l'adhésion éventuelle à un centre d'enseignement.
+
+Les critères pour la formation de centres d'enseignement dans l'enseignement secondaire, ainsi que les compétences des et les avantages pour ces centres d'enseignement sont définis [<sup>1</sup> à la codification relative à l'enseignement secondaire]<sup>1</sup>.
+
+----------
+
+(1)&lt;AGF 2010-12-17/39, art. 359, 58), 008; En vigueur : 04-07-2011&gt;
+
+##### Art. 10
+
+§ 1er. [<sup>8</sup> Grâce à l'agrément ou l'agrément provisoire d'un centre d'enseignement secondaire professionnel à temps partiel, l'autorité du centre se voit attribuer la compétence de délivrer aux jeunes des titres valables de plein droit]<sup>8</sup>.
+
+[<sup>4</sup> Une formation de l'enseignement secondaire professionnel à temps partiel est agréée lorsqu'il est satisfait à l'ensemble des conditions ci-dessous portant soit sur la formation en question, soit sur l'implantation du centre qui l'organise]<sup>4</sup> :
+
+1° être organisé sous la responsabilité d'une direction du centre;
+
+2° être établi dans les immeubles et les locaux répondant aux exigences en matière d'hygiène, de sécurité et d'habitabilité;
+
+3° rendre possible le contrôle par l'inspection de l'enseignement;
+
+4° disposer de suffisamment de matériel didactique et d'un équipement scolaire adapté;
+
+5° [<sup>2</sup> respecter les dispositions concernant la langue d'enseignement et la connaissance linguistique du personnel;]<sup>2</sup>
+
+6° adopter une structure et présenter une organisation de fond conformes aux dispositions du présent décret;
+
+7° respecter la réglementation relative au régime des vacances et à l'affectation du temps d'enseignement;
+
+8° répondre aux dispositions réglementaires et décrétales relatives aux objectifs finaux et programmes d'études pour autant que l'on vise la délivrance de certificats de fin d'étude qui sont identiques à ceux de l'enseignement secondaire ordinaire à temps plein.
+
+9° [<sup>9</sup> avoir conclu des arrangements de coopération avec un centre d'encadrement des élèves et mener une politique d'encadrement des élèves ;]<sup>9</sup>
+
+10° [<sup>10</sup> ...]<sup>10</sup>
+
+11° [<sup>11</sup> ...]<sup>11</sup>
+
+12° respecter les principes de droit international et les principes constitutionnels en matière de droits de l'homme et de droits de l'enfant en particulier;
+
+13° pour l'enseignement officiel :
+
+a) présenter un caractère ouvert en accueillant tous les jeunes, quelles que soient les convictions idéologiques, philosophiques ou religieuses des parents et du jeune;
+
+b) suivre les programmes d'études de l'Enseignement communautaire, du Secrétariat d'enseignement des Villes et Communes de la Communauté flamande ou de l'Enseignement provincial Flandre, ou suivre ses propres programmes d'études qui sont compatibles avec les premiers à partir d'une date à déterminer par le Gouvernement flamand;
+
+c) utiliser un plan de travail, un règlement du centre et des livres correspondant au caractère ouvert visé au point a);
+
+d) être accompagné par le service d'encadrement de l'Enseignement communautaire, du Secrétariat d'enseignement des Villes et Communes de la Communauté flamande ou de l'Enseignement provincial Flandre à partir d'une date à déterminer par le Gouvernement flamand.
+
+[<sup>2</sup> 14° mener une politique efficace afin de propager et de sauvegarder l'interdiction de fumer, visée par le décret du 6 juin 2008 instituant une interdiction de fumer dans les établissements d'enseignement et les centres d'encadrement des élèves, assurer le contrôle du respect de l'interdiction et infliger des sanctions aux contrevenants, conformément à la propre politique de sanctionnement telle que mentionnée dans le règlement de centre ou de travail.]<sup>2</sup>
+
+[<sup>3</sup> 15° répondre aux dispositions décrétales et réglementaires relatives à l'organisation de l'enseignement.]<sup>3</sup>
+
+§ 2. [<sup>5</sup> ...]<sup>5</sup>
+
+§ 3. [<sup>4</sup> Chaque année scolaire, les formations reprises dans l'agrément sont confirmées et communiquées à l'autorité du centre intéressée, par le biais d'une dépêche de l''Agentschap voor Onderwijsdiensten'. Seulement lorsque le centre n'est plus agréé à délivrer certains certificats de fin d'études identiques à ceux de l'enseignement secondaire ordinaire à temps plein, ceci est mentionné dans la dépêche.]<sup>4</sup> [<sup>8</sup> La dépêche contient les implantations où peuvent être organisées les formations reprises dans l'agrément.]<sup>8</sup>
+
+§ 4. [<sup>1</sup> [<sup>4</sup> [<sup>8</sup> La mise en service d'une nouvelle implantation par un centre est notifiée à l'" Agentschap voor Onderwijsdiensten " au plus tard au moment de la mise en service. Dans la notification, il est déclaré que :
+
+1° l'implantation répond aux conditions en matière d'hygiène, de sécurité et d'habitabilité ;
+
+2° le centre est au courant des recommandations ou manques formulés par l'inspection de l'enseignement dans son dernier rapport d'audit en matière d'hygiène, de sécurité et d'habitabilité des bâtiments en question, lorsqu'il met en service une implantation où un autre établissement d'enseignement est situé ou était situé auparavant. Dans ce cas, le centre mentionne également l'avis de l'inspection de l'enseignement sur l'habitabilité, la sécurité et l'hygiène de la nouvelle implantation.
+
+Le Gouvernement flamand établit le modèle du formulaire de la notification, visée à l'alinéa 1er.
+
+Ce paragraphe ne vaut pas pour un centre qui est créé à la suite ou non d'une scission de centres déjà existants.]<sup>8</sup> ]<sup>4</sup> ]<sup>1</sup>
+
+[<sup>7</sup> ...]<sup>7</sup>
+
+[<sup>4</sup> § 5. [<sup>8</sup> ...]<sup>8</sup>.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/31, art. 214, 003; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2009-05-08/32, art. III.28, 004; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFL 2010-07-09/26, art. III.39, 007; En vigueur : 01-09-2010&gt;
+
+(4)&lt;DCFL 2012-12-21/65, art. III.31, 014; En vigueur : 01-01-2013&gt;
+
+(5)&lt;DCFL 2014-04-25/L8, art. III.55,1°,2°, 018; En vigueur : 01-03-2014&gt;
+
+(6)&lt;DCFL 2014-04-25/L8, art. III.55,3°, 018; En vigueur : 01-01-2013&gt;
+
+(7)&lt;DCFL 2015-06-19/33, art. III.21, 019; En vigueur : 01-09-2015&gt;
+
+(8)&lt;DCFL 2018-03-23/08, art. 14, 025; En vigueur : 01-09-2018&gt;
+
+(9)&lt;DCFL 2018-04-27/26, art. 106, 026; En vigueur : 01-09-2018&gt;
+
+(10)&lt;DCFL 2020-07-03/39, art. 75, 030; En vigueur : 01-09-2020&gt;
+
+(11)&lt;DCFL 2021-07-09/33, art. 136, 031; En vigueur : 01-01-2021&gt;
+
+##### Art. 11
+
+§ 1er. [<sup>1</sup> Une formation de l'enseignement secondaire professionnel à temps partiel est financée ou subventionnée lorsqu'il est satisfait à l'ensemble des conditions ci-dessous portant soit sur la formation en question, soit sur l'implantation du centre qui l'organise]<sup>1</sup> :
+
+1° répondre à toutes les conditions d'agrément telles que visées à l'article 10, § 1er;
+
+2° répondre aux normes de programmation et de rationalisation visées à l'article 12;
+
+3° participer à et collaborer au sein d'une plateforme locale de concertation, créée conformément à l'article IV.2, § 2, premier alinéa, du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I. Il convient d'entendre par collaborer, fournir les données visées à l'article IV.4, premier alinéa, 1°, du même décret, et respecter les accords intervenus dans le cadre de l'article IV.4, premier alinéa, du même décret;
+
+4° [<sup>6</sup> participer à et collaborer au sein d'un ou de plusieurs forums de concertation telles que visées à l'article 357/32 du Code de l'Enseignement secondaire du 17 décembre 2010;]<sup>6</sup>
+
+5° pour l'enseignement communautaire : respecter les compétences du conseil scolaire telles que visées aux articles 10 jusqu'à 12 inclus du décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire;
+
+6° pour ce qui est de l'enseignement officiel subventionné et de l'enseignement libre subventionné : ne pas porter préjudice aux procédures décisionnelles telles que visées aux articles 19 à 22 inclus du décret du 2 avril 2004 relatif à la participation à l'école et au 'Vlaamse Onderwijsraad'. Cette condition implique en outre que le directeur soit suffisamment mandaté pour les compétences qui lui ont été déléguées par la direction du centre qui font l'objet d'avis ou de concertation, afin de pouvoir agir de manière autonome par rapport au conseil scolaire;
+
+7° fournir des efforts maximums pour réaliser l'engagement à temps plein de chaque jeune.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>1</sup> Chaque année scolaire, les formations reprises dans le financement ou le subventionnement sont confirmées et communiquées à l'autorité du centre intéressée, par le biais d'une dépêche de l''Agentschap voor Onderwijsdiensten'.]<sup>1</sup> [<sup>5</sup> La dépêche contient les implantations où peuvent être organisées les formations admises au financement ou au subventionnement.]<sup>5</sup>
+
+§ 4. [<sup>1</sup> [<sup>5</sup> [<sup>7</sup> Pour la mise en service d'une nouvelle implantation, à partir de l'année scolaire 2021-2022, l'autorité du centre introduit une demande motivée auprès des services compétents de la Communauté flamande, en ajoutant le protocole de la négociation en la matière au sein du comité local compétent et, si le centre fait partie d'une communauté scolaire, un extrait du procès-verbal démontrant que la demande est conforme aux accords conclus au sein de la communauté scolaire.
+
+Dans la demande, dont le formulaire type est arrêté par le Gouvernement flamand, il est attesté que :
+
+1° lors de la mise en service, l'implantation répond aux conditions en matière d'hygiène, de sécurité et d'habitabilité ;
+
+2° l'autorité du centre est au courant des recommandations ou manques formulés par l'inspection de l'enseignement dans son dernier rapport d'audit en matière d'hygiène, de sécurité et d'habitabilité des bâtiments en question, lorsqu'elle met en service une implantation où un autre établissement d'enseignement est situé ou était situé auparavant. Dans ce cas, l'autorité du centre mentionne également l'avis de l'inspection de l'enseignement sur l'habitabilité, la sécurité et l'hygiène de la nouvelle implantation.
+
+Le Gouvernement flamand prend une décision au plus tard trois mois après l'introduction de la demande et après l'avis des services compétents de la Communauté flamande. Passé ce délai, la demande est approuvée de plein droit.
+
+Ce paragraphe ne vaut pas pour un centre qui est créé à la suite ou non d'une scission de centres déjà existants.]<sup>7</sup>.]<sup>5</sup> ]<sup>1</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>1</sup> § 5. [<sup>5</sup> ...]<sup>5</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-12-21/65, art. III.32, 014; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. III.56,1°,2°, 018; En vigueur : 01-03-2014&gt;
+
+(3)&lt;DCFL 2014-04-25/L8, art. III.56,3°, 018; En vigueur : 01-01-2013&gt;
+
+(4)&lt;DCFL 2015-06-19/33, art. III.22, 019; En vigueur : 01-09-2015&gt;
+
+(5)&lt;DCFL 2018-03-23/08, art. 15, 025; En vigueur : 01-09-2018&gt;
+
+(6)&lt;DCFL 2018-03-30/37, art. 89, 028; En vigueur : 01-09-2019&gt;
+
+(7)&lt;DCFL 2020-07-03/39, art. 76, 030; En vigueur : 01-09-2020&gt;
+
+##### Art. 12
+
+§ 1er. Pour un centre d'enseignement secondaire professionnel à temps partiel qui est rattaché à un établissement d'enseignement secondaire ordinaire à temps plein, la norme de programmation est de 25 jeunes et la norme de rationalisation est de 40 jeunes.
+
+Pour un centre autonome d'enseignement secondaire professionnel à temps partiel, la norme de programmation est de 260 jeunes et la norme de rationalisation est de 240 jeunes.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+La norme en question doit être atteinte à l'une des dates suivantes :
+
+1° le 1er février de l'année scolaire précédente ou le premier jour d'enseignement suivant si la date précitée tombe un jour libre : pour la norme de programmation; comme lorsqu'un centre d'enseignement secondaire professionnel à temps partiel passe du statut non autonome vers autonome, de même que pour la norme de rationalisation;
+
+2° le 1er octobre de l'année scolaire en question ou le premier jour d'enseignement qui suit lorsque la date précitée tombe un jour libre : pour la norme de programmation dans les autres cas que celui visé au 1°.
+
+Un centre d'enseignement secondaire professionnel à temps partiel qui cesse d'atteindre la norme de rationalisation [<sup>1</sup> à la date précitée des deux années scolaires précédentes]<sup>1</sup> doit satisfaire, le 1er septembre suivant, à l'une des conditions suivantes :
+
+1° procéder à une réduction progressive;
+
+2° fusionner avec un autre centre, autonome ou non, d'enseignement secondaire professionnel à temps partiel;
+
+3° passer de centre autonome d'enseignement secondaire professionnel à temps partiel au statut de centre rattaché à un établissement d'enseignement secondaire ordinaire à temps plein auquel aucun autre centre n'est rattaché, à condition que la norme de rationalisation en vigueur soit atteinte.
+
+§ 2. Les dispositions du § 1er ne s'appliquent pas lorsque l'enseignement secondaire professionnel à temps partiel est exclusivement organisé sous forme d'enseignement de la pêche maritime. Le cas échéant, aucune norme ne s'applique pour le centre d'enseignement secondaire professionnel à temps partiel pour ce qui concerne le premier lieu d'établissement et à partir de l'éventuel deuxième lieu d'établissement, la norme est que cinq jeunes au moins doivent être inscrits dans chaque lieu d'établissement au début de la formation.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/L8, art. III.57, 018; En vigueur : 01-09-2014&gt;
+
+##### Art. 13
+
+§ 1er. Dans chaque centre d'enseignement secondaire professionnel à temps partiel, un conseil du centre est créé. Celui-ci a pour mission de proposer à la direction du centre des mesures susceptibles de contribuer au bon fonctionnement.
+
+§ 2. Sont soumis à l'avis préalable du conseil du centre :
+
+1° le règlement du centre tel que visé à [<sup>1</sup> l'article 111, § 1er, deuxième alinéa, du Code de l'Enseignement secondaire]<sup>1</sup>;
+
+2° l'équipement organisationnel et matériel du centre, en ce compris les critères pour l'affectation du capital périodes-professeurs telles que visées à l'article 90;
+
+3° la démarche pédagogique du programme d'apprentissage;
+
+4° l'affectation des moyens disponibles;
+
+5° la problématique d'adéquation entre l'enseignement secondaire professionnel à temps partiel et le marché du travail en général et la problématique de l'adéquation entre la composante apprentissage et la composante apprentissage sur le lieu du travail en particulier.
+
+§ 3. [<sup>2</sup> Le conseil du centre compte au moins six membres et doit être paritairement constitué de représentants de l'enseignement, désignés par l'autorité du centre, et de représentants d'organisations socio-économiques. Un représentant du centre d'encadrement des élèves a un rôle consultatif au sein du conseil du centre.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-04/85, art. IV.2, 016; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 77, 030; En vigueur : 01-09-2020&gt;
+
+##### Art. 13bis
+
+[<sup>1</sup> Une fusion de centres d'enseignement secondaire professionnel à temps partiel est notifiée par l'autorité du centre ou les autorités des centres en question à l''Agentschap voor Onderwijsdiensten', au plus tard le 1er mai de l'année scolaire précédente.
+
+Une suppression progressive d'un centre d'enseignement secondaire professionnel à temps partiel est notifiée par l'autorité du centre en question à l''Agentschap voor Onderwijsdiensten', au plus tard le 1er mai de l'année scolaire précédente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-12-21/65, art. III.33, 014; En vigueur : 01-01-2013&gt;
+
+##### Art. 13ter.
+
+[<sup>1</sup> Un centre d'enseignement secondaire professionnel à temps partiel peut organiser un enseignement secondaire ordinaire à temps plein lorsqu'il s'agit de subdivisions structurelles utilisant le mot " dual " dans leur dénomination. Le cas échéant, le Code de l'Enseignement secondaire du 17 décembre 2010 et ses arrêtés d'exécution relatifs à la programmation et l'organisation de ces subdivisions structurelles sont d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-11-24/11, art. 5, 024; En vigueur : 30-11-2017&gt;
+
+#### Sous-section II. - Centres de formation des indépendants et des petites et moyennes entreprises.
+
+##### Art. 14
+
+La formation théorique pendant l'apprentissage est agréée et subventionnée par la Communauté flamande dans les centres de formation des indépendants et des petites et moyennes entreprises agréés par le Gouvernement flamand.
+
+##### Art. 15
+
+[<sup>1</sup> Pour l'agrément, pendant l'apprentissage, d'une formation d'un centre de formation des indépendants et des petites et moyennes entreprises, toutes les conditions [<sup>2</sup> visées à l'article 26/2, § 5, du décret du 16 mars 2012 relatif à la politique d'aide économique]<sup>2</sup>, doivent être remplies.
+
+Si ces conditions ne sont plus remplies, le Gouvernement flamand peut, sur la proposition d'un collège composé pour la moitié de membres de l'inspection de l'enseignement et pour la moitié de membres du personnel [<sup>2</sup> du [<sup>3</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>3</sup>]<sup>2</sup>, suspendre progressivement ou non l'agrément pendant l'apprentissage d'un centre ou d'une formation du centre. Il peut cependant limiter la suppression de l'agrément à la suppression progressive ou non de la compétence de délivrer des certificats de fin d'études identiques à ceux de l'enseignement secondaire ordinaire à temps plein.]<sup>1</sup>
+
+[<sup>2</sup> [<sup>3</sup> Dans l'alinéa 2, on entend par Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale : le département visé à l'article 29/1 de l'arrêté du Gouvernement flamand du 3 juin 2005 relatif à l'organisation de l'Administration flamande.]<sup>3</sup>]<sup>2</sup>
+
+Le Gouvernement flamand détermine les modalités complémentaires relatives au fonctionnement et à l'organisation de ce collège, en désigne les membres et règle la procédure de recours.
+
+----------
+
+(1)&lt;DCFL 2012-12-21/65, art. III.34, 014; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 25, 032; En vigueur : 31-12-2021&gt;
+
+(3)&lt;DCFL 2026-06-26/19, art. 24, 041; En vigueur : 07-08-2026&gt;
+
+##### Art. 16
+
+[<sup>1</sup> Pour le subventionnement, pendant l'apprentissage, d'une formation d'un centre de formation des indépendants et des petites et moyennes entreprises, toutes les conditions [<sup>2</sup> visées à l'article 22/22 du décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public Office flamand de l'Emploi et de la Formation professionnelle]<sup>2</sup>, doivent être remplies.
+
+Tout en conservant l'agrément, le subventionnement, pendant l'apprentissage, d'un centre qui ne remplit plus toutes les conditions de subventionnement ou d'une formation de ce centre qui ne remplit plus toutes ces conditions, est retenu en tout ou en partie par [<sup>2</sup> le VDAB]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-12-21/65, art. III.35, 014; En vigueur : 01-01-2013&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 26, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 16bis.
+
+[<sup>1</sup> Un centre de formation des indépendants et des petites et moyennes entreprises peut organiser un enseignement secondaire ordinaire à temps plein lorsqu'il s'agit de subdivisions structurelles utilisant le mot " dual " dans leur dénomination. Le cas échéant, le Code de l'Enseignement secondaire du 17 décembre 2010 et ses arrêtés d'exécution relatifs à la programmation et l'organisation de ces subdivisions structurelles sont d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-11-24/11, art. 6, 024; En vigueur : 30-11-2017&gt;
+
+#### Sous-section III.
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 90, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 17
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 90, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 18
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 90, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 19
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 90, 028; En vigueur : 01-09-2019&gt;
+
+#### Sous-section IV. - Programmation de l'offre.
+
+##### Art. 20
+
+&lt;Abrogé par DCFL 2024-04-19/55, art. 69, 039; En vigueur : 01-09-2024&gt;
+
+##### Art. 21
+
+[<sup>1</sup> Chaque [<sup>2</sup> ...]<sup>2</sup> centre de formation des indépendants et des petites et moyennes entreprises a le libre choix quant à la mise en service d'implantations.]<sup>1</sup>
+
+Pour l'application du présent décret, un site ne peut servir de lieu d'implantation d'un centre que lorsqu'une partie ou l'ensemble de l'offre de formation y est organisée avec du personnel propre au centre.
+
+Chaque centre désigne un siège administratif. Lorsqu'un centre d'enseignement secondaire professionnel à temps partiel est rattaché à un établissement d'enseignement secondaire professionnel ou d'enseignement technique ordinaire à temps plein, l'implantation principale de cette institution tient de plein droit office de siège administratif du centre d'enseignement secondaire professionnel à temps partiel.
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 79, 030; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 137, 031; En vigueur : 01-09-2021&gt;
+
+### Section II. - Offre et organisation.
+
+#### Sous-section Ire. - Offre de formation de l'enseignement secondaire professionnel à temps partiel et apprentissage.
+
+##### Art. 22
+
+Le Gouvernement flamand fixe, séparément pour l'enseignement secondaire professionnel à temps partiel et pour l'apprentissage, la liste des formations pouvant être organisées.
+
+##### Art. 23
+
+§ 1er. [<sup>2</sup> Pour fixer les listes des formations, toutes les formations existantes font l'objet d'un screening sur la base de qualifications professionnelles. Ce screening vise à mettre en place une offre de formations rationnelle et transparente par le biais, le cas échéant, de la conversion, la fusion ou la suppression de formations.]<sup>2</sup>
+
+§ 2. Le screening des formations existantes est réalisé par une commission qui se compose :
+
+1° de représentants [<sup>1</sup> du service compétent de la Communauté flamande]<sup>1</sup>, de l'inspection de l'enseignement, de l'Agentschap voor Onderwijsdiensten;
+
+2° d'experts du monde professionnel, internes ou externes au secteur des formations.
+
+Le [<sup>1</sup> service compétent de la Communauté flamande]<sup>1</sup> compose la commission et en assure la présidence.
+
+Les conclusions de la commission sont soumises pour avis au Vlaamse Onderwijsraad pour ce qui concerne l'enseignement secondaire professionnel à temps partiel et au conseil d'administration [<sup>3</sup> du VDAB]<sup>3</sup> pour ce qui concerne l'apprentissage.
+
+Sur la base des conclusions de la commission et de l'avis du Vlaamse Onderwijsraad, respectivement du conseil d'administration [<sup>3</sup> du VDAB]<sup>3</sup>, le Gouvernement flamand prendra une décision.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2013-07-19/57, art. III.68, 015; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. III.58, 018; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DCFL 2020-06-19/14, art. 27, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 24
+
+§ 1er. [<sup>1</sup> Le Gouvernement flamand peut définir de nouvelles formations sur la base de qualifications professionnelles.]<sup>1</sup>
+
+A cette fin, le Gouvernement flamand peut, le cas échéant dans le cadre du screening visé à l'article 23, § 1er, prendre lui-même l'initiative ou prendre en considération des propositions étayées qui sont introduites par les organisateurs de formations ou par des tiers.
+
+§ 2. Une initiative ou une proposition de nouvelle formation est présentée à la commission visée à l'article 23, § 2. La commission examine la proposition au moins quant à son exhaustivité, son exactitude et sa valeur d'actualité, et formule des conclusions.
+
+L'initiative ou proposition initiale et les conclusions de la commission sont soumises pour avis au Vlaamse Onderwijsraad, au conseil d'administration [<sup>2</sup> du VDAB]<sup>2</sup> ou aux deux, en fonction de l'endroit où la formation est organisée.
+
+Sur la base des conclusions de la commission et de l'avis du Vlaamse Onderwijsraad, respectivement du conseil d'administration [<sup>2</sup> du VDAB]<sup>2</sup> ou des deux, le Gouvernement flamand prend une décision.
+
+Le Gouvernement flamand fixe les délais de la procédure de dépôt et d'avis.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/L8, art. III.59, 018; En vigueur : 01-01-2014&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 28, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 25
+
+Lors de l'exécution des missions visées aux articles 23 et 24, la commission applique tous les critères suivants :
+
+1° la formation est, le cas échéant, conforme :
+
+a) aux développements sociétaux;
+
+b) aux évolutions économiques, parmi lesquelles l'emploi potentiel;
+
+c) aux développements culturels;
+
+d) aux évolutions technologiques;
+
+e) à la réglementation européenne, fédérale ou flamande en fonction des domaines politiques et des niveaux de gestion;
+
+2° la concrétisation de la formation est déterminée à partir [<sup>1</sup> d'une qualification professionnelle]<sup>1</sup>;
+
+3° le contexte éducatif et éducationnel :
+
+a) la formation s'aligne sur le niveau de développement et sur les talents du groupe cible;
+
+b) la formation s'inscrit dans le concept d'apprentissage et de travail;
+
+c) la formation encourage la motivation à apprendre et à apprendre sur le lieu du travail auprès des jeunes;
+
+4° l'optimalisation et la sauvegarde de la continuité dans la carrière (scolaire) :
+
+a) l'intégration dans l'offre de formations existante;
+
+b) là où c'est possible, le parallélisme entre l'enseignement secondaire professionnel à temps partiel et l'apprentissage, en particulier pour les formations qui aboutissent à la même qualification;
+
+c) les garanties en matière de compatibilité avec des formations de suivi ou les possibilités d'emploi.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/L8, art. III.60, 018; En vigueur : 01-01-2014&gt;
+
+#### Sous-section II.
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 91, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 26
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 91, 028; En vigueur : 01-09-2019&gt;
+
+#### Sous-section III. - Organisation de l'enseignement secondaire professionnel à temps partiel.
+
+##### Art. 27
+
+§ 1er. L'enseignement secondaire professionnel à temps partiel est dispensé [<sup>4</sup> au prorata de 15 ou 16 heures hebdomadaires]<sup>4</sup> à partir du 1er septembre jusqu'au 31 août inclus de l'année calendaire suivante, à l'exception des périodes de vacances telles que fixées par l'arrêté du Gouvernement flamand du 31 août 2001 portant organisation de l'année scolaire dans l'enseignement secondaire.
+
+Par dérogation à cette règle :
+
+1° [<sup>2</sup> la direction du centre peut organiser l'enseignement secondaire professionnel à temps partiel à un autre rythme hebdomadaire ou annuel à condition qu'il ne soit pas porté préjudice au nombre total d'heures sur base annuelle d'une part, et qu'un dossier motivé soit tenu à la disposition de l''Agentschap voor Onderwijsdiensten' et de l'Inspection de l'Enseignement dans le centre;]<sup>2</sup>
+
+2° la direction du centre peut augmenter le nombre d'heures hebdomadaires pour les jeunes qui, temporairement, ne suivent pas la composante apprentissage sur le lieu du travail. La direction du centre détermine si ces heures complémentaires sont affectées à une formation générale ou à une formation à vocation professionnelle;
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+§ 2. L'enseignement secondaire professionnel à temps partiel, dispensé par un centre d'enseignement secondaire professionnel à temps partiel, se compose d'une formation générale et une formation à vocation professionnelle.
+
+Par dérogation à cette règle :
+
+1° [<sup>5</sup> une organisation qui est agréée comme centre de formation à temps partiel en l'année scolaire 2018-2019]<sup>5</sup> peut uniquement fournir la formation à vocation professionnelle et faire dispenser la formation générale par un centre de formation à temps partiel;
+
+2° le conseil de classe peut, à partir de l'année scolaire qui débute durant l'année calendaire du 18ème anniversaire du jeune, exempter le jeune de la formation générale. S'il est fait usage de cette possibilité, [<sup>4</sup> les 15 ou 16 heures hebdomadaires, visées au paragraphe 1er,]<sup>4</sup> sont affectées à la formation à vocation professionnelle.
+
+§ 3. Un centre d'enseignement secondaire professionnel à temps partiel doit toujours être ouvert pendant au moins 9 demi-journées de cours par semaine.
+
+§ 4. [<sup>1</sup> Pour l'organisation de la formation à vocation professionnelle et d'activités à l'appui de la formation à vocation professionnelle, un centre d'enseignement secondaire professionnel à temps partiel peut coopérer avec des établissements d'enseignement secondaire technique ou professionnel ordinaire à temps plein, avec d'autres centres d'enseignement secondaire professionnel à temps partiel, avec des cantres d'éducation des adultes ou avec des centres de formation des indépendants et des petites et moyennes entreprises. Pour l'organisation de la formation générale et d'activités à l'appui de la formation générale, un centre d'enseignement secondaire professionnel à temps plein peut coopérer avec des établissements d'enseignement secondaire technique ou professionnel ordinaire à temps plein.
+
+Le cas échéant, un accord de coopération est conclu entre le centre et l'établissement en question ou entre les deux centres concernés, définissant les modalités et conditions jugées nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.30, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2011-07-01/33, art. III.32, 010; En vigueur : 01-09-2011&gt;
+
+(3)&lt;DCFL 2012-12-21/65, art. III.38, 014; En vigueur : 01-09-2012&gt;
+
+(4)&lt;DCFL 2018-03-30/37, art. 92, 028; En vigueur : 01-09-2018&gt;
+
+(5)&lt;DCFL 2020-07-03/39, art. 80, 030; En vigueur : 01-09-2020&gt;
+
+##### Art. 27/1
+
+[<sup>1</sup> Dans l'enseignement secondaire professionnel à temps partiel, 20 % au maximum de la grille horaire hebdomadaire, les cours de langues étrangères modernes non compris, peut être offert en langue française, anglaise ou allemande.
+
+L'offre visée à l'alinéa premier, peut être organisée à condition :
+
+1° que les élèves aient la possibilité de suivre tous les cours non linguistiques en néerlandais auprès du centre;
+
+2° qu'un jeune ne puisse suivre EMILE (Enseignement d'une Matière par l'Intégration d'une Langue Etrangère), que si les personnes concernées décident, par écrit et explicitement, de suivre le parcours EMILE pendant toute l'année scolaire, et ce après un avis positif du conseil de classe basé au moins sur une connaissance et une maîtrise suffisantes de la langue d'enseignement de la part du jeune;
+
+3° que l'offre réponde à la norme de qualité définie par le Gouvernement flamand [<sup>2</sup> qui est fixée au plus tard le 15 février 2014]<sup>2</sup> . La norme de qualité comprend uniquement des conditions au niveau :
+
+a) des compétences du personnel qui dispensera ces cours pour ce qui est de la méthodique EMILE par rapport à la branche même;
+
+b) de la connaissance exigée de la langue cible des membres du personnel;
+
+c) d'une communication ponctuelle avec les parents et les jeunes, tout en proposant le choix explicite entre EMILE ou non-EMILE;
+
+d) de l'intégration de cette offre dans une politique linguistique cohérente tant pour la langue d'enseignement que pour les langues étrangères, avec une formulation d'objectifs stratégiques explicites;
+
+e) du monitoring des résultats et des gains d'apprentissage des élèves dans la matière/le sujet, dans la langue cible et en néerlandais standard;
+
+f) des démarches à suivre par une école désirant organiser un projet EMILE (analyse de la situation initiale, communication, formuler des objectifs, dresser un plan d'action et l'opérationnaliser);
+
+4° le centre ne peut effectivement organiser l'offre que s'il dispose de membres du personnel qui remplissent les conditions du point 3°, a) et b) au moment de l'organisation. Il devra tenir compte des droits des membres du personnel nommés à titre définitif ou désignés temporairement à durée indéterminée dans la branche qu'il entend offrir en langue française, anglaise ou allemande. Pour organiser l'offre, le centre ne peut pas mettre un membre du personnel nommé à titre définitif pour la branche qu'il entend offrir en français, en anglais ou en allemand, en disponibilité par défaut d'emploI. Le centre ne peut pas non plus réduire la charge d'un membre du personnel étant désigné temporairement à durée indéterminée dans la branche que l'école entend offrir en français, en anglais ou en allemand ou y mettre fin afin d'organiser l'offre. Cette règle ne s'applique pas si le membre du personnel remplit les conditions du point 3°, a) et b), mais refuse néanmoins l'offre d'enseigner la branche en langue française, anglaise ou allemande;
+
+5° que le centre veille à ce que la connaissance de la langue d'enseignement continue à avoir la priorité chez les jeunes et que le caractère néerlandophone du centre soit maintenu;
+
+6° qu'un plan soit élaboré au préalable et que celui-ci soit approuvé par le service compétent de la Communauté flamande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-19/57, art. III.69, 015; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. III.61, 018; En vigueur : 15-02-2014&gt;
+
+##### Art. 28
+
+§ 1er. L'enseignement secondaire professionnel à temps partiel est organisé sur une base modulaire, la formation étant proposée par modules.
+
+Chaque formation se compose d'un ou de plusieurs modules. Le même module peut se retrouver dans différentes formations.
+
+Le Gouvernement flamand développe, conjointement avec l'Enseignement communautaire et les associations représentatives de pouvoirs organisateurs de l'enseignement subventionné, la structure des formations. Préalablement à une décision définitive, il soumet le résultat pour avis au Vlaamse Onderwijsraad. Par structure des formations, on entend :
+
+1° les modules par formation;
+
+2° l'indication que les modules doivent s'organiser de manière consécutive ou sont indépendants les uns des autres.
+
+[<sup>2</sup> Une formation peut débuter]<sup>2</sup> à tout moment de l'année scolaire et se répartir sur une ou plusieurs années scolaires. Un module peut débuter à tout moment de l'année scolaire et se répartir sur un certain nombre de jours ou de semaines.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+§ 2. [<sup>5</sup> Dans l'enseignement secondaire professionnel à temps partiel, une formation passe, après avoir subi un screening, d'une organisation non modulaire vers une organisation modulaire.]<sup>5</sup>
+
+§ 3. Par dérogation au § 1er et dans l'attente de la date visée au § 2, l'enseignement secondaire professionnel à temps partiel est organisé de manière non modulaire pendant la période transitoire.
+
+La formation y est proposée par le biais de cours généraux, techniques et pratiques, et, le cas échéant, des séminaires. [<sup>4</sup> ...]<sup>4</sup>. Les dénominations des branches sont définies par le Gouvernement flamand et sont les mêmes que pour l'enseignement secondaire ordinaire à temps plein.
+
+Une formation commence au début de l'année scolaire et se répartit sur une ou plusieurs années scolaires.
+
+§ 4. Dans l'attente de la date visée au § 2, les centres d'enseignement secondaire professionnel à temps partiel continuent à organiser de manière modulaire les formations qu'ils organisaient déjà de façon modulaire à titre expérimental, jusqu'à l'entrée en vigueur du présent décret conformément aux dispositions de l'arrêté du Gouvernement flamand du 1er mars 2002 relatif à l'enseignement secondaire expérimental suivant un régime modulaire.
+
+[<sup>3</sup> § 5. Le Gouvernement flamand peut imposer des conditions d'organisation particulières pour une formation et pour la composante apprentissage sur le lieu du travail y attachée.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/26, art. III.43, 007; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCFL 2011-07-01/33, art. III.33, 010; En vigueur : 01-09-2011&gt;
+
+(3)&lt;DCFL 2011-07-01/33, art. III.33, 010; En vigueur : 01-09-2010&gt;
+
+(4)&lt;DCFL 2013-07-19/57, art. III.70, 015; En vigueur : 01-09-2013&gt;
+
+(5)&lt;DCFL 2014-04-25/L8, art. III.62, 018; En vigueur : 01-01-2014&gt;
+
+##### Art. 28bis
+
+[<sup>1</sup> Des stages peuvent être organisés dans l'enseignement secondaire professionnel à temps partiel.
+
+Un stage d'élève est basé sur un contrat de stage d'élève conclu entre le centre d'enseignement secondaire professionnel à temps partiel, le donneur de stage et les personnes concernées.
+
+Le centre d'enseignement secondaire professionnel à temps partiel assume la responsabilité finale :
+
+1° du choix du sonneur de stage;
+
+2° de la fixation des activités de stage;
+
+3° [<sup>2</sup> de l'accompagnement et de l'évaluation de l'élève-stagiaire, tout en tenant compte du fait que, pendant le stage, le jeune est accompagné par un membre du personnel du centre d'enseignement secondaire professionnel ou d'un membre du personnel d'une autre école ou d'un autre centre avec laquelle/lequel le centre d'enseignement secondaire professionnel à temps partiel a conclu un accord de coopération pour l'organisation de la formation ; ce membre du personnel se trouve en permanence sur le lieu de stage.]<sup>2</sup>
+
+Tout stage d'élève est non rémunéré.
+
+Le Gouvernement flamand peut préciser l'organisation et les caractéristiques de qualité minimales des stages d'élève.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-19/57, art. III.71, 015; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. III.63, 018; En vigueur : 01-09-2014&gt;
+
+##### Art. 29
+
+[<sup>1</sup> Si, dans l'enseignement secondaire professionnel à temps partiel, des certificats d'étude identiques à ceux de l'enseignement secondaire professionnel ordinaire à temps plein sont délivrés, les dispositions relatives aux objectifs finaux et aux programmes d'études tels que repris dans le Code de l'Enseignement secondaire, partie IV, titre 1er, chapitre 1er, section 3, s'appliquent à la formation générale. Selon le niveau de l'année d'étude du titre en question, il s'agit des objectifs finaux à atteindre et des programmes d'études pour le deuxième degré, pour la première et la deuxième année d'études du troisième degré ou pour la troisième année d'études du troisième degré de l'enseignement secondaire professionnel ordinaire à temps plein.
+
+Toutefois, par dérogation à l'alinéa premier et dans le respect du calendrier de conversion déterminé par le Gouvernement flamand pour l'enseignement secondaire professionnel à temps partiel en enseignement dual, les objectifs finaux suivants ne sont pas d'application :
+
+1° les objectifs finaux éducation physique de l'enseignement secondaire professionnel, tels que visés dans l'arrêté du Gouvernement flamand du 23 juin 2000, ratifié par le décret du 18 janvier 2002, et l'arrêté du Gouvernement flamand du 20 septembre 2002, ratifié par le décret du 20 décembre 2002 ;
+
+2° les objectifs finaux suivants, tels que visés dans le décret du 12 février 2021 :
+
+a) les objectifs finaux 1.9, 1.10, 1.11 et 1.12 de la formation de base du deuxième degré à finalité insertion sur le marché du travail dans la compétence clé " compétences en matière de conscience/santé physique, spirituelle et émotionnelle " ; et
+
+b) les objectifs finaux 1.8, 1.9, 1.10 et 1.11 de la formation de base du troisième degré finalité du marché du travail dans la compétence clé " compétences en matière de conscience/santé physique, spirituelle et émotionnelle ".]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 138, 031; En vigueur : 01-09-2021&gt;
+
+##### Art. 30
+
+§ 1er. [<sup>3</sup> Le Gouvernement flamand détermine en étroite concertation avec les secteurs professionnels, le " Sociaal-Economische Raad van Vlaanderen ", et le " Vlaamse Onderwijsraad ", les cadres de référence fixés par le Gouvernement flamand avant le 1er janvier 2014 qui sont abrogés et les qualifications professionnelles qui les remplacent. De ces qualifications professionnelles sont intégralement dérivés les objectifs pour la formation a vocation professionnelle des formations dans l'enseignement secondaire professionnel à temps partiel.]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+La formation à vocation professionnelle ne peut se réaliser que par le suivi intégré de la composante apprentissage et de la composante apprentissage sur le lieu du travail.
+
+Pour une formation qui se retrouve dans l'enseignement secondaire professionnel à temps partiel ainsi que dans l'apprentissage, le même cadre de référence est d'application. Si l'enseignement secondaire professionnel à temps partiel et l'apprentissage appliquent le même cadre de référence, celui-ci est d'application à partir de la même année scolaire.
+
+§ 2. Les dispositions du § 1er ne s'appliquent pas aux formations dans l'enseignement secondaire professionnel à temps partiel qui sont organisées de manière non modulaire par les centres dans l'attente de l'offre de formations qui se réalise après le screening visé à l'article 23, § 1er. Le cas échéant, les cartes de formation approuvées par le Gouvernement flamand, après avis du Vlaamse Onderwijsraad, sont utilisées comme cadre de référence définissant les objectifs pédagogiques et contenus didactiques minimums de la formation en question.
+
+DROIT FUTUR (jamais entrer en vigueur)
+
+§ 1er. [<sup>2</sup> La formation à vocation professionnelle des formations dans l'enseignement secondaire professionnel à temps partiel comprend les qualifications professionnelles reconnues tels que visées au décret du 30 avril 2009 relatif à la structure des certifications. Tant qu'il n'existe pas de qualification professionnelle reconnue, le Gouvernement flamand détermine les cadres de référence dont sont dérivées les compétences pour la formation à vocation professionnelle des formations dans l'enseignement secondaire professionnel à temps partiel. Les compétences sont, tout comme les qualifications professionnelles reconnues, déterminées en recourant aux éléments de descripteur du cadre des certifications et garantissent l'application d'une éventuelle réglementation européenne, fédérale ou flamande concernant l'exercice de la profession.
+
+Le VLOR et le SERV seront invités à donner leur avis sur l'arrêté fixant les cadres de référence, le processus et les acteurs pour atteindre ces compétences.]<sup>2</sup>
+
+Les objectifs garantissent l'application d'une éventuelle réglementation européenne, fédérale ou flamande concernant l'exercice de la profession.
+
+La formation à vocation professionnelle ne peut se réaliser que par le suivi intégré de la composante apprentissage et de la composante apprentissage sur le lieu du travail.
+
+Pour une formation qui se retrouve dans l'enseignement secondaire professionnel à temps partiel ainsi que dans l'apprentissage, le même cadre de référence est d'application. Si l'enseignement secondaire professionnel à temps partiel et l'apprentissage appliquent le même cadre de référence, celui-ci est d'application à partir de la même année scolaire.
+
+§ 2. Les dispositions du § 1er ne s'appliquent pas aux formations dans l'enseignement secondaire professionnel à temps partiel qui sont organisées de manière non modulaire par les centres dans l'attente de l'offre de formations qui se réalise après le screening visé à l'article 23, § 1er. Le cas échéant, les cartes de formation approuvées par le Gouvernement flamand, après avis du Vlaamse Onderwijsraad, sont utilisées comme cadre de référence définissant les objectifs pédagogiques et contenus didactiques minimums de la formation en question.
+
+----------
+
+(1)&lt;DCFL 2009-04-30/B4, art. 48, 002; En vigueur : 26-07-2009&gt;
+
+(2)&lt;DCFL 2010-07-09/26, art. III.44, 007; En vigueur : indéterminée &gt;
+
+(3)&lt;DCFL 2014-04-25/L8, art. III.64, 018; En vigueur : 01-01-2014&gt;
+
+##### Art. 30/1
+
+[<sup>1</sup> Pour l'organisation du programme d'études, le conseil de classe coopère d'une manière systématique, planifiée et transparente, avec le centre d'encadrement des élèves et les personnes concernées et opère, notamment pour les jeunes à besoins éducatifs spécifiques, des aménagements appropriés et raisonnables, entre autres des mesures correctrices, différenciantes, compensatoires ou dispensatoires suivant les besoins du jeune. Les besoins éducatifs spécifiques des jeunes et les besoins de soutien du personnel enseignant et des parents y jouent un rôle central.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-21/59, art. III.75, 017; En vigueur : 01-01-2015&gt;
+
+#### Sous-section IV. - Organisation de l'apprentissage.
+
+##### Art. 31
+
+[<sup>3</sup> § 1er.]<sup>3</sup> L'apprentissage se compose d'une formation pratique au sein d'une entreprise, complétée par une formation théorique dans un centre de formation des indépendants et des petites et moyennes entreprises. Formation pratique et formation théorique complémentaire sont indissociablement liées. La formation pratique est assimilée à la composante apprentissage sur le lieu du travail et la formation théorique est assimilée à la composante apprentissage.
+
+[<sup>4</sup> Pour la formation pratique durant l'apprentissage, un contrat est conclu, tel que visé à l'article 3 du décret du 10 juin 2016 réglant certains aspects des formations en alternance.]<sup>4</sup>
+
+La formation théorique dans un centre de formation des indépendants et des petites et moyennes entreprises est délivrée durant au moins 30 semaines par année scolaire, selon un régime d'au moins 8 heures hebdomadaires comportant au moins 4 heures de formation générale et au moins 4 heures de formation à vocation professionnelle. [<sup>5</sup> L'administration du centre]<sup>5</sup> peut, dans des cas particuliers, décider d'organiser une formation selon un rythme hebdomadaire ou annuel différent, à condition de ne pas porter préjudice au nombre total d'heures sur une base annuelle.
+
+A partir de l'année scolaire qui commence durant l'année calendaire au cours de laquelle le jeune atteint l'âge de 18 ans, [<sup>5</sup> le conseil de classe]<sup>5</sup> peut dispenser le jeune de suivre la formation générale.
+
+[<sup>1</sup> Pour l'organisation de l'apprentissage, un centre de formation des indépendants et des petites et moyennes entreprises coopère d'une manière systématique, planifiée et transparente, avec le centre d'encadrement des élèves et les personnes concernées et opère, notamment pour les jeunes à besoins éducatifs spécifiques, des aménagements appropriés et raisonnables, entre autres des mesures correctrices, différenciantes, compensatoires ou dispensatoires suivant les besoins du jeune. Les besoins éducatifs spécifiques des jeunes et les besoins de soutien du personnel enseignant et des parents y jouent un rôle central.]<sup>1</sup>
+
+[<sup>3</sup> § 2. Pour l'organisation de la formation à caractère professionnel et la formation générale et des activités à l'appui de la formation à caractère professionnel et la formation générale, un centre de formation des indépendants et des petites et moyennes entreprises peut coopérer avec d'autres centres de formation des indépendants et des petites et moyennes entreprises, des centres d'enseignement secondaire professionnel à temps partiel, des centres d'éducation des adultes ou avec des établissements d'enseignement secondaire technique ou professionnel ordinaire à temps plein.
+
+Le cas échéant, un accord de coopération est conclu entre le centre et l'établissement en question ou entre les deux centres concernés, définissant les modalités et conditions jugées nécessaires.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/59, art. III.76, 017; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2016-06-10/10, art. 53, 021; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2017-06-16/24, art. III.23, 023; En vigueur : 01-09-2017&gt;
+
+(4)&lt;DCFL 2018-03-30/37, art. 93, 028; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2020-06-19/14, art. 29, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 31/1
+
+[<sup>1</sup> Pendant l'apprentissage, 20 % au maximum de la grille horaire hebdomadaire, les cours de langues étrangères modernes non compris, peut être offert en langue française, anglaise ou allemande.
+
+L'offre visée à l'alinéa premier, peut être organisée à condition :
+
+1° que le jeune ait la possibilité de suivre tous les cours non linguistiques en néerlandais auprès du centre;
+
+2° qu'un jeune ne puisse suivre EMILE (Enseignement d'une Matière par l'Intégration d'une Langue Etrangère), que si les personnes concernées décident, par écrit et explicitement, de suivre le parcours EMILE pendant toute l'année scolaire, et ce après un avis positif d'un organe compétent en la matière, basé au moins sur une connaissance et une maîtrise suffisantes de la langue d'enseignement de la part du jeune;
+
+3° que l'offre réponde à la norme de qualité définie par le Gouvernement flamand [<sup>2</sup> qui est fixée au plus tard le 15 février 2014]<sup>2</sup> . La norme de qualité comprend uniquement des conditions au niveau :
+
+a) des compétences du personnel qui dispensera ces cours pour ce qui est de la méthodique EMILE par rapport à la branche même;
+
+b) de la connaissance exigée de la langue cible des membres du personnel;
+
+c) d'une communication ponctuelle avec les parents et les jeunes, tout en proposant le choix explicite entre EMILE ou non-EMILE;
+
+d) de l'intégration de cette offre dans une politique linguistique cohérente tant pour la langue d'enseignement que pour les langues étrangères, avec une formulation d'objectifs stratégiques explicites;
+
+e) du monitoring des résultats et des gains d'apprentissage des élèves dans la matière/le sujet, dans la langue cible et en néerlandais standard;
+
+f) des démarches à suivre par une école désirant organiser un projet EMILE (analyse de la situation initiale, communication, formuler des objectifs, dresser un plan d'action et l'opérationnaliser);
+
+4° que le centre veille à ce que la connaissance de la langue d'enseignement continue à avoir la priorité chez les jeunes et que le caractère néerlandophone du centre soit maintenu;
+
+5° qu'un plan soit élaboré au préalable et que celui-ci soit approuvé par le service compétent de la Communauté flamande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-19/57, art. III.72, 015; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. III.65, 018; En vigueur : 15-02-2014&gt;
+
+##### Art. 32
+
+§ 1er. [<sup>4</sup> Le Gouvernement flamand détermine en étroite concertation avec les secteurs professionnels, le " Sociaal-Economische Raad van Vlaanderen ", et le conseil d'administration [<sup>5</sup> du VDAB]<sup>5</sup>, les cadres de référence fixés par le Gouvernement flamand avant le 1er janvier 2014 qui sont abrogés et les qualifications professionnelles qui les remplacent. De ces qualifications professionnelles sont intégralement dérivés les objectifs pour la formation a vocation professionnelle des formations dans le cadre de l'apprentissage.]<sup>4</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+Pour une formation dispensée aussi bien dans l'apprentissage que dans l'enseignement secondaire professionnel à temps partiel, le même cadre de référence s'applique. Si l'apprentissage et l'enseignement secondaire professionnel à temps partiel utilisent le même cadre de référence, ceci s'applique à partir de la même année scolaire.
+
+§ 2. Les dispositions du § 1er ne sont pas applicables aux formations durant l'apprentissage qui sont organisées par les centres dans l'attente de l'offre de formation établie après un screening, tel que visé à l'article 23, § 1er. Le cas échéant, les programmes approuvés par le conseil d'administration [<sup>5</sup> du VDAB]<sup>5</sup> sont utilisés comme cadre de référence, où sont décrits les objectifs pédagogiques et les contenus didactiques minimums de la formation en question.
+
+DROIT FUTUR (jamais entrer en vigueur)
+
+Art. 32. § 1er. [<sup>2</sup> La formation à vocation professionnelle des formations dans le cadre de l'apprentissage comprend les qualifications professionnelles reconnues tels que visées au décret du 30 avril 2009 relatif à la structure des certifications. Tant qu'il n'existe pas de qualification professionnelle reconnue, le Gouvernement flamand détermine les cadres de référence dont sont dérivées les compétences pour la formation à vocation professionnelle des formations dans le cadre de l'apprentissage. Les compétences sont, tout comme les qualifications professionnelles reconnues, déterminées en recourant aux éléments de descripteur du cadre des certifications et garantissent l'application d'une éventuelle réglementation européenne, fédérale ou flamande concernant l'exercice de la profession.
+
+Le SERV et [<sup>3</sup> le conseil d'administration de Syntra Vlaanderen]<sup>3</sup> seront invités à donner leur avis sur l'arrêté fixant les cadres de référence, le processus et les acteurs pour atteindre ces compétences.]<sup>2</sup>
+
+Les objectifs garantissent l'application d'une éventuelle réglementation européenne, fédérale ou flamande concernant l'exercice de la profession.
+
+Pour une formation dispensée aussi bien dans l'apprentissage que dans l'enseignement secondaire professionnel à temps partiel, le même cadre de référence s'applique. Si l'apprentissage et l'enseignement secondaire professionnel à temps partiel utilisent le même cadre de référence, ceci s'applique à partir de la même année scolaire.
+
+§ 2. Les dispositions du § 1er ne sont pas applicables aux formations durant l'apprentissage qui sont organisées par les centres dans l'attente de l'offre de formation établie après un screening, tel que visé à l'article 23, § 1er. Le cas échéant, les programmes approuvés par le conseil d'administration de Syntra Vlaanderen sont utilisés comme cadre de référence, où sont décrits les objectifs pédagogiques et les contenus didactiques minimums de la formation en question.
+
+----------
+
+(1)&lt;DCFL 2009-04-30/B4, art. 49, 002; En vigueur : 26-07-2009&gt;
+
+(2)&lt;DCFL 2010-07-09/26, art. III.45, 007; En vigueur : indéterminée &gt;
+
+(3)&lt;DCFL 2011-07-01/33, art. III.34, 010; En vigueur : 01-09-2010&gt;
+
+(4)&lt;DCFL 2014-04-25/L8, art. III.66, 018; En vigueur : 01-01-2014&gt;
+
+(5)&lt;DCFL 2020-06-19/14, art. 30, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 33
+
+[<sup>1</sup> Pour l'octroi de titres de fin d'études liés au degré ou à l'année d'études, identiques à ceux de l'enseignement secondaire professionnel ordinaire à temps plein, les dispositions concernant les objectifs finaux et les programmes d'études, basés sur ces objectifs sont d'application à la formation générale de l'apprentissage, telle que visée à la partie IV, titre 1er, chapitre 1er, section 3, du Code de l'Enseignement secondaire du 17 décembre 2010, à l'exception des objectifs finaux et des programme d'études liés au cours d'éducation physique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-06-19/14, art. 31, 032; En vigueur : 31-12-2021&gt;
+
+#### Sous-section V. - Organisation de la formation à temps partiel.
+
+##### Art. 34
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 94, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 35
+
+&lt;Abrogé par DCFL 2020-07-03/39, art. 81, 030; En vigueur : 01-09-2020&gt;
+
+##### Art. 36
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 96, 028; En vigueur : 01-09-2019&gt;
+
+### Section III. - Groupe cible.
+
+#### Sous-section Ire. - Autorisation.
+
+##### Art. 37
+
+[<sup>1</sup> Pour l'enseignement secondaire professionnel à temps partiel, les dispositions de la présente sous-section doivent être lues conjointement aux dispositions de la partie III, titre 2, chapitre 1/1, du Codes de l'Enseignement secondaire et aux dispositions du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2011-11-25/11, art. IV.1, 012; En vigueur : 01-09-2012&gt;
+
+##### Art. 38
+
+Dans l'enseignement secondaire professionnel à temps partiel et durant l'apprentissage, financé ou subventionné par la Communauté flamande, aucun droit d'inscription direct ou indirect ne peut être demandé.
+
+Par droits d'inscription indirects, on entend les frais demandés par la direction du centre, au début ou au cours de l'année scolaire, dont le montant est à ce point élevé qu'il constitue une entrave réelle à l'inscription.
+
+La direction du centre arrête la liste des contributions financières qui peuvent être demandées aux personnes concernées, ainsi que les dérogations par rapport au régime de contribution qui peuvent être autorisées, le cas échéant en tenant compte de la législation ou de la réglementation en matière de droit de parole et de participation.
+
+##### Art. 39
+
+§ 1er. L'enseignement secondaire professionnel à temps partiel et l'apprentissage sont accessibles aux jeunes qui, d'une part, ont satisfait aux conditions de l'obligation scolaire à temps plein et qui, d'autre part, n'ont pas encore atteint l'age de 25 ans. Les jeunes peuvent être suivis au plus tard jusqu'à la fin de l'année scolaire au cours de laquelle ils atteignent l'âge de 25 ans.
+
+Par dérogation à ce qui précède, un jeune peut obtenir l'autorisation exceptionnelle de suivre, à partir du début de l'année scolaire durant laquelle il est soumis à l'obligation scolaire à temps partiel, l'enseignement secondaire professionnel à temps partiel ou l'apprentissage. [<sup>3</sup> Cette autorisation est accordée par la direction du centre d'enseignement secondaire professionnel à temps partiel ou par la direction du centre de formation des indépendants et des petites et moyennes entreprises en question sur avis du centre d'encadrement des élèves avec lequel collabore l'établissement d'enseignement à temps plein où le jeune suit les cours]<sup>3</sup>.
+
+§ 2. [<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-03-30/37, art. 97, 028; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 82, 030; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2020-06-19/14, art. 32, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 40
+
+[<sup>1</sup> Un jeune ne peut pas être admis dans une formation de l'enseignement secondaire professionnel à temps partiel ou en apprentissage s'il est déjà en possession d'un certificat de fin d'études de la même formation, obtenu dans l'enseignement secondaire, dans l'éducation des adultes, en apprentissage ou dans [<sup>3</sup> le parcours d'entrepreneuriat]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>4</sup> Au 1er alinéa, on entend par parcours d'entrepreneuriat : un parcours tel que visé à l'article 26/2, § 1er, 2°, du décret du 16 mars 2012 relatif à la politique d'aide économique.]<sup>4</sup>
+
+Un jeune ne peut pas être admis dans un module de formation de l'enseignement secondaire professionnel à temps partiel s'il a déjà suivi avec succès ce module dans l'enseignement secondaire ou dans l'éducation des adultes.
+
+----------
+
+(2)&lt;DCFL 2012-12-21/65, art. III.40, 014; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2018-06-15/18, art. 53, 027; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFL 2020-06-19/14, art. 33, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 41
+
+Pour l'admission dans un certain module de formation de l'enseignement professionnel secondaire à temps partiel, des conditions d'accès sont arrêtées par le Gouvernement flamand. Ces conditions d'accès peuvent uniquement se rapporter à une formation préalable ou à une aptitude médicale. Pour autant qu'une formation soit organisée de manière non modulaire, des conditions d'accès peuvent également être fixées, se rapportant à une aptitude médicale.
+
+Au niveau individuel, il peut toutefois être dérogé aux conditions d'accès relatives à une formation préalable, consécutivement à une décision motivée du conseil de classe. Cette décision signifie que le conseil de classe estime que la formation générale et à vocation professionnelle d'un ou de plusieurs modules préalables non suivis au sein de la formation a déjà été acquise précédemment. Le cas échéant, le centre d'enseignement secondaire professionnel à temps partiel délivré une attestation d'exemption.
+
+En cas de changement de centre d'enseignement secondaire professionnel à temps partiel, une attestation d'exemption reste valable, sauf s'il apparaît clairement que l'attestation a été obtenue sans que le jeune ait eu l'intention de suivre réellement et régulièrement une formation dans le centre de délivrance de l'attestation.
+
+##### Art. 42
+
+&lt;Abrogé par DCFL 2016-06-17/24, art. III.52, 020; En vigueur : 01-09-2016&gt;
+
+##### Art. 42bis
+
+[<sup>1</sup> A l'égard des élèves [<sup>3</sup> qui passent d'une école ou d'un centre ayant un système d'enseignement étranger ou d'une école ou d'un centre agréé par la Communauté française ou germanophone de Belgique]<sup>3</sup> qui :
+
+a) soit sont en âge de scolarité partielle tel que défini par la loi du 29 juin 1983;
+
+b) soit optent explicitement pour l'enseignement secondaire professionnel à temps partiel,
+
+une décision favorable du conseil de classe d'un centre d'enseignement secondaire professionnel à temps partiel choisi par les personnes intéressées vaut comme condition d'admission, sous réserve d'autres conditions d'admission éventuellement imposées par le Gouvernement flamand. [<sup>2</sup> Pour sa décision, le conseil de classe tient compte de l'avis du conseil de classe de l'année d'accueil lorsqu'il s'agit d'un passage de l'année d'accueil à un enseignement complémentaire, visé à l'article 146, § 4, du Code de l'Enseignement secondaire. Toute décision déviant de l'avis est suffisamment motivée.]<sup>2</sup>
+
+Pour les élèves en question, le Gouvernement flamand ne peut jamais définir des conditions d'admission pour ce qui est de la formation préalable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2011-07-01/33, art. III.35, 010; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. III.67, 018; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFL 2018-06-15/18, art. 54, 027; En vigueur : 01-09-2018&gt;
+
+##### Art. 43
+
+Durant l'apprentissage, [<sup>1</sup> le conseil d'administration [<sup>2</sup> du VDAB]<sup>2</sup>]<sup>1</sup> peut fixer, pour certaines formations, des conditions d'accès particulières relatives à l'âge ou à une formation préalable.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 55, 027; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 34, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 44
+
+Une inscription directe dans un centre pour satisfaire à la composante apprentissage est uniquement possible dans un centre d'enseignement secondaire professionnel à temps partiel ou, via l'accompagnateur de parcours [<sup>2</sup> ...]<sup>2</sup>, dans un centre de formation des indépendants et des petites et moyennes entreprises.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-03-30/37, art. 98, 028; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-06-19/14, art. 35, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 45
+
+[<sup>1</sup> § 1er. Préalablement à une inscription et à chaque modification, un centre d'enseignement secondaire professionnel à temps partiel ou un [<sup>2</sup> centre de formation des indépendants et des petites et moyennes entreprises]<sup>2</sup> doit, selon le cas, informer les personnes intéressées du règlement du centre, tout en tenant compte des principes suivants :
+
+1° préalablement à une inscription, le règlement de centre est offert de manière écrite ou sur support électronique et les personnes intéressées y conviennent par écrit;
+
+2° à chaque modification du règlement de centre, les personnes intéressées en sont informées par écrit ou par support électronique, et elles renouvellent leur accord par écrit. Si les personnes intéressées déclarent ne pas être d'accord avec la modification, il est mis fin à l'inscription de l'élève le 31 août de l'année scolaire en cours;
+
+3° la direction du centre demande aux personnes intéressées si elles désirent recevoir une version papier du règlement de centre;
+
+4° une modification du règlement de centre peut au plus tôt prendre effet l'année scolaire suivante, sauf si cette modification est la conséquence directe d'une nouvelle réglementation.
+
+§ 2. Pour les matières faisant l'objet d'un choix individuel de la part des personnes intéressées garanti par une réglementation, ce choix individuel ne peut pas être réglé par le biais du règlement de centre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2011-07-01/33, art. III.36, 010; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2018-06-15/18, art. 56, 027; En vigueur : 01-09-2018&gt;
+
+##### Art. 46
+
+Après inscription dans l'enseignement secondaire professionnel à temps partiel ou à l'apprentissage, le jeune est inscrit au VDAB en tant qu'apprenant à temps partiel.
+
+##### Art. 47
+
+L'inscription dans un centre d'enseignement secondaire professionnel à temps partiel ou dans un centre de formation des indépendants et des petites et moyennes entreprises est uniquement possible sur la base de l'ensemble des conditions suivantes :
+
+1° le jeune répond au plus tard le premier jour de cours aux conditions d'admission;
+
+2° les personnes concernées approuvent le projet pédagogique et le règlement du centre;
+
+3° le jeune est prêt à se soumettre à un screening et à un accompagnement de parcours tels que visés aux articles 62 et 63.
+
+##### Art. 48
+
+&lt;Abrogé par DCFL 2011-11-25/11, art. IV.2, 012; En vigueur : 01-09-2012&gt;
+
+##### Art. 49
+
+[<sup>1</sup> Il est immédiatement mis fin à l'inscription dans le centre d'un jeune qui ne s'inscrit qu'après la fin de son obligation scolaire dans l'enseignement secondaire professionnel à temps partiel, lorsqu'il ressort du screening visé à l'article 62 qu'il n'est pas inséré dans le marché du travail ou [<sup>2</sup> une composante de démarrage]<sup>2</sup>.]<sup>1</sup>
+
+Pour un jeune, l'inscription dans un centre de formation des indépendants et des petites et moyennes entreprises prend fin immédiatement s'il découle du screening visé à l'article 62 qu'il n'est pas intégré dans la participation au marché de l'emploi [<sup>2</sup> ou dans la composante de démarrage]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. III.24, 023; En vigueur : 01-09-2017&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 83, 030; En vigueur : 01-09-2020&gt;
+
+##### Art. 49bis
+
+[<sup>1</sup> A l'égard des élèves [<sup>3</sup> qui passent d'une école ou d'un centre ayant un système d'enseignement étranger ou d'une école ou d'un centre agréé par la Communauté française ou germanophone de Belgique]<sup>3</sup> qui :
+
+a) soit sont en âge de scolarité partielle tel que défini par la loi du 29 juin 1983;
+
+b) soit optent explicitement pour l'apprentissage;
+
+[<sup>3</sup> une décision favorable du conseil de classe d'un centre de formation des indépendants et des petites et moyennes entreprises choisi par les personnes concernées]<sup>3</sup> vaut comme condition d'admission, sous réserve d'autres conditions d'admission éventuellement imposées par le Gouvernement flamand.]<sup>1</sup> [<sup>2</sup> [<sup>3</sup> Pour sa décision, le conseil de classe tient compte de]<sup>3</sup> l'avis du conseil de classe de l'année d'accueil lorsqu'il s'agit d'un passage de l'année d'accueil à un enseignement complémentaire, visé à l'article 146, § 4, du Code de l'Enseignement secondaire. Toute décision déviant de l'avis est suffisamment motivée.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2011-07-01/33, art. III.37, 010; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. III.68, 018; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFL 2018-06-15/18, art. 57, 027; En vigueur : 01-09-2018&gt;
+
+#### Sous-section II.
+
+&lt;Abrogé par DCFL 2014-04-04/85, art. IV.3, 016; En vigueur : 01-09-2014&gt;
+
+##### Art. 50
+
+&lt;Abrogé par DCFL 2014-04-04/85, art. IV.3, 016; En vigueur : 01-09-2014&gt;
+
+##### Art. 51
+
+&lt;Abrogé par DCFL 2014-04-04/85, art. IV.3, 016; En vigueur : 01-09-2014&gt;
+
+##### Art. 52
+
+&lt;Abrogé par DCFL 2014-04-04/85, art. IV.3, 016; En vigueur : 01-09-2014&gt;
+
+##### Art. 53
+
+&lt;Abrogé par DCFL 2014-04-04/85, art. IV.3, 016; En vigueur : 01-09-2014&gt;
+
+##### Art. 54
+
+&lt;Abrogé par DCFL 2014-04-04/85, art. IV.3, 016; En vigueur : 01-09-2014&gt;
+
+##### Art. 55
+
+&lt;Abrogé par DCFL 2014-04-04/85, art. IV.3, 016; En vigueur : 01-09-2014&gt;
+
+##### Art. 56
+
+&lt;Abrogé par DCFL 2014-04-04/85, art. IV.3, 016; En vigueur : 01-09-2014&gt;
+
+#### Sous-section III. - Présence obligatoire.
+
+##### Art. 57
+
+Les dispositions de cette sous-section doivent être lues conjointement aux dispositions de la loi du 29 juin 1983 concernant l'obligation scolaire, dans la mesure où il n'y est pas dérogé.
+
+##### Art. 58
+
+[<sup>1</sup> Dès que le jeune commence effectivement à fréquenter les cours, il doit suivre de manière assidue une formation ou une instruction, sauf en cas d'absence justifiée, auprès d'un centre d'enseignement secondaire professionnel à temps partiel ou auprès d'un centre de formation des indépendants et des petites et moyennes entreprises.]<sup>1</sup> [<sup>2</sup> Par dérogation à la disposition précédente, le jeune dans l'enseignement secondaire professionnel à temps partiel [<sup>3</sup> , qui dispose d'un rapport IAC visé à l'article 294, § 2, 1°, du Code de l'enseignement secondaire,]<sup>3</sup> doit, dès qu'il commence effectivement à fréquenter les cours, suivre effectivement et régulièrement le programme adapté individuellement établi par le conseil de classe, sauf en cas d'absence justifiée.]<sup>2</sup> [<sup>3</sup> Par dérogation à la première phrase, le jeune de l'enseignement secondaire professionnel à temps partiel, qui dispose d'un rapport OV4 visé à l'article 294, § 2, 2°, du Code de l'enseignement secondaire, doit, dès qu'il commence effectivement à fréquenter les cours, suivre effectivement et régulièrement le programme d'études commun, sauf en cas d'absence justifiée, et compte tenu des dispositions de l'article 122/1/1 du Code de l'enseignement secondaire.]<sup>3</sup>
+
+Le Gouvernement flamand arrête les absences qui sont légalement autorisées et les absences qui peuvent être autorisées par le centre. Le Gouvernement flamand arrête également les mesures qui sont prises en cas d'absences problématiques. En vue de l'exécution de cette disposition, le Gouvernement flamand applique des critères objectifs, dont notamment la durée et la nature de l'absence.
+
+----------
+
+(1)&lt;DCFL 2011-11-25/11, art. IV.3, 012; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCFL 2016-06-17/24, art. III.53, 020; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2023-05-05/07, art. 123, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 58/1.
+
+[<sup>1</sup> En prenant appui sur des arguments pédagogiques spécifiques et en vue de proposer plus de parcours d'apprentissage individuels, l'autorité du centre peut décider de déroger, pour un jeune ou groupe de jeunes, à la condition visée à la première phrase de de l'alinéa 1er de l'article 58, selon les modalités suivantes :
+
+1° l'exemption individuelle de suivre certaines subdivisions de la formation pendant une partie de l'année scolaire ou l'année scolaire complète et le remplacement par d'autres subdivisions qui ne portent pas atteinte à la finalité de la subdivision structurelle, à condition que le conseil de classe du centre d'enseignement secondaire professionnel à temps partiel ou de l'équipe d'accompagnement du centre de formation des indépendants et des petites et moyennes entreprises, suivant le cas, prenne une décision favorable après l'accord des personnes concernées, pour un jeune à besoins éducatifs spécifiques en raison :
+
+a) soit de sa nature surdouée, constatée sur la base d'une évaluation diagnostique actionnelle effectuée par le centre d'encadrement des élèves ;
+
+b) soit de difficultés d'apprentissage temporaires ou de retards scolaires pour certaines subdivisions de la formation, ne relevant pas de l'application de l'article 30/1 ou de l'article 31 ;
+
+2° le cas échéant :
+
+a) des exemptions individuelles ne peuvent jamais être accordées pour l'ensemble de la formation générale ou l'ensemble de la formation à caractère professionnel ;
+
+b) des exemptions individuelles et des remplacements sont fixés par écrit et motivés ;
+
+c) des exemptions individuelles et des remplacements ne portent pas préjudice à la validation des études.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-06-16/24, art. III.25, 023; En vigueur : 01-09-2017&gt;
+
+##### Art. 59
+
+Durant la période où un jeune suit une formation ou une instruction, il doit suivre la composante apprentissage sur le lieu du travail de manière assidue, sauf en cas d'absence justifiée ou considérée comme telle par la loi, le décret ou l'arrêté, ou dans les cas visés à l'article 6, § 3.
+
+Le Gouvernement flamand arrête les mesures qui sont prises en cas d'absences problématiques au cours de l'apprentissage sur le lieu du travail. En vue de l'exécution de cette disposition, le Gouvernement flamand applique des critères objectifs, dont notamment la durée et la nature de l'absence. Comme mesure, des sanctions sont notamment possibles sous forme de retenues sur des allocations financières ou des incitants pour l'élève, associés à différentes formes d'apprentissage sur le lieu du travail.
+
+##### Art. 60
+
+Un jeune qui a été inscrit avant la fin de son obligation scolaire dans un enseignement secondaire professionnel à temps partiel et qui a été absent sans motif légitime durant 30 jours au cours d'une année scolaire là où il était sensé compléter [<sup>2</sup> ...]<sup>2</sup>, [<sup>2</sup> une composante de démarrage]<sup>2</sup> ou une participation au marché de l'emploi, est, ces 30 jours écoulés, dés inscrit par le centre d'enseignement secondaire professionnel à temps partiel dans le cas où il n'est plus soumis à l'obligation scolaire.
+
+Un jeune qui a été inscrit après la fin de son obligation scolaire dans l'enseignement secondaire professionnel à temps partiel et qui a été absent sans motif légitime durant 30 jours au cours d'une année scolaire là où il était sensé concrétiser une participation au marché de l'emploi, est, ces 30 jours écoulés, dés inscrit par le centre d'enseignement secondaire professionnel à temps partiel.
+
+Un jeune qui a été absent sans motif légitime durant 30 jours au cours d'une année scolaire là où il était sensé compléter [<sup>2</sup> une composante de démarrage]<sup>2</sup> ou une participation au marché de l'emploi, est, ces 30 jours écoulés, dés inscrit par le centre de formation des indépendants et des petites et moyennes entreprises.
+
+[<sup>1</sup> Dans chacun de ces cas, le centre qui désinscrit peut refuser de réinscrire le jeune concerné pendant la même année scolaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-06-17/24, art. III.54, 020; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFL 2018-03-30/37, art. 99, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 61
+
+Durant les périodes où le jeune complète effectivement la composante apprentissage sur le lieu du travail, un représentant du centre d'enseignement secondaire professionnel à temps partiel où le jeune est inscrit ou un accompagnateur de parcours [<sup>1</sup> dans un centre de formation d'indépendants et de petites et moyennes entreprises]<sup>1</sup> est disponible. Cette obligation ne peut toutefois pas porter préjudice aux droits statutaires des membres du personnel individuellement. Si l'exécution de cette disposition entraîne pour les membres du personnel des obligations qui n'auraient pas existe autrement, la direction du centre doit prévoir un régime de compensation adapté. Ce régime requiert l'accord exprès, écrit et préalable du membre du personnel concerné et est, le cas échéant, négocié au comité local compétent.
+
+----------
+
+(1)&lt;DCFL 2020-06-19/14, art. 36, 032; En vigueur : 31-12-2021&gt;
+
+##### Art. 61bis
+
+&lt;Abrogé par DCFL 2016-06-17/24, art. III.55, 020; En vigueur : 01-09-2016&gt;
+
+#### Sous-section IV. - Screening et accompagnement de parcours.
+
+##### Art. 62
+
+Chaque jeune qui s'inscrit dans un centre d'enseignement secondaire professionnel à temps partiel [<sup>3</sup> ou un centre de formation des indépendants et des petites et moyennes entreprises]<sup>3</sup> est soumis à un screening par ce centre.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> Lors de l'inscription, le screening n'est cependant pas obligatoire s'il s'agit d'un jeune ayant déjà été fait l'objet d'un screening dans le cadre d'une inscription antérieure auprès dans un autre centre ou dans le même centre. Si le centre, [<sup>3</sup> ...]<sup>3</sup> renonce à un nouveau screening, le résultat du screening précédent reste valable.]<sup>1</sup>
+
+Le screening concerne la maturité au travail, les centres d'intérêt, la motivation et les compétences acquises précédemment.
+
+Les moyens ou méthodes du screening doivent, pour ce qui concerne la composante apprentissage sur le lieu du travail, être validés par le [<sup>2</sup> Gouvernement flamand]<sup>2</sup> en vue d'en garantir la qualité.
+
+Le résultat du screening est une intégration du jeune, soit dans la participation au marché de l'emploi, [<sup>2</sup> soit dans la composante de démarrage]<sup>2</sup> [<sup>2</sup> ...]<sup>2</sup>, [<sup>2</sup> soit dans un NAFT]<sup>2</sup>. [<sup>2</sup> Pour un NAFT, un avis du centre d'encadrement des élèves est requis. Si un jeune est inscrit, à une date à fixer par le Gouvernement flamand, à un parcours préalable, ce jeune parcourt à nouveau un screening en vue d'une intégration dans un NAFT, une composante de démarrage ou une participation au marché de l'emploi.]<sup>2</sup>.
+
+Le résultat du screening détermine si l'inscription dans un centre d'enseignement secondaire professionnel à temps partiel ou un centre de formation des indépendants et des petites et moyennes entreprises prend fin ou non, tel que visé à l'article 49.
+
+Le résultat du screening est intégré dans un système de suivi de parcours du VDAB.
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.35, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2018-03-30/37, art. 100, 028; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2020-07-03/39, art. 84,1°-3°, 030; En vigueur : 01-09-2020&gt;
+
+##### Art. 62 DROIT FUTUR.
+
+Chaque jeune qui s'inscrit dans un centre d'enseignement secondaire professionnel à temps partiel [<sup>3</sup> ou un centre de formation des indépendants et des petites et moyennes entreprises]<sup>3</sup> est soumis à un screening par ce centre.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> Lors de l'inscription, le screening n'est cependant pas obligatoire s'il s'agit d'un jeune ayant déjà été fait l'objet d'un screening dans le cadre d'une inscription antérieure auprès dans un autre centre ou dans le même centre. Si le centre, [<sup>3</sup> ...]<sup>3</sup> renonce à un nouveau screening, le résultat du screening précédent reste valable.]<sup>1</sup>
+
+Le screening concerne la maturité au travail, les centres d'intérêt, la motivation et les compétences acquises précédemment.
+
+Les moyens ou méthodes du screening doivent, pour ce qui concerne la composante apprentissage sur le lieu du travail, être validés par le [<sup>2</sup> Gouvernement flamand]<sup>2</sup> en vue d'en garantir la qualité.
+
+[<sup>4</sup> Le résultat du screening est une intégration du jeune dans la participation au marché de l'emploi ou dans la composante de démarrage.]<sup>4</sup>
+
+Le résultat du screening détermine si l'inscription dans un centre d'enseignement secondaire professionnel à temps partiel ou un centre de formation des indépendants et des petites et moyennes entreprises prend fin ou non, tel que visé à l'article 49.
+
+Le résultat du screening est intégré dans un système de suivi de parcours du VDAB.
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.35, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2018-03-30/37, art. 100, 028; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2020-07-03/39, art. 84,1°-3°, 030; En vigueur : 01-09-2020&gt;
+
+(4)&lt;DCFL 2020-07-03/39, art. 84,4°, 030; En vigueur : 01-09-2021&gt;
+
+##### Art. 63
+
+[<sup>1</sup> L'accompagnement de parcours a comme objectif ultime de guider le jeune à un rythme adapté vers la participation au marché de l'emploi.
+
+Lors de l'intégration, soit dans la participation au marché de l'emploi, soit dans la composante de démarrage, un plan d'accompagnement de parcours est établi par l'accompagnateur de parcours du centre d'enseignement secondaire professionnel à temps partiel ou par l'accompagnateur de parcours du centre de formation des indépendants et des petites et moyennes entreprises, en concertation avec les acteurs associés à la concrétisation de la composante apprentissage et la composante apprentissage sur le lieu du travail.
+
+Tous les deux mois, une concertation a lieu entre l'accompagnateur de parcours du centre d'enseignement secondaire professionnel à temps partiel ou l'accompagnateur de parcours du centre de formation des indépendants et des petites et moyennes entreprises, le centre d'encadrement des élèves, et si nécessaire l'Office flamand de l'Emploi et de la Formation professionnelle, en vue d'une correction éventuelle du plan d'accompagnement de parcours.
+
+Les phases successives que le jeune accomplit durant son parcours sont enregistrées dans le système de suivi de parcours de l'Office flamand de l'Emploi et de la Formation professionnelle.
+
+Dans l'alinéa 4, on entend par phases : la composante de démarrage et la participation au marché de l'emploi.
+
+En cas d'accompagnement de parcours, on peut faire appel à l'appui secondaire par un médiateur de l'Office flamand de l'Emploi et de la Formation professionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-03-30/37, art. 101, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 64
+
+Le screening visé à l'article 62 est réalisé le plus rapidement possible et au plus tard le 14 septembre de l'année scolaire à laquelle se rapporte l'inscription ou, en cas d'inscription tardive, dans les 14 jours suivant cette inscription. En fonction du résultat du screening, le jeune est immédiatement intégré dans la participation au marché de l'emploi, [<sup>1</sup> la composante de démarrage]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup> ou [<sup>1</sup> le NAFT]<sup>1</sup>
+
+La mise sur pied du programme d'accompagnement de parcours tel que visé à l'article 63 est réalisée le plus rapidement possible et au plus tard un mois après le screening.
+
+----------
+
+(1)&lt;DCFL 2018-03-30/37, art. 102, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 64 DROIT FUTUR.
+
+Le screening visé à l'article 62 est réalisé le plus rapidement possible et au plus tard le 14 septembre de l'année scolaire à laquelle se rapporte l'inscription ou, en cas d'inscription tardive, dans les 14 jours suivant cette inscription. [<sup>2</sup> En fonction du résultat du screening, le jeune est immédiatement intégré dans la participation au marché de l'emploi ou dans la composante de démarrage.]<sup>2</sup>
+
+La mise sur pied du programme d'accompagnement de parcours tel que visé à l'article 63 est réalisée le plus rapidement possible et au plus tard un mois après le screening.
+
+----------
+
+(1)&lt;DCFL 2018-03-30/37, art. 102, 028; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 85, 030; En vigueur : 01-09-2021&gt;
+
+##### Art. 65
+
+&lt;Abrogé par DCFL 2020-07-03/39, art. 86, 030; En vigueur : 01-09-2020&gt;
+
+### Section IV. - Evaluation et validation des études.
+
+#### Sous-section Ire. - Enseignement secondaire professionnel à temps partiel.
+
+##### Art. 66
+
+Le conseil de classe dispose en tant qu'organe, institué par la direction du centre, de la compétence exclusive de décider si un jeune a réussi une formation ou un module.
+
+Le conseil de classe détermine sous quelle forme le jeune est individuellement évalué et vérifie dans ce contexte s'il a atteint de manière suffisante les objectifs du module ou de la formation, selon le cas, pour acquérir un titre reconnu par la Communauté flamande. Lors de la prise des décisions d'évaluation, il est tenu compte des données concrètes du dossier du jeune, en particulier des résultats découlant de l'évaluation du jeune durant l'année scolaire.
+
+Le conseil de classe prend une décision de manière motivée et la communique par écrit et de manière motivée aux personnes concernées. Les décisions du conseil de classe sont consignées dans un procès-verbal et un compte-rendu est rédigé. Le procès-verbal comporte la liste des jeunes qui ont réussi et des jeunes qui n'ont pas réussi. Le compte-rendu comporte une synthèse des éléments qui ont conduit à la décision, dont notamment le résultat d'un vote éventuel. Les procès-verbaux et les comptes-rendus doivent être conservés durant 30 ans.
+
+##### Art. 67
+
+Le conseil de classe se compose de :
+
+1° membres ayant d'office voix délibérative, qui disposent chacun d'une voix : d'une part le directeur ou un représentant du directeur, qui préside le conseil de classe, et d'autre part tous les membres du personnel enseignant qui ont délivré un cours ou assuré l'accompagnement de parcours au jeune.
+
+2° éventuellement des membres ayant d'office voix consultative, désignés par le président : d'une part d'autres membres du personnel du centre d'enseignement secondaire professionnel à temps partiel ou des personnes externes au centre, s'ils sont impliqués dans l'accompagnement psychosocial ou pédagogique du jeune, et d'autre part des experts de la formation ou du module à évaluer.
+
+Le Gouvernement flamand peut fixer les modalités concernant l'organisation et le fonctionnement du conseil de classe.
+
+##### Art. 68
+
+&lt;Abrogé par DCFL 2015-06-19/33, art. III.24, 019; En vigueur : 01-09-2014&gt;
+
+##### Art. 69
+
+La validation des études sous forme de la délivrance de titres, tels que visés dans la présente sous-section, peut avoir lieu à tout moment de l'année scolaire.
+
+##### Art. 69/1
+
+[<sup>1</sup> Les centres sont autorisés à conférer, aux porteurs du titre, une attestation en remplacement d'un titre perdu. L'attestation mentionne la date de délivrance du titre.
+
+Les personnes ayant obtenu, par application de la législation relative aux noms et prénoms, une modification de leur nom ou prénom, peuvent introduire, auprès des centres où ils ont obtenu un titre ou auprès de la Communauté flamande, une demande pour faire remplacer le titre par un titre portant leur nouveau nom.
+
+La demande doit être assortie du titre original obtenu et des pièces prouvant le changement du nom.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-12-21/65, art. III.41, 014; En vigueur : 01-09-2012&gt;
+
+##### Art. 70
+
+Un jeune qui a suivi avec succès un module de formation dans un centre d'enseignement secondaire professionnel à temps partiel, à la suite d'une décision du conseil de classe, reçoit un certificat partiel.
+
+Un jeune qui n'a pas suivi avec succès un module de formation dans un centre d'enseignement secondaire professionnel à temps partiel, à la suite d'une décision du conseil de classe, reçoit une attestation de compétences acquises. [<sup>1</sup> Une attestation de compétences acquises est également délivrée à des jeunes [<sup>2</sup> en possession d'un rapport IAC visé à l'article 294, § 2, 1°, du Code de l'enseignement secondaire,]<sup>2</sup> qui suivent un programme adapté individuellement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-06-17/24, art. III.56, 020; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFL 2023-05-05/07, art. 124, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 71
+
+Le jeune qui a suivi avec succès une formation dans un centre d'enseignement secondaire professionnel à temps partiel, à la suite d'une décision du conseil de classe, reçoit un certificat.
+
+En vue de l'application de cette disposition, une attestation d'exemption pour un ou plusieurs modules d'une formation dans l'enseignement secondaire professionnel à temps partiel peut être assimilée aux certificats partiels pour les modules correspondants.
+
+Le jeune qui n'a pas suivi avec succès une formation organisée de manière non modulaire dans un centre d'enseignement secondaire professionnel à temps partiel, à la suite d'une décision du conseil de classe, reçoit une attestation de compétences acquises. [<sup>1</sup> Une attestation de compétences acquises est également délivrée à des jeunes [<sup>2</sup> en possession d'un rapport IAC visé à l'article 294, § 2, 1°, du Code de l'enseignement secondaire,]<sup>2</sup> qui suivent un programme adapté individuellement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-06-17/24, art. III.57, 020; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFL 2023-05-05/07, art. 125, 037; En vigueur : 01-09-2023&gt;
+
+##### Art. 72
+
+[<sup>1</sup> § 1er. Un jeune qui répond aux conditions ci-dessous reçoit un certificat du deuxième degré de l'enseignement secondaire :
+
+1° à l'exception du premier degré, avoir passé au moins 2 années scolaires dans l'enseignement secondaire ou en apprentissage. [<sup>2</sup> A tout moment, le conseil de classe de la formation à suivre ou suivie par l'élève peut décider de réduire la durée minimale des études susvisée si cet élève présente un niveau de fonctionnement cognitif élevé ;]<sup>2</sup>
+
+2° avoir obtenu au moins 1 certificat;
+
+3° avoir atteint, suite à une décision du conseil de classe, dans une mesure suffisante les objectifs repris dans le programme d'études et avoir ainsi satisfait à l'ensemble de la formation.
+
+§ 2. Un jeune qui répond aux conditions ci-dessous reçoit un certificat d'études de la deuxième année du troisième degré de l'enseignement secondaire :
+
+1° à l'exception du premier degré, avoir passé au moins 4 années scolaires dans l'enseignement secondaire ou en apprentissage. [<sup>2</sup> A tout moment, le conseil de classe de la formation à suivre ou suivie par l'élève peut décider de réduire la durée minimale des études susvisée si cet élève présente un niveau de fonctionnement cognitif élevé ;]<sup>2</sup>
+
+2° avoir obtenu au moins 1 certificat;
+
+3° avoir atteint, suite à une décision du conseil de classe, dans une mesure suffisante les objectifs repris dans le programme d'études et avoir ainsi satisfait à l'ensemble de la formation.
+
+§ 3. Un jeune qui répond aux conditions ci-dessous reçoit un diplôme de l'enseignement secondaire :
+
+1° à l'exception du premier degré, avoir passé au moins 5 années scolaires dans l'enseignement secondaire ou en apprentissage. [<sup>2</sup> A tout moment, le conseil de classe de la formation à suivre ou suivie par l'élève peut décider de réduire la durée minimale des études susvisée si cet élève présente un niveau de fonctionnement cognitif élevé ;]<sup>2</sup>
+
+2° être en possession d'un certificat du deuxième degré de l'enseignement secondaire;
+
+3° avoir obtenu au moins 1 certificat;
+
+4° avoir atteint, suite à une décision du conseil de classe, dans une mesure suffisante les objectifs repris dans le programme d'études et avoir ainsi satisfait à l'ensemble de la formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.36, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 44, 036; En vigueur : 01-09-2023&gt;
+
+##### Art. 73
+
+Un jeune qui répond aux conditions ci-dessous reçoit un certificat de connaissance de base de la gestion d'entreprise :
+
+1° à l'exception du premier degré, avoir passé au moins 4 années scolaires dans l'enseignement secondaire ou en apprentissage. [<sup>1</sup> A tout moment, le conseil de classe de la formation à suivre ou suivie par l'élève peut décider de réduire la durée minimale des études susvisée si cet élève présente un niveau de fonctionnement cognitif élevé ;]<sup>1</sup>
+
+2° les conditions de connaissance de base de la gestion d'entreprise, telles que visées dans la loi-programme du 10 février 1998 pour la promotion de l'entreprise indépendante et l'arrêté royal du 21 octobre 1998 portant exécution du chapitre Ier du titre II de la loi-programme du 10 février 1998 pour la promotion de l'entreprise indépendante.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/17, art. 45, 036; En vigueur : 01-09-2023&gt;
+
+##### Art. 73bis.
+
+[<sup>1</sup> Dans des cas exceptionnels, le conseil de classe peut accorder à un jeune qui suit un programme adapté individuellement la validation d'études ordinaire au lieu d'une attestation de compétences acquises, à condition qu'il y ait équivalence entre les objectifs du programme d'études adapté individuellement et les objectifs, fixés par ou en vertu d'un décret ou d'une réglementation, qui sont applicables dans la subdivision structurelle que suit l'élève.
+
+L'Inspection de l'Enseignement assure le contrôle de qualité de cette compétence du conseil de classe durant l'audit de l'école.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-08/10, art. 45, 035; En vigueur : 01-09-2022&gt;
+
+##### Art. 74
+
+Le Gouvernement flamand arrête les modèles et les instructions pour remplir les titres tels que visés dans la présente sous-section.
+
+##### Art. 74bis
+
+[<sup>1</sup> Le Gouvernement flamand peut établir l'équivalence générale de titres étrangers avec les titres suivants, délivrés par des écoles d'enseignement secondaire agréées, financées ou subventionnées par la Communauté flamande :
+
+1° le certificat du deuxième degré de l'enseignement secondaire;
+
+2° le diplôme d'enseignement secondaire;
+
+3° le certificat d'études de la deuxième année d'études du troisième degré de l'enseignement secondaire;
+
+4° le certificat de connaissance de base de la gestion d'entreprise;
+
+5° le certificat d'une formation de l'enseignement secondaire professionnel à temps partiel.
+
+Lors de l'établissement de l'équivalence générale, le Gouvernement flamand tient compte :
+
+1° des qualifications d'enseignement décrites en vertu du décret du 30 avril 2009 relatif à la structure des certifications. A défaut des qualifications d'enseignement, le Gouvernement flamand utilise comme cadre de référence, le cas échéant, les objectifs finaux, les objectifs de développement ou les contenus didactiques minimums définis par des lois, décrets ou réglementations fédéraux ou flamands;
+
+2° ou des niveaux et descripteurs de niveau tels que visés par le décret du 30 avril 2009 relatif à la structure des certifications.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2011-07-01/33, art. III.40, 010; En vigueur : 01-09-2011&gt;
+
+##### Art. 74ter
+
+[<sup>1</sup> Le Gouvernement flamand fixe les conditions et la procédure, y compris une procédure de recours, de reconnaissance de l'équivalence individuelle de titres étrangers n'étant pas repris dans un arrêté tel que visé à l'article 74bis avec les titres suivants délivrés par des centres d'enseignement secondaire agréés, financés ou subventionnés par la Communauté flamande :
+
+1° le certificat du deuxième degré de l'enseignement secondaire;
+
+2° le diplôme d'enseignement secondaire;
+
+3° le certificat d'études de la deuxième année d'études du troisième degré de l'enseignement secondaire;
+
+4° le certificat de connaissance de base de la gestion d'entreprise;
+
+5° le certificat d'une formation de l'enseignement secondaire professionnel à temps partiel.
+
+Le Gouvernement flamand garantit qu'il est tenu compte dans cette procédure :
+
+1° des qualifications d'enseignement décrites en vertu du décret du 30 avril 2009 relatif à la structure des certifications. A défaut des qualifications d'enseignement, les objectifs finaux, les objectifs de développement, les objectifs finaux spécifiques, les objectifs, les profils de formation ou les contenus didactiques minimums définis par des lois, décrets ou réglementations fédéraux ou flamands, sont utilisés, le cas échéant, comme cadre de référence;
+
+2° ou des niveaux et descripteurs de niveau tels que visés par le décret du 30 avril 2009 relatif à la structure des certifications.]<sup>1</sup>
+
+[<sup>2</sup> La contribution financière que le titulaire d'un titre étranger doit payer à l'autorité de reconnaissance pour un examen relatif à la reconnaissance de l'équivalence du titre étranger s'élève à 90 euros par demande et par titre. Lorsqu'il est demandé un examen de l'équivalence du titre étranger avec indication d'une subdivision structurelle, la contribution financière s'élève à 180 euros par demande et par titre. Ce montant est annuellement adapté à l'évolution de l'indice santé. La date de référence pour l'ajustement annuel est le 1er septembre 2013. Les montants sont arrondis à l'unité la plus proche. Le Gouvernement flamand peut réduire le montant pour des groupes cibles spécifiques. Pour les demandeurs d'asile, les réfugiés et les bénéficiaires de la protection subsidiaire, la demande de reconnaissance est gratuite. Le Gouvernement flamand peut fixer les conditions d'une procédure accélérée de reconnaissance de l'équivalence individuelle de titres étrangers. Le Gouvernement flamand peut augmenter le montant jusqu'à 500 euros au maximum, si le titulaire du titre étranger opte pour cette procédure accélérée.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2011-07-01/33, art. III.41, 010; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2013-07-19/57, art. III.73, 015; En vigueur : 01-09-2013&gt;
+
+#### Sous-section II. - Apprentissage.
+
+##### Art. 75
+
+[<sup>1</sup> Un centre de formation des indépendants et des petites et moyennes entreprises crée [<sup>2</sup> un conseil de classe]<sup>2</sup> pour chaque implantation proposant l'apprentissage.]<sup>1</sup>
+
+[<sup>1</sup> [<sup>2</sup> Le conseil de classe]<sup>2</sup> se compose des membres suivants qui disposent chacun d'une seule voix délibérative : le directeur du centre ou son délégué qui préside [<sup>2</sup> le conseil de classe]<sup>2</sup>, et, en fonction du jeune, l'accompagnateur de parcours, les enseignants de la formation générale et à vocation professionnelle et un délégué du centre d'encadrement des élèves.]<sup>1</sup>
+
+[<sup>2</sup> Le conseil de classe]<sup>2</sup> peut à tout moment se faire aider par d'autres personnes qui peuvent apporter des éléments d'évaluation utiles pour l'accompagnement ou l'évaluation d'un ou plusieurs jeunes.
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. III.27, 023; En vigueur : 01-09-2017&gt;
+
+(2)&lt;DCFL 2018-06-15/18, art. 58, 027; En vigueur : 01-09-2018&gt;
+
+##### Art. 76
+
+[<sup>1</sup> Le conseil de classe]<sup>1</sup> suit les progrès et le comportement des jeunes durant la composante apprentissage et la composante apprentissage sur le lieu du travail. [<sup>1</sup> Le conseil de classe]<sup>1</sup> peut prévoir à cet effet une concertation à tout moment, mais dans tous les cas a la fin du premier semestre de chaque année scolaire, avant le 15 janvier, et à la fin de chaque année scolaire. A la fin de chaque année scolaire, [<sup>1</sup> le conseil de classe]<sup>1</sup> délibère plus particulièrement sur la suite de l'apprentissage des jeunes.
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 59, 027; En vigueur : 01-09-2018&gt;
+
+##### Art. 77
+
+[<sup>1</sup> [<sup>3</sup> [<sup>4</sup> Le conseil de classe]<sup>4</sup> décide sur le déroulement ultérieur de l'apprentissage d'un jeune et si un jeune a réussi sa formation.]<sup>3</sup>
+
+Dans ce contexte, il est tenu compte des données concrètes du dossier du jeune, en particulier des résultats découlant de l'évaluation du jeune. L'évaluation concerne la formation théorique et la formation pratique en entreprise et se fait en permanence, d'une part, pour soutenir le jeune dans son processus d'apprentissage et, d'autre part, pour décider s'il a atteint de manière suffisante les objectifs de la formation. [<sup>4</sup> Le conseil de classe]<sup>4</sup> détermine le mode d'évaluation de la progression du jeune.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-06-17/24, art. III.58, 020; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFL 2016-06-10/10, art. 54, 021; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2017-06-16/24, art. III.28, 023; En vigueur : 01-09-2017&gt;
+
+(4)&lt;DCFL 2018-06-15/18, art. 60, 027; En vigueur : 01-09-2018&gt;
+
+##### Art. 78
+
+[<sup>1</sup> [<sup>2</sup> Le conseil de classe]<sup>2</sup> se prononce par une décision motivée et notifie par écrit cette décision motivée aux personnes concernées. Les décisions de [<sup>2</sup> le conseil de classe]<sup>2</sup> sont consignées dans un procès-verbal et un compte-rendu en est rédigé. Le procès-verbal comporte la liste des jeunes qui ont réussi et ceux qui n'ont pas réussi. Le compte-rendu comporte une synthèse des éléments qui ont conduit aux décisions, y compris notamment le résultat d'un vote éventuel. Les procès-verbaux et les comptes rendus doivent être conservés durant 30 ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-16/24, art. III.29, 023; En vigueur : 01-09-2017&gt;
+
+(2)&lt;DCFL 2018-06-15/18, art. 61, 027; En vigueur : 01-09-2018&gt;
+
+##### Art. 79
+
+&lt;Abrogé par DCFL 2015-06-19/33, art. III.25, 019; En vigueur : 01-09-2014&gt;
+
+##### Art. 80
+
+La validation des études sous forme de la délivrance de titres, tels que visés dans la présente sous-section, peut avoir lieu à tout moment de l'année scolaire.
+
+##### Art. 80/1
+
+[<sup>1</sup> [<sup>2</sup> Les centres sont autorisés]<sup>2</sup> à conférer, aux porteurs du titre, une attestation en remplacement d'un titre perdu. L'attestation mentionne la date de délivrance du titre.
+
+Les personnes ayant obtenu, par application de la législation relative aux noms et prénoms, une modification de leur nom ou prénom, peuvent introduire [<sup>2</sup> auprès des centres où ils ont obtenu un certificat ou auprès de la Communauté flamande]<sup>2</sup> une demande pour faire remplacer le titre par un titre portant leur nouveau nom.
+
+La demande doit être assortie du titre obtenu à l'origine et des pièces prouvant le changement de nom.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2013-07-19/57, art. III.74, 015; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFL 2018-06-15/18, art. 62, 027; En vigueur : 01-09-2018&gt;
+
+##### Art. 81
+
+Un jeune qui a suivi avec succès une formation en apprentissage reçoit un certificat.
+
+[<sup>1</sup> Le Gouvernement flamand arrête quel certificat ou quelle combinaison de certificats donne lieu à la délivrance d'un certificat d'apprentissage.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2011-07-01/33, art. III.42, 010; En vigueur : 01-09-2011&gt;
+
+##### Art. 82
+
+[<sup>1</sup> § 1er. Un jeune qui répond aux conditions ci-dessous reçoit un certificat du deuxième degré de l'enseignement secondaire :
+
+1° à l'exception du premier degré, avoir passé au moins 2 années scolaires dans l'enseignement secondaire ou en apprentissage. [<sup>4</sup> A tout moment, le conseil de classe de la formation à suivre ou suivie par l'élève peut décider de réduire la durée minimale des études susvisée si cet élève présente un niveau de fonctionnement cognitif élevé ;]<sup>4</sup>
+
+2° avoir obtenu au moins 1 certificat;
+
+3° avoir atteint, suite à une décision [<sup>2</sup> [<sup>3</sup> du conseil de classe]<sup>3</sup>]<sup>2</sup>, dans une mesure suffisante les objectifs repris dans le programme d'études et avoir ainsi satisfait à l'ensemble de la formation.
+
+§ 2. Un jeune qui répond aux conditions ci-dessous reçoit un certificat d'études de la deuxième année du troisième degré de l'enseignement secondaire :
+
+1° à l'exception du premier degré, avoir passé au moins 4 années scolaires dans l'enseignement secondaire ou en apprentissage. [<sup>4</sup> A tout moment, le conseil de classe de la formation à suivre ou suivie par l'élève peut décider de réduire la durée minimale des études susvisée si cet élève présente un niveau de fonctionnement cognitif élevé ;]<sup>4</sup>
+
+2° avoir obtenu au moins 1 certificat;
+
+3° avoir atteint, suite à une décision [<sup>2</sup> [<sup>3</sup> du conseil de classe]<sup>3</sup>]<sup>2</sup>, dans une mesure suffisante les objectifs repris dans le programme d'études et avoir ainsi satisfait à l'ensemble de la formation.
+
+§ 3. Un jeune qui répond aux conditions ci-dessous reçoit un diplôme de l'enseignement secondaire :
+
+1° à l'exception du premier degré, avoir passé au moins 5 années scolaires dans l'enseignement secondaire ou en apprentissage. [<sup>4</sup> A tout moment, le conseil de classe de la formation à suivre ou suivie par l'élève peut décider de réduire la durée minimale des études susvisée si cet élève présente un niveau de fonctionnement cognitif élevé ;]<sup>4</sup>
+
+2° être en possession d'un certificat du deuxième degré de l'enseignement secondaire;
+
+3° avoir obtenu au moins 1 certificat;
+
+4° avoir atteint, suite à une décision [<sup>2</sup> [<sup>3</sup> du conseil de classe]<sup>3</sup>]<sup>2</sup>, dans une mesure suffisante les objectifs repris dans le programme d'études et avoir ainsi satisfait à l'ensemble de la formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.37, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2018-06-15/18, art. 63, 027; En vigueur : 01-09-2017&gt;
+
+(3)&lt;DCFL 2018-06-15/18, art. 64, 027; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFL 2023-07-07/17, art. 46, 036; En vigueur : 01-09-2023&gt;
+
+##### Art. 83
+
+&lt;Abrogé par DCFL 2019-04-05/42, art. 53, 029; En vigueur : 01-09-2019&gt;
+
+##### Art. 84
+
+Le Gouvernement flamand arrête les modèles et les instructions pour remplir les titres tels que visés dans la présente sous-section.
+
+##### Art. 84bis
+
+[<sup>1</sup> Le Gouvernement flamand peut établir l'équivalence générale de titres étrangers avec les titres suivants, délivrés dans l'apprentissage :
+
+1° le certificat du deuxième degré de l'enseignement secondaire;
+
+2° le diplôme d'enseignement secondaire;
+
+3° le certificat d'études de la deuxième année d'études du troisième degré de l'enseignement secondaire;
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+5° le certificat d'une formation en apprentissage.
+
+Lors de l'établissement de l'équivalence générale, le Gouvernement flamand tient compte :
+
+1° des qualifications d'enseignement décrites en vertu du décret du 30 avril 2009 relatif à la structure des certifications. A défaut des qualifications d'enseignement, le Gouvernement flamand utilise comme cadre de référence, le cas échéant, les objectifs finaux, les objectifs de développement ou les contenus didactiques minimums définis par des lois, décrets ou réglementations fédéraux ou flamands;
+
+2° ou des niveaux et descripteurs de niveau tels que visés par le décret du 30 avril 2009 relatif à la structure des certifications.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2011-07-01/33, art. III.43, 010; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 54, 029; En vigueur : 01-09-2019&gt;
+
+##### Art. 84ter
+
+[<sup>1</sup> Le Gouvernement flamand fixe les conditions et la procédure, y compris une procédure de recours, de reconnaissance de l'équivalence individuelle de titres étrangers n'étant pas repris dans un arrêté tel que visé à l'article 84bis avec les titres suivants, délivrés dans l'apprentissage :
+
+1° le certificat du deuxième degré de l'enseignement secondaire;
+
+2° le diplôme d'enseignement secondaire;
+
+3° le certificat d'études de la deuxième année d'études du troisième degré de l'enseignement secondaire;
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° le certificat d'une formation en apprentissage.
+
+Le Gouvernement flamand garantit qu'il est tenu compte dans cette procédure :
+
+1° des qualifications d'enseignement décrites en vertu du décret du 30 avril 2009 relatif à la structure des certifications. A défaut des qualifications d'enseignement, le Gouvernement flamand utilise comme cadre de référence, le cas échéant, les objectifs finaux, les objectifs de développement ou les contenus didactiques minimums définis par des lois, décrets ou réglementations fédéraux ou flamands;
+
+2° ou des niveaux et descripteurs de niveau tels que visés par le décret du 30 avril 2009 relatif à la structure des certifications.]<sup>1</sup>
+
+[<sup>2</sup> La contribution financière que le titulaire d'un titre étranger doit payer à l'autorité de reconnaissance pour un examen relatif à la reconnaissance de l'équivalence du titre étranger s'élève à 90 euros par demande et par titre. Lorsqu'il est demandé un examen de l'équivalence d'un titre étranger avec indication d'une subdivision structurelle, la contribution financière s'élève à 180 euros par demande et par titre. Ce montant est annuellement adapté à l'évolution de l'indice santé. La date de référence pour l'ajustement annuel est le 1er septembre 2013. Les montants sont arrondis à l'unité la plus proche. Le Gouvernement flamand peut réduire le montant pour des groupes cibles spécifiques. Pour les demandeurs d'asile, les réfugiés et les bénéficiaires de la protection subsidiaire, la demande de reconnaissance est gratuite. Le Gouvernement flamand peut fixer les conditions d'une procédure accélérée de reconnaissance de l'équivalence individuelle de titres étrangers. Le Gouvernement flamand peut augmenter le montant jusqu'à 500 euros au maximum, si le titulaire du titre étranger opte pour cette procédure accélérée.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2011-07-01/33, art. III.44, 010; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2013-07-19/57, art. III.75, 015; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2019-04-05/42, art. 55, 029; En vigueur : 01-09-2019&gt;
+
+#### Sous-section III.
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 103, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 85
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 103, 028; En vigueur : 01-09-2019&gt;
+
+### Section V. - Financement et subventionnement.
+
+#### Sous-section Ire. - Enseignement secondaire professionnel à temps partiel.
+
+##### Art. 86
+
+§ 1er. Le financement ou le subventionnement par la Communauté flamande d'un centre d'enseignement secondaire professionnel à temps partiel se traduit sous forme de :
+
+1° encadrement en personnel, tel que déterminé ci-après;
+
+2° [<sup>1</sup> budget de fonctionnement tel que visé à la codification relative à l'enseignement secondaire;]<sup>1</sup>
+
+3° [<sup>5</sup> budget de fonctionnement complémentaire qui est calculé sur la base du nombre d'élèves régulièrement inscrits dans l'enseignement secondaire professionnel à temps partiel au centre au jour de comptage, à savoir le 1er février de l'année scolaire précédente. Le montant accordé par élève est obtenu en divisant le crédit disponible par le nombre total d'élèves régulièrement inscrits aux centres d'enseignement à temps partiel au même jour de comptage, à savoir le 1er février de l'année scolaire précédente. Le Gouvernement flamand détermine le crédit disponible.]<sup>5</sup>
+
+§ 2. Pour l'application des normes de financement et de subventionnement, la date de comptage du nombre de jeunes inscrits dans le centre d'enseignement secondaire professionnel à temps partiel est le 1er février de l'année scolaire précédente ou le premier jour de cours suivant si la date susmentionnée tombe un jour libre, à l'exception de ce qui est précisé à l'article 89, § 1er, deuxième alinéa.
+
+Si un centre d'enseignement secondaire professionnel à temps partiel est créé par fusion de centres existants ou par scission d'un centre existant en une ou de plusieurs implantations, ou si un centre adhère a ou sort d'un centre d'enseignement, alors, pour le calcul du financement ou du subventionnement, c'est respectivement la fusion, la scission, l'adhésion ou la sortie ayant eu lieu à la date susmentionnée qui est pris en compte. Si un centre d'enseignement secondaire professionnel a temps partiel n'est plus associé à un établissement d'enseignement secondaire technique ou professionnel ordinaire à temps plein et devient autonome, le changement est réputé avoir eu lieu à la date susmentionnée.
+
+Si la création d'un centre d'enseignement secondaire professionnel à temps partiel n'est pas la conséquence d'une fusion ou d'une scission, la date de comptage qui s'applique pour l'année scolaire de création est le 1er octobre de cette même année scolaire ou le premier jour de cours suivant si la date susmentionnée tombe un jour libre. A partir de l'année scolaire suivante, la date de comptage qui s'applique est le 1er février de l'année scolaire précédente ou le premier jour de cours suivant si la date susmentionnée tombe un jour libre.
+
+----------
+
+(1)&lt;AGF 2010-12-17/39, art. 359, 58), 008; En vigueur : 04-07-2011&gt;
+
+(2)&lt;DCFL 2016-06-17/24, art. III.59, 020; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2018-03-30/37, art. 104, 028; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2020-07-03/39, art. 87, 030; En vigueur : 01-09-2020&gt;
+
+(5)&lt;DCFL 2022-06-10/05, art. 2, 033; En vigueur : 01-09-2022&gt;
+
+##### Art. 87
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> Les périodes-professeur hebdomadaires de cours pratiques ou assimilées à des cours pratiques, organisées par un centre d'enseignement secondaire professionnel à temps partiel qui est rattaché à un établissement d'enseignement secondaire technique ou professionnel ordinaire à temps plein, sont prises en compte pour l'enveloppe globale de points telle que visée [<sup>3</sup> à la codification relative à l'enseignement secondaire]<sup>3</sup>, telle qu'elle est calculée, suivant le cas, pour le centre d'enseignement auquel appartient l'établissement d'enseignement secondaire ordinaire à temps plein où ces périodes sont organisées, ou telle qu'elle est calculée pour l'établissement d'enseignement secondaire ordinaire à temps plein où ces périodes sont organisées et qui n'appartient pas à un centre d'enseignement. L'enveloppe globale de points vise d'une part à combler au niveau de l'établissement le cadre du personnel directeur et du personnel d'appui et d'autre part à donner corps à une politique en matière de différenciation des tâches et des fonctions au niveau de l'établissement et du centre d'enseignement.]<sup>1</sup>
+
+Pour l'application de cette disposition, les périodes-professeur, utilisées pour des [<sup>4</sup> enseignants invités]<sup>4</sup> tels que visés à l'article 90, 3°, sont considérées pour un tiers comme des cours pratiques ou assimilées à des cours pratiques.
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.38, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2010-07-09/26, art. III.49, 007; En vigueur : 01-09-2009&gt;
+
+(3)&lt;AGF 2010-12-17/39, art. 359, 58), 008; En vigueur : 04-07-2011&gt;
+
+(4)&lt;DCFL 2023-07-14/14, art. 57, 038; En vigueur : 01-09-2023&gt;
+
+##### Art. 88
+
+[<sup>1</sup> Pour la catégorie du personnel directeur, un centre d'enseignement secondaire professionnel à temps partiel qui est autonome reçoit 1 emploi dans la fonction de directeur.
+
+Les jeunes d'un centre d'enseignement secondaire professionnel à temps partiel étant autonome et les périodes-professeur hebdomadaires de cours pratiques ou assimilées à des cours pratiques organisées par un tel centre, entrent en ligne de compte pour l'enveloppe globales de points, telle que visée [<sup>2</sup> à la codification relative à l'enseignement secondaire]<sup>2</sup>, telle qu'elle est calculée, suivant le cas, soit pour le centre d'enseignement auquel appartient le centre, soit pour le centre qui n'appartient pas à un centre d'enseignement. L'enveloppe globale de points vise d'une part à combler au niveau de l'établissement le cadre du personnel directeur et du personnel d'appui et d'autre part à donner corps à une politique en matière de différenciation des tâches et des fonctions au niveau de l'établissement et du centre d'enseignement.
+
+Pour l'application de cette disposition, les périodes-professeur, utilisées pour des [<sup>3</sup> enseignants invités]<sup>3</sup> tels que visés à l'article 90, 3°, sont considérées pour un tiers comme des cours pratiques ou assimilées à des cours pratiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.39, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;AGF 2010-12-17/39, art. 359, 58), 008; En vigueur : 04-07-2011&gt;
+
+(3)&lt;DCFL 2023-07-14/14, art. 58, 038; En vigueur : 01-09-2023&gt;
+
+##### Art. 89
+
+§ 1er. Pour la catégorie du personnel enseignant, un centre d'enseignement secondaire professionnel à temps partiel reçoit un capital périodes-professeur hebdomadaires, fixé au prorata de [<sup>1</sup> 3,66]<sup>1</sup> périodes-professeur par jeune pour la tranche de 1 jeune a 49 jeunes et de [<sup>1</sup> 2,69]<sup>1</sup> périodes-professeur par jeune pour la tranche de 50 jeunes et plus.
+
+En plus du capital périodes-professeur ainsi calculé, 1,20 période-professeur est attribuée pour chaque jeune qui est un primo-arrivant allophone. Cette hausse sera uniquement utilisée pour organiser l'enseignement d'accueil. La majoration s'applique exclusivement pour la période d'inscription du jeune concerné dans le centre, durant la première année scolaire [<sup>3</sup> ...]<sup>3</sup>, et est dispensée au cours de cette année scolaire.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2011-07-08/06, art. 8, 009; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. III.42, 014; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 70, 039; En vigueur : 01-09-2024&gt;
+
+##### Art. 90
+
+§ 1er. La direction du centre décide, après avis du conseil de centre et ensuite négociation au comité local, de l'utilisation du capital périodes-professeur au sein des possibilités d'utilisation suivantes :
+
+1° organisation des cours, étant entendu que minimum un tiers des periodes-professeur en question doivent être utilisées comme des heures de cours de cours pratiques ou assimilées à des cours pratiques. Pour l'application de cette disposition, les [<sup>5</sup> cours d'invité ]<sup>5</sup> sont vues comme des leçons et les périodes-professeur, utilisées pour des [<sup>5</sup> enseignants invités]<sup>5</sup> tels que visés au 3°, sont considérées pour un tiers comme des cours pratiques ou assimilées à des cours pratiques;
+
+2° organisation d'un accompagnement de parcours;
+
+3° [<sup>5</sup> engagement d'enseignants invités ; le cas échéant maximum 20 % du capital de périodes-professeur sont convertis en crédit. Les périodes-professeur sont converties en crédit à concurrence de la mission d'enseignement de l'enseignant invité. Le Gouvernement flamand détermine le mode de notification de la conversion précitée au service compétent désigné par le Gouvernement flamand, le montant du crédit par période-professeur qui est convertie et le mode d'attribution du crédit. L'enseignant invité doit remplir les conditions, visées à l'article 211, § 3 du Code de l'Enseignement secondaire du 17 décembre 2010 ;]<sup>5</sup>
+
+4° [<sup>2</sup> transfert de périodes-professeur vers une organisation qui, au cours de l'année scolaire 2018-2019, était agréée comme centre de formation à temps partiel, pour la réalisation d'une offre de cours ou de remplacement de cours à l'appui de l'élève. Le Gouvernement flamand arrête le mode de notification de ce transfert à l'Agence de Services d'Enseignement, le volume du crédit converti par période-professeur, le mode d'octroi et les activités qui peuvent être transférées;]<sup>2</sup>
+
+5° [<sup>2</sup> ...]<sup>2</sup>
+
+6° [<sup>1</sup> transfert de périodes-professeur vers un établissement avec un enseignement secondaire technique ou professionnel ordinaire à temps plein, vers un autre centre d'enseignement secondaire professionnel à temps partiel ou vers un centre d'éducation des adultes auquel il est fait appel pour l'organisation d'une formation générale, d'une formation à vocation professionnelle ou d'activités à l'appui, telles que visées à l'article 27, § 4, aux conditions suivantes :
+
+a) les périodes-professeur transférées pour l'organisation d'activités à l'appui de la formation générale ou de la formation à vocation professionnelle ne peuvent être utilisées par l'établissement bénéficiaire dispensant un enseignement secondaire technique ou professionnel ordinaire à temps plein que sous forme d'heures assimilées à des heures de cours, plus précisément comme "tâches pédagogiques spéciales";
+
+b) les périodes-professeur transférées pour l'organisation d'activités à l'appui de la formation à vocation professionnelle ne peuvent être utilisées par le centre d'enseignement secondaire professionnel à temps partiel bénéficiaire que sous forme d'heures assimilées à des heures de cours, plus précisément comme "heures d'apprentissage et de travail";
+
+c) les périodes-professeur transférées pour l'organisation d'activités à l'appui de la formation à vocation professionnelle ne peuvent être utilisées par le centre d'éducation des adultes bénéficiaire que sous forme de périodes/enseignant, tel qu'il est visé à l'article 102, § 2, du décret du 15 juin 2007 relatif à l'éducation des adultes;
+
+d) à partir de l'année scolaire 2010-2011, le nombre total de périodes/enseignant transférées pour l'organisation d'une formation générale ou d'activités à l'appui de la formation générale ou de la formation à vocation professionnelle ne peut jamais dépasser le nombre total de périodes/enseignant ayant été transféré avec le même but par le centre en question pendant l'année scolaire précédente.]<sup>1</sup>
+
+7° transfert de périodes-professeur vers un établissement avec un enseignement secondaire ordinaire à temps plein avec lequel le centre d'enseignement secondaire professionnel à temps partiel est associé;
+
+8° conversion en un ou plusieurs emplois dans la fonction d'éducateur ou de collaborateur administratif de la catégorie du personnel d'appui; le cas échéant, 24 périodes-professeur hebdomadaires doivent être soustraites du capital périodes-professeur pour un emploi complet et 12 périodes-professeur hebdomadaires pour une demi-fonction;
+
+9° transfert des périodes-professeur non organisées durant une année scolaire déterminée vers l'année scolaire suivante aux conditions suivantes :
+
+a) le transfert s'élève à maximum 2 % du nombre de périodes-professeur utilisables pour cette année déterminée;
+
+b) le nombre maximum de périodes-professeur transférées doit être fixé au plus tard le 1er novembre de cette année scolaire déterminée;
+
+c) les périodes-professeur transférées vers une année scolaire déterminée peuvent être utilisées uniquement durant l'année scolaire suivante;
+
+d) le transfert est uniquement possible si la direction du centre en question déclare sur l'honneur que, durant cette année scolaire, dans l'établissement d'enseignement dont fait partie le centre en question, ou dans le centre autonome lui-même, conformément à la réglementation en vigueur, elle ne devra procéder à aucune mise en disponibilité par défaut d'emploi nouvelle ou supplémentaire dans la catégorie du personnel enseignant. Le non-respect de la présente disposition aura pour conséquence qu'une mise en disponibilité par défaut d'emploi n'aura aucun effet vis-à-vis de l'autorité;
+
+e) dans les périodes-professeur transférées, aucun membre du personnel ne pourra être nommé à titre définitif. La direction du centre devra remettre une déclaration sur l'honneur indiquant que, dans les périodes-professeur transférées, aucun membre du personnel ne sera nommé à titre définitif. Le non-respect de la présente disposition aura pour conséquence que la nomination définitive n'aura aucun effet vis-à-vis de l'autorité. [<sup>3</sup> Par dérogation à ces dispositions, la nomination définitive est possible le 1er janvier 2021.]<sup>3</sup>
+
+§ 2. [<sup>4</sup> En cas de pénurie de personnel enseignant, l'autorité du centre peut, [<sup>6</sup> pendant les années scolaires 2025-2026 à 2029-2030]<sup>6</sup>, convertir un maximum de 20 % des périodes-professeur [<sup>5</sup> vacantes ]<sup>5</sup> accordées au centre, mentionnées à l'article 89, § 1er, en points pour utilisation dans des fonctions du personnel d'appui.
+
+Les conversions visées à l'alinéa 1er peuvent se faire, chaque fois, à partir du 1er octobre de l'année scolaire en cours et restent valables pendant toute la durée de l'année scolaire en cours. Par dérogation à cette disposition, la conversion de périodes-professeur prend fin si le membre du personnel désigné dans un emploi qui a été organisé via la conversion précitée dans une fonction du personnel d'appui, démissionne volontairement pendant l'année scolaire selon l'article 25 du décret relatif au statut de certains membres du personnel de l'enseignement communautaire ou selon l'article 26 du décret relatif au statut des membres du personnel de l'enseignement subventionné. Dans ce cas, la conversion prend fin pour la partie correspondante des périodes-professeur à partir du moment où la démission prend effet.
+
+Les points obtenus par la conversion, visés à l'alinéa 1er, sont utilisés au maximum pour soutenir l'enseignant dans les centres afin qu'il puisse se concentrer sur sa tâche principale : enseigner.
+
+Le Gouvernement flamand détermine la manière dont les périodes-professeur peuvent être converties en points pour le personnel d'appui.
+
+Les critères permettant de déterminer la pénurie de personnel enseignant et l'utilisation dans des fonctions du personnel d'appui, tels que visés à l'alinéa 1er, sont déterminés après négociation au sein du comité local compétent.
+
+Les emplois organisés dans des fonctions du personnel d'appui, tels que visés à l'alinéa 1er, n'entrent pas en ligne de compte pour une déclaration de vacance et l'autorité du centre ne peut en aucun cas nommer un membre du personnel à titre définitif, l'affecter ou le muter dans ces emplois.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.40, 004; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2018-03-30/37, art. 105, 028; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2020-07-03/39, art. 88, 030; En vigueur : 01-09-2020&gt;
+
+(4)&lt;DCFL 2022-07-08/07, art. 5, 034; En vigueur : 01-09-2022&gt;
+
+(5)&lt;DCFL 2023-07-14/14, art. 59, 038; En vigueur : 01-09-2023&gt;
+
+(6)&lt;DCFL 2025-07-18/38, art. 6, 040; En vigueur : 01-09-2025&gt;
+
+##### Art. 90bis.
+
+[<sup>1</sup>§ 1er. En cas de pénurie de personnel enseignant sur le marché du travail, une autorité du centre peut utiliser une partie de l'encadrement du personnel enseignant d'un ou de plusieurs de ses centres, pour une durée maximale d'une année scolaire à la fois, afin d'employer dans ce centre ou ces centres, par le biais d'un contrat de services entre l'autorité du centre et une organisation ou entreprise du secteur public ou privé, un ou plusieurs employés de cette organisation ou entreprise. Le décret relatif au statut de certains membres du personnel de l'enseignement communautaire du 27 mars 1991, le décret relatif au statut de certains membres du personnel de l'enseignement subventionné du 27 mars 1991 et les arrêtés d'exécution de ces décrets ne s'appliquent pas aux employés précités.
+
+Dans le mode d'affectation de l'encadrement du personnel enseignant, visé à l'alinéa 1er, l'autorité du centre qui engage le membre du personnel peut convertir des périodes-professeur d'un ou de plusieurs de ses centres, visés à l'alinéa 1er, en crédit à concurrence de la mission d'enseignement ou des missions d'enseignement qui ont été fixées dans le contrat de services. Le crédit précité est utilisé comme intervention financière pour l'entreprise ou l'organisation, visée à l'alinéa 1er. Pour l'intervention financière précitée, l'autorité du centre utilise des périodes-professeur du capital hebdomadaire des périodes-professeur, visé à l'article 89, § 1er, alinéa 1er, qui a été octroyé au centre.
+
+Le Gouvernement flamand détermine le montant par période-professeur qu'une autorité du centre peut convertir en crédit pour l'intervention financière, visée à l'alinéa 2, et le mode de notification de la conversion précitée au service compétent désigné par le Gouvernement flamand. L'autorité du centre autorise le service compétent de l'administration à verser l'intervention financière précitée directement à l'organisation ou à l'entreprise, visée à l'alinéa 1er, avec laquelle l'autorité du centre conclut un contrat de services.
+
+Le Gouvernement flamand établit un modèle de contrat de services, en tenant compte des conditions, visées à la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise d'e travailleurs à la disposition d'utilisateurs. Dans le contrat de services précité, tous les éléments suivants sont repris :
+
+1° la mission spécifique de l'employé, visé à l'alinéa 1er, dans le centre ;
+
+2° les conditions de désignation et de travail applicables à l'employé, visé à l'alinéa 1er, dont le salaire et les avantages financiers dont l'employé précité bénéficie dans son entreprise ou organisation sont garantis par l'entreprise ou l'organisation d'origine ;
+
+3° la formation que l'employé, visé à l'alinéa 1er, doit avoir suivie ;
+
+4° les obligations que l'employé, visé à l'alinéa 1er, doit respecter dans l'exercice de sa mission Les obligations précitées stipulent expressément que l'employé précité reste toujours sous l'autorité de son organisation ou entreprise, sauf s'il s'agit d'obligations qui ont trait au bien-être au travail ou d'instructions spécifiques indispensables à la bonne exécution de la mission spécifique ;
+
+5° la durée du contrat de services ;
+
+6° les possibilités de cessation anticipée du contrat de services.
+
+Les employés, visés à l'alinéa 1er, doivent remplir les conditions de désignation qui sont reprises par le Gouvernement flamand dans le modèle de contrat de services, visé à l'alinéa 4. Les employés, tels que visés à l'alinéa 1er, qui sont mis à la disposition d'un centre situé dans la région de langue néerlandaise, à l'exception des communes à facilités, démontrent en outre qu'ils maîtrisent la connaissance du néerlandais comme langue d'enseignement au niveau C1 du Cadre européen commun de référence pour les langues. Les employés prouvent la connaissance linguistique requise précitée de l'une des manières suivantes :
+
+1° avec un titre fixé par le Gouvernement flamand pour une fonction de recrutement du personnel directeur et enseignant et qui a été obtenu dans la langue d'enseignement ;
+
+2° avec un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+3° avec un titre qui est équivalent à un titre de l'enseignement agréé, financé ou subventionné par la Communauté flamande démontrant le niveau requis de la connaissance linguistique ;
+
+4° avec un certificat de fin d'études, un certificat ou une attestation démontrant le niveau C1 requis du Cadre européen de référence pour les langues.
+
+A l'alinéa 5, on entend par Cadre européen commun de référence pour les langues : la traduction française du Common European Framework of Reference for Languages publié par le Conseil de l'Europe.
+
+§ 2. La pénurie de personnel enseignant sur le marché du travail, visée au paragraphe 1er, alinéa 1er, ressort du fait que l'autorité du centre du centre où elle veut engager l'employé d'une organisation ou entreprise, visée au paragraphe 1er, alinéa 1er, pour une vacance dans une fonction de recrutement du personnel directeur et enseignant, ne peut pas pourvoir la vacance précitée par le biais d'une désignation régulière d'un membre du personnel qui possède à cet effet un titre requis ou jugé suffisant.
+
+Dans le premier alinéa on entend par vacance, un emploi complet ou incomplet qui est vacant ou pour lequel le titulaire absent ou son remplaçant peut être remplacé de manière régulière.
+
+Pour pourvoir la vacance, visée à l'alinéa 1er, l'autorité du centre du centre conclut un contrat de services avec l'entreprise ou l'organisation, visée au paragraphe 1er, alinéa 1er. Le contrat de services précité reprend les accords concernant la mise à disposition d'un employé de l'entreprise ou de l'organisation pour une mission spécifique et la période de la mise à disposition. Le contrat de services régit toujours une mission d'enseignement qui comprend les tâches suivantes :
+
+1° la planification et la préparation des cours ;
+
+2° l'enseignement proprement dit ;
+
+3° l'encadrement des élèves spécifique à la classe ;
+
+4° l'évaluation des élèves ;
+
+5° la consultation et la coopération avec la direction, les collègues et, le cas échéant, le centre d'encadrement des élèves, les centres de soutien à l'apprentissage et les parents.
+
+L'autorité du centre et l'entreprise ou l'organisation, visée au paragraphe 1er, alinéa 1er, concluent un contrat de services, visé au paragraphe 1er. Le contrat de services précité contient les dispositions et conditions suivantes concernant l'exécution de la mission visée à l'alinéa 3 :
+
+1° les données de l'autorité du centre agissant en tant que donneur d'ordre et les données de l'entreprise ou de l'organisation, visée au paragraphe 1er, alinéa 1er, agissant en tant que preneur d'ordre ;
+
+2° les coordonnées des mandataires désignés par les deux parties ;
+
+3° la mission qui est convenue, le mode d'exécution de cette mission et le soutien auquel l'employé, visé au paragraphe 1er, alinéa 1er, a droit pendant cette exécution et qui est proposé par le centre ;
+
+4° les conditions à remplir par l'employé, visé au paragraphe 1er, alinéa 1er, mis à disposition par l'entreprise ou l'organisation, visée au paragraphe 1er, alinéa 1er, stipulant explicitement que l'employé reste sous l'autorité de l'entreprise ou de l'organisation, sauf s'il s'agit d'instructions données par l'autorité du centre à l'employé dans le cadre de l'exécution de la mission, qui sont incluses dans la sous-convention ;
+
+5° les obligations financières et sociales à l'égard de l'employé, visé au paragraphe 1er, alinéa 1er, qui restent à charge de l'entreprise ou organisation ;
+
+6° l'intervention financière payée par l'autorité du centre à l'entreprise ou l'organisation, visée au paragraphe 1er, alinéa 1er, et les modalités de paiement ;
+
+7° des dispositions relatives à la confidentialité auxquelles s'engage l'entreprise ou l'organisation, visée au paragraphe 1er, en vue de l'exécution de la mission. Les dispositions précitées stipulent en tous les cas que l'employé de l'entreprise ou de l'organisation doit respecter le secret professionnel de l'enseignement ;
+
+8° des dispositions sur la propriété intellectuelle par lesquelles l'entreprise ou l'organisation, visée au paragraphe 1er, alinéa 1er, accepte notamment que tous les droits d'auteur ou autres droits de propriété intellectuelle sur les oeuvres réalisées dans le cadre de l'exécution de la mission soient transférés à l'autorité du centre et qui peuvent inclure des accords sur l'utilisation éventuelle de cette propriété intellectuelle dans l'entreprise ou l'organisation, visée au paragraphe 1er, alinéa 1er ;
+
+9° des dispositions sur la responsabilité dans l'exécution de la mission, qui prévoient dans tous les cas que l'autorité du centre veille à ce que l'employé, visé au paragraphe 1er, alinéa 1er, soit assuré de la même manière que tous ses autres employés pendant l'exécution de la mission ;
+
+10° des dispositions, visées aux articles 8 à 10 de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail ;
+
+11° la durée du contrat de services.
+
+§ 3. L'entreprise ou l'organisation, visée au paragraphe 1er, alinéa 1er, sélectionne un employé pour exercer la mission qui a été fixée dans le contrat de services, visé au paragraphe 2, alinéa 4. L'employé doit réunir les conditions suivantes :
+
+1° l'employé est au moins depuis trois ans en service dans l'entreprise ou l'organisation ;
+
+2° l'employé a une conduite irréprochable. Ce qui précède ressort d'un extrait du casier judiciaire avec la finalité 596.2 - modèle destiné aux contacts avec des mineurs, qui n'a pas été délivré plus d'un mois avant sa présentation ;
+
+3° l'employé qui est mis à la disposition d'un centre situé dans la région de langue néerlandaise, à l'exception des communes à facilités, a la connaissance requise du néerlandais comme langue d'enseignement, ce qui est attesté par le fait que l'employé maîtrise le néerlandais au niveau C1 du Cadre européen de référence pour les langues. La connaissance linguistique requise précitée est attestée par le fait que l'employé possède au moins un diplôme obtenu en néerlandais, qui donne accès à la fonction de recrutement du personnel directeur et enseignant conformément à l'article 10 de l'arrêté du Gouvernement flamand du 14 juin 1989 relatif aux titres, aux échelles de traitement, au régime de prestations et au statut pécuniaire dans l'enseignement secondaire ;
+
+4° l'employé possède au moins un diplôme qui est un titre jugé suffisant pour la fonction de recrutement du personnel directeur et enseignant dans le cadre de laquelle il assume une mission d'enseignement conformément à l'article 10 de l'arrêté du Gouvernement flamand du 14 juin 1989 relatif aux titres, aux échelles de traitement, au régime de prestations et au statut pécuniaire dans l'enseignement secondaire.
+
+L'entreprise ou l'organisation, visée au paragraphe 1er, alinéa 1er, propose l'employé, visé au paragraphe 1er, alinéa 1er, à l'autorité du centre, qui contrôle si l'employé remplit les conditions, visées à l'alinéa 1er, et qui décide ensuite de confier la mission ou non à l'employé précité. L'autorité du centre conserve les données de l'employé précité, visé à l'alinéa 1er, 2°, 3° et 4°, qu'elle obtient par le biais du contrôle précité, de la manière et pendant les délais déjà appliqués par l'autorité du centre pour les données de tous ses membres du personnel, conformément au règlement général sur la protection des données (RGPD).
+
+§ 4. La mission individuelle de l'employé, visée au paragraphe 3, dans le centre est incluse dans une sous-convention conformément au modèle de sous-convention inclus dans le modèle de contrat de services, visé au paragraphe 1er.
+
+La sous-convention, visée à l'alinéa 1er, contient également les accords spécifiques sur l'encadrement initial et le soutien auxquels l'employé, visé à l'alinéa 1er, peut faire appel dans le centre où il assume sa mission d'enseignement.
+
+L'employé, visé à l'alinéa 1er, reste toujours sous l'autorité de son entreprise ou organisation pendant l'exécution de la mission convenue. L'autorité du centre peut donner des instructions à l'employé précité dans le cadre de l'exécution de la mission d'enseignement concrète. Les dispositions relatives à ces instructions figurent dans une annexe de la sous-convention, visée à l'alinéa 1er.
+
+L'employé, visé à l'alinéa 1er, conserve le salaire auquel il a droit dans son entreprise ou organisation pendant l'exécution de la mission dans le centre, ainsi que tous les avantages financiers et extralégaux y afférents.
+
+Le contrat de services, visé au paragraphe 2, alinéa 4, régit la relation juridique générale entre l'autorité du centre et l'entreprise ou l'organisation pour la durée de la mission convenue. En cas de contradiction ou de dérogation, les dispositions de la sous-convention, visée à l'alinéa 1er, prévalent sur les dispositions du contrat de services. Les dispositions d'une sous-convention plus récente, telle que visée à l'alinéa 1er, prévalent toujours sur celles d'une sous-convention antérieure.
+
+L'employé, visé à l'alinéa 1er, est membre de droit du conseil de classe avec droit de vote dans le cadre de la mission d'enseignement qu'il assume dans le centre. Des accords pratiques sont convenus entre le centre et l'entreprise ou l'organisation, visée au paragraphe 1er, sur le fonctionnement de l'employé précité dans le conseil de classe, y compris la présence ou non de l'employé précité aux réunions du conseil de classe. Les accords précités sont repris dans la sous-convention, visée à l'alinéa 1er.
+
+A l'alinéa 6, on entend par conseil de classe, le conseil de classe accompagnateur ou le conseil de classe délibérant.
+
+§ 5. Dans le cadre de la pénurie d'enseignants, le Gouvernement flamand peut octroyer des subventions à une organisation ou entreprise externe pour assumer un rôle de médiation ou de coach entre des autorités du centre et des entreprises ou organisations.
+
+§ 6. Les mesures, visées au présent article, seront évaluées [<sup>2</sup> pendant les années scolaires 2025-2026 et 2029-2030]<sup>2</sup>. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-14/14, art. 60, 038; En vigueur : 01-09-2023&gt;
+
+(2)&lt;DCFL 2025-07-18/38, art. 7, 040; En vigueur : 01-09-2025&gt;
+
+##### Art. 91
+
+Le capital périodes-professeur d'un centre d'enseignement secondaire professionnel à temps partiel ne peut jamais être utilisé directement ou indirectement pour [<sup>1</sup> l'organisation d'un NAFT]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2018-03-30/37, art. 106, 028; En vigueur : 01-09-2018&gt;
+
+##### Art. 92
+
+Les périodes-professeurs dans un centre d'enseignement secondaire professionnel à temps partiel sont utilisées :
+
+1° pour les formations organisées sous forme de modules : sous forme d'heures assimilées à des heures de cours, plus précisément comme "heures d'apprentissage et de travail";
+
+2° pour, en période de transition, les formations non organisées sous forme de modules : sous forme d'heures de cours généraux, de cours techniques ou de cours pratiques ou sous forme d'heures assimilées à des heures de cours, plus précisément comme "heures d'apprentissage et de travail" ou comme séminaires.
+
+#### Sous-section II. - Apprentissage.
+
+##### Art. 93
+
+§ 1er. [<sup>1</sup> Les centres de formation des indépendants et des petites et moyennes entreprises sont subventionnés sur la base de la réglementation en vigueur relative à [<sup>3</sup> ...]<sup>3</sup> au subventionnement des centres de formation des indépendants et des petites et moyennes entreprises en application du décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public [<sup>3</sup> Office flamand de l'Emploi et de la Formation professionnelle]<sup>3</sup>.]<sup>1</sup>
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 65, 027; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 89, 030; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2020-06-19/14, art. 37, 032; En vigueur : 31-12-2021&gt;
+
+#### Sous-section III.
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 107, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 94
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 107, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 95
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 107, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 95bis
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 107, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 96
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 107, 028; En vigueur : 01-09-2019&gt;
+
+#### Sous-section IV. - Formation continue des accompagnateurs de parcours.
+
+##### Art. 97
+
+&lt;Abrogé par DCFL 2012-12-21/65, art. III.44, 014; En vigueur : 01-09-2013&gt;
+
+## CHAPITRE IV. - La composante apprentissage sur le lieu du travail.
+
+### Section Ire. - Autorisation et délivrance d'attestations.
+
+##### Art. 98
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 108, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 99
+
+[<sup>1</sup> Le Gouvernement flamand arrête les titres qui peuvent être délivrés pendant et à l'issue de la composante de démarrage.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-03-30/37, art. 109, 028; En vigueur : 01-09-2019&gt;
+
+### Section II. - Octroi de subventions.
+
+#### Sous-section Ire.
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 110, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 100
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 110, 028; En vigueur : 01-09-2019&gt;
+
+#### Sous-section II.
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 110, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 101
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 110, 028; En vigueur : 01-09-2019&gt;
+
+#### Sous-section III. - Participation au marché de l'emploi.
+
+##### Art. 102
+
+&lt;Abrogé par DCFL 2016-06-17/24, art. III.62, 020; En vigueur : 01-09-2016&gt;
+
+## CHAPITRE V.
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 111, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 103
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 111, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 104
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 111, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 105
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 111, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 106
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 111, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 107
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 111, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 108
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 111, 028; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE VI. - Dispositions modificatives.
+
+##### Art. 109
+
+L'article 24bis, § 1er, de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, inséré par le décret du 7 juillet 2006 et modifié par le décret du 22 juin 2007, est modifié comme suit :
+
+1° le point 8° est remplacé par la disposition suivante :
+
+"8° pour l'enseignement secondaire à temps plein : répondre aux dispositions décrétales et réglementaires relatives aux objectifs finaux, aux objectifs de développement, aux objectifs finaux spécifiques, programmes d'études et plans d'action; pour l'enseignement secondaire professionnel à temps partiel : répondre aux dispositions décrétales et réglementaires relatives aux objectifs finaux et aux programmes d'études pour autant que l'on vise la délivrance de certificats de fin d'étude qui sont identiques à ceux de l'enseignement secondaire ordinaire a temps plein;";
+
+2° il est ajouté un 17°, 18° et 19°, rédigés comme suit :
+
+"17° exclusivement pour l'enseignement secondaire professionnel à temps partiel : avoir conclu un accord de coopération avec au moins un centre de formation à temps partiel agréé par la Communauté flamande en vue de l'organisation de parcours de développement personnels pour les jeunes, inscrits dans le centre d'enseignement secondaire professionnel à temps partiel, ou avoir engagé la médiation et la collaboration visées à l'article 18, § 1er, du décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande;
+
+18° exclusivement pour l'enseignement secondaire professionnel à temps partiel : participer à et coopérer au sein d'une ou de plusieurs plates-formes régionales de concertation telles que visées à l'article 103 du décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande;
+
+19° exclusivement pour l'enseignement secondaire professionnel à temps partiel : fournir des efforts maximaux pour réaliser l'engagement à temps plein de chaque jeune.".
+
+##### Art. 110
+
+A l'article 24ter de la même loi, inséré par le décret du 7 juillet 2006 et modifié par le décret du 22 juin 2007, le § 1er est remplacé par ce qui suit :
+
+"§ 1er. Une subdivision structurelle de l'enseignement secondaire ordinaire ou spécial qui répond uniquement aux conditions définies à l'article 24bis, § 1er, 1° jusqu'à 12° inclus (et aussi, mais exclusivement pour l'enseignement secondaire professionnel à temps partiel, 17°), n'est pas financée ni subventionnée mais bien agréée.".
+
+##### Art. 111
+
+Les modifications suivantes sont apportées à l'article 1er de la loi du 29 juin 1983 concernant l'obligation scolaire, remplacé par le décret du 31 juillet 1990 et modifié par les décrets des 25 février 1997, 13 juillet 2001 et 14 février 2003 :
+
+1° les mots "l'enseignement secondaire de plein exercice" sont chaque fois remplacés par les mots "l'enseignement secondaire à temps plein";
+
+2° les mots "l'enseignement à horaire réduit" sont chaque fois remplacés par les mots "l'enseignement secondaire professionnel à temps partiel";
+
+3° au § 1er, l'alinéa trois est remplacé par la disposition suivante :
+
+"La période d'obligation scolaire à temps plein est suivie d'une période d'obligation scolaire à temps partiel. Il est satisfait à l'obligation scolaire à temps partiel en poursuivant l'enseignement secondaire à temps plein ou en suivant l'enseignement secondaire professionnel à temps partiel ou un apprentissage tels que vises dans le décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande. Un mineur d'âge peut être autorisé à suivre, à partir du début de l'année scolaire pendant laquelle il atteint l'âge de la scolarité obligatoire à temps partiel, l'enseignement secondaire professionnel à temps partiel ou l'apprentissage. L'autorisation est donnée par la direction du centre d'enseignement secondaire professionnel à temps partiel ou par Syntra Vlaanderen, selon le cas, sur avis du centre d'encadrement des élèves avec lequel l'établissement d'enseignement à temps plein où le mineur suit les cours coopère."
+
+4° au § 1er, l'alinéa quatre est supprimé;
+
+5° au § 2bis, le mot "réel" est supprimé.
+
+##### Art. 112
+
+L'article 2 de la même loi, remplacé par le décret du 31 juillet 1990 et modifié par le décret du 25 février 1997, est abrogé.
+
+##### Art. 113
+
+A l'article 7 de la même loi, modifié par le décret du 25 février 1997, les mots "enseignement à horaire réduit" sont remplacés par les mots "enseignement secondaire professionnel à temps partiel".
+
+##### Art. 114
+
+A l'article 16 de la même loi, modifié par le décret du 25 février 1997, les mots "enseignement secondaire de plein exercice" sont remplacés par les mots "enseignement secondaire à temps plein".
+
+##### Art. 115
+
+A l'article 46 du décret du 31 juillet 1990 relatif a l'enseignement -II, modifié par les décrets des 19 avril 1995, 8 juillet 1996 et 9 décembre 2005, les mots "enseignement secondaire à temps partiel" sont chaque fois remplacés par les mots "enseignement secondaire professionnel à temps partiel".
+
+##### Art. 116
+
+A l'article 58bis, § 1er, deuxième alinéa, 1°, du même décret, remplacé par le décret du 14 juillet 1998, les mots "ou le centre d'enseignement secondaire de la pêche maritime à temps partiel " sont supprimes.
+
+##### Art. 117
+
+L'article 64 du même décret est remplacé par la disposition suivante :
+
+"Article 64 § 1er.
+
+L'enseignement secondaire professionnel à temps partiel est régi par le décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande et la réglementation d'exécution dudit décret.".
+
+##### Art. 118
+
+A l'article 74bis, 1°, du même décret, inséré par le décret du 15 juillet 2005, le point c) est abrogé.
+
+##### Art. 119
+
+A l'article 74octies, § 1er, du même décret, inséré par le décret du 7 juillet 2006, les modifications suivantes sont apportées :
+
+1° au deuxième alinéa, les mots "et centres d'enseignement secondaire de la pêche maritime à temps partiel " sont supprimés;
+
+2° le troisième alinéa est abrogé.
+
+##### Art. 120
+
+L'article 74novies, § 1er, du même décret, inséré par le décret du 7 juillet 2006 et modifié par le décret du 22 juin 2007, est modifié comme suit :
+
+1° le § 1er est complété par un second alinéa, libellé comme suit :
+
+"Pour les centres d'enseignement secondaire professionnel à temps partiel, le règlement d'études comprend en outre :
+
+1° l'objectif et la procédure du screening et de l'accompagnement de parcours;
+
+2° le principe de l'engagement à temps plein que les intéressés doivent respecter, ce qui implique d'une part que l'élève suit effectivement et régulièrement la formation choisie, sauf en cas d'absence légitimée, et d'autre part que l'élève est prêt à se conformer inconditionnellement à toute mesure prise par le centre afin de concrétiser utilement et de manière ininterrompue la composante apprentissage sur le lieu du travail."
+
+2° au § 3, les mots "ou au centre d'enseignement secondaire de la pêche maritime à temps partiel".
+
+##### Art. 121
+
+A l'article 84bis, § 1er, du même décret, inséré par le décret du 12 juin 1991 et modifié par les décrets des 19 avril 1995, 20 octobre 2000, 13 juillet 2001 et 19 juillet 2002, il est ajouté un deuxième alinéa, libellé comme suit :
+
+"A partir de l'année scolaire 2008-2009, le diplôme d'enseignement secondaire est délivré aux élèves de l'enseignement secondaire professionnel à temps partiel ou de l'apprentissage qui répondent à l'ensemble des conditions suivantes :
+
+1° ils sont titulaires d'un certificat du deuxième degré de l'enseignement secondaire;
+
+2° ils ont obtenu au moins un certificat d'une formation et ils ont, suite à une décision du conseil de classe dans l'enseignement secondaire professionnel à temps partiel ou de Syntra Vlaanderen atteint pendant l'apprentissage dans une mesure suffisante les objectifs repris dans le programme d'études et ainsi satisfait à l'ensemble de la formation.".
+
+##### Art. 122
+
+Dans le même décret, les dispositions suivantes sont abrogées :
+
+1° l'article 64bis, inséré par le décret du 2 mars 1999 et remplacé par le décret du 13 juillet 2001;
+
+2° les articles 64ter en 64quater, insérés par le décret du 2 mars 1999;
+
+3° l'article 65;
+
+4° l'article 66, modifié par les décrets des 14 février 2003 et 22 juin 2007;
+
+5° les articles 67, 68 et 69;
+
+6° les articles 70, 71 et 72, remplacés par le décret du 22 juin 2007;
+
+7° les articles 72bis et 72ter, insérés par le décret du 7 juillet 2006;
+
+8° les articles 73, 74 et 75.
+
+##### Art. 123
+
+A l'article 58 du décret du 14 juillet 1998 contenant diverses mesures relatives à l'enseignement secondaire et modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, les mots "et l'enseignement secondaire de la pêche maritime à temps partiel" sont supprimés.
+
+##### Art. 124
+
+A l'article 62 du même décret, modifié par les décrets des 15 juillet 2005 et 22 juin 2007, les mots "ou le centre d'enseignement secondaire de la pêche maritime à temps partiel" sont supprimés.
+
+##### Art. 125
+
+A l'article 71, 2°, du même décret, remplacé par le décret du 14 février 2003 et modifié par les décrets des 15 juillet 2005 et 22 juin 2007, une phrase est ajoutée, libellée comme suit :
+
+"Dans le cadre de l'exercice de cette compétence, chaque centre d'enseignement qui reprend un centre d'enseignement secondaire professionnel à temps partiel, a une obligation de concertation à l'égard de chaque plate-forme régionale de concertation visée à l'article 103 du décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande, dont la zone d'action coïncide en tout ou en partie avec la zone d'action du centre d'enseignement.".
+
+##### Art. 126
+
+A l'article 78, § 2, du même décret, les mots "et l'enseignement secondaire de la pêche maritime à temps partiel" sont supprimés.
+
+##### Art. 127
+
+A l'article 80 du même décret, modifié par les décrets des 14 février 2003 et 15 décembre 2006, les mots "et l'enseignement secondaire de la pêche maritime à temps partiel" sont supprimés.
+
+##### Art. 128
+
+A l'article 2 du décret du 18 janvier 2002 relatif aux objectifs finaux, aux objectifs de développement et aux objectifs finaux spécifiques dans l'enseignement secondaire ordinaire et spécial à temps plein, un deuxième alinéa est ajouté, libellé comme suit :
+
+"Les dispositions du présent décret relatives aux objectifs finaux, aux programmes d'études et à la procédure de dérogation, à l'exception du cours d'éducation physique, s'appliquent à partir de l'année scolaire 2008-2009 également à la formation générale de l'enseignement secondaire professionnel à temps partiel, respectivement à la formation générale de l'apprentissage. Pour ce qui concerne toutefois les objectifs finaux interdisciplinaires, les dispositions du présent décret sont d'application au plus tard à partir de l'année scolaire 2009-2010.".
+
+##### Art. 129
+
+L'article III.8, § 2, du décret du 28 juin 2002 relatif à l'égalité des chances en éducation-I est modifié comme suit :
+
+1° au troisième tiret, les mots "à temps plein" sont insérés après le mot "secondaire";
+
+2° un cinquième tiret est ajouté, libellé comme suit :
+
+"- dans l'enseignement secondaire professionnel à temps partiel : au niveau du centre, du lieu d'implantation ou de la formation.".
+
+##### Art. 130
+
+A l'article III.9, § 2, alinéa deux, du même décret, le 1° est remplacé par ce qui suit :
+
+"1° uniquement pour l'enseignement secondaire ordinaire à temps plein : le nombre d'élèves répondant aux indicateurs en matière d'égalité des chances telles que définies à l'article VI.2, § 1er, et à l'article VI.11, § 1er;".
+
+##### Art. 131
+
+A l'article 6, § 2, 3°, du décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", une phrase est ajoutée, libellée comme suit :
+
+"Pour l'apprentissage, il convient de respecter les dispositions du décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en la Communauté flamande pour ce qui concerne la programmation dans les centres de formation.".
+
+##### Art. 132
+
+L'article 27 du même décret est remplacé par la disposition suivante :
+
+"Article 27.
+
+L'apprentissage se compose d'une formation pratique dans une entreprise, complétée par une formation théorique dans un centre agréé pour la formation des indépendants et des petites et moyennes entreprises.
+
+La formation théorique comprend une formation générale et une formation axée sur la profession. Des cours de langue complémentaires peuvent également être organisés.
+
+La formation et la formation théorique complémentaire sont indissociablement liées et répondent aux dispositions du décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande.".
+
+##### Art. 133
+
+A l'article 37 du même décret sont ajoutés un § 5 et un § 6, libellés comme suit :
+
+" § 5. Pour que le centre visé au § 1er, entre en ligne de compte pour un agrément par le Gouvernement flamand, il doit dans le cadre de l'apprentissage :
+
+1° rendre possible le contrôle par l'inspection de l'enseignement;
+
+2° répondre aux dispositions réglementaires et décrétales relatives aux objectifs finaux et programmes d'études pour autant que l'on vise la délivrance de certificats de fin d'étude qui sont identiques à ceux de l'enseignement secondaire ordinaire à temps plein.
+
+§ 6. Le Gouvernement flamand peut, sur la proposition d'un collège, abroger progressivement et totalement ou partiellement l'agrément pour ce qui concerne l'apprentissage d'un centre de formation des indépendants et des petites et moyennes entreprises dès qu'il n'est plus satisfait aux conditions d'agrément définies dans le présent article. Ce collège se compose à moitie de membres de l'inspection de l'enseignement, d'une part, et à moitié de membres du personnel de Syntra Vlaanderen, d'autre part.
+
+Le Gouvernement flamand fixe les dispositions complémentaires relatives au fonctionnement et a l'organisation de ce collège, en désigne les membres et règle la procédure de recours.".
+
+##### Art. 134
+
+A l'article 38 du même décret sont ajoutés un § 3 et un § 4, libellés comme suit :
+
+" § 3. Pour que le centre tel que visé au § 1er, entre en ligne de compte pour le subventionnement par le Gouvernement flamand, il doit dans le cadre de l'apprentissage :
+
+1° participer à et coopérer au sein d'une ou de plusieurs plates-formes régionales de concertation telles que visées à l'article 103 du décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande;
+
+2° dans le cadre de ses missions, fournir des efforts maximaux pour réaliser l'engagement à temps plein de chaque jeune.
+
+§ 4. Le subventionnement pour ce qui concerne l'apprentissage d'un centre de formation des indépendants et des petites et moyennes entreprises qui cesse de répondre à l'ensemble des conditions de subventionnement, est retenu en tout ou en partie par Syntra Vlaanderen. Cette retenue ne peut se faire que sur proposition de l'inspection de l'enseignement lorsqu'il s'agit des conditions visées au § 3. Le Gouvernement flamand détermine les autres modalités relatives à cette retenue et règle la procédure de recours.".
+
+##### Art. 135
+
+A l'article 16, § 2, du décret du 8 juin 2007 relatif à l'aide financière aux études de la Communauté flamande, un troisième alinéa est ajouté, libellé comme suit :
+
+"Par dérogation au deuxième alinéa, un élève qui, sur la base d'un contrat ou d'un engagement d'apprentissage agréé suit une formation dans le cadre de l'apprentissage dans un centre agréé et subventionné de formation des indépendants et des petites et moyennes entreprises, se trouve en absence illégitime lorsque cette absence est problématique conformément aux dispositions de la réglementation d'exécution adoptée par le Gouvernement flamand dans le cadre de l'apprentissage en vertu des articles 58 et 59 du décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande. ".
+
+##### Art. 136
+
+L'article 4 de l'arrêté du Gouvernement flamand du 31 juillet 1991 fixant les conditions de travail et le régime pécuniaire des enseignants de l'apprentissage et dans les formations certifiées, est remplacé par ce qui suit :
+
+"Article 4.
+
+§ 1er. Les enseignants doivent avoir la compétence requise pour accomplir leurs tâches. Syntra Vlaanderen veille à cette compétence.
+
+§ 2. Les enseignants de l'apprentissage doivent être titulaires de l'un des diplômes ou certificats d'aptitude suivants :
+
+1° pour les cours de formation générale :
+
+a) un diplôme de l'enseignement supérieur, délivré dans la discipline 'sociaal-agogisch werk' (travail socio-éducatif), ou équivalent;
+
+b) un diplôme de l'enseignement supérieur et une attestation d'aptitude pédagogique;
+
+c) un diplôme de l'enseignement supérieur et une attestation de recyclage de 120 heures au moins;
+
+d) un diplôme de l'enseignement secondaire, ou équivalent, et une attestation de trois ans d'expérience professionnelle, acquise dans un moins un emploi à mi-temps dans un centre de formation à temps partiel agréé par la Communauté flamande, et une attestation de recyclage d'au moins 120 heures;
+
+2° pour les cours de formation à vocation professionnelle :
+
+a) les certificats d'aptitude nécessaires de compétence d'enseignement dans l'enseignement technique ou professionnel;
+
+b) un diplôme de l'enseignement supérieur et trois ans d'expérience pratique, acquise comme profession à titre principal dans le champ professionnel à enseigner;
+
+c) un diplôme de formation comme chef d'entreprise et trois ans d'expérience pratique, acquise comme profession à titre principal dans le champ professionnel à enseigner;
+
+d) six ans d'expérience pratique, acquise comme entrepreneur indépendant ou son collaborateur le plus proche dans le champ professionnel à enseigner.
+
+De plus, les enseignants tels que visés au 2°, b), c) et d), qui ont une mission d'enseignement d'au moins 130 heures sur base annuelle, doivent présenter au plus tard deux ans après leur première désignation la preuve d'un recyclage d'au moins 120 heures.".
+
+##### Art. 137
+
+Dans l'arrêté du Gouvernement flamand du 23 juin 2000 fixant les objectifs finaux pour les deuxième et troisième degrés de l'enseignement secondaire ordinaire, confirmé par le décret du 18 janvier 2002, un article 2bis est inséré, libellé comme suit :
+
+"Article 2bis
+
+Afin de garantir le niveau d'études, et exclusivement en vue de la délivrance dans l'enseignement secondaire professionnel à temps partiel ou dans l'apprentissage de certificats de fin d'étude liés au grade ou a l'année, identiques à ceux de l'enseignement secondaire ordinaire à temps plein, les dispositions du présent arrêté qui se rapportent à l'enseignement secondaire professionnel à l'exception du cours d'éducation physique, s'appliquent à partir de l'année scolaire 2008-2009 également à la formation générale de l'enseignement secondaire professionnel à temps partiel et de l'apprentissage. Pour ce qui concerne les objectifs finaux interdisciplinaires toutefois, les dispositions du présent arrêté s'appliquent au plus tard à partir de l'année scolaire 2009-2010.".
+
+##### Art. 138
+
+Au chapitre II de l'arrêté du Gouvernement flamand du 14 décembre 2001 réglant l'agrément et le subventionnement des centres de formation des indépendants et des petites et moyennes entreprises, visés dans le décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" modifié par larrêté du Gouvernement flamand du 21 mars 2008, il est inséré un article 6bis, ainsi rédigé :
+
+"Article 6bis
+
+Conformément aux articles 37 et 38 du décret, l'association doit dans le cadre de l'apprentissage :
+
+1° rendre possible le contrôle par l'inspection de l'enseignement;
+
+2° répondre aux dispositions réglementaires et décrétales relatives aux objectifs finaux et programmes d'études pour autant que l'on vise la délivrance de certificats de fin d'étude qui sont identiques à ceux de l'enseignement secondaire ordinaire à temps plein.
+
+3° participer à et coopérer au sein d'une ou de plusieurs plates-formes régionales de concertation telles que visées à l'article 103 du décret du 10 juillet 2008 relatif au système d'apprentissage et de travail en Communauté flamande;
+
+4° dans le cadre de ses missions, fournir des efforts maximaux pour réaliser l'engagement à temps plein de chaque jeune.".
+
+##### Art. 139
+
+Dans l'arrêté du Gouvernement flamand du 20 septembre 2002 fixant les objectifs finaux de la troisième année du troisième degré de l'enseignement secondaire professionnel ordinaire, confirmé par le décret du 20 décembre 2002, un article 2bis est inséré, libellé comme suit :
+
+"Article 2bis
+
+Afin de garantir le niveau d'études, et exclusivement en vue de la délivrance dans l'enseignement secondaire professionnel à temps partiel ou dans l'apprentissage de certificats de fin d'étude liés au grade ou à l'année, identiques à ceux de l'enseignement secondaire ordinaire à temps plein, les dispositions du présent arrêté qui se rapportent à l'enseignement secondaire professionnel à l'exception du cours d'éducation physique, s'appliquent à partir de l'année scolaire 2008-2009 également a la formation générale de l'enseignement secondaire professionnel à temps partiel et de l'apprentissage.".
+
+## CHAPITRE VII. - Dispositions finales.
+
+##### Art. 140
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 112, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 141
+
+&lt;Abrogé par DCFL 2018-03-30/37, art. 112, 028; En vigueur : 01-09-2019&gt;
+
+##### Art. 142
+
+L'application des dispositions de l'article 5 de la loi du 29 juin 1983 concernant l'obligation scolaire peut, pour ce qui concerne la composante apprentissage sur le lieu du travail, porter uniquement sur les infractions commises au plus tôt à partir du dixième jour suivant la publication du présent décret au Moniteur belge.
+
+##### Art. 143
+
+Les arrêtés suivants sont abrogés :
+
+1° l'arrêté du Gouvernement flamand du 7 novembre 1984 fixant les normes particulières d'agrément en matière de contrats d'apprentissage et d'engagements d'apprentissage pour les professions d'opticien-lunetier, de technicien en prothèse dentaire, de bandagiste, d'orthésiste, de prothésiste, détaillant et grossiste, modifié par l'arrêté du Gouvernement flamand du 29 juillet 1989;
+
+2° l'arrêté du Gouvernement flamand du 31 juillet 1990 portant organisation de l'enseignement secondaire professionnel à temps partiel, modifié par les arrêtés du Gouvernement flamand des 7 janvier 1992, 9 juin 1993, 16 mai 1995, 27 mai 1997, 9 mars 2001, 21 mars 2003, 5 mars 2004, 27 mai 2005, 13 janvier 2006 et par le décret du 22 juin 2007;
+
+3° l'arrêté du Gouvernement flamand du 31 juillet 1990 portant organisation et fixant les normes et le financement de la formation agréée dans le cadre de l'obligation scolaire à temps partiel, modifié par les arrêtés du Gouvernement flamand des 24 juillet 1996, 8 juillet 2005 et 16 février 2007;
+
+4° l'arrêté du Gouvernement flamand du 31 juillet 1990 fixant la composition de la commission de consultation en matière de reconnaissance de programmes de formation en vue de satisfaire à l'obligation scolaire, modifié par les arrêtés du Gouvernement flamand des 8 juillet 2005 et 16 février 2007;
+
+5° l'arrêté du Gouvernement flamand du 17 avril 1991 portant exécution de l'article 16 de l'arrêté du Gouvernement flamand du 31 juillet 1990 portant organisation de l'enseignement secondaire professionnel à temps partiel;
+
+6° l'arrêté du Gouvernement flamand du 5 juin 1991 portant organisation de l'enseignement secondaire de la pêche maritime, modifié par l'arrêté du Gouvernement flamand du 28 juillet 1995;
+
+7° l'arrêté du Gouvernement flamand du 24 juillet 1996 relatif à l'apprentissage, visé dans le décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", modifié par les arrêtés du Gouvernement flamand des 10 février 1998, 3 mai 2002, 28 septembre 2007 et 7 décembre 2007;
+
+8° [<sup>1</sup> ...]<sup>1</sup>
+
+9° l'arrêté du Gouvernement flamand du 15 juillet 1997 portant agrément des programmes de formation répondant aux exigences de l'obligation scolaire à temps partiel;
+
+10° l'arrêté du Gouvernement flamand du 15 juillet 1997 portant agrément du programme de formation du 'Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen' (Agence flamande de formation d'entrepreneurs - SYNTRA Vlaanderen), créée par l'article 3 du décret du 7 mai 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique 'Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen', comme formation estimée satisfaire aux conditions de l'obligation scolaire à temps partiel;
+
+11° l'arrêté du Gouvernement flamand du 8 juin 1999 portant agrément d'un programme de formation répondant aux exigences de l'obligation scolaire à temps partiel;
+
+12° l'arrêté du Gouvernement flamand du 22 septembre 2000 portant agrément des programmes de formation répondant aux exigences de l'obligation scolaire à temps partiel;
+
+13° l'arrêté du Gouvernement flamand du 24 septembre 2001 portant agrément des programmes de formation répondant aux exigences de l'obligation scolaire à temps partiel;
+
+14° l'arrêté du Gouvernement flamand du 8 juillet 2005 portant organisation et fixant les normes et le financement des formations partielles qui entrent en ligne de compte pour l'accomplissement de l'obligation scolaire à temps partiel, modifié par l'arrêté du Gouvernement flamand du 16 février 2007;
+
+15° l'arrêté ministériel du 5 juillet 1999 fixant les dénominations pouvant être mentionnées sur les certificats de qualification de l'enseignement secondaire professionnel à temps partiel, modifié par les arrêtés ministériels des 7 juin 2000, 2 juillet 2001, 22 mai 2002, 21 mai 2003, 6 juillet 2004, 18 avril 2005, 20 mars 2006, 6 juillet 2006, 20 février 2007, 30 mai 2007 et 4 juillet 2007;
+
+16° l'arrêté ministériel du 28 mai 2004 fixant les centres d'enseignement secondaire professionnel à temps partiel;
+
+17° l'arrêté ministériel du 5 juillet 2004 fixant les formules des titres délivrés dans l'enseignement secondaire professionnel à temps partiel.
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. III.42, 004; En vigueur : 01-09-2008&gt;
+
+##### Art. 144
+
+Les articles 1er, § 2bis, et 3, § 5, de la loi du 29 juin 1983 concernant l'obligation scolaire, insérés par le décret du 22 juin 2007, entrent en vigueur le 1er septembre 2008.
+
+##### Art. 145
+
+Le présent décret entre en vigueur le 1er septembre 2008, à l'exception :
+
+1° des dispositions suivantes qui entrent en vigueur le 1er janvier 2009 :
+
+a) l'article 11, § 1er, 4° :
+
+b) l'article 17, § 1er et 2;
+
+c) l'article 18;
+
+d) l'article 19, § 1er, 11° :
+
+e) l'article 20, premier alinéa, 3°;
+
+f) l'article 65;
+
+g) les articles 103 à 108 inclus;
+
+h) les articles 109, 2°, pour ce qui concerne l'ajout du 18°;
+
+i) l'article 125;
+
+j) l'article 134, pour ce qui concerne l'ajout du § 3, 1°;
+
+k) l'article 138, pour ce qui concerne l'insertion du 3°;
+
+2° des dispositions suivantes qui entrent en vigueur le 1er janvier 2009 :
+
+a) l'article 10, § 1er, deuxième alinéa, 10°;
+
+b) l'article 19, § 1er, 8° :
+
+c) l'article 44, deuxième alinéa, pour ce qui concerne les mots : "et en tenant compte du résultat du screening visé à l'article 62";
+
+d) l'article 47, 3°;
+
+e) l'article 49;
+
+f) l'article 51, 2°;
+
+g) les articles 62 à 64 inclus;
+
+h) l'article 109, 2°, pour ce qui concerne l'ajout du 17°;
+
+i) l'article 110, pour ce qui concerne les mots "(et aussi, mais exclusivement pour l'enseignement secondaire professionnel à temps partiel, 17°)";
+
+j) l'article 120, 1°, pour ce qui concerne l'ajout du 1°.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 10 juillet 2008.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand de l'Emploi, de l'Enseignement et de la Formation,
+
+F. VANDENBROUCKE.

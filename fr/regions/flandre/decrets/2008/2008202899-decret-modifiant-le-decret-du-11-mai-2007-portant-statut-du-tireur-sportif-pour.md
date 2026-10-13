@@ -1,0 +1,77 @@
+---
+title: "Décret modifiant le décret du 11 mai 2007 portant statut du tireur sportif, pour ce qui concerne son champ d'application (TRADUCTION)."
+identifier: "2008202899"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/04/2008202899/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2008-07-04
+published: 2008-08-27
+entry_into_force: 2008-08-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/04/2008202899/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 4 JUILLET 2008. - Décret modifiant le décret du 11 mai 2007 portant statut du tireur sportif, pour ce qui concerne son champ d'application (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret modifiant le décret du 11 mai 2007 portant statut du tireur sportif, pour ce qui concerne son champ d'application.
+
+## Art. 1
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+A l'article 2 du décret du 11 mai 2007 portant statut du tireur sportif, sont apportées les modifications suivantes :
+
+1° le point 5° est remplacé par e qui suit :
+
+" 5° tir sportif : la pratique de disciplines de tir proposées par la fédération internationale de tir sportif agréée par le Comité international olympique, ou par les fédérations de tir sportif, à l'exception du tir à la carabine; ";
+
+2° dans le point 6°, les mots "ou une organisation subventionnée au titre de l'article 26 du décret du 23 mai 2008 portant développement, organisation et subventionnement de la politique flamande du patrimoine culturel" sont insérés après les mots "une organisation de culture populaire agréée sur la base du décret du 28 octobre 1998 réglant l'agrément et l'octroi de subventions aux organisations de culture populaire et instituant un " Vlaams Centrum voor Volkscultuur " (Centre flamand de Culture populaire).
+
+## Art. 3
+
+A l'article 11, § 2, alinéa 1er, du même décret, il est ajouté un point 5°, rédigé comme suit :
+
+" 5° lorsqu'une demande pour ou de renouvellement d'une licence de possession d'armes est refusée au tireur sportif pour des raisons d'ordre public, conformément à la loi sur les armes. "
+
+## Art. 4
+
+Dans l'article 13, § 2, du même décret, les mots "ou n'est plus subventionnée au titre de l'article 26 du décret du 23 mai 2008 portant développement, organisation et subventionnement de la politique flamande du patrimoine culture" sont insérés après les mots "sur la base du décret du 27 octobre 1998 réglant l'agrément et l'octroi de subventions aux organisations de culture populaire et instituant un "Vlaams Centrum voor Volkscultuur" (Centre flamand de Culture populaire)".
+
+## Art. 5
+
+A l'article 16 du même décret sont apportées les modifications suivantes :
+
+1° le § 1er est complété par un point 3°, rédigé comme suit :
+
+" 3° les décisions d'octroi et de retrait d'une licence provisoire de tireur sportif. ";
+
+2° le § 2 est remplacé par ce qui suit :
+
+" § 2. Le gouverneur compétent pour la résidence du tireur sportif, communique sans délai à la fédération de tir sportif autorisée concernée les éléments suivants :
+
+1° les décisions de suspension ou de retrait du droit de posséder une arme, conformément à la loi sur les armes;
+
+2° les décisions de refus d'une licence de possession d'armes ou de son renouvellement pour des raisons d'ordre public, conformément à la loi sur les armes. "
+
+## Art. 6
+
+Le présent décret entre en vigueur le jour de la publication au Moniteur belge du décret du 23 mai 2008 portant développement, organisation et subventionnement de la politique flamande du patrimoine culturel, à l'exception de l'article 2, 1° qui entre en vigueur le 28 juin 2008.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 4 juillet 2008.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand de la Culture, de la Jeunesse, des Sports et des Affaires bruxelloises,
+
+B. ANCIAUX.

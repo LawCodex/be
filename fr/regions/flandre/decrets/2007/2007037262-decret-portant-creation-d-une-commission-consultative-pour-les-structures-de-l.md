@@ -1,0 +1,258 @@
+---
+title: "[Décret portant création [ ...] d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants] <DCFL 2012-06-29/13 , art. 39, 003; En vigueur : 01-07-2013> (TRADUCTION) (Intitulé modifié par DCFL 2018-06-29/16 , art. 31; En vigueur : 01-01-2019)"
+identifier: "2007037262"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2007037262/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2007-12-07
+published: 2007-12-21
+last_amended: 2022-07-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2007037262/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 21-12-2007 et mise à jour au 15-07-2022"
+retrieved: 2026-10-12
+---
+
+# 7 DECEMBRE 2007. - [Décret portant création [ ...] d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants] &lt;DCFL 2012-06-29/13 , art. 39, 003; En vigueur : 01-07-2013&gt; (TRADUCTION) (Intitulé modifié par DCFL 2018-06-29/16 , art. 31; En vigueur : 01-01-2019)
+
+Le Parlement Flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+#### Art. 1
+
+Le présent décret règle une matière communautaire.
+
+#### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° [<sup>3</sup> le Décret de gouvernance du 7 décembre 2018;]<sup>3</sup>
+
+2° le domaine politique : le domaine politique fixé en vertu de [<sup>3</sup> l'article III.1, premier alinéa du Décret de gouvernance]<sup>3</sup> qui porte sur la plupart des matières communautaires, visées à [<sup>1</sup> l'article 5, § 1er, I à IV inclus]<sup>1</sup> de la loi spéciale du 8 août 1980 de réformes institutionnelles;
+
+3° [<sup>2</sup> ...]<sup>2</sup>;
+
+4° [<sup>2</sup> ...]<sup>2</sup>;
+
+5° structure de l'aide sociale, de la santé publique et de la famille : une organisation qui exerce des activités dans le cadre des matières communautaires, visées à [<sup>1</sup> l'article 5, § 1er, I à IV inclus]<sup>1</sup> de la loi spéciale du 8 août 1980 de réformes institutionnelles, qui relèvent du domaine politique;
+
+----------
+
+(1)&lt;DCFL 2016-07-15/17, art. 79, 005; En vigueur : 29-08-2016&gt;
+
+(2)&lt;DCFL 2018-06-29/16, art. 32, 007; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2018-12-07/05, art. IV.156, 009; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE II.
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+### Section Ire.
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 3
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+### Section II.
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 4
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+### Section III.
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 5
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 6
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 7
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+### Section IV.
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 8
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 9
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+### Section V.
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 10
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+### Section VI.
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+#### Art. 11
+
+&lt;Abrogé par DCFL 2018-06-29/16, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE III. - [<sup>1</sup> - Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-06-29/13, art. 40, 003; En vigueur : 01-07-2013&gt;
+
+### Section Ire. - Création et mission.
+
+#### Art. 12
+
+Il est créé une [<sup>1</sup> Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants]<sup>1</sup>, ci-après dénommée la commission.
+
+[<sup>3</sup> La commission a pour mission de conseiller le Ministre flamand chargé de l'assistance aux personnes et de la politique de la santé, sur la réclamation contre une des décisions suivantes qui sont prises, en ce qui concerne une structure d'aide sociale, de santé publique et de la famille ou une de ses composants, par le département ou par une agence du domaine politique, ou contre l'intention de prendre une des décisions suivantes, exprimée et formellement signifiée par le département ou par l'agence :
+
+1° le refus d'accorder, de prolonger ou de modifier [<sup>7</sup> un label de qualité, une admission]<sup>7</sup>,[<sup>8</sup> approbation,]<sup>8</sup> une autorisation ou un agrément;
+
+2° la modification contrainte, la suspension, l'annulation ou le retrait d'[<sup>7</sup> un label de qualité, une admission]<sup>7</sup>,[<sup>8</sup> approbation,]<sup>8</sup> d'une autorisation ou d'un agrément;
+
+3° la fermeture;
+
+4° le refus, la diminution, l'arrêt ou la réclamation d'une subvention pour emplacements d'accueil d'enfants.]<sup>3</sup>
+
+[<sup>5</sup> 5° la diminution ou la cessation des subventions pour les moyens de fonctionnement ou des allocations dans le cadre de la politique familiale pour des acteurs de paiement privés.]<sup>5</sup>
+
+[<sup>4</sup> En outre, la commission a également comme mission d'émettre des avis au Ministre flamand ayant la politique de la santé dans ses attributions, sur la réclamation contre une intention de décision sur :
+
+1° l'agrément de médecins spécialistes et médecins généralistes ;
+
+2° l'agrément des pratiquants de la dentisterie, porteurs d'un titre professionnel particulier.]<sup>4</sup>
+
+[<sup>9</sup> 3° l'agrément des praticiens de la psychologie clinique ;]<sup>9</sup>
+
+[<sup>9</sup> 4° l'agrément des praticiens de l'orthopédagogie clinique ; ]<sup>9</sup>
+
+[<sup>6</sup> La commission traite la réclamation contre la décision de refus, de suspension ou de retrait de l'agrément d'une organisation, infrastructure de soins ou prestataire de soins en tant qu'indicateur, comme mentionné à l'article 67 ou à l'article 111 du décret du 18 mai 2018 relatif à la protection sociale flamande, ou contre l'intention de prendre une telle décision.
+
+La commission traite la réclamation contre la décision de refus, de suspension ou de retrait de l' autorisation d'un fournisseur comme mentionné à l' à l'article 122 du décret du 18 mai 2018 relatif à la protection sociale flamande, ou contre l'intention de prendre une telle décision.]<sup>6</sup>
+
+[<sup>2</sup> La commission traite la réclamation contre le refus d'une attestation à l'occasion d'un nouveau screening tel que visé à l'article 14, § 5, du décret du 29 juin 2012 portant organisation du placement familial.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2012-06-29/13, art. 41, 1°, 003; En vigueur : 01-07-2013&gt;
+
+(2)&lt;DCFL 2012-06-29/13, art. 41, 2°, 003; En vigueur : indéterminée et au plus tard le 01-01-2014&gt;
+
+(3)&lt;DCFL 2012-04-20/25, art. 33, 003; En vigueur : 01-01-2014&gt;
+
+(4)&lt;DCFL 2016-07-15/17, art. 34, 005; En vigueur : 01-01-2016, AGF 2017-04-28/25, art. 9)&gt;
+
+(5)&lt;DCFL 2018-04-27/27, art. 207, 006; En vigueur : 01-01-2019&gt;
+
+(6)&lt;DCFL 2018-05-18/15, art. 164, 008; En vigueur : 01-01-2019&gt;
+
+(7)&lt;DCFL 2019-05-03/32, art. 19, 010; En vigueur : 01-01-2021&gt;
+
+(8)&lt;DCFL 2022-06-24/09, art. 3,1°, 011; En vigueur : 01-04-2022&gt;
+
+(9)&lt;DCFL 2022-06-24/09, art. 3,2°, 011; En vigueur : 01-01-2023&gt;
+
+### Section II. - Composition et fonctionnement.
+
+#### Art. 13
+
+Le Gouvernement flamand règle la composition de la commission et la nomination de ses membres. Il fixe la durée du mandat des membres et les incompatibilités.
+
+Le Gouvernement flamand peut créer plusieurs sections au sein de la commission et arrêter leurs missions.
+
+#### Art. 14
+
+Le Gouvernement flamand règle le fonctionnement de la commission et, le cas échéant, des sections, visées à l'article 13, alinéa deux.
+
+Il fixe les indemnités des membres de la commission. Ces indemnités ainsi que les frais de fonctionnement de la commission, sont à charge du budget de la Communauté flamande.
+
+#### Art. 15
+
+Le Gouvernement flamand détermine le délai dans lequel la commission doit émettre ses avis.
+
+Il ne peut être statué sur la réclamation, visée à [<sup>1</sup> l'article 12]<sup>1</sup>, qu'après réception de l'avis de la commission, à moins que le délai dans lequel l'avis devait être donné n'ait expiré. [<sup>1</sup> Le Gouvernement flamand peut arrêter les modalités de la décision sur la réclamation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-04-20/25, art. 34, 003; En vigueur : 01-01-2014&gt;
+
+## CHAPITRE IV. - Disposition modificatrice.
+
+#### Art. 16
+
+Dans le décret du 25 février 1997 relatif à la gestion totale de la qualité dans les établissements de soins, article 5, § 2, alinéa trois et § 3, alinéa deux, les mots "Conseil flamand de la Santé" sont remplacés par les mots "Conseil consultatif stratégique pour la Politique flamande de l'Aide sociale, de la Santé et de la Famille".
+
+#### Art. 17
+
+Dans le décret du 27 juin 1985 relatif au "Sociaal-Economische Raad van Vlaanderen", il est inséré un article 7novies, rédigé comme suit :
+
+" Article 7novies. Le Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille est créé au sein du Conseil. Ce conseil consultatif stratégique est réglé par le décret du (7 décembre 2007) portant création du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille. &lt;Erratum, M.B. 15-09-2008, p. 47789&gt;".
+
+#### Art. 18
+
+Dans le décret du 7 mai 2004 relatif au "Sociaal-Economische Raad van Vlaanderen", il est inséré un nouveau chapitre après le chapitre Vbis, rédigé comme suit :
+
+"CHAPITRE Vter. -Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille
+
+Article 22ter. Le Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille est créé au sein du Conseil. Ce conseil consultatif stratégique est réglé par le décret du (7 décembre 2007) portant création du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille et d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille. &lt;Erratum, M.B. 15-09-2008, p. 47789&gt; ".
+
+## CHAPITRE V. - Dispositions finales.
+
+#### Art. 19
+
+Les règlements suivants sont abrogés :
+
+1° le décret du 20 décembre 1996 portant création d'un Conseil flamand de la Santé et d'un Conseil consultatif flamand pour l'agrément des établissements de soins, modifié par le décret du 18 mai 1999;
+
+2° le décret du 15 juillet 1997 portant création d'un Conseil de la Famille et de l'Aide sociale et d'une Commission consultative d'Appel pour les questions de la famille et de l'aide sociale, modifié par le décret du 18 mai 1999;
+
+#### Art. 20
+
+Les recours, réclamations ou mémoires justificatifs qui ont été introduits avant la date d'entrée en vigueur du chapitre III du présent décret auprès de la commission consultative d'appel pour les questions de la famille et de l'aide sociale ou du Conseil consultatif flamand pour l'agrément des établissements de soins, continuent à être examinés par la commission d'appel ou le conseil consultatif, en application des règles en vigueur au moment de leur introduction.
+
+#### Art. 21
+
+Le Gouvernement flamand fixe, pour chacune des dispositions du présent décret, la date d'entrée en vigueur.
+
+(NOTE : entrée en vigueur des art. 1 à 3, 5, 6, 7, alinéa 2, 9, § 1er, 10, 17, 21 fixée au 09-04-2008 par AGF 2008-03-14/34, art. 5)
+
+(NOTE : entrée en vigueur des art. 4, 7, alinéa 1er, 8, 9, § 2, 11 et 16, fixée le premier jour du mois qui suit celui dans lequel la nomination des membres du Conseil consultatif stratégique pour la Politique de l'Aide sociale, de la Santé et de la Famille est publié au Moniteur belge. Voir AGF 2008-03-14/34, art. 5.)
+
+(NOTE : entrée en vigueur de l'art. 18 fixée le même jour que le décret du 7 mai 2004 relatif au "Sociaal-Economische Raad van Vlaanderen". Voir AGF 2008-03-14/34, art. 5.)
+
+(NOTE : entrée en vigueur de l'article 12, alinéa deux et trois les articles 15, 19 et 20 entrent en vigueur le 01-01-2014, et les articles 12, alinéa premier, les articles 13 et 14 entrent en vigueur le 01-07-2013 par AGF 2013-07-12/41, art. 84)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 décembre 2007.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand du Bien-être, de la Santé publique et de la Famille,
+
+S. VANACKERE.

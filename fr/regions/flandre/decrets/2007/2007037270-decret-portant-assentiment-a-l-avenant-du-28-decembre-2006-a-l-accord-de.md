@@ -1,0 +1,43 @@
+---
+title: "Décret portant assentiment à l'avenant du 28 décembre 2006 à l'Accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale et la Communauté germanophone concernant l'économie plurielle (TRADUCTION)."
+identifier: "2007037270"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2007037270/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2007-12-07
+published: 2008-01-03
+entry_into_force: 2008-01-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2007037270/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 7 DECEMBRE 2007. - Décret portant assentiment à l'avenant du 28 décembre 2006 à l'Accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale et la Communauté germanophone concernant l'économie plurielle (TRADUCTION).
+
+Le Parlement flamand a adopté et nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Il est porté assentiment à l'avenant du 28 décembre 2006 à l'Accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone concernant l'économie plurielle.
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 7 décembre 2007.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Pour la Ministre flamande de la Mobilité, de l'Economie sociale et de l'Egalité des Chances, absente,
+
+Le Ministre flamand de l'Emploi, de l'Enseignement et de la Formation,
+
+F. VANDENBROUCKE.

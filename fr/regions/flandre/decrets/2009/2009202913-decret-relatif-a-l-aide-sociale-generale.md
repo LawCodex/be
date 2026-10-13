@@ -1,0 +1,341 @@
+---
+title: "Décret relatif à l'aide sociale générale"
+identifier: "2009202913"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009202913/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2009-05-08
+published: 2009-07-08
+entry_into_force: 2013-07-01
+last_amended: 2024-01-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009202913/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 08-07-2009 et mise à jour au 10-01-2024"
+retrieved: 2026-10-12
+---
+
+# 8 MAI 2009. - Décret relatif à l'aide sociale générale
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales
+
+##### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+##### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° aide sociale générale : l'aide et l'assistance psychosociales à la disposition de toutes les personnes dont les chances de bien-être sont menacées ou réduites à cause d'événements dans leur vie privée, de problèmes corrélés à des événements dans un contexte de criminalité ou de problèmes de fragilité multiple à cause d'un processus d'exclusion sociale. L'aide sociale générale est réalisée par [<sup>2</sup> le centre de télé-accueil]<sup>2</sup> et les centres d'aide sociale générale ou dans le cadre de projets;
+
+2° centre : un centre d'aide sociale générale ou un centre de télé-accueil;
+
+3° projet : une initiative particulière à caractère temporaire, innovant et expérimental s'adressant à un groupe-cible spécifique ou axée sur une situation problématique particulière afférente à l'aide sociale générale;
+
+4° volontaire : la personne physique effectuant ses activités de façon volontaire et non rémunérée dans une structure organisée;
+
+5° travailleur rétribué : la personne physique effectuant des activités rémunérées dans une structure organisée et sous surveillance;
+
+6° usager : la personne physique faisant appel à l'aide sociale générale;
+
+7° aide et assistance responsables : l'aide et l'assistance axées sur l'usager, qui répondent aux exigences d'efficacité, d'efficience, de continuité et d'acceptabilité sociale;
+
+8° enregistrement : la collecte de données quantitatives et qualitatives de manière coordonnée et systématique;
+
+9° programmation : l'instrument pour déterminer une offre proportionnelle d'aide et d'assistance sur la base de données objectives relatives à e.a. la population et aux problématiques sociales;
+
+10° enveloppe de subventionnement : l'enveloppe financière annuelle qu'un centre agréé reçoit afin de mettre en oeuvre des tâches spécifiques et de réaliser un volume déterminé d'emploi de manière qualitative.
+
+[<sup>1</sup> 11° [<sup>2</sup> zone de première ligne : la zone d'action du conseil des soins, telle que visée à l'article 13 du décret du 26 avril 2019 relatif à l'organisation des soins de première ligne, des plateformes régionales de soins, et du soutien des prestataires de soins de première ligne]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> 12° région de référence : une délimitation des zones de plusieurs communes ensemble, telle que visée à l'article 5 du décret du 3 février 2023 sur la formation des régions et modifiant le décret du 22 décembre 2017 sur l'administration locale.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2012-05-25/06, art. 2, 002; En vigueur : 01-07-2013&gt;
+
+(2)&lt;DCFL 2023-12-01/10, art. 10, 005; En vigueur : 20-01-2024&gt;
+
+## CHAPITRE II. - Mission, objectifs, tâches et principes de fonctionnement
+
+### Section Ire. - Mission
+
+##### Art. 3
+
+L'aide sociale générale aide les usagers à s'épanouir sur le plan personnel et social, à user de leurs droits individuels et sociaux pour qu'ils soient à même de mener une vie humaine.
+
+### Section II. - Objectifs
+
+##### Art. 4
+
+L'aide sociale générale a comme objectif :
+
+1° de favoriser l'accès aux services sociaux de base et aux services de soins spécialisés et de contribuer effectivement à leur accessibilité;
+
+2° de prévenir des problèmes en matière d'intégration sociale et de fonctionnement personnel satisfaisant;
+
+3° d'offrir des solutions aux problèmes des usagers.
+
+### Section III. - Tâches
+
+#### Sous-section Ire. [<sup>1</sup> Sous-section Ire. Centre de télé-accueil ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-12-01/10, art. 11, 005; En vigueur : 20-01-2024&gt;
+
+##### Art. 5
+
+[<sup>1</sup> Le centre]<sup>1</sup> de télé-accueil a comme tâche :
+
+1° de fournir de l'aide, de l'accueil d'urgence, de l'information et de l'avis par téléphone ou par un autre moyen de communication électronique, avec une attention particulière pour la prévention de la mort volontaire;
+
+2° de référer, si nécessaire, à d'autres personnes ou services;
+
+3° de signaler des situations ayant des répercussions négatives sur l'intégrité, le bien-être et les chances d'épanouissement de l'individu et d'attirer l'attention sur des développements en matière de besoins d'aide sociale.
+
+Le Gouvernement flamand peut concrétiser ou compléter les tâches visées à l'alinéa premier.
+
+----------
+
+(1)&lt;DCFL 2023-12-01/10, art. 12, 005; En vigueur : 01-01-2025&gt;
+
+#### Sous-section II. - Centres d'aide sociale générale
+
+##### Art. 6
+
+Un centre d'aide sociale générale a comme mission d'organiser à partir d'une unité de gestion et de politique de l'aide et de l'assistance diversifiées et responsables focalisées sur la détection, la prévention, la réduction, la notification et la solution [<sup>1</sup> de]<sup>1</sup> facteurs qui menacent ou réduisent les chances de bien-être de personnes, de familles ou de groupes de population.
+
+----------
+
+(1)&lt;DCFL 2023-12-01/10, art. 13, 005; En vigueur : 20-01-2024&gt;
+
+##### Art. 7
+
+§ 1er. Les centres d'aide sociale générale ont trois tâches-clé : la prévention générale, l'accueil et l'accompagnement psycho-social.
+
+§ 2. La prévention générale comprend les initiatives axées sur la prévention, l'élimination ou la neutralisation de facteurs constituant une entrave systématique à l'épanouissement favorable d'un groupe plus grand de personnes ou celles axées sur la promotion de facteurs favorables à l'épanouissement.
+
+Le Gouvernement flamand détermine les différentes formes de prévention et les conditions auxquelles elles doivent répondre.
+
+§ 3. L'accueil comprend :
+
+1° la mise à la disposition d'un accueil accessible et général et de services d'information et de conseil accessibles;
+
+2° la charge du premier accueil de personnes se trouvant dans une situation matérielle, sociale ou psychosociale d'urgence et l'offre d'aide à des personnes courant un risque particulier de se retrouver dans une telle situation d'urgence.
+
+3° la fourniture de l'information requise et l'apprentissage à des personnes et à des groupes de population de connaissances et d'aptitudes de sorte qu'ils puissent faire usage des services sociaux généraux dans le but de se maintenir dans la société le plus indépendamment possible.
+
+4° la référence, si nécessaire, à des institutions ou personnes plus spécialisées, la médiation auprès d'elles et la coopération avec elles, dans le respect des soins sur mesure.
+
+Un accueil adapté est offert aux catégories d'usagers indiquées par le Gouvernement flamand.
+
+Le Gouvernement flamand arrête les modalités relatives à l'accueil.
+
+§ 4. L'accompagnement psychosocial comprend :
+
+1° l'offre de l'accompagnement ou des soins partiels nécessaires, assortis des approches et méthodiques adaptées, aux personnes souffrant de problèmes visés à l'article 2, 1°;
+
+2° la charge des soins de suite adaptés administrés aux personnes accompagnées.
+
+L'accompagnement psychosocial est offert en premier lieu aux personnes et aux groupes de population visés à l'article 12.
+
+Le Gouvernement flamand arrête les modalités de l'accompagnement psychosocial. Il arrête les conditions, les groupes-cibles prioritaires et la délimitation de l'accompagnement psychosocial.
+
+### Section IV. - Principes de fonctionnement
+
+##### Art. 8
+
+L'aide sociale générale est accessible à tous, sans aucune discrimination.
+
+##### Art. 9
+
+Quiconque entre en contact avec des usagers, en application du présent décret, respecte leurs convictions idéologiques, philosophiques ou religieuses et est tenu au secret.
+
+##### Art. 10
+
+Les centres qui offrent de l'aide et de l'assistance à des usagers dans le cadre de problèmes à cause d'événements tels que visés à l'article 2, 1°, traitent des données à caractère personnel et échangent des données à caractère personnel entre eux et avec des tiers pour que de l'aide et de l'assistance responsables telles que réglées par ou en vertu du présent décret puissent être offertes et que la continuité de l'aide et de l'assistance à ces usagers puisse être garantie. Ces données à caractère personnel comprennent aussi les données à caractère personnel visées à [<sup>1</sup> l'article 9, alinéa premier, et l'article 10 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données)]<sup>1</sup>.
+
+Sans préjudice de l'application des devoirs et des limitations résultant du [<sup>1</sup> règlement relatif à la protection des personnes physiques à l'égard]<sup>1</sup> des traitements de données à caractère personnel ou des réglementations des secteurs, cet échange de données est soumis aux conditions suivantes :
+
+1° l'échange de données ne concerne que les données qui sont nécessaires dans le cadre de l'aide sociale générale;
+
+2° les données ne sont échangées que dans l'intérêt des usagers;
+
+3° les tiers avec qui les données sont échangées doivent être associés à l'aide et à l'assistance;
+
+4° sauf cas de force majeure ou nécessité urgente, l'usager à qui les données ont trait, doit [<sup>1</sup> donner son consentement à l'échange d'informations de la manière déterminée par le Gouvernement flamand]<sup>1</sup>.
+
+[<sup>1</sup> Au deuxième alinéa, 4°, le consentement s'entend : toute expression libre, spécifique, éclairée et expresse de volonté.]<sup>1</sup>
+
+Le Gouvernement flamand arrête les modalités concernant la forme et la façon dont les données à caractère personnel sont traitées et échangées. Il peut indiquer les tiers qui satisfont aux conditions de l'échange de données à caractère personnel telles que visées aux alinéas premier et deux, 3° et ceux qui n'y satisfont pas.
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 78, 004; En vigueur : 25-05-2018&gt;
+
+##### Art. 11
+
+Les centres mènent une politique transparente quant à la contribution financière de l'usager à l'aide et à l'assistance offertes par eux. Le Gouvernement flamand peut définir les conditions de cette contribution, après concertation avec le secteur.
+
+##### Art. 12
+
+Chaque centre s'organise de telle façon que les personnes et les groupes de population les plus fragilisés soient atteints.
+
+Le Gouvernement flamand peut définir des critères pour la définition de la fragilité qui tiennent compte des caractéristiques des personnes ou groupes et de l'offre d'aide.
+
+##### Art. 13
+
+L'aide sociale générale :
+
+1° a été demandée ou acceptée par les personnes concernées;
+
+2° est offerte dans le respect de la vie privée de chaque personne;
+
+3° fait appel au maximum à la coresponsabilité de l'individu pour son bien-être;
+
+4° encourage et soutient l'autonomie de l'individu et de son environnement au maximum pour qu'il puisse participer à la société le plus indépendamment possible;
+
+5° approche la problématique de l'individu dans son entièreté et fait usage des formes d'assistance sociale et psychosociale les plus adaptées à ces fins.
+
+6° fait usage des ou réfère aux formes d'aide ou d'assistance les moins radicales possibles afin d'obtenir les effets désirés sur la problématique concernée.
+
+##### Art. 14
+
+Les centres font appel à des travailleurs rétribués et à des volontaires pour l'exécution de leurs tâches.
+
+##### Art. 15
+
+Pour l'organisation de leur offre d'aide les centres doivent :
+
+1° se concerter et coopérer afin d'optimiser la répartition des tâches, l'accessibilité et l'efficacité de leur fonctionnement;
+
+2° participer aux initiatives régionales en matière de concertation, organiser de telles initiatives, si nécessaire, et coopérer avec d'autres services publics et privés adéquats, partant d'un souci de complémentarité et de coopération.
+
+Le Gouvernement flamand peut arrêter la façon dont la concertation et la coopération doivent être organisées.
+
+##### Art. 16
+
+Le Gouvernement flamand peut organiser des initiatives en vue de l'harmonisation intersectorielle et de la coordination de la politique.
+
+## CHAPITRE III. - Agrément, subventionnement, programmation et enregistrement
+
+##### Art. 17
+
+§ 1er. Le Gouvernement flamand agrée les centres et les subventionne dans les limites des crédits budgétaires. Les dispositions du chapitre II font office de conditions d'agrément et de subventionnement sans préjudice de l'application des dispositions des § 2 et § 3.
+
+§ 2. Le Gouvernement flamand arrête la façon dont les centres doivent être établis pour être agréés, de même que le ressort, la programmation et le planning stratégique des centres [<sup>1</sup> sans préjudice de l'application des alinéas deux à cinq inclus]<sup>1</sup>.
+
+[<sup>1</sup> Le ressort d'un centre d'aide sociale générale est formé par le territoire de la région bilingue de Bruxelles-Capitale ou, dans la région de langue néerlandaise, par au moins trois [<sup>2</sup> zones de première ligne ]<sup>2</sup> avoisinantes, comptant ensemble au moins 300.000 habitants [<sup>2</sup> ...]<sup>2</sup>. [<sup>2</sup> Par région de référence et par ressort ]<sup>2</sup>, il peut être agréé au maximum un centre d'aide sociale générale. Un centre agréé d'aide sociale générale dispose d'un effectif du personnel d'au moins cinquante équivalents à temps plein agréés.
+
+Il peut être agréé au maximum onze centres d'aide sociale générale. L'ensemble des ressorts des centres agréés d'aide sociale générale doit couvrir la totalité du territoire de la région de langue néerlandaise et de la région bilingue de Bruxelles-Capitale.
+
+Chaque centre d'aide sociale générale dispose de plusieurs lieux d'implantation afin de réaliser une accessibilité aisée pour le public.
+
+Il peut être agréé au maximum un centre de télé-accueil [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+Le Gouvernement flamand peut arrêter des conditions d'agrément supplémentaires, tenant compte des dispositions du chapitre II. Il arrête la procédure d'agrément.
+
+§ 3. [<sup>2</sup> Le Gouvernement flamand fixe les règles de détermination et d'attribution des enveloppes de subventionnement des centres. Il tient à cet égard compte des Accords intersectoriels flamands en faveur des secteurs sociaux/non-marchands et fait une distinction entre le centre de télé-accueil et les centres d'aide sociale générale]<sup>2</sup>.
+
+Lors de la définition de l'enveloppe subventionnelle le Gouvernement flamand arrête les aspects suivants :
+
+1° les tâches à accomplir;
+
+2° le volume d'emploi à réaliser.
+
+Le Gouvernement flamand peut arrêter des conditions de subventionnement supplémentaires, tenant compte des dispositions du chapitre II. Il détermine la procédure de l'attribution des enveloppes subventionnelles.
+
+§ 4. Le Gouvernement flamand peut arrêter des règles spécifiques pour les centres dans la région bilingue de Bruxelles-Capitale en matière de programmation, de ressort, d'agrément et de subventionnement.
+
+----------
+
+(1)&lt;DCFL 2012-05-25/06, art. 3, 002; En vigueur : 01-07-2013&gt;
+
+(2)&lt;DCFL 2023-12-01/10, art. 14, 005; En vigueur : 20-01-2024&gt;
+
+##### Art. 18
+
+L'aide sociale générale est enregistrée. Afin de pouvoir ajuster l'offre d'aide de l'aide sociale générale de manière systématique en fonction de la demande, les centres transmettent des données à caractère personnel codées et des données sur l'aide et l'assistance responsables aux autorités flamandes.
+
+[<sup>1</sup> A l'alinéa premier, on entend par données personnelles codées : les données personnelles qui ne peuvent être reliées par un code qu'à une personne identifiée ou identifiable.]<sup>1</sup>
+
+Le Gouvernement flamand détermine quelles données sont transmises ainsi que la forme, la façon et la périodicité de cette transmission. Il détermine également la façon dont les données sont codées.
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 79, 004; En vigueur : 25-05-2018&gt;
+
+## CHAPITRE IV. - Projets et soutien
+
+##### Art. 19
+
+Le Gouvernement flamand peut accorder des subventions à des projets aux conditions qu'il arrêtera et dans les limites des crédits budgétaires.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-02-17/06, art. 18, 003; En vigueur : 01-01-2018&gt;
+
+## CHAPITRE V. - Contrôle
+
+##### Art. 20
+
+§ 1er. Le Gouvernement flamand organise le contrôle sur les centres agrées ou qui ont introduit une demande d'agrément.
+
+Les fonctionnaires chargés du contrôle ont le droit de visiter chaque centre tel que visé à l'alinéa premier. Les centres mettent à la disposition de ces fonctionnaires toutes les données nécessaires au contrôle. Ils autorisent à ces fonctionnaires de vérifier sur place le respect des dispositions du présent décret et de ses arrêtés d'exécution et d'entreprendre toutes les démarches y afférentes.
+
+Les fonctionnaires, tels que visés à l'alinéa deux, rédigent un rapport de leurs constats. Le rapport fait foi jusqu'à preuve du contraire. Une copie du rapport est envoyée au centre concerné.
+
+§ 2. Le Gouvernement flamand arrête les règles de la modification de l'agrément, de même que celles du retrait de l'agrément lorsque les centres ne respectent pas les conditions d'agrément ou ne coopèrent pas à l'exercice du contrôle.
+
+Il peut arrêter des règles relatives à la réduction ou au recouvrement des enveloppes subventionnelles lorsque les centres ne respectent pas les conditions de subventionnement ou qu'ils ne coopèrent pas à l'exercice du contrôle.
+
+## CHAPITRE VI. - Dispositions modificatives
+
+##### Art. 21
+
+A l'article 4, § 1er, alinéa premier, du décret du 7 mai 2004 relatif à l'aide intégrale à la jeunesse, modifié par le décret du 30 mars 2007, le point 5° est remplacé par la disposition suivante :
+
+"5° le décret du 8 mai 2009 relatif à l'aide sociale générale; "
+
+## CHAPITRE VII. - Dispositions finales
+
+##### Art. 22
+
+Le décret du 19 décembre 1997 relatif à l'aide sociale générale est abrogé.
+
+##### Art. 23
+
+[<sup>1</sup> Les dispositions du décret, mentionnées à l'article 22, et des arrêtés pris en exécution de celui-ci, restent d'application à un centre d'aide sociale générale ou à un centre de télé-accueil agréé à la date d'entrée en vigueur du présent décret, ou à son ayant cause, jusqu'au moment de son agrément conformément aux dispositions de l'article 17 du présent décret et au plus tard jusqu'au 31 décembre 2013.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-05-25/06, art. 4, 002; En vigueur : 01-07-2013&gt;
+
+##### Art. 24
+
+Le Gouvernement flamand arrête la date d'entrée en vigueur du présent décret.
+
+(NOTE : Entrée en vigueur des articles 2-16;17,§§3-4;18-22;24 fixée au 01-01-2014 et entrée en vigueur des articles 1;17,§§1-2;23 fixée au 01-07-2013 par AGF 2013-06-21/10, art. 55, L1)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge .
+
+Bruxelles, le 8 mai 2009.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+La Ministre flamande du Bien-Etre, de la Santé publique et de la Famille,
+
+Mme V. HEEREN

@@ -1,0 +1,1533 @@
+---
+title: "Décret relatif à l'aide financière aux études de la Communauté flamande (TRADUCTION)"
+identifier: "2007036095"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/08/2007036095/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2007-06-08
+published: 2007-07-19
+entry_into_force: 2007-07-01
+last_amended: 2026-06-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/08/2007036095/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 19-07-2007 et mise à jour au 26-06-2026"
+retrieved: 2026-10-12
+---
+
+# 8 JUIN 2007. - Décret relatif à l'aide financière aux études de la Communauté flamande (TRADUCTION)
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit : décret relatif à l'aide financière aux études de la Communauté flamande.
+
+## LIVRE Ier. - Dispositions générales.
+
+**Art. 1**
+
+Le présent décret règle une matière communautaire.
+
+**Art. 2**
+
+[<sup>1</sup> Le présent décret règle l'aide financière aux études dans l'enseignement supérieur de la Communauté flamande, par le biais d'un régime d'allocations d'études.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 6, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 3**
+
+Les [<sup>1</sup> ...]<sup>1</sup> allocations d'études ont pour but de contribuer à la démocratisation de l'enseignement [<sup>1</sup> supérieur]<sup>1</sup> en éliminant les obstacles financiers.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 7, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 4**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le Gouvernement flamand octroie des allocations d'études aux étudiants peu aisés dans l'enseignement supérieur, conformément aux règles fixées par et en vertu du présent décret.
+
+Les [<sup>1</sup> ...]<sup>1</sup> allocations d'études ne peuvent être affectées qu'à la couverture des frais d'entretien de l'ayant droit et de l'enseignement suivi par lui. Ces allocations ne peuvent faire l'objet d'une saisie pour cause de dettes contractées par [<sup>1</sup> ...]<sup>1</sup> l'étudiant ou [<sup>1</sup> son]<sup>1</sup> représentant légal et n'ayant aucun rapport avec ces fins.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 8, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 4bis**
+
+[<sup>1</sup> Les créances directement et exclusivement reliées aux dépenses, visées à l'article 4, troisième alinéa, faites par le receveur de l'aide financière aux études, sont privilégiées sur le montant alloué de l'aide financière aux études dans le même ordre de priorité que les créances visées à l'article 19, 5°, de la Loi hypothécaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2011-07-01/33, art. VIII.1, 008; En vigueur : 01-09-2011&gt;
+
+**Art. 5**
+
+Dans le présent décret, on entend par :
+
+1° demandeur : un [<sup>15</sup> ...]<sup>15</sup> étudiant ou représentant légal chez lequel [<sup>15</sup> ...]<sup>15</sup> l'étudiant a sa résidence principale au 31 décembre de l'année [<sup>15</sup> ...]<sup>15</sup> académique en question, qui introduit une demande d'allocation;
+
+2° année académique : la période d'un an qui commence au plus tôt le 1er septembre et au plus tard le 1er octobre et se termine le jour précédant la rentrée académique suivante. Si, conformément à la législation en vigueur, il est dérogé exceptionnellement à la définition précitée, la formation commençant après le 31 décembre et se terminant après le 30 septembre, est considérée pour la demande d'une allocation d'étude comme appartenant à l'année académique, comme stipulée plus haut, dans laquelle la formation se termine;
+
+3° [<sup>7</sup> ...]<sup>7</sup>
+
+4° institution enregistrée d'office : institution telle que visée à l'[<sup>7</sup> article II.1 du Code de l'Enseignement supérieur]<sup>7</sup>;
+
+5° [<sup>1</sup> ...]<sup>1</sup>
+
+6° étranger : territoire à l'extérieur du territoire de l'Etat;
+
+7° [<sup>15</sup> ...]<sup>15</sup>
+
+8° [<sup>6</sup> Division des Allocations d'Etudes]<sup>6</sup> : le [<sup>6</sup> Division des Allocations d'Etudes]<sup>6</sup> du Ministère flamand de l'Enseignement et de la Formation qui est responsable de l'aide financière aux études;
+
+9° contrat de diplôme : notion telle que mentionnée à l'[<sup>7</sup> article I.3, 20°, du Code de l'Enseignement supérieur]<sup>7</sup>;
+
+[<sup>1</sup> 9°bis année diplômante : l'année académique dans laquelle un étudiant s'inscrit, au moyen d'un contrat de diplôme, à une formation telle que visée à l'article 21, § 1er, et dans laquelle l'étudiant peut obtenir un diplôme sanctionnant cette formation [<sup>2</sup> ou peut accomplir son programme préparatoire ou de transition]<sup>2</sup>.]<sup>1</sup>
+
+10° [<sup>15</sup> ...]<sup>15</sup>
+
+11° [<sup>15</sup> ...]<sup>15</sup>
+
+12° Espace européen de l'Enseignement supérieur : tous les pays européens et toutes les régions européennes qui, ou bien ont signé la déclaration commune des Ministres européens de l'Education réunis à Bologne le 19 juin 1999, ou bien ont souscrit cette déclaration à une date ultérieure et sont acceptés comme membres du processus de Bologne lors d'une conférence de suivi des Ministres européens de l'enseignement supérieur;
+
+13° fiscalement à charge : à charge selon les articles 136 à 145 inclus du Code de l'impôt sur les revenus;
+
+14° [<sup>7</sup> ...]<sup>7</sup>
+
+15° mariés : les mariés et cohabitants légaux conformément à l'article 1476 du Code civil, tels que définis par la loi du 23 novembre 1998 instaurant la cohabitation légale, ainsi que deux personnes ayant leur résidence principale à la même adresse et ayant un ou plusieurs enfants en commun. La personne qui, en vertu de [<sup>2</sup> des articles 10, 10bis, 40bis ou 40ter]<sup>2</sup> de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, a été autorisée à séjourner en Belgique pour continuer une relation durable avec une personne disposant déjà d'un droit de séjour en Belgique, est également considéré comme mariée [<sup>9</sup> , ou deux personnes ayant leur résidence principale à la même adresse dont l'une prend fiscalement à charge les enfants de l'autre personne]<sup>9</sup>;
+
+16° [<sup>1</sup> parcours de formation à mi-temps : un parcours de formation dans l'enseignement supérieur correspondant à un programme d'études de 30 unités d'études;]<sup>1</sup>
+
+[<sup>3</sup> 16°/1 enseignement supérieur : une des formations suivantes :
+
+a) une formation de bachelor et une formation de master, [<sup>7</sup> telles que visées à l'article II.58 du Code de l'Enseignement supérieur]<sup>7</sup>;
+
+b) [<sup>10</sup> ...]<sup>10</sup>
+
+c) un programme préparatoire suivi ou non à titre de préparation à une formation continue;
+
+d) un programme de transition;
+
+e) l'enseignement supérieur professionnel [<sup>11</sup> [<sup>14</sup> de nursing de l'enseignement supérieur professionnel HBO-5]<sup>14</sup>]<sup>11</sup>;]<sup>3</sup>
+
+[<sup>13</sup> f) une formation des enseignants telle que visée à l'article II.111 du Code de l'Enseignement supérieur du 11 octobre 2013 ;]<sup>13</sup>
+
+17° [<sup>1</sup> résidence principale : une notion, telle que visée à l'article 3, premier alinéa, 5°, de la loi du 8 août 1983 organisant un Registre national des personnes physiques;]<sup>1</sup>
+
+18° revenu cadastral : le revenu cadastral conformément au titre IX du Code des impôts sur les revenus;
+
+19° revenu cadastral des biens immobiliers affectés à d'autres usages : le revenu cadastral des immeubles qui ne sont affectés ni à la résidence principale par le propriétaire, ni à l'exercice d'une activité professionnelle par le propriétaire;
+
+[<sup>5</sup> 19° /1 revenu cadastral pour propres fins professionnelles : le revenu cadastral des biens immeubles utilisés pour des propres fins professionnelles, mentionné sur la feuille d'imposition de l'impôt des personnes physiques;]<sup>5</sup>
+
+20° année calendrier : la période du 1er janvier au 31 décembre inclus;
+
+21° unité de vie : une ou plusieurs personnes majeures, quel que soit le sexe, et éventuellement une ou plusieurs personnes mineures qui ont leur résidence principale à la même adresse, ainsi qu'un ou plusieurs [<sup>15</sup> ...]<sup>15</sup> étudiants mariés, indépendants ou isolés, quel que soit le sexe, et éventuellement une ou plusieurs personnes mineures ou majeures qui ont leur résidence principale à la même adresse;
+
+22° [<sup>15</sup> ...]<sup>15</sup>
+
+23° [<sup>15</sup> ...]<sup>15</sup>
+
+24° [<sup>1</sup> ...]<sup>1</sup>
+
+25° transférabilité de l'allocation : l'obtention [<sup>15</sup> ...]<sup>15</sup> d'une allocation d'études dans l'enseignement supérieur pour un programme d'études ou une formation suivi dans une autre communauté ou à l'étranger;
+
+26° NARIC Vlaanderen : le "National Academic (& Professional) Recognition and Information Centre" créé au sein de la Communauté flamande;
+
+27° personnes non apparentées : les personnes physiques qui ne sont ni des ascendants ou descendants en ligne directe ou en ligne collatérale jusqu'au quatrième degré, ni des alliés dans la même ligne et du même degré;
+
+28° [<sup>1</sup> unités d'études engagées : partie de la formation, correspondant au nombre total d'unités d'études que celle-ci comprend, à laquelle un étudiant est inscrit au moyen d'un contrat de diplôme dans une institution d'enseignement supérieur afin de suivre une formation, telle que visée aux articles 20, §§ 1er et 2, 21, § 1er, et 30, § 1er;]<sup>1</sup>
+
+29° subdivision de formation : notion telle que mentionnée à l'[<sup>7</sup> article I.3, 49°, du Code de l'Enseignement supérieur]<sup>7</sup>;
+
+30° ayant droit : [<sup>15</sup> ...]<sup>15</sup> l'étudiant qui, conformément au présent décret, ont droit à [<sup>15</sup> ...]<sup>15</sup> une allocation d'études de la Communauté flamande;
+
+31° [<sup>7</sup> article I.3, 56°, du Code de l'Enseignement supérieur]<sup>7</sup>
+
+32° [<sup>15</sup> ...]<sup>15</sup>
+
+33° [<sup>15</sup> ...]<sup>15</sup>
+
+34° [<sup>15</sup> ...]<sup>15</sup>
+
+35° [<sup>12</sup> ...]<sup>12</sup>
+
+36° étudiant : la personne inscrite dans une institution d'enseignement supérieur;
+
+37° [<sup>7</sup> ...]<sup>7</sup>
+
+38° allocation d'études : moyens financiers octroyés par la Communauté flamande aux étudiants mal aisés dans l'enseignement supérieur de la Communauté flamande;
+
+39° allocation : une [<sup>15</sup> ...]<sup>15</sup> une allocation d'études;
+
+40° désinscrire : l'arrêt précoce de la partie de la formation pour laquelle l'étudiant s'est inscrit pour l'année [<sup>15</sup> ...]<sup>15</sup> académique concernée, à la demande du demandeur [<sup>5</sup> , [<sup>15</sup> ...]<sup>15</sup> de l'étudiant]<sup>5</sup> ou de son représentant légal;
+
+[<sup>16</sup> 40° /1 revenus de remplacement : les indemnités de toute nature obtenues pendant l'exercice de l'activité professionnelle ou postérieurement à sa cessation en réparation totale ou partielle d'une perte temporaire de bénéfices, profits, rémunérations ou rétributions issus des activités d'association visées à l'article 25, alinéa 1er, 6°, b), à l'article 27, alinéa 2, 4°, b), à l'article 28, alinéa 1er, 3°, b), à l'article 29, à l'article 31, alinéa 2, 4°, à l'article 32, alinéa 2, 2°, à l'article 33, alinéa 3, ou à l'article 90, alinéa 1er, 1°, du Code des impôts sur les revenus 1992 ;]<sup>16</sup>
+
+41° [<sup>1</sup> unités d'études acquises : unités d'études pour lesquelles un étudiant a obtenu une attestation de crédits pour avoir suivi, sur la base d'un contrat de diplôme, une formation, telle que visée aux articles 20, §§ 1er et 2, 21, § 1er, et 30, § 1er;]<sup>1</sup>
+
+42° [<sup>1</sup> parcours de formation à temps plein : un parcours de formation dans l'enseignement supérieur correspondant à un programme d'études de 60 unités études;]<sup>1</sup>
+
+43° programme préparatoire : notion telle que mentionnée à l'[<sup>7</sup> article I.3, 76°, du Code de l'Enseignement supérieur]<sup>7</sup> [<sup>2</sup> , n'étant pas suivi à titre de préparation a une formation de bachelor après bachelor ou d'un formation de master après master]<sup>2</sup>;
+
+[<sup>3</sup> 43°/1 formation continue : une formation de bachelor après bachelor, une formation de master après master, un doctorat, une formation de doctorat ou une formation post-graduate;]<sup>3</sup>
+
+44° [<sup>15</sup> ...]<sup>15</sup>
+
+[<sup>1</sup> 45° séjour légal : la situation de l'étranger admis à séjourner dans le Royaume ou autorisé à s'y établir pour une durée de plus de trois mois, conformément aux dispositions de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, ainsi que la situation de personnes qui, en tant que victimes de la traite et du trafic des êtres humains ou en tant que mineurs non accompagnés, sont autorisées, [<sup>8</sup> par une attestation d'immatriculation]<sup>8</sup>, de séjourner dans le Royaume pour un délai de maximum trois mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.1, 002; En vigueur : 15-08-2008&gt;
+
+(2)&lt;DCFL 2009-05-08/32, art. 1, 005; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFL 2010-07-09/26, art. VI.1, 006; En vigueur : 01-09-2010&gt;
+
+(4)&lt;AGF 2010-12-17/39, art. 359, 53), 007; En vigueur : 04-07-2011&gt;
+
+(5)&lt;DCFL 2012-12-21/65, art. IX.2, 010; En vigueur : 01-09-2013&gt;
+
+(6)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+(7)&lt;DCFL 2015-06-19/33, art. IV.7, 013; En vigueur : 01-09-2015&gt;
+
+(8)&lt;DCFL 2017-06-16/24, art. IX.9,2°, 015; En vigueur : 01-09-2016&gt;
+
+(9)&lt;DCFL 2017-06-16/24, art. IX.9,1°, 015; En vigueur : 01-09-2017&gt;
+
+(10)&lt;DCFL 2018-05-04/28, art. 30,1°, 018; En vigueur : 01-01-2019&gt;
+
+(11)&lt;DCFL 2018-05-04/28, art. 30,2°, 018; En vigueur : 01-01-2019&gt;
+
+(12)&lt;DCFL 2018-05-04/28, art. 30,4°, 018; En vigueur : 01-01-2019&gt;
+
+(13)&lt;DCFL 2018-05-04/28, art. 30,3°, 018; En vigueur : 01-09-2019&gt;
+
+(14)&lt;DCFL 2019-03-01/26, art. 4, 019; En vigueur : 01-09-2019&gt;
+
+(15)&lt;DCFL 2019-03-22/19, art. 9, 020; En vigueur : 01-09-2019&gt;
+
+(16)&lt;DCFL 2024-04-19/55, art. 41, 026; En vigueur : 01-09-2024&gt;
+
+## LIVRE II. - Allocations [<sup>1</sup> ...]<sup>1</sup> d'études.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 10, 020; En vigueur : 01-09-2019&gt;
+
+### TITRE Ier. - Dispositions générales.
+
+**Art. 6**
+
+Afin d'être éligible à une allocation, il doit être satisfait simultanément à la condition de nationalité et aux conditions pédagogiques, financières et procédurales, fixées dans le présent décret.
+
+[<sup>1</sup> Sans préjudice de l'application de l'alinéa 1er, l'étudiant qui a atteint l'âge de 30 ans au 31 décembre de l'année civile au cours de laquelle commence l'année académique n'a pas droit à l'allocation d'études.
+
+Les étudiants qui ne remplissent pas la condition d'âge, visée à l'alinéa 2, mais qui peuvent démontrer que des circonstances particulières ou un cas de force majeure les ont empêchés de commencer et de terminer une formation de l'enseignement supérieur avant la limite d'âge visée à l'alinéa 2, peuvent demander une dérogation à cette limite d'âge auprès de la division Allocations d'études. L'étudiant présente les pièces justificatives nécessaires à cet effet.
+
+Par dérogation à l'alinéa 2, les étudiants qui suivent une formation dans le cadre d'une convention VDAB telle que visée à l'article 87 de l'arrêté du Gouvernement flamand du 5 juin 2009 portant organisation de l'emploi et de la formation professionnelle n'ont pas droit à la dérogation à la condition d'âge visée à l'alinéa 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-19/04, art. 2, 027; En vigueur : 02-06-2026&gt;
+
+**Art. 7**
+
+Pour l'application du présent décret, il est tenu compte de la situation au 31 décembre de l'année [<sup>1</sup> ...]<sup>1</sup> académique concernée pour la fixation de la nationalité, de la résidence principale et de la situation de l'unité de vie.
+
+Pour l'application du présent décret, il est tenu compte de la situation au 30 juin de l'année [<sup>1</sup> ...]<sup>1</sup> académique concernée pour la fixation de la situation pédagogique.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 11, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 8**
+
+[<sup>1</sup> La Division des Allocations d'Etudes peut prendre tous les renseignements nécessaires pour l'application du présent décret. [<sup>2</sup> La Division des Allocations d'Etudes peut également échanger des données avec les autorités compétentes pour l'aide financière aux études à l'étranger, pour autant que cet échange d'informations soit nécessaire pour l'application de la réglementation étrangère et s'inscrit dans un cadre d'accords écrit entre les services publics concernés, dans le respect de [<sup>3</sup> le règlement relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel]<sup>3</sup>.]<sup>2</sup>
+
+Le demandeur, la personne qui reçoit l'allocation ou la personne qui subvient aux besoins [<sup>4</sup> ...]<sup>4</sup> de l'étudiant, doit mettre la Division des Allocations d'Etudes au courant de nouvelles données pertinentes pour le traitement du dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2012-12-21/65, art. IX.3, 010; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFL 2016-06-17/24, art. X.7, 014; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2018-06-08/04, art. 69, 017; En vigueur : 25-05-2018&gt;
+
+(4)&lt;DCFL 2019-03-22/19, art. 12, 020; En vigueur : 01-09-2019&gt;
+
+### TITRE II. - Condition de nationalité.
+
+**Art. 9**
+
+§ 1er. Une allocation peut être octroyée aux [<sup>4</sup> ...]<sup>4</sup> étudiants ayant la nationalité belge.
+
+§ 2. Par dérogation au § 1er, une allocation peut être octroyée aux catégories suivantes [<sup>4</sup> ...]<sup>4</sup> d'étudiants :
+
+1° les enfants de ressortissants d'un Etat membre de l'Espace économique européen qui, sur la base d'un contrat de travail, travaillent ou ont travaillé en Belgique pour une période de deux ans et au plus tard le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question pour au moins 12 mois pendant au moins 32 heures par mois, et qui peuvent faire appel à l'article 12 du Règlement (CEE) 1612/68 du Conseil, du 15 octobre 1968, relatif à la libre circulation des travailleurs à l'intérieur de l'Union, ainsi que les enfants de ressortissants d'un Etat membre de l'Espace économique européen qui exercent ou ont exercé des activités en Belgique autres que des activités prestées dans le cadre d'un travail salarié pour une période de deux ans et au plus tard le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question sur la base d'une inscription dans la Banque-Carrefour des entreprises ou le registre de commerce;
+
+2° les ressortissants d'un Etat membre de l'Espace économique européen qui, sur la base d'un contrat de travail, travaillent ou ont travaillé en Belgique pour une période de deux ans précédant immédiatement le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question pour au moins 12 mois pendant au moins 32 heures par mois, et qui peuvent faire appel à l'article 7 du Règlement (CEE) 1612/68 du Conseil, du 15 octobre 1968, relatif à la libre circulation des travailleurs à l'intérieur de l'Union, ainsi que les ressortissants d'un Etat membre de l'Espace économique européen qui exercent ou ont exercé des activités en Belgique autres que des activités prestées dans le cadre d'un travail salarié pour une période de deux ans précédant immédiatement le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question sur la base d'une inscription dans la Banque-Carrefour des Entreprises;
+
+3° les ressortissants d'un Etat membre de l'Union européenne qui, pendant la période précédant immédiatement le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question, séjournaient en Belgique pendant 5 ans de manière ininterrompue, l'inscription au Registre national ou une attestation équivalente à délivrer par l'administration communale prouvant le délai de résidence;
+
+4° les [<sup>4</sup> ...]<sup>4</sup> étudiants de nationalité étrangère qui sont admis ou autorisés à séjourner en Belgique pour une durée illimitée, au sens de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+5° les victimes du trafic de personnes, attestées par un centre agréé par les autorités fédérales spécialisé dans l'accueil de victimes du trafic de personnes;
+
+6° [<sup>2</sup> les [<sup>4</sup> ...]<sup>4</sup> étudiants de nationalité étrangère qui sont admis à séjourner en Belgique pour une durée déterminée en vertu des articles 49, § 1er, ou 49/2, § 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ;]<sup>2</sup>
+
+7° les ressortissants d'un pays n'appartenant pas à l'Espace économique européen qui, le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique concernée, séjournent légalement en Belgique pendant une période ininterrompue d'au moins douze mois, à condition que ce séjour légal n'ait pas été accordé ni pour suivre l'enseignement supérieur ou pour travailler en Belgique, ni dans l'attente d'un prononcé dans une procédure d'asile afin d'être reconnu comme réfugié ou comme personne ayant droit à une protection subsidiaire, conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+8° les personnes qui, en vertu des articles 10, 10bis [<sup>1</sup> 40bis ou 40ter]<sup>1</sup> de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, ont reçu la permission d'accompagner ou de rejoindre une personne telle que visée au § 1er ou § 2, 1° à 7° inclus, du présent article, ou une personne qui, le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique concernée, séjourne depuis au moins douze mois légalement en Belgique pour faire des études supérieures ou pour travailler;
+
+[<sup>5</sup> 9° les personnes bénéficiant d'une protection temporaire sur la base de la directive 2001/55/CE du Conseil de l'Union Européenne du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil, ou les personnes dont les parents bénéficient de cette protection et l'étudiant réside en Belgique depuis qu'il était mineur.]<sup>5</sup>
+
+[<sup>3</sup> § 3. Par dérogation aux paragraphes 1er et 2, une allocation peut être octroyée à un enfant placé ou un adulte placé tel que visé à l'article 2, 8° et 10°, du décret du 29 juin 2012 portant organisation du placement familial à condition que l'enfant placé ou l'adulte placé séjourne dans [<sup>6</sup> une]<sup>6</sup> famille d'accueil pendant une période ininterrompue de plus d'un an.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. VII.2, 005; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2017-06-16/24, art. IX.10, 015; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2018-06-15/18, art. 40, 016; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFL 2019-03-22/19, art. 13, 020; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2022-04-22/07, art. 10, 024; En vigueur : 01-08-2022&gt;
+
+(6)&lt;DCFL 2024-04-19/55, art. 42, 026; En vigueur : 01-09-2024&gt;
+
+**Art. 9 DROIT FUTUR**
+
+§ 1er. Une allocation peut être octroyée aux [<sup>4</sup> ...]<sup>4</sup> étudiants ayant la nationalité belge.
+
+§ 2. Par dérogation au § 1er, une allocation peut être octroyée aux catégories suivantes [<sup>4</sup> ...]<sup>4</sup> d'étudiants :
+
+1° les enfants de ressortissants d'un Etat membre de l'Espace économique européen qui, sur la base d'un contrat de travail, travaillent ou ont travaillé en Belgique pour une période de deux ans et au plus tard le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question pour au moins 12 mois pendant au moins 32 heures par mois, et qui peuvent faire appel à l'article 12 du Règlement (CEE) 1612/68 du Conseil, du 15 octobre 1968, relatif à la libre circulation des travailleurs à l'intérieur de l'Union, ainsi que les enfants de ressortissants d'un Etat membre de l'Espace économique européen qui exercent ou ont exercé des activités en Belgique autres que des activités prestées dans le cadre d'un travail salarié pour une période de deux ans et au plus tard le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question sur la base d'une inscription dans la Banque-Carrefour des entreprises ou le registre de commerce;
+
+2° les ressortissants d'un Etat membre de l'Espace économique européen qui, sur la base d'un contrat de travail, travaillent ou ont travaillé en Belgique pour une période de deux ans précédant immédiatement le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question pour au moins 12 mois pendant au moins 32 heures par mois, et qui peuvent faire appel à l'article 7 du Règlement (CEE) 1612/68 du Conseil, du 15 octobre 1968, relatif à la libre circulation des travailleurs à l'intérieur de l'Union, ainsi que les ressortissants d'un Etat membre de l'Espace économique européen qui exercent ou ont exercé des activités en Belgique autres que des activités prestées dans le cadre d'un travail salarié pour une période de deux ans précédant immédiatement le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question sur la base d'une inscription dans la Banque-Carrefour des Entreprises;
+
+3° les ressortissants d'un Etat membre de l'Union européenne qui, pendant la période précédant immédiatement le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique en question, séjournaient en Belgique pendant 5 ans de manière ininterrompue, l'inscription au Registre national ou une attestation équivalente à délivrer par l'administration communale prouvant le délai de résidence;
+
+4° les [<sup>4</sup> ...]<sup>4</sup> étudiants de nationalité étrangère qui sont admis ou autorisés à séjourner en Belgique pour une durée illimitée, au sens de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+5° les victimes du trafic de personnes, attestées par un centre agréé par les autorités fédérales spécialisé dans l'accueil de victimes du trafic de personnes;
+
+6° [<sup>2</sup> les [<sup>4</sup> ...]<sup>4</sup> étudiants de nationalité étrangère qui sont admis à séjourner en Belgique pour une durée déterminée en vertu des articles 49, § 1er, ou 49/2, § 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ;]<sup>2</sup>
+
+7° les ressortissants d'un pays n'appartenant pas à l'Espace économique européen qui, le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique concernée, séjournent légalement en Belgique pendant une période ininterrompue d'au moins douze mois, à condition que ce séjour légal n'ait pas été accordé ni pour suivre l'enseignement supérieur ou pour travailler en Belgique, ni dans l'attente d'un prononcé dans une procédure d'asile afin d'être reconnu comme réfugié ou comme personne ayant droit à une protection subsidiaire, conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+8° les personnes qui, en vertu des articles 10, 10bis [<sup>1</sup> 40bis ou 40ter]<sup>1</sup> de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, ont reçu la permission d'accompagner ou de rejoindre une personne telle que visée au § 1er ou § 2, 1° à 7° inclus, du présent article, ou une personne qui, le 31 décembre de l'année [<sup>4</sup> ...]<sup>4</sup> académique concernée, séjourne depuis au moins douze mois légalement en Belgique pour faire des études supérieures ou pour travailler;
+
+[<sup>6</sup> 9° les personnes bénéficiant d'une protection temporaire sur la base de la directive 2001/55/CE du Conseil de l'Union Européenne du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil, ou les personnes dont les parents bénéficient de cette protection et l'étudiant réside en Belgique depuis qu'il était mineur.]<sup>6</sup>
+
+[<sup>3</sup> § 3. Par dérogation aux paragraphes 1er et 2, une allocation peut être octroyée à un enfant placé ou un adulte placé tel que visé à l'article 2, 8° et 10°, du décret du 29 juin 2012 portant organisation du placement familial à condition que l'enfant placé ou l'adulte placé séjourne dans [<sup>7</sup> une]<sup>7</sup>famille d'accueil pendant une période ininterrompue de plus d'un an.]<sup>3</sup>
+
+[<sup>5</sup> § 4. Pour l'application du présent article, les ressortissants du Royaume-Uni inscrits dans un établissement d'enseignement secondaire à temps plein agréé, financé ou subventionné par la Communauté flamande, ou dans un établissement d'enseignement supérieur, sont assimilés aux ressortissants d'un Etat membre de l'Union européenne à la date à laquelle le Royaume-Uni quitte l'Union conformément à l'article 50, alinéa 3, du Traité sur l'Union européenne, jusqu'à l'année académique 2020-2021 incluse.]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. VII.2, 005; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCFL 2017-06-16/24, art. IX.10, 015; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCFL 2018-06-15/18, art. 40, 016; En vigueur : 01-09-2018&gt;
+
+(4)&lt;DCFL 2019-03-22/19, art. 13, 020; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2019-03-22/06, art. 18, 021; En vigueur : indéterminée &gt;
+
+(6)&lt;DCFL 2022-04-22/07, art. 10, 024; En vigueur : 01-08-2022&gt;
+
+(7)&lt;DCFL 2024-04-19/55, art. 42, 026; En vigueur : 01-09-2024&gt;
+
+### TITRE III. - Conditions pédagogiques.
+
+#### CHAPITRE Ier.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+##### Section 1re.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 10**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 11**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 12**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+###### Sous-section 1re.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 13**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+###### Sous-section II.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 14**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+##### Section II.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+###### Sous-section 1re.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 15**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 16**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 17**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 18**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+###### Sous-section II.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 19**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 19/1**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 14, 020; En vigueur : 01-09-2019&gt;
+
+#### CHAPITRE II. - Allocation d'études dans l'enseignement supérieur.
+
+##### Section Ire. - Conditions générales.
+
+**Art. 20**
+
+§ 1er. Afin d'être éligible à une allocation d'études, l'étudiant doit avoir conclu un contrat de diplôme aux fins de suivre une formation qui est accréditée, agréée comme nouvelle formation ou agréée temporairement, et qui est organisée par une institution enregistrée d'office.
+
+Sont également considérées comme étant des formations qui relèvent du champ d'application du premier alinéa :
+
+1° les formations relevant du champ d'application de l'[<sup>2</sup> article II.133, § 2, du Code de l'Enseignement supérieur]<sup>2</sup>, avant que l'étudiant n'ait achevé la formation endéans la durée normale de celle-ci;
+
+2° les formations qui sont accréditées, agréées comme nouvelles formations ou agréées temporairement et qui relèvent du champ d'application de l'[<sup>2</sup> article II.171 ou II.172 du Code de l'Enseignement supérieur]<sup>2</sup>.
+
+§ 2. Par dérogation au § 1er, premier alinéa, les formations suivantes sont également admissibles à une allocation d'études :
+
+1° un programme préparatoire;
+
+2° un programme de transition;
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>1</sup> 4° à partir de l'année académique 2014-2015, un programme d'actualisation tel que visé à l'article 31, § 3, deuxième alinéa, du décret du 30 avril 2004 relatif à la flexibilisation de l'enseignement supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Insertion de §2,4° par DCFL 2013-07-19/57, art. XII.1, 011; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2015-06-19/33, art. IV.8, 013; En vigueur : 01-09-2015&gt;
+
+(3)&lt;DCFL 2018-05-04/28, art. 31, 018; En vigueur : 01-01-2019&gt;
+
+**Art. 21**
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Chaque étudiant peut bénéficier d'une allocation d'études pour l'obtention d'un diplôme pour deux bachelors, deux graduats, un master, une formation d'enseignant et pour l'accomplissement d'un programme préparatoire et d'un programme de transition.]<sup>2</sup>
+
+[<sup>3</sup> Lorsqu'un étudiant a terminé une formation de graduat éducatif ou est inscrit à une formation de graduat éducatif dans l'année académique concernée, il a droit à un crédit pour une troisième formation de graduat.
+
+Lorsqu'un étudiant a terminé une formation de bachelor éducatif ou une formation de bachelor dans la discipline Enseignement ou est inscrit à une formation de bachelor éducatif dans l'année académique concernée, l'étudiant a droit à un crédit pour une troisième formation de bachelor.
+
+Lorsqu'un étudiant a terminé une formation de master éducatif ou est inscrit à une formation de master éducatif dans l'année académique concernée, l'étudiant a droit à un crédit pour une seconde formation de master.
+
+Les crédits visés aux alinéas 2 à 4 ne peuvent pas être cumulés.]<sup>3</sup>
+
+§ 2. Chaque étudiant a un crédit allocation d'études qui, au terme de chaque année académique, est majoré du nombre d'unités d'études acquises par l'étudiant pendant cette année académique pour ses études telles que visées au § 1er.
+
+Les unités d'études acquises sont ajoutées au crédit allocation d'études peu importe que l'étudiant demande ou non une allocation d'études pour ces unités d'études acquises.
+
+§ 3. Par dérogation au § 2, le crédit allocation d'études ne peut dépasser soixante.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.3, 002; En vigueur : 15-08-2008&gt;
+
+(2)&lt;DCFL 2018-05-04/28, art. 32, 018; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2019-03-01/26, art. 5, 019; En vigueur : 01-09-2019&gt;
+
+**Art. 22**
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 26, § 1er, le crédit joker n'est pas utilisé pour des étudiants qui, pour la première fois, s'inscrivent au moyen d'un contrat de diplôme dans l'enseignement supérieur en vue de suivre une ou plusieurs formations, telles que visées aux articles 20, §§ 1er et 2, 21, § 1er, et 30, § 1er.
+
+§ 2. Le crédit allocation d'études de l'étudiant, tel que visé au § 1er, est majoré du nombre d'unités d'études engagées par l'étudiant pendant l'année académique en question, avec un maximum de soixante.
+
+§ 3. Si, pendant sa première année académique de l'enseignement supérieur, l'étudiant engageait moins de soixante unités d'études, la différence entre soixante et le nombre d'unités d'études engagées pendant la première année académique est ajoutée au crédit allocation d'études pour les années académiques suivantes, à condition et dans la mesure ou l'étudiant engage, dans cette année académique ultérieure, plus d'unités d'études que dans l'année académique où il engageait le nombre le plus élève d'unités d'études sans que l'étudiant puisse engager plus de soixante unités d'études.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.4, 002; En vigueur : 15-08-2008&gt;
+
+**Art. 23**
+
+[<sup>1</sup> §1er. Chaque étudiant qui s'inscrit à un nombre d'unités d'études afin d'obtenir un diplôme d'une certaine formation, telle que visée à l'article 21, § 1er, est admissible à une allocation d'études, pour autant et dans la mesure où il dispose d'un crédit allocation d'études.
+
+Un étudiant peut obtenir, par année académique, une allocation d'études pour soixante unités d'études au maximum.
+
+§ 2. Les unités d'études engagées pour lesquelles une allocation d'études a été attribuée ou non, sont déduites du crédit allocation d'études.
+
+Le crédit allocation d'études ne peut jamais être inférieur à zéro.
+
+§ 3. [<sup>5</sup> Par dérogation au paragraphe 1er, alinéa 1er, un étudiant peut recevoir au maximum une allocation d'études pour le nombre d'unités d'études engagées correspondant à la différence entre le nombre d'unités d'études que l'étudiant peut acquérir au maximum en vue de son droit à une allocation d'études pour obtenir un diplôme, tel que visé aux alinéas 2 à 12, et la somme des unités d'études acquises au total par l'étudiant au terme de sa dernière année académique pour avoir suivi la formation ou les formations en question.
+
+Pour obtenir un premier diplôme de graduat, un étudiant ne peut obtenir plus d'unités d'études pour des formations de graduat que le nombre d'unités d'études que compte le volume total des études de la formation de graduat à laquelle l'étudiant s'est inscrit dans l'année académique en question, majoré de soixante.
+
+L'étudiant déjà titulaire d'un diplôme de graduat peut, pour obtenir un deuxième diplôme de graduat, acquérir autant d'unités d'études pour des formations de graduat que la somme des unités d'études mentionnées ci-dessous :
+
+1° le volume total des études que compte normalement la première formation de graduat pour laquelle le candidat possède un diplôme ;
+
+2° le volume total des études que compte normalement la deuxième formation de graduat à laquelle le candidat est inscrit ;
+
+3° soixante-six unités d'études supplémentaires.
+
+L'étudiant déjà titulaire de deux diplômes de graduat qui remplit les conditions de l'article 21, § 1er, alinéa 2, peut, pour obtenir un troisième diplôme de graduat, acquérir autant d'unités d'études pour des formations de graduat que la somme des unités d'études mentionnées ci-dessous :
+
+1° le volume total des études que compte normalement la première formation de graduat pour laquelle le candidat possède un diplôme ;
+
+2° le volume total des études que compte normalement la deuxième formation de graduat pour laquelle le candidat possède un diplôme ;
+
+3° le volume total des études que compte normalement la troisième formation de graduat à laquelle le candidat est inscrit ;
+
+4° soixante-six unités d'études supplémentaires.
+
+Lorsque l'étudiant s'est inscrit à plus d'une formation de graduat dans l'année académique concernée, la formation de graduat avec le volume des études le plus important sera prise en compte pour déterminer la limite d'acquisition.
+
+Pour obtenir un premier diplôme de bachelor, un étudiant ne peut acquérir plus d'unités d'études pour des formations de bachelor que le nombre d'unités d'études que compte le volume total des études de la formation de bachelor à laquelle l'étudiant s'est inscrit dans l'année académique en question, majoré de soixante.
+
+L'étudiant déjà titulaire d'un diplôme de bachelor peut, pour obtenir un deuxième diplôme de bachelor, acquérir autant d'unités d'études pour des formations de bachelor que la somme des unités d'études mentionnées ci-dessous :
+
+1° le volume total des études que compte normalement la première formation de bachelor, pour laquelle le candidat possède un diplôme ;
+
+2° le volume total des études que compte normalement la deuxième formation de bachelor à laquelle le candidat est inscrit ;
+
+3° soixante-six unités d'études supplémentaires.
+
+L'étudiant déjà titulaire de deux diplômes de bachelor qui remplit les conditions de l'article 21, § 1er, alinéa 3, peut, pour obtenir un troisième diplôme de bachelor, acquérir autant d'unités d'études pour des formations de bachelor que la somme des unités d'études mentionnées ci-dessous :
+
+1° le volume total des études que compte normalement la première formation de bachelor, pour laquelle le candidat possède un diplôme ;
+
+2° le volume total des études que compte normalement la deuxième formation de bachelor, pour laquelle le candidat possède un diplôme ;
+
+3° le volume total des études que compte normalement la troisième formation de bachelor à laquelle le candidat est inscrit ;
+
+4° soixante-six unités d'études supplémentaires.
+
+Lorsque l'étudiant s'est inscrit à plus d'une formation de bachelor dans l'année académique concernée, la formation de bachelor avec le volume des études le plus important sera prise en compte pour déterminer la limite d'acquisition.
+
+Pour obtenir un diplôme de master, un étudiant ne peut acquérir plus d'unités d'études pour des formations de master que le nombre d'unités d'études que compte le volume total des études de la formation de master à laquelle l'étudiant s'est inscrit dans l'année académique concernée, majoré de trente.
+
+L'étudiant déjà titulaire d'un diplôme de master qui remplit les conditions de l'article 21, § 1er, alinéa 4, peut, pour obtenir un second diplôme de master, acquérir autant d'unités d'études pour des formations de master que la somme des unités d'études mentionnées ci-dessous :
+
+1° le volume total des études que compte normalement la première formation de master pour laquelle le candidat possède un diplôme ;
+
+2° le volume total des études que compte normalement la seconde formation de master à laquelle le candidat est inscrit ;
+
+3° trente unités d'études supplémentaires.
+
+Lorsque l'étudiant s'est inscrit à plus d'une formation de master dans l'année académique concernée, la formation de master avec le volume des études le plus important sera prise en compte pour déterminer la limite d'acquisition.]<sup>5</sup>
+
+[<sup>3</sup> § 4. [<sup>6</sup> ...]<sup>6</sup>]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.5, 002; En vigueur : 15-08-2008&gt;
+
+(2)&lt;DCFL 2011-07-01/33, art. VIII.3, 008; En vigueur : 01-09-2011&gt;
+
+(3)&lt;DCFL 2017-06-16/24, art. IX.11, 015; En vigueur : 01-09-2016&gt;
+
+(4)&lt;DCFL 2018-05-04/28, art. 33, 018; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2019-03-01/26, art. 6, 019; En vigueur : 01-09-2019&gt;
+
+(6)&lt;DCFL 2019-03-01/26, art. 7, 019; En vigueur : 01-09-2019&gt;
+
+**Art. 24**
+
+[<sup>1</sup> § 1er. Lors du calcul du montant de l'allocation études, le nombre d'unités d'études engagées dans l'année académique concernée est porté en compte, pour autant et dans la mesure où le crédit allocation d'études est suffisant.
+
+§ 2. [<sup>3</sup> Pour être admissible à l'allocation d'études, l'étudiant engage au moins 54 crédits, ceux-ci pouvant se rapporter simultanément à différentes formations au sens de l'article 21, § 1er.
+
+Par dérogation à l'alinéa 1er, l'étudiant qui engage moins de 54 crédits est admissible à l'allocation d'études s'il est en année de diplôme.
+
+Par dérogation à l'alinéa 1er, l'étudiant qui engage moins de 54 crédits est admissible à l'allocation d'études s'il obtient un statut agréé pour l'une ou plusieurs des raisons suivantes :
+
+1° handicap ;
+
+2° sport de haut niveau ;
+
+3° pratique artistique professionnelle ;
+
+4° circonstances sociales ou individuelles exceptionnelles ;
+
+5° étudiant travaillant.
+
+Par dérogation à l'alinéa 1er, l'étudiant qui engage moins de 54 crédits est admissible à l'allocation d'études si :
+
+1° les règles de succession dans le temps des subdivisions de formation, figurant à l'article II.201, § 1er, 3°, du Code de l'Enseignement supérieur du 11 octobre 2013, ou la structure du programme d'études, ou l'organisation de l'année académique ont pour conséquence que l'étudiant ne peut s'inscrire à un parcours d'un volume minimal de 54 crédits au cours d'une année académique ;
+
+2° l'étudiant s'inscrit à un programme préparatoire ou à un programme de transition dont le volume du parcours type est inférieur à 54 crédits au cours d'une année académique ;
+
+3° l'étudiant s'inscrit à des subdivisions de formation qui débutent au deuxième semestre d'une année académique, et si l'étudiant engage au moins 27 crédits dans une seule formation, sauf si la structure du programme d'études ou l'organisation de l'année académique ont pour conséquence que l'étudiant ne peut s'inscrire à un parcours d'un volume minimal de 27 crédits.
+
+L'établissement d'enseignement supérieur remet à l'étudiant une attestation d'autorisation d'engager moins de 54 crédits. L'attestation est transmise à la division Allocations d'études.
+
+Par dérogation à l'alinéa 1er, l'étudiant qui engage moins de 54 crédits est admissible à l'allocation d'études s'il lui est impossible, pour des raisons médicales, d'engager 54 crédits ou plus. Les raisons médicales sont justifiées au moyen d'attestations médicales dans lesquelles un médecin certifie que l'étudiant n'est pas en mesure, pour cause de maladie, d'engager davantage de crédits. L'étudiant remet cette attestation à la division Allocations d'études. Le Gouvernement flamand arrête les modalités de communication de ces données.
+
+Les circonstances sociales ou individuelles exceptionnelles visées à l'alinéa 3, 4°, n'entrent en considération pour l'octroi, par l'établissement d'enseignement supérieur, d'un statut permettant de déroger à l'obligation de s'inscrire à au moins 54 crédits pour bénéficier d'une allocation d'études, que pour les raisons suivantes :
+
+1° l'étudiant est aidant proche ;
+
+2° l'étudiant n'a pas obtenu de diplôme de l'enseignement secondaire néerlandophone et s'inscrit pour la première fois, au cours de l'année académique en question, à une formation de l'enseignement supérieur dans la Communauté flamande ;
+
+3° la circonstance sociale ou individuelle dans laquelle se trouve l'étudiant est de nature si spécifique que le recteur ou le directeur général de l'établissement d'enseignement supérieur estime qu'il n'est pas possible d'engager 54 crédits.
+
+L'établissement d'enseignement supérieur où l'étudiant est inscrit dans une formation visée à l'article 20 accorde le statut. L'établissement d'enseignement supérieur prévoit dans son règlement d'enseignement, visé à l'article II.221 du Code de l'Enseignement supérieur du 11 octobre 2013, les conditions d'octroi d'un statut agréé. L'établissement d'enseignement supérieur remet à l'étudiant une attestation d'octroi du statut agréé. L'attestation est transmise à la division Allocations d'études.
+
+Par dérogation à l'alinéa 8, la division Allocations d'études peut accorder un statut pour circonstances sociales ou individuelles exceptionnelles, figurant à l'alinéa 3, 4°, à l'étudiant qui combine ses études avec la prise en charge d'un enfant mineur et qui, de ce fait, n'est pas en mesure d'engager au moins 54 crédits. L'étudiant présente une demande à cet effet auprès de la division Allocations d'Etudes. La division Allocations d'Etudes examine la demande de l'étudiant sur la base des données figurant dans le Registre national]<sup>3</sup>.
+
+§ 3. Lorsque le volume des études de la formation n'est pas exprimé en unités d'études, le volume des études pour une année académique est fixé à soixante unités d'études.
+
+Si l'étudiant peut démontrer que la formation suivie par lui, qui n'est pas exprimée en unités d'études, n'est pas à temps plein, le volume des études est fixé à trente unités d'études.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.6, 002; En vigueur : 15-08-2008&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 35, 021; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2026-06-19/04, art. 3, 027; En vigueur : 02-06-2026&gt;
+
+**Art. 25**
+
+[<sup>1</sup> Si un étudiant engage des unités d'études pour une formation telle que visée à l'article 21, § 1er, mais est également inscrit dans la même année d'études à une formation continue [<sup>2</sup> ou un programme préparatoire suivi à titre de préparation à une formation continue]<sup>2</sup> pour laquelle aucune allocation d'études ne peut être donnée conformément à l'article 21, § 1er, l'étudiant n'est pas admissible non plus à une allocation d'études pour suivre la formation qui remplit toutefois les conditions de l'article 21, § 1er.
+
+Le premier alinéa n'est pas applicable si l'étudiant dans la formation admise au financement visée à l'article 21, § 1er, suit l'année diplômante.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.7, 002; En vigueur : 15-08-2008&gt;
+
+(2)&lt;DCFL 2010-07-09/26, art. VI.4, 006; En vigueur : 01-09-2010&gt;
+
+**Art. 26**
+
+[<sup>1</sup> § 1er. Si l'étudiant introduit une demande d'allocation d'études mais engage pour l'année académique en question un nombre d'unités d'études qui dépasse son crédit allocation d'études disponible, il est fait appel au crédit joker s'il peut bénéficier d'une allocation d'études à cet effet.
+
+Il est fait appel au crédit joker afin de compléter le crédit allocation d'études pour autant et dans la mesure où le nombre d'unités d'études engagées dépasse le crédit allocation d'études, avec un maximum de soixante unités d'études.
+
+[<sup>2</sup> § 2. Le crédit joker comprend soixante unités d'études lors de la première demande d'une allocation d'études. Le crédit joker est complété du nombre d'unités d'études qui a été restitué à un étudiant qui était inscrit avec un contrat de diplôme conformément aux dispositions de l'article II.204, § 3, du Code de l'Enseignement supérieur du 11 octobre 2013.
+
+Le crédit joker vaut pour toute la durée des études.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.8, 002; En vigueur : 15-08-2008&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 2, 025; En vigueur : 01-10-2023&gt;
+
+**Art. 27**
+
+[<sup>1</sup> § 1er. Les institutions d'enseignement supérieur communiquent au [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> les informations suivantes sur les étudiants qui sont inscrits chez eux :
+
+1° la nature du contrat ayant été conclu, conformément à [<sup>3</sup> l'article II.199 du Code de l'Enseignement supérieur]<sup>3</sup>, entre l'étudiant et l'institution d'enseignement relatif à l'année académique concernée;
+
+2° le nombre d'unités d'études des subdivisions de formation qui font partie d'une formation, telle que visée à l'article 21, § 1er, auxquelles l'étudiant intéressé s'est inscrit dans l'année académique en question;
+
+3 le nombre d'unités d'études acquises par l'étudiant pour avoir suivi les subdivisions de formation, telles que visées au 2°;
+
+4° les diplômes, tels que visés à l'article 21, § 1er, que l'étudiant a obtenus dans l'année académique en question;
+
+5° le nombre d'unités d'études pour lesquelles un étudiant s'est désinscrit des subdivisions de formation pendant l'année académique concernée.
+
+L'étudiant communique au [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> les données sur la formation, les diplômes obtenus, les unités d'études engagées et acquises pour lesquelles l'étudiant était inscrit pendant d'autres années académiques à l'intérieur ou à l'étranger.
+
+§ 2. Le Gouvernement flamand fixe le mode de communication des données visées au § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.9, 002; En vigueur : 15-08-2008&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2015-06-19/33, art. IV.9, 013; En vigueur : 01-09-2015&gt;
+
+##### Section II. - Transférabilité de l'allocation d'études.
+
+**Art. 28**
+
+En cas de transférabilité de l'allocation d'études, il est fait distinction entre la mobilité horizontale et verticale.
+
+En cas de mobilité horizontale, l'étudiant est inscrit à une formation accréditée, une nouvelle formation agréée ou une formation agréée temporairement, auprès d'une institution enregistrée d'office, et suit, dans le cadre de cette formation, une ou plusieurs subdivisions de formation dans une autre communauté de Belgique ou un autre pays à l'intérieur ou à l'extérieur de l'Espace européen de l'Enseignement supérieur, cette subdivision de formation faisant partie intégrante de la formation à laquelle l'étudiant est inscrit.
+
+En cas de mobilité verticale, l'étudiant est inscrit à une formation auprès d'une institution d'une autre communauté ou d'un autre pays à l'intérieur ou à l'extérieur de l'Espace européen de l'Enseignement supérieur.
+
+**Art. 29**
+
+[<sup>1</sup> En cas de mobilité horizontale, les étudiants sont admissibles à une allocation d'études tant à l'intérieur qu'à l'extérieur de l'Espace européen de l'Enseignement supérieur.
+
+En cas de mobilité verticale, les étudiants sont uniquement admissibles à une allocation d'études à l'intérieur de l'Espace européen de l'Enseignement supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/26, art. VI.5, 006; En vigueur : 01-09-2010&gt;
+
+**Art. 30**
+
+§ 1er. Par dérogation à l'article 20, la formation en question qui est suivie dans le cadre de la mobilité verticale doit :
+
+1° être agréée par l'autorité compétente dans la communauté ou le pays en question, ou être suivie auprès d'une institution agréée par l'autorité compétente; et
+
+2° conduire à un diplôme reconnu par l'autorité compétente.
+
+La formation qui, auparavant, remplissait les conditions visées à l'alinéa premier, mais dont l'agrément ou l'agrément de l'institution où elle est dispensée expire avant que l'étudiant ait achevé la formation endéans la durée normale de la formation, est également considérée comme une formation remplissant les conditions visées à l'alinéa premier.
+
+§ 2. [<sup>1</sup> Par dérogation à l'article 29, l'étudiant qui souhaite suivre, dans le cadre de la mobilité verticale, des études en dehors de l'Espace européen de l'Enseignement supérieur, est admissible à l'aide financière aux études moyennant approbation par le Gouvernement flamand. Le Gouvernement prend sa décision sur la base des suivants critères cumulatifs complémentaires :
+
+1° pour la formation à suivre, il n'existe pas de formation équivalente entre les nouvelles formations agréées ou les formations agréées temporairement conformément aux dispositions du [<sup>5</sup> Code de l'Enseignement supérieur du 11 octobre 2013]<sup>5</sup> [<sup>4</sup> ...]<sup>4</sup>;
+
+2° la formation et l'institution organisatrice contribuent au développement de la discipline scientifique. Pour parvenir à cette conclusion, le Gouvernement flamand demande l'avis de la [<sup>2</sup> Commissie Hoger Onderwijs]<sup>2</sup>, visée à [<sup>3</sup> l'article II.23 du Code de l'Enseignement supérieur]<sup>3</sup>.]<sup>1</sup>
+
+§ 3. Sans préjudice des dispositions des §§ 1er et 2, l'étudiant intéressé, pour entrer en ligne de compte pour une allocation d'études pour une formation dans le cadre de la mobilité verticale, doit satisfaire à une des conditions suivantes :
+
+1° l'étudiant a sa résidence principale dans la Région flamande;
+
+2° l'étudiant est titulaire d'un diplôme de l'enseignement secondaire, délivré par un établissement financé, subventionné ou agréé par le Ministère flamand de l'Enseignement et de la Formation;
+
+3° l'étudiant a obtenu, auprès d'une institution enregistrée d'office, un diplôme de l'enseignement supérieur pour une formation de bachelor ou de master, telle que visée à [<sup>5</sup> la liste, visée à l'article II.170, § 2 du Code de l'Enseignement supérieur du 11 octobre 2013]<sup>5</sup>, ou pour une formation correspondante, achevée avant l'entrée en vigueur du décret de restructuration.
+
+----------
+
+(1)&lt;DCFL 2010-07-09/26, art. VI.6, 006; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. VIII.2, 012; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFL 2015-06-19/33, art. IV.10, 013; En vigueur : 01-09-2015&gt;
+
+(4)&lt;DCFL 2016-06-17/24, art. X.8, 014; En vigueur : 01-09-2016&gt;
+
+(5)&lt;DCFL 2018-05-04/28, art. 34, 018; En vigueur : 01-09-2019&gt;
+
+**Art. 31**
+
+[<sup>1</sup> Pour des formations suivies dans le cadre de la mobilité verticale, il est décidé, pour l'application des articles 21 et 24, par a Division des Allocations d'Etudes, combien d'unités d'études engagées et acquises doivent être imputées au crédit allocation d'études. La Division des Allocations d'Etudes se base à cet effet sur l'avis de l'autorité intéressée, sur l'avis de NARIC ou sur les renseignements sur les formations étrangères mis à la disposition par NARIC.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/L8, art. VIII.3, 012; En vigueur : 01-09-2014&gt;
+
+**Art. 32**
+
+Par dérogation à l'article 27, l'étudiant qui suit une formation dans le cadre de la mobilité verticale communique au [<sup>1</sup> Division des Allocations d'Etudes]<sup>1</sup> toutes les données relatives à la formation suivie dans l'autre communauté ou à l'étranger et les résultats obtenus sur la base d'attestations d'inscription, de diplômes et d'attestations, délivrés par l'autorité compétente dans la communauté ou le pays en question.
+
+----------
+
+(1)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+### TITRE IV. - Conditions financières.
+
+#### CHAPITRE Ier. - Disposition générale.
+
+**Art. 33**
+
+Afin d'établir si [<sup>4</sup> ...]<sup>4</sup> un étudiant est admissible ou non à une allocation, l'unité de vie de l'étudiant et le revenu de référence de cette unité de vie sont pris en compte.
+
+[<sup>3</sup> Par dérogation à l'alinéa premier, un enfant placé ou un adulte placé tel que visé à l'article 2, 8° et 10°, du décret du 29 juin 2012 portant organisation du placement familial, a droit à l'allocation totale à condition que l'enfant placé ou l'adulte placé séjourne pendant plus d'un an sans interruption [<sup>5</sup> auprès d'une famille d'accueil]<sup>5</sup>.]<sup>3</sup>
+
+[<sup>2</sup> Pour l'application du deuxième alinéa, l'article 7, premier alinéa s'applique par analogie.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2012-06-29/13, art. 38, 009; En vigueur : 01-09-2014, par DCFL 2013-06-21/17, art. 57&gt;
+
+(2)&lt;DCFL 2014-04-25/L8, art. VIII.4, 012; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCFL 2015-06-19/33, art. VII.19, 013; En vigueur : 01-09-2015&gt;
+
+(4)&lt;DCFL 2019-03-22/19, art. 15, 020; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2021-06-25/19, art. 3, 023; En vigueur : 30-08-2021&gt;
+
+#### CHAPITRE II. - Catégories d'unités de vie.
+
+**Art. 34**
+
+§ 1er. Il est tenu compte des catégories suivantes d'unités de vie :
+
+1° l'unité de vie dans laquelle l'élève ou l'étudiant a sa résidence principale, c.-à-d. chez un des deux ou les deux parents dont la filiation est établie;
+
+2° [<sup>3</sup> l'unité de vie dans laquelle l'élève ou l'étudiant, par suite d'une décision de justice ou d'une intervention d'une autre autorité ou institution de droit public, [<sup>4</sup> a sa résidence principale chez]<sup>4</sup> d'une personne physique autre que les parents dont la filiation est établie, ou l'unité de vie dans laquelle l'étudiant a sa résidence principale pendant au moins trois ans ou [<sup>4</sup> a sa résidence principale chez]<sup>4</sup> d'une personne physique autre qu'un des deux ou les deux parents dont la filiation est établie ;]<sup>3</sup>
+
+3° les [<sup>5</sup> ...]<sup>5</sup> étudiants mariés;
+
+4° les [<sup>5</sup> ...]<sup>5</sup> étudiants indépendants;
+
+5° les [<sup>5</sup> ...]<sup>5</sup> étudiants isolés;
+
+§ 2. [<sup>1</sup> La définition de la catégorie de l'unité de vie se fait séparément pour chaque élève ou étudiant.]<sup>1</sup>
+
+§ 3. Le Gouvernement flamand donne une définition plus detaillée des différentes catégories d'unités de vie sur la base desquelles l'allocation de l'élève ou de l'étudiant est calculée et définit la personne ou les personnes dont le revenu de référence est pris en compte pour le calcul de l'allocation.
+
+§ 4. Lors de la définition de l'unité de vie à laquelle appartient l'élève ou l'étudiant, il est vérifié d'abord si l'élève ou l'étudiant satisfait aux conditions de la catégorie des [<sup>5</sup> ...]<sup>5</sup> étudiants mariés, visés au § 1er, 3°, sinon si l'élève ou l'étudiant satisfait aux conditions de la catégorie des [<sup>5</sup> ...]<sup>5</sup> étudiants indépendants, visés au § 1er, 4°, sinon si l'élève ou l'étudiant satisfait aux conditions de la catégorie d'unités de vie où l'élève ou l'étudiant a sa résidence principale chez un parent ou chez les deux parents dont la filiation est établie, visée au § 1er, 1°, sinon si l'élève ou l'étudiant satisfait aux conditions de la catégorie d'unités de vie où l'élève ou l'étudiant réside chez une autre personne physique, visée au § 1er, 2°;
+
+S'il est constaté que l'élève ou l'étudiant n'appartient pas à une des catégories d'unité de vie, visées aux § 1er, 1°, 2°, 3° ou 4°, il est vérifié si l'élève ou l'étudiant satisfait aux conditions de la catégorie d'élève ou d'étudiant isolé, visée au § 1er, 5°.
+
+S'il est constaté que l'élève ou l'étudiant n'appartient pas à une des catégories d'unité de vie, visées aux § 1er, l'élève ou l'étudiant est considéré comme une personne appartenant à la catégorie d'unité de vie, visée au § 1er, 1° ou 2°, tout en se basant, le cas échéant, sur la dernière résidence principale de [<sup>5</sup> ...]<sup>5</sup> l'étudiant chez un parent dont la filiation est établie ou chez une autre personne physique, visée au § 1er, 2°.
+
+§ 5. Si un élève ou un étudiant déclare lors de sa demande qu'il appartient à une unité de vie visée au § 1er, 3°, 4° ou 5° mais appartient conformément au § 4 à une unité de vie visée au § 1er, 1° ou 2°, les données sur les revenus ne sont pas communiquées par le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> au demandeur lors de l'acceptation ou du refus de la demande.
+
+----------
+
+(1)&lt;DCFL 2012-12-21/65, art. IX.5, 010; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2016-06-17/24, art. X.9, 014; En vigueur : 01-09-2016&gt;
+
+(4)&lt;DCFL 2017-06-16/24, art. IX.12, 015; En vigueur : 01-09-2017&gt;
+
+(5)&lt;DCFL 2019-03-22/19, art. 16, 020; En vigueur : 01-09-2019&gt;
+
+#### CHAPITRE III. - Revenu de référence.
+
+**Art. 35**
+
+§ 1er. Le revenu de référence se compose :
+
+1° des revenus imposables globalement;
+
+2° des revenus imposables distinctement;
+
+3° de quatre-vingts pour cent des pensions alimentaires payées à la personne ou aux personnes desquelles le revenu de référence est pris en compte pour le calcul de l'allocation et aux enfants à charge, pour autant que ces pensions ne soient pas encore comprises dans les revenus imposables globalement, visés au point 1°;
+
+4° de deux fois le revenu cadastral indexé des biens immobiliers affectés à d'autres usages et d'une fois le revenu cadastral indexé utilisé à des propres fins professionnelles;
+
+5° de l'allocation de remplacement de revenus, attribuée en vertu de la loi du 27 février 1987 relative aux allocations aux handicapés;
+
+6° du revenu d'intégration sociale attribué en vertu de la loi du 26 mai 2002 concernant le droit à l'intégration sociale;
+
+[<sup>1</sup> 6°bis l'équivalent du revenu d'intégration accordé dans le cadre de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les Centres publics d'aide sociale.]<sup>1</sup>
+
+7° [<sup>3</sup> ...]<sup>3</sup>
+
+§ 2. Lorsque le revenu de référence visé au § 1er est composé pour au moins soixante-dix pour cent de revenus de remplacement, ces revenus de remplacement sont réduits d'un montant égal à la déduction forfaitaire pour frais professionnels qui est fiscalement appliquée aux rémunérations et profits.
+
+§ 3. Le Gouvernement flamand définit la façon dont le revenu de référence est fixé sur la base des revenus étrangers, [<sup>2</sup> ou des revenus acquis auprès des institutions européennes ou internationales]<sup>2</sup> tout en appliquant les dispositions du Code des impôts sur les revenus.
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.10, 1°, 002; En vigueur : 01-09-2007&gt;
+
+(2)&lt;DCFL 2008-07-04/45, art. 9.10, 2°, 002; En vigueur : 15-08-2008&gt;
+
+(3)&lt;DCFL 2016-06-17/24, art. X.10, 014; En vigueur : 01-09-2016&gt;
+
+**Art. 36**
+
+L[<sup>1</sup> ...]<sup>1</sup>'étudiant dont le revenu de référence de l'unité de vie à laquelle il appartient n'excède pas le revenu plafond visé à l'article 43, est admissible à l'allocation conformément aux dispositions du présent décret.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 17, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 37**
+
+Le Gouvernement flamand détermine l'année calendrier à prendre en compte pour la fixation du revenu de référence ainsi que les exceptions à celle-ci si le revenu de l'année calendrier dans laquelle commence l'année [<sup>2</sup> ...]<sup>2</sup> académique concernée est probablement inférieur au revenu de l'année calendrier à prendre en compte ou si [<sup>2</sup> ...]<sup>2</sup> l'étudiant ne satisfait aux conditions de l'unité de vie à laquelle il appartient qu'après l'année calendrier à prendre en compte, ainsi que les attestations sur base desquelles le revenu de référence est démontré.
+
+[<sup>1</sup> Par dérogation à l'article 35, § 1er, 1°, 2° et 4°, le Gouvernement flamand détermine les circonstances et les modalités auxquelles il est, en cas d'un divorce de fait, uniquement tenu compte du revenu imposable de la personne prenant en charge les frais de subsistance, auprès de laquelle [<sup>2</sup> ...]<sup>2</sup> l'étudiant a sa résidence principale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. VII.8, 005; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCFL 2019-03-22/19, art. 18, 020; En vigueur : 01-09-2019&gt;
+
+#### CHAPITRE IV. - Revenu cadastral.
+
+**Art. 38**
+
+Le revenu cadastral de l'unité de vie est pondéré afin d'établir si l'étudiant est admissible ou non à une allocation.
+
+[<sup>3</sup> Si le revenu cadastral indexé des immeubles affectés à d'autres usages des personnes dont le revenu de référence est pris en compte, conformément à l'article 34, pour le calcul du revenu de référence est supérieur à 1250 euros, un [<sup>4</sup> ...]<sup>4</sup> étudiant n'a pas droit à une allocation si le triple du revenu cadastral indexé des immeubles affectés à d'autres usages des personnes dont le revenu de référence est pris en compte, conformément à l'article 34, pour le calcul du revenu de référence dépasse de plus de vingt pour cent le revenu de référence, visé à l'article 35, réduit de deux fois le revenu cadastral indexé des immeubles affectés à d'autres usages et une fois le revenu cadastral indexé affecté à des propres fins professionnelles, visés à l'article 35, premier alinéa, 4°.]<sup>3</sup>
+
+Les premier et deuxième alinéas ne sont pas applicables si le revenu de référence de l'unité de vie est composé entièrement ou partiellement du revenu d'intégration [<sup>1</sup> ou de l'équivalent du revenu d'intégration]<sup>1</sup> , ou pour au moins 70 % de pensions alimentaires, de revenus de remplacement [<sup>2</sup> d'une pension de survie,]<sup>2</sup> ou d'une allocation de remplacement de revenus, octroyée du chef de la loi du 27 février 1987 relative aux allocations aux handicapés.
+
+[<sup>2</sup> Les premier et deuxième alinéas ne sont pas non plus applicables aux [<sup>4</sup> ...]<sup>4</sup> étudiants isolés, tels que visés à l'article 34, § 1er, 5°.]<sup>2</sup>
+
+Le Gouvernement flamand détermine l'année calendrier à prendre en compte pour la fixation du revenu de référence ainsi que les exceptions à celle-ci si le revenu de l'année calendrier dans laquelle commence l'année [<sup>4</sup> ...]<sup>4</sup> académique concernée est probablement inférieur au revenu de l'année calendrier à prendre en compte ou si l'étudiant ne satisfait aux conditions de l'unité de vie à laquelle il appartient qu'après l'année calendrier à prendre en compte, ainsi que les attestations sur base desquelles le revenu cadastral est démontré.
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.11, 1°, 002; En vigueur : 01-09-2007&gt;
+
+(2)&lt;DCFL 2008-07-04/45, art. 9.11, 2°,3°, 002; En vigueur : 15-08-2008&gt;
+
+(3)&lt;DCFL 2011-07-01/33, art. VIII.4, 008; En vigueur : 01-09-2011&gt;
+
+(4)&lt;DCFL 2019-03-22/19, art. 19, 020; En vigueur : 01-09-2019&gt;
+
+#### CHAPITRE V. - Montant de l'allocation.
+
+##### Section 1re. - Dispositions générales.
+
+**Art. 39**
+
+§ 1er. Un [<sup>3</sup> ...]<sup>3</sup> étudiant a droit à l'allocation totale, si le revenu de référence, visé à l'article 35, est égal ou inférieur au plancher de revenus visé à l'article 43 à prendre en compte pour son unite de vie.
+
+§ 2. Un [<sup>3</sup> ...]<sup>3</sup> étudiant n'a pas droit à une allocation, si le revenu de référence, visé à l'article 35, est supérieur au plafond de revenus visé à l'article 43 à prendre en compte pour son unité de vie.
+
+§ 3. Lorsque le revenu de référence à prendre en considération, visé à l'article 35, est supérieur au plancher de revenu, visé à l'article 43, mais inferieur au plafond de revenus, visé à l'article 43, une allocation est octroyée dont le montant est égal au montant de l'allocation totale visée aux articles 49, premier alinéa, 50, ou 51, § 1er, multiplié par le coefficient de la formule (plafond de revenus moins revenu de référence)(plafond de revenus moins plancher de revenus).
+
+§ 4. L'étudiant perçoit une allocation exceptionnelle si le revenu de référence à prendre en compte, visé à l'article 35, est égal ou inférieur à 1/10 du plafond de revenus vise à l'article 43 et s'il satisfait à une des conditions suivantes :
+
+1° l'étudiant relève du champ d'application de l'article 34, § 1er, 3°, 4° et 5°;
+
+2° le revenu de reférence à prendre en compte se compose pour au moins 70 % de revenus de remplacement;
+
+3° le revenu de référence à prendre en compte se compose pour au moins 70 % de pensions alimentaires;
+
+4° le revenu de référence à prendre en compte se compose pour au moins 70 % d'un revenu d'integration, accordé dans le cadre de la loi du 26 mai 2002 concernant le droit a l'intégration sociale [<sup>1</sup> , ou l'équivalent du revenu d'intégration, attribué en vertu de la loi du 2 avril 1965]<sup>1</sup>;
+
+5° le revenu de réference à prendre en compte se compose pour au moins 70 % d'une allocation de remplacement de revenus, attribuée en vertu de la loi du 27 février 1987 relative aux allocations aux handicapés.
+
+§ 5. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 6. Un [<sup>3</sup> ...]<sup>3</sup> étudiant est admissible à l'allocation minimale si le revenu de référence visé à l'article 35 est égal au plafond de revenus visé à l'article 43.
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.12, 002; En vigueur : 01-09-2007&gt;
+
+(2)&lt;DCFL 2009-04-30/B8, art. 97, 004; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFL 2019-03-22/19, art. 20, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 40**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 21, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 41**
+
+§ 1er. Pour la fixation des planchers et plafonds de revenus, il est tenu compte des facteurs suivants :
+
+1° le nombre de personnes à charge dans l'unité de vie;
+
+2° le nombre d'étudiants appartenant à l'unité de vie qui suivent un enseignement supérieur dans l'année [<sup>1</sup> ...]<sup>1</sup> académique concernée;
+
+3° le nombre de personnes appartenant à l'unité de vie qui sont considérées comme handicapées du point de vue fiscal.
+
+§ 2. La valeur de chaque facteur est exprimée en points.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 22, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 42**
+
+§ 1er. Pour le calcul des planchers et plafonds de revenus, les personnes et catégories suivantes sont assimilées à un point :
+
+1° toute personne de l'unité de vie qui est fiscalement à charge de la personne ou des personnes dont le revenu de référence est pris en compte dans le calcul de l'allocation;
+
+2° tout [<sup>3</sup> ...]<sup>3</sup> étudiant de l'unité de vie qui n'est plus fiscalement à charge de la personne ou des personnes dont le revenu de référence est pris en compte dans le calcul de l'allocation parce qu'il a perçu des moyens d'existence, à condition qu'il n'entre pas en ligne de compte pour le statut [<sup>3</sup> ...]<sup>3</sup> d'étudiant marie, indépendant ou isolé;
+
+3° toute personne dont le revenu de référence est pris en compte dans le calcul de l'allocation qui, au 31 décembre de l'année [<sup>3</sup> ...]<sup>3</sup> académique concernée, est considérée comme handicapée du point de vue fiscal;
+
+4° la catégorie de l'unité de vie qui relève du champ d'application de l'article 34, § 1er, 1°, 2° ou 3°.
+
+[<sup>1</sup> La catégorie d'unité de vie tombant relevant du champ d'application de l'article 34, § 1er, 4° ou 5°, est assimilée à un point, à condition que le revenu de référence de [<sup>3</sup> ...]<sup>3</sup> l'étudiant autonome ou isolé puisse être pris en considération pour le calcul de l'allocation de la personne visée au § 1er, 1° ou 2°.]<sup>1</sup>
+
+§ 2. Par dérogation au § 1er, toute personne qui relève du § 1er, 1° ou 2°, et qui, au 31 décembre de l'année [<sup>3</sup> ...]<sup>3</sup> académique concernée, est considérée handicapée sur le plan fiscal, est assimilée à deux points.
+
+§ 3. [<sup>2</sup> Pour toute personne dont le revenu de référence est pris en considération pour le calcul de l'allocation, ainsi que pour toute personne visée au § 1er, 1° ou 2°, du présent article, un point est accordé, si ces personnes suivent, auprès d'une institution agréée, un enseignement supérieur, une formation de bachelor après bachelor ou une formation de master après master, pendant l'année [<sup>3</sup> ...]<sup>3</sup> académique en question.
+
+Le nombre total de points résultant de l'application de l'alinéa premier, est réduit d'un point.
+
+Par dérogation au deuxième alinéa, le nombre total de points résultant de l'application du présent article, ne peut jamais être inférieur à zéro.]<sup>2</sup>
+
+§ 4. [<sup>1</sup> Si dans l'unité de vie visée à l'article 34, § 1er, à laquelle appartient [<sup>3</sup> ...]<sup>3</sup> l'étudiant, vivent également une ou plusieurs personnes non apparentées, 1 point est déduit pour le calcul des plafonds et planchers de revenus, à moins que ces personnes non apparentées ne disposent pas des moyens financiers tels que visés à l'article 35, § 1er, 1°, 2°, 3°, 4° et 7°.]<sup>1</sup>
+
+§ 5. [<sup>1</sup> Par dérogation aux §§ 1er à 4 inclus, le nombre de points de l'unité de vie dont [<sup>3</sup> ...]<sup>3</sup> l'étudiant fait partie n'est jamais inférieur à zéro.]<sup>1</sup>
+
+§ 6. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2009-05-08/32, art. VII.9, 005; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCFL 2010-07-09/26, art. VI.7, 006; En vigueur : 01-09-2010&gt;
+
+(3)&lt;DCFL 2019-03-22/19, art. 23, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 43**
+
+§ 1er. Les plafonds et planchers de revenus sont fixés sur la base d'un système de points, compris entre zéro et vingt points :
+
+1° le plancher de revenus pour une unité de vie avec zéro points correspond à 6573,55 euros et pour une unité de vie avec vingt points à 31.177,76 euros;
+
+2° le plafond de revenus pour une unité de vie avec zéro points correspond à 14.489,77 euros et pour une unite de vie avec vingt points à 75.362,09 euros.
+
+§ 2. Le Gouvernement flamand fixe les modalités pour la fixation des plafonds et planchers de revenus.
+
+**Art. 44**
+
+Pour le calcul du montant de l'allocation dans l'enseignement [<sup>1</sup> supérieur]<sup>1</sup>, distinction est faite entre les [<sup>1</sup> ...]<sup>1</sup> étudiants qui habitent ou non [<sup>1</sup> ...]<sup>1</sup> une chambre d'étudiant.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Les étudiants suivants sont réputés être des étudiants koteurs :
+
+1° l'étudiant qui est inscrit conformément à son contrat de diplôme respectivement à toute une année académique ou à un semestre et a conclu un contrat de location d'une durée respective d'au moins huit ou quatre mois pour un logement situé à une adresse autre que celle de sa résidence principale;
+
+2° l'étudiant qui suit une formation à l'étranger;
+
+3° [<sup>2</sup> l'étudiant marié ;]<sup>2</sup>.
+
+[<sup>2</sup> 4° l'étudiant isolé ;
+
+5° l'étudiant indépendant qui n'a pas sa résidence principale chez un des parents.]<sup>2</sup>
+
+L'étudiant qui est inscrit conformément à son contrat de diplôme pour une durée inférieure à un semestre est réputé être un étudiant navetteur.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 24, 020; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 43, 026; En vigueur : 01-09-2024&gt;
+
+**Art. 45**
+
+Le montant de l'allocation dépend de l'enseignement suivi par l'intéressé et le niveau du revenu de réference.
+
+**Art. 46**
+
+Chaque année avant la rentrée [<sup>1</sup> ...]<sup>1</sup> académique, les montants visés aux [<sup>1</sup> articles 43 et 51,]<sup>1</sup> sont adaptés à l'indice des prix à la consommation, visé au chapitre II de l'arrêté royal du 24 décembre 1993 pris en exécution de la loi du 6 janvier 1989 de sauvegarde de la compétitivité du pays.
+
+Le Gouvernement flamand détermine la façon dont cette indexation est appliquée.
+
+Le Gouvernement flamand examine au moins tous les cinq ans si les coûts réels de l'entretien [<sup>1</sup> ...]<sup>1</sup> de l'étudiant et de l'enseignement suivi par lui correspondent aux montants octroyés des allocations.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 25, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 47**
+
+Tous les montants relatifs aux plafonds et planchers de revenus et des allocations sont applicables à toute l'année [<sup>1</sup> ...]<sup>1</sup> académique, sans préjudice de la date à laquelle l'intéressé dépose sa demande.
+
+----------
+
+(1)&lt;DCFL 2019-03-22/19, art. 26, 020; En vigueur : 01-09-2019&gt;
+
+##### Section II.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 27, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 48**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 27, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 49**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 27, 020; En vigueur : 01-09-2019&gt;
+
+##### Section III.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 27, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 50**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 27, 020; En vigueur : 01-09-2019&gt;
+
+##### Section IV. - Allocation d'études de l'enseignement supérieur.
+
+**Art. 51**
+
+[<sup>1</sup> § 1er. Pour les étudiants bénéficiaires d'une allocation pour soixante unités d'études, le montant total de l'allocation d'études s'élève à :
+
+1° 3404,62 euros pour les étudiants décohabitations;
+
+2° 2043,43 euros pour les étudiants qui font la navette.
+
+§ 2. Pour les étudiants bénéficiaires d'une allocation pour soixante unités d'études, l'allocation d'études exceptionnelle s'élève à :
+
+1° 4583,86 euros pour les étudiants décohabitations;
+
+2° 2965,31 euros pour les étudiants qui font la navette.
+
+§ 3. L'allocation d'études minimum s'élève à 220 euros.
+
+§ 4. Le montant final de l'allocation d'études est arrondi à deux chiffres après la virgule.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.16, 002; En vigueur : 15-08-2008&gt;
+
+**Art. 52**
+
+§ 1er. Si l'étudiant est admissible à une allocation d'études pour moins de soixante unités d'études, le montant de l'allocation d'études est calculé comme suit :
+
+1° un étudiant koteur reçoit trente pour cent de l'allocation d'études qu'il percevrait s'il était admissible à une allocation d'études pour soixante unités d'études, majorés des septante pour cent restants, divisés par soixante et multipliés par le nombre d'unités d'études pour lesquelles il est admissible à l'allocation d'études;
+
+2° un étudiant navetteur reçoit vingt pour cent de l'allocation d'études qu'il percevrait s'il était admissible à une allocation d'études pour soixante unités d'études, majorés des quatre-vingts pour cent restants, divisés par soixante et multipliés par le nombre d'unités d'études pour lesquelles il est admissible a l'allocation d'études;
+
+§ 2. Par dérogation au § 1er, dans le cas de l'étudiant qui est admissible à une allocation d'études pour moins de [<sup>1</sup> vingt-sept]<sup>1</sup> unités d'études, le montant qu'il percevrait s'il était admissible à une allocation d'études pour soixante unités d'études est divisé par soixante et multiplié par le nombre d'unités d'études pour lesquelles il est admissible à l'allocation d'études.
+
+§ 3. Un étudiant qui, au cours d'une année académique, s'inscrit à deux parcours de formation à mi-temps, est réputé être un étudiant suivant un parcours de formation à temps plein aux fins du calcul du montant de l'allocation d'études.
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.17, 002; En vigueur : 15-08-2008&gt;
+
+### TITRE V. - Conditions procédurales.
+
+#### CHAPITRE Ier. - Demande.
+
+##### Section 1re. - Dispositions générales.
+
+**Art. 53**
+
+Le demandeur dépose sa demande d'allocation au [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> à partir du [<sup>4</sup> 2 juin précédant l'année académique à laquelle se rapporte la demande]<sup>4</sup> et au plus tard le [<sup>1</sup> 1er juin]<sup>1</sup> de l'année [<sup>3</sup> ...]<sup>3</sup> académique en question.
+
+La demande introduite après le [<sup>1</sup> 1er juin]<sup>1</sup> de l'année [<sup>3</sup> ...]<sup>3</sup> académique concernée n'est plus traitée.
+
+Le Gouvernement flamand définit la façon de déposer la demande d'allocation.
+
+----------
+
+(1)&lt;DCFL 2011-07-01/33, art. VIII.5, 008; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2019-03-22/19, art. 29, 020; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2021-07-09/33, art. 122, 022; En vigueur : 01-06-2021&gt;
+
+**Art. 53/1**
+
+[<sup>1</sup> Dans le présent article, il faut entend par étudiant quasi boursier " : un étudiant quasi boursier, tel que visé à l'article I.3, 16°, du Code de l'Enseignement supérieur du 11 octobre 2013.
+
+La Division des Allocations d'Etudes examine le droit à une allocation d'études pour une année académique si l'étudiant remplit les conditions suivantes :
+
+1° le demandeur a donné l'autorisation d'enquêter sur le droit à une allocation d'études ;
+
+2° durant l'année académique précédant l'année académique à laquelle se rapporte l'allocation d'études, l'étudiant entrait en ligne de compte pour une allocation d'études ou était quasi boursier.
+
+La Division des Allocations d'Etudes fixe la date à laquelle l'enquête, telle que visée à l'alinéa deux, débute. L'enquête peut débuter au plus tôt le 1er janvier précédant l'année académique à laquelle se rapporte l'allocation d'études et au plus tard le 1er juin de l'année académique à laquelle elle se rapporte. La Division des Allocations d'Etudes informe le demandeur du début de l'enquête.
+
+Le demandeur peut interrompre l'enquête en cours à tout moment.
+
+L'étudiant qui n'entrait pas en ligne de compte pour une allocation d'études au cours de l'année académique précédant l'année académique à laquelle l'allocation d'études se rapporte ou l'étudiant qui n'était pas un quasi boursier fait une nouvelle demande d'allocation d'études conformément à l'article 53.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 123, 022; En vigueur : 01-06-2021&gt;
+
+**Art. 53/2**
+
+[<sup>1</sup> Le Gouvernement flamand détermine les modalités de l'examen du droit à l'aide financière aux études et la communication relative à l'aide financière aux études.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2012-12-21/65, art. IX.7, 010; En vigueur : 01-09-2013&gt;
+
+**Art. 54**
+
+[<sup>1</sup> Si un dossier de demande d'allocation a été introduit de façon incomplète, les documents demandés par le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> doivent être transmis, sous peine de clôture du dossier, au [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> au plus tard le 31 décembre de l'année calendrier dans laquelle l'année [<sup>3</sup> ...]<sup>3</sup> académique concernée se termine, à moins :
+
+1° que les revenus à prendre en considération ne soient pas encore contrôlés par le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> public fédéral Finances;
+
+2° qu'une réclamation ou une requête d'exonération d'office d'impôt ait été introduite conformément aux articles 366 à 376 inclus du Code des impôts sur les revenus, ou le tribunal ait été saisi;
+
+3° qu'il s'agisse d'une demande, indiquant que le requérant appartient ou déclare appartenir à une unité de vie visée à l'article 34, § 1er, 3°. Dans ce cas, les documents demandés par le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> doivent, sous peine d'exclusion, être transmis au [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup>, au plus tard le 31 décembre de l'année calendaire qui suit la fin de l'année [<sup>3</sup> ...]<sup>3</sup> académique en question.
+
+Dans le cas des exceptions définies au premier alinéa, 1° et 2°, les revenus contrôlés par le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> public fédéral Finances dans le cadre de l'alinéa 1er doivent être transmis au [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> au plus tard six mois après réception de ceux-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2010-07-09/26, art. VI.9, 006; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2019-03-22/19, art. 30, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 55**
+
+L'allocation est versée au plus tôt à compter du [<sup>1</sup> dernier lundi d'août]<sup>1</sup> de l'année [<sup>2</sup> ...]<sup>2</sup> académique en question.
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 42, 016; En vigueur : 27-08-2018&gt;
+
+(2)&lt;DCFL 2019-03-22/19, art. 31, 020; En vigueur : 01-09-2019&gt;
+
+##### Section II.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 32, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 56**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 32, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 56/1**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 32, 020; En vigueur : 01-09-2019&gt;
+
+##### Section III. - Allocation d'études de l'enseignement supérieur.
+
+**Art. 57**
+
+L'allocation d'études peut être versée à un compte de l'étudiant, sauf si l'étudiant demande au [<sup>1</sup> Division des Allocations d'Etudes]<sup>1</sup> de verser l'allocation à un autre compte avant que le paiement ne soit effectué.
+
+----------
+
+(1)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+**Art. 58**
+
+Si une avance sur l'allocation d'études est payée à l'étudiant par un [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> aux étudiants, ce montant est remboursé [<sup>1</sup> à la demande du [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> aux étudiants]<sup>1</sup> par le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> au [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> aux étudiants, pour autant que l'étudiant soit admissible à une allocation d'études.
+
+Quelle que soit l'avance, ce montant ne peut jamais dépasser l'allocation d'études à laquelle l'étudiant est admissible.
+
+Le solde positif éventuel au profit de l'étudiant est payé directement à l'étudiant.
+
+Un [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> aux étudiants peut demander au [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> de ne pas appliquer les premier aux troisième alinéas inclus relatifs aux avances payées par lui.
+
+----------
+
+(1)&lt;DCFL 2012-12-21/65, art. IX.9, 010; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+#### CHAPITRE II. - Révision.
+
+**Art. 59**
+
+S'il y a des changements dans la condition de nationalité, les conditions pédagogiques et les conditions financières, visées au présent décret, le demandeur peut demander [<sup>2</sup> à la Division des Allocations d'Etudes]<sup>2</sup> la révision de son dossier jusqu'à six mois après la prise de connaissance des nouveaux faits.
+
+[<sup>1</sup> La demande de révision d'un dossier, visée au premier alinéa, ne peut porter que sur l'année [<sup>3</sup> ...]<sup>3</sup> académique dans laquelle la demande a été déposée, ainsi que sur les quatre années [<sup>3</sup> ...]<sup>3</sup> académiques précédentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2011-07-01/33, art. VIII.6, 008; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2019-03-22/19, art. 33, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 60**
+
+[<sup>1</sup> Dans les cas suivants, le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> procède d'initiative à la révision du dossier :
+
+1° si une erreur s'est produite dans le calcul de l'allocation, due ou non à des actions trompeuses, des déclarations fausses ou des déclarations incomplètes que l'étudiant a sciemment transmises;
+
+2° si l'allocation a été calculée sur la base d'un revenu qui n'a pas encore été contrôlé par le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> public fédéral Finances et s'il apparaît ensuite que le revenu probable diffère du revenu contrôlé;
+
+3° après prise de connaissance des faits dont il apparaît qu'une des conditions d'octroi de l'allocation n'était pas remplie.
+
+La révision d'un dossier ne peut porter que sur l'année [<sup>3</sup> ...]<sup>3</sup> académique dans laquelle le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> décide la révision, ainsi que sur les quatre années [<sup>3</sup> ...]<sup>3</sup> académiques précédentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2011-07-01/33, art. VIII.7, 008; En vigueur : 01-09-2011&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2019-03-22/19, art. 34, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 61**
+
+Si la révision du dossier donne lieu à une allocation supérieure, le solde positif au profit de l'étudiant est payé.
+
+#### CHAPITRE III. - Recouvrement.
+
+##### Section 1re. - Dispositions genérales.
+
+**Art. 62**
+
+Dans les cas fixés aux articles 59 et 60, l'allocation attribuée et déjà versée à laquelle l'intéressé n'a pas droit est recupérée.
+
+**Art. 63**
+
+Des sommes indûment versées sont définitivement obtenues par ceux qui les ont reçues lorsque le remboursement de celles-ci n'est pas demandé dans un délai de cinq ans à compter du 1er janvier de l'année budgétaire à laquelle la dépense est imputée, à moins qu'ils ne les ont obtenues par des actions trompeuses, des déclarations fausses, voire incomplètes qu'ils ont sciemment transmises.
+
+**Art. 64**
+
+[<sup>1</sup> Le Gouvernement flamand fixe les modalités concernant les sommes à recouvrer et la procédure de recouvrement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.18, 002; En vigueur : 15-08-2008&gt;
+
+**Art. 65**
+
+&lt;Abrogé par DCFL 2012-12-21/65, art. IX.10, 010; En vigueur : 21-12-2012 (voir AGF 2015-07-10/14, art. 2)&gt;
+
+##### Section II.
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 35, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 66**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 35, 020; En vigueur : 01-09-2019&gt;
+
+**Art. 66/1**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 35, 020; En vigueur : 01-09-2019&gt;
+
+##### Section III. - Allocation d'études de l'enseignement supérieur.
+
+**Art. 67**
+
+[<sup>1</sup> Si, en se désinscrivant, l'étudiant réduit dans le courant de l'année académique en question le nombre d'unités d'études qu'il a engagées, il n'a droit qu'à une allocation pour le nombre d'unités d'études pour lesquelles il est encore inscrit.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.20, 002; En vigueur : 15-08-2008&gt;
+
+#### CHAPITRE IV. - Procedure de recours.
+
+**Art. 68**
+
+Un recours organisé doit être introduit auprès du [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> par :
+
+1° le demandeur qui n'est pas d'accord avec une décision négative sur sa demande d'allocation;
+
+2° le demandeur qui est d'avis que l'allocation a fait l'objet d'un calcul erroné;
+
+3° le demandeur qui n'est pas d'accord avec le recouvrement [<sup>3</sup> tel que visé à l'article 62]<sup>3</sup>.
+
+Le recours est introduit par lettre recommandée dans un délai de soixante jours calendrier commençant le lendemain du jour où le montant définitif ou le refus de l'allocation est communiqué, et doit contenir les arguments de droit et de fait que l'intéressé apporte pour motiver son recours.
+
+Il est répondu aux recours dans les [<sup>1</sup> quarante-cinq]<sup>1</sup> jours calendrier après réception de ceux-ci par le [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup>.
+
+Par dérogation à l'article 34, § 5, le revenu de l'unité de vie parentale, visée à l'article 34, § 1er, 1° et 2°, est communiqué dans la décision de recours du [<sup>2</sup> Division des Allocations d'Etudes]<sup>2</sup> au demandeur qui, lors de sa demande, a indiqué qu'il appartient à une unité de vie telle que visée à l'article 34, § 1er, 3°, 4° ou 5°, mais qui, en application de l'article 34, § 4, a été calculé sur la base du revenu des unités de vie visées à l'article 34, § 1er, 1° et 2°.
+
+----------
+
+(1)&lt;DCFL 2010-07-09/26, art. VI.11, 006; En vigueur : 01-09-2010&gt;
+
+(2)&lt;DCFL 2012-12-21/65, art. IX.1, 010; En vigueur : 01-09-2013&gt;
+
+(3)&lt;DCFL 2019-03-22/19, art. 36, 020; En vigueur : 01-09-2019&gt;
+
+### TITRE VI. - Dispositions transitoires générales.
+
+**Art. 69**
+
+Par dérogation à l'article 9, les candidats réfugiés, ainsi que leurs enfants qui séjournent en Belgique depuis leur minorité et qui n'ont pas introduit eux-mêmes une demande d'asile, dont la demande d'asile a été déclarée recevable immédiatement avant l'entree en vigueur intégrale déterminée par le Roi, conformément à l'article 78 de la loi du 15 septembre 2006 modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, de cette loi ou bien immédiatement avant le premier jour de la treizième mois après publication de la loi précitée par défaut à une date déterminée par le Roi, sont admissibles à une allocation aussi longtemps que leur procédure est en cours auprès du Commissariat général des Réfugiés et Apatrides, de la Commission permanente de Recours des Réfugiés, ou du Conseil du Contentieux des Etrangers.
+
+### TITRE VII. - Dispositions transitoires pour l'enseignement supérieur.
+
+**Art. 70**
+
+[<sup>1</sup> § 1er. Les diplômes obtenus et les formations accomplies par l'étudiant avant l'année académique 2008-2009 sont portés en compte pour déterminer si l'étudiant peut obtenir une allocation d'études, telle que visée à l'article 21, § 1er. A cet effet, les dispositions suivantes sont prises en considération :
+
+1° au diplôme de bachelor, tel que visé à l'article 21, § 1er, sont assimilés les diplômes et les formations accomplies ci-après :
+
+a) toute formation de bachelor accomplie et sanctionnée par un diplôme;
+
+b) toute formation accomplie et sanctionnée par un diplôme de l'enseignement supérieur d'un cycle;
+
+c) [<sup>3</sup> ...]<sup>3</sup>
+
+d) [<sup>3</sup> ...]<sup>3</sup>
+
+2° au diplôme de master, tel que visé à l'article 21, § 1er, sont assimilés les diplômes et les formations accomplies ci-après :
+
+a) toute formation de master accomplie et sanctionnée par un diplôme;
+
+b) toute formation accomplie et sanctionnée par un diplôme du deuxième cycle de l'enseignement supérieur de deux cycles dispensé par les instituts supérieurs;
+
+c) toute formation accomplie et sanctionnée par un diplôme du deuxième cycle de l'enseignement académique;
+
+3° [<sup>6</sup> ...]<sup>6</sup>
+
+4° l'étudiant qui a accompli un programme préparatoire ou un programme de transition avant l'entrée en vigueur du présent décret n'est plus admissible à une allocation d'études pour suivre un programme préparatoire ou un programme de transition.
+
+§ 2. Le crédit joker, tel que visé à l'article 26, § 2, est réduit :
+
+1° de soixante unités d'études si l'étudiant a épuisé la bourse joker visée au décret du 16 février 2001;
+
+2° du nombre d'unités d'études pour lesquelles l'étudiant a utilisé le crédit joker pendant les années académiques 2004-2005, 2005-2006 ou 2006-2007, conformément au décret du 30 avril 2004 relatif à l'aide financière aux études et aux services aux étudiants dans l'enseignement supérieur de la Communauté flamande, modifié par le décret du 9 novembre 2005;
+
+3° du nombre d'unités d'études pour lesquelles l'étudiant a utilisé pendant l'année académique 2007-2008 le crédit joker visé au décret du 8 juin 2007 relatif à l'aide financière aux études de la Communauté flamande.
+
+§ 3. Des unités d'études engagées et acquises par les étudiants avant l'entrée en vigueur du présent décret sont portées en compte conformément aux dispositions des articles 21 et 23, § 2, afin de déterminer l'état actuel du crédit allocation d'études. A cet effet, les dispositions suivantes sont prises en considération :
+
+1° pour chaque année académique que l'étudiant a suivi l'enseignement supérieur à temps plein avant l'année académique 2004-2005, une inscription est assimilée a soixante unités d'études engagées et le crédit allocation d'études est complété par soixante unités d'études si l'étudiant avait réussi;
+
+2° pour chaque année académique que l'étudiant a suivi l'enseignement supérieur à mi-temps avant l'année académique 2004-2005, une inscription est assimilée à trente unités d'études engagées et le crédit allocation d'études est complété par trente unités d'études si l'étudiant avait réussi;
+
+3° si l'étudiant était inscrit dans l'enseignement supérieur à temps plein pour l'année académique 2004-2005 et la formation suivie ne faisait pas encore l'objet d'une flexibilisation, l'inscription est assimilée à soixante unités d'études engagées et le crédit allocation d'études est complété par soixante unités d'études si l'étudiant avait réussi;
+
+4° si l'étudiant était inscrit dans l'enseignement supérieur à mi-temps pour l'année académique 2004-2005 et la formation suivie ne faisait pas encore l'objet d'une flexibilisation, l'inscription est assimilée à trente unités d'études engagées et le crédit allocation d'études est complété par trente unités d'études si l'étudiant avait réussi;
+
+5° si l'étudiant était inscrit dans l'enseignement supérieur pour l'année académique 2004-2005 et la formation suivie ne faisait pas encore l'objet d'une flexibilisation, le crédit allocation d'études est réduit du nombre d'unités d'études engagées et majoré du nombre d'unités d'études acquises;
+
+6° si l'étudiant était inscrit dans l'enseignement supérieur pour l'année académique 2005-2006, 2006-2007 ou 2007-2008, le crédit allocation d'études est réduit du nombre d'unités d'études engagées et majoré du nombre d'unités d'études acquises.
+
+§ 4. Si, avant l'entrée en vigueur du présent décret, un étudiant suivait l'enseignement supérieur, tel que visé aux articles 20, §§ 1er et 2, 21, § 1er et 30, § 1er, et engageait dans chaque année académique suivie moins de soixante unités d'études, la différence entre soixante et le nombre le plus élevé d'unités d'études engagées dans une année académique, avant ou, le cas échéant, après l'entrée en vigueur du présent décret, est ajoutée au crédit allocation d'études pour une ou plusieurs années académiques après l'entrée en vigueur du présent décret, pour autant et dans la mesure où l'étudiant engage, après l'entrée en vigueur du présent décret, dans cette année académique ultérieure concernée, plus d'unités d'études que dans l'année académique, avant ou, le cas échéant, après l'entrée en vigueur du présent décret, où l'étudiant engageait le nombre le plus élevé d'unités d'études sans qu'il puisse engager plus de soixante unités d'études.
+
+§ 5. Par dérogation à l'article 7, deuxième alinéa, sont considérées, pour l'application des §§ 3 et 4 du présent article, les unités d'études pour lesquelles l'étudiant s'est désinscrit, comme engagées si l'étudiant se désinscrivait après le 31 octobre, respectivement le 28 février, de l'année académique en question, selon qu'il s'était inscrit uniquement à une année académique entière, un premier semestre ou au deuxième semestre.]<sup>1</sup>
+
+[<sup>2</sup> § 6. Si un étudiant a suivi, préalablement à l'entrée en vigueur du présent article, un enseignement supérieur tel que visé aux articles 20, §§ 1er et 2, 21, § 1er, et 30, § 1er, les règles suivantes sont appliquées pour l'application correspondante de l'article 23, § 3 :
+
+1° pour chaque année académique que l'étudiant a suivi l'enseignement supérieur à temps plein avant l'année académique 2004-2005, l'étudiant est censé avoir acquis soixante unités d'études s'il avait réussi;
+
+2° pour chaque année académique que l'étudiant a suivi l'enseignement supérieur à mi-temps avant l'année académique 2004-2005, l'étudiant est censé avoir acquis trente unités d'études s'il avait réussi;
+
+3° si l'étudiant était inscrit dans l'enseignement supérieur à temps plein pour l'année académique 2004-2005 et la formation suivie ne faisait pas encore l'objet d'une flexibilisation, l'étudiant est censé avoir acquis soixante unités d'études s'il avait réussi;
+
+4° si l'étudiant était inscrit dans l'enseignement supérieur à mi-temps pour l'année académique 2004-2005 et la formation suivie ne faisait pas encore l'objet d'une flexibilisation, l'étudiant est censé avoir acquis trente unités d'études s'il avait réussi;
+
+5° si l'étudiant était inscrit dans l'enseignement supérieur pour l'année académique 2004-2005 et la formation suivie faisait à ce moment l'objet d'une flexibilisation, le nombre réel d'unités d'études acquises est porté en compte;
+
+6° si l'étudiant était inscrit dans l'enseignement supérieur pour l'année académique 2005-2006, 2006-2007, 2007-2008 ou 2008-2009, le nombre réel d'unités d'études acquises est porté en compte.]<sup>2</sup>
+
+[<sup>4</sup> § 7. Par dérogation à l'article 21, § 1er, un étudiant qui est porteur de deux diplômes de candidature qui, par application du paragraphe 1er du présent article sont assimilés à un diplôme de bachelor, ou qui est porteur d'un diplôme de candidature et d'un autre diplôme de bachelor, peut recevoir une aide financière aux études pour obtenir un troisième diplôme de bachelor, s'il répond aux conditions suivantes :
+
+1° l'étudiant n'est pas encore porteur d'un diplôme de licencié ou d'un diplôme de master ;
+
+2° la formation de bachelor faisant l'objet de la demande d'aide financière aux études est la formation ultérieure quant au fond d'un diplôme de candidature déjà acquis par l'étudiant.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.21, 002; En vigueur : 15-08-2008&gt;
+
+(2)&lt;DCFL 2009-05-08/32, art. VII.10, 005; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCFL 2013-07-19/57, art. XII.2, 011; En vigueur : 01-09-2014&gt;
+
+(4)&lt;DCFL 2014-04-25/L8, art. VIII.6, 012; En vigueur : 01-09-2014&gt;
+
+(6)&lt;DCFL 2019-03-01/26, art. 8, 019; En vigueur : 01-09-2019&gt;
+
+## LIVRE III. - Dispositions diverses.
+
+**Art. 71**
+
+L'article 12 du décret du 30 avril 2004 relatif a l'aide financière aux études et aux services aux étudiants dans l'enseignement supérieur de la Communauté flamande, remplacé par le décret du 18 novembre 2005, est remplacé par ce qui suit :
+
+" Article 12. § 1er. Afin de satisfaire aux conditions de nationalité qui, conformément à l'article 61 sont nécessaires à être admissibles aux services sélectifs des services aux étudiants, les étudiants de nationalité belge sont admissibles.
+
+§ 2. Par dérogation au § 1er, les catégories suivantes d'étudiants sont également admissibles aux services sélectifs :
+
+1° les enfants de ressortissants d'un Etat membre de l'Espace économique européen qui, sur la base d'un contrat de travail, travaillent ou ont travaillé en Belgique pour une période de deux ans et au plus tard le 31 décembre de l'année académique en question pour au moins 12 mois pendant au moins 32 heures par mois, et qui peuvent faire appel à l'article 12 du Règlement (CEE) 1612/68 du Conseil, du 15 octobre 1968, relatif à la libre circulation des travailleurs à l'intérieur de l'Union, ainsi que les enfants de ressortissants d'un Etat membre de l'Espace économique européen qui exercent ou ont exercé des activités en Belgique autres que des activités prestées dans le cadre d'un travail salarié pour une période de deux ans et au plus tard le 31 décembre de l'année académique en question sur la base d'une inscription dans la Banque-Carrefour des entreprises ou le registre de commerce;
+
+2° les ressortissants d'un Etat membre de l'Espace économique européen qui, sur la base d'un contrat de travail, travaillent ou ont travaillé en Belgique pour une période de deux ans précédant immédiatement le 31 décembre de l'année académique en question pour au moins 12 mois pendant au moins 32 heures par mois, et qui peuvent faire appel à l'article 7 du Règlement (CEE) 1612/68 du Conseil, du 15 octobre 1968, relatif à la libre circulation des travailleurs à l'intérieur de l'Union, ainsi que les ressortissants d'un Etat membre de l'Espace économique européen qui exercent ou ont exercé des activités en Belgique autres que des activités prestées dans le cadre d'un travail salarié pour une période de deux ans précédant immédiatement le 31 décembre de l'année académique en question sur la base d'une inscription dans la Banque-Carrefour des Entreprises;
+
+3° les ressortissants d'un Etat membre de l'Union européenne qui, pendant la période précédant immédiatement le 31 décembre de l'année académique en question, séjournaient en Belgique pendant 5 ans de manière ininterrompue, l'inscription au Registre national ou une attestation équivalente à délivrer par l'administration communale prouvant le délai de résidence;
+
+4° les étudiants de nationalité étrangère qui sont admis ou autorisés à séjourner en Belgique pour une durée illimitée, au sens de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+5° les victimes du trafic de personnes, attestées par un centre agréé par les autorités fédérales spécialisé dans l'accueil de victimes du trafic de personnes;
+
+6° les étudiants de nationalité étrangère qui sont admis ou autorisés à séjourner en Belgique pour une durée illimitée, en vertu de l'article 48/4 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+7° les ressortissants d'un pays n'appartenant pas à l'Espace economique européen qui, le 31 décembre de l'année académique concernée, séjournent légalement en Belgique pendant une période ininterrompue d'au moins douze mois, à condition que ce séjour légal n'ait pas été accordé ni pour suivre l'enseignement supérieur ou pour travailler en Belgique, ni dans l'attente d'un prononcé dans une procédure d'asile afin d'être reconnu comme réfugié ou comme personne ayant droit à une protection subsidiaire, conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+8° les personnes qui, en vertu des articles 10, 10bis ou 40 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, ont reçu la permission d'accompagner ou de rejoindre une personne telle que visée au § 1er ou § 2, 1° à 7° inclus, du présent article, ou une personne qui, le 31 décembre de l'année scolaire ou académique concernée, séjourne depuis au moins douze mois légalement en Belgique pour faire des études supérieures ou pour travailler;
+
+9° les candidats réfugiés, ainsi que leurs enfants qui séjournent en Belgique depuis leur minorité et qui n'ont pas introduit eux-mêmes une demande d'asile, dont la demande d'asile a été déclarée recevable immédiatement avant l'entrée en vigueur intégrale déterminée par le Roi, conformément à l'article 78 de la loi du 15 septembre 2006 modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, de cette loi ou bien immédiatement avant le premier jour de la treizième mois après publication de la loi précitée par défaut à une date déterminée par le Roi, sont admissibles à des services sélectifs aussi longtemps que leur procédure est en cours auprès du Commissariat général des Réfugiés et Apatrides, de la Commission permanente de Recours des Réfugiés, ou du Conseil du Contentieux des Etrangers. "
+
+**Art. 72**
+
+Dans le même décret, modifié par le décret du 18 novembre 2005, l'intitulé du chapitre IV est remplacé par ce qui suit : "Rapport entre les allocations d'études accordées à l'enseignement supérieur et aux services aux étudiants".
+
+**Art. 73**
+
+Dans l'article 73, 1°, 3° et 7°, du même décret, les mots "aide financière aux études" sont remplacés par les mots "allocations d'études pour l'enseignement supérieur".
+
+**Art. 74**
+
+&lt;Abrogé par DCFL 2019-03-22/19, art. 37, 020; En vigueur : 01-09-2019&gt;
+
+## LIVRE IV. - Dispositions abrogatoires.
+
+**Art. 75**
+
+La loi du 19 juillet 1971 relative à l'octroi d'allocations d'études, modifiée par les décrets des 31 juillet 1990, 8 juillet 1996, 16 décembre 2001 et 14 février 2003 est abrogée, mais continue à être applicable à toutes les demandes portant sur les années scolaires précédant l'année scolaire 2007-2008.
+
+**Art. 76**
+
+Le décret du 30 avril 2004 relatif à l'aide financière aux études et aux services aux étudiants dans l'enseignement supérieur de la Communauté flamande, modifié par le décret du 18 novembre 2005, est abrogé, sauf :
+
+1° l'article 4;
+
+2° l'article 5;
+
+3° les articles 6, 4°, 23° et 24°;
+
+4° l'article 12;
+
+5° le titre III;
+
+6° le titre IV;
+
+7° le titre V;
+
+8° le titre VI.
+
+Par dérogation au premier alinéa, le décret précité continue à être applicable pour ce qui est des demandes portant sur les années académiques 2004-2005 à 2006-2007 incluses.
+
+## LIVRE V. - Entrée en vigueur.
+
+**Art. 77**
+
+Le présent décret entre en vigueur le 1er juillet 2007.
+
+Les dispositions relatives à l'allocation scolaire dans l'enseignement fondamental et l'enseignement obligatoire à temps partiel entrent en vigueur le 1er juillet 2008, à l'exception de l'article 46 relative à l'indexation des plafonds et planchers de revenus visés à l'article 43 qui entre en vigueur le 1er juillet 2007.
+
+[<sup>1</sup> Par dérogation au deuxième alinéa, la disposition, visée à l'article 16, § 1er, 2°, relative aux élèves dans l'enseignement obligatoire à temps partiel entre en vigueur le dixième jour après la publication du décret relatif au régime d'apprentissage et du travail en Communauté flamande au Moniteur belge.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-04/45, art. 9.22, 002; En vigueur : 15-08-2008&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 8 juin 2007.
+
+Le Ministre-Président du Gouvernement flamand,
+
+Y. LETERME
+
+Le Ministre flamand de l'Emploi, de l'Enseignement et de la Formation,
+
+F. VANDENBROUCKE.

@@ -1,0 +1,40 @@
+---
+title: "Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend in Brussel, op 12 juli 2006."
+identifier: "2008202912"
+eli: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202912/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: nl
+date: 2008-06-20
+published: 2008-08-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202912/justel"
+department: "Vlaamse Overheid"
+retrieved: 2026-10-12
+---
+
+# 20 JUNI 2008. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend in Brussel, op 12 juli 2006.
+
+Het Vlaams Parlement heeft aangenomen en Wij, Regering, bekrachtigen hetgeen volgt : decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend in Brussel, op 12 juli 2006.
+
+## Art. 1
+
+Dit decreet regelt een gemeenschaps- en een gewestaangelegenheid.
+
+## Art. 2
+
+Het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend in Brussel, op 12 juli 2006, zal volkomen gevolg hebben.
+
+Kondigen dit decreet af, bevelen dat het in het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Brussel, 20 juni 2008.
+
+De minister-president van de Vlaamse Regering,
+
+K. PEETERS
+
+De Vlaamse minister van Bestuurszaken, Buitenlands Beleid, Media en Toerisme,
+
+G. BOURGEOIS.

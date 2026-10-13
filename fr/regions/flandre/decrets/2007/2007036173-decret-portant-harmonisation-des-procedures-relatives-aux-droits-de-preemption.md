@@ -1,0 +1,705 @@
+---
+title: "Décret portant harmonisation des procédures relatives aux droits de préemption (TRADUCTION)."
+identifier: "2007036173"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/25/2007036173/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2007-05-25
+published: 2007-07-24
+entry_into_force: 2012-10-01
+last_amended: 2026-08-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/25/2007036173/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 24-07-2007 et mise à jour au 10-08-2026"
+retrieved: 2026-10-12
+---
+
+# 25 MAI 2007. - Décret portant harmonisation des procédures relatives aux droits de préemption (TRADUCTION).
+
+Le Parlement flamand a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+##### Art. 1
+
+Le présent décret règle une matière régionale.
+
+##### Art. 2
+
+Pour l'application du présent décret on entend par :
+
+1° droit de préemption : droit d'acheter une parcelle proposée à la vente, au même prix et aux mêmes conditions, par priorité sur le candidat acheteur;
+
+2° droit de préemption flamand : droit de préemption octroyé par ou en exécution d'une loi ou d'un décret, à l'exception d'un droit de préemption existant le 30 juillet 1993 qui est octroyé par ou en exécution d'une loi;
+
+3° vente : la convention par laquelle le propriétaire d'un bien immobilier, transfère entièrement ou partiellement la pleine propriété ou la nue-propriété, à un acheteur qui s'engage à payer un prix à cet effet;
+
+4° parcelle : bien immobilier bâti ou non bâti, identifiable dans une zone délimitée, qui appartient soit à un propriétaire, soit à plusieurs propriétaires sous quelque forme d'indivision;
+
+5° identification : localisation d'une parcelle codée unique dans une zone délimitée;
+
+6° délimitation : désignation d'une zone spatiale dans laquelle un droit de préemption flamand est octroyé, soit :
+
+a) par la délimitation par ou en exécution d'un décret de la zone, du territoire, du périmètre, du projet ou de tout autre espace dans lequel se situe la parcelle;
+
+b) par la reprise, en exécution d'un décret, dans une liste, un inventaire, un registre ou tout autre fichier reprenant les parcelles;
+
+c) par une disposition décrétale stipulant les modalités d'octroi d'un droit de préemption flamand à un bien immobilier;
+
+7° guichet électronique de préemption : guichet électronique unique relatif à tous les droits de préemption flamands existants et futurs;
+
+8° fichier thématique géographique 'Vlaamse voorkooprechten' (Droits de préemption flamands) : fichier qui contient des informations géographiques sélectionnées sur les droits de préemption flamands, et qui est développé, créé, géré, actualisé et publié [<sup>4</sup> ou mis à disposition]<sup>4</sup> par l'[<sup>2</sup> agence]<sup>2</sup>;
+
+9° [<sup>1</sup> publication : publication numérique par l'[<sup>2</sup> agence]<sup>2</sup> des informations reprises dans le fichier thématique géographique " Vlaamse voorkooprechten ". Cette publication a lieu à minuit ;]<sup>1</sup>
+
+10° bénéficiaire : personne morale à laquelle un droit de préemption est octroyé par ou en exécution d'un décret, ou son délégué;
+
+11° ensemble spatial : deux ou plusieurs parcelles cadastrales ou parties de parcelles cadastrales, qui ont une frontière commune;
+
+12° [<sup>2</sup> [<sup>3</sup> agence : l'agence autonomisée interne " Digitaal Vlaanderen ", visée à l'article 2 de l'arrêté du Gouvernement flamand du 18 mars 2016 portant création de l'agence autonomisée interne " Digitaal Vlaanderen ", et détermination du fonctionnement, de la gestion et de la comptabilité de l' " Eigen Vermogen Digitaal Vlaanderen ";]<sup>3</sup>]<sup>2</sup>
+
+13° Banque foncière flamande : division de la Vlaamse Landmaatschappij, créée par le décret du 26 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions.
+
+----------
+
+(1)&lt;DCFL 2014-03-28/45, art. 7, 005; En vigueur : 20-07-2014&gt;
+
+(2)&lt;AGF 2016-03-18/17, art. 7, 006; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DCFL 2021-04-02/35, art. 20, 009; En vigueur : 10-05-2021&gt;
+
+(4)&lt;DCFL 2023-12-22/13, art. 25, 011; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE II. - Répartition des tâches Banque foncière et AGIV.
+
+##### Art. 3
+
+L'[<sup>2</sup> agence]<sup>2</sup> est chargée du développement, de la création, de l'actualisation et de la publication du fichier thématique géographique 'Vlaamse voorkooprechten' en faveur du fonctionnement du guichet électronique de préemption [<sup>3</sup> et de la mise à disposition du fichier thématique géographique `droits flamands de préemption' via la VIP, visée à l'article 2, 20°, du décret du 22 décembre 2023 sur la Plateforme d'information immobilière ]<sup>3</sup>.
+
+L'accès aux informations reprises dans le fichier thématique géographique 'Vlaamse voorkooprechten' est gratuit.
+
+La Banque foncière flamande est chargée du développement, de la gestion et de l'ouverture d'un guichet électronique de préemption.
+
+[<sup>1</sup> L'[<sup>2</sup> agence]<sup>2</sup> est une instance telle que visée à l'article 4, § 1er, du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives. Le fichier thématique géographique 'Vlaamse voorkooprechten' est une source authentique de données telle que visée à l'article 4 du décret précité. (NOTE : l'art. 28 du DCFL 2008-07-18/23, qui a ajouté le présent alinéa 4, est abrogé avec effet à une date indéterminée par DCFL 2009-02-20/43, art. 57.)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2008-07-18/23, art. 28, 002; En vigueur : 14-07-2009&gt;
+
+(2)&lt;AGF 2016-03-18/17, art. 8, 006; En vigueur : 01-01-2016&gt;
+
+(3)&lt;DCFL 2023-12-22/13, art. 26, 011; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE III. - Guichet électronique de préemption.
+
+##### Art. 4
+
+§ 1er. Le guichet électronique de préemption accomplit les missions suivantes :
+
+1° la réception et la transmission aux bénéficiaires de la proposition d'exercice d'un droit de préemption flamand lors d'une vente de gré à gré, et de l'annonce d'une vente publique à laquelle s'applique un droit de préemption flamand;
+
+2° la réception et la transmission de la décision d'exercice d'un droit de préemption flamand par le bénéficiaire;
+
+3° la réception et la transmission d'avis relatifs à la vente de parcelles pour lesquelles un droit de préemption flamand offert n'a pas été exercé.
+
+§ 2. Le guichet électronique de préemption accomplit ces missions pour chaque droit de préemption flamand qui est déjà introduit ou doit encore être introduit.
+
+##### Art. 4/1
+
+[<sup>1</sup> Le Gouvernement flamand peut élaborer une procédure en cas d'indisponibilité du guichet électronique de préemption pour cause de pannes techniques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-28/45, art. 8, 005; En vigueur : 20-07-2014&gt;
+
+## CHAPITRE IV. - Fichier thématique géographique 'Vlaamse voorkooprechten'.
+
+##### Art. 5
+
+[<sup>1</sup> 1er. Chaque bénéficiaire notifie à l'[<sup>2</sup> Agence]<sup>2</sup> les droits de préemption flamands qui lui sont octroyés et pour lesquels il souhaite recevoirs des offres par le biais du guichet électronique de préemption.
+
+[<sup>4</sup> Pour les droits de préemption, visés à l'article 5.76, § 1er, du Code flamand du Logement de 2021, la notification par la commune qui a délimité la zone conformément à l'article 5.76, § 1er, du code précité, suffit]<sup>4</sup>.
+
+§ 2. La notification visée au paragraphe 1er se fait par la voie électronique et comporte :
+
+1° la désignation des bénéficiaires ;
+
+2° les parcelles pouvant faire l'objet d'un droit de préemption flamand ;
+
+3° la loi ou le décret par lesquels ou en vertu desquels le droit de préemption est octroyé.
+
+La notification visée au paragraphe 1er est faite selon les spécifications fournies par l'[<sup>2</sup> Agence]<sup>2</sup>.
+
+Chaque bénéficiaire assure à ses propres frais la notification visée au paragraphe 1er et au présent paragraphe.
+
+§ 3. Pour que des parcelles puissent être reprises dans le fichier thématique géographique " Vlaamse voorkooprechten ", elles doivent être identifiées selon les données cadastrales ou, à défaut de données cadastrales, selon un code d'identification unique indiqué par l'[<sup>2</sup> Agence]<sup>2</sup>, et selon la situation géographique. Une parcelle peut être reprise dans le fichier thématique géographique " Vlaamse voorkooprechten " si elle se situe à moitié ou plus dans une zone délimitée.
+
+§ 4. Chaque bénéficiaire reste responsable des notifications visées au paragraphe 2. L'[<sup>2</sup> Agence]<sup>2</sup> est responsable du traitement des notifications.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/45, art. 9, 005; En vigueur : 20-07-2014&gt;
+
+(2)&lt;AGF 2016-03-18/17, art. 9, 006; En vigueur : 01-01-2016&gt;
+
+(3)&lt;AGF 2020-07-17/73, art. 6, 008; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DCFL 2023-12-22/13, art. 27, 011; En vigueur : 01-01-2024&gt;
+
+##### Art. 6
+
+L'[<sup>2</sup> agence]<sup>2</sup> traite les informations reçues et les reprend dans le fichier thématique géographique 'Vlaamse voorkooprechten'.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/45, art. 10, 005; En vigueur : 20-07-2014&gt;
+
+(2)&lt;AGF 2016-03-18/17, art. 10, 006; En vigueur : 01-01-2016&gt;
+
+##### Art. 7
+
+Le fichier thématique géographique 'Vlaamse voorkooprechten' est publié par l'[<sup>1</sup> agence]<sup>1</sup>.
+
+[<sup>2</sup> L'agence peut mettre à disposition les informations reprises dans le fichier thématique géographique `droits flamands de préemption', via la VIP, visée à l'article 2, 20°, du décret du 22 décembre 2023 sur la Plateforme d'information immobilière.]<sup>2</sup>
+
+----------
+
+(1)&lt;AGF 2016-03-18/17, art. 8, 006; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2023-12-22/13, art. 28, 011; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE V. - Règles relatives aux droits de préemption flamands.
+
+### Section 1re. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 2, 007; En vigueur : 01-09-2018&gt;
+
+##### Art. 8
+
+Sans préjudice des dispositions spécifiques, définies dans les décrets introduisant un droit de préemption flamand, les droits de préemption ne s'appliquent pas :
+
+1° en cas de vente aux personnes suivantes :
+
+a) le conjoint, les descendants ou les enfants adoptés du propriétaire;
+
+b) les descendants ou les enfants adoptés du conjoint du propriétaire;
+
+c) le copropriétaire, que l'indivision s'arrête ou non;
+
+d) le conjoint, les descendants ou les enfants adoptés du copropriétaire;
+
+e) les descendants ou les enfants adoptés du conjoint du copropriétaire;
+
+f) les conjoints des descendants ou des enfants adoptés précités.
+
+Pour l'application de 1° on entend également par conjoint du propriétaire, du copropriétaire, du descendant ou de l'enfant adopté, la personne avec laquelle le propriétaire, copropriétaire, descendant ou enfant adopté cohabite légalement ou cohabite au moins pendant un an de façon ininterrompue, et avec laquelle il vit en ménage commun;
+
+2° lorsque le fermier exerce son droit de préemption conformément [<sup>1</sup> au décret flamand sur le Bail à ferme du 13 octobre 2023 ]<sup>1</sup>;
+
+3° en cas de vente au fermier actuel à condition que celui-ci puisse démontrer être fermier depuis au moins une année calendaire, à compter jusqu'à la date à laquelle le contrat de vente définitif a obtenu date certaine.
+
+----------
+
+(1)&lt;DCFL 2023-10-13/13, art. 81, 010; En vigueur : 01-11-2023&gt;
+
+##### Art. 9
+
+Un droit de préemption flamand s'applique au bien immobilier à vendre, même si celui-ci ne constitue qu'une partie de la parcelle pour laquelle le droit de préemption flamand est octroyé.
+
+Lorsque la parcelle pour laquelle un droit de préemption flamand est octroyé, ne constitue qu'une partie du bien immobilier mis en vente, le fonctionnaire instrumentant doit faire une offre séparée pour cette partie.
+
+Il peut être dérogé aux dispositions de l'alinéa deux si le bien immobilier à vendre, dont seule une partie est soumise à un droit de préemption flamand, constitue un ensemble spatial que le vendeur et l'acheteur ne veulent pas scinder; dans ce cas, l'ensemble est offert au moyen du guichet électronique de préemption, à un seul prix. Le bénéficiaire qui souhaite exercer le droit de préemption, exerce le droit de préemption flamand dans ce cas sur l'ensemble.
+
+##### Art. 10
+
+[<sup>1</sup> Les droits de préemption flamands produisent leurs effets à partir de leur publication. Ils ne doivent pas être offerts si le contrat de vente était conclu antérieurement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/45, art. 11, 005; En vigueur : 20-07-2014&gt;
+
+##### Art. 11
+
+Une parcelle pour laquelle un droit de préemption flamand est octroyé et publié, ne peut être vendue qu'après que les bénéficiaires du droit de préemption ont eu l'occasion d'exercer celui-ci.
+
+Le guichet électronique de préemption est l'instrument unique qui permet, selon la procédure décrite ci-dessous :
+
+1° d'offrir et d'exercer tout droit de préemption flamand, déjà introduit ou encore à introduire, en cas d'une vente de gré à gré;
+
+2° de notifier toute vente publique à laquelle s'applique un droit de préemption flamand, déjà introduit ou encore à introduire.
+
+Toutes les notifications relatives aux droits de préemption flamands au moyen du guichet électronique de préemption se font par la voie électronique, et sont confirmées par une signature électronique ou un certificat qualifié.
+
+La date de la notification est la date à laquelle le guichet électronique de préemption reçoit l'offre du droit de préemption flamand.
+
+##### Art. 11/1.
+
+[<sup>1</sup> Le bénéficiaire demande au fonctionnaire instrumentant le nom et l'adresse du vendeur ou du candidat acquéreur si toutes les conditions suivantes sont remplies :
+
+1° le bénéficiaire accepte l'offre conformément à l'article 13, alinéa 1er, à l'article 14/1, § 2, alinéa 2, ou à l'article 14/2, alinéa 2 ;
+
+2° le bénéficiaire est une instance publique au sens de l'article II.18 du Décret de gouvernance du 7 décembre 2018.
+
+Dans le cadre d'une vente publique telle que visée au chapitre V, section 3, le candidat acquéreur, visé à l'alinéa 1er, est le soumissionnaire dont l'offre la plus élevée a été acceptée et à qui le bien immobilier serait attribué conformément à l'article 14/1, § 2, alinéa 4, ou à l'article 14/2, alinéa 5, si le droit de préemption n'avait pas été exercé.
+
+Dans les cinq jours ouvrables suivant la réception de la demande, visée à l'alinéa 1er, le fonctionnaire instrumentant transmet au bénéficiaire, par voie électronique ou sur papier, le nom et l'adresse du vendeur et du candidat acquéreur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-06-26/21, art. 71, 012; En vigueur : 20-08-2026&gt;
+
+### Section 2. [<sup>1</sup> Vente de gré à gré]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 4, 007; En vigueur : 01-09-2018&gt;
+
+##### Art. 12
+
+§ 1er. En cas de vente de gré à gré, le fonctionnaire instrumentant offre le droit de préemption flamand au guichet électronique de préemption. Une seule offre suffit, quel que soit le nombre de bénéficiaires sur cette parcelle.
+
+§ 2. L'offre mentionne :
+
+1° l'identification de la parcelle;
+
+2° le prix à payer par l'acheteur;
+
+3° les autres engagements éventuels du vendeur et de l'acheteur;
+
+4° [<sup>1</sup> la déclaration du vendeur portant sur les droits de jouissance réels et personnels grevant le bien ;]<sup>1</sup>
+
+5° le nom et l'adresse du fonctionnaire instrumentant.
+
+§ 3. L'offre du droit de préemption flamand au guichet électronique de préemption vaut comme offre de vente.
+
+§ 4. Le guichet électronique de préemption confirme la réception de l'offre au fonctionnaire instrumentant.
+
+----------
+
+(1)&lt;DCFL 2014-03-28/45, art. 12, 005; En vigueur : 20-07-2014&gt;
+
+##### Art. 13
+
+[<sup>1</sup> Le guichet électronique de préemption transmet l'offre aux bénéficiaires. Si les bénéficiaires acceptent l'offre, ils en informent le guichet électronique de préemption dans un délai de soixante jours après la date visée à l'article 11, quatrième alinéa.
+
+Chaque bénéficiaire peut, en cas de vente de gré à gré dans le délai de soixante jours, demander au fonctionnaire instrumentant des informations complémentaires ou la communication du contenu du contrat de vente ou du projet d'acte authentique en laissant uniquement l'identité de l'acheteur en blanc. Le fonctionnaire instrumentant transmet ces informations ou ce contenu dans les cinq jours ouvrables de la réception de la demande, soit par la voie électronique, soit sur papier.]<sup>1</sup>
+
+Le guichet électronique de préemption enregistre l'identité du bénéficiaire qui exerce le droit de préemption, et informe le fonctionnaire instrumentant immédiatement de l'avis d'acceptation. Le guichet électronique de préemption enregistre le moment de l'envoi de la notification au fonctionnaire instrumentant, qui est le moment d'acceptation.
+
+La vente au bénéficiaire est parfaite dès l'envoi de la notification d'acceptation au fonctionnaire instrumentant. L'acheteur doit payer le prix et respecter toutes les conditions et modalités auxquelles le candidat acheteur s'était engagé, telles que reprises dans les informations envoyées ultérieurement, dans le contrat de vente ou projet d'acte authentique communiqué.
+
+Si plusieurs bénéficiaires acceptent l'offre, et s'ils ne s'entendent pas, le Gouvernement flamand décide, à la demande de la partie la plus diligente, à quel bénéficiaire intéressé le bien sera vendu. Le Gouvernement flamand décide en fonction de l'intérêt de chaque bénéficiaire lors de l'exercice du droit de préemption.
+
+En cas de vente de gré à gré, un bénéficiaire peut communiquer au fonctionnaire instrumentant [<sup>1</sup> par le biais]<sup>1</sup> du guichet électronique de préemption qu'il renonce à l'exercice du droit de préemption dont l'offre lui est transmise par le guichet électronique de préemption. Cette renonciation est irrévocable.
+
+----------
+
+(1)&lt;DCFL 2014-03-28/45, art. 13, 005; En vigueur : 20-07-2014&gt;
+
+### Section 3. [<sup>1</sup> Vente publique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 5, 007; En vigueur : 01-09-2018&gt;
+
+#### Sous-section 1re. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 6, 007; En vigueur : 01-09-2018&gt;
+
+##### Art. 14
+
+§ 1er. En cas de vente publique, le fonctionnaire instrumentant informe le guichet électronique de préemption au moins trente jours avant la séance.
+
+§ 2. [<sup>2</sup> Le fonctionnaire instrumentant communique les informations suivantes :
+
+1° l'identification de la parcelle ;
+
+2° en cas de vente publique physique : le lieu, le jour et l'heure de la vente publique ;
+
+3° en cas de vente publique dématérialisée : le jour de début et le jour de clôture des offres ;
+
+4° le nom et l'adresse du fonctionnaire instrumentant.]<sup>2</sup>
+
+§ 3. Cette notification est transmise aux bénéficiaires par le guichet électronique de préemption.
+
+§ 4. Préalablement à la vente publique, chaque bénéficiaire peut demander au fonctionnaire instrumentant des informations supplémentaires ou la communication du contenu du cahier des charges. Le fonctionnaire instrumentant transmet ces informations ou ce contenu dans les cinq jours ouvrables de la réception de la demande, soit par la voie électronique, soit sur papier.
+
+§ 5. [<sup>2</sup> Le fonctionnaire instrumentant notifie chaque séance supplémentaire au guichet électronique de préemption au moins 10 jours avant la séance supplémentaire.]<sup>2</sup>
+
+[<sup>2</sup> § 6. Si plusieurs personnes souhaitent exercer le droit de préemption, le Gouvernement flamand tranchera, à la demande de la partie la plus diligente. Le Gouvernement flamand décide sur la base de l'intérêt de chaque bénéficiaire dans l'exercice du droit de préemption pour la parcelle en question.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-28/45, art. 14, 005; En vigueur : 20-07-2014&gt;
+
+(2)&lt;DCFL 2018-12-21/64, art. 7, 007; En vigueur : 01-09-2018&gt;
+
+#### Sous-section 2. [<sup>1</sup> Dispositions spécifiques applicables aux ventes publiques physiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 8, 007; En vigueur : 01-09-2018&gt;
+
+##### Art. 14/1
+
+[<sup>1</sup> § 1er. Lorsque la vente a lieu par vente publique physique, le fonctionnaire instrumentant demande lors de la dernière séance à la fin de la mise aux enchères et avant l'attribution, en public, au fermier s'il veut exercer son droit de préemption au dernier prix offert. En cas de refus, d'absence ou de silence du fermier, le fonctionnaire instrumentant pose la même question aux bénéficiaires présents avant l'attribution et en public. Si le bénéficiaire donne son accord, la vente est définitive.
+
+En cas de refus, d'absence ou de silence de tous les bénéficiaires, la vente est poursuivie.
+
+Si le fermier a déclaré, conformément à la Loi sur le bail à ferme, qu'il tient en délibéré sa réponse à la question du fonctionnaire instrumentant, celui-ci demande au bénéficiaire du droit de préemption s'il exercera ce droit si le fermier n'exerce pas son droit de préemption. L'attribution se fait alors sous la condition suspensive que le fermier n'exerce pas son droit de préemption.
+
+Le bénéficiaire doit payer le prix et respecter toutes les conditions et modalités auxquelles le candidat acheteur s'était engagé, telles que reprises dans les informations envoyées ultérieurement ou dans le cahier des charges.
+
+§ 2. Le droit de préemption est offert par l'intermédiaire du guichet électronique de préemption lorsqu'une séance antérieure n'est pas suivie d'une séance finale, et que dès lors le paragraphe 1er ne s'applique pas. Dans ce cas, le fonctionnaire instrumentant offre le droit de préemption par l'intermédiaire du guichet électronique de préemption dans les 30 jours suivant la séance antérieure. Le bénéficiaire informe le guichet électronique de préemption de sa décision dans les quinze jours suivant la notification de l'offre par le fonctionnaire instrumentant.
+
+Si le bénéficiaire accepte l'offre, le guichet électronique de préemption enregistre l'identité du bénéficiaire exerçant le droit de préemption, et informe le fonctionnaire instrumentant immédiatement de l'avis d'acceptation. Le guichet électronique de préemption enregistre le moment de l'envoi de la notification au fonctionnaire instrumentant. Ce moment sera considéré comme le moment d'acceptation.
+
+La vente au bénéficiaire est parfaite dès l'envoi de la notification d'acceptation au fonctionnaire instrumentant. Le bénéficiaire doit payer le prix et respecter toutes les conditions et modalités auxquelles le candidat acheteur s'était engagé, telles que reprises dans les informations envoyées ultérieurement ou dans le cahier des charges.
+
+Si le bénéficiaire ne fournit pas d'avis d'exercice par l'intermédiaire du guichet électronique de préemption dans les quinze jours suivant la notification de l'offre, le vendeur peut signer le procès-verbal d'attribution avec le plus offrant retenu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 9, 007; En vigueur : 01-09-2018&gt;
+
+#### Sous-section 3. [<sup>1</sup> Dispositions spécifiques applicables aux ventes publiques dématérialisées]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 10, 007; En vigueur : 01-09-2018&gt;
+
+##### Art. 14/2
+
+[<sup>1</sup> Lorsque la vente a lieu par vente publique dématérialisée, le fonctionnaire instrumentant transmet l'offre au guichet électronique de préemption après la clôture des offres et avant l'attribution. Le guichet électronique de préemption transmet l'offre aux bénéficiaires. [<sup>2</sup> En cas de droit de préemption du preneur tel que visé aux articles 59 à 68 du décret flamand sur le Bail à ferme, l'offre est faite au guichet électronique de préemption et l'exercice par le bénéficiaire a lieu sous condition suspensive de non-exercice du droit de préemption du preneur]<sup>2</sup>.
+
+Si les bénéficiaires acceptent l'offre, ils en informent le guichet électronique de préemption au plus tard le premier jour ouvrable suivant la notification de l'offre.
+
+Le guichet électronique de préemption enregistre l'identité du bénéficiaire qui exerce le droit de préemption, et informe le fonctionnaire instrumentant immédiatement de l'avis d'acceptation. Le guichet électronique de préemption enregistre le moment de l'envoi de la notification au fonctionnaire instrumentant. Ce moment sera considéré comme le moment d'acceptation.
+
+La vente au bénéficiaire est parfaite dès l'envoi de la notification d'acceptation au fonctionnaire instrumentant. Le bénéficiaire doit payer le prix et respecter toutes les conditions et modalités auxquelles le candidat acheteur s'était engagé, telles que reprises dans les informations envoyées ultérieurement ou dans le cahier des charges.
+
+A défaut d'avis d'exercice par l'intermédiaire du guichet électronique de préemption au plus tard le premier jour ouvrable suivant la notification de l'offre, le vendeur peut signer le procès-verbal d'attribution avec le plus offrant retenu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 11, 007; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2023-10-13/13, art. 82, 010; En vigueur : 01-11-2023&gt;
+
+### Section 4. [<sup>1</sup> Dispositions relatives au non-exercice du droit de préemption par le bénéficiaire, à la méconnaissance du droit de préemption et au calcul du délai]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/64, art. 12, 007; En vigueur : 01-09-2018&gt;
+
+##### Art. 15
+
+§ 1er. En cas de non-exercice du droit de préemption, le fonctionnaire instrumentant notifie la vente au guichet électronique de préemption.
+
+Le fonctionnaire instrumentant mentionne les informations suivantes :
+
+1° l'identification de la parcelle;
+
+2° le prix payé par l'acheteur;
+
+3° les autres engagements éventuels du vendeur et de l'acheteur;
+
+4° le nom et l'adresse du fonctionnaire instrumentant.
+
+§ 2. Ces informations sont envoyées aux bénéficiaires par le guichet électronique de préemption. A leur demande, les bénéficiaires reçoivent une copie de l'acte passé du fonctionnaire instrumentant.
+
+##### Art. 16
+
+§ 1er. En cas de méconnaissance du droit de préemption, le bénéficiaire a le droit d'être subrogé à l'acheteur, ou de réclamer une indemnisation à concurrence de 20 pour cent du prix de vente.
+
+S'il y a deux ou plusieurs bénéficiaires, seule l'action intentée par le bénéficiaire qui avait exercé le droit de préemption, est recevable. Si toutefois le droit de préemption n'a pas ou pas valablement été offert, le Gouvernement flamand décide, à la demande de la partie la plus diligente, quel bénéficiaire peut intenter l'action en subrogation ou en indemnisation. Le Gouvernement flamand décide en fonction de l'intérêt de chaque bénéficiaire dans l'exercice du droit de préemption pour la parcelle concernée.
+
+§ 2. Sous peine de déchéance, l'action doit être intentée dans un délai de six mois suivant l'attribution définitive ou, en cas de vente de gré à gré, suivant la notification de [<sup>1</sup> la vente au guichet électronique de péremption, conformément à l'article 15]<sup>1</sup>. Si la vente n'a pas été notifiée, le délai expire un an après la transcription de l'acte au bureau des hypothèques.
+
+§ 3. L'action en subrogation doit être intentée simultanément contre le vendeur et l'acheteur. L'action n'est recevable qu'après inscription en marge de la transcription de l'acte contesté et, le cas échéant, en marge de la transcription du dernier titre transcrit.
+
+Le bénéficiaire subrogé rembourse à l'acheteur le prix payé par ce dernier. Le vendeur est tenu de rembourser à l'acheteur les frais de l'acte. La personne subrogée n'est tenue qu'aux obligations découlant de l'acte authentique de vente dans le chef de l'acheteur et aux charges acceptées par l'acheteur que pour autant que ces charges soient inscrites ou transcrites avant l'inscription de son action.
+
+Si le juge accède à l'action en subrogation, le jugement tient lieu de titre.
+
+Tout prononcé sur une action en subrogation est inscrit à la suite de l'inscription de l'action.
+
+§ 4. L'action en indemnisation doit être intentée contre le vendeur et le fonctionnaire instrumentant. Ils peuvent être condamnés solidairement à une indemnisation à concurrence de 20 pour cent du prix.
+
+----------
+
+(1)&lt;DCFL 2014-03-28/45, art. 15, 005; En vigueur : 20-07-2014&gt;
+
+##### Art. 16/1
+
+[<sup>1</sup> Les délais cités aux articles 8, 10, 13 et 14, sont calculés comme suit : les délais sont calculés de minuit à minuit. Chacun des délais précités prend cours à partir du lendemain de l'événement qui fait produire les effets du délai et comprend tous les jours calendaires L'échéance est comprise dans le délai. L'échéance n'est pas déplacée si elle tombe un samedi, dimanche ou jour férié légal ou décrétal.]<sup>1</sup>
+
+[<sup>2</sup> Le délai visé à l'article 14/2, alinéa deux est calculé de minuit à minuit. Le délai prend cours le lendemain du jour de l'événement qui déclenche le délai. La date d'échéance est comprise dans le délai. Les samedis, dimanches et jours fériés légaux ou décrétaux ne sont pas compris dans le délai.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-28/45, art. 16, 005; En vigueur : 20-07-2014&gt;
+
+(2)&lt;DCFL 2018-12-21/64, art. 13, 007; En vigueur : 01-09-2018&gt;
+
+## CHAPITRE VI. - Dispositions modificatives.
+
+##### Art. 17
+
+Dans l'article 56 de la loi du 22 juillet 1970 relative au remembrement légal de biens ruraux, modifié par le décret du 16 juin 2006, le § 2 est remplacé par la disposition suivante :
+
+" § 2. Un droit de préemption est attribué à la Banque foncière flamande en cas de vente des biens ruraux tels que visés au § 1er.
+
+Le Gouvernement flamand détermine les zones dans lesquelles la Banque foncière flamande ne peut plus exercer ce droit de préemption.
+
+Le titre IV, chapitres Ier, II et VI, du décret du 16 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions, s'applique au présent droit de préemption.
+
+Le décret du 16 juin 2006 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 18
+
+Dans l'article 76 de la loi du 12 juillet 1976 portant des mesures particulières en matière de remembrement légal de biens ruraux lors de l'exécution de grands travaux d'infrastructure, tel que modifié par le décret du 16 juin 2006, l'alinéa deux est remplacé par la disposition suivante :
+
+" Un droit de préemption est attribué à la Banque foncière flamande en cas de vente des biens ruraux visés à l'alinéa premier. En outre, les dispositions de l'article 56, § 2, et de l'article 57 de la loi du 22 juillet 1970 s'appliquent à cet effet. ".
+
+##### Art. 19
+
+A l'article 8 de la loi du 19 juin 1978 relative à la gestion du territoire de la rive gauche de l'Escaut à hauteur d'Anvers et portant des mesures de gestion et d'exploitation du port d'Anvers, remplacé par le décret du 2 mars 1999 et modifié par le décret du 16 juin 2006, il est ajouté un alinéa, rédigé comme suit :
+
+" Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 20
+
+L'article 28bis du décret du 4 mai 1994 relatif à l'agence autonomisée externe de droit public " Waterwegen en Zeekanaal " (Voies navigables et Canal maritime), société anonyme de droit public, tel qu'inséré par le décret du 2 avril 2004 et modifié par le décret du 16 juin 2006, est remplacé par la disposition suivante :
+
+" Article 28bis. § 1er. " Waterwegen en Zeekanaal " bénéfice d'un droit de préemption sur ces terrains qui suivant leur affectation peuvent servir à la réalisation de l'objectif social de la société.
+
+§ 2. Les dispositions du titre IV, chapitres Ier, II et VI, du décret du 16 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions, s'appliquent au présent droit de préemption.
+
+§ 3. Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 21
+
+A l'article 85 du décret du 15 juillet 1997 contenant le Code flamand du Logement, modifié par les décrets des 18 mai 1999, 24 mars 2006 et 16 juin 2006, sont apportées les modifications suivantes :
+
+1° dans le § 1er, alinéa trois, les mots " conformément à l'article 86, § 2 " sont remplacés par les mots " conformément à l'article 86, alinéa premier ";
+
+2° [<sup>1</sup> il est ajouté un § 6, rédigé comme suit :
+
+" § 6. Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2011-04-29/02, art. 76, 004; En vigueur : 14-05-2011&gt;
+
+##### Art. 22
+
+L'article 86 du même décret, modifié par les décrets des 18 mai 1999, 24 mars 2006 et 16 juin 2006, est remplacé par la disposition suivante :
+
+" Article 86. Si deux ou plusieurs bénéficiaires souhaitent exercer leur droit de préemption, le bien est attribué dans l'ordre suivant :
+
+1° la société de logement social;
+
+2° la VMSW;
+
+3° la commune.
+
+Lorsque le bien est situé dans le ressort de plusieurs sociétés de logement social, le Gouvernement flamand détermine, selon les règles fixés par lui, l'ordre dans lequel ces sociétés de logement social peuvent exercer leur droit de préemption. Cet ordre leur est communiqué par la Banque foncière flamande, ensemble avec l'offre ou l'annonce de vente publique. ".
+
+##### Art. 23
+
+A l'article 89 du même décret, les mots " visé aux articles 86 et 87 " sont supprimés.
+
+##### Art. 24
+
+A l'article 37 du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, modifié par les décrets des 18 mai 1999, 19 juillet 2002 et 16 juin 2006, le § 1er est remplacé par la disposition suivante :
+
+" § 1er. La Banque foncière flamande a le droit de préemption en cas de vente de biens immobiliers :
+
+1° dans le VEN, à l'exception des biens immobiliers exclus par le Gouvernement flamand;
+
+2° dans les réserves naturelles et leur périmètre d'extension situées dans les zones d'espaces verts et les zones forestières, les zones d'extension forestière et les zones de destination comparables à toutes ces zones, figurant sur les plans d'aménagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, ou le VEN;
+
+3° dans un périmètre délimité par le Gouvernement flamand, au sein des zones d'espaces verts et des zones forestières et les zones d'extension forestière et les zones de destination comparables à toutes ces zones, figurant sur les plans d'aménagement ou les plans d'exécution spatiaux d'application dans le cadre de l'aménagement du territoire, situées dans l'IVON;
+
+4° dans la délimitation d'un projet d'aménagement de la nature.
+
+Sans préjudice de l'article 8 du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption, ce droit de préemption ne s'applique pas en cas de vente du bien aux membres de groupements forestiers agréés qui étaient agréés avant le 20 janvier 1998, conformément à l'article 85 du décret forestier du 13 juin 1990, dans la mesure où le bien susvisé fait partie des parcelles cadastrales concernées par l'agrément, et l'acheteur a déjà des biens immobiliers en propriété ou en copropriété dans la circonscription du groupement forestier.
+
+Les biens immobiliers acquis par l'exercice du droit de préemption dans le VEN et dans les réserves naturelles et leur périmètre d'extension, sont en général désignés comme réserve naturelle, réserve forestière ou bois domanial flamands ou, après cession à une association de défense de la nature agréée pour la gestion de terrains, agréés comme réserve naturelle. ".
+
+##### Art. 25
+
+A l'article 37 du même décret, modifié par les décrets des 18 mai 1999, 19 juillet 2002 et 16 juin 2006, il est ajouté un § 6, rédigé comme suit :
+
+" § 6. Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 26
+
+A l'article 12 du décret du 2 mars 1999 portant sur la politique et la gestion des ports maritimes, modifié par le décret du 16 juin 2006, il est ajouté un alinéa trois, rédigé comme suit :
+
+" Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 27
+
+A l'article 63 du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, modifié par les décrets des 21 novembre 2003 et 16 juin 2006, il est ajouté un alinéa dix, rédigé comme suit :
+
+" Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 28
+
+L'article 64 du même décret est remplacé par les dispositions suivantes :
+
+" Article 64. Sans préjudice des dispositions du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption, le droit de préemption ne s'applique pas en cas de :
+
+1° vente du bien à une société de personnes dont les associés actifs ou les associés qui détiennent au moins trois quarts du capital, présentent le même lien de parenté, d'alliance ou de cohabitation avec le vendeur que ceux visés à l'article 8, 1°, du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption;
+
+2° vente de parcelles dans un lotissement dont le permis a été délivré après l'entrée en vigueur du plan d'exécution spatiale, pour autant que le permis de lotir ait été demandé par la Région flamande, une province, une commune, une intercommunale, une institution qui relève de la Région flamande, la province ou la commune, ou une société agréée par une telle institution ou administration. ".
+
+##### Art. 29
+
+A l'article 12, § 1er, du décret du 13 décembre 2002 portant création de la société anonyme de droit public " Beheersmaatschappij Antwerpen Mobiel (BAM) ", modifié par le décret du 16 juin 2006, il est ajouté un alinéa deux, rédigé comme suit :
+
+" Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 30
+
+A l'article 12, § 1er, du décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, modifié par le décret du 16 juin 2006, il est inséré entre les alinéas trois et quatre un nouvel alinéa, rédigé comme suit :
+
+" Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 31
+
+A l'article 10 du décret du 2 avril 2004 portant transformation du " Dienst voor de Scheepvaart " (Office de la Navigation) en agence autonomisée externe de droit public, dénommée " De Scheepvaart ", modifié par le décret du 16 juin 2006, il est ajouté un § 6, rédigé comme suit :
+
+" § 6. Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique au présent droit de préemption. ".
+
+##### Art. 32
+
+A l'article 2 du décret du 16 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions, il est ajouté un 8°, rédigé comme suit :
+
+" 8° guichet électronique de préemption : guichet électronique unique relatif à tous les droits de préemption flamands existants et futurs, tel que fixé à l'article 4 du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption. ".
+
+##### Art. 33
+
+A l'article 5, § 1er du même décret, il est ajouté un 4° :
+
+" 4° l'exécution des tâches du guichet électronique de préemption telles que fixées à l'article 4 du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption. ".
+
+##### Art. 34
+
+A l'article 8 du même décret, le § 2 est remplacé par la disposition suivante :
+
+" § 2. La Banque foncière flamande est chargée du développement, de la gestion et de l'ouverture du guichet électronique de préemption, tel que fixé à l'article 4 du décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption. ".
+
+##### Art. 35
+
+L'article 27 du même décret est remplacé par les dispositions suivantes :
+
+" Article 27. A l'article 2 du décret du 18 mai 1999 portant organisation de l'aménagement du territoire, tel que modifié par le décret du 10 mars 2006, il est ajouté un 9°, rédigé comme suit :
+
+" 9° la Banque foncière flamande : division de la Vlaamse Landmaatschappij, créée conformément au décret du 16 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions. ".
+
+##### Art. 36
+
+L'article 38 du même décret est remplacé par les dispositions suivantes :
+
+" Article 38. A l'article 2 du décret du 15 juillet 1997 contenant le Code flamand du Logement, modifié par les décrets des 19 mars 2004, 24 décembre 2004 et 24 mars 2006, il est ajouté un 34°, rédigé comme suit :
+
+" 34° la Banque foncière flamande : division de la Vlaamse Landmaatschappij, créée conformément au décret du 16 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions. ". ".
+
+## CHAPITRE VII. - Dispositions abrogatoires.
+
+##### Art. 37
+
+Dans le décret du 15 juillet 1997 contenant le Code flamand du Logement, les dispositions suivantes sont abrogées :
+
+1° l'article 85, § 2, modifié par le décret du 18 mai 1999;
+
+2° l'article 85, § 3;
+
+3° l'article 87, modifié par les décrets des 18 mai 1999 et 16 juin 2006;
+
+4° l'article 88, modifié par le décret du 18 mai 1999.
+
+##### Art. 38
+
+Dans le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, les dispositions suivantes sont abrogées :
+
+1° les articles 37, §§ 2 et 3, modifiés par les décrets des 18 mai 1999 et 16 juin 2006;
+
+2° les articles 38 et 39, modifiés par les décrets des 18 mai 1999 et 16 juin 2006.
+
+##### Art. 39
+
+Dans le décret du 18 mai 1999 portant organisation de l'aménagement du territoire, les dispositions suivantes sont abrogées :
+
+1° l'article 63, alinéa sept, inséré par le décret du 21 décembre 2003;
+
+2° l'article 65;
+
+3° l'article 67, modifié par les décrets des 26 avril 2000 et 16 juin 2006;
+
+4° les articles 66 et 68, modifiés par le décret du 16 juin 2006.
+
+##### Art. 40
+
+A l'article 12 du décret du 13 décembre 2002 portant création de la société anonyme de droit public " Beheersmaatschappij Antwerpen Mobiel (BAM) ", tel que modifié par le décret du 16 juin 2006, les §§ 2 à 5 inclus sont abrogés.
+
+##### Art. 41
+
+Dans le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, les dispositions suivantes sont abrogées :
+
+1° l'article 12, § 3;
+
+2° l'article 12, § 4, et les articles 13 à 16 inclus, modifiés par le décret du 16 juin 2006.
+
+##### Art. 42
+
+Dans le décret du 2 avril 2004 portant transformation du " Dienst voor de Scheepvaart " (Office de la Navigation) en agence autonomisée externe de droit public, dénommée " De Scheepvaart ", les dispositions suivantes sont abrogées :
+
+1° l'article 10, § 2 au § 4 inclus;
+
+2° les articles 11 à 14 inclus, modifiés par le décret du 16 juin 2006;
+
+3° les articles 15 et 16.
+
+## CHAPITRE VIII. - Dispositions finales.
+
+##### Art. 43
+
+Le Gouvernement flamand fixe la date d'entrée en vigueur du présent décret [<sup>1</sup> à l'exception des articles 2 et 8 qui entrent en vigueur le 1er janvier 2009, et de l'article 43]<sup>1</sup>.
+
+(NOTE : Entrée en vigueur fixée au 01-10-2012 par AGF 2012-07-13/23, art. 1)
+
+----------
+
+(1)&lt;DCFL 2008-11-21/39, art. 2, 003; En vigueur : 20-12-2008&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 mai 2007.
+
+Le Ministre-Président du Gouvernement flamand,
+
+Y. LETERME
+
+Le Ministre flamand des Affaires administratives, de la Politique extérieure, des Médias et du Tourisme,
+
+G. BOURGEOIS.
