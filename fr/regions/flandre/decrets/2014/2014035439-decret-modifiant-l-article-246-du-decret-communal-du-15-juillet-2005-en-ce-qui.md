@@ -1,0 +1,45 @@
+---
+title: "Décret modifiant l'article 246 du Décret communal du 15 juillet 2005, en ce qui concerne la composition des organes d'une société, association ou fondation communales, chargées des tâches d'exécution de la politique d'intérêt communal ayant trait uniquement aux compétences du district"
+identifier: "2014035439"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035439/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2014-03-28
+published: 2014-07-02
+entry_into_force: 2014-07-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035439/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 28 MARS 2014. - Décret modifiant l'article 246 du Décret communal du 15 juillet 2005, en ce qui concerne la composition des organes d'une société, association ou fondation communales, chargées des tâches d'exécution de la politique d'intérêt communal ayant trait uniquement aux compétences du district
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire et régionale.
+
+## Art. 2
+
+L'article 246 du Décret communal du 15 juillet 2005 est complété par un paragraphe 4, ainsi rédigé :
+
+" § 4. Dans la mesure ou la société, l'association ou la fondation communales sont chargées de réaliser certaines tâches d'exécution de la politique d'intérêt communal ayant trait uniquement aux compétences du district, le conseil municipal peut tenir compte de la composition du conseil de district pour la composition des organes. Dans ce cas le conseil municipal, sur l'avis du conseil de district, propose des membres du conseil de district comme membres du conseil d'administration, tout en garantissant une représentation de chaque groupe politique dans le conseil de district, et désigne les membres du conseil de district comme représentants dans l'assemblée générale. Les membres du conseil d'administration proposés par le conseil municipal sont de sexe différent. Les représentants dans l'assemblée générale agissent conformément aux instructions du conseil de district. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 28 mars 2014.
+
+Le Ministre-Président du gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand de la Gouvernance publique, de l'Administration intérieure, de l'Intégration civique, du Tourisme et de la Périphérie flamande de Bruxelles,
+
+G. BOURGEOIS

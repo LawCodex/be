@@ -1,0 +1,1317 @@
+---
+title: "Décret relatif aux projets complexes"
+identifier: "2014035706"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035706/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2014-04-25
+published: 2014-08-27
+entry_into_force: 2015-03-01
+last_amended: 2026-08-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035706/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 27-08-2014 et mise à jour au 10-08-2026"
+retrieved: 2026-10-12
+---
+
+# 25 AVRIL 2014. - Décret relatif aux projets complexes
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions introductives
+
+### Section 1re. Disposition générale
+
+##### Art. 1er
+
+Le présent décret règle une matière régionale.
+
+### Section 2. - Définitions
+
+##### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° note d'examen des alternatives : la note, établie au début de la phase d'examen, en vue de la description des objectifs et du rayon d'action du projet complexe, des alternatives à examiner raisonnablement au niveau stratégique et de la manière dont l'impact des alternatives raisonnables sera examiné et évalué ;
+
+2° plan politique : un plan approuvé ou adopté par le Gouvernement flamand, le conseil provincial, la députation, le conseil communal ou le collège des bourgmestre et échevins relatif à la politique à mener en matière d'aménagement du territoire, d'environnement, de mobilité ou d'autres secteurs politiques qui sont pertinents lors de l'évaluation d'un projet complexe ;
+
+3° envoi sécurisé : une des manières de notification suivantes :
+
+a) un courrier recommandé ;
+
+b) une remise contre récépissé ;
+
+c) toute autre manière de notification qui est autorisée par le Gouvernement flamand, où la date de notification peut être établie avec certitude ;
+
+4° autorité compétente : l'autorité qui est la seule compétente pour prendre l'arrêté relatif à la préférence ou l'arrêté relatif au projet [<sup>3</sup> concernant l'intégralité ou une partie d'un projet complexe]<sup>3</sup> ;
+
+5° projet complexe : un projet de grande importance sociale et spatio-stratégique qui demande un processus de permis et de plan spatial intégré ;
+
+6° [<sup>2</sup> ...]<sup>2</sup>;
+
+7° [<sup>2</sup> rapport sur les incidences environnementales, en abrégé RIE : un ensemble d'informations environnementales, quel que soit le support, dans lequel sont analysées et évaluées dans leur cohérence interne de manière systématique et scientifiquement étayée les conséquences notables prévisibles pour l'homme et l'environnement d'une action envisagée et des alternatives à prendre raisonnablement en compte. Le rapport sur les incidences environnementales indique de quelle façon les incidences environnementales notables peuvent être évitées, limitées, remédiées ou compensées]<sup>2</sup>;
+
+8° phase d'examen : la phase dans laquelle l'impact d'une initiative de projet complexe est examiné, à la lumière de l'arrêté relatif à la préférence à prendre ;
+
+9° responsable du processus : le responsable désigné par l'autorité compétente pour les étapes du processus formelles lors de la phase d'exploration, d'examen, d'élaboration ou d'exécution du projet complexe ;
+
+10° arrêté relatif au projet : l'arrêté final de l'autorité compétente en ce qui concerne un projet complexe, pris lors de l'achèvement de la phase d'élaboration et fixant une alternative choisie au niveau d'exécution ;
+
+11° note d'examen du projet : la note, établie au début de la phase d'élaboration, en vue de la description du projet complexe et des mesures d'accompagnement reprises dans l'arrêté relatif à la préférence, des alternatives à examiner raisonnablement au niveau d'exécution et de la manière dont l'impact du projet complexe, des mesures d'accompagnement et des alternatives raisonnables sera examiné et évalué ;
+
+[<sup>1</sup> 11° /1 Conseil du Contentieux des Permis : le Conseil du Conseil du Contentieux des Permis, établi par l'article 4.8.1 du Code flamand de l'Aménagement du Territoire ;]<sup>1</sup>
+
+12° zone de protection spéciale : une de zones suivantes :
+
+a) une zone, désignée par le Gouvernement flamand en application de l'article 4 de la directive 79/409/CEE du Conseil du 2 avril 1979 concernant la conservation des oiseaux sauvages, actuellement directive 2009/147/CE du Parlement européen et du Conseil du 30 novembre 2009 concernant la conservation des oiseaux sauvages (ci-après : la directive Oiseaux), y compris la partie, visée à l'article 75 du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, d'une zone, telle que visée à l'article 1er, § 3, de l'arrêté du Gouvernement flamand du 17 octobre 1988 portant désignation de zones de protection spéciale au sens de l'article 4 de la directive 79/409/CEE du Conseil des Communautés européennes du 2 avril 1979 concernant la conservation des oiseaux sauvages ;
+
+b) une zone, désignée par la Région wallonne ou la Région de Bruxelles-Capitale ou par un autre Etat membre de l'Union européenne en application de l'article 4 de la directive Oiseaux ;
+
+c) une zone, désignée par le Gouvernement flamand en application de l'article 4, alinéa 4, de la directive 92/43/CEE du Conseil du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages (ci-après : la directive Habitats) ou, en attendant cette désignation, une zone qui est fixée définitivement en application de cette directive par le Gouvernement flamand, en vertu de l'article 36bis, § 6, du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel ou qui est censée être fixée définitivement en vertu de l'article 36bis, § 12, du décret précité ;
+
+d) une zone, désignée par la Région wallonne ou la Région de Bruxelles-Capitale ou un autre Etat membre de l'Union européenne en application de l'article 4, alinéa 4, de la directive Habitats ou, en attendant cette désignation, une zone qui est proposée par une des deux régions ou par un autre Etat membre, en application de l'article 4, alinéa 1er, de la directive précitée, déclarée d'intérêt communautaire par la Commission européenne en application de l'article 4, alinéa 2, de la directive précitée ;
+
+13° décision de démarrage : la décision du Gouvernement flamand, du conseil provincial ou du conseil communal en ce qui concerne une initiative de projet complexe, lors de l'achèvement de la phase d'exploration et en vue du démarrage de la phase d'examen ;
+
+14° note de synthèse : la note, établie lors de l'achèvement de la phase d'examen et préalablement à l'arrêté relatif à la préférence, ou lors de l'achèvement de la phase d'élaboration et préalablement à l'arrêté relatif au projet, qui donne un aperçu des conclusions de tous les rapports d'examen de l'impact relatifs à un projet complexe qui sont établis dans la phase concernée ;
+
+15° phase d'exécution : la phase dans laquelle il est donné exécution à l'arrêté relatif au projet en ce qui concerne un projet complexe ;
+
+16° phase d'élaboration : la phase dans laquelle l'impact de l'alternative d'un projet complexe choisie par l'arrêté relatif à la préférence est examiné à la lumière de l'arrêté relatif au projet à prendre ;
+
+17° Convention d'Espoo : la convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, adopté à Espoo le 25 février 1991 ;
+
+18° phase d'exploration : la phase dans laquelle une initiative de projet complexe est préparée et soumise au Gouvernement flamand, au conseil provincial ou au conseil communal ;
+
+[<sup>2</sup> 18° /1 Centre d'Expertise flamand R.I.E. : le Centre d'Expertise flamand R.I.E., visé à l'article 4.1.1, 19°, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement;]<sup>2</sup>
+
+19° arrêté relatif à la préférence : le premier arrêté de l'autorité compétente en ce qui concerne un projet complexe, pris lors de l'achèvement de la phase d'examen et fixant une alternative choisie au niveau stratégique.
+
+----------
+
+(1)&lt;DCFL 2023-07-14/19, art. 14, 009; En vigueur : 31-12-2024&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 121, 011; En vigueur : 01-12-2025&gt;
+
+(3)&lt;DCFL 2026-06-26/21, art. 111, 013; En vigueur : 20-08-2026&gt;
+
+### Section 3. - Objectif et champ d'application
+
+##### Art. 3
+
+Le présent décret règle la possibilité de choisir l'option d'un projet complexe pour une procédure décisionnelle intégrée.
+
+## CHAPITRE 2. - Procédure décisionnelle
+
+### Section 1re. - Dispositions générales et compétences de décision
+
+##### Art. 4
+
+Le présent décret ne porte pas préjudice aux objectifs et obligations sur le plan du contenu qui sont fixés par ou en vertu du Code flamand de l'Aménagement du Territoire, le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et les lois, décrets et arrêtés, visés aux articles 39, 40 et 41 à l'exception du [<sup>1</sup> titre IV, chapitre s 4 et 5,]<sup>1</sup> du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et à l'exception de l'article 36ter, § 3 au § 6 inclus, du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/53, art. 122, 011; En vigueur : 01-12-2025&gt;
+
+##### Art. 5
+
+§ 1er. Les principes suivants occupent une place prépondérante dans l'approche du processus de la procédure décisionnelle :
+
+1° le principe de participation ;
+
+2° communication ouverte et transparence ;
+
+3° travail sur mesure en matière de concrétisation concrète du processus ;
+
+4° coopération intégrée et axée sur des solutions ;
+
+5° approche simultanée et intégrée des examens et de la participation ;
+
+6° direction du processus qui est portée par les acteurs.
+
+Le Gouvernement flamand met à disposition une méthodologie sous forme d'un planificateur d'itinéraire qui clarifie l'approche du processus de la procédure décisionnelle intégrée pour les projets complexes.
+
+§ 2. Une note de processus évolutive et indicative indique l'approche du processus qui est suivie afin de concrétiser les principes visés au paragraphe 1er.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+La note de processus est rendue publique.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/57, art. 3, 010; En vigueur : 27-06-2024&gt;
+
+##### Art. 6
+
+§ 1er. La prise de la décision de démarrage et la fixation de l'arrêté relatif à la préférence ou de l'arrêté relatif au projet revient au Gouvernement flamand, au conseil provincial ou au conseil communal.
+
+§ 2. Le Gouvernement flamand est compétent pour la fixation de l'arrêté relatif à la préférence lorsque le projet complexe qui est visé par l'arrêté relatif à la préférence est un projet tel que visé à [<sup>1</sup> l'article 15, § 1er, premier alinéa, du décret du 25 avril 2014 relatif au permis d'environnement]<sup>1</sup>.
+
+Le conseil provincial est compétent pour la fixation de l'arrêté relatif à la préférence lorsque le projet complexe qui est visé par l'arrêté relatif à la préférence est un projet tel que visé à [<sup>1</sup> l'article 15, § 1er, troisième alinéa, du décret du 25 avril 2014 relatif au permis d'environnement]<sup>1</sup>.
+
+Le conseil communal est compétent pour la fixation de l'arrêté relatif à la préférence dans tous les autres cas.
+
+§ 3. Lorsque le projet complexe comprend deux projets partiels ou plus pour lesquels, en vertu du décret du 25 avril 2014 relatif au permis unique, deux autorités ou plus telles que visées au paragraphe 1er, sont compétentes, elles désignent, en concertation mutuelle, l'autorité compétente qui fixera l'arrêté relatif à la préférence.
+
+La désignation de l'autorité compétente et les accords et conditions que cela entraîne éventuellement se fait par écrit et au plus tard au moment où le projet de l'arrêté relatif à la préférence est fixé.
+
+§ 4. Le Gouvernement flamand est compétent pour la fixation de l'arrêté relatif au projet lorsque le projet complexe qui est visé par l'arrêté relatif au projet est un projet tel que visé à [<sup>1</sup> l'article 15, § 1er, premier alinéa, du décret du 25 avril 2014 relatif au permis d'environnement]<sup>1</sup>.
+
+Le conseil provincial est compétent pour la fixation de l'arrêté relatif au projet lorsque le projet complexe qui est visé par l'arrêté relatif au projet est un projet tel que visé à [<sup>1</sup> l'article 15, § 1er, troisième alinéa, du décret du 25 avril 2014 relatif au permis d'environnement]<sup>1</sup>.
+
+Le conseil communal est compétent pour la fixation de l'arrêté relatif au projet dans tous les autres cas.
+
+§ 5. Lorsque le projet complexe comprend deux projets partiels ou plus pour lesquels, en vertu du décret du 25 avril 2014 relatif au permis unique, deux autorités ou plus telles que visées au paragraphe 1er, sont compétentes, elles désignent, en concertation mutuelle, l'autorité compétente qui fixera l'arrêté relatif au projet.
+
+La désignation de l'autorité compétente et les accords et conditions que cela entraîne éventuellement se fait par écrit et au plus tard au moment où le projet de l'arrêté relatif au projet est fixé.
+
+[<sup>2</sup> § 6. Les autorités compétentes peuvent déléguer à un autre niveau de pouvoir la compétence d'arrêter la décision de préférence et la décision relative au projet.
+
+L'arrêté de délégation est repris dans le projet de décision de préférence et dans le projet de décision relative au projet, après accord écrit des niveaux de pouvoir concernés. L'arrêté de délégation contient une motivation de la délégation de compétence.
+
+Lors de l'octroi de la délégation, les niveaux de pouvoir peuvent conclure des accords liés à la rédaction de la décision de préférence et relative au projet.
+
+La délégation de compétence pour arrêter la décision de préférence s'éteint dans les cas suivants :
+
+1° si aucune décision de préférence n'a été arrêtée définitivement, dans les cinq ans de la fixation du projet de décision de préférence ;
+
+2° si une décision de préférence a été arrêtée définitivement, à partir de son entrée en vigueur, sous réserve de la possibilité d'abrogation visée à l'article 43, alinéa 2.
+
+La délégation de compétence pour arrêter la décision relative au projet s'éteint dans les cas suivants :
+
+1° si aucune décision relative au projet n'a été arrêtée définitivement, dans les cinq ans de la fixation du projet de décision relative au projet ;
+
+2° si une décision relative au projet a été arrêtée définitivement, à partir de son entrée en vigueur.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 122, 002; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DCFL 2017-06-30/08, art. 115, 005; En vigueur : 17-07-2017&gt;
+
+##### Art. 6/1
+
+[<sup>1</sup> L'autorité compétente, visée à l'article 6, accomplit ses tâches découlant de la directive 2011/92/UE de façon objective et veille à ne pas se retrouver dans une situation donnant lieu à un conflit d'intérêts.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-12-23/58, art. 17, 003; En vigueur : 23-02-2017&gt;
+
+### Section 2. - Phase d'exploration et décision de démarrage
+
+##### Art. 7
+
+§ 1er. Lorsque le Gouvernement flamand, le conseil provincial ou le conseil communal estime lors de la phase d'exploration qu'une initiative de projet complexe est éligible à la procédure décisionnelle réglée par le présent décret, elle prend une décision de démarrage à ce sujet.
+
+La grande importance sociale et spatiale d'un projet ressort d'une ou de plusieurs des constatations suivantes :
+
+1° la problématique ou le programme du projet est multiple et comprend divers intérêts à considérer ;
+
+2° le projet est indispensable à une amélioration nécessaire de la qualité de logement, à la qualité de l'environnement, au développement économique et/ou à la mobilité ;
+
+3° lors de la considération des intérêts concernés, la plus-value sociale joue un rôle de premier plan ;
+
+4° le projet est structurant du point de vue spatial pour la zone en question ou est prévu dans un environnement complexe ;
+
+5° le projet a, directement ou indirectement, un impact socio-économique, spatial, lié à l'environnement ou en ce qui concerne la technique routière important ;
+
+6° le projet implique des investissements et des efforts en matière de développement et de gestion inhabituels.
+
+§ 2. L'autorité qui prend la décision de démarrage en transmet une copie aux autres autorités, visées à l'article 6, § 1er.
+
+La décision de démarrage est rendue publique d'une manière à fixer par le Gouvernement flamand.
+
+### Section 3. - Phase d'examen et arrêté relatif à la préférence
+
+#### Sous-section 1re. - Note d'examen des alternatives
+
+##### Art. 8
+
+§ 1er. Lors du démarrage de la phase d'examen, une note d'examen des alternatives est établie. Elle comprend une description :
+
+1° des objectifs et du rayon d'action géographique du projet prévu ;
+
+2° des alternatives à examiner raisonnablement au niveau stratégique ;
+
+3° de la manière dont l'impact des alternatives raisonnables sera examiné et évalué à la lumière de l'arrêté relatif à la préférence à prendre.
+
+[<sup>2</sup> Afin d'éviter un chevauchement de l'évaluation, la note d'examen des alternatives visée à l'alinéa 1er, tient compte du fait que l'arrêté relatif à la préférence à prendre se trouve dans la phase d'examen au niveau stratégique et qu'il serait préférable d'étudier et d'évaluer dans la phase d'élaboration les aspects qui ne sont pas raisonnablement pertinents, en termes de niveau de détail, pour l'arrêté relatif à la préférence à prendre.
+
+Dans la note d'examen des alternatives visée à l'alinéa 1er, la portée et le niveau de détail de l'EIE sont alignés sur le contenu et le niveau de détail de l'arrêté relatif à la préférence à prendre.]<sup>2</sup>
+
+§ 2. Le responsable du processus transmet la note d'examen des alternatives [<sup>3</sup> au Centre d'Expertise flamand R.I.E.]<sup>3</sup> et aux instances consultatives fixées par le Gouvernement flamand. [<sup>3</sup> Le responsable du processus demande un avis au Centre d'Expertise flamand R.I.E. sur la portée et le niveau de détail des informations à inclure dans le RIE, compte tenu de l'arrêté relatif à la préférence à prendre.]<sup>3</sup>
+
+Le public est consulté sur la note d'examen des alternatives.
+
+Lorsqu'il ressort de la note d'examen des alternatives qu'il peut y avoir un impact considérable pour l'homme ou l'environnement dans d'autres Etats membres de l'Union européenne, ou dans des parties contractantes de la Convention d'Espoo, ou dans d'autres régions, ou lorsque les autorités compétentes de ces Etats membres, parties contractantes ou régions le demandent, le responsable du processus soumet la note d'examen des alternatives, avec toutes les informations disponibles sur l'impact transfrontalier (régional) possible, à l'avis des autorités compétentes des Etats membres, des parties contractantes ou des régions en question, en ce qui concerne l'impact considérable pour l'homme ou l'environnement.
+
+Le Gouvernement flamand fixe les instances consultatives, visées à l'alinéa premier, et peut fixer des modalités pour la fourniture d'avis par les instances consultatives et la consultation du public, visées aux alinéas premier et deux. Le Gouvernement flamand peut également fixer la manière et les conditions suivant lesquelles le responsable du processus transmet la note d'examen des alternatives aux autorités compétentes des Etats membres, des parties contractantes ou des régions, visé(e)s à l'alinéa trois.
+
+§ 3. [<sup>3</sup> Le responsable du processus peut demander au Centre d'Expertise flamand R.I.E. d'émettre un avis intégré sur la portée et le niveau de détail des informations à inclure dans le RIE. Dans ce cas, la demande d'avis adressée au Centre d'Expertise flamand R.I.E., visé au paragraphe 2, alinéa 1er, n'est pas obligatoire. Le Centre d'Expertise flamand R.I.E. tient compte des avis des organes consultatifs et du résultat de la consultation transfrontalière, visés au paragraphe 2, alinéa 3, dans le cadre de l'avis intégré.
+
+Le Gouvernement flamand arrête d'autres règles concernant les modalités et les délais dans lesquels le Centre d'Expertise flamand R.I.E. émet l'avis de cadrage intégré, visé à l'alinéa 1er, et le met à la disposition des organes consultatifs consultés et du public concerné]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFL 2016-07-01/23, art. 56, 004; En vigueur : 01-05-2017&gt;
+
+(2)&lt;DCFL 2024-04-26/57, art. 4, 010; En vigueur : 27-06-2024&gt;
+
+(3)&lt;DCFL 2024-05-17/53, art. 123, 011; En vigueur : 01-12-2025&gt;
+
+#### Sous-section 2. - Examen de l'impact intégré
+
+##### Art. 9
+
+Sur la base de la note d'examen des alternatives, les avis et les remarques du public, visés à l'article 8, § 2, et de [<sup>2</sup> l'avis du Centre d'Expertise flamand R.I.E., visé à l'article 8, § 2, alinéa 1er, ou § 3]<sup>2</sup> un examen de l'impact intégré est effectué.
+
+L'examen de l'impact intégré comprend au moins l'examen de l'impact spatial et relatif à l'environnement au niveau stratégique.
+
+Lorsque [<sup>1</sup> l'arrêté relatif à la préférence]<sup>1</sup>, séparément ou en combinaison avec d'autres plans ou projets, peut avoir un impact significatif sur une zone de protection spéciale, une évaluation appropriée est établie des conséquences pour cette zone, où il est tenu compte de ses objectifs de conservation. Cette évaluation appropriée fait partie intégrante identifiable comme telle de l'examen de l'impact relatif à l'environnement.
+
+[<sup>3</sup> Par dérogation à l'alinéa 3, les projets d'énergie renouvelable, les nouvelles demandes pour des installations de production d'énergie renouvelable, y compris les installations qui combinent différents types de technologie d'énergie renouvelable et le rééquipement de centrales électriques utilisant des sources d'énergie renouvelable dans des zones d'accélération des énergies renouvelables désignées pour la technologie concernée et le stockage colocalisé de l'énergie, ainsi que le raccordement de ces centrales et de ce stockage au réseau, ne sont pas soumis à une évaluation appropriée de leurs incidences sur des zones spéciales de conservation, à condition que ces projets d'énergie renouvelable répondent aux règles et mesures fixées conformément à l'article 2.2.5 du Code flamand de l'Aménagement du Territoire.]<sup>3</sup>
+
+Sur la base de la réglementation applicable d'autres secteurs politiques qui sont pertinents lors de l'évaluation d'un projet complexe, d'autres examens que ceux visés aux alinéas deux et trois peuvent être associés à l'examen au niveau stratégique.
+
+Les résultats de l'examen de l'impact relatif à l'environnement sont fixés dans un projet d'EIE.
+
+[<sup>3</sup> Dans le présent article, on entend par :
+
+1° stockage colocalisé de l'énergie : une installation de stockage d'énergie combinée à une installation de production d'énergie renouvelable raccordée au même point d'accès au réseau ;
+
+2° zones d'accélération des énergies renouvelables : les zones désignées conformément à l'article 2.2.5, § 2/1, du Code flamand de l'Aménagement du Territoire ;
+
+3° rééquipement : la rénovation des centrales électriques produisant de l'énergie renouvelable, y compris le remplacement total ou partiel des installations ou des systèmes d'exploitation et des équipements, dans le but de remplacer la capacité ou d'augmenter l'efficacité ou la capacité de l'installation.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/57, art. 5, 010; En vigueur : 27-06-2024&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 124, 011; En vigueur : 01-12-2025&gt;
+
+(3)&lt;DCFL 2026-03-06/10, art. 8, 012; En vigueur : 06-04-2026&gt;
+
+##### Art. 10
+
+Le contenu du projet d'EIE est basé sur les exigences sur le plan du contenu, visées [<sup>3</sup> aux articles 4.4.4 et 4.4.5, § 2,]<sup>3</sup> du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement. [<sup>2</sup> Pour déterminer le contenu du projet d'EIE, il est tenu compte de la note d'examen des alternatives, des avis et des observations du public, visés à l'article 8, § 2, et de la décision du service compétent pour l'évaluation de l'impact sur l'environnement, visée à l'article 8, § 3. ]<sup>2</sup>
+
+Le projet d'EIE tient compte du niveau de détail de l'arrêté relatif à la préférence à prendre et des objectifs et du rayon d'action géographique du projet complexe prévu.
+
+Le Gouvernement flamand fixe des modalités pour assurer que la qualité du projet d'EIE et de l'EIE définitive soit suffisante.
+
+----------
+
+(1)&lt;DCFL 2016-07-01/23, art. 57, 004; En vigueur : 01-05-2017&gt;
+
+(2)&lt;DCFL 2024-04-26/57, art. 6, 010; En vigueur : 27-06-2024&gt;
+
+(3)&lt;DCFL 2024-05-17/53, art. 125, 011; En vigueur : 01-12-2025&gt;
+
+##### Art. 11
+
+§ 1er. Les résultats de l'examen de l'impact intégré sont fixés dans des rapports d'examen de l'impact, dont le projet d'EIE.
+
+Sur la base des conclusions des rapports d'examen de l'impact, une note de synthèse et un avant-projet d'arrêté relatif à la préférence sont établis.
+
+§ 2. Le responsable du processus transmet [<sup>1</sup> la note de synthèse, les rapports d'examen de l'impact et l'avant-projet d'arrêté relatif à la préférence aux instances consultatives, visées à l'article 8, § 2, qui sont invitées ]<sup>1</sup> à une réunion consultative.
+
+Toutes les instances consultatives fournissent leur avis au plus tard lors du moment de la réunion consultative. Lorsque les instances consultatives n'émettent pas d'avis, au plus tard lors de la réunion consultative, il peut être passé sur l'exigence d'avis.
+
+Le Gouvernement flamand peut fixer les modalités procédurales de la réunion consultative.
+
+[<sup>2</sup> § 3. Le gestionnaire du processus soumet le projet de RIE au Centre d'Expertise flamand R.I.E. pour avis.
+
+Le Centre d'Expertise flamand R.I.E. émet un avis sur la qualité du projet de RIE et confronte le projet de RIE en termes de contenu à son avis, visé à l'article 8, § 2, alinéa 1er, ou § 3, et aux exigences en matière de contenu, visées à l'article 10, alinéa 1er.
+
+Le Centre d'Expertise flamand R.I.E. émet un avis au plus tard au moment de la réunion consultative, visée au paragraphe 2. Si le Centre d'Expertise flamand R.I.E. n'émet aucun avis au plus tard au moment de la réunion consultative, il peut être passé sur l'exigence d'avis.
+
+Le Gouvernement flamand fixe les modalités de la demande d'avis, visée à l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/57, art. 7, 010; En vigueur : 27-06-2024&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 126, 011; En vigueur : 01-12-2025&gt;
+
+##### Art. 12
+
+&lt;Abrogé par DCFL 2016-07-01/23, art. 58, 004; En vigueur : 01-05-2017&gt;
+
+#### Sous-section 3. - Projet d'arrêté relatif à la préférence
+
+##### Art. 13
+
+§ 1er. Un arrêté relatif à la préférence peut déroger à la partie indicative et contraignante des schémas de structure d'aménagement.
+
+Lorsque le conseil provincial, dans son projet d'arrêté relatif à la préférence, déroge à la partie contraignante du Schéma de Structure d'Aménagement de la Flandre, il a besoin à cet effet du consentement par écrit du Gouvernement flamand. Ce consentement est accordé au plus tard au moment où le projet d'arrêté relatif à la préférence est fixé.
+
+Lorsque le conseil communal, dans son projet d'arrêté relatif à la préférence, déroge à la partie contraignante du Schéma de Structure d'Aménagement de la Flandre ou au schéma de structure d'aménagement provincial, il a besoin à cet effet du consentement par écrit du Gouvernement flamand, respectivement de la députation. Ce consentement est accordé au plus tard au moment où le projet d'arrêté relatif à la préférence est fixé.
+
+§ 2. Un arrêté relatif à la préférence peut déroger aux prescriptions de plans d'aménagement et de plans d'exécution spatiaux.
+
+Lorsque le conseil provincial, dans son projet d'arrêté relatif à la préférence, déroge à un plan d'exécution spatial régional, il a besoin à cet effet du consentement par écrit du Gouvernement flamand. Ce consentement est accordé au plus tard au moment où le projet d'arrêté relatif à la préférence est fixé.
+
+Lorsque le conseil communal, dans son projet d'arrêté relatif à la préférence, déroge à un plan d'exécution spatial régional ou à un plan d'exécution spatial provincial, il a besoin à cet effet du consentement par écrit du Gouvernement flamand, respectivement de la députation. Ce consentement est accordé au plus tard au moment où le projet d'arrêté relatif à la préférence est fixé.
+
+##### Art. 14
+
+L'autorité compétente, visée à l'article 6, fixe le projet d'arrêté relatif à la préférence.
+
+Un projet d'arrêté relatif à la préférence comprend :
+
+1° une motivation expliquant pourquoi une initiative de projet complexe est éligible à la procédure décisionnelle réglée par le présent décret ;
+
+2° l'alternative choisie au niveau stratégique, rendue sur un plan graphique ou décrite de manière textuelle ;
+
+3° une motivation du choix de cette alternative, à la lumière des autres alternative raisonnables qui sont examinées ;
+
+4° une motivation de la désignation de l'autorité compétente, conformément à l'article 6 ;
+
+5° une déclaration qui résume de quelle manière des considérations environnementales sont intégrées dans l'arrêté relatif à la préférence et de quelle manière il est tenu compte des examens effectués, dont [<sup>1</sup> le projet de rapport d'incidence sur l'environnement]<sup>1</sup>, et des remarques, des avis et des considérations émis dans le cadre de ces examens ;
+
+6° la relation avec les plans politiques pertinents ;
+
+7° le cas échéant, la manière dont [<sup>3</sup> , en application de l'article 13,]<sup>3</sup> il sera dérogé :
+
+a) [<sup>2</sup> aux plans de politique spatiale ou à la partie indicative et contraignante des schémas de structure d'aménagement ;]<sup>2</sup>
+
+b) aux prescriptions de plans d'aménagement et de plans d'exécution spatiaux ;
+
+8° les mesures de monitoring et, le cas échéant, les mesures d'accompagnement au niveau de détail du projet de l'arrêté relatif à la préférence ;
+
+9° [<sup>4</sup> le cas échéant, une mention des effets juridiques]<sup>4</sup>, visés aux articles 28, 30, 31 et 34 ;
+
+10° le cas échéant, la désignation d'un ou de plusieurs instruments tels que visés à la partie 2 du décret du 28 mars 2014 en matière de rénovation rurale qui seront engagés pour le projet complexe, et la note de rénovation exigée à cet effet telle que visée au même décret.
+
+----------
+
+(1)&lt;DCFL 2016-07-01/23, art. 59, 004; En vigueur : 01-05-2017&gt;
+
+(2)&lt;DCFL 2017-12-08/06, art. 209, 006; En vigueur : 30-12-2017&gt;
+
+(3)&lt;DCFL 2024-04-26/57, art. 8, 010; En vigueur : 27-06-2024&gt;
+
+(4)&lt;DCFL 2026-06-26/21, art. 112, 013; En vigueur : 20-08-2026&gt;
+
+#### Sous-section 4. - Enquête publique
+
+##### Art. 15
+
+§ 1er. L'autorité compétente, visée à l'article 6, soumet le projet d'arrêté relatif à la préférence [<sup>1</sup> et le projet de rapport d'incidence sur l'environnement]<sup>1</sup> à une enquête publique.
+
+Lors de l'enquête publique, les documents suivants sont mis à disposition [<sup>2</sup> pour consultation sous forme analogique ou numérique ]<sup>2</sup> :
+
+1° le projet d'arrêté relatif à la préférence ;
+
+2° la note de synthèse ;
+
+3° les rapports d'examen de l'impact sur lesquels se base la note de synthèse, dont [<sup>1</sup> le projet de rapport d'incidence sur l'environnement]<sup>1</sup> ;
+
+4° la décision, visée à l'article 8, § 3, [<sup>2</sup> ...]<sup>2</sup>.
+
+La mise à disposition pour consultation a lieu à la maison communale de chaque commune dont la zone est couverte en entier ou en partie par le projet d'arrêté relatif à la préférence. [<sup>2</sup> En cas de mise à disposition numérique, la personne qui consulte le dossier peut faire appel au support technique de l'autorité auprès de laquelle le dossier est consulté.]<sup>2</sup>
+
+Le Gouvernement flamand fixe les modalités de l'enquête publique.
+
+§ 2. Lorsque le projet d'arrêté relatif à la préférence peut avoir un impact considérable pour l'homme ou l'environnement dans d'autres Etats membres de l'Union européenne, dans des parties contractantes de la Convention d'Espoo ou dans d'autres régions, ou lorsque les autorités compétentes de ces Etats membres, parties contractantes ou régions le demandent, le responsable du processus soumet les documents, visés au paragraphe 1er, alinéa deux, à l'avis des autorités compétentes des Etats membres, des parties contractantes ou des régions concerné(e)s, en ce qui concerne l'impact considérable pour l'homme ou l'environnement.
+
+Le Gouvernement flamand peut fixer les modalités de la manière dont les autorités compétentes et les citoyens des Etats membres, des parties contractantes ou des régions peuvent communiquer leur opinion sur le projet d'arrêté relatif à la préférence et sur l'EIE, ainsi que de la manière dont la concertation à ce sujet a lieu.
+
+----------
+
+(1)&lt;DCFL 2016-07-01/23, art. 60, 004; En vigueur : 01-05-2017&gt;
+
+(2)&lt;DCFL 2024-04-26/57, art. 9, 010; En vigueur : 27-06-2024&gt;
+
+##### Art. 15 DROIT FUTUR
+
+§ 1er. L'autorité compétente, visée à l'article 6, soumet le projet d'arrêté relatif à la préférence [<sup>1</sup> et le projet de rapport d'incidence sur l'environnement]<sup>1</sup> à une enquête publique.
+
+Lors de l'enquête publique, les documents suivants sont mis à disposition [<sup>2</sup> pour consultation sous forme analogique ou numérique ]<sup>2</sup> :
+
+1° le projet d'arrêté relatif à la préférence ;
+
+2° la note de synthèse ;
+
+3° les rapports d'examen de l'impact sur lesquels se base la note de synthèse, dont [<sup>1</sup> le projet de rapport d'incidence sur l'environnement]<sup>1</sup> ;
+
+4° [<sup>3</sup> ...]<sup>3</sup>.
+
+La mise à disposition pour consultation a lieu à la maison communale de chaque commune dont la zone est couverte en entier ou en partie par le projet d'arrêté relatif à la préférence. [<sup>2</sup> En cas de mise à disposition numérique, la personne qui consulte le dossier peut faire appel au support technique de l'autorité auprès de laquelle le dossier est consulté.]<sup>2</sup>
+
+Le Gouvernement flamand fixe les modalités de l'enquête publique.
+
+§ 2. Lorsque le projet d'arrêté relatif à la préférence peut avoir un impact considérable pour l'homme ou l'environnement dans d'autres Etats membres de l'Union européenne, dans des parties contractantes de la Convention d'Espoo ou dans d'autres régions, ou lorsque les autorités compétentes de ces Etats membres, parties contractantes ou régions le demandent, le responsable du processus soumet les documents, visés au paragraphe 1er, alinéa deux, à l'avis des autorités compétentes des Etats membres, des parties contractantes ou des régions concerné(e)s, en ce qui concerne l'impact considérable pour l'homme ou l'environnement.
+
+Le Gouvernement flamand peut fixer les modalités de la manière dont les autorités compétentes et les citoyens des Etats membres, des parties contractantes ou des régions peuvent communiquer leur opinion sur le projet d'arrêté relatif à la préférence et sur l'EIE, ainsi que de la manière dont la concertation à ce sujet a lieu.
+
+----------
+
+(1)&lt;DCFL 2016-07-01/23, art. 60, 004; En vigueur : 01-05-2017&gt;
+
+(2)&lt;DCFL 2024-04-26/57, art. 9, 010; En vigueur : 27-06-2024&gt;
+
+(3)&lt;DCFL 2024-05-17/53, art. 127, 011; En vigueur : indéterminée &gt;
+
+##### Art. 15/1
+
+[<sup>1</sup> [<sup>2</sup> Le Centre d'Expertise flamand R.I.E.]<sup>2</sup> évalue la qualité du projet de RIE et examine le projet de RIE sur le fond au regard de la décision visée à l'article 8, § 3, et des exigences sur le plan du contenu visées à l'article 10, alinéa 1er.
+
+Avant l'adoption de l'arrêté relatif à la préférence, [<sup>2</sup> le Centre d'Expertise flamand R.I.E.]<sup>2</sup> statue sur l'approbation ou le refus du RIE. Il transmet cette décision au responsable du processus et aux instances et autorités compétentes dont l'avis a été sollicité conformément à l'article 8, § 2, alinéas 1er et 3.
+
+En cas de refus, [<sup>2</sup> le Centre d'Expertise flamand R.I.E.]<sup>2</sup> indique les lacunes du RIE. La décision précise que le responsable du processus peut introduire une demande motivée de reconsidération de la décision de refus.
+
+Le Gouvernement flamand arrête les modalités de la procédure de reconsidération visée à l'alinéa 3 et de la publication de la décision visée à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-07-01/23, art. 61, 004; En vigueur : 01-05-2017&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 128, 011; En vigueur : 01-12-2025&gt;
+
+##### Art. 15/1 DROIT FUTUR
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 129, 011; En vigueur : indéterminée &gt;
+
+#### Sous-section 5. - Arrêté relatif à la préférence
+
+##### Art. 16
+
+§ 1er. L'autorité compétente, visée à l'article 6, fixe définitivement l'arrêté relatif à la préférence.
+
+Lorsqu'une évaluation appropriée a été faite telle que visée à l'article 9, et vu les conclusions de cette évaluation, l'autorité compétente ne fixe l'arrêté relatif à la préférence que définitivement après avoir obtenu la certitude que l'arrêté relatif à la préférence n'entraînera pas une atteinte significative des caractéristiques naturelles de la zone de protection spéciale en question.
+
+Par dérogation à l'alinéa deux, l'autorité compétente peut cependant fixer définitivement l'arrêté relatif à la préférence, malgré les conclusions négatives de l'évaluation des conséquences pour la zone, lorsqu'il n'existe pour les caractéristiques naturelles de la zone de protection spéciale pas d'alternatives moins nuisibles et que le projet doit tout de même être réalisé pour des raisons impératives de grand intérêt public, y compris des raisons de nature sociale ou économique. Dans ce cas, toutes les mesures compensatoires nécessaires sont prises pour garantir que la cohérence générale du réseau écologique européen cohérent de zones de protection spéciale, appelé Natura 2000, soit conservée. Ces mesures impliquent le développement actif d'un habitat équivalent ou de son environnement naturel d'au moins une superficie semblable.
+
+[<sup>1</sup> Si la zone dans laquelle sont prises les mesures compensatoires, visées à l'alinéa 3, ne fait pas encore partie d'une zone spéciale de conservation, le Gouvernement flamand peut, par dérogation à l'article 36 bis, § 14, du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, la désigner comme zone spéciale de conservation après avis de l'Institut de Recherche des Forêts et de la Nature. Il prend cette décision en même temps que l'adoption définitive de l'arrêté relatif à la préférence par l'autorité compétente, ou immédiatement après. La décision du Gouvernement flamand, ajoutant la zone dans laquelle sont prises les mesures compensatoires à une zone spéciale de conservation, contient les informations visées à l'article 36 bis, § 1er, alinéa 2, du décret précité. Les dispositions de l'article 36bis, § 9, alinéas 2 à 4, du décret précité, s'appliquent par analogie au présent arrêté.]<sup>1</sup>
+
+Lorsque la zone de protection spéciale en question ou sa zone partielle est une zone où se trouve un type prioritaire d'habitat naturel ou une espèce prioritaire, il est uniquement possible d'apporter des arguments qui sont liés à la santé humaine, à la sécurité publique ou à un impact qui est essentiellement favorable à l'environnement, ou, après l'avis de la Commission européenne, d'autres raisons contraignantes de grand intérêt public. Un type prioritaire d'habitat naturel est un type d'habitat naturel marqué d'un astérisque dans l'annexe I du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel. Une espèce prioritaire est une espèce marquée d'un astérisque dans l'annexe II du décret précité.
+
+§ 2. L'arrêté relatif à la préférence fixé définitivement a la même répartition telle que visée à l'article 14, alinéa deux.
+
+Lors de la fixation définitive de l'arrêté relatif à la préférence, il est uniquement possible d'apporter des modifications par rapport au projet de l'arrêté relatif à la préférence qui sont basées sur ou découlent des réactions de participation, visées à l'article 15.
+
+----------
+
+(1)&lt;DCFL 2026-06-26/21, art. 113, 013; En vigueur : 20-08-2026&gt;
+
+#### Sous-section 6. - Publication et entrée en vigueur
+
+##### Art. 17
+
+§ 1er. L'arrêté relatif à la préférence est [<sup>1</sup> ...]<sup>1</sup>publié par extrait au Moniteur belge après la fixation définitive.
+
+Le Gouvernement flamand peut fixer d'autres manières dont le public est mis au courant de l'arrêté relatif à la préférence fixé définitivement.
+
+§ 2. Une copie de l'arrêté relatif à la préférence fixé définitivement [<sup>2</sup> est envoyée aux instances suivantes, sauf si cette instance est l'autorité compétente]<sup>2</sup> :
+
+1° au Gouvernement flamand ;
+
+2° aux provinces et aux communes dont la zone est couverte en entier ou en partie par l'arrêté relatif à la préférence ;
+
+3° aux instances et aux autorités compétentes desquelles, conformément à l'article 8, § 2, alinéas premier et trois, et à l'article 11, § 2, l'avis a été demandé.
+
+Le Gouvernement flamand peut fixer des modalités relatives à la notification, visée à l'alinéa premier, dont les délais et le mode de notification.
+
+§ 3. L'arrêté relatif à la préférence entre en vigueur dix jours après sa publication au Moniteur belge.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/57, art. 10, 010; En vigueur : 27-06-2024&gt;
+
+(2)&lt;DCFL 2026-06-26/21, art. 114, 013; En vigueur : 20-08-2026&gt;
+
+### Section 4. - Phase d'élaboration et arrêté relatif au projet
+
+#### Sous-section 1re. - Note d'examen du projet
+
+##### Art. 18
+
+§ 1er. Lors du démarrage de la phase d'élaboration, une note d'examen du projet est établie. Elle comprend une description :
+
+1° du projet et des mesures d'accompagnement qui sont repris dans l'arrêté relatif à la préférence ;
+
+2° [<sup>2</sup> le cas échéant, un examen des autres alternatives et variantes à envisager raisonnablement au niveau de l'aménagement et de l'exécution]<sup>2</sup>;
+
+3° de la manière dont l'impact du projet, des mesures d'accompagnement et des alternatives raisonnables sera examiné et évalué à la lumière de l'arrêté relatif au projet à prendre.
+
+[<sup>2</sup> Une note d'examen du projet telle que visée à l'alinéa 1er, peut s'appliquer à plusieurs arrêtés relatifs au projet si l'alternative choisie dans l'arrêté relatif à la préférence au niveau stratégique donne lieu à plusieurs projets concrets.]<sup>2</sup>
+
+§ 2. Le responsable du processus transmet la note d'examen du projet [<sup>3</sup> au Centre d'Expertise flamand R.I.E.]<sup>3</sup> et aux instances consultatives fixées par le Gouvernement flamand. [<sup>3</sup> Le responsable du processus demande un avis au Centre d'Expertise flamand R.I.E. sur la portée et le niveau de détail des informations à inclure dans le RIE, compte tenu de l'arrêté relatif au projet à prendre.]<sup>3</sup>
+
+Lorsqu'il ressort de la note d'examen du projet qu'il peut y avoir un impact considérable pour l'homme ou l'environnement dans d'autres Etats membres de l'Union européenne, dans des parties contractantes de la Convention d'Espoo ou dans d'autres régions, ou lorsque les autorités compétentes de ces Etats membres, parties contractantes ou régions le demandent, le responsable du processus soumet la note d'examen du projet, avec toutes les informations disponibles sur l'impact transfrontalier (régional) possible, à l'avis des autorités compétentes des Etats membres, des parties contractantes ou des régions en question, en ce qui concerne l'impact considérable pour l'homme ou l'environnement.
+
+Le Gouvernement flamand fixe les instances consultatives et peut fixer des modalités pour la fourniture d'avis par les instances consultatives, visées à l'alinéa premier. Le Gouvernement flamand peut également fixer la manière et les conditions suivant lesquelles le responsable du processus transmet la note d'examen du projet aux autorités compétentes des Etats membres, des parties contractantes ou des régions, visé(e)s à l'alinéa deux.
+
+§ 3. [<sup>3</sup> Le responsable du processus peut demander au Centre d'Expertise flamand R.I.E. d'émettre un avis intégré sur la portée et le niveau de détail des informations à inclure dans le RIE. Dans ce cas, la demande d'avis adressée au Centre d'Expertise flamand R.I.E., visé au paragraphe 2, alinéa 1er, n'est pas obligatoire. Le Centre d'Expertise flamand R.I.E. tient compte des avis des organes consultatifs et du résultat de la consultation transfrontalière, visés au paragraphe 2, alinéa 2, dans le cadre de l'avis intégré.
+
+Le Gouvernement flamand arrête d'autres règles concernant les modalités et les délais dans lesquels le Centre d'Expertise flamand R.I.E. émet l'avis de cadrage intégré, visé à l'alinéa 1er, et le met à la disposition des organes consultatifs consultés et du public concerné]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFL 2016-07-01/23, art. 62, 004; En vigueur : 01-05-2017&gt;
+
+(2)&lt;DCFL 2024-04-26/57, art. 11, 010; En vigueur : 27-06-2024&gt;
+
+(3)&lt;DCFL 2024-05-17/53, art. 130, 011; En vigueur : 01-12-2025&gt;
+
+#### Sous-section 2. - Examen de l'impact intégré
+
+##### Art. 19
+
+Sur la base de la note d'examen du projet, visée à l'article 18, § 1er, des avis, visés à l'article 18, § 2, et de [<sup>1</sup> l'avis du Centre d'Expertise flamand R.I.E., visé à l'article 18, § 2, alinéa 1er, ou § 3]<sup>1</sup>, visée à l'article 18, § 3, un examen de l'impact intégré est effectué.
+
+L'examen de l'impact intégré comprend au moins l'examen de l'impact spatial et relatif à l'environnement au niveau d'exécution.
+
+Lorsque le projet complexe, séparément ou en combinaison avec d'autres plans ou projets, peut avoir un impact significatif pour une zone de protection spéciale, une évaluation appropriée est établie des conséquences pour cette zone, où il est tenu compte de ses objectifs de conservation. Cette évaluation appropriée fait partie intégrante identifiable comme telle de l'examen de l'impact relatif à l'environnement. Les résultats de l'examen de l'impact relatif à l'environnement sont fixés dans un projet d'EIE.
+
+[<sup>2</sup> Par dérogation à l'alinéa 3, les projets d'énergie renouvelable, les nouvelles demandes pour des installations de production d'énergie renouvelable, y compris les installations qui combinent différents types de technologie d'énergie renouvelable et le rééquipement de centrales électriques utilisant des sources d'énergie renouvelable dans des zones d'accélération des énergies renouvelables désignées pour la technologie concernée et le stockage colocalisé de l'énergie, ainsi que le raccordement de ces centrales et de ce stockage au réseau, ne sont pas soumis à une évaluation appropriée de leurs incidences sur des zones spéciales de conservation, à condition que ces projets d'énergie renouvelable répondent aux règles et mesures fixées conformément à l'article 2.2.5 du Code flamand de l'Aménagement du Territoire.]<sup>2</sup>
+
+Sur la base de la réglementation applicable d'autres secteurs politiques qui sont pertinents lors de l'évaluation d'un projet complexe, d'autres examens que ceux visés aux alinéas deux et trois peuvent être associés à l'examen au niveau d'exécution.
+
+[<sup>2</sup> Dans le présent article, on entend par :
+
+1° stockage colocalisé de l'énergie : une installation de stockage d'énergie combinée à une installation de production d'énergie renouvelable raccordée au même point d'accès au réseau ;
+
+2° zones d'accélération des énergies renouvelables : les zones désignées conformément à l'article 2.2.5, § 2/1, du Code flamand de l'Aménagement du Territoire ;
+
+3° rééquipement : la rénovation des centrales électriques produisant de l'énergie renouvelable, y compris le remplacement total ou partiel des installations ou des systèmes d'exploitation et des équipements, dans le but de remplacer la capacité ou d'augmenter l'efficacité ou la capacité de l'installation.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2024-05-17/53, art. 131, 011; En vigueur : 01-12-2025&gt;
+
+(2)&lt;DCFL 2026-03-06/10, art. 9, 012; En vigueur : 06-04-2026&gt;
+
+##### Art. 20
+
+Le contenu du projet d'EIE est basé sur les exigences sur le plan du contenu, visées [<sup>2</sup> aux articles 4.4.4 et 4.4.5, § 2,]<sup>2</sup> du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement.
+
+Le projet d'EIE tient compte du niveau de détail de l'arrêté relatif au projet à prendre et des objectifs et du rayon d'action géographique du projet prévu.
+
+Le Gouvernement flamand fixe des modalités pour assurer que la qualité du projet d'EIE et de l'EIE définitive soit suffisante.
+
+----------
+
+(1)&lt;DCFL 2016-07-01/23, art. 57, 004; En vigueur : 01-05-2017&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 132, 011; En vigueur : 01-12-2025&gt;
+
+##### Art. 21
+
+§ 1er. Les résultats de l'examen de l'impact intégré sont fixés dans des rapports d'examen de l'impact, dont le projet d'EIE.
+
+Sur la base des conclusions des rapports d'examen de l'impact, une note de synthèse et un avant-projet d'arrêté relatif au projet sont établis.
+
+§ 2. Le responsable du processus transmet [<sup>1</sup> la note de synthèse, les rapports d'examen de l'impact et l'avant-projet d'arrêté relatif au projet aux instances consultatives [<sup>3</sup> et, le cas échéant, aux autorités compétentes des Etats membres, des parties contractantes ou des régions]<sup>3</sup>, visées à l'article 18, § 2, qui sont invitées]<sup>1</sup> à une réunion consultative.
+
+Les organes administratifs, entités ou fonctionnaires autorisés à prendre, le cas échéant, les décisions, visées à l'article 40 et à l'article 41, font en tout cas également partie des instances consultatives, visées à l'alinéa premier.
+
+Toutes les instances consultatives fournissent leur avis au plus tard lors du moment de la réunion consultative. Lorsque les instances consultatives n'émettent pas d'avis, au plus tard lors de la réunion consultative, il peut être passé sur l'exigence d'avis.
+
+Le Gouvernement flamand peut fixer les modalités procédurales de la réunion consultative.
+
+[<sup>2</sup> § 3. Le gestionnaire du processus soumet le projet de RIE au Centre d'Expertise flamand R.I.E. pour avis.
+
+Le Centre d'Expertise flamand R.I.E. émet un avis sur la qualité du projet de RIE et confronte le projet de RIE en termes de contenu à son avis, visé à l'article 18, § 2, alinéa 1er, ou § 3, et aux exigences en matière de contenu, visées à l'article 20, alinéa 1er.
+
+Le Centre d'Expertise flamand R.I.E. émet un avis au plus tard au moment de la réunion consultative, visée au paragraphe 2. Si le Centre d'Expertise flamand R.I.E. n'émet aucun avis au plus tard au moment de la réunion consultative, il peut être passé sur l'exigence d'avis.
+
+Le Gouvernement flamand fixe les modalités de la demande d'avis, visée à l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/57, art. 12, 010; En vigueur : 27-06-2024&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 133, 011; En vigueur : 01-12-2025&gt;
+
+(3)&lt;DCFL 2026-06-26/21, art. 115, 013; En vigueur : 20-08-2026&gt;
+
+#### Sous-section 3. - Projet d'arrêté relatif au projet
+
+##### Art. 22
+
+§ 1er. Un arrêté relatif au projet peut déroger à la partie indicative et contraignante des schémas de structure d'aménagement, de la manière qui est indiquée dans l'arrêté relatif au projet.
+
+Lorsque le conseil provincial, dans son projet d'arrêté relatif au projet, déroge à la partie contraignante du Schéma de Structure d'Aménagement de la Flandre, il a besoin à cet effet du consentement par écrit du Gouvernement flamand. Ce consentement est accordé au plus tard au moment où le projet d'arrêté relatif au projet est fixé.
+
+Lorsque le conseil communal, dans son projet d'arrêté relatif au projet, déroge à la partie contraignante du Schéma de Structure d'Aménagement de la Flandre ou au schéma de structure d'aménagement provincial, il a besoin à cet effet du consentement par écrit du Gouvernement flamand, respectivement de la députation. Ce consentement est accordé au plus tard au moment où le projet d'arrêté relatif au projet est fixé.
+
+§ 2. Un arrêté relatif au projet peut déroger aux prescriptions de plans d'aménagement et de plans d'exécution spatiaux.
+
+Lorsque le conseil provincial, dans son projet d'arrêté relatif au projet, déroge à un plan d'exécution spatial régional, il a besoin à cet effet du consentement par écrit du Gouvernement flamand. Ce consentement est accordé au plus tard au moment où le projet d'arrêté relatif au projet est fixé.
+
+Lorsque le conseil communal, dans son projet d'arrêté relatif au projet, déroge à un plan d'exécution spatial régional ou à un plan d'exécution spatial provincial, il a besoin à cet effet du consentement par écrit du Gouvernement flamand, respectivement de la députation. Ce consentement est accordé au plus tard au moment où le projet d'arrêté relatif au projet est fixé.
+
+##### Art. 23
+
+L'autorité compétente, visée à l'article 6, fixe le projet d'arrêté relatif au projet.
+
+Le projet d'arrêté relatif au projet concrétise l'arrêté relatif à la préférence fixé définitivement.
+
+Un projet d'arrêté relatif au projet comprend :
+
+1° l'alternative choisie au niveau d'exécution [<sup>4</sup> ...]<sup>4</sup>;
+
+2° une motivation du choix de cette alternative, à la lumière des autres alternative raisonnables qui sont examinées ;
+
+3° une motivation de la désignation de l'autorité compétente conformément à l'article 6 ;
+
+4° une déclaration qui résume de quelle manière des considérations environnementales sont intégrées dans l'arrêté relatif au projet et de quelle manière il est tenu compte des examens effectués, dont le projet d'EIE, et des remarques, avis et considérations émis dans le cadre de ces examens [<sup>1</sup> y compris un résumé de ces remarques, avis et considérations]<sup>1</sup>;
+
+5° la relation avec les plans politiques pertinents ;
+
+6° le cas échéant, la manière dont [<sup>4</sup> , en application de l'article 22,]<sup>4</sup> il sera dérogé :
+
+a) [<sup>3</sup> aux plans de politique spatiale ou à la partie indicative et contraignante des schémas de structure d'aménagement ;]<sup>3</sup>
+
+b) aux prescriptions de plans d'aménagement et de plans d'exécution spatiaux ;
+
+7° l'indication à quelles décisions [<sup>4</sup> visées aux articles 38, 39, 40 et 41, ]<sup>4</sup> l'arrêté relatif au projet s'applique et, le cas échéant, la manière dont il est fait application de l'article 41 ;
+
+8° le cas échéant, une partie identifiable qui vaut comme plan d'exécution spatial tel que visé à [<sup>2</sup> l'article 2.2.5. du Code flamand de l'Aménagement du Territoire et qui comprend les données, visées à l'article 2.2.5, § 1er]<sup>2</sup>, du Code précité ;
+
+[<sup>4</sup> 8/1° le cas échéant, des règlements d'urbanisme ou des conventions tels que visés à l'article 2.2.5, § 2, du Code flamand de l'Aménagement du Territoire;]<sup>4</sup>
+
+9° le cas échéant, les actions, mesures, conditions, charges ou instruments de l'alternative qui est choisie au niveau d'exécution [<sup>1</sup> y compris une description de toutes les caractéristiques de l'ébauche de l'arrêté relatif au projet et/ou des mesures envisagées afin d'éviter, de prévenir ou de limiter et si possible, de compenser des incidences nuisibles notables sur l'environnement]<sup>1</sup>;
+
+10° les mesures de monitoring et, le cas échéant, les mesures d'accompagnement au niveau de détail du projet de l'arrêté relatif au projet ;
+
+11° [<sup>5</sup> le cas échéant, une mention des effets juridiques]<sup>5</sup>, visés aux articles 30, 31, 32, 33 et 34 ;
+
+12° le cas échéant, la désignation d'un ou de plusieurs instruments tels que visés à la partie 2 du décret du 28 mars 2014 en matière de rénovation rurale qui seront engagés pour le projet complexe, et la note de rénovation exigée à cet effet telle que visée au même décret ;
+
+13° le cas échéant, les différentes phases de l'exécution de l'arrêté relatif au projet et la date de début de chaque phase.
+
+Lorsque l'alternative qui est choisie dans l'arrêté relatif à la préférence au niveau stratégique résulte en différents projets concrets, le projet d'arrêté relatif au projet donne pour information l'état de réalisation de l'arrêté relatif à la préférence et les autres arrêtés relatifs au projet qui y sont liés.
+
+----------
+
+(1)&lt;DCFL 2016-12-23/58, art. 18, 003; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2016-07-01/23, art. 63, 004; En vigueur : 01-05-2017&gt;
+
+(3)&lt;DCFL 2017-12-08/06, art. 210, 006; En vigueur : 30-12-2017&gt;
+
+(4)&lt;DCFL 2024-04-26/57, art. 13, 010; En vigueur : 27-06-2024&gt;
+
+(5)&lt;DCFL 2026-06-26/21, art. 116, 013; En vigueur : 20-08-2026&gt;
+
+#### Sous-section 4. - Enquête publique
+
+##### Art. 24
+
+§ 1er. L'autorité compétente, visée à l'article 6, soumet le projet d'arrêté relatif au projet et le projet d'EIE à une enquête publique.
+
+Lors de l'enquête publique, les documents suivants sont mis à disposition [<sup>1</sup> pour consultation sous forme analogique ou numérique ]<sup>1</sup> :
+
+1° le projet d'arrêté relatif au projet ;
+
+2° la note de synthèse ;
+
+3° les rapports d'examen de l'impact sur lesquels se base la note de synthèse, dont le projet d'EIE ;
+
+4° la décision, visée à l'article 18, § 3.
+
+Cette mise à disposition pour consultation a lieu à la maison communale de chaque commune dont la zone est couverte en entier ou en partie par le projet d'arrêté relatif au projet. [<sup>1</sup> En cas de mise à disposition numérique, la personne qui consulte le dossier peut faire appel au support technique de l'autorité auprès de laquelle le dossier est consulté.]<sup>1</sup>
+
+Des réactions de participation qui demandent de revenir sur l'arrêté relatif à la préférence sont irrecevables.
+
+Le Gouvernement flamand fixe les modalités de l'enquête publique.
+
+§ 2. Lorsque le projet d'arrêté relatif au projet peut avoir un impact considérable pour l'homme ou l'environnement dans d'autres Etats membres de l'Union européenne, dans des parties contractantes de la Convention d'Espoo ou dans d'autres régions, ou lorsque les autorités compétentes de ces Etats membres, parties contractantes ou régions le demandent, le responsable du processus soumet les documents, visés au paragraphe 1er, alinéa deux, à l'avis des autorités compétentes des Etats membres, des parties contractantes ou des régions concerné(e)s, en ce qui concerne l'impact considérable pour l'homme ou l'environnement.
+
+Le Gouvernement flamand peut fixer les modalités de la manière dont les autorités compétentes et les citoyens des Etats membres, des parties contractantes ou des régions peuvent communiquer leur opinion sur le projet d'EIE et le projet d'arrêté relatif au projet, ainsi que de la manière dont la concertation à ce sujet a lieu.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/57, art. 14, 010; En vigueur : 27-06-2024&gt;
+
+##### Art. 24 DROIT FUTUR
+
+§ 1er. L'autorité compétente, visée à l'article 6, soumet le projet d'arrêté relatif au projet et le projet d'EIE à une enquête publique.
+
+Lors de l'enquête publique, les documents suivants sont mis à disposition [<sup>1</sup> pour consultation sous forme analogique ou numérique ]<sup>1</sup> :
+
+1° le projet d'arrêté relatif au projet ;
+
+2° la note de synthèse ;
+
+3° les rapports d'examen de l'impact sur lesquels se base la note de synthèse, dont le projet d'EIE ;
+
+4° [<sup>2</sup> ...]<sup>2</sup>.
+
+Cette mise à disposition pour consultation a lieu à la maison communale de chaque commune dont la zone est couverte en entier ou en partie par le projet d'arrêté relatif au projet. [<sup>1</sup> En cas de mise à disposition numérique, la personne qui consulte le dossier peut faire appel au support technique de l'autorité auprès de laquelle le dossier est consulté.]<sup>1</sup>
+
+Des réactions de participation qui demandent de revenir sur l'arrêté relatif à la préférence sont irrecevables.
+
+Le Gouvernement flamand fixe les modalités de l'enquête publique.
+
+§ 2. Lorsque le projet d'arrêté relatif au projet peut avoir un impact considérable pour l'homme ou l'environnement dans d'autres Etats membres de l'Union européenne, dans des parties contractantes de la Convention d'Espoo ou dans d'autres régions, ou lorsque les autorités compétentes de ces Etats membres, parties contractantes ou régions le demandent, le responsable du processus soumet les documents, visés au paragraphe 1er, alinéa deux, à l'avis des autorités compétentes des Etats membres, des parties contractantes ou des régions concerné(e)s, en ce qui concerne l'impact considérable pour l'homme ou l'environnement.
+
+Le Gouvernement flamand peut fixer les modalités de la manière dont les autorités compétentes et les citoyens des Etats membres, des parties contractantes ou des régions peuvent communiquer leur opinion sur le projet d'EIE et le projet d'arrêté relatif au projet, ainsi que de la manière dont la concertation à ce sujet a lieu.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/57, art. 14, 010; En vigueur : 27-06-2024&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 134, 011; En vigueur : indéterminée &gt;
+
+##### Art. 25
+
+[<sup>1</sup> Le Centre d'Expertise flamand R.I.E.]<sup>1</sup> évalue la qualité du projet d'EIE et confronte le projet d'EIE sur le plan du contenu à la décision, visée à l'article 18, § 3, et aux exigences sur le plan du contenu, visées à l'article 20, alinéa premier.
+
+Avant de fixer définitivement le projet d'arrêté relatif au projet, [<sup>1</sup> le Centre d'Expertise flamand R.I.E.]<sup>1</sup> décide de l'approbation ou de la désapprobation de l'EIE. Il transmet cette décision au responsable du processus ainsi qu'aux instances et aux autorités compétentes desquelles, conformément à l'article 18, § 2, et à l'article 21, § 2, l'avis a été demandé.
+
+En cas de désapprobation, le service compétent pour l'évaluation de l'impact sur l'environnement indique où l'EIE n'est pas à la hauteur. La décision mentionne que le responsable du processus peut introduire une demande motivée de reconsidération contre la décision de désapprobation.
+
+Le Gouvernement flamand fixe les modalités de la procédure de reconsidération, visée à l'alinéa trois. Il peut fixer les modalités de la publication de la décision, visée à l'alinéa deux.
+
+----------
+
+(1)&lt;DCFL 2024-05-17/53, art. 135, 011; En vigueur : 01-12-2025&gt;
+
+##### Art. 25 DROIT FUTUR
+
+&lt;Abrogé par DCFL 2024-05-17/53, art. 136, 011; En vigueur : indéterminée &gt;
+
+#### Sous-section 5. - Arrêté relatif au projet
+
+##### Art. 26
+
+L'autorité compétente, visée à l'article 6, fixe définitivement l'arrêté relatif au projet.
+
+Les dispositions de l'article 16, § 1er, [<sup>3</sup> alinéas 2 à 5]<sup>3</sup>, s'appliquent par analogie à la décision de fixation définitive de l'arrêté relatif au projet.
+
+L'arrêté relatif au projet fixé définitivement a la même répartition telle que visée à l'article 23, alinéa trois [<sup>1</sup> et comprend en plus une conclusion motivée concernant les incidences notables du projet sur l'environnement. Lors de la prise de la conclusion motivée, il est tenu compte de la décision relative à l'approbation du MER, [<sup>2</sup> du Centre d'Expertise flamand R.I.E.]<sup>2</sup> et des avis et de la participation des citoyens dans le cadre de l'arrêté relatif au projet]<sup>1</sup>.
+
+Lorsque l'alternative qui est choisie dans l'arrêté relatif à la préférence au niveau stratégique résulte en différents projets concrets, l'arrêté relatif au projet donne pour information l'état de réalisation de l'arrêté relatif à la préférence et des autres arrêtés relatifs au projet qui y sont liés.
+
+Lors de la fixation définitive de l'arrêté relatif au projet, il est uniquement possible d'apporter des modifications par rapport au projet de l'arrêté relatif au projet qui sont basées sur ou découlent de l'EIE approuvé ou des réactions de participation, visées à l'article 24.
+
+----------
+
+(1)&lt;DCFL 2016-12-23/58, art. 19, 003; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 137, 011; En vigueur : 01-12-2025&gt;
+
+(3)&lt;DCFL 2026-06-26/21, art. 117, 013; En vigueur : 20-08-2026&gt;
+
+##### Art. 26 DROIT FUTUR
+
+L'autorité compétente, visée à l'article 6, fixe définitivement l'arrêté relatif au projet.
+
+Les dispositions de l'article 16, § 1er, alinéas deux à quatre inclus, s'appliquent par analogie à la décision de fixation définitive de l'arrêté relatif au projet.
+
+L'arrêté relatif au projet fixé définitivement a la même répartition telle que visée à l'article 23, alinéa trois [<sup>1</sup> et comprend en plus une conclusion motivée concernant les incidences notables du projet sur l'environnement. Lors de la prise de la conclusion motivée, il est tenu compte de [<sup>3</sup> l'avis du Centre d'Expertise flamand R.I.E., visé à l'article 21, § 3,]<sup>3</sup> et des avis et de la participation des citoyens dans le cadre de l'arrêté relatif au projet]<sup>1</sup>.
+
+Lorsque l'alternative qui est choisie dans l'arrêté relatif à la préférence au niveau stratégique résulte en différents projets concrets, l'arrêté relatif au projet donne pour information l'état de réalisation de l'arrêté relatif à la préférence et des autres arrêtés relatifs au projet qui y sont liés.
+
+Lors de la fixation définitive de l'arrêté relatif au projet, il est uniquement possible d'apporter des modifications par rapport au projet de l'arrêté relatif au projet qui sont basées sur ou découlent de l'EIE [<sup>3</sup> ...]<sup>3</sup> ou des réactions de participation, visées à l'article 24.
+
+----------
+
+(1)&lt;DCFL 2016-12-23/58, art. 19, 003; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2024-05-17/53, art. 137, 011; En vigueur : 01-12-2025&gt;
+
+(3)&lt;DCFL 2024-05-17/53, art. 138, 011; En vigueur : indéterminée &gt;
+
+#### Sous-section 6. - Publication et entrée en vigueur
+
+##### Art. 27
+
+§ 1er. L'arrêté relatif au projet est [<sup>1</sup> ...]<sup>1</sup> publié par extrait au Moniteur belge après la fixation définitive.
+
+Le Gouvernement flamand peut fixer d'autres manières dont le public est mis au courant de l'arrêté relatif au projet fixé définitivement.
+
+§ 2. Une copie de l'arrêté relatif au projet fixé définitivement [<sup>2</sup> est envoyée aux instances suivantes, sauf si cette instance est l'autorité compétente]<sup>2</sup> :
+
+1° au Gouvernement flamand ;
+
+2° aux provinces et aux communes dont la zone est couverte en entier ou en partie par l'arrêté relatif au projet ;
+
+3° aux instances et aux autorités compétentes desquelles, conformément à l'article 18, § 2, et à l'article 21, § 2, l'avis a été demandé.
+
+Le Gouvernement flamand peut fixer des modalités relatives à la notification, visée à l'alinéa premier, dont les délais et le mode de notification.
+
+§ 3. L'arrêté relatif au projet entre en vigueur dix jours après la publication au Moniteur belge.
+
+----------
+
+(1)&lt;DCFL 2024-04-26/57, art. 15, 010; En vigueur : 27-06-2024&gt;
+
+(2)&lt;DCFL 2026-06-26/21, art. 118, 013; En vigueur : 20-08-2026&gt;
+
+## CHAPITRE 3. - Effet prolongé de l'arrêté relatif à la préférence et de l'arrêté relatif au projet
+
+### Section 1re. - Effets juridiques
+
+##### Art. 28
+
+L'arrêté relatif à la préférence peut impliquer une interdiction de bâtir ou des restrictions de construction. Elles sont indiquées dans le plan graphique visé à l'article 14, alinéa deux, 2°.
+
+##### Art. 29
+
+Un permis, une autorisation ou une permission peut être refusé(e) lorsque la demande est incompatible [<sup>1</sup> avec l'arrêté relatif à la préférence ou avec le projet d'arrêté relatif au projet ]<sup>1</sup>. Dans les zones où, en application de l'article 28, une interdiction de bâtir ou des restrictions de construction sont imposées, un permis, une autorisation ou une permission est refusé(e) lorsque ce qui est demandé relève de cette interdiction ou de ces restrictions.
+
+[<sup>1</sup> Si l'arrêté relatif au projet comprend une partie identifiable qui, conformément à l'article 23, est considérée comme un plan d'exécution spatial, il peut être dérogé dans un permis d'environnement aux prescriptions urbanistiques dès que l'organe d'administration de délivrance du permis a pris connaissance des résultats de l'enquête publique relative au projet d'arrêté avec lequel les actes demandés sont compatibles, dans la mesure où :
+
+1° le projet d'arrêté relatif au projet remplace ou abroge de plein droit les prescriptions urbanistiques existantes ;
+
+2° le Gouvernement flamand ou la députation ne constate aucune incompatibilité entre le projet d'arrêté relatif au projet et des plans de niveau supérieur ou d'autres normes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-26/21, art. 119, 013; En vigueur : 20-08-2026&gt;
+
+##### Art. 30
+
+L'arrêté relatif à la préférence ou l'arrêté relatif au projet peut désigner des instances ou des personnes qui sont autorisées à accéder à la zone qui est choisie par l'alternative au niveau stratégique ou au niveau d'exécution afin d'effectuer toutes les constatations nécessaires et d'exécuter tous les examens nécessaires. Les constatations ou examens ne peuvent pas avoir les caractéristiques d'une perquisition.
+
+##### Art. 31
+
+§ 1er. Chaque acquisition de biens immobiliers, exigée pour la réalisation de l'arrêté relatif à la préférence ou de l'arrêté relatif au projet, peut être réalisée par l'expropriation pour cause d'utilité publique.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-02-24/22, art. 121, 007; En vigueur : 01-01-2018&gt;
+
+##### Art. 32
+
+Lorsque l'arrêté relatif au projet comprend une partie identifiable qui, conformément à l'article 23, vaut comme plan d'exécution spatial, et un plan d'alignement est établi en même temps, ce plan d'alignement est soumis en même temps que l'arrêté relatif au projet aux règles de procédure qui sont fixées pour la fixation de l'arrêté relatif au projet.
+
+Avant le début de l'enquête publique sur le projet d'arrêté relatif au projet et de plan d'alignement, les propriétaires des biens immobiliers qui se situent dans le périmètre des parcelles en question sont informés, par envoi sécurisé, du fait que le projet de plan d'alignement est mis à disposition pour consultation à la maison communale.
+
+##### Art. 33
+
+Lorsque l'arrêté relatif au projet comprend une partie identifiable qui, conformément à l'article 23, vaut comme plan d'exécution spatial, et l'instrument du relotissement est appliqué en vertu de la loi avec échange planologique tel que visé à la partie 2 du décret du 28 mars 2014 en matière de rénovation rurale, alors l'autorité qui est compétente pour fixer l'arrêté relatif au projet fixe la zone qui est éligible à un relotissement en vertu de la loi avec échange planologique. Elle le fait au sein de la zone de plan de la partie identifiable qui vaut comme plan d'exécution spatial.
+
+Le plan d'échange de terres pour le relotissement en vertu de la loi avec échange planologique est soumis en même temps que l'arrêté relatif au projet aux règles de procédure qui sont fixées pour la fixation de l'arrêté relatif au projet.
+
+Avant le début de l'enquête publique sur le projet de l'arrêté relatif au projet et le plan d'échange de terres, les propriétaires, usufruitiers ou usagers de biens immobiliers qui font partie de l'ensemble de biens immobiliers au sein du relotissement sont mis au courant de son état, tel que repris dans le plan d'échange de terres, et de la possibilité d'introduire des avis, des remarques ou une objection lors de l'enquête publique, conformément à l'article 2.1.65, § 6, du décret du 28 mars 2014 en matière de rénovation rurale.
+
+##### Art. 34
+
+La Région flamande, les provinces, les communes, les intercommunales, les organismes qui relèvent de la Région flamande, les provinces et les communes, ainsi que les sociétés qui disposent d'un agrément de ces organismes ou administrations peuvent, en vue de la réalisation d'un arrêté relatif à la préférence ou d'un arrêté relatif au projet, exercer un droit de préemption lors de la vente d'un bien immobilier qui se situe au sein des zones qui sont délimitées comme des zones où le droit de préemption s'applique dans le plan graphique ou dans la partie identifiable qui vaut comme plan d'exécution spatial.
+
+Les personnes morales, visées à l'alinéa premier, peuvent, en vue de la réalisation d'un arrêté relatif à la préférence ou d'un arrêté relatif au projet, demander la " Vlaamse Grondenbank " (Banque foncière flamande) d'exercer le droit de préemption, en leur nom et pour leur compte et dans les limites des conditions fixées par elles, lors de la vente de biens immobiliers qui se situent au sein des zones qui sont délimitées comme des zones où le droit de préemption s'applique dans le plan graphique ou dans la partie identifiable qui vaut comme plan d'exécution spatial.
+
+Les propriétaires des biens immobiliers qui sont grevés du droit de préemption en sont mis au courant, au plus tard le jour de l'entrée en vigueur de l'arrêté relatif à la préférence ou de l'arrêté relatif au projet, par un envoi sécurisé à leur domicile. Les propriétaires sont déterminés sur la base des données cadastrales. L'envoi sécurisé comprend les adresses d'une ou de plusieurs instances qui doivent être contactées pour une offre éventuelle du droit de préemption.
+
+Le titre IV, chapitres Ier et VI, du décret du 16 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions s'appliquent à ce droit de préemption.
+
+Le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'applique à ce droit de préemption.
+
+##### Art. 35
+
+Après l'entrée en vigueur de l'arrêté relatif à la préférence, aucun arrêté de protection ne peut plus être pris lorsque cette protection met manifestement en cause la réalisation de l'arrêté relatif à la préférence.
+
+L'alinéa premier s'applique à la protection :
+
+1° [<sup>1</sup> ...]<sup>1</sup> ;
+
+2° [<sup>1</sup> ...]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>;
+
+4° comme zone de dunes, en application du décret du 21 décembre 1994 portant ratification de l'arrêté du Gouvernement flamand du 16 novembre 1994 relatif à la désignation définitive des zones de dunes protégées et des zones agricoles ayant une importance pour les dunes et portant modification de la loi du 12 juillet 1973 relative à la conservation de la nature ;
+
+5° comme réserve forestière, en application du décret forestier du 13 juin 1990 ;
+
+6° comme réserve naturelle, en application du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel;
+
+[<sup>1</sup> 7° comme site archéologique, comme monument, comme paysage culturo-historique ou comme site urbain ou rural protégé en application de la loi du 7 août 1931 sur la conservation des monuments et des sites, du décret du 3 mars 1976 réglant la protection des monuments et des sites urbains et ruraux, du décret du 30 juin 1993 portant protection du patrimoine archéologique, du décret du 16 avril 1996 portant la protection des sites ruraux et du décret relatif au Patrimoine immobilier du 12 juillet 2013.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 123, 002; En vigueur : 08-01-2016&gt;
+
+##### Art. 36
+
+Les effets juridiques liés à un arrêté relatif à la préférence, visés aux articles 28 à 30 inclus, et à l'article 35, expirent de plein droit :
+
+1° trois ans après l'entrée en vigueur de l'arrêté relatif à la préférence ;
+
+2° lors de l'entrée en vigueur d'un arrêté relatif au projet pour la zone sur laquelle porte l'arrêté relatif au projet ;
+
+3° à l'expiration d'un arrêté relatif à la préférence conformément à l'article 43.
+
+Les effets juridiques liés à un arrêté relatif à la préférence, visés aux articles 31 et 34, expirent de plein droit à l'expiration d'un arrêté relatif à la préférence conformément à l'article 43.
+
+L'arrêté relatif au projet peut fixer quels effets juridiques, visés à l'article 31 et 34, expirent à l'entrée en vigueur d'un arrêté relatif au projet pour la zone sur laquelle porte l'arrêté relatif au projet.
+
+L'autorité qui a fixé l'arrêté relatif à la préférence peut prolonger le délai de trois ans, visé à l'alinéa premier, d'un délai supplémentaire de trois ans au maximum.
+
+Le délai, visé à l'alinéa premier, ou, le cas échéant, les délais prolongés, visés à l'alinéa quatre, sont suspendus tant qu'un recours d'annulation est en cours auprès du [<sup>1</sup> Conseil du Contentieux des Permis]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2023-07-14/19, art. 15, 009; En vigueur : 31-12-2024&gt;
+
+### Section 2. - Effet prolongé de l'arrêté relatif au projet
+
+##### Art. 37
+
+§ 1er. En application de l'article 26, alinéa trois, l'arrêté relatif au projet fixé définitivement comprend le cas échéant une partie identifiable qui vaut comme plan d'exécution spatial. Suivant l'autorité qui fixe l'arrêté relatif au projet, cette partie est considérée comme :
+
+1° un plan d'exécution spatial régional fixé définitivement ;
+
+2° un plan d'exécution spatial provincial approuvé ;
+
+3° un plan d'exécution spatial communal approuvé.
+
+La partie identifiable qui vaut comme plan d'exécution spatial remplace, pour le territoire sur lequel il porte, les prescriptions des plans d'aménagement et des plans d'exécution spatiaux, sauf disposition contraire explicite de l'arrêté relatif au projet.
+
+§ 2. Après l'entrée en vigueur de l'arrêté relatif au projet, les niveaux de planification compétents peuvent, conformément au Code flamand de l'Aménagement du Territoire, remplacer la partie qui vaut comme plan d'exécution spatial, en entier ou en partie, dans les limites de leurs propres compétences de planification. Le cas échéant, le principe que des plans d'exécution spatiaux inférieurs ne peuvent pas déroger à des plans d'exécution spatiaux supérieurs, visé à [<sup>1</sup> l'article 2.2.12, § 1er, alinéa 3, et à l'article 2.2.18, § 1er, alinéa 3]<sup>1</sup>, du Code précité, est laissé hors d'application.
+
+----------
+
+(1)&lt;DCFL 2016-07-01/23, art. 64, 004; En vigueur : 01-05-2017&gt;
+
+##### Art. 38
+
+L'arrêté relatif au projet fixé définitivement est, le cas échéant, considéré de plein droit comme la notification, visée à :
+
+1° l'article 106 du décret du 25 avril 2014 relatif au permis unique ;
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-06-30/08, art. 116, 005; En vigueur : 17-07-2017&gt;
+
+##### Art. 39
+
+L'arrêté relatif au projet fixé définitivement vaut, le cas échéant, comme permis unique, visé au décret du 25 avril 2014 relatif au permis unique.
+
+##### Art. 40
+
+L'arrêté relatif au projet fixé définitivement vaut, le cas échéant, comme les décisions suivantes :
+
+1° les permis, dispenses ou dérogations, octroyé(e)s par ou en vertu du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel ;
+
+2° [<sup>3</sup> la décision relative à la construction, à la modification, au déplacement ou à la suppression d'une route communale, visée à l'article 8 du décret du 3 mai 2019 sur les routes communales et aux articles 31 et 65 du décret du 25 avril 2014 relatif au permis d'environnement]<sup>3</sup>;
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+4° [<sup>1</sup> les permis, autorisations et permissions visés dans la loi du 7 août 1931 sur la conservation des monuments et des sites, le décret du 3 mars 1976 réglant la protection des monuments et des sites urbains et ruraux, le décret du 30 juin 1993 portant protection du patrimoine archéologique, le décret du 16 avril 1996 portant la protection des sites ruraux et le décret relatif au Patrimoine immobilier du 12 juillet 2013 ;]<sup>1</sup>
+
+5° les attestations de conformité, visées aux articles 50 et 58 du décret du 27 octobre 2006 relatif à l'assainissement du sol et à la protection du sol ;
+
+6° les autorisations, visées aux [<sup>4</sup> articles 12 et 23ter]<sup>4</sup> de la loi du 28 décembre 1967 relative aux cours d'eau non navigables ;
+
+7° [<sup>2</sup> les autorisations visées à l'article 4.3.8, § 1er, alinéa trois du Code flamand de l'Aménagement du Territoire]<sup>2</sup> ;
+
+8° les permis, autorisations ou dérogations, octroyé(e)s par ou en vertu du décret forestier du 13 juin 1990, sous réserve de ceux visés/celles visées à l'[<sup>4</sup> article 90bis, § 1er, alinéa 3]<sup>4</sup> ;
+
+9° l'autorisation, visée à l'article 89 de l'arrêté royal du 15 octobre 1935 portant le Règlement général des voies navigables du Royaume ;
+
+10° [<sup>3</sup> 10° les dérogations, [<sup>4</sup> visées à l'article 4, § 2, de la loi du 12 juillet 1956 établissant le statut des autoroutes, et à l'article 4]<sup>4</sup> et 5 de l'arrêté du Gouvernement flamand du 25 janvier 2019 concernant les zones de dégagement établies le long des autoroutes]<sup>3</sup> ;
+
+11° les permissions ou autorisations, octroyées par ou en vertu du décret du 16 avril 1996 relatif aux retenues d'eau.
+
+L'arrêté relatif au projet fixé définitivement indique comme laquelle de ces décisions il vaut.
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 124, 002; En vigueur : 08-01-2016&gt;
+
+(2)&lt;DCFL 2019-05-03/47, art. 79, 008; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2024-04-26/57, art. 16, 010; En vigueur : 27-06-2024&gt;
+
+(4)&lt;DCFL 2026-06-26/21, art. 120, 013; En vigueur : 20-08-2026&gt;
+
+##### Art. 41
+
+L'arrêté relatif au projet fixé définitivement comprend le cas échéant :
+
+1° [<sup>1</sup> ...]<sup>1</sup>;
+
+2° [<sup>1</sup> ...]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>;
+
+4° [<sup>1</sup> ...]<sup>1</sup>;
+
+5° [<sup>1</sup> ...]<sup>1</sup>;
+
+6° la décision de dispense de l'interdiction d'octroyer un permis unique de déboisement ou de lotissement de terrains pour des terrains boisés, en entier ou en partie, visée à l'article 90bis, § 1er, alinéa dernier, du décret forestier du 13 juin 1990 ;
+
+7° la décision d'abrogation ou de modification, en entier ou en partie, de la protection comme réserve forestière, en application du décret forestier du 13 juin 1990 ;
+
+8° la décision d'abrogation ou de modification, en entier ou en partie, de la protection comme réserve naturelle, en application du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel ;
+
+9° la décision d'abrogation, en entier ou en partie, d'un plan de délimitation pour une grande unité de nature ou une grande unité de nature en voie de développement fixé suivant l'article 21 du décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel;
+
+[<sup>1</sup> 10° la décision de modification ou d'abrogation, en tout ou en partie, des décisions d'agrément, de classement et de protection prises en application de la loi du 7 août 1931 sur la conservation des monuments et des sites, du décret du 3 mars 1976 réglant la protection des monuments et des sites urbains et ruraux, du décret du 30 juin 1993 portant protection du patrimoine archéologique, du décret du 16 avril 1996 portant la protection des sites ruraux et du Décret relatif au Patrimoine immobilier du 12 juillet 2013.]<sup>1</sup>
+
+Lorsque le conseil communal ou le conseil provincial fixe un arrêté relatif au projet qui comprend une décision, visée à l'alinéa premier, l'arrêté relatif au projet ne produit ses effets qu'après la ratification de l'arrêté relatif au projet par le Gouvernement flamand, sans préjudice de l'article 27, § 3.
+
+L'arrêté relatif au projet fixé définitivement indique comme laquelle de ces décisions il vaut.
+
+----------
+
+(1)&lt;DCFL 2015-12-18/24, art. 125, 002; En vigueur : 08-01-2016&gt;
+
+## CHAPITRE 4. - Phase d'exécution et monitoring
+
+##### Art. 42
+
+Dans la phase d'exécution, l'autorité qui a fixé l'arrêté relatif au projet examine les conséquences considérables pour l'environnement de la mise en oeuvre de la partie de l'arrêté relatif au projet qui vaut comme plan d'exécution spatial, entre autres afin de pouvoir identifier des conséquences négatives imprévues dans un stade précoce et de pouvoir prendre les mesures réparatrices appropriées.
+
+Afin de répondre aux dispositions de l'alinéa premier, les règlements de monitoring existants peuvent être utilisés, si tel est approprié, pour éviter le chevauchement du monitoring.
+
+Le Gouvernement flamand peut fixer les modalités du monitoring.
+
+## CHAPITRE 5. - Expiration de l'arrêté relatif à la préférence et de l'arrêté relatif au projet
+
+### Section 1re. - Expiration de l'arrêté relatif à la préférence
+
+##### Art. 43
+
+L'arrêté relatif à la préférence est abrogé de plein droit lorsque, dans les six ans après son entrée en vigueur, aucun premier arrêté relatif au projet n'est fixé définitivement.
+
+Tant qu'il n'y a pas d'arrêté relatif au projet fixé définitivement, l'autorité qui a fixé l'arrêté relatif à la préférence peut abroger l'arrêté relatif à la préférence fixé définitivement par elle.
+
+Le délai d'expiration, visé à l'alinéa premier, est suspendu tant qu'un recours d'annulation de l'arrêté relatif à la préférence est en cours auprès du [<sup>1</sup> Conseil du Contentieux des Permis]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2023-07-14/19, art. 16, 009; En vigueur : 31-12-2024&gt;
+
+### Section 2. - Expiration de l'arrêté relatif au projet
+
+##### Art. 44
+
+A l'exception de la partie identifiable de l'arrêté relatif au projet qui vaut comme plan d'exécution spatial et le plan d'alignement ou plan d'échange de terres y lié, l'arrêté relatif au projet expire dans chacun des cas suivants :
+
+1° la réalisation de l'arrêté relatif au projet n'est pas démarrée dans les cinq ans après l'entrée en vigueur de l'arrête relatif au projet ;
+
+2° les travaux sont interrompus pendant plus de trois années consécutives.
+
+L'autorité qui a fixé l'arrêté relatif au projet peut prolonger les délais de cinq ans et de trois ans, visés à l'alinéa premier, de manière motivée.
+
+Les délais, visés à l'alinéa premier, ou, le cas échéant, les délais prolongés, visés à l'alinéa deux, sont suspendus tant qu'un recours d'annulation de l'arrêté relatif au projet est en cours auprès du [<sup>1</sup> Conseil du Contentieux des Permis]<sup>1</sup>.
+
+Lorsque l'arrêté relatif au projet mentionne explicitement les différentes phases du projet, les délais, visés à l'alinéa premier et à l'alinéa deux, sont comptés par phase. Pour la deuxième phase et les phases suivantes, les délais d'expiration seront, de ce fait, comptés à partir de la date de début de la phase en question.
+
+L'expiration d'un arrêté relatif au projet vaut uniquement pour la partie non achevée d'un projet. Une partie est achevée lorsqu'elle peut être considérée, le cas échéant après la démolition des parties non achevées, comme une construction séparée qui répond aux exigences physiques relatives à la construction.
+
+----------
+
+(1)&lt;DCFL 2023-07-14/19, art. 17, 009; En vigueur : 31-12-2024&gt;
+
+## CHAPITRE 6. - Recours
+
+##### Art. 45
+
+[<sup>1</sup> L'arrêté relatif à la préférence fixé définitivement et l'arrêté relatif au projet fixé définitivement peuvent être contestés par un recours devant le Conseil du Contentieux des Permis, par chaque partie qui fait preuve d'un préjudice ou d'un intérêt, en application des règles en matière de règlement des différends devant cette juridiction, fixées par ou en vertu du décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes. ]<sup>1</sup>.
+
+Le recours contre un arrêté relatif au projet fixé définitivement ne peut plus avoir trait au contenu et aux effets juridiques de l'arrêté relatif à la préférence.
+
+[<sup>1</sup> Les recours visés à l'alinéa 1er sont introduits dans un délai de soixante jours, qui commence l'un des jours suivants :
+
+1° le jour suivant la notification de l'arrêté par envoi sécurisé, si une telle notification est requise ;
+
+2° le jour suivant la publication de l'arrêté au Moniteur belge, dans les cas autres que le cas visé au point 1°.
+
+Chaque partie qui fait preuve d'un préjudice ou d'un intérêt peut intervenir dans l'affaire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-07-14/19, art. 18, 009; En vigueur : 31-12-2024&gt;
+
+## CHAPITRE 7. - Maintien
+
+##### Art. 46
+
+Le présent décret ne porte pas préjudice aux dispositions de maintien qui sont fixées par le ou en vertu du Code flamand de l'Aménagement du Territoire, par le ou en vertu du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et par les ou en vertu des lois et décrets, visés aux articles 39, 40 et 41.
+
+## CHAPITRE 8. - Dispositions modificatives
+
+### Section 1re.
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+##### Art. 47
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+##### Art. 48
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+### Section 2.
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+##### Art. 49
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+##### Art. 50
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+### Section 3.
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+##### Art. 51
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+##### Art. 52
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+##### Art. 53
+
+&lt;Abrogé par DCFL 2015-12-18/24, art. 126, 002; En vigueur : 08-01-2016&gt;
+
+### Section 4. - Modifications du Code flamand de l'Aménagement du Territoire
+
+##### Art. 54
+
+Dans l'article 1.1.2 du Code flamand de l'Aménagement du Territoire, modifié par le décret du 11 mai 2012, sont apportées les modifications suivantes :
+
+1° il est inséré un point 9° /1, rédigé comme suit :
+
+" 9° /1 arrêté relatif au projet : un arrêté tel que visé à l'article 2, 10°, du décret du 25 avril 2014 relatif aux projets complexes ; " ;
+
+2° le point 13° est complété par un point d), rédigé comme suit :
+
+" d) la partie identifiable d'un arrêté relatif au projet qui vaut comme plan d'exécution spatial ; " ;
+
+3° il est ajouté un point 18°, rédigé comme suit :
+
+" 18° arrêté relatif à la préférence : un arrêté tel que visé à l'article 2, 19°, du décret du 25 avril 2014 relatif aux projets complexes. ".
+
+##### Art. 55
+
+Le titre II, chapitre VI, du même Code, modifié par les décrets des 18 décembre 2009, 16 juillet 2010 et 8 juillet 2011, est complété par une section 3, rédigée comme suit :
+
+" Section 3. - Décret relatif aux projets complexes ".
+
+##### Art. 56
+
+Dans le titre II, chapitre VI, section 3, du même Code, ajouté par l'article 55, il est inséré un article 2.6.20, rédigé comme suit :
+
+" Art. 2.6.20. Les dispositions du présent chapitre s'appliquent par analogie aux modifications d'affectation qui sont effectuées dans un arrêté relatif au projet. ".
+
+##### Art. 57
+
+Dans le même Code, le titre III, qui comprend les articles 3.1.1 à 3.2.4 inclus, est abrogé.
+
+##### Art. 58
+
+L'article 4.1.1, 1°, du même Code, est complété par un point e), rédigé comme suit :
+
+" e) la partie identifiable d'un arrêté relatif au projet qui vaut comme plan d'exécution spatial, dans quel cas elle a trait à la description de l'affectation d'une zone conformément à l'article 2.2.2, § 1er, alinéa premier, 2° ; ".
+
+##### Art. 59
+
+Dans l'article 5.1.1, § 1er, alinéa premier, du même Code, sont apportées les modifications suivantes :
+
+1° dans le point 1°, les mots " des plans d'exécution spatiaux et des plans d'aménagement " sont remplacés par les mots des plans d'exécution spatiaux, des arrêtés relatif à la préférence, des arrêtés relatif au projet et des plans d'aménagement " et les mots " de tels plans " sont remplacés par les mots " de tels plans ou arrêtés " ;
+
+2° dans le point 2°, les mots " comme mentionné dans l'article 2.4.1 " sont remplacés par les mots " visé à l'article 2.4.1 ou à l'article 34 du décret du 25 avril 2014 relatif aux projets complexes ".
+
+##### Art. 60
+
+L'article 5.1.2, § 1er, alinéa deux, du même Code, est complété par les points 13° à 15° inclus, rédigés comme suit :
+
+" 13° chaque arrêté relatif au projet lorsqu'on s'y prononce sur des actes urbanistiques soumis à un permis ou sur le lotissement de terres ;
+
+14° chaque décision administrative et judiciaire ayant trait aux arrêtés relatifs au projet, visés au point 13°, et l'identité des personnes qui forment un recours ;
+
+15° l'expiration des arrêtés relatifs au projet, visés au point 13°. ".
+
+##### Art. 61
+
+Dans l'article 5.1.4, § 1er, du même Code, modifié par le décret du 16 juillet 2010, les mots " du présent code " sont chaque fois remplacés par les mots " du présent Code ou du décret du 25 avril 2014 relatif aux projets complexes ".
+
+##### Art. 62
+
+Dans l'article 5.2.1, § 1er, alinéa premier, du même Code, sont apportées les modifications suivantes :
+
+1° le point 4° est complété par les mots " ou à l'article 34 du décret du 25 avril 2014 relatif aux projets complexes " ;
+
+2° il est ajouté un point 7°, rédigé comme suit :
+
+" 7° si le bien immobilier fait l'objet d'un arrêté relatif à la préférence ou d'un arrêté relatif au projet. ".
+
+### Section 5. - Modifications du décret du 27 octobre 2006 relatif à l'assainissement du sol et à la protection du sol
+
+##### Art. 63
+
+Dans l'article 5, § 1er, du décret du 27 octobre 2006 relatif à l'assainissement du sol et à la protection du sol, les mots " ou du décret du 25 avril 2014 relatif aux projets complexes " sont ajoutés après les mots " qui lui sont transmises dans le cadre du présent décret ".
+
+##### Art. 64
+
+Dans l'article 10, § 2, alinéa deux, du même décret, les mots " d'un projet de plan d'aménagement ou de plan d'exécution arrêté provisoirement " sont remplacés par les mots " d'un projet de plan d'aménagement, d'un plan d'exécution spatial ou d'un arrêté relatif au projet fixé provisoirement ".
+
+##### Art. 65
+
+Dans l'article 21, § 1er, alinéa deux, du même décret, les mots " d'un projet de plan d'aménagement ou de plan d'exécution arrêté provisoirement " sont remplacés par les mots " d'un projet de plan d'aménagement, d'un plan d'exécution spatial ou d'un arrêté relatif au projet fixé provisoirement ".
+
+## CHAPITRE 9. - Dispositions transitoires et finales
+
+##### Art. 66
+
+§ 1er. Les arrêtés relatifs au projet fixés définitivement avant la date d'entrée en vigueur du décret du 25 avril 2014 relatif au permis unique valent, le cas échéant, comme :
+
+1° le permis urbanistique, visé à l'article 4.2.1 du Code flamand de l'Aménagement du Territoire ;
+
+2° le permis de lotir, visé à l'article 4.2.15 du Code flamand de l'Aménagement du Territoire ;
+
+3° le permis environnemental, visé à l'article 4, § 1er, du décret du 28 juin 1985 relatif à l'autorisation écologique.
+
+L'arrêté relatif au projet indique comme lequel de ces permis il vaut.
+
+§ 2. Les arrêtés relatifs au projet fixés définitivement avant la date d'entrée en vigueur du décret du 25 avril 2014 relatif au permis unique sont, le cas échéant, considérés de plein droit comme :
+
+1° la notification urbanistique, visée à l'article 4.2.2 du Code flamand de l'Aménagement du Territoire ;
+
+2° la notification environnementale, visée à l'article 4, § 2, du décret du 28 juin 1985 relatif à l'autorisation écologique.
+
+##### Art. 67
+
+Le présent décret entre en vigueur à une date à fixer par le Gouvernement flamand.
+
+(NOTE : Entrée en vigueur fixée au 01-03-2015 par AGF 2014-12-12/11, art. 49,1°)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 avril 2014.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+La Ministre flamande de l'Environnement, de la Nature et de la Culture,
+
+J. SCHAUVLIEGE
+
+Le Ministre flamand des Finances, du Budget, de l'Emploi, de l'Aménagement du Territoire et des Sports,
+
+Ph. MUYTERS

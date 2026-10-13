@@ -1,0 +1,73 @@
+---
+title: "Décret portant assentiment à l'Accord Européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996"
+identifier: "2014035589"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035589/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2014-04-25
+published: 2014-08-19
+entry_into_force: 2014-08-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035589/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 25 AVRIL 2014. - Décret portant assentiment à l'Accord Européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+L'Accord Européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996, sortira son plein et entier effet.
+
+## Art. 3
+
+Les modifications de l'Accord Européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996, qui, en application de l'article 12 de l'accord, sont adoptées sans que le Parlement flamand s'y oppose, conformément à l'alinéa trois du présent article, sortiront leur plein et entier effet.
+
+Le Gouvernement flamand communique chaque proposition d'une telle modification de l'accord, que reçoivent les parties du Secrétaire général des Nations unies conformément à l'article 12.3 de l'accord, dans un délai de deux mois au Parlement flamand.
+
+Dans un délai de six mois après la communication du Gouvernement flamand conformément à l'alinéa deux du présent article, le Parlement flamand peut s'y opposer qu'une telle modification sortirait son plein et entier effet.
+
+## Art. 4
+
+La modification des articles 12, 13 et 14 de l'accord qui a été communiquée le 7 août 2013 par le dépositaire (C.N.533.2013.TREATIES-XI.D.5) sortira, lorsqu'elle est adoptée en application de l'article 12 de l'accord, son plein et entier effet.
+
+## Art. 5
+
+§ 1er. Pour autant qu'il s'agisse de modifications où le Royaume de Belgique est une Partie contractante directement concernée, les modifications de l'annexe I et II de l'Accord Européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996, qui, en application de l'article 13 de l'accord, sont adoptées sans que le Parlement flamand s'y oppose, conformément à l'alinéa trois du présent paragraphe, sortiront leur plein et entier effet.
+
+Le Gouvernement flamand communique chaque proposition d'une telle modification de l'accord, que reçoit le Royaume de Belgique du Secrétaire général des Nations unies conformément à l'article 13.3 de l'accord, dans un délai d'un mois au Parlement flamand.
+
+Dans un délai de trois mois après la communication du Gouvernement flamand conformément à l'alinéa deux du présent paragraphe, le Parlement flamand peut s'y opposer qu'une telle modification sortirait son plein et entier effet.
+
+§ 2. Les modifications de l'annexe I et II de l'Accord Européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996, qui, en application de l'article 13 de l'accord, sont adoptées et où le Royaume de Belgique n'est pas une Partie contractante directement concernée, sortiront leur plein et entier effet.
+
+## Art. 6
+
+Les modifications de l'annexe III de l'Accord Européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996, qui, en application de l'article 14 de l'accord, sont adoptées sans que le Parlement flamand s'y oppose, conformément à l'alinéa trois du présent article, sortiront leur plein et entier effet.
+
+Le Gouvernement flamand communique chaque proposition d'une telle modification de l'accord, que reçoivent les parties du Secrétaire général des Nations unies conformément à l'article14.3, dans un délai d'un mois au Parlement flamand.
+
+Dans un délai de trois mois après la communication du Gouvernement flamand conformément à l'alinéa deux du présent article, le Parlement flamand peut s'y opposer qu'une telle modification sortirait son plein et entier effet.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 25 avril 2014.
+
+Le Ministre-Président du Gouvernement flamand, Ministre flamand de l'Economie, de la Politique extérieure, de l'Agriculture et de la Ruralité,
+
+K. PEETERS
+
+La Ministre flamande de la Mobilité et des Travaux publics,
+
+H. CREVITS

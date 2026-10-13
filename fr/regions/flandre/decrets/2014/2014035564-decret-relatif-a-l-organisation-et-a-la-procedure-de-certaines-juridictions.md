@@ -1,0 +1,1663 @@
+---
+title: "Décret relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes"
+identifier: "2014035564"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035564/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2014-04-04
+published: 2014-10-01
+entry_into_force: 2014-11-01
+last_amended: 2026-08-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035564/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 01-10-2014 et mise à jour au 20-08-2026"
+retrieved: 2026-10-12
+---
+
+# 4 AVRIL 2014. - Décret relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+##### Art. 1er
+
+Le présent décret règle une matière communautaire et régionale.
+
+##### Art. 2
+
+Dans le présent décret, on entend par :
+
+1° juridiction administrative flamande : une des instances suivantes :
+
+a) [<sup>4</sup> le Collège de maintien]<sup>4</sup> de la Région flamande, établie par l'article 16.4.19, § 1er, alinéa premier, du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement [<sup>7</sup> et à laquelle des compétences [<sup>8</sup> peuvent également être attribuées]<sup>8</sup> [<sup>8</sup> au chapitre 10, sections 13 et 14,]<sup>8</sup> du Décret-cadre Maintien flamand du 14 juillet 2023 et des décrets qui déclarent applicable [<sup>8</sup> le chapitre 10, section 13 ou 14, du décret]<sup>8</sup> précité, conformément à l'article 3, alinéa 1er, du décret précité]<sup>7</sup> ;
+
+b) le Conseil pour les Contestations des Autorisations, établi par l'article 4.8.1 du Code flamand de l'Aménagement du Territoire [<sup>1</sup> NOTE : Ajout non traduit, voir version néerlandaise]<sup>1</sup> [<sup>6</sup> , l'article 45 du décret du 25 avril 2014 relatif aux projets complexes ]<sup>6</sup>[<sup>2</sup> et l'article 43 du décret flamand sur l'expropriation du 24 février 2017]<sup>2</sup>;
+
+c) le Conseil des Contestations électorales, établi par l'article 202 du Décret sur les Elections locales et provinciales du 8 juillet 2011 ;
+
+[<sup>5</sup> d) le Conseil de règlement des différends en matière de décisions sur la progression des études, établi par l'article II.285 du Code de l'Enseignement supérieur du 11 octobre 2013 ;]<sup>5</sup>
+
+2° juridictions administratives flamandes : l'ensemble des instances, visées au point 1° ;
+
+3° juge administratif : le juge administratif effectif, complémentaire ou suppléant [<sup>5</sup> ou l'assesseur]<sup>5</sup>;
+
+4° président : le président d'une juridiction administrative flamande ;
+
+5° assemblée générale : les juges administratifs effectifs des juridictions administratives flamandes, à l'exception des juges administratifs, visés à l'article 91, § 4, mais avec addition du président du Conseil des Contestations électorales ;
+
+6° premier président : le président de l'assemblée générale ;
+
+7° décision contestée : l'objet d'un recours juridictionnel pour lequel une juridiction administrative flamande est compétente ;
+
+8° envoi sécurisé : une des façons de notification suivantes :
+
+a) une lettre recommandée ;
+
+b) une remise contre récépissé ;
+
+c) toute autre modalité de notification autorisée par le Gouvernement flamand par laquelle la date de notification peut être établie avec certitude.
+
+[<sup>3</sup> 9° titulaire du permis : le titulaire du permis, visé à l'article 105, § 2, alinéa 1er, 1°, du décret du 25 avril 2014 relatif au permis d'environnement ;
+
+10° la personne qui a procédé à la notification : la personne qui a procédé à la notification, visée à l'article 105, § 2, alinéa 1er, 1°, du décret du 25 avril 2014 relatif au permis d'environnement. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 382, 004; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2017-12-08/06, art. 108, 009; En vigueur : 30-12-2017&gt;
+
+(3)&lt;DCFL 2021-05-21/15, art. 2, 014; En vigueur : 24-06-2021&gt;
+
+(4)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+(5)&lt;DCFL 2023-03-17/18, art. 11, 016; En vigueur : 01-09-2023&gt;
+
+(6)&lt;DCFL 2023-07-14/19, art. 11, 017; En vigueur : 31-12-2024&gt;
+
+(7)&lt;DCFL 2024-04-26/52, art. 105, 021; En vigueur : 07-09-2024&gt;
+
+(8)&lt;DCFL 2025-12-12/26, art. 2, 022; En vigueur : 25-01-2026&gt;
+
+##### Art. 3
+
+Le Gouvernement flamand détermine le siège des juridictions administratives flamandes et le publie au Moniteur belge.
+
+##### Art. 4
+
+Les crédits nécessaires pour le fonctionnement des juridictions administratives flamandes sont à charge du budget général des dépenses de la Communauté flamande.
+
+## CHAPITRE 2. - Aménagement
+
+### Section 1re. - Composition
+
+##### Art. 5
+
+Les juridictions administratives flamandes se composent d'au moins huit juges administratifs, parmi lesquels un premier président, des présidents et des présidents de chambre.
+
+Des juges administratifs qui sont nommés ou désignés auprès d'une juridiction administrative flamande, peuvent être mis à disposition d'une autre juridiction administrative flamande par le premier président, en faveur du bon fonctionnement des juridictions administratives flamandes.
+
+Si un juge administratif est mis à disposition conformément à l'alinéa deux, le premier président entend le juge administratif concerné et motive sa décision.
+
+La mise à disposition d'un juge administratif à une juridiction administrative flamande ne peut avoir lieu que dans la mesure où le juge administratif dispose de suffisamment de connaissances dans les domaines pour lesquels cette juridiction administrative flamande est compétente.
+
+Les juges administratifs complémentaires, visés à l'article 49, § 2, et l'article 91, § 3, [<sup>1</sup> les assesseurs visés à l'article 49, § 2,]<sup>1</sup> les juges administratifs suppléants, visés à l'article 91, § 1er, et les juges administratifs effectifs, complémentaires et suppléants, visés à l'article 91, § 4, sont exclus de l'application de l'alinéa deux.
+
+----------
+
+(1)&lt;DCFL 2023-03-17/18, art. 12, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 6
+
+[<sup>1</sup> La fonction de gestionnaire, de chef du bureau de coordination, de greffier en chef, de greffier, de collaborateur du greffe, de juriste de coordination et de référendaire est assumée par des membres du personnel du service des Juridictions administratives]<sup>1</sup>.
+
+Ces membres du personnel ne peuvent pas cumuler leur fonction auprès du service des Juridictions administratives avec une autre fonction auprès des services de l'Autorité flamande.
+
+Les membres du personnel exercent leur fonction de manière indépendante et impartiale. Ils ne peuvent subir de préjudice de l'exécution de leurs tâches.
+
+----------
+
+(1)&lt;DCFL 2016-12-09/09, art. 2, 005; En vigueur : 24-04-2017&gt;
+
+### Section 2. - Fonctionnement
+
+#### Sous-section 1re. - Assemblée générale
+
+##### Art. 7
+
+Le greffier en chef [<sup>1</sup> , le chef du bureau de coordination]<sup>1</sup> et le gestionnaire siègent avec voix consultative dans l'assemblée générale, en ce qui concerne leurs compétences respectives.
+
+L'assemblée générale décide entre autres des matières suivantes :
+
+1° la désignation du premier président ;
+
+2° le renouvellement du mandat de premier président ;
+
+3° l'approbation et la modification du règlement d'ordre intérieur de l'assemblée générale et des juridictions administratives flamandes ;
+
+4° d'autres matières stratégiques relatives au fonctionnement et à l'organisation des juridictions administratives flamandes.
+
+----------
+
+(1)&lt;DCFL 2016-12-09/09, art. 3, 005; En vigueur : 24-04-2017&gt;
+
+#### Sous-section 2. - Premier président
+
+##### Art. 8
+
+L'assemblée générale désigne, parmi les juges administratifs effectifs qui font partie de l'assemblée générale, un premier président pour un mandat de cinq ans, qui peut être renouvelé une fois.
+
+L'assemblée générale établit la procédure de sélection pour le mandat du premier président.
+
+##### Art. 9
+
+Le premier président est chargé de la direction générale et journalière des juridictions administratives flamandes.
+
+Le premier président est également le chef du service des Juridictions administratives.
+
+Le premier président peut déléguer au gestionnaire des compétences en matière de gestion journalière.
+
+La gestion journalière comprend la gestion technique et financière, la gestion de l'infrastructure, la communication et la gestion du personnel des juges administratifs et des membres du personnel du service des Juridictions administratives.
+
+Le premier président est chargé de l'établissement d'un plan de gestion pour les juridictions administratives flamandes.
+
+Le premier président établit annuellement un rapport d'activité dans lequel sont exposés son plan de gestion et l'évaluation de ce dernier. Le cas échéant, ce rapport contient les ajustements nécessaires du plan, il désigne les besoins et il contient des propositions pour améliorer le fonctionnement des juridictions administratives flamandes.
+
+[<sup>1</sup> Le Gouvernement flamand peut arrêter les modalités relatives à l'élaboration, au contenu et au calendrier du plan d'orientation et de son évaluation dans le rapport d'activité.]<sup>1</sup>
+
+Lorsque les besoins du service le justifient, le premier président peut prendre des mesures qui peuvent déroger aux dispositions du règlement d'ordre intérieur. Par le besoin du service on entend, entre autres, la répartition de la charge de travail, l'indisponibilité d'un juge administratif, une expertise requise, le bon progrès d'une cause ou une autre raison objective comparable.
+
+Le premier président veille à l'unité de jurisprudence ou de juridiction entre les juridictions administratives flamandes. A cet effet, il peut attribuer une affaire, d'initiative ou sur la demande d'un président, à une chambre composée des présidents des juridictions administratives flamandes.
+
+Le premier président exerce le mandat de chef de corps.
+
+Le mandat de chef de corps comprend l'autorité hiérarchique et fonctionnelle sur les juges administratifs.
+
+----------
+
+(1)&lt;DCFL 2016-12-09/09, art. 4, 005; En vigueur : 24-04-2017&gt;
+
+#### Sous-section 3. - Président
+
+##### Art. 10
+
+Le président d'une juridiction administrative flamande, telle que visée à l'article 2, 1°, a) [<sup>1</sup> , b) et d)]<sup>1</sup>, est désigné parmi et par les juges administratifs effectifs qui sont nommés ou désignés auprès de cette juridiction administrative flamande.
+
+Le président d'une juridiction administrative flamande, telle que visée à l'article 2, 1°, c), est désigné parmi et par les juges administratifs effectifs, complémentaires et suppléants qui sont nommés auprès de cette juridiction administrative flamande.
+
+Il s'agit d'un mandat de cinq ans, qui peut être renouvelé une fois.
+
+Le président veille à l'unité de jurisprudence ou de juridiction au sein de la juridiction administrative flamande pour laquelle il est compétent. A cet effet, il peut attribuer une affaire, d'initiative ou sur la demande d'un président de chambre, à une chambre composée de trois juges.
+
+Le président est chargé de l'attribution efficace d'un recours au sein de la juridiction pour laquelle il est compétent.[<sup>2</sup> Le président de la juridiction administrative flamande, visée à l'article 2, 1°, b), assure le traitement prioritaire des recours contre les arrêtés portant la fixation définitive de plans d'exécution spatiale et de règlements d'urbanisme et contre les arrêtés définitifs relatifs à la préférence et les arrêtés relatifs au projet en matière de projets complexes.]<sup>2</sup>
+
+Le Gouvernement flamand établit les tâches du président, notamment en ce qui concerne le rassemblement de recours ou de réclamations, l'application de la procédure simplifiée, la suspension d'extrême urgence et les mesures provisoires.
+
+----------
+
+(1)&lt;DCFL 2023-03-17/18, art. 13, 016; En vigueur : 01-09-2023&gt;
+
+(2)&lt;DCFL 2023-07-14/19, art. 12, 017; En vigueur : 31-12-2024&gt;
+
+#### Sous-section 4. - Règles de fonctionnement
+
+##### Art. 11
+
+Le règlement d'ordre intérieur règle au moins la division en chambres, [<sup>1</sup> y compris la spécialité,]<sup>1</sup> l'attribution de dossiers et le mode de délibération et de décision de l'assemblée générale.
+
+Le règlement est publié au Moniteur belge.
+
+----------
+
+(1)&lt;DCFL 2017-02-24/22, art. 118, 007; En vigueur : 01-01-2018&gt;
+
+##### Art. 12
+
+Les juridictions administratives flamandes sont divisées en chambres.
+
+[<sup>1</sup> La juridiction administrative, telle que visée à l'article 2, § 1er, b), a une chambre exclusivement compétente pour des recours contre des décisions d'expropriation définitives.]<sup>1</sup>[<sup>3</sup> La juridiction administrative précitée a également une chambre exclusivement compétente pour les recours contre des arrêtés définitifs relatifs à la préférence et des arrêtés relatifs au projet en matière de projets complexes.]<sup>3</sup>
+
+Une chambre simple siège avec un seul juge administratif. Les chambres multiples siègent avec trois juges administratifs.
+
+Le premier président détermine la composition des chambres et désigne les présidents de chambre. [<sup>1</sup> A cet effet, il tient compte de la connaissance des juges administratifs, conformément aux domaines de connaissance fixées à l'article 49, § 1er, alinéa 2, et ne désigne un juge administratif à une chambre spécialisée que dans la mesure où celui-ci dispose de suffisamment de connaissance relative aux matières en lesquelles cette chambre est spécialisée.]<sup>1</sup>
+
+Le président de chambre assure la direction de la chambre et est chargé de l'organisation de celle-ci. Il en fait rapport au premier président.
+
+Le président de chambre veille à l'unité de jurisprudence ou de juridiction dans sa chambre.
+
+Le premier président peut composer des chambres complémentaires. A cet effet, il peut déroger aux règles fixées dans le règlement d'ordre intérieur.
+
+[<sup>2</sup> Par dérogation à l'alinéa 3, le premier président compose toutes les chambres de la juridiction administrative flamande visée à l'article 2, 1°, d), d'un président de chambre et de deux assesseurs.
+
+Par dérogation à l'alinéa 4, le premier président ne peut pas désigner les présidents de chambre de la juridiction administrative flamande visée à l'article 2, 1°, d), parmi les assesseurs.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2017-02-24/22, art. 119, 007; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2023-03-17/18, art. 14, 016; En vigueur : 01-09-2023&gt;
+
+(3)&lt;DCFL 2023-07-14/19, art. 13, 017; En vigueur : 31-12-2024&gt;
+
+## CHAPITRE 3. - Procédure
+
+### Section 1re. - Dispositions applicables [<sup>1</sup> au Collège de maintien]<sup>1</sup> de la Région flamande, au Conseil pour les Contestations des Autorisations [<sup>2</sup> , au]<sup>2</sup> Conseil des Contestations électorales [<sup>2</sup> et le Conseil de règlement des différends en matière de décisions sur la progression des études]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+(2)&lt;DCFL 2023-03-17/18, art. 15, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 13
+
+Les parties peuvent récuser des juges administratifs qui doivent se prononcer sur le recours ou la réclamation, par écrit et de manière motivée, avant l'ouverture de la séance, à moins que la cause de la récusation ne soit survenue plus tard.
+
+Les causes, visées aux articles 828 et 830 du Code judiciaire, sont les causes de récusation visées à l'alinéa premier.
+
+Le premier président ou, s'il est récusé, le président de chambre le plus âgé, se prononce dans les meilleurs délais sur la demande de récusation. Lorsque la demande est acceptée, le juge administratif récusé est remplacé.
+
+Le juge administratif qui sait qu'il existe une cause de récusation contre sa personne, s'abstient de l'affaire et se fait remplacer.
+
+[<sup>1</sup> Outre les causes visées à l'alinéa 2, les causes supplémentaires de récusation suivantes s'appliquent à la juridiction administrative flamande, visée à l'article 2, 1°, d) :
+
+1° les causes visées à l'article 829, alinéa 2, du Code judiciaire ;
+
+2° la qualité de membre d'une personne morale telle que visée à l'article 24, § 4, de la Constitution, responsable de l'université ou de l'institut supérieur au sein de laquelle ou duquel la décision en cause a été prise, ou d'un membre du personnel de cette université ou cet institut supérieur ;
+
+3° avoir eu la qualité visée au point 2°, dans une période de trois ans précédant le recours introduit.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-03-17/18, art. 16, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 14
+
+Le recours ou la réclamation n'a pas d'effet suspensif, sauf si les décrets visés à l'article 2, 1°, stipulent le contraire.
+
+##### Art. 15
+
+Une juridiction administrative flamande peut joindre des affaires sur des sujets identiques ou connexes en vue du traitement, et scinder le traitement d'affaires jointes par après.
+
+##### Art. 16
+
+Le traitement du recours ou de la réclamation se fait par écrit et contradictoirement.
+
+Les parties peuvent se faire assister ou représenter par un conseil.
+
+Une juridiction administrative flamande peut, d'initiative ou sur la demande d'une partie, entendre des témoins ou des experts, et faire appel à des interprètes. Une juridiction administrative flamande peut également ordonner d'autres mesures d'instruction qui sont établies par le Gouvernement flamand.
+
+Les séances d'une juridiction administrative flamande sont publiques, sauf si la chambre en décide autrement en cas de danger pour l'ordre public ou les bonnes moeurs.
+
+En cas d'une convocation régulière, l'absence d'une partie n'empêche pas la validité d'une séance. Dans ce cas, l'affaire est censée être traitée contradictoirement.
+
+Sauf si une juridiction administrative flamande en décide autrement, des parties peuvent renoncer de commun accord au traitement du recours en séance.
+
+Une juridiction administrative flamande délibère sur ses prononcés à huis clos.
+
+##### Art. 16/2.
+
+[<sup>1</sup> § 1er. Toutes les pièces de procédure sont déposées auprès des juridictions administratives flamandes en néerlandais.
+
+Si une partie ne dépose pas sa première pièce de procédure en néerlandais, le greffier l'invite, par envoi sécurisé, à le déposer encore en néerlandais. Le greffier mentionne à cette occasion la sanction visée à l'alinéa 4.
+
+Dans le cas visé à l'alinéa 2, la pièce de procédure est déposée dans les huit jours suivant la date de signification de l'envoi sécurisé visé à l'alinéa 2.
+
+Une pièce de procédure qui n'est pas déposée en néerlandais ou, le cas échéant, qui n'est pas déposée en néerlandais dans le délai visé à l'alinéa 3, est réputée ne pas avoir été déposée.
+
+§ 2. La langue de procédure devant les juridictions administratives flamandes est le néerlandais. Les séances se déroulent en néerlandais.
+
+§ 3. Les paragraphes 1 et 2 ne portent pas préjudice aux garanties dont disposent les personnes dans les communes, visées aux articles 7 et 8 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, conformément à l'article 16bis de la loi spéciale du 8 août 1980 de réformes institutionnelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-05-08/07, art. 2, 024; En vigueur : 01-09-2026&gt;
+
+##### Art. 17
+
+Le Gouvernement flamand arrête les modalités pour les exigences formelles et la recevabilité des requêtes et pour la procédure devant les juridictions administratives flamandes, y compris les règles concernant :
+
+1° les documents qui doivent être joints à la requête ;
+
+2° l'enregistrement de la requête et les conditions auxquelles la requête peut être régularisée ;
+
+3° la manière dont et les personnes à qui une copie de la requête est envoyée ;
+
+4° le mode d'envoi et d'échange des pièces relatives au procès ;
+
+5° l'assistance ou la représentation par un conseil ;
+
+6° l'appel aux témoins, experts et interprètes, y compris le règlement des indemnités des témoins, des frais et honoraires des experts et des frais des interprètes ;
+
+7° le mode de calcul des délais, visés au présent chapitre ;
+
+8° les conditions auxquelles une indemnité peut être demandée pour des copies ou extraits.
+
+### Section 2. - Dispositions applicables [<sup>1</sup> au Collège de maintien]<sup>1</sup> de la Région flamande [<sup>2</sup> , au]<sup>2</sup> Conseil des Contestations électorales [<sup>2</sup> et au Conseil de règlement des différends en matière de décisions sur la progression des études]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+(2)&lt;DCFL 2023-03-17/18, art. 17, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 18
+
+Les décrets, visés à [<sup>1</sup> l'article 2, 1°, a), b) et d)]<sup>1</sup>, établissent les personnes qui peuvent introduire un recours contre une décision contestée, ainsi que les délais applicables.
+
+----------
+
+(1)&lt;DCFL 2023-03-17/18, art. 18, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 19
+
+Le Gouvernement flamand peut arrêter des règles pour le traitement de requêtes qui entrent en ligne de compte pour une [<sup>1</sup> procédure abrégée]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2016-12-09/09, art. 5, 005; En vigueur : 24-04-2017&gt;
+
+### Section 3. - Dispositions applicables au Conseil pour les Contestations des Autorisations
+
+##### Art. 20
+
+Tout intéressé peut intervenir dans une procédure en cours.
+
+[<sup>1</sup> Les décrets, visés à l'article 2, 1°, b), stipulent les personnes qui sont des intéressés.]<sup>1</sup>
+
+[<sup>3</sup> Le titulaire du permis ou la personne qui a procédé à la notification, mentionné dans la décision sujette à recours ou dans la prise d'acte ou la non-prise d'acte contestée, est de plein droit une partie intervenante dans une procédure en cours, à condition qu'il ne soit pas lui-même l'auteur du recours. En cas de transfert de la décision sujette à recours, le litige peut être repris par le nouveau titulaire du permis.]<sup>3</sup>
+
+[<sup>2</sup> Le Gouvernement flamand arrête les échéances qui ne peuvent être inférieures à vingt jours, sauf en cas d'échéances [<sup>3</sup> pour intervenir ]<sup>3</sup> dans les actions, introduites conformément à l'article 40, § 2]<sup>2</sup>.
+
+Le Gouvernement flamand arrête les échéances qui ne peuvent être inférieures à vingt jours.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 383, 004; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2016-12-09/09, art. 6, 005; En vigueur : 24-04-2017&gt;
+
+(3)&lt;DCFL 2021-05-21/15, art. 3, 014; En vigueur : 01-12-2021&gt;
+
+##### Art. 21
+
+§ 1er. [<sup>2</sup> Le droit de mise au rôle dû par partie requérante lors de l'introduction d'une requête en annulation, s'élève à 200 euros.
+
+Le droit de mise au rôle dû par partie requérante lors de l'introduction d'une requête en suspension, introduite conformément à l'article 40, § 1er ou § 2, s'élève à 100 euros.
+
+Le droit de mise au rôle dû par partie intervenante [<sup>6</sup> , s'élève à 100 euros par action dans laquelle elle intervient]<sup>6</sup>, que l'intervention s'applique à une demande d'annulation ou à une demande de suspension, introduite conformément à l'article 40, § 1er et § 2]<sup>2</sup>.
+
+[<sup>7</sup> § 1/1. La partie intervenante, visée à l'article 20, alinéa 3, est exemptée du paiement du droit de mise au rôle.]<sup>7</sup>
+
+§ 2. [<sup>4</sup> [<sup>16</sup> Le fonctionnaire dirigeant ou, en leur absence, leurs mandataires intervenant en application de l'article 105, § 2, respectivement point 6° à point 8°, du décret du 25 avril 2014 relatif au permis d'environnement, sont exemptés du paiement de tout droit de rôle. ]<sup>16</sup>.]<sup>4</sup>
+
+§ 3. La partie requérante ou la partie intervenante qui démontre que ses revenus sont insuffisants, est exemptée du paiement de quelconque droit de mise au rôle.
+
+La partie requérante [<sup>8</sup> ...]<sup>8</sup> adresse à cet effet une demande au Conseil pour les Contestations des Autorisations, simultanément avec l'introduction de sa requête.
+
+[<sup>9</sup> La partie intervenante adresse à cet effet une demande au Conseil pour les Contestations des Autorisations, simultanément avec son intervention dans une action. ]<sup>9</sup>
+
+A défaut des pièces justificatives, visées à l'alinéa premier, le greffier les demande [<sup>10</sup> par envoi sécurisé ]<sup>10</sup> à la partie requérante ou intervenante. [<sup>2</sup> Le greffier ne demande toutefois pas ces pièces justificatives en cas d'une demande de suspension, introduite conformément à l'article 40, § 2.]<sup>2</sup>
+
+Les pièces justificatives sont transmises dans un délai de huit jours qui prend cours le jour suivant celui de la notification de l'envoi sécurisé, visée à [<sup>11</sup> l'alinéa 4 ]<sup>11</sup>.
+
+En cas de transmission tardive des pièces justificatives, visées à [<sup>12</sup> l'alinéa 5 ]<sup>12</sup>, la partie requérante ou intervenante est censée renoncer à sa demande d'exemption du droit de mise au rôle.
+
+L'insuffisance des revenus est jugée conformément [<sup>5</sup> aux articles 508/13/1 à 508/13/4 du Code judiciaire]<sup>5</sup>.
+
+§ 4. Des requêtes collectives donnent lieu au paiement d'autant de fois le droit qu'il y a des parties requérantes.
+
+[<sup>13</sup> Des interventions collectives]<sup>13</sup> donnent lieu au paiement d'autant de fois le droit qu'il y a des parties intervenantes.
+
+§ 5. [<sup>2</sup> [<sup>14</sup> . Simultanément avec l'introduction de la requête portant demande d'annulation ou de suspension, déposée conformément à l'article 40, § 1er, ou simultanément avec son intervention dans les actions susmentionnées, la partie requérante ou intervenante apporte la preuve qu'un ordre de virement a été donné ou qu'un versement a été effectué afin de payer le droit de mise au rôle.
+
+Si le droit de mise au rôle, visé à l'alinéa 1er, n'a pas été versé à temps, le greffier invite la partie requérante ou intervenante par envoi sécurisé à payer le droit de mise au rôle. Le greffier mentionne clairement la sanction visée à l'alinéa 3. Dans ce cas, le droit de mise au rôle est versé dans un délai de huit jours suivant le jour de la notification de l'envoi sécurisé précité.
+
+Si le montant du droit de mise au rôle n'est pas versé à temps par la partie requérante ou intervenante, le recours ou l'intervention de cette partie est irrecevable]<sup>14</sup>.
+
+§ 6. [<sup>2</sup> En cas d'une demande de suspension, instituée conformément à l'article 40, § 2, le droit de mise au rôle, dû conformément au paragraphe 1er, est réclamé dans la décision ou l'arrêt fixant la date d'audience.
+
+La preuve qu'un ordre de virement a été donné ou qu'un versement a été effectué afin de payer le droit de mise au rôle, visé à l'alinéa 1er, est présentée à la session à laquelle la demande, instituée conformément à l'article 40, § 2, est traitée.
+
+Si le droit de mise au rôle n'est pas payé dans le délai de huit jours à partir du jour après la signification de la décision ou de l'arrêt fixant la date d'audience, l'acte de procédure auquel la décharge se rapporte, n'est pas recevable.
+
+Si la partie requérante n'a pas payé à temps le droit de mise au rôle, dû conformément au paragraphe 1er, la suspension et les mesures provisoires qui seraient commandées conformément à l'article 40, § 2, et l'article 41, sont abrogées conformément à la procédure, visée à l'article 40, § 13.
+
+Si la partie intervenante n'a pas payé à temps le droit de mise au rôle, dû conformément au paragraphe 1er, elle ne peut pas demander la continuation de la procédure.
+
+Le paiement tardif ne peut être régularisé]<sup>2</sup>.
+
+[<sup>2</sup> § 7. Le Conseil pour les Contestations des Autorisations peut octroyer, à la demande d'une partie, une indemnité de procédure, qui est une intervention forfaitaire dans les frais et honoraires de l'avocat de la partie qui a succombé [<sup>15</sup> ...]<sup>15</sup>.
+
+Le Gouvernement flamand arrête les montants de base et les montants minimaux et maximaux de l'indemnité de procédure.
+
+Le Conseil pour les Contestations des Autorisations peut réduire ou augmenter l'indemnité de manière motivée, sans toutefois dépasser les montants minimaux et maximaux fixés par le Gouvernement flamand. Dans son évaluation, il tient compte :
+
+1° de la capacité financière de la partie succombante, pour réduire le montant de l'indemnité ;
+
+2° de la complexité de l'affaire ;
+
+3° du caractère manifestement déraisonnable de la situation.
+
+Si la partie succombante bénéficie de l'aide juridique de deuxième ligne, l'indemnité de procédure est fixée au montant minimal arrêté par le Gouvernement flamand, sauf en cas d'une situation manifestement déraisonnable. Dans ce cas, le Conseil pour les Contestations des Autorisations motive sa décision de réduction ou d'augmentation par des raisons spéciales.
+
+Si plusieurs parties bénéficient de l'indemnité de procédure à charge d'une ou de plusieurs parties succombantes, le montant de l'indemnité s'élève au maximum au double de l'indemnité de procédure maximale à laquelle le bénéficiaire qui a le droit d'exiger l'indemnité la plus élevée, peut prétendre. Elle est répartie parmi les parties par le Conseil pour les Contestations des Autorisations.
+
+Les parties intervenantes ne peuvent pas être tenues au paiement de l'indemnité de procédure ou bénéficier de cette indemnité.
+
+Aucune partie ne peut être tenue au paiement de l'indemnité de procédure ou bénéficier de cette indemnité, si la procédure visée à l'article 42, aboutit à un accord de médiation validé.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 384, 004; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2016-12-09/09, art. 7, 005; En vigueur : 24-04-2017&gt;
+
+(3)&lt;DCFL 2017-10-27/06, art. 37, 008; En vigueur : 07-12-2017&gt;
+
+(4)&lt;DCFL 2016-07-15/08, art. 33, 012; En vigueur : 01-08-2018&gt;
+
+(5)&lt;DCFL 2021-05-21/15, art. 4,8°, 014; En vigueur : 24-06-2021&gt;
+
+(6)&lt;DCFL 2021-05-21/15, art. 4,1°, 014; En vigueur : 01-12-2021&gt;
+
+(7)&lt;DCFL 2021-05-21/15, art. 4,2°, 014; En vigueur : 01-12-2021&gt;
+
+(8)&lt;DCFL 2021-05-21/15, art. 4,3°, 014; En vigueur : 01-12-2021&gt;
+
+(9)&lt;DCFL 2021-05-21/15, art. 4,4°, 014; En vigueur : 01-12-2021&gt;
+
+(10)&lt;DCFL 2021-05-21/15, art. 4,5°, 014; En vigueur : 01-12-2021&gt;
+
+(11)&lt;DCFL 2021-05-21/15, art. 4,6°, 014; En vigueur : 01-12-2021&gt;
+
+(12)&lt;DCFL 2021-05-21/15, art. 4,7°, 014; En vigueur : 01-12-2021&gt;
+
+(13)&lt;DCFL 2021-05-21/15, art. 4,9°, 014; En vigueur : 01-12-2021&gt;
+
+(14)&lt;DCFL 2021-05-21/15, art. 4,10°, 014; En vigueur : 01-12-2021&gt;
+
+(15)&lt;DCFL 2021-05-21/15, art. 4,11°, 014; En vigueur : 01-12-2021&gt;
+
+(16)&lt;DCFL 2024-05-17/29, art. 123, 020; En vigueur : 20-07-2024&gt;
+
+##### Art. 21/1
+
+[<sup>1</sup> La chambre saisie de l'affaire rend un arrêt dans un délai d'ordre de six mois à compter de l'introduction d'une requête en annulation, si le recours porte sur un arrêté relatif à la préférence définitivement établi tel que visé à l'article 45 du décret du 25 avril 2014 relatif aux projets complexes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/57, art. 2, 019; En vigueur : 04-09-2023&gt;
+
+### Section 4. - Dispositions applicables au Conseil des Contestations électorales
+
+#### Sous-section 1re. - Administration de la justice dans les procédures pour des réclamations contre l'élection et des réclamations sur la base de la violation de la réglementation relative aux dépenses électorales par des candidats et des candidats en tête de liste, ainsi que dans les procédures pour l'élection et la nomination des échevins et l'élection des suppléants
+
+##### Art. 22
+
+Seuls les candidats sont autorisés à introduire auprès du Conseil des Contestations électorales une réclamation contre l'élection et contre les dépenses électorales engagées par les candidats en tête de liste et les candidats. La réclamation est introduite par voie de requête.
+
+##### Art. 23
+
+La réclamation est introduite dans un délai de [<sup>1</sup> [<sup>2</sup> quarante]<sup>2</sup>]<sup>1</sup> jours, à compter à partir de la datation du procès-verbal des élections.
+
+Un nouveau délai de quinze jours est ouvert à compter du prononcé de la condamnation définitive fondée sur une plainte introduite en application de l'article 201 du Décret portant organisation des élections locales et provinciales du 8 juillet 2011.
+
+----------
+
+(1)&lt;DCFL 2016-06-03/19, art. 10, 003; En vigueur : 18-07-2016&gt;
+
+(2)&lt;DCFL 2021-07-16/11, art. 24, 015; En vigueur : 14-08-2021&gt;
+
+##### Art. 24
+
+Toute personne ayant introduit une réclamation qui s`avère non fondée et dont il est établi qu'elle a été introduite dans le but de nuire, sera sanctionnée d'une amende de 50 à 500 euros.
+
+Le produit de l'amende est versé sur le compte du fonds pour le service des Juridictions administratives.
+
+##### Art. 25
+
+Le Conseil des Contestations électorales statue sur la réclamation dans les [<sup>1</sup> trente-cinq]<sup>1</sup> jours suivant son introduction. Si aucune décision n'est intervenue dans ce délai, la réclamation est considérée comme rejetée et le résultat de l'élection, tel qu'il a été proclamé par le bureau de vote principal, devient définitif sans préjudice de l'application de l'article 23, alinéa deux, et de la possibilité de recours auprès du Conseil d'Etat.
+
+----------
+
+(1)&lt;DCFL 2021-07-16/11, art. 25, 015; En vigueur : 14-08-2021&gt;
+
+##### Art. 26
+
+La greffe notifie, dans les trois jours, la décision du Conseil des Contestations électorales ou l'absence de toute décision dans le délai prescrit au conseil communal, au conseil de district ou au conseiller provincial concerné. Les réclamants en sont informés [<sup>1</sup> par un envoi sécurisé]<sup>1</sup>. En outre :
+
+1° [<sup>2</sup> en cas d'invalidation entière ou partielle de l'élection, la décision du Conseil des Contestations électorales est notifiée de la même manière au conseiller sortant visé à l'article 69, premier alinéa, du décret électoral local et provincial du 8 juillet 2011, ou à la personne qui remet l'acte de présentation des candidats au président du bureau principal, conformément à l'article 70 du décret électoral local et provincial du 8 juillet 2011 ;]<sup>2</sup>
+
+2° la décision par laquelle le Conseil des Contestations électorales, se prononçant ou non sur une réclamation, modifie la répartition des sièges entre les listes, l'ordre des conseillers élus ou celui des suppléants, est notifiée de la même manière aux conseillers élus qui perdent leur qualité d'élu et aux suppléants élus qui perdent leur rang de premier ou de second suppléant.
+
+Si le Conseil des Contestations électorales décide d'invalider entièrement ou partiellement les élections ou de modifier la répartition des sièges, il est adressé en même temps au premier président du Conseil d'Etat une copie certifiée conforme de cette décision, du dossier administratif et des pièces de la procédure.
+
+[<sup>3</sup> Conformément à l'article 23, alinéa premier, point i), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), les personnes concernées peuvent consulter le dossier au greffe dans les huit jours suivant la notification des décisions du Conseil sur les litiges électoraux.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2015-07-03/05, art. 3, 002; En vigueur : 16-07-2015&gt;
+
+(2)&lt;DCFL 2017-06-30/30, art. 86, 006; En vigueur : 24-08-2017&gt;
+
+(3)&lt;DCFL 2018-06-08/04, art. 47, 011; En vigueur : 25-05-2018&gt;
+
+##### Art. 27
+
+§ 1er. Sauf dans les cas, visés au présent décret, le délai d'introduction d'une réclamation auprès du Conseil des Contestations électorales s'élève à trente jours.
+
+§ 2. Les articles 16 et 22 à 26 inclus sont applicables par analogie à l'élection et à la nomination des échevins, visés à l'article 45 du Décret communal du 15 juillet 2005, étant entendu que seuls les conseillers communaux sont autorisés à introduire une réclamation et qu'un délai de trente jours prend cours à partir de la réunion d'installation du conseil communal après son renouvellement intégral.
+
+§ 3. A défaut de suppléants, il est pourvu à la vacance d'un ou de plusieurs sièges au conseil communal ou au conseil de district urbain. La désignation des élus se fait conformément aux dispositions de la partie 3, titre 5, ou de l'article 219, alinéa premier, 2°, du Décret portant organisation des élections locales et provinciales du 8 juillet 2011.
+
+Si lors de l'élection du conseiller à remplacer, des candidats appartenant à la même liste ont été élus suppléants en application de l'article 169 ou 175 du Décret portant organisation des élections locales et provinciales du 8 juillet 2011, le suppléant arrivant le premier dans l'ordre indiqué selon ces articles, entre en fonction après vérification de ses pouvoirs.
+
+En cas de réclamations contre la décision du conseil communal ou du conseil de district urbain ou contre le refus de celui-ci de procéder à l'installation du suppléant en qualité de conseiller communal, le Conseil des Contestations électorales statue en application des articles 16 et 25 du présent décret, et de l'article 204, alinéa deux, du Décret portant organisation des élections locales et provinciales du 8 juillet 2011.
+
+Le Conseil des Contestations électorales statue dans les quarante jours à compter de la réception au Conseil des Contestations électorales de la réclamation formulée. Cette décision est notifiée au suppléant concerné et, le cas échéant, à ceux qui ont introduit une réclamation auprès du Conseil des Contestations électorales. Un recours auprès du Conseil d'Etat leur est ouvert dans les huit jours qui suivent la notification.
+
+Le nouveau conseiller achève le mandat de son prédécesseur.
+
+##### Art. 28
+
+[<sup>1</sup> Les personnes à informer de la décision du Conseil sur les litiges électoraux peuvent, conformément à l'article 23, alinéa premier, point i), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), examiner le dossier au greffe dans les huit jours suivant la notification ou la notification de l'expiration du délai de quarante jours et introduire un recours auprès du Conseil d'Etat dans le même délai.]<sup>1</sup>
+
+Le Conseil d'Etat statue dans un délai de soixante jours. L'élection ne peut être invalidée entièrement ou partiellement par le Conseil d'Etat que pour cause d'irrégularités susceptibles d'influencer la répartition des sièges entre les différentes listes.
+
+L'invalidation entière de l'élection aboutit à la reprise ab initio des élections, en application des dispositions reprises au Décret portant organisation des élections locales et provinciales du 8 juillet 2011. Si le Conseil d'Etat juge que les élections sont partiellement annulées, il désigne les dispositions du Décret portant organisation des élections locales et provinciales du 8 juillet 2011 qui doivent à nouveau être exécutées lors de la réélection.
+
+Le conseiller qui a été privé de son mandat par le Conseil d'Etat en application de l'article 205 du Décret portant organisation des élections locales et provinciales du 8 juillet 2011, est remplacé au conseil communal par le premier suppléant de la liste sur laquelle il avait été élu.
+
+Le recours au Conseil d'Etat n'est pas suspensif, sauf s'il est dirigé contre une décision du Conseil des Contestations électorales qui porte une invalidation entière ou partielle des élections ou une modification de la répartition des sièges.
+
+Lorsque le Gouvernement flamand nomme le bourgmestre de la commune concernée avant que le Conseil d'Etat se soit prononcé, cette nomination a effet à compter de la notification de l'arrêt du Conseil d'Etat qui n'invalide pas entièrement ou partiellement les élections ou ne modifie pas la répartition des sièges.
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 48, 011; En vigueur : 25-05-2018&gt;
+
+##### Art. 29
+
+L'arrêt rendu par le Conseil d'Etat est immédiatement notifié, par les soins du greffier, au gouverneur de province, au président du Conseil des Contestations électorales et au conseil communal, au conseil de district urbain ou au conseil provincial concerné.
+
+#### Sous-section 2. - Procédure pour d'autres contestations
+
+##### Art. 30
+
+Pour les litiges, visés aux articles 13, 44, § 6, 60, 218bis et 273, du Décret communal du 15 juillet 2005, le Conseil des Contestations électorales statue dans les quarante jours suivant l'introduction de la réclamation, sauf dans les litiges sur la privation du mandat, visée aux articles 10 et 13 du décret précité.
+
+Pour les litiges, visés aux articles 13, 44, § 4, et 211bis, du Décret provincial du 9 décembre 2005, le Conseil des Contestations électorales statue dans les quarante jours suivant l'introduction de la réclamation, sauf dans les litiges sur la privation du mandat, visée aux articles 10 et 13 du décret précité.
+
+Pour les litiges, visés aux articles 22 et 57, du décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale, le Conseil des Contestations électorales statue dans les quarante jours suivant l'introduction de la réclamation, sauf dans les litiges sur la privation du mandat, visée aux articles 19 et 22 du décret précité.
+
+##### Art. 31
+
+§ 1er. Dans les cas, visés à l'article 15 du décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale, seuls les conseillers communaux et les personnes figurant sur l'acte de présentation, visés à l'article 10, § 1er, et à l'article 14 du décret précité, sont habilités à introduire une réclamation. Sous peine d'irrecevabilité, la réclamation est introduite au plus tard le cinquième jour suivant la publication du résultat des élections.
+
+Il est interdit, sous peine d'une peine de réclusion d'un mois à deux ans, d'antidater le récépissé de la réclamation.
+
+§ 2. Toute personne ayant introduit une réclamation qui s`avère non fondée et dont il est établi qu'elle a été introduite dans le but de nuire, sera sanctionnée d'une amende de 50 à 500 euros.
+
+Le produit de l'amende est versé sur le compte du fonds pour le service des Juridictions administratives.
+
+§ 3. Le Conseil des Contestations électorales statue, en cas d'introduction d'une réclamation dans les quarante jours suivant la réception du dossier, sur la validité des élections. Le cas échéant, il rectifie les erreurs commises lors de l'établissement du résultat des élections. Faute de décision du Conseil dans ce délai, l'élection est considérée comme régulière.
+
+§ 4. La décision de la juridiction produit ses effets le plus tôt à l'expiration des délais visés au paragraphe 5, en vue de l'introduction d'un recours auprès du Conseil d'Etat.
+
+§ 5. La commune, le centre public d'aide sociale, les membres élus du conseil de l'aide sociale, les suppléants dont l'élection a été annulée et les suppléants dont l'ordre d'élection a été modifié, ainsi que les personnes ayant introduit des réclamations, peuvent introduire un recours auprès du Conseil d'Etat dans les huit jours suivant la notification de la décision du Conseil des Contestations électorales ou la communication du fait que le délai de quarante jours a expiré. Le recours suspend la décision du Conseil des Contestations électorales jusqu'à l'annulation ou la modification du résultat des élections ou de la répartition des sièges.
+
+Le greffier en chef du Conseil d'Etat communique le recours dans les huit jours suivant sa réception au gouverneur de province, au centre public d'aide sociale concerné, à la commune, au président du Conseil des Contestations électorales, et aux élus dont l'élection ou l'ordre d'élection est contesté. Le Conseil d'Etat statue dans un délai de soixante jours. L'arrêt rendu par le Conseil d'Etat est immédiatement notifié, par les soins du greffier en chef, au requérant, au gouverneur de province, au centre public d'aide sociale concerné, à la commune et aux élus dont l'élection est annulée ou dont l'ordre d'élection est modifié.
+
+Lorsqu'une annulation devient définitive, il sera procédé dans les vingt jours suivant la date de la notification de l'annulation à la commune concernée, à une nouvelle élection sur la base de l'acte de présentation recevable pour l'élection annulée, déposé conformément aux articles 10, § 1er, et 14 du décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale. S'il n'y a pas suffisamment de présentations, l'article 14, alinéa deux, du décret précité, s'applique sans préjudice de l'article 13 du décret précité, étant entendu que le délai de vingt jours s'applique.
+
+Seules des matières urgentes peuvent être traitées jusqu'à l'installation du Conseil de l'Aide sociale.
+
+Une annulation ou une réparation du résultat des élections ne porte pas préjudice à la validité des décisions du Conseil de l'Aide sociale qui ont été prises avant la notification de la décision définitive.
+
+### Section 5. [<sup>1</sup> - Dispositions applicables [<sup>2</sup> au Collège de maintien]<sup>2</sup> de la Région flamande]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-12-09/09, art. 8, 005; En vigueur : 24-04-2017&gt;
+
+(2)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+##### Art. 31/0
+
+[<sup>1</sup> [<sup>2</sup> Si les décrets visés à l'article 2, 1°, a), du présent décret, déclarent applicable le chapitre 10, section 14, du Décret-cadre Maintien flamand du 14 juillet 2023, les personnes suivantes peuvent]<sup>2</sup> intervenir dans une procédure en cours auprès du Collège de maintien, qui a pour objet une décision administrative de réparation telle que visée à l'article 2, 5° du Décret-cadre Maintien flamand du 14 juillet 2023, une décision administrative de sécurité telle que visée à l'article 2, 4°, du décret précité, ou une disposition de réparation, telle que visée à l'article 2, 16°, du décret précité :
+
+1° le contrevenant à l'égard duquel la décision de réparation a été prise, dans le cas d'un recours qui a été introduit contre une décision de réparation conformément à l'article [<sup>2</sup> 102/2]<sup>2</sup> du décret précité ;
+
+2° les personnes à l'égard desquelles la décision administrative de sécurité a été prise, dans le cas d'un recours qui a été introduit contre une décision administrative de sécurité conformément à l'article [<sup>2</sup> 102/2]<sup>2</sup> du décret précité ;
+
+3° l'autorité compétente qui a statué en première instance sur la décision concernée ;
+
+4° les personnes qui ont déterminé la disposition de réparation, dans le cas d'un recours qui a été introduit contre une disposition de réparation conformément à l'article [<sup>2</sup> 102/2]<sup>2</sup> du décret précité ;
+
+5° des tiers qui ont demandé le maintien conformément à l'article 96 du Décret-cadre Maintien flamand du 14 juillet 2023 ou qui ont un intérêt dans la décision relative à la décision administrative de réparation ou de sécurité ou à la disposition de réparation en question.
+
+Le Gouvernement flamand fixe les échéances pour les interventions, visées à l'alinéa 1er, qui ne peuvent pas être plus courtes que vingt jours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/52, art. 106, 021; En vigueur : 07-09-2024&gt;
+
+(2)&lt;DCFL 2025-12-12/26, art. 3, 022; En vigueur : 25-01-2026&gt;
+
+##### Art. 31/1
+
+[<sup>1</sup> § 1er. Le droit de mise au rôle dû par partie requérante lors de l'introduction d'une requête en annulation, s'élève à 100 euros.
+
+[<sup>5</sup> Le droit de mise au rôle dû par partie requérante lors de l'introduction d'une requête en suspension, introduite conformément à l'article 40, § 1er ou § 2, s'élève à 50 euros
+
+Le droit de mise au rôle dû par partie intervenante s'élève à 50 euros par action dans laquelle elle intervient, que l'intervention concerne une action en annulation ou une action en suspension, introduite conformément à l'article 40, § 1er ou § 2.]<sup>5</sup>
+
+§ 2. La partie requérante [<sup>5</sup> ou la partie intervenante]<sup>5</sup> qui démontre que ses revenus sont insuffisants, est exemptée du paiement de quelconque droit de mise au rôle.
+
+La partie requérante adresse à cet effet une demande [<sup>4</sup> au Collège de maintien]<sup>4</sup> de la Région flamande, simultanément avec l'introduction de sa requête.
+
+[<sup>5</sup> La partie intervenante adresse à cet effet une demande au Collège de maintien, simultanément avec son intervention dans une action.]<sup>5</sup>
+
+Si les pièces justificatives, visées à l'alinéa 1er, font défaut, le greffier les demande par envoi sécurisé à la partie requérante [<sup>5</sup> ou intervenante]<sup>5</sup>.
+
+Les pièces justificatives sont transmises dans un délai de huit jours qui prend cours le jour suivant celui de la notification de l'envoi sécurisé, visée à l'alinéa [<sup>5</sup> quatre]<sup>5</sup>.
+
+Si les pièces justificatives ne sont pas transmises dans le délai, visé à l'alinéa [<sup>5</sup> 5]<sup>5</sup>, la partie requérante [<sup>5</sup> ou intervenante]<sup>5</sup> est censée renoncer à sa demande d'exemption du droit de mise au rôle.
+
+L'insuffisance des revenus est jugée conformément [<sup>2</sup> aux articles 508/13/1 à 508/13/4 du Code judiciaire]<sup>2</sup>.
+
+§ 3. Des requêtes collectives donnent lieu au paiement d'autant de fois le droit qu'il y a des parties requérantes.
+
+[<sup>5</sup> Les interventions collectives donnent lieu au paiement d'autant de droits qu'il y a de parties intervenantes.]<sup>5</sup>
+
+§ 4. [<sup>5</sup> Si le droit de mise au rôle n'a pas été versé lors de l'introduction de la requête ou lors de l'intervention, le greffier invite la partie requérante ou intervenante par envoi sécurisé à payer le droit de mise au rôle. Le greffier mentionne clairement la sanction, visée à l'alinéa 2. Dans ce cas, le droit de mise au rôle est versé dans un délai de huit jours suivant le jour de la notification de l'envoi sécurisé précité. Dans le cas d'une action en suspension qui est introduite conformément à l'article 40, § 2, le droit de mise au rôle est versé dans un délai de trois jours suivant le jour de la notification de l'envoi sécurisé précité.
+
+Si le montant du droit de mise au rôle n'est pas versé à temps par la partie requérante ou intervenante, le recours ou l'intervention de cette partie est irrecevable. Si la partie requérante dans une requête en suspension introduite conformément à l'article 40, § 2, n'a pas versé le droit de mise au rôle à temps, la suspension et les mesures provisoires qui auraient été ordonnées, conformément à l'article 40, § 2, et à l'article 41, sont abrogées conformément à la procédure, visée à l'article 40, § 13. Si la partie intervenante dans une requête en suspension introduite conformément à l'article 40, § 2, n'a pas versé le droit de mise au rôle à temps, elle ne peut pas demander de poursuite de la procédure.]<sup>5</sup>.]<sup>1</sup>
+
+[<sup>5</sup> § 5. Le Collège de maintien peut, à la demande d'une partie, accorder une indemnité de procédure qui est une intervention forfaitaire dans les frais et honoraires d'avocat de la partie ayant obtenu gain de cause.
+
+Le Gouvernement flamand fixe les montants de base et les montants minimum et maximum de l'indemnité de procédure, visée à l'alinéa 1er.
+
+Le Collège de maintien peut, de manière motivée, diminuer ou augmenter l'indemnité de procédure, visée à l'alinéa 1er, sans dépasser toutefois les montants minimum et maximum fixés par le Gouvernement flamand. Pour cette appréciation, le Collège de maintien tient compte :
+
+1° de la capacité financière de la partie succombante, pour diminuer le montant de l'indemnité ;
+
+2° de la complexité de l'affaire ;
+
+3° du caractère manifestement déraisonnable de la situation.
+
+Si la partie succombante bénéficie de l'aide juridique de deuxième ligne, l'indemnité de procédure, visée à l'alinéa 1er, est fixée au montant minimum fixé par le Gouvernement flamand conformément à l'alinéa 2, sauf en cas de situation manifestement déraisonnable. Le cas échéant, le Collège de maintien motive spécialement sa décision de diminution ou d'augmentation.
+
+Lorsque plusieurs parties bénéficient de l'indemnité de procédure, visée à l'alinéa 1er, à charge d'une ou de plusieurs parties succombantes, son montant est au maximum le double de l'indemnité de procédure maximale à laquelle peut prétendre le bénéficiaire qui est fondé à réclamer l'indemnité la plus élevée. Dans ce cas, le Collège de maintien répartit l'indemnité de procédure entre les parties.
+
+Les parties intervenantes ne peuvent être tenues au paiement de l'indemnité de procédure et ne peuvent pas non plus bénéficier de cette indemnité.]<sup>5</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2016-12-09/09, art. 9, 005; En vigueur : 24-04-2017&gt;
+
+(2)&lt;DCFL 2021-05-21/15, art. 5,1°, 014; En vigueur : 24-06-2021&gt;
+
+(3)&lt;DCFL 2021-05-21/15, art. 5,2°, 014; En vigueur : 01-12-2021&gt;
+
+(4)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+(5)&lt;DCFL 2024-04-26/52, art. 107, 021; En vigueur : 07-09-2024&gt;
+
+### Section 6. [<sup>1</sup> - Dispositions applicables au Conseil de règlement des différends en matière de décisions sur la progression des études]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-17/18, art. 19, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 31/2
+
+[<sup>1</sup> Par dérogation à l'article 16 du présent décret, la procédure de recours direct concernant l'adaptation du crédit d'apprentissage en cas de force majeure visée à l'article II.285, alinéa 2, du Code de l'Enseignement supérieur du 11 octobre 2013, se déroule uniquement par écrit, après communication d'un calendrier de procédure simplifié, et ne fait pas l'objet d'une convocation concrète des parties, à moins que la juridiction administrative flamande visée à l'article 2, 1°, d ), du présent décret, l'estime nécessaire au traitement de l'affaire ou à moins que l'une des parties ne demande expressément et de manière motivée à être entendue.
+
+La juridiction administrative flamande visée à l'article 2, 1°, d), décide sans délai, par ordonnance du président de chambre, s'il est donné suite à la requête visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-17/18, art. 20, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 31/3
+
+[<sup>1</sup> Lorsqu'il existe des présomptions graves, précises et concordantes qu'une partie ou un tiers détient un document établissant un fait pertinent, le président de chambre peut ordonner que le document ou une copie certifiée conforme de celui-ci soit versé au dossier de la procédure.
+
+Le président de chambre statue par voie d'ordonnance. L'ordonnance mentionne l'identité de la partie ou du tiers qui doit produire le document ainsi que le mode et le délai d'introduction du document. L'ordonnance est envoyée aux parties par le moyen de communication le plus diligent et par envoi sécurisé à un tiers.
+
+Si la requête concerne un ajustement du crédit d'apprentissage, la juridiction administrative flamande visée à l'article 2, 1°, d), peut demander des informations aux établissements d'enseignement supérieur concernés en vue de vérifier les faits présentés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-17/18, art. 21, 016; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE 4. - Arrêts
+
+### Section 1re. - Dispositions applicables [<sup>1</sup> au Collège de maintien]<sup>1</sup> de la Région flamande, au Conseil pour les Contestations des Autorisations [<sup>2</sup> , au]<sup>2</sup> Conseil des Contestations électorales [<sup>2</sup> et au Conseil de règlement des différends en matière de décisions sur la progression des études]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+(2)&lt;DCFL 2023-03-17/18, art. 22, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 32
+
+Une juridiction administrative flamande prononce ses arrêts en session publique.
+
+Chaque arrêt d'une juridiction administrative flamande est motivé.
+
+Les arrêts d'une juridiction administrative flamande sont signés par le président de la chambre et par le greffier.
+
+##### Art. 33
+
+Dans son arrêt, une juridiction administrative flamande porte l'ensemble ou une partie des frais à charge de la partie qui a succombé sur le fond.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>1</sup> Lorsque l'article 34 s'applique, une juridiction administrative flamande porte l'ensemble ou une partie des frais à charge de la partie défenderesse.]<sup>1</sup>
+
+Ces frais comprennent :
+
+1° les indemnités des témoins ;
+
+2° les frais et honoraires de l'instruction des experts ;
+
+3° les frais de la publication conformément à l'article 47, sauf en ce qui concerne le Conseil des Contestations électorales.
+
+[<sup>2</sup> En ce qui concerne le Conseil pour les Contestations des Autorisations, les frais comprennent également le droit de mise au rôle et l'indemnité de procédure, visés à l'article 21, ainsi que les frais, visés à l'article 42, § 5]<sup>2</sup>.
+
+[<sup>2</sup> En ce qui concerne le [<sup>3</sup> collège de maintien]<sup>3</sup> de la Région flamande, les frais comprennent également le droit de mise au rôle [<sup>4</sup> et l'indemnité de procédure]<sup>4</sup>, visés à l'article 31/1.]<sup>2</sup>
+
+(NOTE : par son arrêt n° 152/2015 du 29-10-2015 (M.B. 22-12-2015, p. 76924-76937), la Cour Constitutionnelle a annulé l'article 33, alinéa 2, dans la mesure où il sapplique à la boucle administrative)
+
+----------
+
+(1)&lt;DCFL 2015-07-03/05, art. 4, 002; En vigueur : 16-07-2015&gt;
+
+(2)&lt;DCFL 2016-12-09/09, art. 10, 005; En vigueur : 24-04-2017&gt;
+
+(3)&lt;DCFL 2014-04-25/I9, art. 7, 010; En vigueur : 01-03-2018&gt;
+
+(4)&lt;DCFL 2024-04-26/52, art. 108, 021; En vigueur : 07-09-2024&gt;
+
+### Section 2. - Dispositions applicables au [<sup>1</sup> Collège de maintien]<sup>1</sup> de la Région flamande et au Conseil des Contestations électorales
+
+----------
+
+(1)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+##### Art. 34
+
+[<sup>1</sup> § 1er. Lorsqu'une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) constate qu'elle doit annuler la décision contestée pour cause d'une illégalité, elle peut offrir la possibilité à la partie défenderesse du litige sur le fond, par le biais d'une décision de réparation, de réparer ou de faire réparer l'illégalité dans la décision contestée, à dénommer ci-après la boucle administrative.
+
+Dans le présent article, on entend par une illégalité : une incompatibilité avec une règle de droit écrite ou un principe de droit général qui peut aboutir à l'annulation de la décision contestée, mais qui pourrait être réparée.
+
+§ 2. L'utilisation de la boucle administrative est uniquement possible après que toutes les parties ont eu la possibilité de faire connaître leur point de vue sur son utilisation.
+
+Lorsque toutes les parties ont pu faire connaître un point de vue écrit sur l'utilisation de la boucle administrative, la juridiction administrative flamande décide de l'application de la boucle administrative par le biais d'un interlocutoire tel que visé au paragraphe 3.
+
+Lorsque toutes les parties n'ont pas pu faire connaître leur point de vue sur l'utilisation de la boucle administrative, la juridiction administrative flamande offre la possibilité, par le biais d'un interlocutoire, d'adopter un point de vue écrit à ce sujet. Les parties disposent à cet effet d'un délai d'échéance de trente jours, qui prend cours le jour suivant le jour de la notification de ce jugement. Ensuite, la juridiction administrative flamande décide de l'application de la boucle administrative par le biais d'un interlocutoire tel que visé au paragraphe 3.
+
+§ 3. Sans préjudice de l'application de l'article 16, alinéa six, la juridiction administrative flamande organise une séance sur l'application de la boucle administrative.
+
+La juridiction administrative flamande décide par le biais d'un interlocutoire de l'application de la boucle administrative et fixe le délai dans lequel la décision de réparation est prise. A la demande motivée de la partie défenderesse, ce délai peut être prolongé une seule fois. Le prolongement du délai ne peut pas dépasser la durée du délai de réparation initial.
+
+L'interlocutoire, visé à l'alinéa deux, règle, le cas échéant, tous les autres moyens.
+
+§ 4. La partie défenderesse transmet la décision de réparation à la juridiction administrative flamande dans le délai de réparation, visé au paragraphe 3.
+
+L'objet du recours est étendu par la décision de réparation.
+
+La réparation peut uniquement porter sur une illégalité qui a été indiquée dans l'interlocutoire.
+
+Lorsque la décision de réparation n'a pas été communiquée à temps, la juridiction administrative flamande annule la décision contestée.
+
+§ 5. La juridiction administrative flamande transmet la décision de réparation aux autres parties.
+
+Ces parties peuvent communiquer leur point de vue concernant la réparation dans les délais d'échéance fixés par le Gouvernement flamand et qui ne peuvent pas être inférieurs à trente jours.
+
+Sans préjudice de l'application de l'article 16, alinéa six, la juridiction administrative flamande organise une séance sur la réparation.
+
+§ 6. Lorsque la juridiction administrative flamande constate que l'illégalité n'a pas été réparée ou que la réparation a été atteinte d'une nouvelle illégalité invoquée, la juridiction administrative flamande annule la décision contestée en entier ou en partie et elle annule la décision de réparation, à moins que la juridiction administration flamande ne décide de nouveau d'appliquer la boucle administrative conformément aux dispositions du présent article.
+
+Lorsque la juridiction administrative flamande constate que l'illégalité a été réparée et que la réparation n'a pas été atteinte d'une nouvelle illégalité invoquée, la juridiction administrative flamande rejette le recours contre la décision de réparation. En outre, la juridiction administrative flamande annule la décision contestée en entier ou en partie et la juridiction administrative flamande se prononce sur l'application éventuelle de l'article 36.
+
+§ 7. Les délais de procédure qui ne sont pas visés au présent article sont suspendus à partir de la date de l'interlocutoire qui décide de l'application de la boucle administrative jusqu'à la date du jugement de la juridiction administrative flamande, visé au paragraphe 4, alinéa trois, ou au paragraphe 6.
+
+§ 8. Après la notification du jugement, visé au paragraphe 6, alinéa deux, par la juridiction administrative flamande, visée à l'[<sup>3</sup> article 2, 1°, a) et b)]<sup>3</sup>, la décision de réparation est publiée conformément aux dispositions [<sup>2</sup> des décrets]<sup>2</sup>, visés à l'[<sup>3</sup> article 2, 1°, a) et b)]<sup>3</sup>.
+
+§ 9. Les personnes intéressées dans ce contexte conformément aux dispositions [<sup>2</sup> des décrets]<sup>2</sup>, visés à l'[<sup>3</sup> article 2, 1°, a) et b)]<sup>3</sup>, peuvent introduire un recours contre la décision de réparation auprès de la juridiction administrative flamande dans les délais, visés au décret précité.]<sup>1</sup>
+
+(NOTE : par son arrêt n° 152/2015 du 29-10-2015 (M.B. 22-12-2015, p. 76924-76937), la Cour Constitutionnelle a annulé l'article 34)
+
+----------
+
+(1)&lt;DCFL 2015-07-03/05, art. 5, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2017-12-08/06, art. 109, 009; En vigueur : 30-12-2017&gt;
+
+(3)&lt;DCFL 2024-04-26/52, art. 109, 021; En vigueur : 07-09-2024&gt;
+
+##### Art. 35
+
+Si une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b), déclare le recours fondé, elle annule entièrement ou partiellement la décision contestée [<sup>1</sup> , sans préjudice de l'application de l'article 34]<sup>1</sup> .
+
+[<sup>2</sup> Dans son arrêt, une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b), statue sur tous les moyens apportés dont elle juge que l'évaluation peut être utile en cas d'une nouvelle décision ou d'un autre acte de l'administration.
+
+[<sup>3</sup> Sans qu'il soit porté préjudice à la possibilité d'invoquer la violation de règles d'ordre public, la violation d'une norme ou d'un principe de droit général ne peut donner lieu à une annulation dans l'un des cas suivants :
+
+1° si la partie qui avance la violation n'est pas lésée par l'illégalité invoquée. Le fait que la violation apportée constitue une illégalité susceptible de donner lieu à une annulation, ne signifie pas en soi que la partie est lésée par l'illégalité invoquée ;
+
+2° si l'illégalité invoquée n'est manifestement pas de nature à protéger les intérêts de celui qui l'invoque ; (annulé par Conseil d'Etat en ce qui concerne l'optimisation des procédure);
+
+3° si la partie a manifestement omis d'apporter l'illégalité invoquée au moment utile où l'illégalité pu être apportée pendant la procédure administrative]<sup>3</sup>.]<sup>2</sup> (annulé par le Conseil d'Etat en ce qui concerne l'optimisation des procédure);
+
+(NOTE : n° 59/2023 du 11 avril 2023 (M.B. 25-05-2023, p. 49702-49721), la Cour Constitutionnelle a annulé l'article 35,L3,2°,3°)
+
+----------
+
+(1)&lt;DCFL 2015-07-03/05, art. 6, 002; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCFL 2016-12-09/09, art. 11, 005; En vigueur : 24-04-2017&gt;
+
+(3)&lt;DCFL 2021-05-21/15, art. 6, 014; En vigueur : 24-06-2021&gt;
+
+##### Art. 36
+
+Une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b), peut juger, sur la demande d'une partie ou d'initiative, que les effets juridiques de la décision entièrement ou partiellement annulée sont maintenus en tout ou en partie ou sont maintenus provisoirement pour un délai qu'elle détermine.
+
+La mesure prévue à l'alinéa premier ne peut être ordonnée que pour des raisons exceptionnelles justifiant une violation du principe de légalité, sur décision spécialement motivée et après un débat contradictoire. Cette décision peut tenir compte des intérêts des tiers.
+
+Le Gouvernement flamand arrête les règles procédurales relatives à l'application du présent article.
+
+##### Art. 37
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Si la partie défenderesse est tenue de prendre une nouvelle décision ou de poser un autre acte après une annulation entière ou partielle, une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b), ordonne la partie défenderesse de prendre une nouvelle décision ou de poser un autre acte, en respectant les considérations reprises dans son jugement. Elle peut imposer les conditions suivantes à cet effet :
+
+1° des règles de droit ou des principes de droit déterminés sont invoqués lors de la formation de la nouvelle décision ;
+
+2° des actes procéduraux déterminés sont effectués préalablement à la nouvelle décision ;
+
+3° des motifs irréguliers ou manifestement déraisonnables déterminés ne sont pas invoqués lors de la formation de la nouvelle décision.
+
+Une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b), lie un délai d'ordre à l'exécution de l'ordre, imposé conformément à l'alinéa 1er.]<sup>2</sup>
+
+Le délai d'ordre, visé à l'alinéa 2, est suspendu tant qu'un recours de cassation, contre l'arrêt de la juridiction administrative flamande contenant cet ordre, est en cours auprès du Conseil d'Etat.
+
+§ 2. La juridiction administrative flamande telle que visée à l'article 2, 1°, b), peut substituer l'arrêt à la décision, si la nouvelle décision à prendre, ordonnée conformément au paragraphe 1er, alinéa 1er, résulte d'une compétence liée de la partie défenderesse.]<sup>1</sup>
+
+[<sup>3</sup> Le cas visé à l'alinéa 1er comprend également les cas de compétence de fait ou ultérieurement liée, découlant de l'application de la réglementation à la lumière des données et des circonstances concrètes du dossier. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2016-12-09/09, art. 12, 005; En vigueur : 24-04-2017&gt;
+
+(2)&lt;DCFL 2021-03-05/08, art. 2, 013; En vigueur : 03-04-2021&gt;
+
+(3)&lt;DCFL 2021-05-21/15, art. 7, 014; En vigueur : 24-06-2021&gt;
+
+##### Art. 38
+
+§ 1er.[<sup>1</sup> Une juridiction administrative flamande telle que visée à l'article 2, 1°, a) en b), peut, sur la demande d'une partie, imposer dans l'arrêt d'annulation une astreinte à la partie défenderesse, tant qu'elle ne répond pas à un ordre, donné en application de l'article 37, en faveur de la partie qui a demandé l'imposition d'une astreinte.
+
+L'astreinte ne peut pas être encourue avant que l'arrêt portant son établissement, ne soit notifié.]<sup>1</sup>
+
+§ 2. Une juridiction administrative flamande peut établir l'astreinte soit à un montant unique, soit à un montant par unité de temps ou par infraction. Dans les deux derniers cas, une juridiction administrative flamande peut également déterminer un montant au-dessus duquel aucune astreinte n'est plus due.
+
+§ 3. La chambre qui a ordonné l'astreinte peut en prononcer la suppression, en suspendre le cours durant le délai qu'elle indique ou la réduire, à la demande de la [<sup>1</sup> partie à laquelle une astreinte est imposée,]<sup>1</sup>, si celle-ci est dans l'impossibilité définitive ou temporaire, totale ou partielle de satisfaire à l'ordre en application de l'article 37. Dans la mesure où l'astreinte était acquise avant que l'impossibilité se fût produite, la chambre ne peut la supprimer ni la réduire.
+
+La partie à la requête de laquelle une astreinte a déjà été imposée, peut demander d'imposer une astreinte supplémentaire ou d'augmenter l'astreinte imposée au cas où la [<sup>1</sup> partie à laquelle une astreinte est imposée,]<sup>1</sup> reste manifestement en défaut d'exécuter l'ordre, donné en application de l'article 37.
+
+§ 4. Les dispositions de la cinquième partie du Code judiciaire concernant la saisie et l'exécution, s'appliquent par analogie à l'exécution de l'arrêt portant imposition d'une astreinte.
+
+----------
+
+(1)&lt;DCFL 2016-12-09/09, art. 13, 005; En vigueur : 24-04-2017&gt;
+
+##### Art. 39
+
+§ 1er. Les arrêts d'une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b), sont susceptibles d'amélioration ou de révision.
+
+§ 2. Lorsqu'un arrêt comporte une erreur matérielle, une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b), peut prononcer un arrêt rectificatif à sa propre initiative ou à la demande d'une des parties concernées.
+
+Une erreur concernant le droit ou concernant les faits ne constitue jamais une erreur matérielle.
+
+§ 3. Un recours de révision peut être introduit lorsque, depuis le prononcé de l'arrêt final concernant la demande d'annulation, des pièces décisives ont été retrouvées qui avaient été retenues par le biais de la partie adverse ou lorsque l'arrêt a été prononcé sur la base de pièces reconnues fausses ou déclarées fausses.
+
+Seulement ceux qui étaient concernés comme partie lors de l'arrêt contesté, peuvent introduire un recours de révision par voie de requête.
+
+Un recours de révision ne suspend pas l'exécution, à moins que le président de la chambre en décide autrement par disposition.
+
+Les parties sont invitées à comparaître lors d'une séance où le recours de révision est traité.
+
+La même partie ne peut introduire qu'une seule fois un recours de révision contre un arrêt final se prononçant sur la demande d'annulation.
+
+Aucun recours de révision ne peut être introduit contre un arrêt se prononçant sur un recours de révision.
+
+§ 4. Le Gouvernement flamand peut fixer des modalités pour l'application du régime de la procédure pour l'amélioration ou la révision d'arrêts, y compris la détermination des délais et l'organisation des séances visées au présent article.
+
+##### Art. 39/1
+
+[<sup>1</sup> Une juridiction administrative flamande, telle que visée à l'article 2, 1°, a) et b), peut imposer d'office une amende pour recours manifestement abusif.
+
+L'amende, visée à l'alinéa 1er, s'élève au minimum à 125 euros et au maximum à 2 500 euros. Le Gouvernement flamand peut modifier les montants précités par suite de l'évolution de l'indice des prix à la consommation.
+
+Les recettes de l'amende, visée à l'alinéa 1er, sont versées sur le compte du fonds pour le service des Juridictions administratives.
+
+Le Gouvernement flamand fixe les règles d'imposition et de perception de l'amende, visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-26/52, art. 110, 021; En vigueur : 07-09-2024&gt;
+
+### Section 3. - Dispositions applicables au Conseil pour les Contestations des Autorisations
+
+##### Art. 40
+
+[<sup>1</sup> § 1er. Sans préjudice de l'application de l'article 14, une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) peut ordonner à tout moment la suspension de la décision contestée à condition qu'il soit démontré que :
+
+1° l'affaire est urgente, de sorte que son traitement est incompatible avec le délai de traitement d'une demande d'annulation ;
+
+2° et qu'au moins un moyen sérieux est apporté qui justifie à première vue l'annulation de la décision contestée.
+
+§ 2. Sans préjudice de l'application du paragraphe 1er, une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) peut ordonner à tout moment la suspension en raison de l'extrême urgence à condition qu'il soit démontré que :
+
+1° l'affaire est extrêmement urgente, de sorte que son traitement est incompatible avec le délai de traitement d'une demande de suspension telle que visée au paragraphe 1er ;
+
+2° et qu'au moins un moyen sérieux est apporté qui justifie à première vue l'annulation de la décision contestée.
+
+Le cas échéant, cette suspension peut être ordonnée sur demande à titre de mesure provisoire sans que les parties ou certaines d'entre elles aient été entendues. Dans ce cas, l'arrêt qui ordonne la suspension provisoire convoque les parties dans les trois jours devant la chambre qui statue sur la confirmation de la suspension.
+
+§ 3. La requête, introduite conformément au présent article, décrit les motifs sur la base desquels la suspension de l'exécution de la décision contestée est demandée.
+
+§ 4. Sans préjudice de l'application de la procédure, visée au paragraphe 2, alinéa 2, l'arrêt de suspension, prononcé conformément au présent article, est rendu après que les parties ont été entendues ou dûment convoquées.
+
+Lorsque la partie requérante ne se présente pas ou n'est pas représentée lors de la séance, la demande de suspension est rejetée.
+
+§ 5. En cas d'une demande de suspension introduite conformément au présent article, à la demande de la partie défenderesse ou intervenante, une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) tient compte des conséquences probables de la suspension de l'exécution pour tous les intérêts susceptibles d'être lésés, ainsi que de l'intérêt général. La juridiction administrative flamande peut décider de ne pas ordonner la suspension si les conséquences négatives de la suspension l'emportent de manière manifestement déraisonnable sur ses avantages.
+
+§ 6. Lorsqu'une demande de suspension, introduite conformément au présent article, est rejetée à défaut d'urgence ou d'urgence extrême, une nouvelle demande ne peut être introduite que si celle-ci est basée sur de nouveaux éléments justifiant l'urgence ou l'urgence extrême de cette demande. Une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) peut en outre déterminer un délai dans lequel aucune nouvelle demande de suspension ne peut être introduite si le seul nouvel élément invoqué consiste en le déroulement du temps.
+
+§ 7. Si une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) est saisie d'une demande de suspension, introduite conformément au présent article, et d'une demande d'annulation, et si le requérant renonce, au cours de la procédure de suspension, au recours qu'il a introduit, ou si la décision contestée est retirée, de sorte qu'un jugement n'est plus nécessaire, la juridiction administrative flamande peut se prononcer dans un seul arrêt sur la demande de suspension et la demande d'annulation.
+
+§ 8. La suspension ordonnée en application du présent article est immédiatement abrogée, en application de la procédure visée au paragraphe 13, s'il paraît qu'aucune requête en annulation n'est introduite dans le délai de recours fixé au décret, visé à l'article 2, 1°, a) et b).
+
+§ 9. Une requête en suspension instituée en application de la procédure visée au présent article, en dehors du délai fixé aux décrets, visés à l'article 2, 1°, a) et b), ne peut pas contenir de moyens non formulés dans la requête en annulation.
+
+§ 10. Une demande de suspension, introduite conformément au présent article, interrompt les échéances pour l'introduction des notes dans le cadre de la demande d'annulation à partir de la date de réception de la requête par une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) jusqu'au jour suivant la notification de la demande introduite de continuation de la procédure. Le greffier en informe immédiatement les parties.
+
+§ 11. Le Gouvernement flamand fixe les échéances dans lesquelles les parties introduisent le dossier administratif et leurs notes. Ces échéances ne peuvent être inférieures à quinze jours en cas de demandes instituées conformément à la procédure visée au paragraphe 1er.
+
+Le Gouvernement flamand arrête les modalités concernant le traitement de la demande de suspension introduite conformément au présent article.
+
+§ 12. L'arrêt ordonnant la suspension de l'exécution de la décision contestée, conformément au présent article, peut imposer à la demande d'une partie, une astreinte à une autre partie en faveur de la partie qui a demandé l'imposition de l'astreinte. Dans ce cas, l'article 38, §§ 2 à 4 inclus, s'applique par analogie.
+
+§ 13. A la demande des parties ou d'initiative, une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) peut abroger les arrêts par lesquels la suspension est ordonnée.
+
+L'abrogation est uniquement possible lorsque de nouveaux faits, soit de droit, soit de fait, se présentent ou lorsque les circonstances ont tellement changé que la suspension n'est plus justifiée.
+
+Les parties sont invitées à comparaître lors d'une séance où la demande d'abrogation est traitée.
+
+Le Gouvernement flamand peut arrêter des modalités pour l'application du régime de la procédure pour l'abrogation d'arrêts, y compris la détermination des délais et l'organisation des séances visées au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 113, 021; En vigueur : 07-09-2024&gt;
+
+##### Art. 41
+
+[<sup>1</sup> Lorsqu'une juridiction administrative flamande telle que visée à l'article 2, 1°, a) et b) est saisie, conformément à l'article 40, d'une demande de suspension ou de suspension pour cause d'extrême urgence, la juridiction administrative flamande est la seule à pouvoir ordonner, sur demande, à titre provisoire et aux conditions fixées à l'article 40, § 1er, § 2, et § 5, toutes mesures nécessaires pour protéger les intérêts des parties ou des personnes ayant un intérêt à la solution de l'affaire, à l'exception des mesures concernant les droits civils.
+
+[<sup>2</sup> Si les décrets visés à l'article 2, 1°, a), du présent décret, déclarent applicable le chapitre 10, section 14, du Décret-cadre Maintien flamand du 14 juillet 2023 et si]<sup>2</sup> la juridiction administrative flamande, visée à l'article 2, 1°, a) et b), est d'avis qu'il y a des raisons, conformément à l'article 40, de procéder à la suspension de l'exécution d'une décision administrative de sécurité telle que visée à l'article [<sup>2</sup> 102/2]<sup>2</sup> du Décret-cadre Maintien flamand du 14 juillet 2023, elle peut décider, d'office ou sur demande, d'adapter temporairement la décision de sécurité.
+
+Ces mesures sont ordonnées par un arrêt motivé, après avoir entendu ou dûment appelé les parties.
+
+Lorsque la partie requérante ne se présente pas ou n'est pas représentée lors de la séance, la demande de mesures provisoires est rejetée.
+
+Lorsqu'une demande de mesures provisoires est rejetée à défaut d'urgence ou urgence extrême, une nouvelle demande ne peut être introduite que si celle-ci est basée sur de nouveaux éléments justifiant l'urgence ou l'urgence extrême de cette demande. Une juridiction administrative flamande, visée à l'article 2, 1°, a) et b) peut en outre déterminer un délai dans lequel aucune nouvelle demande de mesures provisoires ne peut être introduite si le seul nouvel élément invoqué consiste en le déroulement du temps.
+
+Dans les cas d'extrême urgence, des mesures provisoires peuvent être ordonnées sans que les parties ou certaines d'entre elles aient été entendues. Dans ce cas, l'arrêt qui ordonne les mesures provisoires convoque les parties dans les trois jours devant la chambre qui statue sur le maintien des mesures qui n'auraient pas été exécutées.
+
+Les mesures ordonnées en application du présent article sont immédiatement abrogées, en application de la procédure visée à l'article 40, § 13, s'il paraît qu'aucune requête en annulation n'est introduite dans le délai de recours fixé au décret, visé à l'article 2, 1°, a) et b).
+
+L'article 40, § 12 et § 13, s'applique par analogie aux arrêts rendus en vertu du présent article.
+
+Le Gouvernement flamand arrête la procédure relative aux mesures visées au présent article. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 114, 021; En vigueur : 07-09-2024&gt;
+
+(2)&lt;DCFL 2025-12-12/26, art. 4, 022; En vigueur : 25-01-2026&gt;
+
+##### Art. 42
+
+§ 1er. Concernant la résolution d'une contestation portée devant le Conseil pour les Contestations des Autorisations, le Conseil peut, sur la demande conjointe des parties ou à sa propre initiative mais moyennant l'accord des parties,[<sup>3</sup> procéder à la médiation par le biais d'un procès-verbal]<sup>3</sup> tant que le recours n'a pas été mis en délibéré.
+
+§ 2. En cas d'acceptation de la demande de médiation, le greffier envoie immédiatement une copie [<sup>3</sup> du procès-verbal]<sup>3</sup>, visé au paragraphe 1er, aux parties ainsi qu'au médiateur.
+
+Les personnes suivantes peuvent être désignées comme médiateur par le Conseil pour les Contestations des Autorisations : [<sup>2</sup> un membre du personnel du Service des Juridictions administratives]<sup>2</sup> ou des tiers qui sont présentés conjointement par les parties.
+
+Le médiateur répond aux conditions suivantes :
+
+1° il possède une connaissance approfondie et de l'expérience utile du domaine concerné du droit flamand [<sup>3</sup> qui fait l'objet de la contestation]<sup>3</sup> [<sup>1</sup> (NOTE : ajout non traduite, voir version néerlandaise)]<sup>1</sup> ;
+
+2° il fait preuve d'une formation appropriée pour la pratique de médiation ;
+
+3° il offre les garanties nécessaires pour une médiation indépendante et impartiale ;
+
+4° il n'a pas encouru de condamnations pénales ou de sanctions disciplinaires qui sont incompatibles avec l'exercice de la fonction de médiateur.
+
+Lors de la médiation, le médiateur tente d'établir un dialogue direct entre les parties et il fournit du soutien pour un bon déroulement du dialogue. La médiation se déroule selon les principes suivants :
+
+1° volontariat ;
+
+2° indépendance et impartialité du médiateur ;
+
+3° confidentialité.
+
+Le médiateur peut également associer des tiers à la médiation.
+
+§ 3. Si la médiation aboutit à un accord de médiation, les parties peuvent ou un d'entre eux peut demander au Conseil pour les Contestations des Autorisations de valider cet accord.
+
+[<sup>2</sup> Si l'accord de médiation est ratifié, les frais tels que visés à l'article 33, alinéas 3 et 4, sont répartis de manière égale sur les parties, par dérogation à l'article 33, alinéa 1er, sauf disposition contraire dans l'accord de médiation.]<sup>2</sup>
+
+Le Conseil pour les Contestations des Autorisations peut uniquement refuser la validation lorsque l'accord est contraire à l'ordre public, à la réglementation ou aux prescriptions urbanistiques.
+
+A défaut d'un accord de médiation ou lorsque le Conseil pour les Contestations des Autorisations constate que les conditions essentielles pour une médiation réussie ne sont pas ou ne sont plus remplies, la continuation de la procédure juridictionnelle sera [<sup>3</sup> arrêtée]<sup>3</sup> par le biais d'un [<sup>3</sup> procès-verbal]<sup>3</sup>.
+
+§ 4. Une demande de médiation [<sup>3</sup> signée conjointement]<sup>3</sup> suspend les délais de procédure à partir de la date de réception de la demande par le Conseil pour les Contestations des Autorisations jusqu'à :
+
+1° la date de validation de l'accord de médiation, visé au paragraphe 3, alinéa premier ;
+
+2° le jour suivant la notification [<sup>3</sup> du procès-verbal]<sup>3</sup>, visé au [<sup>2</sup> paragraphe 3, alinéa quatre]<sup>2</sup>.
+
+§ 5. Le Gouvernement flamand arrête les exigences formelles auxquelles une demande de médiation doit répondre, la possibilité de régularisation de ces exigences et les délais de la médiation, ainsi que toutes mesures complémentaires concernant l'organisation de la médiation [<sup>2</sup> , ainsi que les frais résultant de la médiation]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2014-04-25/M4, art. 385, 004; En vigueur : 23-02-2017&gt;
+
+(2)&lt;DCFL 2016-12-09/09, art. 16, 005; En vigueur : 24-04-2017&gt;
+
+(3)&lt;DCFL 2021-05-21/15, art. 8, 014; En vigueur : 01-12-2021&gt;
+
+##### Art. 43
+
+&lt;Abrogé par DCFL 2024-04-26/52, art. 115, 021; En vigueur : 07-09-2024&gt;
+
+### Section 4. - Disposition applicable au [<sup>1</sup> Collège de maintien]<sup>1</sup> de la Région flamande
+
+----------
+
+(1)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+##### Art. 44
+
+[<sup>1</sup> Après l'annulation entière ou partielle, le Collège de maintien de la Région flamande peut prendre lui-même une décision quant au montant de l'amende et, le cas échéant, sur le dessaisissement d'avantages et l'exclusion de l'aide, ainsi que sur les mesures de réparation publiques et les décisions administratives de sécurité. Le Collège de maintien peut décider que sa décision à ce sujet remplace la décision annulée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-26/52, art. 116, 021; En vigueur : 07-09-2024&gt;
+
+### Section 5. [<sup>1</sup> - Dispositions applicables au Conseil de règlement des différends en matière de décisions sur la progression des études]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-17/18, art. 23, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 44/1
+
+[<sup>1</sup> La juridiction administrative flamande mentionnée à l'article 2, 1°, d), évalue si les décisions sur la progression des études respectent :
+
+1° les dispositions décrétales et réglementaires et le règlement des études et des examens ;
+
+2° les principes administratifs généraux.
+
+La juridiction administrative flamande visée à l'article 2, 1°, d), ne substitue pas son appréciation concernant la valeur d'un candidat à celle de la direction ou de tout organe agissant sous la responsabilité de la direction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-17/18, art. 24, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 44/2
+
+[<sup>1</sup> § 1er. Le traitement de la requête par la juridiction administrative flamande, visée à l'article 2, 1°, d), conduit :
+
+1° au rejet motivé du recours en raison de son irrecevabilité ou de son caractère non fondé ; ou
+
+2° à l'annulation motivée de la décision illégitime sur la progression des études, auquel cas la juridiction administrative flamande visée à l'article 2, 1°, d), peut ordonner à la direction de prendre une nouvelle décision, aux conditions fixées par la juridiction administrative flamande. Ces conditions peuvent impliquer :
+
+a) une nouvelle décision (disciplinaire) d'examen est subordonnée à l'organisation d'un nouvel examen ou d'une partie de celui-ci. La juridiction administrative flamande visée à l'article 2, 1°, d), peut déterminer la durée et les conditions matérielles dans lesquelles cette organisation doit avoir lieu ;
+
+b) une nouvelle décision d'octroi d'un certificat d'aptitude est, le cas échéant, subordonnée à l'organisation d'un nouvel examen d'aptitude ou d'une partie de celui-ci. La juridiction administrative flamande visée à l'article 2, 1°, d), peut déterminer la durée et les conditions matérielles dans lesquelles cette organisation doit avoir lieu ;
+
+c) des motifs irréguliers ou déraisonnables déterminés ne sont pas associés à la formation de la nouvelle décision ;
+
+d) des motifs réguliers et raisonnables déterminés doivent manifestement être pris en compte lors de la formation de la nouvelle décision.
+
+Le délai pour prendre une nouvelle décision conformément à l'alinéa 1er, 2°, est d'au moins sept jours calendaires.
+
+Dans le cas visé à l'alinéa 1er, 2°, la juridiction administrative flamande visée à l'article 2, 1°, d), peut, s'il l'estime manifestement nécessaire au vu des faits avancés, ordonner que le requérant soit inscrit provisoirement dans l'attente d'une nouvelle décision, comme si aucune décision négative sur la progression des études n'avait été prise.
+
+§ 2. Lors du traitement d'une requête ayant pour objet une décision sur la progression d'études telle que visée à l'article I.3, 69°, i), du Code de l'Enseignement supérieur du 11 octobre 2013, la juridiction administrative flamande visée à l'article 2, 1°, d), du présent décret, juge si, le cas échéant, il s'agit d'un cas de force majeure non remédiable ou non et si, d'un point de vue organisationnel, il est possible d'élaborer un règlement des examens adapté à l'étudiant concerné.
+
+§ 3. La juridiction administrative flamande visée à l'article 2, 1°, d), répond dans ses prononcés à toutes les observations des parties susceptibles d'influencer la solution à donner au litige.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-17/18, art. 25, 016; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE 5. - Exécution
+
+##### Art. 45
+
+Les arrêts d'une juridiction administrative flamande sont exécutoires de plein droit. Le Gouvernement flamand assure leur exécution y compris l'établissement du formulaire d'exécution.
+
+## CHAPITRE 6. - Publication
+
+##### Art. 46
+
+Une juridiction administrative flamande assure la publication des arrêts sur le site web du service des Juridictions administratives.
+
+Lors de la publication de l'arrêt, l'identité de personnes physiques peut être omise, à la demande explicite d'une personne physique qui est partie au litige devant une juridiction administrative flamande. Cette demande peut être introduite dans la requête ou, le cas échéant, jusqu'à la clôture des débats. Le dispositif de l'arrêt fait état expressément de cette dépersonnalisation.
+
+Dans des circonstances exceptionnelles, une personne physique qui était partie à un litige dont une juridiction administrative flamande était saisie, peut demander, sur la base de données dont elle n'avait pas connaissance avant l'introduction de la requête ou la clôture des débats, de ne plus mentionner l'identité des personnes physiques qu'elle désigne, dans la publication des arrêts en format numérique.
+
+Une personne physique qui n'était pas partie au litige mais qui a un intérêt à l'omission de l'identité lors de la publication, peut également introduire une demande pareille, si cet intérêt est démontré.
+
+La demande motivée est transmise par envoi sécurisé au premier président.
+
+Le premier président décide de la demande motivée.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, les arrêts prononcés en exécution de l'article II.204, § 3, du Code de l'Enseignement supérieur du 11 octobre 2013 ne sont publiés que par décision du président de la juridiction administrative flamande visée à l'article 2, 1°, d), du présent décret, lorsque ces arrêts peuvent avoir un intérêt pour la jurisprudence ou la recherche juridique, et sous réserve de dépersonnalisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-03-17/18, art. 26, 016; En vigueur : 01-09-2023&gt;
+
+##### Art. 47
+
+Le cas échéant, tout arrêt mentionne la décision que l'arrêt est publié de la manière y fixée.
+
+##### Art. 48
+
+Le premier président transmet le rapport annuel au président du Parlement flamand et au Gouvernement flamand. Le rapport annuel comprend un aperçu des activités des juridictions administratives flamandes pendant l'année précédente.
+
+## CHAPITRE 7. - Statut des juges administratifs
+
+### Section 1re. - Sélection et nomination
+
+##### Art. 49
+
+§ 1er. Le Gouvernement flamand nomme les juges administratifs effectifs à vie auprès d'une juridiction administrative flamande, sur la proposition de l'assemblée générale.
+
+Les juges administratifs effectifs répondent au minimum aux conditions de nomination suivantes :
+
+1° être détenteur du diplôme de licencié ou de master en droit ;
+
+2° avoir une connaissance approfondie et au moins dix années d'expérience utile dans les domaines du droit flamand en matière d'aménagement du territoire et du droit environnemental flamand ;
+
+3° posséder une connaissance approfondie de la procédure et de la protection juridique dans des affaires administratives ou judiciaires.
+
+[<sup>1</sup> 4° avoir une connaissance approfondie du droit d'expropriation flamand.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 2, les juges administratifs effectifs nommés à la juridiction administrative flamande visée à l'article 2, 1°, d), remplissent au moins toutes les conditions de nomination suivantes :
+
+1° être titulaire d'une licence ou d'une maîtrise en droit ;
+
+2° posséder une connaissance approfondie du droit flamand de l'enseignement ;
+
+3° posséder une connaissance approfondie de la procédure et de la protection juridique dans les matières administratives ou juridiques.]<sup>2</sup>
+
+§ 2. Par dérogation au paragraphe 1er, alinéa premier, le Gouvernement flamand peut nommer auprès de la juridiction administrative flamande, visée à l'article 2, 1°, c), des juges administratifs complémentaires, sur la proposition de l'assemblée générale, pour une période de six ans qui est renouvelable.
+
+Par dérogation au paragraphe 1er, alinéa deux, nul ne peut être nommé comme juge administratif complémentaire [<sup>2</sup> à la juridiction administrative flamande visée à l'article 2, 1°, c),]<sup>2</sup> s'il ne peut démontrer son expertise dans le domaine du droit public, des sciences politiques ou des sciences administratives.
+
+[<sup>2</sup> Outre les juges administratifs effectifs, le Gouvernement flamand peut nommer des juges administratifs complémentaires à la juridiction administrative flamande visée à l'article 2, 1°, d), sur proposition de l'assemblée générale pour une période renouvelable de six ans.
+
+Nul ne peut être nommé juge administratif complémentaire à la juridiction administrative flamande visée à l'article 2, 1°, d), à moins qu'il ne remplisse au moins les conditions de nomination visées au paragraphe 1er, alinéa 3.
+
+Le Gouvernement flamand nomme les assesseurs de la juridiction administrative flamande visée à l'article 2, 1°, d), sur proposition de l'assemblée générale, pour une période renouvelable de six ans.
+
+Les assesseurs nommés à la juridiction administrative flamande visée à l'article 2, 1°, d), remplissent au moins toutes les conditions de nomination suivantes :
+
+1° au moment de la nomination, avoir été chargé d'une mission d'enseignement pendant au moins cinq ans en tant que membre du personnel académique ou enseignant d'un établissement relevant du Code de l'enseignement supérieur du 11 octobre 2013, qui s'est achevée au plus tard trois ans avant la nomination ;
+
+2° posséder une connaissance approfondie de l'enseignement supérieur ;
+
+3° posséder une connaissance approfondie des procédures de recours dans l'enseignement supérieur.]<sup>2</sup>
+
+§ 3. Le Gouvernement flamand déclare vacante la fonction de juge administratif.
+
+§ 4. Les candidats sont sélectionnés par une commission de sélection. La sélection vise à évaluer les capacités requises pour l'exercice de la fonction de juge administratif. L'assemblée générale fixe la composition de la commission de sélection. La commission de sélection établit le programme de l'épreuve de sélection et le soumet à la ratification de l'assemblée générale.
+
+Sur la base de l'évaluation des candidats, l'assemblée générale émet une proposition motivée au Gouvernement flamand, après avoir comparé les prétentions et mérites respectifs des candidats qui ont réussi l'épreuve de sélection, visée à l'alinéa premier, complétée par un interview avec les candidats classés favorablement.
+
+Par dérogation à l'alinéa premier, l'assemblée générale peut décider de ne pas organiser une épreuve de sélection pour les juges administratifs complémentaires.
+
+§ 5. Le Gouvernement flamand arrête les modalités relatives à l'application de ces dispositions, y compris les modalités relatives à l'appel aux candidats juges administratifs.
+
+(NOTE : par son arrêt n° 152/2015 du 29-10-2015 (M.B. 22-12-2015, p. 76924-76937), la Cour Constitutionnelle a annulé l'article 49, § 4, dernier alinéa)
+
+----------
+
+(1)&lt;DCFL 2017-02-24/22, art. 120, 007; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2023-03-17/18, art. 27, 016; En vigueur : 01-06-2023&gt;
+
+##### Art. 49/1
+
+[<sup>1</sup> Deux tiers au plus des membres de la juridiction administrative flamande administrative flamande visée à l'article 2, 1°, d), nommés par le Gouvernement flamand, peuvent être du même sexe.
+
+Si aucun candidat du sexe sous-représenté n'est classé en ordre utile après la procédure de sélection visée à l'article 49, il peut être dérogé à l'obligation visée à l'alinéa 1er, lors de la présentation, de manière motivée, sur la base des titres et mérites du candidat proposé de l'autre sexe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-17/18, art. 28, 016; En vigueur : 01-06-2023&gt;
+
+##### Art. 50
+
+Les juges administratifs prennent leur fonction après qu'ils aient prêté le serment suivant entre les mains [<sup>1</sup> du Ministre flamand responsable au niveau fonctionnel]<sup>1</sup> : " Je jure d'être fidèle aux obligations de ma fonction ".
+
+----------
+
+(1)&lt;DCFL 2015-07-03/05, art. 7, 002; En vigueur : 01-04-2015&gt;
+
+##### Art. 51
+
+[<sup>1</sup> Le juge administratif effectif sera nommé à temps plein.]<sup>1</sup>
+
+La fonction de juge administratif effectif est incompatible avec l'exercice de n'importe quelle autre activité, fonction ou mandat rémunérés. L'assemblée générale peut autoriser ou abroger l'autorisation de l'exercice de certains activités, fonctions ou mandats.
+
+La fonction de juge administratif effectif est incompatible avec toute activité qu'il accomplit lui-même ou par un intermédiaire et qui :
+
+1° l'empêche d'accomplir les devoirs de sa fonction ;
+
+2° compromet la dignité de la fonction et/ou porte atteinte à la confiance du public en le service ;
+
+3° sa propre indépendance est atteinte ;
+
+4° donne lieu à un conflit d'intérêts.
+
+La fonction de juge administratif complémentaire [<sup>1</sup> à la juridiction administrative flamande visée à l'article 2, 1°, c),]<sup>1</sup> est incompatible avec un mandat politique, avec une activité professionnelle compromettant l'impartialité et l'indépendance du juge administratif complémentaire et avec toute activité entraînant des intérêts contradictoires.
+
+[<sup>1</sup> La fonction de juge administratif complémentaire ou d'assesseur à la juridiction administrative flamande visée à l'article 2, 1°, d), est incompatible avec une activité professionnelle qui compromet l'impartialité et l'indépendance du juge administratif et avec toute activité qui conduit à des conflits d'intérêts.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-03-17/18, art. 29, 016; En vigueur : 01-06-2023&gt;
+
+### Section 2. - Rémunération
+
+##### Art. 52
+
+Le premier président reçoit un traitement dans l'échelle A311, une allocation de mandat classe B, ainsi que les autres allocations, indemnités et avantages sociaux, visés au statut du personnel flamand du 13 janvier 2006, à l'exception des allocations de prestation.
+
+Le juge administratif effectif reçoit un traitement dans l'échelle A311, ainsi que les allocations, indemnités et avantages sociaux, visés au statut du personnel flamand du 13 janvier 2006, à l'exception des allocations de prestation.
+
+Les services et l'expérience du premier président et des juges administratifs effectifs sont pris en compte pour leur ancienneté pécuniaire telle que visée à l'article VII 2 du statut du personnel flamand du 13 janvier 2006.
+
+Le président de la juridiction administrative flamande, visée à l'article 2, 1°, c), reçoit une indemnité forfaitaire par séance de l'assemblée générale, et le juge administratif complémentaire, [<sup>1</sup> et l'assesseur]<sup>1</sup> visé à l'article 49, § 2, reçoit une indemnité forfaitaire par séance de la juridiction administrative. Le montant est fixé par le Gouvernement flamand. Ils prétendent également au remboursement des frais de parcours et de séjour, visés au statut du personnel flamand du 13 janvier 2006.
+
+----------
+
+(1)&lt;DCFL 2023-03-17/18, art. 30, 016; En vigueur : 01-09-2023&gt;
+
+### Section 3. - Démission et mise à la retraite
+
+##### Art. 53
+
+Les juges administratifs peuvent démissionner à tout moment. Ils continuent toutefois à exercer leur fonction jusqu'à ce qu'ils soient remplacés, pendant six mois au maximum.
+
+Un juge administratif effectif cesse d'exercer sa fonction et est mis à la retraite par l'assemblée générale à un des moments suivants :
+
+1° à la fin du mois auquel il atteint l'âge de soixante-sept ans ;
+
+2° après l'avis d'un service médical qui dispose de l'expertise en matière de mise à la retraite anticipée, s'il n'est plus capable d'exercer convenablement ses fonctions à cause d'une infirmité grave et permanente. Le Gouvernement flamand arrête les modalités en la matière.
+
+[<sup>1</sup> A sa demande et sur la proposition du premier président, le Gouvernement flamand peut autoriser un juge administratif effectif qui a atteint l'âge de soixante-sept ans, à continuer à exercer sa fonction jusqu'à ce que le juge administratif ait atteint l'âge de septante ans]<sup>1</sup>.
+
+[<sup>1</sup> L'autorisation, visée à l'alinéa trois, vaut pour une période d'un an, et peut être renouvelée.
+
+Le juge administratif qui souhaite continuer à exercer sa fonction après avoir atteint l'âge de soixante-sept ans, introduit à cet effet une demande auprès du premier président, au plus tôt dix-huit mois avant le jour auquel il a atteint l'âge de soixante-sept ans et au plus tard neuf mois avant ce jour.
+
+Le juge administratif qui souhaite introduire une demande de renouvellement de l'autorisation, doit l'introduire au plus tard six mois avant l'expiration de l'autorisation précédente.
+
+En même temps, le juge administratif transmet une copie de sa demande, ou le cas échéant de sa demande de renouvellement, au Gouvernement flamand.
+
+Le premier président transmet son avis motivé au Gouvernement flamand dans le délai d'un mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-12-09/09, art. 17, 005; En vigueur : 24-04-2017&gt;
+
+### Section 4. - L'évaluation des juges administratifs effectifs et du premier président
+
+##### Art. 54
+
+§ 1er. Les juges administratifs effectifs et le premier président reçoivent une évaluation écrite et descriptive motivée.
+
+L'évaluation ne comprend pas de jugement final, sauf si l'évaluateur estime que la mention 'insuffisant' doit être attribuée à l'évalué.
+
+L'évaluation du juge administratif effectif a lieu pour la première fois dans les trois mois après l'expiration d'un an après la prestation de serment et ensuite dans les trois mois après l'expiration de la période d'évaluation de trois années. Une nouvelle évaluation intérimaire précoce peut être tenue si des faits négatifs particuliers se sont produits ou si des constatations négatives particulières ont été faites depuis la dernière évaluation.
+
+L'évaluation du premier président a lieu pour la première fois dans les trois mois après l'expiration d'un an après la première désignation et ensuite dans les trois mois après l'expiration de la période d'évaluation de trois années. Une nouvelle évaluation intérimaire précoce peut être tenue si des faits négatifs particuliers se sont produits ou si des constatations négatives particulières ont été faites depuis la dernière évaluation.
+
+§ 2. L'évaluation concerne le mode d'exercice de la fonction et est faite sur la base de critères relatifs à la personnalité ainsi qu'aux capacités intellectuelles, professionnels et organisationnelles, y compris la qualité des prestations fournies sans qu'il soit porté préjudice à l'indépendance et l'impartialité du juge administratif. Le Gouvernement flamand établit les critères d'évaluation après avoir demandé l'avis de l'assemblée générale.
+
+Le premier président évalue le juge administratif effectif. Le collège d'évaluation, qui se compose des trois juges administratifs effectifs les plus âgés, évalue le premier président.
+
+##### Art. 55
+
+Sous peine de déchéance, le juge administratif effectif et le premier président peuvent introduire un recours contre la mention 'insuffisant' auprès de la commission de recours, dans un délai de quinze jours calendaires suivant la notification de l'évaluation.
+
+L'assemblée générale fixe la composition de la commission de recours. Le premier président et les membres du collège d'évaluation qui ont effectué l'évaluation, ne peuvent pas faire partie de la commission de recours.
+
+Le recours, visé à l'alinéa premier, est suspensif.
+
+##### Art. 56
+
+Si un juge administratif effectif a obtenu l'évaluation 'insuffisant', il est réévalué après un an.
+
+Si, après une évaluation 'insuffisant', le juge administratif effectif obtient une deuxième évaluation 'insuffisant' lors d'une des deux évaluations suivantes, l'assemblée générale se prononce par arrêt sur le licenciement du juge administratif effectif.
+
+Si le premier président a obtenu une fois l'évaluation 'insuffisant', il est mis prématurément fin à son mandat.
+
+Le juge administratif effectif licencié reçoit une indemnité pour cause de licenciement. Cette indemnité égale douze fois la dernière rémunération mensuelle du juge administratif s'il compte au moins vingt années de service, huit fois ou six fois cette rémunération selon que le juge administratif compte dix années ou moins de dix années de service.
+
+##### Art. 57
+
+Le Gouvernement flamand arrêté les modalités pour l'évaluation, y compris au moins la procédure d'évaluation et la procédure de recours.
+
+### Section 5. - Régime disciplinaire et mesure d'ordre
+
+##### Art. 58
+
+Les peines disciplinaires suivantes peuvent être prononcées contre un juge administratif effectif et le premier président qui omet de respecter les devoirs de sa fonction ou qui, par son comportement, porte préjudice à la dignité de sa fonction :
+
+1° le blâme ;
+
+2° la retenue de traitement ;
+
+3° la suspension disciplinaire ;
+
+4° la démission d'office ;
+
+5° la révocation.
+
+La retenue de traitement est appliquée pour une période de trois mois au maximum et ne peut excéder un cinquième de la rémunération nette.
+
+La suspension disciplinaire est prononcée pour une période de trois mois au maximum et peut provoquer une retenue de traitement qui ne peut dépasser un cinquième de la rémunération nette.
+
+Lors de la suspension disciplinaire, le juge administratif effectif se trouve dans une position administrative de non-activité avec maintien du traitement, sans préjudice de l'alinéa premier.
+
+La démission d'office et la révocation entraînent la perte de la qualité de juge administratif.
+
+##### Art. 59
+
+L'autorité disciplinaire compétente d'engager une procédure disciplinaire et d'imposer une des peines disciplinaires, visées à l'article 58, alinéa premier, est :
+
+1° le premier président à l'égard des juges administratifs effectifs ;
+
+2° le collège disciplinaire, qui se compose des trois juges administratifs effectifs les plus âgés, à l'égard du premier président.
+
+##### Art. 60
+
+Sous peine de déchéance, le juge administratif effectif et le premier président peuvent introduire un recours motivé contre la peine disciplinaire prononcée, auprès de la commission de recours dans un délai de quinze jours calendaires suivant la notification de ladite peine disciplinaire.
+
+L'assemblée générale fixe la composition de la commission de recours. Le premier président et les membres du collège disciplinaire qui ont prononcé la peine disciplinaire en première instance, ne peuvent pas faire partie de la commission de recours.
+
+##### Art. 61
+
+Le Gouvernement flamand arrête les modalités relatives à la procédure disciplinaire, y compris au moins la manière dont la procédure disciplinaire est entamée et menée, la manière dont un recours peut être introduit et la procédure de recours est menée, et les règles pour la radiation des peines disciplinaires.
+
+##### Art. 62
+
+Lorsque le premier président ou un juge administratif effectif fait l'objet d'une poursuite pour [<sup>1</sup> un délit]<sup>1</sup> ou de poursuites disciplinaires, il peut être suspendu de sa fonction dans l'intérêt du service, à titre de mesure d'ordre, pour la durée de la poursuite et jusqu'à ce que la décision finale soit prise.
+
+Le premier président prononce la suspension du juge administratif effectif. Le collège disciplinaire, qui se compose des trois juges administratifs effectifs les plus âgés, prononce la suspension à l'égard du premier président.
+
+Sous peine de déchéance, le juge administratif effectif et le premier président peuvent introduire un recours motivé contre la mesure d'ordre, auprès de la commission de recours dans un délai de quinze jours calendaires suivant la notification de ladite mesure d'ordre.
+
+L'assemblée générale fixe la composition de la commission de recours. Le premier président et les membres du collège disciplinaire qui ont prononcé la suspension en première instance, ne peuvent pas faire partie de la commission de recours.
+
+Le Gouvernement flamand arrête les modalités relatives à la suspension, y compris au moins la manière dont un recours peut être introduit et la procédure de recours est menée, et les conséquences de la suspension.
+
+----------
+
+(1)&lt;DCFL 2026-07-17/28, art. 40, 025; En vigueur : 01-09-2026&gt;
+
+### Section 6. - Autres parties du statut du juge administratif
+
+##### Art. 63
+
+[<sup>1</sup> Le juge administratif effectif peut obtenir un congé pour prestations à temps partiel comme faveur pendant toute la durée de sa carrière. Les prestations de travail peuvent être réduites jusqu'à un maximum de 80 % d'un emploi à temps plein en application de ce congé. Le juge administratif effectif demande le congé au président de la juridiction administrative flamande à laquelle il a été nommé. Le président refuse le congé si le bon fonctionnement du service l'exige.]<sup>1</sup>
+
+Sans préjudice de l'application des dispositions du présent décret relatives au statut du juge administratif, le Gouvernement flamand arrête les autres parties du statut du juge administratif, y compris au moins [<sup>1</sup> les droits et devoirs déontologiques, les congés et les exigences en matière de disponibilité des assesseurs]<sup>1</sup>.
+
+Le Gouvernement flamand établit le code de déontologie sur la proposition de l'assemblée générale.
+
+----------
+
+(1)&lt;DCFL 2023-03-17/18, art. 31, 016; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE 8. - Dispositions modificatives
+
+### Section 1re. - Modifications au décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement
+
+##### Art. 64
+
+A l'article 16.4.19 du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, inséré par le décret du 21 décembre 2007 et modifié par les décrets des 30 avril 2009 et 23 décembre 2010, sont apportées les modifications suivantes :
+
+1° dans le paragraphe 1er, l'alinéa trois est abrogé ;
+
+2° le paragraphe 4 est abrogé.
+
+##### Art. 65
+
+L'article 16.4.20 du même décret, inséré par le décret du 21 décembre 2007, est abrogé.
+
+##### Art. 66
+
+L'article 16.4.21 du même décret, inséré par le décret du 21 décembre 2007 et remplacé par le décret du 23 décembre 2010, est abrogé.
+
+##### Art. 67
+
+L'article 16.4.22 du même décret, inséré par le décret du 21 décembre 2007 et modifié par le décret du 30 avril 2009, est abrogé.
+
+##### Art. 68
+
+L'article 16.4.24 du même décret, inséré par le décret du 21 décembre 2007 et remplacé par le décret du 23 décembre 2010, est abrogé.
+
+##### Art. 69
+
+Dans l'article 16.4.39 du même décret, inséré par le décret du 21 décembre 2007 et remplacé par le décret du 23 décembre 2010, les mots " , dans un délai de trente jours suivant la notification de la décision contestée, " sont insérés entre les mots " par écrit " et les mots " auprès du ".
+
+##### Art. 70
+
+Dans l'article 16.4.44 du même décret, inséré par le décret du 21 décembre 2007 et remplacé par le décret du 23 décembre 2010, les mots " , dans un délai de trente jours suivant la notification de la décision contestée, " sont insérés entre les mots " par écrit " et les mots " auprès du ".
+
+##### Art. 71
+
+Les articles 16.4.62, 16.4.63 et 16.4.65 du même décret, insérés par le décret du 21 décembre 2007 et remplacés par le décret du 23 décembre 2010, sont abrogés.
+
+### Section 2. - Modifications du décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale
+
+##### Art. 72
+
+Dans l'article 15 du décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale, modifié par les décrets des 8 juillet 2011, 29 juin 2012 et 29 mars 2013, les paragraphes 2 à 9 inclus sont abrogés.
+
+##### Art. 73
+
+Dans l'article 16, § 2, alinéa deux, du même décret, le membre de phrase " à l'article 15, § 9, " est remplacé par le membre de phrase " à l'article 31, § 5, du décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes ".
+
+### Section 3. - Modifications du Code flamand de l'Aménagement du Territoire
+
+##### Art. 74
+
+L'article 4.2.11, § 2, du Code flamand de l'Aménagement du Territoire, modifié par le décret du 6 juillet 2012, est complété par les mots " et le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes ".
+
+##### Art. 75
+
+Dans l'article 4.8.1 du même code, remplacé par le décret du 6 juillet 2012, l'alinéa deux est abrogé.
+
+##### Art. 76
+
+Dans l'article 4.8.2 du même code, remplacé par le décret du 6 juillet 2012, les alinéas deux et trois sont abrogés.
+
+##### Art. 77
+
+Dans le titre IV, chapitre VIII, section 2, du même code, remplacé par le décret du 6 juillet 2012, la sous-section 2, qui comprend l'article 4.8.3, la sous-section 3, qui comprend l'article 4.8.4, et la sous-section 4, qui comprend l'article 4.8.5, sont abrogées.
+
+##### Art. 78
+
+Dans le titre IV, chapitre VIII, section 3, du même code, modifié par le décret du 6 juillet 2012, la sous-section 1re, qui comprend les articles 4.8.6 à 4.8.10 inclus, est abrogée.
+
+##### Art. 79
+
+A l'article 4.8.11 du même code, remplacé par le décret du 6 juillet 2012, sont apportées les modifications suivantes :
+
+1° dans le paragraphe 1er, alinéa premier, le mot " intéressés " est remplacé par le mot " personnes " ;
+
+2° dans le paragraphe 1er, alinéa deux, la phrase " L'intéressé à qui il peut être reproché qu'il n'a pas contesté une décision d'autorisation désavantageuse pour lui par le biais du recours administratif organisé ouvert auprès de la députation est censé avoir renoncé au droit de s'adresser au Conseil. " est remplacée par la phrase " La personne à qui il peut être reproché qu'elle n'a pas contesté une décision d'autorisation désavantageuse pour elle par le biais du recours administratif organisé ouvert auprès de la députation est censée avoir renoncé au droit de s'adresser au Conseil. " ;
+
+3° le paragraphe 3 est abrogé.
+
+##### Art. 80
+
+Les articles 4.8.12 et 4.8.13 du même code, remplacés par le décret du 6 juillet 2012, sont abrogés.
+
+##### Art. 81
+
+Dans le titre IV, chapitre VIII, section 3, du même code, modifié par le décret du 6 juillet 2012, la sous-section 3, qui comprend l'article 4.8.14, et la sous-section 4, qui comprend les articles 4.8.15 à 4.8.20 inclus, sont abrogées.
+
+##### Art. 82
+
+L'article 4.8.21 du même code, remplacé par le décret du 6 juillet 2012, est remplacé par la disposition suivante :
+
+" Art. 4.8.21. Chacune des personnes, visées à l'article 4.8.11, § 1er, alinéa premier, peut intervenir dans l'affaire. ".
+
+##### Art. 83
+
+Dans le titre IV, chapitre VIII, section 3, du même code, remplacé par le décret du 6 juillet 2012, la sous-section 6, qui comprend les articles 4.8.22 et 4.8.23, la sous-section 7, qui comprend les articles 4.8.24 à 4.8.27 inclus, et la sous-section 8, qui comprend les articles 4.8.28 à 4.8.32 inclus, sont abrogées.
+
+##### Art. 84
+
+Dans le titre IV, chapitre VIII, du même code, remplacé par le décret du 6 juillet 2012, la section 4, qui comprend les articles 4.8.33 à 4.8.40 inclus, la section 5, qui comprend les articles 4.8.41 à 4.8.43 inclus, et la section 6, qui comprend les articles 4.8.44 à 4.8.48 inclus, sont abrogées.
+
+##### Art. 85
+
+Dans l'article 5.1.3, § 3, du même code, modifié par le décret du 6 juillet 2012, les mots " et au décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes " sont insérés entre le membre de phrase " au chapitre VIII du titre IV " et le membre de phrase " . L'article 14, § 3, ".
+
+##### Art. 86
+
+Dans l'article 7.5.8 du même code, modifié par les décrets des 16 juillet 2010 et 6 juillet 2012, le paragraphe 5 est abrogé.
+
+### Section 4. - Modifications du Décret portant organisation des élections locales et provinciales
+
+##### Art. 87
+
+L'article 202 du Décret portant organisation des élections locales et provinciales du 8 juillet 2011 est remplacé par la disposition suivante :
+
+" Art. 202. Il est créé un Conseil des Contestations électorales. "
+
+##### Art. 88
+
+Dans la partie 4, titre 2, chapitre 1er, du même décret, la section 3 qui comprend l'article 206, est abrogée.
+
+##### Art. 89
+
+Dans la partie 4, titre 2, chapitre 1er, du même décret, la section 4, qui comprend les articles 207 à 215 inclus, est abrogée.
+
+##### Art. 90
+
+Dans la partie 4, titre 2, du même décret, le chapitre 2, qui comprend les articles 216 et 217, est abrogé.
+
+## CHAPITRE 9. - Dispositions finales
+
+##### Art. 91
+
+§ 1er. Les juges administratifs qui, à la date d'entrée en vigueur du présent décret, sont désignés auprès du [<sup>2</sup> Collège de maintien]<sup>2</sup> de la Région flamande, resteront désignés comme juge administratif effectif ou suppléant auprès de leur juridiction avec maintien du régime de mandat et du régime de rémunération dont ils bénéficiaient conformément au règlement qui était applicable avant la date d'entrée en vigueur du présent décret, jusqu'à ce qu'ils sont mis à la retraite, démissionnent ou sont licenciés.
+
+Au plus tard nonante jours avant l'expiration du mandat des juges administratifs, visés à l'alinéa premier, le Gouvernement flamand peut décider de ne pas prolonger le mandat de juge administratif.
+
+Cette décision ne peut pas aller à l'encontre de l'indépendance du [<sup>2</sup> Collège de maintien]<sup>2</sup> de la Région flamande ou de ses juges administratif individuels ni avoir trait aux contenus des décisions prises par le [<sup>2</sup> Collège de maintien]<sup>2</sup> de la Région flamande. A défaut d'une décision du Gouvernement flamand relative à la non prolongation du mandat des juges administratifs, visés à l'alinéa premier, au plus tard nonante jours avant l'expiration de celui-ci, le mandat est prolongé tacitement.
+
+§ 2. Les juges administratifs qui, à la date d'entrée en vigueur du présent décret, sont nommés auprès du Conseil pour les Contestations des Autorisations, resteront nommés comme juge administratif auprès de leur juridiction [<sup>1</sup> ...]<sup>1</sup>, jusqu'à ce qu'ils sont mis à la retraite, démissionnent ou sont licenciés. [<sup>1</sup> Ils reçoivent un traitement dans l'échelle A311, ainsi que les allocations, indemnités et avantages sociaux, visés à la partie VII du statut du personnel flamand du 13 janvier 2006, à l'exception des allocations de prestation.]<sup>1</sup>
+
+§ 3. Les juges administratifs complémentaires qui, à la date d'entrée en vigueur du présent décret, sont temporairement désignés auprès du Conseil pour les Contestations des Autorisations, resteront désignés auprès de cette juridiction avec maintien du régime de rémunération dont ils bénéficiaient conformément au règlement qui était applicable avant la date d'entrée en vigueur du présent décret, jusqu'à ce que le retard est rattrapé ou jusqu'à ce qu'ils démissionnent.
+
+§ 4. Les présidents, les conseillers et les suppléants qui, à la date d'entrée en vigueur du présent décret, sont nommés auprès du Conseil pour les Contestations des Autorisations, resteront nommés auprès de leur juridiction avec maintien du régime de rémunération dont ils bénéficiaient conformément au règlement qui était applicable avant la date d'entrée en vigueur du présent décret, jusqu'au 1er mars de l'année pendant laquelle les élections locales et provinciales ont lieu.
+
+Par dérogation à l'article 49, § 2, le Gouvernement flamand peut nommer les juges administratifs, visés à l'alinéa premier du présent paragraphe, à partir du 1er mars de l'année pendant laquelle les élections locales et provinciales ont lieu, comme juge administratif complémentaire auprès du Conseil pour les Contestations électorales pour une période renouvelable de six ans, avec maintien du régime de rémunération dont ils bénéficiaient conformément au règlement qui était applicables avant la date d'entrée en vigueur du présent décret.
+
+----------
+
+(1)&lt;DCFL 2015-07-03/05, art. 8, 002; En vigueur : 01-11-2014&gt;
+
+(2)&lt;DCFL 2014-04-25/I9, art. 143, 010; En vigueur : 01-03-2018&gt;
+
+##### Art. 92
+
+Pour les juges administratifs effectifs qui, à la date de l'entrée en vigueur du présent décret, sont désignés ou nommés auprès de la juridiction administrative flamande, visée à l'article 2, 1°, a) et b), la première évaluation est tenue dans un délai de trois mois suivant l'expiration d'un an après l'entrée en vigueur du décret.
+
+##### Art. 93
+
+Le Gouvernement flamand règle le transfert de personnel de la juridiction administrative flamande, visée à l'article 2, 1°, b), au service des Juridictions administratives.
+
+Le Gouvernement flamand règle le transfert de personnel du Département de l'Environnement, de la Nature et de l'Energie qui est mis à disposition, conformément à l'article 16.4.22 du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, à la juridiction administrative flamande, visée à l'article 2, 1°, a), au service des Juridictions administratives.
+
+Le Gouvernement flamand arrête les mesures nécessaires afin de garantir les droits du personnel transféré en ce qui concerne l'ancienneté et la rémunération.
+
+##### Art. 94
+
+Les recours introduits auprès des juridictions administratives flamandes, visées à l'article 2, 1°, a) et c), avant la date d'entrée en vigueur du présent décret, sont traités selon la réglementation qui était applicable la veille du jour de l'entrée en vigueur du présent décret.
+
+##### Art. 95
+
+Les recours qui sont introduits auprès de la juridiction administrative flamande, visée à l'article 2, 1°, b), avant la date d'entrée en vigueur du présent décret, sont traités selon les règles suivantes :
+
+1° les recours introduits avant le 1er septembre 2012 sont traités selon les règles de procédure s'appliquant avant cette date ;
+
+2° les recours introduits à partir du 1er septembre 2012 et avant la date d'entrée en vigueur du présent décret, sont traités selon les règles de procédure visées au Code flamand sur l'Aménagement du Territoire et à l'arrêté du Gouvernement flamand du 13 juillet 2012 relatif à la procédure devant le Conseil pour les Contestations des Autorisations ;
+
+3° les recours déjà mis en délibéré avant la date d'entrée en vigueur du présent décret, sont discutés et prononcés dans la même composition que celle de la séance.
+
+##### Art. 96
+
+Le présent décret entre en vigueur à une date à fixer par le Gouvernement flamand, et au plus tard le 1er janvier 2015.
+
+(NOTE : Entrée en vigueur des art. 1er à 12; 49 à 63; 64, 1°; 65 à 67; 68 en ce qui concerne l'art. 16.4.24, premier alinéa; 72; 73; 75; 84 à 88; et 91 à 93 fixée au 01-11-2014 par AGF 2014-05-16/41, art. 36, 1°)
+
+(NOTE : Entrée en vigueur des art. 13 à 48; 64, 2°; 68 en ce qui concerne l'art. 16.4.24, 2ème et 3ème alinéas; 69 à 71; 74; 76 à 83; 89; 90; 94 et 95 fixée au 01-01-2015 par AGF 2014-05-16/41, art. 37)
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 4 avril 2014.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+Le Ministre flamand de la Gouvernance publique, de l'Administration intérieure, de l'Intégration civique, du Tourisme et de la Périphérie flamande de Bruxelles,
+
+G. BOURGEOIS
+
+La Ministre flamande de l'Environnement, de la Nature et de la Culture,
+
+J. SCHAUVLIEGE
+
+Le Ministre flamand des Finances, du Budget, de l'Emploi, de l'Aménagement du Territoire et des Sports,
+
+Ph. MUYTERS

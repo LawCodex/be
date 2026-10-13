@@ -1,0 +1,70 @@
+---
+title: "Décret modifiant l'article 5 du décret du 30 mars 1999 portant création d'un \" Vlaams Fonds voor de Letteren \" (Fonds flamand des Lettres)"
+identifier: "2014202524"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014202524/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2014-03-28
+published: 2014-06-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014202524/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 28 MARS 2014. - Décret modifiant l'article 5 du décret du 30 mars 1999 portant création d'un " Vlaams Fonds voor de Letteren " (Fonds flamand des Lettres)
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+DECRET modifiant l'article 5 du décret du 30 mars 1999 portant création d'un " Vlaams Fonds voor de Letteren " (Fonds flamand des Lettres).
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+L'article 5 du décret du 30 décembre 1999 portant création d'un " Vlaams Fonds voor de Letteren " (Fonds flamand des Lettres), modifié par le décret du 30 avril 2004, est complété par un paragraphe trois, quatre et cinq, rédigés comme suit :
+
+" § 3. Le VFL a également pour but de promouvoir la culture, le climat et le milieu de la lecture en Flandre.
+
+§ 4. Dans le cadre de l'objectif, visé au paragraphe 3, le VFL subventionne entre autres :
+
+1° une association qui organise à l'intention de divers groupes cibles des campagnes et des projets de promotion de la lecture, et qui encourage la recherche en matière de lecture et de culture de lecture. Cette association fait office de coordonnateur des projets, de centre de connaissance et d'information, de point de contact pour la promotion de la lecture et de partenaire international. Le VFL conclut avec cette association un contrat de gestion pour une période qui est parallèle au contrat de gestion entre le VFL et la Communauté flamande. Ce contrat de gestion est communiqué au Gouvernement flamand ;
+
+2° des projets qui contribuent à un meilleur climat de lecture, la priorité étant donnée aux projets pour groupes à potentiel, projets au rayonnement supralocal et projets expérimentaux ;
+
+3° une association qui promeut le climat et la culture de lecture de groupes à potentiel par des initiatives telles que l'accompagnement de groupes de lecture ou de projets de lecture. Le VFL conclut un contrat de gestion avec cette association.
+
+§ 5. Les moyens accordés aux associations telles que visées à l'article 5, § 4, 1° et 3°, sont des subventions pour le personnel, le fonctionnement et les activités.
+
+Lors de l'évaluation des dossiers de demande pour les associations telles que visées à l'article 5, § 4, 1° et 3°, les critères suivants sont pris en compte :
+
+1° la mesure dans laquelle on répond aux objectifs envisagés ;
+
+2° la mesure dans laquelle on travaille complémentairement à et collabore avec des acteurs experts du secteur de la culture et de la jeunesse, et d'autres acteurs sociaux pertinents ;
+
+3° le budget et le rapport entre les frais et bénéfices prévus ;
+
+4° l'expertise du demandeur. "
+
+## Art. 3
+
+Le Gouvernement flamand arrête la date d'entrée en vigueur du présent décret.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 28 mars 2014.
+
+Le Ministre-Président du Gouvernement flamand,
+
+K. PEETERS
+
+La Ministre flamande de l'Environnement, de la Nature et de la Culture,
+
+J. SCHAUVLIEGE
