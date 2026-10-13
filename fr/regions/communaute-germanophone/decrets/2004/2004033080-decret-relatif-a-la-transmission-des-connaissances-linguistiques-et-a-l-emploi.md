@@ -1,0 +1,1063 @@
+---
+title: "Décret relatif à la transmission des connaissances linguistiques et à l'emploi des langues dans l'enseignement (TRADUCTION)"
+identifier: "2004033080"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/19/2004033080/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2004-04-19
+published: 2004-11-09
+entry_into_force: 2004-09-01
+last_amended: 2025-10-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/19/2004033080/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 09-11-2004 et mise à jour au 31-10-2025"
+retrieved: 2026-10-12
+---
+
+# 19 AVRIL 2004. - Décret relatif à la transmission des connaissances linguistiques et à l'emploi des langues dans l'enseignement (TRADUCTION)
+
+Le Conseil de la Communauté germanophone a adopté et nous, Gouvernement, sanctionnons ce qui suit :
+
+## TITRE Ier. - Dispositions générales et champ d'application.
+
+## Champ d'application.
+
+##### Art. 1
+
+Le présent décret est applicable aux écoles, centres d'enseignement à horaire réduit et internats de l'enseignement [<sup>1</sup> ordinaire ou spécialisé]<sup>1</sup> ainsi qu'aux centres psycho-médico-sociaux organisés, subventionnés ou agréés par la Communauté germanophone [<sup>2</sup> et au centre pour le développement sain des enfants et des jeunes]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 187, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 96, 014; En vigueur : 01-09-2014&gt;
+
+## Qualifications, domicile et résidence habituelle.
+
+##### Art. 2
+
+Dans le présent décret, les qualifications s'appliquent aux deux sexes.
+
+L'élève fait valoir son domicile ou sa résidence habituelle dans une commune, tels que visés dans le présent décret, en prouvant qu'il est inscrit dans le registre des étrangers, dans le registre d'attente ou dans le registre de la population de ladite commune.
+
+## TITRE II. - Création de sections fondamentales ayant une autre langue d'enseignement que l'allemand.
+
+## Création de sections fondamentales ayant une autre langue d'enseignement que l'allemand.
+
+##### Art. 3
+
+§ 1er. Par dérogation à l'article 4, § 1er, chaque commune a l'obligation de créer des sections maternelles ou primaires annexées à une école fondamentale et dans lesquelles le français ou le néerlandais est la langue d'enseignement lorsque les conditions suivantes sont remplies :
+
+1° les personnes chargées de l'éducation d'au moins 15 élèves maternels ou d'au moins 30 élèves primaires introduisent une demande allant dans ce sens et dans laquelle ils déclarent sur l'honneur que le français ou le néerlandais est leur langue maternelle;
+
+2° les élèves ont leur domicile ou résidence habituelle dans ladite commune et ne trouvent en région de langue allemande aucun enseignement dispensé dans leur langue dans un rayon de quatre kilomètres.
+
+§ 2 - D'autres pouvoirs organisateurs peuvent créer une section maternelle ou primaire aux conditions fixées au § 1er.
+
+§ 3 - L'article 24 du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires est applicable aux écoles fondamentales ou sections fondamentales visées aux §§ 1er et 2.
+
+## TITRE III. - Langue de l'enseignement et langues étrangères.
+
+## Détermination de la langue de l'enseignement.
+
+##### Art. 4
+
+§ 1er. L'allemand est la langue de l'enseignement. Des activités et matières peuvent être dispensées dans une autre langue aux conditions énoncées au § 2.
+
+§ 2 - Dans l'enseignement préscolaire et en application du § 1er, des activités sont dispensées dans la première langue étrangère dans les limites fixées à l'article 6, § 1er.
+
+Dans l'enseignement primaire ordinaire et en application du § 1er, des activités autres que le cours de première langue étrangère peuvent être dispensées dans cette langue dans les branches [<sup>1</sup> [<sup>3</sup> sport ", " musique/art ", " géographie " et " mathématiques]<sup>3</sup>]<sup>1</sup> .
+
+Dans l'enseignement secondaire ordinaire et en application du § 1er, d'autres cours que le cours de français peuvent être dispensés dans cette langue dans les limites fixées à l'article 6, § 3, alinéa 5. En sont exclus les cours de langues modernes.
+
+La faculté de pouvoir dispenser des cours dans la première langue étrangère, prévue aux alinéas 1er à 3, ne peut entraîner la mise en disponibilité de membres du personnel par défaut d'emploi.
+
+[<sup>4</sup> Dans l'enseignement supérieur et en application du § 1er, les matières non linguistiques peuvent être dispensées en français dans les limites fixées à l'article 6, § 3.1. En sont exclus les cours de langues.
+
+La faculté de pouvoir dispenser des cours en français, prévue à l'alinéa 5, ne peut entraîner la mise en disponibilité de membres du personnel par défaut d'emploi.]<sup>4</sup>
+
+(§ 3. Dans l'enseignement supérieur, par dérogation au § 1, les chargés de cours invités mentionnés [<sup>2</sup> à l'article 6.11]<sup>2</sup> du décret du 27 juin 2005 portant création d'une haute école autonome peuvent, moyennant l'accord du pouvoir organisateur, dispenser leurs cours dans une autre langue que l'allemand.) &lt;DCG 2005-06-27/37, art. 8.10, 003 ; En vigueur : 01-07-2005&gt;
+
+----------
+
+(1)&lt;DCG 2008-06-16/36, art. 25, 008; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2018-06-18/08, art. 128, 016; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCG 2022-06-27/08, art. 6, 019; En vigueur : 01-09-2022&gt;
+
+(4)&lt;DCG 2023-06-26/12, art. 117, 020; En vigueur : 01-01-2024&gt;
+
+## Détermination des langues étrangères.
+
+##### Art. 5
+
+§ 1er. Dans l'enseignement fondamental, le français est la première et unique langue étrangère.
+
+Par dérogation au premier alinéa, l'allemand est la première langue étrangère dans les écoles ou sections fondamentales francophones et néerlandophones.
+
+En section maternelle, les activités en langue étrangère se déroulent exclusivement dans la première langue étrangère.
+
+§ 2 - Dans l'enseignement secondaire, le français est la première langue étrangère. Selon la forme d'enseignement et le degré, d'autres langues étrangères peuvent être enseignées dans l'enseignement secondaire ordinaire, déterminées par le pouvoir organisateur dans le cadre du programme des études.
+
+§ 3 - Dans l'enseignement supérieur, le français est la première langue étrangère. Selon le type d'études, d'autres langues étrangères peuvent être enseignées, déterminées par le pouvoir organisateur dans le cadre du programme des études.
+
+§ 4 - Dans la formation scolaire continuée, différents cours de langues peuvent être proposés, déterminés par le pouvoir organisateur dans le cadre du programme des études.
+
+## Volume des cours.
+
+##### Art. 6
+
+§ 1er. Dans l'enseignement préscolaire, le pouvoir organisateur détermine en terme de temps, dans le cadre du programme d'activités, le volume des activités dispensées dans une langue étrangère; celui-ci représentera au moins 50 et au plus 200 minutes par semaine, les activités ayant lieu journellement.
+
+[<sup>5</sup> Sans préjudice de l'alinéa 1er, dans l'enseignement préscolaire, au maximum deux unités de cours supplémentaires de 25 minutes sont dispensées par des maitres spéciaux d'activités en langue étrangère en section maternelle qui sont occupés sur la base de l'article 53, alinéa 3, du décret du 26 avril 1999 relatif à l'enseignement fondamental ordinaire. ]<sup>5</sup>
+
+Par dérogation [<sup>5</sup> aux alinéas 1er et 2]<sup>5</sup> et dans des cas particuliers et motivés d'ordre pédagogique, les pouvoirs organisateurs des [<sup>1</sup> écoles spécialisées]<sup>1</sup> ne sont pas obligés de faire dispenser des activités en langues étrangères.
+
+[<sup>2</sup> § 1.1. Par dérogation au § 1er, alinéa 1er, le Gouvernement peut - dans le cadre d'un projet pilote - autoriser un pouvoir organisateur à porter le volume d'activités en langue étrangère à 350 heures par semaine, soit dans toutes ses implantations ou sections linguistiques ou dans certaines d'entre elles, soit dans certaines classes seulement, si les conditions suivantes sont remplies :
+
+1° l'[<sup>3</sup> inspection scolaire]<sup>3</sup> a émis un avis positif quant au concept pédagogique correspondant;
+
+2° l'école se laisse guider et conseiller par l'[<sup>3</sup> inspection scolaire]<sup>3</sup>;
+
+3° l'[<sup>3</sup> inspection scolaire]<sup>3</sup> évalue le projet en fin d'année scolaire.
+
+La décision vaut chaque fois pour trois années scolaires.
+
+§ 1.2. Par dérogation au § 1er alinéa 1er, le Gouvernement peut - dans le cadre d'un projet pilote - autoriser un pouvoir organisateur à porter le volume d'activités en langue étrangère à 40 % du temps d'enseignement total, soit dans toutes ses implantations ou sections linguistiques ou dans certaines d'entre elles, soit dans certaines classes seulement, si les conditions suivantes sont remplies :
+
+1° l'[<sup>3</sup> inspection scolaire]<sup>3</sup> a émis un avis positif quant au concept pédagogique correspondant;
+
+2° ce projet prévoit un encadrement scientifique;
+
+3° le projet fait l'objet, après chaque année scolaire et au terme du délai de validité de la décision déterminé au troisième alinéa, d'une évaluation scientifique externe menée par un établissement qui n'assume pas la guidance scientifique.
+
+Le concept prévu à l'alinéa 1er, 1°, comporte des mesures de soutien particulières pour les élèves maternels dont la langue maternelle n'est ni l'allemand ni le français.
+
+La décision vaut chaque fois pour trois années scolaires.]<sup>2</sup>
+
+§ 2 - Dans l'enseignement primaire, la langue de l'enseignement est enseignée pendant au moins 5 périodes par semaine.
+
+Par dérogation au premier alinéa, les pouvoirs organisateurs des [<sup>1</sup> écoles spécialisées]<sup>1</sup> peuvent faire dispenser moins d'heures de cours.
+
+Le cours de première langue étrangère couvre, par semaine, deux à trois périodes dans le premier degré, trois à quatre dans le deuxième degré et cinq dans le troisième degré.
+
+Par dérogation au troisième alinéa, les pouvoirs organisateurs des [<sup>1</sup> écoles spécialisées]<sup>1</sup> ne sont pas obligés de faire dispenser l'enseignement de la première langue étrangère. Si un tel cours est organisé, ils peuvent déroger au nombre de périodes prévu au troisième alinéa, les différents maxima ne pouvant être dépassés.
+
+[<sup>5</sup> Sans préjudice de l'alinéa 3, le pouvoir organisateur peut augmenter d'une période dans chaque degré le nombre de périodes hebdomadaire en ce qui concerne le cours de première langue étrangère, afin d'encourager davantage les élèves performants, si les conditions suivantes sont remplies :
+
+1° l'inspection scolaire a émis un avis positif quant au concept pédagogique correspondant;
+
+2° l'inspection scolaire évalue la mise en oeuvre du concept après chaque année scolaire.]<sup>5</sup>
+
+[<sup>5</sup> Le volume des activités en langue étrangère dans le cadre des branches mentionnées à l'article 4, § 2, alinéa 2, représente au total au maximum 350 minutes par semaine, le volume des activités en langue étrangère dans la branche " mathématiques "représentant au maximum 50 minutes par semaine.]<sup>5</sup>
+
+[<sup>4</sup> § 2.1 - Par dérogation au § 2, alinéas 1er et 3, et à l'article 4, § 2, alinéa 2, le Gouvernement peut - dans le cadre d'un projet pilote - autoriser un pouvoir organisateur à dispenser, soit dans toutes les implantations ou sections linguistiques ou certaines d'entre elles, soit dans certaines classes seulement, les disciplines "mathématiques", "histoire/géographie" et "sciences/technologie" dans la première langue étrangère, pour autant que le volume des cours dispensés dans la première langue étrangère représente au maximum 40 % du temps d'enseignement total et que les conditions suivantes soient remplies :
+
+1° l'inspection scolaire a émis un avis positif quant au concept pédagogique correspondant;
+
+2° le projet s'inscrit dans la continuité d'un projet pilote que l'école primaire ordinaire a mené en section maternelle conformément à l'article 6, § 1.2;
+
+3° le projet prévoit un encadrement scientifique;
+
+4° l'inspection scolaire évalue le projet après chaque année scolaire.
+
+Le concept prévu à l'alinéa 1er, 1°, comporte des mesures de soutien particulières pour les élèves dont la langue maternelle n'est ni l'allemand ni le français.
+
+La décision vaut chaque fois pour trois années scolaires.]<sup>4</sup>
+
+[<sup>5</sup> § 2.2 - Par dérogation au § 2, alinéas 1er et 3, et à l'article 4, § 2, alinéa 2, le Gouvernement peut - dans le cadre d'un projet pilote - autoriser un pouvoir organisateur à dispenser, soit dans toutes les implantations ou sections linguistiques ou certaines d'entre elles, soit dans certaines classes seulement, les disciplines " mathématiquesoe, " histoire/géographie "et " sciences/technologie " dans la première langue étrangère, pour autant que le volume des cours dispensés dans la première langue étrangère représente au maximum 350 minutes par semaine et que les conditions suivantes soient remplies :
+
+1° l'inspection scolaire a émis un avis positif quant au concept pédagogique correspondant;
+
+2° le projet s'inscrit dans la continuité d'un projet pilote que l'école fondamentale ordinaire a mené en section maternelle conformément à l'article 6, § 1.1;
+
+3° l'inspection scolaire évalue le projet après chaque année scolaire.
+
+La décision vaut chaque fois pour trois années scolaires.]<sup>5</sup>
+
+§ 3 - Dans l'enseignement secondaire, le pouvoir organisateur détermine le volume horaire de l'enseignement de l'allemand dans le cadre du programme des études, en respectant les minima suivants :
+
+1° enseignement général : 4 périodes par semaine;
+
+2° enseignement technique et professionnel : 3 périodes par semaine.
+
+Par dérogation au premier alinéa, les pouvoirs organisateurs des [<sup>1</sup> écoles spécialisées]<sup>1</sup> peuvent faire dispenser moins d'heures de cours.
+
+Le pouvoir organisateur détermine le volume horaire des langues étrangères dans le cadre du programme des études en respectant, pour le cours de français, les minima suivants :
+
+1° enseignement général : 4 périodes par semaine;
+
+2° enseignement technique et professionnel : 2 périodes par semaine.
+
+Par dérogation au troisième alinéa, les pouvoirs organisateurs des [<sup>1</sup> écoles spécialisées]<sup>1</sup> ne sont pas obligés de faire dispenser l'enseignement de la première langue étrangère. Si un tel cours est organisé, ils peuvent déroger au nombre de périodes prévu au troisième alinéa, les différents maxima ne pouvant être dépassés.
+
+Dans l'enseignement secondaire ordinaire, 50 % au plus des matières non linguistiques peuvent être dispensés en français. Exception est faite pour le premier degré de l'enseignement secondaire, où le pourcentage peut être porté à 65 % à condition que, dans les écoles concernées, l'enseignement soit organisé de telle manière dans ce degré qu'un élève puisse choisir entre cet enseignement et un enseignement où la part de matières non linguistiques dispensées en français ne dépasse pas 50 %.
+
+Au sens du présent décret, l'on entend par matières non linguistiques tous les cours à l'exception des langues modernes.
+
+Le pouvoir organisateur détermine, dans le cadre du programme des études, le volume horaire et les branches enseignées en français. Le cours de religion peut être dispensé en français moyennant l'accord de l'autorité compétente pour le culte concerné.
+
+[<sup>6</sup> § 3.1 - Dans l'enseignement supérieur, 50% au plus des matières non linguistiques, y compris les heures de cours dans la branche "français", peuvent être dispensées en français. Le pouvoir organisateur détermine, par cursus dans le cadre du programme des études, les branches enseignées en français.]<sup>6</sup>
+
+§ 4 - En ce qui concerne les " périodes " visées aux §§ 2 et 3, il y a lieu d'entendre la définition fixée à l'article 4, 25°, du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires.
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 188, 009; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DCG 2011-06-27/03, art. 83, 011; En vigueur : 01-09-2011&gt;
+
+(3)&lt;DCG 2012-06-25/09, art. 58, 012; En vigueur : 01-09-2013&gt;
+
+(4)&lt;DCG 2015-06-29/19, art. 97, 014; En vigueur : 01-09-2015&gt;
+
+(5)&lt;DCG 2022-06-27/08, art. 7, 019; En vigueur : 01-09-2022&gt;
+
+(6)&lt;DCG 2023-06-26/12, art. 118, 020; En vigueur : 01-01-2024&gt;
+
+## TITRE IV. - Admission des élèves dans les [<sup>1</sup> écoles fondamentales ordinaires et spécialisées]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 189, 009; En vigueur : 01-09-2009&gt;
+
+## [<sup>1</sup>enseignement fondamental ordinaire et spécialisé]<sup>1</sup>- Elèves provenant de la Communauté germanophone.
+
+----------
+
+(1)&lt;DDG 2009-05-11/15, art. 190, 009; En vigueur : 01-09-2009&gt;
+
+##### Art. 7
+
+Sous réserve des conditions d'inscription fixées dans d'autres règles applicables, les personnes chargées de l'éducation des enfants qui ont leur domicile ou leur résidence habituelle en Communauté germanophone sont autorisées à inscrire ces enfants dans une école ou section fondamentale germanophone, francophone ou néerlandophone.
+
+## [<sup>1</sup>enseignement fondamental ordinaire et spécialisé]<sup>1</sup>- Elèves ne résidant pas en Communauté germanophone.
+
+----------
+
+(1)&lt;DDG 2009-05-11/15, art. 191, 009; En vigueur : 01-09-2009&gt;
+
+##### Art. 8
+
+§ 1er. Sous réserve des conditions d'inscription fixées dans d'autres règles applicables, les personnes chargées de l'éducation des enfants qui n'ont pas leur domicile ou leur résidence habituelle en Communauté germanophone sont autorisées à inscrire ces enfants dans une école ou section fondamentale germanophone.
+
+§ 2 - Sous réserve des conditions d'inscription fixées dans d'autres règles applicables, les personnes chargées de l'éducation des enfants qui n'ont pas leur domicile ou leur résidence habituelle en Communauté germanophone sont autorisées à inscrire ces enfants dans une école ou section fondamentale francophone ou néerlandophone, pour autant qu'elle existe. Les enfants doivent remplir les conditions suivantes :
+
+1° l'enfant a, au cours de l'année scolaire précédente, fréquenté une école fondamentale francophone ou néerlandophone; ceci ne vaut pas pour les enfants que l'on inscrit en première année de maternelle ou en première année du 1er degré primaire;
+
+2° l'un des cas suivants est rencontré :
+
+a) l'école ou section dans laquelle il souhaite s'inscrire est la plus proche où un enseignement dispensé dans la langue concernée est organisé ou subventionné;
+
+b) au moins une des personnes chargées de l'éducation a son emploi fixe en Communauté germanophone;
+
+c) au moins un frère ou une soeur fréquente déjà l'école fondamentale en question au moment de l'inscription.
+
+Dans des cas exceptionnels motivés et par dérogation au premier alinéa, le Gouvernement peut autoriser un élève qui ne remplit pas les conditions à fréquenter une école ou section fondamentale francophone ou néerlandophone.
+
+## TITRE V. - Délivrance de titres d'études.
+
+## Titres d'études.
+
+##### Art. 9
+
+Tous les titres d'études sont établis en allemand, à l'exception du certificat d'études de base, lequel est établi dans la langue de l'enseignement.
+
+## TITRE VI. - Exigences linguistiques imposées au personnel.
+
+### Sous-titre I. - Fonctions de sélection et de promotion
+
+### Condition.
+
+##### Art. 10
+
+Toutes les fonctions [<sup>1</sup> ...]<sup>1</sup> [<sup>2</sup> de sélection et de promotion sont occupées]<sup>2</sup> par des membres du personnel qui ont une connaissance approfondie de la langue allemande et de la langue française.
+
+[<sup>2</sup> Si une fonction de sélection est occupée temporairement par un membre du personnel qui encadre un groupe cible francophone sans avoir une connaissance approfondie de la langue française, le pouvoir organisateur veille à ce que ce groupe cible soit encadré dans la langue concernée.]<sup>2</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, une fonction de sélection peut être occupée par un membre du personnel qui ne possède pas de preuve de connaissance approfondie de la langue française, pour autant que ledit membre ait déjà occupé cette fonction de sélection au 31 décembre 2023.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2016-06-20/09, art. 158, 015; En vigueur : 01-01-2017&gt;
+
+(2)&lt;DCG 2023-06-26/12, art. 119, 020; En vigueur : 01-01-2024&gt;
+
+### Sous-titre II. - Fonctions de recrutement pour le directeur et les enseignants le personnel directeur et enseignant.
+
+#### CHAPITRE 1. - [<sup>1</sup> enseignement fondamental ordinaire et spécialisé]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 192, 009; En vigueur : 01-09-2009&gt;
+
+#### Langue de l'enseignement.
+
+##### Art. 11
+
+A l'exception du cours de première langue étrangère, les cours sont dispensés par des enseignants qui ont une connaissance approfondie de la langue de l'enseignement.
+
+#### Première langue étrangère.
+
+##### Art. 12
+
+[<sup>1</sup> Dans l'enseignement préscolaire, les activités dispensées en langue étrangère le sont par des instituteurs maternels qui ont une connaissance suffisante de cette langue et une connaissance approfondie de la langue de l'enseignement et sont porteurs d'une attestation portant sur les connaissances en didactique des langues étrangères.
+
+[<sup>5</sup> Si, dans l'enseignement préscolaire, les activités en langue étrangère sont dispensées par des maitres spéciaux d'activités en langue étrangère en section maternelle conformément à l'article 6, § 1er, alinéa 2, lesdits maitres auront, par dérogation à l'alinéa 1er, une connaissance approfondie de la langue étrangère concernée et une connaissance suffisante de la langue de l'enseignement.]<sup>5</sup>
+
+[<sup>3</sup> Si des activités en langue étrangères sont menées dans l'enseignement maternel conformément à l'article 6, § 1.1 ou § 1.2, les instituteurs maternels auront une connaissance approfondie de cette langue et une connaissance suffisante de la langue de l'enseignement.]<sup>3</sup>
+
+Dans l'enseignement primaire, le cours de première langue étrangère est dispensé par des enseignants qui ont une connaissance approfondie de cette langue et une connaissance élémentaire de la langue d'enseignement et sont porteurs d'une attestation portant sur les connaissances en didactique des langues étrangères.]<sup>1</sup>
+
+Si, dans l'enseignement primaire ordinaire, des activités psychomotrices, sportives, artistiques et manuelles sont dispensées dans la première langue étrangère, [<sup>2</sup> , les maîtres d'école primaire ou les enseignants de l'enseignement secondaire inférieur]<sup>2</sup> auront une connaissance approfondie de cette langue et de la langue de l'enseignement.
+
+[<sup>4</sup> Si, dans l'enseignement primaire ordinaire, des activités sont dispensées dans la première langue étrangère dans les disciplines [<sup>5</sup> " sport ", " musique/art ", " géographie " et " mathématiques "]<sup>5</sup>, les enseignants ont une connaissance approfondie de cette langue et une connaissance suffisante de la langue de l'enseignement.]<sup>4</sup>
+
+[<sup>4</sup> Si, dans l'enseignement primaire ordinaire, les disciplines "mathématiques", "histoire/géographie" ou "sciences/technologie" sont dispensées dans la première langue étrangère, les enseignants ont une connaissance approfondie de cette langue et une connaissance suffisante de la langue de l'enseignement.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 115, 005; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2009-05-25/27, art. 92, 010; En vigueur : 01-09-2009&gt;
+
+(3)&lt;DCG 2011-06-27/03, art. 84, 011; En vigueur : 01-09-2011&gt;
+
+(4)&lt;DCG 2015-06-29/19, art. 98, 014; En vigueur : 01-09-2015&gt;
+
+(5)&lt;DCG 2022-06-27/08, art. 8, 019; En vigueur : 01-09-2022&gt;
+
+#### CHAPITRE 2. - [<sup>1</sup> enseignement secondaire ordinaire et spécialisé]<sup>1</sup> .
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 193, 009; En vigueur : 01-09-2009&gt;
+
+#### Cours d'allemand.
+
+##### Art. 13
+
+Le cours d'allemand est dispensé par des enseignants qui ont une connaissance approfondie de l'allemand.
+
+#### Cours de français.
+
+##### Art. 14
+
+Le cours de français est dispensé par des enseignants qui ont une connaissance approfondie du français ainsi qu' une connaissance suffisante de l'allemand.
+
+#### Autres langues modernes.
+
+##### Art. 15
+
+Les cours de langues modernes, à l'exception des langues visées aux articles 13 et 14, sont dispensés par des enseignants qui ont une connaissance suffisante de l'allemand.
+
+#### Matières non linguistiques enseignées en allemand.
+
+##### Art. 16
+
+Les matières non linguistiques dispensées en allemand le sont par des enseignants qui ont une connaissance approfondie de l'allemand.
+
+#### Matières non linguistiques enseignées en français.
+
+##### Art. 17
+
+Les matières non linguistiques dispensées en français le sont par des enseignants qui ont une connaissance approfondie du français et [<sup>1</sup> une connaissance suffisante ]<sup>1</sup> de l'allemand.
+
+----------
+
+(1)&lt;DCG 2022-06-27/08, art. 9, 019; En vigueur : 01-01-2023&gt;
+
+#### CHAPITRE 3. - Enseignement supérieur.
+
+#### Cours d'allemand.
+
+##### Art. 18
+
+Le cours d'allemand est dispensé par des enseignants qui ont une connaissance approfondie de l'allemand.
+
+#### Cours de français.
+
+##### Art. 19
+
+Le cours de français est dispensé par des enseignants qui ont une connaissance approfondie du français.
+
+##### Art. 19.1.
+
+[<sup>1</sup> - Autres langues modernes
+
+Les cours de langues modernes, à l'exception des langues visées aux articles 18 et 19, sont dispensés par des enseignants qui ont une connaissance suffisante de l'allemand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2024-05-08/14, art. 92, 021; En vigueur : 01-01-2025&gt;
+
+#### Matières non linguistiques enseignées en allemand.
+
+##### Art. 20
+
+[<sup>1</sup> Les matières non linguistiques dispensées en allemand le sont]<sup>1</sup> par des enseignants qui ont une connaissance approfondie de l'allemand.
+
+----------
+
+(1)&lt;DCG 2023-06-26/12, art. 120, 020; En vigueur : 01-01-2024&gt;
+
+##### Art. 20.1
+
+[<sup>1</sup> - Matières non linguistiques enseignées en français
+
+Les matières non linguistiques dispensées en français le sont par des enseignants qui ont une connaissance approfondie du français.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-06-26/12, art. 121, 020; En vigueur : 01-01-2024&gt;
+
+#### CHAPITRE 4. - Formation scolaire continuée.
+
+#### Cours de langues.
+
+##### Art. 21
+
+Les cours sont dispensés par des enseignants qui ont une connaissance suffisante de l'allemand.
+
+Par dérogation au premier alinéa, les cours d'allemand sont dispensés par des enseignants qui ont une connaissance approfondie de l'allemand.
+
+#### Cours autres que les cours de langues.
+
+##### Art. 22
+
+Les cours autres que les cours de langues sont dispensés par des enseignants qui ont une connaissance approfondie de la langue allemande.
+
+#### CHAPITRE 5. [<sup>1</sup> - ENSEIGNEMENT ARTISTIQUE A HORAIRE REDUIT.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-03-23/10, art. 97, 007; En vigueur : 01-09-2009&gt;
+
+##### Art. 22bis
+
+[<sup>1</sup> L'enseignement artistique à horaire réduit est dispensé par des membres du personnel qui maîtrisent la langue allemande de façon approfondie.
+
+Par dérogation au premier alinéa, les cours d'instruments et l'accompagnement sont assurés par des membres du personnel qui ont une connaissance suffisante de la langue allemande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-03-23/10, art. 97, 007; En vigueur : 01-09-2009&gt;
+
+### Sous-titre III. - Fonctions de recrutement pour le personnel administratif, [<sup>1</sup> personnel auxiliaire d'éducation, paramédical et sociopsychologique]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2009-05-11/15, art. 194, 009; En vigueur : 01-09-2009&gt;
+
+### Condition.
+
+##### Art. 23
+
+Le personnel aura une connaissance approfondie de la langue allemande.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, le personnel des écoles ou des sections fondamentales francophones ou, selon le cas, néerlandophones ont une maîtrise approfondie de la langue française ou, selon le cas, néerlandaise.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2019-05-06/10, art. 166, 017; En vigueur : 01-09-2019&gt;
+
+### Sous-titre IV. - Fonctions de recrutement pour le personnel technique des centres psycho-médico-sociaux
+
+### Condition.
+
+##### Art. 24
+
+Les membres du personnel auront une connaissance approfondie de l'allemand.
+
+Si le centre psycho-médico-social assure la guidance d'une école ou section fondamentale francophone ou néerlandophone, le pouvoir organisateur du centre veillera à ce que les élèves soient encadrés dans la langue en question.
+
+### Sous-titre IV.1 [<sup>1</sup> Fonctions de recrutement concernant le personnel du centre pour le développement sain des enfants et des jeunes]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 99, 014; En vigueur : 01-09-2014&gt;
+
+##### Art. 24.1
+
+[<sup>1</sup> Condition
+
+Les membres du personnel auront une connaissance approfondie de l'allemand.
+
+Si le centre pour le développement sain des enfants et des jeunes assure la guidance d'une école ou section fondamentale francophone ou néerlandophone, le pouvoir organisateur du centre veillera à ce que les élèves soient encadrés dans la langue en question.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2015-06-29/19, art. 99, 014; En vigueur : 01-09-2014&gt;
+
+### Sous-titre V. - Manque de personnel possédant les connaissances linguistiques requises
+
+### Dérogations.
+
+##### Art. 25
+
+§ 1er. S'il est prouvé qu'un pouvoir organisateur éprouve des difficultés à recruter des personnes qui remplissent les conditions fixées par le présent décret, le Gouvernement peut l'autoriser à recruter des personnes ne les remplissant pas.
+
+§ 2 - [<sup>1</sup> Pour pouvoir bénéficier de la dérogation prévue au § 1er, le pouvoir organisateur fait parvenir au Ministère de la Communauté germanophone une déclaration écrite dont il ressort qu'aucun membre du personnel qualifié remplissant toutes les conditions pour être engagé n'a été trouvé.]<sup>1</sup>
+
+§ 3 - Une dérogation est accordée personnellement à chaque membre du personnel concerné, vaut pour une année scolaire au plus et peut être renouvelée.
+
+----------
+
+(1)&lt;DCG 2008-06-23/39, art. 74, 006; En vigueur : 01-04-2008&gt;
+
+### Sous-titre VI. - Preuve des connaissances linguistiques
+
+### Connaissances linguistiques.
+
+##### Art. 26
+
+§ 1er. Constituent une preuve de la connaissance approfondie d'une langue :
+
+1° le certificat de fin d'études de l'enseignement secondaire supérieur de plein exercice, un certificat de fin d'études de l'enseignement supérieur de type court ou de type long de plein exercice ou un diplôme universitaire obtenus dans cette langue;
+
+2° un des titres d'études visés au 1°, obtenu dans cette langue devant un jury extrascolaire;
+
+3° un titre d'études assimilé à l'un des titres visés aux points 1° et 2° ou reconnu, obtenu dans cette langue;
+
+4° [<sup>3</sup> en ce qui concerne l'allemand :
+
+4.1. un diplôme délivré par le jury visé au titre VII et dont il ressort que le membre du personnel a une connaissance approfondie de cette langue;
+
+4.2. un certificat Goethe dont il ressort que le membre du personnel satisfait au moins au niveau de compétences B2 du cadre européen commun de référence pour les langues, à condition :
+
+4.2.1. qu'il ait obtenu, pour l'examen en question, au moins 60 % dans chacune des épreuves en ce qui concerne le niveau de compétences B1;
+
+4.2.2. qu'il ait obtenu, pour l'examen en question, au moins 50 % dans chacune des épreuves en ce qui concerne les niveaux de compétences C1 ou C2;]<sup>3</sup>
+
+[<sup>1</sup> 5° [<sup>2</sup> en ce qui concerne le français :
+
+5.1. un certificat obtenu dans le cadre du programme DELF-DALF dont il ressort que le membre du personnel satisfait au moins au niveau de compétences B2 du cadre européen commun de référence pour les langues, à condition
+
+a) qu'il ait obtenu, pour l'examen en question, au moins 60 % dans chacune des épreuves en ce qui concerne le niveau de compétences B2;
+
+b) qu'il ait obtenu, pour l'examen en question, au moins 50 % dans chacune des épreuves en ce qui concerne le niveau de compétences C1 ou C2 ou
+
+5.2. une attestation du jury d'examens de la Communauté française dont il ressort que le membre du personnel a une connaissance approfondie de cette langue;]<sup>2</sup> ]<sup>1</sup>
+
+[<sup>3</sup> 6° en ce qui concerne la langue néerlandaise : un diplôme délivré par le jury visé au titre VII et dont il ressort que le membre du personnel a une connaissance approfondie de cette langue.]<sup>3</sup>
+
+§ 2 - Constitue une preuve de la connaissance suffisante d'une langue, outre les diplômes, titres et certificats énumérés au § 1er :
+
+1° le certificat de fin d'études de l'enseignement secondaire inférieur de plein exercice obtenu dans cette langue;
+
+2° le certificat de fin d'études de l'enseignement supérieur de type court de plein exercice obtenu dans la section " Langues modernes " ou " Secrétariat-langues ", le diplôme d'agrégé de l'enseignement secondaire inférieur obtenu dans la section " Langues modernes ", le diplôme de licencié en langues germaniques ou en langues romanes ou le diplôme de licencié en traduction/interprétation, si la formation concerne cette langue;
+
+3° un des certificats d'études visés aux 1° et 2°, obtenu dans cette langue devant un jury extrascolaire;
+
+4° un titre assimilé à l'un des titres visés aux points 1° à 3° ou reconnu, obtenu dans cette langue;
+
+5° [<sup>3</sup> en ce qui concerne l'allemand :
+
+5.1. un diplôme délivré par le jury visé au titre VII et dont il ressort que le membre du personnel a une connaissance suffisante de cette langue;
+
+5.2. un certificat Goethe dont il ressort que le membre du personnel satisfait au moins au niveau de compétences B1 du cadre européen commun de référence pour les langues, à condition :
+
+5.2.1. qu'il ait obtenu, pour l'examen en question, au moins 60 % dans chacune des épreuves en ce qui concerne le niveau de compétences B1;
+
+5.2.2 qu'il ait obtenu, pour l'examen en question, au moins 50 % dans chacune des épreuves en ce qui concerne les niveaux de compétences C1 ou C2;]<sup>3</sup>
+
+[<sup>1</sup> 6° en ce qui concerne le français :
+
+[<sup>3</sup> 6.1.]<sup>3</sup> un certificat obtenu dans le cadre du programme DELF-DALF dont il ressort que le membre du personnel satisfait au moins au niveau de compétences B1 du cadre européen commun de référence pour les langues, [<sup>3</sup> à condition :
+
+6.1.1. qu'il ait obtenu au moins 60 % dans chacune des épreuves en ce qui concerne le niveau de compétences B1;
+
+6.1.2. qu'il ait obtenu au moins 50 % dans chacune des épreuves en ce qui concerne le niveau de compétences B2, C1 ou C2, ou]<sup>3</sup>
+
+[<sup>3</sup> 6.2.]<sup>3</sup> une attestation du jury d'examens de la Communauté française dont il ressort que le membre du personnel a une connaissance suffisante de cette langue, ou
+
+[<sup>3</sup> 6.3.]<sup>3</sup> le diplôme d'instituteur maternel obtenu auprès d'une haute école en Communauté germanophone;]<sup>1</sup>
+
+[<sup>3</sup> 7° en ce qui concerne la langue néerlandaise : un diplôme délivré par le jury visé au titre VII et dont il ressort que le membre du personnel a une connaissance suffisante de cette langue.]<sup>3</sup>
+
+[<sup>1</sup> § 3 - Sont également considérés comme des preuves de la connaissance élémentaire d'une langue, en plus des titres d'études et attestations mentionnés aux §§ 1er et 2 :
+
+[<sup>3</sup> 1° en ce qui concerne l'allemand :
+
+1.1. un diplôme délivré par le jury visé au titre VII et dont il ressort que le membre du personnel a une connaissance élémentaire de cette langue;
+
+1.2. un certificat Goethe dont il ressort que le membre du personnel satisfait au moins au niveau de compétences A2 du cadre européen commun de référence pour les langues.]<sup>3</sup>
+
+\- en ce qui concerne le français : un certificat obtenu dans le cadre du programme DELF-DALF dont il ressort que le membre du personnel satisfait au moins au niveau de compétences A2 du cadre européen commun de référence pour les langues ou une attestation délivrée par le jury d'examens de la Communauté française dont il ressort que le membre du personnel a une connaissance élémentaire de cette langue.]<sup>1</sup>
+
+[<sup>3</sup> 3° en ce qui concerne la langue néerlandaise : une attestation délivrée par le jury mentionné au titre VII, dont il ressort que le membre du personnel a une connaissance élémentaire de cette langue.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 116, 005; En vigueur : 01-04-2008&gt;
+
+(2)&lt;DCG 2013-06-24/47, art. 141, 013; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCG 2019-05-06/10, art. 167, 017; En vigueur : 01-09-2019&gt;
+
+### Sous-titre VII. [<sup>1</sup> - Preuve des connaissances en didactique des langues étrangères]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2008-04-21/31, art. 117, 005; En vigueur : 01-04-2008&gt;
+
+##### Art. 26bis
+
+[<sup>1</sup> Connaissances en didactique des langues étrangères
+
+Constituent une preuve des connaissances en didactique des langues étrangères :
+
+\- [<sup>4</sup> - a) pour la fonction de maitre spécial de première langue étrangère : l'attestation de réussite d'une formation en didactique des langues étrangères représentant au moins 10 points ECTS;
+
+b) pour la fonction de maitre spécial d'activités en langue étrangère en section maternelle : l'attestation de réussite d'une formation en didactique des langues étrangères représentant au moins 6 points ECTS;]<sup>4</sup> ;
+
+\- la preuve de la réussite du cours à option Français' auprès d'une haute école en Communauté germanophone ;
+
+\- le diplôme d'instituteur primaire délivre jusqu'à l'année scolaire 2006-2007 incluse par une haute école en Communauté germanophone ;
+
+\- pour la fonction d'instituteur maternel [<sup>4</sup> et la fonction de maitre spécial d'activités en langue étrangère en section maternelle ]<sup>4</sup>: le diplôme d'instituteur maternel délivré par une haute école en Communauté germanophone ;
+
+\- le diplôme d'instituteur primaire [<sup>3</sup> , de professeur de l'enseignement secondaire inférieur ou d'agrégé de l'enseignement secondaire supérieur]<sup>3</sup> délivre par une haute école en Communauté française ou en Communauté flamande, à condition que la formation en question comprenne le cours " didactique des langues étrangères ".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2008-04-21/31, art. 117, 005; En vigueur : 01-04-2008&gt;
+
+(2)&lt;DCG 2016-06-20/09, art. 159, 015; En vigueur : 01-09-2016&gt;
+
+(3)&lt;DCG 2020-06-22/15, art. 113, 018; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DCG 2022-06-27/08, art. 10,019; En viguer : 01-09-2022
+
+## TITRE VII. - Jurys des examens linguistiques.
+
+### Sous-titre I. - Objectif, composition et fonctionnement
+
+### Objectif et installation.
+
+##### Art. 27
+
+Il est institué des jurys extrascolaires qui, en application du présent décret, examinent si les membres du personnel ont une connaissance approfondie [<sup>2</sup> " , suffisante ou élémentaire]<sup>2</sup> de l'allemand [<sup>1</sup> ...]<sup>1</sup> ou du néerlandais.
+
+Il est institué un jury pour chacune des langues mentionnées au premier alinéa.
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 118, 005; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2022-06-27/08, art. 11, 019; En vigueur : 01-09-2022&gt;
+
+### Composition.
+
+##### Art. 28
+
+§ 1er. Chaque jury se compose :
+
+1° d'un président et d'un président suppléant;
+
+2° de quatre examinateurs et de quatre examinateurs suppléants;
+
+3° d'un secrétaire et d'un secrétaire suppléant.
+
+Le Gouvernement désigne le président et le président suppléant parmi [<sup>1</sup> les membres du personnel de niveau 1 du Ministère de la Communauté germanophone ou de l'inspection scolaire [<sup>2</sup> , de la guidance en développement scolaire et du conseil scolaire pour l'inclusion et l'intégration]<sup>2</sup>]<sup>1</sup> en activité de service ou retraités.
+
+Le Gouvernement désigne les examinateurs et les examinateurs suppléants parmi les membres du personnel directeur et enseignant de l'enseignement secondaire et supérieur et de la formation scolaire continuée en activité de service ou retraités.
+
+Le Gouvernement désigne le secrétaire et le secrétaire suppléant parmi les membres du personnel du Ministère de la Communauté germanophone.
+
+Le Gouvernement peut déterminer des incompatibilités.
+
+§ 2 - Le président veille au bon déroulement des épreuves et mène les délibérations. En cas d'absence, le président est remplacé par son suppléant ou par l'aîné des examinateurs présents.
+
+En cas d'absence d'un examinateur, il est remplacé par un examinateur suppléant.
+
+En cas d'absence du secrétaire, celui-ci est remplacé par l'un des secrétaires suppléants ou par un examinateur.
+
+----------
+
+(1)&lt;DCG 2013-06-24/47, art. 142, 013; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCG 2019-05-06/10, art. 168, 017; En vigueur : 01-09-2019&gt;
+
+### Droit de vote.
+
+##### Art. 29
+
+Ont voix délibérative le président ou son suppléant et les examinateurs ou examinateurs suppléants.
+
+### Durée du mandat.
+
+##### Art. 30
+
+Tous les mandats ont une durée de quatre ans et peuvent être renouvelés.
+
+### Indemnisation.
+
+##### Art. 31
+
+Les frais de fonctionnement des jurys sont à charge du budget de la Communauté germanophone.
+
+Aux conditions fixées par le Gouvernement, il est accordé aux membres des jurys une indemnité kilométrique ainsi que des jetons de présence.
+
+### Fonctionnement.
+
+##### Art. 32
+
+Le Gouvernement établit les règles de fonctionnement des jurys.
+
+### Sous-titre II: Inscription et admission à l'examen
+
+### Condition d'admission.
+
+##### Art. 33
+
+Les personnes âgées de 18 ans au moins sont admises à présenter l'examen devant les jurys visés à l'article 26.
+
+### Procédure d'inscription.
+
+##### Art. 34
+
+Le Gouvernement fixe la procédure d'inscription et détermine les documents qui doivent être annexés au formulaire d'inscription.
+
+### Droit d'inscription.
+
+##### Art. 35
+
+Il n'est réclamé aucun droit d'inscription.
+
+### Sous-titre III. - Organisation et contenu de l'examen
+
+### Sessions d'examens.
+
+##### Art. 36
+
+Il y a une session par an, le Gouvernement en déterminant le moment.
+
+### Connaissance approfondie d'une langue- aptitudes et contenu de l'examen.
+
+##### Art. 37
+
+[<sup>1</sup> Connaissance approfondie d'une langue - compétences et contenu de l'examen
+
+§ 1er - Le cadre européen de référence pour les langues sert de base à l'examen portant sur la connaissance approfondie d'une langue.
+
+§ 2 - L'examen comporte quatre épreuves : compréhension a l'audition, compréhension à la lecture, expression écrite et expression orale. Les épreuves sont publiques.
+
+§ 3 - L'examen est censé être réussi lorsque le candidat satisfait au niveau de compétences B2 du cadre européen commun de référence pour les langues, à condition qu'il ait obtenu 60 % dans chacune des épreuves.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 119, 005; En vigueur : 01-09-2008&gt;
+
+### Connaissance suffisante d'une langue- aptitudes et contenu de l'examen.
+
+##### Art. 38
+
+[<sup>1</sup> Connaissance suffisante d'une langue - compétences et contenu de l'examen
+
+§ 1er - Le cadre européen de référence pour les langues sert de base a l'examen portant sur la connaissance suffisante d'une langue.
+
+§ 2 - L'examen comporte quatre épreuves : compréhension à l'audition, compréhension à la lecture, langue écrite et langue orale. Les épreuves sont publiques.
+
+§ 3 - L'examen est censé être réussi lorsque le candidat satisfait au niveau de compétences B1 du cadre européen commun de référence pour les langues, a condition qu'il ait obtenu 60 % dans chacune des épreuves.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 120, 005; En vigueur : 01-09-2008&gt;
+
+##### Art. 38bis
+
+[<sup>1</sup> Connaissance élémentaire d'une langue - compétences et contenu de l'examen
+
+§ 1er - Le cadre européen de référence pour les langues sert de base à l'examen portant sur la connaissance élémentaire d'une langue.
+
+§ 2 - L'examen comporte quatre épreuves : compréhension à l'audition, compréhension à la lecture, langue écrite et langue orale. Les épreuves sont publiques.
+
+§ 3 - L'examen est censé être réussi lorsque le candidat satisfait au niveau de compétences A2 du cadre européen commun de référence pour les langues.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2008-04-21/31, art. 121, 005; En vigueur : 01-09-2008&gt;
+
+### Fraudes et perturbation de la procédure d'examen.
+
+##### Art. 39
+
+En cas de fraude lors de l'inscription, le candidat est immédiatement exclu de la participation à la session concernée. L'examen est considéré comme non réussi.
+
+En cas de grave perturbation de la procédure d'examen ainsi qu'en cas de fraude lors de l'examen, le candidat est immédiatement exclu de la participation à la session concernée. L'examen est considéré comme non réussi.
+
+Le programme et le règlement d'examen sont adressés à toute personne intéressée qui en fait la demande. Ils sont remis à tous les candidats lors de l'inscription.
+
+### Sous-titre IV. - Prise de décision, dispenses d'examen et proclamation
+
+### Prise de décision.
+
+##### Art. 40
+
+§ 1er. Le jury peut délibérer valablement lorsqu'au moins la moitié des membres ayant voix délibérative sont présents.
+
+§ 2 - Toutes les délibérations menées dans le cadre de l'évaluation de l'examen se déroulent à huis clos.
+
+§ 3 - Le jury évalue les épreuves. Le cas échéant, il est procédé à un vote quant au résultat de l'évaluation. La décision est prise à la majorité, le président ne prenant pas part au vote.
+
+Les abstentions ne sont pas autorisées.
+
+Par dérogation au premier alinéa, c'est le président qui décide en cas de parité des voix.
+
+### Dispense d'examen.
+
+##### Art. 41
+
+Il n'est pas accordé de dispense.
+
+### Procès-verbaux et proclamation des résultats.
+
+##### Art. 42
+
+Le résultat de la délibération est consigné par écrit et proclamé en séance publique.
+
+Les candidats qui ont réussi l'examen obtiennent un diplôme dont le modèle est déterminé par le Gouvernement.
+
+### Sous-titre V. - Recours et droit de consulter le dossier
+
+### Droit de consulter le dossier.
+
+##### Art. 43
+
+A leur demande, les candidats peuvent consulter immédiatement les documents d'examens les concernant. La demande doit être adressée par écrit au secrétaire dans les dix jours de la proclamation publique des résultats.
+
+### Recours.
+
+##### Art. 44
+
+§ 1er. Le candidat peut introduire un recours contre la décision du jury.
+
+§ 2 - Le candidat qui souhaite contester la décision du jury introduit un recours dans les quinze jours de la proclamation publique des résultats. Le recours doit être motivé et introduit par écrit. Il est loisible au requérant de mettre à la disposition de la chambre de recours tout document pouvant contribuer à une meilleure compréhension de l'affaire. Les documents ne comportent aucune pièce relative à des décisions concernant d'autres candidats.
+
+Le recours est introduit par recommandé auprès du Ministère de la Communauté germanophone, qui convoque immédiatement la chambre de recours. Le Ministère adresse une copie du recours au président du jury concerné. Le président a le droit de communiquer à la chambre de recours un avis motivé ou des documents pouvant contribuer à une meilleure compréhension de l'affaire.
+
+La chambre de recours peut demander au jury de lui communiquer tout document utile. Elle peut entendre des personnes et consulter des experts. Le président du jury a le droit d'être entendu.
+
+La chambre de recours examine la décision du jury. Elle confirme la décision du jury ou en prend une nouvelle. Aucun recours ne peut être introduit contre la décision prise par la chambre de recours.
+
+Lors de vice de forme grave, la chambre de recours peut ordonner que le jury d'examen procède à nouveau à l'examen dans les meilleurs délais
+
+### Installation, composition et fonctionnement de la chambre de recours.
+
+##### Art. 45
+
+§ 1er. Il est institué une chambre de recours pour chacune des langues mentionnées à l'article 27, alinéa 1er.
+
+§ 2 - Chacune des chambres se compose :
+
+1° d'un président et d'un président suppléant;
+
+2° de deux autres membres et de deux membres suppléants;
+
+3° d'un secrétaire et d'un secrétaire suppléant.
+
+Le Gouvernement désigne le président et le président suppléant parmi [<sup>1</sup> les membres du personnel de niveau 1 du Ministère de la Communauté germanophone ou de l'inspection scolaire et de la guidance en développement scolaire]<sup>1</sup> en activité de service ou retraités.
+
+Le Gouvernement désigne les deux autres membres et leurs suppléants parmi les membres du personnel directeur et enseignant de l'enseignement secondaire et supérieur et de la formation scolaire continuée en activité de service ou retraités.
+
+Le Gouvernement désigne le secrétaire et le secrétaire suppléant parmi les membres du personnel du Ministère de la Communauté germanophone.
+
+Le Gouvernement peut déterminer des incompatibilités.
+
+§ 3 - En cas d'absence, le président est remplacé par son suppléant.
+
+En cas d'absence du secrétaire, celui-ci est remplacé par le secrétaire suppléant ou par un autre membre.
+
+§ 4 - Ont voix délibérative tous les membres à l'exception du secrétaire ou son suppléant le cas échéant.
+
+§ 5 - Tous les mandats ont une durée de quatre ans et peuvent être renouvelés.
+
+§ 6 - Les frais de fonctionnement de la chambre de recours sont à charge du budget de la Communauté germanophone.
+
+Aux conditions fixées par le Gouvernement, il est accordé aux membres de la chambre de recours une indemnité kilométrique ainsi que des jetons de présence.
+
+§ 7 - Le Gouvernement établit les règles de fonctionnement de la chambre de recours.
+
+§ 8 - La chambre de recours peut délibérer valablement lorsqu'au moins la moitié des membres ayant voix délibérative sont présents.
+
+La chambre de recours siège à huis clos.
+
+La chambre de recours examine le recours. Le cas échéant, il y a vote. La décision est prise à la majorité des voix, le président ne prenant pas part au vote.
+
+Les abstentions ne sont pas autorisées.
+
+Par dérogation au troisième alinéa, c'est le président qui prend la décision en cas de parité des voix.
+
+§ 9 - Le résultat de la délibération est consigné par écrit et notifié par recommandé au réclamant.
+
+----------
+
+(1)&lt;DCG 2013-06-24/47, art. 143, 013; En vigueur : 01-09-2013&gt;
+
+### Sous-titre VI. [<sup>1</sup> Recours à un établissement externe ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2022-06-27/08, art. 12, 019; En vigueur : 01-09-2022&gt;
+
+##### Art. 45.1
+
+[<sup>1</sup> Recours à un établissement externe
+
+Par dérogation aux sous-titres I, IV et V, le Gouvernement peut charger un établissement d'organiser les examens portant sur la connaissance approfondie, suffisante ou élémentaire de la langue allemande ou néerlandaise, à la place des jurys des examens linguistiques, dans le respect des articles 33 à 38bis. Les attestations délivrées par l'établissement désigné par le Gouvernement et dont il ressort que le candidat a une connaissance approfondie, suffisante ou élémentaire de la langue concernée sont assimilées aux attestations correspondantes délivrées par le jury mentionné au titre VII. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2022-06-27/08, art. 13, 019; En vigueur : 01-09-2022&gt;
+
+## TITRE VIII. - Projet d'établissement et évaluation.
+
+## Projet d'établissement.
+
+##### Art. 46
+
+Dans le projet d'établissement, tel que défini par le décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires chaque école présente de façon détaillée son concept visant à améliorer les compétences linguistiques et la transmission des connaissances linguistiques.
+
+## Evaluation interne.
+
+##### Art. 47
+
+Dans le cadre de l'évaluation interne, telle que définie par le décret susvisé, l'école examine annuellement si et/ou dans quelle mesure elle a concrétisé son concept visant à améliorer les compétences linguistiques et la transmission des connaissances linguistiques. C'est sur cette base qu'elle détermine les objectifs et les mesures pour l'année scolaire suivante.
+
+Cette évaluation a lieu chaque année et est consignée par écrit.
+
+## Evaluation externe.
+
+##### Art. 48
+
+Dans le cadre de l'évaluation externe, telle que définie par le décret susvisé, il est examiné dans quelle mesure les écoles tiennent compte des dispositions du présent décret, quels efforts elles ont entrepris pour recruter du personnel possédant les connaissances linguistiques requises et/ou pour offrir à leur personnel une formation continuée ad hoc. Les concepts et méthodes qu'elles ont développés en leur sein en vue d'améliorer les compétences linguistiques et d'optimaliser la transmission des connaissances linguistiques sont également examinés. Des propositions y relatives, allant dans le sens du développement scolaire sont soumises aux pouvoirs organisateurs et aux écoles par le Gouvernement ou par le groupe de travail chargé de l'évaluation.
+
+## TITRE IX. - Sanctions.
+
+## Remboursement des subventions de fonctionnement.
+
+##### Art. 49
+
+Le non respect des dispositions du présent décret et de ses arrêtés d'exécution a pour conséquence que le pouvoir organisateur d'une école ou d'un centre psycho-médico-social doit rembourser des subventions de fonctionnement déjà liquidées.
+
+Le remboursement ne peut dépasser 20 % des subventions de fonctionnement que l'école, le centre d'enseignement à horaire réduit, l'internat ou le centre psycho-médico-social où a été constatée l'infraction a reçues pour l'année scolaire précédente.
+
+Le Gouvernement détermine les autres modalités relatives à la constatation des infractions et à l'application de la sanction. Cette procédure prévoit suffisamment de possibilités de recours.
+
+## TITRE X. - Dispositions abrogatoires, modificatives et transitoires.
+
+## Dispositions abrogatoires.
+
+##### Art. 50
+
+Sont abrogés :
+
+1° la loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement;
+
+2° l'arrêté royal du 30 novembre 1966 fixant le statut de l'inspection linguistique en matière d'enseignement;
+
+3° l'arrêté royal du 30 novembre 1966 déterminant le fonctionnement de l'inspection linguistique en matière d'enseignement;
+
+4° l'arrêté royal du 25 novembre 1970 relatif à l'organisation des examens linguistiques;
+
+5° l'arrêté ministériel du 31 août 1972 relatif à l'organisation des examens linguistiques portant sur la connaissance de la langue allemande.
+
+## Disposition modificative.
+
+##### Art. 51
+
+A l'article 33, § 1er, alinéa 1, modifié par le décret du 23 octobre 2000, et à l'article 34, § 1er, alinéa 2, du décret du 26 avril 1999 relatif à l'enseignement fondamental ordinaire, le passage " Sans préjudice de l'article 6 de la loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement, " est remplacé par " Sans préjudice de l'article 3 du décret du 19 avril 2004 relatif à la transmission des connaissances linguistiques et à l'emploi des langues dans l'enseignement ".
+
+## Disposition transitoire en faveur du personnel.
+
+##### Art. 52
+
+En matière de nomination définitive, la loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement s'applique, en ce qui concerne les connaissances linguistiques requises, aux membres du personnel de l'enseignement communautaire qui ont été admis au stage avant l'entrée en vigueur du présent décret.
+
+(Les membres du personnel qui, avant la fin de l'année scolaire 2006-2007, ont apporté la preuve des connaissances linguistiques requises par ou en vertu de la loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement peuvent être désignés ou engagés à titre temporaire, admis au stage ou nommés ou engagés à titre définitif.) &lt;DCG 2005-06-06/32, art. 16, 002; En vigueur : 01-09-2005&gt;
+
+La loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement s'applique, en ce qui concerne l'exercice de la fonction, aux membres du personnel qui ont été admis au stage ou nommés ou engages à titre définitif avant l'entrée en vigueur du présent décret.
+
+[<sup>1</sup> Outre les titres mentionnes à l'article 26, les certificats de connaissance approfondie ou suffisante de la langue française comme langue de l'enseignement ou langue étrangère et délivrés par le jury d'examens de la Communauté germanophone jusqu'à l'année scolaire 2007-2008 incluse sont considérés comme constituant une preuve de la connaissance approfondie de la langue française.]<sup>1</sup>
+
+[<sup>1</sup> Outre les titres mentionnés à l'article 26, le diplôme d'instituteur primaire délivré par une haute école en Communauté germanophone avant l'entrée en vigueur du présent décret, est considéré comme constituant une preuve de la connaissance approfondie de la langue française, à condition que le diplôme mentionne que le membre du personnel a suivi avec fruit le cours à option Français'.]<sup>1</sup>
+
+[<sup>1</sup> Les instituteurs primaires qui ne disposent pas d'une attestation de la connaissance approfondie de la langue française et étaient occupés auprès d'une école en Communauté germanophone avant le 1er juillet 2008 peuvent obtenir cette attestation jusqu'au 1er avril 2011 auprès d'un institut agréé par la Communauté germanophone.]<sup>1</sup>
+
+[<sup>1</sup> Les membres du personnel qui, avant le 1er juillet 2004, occupaient la fonction d'instituteur maternel auprès d'une section maternelle en Communauté germanophone sont censés avoir fourni la preuve de connaissances en didactique des langues étrangères.]<sup>1</sup>
+
+[<sup>2</sup> En ce qui concerne les membres du personnel occupés dans l'enseignement en Communauté germanophone avant le 1er septembre 2014 et porteurs, avant cette date, d'un certificat des niveaux de compétences C1 ou C2 du cadre européen commun de référence pour les langues obtenu dans le cadre du programme DELF-DALF, la condition mentionnée à l'article 26, § 1er, 5.1, b), est considérée comme remplie.]<sup>2</sup>
+
+[<sup>3</sup> Les membres du personnel qui étaient occupés dans l'enseignement en Communauté germanophone avant le 1er septembre 2016 et étaient, avant cette date, porteurs d'une attestation qui certifie la réussite d'une formation en didactique des langues étrangères représentant au moins 4 points ECTS, sont considérés comme porteurs d'un titre prouvant les connaissances en didactique des langues étrangères.]<sup>3</sup>
+
+[<sup>4</sup> Outre les titres mentionnés à l'article 26bis, 1°, l'attestation de réussite d'une formation en didactique des langues étrangères représentant au moins 60 heures de cours, délivrée jusqu'au 31 août 2025 inclus, est considérée comme constituant une preuve des connaissances en didactique des langues étrangères.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 122, 005; En vigueur : 01-04-2008&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 100, 014; En vigueur : 01-01-2014&gt;
+
+(3)&lt;DCG 2016-06-20/09, art. 160, 015; En vigueur : 01-09-2016&gt;
+
+(4)&lt;DCG 2025-06-30/15, art. 68, 022; En vigueur : 01-09-2025&gt;
+
+##### Art. 52.1
+
+[<sup>1</sup> Disposition transitoire relative au centre pour le développement sain des enfants et des jeunes
+
+Par dérogation à l'article 26, § 1er, un certificat de la connaissance de la langue allemande délivré avant le 1er septembre 2014, au niveau requis, par le bureau de sélection de l'administration fédérale est considéré comme preuve de la connaissance approfondie de la langue allemande pour les membres du personnel visés à l'article 10.2 du décret du 31 mars 2014 relatif au centre pour le développement sain des enfants et des jeunes.
+
+Sans préjudice de l'article 26, § 1er, les membres du personnel mentionnés à l'article 10.2 du décret du 31 mars 2014 relatif au centre pour le développement sain des enfants et des jeunes qui, avant le 1er septembre 2014, pouvaient - pour satisfaire au statut auquel ils étaient soumis jusqu'à cette date - apporter la preuve de leur connaissance approfondie de la langue allemande en présentant un certificat de la connaissance de ladite langue délivré, au niveau requis, par le bureau de sélection de l'administration fédérale, peuvent encore le faire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2015-06-29/19, art. 101, 014; En vigueur : 01-09-2014&gt;
+
+## TITRE XI. - Entrée en vigueur.
+
+## Entrée en vigueur.
+
+##### Art. 53
+
+Le présent décret entre en vigueur le 1er septembre 2004, à l'exception de l'article 6, § 3, dont les alinéas 5 et 7 entrent en vigueur progressivement comme suit :
+
+1° pour la première année d'études au 1er septembre 2004;
+
+2° pour la deuxième année d'études au 1er septembre 2005;
+
+3° pour la troisième année d'études au 1er septembre 2006;
+
+4° pour la quatrième année d'études au 1er septembre 2007;
+
+5° pour la cinquième année d'études au 1er septembre 2008;
+
+6° pour la sixième année d'études au 1er septembre 2009;
+
+7° pour la septième année d'études au 1er septembre 2010.
+
+---
+
+Adopté par le conseil de la communauté germanophone
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur Belge.
+
+Donné à Eupen, le 19 avril 2004.
+
+K.-H. LAMBERTZ,
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre de l'Emploi, de la Politique des Handicapés, des Médias et des Sports
+
+B. GENTGES,
+
+Ministre de l'Enseignement et de la Formation, de la Culture et du Tourisme
+
+H. NIESSEN,
+
+Ministre de la Jeunesse et de la Famille, de la Protection des Monuments, de la Santé et des Affaires sociales.

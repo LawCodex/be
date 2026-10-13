@@ -1,0 +1,483 @@
+---
+title: "Décret spécial portant création d'une haute école autonome (TRADUCTION)"
+identifier: "2005033036"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/02/21/2005033036/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2005-02-21
+published: 2005-06-03
+entry_into_force: 2005-07-01
+last_amended: 2024-08-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/02/21/2005033036/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 03-06-2005 et mise à jour au 29-08-2024"
+retrieved: 2026-10-12
+---
+
+# 21 FEVRIER 2005. - Décret spécial portant création d'une haute école autonome (TRADUCTION)
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+## Champ d'application.
+
+##### Art. 1
+
+Le présent décret spécial s'applique à la haute école autonome en Communauté germanophone, ci-après désignée " haute école ".
+
+## Qualifications.
+
+##### Art. 2
+
+Dans le présent décret, les qualifications valent pour les deux sexes.
+
+## CHAPITRE II. - Nature juridique, forme et fonctionnement de la haute école.
+
+### Section 1re. - Fondation.
+
+### Fondation.
+
+##### Art. 3
+
+La haute école autonome est fondée en Communauté germanophone par la conclusion d'un accord entre les pouvoirs organisateurs d'un enseignement supérieur de type court en Communauté germanophone : le Gouvernement de la Communauté germanophone d'une part et l'enseignement confessionnel libre subventionné d'autre part, représenté par l'association sans but lucratif " Bischöfliche Schulen in der Deutschsprachigen Gemeinschaft " (Ecoles épiscopales en Communauté germanophone) et l'association sans but lucratif " Krankenpflegehochschule am Sankt-Nikolaus Hospital Eupen " (Ecole de nursing).
+
+Les pouvoirs organisateurs mentionnés dans l'alinéa précédent sont qualifiés ci-après de partenaires fondateurs.
+
+### Contenu de l'accord de fondation.
+
+##### Art. 4
+
+L'accord dont question à l'article 3 comprend des dispositions portant au moins sur les points suivants :
+
+1° nom et siège du pouvoir organisateur;
+
+2° nom et implantation de la haute école;
+
+3° désignation du premier directeur et durée de son mandat, la durée maximale étant fixée à 6 ans;
+
+4° établissement du projet de formation;
+
+5° état des biens immeubles et des principaux biens meubles transférés ou mis à disposition;
+
+6° résolution de l'accord.
+
+Sans préjudice des dispositions du présent décret spécial et d'autres dispositions décrétales relatives à la création d'une haute école autonome, l'accord peut comporter des dispositions supplémentaires portant sur les points suivants :
+
+1° dispositions particulières relatives à l'école secondaire de la " Krankenpflegehochschule ";
+
+2° description des structures d'administration et de participation;
+
+3° financement de l'école.
+
+### Section 2. - Nature juridique.
+
+### Nature juridique.
+
+##### Art. 5
+
+La haute école est une personne morale autonome de droit public.
+
+[<sup>1</sup> La haute école est un organisme d'intérêt public conformément à l'article 87 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone et est soumise aux dispositions dudit décret, dans sa version en vigueur au [<sup>2</sup> [<sup>3</sup> 1er avril 2018 ]<sup>3</sup>]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2010-09-21/01, art. 1, 002; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DCG 2013-10-14/14, art. 1, 003; En vigueur : 01-01-2013&gt;
+
+(3)&lt;DCG 2019-10-14/06, art. 1, 004; En vigueur : 01-04-2018&gt;
+
+### Section 3. - Structure administrative de la haute école.
+
+#### Sous-section 1re. - Généralités.
+
+#### Organes d'administration et de participation.
+
+##### Art. 6
+
+Le conseil d'administration et la direction constituent les organes administratifs de la haute école.
+
+Le conseil académique et le conseil des étudiants en sont les organes de participation.
+
+#### Sous-section 2. - Conseil d'administration.
+
+#### Composition et durée du mandat.
+
+##### Art. 7
+
+§ 1er. Le conseil d'administration est composé de 11 membres ayant voix délibérative répartis comme suit :
+
+1° quatre représentants du pouvoir organisateur de l'enseignement communautaire;
+
+2° quatre représentants des pouvoirs organisateurs de l'enseignement confessionnel libre subventionné;
+
+3° un représentant de l'enseignement fondamental;
+
+4° un représentant issu du secteur de la santé;
+
+5° un représentant issu des secteurs économique et culturel.
+
+Assistent également aux séances du conseil d'administration, avec voix consultative :
+
+1° le commissaire du Gouvernement mentionné à l'[<sup>1</sup> article 88 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone]<sup>1</sup>;
+
+2° le directeur de la haute école, à moins que le conseil d'administration ne prenne, pour une séance déterminée, une décision contraire.
+
+Les mandats des membres mentionnés au premier alinéa ont une durée de cinq ans et sont renouvelables.
+
+Les membres du conseil d'administration mentionnés à l'alinéa 1er, 3°, 4° et 5°, ne peuvent exercer de mandat politique.
+
+§ 2. Un membre suppléant est prévu pour chacun des membres mentionnés au § 1er, alinéa 1er. Si un membre du conseil d'administration perd la qualité en vertu de laquelle il est membre du conseil d'administration, son mandat prend fin et est achevé par le membre suppléant. En cas de démission du membre suppléant, un nouveau membre est désigné pour la période restante. Les membres ont en outre la possibilité de se faire représenter par leur suppléant aux réunions.
+
+§ 3. Chaque partenaire fondateur désigne lui-même ses représentants. Il peut en tout temps leur retirer leur mandat et déléguer de nouveaux représentants auprès du conseil d'administration pour la période restante.
+
+Les représentants mentionnés au § 1er, alinéa 1, 3°, 4° et 5°, sont désignés et révoqués conjointement par les partenaires fondateurs.
+
+[<sup>2</sup> Sans préjudice des dispositions figurant dans le présent décret spécial ou dans le droit commun en matière de droit de révocation, les partenaires fondateurs peuvent, de leur propre initiative ou sur proposition du conseil d'administration, révoquer un membre qu'ils ont désigné au conseil d'administration dans les conditions suivantes et à tout moment :
+
+1° s'il peut être prouvé qu'il a commis une faute grave ou une négligence grave lors de l'exercice de son mandat ou
+
+2° s'il peut être prouvé qu'il a effectué une action ou a eu un comportement incompatibles avec l'exercice de son mandat ou
+
+3° s'il peut être prouvé qu'il ne respecte pas les principes démocratiques énoncés dans les textes juridiques énumérés ci-après ou, selon le cas, s'il est membre d'une organisation, d'un parti, d'une association ou d'une personne morale qui ne respecte pas lesdits principes :
+
+\- la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie, et
+
+\- la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste allemand pendant la seconde guerre mondiale.
+
+Il est procédé à une révocation conformément à l'alinéa 3 après la tenue d'une audition préalable lors de laquelle le membre concerné peut se faire accompagner de la personne de son choix.
+
+Un membre révoqué conformément à l'alinéa 3 ne peut être désigné à nouveau au conseil d'administration pour la durée de mandat restante ou suivante.]<sup>2</sup>
+
+§ 4. Le conseil d'administration est dirigé par un président, désigné en son sein. Un président suppléant est également prévu, désigné lui aussi au sein du conseil d'administration.
+
+Les dispositions des articles 11, alinéas 2 et 3, et 12, alinéa 2, sont d'application lors de la procédure de désignation. La séance en question est présidée par le doyen des membres mentionnés au § 1er, alinéa 1er. Les autres modalités de la procédure sont fixées dans le règlement d'ordre intérieur mentionné à l'article 9.
+
+Par dérogation à l'alinéa premier, les premiers président et président suppléant du conseil d'administration sont désignés de commun accord par les partenaires fondateurs.
+
+§ 5. Le conseil d'administration peut convier des experts à ses réunions, ainsi que, pour chacune des disciplines, un des représentants du personnel mentionnés à l'article 17, § 1er. Il fixe les autres modalités dans le règlement d'ordre intérieur mentionné à l'article 9.
+
+----------
+
+(1)&lt;DCG 2010-09-21/01, art. 2, 002; En vigueur : 01-01-2010&gt;
+
+(2)&lt;DCG 2024-05-06/13, art. 1, 005; En vigueur : 01-09-2024&gt;
+
+#### Missions.
+
+##### Art. 8
+
+Le conseil d'administration dispose de toutes les compétences nécessaires à l'organisation et à l'administration de la haute école, qui sont entre autres :
+
+1° la désignation du directeur;
+
+2° la nomination à titre définitif des membres du personnel;
+
+3° la désignation des membres du personnel temporaires;
+
+4° l'utilisation des moyens financiers (budget);
+
+5° la passation de marchés de travaux, de fournitures et de services;
+
+6° l'établissement d'un inventaire de tous les biens immeubles de la haute école;
+
+7° la fixation des mesures architecturales et travaux d'entretien;
+
+8° l'établissement du projet de formation;
+
+9° la fixation du règlement d'ordre intérieur de l'école, du règlement des études et du règlement des examens;
+
+10° l'établissement de l'offre de formation;
+
+11° l'établissement du programme de recherche;
+
+12° la fixation des missions du personnel.
+
+Le conseil d'administration peut confier des pouvoirs de décision au directeur ou au conseil académique.
+
+#### Règlement d'ordre intérieur.
+
+##### Art. 9
+
+Le conseil d'administration établit un règlement d'ordre intérieur.
+
+#### Rapport d'activités.
+
+##### Art. 10
+
+Le conseil d'administration établit un rapport d'activités annuel.
+
+#### Quorum de présence.
+
+##### Art. 11
+
+Le conseil d'administration ne peut délibérer valablement que si au moins 6 membres sont présents.
+
+Par dérogation à l'alinéa 1er, des décisions relatives au transfert de pouvoirs de décision au directeur ou au conseil académique, à l'établissement et à la modification du projet de formation, à l'établissement et à la modification du règlement d'ordre intérieur ainsi qu'à la désignation du directeur ne peuvent être prises que si 8 membres au moins sont présents et que 3 membres au moins de chacun des groupes mentionnés à l'article 7, § 1er, alinéa 1er, 1° et 2°, sont représentés.
+
+Si le quorum de présence requis pour prendre une décision n'est pas atteint, le conseil d'administration tient une nouvelle réunion, au plus tôt dans les 7 jours et au plus tard dans les quinze jours qui suivent. Sans préjudice de l'article 12, alinéa 2, une décision peut être prise au cours de cette réunion indépendamment du nombre de membres présents.
+
+#### Quorum de vote.
+
+##### Art. 12
+
+Les décisions sont prises à la majorité simple. Les abstentions ne sont pas permises.
+
+Par dérogation à l'alinéa 1er, une décision relative au transfert de pouvoirs de décision au directeur ou au conseil académique, à l'établissement et à la modification du projet de formation et du règlement d'ordre intérieur ainsi qu'à la désignation du directeur n'est réputée être prise que si 6 membres au moins et 3 membres au moins de chacun des groupes mentionnés à l'article 7, § 1er, alinéa 1er, 1° et 2°, votent " pour ".
+
+#### Avis et consultation.
+
+##### Art. 13
+
+Le conseil d'administration peut recueillir des avis du conseil académique. Les décisions dérogeant à ces avis sont motivées de manière circonstanciée.
+
+Le personnel est consulté lorsqu'il est question de fixer dans le règlement d'ordre intérieur des décisions le concernant. Cette consultation se déroule sans préjudice des compétences des comités de négociation et de concertation réglées par la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités et par les dispositions d'exécution y relatives.
+
+#### Sous-section 3. - Direction.
+
+#### Composition générale.
+
+##### Art. 14
+
+La direction se compose du directeur et des chefs de département qui lui sont subordonnés.
+
+#### Chefs de département.
+
+##### Art. 15
+
+La haute école est constituée de départements, déterminés par décret. Chacun d'eux est placé sous la direction d'un chef de département.
+
+#### Missions de la direction et fonctionnement.
+
+##### Art. 16
+
+§ 1er. La direction assure l'administration et l'organisation journalières de la haute école dans les domaines administratif, technique, financier et pédagogique.
+
+Elle remplit en outre les missions suivantes :
+
+1° elle applique les décisions du conseil d'administration;
+
+2° elle soumet le budget à l'approbation du conseil d'administration;
+
+3° elle prépare le plan des emplois vacants et temporaires;
+
+4° elle engage le personnel d'entretien dans le cadre des crédits disponibles;
+
+5° elle dresse, pour le conseil d'administration, le rapport annuel des activités de la haute école, lequel sert de base pour le rapport d'activités mentionné à l'article 10;
+
+6° elle émet des propositions relatives aux mesures architecturales et travaux d'entretien;
+
+7° elle veille à l'application du règlement de travail;
+
+8° elle accorde des dispenses de cours et la réduction de la durée des études.
+
+Le conseil d'administration établit la description précise des missions du directeur et des chefs de département.
+
+§ 2. Lorsque l'on n'a pu aboutir à un accord, les décisions sont prises par le directeur.
+
+Le directeur peut confier des missions et des pouvoirs de décision aux chefs de département dans le cadre de la description des missions mentionnée au § 1er, alinéa 3.
+
+#### Sous-section 4. - Conseil académique.
+
+#### Composition.
+
+##### Art. 17
+
+§ 1er. Le conseil académique se compose du directeur, des chefs de département et de deux membres du personnel de chaque département.
+
+Le comptable de la haute école est membre ayant voix consultative du conseil académique.
+
+Le conseil académique peut convier des experts à ses réunions. Il fixe les modalités dans le règlement d'ordre intérieur mentionné à l'article 20.
+
+§ 2. Le directeur est le président du conseil académique.
+
+§ 3. Les représentants des membres du personnel sont désignés dans le courant du mois de septembre par scrutin secret.
+
+En ce qui concerne l'élection des représentants des membres du personnel par département, peuvent prendre part au vote et sont éligibles tous les membres du personnel enseignant et éducatif du département concerné, y compris les membres du personnel temporaires désignés jusqu'à la fin de l'année académique. Si un représentant des membres du personnel perd sa qualité de membre du personnel, son mandat prend fin. Un nouveau représentant est élu, lequel achève le mandat.
+
+Le mandat a une durée de 5 ans. Il est renouvelable.
+
+#### Missions.
+
+##### Art. 18
+
+Les missions du conseil académique se présentent comme suit :
+
+1° il élabore le projet de formation et le soumet à l'approbation du conseil d'administration;
+
+2° il élabore le règlement d'ordre intérieur de l'école, le règlement des études et le règlement des examens et les soumet à l'approbation du conseil d'administration;
+
+3° il émet des propositions au sujet du programme de recherche;
+
+4° il organise les activités de formation continue de la haute école;
+
+5° il émet des propositions au sujet de l'organisation de la grille horaire hebdomadaire;
+
+6° il coordonne le planning annuel des activités extra-muros de la haute école;
+
+7° il fixe le calendrier académique;
+
+8° il établit le plan de formation continue du personnel;
+
+9° il émet des propositions au sujet de l'acquisition de matériel didactique;
+
+10° il émet des propositions en vue de déterminer la pédagogie et les méthodes d'enseignement;
+
+11° il émet des propositions quant à l'organisation du contrôle de qualité interne de la haute école;
+
+12° il rend les avis mentionnés à l'article 13, alinéa 1er.
+
+#### Devoir d'information.
+
+##### Art. 19
+
+Le conseil académique communique ses décisions et propositions au conseil d'administration et lui remet annuellement un rapport d'activités.
+
+#### Règlement d'ordre intérieur.
+
+##### Art. 20
+
+Le conseil académique établit un règlement d'ordre intérieur.
+
+#### Quorum de présence.
+
+##### Art. 21
+
+Le conseil académique ne délibère valablement que si la moitié des membres au moins sont présents.
+
+Par dérogation à l'alinéa 1, les décisions concernant l'établissement et la modification du règlement d'ordre intérieur ne peuvent être prises que si au moins deux tiers des membres sont représentés.
+
+Si le quorum de présence requis pour prendre une décision n'est pas atteint, le conseil académique tient une nouvelle réunion au plus tôt sept jours après et au plus tard dans les quinze jours, réunion pendant laquelle une décision peut être prise indépendamment du nombre de membres présents.
+
+#### Quorum de vote.
+
+##### Art. 22
+
+Les décisions sont prises à la majorité simple. Les abstentions ne sont pas permises.
+
+Par dérogation à l'alinéa précédent, une décision concernant l'élaboration et la modification du règlement d'ordre intérieur du conseil académique est réputée être prise si au moins deux tiers des membres votent " pour ".
+
+#### Sous-section 5. - Conseil des étudiants.
+
+#### Composition et mission.
+
+##### Art. 23
+
+§ 1er. Le conseil des étudiants se compose de six élus au plus, représentant les étudiants, chaque département étant représenté par deux étudiants au moins.
+
+Le conseil des étudiants établit son règlement d'ordre intérieur.
+
+§ 2. Le conseil d'administration et le conseil académique informent le conseil des étudiants sur toute décision concernant directement les étudiants, notamment dans les domaines " organisation de l'enseignement " et " déroulement des examens ".
+
+Les chefs de département assurent le relais entre le conseil académique et le conseil des étudiants. Ils participent avec voix consultative aux réunions du conseil des étudiants.
+
+§ 3. Le conseil des étudiants peut rendre des avis au sujet des décisions visées au § 2.
+
+§ 4. Deux membres du conseil des étudiants ont le droit d'être entendus par le conseil d'administration et le conseil académique à propos des décisions visées au § 2.
+
+## CHAPITRE III. - Fondement philosophique.
+
+## Fondement philosophique de la haute école/pluralité articulée.
+
+##### Art. 24
+
+§ 1er. La pluralité articulée constitue le fondement philosophique sur lequel reposent la mission formative de la haute école et les formations proposées. Elle concerne aussi bien les individus pris séparément que la haute école dans son ensemble.
+
+§ 2. La pluralité articulée signifie que tout membre du personnel a le droit d'articuler ce qu'il peut justifier en tant que personne dans le cadre de sa mission formative et de sa fonction, et ce dans le respect des convictions d'autrui ainsi que de la Déclaration universelle des droits de l'homme du 10 décembre 1948, de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950 et de la Constitution.
+
+§ 3. La mission formative de la haute école et les formations proposées se déroulent avec la plus grande rigueur scientifique et la plus grande objectivité possible.
+
+Au sein de la communauté scolaire pluraliste, l'enseignement, l'apprentissage et la recherche remplissent des missions formatives pertinentes pour les personnes ainsi que des missions de critique et d'organisation sociale.
+
+## CHAPITRE IV. - Budget, biens immeubles et tutelle.
+
+### Section 1re. - Budget.
+
+### Budget.
+
+##### Art. 25
+
+&lt;Abrogé par DCG 2010-09-21/01, art. 3, 002; En vigueur : 01-01-2010&gt;
+
+### Compte annuel, bilan et compte des profits et pertes.
+
+##### Art. 26
+
+&lt;Abrogé par DCG 2010-09-21/01, art. 3, 002; En vigueur : 01-01-2010&gt;
+
+### Rapport annuel.
+
+##### Art. 27
+
+&lt;Abrogé par DCG 2010-09-21/01, art. 3, 002; En vigueur : 01-01-2010&gt;
+
+### Modalités spécifiques.
+
+##### Art. 28
+
+&lt;Abrogé par DCG 2010-09-21/01, art. 3, 002; En vigueur : 01-01-2010&gt;
+
+### Section 2. - Biens immeubles.
+
+### Inventaire des biens immeubles.
+
+##### Art. 29
+
+Le conseil d'administration établit un inventaire de tous les biens immeubles de la haute école dans lequel il mentionne leur provenance et leur destination. Il transmet cet inventaire au Gouvernement.
+
+Le Gouvernement fixe les modalités relatives à l'établissement de cet inventaire.
+
+L'inventaire est actualisé en permanence par le conseil d'administration. Toute modification ou adaptation est communiquée annuellement avec la proposition budgétaire au commissaire du Gouvernement qui transmet ces documents au Gouvernement.
+
+### Section 3. - Tutelle.
+
+### Mission.
+
+##### Art. 30
+
+&lt;Abrogé par DCG 2010-09-21/01, art. 3, 002; En vigueur : 01-01-2010&gt;
+
+### Missions au sein du conseil d'administration.
+
+##### Art. 31
+
+&lt;Abrogé par DCG 2010-09-21/01, art. 3, 002; En vigueur : 01-01-2010&gt;
+
+## CHAPITRE V. - Entrée en vigueur.
+
+## Entrée en vigueur.
+
+##### Art. 32
+
+Le présent décret entre en vigueur le 1er juillet 2005.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Eupen, le 21 février 2005.
+
+K.-H. LAMBERTZ,
+
+Ministre-Président du Gouvernement de la Communauté germanophone,
+
+Ministre des Pouvoirs locaux
+
+B. GENTGES,
+
+Vice-Ministre-Président du Gouvernement de la Communauté germanophone,
+
+Ministre de la Formation et de l'Emploi, des Affaires sociales et du Tourisme
+
+O. PAASCH,
+
+Ministre de l'Enseignement et de la Recherche scientifique
+
+Mme I. WEYKMANS,
+
+Ministre de la Culture et des Médias, de la Protection des Monuments, de la Jeunesse et des Sports.

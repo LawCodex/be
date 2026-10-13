@@ -1,0 +1,1185 @@
+---
+title: "Décret portant des mesures urgentes en matière d'enseignement 2003 (TRADUCTION)"
+identifier: "2003033073"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/30/2003033073/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2003-06-30
+published: 2003-10-10
+entry_into_force: 2003-10-20
+last_amended: 2024-10-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/30/2003033073/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 10-10-2003 et mise à jour au 14-10-2024"
+retrieved: 2026-10-12
+---
+
+# 30 JUIN 2003. - Décret portant des mesures urgentes en matière d'enseignement 2003 (TRADUCTION)
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions relatives à certains types de congés et à la déclaration de vacance d'emplois.
+
+#### Art. 1
+
+Le présent chapitre s'applique :
+
+1° aux membres du personnel nommés à titre définitif des établissements d'enseignement et centres psycho-médico-sociaux organisés par la Communauté germanophone;
+
+2° aux membres du personnel subsidiés nommés ou engagés à titre définitif des établissements d'enseignement et centres psycho-médico-sociaux subsidiés par la Communauté germanophone.
+
+#### Art. 2
+
+§ 1er. L'emploi occupé par un membre du personnel qui bénéficie d'un des congés mentionnés ci-après est déclaré vacant lorsque le membre du personnel bénéficie de ce congé depuis six années scolaires complètes consécutives et que le congé représente au moins la moitié d'une occupation à temps complet.
+
+Les congés visés au premier alinéa sont les suivants :
+
+1° le congé pour mission dans l'intérêt de l'enseignement et la disponibilité pour missions spéciales, mentionnés :
+
+a) aux chapitres VIIIbis et X de l'arrêté royal du 15 janvier 1974, pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel [<sup>3</sup> de l'enseignement communautaire]<sup>3</sup>;
+
+b) [<sup>4</sup> ...]<sup>4</sup>
+
+c) [<sup>4</sup> ...]<sup>4</sup>
+
+d) [<sup>4</sup> ...]<sup>4</sup>
+
+2° le congé pour activité syndicale, mentionné :
+
+a) [<sup>3</sup> ...]<sup>3</sup>
+
+b) au chapitre VIII de l'arrêté royal du 15 janvier 1974, pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel [<sup>3</sup> de l'enseignement communautaire]<sup>3</sup>;
+
+c) [<sup>4</sup> ...]<sup>4</sup>
+
+d) [<sup>4</sup> ...]<sup>4</sup>
+
+e) [<sup>4</sup> ...]<sup>4</sup>
+
+3° le congé pour l'exercice d'une fonction dans un cabinet ministériel, mentionné :
+
+a) [<sup>3</sup> ...]<sup>3</sup>
+
+b) au chapitre VII de l'arrêté royal du 15 janvier 1974, pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel [<sup>3</sup> de l'enseignement communautaire]<sup>3</sup>;
+
+c) [<sup>4</sup> ...]<sup>4</sup>
+
+d) [<sup>4</sup> ...]<sup>4</sup>
+
+e) [<sup>4</sup> ...]<sup>4</sup>
+
+4° le congé pour exercer une fonction dans le cabinet du Roi, mentionné :
+
+a) au chapitre XI de l'arrêté royal du 15 janvier 1974, pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel [<sup>3</sup> de l'enseignement communautaire]<sup>3</sup>;
+
+b) [<sup>4</sup> ...]<sup>4</sup>
+
+5° le congé politique mentionné dans l'arrêté du Gouvernement du 21 décembre 2000 relatif au congé politique pour les membres du personnel dans l'enseignement et portant adaptation du statut pécuniaire;
+
+6° le congé accordé pour accomplir des prestations au bénéfice de groupes politiques reconnus, mentionné :
+
+a) dans l'arrêté royal du 2 avril 1975 relatif au congé accordé à certains membres du personnel des services publics pour accomplir certaines prestations au bénéfice de groupes politiques reconnus des assemblées législatives nationales communautaires ou régionales ou au bénéfice des présidents de ces groupes;
+
+b) au chapitre XII de l'arrêté royal du 15 janvier 1974, pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel [<sup>3</sup> de l'enseignement communautaire]<sup>3</sup>;
+
+c) [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>2</sup> 7° le congé en vue d'exercer la même fonction ou une autre fonction, mentionné au chapitre II du présent décret, à condition que le membre du personnel prenne ledit congé afin soit d'occuper la même fonction ou une autre au sein d'un autre établissement d'enseignement, soit d'occuper une fonction de sélection ou de promotion au sein du même établissement d'enseignement.]<sup>2</sup>
+
+§ 2. Si un nouveau congé mentionné au § 1er est accordé à un membre du personnel sans que celui-ci n'ait repris ses activités initiales dans l'enseignement pendant au moins une année scolaire complète, la durée de ce nouveau congé est cumulée avec celle du congé précédent.
+
+[<sup>1</sup> § 3. Par dérogation au § 1er, la période mentionnée au § 1er, alinéa 1er, est réduite à une année scolaire lorsqu'il s'agit d'un membre du personnel nommé à titre définitif dans une fonction de promotion.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2008-06-23/39, art. 60, 006; En vigueur : 01-06-2008&gt;
+
+(2)&lt;DCG 2018-06-18/08, art. 117, 014; En vigueur : 01-09-2018&gt;
+
+(3)&lt;DCG 2019-05-06/10, art. 147, 015; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCG 2021-06-28/11, art. 216, 018; En vigueur : 01-09-2021&gt;
+
+#### Art. 3
+
+A la fin du congé, le membre du personnel reprend ses activités dans l'enseignement dans l'emploi qu'il occupait avant son congé dans la mesure où cet emploi est encore vacant. Si cet emploi a été occupé à titre définitif par un autre membre du personnel, le membre du personnel ayant la plus petite ancienneté de service, nommé ou engagé à titre définitif dans la même fonction que le membre du personnel ayant bénéficié du congé, est placé en disponibilité par défaut d'emploi le lendemain du jour où prend fin le congé, conformément aux dispositions en vigueur.
+
+## CHAPITRE II. - Congé en vue d'exercer la même fonction ou une autre fonction.
+
+#### Art. 4
+
+Le présent chapitre s'applique :
+
+1° aux membres du personnel nommés à titre définitif des établissements d'enseignement et centres psycho-médico-sociaux organisés par la Communauté germanophone;
+
+2° aux membres du personnel subsidiés nommés ou engagés à titre définitif des établissements d'enseignement et centres psycho-médico-sociaux subsidiés par la Communauté germanophone.
+
+[<sup>1</sup> 3° aux membres du personnel désignés à titre temporaire pour une durée indéterminée dans des établissements d'enseignement et centres psycho-médico-sociaux organisés par la Communauté germanophone;
+
+4° aux membres du personnel désignés ou engagés à titre temporaire pour une durée indéterminée dans des établissements d'enseignement et centres psycho-médico-sociaux subsidiés par la Communauté germanophone.]<sup>1</sup>
+
+[<sup>2</sup> Le présent chapitre ne s'applique pas aux membres du personnel qui sont désignés ou engagés pour une durée indéterminée dès leur entrée en service.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 80, 005; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2021-06-28/11, art. 217, 018; En vigueur : 01-09-2021&gt;
+
+#### Art. 5
+
+§ 1er. Moyennent accord du ou des pouvoir(s) organisateur(s), il est accordé au membre du personnel un congé en vue de l'exercice dans l'enseignement :
+
+1° d'une fonction de promotion si le membre du personnel est nommé ou engagé à titre définitif dans une fonction de recrutement ou de sélection donnant accès à cette fonction de promotion;
+
+2° d'une fonction de sélection, si le membre du personnel est nommé ou engagé à titre définitif dans une fonction de recrutement donnant accès à cette fonction;
+
+3° d'une fonction donnant droit à une échelle de traitement égale ou supérieure;
+
+4° d'une fonction donnant accès à une échelle de traitement inférieure.
+
+Un membre du personnel peut sollicité le congé prévu à l'alinéa précédent pour exercer la même fonction ou une autre fonction dans l'enseignement auprès d'un pouvoir organisateur en Communauté française ou flamande. Le congé est octroyé lorsque les deux pouvoirs organisateurs concernés ont marqué leur accord.
+
+(Par dérogation à l'article 4, un membre du personnel qui occupe à titre définitif une fonction dans l'enseignement en Communauté française ou en Communauté flamande, peut également occuper la même fonction ou une autre dans l'enseignement de la Communauté germanophone conformément au prescrit du présent chapitre, dans la mesure où un tel congé est prévu en Communauté française ou en Communauté flamande.) &lt;DCG 2006-06-26/38, art. 69, 003; En vigueur : 01-09-2007 mais 01-01-2007 pour certaines matières&gt;
+
+§ 2. Le congé mentionné au § 1er peut être accordé pour l'ensemble des prestations fournies par le membre du personnel ou pour une partie de celles-ci. Cette dernière règle ne s'applique pas au membre du personnel qui occupe une fonction de promotion.
+
+Lorsque le membre du personnel exerce une fonction de sélection, le congé peut être accordé pour l'ensemble des prestations ou pour une partie de celles-ci, le membre du personnel devant continuer d'occuper la fonction de sélection pour la moitié au moins d'un horaire complet. La présente restriction ne s'applique pas aux fonctions de sélection dans une école fondamentale d'application.
+
+§ 3. Le congé pour exercer une fonction de promotion dans l'enseignement communautaire est accordé prioritairement aux membres du personnel de l'enseignement communautaire qui, le cas échéant, sont porteurs du titre valable ad hoc, en tenant compte du classement.
+
+§ 4. Le congé mentionné au § 1er est rémunéré et assimilé à une période d'activité de service.
+
+(Pour les congés mentionnés au § 1er, alinéa 1er, le paiement est opéré sur la base de la fonction dans laquelle le membre du personnel est nommé ou engagé à titre définitif.) &lt;DCG 2007-06-25/34, art. 59, 004; En vigueur : 01-09-2007&gt;
+
+[Par dérogation à l'alinéa 2, un membre du personnel qui est nommé ou engagé à titre définitif dans une fonction de sélection ou de promotion est rémunéré sur la base de la fonction qu'il exerce en application du § 1er, alinéa 1er, 4°.] &lt;DCG 2007-06-25/34, art. 60, 004; En vigueur : 01-09-2007&gt;
+
+[<sup>3</sup> Par dérogation à l'alinéa 2, un membre du personnel du centre pour le développement sain des enfants et des jeunes soumis aux articles 6.44 et 6.48 à 6.51 du décret du 31 mars 2014 relatif au centre pour le développement sain des enfants et des jeunes ainsi qu'aux articles 111.8 à 111.10 du décret du 21 avril 2008 portant valorisation du métier d'enseignant est rémunéré sur la base de la fonction qu'il exerce en application du § 1er, alinéa 1er, 4°.]<sup>3</sup>
+
+(Pour le congé visé au § 1er, alinéas 2 et 3, le paiement est liquidé en accord avec la Communauté française respectivement la Communauté flamande.) &lt;DCG 2006-06-26/38, art. 69, 003; En vigueur : 01-09-2007 mais 01-01-2007 pour certaines matières&gt;
+
+[<sup>5</sup> ...]<sup>5</sup>
+
+§ 5. (abrogé) &lt;DCG 2006-06-26/38, art. 119, 003; En vigueur : 01-09-2007 mais 01-01-2007 pour certaines matières&gt;
+
+(§ 6. Si le membre du personnel prend le congé visé au § 1er pendant toute une année scolaire, le congé a une durée de douze mois, commence le 1er septembre et se termine le 31 août de l'année suivante.) &lt;DCG 2004-05-17/49, art. 14, 002; En vigueur : 01-09-2003&gt;
+
+[<sup>1</sup> § 7. Un emploi occupé par un membre du personnel dans le cadre d'une désignation ou d'un engagement à titre temporaire pour une durée indéterminée [<sup>4</sup> ou indéterminée dès l'entrée en service]<sup>4</sup> ne peut être occupé par un membre du personnel auquel le congé mentionné à l'article 5, § 1er, a été accordé.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2008-04-21/31, art. 81, 005; En vigueur : 01-09-2008&gt;
+
+(2)&lt;DCG 2010-10-25/05, art. 36, 007; En vigueur : 01-09-2010&gt;
+
+(3)&lt;DCG 2016-06-20/09, art. 144, 012; En vigueur : 01-09-2016&gt;
+
+(4)&lt;DCG 2021-06-28/11, art. 218, 018; En vigueur : 01-09-2021&gt;
+
+(5)&lt;ACG 2022-06-27/13, art. 54, 019; En vigueur : 01-09-2022&gt;
+
+#### Art. 6
+
+§ 1er. Le membre du personnel qui exerce une fonction donnant droit à une échelle de traitement supérieure perçoit, pendant cette période, une allocation.
+
+Cette allocation est calculée sur la base de la différence entre le traitement annuel qui reviendrait au membre du personnel s'il était nommé ou engagé à titre définitif dans les fonctions qu'il exerce et le traitement annuel qui lui revient pour la fonction dans laquelle il est nommé ou engagé à titre définitif.
+
+§ 2. L'allocation est octroyée lorsque la fonction mieux rémunérée a été exercée pendant au moins six jours ouvrables consécutifs. Elle est accordée à partir du premier jour d'exercice de ladite fonction.
+
+§ 3. (Le montant journalier de l'allocation s'obtient en divisant par 300 le montant déterminé en application du § 1er, alinéa 2.
+
+L'allocation est payée mensuellement. Le montant annuel ne peut dépasser 300/300es par année scolaire.) &lt;DCG 2004-05-17/49, art. 15, 002; En vigueur : 01-09-2003&gt;
+
+§ 4. Une interruption de service d'au moins 6 jours ouvrables consécutifs entraîne la suppression de l'allocation pendant la durée de l'absence.
+
+#### Art. 7
+
+A l'article 3 de l'arrêté royal du 28 février 1967 déterminant les positions administratives du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, il est ajouté un littera k), libellé comme suit :
+
+" k) pour l'exercice de la même fonction ou d'une autre fonction ".
+
+A l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, il est ajouté un littera n), libellé comme suit :
+
+" n) pour l'exercice de la même fonction ou d'une autre fonction ".
+
+A l'article 40 l'arrêté royal du 25 octobre 1971 fixant le statut des maîtres de religion, des professeurs de religion et des inspecteurs de religion des religions catholique et protestante des établissements d'enseignement primaire, spécial, moyen, technique, artistique et normal de l'Etat, il est ajouté un littera k), libellé comme suit :
+
+" k) pour l'exercice de la même fonction ou d'une autre fonction ".
+
+#### Art. 8
+
+Dans l'arrêté royal du 21 octobre 1968, pris en application de l'article 7 de l'arrêté royal du 28 février 1967 déterminant les positions administratives du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, il est inséré un article 16bis, libellé comme suit :
+
+" Article 16bis. Le membre du personnel en disponibilité pour convenance personnelle ne peut, pendant cette période, exercer aucune activité lucrative dans l'enseignement organisé ou subventionné par la Communauté germanophone. "
+
+Dans l'arrêté royal du 15 janvier 1974, pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, il est inséré un article 32bis, libellé comme suit :
+
+" Article 32bis. Le membre du personnel en congé pour prestations réduites pour des raisons de convenance personnelle ne peut, pendant cette période, exercer aucune activité lucrative dans l'enseignement organisé ou subventionné par la Communauté germanophone, sans préjudice du chapitre II du décret du 25 juin 2001 contenant des mesures spéciales quant aux fonctions d'enseignant et portant adaptation du statut pécuniaire. "
+
+Dans l'arrêté royal du 18 janvier 1974, pris en application de l'article 164 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical des établissements d'enseignement gardien, primaire, spécial, moyen, technique, artistique et normal de l'Etat, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements, il est inséré un article 14bis, libellé comme suit :
+
+" Article 14bis. Le membre du personnel en disponibilité pour convenance personnelle ne peut, pendant cette période, exercer aucune activité lucrative dans l'enseignement organisé ou subventionné par la Communauté germanophone, sans préjudice du chapitre II du décret du 25 juin 2001 contenant des mesures spéciales quant aux fonctions d'enseignant et portant adaptation du statut pécuniaire. "
+
+Dans l'arrêté royal du 8 juillet 1976 pris en application de l'article 45 de l'arrêté royal du 25 octobre 1971 fixant le statut des maîtres de religion, des professeurs de religion et des inspecteurs de religion des religions catholique et protestante des établissements d'enseignement primaire, spécial, moyen, technique, artistique et normal de l'Etat, il est inséré un article 11bis, libellé comme suit :
+
+" Article 11bis. Le membre du personnel en disponibilité pour convenance personnelle ne peut, pendant cette période, exercer aucune activité lucrative dans l'enseignement organisé ou subventionné par la Communauté germanophone. "
+
+#### Art. 9
+
+A l'article 7, § 3, du décret du 25 juin 2001 contenant des mesures spéciales quant aux fonctions d'enseignant et portant adaptation du statut pécuniaire, le passage " en application du décret du 17 juin 1991 portant octroi d'une allocation aux membres du personnel enseignant qui exercent provisoirement une autre fonction que celle à laquelle ils sont nommés à titre définitif " est remplacé par le passage "conformément à l'article 6 du décret du 30 juin 2003 portant des mesures urgentes en matière d'enseignement 2003 ".
+
+## CHAPITRE III. - Remplacement de membres du personnel absents pour cause de congé, de mise en disponibilité, ou de toute autre forme d'absence. &lt;DCG 2004-05-17/49, art. 16, 002; En vigueur : 01-09-2004&gt;
+
+#### Art. 10
+
+&lt;DCG 2004-05-17/49, art. 16, 002; En vigueur : 01-09-2004&gt; Le présent chapitre s'applique :
+
+1° aux membres du personnel des établissements d'enseignement et centres psycho-médico-sociaux organisés par la Communauté germanophone;
+
+2° aux membres du personnel subsidiés des établissements d'enseignement et centres psycho-médico-sociaux subsidiés par la Communauté germanophone.
+
+#### Art. 11
+
+&lt;DCG 2004-05-17/49, art. 16, 002; En vigueur : 01-09-2004&gt; § 1er. Le membre du personnel dont on sait manifestement qu'il sera absent pendant plus de [<sup>5</sup> quatre]<sup>5</sup> jours de travail consécutifs pour cause de congé, de mise en disponibilité ou de toute autre forme d'absence, peut être remplacé dès son premier jour d'absence.
+
+Ne sont pas considérés comme jours de travail :
+
+1° les jours énumérés à l'article 58, alinéa 2, du décret du 31 août 1998 relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les écoles ordinaires;
+
+2° les jours de vacances de Noël et de Pâques ainsi que de congés de détente;
+
+3° les jours de vacances d'été.
+
+§ 2. Par dérogation au § 1er, alinéa 1er, un membre de la catégorie du personnel directeur et enseignant d'une section maternelle ou d'une école primaire ou encore d'une implantation maternelle ou primaire ne disposant que d'une seule classe [<sup>2</sup> ainsi qu'un membre du personnel qui, en raison d'une autorisation ministérielle spécifique, a été engagé aux fins d'assurer l'accompagnement individuel d'un enfant ayant des besoins médicaux et spécifiques justifié]<sup>2</sup> peut être remplacé immédiatement.
+
+[<sup>1</sup> § 3. Sans préjudice du § 1er, alinéa 1er, le remplacement d'un membre du personnel occupé dans un établissement d'enseignement supérieur en Communauté germanophone et absent pendant plus de cinq jours ouvrables consécutifs peut intervenir à n'importe quel moment en cours d'année académique.]<sup>1</sup>
+
+[<sup>3</sup> § 4. Au cours de l'année scolaire 2020-2021, s'il est manifeste qu'un membre du personnel sera absent pendant moins de six jours pour cause de congé, de mise en disponibilité ou d'autre forme d'absence, il peut être remplacé dès son premier jour d'absence, et ce, sans préjudice du § 1er, alinéa 1er. Le Gouvernement peut prolonger cette mesure pour une année scolaire au plus.]<sup>3</sup>
+
+[<sup>4</sup> Au cours de l'année scolaire 2022-2023, s'il est manifeste qu'un membre du personnel sera absent pendant plus de quatre jours ouvrables consécutifs en raison d'un congé, d'une mise en disponibilité ou d'une autre forme d'absence, il peut être remplacé dès son premier jour d'absence, et ce, sans préjudice du § 1er, alinéa 1er.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCG 2015-06-29/19, art. 82, 011; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCG 2020-06-22/15, art. 102, 016; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCG 2020-12-10/38, art. 54, 017; En vigueur : 01-09-2020&gt;
+
+(4)&lt;DCG 2022-12-15/54, art. 51, 020; En vigueur : 01-10-2022&gt;
+
+(5)&lt;DCG 2023-12-14/58, art. 67, 021; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE III.1. - [<sup>1</sup> Congé et mise en disponibilité pour cause de maladie ou d'infirmité dans l'enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+### Section 1re. - [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.1
+
+[<sup>1</sup> Champ d'application.
+
+Le présent chapitre s'applique aux membres du personnel soumis aux textes réglementaires suivants :
+
+1° [<sup>3</sup> ...]<sup>3</sup>
+
+2° [<sup>3</sup> arrêté royal du 22 mars 1969 fixant le statut des membres du personnel de l'enseignement communautaire]<sup>3</sup>;
+
+3° l'arrêté royal du 25 octobre 1971 fixant le statut des maîtres de religion, des professeurs de religion et des inspecteurs de religion, des religions catholique, protestante, israélite, orthodoxe, islamique et anglicane dans les établissements d'enseignement de la Communauté germanophone;
+
+4° l'arrêté royal du 27 juillet 1979 portant le statut du personnel technique des centres psycho-médico-sociaux de l'Etat, des centres psycho-médico-sociaux spécialisés de l'Etat, des centres de formation de l'Etat, ainsi que des services d'inspection chargés de la surveillance des centres psycho-médico-sociaux, des offices d'orientation scolaire et professionnelle, et des centres psycho-médico-sociaux spécialisés;
+
+5° le décret du 14 décembre 1998 fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné et du centre PMS libre subventionné;
+
+6° le décret du 29 mars 2004 fixant le statut des membres du personnel subsidié de l'enseignement officiel subventionné et des centres psycho-médico-sociaux officiels subventionnés;
+
+7° le décret du 27 juin 2005 portant création d'une haute école autonome ;]<sup>1</sup>
+
+[<sup>2</sup> 8° le décret du 31 mars 2014 relatif au centre pour le développement sain des enfants et des jeunes.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCG 2015-06-29/19, art. 83, 011; En vigueur : 01-09-2014&gt;
+
+(3)&lt;DCG 2019-05-06/10, art. 148, 015; En vigueur : 01-09-2019&gt;
+
+#### Art. 11.2
+
+[<sup>1</sup> Qualifications.
+
+Dans le présent décret, les qualifications s'appliquent aux deux sexes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.3
+
+[<sup>1</sup> Définitions.
+
+Pour l'application du présent chapitre, l'on entend par :
+
+1° période de référence : la période allant du 1er septembre au 31 août de l'année civile suivante;
+
+2° jour de maladie : jour où le membre du personnel ne peut pas travailler pour cause de maladie ou d'infirmité;
+
+3° quota annuel : nombre de jours de congé pour cause de maladie ou d'infirmité dont le membre du personnel peut bénéficier pendant la période de référence concernée;
+
+4° quota pour l'ensemble de la carrière : nombre de jours de congé pour cause de maladie ou d'infirmité dont le membre du personnel peut bénéficier pour l'ensemble de sa carrière dans l'enseignement;
+
+5° traitement : traitement ou subvention-traitement;
+
+6° traitement d'attente : traitement d'attente ou subvention-traitement d'attente;
+
+7° vacances scolaires : vacances de Noël, de Pâques et d'été.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.4
+
+[<sup>1</sup> Grossesse.
+
+Jusqu'au début du congé de maternité, les jours de maladie directement liés à l'état de grossesse du membre du personnel ne sont pas pris en considération pour fixer le nombre de jours de congé pour cause de maladie ou d'infirmité dont bénéficie le membre du personnel en vertu du présent chapitre, à condition que l'absence soit couverte par un certificat médical et que le médecin chargé par le Gouvernement de contrôler les absences pour cause de maladie ou d'infirmité confirme que l'absence est liée à l'état de grossesse.
+
+Les absences visées à l'alinéa 1er sont rémunérées et assimilées à des périodes d'activité de service.]<sup>1</sup>
+
+[<sup>2</sup> Les jours de congé de maladie sans lien avec la grossesse que prend un membre du personnel dans les six semaines précédant l'accouchement [<sup>3</sup> ...]<sup>3</sup> ne sont pas déduits du nombre de jours de maladie dont dispose le membre du personnel en application du présent chapitre. En cas de grossesse multiple, la période est de huit semaines.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCG 2017-06-26/06, art. 51, 013; En vigueur : 01-09-2017&gt;
+
+(3)&lt;DCG 2021-06-28/11, art. 219, 018; En vigueur : 01-03-2020&gt;
+
+#### Art. 11.5
+
+[<sup>1</sup> Vacances scolaires et congé annuel.
+
+Un membre du personnel [<sup>3</sup> nommé ou engagé à titre définitif ou désigné ou engagé à titre temporaire pour une durée indéterminée ou indéterminée dès l'entrée en service]<sup>3</sup> qui est malade pendant plus de quinze jours, reprend son service moins de [<sup>2</sup> trente jours avant les vacances d'été ou, selon le cas, dix jours avant les autres vacances scolaires]<sup>2</sup> et, moins de quinze jours après la rentrée, interrompt de nouveau son service pendant au moins dix jours, se trouve, pendant ces vacances et pendant les week-ends de ces vacances, en congé ou en disponibilité pour cause de maladie ou d'infirmité [<sup>2</sup> , pour autant que le médecin-contrôle atteste que l'incapacité de travail après les vacances scolaires s'appuie sur un diagnostic qui est médicalement lié à celui sur lequel reposait l'incapacité de travail avant les vacances scolaires ]<sup>2</sup>.
+
+Par dérogation à l'alinéa 1er, le membre du personnel a droit à un congé annuel garanti dont le nombre de jours est égal au nombre de jours du congé annuel octroyé aux agents du Ministère de la Communauté germanophone. Ces jours de congé garanti ne sont pas considérés comme des jours de congé pour cause de maladie. Ils sont accordés au membre du personnel à partir du 15 juillet, après déduction d'éventuelles vacances de Noël et/ou de Pâques. Les week-ends et les jours fériés compris dans la durée de vacances prévue par la loi ne sont pas considérés comme des jours de vacances.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCG 2021-06-28/11, art. 220, 018; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCG 2024-05-08/14, art. 86, 022; En vigueur : 01-09-2024&gt;
+
+#### Art. 11.6
+
+[<sup>1</sup> Fait imputable à un tiers.
+
+Le membre du personnel dont l'absence pour cause de maladie ou d'infirmité est due à un fait imputable à un tiers perçoit son traitement ou son traitement d'attente à condition de subroger la Communauté germanophone dans ses droits contre l'auteur de ce fait jusqu'à concurrence des traitements ou traitements d'attente versés par la Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.7
+
+[<sup>1</sup> [<sup>2</sup> Accident de travail, maladie professionnelle et maladie concernant les victimes d'une infraction]<sup>2</sup>
+
+[<sup>2</sup> § 1.]<sup>2</sup> Par dérogation aux sections 2 et 4, le congé pour cause de maladie ou d'infirmité est accordé sans limite de temps lorsqu'il résulte d'un accident du travail, d'un accident sur le chemin du travail ou d'une maladie professionnelle.
+
+Ces jours de congé ne sont pas déduits du quota annuel fixé à l'article 11.9, § 2, ou du quota pour l'ensemble de la carrière fixé à l'article 11.9, § 3.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Par dérogation aux sections 2 et 4, les jours de maladie en lien direct avec une infraction présumée ne sont pas déduits du quota annuel, fixé à l'article 11.9, § 2, ou du quota pour l'ensemble de la carrière, fixé à l'article 11.9, § 3, lorsque :
+
+1° le membre du personnel a été victime d'une infraction présumée dans l'exercice de ses fonctions et que le § 1er ne s'applique pas;
+
+2° le ministère public a intenté une action contre l'auteur présumé;
+
+3° le médecin chargé par le Gouvernement de contrôler les absences pour cause de maladie ou infirmité confirme que l'incapacité de travail du membre du personnel est en lien direct avec l'infraction présumée.
+
+La décision prise par le médecin contrôleur a une durée limitée mais peut être prolongée. [<sup>3</sup> Un recours peut]<sup>3</sup> être introduit contre la décision prise par le médecin contrôleur.]<sup>2</sup>
+
+[<sup>3</sup> Le médecin traitant et le médecin contrôleur tentent, à l'occasion de cette procédure de recours, de parvenir à une décision commune. S'ils n'y arrivent pas, un médecin-expert désigné par le médecin contrôleur en accord avec le médecin du membre du personnel prendra la décision définitive.
+
+Le Gouvernement détermine les autres modalités relatives à la procédure de recours.]<sup>3</sup>
+
+[<sup>4</sup> La règle mentionnée au premier alinéa prend fin au plus tard après une période de cinq ans débutant le premier jour d'absence pour cause de maladie en lien direct avec l'infraction présumée.]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCG 2014-05-05/12, art. 43, 010; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCG 2017-06-26/06, art. 52, 013; En vigueur : 01-09-2017&gt;
+
+(4)&lt;DCG 2017-06-26/06, art. 53, 013; En vigueur : 01-09-2017&gt;
+
+#### Art. 11.8
+
+[<sup>1</sup> Mise à la retraite anticipée pour raisons médicales.
+
+Le service de santé administratif décide si le membre du personnel absent pour cause de maladie ou d'infirmité doit être mis à la retraite temporaire ou définitive pour raisons médicales.
+
+Sans préjudice de l'article 83 de la loi du 5 août 1978 de réformes économiques et budgétaires, le membre du personnel ne peut pas être définitivement mis à la retraite pour cause de maladie ou d'infirmité avant d'avoir épuisé les jours de congé fixés au présent chapitre, sauf s'il agit de jours de congé accordés en application de l'article 11.7.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+### Section 2. - [<sup>1</sup> Congé pour cause de maladie ou d'infirmité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.9
+
+[<sup>1</sup> Quota annuel et quota pour l'ensemble de la carrière.
+
+§ 1er. Tout membre du personnel qui est empêché d'exercer ses fonctions par suite de maladie ou d'infirmité a droit à un congé pour cause de maladie ou d'infirmité conformément aux dispositions suivantes.
+
+Si la maladie intervient au cours d'un jour ouvrable où le membre du personnel, qui selon son horaire ou son plan de travail devait prester plus de trois heures de travail, a presté au moins trois heures de travail, ce jour n'est pas considéré comme un jour de congé au sens du présent titre, mais comme un jour d'activité de service.
+
+Si la maladie intervient au cours d'un jour ouvrable où le membre du personnel, qui selon son horaire ou son plan de travail devait prester [<sup>2</sup> maximum trois heures de travail]<sup>2</sup>, a presté au moins une heure de travail, ce jour n'est pas considéré comme un jour de congé au sens du présent titre, mais comme un jour d'activité de service.
+
+§ 2. Le membre du personnel peut bénéficier d'un quota annuel de 30 jours pour la période de référence concernée.
+
+§ 3. La partie du quota annuel non utilisée à la fin d'une période de référence sera ajoutée au quota pour l'ensemble de la carrière, lequel est plafonné à 360 jours.
+
+Dans les cas suivants, le quota annuel fixé au § 2 est réduit au prorata en vue du report mentionné au premier alinéa :
+
+1° la désignation à titre temporaire, l'engagement ou la rémunération ne concerne pas l'année scolaire ou académique complète, sauf si la désignation ou l'engagement sont suivis directement par une nomination ou un engagement à titre définitif;
+
+2° le membre du personnel désigné ou engagé à titre temporaire ne se trouve pas en activité de service pendant toute la durée de la désignation ou de l'engagement temporaire;
+
+3° le membre du personnel nommé ou engagé à titre définitif ne se trouve pas en activité de service pendant toute la durée de la période de référence;
+
+4° le membre du personnel bénéficie d'un congé pour cause de maladie ou d'infirmité qui résulte d'un accident du travail, d'un accident sur le chemin du travail ou d'une maladie professionnelle;
+
+5° les quatre années de service mentionnées au paragraphe 5 et à l'article 11.17 prennent fin au cours d'une année scolaire ou académique.
+
+Le résultat de ce calcul proportionnel est arrondi à l'unité inférieure.
+
+Lorsque le membre du personnel a été désigné ou engagé à titre temporaire plusieurs fois au cours d'une année scolaire ou académique, le calcul proportionnel prévu à l'alinéa précédent est opéré en tenant compte de la durée totale des périodes durant lesquelles l'intéressé a été désigné ou engagé à titre temporaire pendant l'année scolaire ou académique considérée.
+
+§ 4. Chaque fois que le quota pour l'ensemble de la carrière est inférieur à 360 jours, il peut être reconstitué conformément au § 3.
+
+§ 5. Par dérogation aux §§ 2 et 3, le membre du personnel travaillant pour la première fois dans l'enseignement, peut bénéficier de 120 jours de congé de maladie ou d'infirmité. Au terme de quatre années de service au total, le nombre de jours correspondant à la différence entre les 120 jours susmentionnés et le nombre de jours de congé pris pour cause de maladie ou invalidité pendant ladite période est ajouté au quota pour l'ensemble de la carrière fixé au § 3.
+
+Pour le calcul des années de service, les dispositions suivantes sont d'application :
+
+1° lorsqu'il s'agit d'un membre du personnel désigné ou engagé à titre temporaire, la période de désignation, d'engagement ou de rémunération pendant l'année scolaire ou académique concernée sont prises en considération. Ce nombre de jours d'activité de service est multiplié par 1,2. Le résultat de ce calcul est arrondi à l'unité inférieure. Sont exclus de cette multiplication les jours prestés par un membre du personnel engagé ou désigné pour une durée indéterminée [<sup>4</sup> , indéterminée dès l'entrée en service]<sup>4</sup> [<sup>3</sup> ou pour une durée déterminée jusqu'au 31 août]<sup>3</sup> et se rapportant à une année académique ou scolaire complète;
+
+2° lorsqu'il s'agit d'un membre du personnel nommé ou engagé à titre définitif, tous les jours de service de la période de référence concernée sont pris en considération;
+
+3° une année de service compte 360 jours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCG 2013-06-24/47, art. 126, 009; En vigueur : 01-09-2012&gt;
+
+(3)&lt;DCG 2015-06-29/19, art. 84, 011; En vigueur : 01-09-2014&gt;
+
+(4)&lt;DCG 2021-06-28/11, art. 221, 018; En vigueur : 01-09-2021&gt;
+
+#### Art. 11.10
+
+[<sup>1</sup> Imputation des jours de congé pour cause de maladie.
+
+Dans un premier temps, les jours de congé pour cause de maladie utilisés pendant une période de référence sont imputés sur le quota annuel fixé à l'article 11.9, § 2.
+
+Lorsque le nombre de jours de congé pour cause de maladie visé à l'alinéa précédent excède le quota annuel, l'excédent est imputé sur le quota pour l'ensemble de la carrière fixé à l'article 11.9, § 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.11
+
+[<sup>1</sup> Position administrative et rémunération.
+
+Le congé pour cause de maladie ou d'infirmité est assimilé à une période d'activité de service et est rémunéré à 100 %.
+
+[<sup>2</sup> Si le membre du personnel désigné ou engagé à titre temporaire absent pour cause de maladie ou d'infirmité dispose de moins d'un jour de congé complet en application du présent chapitre, il se retrouve à charge de la mutualité jusqu'au jour où il reprend le service complètement.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCG 2023-04-24/06, art. 42, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.12
+
+[<sup>1</sup> Fin de la désignation ou de l'engagement à titre temporaire.
+
+Lorsque l'absence pour cause de maladie ou d'infirmité du membre du personnel se prolonge au-delà de la période couverte par la désignation ou l'engagement à titre temporaire, l'application des dispositions qui précèdent ne peut entraîner l'octroi au membre du personnel d'une rémunération au-delà de la date à laquelle sa désignation ou son engagement à titre temporaire prend fin.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+### Section 3. - [<sup>1</sup> Mise en disponibilité pour cause de maladie ou d'infirmité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.13
+
+[<sup>1</sup> Mise en disponibilité.
+
+Le membre du personnel nommé ou engagé à titre définitif qui est absent pour cause de maladie ou d'infirmité [<sup>2</sup> et qui dispose de moins d'un jour de congé complet en application du présent chapitre]<sup>2</sup> est mis d'office en disponibilité pour cause de maladie ou d'infirmité.
+
+La mise en disponibilité vaut jusqu'au jour où le membre du personnel reprend son travail ou jusqu'au jour où il est mis temporairement ou définitivement à la retraite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCG 2023-04-24/06, art. 43, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.14
+
+[<sup>1</sup> Traitement d'attente.
+
+§ 1er. Pendant la mise en disponibilité prévue à l'article 11.13, le membre du personnel perçoit un traitement d'attente égal à 70 % de son dernier traitement d'activité.
+
+Toutefois, le montant du traitement d'attente ne peut être inférieur :
+
+1° aux indemnités que le membre du personnel obtiendrait dans la même situation si le régime de la sécurité sociale lui avait été applicable dès le début de son absence;
+
+2° à la pension que le membre du personnel obtiendrait si, à la date de sa mise en disponibilité, il avait été admis à la retraite anticipée.
+
+§ 2. Par dérogation au § 1er, le traitement d'attente est égal au montant du dernier traitement d'activité si la maladie ou l'infirmité du membre du personnel est reconnue comme maladie ou infirmité grave et de longue durée.
+
+Le service de santé administratif statue sur la reconnaissance visée à l'alinéa 1er. Cette reconnaissance entraîne une correction avec effet rétroactif du traitement d'attente avec effet à la date du début de la mise en disponibilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.15
+
+[<sup>1</sup> Position administrative.
+
+Le membre du personnel mis en disponibilité pour cause de maladie ou d'infirmité conserve ses titres à une nomination à une fonction de sélection ou de promotion et à l'avancement de traitement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.16
+
+[<sup>1</sup> Service de santé administratif.
+
+Le membre du personnel en disponibilité pour cause de maladie ou d'infirmité se présente devant le service de santé administratif à la date de comparution fixée. Si, sans raison valable, il ne se présente pas à la date ainsi fixée, il perd ses droits au traitement d'attente jusqu'à ce qu'il réponde à une nouvelle convocation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+### Section 4. - [<sup>1</sup> Dispositions transitoires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+#### Art. 11.17
+
+[<sup>1</sup> Membres du personnel déjà en service avant l'entrée en vigueur du nouveau régime.
+
+§ 1er. Les membres du personnel qui, à la veille de l'entrée en vigueur du présent chapitre, comptent moins de quatre années de service complètes bénéficient, à titre d'avance, d'une réserve de jours de congé pour cause de maladie ou d'infirmité qui est égale à la différence entre 120 et le nombre de jours de congé pour cause de maladie ou d'infirmité pris jusque là. Lorsque les quatre années de service précitées sont atteintes, les jours de congé auxquels le membre du personnel peut à ce moment prétendre sont ajoutés au quota pour l'ensemble de la carrière fixé à l'article 11.9, § 3.
+
+Pour calculer les années de service visées à l'alinéa 1er, il est tenu compte :
+
+1° pour les membres du personnel nommés ou engagés à titre définitif : de l'ancienneté sociale fixée à
+
+a) l'article 9bis de l'arrêté royal du 8 décembre 1967 pris en application de l'article 3 de l'arrêté royal du 28 février 1967 déterminant les positions administratives du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement gardien, primaire, spécialisé, moyen, technique, artistique et normal de l'Etat;
+
+b) [<sup>2</sup> l'article 42 de l'arrêté royal pris en application de l'article 160 de l'arrêté royal du 22 mars 1969 fixant le statut des membres du personnel de l'enseignement communautaire]<sup>2</sup>;
+
+c) l'article 102, § 2, de l'arrêté royal du 27 juillet 1979 portant le statut du personnel technique des centres psycho-médico-sociaux de l'Etat, des centres psycho-médico-sociaux spécialisés de l'Etat, des centres de formation de l'Etat, ainsi que des services d'inspection chargés de la surveillance des centres psycho-médico-sociaux, des offices d'orientation scolaire et professionnelle, et des centres psycho-médico-sociaux spécialisés;
+
+2° pour les membres du personnel désignés ou engagés à titre temporaire : de la période de service qui sert de base au calcul du nombre de jours de congé pour cause de maladie ou d'infirmité que le membre du personnel a acquis pendant cette période.
+
+Pour le membre du personnel qui, au moment de l'entrée en vigueur du présent chapitre, est à la fois désigné ou engagé à titre temporaire et nommé ou engagé à titre définitif, on applique, parmi les modes de calcul fixés à l'alinéa 2, le plus avantageux pour l'intéressé.
+
+§ 2. Les membres du personnel qui ne tombent pas sous l'application du § 1er et qui, à la veille de l'entrée en vigueur du présent chapitre, bénéficient de moins de 360 jours de congé pour cause de maladie ou d'infirmité en vertu de la législation alors applicable conservent ce nombre de jours de congé.
+
+§ 3. Les membres du personnel qui, à la veille de l'entrée en vigueur du présent chapitre, bénéficient de plus de 360 jours de congé pour cause de maladie ou d'infirmité en vertu de la législation alors applicable, ont droit au quota maximal de 360 jours pour l'ensemble de la carrière. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2012-07-16/06, art. 13, 008; En vigueur : 01-09-2012&gt;
+
+(2)&lt;DCG 2019-05-06/10, art. 149, 015; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE III.2. [<sup>1</sup> - Reprise à temps partiel]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2013-06-24/47, art. 127, 009; En vigueur : 01-09-2013&gt;
+
+#### Art. 11.18
+
+[<sup>1</sup> Le présent chapitre s'applique aux membres du personnel nommés ou engagés à titre définitif visés à l'article 11.1. [<sup>2</sup> Le présent chapitre s'applique également aux membres du personnel mentionnés à l'article 11.1 qui sont désignés ou engagés à titre temporaire et qui disposent d'au moins trente jours de congé pour cause de maladie.]<sup>2</sup>
+
+Le présent chapitre ne s'applique pas aux membres du personnel qui sont absents à la suite d'un accident de travail, d'un accident sur le chemin du travail ou d'une maladie professionnelle.
+
+Pour l'application du présent chapitre, l'on entend par médecin contrôleur le médecin compétent conformément à l'article 3 du décret du 5 février 1996 relatif au contrôle des absences pour maladie des membres du personnel des établissements d'enseignement et centres PMS organisés ou subventionnés par la Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2013-06-24/47, art. 127, 009; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCG 2023-04-24/06, art. 44, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.19
+
+[<sup>1</sup> A sa demande, le membre du personnel qui a été absent pour une période ininterrompue d'au moins trois mois pour maladie ou infirmité peut reprendre le service à temps partiel, pour autant qu'il transmette au médecin contrôleur un certificat du médecin traitant allant en ce sens et que le médecin contrôleur ainsi que l'employeur marquent leur accord.
+
+La reprise à temps partiel s'effectue sur la base d'un horaire individuel établi conjointement par le membre du personnel, le médecin traitant, le médecin contrôleur et l'employeur.
+
+Cette reprise a lieu pour au moins deux heures de cours ou de travail. Un changement progressif du nombre d'heures de travail hebdomadaire s'effectue par le biais d'une concertation entre le membre du personnel, l'employeur et le médecin contrôleur.
+
+Cette reprise prend fin après une période de six mois au plus. Elle prend également fin si le membre du personnel reprend le service pour la moitié au moins d'un horaire complet.
+
+[<sup>3</sup> Sans préjudice de l'alinéa précédent, pour ce qui concerne les membres du personnel désignés ou engagés à titre temporaire, la réintégration prend fin dès que le membre du personnel concerné dispose de moins d'un jour de congé complet pour cause de maladie.]<sup>3</sup>
+
+Cette reprise est interrompue prématurément sur initiative du membre du personnel, du médecin traitant, de l'employeur ou du médecin contrôleur.
+
+Pendant la période de reprise, le membre du personnel continue d'être considéré comme absent pour maladie ou infirmité [<sup>2</sup> ; toutefois et tant qu'il dispose encore de jours de maladie, aucun jour de maladie ne lui sera déduit pendant cette période pour tout jour où, dans le cadre de la reprise sur la base d'un horaire individuel :
+
+1° il preste au moins trois heures de travail, à condition que son horaire ou son plan de travail régulier, selon le cas, prévoyait plus de trois heures de travail ce jour-là;
+
+2° il preste au moins une heure de travail, à condition que son horaire ou son plan de travail régulier, selon le cas, prévoyait trois heures de travail ou moins ce jour-là.]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2013-06-24/47, art. 127, 009; En vigueur : 01-09-2013&gt;
+
+(2)&lt;DCG 2020-06-22/15, art. 103, 016; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCG 2023-04-24/06, art. 45, 023; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE III.3. [<sup>1</sup> - Congé pour prestations réduites aux fins de la réintégration professionnelle à la suite d'une maladie de longue durée]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 46, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.20.
+
+[<sup>1</sup> Le présent chapitre s'applique aux membres du personnel mentionnés à l'article 11.1 qui sont nommés ou engagés à titre définitif ou bien sont désignés ou engagés à titre temporaire pour plus de la moitié d'un horaire complet.
+
+Pour l'application du présent chapitre, l'on entend par médecin-contrôleur le médecin compétent conformément à l'article 3 du décret du 5 février 1996 relatif au contrôle des absences pour maladie des membres du personnel des établissements d'enseignement et centres PMS organisés ou subventionnés par la Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 47, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.21.
+
+[<sup>1</sup> § 1er - A sa demande, le membre du personnel qui a été absent pour une période ininterrompue d'au moins quarante-deux jours calendrier pour cause de maladie ou d'infirmité et qui dispose d'au moins trente jours de congé pour cause de maladie peut reprendre le service à temps partiel, pour autant qu'il transmette au médecin-contrôleur un certificat du médecin traitant allant en ce sens ainsi qu'un plan de réintégration établi par le médecin traitant et qu'aussi bien le médecin-contrôleur que le pouvoir organisateur marquent leur accord quant à la réintégration professionnelle.
+
+Le plan de réintégration comprend au moins les éléments suivants :
+
+1° le pourcentage du volume d'heures hebdomadaire à prester par le membre du personnel au cours de la période de réintégration;
+
+2° les dates de début et de fin de la période de réintégration correspondante;
+
+3° la date à laquelle le membre du personnel sera vraisemblablement à nouveau en mesure de reprendre le service complètement.
+
+§ 2 - Pendant la réintégration, le membre du personnel preste au moins la moitié d'un horaire complet. Si la fraction de la réduction ne donne pas un chiffre rond, elle est arrondie à l'unité supérieure pour ce qui concerne les membres du personnel relevant de la catégorie du personnel enseignant, à l'exception des pédagogues de soutien dans l'enseignement fondamental ordinaire et du personnel enseignant occupé auprès de la haute école autonome.
+
+La période de réintégration s'étend sur une période d'au moins un mois et d'au plus trois mois. Sur la proposition du médecin traitant et avec l'accord du médecin-contrôleur et du pouvoir organisateur, la période de réintégration peut être prolongée, aussi souvent que nécessaire, de périodes supplémentaires d'une durée maximale de trois mois chacune, pour autant que le membre du personnel dispose d'un nombre suffisant de jours de congé pour cause de maladie pour couvrir ces périodes conformément au § 3, alinéa 2. Une modification du pourcentage du volume d'heures hebdomadaire à prester par le membre du personnel a lieu sur la proposition du médecin traitant à chaque fois au début d'une prolongation de la période de réintégration.
+
+§ 3 - Le membre du personnel qui reprend le service à temps partiel en application du § 1er, alinéa 1er, se trouve, pour les heures non prestées, en congé pour prestations réduites aux fins de la réintégration professionnelle à la suite d'une maladie de longue durée. Le congé est rémunéré et assimilé à une activité de service.
+
+Pendant le congé pour prestations réduites aux fins de la réintégration professionnelle à la suite d'une maladie de longue durée, le membre du personnel qui preste au moins 75% d'un horaire complet se voit déduire un quart de jour de congé pour cause de maladie par jour calendrier. Un membre du personnel qui preste moins de 75% d'un horaire complet pendant le congé se voit déduire un demi-jour de congé pour cause de maladie par jour calendrier.
+
+Par dérogation à l'alinéa 2, le membre du personnel qui, à la suite d'un accident du travail, d'un accident sur le chemin du travail ou d'une maladie professionnelle, prend le présent congé avec l'accord du service de santé administratif ne se voit pas déduire de jours de congé pour cause de maladie pendant ledit congé.
+
+§ 4 - La réintégration peut être interrompue prématurément sur l'initiative du membre du personnel, du médecin traitant ou du médecin-contrôleur.
+
+Le congé prend fin d'office dans les cas suivants :
+
+1° lorsque le membre du personnel se retrouve à charge de la mutualité en application de l'article 11.11 ou est mis en disponibilité pour cause de maladie ou d'infirmité en application de l'article 11.13;
+
+2° lorsque le médecin-contrôleur et/ou le pouvoir organisateur ne font pas droit à la demande de prolongation de la période de réintégration en vertu du § 2, alinéa 2;
+
+3° lorsque la désignation ou l'engagement à titre temporaire du membre du personnel prend fin ou lorsqu'il est mis fin à la nomination ou à l'engagement à titre définitif du membre du personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 48, 023; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE III.4. [<sup>1</sup> - Absence pour prestations réduites en cas de maladie ou d'infirmité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 49, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.22.
+
+[<sup>1</sup> Le présent chapitre s'applique aux membres du personnel désignés ou engagés à titre temporaire mentionnés à l'article 11.1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 50, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.23.
+
+[<sup>1</sup> Un membre du personnel désigné ou engagé à titre temporaire qui est absent pour cause de maladie ou d'infirmité et se trouve à charge de la mutualité en application de l'article 11.11, alinéa 2, peut, à sa demande et avec l'autorisation du médecin-conseil de la mutualité, reprendre le service à temps partiel, pour autant qu'il présente au pouvoir organisateur l'autorisation délivrée par ledit médecin-conseil précisant le pourcentage du volume d'heures à prester par le membre du personnel ainsi que les dates de début et de fin de l'occupation à temps partiel, et que le pouvoir organisateur marque son accord avec la reprise du service à temps partiel. L'occupation à temps partiel peut être prolongée de périodes supplémentaires avec l'autorisation correspondante du médecin-conseil et l'accord du pouvoir organisateur.
+
+Le membre du personnel qui reprend le service à temps partiel en application de l'alinéa 1er se trouve, pour les heures non prestées, en absence pour prestations réduites en cas de maladie ou d'infirmité. L'absence n'est pas rémunérée et est assimilée à une non-activité de service.
+
+L'absence prend fin d'office lorsque la désignation ou l'engagement à titre temporaire du membre du personnel prend fin.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 51, 023; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE III.5. [<sup>1</sup> - Confidentialité et protection des données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 52, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.24.
+
+[<sup>1</sup> Sans préjudice de dispositions légales ou décrétales contraires, le Gouvernement et les autres personnes parties prenantes à l'exécution du présent décret et de ses dispositions d'exécution sont tenus de traiter confidentiellement les données qui leur sont confiées dans le cadre de l'exercice de leur mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 53, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.25.
+
+[<sup>1</sup> Sans préjudice de l'article 11.26, le Gouvernement est réputé responsable du traitement des données à caractère personnel mentionnées à l'article 11.27 au sens de l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+
+Le Gouvernement traite les données à caractère personnel en vue de l'exécution des missions mentionnées dans le présent décret. Il ne peut utiliser les données collectées à d'autres fins que celles de l'exercice desdites missions décrétales.
+
+Le traitement des données à caractère personnel s'opère dans le respect des dispositions légales applicables en matière de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 54, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.26.
+
+[<sup>1</sup> Le traitement des données relatives à la santé des personnes concernées s'effectue sous la responsabilité du médecin-contrôleur, compétent conformément à l'article 3 du décret du 5 février 1996 relatif au contrôle des absences pour maladie des membres du personnel des établissements d'enseignement et centres PMS organisés ou subventionnés par la Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 55, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.27.
+
+[<sup>1</sup> Pour exécuter leurs missions conformément à l'article 11.25, alinéa 2, le Gouvernement et les autres personnes parties prenantes à l'exécution du présent décret peuvent traiter les données à caractère personnel des catégories suivantes :
+
+1° les données relatives à l'identité et à la date de naissance ainsi que les données de contact;
+
+2° les données relatives à la relation de travail et au traitement;
+
+3° les données relatives à la santé.
+
+Le Gouvernement peut préciser les catégories de données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 56, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.28.
+
+[<sup>1</sup> Sans préjudice d'autres dispositions légales, décrétales ou réglementaires prévoyant, le cas échéant, un délai de conservation plus long, les données mentionnées à l'article 11.27 sont conservées pendant dix ans après la cessation des fonctions.
+
+Sans préjudice des dispositions relatives à l'archivage, elles sont détruites au plus tard au terme de ce délai.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 57, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.29.
+
+[<sup>1</sup> Afin d'établir des analyses et des statistiques, le Gouvernement a recours à des données anonymes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 58, 023; En vigueur : 01-09-2023&gt;
+
+#### Art. 11.30.
+
+[<sup>1</sup> Le cas échéant, le Gouvernement fixe les mesures de sécurité nécessaires pour le traitement des données à caractère personnel prévu par le présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2023-04-24/06, art. 59, 023; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE IV. - Complètement de dispositions relatives à la détermination du capital périodes et du capital emplois dans l'enseignement.
+
+#### Art. 12
+
+Dans le décret du 26 avril 1999 relatif à l'enseignement fondamental ordinaire, il est inséré un article 50bis, libellé comme suit :
+
+" Article 50bis. Limitation
+
+Le capital emplois déterminé conformément aux articles 48, 49 et 50 n'excède pas le capital emplois déterminé sur la base du nombre d'élèves au 31 janvier 2002. "
+
+#### Art. 13
+
+L'article 51 du même décret est remplacé par la disposition suivante :
+
+" Article 51. Durée d'utilisation
+
+Le capital emplois déterminé conformément aux articles 48 à 50bis est disponible pour l'année scolaire en cours. "
+
+#### Art. 14
+
+Dans le même décret, il est inséré un article 56bis, libellé comme suit :
+
+" Article 56bis. Limitation
+
+Le capital emplois déterminé conformément aux articles 53, 54, 55 et 56 n'excède pas le capital emplois déterminé sur la base du nombre d'élèves au 31 janvier 2002.
+
+Par dérogation à l'alinéa 1er, une implantation dont le nombre d'élèves au 31 janvier donne droit à au moins un demi-emploi de plus que le capital emplois déterminé au 31 janvier 2002 se voit accorder un demi-emploi supplémentaire. "
+
+#### Art. 15
+
+L'article 57 du même décret est remplacé par la disposition suivante :
+
+" Article 57. Durée d'utilisation
+
+§ 1er. Le capital emplois déterminé conformément aux articles 53 à 55 et 56bis est disponible pour l'année scolaire en cours.
+
+§ 2. Le capital emplois déterminé conformément aux articles 53, 54, 56, § 1er, et 56bis est disponible du 1er octobre au dernier jour de l'année scolaire en cours si le calcul donne au moins un emploi à temps plein de plus ou de moins que le capital emplois accordé au pouvoir organisateur le premier jour d'école pour l'implantation concernée.
+
+Par dérogation à l'alinéa 1er, le pouvoir organisateur peut utiliser le capital emplois visé au premier alinéa dès le premier jour d'école. Si, en raison du nouveau calcul intervenu, le pouvoir organisateur dispose d'un nombre d'emplois inférieur à celui qu'il a organisé le premier jour d'école, ces emplois sont à sa charge.
+
+§ 3. Le capital emplois déterminé conformément aux articles 53, 54, 56, § 2, et 56bis est disponible du 1er avril au dernier jour d'école si le calcul donne au moins 1 emploi à temps plein de plus que le capital emplois accordé au pouvoir organisateur au 1er octobre pour l'implantation concernée. "
+
+#### Art. 16
+
+Dans le même décret, il est inséré un article 60ter, libellé comme suit :
+
+" Article 60ter. Limitation
+
+Le capital emplois déterminé conformément aux articles 58, 59, 60 et 60bis n'excède pas le capital emplois déterminé sur la base du nombre d'élèves au 31 janvier 2002.
+
+Par dérogation à l'alinéa 1er, une implantation dont le nombre d'élèves au 31 janvier donne droit à un demi-emploi de plus que le capital emplois déterminé au 31 janvier 2002 se voit accorder un demi-emploi supplémentaire. "
+
+#### Art. 17
+
+L'article 61 du même décret est remplacé par la disposition suivante :
+
+" Article 61. Durée d'utilisation
+
+§ 1er. Le capital emplois déterminé conformément aux articles 58 à 60 et 60ter est disponible pour l'année scolaire en cours.
+
+§ 2. Le capital emplois déterminé conformément aux articles 58, 59, 60bis et 60ter est disponible du 1er octobre au dernier jour de l'année scolaire en cours si le calcul donne au moins 1 emploi à temps plein de plus ou de moins que le capital emplois accordé au pouvoir organisateur le premier jour d'école pour l'implantation concernée.
+
+Par dérogation à l'alinéa 1er, le pouvoir organisateur peut utiliser le capital emplois visé au premier alinéa dès le premier jour d'école. Si, en raison du nouveau calcul intervenu, le pouvoir organisateur dispose d'un nombre d'emplois inférieur à celui qu'il a organisé le premier jour d'école, ces emplois sont à sa charge. "
+
+#### Art. 18
+
+L'article 3, § 3, du décret-programme 1997 du 20 mai 1997 est abrogé.
+
+A l'article 3bis du décret-programme 1997 du 20 mai 1997, le deuxième alinéa est abrogé.
+
+Dans le décret-programme 1997 du 20 mai 1997, il est inséré un article 3ter, libellé comme suit :
+
+" Article 3ter. Le capital périodes déterminé conformément à l'article 3 n'excède pas le capital périodes organisé dans l'école au 1er octobre 2002. "
+
+#### Art. 19
+
+Dans le décret-programme 1997 du 20 mai 1997, il est inséré un article 4bis, libellé comme suit :
+
+" Article 4bis. Le capital périodes n'excède pas le capital périodes utilisé au cours de l'année scolaire 2002-2003. "
+
+#### Art. 20
+
+A l'article 3, VI, de l'arrêté royal du 15 décembre 1973 déterminant les normes de dédoublement et de regroupement d'années d'études dans l'enseignement technique secondaire, dans les enseignements supérieurs technique, économique, agricole, paramédical, social et pédagogique de type court, dans les enseignements supérieurs technique et agricole du deuxième degré, il est inséré entre les alinéas 3 et 4 un nouvel alinéa, libellé comme suit :
+
+" Le capital périodes accordé en sus n'excède pas le capital périodes déterminé sur la base du nombre d'élèves au 31 janvier 2002. "
+
+#### Art. 21
+
+Dans le décret du 27 juin 1990 fixant la façon de déterminer les fonctions du personnel dans l'enseignement spécial, il est inséré un article 5ter, libellé comme suit :
+
+" Article 5ter. Le capital périodes déterminé conformément aux articles 6, § 3, 21, 37, § 3, et 44 n'excède pas le capital périodes déterminé sur la base du nombre d'élèves au 30 septembre 2001 ".
+
+## CHAPITRE V. - Modification de la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur.
+
+#### Art. 22
+
+La loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur est modifiée comme suit :
+
+1° à l'article 5bis, les mots " sur avis du conseil supérieur compétent " sont supprimés;
+
+2° les articles 6 et 7 sont abrogés;
+
+3° à l'article 9, les mots " sur avis des conseils permanents " sont supprimés;
+
+4° à l'article 10, § 2, les mots " sur avis du conseil supérieur compétent " sont supprimés;
+
+5° à l'article 10, § 4, les mots " sur avis favorable du conseil permanent de l'enseignement supérieur " sont supprimés;
+
+6° à l'article 10, § 6, les mots " sur avis du conseil supérieur compétent " sont supprimés;
+
+7° l'article 16, § 3, est abrogé;
+
+8° à l'article 17, § 4, alinéa 2, les mots ", sur avis motivé du Conseil permanent et en attendant que celui-ci soit constitué sur avis du bureau permanent du Conseil supérieur de l'enseignement technique " sont supprimés.
+
+## CHAPITRE VI. - Modification de l'arrêté du Gouvernement de la Communauté germanophone du 6 juin 1997 portant fixation des conditions de collation du diplôme d'infirmier gradué.
+
+#### Art. 23
+
+L'article 2 de l'arrêté du Gouvernement du 6 juin 1997 portant fixation des conditions de collation du diplôme d'infirmier gradué est remplacé par la disposition suivante :
+
+" Article 2. Sans préjudice des conditions prévues par les dispositions applicables à l'enseignement supérieur de type court et de plein exercice, le diplôme d'infirmier gradué et le diplôme d'infirmier gradué spécialisé dans une discipline particulière sont conférés par les établissements d'enseignement supérieur paramédical aux conditions fixées par le présent arrêté. "
+
+#### Art. 24
+
+A l'article 3 du même arrêté, le texte actuel devient le premier paragraphe et un second paragraphe est inséré, libellé comme suit :
+
+" § 2. Les études d'infirmier gradué spécialisé dans une discipline particulière s'étendent sur un au moins un an et se clôturent par un examen. "
+
+#### Art. 25
+
+L'article 4 du même arrêté est remplacé par la disposition suivante :
+
+" Article 4. Seul est admis à l'examen de fin d'études l'étudiant qui peut produire des rapports de soins constatant qu'il a effectué avec fruit au moins 1.800 périodes de stage pour le diplôme d'infirmier gradué et au moins 540 périodes de stage pour le diplôme d'infirmier gradué spécialisé. "
+
+#### Art. 26
+
+L'article 5 du même arrêté est remplacé par la disposition suivante :
+
+" Article 5. Le diplôme d'infirmier gradué est délivré aux étudiants après avoir été visé par les Ministres ayant l'Enseignement et la Santé dans leurs attributions ou par leurs délégués et, le cas échéant, immatriculé dans le registre ad hoc dans le respect des règles fixées par le Ministre fédéral qui a la Santé dans ses attributions.
+
+Le diplôme d'infirmier gradué spécialisé dans une discipline particulière est délivré aux étudiants après avoir été visé par les Ministres ayant l'Enseignement et la Santé dans leurs attributions ou par leurs délégués. "
+
+#### Art. 27
+
+A l'article 8 du même arrêté, il est ajouté un deuxième alinéa, libellé comme suit :
+
+" Sont admises aux études d'infirmier gradué spécialisé les personnes titulaires du diplôme d'infirmier gradué. "
+
+#### Art. 28
+
+Après l'article 8 du même arrêté, il est inséré un article 8bis, libellé comme suit :
+
+" Article 8bis. Par dérogation à l'article 8, les titulaires du brevet en soins infirmiers disposant d'une expérience professionnelle d'au moins cinq ans peuvent suivre une forme particulière d'études d'infirmier gradué.
+
+Par expérience professionnelle, il faut entendre l'expérience professionnelle effective en tant qu'infirmier dans le cadre d'un service presté à mi-temps au moins. "
+
+#### Art. 29
+
+Après l'article 15 du même arrêté, il est inséré un article 15bis, libellé comme suit :
+
+" Article 15bis. Par dérogation aux articles 4 et 15, le programme d'études pour les titulaires du brevet en soins infirmiers disposant d'une expérience professionnelle d'au moins cinq ans comprend au moins le nombre de périodes que comptent deux années d'études de l'enseignement de plein exercice.
+
+Par dérogation aux articles 4 et 15, le programme d'études pour les titulaires du brevet en soins infirmiers disposant d'une expérience professionnelle d'au moins dix ans comprend au moins le nombre de périodes que compte une année d'études de l'enseignement de plein exercice.
+
+Par dérogation aux articles 3 et 11, le programme d'études peut être proposé sous la forme d'un enseignement à temps plein, à horaire réduit, modulaire ou différé.
+
+Les écoles supérieures soumettent le programme d'études à l'approbation des Ministres ayant l'Enseignement et la Santé dans leurs attributions. "
+
+#### Art. 30
+
+Après le chapitre II du même arrêté, il est inséré un chapitre IIbis comprenant l'article 15ter suivant :
+
+" CHAPITRE IIbis. - Programme d'études d'infirmier gradué spécialisé en soins intensifs et d'urgence
+
+" Article 15ter. Le programme d'études d'infirmier gradué spécialisé en soins intensifs et d'urgence comprend au moins 540 périodes de cours théoriques dans les domaines " sciences biomédicales ", " sciences infirmières ", " méthodologie de la recherche appliquée en soins intensifs et soins d'urgence ", " appareillage et matériel utilisés en soins intensifs et soins d'urgence " et " sciences sociales et humaines " ainsi qu'au moins 540 périodes d'enseignement clinique, dont 240 périodes au moins passées dans un service agréé de soins intensifs et 240 périodes au moins dans un service agréé des urgences. "
+
+## CHAPITRE VII. - Modification de l'arrêté royal du 28 décembre 1977 fixant les modalités d'octroi d'une dispense d'examens dans l'enseignement supérieur de type court et de type long.
+
+#### Art. 31
+
+A l'article 2 de l'arrêté royal du 28 décembre 1977 fixant les modalités d'octroi d'une dispense d'examens dans l'enseignement supérieur de type court et de type long, modifié par l'arrêté royal du 30 octobre 1978, il est ajouté un quatrième alinéa, libellé comme suit :
+
+" Dans l'enseignement supérieur paramédical, le Gouvernement peut accorder des dispenses d'examens aux titulaires du brevet en soins infirmiers qui s'inscrivent en première année d'études d'infirmier gradué. "
+
+#### Art. 32
+
+A l'article 7 de l'arrêté royal du 28 décembre 1977 fixant les modalités d'octroi d'une dispense d'examens dans l'enseignement supérieur de type court et de type long, il est ajouté un deuxième alinéa, libellé comme suit :
+
+" Pour les demandes introduites en vertu de l'article 2, alinéa 4, le Gouvernement tient compte de l'expérience professionnelle et du fait que des cours et stages similaires ont été suivis pendant la formation menant au brevet. "
+
+## CHAPITRE VIII. - Modification du décret du 18 avril 1994 fixant le montant des subventions de fonctionnement pour l'enseignement subventionné.
+
+#### Art. 33
+
+Dans le décret du 18 avril 1994 fixant le montant des subventions de fonctionnement pour l'enseignement subventionné, il est inséré dans l'article 2bis un deuxième alinéa, libellé comme suit :
+
+" Par dérogation au premier alinéa, cette école reçoit, à partir de l'année 2004 et pendant cinq années successives, un subside d'équipement forfaitaire annuel d'un montant de 40.000 EUR. "
+
+#### Art. 34
+
+Dans le décret du 18 avril 1994 fixant le montant des subventions de fonctionnement pour l'enseignement subventionné, il est inséré un article 2quater, libellé comme suit :
+
+" Article 2quater. Pour une médiathèque scolaire, une subvention forfaitaire annuelle d'un montant de 4.000 EUR est octroyée lorsque :
+
+1° le pouvoir organisateur de la médiathèque est une association sans but lucratif;
+
+2° la médiathèque se trouve dans les locaux d'une école secondaire de l'enseignement ordinaire;
+
+3° la médiathèque est aménagée conformément aux instructions du Gouvernement de la Communauté germanophone.
+
+La subvention est gérée par le conseil d'administration du pouvoir organisateur de la médiathèque concernée. Le Gouvernement fixe les autres modalités de liquidation. "
+
+## CHAPITRE IX. - Modification de l'arrêté royal du 30 juillet 1975 relatif aux titres jugés suffisants dans l'enseignement secondaire dispensé dans les établissements libres d'enseignement moyen ou d'enseignement normal subventionnés, y compris l'année postsecondaire psycho- pédagogique.
+
+#### Art. 35
+
+A l'article 12, § 1er, 3°, de l'arrêté royal du 30 juillet 1975 relatif aux titres jugés suffisants dans l'enseignement secondaire dispensé dans les établissements libres d'enseignement moyen ou d'enseignement normal subventionnés, y compris l'année postsecondaire psycho- pédagogique, le littera a) est remplacé comme suit :
+
+" a) membre du personnel engagé à titre définitif dans le secondaire dans l'une des fonctions suivantes :
+
+\- professeur de cours généraux;
+
+\- professeur de psychologie, de pédagogie et de méthodologie;
+
+\- professeur de religion;
+
+\- professeur de morale;
+
+\- professeur de cours spéciaux;
+
+\- professeur de langues anciennes (latin, grec);. "
+
+## CHAPITRE X. - Modification de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique.
+
+#### Art. 36
+
+L'article 17 de l'arrêté royal du 15 avril 1958 portant statut pécuniaire du personnel enseignant, scientifique et assimilé du Ministère de l'Instruction publique est complété par un § 4, libellé comme suit :
+
+" § 4. Pour les membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation, sont pris en considération les services prestés à partir de l'âge de 20, 21, 22, 23 ou 24 ans auprès d'autres employeurs s'il s'agit d'associations sans but lucratif dont l'objet consiste à accomplir des missions ou à prester des services qui sont d'une manière ou d'une autre en rapport direct avec l'enseignement ou le servent directement.
+
+Le membre du personnel introduit une demande de reconnaissance ad hoc. Le ministre compétent en matière d'Enseignement décide si l'objet de l'association en question est conforme à celui visé à l'alinéa premier et dans quelle mesure les services prestés par le membre du personnel ont directement concouru à la réalisation de cet objet.
+
+Les temps partiels sont comptabilisés proportionnellement à un temps plein, 10 années au plus pouvant dans ce cas être prises en compte. "
+
+## CHAPITRE XI. - Modification du décret du 18 avril 1994 relatif à l'installation d'un jury d'examen de la Communauté germanophone pour l'enseignement secondaire et à l'organisation des examens présentés devant ce jury.
+
+#### Art. 37
+
+Dans le décret du 18 avril 1994 relatif à l'installation d'un jury d'examen de la Communauté germanophone pour l'enseignement secondaire et à l'organisation des examens présentés devant ce jury est inséré un article 30bis libellé comme suit :
+
+" Article 30bis. Le candidat absent lors d'un examen sans s'être au préalable excusé auprès du secrétaire et sans avoir, dans les cinq jours à compter du jour de l'examen, justifié son absence de manière détaillée et par écrit ou avoir introduit un certificat médical est exclu de la session d'examens suivante. Le président décide de la recevabilité de la justification de l'absence. L'exclusion du candidat lui est communiquée par écrit. "
+
+## CHAPITRE XII. - Modification du décret du 26 juin 1986 relatif à l'octroi d'allocations d'études.
+
+#### Art. 38
+
+A l'article 2 du décret du 26 juin 1986 relatif à l'octroi d'allocations d'études, les litterae c) et d) sont remplacés par le littera c) suivant :
+
+" c) aux étudiants belges, domiciliés dans la région de langue allemande, qui poursuivent des études à l'étranger. "
+
+A l'article 3 du même décret, le littera b) est remplacé comme suit :
+
+" b) aux étudiants belges, domiciliés dans la région de langue allemande, qui poursuivent des études à l'étranger. "
+
+A l'article 5, § 2, du même décret, le passage " à l'article 2, c) et d) " est remplacé par le passage " à l'article 2, c) ".
+
+## CHAPITRE XIII. - Dispositions abrogatoires en cas de fusions d'internats dans l'enseignement communautaire.
+
+#### Art. 39
+
+A l'article 2 de l'arrêté royal n° 456 du 10 septembre 1986 portant rationalisation et programmation des internats de l'enseignement organisé ou subventionné par l'Etat est inséré un § 4, libellé comme suit :
+
+" § 4. Lorsque deux internats fusionnent, le Gouvernement peut déroger à la norme de maintien énoncée au § 2 pendant quatre années scolaires au plus. "
+
+#### Art. 40
+
+Dans le même arrêté royal n° 456, l'article 14 est remplacé par la disposition suivante :
+
+" Article 14. § 1er. Dans l'enseignement communautaire, le nombre d'emplois d'éducateurs d'internat est déterminé comme suit :
+
+1° de 1 à 21 élèves : 1 éducateur;
+
+2° pour tout autre groupe entamé de 21 élèves : 1 éducateur.
+
+Pour déterminer les emplois mentionnés au premier alinéa, le nombre d'éleves de l'enseignement fondamental et secondaire est affecté du coefficient 1 et le nombre d'élèves de l'enseignement supérieur du coefficient 0,5.
+
+§ 2. Dans un internat issu de la fusion d'un internat pour garçons et d'un internat pour jeunes filles, il y a, en dérogation au § 1er, au moins trois éducateurs et deux éducatrices tant que des garçons et des filles sont inscrits dans cet internat. "
+
+## CHAPITRE XIV. - Modification du décret du 24 mars 2003 instaurant l'inspection-guidance pédagogique pour l'enseignement en Communauté germanophone et en fixant les missions.
+
+#### Art. 41
+
+A l'article 12, alinéa 1er, du décret du 24 mars 2003 instaurant l'inspection-guidance pédagogique pour l'enseignement en Communauté germanophone et en fixant les missions, le passage " quatre personnes maximum " est remplacé par " cinq personnes maximum ".
+
+## CHAPITRE XV. - Dispositions abrogatoires et finales.
+
+#### Art. 42
+
+Le décret du 17 juin 1991 portant octroi d'une allocation aux membres du personnel enseignant qui exercent provisoirement une autre fonction que celle à laquelle ils sont nommés à titre définitif et l'arrêté du 18 mars 1992 portant exécution de l'article 1er, alinéa 4, du décret du 17 juin 1991 portant octroi d'une allocation aux membres du personnel enseignant qui exercent provisoirement une autre fonction que celle à laquelle ils sont nommés à titre définitif, sont abrogés.
+
+#### Art. 43
+
+L'arrêté royal du 30 décembre 1959 relatif aux congés de maladie et de maternité des membres du personnel de l'enseignement de l'Etat est abrogé.
+
+#### Art. 44
+
+L'article 7 de l'arrêté du Gouvernement du 21 décembre 2000 relatif au conge politique pour les membres du personnel dans l'enseignement et portant adaptation du statut pécuniaire est abrogé.
+
+#### Art. 45
+
+L'article 4bis de l'arrêté royal du 2 avril 1975 relatif au congé accordé à certains membres du personnel des services publics pour accomplir certaines prestations au bénéfice de groupes politiques reconnus des assemblées législatives nationales communautaires ou régionales ou au bénéfice des présidents de ces groupes est abrogé dans la mesure où les membres du personnel des établissements d'enseignement et des centres P.M.S. organisés par la Communauté germanophone et les membres subsidies du personnel des établissements d'enseignement et des centres P.M.S. subsidiés par la Communauté germanophone sont concernés.
+
+#### Art. 46
+
+L'arrêté royal du 18 avril 1967 fixant les règles de calcul du nombre d'éducateurs dans l'enseignement de l'Etat est abrogé.
+
+#### Art. 47
+
+Les articles 23 à 30 produisent leurs effets le 1er septembre 2001.
+
+L'article 34 produit ses effets le 1er septembre 2002.
+
+L'article 41 produit ses effets le 24 mars 2003.
+
+L'article 38 est applicable aux demandes introduites à partir de l'année académique 2003-2004.
+
+L'article 37 entre en vigueur le 1er juillet 2003.
+
+Les articles 1er à 11, 22, 31 à 33, 35, 36, 39, 40 et 42 à 46 entrent en vigueur le 1er septembre 2003.
+
+Les articles 12 à 17 et 21 entrent en vigueur le 1er septembre 2003 et valent pour les années scolaires 2003-2004 et 2004-2005.
+
+Les articles 18 à 20 entrent en vigueur le 1er septembre 2003 et valent pour les années scolaires 2003-2004 à 2006-2007 inclusivement.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur belge.
+
+Donné à Eupen le 30 juin 2003.
+
+K.-H. LAMBERTZ,
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre de l'Emploi, de la Politique des Handicapés, des Médias et des Sports.
+
+B. GENTGES,
+
+Ministre de l'Enseignement et de la Formation, de la Culture et du Tourisme.
+
+H. NIESSEN,
+
+Ministre de la Jeunesse et de la Famille, de la Protection des Monuments, de la Santé et des Affaires sociales.

@@ -1,0 +1,1405 @@
+---
+title: "Décret relatif à l'Infrastructure (TRADUCTION)."
+identifier: "2002033050"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/18/2002033050/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2002-03-18
+published: 2002-07-10
+entry_into_force: 2002-01-01
+last_amended: 2026-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/18/2002033050/justel"
+department: "Communauté germanophone"
+justel_note: "Consultation des versions antérieures à partir du 10-07-2002 et mise à jour au 02-03-2026"
+retrieved: 2026-10-12
+---
+
+# 18 MARS 2002. - Décret relatif à l'Infrastructure (TRADUCTION).
+
+Le Conseil de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions applicables à tous les projets d'infrastructure.
+
+### Section 1. - Champ d'application.
+
+### Objectif.
+
+##### Art. 1
+
+Le présent décret fixe les conditions auxquelles le Gouvernement de la Communauté germanophone, dans les limites des crédits disponibles, octroie des subventions pour les projets d'infrastructure en région de langue allemande (ou dans le ressort de la Communauté germanophone). &lt;DCG 2003-02-03/51, art. 10, 002; En vigueur : 01-01-2002&gt;
+
+### Définitions.
+
+##### Art. 2
+
+Pour l'application du présent décret, l'on entend par projet d'infrastructure :
+
+1° la construction de bâtiments [<sup>2</sup> ou d'infrastructures extérieures]<sup>2</sup>;
+
+2° l'acquisition ou l'expropriation de terrains, bâtiments ou parties de bâtiments;
+
+3° la transformation ou l'agrandissement d'un bâtiment existant [<sup>2</sup> des infrastructures extérieures]<sup>2</sup>;
+
+4° les travaux de remise en état réalisés à des bâtiments existants [<sup>2</sup> d'une infrastructure extérieure]<sup>2</sup>;
+
+5° l'aménagement avec des biens immeubles par nature ou par destination qui sont indispensables pour l'utilisation des biens immobiliers [<sup>2</sup> des infrastructures extérieures]<sup>2</sup>;
+
+6° l'équipement avec des biens meubles qui sont indispensables pour l'utilisation des biens immobiliers [<sup>2</sup> des infrastructures extérieures]<sup>2</sup>;
+
+7° les mesures visant à améliorer la sécurité routière aux abords de l'infrastructure;
+
+8° les mesures en vue de faciliter l'accessibilité aux personnes handicapées ou d'améliorer la sécurité;
+
+9° les mesures visant à intégrer notamment des aspects de la construction durable [<sup>3</sup> ou de performance énergétique, y compris les études préparatoires]<sup>3</sup> [<sup>4</sup> ;]<sup>4</sup>
+
+[<sup>1</sup> 10° les installations d'épuration]<sup>1</sup>[<sup>4</sup> ;]<sup>4</sup>
+
+[<sup>4</sup> 11° [<sup>5</sup> les mesures suivantes au sein d'un périmètre fixé conformément à l'article D.II.57.4, § 5, du Code wallon du Développement territorial]<sup>5</sup> :
+
+a) les mesures visant à éliminer les dangers et les risques d'accident provenant de constructions, d'éléments de construction ou d'équipements dangereux;
+
+b) les démolitions ou démolitions partielles de constructions ou d'installations, en ce compris les structures souterraines;
+
+c) les mesures de sécurité ou de sûreté;
+
+d) la collecte, la mise au rebut, le traitement ou la destruction des produits, matériaux, déblais et déchets ayant été abandonnés ou résultant des mesures en question;
+
+e) le vidage des caves, réservoirs et canalisations ainsi que le curage des fosses, étangs et bassins;
+
+f) le traitement des eaux usées;
+
+g) les mesures relatives à la construction, à la transformation, à l'amélioration ou à l'extension de places publiques, d'infrastructures extérieures ou d'espaces verts.]<sup>4</sup>
+
+Un seul et même projet peut regrouper plusieurs des projets d'infrastructure énoncés au premier alinéa.
+
+Tous les montants mentionnés dans le présent décret s'entendent hors T.V.A. [et à l'exclusion de la part du coût supportée par la Société publique de Gestion de l'Eau]. &lt;DCG 2006-02-20/37, art. 1, 006; En vigueur : 01-01-2006&gt;
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 43, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2008-03-17/41, art. 7, 008; En vigueur : 01-01-2008&gt;
+
+(3)&lt;DCG 2021-12-13/12, art. 5, 022; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DCG 2022-11-21/08, art. 228, 024; En vigueur : 01-02-2023&gt;
+
+(5)&lt;DCG 2023-12-14/58, art. 105, 027; En vigueur : 01-01-2024&gt;
+
+### Financements alternatifs.
+
+##### Art. 3
+
+Les projets d'infrastructure financés autrement peuvent être subsidiés lorsque l'accord du Gouvernement a été demandé avant la conclusion d'un contrat ad hoc. Cet accord ouvre le droit aux subsides, dont le montant ne peut dépasser le montant actualisé en application du présent décret, à moins que le subside ne soit lui aussi financé de manière alternative.
+
+Le Gouvernement fixe les modalités d'application de l'alinéa précédent en prévoyant d'éventuelles dérogations (aux articles 14, 18 (, 21 et 27, 1° et 6°)). &lt;DCG 2004-03-01/37, art. 2, 003; En vigueur : 01-01-2004&gt; &lt;DCG 2004-05-17/49, art. 48, 004; En vigueur : 01-05-2004&gt;
+
+##### Art. 3bis
+
+&lt;Inséré par DCG 2003-02-03/51, art. 11; En vigueur : 01-01-2002&gt; La conclusion d'une convention entre le Gouvernement et un demandeur ne dispense pas de l'application du présent décret.
+
+##### Art. 3ter
+
+[<sup>1</sup> Passation de contrats.
+
+Lorsqu'un demandeur a conclu une mesure de passation de contrat, le Gouvernement peut, selon un accord cadre, prendre en charge jusqu'à 30 % du remboursement. Le demandeur n'a droit, dans le cadre de cette mesure, à aucune autre subvention en matière d'infrastructure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2009-04-27/19, art. 22, 010; En vigueur : 25-06-2009&gt;
+
+##### Art. 3quater
+
+[<sup>1</sup> Partenariat public/privé
+
+Lorsqu'un demandeur se rallie à un projet d'infrastructure du Gouvernement dans le cadre d'un partenariat public/privé, les modalités de sa participation financière sont réglées dans le cadre d'une convention. Ceci garantit que le demandeur ne devra pas supporter des frais supérieurs à ceux qu'ils devrait supporter en cas de subventionnement en vertu du présent décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2011-02-14/08, art. 16, 012; En vigueur : 20-12-2010&gt;
+
+### Section 2. - Dispositions générales.
+
+### Adjudication publique.
+
+##### Art. 4
+
+§ 1er. Tous les demandeurs sont soumis aux dispositions de la législation relative aux marchés publics de travaux, fournitures et services applicables aux pouvoirs publics.
+
+§ 2. Lors de l'adjudication publique :
+
+\- le demandeur communique par écrit au Gouvernement, au moins 14 jours à l'avance, la date de l'ouverture des soumissions à laquelle le Gouvernement peut envoyer un délégué;
+
+\- les procès-verbaux d'ouverture des soumissions, accompagnés du rapport (et de l'offre la mieux classée), doivent être adressés au Gouvernement qui dispose de 14 jours pour faire valoir ses griefs. &lt;DCG 2004-03-01/37, art. 3, 003; En vigueur : 01-01-2004&gt;
+
+### Conditions préalables à la subsidiation de projets d'infrastructure.
+
+##### Art. 5
+
+Pour être subsidiables, les projets d'infrastructure répondent notamment aux normes de programmation en vigueur, aux prescriptions applicables en matière d'accessibilité pour les personnes handicapées, d'aménagement du territoire et de protection des monuments et sites ainsi qu'aux règles que le Gouvernement doit prendre en application de l'article 7. De plus, ils s'intègrent de manière harmonieuse dans le paysage.
+
+[<sup>1</sup> Le projet d'infrastructure mentionné à l'article 2, alinéa 1er, 7°, n'est subsidiable que dans la mesure où il ne peut être subsidié par d'autres autorités ou lorsqu'un subside a été demandé mais n'a pas été accordé.]<sup>1</sup>
+
+[<sup>2</sup> Les projets d'infrastructure pour lesquels le Gouvernement, conformément à l'article 7, 1°, a fixé des plafonds généraux ou par unité de mesure comme base de calcul pour le subventionnement ne sont par ailleurs pas pris en compte pour l'octroi d'un subside en vertu du présent décret.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2008-03-17/41, art. 7, 008; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DCG 2017-02-20/13, art. 48, 020; En vigueur : 15-03-2017&gt;
+
+### Utilisation.
+
+##### Art. 6
+
+Les locaux généralement accessibles des infrastructures financées ou subsidiées par la Communauté germanophone sont accessibles au public, sans discrimination d'ordre idéologique ou philosophique quelconque.
+
+### Mission confiée au Gouvernement.
+
+##### Art. 7
+
+En vue de la subsidiation de projets d'infrastructure, le Gouvernement peut fixer :
+
+1° pour toutes ou certaines compétences bien précises, dans la mesure où elles ne sont pas réglées par le présent décret, des plafonds généraux et par unité de mesure comme base de calcul pour le subventionnement d'infrastructures, en différenciant éventuellement les plafonds selon des critères architectoniques;
+
+2° des normes de programmation pour tous les domaines ou pour certains d'entre eux;
+
+3° des délais pour la subsidiation de travaux de remise en état ou pour le renouvellement de l'aménagement ou de l'équipement;
+
+4° des règles pour l'utilisation des infrastructures subsidiées par d'autres utilisateurs que les pouvoirs organisateurs;
+
+5° des prescriptions spécifiques en vue de rendre les infrastructures subsidiées accessibles aux personnes handicapées;
+
+6° des prescriptions spécifiques quant à l'utilisation de matériaux de construction, à l'utilisation rationnelle de l'énergie et à d'autres aspects de la construction durable.
+
+[<sup>1</sup> 7° des conditions particulières auxquelles doit satisfaire un gestionnaire de projet[<sup>2</sup> ;]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> 8° les dépenses admissibles qui peuvent être qualifiées de construction durable ou basse énergie [<sup>3</sup> ;]<sup>3</sup>]<sup>2</sup>
+
+[<sup>3</sup> 9° des mesures dans le cadre de la liste des mesures au sein d'un [<sup>4</sup> périmètre]<sup>4</sup> mentionnées à l'article 2, alinéa 2, 11°, en complétant ou restreignant ladite liste, le cas échéant.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCG 2014-02-24/14, art. 30, 016; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2021-12-13/12, art. 6, 022; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCG 2022-11-21/08, art. 229, 024; En vigueur : 01-02-2023&gt;
+
+(4)&lt;DCG 2023-12-14/58, art. 106, 027; En vigueur : 01-01-2024&gt;
+
+### Section 3. - Plan d'infrastructure.
+
+### Objectif.
+
+##### Art. 8
+
+Le plan d'infrastructure reprend la liste des projets d'infrastructure à réaliser au cours d'une certaine période.
+
+Le plan d'infrastructure est le résultat :
+
+\- des travaux de remise en état nécessaires, déterminés sur base d'un état des lieux de toutes les infrastructures financées ou subsidiées par la Communauté germanophone;
+
+\- des besoins en nouvelles constructions, déterminés sur base d'une analyse détaillée et à long terme des besoins tenant compte de toutes les infrastructures existant dans une zone géographique déterminée et pouvant être utilisées par un demandeur;
+
+\- de la compatibilité des projets d'infrastructure et de la planification financière à long terme de la Communauté germanophone.
+
+### Adoption.
+
+##### Art. 9
+
+Après concertation avec les communes, le Gouvernement arrête un plan d'infrastructure pluriannuel, actualisé annuellement.
+
+Le plan d'infrastructure est transmis au (Parlement de la Communauté germanophone) avec le projet de budget. &lt;DCG 2006-02-20/37, art. 2, 006; En vigueur : 01-01-2006&gt;
+
+### Condition mise à la subsidiation.
+
+##### Art. 10
+
+[<sup>1</sup> Pour être subsidiable, tout projet d'infrastructure doit être inscrit au plan d'infrastructure, à l'exception du projet d'infrastructure mentionné à l'article 2, alinéa 1er, 6°, et des projets d'infrastructure relatifs à des terrains de camping, des établissements hôteliers ou des maisons de vacances, mentionnés aux articles 36 à 38 [<sup>2</sup> , ainsi que des projets d'infrastructure prévus à l'article 39, § 3, relatifs à des bâtiments et sites classés]<sup>2</sup>.]<sup>1</sup>
+
+En cas d'extrême urgence dûment motivée, le Gouvernement peut approuver un projet d'infrastructure non prévu dans le plan d'infrastructure.
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 44, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2008-06-23/40, art. 48, 009; En vigueur : 01-01-2009&gt;
+
+### Section 4. - Subsidiation.
+
+#### Sous-section 1. - Conditions.
+
+#### Demandeur.
+
+##### Art. 11
+
+Les personnes de droit privé, non mentionnées au deuxième alinéa, ne peuvent recevoir des subsides que pour :
+
+1° les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1°, et 3° à 9°, et relatifs à des établissements hôteliers [<sup>1</sup> ...]<sup>1</sup>;
+
+[<sup>1</sup> 1bis les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1°, et 3° à 10°, et relatifs à des terrains de camping;]<sup>1</sup>
+
+2° les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 3° à 9°, et relatifs à des maisons de vacances;
+
+3° le projet d'infrastructure mentionné à l'article 2, alinéa 1er, 4°, et relatifs à des bâtiments ou paysages classés;
+
+[<sup>3</sup> 3.1 les projets d'infrastructure prévus à l'article 2, alinéa 1er, 1° et 3° à 9°, pour la création d'un local communautaire d'une résidence pour seniors [<sup>5</sup> au sens des articles 19 et 20 du décret du 13 décembre 2018 concernant les offres pour personnes âgées ou dépendantes ainsi que les soins palliatifs]<sup>5</sup>;]<sup>3</sup>
+
+[<sup>4</sup> 3.2° les projets d'infrastructure prévus à l'article 2, alinéa 1er, 1°, et 3° à 11°, pour autant qu'ils se situent [<sup>6</sup> au sein d'un périmètre fixé conformément à l'article D.II.57.4, § 5, du Code wallon du Développement territorial]<sup>6</sup>]<sup>4</sup>;
+
+4° les projets d'infrastructure relatifs à des établissements d'enseignement, des internats et des centres psycho-médico-sociaux.
+
+Peuvent bénéficier de subsides pour des projets d'infrastructure dans tous domaines :
+
+1° les communes;
+
+2° les régies autonomes;
+
+3° les intercommunales;
+
+4° les fabriques d'église;
+
+5° les associations sans but lucratif;
+
+6° les fondations;
+
+7° les centres publics d'aide sociale;
+
+8° les sociétés à finalité sociale;
+
+9° les coopératives de construction;
+
+10° tous les autres organismes publics,
+
+dans la mesure où ils sont actifs dans le ressort de la Communauté germanophone;
+
+[<sup>2</sup> 11° [<sup>3</sup> ...]<sup>3</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 45, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2009-04-27/19, art. 23, 010; En vigueur : 25-06-2009&gt;
+
+(3)&lt;DCG 2015-03-02/05, art. 43, 017; En vigueur : 01-01-2015&gt;
+
+(4)&lt;DCG 2022-11-21/08, art. 230, 024; En vigueur : 01-02-2023&gt;
+
+(5)&lt;DCG 2022-12-15/54, art. 67, 026; En vigueur : 01-01-2023&gt;
+
+(6)&lt;DCG 2023-12-14/58, art. 107, 027; En vigueur : 01-01-2024&gt;
+
+#### Rapports de propriété.
+
+##### Art. 12
+
+(§ 1er.) Sauf en ce qui concerne les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 2°, un subside ne peut être octroyé que lorsque le demandeur est propriétaire des immeubles existants ou du terrain sur lequel l'infrastructure sera érigée, ou est en possession d'un contrat de bail emphytéotique, d'un contrat de louage à domaine congéable ou d'un contrat de location qui, au moment de la demande, couvre une période d'au moins : &lt;DCG 2004-03-01/37, art. 4, 003; En vigueur : 01-01-2004&gt;
+
+\- 3 ans si le subside total est inférieur à euro 7.500;
+
+\- 12 ans si le subside total est inférieur à euro 125.000;
+
+\- 20 ans si le subside total est inférieur à euro 250.000;
+
+\- 33 ans si le subside total est égal ou supérieur à euro 250.000.
+
+Le contrat de bail emphytéotique, contrat de louage à domaine congéable ou contrat de location prévoit, en cas de résiliation anticipée par le bailleur ou en cas de dissolution par sa faute, le remboursement à sa charge des subsides, tel que prévu à l'article 25. Les dispositions du contrat ne peuvent empêcher l'exécution des travaux pour lesquels les subsides ont été demandés.
+
+(Lorsqu'une commune est propriétaire de l'immeuble à subsidier, le contrat de bail emphytéotique, de louage à domaine congéable ou de bail mentionné au premier alinéa peut être remplacé par un droit d'usage.) &lt;DCG 2006-02-20/37, art. 3, 1°, 006; En vigueur : 01-01-2006&gt;
+
+(§ 2. Dans des cas particulièrement motivés, le Gouvernement peut accorder une dérogation aux conditions mentionnées au § 1er.) &lt;DCG 2004-03-01/37, art. 4, 003; En vigueur : 01-01-2004&gt;
+
+(Pour les infrastructures extérieures [<sup>1</sup> ...]<sup>1</sup> des communes, une dérogation générale aux conditions mentionnées au § 1er est accordée.) &lt;DCG 2006-02-20/37, art. 3, 2°, 006; En vigueur : 01-01-2006&gt;
+
+----------
+
+(1)&lt;DCG 2008-03-17/41, art. 7, 008; En vigueur : 01-01-2008&gt;
+
+#### Assurance.
+
+##### Art. 13
+
+L'immeuble ou l'installation à subsidier (, à l'exception des infrastructures extérieures [<sup>1</sup> ...]<sup>1</sup> des communes,) doit être assuré contre l'incendie ou d'autres dangers, en ce qui concerne les risques simples au sens de la législation sur l'assurance terrestre. Si elle est prévue par la loi, une assurance en responsabilité objective doit être conclue. &lt;DCG 2006-02-20/37, art. 4, 006; En vigueur : 01-01-2006&gt;
+
+----------
+
+(1)&lt;DCG 2008-03-17/41, art. 7, 008; En vigueur : 01-01-2008&gt;
+
+#### Surveillance des chantiers.
+
+##### Art. 14
+
+&lt;DCG 2004-03-01/37, art. 5, 003; En vigueur : 01-01-2004&gt; Pour les [<sup>2</sup> projets d'infrastructure]<sup>2</sup> dont le coût (...) est d'au moins [<sup>1</sup> 500.000 EUR]<sup>1</sup> , le demandeur conclut auprès d'une entreprise agréée un contrat de surveillance du chantier et l'assurance de garantie décennale y afférente, ainsi qu'une assurance-chantier qui couvre le gros-oeuvre fermé et la responsabilité civile du maître de l'ouvrage. Pour les installations extérieures de toute nature, tous les coûts liés au projet doivent être couverts. &lt;DCG 2005-03-21/37, art. 3, 005; En vigueur : 01-01-2005&gt;
+
+(Le coût visé au premier alinéa comprend les coûts de construction proprement dits ainsi que les honoraires des architectes, ingénieurs et autres experts, mais pas les coûts liés au coordinateur de sécurité, à l'assurance-chantier ou à la surveillance du chantier.) &lt;DCG 2005-03-21/37, art. 3, 005; En vigueur : 01-01-2005&gt;
+
+----------
+
+(1)&lt;DCG 2009-04-27/19, art. 24, 010; En vigueur : 25-06-2009&gt;
+
+(2)&lt;DCG 2022-11-21/08, art. 231, 024; En vigueur : 01-02-2023&gt;
+
+##### Art. 14bis
+
+[<sup>1</sup> Responsable de projet.
+
+§ 1er. Le demandeur mandate un responsable de projet. Celui-ci encadre le projet d'infrastructure, notamment en ce qui concerne le respect des prescriptions spécifiques énoncées à l'article 7, 5° et 6°.
+
+§ 2. En ce qui concerne les projets d'infrastructure requérant l'intervention d'un architecte [<sup>2</sup> conformément à l'article D.IV.1, § 2, du Code wallon du Développement territorial]<sup>2</sup>, le demandeur mandate un auteur de projet en tant que responsable de projet.
+
+Celui-ci assure la planification générale, le pilotage, la surveillance ainsi que la clôture du projet d'infrastructure.
+
+§ 3. En ce qui concerne les projets d'infrastructure requérant l'intervention d'un architecte [<sup>2</sup> conformément à l'article D.IV.1, § 2, du Code wallon du Développement territorial]<sup>2</sup>, et dont le coût général s'élève au moins à 500.000 euros, le demandeur mandate un gestionnaire de projet conformément à l'article 7, 7°, et à l'article 18bis, §§ 2 et 3, en tant que responsable de projet.
+
+Pour ces projets d'infrastructure, le gestionnaire de projet assure les missions mentionnées au § 2, alinéa 2, ainsi que l'encadrement du demandeur, alors que l'auteur de projet assure la mise en oeuvre pratique du projet en suivant les prescriptions du gestionnaire de projet.
+
+Le gestionnaire de projet est mandaté avant l'auteur de projet. Les deux fonctions sont incompatibles.
+
+Aucun projet d'infrastructure ne peut être scindé en vu d'échapper à l'application des dispositions du présent paragraphe.
+
+Dans des cas particulièrement motivés, le Gouvernement peut octroyer des dérogations au montant repris au premier alinéa.
+
+§ 4. Par dérogation aux paragraphes 1er à 3, aucun responsable de projet au sens du présent article ne doit être mandaté lorsqu'il s'agit de projets d'infrastructure à réaliser d'urgence conformément à l'article 22. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2014-02-24/14, art. 31, 016; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2022-11-21/08, art. 232, 024; En vigueur : 01-02-2023&gt;
+
+#### Plan de financement.
+
+##### Art. 15
+
+Des subsides ne sont octroyés que lorsque le demandeur apporte la preuve que le financement de la partie des dépenses non couverte par ces subsides est assuré.
+
+Cette preuve est apportée dans le cadre d'un plan de financement détaillé qui contient, entre autres, une analyse des coûts de fonctionnement et des coûts induits et qui, le cas échéant, fait apparaître la manière dont les coûts seront répercutés sur le consommateur final.
+
+Pour les [<sup>2</sup> projets d'infrastructure]<sup>2</sup> dont le coût total est d'au moins [<sup>1</sup> 500.000 euros]<sup>1</sup> ou pour lesquels la garantie de la Communauté, visée à l'article 27, a été demandée, le plan de financement doit être accompagné d'un avis émis par le receveur communal compétent ou par un réviseur ou expert-comptable agréé.
+
+----------
+
+(1)&lt;DCG 2010-03-15/14, art. 28, 011; En vigueur : 23-04-2010&gt;
+
+(2)&lt;DCG 2022-11-21/08, art. 233, 024; En vigueur : 01-02-2023&gt;
+
+#### Sous-section 2. - Montant des subsides.
+
+#### Taux généraux.
+
+##### Art. 16
+
+Pour les projets d'infrastructure visés à l'article 2, alinéa 1er, 1° à 5° et [<sup>2</sup> 7° à 11°]<sup>2</sup>, le subside représente 60 % du montant total des dépenses pouvant être pris en considération pour une subsidiation.
+
+Pour le projet d'infrastructure visé à l'article 2, alinéa 1er, 6°, le subside représente 50 % du montant total des dépenses pouvant être pris en considération pour une subsidiation.
+
+Le cas échéant, le subside est limité aux plafonds en vigueur.
+
+----------
+
+(1)&lt;DCG 2014-02-24/14, art. 32, 016; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2022-11-21/08, art. 234, 024; En vigueur : 01-02-2023&gt;
+
+##### Art. 16bis
+
+[<sup>1</sup> Subside majoré pour performance énergétique "
+
+Si, dans le cadre de projets d'infrastructure pour lesquels le taux de subvention mentionné à l'article 16 est valide :
+
+1° seules des mesures de performance énergétique sont réalisées, celles-ci sont subsidiées à concurrence de 80 % du montant total des dépenses subsidiables;
+
+2° les mesures de performance énergétique ne constituent qu'une partie desdits projets, ces mesures bénéficient d'un taux de subvention majoré représentant 20 % du montant total des dépenses subsidiables. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-12-13/12, art. 7, 022; En vigueur : 01-01-2022&gt;
+
+#### Base de calcul du subside.
+
+##### Art. 17
+
+§ 1er. Pour les projets d'infrastructure visés à l'article 2, alinéa 1er, 1°, 3° à 5° et [<sup>4</sup> 7° à 11°]<sup>4</sup>, le montant total des dépenses pouvant être pris en considération pour une subsidiation comprend tous les coûts réellement engagés en rapport avec les projets d'infrastructure, notamment le coût de la main d'oeuvre et des matériaux, la révision de prix prévue par la loi, les coûts découlant du coordinateur en matière de sécurité prévu par la loi, de l'assurance-chantier et/ou de la surveillance du chantier, la T.V.A. lorsqu'elle n'est pas récupérée, et les honoraires des [<sup>2</sup> gestionnaires de projet,]<sup>2</sup> architectes, ingénieurs et autres experts.
+
+[Les coûts découlant, dans le cadre des plafonds accordés, de dérogations au projet approuvé peuvent être pris en considération comme dépenses acceptables si les dérogations envisagées ont été communiquées au Gouvernement avant l'exécution des travaux et si elles ne comportent pas de modification fondamentale du projet. Des modifications fondamentales du projet nécessitent l'approbation préalable du Gouvernement.
+
+Au plus tard lors du décompte final, le demandeur introduit les documents suivants auprès du Gouvernement :
+
+\- une motivation circonstanciée de la dérogation;
+
+\- les documents nécessaires pour le projet d'infrastructure, prévus à l'article 21, s'ils n'ont pas encore été remis.].&lt;DCG 2005-03-21/37, art. 4, 005; En vigueur : 01-01-2005&gt;
+
+Des dépenses acceptables encourues avant la promesse définitive du Gouvernement en vue de préparer la demande visée à l'article 21 ne sont subsidiables que lorsque le projet d'infrastructure concerné est subsidié [<sup>3</sup> , sauf s'il s'agit de dépenses engagées pour des études préparatoires en vue de réaliser des mesures de performance énergétique]<sup>3</sup>.
+
+§ 2. Pour les projets d'infrastructure visés à l'article 2, alinéa 1er, 2°, le subside est calculé sur une base qui ne peut dépasser l'estimation réalisée par le receveur de l'enregistrement compétent, l'agent compétent du comité d'acquisition d'immeubles de l'Etat ou par un estimateur (agréé par le Gouvernement), (majorée des frais de mesurage et de notaire et) éventuellement majorée de l'indemnité de remploi ou emphytéotique prévue par la loi ou payée par les autorités. &lt;DCG 2003-02-03/51, art. 12, 002; En vigueur : 01-01-2002&gt; &lt;DCG 2005-03-21/37, art. 4, 005; En vigueur : 01-01-2005&gt;
+
+Le montant total des dépenses subsidiables et relatives aux projets d'infrastructure visés à l'article 2, alinéa 1er, 6°, comprend le prix de vente approuvé par le Gouvernement, la T.V.A. dans la mesure où elle n'est pas récupérée, et les honoraires des auteurs du projet.
+
+§ 3. [Lorsqu'un projet d'infrastructure peut être subsidié par d'autres autorités, ce subside doit être sollicité. A l'exception de celui de la commune d'implantation du demandeur, ces subsides sont déduits du coût global du projet avant que ne soit calculé le subside octroyé en application du présent décret. Ceci vaut également pour chaque indemnité accordée par d'autres autorités ou établissements publics ainsi que pour toutes les participations obligatoires aux frais, sauf pour la participation aux frais payée par l'utilisateur de l'infrastructure s'il est lui-même subsidiable.
+
+Le premier alinéa ne s'applique pas au subside mentionné à l'article 39 pour les bâtiments et paysages classés] [<sup>1</sup> ni aux primes pour terrains de camping, établissements hôteliers ou maisons de vacances mentionnées aux articles 36, 37 et 38.]<sup>1</sup> &lt;DCG 2006-02-20/37, art. 5, 006; En vigueur : 01-01-2006&gt;
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 46, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2014-02-24/14, art. 33, 016; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCG 2021-12-13/12, art. 8, 022; En vigueur : 01-01-2022&gt;
+
+(4)&lt;DCG 2022-11-21/08, art. 235, 024; En vigueur : 01-02-2023&gt;
+
+#### Sous-section 3. - Liquidation du subside.
+
+#### Liquidation.
+
+##### Art. 18
+
+§ 1er. Le subside est liquidé après achèvement ou réception des travaux ou après l'achat, sur la base des pièces comptables et preuves de paiement et après notification des polices d'assurance visées à l'article 13.
+
+§ 2. Le subside total peut être liquidé sous forme de tranches proportionnelles.
+
+Les états d'avancement détaillés, introduits à cette fin, doivent être approuvés par le maître de l'ouvrage ou l'architecte et correspondre chaque fois à un montant minimal de euro 10.000.
+
+Les liquidations proportionnelles ne peuvent dépasser 90 % du subside total.
+
+§ 3. Après achèvement ou réception des travaux, un décompte final est opéré au moyen de tous les justificatifs nécessaires, toutes les dérogations aux travaux mentionnés dans le cahier des charges faisant l'objet d'un relevé motivé.
+
+[<sup>2</sup> Lors du décompte final, le Gouvernement identifie les mesures de performance énergétique réalisées dans le cadre du projet d'infrastructure et applique aux mesures concernées le taux de subvention mentionné à l'article 16bis. ]<sup>2</sup>
+
+(Le demandeur communique au Gouvernement, quinze jours à l'avance au moins, la date de la réception à laquelle le Gouvernement peut envoyer un délégué.) &lt;DCG 2004-03-01/37, art. 6, 003; En vigueur : 01-01-2004&gt;
+
+Les justificatifs définitifs sont introduits au plus tard cinq ans après la promesse définitive ou l'approbation du Gouvernement dont question aux articles 21 à 24. En cas de procédure judiciaire retardant la réalisation d'un projet, [<sup>1</sup> ainsi que dans des cas particulièrement motivés,]<sup>1</sup> le Gouvernement peut prolonger ce délai.
+
+----------
+
+(1)&lt;DCG 2012-02-13/07, art. 25, 014; En vigueur : 01-01-2012&gt;
+
+(2)&lt;DCG 2021-12-13/12, art. 9, 022; En vigueur : 01-01-2022&gt;
+
+### Section 5. - Procédure.
+
+#### Sous-section 1. - Procédure générale.
+
+##### Art. 18bis
+
+[<sup>1</sup> Déclaration d'intention et classement.
+
+§ 1er. Avant d'annoncer un projet d'infrastructure conformément à l'article 19, un demandeur communique au Gouvernement une déclaration d'intention. Cette déclaration d'intention reprend les informations suivantes :
+
+1° des données relatives à l'identité du demandeur;
+
+2° une brève description du projet d'infrastructure envisagé;
+
+3° un devis approximatif.
+
+§ 2. Après réception de la déclaration d'intention, le Gouvernement procède au classement du projet d'infrastructure et détermine si le demandeur doit mandater un gestionnaire de projet conformément à l'article 14bis.
+
+Le Gouvernement statue sur le classement dans un délai de 15 jours suivant la notification du dossier complet de déclaration d'intention. A défaut de décision dans le délai imparti, le projet d'infrastructure est uniquement classé sur la base du devis approximatif.
+
+§ 3. Si le demandeur doit mandater un gestionnaire de projet, il introduit auprès du Gouvernement, pour approbation préalable, un cahier des charges relatif à l'attribution du marché.
+
+Le Gouvernement statue sur le cahier des charges dans un délai de quinze jours suivant la notification du dossier complet relatif à l'attribution du marché. A défaut de décision dans le délai imparti, le cahier des charges est censé être approuvé.
+
+§ 4. Si, dans le cadre de la planification, des éléments essentiels de planification sont modifiés, il y a lieu d'introduire une déclaration d'intention actualisée.
+
+Dans ce cas, le Gouvernement peut procéder, après réception de la déclaration d'intention actualisée, à un nouveau classement du projet d'infrastructure conformément au § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2014-02-24/14, art. 34, 016; 01-01-2020&gt;
+
+#### Annonce de projets d'infrastructure.
+
+##### Art. 19
+
+§ 1er. [<sup>1</sup> Après que le classement a eu lieu et après avoir mandaté un gestionnaire de projet, le cas échéant, le demandeur annonce le projet d'infrastructure au Gouvernement.]<sup>1</sup>. A cette fin, il doit au moins introduire les documents suivants, dans la mesure où ils sont requis pour le projet d'infrastructure :
+
+1° l'identité du demandeur ainsi que, le cas échéant, une copie des statuts publiés au Moniteur belge , la composition actuelle du conseil d'administration et le numéro de T.V.A.;
+
+[<sup>1</sup> 1°bis. des données relatives à l'identité du gestionnaire de projet, ainsi que la preuve qu'il satisfait aux conditions particulières énoncées à l'article 7, 7°;]<sup>1</sup>
+
+2° la preuve de l'utilité et du besoin quant aux utilisateurs actuels et potentiels de l'infrastructure ainsi qu'une description détaillée du projet d'infrastructure envisagé;
+
+3° un schéma visualisant le projet d'infrastructure;
+
+4° une évaluation des coûts et des délais d'exécution;
+
+5° la preuve d'une éventuelle déductibilité de la T.V.A.;
+
+6° les grandes lignes du plan de financement;
+
+7° la preuve de l'accord de principe de la commune (des communes) de participer au financement lorsque ceci est prévu dans le plan de financement;
+
+8° la preuve de la compatibilité du projet d'infrastructure avec les normes de programmation en vigueur;
+
+9° la preuve du classement définitif de l'immeuble;
+
+(10° une notice reprenant les mesures prévues en matière de construction durable;
+
+11° une notice reprenant les mesures prévues en matière d'accessibilité du projet d'infrastructure pour les personnes handicapées[<sup>2</sup> ;]<sup>2</sup>) &lt;DCG 2004-03-01/37, art. 7, 003; En vigueur : 01-01-2004&gt;
+
+[<sup>2</sup> 12° une notice reprenant les mesures de performance énergétique envisagées [<sup>3</sup> ;]<sup>3</sup>]<sup>2</sup>
+
+[<sup>3</sup> 13° le cas échéant, une copie de l'arrêté portant adoption [<sup>4</sup> du périmètre fixé conformément à l'article D.II.57.4, § 5, du Code wallon du Développement territorial]<sup>4</sup>]<sup>3</sup>;
+
+Le Gouvernement peut prévoir des délais pour l'annonce du projet d'infrastructure.
+
+[<sup>1</sup> § 1erbis. Si le Gouvernement constate qu'il faut procéder à un nouveau classement du projet d'infrastructure conformément à l'article 18bis, il peut ordonner une nouvelle annonce du projet d'infrastructure adapté en conséquence.]<sup>1</sup>
+
+§ 2. Les annonces qui comprennent tous les documents requis sont inscrites dans un catalogue d'enregistrement.
+
+L'inscription dans le catalogue d'enregistrement donne le droit au demandeur d'être entendu par le Gouvernement.
+
+----------
+
+(1)&lt;DCG 2014-02-24/14, art. 35, 016; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCG 2021-12-13/12, art. 10, 022; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCG 2022-11-21/08, art. 236, 024; En vigueur : 01-02-2023&gt;
+
+(4)&lt;DCG 2023-12-14/58, art. 108, 027; En vigueur : 01-01-2024&gt;
+
+#### Inscription dans le plan d'infrastructure.
+
+##### Art. 20
+
+En application de l'article 8 et sur la base des documents introduits, le Gouvernement statue sur l'inscription, dans le plan d'infrastructure adopté conformément à l'article 9, d'un projet d'infrastructure enregistré.
+
+Le Gouvernement peut charger des experts d'émettre des avis quant à l'inscription de projets d'infrastructure dans le plan d'infrastructure.
+
+Dans les deux semaines, le Gouvernement informe le demandeur sur l'inscription ou non de son projet d'infrastructure dans le plan d'infrastructure.
+
+L'inscription d'un projet d'infrastructure dans le plan d'infrastructure donne le droit au demandeur d'être entendu par le Gouvernement.
+
+#### Demande de subsides.
+
+##### Art. 21
+
+§ 1er. Après inscription d'un projet d'infrastructure dans le plan d'infrastructure, le demandeur peut introduire une demande de subsides auprès du Gouvernement. Il devra y annexer au moins les documents suivants, dans la mesure où ils sont requis pour le projet d'infrastructure :
+
+1° le titre de propriété ou une copie du contrat de location, du contrat de bail emphytéotique ou du contrat de louage à domaine congéable (ou la demande motivée d'octroi de la dérogation prévue à l'(article 12, § 2, alinéa 1er)); &lt;DCG 2004-03-01/37, art. 4, 003; En vigueur : 01-01-2004&gt; &lt;DCG 2006-02-20/37, art. 6, 1°, 006; En vigueur : 01-01-2006&gt;
+
+2° une copie de la décision de l'organe compétent, désignant l'auteur du projet et fixant la procédure de passation du marché;
+
+3° le cahier des charges et les devis [<sup>6</sup> , les mesures de performance énergétique envisagées devant être ventilées séparément ]<sup>6</sup>;
+
+4° les plans du bâtiment, avec indication de l'affectation des différents locaux;
+
+5° le plan de financement dont question à l'article 15;
+
+6° la preuve que le financement de la partie des dépense non couverte par des subsides de la Communauté germanophone est assuré;
+
+7° un état fixant la valeur actuelle du bâtiment, déterminée au moyen de la valeur cadastrale et de la police d'assurance-incendie;
+
+8° [<sup>7</sup> une copie du permis d'urbanisme ou des autres permis nécessaires à la réalisation du projet d'infrastructure et des plans déposés pour leur obtention;]<sup>7</sup>
+
+9° l'avis du service d'incendie;
+
+10° les autorisations nécessaires en matière de protection des monuments et sites;
+
+11° (la preuve que les subsides mentionnés aux articles 5, alinéa 2, et 17, § 3, ont été demandés.) &lt;DCG 2006-02-20/37, art. 6, 2°, 006; En vigueur : 01-01-2006&gt;
+
+[<sup>3</sup> 12° une version actualisée des notices mentionnées à l'article 19, § 1er, alinéa 1er, 10° et 11°.]<sup>3</sup>
+
+(Pour les infrastructures extérieures [<sup>1</sup> ...]<sup>1</sup> des communes, les documents mentionnés aux 1°, 7° et 9°, ne sont pas requis.) &lt;DCG 2006-02-20/37, art. 6, 3°, 006; En vigueur : 01-01-2006&gt;
+
+[<sup>2</sup> Lorsqu'il s'agit de projets d'infrastructure pour lesquels un marché global a été attribué, la demande est censée être complète lorsqu'elle contient les documents mentionnés à l'alinéa 1er, 1° à 7° et 11°. Les documents mentionnés à l'alinéa 1er, 8° à 10°, doivent être introduits auprès du Gouvernement avant le début des travaux.]<sup>2</sup>
+
+§ 2. Dans les trois mois suivant la réception de la demande complète, le Gouvernement statue sur celle-ci et délivre, le cas échéant, la promesse pour un subside maximal sous réserve de la révision de prix prévue par la loi.
+
+[<sup>5</sup> Lorsqu'un projet d'infrastructure ne respecte pas en tout point les prescriptions en matière d'accessibilité aux personnes handicapées au moment de la demande, le Gouvernement peut délivrer une promesse conditionnelle, sous réserve des travaux à réaliser. Dans ce cas, et si les obligations correspondantes n'ont pas été prises en considération lors la réalisation des travaux, le demandeur perd le droit au subventionnement pour la phase de construction mentionnée dans la promesse.]<sup>5</sup>
+
+A défaut de décision du Gouvernement au terme de ce délai, la demande est censée être acceptée.
+
+(Le délai mentionné au premier alinéa ne vaut que lorsque tous les coûts liés au projet, déterminé sur la base de la demande, ne dépassent pas le montant inscrit dans le plan d'infrastructure.) &lt;DCG 2004-03-01/37, art. 8, 003; En vigueur : 01-01-2004&gt;
+
+Les demandes complètes doivent être introduites auprès du Gouvernement au plus tard pour le [<sup>4</sup> 1er septembre]<sup>4</sup> de l'année où le projet d'infrastructure est pris en considération dans le plan d'infrastructure. &lt;DCG 2005-03-21/37, art. 5, 005; En vigueur : 01-01-2005&gt;
+
+(Le marché ne peut être passé ou les achats ne peuvent être effectués avant la promesse définitive, l'approbation du Gouvernement visée à l'article 23, § 1er, ou, en cas d'enchères, l'approbation prévue à l'article 22, § 2). &lt;DCG 2005-03-21/37, art. 5, 005; En vigueur : 01-01-2005&gt;
+
+§ 3. Le montant du subside est adapté sur base de la réévaluation des offres dont une copie doit être notifiée au Gouvernement.
+
+Si le subside maximal n'est pas dépassé, le marché peut être attribué, une copie de l'attribution du marché devant être notifiée au Gouvernement.
+
+Dans la mesure où le marché n'a pas encore été passé, le Gouvernement peut, en cas de dépassement du montant maximal promis comme subside, exiger une nouvelle adjudication ou augmenter le montant du subside.
+
+----------
+
+(1)&lt;DCG 2008-03-17/41, art. 7, 008; En vigueur : 01-01-2008&gt;
+
+(2)&lt;DCG 2012-01-16/06, art. 54, 013; En vigueur : 01-11-2011&gt;
+
+(3)&lt;DCG 2014-02-24/14, art. 36, 016; En vigueur : 01-01-2020&gt;
+
+(4)&lt;DCG 2015-03-02/05, art. 44, 017; En vigueur : 26-03-2015&gt;
+
+(5)&lt;DCG 2016-02-22/24, art. 43, 018; En vigueur : 14-04-2016&gt;
+
+(6)&lt;DCG 2021-12-13/12, art. 11, 022; En vigueur : 01-01-2022&gt;
+
+(7)&lt;DCG 2022-11-21/08, art. 237, 024; En vigueur : 01-02-2023&gt;
+
+#### Procédure d'urgence.
+
+##### Art. 22
+
+§ 1er. Des travaux de remise en état [<sup>1</sup> ou des mesures au sens de l'article 2, alinéa 1er, 11°,]<sup>1</sup> justifiés par le fait que le public est mis en danger ou qu'il y a menace de détérioration ou de destruction de toute l'infrastructure peuvent être réalisés avant la promesse définitive du Gouvernement visée à l'article 21 et être subsidiés conformément aux dispositions des articles 16 à 18 et 31 à 42 du présent décret.
+
+Dans le mois qui suit la passation du marché, le demandeur introduit les documents suivants auprès du Gouvernement :
+
+1° [<sup>1</sup> une déclaration motivée du bourgmestre quant au danger couru par le public ou une explication motivée d'un ingénieur, d'architectes ou de bureaux d'études en ce qui concerne le risque de grandes déprédations ou de destruction de toute l'infrastructure ou le risque d'incidences graves sur l'environnement;]<sup>1</sup>
+
+2° une description et une estimation du coût des travaux;
+
+3° une copie de la procédure d'urgence de passation du marché;
+
+4° le procès-verbal de l'attribution motivée du marché.
+
+Dans les trois mois suivant la réception de la demande, le Gouvernement statue sur celle-ci et délivre, le cas échéant, la promesse pour un subside maximal. A défaut de décision au terme de ce délai, la demande est censée être acceptée.
+
+§ 2. Le Gouvernement peut, sur présentation des documents énoncés à l'article 19, approuver les projets d'infrastructure dont question à l'article 10, alinéa 2. La demande de subsides doit être introduite conformément à l'article 21.
+
+----------
+
+(1)&lt;DCG 2022-11-21/08, art. 238, 024; En vigueur : 01-02-2023&gt;
+
+#### Coûts supplémentaires.
+
+##### Art. 23
+
+(§ 1er.) Les coûts supplémentaires imprévisibles peuvent être subsidiés conformément aux dispositions des articles 16 à 18 et 31 à 42 du présent décret, lorsque l'approbation préalable du Gouvernement a été demandée pour réaliser les travaux ou pour effectuer les dépenses. &lt;DCG 2005-03-21/37, art. 6, 005; En vigueur : 01-01-2005&gt;
+
+A cette fin, le demandeur introduit les documents suivants :
+
+1° la preuve que les coûts supplémentaires étaient imprévisibles lors de la constitution de la demande complète;
+
+2° les documents prévus à l'article 21, qui sont requis pour le projet d'infrastructure, s'ils n'ont pas encore été introduits.
+
+(§ 2. Les coûts supplémentaires imprévisibles en cas de travaux de génie civil ou d'autres travaux en sous-sol (ainsi que de travaux réalisés à des bâtiments et paysages classés) peuvent être subsidiés conformément aux dispositions des articles 16 à 18 et 31 à 42 du présent décret, lorsque ces travaux ont été communiqués au Gouvernement avant leur exécution. &lt;DCG 2006-02-20/37, art. 7, 006; En vigueur : 01-01-2006&gt;
+
+Au plus tard lors du décompte final, le demandeur introduit auprès du Gouvernement les documents prévus au § 1er, alinéa 2.) &lt;DCG 2005-03-21/37, art. 6, 005; En vigueur : 01-01-2005&gt;
+
+#### Sous-section 2. - Procédure pour la demande des subsides d'équipement.
+
+#### Subsides d'équipement.
+
+##### Art. 24
+
+§ 1er. Par dérogation aux [<sup>2</sup> articles 18bis à 23]<sup>2</sup>, les règles suivantes sont d'application pour la demande de subsides relative au projet d'infrastructure dont question à l'article 2, alinéa 1er, 6°.
+
+Le demandeur introduit auprès du Gouvernement une demande de subsides comprenant les documents suivants :
+
+1° l'identité du demandeur ainsi que, le cas échéant, une copie des statuts publiés au Moniteur belge , la composition actuelle du conseil d'administration et le numéro de T.V.A.;
+
+2° le titre de propriété ou une copie du contrat de location, du contrat de bail emphytéotique ou du contrat de louage à domaine congéable relatif à l'immeuble à équiper;
+
+3° une description détaillée de l'équipement envisagé ainsi que la preuve de l'utilité et du besoin;
+
+4° la preuve d'une éventuelle déductibilité de la T.V.A.;
+
+5° la preuve que le financement de la partie des dépenses non couverte par des subsides de la Communauté germanophone est assuré;
+
+6° les devis ou le cahier des charges.
+
+Cette demande donne au demandeur le droit d'être entendu par le Gouvernement.
+
+§ 2. Dans les trois mois suivant la réception de la demande complète, le Gouvernement statue sur celle-ci et délivre, le cas échéant, la promesse pour un subside maximal.
+
+A défaut de décision du Gouvernement au terme de ce délai, la demande est censée être acceptée.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+Les achats ne peuvent être effectués avant la promesse définitive du Gouvernement [<sup>5</sup> ou lorsque le délai mentionné à l'alinéa 1er expire]<sup>5</sup>.
+
+§ 3. Le montant du subside est adapté sur base de la réévaluation des offres dont une copie doit être notifiée au Gouvernement.
+
+Si le subside maximal n'est pas dépassé, le marché peut être attribué, une copie de l'attribution du marché devant être notifiée au Gouvernement.
+
+Dans la mesure où le marché n'a pas encore été passé, le Gouvernement peut, en cas de dépassement du montant maximal promis comme subside, exiger une nouvelle adjudication ou augmenter le montant du subside.
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 47, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2014-02-24/14, art. 37, 016; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCG 2015-03-02/05, art. 45, 017; En vigueur : 26-03-2015&gt;
+
+(4)&lt;DCG 2017-02-20/13, art. 49, 020; En vigueur : 15-03-2017&gt;
+
+(5)&lt;DCG 2021-12-15/17, art. 92, 023; En vigueur : 01-01-2022&gt;
+
+#### Sous-section 3. En vigueu [<sup>2</sup> et de demande de subsides pour des bâtiments et sites classés]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2007-06-25/35, art. 48, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2008-06-23/40, art. 49, 009; En vigueur : 01-01-2009&gt;
+
+##### Art. 24bis
+
+[<sup>1</sup> Primes pour terrains de camping, établissements hôteliers ou maisons de vacances et subsides pour les bâtiments et sites classés
+
+§ 1er. Par dérogation aux [<sup>2</sup> articles 18bis à 23]<sup>2</sup>, les règles suivantes s'appliquent à la demande des primes mentionnées aux articles 36 à 38 ainsi qu'à la demande des subsides pour des bâtiments et sites classés lorsque le demandeur est une personne de droit privé, mentionnés à l'article 39, § 3.
+
+Le demandeur introduit auprès du Gouvernement une demande d'octroi d'une prime ou d'un subside, accompagnée des documents suivants :
+
+1° des données d'identité du demandeur;
+
+2° le titre de propriété ou une copie du contrat de bail, de bail emphytéotique ou du contrat de louage à domaine congéable relatif au bien immeuble concerné;
+
+3° une description détaillée des travaux envisagés ainsi que la preuve de l'utilité et du besoin;
+
+4° la preuve de l'éventuelle déductibilité de la T.V.A.;
+
+5° la preuve que le financement de la partie des dépenses non couverte par la prime ou le subside de la Communauté germanophone et le remboursement de la prime ou du subside sont assurés;
+
+6° les devis ou le cahier des charges avec estimation détaillée des coûts.
+
+7° dans le cas de bâtiments ou sites classés, une déclaration du demandeur certifiant qu'il est, sur demande du Gouvernement, disposé à rendre l'objet subsidié accessible au public dans le cadre des journées du patrimoine ou pendant 2 autres jours maximum par an.
+
+Après réception de l'accusé de réception de la demande complète, le demandeur peut commencer les travaux sans perdre le droit à une prime ou à un subside.
+
+§ 2. Le Gouvernement statue sur la demande et octroie, le cas échéant, sa promesse pour un montant de prime ou de subside maximal. Le cas échéant, celui-ci sera adapté sur la base du décompte final. La promesse octroyée pour les subsides mentionnés à l'article 39 peut contenir des prescriptions autres que celles contenues dans le permis de patrimoine.]<sup>1</sup>
+
+----------
+
+----------
+
+(1)&lt;DCG 2008-06-23/40, art. 50, 009; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DCG 2014-02-24/14, art. 38, 016; En vigueur : 01-01-2020&gt;
+
+### Section 6. - Remboursement.
+
+### Désaffectation.
+
+##### Art. 25
+
+Lorsque l'infrastructure subsidiée :
+
+1° a été cédée à titre gratuit ou onéreux;
+
+2° n'est plus utilisée aux fins pour lesquelles le subside a été octroyé;
+
+3° les contrats de location mentionnés à l'article 12 ont été résiliés anticipativement, avant un terme de respectivement 3,12, 20 et 33 ans et selon que le subside s'élevait à moins de 7.500, 125.000 ou 250.000 euro ou à au moins 250.000 euro, le Gouvernement demande le remboursement dudit subside proportionnellement au terme restant à courir.
+
+Le subside à rembourser est lié à l'index de la construction.
+
+Le Gouvernement doit solliciter la créance dans les deux ans suivant la prise de connaissance de la cession, de la désaffectation de l'infrastructure ou de la résiliation anticipative du contrat de bail emphytéotique, du contrat de louage à domaine congéable ou du contrat de location.
+
+Le Gouvernement peut renoncer à sa demande de remboursement lorsque l'infrastructure est affectée à des fins approuvée par le Gouvernement et subsidiables en vertu du présent décret dans la mesure où aucun nouveau subside n'est sollicité.
+
+### Infraction aux obligations en matière de subsidiation.
+
+##### Art. 26
+
+Le Gouvernement peut à tout moment exiger le remboursement en tout ou partie d'un subside lorsque le bénéficiaire du subside enfreint les dispositions du présent décret.
+
+### Section 7. - Garantie.
+
+### Garantie de la Communauté.
+
+##### Art. 27
+
+Le Gouvernement octroie la garantie de la Communauté pour le remboursement du capital, des intérêts et des frais des emprunts pour la partie non subsidiée du montant total des dépenses subsidiables à condition que :
+
+1° le demandeur ne soit pas (...), une intercommunale, (...) une province ou une autre institution de droit public (ou encore une des personnes de droit privé mentionnées à l'article 11, alinéa 1;) &lt;DCG 2003-02-03/51, art. 13, 002; En vigueur : 01-01-2002&gt; &lt;DCG 2006-02-20/37, art. 8, 006; En vigueur : 01-01-2006&gt;
+
+2° le maître de l'ouvrage ait introduit une demande de garantie;
+
+3° le coût total du projet atteigne au moins euro 100.000;
+
+4° le taux d'intérêt soit inférieur [<sup>1</sup> ...]<sup>1</sup> au taux pratiqué par le marché des capitaux pour des emprunts similaires.
+
+(5° le prêteur renonce à toute caution personnelle ou réelle pour l'emprunt garanti;) &lt;DCG 2003-02-03/51, art. 13, 002; En vigueur : 01-01-2002&gt;
+
+(6° une hypothèque sur l'immeuble à subsidier est consentie à la Communauté germanophone. Dans des cas motivés, le Gouvernement peut accepter un mandat hypothécaire au lieu d'une hypothèque.) &lt;DCG 2003-02-03/51, art. 13, 002; En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;DCG 2009-04-27/19, art. 25, 010; En vigueur : 01-01-2009&gt;
+
+### Conditions relatives aux emprunts.
+
+##### Art. 28
+
+Les emprunts visés à l'article 27 peuvent avoir un terme de (33 ans) au plus et doivent être contractés auprès d'un organisme de crédit agréé à cette fin par le Gouvernement. &lt;DCG 2003-02-03/51, art. 14, 002; En vigueur : 01-01-2002&gt;
+
+### Remboursement en cas de sollicitation de la garantie.
+
+##### Art. 29
+
+Lorsque la garantie visée à l'article 27 est sollicitée, le Gouvernement peut recourir aux moyens suivants, dans l'ordre ci-dessous, en vue du remboursement :
+
+1° retenir des subventions de fonctionnement que le demandeur obtient de la Communauté germanophone;
+
+2° recouvrement à charge du demandeur par l'Administration de l'enregistrement et des domaines.
+
+### Mission confiée au Gouvernement.
+
+##### Art. 30
+
+Le Gouvernement fixe les modalités d'octroi de la garantie visée à l'article 27.
+
+## CHAPITRE II. - Dispositions particulières.
+
+### Section 1. - Enseignement et formation.
+
+### Normes de rationalisation et de programmation.
+
+##### Art. 31
+
+Pour le financement et la subsidiation, seuls sont retenus les établissements d'enseignement, les internats et les centres psycho-médico-sociaux qui répondent aux critères des normes de rationalisation et de programmation en vigueur, les normes de maintien en activité applicables aux établissements d'enseignement, majorées de 40 %, devant toutefois être atteintes tant au moment de la demande qu'au cours des trois années scolaires précédant celle-ci.
+
+### Enseignement.
+
+##### Art. 32
+
+§ 1er. Par dérogation à l'article 16, le subside représente 80 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° à 5°, et 7° à 9°, envisagés par des établissements d'enseignement.
+
+Le subside représente 60 % du montant total des dépenses subsidiables pour le projet d'infrastructure mentionné à l'article 2, alinéa 1, 6°.
+
+§ 2. Par dérogation au § 1er, le subside représente 100 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 5° et 6°, en ce qui concerne les bibliothèques et médiathèques scolaires dans l'enseignement secondaire et supérieur.
+
+§ 3. Par dérogation au § 1er, le subside représente 100 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, envisagés par les établissements d'enseignement supérieur qui sont des personnes morales de droit public en vertu de l'article 5 de la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone et font l'objet d'un accord entre pouvoirs organisateurs d'établissements d'enseignement supérieur.
+
+### Internats et infrastructures de formation ouvertes à différents pouvoirs organisateurs.
+
+##### Art. 33
+
+Par dérogation à l'article 16, le subside représente 80 % du montant total des dépenses subsidiables pour les projets d'infrastructure envisagés dans le secteur des internats ouverts à des élèves de tous les réseaux [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 44, 018; En vigueur : 14-04-2016&gt;
+
+### [<sup>1</sup> Infrastructures pour la formation professionnelle et technique]<sup>1</sup>
+
+----------
+
+(1&lt;DCG 2016-02-22/24, art. 45, 018; En vigueur : 14-04-2016&gt;
+
+##### Art. 34
+
+[<sup>1</sup> Par dérogation à l'article 16, le subside représente 100 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, qui sont envisagés dans le secteur de la formation professionnelle et technique et sont ouverts à différents pouvoirs organisateurs. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2016-02-22/24, art. 45, 018; En vigueur : 14-04-2016&gt;
+
+### Section 2. - Affaires culturelles.
+
+### [<sup>1</sup> Centres culturels de la Communauté germanophone]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2013-11-18/24, art. 93, 015; En vigueur : 01-01-2014&gt;
+
+##### Art. 35
+
+Par dérogation à l'article 16, alinéa 1er, le subside représente 75 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° à 5° et 7° à 9°, en ce qui concerne [<sup>1</sup> les centres culturels de la Communauté germanophone au sens du décret du 18 novembre 2013 visant à soutenir la culture en Communauté germanophone qui sont créés par une commune, une régie communale ou une intercommunale]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2013-11-18/12, art. 93, 015; En vigueur : 01-01-2014&gt;
+
+### [<sup>1</sup> Implantation du Centre de promotion du sport]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-12-15/17, art. 93, 023; En vigueur : 01-01-2022&gt;
+
+##### Art. 35bis
+
+[<sup>1</sup> Par dérogation à l'article 16, alinéa 1er, le subside représente 75 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° à 5° et 7° à 9°, en ce qui concerne les infrastructures sportives utilisées par l'Association faitière pour le sport en Communauté germanophone en tant qu'implantation du Centre de promotion du sport, infrastructures créées par une commune, une régie communale ou une intercommunale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2021-12-15/17, art. 93, 023; En vigueur : 01-01-2022&gt;
+
+### Terrains de camping.
+
+##### Art. 36
+
+[<sup>1</sup> Par dérogation aux articles 1, 4, 14, 16 et 18, § 2, le Gouvernement octroie, pour des projets d'infrastructure relatifs à des terrains de camping, des primes remboursables aux conditions prévues à l'article [<sup>2</sup> 38bis]<sup>2</sup> dans les 10 ans de leur liquidation.
+
+Seuls les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° et 3° à 10°, entrent en ligne de compte pour l'octroi d'une prime pour terrains de camping.
+
+Pour les projets dont le coût total est inférieur ou égal à 500.000 EUR, cette prime représente 30 % du montant total des dépenses acceptables, à concurrence de 50.000 EUR. Pour les projets dont le coût total est supérieur à 500.000 EUR, cette prime est de 100.000 EUR.
+
+Pour un même terrain de camping, une autre prime ne pourra être accordée que lorsqu'au moins trois huitièmes de la prime précédente auront été remboursés.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 49, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2017-02-20/13, art. 50, 020; En vigueur : 15-03-2017&gt;
+
+### Etablissements hôteliers.
+
+##### Art. 37
+
+[<sup>1</sup> Par dérogation aux articles 1, 4, 14, 16 et 18, § 2, le Gouvernement octroie, pour des projets d'infrastructure relatifs à des établissements hôteliers, des primes remboursables aux conditions prévues à l'article [<sup>2</sup> 38bis]<sup>2</sup> dans les 10 ans de leur liquidation.
+
+Seuls les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° et 3° à 9°, entrent en ligne de compte, et uniquement pour des établissements hôteliers et d'hébergement qui disposent d'un bain et d'un WC dans chaque chambre.
+
+Pour les projets dont le coût total est inférieur ou égal à 500.000 EUR, cette prime représente 30 % du montant total des dépenses acceptables, à concurrence de 50.000 EUR. Pour les projets dont le coût total est supérieur à 500.000 EUR, cette prime est de 100.000 EUR.
+
+Pour un même établissement hôtelier, une autre prime ne pourra être accordée que lorsqu'au moins trois huitièmes de la prime précédente auront été remboursés.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 50, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2017-02-20/13, art. 51, 020; En vigueur : 15-03-2017&gt;
+
+### Maisons de vacances.
+
+##### Art. 38
+
+[<sup>1</sup> Par dérogation aux articles 1, 4, 14, 16 et 18, § 2, le Gouvernement octroie, pour des projets d'infrastructure relatifs à des maisons de vacances, des primes remboursables aux conditions prévues à l'article [<sup>2</sup> 38bis]<sup>2</sup> dans les 10 ans de leur liquidation.
+
+Seuls les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1°et 3° à 9°, entrent en ligne de compte pour l'octroi d'une prime.
+
+La prime pour maisons de vacances n'est octroyée que lorsque
+
+\- le demandeur n'est pas une société commerciale;
+
+\- le coût total du projet est au moins égal à 25.000 EUR [<sup>3</sup> .]<sup>3</sup>
+
+\- [<sup>3</sup> ...]<sup>3</sup>.
+
+La prime pour maisons de vacances s'élève à 7.500 EUR.
+
+Cette prime n'est accordée qu'une fois par maison de vacances autonome. Des primes sont octroyées à un demandeur pour maximum cinq maisons de vacances. Des cohabitants sont considérés comme un seul demandeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2007-06-25/35, art. 51, 007; En vigueur : 25-06-2007&gt;
+
+(2)&lt;DCG 2017-02-20/13, art. 52, 020; En vigueur : 15-03-2017&gt;
+
+(3)&lt;DCG 2023-12-14/58, art. 109, 027; En vigueur : 01-01-2024&gt;
+
+##### Art. 38bis
+
+[<sup>1</sup> Remboursement des primes pour hôtels, campings et maisons de vacances
+
+Avant le 31 octobre de chaque année, et au plus tard avant le 31 octobre de la troisième année calendrier suivant la liquidation du montant total des primes visées aux articles 36 à 38, le bénéficiaire rembourse au moins un huitième de la prime, majoré de 1,5 % du solde effectif de la dette avant paiement de la tranche correspondante.
+
+Des intérêts de retard au taux légal sont dus dès que le retard de paiement de la tranche dépasse 30 jours calendrier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2007-06-25/35, art. 52, 007; En vigueur : 25-06-2007&gt;
+
+### Section 3. - Protection des monuments.
+
+### Protection des monuments.
+
+##### Art. 39
+
+[<sup>1</sup> § 1er. Dans la mesure où le permis de patrimoine l'autorise, seul le projet d'infrastructure prévu à l'article 2, alinéa 1er, 4°, entre en ligne de compte pour une subsidiation lorsqu'il s'agit de bâtiments, ensembles et sites classés ainsi que d'installations y attachées à demeure.
+
+Seuls les monuments, ensembles et sites définitivement classés entrent en ligne de compte pour une subsidiation, sauf si la demande concerne les travaux de remise en etat à réaliser d'urgence vises à l'article 22, § 1er, lesquels peuvent être effectués à des monuments, ensembles et sites classés provisoirement et être subsidiés.
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+Par dérogation à l'article 18, § 2, alinéa 3, les liquidations proportionnelles ne peuvent excéder 60 % du subside total. Le subside total ou le solde du subside n'est liquidé qu'après que le Gouvernement aura contrôlé sur place si les travaux sont conformes aux prescriptions imposées par le permis de patrimoine et aux prescriptions supplémentaires éventuellement imposées lors de la promesse de subside.
+
+§ 3.[<sup>2</sup> § 3. Si le demandeur est une des personnes de droit privé mentionnées à l'article 11, alinéa 1er :
+
+1° le subside représente, par dérogation à l'article 16, 40 % du montant global des dépenses admissibles entrant en ligne de compte pour une subsidiation, avec un maximum de 100.000 euros par demande pour un bien classé;
+
+2° une nouvelle demande peut être prise en considération au plus tôt deux ans après une promesse faite pour un bien précis, sauf si l'urgence mentionnée à l'article 22 est reconnue;
+
+3° l'article 4 n'est pas applicable.]<sup>2</sup>
+
+[<sup>3</sup> Les dérogations prévues à l'alinéa 1er [<sup>4</sup> ...]<sup>4</sup> ainsi qu'aux articles 10 et 24bis ne s'appliquent pas aux travaux qui se rapportent à un bien définitivement classé repris dans une liste de monuments particulièrement vulnérables fixée par le Gouvernement. ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCG 2008-06-23/40, art. 51, 009; En vigueur : 01-01-2009&gt;
+
+(2)&lt;DCG 2015-03-02/05, art. 46, 017; En vigueur : 01-01-2015&gt;
+
+(3)&lt;DCG 2018-12-11/11, art. 53, 021; En vigueur : 21-01-2019&gt;
+
+(4)&lt;DCG 2023-12-14/58, art. 110, 027; En vigueur : 01-01-2024&gt;
+
+### [<sup>1</sup> - Subside provincial]<sup>1</sup> (1&lt;Inséré par DCG 2016-02-22/24, art. 46, 018; En vigueur : 14-04-2016&gt;
+
+##### Art. 39.1
+
+[<sup>1</sup> La Province subsidie les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 4°, lorsqu'il s'agit de bâtiments, ensembles et sites classés ainsi que d'installations y attachées à demeure.
+
+Par demande concernant un bien classé, ce subside représente 4 % du montant total des dépenses acceptables pris en compte pour une subsidiation.
+
+[<sup>2</sup> Le demandeur introduit une demande de subsides auprès du Gouvernement qui, après examen des conditions de subventionnement mentionnées à l'article 39, la transmet à la Province. Une fois les travaux réalisés, la Province liquide directement le subside au demandeur sur la base des justificatifs introduits auprès du Gouvernement, qui les a transmis à la Province.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 46, 018; En vigueur : 14-04-2016&gt;
+
+(2)&lt;DCG 2017-02-20/13, art. 53, 020; En vigueur : 15-03-2017&gt;
+
+### Section 4. - Matières personnalisables.
+
+### [<sup>1</sup>Office pour une vie autodéterminée.]<sup>1</sup>
+
+##### Art. 40
+
+&lt;Abrogé par DCG 2023-11-13/18, art. 51, 025; En vigueur : 01-01-2024&gt;
+
+### Services et établissements pour personnes handicapées.
+
+##### Art. 41
+
+Par dérogation à l'article 16, le subside représente 80 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1, 1° à 5° et 7° à 9°, envisagés par les services et établissements pour personnes handicapées.
+
+Le subside représente 60 % du montant total des dépenses subsidiables pour le projet d'infrastructure mentionné à l'article 2, alinéa 1er, 6°.
+
+### Aménagement de maisons prises en location, intégrées et adaptées aux personnes en chaise roulante.
+
+##### Art. 42
+
+&lt;Abrogé par DCG 2010-03-15/14, art. 29, 011; En vigueur : 01-09-2011&gt;
+
+##### Art. 42.1
+
+[<sup>1</sup> Locaux communs dans les résidences pour seniors
+
+Le subside pour la création d'un local commun dans une résidence pour seniors ne sera liquidé conformément à l'article 18 que lorsque cette résidence pour seniors dispose du label de qualité mentionné [<sup>2</sup> à l'article 20 du décret du 13 décembre 2018 concernant les offres pour personnes âgées ou dépendantes ainsi que les soins palliatifs]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2015-03-02/05, art. 47, 017; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCG 2022-12-15/54, art. 68, 026; En vigueur : 01-01-2023&gt;
+
+### Equipement de centres de repos et de soins pour personnes âgées et de centres de repos et de soins pour personnes dépendantes.
+
+##### Art. 43
+
+Par dérogation à l'article 16, alinéa 2, le subside représente 60 % du montant total des dépenses subsidiables pour le projet d'infrastructure mentionné à l'article 2, alinéa 1er, 6°, envisagé par [<sup>1</sup> des centres de repos et de soins pour personnes âgées et des centres de repos et de soins pour personnes dépendantes]<sup>1</sup>.
+
+[<sup>2</sup> Pour l'application du présent article, les logiciels informatiques sont considérés comme des équipements au sens de l'article 2, alinéa 1er, 6°, pour autant qu'ils soient nécessaires à la gestion du centre de repos et de soins pour personnes âgées et à la participation aux échanges électroniques de données médicales.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCG 2022-12-15/54, art. 69, 026; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCG 2025-12-22/16, art. 95, 030; En vigueur : 01-01-2026&gt;
+
+### Section 5. [<sup>1</sup> - Hôpitaux [<sup>2</sup> [<sup>3</sup> et structures d'hébergement accompagné pour la santé mentale]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 47, 018; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCG 2021-12-15/17, art. 94, 023; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCG 2024-04-22/23, art. 59, 028; En vigueur : 01-05-2024&gt;
+
+### [<sup>1</sup> Conditions générales pour la subsidiation d'hôpitaux]<sup>1</sup> (1)&lt;Inséré par DCG 2016-02-22/24, art. 48, 018; En vigueur : 01-01-2016&gt;
+
+##### Art. 44
+
+[<sup>1</sup> Sans préjudice de l'application de l'article 10, les projets d'infrastructure relatifs à des hôpitaux ne sont subsidiables que :
+
+\- s'ils se rapportent aux services d'hospitalisation agréés et aux services médico-techniques;
+
+\- sur présentation d'une convention de coopération conclue entre les hôpitaux de la Communauté germanophone et respectant les obligations minimales déterminées par le Gouvernement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 48, 018; En vigueur : 01-01-2016&gt;
+
+### [<sup>1</sup> - Taux général de subsidiation]<sup>1</sup> (1)&lt;Inséré par DCG 2016-02-22/24, art. 49, 018; En vigueur : 01-01-2016&gt;
+
+##### Art. 44.1
+
+[<sup>1</sup> Par dérogation à l'article 16, alinéa 1er, le subside représente 80 % du montant total des dépenses subsidiables pour les projets d'infrastructure mentionnés à l'article 2, alinéa 1er, 1° à 3°, 5° et 7° à 10°, envisagés par des hôpitaux [<sup>2</sup> [<sup>3</sup> et par des structures d'hébergement accompagné au sens de l'article 13 du décret du 22 avril 2024 relatif à la santé mentale]<sup>3</sup>]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 49, 018; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCG 2021-12-15/17, art. 95, 023; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCG 2024-04-22/23, art. 60, 028; En vigueur : 01-05-2024&gt;
+
+### [<sup>1</sup> - Travaux de remise en état réalisés dans des hôpitaux]<sup>1</sup> (1)&lt;Inséré par DCG 2016-02-22/24, art. 49, 018; En vigueur : 01-01-2016&gt;
+
+##### Art. 44.2
+
+[<sup>1</sup> Par dérogation aux articles 8 à 9 et 11 à 26, les hôpitaux obtiennent une subvention [<sup>2</sup> pluriannuelle]<sup>2</sup> forfaitaire pour le projet d'infrastructure mentionné à l'article 2, alinéa 1er, 4°.
+
+Les crédits budgétaires disponibles déterminent la subvention, celle-ci étant répartie entre les hôpitaux proportionnellement au nombre de lits agréés.
+
+Tous les frais liés directement ou indirectement aux travaux de remise en état fixés par le Gouvernement sont pris en considération pour justifier l'utilisation des moyens.
+
+Le Gouvernement détermine les documents qui doivent être introduits en vue de contrôler l'utilisation des moyens de cette subvention.
+
+Le Gouvernement récupère les fonds qui [<sup>2</sup> , dans un délai qu'il fixe,]<sup>2</sup> ont été utilisés à d'autres fins. Des intérêts calculés au taux légal sont dus sur ces montants.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 49, 018; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCG 2022-12-15/54, art. 70, 026; En vigueur : 01-01-2023&gt;
+
+### [<sup>1</sup> - Equipement d'hôpitaux]<sup>1</sup> (1)&lt;Inséré par DCG 2016-02-22/24, art. 49, 018; En vigueur : 01-01-2016&gt;
+
+##### Art. 44.3
+
+[<sup>3</sup> Pour l'application du présent article, les logiciels informatiques sont considérés comme des équipements au sens de l'article 2, alinéa 1er, 6°, pour autant qu'ils soient nécessaires à la gestion de l'hôpital et à la participation aux échanges électroniques de données médicales.
+
+Par dérogation à l'article 18, §§ 1er et 2, et à l'article 24, les hôpitaux reçoivent un subside forfaitaire pluriannuel pour le projet d'infrastructure mentionné à l'article 2, alinéa 1er, 6°.]<sup>3</sup>
+
+[<sup>1</sup> Par dérogation à l'article 16, alinéa 2, le subside représente 60 % du montant total des dépenses subsidiables pour le projet d'infrastructure mentionné à l'article 2, alinéa 1er, 6°, envisagé par des hôpitaux.
+
+Ce subside est plafonné en fonction des crédits budgétaires disponibles et sa liquidation est liée à la présentation d'un plan commun [<sup>2</sup> pluriannuel]<sup>2</sup> d'investissement portant sur l'équipement des hôpitaux.]<sup>1</sup>
+
+[<sup>3</sup> Le Gouvernement détermine les documents qui doivent être introduits à des fins de contrôle de l'utilisation des fonds de ce subside.]<sup>3</sup>
+
+[<sup>3</sup> Le Gouvernement récupère les fonds qui ont été utilisés à d'autres fins dans un délai fixé par lui.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-02-22/24, art. 49, 018; En vigueur : 01-01-2016&gt;
+
+(2)&lt;DCG 2022-12-15/54, art. 71, 026; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCG 2025-12-22/16, art. 96, 030; En vigueur : 01-01-2026&gt;
+
+### Section 6. [<sup>1</sup> - Périmètres d'un site à réaménager ou de remembrement urbain]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2023-12-14/58, art. 111, 027; En vigueur : 01-01-2024&gt;
+
+##### Art. 44.4
+
+[<sup>1</sup> - Taux de subvention pour les projets de réaménagement particuliers
+
+Par dérogation à l'article 16, le Gouvernement peut augmenter le taux de subvention pour les projets d'infrastructure particuliers à rayonnement supracommunal situés [<sup>2</sup> au sein d'un périmètre fixé conformément à l'article D.II.57.4, § 5, du Code wallon du Développement territorial]<sup>2</sup>.
+
+Le Gouvernement fixe les modalités concernant la sélection de ces projets ainsi que les critères de qualité à appliquer à cet effet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2022-11-21/08, art. 240, 024; En vigueur : 01-02-2023&gt;
+
+(2)&lt;DCG 2023-12-14/58, art. 112, 027; En vigueur : 01-01-2024&gt;
+
+##### Art. 44.5
+
+[<sup>1</sup> - Subsides pour les personnes de droit privé
+
+Si le demandeur est une personne de droit privé au sens de l'article 11, alinéa 1er, 5° :
+
+1° le subside représente, par dérogation à l'article 16, 40
+
+du montant total des dépenses admissibles entrant en ligne de compte pour une subsidiation, avec un subside maximal de 100 000 euros par demande et par bien immeuble;
+
+2° une nouvelle demande peut être prise en considération au plus tôt deux ans après une promesse faite pour un bien immeuble précis, sauf si l'urgence mentionnée à l'article 22 est reconnue;
+
+3° l'article 4 n'est pas applicable.
+
+Le Gouvernement peut subordonner l'octroi de subsides à des personnes de droit privé au sens de l'article 11, alinéa 1er, 5°, à des conditions concernant l'affectation du bien ou à des délais d'exécution des mesures.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2022-11-21/08, art. 241, 024; En vigueur : 01-02-2023&gt;
+
+##### Art. 44.6
+
+[<sup>1</sup> - Accord
+
+Un accord conclu entre le Gouvernement et le demandeur est joint à la promesse d'octroi du subside, délivrée conformément à l'article 21, pour des projets d'infrastructure au sein d'un [<sup>2</sup> périmètre]<sup>2</sup>.
+
+L'accord comprend au moins la description, les modalités et les délais d'exécution des actes et travaux ainsi que les conditions en matière d'octroi, de contrôle et de remboursement du subside.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2022-11-21/08, art. 242, 024; En vigueur : 01-02-2023&gt;
+
+(2)&lt;DCG 2023-12-14/58, art. 113, 027; En vigueur : 01-01-2024&gt;
+
+### Section 7. [<sup>1</sup> - Logement public]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2024-05-06/15, art. 51, 029; En vigueur : 01-09-2025&gt;
+
+##### Art. 44.7
+
+[<sup>1</sup> - Logement public communal
+
+Sans préjudice du titre II, chapitre III, et du titre III, chapitre V, du Code wallon de l'habitation durable, et par dérogation à l'article 11, alinéa 2, seules les demandes introduites par les communes pour le subventionnement de projets d'infrastructure visant à créer, à améliorer ou à adapter des logements d'utilité publique au sens du même Code sont prises en compte.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2024-05-06/15, art. 51, 029; En vigueur : 01-09-2025&gt;
+
+##### Art. 44.8.
+
+[<sup>1</sup> - Accord
+
+A l'engagement donné conformément à l'article 21 d'octroyer le subside pour des projets d'infrastructure visant à créer, à améliorer ou à adapter des logements d'utilité publique est joint un accord conclu entre le Gouvernement et le demandeur, réglant les autres modalités de financement et de gestion de ces logements dans le respect des dispositions fixées dans le Code wallon de l'habitation durable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2024-05-06/15, art. 51, 029; En vigueur : 01-09-2025&gt;
+
+## CHAPITRE III. - Dispositions modificatives, abrogatoires, transitoires et finales.
+
+### Section 1. - Dispositions modificatives et abrogatoires.
+
+### Disposition modificative.
+
+##### Art. 45
+
+L'article 4, § 1er, 5°, du décret du 19 juin 1990 portant création d'un Office de la Communauté germanophone pour les personnes handicapées est remplacé par la disposition suivante :
+
+" 5° accorder des subsides pour l'aménagement d'établissements pour personnes handicapées; "
+
+### Disposition abrogatoire.
+
+##### Art. 46
+
+Sont abrogés :
+
+1° l'article 14 du décret du 26 juin 1986 réglant l'agréation des services d'aide aux familles et aux personnes âgées, l'octroi de subventions à ces services et la contribution du bénéficiaire de l'aide, modifié par le décret du 1er mars 1988;
+
+2° le décret du 28 juin 1988 relatif à l'octroi de subventions aux communes et aux associations sans but lucratif qui érigent ou achètent des biens immobiliers servant d'infrastructure dans les matières culturelles et personnalisables ou qui effectuent des travaux à cette infrastructure, modifié par les décrets des 21 octobre 1996 et 29 juin 1998;
+
+3° les articles 6 et 7 du décret du 23 novembre 1992 relatif aux habitations de vacances, modifié par le décret du 23 octobre 2000;
+
+4° l'article 21 du décret du 9 mai 1994 sur le camping et les terrains de camping, modifié par le décret du 21 octobre 1996;
+
+5° l'article 31 du décret du 9 mai 1994 sur les établissements d'hébergement et les établissements hôteliers, modifié par le décret du 4 mars 1996;
+
+6° les articles 7 à 10, dans l'article 11 le passage " ainsi qu'un subside unique de maximum 500 000 francs par place pour les frais d'équipement " et l'article 12 du décret du 9 mai 1994 relatif à l'autorisation, à l'agréation et à la subsidiation de structures d'accueil pour seniors, modifié par le décret du 21 octobre 1996;
+
+7° les articles 7 à 17 du décret du 9 mai 1994 portant agréation d'institutions accueillant et encadrant provisoirement des personnes en détresse et portant octroi de subsides en vue de l'expropriation, l'achat, la construction, la location, la remise en état et l'équipement d'habitations destinées à l'accueil d'urgence, modifié par les décrets des 4 mars 1996, 21 octobre 1996 et 29 juin 1998;
+
+8° le décret du 27 juin 1994 relatif au financement et à la subsidiation de mesures d'infrastructure prises dans l'enseignement organisé et subventionné par la Communauté germanophone, modifié par les décrets des 21 octobre 1996 et 29 juin 1998;
+
+9° les articles 1 à 4 du décret-programme du 21 octobre 1996 relatif à l'infrastructure;
+
+10° les articles 26 à 28undecies du décret-programme du 21 octobre 1996 relatif à l'infrastructure, remplacés par le décret du 29 juin 1998;
+
+11° l'arrêté royal du 23 janvier 1951 relatif à l'allocation de subventions en vue de promouvoir les vacances ouvrières et le tourisme populaire, modifié par l'arrêté royal du 2 mars 1956 et le décret du 21 octobre 1996;
+
+12° les articles 80 à 83 de l'arrêté royal du 5 juillet 1963 concernant le reclassement social des handicapés, modifié par les arrêtés royaux des 10 mai 1965 et 21 janvier 1971 et l'arrêté du Gouvernement du 18 novembre 1996;
+
+13° l'article 26 de l'arrêté royal du 20 mars 1975 relatif à l'agréation des services de santé mentale et à l'octroi de subventions en leur faveur;
+
+14° l'arrêté royal du 22 juin 1987 fixant les règles qui déterminent le besoin en constructions nouvelles ou extensions et les normes physiques et financières pour les bâtiments scolaires, internats et centres psycho-médico-sociaux;
+
+15° l'arrêté de l'Exécutif du 23 août 1988 portant subsidiation de biens d'installation pour des services agréés d'aide aux familles et aux personnes âgées;
+
+16° l'arrêté de l'Exécutif du 25 août 1988 fixant le coût maximal à prendre en ligne de compte lors de l'octroi de subsides pour des travaux de construction et l'équipement de maisons de repos pour personnes âgées;
+
+17° l'arrêté de l'Exécutif du 1er octobre 1988 réglant l'octroi de primes en vue de promouvoir l'amenagement, la modernisation et l'agrandissement de terrains de camping;
+
+18° l'arrêté de l'Exécutif du 1er octobre 1988 réglant l'octroi de primes en vue de promouvoir la création, la modernisation et l'agrandissement d'établissements hôteliers;
+
+19° l'arrêté de l'Exécutif du 7 mai portant subventionnement des dépenses d'infrastructure faites par les établissements pour personnes handicapées et par les ateliers protégés, modifié par l'arrête du 18 novembre 1996;
+
+20° les articles 8 à 12 de l'arrêté du Gouvernement du 10 novembre 1993 relatif aux habitations de vacances;
+
+21° l'arrêté du Gouvernement du 19 octobre 1994 portant exécution du décret du 27 juin 1994 relatif au financement et à la subsidiation de mesures d'infrastructure prises dans l'enseignement organisé et subventionné par la Communauté germanophone en ce qui concerne la composition et fonctionnement de la commission de planification et de la commission d'experts;
+
+22° l'arrêté du Gouvernement du 11 janvier 1995 relatif à la procédure d'approbation en vue du financement et de la subsidiation de mesures d'infrastructure prises dans l'enseignement organisé et subventionné par la Communauté germanophone;
+
+23° l'arrêté du Gouvernement du 12 avril 1995 transférant des pouvoirs de décision au chef de service du "service infrastructure" de la division "Services du secrétaire général" auprès du ministère de la Communauté germanophone dans le cadre de la procédure d'approbation en vue du financement et de la subsidiation de mesures d'infrastructure prises dans l'enseignement organisé et subventionné par la Communauté germanophone;
+
+24° l'arrêté du Gouvernement du 28 août 1996 déterminant les biens meubles subventionnés comme équipement en application du décret du 27 juin 1994 relatif au financement et à la subsidiation de mesures d'infrastructure prises dans l'enseignement organisé et subventionné par la Communauté germanophone;
+
+25° l'arrêté du Gouvernement du 23 octobre 1998 portant subsidiation de l'infrastructure dans les matières culturelles et personnalisables;
+
+26° l'arrêté ministériel du 22 septembre 1966 fixant les critères d'octroi des subsides à la création, l'agrandissement, l'aménagement et l'entretien des centres de formation ou de réadaptation professionnelle pour handicapés, modifié par l'arrêté ministériel du 25 octobre 1969 et par l'arrêté du Gouvernement du 18 octobre 1990;
+
+27° l'arrêté ministériel du 30 janvier 1967 fixant les critères d'octroi des subsides à la création, l'agrandissement, l'aménagement et l'entretien des centres ou services d'orientation professionnelle spécialisée, modifié par l'arrêté ministériel du 25 octobre 1969 et par l'arrêté du Gouvernement du 18 octobre 1990;
+
+28° l'arrêté ministériel du 5 septembre 1978 fixant les critères d'octroi des subsides à la création, l'agrandissement ou l'aménagement d'ateliers protégés, modifié par l'arrêté ministériel du 25 octobre 1969 et par les arrêtés du Gouvernement des 18 octobre 1990 et 18 novembre 1996;
+
+29° les article 13, § 2, et 14 de l'arrêté ministériel du 27 mars 1979 fixant l'intervention financière de l'Etat dans la formation permanente réglée par l'arrêté royal du 4 octobre 1976 relatif à la formation permanente dans les classes moyennes, modifié par l'arrêté du Gouvernement du 6 juillet 2000.
+
+### Section 2. - Dispositions transitoires.
+
+### Projets d'infrastructure ayant reçu une promesse ferme de subside.
+
+##### Art. 47
+
+Pour les projets d'infrastructure ayant reçu une promesse ferme avant l'entrée en vigueur du présent décret, que ce soit pour l'ensemble du projet ou pour une partie d'un projet subdivisé en lots, les règles de subsidiation applicables avant l'entrée en vigueur du présent décret restent d'application.
+
+Les articles 4, 6,13, 14, 18, 23, 25, alinéas 2 à 4, et 26, du présent décret sont toutefois valables dès son entrée en vigueur.
+
+### Projets d'infrastructure pour lesquels des subsides ont été demandés.
+
+##### Art. 48
+
+Le présent décret s'applique à toutes les demandes pour lesquelles aucune promesse ferme de subside n'a été donnée avant son entrée en vigueur.
+
+##### Art. 48bis
+
+[<sup>1</sup> Disposition transitoire pour les hôpitaux.
+
+Contrairement aux dispositions de l'article 21, § 2, du présent décret, les travaux commencés avant l'entrée en vigueur dudit décret dans les hôpitaux de la Communauté germanophone peuvent être subventionnés, si ces travaux font partie des mesures de rénovation des deux hôpitaux stipulées dans l'un des textes d'actualisation de l'accord du 10 juillet 1997 entre le Gouvernement, la Clinique Saint-Joseph de Saint-Vith et l'Hôpital Saint-Nicolas d'Eupen.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCG 2009-04-27/19, art. 27, 010; En vigueur : 25-06-2009&gt;
+
+### Section 3. - Dispositions finales.
+
+### Plan d'infrastructure 2002-2004.
+
+##### Art. 49
+
+Pour figurer dans le plan d'infrastructure arrêté par le Gouvernement pour les années 2002-2004, il faut avoir introduit les documents dont question à l'article 19 non pas au moment de l'annonce du projet d'infrastructure mais au moment de l'inscription eventuelle dans le plan d'infrastructure.
+
+### Indexation.
+
+##### Art. 50
+
+En vue de les adapter à l'évolution du coût de la vie et aux crédits budgétaires disponibles, le Gouvernement peut multiplier par un coefficient tous les montants cités dans le présent décret ou certains d'entre eux.
+
+### Entrée en vigueur.
+
+##### Art. 51
+
+Le présent décret produit ses effets le 1er janvier 2002, sauf l'article 32, § 2, qui produit ses effets le 1er janvier 2001.
+
+---
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur Belge.
+
+Eupen, le 18 mars 2002.
+
+K.-H. LAMBERTZ,
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre de l'Emploi, de la Politique des Handicapés, des Médias et des Sports.
+
+B. GENTGES,
+
+Ministre de l'Enseignement et de la Formation, de la Culture et du Tourisme.
+
+H. NIESSEN,
+
+Ministre de la Jeunesse et de la Famille, de la Protection des Monuments, de la Santé et des Affaires sociales.

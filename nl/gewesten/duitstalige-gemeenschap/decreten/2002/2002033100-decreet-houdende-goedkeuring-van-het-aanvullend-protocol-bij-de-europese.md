@@ -1,0 +1,39 @@
+---
+title: "Decreet houdende goedkeuring van het aanvullend protocol bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerking tussen territoriale gemeenschappen of autoriteiten gedaan te Straatsburg op 9 november 1995 (VERTALING)."
+identifier: "2002033100"
+eli: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/07/2002033100/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: nl
+date: 2002-10-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/07/2002033100/justel"
+department: "Duitstalige Gemeenschap"
+retrieved: 2026-10-12
+---
+
+# 7 OKTOBER 2002. - Decreet houdende goedkeuring van het aanvullend protocol bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerking tussen territoriale gemeenschappen of autoriteiten gedaan te Straatsburg op 9 november 1995 (VERTALING).
+
+De Raad van de Duitstalige Gemeenschap heeft aangenomen en Wij, Regering, bekrachtigen hetgeen volgt :
+
+## Art. 1
+
+Enig artikel. Het aanvullend Protocol bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerking tussen territoriale gemeenschappen of autoriteiten, gedaan te Straatsburg op 9 november 1995 zal volkomen uitwerking hebben.
+
+Wij kondigen dit decreet af en bevelen dat het door het Belgisch Staatsblad bekendgemaakt wordt.
+
+Eupen, op 7 oktober 2002.
+
+K.H. LAMBERTZ,
+
+Minister-President van de Regering van de Duitstalige Gemeenschap, Minister van Werkgelegenheid, Gehandicaptenbeleid, Media en Sport
+
+B. GENTGES,
+
+Minister van Onderwijs en Vorming, Cultuur en Toerisme
+
+H. NIESSEN,
+
+Minister van Jeugd en Gezin, Monumentenzorg, Gezondheid en Sociale Aangelegenheden.

@@ -1,0 +1,47 @@
+---
+title: "Décret portant assentiment au traité établissant une Constitution pour l'Europe, aux Protocoles annexés au Traité établissant une Constitution pour l'Europe, à ses annexes et à l'Acte final, faits à Rome le 29 octobre 2004 (TRADUCTION)."
+identifier: "2005033074"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/20/2005033074/justel"
+type: decree
+justel_type: "DECRET COMMUNAUTE GERMANOPHONE"
+jurisdiction: be
+region: communaute-germanophone
+language: fr
+date: 2005-06-20
+published: 2005-09-15
+entry_into_force: 2005-09-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/20/2005033074/justel"
+department: "Communauté germanophone"
+retrieved: 2026-10-12
+---
+
+# 20 JUIN 2005. - Décret portant assentiment au traité établissant une Constitution pour l'Europe, aux Protocoles annexés au Traité établissant une Constitution pour l'Europe, à ses annexes et à l'Acte final, faits à Rome le 29 octobre 2004 (TRADUCTION).
+
+Le Parlement de la Communauté germanophone a adopté et Nous, Gouvernement, sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. Le Traité établissant une Constitution pour l'Europe, les protocoles annexés au traité établissant une Constitution pour l'Europe, ses annexes et l'acte final, faits à Rome le 29 octobre 2004, produisent leur plein et entier effet.
+
+Les amendements au Traité établissant une Constitution pour l'Europe (et aux protocoles y annexés) qui seront adoptés sur la base des articles I-32, § 5, I-40, § 7, I-55, § 4, III-167, § 2 (c), III-184, § 13, III-187, § 3, III-210, § 3, III-234, § 2, III-243, III-269, § 3, III-271, § 1er, III-274, § 4, III-300, § 3, III-381, III-393, III-422 et IV-444 ainsi que de l'article 5 du protocole n° 8 et de l'article 10 du protocole n° 9, produisent leur plein et entier effet.
+
+Promulguons le présent décret et ordonnons qu'il soit publié au Moniteur Belge.
+
+Eupen, le 20 juin 2005.
+
+K.-H. LAMBERTZ,
+
+Ministre-Président du Gouvernement de la Communauté germanophone, Ministre des Pouvoirs locaux
+
+B. GENTGES,
+
+Vice-Ministre-Président du Gouvernement de la Communauté germanophone, Ministre de la Formation et de l'Emploi, des Affaires sociales et du Tourisme
+
+O. PAASCH,
+
+Ministre de l'Enseignement et de la Recherche scientifique
+
+Mme I. WEYKMANS,
+
+Ministre de la Culture et des Médias, des Monuments et Sites, de la Jeunesse et du Sport.
