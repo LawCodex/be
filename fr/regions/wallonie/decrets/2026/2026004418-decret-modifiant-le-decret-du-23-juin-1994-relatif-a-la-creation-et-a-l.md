@@ -1,0 +1,161 @@
+---
+title: "Décret modifiant le décret du 23 juin 1994 relatif à la création et à l'exploitation des aéroports et des aérodromes relevant de la Région wallonne"
+identifier: "2026004418"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/04/2026004418/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2026-06-04
+published: 2026-06-17
+entry_into_force: 2026-06-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/04/2026004418/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 4 JUIN 2026. - Décret modifiant le décret du 23 juin 1994 relatif à la création et à l'exploitation des aéroports et des aérodromes relevant de la Région wallonne
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1er
+
+Dans l'article 1er du décret du 23 juin 1994 relatif à la création et à l'exploitation des aéroports et aérodromes relevant de la Région wallonne, modifié en dernier lieu par le décret du 14 juillet 2011, l'alinéa 1er est complété par un 5° rédigé comme suit :
+
+" 5° " aéronef à long rayon d'action " : l'aéronef destiné à desservir des routes intercontinentales ou transocéaniques, dont les caractéristiques de conception et de performances permettent, sans escale technique, des vols de 7 000 kilomètres ou une durée de vol égale ou supérieure à dix heures. ".
+
+## Art. 2
+
+A l'article 1erbis du même décret, inséré par le décret du 8 juin 2001 et modifié en dernier lieu par le décret du 22 novembre 2007, les modifications suivantes sont apportées :
+
+1° au paragraphe 2, les modifications suivantes sont apportées :
+
+a) à l'alinéa 1er, les mots " autorisé par mouvement fixé à 5 points et calculé conformément au § 4. " sont remplacés par les mots " par mouvement ci-après dénommé " QM " autorisé fixé comme suit :
+
+1° 3,80 points lors des mouvements de décollage ;
+
+2° 5 points lors des mouvements de décollage pour les aéronefs à long rayon d'action ;
+
+3° 1,70 points pour les mouvements d'atterrissage. " ;
+
+b) un alinéa rédigé comme suit est inséré après l'alinéa 1er :
+
+" Ce QM est calculé conformément au paragraphe 4 et est applicable à tous les avions opérant sur le site de Charleroi-Bruxelles Sud. " ;
+
+2° au paragraphe 3, les modifications suivantes sont apportées :
+
+a) à l'alinéa 2, les mots ", par l'exploitant d'aéronef, une moyenne calculée sur une base annuelle de 0.616 point par jour par avion basé calculé conformément au § 5 " sont remplacés par les mots " un quota global de points ci-après dénommé QC. Ce quota est dégressif et fixé comme suit :
+
+1° maximum 3 500 points annuel ;
+
+2° maximum 2 000 points annuel dès le 1er janvier 2045. " ;
+
+b) trois nouveaux alinéas rédigés comme suit sont insérés entre les alinéas 2 et 3 :
+
+" Ce QC est calculé conformément au paragraphe 5 et est applicable à tous les avions basés opérant sur le site de Charleroi-Bruxelles Sud.
+
+Le QC est déterminé sur base du nombre maximal d'avions basés pouvant être accueillis sur le site de Charleroi-Bruxelles Sud et réparti équitablement, au moyen d'une règle de trois, en fonction du nombre annuel moyen d'avions basés, entre les usagers d'aéroports présents sur le site de l'aéroport de Charleroi. Le Gouvernement fixe la méthodologie de calcul de points annuellement accordés à chaque usager.
+
+Le Gouvernement peut déterminer une exemption temporaire de la consommation des points octroyés aux usagers d'aéroport, en raison du contexte géopolitique, des contraintes liées au contrôle aérien et des catastrophes majeures. Le Gouvernement fixe les modalités de cette exemption temporaire. " ;
+
+c) le paragraphe est complété par trois alinéas rédigés comme suit :
+
+" Au terme de chaque triennat, le Gouvernement peut procéder à une réévaluation des quotas applicables, prévus au paragraphe 2, alinéa 1er, et au paragraphe 3, alinéa 2. Cette réévaluation peut, le cas échéant, donner lieu à une révision uniquement à la baisse, fondée sur les évolutions technologiques observées dans le secteur aérien. Le Gouvernement détermine la procédure de réévaluation.
+
+Un comité de suivi est créé pour monitorer annuellement l'état de la situation et des projections du QC prévu au paragraphe 3, alinéa 2. Ce comité est composé d'au moins un membre de chacune des entités suivantes : la SOWAER, le SPW MI, l'ACNAW, le Cabinet du Ministre qui a les aéroports dans ses attributions, le Cabinet du Ministre qui a l'aménagement du territoire dans ses attributions et la SA BSCA. Le Gouvernement peut régler le mode de fonctionnement du comité de suivi.
+
+Le Gouvernement peut déterminer les facteurs à prendre en compte pour établir les projections du QC prévu au paragraphe 3, alinéa 2. " ;
+
+3° au paragraphe 4, les modifications suivantes sont apportées :
+
+a) à l'alinéa 1er, le mot " point " est remplacé par le mot " points " ;
+
+b) à l'alinéa 2, les mots " , 3 ou 5 " sont remplacés par les mots " et suivants " ;
+
+4° Le paragraphe 5 est remplacé par ce qui suit :
+
+" § 5. Par quota global de points QC, on entend la quantité maximale de bruit exprimée en point, autorisée pour un ensemble de mouvements donnés à l'exception des mouvements exonérés visés au paragraphe 3, alinéa 1, 1° à 4°. Le quota global se calcule comme suit :
+
+(Image non reprise pour des raisons techniques, voir M.B. du 17-06-2026, p. 32408)
+
+Les points (Pi) comptabilisés pour chaque retard d'avion basé et certifié selon les normes des chapitres 2 et suivants de l'annexe 16 de l'OACI, représentent la quantité moyenne de bruit à l'atterrissage.
+
+Ils se calculent selon la formule suivante : Pi = Ri x 10 ((Bi - 85)/10)
+
+où
+
+Ri exprime la nuisance découlant du retard de l'avion basé et s'élève à :
+
+\- 0,3 pour un atterrissage compris entre 0 et 15 minutes après 23 heures etpour un atterrissage compris entre 421 et 450 minutes après 23 heures ;
+
+\- 0,8 pour un atterrissage compris entre 16 et 30 minutes après 23 heures ;
+
+\- 1,3 pour un atterrissage compris entre 31 et 90 minutes après 23 heures ;
+
+\- 1,8 pour un atterrissage compris entre 91 et 420 minutes après 23 heures ;
+
+Bi représente le niveau sonore certifié en EPNdB d'un avion à sa masse d'atterrissage maximale mesurée sur le point de mesure d'approche, diminuée de 9 EPNdB ;
+
+n représente le nombre total de mouvements tardifs relatif à un avion basé en retard qui a atterri après 23 heures pour l'année considérée. ".
+
+## Art. 3
+
+A l'article 6 du même décret, inséré par le décret du 8 juin 2001 et modifié en dernier lieu par le décret du 25 septembre 2025, les modifications suivantes sont apportées :
+
+1° au paragraphe 3, les modifications suivantes sont apportées :
+
+a) les mots " 200 euros et 7 500 euros " sont remplacés par les mots " 800 euros et 10 000 euros " ;
+
+b) le paragraphe est complété par deux alinéas rédigés comme suit :
+
+" Les montants des sanctions fixés par le Gouvernement sont indexés tous les cinq ans, au 1er janvier en faisant application de l'indice des prix à la consommation. L'indice de référence est celui du mois de décembre 2025.
+
+Lors de l'indexation, le résultat est augmenté de 0,50 cents au maximum ou diminué de 0,49 cents au maximum pour obtenir un nombre entier. " ;
+
+2° au paragraphe 7, les mots " à la Division de la Trésorerie du Ministère de la Région wallonne " sont remplacés par les mots " à la Direction du Financement et des Recettes du Service public de Wallonie Finances ".
+
+## Art. 4
+
+A l'article 6bis, alinéa 2, quatrième tiret, du même décret, inséré par le décret du 10 mai 2012, le mot " Belgocontrol " est remplacé par le mot " skeyes ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 4 juin 2026.
+
+Le Ministre-Président et Ministre du Budget, des Finances, des Relations internationales et du Bien-être animal,
+
+A. DOLIMONT
+
+Le Vice-Président et Ministre du Territoire, des Infrastructures, de la Mobilité et des Pouvoirs locaux,
+
+F. DESQUESNES
+
+Le Vice-Président et Ministre de l'Economie,
+
+de l'Industrie, de l'Emploi, de la Formation, de la Recherche et du Numérique,
+
+P.-Y. JEHOLET
+
+Le Ministre de la Santé, de l'Environnement, des Solidarités et de l'Economie sociale,
+
+Y. COPPIETERS
+
+La Ministre de la Fonction publique, de la Simplification administrative et des Infrastructures sportives,
+
+J. GALANT
+
+La Ministre du Tourisme, du Patrimoine et de la Petite enfance,
+
+V. LESCRENIER
+
+La Ministre de l'Energie, du Plan Air-Climat, du Logement et des Aéroports,
+
+C. NEVEN
+
+La Ministre de l'Agriculture et de la Ruralité,
+
+A.-C. DALCQ

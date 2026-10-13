@@ -1,0 +1,129 @@
+---
+title: "Décret modifiant le décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes en vue de transposer partiellement la directive (UE) 2024/1265"
+identifier: "2026005432"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/02/2026005432/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2026-07-02
+published: 2026-07-17
+entry_into_force: 2026-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/02/2026005432/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 2 JUILLET 2026. - Décret modifiant le décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes en vue de transposer partiellement la directive (UE) 2024/1265
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+Le présent décret assure la transposition partielle de la directive (UE) 2024/1265 du Conseil du 29 avril 2024 modifiant la directive 2011/85/UE sur les exigences applicables aux cadres budgétaires des Etats membres.
+
+## CHAPITRE 2. - Modifications du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes, en vue de transposer partiellement la directive (UE) 2024/1265
+
+### Art. 2
+
+A l'article 4 du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes, modifié en dernier lieu par le décret du 25 avril 2024, les modifications suivantes sont apportées :
+
+a) au paragraphe 2, les mots " le budget est élaboré " sont remplacés par les mots " la programmation budgétaire annuelle et pluriannuelle est élaborée " ;
+
+b) le paragraphe 3 est remplacé par ce qui suit :
+
+" § 3. Tous les trois ans, une évaluation objective et globale des prévisions budgétaires utilisées lors de la confection du budget sera réalisée par un organisme indépendant. Si un écart significatif sur une période d'au moins quatre années consécutives ressort de l'évaluation, le Gouvernement adopte les mesures nécessaires pour corriger cet écart et en assure la publicité.
+
+L'organisme indépendant sera désigné dans un accord de coopération. ".
+
+### Art. 3
+
+A l'article 9, § 1er, du même décret, modifié en dernier lieu par le décret du 25 avril 2024, les modifications suivantes sont apportées : a) à l'alinéa 1er, 1°, d) :
+
+1° le (2) est abrogé ;
+
+2° le (3) est remplacé par ce qui suit :
+
+" (2) des informations sur tous les organismes et fonds qui ne sont pas repris dans le budget mais qui font partie du périmètre de consolidation tel que défini par l'Institut des Comptes nationaux, ainsi que les montants correspondant à l'impact combiné de ces organismes et fonds sur le solde des pouvoirs publics et la dette publique ; " ;
+
+b) à l'alinéa 4 :
+
+1° le a) est remplacé par ce qui suit :
+
+" a) des objectifs budgétaires généraux et transparents à moyen terme pour le déficit public, la dette publique et tout autre indicateur budgétaire, tel que les dépenses, afin d'assurer leur cohérence avec les règles budgétaires chiffrées en vigueur telles que prévues dans l'accord de coopération entre l'Etat fédéral et les entités fédérées relatif à la gouvernance économique ; " ;
+
+2° le c) est remplacé par ce qui suit :
+
+" c) une description des mesures politiques envisagées à moyen terme, y compris les réformes et les investissements, ayant un impact sur les finances des administrations publiques et la croissance durable et inclusive, ventilées par poste de dépenses et de recettes importantes, qui montre comment l'ajustement aux objectifs budgétaires à moyen terme est réalisé en comparaison avec les projections à politique inchangée ; " ;
+
+3° le d) est remplacé par ce qui suit :
+
+" d) une évaluation de l'effet que, vu leur impact direct à moyen et à long terme sur les finances des administrations publiques, les politiques envisagées sont susceptibles d'avoir sur la soutenabilité à moyen et à long terme des finances publiques ainsi que sur la croissance durable et inclusive. Dans la mesure du possible, l'évaluation tient compte des risques macrobudgétaires dus au changement climatique, de leur impact sur l'environnement et de leurs effets distributifs ; " ;
+
+4° l'alinéa est complété par un point rédigé comme suit :
+
+" e) des informations sur tous les organismes et fonds qui ne sont pas repris dans le budget mais qui font partie du périmètre de consolidation tel que défini par l'Institut des Comptes nationaux, ainsi que les montants correspondant à l'impact combiné de ces organismes et fonds sur le solde des pouvoirs publics et la dette publique. ".
+
+### Art. 4
+
+Dans l'article 45/1 du même décret, inséré par le décret du 17 décembre 2015, les modifications suivantes sont apportées :
+
+a) le paragraphe 1er est remplacé par ce qui suit :
+
+" § 1er. Conformément à l'article 16/10 de la loi de dispositions générales, les données budgétaires afférentes aux dépenses et recettes sur la base des droits constatés, ou sur base caisse sont trimestriellement communiquées à l'opérateur désigné à cet effet dans un accord de coopération. Cet aperçu inclut les recettes et les dépenses de toutes les unités d'administration publique faisant partie du périmètre de consolidation tel que défini par l'Institut des comptes nationaux. " ;
+
+b) au paragraphe 2, le mot " mensuellement " est inséré entre les mots " transmet " et " au service désigné " et le mot " quinze " est remplacé par le mot " dix-huit ".
+
+### Art. 5
+
+L'article 45/2 du même décret, inséré par le décret du 17 décembre 2015, est remplacé par ce qui suit :
+
+" Art. 45/2. Conformément à l'article 16/14 de la loi de dispositions générales, le Gouvernement publie des informations pertinentes sur les engagements conditionnels susceptibles d'avoir un impact élevé sur le budget, dont les garanties publiques, les prêts improductifs et les passifs découlant de l'activité d'entreprises publiques. Pour autant que possible, le Gouvernement publie également des informations sur les passifs conditionnels liés aux catastrophes et au climat. Dans la mesure du possible, les informations publiées tiennent compte des informations sur les coûts budgétaires liés aux catastrophes et aux chocs climatiques. Le Gouvernement publie des informations sur les participations au capital de sociétés privées et publiques dans la mesure où il s'agit de montants économiquement significatifs. Le Gouvernement fixe les modalités de publication de ces informations. ".
+
+## CHAPITRE 3. - Disposition finale
+
+### Art. 6
+
+Le présent décret produit ses effets le 1er janvier 2026.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 2 juillet 2026.
+
+Le Ministre-Président et Ministre du Budget, des Finances, des Relations internationales et du Bien-être animal,
+
+A. DOLIMONT
+
+Le Vice-Président et Ministre du Territoire, des Infrastructures, de la Mobilité et des Pouvoirs locaux,
+
+F. DESQUESNES
+
+Le Vice-Président et Ministre de l'Economie, de l'Industrie, de l'Emploi, de la Formation, de la Recherche et du Numérique,
+
+P.-Y. JEHOLET
+
+Le Ministre de la Santé, de l'Environnement, des Solidarités et de l'Economie sociale,
+
+Y. COPPIETERS
+
+La Ministre de la Fonction publique, de la Simplification administrative et des Infrastructures sportives,
+
+J. GALANT
+
+La Ministre du Tourisme, du Patrimoine et de la Petite enfance,
+
+V. LESCRENIER
+
+La Ministre de l'Energie, du Plan Air-Climat, du Logement et des Aéroports,
+
+C. NEVEN
+
+La Ministre de l'Agriculture et de la Ruralité,
+
+A.-C. DALCQ

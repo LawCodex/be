@@ -1,0 +1,219 @@
+---
+title: "Décret programme portant des mesures diverses en matière de pouvoirs locaux et d'emploi"
+identifier: "2024011844"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/18/2024011844/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2024-12-18
+published: 2024-12-30
+entry_into_force: 2025-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/18/2024011844/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 18 DECEMBRE 2024. - Décret programme portant des mesures diverses en matière de pouvoirs locaux et d'emploi
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Modification du Code de la démocratie locale et de la décentralisation
+
+### Art. 1er
+
+L'article L1332-5 du Code de la démocratie locale et de la décentralisation, modifié par le décret du 15 juillet 2008, est remplacé par ce qui suit :
+
+" Art. L1332-5. Le Fonds des communes est fixé annuellement à un montant au moins égal à celui de l'année précédente, adapté du pourcentage d'évolution. Il est de 1.604.127.000 euros à partir de l'année de répartition 2025. ".
+
+### Art. 2
+
+Dans le même Code, un article L2231-5/1 est inséré :
+
+" Art. L2231-5/1. A partir de l'exercice 2025, les fonds de réserve ordinaires des provinces, affectés ou sans affectation particulière, peuvent être rapatriés dans l'exercice propre du service ordinaire pour équilibrer cet exercice propre du service ordinaire, comme s'il s'agissait de provisions.
+
+Les fonds sont rapatriés soit dans la fonction ad hoc s'ils ont un usage défini soit dans la fonction " 000 Recettes générales ".
+
+Des provisions peuvent être constituées à partir des montants ainsi rapatriés. ".
+
+### Art. 3
+
+A l'article L2232-1, du même Code, un 10° est inséré, rédigé comme suit :
+
+" 10° les dépenses à accorder indirectement aux communes, en vertu de l'article L2241-1, pour le financement général au sens de l'article 6, § 1er, VIII, alinéa 1er, 9°, de la loi spéciale du 8 août 1980 de réformes institutionnelles. ".
+
+### Art. 4
+
+Dans le même Code, un article L2232-1/1 est inséré, rédigé comme suit :
+
+" Art. L2232-1. § 1er. La province liquide la dépense visée à l'article L2232-1, 10°, au bénéfice de l'une des autorités visées à l'article L3111-1, § 1er, 3° à 10°.
+
+§ 2. La liquidation est soumise au respect des engagements pris dans le cadre d'une convention signée par la province et la personne morale concernée.
+
+La convention visée au présent paragraphe ainsi que l'acte administratif approuvant cette dernière sont communiqués sans délai pour information à l'autorité de tutelle visée à l'article L3111-2, alinéa1er, 4°. ".
+
+### Art. 5
+
+Dans le même Code, Deuxième partie, Livre II, est inséré un Titre IV, intitulé :
+
+" Mission décentralisée de financement général des communes ".
+
+### Art. 6
+
+Il est inséré un article L2241-1, dans le Titre IV du même Code, inséré par l'article 5 rédigé comme suit :
+
+" Art. L2241-1. Il est dû aux provinces une dotation à charge du budget de la Région wallonne affectée de manière indirecte au financement général des communes tel que visé à l'article 6, § 1er, VIII, alinéa 1er, 9°, de la loi spéciale du 8 août 1980 de réformes institutionnelles.
+
+La dotation visée à l'alinéa 1er et dénommée ``Budget Complémentaire''. ".
+
+### Art. 7
+
+Il est inséré un article L2241-2 dans le Titre IV du même Code, inséré par l'article 5, rédigé comme suit :
+
+" Art. L2241-2. Le Budget Complémentaire est fixé annuellement à un montant total au moins égal à celui inscrit au décret contenant le budget des dépenses de la Région wallonne de l'année précédente, adapté du pourcentage d'évolution calculé conformément, mutatis mutandis, à l'article L1332-1, § 4.
+
+Le Budget Complémentaire est de 19.000.000 euros pour l'année budgétaire 2025.
+
+Il peut être dérogé, à la hausse, au montant total fixé en vertu de l'alinéa 1er. Le cas échéant, le montant total visé à l'alinéa 1er est calculé sur base du montant revu à la hausse sur base du présent alinéa. ".
+
+### Art. 8
+
+Il est inséré un article L2241-3 dans le Titre IV du même Code, inséré par l'article 5, rédigé comme suit :
+
+" Art. L2241-3. § 1er. Le montant de base par province du Budget Complémentaire est réparti selon la formule suivante :
+
+BCp = Σp BCc
+
+Sachant que,
+
+((Yc/ΣkY)\*BC) = BCc Où,
+
+c : indice représentant la commune concernée (celle pour laquelle le calcul est effectué);
+
+k : indice représentant l'ensemble des communes relevant de la compétence de la Région wallonne;
+
+p : indice représentant la province concernée (celle pour laquelle le calcul est effectué);
+
+Yc : dotation de la commune c à sa zone de secours en vertu de l'article 67, alinéa 1er, 1°, de la loi du 15 mai 2007 relative à la sécurité civile;
+
+ΣkY : somme des dotations de toutes les communes k aux zones de secours en vertu de l'article 67, alinéa 1er, 1°, de la loi du 15 mai 2007 relative à la sécurité civile;
+
+BCc : part théorique attribuée à la commune c, utilisée pour déterminer la contribution relative d'une commune à la répartition de BCp;
+
+BCp : montant du Budget Complémentaire attribué à la province p, calculé par l'addition de l'ensemble des BCc calculés pour les communes relevant du ressort territorial de la province;
+
+BC : montant total du Budget Complémentaire à charge du budget de la Région wallonne.
+
+§ 2. L'ensemble des paramètres visés au paragraphe 1er est calculé sur base des comptes communaux approuvés de l'exercice le plus récent.
+
+En l'absence de compte, les paramètres de la commune concernée sont calculés sur base du dernier compte de la zone de secours concernée pour ledit même exercice. ".
+
+### Art. 9
+
+Il est inséré un article L2241-4 dans le Titre IV du même Code, inséré par l'article 5, rédigé comme suit :
+
+" Art. L2241-4. Le Budget Complémentaire est versé conformément, mutatis mutandis, aux articles L1332-20 à L1332-23. ".
+
+## CHAPITRE 2. - Modification du décret-programme du 23 février 2006 relatif aux actions prioritaires pour l'avenir wallon
+
+### Art. 10
+
+Dans l'article 32 du décret-programme du 23 février 2006 relatif aux actions prioritaires pour l'avenir wallon, les § 2 à § 4 sont abrogés.
+
+### Art. 11
+
+L'article 33 du même décret-programme est remplacé par ce qui suit :
+
+" Art. 33. Lorsqu'une province n'établit pas de taxe provinciale sur la superficie, de taxe provinciale sur la force motrice ou de taxe provinciale industrielle compensatoire, la Région peut, dans la limite des crédits disponibles, compenser celle-ci sur base du montant des pertes réelles, le cas échéant au prorata si les crédits disponibles ne permettent pas une compensation complète, duquel sont déduit les montants dont la province a bénéficié en application de la modification de l'article 257, alinéa 1er, 1° et 4°, du Code des impôts sur les revenus 1992 prévue à l'article 2 du décret du 10 décembre 2009 d'équité fiscale et d'efficacité environnementale pour le parc automobile et les maisons passives. ".
+
+### Art. 12
+
+L'article 37 du même décret-programme est remplacé par ce qui suit :
+
+" Art. 37. Lorsqu'une commune n'établit pas de taxe communale sur la force motrice, la Région, dans la limite des crédits disponibles, compense celle-ci sur base du montant des pertes réelles, le cas échéant au prorata si les crédits disponibles ne permettent pas une compensation complète, duquel sont déduit les montants dont la commune a bénéficié en application de la modification de l'article 257, alinéa 1er, 1° et 4°, du Code des impôts sur les revenus 1992 prévue à l'article 2 du décret du 10 décembre 2009 d'équité fiscale et d'efficacité environnementale pour le parc automobile et les maisons passives. ".
+
+## CHAPITRE 3. - Modification du décret du 10 décembre 2009 d'équité fiscale et d'efficacité environnementale pour le parc automobile et les maisons passives
+
+### Art. 13
+
+Dans l'article 49, alinéa 1er, du décret du 10 décembre 2009 d'équité fiscale et d'efficacité environnementale pour le parc automobile et les maisons passives, les mots " , dans la limite des crédits disponibles et le cas échéant au prorata si lesdits crédits disponibles ne permettent pas une compensation complète, " sont insérés entre les mots " compensation annuelle " et les mots " à charge ".
+
+### Art. 14
+
+Dans l'article 50, alinéa 1er, du même décret les mots " est remplacé par une compensation annuelle " sont remplacés par les mots " peut être remplacé, dans la limite des crédits disponibles et le cas échéant au prorata si lesdits crédits disponibles ne permettent pas une compensation complète, par une compensation annuelle ".
+
+## CHAPITRE 4. - Modification du décret du 10 juin 2021 relatif à la pérennisation des emplois créés dans le cadre du dispositif des aides à la promotion de l'emploi (APE) et à la création d'emplois répondant à des besoins sociétaux prioritaires et de l'arrêté du Gouvernement wallon du 16 décembre 2021 portant exécution du décret du 10 juin 2021 relatif à la pérennisation des emplois créés dans le cadre du dispositif des aides à la promotion de l'emploi (APE) et à la création d'emplois répondant à des besoins sociétaux prioritaires
+
+### Art. 15
+
+L'alinéa 4 de l'article 6 du décret du 10 juin 2021 relatif à la pérennisation des emplois créés dans le cadre du dispositif des aides à la promotion de l'emploi (APE) et à la création d'emplois répondant à des besoins sociétaux prioritaires est remplacé par ce qui suit :
+
+" Le montant de la subvention visée à l'alinéa 1 er, calculé conformément aux articles 7 à 10 ou, le cas échéant, en vertu de l'alinéa 2 ou de l'article 15, et octroyé aux employeurs du secteur non-marchand tels que visés par l'article 2, § 1er, 2°, est indexé annuellement selon les modalités déterminées par le Gouvernement. ".
+
+### Art. 16
+
+A l'article 33 du même décret, il est ajouté un troisième alinéa libellé comme suit :
+
+" Le montant de la subvention visée à l'alinéa 1er est indexé annuellement selon les modalités déterminées par le Gouvernement. ".
+
+### Art. 17
+
+Au paragraphe 4 de l'article 7 de l'arrêté du Gouvernement wallon du 16 décembre 2021 portant exécution du décret du 10 juin 2021 relatif à la pérennisation des emplois créés dans le cadre du dispositif des aides à la promotion de l'emploi (APE) et à la création d'emplois répondant à des besoins sociétaux prioritaires, sont apportées les modifications suivantes :
+
+1° à l'alinéa 1er, les mots " aux employeurs du secteur non marchand tels que visés par l'article 2, § 1er, 2°, du même décret " sont ajoutés entre les mots " le montant de la subvention octroyée en vertu de l'article 6 du décret du 10 juin 2021 " et les mots " tel que fixé par la décision d'octroi de la subvention dont bénéficie l'employeur. " ;
+
+2° il est ajouté un alinéa 8 libellé comme suit :
+
+" Pour toute décision de cession prise à partir du 1er janvier 2025, lorsque l'employeur cédant est considéré comme faisant partie des pouvoirs locaux, régionaux et communautaires, tels que défini à l'article 2, § 2, du décret du 10 juin 2021, l'indexation prévue à l'alinéa 7 ne s'applique pas ".
+
+### Art. 18
+
+Le paragraphe 2 de l'article 43 du même arrêté est abrogé.
+
+### Art. 19
+
+L'article 66 du même arrêté est abrogé.
+
+### Art. 20
+
+Le présent décret entre en vigueur le 1er janvier 2025.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 18 décembre 2024.
+
+Le Ministre-Président et Ministre du Budget, des Finances, de la Recherche, du Bien-être animal,
+
+A. DOLIMONT
+
+Le Vice-Président et Ministre du Territoire, des Infrastructures, de la Mobilité et des Pouvoirs locaux,
+
+F. DESQUESNES
+
+Le Vice-Président et Ministre de l'Economie, de l'Industrie, du Numérique, de l'Emploi et de la Formation,
+
+P.-Y. JEHOLET
+
+Le Ministre de la Santé, de l'Environnement, des Solidarités et de l'Economie sociale,
+
+Y. COPPIETERS
+
+La Ministre de la Fonction publique, de la Simplification administrative et des Infrastructures sportives,
+
+J. GALANT
+
+La Ministre du Tourisme, du Patrimoine et de la Petite enfance,
+
+V. LESCRENIER
+
+La Ministre de l'Energie, du Plan Air-Climat, du Logement et des Aéroports,
+
+C. NEVEN
+
+La Ministre de l'Agriculture et de la Ruralité,
+
+A.-C. DALCQ

@@ -1,0 +1,81 @@
+---
+title: "Décret instaurant un accès au point de contact central tenu par la Banque nationale de Belgique pour les fonctionnaires du Service public de Wallonie Finances chargés du recouvrement des créances fiscales"
+identifier: "2026004964"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/18/2026004964/justel"
+type: decree
+justel_type: "DECRET REGION WALLONNE"
+jurisdiction: be
+region: wallonie
+language: fr
+date: 2026-06-18
+published: 2026-07-03
+entry_into_force: 2026-07-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/18/2026004964/justel"
+department: "Service public de Wallonie"
+retrieved: 2026-10-12
+---
+
+# 18 JUIN 2026. - Décret instaurant un accès au point de contact central tenu par la Banque nationale de Belgique pour les fonctionnaires du Service public de Wallonie Finances chargés du recouvrement des créances fiscales
+
+Le Parlement wallon a adopté et Nous, Gouvernement wallon, sanctionnons ce qui suit :
+
+## Art. 1er
+
+L'article 11quinquies du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes, inséré par le décret du 12 juillet 2023, est remplacé par ce qui suit :
+
+" Art. 11quinquies. En vue d'établir la situation patrimoniale du redevable et des personnes sur les biens desquelles les impôts et les taxes, dus en principal et additionnels, les amendes fiscales, les intérêts de retard et les frais sont mis en recouvrement conformément à l'article 35ter, et pour assurer le recouvrement des impôts et des taxes, dus en principal et additionnels, des amendes fiscales, des intérêts de retard et des frais, le fonctionnaire visé à l'article 34bis :
+
+1° dispose de tous les pouvoirs d'investigations prévus par le présent décret ;
+
+2° peut demander au point de contact central tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt, les informations nécessaires à l'identification des éléments suivants, et des sommes qui y sont disponibles, dont les personnes précitées sont titulaires :
+
+a) les comptes bancaires ou de paiement visés à l'article 4, 1°, de la loi du8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt ;
+
+b) les comptes de titres visés à l'article 4, 1° /1, de la même loi ;
+
+c) les comptes de crypto-actifs visés à l'article 4, 1° /2, de la même loi ;
+
+d) les relations contractuelles visés à l'article 4, 3°, a), b) et c), de la même loi. ".
+
+## Art. 2
+
+Sans préjudice de la conservation nécessaire pour le traitement à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques visé à l'article 89 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), les données à caractère personnel visées à l'article 11quinquies, alinéa unique, 2°, du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes, ne sont pas conservées plus longtemps que nécessaire au regard des finalités pour lesquelles elles sont traitées avec une durée maximale de conservation qui n'excède pas dix ans après la prescription de toutes les actions qui relèvent de la compétence du Service public de Wallonie Finances et, le cas échéant, la cessation définitive des procédures et recours administratifs, judiciaires et extrajudiciaires découlant du traitement de ces données, ainsi que du paiement intégral de tous les montants y liés.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Namur, le 18 juin 2026.
+
+Le Ministre-Président et Ministre du Budget, des Finances, des Relations internationales et du Bien-être animal,
+
+A. DOLIMONT
+
+Le Vice-Président et Ministre du Territoire, des Infrastructures, de la Mobilité et des Pouvoirs locaux,
+
+F. DESQUESNES
+
+Le Vice-Président et Ministre de l'Economie, de l'Industrie, du Numérique, de l'Emploi et de la Formation,
+
+P.-Y. JEHOLET
+
+Le Ministre de la Santé, de l'Environnement, des Solidarités et de l'Economie sociale,
+
+Y. COPPIETERS
+
+La Ministre de la Fonction publique, de la Simplification administrative et des Infrastructures sportives,
+
+J. GALANT
+
+La Ministre du Tourisme, du Patrimoine et de la Petite enfance,
+
+V. LESCRENIER
+
+La Ministre de l'Energie, du Plan Air-Climat, du Logement et des Aéroports,
+
+C. NEVEN
+
+La Ministre de l'Agriculture et de la Ruralité,
+
+A.-C. DALCQ
