@@ -1,0 +1,57 @@
+---
+title: "Décret modifiant les articles 2.10 et 2.11 du Code flamand du Logement de 2021, en ce qui concerne la définition d'immeubles inoccupés ayant servi principalement à une activité économique"
+identifier: "2021022370"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/22/2021022370/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2021-10-22
+published: 2021-11-22
+entry_into_force: 2021-12-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/22/2021022370/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 22 OCTOBRE 2021. - Décret modifiant les articles 2.10 et 2.11 du Code flamand du Logement de 2021, en ce qui concerne la définition d'immeubles inoccupés ayant servi principalement à une activité économique
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret modifiant les articles 2.10 et 2.11 du Code flamand du Logement de 2021, en ce qui concerne la définition d'immeubles inoccupés ayant servi principalement à une activité économique
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+A l'article 2.10, § 1, alinéa 1, du Code flamand du Logement de 2021, les modifications suivantes sont apportées :
+
+1° le premier alinéa, première phrase, est complété par les mots " ou pendant une période plus courte qui est fixée en application de l'alinéa quatre " ;
+
+2° il est ajouté un alinéa 4, rédigé comme suit :
+
+" Par le biais d'une ordonnance, une commune peut fixer une période plus courte telle que visée à l'alinéa premier pour les immeubles ayant servi principalement à une activité économique tels que visés à l'article 2, 2°, du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique. Cette période plus courte peut s'appliquer, moyennant une motivation soigneuse, à l'ensemble du territoire de la commune ou à des zones délimitées dans lesquelles la commune veut stimuler l'activité économique. ".
+
+## Art. 3
+
+L'article 2.11, alinéa premier, est complété par la phrase suivante :
+
+" Si une commune fixe une période plus courte en application de l'article 2.10, § 1, alinéa quatre, un bâtiment est radié du registre des immeubles inoccupés dans un délai qui ne dépasse pas la moitié de cette période plus courte. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 22 octobre 2021.
+
+Le Ministre-Président du Gouvernement flamand,
+
+J. JAMBON
+
+Le Ministre flamand des Finances et du Budget, du Logement et du Patrimoine immobilier,
+
+M. DIEPENDAELE

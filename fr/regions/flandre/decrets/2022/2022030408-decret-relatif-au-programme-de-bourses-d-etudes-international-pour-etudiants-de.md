@@ -1,0 +1,105 @@
+---
+title: "Décret relatif au programme de bourses d'études international pour étudiants de grand talent"
+identifier: "2022030408"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/14/2022030408/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2022-01-14
+published: 2022-02-28
+entry_into_force: 2022-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/14/2022030408/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 14 JANVIER 2022. - Décret relatif au programme de bourses d'études international pour étudiants de grand talent
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+DECRET relatif au programme de bourses d'études international pour étudiants de grand talent
+
+## Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## Art. 2
+
+Le Gouvernement flamand peut, dans le cadre d'un programme de bourses d'études international pour étudiants de grand talent, octroyer une bourse à des étudiants exceptionnellement talentueux afin de poursuivre leur parcours académique à l'étranger.
+
+Ce programme poursuit les objectifs suivants :
+
+1° supprimer pour les étudiants de grand talent la barrière financière qui pourrait les empêcher d'étudier dans les meilleurs établissements d'enseignement à l'étranger ;
+
+2° développer un réseau international d'étudiants et d'anciens élèves flamands talentueux dans divers domaines d'études ;
+
+3° renforcer davantage l'image de la Flandre à l'étranger.
+
+## Art. 3
+
+La bourse peut être octroyée aux conditions suivantes :
+
+1° le candidat a obtenu, au moment de l'octroi, un diplôme de master dans un établissement d'enseignement supérieur flamand ;
+
+2° la demande est introduite au plus tard trois ans après que le candidat a obtenu son dernier diplôme de master ;
+
+3° la demande porte sur un programme d'études de haute qualité dans un établissement d'enseignement étranger ;
+
+4° le candidat est en mesure de présenter d'excellents résultats d'études dans l'enseignement supérieur ;
+
+5° le candidat possède une excellente connaissance du néerlandais ;
+
+6° le candidat est, au moment de l'octroi, admis au programme d'études de l'établissement d'enseignement étranger pour lequel la bourse est demandée ;
+
+7° le candidat n'a pas reçu précédemment une bourse sur la base du présent décret et ne reçoit pas d'autre bourse pour le programme d'études.
+
+Les demandes sont évaluées sur la base des critères suivants :
+
+1° l'excellence académique du candidat ;
+
+2° le potentiel de leadership et le sens des responsabilités sociétales du candidat ;
+
+3° la mesure dans laquelle le candidat et ses motivations s'inscrivent dans les objectifs du programme visés à l'article 2, alinéa deux.
+
+Lors de l'évaluation des demandes, le Gouvernement flamand est assisté par un jury indépendant dont il détermine la composition et le fonctionnement.
+
+## Art. 4
+
+La bourse est octroyée à titre d'intervention dans les frais liés à un programme d'études à l'étranger.
+
+Le montant de l'intervention est déterminé sur la base de l'estimation des frais réels d'enseignement, de logement, de subsistance et de voyage.
+
+## Art. 5
+
+Le Gouvernement flamand fixe les modalités relatives aux aspects suivants :
+
+1° l'introduction de la demande ;
+
+2° l'évaluation de la demande ;
+
+3° l'octroi de la bourse ;
+
+4° le montant de l'intervention ;
+
+5° le paiement ;
+
+6° la justification et le contrôle de l'utilisation de l'intervention.
+
+## Art. 6
+
+Le présent décret entre en vigueur le 1er janvier 2022.
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 14 janvier 2022.
+
+Le Ministre-Président du Gouvernement flamand,
+
+le Ministre flamand des Affaires étrangères, de la Culture, de la Numérisation et de la Gestion facilitaire,
+
+J. JAMBON

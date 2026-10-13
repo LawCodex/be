@@ -1,0 +1,405 @@
+---
+title: "Décret contenant des mesures urgentes dans le domaine de l'enseignement à la suite de la crise ukrainienne et modifiant le décret du 15 juin 2007 relatif à l'éducation des adultes pour les élèves et les étudiants relevant de la directive 2001/55/CE du Conseil du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil - (II)"
+identifier: "2022032561"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/03/2022032561/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2022-06-03
+published: 2022-06-30
+entry_into_force: 2022-03-04
+last_amended: 2025-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/03/2022032561/justel"
+department: "Autorité flamande"
+justel_note: "Consultation des versions antérieures à partir du 30-06-2022 et mise à jour au 30-12-2025"
+retrieved: 2026-10-12
+---
+
+# 3 JUIN 2022. - Décret contenant des mesures urgentes dans le domaine de l'enseignement à la suite de la crise ukrainienne et modifiant le décret du 15 juin 2007 relatif à l'éducation des adultes pour les élèves et les étudiants relevant de la directive 2001/55/CE du Conseil du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil - (II)
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret contenant des mesures urgentes dans le domaine de l'enseignement à la suite de la crise ukrainienne et modifiant le décret du 15 juin 2007 relatif à l'éducation des adultes pour les élèves et les étudiants relevant de la directive 2001/55/CE du Conseil du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil (II)
+
+## CHAPITRE 1er. - Disposition introductive
+
+#### Art. 1er
+
+Le présent décret règle une matière communautaire.
+
+## CHAPITRE 2. - Soutien de l'enseignement à domicile par les administrations locales
+
+#### Art. 2
+
+Le Gouvernement flamand peut accorder une subvention aux administrations locales pour la facilitation et le soutien de l'enseignement à domicile suivi par les jeunes enfants et les élèves soumis à l'obligation scolaire, visés aux articles 23 et 35, relevant d'une décision d'exécution de la directive 2001/55/CE du Conseil du 20 juillet 2001 pendant la période du 4 mars 2022 au 30 juin 2022, dans les limites des moyens disponibles.
+
+Seules les administrations locales qui reçoivent également une subvention en application de l'article 7 de l'arrêté du Gouvernement flamand du 8 avril 2022 portant octroi d'une subvention aux administrations locales pour le développement de capacité d'accueil pour les personnes temporairement déplacées en provenance d'Ukraine, modifiant divers arrêtés du Gouvernement flamand et abrogeant l'arrêté du Gouvernement flamand du 14 mars 2022 portant octroi d'une subvention aux administrations locales pour la création de places d'accueil supplémentaires pour les personnes temporairement déplacées en provenance d'Ukraine, sont éligibles à la subvention visée à l'alinéa premier.
+
+Le soutien de l'enseignement à domicile par l'administration locale est gratuit pour les jeunes enfants et les élèves soumis à l'obligation scolaire, visés à l'alinéa premier.
+
+La subvention est affectée aux frais de fonctionnement et de personnel, à la facilitation et au soutien de l'enseignement à domicile, et à l'équipement des locaux.
+
+Le déploiement de membres du personnel se fait conformément aux dispositions légales ou décrétales applicables à la relation de travail entre les administrations locales et les membres du personnel concernés.
+
+Pour la facilitation et le soutien de l'enseignement à domicile, les administrations locales peuvent coopérer avec des établissements d'enseignement et d'autres organisations susceptibles d'apporter un soutien significatif.
+
+#### Art. 3
+
+L'administration locale reçoit, pour chaque jeune enfant ou élève soumis à l'obligation scolaire participant pour lequel elle facilite ou soutient l'enseignement à domicile, un montant de subvention forfaitaire de 22,5 euros par demi-journée de classe pour les frais visés à l'article 2.
+
+#### Art. 4
+
+Au plus tard le 31 août 2022, l'administration locale introduit un dossier de subvention numérique pour le soutien et la facilitation de l'enseignement à domicile, auprès du service compétent du Ministère flamand de l'Enseignement et de la Formation.
+
+Le dossier, visé à l'alinéa premier, comprend au moins les éléments suivants :
+
+1° les données d'identification de l'administration locale, des établissements d'enseignement ou d'autres institutions et organisations avec lesquelles l'organisateur coopère pour l'organisation de l'offre d'enseignement ;
+
+2° les données financières de l'administration locale qui introduit le dossier de subvention ;
+
+3° l'endroit où l'offre d'enseignement est organisée ;
+
+4° par demi-journée de classe commencée, le nombre de jeunes enfants et d'élèves qui participent, ventilé par niveau d'enseignement ;
+
+5° une déclaration sur l'honneur attestant que les jeunes enfants et élèves visés au point 4° ne sont pas en même temps inscrits dans l'enseignement agréé.
+
+#### Art. 5
+
+Le service compétent du Ministère flamand de l'Enseignement et de la Formation évalue tous les dossiers de subvention sur la base des critères suivants :
+
+1° le dossier a été introduit en temps utile ;
+
+2° le dossier est rédigé en néerlandais ;
+
+3° le dossier contient tous les éléments visés à l'article 4.
+
+Le service compétent du Ministère de l'Enseignement et de la Formation évalue les dossiers de subvention et soumet son évaluation au Gouvernement flamand, qui décide de l'approbation des dossiers de subvention. Dans le cadre de cette décision, le Gouvernement flamand détermine l'octroi ultérieur de la subvention et les modalités de paiement.
+
+Tous les dossiers de subvention approuvés sont éligibles à une subvention de projet.
+
+#### Art. 6
+
+La subvention est payée à l'issue de la période de subvention sur la base des nombres d'élèves effectifs et du nombre de jours de classe suivis. La subvention payée ne peut pas dépasser celle demandée à l'article 4.
+
+#### Art. 7
+
+Chaque administration locale qui reçoit une subvention dans le cadre du soutien et de la facilitation de l'enseignement à domicile telle que visée à l'article 2, est responsable de l'organisation d'une offre d'enseignement de qualité.
+
+#### Art. 8
+
+Le suivi administratif des projets est assuré par le service compétent du Ministère de l'Enseignement et de la Formation.
+
+## CHAPITRE 3. - Offre d'été
+
+#### Art. 9
+
+Le Gouvernement flamand peut accorder une subvention aux écoles de l'enseignement fondamental ou secondaire et aux administrations locales pour l'organisation, pendant les vacances d'été de 2022, d'une offre d'été pour les jeunes enfants et les élèves soumis à l'obligation scolaire qui relèvent d'une décision d'exécution du Conseil de l'Union européenne constatant l'existence d'un afflux massif de personnes déplacées au sens de l'article 5 de la directive 2001/55/CE, et ayant pour effet d'introduire une protection temporaire, dans les limites des moyens disponibles.
+
+Une offre d'été comprend une offre variée et ciblée d'activités d'enseignement et de loisirs, qui vise à travailler sur les compétences générales ou les besoins spécifiques des élèves.
+
+Une offre d'été dure soit dix jours entiers ou vingt demi-journées, soit cinq jours entiers ou dix demi-journées.
+
+L'offre d'été est gratuite pour les élèves, et ceux-ci y participent sur une base volontaire.
+
+Le déploiement de membres du personnel dans le cadre d'une offre d'été se fait conformément aux dispositions légales ou décrétales applicables à la relation de travail entre l'école ou l'administration locale organisant une offre d'été et le membre du personnel concerné. Le membre du personnel concerné donne son accord explicite.
+
+#### Art. 10
+
+Pour l'organisation d'une offre d'été, les écoles de l'enseignement fondamental et secondaire ou les administrations locales peuvent coopérer entre elles ou avec des établissements de l'éducation des adultes, des établissements d'enseignement supérieur ou d'autres organisations.
+
+Les administrations locales peuvent assumer un rôle de régisseur pour l'organisation d'une offre d'été à l'égard d'au moins deux écoles de l'enseignement fondamental ou secondaire. Les administrations locales peuvent coopérer entre elles aux fins de ce rôle de régisseur. Ce rôle comprend au moins les tâches suivantes :
+
+1° offrir du soutien aux écoles concernées lors de l'organisation d'une offre d'été locale. Ce soutien peut comprendre les missions suivantes :
+
+a) chercher des organisations qui aident à concrétiser l'offre d'été ;
+
+b) mettre à disposition une infrastructure, du matériel didactique ou tout autre matériel pour organiser l'offre d'été ;
+
+2° assurer la coordination entre les initiatives locales de l'offre d'été ;
+
+3° introduire un dossier de subvention conjoint pour l'offre d'été organisée localement et en assurer le traitement administratif ;
+
+4° assurer l'orientation des élèves vers l'offre d'été ;
+
+5° informer les élèves, leurs parents et éventuellement d'autres organisations concernées sur l'offre d'été locale ;
+
+6° assurer la communication sur l'offre d'été locale.
+
+#### Art. 11
+
+§ 1er. L'école de l'enseignement fondamental ou secondaire ou l'administration locale qui organise une offre d'été reçoit un montant de subvention forfaitaire de 22,5 euros maximum par élève participant et par demi-journée pour les frais liés à l'organisation d'une offre d'activités d'enseignement et de loisirs.
+
+Si des écoles de l'enseignement fondamental ou secondaire ou des administrations locales coopèrent entre elles pour organiser une offre d'été, l'école ou l'administration locale qui introduit le dossier de subvention reçoit le montant de subvention forfaitaire, visé au premier alinéa.
+
+Une administration locale qui assume un rôle de régisseur pour l'organisation d'une offre d'été reçoit, en plus du montant de subvention forfaitaire, visé au premier alinéa, un montant de subvention forfaitaire de 20 euros maximum par élève participant pour toute la durée de l'offre d'été, pour les frais liés à l'acceptation du rôle de régisseur.
+
+Une école organisatrice qui ne fait pas appel au rôle de régisseur d'une administration locale reçoit, en plus du montant de subvention forfaitaire, visé au premier alinéa, un montant de subvention forfaitaire de 5 euros maximum par élève participant pour toute la durée de l'offre d'été, pour les frais généraux.
+
+§ 2. Les écoles de l'enseignement fondamental ou secondaire ou les administrations locales qui coopèrent entre elles ou avec d'autres établissements ou organisations, ou qui assument un rôle de régisseur, peuvent conclure entre elles des accords sur la répartition interne et l'affectation des montants de subvention visés au paragraphe 1er.
+
+#### Art. 12
+
+Au plus tard le [<sup>1</sup> 30 septembre 2022]<sup>1</sup>, l'école de l'enseignement fondamental ou secondaire ou l'administration locale introduit par voie numérique un dossier de subvention pour l'organisation d'une offre d'été, auprès du service compétent de l'Autorité flamande.
+
+Le dossier de subvention, visé à l'alinéa premier, comprend au moins les éléments suivants :
+
+1° les données d'identification et financières de l'école ou de l'administration locale qui organise l'offre d'été ;
+
+2° le cas échéant, les données d'identification des administrations locales, des écoles ou des autres institutions et organisations avec lesquels l'organisateur coopère pour l'organisation d'une offre d'été ;
+
+3° le cas échéant, les données d'identification et financières de l'administration locale qui assume un rôle de régisseur pour l'organisation d'une offre d'été, ainsi que les données d'identification et financières des écoles pour lesquelles elle assume le rôle de régisseur ;
+
+4° le nombre de fois qu'une offre d'été est organisée et la durée de chaque offre d'été, conformément à l'article 9, alinéa trois ;
+
+5° le nombre d'élèves qui ont participé à l'offre d'été.
+
+----------
+
+(1)&lt;DCFL 2022-12-23/04, art. 19, 003; En vigueur : 31-08-2022&gt;
+
+#### Art. 13
+
+Le service compétent de l'Autorité flamande évalue les dossiers de subvention à l'aide des critères suivants :
+
+1° le dossier a été introduit en temps utile ;
+
+2° le dossier est rédigé en néerlandais ;
+
+3° le dossier contient tous les éléments visés à l'article 12.
+
+Le service compétent de l'Autorité flamande soumet les dossiers de subvention au Gouvernement flamand, qui décide de l'approbation des dossiers de subvention. Dans le cadre de cette décision, le Gouvernement flamand détermine l'octroi ultérieur de la subvention et les modalités de paiement.
+
+Tous les dossiers de subvention approuvés sont éligibles à une subvention de projet.
+
+#### Art. 14
+
+La subvention est payée à l'issue de la période de subvention sur la base des nombres d'élèves effectifs.
+
+#### Art. 15
+
+Chaque école ou administration locale qui reçoit une subvention dans le cadre de l'organisation d'une offre d'été telle que visée à l'article 9 est responsable de l'organisation d'une offre d'été de qualité.
+
+#### Art. 16
+
+Le service compétent de l'Autorité flamande assure le suivi administratif des projets.
+
+## CHAPITRE 4.
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 17
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 18
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 19
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+## CHAPITRE 5.
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 20
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 21
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 22
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+## CHAPITRE 6. - Dérogations au décret du 25 février 1997 relatif à l'enseignement fondamental
+
+#### Art. 23
+
+En complément de l'article 3, 24°, du décret du 25 février 1997 relatif à l'enseignement fondamental, on entend également par enseignement à domicile l'enseignement facilité et soutenu par les administrations locales qui disposent sur leur territoire d'un village d'urgence tel que visé à l'article 2, et qui est dispensé à un enfant qui n'est pas encore soumis à l'obligation scolaire, a atteint l'âge de 2 ans et 6 mois et relève d'une décision d'exécution de la directive 2001/55/CE du Conseil du 20 juillet 2001, ou qui est dispensé à un élève soumis à l'obligation scolaire qui relève d'une décision d'exécution de la directive 2001/55/CE du Conseil du 20 juillet 2001. Suivre l'enseignement à domicile implique immédiatement qu'une inscription simultanée dans l'enseignement agréé n'est pas possible.
+
+#### Art. 24
+
+Par dérogation à l'article 26bis/1 du même décret, le délai d'introduction d'une déclaration d'enseignement à domicile assortie d'informations afférentes à l'enseignement à domicile auprès des services compétents de la Communauté flamande ne s'applique pas à l'enseignement à domicile organisé pour des enfants relevant d'une décision d'exécution du Conseil de l'Union européenne constatant l'existence d'un afflux massif de personnes déplacées au sens de l'article 5 de la directive 2001/55/CE, et ayant pour effet d'introduire une protection temporaire. Pour ces enfants, une déclaration d'enseignement à domicile assortie d'informations afférentes à l'enseignement à domicile peut être introduite à tout moment auprès des services compétents de la Communauté flamande.
+
+Sans préjudice de l'application de l'alinéa premier et par dérogation à l'article 26bis/1 du même décret, l'enseignement à domicile facilité et soutenu par l'administration locale, visé à l'article 2, est soumis aux conditions suivantes :
+
+1° la déclaration d'enseignement à domicile assortie d'informations afférentes à l'enseignement à domicile est également introduite pour les enfants qui ne sont pas encore soumis à l'obligation scolaire ;
+
+2° l'administration locale introduit la déclaration d'enseignement à domicile assortie d'informations afférentes à l'enseignement à domicile pour chaque enfant pour lequel l'administration locale reçoit des subventions telles que visées à l'article 2, afin de soutenir et de faciliter l'enseignement à domicile ;
+
+3° la déclaration d'enseignement à domicile assortie d'informations ne contient que les informations afférentes à l'enseignement à domicile visées à l'article 26bis/1, § 1er, alinéa deux, 1°, du même décret, à l'exception des données personnelles des parents, ainsi que les informations visées à l'article 26bis/1, § 1er, alinéa deux, 4° du même décret.
+
+#### Art. 25
+
+Les articles 26bis/2 à 26quater du même décret ne s'appliquent pas à l'enseignement à domicile organisé pour les enfants relevant d'une décision d'exécution du Conseil de l'Union européenne constatant l'existence d'un afflux massif de personnes déplacées au sens de l'article 5 de la directive 2001/55/CE, et ayant pour effet d'introduire une protection temporaire.
+
+#### Art. 26
+
+Par dérogation à l'article 37novies, § 4, et en complément de l'article 37novies, § 5, 1°, du même décret, une autorité scolaire peut néanmoins procéder à une inscription en vue de l'admission d'élèves qui répondent à la définition d'un primo-arrivant allophone dans l'enseignement spécial, visé à l'article 3, 4° quater, du même décret, à l'exception des conditions d'âge visées à l'article 3, 4° quater, a), du même décret.
+
+#### Art. 27
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 85, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 28
+
+&lt;Abrogé par DCFL 2023-05-05/07, art. 189, 004; En vigueur : 02-08-2023&gt;
+
+## CHAPITRE 7. - Dérogations et modifications du décret du 15 juin 2007 relatif à l'éducation des adultes
+
+### Section 1re. - Dérogations et additions au décret du 15 juin 2007 relatif à l'éducation des adultes
+
+#### Art. 29
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 85, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 30
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 85, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 31
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 85, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 32
+
+En complément de l'article 196sexies, § 1er, alinéa sept, du même décret, les centres d'éducation des adultes peuvent, moyennant l'accord préalable au sein du comité local compétent, convertir les périodes/enseignant octroyées à charge de l'année budgétaire 2022 en moyens de fonctionnement pour des recrutements contractuels. Pour la conversion, une période/enseignant compte pour 62,39 euros.[<sup>1</sup> Au plus tard deux mois après la notification à l'Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes des périodes-enseignant à convertir pour le recrutement de membres du personnel contractuels, 80 pour cent de ces moyens de fonctionnement convertis sont payés aux centres à titre d'avance. Le solde restant de 20 pour cent sera payé au plus tard le 31 décembre 2022. Le centre prouve tous les moyens utilisés à l'aide de factures ou des paiements qui ont été effectués dans le cadre de ces désignations contractuelles]<sup>1</sup> . Les moyens non utilisés seront restitués après la fin de l'année calendaire 2022. A cette fin, le centre communique le montant non utilisé à l'administration compétente.
+
+----------
+
+(1)&lt;DCFL 2022-07-15/11, art. 19, 002; En vigueur : 01-07-2022&gt;
+
+### Section 2. - Modification du décret du 15 juin 2007 relatif à l'éducation des adultes
+
+#### Art. 33
+
+Dans l'article 113novies, § 4, du décret du 15 juin 2007 relatif à l'éducation des adultes, inséré par le décret du 16 mars 2018 et modifié par les décrets des 5 avril 2019, 3 juillet 2020 et 9 juillet 2021, il est inséré un point 3° bis, rédigé comme suit :
+
+" 3° bis au moment de l'inscription, bénéficier de la protection temporaire en exécution de la directive 2001/55/CE du Conseil de l'Union Européenne du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil ; " ;
+
+## CHAPITRE 8. - Dérogation au décret du 20 février 2009 relatif à la " Hogere Zeevaartschool "
+
+#### Art. 34
+
+Par dérogation à l'article 2 du décret du 20 février 2009 relatif à la " Hogere Zeevaartschool ", le Gouvernement flamand peut, dans les limites des moyens disponibles, accorder une allocation de fonctionnement ou de projet supplémentaire à la " Hogere Zeevaartschool " en 2022 et 2023 pour soutenir la prestation de services aux étudiants qui relèvent d'une décision d'exécution du Conseil de l'Union européenne constatant l'existence d'un afflux massif de personnes déplacées au sens de l'article 5 de la directive 2001/55/CE, et ayant pour effet d'introduire une protection temporaire. Le Gouvernement flamand détermine la répartition de ces moyens supplémentaires et en fixe l'affectation.
+
+## CHAPITRE 9. - Dérogations au Code de l'Enseignement secondaire du 17 décembre 2010
+
+#### Art. 35
+
+En complément de l'article 3, 15° /1, du Code de l'Enseignement secondaire du 17 décembre 2010, on entend également par enseignement à domicile l'enseignement, visé à l'article 2, facilité et soutenu par les administrations locales qui disposent sur leur territoire d'un village d'urgence, et qui est dispensé à un enfant qui n'est pas encore soumis à l'obligation scolaire, a atteint l'âge de 2 ans et 6 mois et relève d'une décision d'exécution de la directive 2001/55/CE du Conseil du 20 juillet 2001, ou qui est dispensé à un élève soumis à l'obligation scolaire qui relève d'une décision d'exécution de la directive 2001/55/CE du Conseil du 20 juillet 2001. Suivre l'enseignement à domicile implique immédiatement qu'une inscription simultanée dans l'enseignement agréé n'est pas possible.
+
+#### Art. 36
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 85, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 37
+
+En complément de l'article 110/9, § 6 et § 8 du même code, le cas échéant, en cas de dépassement d'une capacité fixée ou après la déclaration d'occupation complète, une autorité scolaire peut néanmoins procéder à une inscription pour l'admission d'élèves qui répondent à la définition de primo-arrivant allophone dans l'enseignement spécial tel que visé à l'article 3, 2° /1 du même code, à l'exception de l'exigence que ces élèves suivent les cours dans l'enseignement secondaire ordinaire à temps plein ou l'enseignement secondaire professionnel à temps partiel.
+
+#### Art. 38
+
+Par dérogation à l'article 110/29, § 1er, du même code, le délai d'introduction d'une déclaration d'enseignement à domicile assortie d'informations afférentes à l'enseignement à domicile auprès des services compétents de la Communauté flamande ne s'applique pas à l'enseignement à domicile organisé pour des enfants relevant d'une décision d'exécution du Conseil de l'Union européenne constatant l'existence d'un afflux massif de personnes déplacées au sens de l'article 5 de la directive 2001/55/CE, et ayant pour effet d'introduire une protection temporaire. Pour ces enfants, une déclaration d'enseignement à domicile assortie d'informations afférentes à l'enseignement à domicile peut être introduite à tout moment auprès des services compétents de la Communauté flamande.
+
+Sans préjudice de l'application du premier alinéa et par dérogation à l'article 110/29 du même code, l'enseignement à domicile visé à l'article 2, qui est facilité et soutenu par l'administration locale, est soumis aux conditions suivantes :
+
+1° la déclaration d'enseignement à domicile assortie d'informations afférentes à l'enseignement à domicile est également introduite pour les enfants qui ne sont pas encore soumis à l'obligation scolaire ;
+
+2° l'administration locale introduit la déclaration d'enseignement à domicile assortie d'informations afférentes à l'enseignement à domicile pour chaque enfant pour lequel l'administration locale reçoit des subventions telles que visées à l'article 2, afin de soutenir et de faciliter l'enseignement à domicile ;
+
+3° la déclaration d'enseignement à domicile ne contient que les informations afférentes à l'enseignement à domicile visées à l'article 110/29, § 1er, alinéa premier, 1°, du même code, à l'exception des données personnelles des parents, ainsi que les informations afférentes, visées à l'article 110/29, § 1er, alinéa premier, 4° du même code.
+
+#### Art. 39
+
+Les articles 110/30 à 110/32 du même code ne s'appliquent pas à l'enseignement à domicile organisé pour les enfants relevant d'une décision d'exécution du Conseil de l'Union européenne constatant l'existence d'un afflux massif de personnes déplacées au sens de l'article 5 de la directive 2001/55/CE, et ayant pour effet d'introduire une protection temporaire.
+
+#### Art. 40
+
+&lt;Abrogé par DCFL 2023-05-05/07, art. 190, 004; En vigueur : 02-08-2023&gt;
+
+## CHAPITRE 10. - Dérogation au Code de l'Enseignement supérieur du 11 octobre 2013
+
+#### Art. 41
+
+Par dérogation à l'article III.25 du Code de l'Enseignement supérieur du 11 octobre 2013, le Gouvernement flamand peut, dans les limites des moyens disponibles, accorder une allocation de fonctionnement ou de projet supplémentaire aux instituts supérieurs et aux universités en 2[<sup>1</sup> 2023 et 2024]<sup>1</sup> pour soutenir la prestation de services aux étudiants qui relèvent d'une décision d'exécution du Conseil de l'Union européenne constatant l'existence d'un afflux massif de personnes déplacées au sens de l'article 5 de la directive 2001/55/CE, et ayant pour effet d'introduire une protection temporaire. Le Gouvernement flamand détermine la répartition de ces moyens supplémentaires entre les instituts supérieurs et les universités et en fixe l'affectation.
+
+----------
+
+(1)&lt;DCFL 2023-07-07/04, art. 9, 005; En vigueur : 01-09-2023&gt;
+
+## CHAPITRE 11.
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 42
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 86, 006; En vigueur : 01-09-2024&gt;
+
+## CHAPITRE 12. - Dérogations au décret du 27 avril 2018 relatif à l'encadrement des élèves dans l'enseignement fondamental, l'enseignement secondaire et dans les centres d'encadrement des élèves
+
+#### Art. 43
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 87, 006; En vigueur : 01-09-2024&gt;
+
+#### Art. 44
+
+&lt;Abrogé par DCFL 2025-12-19/56, art. 112, 007; En vigueur : 01-01-2026&gt;
+
+#### Art. 45
+
+&lt;Abrogé par DCFL 2025-12-19/56, art. 112, 007; En vigueur : 01-01-2026&gt;
+
+## Chapitre 12/1. [<sup>1</sup> Dérogations au décret du 5 mai 2023 relatif au soutien à l'apprentissage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-05-05/07, art. 191, 004; En vigueur : 02-08-2023&gt;
+
+#### Art. 45/1.
+
+&lt;Abrogé par DCFL 2025-12-19/56, art. 112, 007; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 13. - Entrée en vigueur et champ d'application dans le temps
+
+#### Art. 46
+
+Les articles 1, 32, 34, 41 et 46 entrent en vigueur le jour suivant leur publication au Moniteur belge.
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>.
+
+L'article 44 entre en vigueur dix jours après sa publication au Moniteur belge.
+
+Les articles 2, 3, 4, 5, 6, 7, 8, 23, 33 et 35 produisent leurs effets le 4 mars 2022.
+
+Les articles 24, 25, 26, 37, 38 et 39 produisent leurs effets le 4 mars 2022 et cessent d'être en vigueur à la fin de l'année scolaire dans laquelle une décision d'exécution du Conseil de l'Union européenne constatant l'existence d'un afflux massif de personnes déplacées au sens de l'article 5 de la directive 2001/55/CE, et ayant pour effet d'introduire une protection temporaire, est en vigueur.
+
+Les articles 17, 18, 19, 20, 21, 22, 27, 29, 30, 31, 36, 42 et 43 produisent leurs effets le 1er juin 2022.
+
+Les articles 9, 10, 11, 12, 13, 14, 15 et 16 entrent en vigueur le 1er juillet 2022.
+
+----------
+
+(1)&lt;DCFL 2023-05-05/07, art. 193, 004; En vigueur : 02-08-2023&gt;
+
+(2)&lt;DCFL 2025-12-19/56, art. 113, 007; En vigueur : 01-01-2026&gt;
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 3 juin 2022.
+
+Le Ministre-Président du Gouvernement flamand,
+
+J. JAMBON
+
+Le Ministre flamand de l'Enseignement, des Sports, du Bien-être des Animaux et du Vlaamse Rand,
+
+B. WEYTS

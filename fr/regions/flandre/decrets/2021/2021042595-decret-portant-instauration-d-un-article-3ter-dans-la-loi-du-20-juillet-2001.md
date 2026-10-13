@@ -1,0 +1,59 @@
+---
+title: "Décret portant instauration d'un article 3ter dans la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité"
+identifier: "2021042595"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021042595/justel"
+type: decree
+justel_type: "DECRET CONSEIL FLAMAND"
+jurisdiction: be
+region: flandre
+language: fr
+date: 2021-06-18
+published: 2021-07-09
+entry_into_force: 2021-07-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021042595/justel"
+department: "Autorité flamande"
+retrieved: 2026-10-12
+---
+
+# 18 JUIN 2021. - Décret portant instauration d'un article 3ter dans la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+
+Décret portant instauration d'un article 3ter dans la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité
+
+## Art. 1er
+
+Le présent décret règle une matière régionale.
+
+## Art. 2
+
+Dans la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité, modifié en dernier lieu par le décret du 29 mars 2019, il est inséré un article 3ter, rédigé comme suit :
+
+" Art. 3ter. La personne physique ayant sa résidence principale en Région flamande peut être exclue du droit de commander et d'utiliser des titres-services pour une période d'un an au maximum et peut être contrainte de rembourser l'intervention visée à l'article 3, alinéa 5, si elle a enfreint les mesures de sécurité pour faire face à une urgence civile en matière de santé publique, visées à l'article 4, § 1er, alinéa 1er, 1°, du décret du 20 mars 2020 contenant des mesures en cas d'urgence civile en matière de santé publique. Le Gouvernement flamand détermine quelles sont ces mesures de sécurité.
+
+En cas de récidive, la période d'exclusion, visée à l'alinéa 1er, est de cinq ans au maximum.
+
+L'exclusion et sa durée sont proportionnées à la gravité de l'infraction. La décision d'exclusion mentionne les éléments pertinents. Au moins les éléments suivants sont pris en considération :
+
+1° la nature de l'infraction ;
+
+2° l'intention dans le chef de l'utilisateur ;
+
+3° l'ampleur de l'infraction ;
+
+4° la durée de l'infraction. ".
+
+---
+
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+
+Bruxelles, le 18 juin 2021.
+
+Le Ministre-Président du Gouvernement flamand,
+
+J. JAMBON
+
+La Ministre flamande de l'Economie, de l'Innovation, de l'Emploi, de l'Economie sociale et de l'Agriculture,
+
+H. CREVITS
